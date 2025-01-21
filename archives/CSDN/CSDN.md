@@ -101,3 +101,13 @@
 
 + [用Python实现SVM搭建金融反诈模型（含调试运行）](https://blog.csdn.net/ALISHENGYA/article/details/145249353)
 
++ [GAN - 生成对抗网络：生成新的数据样本](https://blog.csdn.net/2301_80840905/article/details/145273937)
+
++ [Python新春烟花](https://blog.csdn.net/m0_68111267/article/details/145254338)
+
++ [MySQL 实战 4 种将数据同步到ES方案](https://blog.csdn.net/m0_74825656/article/details/145270443)
+
++ [群晖Cloud Sync如何实现一键同步备份让数据更安全高效](https://blog.csdn.net/u010726809/article/details/145261988)
+
++ [网络安全VS数据安全](https://blog.csdn.net/HWP18612324139/article/details/145124986)
+
