@@ -201,3 +201,9 @@
 
 + [TypeScript - 利用GPT辅助学习](https://blog.csdn.net/m0_74154295/article/details/145271260)
 
++ [成就与远见：2024年技术与思维的升华](https://blog.csdn.net/Cayyyy/article/details/145269759)
+
++ [基于数据可视化+SpringBoot+Vue的城市宾馆预定系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/145268466)
+
++ [MySQL 实战 4 种将数据同步到ES方案](https://blog.csdn.net/m0_74825656/article/details/145270443)
+

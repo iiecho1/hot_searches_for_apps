@@ -45,3 +45,5 @@
 
 + [DeepSeek-R1 对标 OpenAI-o1 模型开源了](https://www.v2ex.com/t/1106607)
 
++ [感觉 到 2030 后 华语要断层了,没什么新歌听了](https://www.v2ex.com/t/1106768)
+
