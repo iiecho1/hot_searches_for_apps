@@ -183,3 +183,11 @@
 
 + [特朗普宣誓就任美国总统](https://photo.cctv.com/2025/01/21/PHOAVLOUxDB7UKEa8lGuIx96250121.shtml)
 
++ [跨越万里的文化交融——记在赞比亚举办的春节庙会](https://news.cctv.com/2025/01/21/ARTIEOEdMg0FXFBbfg2OL0xt250121.shtml)
+
++ [中领馆提醒注意春节期间中蒙边境公路口岸闭关安排，提前规划出行](https://news.cctv.com/2025/01/21/ARTIa5w0jhDXVhClWYD4lS6W250121.shtml)
+
++ [入境申报、安全意识、高风险旅游项目，中国驻新西兰使馆发布春节出行提示](https://news.cctv.com/2025/01/21/ARTIFmmLwjeHLZTjYZmNhVVs250121.shtml)
+
++ [特朗普签署行政令要求调查拜登政府滥用执法及情报机构情况](https://news.cctv.com/2025/01/21/ARTI7DZT7hbasOsOhKAtoArg250121.shtml)
+

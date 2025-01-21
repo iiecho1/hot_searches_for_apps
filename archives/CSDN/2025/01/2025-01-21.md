@@ -133,3 +133,11 @@
 
 + [SpringCloud系列教程：微服务的未来（十四）网关登录校验、自定义过滤器GlobalFilter、GatawayFilter](https://blog.csdn.net/m0_63267251/article/details/145246693)
 
++ [【大模型】ChatGPT 高效处理图片技巧使用详解](https://blog.csdn.net/zhangcongyi420/article/details/144640254)
+
++ [【博客之星2024年度总评选】年度回望：我的博客之路与星光熠熠](https://blog.csdn.net/Morse_Chen/article/details/145238798)
+
++ [2025三掌柜赠书活动第四期：AI原生应用开发提示工程原理与实战](https://blog.csdn.net/CC1991_/article/details/145263457)
+
++ [HTML之拜年/跨年APP（改进版）](https://blog.csdn.net/2301_79368222/article/details/145255301)
+
