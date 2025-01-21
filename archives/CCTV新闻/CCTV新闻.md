@@ -217,3 +217,7 @@
 
 + [久违的拥抱](https://photo.cctv.com/2025/01/21/PHOAvO1GUf4oL3F4uPJpGsKz250121.shtml)
 
++ [“汉语热”又起，哪国人最爱学中文？](https://news.cctv.com/2025/01/21/ARTInNqsloVSszJCPSCmW6GB250121.shtml)
+
++ [土耳其一滑雪度假区酒店发生火灾 已致66人死亡](https://news.cctv.com/2025/01/21/ARTICoGVlo2kjEAWPfy86J3y250121.shtml)
+

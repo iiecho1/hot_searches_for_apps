@@ -193,3 +193,11 @@
 
 + [Android系统开发（八）：从麦克风到扬声器，音频HAL框架的奇妙之旅](https://blog.csdn.net/bryant_liu24/article/details/145232367)
 
++ [数据挖掘实战-基于LDA主题分析+文本分析的医学论文分类研究](https://blog.csdn.net/m0_64336780/article/details/145284762)
+
++ [基于Springboot + vue实现的贸易行业crm系统](https://blog.csdn.net/weixin_67874152/article/details/145271246)
+
++ [2024年美赛C题评委文章及O奖论文解读 | AI工具如何影响数学建模？从评委和O奖论文出发-O奖论文做对了什么？](https://blog.csdn.net/m0_51311105/article/details/145260272)
+
++ [TypeScript - 利用GPT辅助学习](https://blog.csdn.net/m0_74154295/article/details/145271260)
+
