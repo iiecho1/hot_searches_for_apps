@@ -191,3 +191,5 @@
 
 + [谈一谈前端构建工具的本地代理配置（Webpack与Vite）](https://blog.csdn.net/qq278672818/article/details/145271903)
 
++ [Android系统开发（八）：从麦克风到扬声器，音频HAL框架的奇妙之旅](https://blog.csdn.net/bryant_liu24/article/details/145232367)
+
