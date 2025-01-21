@@ -125,3 +125,11 @@
 
 + [【2025】拥抱未来 砥砺前行](https://blog.csdn.net/weixin_42794881/article/details/145268958)
 
++ [x86_64编译ARM交叉编译LED汇编程序](https://blog.csdn.net/m0_45463480/article/details/145222716)
+
++ [简述mysql 主从复制原理及其工作过程，配置一主两从并验证。](https://blog.csdn.net/2301_77950376/article/details/145244477)
+
++ [iDP3的训练与部署代码解析——同一套策略控制各种机器人：包含我司对iDP3的通用化改写](https://blog.csdn.net/v_JULY_v/article/details/145260121)
+
++ [SpringCloud系列教程：微服务的未来（十四）网关登录校验、自定义过滤器GlobalFilter、GatawayFilter](https://blog.csdn.net/m0_63267251/article/details/145246693)
+
