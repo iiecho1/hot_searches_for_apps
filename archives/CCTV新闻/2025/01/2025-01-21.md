@@ -221,3 +221,11 @@
 
 + [土耳其一滑雪度假区酒店发生火灾 已致66人死亡](https://news.cctv.com/2025/01/21/ARTICoGVlo2kjEAWPfy86J3y250121.shtml)
 
++ [尹锡悦出席弹劾案辩论 否认紧急戒严相关指控](https://news.cctv.com/2025/01/21/ARTIKc2YrH3JQQqhsSFqDtK4250121.shtml)
+
++ [特朗普重返白宫 多项政策受质疑](https://news.cctv.com/2025/01/21/ARTITIr5LDOzJ5O1W20kF2To250121.shtml)
+
++ [世卫组织回应特朗普宣布“退群”：希望美国重新考虑](https://news.cctv.com/2025/01/21/ARTIIlwMxmjweH1g6l2gwPWd250121.shtml)
+
++ [土耳其司法部长：已拘留4名涉滑雪度假区酒店火灾案人员](https://news.cctv.com/2025/01/21/ARTIdcy8mAVlHviuNslAX8g4250121.shtml)
+

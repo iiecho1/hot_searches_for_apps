@@ -207,3 +207,7 @@
 
 + [MySQL 实战 4 种将数据同步到ES方案](https://blog.csdn.net/m0_74825656/article/details/145270443)
 
++ [RBF神经网络的硬件实现](https://blog.csdn.net/ashyyyy/article/details/145265036)
+
++ [【Nacos】Nacos快速上手](https://blog.csdn.net/2202_75555590/article/details/145281383)
+
