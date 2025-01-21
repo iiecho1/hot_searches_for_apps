@@ -211,3 +211,7 @@
 
 + [土耳其内政部长：滑雪度假区酒店火灾已致10死32伤](https://news.cctv.com/2025/01/21/ARTIdIpSTilgSHZnwLL50RRr250121.shtml)
 
++ [菲律宾《马尼拉时报》：中国高质量发展为全球作出重要贡献](https://news.cctv.com/2025/01/21/ARTIEjkkbAQ1ME7QXuWXmGHJ250121.shtml)
+
++ [印尼中爪哇省洪水和山体滑坡致16人死亡](https://news.cctv.com/2025/01/21/ARTITh0KL082ekOgnRAg8OYa250121.shtml)
+

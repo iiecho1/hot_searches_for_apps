@@ -43,3 +43,5 @@
 
 + [怎样说服老大，程序的后端开发，远比前端要复杂且重要](https://www.v2ex.com/t/1106684)
 
++ [DeepSeek-R1 对标 OpenAI-o1 模型开源了](https://www.v2ex.com/t/1106607)
+

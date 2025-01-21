@@ -177,3 +177,7 @@
 
 + [分布式系统架构7：本地缓存](https://blog.csdn.net/kfashfasf/article/details/145222190)
 
++ [FPGA工程师有哪些？（设计、验证与应用）](https://blog.csdn.net/billgateslove/article/details/145271862)
+
++ [2024年度总结：成就与挑战并存，与君协同，砥砺前行2025](https://blog.csdn.net/2301_80374809/article/details/145265371)
+
