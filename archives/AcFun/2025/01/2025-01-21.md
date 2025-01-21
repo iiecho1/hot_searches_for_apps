@@ -77,3 +77,5 @@
 
 + [2025AC娘红包封面-新年祝福](https://m.acfun.cn/v/%3Fac%3D46795418)
 
++ [【Live2D模型展示】吃一口香香软软柠檬海盐小蛋糕](https://m.acfun.cn/v/%3Fac%3D46794494)
+

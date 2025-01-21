@@ -195,3 +195,7 @@
 
 + [尹锡悦抵达韩国宪法法院](https://news.cctv.com/2025/01/21/ARTIQs5YSADsZxDR6Pa94A7D250121.shtml)
 
++ [中国代表：期待中东局势以加沙停火为契机走向正确方向](https://news.cctv.com/2025/01/21/ARTI4UMfO2OUpkaZ58mEDjAH250121.shtml)
+
++ [土耳其一滑雪度假区酒店发生火灾 已致6死31伤](https://news.cctv.com/2025/01/21/ARTIFnAO69Aa5XiSY1Ti7GQJ250121.shtml)
+
