@@ -169,3 +169,7 @@
 
 + [斯洛伐克欢迎土耳其为俄气过境提供可能性](https://news.cctv.com/2025/01/21/ARTI5Es8kyY6ho1uDjkIH7Bl250121.shtml)
 
++ [美海关与边境保护局宣布取消所有移民申请入境避难预约](https://news.cctv.com/2025/01/21/ARTI6n6CGLYHenkPezTd4Tqu250121.shtml)
+
++ [特朗普宣布美国将再次退出《巴黎协定》](https://news.cctv.com/2025/01/21/ARTIGoGoEq5aSE7e5Cjp2S68250121.shtml)
+

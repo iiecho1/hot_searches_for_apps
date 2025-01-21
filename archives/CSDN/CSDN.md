@@ -101,3 +101,27 @@
 
 + [探索与创作：2024年我在CSDN平台上的成长与突破](https://blog.csdn.net/2201_75539691/article/details/145225537)
 
++ [AI 大爆发时代，音视频未来路在何方？](https://blog.csdn.net/yanceyxin/article/details/145222989)
+
++ [C# OpenCvSharp Yolov8 Face Landmarks 人脸特征检测](https://blog.csdn.net/abments/article/details/145222035)
+
++ [[Spring] Nacos详解](https://blog.csdn.net/2301_80050796/article/details/145231184)
+
++ [iDP3的部署代码解析(含训练)——同一套策略控制各种机器人：包含我司对斯坦福iDP3的通用化改写](https://blog.csdn.net/v_JULY_v/article/details/145260121)
+
++ [FPGA 时钟约束](https://blog.csdn.net/cckkppll/article/details/145247956)
+
++ [Spring MVC（一）](https://blog.csdn.net/liwuqianhzc/article/details/145232272)
+
++ [FPGA产业全景扫描](https://blog.csdn.net/billgateslove/article/details/145250175)
+
++ [matlab函数主要是计算与坐标差相关的矩阵 `xx` 和 `yy` 及其衍生矩阵](https://blog.csdn.net/max500600/article/details/145228034)
+
++ [【Efficient AIGC】SiTo: Similarity-based Token Pruning (AAAI-2025)](https://blog.csdn.net/zyw2002/article/details/145269952)
+
++ [2024年博客之星主题创作｜Android 开发：前沿技术、跨领域融合与就业技能展望](https://blog.csdn.net/g984160547/article/details/145257041)
+
++ [【SQL 中的分组查询与联合查询详解】](https://blog.csdn.net/2401_82641862/article/details/145010839)
+
++ [【2025】拥抱未来 砥砺前行](https://blog.csdn.net/weixin_42794881/article/details/145268958)
+
