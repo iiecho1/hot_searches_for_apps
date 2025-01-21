@@ -35,3 +35,23 @@
 
 + [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 
++ [bytedance/monolith](https://github.com/bytedance/monolith)
+
++ [yamadashy/repomix](https://github.com/yamadashy/repomix)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
+
++ [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)
+
++ [vllm-project/vllm](https://github.com/vllm-project/vllm)
+
++ [livekit/agents](https://github.com/livekit/agents)
+
++ [karpathy/minGPT](https://github.com/karpathy/minGPT)
+
++ [emcie-co/parlant](https://github.com/emcie-co/parlant)
+
++ [solana-labs/solana](https://github.com/solana-labs/solana)
+

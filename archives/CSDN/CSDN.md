@@ -181,3 +181,13 @@
 
 + [2024年度总结：成就与挑战并存，与君协同，砥砺前行2025](https://blog.csdn.net/2301_80374809/article/details/145265371)
 
++ [深入解析人工智能中的协同过滤算法及其在推荐系统中的应用与优化](https://blog.csdn.net/weixin_66401877/article/details/145249813)
+
++ [Redis 7.0 I/O多线程模型：小红书高并发性能的幕后推手](https://blog.csdn.net/Xs_20240309/article/details/145271498)
+
++ [嵌入式硬件篇---基本组合逻辑电路](https://blog.csdn.net/2301_79556402/article/details/145236808)
+
++ [Hadoop美食推荐系统 爬虫1.8w+数据 协同过滤余弦函数推荐美食 Springboot Vue Element-UI前后端分离](https://blog.csdn.net/ajqnhwvia/article/details/145269025)
+
++ [谈一谈前端构建工具的本地代理配置（Webpack与Vite）](https://blog.csdn.net/qq278672818/article/details/145271903)
+

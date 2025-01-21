@@ -215,3 +215,5 @@
 
 + [印尼中爪哇省洪水和山体滑坡致16人死亡](https://news.cctv.com/2025/01/21/ARTITh0KL082ekOgnRAg8OYa250121.shtml)
 
++ [久违的拥抱](https://photo.cctv.com/2025/01/21/PHOAvO1GUf4oL3F4uPJpGsKz250121.shtml)
+
