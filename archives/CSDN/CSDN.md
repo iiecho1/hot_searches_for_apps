@@ -157,3 +157,11 @@
 
 + [【React】类组件更新的底层逻辑](https://blog.csdn.net/qq_38951259/article/details/145206378)
 
++ [【HarmonyOS NEXT】华为分享-碰一碰开发分享](https://blog.csdn.net/weixin_44640245/article/details/145263999)
+
++ [《 C++ 点滴漫谈： 二十二 》操作符炼金术：用C++ operator重塑代码美学](https://blog.csdn.net/mmlhbjk/article/details/145249415)
+
++ [金融波动率的多模型建模研究：GARCH族与HAR模型的Python实现与对比分析](https://blog.csdn.net/m0_46510245/article/details/145277034)
+
++ [【2024 年度总结】从小白慢慢成长](https://blog.csdn.net/2202_76097976/article/details/145244444)
+
