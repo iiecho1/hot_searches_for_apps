@@ -79,3 +79,9 @@
 
 + [【Live2D模型展示】吃一口香香软软柠檬海盐小蛋糕](https://m.acfun.cn/v/%3Fac%3D46794494)
 
++ [【其他/音游】Ratatan 内部测试演示视频 43mins](https://m.acfun.cn/v/%3Fac%3D46792062)
+
++ [主播有米塔这样的小皮鞋吗？](https://m.acfun.cn/v/%3Fac%3D46793355)
+
++ [【若叶睦/原创曲】要说些什么【洛天依/心华】](https://m.acfun.cn/v/%3Fac%3D46793699)
+

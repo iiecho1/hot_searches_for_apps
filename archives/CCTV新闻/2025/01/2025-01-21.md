@@ -199,3 +199,9 @@
 
 + [土耳其一滑雪度假区酒店发生火灾 已致6死31伤](https://news.cctv.com/2025/01/21/ARTIFnAO69Aa5XiSY1Ti7GQJ250121.shtml)
 
++ [澳大利亚阿德莱德动物园举行欢迎新熊猫开馆仪式](https://news.cctv.com/2025/01/21/ARTIFOBEomiR49kYKXekP9bJ250121.shtml)
+
++ [法国9年内近900名儿童因坏血病住院](https://news.cctv.com/2025/01/21/ARTIbgfhlBA3bDAM6IMrZOKI250121.shtml)
+
++ [中国驻马尔代夫使馆再次提醒春节期间访马中国游客注意涉水安全](https://news.cctv.com/2025/01/21/ARTIfrz7uBri59qCHuNeu2CM250121.shtml)
+
