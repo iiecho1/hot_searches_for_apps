@@ -141,3 +141,7 @@
 
 + [2025年国产化推进.NET跨平台应用框架推荐](https://blog.csdn.net/zzlyx99/article/details/145255387)
 
++ [(开源)基于Django+Yolov8+Tensorflow的智能鸟类识别平台](https://blog.csdn.net/m0_64027967/article/details/145266648)
+
++ [区块链 智能合约安全 | 回滚攻击](https://blog.csdn.net/2401_89294392/article/details/145257216)
+

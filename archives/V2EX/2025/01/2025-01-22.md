@@ -17,3 +17,9 @@
 
 + [Cursor 半小时写好的小程序上架了](https://www.v2ex.com/t/1106753)
 
++ [推荐一下各位在用的笔记软件](https://www.v2ex.com/t/1106847)
+
++ [中年程序员的未来发展规划](https://www.v2ex.com/t/1106735)
+
++ [买特斯拉焕新 Model Y 还是等小米 YU7？](https://www.v2ex.com/t/1106788)
+

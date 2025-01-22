@@ -165,3 +165,19 @@
 
 + [土耳其滑雪度假酒店火灾死亡人数升至76人 救援行动已结束](https://news.cctv.com/2025/01/22/ARTIgjL8szq94sSAAqGLgvxJ250122.shtml)
 
++ [韩国公调处第三次尝试对尹锡悦展开强制调查](https://news.cctv.com/2025/01/22/ARTIEH55glXWMHj0xxHPC3S1250122.shtml)
+
++ [特朗普因马斯克遭起诉](https://news.cctv.com/2025/01/22/ARTIUAKIotpJfD1W6z7Kej7y250122.shtml)
+
++ [以色列特拉维夫发生持刀袭击4人受伤 警方：恐怖袭击](https://news.cctv.com/2025/01/22/ARTIucnDdaUUcP2TosY1iIUP250122.shtml)
+
++ [中匈联合发行蛇年生肖邮票](https://news.cctv.com/2025/01/22/ARTIuiavtc2Y428KiDiyYwU1250122.shtml)
+
++ [土耳其将为酒店火灾遇难者举行全国哀悼](https://news.cctv.com/2025/01/22/ARTIIxJpxnQVZHlcZ2moy30Q250122.shtml)
+
++ [联合国启动2025国际冰川保护年](https://news.cctv.com/2025/01/22/ARTIiCH97enU9WEuY994OUOZ250122.shtml)
+
++ [我驻哥伦比亚使馆提醒在哥中国公民加强安全防范](https://news.cctv.com/2025/01/22/ARTIsFrvSrENuUb78mxCrtOD250122.shtml)
+
++ [我驻阿富汗使馆提醒在阿中国公民加强安全防范](https://news.cctv.com/2025/01/22/ARTIEeoZ7Q9T0cPjLQwCqW1O250122.shtml)
+
