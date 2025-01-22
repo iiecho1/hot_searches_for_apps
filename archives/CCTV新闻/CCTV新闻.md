@@ -211,3 +211,7 @@
 
 + [春节文化走向世界展现独特“中国派” 海外同庆共画“同心圆”](https://news.cctv.com/2025/01/22/ARTIafTjNcpn9d0Le9yK2G5w250122.shtml)
 
++ [特鲁多：将“强有力”回击特朗普关税](https://news.cctv.com/2025/01/22/ARTI4vHR236ltIcsPyP8os0C250122.shtml)
+
++ [特朗普签署超40个总统行政令引发高度关注 多方相继作出回应](https://news.cctv.com/2025/01/22/ARTI2vjDpMKEwOmIPDJqU4lK250122.shtml)
+
