@@ -127,3 +127,9 @@
 
 + [wx035基于springboot+vue+uniapp的校园二手交易小程序](https://blog.csdn.net/shmp54xmu/article/details/145291282)
 
++ [C++ 智能指针（八股总结）](https://blog.csdn.net/xiaolan7777777/article/details/145281318)
+
++ [iDP3的训练与部署代码解析——同一套策略控制各种机器人：包含我司对iDP3的通用化改写](https://blog.csdn.net/v_JULY_v/article/details/145260121)
+
++ [【无人机设计与控制】基于灰狼算法GWO的城市三维路径规划Matlab代码](https://blog.csdn.net/m0_60703264/article/details/145301470)
+
