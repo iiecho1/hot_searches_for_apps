@@ -169,3 +169,11 @@
 
 + [智能创造的幕后推手：AIGC浪潮下看AI训练师如何塑造智能未来](https://blog.csdn.net/qq_32682301/article/details/145244766)
 
++ [【Elasticsearch 】 聚合分析：桶聚合](https://blog.csdn.net/lilinhai548/article/details/145292516)
+
++ [[论文阅读] (36)C&S22 MPSAutodetect：基于自编码器的恶意Powershell脚本检测模型](https://blog.csdn.net/Eastmount/article/details/145259823)
+
++ [基于Redis实现短信验证码登录](https://blog.csdn.net/2302_78946634/article/details/145290916)
+
++ [【Elasticsearch】Springboot编写Elasticsearch的RestAPI](https://blog.csdn.net/weixin_44917201/article/details/145292282)
+
