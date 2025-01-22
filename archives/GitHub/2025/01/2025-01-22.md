@@ -37,3 +37,21 @@
 
 + [solana-labs/solana](https://github.com/solana-labs/solana)
 
++ [exo-explore/exo](https://github.com/exo-explore/exo)
+
++ [teableio/teable](https://github.com/teableio/teable)
+
++ [yorukot/superfile](https://github.com/yorukot/superfile)
+
++ [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+
++ [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+
++ [mudler/LocalAI](https://github.com/mudler/LocalAI)
+
++ [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
++ [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
