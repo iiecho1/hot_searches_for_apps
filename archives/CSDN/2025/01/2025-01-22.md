@@ -179,3 +179,11 @@
 
 + [基于FPGA的BPSK+costas环实现,包含testbench,分析不同信噪比对costas环性能影响](https://blog.csdn.net/hlayumi1234567/article/details/145251158)
 
++ [【2024年 CSDN博客之星】我的2024年创作之旅：从C语言到人工智能，个人成长与突破的全景回顾](https://blog.csdn.net/martian665/article/details/145299708)
+
++ [深入探讨Web应用开发：从前端到后端的全栈实践](https://blog.csdn.net/2302_79376097/article/details/145178000)
+
++ [数学建模——层次分析法（AHP）](https://blog.csdn.net/2401_86806544/article/details/145242592)
+
++ [博客之星2024年度-技术总结：技术探险家小板的一年的征程](https://blog.csdn.net/Tingfeng__/article/details/145290544)
+
