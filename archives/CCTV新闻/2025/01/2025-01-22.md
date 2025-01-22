@@ -241,3 +241,9 @@
 
 + [驻日美军性暴力事件频发 日本冲绳县民众举行抗议](https://news.cctv.com/2025/01/22/ARTIG7g5zNsohwzWNlZx3kGi250122.shtml)
 
++ [特朗普政府叫停联邦机构平权项目](https://news.cctv.com/2025/01/22/ARTIr48e83x3gmCok6CJCwkz250122.shtml)
+
++ [挪威国防大臣：不会将防务开支提高至国内生产总值的5%](https://news.cctv.com/2025/01/22/ARTIRybkg34PANQz8Vtld1GX250122.shtml)
+
++ [学校、教堂不再是庇护所 美国开始“围追堵截”打击非法移民](https://news.cctv.com/2025/01/22/ARTIf1rXCCvEBEUcRirJ9SoZ250122.shtml)
+

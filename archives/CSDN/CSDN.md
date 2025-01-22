@@ -195,3 +195,11 @@
 
 + [「2024·我的成长之路」：年终反思与展望](https://blog.csdn.net/2303_79015671/article/details/145281179)
 
++ [AIGC浪潮下，图文内容社区数据指标体系如何构建？](https://blog.csdn.net/qq_32682301/article/details/145309681)
+
++ [Kafka源码详解4-Kafka生产者数据发送源码详解](https://blog.csdn.net/li72767/article/details/145160224)
+
++ [【博客之星】GIS老矣尚能饭否？WebGIS项目实战经验与成果展示](https://blog.csdn.net/yelangkingwuzuhu/article/details/145268893)
+
++ [FPGA 开发工作需求明确：关键要点与实践方法](https://blog.csdn.net/whik1194/article/details/145285396)
+
