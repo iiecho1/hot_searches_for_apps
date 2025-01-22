@@ -165,3 +165,7 @@
 
 + [Maven 项目管理](https://blog.csdn.net/Hismybestlove/article/details/145230872)
 
++ [【2024技术洞察评选文章】HarmonyOS 5.0（NEXT）实战体验—“慢小圈“应用开发实战体验全流程（2024年基于CSDN平台的成长与感悟）](https://blog.csdn.net/weixin_52908342/article/details/145301653)
+
++ [智能创造的幕后推手：AIGC浪潮下看AI训练师如何塑造智能未来](https://blog.csdn.net/qq_32682301/article/details/145244766)
+

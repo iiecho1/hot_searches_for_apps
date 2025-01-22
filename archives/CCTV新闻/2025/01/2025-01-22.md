@@ -221,3 +221,7 @@
 
 + [解燃眉之急 逾2400辆援助物资卡车进入加沙](https://news.cctv.com/2025/01/22/ARTIPA8e6z15ZJTHljoAUkRm250122.shtml)
 
++ [加拿大多伦多警方破获历来最大宗可卡因案件](https://news.cctv.com/2025/01/22/ARTIVqI7Shc91QeZqc0o7Llv250122.shtml)
+
++ [印度卡纳塔克邦发生交通事故 已致10死15伤](https://news.cctv.com/2025/01/22/ARTIkASRzUOKtbPKULFwjrGP250122.shtml)
+
