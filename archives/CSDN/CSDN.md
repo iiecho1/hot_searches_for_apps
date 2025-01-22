@@ -101,3 +101,11 @@
 
 + [【2024年CSDN平台总结：新生与成长之路】](https://blog.csdn.net/2302_79177254/article/details/145283984)
 
++ [无线通信与人工智能技术与发展年度总结](https://blog.csdn.net/ccsss22/article/details/145304804)
+
++ [(开源)基于Django+Yolov8+Tensorflow的智能鸟类识别平台](https://blog.csdn.net/m0_64027967/article/details/145266648)
+
++ [【MySQL】存储引擎有哪些？区别是什么？](https://blog.csdn.net/2301_76655656/article/details/145101708)
+
++ [【学习总结|DAY034】Maven高级](https://blog.csdn.net/Fultter/article/details/145289384)
+
