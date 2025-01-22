@@ -23,3 +23,9 @@
 
 + [买特斯拉焕新 Model Y 还是等小米 YU7？](https://www.v2ex.com/t/1106788)
 
++ [应不应该把主键 id 暴露在 url 上？](https://www.v2ex.com/t/1106781)
+
++ [[上海] 六年前端开发求捞](https://www.v2ex.com/t/1106808)
+
++ [CarPlay 跑高速哪个导航最好用，苹果地图百度还是高德，你怎么选](https://www.v2ex.com/t/1106727)
+

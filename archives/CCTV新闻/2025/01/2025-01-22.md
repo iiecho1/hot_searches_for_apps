@@ -181,3 +181,11 @@
 
 + [我驻阿富汗使馆提醒在阿中国公民加强安全防范](https://news.cctv.com/2025/01/22/ARTIEeoZ7Q9T0cPjLQwCqW1O250122.shtml)
 
++ [一艘载有非法移民的船只在也门海域倾覆 20人遇难](https://news.cctv.com/2025/01/22/ARTI94pHgY1GBRzwSQs7bxM1250122.shtml)
+
++ [学中文，领略魅力中国](https://news.cctv.com/2025/01/22/ARTIuCgGpWHRZDqGhWSATkzT250122.shtml)
+
++ [农业合作，助力国际减贫](https://news.cctv.com/2025/01/22/ARTIUPu3U2eBJGVkDEr44qiU250122.shtml)
+
++ [重庆美食走进联合国旅游组织](https://photo.cctv.com/2025/01/22/PHOAsYUvmps412sSbfv6rD3A250122.shtml)
+
