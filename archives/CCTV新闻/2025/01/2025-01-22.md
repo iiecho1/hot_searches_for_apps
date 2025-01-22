@@ -189,3 +189,23 @@
 
 + [重庆美食走进联合国旅游组织](https://photo.cctv.com/2025/01/22/PHOAsYUvmps412sSbfv6rD3A250122.shtml)
 
++ [以军总参谋长引咎辞职](https://news.cctv.com/2025/01/22/ARTIWx6yZvTvyAhnPrTeirpZ250122.shtml)
+
++ [特朗普签署超40个总统行政令引发高度关注 多方相继做出回应](https://news.cctv.com/2025/01/22/ARTI2vjDpMKEwOmIPDJqU4lK250122.shtml)
+
++ [应对特朗普政策风险！韩国政府投360万亿韩元，部分企业或转移生产](https://news.cctv.com/2025/01/22/ARTIgo9S09kXfvgFCTfoJkU1250122.shtml)
+
++ [冬季风暴袭击美国南部 已造成至少4人死亡](https://news.cctv.com/2025/01/22/ARTIRRqxQddx4WsYW9C39BpI250122.shtml)
+
++ [美国两党之间争斗不断加剧 社会撕裂恐将加深](https://news.cctv.com/2025/01/22/ARTI1ltXcJ9eN4FrbZP3fAYa250122.shtml)
+
++ [格陵兰岛自治政府总理：“我们不想变成美国人”](https://news.cctv.com/2025/01/22/ARTIPhO5LZQOm6afb0iSLh7F250122.shtml)
+
++ [韩国法院对56名袭击首尔西部地方法院的人员签发拘留令](https://news.cctv.com/2025/01/22/ARTIV2XoGCzK7qkajCkfKwXH250122.shtml)
+
++ [巴基斯坦一省通过禁放风筝法案](https://news.cctv.com/2025/01/22/ARTInxknzdjBr2GTfPT2Rlke250122.shtml)
+
++ [科特迪瓦西部发生严重交通事故 致17死23伤](https://news.cctv.com/2025/01/22/ARTICK3vvR3jv6NWyarCtDdK250122.shtml)
+
++ [加拿大去年12月通胀率继续放缓 临时免税措施奏效](https://news.cctv.com/2025/01/22/ARTIbTo9mEeqOreeoJkssZC9250122.shtml)
+

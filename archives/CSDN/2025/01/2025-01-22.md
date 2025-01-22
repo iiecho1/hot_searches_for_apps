@@ -147,3 +147,7 @@
 
 + [Jenkins 启动](https://blog.csdn.net/printf123scanf/article/details/145235586)
 
++ [ASP.NET Core--依赖注入（DI）--在ASP.NET Core中使用依赖注入](https://blog.csdn.net/lwf3115841/article/details/145242637)
+
++ [流行的开源高性能数据同步工具 - Apache SeaTunnel 整体架构运行原理](https://blog.csdn.net/oDaiLiDong/article/details/145256163)
+
