@@ -239,3 +239,5 @@
 
 + [伊朗一架军机在哈马丹省坠毁](https://news.cctv.com/2025/01/22/ARTIGxlcfZ5Qub9Xx6s9RKOg250122.shtml)
 
++ [驻日美军性暴力事件频发 日本冲绳县民众举行抗议](https://news.cctv.com/2025/01/22/ARTIG7g5zNsohwzWNlZx3kGi250122.shtml)
+

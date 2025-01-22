@@ -187,3 +187,9 @@
 
 + [博客之星2024年度-技术总结：技术探险家小板的一年的征程](https://blog.csdn.net/Tingfeng__/article/details/145290544)
 
++ [【Linux】：应用层自定义协议 & 序列化 & 网络版计算器](https://blog.csdn.net/island1314/article/details/145140033)
+
++ [springboot 配置多数据源以及动态切换数据源](https://blog.csdn.net/qq_44819486/article/details/145282730)
+
++ [Formality：不可读(unread)的概念](https://blog.csdn.net/weixin_45791458/article/details/145242304)
+
