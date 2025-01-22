@@ -81,3 +81,7 @@
 
 + [每天回家都有节目看！★手机竖屏1403★](https://m.acfun.cn/v/%3Fac%3D46797707)
 
++ [在这失控的夜晚迷上我吧【BALALAIKA】](https://m.acfun.cn/v/%3Fac%3D46797891)
+
++ [如果你双手被绑，困在一间鸡舍里，是种什么体验？《Ells Tales：Egg》全结局](https://m.acfun.cn/v/%3Fac%3D46797132)
+
