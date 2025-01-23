@@ -25,3 +25,27 @@
 
 + [英伟达黄仁勋抵达上海现身陆家嘴，此次访华行程进入最后一站](https://m.ithome.com/html/824828.htm)
 
++ [微信 iOS 8.0.56 正式版更新：抛弃 CallKit、图片查看界面改版、卡包更名](https://m.ithome.com/html/826584.htm)
+
++ [三星 Galaxy S25 / S25 + 手机发布：强大 AI 功能加持，尝鲜价 6499 元起](https://m.ithome.com/html/826570.htm)
+
++ [美的集团发文：严禁下班时间开会、形式主义加班](https://m.ithome.com/html/826585.htm)
+
++ [“史上最薄 S 系列机型”三星 Galaxy S25 Ultra 手机发布：骁龙 8 至尊版、全新 50MP 超广角，尝鲜价 10199 元起](https://m.ithome.com/html/826493.htm)
+
++ [钉钉宣布全面支持 iOS / 鸿蒙 HarmonyOS NEXT 系统 CallKit 功能](https://m.ithome.com/html/826490.htm)
+
++ [雷军：小米积极配合国补政策，全力保证供货](https://m.ithome.com/html/826425.htm)
+
++ [三星 Galaxy S25 系列真机照片曝光，明日凌晨发布](https://m.ithome.com/html/826433.htm)
+
++ [小米 REDMI K80 系列手机新年限定「乒乓手机壳」上线，79 元](https://m.ithome.com/html/826599.htm)
+
++ [2025 苹果新品曝料：iPhone SE 4 配 A18 芯片，iPad 11 配 A16 无缘 Apple 智能，iPad Air 配 M3 芯片](https://m.ithome.com/html/826621.htm)
+
++ [国补后终跌破 4000 元：华为 Mate 60 手机京东自营 3899 元新低](https://m.ithome.com/html/826594.htm)
+
++ [超薄机身设计，三星展示 Galaxy S25 Edge 手机真机](https://m.ithome.com/html/826549.htm)
+
++ [新增多地支持平板国补：苹果 iPad mini A17 Pro 立减 1600 元，eSIM 版 3399 元](https://m.ithome.com/html/825654.htm)
+
