@@ -139,3 +139,11 @@
 
 + [猫头虎分享：什么是MIT开源协议？有什么优点？边界是什么？](https://blog.csdn.net/qq_44866828/article/details/145311102)
 
++ [【2025小年源码免费送】](https://blog.csdn.net/weixin_67874152/article/details/145290721)
+
++ [Elasticsearch 中，分片（Shards）数量上限？副本的数量？](https://blog.csdn.net/hezuijiudexiaobai/article/details/145287998)
+
++ [Spring Boot 整合 ShedLock 处理定时任务重复执行的问题](https://blog.csdn.net/lhmyy521125/article/details/145288632)
+
++ [基于Uniapp + SSM + Vue的宠物店线上运营App（前后端分离开发）](https://blog.csdn.net/2401_82797350/article/details/145298808)
+
