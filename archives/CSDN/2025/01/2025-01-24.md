@@ -143,3 +143,5 @@
 
 + [Llama 3：开源大模型的里程碑式突破](https://blog.csdn.net/XianxinMao/article/details/145312314)
 
++ [Spring Boot & MyBatis Plus 版本兼容问题（记录）](https://blog.csdn.net/qq_38288606/article/details/145300128)
+
