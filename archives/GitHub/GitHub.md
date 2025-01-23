@@ -29,3 +29,21 @@
 
 + [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 
++ [piotrostr/listen](https://github.com/piotrostr/listen)
+
++ [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
++ [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
+
++ [soxoj/maigret](https://github.com/soxoj/maigret)
+
++ [yamadashy/repomix](https://github.com/yamadashy/repomix)
+
++ [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
+
++ [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)
+
++ [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
++ [elizaOS/eliza](https://github.com/elizaOS/eliza)
+

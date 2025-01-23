@@ -203,3 +203,9 @@
 
 + [小米Vela操作系统开源：AIoT时代的全新引擎](https://blog.csdn.net/lilu8888888/article/details/145308032)
 
++ [AIGC专栏18——EasyAnimateV5.1版本详解 应用Qwen2 VL作为文本编码器，支持轨迹控制与相机镜头控制](https://blog.csdn.net/weixin_44791964/article/details/145310822)
+
++ [探索Linux中的进程控制：从启动到退出的背后原理](https://blog.csdn.net/Cayyyy/article/details/145322548)
+
++ [年度心得总结——前端领域](https://blog.csdn.net/qq_34419312/article/details/145268467)
+
