@@ -219,3 +219,11 @@
 
 + [《安富莱嵌入式周报》第349期：VSCode正式支持Matlab调试，DIY录音室级麦克风，开源流体吊坠，物联网在军工领域的应用，Unicode字符压缩解压](https://blog.csdn.net/Simon223/article/details/145294919)
 
++ [应用层协议 HTTP 讲解&实战：从0实现HTTP 服务器](https://blog.csdn.net/weixin_50776420/article/details/145311327)
+
++ [学到一些小知识关于Maven 与 logback 与 jpa 日志](https://blog.csdn.net/qq_53374893/article/details/145306459)
+
++ [2024年度总结——书山有路勤为马，收拾行囊再出发](https://blog.csdn.net/2301_79465388/article/details/145324253)
+
++ [【2025】拥抱未来 砥砺前行](https://blog.csdn.net/weixin_42794881/article/details/145268958)
+
