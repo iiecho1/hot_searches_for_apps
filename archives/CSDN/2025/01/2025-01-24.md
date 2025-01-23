@@ -135,3 +135,11 @@
 
 + [翻译：How do I reset my FPGA?](https://blog.csdn.net/UmbrellaCorporation/article/details/145285268)
 
++ [【大模型】基于LLaMA-Factory的模型高效微调（2）](https://blog.csdn.net/u012856866/article/details/145276734)
+
++ [基于AutoDL云计算平台+LLaMA-Factory训练平台微调本地大模型](https://blog.csdn.net/weixin_63314150/article/details/145278226)
+
++ [使用 Tailwind CSS + PostCSS 实现响应式和可定制化的前端设计](https://blog.csdn.net/qq_51700102/article/details/145299782)
+
++ [Llama 3：开源大模型的里程碑式突破](https://blog.csdn.net/XianxinMao/article/details/145312314)
+
