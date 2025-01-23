@@ -209,3 +209,9 @@
 
 + [年度心得总结——前端领域](https://blog.csdn.net/qq_34419312/article/details/145268467)
 
++ [Keras、TensorFlow、PyTorch框架对比及服务器配置揭秘](https://blog.csdn.net/sunly31489/article/details/145299287)
+
++ [探索JavaScript前端开发：开启交互之门的神奇钥匙（二）](https://blog.csdn.net/weixin_73295475/article/details/145325390)
+
++ [Linux终端之旅： 权限管理三剑客与特殊权限](https://blog.csdn.net/wangchen_0/article/details/143303030)
+
