@@ -189,3 +189,7 @@
 
 + [普京称2024年俄经济主要指标处于“积极区间”](https://news.cctv.com/2025/01/23/ARTIFGHQXbfB52ILRs84R2q5250123.shtml)
 
++ [“休斯”来了！洛杉矶北部发生新一轮山火，数万居民撤离](https://news.cctv.com/2025/01/23/ARTIR8zcSLqhztGmfzLjEJeE250123.shtml)
+
++ [印度一列车突发火灾警报 至少13人跳车被撞身亡](https://news.cctv.com/2025/01/23/ARTIqtIMke85nm53uswDtdcb250123.shtml)
+
