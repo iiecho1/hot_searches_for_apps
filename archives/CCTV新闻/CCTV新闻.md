@@ -193,3 +193,5 @@
 
 + [印度一列车突发火灾警报 至少13人跳车被撞身亡](https://news.cctv.com/2025/01/23/ARTIqtIMke85nm53uswDtdcb250123.shtml)
 
++ [耗时4小时22分钟 尹锡悦弹劾案庭审第四次公开辩论结束](https://news.cctv.com/2025/01/23/ARTIPiZYpsNqjetYKN2kH0vn250123.shtml)
+

@@ -195,3 +195,11 @@
 
 + [[Spring] Nacos详解](https://blog.csdn.net/2301_80050796/article/details/145231184)
 
++ [C# OpenCV机器视觉:红外体温检测](https://blog.csdn.net/xcwzj123/article/details/145278169)
+
++ [【技术总结】一文读懂Transformer](https://blog.csdn.net/LOVEmy134611/article/details/145255836)
+
++ [[Spring] OpenFeign的使用](https://blog.csdn.net/2301_80050796/article/details/145303771)
+
++ [小米Vela操作系统开源：AIoT时代的全新引擎](https://blog.csdn.net/lilu8888888/article/details/145308032)
+
