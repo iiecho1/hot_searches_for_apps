@@ -175,3 +175,13 @@
 
 + [奔跑吧邓邓子 2024 年度 CSDN 博客成长全记录](https://blog.csdn.net/u012069313/article/details/145245818)
 
++ [【2024 CSDN博客之星】人工智能领域 我的机器学习年度深度总结](https://blog.csdn.net/u014608435/article/details/145259384)
+
++ [记忆层增强的 Transformer 架构：通过可训练键值存储提升 LLM 性能的创新方法](https://blog.csdn.net/m0_46510245/article/details/145317314)
+
++ [从构思到上线的全栈开发指南：全栈开发中的技术选型和架构](https://blog.csdn.net/master_hunter/article/details/145300139)
+
++ [DRG/DIP 2.0时代下基于PostgreSQL的成本管理实践与探索（上）](https://blog.csdn.net/kkiron/article/details/145316365)
+
++ [Vue核心思想：走马灯和步骤条创作下一步对话框](https://blog.csdn.net/sixpp/article/details/145320527)
+
