@@ -173,3 +173,13 @@
 
 + [马六甲：百人舞狮迎春节](https://photo.cctv.com/2025/01/23/PHOALgtuBCPP9ohtSfiOWhEs250123.shtml)
 
++ [韩国公调处：将把尹锡悦涉嫌“内乱头目”及滥用职权案件移交检方](https://news.cctv.com/2025/01/23/ARTIemHM1p0TqJDseeBFl6pO250123.shtml)
+
++ [中国仍是世界经济增长重要引擎——访昆山杜克大学常务副校长约翰·奎尔奇](https://news.cctv.com/2025/01/23/ARTIe8DdlSRNToFIelP6xz3D250123.shtml)
+
++ [中国灯会吸引世界目光](https://news.cctv.com/2025/01/23/ARTIgRgmb76sFmMcZcE4YLOs250123.shtml)
+
++ [助力双方交往 搭建友谊桥梁（新时代中非合作）](https://news.cctv.com/2025/01/23/ARTIRoMEVmyMj0XY6mShnZpM250123.shtml)
+
++ [斯里兰卡：制陶工厂](https://photo.cctv.com/2025/01/23/PHOA7HAac49V4zOSWHr2OiGP250123.shtml)
+

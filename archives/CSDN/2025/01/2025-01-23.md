@@ -149,3 +149,7 @@
 
 + [Pandas 数据分析（二）【股票数据】](https://blog.csdn.net/shijiaqingsnfx/article/details/145257352)
 
++ [【2025重磅发布】DeepSeek-R1正式登场：性能比肩OpenAI o1，开源全栈生态+MIT开源协议 | 推理模型API深度解析](https://blog.csdn.net/qq_44866828/article/details/145310733)
+
++ [【身如苔米，心向高山】我的 2024 博客总结：记录平凡路上的微光](https://blog.csdn.net/GGBond778/article/details/145298667)
+
