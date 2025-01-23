@@ -185,3 +185,7 @@
 
 + [Vue核心思想：走马灯和步骤条创作下一步对话框](https://blog.csdn.net/sixpp/article/details/145320527)
 
++ [PID控制的优势与LabVIEW应用](https://blog.csdn.net/bjcyck/article/details/145309428)
+
++ [群晖Cloud Sync如何实现一键同步备份让数据更安全高效](https://blog.csdn.net/u010726809/article/details/145261988)
+
