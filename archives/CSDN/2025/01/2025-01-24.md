@@ -125,3 +125,13 @@
 
 + [ubuntu向一个pc主机通过web发送数据，pc端通过工具直接查看收到的数据](https://blog.csdn.net/huangzhe0701/article/details/145281261)
 
++ [wx036基于springboot+vue+uniapp的校园快递平台小程序](https://blog.csdn.net/shmp54xmu/article/details/145312504)
+
++ [【技术洞察】2024科技绘卷：浪潮、突破、未来](https://blog.csdn.net/CC1991_/article/details/145329517)
+
++ [Couchbase UI: Dashboard](https://blog.csdn.net/z1941563559/article/details/145309683)
+
++ [系统安全及应用](https://blog.csdn.net/eagle89/article/details/145302702)
+
++ [翻译：How do I reset my FPGA?](https://blog.csdn.net/UmbrellaCorporation/article/details/145285268)
+
