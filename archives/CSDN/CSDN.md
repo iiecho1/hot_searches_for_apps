@@ -215,3 +215,7 @@
 
 + [Linux终端之旅： 权限管理三剑客与特殊权限](https://blog.csdn.net/wangchen_0/article/details/143303030)
 
++ [踏浪而行，2024年技术创作的星光轨迹](https://blog.csdn.net/suye050331/article/details/145324111)
+
++ [《安富莱嵌入式周报》第349期：VSCode正式支持Matlab调试，DIY录音室级麦克风，开源流体吊坠，物联网在军工领域的应用，Unicode字符压缩解压](https://blog.csdn.net/Simon223/article/details/145294919)
+
