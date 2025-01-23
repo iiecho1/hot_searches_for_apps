@@ -103,3 +103,25 @@
 
 + [【Linux】：应用层自定义协议 & 序列化 & 网络版计算器](https://blog.csdn.net/island1314/article/details/145140033)
 
++ [数据挖掘实战-基于LDA主题分析+文本分析的医学论文分类研究](https://blog.csdn.net/m0_64336780/article/details/145284762)
+
++ [困境如雾路难寻，心若清明步自轻---2024年创作回顾](https://blog.csdn.net/qq_61654952/article/details/145316689)
+
++ [Spring Boot整合WebSocket](https://blog.csdn.net/web15085096641/article/details/145272177)
+
++ [【Redis】持久化机制](https://blog.csdn.net/chaodddddd/article/details/145244184)
+
++ [2024年度技术总结——MCU与MEMS和TOF应用实践](https://blog.csdn.net/qq_24312945/article/details/145268284)
+
++ [ASP.NET Blazor托管模型有哪些？](https://blog.csdn.net/Maybe_ch/article/details/145292059)
+
++ [SpringBoot：websocket 实现后端主动前端推送数据](https://blog.csdn.net/yao_guai/article/details/145261317)
+
++ [踏浪而行，2024年技术创作的星光轨迹](https://blog.csdn.net/suye050331/article/details/145324111)
+
++ [【AI编辑器】字节跳动推出AI IDE——Trae，专为中文开发者深度定制](https://blog.csdn.net/luomao2012/article/details/145292405)
+
++ [Formality：不可读(unread)的概念](https://blog.csdn.net/weixin_45791458/article/details/145242304)
+
++ [ubuntu向一个pc主机通过web发送数据，pc端通过工具直接查看收到的数据](https://blog.csdn.net/huangzhe0701/article/details/145281261)
+
