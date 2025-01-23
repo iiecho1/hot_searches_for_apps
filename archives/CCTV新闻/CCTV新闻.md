@@ -161,3 +161,11 @@
 
 + [中国代表：期待中东局势以加沙停火为契机走向正确方向](https://news.cctv.com/2025/01/21/ARTI4UMfO2OUpkaZ58mEDjAH250121.shtml)
 
++ [阿富汗警方证实一中国公民在阿遭枪击遇难](https://news.cctv.com/2025/01/24/ARTIbDGFGU4J2s42KUhW13OA250124.shtml)
+
++ [一名中国香港游客在日本遭列车撞击丧生](https://news.cctv.com/2025/01/24/ARTIRT4t3nH7Xb6cgFBZNZcr250124.shtml)
+
++ [米歇尔·马丁当选爱尔兰总理](https://news.cctv.com/2025/01/24/ARTIDGtNX8Jppv9eIRTNboBi250124.shtml)
+
++ [匈牙利268所学校收到炸弹威胁 目前无真实炸弹迹象](https://news.cctv.com/2025/01/24/ARTIkuLb3IyLTsZh0iCkNrNU250124.shtml)
+
