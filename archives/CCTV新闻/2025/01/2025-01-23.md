@@ -167,3 +167,9 @@
 
 + [印度马哈拉施特拉邦发生列车撞人事故 至少8人死亡](https://news.cctv.com/2025/01/23/ARTIjA9gdby1CERthiAPI7zo250123.shtml)
 
++ [中国医疗队为尼泊尔孤儿义诊](https://photo.cctv.com/2025/01/23/PHOA5gcv12WZosLRASPdKyy5250123.shtml)
+
++ [越南：街巷里的“春节红”](https://photo.cctv.com/2025/01/23/PHOAwlIcrjgsgEgpIBl6Qifi250123.shtml)
+
++ [马六甲：百人舞狮迎春节](https://photo.cctv.com/2025/01/23/PHOALgtuBCPP9ohtSfiOWhEs250123.shtml)
+
