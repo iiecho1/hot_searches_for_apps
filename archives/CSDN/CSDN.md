@@ -169,3 +169,7 @@
 
 + [2025年美赛(MCM/ICM)赛题浅析——助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/145333327)
 
++ [在亚马逊云科技上用AI提示词优化功能写出漂亮提示词（下）](https://blog.csdn.net/m0_66628975/article/details/145281151)
+
++ [轻量级文件分享系统FileCodeBox本地部署与远程使用存取文件](https://blog.csdn.net/weixin_44976692/article/details/145326077)
+

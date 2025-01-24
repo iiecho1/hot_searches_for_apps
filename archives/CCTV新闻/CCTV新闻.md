@@ -183,3 +183,13 @@
 
 + [粮农组织举办招待会庆祝中国农历春节](https://photo.cctv.com/2025/01/24/PHOAfNCalqFRpk9HtpBuzsal250124.shtml)
 
++ [马来西亚智库专家：马中绿色低碳产业合作前景广阔](https://news.cctv.com/2025/01/24/ARTIx2CMW81bCb9xs3xclk0j250124.shtml)
+
++ [通讯丨中国婺剧走进孟加拉国赢得满堂彩](https://news.cctv.com/2025/01/24/ARTIoCIVgPBwYtZ1PIH8Bt87250124.shtml)
+
++ [通讯丨“我两次庆祝春天的到来”——中伊新年文化的交响](https://news.cctv.com/2025/01/24/ARTIRS7mubYfKd0vyD2vpFxc250124.shtml)
+
++ [通讯｜连接荷兰郁金香与中国功夫的友谊之桥](https://news.cctv.com/2025/01/24/ARTIBlAwxctBQHRdK7aPFrWq250124.shtml)
+
++ [世界经济论坛2025年年会与会者热议中国经济——“中国依然是全球经济增长的重要动力”](https://news.cctv.com/2025/01/24/ARTIvV1HuJzdQeGEcrRt7OJp250124.shtml)
+
