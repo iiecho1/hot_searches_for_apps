@@ -173,3 +173,7 @@
 
 + [轻量级文件分享系统FileCodeBox本地部署与远程使用存取文件](https://blog.csdn.net/weixin_44976692/article/details/145326077)
 
++ [Spring Boot中选择性加载Bean的几种方式](https://blog.csdn.net/qq_42108331/article/details/145310622)
+
++ [GaussDB高级压缩，破解业务数据激增难](https://blog.csdn.net/GaussDB/article/details/145337464)
+
