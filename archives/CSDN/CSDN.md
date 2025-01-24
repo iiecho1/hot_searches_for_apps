@@ -191,3 +191,13 @@
 
 + [web服务器 网站部署的架构](https://blog.csdn.net/qzhqbb/article/details/145310976)
 
++ [Meta-CoT：通过元链式思考增强大型语言模型的推理能力](https://blog.csdn.net/m0_46510245/article/details/145335423)
+
++ [【深度学习】神经网络实战分类与回归任务](https://blog.csdn.net/Father_Of_Soft/article/details/145329566)
+
++ [HTML新春烟花](https://blog.csdn.net/m0_68111267/article/details/145339532)
+
++ [【技术总结】数据驱动的用户行为操作埋点方案：设计、实践与优化](https://blog.csdn.net/weixin_36755535/article/details/145326276)
+
++ [2025年美赛（A题）楼梯的持续磨损建模|数学建模竞赛解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/145337437)
+

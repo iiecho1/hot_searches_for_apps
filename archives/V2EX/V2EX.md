@@ -41,3 +41,7 @@
 
 + [在 X 上发现一个能开启真正 callkit 的方法](https://www.v2ex.com/t/1107499)
 
++ [更新🎉+送终身会员🎁 带壳截图工具 NiceShots 支持视频套壳啦！](https://www.v2ex.com/t/1107535)
+
++ [大佬们，一人出一个居家好物，年后准备搬家](https://www.v2ex.com/t/1107531)
+
