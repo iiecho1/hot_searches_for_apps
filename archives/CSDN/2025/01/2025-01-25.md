@@ -125,3 +125,5 @@
 
 + [一键视频转文字／音频转文字，浏览器右键提取B站视频文案，不限时长免费无限次可用](https://blog.csdn.net/axutongxue/article/details/145325415)
 
++ [在代码的虚实架构里：操作符与数据处理的灵魂和鸣（下）](https://blog.csdn.net/2501_90089451/article/details/145319612)
+
