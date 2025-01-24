@@ -213,3 +213,5 @@
 
 + [Spring Boot 自动配置](https://blog.csdn.net/2301_76161469/article/details/144189052)
 
++ [使用 C++ 在深度学习中的应用：如何通过 C++20 构建高效神经网络](https://blog.csdn.net/u014358031/article/details/145326734)
+
