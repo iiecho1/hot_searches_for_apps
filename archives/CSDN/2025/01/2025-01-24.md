@@ -177,3 +177,7 @@
 
 + [GaussDB高级压缩，破解业务数据激增难](https://blog.csdn.net/GaussDB/article/details/145337464)
 
++ [2024：人工智能大模型的璀璨年代](https://blog.csdn.net/herosunly/article/details/145220916)
+
++ [2025美国大学生数学建模竞赛（B题）深度剖析|可持续旅游产业建模|数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/145333349)
+
