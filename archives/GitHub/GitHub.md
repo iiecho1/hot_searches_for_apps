@@ -27,3 +27,15 @@
 
 + [elizaOS/eliza](https://github.com/elizaOS/eliza)
 
++ [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+
++ [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+
++ [storybookjs/storybook](https://github.com/storybookjs/storybook)
+
++ [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)
+
++ [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
