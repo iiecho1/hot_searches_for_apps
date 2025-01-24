@@ -195,3 +195,7 @@
 
 + [1500名美军前往美国南部边境 协助国民警卫队执行安全任务](https://news.cctv.com/2025/01/24/ARTIECOUMYAknOc8ICRMZyo1250124.shtml)
 
++ [韩国检方申请将尹锡悦拘留期限延长至2月6日](https://news.cctv.com/2025/01/24/ARTI3d87hqQa9xt7TEl7B4BT250124.shtml)
+
++ [美国加州新发山火“休斯大火”持续蔓延 1.62万居民接到疏散命令](https://news.cctv.com/2025/01/24/ARTI40KLASLDvUqEtDZ8RgYi250124.shtml)
+

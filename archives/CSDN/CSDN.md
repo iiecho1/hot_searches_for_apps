@@ -181,3 +181,13 @@
 
 + [2025美国大学生数学建模竞赛（B题）深度剖析|可持续旅游产业建模|数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/145333349)
 
++ [2025数学建模美赛C题完整建模思路——奥运会奖牌榜的模型](https://blog.csdn.net/Yilu264/article/details/145334075)
+
++ [【Elasticsearch】聚合分析：度量聚合](https://blog.csdn.net/lilinhai548/article/details/145338245)
+
++ [2025年数学建模美赛（MCM）B题阅读与思考](https://blog.csdn.net/carefreekid123/article/details/145335282)
+
++ [OpenAI模块重构](https://blog.csdn.net/m0_64637029/article/details/145335395)
+
++ [web服务器 网站部署的架构](https://blog.csdn.net/qzhqbb/article/details/145310976)
+

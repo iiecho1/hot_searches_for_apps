@@ -35,3 +35,9 @@
 
 + [为啥洗碗机一定要买大小能放炒锅进去的？](https://www.v2ex.com/t/1107522)
 
++ [不要在用 Cursor 制造垃圾了！](https://www.v2ex.com/t/1107536)
+
++ [现在(2025)使用 intel 芯片 mac 有什么潜在问题](https://www.v2ex.com/t/1107407)
+
++ [在 X 上发现一个能开启真正 callkit 的方法](https://www.v2ex.com/t/1107499)
+
