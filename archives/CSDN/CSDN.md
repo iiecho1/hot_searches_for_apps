@@ -121,3 +121,7 @@
 
 + [Vue - ref( ) 和 reactive( ) 响应式数据的使用](https://blog.csdn.net/2302_81312344/article/details/145310716)
 
++ [使用 Elasticsearch 导航检索增强生成图表](https://blog.csdn.net/UbuntuTouch/article/details/145300481)
+
++ [一键视频转文字／音频转文字，浏览器右键提取B站视频文案，不限时长免费无限次可用](https://blog.csdn.net/axutongxue/article/details/145325415)
+
