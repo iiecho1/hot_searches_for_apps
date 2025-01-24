@@ -159,3 +159,5 @@
 
 + [计算机视觉算法实战——无人机检测](https://blog.csdn.net/m0_65481401/article/details/145330455)
 
++ [Ceisum无人机巡检直播视频投射](https://blog.csdn.net/daimaxiaodao/article/details/144312810)
+

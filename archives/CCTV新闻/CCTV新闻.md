@@ -173,3 +173,9 @@
 
 + [土耳其警方拘留第12名滑雪酒店火灾涉事人员](https://news.cctv.com/2025/01/24/ARTIDSJytSNGPLBZT9OHod8P250124.shtml)
 
++ [巴黎协定美方签署人谈特朗普退群](https://news.cctv.com/2025/01/24/ARTIuGodswEpeuCLOJlGWIjo250124.shtml)
+
++ [多国谴责以军在约旦河西岸的军事行动](https://military.cctv.com/2025/01/24/ARTIV3oVCI2AyGmgEbypUqGM250124.shtml)
+
++ [苏丹冲突双方互指对方烧毁该国最大炼油厂](https://news.cctv.com/2025/01/24/ARTIpFjia6Uk8Dv1aD6WXbS0250124.shtml)
+
