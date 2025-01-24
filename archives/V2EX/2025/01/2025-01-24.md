@@ -19,3 +19,13 @@
 
 + [Instagram 太变态了，是怎么判定我是 +86 的呢](https://www.v2ex.com/t/1107303)
 
++ [音乐收费真的好吗？](https://www.v2ex.com/t/1107468)
+
++ [2025 年，手里七八万存哪安全又划算？](https://www.v2ex.com/t/1107363)
+
++ [今年过年出国游还是算了吧](https://www.v2ex.com/t/1107473)
+
++ [A 股又要涨了？](https://www.v2ex.com/t/1107295)
+
++ [电脑频繁死机，是 CPU 要挂了吗？](https://www.v2ex.com/t/1107332)
+

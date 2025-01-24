@@ -179,3 +179,7 @@
 
 + [苏丹冲突双方互指对方烧毁该国最大炼油厂](https://news.cctv.com/2025/01/24/ARTIpFjia6Uk8Dv1aD6WXbS0250124.shtml)
 
++ [“美国顶尖摄影师旅拍广东”摄影展在美国加州举行](https://photo.cctv.com/2025/01/24/PHOAa9ptTXPDmOSFYzy6zclJ250124.shtml)
+
++ [粮农组织举办招待会庆祝中国农历春节](https://photo.cctv.com/2025/01/24/PHOAfNCalqFRpk9HtpBuzsal250124.shtml)
+

@@ -161,3 +161,11 @@
 
 + [Ceisum无人机巡检直播视频投射](https://blog.csdn.net/daimaxiaodao/article/details/144312810)
 
++ [2025美赛数学建模B题：管理可持续旅游——思路+代码+模型](https://blog.csdn.net/weixin_45499067/article/details/145333161)
+
++ [2025美赛数学建模MCM问题C：奥运会奖牌榜模型（Problem C:Models for Olympic Medal Tables）完整思路 模型 源代码 结果分享](https://blog.csdn.net/2403_86854718/article/details/145333163)
+
++ [2025美赛数学建模ABCDEF题选题分析+思路代码解题+数据集收集途径获取](https://blog.csdn.net/sxjm9947/article/details/145333138)
+
++ [2025年美赛(MCM/ICM)赛题浅析——助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/145333327)
+
