@@ -201,3 +201,7 @@
 
 + [2025年美赛（A题）楼梯的持续磨损建模|数学建模竞赛解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/145337437)
 
++ [2025数学建模美赛B题完整建模思路——管理可持续旅游业](https://blog.csdn.net/Yilu264/article/details/145334271)
+
++ [2025年美赛数学建模B题管理可持续旅游Matlab代码和思路](https://blog.csdn.net/matlab_dingdang/article/details/145339909)
+

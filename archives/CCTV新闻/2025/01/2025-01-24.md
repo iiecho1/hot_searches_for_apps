@@ -199,3 +199,7 @@
 
 + [美国加州新发山火“休斯大火”持续蔓延 1.62万居民接到疏散命令](https://news.cctv.com/2025/01/24/ARTI40KLASLDvUqEtDZ8RgYi250124.shtml)
 
++ [外交部领保中心提醒海外中国公民春节期间提高安全意识](https://news.cctv.com/2025/01/24/ARTIjfD9kuRm3fiXOp5OtPLE250124.shtml)
+
++ [不在美生产就缴巨额关税！加拿大、欧盟又双叒叕被特朗普点名](https://news.cctv.com/2025/01/24/ARTIQ6D4K33ORADdWTqyiDj6250124.shtml)
+
