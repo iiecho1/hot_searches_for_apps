@@ -101,3 +101,7 @@
 
 + [2025年美赛（A题）楼梯的持续磨损建模|数学建模竞赛解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/145337437)
 
++ [使用 C++ 在深度学习中的应用：如何通过 C++20 构建高效神经网络](https://blog.csdn.net/u014358031/article/details/145326734)
+
++ [深耕C/C++，解锁CV技术深度的钥匙](https://blog.csdn.net/evm_doc/article/details/145305051)
+

@@ -161,3 +161,7 @@
 
 + [中匈联合发行蛇年生肖邮票](https://news.cctv.com/2025/01/22/ARTIuiavtc2Y428KiDiyYwU1250122.shtml)
 
++ [普京：俄罗斯已做好就乌克兰问题进行谈判的准备](https://news.cctv.com/2025/01/25/ARTISZ7uuvn7qt6mxrvuV0eT250125.shtml)
+
++ [哈马斯称将于25日释放4名以色列女兵](https://news.cctv.com/2025/01/25/ARTIsFDJSOZqWD3zh2TCVySm250125.shtml)
+
