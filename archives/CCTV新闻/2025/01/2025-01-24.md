@@ -169,3 +169,7 @@
 
 + [匈牙利268所学校收到炸弹威胁 目前无真实炸弹迹象](https://news.cctv.com/2025/01/24/ARTIkuLb3IyLTsZh0iCkNrNU250124.shtml)
 
++ [美总统的行政令 真有这么大威力？](https://news.cctv.com/2025/01/24/ARTIXVKH7EIvrSR6TWSyyx0B250124.shtml)
+
++ [土耳其警方拘留第12名滑雪酒店火灾涉事人员](https://news.cctv.com/2025/01/24/ARTIDSJytSNGPLBZT9OHod8P250124.shtml)
+

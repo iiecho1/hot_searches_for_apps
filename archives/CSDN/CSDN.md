@@ -145,3 +145,17 @@
 
 + [Spring Boot & MyBatis Plus 版本兼容问题（记录）](https://blog.csdn.net/qq_38288606/article/details/145300128)
 
++ [2025数学建模美赛A题-F题全题目完整建模/文章/代码汇总](https://blog.csdn.net/Yilu264/article/details/145330725)
+
++ [2025年数学建模美赛：A题分析（1）Testing Time: The Constant Wear On Stairs](https://blog.csdn.net/youcans/article/details/145319672)
+
++ [2025美赛数学建模C题思路模型代码（1.24第一时间更新）](https://blog.csdn.net/2301_81596622/article/details/145292640)
+
++ [Linux-arm(1)ATF启动流程](https://blog.csdn.net/Once_day/article/details/145330809)
+
++ [docker 部署.netcore应用优势在什么地方？](https://blog.csdn.net/AngelCryToo/article/details/145311486)
+
++ [25美赛ABCDEF题详细建模过程＋可视化图表＋参考论文＋写作模版＋数据预处理](https://blog.csdn.net/2501_90172271/article/details/145328956)
+
++ [计算机视觉算法实战——无人机检测](https://blog.csdn.net/m0_65481401/article/details/145330455)
+
