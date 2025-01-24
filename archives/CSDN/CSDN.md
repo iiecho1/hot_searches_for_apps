@@ -105,3 +105,15 @@
 
 + [深耕C/C++，解锁CV技术深度的钥匙](https://blog.csdn.net/evm_doc/article/details/145305051)
 
++ [关于ARM和汇编语言](https://blog.csdn.net/qq_57461392/article/details/145330852)
+
++ [《安富莱嵌入式周报》第349期：VSCode正式支持Matlab调试，DIY录音室级麦克风，开源流体吊坠，物联网在军工领域的应用，Unicode字符压缩解压](https://blog.csdn.net/Simon223/article/details/145294919)
+
++ [web服务器 网站部署的架构](https://blog.csdn.net/qzhqbb/article/details/145310976)
+
++ [学技术学英文：elasticsearch 的数据类型](https://blog.csdn.net/zfj321/article/details/145329301)
+
++ [[Spring] OpenFeign的使用](https://blog.csdn.net/2301_80050796/article/details/145303771)
+
++ [使用 Confluent Cloud 的 Elasticsearch Connector 部署 Elastic Agent](https://blog.csdn.net/UbuntuTouch/article/details/145336717)
+
