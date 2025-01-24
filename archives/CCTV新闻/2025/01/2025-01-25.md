@@ -165,3 +165,9 @@
 
 + [哈马斯称将于25日释放4名以色列女兵](https://news.cctv.com/2025/01/25/ARTIsFDJSOZqWD3zh2TCVySm250125.shtml)
 
++ [加息25个基点！日本宣布了！影响几何？](https://news.cctv.com/2025/01/25/ARTIcNFl6YfFvPZeP0sOjJIs250125.shtml)
+
++ [伊朗海军在伊南部水域进行大规模军演](https://military.cctv.com/2025/01/25/ARTI31jHSxjoi2gU8665PxKi250125.shtml)
+
++ [韩国法院未批准延长拘留尹锡悦 尹锡悦律师团要求“立即释放”](https://news.cctv.com/2025/01/25/ARTIC3EkxA2ynEQdjYnPFda0250125.shtml)
+

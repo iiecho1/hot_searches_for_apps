@@ -127,3 +127,5 @@
 
 + [在代码的虚实架构里：操作符与数据处理的灵魂和鸣（下）](https://blog.csdn.net/2501_90089451/article/details/145319612)
 
++ [2025美赛数学建模ABCDEF题选题分析+思路代码解题+数据集收集途径获取](https://blog.csdn.net/sxjm9947/article/details/145333138)
+
