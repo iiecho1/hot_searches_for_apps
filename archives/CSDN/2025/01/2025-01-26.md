@@ -101,3 +101,11 @@
 
 + [25美赛B题详细建模过程37页半成品](https://blog.csdn.net/2501_90172271/article/details/145338971)
 
++ [2025年数学建模美赛（MCM）C题阅读与思考](https://blog.csdn.net/carefreekid123/article/details/145336151)
+
++ [2025年数学建模美赛B题超详细思路+代码+成品论文](https://blog.csdn.net/qq_64901455/article/details/145354113)
+
++ [Linux的权限和一些shell原理](https://blog.csdn.net/2301_80028974/article/details/145346409)
+
++ [第四届电子信息工程、大数据与计算机技术](https://blog.csdn.net/2302_79376097/article/details/145347723)
+
