@@ -161,3 +161,7 @@
 
 + [第38周：猫狗识别 (Tensorflow实战第八周)](https://blog.csdn.net/weixin_46620278/article/details/145322732)
 
++ [计算机视觉：撕裂时空的视觉算法革命狂潮](https://blog.csdn.net/2401_82648291/article/details/145349424)
+
++ [Java数据库操作指南：快速上手JDBC【学术会议-2025年数字化教育与信息技术（DEIT 2025】](https://blog.csdn.net/2302_79376097/article/details/145248868)
+

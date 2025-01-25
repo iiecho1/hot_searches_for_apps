@@ -19,3 +19,13 @@
 
 + [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
++ [browserbase/stagehand](https://github.com/browserbase/stagehand)
+
++ [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+
++ [php/php-src](https://github.com/php/php-src)
+
++ [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
++ [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster)
+
