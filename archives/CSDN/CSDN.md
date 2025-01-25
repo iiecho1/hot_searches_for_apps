@@ -165,3 +165,9 @@
 
 + [Java数据库操作指南：快速上手JDBC【学术会议-2025年数字化教育与信息技术（DEIT 2025】](https://blog.csdn.net/2302_79376097/article/details/145248868)
 
++ [计算机视觉-卷积](https://blog.csdn.net/weixin_61091146/article/details/145323509)
+
++ [PyTorch 模型 浅读](https://blog.csdn.net/u012561308/article/details/145319248)
+
++ [【高创新】基于matlab布谷鸟算法CS-CNN-LSTM-Attention用客流量预测【含Matlab源码 8426期】](https://blog.csdn.net/TIQCmatlab/article/details/145346347)
+
