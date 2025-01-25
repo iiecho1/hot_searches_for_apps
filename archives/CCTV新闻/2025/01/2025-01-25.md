@@ -175,3 +175,13 @@
 
 + [绿色低碳转型和高水平对外开放引关注 中国市场“磁吸力”持续增强](https://news.cctv.com/2025/01/25/ARTILJiG0f8feuTEQg0aD3Wm250125.shtml)
 
++ [新春中国行丨团聚、好运、传统——巴西人眼中的中国春节](https://news.cctv.com/2025/01/25/ARTIoVojvAVstUnFIUvmNfye250125.shtml)
+
++ [联合国秘书长古特雷斯发布中国农历新年致辞](https://news.cctv.com/2025/01/25/ARTIGRFEkZOfCGzeLiOJCg6W250125.shtml)
+
++ [世界经济论坛年会呼吁合作应对全球挑战](https://news.cctv.com/2025/01/25/ARTINDwX24NoXh717BjGienM250125.shtml)
+
++ [从两个“苹果”看中国国际秩序观](https://news.cctv.com/2025/01/25/ARTIHRGTdARmoTxdzmK0NKTP250125.shtml)
+
++ [哥伦比亚防长：已对反政府武装组织发动军事进攻](https://news.cctv.com/2025/01/25/ARTIDWtZ45WKGTepWtaNaw3t250125.shtml)
+
