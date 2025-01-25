@@ -73,3 +73,5 @@
 
 + [井上尚弥 vs 金胤俊](https://m.acfun.cn/v/%3Fac%3D46807603)
 
++ [【金坷垃】忍者ハットリくん](https://m.acfun.cn/v/%3Fac%3D46807894)
+
