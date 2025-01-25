@@ -169,3 +169,9 @@
 
 + [黎巴嫩军队继续在利塔尼河以南地区进行部署](https://news.cctv.com/2025/01/26/ARTIGJe55RoSmFgDoZFzuFTR250126.shtml)
 
++ [白宫指示美国防部解除对向以色列供应2000磅炸弹的限制](https://news.cctv.com/2025/01/26/ARTICAr0gTEPINoB0ZSCTJDp250126.shtml)
+
++ [联合国从刚果（金）戈马市转移非必要工作人员](https://news.cctv.com/2025/01/26/ARTI1cTcKFhyG9LnRPo0pmDE250126.shtml)
+
++ [阿富汗塔哈尔省发生爆炸事件](https://news.cctv.com/2025/01/26/ARTIMuWSRFpVq7TBJgRb5CWS250126.shtml)
+
