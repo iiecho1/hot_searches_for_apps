@@ -163,3 +163,9 @@
 
 + [2025达沃斯论坛的一些流行词](https://news.cctv.com/2025/01/26/ARTIIYEDJUzp1EjS8LNjmaE9250125.shtml)
 
++ [2025年“欢乐春节”全球启动仪式在吉隆坡举行](https://news.cctv.com/2025/01/26/ARTIP9akQFBcLacL1OyOKjf0250126.shtml)
+
++ [2024财年美国对外军售额创历史新高](https://news.cctv.com/2025/01/26/ARTI1mOdtbdm7OsCHOQTFQxJ250126.shtml)
+
++ [黎巴嫩军队继续在利塔尼河以南地区进行部署](https://news.cctv.com/2025/01/26/ARTIGJe55RoSmFgDoZFzuFTR250126.shtml)
+
