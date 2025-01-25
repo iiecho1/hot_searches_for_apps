@@ -155,3 +155,9 @@
 
 + [基于Hadoop的汽车大数据分析系统设计与实现【爬虫、数据预处理、MapReduce、echarts、Flask】](https://blog.csdn.net/m0_74824002/article/details/145342586)
 
++ [2025年美赛(MCM)C题超详细解题思路1|O奖得主倾力之作](https://blog.csdn.net/qq_33690821/article/details/145333375)
+
++ [第17篇：python进阶：详解数据分析与处理](https://blog.csdn.net/martian665/article/details/145117252)
+
++ [第38周：猫狗识别 (Tensorflow实战第八周)](https://blog.csdn.net/weixin_46620278/article/details/145322732)
+
