@@ -125,3 +125,5 @@
 
 + [Elastic Agent 对 Kafka 的新输出：数据收集和流式传输的无限可能性](https://blog.csdn.net/UbuntuTouch/article/details/145356718)
 
++ [Vue核心知识：Pinia与localStorage和sessionStorage的结合使用](https://blog.csdn.net/sixpp/article/details/145349478)
+
