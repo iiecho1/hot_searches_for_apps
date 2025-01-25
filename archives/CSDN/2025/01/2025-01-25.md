@@ -141,3 +141,9 @@
 
 + [在K8S中，如何使用EFK实现日志的统一管理？](https://blog.csdn.net/qq_56408123/article/details/145329603)
 
++ [无线通信与人工智能技术与发展年度总结](https://blog.csdn.net/ccsss22/article/details/145304804)
+
++ [LabVIEW橡胶动态特性测试系统](https://blog.csdn.net/bjcyck/article/details/145350315)
+
++ [25美赛B题详细建模过程37页半成品](https://blog.csdn.net/2501_90172271/article/details/145338971)
+
