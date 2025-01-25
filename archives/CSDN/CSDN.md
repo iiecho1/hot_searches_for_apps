@@ -147,3 +147,5 @@
 
 + [25美赛B题详细建模过程37页半成品](https://blog.csdn.net/2501_90172271/article/details/145338971)
 
++ [面向长文本的多模型协作摘要架构：多LLM文本摘要方法](https://blog.csdn.net/m0_46510245/article/details/145352060)
+
