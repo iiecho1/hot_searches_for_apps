@@ -135,3 +135,9 @@
 
 + [【网络编程】Java高并发IO模型深度指南：BIO、NIO、AIO核心解析与实战选型](https://blog.csdn.net/weixin_66401877/article/details/145348635)
 
++ [【2025美赛A题】楼梯的持续磨损建模｜建模过程+完整代码论文全解全析](https://blog.csdn.net/wxhzly__030/article/details/145340063)
+
++ [如何快速开发LabVIEW项目，成为LabVIEW开发的高手](https://blog.csdn.net/bjcyck/article/details/145336467)
+
++ [在K8S中，如何使用EFK实现日志的统一管理？](https://blog.csdn.net/qq_56408123/article/details/145329603)
+

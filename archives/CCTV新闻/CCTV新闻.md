@@ -185,3 +185,9 @@
 
 + [哥伦比亚防长：已对反政府武装组织发动军事进攻](https://news.cctv.com/2025/01/25/ARTIDWtZ45WKGTepWtaNaw3t250125.shtml)
 
++ [特朗普施压“结束俄乌冲突” 国际媒体表示迅速解决困难重重](https://news.cctv.com/2025/01/25/ARTIxU32vlnCno3CxwlGISKl250125.shtml)
+
++ [菲律宾坎拉翁火山多次小规模喷发 处于3级警戒状态](https://news.cctv.com/2025/01/25/ARTIcUGPOfCpVzqQnGPHVQO7250125.shtml)
+
++ [日本东京轨道交通百合鸥线停电 约200名乘客从高架桥上疏散](https://news.cctv.com/2025/01/25/ARTIwFYJdnWDAdIX9pBbKbqh250125.shtml)
+
