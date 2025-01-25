@@ -191,3 +191,9 @@
 
 + [【2024年终总结】深圳工作生活评测](https://blog.csdn.net/csdnerM/article/details/145307839)
 
++ [Elastic Agent 对 Kafka 的新输出：数据收集和流式传输的无限可能性](https://blog.csdn.net/UbuntuTouch/article/details/145356718)
+
++ [【Linux】命令为桥，存在为岸，穿越虚拟世界的哲学之道](https://blog.csdn.net/2301_79849925/article/details/145354829)
+
++ [【React】PureComponent 和 Component 的区别](https://blog.csdn.net/qq_38951259/article/details/145282525)
+
