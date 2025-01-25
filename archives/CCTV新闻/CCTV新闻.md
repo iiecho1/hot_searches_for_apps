@@ -173,3 +173,5 @@
 
 + [“欢乐春节”活动在约旦受到热烈欢迎 当地人士称中国发展理念将惠及全球](https://news.cctv.com/2025/01/25/ARTIeAWXxHWdWkIKf3tdRVew250125.shtml)
 
++ [绿色低碳转型和高水平对外开放引关注 中国市场“磁吸力”持续增强](https://news.cctv.com/2025/01/25/ARTILJiG0f8feuTEQg0aD3Wm250125.shtml)
+
