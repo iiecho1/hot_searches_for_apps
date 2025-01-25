@@ -123,3 +123,5 @@
 
 + [【无人机】无人机视觉定位附matlab代码](https://blog.csdn.net/m0_60703264/article/details/145359068)
 
++ [Elastic Agent 对 Kafka 的新输出：数据收集和流式传输的无限可能性](https://blog.csdn.net/UbuntuTouch/article/details/145356718)
+
