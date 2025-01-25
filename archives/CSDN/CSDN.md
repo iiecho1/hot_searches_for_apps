@@ -149,3 +149,9 @@
 
 + [面向长文本的多模型协作摘要架构：多LLM文本摘要方法](https://blog.csdn.net/m0_46510245/article/details/145352060)
 
++ [TCP协议(网络)](https://blog.csdn.net/2401_83427936/article/details/145339962)
+
++ [大数据k-means聚类算法：基于k-means聚类算法+NLP微博舆情数据爬虫可视化分析推荐系统](https://blog.csdn.net/Myx74270512/article/details/145345259)
+
++ [基于Hadoop的汽车大数据分析系统设计与实现【爬虫、数据预处理、MapReduce、echarts、Flask】](https://blog.csdn.net/m0_74824002/article/details/145342586)
+
