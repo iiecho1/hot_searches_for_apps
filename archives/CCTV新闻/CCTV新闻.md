@@ -203,3 +203,11 @@
 
 + [世界经济论坛高层人士表示对中国经济发展前景充满信心](https://news.cctv.com/2025/01/25/ARTIUZw8ex210qxvCcQdh52k250125.shtml)
 
++ [苏丹北达尔富尔州一医院遭袭致68人死亡](https://news.cctv.com/2025/01/25/ARTICorXwGk2EQcPOhCdYMm1250125.shtml)
+
++ [70名巴勒斯坦被扣押人员通过拉法口岸进入埃及](https://news.cctv.com/2025/01/25/ARTIEnAIkW4aBUiFxpOGZg7i250125.shtml)
+
++ [大英博物馆技术系统遭人为破坏 被迫部分关闭](https://news.cctv.com/2025/01/25/ARTIXfG3zwbUyKbAbOSD6qYh250125.shtml)
+
++ [以方证实已完成200名巴勒斯坦囚犯的释放工作](https://news.cctv.com/2025/01/25/ARTI7FDCGyKNn00RBAX8djOU250125.shtml)
+

@@ -183,3 +183,11 @@
 
 + [多模态论文笔记——ViViT](https://blog.csdn.net/haopinglianlian/article/details/145350284)
 
++ [将 OneLake 数据索引到 Elasticsearch - 第二部分](https://blog.csdn.net/UbuntuTouch/article/details/145357580)
+
++ [Vue2下篇](https://blog.csdn.net/2301_81253185/article/details/145353781)
+
++ [Vue核心知识：Pinia与localStorage和sessionStorage的结合使用](https://blog.csdn.net/sixpp/article/details/145349478)
+
++ [【2024年终总结】深圳工作生活评测](https://blog.csdn.net/csdnerM/article/details/145307839)
+
