@@ -163,3 +163,11 @@
 
 + [effective-Objective-C 第四章阅读笔记](https://blog.csdn.net/qq_73106050/article/details/145344391)
 
++ [【重磅AI论文】DeepSeek-R1：通过强化学习激励大语言模型（LLMs）的推理能力](https://blog.csdn.net/m0_66899341/article/details/145330269)
+
++ [计算机网络三张表（ARP表、MAC表、路由表）总结](https://blog.csdn.net/qq_28576837/article/details/145328947)
+
++ [MySQL通过binlog恢复数据](https://blog.csdn.net/Lucius_/article/details/145344496)
+
++ [【esp32-uniapp】uniapp小程序篇02——引入组件库](https://blog.csdn.net/qq_61798306/article/details/145299863)
+
