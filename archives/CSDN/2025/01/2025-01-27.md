@@ -159,3 +159,9 @@
 
 + [使用 Python 和 Tesseract 实现验证码识别](https://blog.csdn.net/fudaihb/article/details/145317334)
 
++ [C# 探秘：PDFiumCore 开启PDF读取魔法之旅](https://blog.csdn.net/weixin_44064908/article/details/145346283)
+
++ [基于SpringBoot的软件产品展示销售系统](https://blog.csdn.net/2301_78335941/article/details/145358074)
+
++ [【学术祛魅经历】配电网高阻接地故障检测方向论文纠错](https://blog.csdn.net/qq_51334201/article/details/145370527)
+
