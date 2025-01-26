@@ -179,3 +179,5 @@
 
 + [3名联合国维和人员在刚果（金）东部冲突中身亡](https://news.cctv.com/2025/01/27/ARTIGZAPi9qWT2AjLDNmVh03250127.shtml)
 
++ [中国代表谴责“M23运动”袭击刚果（金）平民和维和人员](https://news.cctv.com/2025/01/27/ARTIOXeO66k7PpHvbS3PfV7E250127.shtml)
+
