@@ -111,3 +111,31 @@
 
 + [effective-Objective-C 第四章阅读笔记](https://blog.csdn.net/qq_73106050/article/details/145344391)
 
++ [【机器学习】深入探索SVM：支持向量机的原理与应用](https://blog.csdn.net/2301_76820214/article/details/145372163)
+
++ [机器学习01 —— 线性回归&梯度下降](https://blog.csdn.net/nyxdsb/article/details/145373269)
+
++ [CSDN 博客之星 2024：肖哥弹架构的社区耕耘总结](https://blog.csdn.net/alises1314/article/details/145340067)
+
++ [鸿蒙NEXT（五）：鸿蒙版React Native架构浅析](https://blog.csdn.net/m0_74825746/article/details/145348817)
+
++ [大数据k-means聚类算法：基于k-means聚类算法+NLP微博舆情数据爬虫可视化分析推荐系统](https://blog.csdn.net/Myx74270512/article/details/145345259)
+
++ [PyCharm接入DeepSeek实现AI编程](https://blog.csdn.net/qq_63708623/article/details/145370942)
+
++ [Kafka 副本机制（包含AR、ISR、OSR、HW 和 LEO 介绍）](https://blog.csdn.net/2401_83413238/article/details/145372081)
+
++ [Redisson分布式限流的使用及原理](https://blog.csdn.net/weixin_66400215/article/details/145359927)
+
++ [微服务网关鉴权之sa-token](https://blog.csdn.net/m0_72618563/article/details/145355673)
+
++ [中国人民大学视频生成模型——VDT（与之后的Sora最接近的架构）](https://blog.csdn.net/haopinglianlian/article/details/145366245)
+
++ [RabbitMQ 分布式高可用](https://blog.csdn.net/weixin_44550507/article/details/145348509)
+
++ [Mockplus（摹客）和墨刀（Moqups）](https://blog.csdn.net/chenby186119/article/details/144787392)
+
++ [【WebRTC - STUN/TURN服务 - COTURN配置】](https://blog.csdn.net/qq_38428433/article/details/145372771)
+
++ [Roo Code完全指南：Cline的最强分叉升级，AI编程助手新标杆](https://blog.csdn.net/weixin_46074689/article/details/145346311)
+

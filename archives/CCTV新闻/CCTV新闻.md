@@ -161,3 +161,19 @@
 
 + [“中国海外投资带来了双赢”](https://news.cctv.com/2025/01/23/ARTINZBd9uOKREsK5PJtPiPv250123.shtml)
 
++ [巴基斯坦西南部一客车遇袭致1死7伤](https://news.cctv.com/2025/01/27/ARTIHnyKabbOeuGbmpMMTlQm250127.shtml)
+
++ [拉脱维亚与瑞典的一条水下光缆遭到损坏](https://news.cctv.com/2025/01/27/ARTIsWS9SMIzO03A2fzjLKq9250127.shtml)
+
++ [出口民调显示卢卡申科将赢得白俄罗斯总统选举](https://news.cctv.com/2025/01/27/ARTIDagH35Puk33aiKLLhjBH250127.shtml)
+
++ [黎卫生部：以军向黎南部居民开火 致22人死亡](https://news.cctv.com/2025/01/27/ARTI268jZKUtg3ux6zlOgK8a250127.shtml)
+
++ [美国中东问题特使将前往以色列 监督执行停火协议](https://news.cctv.com/2025/01/27/ARTI13fJMbHIOClr4zaQ8MMK250127.shtml)
+
++ [联合国秘书长对刚果（金）东部暴力升级深表关切](https://news.cctv.com/2025/01/27/ARTIUCAvVeAd4c4TNAuLp9KA250127.shtml)
+
++ [哥伦比亚总统：拒绝接受美国驱逐移民航班](https://news.cctv.com/2025/01/27/ARTI1okwWIWh7L7rrH68Yums250127.shtml)
+
++ [欧盟考虑暂停对叙利亚能源和运输制裁](https://news.cctv.com/2025/01/27/ARTI07AV05xSD6kmFFDuqrKS250127.shtml)
+
