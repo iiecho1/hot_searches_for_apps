@@ -21,3 +21,15 @@
 
 + [storybookjs/storybook](https://github.com/storybookjs/storybook)
 
++ [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
+
++ [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
+
++ [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+
++ [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
+
++ [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
+
++ [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack)
+
