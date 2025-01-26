@@ -183,3 +183,15 @@
 
 + [莫斯科举办春节文化体验活动](https://photo.cctv.com/2025/01/26/PHOAcfC44i3LlKr6u8VY4BT8250126.shtml)
 
++ [美总统专机“空军一号”将改色？特朗普：想要深蓝](https://news.cctv.com/2025/01/26/ARTIYEA4ZKFIcLZEgWpcAmin250126.shtml)
+
++ [多边合作是推动全球复苏必由之路](https://news.cctv.com/2025/01/26/ARTINM3cOBhP0Fs4kfOakPnZ250126.shtml)
+
++ [记者手记｜2025达沃斯论坛的一些流行词](https://news.cctv.com/2025/01/26/ARTI68vU0p2PEZhdpK2ceRJO250126.shtml)
+
++ [互致新春祝福 共期美好未来——我驻外使领馆举办活动喜迎蛇年春节](https://news.cctv.com/2025/01/26/ARTIfdFCqPyS3Z81eKfiR5qn250126.shtml)
+
++ [“非中是彼此真正的朋友和伙伴”——访坦桑尼亚尼雷尔基金会董事会主席布提库](https://news.cctv.com/2025/01/26/ARTIUThmbwyYv9tgyl9a5kXQ250126.shtml)
+
++ [“巴西和中国树立了合作典范”——访巴西塞阿拉州州长迪弗雷塔斯](https://news.cctv.com/2025/01/26/ARTIvQlUgoCpwnCtbWUrpHc2250126.shtml)
+

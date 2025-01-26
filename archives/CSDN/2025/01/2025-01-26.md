@@ -141,3 +141,11 @@
 
 + [【技术总结】数据驱动的用户行为操作埋点方案：设计、实践与优化](https://blog.csdn.net/weixin_36755535/article/details/145326276)
 
++ [AI 大模型迷雾：藏着哪些颠覆认知的智能密码？](https://blog.csdn.net/2401_82648291/article/details/145349473)
+
++ [2025MCM美国大学生数学建模竞赛C题-Models for Olympic Medal Tables详解+建模论文+源代码](https://blog.csdn.net/master_hunter/article/details/145357603)
+
++ [matlab光栅滤波实现图像加减](https://blog.csdn.net/weixin_43970743/article/details/144871482)
+
++ [SpringCloud两种注册中心](https://blog.csdn.net/Annaday/article/details/145347937)
+
