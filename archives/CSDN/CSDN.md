@@ -135,3 +135,9 @@
 
 + [Win11电脑如何设置每天早上定时自动开机？6大方案详解+多系统攻略](https://blog.csdn.net/qq_44866828/article/details/145352199)
 
++ [2025美赛数学建模C题：奥运奖牌榜模型——思路+代码+模型](https://blog.csdn.net/weixin_45499067/article/details/145333369)
+
++ [基于自然语言处理的垃圾短信识别系统](https://blog.csdn.net/lwcwam/article/details/145346143)
+
++ [【技术总结】数据驱动的用户行为操作埋点方案：设计、实践与优化](https://blog.csdn.net/weixin_36755535/article/details/145326276)
+
