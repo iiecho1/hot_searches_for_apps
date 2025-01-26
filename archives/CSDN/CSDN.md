@@ -149,3 +149,5 @@
 
 + [SpringCloud两种注册中心](https://blog.csdn.net/Annaday/article/details/145347937)
 
++ [ .NET 9 微软官方推荐使用 Scalar 替代传统的 Swagger](https://blog.csdn.net/zzlyx99/article/details/145320602)
+
