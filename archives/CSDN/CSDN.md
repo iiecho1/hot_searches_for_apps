@@ -155,3 +155,5 @@
 
 + [【Linux网络编程】数据链路层--以太网协议](https://blog.csdn.net/m0_73904148/article/details/141939836)
 
++ [论文阅读的附录（八）：Understanding Diffusion Models: A Unified Perspective（五）：逐步加噪评分匹配](https://blog.csdn.net/xzs1210652636/article/details/145373372)
+
