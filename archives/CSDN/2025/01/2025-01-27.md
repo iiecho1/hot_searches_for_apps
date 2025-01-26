@@ -157,3 +157,5 @@
 
 + [论文阅读的附录（八）：Understanding Diffusion Models: A Unified Perspective（五）：逐步加噪评分匹配](https://blog.csdn.net/xzs1210652636/article/details/145373372)
 
++ [使用 Python 和 Tesseract 实现验证码识别](https://blog.csdn.net/fudaihb/article/details/145317334)
+

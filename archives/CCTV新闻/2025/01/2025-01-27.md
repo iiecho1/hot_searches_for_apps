@@ -181,3 +181,7 @@
 
 + [中国代表谴责“M23运动”袭击刚果（金）平民和维和人员](https://news.cctv.com/2025/01/27/ARTIOXeO66k7PpHvbS3PfV7E250127.shtml)
 
++ [玻利维亚一巴士发生侧翻 造成19人死亡](https://news.cctv.com/2025/01/27/ARTIOxYbtssyQZdW5aqUcNIA250127.shtml)
+
++ [哥伦比亚决定派总统专机接回被美国遣返的移民](https://news.cctv.com/2025/01/27/ARTIysUR5c1clKe6MBZzhytW250127.shtml)
+
