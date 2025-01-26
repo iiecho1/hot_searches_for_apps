@@ -41,3 +41,7 @@
 
 + [如何整治小区里没素质的人？](https://www.v2ex.com/t/1107831)
 
++ [我好像被诈骗了 20 万](https://www.v2ex.com/t/1107949)
+
++ [好久不用我的 chatgpt-O1 出问题了你们的怎么样](https://www.v2ex.com/t/1107881)
+

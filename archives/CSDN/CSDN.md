@@ -171,3 +171,15 @@
 
 + [【esp32-uniapp】uniapp小程序篇02——引入组件库](https://blog.csdn.net/qq_61798306/article/details/145299863)
 
++ [猫头虎分享：程序员春节特别版——请假条&年终总结模版（含AI提示词）](https://blog.csdn.net/qq_44866828/article/details/145369631)
+
++ [▲pi4-QPSK调制解调通信链路matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/145370216)
+
++ [守护资产，防范风险 | 2025年Web3.0资产安全指南](https://blog.csdn.net/weixin_58310340/article/details/145344700)
+
++ [deepseek-r1落地指南（搭建web-ui | 搭建本地代码编辑器）](https://blog.csdn.net/weixin_44555174/article/details/145359573)
+
++ [HTML&CSS ：下雪了](https://blog.csdn.net/weixin_52814911/article/details/145335212)
+
++ [【云安全】云原生-Docker（五）容器逃逸之漏洞利用](https://blog.csdn.net/ggqiuhui/article/details/145299637)
+

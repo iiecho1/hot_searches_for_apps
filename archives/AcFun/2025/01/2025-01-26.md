@@ -117,3 +117,5 @@
 
 + [第75届NHK红白歌合战 献给你的歌 全场中字@NHK BSP4K](https://m.acfun.cn/v/%3Fac%3D46803757)
 
++ [国外老哥真酸了！锦绣火鹰二三事【绅批】](https://m.acfun.cn/v/%3Fac%3D46811994)
+
