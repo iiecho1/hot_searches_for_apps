@@ -189,3 +189,9 @@
 
 + [（CICD）自动化构建打包、部署(Jenkins + maven+ gitlab+tomcat)](https://blog.csdn.net/m0_74824661/article/details/145349069)
 
++ [【HarmonyOS之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(二)](https://blog.csdn.net/weixin_74809706/article/details/145367731)
+
++ [[ Spring ] Spring Cloud Alibaba Message Stream Binder for RocketMQ 2025](https://blog.csdn.net/u013718730/article/details/145355966)
+
++ [[Redis] 3w字带你详解redis 分布式系统 | 数据类型内部编码 | 过期策略| 持久化机制(RDB && AOF)| 事务 | 主从复制 | 哨兵机制 | 缓存 | 分布式锁](https://blog.csdn.net/weixin_75071792/article/details/145310421)
+
