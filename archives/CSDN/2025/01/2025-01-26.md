@@ -151,3 +151,7 @@
 
 + [ .NET 9 微软官方推荐使用 Scalar 替代传统的 Swagger](https://blog.csdn.net/zzlyx99/article/details/145320602)
 
++ [机器人奇点：从宇树科技看2025具身智能发展](https://blog.csdn.net/m0_58966968/article/details/145327369)
+
++ [金融级分布式数据库如何优化？PawSQL发布OceanBase专项调优指南](https://blog.csdn.net/PawSQL/article/details/145344487)
+

@@ -195,3 +195,11 @@
 
 + [“巴西和中国树立了合作典范”——访巴西塞阿拉州州长迪弗雷塔斯](https://news.cctv.com/2025/01/26/ARTIvQlUgoCpwnCtbWUrpHc2250126.shtml)
 
++ [挥舞“关税大棒” 特朗普威胁对多国加征关税引关注](https://news.cctv.com/2025/01/26/ARTIDzXaaJOjlRXja9gMWvZX250126.shtml)
+
++ [美国务院暂停绝大多数对外援助 国际慈善组织警告后果“生死攸关”](https://news.cctv.com/2025/01/26/ARTIWOTlIk16SxachlSdp9BD250126.shtml)
+
++ [3187亿美元！2024财年美国对外军售额创历史新高](https://news.cctv.com/2025/01/26/ARTILSSbSssP9JW1ilgQtnVK250126.shtml)
+
++ [白俄罗斯总统选举投票正式开始](https://news.cctv.com/2025/01/26/ARTI76UoMk5BxdvgGev3mpwi250126.shtml)
+
