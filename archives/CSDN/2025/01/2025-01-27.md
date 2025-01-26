@@ -139,3 +139,11 @@
 
 + [Roo Code完全指南：Cline的最强分叉升级，AI编程助手新标杆](https://blog.csdn.net/weixin_46074689/article/details/145346311)
 
++ [能说说MyBatis的工作原理吗？](https://blog.csdn.net/caoli201314/article/details/145357276)
+
++ [AIGC时代下的Vue组件开发深度探索](https://blog.csdn.net/qq_32682301/article/details/145373306)
+
++ [wx041基于springboot+vue+uniapp的美术馆预约平台小程序](https://blog.csdn.net/shmp54xmu/article/details/145359431)
+
++ [YOLOV11改进1-检测头篇](https://blog.csdn.net/qq_55068938/article/details/145340768)
+
