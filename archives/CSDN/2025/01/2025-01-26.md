@@ -129,3 +129,9 @@
 
 + [美国大学生数学建模竞赛COMAP2025-F题深度解读](https://blog.csdn.net/qq_60865111/article/details/145333833)
 
++ [2025年美赛数学建模C题 奥运奖牌表的模型Matlab代码和思路](https://blog.csdn.net/qq_59747472/article/details/145339966)
+
++ [【技术总结】一文读懂Transformer](https://blog.csdn.net/LOVEmy134611/article/details/145255836)
+
++ [Win11电脑如何设置每天早上定时自动开机？6大方案详解+多系统攻略](https://blog.csdn.net/qq_44866828/article/details/145352199)
+

@@ -175,3 +175,9 @@
 
 + [阿富汗塔哈尔省发生爆炸事件](https://news.cctv.com/2025/01/26/ARTIMuWSRFpVq7TBJgRb5CWS250126.shtml)
 
++ [朝鲜谴责美韩军事挑衅导致地区局势恶化](https://news.cctv.com/2025/01/26/ARTIbwCAojOXDU5dPm4onbEW250126.shtml)
+
++ [巴基斯坦军方在反恐行动中打死30名恐怖分子](https://news.cctv.com/2025/01/26/ARTIep17hCEyhDTxUREA1F18250126.shtml)
+
++ [朝中社：朝鲜试射战略巡航导弹](https://news.cctv.com/2025/01/26/ARTIQDpPBuU7oQCQ7loxqYqw250126.shtml)
+
