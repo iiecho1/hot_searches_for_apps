@@ -25,3 +25,27 @@
 
 + [国补 4 天：近 800 万人申请国补买手机数码，申请量超 1000 万件](https://m.ithome.com/html/826177.htm)
 
++ [小米全球总部“15 元员工餐”引热议，雷军称春节后将邀请网友来吃](https://m.ithome.com/html/827238.htm)
+
++ [雷军周末无休验收小米「车位到车位」：全程直播，放话 2025 再投 35 亿站稳第一梯队](https://m.ithome.com/html/827261.htm)
+
++ [消息称刘强东现身京东集团总部参加物流新春家宴，对一线员工表达感谢鼓励](https://m.ithome.com/html/827242.htm)
+
++ [PlayStation 中国十周年限定版运动手环亮相：小米手环 9 Pro 融入经典角圆叉方](https://m.ithome.com/html/827289.htm)
+
++ [苹果 2025 款 iPhone SE 4 机模上手展示：刘海屏 + 后置单摄](https://m.ithome.com/html/827218.htm)
+
++ [极越汽车 CEO 夏一平被限制高消费](https://m.ithome.com/html/827292.htm)
+
++ [华为余承东自驾享界 S9 车型回安徽老家，明日开启直播](https://m.ithome.com/html/827205.htm)
+
++ [雷军：小米 SU7 总交付量已超过 15 万辆](https://m.ithome.com/html/827324.htm)
+
++ [雷军抖音直播间一度被封，疑似遭网友举报边开车边直播](https://m.ithome.com/html/827256.htm)
+
++ [极氪法务部：去年 8 月 16 日已辟谣“对撞”有关谣言，将追究近期造谣者法律责任](https://m.ithome.com/html/827235.htm)
+
++ [AMD：已将 DeepSeek-V3 模型集成到 Instinct MI300X GPU 上，利用 SGLang 彻底改变 AI 开发](https://m.ithome.com/html/827270.htm)
+
++ [宝马与中国车企“联合”，就对华电动汽车关税向欧盟法院提起诉讼](https://m.ithome.com/html/826177.htm)
+
