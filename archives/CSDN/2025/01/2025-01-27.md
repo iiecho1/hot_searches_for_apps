@@ -245,3 +245,5 @@
 
 + [【论文阅读】Equivariant Diffusion Policy](https://blog.csdn.net/qq_33673253/article/details/145348599)
 
++ [机器学习 - 初学者需要弄懂的一些线性代数的概念](https://blog.csdn.net/liruiqiang05/article/details/145370208)
+
