@@ -19,3 +19,5 @@
 
 + [好久不用我的 chatgpt-O1 出问题了你们的怎么样](https://www.v2ex.com/t/1107881)
 
++ [20-40 万，选小米 su7? A6L? E? A7L?](https://www.v2ex.com/t/1107957)
+

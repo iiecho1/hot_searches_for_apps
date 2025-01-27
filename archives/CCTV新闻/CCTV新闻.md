@@ -185,3 +185,9 @@
 
 + [哥伦比亚决定派总统专机接回被美国遣返的移民](https://news.cctv.com/2025/01/27/ARTIysUR5c1clKe6MBZzhytW250127.shtml)
 
++ [哈马斯已向以方提供停火协议第一阶段释放的所有被扣押人员名单](https://news.cctv.com/2025/01/27/ARTIUiFqOM4zT9774INyabZs250127.shtml)
+
++ [哥伦比亚总统宣布采取“对等”措施 将对美商品加征25%关税](https://news.cctv.com/2025/01/27/ARTIJCj1ZpSsHURXGSgaNvkc250127.shtml)
+
++ [伊朗“加沙”重型无人机首次亮相](https://news.cctv.com/2025/01/27/ARTIFfOhdnIMdw1iu5wBFOTr250127.shtml)
+
