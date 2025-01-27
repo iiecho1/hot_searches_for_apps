@@ -237,3 +237,7 @@
 
 + [Redis（5，jedis和spring）](https://blog.csdn.net/syx050403/article/details/145300820)
 
++ [《 C++ 点滴漫谈： 二十四 》深入 C++ 变量与类型的世界：高性能编程的根基](https://blog.csdn.net/mmlhbjk/article/details/145373289)
+
++ [2025数学建模美赛|D题成品论文](https://blog.csdn.net/kstt20230206/article/details/145346169)
+
