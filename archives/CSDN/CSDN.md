@@ -213,3 +213,11 @@
 
 + [1 vs. 0：Nginx如何为WebAssembly模块商店构建坚不可摧的安全防线？](https://blog.csdn.net/z_344791576/article/details/144786953)
 
++ [【现代深度学习技术】深度学习计算 | 层和块](https://blog.csdn.net/Morse_Chen/article/details/145358646)
+
++ [2025数学建模美赛|B题成品论文](https://blog.csdn.net/kstt20230206/article/details/145343491)
+
++ [知识蒸馏技术原理详解：从软标签到模型压缩的实现机制](https://blog.csdn.net/m0_46510245/article/details/145375894)
+
++ [2025美赛数学建模MCM问题A：测试时间：楼梯上的持续磨损（Problem A: Testing Time: The Constant Wear On Stairs）完整文章 模型 源代码 结果分享](https://blog.csdn.net/2403_86854718/article/details/145342149)
+
