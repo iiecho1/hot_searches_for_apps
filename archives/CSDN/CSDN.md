@@ -125,3 +125,11 @@
 
 + [Qt调用ffmpeg库录屏并进行UDP组播推流](https://blog.csdn.net/daqinzl/article/details/145370430)
 
++ [简易教程——使用Ollama在本地部署大语言模型（Ollama+Deepseek_R1+OpenWebUI）](https://blog.csdn.net/m0_61171702/article/details/145367813)
+
++ [Web3.0时代的挑战与机遇：以开源2+1链动模式AI智能名片S2B2C商城小程序为例的深度探讨](https://blog.csdn.net/weixin_70596807/article/details/145362092)
+
++ [2025年美赛B题-结合Logistic阻滞增长模型和SIR传染病模型研究旅游可持续性-成品论文](https://blog.csdn.net/E5408/article/details/145357727)
+
++ [k8s支持自定义field-selector spec.hostNetwork过滤](https://blog.csdn.net/ANXIN997483092/article/details/145344881)
+
