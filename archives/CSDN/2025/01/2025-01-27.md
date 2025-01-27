@@ -241,3 +241,7 @@
 
 + [2025数学建模美赛|D题成品论文](https://blog.csdn.net/kstt20230206/article/details/145346169)
 
++ [图漾相机搭配VisionPro使用简易教程](https://blog.csdn.net/qq_38960753/article/details/145366379)
+
++ [【论文阅读】Equivariant Diffusion Policy](https://blog.csdn.net/qq_33673253/article/details/145348599)
+
