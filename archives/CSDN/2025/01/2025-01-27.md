@@ -169,3 +169,13 @@
 
 + [技术速递｜.NET 9 中的 OpenAPI 文档生成](https://blog.csdn.net/MicrosoftReactor/article/details/145370872)
 
++ [Python从0到100（八十五）：神经网络与迁移学习在猫狗分类中的应用](https://blog.csdn.net/QQ_778132974/article/details/145342502)
+
++ [【大数据】数据治理浅析](https://blog.csdn.net/wnm23/article/details/138295902)
+
++ [【MySQL】--- 复合查询 && 内外连接](https://blog.csdn.net/2301_79448270/article/details/145370125)
+
++ [多模态论文笔记——VDT](https://blog.csdn.net/haopinglianlian/article/details/145366157)
+
++ [1秒 vs. 60秒：Nginx如何让VR/AR内容分发快如闪电？](https://blog.csdn.net/z_344791576/article/details/144786968)
+
