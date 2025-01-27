@@ -221,3 +221,11 @@
 
 + [2025美赛数学建模MCM问题A：测试时间：楼梯上的持续磨损（Problem A: Testing Time: The Constant Wear On Stairs）完整文章 模型 源代码 结果分享](https://blog.csdn.net/2403_86854718/article/details/145342149)
 
++ [Python新春烟花](https://blog.csdn.net/m0_68111267/article/details/145372094)
+
++ [2025年数学建模美赛（ICM）F题阅读与思考](https://blog.csdn.net/carefreekid123/article/details/145341614)
+
++ [为什么LabVIEW适合软硬件结合的项目？](https://blog.csdn.net/bjcyck/article/details/145374572)
+
++ [2025美赛数学建模B题完整解题全过程37页半成品论文](https://blog.csdn.net/2501_90172271/article/details/145341580)
+
