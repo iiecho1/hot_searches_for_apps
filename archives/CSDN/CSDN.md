@@ -105,3 +105,23 @@
 
 + [GPT 本地运行输出界面简洁美观（命令行、界面、网页） ](https://blog.csdn.net/weixin_52810349/article/details/145370201)
 
++ [【2025年数学建模美赛B题】冲刺O奖解题思路+模型+代码+论文](https://blog.csdn.net/Magnolia_He/article/details/145354435)
+
++ [RoboVLM——通用机器人策略的VLA设计哲学：如何选择骨干网络、如何构建VLA架构、何时添加跨本体数据](https://blog.csdn.net/v_JULY_v/article/details/145330457)
+
++ [C# OpenCV机器视觉:利用CNN实现快速模板匹配](https://blog.csdn.net/xcwzj123/article/details/145355014)
+
++ [【Elasticsearch】内置分词器和IK分词器](https://blog.csdn.net/lilinhai548/article/details/145382710)
+
++ [浅析百度AOI数据与高德AOI数据的差异性](https://blog.csdn.net/yelangkingwuzuhu/article/details/145149095)
+
++ [MapReduce，Yarn，Spark理解与执行流程](https://blog.csdn.net/m0_75081815/article/details/145373005)
+
++ [RabbitMQ 分布式高可用](https://blog.csdn.net/weixin_44550507/article/details/145348509)
+
++ [【云安全】云原生-K8S-简介](https://blog.csdn.net/ggqiuhui/article/details/145371433)
+
++ [论文笔记（六十三）Understanding Diffusion Models: A Unified Perspective（四）](https://blog.csdn.net/xzs1210652636/article/details/145369978)
+
++ [Qt调用ffmpeg库录屏并进行UDP组播推流](https://blog.csdn.net/daqinzl/article/details/145370430)
+
