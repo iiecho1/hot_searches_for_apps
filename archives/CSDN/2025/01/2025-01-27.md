@@ -229,3 +229,7 @@
 
 + [2025美赛数学建模B题完整解题全过程37页半成品论文](https://blog.csdn.net/2501_90172271/article/details/145341580)
 
++ [[免费]基于Python的Django博客系统【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/145379866)
+
++ [【C++ 动态规划】1024. 视频拼接|1746](https://blog.csdn.net/he_zhidan/article/details/143568547)
+
