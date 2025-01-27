@@ -195,3 +195,9 @@
 
 + [通讯丨“我爱中国，中国文化让我入迷”——俄罗斯青少年借短视频抒发友好心声](https://news.cctv.com/2025/01/27/ARTIlRaOC12BagyxFIWH8cEl250127.shtml)
 
++ [毛里求斯举行2025“欢乐春节”花车巡游活动](https://photo.cctv.com/2025/01/27/PHOAADebi5ZAMSx04IdeUkwl250127.shtml)
+
++ [性能比肩ChatGPT！这款AI大模型为何震惊硅谷？](https://news.cctv.com/2025/01/27/ARTIVN7gyqdhLYYjkerVe2vf250127.shtml)
+
++ [韩国坠机初步调查报告：两侧发动机吸入花脸鸭](https://news.cctv.com/2025/01/27/ARTIzqIA08hOyawr3pfVzSy0250127.shtml)
+

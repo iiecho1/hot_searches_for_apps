@@ -185,3 +185,11 @@
 
 + [本地Docker部署开源可视化实时监控工具Netdata并实现远程监测系统性能数据](https://blog.csdn.net/xianyun_0355/article/details/143935481)
 
++ [2025年美赛（A题）楼梯的持续磨损建模|数学建模竞赛解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/145337437)
+
++ [计算机视觉-卷积](https://blog.csdn.net/weixin_61091146/article/details/145323509)
+
++ [DeepSeek-R1 解读及技术报告中文版](https://blog.csdn.net/2401_85343303/article/details/145364912)
+
++ [论文阅读(六)：利用基因型信息作为学习基因网络的先验知识](https://blog.csdn.net/qq_64411728/article/details/145370595)
+
