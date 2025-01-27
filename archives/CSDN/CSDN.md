@@ -101,3 +101,7 @@
 
 + [【论文阅读】Equivariant Diffusion Policy](https://blog.csdn.net/qq_33673253/article/details/145348599)
 
++ [Python+OpenCV（1）---傅里叶变换](https://blog.csdn.net/oopxiajun2011/article/details/145358224)
+
++ [GPT 本地运行输出界面简洁美观（命令行、界面、网页） ](https://blog.csdn.net/weixin_52810349/article/details/145370201)
+

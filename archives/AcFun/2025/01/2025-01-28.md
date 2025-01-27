@@ -61,3 +61,11 @@
 
 + [海参：一种人类刚刚重新认识的‘深海精灵’，它真的能美容养颜，再生造化吗……|自说自话的总裁](https://m.acfun.cn/v/%3Fac%3D46811172)
 
++ [【2025AcFun新春之夜单品】某年](https://m.acfun.cn/v/%3Fac%3D46816429)
+
++ [【2025AcFun新春之夜单品】良宵多如意](https://m.acfun.cn/v/%3Fac%3D46812351)
+
++ [【2025AcFun新春之夜单品】猴子学舞](https://m.acfun.cn/v/%3Fac%3D46805931)
+
++ [【2025AcFun新春之夜单品】不摇不要钱](https://m.acfun.cn/v/%3Fac%3D46805878)
+
