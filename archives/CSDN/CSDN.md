@@ -179,3 +179,9 @@
 
 + [1秒 vs. 60秒：Nginx如何让VR/AR内容分发快如闪电？](https://blog.csdn.net/z_344791576/article/details/144786968)
 
++ [2025MCM美国大学生数学建模竞赛C题-Models for Olympic Medal Tables详解+建模论文+源代码](https://blog.csdn.net/master_hunter/article/details/145357603)
+
++ [vue2和vue3指令](https://blog.csdn.net/qq_25416827/article/details/145346458)
+
++ [本地Docker部署开源可视化实时监控工具Netdata并实现远程监测系统性能数据](https://blog.csdn.net/xianyun_0355/article/details/143935481)
+

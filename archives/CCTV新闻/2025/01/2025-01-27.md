@@ -191,3 +191,7 @@
 
 + [伊朗“加沙”重型无人机首次亮相](https://news.cctv.com/2025/01/27/ARTIFfOhdnIMdw1iu5wBFOTr250127.shtml)
 
++ [全球新春走笔丨在法国逛年集——巴士底新春集市小记](https://news.cctv.com/2025/01/27/ARTIOrKsPRT7lyxxS0GRDFJ0250127.shtml)
+
++ [通讯丨“我爱中国，中国文化让我入迷”——俄罗斯青少年借短视频抒发友好心声](https://news.cctv.com/2025/01/27/ARTIlRaOC12BagyxFIWH8cEl250127.shtml)
+
