@@ -21,3 +21,11 @@
 
 + [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 
++ [ollama/ollama](https://github.com/ollama/ollama)
+
++ [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)
+
++ [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
+
++ [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+

@@ -235,3 +235,5 @@
 
 + [DIY你的私人编码助手：本地部署强大的代码生成工具Code Llama](https://blog.csdn.net/qq_58286439/article/details/145367159)
 
++ [Redis（5，jedis和spring）](https://blog.csdn.net/syx050403/article/details/145300820)
+
