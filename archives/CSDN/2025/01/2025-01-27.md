@@ -193,3 +193,17 @@
 
 + [论文阅读(六)：利用基因型信息作为学习基因网络的先验知识](https://blog.csdn.net/qq_64411728/article/details/145370595)
 
++ [2025美赛数学建模ICM问题F：网络强大？（Problem F: Cyber Strong?）完整文章 模型 数据 源代码 结果分享](https://blog.csdn.net/2403_86854718/article/details/145339407)
+
++ [第38周：猫狗识别 (Tensorflow实战第八周)](https://blog.csdn.net/weixin_46620278/article/details/145322732)
+
++ [【2025美赛A题】楼梯的持续磨损建模｜建模过程+完整代码论文全解全析](https://blog.csdn.net/wxhzly__030/article/details/145340063)
+
++ [论文阅读(五)：乳腺癌中的高斯图模型和扩展网络推理](https://blog.csdn.net/qq_64411728/article/details/145369693)
+
++ [Thinkpad电脑进入bios怎么设置u盘启动方法教程](https://blog.csdn.net/ffffffff8/article/details/145341892)
+
++ [AI编程工具-trae介绍及使用](https://blog.csdn.net/sadfasdfsafadsa/article/details/145349902)
+
++ [Vue核心知识：Scoped CSS 和 CSS Modules 全方位对比](https://blog.csdn.net/sixpp/article/details/145374485)
+
