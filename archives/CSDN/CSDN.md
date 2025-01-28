@@ -185,3 +185,11 @@
 
 + [Vue核心知识：组件加载或者路由加载的选择对比](https://blog.csdn.net/sixpp/article/details/145386106)
 
++ [DeepSeek创始人专访：中国AI发展的关键——从跟随到前沿](https://blog.csdn.net/m0_65555479/article/details/145373680)
+
++ [28. 【.NET 8 实战--孢子记账--从单体到微服务】--简易报表--报表定时器与报表数据修正](https://blog.csdn.net/gangzhucoll/article/details/145382569)
+
++ [.NET Core缓存](https://blog.csdn.net/Anoxia_li/article/details/145373902)
+
++ [DeepSeek R1和V3区别](https://blog.csdn.net/sanshi0007/article/details/145378900)
+
