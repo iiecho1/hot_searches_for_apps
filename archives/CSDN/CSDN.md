@@ -101,3 +101,9 @@
 
 + [基于SpringBoot的高校志愿活动服务平台](https://blog.csdn.net/2301_78335941/article/details/145381233)
 
++ [【创新未发表】基于豪猪优化算法CPO实现复杂山地危险模型无人机路径规划问题求解Matlab实现](https://blog.csdn.net/m0_60703264/article/details/145382333)
+
++ [剖析跨域问题始末及其解决方案——前端必备交叉知识（一）](https://blog.csdn.net/RenGJ010617/article/details/145381822)
+
++ [Linux进程调度与等待：背后的机制与实现](https://blog.csdn.net/Cayyyy/article/details/145388630)
+

@@ -61,3 +61,17 @@
 
 + [【描改】请在那里为我微笑吧【2025AcFun新春之夜】](https://m.acfun.cn/v/%3Fac%3D46816546)
 
++ [过年了 又到打花火的时候了](https://m.acfun.cn/v/%3Fac%3D46819112)
+
++ [【2025AC新春之夜】相遇即是七色的奇迹—7人合唱《Virtual to LIVE》](https://m.acfun.cn/v/%3Fac%3D46815879)
+
++ [过年，旧视频空镜存档](https://m.acfun.cn/v/%3Fac%3D46819233)
+
++ [想不到吧！糖依其实是潜伏宗师！新年快乐！](https://m.acfun.cn/v/%3Fac%3D46819025)
+
++ [【牛铲铲】希望有一天 一定有一天「社畜烧酒」的愿望会实现](https://m.acfun.cn/v/%3Fac%3D46816591)
+
++ [肥肥们蛇年快乐！](https://m.acfun.cn/v/%3Fac%3D46818424)
+
++ [红绳绕,来封一个《春意红包》](https://m.acfun.cn/v/%3Fac%3D46816613)
+

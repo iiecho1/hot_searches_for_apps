@@ -161,3 +161,7 @@
 
 + [以方证实已完成200名巴勒斯坦囚犯的释放工作](https://news.cctv.com/2025/01/25/ARTI7FDCGyKNn00RBAX8djOU250125.shtml)
 
++ [华尔街手记丨美国科技企业股价暴跌的“意料之外”和“预期之中”](https://jingji.cctv.com/2025/01/29/ARTIkbApGSmbEBzEbJpHpyv8250129.shtml)
+
++ [泰国内阁批准紧急法令修正案 加强打击电信和网络诈骗](https://news.cctv.com/2025/01/29/ARTILzqAm2BmZ8lWubRvsrLK250129.shtml)
+
