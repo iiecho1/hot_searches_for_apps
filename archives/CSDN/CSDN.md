@@ -203,3 +203,9 @@
 
 + [wx043基于springboot+vue+uniapp的智慧物流小程序](https://blog.csdn.net/shmp54xmu/article/details/145386019)
 
++ [DeepSeek API 的获取与对话示例](https://blog.csdn.net/weixin_42426841/article/details/145381392)
+
++ [解锁 Dubbo：.api 与.proto 文件生成 Java 代码全攻略](https://blog.csdn.net/m0_57836225/article/details/145383592)
+
++ [【2025年数学建模美赛E题】(农业生态系统)完整解析+模型代码+论文](https://blog.csdn.net/Magnolia_He/article/details/145358990)
+
