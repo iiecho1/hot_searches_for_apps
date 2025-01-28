@@ -193,3 +193,9 @@
 
 + [DeepSeek R1和V3区别](https://blog.csdn.net/sanshi0007/article/details/145378900)
 
++ [【阿龙精选】基于Hadoop+Hive+Spark的大数据电影推荐系统设计（协同过滤算法、个性化推荐与数据分析） Hadoop、Hive与Spark驱动的电影个性化推荐系统（大数据推荐算法、用户行为建](https://blog.csdn.net/m0_64148096/article/details/145356401)
+
++ [React 前端开发解析：从核心概念到最佳实践](https://blog.csdn.net/m0_74408723/article/details/145371594)
+
++ [WebSocket 详解：全双工通信的实现与应用](https://blog.csdn.net/Future_yzx/article/details/145359356)
+
