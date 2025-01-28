@@ -91,3 +91,11 @@
 
 + [除夕快乐哟～存稿Astro12](https://m.acfun.cn/v/%3Fac%3D46817150)
 
++ [我要去移动办业务！★手机竖屏1409★](https://m.acfun.cn/v/%3Fac%3D46816117)
+
++ [hjm鹅鸭杀大合集](https://m.acfun.cn/v/%3Fac%3D46810717)
+
++ [【2025AcFun新春之夜单品】我记忆中的龙珠世界——翻唱+混剪PV](https://m.acfun.cn/v/%3Fac%3D46817145)
+
++ [【2025AC新春之夜】相遇即是七色的奇迹—7人合唱《Virtual to LIVE》](https://m.acfun.cn/v/%3Fac%3D46815879)
+

@@ -187,3 +187,7 @@
 
 + [新西兰克马德克群岛地区发生5.8级地震，震源深度10千米](https://news.cctv.com/2025/01/28/ARTIBDlSqCaUm23gmHJNKnSz250128.shtml)
 
++ [DeepSeek为何在美国引起巨大关注？](https://news.cctv.com/2025/01/28/ARTI0MXQfQvjItIHa5ZX9Wj1250128.shtml)
+
++ [丹麦政府宣布将加强在北极及北大西洋地区军事存在](https://news.cctv.com/2025/01/28/ARTIaCv9WprmZkDDpTDpvmpk250128.shtml)
+

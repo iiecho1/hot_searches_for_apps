@@ -53,3 +53,11 @@
 
 + [如何优雅的备份 livephoto](https://www.v2ex.com/t/1108125)
 
++ [DLPlay 抽奖活动! 过年了给家整一波抽奖活动助助兴,祝所有看到帖子的人好运🍀连连](https://www.v2ex.com/t/1108166)
+
++ [过年回家，发现与家里三观越来越不合](https://www.v2ex.com/t/1108206)
+
++ [抄底美科技股的时候到了](https://www.v2ex.com/t/1108157)
+
++ [好多 AI 都识别不出来这是啥字](https://www.v2ex.com/t/1108191)
+

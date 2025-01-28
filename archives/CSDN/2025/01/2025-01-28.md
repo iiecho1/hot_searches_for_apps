@@ -169,3 +169,15 @@
 
 + [揭秘MySQL中基于负载的自适应缓存资源调度策略——让数据库响应更敏捷](https://blog.csdn.net/2401_88677290/article/details/144944741)
 
++ [DeepSeek R1：中国AI黑马的崛起与挑战](https://blog.csdn.net/Z_oioihoii/article/details/145378662)
+
++ [Unity|小游戏复刻|见缝插针2(C#)](https://blog.csdn.net/CoderZzz6310/article/details/145360538)
+
++ [Redis闭源了？来亚马逊云科技云科技上用开源省钱的Valkey（上）](https://blog.csdn.net/m0_66628975/article/details/145379712)
+
++ [多模态论文笔记——NaViT](https://blog.csdn.net/haopinglianlian/article/details/145383545)
+
++ [VMware ESXi 8.0U3c macOS Unlocker & OEM BIOS Dell (戴尔) 定制版](https://blog.csdn.net/sysinside/article/details/144670657)
+
++ [linux挂载新硬盘，查看新硬盘，格式化分区，创建挂载点，挂载逻辑卷，整盘方式挂载，LVM方式挂载，查看linux 磁盘卷组的剩余空间，ext4与xfs区别](https://blog.csdn.net/jjk_02027/article/details/145366532)
+
