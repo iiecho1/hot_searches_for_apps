@@ -17,3 +17,17 @@
 
 + [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 
++ [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
+
++ [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)
+
++ [deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)
+
++ [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2)
+
++ [deepseek-ai/DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math)
+
++ [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)
+
++ [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
+

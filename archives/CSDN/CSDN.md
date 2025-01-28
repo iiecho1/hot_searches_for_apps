@@ -181,3 +181,7 @@
 
 + [linux挂载新硬盘，查看新硬盘，格式化分区，创建挂载点，挂载逻辑卷，整盘方式挂载，LVM方式挂载，查看linux 磁盘卷组的剩余空间，ext4与xfs区别](https://blog.csdn.net/jjk_02027/article/details/145366532)
 
++ [Linux 命令之技巧（Tips for Linux Commands）](https://blog.csdn.net/J56793/article/details/145019751)
+
++ [Vue核心知识：组件加载或者路由加载的选择对比](https://blog.csdn.net/sixpp/article/details/145386106)
+
