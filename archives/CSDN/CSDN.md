@@ -145,3 +145,5 @@
 
 + [图漾相机搭配VisionPro使用简易教程](https://blog.csdn.net/qq_38960753/article/details/145366379)
 
++ [qwen2.5-vl：阿里开源超强多模态大模型（包含使用方法、微调方法介绍）](https://blog.csdn.net/sherlockMa/article/details/145386087)
+

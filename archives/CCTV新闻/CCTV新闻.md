@@ -165,3 +165,9 @@
 
 + [泰国内阁批准紧急法令修正案 加强打击电信和网络诈骗](https://news.cctv.com/2025/01/29/ARTILzqAm2BmZ8lWubRvsrLK250129.shtml)
 
++ [为缓解游客压力 法国总统宣布卢浮宫博物馆改造计划](https://news.cctv.com/2025/01/29/ARTIj20ITsBmrd6ypKm964Bh250129.shtml)
+
++ [塞尔维亚总统武契奇：不会设立过渡政府](https://news.cctv.com/2025/01/29/ARTIiKoZZHEJg4E5fsVev4Tf250129.shtml)
+
++ [联合国收到美国退出《巴黎协定》正式通知](https://news.cctv.com/2025/01/29/ARTIK5wa5UNzZIlfmaauUvsO250129.shtml)
+
