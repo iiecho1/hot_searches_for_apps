@@ -83,3 +83,11 @@
 
 + [【描改】请在那里为我微笑吧【2025AcFun新春之夜】](https://m.acfun.cn/v/%3Fac%3D46816546)
 
++ [【2025AcFun新春之夜单品】清影行歌](https://m.acfun.cn/v/%3Fac%3D46810551)
+
++ [联合翻唱|祝Acer《团团圆圆》！【奈芊歌】【骆怀瑜】【Coviet】【灵蛇FUN情】](https://m.acfun.cn/v/%3Fac%3D46815603)
+
++ [四个可爱美少女想要和你见面～【2025AcFun新春之夜单品】](https://m.acfun.cn/v/%3Fac%3D46805087)
+
++ [除夕快乐哟～存稿Astro12](https://m.acfun.cn/v/%3Fac%3D46817150)
+

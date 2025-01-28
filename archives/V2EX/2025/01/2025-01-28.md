@@ -43,3 +43,11 @@
 
 + [求问有没有支持两个或以上访客 WIFI 的路由器？](https://www.v2ex.com/t/1108107)
 
++ [关于新加坡 OCBC 相关讨论下](https://www.v2ex.com/t/1108110)
+
++ [kiwi 归档了， play 商店也下架了](https://www.v2ex.com/t/1108151)
+
++ [如何提升父母幸福感](https://www.v2ex.com/t/1108091)
+
++ [请问这次“Deepseek 吊打 OpenAI”的真实性如何？](https://www.v2ex.com/t/1108174)
+

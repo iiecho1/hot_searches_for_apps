@@ -177,3 +177,11 @@
 
 + [泰国曼谷：舞龙舞狮街头巡游 庆祝中国农历新年](https://photo.cctv.com/2025/01/28/PHOAriY1Rt8u2QKQOXGlVvIj250128.shtml)
 
++ [学龄人口减少 韩国今年小学一年级入学人数将创新低](https://news.cctv.com/2025/01/28/ARTIyHgHIyPP5ov454ZZwJUP250128.shtml)
+
++ [欧盟外长谈格陵兰岛问题：“我们也很强大”](https://news.cctv.com/2025/01/28/ARTIcUMEyUjPRdsZZ8odSutN250128.shtml)
+
++ [霸榜刷屏 “掀翻”美股 引爆AI圈的东方“黑马”DeepSeek啥来头？](https://news.cctv.com/2025/01/28/ARTIseZvpXwrYQqpyqZZTA9u250128.shtml)
+
++ [柯洁能拿回冠军吗？ 韩国棋院就LG杯规则争议致歉](https://news.cctv.com/2025/01/28/ARTIJq7bTB1nu1irW1X9yODb250128.shtml)
+
