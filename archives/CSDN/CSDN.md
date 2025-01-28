@@ -147,3 +147,7 @@
 
 + [qwen2.5-vl：阿里开源超强多模态大模型（包含使用方法、微调方法介绍）](https://blog.csdn.net/sherlockMa/article/details/145386087)
 
++ [一文看尽C、C++、C#的联系与区别（改变世界的第一步）](https://blog.csdn.net/yaosichengalpha/article/details/145383003)
+
++ [当高兴、尊重和优雅三位一体是什么情况吗？](https://blog.csdn.net/nshkfhwr/article/details/145382280)
+

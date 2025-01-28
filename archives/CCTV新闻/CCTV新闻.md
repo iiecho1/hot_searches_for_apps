@@ -171,3 +171,7 @@
 
 + [联合国收到美国退出《巴黎协定》正式通知](https://news.cctv.com/2025/01/29/ARTIK5wa5UNzZIlfmaauUvsO250129.shtml)
 
++ [普京说俄将在与乌克兰的可能谈判中捍卫自身利益](https://news.cctv.com/2025/01/29/ARTIdsGKDisffwcOgpCAspal250129.shtml)
+
++ [联合国机构：超37.6万加沙民众已返回加沙北部](https://news.cctv.com/2025/01/29/ARTIvC0nZi4R716P2QTOG9cT250129.shtml)
+
