@@ -29,3 +29,11 @@
 
 + [需要高并发读取 xlsx 文件存入数据库怎么处理比较好](https://www.v2ex.com/t/1108060)
 
++ [全球工单系统： deepseek 是挂了吗？](https://www.v2ex.com/t/1108057)
+
++ [deepseek 有什么厉害的地方？用了之后没发现有什么特别的](https://www.v2ex.com/t/1108061)
+
++ [有做过近视眼手术的程序员给点建议吗](https://www.v2ex.com/t/1108082)
+
++ [精品网限速，非精品网不限速？](https://www.v2ex.com/t/1108079)
+

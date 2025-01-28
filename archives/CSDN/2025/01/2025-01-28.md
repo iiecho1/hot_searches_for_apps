@@ -147,3 +147,5 @@
 
 + [Mac m1 本地运行 deepseek-r1-distill-qwen-1.5B](https://blog.csdn.net/za96421955/article/details/145368877)
 
++ [【SpringBoot教程】Spring Boot + MySQL + HikariCP 连接池整合教程](https://blog.csdn.net/weixin_48235955/article/details/145355758)
+
