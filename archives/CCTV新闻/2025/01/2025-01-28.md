@@ -165,3 +165,7 @@
 
 + [国际观察丨卢卡申科连任总统 白俄罗斯稳定前行](https://news.cctv.com/2025/01/28/ARTI2g2Bk99aGTRjx7rmo6Vx250127.shtml)
 
++ [以色列部分航班因“安全原因”调整在塞浦路斯降落机场](https://news.cctv.com/2025/01/28/ARTI9z9imEYZUPwjism0ZQ1k250128.shtml)
+
++ [欧盟称不就格陵兰问题进行谈判](https://news.cctv.com/2025/01/28/ARTIcXUca7p01NokbiXfXuvE250128.shtml)
+

@@ -139,3 +139,11 @@
 
 + [【创新未发表】基于豪猪优化算法CPO实现复杂山地危险模型无人机路径规划问题求解Matlab实现](https://blog.csdn.net/m0_60703264/article/details/145382333)
 
++ [【现代深度学习技术】深度学习计算 | 层和块](https://blog.csdn.net/Morse_Chen/article/details/145358646)
+
++ [鸿蒙ArkTS——非异常问题系列FAQ之——数组new Number[6]；与[0,0,0,0,0,0]的区别——【坚果派-红目香薰】](https://blog.csdn.net/feng8403000/article/details/145372285)
+
++ [SpringCloud系列教程：微服务的未来（十七）监听Nacos配置变更、更新路由、实现动态路由](https://blog.csdn.net/m0_63267251/article/details/145360594)
+
++ [Mac m1 本地运行 deepseek-r1-distill-qwen-1.5B](https://blog.csdn.net/za96421955/article/details/145368877)
+
