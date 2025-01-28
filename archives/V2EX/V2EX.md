@@ -51,3 +51,5 @@
 
 + [请问这次“Deepseek 吊打 OpenAI”的真实性如何？](https://www.v2ex.com/t/1108174)
 
++ [如何优雅的备份 livephoto](https://www.v2ex.com/t/1108125)
+

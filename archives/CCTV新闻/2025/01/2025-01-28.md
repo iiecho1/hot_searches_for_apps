@@ -185,3 +185,5 @@
 
 + [柯洁能拿回冠军吗？ 韩国棋院就LG杯规则争议致歉](https://news.cctv.com/2025/01/28/ARTIJq7bTB1nu1irW1X9yODb250128.shtml)
 
++ [新西兰克马德克群岛地区发生5.8级地震，震源深度10千米](https://news.cctv.com/2025/01/28/ARTIBDlSqCaUm23gmHJNKnSz250128.shtml)
+

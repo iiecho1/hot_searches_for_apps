@@ -165,3 +165,7 @@
 
 + [性能测试丨JVM 性能数据采集](https://blog.csdn.net/ceshiren_com/article/details/145368350)
 
++ [Java定时任务实现方案(四)——Spring Task](https://blog.csdn.net/2301_79318558/article/details/145383426)
+
++ [揭秘MySQL中基于负载的自适应缓存资源调度策略——让数据库响应更敏捷](https://blog.csdn.net/2401_88677290/article/details/144944741)
+
