@@ -115,3 +115,9 @@
 
 + [点击查看精神状态…粤语版《KiLLKiSS》【AveMujica】《颂乐人偶》OP【生日作】](https://m.acfun.cn/v/%3Fac%3D46810663)
 
++ [新 年 快 乐【2025AcFun新春之夜单品】](https://m.acfun.cn/v/%3Fac%3D46802433)
+
++ [战胜恐惧，方为最强！-短片《战锤40K-无所畏惧》解析](https://m.acfun.cn/v/%3Fac%3D46813094)
+
++ [吉他好呀，吉他得学！欢乐八点档-1178](https://m.acfun.cn/v/%3Fac%3D46817209)
+
