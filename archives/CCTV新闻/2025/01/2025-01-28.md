@@ -171,3 +171,9 @@
 
 + [美媒：美司法部解雇多名参与调查特朗普的官员](https://news.cctv.com/2025/01/28/ARTIORRFYNQJBwpush80AIv9250128.shtml)
 
++ [巴西就被遣返公民遭遇“有辱人格”待遇召见美代办](https://news.cctv.com/2025/01/28/ARTI6jKv84zJqN3Xoby9rhw0250128.shtml)
+
++ [塞舌尔“小本钟”点亮“中国红”](https://photo.cctv.com/2025/01/28/PHOAwSTroNXCvUNqtcILLDwg250128.shtml)
+
++ [泰国曼谷：舞龙舞狮街头巡游 庆祝中国农历新年](https://photo.cctv.com/2025/01/28/PHOAriY1Rt8u2QKQOXGlVvIj250128.shtml)
+

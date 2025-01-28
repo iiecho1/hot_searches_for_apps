@@ -79,3 +79,7 @@
 
 + [顺风顺水顺财神#手势舞](https://m.acfun.cn/v/%3Fac%3D46816271)
 
++ [2025 AcFun新春之夜](https://m.acfun.cn/v/%3Fac%3D46816776)
+
++ [【描改】请在那里为我微笑吧【2025AcFun新春之夜】](https://m.acfun.cn/v/%3Fac%3D46816546)
+
