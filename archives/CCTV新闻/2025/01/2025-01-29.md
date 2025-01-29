@@ -205,3 +205,7 @@
 
 + [德国2月消费者信心先行指数环比下降](https://news.cctv.com/2025/01/29/ARTIDgvDQ8MBn1Zg9DUl5RSj250129.shtml)
 
++ [印度北方邦踩踏事故已造成30人死亡](https://news.cctv.com/2025/01/29/ARTIkkYpJWV3vBy9owDqcg3m250129.shtml)
+
++ [以色列总理计划2月2日访美 将与特朗普会面](https://news.cctv.com/2025/01/29/ARTILqYB9YaV51RLQ0KRAArK250129.shtml)
+

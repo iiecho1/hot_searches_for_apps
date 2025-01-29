@@ -207,3 +207,15 @@
 
 + [云服务器与Docker](https://blog.csdn.net/AlgoZZi/article/details/145386396)
 
++ [wx044基于springboot+vue+uniapp的智慧物业平台小程序](https://blog.csdn.net/shmp54xmu/article/details/145394915)
+
++ [构建MySQL智能运维助手——深度学习驱动的异常检测与自动化响应](https://blog.csdn.net/2401_88677290/article/details/144944304)
+
++ [【HarmonyOS之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(三)](https://blog.csdn.net/weixin_74809706/article/details/145392516)
+
++ [为大模型提供webui界面的利器：Open WebUI 完全本地离线部署deepseek r1](https://blog.csdn.net/skywalk8163/article/details/145391628)
+
++ [发布 VectorTraits v3.1（支持 .NET 9.0，支持 原生AOT）](https://blog.csdn.net/zyl910/article/details/145373548)
+
++ [DASCTF 2024金秋十月 sixbytes题目学习记录](https://blog.csdn.net/weixin_44682200/article/details/145393940)
+
