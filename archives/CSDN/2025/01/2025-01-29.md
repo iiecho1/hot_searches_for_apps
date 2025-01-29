@@ -181,3 +181,7 @@
 
 + [第 5 章：声音与音乐系统](https://blog.csdn.net/sdsdsdd__/article/details/145327744)
 
++ [基于SpringBoot电脑组装系统平台系统功能实现三](https://blog.csdn.net/yuancodenet/article/details/145372842)
+
++ [【Linux权限】—— 于虚拟殿堂，轻拨密钥启华章](https://blog.csdn.net/bite_zwy/article/details/145303652)
+
