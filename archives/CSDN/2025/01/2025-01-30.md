@@ -141,3 +141,7 @@
 
 + [Vue核心知识：页面加载后和刷新后的样式差异问题](https://blog.csdn.net/sixpp/article/details/145374461)
 
++ [由直连链路断开造成的网络环路(二级网络故障&真实排障案例)](https://blog.csdn.net/weixin_50571749/article/details/145390859)
+
++ [windows本地部署deep seek r1](https://blog.csdn.net/m0_55979718/article/details/145383660)
+
