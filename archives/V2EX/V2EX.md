@@ -19,3 +19,5 @@
 
 + [Python 中线程和协程的区别是什么](https://www.v2ex.com/t/1108272)
 
++ [iPad mini 7 到手了，没想到使用起来最不习惯的并不是 60hz 屏幕](https://www.v2ex.com/t/1108265)
+
