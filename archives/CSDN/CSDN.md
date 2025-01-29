@@ -185,3 +185,5 @@
 
 + [【Linux权限】—— 于虚拟殿堂，轻拨密钥启华章](https://blog.csdn.net/bite_zwy/article/details/145303652)
 
++ [懂球短视频微信小程序SpringBoot+论文源码调试讲解](https://blog.csdn.net/u014445459/article/details/145340333)
+
