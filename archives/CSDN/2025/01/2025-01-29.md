@@ -163,3 +163,7 @@
 
 + [人机交互：面部识别_14.面部识别在虚拟现实和增强现实中的应用](https://blog.csdn.net/zhubeibei168/article/details/145381930)
 
++ [【现代深度学习技术】深度学习计算 | 参数管理](https://blog.csdn.net/Morse_Chen/article/details/145388431)
+
++ [大数据学习之Kafka消息队列、Spark分布式计算框架一](https://blog.csdn.net/qq_27302885/article/details/145385331)
+
