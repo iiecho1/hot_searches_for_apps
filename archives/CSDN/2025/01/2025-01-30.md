@@ -109,3 +109,21 @@
 
 + [DeepSeek R1和V3区别](https://blog.csdn.net/sanshi0007/article/details/145378900)
 
++ [[论文阅读] (37)CCS21 DeepAID：基于深度学习的异常检测（解释）](https://blog.csdn.net/Eastmount/article/details/145357883)
+
++ [第30篇：Python开发进阶：网络安全与测试](https://blog.csdn.net/martian665/article/details/145063072)
+
++ [从零推导线性回归：最小二乘法与梯度下降的数学原理](https://blog.csdn.net/nyxdsb/article/details/145373269)
+
++ [云服务器与Docker](https://blog.csdn.net/AlgoZZi/article/details/145386396)
+
++ [DeepSeek API 的获取与对话示例](https://blog.csdn.net/weixin_42426841/article/details/145381392)
+
++ [Qt Ribbon使用实例](https://blog.csdn.net/u011269801/article/details/145381516)
+
++ [【2025最新】基于微信小程序的机票订票系统](https://blog.csdn.net/weixin_44789995/article/details/145392928)
+
++ [5 vs 1：Nginx智能流量控制能否超越传统方法？——优化用户体验的秘密武器](https://blog.csdn.net/z_344791576/article/details/144786468)
+
++ [新时代架构SpringBoot+Vue的理解（含axios/ajax）](https://blog.csdn.net/y_k_j_c/article/details/145388044)
+
