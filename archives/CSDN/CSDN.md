@@ -189,3 +189,9 @@
 
 + [[Sample]实现视频边缓存边播放功能](https://blog.csdn.net/zhangtian6691844/article/details/145378025)
 
++ [C++传送锚点的内存寻址：内存管理](https://blog.csdn.net/Zero_VPN/article/details/145348228)
+
++ [MATLAB 中的工具箱用于对架空和地下输电线路进行建模（单位长度参数、传播特性、频率扫描、瞬态模拟）](https://blog.csdn.net/qq_59747472/article/details/145391354)
+
++ [【硬件测试】基于FPGA的QPSK+帧同步系统开发与硬件片内测试,包含高斯信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/145393535)
+

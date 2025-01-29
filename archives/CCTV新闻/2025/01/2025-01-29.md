@@ -191,3 +191,9 @@
 
 + [2030年前跻身无人机技术世界领先行列，俄罗斯要克服哪些困难？](https://news.cctv.com/2025/01/29/ARTIjyTnlXBP6nau2CPICYqe250129.shtml)
 
++ [地球另一端的“春节热”](https://news.cctv.com/2025/01/29/ARTIZSKHCdvowDdrtSYFfE45250129.shtml)
+
++ [共贺新春 共期未来——国际组织负责人和多国政要祝贺农历蛇年新春](https://news.cctv.com/2025/01/29/ARTIfaXLtwLeRZ8VionqDzHj250129.shtml)
+
++ [祝福中国年 我驻多国使领馆举办春节庆祝活动](https://news.cctv.com/2025/01/29/ARTIdL8alYCtM7Rs1rQAdBe4250129.shtml)
+

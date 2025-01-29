@@ -25,3 +25,13 @@
 
 + [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack)
 
++ [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+
++ [QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
+
++ [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [deepseek-ai/ESFT](https://github.com/deepseek-ai/ESFT)
+
++ [inkonchain/docs](https://github.com/inkonchain/docs)
+
