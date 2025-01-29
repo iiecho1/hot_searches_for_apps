@@ -167,3 +167,7 @@
 
 + [大数据学习之Kafka消息队列、Spark分布式计算框架一](https://blog.csdn.net/qq_27302885/article/details/145385331)
 
++ [Deepseek的RL算法GRPO解读](https://blog.csdn.net/aiqlcom/article/details/145388571)
+
++ [探索与创新：DeepSeek R1与Ollama在深度研究中的应用](https://blog.csdn.net/qq_42161009/article/details/145383798)
+
