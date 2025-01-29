@@ -127,3 +127,9 @@
 
 + [新时代架构SpringBoot+Vue的理解（含axios/ajax）](https://blog.csdn.net/y_k_j_c/article/details/145388044)
 
++ [遗传算法与深度学习实战（32）——生成对抗网络详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/145378303)
+
++ [DeepSeek-R1,DeepSeek-V3,DeepSeek-VL,DeepSeek-V2,DeepSeek-R1-Zero各个模型区别](https://blog.csdn.net/ccsss22/article/details/145395875)
+
++ [.NET Core缓存](https://blog.csdn.net/Anoxia_li/article/details/145373902)
+

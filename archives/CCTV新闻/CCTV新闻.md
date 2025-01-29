@@ -177,3 +177,7 @@
 
 + [埃及总统表示不能容忍或允许驱逐巴勒斯坦人](https://news.cctv.com/2025/01/30/ARTI4SMz2NDcyV8o74TA9o4F250130.shtml)
 
++ [祝福中国年 “中国红”点亮多国地标建筑](https://news.cctv.com/2025/01/30/ARTIoWi3Y4P65942WhEe0qt7250130.shtml)
+
++ [德国联邦议院通过收紧移民政策的提案](https://news.cctv.com/2025/01/30/ARTI8BVjZa086tALMFEF9r4y250130.shtml)
+
