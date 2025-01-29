@@ -101,3 +101,11 @@
 
 + [【硬件测试】基于FPGA的QPSK+帧同步系统开发与硬件片内测试,包含高斯信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/145393535)
 
++ [DeepSeek学术写作测评第一弹：论文润色，中译英效果如何？](https://blog.csdn.net/dinaxuejie/article/details/145374332)
+
++ [AI训练数据告急：马斯克的警示与行业破局之路](https://blog.csdn.net/2302_78391795/article/details/145372481)
+
++ [发布 VectorTraits v3.1（支持 .NET 9.0，支持 原生AOT）](https://blog.csdn.net/zyl910/article/details/145373548)
+
++ [DeepSeek R1和V3区别](https://blog.csdn.net/sanshi0007/article/details/145378900)
+

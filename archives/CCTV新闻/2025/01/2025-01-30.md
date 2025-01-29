@@ -161,3 +161,17 @@
 
 + [挥舞“关税大棒” 特朗普威胁对多国加征关税引关注](https://news.cctv.com/2025/01/26/ARTIDzXaaJOjlRXja9gMWvZX250126.shtml)
 
++ [加拿大央行宣布下调基准利率至3%](https://news.cctv.com/2025/01/30/ARTITPnJ5YoTtG6P8wdQSBOT250130.shtml)
+
++ [2名中国公民在南苏丹坠机事故中死亡](https://news.cctv.com/2025/01/30/ARTItBJ0NrpFhQZEL7cE77qv250130.shtml)
+
++ [以色列称已收到哈马斯1月30日将释放的人员名单](https://news.cctv.com/2025/01/30/ARTIfckcAN9FZ0rryxmfK9Vz250130.shtml)
+
++ [巴外交和侨民部谴责以防长言论：公然违反所有已签署协议](https://news.cctv.com/2025/01/30/ARTISF9WskJjdm1V8Zy3AVUt250130.shtml)
+
++ [日本禽流感疫情蔓延 鸡蛋价格持续上涨](https://news.cctv.com/2025/01/30/ARTIdWZRECwf7XRt0gewRs5g250130.shtml)
+
++ [德国政府大幅下调2025年经济增长预期](https://news.cctv.com/2025/01/30/ARTIbC56dVa2z3xhHEbuRGgs250130.shtml)
+
++ [莫斯科地铁举行春节主题列车首发仪式](https://news.cctv.com/2025/01/30/ARTISc9ZPGAmgd4DT5e0VGrh250130.shtml)
+
