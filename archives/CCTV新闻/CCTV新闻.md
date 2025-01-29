@@ -181,3 +181,13 @@
 
 + [德国联邦议院通过收紧移民政策的提案](https://news.cctv.com/2025/01/30/ARTI8BVjZa086tALMFEF9r4y250130.shtml)
 
++ [美联储宣布维持联邦基金利率目标区间不变](https://news.cctv.com/2025/01/30/ARTIgFRIkpGsi9IoXf2D4IRf250130.shtml)
+
++ [美媒称白宫预算办公室撤销授权联邦冻结拨款的命令](https://news.cctv.com/2025/01/30/ARTICfdiV74EqGmDf01zluOG250130.shtml)
+
++ [布基纳法索、马里、尼日尔正式退出西共体](https://news.cctv.com/2025/01/30/ARTI0BaDePXXdkkoO3f58wJE250130.shtml)
+
++ [我驻莫桑比克使馆发布旅行风险等级调整通知](https://news.cctv.com/2025/01/30/ARTIylrF8OXQ3aOxg3nhIgJB250130.shtml)
+
++ [减少监管 促进研发 欧盟发布“竞争力指南针”](https://news.cctv.com/2025/01/30/ARTI7GM05E1JVUxKimA0T9Ag250130.shtml)
+

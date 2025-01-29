@@ -135,3 +135,7 @@
 
 + [自动化办公测试](https://blog.csdn.net/2501_90446161/article/details/145388090)
 
++ [Kafka 之详解(Detailed Explanation of Kafka）](https://blog.csdn.net/J56793/article/details/144936496)
+
++ [.NET Core中的网络诊断与跟踪](https://blog.csdn.net/m0_62153576/article/details/145396747)
+
