@@ -35,3 +35,7 @@
 
 + [买大内存 MacBook 的一个意外好处——私人 AI 服务器](https://www.v2ex.com/t/1108245)
 
++ [金钱💰能补偿心灵的空洞吗？](https://www.v2ex.com/t/1108266)
+
++ [大过年的停电了...](https://www.v2ex.com/t/1108231)
+
