@@ -195,3 +195,5 @@
 
 + [【硬件测试】基于FPGA的QPSK+帧同步系统开发与硬件片内测试,包含高斯信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/145393535)
 
++ [第31篇：Python开发进阶：数据可视化与前端集成](https://blog.csdn.net/martian665/article/details/145063230)
+

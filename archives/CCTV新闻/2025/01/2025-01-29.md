@@ -197,3 +197,7 @@
 
 + [祝福中国年 我驻多国使领馆举办春节庆祝活动](https://news.cctv.com/2025/01/29/ARTIdL8alYCtM7Rs1rQAdBe4250129.shtml)
 
++ [祝福中国年 多国举行春节庙会和灯光秀](https://news.cctv.com/2025/01/29/ARTIFHnb5myu1NNVwy5UtjxD250129.shtml)
+
++ [西班牙北部约2000户因极端天气而断电](https://news.cctv.com/2025/01/29/ARTIoHQZ7jW1UiFOiTUwfHmx250129.shtml)
+
