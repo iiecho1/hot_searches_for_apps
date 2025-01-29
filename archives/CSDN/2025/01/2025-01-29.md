@@ -151,3 +151,9 @@
 
 + [当高兴、尊重和优雅三位一体是什么情况吗？](https://blog.csdn.net/nshkfhwr/article/details/145382280)
 
++ [在Windows系统中本地部署属于自己的大语言模型(Ollama + open-webui + deepseek-r1)](https://blog.csdn.net/qq_29371275/article/details/145368168)
+
++ [实战网络安全：渗透测试与防御指南](https://blog.csdn.net/qq_20245171/article/details/145362789)
+
++ [第30篇：Python开发进阶：网络安全与测试](https://blog.csdn.net/martian665/article/details/145063072)
+
