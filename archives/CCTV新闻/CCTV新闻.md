@@ -201,3 +201,7 @@
 
 + [西班牙北部约2000户因极端天气而断电](https://news.cctv.com/2025/01/29/ARTIoHQZ7jW1UiFOiTUwfHmx250129.shtml)
 
++ [南非总统拉马福萨向中国政府和人民致以蛇年新春祝福](https://news.cctv.com/2025/01/29/ARTIkVcHaYbEVVQazOfLP0aH250129.shtml)
+
++ [德国2月消费者信心先行指数环比下降](https://news.cctv.com/2025/01/29/ARTIDgvDQ8MBn1Zg9DUl5RSj250129.shtml)
+
