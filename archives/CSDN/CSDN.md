@@ -157,3 +157,9 @@
 
 + [第30篇：Python开发进阶：网络安全与测试](https://blog.csdn.net/martian665/article/details/145063072)
 
++ [【C++ 动态规划】1024. 视频拼接|1746](https://blog.csdn.net/he_zhidan/article/details/143568547)
+
++ [在亚马逊云科技上用Stable Diffusion 3.5 Large生成赛博朋克风图片（下）](https://blog.csdn.net/m0_66628975/article/details/145379130)
+
++ [人机交互：面部识别_14.面部识别在虚拟现实和增强现实中的应用](https://blog.csdn.net/zhubeibei168/article/details/145381930)
+
