@@ -249,3 +249,7 @@
 
 + [蛇年春节庆祝活动在多国举行](https://news.cctv.com/2025/01/30/ARTIAHgX5p516WlYxS7HGsV3250130.shtml)
 
++ [白俄罗斯总统批准2025年国家边境保护决议](https://news.cctv.com/2025/01/30/ARTIBeKqMmoty1oOtF99tTdF250130.shtml)
+
++ [欧洲央行宣布再次降息](https://news.cctv.com/2025/01/30/ARTIexiqq0pctkhfIBB1cEzU250130.shtml)
+
