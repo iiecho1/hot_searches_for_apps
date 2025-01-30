@@ -61,3 +61,13 @@
 
 + [仅靠泰拉月球，帝皇怎样量产二十个星际战士军团？](https://m.acfun.cn/v/%3Fac%3D46822538)
 
++ [马戏之王《A Million Dreams》中文译配翻唱！2025梦想都实现！](https://m.acfun.cn/v/%3Fac%3D46824607)
+
++ [等了两年，RTX 5080没惊喜？DLSS4真心大力水手，4K游戏简直开作弊器](https://m.acfun.cn/v/%3Fac%3D46824893)
+
++ [感叹一下某欧剖自带的照片消除功能](https://m.acfun.cn/v/%3Fac%3D46824359)
+
++ [【生贺作】再见偷花人~糟糕透顶的人生轻而易举的结束吧](https://m.acfun.cn/v/%3Fac%3D46821753)
+
++ [有点洗脑｜精灵宝可梦](https://m.acfun.cn/v/%3Fac%3D46824246)
+

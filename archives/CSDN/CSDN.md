@@ -101,3 +101,9 @@
 
 + [Janus-Pro：DeepSeek 开源的多模态模型，支持图像理解和生成](https://blog.csdn.net/qq_19841021/article/details/145394529)
 
++ [深度学习（logistic回归）](https://blog.csdn.net/2402_87933438/article/details/145382897)
+
++ [小输入框，大讲究：Table 数字输入框 debounce 实战分享](https://blog.csdn.net/weixin_43288600/article/details/145383226)
+
++ [Kafka 之详解(Detailed Explanation of Kafka）](https://blog.csdn.net/J56793/article/details/144936496)
+
