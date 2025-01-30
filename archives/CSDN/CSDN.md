@@ -169,3 +169,11 @@
 
 + [AI人工智能 - 4种革新性AI Agent工作流设计模式全解析](https://blog.csdn.net/herosunly/article/details/145375066)
 
++ [【C++动态规划 离散化】1626. 无矛盾的最佳球队|2027](https://blog.csdn.net/he_zhidan/article/details/143633385)
+
++ [【数据分析】SocSensor人际同步性分析Matlab代码](https://blog.csdn.net/m0_60703264/article/details/145391559)
+
++ [NLP&深度学习 DAY4：Word2Vec详解：两种模式（CBOW与Skip-gram）](https://blog.csdn.net/feifeikon/article/details/145391048)
+
++ [基于 AWS SageMaker 对 DeepSeek-R1-Distilled-Llama-8B 模型的精调与实践](https://blog.csdn.net/rralucard123/article/details/145395896)
+

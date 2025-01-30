@@ -217,3 +217,11 @@
 
 + [现场直击：美国两天三架飞机失事](https://news.cctv.com/2025/01/30/ARTIs8GAtMpa568Vxyg1QN41250130.shtml)
 
++ [美军发言人：与客机相撞的“黑鹰”直升机当时正进行“飞行训练”](https://news.cctv.com/2025/01/30/ARTIhrA88w03JnNJuYAsDOgd250130.shtml)
+
++ [以军在约旦河西岸逮捕26名巴勒斯坦人](https://military.cctv.com/2025/01/30/ARTIbDwWrgcyIbDBjhU20nda250130.shtml)
+
++ [巴西央行提高基准利率至13.25%](https://jingji.cctv.com/2025/01/30/ARTIopjbDUAwnqmVY4cRgQJM250130.shtml)
+
++ [阿斯麦总裁：DeepSeek AI新模型的出现是好消息](https://news.cctv.com/2025/01/30/ARTI6RKhTUOmrq1W2ZTzTVZs250130.shtml)
+
