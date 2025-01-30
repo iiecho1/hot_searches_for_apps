@@ -179,3 +179,11 @@
 
 + [美拟在关塔那摩安置被驱逐移民 古巴强硬拒绝称其破坏地区稳定](https://news.cctv.com/2025/01/31/ARTIPVu6VHXwu7g4tVgE8icR250131.shtml)
 
++ [哈马斯证实其原军事部门首领穆罕默德·戴夫身亡](https://news.cctv.com/2025/01/31/ARTIEmxWkltP19qAw5WlZL7g250131.shtml)
+
++ [110名获释的巴勒斯坦人抵达拉姆安拉](https://news.cctv.com/2025/01/31/ARTIrUHgT6u90nYw1nIvm4jv250131.shtml)
+
++ [刚果（金）反政府武装称愿与政府直接对话](https://news.cctv.com/2025/01/31/ARTIlvxGrgBJwi069nXJe78p250131.shtml)
+
++ [世界粮食计划署：苏丹27个地区陷入饥荒或面临饥荒风险](https://news.cctv.com/2025/01/31/ARTIdShtCxnCc5jd0P1UUURD250131.shtml)
+
