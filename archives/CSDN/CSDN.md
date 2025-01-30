@@ -151,3 +151,9 @@
 
 + [iperf 测 TCP 和 UDP 网络吞吐量](https://blog.csdn.net/u013669912/article/details/145389584)
 
++ [Kafka 压缩算法详细介绍](https://blog.csdn.net/2401_83413238/article/details/145401330)
+
++ [HuatuoGPT-o1， 采用 LLM 的医学复杂推理](https://blog.csdn.net/yorkhunter/article/details/145399087)
+
++ [【基于SprintBoot+Mybatis+Mysql】电脑商城项目之用户注册](https://blog.csdn.net/m0_74202856/article/details/145358228)
+
