@@ -31,3 +31,9 @@
 
 + [大家有没有整天都犯困的感觉，有没有好的解决办法](https://www.v2ex.com/t/1108320)
 
++ [面对铺面而来的 Deepseek，普通人很难不焦虑吧](https://www.v2ex.com/t/1108281)
+
++ [国内 PHP 卷王是鸟哥](https://www.v2ex.com/t/1108309)
+
++ [Macos 15.2 中如何消除“Bartender 5 正在访问你的屏幕”弹窗](https://www.v2ex.com/t/1108313)
+

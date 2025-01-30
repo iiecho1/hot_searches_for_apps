@@ -225,3 +225,9 @@
 
 + [阿斯麦总裁：DeepSeek AI新模型的出现是好消息](https://news.cctv.com/2025/01/30/ARTI6RKhTUOmrq1W2ZTzTVZs250130.shtml)
 
++ [“特别的爱送给中国朋友”——俄罗斯圣彼得堡首次开桥庆春节](https://news.cctv.com/2025/01/30/ARTIwDDEq7Q7iLSY6pGqWeG6250130.shtml)
+
++ [除夕钟声响起——赞比亚少林寺文化中心撞钟祈福迎春节](https://news.cctv.com/2025/01/30/ARTIgUnDUI0lMmY79OeSVzEo250130.shtml)
+
++ [为构建和合共生的美好世界注入动力（和音）](https://news.cctv.com/2025/01/30/ARTI5klRQYh1MLio8llSQwvZ250130.shtml)
+

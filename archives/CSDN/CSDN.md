@@ -177,3 +177,9 @@
 
 + [基于 AWS SageMaker 对 DeepSeek-R1-Distilled-Llama-8B 模型的精调与实践](https://blog.csdn.net/rralucard123/article/details/145395896)
 
++ [【Elasticsearch 】自定义分词器](https://blog.csdn.net/lilinhai548/article/details/145382816)
+
++ [生成对抗网络（GAN）：从原理到实际应用](https://blog.csdn.net/liu1983robin/article/details/145396079)
+
++ [GitHub 仓库的 Archived 功能详解：中英双语](https://blog.csdn.net/shizheng_Li/article/details/145382797)
+

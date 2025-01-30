@@ -25,3 +25,27 @@
 
 + [DeepSeek 独立发现 o1 核心思路：OpenAI 首席研究官亲自证实，阿尔特曼被迫发声](https://m.ithome.com/html/827665.htm)
 
++ [余承东回村过年动态曝光，给乡亲演示华为 Mate XT 三折叠手机](https://m.ithome.com/html/827873.htm)
+
++ [DeepSeek 应用在意大利应用商店下架，此前曾被该国隐私监管机构盯上](https://m.ithome.com/html/827833.htm)
+
++ [春晚小品“远程施法”，昨晚至今唤醒全球小米小爱同学超亿次](https://m.ithome.com/html/827862.htm)
+
++ [中国电影史单日票房新纪录，2025 年大年初一总票房超 17 亿元](https://m.ithome.com/html/827864.htm)
+
++ [阿斯麦 CEO：DeepSeek 的出现是好消息](https://m.ithome.com/html/827852.htm)
+
++ [消息称小米澎湃 HyperOS 2.1 更新将于 2 月底前登陆全球市场，带来超级小爱](https://m.ithome.com/html/827840.htm)
+
++ [六折拿下，幸运买家在沃尔玛清仓中以 350 美元买到 RTX 4070 Super 显卡](https://m.ithome.com/html/827882.htm)
+
++ [苹果 iPhone SE 4 曝料：6.1 英寸刘海屏、A17 Pro 芯片支持 Apple 智能](https://m.ithome.com/html/827877.htm)
+
++ [比亚迪 2025 新款海豚实车曝光：车头变化明显，最高续航 520km](https://m.ithome.com/html/827923.htm)
+
++ [微软宣布为 Win11 用户优化 DeepSeek-R1 模型，让 Copilot+ PC 实现本地化 AI 推理](https://m.ithome.com/html/827880.htm)
+
++ [深蓝 S09 大六座 SUV 内饰曝光：首搭智能移动中岛、鸿蒙座舱](https://m.ithome.com/html/827865.htm)
+
++ [“背叛祖宗的决定”，消息称华硕新款 NUC 将搭载 AMD 锐龙 AI Max+ 395](https://m.ithome.com/html/827665.htm)
+
