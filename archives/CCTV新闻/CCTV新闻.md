@@ -253,3 +253,11 @@
 
 + [欧洲央行宣布再次降息](https://news.cctv.com/2025/01/30/ARTIexiqq0pctkhfIBB1cEzU250130.shtml)
 
++ [日本埼玉县发生道路塌陷 120万人用水受限](https://news.cctv.com/2025/01/30/ARTI6gWE2XI0PkwZbrvGaLAn250130.shtml)
+
++ [美撞机事故恐无人生还 分析认为凸显华盛顿空中拥堵](https://news.cctv.com/2025/01/30/ARTIJH7Q6KsnhLblkZbmfvzx250130.shtml)
+
++ [俄战略轰炸机巡航鄂霍次克海和日本海](https://news.cctv.com/2025/01/30/ARTIbWudCu11lGvGz8GHiQjK250130.shtml)
+
++ [阿联酋从法国接收首批“阵风”战斗机](https://news.cctv.com/2025/01/30/ARTI2ZnnduA2SVGvYxWoKrc2250130.shtml)
+

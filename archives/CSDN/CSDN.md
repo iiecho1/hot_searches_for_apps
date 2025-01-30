@@ -207,3 +207,7 @@
 
 + [28. 【.NET 8 实战--孢子记账--从单体到微服务】--简易报表--报表定时器与报表数据修正](https://blog.csdn.net/gangzhucoll/article/details/145382569)
 
++ [[免费]微信小程序智能商城系统(uniapp+Springboot后端+vue管理端)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/145399862)
+
++ [Janus-Pro：DeepSeek 开源的多模态模型，支持图像理解和生成](https://blog.csdn.net/qq_19841021/article/details/145394529)
+

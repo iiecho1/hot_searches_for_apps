@@ -137,3 +137,9 @@
 
 + [仅靠泰拉月球，帝皇怎样量产二十个星际战士军团？](https://m.acfun.cn/v/%3Fac%3D46822538)
 
++ [【东方】以兽王园众MMD再现咒术回战OP](https://m.acfun.cn/v/%3Fac%3D46816266)
+
++ [小作坊下料就是猛](https://m.acfun.cn/v/%3Fac%3D46781064)
+
++ [战！吼！萨！](https://m.acfun.cn/v/%3Fac%3D46824393)
+
