@@ -151,3 +151,5 @@
 
 + [第21节课：前端构建工具—自动化与模块化的利器](https://blog.csdn.net/XWXXX666/article/details/145393258)
 
++ [Spring AI 在微服务中的应用：支持分布式 AI 推理](https://blog.csdn.net/u012561308/article/details/145394355)
+
