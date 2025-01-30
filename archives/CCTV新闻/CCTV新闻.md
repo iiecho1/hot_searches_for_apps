@@ -191,3 +191,9 @@
 
 + [减少监管 促进研发 欧盟发布“竞争力指南针”](https://news.cctv.com/2025/01/30/ARTI7GM05E1JVUxKimA0T9Ag250130.shtml)
 
++ [巴西和美国同意定期开展会谈 讨论移民遣返问题](https://news.cctv.com/2025/01/30/ARTIg3T3mxQ30aRr49qc0hL1250130.shtml)
+
++ [斯洛伐克：抗议乌克兰干涉斯内政的言论](https://news.cctv.com/2025/01/30/ARTIttDiUjB1kH5kiOe3W9gg250130.shtml)
+
++ [退出《巴黎协定》后 美国又计划推翻车辆减排限制](https://news.cctv.com/2025/01/30/ARTIAzURDtXRUiGtxaJclsIP250130.shtml)
+

@@ -147,3 +147,7 @@
 
 + [网络爬虫学习：应用selenium获取Edge浏览器版本号，自动下载对应版本msedgedriver，确保Edge浏览器顺利打开。](https://blog.csdn.net/bahamutj/article/details/145395157)
 
++ [深度学习（logistic回归）](https://blog.csdn.net/2402_87933438/article/details/145382897)
+
++ [第21节课：前端构建工具—自动化与模块化的利器](https://blog.csdn.net/XWXXX666/article/details/145393258)
+

@@ -23,3 +23,5 @@
 
 + [28 届想找大厂暑假实习…这个简历有可改善的地方吗？](https://www.v2ex.com/t/1108288)
 
++ [2025 年 ESXi vs Proxmox VE (PVE)：虚拟化方案选哪个?](https://www.v2ex.com/t/1108307)
+
