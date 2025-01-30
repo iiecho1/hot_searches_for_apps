@@ -153,3 +153,9 @@
 
 + [Spring AI 在微服务中的应用：支持分布式 AI 推理](https://blog.csdn.net/u012561308/article/details/145394355)
 
++ [时频转换 | Matlab小波同步压缩变换wavelet synchrosqueezed transform一维数据转二维图像方法](https://blog.csdn.net/qq_59747472/article/details/145395656)
+
++ [【Hadoop】Hadoop 概述](https://blog.csdn.net/weixin_44917201/article/details/145394935)
+
++ [北京大学与智元机器人联合实验室发布OmniManip：显著提升机器人3D操作能力](https://blog.csdn.net/weixin_44887311/article/details/145377881)
+

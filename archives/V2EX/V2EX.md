@@ -25,3 +25,7 @@
 
 + [2025 年 ESXi vs Proxmox VE (PVE)：虚拟化方案选哪个?](https://www.v2ex.com/t/1108307)
 
++ [一回家乡就感觉这辈子都完蛋了](https://www.v2ex.com/t/1108315)
+
++ [如何才能买到美股呢？](https://www.v2ex.com/t/1108278)
+

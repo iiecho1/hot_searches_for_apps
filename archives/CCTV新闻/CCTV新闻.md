@@ -201,3 +201,11 @@
 
 + [7名国际奥委会主席候选人竞选纲领之比较](https://news.cctv.com/2025/01/30/ARTIlCZM7cP39Npgwvcrdszv250130.shtml)
 
++ [特朗普上任后两次要求美联储降息被拒](https://news.cctv.com/2025/01/30/ARTIEWdJPutr2kKJBdQrNPMR250130.shtml)
+
++ [美华盛顿特区坠毁客机机上乘客约60人 坠毁前与美“黑鹰”直升机相撞](https://news.cctv.com/2025/01/30/ARTIi7Bz1cR3WKB5n20jMuLg250130.shtml)
+
++ [祝福中国年 多国政要和国际人士送上新春祝福](https://news.cctv.com/2025/01/30/ARTIZuA4JTI2wCDbsgksKVmD250130.shtml)
+
++ [白宫：美国首都里根机场附近小型飞机坠毁前疑似与军方直升机相撞](https://news.cctv.com/2025/01/30/ARTI5IPewi5kkWNlw3fe34ac250130.shtml)
+
