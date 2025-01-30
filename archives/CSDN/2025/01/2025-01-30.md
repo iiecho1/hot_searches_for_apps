@@ -187,3 +187,9 @@
 
 + [unity学习23：场景scene相关，场景信息，场景跳转](https://blog.csdn.net/xuemanqianshan/article/details/145391792)
 
++ [LLM 驱动的影视解说工具：Narrato AI 一站式高效创作实践](https://blog.csdn.net/xiaobing259/article/details/145366840)
+
++ [机器人抓取与操作经典规划算法(深蓝)——2](https://blog.csdn.net/BigDavid123/article/details/145394760)
+
++ [Macos本地部署Deepseek模型](https://blog.csdn.net/Sea_wind0_/article/details/145392973)
+
