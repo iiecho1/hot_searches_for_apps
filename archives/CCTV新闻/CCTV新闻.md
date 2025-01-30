@@ -243,3 +243,9 @@
 
 + [美国两机相撞坠河事故 超过30具遇难者遗体被找到](https://news.cctv.com/2025/01/30/ARTIzO075gIN6KHQZd2dWy2u250130.shtml)
 
++ [美官员：两机相撞事故恐无人生还](https://news.cctv.com/2025/01/30/ARTIIalRHIybFnhN0VqmBmhi250130.shtml)
+
++ [我驻外使团使馆举办春节招待会欢庆蛇年新春](https://news.cctv.com/2025/01/30/ARTIS9br9MAJXijKw8gTbABZ250130.shtml)
+
++ [蛇年春节庆祝活动在多国举行](https://news.cctv.com/2025/01/30/ARTIAHgX5p516WlYxS7HGsV3250130.shtml)
+
