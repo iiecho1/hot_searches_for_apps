@@ -107,3 +107,39 @@
 
 + [Kafka 之详解(Detailed Explanation of Kafka）](https://blog.csdn.net/J56793/article/details/144936496)
 
++ [多尺度特征融合与网格划分策略的权衡YOLO与SSD在目标检测中的优化路径](https://blog.csdn.net/weixin_52908342/article/details/145401367)
+
++ [DeepSeek-V3：重塑中国AI的璀璨星河](https://blog.csdn.net/lgf228/article/details/145387611)
+
++ [QT：图像上绘制图形](https://blog.csdn.net/qq_43441284/article/details/145386718)
+
++ [DeepSeek R1 使用指南：架构、训练、本地部署](https://blog.csdn.net/max202011161630/article/details/145392788)
+
++ [用HTML、CSS和JavaScript实现庆祝2025蛇年大吉（附源码）](https://blog.csdn.net/wxdzuishaui/article/details/145388327)
+
++ [NLP&深度学习 DAY5：Seq2Seq 模型详解](https://blog.csdn.net/feifeikon/article/details/145400651)
+
++ [如何使用GPTs撰写论文综述？](https://blog.csdn.net/chenby186119/article/details/144929088)
+
++ [LabVIEW微位移平台位移控制系统](https://blog.csdn.net/bjcyck/article/details/145397631)
+
++ [DeepSeek的多模态大模型Janus实测，以及如何运行web demo](https://blog.csdn.net/jayliu/article/details/145388871)
+
++ [Spring Boot深度开发实践：从高效开发到生产级部署](https://blog.csdn.net/2401_82505179/article/details/145401903)
+
++ [洞察API脉搏——Nginx驱动的零信任架构中API流量可视化全解析](https://blog.csdn.net/2401_88677290/article/details/144794372)
+
++ [ES的X-Pack](https://blog.csdn.net/hezuijiudexiaobai/article/details/145380112)
+
++ [最近爆火的DeepSeek如何部署到飞牛NAS（适用于大部分Linux）](https://blog.csdn.net/zhengaga/article/details/145391262)
+
++ [Linux Samba 低版本漏洞（远程控制）复现与剖析](https://blog.csdn.net/xinyaoyaotu/article/details/145401776)
+
++ [从腾讯云数据仓库TCHouse安全地转移数据到AWS Redshift](https://blog.csdn.net/weixin_30777913/article/details/145383815)
+
++ [【Linux】从硬件到软件了解进程](https://blog.csdn.net/s_little_monster/article/details/145290618)
+
++ [基于SpringBoot的假期周边游平台的设计与实现(源码+SQL脚本+LW+部署讲解等)](https://blog.csdn.net/hungelianshu123/article/details/145369461)
+
++ [【Elasticsearch】 Intervals Query](https://blog.csdn.net/risc123456/article/details/145400668)
+
