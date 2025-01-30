@@ -157,3 +157,11 @@
 
 + [【基于SprintBoot+Mybatis+Mysql】电脑商城项目之用户注册](https://blog.csdn.net/m0_74202856/article/details/145358228)
 
++ [DeepSeek模型：开启人工智能的新篇章](https://blog.csdn.net/m0_56896669/article/details/145394840)
+
++ [【Block总结】HWD，小波下采样，适用分类、分割、目标检测等任务|即插即用](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/145400355)
+
++ [深入探讨：服务器如何响应前端请求及后端如何查看前端提交的数据](https://blog.csdn.net/2503_90221393/article/details/145399063)
+
++ [Manticore Search，新一代搜索引擎之王](https://blog.csdn.net/qq_30333063/article/details/145400892)
+
