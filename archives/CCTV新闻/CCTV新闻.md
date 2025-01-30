@@ -211,3 +211,9 @@
 
 + [全球多地举行迎新春活动](https://photo.cctv.com/2025/01/30/PHOAWXdIneatzzvTkHXJaUza250130.shtml)
 
++ [特朗普最新发声：“看起来是可以避免的”](https://news.cctv.com/2025/01/30/ARTIREr99qnt3VjH4XrAkDdD250130.shtml)
+
++ [美一客机与军用直升机相撞坠河 已发现18具遇难者遗体](https://news.cctv.com/2025/01/30/ARTIYaxmIPEaEFjKAf1KVIoH250130.shtml)
+
++ [现场直击：美国两天三架飞机失事](https://news.cctv.com/2025/01/30/ARTIs8GAtMpa568Vxyg1QN41250130.shtml)
+

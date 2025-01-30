@@ -165,3 +165,7 @@
 
 + [[MySQL]事务的隔离级别原理与底层实现](https://blog.csdn.net/m0_74207969/article/details/145386475)
 
++ [Eureka 服务注册和服务发现的使用](https://blog.csdn.net/2202_76097976/article/details/145397423)
+
++ [AI人工智能 - 4种革新性AI Agent工作流设计模式全解析](https://blog.csdn.net/herosunly/article/details/145375066)
+
