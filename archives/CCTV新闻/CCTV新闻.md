@@ -239,3 +239,7 @@
 
 + [巴勒斯坦武装派别30日在加沙地带向红十字国际委员会移交两名以色列被扣押人员](https://news.cctv.com/2025/01/30/ARTI3ZEVRCIwXMmMFegCClh5250130.shtml)
 
++ [美国小学和初中生阅读成绩继续下降](https://news.cctv.com/2025/01/30/ARTI1W5pkcCka3sXn4w2UCbD250130.shtml)
+
++ [美国两机相撞坠河事故 超过30具遇难者遗体被找到](https://news.cctv.com/2025/01/30/ARTIzO075gIN6KHQZd2dWy2u250130.shtml)
+
