@@ -159,3 +159,9 @@
 
 + [北京大学与智元机器人联合实验室发布OmniManip：显著提升机器人3D操作能力](https://blog.csdn.net/weixin_44887311/article/details/145377881)
 
++ [DeepSeek学术写作测评第二弹：数据分析、图表解读，效果怎么样？](https://blog.csdn.net/dinaxuejie/article/details/145382732)
+
++ [如何使用调试与测试技巧：使用JUnit和Mockito简化单元测试](https://blog.csdn.net/qq_42055933/article/details/145248927)
+
++ [[MySQL]事务的隔离级别原理与底层实现](https://blog.csdn.net/m0_74207969/article/details/145386475)
+

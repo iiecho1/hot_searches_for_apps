@@ -209,3 +209,5 @@
 
 + [白宫：美国首都里根机场附近小型飞机坠毁前疑似与军方直升机相撞](https://news.cctv.com/2025/01/30/ARTI5IPewi5kkWNlw3fe34ac250130.shtml)
 
++ [全球多地举行迎新春活动](https://photo.cctv.com/2025/01/30/PHOAWXdIneatzzvTkHXJaUza250130.shtml)
+
