@@ -31,3 +31,15 @@
 
 + [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
++ [block/goose](https://github.com/block/goose)
+
++ [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)
+
++ [unslothai/unsloth](https://github.com/unslothai/unsloth)
+
++ [polarsource/polar](https://github.com/polarsource/polar)
+
++ [github/docs](https://github.com/github/docs)
+
++ [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
+

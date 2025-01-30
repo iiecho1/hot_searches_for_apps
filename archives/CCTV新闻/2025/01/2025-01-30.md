@@ -237,3 +237,5 @@
 
 + [数名美国花滑运动相关人员在美坠毁客机上](https://news.cctv.com/2025/01/30/ARTI1Iyzqk9WMa6WLyvy8322250130.shtml)
 
++ [巴勒斯坦武装派别30日在加沙地带向红十字国际委员会移交两名以色列被扣押人员](https://news.cctv.com/2025/01/30/ARTI3ZEVRCIwXMmMFegCClh5250130.shtml)
+

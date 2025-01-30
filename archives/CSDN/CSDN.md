@@ -193,3 +193,9 @@
 
 + [Macos本地部署Deepseek模型](https://blog.csdn.net/Sea_wind0_/article/details/145392973)
 
++ [HTTPS 协议原理](https://blog.csdn.net/weixin_50776420/article/details/145385959)
+
++ [大数据相关职位 & 职业进阶路径](https://blog.csdn.net/tomxjc/article/details/145396066)
+
++ [【测试】开发模型和测试模型](https://blog.csdn.net/2302_79806056/article/details/145360116)
+
