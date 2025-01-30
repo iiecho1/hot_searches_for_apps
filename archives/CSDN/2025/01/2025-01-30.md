@@ -183,3 +183,7 @@
 
 + [GitHub 仓库的 Archived 功能详解：中英双语](https://blog.csdn.net/shizheng_Li/article/details/145382797)
 
++ [【自学嵌入式（6）天气时钟：软硬件准备、串口模块开发】](https://blog.csdn.net/STAB_/article/details/145386832)
+
++ [unity学习23：场景scene相关，场景信息，场景跳转](https://blog.csdn.net/xuemanqianshan/article/details/145391792)
+
