@@ -145,3 +145,5 @@
 
 + [windows本地部署deep seek r1](https://blog.csdn.net/m0_55979718/article/details/145383660)
 
++ [网络爬虫学习：应用selenium获取Edge浏览器版本号，自动下载对应版本msedgedriver，确保Edge浏览器顺利打开。](https://blog.csdn.net/bahamutj/article/details/145395157)
+
