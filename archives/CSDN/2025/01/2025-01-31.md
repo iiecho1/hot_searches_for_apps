@@ -193,3 +193,9 @@
 
 + [赛博算卦之周易六十四卦JAVA实现：六幺算尽天下事，梅花化解天下苦。](https://blog.csdn.net/2401_87533975/article/details/145400784)
 
++ [Python GIL（全局解释器锁）机制对多线程性能影响的深度分析](https://blog.csdn.net/m0_46510245/article/details/145404019)
+
++ [公司数据不泄露，DeepSeek R1本地化部署+web端访问+个人知识库搭建与使用，喂饭级实操教程，老旧笔记本竟跑出企业级AI](https://blog.csdn.net/m0_63171455/article/details/145404500)
+
++ [DeepSeek本机部署(基于Ollama和Docker管理）](https://blog.csdn.net/2302_79135989/article/details/145404339)
+

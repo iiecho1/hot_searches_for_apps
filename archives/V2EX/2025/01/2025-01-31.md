@@ -37,3 +37,7 @@
 
 + [好像最近 Deepseek 的网络不太稳定](https://www.v2ex.com/t/1108331)
 
++ [新手 Mac 选购](https://www.v2ex.com/t/1108356)
+
++ [免费的文本转语音哪家强？](https://www.v2ex.com/t/1108392)
+
