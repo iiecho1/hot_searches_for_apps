@@ -101,3 +101,11 @@
 
 + [开源AI智能名片2+1链动模式S2B2C商城小程序：重塑私域流量运营格局](https://blog.csdn.net/weixin_70596807/article/details/145402955)
 
++ [Qt事件处理：理解处理器、过滤器与事件系统](https://blog.csdn.net/taduanlangan/article/details/145405536)
+
++ [【AI】Deepseek本地部署探索，尝试联网搜索](https://blog.csdn.net/qq_19915249/article/details/145398357)
+
++ [大学生租房系统|基于SpringBoot的大学生租房系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/145393025)
+
++ [【Linux】信号](https://blog.csdn.net/qq_72680384/article/details/145399538)
+
