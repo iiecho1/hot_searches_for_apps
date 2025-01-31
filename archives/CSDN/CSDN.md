@@ -141,3 +141,7 @@
 
 + [基于微信小程序的辅助教学系统的设计与实现](https://blog.csdn.net/Candy5204/article/details/145400364)
 
++ [单机伪分布Hadoop详细配置](https://blog.csdn.net/qq_51180928/article/details/145392199)
+
++ [JavaFX - 3D 形状](https://blog.csdn.net/qq_73533697/article/details/145408769)
+
