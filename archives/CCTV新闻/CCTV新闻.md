@@ -243,3 +243,7 @@
 
 + [【讲习所团圆年】春节是“中国时间”，也是“世界时刻”](https://news.cctv.com/2025/01/31/ARTInctOEyCHrCAfiwwjHdLj250131.shtml)
 
++ [全球多地举行活动 各国民众共庆新春](https://news.cctv.com/2025/01/31/ARTIPRFZurC0vZ731TQLnbUX250131.shtml)
+
++ [我驻外使馆举办活动庆祝蛇年春节](https://news.cctv.com/2025/01/31/ARTIuMWiY4muHHo03AyIzcu5250131.shtml)
+

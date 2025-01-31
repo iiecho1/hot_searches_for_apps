@@ -211,3 +211,7 @@
 
 + [【AI绘画】MidJourney关键词{Prompt}全面整理](https://blog.csdn.net/tjls2008/article/details/145403465)
 
++ [大模型本地化部署（Ollama + Open-WebUI）](https://blog.csdn.net/qq_43557686/article/details/145404771)
+
++ [一文速览DeepSeekMoE及相关MoE大模型：从Mixtral 8x7B到DeepSeekMoE(含DeepSeek LLM的详解)、Qwen2.5-Max](https://blog.csdn.net/v_JULY_v/article/details/145406756)
+
