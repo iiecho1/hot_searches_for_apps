@@ -215,3 +215,11 @@
 
 + [一文速览DeepSeekMoE及相关MoE大模型：从Mixtral 8x7B到DeepSeekMoE(含DeepSeek LLM的详解)、Qwen2.5-Max](https://blog.csdn.net/v_JULY_v/article/details/145406756)
 
++ [Qt事件处理：理解处理器、过滤器与事件系统](https://blog.csdn.net/taduanlangan/article/details/145405536)
+
++ [python：洛伦兹变换](https://blog.csdn.net/belldeep/article/details/145389026)
+
++ [探索AI（chatgpt、文心一言、kimi等）提示词的奥秘](https://blog.csdn.net/AI_zhuli/article/details/145396100)
+
++ [k8s-pod控制器](https://blog.csdn.net/weixin_51661406/article/details/145407347)
+
