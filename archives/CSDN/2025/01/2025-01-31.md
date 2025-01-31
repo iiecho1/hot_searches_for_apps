@@ -223,3 +223,9 @@
 
 + [k8s-pod控制器](https://blog.csdn.net/weixin_51661406/article/details/145407347)
 
++ [Python从0到100（八十六）：神经网络-ShuffleNet通道混合轻量级网络的深入介绍](https://blog.csdn.net/weixin_51390582/article/details/145407498)
+
++ [一文速览DeepSeekMoE及相关MoE大模型：从Mixtral 8x7B到DeepSeekMoE(含DeepSeek LLM的简介)、Qwen2.5-Max](https://blog.csdn.net/v_JULY_v/article/details/145406756)
+
++ [基于Java的springboot/SSM+vue.js+uniapp小程序的校园博客系统附带文章源码部署视频讲解等](https://blog.csdn.net/2401_82799502/article/details/145403413)
+

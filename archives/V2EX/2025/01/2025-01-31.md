@@ -57,3 +57,7 @@
 
 + [webstorm 和 vscode，你选哪个：](https://www.v2ex.com/t/1108420)
 
++ [本地部署 DeepSeek-R1 671B 千亿大模型流程](https://www.v2ex.com/t/1108393)
+
++ [发现错了马上改，是最重要的人生法则。](https://www.v2ex.com/t/1108424)
+
