@@ -145,3 +145,9 @@
 
 + [JavaFX - 3D 形状](https://blog.csdn.net/qq_73533697/article/details/145408769)
 
++ [本地部署DeepSeek开源多模态大模型Janus-Pro-7B实操](https://blog.csdn.net/weixin_44626085/article/details/145407549)
+
++ [Spring中ObjectProvider的妙用与实例解析](https://blog.csdn.net/2501_90323865/article/details/145409587)
+
++ [OpenAI 宕机 | 如何让 k8s 集群更稳定](https://blog.csdn.net/u013669912/article/details/145373833)
+
