@@ -167,3 +167,7 @@
 
 + [【Linux】信号](https://blog.csdn.net/qq_72680384/article/details/145399538)
 
++ [开源AI智能名片2+1链动模式S2B2C商城小程序：重塑私域流量运营格局](https://blog.csdn.net/weixin_70596807/article/details/145402955)
+
++ [SpringBoot AOP 和 事务](https://blog.csdn.net/qq_50249256/article/details/145401156)
+

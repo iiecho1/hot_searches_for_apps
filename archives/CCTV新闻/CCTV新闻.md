@@ -189,3 +189,23 @@
 
 + [特朗普：华盛顿撞机事故中无人生还](https://news.cctv.com/2025/01/31/ARTIzBSP41HMVmOvTtSTpYkj250131.shtml)
 
++ [特朗普：计划2月1日起对加拿大、墨西哥商品征收25%关税](https://news.cctv.com/2025/01/31/ARTIj6bhWroXyUclYvlmmGdr250131.shtml)
+
++ [叙利亚过渡总统：叙利亚人应共同参与建设国家](https://news.cctv.com/2025/01/31/ARTImBn1txOLL4tO01xa7slp250131.shtml)
+
++ [我驻美使馆：经初步了解 美撞机事故中有2名中国公民遇难](https://news.cctv.com/2025/01/31/ARTIpU4yXEuXVp16tz1FEcm5250131.shtml)
+
++ [美国上诉法院裁定，政府禁止向21岁以下成年人出售枪支的命令违宪](https://news.cctv.com/2025/01/31/ARTIaMtxQ0otP1OX3sPvg8ad250131.shtml)
+
++ [美国两机相撞坠河事故已找到约40具遇难者遗体](https://news.cctv.com/2025/01/31/ARTIKbKC76DMVvi9eZBW0s44250131.shtml)
+
++ [意大利多洛米蒂山和瓦尔泰利纳地区获2028年冬青奥会举办权](https://news.cctv.com/2025/01/31/ARTIV8ZCuMF5wmKt9y4wpvzn250131.shtml)
+
++ [俄称继续向前推进 乌称击退俄军进攻](https://news.cctv.com/2025/01/31/ARTIChYMLqGBILVjFWp0toIr250131.shtml)
+
++ [美参议院投票确认道格·伯古姆出任内政部长](https://news.cctv.com/2025/01/31/ARTIQMOFYnJ9Quz4N6MVZscm250131.shtml)
+
++ [美媒：美撞机事故中客机两个黑匣子均已找到](https://news.cctv.com/2025/01/31/ARTIntL5dYnAw9N0T6zYTt6s250131.shtml)
+
++ [美国撞机事故中有两名中国公民遇难](https://news.cctv.com/2025/01/31/ARTIhF9oyQeqThc2ayLuumOi250131.shtml)
+

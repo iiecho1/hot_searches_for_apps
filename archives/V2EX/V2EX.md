@@ -21,3 +21,9 @@
 
 + [有什么方便老人使用的大模型语音交互小家电吗？](https://www.v2ex.com/t/1108322)
 
++ [google 的 gemini-2.0-flash-thinking 这个推理模型是不让用了吗](https://www.v2ex.com/t/1108325)
+
++ [前后端开发毕设,求建议](https://www.v2ex.com/t/1108330)
+
++ [今年过年大家观察到身边有哪些变化?](https://www.v2ex.com/t/1108352)
+
