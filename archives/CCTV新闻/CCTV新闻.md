@@ -217,3 +217,13 @@
 
 + [巴西总统卢拉：若美国加征关税 巴西将对等反制](https://news.cctv.com/2025/01/31/ARTI8KQ6aP6O6sxUIeU1BLpu250131.shtml)
 
++ [综合消息丨共庆新春佳节 传递喜悦祝福——全球多地举办春节庆祝活动](https://news.cctv.com/2025/01/31/ARTIwvMRWuF2bMzD1p6lF7Y3250131.shtml)
+
++ [综述｜德国政商界共贺中国春节 展望友谊与合作新愿景](https://news.cctv.com/2025/01/31/ARTIMKogUEKqqA0dDt7VqqVi250131.shtml)
+
++ [欧航局将建造其首个月球着陆器](https://news.cctv.com/2025/01/31/ARTIlm6A3ph4L3pNY80pdd9l250131.shtml)
+
++ [五洲四海庆新春 中华文化展魅力](https://news.cctv.com/2025/01/31/ARTIvGPgh3PHxRqvMhDZ6HOJ250131.shtml)
+
++ [韩国代总统崔相穆再次否决彻查尹锡悦发动紧急戒严的“内乱特检法”](https://news.cctv.com/2025/01/31/ARTIW1CJm4eNfiSMaz3yClUC250131.shtml)
+

@@ -25,3 +25,27 @@
 
 + [“背叛祖宗的决定”，消息称华硕新款 NUC 将搭载 AMD 锐龙 AI Max+ 395](https://m.ithome.com/html/827665.htm)
 
++ [16499 元 / 8299 元，英伟达 GeForce RTX 5090 D / 5080 旗舰显卡首销](https://m.ithome.com/html/827950.htm)
+
++ [AMD YES！RX 9070 XT 4K 游戏性能媲美 RTX 5080，预定 2025 显卡性价比之王](https://m.ithome.com/html/827978.htm)
+
++ [1699 元 → 508 元：华为智能眼镜国补新低，搭载 HarmonyOS](https://m.ithome.com/html/827962.htm)
+
++ [网易云音乐宣布为 App 引入“底部导航栏自定义”功能](https://m.ithome.com/html/827983.htm)
+
++ [AMD 称 RX 7900 XTX 显卡运行 DeepSeek AI 性能领先英伟达 RTX 4080S，部分场合胜过 4090](https://m.ithome.com/html/827971.htm)
+
++ [张忠谋揭秘苹果 2011 年为何选择台积电：英特尔根本不懂代工](https://m.ithome.com/html/828038.htm)
+
++ [DeepSeek 爆火后，创始人梁文锋回家过年被拉横幅立拱门欢迎](https://m.ithome.com/html/827999.htm)
+
++ [英伟达为现有 RTX 显卡发布驱动程序 572.16 更新，可直接激活 DLSS 4](https://m.ithome.com/html/828021.htm)
+
++ [英伟达：DeepSeek-R1 模型现已上线 NIM 微服务平台](https://m.ithome.com/html/828003.htm)
+
++ [微软多款新品登场：英特尔 CPU 版 Surface Pro 11 / Laptop 7、USB 4 扩展坞](https://m.ithome.com/html/828019.htm)
+
++ [苹果库克看好中国 AI 公司 DeepSeek，认可其提效创新模式](https://m.ithome.com/html/828018.htm)
+
++ [2025 春节档首部 10 亿电影诞生，《哪吒之魔童闹海》总票房突破 11 亿](https://m.ithome.com/html/827665.htm)
+

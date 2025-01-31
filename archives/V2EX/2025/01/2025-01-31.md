@@ -41,3 +41,7 @@
 
 + [免费的文本转语音哪家强？](https://www.v2ex.com/t/1108392)
 
++ [时隔两年， TrafficMonitor 迎来更新](https://www.v2ex.com/t/1108384)
+
++ [郑州，长沙，重庆年后找工作的看过来。](https://www.v2ex.com/t/1108339)
+
