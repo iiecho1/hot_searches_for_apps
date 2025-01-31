@@ -161,3 +161,7 @@
 
 + [7名国际奥委会主席候选人竞选纲领之比较](https://news.cctv.com/2025/01/30/ARTIlCZM7cP39Npgwvcrdszv250130.shtml)
 
++ [巴以交换第三批被扣押人员 亲属及当地民众激动不已](https://news.cctv.com/2025/02/01/ARTIWzvGoZSoQN2iO7LkjrC8250201.shtml)
+
++ [白宫：将从2月1日起对墨西哥和加拿大商品征收25%关税](https://news.cctv.com/2025/02/01/ARTI9GAwKg1g0zM73R0wG47x250201.shtml)
+
