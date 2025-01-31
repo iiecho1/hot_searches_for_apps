@@ -199,3 +199,9 @@
 
 + [DeepSeek本机部署(基于Ollama和Docker管理）](https://blog.csdn.net/2302_79135989/article/details/145404339)
 
++ [使用 Pygame 开发俄罗斯方块游戏](https://blog.csdn.net/weixin_41793160/article/details/145405370)
+
++ [Three.js 后期处理（Post-Processing）详解](https://blog.csdn.net/dabaooooq/article/details/145398524)
+
++ [高效快速教你deepseek如何进行本地部署并且可视化对话](https://blog.csdn.net/2301_80863610/article/details/145404715)
+
