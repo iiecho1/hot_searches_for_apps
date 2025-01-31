@@ -109,3 +109,25 @@
 
 + [【Linux】信号](https://blog.csdn.net/qq_72680384/article/details/145399538)
 
++ [鸿蒙ArkTS——JSON写入数据错位解决方案](https://blog.csdn.net/feng8403000/article/details/145407971)
+
++ [使用Pygame制作“俄罗斯方块”游戏](https://blog.csdn.net/weixin_41793160/article/details/145405370)
+
++ [掌握区块链智能合约权限控制的艺术——构建支持权限管理的MySQL架构](https://blog.csdn.net/2401_88677290/article/details/144793372)
+
++ [WSL2+docker+ollama+deepseek(使用GPU)](https://blog.csdn.net/qq_35531180/article/details/145408059)
+
++ [大数据相关职位 & 职业进阶路径](https://blog.csdn.net/tomxjc/article/details/145396066)
+
++ [Python-基于mediapipe,pyautogui,cv2和numpy的电脑手势截屏工具](https://blog.csdn.net/2401_83954530/article/details/145400033)
+
++ [首个DeepSeek-R1开源复现：Open-R1正式亮相](https://blog.csdn.net/m0_65555479/article/details/145404397)
+
++ [网络攻防实战指北专栏讲解大纲与网络安全法](https://blog.csdn.net/2301_80266599/article/details/145400705)
+
++ [DeepSeek暴击美股后除夕还在卷](https://blog.csdn.net/qq_41035650/article/details/145389603)
+
++ [【Hadoop】Hadoop 概述](https://blog.csdn.net/weixin_44917201/article/details/145394935)
+
++ [深入剖析 CSRF 漏洞：原理、危害案例与防护](https://blog.csdn.net/xinyaoyaotu/article/details/145407542)
+
