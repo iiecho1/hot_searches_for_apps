@@ -165,3 +165,7 @@
 
 + [白宫：将从2月1日起对墨西哥和加拿大商品征收25%关税](https://news.cctv.com/2025/02/01/ARTI9GAwKg1g0zM73R0wG47x250201.shtml)
 
++ [欧盟在拉法口岸部署民事特派团](https://news.cctv.com/2025/02/01/ARTI3pgcjP1ONuMB3ongpqi8250201.shtml)
+
++ [美国联邦调查局多名员工被告知将被解雇](https://news.cctv.com/2025/02/01/ARTIMxlZuiqCtZ7cj9U9RxOj250201.shtml)
+
