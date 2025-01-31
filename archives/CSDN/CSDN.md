@@ -185,3 +185,11 @@
 
 + [CSS核心](https://blog.csdn.net/m0_59749089/article/details/145386684)
 
++ [【AI】Deepseek本地部署探索，尝试联网搜索](https://blog.csdn.net/qq_19915249/article/details/145398357)
+
++ [【电力系统】多微电网及分布式能源交易附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/145403175)
+
++ [AIGC视频生成模型：ByteDance的PixelDance模型](https://blog.csdn.net/haopinglianlian/article/details/145398232)
+
++ [赛博算卦之周易六十四卦JAVA实现：六幺算尽天下事，梅花化解天下苦。](https://blog.csdn.net/2401_87533975/article/details/145400784)
+

@@ -213,3 +213,7 @@
 
 + [美国撞机事故更多遇难者信息公布](https://news.cctv.com/2025/01/31/ARTIi8GZKGJF8iFU06nt9pyQ250131.shtml)
 
++ [墨西哥要求美方对移民人权遭侵犯进行调查](https://news.cctv.com/2025/01/31/ARTI3HJABPjXENLFig0HzaZA250131.shtml)
+
++ [巴西总统卢拉：若美国加征关税 巴西将对等反制](https://news.cctv.com/2025/01/31/ARTI8KQ6aP6O6sxUIeU1BLpu250131.shtml)
+

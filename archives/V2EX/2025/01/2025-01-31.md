@@ -33,3 +33,7 @@
 
 + [什么时候出新 12 寸 MacBook](https://www.v2ex.com/t/1108359)
 
++ [打电话给苹果客服，提供我的 icloud 账号后和序列号，有技术人员远程帮我 debug 问题](https://www.v2ex.com/t/1108378)
+
++ [好像最近 Deepseek 的网络不太稳定](https://www.v2ex.com/t/1108331)
+
