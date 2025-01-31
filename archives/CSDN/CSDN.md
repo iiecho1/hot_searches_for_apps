@@ -171,3 +171,5 @@
 
 + [SpringBoot AOP 和 事务](https://blog.csdn.net/qq_50249256/article/details/145401156)
 
++ [SpringCloud系列教程：微服务的未来（十九）请求限流、线程隔离、Fallback、服务熔断](https://blog.csdn.net/m0_63267251/article/details/145388321)
+
