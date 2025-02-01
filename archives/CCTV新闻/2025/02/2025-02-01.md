@@ -191,3 +191,7 @@
 
 + [美国联邦政府大多数网站将暂停运行](https://news.cctv.com/2025/02/01/ARTIjjXvGzcusfQM3phmfBCY250201.shtml)
 
++ [韩国济州岛附近两艘渔船触礁致1死3失踪](https://news.cctv.com/2025/02/01/ARTIsvWV91jv7iXedNRbL4v3250201.shtml)
+
++ [我驻克赖斯特彻奇总领馆再次提醒：来新自驾游客注意交通安全](https://news.cctv.com/2025/02/01/ARTIBvVifTq3e89CAnjG5QLF250201.shtml)
+

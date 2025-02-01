@@ -183,3 +183,17 @@
 
 + [Android Studio 正式版 10 周年回顾，承载 Androider 的峥嵘十年](https://blog.csdn.net/ZuoYueLiang/article/details/145399013)
 
++ [【C++】map 和 set 在高并发环境下的性能优化秘籍，深入探讨如何利用多线程编程、锁机制优化以及数据预分配等高级技术手段，有效避免数据冲突，提高并发处理能力，实现性能的质的飞跃的专业解决](https://blog.csdn.net/qq_67578580/article/details/143895628)
+
++ [【AI】DeepSeek 概念/影响/使用/部署](https://blog.csdn.net/ggqiuhui/article/details/145398558)
+
++ [deepseek本地部署+web图形化页面配置+对比其他ai模型](https://blog.csdn.net/2202_75361164/article/details/145405622)
+
++ [遗传算法与深度学习实战（33）——WGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/145407465)
+
++ [本地Apache Hive的Linux服务器集群复制数据到SQL Server数据库的分步流程](https://blog.csdn.net/weixin_30777913/article/details/145398131)
+
++ [Node.js——body-parser、防盗链、路由模块化、express-generator应用生成器](https://blog.csdn.net/qq_45902692/article/details/145312855)
+
++ [线性回归简介：从理论到应用](https://blog.csdn.net/qqqqqwerttwtwe/article/details/145405996)
+
