@@ -205,3 +205,7 @@
 
 + [墨西哥总统：反对将移民视作罪犯](https://news.cctv.com/2025/02/01/ARTIpDQNMx4ldmU0Zb8hqxil250201.shtml)
 
++ [墨西哥官员：美对墨加征关税将由美国消费者埋单](https://news.cctv.com/2025/02/01/ARTIgdE3oFTe0X0d0JQjc3wI250201.shtml)
+
++ [韩媒：韩国上万名民众雨中集会，要求释放被拘留总统尹锡悦](https://news.cctv.com/2025/02/01/ARTIL3HUsncwyR7M9l3Mp0UU250201.shtml)
+

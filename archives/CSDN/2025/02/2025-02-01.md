@@ -209,3 +209,5 @@
 
 + [DeepSeek-R1 论文解读 —— 强化学习大语言模型新时代来临？](https://blog.csdn.net/xidianjiapei001/article/details/145405442)
 
++ [【精选】基于大数据技术的电影票房分析系统设计（Python、Hadoop、Spark、Hive）票房数据挖掘与预测分析 大数据处理、票房趋势分析与报告生成 数据分析、票房预测与电影行业趋势](https://blog.csdn.net/m0_64148096/article/details/145413160)
+
