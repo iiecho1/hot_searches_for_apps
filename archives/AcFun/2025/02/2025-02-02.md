@@ -71,3 +71,5 @@
 
 + [前女友回来了！GFRIEND - Season of Memories 特别舞蹈版](https://m.acfun.cn/v/%3Fac%3D46828503)
 
++ [【颜音MMD】吉祥话 —— 祝你恭喜发财、日进斗金、一帆风顺！](https://m.acfun.cn/v/%3Fac%3D46830647)
+

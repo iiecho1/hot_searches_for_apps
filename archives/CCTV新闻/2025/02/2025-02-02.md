@@ -163,3 +163,9 @@
 
 + [特朗普称委内瑞拉已同意接收在美非法移民](https://news.cctv.com/2025/02/02/ARTI2SUTQTYvd0OwLUbQHhnu250202.shtml)
 
++ [特朗普下令对极端组织“伊斯兰国”成员进行空袭](https://news.cctv.com/2025/02/02/ARTI0ZgTUfI4t4LuAlAQ5Z2B250202.shtml)
+
++ [墨西哥总统确认美国费城坠机事故中6名遇难者为墨公民](https://news.cctv.com/2025/02/02/ARTIIVKTqbswD6uqfCnkhcf6250202.shtml)
+
++ [马斯克在2024年美国大选中花费超过2.9亿美元](https://news.cctv.com/2025/02/02/ARTIJ6Hqqdzy2nRXg1YenbWe250202.shtml)
+
