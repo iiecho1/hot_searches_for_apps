@@ -155,3 +155,21 @@
 
 + [Manticore Search，新一代搜索引擎之王](https://blog.csdn.net/qq_30333063/article/details/145400892)
 
++ [跨模态学习的挑战与进展-多模态AI系统的技术实现与应用分析](https://blog.csdn.net/weixin_52908342/article/details/145409354)
+
++ [SpringBoot Web开发（SpringMVC)](https://blog.csdn.net/qq_50249256/article/details/145401049)
+
++ [Windows系统中Docker可视化工具对比分析，Docker Desktop，Portainer，Rancher](https://blog.csdn.net/qq_41929714/article/details/145406460)
+
++ [.NET 8 API 密钥身份验证全揭秘：3步轻松搞定，你还在等什么？](https://blog.csdn.net/z_344791576/article/details/144646505)
+
++ [K8S ReplicaSet 控制器](https://blog.csdn.net/matrixlzp/article/details/145340940)
+
++ [unity学习23：场景scene相关，场景信息，场景跳转](https://blog.csdn.net/xuemanqianshan/article/details/145391792)
+
++ [【Elasticsearch】 Compound Queries](https://blog.csdn.net/risc123456/article/details/145400139)
+
++ [.NET MAUI布局技巧：灵活使用Grid布局](https://blog.csdn.net/m0_62153576/article/details/145409650)
+
++ [本地部署 DeepSeekR1 模型并集成至 IDE ](https://blog.csdn.net/qq_50706484/article/details/145404842)
+
