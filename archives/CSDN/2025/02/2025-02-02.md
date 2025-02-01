@@ -133,3 +133,5 @@
 
 + [变分法实例详解：从最速降线到一般泛函的Mathematica验证](https://blog.csdn.net/lld666/article/details/145407270)
 
++ [高效快速教你deepseek如何进行本地部署并且可视化对话](https://blog.csdn.net/2301_80863610/article/details/145404715)
+
