@@ -211,3 +211,7 @@
 
 + [【精选】基于大数据技术的电影票房分析系统设计（Python、Hadoop、Spark、Hive）票房数据挖掘与预测分析 大数据处理、票房趋势分析与报告生成 数据分析、票房预测与电影行业趋势](https://blog.csdn.net/m0_64148096/article/details/145413160)
 
++ [MySQL数据库（二）- SQL](https://blog.csdn.net/2302_79847831/article/details/145401515)
+
++ [数据分析案例-健身房会员锻炼数据集可视化分析](https://blog.csdn.net/m0_64336780/article/details/145161625)
+
