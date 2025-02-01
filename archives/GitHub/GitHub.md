@@ -33,3 +33,21 @@
 
 + [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
++ [oumi-ai/oumi](https://github.com/oumi-ai/oumi)
+
++ [github/docs](https://github.com/github/docs)
+
++ [penpot/penpot](https://github.com/penpot/penpot)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [containers/ramalama](https://github.com/containers/ramalama)
+
++ [MystenLabs/sui](https://github.com/MystenLabs/sui)
+
++ [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
++ [documenso/documenso](https://github.com/documenso/documenso)
+
++ [getsentry/sentry](https://github.com/getsentry/sentry)
+

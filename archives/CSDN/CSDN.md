@@ -207,3 +207,5 @@
 
 + [如何使用 Ollama 下载、本地部署和使用 DeepSeek 模型](https://blog.csdn.net/qq_50182135/article/details/145398965)
 
++ [DeepSeek-R1 论文解读 —— 强化学习大语言模型新时代来临？](https://blog.csdn.net/xidianjiapei001/article/details/145405442)
+
