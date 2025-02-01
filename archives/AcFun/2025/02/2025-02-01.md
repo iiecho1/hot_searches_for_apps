@@ -147,3 +147,9 @@
 
 + [【实况解说】让DeepSeek解考研高数真题，能得几分？跟AI学解题思维！|26考研](https://m.acfun.cn/v/%3Fac%3D46828874)
 
++ [祝大家蛇年发大财](https://m.acfun.cn/v/%3Fac%3D46829858)
+
++ [【A站独家】你好，冲 Q 币吗？](https://m.acfun.cn/v/%3Fac%3D46808227)
+
++ [写得出最刻薄的滋味～ 九万字DJ](https://m.acfun.cn/v/%3Fac%3D46829576)
+

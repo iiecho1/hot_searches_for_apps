@@ -215,3 +215,15 @@
 
 + [数据分析案例-健身房会员锻炼数据集可视化分析](https://blog.csdn.net/m0_64336780/article/details/145161625)
 
++ [MacOS本地部署Deepseek，不联网也可以使用AI，保护隐私](https://blog.csdn.net/weixin_44336445/article/details/145400324)
+
++ [关于系统重构实践的一些思考与总结](https://blog.csdn.net/qq_46101869/article/details/145413510)
+
++ [DeepSeek本地部署详细指南](https://blog.csdn.net/m0_56896669/article/details/145413005)
+
++ [Windows本地部署DeepSeek-R1（可使用GPU加速）【Ollama+AnythingLLM】](https://blog.csdn.net/zbgjhy88/article/details/145401176)
+
++ [DeepSeek大模型技术深度解析：揭开Transformer架构的神秘面纱](https://blog.csdn.net/Xs_20240309/article/details/145407626)
+
++ [Mysql的主从复制及扩展功能](https://blog.csdn.net/2201_75920541/article/details/145407804)
+
