@@ -39,3 +39,7 @@
 
 + [MasterCard 官网活动数据库疑似被脱，请参加过去年 Master 港卡返现活动的及时锁卡报失](https://www.v2ex.com/t/1108520)
 
++ [小米电动牙刷你们用哪个？](https://www.v2ex.com/t/1108479)
+
++ [哪吒 2 要冲击中国影史票房？](https://www.v2ex.com/t/1108516)
+
