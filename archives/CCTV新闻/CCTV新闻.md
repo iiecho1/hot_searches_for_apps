@@ -179,3 +179,15 @@
 
 + [我驻乌干达使馆提醒在乌中国公民：注意防范埃博拉疫情](https://news.cctv.com/2025/02/01/ARTI3cwx8OiQ8FBu33l12FhJ250201.shtml)
 
++ [美国确认将古巴重新列入“支恐名单”](https://news.cctv.com/2025/02/01/ARTINZscUFPIcwogclP6Q9kl250201.shtml)
+
++ [美国总统特别任务特使带6名羁押在委内瑞拉的美公民返美](https://news.cctv.com/2025/02/01/ARTIXEBSgrkAnsNel1UEP75J250201.shtml)
+
++ [美国联邦航空管理局：费城坠毁飞机上搭载6人](https://news.cctv.com/2025/02/01/ARTIGGDSPUT2qNuJGBfOmQyB250201.shtml)
+
++ [美国临时检察官解雇约30名处理“国会山骚乱”案的检察官](https://news.cctv.com/2025/02/01/ARTINHDECtQVNAyIxkTGkvO5250201.shtml)
+
++ [美国白宫副幕僚长：大量联邦雇员已接受“买断计划”](https://news.cctv.com/2025/02/01/ARTIsLr23huYpvZaS0T70111250201.shtml)
+
++ [美国联邦政府大多数网站将暂停运行](https://news.cctv.com/2025/02/01/ARTIjjXvGzcusfQM3phmfBCY250201.shtml)
+

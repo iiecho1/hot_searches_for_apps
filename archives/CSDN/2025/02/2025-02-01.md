@@ -177,3 +177,5 @@
 
 + [【AI编程助手系列】国产AI编程工具 DeepSeek+Cline+VSCode 快速集成](https://blog.csdn.net/mss359681091/article/details/145404392)
 
++ [【协议详解】卫星通信5G IoT NTN SIB33-NB 信令详解](https://blog.csdn.net/u011376987/article/details/145408041)
+
