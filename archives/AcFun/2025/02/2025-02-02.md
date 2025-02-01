@@ -61,3 +61,7 @@
 
 + [【绝望女神/春节八天乐翻唱】【Cat Loving】](https://m.acfun.cn/v/%3Fac%3D46829685)
 
++ [Thumbs Up](https://m.acfun.cn/v/%3Fac%3D46829509)
+
++ [征兵宣传片丨燃！火热军营 期待你的加入！](https://m.acfun.cn/v/%3Fac%3D46830214)
+

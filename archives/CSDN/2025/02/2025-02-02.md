@@ -101,3 +101,7 @@
 
 + [Manticore Search，新一代搜索引擎之王](https://blog.csdn.net/qq_30333063/article/details/145400892)
 
++ [DeepSeek大模型技术深度解析：揭开Transformer架构的神秘面纱](https://blog.csdn.net/Xs_20240309/article/details/145407626)
+
++ [WSL2+docker+ollama+deepseek(使用GPU)](https://blog.csdn.net/qq_35531180/article/details/145408059)
+

@@ -161,3 +161,5 @@
 
 + [美官员：两机相撞事故恐无人生还](https://news.cctv.com/2025/01/30/ARTIIalRHIybFnhN0VqmBmhi250130.shtml)
 
++ [特朗普称委内瑞拉已同意接收在美非法移民](https://news.cctv.com/2025/02/02/ARTI2SUTQTYvd0OwLUbQHhnu250202.shtml)
+
