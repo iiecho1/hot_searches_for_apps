@@ -195,3 +195,9 @@
 
 + [我驻克赖斯特彻奇总领馆再次提醒：来新自驾游客注意交通安全](https://news.cctv.com/2025/02/01/ARTIBvVifTq3e89CAnjG5QLF250201.shtml)
 
++ [美国费城坠毁飞机上6人来自墨西哥　“无法确认有幸存者”](https://news.cctv.com/2025/02/01/ARTIjoDa71fT7nkQMwamnAxG250201.shtml)
+
++ [特朗普：将于下周在白宫会见日本首相石破茂](https://news.cctv.com/2025/02/01/ARTIgBIxmqBRHdy4NXTJB3ic250201.shtml)
+
++ [第四批以被扣押人员移交工作开始 两人已获释](https://news.cctv.com/2025/02/01/ARTIKKy1l0WtHdtWYUZKh9k5250201.shtml)
+
