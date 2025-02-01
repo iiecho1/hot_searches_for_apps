@@ -25,3 +25,27 @@
 
 + [2025 春节档首部 10 亿电影诞生，《哪吒之魔童闹海》总票房突破 11 亿](https://m.ithome.com/html/827665.htm)
 
++ [消息称小米 15 Ultra 搭骁龙 8 至尊版、配 2 亿像素长焦、支持 90W 快充](https://m.ithome.com/html/828120.htm)
+
++ [DeepSeek-R1 模型全面上线亚马逊云科技](https://m.ithome.com/html/828084.htm)
+
++ [郭明錤：DeepSeek 加速生成式 AI 产业迈入新阶段](https://m.ithome.com/html/828088.htm)
+
++ [消息称长江存储开始出货第五代 3D TLC NAND 闪存，总层数达 294 层](https://m.ithome.com/html/828119.htm)
+
++ [宁德时代联席董事长潘健：中国电动汽车正从“EV”转变为“EIV”](https://m.ithome.com/html/828101.htm)
+
++ [消息称苹果接近敲定折叠显示屏供应商，技术要求“非常严格”](https://m.ithome.com/html/828153.htm)
+
++ [英特尔酷睿 Ultra 支持 DeepSeek 运行，可在 AI PC 上实现离线使用](https://m.ithome.com/html/828155.htm)
+
++ [2025 年 1 月小米 SU7 交付量再超 2 万台，全年交付目标 30 万台](https://m.ithome.com/html/828136.htm)
+
++ [杨奇谈《黑神话：悟空》无小地图：这就是设计的一个出发点](https://m.ithome.com/html/828166.htm)
+
++ [《哪吒》制作人回应拍第三部：希望这个故事能够继续走下去，但也涉及很多客观因素](https://m.ithome.com/html/828132.htm)
+
++ [OpenAI 小钢炮 o3-mini 推理模型登场：性能提升 24%，首次向免费 ChatGPT AI 用户开放](https://m.ithome.com/html/828144.htm)
+
++ [唐探系列电影总票房破百亿，中国影史首个获此成就系列电影](https://m.ithome.com/html/827665.htm)
+

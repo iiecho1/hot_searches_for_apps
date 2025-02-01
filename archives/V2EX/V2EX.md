@@ -33,3 +33,5 @@
 
 + [这个年真难啊，被催婚“成功”把父母、亲戚朋友都得罪一边](https://www.v2ex.com/t/1108502)
 
++ [openai 上线了 o3-mini](https://www.v2ex.com/t/1108468)
+
