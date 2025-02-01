@@ -129,3 +129,7 @@
 
 + [网络安全实战指南：攻防技术与防御策略](https://blog.csdn.net/qq_20245171/article/details/145405603)
 
++ [【蓝桥杯】43697.机器人塔](https://blog.csdn.net/qq_27381427/article/details/145386645)
+
++ [变分法实例详解：从最速降线到一般泛函的Mathematica验证](https://blog.csdn.net/lld666/article/details/145407270)
+
