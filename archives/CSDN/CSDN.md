@@ -201,3 +201,9 @@
 
 + [springboot基于微信小程序的问卷调查系统的设计与实现_3oan8584](https://blog.csdn.net/qq_1406299528/article/details/145408506)
 
++ [国产之光DeepSeek架构理解与应用分析](https://blog.csdn.net/yuange1666/article/details/145408027)
+
++ [Spring Boot项目如何使用MyBatis实现分页查询及其相关原理](https://blog.csdn.net/qq_41575507/article/details/145399452)
+
++ [如何使用 Ollama 下载、本地部署和使用 DeepSeek 模型](https://blog.csdn.net/qq_50182135/article/details/145398965)
+

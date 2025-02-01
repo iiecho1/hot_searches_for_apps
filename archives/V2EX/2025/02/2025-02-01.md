@@ -35,3 +35,5 @@
 
 + [openai 上线了 o3-mini](https://www.v2ex.com/t/1108468)
 
++ [腾讯云的 nodejs sdk 安装后 85M](https://www.v2ex.com/t/1108471)
+
