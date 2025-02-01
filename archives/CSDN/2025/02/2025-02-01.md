@@ -173,3 +173,7 @@
 
 + [本地部署 DeepSeekR1 模型并集成至 IDE ](https://blog.csdn.net/qq_50706484/article/details/145404842)
 
++ [当WebGIS遇到智慧文旅-以长沙市不绕路旅游攻略为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/145405951)
+
++ [【AI编程助手系列】国产AI编程工具 DeepSeek+Cline+VSCode 快速集成](https://blog.csdn.net/mss359681091/article/details/145404392)
+
