@@ -173,3 +173,9 @@
 
 + [俄罗斯延长汽油出口临时禁令](https://news.cctv.com/2025/02/01/ARTILht6INqLukDvmsGVZMuk250201.shtml)
 
++ [日本首相石破茂：不欢迎美国退出世卫组织](https://news.cctv.com/2025/02/01/ARTIkd3HcPPZuZKwXc70OQrt250201.shtml)
+
++ [美国费城坠毁飞机为医疗用途 特朗普：已获悉事故](https://news.cctv.com/2025/02/01/ARTIHM6E6CK49bWl1fMVmZAz250201.shtml)
+
++ [我驻乌干达使馆提醒在乌中国公民：注意防范埃博拉疫情](https://news.cctv.com/2025/02/01/ARTI3cwx8OiQ8FBu33l12FhJ250201.shtml)
+
