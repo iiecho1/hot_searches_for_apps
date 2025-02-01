@@ -105,3 +105,27 @@
 
 + [WSL2+docker+ollama+deepseek(使用GPU)](https://blog.csdn.net/qq_35531180/article/details/145408059)
 
++ [遗传算法与深度学习实战（33）——WGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/145407465)
+
++ [哪些特征导致过拟合？使用ParShap 方法精准定位导致模型泛化能力下降的关键特征](https://blog.csdn.net/m0_46510245/article/details/145410688)
+
++ [MySQL--》日志与主从复制的实战技巧](https://blog.csdn.net/qq_53123067/article/details/145414335)
+
++ [亚博microros小车-原生ubuntu支持系列：18 Cartographer建图](https://blog.csdn.net/bohu83/article/details/145406700)
+
++ [Spring Boot项目如何使用MyBatis实现分页查询](https://blog.csdn.net/qq_41575507/article/details/145399452)
+
++ [【协议详解】卫星通信5G IoT NTN SIB32-NB 信令详解](https://blog.csdn.net/u011376987/article/details/145407414)
+
++ [首个DeepSeek-R1开源复现：Open-R1正式亮相](https://blog.csdn.net/m0_65555479/article/details/145404397)
+
++ [Maven的单元测试](https://blog.csdn.net/2302_79993788/article/details/145393891)
+
++ [SpringCloud系列教程：微服务的未来（十九）请求限流、线程隔离、Fallback、服务熔断](https://blog.csdn.net/m0_63267251/article/details/145388321)
+
++ [FFmpeg rtmp推流直播](https://blog.csdn.net/yerennuo/article/details/145386989)
+
++ [本地部署 DeepSeek](https://blog.csdn.net/hutao11111111111/article/details/145398955)
+
++ [网络安全实战指南：攻防技术与防御策略](https://blog.csdn.net/qq_20245171/article/details/145405603)
+
