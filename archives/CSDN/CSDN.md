@@ -179,3 +179,7 @@
 
 + [openmv的端口被拆分为两个 导致电脑无法访问openmv文件系统解决办法 openmv USB功能改动 openmv驱动被更改如何修复](https://blog.csdn.net/2301_80317247/article/details/145413303)
 
++ [一文速览DeepSeekMoE：从Mixtral 8x7B到DeepSeekMoE(含DeepSeek LLM的简介)](https://blog.csdn.net/v_JULY_v/article/details/145406756)
+
++ [Kafka 压缩算法详细介绍](https://blog.csdn.net/2401_83413238/article/details/145401330)
+
