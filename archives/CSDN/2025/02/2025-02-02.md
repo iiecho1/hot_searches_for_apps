@@ -159,3 +159,9 @@
 
 + [Linux网络 | 理解运营商与网段划分、理解NAT技术和分片](https://blog.csdn.net/strive_mianyang/article/details/145415240)
 
++ [Flink Forward Asia 2024 - 总结和展望（附PPT下载链接）](https://blog.csdn.net/2501_90404020/article/details/145405394)
+
++ [8.攻防世界Web_php_wrong_nginx_config](https://blog.csdn.net/2401_86760082/article/details/145415976)
+
++ [嵌入式硬件篇---CPU&GPU&TPU](https://blog.csdn.net/2301_79556402/article/details/145414002)
+

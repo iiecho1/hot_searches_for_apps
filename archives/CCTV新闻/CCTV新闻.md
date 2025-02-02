@@ -185,3 +185,7 @@
 
 + [加拿大总理特鲁多：将对价值1550亿加元美国产品征收25%关税](https://news.cctv.com/2025/02/02/ARTIMd4IG0S4sn8YhOYk4yAY250202.shtml)
 
++ [比利时主要党派就组建新政府达成协议](https://news.cctv.com/2025/02/02/ARTIoPodjPQ1qmOjyDnM1gSC250202.shtml)
+
++ [强降雨引发洪水致1人死亡 澳大利亚昆士兰州发布疏散令](https://news.cctv.com/2025/02/02/ARTIVjyy0hoa6gMM0Io7XObv250202.shtml)
+
