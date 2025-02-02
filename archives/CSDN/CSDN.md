@@ -153,3 +153,5 @@
 
 + [ollama本地部署一些问题和收集gpu占用率为0解决方案](https://blog.csdn.net/maya_st/article/details/145402287)
 
++ [【论文阅读】QLoRA：Efficient Finetuning of Quantized LLMs](https://blog.csdn.net/weixin_45932862/article/details/145413635)
+
