@@ -221,3 +221,11 @@
 
 + [第15届全球海外华文书店中国图书春节联展活动举办](https://news.cctv.com/2025/02/02/ARTID4lX3sHukb1fOv76SwsD250202.shtml)
 
++ [泽连斯基称乌克兰比任何时候都接近和平](https://news.cctv.com/2025/02/02/ARTILuT6odKgIIii4Ir2VzlA250202.shtml)
+
++ [伊朗再度公布一处地下导弹设施](https://news.cctv.com/2025/02/02/ARTIHFbOvk45xSv1blr4uUkL250202.shtml)
+
++ [“背叛”“激怒”“恶性循环” 加拿大各界反对美国加征关税](https://news.cctv.com/2025/02/02/ARTIGP3FnTge8nyFNwOd5ncm250202.shtml)
+
++ [墨西哥各界人士批评美加征关税：终将导致“两败俱伤”](https://news.cctv.com/2025/02/02/ARTI5KjPGvpKf9ChoYTNrFDi250202.shtml)
+
