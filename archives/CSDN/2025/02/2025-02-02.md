@@ -183,3 +183,7 @@
 
 + [Kafka 压缩算法详细介绍](https://blog.csdn.net/2401_83413238/article/details/145401330)
 
++ [2025年1月22日（网络编程 udp）](https://blog.csdn.net/weixin_50198505/article/details/145309345)
+
++ [DeepSeek R1本地化部署 Ollama + Chatbox 打造最强 AI 工具](https://blog.csdn.net/weixin_50776420/article/details/145417809)
+

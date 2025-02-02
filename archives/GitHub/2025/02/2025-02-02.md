@@ -35,3 +35,23 @@
 
 + [getsentry/sentry](https://github.com/getsentry/sentry)
 
++ [2dust/v2rayN](https://github.com/2dust/v2rayN)
+
++ [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+
++ [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt)
+
++ [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+
++ [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [volcengine/verl](https://github.com/volcengine/verl)
+
++ [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
++ [HITsz-TMG/FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
+

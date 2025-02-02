@@ -209,3 +209,9 @@
 
 + [感受春节魅力 开展友好交往](https://news.cctv.com/2025/02/02/ARTIi9ww4Dz5yXwlomUuXuWb250202.shtml)
 
++ [春节，在科威特沙漠中忙碌的中国建设者](https://news.cctv.com/2025/02/02/ARTIitPWCLVpdIn3w5y8aibp250202.shtml)
+
++ [说走就走“中国游”](https://news.cctv.com/2025/02/02/ARTIaghfQto4Ad5LRZvBczzc250202.shtml)
+
++ [潮阳英歌德国上演 舞出浓浓中国年味](https://news.cctv.com/2025/02/02/ARTIo27wkc2wMo4qXRyhbSU7250202.shtml)
+
