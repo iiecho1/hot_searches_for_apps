@@ -163,3 +163,9 @@
 
 + [叙利亚过渡总统抵沙特开启首访](https://news.cctv.com/2025/02/03/ARTIXPh0AMHZiZW4FZCy6tEI250203.shtml)
 
++ [欧盟对美国向加拿大、墨西哥和中国加征关税表示遗憾](https://news.cctv.com/2025/02/03/ARTIHybaPJts50KmdzU7G6Nd250203.shtml)
+
++ [约旦和斯洛文尼亚呼吁巩固加沙地带停火成果](https://news.cctv.com/2025/02/03/ARTIj7CFEXwhN8Ky51VFrCOJ250203.shtml)
+
++ [巴勒斯坦总统呼吁安理会就以色列侵略行为召开紧急会议](https://news.cctv.com/2025/02/03/ARTIVuOcmWbV8wdtLKGYN1B1250203.shtml)
+

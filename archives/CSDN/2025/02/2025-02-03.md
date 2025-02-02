@@ -155,3 +155,7 @@
 
 + [【论文阅读】QLoRA：Efficient Finetuning of Quantized LLMs](https://blog.csdn.net/weixin_45932862/article/details/145413635)
 
++ [Kafka SASL/PLAIN介绍](https://blog.csdn.net/2401_83413238/article/details/145414890)
+
++ [变分法实例详解：从最速降线到一般泛函的Mathematica验证](https://blog.csdn.net/lld666/article/details/145407270)
+
