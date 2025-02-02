@@ -197,3 +197,7 @@
 
 + [突发！美国空中任务通知系统出现故障 备用系统启用](https://news.cctv.com/2025/02/02/ARTIqlDqHPbV9nGowttDU2ZF250202.shtml)
 
++ [节日蛋糕、狗狗薯片……日本多家企业推出高档宠物用品](https://news.cctv.com/2025/02/02/ARTIsKe0a9rwy42f7sdztVRE250202.shtml)
+
++ [伊朗展示地下“导弹城” 试射反舰巡航导弹：能打击美舰艇](https://news.cctv.com/2025/02/02/ARTI8HPjRLh8mcJBUe9Duj4K250202.shtml)
+
