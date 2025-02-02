@@ -101,3 +101,11 @@
 
 + [【LLM-agent】(task2)用llama-index搭建AI Agent](https://blog.csdn.net/qq_35812205/article/details/145077834)
 
++ [国产之光DeepSeek架构理解与应用分析](https://blog.csdn.net/yuange1666/article/details/145408027)
+
++ [从零开始学习 JavaScript 网页设计：一份详尽指南](https://blog.csdn.net/m0_61531676/article/details/145415251)
+
++ [8.攻防世界Web_php_wrong_nginx_config](https://blog.csdn.net/2401_86760082/article/details/145415976)
+
++ [基于YOLOv5的遥感目标识别与GUI界面](https://blog.csdn.net/a2744739916/article/details/145418472)
+
