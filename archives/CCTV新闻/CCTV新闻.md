@@ -169,3 +169,7 @@
 
 + [马斯克在2024年美国大选中花费超过2.9亿美元](https://news.cctv.com/2025/02/02/ARTIJ6Hqqdzy2nRXg1YenbWe250202.shtml)
 
++ [美宣布对中国商品加征10%关税](https://news.cctv.com/2025/02/02/ARTIIxptFOzo1FiI9HL1QdkS250202.shtml)
+
++ [美国宣布对加拿大和墨西哥征收25%的关税](https://news.cctv.com/2025/02/02/ARTIX2svtLs6Fc2emHtRJUNJ250202.shtml)
+
