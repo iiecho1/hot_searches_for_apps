@@ -215,3 +215,9 @@
 
 + [潮阳英歌德国上演 舞出浓浓中国年味](https://news.cctv.com/2025/02/02/ARTIo27wkc2wMo4qXRyhbSU7250202.shtml)
 
++ [全球多地举办活动庆祝新春佳节](https://news.cctv.com/2025/02/02/ARTIhnbwweTS05YQw98xnDWV250202.shtml)
+
++ [我驻外使馆举办丰富活动欢庆蛇年春节](https://news.cctv.com/2025/02/02/ARTIq7TqI8X1QJyK2c20GR5l250202.shtml)
+
++ [第15届全球海外华文书店中国图书春节联展活动举办](https://news.cctv.com/2025/02/02/ARTID4lX3sHukb1fOv76SwsD250202.shtml)
+

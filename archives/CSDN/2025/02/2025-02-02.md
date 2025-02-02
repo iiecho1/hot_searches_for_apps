@@ -191,3 +191,5 @@
 
 + [【产品经理修炼之道】-美国支付清算体系介绍](https://blog.csdn.net/xiaoli8748/article/details/145417795)
 
++ [基于YOLOv5的遥感目标识别与GUI界面](https://blog.csdn.net/a2744739916/article/details/145418472)
+
