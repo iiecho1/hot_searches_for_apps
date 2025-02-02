@@ -193,3 +193,5 @@
 
 + [基于YOLOv5的遥感目标识别与GUI界面](https://blog.csdn.net/a2744739916/article/details/145418472)
 
++ [论文阅读(八)：结构方程模型用于研究数量遗传学中的因果表型网络](https://blog.csdn.net/qq_64411728/article/details/145400434)
+
