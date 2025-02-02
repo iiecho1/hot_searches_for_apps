@@ -109,3 +109,31 @@
 
 + [基于YOLOv5的遥感目标识别与GUI界面](https://blog.csdn.net/a2744739916/article/details/145418472)
 
++ [Qt事件处理：理解处理器、过滤器与事件系统](https://blog.csdn.net/taduanlangan/article/details/145405536)
+
++ [【SLAM】基于扩展卡尔曼滤波器实现多站机器人状态估计附Matlab实现](https://blog.csdn.net/qq_59747472/article/details/145423398)
+
++ [matlab gui如何修改并保存cell中的文件信息？](https://blog.csdn.net/weixin_43970743/article/details/145083749)
+
++ [Kafka中文文档](https://blog.csdn.net/qq273766764/article/details/145411946)
+
++ [【数学建模】基于时间序列预测的蔬菜类商品自动定价与补货决策Matlab代码和论文](https://blog.csdn.net/j_jinger/article/details/145423521)
+
++ [android Camera 的进化](https://blog.csdn.net/wulong756273/article/details/145406248)
+
++ [Excel中漏斗图的制作方法讨论](https://blog.csdn.net/Arkca/article/details/145422963)
+
++ [网络安全实战指南：攻防技术与防御策略](https://blog.csdn.net/qq_20245171/article/details/145405603)
+
++ [从DeepSeek遇袭看DDoS攻防：网络黑幕与守护策略全解析](https://blog.csdn.net/abcdeWA/article/details/145420196)
+
++ [美赛数学建模-MCM/ICM成长历程](https://blog.csdn.net/2301_79619694/article/details/145423160)
+
++ [K8s 中 Ingress-Nginx 结合负载均衡器（Ingress nginx combined with load balancer）](https://blog.csdn.net/J56793/article/details/144936737)
+
++ [群晖搭建Gitea教程（使用系统自带的postgresql）](https://blog.csdn.net/qq_26816417/article/details/145411649)
+
++ [K8S ReplicaSet 控制器](https://blog.csdn.net/matrixlzp/article/details/145340940)
+
++ [关于系统重构实践的一些思考与总结](https://blog.csdn.net/qq_46101869/article/details/145413510)
+
