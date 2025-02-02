@@ -145,3 +145,11 @@
 
 + [办公新利器：DeepSeek+Word，让你的工作更高效](https://blog.csdn.net/qq_63708623/article/details/145418457)
 
++ [数据分析案例-健身房会员锻炼数据集可视化分析](https://blog.csdn.net/m0_64336780/article/details/145161625)
+
++ [TypeScript语言的物联网](https://blog.csdn.net/2501_90443862/article/details/145424368)
+
++ [Swift语言的数据可视化](https://blog.csdn.net/2501_90383613/article/details/145424557)
+
++ [ollama本地部署一些问题和收集gpu占用率为0解决方案](https://blog.csdn.net/maya_st/article/details/145402287)
+
