@@ -137,3 +137,11 @@
 
 + [关于系统重构实践的一些思考与总结](https://blog.csdn.net/qq_46101869/article/details/145413510)
 
++ [说说Redis的内存淘汰策略?](https://blog.csdn.net/caoli201314/article/details/145411257)
+
++ [【Ollama+Open WebUI】Windows本地部署DeepSeek R1模型：完整指南](https://blog.csdn.net/HovChen/article/details/145422601)
+
++ [记5（一元逻辑回归+线性分类器+多元逻辑回归](https://blog.csdn.net/qq_42888201/article/details/145413701)
+
++ [办公新利器：DeepSeek+Word，让你的工作更高效](https://blog.csdn.net/qq_63708623/article/details/145418457)
+
