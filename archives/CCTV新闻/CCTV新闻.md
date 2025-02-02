@@ -179,3 +179,9 @@
 
 + [尼泊尔加德满都国际机场延长运营时间至16小时](https://news.cctv.com/2025/02/02/ARTIxs1yy2IuvgXSNIhUrtwn250202.shtml)
 
++ [中方将反制！一图透视美国为何此时宣布加征关税](https://news.cctv.com/2025/02/02/ARTIOaBoHM9N3365yIPTEThW250202.shtml)
+
++ [墨加强硬反制！美国关税战遭南北夹击](https://news.cctv.com/2025/02/02/ARTIWnqsR8iQQmWQIvDh0vAi250202.shtml)
+
++ [加拿大总理特鲁多：将对价值1550亿加元美国产品征收25%关税](https://news.cctv.com/2025/02/02/ARTIMd4IG0S4sn8YhOYk4yAY250202.shtml)
+
