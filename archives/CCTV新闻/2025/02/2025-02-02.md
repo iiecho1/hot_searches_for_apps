@@ -189,3 +189,11 @@
 
 + [强降雨引发洪水致1人死亡 澳大利亚昆士兰州发布疏散令](https://news.cctv.com/2025/02/02/ARTIVjyy0hoa6gMM0Io7XObv250202.shtml)
 
++ [北约将在波罗的海巡逻 俄称将采取一切措施保护自身利益](https://news.cctv.com/2025/02/02/ARTIKxG34ARZJRJGnemUR93K250202.shtml)
+
++ [加沙第二阶段停火谈判在即 以总理打算先访美再派人](https://news.cctv.com/2025/02/02/ARTI6MG4RYSnf4R2LYJJ0QZG250202.shtml)
+
++ [日本全日空一客机滑行时机翼与廊桥相撞 无人受伤](https://news.cctv.com/2025/02/02/ARTIWeXnfJkyuwNQdIoY4M0J250202.shtml)
+
++ [突发！美国空中任务通知系统出现故障 备用系统启用](https://news.cctv.com/2025/02/02/ARTIqlDqHPbV9nGowttDU2ZF250202.shtml)
+
