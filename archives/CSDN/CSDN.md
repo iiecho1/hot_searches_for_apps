@@ -187,3 +187,7 @@
 
 + [DeepSeek R1本地化部署 Ollama + Chatbox 打造最强 AI 工具](https://blog.csdn.net/weixin_50776420/article/details/145417809)
 
++ [【论文阅读】VOSA: Verifiable and oblivious secure aggregation for privacy-preserving federated learning](https://blog.csdn.net/wzx_442011334/article/details/145414952)
+
++ [【产品经理修炼之道】-美国支付清算体系介绍](https://blog.csdn.net/xiaoli8748/article/details/145417795)
+
