@@ -173,3 +173,7 @@
 
 + [美国宣布对加拿大和墨西哥征收25%的关税](https://news.cctv.com/2025/02/02/ARTIX2svtLs6Fc2emHtRJUNJ250202.shtml)
 
++ [韩国一博物馆发生严重火灾 近9万件文物将被转移](https://news.cctv.com/2025/02/02/ARTIsQOerAGL87GJPCg3CzEc250202.shtml)
+
++ [最新回应 墨西哥总统宣布将对美国加征关税](https://news.cctv.com/2025/02/02/ARTIZg4YLeI9UJRCElIWUtCL250202.shtml)
+

@@ -145,3 +145,7 @@
 
 + [云原生后端架构与实践：从微服务到Serverless](https://blog.csdn.net/qq_20245171/article/details/145410954)
 
++ [使用真实 Elasticsearch 进行高级集成测试](https://blog.csdn.net/UbuntuTouch/article/details/145410304)
+
++ [.NET 8/9 控制器 vs 最小API：2选1，谁更适合你的项目？](https://blog.csdn.net/z_344791576/article/details/144645555)
+
