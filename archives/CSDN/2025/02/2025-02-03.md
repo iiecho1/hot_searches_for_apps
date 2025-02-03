@@ -211,3 +211,7 @@
 
 + [我问了DeepSeek和ChatGPT关于vue中包含几种watch的问题，它们是这么回答的……](https://blog.csdn.net/weixin_44019370/article/details/145421753)
 
++ [【动态规划篇】正则表达式与通配符：开启代码匹配的赛博奇幻之旅](https://blog.csdn.net/2401_82648291/article/details/145411069)
+
++ [DeepSeek-R1模型1.5b、7b、8b、14b、32b、70b和671b有啥区别？](https://blog.csdn.net/facaixxx2024/article/details/145423598)
+
