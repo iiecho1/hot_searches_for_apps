@@ -205,3 +205,9 @@
 
 + [冯·诺依曼体系结构](https://blog.csdn.net/m0_73634434/article/details/145399366)
 
++ [DeepSeek横空出世，AI格局或将改写？](https://blog.csdn.net/2302_78391795/article/details/145406394)
+
++ [一文速览DeepSeek-R1的本地部署：含671B满血版和各个蒸馏版(基于Ollama和vLLM，可联网搜索)](https://blog.csdn.net/v_JULY_v/article/details/145429696)
+
++ [我问了DeepSeek和ChatGPT关于vue中包含几种watch的问题，它们是这么回答的……](https://blog.csdn.net/weixin_44019370/article/details/145421753)
+

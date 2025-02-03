@@ -235,3 +235,9 @@
 
 + [泽连斯基否认获得美国2000亿美元援助：实际只有760亿](https://news.cctv.com/2025/02/03/ARTIP4DQeDs6dE7P3juefawU250203.shtml)
 
++ [世界多地同庆魅力中国年](https://news.cctv.com/2025/02/03/ARTIdbfGuWVHM8T2iTPOM1Lo250203.shtml)
+
++ [我驻外使馆举办活动共庆蛇年新春](https://news.cctv.com/2025/02/03/ARTItAyWGt8PnPkTDxTYjOEo250203.shtml)
+
++ [日本樱岛火山发生“爆炸性喷发” 烟柱高达800米](https://news.cctv.com/2025/02/03/ARTImzXYctg95zir199ssVQG250203.shtml)
+
