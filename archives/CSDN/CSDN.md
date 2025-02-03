@@ -141,3 +141,7 @@
 
 + [6 Flink 状态管理](https://blog.csdn.net/qq_45972323/article/details/145413400)
 
++ [AWS EMR使用Apache Kylin快速分析大数据](https://blog.csdn.net/weixin_30777913/article/details/144506497)
+
++ [利用腾讯云cloud studio云端免费部署deepseek-R1](https://blog.csdn.net/wzx_442011334/article/details/145419346)
+

@@ -161,3 +161,13 @@
 
 + [马斯克在2024年美国大选中花费超过2.9亿美元](https://news.cctv.com/2025/02/02/ARTIJ6Hqqdzy2nRXg1YenbWe250202.shtml)
 
++ [刚果（金）反政府武装单方面宣布从2月4日起停火](https://news.cctv.com/2025/02/04/ARTI8isYE4eBQYAmXR5cHHVO250204.shtml)
+
++ [美国民调：大多数美国人反对实施新的加征关税措施](https://news.cctv.com/2025/02/04/ARTIjgY4DR9hdPHOs4j5Ylru250204.shtml)
+
++ [苏丹北达尔富尔州首府遭袭致67名平民死亡](https://news.cctv.com/2025/02/04/ARTIJRSEEOQFRtfkeOBViquh250204.shtml)
+
++ [春之声中国新年音乐会在维也纳金色大厅举行](https://news.cctv.com/2025/02/04/ARTIRc2td8Cxfmq7SBxR5PMQ250204.shtml)
+
++ [特朗普：美墨同意暂缓一个月实施加征关税措施](https://news.cctv.com/2025/02/04/ARTIZfQbIWLlFwwnsdNUBLhN250204.shtml)
+
