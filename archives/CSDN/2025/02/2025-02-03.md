@@ -173,3 +173,5 @@
 
 + [linux本地部署deepseek-R1模型](https://blog.csdn.net/hooksten/article/details/145418824)
 
++ [Nginx助力WebAssembly模块商店性能飞跃，打造极速加载体验](https://blog.csdn.net/2401_88677290/article/details/144793077)
+
