@@ -159,3 +159,9 @@
 
 + [变分法实例详解：从最速降线到一般泛函的Mathematica验证](https://blog.csdn.net/lld666/article/details/145407270)
 
++ [Ruby语言的游戏开发](https://blog.csdn.net/2501_90443675/article/details/145424542)
+
++ [第七篇：数据库备份与恢复](https://blog.csdn.net/martian665/article/details/145326287)
+
++ [Elasticsearch基本使用详解](https://blog.csdn.net/NiNg_1_234/article/details/145410532)
+
