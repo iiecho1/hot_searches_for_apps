@@ -41,3 +41,5 @@
 
 + [吐槽一下 Nest.js 太复杂了](https://www.v2ex.com/t/1108703)
 
++ [春运期间大爷大妈是怎么买到票的？](https://www.v2ex.com/t/1108708)
+

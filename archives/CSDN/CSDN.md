@@ -187,3 +187,7 @@
 
 + [基于UKF-IMM无迹卡尔曼滤波与交互式多模型的轨迹跟踪算法matlab仿真,对比EKF-IMM和UKF](https://blog.csdn.net/soft_algorithm/article/details/145406740)
 
++ [第11章：根据 ShuffleNet V2 迁移学习医学图像分类任务：甲状腺结节检测](https://blog.csdn.net/qq_44886601/article/details/145406287)
+
++ [Python从0到100（八十七）：CNN网络详细介绍及WISDM数据集模型仿真](https://blog.csdn.net/weixin_51390582/article/details/145429423)
+
