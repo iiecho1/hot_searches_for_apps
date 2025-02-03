@@ -65,3 +65,7 @@
 
 + [成年人出来玩不必太成年](https://m.acfun.cn/v/%3Fac%3D46835067)
 
++ [地下城专属BGM！粤语版『ReawakeR』《我独自升级》第二季OP 澤野弘之/LiSA/Felix](https://m.acfun.cn/v/%3Fac%3D46810670)
+
++ [60FPS 物件246 讓鬥志燃燒殆盡的宿舍](https://m.acfun.cn/v/%3Fac%3D46833374)
+

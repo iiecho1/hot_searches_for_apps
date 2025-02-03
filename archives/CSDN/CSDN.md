@@ -107,3 +107,31 @@
 
 + [部署deep seek需要什么样的硬件配置？](https://blog.csdn.net/gl1938/article/details/145410911)
 
++ [基于数据可视化+协同过滤推荐算法的在线课程推荐系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/145433505)
+
++ [图像噪声处理技术：让图像更清晰的艺术](https://blog.csdn.net/m0_74408723/article/details/145422799)
+
++ [深入探讨基于卷积神经网络（CNN）的图像风格转换：技术演进与实现案例](https://blog.csdn.net/m0_68036862/article/details/145433968)
+
++ [全栈开发：使用.NET Core WebAPI构建前后端分离的核心技巧（一）](https://blog.csdn.net/qq_53123067/article/details/145420595)
+
++ [3大绝招：.NET Core gRPC 拦截器如何让你的服务通信更智能？](https://blog.csdn.net/z_344791576/article/details/144644648)
+
++ [【路径规划】基于卡尔曼滤波实现室内机器人滤波跟踪附matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/145434664)
+
++ [kubernetes（二）](https://blog.csdn.net/weixin_42828342/article/details/145408068)
+
++ [数据分析案例-健身房会员锻炼数据集可视化分析](https://blog.csdn.net/m0_64336780/article/details/145161625)
+
++ [超火的DeepSeek使用了大模型蒸馏技术嘛?](https://blog.csdn.net/bestpasu/article/details/145410215)
+
++ [Vue中defineProps的解构和不解构](https://blog.csdn.net/sixpp/article/details/145419027)
+
++ [7个原因解析：DeepSeek如何仅用5%预算就能超越OpenAI？](https://blog.csdn.net/llm_way/article/details/145403704)
+
++ [作为定制小程序开发者，为何要和低价小程序说拜拜。](https://blog.csdn.net/2401_82617164/article/details/145420322)
+
++ [春节过年想玩DeepSeek，确遇服务器连续崩溃，这4招帮你解决。](https://blog.csdn.net/2401_84204413/article/details/145414083)
+
++ [ASP.NET Core Filter](https://blog.csdn.net/Anoxia_li/article/details/145422358)
+
