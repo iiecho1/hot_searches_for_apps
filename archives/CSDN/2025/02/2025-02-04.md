@@ -135,3 +135,7 @@
 
 + [ASP.NET Core Filter](https://blog.csdn.net/Anoxia_li/article/details/145422358)
 
++ [在Mac mini M4上部署DeepSeek R1本地大模型](https://blog.csdn.net/weixin_44626085/article/details/145420525)
+
++ [电子项目设计实例、单模块实例和硬件思考笔记 链接汇总（均实物验证过）](https://blog.csdn.net/2401_83618155/article/details/145428964)
+
