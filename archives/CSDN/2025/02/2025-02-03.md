@@ -181,3 +181,9 @@
 
 + [解锁动态规划的奥秘：从零到精通的创新思维解析（7）](https://blog.csdn.net/effort123_/article/details/145425160)
 
++ [PyTorch生态系统中的连续深度学习：使用Torchdyn实现连续时间神经网络](https://blog.csdn.net/m0_46510245/article/details/145427796)
+
++ [如何使用 DeepSeek 和 Dexscreener 构建免费的 AI 加密交易机器人？](https://blog.csdn.net/m0_73054711/article/details/145411443)
+
++ [基于UKF-IMM无迹卡尔曼滤波与交互式多模型的轨迹跟踪算法matlab仿真,对比EKF-IMM和UKF](https://blog.csdn.net/soft_algorithm/article/details/145406740)
+
