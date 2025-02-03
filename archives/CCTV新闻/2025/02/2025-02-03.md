@@ -183,3 +183,11 @@
 
 + [美媒：特朗普关税政策是一场价值1.4万亿美元的“赌博”](https://news.cctv.com/2025/02/03/ARTI46rE3gpSjMkYoroPPpcy250203.shtml)
 
++ [美媒批特朗普开启“史上最愚蠢贸易战”](https://news.cctv.com/2025/02/03/ARTIhOcRN7GssOFLMbklGh8e250203.shtml)
+
++ [期待加深媒体合作　让我们的声音被更广泛听见——访几比国家电视台台长贾曼卡](https://news.cctv.com/2025/02/03/ARTIhDXUGYWuY0zd3blEzgo6250203.shtml)
+
++ [全球新春走笔丨“中国年”的拉美印记](https://news.cctv.com/2025/02/03/ARTI33MFrlV5GMRStMSyFvmR250203.shtml)
+
++ [美洲玻利瓦尔联盟谴责美国对墨西哥的诽谤和干涉](https://news.cctv.com/2025/02/03/ARTI8oT0kQLLwsp2T7wsEeWZ250203.shtml)
+
