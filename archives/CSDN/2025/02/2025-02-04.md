@@ -101,3 +101,9 @@
 
 + [微信登录模块封装](https://blog.csdn.net/m0_64637029/article/details/145419312)
 
++ [如何判断你的行业是否会被AI取代？从需求细化到技术对接的思考](https://blog.csdn.net/qq_57484399/article/details/145417442)
+
++ [HTML5 Canvas 与 SVG：让网页图形与动画活跃起来](https://blog.csdn.net/Kiradzy/article/details/145421447)
+
++ [部署deep seek需要什么样的硬件配置？](https://blog.csdn.net/gl1938/article/details/145410911)
+
