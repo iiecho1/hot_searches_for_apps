@@ -231,3 +231,7 @@
 
 + [联合国喀布尔驻地发生枪击事件 致1死1伤](https://news.cctv.com/2025/02/03/ARTILNkxZ336LwplV5BAATG1250203.shtml)
 
++ [莫斯科爆炸事件已致2死 消息称顿涅茨克拳击联合会主席伤重不治](https://news.cctv.com/2025/02/03/ARTIYg4zOuAOZ4eqD5IrXufW250203.shtml)
+
++ [泽连斯基否认获得美国2000亿美元援助：实际只有760亿](https://news.cctv.com/2025/02/03/ARTIP4DQeDs6dE7P3juefawU250203.shtml)
+
