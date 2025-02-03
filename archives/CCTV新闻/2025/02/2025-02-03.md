@@ -241,3 +241,13 @@
 
 + [日本樱岛火山发生“爆炸性喷发” 烟柱高达800米](https://news.cctv.com/2025/02/03/ARTImzXYctg95zir199ssVQG250203.shtml)
 
++ [韩国棋院变更引发争议盘外规则 取消“累计犯规直接判负”相关规定](https://news.cctv.com/2025/02/03/ARTIAlaW5l7sqegelasJEaly250203.shtml)
+
++ [白俄罗斯中央选举委员会确认卢卡申科当选总统](https://news.cctv.com/2025/02/03/ARTI4JBcJZOB2ew768MpIlPG250203.shtml)
+
++ [欧盟：贸易战没有赢家 美国需要我们](https://news.cctv.com/2025/02/03/ARTIeCIu1DNIfkUou63DFXg3250203.shtml)
+
++ [顿涅茨克拳击联合会主席在莫斯科遭遇爆炸袭击身亡](https://news.cctv.com/2025/02/03/ARTIc1BdZDp1AMH4kwmrBcwk250203.shtml)
+
++ [特朗普称将切断对南非援助资金 南非期待加强沟通](https://news.cctv.com/2025/02/03/ARTIohhanmDNYyM5UOOlQC72250203.shtml)
+

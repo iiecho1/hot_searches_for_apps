@@ -215,3 +215,7 @@
 
 + [DeepSeek-R1模型1.5b、7b、8b、14b、32b、70b和671b有啥区别？](https://blog.csdn.net/facaixxx2024/article/details/145423598)
 
++ [【Elasticsearch】硬件资源优化](https://blog.csdn.net/lilinhai548/article/details/145423656)
+
++ [一文速览DeepSeek-R1的本地部署：含671B满血版和各个蒸馏版的部署(基于Ollama和vLLM，可联网搜索)](https://blog.csdn.net/v_JULY_v/article/details/145429696)
+
