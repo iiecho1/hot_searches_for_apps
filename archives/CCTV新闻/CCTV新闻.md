@@ -169,3 +169,7 @@
 
 + [巴勒斯坦总统呼吁安理会就以色列侵略行为召开紧急会议](https://news.cctv.com/2025/02/03/ARTIVuOcmWbV8wdtLKGYN1B1250203.shtml)
 
++ [美国华盛顿撞机事故残骸清理工作将于3日开始](https://news.cctv.com/2025/02/03/ARTIlb61NFhS3vOod7GjfiJ5250203.shtml)
+
++ [美两机相撞事故中55名遇难者身份已确定](https://news.cctv.com/2025/02/03/ARTIr5jY37dKyENcgDXJkEk8250203.shtml)
+

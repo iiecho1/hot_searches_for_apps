@@ -165,3 +165,9 @@
 
 + [Elasticsearch基本使用详解](https://blog.csdn.net/NiNg_1_234/article/details/145410532)
 
++ [我愿意成为你BGP的邻居，为你传递每一条路径，直到永远。基于华为ENSP的BGP的联邦、路由反射器深入浅出](https://blog.csdn.net/weixin_74796680/article/details/145401665)
+
++ [【优选算法】模拟](https://blog.csdn.net/Snow_Dragon_L/article/details/144918188)
+
++ [【Elasticsearch 】硬件资源优化](https://blog.csdn.net/lilinhai548/article/details/145423656)
+
