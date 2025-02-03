@@ -35,3 +35,25 @@
 
 + [HITsz-TMG/FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
 
++ [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+
++ [is-a-dev/register](https://github.com/is-a-dev/register)
+
++ [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [TencentCloud/tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs)
+
++ [ossu/math](https://github.com/ossu/math)
+
++ [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
++ [Lissy93/dashy](https://github.com/Lissy93/dashy)
+
++ [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+
++ [arendst/Tasmota](https://github.com/arendst/Tasmota)
+
