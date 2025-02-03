@@ -197,3 +197,23 @@
 
 + [中国英歌亮相香街](https://photo.cctv.com/2025/02/03/PHOA7dfAR1RVue3LKwy7K8MJ250203.shtml)
 
++ [乌国家电力公司宣布乌多地采取紧急停电举措](https://news.cctv.com/2025/02/03/ARTIgWYh6GtpJGWg6ChDRSJS250203.shtml)
+
++ [欧盟领导人召开非正式会议 重点讨论安全防务问题](https://news.cctv.com/2025/02/03/ARTIEvvOTkIippaVTF9yr7f8250203.shtml)
+
++ [美加征关税举措致避险情绪升温 东京股市大幅下跌](https://news.cctv.com/2025/02/03/ARTId5TNlC42JhuEKOYm9COK250203.shtml)
+
++ [白俄罗斯军队进行战备检查 评估作战单位执行力等](https://news.cctv.com/2025/02/03/ARTIqa3uDAfS9ieMpUjn0noH250203.shtml)
+
++ [欧盟领导人召开非正式会议 重点讨论安全防务问题](https://news.cctv.com/2025/02/03/ARTIF3U07ftvY1QwyGY8g7pr250203.shtml)
+
++ [乌国家电力公司宣布乌多地采取紧急停电举措](https://news.cctv.com/2025/02/03/ARTITAuPWxjj4RC9nB1pYOyo250203.shtml)
+
++ [韩国总统尹锡悦涉嫌内乱罪公审将于本月20日开庭](https://news.cctv.com/2025/02/03/ARTIf1mXsnE0N1js9f5alT3W250203.shtml)
+
++ [遭诟病多年 美国空中任务通知系统又出故障](https://news.cctv.com/2025/02/03/ARTIuKOMqQcCN9IMmabA3oLp250203.shtml)
+
++ [受美关税令影响 日本10年期新发国债收益率升至近14年来最高](https://news.cctv.com/2025/02/03/ARTIRvhqHm6T5tKfhXwfCpX5250203.shtml)
+
++ [希腊半小时内发生4次4.6级以上地震](https://news.cctv.com/2025/02/03/ARTI8xUtIs8YWNtrnektiCvK250203.shtml)
+

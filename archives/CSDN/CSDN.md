@@ -191,3 +191,7 @@
 
 + [Python从0到100（八十七）：CNN网络详细介绍及WISDM数据集模型仿真](https://blog.csdn.net/weixin_51390582/article/details/145429423)
 
++ [基于springboot私房菜定制上门服务系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/145417565)
+
++ [ARM内核：嵌入式时代的核心引擎](https://blog.csdn.net/2301_79695216/article/details/145399243)
+
