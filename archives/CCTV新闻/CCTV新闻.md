@@ -171,3 +171,7 @@
 
 + [特朗普：美墨同意暂缓一个月实施加征关税措施](https://news.cctv.com/2025/02/04/ARTIZfQbIWLlFwwnsdNUBLhN250204.shtml)
 
++ [新闻人物丨吉尔吉斯斯坦总统扎帕罗夫](https://news.cctv.com/2025/02/04/ARTIj3Mrg1bUXmaGCNLRyGus250204.shtml)
+
++ [美总统特朗普称希望乌克兰用稀土矿换取援助](https://news.cctv.com/2025/02/04/ARTIr8XlIJsoyP22T0f5wo8U250204.shtml)
+
