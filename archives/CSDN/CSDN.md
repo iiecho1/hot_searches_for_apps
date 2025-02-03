@@ -171,3 +171,5 @@
 
 + [【Elasticsearch 】硬件资源优化](https://blog.csdn.net/lilinhai548/article/details/145423656)
 
++ [linux本地部署deepseek-R1模型](https://blog.csdn.net/hooksten/article/details/145418824)
+

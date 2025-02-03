@@ -25,3 +25,7 @@
 
 + [LG Ultrafine 4k 出现图像残留](https://www.v2ex.com/t/1108621)
 
++ [感觉互联网上错别字变多了](https://www.v2ex.com/t/1108674)
+
++ [bybit 卡无需 LV2](https://www.v2ex.com/t/1108622)
+
