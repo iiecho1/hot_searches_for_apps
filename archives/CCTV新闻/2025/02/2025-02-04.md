@@ -189,3 +189,13 @@
 
 + [袭击岸田文雄嫌疑人木村隆二否认“存在杀意”](https://news.cctv.com/2025/02/04/ARTINYFHk1FaonGSneZ42pAQ250204.shtml)
 
++ [日本受强寒流影响 北海道遭遇强降雪](https://news.cctv.com/2025/02/04/ARTI6D4oNn6fBlSTd5E6MIsv250204.shtml)
+
++ [白宫官员：特朗普即将让美国退出联合国人权理事会](https://news.cctv.com/2025/02/04/ARTIchdNPhDguZWFVpmIoYKK250204.shtml)
+
++ [萨尔瓦多总统称将有偿接收美国服刑囚犯](https://news.cctv.com/2025/02/04/ARTIDIeJq3ljK1X69u4V5HSZ250204.shtml)
+
++ [日本陆上自卫队训练射丢一枚炮弹 暂无人员受伤报告](https://news.cctv.com/2025/02/04/ARTINidTynJbYQgPELe6aRLD250204.shtml)
+
++ [尹锡悦抵达韩国宪法法院 将出席弹劾案庭审第五次公开辩论](https://news.cctv.com/2025/02/04/ARTIuz3baGHZSVbBHVGMnmH6250204.shtml)
+
