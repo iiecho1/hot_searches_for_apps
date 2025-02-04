@@ -201,3 +201,5 @@
 
 + [哈萨克斯坦高山滑雪国家队出征亚冬会 为中国观众献上新春祝福](https://people.cctv.com/2025/02/04/ARTIKpAhN6p71ILc0HmtjERD250204.shtml)
 
++ [哈萨克斯坦阿克套空难初步调查结果即将发布](https://news.cctv.com/2025/02/04/ARTIOxvLB9lAsPd7zj14n5OL250204.shtml)
+
