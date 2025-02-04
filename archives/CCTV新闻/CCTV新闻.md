@@ -223,3 +223,5 @@
 
 + [历时近7小时 尹锡悦弹劾案庭审第五次辩论结束](https://news.cctv.com/2025/02/04/ARTI8peDgURPWPPHgqwKyiv5250204.shtml)
 
++ [瑞典一所学校发生枪击事件 至少造成5人受伤](https://news.cctv.com/2025/02/04/ARTIJlQwpfmJ7m9UXIT5IMQK250204.shtml)
+
