@@ -67,3 +67,5 @@
 
 + [Excuse me~](https://m.acfun.cn/v/%3Fac%3D46838197)
 
++ [【官方双语】夸不动 - 英伟达RTX 5080评测#linus谈科技](https://m.acfun.cn/v/%3Fac%3D46837685)
+
