@@ -149,3 +149,5 @@
 
 + [Zabbix 推送告警 消息模板 美化（钉钉Webhook机器人、邮件）](https://blog.csdn.net/Tassel_YUE/article/details/145418149)
 
++ [Sentinel 断路器在Spring Cloud使用](https://blog.csdn.net/ling_zhi_xin/article/details/145427108)
+

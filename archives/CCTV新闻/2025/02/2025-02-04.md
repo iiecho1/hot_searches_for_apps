@@ -175,3 +175,11 @@
 
 + [美总统特朗普称希望乌克兰用稀土矿换取援助](https://news.cctv.com/2025/02/04/ARTIr8XlIJsoyP22T0f5wo8U250204.shtml)
 
++ [特朗普签行政令 暂缓对墨加商品加征关税至今年3月4日](https://news.cctv.com/2025/02/04/ARTIVN3dVZemfUyvMePzvrVt250204.shtml)
+
++ [特朗普：对加拿大加征关税措施暂缓30天实施](https://news.cctv.com/2025/02/04/ARTIGPgjpS9dL2Z1yMZ7ZITj250204.shtml)
+
++ [新闻人物丨巴基斯坦总统扎尔达里](https://news.cctv.com/2025/02/04/ARTIBa9IbztAGOyTbS2gLChW250204.shtml)
+
++ [美国政府终止委内瑞拉移民的临时保护身份 超30万人或被驱逐](https://news.cctv.com/2025/02/04/ARTIrRVVCH8HpycIbS3bQqWE250204.shtml)
+
