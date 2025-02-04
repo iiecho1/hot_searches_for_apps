@@ -205,3 +205,9 @@
 
 + [中国代表：努力推动安理会重视多边主义和全球治理](https://news.cctv.com/2025/02/04/ARTIhAqbWlUap4OhMyyAdvpz250204.shtml)
 
++ [载歌载舞迎新春——俄罗斯圣彼得堡市举办中小学春节联欢节](https://news.cctv.com/2025/02/04/ARTIeLWYue1xNWdFpTcSO9M2250204.shtml)
+
++ [尹锡悦弹劾案庭审今日辩论细节公布 关键证人：不认为紧急戒严违法、违宪](https://news.cctv.com/2025/02/04/ARTInrZz0ZVz0W9zc1aG21xg250204.shtml)
+
++ [泰国副总理：今日将下令对泰缅边境的缅甸地区断电](https://news.cctv.com/2025/02/04/ARTIYWAsN7gsL9GO9ladCvbP250204.shtml)
+

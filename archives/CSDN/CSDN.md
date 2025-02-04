@@ -191,3 +191,5 @@
 
 + [【棋弈云端】网页五子棋项目测试报告](https://blog.csdn.net/smile_sundays/article/details/145430943)
 
++ [【现代深度学习技术】深度学习计算 | 延后初始化&自定义层](https://blog.csdn.net/Morse_Chen/article/details/145437380)
+
