@@ -37,3 +37,5 @@
 
 + [分享一个自己整理的纯干货：独立开发者 / 独立小团队如何在一周内搞定所有的资质开始在 App Store / Steam / Stripe 收款](https://www.v2ex.com/t/1108773)
 
++ [聊聊在伦敦住青旅的日子](https://www.v2ex.com/t/1108808)
+

@@ -203,3 +203,5 @@
 
 + [哈萨克斯坦阿克套空难初步调查结果即将发布](https://news.cctv.com/2025/02/04/ARTIOxvLB9lAsPd7zj14n5OL250204.shtml)
 
++ [中国代表：努力推动安理会重视多边主义和全球治理](https://news.cctv.com/2025/02/04/ARTIhAqbWlUap4OhMyyAdvpz250204.shtml)
+
