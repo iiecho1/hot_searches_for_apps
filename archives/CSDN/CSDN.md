@@ -193,3 +193,9 @@
 
 + [【现代深度学习技术】深度学习计算 | 延后初始化&自定义层](https://blog.csdn.net/Morse_Chen/article/details/145437380)
 
++ [本地玩转大语言模型：Ollama 超详细指南](https://blog.csdn.net/qq_73376107/article/details/145413671)
+
++ [基于SpringBoot养老院平台系统功能实现一](https://blog.csdn.net/yuancodenet/article/details/145434470)
+
++ [在VSCode中集成DeepSeek大模型实战指南](https://blog.csdn.net/ddv_08/article/details/145418330)
+

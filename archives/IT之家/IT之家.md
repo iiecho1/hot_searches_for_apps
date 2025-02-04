@@ -25,3 +25,27 @@
 
 + [秘塔 AI 接入满血版 DeepSeek R1 推理模型](https://m.ithome.com/html/827665.htm)
 
++ [《哪吒之魔童闹海》进入中国影史票房前 10：含预售总票房突破 41 亿，有望冲击第一](https://m.ithome.com/html/828427.htm)
+
++ [消息称国产科幻大片《流浪地球 3》将于 3 月开机拍摄，上下两部连拍](https://m.ithome.com/html/828442.htm)
+
++ [“Hot Tub”色情应用上架欧盟第三方应用市场，苹果称未批准](https://m.ithome.com/html/828440.htm)
+
++ [《文明 7》全球媒体评测解禁：IGN 7 分“游戏 UI 过度简化、难以上手”](https://m.ithome.com/html/828445.htm)
+
++ [苹果为 iPhone 11 系列推出 iOS 18.3 新版本更新](https://m.ithome.com/html/828412.htm)
+
++ [“两个父亲”的小鼠培育成功：我国首次实现重磅突破，能存活至成年](https://m.ithome.com/html/828472.htm)
+
++ [国产 GPU 助力，摩尔线程实现对 DeepSeek 蒸馏模型推理服务部署](https://m.ithome.com/html/828465.htm)
+
++ [市值万亿，小米股价涨破 40 港元再创新高](https://m.ithome.com/html/828455.htm)
+
++ [DeepSeek 登陆阿里云，支持云上一键部署 V3、R1 模型](https://m.ithome.com/html/828428.htm)
+
++ [消息称 vivo X200 Pro mini 手机将在海外发布，国内上市价 4699 元起](https://m.ithome.com/html/828482.htm)
+
++ [谷歌公司涉嫌违反反垄断法，市场监管总局依法决定立案调查](https://m.ithome.com/html/828475.htm)
+
++ [明日起，小米 SU7 Ultra 将开放静态品鉴](https://m.ithome.com/html/827808.htm)
+
