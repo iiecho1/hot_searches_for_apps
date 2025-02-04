@@ -151,3 +151,13 @@
 
 + [Sentinel 断路器在Spring Cloud使用](https://blog.csdn.net/ling_zhi_xin/article/details/145427108)
 
++ [AI大模型爆火背后，C++ 如何助力 AI 开发大显身手？](https://blog.csdn.net/2401_82648291/article/details/145432605)
+
++ [人们常说的AI、大模型，到底是什么？](https://blog.csdn.net/mss359681091/article/details/145420390)
+
++ [计算机网络的组成，功能](https://blog.csdn.net/2303_79136949/article/details/145430763)
+
++ [解锁计算机视觉算法：从理论到代码实战](https://blog.csdn.net/weixin_73295475/article/details/145419397)
+
++ [Word接入DeepSeek r1，轻松实现智能文本生成与润色](https://blog.csdn.net/weixin_42984235/article/details/145418748)
+

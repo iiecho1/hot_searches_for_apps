@@ -183,3 +183,9 @@
 
 + [美国政府终止委内瑞拉移民的临时保护身份 超30万人或被驱逐](https://news.cctv.com/2025/02/04/ARTIrRVVCH8HpycIbS3bQqWE250204.shtml)
 
++ [美媒：美国将退出联合国人权理事会](https://news.cctv.com/2025/02/04/ARTIeT2Ayu5Ok9lwECHu8eAn250204.shtml)
+
++ [欧盟领导人防务会议磋商加强军事能力问题](https://news.cctv.com/2025/02/04/ARTIWHFrX99hw1dekxEM1iIN250204.shtml)
+
++ [袭击岸田文雄嫌疑人木村隆二否认“存在杀意”](https://news.cctv.com/2025/02/04/ARTINYFHk1FaonGSneZ42pAQ250204.shtml)
+
