@@ -199,3 +199,5 @@
 
 + [尹锡悦抵达韩国宪法法院 将出席弹劾案庭审第五次公开辩论](https://news.cctv.com/2025/02/04/ARTIuz3baGHZSVbBHVGMnmH6250204.shtml)
 
++ [哈萨克斯坦高山滑雪国家队出征亚冬会 为中国观众献上新春祝福](https://people.cctv.com/2025/02/04/ARTIKpAhN6p71ILc0HmtjERD250204.shtml)
+

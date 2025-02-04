@@ -175,3 +175,9 @@
 
 + [Nacos 的介绍和使用](https://blog.csdn.net/2202_76097976/article/details/145436948)
 
++ [【分布式】服务端高并发分布式结构演进](https://blog.csdn.net/LHRan_ran_/article/details/145437496)
+
++ [基于YOLOv5的农田害虫检测系统：从数据集构建到UI界面实现](https://blog.csdn.net/m0_52343631/article/details/145437841)
+
++ [基于springboot+vue的校园资料分享平台系统(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/145436147)
+
