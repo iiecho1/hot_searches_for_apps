@@ -125,3 +125,7 @@
 
 + [llama.cpp在各个操作系统本地编译流程](https://blog.csdn.net/FL1623863129/article/details/145430223)
 
++ [04树 + 堆 + 优先队列 + 图（D1_树（D10_决策树））](https://blog.csdn.net/qq_51226710/article/details/145424945)
+
++ [并行计算、分布式计算与云计算：概念剖析与对比研究（表格对比）](https://blog.csdn.net/ALISHENGYA/article/details/145432147)
+
