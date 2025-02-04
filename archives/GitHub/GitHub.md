@@ -33,3 +33,21 @@
 
 + [arendst/Tasmota](https://github.com/arendst/Tasmota)
 
++ [metabase/metabase](https://github.com/metabase/metabase)
+
++ [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+
++ [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
+
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+
++ [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+
++ [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2)
+
++ [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+
++ [Soulter/AstrBot](https://github.com/Soulter/AstrBot)
+

@@ -211,3 +211,9 @@
 
 + [泰国副总理：今日将下令对泰缅边境的缅甸地区断电](https://news.cctv.com/2025/02/04/ARTIYWAsN7gsL9GO9ladCvbP250204.shtml)
 
++ [亚冬会｜从阿拉木图到哈尔滨，他们在新春祝福中启程](https://news.cctv.com/2025/02/04/ARTIYFO23SWaQeyBcZ1lwABe250204.shtml)
+
++ [全球新春走笔｜在异乡，邂逅故乡的年](https://news.cctv.com/2025/02/04/ARTIT8r8xEbKTVh7BjpUOjNG250204.shtml)
+
++ [综合消息｜全球同庆中国年 四海共迎新春到——世界多地举办活动贺春节](https://news.cctv.com/2025/02/04/ARTIVttd9bu0zRBqq3vyDk6m250204.shtml)
+

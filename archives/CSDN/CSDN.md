@@ -199,3 +199,7 @@
 
 + [在VSCode中集成DeepSeek大模型实战指南](https://blog.csdn.net/ddv_08/article/details/145418330)
 
++ [5 分钟用满血 DeepSeek R1 搭建个人 AI 知识库（含本地部署）](https://blog.csdn.net/m0_37996629/article/details/145435921)
+
++ [deepseek第三方部署之如何用siliconflow（硅基流动）平台来调用它的api，并且在vscode上部署，然后运行](https://blog.csdn.net/qq_46368050/article/details/145422084)
+
