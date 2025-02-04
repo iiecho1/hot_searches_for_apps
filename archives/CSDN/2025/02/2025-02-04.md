@@ -145,3 +145,7 @@
 
 + [利用腾讯云cloud studio云端免费部署deepseek-R1](https://blog.csdn.net/wzx_442011334/article/details/145419346)
 
++ [golang语言的区块链](https://blog.csdn.net/FXH1989/article/details/145431985)
+
++ [Zabbix 推送告警 消息模板 美化（钉钉Webhook机器人、邮件）](https://blog.csdn.net/Tassel_YUE/article/details/145418149)
+

@@ -23,3 +23,5 @@
 
 + [Wordpress VPS 性能讨论](https://www.v2ex.com/t/1108709)
 
++ [中年想去日本，求指点迷津](https://www.v2ex.com/t/1108789)
+
