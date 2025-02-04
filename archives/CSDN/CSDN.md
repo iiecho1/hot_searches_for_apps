@@ -161,3 +161,11 @@
 
 + [Word接入DeepSeek r1，轻松实现智能文本生成与润色](https://blog.csdn.net/weixin_42984235/article/details/145418748)
 
++ [一文速览DeepSeek-R1的本地部署——含671B满血版和各个蒸馏版的部署：基于Ollama/vLLM/MNN，可联网搜索，支持PC端和手机端](https://blog.csdn.net/v_JULY_v/article/details/145429696)
+
++ [LabVIEW双光子成像系统：自主创新，精准成像，赋能科研](https://blog.csdn.net/bjcyck/article/details/145428339)
+
++ [鸿蒙HarmonyOS Next 视频边播放边缓存- OhosVideoCache](https://blog.csdn.net/liuhaikang/article/details/145433581)
+
++ [Node.js——Buffer和文件系统（Buffer 缓存区、fs 文件操作：异步模式下写入读取文件，Stream 流 ）](https://blog.csdn.net/li13437542099/article/details/144320010)
+
