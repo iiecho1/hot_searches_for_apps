@@ -119,3 +119,9 @@
 
 + [鸿蒙Harmony-双向数据绑定MVVM以及$$语法糖介绍](https://blog.csdn.net/Yihong1833100198/article/details/145445989)
 
++ [Kafka流式计算架构](https://blog.csdn.net/sosovo66/article/details/145419187)
+
++ [八. Spring Boot2 整合连接 Redis(超详细剖析)](https://blog.csdn.net/weixin_61635597/article/details/145433486)
+
++ [llama.cpp在各个操作系统本地编译流程](https://blog.csdn.net/FL1623863129/article/details/145430223)
+
