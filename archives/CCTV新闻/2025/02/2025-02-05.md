@@ -161,3 +161,15 @@
 
 + [泽连斯基称乌克兰比任何时候都接近和平](https://news.cctv.com/2025/02/02/ARTILuT6odKgIIii4Ir2VzlA250202.shtml)
 
++ [哈交通部公布阿航客机失事初步调查报告](https://news.cctv.com/2025/02/05/ARTIfHcVo5otGnHVXQLlHerr250205.shtml)
+
++ [美国卫生机构因特朗普下令删除健康数据而遭起诉](https://news.cctv.com/2025/02/05/ARTIt6g0aMZhF8QodFSjXNjD250205.shtml)
+
++ [瑞典警方称厄勒布鲁市校园枪击事件已造成约10人死亡](https://news.cctv.com/2025/02/05/ARTIY1vwksTv0vM9Xa6bGcbO250205.shtml)
+
++ [美国华盛顿撞机事故全部遇难者遗体均被找到 66人身份已确认](https://news.cctv.com/2025/02/05/ARTIstxVMvtDRnJXV6UaQioH250205.shtml)
+
++ [韩总统弹劾案3名关键证人出庭 尹锡悦方接连否认指控](https://news.cctv.com/2025/02/05/ARTIhCR7eHys00GaMQmHvZ6t250205.shtml)
+
++ [特朗普与内塔尼亚胡举行会谈 讨论加沙停火等问题](https://news.cctv.com/2025/02/05/ARTI1mPFv88Y9xTyHjDWnXIr250205.shtml)
+

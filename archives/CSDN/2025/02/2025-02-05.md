@@ -129,3 +129,5 @@
 
 + [并行计算、分布式计算与云计算：概念剖析与对比研究（表格对比）](https://blog.csdn.net/ALISHENGYA/article/details/145432147)
 
++ [【分布式】服务端高并发分布式结构演进](https://blog.csdn.net/LHRan_ran_/article/details/145437496)
+
