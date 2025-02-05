@@ -101,3 +101,5 @@
 
 + [学习threejs，pvr格式图片文件贴图](https://blog.csdn.net/qq_28419035/article/details/145449657)
 
++ [如何在自己mac电脑上私有化部署deep seek](https://blog.csdn.net/qq_36053756/article/details/145447471)
+
