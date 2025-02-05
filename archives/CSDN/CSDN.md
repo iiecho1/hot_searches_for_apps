@@ -203,3 +203,7 @@
 
 + [如何和 GPT 做最有效的沟通](https://blog.csdn.net/sixpp/article/details/145447071)
 
++ [Spring Boot：Java开发的神奇加速器（一）](https://blog.csdn.net/weixin_73295475/article/details/145460014)
+
++ [基于数据可视化+SpringBoot+Vue的四川旅游购票系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/145461702)
+
