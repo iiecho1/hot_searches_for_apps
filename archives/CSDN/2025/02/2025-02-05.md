@@ -173,3 +173,13 @@
 
 + [Linux网络 | 进入数据链路层，学习相关协议与概念](https://blog.csdn.net/strive_mianyang/article/details/145445201)
 
++ [TensorFlow深度学习实战（6）——回归分析详解](https://blog.csdn.net/LOVEmy134611/article/details/144253026)
+
++ [Linux生成自签证书【Nginx】](https://blog.csdn.net/liu_chen_yang/article/details/145454414)
+
++ [【Elasticsearch】索引性能优化](https://blog.csdn.net/lilinhai548/article/details/145454463)
+
++ [DeepSeek告诉你： 在线版 vs 本地版，哪个是最适合你的部署方式？](https://blog.csdn.net/2401_85343303/article/details/145441367)
+
++ [如何在自己mac电脑上私有化部署deep seek](https://blog.csdn.net/qq_36053756/article/details/145447471)
+
