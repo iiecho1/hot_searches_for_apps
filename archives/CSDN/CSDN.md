@@ -115,3 +115,7 @@
 
 + [（十一）机器人系统的仿真——建造机器人模型](https://blog.csdn.net/2301_76831056/article/details/145176473)
 
++ [满血671B DeepSeek-R1模型5分钟打造“豆包式AI“手机应用——API+ChatBox手机搭建推理智能体傻瓜级详细教程](https://blog.csdn.net/a1966565/article/details/145442691)
+
++ [【Block总结】MDCR，多尺度深度可分离卷积，捕捉不同感受野范围的空间特征](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/145450114)
+
