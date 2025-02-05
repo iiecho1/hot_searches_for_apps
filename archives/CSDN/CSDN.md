@@ -183,3 +183,9 @@
 
 + [如何在自己mac电脑上私有化部署deep seek](https://blog.csdn.net/qq_36053756/article/details/145447471)
 
++ [DeepSeek技术报告解析：为什么DeepSeek-R1 可以用低成本训练出高效的模型](https://blog.csdn.net/m0_46510245/article/details/145449863)
+
++ [本地Ollama部署DeepSeek R1模型接入Word](https://blog.csdn.net/qq_63708623/article/details/145443827)
+
++ [Python爬虫示例：下载图片和视频（带注释）](https://blog.csdn.net/2301_76341691/article/details/145453424)
+

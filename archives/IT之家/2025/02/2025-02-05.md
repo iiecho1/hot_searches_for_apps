@@ -25,3 +25,27 @@
 
 + [明日起，小米 SU7 Ultra 将开放静态品鉴](https://m.ithome.com/html/827808.htm)
 
++ [《哪吒之魔童闹海》票房破 50 亿刷新影史最快纪录，2025 春节档总票房突破 97 亿元](https://m.ithome.com/html/828535.htm)
+
++ [中国市场销量暴跌，保时捷汽车将解雇首席财务官和销售主管](https://m.ithome.com/html/828520.htm)
+
++ [机器狗“上岗”乌鲁木齐地铁演练“嫌疑人劫持人质”，身上背着枪](https://m.ithome.com/html/828646.htm)
+
++ [雷军：小米 SU7 Ultra 全年销量目标 1 万辆，年底若完成将给卢伟冰发大红包](https://m.ithome.com/html/828593.htm)
+
++ [雷军：小米 SU7 Ultra、小米 15 Ultra“两个 Ultra 月底见”](https://m.ithome.com/html/828657.htm)
+
++ [华为小艺助手接入 DeepSeek，升级纯血鸿蒙 HarmonyOS NEXT 即可体验](https://m.ithome.com/html/828616.htm)
+
++ [《哪吒之魔童闹海》超越前作，票房突破 50.38 亿进入中国影史前四](https://m.ithome.com/html/828656.htm)
+
++ [小米 SU7 新款内饰悄然升级，主驾座椅更软、后排更舒适](https://m.ithome.com/html/828568.htm)
+
++ [特斯拉发布史上最大优惠，8000 元保险补贴首次覆盖 Model 3 全系车型](https://m.ithome.com/html/828518.htm)
+
++ [英伟达 RTX 5090 显卡用 3 根 8pin 电源线也能运行，但功率限制 450W](https://m.ithome.com/html/828537.htm)
+
++ [三星电子：Galaxy S25 系列预售破纪录，仅韩国 130 万台](https://m.ithome.com/html/828666.htm)
+
++ [DeepSeek 进入“国家队”，超算互联网上线 R1 / V3 / Coder 等系列模型](https://m.ithome.com/html/828470.htm)
+
