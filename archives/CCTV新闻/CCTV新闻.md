@@ -199,3 +199,13 @@
 
 + [特朗普说正研究将美国罪犯“外包”给萨尔瓦多](https://news.cctv.com/2025/02/05/ARTIibxelQTWnDyALBcxuGGY250205.shtml)
 
++ [菲律宾众议院正式对副总统莎拉·杜特尔特提出弹劾](https://news.cctv.com/2025/02/05/ARTITFRYohPwE7u0Js9bX6ow250205.shtml)
+
++ [俄罗斯成功发射“联盟-2.1b”中型运载火箭](https://news.cctv.com/2025/02/05/ARTItTJs05YELZaY0gwfBajz250205.shtml)
+
++ [冯德莱恩：欧盟将做好与美国进行艰难谈判的准备](https://news.cctv.com/2025/02/05/ARTIfUKIUcdjVC4K0McJYoT2250205.shtml)
+
++ [欧盟敦促成员国加强保护水资源](https://news.cctv.com/2025/02/05/ARTIzXGvKLgC1iQTtkD0jeb8250205.shtml)
+
++ [苏丹武装部队称在中部杰济拉州取得军事进展](https://news.cctv.com/2025/02/05/ARTIQUdbD0RP699apIwkpxfm250205.shtml)
+
