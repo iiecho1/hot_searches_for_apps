@@ -173,3 +173,5 @@
 
 + [特朗普与内塔尼亚胡举行会谈 讨论加沙停火等问题](https://news.cctv.com/2025/02/05/ARTI1mPFv88Y9xTyHjDWnXIr250205.shtml)
 
++ [泽连斯基：如果谈判是唯一和平途径则愿与俄方会谈](https://news.cctv.com/2025/02/05/ARTIPefzqUEHzjMUd9chE06X250205.shtml)
+

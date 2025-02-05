@@ -135,3 +135,11 @@
 
 + [生成式AI安全最佳实践 - 抵御OWASP Top 10攻击 (下)](https://blog.csdn.net/m0_66628975/article/details/145446447)
 
++ [ASP.NET Core Web API 处理 JSON 数据：5步打造高效 API](https://blog.csdn.net/z_344791576/article/details/143997810)
+
++ [Elastic Playground：使用 Elastic 连接器与你的数据聊天](https://blog.csdn.net/UbuntuTouch/article/details/145436750)
+
++ [Hive on Spark优化](https://blog.csdn.net/lihuazaizheli/article/details/145444591)
+
++ [llama.cpp GGML Quantization Type](https://blog.csdn.net/chengyq116/article/details/145433926)
+
