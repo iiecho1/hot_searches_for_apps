@@ -161,3 +161,11 @@
 
 + [联合国喀布尔驻地发生枪击事件 致1死1伤](https://news.cctv.com/2025/02/03/ARTILNkxZ336LwplV5BAATG1250203.shtml)
 
++ [特朗普签署行政令 禁止跨性别运动员参加女子体育赛事](https://news.cctv.com/2025/02/06/ARTI8SyObfEBVY0XX5GSSqZo250206.shtml)
+
++ [刚果（金）反政府武装“M23运动”在该国东部地区发起新攻势](https://news.cctv.com/2025/02/06/ARTIkqFQ1r8bUiTqXylIyFJB250206.shtml)
+
++ [联合国难民署：预计今年苏丹将有约100万难民逃往邻国](https://news.cctv.com/2025/02/06/ARTIIzn5aqmo2TOmQrqqLhvM250206.shtml)
+
++ [美两机相撞事故67名遇难者身份已全部确认](https://news.cctv.com/2025/02/06/ARTIe5rG7iymgttIXLeCei1f250206.shtml)
+
