@@ -143,3 +143,9 @@
 
 + [llama.cpp GGML Quantization Type](https://blog.csdn.net/chengyq116/article/details/145433926)
 
++ [如何通过 Logstash 将数据采集到 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/145447553)
+
++ [【Rancher】简化Kubernetes容器管理与部署的开源平台](https://blog.csdn.net/weixin_53269650/article/details/145440241)
+
++ [WebSocket](https://blog.csdn.net/2301_76161469/article/details/145265893)
+
