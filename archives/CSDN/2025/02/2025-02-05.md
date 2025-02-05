@@ -149,3 +149,9 @@
 
 + [WebSocket](https://blog.csdn.net/2301_76161469/article/details/145265893)
 
++ [DeepSeek：全栈开发者视角下的AI革命者](https://blog.csdn.net/RenGJ010617/article/details/145440939)
+
++ [基于数据可视化+SpringBoot+Vue的延安红色旅游网站设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/145438080)
+
++ [【网络】应用层协议http](https://blog.csdn.net/weixin_69380220/article/details/145310224)
+

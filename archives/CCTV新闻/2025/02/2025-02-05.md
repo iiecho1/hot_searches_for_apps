@@ -181,3 +181,11 @@
 
 + [泰国正式对泰缅边境的缅甸地区断电](https://news.cctv.com/2025/02/05/ARTIVewztWpwup2RvZOucPkx250205.shtml)
 
++ [世卫组织：卡迈勒·阿德万医院受损严重](https://military.cctv.com/2025/02/05/ARTIQOmXUYnuqsBSGnsdXH4d250205.shtml)
+
++ [日本东京都发生火灾 火势已蔓延至3栋住宅](https://news.cctv.com/2025/02/05/ARTI6t3Pnq2r0FdWITDbBeDY250205.shtml)
+
++ [特朗普：希望美国“接管”加沙地带](https://news.cctv.com/2025/02/05/ARTIIsYaNT4FRwT8n5FZlEp1250205.shtml)
+
++ [特朗普宣布美国退出联合国人权理事会](https://news.cctv.com/2025/02/05/ARTIuJ0K2YqGhxfWlcaKIwHJ250205.shtml)
+
