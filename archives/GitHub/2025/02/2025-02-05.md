@@ -31,3 +31,19 @@
 
 + [Soulter/AstrBot](https://github.com/Soulter/AstrBot)
 
++ [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+
++ [monasticacademy/httptap](https://github.com/monasticacademy/httptap)
+
++ [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
+
++ [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+
++ [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+
++ [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
+
++ [llvm/llvm-project](https://github.com/llvm/llvm-project)
+
++ [huggingface/lerobot](https://github.com/huggingface/lerobot)
+
