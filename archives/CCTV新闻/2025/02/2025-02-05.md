@@ -189,3 +189,5 @@
 
 + [特朗普宣布美国退出联合国人权理事会](https://news.cctv.com/2025/02/05/ARTIuJ0K2YqGhxfWlcaKIwHJ250205.shtml)
 
++ [俄方：支持乌克兰将使欧洲付出沉重代价](https://news.cctv.com/2025/02/05/ARTIZ2oEVZrrszVTytaSKmVP250205.shtml)
+
