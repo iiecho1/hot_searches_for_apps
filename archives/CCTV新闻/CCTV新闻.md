@@ -191,3 +191,7 @@
 
 + [俄方：支持乌克兰将使欧洲付出沉重代价](https://news.cctv.com/2025/02/05/ARTIZ2oEVZrrszVTytaSKmVP250205.shtml)
 
++ [美发射“新谢泼德”飞行器模拟月球重力环境](https://news.cctv.com/2025/02/05/ARTIWcL4A7QJMZ5YtuyWYKye250205.shtml)
+
++ [巴基斯坦总理：中巴经济走廊是区域互联互通的基石](https://news.cctv.com/2025/02/05/ARTIaa5nwuooCOkoYlrHimU5250205.shtml)
+

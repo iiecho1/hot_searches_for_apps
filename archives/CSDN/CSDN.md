@@ -159,3 +159,9 @@
 
 + [就像BGP中的AS_PATH一样，无论路途多远，我愿意陪你一起走——基于华为ENSP的BGP的路由负载均衡及过滤深入浅出](https://blog.csdn.net/weixin_74796680/article/details/145425039)
 
++ [鼠标拖尾特效](https://blog.csdn.net/NiNg_1_234/article/details/145441113)
+
++ [华为云kubernetes部署deepseek r1、ollama和open-webui（已踩过坑）](https://blog.csdn.net/nangonghen/article/details/145443881)
+
++ [我问了DeepSeek和ChatGPT关于vue中包含几种watch的问题，它们是这么回答的……](https://blog.csdn.net/weixin_44019370/article/details/145421753)
+
