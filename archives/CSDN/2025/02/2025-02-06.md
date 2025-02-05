@@ -103,3 +103,15 @@
 
 + [如何在自己mac电脑上私有化部署deep seek](https://blog.csdn.net/qq_36053756/article/details/145447471)
 
++ [SpringBoot源码解析(九)：Bean定义接口体系](https://blog.csdn.net/qq_35512802/article/details/145156096)
+
++ [Postman接口自动化测试：从调试到Jenkins集成](https://blog.csdn.net/AI_Green/article/details/145227700)
+
++ [Ollama 部署 DeepSeek - r1 教程：Windows 与 Linux 篇](https://blog.csdn.net/m0_64276521/article/details/145428588)
+
++ [【机器人栅格地图】基于人工兔算法实现机器人栅格地图路径规划（目标函数：最短距离）附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/145463290)
+
++ [安全策略配置实验](https://blog.csdn.net/2302_77662277/article/details/145439566)
+
++ [（十一）机器人系统的仿真——建造机器人模型](https://blog.csdn.net/2301_76831056/article/details/145176473)
+
