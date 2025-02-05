@@ -195,3 +195,7 @@
 
 + [巴基斯坦总理：中巴经济走廊是区域互联互通的基石](https://news.cctv.com/2025/02/05/ARTIaa5nwuooCOkoYlrHimU5250205.shtml)
 
++ [柬埔寨金边一建筑发生火灾 已致4死6伤](https://news.cctv.com/2025/02/05/ARTIxr0rCrF6dC7fQswLDfhu250205.shtml)
+
++ [特朗普说正研究将美国罪犯“外包”给萨尔瓦多](https://news.cctv.com/2025/02/05/ARTIibxelQTWnDyALBcxuGGY250205.shtml)
+

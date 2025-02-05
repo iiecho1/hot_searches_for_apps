@@ -165,3 +165,7 @@
 
 + [我问了DeepSeek和ChatGPT关于vue中包含几种watch的问题，它们是这么回答的……](https://blog.csdn.net/weixin_44019370/article/details/145421753)
 
++ [GaussDB安全配置建议](https://blog.csdn.net/GaussDB/article/details/145450111)
+
++ [全栈开发：使用.NET Core WebAPI构建前后端分离的核心技巧（二）](https://blog.csdn.net/qq_53123067/article/details/145431889)
+
