@@ -99,3 +99,21 @@
 
 + [前端框架中 HTML 的应用技巧：React、Vue、Angular 深度解析](https://blog.csdn.net/Kiradzy/article/details/145458901)
 
++ [【AI 大模型】DeepSeek 大模型简介 ( DeepSeek-R1 和 DeepSeek-V3 大模型 | Python 调用 DeepSeek API | 本地部署 DeepSeek )](https://blog.csdn.net/han1202012/article/details/145463822)
+
++ [【基于SprintBoot+Mybatis+Mysql】电脑商城项目之修改密码和个人资料](https://blog.csdn.net/m0_74202856/article/details/145412539)
+
++ [利用HTML和css技术编写学校官网页面](https://blog.csdn.net/2401_83569888/article/details/145451116)
+
++ [DeepSeek告诉你： 在线版 vs 本地版，哪个是最适合你的部署方式？](https://blog.csdn.net/2401_85343303/article/details/145441367)
+
++ [10分钟学会SkiaSharp：.NET跨平台绘图的秘密武器](https://blog.csdn.net/z_344791576/article/details/143993329)
+
++ [Docker 101](https://blog.csdn.net/m0_52316372/article/details/145481355)
+
++ [学前端框架之前，你需要先理解 MVC](https://blog.csdn.net/longyiyiyu123/article/details/145452202)
+
++ [【无人机三维路径规划】基于教育竞争优化算法ECO实现多无人机协同集群避障路径规划，目标函数：最低成本：路径、高度、威胁、转角附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/145483162)
+
++ [Node.js 调用 DeepSeek API 完整指南](https://blog.csdn.net/hzether/article/details/145438910)
+
