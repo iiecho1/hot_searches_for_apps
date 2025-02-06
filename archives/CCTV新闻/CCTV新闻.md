@@ -203,3 +203,11 @@
 
 + [新华社快讯：一架飞机在菲律宾南部坠毁](https://news.cctv.com/2025/02/06/ARTIZ3yoNRB6d1lwFhYt1KKb250206.shtml)
 
++ [日本首相石破茂汽车与警卫车辆发生碰撞 无人受伤](https://news.cctv.com/2025/02/06/ARTIHFPJg4euqGNBd8NKJ9o0250206.shtml)
+
++ [刚果（金）东部戈马市冲突超2900人死亡，人道主义危机加剧](https://news.cctv.com/2025/02/06/ARTILcENPvO2povAnnBbU8Fu250206.shtml)
+
++ [8天3起民航事故致死74人 美两党忙互怼 马斯克盯上航管局？](https://news.cctv.com/2025/02/06/ARTI5YfWuF5Ucx29ELDRD7UT250206.shtml)
+
++ [关税战威胁全球航运贸易——访德国欧门集团总裁布拉赫](https://news.cctv.com/2025/02/06/ARTI6LKyfCva3cFfvfYo48pH250206.shtml)
+
