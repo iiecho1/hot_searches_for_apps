@@ -117,3 +117,7 @@
 
 + [Node.js 调用 DeepSeek API 完整指南](https://blog.csdn.net/hzether/article/details/145438910)
 
++ [【机器人】基于倒置的摆动机器人和棱镜腿系列弹性机器人Matlab实现](https://blog.csdn.net/qq_59747472/article/details/145483603)
+
++ [入行FPGA设计工程师需要提前学习哪些内容？](https://blog.csdn.net/billgateslove/article/details/145459350)
+
