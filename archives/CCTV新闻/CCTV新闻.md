@@ -169,3 +169,11 @@
 
 + [美两机相撞事故67名遇难者身份已全部确认](https://news.cctv.com/2025/02/06/ARTIe5rG7iymgttIXLeCei1f250206.shtml)
 
++ [我驻冰岛使馆提醒在冰中国公民及游客注意防范恶劣天气](https://news.cctv.com/2025/02/06/ARTI0SDM8g8vsFVmhrtspEI0250206.shtml)
+
++ [美国西雅图机场发生两机碰撞事故](https://news.cctv.com/2025/02/06/ARTISchwHaWzb7GOofh3hDnS250206.shtml)
+
++ [指数小幅上升，全球经济开局平稳](https://jingji.cctv.com/2025/02/06/ARTI61XzGaHDoR8qtVoRCZ0r250206.shtml)
+
++ [俄副外长：美国必须迈出改善俄美关系第一步](https://news.cctv.com/2025/02/06/ARTIEpKanvqeZkTANuoH0rcQ250206.shtml)
+

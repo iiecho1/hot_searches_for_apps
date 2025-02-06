@@ -121,3 +121,5 @@
 
 + [《哪吒之魔童闹海》电影迅雷百度下载云资源[DB-1280P3.23GBMKV中字]4k高清版分享](https://blog.csdn.net/mdercx/article/details/145441606)
 
++ [大模型实战：基于腾讯云HAI服务轻松部署 DeepSeek-R1图文教程](https://blog.csdn.net/xishining/article/details/145453578)
+
