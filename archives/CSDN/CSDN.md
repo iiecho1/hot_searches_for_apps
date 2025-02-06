@@ -121,3 +121,5 @@
 
 + [入行FPGA设计工程师需要提前学习哪些内容？](https://blog.csdn.net/billgateslove/article/details/145459350)
 
++ [【DeepSeek】本地私有化部署 DeepSeek 模型教程](https://blog.csdn.net/weixin_36755535/article/details/145456617)
+

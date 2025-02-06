@@ -161,3 +161,5 @@
 
 + [欧盟领导人防务会议磋商加强军事能力问题](https://news.cctv.com/2025/02/04/ARTIWHFrX99hw1dekxEM1iIN250204.shtml)
 
++ [巴拿马总统：美国有关免费通航巴拿马运河的声明不可接受](https://news.cctv.com/2025/02/07/ARTISnIErHF7tPzILwnrXeEj250207.shtml)
+
