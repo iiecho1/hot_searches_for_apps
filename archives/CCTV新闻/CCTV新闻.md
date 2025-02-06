@@ -187,3 +187,9 @@
 
 + [尹锡悦出席总统弹劾案第六次正式辩论](https://news.cctv.com/2025/02/06/ARTI8Y7P5sb8bf1fi2NSvdAR250206.shtml)
 
++ [欧盟气候机构：2025年1月是有记录以来最热的1月](https://news.cctv.com/2025/02/06/ARTIqWDX6l6IJSKrjjIjzaTJ250206.shtml)
+
++ [记者手记丨依然陷于悲伤与担忧——华盛顿撞机事故一周后](https://news.cctv.com/2025/02/06/ARTI4doNIvBLfx8A1chNZBW0250206.shtml)
+
++ [官宣4小时就反转 巴拿马运河管理局否认美政府船只可免费通航](https://news.cctv.com/2025/02/06/ARTIudb2i84BRHkP1mmwFhez250206.shtml)
+
