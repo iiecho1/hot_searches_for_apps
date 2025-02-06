@@ -193,3 +193,5 @@
 
 + [官宣4小时就反转 巴拿马运河管理局否认美政府船只可免费通航](https://news.cctv.com/2025/02/06/ARTIudb2i84BRHkP1mmwFhez250206.shtml)
 
++ [美国联邦政府裁员 超4万雇员“买断”辞职](https://news.cctv.com/2025/02/06/ARTIjUOJ1NXFaMAu2JfU5ujP250206.shtml)
+

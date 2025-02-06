@@ -153,3 +153,5 @@
 
 + [DeepSeek服务器繁忙问题的原因分析与解决方案](https://blog.csdn.net/wlred1980/article/details/145467831)
 
++ [DeepSeek各版本说明与优缺点分析](https://blog.csdn.net/YYDS_54/article/details/145450666)
+
