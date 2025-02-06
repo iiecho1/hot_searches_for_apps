@@ -25,3 +25,27 @@
 
 + [DeepSeek 进入“国家队”，超算互联网上线 R1 / V3 / Coder 等系列模型](https://m.ithome.com/html/828470.htm)
 
++ [三六零：公司暂未向 DeepSeek 提供任何服务](https://m.ithome.com/html/828765.htm)
+
++ [被 M1 反超，iPhone 16 Pro Max 首次跌出安兔兔 iOS 设备性能排行前十](https://m.ithome.com/html/828782.htm)
+
++ [导演乌尔善：如果《封神第二部》的表达没有能让大家满意，非常遗憾](https://m.ithome.com/html/828894.htm)
+
++ [历史时刻！《哪吒之魔童闹海》成为中国影史票房冠军，《长津湖》等发布贺图](https://m.ithome.com/html/828895.htm)
+
++ [雷军谈小米 SU7 Ultra“金车标”：偶尔虚荣一下人之常情](https://m.ithome.com/html/828781.htm)
+
++ [华为鸿蒙生态新进展：小艺 App 接入 DeepSeek-R1，微博、支付宝、钉钉等多款主流应用功能更新](https://m.ithome.com/html/828858.htm)
+
++ [哨兵模式立大功：小米 SU7 服务区被恶意割胎，警方通报 60 岁嫌疑人已被刑拘](https://m.ithome.com/html/828780.htm)
+
++ [苹果 M5 芯片被曝已进入量产阶段，日月光、长电科技、Amkor 负责封装](https://m.ithome.com/html/828790.htm)
+
++ [冲进中国影史票房榜前三：《哪吒之魔童闹海》票房突破 54.14 亿，超越《你好，李焕英》](https://m.ithome.com/html/828771.htm)
+
++ [雷军：小米 SU7 Ultra 汽车有五种颜色，车标是金的](https://m.ithome.com/html/828794.htm)
+
++ [2025 春节档电影票房 TOP20 城市出炉：上海第一，14 城过亿](https://m.ithome.com/html/828758.htm)
+
++ [《哪吒之魔童闹海》超过《复联 4》，成为中国影史工作日单日票房冠军](https://m.ithome.com/html/828470.htm)
+
