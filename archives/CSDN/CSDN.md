@@ -139,3 +139,17 @@
 
 + [【Prometheus】如何通过golang生成prometheus格式数据](https://blog.csdn.net/littlefun591/article/details/145465700)
 
++ [深度学习与搜索引擎优化的结合：DeepSeek的创新与探索](https://blog.csdn.net/lrq13965748542/article/details/145467005)
+
++ [大语言模型轻量化：知识蒸馏的范式迁移与工程实践](https://blog.csdn.net/lwcwam/article/details/145463091)
+
++ [Spring容器初始化扩展点：ApplicationContextInitializer](https://blog.csdn.net/qq_35512802/article/details/145431713)
+
++ [日志模块自定义@SkipLogAspect注解跳过切面](https://blog.csdn.net/m0_64637029/article/details/145466379)
+
++ [学习threejs，tga格式图片文件贴图](https://blog.csdn.net/qq_28419035/article/details/145469088)
+
++ [【亲测可行】本地部署deepseek & api免费部署满血版deepseek & python中配置api使用满血版deepseek-r1](https://blog.csdn.net/qq_42864343/article/details/145462022)
+
++ [DeepSeek服务器繁忙问题的原因分析与解决方案](https://blog.csdn.net/wlred1980/article/details/145467831)
+
