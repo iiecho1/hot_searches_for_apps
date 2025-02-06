@@ -29,3 +29,15 @@
 
 + [huggingface/lerobot](https://github.com/huggingface/lerobot)
 
++ [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
++ [krahets/hello-algo](https://github.com/krahets/hello-algo)
+
++ [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
+
++ [ruanyf/weekly](https://github.com/ruanyf/weekly)
+

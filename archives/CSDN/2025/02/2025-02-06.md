@@ -161,3 +161,5 @@
 
 + [分享从零开始学习网络设备配置--任务6.5 实现园区网安全接入互联网](https://blog.csdn.net/m0_59193722/article/details/145437716)
 
++ [Elasticsearch 就业形势](https://blog.csdn.net/Kenneth55/article/details/145435433)
+
