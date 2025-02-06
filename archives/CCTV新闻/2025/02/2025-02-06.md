@@ -177,3 +177,7 @@
 
 + [俄副外长：美国必须迈出改善俄美关系第一步](https://news.cctv.com/2025/02/06/ARTIEpKanvqeZkTANuoH0rcQ250206.shtml)
 
++ [古特雷斯警告防止出现任何形式的种族清洗](https://news.cctv.com/2025/02/06/ARTI75eGhCdctOF0C5IOKeYB250206.shtml)
+
++ [阿根廷宣布将退出世界卫生组织](https://news.cctv.com/2025/02/06/ARTIOvFuxmqT929alReEAfYk250206.shtml)
+
