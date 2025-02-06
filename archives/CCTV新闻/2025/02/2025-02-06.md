@@ -195,3 +195,11 @@
 
 + [美国联邦政府裁员 超4万雇员“买断”辞职](https://news.cctv.com/2025/02/06/ARTIjUOJ1NXFaMAu2JfU5ujP250206.shtml)
 
++ [瑞典校园枪击案嫌疑人身份曝光：疑患精神疾病 名下有四支猎枪](https://news.cctv.com/2025/02/06/ARTIFuKRtfoW6nX5xHRYwvES250206.shtml)
+
++ [韩国总统弹劾案庭审现场 紧急戒严执行者提供多项不利尹锡悦证词](https://news.cctv.com/2025/02/06/ARTIfLFTapTLbTszQ0tFo9Sd250206.shtml)
+
++ [菲律宾南部一直升机坠毁 已致多人死亡](https://news.cctv.com/2025/02/06/ARTIV4UcZgJlUkheGgI4VioM250206.shtml)
+
++ [新华社快讯：一架飞机在菲律宾南部坠毁](https://news.cctv.com/2025/02/06/ARTIZ3yoNRB6d1lwFhYt1KKb250206.shtml)
+
