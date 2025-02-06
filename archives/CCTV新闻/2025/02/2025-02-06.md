@@ -213,3 +213,13 @@
 
 + [2025年春节档电影海外市场热映获好评](https://news.cctv.com/2025/02/06/ARTISqsIhxemx8zaDrteptfw250206.shtml)
 
++ [韩国前陆军特战司令作证：尹锡悦曾下令“拉出”国会议员](https://news.cctv.com/2025/02/06/ARTIq5K4nmeYC7XvIZQboKjm250206.shtml)
+
++ [法国：已向乌克兰交付首批“幻影-2000”战斗机](https://news.cctv.com/2025/02/06/ARTIQosGTxoaYXZ6ALTVHW60250206.shtml)
+
++ [特朗普：巴以冲突结束后 加沙地带将被以色列转交给美国](https://news.cctv.com/2025/02/06/ARTIAIDm4jAJYMLQBfm44bFu250206.shtml)
+
++ [柬埔寨首相：将严厉打击网络诈骗和人口贩运](https://news.cctv.com/2025/02/06/ARTIxzFGfFBH8bpyl9f2A4xe250206.shtml)
+
++ [中国驻瑞典大使馆提醒：在瑞典中国公民加强安全防范](https://news.cctv.com/2025/02/06/ARTIbxSJB1sY2Ev5plljgM5t250206.shtml)
+

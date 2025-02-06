@@ -167,3 +167,15 @@
 
 + [学前端框架之前，你需要先理解 MVC](https://blog.csdn.net/longyiyiyu123/article/details/145452202)
 
++ [SQLAlchemy-2.0中模型定义和alembic的数据库迁移工具](https://blog.csdn.net/YZL40514131/article/details/145460965)
+
++ [Windows下从零开始基于Ollama与Open-WebUI本地部署deepseek R1详细指南（包含软件包和模型网盘下载）](https://blog.csdn.net/matt45m/article/details/145439806)
+
++ [网络安全--边界安全](https://blog.csdn.net/2401_88750741/article/details/145454220)
+
++ [当代码开始替我们心动，算法时代的罗曼蒂克消亡录](https://blog.csdn.net/qq_51601665/article/details/145469849)
+
++ [腾讯云HAI服务器上部署与调用DeepSeek-R1大模型的实战指南](https://blog.csdn.net/qq_40280043/article/details/145459619)
+
++ [《哪吒之魔童闹海》电影下载/迅雷BT[HD-1280P/2.21GB/MP4中字]4k高清版已更新](https://blog.csdn.net/vvmres/article/details/145441189)
+
