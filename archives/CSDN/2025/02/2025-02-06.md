@@ -123,3 +123,13 @@
 
 + [大模型实战：基于腾讯云HAI服务轻松部署 DeepSeek-R1图文教程](https://blog.csdn.net/xishining/article/details/145453578)
 
++ [DeepSeek 引发 AI 大模型战火，编程语言群雄激战谁夺胜利权杖？](https://blog.csdn.net/2401_82648291/article/details/145453260)
+
++ [深入理解Spring的ApplicationContextInitializer](https://blog.csdn.net/qq_35512802/article/details/145431713)
+
++ [基于PostGIS的省域空间相邻检索实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/145421053)
+
++ [DeepSeek RAGFlow构建本地知识库系统](https://blog.csdn.net/Marshaljun/article/details/145465304)
+
++ [Deepseek本地部署指南：在linux服务器部署，在mac远程web-ui访问](https://blog.csdn.net/qq_34941290/article/details/145465550)
+

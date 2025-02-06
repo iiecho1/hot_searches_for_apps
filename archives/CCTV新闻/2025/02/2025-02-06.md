@@ -181,3 +181,9 @@
 
 + [阿根廷宣布将退出世界卫生组织](https://news.cctv.com/2025/02/06/ARTIOvFuxmqT929alReEAfYk250206.shtml)
 
++ [美官员：无计划向加沙派遣美军 不会为重建加沙“埋单”](https://news.cctv.com/2025/02/06/ARTIoC11xGxrRUISaJ8ZVujJ250206.shtml)
+
++ [谷歌删除不将人工智能用于武器及监控等道德准则条款](https://news.cctv.com/2025/02/06/ARTIpi6uBXoTn7NUBw6CUwB4250206.shtml)
+
++ [尹锡悦出席总统弹劾案第六次正式辩论](https://news.cctv.com/2025/02/06/ARTI8Y7P5sb8bf1fi2NSvdAR250206.shtml)
+
