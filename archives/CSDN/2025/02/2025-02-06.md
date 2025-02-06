@@ -133,3 +133,9 @@
 
 + [Deepseek本地部署指南：在linux服务器部署，在mac远程web-ui访问](https://blog.csdn.net/qq_34941290/article/details/145465550)
 
++ [gc buffer busy acquire导致的重大数据库性能故障](https://blog.csdn.net/weixin_41645135/article/details/145467469)
+
++ [【Linux】：Https协议原理](https://blog.csdn.net/island1314/article/details/145437917)
+
++ [【Prometheus】如何通过golang生成prometheus格式数据](https://blog.csdn.net/littlefun591/article/details/145465700)
+
