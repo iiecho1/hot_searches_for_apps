@@ -133,3 +133,11 @@
 
 + [π0-FAST——打造机器人动作专用的Tokenizer：比VLA sota π0的训练速度快5倍但效果相当(含π0的开源地址)](https://blog.csdn.net/v_JULY_v/article/details/145475733)
 
++ [【Elasticsearch】 查询性能优化](https://blog.csdn.net/lilinhai548/article/details/145475430)
+
++ [π0-FAST——打造机器人动作专用的高效Tokenizer：比VLA sota π0的训练速度快5倍但效果相当(含π0的开源地址)](https://blog.csdn.net/v_JULY_v/article/details/145475733)
+
++ [DeepSeek私有化本地部署图文（Win+Mac）](https://blog.csdn.net/libusi001/article/details/145431054)
+
++ [【SQL技术】不同数据库引擎 SQL 优化方案剖析](https://blog.csdn.net/wnm23/article/details/145476233)
+

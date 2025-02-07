@@ -171,3 +171,5 @@
 
 + [伊朗革命卫队接收首艘本土研发无人机航母](https://news.cctv.com/2025/02/07/ARTIJNs8Ur4Uy57Sh5EWirbx250207.shtml)
 
++ [研究称未来极端天气可能导致欧洲数百万人死亡](https://news.cctv.com/2025/02/07/ARTIDRSdwwThgGCIxWvsLpmZ250207.shtml)
+
