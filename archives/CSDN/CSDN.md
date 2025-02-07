@@ -133,3 +133,5 @@
 
 + [Mac 部署Ollama + OpenWebUI完全指南](https://blog.csdn.net/weixin_46445090/article/details/145480976)
 
++ [机器学习模型--线性回归、逻辑回归、分类](https://blog.csdn.net/2301_80079642/article/details/145414473)
+
