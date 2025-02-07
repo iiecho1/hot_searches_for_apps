@@ -179,3 +179,9 @@
 
 + [菲律宾副总统回应弹劾事件：尚未考虑辞职](https://news.cctv.com/2025/02/07/ARTISyp9zQQhNeSY8xyKcjvI250207.shtml)
 
++ [火热的春节，开了个好头——外国媒体和国际人士看好中国经济](https://news.cctv.com/2025/02/07/ARTIBBlQhKLeYZNtwrbL1HwF250207.shtml)
+
++ [特朗普废除“出生公民权”行政令被叫停 美司法部提出上诉](https://news.cctv.com/2025/02/07/ARTIq6n8TsEId7jegAtTg4QH250207.shtml)
+
++ [美国或从叙利亚完全撤军？真实意图存疑！](https://news.cctv.com/2025/02/07/ARTIgnHY5vdy36I5e13gENK7250207.shtml)
+

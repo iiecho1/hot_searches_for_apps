@@ -157,3 +157,15 @@
 
 + [2025年02月05日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/145461179)
 
++ [【现代深度学习技术】深度学习计算 | 读写文件](https://blog.csdn.net/Morse_Chen/article/details/145480232)
+
++ [【大模型】DeepSeek与chatGPT的区别以及自身的优势](https://blog.csdn.net/lmy_520/article/details/145487254)
+
++ [【C/C++算法】从浅到深学习---双指针算法（图文兼备 + 源码详解）](https://blog.csdn.net/ZYK069/article/details/145143870)
+
++ [数据库高安全—审计追踪：传统审计&统一审计](https://blog.csdn.net/GaussDB/article/details/145487756)
+
++ [工具 | 蓝耘元生代智算云在本地部署DeepSeek R1模型详细教程](https://blog.csdn.net/weixin_43151418/article/details/145475714)
+
++ [异常的路径追踪](https://blog.csdn.net/yongweiwu/article/details/145483717)
+
