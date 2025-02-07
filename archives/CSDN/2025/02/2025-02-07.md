@@ -131,3 +131,5 @@
 
 + [Python分享10个Excel自动化脚本](https://blog.csdn.net/mqwguardain/article/details/145441834)
 
++ [π0-FAST——打造机器人动作专用的Tokenizer：比VLA sota π0的训练速度快5倍但效果相当(含π0的开源地址)](https://blog.csdn.net/v_JULY_v/article/details/145475733)
+

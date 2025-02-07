@@ -163,3 +163,11 @@
 
 + [巴拿马总统：美国有关免费通航巴拿马运河的声明不可接受](https://news.cctv.com/2025/02/07/ARTISnIErHF7tPzILwnrXeEj250207.shtml)
 
++ [美军方声明：菲律宾坠毁飞机由美国防部承租 提供情报侦察服务](https://news.cctv.com/2025/02/07/ARTIN01kTvUjzXvPUp8kCxkj250207.shtml)
+
++ [赤道中东太平洋已进入拉尼娜状态 将维持到春季中后期](https://news.cctv.com/2025/02/07/ARTI9N1GL5z689PIdvB8Mhii250207.shtml)
+
++ [特朗普签署行政令 制裁国际刑事法院](https://news.cctv.com/2025/02/07/ARTI0tbnaVJvhou6EJueP1Z5250207.shtml)
+
++ [伊朗革命卫队接收首艘本土研发无人机航母](https://news.cctv.com/2025/02/07/ARTIJNs8Ur4Uy57Sh5EWirbx250207.shtml)
+
