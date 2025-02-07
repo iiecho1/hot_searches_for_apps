@@ -169,3 +169,9 @@
 
 + [异常的路径追踪](https://blog.csdn.net/yongweiwu/article/details/145483717)
 
++ [群晖NAS如何通过WebDAV和内网穿透实现Joplin笔记远程同步](https://blog.csdn.net/weixin_44976692/article/details/145487632)
+
++ [蓝耘智算平台搭载DeepSeek R1模型：高效环境配置全攻略](https://blog.csdn.net/2302_78391795/article/details/145482145)
+
++ [大专学LabVIEW是不是找不到工作？](https://blog.csdn.net/bjcyck/article/details/145487046)
+
