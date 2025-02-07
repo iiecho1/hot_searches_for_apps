@@ -103,3 +103,27 @@
 
 + [信息安全、网络安全和数据安全的区别和联系](https://blog.csdn.net/goodxianping/article/details/145453599)
 
++ [AI角色扮演游戏框架SillyTavern（酒馆）的本地与云服务器搭建](https://blog.csdn.net/sanshanjianke/article/details/145436006)
+
++ [【大模型】DeepSeek与chatGPT的区别以及自身的优势](https://blog.csdn.net/lmy_520/article/details/145487254)
+
++ [DeepSeek技术报告解析：为什么DeepSeek-R1 可以用低成本训练出高效的模型](https://blog.csdn.net/m0_46510245/article/details/145449863)
+
++ [学习threejs，pvr格式图片文件贴图](https://blog.csdn.net/qq_28419035/article/details/145449657)
+
++ [ENVI 5.3对USGS网站下载的Landsat 8/9 C2L2地表反射率数据进行预处理（波段合成、裁剪、镶嵌、值转换、去云）](https://blog.csdn.net/zbh13859825167/article/details/145453793)
+
++ [wx053基于ssm+vue+uniapp的校园二手交易平台小程序](https://blog.csdn.net/shmp54xmu/article/details/145480807)
+
++ [环境配置-Ubuntu: CUDA+CUDNN+Conda虚拟环境](https://blog.csdn.net/qq_51629735/article/details/145483245)
+
++ [快速搭建GPU环境 | docker、k8s中使用gpu](https://blog.csdn.net/weixin_48711696/article/details/145483878)
+
++ [小白都能看懂，deepseek本地部署教程](https://blog.csdn.net/python123456_/article/details/145455641)
+
++ [ollama+anythingllm+deepseek R1本地部署](https://blog.csdn.net/kuangguiyun/article/details/145494639)
+
++ [谈谈React与其他框架（如Vue、Angular）的主要区别](https://blog.csdn.net/yuanlong12178/article/details/145455601)
+
++ [Deepseek与GPU算力平台|在GPU算力平台部署Deepseek-R1-32b模型的应用教程](https://blog.csdn.net/weixin_42878111/article/details/145480185)
+
