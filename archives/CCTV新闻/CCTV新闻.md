@@ -173,3 +173,7 @@
 
 + [研究称未来极端天气可能导致欧洲数百万人死亡](https://news.cctv.com/2025/02/07/ARTIDRSdwwThgGCIxWvsLpmZ250207.shtml)
 
++ [联合国人权理事会：美国非成员 无法“退出”](https://news.cctv.com/2025/02/07/ARTIAWTAa6SOVCTFdnUZ6ALK250207.shtml)
+
++ [我驻比利时使馆提醒中国公民防范治安风险](https://news.cctv.com/2025/02/07/ARTIhgSOMhqicMOs5btaBcAZ250207.shtml)
+
