@@ -135,3 +135,5 @@
 
 + [机器学习模型--线性回归、逻辑回归、分类](https://blog.csdn.net/2301_80079642/article/details/145414473)
 
++ [DeepSeek 开源模型全解析（2024.1.1–2025.2.6）](https://blog.csdn.net/AngelCryToo/article/details/145464507)
+
