@@ -189,3 +189,11 @@
 
 + [南印度洋发生5.7级地震，震源深度10千米](https://news.cctv.com/2025/02/07/ARTIgYcxfPo28MHmKyw7zm8l250207.shtml)
 
++ [巴西总统回应美国关税威胁](https://news.cctv.com/2025/02/07/ARTIdfZNJ15vUC6lMx8X5mAs250207.shtml)
+
++ [华盛顿撞机事故中“黑鹰”未开启关键安全系统](https://news.cctv.com/2025/02/07/ARTIKQnck1qXB4IeMMuxVoCU250207.shtml)
+
++ [墨西哥央行宣布降息50个基点至9.5%](https://news.cctv.com/2025/02/07/ARTIbD0AeKApiX7AqsyeC4xr250207.shtml)
+
++ [塞内加尔今年原油产量预计超3000万桶](https://news.cctv.com/2025/02/07/ARTII8h1rEANoY4NUZIcBzEt250207.shtml)
+
