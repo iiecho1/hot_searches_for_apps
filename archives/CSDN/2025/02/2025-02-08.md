@@ -127,3 +127,9 @@
 
 + [Deepseek与GPU算力平台|在GPU算力平台部署Deepseek-R1-32b模型的应用教程](https://blog.csdn.net/weixin_42878111/article/details/145480185)
 
++ [2025年入职/转行网络安全，该如何规划？网络安全职业规划](https://blog.csdn.net/2401_85025054/article/details/145452715)
+
++ [Vue的defineModel和defineProps与.value的关系](https://blog.csdn.net/sixpp/article/details/145504427)
+
++ [Mac 部署Ollama + OpenWebUI完全指南](https://blog.csdn.net/weixin_46445090/article/details/145480976)
+
