@@ -117,3 +117,5 @@
 
 + [【苜里Morri×小子贼疯】黄金迷宫(The Golden Maze) （cover：丁世光/Vic](https://m.acfun.cn/v/%3Fac%3D46843482)
 
++ [大哥请大姐吃饭，两人就点一个京烧大肠，大厨给这么多，能够吃吗](https://m.acfun.cn/v/%3Fac%3D46848501)
+

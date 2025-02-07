@@ -179,3 +179,13 @@
 
 + [如何在自己mac电脑上私有化部署deep seek](https://blog.csdn.net/qq_36053756/article/details/145447471)
 
++ [【机器学习】深入探索SVM概念及其核方法](https://blog.csdn.net/2301_76820214/article/details/145492285)
+
++ [数据挖掘实战-基于随机森林算法的美国加州山火预测模型](https://blog.csdn.net/m0_64336780/article/details/145381324)
+
++ [Spring 核心技术解析【纯干货版】- XI：Spring 数据访问模块 Spring-Oxm 模块精讲](https://blog.csdn.net/weixin_45187434/article/details/145496711)
+
++ [DeepSeek-R1 本地电脑部署 Windows系统 【轻松简易】](https://blog.csdn.net/qq_41204464/article/details/145482480)
+
++ [Web安全｜渗透测试｜网络安全](https://blog.csdn.net/2401_88220102/article/details/145454087)
+
