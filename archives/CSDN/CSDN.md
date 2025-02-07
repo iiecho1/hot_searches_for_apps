@@ -123,3 +123,11 @@
 
 + [【DeepSeek】本地私有化部署 DeepSeek 模型教程](https://blog.csdn.net/weixin_36755535/article/details/145456617)
 
++ [HTML中的图片标签详解及路径使用【学术投稿-第五届环境资源与能源工程国际学术会议（ICEREE 2025）】](https://blog.csdn.net/2302_79376097/article/details/145483399)
+
++ [【Linux高级IO】五种IO模型](https://blog.csdn.net/EterNity_TiMe_/article/details/145149229)
+
++ [【数据可视化-14】Boss招聘数据分析岗位的可视化分析](https://blog.csdn.net/qq_38614074/article/details/145449719)
+
++ [Python分享10个Excel自动化脚本](https://blog.csdn.net/mqwguardain/article/details/145441834)
+
