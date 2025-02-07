@@ -137,3 +137,5 @@
 
 + [DeepSeek 开源模型全解析（2024.1.1–2025.2.6）](https://blog.csdn.net/AngelCryToo/article/details/145464507)
 
++ [TensorFlow深度学习实战（6）——回归分析详解](https://blog.csdn.net/LOVEmy134611/article/details/144253026)
+
