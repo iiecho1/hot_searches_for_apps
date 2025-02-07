@@ -161,3 +161,5 @@
 
 + [特朗普宣布美国退出联合国人权理事会](https://news.cctv.com/2025/02/05/ARTIuJ0K2YqGhxfWlcaKIwHJ250205.shtml)
 
++ [“中国服务”加速走向世界（环球热点）](https://news.cctv.com/2025/02/08/ARTILFvjKE84HWWVVCMYOkLD250208.shtml)
+
