@@ -23,3 +23,17 @@
 
 + [ruanyf/weekly](https://github.com/ruanyf/weekly)
 
++ [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
++ [sgl-project/sglang](https://github.com/sgl-project/sglang)
+
++ [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+
++ [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [ollama/ollama](https://github.com/ollama/ollama)
+

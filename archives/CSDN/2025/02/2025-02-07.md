@@ -177,3 +177,5 @@
 
 + [π0开源了且推出自回归版π0-FAST——打造机器人动作专用的高效Tokenizer：比扩散π0的训练速度快5倍但效果相当](https://blog.csdn.net/v_JULY_v/article/details/145475733)
 
++ [如何在自己mac电脑上私有化部署deep seek](https://blog.csdn.net/qq_36053756/article/details/145447471)
+

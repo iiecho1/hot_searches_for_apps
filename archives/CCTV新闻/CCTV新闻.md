@@ -199,3 +199,7 @@
 
 + [窃取1700万美元还赌债 日本棒球明星前翻译获刑](https://news.cctv.com/2025/02/07/ARTIctqCxCtI5IG0aKlhoMBL250207.shtml)
 
++ [互免签证促泰中旅游人文交流实现双向奔赴——访泰国国家旅游局局长](https://news.cctv.com/2025/02/07/ARTIAlXRShw9C3ZuXvIuRnEe250207.shtml)
+
++ [将芬太尼问题作为加征关税的理由完全是无理找借口](https://news.cctv.com/2025/02/07/ARTIvH869KAE2yyDafQX0jua250207.shtml)
+
