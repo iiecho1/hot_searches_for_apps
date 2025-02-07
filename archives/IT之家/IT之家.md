@@ -25,3 +25,27 @@
 
 + [《哪吒之魔童闹海》超过《复联 4》，成为中国影史工作日单日票房冠军](https://m.ithome.com/html/828470.htm)
 
++ [玩家买到错版英伟达显卡：公版 RTX 5080 用上 RTX 5090 背板](https://m.ithome.com/html/829039.htm)
+
++ [全球影史单一市场票房榜前二，动画电影《哪吒之魔童闹海》内地票房破 62.2441 亿人民币](https://m.ithome.com/html/829066.htm)
+
++ [告别竖排：苹果 iPhone 17 手机壳渲染图曝光，水平“药丸”状摄像头吸睛](https://m.ithome.com/html/829077.htm)
+
++ [上海一美妆公司激进“裁员计划”曝光：多部门淘汰最高比例 95%、只留能用 AI 的人，还要取消键盘](https://m.ithome.com/html/829025.htm)
+
++ [华为鸿蒙生态新进展：淘宝、中国国航等多款重点应用功能更新](https://m.ithome.com/html/828992.htm)
+
++ [奇安信：发现 2650 个仿冒 DeepSeek 的网站，60% 域名解析 IP 位于美国](https://m.ithome.com/html/829089.htm)
+
++ [缅甸妙瓦底电诈园区 61 人被解救，其中 39 名中国人](https://m.ithome.com/html/829121.htm)
+
++ [华为商城 Mate 70 Pro+ 开启“90 天预约申购”：订单将按随机顺序发货，手机 8499 元起](https://m.ithome.com/html/829170.htm)
+
++ [张雪峰回应 DeepSeek 会让自己失业：提供情绪价值，有些信息网上不公开](https://m.ithome.com/html/829010.htm)
+
++ [深度求索：除官方账号外，其他任何以 DeepSeek 或相关负责人名义对外发布公司相关信息的均为仿冒账号](https://m.ithome.com/html/829151.htm)
+
++ [郑州比亚迪公布“社会直招 2 万名员工”细节：入职即签正式劳动合同缴五险一金、薪资待遇五千起](https://m.ithome.com/html/829040.htm)
+
++ [可驻扎在海上一年无需加油，伊朗首个无人机航母揭幕](https://m.ithome.com/html/828470.htm)
+
