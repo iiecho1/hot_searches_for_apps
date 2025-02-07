@@ -205,3 +205,9 @@
 
 + [世界知识产权组织发布交通技术趋势报告 中国技术研发居世界前列](https://news.cctv.com/2025/02/07/ARTIHqqMFvKlf43Cv2uv9qFF250207.shtml)
 
++ [美使馆员工凭空捏造中国间谍](https://news.cctv.com/2025/02/07/ARTIHyDtAbcf8egZQXHDnrEk250207.shtml)
+
++ [中国驻瑞典大使馆提醒：在瑞典中国公民谨慎使用无人机](https://news.cctv.com/2025/02/07/ARTITAsa7kZzZ7dFmXJEzr4K250207.shtml)
+
++ [中国驻清迈总领馆：泰国接收一批涉跨境电诈人员 39人为中国公民](https://news.cctv.com/2025/02/07/ARTIrDEUVDLgdtvtxT5VGPyc250207.shtml)
+

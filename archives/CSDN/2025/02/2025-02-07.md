@@ -193,3 +193,5 @@
 
 + [https是如何保证安全的，又是如何保证不被中间人攻击的？](https://blog.csdn.net/qq_39279448/article/details/145451394)
 
++ [在亚马逊云科技上云原生部署DeepSeek-R1模型(上)](https://blog.csdn.net/m0_66628975/article/details/145492477)
+
