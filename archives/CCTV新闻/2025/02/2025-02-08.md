@@ -187,3 +187,7 @@
 
 + [特朗普签令制裁国际刑事法院，英国表态：不跟](https://news.cctv.com/2025/02/08/ARTISm3tV76a4poYl6QB4HzD250208.shtml)
 
++ [马来西亚官员：今年加开更多直航迎接中国游客](https://news.cctv.com/2025/02/08/ARTIuyM6gxF2XLZeV3DMpspE250208.shtml)
+
++ [印度五年来首次降息应对经济下滑](https://news.cctv.com/2025/02/08/ARTICNnewbHWFh9QBQBXO4c7250208.shtml)
+
