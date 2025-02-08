@@ -193,3 +193,7 @@
 
 + [一种基于Leaflet.Legend的图例动态更新方法](https://blog.csdn.net/yelangkingwuzuhu/article/details/145440116)
 
++ [【学术投稿-第五届消费电子与计算机工程国际学术会议】HTML核心元素详解：超链接、列表、表格与实用技巧](https://blog.csdn.net/2302_79376097/article/details/145513738)
+
++ [AI多维度创新探索：ChatGPT大模型提示词使用技巧](https://blog.csdn.net/weixin_43151418/article/details/145515557)
+
