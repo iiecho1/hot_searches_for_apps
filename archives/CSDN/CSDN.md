@@ -125,3 +125,5 @@
 
 + [自动化测试、压力测试、持续集成 ](https://blog.csdn.net/m0_68405758/article/details/145501389)
 
++ [大模型deepseek-r1 本地Open WebUI部署详解](https://blog.csdn.net/mqiqe/article/details/145485421)
+
