@@ -23,3 +23,25 @@
 
 + [ollama/ollama](https://github.com/ollama/ollama)
 
++ [microsoft/terminal](https://github.com/microsoft/terminal)
+
++ [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+
++ [unslothai/unsloth](https://github.com/unslothai/unsloth)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+
++ [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
++ [ruanyf/weekly](https://github.com/ruanyf/weekly)
+
++ [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
++ [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+
