@@ -171,3 +171,9 @@
 
 + [特朗普称已撤销拜登安全许可](https://news.cctv.com/2025/02/08/ARTIodOmscyUaNNFQemjAmq7250208.shtml)
 
++ [通讯｜春节对里约人来说也是特殊日子——巴西里约州议会举行春节庆典](https://news.cctv.com/2025/02/08/ARTINq3e1HgSfFiaTkU5CRZm250208.shtml)
+
++ [日本东电：2月13日起将开始拆除排空的福岛核污染水储水罐](https://news.cctv.com/2025/02/08/ARTID4yLbkuwmBUU0IqE1tLG250208.shtml)
+
++ [瑞典校园枪击案遇难者身份已全部确认](https://news.cctv.com/2025/02/08/ARTIqTfoqZd2tgC5UhXvyli5250208.shtml)
+

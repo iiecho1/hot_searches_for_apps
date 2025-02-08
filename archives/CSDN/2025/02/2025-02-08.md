@@ -147,3 +147,11 @@
 
 + [基于数据可视化+SpringBoot+Vue的四川旅游购票系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/145461702)
 
++ [‌双非硕士的抉择：自学嵌入式硬件开发还是深入Linux C/C++走软开？](https://blog.csdn.net/qq_28581269/article/details/145472776)
+
++ [移动云电脑轻松搭建DeepSeek本地大模型](https://blog.csdn.net/weixin_46879208/article/details/145501314)
+
++ [LabVIEW污水生化处理在线监测](https://blog.csdn.net/bjcyck/article/details/145507755)
+
++ [DeepSeek关联WPS使用指南与案例解析 ](https://blog.csdn.net/qq_57128262/article/details/145485458)
+
