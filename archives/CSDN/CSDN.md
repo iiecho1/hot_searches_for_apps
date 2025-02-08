@@ -155,3 +155,5 @@
 
 + [DeepSeek关联WPS使用指南与案例解析 ](https://blog.csdn.net/qq_57128262/article/details/145485458)
 
++ [Python黑客技术实战指南：从网络渗透到安全防御](https://blog.csdn.net/2301_76341691/article/details/145501866)
+
