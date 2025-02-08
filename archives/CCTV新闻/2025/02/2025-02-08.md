@@ -177,3 +177,5 @@
 
 + [瑞典校园枪击案遇难者身份已全部确认](https://news.cctv.com/2025/02/08/ARTIqTfoqZd2tgC5UhXvyli5250208.shtml)
 
++ [美法官裁定暂不限制政府效率部访问劳工部数据](https://news.cctv.com/2025/02/08/ARTIyKdCRqBFBkFqG5g47Foj250208.shtml)
+
