@@ -123,3 +123,5 @@
 
 + [Mac 部署Ollama + OpenWebUI完全指南](https://blog.csdn.net/weixin_46445090/article/details/145480976)
 
++ [自动化测试、压力测试、持续集成 ](https://blog.csdn.net/m0_68405758/article/details/145501389)
+
