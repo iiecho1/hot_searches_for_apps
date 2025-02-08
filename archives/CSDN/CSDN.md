@@ -157,3 +157,9 @@
 
 + [Python黑客技术实战指南：从网络渗透到安全防御](https://blog.csdn.net/2301_76341691/article/details/145501866)
 
++ [Deepseek的应用|在GPU算力平台部署Deepseek-R1-1.5b轻量版模型的应用教程](https://blog.csdn.net/weixin_42878111/article/details/145511745)
+
++ [【通俗易懂说模型】非线性回归和逻辑回归（附神经网络图详细解释）](https://blog.csdn.net/m0_67656158/article/details/145455481)
+
++ [【Prometheus】如何通过prometheus监控springboot程序运行状态，并实时告警通知](https://blog.csdn.net/littlefun591/article/details/145499872)
+
