@@ -197,3 +197,5 @@
 
 + [AI多维度创新探索：ChatGPT大模型提示词使用技巧](https://blog.csdn.net/weixin_43151418/article/details/145515557)
 
++ [2025年度云平台架构技术——阿里云版本课程](https://blog.csdn.net/feng8403000/article/details/145519833)
+
