@@ -169,3 +169,11 @@
 
 + [存储异常导致的Oracle重大生产故障](https://blog.csdn.net/weixin_41645135/article/details/145509791)
 
++ [【清晰教程】通过Docker为本地DeepSeek-r1部署WebUI界面](https://blog.csdn.net/weixin_73404807/article/details/145481331)
+
++ [DeepSeek R1 Distill Llama 70B（免费版）API使用详解](https://blog.csdn.net/qq_39777550/article/details/145483917)
+
++ [大模型实战：基于腾讯云HAI服务轻松部署 DeepSeek-R1图文教程](https://blog.csdn.net/xishining/article/details/145453578)
+
++ [Vue中defineModel和defineProps方法执行和vue生命周期函数的先后顺序](https://blog.csdn.net/sixpp/article/details/145504515)
+

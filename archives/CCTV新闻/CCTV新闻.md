@@ -179,3 +179,11 @@
 
 + [美法官裁定暂不限制政府效率部访问劳工部数据](https://news.cctv.com/2025/02/08/ARTIyKdCRqBFBkFqG5g47Foj250208.shtml)
 
++ [“腐败程度前所未有”！特朗普要求关掉美国国际开发署](https://news.cctv.com/2025/02/08/ARTI2M73NSobDyU2K4M1oks0250208.shtml)
+
++ [土耳其央行行长：2025年通胀预期将达24%](https://news.cctv.com/2025/02/08/ARTIEAI56LVCUE3GrBleG8uO250208.shtml)
+
++ [波罗的海三国将并入欧洲电网](https://news.cctv.com/2025/02/08/ARTIAwDsPAttpmgifrNTiys5250208.shtml)
+
++ [特朗普签令制裁国际刑事法院，英国表态：不跟](https://news.cctv.com/2025/02/08/ARTISm3tV76a4poYl6QB4HzD250208.shtml)
+
