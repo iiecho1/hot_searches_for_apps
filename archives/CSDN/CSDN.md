@@ -163,3 +163,9 @@
 
 + [【Prometheus】如何通过prometheus监控springboot程序运行状态，并实时告警通知](https://blog.csdn.net/littlefun591/article/details/145499872)
 
++ [TensorFlow深度学习实战（7）——分类任务详解](https://blog.csdn.net/LOVEmy134611/article/details/144253050)
+
++ [就像BGP中的AS_PATH一样，无论路途多远，我愿意陪你一起走——基于华为ENSP的BGP的Community[社团属性]深入浅出](https://blog.csdn.net/weixin_74796680/article/details/145446246)
+
++ [存储异常导致的Oracle重大生产故障](https://blog.csdn.net/weixin_41645135/article/details/145509791)
+
