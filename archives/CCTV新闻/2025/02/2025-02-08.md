@@ -163,3 +163,7 @@
 
 + [“中国服务”加速走向世界（环球热点）](https://news.cctv.com/2025/02/08/ARTILFvjKE84HWWVVCMYOkLD250208.shtml)
 
++ [美国阿拉斯加失联飞机上10人均已遇难](https://news.cctv.com/2025/02/08/ARTIx31fpslA5tPUF2u0xowc250208.shtml)
+
++ [美国总统特朗普宣布撤销前总统拜登的安全许可](https://news.cctv.com/2025/02/08/ARTI62xOaMHHP4iEjahrIkmx250208.shtml)
+
