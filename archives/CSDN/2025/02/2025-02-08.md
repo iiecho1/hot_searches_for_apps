@@ -141,3 +141,9 @@
 
 + [SQL Server 数据库迁移到 MySQL 的完整指南](https://blog.csdn.net/mss359681091/article/details/145504439)
 
++ [深度探索未来的搜索引擎 —— DeepSeek](https://blog.csdn.net/qq_43580271/article/details/145453724)
+
++ [AI绘画：解锁商业设计新宇宙（6/10）](https://blog.csdn.net/beautifulmemory/article/details/145450997)
+
++ [基于数据可视化+SpringBoot+Vue的四川旅游购票系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/145461702)
+

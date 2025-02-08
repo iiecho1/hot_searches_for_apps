@@ -167,3 +167,7 @@
 
 + [美国总统特朗普宣布撤销前总统拜登的安全许可](https://news.cctv.com/2025/02/08/ARTI62xOaMHHP4iEjahrIkmx250208.shtml)
 
++ [美政府或恢复对移民家庭的拘留 被捕儿童和青少年人数可能增加](https://news.cctv.com/2025/02/08/ARTIE3T4QBaxC1QlSNozgl4B250208.shtml)
+
++ [特朗普称已撤销拜登安全许可](https://news.cctv.com/2025/02/08/ARTIodOmscyUaNNFQemjAmq7250208.shtml)
+
