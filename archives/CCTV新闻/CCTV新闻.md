@@ -161,3 +161,15 @@
 
 + [寻“味”中国年丨中欧班列，给大年餐桌增添新“丝路味道”](https://news.cctv.com/2025/02/05/ARTIfrrg8d7f0CSndEk8JcbI250205.shtml)
 
++ [浙江省一季度重大项目集中开工 总投资3520.5亿元](https://news.cctv.com/2025/02/09/ARTIosBKoY6nwEBqFdlNrb9G250209.shtml)
+
++ [一渔船在韩国全罗南道丽水市附近海域倾覆](https://news.cctv.com/2025/02/09/ARTITKZvK13nFKXwJuq9yKF3250209.shtml)
+
++ [北约军事委员会主席访问乌克兰 与乌总统举行会谈](https://news.cctv.com/2025/02/09/ARTINts2u0LATVerOpqv29EV250209.shtml)
+
++ [美加州州长签署法案 拨款5000万美元保护该州移民等](https://news.cctv.com/2025/02/09/ARTIoZH6tTgt9XALPv0A6kux250209.shtml)
+
++ [东共体和南共体举行联合峰会并发表公报 呼吁刚果（金）停止冲突](https://news.cctv.com/2025/02/09/ARTI82Z4OsszRF8LZVKMyuj0250209.shtml)
+
++ [墨西哥东南部客车与货车相撞至少30人死亡](https://news.cctv.com/2025/02/09/ARTIUAX3uFpe3uacCFrTx7kn250209.shtml)
+
