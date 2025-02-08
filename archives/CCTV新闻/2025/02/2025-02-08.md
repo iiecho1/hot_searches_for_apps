@@ -191,3 +191,5 @@
 
 + [印度五年来首次降息应对经济下滑](https://news.cctv.com/2025/02/08/ARTICNnewbHWFh9QBQBXO4c7250208.shtml)
 
++ [全球连线｜斯里兰卡中国协会主席：斯中友谊与合作前景不可限量](https://news.cctv.com/2025/02/08/ARTIaNQ5db6wFmKVcYjU5cBQ250208.shtml)
+
