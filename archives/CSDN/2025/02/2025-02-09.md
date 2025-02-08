@@ -121,3 +121,5 @@
 
 + [5大步骤揭秘：ASP.NET Core 配置管理，你真的懂了吗？](https://blog.csdn.net/z_344791576/article/details/143650342)
 
++ [Mac 部署Ollama + OpenWebUI完全指南](https://blog.csdn.net/weixin_46445090/article/details/145480976)
+
