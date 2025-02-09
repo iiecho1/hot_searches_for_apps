@@ -137,3 +137,11 @@
 
 + [Pycharm接入DeepSeek思路分享](https://blog.csdn.net/weixin_43212406/article/details/145497399)
 
++ [Global top sap abap 和deepseek对话，测试其abap推理能力](https://blog.csdn.net/xiaoadoudou/article/details/145527164)
+
++ [Vue的defineModel和defineProps与.value的关系](https://blog.csdn.net/sixpp/article/details/145504427)
+
++ [如何在WPS和Word/Excel中直接使用DeepSeek功能](https://blog.csdn.net/dsgdauigfs/article/details/145510126)
+
++ [WPS集成DeepSeek最新教程，附详细图文，让文案生成更智能](https://blog.csdn.net/2302_77835532/article/details/145521852)
+
