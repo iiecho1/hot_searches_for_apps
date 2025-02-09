@@ -155,3 +155,5 @@
 
 + [Ollama平台里最流行的embedding模型： nomic-embed-text 模型介绍和实践](https://blog.csdn.net/skywalk8163/article/details/145498041)
 
++ [深度解析：DeepSeek爆火下，部署DeepSeek需要什么样的资源配置？个人是否有必要自行部署？](https://blog.csdn.net/martian665/article/details/145474213)
+

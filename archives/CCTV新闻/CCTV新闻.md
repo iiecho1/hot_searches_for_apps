@@ -199,3 +199,7 @@
 
 + [美国最高金融监管机构下令停止对银行的未决调查和监管](https://news.cctv.com/2025/02/09/ARTIHGVII5qL96sQO0iYHRQR250209.shtml)
 
++ [纳米比亚开国总统努乔马去世 享年95岁](https://news.cctv.com/2025/02/09/ARTIPo6zbp2Kz3ZlUl5joMOQ250209.shtml)
+
++ [以色列政府要求哈马斯离开加沙地带](https://news.cctv.com/2025/02/09/ARTIhkAaLgOCJc9nq6WJFaiN250209.shtml)
+
