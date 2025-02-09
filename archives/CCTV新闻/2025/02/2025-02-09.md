@@ -223,3 +223,5 @@
 
 + [波罗的海三国将通过波兰接入欧洲电网](https://news.cctv.com/2025/02/09/ARTIBOLUzWhuhJvbBsxGnaxS250209.shtml)
 
++ [巴基斯坦一列车起火 致5死多伤](https://news.cctv.com/2025/02/09/ARTI1FI1MGnlapxNXexplCQi250209.shtml)
+
