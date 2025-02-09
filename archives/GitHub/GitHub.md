@@ -31,3 +31,17 @@
 
 + [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
++ [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot)
+
++ [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
+
++ [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [yamadashy/repomix](https://github.com/yamadashy/repomix)
+
++ [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
++ [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)
+
++ [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+

@@ -57,3 +57,7 @@
 
 + [姐姐找我借钱投资我不想借](https://www.v2ex.com/t/1110103)
 
++ [Termius 作为一个 SSH 终端缺少这么多基础功能，为什么有人用，顺便问问还有没有什么 Mac 能用的终端推荐](https://www.v2ex.com/t/1110096)
+
++ [各位有推荐靠谱的 emby 吗？](https://www.v2ex.com/t/1110050)
+

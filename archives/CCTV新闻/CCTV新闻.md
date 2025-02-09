@@ -217,3 +217,9 @@
 
 + [印度安全人员与反政府武装交火 致31人死亡](https://news.cctv.com/2025/02/09/ARTINfyFiVk3dfjKsD4vnex5250209.shtml)
 
++ [一轮船在俄罗斯乌斯季卢加港发生事故 船上载有13万吨燃油](https://news.cctv.com/2025/02/09/ARTIEcO5JviY6NxM1rvG56is250209.shtml)
+
++ [马里北部发生武装袭击事件 至少25名平民死亡](https://news.cctv.com/2025/02/09/ARTIIlpqflmMpYuQEZbgg0RA250209.shtml)
+
++ [波罗的海三国将通过波兰接入欧洲电网](https://news.cctv.com/2025/02/09/ARTIBOLUzWhuhJvbBsxGnaxS250209.shtml)
+
