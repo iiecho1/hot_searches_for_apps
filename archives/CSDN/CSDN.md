@@ -145,3 +145,13 @@
 
 + [WPS集成DeepSeek最新教程，附详细图文，让文案生成更智能](https://blog.csdn.net/2302_77835532/article/details/145521852)
 
++ [Redis 持久化](https://blog.csdn.net/2202_76097976/article/details/145512317)
+
++ [【AI应用】免费的文本转语音工具：微软 Edge TTS 和 开源版 ChatTTS 对比](https://blog.csdn.net/weixin_43221845/article/details/145501863)
+
++ [《哪吒之魔童闹海》迅雷BT下载[FLV/1.28GB/2.89GB]高清百度加长版云共享[HD1280p已更新]](https://blog.csdn.net/rhnsmsa/article/details/145488986)
+
++ [DeepSeek Window本地私有化部署](https://blog.csdn.net/unbuntu_luo/article/details/145487158)
+
++ [Ollama平台里最流行的embedding模型： nomic-embed-text 模型介绍和实践](https://blog.csdn.net/skywalk8163/article/details/145498041)
+

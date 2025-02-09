@@ -189,3 +189,13 @@
 
 + [美国华盛顿撞机事故中客机和直升机所有主要残骸均已找到](https://news.cctv.com/2025/02/09/ARTITZXuJTkqAMZhLvqNSYhd250209.shtml)
 
++ [日本大范围降雪持续 多地积雪厚度超3米](https://news.cctv.com/2025/02/09/ARTIrpWRhhG98rDyPjntuKga250209.shtml)
+
++ [特朗普：将通过削减联邦资金迫使纽约州政府“取消”征收拥堵费](https://news.cctv.com/2025/02/09/ARTIsaD07cqs6HwrS0bN0oOs250209.shtml)
+
++ [纳米比亚前总统萨姆·努乔马去世](https://news.cctv.com/2025/02/09/ARTIUgY91i7krG1jnvLnkWqI250209.shtml)
+
++ [墨西哥东南部客车与货车相撞 死亡人数升至41人](https://news.cctv.com/2025/02/09/ARTIabcMPe38TvShegIfgEpL250209.shtml)
+
++ [美国最高金融监管机构下令停止对银行的未决调查和监管](https://news.cctv.com/2025/02/09/ARTIHGVII5qL96sQO0iYHRQR250209.shtml)
+
