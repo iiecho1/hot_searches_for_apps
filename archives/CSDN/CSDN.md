@@ -171,3 +171,9 @@
 
 + [【DeepSeek】DeepSeek概述 | 本地部署deepseek](https://blog.csdn.net/weixin_74809706/article/details/145498924)
 
++ [蓝耘智算平台与DeepSeek R1模型：推动深度学习发展](https://blog.csdn.net/2301_80863610/article/details/145529374)
+
++ [Kubernetes架构原则和对象设计（三）](https://blog.csdn.net/a1369760658/article/details/144326917)
+
++ [【GitHub】GitHub 2FA 双因素认证 ( 使用 Microsoft Authenticator 应用进行二次验证 )](https://blog.csdn.net/han1202012/article/details/145489781)
+
