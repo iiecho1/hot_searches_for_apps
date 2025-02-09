@@ -129,3 +129,11 @@
 
 + [【Springboot】Springboot 自定义线程池的参数配置最优是多少](https://blog.csdn.net/weixin_44299027/article/details/145499503)
 
++ [DeepSeek与Vue.js组件开发：解锁AI与前端开发的融合密码](https://blog.csdn.net/qq_33650655/article/details/145500159)
+
++ [学习threejs，tga格式图片文件贴图](https://blog.csdn.net/qq_28419035/article/details/145469088)
+
++ [【论文翻译】DeepSeek-V3论文翻译——DeepSeek-V3 Technical Report——第一部分：引言与模型架构](https://blog.csdn.net/qq_58718853/article/details/145462825)
+
++ [Pycharm接入DeepSeek思路分享](https://blog.csdn.net/weixin_43212406/article/details/145497399)
+
