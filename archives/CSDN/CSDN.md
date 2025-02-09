@@ -127,3 +127,9 @@
 
 + [Deepseek-v3 / Dify api接入飞书机器人go程序](https://blog.csdn.net/Sindweller5530/article/details/145493379)
 
++ [在亚马逊云科技上云原生部署DeepSeek-R1模型(上)](https://blog.csdn.net/m0_66628975/article/details/145492477)
+
++ [腾讯云HAI + DeepSeek +腾讯云AI代码助手 ：零门槛打造AI代码审计环境](https://blog.csdn.net/qq_44373268/article/details/145489022)
+
++ [【无人机三维路径规划】基于山瞪羚算法优化算法ECO实现多无人机协同集群避障路径规划，目标函数：最低成本：路径、高度、威胁、转角附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/145537790)
+
