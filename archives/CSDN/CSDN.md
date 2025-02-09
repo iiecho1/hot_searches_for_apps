@@ -167,3 +167,7 @@
 
 + [基于物联网技术的智能寻车引导系统方案：工作原理、核心功能及系统架构](https://blog.csdn.net/2401_87482700/article/details/145494545)
 
++ [如何在离线的电脑上部署一个本地Deepseek（使用ollama）](https://blog.csdn.net/qq_41854911/article/details/145521817)
+
++ [【DeepSeek】DeepSeek概述 | 本地部署deepseek](https://blog.csdn.net/weixin_74809706/article/details/145498924)
+
