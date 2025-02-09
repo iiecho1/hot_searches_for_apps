@@ -25,3 +25,27 @@
 
 + [国家医保局回应“刷医保买华为 WATCH D2 血压测量手表”，称“需根据当地相关政策”](https://m.ithome.com/html/828470.htm)
 
++ [雷军驾驶小米 YU7 开展高速长途测试：开了 1310km“目前表现不错”](https://m.ithome.com/html/829530.htm)
+
++ [亚洲首个：《哪吒之魔童闹海》票房突破 75.03 亿，超《神偷奶爸 3》进入全球动画电影榜前 10](https://m.ithome.com/html/829563.htm)
+
++ [小米汽车：经查完全不存在网传所谓“断轴”情况](https://m.ithome.com/html/829485.htm)
+
++ [小米 Civi、小米 12X 等机型宣布终止软件支持](https://m.ithome.com/html/829592.htm)
+
++ [何小鹏称自己长得老实总被骗：为搞明白钢材成本问题花了 9 个月，下面的人一直合伙骗](https://m.ithome.com/html/829473.htm)
+
++ [《哪吒之魔童闹海》成为全球首部单一市场破 10 亿美元影片、全球十亿美元票房俱乐部首部非好莱坞影片](https://m.ithome.com/html/829520.htm)
+
++ [业内首个被曝光内嵌 Deepseek 的手机：努比亚 Z70 Ultra 系统内测截图流出](https://m.ithome.com/html/829571.htm)
+
++ [比亚迪第二代秦 PLUS 智驾版车型官宣明晚上市：“天神之眼”高阶智驾、第五代 DM 技术](https://m.ithome.com/html/829602.htm)
+
++ [男子造谣“医院复活秦始皇”等被罚，视频转发 1.4 万次](https://m.ithome.com/html/829525.htm)
+
++ [唯一非好莱坞影片，《哪吒之魔童闹海》进入全球影史票房榜前 50](https://m.ithome.com/html/829489.htm)
+
++ [OPPO ColorOS 本月底将全面接入 DeepSeek 模型](https://m.ithome.com/html/829504.htm)
+
++ [攻略在手，轻松玩转 DeepSeek](https://m.ithome.com/html/828470.htm)
+

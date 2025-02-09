@@ -177,3 +177,7 @@
 
 + [【GitHub】GitHub 2FA 双因素认证 ( 使用 Microsoft Authenticator 应用进行二次验证 )](https://blog.csdn.net/han1202012/article/details/145489781)
 
++ [从算法到落地：DeepSeek如何突破AI工具的同质化竞争困局](https://blog.csdn.net/djdjiejsn/article/details/145530710)
+
++ [如何用.NET Core Identity实现定制化的用户身份验证系统](https://blog.csdn.net/qq_53123067/article/details/145503274)
+
