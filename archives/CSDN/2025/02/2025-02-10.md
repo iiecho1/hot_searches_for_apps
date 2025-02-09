@@ -139,3 +139,5 @@
 
 + [FFmpeg使用GPU编解码，及在C++代码中实现FFmpeg使用GPU编解码](https://blog.csdn.net/Taylor_0522/article/details/145487468)
 
++ [模型蒸馏：MiniLLM论文阅读（MiniLLM: Knowledge Distillation of Large Language Models ）【基座模型蒸馏】](https://blog.csdn.net/u013250861/article/details/145537564)
+
