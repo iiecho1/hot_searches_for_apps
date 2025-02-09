@@ -161,3 +161,13 @@
 
 + [韩国前陆军特战司令作证：尹锡悦曾下令“拉出”国会议员](https://news.cctv.com/2025/02/06/ARTIq5K4nmeYC7XvIZQboKjm250206.shtml)
 
++ [特朗普说期待与普京进行更多对话](https://news.cctv.com/2025/02/10/ARTILXaIeF3l6tKVHLksDrKd250210.shtml)
+
++ [美国东北部遭遇新一轮冬季风暴 超1500万人受影响](https://news.cctv.com/2025/02/10/ARTI8KsbEImt9kvIMSJayUZf250210.shtml)
+
++ [苏丹中部一村庄遇袭 造成8死41伤](https://news.cctv.com/2025/02/10/ARTIExFJDs7vaP7iHuYKf8Wc250210.shtml)
+
++ [泽连斯基宣布在美欧为乌提供安全保障前提下愿与俄进行谈判](https://news.cctv.com/2025/02/10/ARTIcGGFjIquA6HGQ8FbTL7V250210.shtml)
+
++ [伊合组织强烈谴责以色列“在沙特建立巴勒斯坦国”言论](https://news.cctv.com/2025/02/10/ARTI91mjKKM4huawJeCQqkBM250210.shtml)
+
