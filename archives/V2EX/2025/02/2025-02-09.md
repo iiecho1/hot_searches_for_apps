@@ -41,3 +41,9 @@
 
 + [关于我在 soul 注册了一个女号的社会小实验](https://www.v2ex.com/t/1110062)
 
++ [28 岁大龄 javaer，失业中迷茫中](https://www.v2ex.com/t/1110067)
+
++ [大学没有独立卫浴这件事？](https://www.v2ex.com/t/1110071)
+
++ [求教，如何做一个网吧系统](https://www.v2ex.com/t/1109950)
+

@@ -157,3 +157,5 @@
 
 + [深度解析：DeepSeek爆火下，部署DeepSeek需要什么样的资源配置？个人是否有必要自行部署？](https://blog.csdn.net/martian665/article/details/145474213)
 
++ [基于Springboot和vue的流浪猫狗救助救援系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/145527760)
+
