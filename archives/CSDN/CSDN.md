@@ -109,3 +109,21 @@
 
 + [wx053基于ssm+vue+uniapp的校园二手交易平台小程序](https://blog.csdn.net/shmp54xmu/article/details/145480807)
 
++ [Cherry Studio：一站式多模型AI交互平台深度解析 可配合大模型搭建私有知识库问答系统](https://blog.csdn.net/qq_36944952/article/details/145539147)
+
++ [蓝耘智算平台搭载DeepSeek R1模型：高效环境配置全攻略](https://blog.csdn.net/2302_78391795/article/details/145482145)
+
++ [学习threejs，使用Lensflare模拟镜头眩光](https://blog.csdn.net/qq_28419035/article/details/145497819)
+
++ [【C++学习篇】C++11第二期学习](https://blog.csdn.net/2301_80362419/article/details/145537187)
+
++ [【基于SprintBoot+Mybatis+Mysql】电脑商城项目之上传头像和新增收货地址](https://blog.csdn.net/m0_74202856/article/details/145422609)
+
++ [【AI】在Ubuntu中使用docker对DeepSeek的部署与使用](https://blog.csdn.net/Freesia_2350/article/details/145493110)
+
++ [数据库高安全—审计追踪：传统审计&统一审计](https://blog.csdn.net/GaussDB/article/details/145487756)
+
++ [【Windows】Deepseek本地化部署 + Ollama + Chatbox + OpenWeb UI](https://blog.csdn.net/weixin_54648747/article/details/145508198)
+
++ [Deepseek-v3 / Dify api接入飞书机器人go程序](https://blog.csdn.net/Sindweller5530/article/details/145493379)
+
