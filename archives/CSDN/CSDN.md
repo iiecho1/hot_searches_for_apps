@@ -133,3 +133,9 @@
 
 + [【无人机三维路径规划】基于山瞪羚算法优化算法ECO实现多无人机协同集群避障路径规划，目标函数：最低成本：路径、高度、威胁、转角附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/145537790)
 
++ [＜tauri＞＜rust＞＜GUI＞基于rust和tauri，在已有的前端框架上手动集成tauri示例](https://blog.csdn.net/normer123456/article/details/145451833)
+
++ [YOLOv8超参数调优的自动化探索：RayTune应用与实践【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/145540665)
+
++ [FFmpeg使用GPU编解码，及在C++代码中实现FFmpeg使用GPU编解码](https://blog.csdn.net/Taylor_0522/article/details/145487468)
+
