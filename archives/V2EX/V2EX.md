@@ -47,3 +47,5 @@
 
 + [求教，如何做一个网吧系统](https://www.v2ex.com/t/1109950)
 
++ [Java 为什么能给 char 类型赋值中文字符](https://www.v2ex.com/t/1110066)
+
