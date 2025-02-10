@@ -193,3 +193,11 @@
 
 + [火山引擎+cherry studio打造个人满血流畅版DeepSeekR1（末尾附教程及网盘下载链接）](https://blog.csdn.net/phh18089728775/article/details/145534729)
 
++ [Docker Compose 容器卷映射：是否需要提前将文件拷贝到宿主机？](https://blog.csdn.net/mss359681091/article/details/145533164)
+
++ [C# 两种方案实现调用 DeepSeek API](https://blog.csdn.net/michaelline/article/details/145551627)
+
++ [如何在浏览器中搭建开源Web操作系统Puter的本地与远程环境](https://blog.csdn.net/qq_48652579/article/details/145551243)
+
++ [通过客户端Chatbox或OpenwebUI访问识别不到本地ollama中的模型等问题的解决](https://blog.csdn.net/weixin_43794223/article/details/145509195)
+

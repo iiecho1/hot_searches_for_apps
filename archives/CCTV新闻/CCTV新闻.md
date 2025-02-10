@@ -223,3 +223,7 @@
 
 + [越南一座300年历史的古寺被烧毁](https://news.cctv.com/2025/02/10/ARTITwvqoni6lHJOrBPHZ75C250210.shtml)
 
++ [通讯｜感受马耳他中国文化中心里的新春庙会](https://news.cctv.com/2025/02/10/ARTIamUrNssqkahDDecyguFl250210.shtml)
+
++ [专访｜美国把关税当“武器”终将遭到反噬——访比中经贸委员会主席贝尔纳·德威特](https://news.cctv.com/2025/02/10/ARTIOG4UgSMNzawkk6ANGTE3250210.shtml)
+
