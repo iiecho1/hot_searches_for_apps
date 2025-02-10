@@ -105,3 +105,23 @@
 
 + [【Prometheus】如何通过prometheus监控springboot程序运行状态，并实时告警通知](https://blog.csdn.net/littlefun591/article/details/145499872)
 
++ [蓝耘智算平台部署deepseek-助力深度学习](https://blog.csdn.net/GGDxianv/article/details/145544704)
+
++ [用傅里叶变换解码时间序列：从频域视角解析季节性模式](https://blog.csdn.net/m0_46510245/article/details/145543150)
+
++ [MATLAB图形用户界面（GUI）设计与实现：基于App Designer的开发方法](https://blog.csdn.net/weixin_52908342/article/details/145549650)
+
++ [缓存实战：Redis 与本地缓存](https://blog.csdn.net/2302_76552486/article/details/145539198)
+
++ [【Matlab优化算法-第14期】基于智能优化算法的VMD信号去噪项目实践](https://blog.csdn.net/u013367499/article/details/145539337)
+
++ [DeepSeek赋能Vue：打造超丝滑进度条开发指南](https://blog.csdn.net/qq_33650655/article/details/145537365)
+
++ [如何在ubuntu22上部署kubernetes1.31](https://blog.csdn.net/yj11290301/article/details/145541826)
+
++ [从零开始：使用Jenkins实现高效自动化部署](https://blog.csdn.net/qq_53123067/article/details/145535790)
+
++ [vLLM V1 重磅升级：核心架构全面革新](https://blog.csdn.net/aiqlcom/article/details/145528448)
+
++ [Deepseek等大模型安全吗?不可忽视的提示注入攻击](https://blog.csdn.net/alphaAIstack/article/details/145530112)
+
