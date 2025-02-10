@@ -155,3 +155,11 @@
 
 + [VSCode Cline 插件快速接入 DeepSeek API，提升本地深度学习效率](https://blog.csdn.net/weixin_43025078/article/details/145516399)
 
++ [DeepSeek vs ChatGPT：AI对决中的赢家是……人类吗？](https://blog.csdn.net/qq_44866828/article/details/145537586)
+
++ [雷军力荐学 AI，背后隐藏着怎样的时代密码？](https://blog.csdn.net/2401_82648291/article/details/145493493)
+
++ [SpringBoot源码解析(十)：应用上下文AnnotationConfigServletWebServerApplicationContext构造方法](https://blog.csdn.net/qq_35512802/article/details/144174863)
+
++ [FastAPI和SQLAlchemy的整合](https://blog.csdn.net/YZL40514131/article/details/145499114)
+

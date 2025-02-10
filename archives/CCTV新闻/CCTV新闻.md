@@ -191,3 +191,13 @@
 
 + [哥伦比亚总统已要求多名内阁成员辞职](https://news.cctv.com/2025/02/10/ARTIbSeKHCM2FZOSb5uI4A42250210.shtml)
 
++ [韩国蔚山市一工厂储油罐爆炸 1人受伤1人失踪](https://news.cctv.com/2025/02/10/ARTIZQcA6qtxEo5gaJTL26tc250210.shtml)
+
++ [美媒：特朗普称，马斯克或在“24小时内”审查美国防部和教育部支出](https://news.cctv.com/2025/02/10/ARTIr4IUz5kiNTMz19Y3GFPv250210.shtml)
+
++ [特朗普：致力于“购买并拥有”加沙 可能将部分地区交给中东其他国家重建](https://news.cctv.com/2025/02/10/ARTI2axG5Kd5Dgu4myMdsLRS250210.shtml)
+
++ [古特雷斯说联合国支持黎巴嫩维护领土完整和主权](https://news.cctv.com/2025/02/10/ARTIoGtb6R9aJpXOwcaYngja250210.shtml)
+
++ [印度终止对华紧固件反倾销调查](https://news.cctv.com/2025/02/10/ARTIxWYI3vmJZMS90ljRY08o250210.shtml)
+
