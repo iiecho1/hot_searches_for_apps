@@ -169,3 +169,15 @@
 
 + [WPS文档中接入DeepSeek接口的方法，用wps自带的JS宏实现。](https://blog.csdn.net/lupiqian/article/details/145500766)
 
++ [深度探索云教程 | 蓝耘元生代智算云VSCode使用教程](https://blog.csdn.net/weixin_43151418/article/details/145478261)
+
++ [数据库高安全—数据保护：数据动态脱敏](https://blog.csdn.net/GaussDB/article/details/145542801)
+
++ [阿里云百炼初探DeepSeek模型调用](https://blog.csdn.net/u014390502/article/details/145546415)
+
++ [[免费]Springboot+Vue(带推荐算法)网上购物商城系统【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/145547420)
+
++ [【Hadoop】大数据权限管理工具Ranger2.1.0编译](https://blog.csdn.net/qq_35995514/article/details/145543767)
+
++ [如何在ubuntu22上部署kubernetes1.31](https://blog.csdn.net/yj11290301/article/details/145541826)
+
