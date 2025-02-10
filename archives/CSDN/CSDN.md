@@ -185,3 +185,9 @@
 
 + [5 步打造 ASP.NET Core 微服务 + DDD 实战项目：你也能轻松上手](https://blog.csdn.net/z_344791576/article/details/143647303)
 
++ [【C/C++算法】从浅到深学习---滑动窗口（图文兼备 + 源码详解）](https://blog.csdn.net/ZYK069/article/details/145496238)
+
++ [DeepSeek-R1不同版本的 1.5B、7B、8B、14B、32B、70B、671B 主要区别以及各个蒸馏版本的优缺点](https://blog.csdn.net/YYDS_54/article/details/145491994)
+
++ [Ubuntu轻松部署ToolJet低代码开发平台结合内网穿透远程访问](https://blog.csdn.net/weixin_44976692/article/details/145550032)
+

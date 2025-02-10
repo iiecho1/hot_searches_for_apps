@@ -25,3 +25,27 @@
 
 + [攻略在手，轻松玩转 DeepSeek](https://m.ithome.com/html/828470.htm)
 
++ [电影《封神第二部：战火西岐》后期视效管理公司：三头六臂殷郊法相是“外包公司 4500 元制作”为不实谣言](https://m.ithome.com/html/829660.htm)
+
++ [支持 API 调用，国家超算互联网平台上线 DeepSeek-R1 满血版](https://m.ithome.com/html/829657.htm)
+
++ [《哪吒之魔童闹海》成为中国影史首部票房破 80 亿电影](https://m.ithome.com/html/829637.htm)
+
++ [DeepSeek-V3 API 优惠期结束，每百万输出 tokens 由 2 元升至 8 元](https://m.ithome.com/html/829667.htm)
+
++ [古尔曼重申苹果 iPhone SE 4 手机将于本周发布](https://m.ithome.com/html/829632.htm)
+
++ [超 1.6 亿人次观看，《哪吒之魔童闹海》超越《战狼 2》拿下中国影史观影人次冠军](https://m.ithome.com/html/829640.htm)
+
++ [“性价比最高”华为智驾车型“阿维塔 07 Pro+”将至，长安朱华荣表明坚持“自研 + 合作”模式](https://m.ithome.com/html/829769.htm)
+
++ [苹果中国官翻产品新增 M1 iPad Air / M2 iPad Pro / iPad 10，2599 元起](https://m.ithome.com/html/829654.htm)
+
++ [深蓝 S09 旗舰 SUV 亮相，搭载华为乾崑智驾 ADS 3.0、智能移动中岛](https://m.ithome.com/html/829638.htm)
+
++ [60 个月随心选 + 腾讯视频终登场：B站 QQ 迅雷等 14 大联合会员 178 元](https://m.ithome.com/html/829716.htm)
+
++ [国补后再减 200 元：小米 15 手机 3799 元起京东自营新低](https://m.ithome.com/html/829745.htm)
+
++ [《哪吒之魔童闹海》电影幕后纪录片《不破不立》全网上线，揭秘中国影史里程碑之作如何诞生](https://m.ithome.com/html/828470.htm)
+
