@@ -207,3 +207,5 @@
 
 + [springboot 事务管理](https://blog.csdn.net/2301_79558841/article/details/145539205)
 
++ [wx056基于ssm+vue+uniapp的二手闲置交易市场小程序](https://blog.csdn.net/shmp54xmu/article/details/145538789)
+
