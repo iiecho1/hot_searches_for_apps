@@ -185,3 +185,9 @@
 
 + [尼日尔发生多起针对采金外国人的恐怖袭击和绑架案件，中使馆紧急提醒](https://news.cctv.com/2025/02/10/ARTIGmpC4kyNj47SlYBBxlxC250210.shtml)
 
++ [日方证实：日铁将转为投资而非收购美钢](https://news.cctv.com/2025/02/10/ARTInbFalYbN6rN8jDbYUFmX250210.shtml)
+
++ [特鲁多称特朗普想“吞并加拿大”并非玩笑 特朗普回应：确实如此](https://news.cctv.com/2025/02/10/ARTIjlHPiUcXgr2V6k18kmT5250210.shtml)
+
++ [哥伦比亚总统已要求多名内阁成员辞职](https://news.cctv.com/2025/02/10/ARTIbSeKHCM2FZOSb5uI4A42250210.shtml)
+

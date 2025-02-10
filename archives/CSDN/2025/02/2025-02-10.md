@@ -145,3 +145,13 @@
 
 + [【Elasticsearch】集群配置性能优化](https://blog.csdn.net/lilinhai548/article/details/145512635)
 
++ [《 C++ 点滴漫谈： 二十六 》控制流艺术：如何在 C++ 中驾驭程序逻辑](https://blog.csdn.net/mmlhbjk/article/details/145536175)
+
++ [基于Java的自助多张图片合成拼接实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/145524586)
+
++ [实战设计模式之责任链模式](https://blog.csdn.net/hope_wisdom/article/details/145537657)
+
++ [Spring Boot: 使用 @Transactional 和 TransactionSynchronization 在事务提交后发送消息到 MQ](https://blog.csdn.net/qq_29752857/article/details/145516484)
+
++ [VSCode Cline 插件快速接入 DeepSeek API，提升本地深度学习效率](https://blog.csdn.net/weixin_43025078/article/details/145516399)
+
