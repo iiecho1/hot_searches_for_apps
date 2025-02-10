@@ -227,3 +227,7 @@
 
 + [专访｜美国把关税当“武器”终将遭到反噬——访比中经贸委员会主席贝尔纳·德威特](https://news.cctv.com/2025/02/10/ARTIOG4UgSMNzawkk6ANGTE3250210.shtml)
 
++ [马斯克发文赞同：是时候关闭“美国之音”！](https://news.cctv.com/2025/02/10/ARTIBFnKb72tmLfa2zt81csV250210.shtml)
+
++ [哈马斯：加沙是巴勒斯坦被占领土不可分割的一部分](https://news.cctv.com/2025/02/10/ARTIPWMtxvU54fP9nfxeaiuj250210.shtml)
+

@@ -201,3 +201,9 @@
 
 + [通过客户端Chatbox或OpenwebUI访问识别不到本地ollama中的模型等问题的解决](https://blog.csdn.net/weixin_43794223/article/details/145509195)
 
++ [利用蓝耘智算平台深度搭建deepseek R1模型，进行深度机器学习](https://blog.csdn.net/K48932/article/details/145554132)
+
++ [MATLAB图形用户界面（GUI）设计与实现：基于App Designer的开发方法](https://blog.csdn.net/weixin_52908342/article/details/145549650)
+
++ [springboot 事务管理](https://blog.csdn.net/2301_79558841/article/details/145539205)
+
