@@ -209,3 +209,5 @@
 
 + [wx056基于ssm+vue+uniapp的二手闲置交易市场小程序](https://blog.csdn.net/shmp54xmu/article/details/145538789)
 
++ [从零复现DeepSeek R1：从V3中对MoE、MLA、MTP的实现，到Open R1对R1中SFT、GRPO的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
+

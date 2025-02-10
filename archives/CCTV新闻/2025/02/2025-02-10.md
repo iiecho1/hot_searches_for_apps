@@ -241,3 +241,7 @@
 
 + [韩国法院将于20日审理尹锡悦拘留取消申请](https://news.cctv.com/2025/02/10/ARTIXlJ7RzVjXzesjLXzy8cc250210.shtml)
 
++ [利比亚发现两处埋有数十具尸体的乱葬坑](https://news.cctv.com/2025/02/10/ARTI6HGdq3NRd3LsOwm7JNFj250210.shtml)
+
++ [特朗普称已下令立即解散陆军、空军、海军和海岸警卫队的监事会](https://news.cctv.com/2025/02/10/ARTItxg8x51W2nEPDDXKKxiP250210.shtml)
+
