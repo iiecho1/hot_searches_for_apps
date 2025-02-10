@@ -125,3 +125,5 @@
 
 + [Deepseek等大模型安全吗?不可忽视的提示注入攻击](https://blog.csdn.net/alphaAIstack/article/details/145530112)
 
++ [本地通过Vscode连接服务器完整流程](https://blog.csdn.net/K_KK_KK_KK/article/details/145538688)
+
