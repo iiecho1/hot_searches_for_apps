@@ -163,3 +163,9 @@
 
 + [FastAPI和SQLAlchemy的整合](https://blog.csdn.net/YZL40514131/article/details/145499114)
 
++ [深度求索（DeepSeek）的AI革命：NLP、CV与智能应用的技术跃迁](https://blog.csdn.net/weixin_66401877/article/details/145536770)
+
++ [本地基于GGUF部署的DeepSeek实现轻量级调优之一：提示工程（Prompt Engineering）（完整详细教程）](https://blog.csdn.net/lzm12278828/article/details/145537043)
+
++ [WPS文档中接入DeepSeek接口的方法，用wps自带的JS宏实现。](https://blog.csdn.net/lupiqian/article/details/145500766)
+

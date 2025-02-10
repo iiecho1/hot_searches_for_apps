@@ -201,3 +201,9 @@
 
 + [印度终止对华紧固件反倾销调查](https://news.cctv.com/2025/02/10/ARTIxWYI3vmJZMS90ljRY08o250210.shtml)
 
++ [阿尔及利亚推进海水淡化以应对水资源短缺](https://news.cctv.com/2025/02/10/ARTIbndxytpD9PRC2P2fnIi4250210.shtml)
+
++ [初步计票结果显示厄瓜多尔总统选举将进入第二轮投票](https://news.cctv.com/2025/02/10/ARTIISqbszD0nlCBtR4cthfg250210.shtml)
+
++ [苏丹武装部队宣布收复该国中部杰济拉州一城市](https://news.cctv.com/2025/02/10/ARTIY1waNcXbn9Q1dKFONvcB250210.shtml)
+
