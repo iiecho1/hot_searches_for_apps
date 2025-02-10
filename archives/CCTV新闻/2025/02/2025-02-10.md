@@ -219,3 +219,7 @@
 
 + [《哪吒2》进入全球票房榜前30](https://news.cctv.com/2025/02/10/ARTIV9Uh8iCU9QkgqO38b2sW250210.shtml)
 
++ [韩媒：尹锡悦在首尔看守所接受执政党议员探视](https://news.cctv.com/2025/02/10/ARTIMS7xyurYCb2oimtOLpSN250210.shtml)
+
++ [越南一座300年历史的古寺被烧毁](https://news.cctv.com/2025/02/10/ARTITwvqoni6lHJOrBPHZ75C250210.shtml)
+

@@ -181,3 +181,7 @@
 
 + [如何在ubuntu22上部署kubernetes1.31](https://blog.csdn.net/yj11290301/article/details/145541826)
 
++ [大数据浪潮下，解锁智算云平台实操密码](https://blog.csdn.net/weixin_73295475/article/details/145547204)
+
++ [5 步打造 ASP.NET Core 微服务 + DDD 实战项目：你也能轻松上手](https://blog.csdn.net/z_344791576/article/details/143647303)
+
