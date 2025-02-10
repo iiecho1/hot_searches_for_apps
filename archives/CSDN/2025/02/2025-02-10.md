@@ -191,3 +191,5 @@
 
 + [Ubuntu轻松部署ToolJet低代码开发平台结合内网穿透远程访问](https://blog.csdn.net/weixin_44976692/article/details/145550032)
 
++ [火山引擎+cherry studio打造个人满血流畅版DeepSeekR1（末尾附教程及网盘下载链接）](https://blog.csdn.net/phh18089728775/article/details/145534729)
+

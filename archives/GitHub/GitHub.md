@@ -33,3 +33,23 @@
 
 + [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 
++ [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+
++ [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
+
++ [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
+
++ [unionlabs/union](https://github.com/unionlabs/union)
+
++ [potpie-ai/potpie](https://github.com/potpie-ai/potpie)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
++ [n0-computer/iroh](https://github.com/n0-computer/iroh)
+
++ [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
++ [godotengine/godot](https://github.com/godotengine/godot)
+
++ [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)
+
