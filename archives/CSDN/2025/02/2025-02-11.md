@@ -129,3 +129,9 @@
 
 + [【分布式理论7】分布式调用之：服务间的（RPC）远程调用](https://blog.csdn.net/hiliang521/article/details/145530901)
 
++ [DeepSeek 关联 Word 使用教程：解锁办公新效率 ](https://blog.csdn.net/qq_57128262/article/details/145541308)
+
++ [DeepSeek 助力 Vue 开发：打造丝滑的步骤条](https://blog.csdn.net/qq_33650655/article/details/145560497)
+
++ [手写一个C++ Android Binder服务及源码分析](https://blog.csdn.net/qq_34720818/article/details/145463074)
+

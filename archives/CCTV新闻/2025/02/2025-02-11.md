@@ -195,3 +195,11 @@
 
 + [特朗普宣布对所有输美钢铝征收25%关税 欧洲多国强烈回应](https://news.cctv.com/2025/02/11/ARTI8kAJ8jVFHMXGHF9Jwquu250211.shtml)
 
++ [文在寅：后悔提拔尹锡悦，对国民感到十分抱歉](https://news.cctv.com/2025/02/11/ARTIkb7k8heFUh7fDFds0fQ5250211.shtml)
+
++ [联合国机构：干旱加剧 索马里亟需国际援助](https://news.cctv.com/2025/02/11/ARTIxb1xXTv59DSWTbrvktaP250211.shtml)
+
++ [乔撒姆·纳帕特当选新一任瓦努阿图总理](https://news.cctv.com/2025/02/11/ARTIBts030VEKAw1b4JTZYWX250211.shtml)
+
++ [朝鲜国防省：已做好用任何手段维护国家安全利益的准备](https://news.cctv.com/2025/02/11/ARTIqPvTWeuaPpjYDXcZXk57250211.shtml)
+
