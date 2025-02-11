@@ -135,3 +135,9 @@
 
 + [手写一个C++ Android Binder服务及源码分析](https://blog.csdn.net/qq_34720818/article/details/145463074)
 
++ [【Hadoop】大数据权限管理工具Ranger2.1.0编译](https://blog.csdn.net/qq_35995514/article/details/145543767)
+
++ [DeepSeek 与 Transformer 架构的深度关联](https://blog.csdn.net/zjw529507929/article/details/145523232)
+
++ [Python 鼠标轨迹 - 防止游戏检测](https://blog.csdn.net/ZhaDeNianQu/article/details/145529129)
+
