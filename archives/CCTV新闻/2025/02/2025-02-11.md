@@ -171,3 +171,27 @@
 
 + [中国第22批援刚果（金）医疗队被授予荣誉纪念章](https://news.cctv.com/2025/02/11/ARTIi5aCeHdWvKcG7B4jmPzm250211.shtml)
 
++ [美国22个州就特朗普政府削减科研经费提起诉讼](https://news.cctv.com/2025/02/11/ARTIntvJexZnTfn0bqsFi8Gk250211.shtml)
+
++ [以军决定提高戒备等级并向南部增兵](https://news.cctv.com/2025/02/11/ARTImhbz6rK1HMPh7QMbjk2E250211.shtml)
+
++ [混乱和谣言：马斯克的政府裁员之战](https://news.cctv.com/2025/02/11/ARTI5glcKb8TQW1Nzqlrhi1v250211.shtml)
+
++ [美国总统特朗普签署行政命令 推动恢复使用塑料吸管](https://news.cctv.com/2025/02/11/ARTIHQeHalvpjDdMSIHjmIKw250211.shtml)
+
++ [应对特朗普关税威胁 巴西或对美互联网巨头征收“数码税”？](https://news.cctv.com/2025/02/11/ARTIaCRfXvJaQ9Oq00Sr2iH3250211.shtml)
+
++ [马斯克寻求控制OpenAI？奥尔特曼：我们也可以收购推特](https://news.cctv.com/2025/02/11/ARTISAkoSFu2YPYLD7zMW9bf250211.shtml)
+
++ [缅甸捣毁多个电诈窝点 抓捕百余名犯罪嫌疑人](https://news.cctv.com/2025/02/11/ARTIEAo8gOG6nrW2xaNn95zK250211.shtml)
+
++ [美政府或将在3月“关门” 参议院民主党领袖提前“甩锅”](https://news.cctv.com/2025/02/11/ARTIb7MI3I52k5tnkT9EWLi8250211.shtml)
+
++ [特朗普：若加沙被扣押人员未在规定期限内获释 将取消停火协议](https://news.cctv.com/2025/02/11/ARTIhK7Vn6I6BmilYRxXW0zO250211.shtml)
+
++ [尹锡悦出席弹劾案庭审第七场公开辩论 四名证人将接受问讯](https://news.cctv.com/2025/02/11/ARTIrnYx2YvXQ9c3LQgAKL64250211.shtml)
+
++ [阿根廷南部林火过火面积超3.7万公顷 千余人被疏散](https://news.cctv.com/2025/02/11/ARTIEvzGt3uSL2Nrmolx5Hs4250211.shtml)
+
++ [特朗普宣布对所有输美钢铝征收25%关税 欧洲多国强烈回应](https://news.cctv.com/2025/02/11/ARTI8kAJ8jVFHMXGHF9Jwquu250211.shtml)
+
