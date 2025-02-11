@@ -235,3 +235,9 @@
 
 + [国际奥委会宣布首届电竞奥运会推迟至2027年](https://news.cctv.com/2025/02/11/ARTId4CVB5bTHe7ClVercSJj250211.shtml)
 
++ [中国驻津巴布韦大使馆通报“三名中国公民遭持枪抢劫”：嫌犯已被缉拿归案](https://news.cctv.com/2025/02/11/ARTIL2Aa5PRygQAFl8CUqFsr250211.shtml)
+
++ [俄国防部称对乌克兰关键设施进行集群打击](https://news.cctv.com/2025/02/11/ARTIoMCPRUusHtIiGoGvQFUp250211.shtml)
+
++ [欧盟拟以“投资人工智能”倡议调动2000亿欧元](https://news.cctv.com/2025/02/11/ARTIiMYqLuNNPAkgovyKkadR250211.shtml)
+
