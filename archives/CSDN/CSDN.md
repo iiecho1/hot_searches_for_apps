@@ -187,3 +187,11 @@
 
 + [2025年3家大牌云电脑游戏、AIGC大PK，最低0.1元，配置不再是问题](https://blog.csdn.net/null18/article/details/145572269)
 
++ [蓝耘智算平台硬核部署 DeepSeek， 解锁 AI 内在的无限潜能](https://blog.csdn.net/2401_82648291/article/details/145556597)
+
++ [MATLAB在数字图像处理中的应用：滤波、分割与特征提取](https://blog.csdn.net/weixin_52908342/article/details/145562012)
+
++ [WPS如何接入DeepSeek（通过JS宏调用）](https://blog.csdn.net/xfysq_/article/details/145521369)
+
++ [【DeepSeek论文精读】5. DeepSeek-V3 技术报告](https://blog.csdn.net/youcans/article/details/145515722)
+

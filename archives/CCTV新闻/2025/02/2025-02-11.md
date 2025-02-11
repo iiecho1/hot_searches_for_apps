@@ -229,3 +229,9 @@
 
 + [首届电竞奥运会将于2027年在沙特利雅得举行](https://news.cctv.com/2025/02/11/ARTI2HJGy9yl72UuXsXW9kF4250211.shtml)
 
++ [泰国断网打击跨国诈骗 寻求封堵涉“星链”漏洞](https://news.cctv.com/2025/02/11/ARTIu6CJekhnD6Vh1W3vI8sm250211.shtml)
+
++ [美国内华达州报告1例人感染H5N1型禽流感病例](https://news.cctv.com/2025/02/11/ARTIWMJS1wtDe1FtGJuWmiFU250211.shtml)
+
++ [国际奥委会宣布首届电竞奥运会推迟至2027年](https://news.cctv.com/2025/02/11/ARTId4CVB5bTHe7ClVercSJj250211.shtml)
+
