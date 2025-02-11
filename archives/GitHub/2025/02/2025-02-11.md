@@ -31,3 +31,17 @@
 
 + [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 
++ [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+
++ [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [labring/FastGPT](https://github.com/labring/FastGPT)
+
++ [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
+
++ [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot)
+

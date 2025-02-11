@@ -25,3 +25,27 @@
 
 + [《哪吒之魔童闹海》电影幕后纪录片《不破不立》全网上线，揭秘中国影史里程碑之作如何诞生](https://m.ithome.com/html/828470.htm)
 
++ [6.98 万元起，比亚迪首批“天神之眼”全民智驾车型价格公布](https://m.ithome.com/html/829899.htm)
+
++ [比亚迪详解“天神之眼 C”高阶智驾：12 摄像头 + 5 毫米波雷达 + 12 超声波雷达](https://m.ithome.com/html/829927.htm)
+
++ [苹果发布 iOS / iPadOS 18.3.1，同步推出 iPadOS 17.7.5 更新](https://m.ithome.com/html/829952.htm)
+
++ [华为余承东：智驾“凑合能用”与“好用安全”是完全不同的境界，本月将揭晓尊界核心黑科技](https://m.ithome.com/html/830019.htm)
+
++ [马云现身杭州阿里园区，与闲鱼员工打招呼](https://m.ithome.com/html/829902.htm)
+
++ [高阶智驾首次进入 7 万级市场，比亚迪海鸥智驾版汽车售 6.98 万元起](https://m.ithome.com/html/829886.htm)
+
++ [比亚迪 10 万以上全系标配天神之眼高阶智驾：首批共 21 款车型稍后上市，10 万以下多数搭载](https://m.ithome.com/html/829932.htm)
+
++ [新春新配色，苹果 iPhone 16 系列被曝 2025 年 3/4 月上新](https://m.ithome.com/html/829948.htm)
+
++ [百度文小言（原文心一言）App 接入 DeepSeek-R1 模型](https://m.ithome.com/html/829986.htm)
+
++ [成都天府赛道最速四门量产车：小米 SU7 Ultra 跑出 1&#39;26&#39;&#39;741 圈速](https://m.ithome.com/html/829987.htm)
+
++ [三只羊及美诚月饼生产商被起诉](https://m.ithome.com/html/829940.htm)
+
++ [QQ 音乐已集成满血版 DeepSeek-R1，AI 助手音乐问答更精准](https://m.ithome.com/html/829903.htm)
+

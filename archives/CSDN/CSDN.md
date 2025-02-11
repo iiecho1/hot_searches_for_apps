@@ -175,3 +175,5 @@
 
 + [网络编程(六)：C++实现基于reactor的百万级并发服务器](https://blog.csdn.net/qq_75158598/article/details/145418827)
 
++ [火山引擎+cherry studio打造个人满血流畅版DeepSeekR1（末尾附教程及网盘下载链接）](https://blog.csdn.net/phh18089728775/article/details/145534729)
+
