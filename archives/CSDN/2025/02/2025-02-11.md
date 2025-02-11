@@ -141,3 +141,9 @@
 
 + [Python 鼠标轨迹 - 防止游戏检测](https://blog.csdn.net/ZhaDeNianQu/article/details/145529129)
 
++ [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://blog.csdn.net/2302_79177254/article/details/145552086)
+
++ [deepseek R1模型本地化部署+角色扮演详细教程：定制专属AI](https://blog.csdn.net/2301_81313679/article/details/145563152)
+
++ [Python Pandas（7）：Pandas 数据清洗](https://blog.csdn.net/qq_40298351/article/details/145543021)
+

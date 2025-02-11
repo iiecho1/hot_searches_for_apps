@@ -207,3 +207,11 @@
 
 + [马斯克称可能会遭暗杀发视频安排后事？误导](https://news.cctv.com/2025/02/11/ARTItUWpeRWpDBHnsg62vdmc250211.shtml)
 
++ [美副总统万斯将成下届总统候选人？特朗普回应](https://news.cctv.com/2025/02/11/ARTIaKvjvqiap4ell3ZVBXXl250211.shtml)
+
++ [中国京剧给美国东岸带去特别的年味儿](https://news.cctv.com/2025/02/11/ARTIKd7MOdxEfQWT20zIoJNo250211.shtml)
+
++ [韩国40岁教师刺死8岁学生，嫌疑人曾暴力对待同事](https://news.cctv.com/2025/02/11/ARTI0nRhJS8SDMHluHNxelcZ250211.shtml)
+
++ [特朗普：哈马斯不放人就应取消停火协议](https://news.cctv.com/2025/02/11/ARTI18MFbyoxVwLkql84T2CL250211.shtml)
+
