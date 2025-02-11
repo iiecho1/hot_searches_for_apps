@@ -153,3 +153,9 @@
 
 + [认识网络安全](https://blog.csdn.net/2401_88857275/article/details/145522054)
 
++ [【深度学习】多目标融合算法（四）：多门混合专家网络MMOE（Multi-gate Mixture-of-Experts）](https://blog.csdn.net/weixin_48007632/article/details/145552311)
+
++ [HTML全局属性与Meta元信息详解：优化网页的灵魂](https://blog.csdn.net/2302_79376097/article/details/145546414)
+
++ [【Prometheus】MySQL主从搭建，以及如何通过prometheus监控MySQL运行状态](https://blog.csdn.net/littlefun591/article/details/145550410)
+
