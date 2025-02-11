@@ -163,3 +163,5 @@
 
 + [韩国官员否认存在尹锡悦所称“选举舞弊”嫌疑](https://news.cctv.com/2025/02/12/ARTI0hPUVLoyd4IYdSfFJq9S250212.shtml)
 
++ [乌政府批准招募18至24岁乌公民参军计划](https://news.cctv.com/2025/02/12/ARTInTmZ4lQhaZsWN5tnw9e5250212.shtml)
+
