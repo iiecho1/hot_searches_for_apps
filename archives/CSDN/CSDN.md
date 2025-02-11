@@ -105,3 +105,25 @@
 
 + [【MySQL】 表的约束(上)](https://blog.csdn.net/2302_81805546/article/details/145488622)
 
++ [【AI赋能】蓝耘智算平台实战指南：3步构建企业级DeepSeek智能助手](https://blog.csdn.net/Skrrapper/article/details/145578622)
+
++ [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://blog.csdn.net/2302_79177254/article/details/145552086)
+
++ [从零复现DeepSeek R1：从V3中对MoE、MLA、MTP的实现，到Open R1对R1中SFT、GRPO的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
+
++ [【DeepSeek】deepseek可视化部署](https://blog.csdn.net/weixin_74809706/article/details/145579245)
+
++ [DeepSeek-Coder系列模型：智能编程助手的未来](https://blog.csdn.net/qq_32682301/article/details/145556436)
+
++ [《 C++ 点滴漫谈： 二十六 》控制流艺术：如何在 C++ 中驾驭程序逻辑](https://blog.csdn.net/mmlhbjk/article/details/145536175)
+
++ [Spring Boot: 使用 @Transactional 和 TransactionSynchronization 在事务提交后发送消息到 MQ](https://blog.csdn.net/qq_29752857/article/details/145516484)
+
++ [【C++学习篇】C++11第二期学习](https://blog.csdn.net/2301_80362419/article/details/145537187)
+
++ [springboot 事务管理](https://blog.csdn.net/2301_79558841/article/details/145539205)
+
++ [pgBackRest 是专为 PostgreSQL 设计的开源备份与恢复工具，以其高性能、可靠性和灵活性著称](https://blog.csdn.net/zxrhhm/article/details/145529109)
+
++ [SpringBoot 接口内容加密方案(RSA+AES+HMAC校验)认知](https://blog.csdn.net/sanhewuyang/article/details/145535396)
+
