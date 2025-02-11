@@ -159,3 +159,9 @@
 
 + [【Prometheus】MySQL主从搭建，以及如何通过prometheus监控MySQL运行状态](https://blog.csdn.net/littlefun591/article/details/145550410)
 
++ [[C#].net顶级语句省略main方法内容](https://blog.csdn.net/FL1623863129/article/details/145558312)
+
++ [spring cloud和spring boot的区别](https://blog.csdn.net/zzyh123456/article/details/145522944)
+
++ [elasticsearch实战三 elasticsearch与mysql数据实时同步](https://blog.csdn.net/qq_33417321/article/details/131505296)
+
