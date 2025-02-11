@@ -165,3 +165,13 @@
 
 + [elasticsearch实战三 elasticsearch与mysql数据实时同步](https://blog.csdn.net/qq_33417321/article/details/131505296)
 
++ [【人工智能】deepseek R1模型在蓝耘智算平台的搭建与机器学习的探索](https://blog.csdn.net/EterNity_TiMe_/article/details/145562129)
+
++ [Elasticsearch：在 Elastic 中玩转 DeepSeek R1 来实现 RAG 应用](https://blog.csdn.net/UbuntuTouch/article/details/145532862)
+
++ [软件测试之通用功能测试点](https://blog.csdn.net/qq_39635178/article/details/145399128)
+
++ [基于微信小程序的博物馆预约系统的设计与实现](https://blog.csdn.net/qq_48164590/article/details/145531010)
+
++ [网络编程(六)：C++实现基于reactor的百万级并发服务器](https://blog.csdn.net/qq_75158598/article/details/145418827)
+

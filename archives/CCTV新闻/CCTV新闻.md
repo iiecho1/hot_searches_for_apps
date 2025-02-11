@@ -219,3 +219,13 @@
 
 + [美国加州夜空现“飞机穿月”景观](https://photo.cctv.com/2025/02/11/PHOAoqLixqzaOMwm1NoxmXR9250211.shtml)
 
++ [日本福岛县发生雪崩 公路附近仍有60人被困](https://news.cctv.com/2025/02/11/ARTIV06Lr9bl8w5KusjqNqYv250211.shtml)
+
++ [超三千名艺术家抗议佳士得拍卖AI艺术品](https://news.cctv.com/2025/02/11/ARTIsWhODZ7gy8Vjb9STo32u250211.shtml)
+
++ [阿富汗北部自杀式袭击已致5死7伤](https://news.cctv.com/2025/02/11/ARTIw4b7tjI4iYAa8pU83Kqe250211.shtml)
+
++ [向南乔治亚岛漂去的巨型冰山部分断裂](https://news.cctv.com/2025/02/11/ARTI4oTA7EVJB0LWC4KXA0Gr250211.shtml)
+
++ [首届电竞奥运会将于2027年在沙特利雅得举行](https://news.cctv.com/2025/02/11/ARTI2HJGy9yl72UuXsXW9kF4250211.shtml)
+
