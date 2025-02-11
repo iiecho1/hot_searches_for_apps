@@ -161,3 +161,13 @@
 
 + [波罗的海三国将并入欧洲电网](https://news.cctv.com/2025/02/08/ARTIAwDsPAttpmgifrNTiys5250208.shtml)
 
++ [美亚利桑那州一机场两飞机在地面发生碰撞 造成至少1人死亡](https://news.cctv.com/2025/02/11/ARTIpKrX4ki0VPKTWEL8hyPX250211.shtml)
+
++ [以色列防长指责哈马斯违反停火协议](https://news.cctv.com/2025/02/11/ARTIcSou7dR3QXMS2tEEjOUp250211.shtml)
+
++ [泰国出台措施打击电信诈骗](https://news.cctv.com/2025/02/11/ARTIqvX9jDbVfTOn3xJZM3lt250211.shtml)
+
++ [危地马拉客车坠河事故已致54人死亡 涉事车辆内发现枪支](https://news.cctv.com/2025/02/11/ARTIqxjNaP07GITASdD6VjGw250211.shtml)
+
++ [中国第22批援刚果（金）医疗队被授予荣誉纪念章](https://news.cctv.com/2025/02/11/ARTIi5aCeHdWvKcG7B4jmPzm250211.shtml)
+
