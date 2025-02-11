@@ -177,3 +177,9 @@
 
 + [火山引擎+cherry studio打造个人满血流畅版DeepSeekR1（末尾附教程及网盘下载链接）](https://blog.csdn.net/phh18089728775/article/details/145534729)
 
++ [DeepSeek与蓝耘智算平台：人工智能与高效算力的协同革命](https://blog.csdn.net/djdjiejsn/article/details/145568389)
+
++ [LabVIEW软件需求开发文档参考](https://blog.csdn.net/bjcyck/article/details/145576289)
+
++ [自学网络安全（黑客技术）2024年 —100天学习计划](https://blog.csdn.net/2401_85026291/article/details/145544522)
+
