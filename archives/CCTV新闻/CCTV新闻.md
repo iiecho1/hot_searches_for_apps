@@ -161,3 +161,13 @@
 
 + [阿尔及利亚推进海水淡化以应对水资源短缺](https://news.cctv.com/2025/02/10/ARTIbndxytpD9PRC2P2fnIi4250210.shtml)
 
++ [美俄总统通电话 特朗普：通话富有成效](https://news.cctv.com/2025/02/13/ARTIUJnWDEzAvoqWmi0MRHXf250213.shtml)
+
++ [美国一架战斗机坠毁 机上两名飞行员已获救](https://news.cctv.com/2025/02/13/ARTIhfEmxlT5OXzsVy4olu3Y250213.shtml)
+
++ [美国东部风暴导致数百起交通事故 超20万用户断电](https://news.cctv.com/2025/02/13/ARTIfARDYBupHq5U2hOUThnj250213.shtml)
+
++ [欧佩克：委内瑞拉原油日产量突破100万桶](https://news.cctv.com/2025/02/13/ARTIt4SfMhq3FSw2uxTZ9sNH250213.shtml)
+
++ [特朗普：乌克兰加入北约“不切实际”](https://news.cctv.com/2025/02/13/ARTIeQPIOu647dbfUdq7T1ET250213.shtml)
+
