@@ -175,3 +175,7 @@
 
 + [意大利埃特纳火山喷发](https://photo.cctv.com/2025/02/12/PHOAla1T2JQWZFyhDrpazgxa250212.shtml)
 
++ [苏丹冲突双方在西部扎姆扎姆难民营交火](https://news.cctv.com/2025/02/12/ARTIec3Z4Y0KyF83AH4UQoqF250212.shtml)
+
++ [古特雷斯谴责联合国人员在被胡塞武装拘押期间死亡](https://news.cctv.com/2025/02/12/ARTIpfQibOmxXEmfIBFCW7CU250212.shtml)
+
