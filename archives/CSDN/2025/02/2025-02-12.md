@@ -149,3 +149,15 @@
 
 + [R1复现之路——首先复现DeepSeek V3：基于V3官方代码库MoE、MLA的实现，补充多token预测MTP的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
 
++ [人工智能丨Deepseek vs 传统测试工具：谁将主导软件质量保障？](https://blog.csdn.net/ceshiren_com/article/details/145571997)
+
++ [deepseek蓝耘云端智能助手：让AI成为你专属的智慧助理](https://blog.csdn.net/2301_81313679/article/details/145583720)
+
++ [R1复现之路——首先复现DeepSeek V3：基于V3官方代码库MoE、MLA的实现，补充我对多token预测MTP的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
+
++ [Macbook Pro快速搭建Easysearch学习环境](https://blog.csdn.net/weixin_38781498/article/details/145574110)
+
++ [Spring 核心技术解析【纯干货版】- XII：Spring 数据访问模块 Spring-R2dbc 模块精讲](https://blog.csdn.net/weixin_45187434/article/details/145588374)
+
++ [Java 大视界 -- 5G 与 Java 大数据融合的行业应用与发展趋势（82）](https://blog.csdn.net/atgfg/article/details/145580998)
+

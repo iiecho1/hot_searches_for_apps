@@ -81,3 +81,11 @@
 
 + [兔女郎~I ll be yours](https://m.acfun.cn/v/%3Fac%3D46865511)
 
++ [社交的手腕！很好很有精神！](https://m.acfun.cn/v/%3Fac%3D46865040)
+
++ [摆尾~完整版](https://m.acfun.cn/v/%3Fac%3D46865524)
+
++ [RED~完整版](https://m.acfun.cn/v/%3Fac%3D46865564)
+
++ [【东方】Conqueror【古明地觉 私服Ver MMD】](https://m.acfun.cn/v/%3Fac%3D46854778)
+

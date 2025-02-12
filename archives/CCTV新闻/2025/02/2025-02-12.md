@@ -179,3 +179,5 @@
 
 + [古特雷斯谴责联合国人员在被胡塞武装拘押期间死亡](https://news.cctv.com/2025/02/12/ARTIpfQibOmxXEmfIBFCW7CU250212.shtml)
 
++ [阿根廷首都遭遇强暴风雨天气 约30万家庭断电](https://news.cctv.com/2025/02/12/ARTIdNSyCqGuKL10BDcPF216250212.shtml)
+
