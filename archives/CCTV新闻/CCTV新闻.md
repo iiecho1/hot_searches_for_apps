@@ -171,3 +171,9 @@
 
 + [特朗普：乌克兰加入北约“不切实际”](https://news.cctv.com/2025/02/13/ARTIeQPIOu647dbfUdq7T1ET250213.shtml)
 
++ [应对美国“极限施压” 伊朗：已制定“积极的计划”](https://news.cctv.com/2025/02/13/ARTI0xdIOmqNkV6SY9e7T7bS250213.shtml)
+
++ [加拿大总理会见北约和欧洲领导人 致力于深化合作](https://news.cctv.com/2025/02/13/ARTILTx580jWE9CGXnDoLVSk250213.shtml)
+
++ [埃及和卡塔尔正加紧调解防止加沙停火协议破裂](https://news.cctv.com/2025/02/13/ARTIi2BkFwRr3vu2O2Y8mwYs250213.shtml)
+
