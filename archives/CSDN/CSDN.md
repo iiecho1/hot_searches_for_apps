@@ -183,3 +183,7 @@
 
 + [微信小程序的制作](https://blog.csdn.net/qq_46301912/article/details/145554494)
 
++ [C++引用深度详解](https://blog.csdn.net/2301_80064645/article/details/145579048)
+
++ [如何评估云原生GenAI应用开发中的安全风险（下）](https://blog.csdn.net/m0_66628975/article/details/145582172)
+
