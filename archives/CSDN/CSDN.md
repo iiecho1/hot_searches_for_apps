@@ -129,3 +129,5 @@
 
 + [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://blog.csdn.net/c858845275/article/details/145544208)
 
++ [AnyPlace：学习机器人操作的泛化目标放置](https://blog.csdn.net/yorkhunter/article/details/145579216)
+
