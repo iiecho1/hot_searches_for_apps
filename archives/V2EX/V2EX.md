@@ -49,3 +49,7 @@
 
 + [广大 v 友，年后回杭，发现， 有人在窗户外面养大公鸡！](https://www.v2ex.com/t/1110835)
 
++ [某东 Mac mini 4 丐版放开买了？](https://www.v2ex.com/t/1110817)
+
++ [Web 如何限制访问设备](https://www.v2ex.com/t/1110896)
+

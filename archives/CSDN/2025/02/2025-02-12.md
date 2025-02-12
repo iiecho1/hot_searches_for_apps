@@ -173,3 +173,13 @@
 
 + [【DeepSeek】在本地计算机上部署DeepSeek-R1大模型实战（完整版）](https://blog.csdn.net/Morse_Chen/article/details/145545230)
 
++ [蓝耘智算平台携手 DeepSeek，开启 AI 超算新纪元](https://blog.csdn.net/2401_84813926/article/details/145584305)
+
++ [基于数据可视化+SpringBoot+Vue的口腔诊所系统设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/145558817)
+
++ [[Linux] 信号(singal)详解(二):信号管理的三张表、如何使用coredump文件、OS的用户态和内核态、如何理解系统调用？](https://blog.csdn.net/2301_79465388/article/details/145529226)
+
++ [探索智能新边疆 —— DeepSeek与蓝耘智算平台：云端上的AI助手](https://blog.csdn.net/2401_84650952/article/details/145573719)
+
++ [微信小程序的制作](https://blog.csdn.net/qq_46301912/article/details/145554494)
+
