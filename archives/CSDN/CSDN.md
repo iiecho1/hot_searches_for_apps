@@ -101,3 +101,27 @@
 
 + [Python Pandas（7）：Pandas 数据清洗](https://blog.csdn.net/qq_40298351/article/details/145543021)
 
++ [雷军力荐学 AI，背后隐藏着怎样的时代密码？](https://blog.csdn.net/2401_82648291/article/details/145493493)
+
++ [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://blog.csdn.net/2302_79177254/article/details/145552086)
+
++ [【大模型】阿里云百炼平台对接DeepSeek-R1大模型使用详解](https://blog.csdn.net/zhangcongyi420/article/details/145600254)
+
++ [AI语言模型的技术之争：DeepSeek与ChatGPT的架构与训练揭秘](https://blog.csdn.net/lrq13965748542/article/details/145597456)
+
++ [android的ViewModel这个类就是业务逻辑层吗](https://blog.csdn.net/yzpbright/article/details/145543461)
+
++ [本地部署【LLM-deepseek】大模型 ollama+deepseek/conda(python)+openwebui/docker+openwebui](https://blog.csdn.net/CsbLanca/article/details/145570524)
+
++ [【优化选址】基于模拟退火粒子群算法求解分布式电源定容选址优化规划附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/145593177)
+
++ [【基于SprintBoot+Mybatis+Mysql】电脑商城项目之获取省市区列表名称及收货地址列表展示](https://blog.csdn.net/m0_74202856/article/details/145476404)
+
++ [电影《哪吒之魔童闹海》迅雷BT完整BT下载[HD-1280P/3.86GBMKV高清]4k百度资源云分享](https://blog.csdn.net/dcvxzs/article/details/145595224)
+
++ [【DuodooBMS】开源软件：利他也能赚钱，开源MES就是好例子](https://blog.csdn.net/weixin_38708145/article/details/145602173)
+
++ [SpringBootWeb三层架构&分层解耦](https://blog.csdn.net/weixin_65552509/article/details/145573324)
+
++ [YOLOv11实战海洋动物图像识别](https://blog.csdn.net/weixin_40280870/article/details/145546601)
+
