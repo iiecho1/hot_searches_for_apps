@@ -167,3 +167,5 @@
 
 + [【Elasticsearch】监控与管理：集群监控指标](https://blog.csdn.net/lilinhai548/article/details/145568646)
 
++ [Python----PyQt开发（PyQt高级：图像显示，定时器，进度条）](https://blog.csdn.net/weixin_64110589/article/details/145556913)
+
