@@ -161,3 +161,9 @@
 
 + [Java 大视界 -- 5G 与 Java 大数据融合的行业应用与发展趋势（82）](https://blog.csdn.net/atgfg/article/details/145580998)
 
++ [R1复现之路上——首先复现DeepSeek V3：基于V3官方代码库MoE、MLA的实现，补充我对多token预测MTP的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
+
++ [【AIGC】语言模型的发展历程：从统计方法到大规模预训练模型的演化](https://blog.csdn.net/2201_75539691/article/details/145539385)
+
++ [【Elasticsearch】监控与管理：集群监控指标](https://blog.csdn.net/lilinhai548/article/details/145568646)
+

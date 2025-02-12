@@ -181,3 +181,11 @@
 
 + [阿根廷首都遭遇强暴风雨天气 约30万家庭断电](https://news.cctv.com/2025/02/12/ARTIdNSyCqGuKL10BDcPF216250212.shtml)
 
++ [塔苏拉斯当选希腊新一任总统](https://news.cctv.com/2025/02/12/ARTIH1HqFDWFxusygn2Vh3tK250212.shtml)
+
++ [“伊斯兰国”宣称制造阿富汗北部自杀式袭击](https://news.cctv.com/2025/02/12/ARTIXfhdkllyHVC26nbvEqhe250212.shtml)
+
++ [外眼看亚冬会：促进文化交流，“中国是很棒的东道主”](https://news.cctv.com/2025/02/12/ARTIMZVidFOBoJdSueViIggg250212.shtml)
+
++ [经济界人士称 特朗普加征关税令众多美国企业利益受损](https://news.cctv.com/2025/02/12/ARTIzotofrsedos0lJ5ye1Dg250212.shtml)
+
