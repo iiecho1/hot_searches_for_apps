@@ -125,3 +125,5 @@
 
 + [YOLOv11实战海洋动物图像识别](https://blog.csdn.net/weixin_40280870/article/details/145546601)
 
++ [SpringSecurity笔记（一步一步）](https://blog.csdn.net/weixin_49979926/article/details/145583387)
+
