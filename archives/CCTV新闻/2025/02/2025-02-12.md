@@ -189,3 +189,5 @@
 
 + [经济界人士称 特朗普加征关税令众多美国企业利益受损](https://news.cctv.com/2025/02/12/ARTIzotofrsedos0lJ5ye1Dg250212.shtml)
 
++ [希腊前议长塔苏拉斯当选希腊新总统](https://news.cctv.com/2025/02/12/ARTIcsxTxDnNXbepnKhlwabj250212.shtml)
+

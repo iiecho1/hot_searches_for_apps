@@ -169,3 +169,7 @@
 
 + [Python----PyQt开发（PyQt高级：图像显示，定时器，进度条）](https://blog.csdn.net/weixin_64110589/article/details/145556913)
 
++ [【大模型】硅基流动对接DeepSeek使用详解](https://blog.csdn.net/zhangcongyi420/article/details/145535970)
+
++ [【DeepSeek】在本地计算机上部署DeepSeek-R1大模型实战（完整版）](https://blog.csdn.net/Morse_Chen/article/details/145545230)
+
