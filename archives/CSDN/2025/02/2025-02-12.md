@@ -139,3 +139,7 @@
 
 + [快速部署 DeepSeek R1 模型](https://blog.csdn.net/2202_76097976/article/details/145564271)
 
++ [Linux系统编程之基本信号处理](https://blog.csdn.net/hope_wisdom/article/details/145537617)
+
++ [【Prometheus】如何通过prometheus监控redis实时运行状态，并实现告警通知](https://blog.csdn.net/littlefun591/article/details/145583780)
+

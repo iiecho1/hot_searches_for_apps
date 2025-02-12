@@ -167,3 +167,11 @@
 
 + [美国得克萨斯州一机场附近汽车爆炸 受伤人数升至5人](https://news.cctv.com/2025/02/12/ARTIwylMRoKgjtZHoNua9aqr250212.shtml)
 
++ [国际观察丨从慕安会报告看世界多极化机遇与挑战](https://news.cctv.com/2025/02/12/ARTIpeuHAbzMgSQeUlYzhk1z250212.shtml)
+
++ [“中国发展经验具有世界性意义”——访伊拉克共产党总书记拉伊德·法赫米](https://news.cctv.com/2025/02/12/ARTIKM2HD2fhmrzmV7UszmOn250212.shtml)
+
++ [【世界看亚冬】外媒眼中的亚冬会关键词：“绿色、科技、节俭”](https://news.cctv.com/2025/02/12/ARTIX1KqhJM4flbN9RIaFdCV250212.shtml)
+
++ [意大利埃特纳火山喷发](https://photo.cctv.com/2025/02/12/PHOAla1T2JQWZFyhDrpazgxa250212.shtml)
+
