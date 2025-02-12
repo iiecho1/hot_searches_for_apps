@@ -127,3 +127,5 @@
 
 + [SpringSecurity笔记（一步一步）](https://blog.csdn.net/weixin_49979926/article/details/145583387)
 
++ [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://blog.csdn.net/c858845275/article/details/145544208)
+
