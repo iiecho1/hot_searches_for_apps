@@ -147,3 +147,5 @@
 
 + [【前端框架与库】「React 全面解析」：从 JSX 语法到高阶组件，深度剖析前端开发中的核心概念与最佳实践](https://blog.csdn.net/ZT_LJ/article/details/145571408)
 
++ [R1复现之路——首先复现DeepSeek V3：基于V3官方代码库MoE、MLA的实现，补充多token预测MTP的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
+
