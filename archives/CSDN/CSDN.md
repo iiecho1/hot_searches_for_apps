@@ -187,3 +187,9 @@
 
 + [如何评估云原生GenAI应用开发中的安全风险（下）](https://blog.csdn.net/m0_66628975/article/details/145582172)
 
++ [深度揭秘 DeepSeek：AI 新贵与蓝耘智算平台的完美搭档](https://blog.csdn.net/2401_84720739/article/details/145577047)
+
++ [基于大数据的电商网络用户购物行为分析与可视化平台(源码+论文+PPT+部署文档教程等)](https://blog.csdn.net/weixin_39709134/article/details/145597673)
+
++ [DeepSeek模型架构及优化内容](https://blog.csdn.net/m0_60916732/article/details/145579828)
+
