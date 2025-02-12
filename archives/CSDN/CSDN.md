@@ -133,3 +133,9 @@
 
 + [【Linux】一文带你读懂Linux文件系统](https://blog.csdn.net/LHRan_ran_/article/details/145556605)
 
++ [wx057基于ssm+vue+uniapp的智慧乡村旅游服务小程序](https://blog.csdn.net/shmp54xmu/article/details/145557936)
+
++ [【再谈设计模式】中介者模式 - 协调对象间交互的枢纽](https://blog.csdn.net/wnm23/article/details/145551596)
+
++ [快速部署 DeepSeek R1 模型](https://blog.csdn.net/2202_76097976/article/details/145564271)
+

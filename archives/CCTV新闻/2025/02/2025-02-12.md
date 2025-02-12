@@ -165,3 +165,5 @@
 
 + [乌政府批准招募18至24岁乌公民参军计划](https://news.cctv.com/2025/02/12/ARTInTmZ4lQhaZsWN5tnw9e5250212.shtml)
 
++ [美国得克萨斯州一机场附近汽车爆炸 受伤人数升至5人](https://news.cctv.com/2025/02/12/ARTIwylMRoKgjtZHoNua9aqr250212.shtml)
+
