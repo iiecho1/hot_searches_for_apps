@@ -211,3 +211,9 @@
 
 + [云巅对决：这款神秘智算云平台凭什么在服务器虚拟化中称霸？](https://blog.csdn.net/weixin_73295475/article/details/145615223)
 
++ [盲注技术逐步获取数据库的表名、列名和具体数据](https://blog.csdn.net/myrouya/article/details/145589517)
+
++ [基于Java的分布式系统架构设计与实现](https://blog.csdn.net/shrgegrb/article/details/145600962)
+
++ [帮导师搭建实验室主页（HugoBlox+腾讯云轻量服务器）](https://blog.csdn.net/zdc1010/article/details/145609864)
+
