@@ -245,3 +245,5 @@
 
 + [专访丨中哈企业家经贸洽谈会成果丰硕——访哈萨克斯坦“阿塔梅肯”国家企业家协会主席巴塔洛夫](https://news.cctv.com/2025/02/13/ARTI8wdOorqAiCeL5xxocrIJ250213.shtml)
 
++ [日本大阪府多处井水有机氟化合物大幅超标](https://news.cctv.com/2025/02/13/ARTIqCBRL8H27cIIXSrRvQiD250213.shtml)
+
