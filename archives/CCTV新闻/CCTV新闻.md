@@ -239,3 +239,9 @@
 
 + [日本农田800棵卷心菜被盗，农户报警！此前价格涨至去年同期3倍](https://news.cctv.com/2025/02/13/ARTIJgva278YefEfgTObafFr250213.shtml)
 
++ [加拿大民众抗议美加征关税：取消赴美旅游 抵制美国产商品](https://news.cctv.com/2025/02/13/ARTIpbRrydA67tqFbJFm3n5g250213.shtml)
+
++ [专访｜期待哈中交流更加密切　携手取得更大成果——访哈萨克斯坦萨姆鲁克-卡森纳国家基金主席扎库波夫](https://news.cctv.com/2025/02/13/ARTI5cV8O81cojubRjv19MpJ250213.shtml)
+
++ [专访丨中哈企业家经贸洽谈会成果丰硕——访哈萨克斯坦“阿塔梅肯”国家企业家协会主席巴塔洛夫](https://news.cctv.com/2025/02/13/ARTI8wdOorqAiCeL5xxocrIJ250213.shtml)
+

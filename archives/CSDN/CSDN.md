@@ -197,3 +197,11 @@
 
 + [本地部署DeepSeek R1并搭建Web UI实现可视化交互的笔记](https://blog.csdn.net/userhu2012/article/details/145599288)
 
++ [从概念到落地：DeepSeek携手蓝耘平台，解锁AI赋能生活的实践](https://blog.csdn.net/bite_zwy/article/details/145605238)
+
++ [实战设计模式之原型模式](https://blog.csdn.net/hope_wisdom/article/details/145537692)
+
++ [蓝耘智算平台：开启企业级 DeepSeek 智能助手的搭建捷径](https://blog.csdn.net/2302_79177254/article/details/145598643)
+
++ [一键部署开源DeepSeek并集成到企业微信](https://blog.csdn.net/m0_62196601/article/details/145588441)
+

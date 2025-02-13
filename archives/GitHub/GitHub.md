@@ -33,3 +33,19 @@
 
 + [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
 
++ [block/goose](https://github.com/block/goose)
+
++ [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
++ [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
++ [Kong/kong](https://github.com/Kong/kong)
+
++ [potpie-ai/potpie](https://github.com/potpie-ai/potpie)
+
++ [netdata/netdata](https://github.com/netdata/netdata)
+
++ [ant-design/ant-design](https://github.com/ant-design/ant-design)
+
++ [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
