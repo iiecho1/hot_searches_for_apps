@@ -181,3 +181,11 @@
 
 + [NASA宣布：被困国际空间站的两名美国宇航员或将“提前返回地球”](https://news.cctv.com/2025/02/13/ARTITOdm7J8Kni1jfoZZxjWI250213.shtml)
 
++ [韩国政府称朝鲜正单方面拆除位于金刚山的离散家属会面所，并要求朝方立即停止这一行为](https://news.cctv.com/2025/02/13/ARTIdZ9lwDYUW45d6qf5z99S250213.shtml)
+
++ [一名中国留学生在美国遇害，中领馆通报](https://news.cctv.com/2025/02/13/ARTIwiE4sPxZ93t7i9Xljjr1250213.shtml)
+
++ [联合国安理会强烈谴责阿富汗恐怖袭击事件](https://news.cctv.com/2025/02/13/ARTIW2JblvMNhORWVAUc7EA0250213.shtml)
+
++ [美国人事管理办公室称“大规模裁员”已经开始](https://news.cctv.com/2025/02/13/ARTINaepTSKExhB14aSIGgCv250213.shtml)
+

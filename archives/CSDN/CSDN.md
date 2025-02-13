@@ -139,3 +139,9 @@
 
 + [【云安全】云原生-K8S- kubeconfig 文件泄露](https://blog.csdn.net/ggqiuhui/article/details/145593494)
 
++ [R1复现之路[上]——首先复现DeepSeek V3：在V3官方代码库对MoE、MLA的实现之外，补充我对多token预测MTP的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
+
++ [Vue中TypeScript对编程的各种影响](https://blog.csdn.net/sixpp/article/details/145582896)
+
++ [如何在Vscode中接入Deepseek](https://blog.csdn.net/Good_tea_h/article/details/145575246)
+
