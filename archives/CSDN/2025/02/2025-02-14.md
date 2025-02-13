@@ -123,3 +123,9 @@
 
 + [如何在 Elasticsearch 中设置向量搜索 - 第二部分](https://blog.csdn.net/UbuntuTouch/article/details/145562747)
 
++ [linux基于 openEuler 构建 LVS-DR 群集--一、用命令行完成 二、使用脚本完成](https://blog.csdn.net/2301_81851270/article/details/145575578)
+
++ [网络安全用centos干嘛 网络安全需要学linux吗](https://blog.csdn.net/2401_88750910/article/details/145570879)
+
++ [IS-IS 泛洪机制 | LSP 处理流程](https://blog.csdn.net/u013669912/article/details/145622265)
+
