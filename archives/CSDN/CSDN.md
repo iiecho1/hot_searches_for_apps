@@ -119,3 +119,7 @@
 
 + [名词解释：npm，cnpm，yarn，vite，vue，electron](https://blog.csdn.net/xiezhipu/article/details/145578261)
 
++ [DeepSeek 助力 Vue 开发：打造丝滑的进度条](https://blog.csdn.net/qq_33650655/article/details/145577034)
+
++ [如何在 Elasticsearch 中设置向量搜索 - 第二部分](https://blog.csdn.net/UbuntuTouch/article/details/145562747)
+
