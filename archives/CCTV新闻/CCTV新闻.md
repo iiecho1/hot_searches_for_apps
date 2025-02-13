@@ -231,3 +231,11 @@
 
 + [美媒：特朗普抨击美国教育部是“骗局”，称应“立即”关闭](https://news.cctv.com/2025/02/13/ARTIKxhc5r5pTbZ1yHyqTO8c250213.shtml)
 
++ [尹锡悦弹劾案庭审第八场公开辩论结束 18日将进行第九次辩论](https://news.cctv.com/2025/02/13/ARTI6OR3c7FcfSVkDTaW065s250213.shtml)
+
++ [苏丹快速支援部队袭击多座村庄 致数十名平民死亡](https://military.cctv.com/2025/02/13/ARTI0S3wimc3DKsU2yKjrNFC250213.shtml)
+
++ [以防长威胁重启战争 卡塔尔、埃及加紧调解](https://military.cctv.com/2025/02/13/ARTIMxbcyaLABP185sCpOsl5250213.shtml)
+
++ [日本农田800棵卷心菜被盗，农户报警！此前价格涨至去年同期3倍](https://news.cctv.com/2025/02/13/ARTIJgva278YefEfgTObafFr250213.shtml)
+

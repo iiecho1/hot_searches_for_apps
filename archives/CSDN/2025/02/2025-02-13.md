@@ -183,3 +183,15 @@
 
 + [学习threejs，使用HemisphereLight半球光](https://blog.csdn.net/qq_28419035/article/details/145592560)
 
++ [【SpringMVC】——Ajax知识总结](https://blog.csdn.net/shsjssnn/article/details/140601227)
+
++ [基于结构化状态空间对偶性的贝叶斯注意力机制设计与实现](https://blog.csdn.net/m0_46510245/article/details/145608951)
+
++ [网络编程(六)：C++实现基于reactor的百万级并发服务器](https://blog.csdn.net/qq_75158598/article/details/145418827)
+
++ [业务干挂数据库，Oracle内存分配不足](https://blog.csdn.net/weixin_41645135/article/details/145609954)
+
++ [区块链中的数字签名：安全性与可信度的核心](https://blog.csdn.net/weixin_73901614/article/details/144327961)
+
++ [服务器使用宝塔面板Docker应用快速部署 DeepSeek-R1模型，实现Open WebUI访问使用](https://blog.csdn.net/ttbobocom/article/details/145559880)
+
