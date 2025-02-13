@@ -217,3 +217,7 @@
 
 + [帮导师搭建实验室主页（HugoBlox+腾讯云轻量服务器）](https://blog.csdn.net/zdc1010/article/details/145609864)
 
++ [从当下到未来：蓝耘平台和 DeepSeek 应用实践的路径探索，勾勒 AI 未来新蓝图](https://blog.csdn.net/2301_80350265/article/details/145617206)
+
++ [TCP/IP参考模型和网络协议](https://blog.csdn.net/wlq_567/article/details/145573423)
+
