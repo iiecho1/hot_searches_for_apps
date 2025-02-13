@@ -105,3 +105,17 @@
 
 + [【AI 大模型】RAG 检索增强生成 ④ ( 向量相似度计算 | 余弦距离 | 欧式距离 | OpenAI 文本向量模型 | 手动实现的 余弦相似度 和 欧氏距离 函数计算 )](https://blog.csdn.net/han1202012/article/details/145267350)
 
++ [线性代数在科学计算中的MATLAB实现：矩阵分解与应用实例](https://blog.csdn.net/weixin_52908342/article/details/145601754)
+
++ [SpringBoot实战：高效获取视频资源](https://blog.csdn.net/Qingai521/article/details/145622426)
+
++ [基于Vue与SpringBoot框架在线电商交易平台](https://blog.csdn.net/qq_1406299528/article/details/145602043)
+
++ [Java在大数据处理中的应用：从MapReduce到Spark](https://blog.csdn.net/shrgegrb/article/details/145571678)
+
++ [STM32 RTC 实时时钟说明](https://blog.csdn.net/sinat_36070482/article/details/145589082)
+
++ [华为昇腾部署 DeepSeek-R1 (671B) 大模型实战指南](https://blog.csdn.net/MnivL/article/details/145559528)
+
++ [名词解释：npm，cnpm，yarn，vite，vue，electron](https://blog.csdn.net/xiezhipu/article/details/145578261)
+
