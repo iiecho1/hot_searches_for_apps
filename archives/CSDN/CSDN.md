@@ -167,3 +167,11 @@
 
 + [【算法学习】蓝耘云智算|利用DeepSeek R1模型提升数据结构与算法学习效率](https://blog.csdn.net/null18/article/details/145598707)
 
++ [Python从0到100（八十八）：LSTM网络详细介绍及实战指南](https://blog.csdn.net/weixin_51390582/article/details/145429530)
+
++ [【SpringMVC】——Ajaxhi知识总结](https://blog.csdn.net/shsjssnn/article/details/140601227)
+
++ [【机器人】四自由度简易机器人Matlab仿真（输入四个关节的旋转角度 位置坐标）](https://blog.csdn.net/matlab_dingdang/article/details/145607205)
+
++ [Java在大数据处理中的应用：从MapReduce到Spark](https://blog.csdn.net/shrgegrb/article/details/145571678)
+

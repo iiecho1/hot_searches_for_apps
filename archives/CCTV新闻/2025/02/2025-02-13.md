@@ -209,3 +209,9 @@
 
 + [60多项行政令 瘦身、叫停、加码 特朗普上任三周新动作不断](https://news.cctv.com/2025/02/13/ARTI9DcFXtvnDdNUjb6frFWj250213.shtml)
 
++ [备战加沙冲突重燃 以军重新征召预备役](https://military.cctv.com/2025/02/13/ARTI2blZOOqyuUFobwjOtV3S250213.shtml)
+
++ [欧洲议会议员：美国“退群”给世界带来不安](https://news.cctv.com/2025/02/13/ARTIff9j5qpcefUJhh8Q6QBE250213.shtml)
+
++ [美国得州启用“沙丘快车”降低页岩油开采成本](https://news.cctv.com/2025/02/13/ARTIIQ6XC1EUwTyGv7cLIIcA250213.shtml)
+
