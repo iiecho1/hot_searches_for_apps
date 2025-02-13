@@ -167,3 +167,11 @@
 
 + [美总统特朗普宣布对美贸易伙伴征收“对等关税”](https://news.cctv.com/2025/02/14/ARTIJrn8cgD8Cw0bq0X1Tllw250214.shtml)
 
++ [被指控挪用公款 法国前总理让·卡斯泰被警方拘留](https://news.cctv.com/2025/02/14/ARTIt2M4U3pu7EUqr3oDwU10250214.shtml)
+
++ [印度总理莫迪访问美国 关税将是会谈核心问题](https://news.cctv.com/2025/02/14/ARTIKlDDuO3Ph2EnORaxSN4b250214.shtml)
+
++ [泽连斯基：不接受没有乌克兰的“双边和谈”](https://news.cctv.com/2025/02/14/ARTI8BNry1URxbROYsmWrej7250214.shtml)
+
++ [美国航母在埃及附近与商船相撞](https://news.cctv.com/2025/02/14/ARTIvkZk5UZKATWwl7DTQ9V5250214.shtml)
+
