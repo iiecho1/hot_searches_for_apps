@@ -177,3 +177,7 @@
 
 + [埃及和卡塔尔正加紧调解防止加沙停火协议破裂](https://news.cctv.com/2025/02/13/ARTIi2BkFwRr3vu2O2Y8mwYs250213.shtml)
 
++ [美国8名被解雇监察官员对特朗普政府提起诉讼](https://news.cctv.com/2025/02/13/ARTIoXhbEMb4yY5BnkrdkADM250213.shtml)
+
++ [NASA宣布：被困国际空间站的两名美国宇航员或将“提前返回地球”](https://news.cctv.com/2025/02/13/ARTITOdm7J8Kni1jfoZZxjWI250213.shtml)
+
