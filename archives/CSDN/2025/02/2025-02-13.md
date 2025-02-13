@@ -161,3 +161,9 @@
 
 + [解锁WPS新技能：深度集成DeepSeek，开启高效办公新纪元](https://blog.csdn.net/fq1986614/article/details/145552781)
 
++ [【AI机器人】DeepSeek 强势加入：DooTask重磅升级，开启智能项目管理新时代](https://blog.csdn.net/weixin_43151418/article/details/145604544)
+
++ [R1复现之路[上]——复现DeepSeek V3：在V3官方代码库对MoE、MLA的推理代码之外，补充我对多token预测MTP训练代码的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
+
++ [【算法学习】蓝耘云智算|利用DeepSeek R1模型提升数据结构与算法学习效率](https://blog.csdn.net/null18/article/details/145598707)
+

@@ -77,3 +77,7 @@
 
 + [【弱音/MMD】花曜日](https://m.acfun.cn/v/%3Fac%3D46867334)
 
++ [理解孟德，成为孟德！★手机竖屏1425★](https://m.acfun.cn/v/%3Fac%3D46870029)
+
++ [双马尾加什么属性？](https://m.acfun.cn/v/%3Fac%3D46868399)
+
