@@ -189,3 +189,11 @@
 
 + [美国人事管理办公室称“大规模裁员”已经开始](https://news.cctv.com/2025/02/13/ARTINaepTSKExhB14aSIGgCv250213.shtml)
 
++ [奥地利自由党组阁失败 新政府组成再陷僵局](https://news.cctv.com/2025/02/13/ARTIxzWua8A7TQX9pR27eYNM250213.shtml)
+
++ [“中国是一个非常多元、令人着迷的国度”（外国游客感受“中国之美”）](https://news.cctv.com/2025/02/13/ARTIobDQ03rXVFGquitg9CGf250213.shtml)
+
++ [美国专家：美政府关税行动“不合法”全球经济恐陷险境](https://news.cctv.com/2025/02/13/ARTI6KFU0ZAavpv18u6zeLbF250213.shtml)
+
++ [综述｜“贸易战最终只会以牺牲双方的繁荣为代价”——美关税措施让盟友很受伤](https://news.cctv.com/2025/02/13/ARTIoRSKdYx1icynXw8vg6nY250213.shtml)
+

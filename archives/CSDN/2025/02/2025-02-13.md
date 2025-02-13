@@ -145,3 +145,13 @@
 
 + [如何在Vscode中接入Deepseek](https://blog.csdn.net/Good_tea_h/article/details/145575246)
 
++ [LabVIEW与USB设备开发](https://blog.csdn.net/bjcyck/article/details/145604039)
+
++ [C++ 实践扩展（Qt Creator 联动 Visual Studio 2022）](https://blog.csdn.net/island1314/article/details/145595742)
+
++ [DeepSeek免费部署到WPS或Office](https://blog.csdn.net/qq_57128262/article/details/145599170)
+
++ [5分钟掌握CentOS下Nginx配置实战（一）](https://blog.csdn.net/YXC_CSDN/article/details/145585938)
+
++ [实现限制同一个账号最多只能在3个客户端(有电脑、手机等）登录(附关键源码)](https://blog.csdn.net/dangbochang/article/details/145575831)
+
