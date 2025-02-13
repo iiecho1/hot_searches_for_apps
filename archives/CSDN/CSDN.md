@@ -155,3 +155,9 @@
 
 + [实现限制同一个账号最多只能在3个客户端(有电脑、手机等）登录(附关键源码)](https://blog.csdn.net/dangbochang/article/details/145575831)
 
++ [【AI 大模型】RAG 检索增强生成 ④ ( 向量相似度计算 | 余弦距离 | 欧式距离 | OpenAI 文本向量模型 | 手动实现的 余弦相似度 和 欧氏距离 函数计算 )](https://blog.csdn.net/han1202012/article/details/145267350)
+
++ [C++病毒(^_^|)（2）](https://blog.csdn.net/lijiale20150909/article/details/145579943)
+
++ [解锁WPS新技能：深度集成DeepSeek，开启高效办公新纪元](https://blog.csdn.net/fq1986614/article/details/145552781)
+

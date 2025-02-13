@@ -197,3 +197,9 @@
 
 + [综述｜“贸易战最终只会以牺牲双方的繁荣为代价”——美关税措施让盟友很受伤](https://news.cctv.com/2025/02/13/ARTIoRSKdYx1icynXw8vg6nY250213.shtml)
 
++ [滞留太空超8个月的美国宇航员有望3月中旬被接回](https://news.cctv.com/2025/02/13/ARTI4rnsuzFYeLYG4BlKYlJZ250213.shtml)
+
++ [美媒：特朗普政府启动联邦雇员“大规模裁减”](https://news.cctv.com/2025/02/13/ARTImHQo3yGyCch7p7ExFBuf250213.shtml)
+
++ [1.5小时，特朗普和普京电话里都聊了啥？](https://news.cctv.com/2025/02/13/ARTI3QhbQrjBqyoNpUZqVmEK250213.shtml)
+
