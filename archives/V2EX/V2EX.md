@@ -41,3 +41,5 @@
 
 + [现在的社会为什么深情且专一会被称为舔狗](https://www.v2ex.com/t/1111086)
 
++ [「送码」使用 Flutter 三个月独立开发一个生活记录应用 MarkNow](https://www.v2ex.com/t/1111081)
+

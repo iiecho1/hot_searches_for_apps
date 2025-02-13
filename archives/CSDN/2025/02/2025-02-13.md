@@ -175,3 +175,11 @@
 
 + [Java在大数据处理中的应用：从MapReduce到Spark](https://blog.csdn.net/shrgegrb/article/details/145571678)
 
++ [利用蓝耘智算平台深度搭建deepseek R1模型，进行深度机器学习](https://blog.csdn.net/K48932/article/details/145554132)
+
++ [动态住宅代理，网络世界的隐形桥梁](https://blog.csdn.net/guorui_java/article/details/145499610)
+
++ [复现DeepSeek V3——在V3官方代码库对MoE、MLA的推理代码之外，补充我对多token预测MTP训练代码的实现](https://blog.csdn.net/v_JULY_v/article/details/145552931)
+
++ [学习threejs，使用HemisphereLight半球光](https://blog.csdn.net/qq_28419035/article/details/145592560)
+
