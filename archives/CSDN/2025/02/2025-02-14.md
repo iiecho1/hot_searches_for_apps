@@ -101,3 +101,7 @@
 
 + [SQL与Hadoop的区分](https://blog.csdn.net/fengzongfu/article/details/145591316)
 
++ [Mysql中使用sql语句生成雪花算法Id](https://blog.csdn.net/qq_41805567/article/details/145611138)
+
++ [【AI 大模型】RAG 检索增强生成 ④ ( 向量相似度计算 | 余弦距离 | 欧式距离 | OpenAI 文本向量模型 | 手动实现的 余弦相似度 和 欧氏距离 函数计算 )](https://blog.csdn.net/han1202012/article/details/145267350)
+
