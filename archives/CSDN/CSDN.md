@@ -195,3 +195,5 @@
 
 + [服务器使用宝塔面板Docker应用快速部署 DeepSeek-R1模型，实现Open WebUI访问使用](https://blog.csdn.net/ttbobocom/article/details/145559880)
 
++ [本地部署DeepSeek R1并搭建Web UI实现可视化交互的笔记](https://blog.csdn.net/userhu2012/article/details/145599288)
+
