@@ -191,3 +191,9 @@
 
 + [美国阿拉斯加州以南发生5.8级地震，震源深度10千米](https://news.cctv.com/2025/02/14/ARTI6qjVK5GFCjhWqvLSEDT0250214.shtml)
 
++ [法国立法全面禁止销售和生产一次性电子烟](https://news.cctv.com/2025/02/14/ARTI5Cw9KzGuyAIQPhKkwzxP250214.shtml)
+
++ [美国退伍军人事务部宣布解雇1000多名员工](https://news.cctv.com/2025/02/14/ARTIaVpzK6a7uxe01CRXS9G9250214.shtml)
+
++ [东京电力公司开始拆除福岛第一核电站核污染水空罐](https://news.cctv.com/2025/02/14/ARTI1wm27V9PThSEGqjrh5A3250214.shtml)
+
