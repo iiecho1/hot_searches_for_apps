@@ -163,3 +163,11 @@
 
 + [缅甸逮捕29名涉赌涉诈人员](https://news.cctv.com/2025/02/15/ARTIRP6MiIG2baHuYzC4OFuu250215.shtml)
 
++ [OpenAI董事会一致拒绝马斯克收购该公司](https://news.cctv.com/2025/02/15/ARTIZgAhWBfMEXMUhgFGUzUb250215.shtml)
+
++ [美国陆军宣布将不再允许跨性别者参军](https://news.cctv.com/2025/02/15/ARTIppnwCP7AdbqsjxnvkeXx250215.shtml)
+
++ [埃塞俄比亚发生6.0级地震](https://news.cctv.com/2025/02/15/ARTIGSvQSnCNo74gz6pPRlEF250215.shtml)
+
++ [墨西哥总统要求美国对美军机在墨领空侦察飞行做出解释](https://news.cctv.com/2025/02/15/ARTIPJ5lLAKzSDViN0OlXxjF250215.shtml)
+
