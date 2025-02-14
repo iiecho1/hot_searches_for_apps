@@ -203,3 +203,9 @@
 
 + [清华大学：DeepSeek 如何赋能职场应用（35 页 PDF）](https://blog.csdn.net/wxaiway/article/details/145622743)
 
++ [解决DeepSeek服务器繁忙问题](https://blog.csdn.net/2401_83427936/article/details/145620612)
+
++ [网络安全要学python 、爬虫吗](https://blog.csdn.net/2401_88751289/article/details/145593803)
+
++ [uniapp 使用 鸿蒙开源字体](https://blog.csdn.net/orange1710/article/details/145589144)
+
