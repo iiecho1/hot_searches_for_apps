@@ -233,3 +233,5 @@
 
 + [切尔诺贝利核电站传出爆炸声 目前辐射水平正常](https://news.cctv.com/2025/02/14/ARTIUKZt1ybTL1N44LTfYI5G250214.shtml)
 
++ [老挝一中国商铺发生燃爆，已造成包括中国公民在内的4人死亡](https://news.cctv.com/2025/02/14/ARTIzGgkz2IcBjfKeOf8Bb6r250214.shtml)
+
