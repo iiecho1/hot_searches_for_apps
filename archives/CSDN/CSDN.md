@@ -199,3 +199,7 @@
 
 + [Flutter 异步编程利器：Future 与 Stream 深度解析](https://blog.csdn.net/g984160547/article/details/145630867)
 
++ [Docker环境下打造个人的Splayer云音乐平台与随时随地在线听歌](https://blog.csdn.net/VLOKL/article/details/145629500)
+
++ [清华大学：DeepSeek 如何赋能职场应用（35 页 PDF）](https://blog.csdn.net/wxaiway/article/details/145622743)
+
