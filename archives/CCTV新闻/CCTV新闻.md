@@ -239,3 +239,11 @@
 
 + [“特朗普的关税政策将注定失败”—— 专访美经济学家杰弗里·萨克斯](https://news.cctv.com/2025/02/14/ARTIPo81dpPJI84KCu9PpVXb250214.shtml)
 
++ [俄罗斯否认袭击切尔诺贝利核电站](https://news.cctv.com/2025/02/14/ARTIkAx0csvqmNhlYePjeJsh250214.shtml)
+
++ [德国警方：慕尼黑汽车撞人事件为蓄意袭击 共致36人受伤](https://news.cctv.com/2025/02/14/ARTInKAAmoeI1nmWXksI9bm4250214.shtml)
+
++ [乌称已完成美乌合作协议草案评估并向美方提交修订后文件](https://news.cctv.com/2025/02/14/ARTIV5euGQVmOusvhfpIbyAg250214.shtml)
+
++ [《哪吒之魔童闹海》进入全球动画票房榜前二](https://news.cctv.com/2025/02/14/ARTIr6obc1VI6LCUFJs0T1cZ250214.shtml)
+
