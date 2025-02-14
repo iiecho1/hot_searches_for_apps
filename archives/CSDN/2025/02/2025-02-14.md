@@ -173,3 +173,11 @@
 
 + [MySQL SQL优化策略：全面提升查询性能的实用技巧与深入分析](https://blog.csdn.net/qq_38411796/article/details/145628831)
 
++ [Spring Boot整合DeepSeek实现AI对话（API调用和本地部署）](https://blog.csdn.net/xiangjunyes/article/details/145574593)
+
++ [【数据可视化-17】基于pyecharts的印度犯罪数据可视化分析](https://blog.csdn.net/qq_38614074/article/details/145606340)
+
++ [DeepSeek笔记（一）：本地部署DeepSeek R1并搭建Web UI实现可视化交互的笔记](https://blog.csdn.net/userhu2012/article/details/145599288)
+
++ [分步指南：在VSCode中本地部署DeepSeek，打造强大私密的AI编程助手](https://blog.csdn.net/python123456_/article/details/145608159)
+
