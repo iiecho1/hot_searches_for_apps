@@ -135,3 +135,7 @@
 
 + [电脑公司的维修系统|基于java和小程序的电脑公司的维修平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/145624562)
 
++ [deepseek蓝耘云端智能助手：让AI成为你专属的智慧助理](https://blog.csdn.net/2301_81313679/article/details/145583720)
+
++ [在 PyCharm 中接入deepseek的API的各种方法](https://blog.csdn.net/qq_36053756/article/details/145582932)
+
