@@ -139,3 +139,5 @@
 
 + [在 PyCharm 中接入deepseek的API的各种方法](https://blog.csdn.net/qq_36053756/article/details/145582932)
 
++ [AI的好伴侣：搭建一个自然语言处理（NLP）系统的过程](https://blog.csdn.net/sixpp/article/details/145636556)
+
