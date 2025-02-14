@@ -31,3 +31,17 @@
 
 + [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 
++ [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+
++ [golang/go](https://github.com/golang/go)
+
++ [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
+
++ [Zipstack/unstract](https://github.com/Zipstack/unstract)
+
++ [go-playground/validator](https://github.com/go-playground/validator)
+
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+

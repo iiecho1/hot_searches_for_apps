@@ -25,3 +25,27 @@
 
 + [超越《死侍与金刚狼》，《哪吒之魔童闹海》进入全球影史票房榜前 20 名](https://m.ithome.com/html/829903.htm)
 
++ [苹果 CEO 库克官宣“家族最新成员”2 月 19 日发布](https://m.ithome.com/html/830716.htm)
+
++ [《哪吒 2》百亿票房达成！中国电影迎来里程碑时刻](https://m.ithome.com/html/830856.htm)
+
++ [苹果 iPhone 17 Pro 渲染图曝光：全新“相机条”设计](https://m.ithome.com/html/830780.htm)
+
++ [5.5 毫米极致纤薄：苹果最薄 iPhone 17 Air 上手视频曝光](https://m.ithome.com/html/830803.htm)
+
++ [华为余承东：把最基础入门级的智能驾驶辅助说成高阶智驾，是不合适的](https://m.ithome.com/html/830725.htm)
+
++ [游戏设备上海补贴开启：至高立减 2000 元，PS5 / Switch / Xbox 均支持补贴](https://m.ithome.com/html/830748.htm)
+
++ [比亚迪：非天神之眼 C 的车型改造智驾难度很大](https://m.ithome.com/html/830940.htm)
+
++ [春节档大片票房倒数第一：电影《蛟龙行动》宣布将制作特别版，择日再与观众见面](https://m.ithome.com/html/830751.htm)
+
++ [苹果翻新 Mac mini 定价引争议：M2 版本比 M4 更贵](https://m.ithome.com/html/830887.htm)
+
++ [被小米 SU7 Ultra 上赛圈速超越：保时捷发文恭喜，雷军称“依然是学习标杆”](https://m.ithome.com/html/830740.htm)
+
++ [为用户提供更多选择：消息称苹果仍在与百度合作为中国 iPhone 用户开发 AI 功能，分散风险](https://m.ithome.com/html/830785.htm)
+
++ [2 分 9 秒 944，小米 SU7 Ultra 成上海国际赛车场最速量产车](https://m.ithome.com/html/829903.htm)
+

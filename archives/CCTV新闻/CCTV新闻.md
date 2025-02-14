@@ -235,3 +235,5 @@
 
 + [老挝一中国商铺发生燃爆，已造成包括中国公民在内的4人死亡](https://news.cctv.com/2025/02/14/ARTIzGgkz2IcBjfKeOf8Bb6r250214.shtml)
 
++ [哪吒2进入全球票房TOP15](https://news.cctv.com/2025/02/14/ARTI4g7384U0zYoeOdCzIvo2250214.shtml)
+
