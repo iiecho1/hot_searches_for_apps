@@ -227,3 +227,9 @@
 
 + [中国驻札幌总领馆提醒中国公民谨防电信诈骗](https://news.cctv.com/2025/02/14/ARTIvzVj8v7u2EHo0vCiGEoG250214.shtml)
 
++ [外国人看完哪吒2后补习中国神话](https://news.cctv.com/2025/02/14/ARTIEkgObTMr30G16oosRu14250214.shtml)
+
++ [巴基斯坦一车辆遭路边炸弹袭击 造成至少11死6伤](https://news.cctv.com/2025/02/14/ARTIjHWS9ktAknEqDerWm4Ch250214.shtml)
+
++ [切尔诺贝利核电站传出爆炸声 目前辐射水平正常](https://news.cctv.com/2025/02/14/ARTIUKZt1ybTL1N44LTfYI5G250214.shtml)
+

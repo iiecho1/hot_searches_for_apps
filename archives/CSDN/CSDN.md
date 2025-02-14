@@ -165,3 +165,11 @@
 
 + [PortSwigger——WebSockets vulnerabilities](https://blog.csdn.net/qq_55202378/article/details/145569541)
 
++ [【AI赋能】蓝耘智算平台实战指南：3步构建企业级DeepSeek智能助手](https://blog.csdn.net/Skrrapper/article/details/145578622)
+
++ [Java 大视界 -- 云计算时代 Java 大数据的云原生架构与应用实践（86）](https://blog.csdn.net/atgfg/article/details/145619599)
+
++ [【Elasticsearch】监控与管理：集群健康检查](https://blog.csdn.net/lilinhai548/article/details/145627642)
+
++ [MySQL SQL优化策略：全面提升查询性能的实用技巧与深入分析](https://blog.csdn.net/qq_38411796/article/details/145628831)
+
