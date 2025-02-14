@@ -157,3 +157,11 @@
 
 + [jQuery介绍（快速、简洁JavaScript库，诞生于2006年，主要目标是简化HTML文档操作、事件处理、动画和Ajax交互）](https://blog.csdn.net/Dontla/article/details/145570000)
 
++ [DeepSeek助力：打造属于你的GPTs智能AI助手](https://blog.csdn.net/qq_32682301/article/details/145626014)
+
++ [DeepSeek 背后的技术：GRPO，基于群组采样的高效大语言模型强化学习训练方法详解](https://blog.csdn.net/m0_46510245/article/details/145626942)
+
++ [2025年3家大牌云电脑游戏、AIGC大PK，最低0.1元，配置不再是问题](https://blog.csdn.net/null18/article/details/145572269)
+
++ [PortSwigger——WebSockets vulnerabilities](https://blog.csdn.net/qq_55202378/article/details/145569541)
+

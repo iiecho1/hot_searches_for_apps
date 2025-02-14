@@ -211,3 +211,19 @@
 
 + [古巴电力紧缺 全国停工停学2日](https://news.cctv.com/2025/02/14/ARTIQs0OSpjdo7WlCDvqro7g250214.shtml)
 
++ [韩国釜山一酒店工地火灾 已致6死7伤](https://news.cctv.com/2025/02/14/ARTIt7v6RYFmDchvfPIqTDZd250214.shtml)
+
++ [巴拿马接收首批被美国遣返移民](https://news.cctv.com/2025/02/14/ARTIDi7ltAwiKDQH3KQl6tRf250214.shtml)
+
++ [巴基斯坦西南部发生炸弹袭击 至少10人死亡](https://news.cctv.com/2025/02/14/ARTIrFVIw9j8EmshBdiFJFQp250214.shtml)
+
++ [俄美元首通话后 两国被拘押人员互释回国](https://news.cctv.com/2025/02/14/ARTI7aj2qapeVTK7UuwCLam7250214.shtml)
+
++ [伊朗总统：美国想让我们羞辱投降 但我们不会这样做](https://news.cctv.com/2025/02/14/ARTIFY824Vz9QlUvFETixKyL250214.shtml)
+
++ [苏丹西部一难民营多次遇袭 造成31人死亡](https://news.cctv.com/2025/02/14/ARTIw1ZIiMoUheYLKCO2tuQk250214.shtml)
+
++ [尹锡悦弹劾案第10次庭审将于20日14时进行](https://news.cctv.com/2025/02/14/ARTIMjBQSup5n3PCrthsAwHO250214.shtml)
+
++ [中国驻札幌总领馆提醒中国公民谨防电信诈骗](https://news.cctv.com/2025/02/14/ARTIvzVj8v7u2EHo0vCiGEoG250214.shtml)
+
