@@ -145,3 +145,9 @@
 
 + [DeepSeek全方位解读：模型介绍，优势及应用场景](https://blog.csdn.net/weixin_44733966/article/details/145586667)
 
++ [嵌入式学习路线（二）](https://blog.csdn.net/dllglvzhenfeng/article/details/145509789)
+
++ [Linux部署DeepSeek r1 模型训练](https://blog.csdn.net/unbuntu_luo/article/details/145571871)
+
++ [React 低代码项目：组件设计](https://blog.csdn.net/CaptainDrake/article/details/145621838)
+

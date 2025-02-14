@@ -175,3 +175,19 @@
 
 + [美国航母在埃及附近与商船相撞](https://news.cctv.com/2025/02/14/ARTIvkZk5UZKATWwl7DTQ9V5250214.shtml)
 
++ [北约举行“坚定飞镖-2025”军事演习](https://news.cctv.com/2025/02/14/ARTIeq98ggwQArAt5RneeLOc250214.shtml)
+
++ [白宫就“对等关税”政策发声明：特朗普将推出一项“公平互惠计划”](https://news.cctv.com/2025/02/14/ARTI1k6OM8wK66iOEQKA5VKf250214.shtml)
+
++ [特朗普：普京想就俄乌冲突达成协议](https://news.cctv.com/2025/02/14/ARTIklBJaRuDA3QPVLGRGbHw250214.shtml)
+
++ [美总统特朗普签署行政令 成立“美国再次健康”委员会](https://news.cctv.com/2025/02/14/ARTIluKTWKRG2awfyf1iu3up250214.shtml)
+
++ [特朗普：可能会将国防开支减半](https://news.cctv.com/2025/02/14/ARTIHgvWj8KHs6TLRjxTTaPH250214.shtml)
+
++ [促市场流通 日本将于下月首次投放21万吨储备米](https://news.cctv.com/2025/02/14/ARTIvgCjUG2LGB4Wz4uVWS7n250214.shtml)
+
++ [中国驻墨西哥使馆严正声明：正告美方收起傲慢与偏见](https://news.cctv.com/2025/02/14/ARTIbKwuK98XBZPZCHDgFeWn250214.shtml)
+
++ [美国阿拉斯加州以南发生5.8级地震，震源深度10千米](https://news.cctv.com/2025/02/14/ARTI6qjVK5GFCjhWqvLSEDT0250214.shtml)
+
