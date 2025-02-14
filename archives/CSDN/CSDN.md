@@ -153,3 +153,7 @@
 
 + [独家专访 Tcl 语言之父 John Ousterhout 院士：行之有效的编程与设计哲学](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/145602211)
 
++ [【大语言模型】最新ChatGPT、DeepSeek等大语言模型助力高效办公、论文与项目撰写、数据分析、机器学习与深度学习建模等科研应用](https://blog.csdn.net/JNLWLAQ/article/details/145588318)
+
++ [jQuery介绍（快速、简洁JavaScript库，诞生于2006年，主要目标是简化HTML文档操作、事件处理、动画和Ajax交互）](https://blog.csdn.net/Dontla/article/details/145570000)
+
