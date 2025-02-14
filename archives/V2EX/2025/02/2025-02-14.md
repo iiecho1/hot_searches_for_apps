@@ -37,3 +37,7 @@
 
 + [现在大家手机卡套餐，怎么选择](https://www.v2ex.com/t/1111343)
 
++ [ai 对程序员行业的冲击到底有多大](https://www.v2ex.com/t/1111274)
+
++ [求/许愿/求偶 灵魂 partner](https://www.v2ex.com/t/1111315)
+

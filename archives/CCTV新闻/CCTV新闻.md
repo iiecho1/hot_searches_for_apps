@@ -197,3 +197,17 @@
 
 + [东京电力公司开始拆除福岛第一核电站核污染水空罐](https://news.cctv.com/2025/02/14/ARTI1wm27V9PThSEGqjrh5A3250214.shtml)
 
++ [美国防长：欧洲应承担自身防务责任，“山姆大叔”不会成为“傻瓜大叔”](https://news.cctv.com/2025/02/14/ARTIpcrOxXtnB92bczHwPz7B250214.shtml)
+
++ [韩国釜山一建筑工地发生火灾 8人心跳停止](https://news.cctv.com/2025/02/14/ARTIeV59QusrgQ8LYM0EM3DC250214.shtml)
+
++ [外媒：特朗普称希望俄罗斯重返G7](https://news.cctv.com/2025/02/14/ARTIveSEjbuN9CvFxPkRxfEp250214.shtml)
+
++ [特朗普：美国将向印度出售F-35隐形战斗机](https://news.cctv.com/2025/02/14/ARTILUmQ6ySwqm3eafbxN1Iz250214.shtml)
+
++ [墨西哥总统：或就“墨西哥湾”更名一事起诉谷歌](https://news.cctv.com/2025/02/14/ARTIX6FZ6ftVgeedTfSJtSG6250214.shtml)
+
++ [韩国政府敦促医疗界重返谈判桌重启对话](https://news.cctv.com/2025/02/14/ARTIPHdeTzyKwXS2cTkti79n250214.shtml)
+
++ [古巴电力紧缺 全国停工停学2日](https://news.cctv.com/2025/02/14/ARTIQs0OSpjdo7WlCDvqro7g250214.shtml)
+
