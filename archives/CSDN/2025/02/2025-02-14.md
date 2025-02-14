@@ -189,3 +189,7 @@
 
 + [Uniapp 获取定位详解：从申请Key到实现定位功能](https://blog.csdn.net/mss359681091/article/details/145620300)
 
++ [Deepseek R1模型本地化部署+API接口调用详细教程：释放AI生产力](https://blog.csdn.net/2301_80840905/article/details/145636449)
+
++ [Docker 部署 MYSQL-5.7 主从](https://blog.csdn.net/qq_26629277/article/details/145589789)
+
