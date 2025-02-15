@@ -61,3 +61,5 @@
 
 + [CRYCHIC - 春日影 / THE FIRST TAKE](https://m.acfun.cn/v/%3Fac%3D46879630)
 
++ [笑vs哭唱歌](https://m.acfun.cn/v/%3Fac%3D46882687)
+

@@ -99,3 +99,19 @@
 
 + [国内可用的 Docker 镜像源测试指南](https://blog.csdn.net/qq_63147768/article/details/145640453)
 
++ [遗传算法与深度学习实战（35）——使用遗传算法优化生成对抗网络](https://blog.csdn.net/LOVEmy134611/article/details/145628035)
+
++ [Python从0到100（八十八）：LSTM网络详细介绍及实战指南](https://blog.csdn.net/weixin_51390582/article/details/145429530)
+
++ [wx061基于ssm+vue+uniapp的疫情期间学生请假与销假系统小程序](https://blog.csdn.net/shmp54xmu/article/details/145643210)
+
++ [【系统架构设计师】操作系统 - 进程管理 ② ( 进程状态 | 三态模型 | 五态模型 | 进程状态 划分依据 | PCB 程序控制块 的 组织方式 )](https://blog.csdn.net/han1202012/article/details/145603845)
+
++ [Elasticsearch：15 年来致力于索引一切，找到重要内容](https://blog.csdn.net/UbuntuTouch/article/details/145609609)
+
++ [分步指南：在VSCode中本地部署DeepSeek，打造强大私密的AI编程助手](https://blog.csdn.net/python123456_/article/details/145608159)
+
++ [Vue和React的区别](https://blog.csdn.net/weixin_46191445/article/details/145635735)
+
++ [全面了解ChatGPT现有模型各版本：o3-mini-high，o3-mini，o1，GPT-4o mini，GPT-4o，GPT-4 对比分析](https://blog.csdn.net/dianqiyisheng/article/details/145604313)
+
