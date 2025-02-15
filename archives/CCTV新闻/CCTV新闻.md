@@ -193,3 +193,7 @@
 
 + [俄罗斯西伯利亚西部发生5.8级地震，震源深度20千米](https://news.cctv.com/2025/02/15/ARTITxl3vFl3h40gpBFT5Y59250215.shtml)
 
++ [独家采访驻美大使谢锋：《哪吒2》的爆火仅仅只是开始](https://news.cctv.com/2025/02/15/ARTIPlSkOBvP9oOX3ZYDpFTP250215.shtml)
+
++ [高端访谈｜专访巴基斯坦总统扎尔达里](https://news.cctv.com/2025/02/15/ARTIFDEVcBHdaWBoRsSzvWga250215.shtml)
+
