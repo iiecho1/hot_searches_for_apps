@@ -49,3 +49,7 @@
 
 + [关于丁克问题我说说我考虑的吧](https://www.v2ex.com/t/1111644)
 
++ [30 岁普通程序员未来怎么办？](https://www.v2ex.com/t/1111643)
+
++ [好想搞 Acer 那台骁龙 X Elite 笔记本，纠结中](https://www.v2ex.com/t/1111637)
+
