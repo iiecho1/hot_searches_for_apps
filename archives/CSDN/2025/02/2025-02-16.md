@@ -139,3 +139,5 @@
 
 + [MySQL数据库误删恢复_mysql 数据 误删](https://blog.csdn.net/web18285997089/article/details/145642598)
 
++ [解决ZYNQ烧录QSPI FLASH问题 [Xicom 50-186] Error while detecting SPI flash device - unrecognized JEDEC id](https://blog.csdn.net/m0_73388790/article/details/145646460)
+
