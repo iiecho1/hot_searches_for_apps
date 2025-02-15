@@ -141,3 +141,9 @@
 
 + [AI的好伴侣：搭建一个自然语言处理（NLP）系统的过程](https://blog.csdn.net/sixpp/article/details/145636556)
 
++ [智慧城市V4系统小程序源码独立版全插件全开源](https://blog.csdn.net/2401_84293052/article/details/145615752)
+
++ [业务干挂数据库，Oracle内存分配不足](https://blog.csdn.net/weixin_41645135/article/details/145609954)
+
++ [使用Python爬虫实时监控行业新闻案例](https://blog.csdn.net/qq_44273429/article/details/145624915)
+
