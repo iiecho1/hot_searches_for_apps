@@ -175,3 +175,21 @@
 
 + [加德满都连锁餐饮店煤气爆炸事故已致3人死亡](https://news.cctv.com/2025/02/15/ARTInJjC4JzriKQBpNS6kxpL250215.shtml)
 
++ [综述｜“单边主义和逆全球化做法将产生反作用”——美关税措施扰乱供应链引担忧](https://news.cctv.com/2025/02/15/ARTId3QdALHOSxQDZQFzBdSv250215.shtml)
+
++ [欧盟称将“坚决即时”回应特朗普“对等关税”政策](https://news.cctv.com/2025/02/15/ARTI6QRc39wnAcvITAX3TZ8R250215.shtml)
+
++ [墨西哥总统：特朗普就任后美方已向墨遣返13455人](https://news.cctv.com/2025/02/15/ARTI194FFkbUGWGifvp9x2ys250215.shtml)
+
++ [特朗普政府“大规模裁员”持续进行 又有近万人被解雇](https://news.cctv.com/2025/02/15/ARTIBya6FHkRA1JNUoVKhXDs250215.shtml)
+
++ [知情人士：美国核武器机构暂停大规模裁员](https://news.cctv.com/2025/02/15/ARTInmCQXlD8y2MxHUC2yHc4250215.shtml)
+
++ [都灵埃及博物馆200年：最古老的埃及博物馆是如何诞生的](https://news.cctv.com/2025/02/15/ARTI1WeZRYFrO62iLnboHCOj250215.shtml)
+
++ [白宫无限期禁止美联社记者进入椭圆形办公室和“空军一号”](https://news.cctv.com/2025/02/15/ARTI33xldBLc1OMAQKECF1UN250215.shtml)
+
++ [乌总统泽连斯基与美副总统万斯会面 讨论安全保障等问题](https://news.cctv.com/2025/02/15/ARTIMAYGz2shF5vnF987Aabi250215.shtml)
+
++ [俄罗斯西伯利亚西部发生5.8级地震，震源深度20千米](https://news.cctv.com/2025/02/15/ARTITxl3vFl3h40gpBFT5Y59250215.shtml)
+
