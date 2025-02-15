@@ -53,3 +53,5 @@
 
 + [好想搞 Acer 那台骁龙 X Elite 笔记本，纠结中](https://www.v2ex.com/t/1111637)
 
++ [CDN 被恶意请求攻击，平白无故烧去很多费用，如何防御？](https://www.v2ex.com/t/1111653)
+

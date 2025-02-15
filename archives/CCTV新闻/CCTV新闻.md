@@ -221,3 +221,13 @@
 
 + [3名以方人员被移交 开启加沙停火协议第六轮被扣押人员交换](https://military.cctv.com/2025/02/15/ARTI8eyKDJbcOqriMXloJqtn250215.shtml)
 
++ [菲律宾坎拉翁火山发生喷发 火山灰柱高达1500米](https://news.cctv.com/2025/02/15/ARTIW6n7GNZDFKMD8IJv1uZr250215.shtml)
+
++ [巴基斯坦信德省发生车祸 已致6人死亡](https://news.cctv.com/2025/02/15/ARTIweLdchJkoTgAiJQHhXKt250215.shtml)
+
++ [联合国机构：以军行动致约旦河西岸超4万人流离失所](https://news.cctv.com/2025/02/15/ARTI3pG6XPMqhFYBsaovgWO3250215.shtml)
+
++ [哈马斯希望下周起通过调解方与以色列开始第二阶段谈判](https://news.cctv.com/2025/02/15/ARTIuXDs0JRyAOdzAll129x7250215.shtml)
+
++ [综述丨美联邦政府削减科研经费引反对潮](https://news.cctv.com/2025/02/15/ARTI0YSGZ6onU1t9MIJ1b1ex250215.shtml)
+

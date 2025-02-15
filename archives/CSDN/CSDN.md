@@ -189,3 +189,9 @@
 
 + [spring 学习 （注解）](https://blog.csdn.net/m0_74124657/article/details/145619837)
 
++ [大语言模型的解码策略与关键优化总结](https://blog.csdn.net/m0_46510245/article/details/145647301)
+
++ [wireshark 网络安全 awd 网络安全](https://blog.csdn.net/2401_88326655/article/details/145611153)
+
++ [软件工程之软件需求SWE.1](https://blog.csdn.net/qq_30878817/article/details/145637227)
+
