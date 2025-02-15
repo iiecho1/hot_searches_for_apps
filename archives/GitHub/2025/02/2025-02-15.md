@@ -25,3 +25,23 @@
 
 + [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools)
 
++ [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+
++ [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
+
++ [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+
++ [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
++ [wger-project/wger](https://github.com/wger-project/wger)
+
++ [tpn/pdfs](https://github.com/tpn/pdfs)
+
++ [block/goose](https://github.com/block/goose)
+
++ [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy)
+
++ [catchorg/Catch2](https://github.com/catchorg/Catch2)
+

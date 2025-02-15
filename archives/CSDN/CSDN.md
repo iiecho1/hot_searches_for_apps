@@ -195,3 +195,7 @@
 
 + [软件工程之软件需求SWE.1](https://blog.csdn.net/qq_30878817/article/details/145637227)
 
++ [Java 大视界 -- 量子计算时代 Java 大数据的潜在变革与应对策略（88）](https://blog.csdn.net/atgfg/article/details/145643841)
+
++ [【Docker】Docker Run 中指定 `bash` 和 `sh` 参数的区别：深入解析与实践指南](https://blog.csdn.net/LHRan_ran_/article/details/145646209)
+
