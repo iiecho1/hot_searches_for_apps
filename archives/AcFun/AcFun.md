@@ -129,3 +129,7 @@
 
 + [【翻唱】千言万语不如一首《告白气球》【华莉丝Wallis】](https://m.acfun.cn/v/%3Fac%3D46879007)
 
++ [【VUP教学】VTS面捕软件教学篇【告白情书】](https://m.acfun.cn/v/%3Fac%3D46881395)
+
++ [“人心不是笼中鸟 而是原上草”](https://m.acfun.cn/v/%3Fac%3D46880899)
+
