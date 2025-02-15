@@ -197,3 +197,9 @@
 
 + [高端访谈｜专访巴基斯坦总统扎尔达里](https://news.cctv.com/2025/02/15/ARTIFDEVcBHdaWBoRsSzvWga250215.shtml)
 
++ [朝鲜国防省：提升自卫力量是保证国家安全的必然要求](https://news.cctv.com/2025/02/15/ARTIU3poaOE82FKgz15nHKJz250215.shtml)
+
++ [菲律宾帕赛市火灾已致4人死亡 2人受伤](https://news.cctv.com/2025/02/15/ARTI2AalERp368bHbWqpWFrs250215.shtml)
+
++ [印度北方邦发生严重交通事故 已造成10人死亡](https://news.cctv.com/2025/02/15/ARTIJTtH5h0z6EfB0rKBAnsP250215.shtml)
+

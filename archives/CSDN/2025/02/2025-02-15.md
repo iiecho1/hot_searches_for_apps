@@ -173,3 +173,11 @@
 
 + [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_85023453/article/details/145632459)
 
++ [蓝耘云智算|使用 Deepseek R1 模型优化 BERT 在 NLP 任务中的表现](https://blog.csdn.net/null18/article/details/145646094)
+
++ [【C++内存管理】—— 策略、陷阱及应对之道](https://blog.csdn.net/bite_zwy/article/details/145577786)
+
++ [VividTalk：南京大学、阿里巴巴等机构联合研发的开源3D说话人生成框架](https://blog.csdn.net/xiaobing259/article/details/145646119)
+
++ [DeepSeekApi对接流式输出异步聊天功能：基于Spring Boot和OkHttp的SSE应用实现](https://blog.csdn.net/weixin_43290370/article/details/145605099)
+
