@@ -171,3 +171,7 @@
 
 + [墨西哥总统要求美国对美军机在墨领空侦察飞行做出解释](https://news.cctv.com/2025/02/15/ARTIPJ5lLAKzSDViN0OlXxjF250215.shtml)
 
++ [俄罗斯、蒙古边境地区附近发生6.0级左右地震](https://news.cctv.com/2025/02/15/ARTIwM5cXudE9PrnG19Jx2O3250215.shtml)
+
++ [加德满都连锁餐饮店煤气爆炸事故已致3人死亡](https://news.cctv.com/2025/02/15/ARTInJjC4JzriKQBpNS6kxpL250215.shtml)
+

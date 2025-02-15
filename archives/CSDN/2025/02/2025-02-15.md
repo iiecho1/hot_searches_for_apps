@@ -147,3 +147,7 @@
 
 + [使用Python爬虫实时监控行业新闻案例](https://blog.csdn.net/qq_44273429/article/details/145624915)
 
++ [蓝耘智算平台部署deepseek-深度学习](https://blog.csdn.net/2401_84050400/article/details/145583904)
+
++ [爬虫实战：利用代理ip爬取推特网站数据](https://blog.csdn.net/m0_73367097/article/details/145639379)
+
