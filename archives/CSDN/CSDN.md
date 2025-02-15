@@ -115,3 +115,23 @@
 
 + [全面了解ChatGPT现有模型各版本：o3-mini-high，o3-mini，o1，GPT-4o mini，GPT-4o，GPT-4 对比分析](https://blog.csdn.net/dianqiyisheng/article/details/145604313)
 
++ [调用DeepSeek API接口：实现智能数据挖掘与分析](https://blog.csdn.net/m0_72606784/article/details/145639579)
+
++ [Java开发者的AI革命：从代码生成到智能维护的全链路升级](https://blog.csdn.net/m0_60674045/article/details/145606077)
+
++ [Mysql中使用sql语句生成雪花算法Id](https://blog.csdn.net/qq_41805567/article/details/145611138)
+
++ [springboot集成zookeeper的增删改查、节点监听、分布式读写锁、分布式计数器](https://blog.csdn.net/weixin_46619605/article/details/145635759)
+
++ [应急响应（linux 篇，以centos 7为例）](https://blog.csdn.net/2402_83134109/article/details/145641007)
+
++ [网络安全防护：开源WAF雷池SafeLine本地部署与配置全流程](https://blog.csdn.net/m0_73879806/article/details/145654170)
+
++ [DDoS技术解析](https://blog.csdn.net/Themberfue/article/details/145591430)
+
++ [3天功能开发→3小时：通义灵码2.0+DEEPSEEK实测报告，单元测试生成准确率92%的秘密](https://blog.csdn.net/2301_80863610/article/details/145642464)
+
++ [蓝耘智算平台：开启企业级 DeepSeek 智能助手的搭建捷径](https://blog.csdn.net/2302_79177254/article/details/145598643)
+
++ [unity学习37：新版的动画器：动画状态机 Animator](https://blog.csdn.net/xuemanqianshan/article/details/145634078)
+
