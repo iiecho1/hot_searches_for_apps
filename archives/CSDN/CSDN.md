@@ -173,3 +173,5 @@
 
 + [网上购物|基于SprinBoot+vue的网上购物系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/145661074)
 
++ [Node.js 调用 DeepSeek API 完整指南](https://blog.csdn.net/m0_74823490/article/details/145643711)
+
