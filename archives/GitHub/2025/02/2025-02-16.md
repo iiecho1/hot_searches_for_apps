@@ -31,3 +31,19 @@
 
 + [catchorg/Catch2](https://github.com/catchorg/Catch2)
 
++ [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
+
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [unionlabs/union](https://github.com/unionlabs/union)
+
++ [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [cordx56/rustowl](https://github.com/cordx56/rustowl)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
+
++ [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+

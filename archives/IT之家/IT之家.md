@@ -25,3 +25,27 @@
 
 + [雷军：小米预计今年继续保持 30% 以上增长速度](https://m.ithome.com/html/829903.htm)
 
++ [小米 SU7 过坑“断轴”车主发声：发誓出事故后才喝了酒，决定自费维修](https://m.ithome.com/html/831192.htm)
+
++ [消息称微信正在内测接入 DeepSeek-R1 大模型](https://m.ithome.com/html/831186.htm)
+
++ [奥斯卡评委喊话饺子导演：希望《哪吒之魔童闹海》角逐奥斯卡奖](https://m.ithome.com/html/831198.htm)
+
++ [收款变付款，长沙一商户被“隔空”盗刷支付宝上千元](https://m.ithome.com/html/831220.htm)
+
++ [微信接入 DeepSeek：腾讯官方回应称灰度测试中，可免费使用 R1 满血版模型](https://m.ithome.com/html/831181.htm)
+
++ [雷军：小米 5 年间投入 1050 亿元用于核心技术的研发](https://m.ithome.com/html/831259.htm)
+
++ [消息称微信悄悄新增支持“通讯录加满万人后可一次性删除所有单向好友”功能](https://m.ithome.com/html/831191.htm)
+
++ [别克 GL8 陆上公务舱 MPV 限时价 18.99 万元起，比指导价降 4.3 万](https://m.ithome.com/html/831233.htm)
+
++ [微软 Win11 24H2 系统停止官方支持英特尔第 8、9、10 代酷睿处理器，不影响老用户](https://m.ithome.com/html/831182.htm)
+
++ [央视：爱玩游戏不等于沉迷游戏，出现游戏障碍要去专业的医疗机构接受评估和治疗](https://m.ithome.com/html/831179.htm)
+
++ [比亚迪孙华军：2027 年启动全固态电池批量示范装车应用](https://m.ithome.com/html/831254.htm)
+
++ [不蒸馏 R1 也能超越 DeepSeek，上海 AI Lab 用 RL 突破数学推理极限](https://m.ithome.com/html/829903.htm)
+
