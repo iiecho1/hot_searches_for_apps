@@ -207,3 +207,5 @@
 
 + [deepseek接入word的代码](https://blog.csdn.net/weixin_70682362/article/details/145631146)
 
++ [PyTorch MNIST Dataset](https://blog.csdn.net/chengyq116/article/details/145664039)
+
