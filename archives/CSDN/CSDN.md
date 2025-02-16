@@ -125,3 +125,5 @@
 
 + [【医学影像 AI】HVDROPDB：早产儿视网膜病变研究数据集](https://blog.csdn.net/youcans/article/details/145646900)
 
++ [Nacos 动态服务发现与配置管理](https://blog.csdn.net/slovess/article/details/145657279)
+
