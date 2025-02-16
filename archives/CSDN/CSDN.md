@@ -149,3 +149,5 @@
 
 + [DeepSeek金融风控实战：反欺诈模型的进阶之路（6/18）](https://blog.csdn.net/beautifulmemory/article/details/145651833)
 
++ [红队视角出发的k8s敏感信息收集——持久化存储与数据泄露](https://blog.csdn.net/qq_44373268/article/details/145640039)
+
