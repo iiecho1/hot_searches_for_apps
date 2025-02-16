@@ -183,3 +183,9 @@
 
 + [加拿大国旗日激发民众爱国热潮 对美国吞并言论说“不”](https://news.cctv.com/2025/02/16/ARTIPhmDLXv6NcutstASN54o250216.shtml)
 
++ [警察扮动漫形象 秘鲁重拳打击毒品犯罪](https://news.cctv.com/2025/02/16/ARTIkGSJ3sUoOqtnc6euRPjw250216.shtml)
+
++ [美国特使：欧洲没份参与乌克兰和谈](https://news.cctv.com/2025/02/16/ARTIn4NekLRgzFMkck2BNcJG250216.shtml)
+
++ [印度新德里火车站踩踏事件已致18人死亡](https://news.cctv.com/2025/02/16/ARTIak2cF1INwWzx0mHDlIqb250216.shtml)
+

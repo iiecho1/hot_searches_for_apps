@@ -161,3 +161,15 @@
 
 + [网络安全用centos干嘛 网络安全需要学linux吗](https://blog.csdn.net/2401_88326437/article/details/145636562)
 
++ [【基于SprintBoot+Mybatis+Mysql】电脑商城项目之设置默认收货地址及删除收货地址](https://blog.csdn.net/m0_74202856/article/details/145512610)
+
++ [深度剖析 Video-RAG：厦门大学和罗切斯特大学联合推出的一种用于长视频理解的检索增强生成技术](https://blog.csdn.net/xiaobing259/article/details/145646404)
+
++ [web的分离不分离：前后端分离与不分离全面分析](https://blog.csdn.net/sixpp/article/details/145661209)
+
++ [DeepSeek处理自有业务的案例：让AI给你写一份小众编辑器(EverEdit)的语法着色文件](https://blog.csdn.net/tyysoft/article/details/145617287)
+
++ [在SpringBoot中使用UniHttp简化天地图路径规划调用实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/145660638)
+
++ [网上购物|基于SprinBoot+vue的网上购物系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/145661074)
+
