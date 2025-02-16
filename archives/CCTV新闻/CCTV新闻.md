@@ -193,3 +193,9 @@
 
 + [《哪吒2》北美首日票房310万美元 位列排行榜第4](https://news.cctv.com/2025/02/16/ARTI3X0cked0OgZsUPtqREaL250216.shtml)
 
++ [特朗普出手？拜登签署的《芯片法案》悬了？](https://news.cctv.com/2025/02/16/ARTIzlOH3qEPINcIVKKEi1tM250216.shtml)
+
++ [特朗普政府“松绑” 大批美制重型炸弹深夜运抵以色列](https://news.cctv.com/2025/02/16/ARTISJj38xZ5dNdy6ZSC1iWt250216.shtml)
+
++ [慕安会多国与会人士批美挥舞“关税大棒”](https://news.cctv.com/2025/02/16/ARTIIiDUaSeDa2I6jgg52sqm250216.shtml)
+
