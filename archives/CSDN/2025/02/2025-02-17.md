@@ -127,3 +127,5 @@
 
 + [Nacos 动态服务发现与配置管理](https://blog.csdn.net/slovess/article/details/145657279)
 
++ [本地部署开源AI大模型工作流神器Flowise结合cpolar内网穿透远程访问与使用](https://blog.csdn.net/LT15171009269/article/details/145672349)
+
