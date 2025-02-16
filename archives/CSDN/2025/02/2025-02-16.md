@@ -197,3 +197,9 @@
 
 + [NVIDIA 开发者社区第十一届Sky Hackathon训练营实验手册---AWS Sagemaker AI部分](https://blog.csdn.net/kunhe0512/article/details/145656529)
 
++ [【大模型】DeepSeek 高级提示词技巧使用详解](https://blog.csdn.net/zhangcongyi420/article/details/145660778)
+
++ [DeepSeek R1 与 OpenAI O1：机器学习模型的巅峰对决](https://blog.csdn.net/2301_80350265/article/details/145663366)
+
++ [网络安全防范课后参考答案](https://blog.csdn.net/Hacker_LaoYi/article/details/145637620)
+
