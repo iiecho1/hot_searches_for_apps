@@ -183,3 +183,5 @@
 
 + [矩阵碰一碰发视频技术开发全解析，支持OEM](https://blog.csdn.net/yunluohd171/article/details/145648492)
 
++ [知识蒸馏方法探究：Google Distilling Step-by-Step 论文深度分析](https://blog.csdn.net/m0_46510245/article/details/145663087)
+
