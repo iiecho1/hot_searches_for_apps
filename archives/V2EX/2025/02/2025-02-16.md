@@ -19,3 +19,5 @@
 
 + [专门做了个科普 http status code 的网站， 希望大家喜欢](https://www.v2ex.com/t/1111620)
 
++ [有没有做股票量化的朋友](https://www.v2ex.com/t/1111704)
+

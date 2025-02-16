@@ -143,3 +143,9 @@
 
 + [linux内网部署deepseek大模型（ollama+anythingllm）](https://blog.csdn.net/qq_40744423/article/details/145603955)
 
++ [UniApp 中制作一个横向滚动工具栏](https://blog.csdn.net/qq_21484461/article/details/143727277)
+
++ [【一文读懂】HTTP与Websocket协议](https://blog.csdn.net/Bl_a_ck/article/details/145622775)
+
++ [DeepSeek金融风控实战：反欺诈模型的进阶之路（6/18）](https://blog.csdn.net/beautifulmemory/article/details/145651833)
+
