@@ -101,3 +101,13 @@
 
 + [网络安全扫IP工具](https://blog.csdn.net/2401_88326591/article/details/145650679)
 
++ [DeepSeek R1 引发的思考：机器学习时代的人类与 AI 协作](https://blog.csdn.net/2401_87848736/article/details/145663665)
+
++ [遗传算法与深度学习实战（35）——使用遗传算法优化生成对抗网络](https://blog.csdn.net/LOVEmy134611/article/details/145628035)
+
++ [【现代深度学习技术】深度学习计算 | GPU](https://blog.csdn.net/Morse_Chen/article/details/145632214)
+
++ [Java 大视界 -- 绿色大数据：Java 技术在节能减排中的应用与实践（90）](https://blog.csdn.net/atgfg/article/details/145658828)
+
++ [企业级API集成方案：基于阿里云函数计算调用DeepSeek全解析](https://blog.csdn.net/2301_80863610/article/details/145669704)
+
