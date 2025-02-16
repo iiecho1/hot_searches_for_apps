@@ -161,3 +161,9 @@
 
 + [美总统特朗普签署行政令 成立“美国再次健康”委员会](https://news.cctv.com/2025/02/14/ARTIluKTWKRG2awfyf1iu3up250214.shtml)
 
++ [“伊斯兰国呼罗珊分支”宣布对阿富汗首都自杀式袭击负责](https://news.cctv.com/2025/02/16/ARTIpomwZ5zIuVRsoZL4Y19q250216.shtml)
+
++ [准备潜在领导人峰会 美俄高级官员将在沙特会晤](https://news.cctv.com/2025/02/16/ARTILIJIj53fqQ8fx9woxH97250216.shtml)
+
++ [美航天局：一颗小行星有2%的概率在2032年撞击地球](https://news.cctv.com/2025/02/16/ARTISarsUyIDDBxaYoaRenvm250216.shtml)
+

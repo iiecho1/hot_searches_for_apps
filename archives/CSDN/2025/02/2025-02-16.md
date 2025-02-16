@@ -141,3 +141,5 @@
 
 + [解决ZYNQ烧录QSPI FLASH问题 [Xicom 50-186] Error while detecting SPI flash device - unrecognized JEDEC id](https://blog.csdn.net/m0_73388790/article/details/145646460)
 
++ [linux内网部署deepseek大模型（ollama+anythingllm）](https://blog.csdn.net/qq_40744423/article/details/145603955)
+
