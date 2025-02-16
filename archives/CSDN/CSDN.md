@@ -189,3 +189,11 @@
 
 + [解锁 DeepSeek 超强能力：蓝耘智算平台搭建实战秘籍](https://blog.csdn.net/2302_79177254/article/details/145608872)
 
++ [【C++笔记】C++11的深度剖析(一)](https://blog.csdn.net/2301_81670477/article/details/145531742)
+
++ [深度学习框架探秘｜Keras 应用案例解析以及 Keras vs TensorFlow vs PyTorch](https://blog.csdn.net/u013132758/article/details/145628678)
+
++ [预留：大数据Hadoop之——部署hadoop+hive+Mysql环境（Linux）](https://blog.csdn.net/qq_41946216/article/details/145659096)
+
++ [NVIDIA 开发者社区第十一届Sky Hackathon训练营实验手册---AWS Sagemaker AI部分](https://blog.csdn.net/kunhe0512/article/details/145656529)
+
