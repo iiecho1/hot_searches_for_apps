@@ -111,3 +111,15 @@
 
 + [企业级API集成方案：基于阿里云函数计算调用DeepSeek全解析](https://blog.csdn.net/2301_80863610/article/details/145669704)
 
++ [【博客之星】博主使用DeepSeek来分析和预测本次投票环节，谁最有可能胜出，以及大家的个人影响力分析](https://blog.csdn.net/lmy_520/article/details/145669983)
+
++ [小学生基本无缘CSP-J/S了？编程学习要变天了？](https://blog.csdn.net/dllglvzhenfeng/article/details/145636717)
+
++ [利用亚马逊云科技RDS for SQL Server配置向量数据存储](https://blog.csdn.net/m0_66628975/article/details/145649653)
+
++ [【配电网】基于蜻蜓优化算法的配电网重构求解附Python代码【IEEE123节点算例】](https://blog.csdn.net/qq_59747472/article/details/145670214)
+
++ [爬虫实战：利用代理ip爬取推特网站数据](https://blog.csdn.net/m0_73367097/article/details/145639379)
+
++ [Vue和React的区别](https://blog.csdn.net/weixin_46191445/article/details/145635735)
+

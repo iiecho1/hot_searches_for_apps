@@ -29,3 +29,5 @@
 
 + [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
 
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
