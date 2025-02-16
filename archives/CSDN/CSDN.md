@@ -151,3 +151,11 @@
 
 + [红队视角出发的k8s敏感信息收集——持久化存储与数据泄露](https://blog.csdn.net/qq_44373268/article/details/145640039)
 
++ [当质疑声起，C++ 用实力碾碎所有否定，夺回本应属于它的地位](https://blog.csdn.net/2401_82648291/article/details/145574036)
+
++ [DeepSeek、Kimi、文心一言、通义千问：AI 大语言模型的对比分析](https://blog.csdn.net/BuluAI/article/details/145615978)
+
++ [清华大学：DeepSeek 如何赋能职场应用（35 页 PDF）](https://blog.csdn.net/wxaiway/article/details/145622743)
+
++ [【蓝耘智算平台】一文带你部署 图片生成、视频生成、deepseek-r1等](https://blog.csdn.net/ZYK069/article/details/145649633)
+
