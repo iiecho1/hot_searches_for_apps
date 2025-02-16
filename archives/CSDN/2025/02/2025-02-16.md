@@ -159,3 +159,5 @@
 
 + [【蓝耘智算平台】一文带你部署 图片生成、视频生成、deepseek-r1等](https://blog.csdn.net/ZYK069/article/details/145649633)
 
++ [网络安全用centos干嘛 网络安全需要学linux吗](https://blog.csdn.net/2401_88326437/article/details/145636562)
+

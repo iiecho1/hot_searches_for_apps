@@ -175,3 +175,11 @@
 
 + [国际社会积极评价哈尔滨亚冬会——“传递了和平与包容的理念”](https://news.cctv.com/2025/02/16/ARTITHcdfiIJy5ERpHh2HRNo250216.shtml)
 
++ [鲁班工坊环游记 ：在保加利亚展示“中国速度”](https://news.cctv.com/2025/02/16/ARTIHGZte79v9niubLUC73uV250216.shtml)
+
++ [通讯｜“这让我对冈比亚的农业机械化之路有了新思考”](https://news.cctv.com/2025/02/16/ARTIMIlfrfxfftq5y7T9bgb8250216.shtml)
+
++ [停火谈判陷入僵局：以色列推迟第二阶段 哈马斯呼吁美国施压](https://military.cctv.com/2025/02/16/ARTIh2SFIN6ESOyymPFUHGP9250216.shtml)
+
++ [加拿大国旗日激发民众爱国热潮 对美国吞并言论说“不”](https://news.cctv.com/2025/02/16/ARTIPhmDLXv6NcutstASN54o250216.shtml)
+
