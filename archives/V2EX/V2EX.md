@@ -45,3 +45,5 @@
 
 + [上海躺平买房推荐，给到板块或者小区](https://www.v2ex.com/t/1111736)
 
++ [[福利] 抢先体验 Xactions - macOS 平台强大的自动化执行者！](https://www.v2ex.com/t/1111805)
+

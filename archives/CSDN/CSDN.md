@@ -203,3 +203,7 @@
 
 + [网络安全防范课后参考答案](https://blog.csdn.net/Hacker_LaoYi/article/details/145637620)
 
++ [Nacos 动态服务发现与配置管理](https://blog.csdn.net/slovess/article/details/145657279)
+
++ [deepseek接入word的代码](https://blog.csdn.net/weixin_70682362/article/details/145631146)
+
