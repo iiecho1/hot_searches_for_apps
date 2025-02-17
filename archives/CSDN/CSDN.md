@@ -197,3 +197,9 @@
 
 + [flutter 专题四十八 Google发布Flutter 2.0正式版，支持全平台程序构建](https://blog.csdn.net/m0_61164038/article/details/145461760)
 
++ [【AI提示词】总结了30个DeepSeek降重指令，让论文重复率降至6%](https://blog.csdn.net/guorui_java/article/details/145680420)
+
++ [AI照片管理利器实战：自动化分类+智能搜索+远程访问一站式解决方案](https://blog.csdn.net/qq_25749749/article/details/145684147)
+
++ [K8s学习总结](https://blog.csdn.net/m0_54984588/article/details/145670879)
+
