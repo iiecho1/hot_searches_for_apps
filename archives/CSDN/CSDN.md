@@ -219,3 +219,13 @@
 
 + [八股取士--docker&k8s](https://blog.csdn.net/liulanba/article/details/145659519)
 
++ [Spring Boot02(数据库、Redis)---java八股](https://blog.csdn.net/qq_45452617/article/details/145665143)
+
++ [本地化搭建DeepSeek+RAGFlow，构建个人知识库](https://blog.csdn.net/gogospecter/article/details/145498294)
+
++ [网络安全-攻击流程-应用层](https://blog.csdn.net/WhiteNebula/article/details/145672488)
+
++ [使用 Python 爬虫和 FFmpeg 爬取 B 站高清视频](https://blog.csdn.net/li901101123/article/details/145670256)
+
++ [nginx反向代理负载均衡](https://blog.csdn.net/ashina_01/article/details/145666807)
+
