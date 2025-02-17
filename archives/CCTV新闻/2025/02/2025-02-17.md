@@ -195,3 +195,11 @@
 
 + [日本首相：防卫费预算可能会超过国内生产总值的2%](https://news.cctv.com/2025/02/17/ARTIA3zYq6TXOPGK7ceJwkAG250217.shtml)
 
++ [和评理 | 美欧裂痕加深 欧洲别无选择唯有自主](https://news.cctv.com/2025/02/17/ARTIfp62oifdWDWcVuu6mv3G250217.shtml)
+
++ [记者手记丨北美汽车供应链的关税加征之困](https://news.cctv.com/2025/02/17/ARTIsfD7E14xaRIQRG0jdGs0250217.shtml)
+
++ [马来西亚前部长：西方抹黑“一带一路”也难掩其互利共赢本质](https://news.cctv.com/2025/02/17/ARTIX7UcRZBW0k7ffBXgeJGS250217.shtml)
+
++ [专访｜中国推动地区打击跨境电诈合作令人鼓舞——访联合国毒罪办东南亚及太平洋地区代理负责人霍夫曼](https://news.cctv.com/2025/02/17/ARTIFeG50Dt8YUmV67qSE3xI250217.shtml)
+
