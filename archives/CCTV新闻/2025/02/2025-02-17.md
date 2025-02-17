@@ -177,3 +177,7 @@
 
 + [以更多实实在在的成果造福28亿多中非人民——习近平主席向第38届非洲联盟峰会致贺电引发热烈反响](https://news.cctv.com/2025/02/17/ARTIm1gAnaSSCnXLy1Yt8sEp250217.shtml)
 
++ [纽约唐人街举行新春大游行](https://photo.cctv.com/2025/02/17/PHOAICvjAAGgdQysBBFRRS4M250217.shtml)
+
++ [威尼斯狂欢节上演花船游行](https://photo.cctv.com/2025/02/17/PHOA350ekkNUizvXZ2FUdn4n250217.shtml)
+

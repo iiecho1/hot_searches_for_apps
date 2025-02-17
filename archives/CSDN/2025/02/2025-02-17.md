@@ -149,3 +149,9 @@
 
 + [模拟退火算法：从物理退火到全局优化](https://blog.csdn.net/2501_90186640/article/details/145645826)
 
++ [在亚马逊云科技大模型平台Bedrock上部署DeepSeek-R1蒸馏模型](https://blog.csdn.net/m0_66628975/article/details/145673525)
+
++ [【ESP32接入国产大模型之Deepseek】](https://blog.csdn.net/vor234/article/details/145621976)
+
++ [Linux上Elasticsearch 集群部署指南](https://blog.csdn.net/m0_59230408/article/details/145096900)
+
