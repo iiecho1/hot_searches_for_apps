@@ -175,3 +175,5 @@
 
 + [马里非法运营金矿坍塌事故遇难人数升至50人](https://news.cctv.com/2025/02/17/ARTIhlwRRk0xdVy2yf8J8ScG250217.shtml)
 
++ [以更多实实在在的成果造福28亿多中非人民——习近平主席向第38届非洲联盟峰会致贺电引发热烈反响](https://news.cctv.com/2025/02/17/ARTIm1gAnaSSCnXLy1Yt8sEp250217.shtml)
+

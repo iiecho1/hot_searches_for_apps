@@ -139,3 +139,13 @@
 
 + [Java 大视界 -- 量子计算时代 Java 大数据的潜在变革与应对策略（88）](https://blog.csdn.net/atgfg/article/details/145643841)
 
++ [DeepSeek 助力 Vue 开发：打造丝滑的瀑布流布局（Masonry Layout）](https://blog.csdn.net/qq_33650655/article/details/145663699)
+
++ [deepseek本地部署（解决服务器繁忙、隐私等问题）](https://blog.csdn.net/Afbpitm/article/details/145635611)
+
++ [实战设计模式之组合模式](https://blog.csdn.net/hope_wisdom/article/details/145670593)
+
++ [计算机视觉：卷积神经网络(CNN)基本概念(一)](https://blog.csdn.net/lihuayong/article/details/145642672)
+
++ [模拟退火算法：从物理退火到全局优化](https://blog.csdn.net/2501_90186640/article/details/145645826)
+
