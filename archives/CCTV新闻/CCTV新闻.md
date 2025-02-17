@@ -187,3 +187,5 @@
 
 + [美国疾控中心数百名员工被解雇](https://news.cctv.com/2025/02/17/ARTIuaOwdQpbr88ZEtqR8Zhl250217.shtml)
 
++ [世界围棋团体锦标赛更新规则 棋盘外情况均不处罚](https://news.cctv.com/2025/02/17/ARTI5qdHlNMRluh29EyKcrQ5250217.shtml)
+

@@ -177,3 +177,7 @@
 
 + [HATHead: 面向小目标检测的高效混合注意力检测头在 YOLOv8 中的应用](https://blog.csdn.net/mrdeam/article/details/145561961)
 
++ [云部署 | 蓝耘元生代智算云应用部署](https://blog.csdn.net/weixin_43151418/article/details/145478248)
+
++ [【错误记录】Windows 中 DevEco Studio 真机调试无法连接设备 ( 低版本的 HarmonyOS 4.2.0 华为手机无法在 DevEco Studio 5.0.2 上真机调试 )](https://blog.csdn.net/han1202012/article/details/145677611)
+
