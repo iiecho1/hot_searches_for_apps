@@ -129,3 +129,13 @@
 
 + [本地部署开源AI大模型工作流神器Flowise结合cpolar内网穿透远程访问与使用](https://blog.csdn.net/LT15171009269/article/details/145672349)
 
++ [DeepSeek开启游戏AI开发新纪元：实战攻略与创新应用（7/18）](https://blog.csdn.net/beautifulmemory/article/details/145652384)
+
++ [基于推荐算法的在线课程推荐系统设计与实现](https://blog.csdn.net/shmp54/article/details/145656832)
+
++ [Python 调用 DeepSeek API 案例详细教程](https://blog.csdn.net/zp8126/article/details/145643087)
+
++ [青年公寓服务平台|基于springboot+vue的青年公寓服务平台(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/145661222)
+
++ [Java 大视界 -- 量子计算时代 Java 大数据的潜在变革与应对策略（88）](https://blog.csdn.net/atgfg/article/details/145643841)
+
