@@ -205,3 +205,5 @@
 
 + [俄总统新闻秘书证实俄美将在沙特举行会晤](https://news.cctv.com/2025/02/17/ARTIqa5Fy6xlY1FPI5JYS3p4250217.shtml)
 
++ [俄海军舰艇参加“科莫多-2025”军演 与北约多国罕见“同框”](https://military.cctv.com/2025/02/17/ARTI2QKG04cLpL8SUsASe4ZV250217.shtml)
+

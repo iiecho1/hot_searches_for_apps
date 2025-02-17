@@ -203,3 +203,19 @@
 
 + [K8s学习总结](https://blog.csdn.net/m0_54984588/article/details/145670879)
 
++ [CNN手写数字识别1——模型搭建与数据准备](https://blog.csdn.net/m0_37872216/article/details/145669171)
+
++ [免费deepseek的API获取教程及将API接入word或WPS中](https://blog.csdn.net/qq_40230540/article/details/145642768)
+
++ [Deep seek学习日记1](https://blog.csdn.net/qq_41205464/article/details/145670170)
+
++ [国产FPGA开发板选择](https://blog.csdn.net/cjie221/article/details/145658971)
+
++ [HTTP 与 HTTPS：协议详解与对比](https://blog.csdn.net/weixin_63577471/article/details/145656323)
+
++ [easyexcel快速使用](https://blog.csdn.net/weixin_51635918/article/details/145637666)
+
++ [谷歌传奇师徒对话：改变世界的 Jeff Dean 与创造 Transformer 的 Noam Shazeer](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/145644516)
+
++ [八股取士--docker&k8s](https://blog.csdn.net/liulanba/article/details/145659519)
+
