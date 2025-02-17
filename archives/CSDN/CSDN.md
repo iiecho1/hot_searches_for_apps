@@ -161,3 +161,7 @@
 
 + [让编程变成一种享受-明基RD320U显示器](https://blog.csdn.net/weixin_47343544/article/details/145671735)
 
++ [DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手](https://blog.csdn.net/weixin_40816738/article/details/145662715)
+
++ [【Elasticsearch】 监控与管理：索引管理策略](https://blog.csdn.net/lilinhai548/article/details/145649274)
+
