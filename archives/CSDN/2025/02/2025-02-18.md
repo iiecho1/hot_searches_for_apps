@@ -119,3 +119,5 @@
 
 + [Spark 和 Flink](https://blog.csdn.net/qq_41893505/article/details/145653918)
 
++ [Elasticsearch：将 Ollama 与推理 API 结合使用](https://blog.csdn.net/UbuntuTouch/article/details/145660969)
+
