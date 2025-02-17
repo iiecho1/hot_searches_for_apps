@@ -165,3 +165,15 @@
 
 + [【Elasticsearch】 监控与管理：索引管理策略](https://blog.csdn.net/lilinhai548/article/details/145649274)
 
++ [轨迹优化 | 基于LBFGS优化器的无约束路径平滑(附ROS C++仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/145671504)
+
++ [Linux下学【MySQL】中如何实现：多表查询（配sql+实操图+案例巩固 通俗易懂版~）](https://blog.csdn.net/ZYK069/article/details/145503952)
+
++ [深入理解Spring FactoryBean：灵活创建复杂对象的秘密武器](https://blog.csdn.net/qq_35512802/article/details/145597408)
+
++ [TensorFlow深度学习实战（8）——卷积神经网络](https://blog.csdn.net/LOVEmy134611/article/details/144276122)
+
++ [阿里云百炼初探DeepSeek模型调用](https://blog.csdn.net/2301_78133614/article/details/145675416)
+
++ [HATHead: 面向小目标检测的高效混合注意力检测头在 YOLOv8 中的应用](https://blog.csdn.net/mrdeam/article/details/145561961)
+
