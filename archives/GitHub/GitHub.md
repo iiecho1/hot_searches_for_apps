@@ -31,3 +31,11 @@
 
 + [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
++ [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+
++ [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
+
++ [outline/outline](https://github.com/outline/outline)
+
++ [meshtastic/firmware](https://github.com/meshtastic/firmware)
+
