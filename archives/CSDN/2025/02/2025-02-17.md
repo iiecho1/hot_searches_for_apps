@@ -181,3 +181,11 @@
 
 + [【错误记录】Windows 中 DevEco Studio 真机调试无法连接设备 ( 低版本的 HarmonyOS 4.2.0 华为手机无法在 DevEco Studio 5.0.2 上真机调试 )](https://blog.csdn.net/han1202012/article/details/145677611)
 
++ [云平台结合DeepSeek的AI模型优化实践：技术突破与应用革新](https://blog.csdn.net/2302_79376097/article/details/145664779)
+
++ [从数据到智能：以DeepSeek探索企业智能化转型新路径](https://blog.csdn.net/bite_zwy/article/details/145660950)
+
++ [深度学习：从技术突破到未来展望](https://blog.csdn.net/GGDxianv/article/details/145682254)
+
++ [学习threejs，使用PointLight点光源](https://blog.csdn.net/qq_28419035/article/details/145678889)
+

@@ -193,3 +193,5 @@
 
 + [特朗普称将“很快”同普京会晤](https://news.cctv.com/2025/02/17/ARTIXzvffAv4zDuN5SGtTFxh250217.shtml)
 
++ [日本首相：防卫费预算可能会超过国内生产总值的2%](https://news.cctv.com/2025/02/17/ARTIA3zYq6TXOPGK7ceJwkAG250217.shtml)
+
