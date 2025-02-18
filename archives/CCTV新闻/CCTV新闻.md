@@ -175,3 +175,13 @@
 
 + [通胀和关税压力叠加 日本经济增长前景增添新忧](https://news.cctv.com/2025/02/18/ARTIhaxgFSOc8wLh73KvNvIu250218.shtml)
 
++ [美国客机在加拿大翻覆致18伤 乘客形容“我们像蝙蝠一样倒挂”](https://news.cctv.com/2025/02/18/ARTIGgd8OthoCYzkidtEzwfJ250218.shtml)
+
++ [比利时发现数起禽流感病例 显示禽流感疫情或已暴发](https://news.cctv.com/2025/02/18/ARTI1msr621iQTzMgWLkHSaT250218.shtml)
+
++ [朝鲜谴责美国涉朝表态：将坚持核力量强化路线](https://news.cctv.com/2025/02/18/ARTIx1MoAon0dWblhJmLjE65250218.shtml)
+
++ [特朗普政府警告：若学术机构继续推行平权政策 将削减对其资助](https://news.cctv.com/2025/02/18/ARTIp9Wp8ZyiZjve47523BJk250218.shtml)
+
++ [美国新版“空军一号”再度延期交付 特朗普恐怕又坐不上了](https://news.cctv.com/2025/02/18/ARTIl7jKPTByqNYBM4dar1nm250218.shtml)
+
