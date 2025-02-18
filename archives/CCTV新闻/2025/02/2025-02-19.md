@@ -167,3 +167,7 @@
 
 + [俄官员：美国特使将就调解乌克兰问题与乌欧举行谈判](https://news.cctv.com/2025/02/19/ARTIqyIdP0b149dJRdrlMfco250219.shtml)
 
++ [苏丹首都喀土穆以东地区遭袭 造成28名平民死亡](https://news.cctv.com/2025/02/19/ARTImPQ3GUPZOMNbXPsvVgF0250219.shtml)
+
++ [尹锡悦未出席弹劾案第九次正式辩论](https://news.cctv.com/2025/02/19/ARTIbZxpAaHSWiKE0o1LJmlp250219.shtml)
+
