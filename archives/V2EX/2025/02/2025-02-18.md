@@ -53,3 +53,7 @@
 
 + [TCL 的电视现在可以和 Apple TV 实现 cec 联动关机吗](https://www.v2ex.com/t/1112188)
 
++ [2025 第一届小米高考结束，得分 60](https://www.v2ex.com/t/1112216)
+
++ [火绒居然也使用宝塔面板建站](https://www.v2ex.com/t/1112167)
+

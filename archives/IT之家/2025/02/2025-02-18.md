@@ -25,3 +25,27 @@
 
 + [消息称小米下一代“大杯手机”配备 6.85 英寸 2K 120Hz LTPO OLED 屏，“边框控制超过苹果 iPhone”](https://m.ithome.com/html/829903.htm)
 
++ [《哪吒 2》杀入全球影史前 9！在美排片疑遭排挤，国内影城的操作好玩到简直了](https://m.ithome.com/html/831565.htm)
+
++ [腾讯穿越火线协助警方破获特大盗号团伙案，涉案金额达 3000 多万元](https://m.ithome.com/html/831704.htm)
+
++ [苹果最薄旗舰 iPhone 17 Air 渲染图抢先看：最薄处仅 5.5mm，横向相机条设计](https://m.ithome.com/html/831628.htm)
+
++ [苹果 iPhone SE 4 手机壳曝光：单摄方案，尺寸差异恐不兼容 iPhone 14 手机壳](https://m.ithome.com/html/831602.htm)
+
++ [支持离线 / 关机状态定位设备，华为 Mate 70 系列手机获鸿蒙 HarmonyOS NEXT 5.0.0.126 升级](https://m.ithome.com/html/831582.htm)
+
++ [小米 15 Ultra 手机被曝机身厚度 9.4mm，重量 229g&#177;](https://m.ithome.com/html/831650.htm)
+
++ [苹果 iPhone 17 Air / Pro 手机壳渲染图曝光](https://m.ithome.com/html/831566.htm)
+
++ [小米首款米家中央空调 Pro 等智能家居新品外观公布，2 月底发布](https://m.ithome.com/html/831673.htm)
+
++ [百度搜索全量上线 DeepSeek-R1 满血版](https://m.ithome.com/html/831795.htm)
+
++ [DeepSeek 再放降本大招：NSA 官宣发布，加速推理降低成本，并且不牺牲性能](https://m.ithome.com/html/831743.htm)
+
++ [三星“痛失”自家顶级屏，消息称苹果 iPhone 17 全系用 M14 OLED 面板](https://m.ithome.com/html/831613.htm)
+
++ [消息称苹果 iPhone SE 4 首款自研调制解调器芯片性能逊于高通 X75、不支持毫米波 5G](https://m.ithome.com/html/830322.htm)
+

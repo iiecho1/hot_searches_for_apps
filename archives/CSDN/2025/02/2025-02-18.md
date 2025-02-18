@@ -165,3 +165,7 @@
 
 + [华为昇腾920b服务器部署DeepSeek翻车现场](https://blog.csdn.net/qq_73797346/article/details/145665555)
 
++ [探秘 DeepSeek R1 模型：跨越多领域的科技奇迹，引领智能应用新浪潮](https://blog.csdn.net/2401_82648291/article/details/145686150)
+
++ [【项目日记】仿RabbitMQ实现消息队列 --- 概念设计](https://blog.csdn.net/JLX_1/article/details/145696481)
+

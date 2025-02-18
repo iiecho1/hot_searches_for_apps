@@ -233,3 +233,13 @@
 
 + [俄罗斯说加入欧盟是乌克兰的主权权利，但反对乌克兰加入军事联盟](https://news.cctv.com/2025/02/18/ARTICla7EXRUprGWDXTMgf4V250218.shtml)
 
++ [欧盟经济专员：美国关税威胁正在冲击经济](https://news.cctv.com/2025/02/18/ARTIWEyvKYxTkhGPNoH5Gyuq250218.shtml)
+
++ [漫评美乱挥“关税大棒”：“打破平静”](https://news.cctv.com/2025/02/18/ARTIgL0LY4jukdOaXk19QrwC250218.shtml)
+
++ [近日有中国公民在缅甸曼德勒遭入室抢劫受重伤，中领馆发布安全提醒](https://news.cctv.com/2025/02/18/ARTI3wzPrDfQQhuCmo6ENc5W250218.shtml)
+
++ [加强对话，共促和平、安全与发展（国际视点）](https://news.cctv.com/2025/02/18/ARTIMPNcMmQjQhvLfQO7jLqq250218.shtml)
+
++ [“这是一条致富路”（共建“一带一路”·第一现场）](https://news.cctv.com/2025/02/18/ARTIKuNCN5iHBkd5oMFDenXW250218.shtml)
+
