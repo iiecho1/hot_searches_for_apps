@@ -205,3 +205,7 @@
 
 + [特朗普政府“裁员大刀”挥向美国药管局 多名官员因遭遇被裁而起诉](https://news.cctv.com/2025/02/18/ARTI3r0ZuLTd3Hus7YrwzL9n250218.shtml)
 
++ [日落时分 巴勒斯坦民众加沙港边休闲](https://photo.cctv.com/2025/02/18/PHOApIn5mOqAMRzHkC7AxOaL250218.shtml)
+
++ [国际雪雕节在土耳其开塞利举行](https://photo.cctv.com/2025/02/18/PHOAAZfGXdKYAss83mC95uWy250218.shtml)
+
