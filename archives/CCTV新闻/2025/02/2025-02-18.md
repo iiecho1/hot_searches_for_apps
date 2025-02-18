@@ -229,3 +229,5 @@
 
 + [加拿大将有力回应美国加征关税 诺贝尔奖得主称美已成“可怕的投资之地”](https://news.cctv.com/2025/02/18/ARTIUDLHZGwUFXPyaw6vXVpX250218.shtml)
 
++ [中国援加沙地带紧急人道物资从约旦启运，通过陆路口岸运往加沙地带](https://news.cctv.com/2025/02/18/ARTIXoxO1o4vJVym3srDJ9M2250218.shtml)
+

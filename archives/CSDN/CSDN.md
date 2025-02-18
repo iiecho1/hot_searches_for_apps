@@ -153,3 +153,13 @@
 
 + [centos部署open-webui](https://blog.csdn.net/weixin_45476104/article/details/145671594)
 
++ [DeepMind发布Matryoshka（套娃）量化：利用嵌套表示实现多精度LLM的低比特深度学习](https://blog.csdn.net/m0_46510245/article/details/145699002)
+
++ [Vue3学习总结：从零开始的前端探索之旅](https://blog.csdn.net/m0_70814680/article/details/145689448)
+
++ [Dify+Notion本地化打造专属知识库](https://blog.csdn.net/qq_33589510/article/details/145681182)
+
++ [Qt中基于开源库QRencode生成二维码(附工程源码链接)](https://blog.csdn.net/haokan123456789/article/details/145654492)
+
++ [【HBase】HBaseJMX 接口监控信息实现钉钉告警](https://blog.csdn.net/qq_35995514/article/details/145689536)
+
