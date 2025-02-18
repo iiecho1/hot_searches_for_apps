@@ -129,3 +129,5 @@
 
 + [linear/ridge/kernel regression中representer theory的证明 & 对gradient descent中implicit regularization的解释](https://blog.csdn.net/qq_43349296/article/details/145671983)
 
++ [生物医药与AI的深度融合：开启生命科学新时代](https://blog.csdn.net/linlinzhengkarry/article/details/145666813)
+
