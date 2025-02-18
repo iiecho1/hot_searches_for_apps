@@ -121,3 +121,11 @@
 
 + [基于 Python 和 Django 的北极星招聘数据可视化系统（附源码，部署）](https://blog.csdn.net/chusheng1840/article/details/145692804)
 
++ [AI在生物医药研发中的具体应用：药物活性预测](https://blog.csdn.net/linlinzhengkarry/article/details/145666956)
+
++ [从月牙定理看古希腊数学的奇妙突破](https://blog.csdn.net/u014727709/article/details/145699076)
+
++ [【Kubernetes】k8s 部署指南](https://blog.csdn.net/weixin_62533201/article/details/145668506)
+
++ [linear/ridge/kernel regression中representer theory的证明 & 对gradient descent中implicit regularization的解释](https://blog.csdn.net/qq_43349296/article/details/145671983)
+

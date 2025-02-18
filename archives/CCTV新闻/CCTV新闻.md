@@ -161,3 +161,5 @@
 
 + [“重型”美制航空炸弹运抵以色列](https://military.cctv.com/2025/02/16/ARTI0xgyluwG0O0vE925HF70250216.shtml)
 
++ [巴西央行下调该国2025年经济增长预期](https://news.cctv.com/2025/02/19/ARTIhhzOF1z2bz3ANpQtsZnN250219.shtml)
+
