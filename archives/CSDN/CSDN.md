@@ -163,3 +163,5 @@
 
 + [【HBase】HBaseJMX 接口监控信息实现钉钉告警](https://blog.csdn.net/qq_35995514/article/details/145689536)
 
++ [华为昇腾920b服务器部署DeepSeek翻车现场](https://blog.csdn.net/qq_73797346/article/details/145665555)
+

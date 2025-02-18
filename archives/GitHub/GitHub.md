@@ -25,3 +25,23 @@
 
 + [meshtastic/firmware](https://github.com/meshtastic/firmware)
 
++ [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [spf13/cobra](https://github.com/spf13/cobra)
+
++ [exo-explore/exo](https://github.com/exo-explore/exo)
+
++ [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+
++ [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
+
++ [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+
++ [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
++ [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+
++ [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+

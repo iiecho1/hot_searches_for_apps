@@ -231,3 +231,5 @@
 
 + [中国援加沙地带紧急人道物资从约旦启运，通过陆路口岸运往加沙地带](https://news.cctv.com/2025/02/18/ARTIXoxO1o4vJVym3srDJ9M2250218.shtml)
 
++ [俄罗斯说加入欧盟是乌克兰的主权权利，但反对乌克兰加入军事联盟](https://news.cctv.com/2025/02/18/ARTICla7EXRUprGWDXTMgf4V250218.shtml)
+
