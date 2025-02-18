@@ -171,3 +171,7 @@
 
 + [裁裁裁！特朗普政府“裁员刀”挥向药管局](https://news.cctv.com/2025/02/18/ARTI6QhzFbGQ5Qw3mjfn4p38250218.shtml)
 
++ [阿联酋总统：支持所有有助于推动乌克兰冲突和平解决的努力](https://news.cctv.com/2025/02/18/ARTIlg75tQtfiCL3nzWvQFp9250218.shtml)
+
++ [通胀和关税压力叠加 日本经济增长前景增添新忧](https://news.cctv.com/2025/02/18/ARTIhaxgFSOc8wLh73KvNvIu250218.shtml)
+

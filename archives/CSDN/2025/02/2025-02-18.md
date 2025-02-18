@@ -121,3 +121,9 @@
 
 + [Elasticsearch：将 Ollama 与推理 API 结合使用](https://blog.csdn.net/UbuntuTouch/article/details/145660969)
 
++ [通义灵码2.0 AI 程序员体验：优化与问题解决的全过程](https://blog.csdn.net/lwcwam/article/details/145682178)
+
++ [IDEA集成DeepSeek](https://blog.csdn.net/wind_chasing_boy/article/details/145667045)
+
++ [天翼云910B部署DeepSeek蒸馏70B LLaMA模型实践总结](https://blog.csdn.net/firehadoop/article/details/145651046)
+
