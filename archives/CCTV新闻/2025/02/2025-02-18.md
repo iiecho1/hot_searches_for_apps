@@ -209,3 +209,9 @@
 
 + [国际雪雕节在土耳其开塞利举行](https://photo.cctv.com/2025/02/18/PHOAAZfGXdKYAss83mC95uWy250218.shtml)
 
++ [俄乌谈判折射跨大西洋博弈冲击欧洲 美欧联盟正走向十字路口](https://news.cctv.com/2025/02/18/ARTI1EJFBV6GBIE9l5CK840G250218.shtml)
+
++ [加拿大官员：将对美国加征关税作出“有力回应”](https://news.cctv.com/2025/02/18/ARTIu3cVIGCGqAjhHwrpq0v4250218.shtml)
+
++ [中欧要继续做相互成就的伙伴（和音）](https://news.cctv.com/2025/02/18/ARTIUk4IX1RL0H4G8soLNV3A250218.shtml)
+
