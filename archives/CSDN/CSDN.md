@@ -169,3 +169,13 @@
 
 + [【项目日记】仿RabbitMQ实现消息队列 --- 概念设计](https://blog.csdn.net/JLX_1/article/details/145696481)
 
++ [AI性能极致体验：通过阿里云平台高效调用满血版DeepSeek-R1模型](https://blog.csdn.net/2301_80840905/article/details/145704238)
+
++ [10分钟上手DeepSeek开发：SpringBoot + Vue2快速构建AI对话系统](https://blog.csdn.net/c18213590220/article/details/145708471)
+
++ [Flutter 正在推进全新 PlatformView 实现 HCPP， 它又用到了 Android 上的什么黑科技](https://blog.csdn.net/ZuoYueLiang/article/details/145676832)
+
++ [会议预告| 第八届地球空间大数据与云计算前沿大会与集中学习(1号通知)](https://blog.csdn.net/qq_31988139/article/details/145707110)
+
++ [大数据SQL调优专题——Spark执行原理](https://blog.csdn.net/qq_41478243/article/details/145673828)
+

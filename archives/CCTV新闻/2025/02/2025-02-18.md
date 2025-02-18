@@ -245,3 +245,15 @@
 
 + [俄美在沙特会谈历时4个多小时结束 俄代表称“谈判举行得不错”](https://news.cctv.com/2025/02/18/ARTIFkFQCxbbxWSXlL0gWiJ7250218.shtml)
 
++ [俄外长：关于调解乌克兰问题的俄美谈判将于近期启动](https://news.cctv.com/2025/02/18/ARTI58V9SfodWJl1c9W5gxB8250218.shtml)
+
++ [以总理办公室：哈马斯将于22日释放6名以方被扣押人员](https://news.cctv.com/2025/02/18/ARTIhyDjYi21ylhAacNglcp0250218.shtml)
+
++ [美国务卿：结束乌克兰冲突必须被所有相关方接受](https://news.cctv.com/2025/02/18/ARTIhUgqHQ5OfXLAmQkK5eu6250218.shtml)
+
++ [美国务卿：美俄两国同意恢复驻华盛顿和莫斯科大使馆的人员配置](https://news.cctv.com/2025/02/18/ARTIeTolgwdZyCMx15eRoHp1250218.shtml)
+
++ [巴西东北部伯南布哥州发生枪击事件 6人死亡](https://news.cctv.com/2025/02/18/ARTIkBoimJz0cmRN2VU0t5y3250218.shtml)
+
++ [俄美决定成立消除刺激两国关系因素咨询机制 未来将在多领域合作](https://news.cctv.com/2025/02/18/ARTIbcg55dsQJDzUuuDQuIut250218.shtml)
+
