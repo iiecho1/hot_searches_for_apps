@@ -163,3 +163,7 @@
 
 + [巴西央行下调该国2025年经济增长预期](https://news.cctv.com/2025/02/19/ARTIhhzOF1z2bz3ANpQtsZnN250219.shtml)
 
++ [美国上诉法院阻止拜登政府的学生贷款减免计划](https://news.cctv.com/2025/02/19/ARTIepWIr3uoa5tzjgq7Xaak250219.shtml)
+
++ [俄官员：美国特使将就调解乌克兰问题与乌欧举行谈判](https://news.cctv.com/2025/02/19/ARTIqyIdP0b149dJRdrlMfco250219.shtml)
+
