@@ -141,3 +141,15 @@
 
 + [使用 Python 爬虫和 FFmpeg 爬取 B 站高清视频](https://blog.csdn.net/li901101123/article/details/145670256)
 
++ [蓝耘服务器与DeepSeek的结合：引领智能化时代的新突破](https://blog.csdn.net/2301_76341691/article/details/145696963)
+
++ [【前端框架】深入探讨 Vue 3 组件生命周期的变化和最佳实践](https://blog.csdn.net/weixin_44171297/article/details/145667075)
+
++ [CSDN、markdown环境下如何插入各种图（流程图，时序图，甘特图）](https://blog.csdn.net/fansv587/article/details/145649047)
+
++ [小白deepseek本地部署+Python调用初尝试](https://blog.csdn.net/m0_67683593/article/details/145641950)
+
++ [深入解析 iOS 视频录制（一）：录制管理核心MWRecordingController 类的设计与实现](https://blog.csdn.net/weixin_39339407/article/details/145625502)
+
++ [centos部署open-webui](https://blog.csdn.net/weixin_45476104/article/details/145671594)
+

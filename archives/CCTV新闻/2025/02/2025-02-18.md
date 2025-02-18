@@ -215,3 +215,17 @@
 
 + [中欧要继续做相互成就的伙伴（和音）](https://news.cctv.com/2025/02/18/ARTIUk4IX1RL0H4G8soLNV3A250218.shtml)
 
++ [与美乌领导人通话后 马克龙谈实现乌克兰“持久和平”条件](https://news.cctv.com/2025/02/18/ARTIcvlc1swJC1ooJM0T8MuH250218.shtml)
+
++ [哈萨克斯坦中部地区发生矿难 致7人死亡](https://news.cctv.com/2025/02/18/ARTIxGnQjrk5kdo3OHO2DPiu250218.shtml)
+
++ [俄美沙特开谈，重点是什么？](https://news.cctv.com/2025/02/18/ARTI1cGbeF05kxphhELmQSA6250218.shtml)
+
++ [俄罗斯和美国代表团在沙特利雅得举行会晤](https://news.cctv.com/2025/02/18/ARTIlHmNp9K9SowCQrME5RjB250218.shtml)
+
++ [俄代表：欧盟和英国“不守信用”，不能成为任何俄乌协议相关方](https://news.cctv.com/2025/02/18/ARTI6DkgZg2Dsw0NCCnreXuP250218.shtml)
+
++ [美媒：特朗普政府准备解雇数百名美国土安全部高层人士](https://news.cctv.com/2025/02/18/ARTI3xcLeGXPhZJXAF5FXDGl250218.shtml)
+
++ [加拿大将有力回应美国加征关税 诺贝尔奖得主称美已成“可怕的投资之地”](https://news.cctv.com/2025/02/18/ARTIUDLHZGwUFXPyaw6vXVpX250218.shtml)
+
