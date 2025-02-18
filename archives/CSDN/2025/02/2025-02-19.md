@@ -105,3 +105,19 @@
 
 + [让编程变成一种享受-明基RD320U显示器](https://blog.csdn.net/weixin_47343544/article/details/145671735)
 
++ [DeepSeek 和 ChatGPT 在特定任务中的表现：逻辑推理与创意生成](https://blog.csdn.net/djdjiejsn/article/details/145703340)
+
++ [docker的WSL2报错解决](https://blog.csdn.net/apple_72625182/article/details/145663235)
+
++ [使用 Python 爬虫和 FFmpeg 爬取 B 站高清视频](https://blog.csdn.net/li901101123/article/details/145670256)
+
++ [国产FPGA开发板选择](https://blog.csdn.net/cjie221/article/details/145658971)
+
++ [Java 大视界 -- 开源社区对 Java 大数据发展的推动与贡献（91）](https://blog.csdn.net/atgfg/article/details/145690985)
+
++ [腿足机器人之八- 腿足机器人动力学](https://blog.csdn.net/shichaog/article/details/145656103)
+
++ [centos部署open-webui](https://blog.csdn.net/weixin_45476104/article/details/145671594)
+
++ [基于 Python 和 Django 的北极星招聘数据可视化系统（附源码，部署）](https://blog.csdn.net/chusheng1840/article/details/145692804)
+
