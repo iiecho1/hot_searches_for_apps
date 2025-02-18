@@ -127,3 +127,11 @@
 
 + [天翼云910B部署DeepSeek蒸馏70B LLaMA模型实践总结](https://blog.csdn.net/firehadoop/article/details/145651046)
 
++ [【MySQL】第六弹---数据库表约束详解：从空属性到主键的全方位指南](https://blog.csdn.net/2201_75584283/article/details/142111690)
+
++ [工厂+策略最佳实践](https://blog.csdn.net/m0_64637029/article/details/145696474)
+
++ [2025三掌柜赠书活动第五期：Elasticsearch实战（第2版）](https://blog.csdn.net/CC1991_/article/details/145689076)
+
++ [通信信息加密](https://blog.csdn.net/qq_30878817/article/details/145637550)
+

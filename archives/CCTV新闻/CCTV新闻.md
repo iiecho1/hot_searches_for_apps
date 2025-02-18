@@ -185,3 +185,9 @@
 
 + [美国新版“空军一号”再度延期交付 特朗普恐怕又坐不上了](https://news.cctv.com/2025/02/18/ARTIl7jKPTByqNYBM4dar1nm250218.shtml)
 
++ [调查显示生活成本上涨是欧盟年轻人首要关切](https://news.cctv.com/2025/02/18/ARTIYowLZ9Kq2AfSlWqWuUyz250218.shtml)
+
++ [被“踢出”停火谈判桌？欧洲领导人紧急开会商对策](https://news.cctv.com/2025/02/18/ARTInDRLYl583Aghc73fzY4K250218.shtml)
+
++ [冬季风暴是啥？北极涡旋+气候变暖=北美极端天气频发？](https://news.cctv.com/2025/02/18/ARTIdpIX6P4TFqmmvPFWhEYq250218.shtml)
+
