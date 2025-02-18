@@ -191,3 +191,17 @@
 
 + [冬季风暴是啥？北极涡旋+气候变暖=北美极端天气频发？](https://news.cctv.com/2025/02/18/ARTIdpIX6P4TFqmmvPFWhEYq250218.shtml)
 
++ [近年来首次 澳大利亚央行宣布下调基准利率至4.1%](https://news.cctv.com/2025/02/18/ARTIvH2V5yAiMSJgv3iP0ofk250218.shtml)
+
++ [尹锡悦出席弹劾案庭审第九场公开辩论 将出示书面证据](https://news.cctv.com/2025/02/18/ARTIU196OVSmcrHXw1RqM3QV250218.shtml)
+
++ [泰国副总理：愿进一步与中方合作打击网赌电诈](https://news.cctv.com/2025/02/18/ARTIHn2hWZb6vAzjzbHcL3q9250218.shtml)
+
++ [下个目标？美国最大金库数十年无人核查，马斯克暗示将审查](https://news.cctv.com/2025/02/18/ARTIaACT61a9i9w8SbX3hWSx250218.shtml)
+
++ [马克龙先后同特朗普和泽连斯基通话](https://news.cctv.com/2025/02/18/ARTIQ75yODmh0JCEAGIIOEof250218.shtml)
+
++ [俄乌和谈欧洲上不了桌 欧洲战略自主咋这么难？](https://news.cctv.com/2025/02/18/ARTIYsaej6qOMtCqEOTgOYxD250218.shtml)
+
++ [特朗普政府“裁员大刀”挥向美国药管局 多名官员因遭遇被裁而起诉](https://news.cctv.com/2025/02/18/ARTI3r0ZuLTd3Hus7YrwzL9n250218.shtml)
+
