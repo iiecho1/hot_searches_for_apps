@@ -207,3 +207,13 @@
 
 + [意大利西西里岛火山喷发 游客“看热闹”致救援受阻](https://news.cctv.com/2025/02/19/ARTICbeaJINepMv26QSQjGya250219.shtml)
 
++ [最新评估报告：重建加沙地带需要超500亿美元](https://news.cctv.com/2025/02/19/ARTI4CwabJUe87KJx5WNYTBG250219.shtml)
+
++ [“可靠且始终如一的伙伴”非媒称赞中国以实际行动助力非洲基础设施建设](https://news.cctv.com/2025/02/19/ARTIGZbDy9P0bzHqbAISsxcr250219.shtml)
+
++ [深观察丨“现在正是欧洲反思错误并改变方向的时刻”](https://news.cctv.com/2025/02/19/ARTI8I7pGfoBSUONv0oWkjHT250219.shtml)
+
++ [中巴经济走廊加速升级](https://news.cctv.com/2025/02/19/ARTINO2yZtdOv2ybzcPgTFGP250219.shtml)
+
++ [推动文明交流互鉴 实现全人类整体利益](https://news.cctv.com/2025/02/19/ARTIswbqi96hbrXqSqQ8us1f250219.shtml)
+
