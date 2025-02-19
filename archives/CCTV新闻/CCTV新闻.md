@@ -181,3 +181,9 @@
 
 + [印尼总统普拉博沃首次改组内阁](https://news.cctv.com/2025/02/20/ARTIkZYB4Kar1KqJ0iHYLZ2F250220.shtml)
 
++ [联合国：苏丹约63.8万人处于灾难级别的粮食不安全状况](https://news.cctv.com/2025/02/20/ARTIeQ8LM7OgXwwOGANSJNCG250220.shtml)
+
++ [美联储公布1月会议纪要：通胀率略高 经济前景不确定](https://news.cctv.com/2025/02/20/ARTIR4QWuBoYPntaAbHzI2tN250220.shtml)
+
++ [受美国制裁影响 古巴高标号汽油短缺](https://news.cctv.com/2025/02/20/ARTIs2YN23nbU8aDy992xkjM250220.shtml)
+
