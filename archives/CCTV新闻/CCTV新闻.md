@@ -173,3 +173,15 @@
 
 + [4.5小时、4点共识：俄美沙特会谈带来哪些新进展](https://news.cctv.com/2025/02/19/ARTIt5jrGDcQECFxd2IptztL250219.shtml)
 
++ [特朗普：美方不会向乌派遣军队 不反对欧洲派遣维和部队](https://news.cctv.com/2025/02/19/ARTICxpkhjHYkqHCuxW3A8tY250219.shtml)
+
++ [特朗普批评泽连斯基：三年前就该结束这一切](https://news.cctv.com/2025/02/19/ARTIXAB7vAmcmufFMfnKasck250219.shtml)
+
++ [特朗普：可能将于本月底前与普京会面](https://news.cctv.com/2025/02/19/ARTIGYV4n7nW0r79f4DDbzQh250219.shtml)
+
++ [再舞关税大棒 美将对进口汽车征收25%左右的关税](https://news.cctv.com/2025/02/19/ARTI1S6XUafoUS9jIbtXnak2250219.shtml)
+
++ [巴西总检察长正式指控前总统博索纳罗策划政变](https://news.cctv.com/2025/02/19/ARTI24ha0s7Pjqmn6R4PD5rC250219.shtml)
+
++ [上百头伪虎鲸在澳大利亚一海滩大规模搁浅](https://news.cctv.com/2025/02/19/ARTI8A2lelxTtXH5jaePEEoE250219.shtml)
+
