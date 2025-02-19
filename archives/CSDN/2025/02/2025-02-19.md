@@ -175,3 +175,5 @@
 
 + [MAVEN学习](https://blog.csdn.net/CheatMyself/article/details/145716890)
 
++ [C++ 模拟真人鼠标轨迹算法 - 防止游戏检测](https://blog.csdn.net/ZhaDeNianQu/article/details/145705250)
+
