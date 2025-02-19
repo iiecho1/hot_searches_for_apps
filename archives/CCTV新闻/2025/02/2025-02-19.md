@@ -185,3 +185,9 @@
 
 + [上百头伪虎鲸在澳大利亚一海滩大规模搁浅](https://news.cctv.com/2025/02/19/ARTI8A2lelxTtXH5jaePEEoE250219.shtml)
 
++ [菲律宾副总统莎拉·杜特尔特就其弹劾案向最高法院提出申诉](https://news.cctv.com/2025/02/19/ARTIvS42FYx2m7e1eOWZh1mr250219.shtml)
+
++ [岸田文雄遇袭案 日本法院判决嫌疑人有期徒刑10年](https://news.cctv.com/2025/02/19/ARTIbZ8Dh3q5mmTp8jaNBYsA250219.shtml)
+
++ [日本法院判决岸田文雄遇袭案嫌疑人有期徒刑10年](https://news.cctv.com/2025/02/19/ARTIKwgv9lSBVJG97Pulg7YR250219.shtml)
+
