@@ -33,3 +33,5 @@
 
 + [劳动仲裁后续](https://www.v2ex.com/t/1112464)
 
++ [&lt;不懂就问&gt;为什么那么多国产 ai，就 deepseek 上岸了](https://www.v2ex.com/t/1112500)
+

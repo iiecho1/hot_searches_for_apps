@@ -191,3 +191,5 @@
 
 + [日本法院判决岸田文雄遇袭案嫌疑人有期徒刑10年](https://news.cctv.com/2025/02/19/ARTIKwgv9lSBVJG97Pulg7YR250219.shtml)
 
++ [越南国会批准投资建设老街—河内—海防铁路项目](https://news.cctv.com/2025/02/19/ARTIVoPKBHT92KpKO9GY4Twn250219.shtml)
+
