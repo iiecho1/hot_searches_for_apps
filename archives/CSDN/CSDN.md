@@ -193,3 +193,11 @@
 
 + [从猜想终结到算法革新，弹性哈希开启数据存储新篇章](https://blog.csdn.net/weixin_74888502/article/details/145729551)
 
++ [2025前端框架最新组件解析与实战技巧：Vue与React的革新之路](https://blog.csdn.net/INS_1023/article/details/145725757)
+
++ [YOLOv12技术解析：注意力机制在实时目标检测中的突破](https://blog.csdn.net/weixin_43694096/article/details/145729744)
+
++ [【GaussTech技术专栏】GaussDB AI大模型在智能运维场景的应用](https://blog.csdn.net/GaussDB/article/details/145722271)
+
++ [C++ 游戏开发：从零到英雄的进阶之旅](https://blog.csdn.net/GGDxianv/article/details/145720880)
+
