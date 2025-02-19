@@ -187,3 +187,9 @@
 
 + [受美国制裁影响 古巴高标号汽油短缺](https://news.cctv.com/2025/02/20/ARTIs2YN23nbU8aDy992xkjM250220.shtml)
 
++ [玻利维亚暴雨已致30人死亡](https://news.cctv.com/2025/02/20/ARTIXoirrigsuA02OHV5SMsL250220.shtml)
+
++ [荷兰将归还119件贝宁青铜器给尼日利亚](https://news.cctv.com/2025/02/20/ARTIlYpISeWWWbP8NSYhSLZZ250220.shtml)
+
++ [美国亚利桑那州两架小型飞机相撞 至少2人死亡](https://news.cctv.com/2025/02/20/ARTIgnuaS1XcE2UUeEE2le8h250220.shtml)
+
