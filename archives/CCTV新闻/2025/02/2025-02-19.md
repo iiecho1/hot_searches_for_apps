@@ -221,3 +221,7 @@
 
 + [切尔诺贝利核电站遭袭后灭火工作仍在继续](https://news.cctv.com/2025/02/19/ARTI5FKkovULNZHcIsAxP5Ck250219.shtml)
 
++ [多边主义是应对全球挑战最佳方案](https://news.cctv.com/2025/02/19/ARTI1TnK0tTdrBO5APbsETfF250219.shtml)
+
++ [涉及多个部门 特朗普政府继续挥舞“裁员刀”](https://news.cctv.com/2025/02/19/ARTIvsEGGiIUUvQsOBHzQk8q250219.shtml)
+
