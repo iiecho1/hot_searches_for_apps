@@ -149,3 +149,9 @@
 
 + [【基于SprintBoot+Mybatis+Mysql】电脑商城项目之设置默认收货地址及删除收货地址](https://blog.csdn.net/m0_74202856/article/details/145512610)
 
++ [cap5：YoloV5分割任务的TensorRT部署指南（python版）](https://blog.csdn.net/qq_40243750/article/details/145687249)
+
++ [功能测试与接口测试详解](https://blog.csdn.net/zhangsiyuan1998/article/details/145685605)
+
++ [什么是手机的boot分区](https://blog.csdn.net/2401_84168288/article/details/145717194)
+
