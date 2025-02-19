@@ -25,3 +25,27 @@
 
 + [消息称苹果 iPhone SE 4 首款自研调制解调器芯片性能逊于高通 X75、不支持毫米波 5G](https://m.ithome.com/html/830322.htm)
 
++ [行业首个，京东宣布为外卖骑手缴纳五险一金](https://m.ithome.com/html/831901.htm)
+
++ [苹果 iPhone 17 系列设计被曝有 3 种方案：标准版沿用经典、Air 配长条跑道、Pro 为横向大矩阵](https://m.ithome.com/html/832002.htm)
+
++ [浙大满血版 DeepSeek 上线免费使用：无惧系统繁忙，全国 829 所 CARSI 联盟高校开放共享](https://m.ithome.com/html/831879.htm)
+
++ [百度李彦宏：DeepSeek 让我们明白要将最优秀的模型开源](https://m.ithome.com/html/831982.htm)
+
++ [莲花跑车新款车型“降价超 10 万元”引老车主不满，官方致歉](https://m.ithome.com/html/831984.htm)
+
++ [《哪吒之魔童闹海》电影密钥延期，延长上映至 3 月 30 日](https://m.ithome.com/html/831968.htm)
+
++ [6299 元起明晚上市，英伟达 RTX 5070 Ti 显卡国行建议零售价公布](https://m.ithome.com/html/831863.htm)
+
++ [李彦宏：文心大模型 4.5 将开源，是百度有史以来最强大的大模型](https://m.ithome.com/html/831893.htm)
+
++ [有望成苹果首批碳中和手机：iPhone 17 系列材质被曝大反转，Pro 用铝合金、Air 独享钛合金](https://m.ithome.com/html/831886.htm)
+
++ [酷态科 10 号超级电能线开售：支持旧款充电头、移动电源激发小米 / PPS 快充，99 元](https://m.ithome.com/html/831966.htm)
+
++ [芯片专家王寰宇回国任教，曾参与研发 3 款苹果 M 系列芯片](https://m.ithome.com/html/832080.htm)
+
++ [多方消息称苹果 iPhone SE 4 改名 iPhone 16E，设计基于 iPhone 16](https://m.ithome.com/html/831462.htm)
+

@@ -185,3 +185,9 @@
 
 + [从大模型性能优化到DeepSeek部署｜得物技术](https://blog.csdn.net/SmartCodeTech/article/details/145704145)
 
++ [DeepSeek赋能：3天拿下华为云鸿蒙开发者微认证，开启智能开发新旅程](https://blog.csdn.net/CC1991_/article/details/145684201)
+
++ [Java 大视界 -- 人才需求与培养：Java 大数据领域的职业发展路径（92）](https://blog.csdn.net/atgfg/article/details/145717439)
+
++ [python自动化制作常规的日报数据可视化](https://blog.csdn.net/AOAIYI/article/details/145707746)
+
