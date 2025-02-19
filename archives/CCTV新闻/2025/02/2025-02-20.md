@@ -161,3 +161,9 @@
 
 + [特朗普政府警告：若学术机构继续推行平权政策 将削减对其资助](https://news.cctv.com/2025/02/18/ARTIp9Wp8ZyiZjve47523BJk250218.shtml)
 
++ [蓝厅观察丨在联合国 中方发出重振多边主义强音](https://news.cctv.com/2025/02/20/ARTIeKAybbhobjOn1o2zJ9Ji250220.shtml)
+
++ [哥伦比亚首都发生炸弹爆炸袭击致1死7伤](https://news.cctv.com/2025/02/20/ARTIfc2qYIt2EN5zr7khnWPv250220.shtml)
+
++ [美军试射“民兵3”洲际弹道导弹](https://news.cctv.com/2025/02/20/ARTIoFDPdyWmuuvE7ZfRDRg5250220.shtml)
+

@@ -111,3 +111,21 @@
 
 + [从低清到4K的魔法：FlashVideo突破高分辨率视频生成计算瓶颈(港大&港中文&字节)](https://blog.csdn.net/AIGCer/article/details/145693354)
 
++ [使用DeepSeek+本地知识库，尝试从0到1搭建高度定制化工作流（数据分析篇）](https://blog.csdn.net/m0_50111178/article/details/145689974)
+
++ [Linux下学【MySQL】中如何实现：多表查询（配sql+实操图+案例巩固 通俗易懂版~）](https://blog.csdn.net/ZYK069/article/details/145503952)
+
++ [个人系统架构技术分享](https://blog.csdn.net/gsdgdg00/article/details/145713092)
+
++ [Text2SQL数据集和技术方案整理](https://blog.csdn.net/TonyChacha635401873/article/details/145683024)
+
++ [DeepSeek赋能：3天拿下华为云鸿蒙开发者微认证，开启智能开发新旅程](https://blog.csdn.net/CC1991_/article/details/145684201)
+
++ [4.从零开始学会Vue--{{组件通信}}](https://blog.csdn.net/weixin_67448099/article/details/145689567)
+
++ [MATLAB更改图论的布局：设置layout](https://blog.csdn.net/qq_37345758/article/details/145716241)
+
++ [Vue 3最新组件解析与实践指南：提升开发效率的利器](https://blog.csdn.net/zhaochen1127/article/details/145687957)
+
++ [多目标粒子群优化算法-MOPSO-（机器人路径规划/多目标信号处理（图像/音频））](https://blog.csdn.net/RRACC/article/details/145702060)
+
