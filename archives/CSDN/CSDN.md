@@ -159,3 +159,15 @@
 
 + [Qt中基于开源库QRencode生成二维码(附工程源码链接)](https://blog.csdn.net/haokan123456789/article/details/145654492)
 
++ [DooTask项目管理软件：ChatGPT、DeepSeek、通义千问与文心一言四大AI机器人的深度比较](https://blog.csdn.net/weixin_43151418/article/details/145686563)
+
++ [STAR: 利用时空注意力机制和动态频率损失的视频超分辨率增强框架](https://blog.csdn.net/m0_46510245/article/details/145722262)
+
++ [Cursor实战：Web版背单词应用开发演示](https://blog.csdn.net/u014390502/article/details/145725076)
+
++ [DeepSeek 助力 Vue 开发：打造丝滑的范围选择器（Range Picker）](https://blog.csdn.net/qq_33650655/article/details/145713572)
+
++ [深入解析 iOS 视频录制（三）：完整录制流程的实现与整合](https://blog.csdn.net/weixin_39339407/article/details/145706253)
+
++ [新手小白学习docker第十弹-------Docker微服务实战](https://blog.csdn.net/m0_52592128/article/details/143746014)
+

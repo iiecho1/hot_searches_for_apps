@@ -199,3 +199,11 @@
 
 + [“我被导弹瞄准” 哥伦比亚总统称有人欲对其实施暗杀](https://news.cctv.com/2025/02/19/ARTIxoIX7HCHQM7TUcGiuDLy250219.shtml)
 
++ [巴西宣布加入“欧佩克+”](https://news.cctv.com/2025/02/19/ARTIeIihTAmm5HFPgCmWR8Sg250219.shtml)
+
++ [泽连斯基：没人会对“阿富汗2.0”感兴趣，记得美国人匆忙撤离时发生的事](https://news.cctv.com/2025/02/19/ARTIkt3wIK5d6QBUs3gpz2mn250219.shtml)
+
++ [葡萄牙纳扎雷极限冲浪大赛 滔天巨浪蔚为壮观](https://photo.cctv.com/2025/02/19/PHOAvzH4Dn1q2903MfOGpbU1250219.shtml)
+
++ [意大利西西里岛火山喷发 游客“看热闹”致救援受阻](https://news.cctv.com/2025/02/19/ARTICbeaJINepMv26QSQjGya250219.shtml)
+
