@@ -167,3 +167,15 @@
 
 + [美军试射“民兵3”洲际弹道导弹](https://news.cctv.com/2025/02/20/ARTIoFDPdyWmuuvE7ZfRDRg5250220.shtml)
 
++ [非盟呼吁苏丹冲突各方实行人道主义停火](https://news.cctv.com/2025/02/20/ARTIHmI8fShR0R8IZfBXnyzr250220.shtml)
+
++ [巴西总统卢拉：博索纳罗涉嫌政变一案将提交至最高法院](https://news.cctv.com/2025/02/20/ARTIoeVRMlXcwjN5wtEhACxq250220.shtml)
+
++ [摩洛哥捣毁一个与“伊斯兰国”有关联的恐怖组织](https://news.cctv.com/2025/02/20/ARTIDKqmKLmkyzNHnIUKacCs250220.shtml)
+
++ [普京：俄美应解决延长《新削减战略武器条约》的相关问题](https://news.cctv.com/2025/02/20/ARTIFiAN5qyptuiMBJLRQWRc250220.shtml)
+
++ [巴西圣保罗州宣布进入登革热紧急状态](https://news.cctv.com/2025/02/20/ARTIg3o8OVHemaHbiYwxfWhl250220.shtml)
+
++ [美国俄勒冈州喀斯喀特山脉发生雪崩 致2名滑雪者死亡](https://news.cctv.com/2025/02/20/ARTI6enjWmpoLrrS4vNx0lYu250220.shtml)
+

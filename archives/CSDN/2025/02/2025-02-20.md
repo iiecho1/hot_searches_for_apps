@@ -129,3 +129,9 @@
 
 + [多目标粒子群优化算法-MOPSO-（机器人路径规划/多目标信号处理（图像/音频））](https://blog.csdn.net/RRACC/article/details/145702060)
 
++ [DeepSeek 助力 Vue 开发：打造丝滑的表单验证（Form Validation）](https://blog.csdn.net/qq_33650655/article/details/145735582)
+
++ [AI照片管理利器实战：自动化分类+智能搜索+远程访问一站式解决方案](https://blog.csdn.net/qq_25749749/article/details/145684147)
+
++ [【Spring】Spring配置文件](https://blog.csdn.net/zhyhgx/article/details/145712422)
+
