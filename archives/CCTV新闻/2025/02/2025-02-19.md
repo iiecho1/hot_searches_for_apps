@@ -193,3 +193,9 @@
 
 + [越南国会批准投资建设老街—河内—海防铁路项目](https://news.cctv.com/2025/02/19/ARTIVoPKBHT92KpKO9GY4Twn250219.shtml)
 
++ [法国《回声报》：中国科技企业的振兴超乎预期](https://news.cctv.com/2025/02/19/ARTIOk9zW3aLi1cII6cJc3I1250219.shtml)
+
++ [最新调查：特朗普关税政策恐引发美国“末日消费”潮](https://news.cctv.com/2025/02/19/ARTI1FO1wcs4UJdFair9Vv0u250219.shtml)
+
++ [“我被导弹瞄准” 哥伦比亚总统称有人欲对其实施暗杀](https://news.cctv.com/2025/02/19/ARTIxoIX7HCHQM7TUcGiuDLy250219.shtml)
+

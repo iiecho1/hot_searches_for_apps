@@ -155,3 +155,7 @@
 
 + [什么是手机的boot分区](https://blog.csdn.net/2401_84168288/article/details/145717194)
 
++ [【Elasticsearch】监控与管理：集群安全管理](https://blog.csdn.net/lilinhai548/article/details/145711660)
+
++ [Qt中基于开源库QRencode生成二维码(附工程源码链接)](https://blog.csdn.net/haokan123456789/article/details/145654492)
+

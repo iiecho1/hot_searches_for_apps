@@ -35,3 +35,5 @@
 
 + [&lt;不懂就问&gt;为什么那么多国产 ai，就 deepseek 上岸了](https://www.v2ex.com/t/1112500)
 
++ [已裸辞, 3 月份准备日本旅行, 有没有什么注意的](https://www.v2ex.com/t/1112547)
+
