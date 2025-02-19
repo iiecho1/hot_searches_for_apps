@@ -101,3 +101,13 @@
 
 + [【最全教程】DeepSeek-R1大模型接入WPS](https://blog.csdn.net/deepseek01/article/details/145673201)
 
++ [PyTorch与TensorFlow的对比：哪个框架更适合你的项目？](https://blog.csdn.net/qq_43580271/article/details/145714988)
+
++ [【Spring】Spring MVC案例](https://blog.csdn.net/zhyhgx/article/details/145681622)
+
++ [华为昇腾 910B 部署 DeepSeek-R1 蒸馏系列模型详细指南](https://blog.csdn.net/MnivL/article/details/145685134)
+
++ [python自动化制作常规的日报数据可视化](https://blog.csdn.net/AOAIYI/article/details/145707746)
+
++ [从低清到4K的魔法：FlashVideo突破高分辨率视频生成计算瓶颈(港大&港中文&字节)](https://blog.csdn.net/AIGCer/article/details/145693354)
+
