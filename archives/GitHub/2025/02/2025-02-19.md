@@ -29,3 +29,15 @@
 
 + [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
 
++ [docmost/docmost](https://github.com/docmost/docmost)
+
++ [cordx56/rustowl](https://github.com/cordx56/rustowl)
+
++ [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
+
++ [outline/outline](https://github.com/outline/outline)
+
++ [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+
++ [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
+

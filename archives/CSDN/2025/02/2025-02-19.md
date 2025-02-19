@@ -177,3 +177,11 @@
 
 + [C++ 模拟真人鼠标轨迹算法 - 防止游戏检测](https://blog.csdn.net/ZhaDeNianQu/article/details/145705250)
 
++ [无需环境，直接用 Docker 来启动你的 Python 项目](https://blog.csdn.net/2301_76564079/article/details/145731583)
+
++ [TensorFlow深度学习实战（8）——卷积神经网络](https://blog.csdn.net/LOVEmy134611/article/details/144276122)
+
++ [开源模型应用落地-DeepSeek-R1-Distill-Qwen-7B-LoRA微调-LLaMA-Factory-单机单卡-V100（一）](https://blog.csdn.net/qq839019311/article/details/145705521)
+
++ [从大模型性能优化到DeepSeek部署｜得物技术](https://blog.csdn.net/SmartCodeTech/article/details/145704145)
+
