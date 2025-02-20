@@ -101,3 +101,7 @@
 
 + [小程序开发效率对比：uniapp和原生开发](https://blog.csdn.net/sixpp/article/details/145704696)
 
++ [AI性能极致体验：通过阿里云平台高效调用满血版DeepSeek-R1模型](https://blog.csdn.net/2301_80840905/article/details/145704238)
+
++ [解锁 AIoT 无限可能，乐鑫邀您共赴 Embedded World 2025](https://blog.csdn.net/espressif/article/details/145712433)
+
