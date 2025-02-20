@@ -193,3 +193,5 @@
 
 + [美国亚利桑那州两架小型飞机相撞 至少2人死亡](https://news.cctv.com/2025/02/20/ARTIgnuaS1XcE2UUeEE2le8h250220.shtml)
 
++ [美国交通部撤销对纽约市征收拥堵费的批准](https://news.cctv.com/2025/02/20/ARTIYRBI3SjxyNxMaAflIEXf250220.shtml)
+
