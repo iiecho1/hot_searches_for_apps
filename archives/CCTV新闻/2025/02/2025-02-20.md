@@ -203,3 +203,5 @@
 
 + [上百头伪虎鲸在澳大利亚一海滩搁浅](https://photo.cctv.com/2025/02/20/PHOAcrbHZC5hEml9osuAUmGr250220.shtml)
 
++ [泰国接收一批从缅甸电诈园区遣送出的中国公民](https://news.cctv.com/2025/02/20/ARTIGx6HEK1XqHDppeosUmnf250220.shtml)
+
