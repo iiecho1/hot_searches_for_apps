@@ -191,3 +191,13 @@
 
 + [学习threejs，THREE.Material材质基类详解](https://blog.csdn.net/qq_28419035/article/details/145751054)
 
++ [ElasticSearch+Kibana通过Docker部署到Linux服务器中](https://blog.csdn.net/Yi_An_Jie/article/details/145752126)
+
++ [DeepSeek 智慧城市应用：交通流量预测（9/18）](https://blog.csdn.net/beautifulmemory/article/details/145741017)
+
++ [网络爬虫学习：借助DeepSeek完善爬虫软件，实现模拟鼠标右键点击，将链接另存为本地文件](https://blog.csdn.net/bahamutj/article/details/145739179)
+
++ [深入解析 Flutter 高级路由管理：使用 go_router 和 auto_route 实现复杂路由与拦截](https://blog.csdn.net/s12117719679/article/details/145699080)
+
++ [SpringCloud系列教程：微服务的未来（二十四）Direct交换机、Topic交换机、声明队列交换机](https://blog.csdn.net/m0_63267251/article/details/145689233)
+
