@@ -137,3 +137,7 @@
 
 + [【Spring】详解Spring IOC&DI](https://blog.csdn.net/zhyhgx/article/details/145703252)
 
++ [【项目日记】仿RabbitMQ实现消息队列 --- 模块设计](https://blog.csdn.net/JLX_1/article/details/145709671)
+
++ [HCI学习，基于Human-computer interaction: an empirical research perspective 一](https://blog.csdn.net/weixin_44628096/article/details/145684556)
+
