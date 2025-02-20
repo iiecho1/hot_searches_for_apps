@@ -219,3 +219,15 @@
 
 + [缅甸遣返200名妙瓦底电诈园区中国籍人员](https://news.cctv.com/2025/02/20/ARTIeeVjhKNnpFws3DKIbNMD250220.shtml)
 
++ [欧洲抓紧应对美关税政策风险](https://news.cctv.com/2025/02/20/ARTIGKtPUxXdQ6aLelTYpgtf250220.shtml)
+
++ [和评理｜关税不是“万能魔法”，也做不到“让美国再次伟大”](https://news.cctv.com/2025/02/20/ARTIiOl30HbdZBf5Vg1Iap3e250220.shtml)
+
++ [通讯｜“鲁班工坊的毕业生供不应求”——鲁班工坊助力马达加斯加工业化发展](https://news.cctv.com/2025/02/20/ARTIfqXVyhn29e3c1AiTTCtZ250220.shtml)
+
++ [共话中国经济新机遇丨通讯：授之以渔 惠及长远——中企助力北非工程技术人员培养](https://news.cctv.com/2025/02/20/ARTIvskEP2FJxkYdvGhjl1jc250220.shtml)
+
++ [救“蛋荒” 土耳其向美国出口1.5万吨鸡蛋](https://news.cctv.com/2025/02/20/ARTIQ6mqrRycYeA94sYpvlC2250220.shtml)
+
++ [哈马斯将4具以方被扣押人员遗体移交给红十字国际委员会](https://news.cctv.com/2025/02/20/ARTIxS23MUFH3NJKhP9GBmfs250220.shtml)
+

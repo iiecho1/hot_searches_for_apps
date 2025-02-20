@@ -179,3 +179,7 @@
 
 + [网络安全攻防演练——RT实战技巧篇 ](https://blog.csdn.net/Hacker_Fuchen/article/details/145689257)
 
++ [DeepSeek 云原生分布式部署的深度实践与疑难解析—— 从零到生产级落地的全链路避坑指南](https://blog.csdn.net/Yi_An_Jie/article/details/145728756)
+
++ [如何使用Spark SQL进行复杂的数据查询和分析](https://blog.csdn.net/2402_85246552/article/details/145740917)
+
