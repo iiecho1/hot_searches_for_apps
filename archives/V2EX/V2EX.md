@@ -21,3 +21,5 @@
 
 + [面试没过，但亲戚说认识人可以安排](https://www.v2ex.com/t/1112810)
 
++ [16E 居然砍了 Magsafe，吃相有点难看](https://www.v2ex.com/t/1112855)
+

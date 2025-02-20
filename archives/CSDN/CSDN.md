@@ -105,3 +105,29 @@
 
 + [解锁 AIoT 无限可能，乐鑫邀您共赴 Embedded World 2025](https://blog.csdn.net/espressif/article/details/145712433)
 
++ [超4w人学过的数据分析思维课，带你破除认知迷雾](https://blog.csdn.net/weixin_41645135/article/details/145764534)
+
++ [【生物AI】基于深度学习的疾病诊断标志物发现具体的代码实现示例](https://blog.csdn.net/linlinzhengkarry/article/details/145667520)
+
++ [▲基于QPSK调制解调+LDPC编译码通信链路matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/145759790)
+
++ [Vision Transformer中的图像块嵌入详解：线性投影和二维卷积的数学原理与代码实现](https://blog.csdn.net/m0_46510245/article/details/145747678)
+
++ [实战设计模式之外观模式](https://blog.csdn.net/hope_wisdom/article/details/145670723)
+
++ [html网络安全工具源码 网络安全前端](https://blog.csdn.net/2401_88326591/article/details/145728714)
+
++ [基于知识图谱的问答系统：后端Python+Flask，数据库Neo4j，前端Vue3（提供源码）](https://blog.csdn.net/qq_27574367/article/details/145720768)
+
++ [Java 大视界 -- 企业数字化转型中的 Java 大数据战略与实践（93）](https://blog.csdn.net/atgfg/article/details/145742020)
+
++ [【Elasticsearch】监控与管理：集群安全管理](https://blog.csdn.net/lilinhai548/article/details/145711660)
+
++ [Deepseek整合SpringAI](https://blog.csdn.net/u013257321/article/details/145727272)
+
++ [蓝桥杯学习大纲](https://blog.csdn.net/2302_80067378/article/details/145763039)
+
++ [【第四届网络安全、人工智能与数字经济国际学术会议（CSAIDE 2025】网络安全，人工智能，数字经济的研究](https://blog.csdn.net/2302_79376097/article/details/145741392)
+
++ [基于Spring Boot+Vue+UNIAPP的传统戏曲推广微信小程序](https://blog.csdn.net/2301_79727522/article/details/145763757)
+
