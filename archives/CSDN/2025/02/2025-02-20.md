@@ -187,3 +187,7 @@
 
 + [DeepSeek模型快速部署教程-搭建自己的DeepSeek](https://blog.csdn.net/m0_61712829/article/details/145733326)
 
++ [TensorFlow深度学习实战——构建卷积神经网络实现CIFAR-10图像分类](https://blog.csdn.net/LOVEmy134611/article/details/144276180)
+
++ [学习threejs，THREE.Material材质基类详解](https://blog.csdn.net/qq_28419035/article/details/145751054)
+
