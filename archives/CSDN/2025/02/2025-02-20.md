@@ -183,3 +183,7 @@
 
 + [如何使用Spark SQL进行复杂的数据查询和分析](https://blog.csdn.net/2402_85246552/article/details/145740917)
 
++ [DeepSeek、微信、硅基流动、纳米搜索、秘塔搜索……十种不同方法实现DeepSeek使用自由](https://blog.csdn.net/tian330726/article/details/145732822)
+
++ [DeepSeek模型快速部署教程-搭建自己的DeepSeek](https://blog.csdn.net/m0_61712829/article/details/145733326)
+

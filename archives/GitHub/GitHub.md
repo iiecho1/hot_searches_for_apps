@@ -31,3 +31,25 @@
 
 + [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
 
++ [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)
+
++ [nexus-xyz/network-api](https://github.com/nexus-xyz/network-api)
+
++ [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)
+
++ [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+
++ [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader)
+
++ [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot)
+
++ [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+
++ [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+
++ [mastra-ai/mastra](https://github.com/mastra-ai/mastra)
+
++ [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)
+
++ [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
