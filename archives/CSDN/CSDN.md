@@ -169,3 +169,9 @@
 
 + [LangChain+本地文本嵌入模型+本地向量库，实现文本相似性增强检索功能](https://blog.csdn.net/liuche1/article/details/145738459)
 
++ [【Android】Android 悬浮窗开发 ( 动态权限请求 | 前台服务和通知 | 悬浮窗创建 )](https://blog.csdn.net/han1202012/article/details/145711277)
+
++ [极速探索HarmonyOS NEXT：纯血鸿蒙应用开发全攻略【文末好书推荐】](https://blog.csdn.net/weixin_52908342/article/details/145722766)
+
++ [快速定位并优化CPU 与 JVM 内存性能瓶颈](https://blog.csdn.net/z13615480737/article/details/145740242)
+
