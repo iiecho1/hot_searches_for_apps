@@ -131,3 +131,7 @@
 
 + [基于Spring Boot+Vue+UNIAPP的传统戏曲推广微信小程序](https://blog.csdn.net/2301_79727522/article/details/145763757)
 
++ [DeepSeek：开启智能编程新时代，与InsCode AI IDE共同引领未来](https://blog.csdn.net/m0_59502398/article/details/145711879)
+
++ [DeepSeek模型快速部署教程-搭建自己的DeepSeek](https://blog.csdn.net/m0_61712829/article/details/145733326)
+
