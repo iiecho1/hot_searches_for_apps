@@ -141,3 +141,9 @@
 
 + [HCI学习，基于Human-computer interaction: an empirical research perspective 一](https://blog.csdn.net/weixin_44628096/article/details/145684556)
 
++ [YOLOv12：以注意力为中心的实时目标检测器](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/145725555)
+
++ [【GaussTech技术专栏】GaussDB AI大模型在智能运维场景的应用](https://blog.csdn.net/GaussDB/article/details/145722271)
+
++ [深度探索：DeepSeek与鸿蒙HarmonyOS应用开发的深度融合](https://blog.csdn.net/qq_32682301/article/details/145742890)
+
