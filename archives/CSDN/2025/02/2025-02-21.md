@@ -141,3 +141,7 @@
 
 + [深入解析 Flutter Riverpod：从原理到实战](https://blog.csdn.net/s12117719679/article/details/145699658)
 
++ [挑战纯CPU最低成本推理极限：四路E5服务器装机与模型优化(持续探索优化中)](https://blog.csdn.net/qq_56558214/article/details/145763928)
+
++ [Elasticsearch AI Assistant 集成 DeepSeek，1分钟搭建智能运维助手](https://blog.csdn.net/UbuntuTouch/article/details/145704227)
+

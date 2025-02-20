@@ -171,3 +171,7 @@
 
 + [意欲何为？以军持续推进约旦河西岸军事行动](https://news.cctv.com/2025/02/21/ARTIKpHCsvprZf3Qx5jNrN3b250221.shtml)
 
++ [埃及时隔百年首次发现法老陵墓，埃及官员称“有重要意义”](https://news.cctv.com/2025/02/21/ARTIzTP6XBJnbOEhzM7bCnVC250221.shtml)
+
++ [DeepSeek，激荡AI行业的“一股清流”](https://news.cctv.com/2025/02/21/ARTIhj7EFgQ2cMZ7JGsuBhZU250221.shtml)
+
