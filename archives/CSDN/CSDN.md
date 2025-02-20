@@ -155,3 +155,15 @@
 
 + [【Dubbo+Zookeeper】——SpringBoot+Dubbo+Zookeeper知识整合](https://blog.csdn.net/shsjssnn/article/details/141275876)
 
++ [【AI提示词】总结了30个DeepSeek降重指令，让论文重复率降至6%](https://blog.csdn.net/guorui_java/article/details/145680420)
+
++ [【生物AI】深入解析空间代谢组批次矫正方法](https://blog.csdn.net/linlinzhengkarry/article/details/145667608)
+
++ [Elasticsearch 混合搜索 - Hybrid Search](https://blog.csdn.net/UbuntuTouch/article/details/145697606)
+
++ [【C++笔记】C++11的深度剖析(二)](https://blog.csdn.net/2301_81670477/article/details/145709956)
+
++ [动态蛇形卷积在YOLOv8中的探索与实践：提高目标识别与定位精度](https://blog.csdn.net/shrgegrb/article/details/145741510)
+
++ [计算机网络（涵盖OSI，TCP/IP，交换机，路由器，局域网）](https://blog.csdn.net/2301_80371156/article/details/145686579)
+

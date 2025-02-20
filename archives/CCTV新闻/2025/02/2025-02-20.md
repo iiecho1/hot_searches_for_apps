@@ -205,3 +205,13 @@
 
 + [泰国接收一批从缅甸电诈园区遣送出的中国公民](https://news.cctv.com/2025/02/20/ARTIGx6HEK1XqHDppeosUmnf250220.shtml)
 
++ [历时70分钟 两场庭审结束 尹锡悦未直接发表意见](https://news.cctv.com/2025/02/20/ARTIcz2Xzt4Nu9LkdqloJxkA250220.shtml)
+
++ [俄军：已收回800多平方公里库尔斯克州土地](https://military.cctv.com/2025/02/20/ARTIaNjNrB1MPqKUxxwq6Owk250220.shtml)
+
++ [第二任期已满30天 特朗普“月考”试卷出炉 一起划重点→](https://news.cctv.com/2025/02/20/ARTIDSlW6vmDcKLZnOTqK3op250220.shtml)
+
++ [韩美举行联合空中演习](https://military.cctv.com/2025/02/20/ARTIqY6Hk4hlLwTuCpJVr8x0250220.shtml)
+
++ [特朗普指责乌克兰总统“玩弄”美国](https://news.cctv.com/2025/02/20/ARTIYCqH49DLJMU5cB709j4s250220.shtml)
+
