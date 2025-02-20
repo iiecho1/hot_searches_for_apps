@@ -201,3 +201,5 @@
 
 + [SpringCloud系列教程：微服务的未来（二十四）Direct交换机、Topic交换机、声明队列交换机](https://blog.csdn.net/m0_63267251/article/details/145689233)
 
++ [Spring Cloud LoadBalancer 负载均衡](https://blog.csdn.net/2202_76097976/article/details/145750930)
+
