@@ -215,3 +215,7 @@
 
 + [特朗普指责乌克兰总统“玩弄”美国](https://news.cctv.com/2025/02/20/ARTIYCqH49DLJMU5cB709j4s250220.shtml)
 
++ [美国加州山谷现“火瀑布”奇观](https://photo.cctv.com/2025/02/20/PHOAE53fwI7oCyegW24Q7HbY250220.shtml)
+
++ [缅甸遣返200名妙瓦底电诈园区中国籍人员](https://news.cctv.com/2025/02/20/ARTIeeVjhKNnpFws3DKIbNMD250220.shtml)
+

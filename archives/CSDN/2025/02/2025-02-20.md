@@ -167,3 +167,5 @@
 
 + [计算机网络（涵盖OSI，TCP/IP，交换机，路由器，局域网）](https://blog.csdn.net/2301_80371156/article/details/145686579)
 
++ [LangChain+本地文本嵌入模型+本地向量库，实现文本相似性增强检索功能](https://blog.csdn.net/liuche1/article/details/145738459)
+
