@@ -179,3 +179,9 @@
 
 + [学习threejs，使用MeshBasicMaterial基本网格材质](https://blog.csdn.net/qq_28419035/article/details/145770283)
 
++ [GaussDB高安全—数据保护：数据透明加密](https://blog.csdn.net/GaussDB/article/details/145762006)
+
++ [DeepSeek赋能智慧城市：多场景应用，打造感知-决策-执行的闭环解决方案架构](https://blog.csdn.net/qq_35004943/article/details/145730711)
+
++ [基于大数据爬虫的旅游分析可视化平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/145773453)
+
