@@ -207,3 +207,9 @@
 
 + [【金融量化】解读量化投资回测指标](https://blog.csdn.net/weixin_43935696/article/details/145723953)
 
++ [体验用ai做了个python小游戏](https://blog.csdn.net/edzjx/article/details/145740811)
+
++ [工业相机的主要参数及计算](https://blog.csdn.net/ZQ51camera/article/details/145724825)
+
++ [第四届图像、信号处理与模式识别国际学术会议（ISPP 2025)](https://blog.csdn.net/2403_88900542/article/details/145760880)
+
