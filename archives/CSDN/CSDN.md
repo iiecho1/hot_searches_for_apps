@@ -155,3 +155,17 @@
 
 + [网络安全“挂图作战“及其场景](https://blog.csdn.net/fullbug/article/details/145697395)
 
++ [DeepSeek 提示词：定义、作用、分类与设计原则](https://blog.csdn.net/lilinhai548/article/details/145770194)
+
++ [解锁Linux命令行潜力：文件重定向的高级技巧与实践](https://blog.csdn.net/Cayyyy/article/details/145703995)
+
++ [【SpringBoot教程】Spring Boot + MySQL + Druid连接池整合教程](https://blog.csdn.net/weixin_48235955/article/details/145738543)
+
++ [DeepSeek 助力 Vue 开发：打造丝滑的复制到剪贴板（Copy to Clipboard）](https://blog.csdn.net/qq_33650655/article/details/145739569)
+
++ [Deepseek官网太卡，教你白嫖阿里云的Deepseek-R1满血版](https://blog.csdn.net/qq_36624086/article/details/145764211)
+
++ [用 docker compose 部署 ELK 8 ，Logstash geoip 插件解析客户端 IP 地理位置 + Kibana Maps 地图展示](https://blog.csdn.net/AK_47_Niu/article/details/145766172)
+
++ [2024年国赛高教杯数学建模C题农作物的种植策略解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/145698143)
+
