@@ -31,3 +31,19 @@
 
 + [spf13/cobra](https://github.com/spf13/cobra)
 
++ [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
++ [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
+
++ [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
+
++ [twbs/bootstrap](https://github.com/twbs/bootstrap)
+
++ [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+
++ [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
+
++ [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+

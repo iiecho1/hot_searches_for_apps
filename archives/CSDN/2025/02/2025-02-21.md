@@ -203,3 +203,7 @@
 
 + [基于AI的智能开发环境—Trae在Web开发中的应用实战与性能评估【Trae项目实战】](https://blog.csdn.net/weixin_52908342/article/details/145775367)
 
++ [Helix——Figure 02发布通用人形机器人控制的VLA：一组神经网络权重下的快与慢双系统，让两个机器人协作干活](https://blog.csdn.net/v_JULY_v/article/details/145773235)
+
++ [【金融量化】解读量化投资回测指标](https://blog.csdn.net/weixin_43935696/article/details/145723953)
+
