@@ -145,3 +145,5 @@
 
 + [Elasticsearch AI Assistant 集成 DeepSeek，1分钟搭建智能运维助手](https://blog.csdn.net/UbuntuTouch/article/details/145704227)
 
++ [基于SprintBoot+Mybatis+Mysql】电脑商城项目之商品热销排行及显示商品详情](https://blog.csdn.net/m0_74202856/article/details/145534617)
+
