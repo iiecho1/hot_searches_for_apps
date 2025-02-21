@@ -109,3 +109,23 @@
 
 + [2025年网络安全（黑客技术）三个月自学手册](https://blog.csdn.net/csbDD/article/details/145746182)
 
++ [DeepSeek 助力 Vue 开发：打造丝滑的表单验证（Form Validation）](https://blog.csdn.net/qq_33650655/article/details/145735582)
+
++ [蓝耘科技上线DeepSeek满血版：500万Tokens专享，解锁AI推理新体验](https://blog.csdn.net/2302_79376097/article/details/145783718)
+
++ [Helix——Figure 02发布通用人形机器人控制的VLA：一组神经网络权重下的快与慢双系统，让两个机器人协作干活](https://blog.csdn.net/v_JULY_v/article/details/145773235)
+
++ [使用Geotools读取DEM地形数据实战-以湖南省30米数据为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/145764078)
+
++ [工业相机的主要参数及计算](https://blog.csdn.net/ZQ51camera/article/details/145724825)
+
++ [2025前端框架最新组件解析与实战技巧：Vue与React的革新之路](https://blog.csdn.net/INS_1023/article/details/145725757)
+
++ [Docker 与 CI/CD：自动化构建和部署](https://blog.csdn.net/u012561308/article/details/145725513)
+
++ [Java 大视界 -- 企业数字化转型中的 Java 大数据战略与实践（93）](https://blog.csdn.net/atgfg/article/details/145742020)
+
++ [自由学习记录（36）](https://blog.csdn.net/red_redemption/article/details/145656785)
+
++ [Http升级为Https - 开发/测试服环境](https://blog.csdn.net/william_n/article/details/145761926)
+
