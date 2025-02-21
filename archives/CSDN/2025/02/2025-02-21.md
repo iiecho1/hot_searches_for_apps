@@ -169,3 +169,13 @@
 
 + [2024年国赛高教杯数学建模C题农作物的种植策略解题全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/145698143)
 
++ [【大模型科普】大模型：人工智能的前沿（一文读懂大模型）](https://blog.csdn.net/Morse_Chen/article/details/145731105)
+
++ [LLM+多智能体协作：基于CrewAI与DeepSeek的邮件自动化实践](https://blog.csdn.net/weixin_66401877/article/details/145764151)
+
++ [【SpringBoot教程】SpringBoot整合Caffeine本地缓存及Spring Cache注解的使用](https://blog.csdn.net/weixin_48235955/article/details/145765653)
+
++ [【MySQL】第七弹---深入理解数据库表约束：自增长、唯一键、外键及综合案例解析](https://blog.csdn.net/2201_75584283/article/details/142184008)
+
++ [学习threejs，使用MeshBasicMaterial基本网格材质](https://blog.csdn.net/qq_28419035/article/details/145770283)
+

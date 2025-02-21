@@ -47,3 +47,5 @@
 
 + [想买一个 iPad 当做爱奇艺工具。](https://www.v2ex.com/t/1113125)
 
++ [谷歌翻译质量下降严重](https://www.v2ex.com/t/1113058)
+
