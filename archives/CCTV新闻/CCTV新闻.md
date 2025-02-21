@@ -181,3 +181,7 @@
 
 + [上任一个月，特朗普刮起的全球风暴会“回旋镖效应”到美国吗？](https://news.cctv.com/2025/02/21/ARTImVBDxig9zMerM58hKdwS250221.shtml)
 
++ [美关税举措损害全球经济增长](https://news.cctv.com/2025/02/21/ARTICq4jrcrtPdHRQU5bOZMZ250221.shtml)
+
++ [权威报告：中国软实力排名上升至全球第二](https://news.cctv.com/2025/02/21/ARTIH1509uq5RH05LJFHUIIZ250221.shtml)
+
