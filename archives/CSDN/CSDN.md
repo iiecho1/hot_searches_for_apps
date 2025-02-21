@@ -147,3 +147,7 @@
 
 + [基于SprintBoot+Mybatis+Mysql】电脑商城项目之商品热销排行及显示商品详情](https://blog.csdn.net/m0_74202856/article/details/145534617)
 
++ [掌握.NET Core后端发布流程，如何部署后端应用？](https://blog.csdn.net/qq_53123067/article/details/145532319)
+
++ [DeepSeek 助力 Vue 开发：打造丝滑的点击动画（Click Animations）](https://blog.csdn.net/qq_33650655/article/details/145766184)
+

@@ -175,3 +175,9 @@
 
 + [DeepSeek，激荡AI行业的“一股清流”](https://news.cctv.com/2025/02/21/ARTIhj7EFgQ2cMZ7JGsuBhZU250221.shtml)
 
++ [特朗普终止美联邦政府内所有平权政策 恢复死刑](https://news.cctv.com/2025/02/21/ARTIjSHM84aTuubJCmHEo5oJ250221.shtml)
+
++ [重新入主白宫首月 特朗普发表讲话：审查诺克斯堡金库](https://news.cctv.com/2025/02/21/ARTIn4uu1zfzcVNYx4UEhJiW250221.shtml)
+
++ [上任一个月，特朗普刮起的全球风暴会“回旋镖效应”到美国吗？](https://news.cctv.com/2025/02/21/ARTImVBDxig9zMerM58hKdwS250221.shtml)
+

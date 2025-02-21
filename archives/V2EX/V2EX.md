@@ -23,3 +23,13 @@
 
 + [16E 居然砍了 Magsafe，吃相有点难看](https://www.v2ex.com/t/1112855)
 
++ [[送兑换码]DuRT—Mac 上的实时语音识别和翻译软件](https://www.v2ex.com/t/1112884)
+
++ [[送码] SlideBrowser - 一个轻量的滑动浏览器，给你不一样的交互体验](https://www.v2ex.com/t/1113107)
+
++ [不想折腾 nas 家庭影院本地储存了，各种网盘有什么建议吗？](https://www.v2ex.com/t/1112838)
+
++ [现在的 VSCode 可以平替 JBr 系列吗](https://www.v2ex.com/t/1113020)
+
++ [目前杭州求职 25k 的薪资算高了吗？](https://www.v2ex.com/t/1112850)
+
