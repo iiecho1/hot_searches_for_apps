@@ -185,3 +185,19 @@
 
 + [基于大数据爬虫的旅游分析可视化平台设计和实现](https://blog.csdn.net/weixin_39709134/article/details/145773453)
 
++ [DeepSeek vs ChatGPT：AI 领域的华山论剑，谁主沉浮？](https://blog.csdn.net/2401_87848736/article/details/145729459)
+
++ [【Spring】Spring配置文件](https://blog.csdn.net/zhyhgx/article/details/145712422)
+
++ [【C++指南】一文总结C++类和对象【上】](https://blog.csdn.net/egoist2023/article/details/145578683)
+
++ [【Linux-网络】深入拆解TCP核心机制与UDP的无状态设计](https://blog.csdn.net/dhgiuyawhiudwqha/article/details/145764797)
+
++ [MySQL 主从复制原理及其工作过程](https://blog.csdn.net/weixin_74227828/article/details/145735837)
+
++ [树莓派 4B：AI 物联网完整部署方案](https://blog.csdn.net/Interview_TC/article/details/145752935)
+
++ [Helix——Figure 02发布通用人形机器人控制的VLA：权重共享下的快与慢双系统，让两个机器人协作干活](https://blog.csdn.net/v_JULY_v/article/details/145773235)
+
++ [DeepSeek 点燃关键技术突破的科技引擎，驶向未来新航道](https://blog.csdn.net/2401_82648291/article/details/145710149)
+
