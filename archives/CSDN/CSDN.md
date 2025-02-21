@@ -213,3 +213,9 @@
 
 + [第四届图像、信号处理与模式识别国际学术会议（ISPP 2025)](https://blog.csdn.net/2403_88900542/article/details/145760880)
 
++ [从DeepSeek大爆发看AI革命困局：大模型如何突破算力囚笼与信任危机？](https://blog.csdn.net/RenGJ010617/article/details/145762920)
+
++ [DeepSeek 云原生分布式部署的深度实践与疑难解析—— 从零到生产级落地的全链路避坑指南](https://blog.csdn.net/Yi_An_Jie/article/details/145728756)
+
++ [OSPF协议五种网络类型中DR和BDR选举说明](https://blog.csdn.net/lxc_djy/article/details/145698046)
+

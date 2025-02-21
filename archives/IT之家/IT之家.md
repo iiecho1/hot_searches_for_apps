@@ -25,3 +25,27 @@
 
 + [苹果 iPhone 16e 无相机按钮也支持视觉智能，暗示 15 Pro / Max 有望跟进](https://m.ithome.com/html/831462.htm)
 
++ [电影《哪吒之魔童闹海》海外票房破亿，北美开画影院达“史无前例”945 间](https://m.ithome.com/html/832447.htm)
+
++ [iPhone 16e 变 iPad 16e，苹果官网再闹乌龙](https://m.ithome.com/html/832584.htm)
+
++ [DeepSeek 还在发力：官宣下周陆续开源 5 个代码库，毫无保留、推翻象牙塔](https://m.ithome.com/html/832567.htm)
+
++ [李斌回应受华为余承东邀请参加尊界 S800 发布会：这个时代最好的车安徽造、中国造，欢迎体验蔚来 ET9](https://m.ithome.com/html/832522.htm)
+
++ [苹果确认 iPhone 15 Pro / Max 手机将迎来 16 同款“视觉智能”AI 功能](https://m.ithome.com/html/832463.htm)
+
++ [郭明錤：iPhone 17 / Pro 全系搭载苹果自研 Wi-Fi 芯片以“增强连接性”](https://m.ithome.com/html/832482.htm)
+
++ [苹果高管谈 C1 自研基带：相信我们正在打造真正具有独特优势的技术](https://m.ithome.com/html/832470.htm)
+
++ [苹果最薄手机 iPhone 17 Air 再曝：6.7 英寸屏幕、厚 5.64 毫米](https://m.ithome.com/html/832466.htm)
+
++ [22.49 万元起：2025 款大众 CC 众享款车型上市，配置基本不变](https://m.ithome.com/html/832644.htm)
+
++ [苹果 iPhone 16e 跑分现身 Geekbench：8GB 内存，预装 iOS 18.3.1 系统](https://m.ithome.com/html/832451.htm)
+
++ [蔚来 ET9 轿车“挑战 150+km/h 高速直线前后轮爆胎”视频提前发布，李斌邀请华为余承东同测](https://m.ithome.com/html/832487.htm)
+
++ [不分油电，梅赛德斯-奔驰将统一旗下所有车型设计语言](https://m.ithome.com/html/831462.htm)
+
