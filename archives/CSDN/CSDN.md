@@ -201,3 +201,5 @@
 
 + [DeepSeek 点燃关键技术突破的科技引擎，驶向未来新航道](https://blog.csdn.net/2401_82648291/article/details/145710149)
 
++ [基于AI的智能开发环境—Trae在Web开发中的应用实战与性能评估【Trae项目实战】](https://blog.csdn.net/weixin_52908342/article/details/145775367)
+

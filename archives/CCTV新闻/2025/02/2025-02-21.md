@@ -203,3 +203,7 @@
 
 + [总台记者观察丨德国大选前三天 这场终极辩论聚焦哪些议题？](https://news.cctv.com/2025/02/21/ARTInPmdg8yHjx4A7fsuRRFh250221.shtml)
 
++ [美航天局：小行星“2024 YR4”撞击地球概率降至0.28%](https://news.cctv.com/2025/02/21/ARTIouxfEJNaWLvM4sxQ2hV1250221.shtml)
+
++ [白宫说特朗普下周同法英领导人会谈](https://news.cctv.com/2025/02/21/ARTIUHPoAwiokyvwwjAnbo81250221.shtml)
+
