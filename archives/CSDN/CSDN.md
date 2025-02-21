@@ -101,3 +101,11 @@
 
 + [DeepSeek 云原生分布式部署的深度实践与疑难解析—— 从零到生产级落地的全链路避坑指南](https://blog.csdn.net/Yi_An_Jie/article/details/145728756)
 
++ [DeepSeek vs ChatGPT：AI 领域的华山论剑，谁主沉浮？](https://blog.csdn.net/2401_87848736/article/details/145729459)
+
++ [ChatGPT功能大揭秘：高效提炼文章摘要的方法](https://blog.csdn.net/shi_hong_fei_hei/article/details/145462521)
+
++ [MySQL 主从复制原理及其工作过程](https://blog.csdn.net/weixin_74227828/article/details/145735837)
+
++ [2025年网络安全（黑客技术）三个月自学手册](https://blog.csdn.net/csbDD/article/details/145746182)
+

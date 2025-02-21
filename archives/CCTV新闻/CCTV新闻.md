@@ -161,3 +161,5 @@
 
 + [葡萄牙纳扎雷极限冲浪大赛 滔天巨浪蔚为壮观](https://photo.cctv.com/2025/02/19/PHOAvzH4Dn1q2903MfOGpbU1250219.shtml)
 
++ [普京：俄方认真对待外国公司重返俄市场的可能性](https://news.cctv.com/2025/02/22/ARTIJ85kcxhZ5g0mTj5fcWXP250222.shtml)
+
