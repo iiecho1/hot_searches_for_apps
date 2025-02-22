@@ -183,3 +183,9 @@
 
 + [高端访谈｜专访国际奥委会主席巴赫](https://news.cctv.com/2025/02/22/ARTIDVzXTLfwi7AopZCkvX9M250222.shtml)
 
++ [中国驻蒂华纳总领馆提醒中国公民出行加强防范](https://news.cctv.com/2025/02/22/ARTIW8jUnvVj4jUeBhhvv5LB250222.shtml)
+
++ [驱逐非法移民不力引特朗普“愤怒” 美国移民与海关执法局“换将”](https://news.cctv.com/2025/02/22/ARTIMdSfZswxpwc6C4psLdmK250222.shtml)
+
++ [中国驻旧金山总领馆提醒：中国公民谨防换汇诈骗](https://news.cctv.com/2025/02/22/ARTImuA66iAXhQAFw2XsDOvS250222.shtml)
+

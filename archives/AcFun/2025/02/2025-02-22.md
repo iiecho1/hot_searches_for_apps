@@ -73,3 +73,7 @@
 
 + [《耶总会》](https://m.acfun.cn/v/%3Fac%3D46910919)
 
++ [活力牛仔裤~Green apple](https://m.acfun.cn/v/%3Fac%3D46911479)
+
++ [魔性循环！打工人狂想曲：资博《超想上班》](https://m.acfun.cn/v/%3Fac%3D46907722)
+
