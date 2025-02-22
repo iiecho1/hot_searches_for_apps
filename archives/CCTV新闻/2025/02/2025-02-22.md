@@ -239,3 +239,9 @@
 
 + [德国议会选举在即 参选各方赢面如何？](https://news.cctv.com/2025/02/22/ARTIkc6J9eaMYHuLFaSPfOgS250222.shtml)
 
++ [巴西小镇频现数十米深陷坑 1200多户居民面临威胁](https://news.cctv.com/2025/02/22/ARTIbwByUTx8euO7sted8I6C250222.shtml)
+
++ [苏丹中部一州霍乱疫情严重 已造成83人死亡](https://news.cctv.com/2025/02/22/ARTI6InC73M3WxeVpfqXFSbp250222.shtml)
+
++ [乌兹别克斯坦将组建新部队 承担反无人机等任务](https://military.cctv.com/2025/02/22/ARTI4hwZrMQVyPhRHOSrXZQX250222.shtml)
+

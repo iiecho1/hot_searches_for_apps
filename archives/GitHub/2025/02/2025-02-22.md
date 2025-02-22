@@ -29,3 +29,21 @@
 
 + [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
++ [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+
++ [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+
++ [ossu/computer-science](https://github.com/ossu/computer-science)
+
++ [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io)
+
++ [koide3/glim](https://github.com/koide3/glim)
+
++ [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot)
+
++ [psf/black](https://github.com/psf/black)
+
++ [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+

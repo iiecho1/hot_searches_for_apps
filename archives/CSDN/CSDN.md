@@ -171,3 +171,7 @@
 
 + [Diffusion-DPO：一种基于直接偏好优化的扩散模型对齐新方法](https://blog.csdn.net/m0_46510245/article/details/145792358)
 
++ [【通俗易懂说模型】循环神经网络模型 · RNN（呕心沥血版）](https://blog.csdn.net/m0_67656158/article/details/145677340)
+
++ [在Linux上创建一个Docker容器并在其中执行Python脚本](https://blog.csdn.net/sixpp/article/details/145786172)
+
