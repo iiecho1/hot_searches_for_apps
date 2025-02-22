@@ -21,3 +21,7 @@
 
 + [想买一个 iPad 当做爱奇艺工具。](https://www.v2ex.com/t/1113125)
 
++ [天塌了， NAS 被勒索了，如何数据恢复？](https://www.v2ex.com/t/1113196)
+
++ [CSGO 太好玩了](https://www.v2ex.com/t/1113217)
+
