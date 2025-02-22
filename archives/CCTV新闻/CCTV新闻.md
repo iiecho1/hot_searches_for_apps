@@ -189,3 +189,13 @@
 
 + [中国驻旧金山总领馆提醒：中国公民谨防换汇诈骗](https://news.cctv.com/2025/02/22/ARTImuA66iAXhQAFw2XsDOvS250222.shtml)
 
++ [美国就乌克兰问题提出一项联合国决议草案 呼吁尽快结束冲突](https://news.cctv.com/2025/02/22/ARTICrrAzL6n2PAgeGkJG9HN250222.shtml)
+
++ [赞比亚国防部为中国援赞第27批军医组授勋](https://news.cctv.com/2025/02/22/ARTIgAKAjA8FBtE31LUpz19O250222.shtml)
+
++ [美军高官连续遭解雇 美防长：正在特朗普领导下落实新领导层](https://military.cctv.com/2025/02/22/ARTIJ7pKk3tZcZ8vIuoviYsj250222.shtml)
+
++ [经济成德国选战焦点 恢复竞争力挑战重重](https://news.cctv.com/2025/02/22/ARTIKI8LfswXgBN7vOm82Lvd250222.shtml)
+
++ [特朗普解除美军参联会主席布朗职务 提名空军中将凯恩接任](https://news.cctv.com/2025/02/22/ARTITXIB1vj2O9svdrlRc98r250222.shtml)
+
