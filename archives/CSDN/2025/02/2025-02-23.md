@@ -125,3 +125,5 @@
 
 + [C/C++跳动的爱心](https://blog.csdn.net/m0_68111267/article/details/145798477)
 
++ [Elasticsearch Open Inference API 增加了对 Jina AI 嵌入和 Rerank 模型的支持](https://blog.csdn.net/UbuntuTouch/article/details/145767894)
+
