@@ -257,3 +257,5 @@
 
 + [所罗门群岛政府重申坚定奉行一个中国原则](https://news.cctv.com/2025/02/22/ARTICXQK2pAN4hIA71Uzb6g2250222.shtml)
 
++ [博茨瓦纳洪灾已致7人死亡](https://news.cctv.com/2025/02/22/ARTIHcXJn2QA2UNjLHDeKuKU250222.shtml)
+
