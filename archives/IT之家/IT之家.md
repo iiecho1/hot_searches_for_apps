@@ -25,3 +25,27 @@
 
 + [不分油电，梅赛德斯-奔驰将统一旗下所有车型设计语言](https://m.ithome.com/html/831462.htm)
 
++ [《哪吒之魔童闹海》票房突破 130 亿，再次刷新中国影史纪录](https://m.ithome.com/html/832792.htm)
+
++ [雷军秀 SU7 Ultra 原型车、YU7 汽车亮相小米科技园](https://m.ithome.com/html/832772.htm)
+
++ [苹果确认 Apple 智能今年 4 月正式支持简体中文](https://m.ithome.com/html/832896.htm)
+
++ [小米 YU7 亮起“小蓝灯”，预计用于汽车智驾提示](https://m.ithome.com/html/832768.htm)
+
++ [苹果 iOS / iPadOS 18.4 开发者预览版 Beta 发布：Apple 智能支持中文](https://m.ithome.com/html/832749.htm)
+
++ [零刻 SER8 Pro 迷你 PC 主机发布：AMD R7 8845HS、32GB LPDDR5 6400 内存](https://m.ithome.com/html/832761.htm)
+
++ [苹果 iPhone 16e 通过 3C 认证，支持最高 29W 快充](https://m.ithome.com/html/832797.htm)
+
++ [2 亿像素 100mm 超长望远 + 5000 万像素 70mm 中焦特写：小米 15 Ultra 旗舰手机设计揭晓](https://m.ithome.com/html/832888.htm)
+
++ [小米超级小爱重新上线 DeepSeek R1，默认使用联网搜索](https://m.ithome.com/html/832767.htm)
+
++ [拒绝开后门，苹果宣布在英国停用其“高级数据保护”功能](https://m.ithome.com/html/832760.htm)
+
++ [全新智己 LS6 将于 2 月 26 日上市，现款指导价 23.99 万元起](https://m.ithome.com/html/832858.htm)
+
++ [《哪吒之魔童闹海》今日在港上映：排片超 500 场，约 200 场上座率过半](https://m.ithome.com/html/831462.htm)
+

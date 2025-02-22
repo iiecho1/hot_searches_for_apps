@@ -247,3 +247,13 @@
 
 + [美俄“单聊”后，美欧涉乌决议草案现分歧](https://news.cctv.com/2025/02/22/ARTIO43E0J00B8vu3AdfyCiV250222.shtml)
 
++ [为国际职业教育交流合作搭建平台](https://news.cctv.com/2025/02/22/ARTIy69ZJ6EzVECai8rWYVte250222.shtml)
+
++ [“世界对中国的发展模式感兴趣”——上合组织外宾点赞百年大党的发展成就](https://news.cctv.com/2025/02/22/ARTIxHpXY3cous24uJFokFBU250222.shtml)
+
++ [特朗普寻求对数字服务税征收报复性关税](https://news.cctv.com/2025/02/22/ARTISdcnBfZfs9QWxn30Rj2b250222.shtml)
+
++ [民调显示：绝大多数乌克兰民众拒绝接受美俄谈判](https://news.cctv.com/2025/02/22/ARTIrPhURSCDBrezZ8o2mY5g250222.shtml)
+
++ [所罗门群岛政府重申坚定奉行一个中国原则](https://news.cctv.com/2025/02/22/ARTICXQK2pAN4hIA71Uzb6g2250222.shtml)
+

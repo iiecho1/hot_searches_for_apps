@@ -175,3 +175,9 @@
 
 + [在Linux上创建一个Docker容器并在其中执行Python脚本](https://blog.csdn.net/sixpp/article/details/145786172)
 
++ [AI Agent的核心技术及其发展趋势—从自主学习到全感知决策【附核心点关键代码】](https://blog.csdn.net/weixin_52908342/article/details/145792526)
+
++ [DeepSeek 助力 Vue 开发：打造丝滑的评论系统（Comment System）](https://blog.csdn.net/qq_33650655/article/details/145781104)
+
++ [开源免费文档翻译工具 可支持pdf、word、excel、ppt](https://blog.csdn.net/unbuntu_luo/article/details/145770107)
+
