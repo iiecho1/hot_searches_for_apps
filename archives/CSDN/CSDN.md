@@ -169,3 +169,5 @@
 
 + [【Linux】软硬链接和动静态库](https://blog.csdn.net/s_little_monster/article/details/145536405)
 
++ [Diffusion-DPO：一种基于直接偏好优化的扩散模型对齐新方法](https://blog.csdn.net/m0_46510245/article/details/145792358)
+
