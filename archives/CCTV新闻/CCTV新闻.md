@@ -245,3 +245,5 @@
 
 + [乌兹别克斯坦将组建新部队 承担反无人机等任务](https://military.cctv.com/2025/02/22/ARTI4hwZrMQVyPhRHOSrXZQX250222.shtml)
 
++ [美俄“单聊”后，美欧涉乌决议草案现分歧](https://news.cctv.com/2025/02/22/ARTIO43E0J00B8vu3AdfyCiV250222.shtml)
+
