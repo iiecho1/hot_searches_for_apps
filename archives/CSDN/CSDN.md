@@ -107,3 +107,21 @@
 
 + [iOS 中的圆角与平滑圆角：从新特性到老项目适配](https://blog.csdn.net/weixin_39339407/article/details/145585020)
 
++ [当前就业形势下C++方向后端开发学习指南](https://blog.csdn.net/Zero_VPN/article/details/145750936)
+
++ [在低功耗MCU上实现人工智能和机器学习](https://blog.csdn.net/mahuahu/article/details/145775871)
+
++ [TensorFlow深度学习实战——构建卷积神经网络实现CIFAR-10图像分类](https://blog.csdn.net/LOVEmy134611/article/details/144276180)
+
++ [【粉丝福利社】Python预训练视觉和大语言模型](https://blog.csdn.net/aa2528877987/article/details/145785234)
+
++ [MATLAB在机器学习模型训练与性能优化中的应用探讨](https://blog.csdn.net/weixin_52908342/article/details/145793085)
+
++ [在wsl环境中配置和开发verilog（一种比较新颖的verilog开发指南）](https://blog.csdn.net/weixin_74277223/article/details/145787742)
+
++ [linux之perf(17)PMU事件采集脚本](https://blog.csdn.net/Once_day/article/details/145801609)
+
++ [Elasticsearch 自动补全搜索 - autocomplete](https://blog.csdn.net/UbuntuTouch/article/details/145744511)
+
++ [C/C++跳动的爱心](https://blog.csdn.net/m0_68111267/article/details/145798477)
+

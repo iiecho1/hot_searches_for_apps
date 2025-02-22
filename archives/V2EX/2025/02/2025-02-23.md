@@ -21,3 +21,5 @@
 
 + [7999 的 MacBook air m3 13 寸 512+24 值得买吗](https://www.v2ex.com/t/1113424)
 
++ [年纪轻轻患癌后续](https://www.v2ex.com/t/1113521)
+
