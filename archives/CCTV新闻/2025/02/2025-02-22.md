@@ -199,3 +199,5 @@
 
 + [特朗普解除美军参联会主席布朗职务 提名空军中将凯恩接任](https://news.cctv.com/2025/02/22/ARTITXIB1vj2O9svdrlRc98r250222.shtml)
 
++ [朝鲜谴责特朗普政府军事挑衅](https://military.cctv.com/2025/02/22/ARTIaY9T7NMT9spP2afusu76250222.shtml)
+

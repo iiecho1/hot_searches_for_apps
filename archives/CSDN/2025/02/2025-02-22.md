@@ -147,3 +147,9 @@
 
 + [学习threejs，使用MeshBasicMaterial基本网格材质](https://blog.csdn.net/qq_28419035/article/details/145770283)
 
++ [Python爬虫实战：从零到一构建数据采集系统](https://blog.csdn.net/SDFsoul/article/details/145784391)
+
++ [使用Open WebUI下载的模型文件(Model)默认存放在哪里？](https://blog.csdn.net/jxjdhdnd/article/details/145786003)
+
++ [【C++笔记】C+11深度剖析(三)](https://blog.csdn.net/2301_81670477/article/details/145784039)
+
