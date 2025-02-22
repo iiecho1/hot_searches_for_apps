@@ -175,3 +175,5 @@
 
 + [恐怖组织“正义军”宣称对伊朗恰巴哈尔市政府建筑爆炸事件负责](https://news.cctv.com/2025/02/23/ARTIrlzyyc2aX12VL1Wd206P250223.shtml)
 
++ [二十国集团外长会呼吁合作应对全球性挑战](https://news.cctv.com/2025/02/23/ARTIBhe9rFXOwOBQHeNG9hxf250223.shtml)
+
