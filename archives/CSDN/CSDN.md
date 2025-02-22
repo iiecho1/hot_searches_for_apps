@@ -181,3 +181,9 @@
 
 + [开源免费文档翻译工具 可支持pdf、word、excel、ppt](https://blog.csdn.net/unbuntu_luo/article/details/145770107)
 
++ [springboot单机支持1w并发，需要做哪些优化](https://blog.csdn.net/g470641382/article/details/145768480)
+
++ [Redis 缓存穿透、击穿、雪崩：问题与解决方案](https://blog.csdn.net/iku_n/article/details/145784529)
+
++ [嵌入式 Linux：使用设备树驱动GPIO全流程](https://blog.csdn.net/weixin_63577471/article/details/145749905)
+
