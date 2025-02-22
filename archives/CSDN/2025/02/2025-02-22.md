@@ -153,3 +153,7 @@
 
 + [【C++笔记】C+11深度剖析(三)](https://blog.csdn.net/2301_81670477/article/details/145784039)
 
++ [DeepSeek 背后的深度学习模型：从 Transformer 到知识图谱的搜索优化](https://blog.csdn.net/m0_69644950/article/details/145761552)
+
++ [FFmpeg 是什么？为什么？怎么用？](https://blog.csdn.net/beautifulmemory/article/details/145782180)
+
