@@ -229,3 +229,7 @@
 
 + [特朗普考虑让美国邮政局并入商务部](https://news.cctv.com/2025/02/22/ARTIIpGRvZXOi5GBhR1Lur69250222.shtml)
 
++ [巨型“天坑”为何“吞吃”英国村镇街道](https://news.cctv.com/2025/02/22/ARTIK1GDbguy8mwV8BtJZAAc250222.shtml)
+
++ [缅方遣返111名妙瓦底园区中国籍人员](https://news.cctv.com/2025/02/22/ARTIkb8RxvhMiomTScEnCrc5250222.shtml)
+
