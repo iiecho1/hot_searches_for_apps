@@ -157,3 +157,7 @@
 
 + [FFmpeg 是什么？为什么？怎么用？](https://blog.csdn.net/beautifulmemory/article/details/145782180)
 
++ [蓝耘元生代引领AI开发新潮流：DeepSeek R1/V3满血版亮相，开启高效应用新时代](https://blog.csdn.net/null18/article/details/145789599)
+
++ [【AI编程】Java程序员如何用Cursor 3小时搞定CAS单点登录前端集成](https://blog.csdn.net/c18213590220/article/details/145749114)
+

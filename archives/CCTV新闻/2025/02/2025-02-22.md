@@ -217,3 +217,9 @@
 
 + [湿地退化导致到塞浦路斯“过冬”的火烈鸟数量骤减](https://news.cctv.com/2025/02/22/ARTI0H2Yz8xkJ1PC6FCFEF4F250222.shtml)
 
++ [特朗普宣布撤换美军参联会主席](https://news.cctv.com/2025/02/22/ARTIkeQGkjvmnWS5kgwplT9f250222.shtml)
+
++ [韩国外交部召见日本驻韩公使 抗议日本举行“竹岛日”活动](https://news.cctv.com/2025/02/22/ARTIxMvibXN2UB6eX1CJZF2i250222.shtml)
+
++ [美国消息人士：白宫想要泽连斯基立即离开乌克兰](https://news.cctv.com/2025/02/22/ARTIAeq10DLZBoCggXECKcbs250222.shtml)
+
