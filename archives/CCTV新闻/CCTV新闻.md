@@ -167,3 +167,19 @@
 
 + [超8000万美元拨款遭撤销 美国纽约市起诉特朗普政府](https://news.cctv.com/2025/02/22/ARTIBY3s2jUtd0UZRprrKZxt250222.shtml)
 
++ [美联社以侵犯言论自由为由起诉特朗普政府3名官员](https://news.cctv.com/2025/02/22/ARTIK9jALTHjAZ3rHlsK9pRG250222.shtml)
+
++ [6名以上将官或遭解雇，数万文职雇员可能被裁，大裁员传闻令五角大楼人心惶惶](https://news.cctv.com/2025/02/22/ARTIp144X0Ah6E08NaUiYVOz250222.shtml)
+
++ [欧盟将组建船队 加强海底电缆监测维修](https://news.cctv.com/2025/02/22/ARTIbC018sO7H0IdxQcyua4J250222.shtml)
+
++ [美国加州洛杉矶市消防局局长被免职](https://news.cctv.com/2025/02/22/ARTIX2B8z19vASIf05xJ8IHq250222.shtml)
+
++ [德国大选前最后一次民调显示：联盟党支持率保持领先](https://news.cctv.com/2025/02/22/ARTIl292k2MhBwUnluJkoHTk250222.shtml)
+
++ [特朗普警告制药公司：关税即将到来 应加快将海外生产转移至美国](https://news.cctv.com/2025/02/22/ARTIhXCff7XHMX8gE0zetcZ9250222.shtml)
+
++ [特朗普称有机会达成俄乌和平协议 未计划5月9日访俄](https://news.cctv.com/2025/02/22/ARTI1QFC2lDbizId9rruyHSB250222.shtml)
+
++ [高端访谈｜专访国际奥委会主席巴赫](https://news.cctv.com/2025/02/22/ARTIDVzXTLfwi7AopZCkvX9M250222.shtml)
+

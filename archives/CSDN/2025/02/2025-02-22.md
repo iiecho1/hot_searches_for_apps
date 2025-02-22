@@ -137,3 +137,7 @@
 
 + [【Linux探索学习】第三十弹——线程互斥与同步（上）：深入理解线程保证安全的机制](https://blog.csdn.net/2301_80220607/article/details/145783866)
 
++ [Python——生成AIGC图像](https://blog.csdn.net/kouweizhu/article/details/145763507)
+
++ [【deepseek】本地部署+RAG知识库挂载+对话测试](https://blog.csdn.net/qq_45193872/article/details/145749282)
+
