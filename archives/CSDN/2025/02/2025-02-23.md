@@ -127,3 +127,5 @@
 
 + [Elasticsearch Open Inference API 增加了对 Jina AI 嵌入和 Rerank 模型的支持](https://blog.csdn.net/UbuntuTouch/article/details/145767894)
 
++ [数学建模之数学模型-1：线性规划](https://blog.csdn.net/2301_81197800/article/details/145785305)
+

@@ -165,3 +165,13 @@
 
 + [美国太空探索技术公司：正与波兰政府合作寻找“猎鹰9”火箭残骸](https://news.cctv.com/2025/02/23/ARTIj1ip9Jhv9JAjBORGV0hx250223.shtml)
 
++ [一小型飞机在秘鲁首都以南一居民区坠毁](https://news.cctv.com/2025/02/23/ARTIwTkcuily05whFu47bd9o250223.shtml)
+
++ [美国宾夕法尼亚州一医院发生枪击事件 枪手被击毙](https://news.cctv.com/2025/02/23/ARTIoSr4p2dOJoOg1AkJwZHz250223.shtml)
+
++ [乌方称已获得美国提出的新版矿产协议文本](https://news.cctv.com/2025/02/23/ARTIHoSf612luPWjSfFKLiT3250223.shtml)
+
++ [法国东部城市米卢斯发生持刀袭击事件 已致1死多伤](https://news.cctv.com/2025/02/23/ARTISgz2pH7Z4t16G8Bpmtvf250223.shtml)
+
++ [恐怖组织“正义军”宣称对伊朗恰巴哈尔市政府建筑爆炸事件负责](https://news.cctv.com/2025/02/23/ARTIrlzyyc2aX12VL1Wd206P250223.shtml)
+
