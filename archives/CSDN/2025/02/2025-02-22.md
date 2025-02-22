@@ -161,3 +161,5 @@
 
 + [【AI编程】Java程序员如何用Cursor 3小时搞定CAS单点登录前端集成](https://blog.csdn.net/c18213590220/article/details/145749114)
 
++ [【JavaWeb12】数据交换与异步请求：JSON与Ajax的绝妙搭配是否塑造了Web的交互革命?](https://blog.csdn.net/qq_74232707/article/details/145791991)
+
