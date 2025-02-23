@@ -161,3 +161,9 @@
 
 + [美联社以侵犯言论自由为由起诉特朗普政府3名官员](https://news.cctv.com/2025/02/22/ARTIK9jALTHjAZ3rHlsK9pRG250222.shtml)
 
++ [乌总统泽连斯基：如果能带来和平 愿辞去总统职务](https://news.cctv.com/2025/02/24/ARTIw09RUv5MwonFLGIlQC3X250224.shtml)
+
++ [收到炸弹警报 美国航空一飞机改道意大利](https://news.cctv.com/2025/02/24/ARTI30jsGzgghMaVS2XvUZv1250224.shtml)
+
++ [联合国秘书长就俄乌冲突三周年发表声明 呼吁全面和平](https://news.cctv.com/2025/02/24/ARTIsQRAQil0rFL53vIkTekx250224.shtml)
+

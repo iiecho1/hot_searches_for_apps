@@ -105,3 +105,19 @@
 
 + [AI赋能编程：PyCharm与DeepSeek的智能开发革命](https://blog.csdn.net/m0_69402477/article/details/145769090)
 
++ [ChatGPT功能大揭秘：高效提炼文章摘要的方法](https://blog.csdn.net/shi_hong_fei_hei/article/details/145462521)
+
++ [【SpringBoot教程】SpringBoot整合Caffeine本地缓存及Spring Cache注解的使用](https://blog.csdn.net/weixin_48235955/article/details/145765653)
+
++ [零成本AI编程革命：VSCode + Cline + 硅基流动 + DeepSeek 打造全民开发新范式](https://blog.csdn.net/qq_74326393/article/details/145796064)
+
++ [《Mycat核心技术》第17章：实现MySQL的读写分离](https://blog.csdn.net/l1028386804/article/details/145815554)
+
++ [在线骑行|基于SpringBoot的在线骑行网站设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/145817901)
+
++ [open webui 部署 以及解决，首屏加载缓慢，nginx反向代理访问404，WebSocket后端服务器链接失败等问题](https://blog.csdn.net/qq_36478642/article/details/145770544)
+
++ [【AI编程】Java程序员如何用Cursor 3小时搞定CAS单点登录前端集成](https://blog.csdn.net/c18213590220/article/details/145749114)
+
++ [嵌入式硬件篇---数字电子技术中的时序逻辑](https://blog.csdn.net/2301_79556402/article/details/145797471)
+
