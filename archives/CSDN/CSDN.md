@@ -129,3 +129,5 @@
 
 + [计算机引导过程四（vmlinuz保护模式vmlinux.bin）](https://blog.csdn.net/hz5034/article/details/145816443)
 
++ [计算机网络：应用层 —— 文件传送协议 FTP](https://blog.csdn.net/Zachyy/article/details/145774066)
+
