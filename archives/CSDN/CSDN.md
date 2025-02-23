@@ -175,3 +175,9 @@
 
 + [【JT/T 808协议】808 协议开发笔记 ② ( 终端注册 | 终端注册应答 | 字符编码转换网站 )](https://blog.csdn.net/han1202012/article/details/145777897)
 
++ [HDBSCAN：密度自适应的层次聚类算法解析与实践](https://blog.csdn.net/YYDS_54/article/details/145733629)
+
++ [【大模型】蓝耘智算平台部署DeepSeek-R1大模型使用详解](https://blog.csdn.net/zhangcongyi420/article/details/145791355)
+
++ [微软量子芯片：开启量子计算新时代？](https://blog.csdn.net/jj516585042/article/details/145774237)
+
