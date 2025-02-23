@@ -163,3 +163,7 @@
 
 + [学习threejs，使用MeshBasicMaterial基本网格材质](https://blog.csdn.net/qq_28419035/article/details/145770283)
 
++ [AI赋能编程：PyCharm与DeepSeek的智能开发革命](https://blog.csdn.net/m0_69402477/article/details/145769090)
+
++ [SpringCloud系列教程：微服务的未来（二十五）-基于注解的声明队列交换机、消息转换器、业务改造](https://blog.csdn.net/m0_63267251/article/details/145704568)
+
