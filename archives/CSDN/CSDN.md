@@ -155,3 +155,9 @@
 
 + [to AL社团成员的物联网&嵌入式赛事建议](https://blog.csdn.net/2302_80751833/article/details/145801677)
 
++ [云原生（五十六） | CDN概述](https://blog.csdn.net/xiaoweite1/article/details/145808498)
+
++ [Spring Boot定时任务原理](https://blog.csdn.net/sjsjsbbsbsn/article/details/145790863)
+
++ [重磅来袭————YOLOv12:Attention-Centric Real-Time Object Detectors](https://blog.csdn.net/weixin_43826536/article/details/145755742)
+

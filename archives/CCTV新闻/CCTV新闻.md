@@ -223,3 +223,5 @@
 
 + [敦煌文化“走出去”，惊艳了世界](https://news.cctv.com/2025/02/23/ARTI0jeB7SQWvEY181DRmCQ7250223.shtml)
 
++ [约旦专栏作家：中国外交坚持和平、理性，具有战略定力](https://news.cctv.com/2025/02/23/ARTISpTAxMypj7oEmVym2Mkf250223.shtml)
+
