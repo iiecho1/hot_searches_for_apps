@@ -47,3 +47,7 @@
 
 + [关于最近 R4L DMA 事件的 Linus 回应](https://www.v2ex.com/t/1113509)
 
++ [求助：如何跟普通朋友方便安全聊天？](https://www.v2ex.com/t/1113581)
+
++ [父母打电话给我要钱了，跟我心里想的不太一样](https://www.v2ex.com/t/1113589)
+

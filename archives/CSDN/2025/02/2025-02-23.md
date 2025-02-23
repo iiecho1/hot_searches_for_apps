@@ -147,3 +147,5 @@
 
 + [【DeepSeek】-macOS本地终端部署后运行DeepSeek如何分析图片](https://blog.csdn.net/maoyingyong/article/details/145764239)
 
++ [从零开始：在.NET Core中快速集成SqlSugar ORM](https://blog.csdn.net/qq_53123067/article/details/145786751)
+

@@ -213,3 +213,7 @@
 
 + [一文前瞻丨德国大选提前7个月举行 新总理会是谁？组阁困局能破吗？](https://news.cctv.com/2025/02/23/ARTI0xMzCyhWYpa9m3uD4lGr250223.shtml)
 
++ [美国宾夕法尼亚州一医院发生劫持人质事件 致多人死伤](https://news.cctv.com/2025/02/23/ARTI3J8wakZuVwCWCe2umNBC250223.shtml)
+
++ [菲律宾在南海挑衅滋事 外媒评价一针见血：美国为菲撑腰](https://news.cctv.com/2025/02/23/ARTIdafuomHxlvFATSolltdp250223.shtml)
+
