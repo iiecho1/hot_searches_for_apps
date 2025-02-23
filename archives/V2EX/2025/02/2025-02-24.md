@@ -21,3 +21,5 @@
 
 + [现在是 closeai 完整版了](https://www.v2ex.com/t/1113620)
 
++ [ios 一直更新最新系统会卡吗？](https://www.v2ex.com/t/1113618)
+

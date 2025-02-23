@@ -121,3 +121,9 @@
 
 + [嵌入式硬件篇---数字电子技术中的时序逻辑](https://blog.csdn.net/2301_79556402/article/details/145797471)
 
++ [python flask 使用教程 快速搭建一个 Web 应用](https://blog.csdn.net/u010844836/article/details/145773247)
+
++ [Spring Boot 概要（官网文档解读）](https://blog.csdn.net/weixin_41645817/article/details/145056563)
+
++ [Nginx反向代理及负载均衡](https://blog.csdn.net/Starry__Sky222/article/details/145752816)
+
