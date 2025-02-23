@@ -167,3 +167,9 @@
 
 + [SpringCloud系列教程：微服务的未来（二十五）-基于注解的声明队列交换机、消息转换器、业务改造](https://blog.csdn.net/m0_63267251/article/details/145704568)
 
++ [【人工智能】蓝耘智算平台盛大发布DeepSeek满血版：开创AI推理体验新纪元](https://blog.csdn.net/EterNity_TiMe_/article/details/145810594)
+
++ [C++之旅-C++11的深度剖析(1)](https://blog.csdn.net/2302_79376097/article/details/145809030)
+
++ [Java 大视界 -- Java 大数据未来十年的技术蓝图与发展愿景（95）](https://blog.csdn.net/atgfg/article/details/145802946)
+

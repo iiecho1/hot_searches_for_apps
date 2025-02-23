@@ -233,3 +233,7 @@
 
 + [俄总统普京在祖国保卫者日发表讲话并授勋英雄战士](https://news.cctv.com/2025/02/23/ARTITl1hZ7iQceBBME0NmizV250223.shtml)
 
++ [中国将继续引领全球经济复苏发展（国际论坛）](https://news.cctv.com/2025/02/23/ARTI3SuRUVI8c3DjOoKd4Q3T250223.shtml)
+
++ [架起中埃塞民心相通的友谊桥梁（新时代中非合作）](https://news.cctv.com/2025/02/23/ARTInimcsSi3LNdtJJfH1tC8250223.shtml)
+
