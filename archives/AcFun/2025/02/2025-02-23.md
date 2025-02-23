@@ -75,3 +75,7 @@
 
 + [弹丸论破精神续作？steam喜加一【TRIBE NINE：战极死游】](https://m.acfun.cn/v/%3Fac%3D46912170)
 
++ [So Crazy~](https://m.acfun.cn/v/%3Fac%3D46915237)
+
++ [【AC独家】苦难的日子终会过去](https://m.acfun.cn/v/%3Fac%3D46874132)
+

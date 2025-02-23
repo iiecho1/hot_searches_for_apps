@@ -129,3 +129,9 @@
 
 + [数学建模之数学模型-1：线性规划](https://blog.csdn.net/2301_81197800/article/details/145785305)
 
++ [蓝耘科技上线 DeepSeek 满血版，500万tokens免费送](https://blog.csdn.net/2301_76341691/article/details/145783555)
+
++ [DeepSeek 背后的深度学习模型：从 Transformer 到知识图谱的搜索优化](https://blog.csdn.net/m0_69644950/article/details/145761552)
+
++ [DeepSeek 助力 Vue 开发：打造丝滑的二维码生成（QR Code）](https://blog.csdn.net/qq_33650655/article/details/145797928)
+

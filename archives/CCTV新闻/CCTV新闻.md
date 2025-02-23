@@ -179,3 +179,23 @@
 
 + [国际观察丨加共体团结谋发展 对华合作添动力](https://news.cctv.com/2025/02/23/ARTIl7sahEPaKCtcNwkusT2G250223.shtml)
 
++ [欧洲多国领导人密集表态：俄乌和谈不能少了乌欧](https://news.cctv.com/2025/02/23/ARTIxZMXW2DLSlRBNxgRIjCa250223.shtml)
+
++ [白宫：特朗普有信心能在本周完成俄乌冲突谈判](https://news.cctv.com/2025/02/23/ARTIsYg1jC6byV35krFUGnFh250223.shtml)
+
++ [秘鲁一购物中心屋顶坍塌已致8死82伤 或为强降雨所致](https://news.cctv.com/2025/02/23/ARTI6U12BXTeSVsNxqRYCudm250223.shtml)
+
++ [因马斯克“亲美”举动 加拿大超3.4万人请愿撤销其公民身份](https://news.cctv.com/2025/02/23/ARTITE223NZTIDk1yOx7YaBI250223.shtml)
+
++ [普京发表视频讲话 强调建设与发展武装力量的战略方针不变](https://news.cctv.com/2025/02/23/ARTIRQodE9GYArVEWRd1omzc250223.shtml)
+
++ [特朗普改口 不会强行推进加沙地带“重新安置”计划](https://news.cctv.com/2025/02/23/ARTINLCa7uRIPzlggXZ1oFyD250223.shtml)
+
++ [特朗普要求从乌克兰获得任何能得到的东西 以收回投入的资金](https://news.cctv.com/2025/02/23/ARTIAigEmSjtxOINzFzQNSpw250223.shtml)
+
++ [美联邦雇员被要求“交周报” 否则视为辞职](https://news.cctv.com/2025/02/23/ARTImvZYU22LfRCzbNEhlFOG250223.shtml)
+
++ [加拿大总理与美国总统通话 讨论乌克兰冲突等议题](https://news.cctv.com/2025/02/23/ARTIYHsPyJOrgMRBYV8NpXuL250223.shtml)
+
++ [刚果（金）总统决定组建“全国团结政府”](https://news.cctv.com/2025/02/23/ARTITbotWgj0rVbRBbStTLYu250223.shtml)
+

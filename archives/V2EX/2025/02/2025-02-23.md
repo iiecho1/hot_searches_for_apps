@@ -25,3 +25,15 @@
 
 + [刚跟着花生老师学习了 Cursor，写了一个小网站](https://www.v2ex.com/t/1113416)
 
++ [[求] 低成本网络设备监控软件](https://www.v2ex.com/t/1113511)
+
++ [最近的就业市场好奇怪](https://www.v2ex.com/t/1113456)
+
++ [想搞个服务器把飞机的机器人挂在上面跑，求便宜或者免费的服务器推荐](https://www.v2ex.com/t/1113433)
+
++ [关于最近 AI+机器人的一些思考！](https://www.v2ex.com/t/1113438)
+
++ [真心求教，说话不流利，磕磕巴巴咋练习](https://www.v2ex.com/t/1113444)
+
++ [为什么深度探索不叫 Deep Search 而叫 Deep Seek ?](https://www.v2ex.com/t/1113488)
+
