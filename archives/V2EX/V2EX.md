@@ -23,3 +23,5 @@
 
 + [年纪轻轻患癌后续](https://www.v2ex.com/t/1113521)
 
++ [刚跟着花生老师学习了 Cursor，写了一个小网站](https://www.v2ex.com/t/1113416)
+

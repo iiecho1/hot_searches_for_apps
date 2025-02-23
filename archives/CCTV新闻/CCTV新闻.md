@@ -177,3 +177,5 @@
 
 + [二十国集团外长会呼吁合作应对全球性挑战](https://news.cctv.com/2025/02/23/ARTIBhe9rFXOwOBQHeNG9hxf250223.shtml)
 
++ [国际观察丨加共体团结谋发展 对华合作添动力](https://news.cctv.com/2025/02/23/ARTIl7sahEPaKCtcNwkusT2G250223.shtml)
+
