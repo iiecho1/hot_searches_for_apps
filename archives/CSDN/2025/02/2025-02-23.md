@@ -135,3 +135,5 @@
 
 + [DeepSeek 助力 Vue 开发：打造丝滑的二维码生成（QR Code）](https://blog.csdn.net/qq_33650655/article/details/145797928)
 
++ [【LLM】R1复现项目（SimpleRL、OpenR1、LogitRL、TinyZero）持续更新](https://blog.csdn.net/qq_35812205/article/details/145788683)
+
