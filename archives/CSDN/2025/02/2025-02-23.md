@@ -161,3 +161,5 @@
 
 + [重磅来袭————YOLOv12:Attention-Centric Real-Time Object Detectors](https://blog.csdn.net/weixin_43826536/article/details/145755742)
 
++ [学习threejs，使用MeshBasicMaterial基本网格材质](https://blog.csdn.net/qq_28419035/article/details/145770283)
+

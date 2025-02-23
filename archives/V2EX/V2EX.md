@@ -53,3 +53,5 @@
 
 + [菜鸟 Android 开发该放弃了吗？](https://www.v2ex.com/t/1113560)
 
++ [一个人给一个人生建议吧](https://www.v2ex.com/t/1113601)
+
