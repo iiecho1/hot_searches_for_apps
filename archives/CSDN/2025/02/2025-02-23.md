@@ -137,3 +137,7 @@
 
 + [【LLM】R1复现项目（SimpleRL、OpenR1、LogitRL、TinyZero）持续更新](https://blog.csdn.net/qq_35812205/article/details/145788683)
 
++ [DeepSeek R1/V3满血版——在线体验与API调用](https://blog.csdn.net/m0_61712829/article/details/145797975)
+
++ [小鱼深度评测 | 通义灵码2.0，不仅可跨语言编码，自动生成单元测试等，更炸裂的是集成DeepSeek模型且免费使用，太炸裂了。](https://blog.csdn.net/wuyoudeyuer/article/details/145800061)
+

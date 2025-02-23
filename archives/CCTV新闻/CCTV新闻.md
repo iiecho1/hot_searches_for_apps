@@ -203,3 +203,5 @@
 
 + [秘鲁一购物中心屋顶坍塌已致8人死 总统发声](https://news.cctv.com/2025/02/23/ARTIhDe9zBGzOcctjc7RXFqe250223.shtml)
 
++ [路透社报道“美国威胁切断‘星链’服务以施压乌交矿产开采权” 马斯克否认](https://news.cctv.com/2025/02/23/ARTIJ2uzAsloXruVkgvoXMQZ250223.shtml)
+

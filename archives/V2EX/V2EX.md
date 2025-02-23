@@ -45,3 +45,5 @@
 
 + [月薪 1.4w 的程序员，应该升级 Mac 吗？](https://www.v2ex.com/t/1113570)
 
++ [关于最近 R4L DMA 事件的 Linus 回应](https://www.v2ex.com/t/1113509)
+
