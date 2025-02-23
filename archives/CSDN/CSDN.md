@@ -141,3 +141,9 @@
 
 + [小鱼深度评测 | 通义灵码2.0，不仅可跨语言编码，自动生成单元测试等，更炸裂的是集成DeepSeek模型且免费使用，太炸裂了。](https://blog.csdn.net/wuyoudeyuer/article/details/145800061)
 
++ [科普：你的笔记本电脑中有三个IP：127.0.0.1、无线网 IP 和局域网 IP；两个域名：localhost和host.docker.internal](https://blog.csdn.net/qiy_icbc/article/details/145786906)
+
++ [FFmpeg 是什么？为什么？怎么用？](https://blog.csdn.net/beautifulmemory/article/details/145782180)
+
++ [【DeepSeek】-macOS本地终端部署后运行DeepSeek如何分析图片](https://blog.csdn.net/maoyingyong/article/details/145764239)
+
