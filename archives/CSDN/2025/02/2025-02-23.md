@@ -149,3 +149,9 @@
 
 + [从零开始：在.NET Core中快速集成SqlSugar ORM](https://blog.csdn.net/qq_53123067/article/details/145786751)
 
++ [SmolLM2：多阶段训练策略优化和高质量数据集，小型语言模型同样可以实现卓越的性能表现](https://blog.csdn.net/m0_46510245/article/details/145805983)
+
++ [免费体验，在阿里云平台零门槛调用满血版DeepSeek-R1模型](https://blog.csdn.net/u011436548/article/details/145769004)
+
++ [to AL社团成员的物联网&嵌入式赛事建议](https://blog.csdn.net/2302_80751833/article/details/145801677)
+
