@@ -101,3 +101,7 @@
 
 + [GaussDB高安全—数据保护：数据透明加密](https://blog.csdn.net/GaussDB/article/details/145762006)
 
++ [Scrum方法论指导下的Deepseek R1医疗AI部署开发](https://blog.csdn.net/kkiron/article/details/145797426)
+
++ [AI赋能编程：PyCharm与DeepSeek的智能开发革命](https://blog.csdn.net/m0_69402477/article/details/145769090)
+

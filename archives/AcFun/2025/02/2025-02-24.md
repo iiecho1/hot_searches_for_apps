@@ -61,3 +61,7 @@
 
 + [【这歌和动画不能说毫无关系，只能说根本不挨着】KiLLKiSS【叫ぶ獣】](https://m.acfun.cn/v/%3Fac%3D46918880)
 
++ [酷卡依](https://m.acfun.cn/v/%3Fac%3D46919263)
+
++ [白色情人](https://m.acfun.cn/v/%3Fac%3D46919282)
+
