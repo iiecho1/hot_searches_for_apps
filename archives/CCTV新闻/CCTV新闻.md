@@ -225,3 +225,7 @@
 
 + [约旦专栏作家：中国外交坚持和平、理性，具有战略定力](https://news.cctv.com/2025/02/23/ARTISpTAxMypj7oEmVym2Mkf250223.shtml)
 
++ [乌官员：正在与美方就矿产协议文本达成一致](https://news.cctv.com/2025/02/23/ARTIaIzpvGnJIjrW7Kogs8AL250223.shtml)
+
++ [武契奇最新表态：没有中国朋友 塞许多工程无法启动](https://news.cctv.com/2025/02/23/ARTIOlC9yyv5kFvU5JNuOe0d250223.shtml)
+

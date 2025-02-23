@@ -29,3 +29,17 @@
 
 + [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
++ [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
+
++ [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+
++ [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
++ [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [godotengine/godot](https://github.com/godotengine/godot)
+
++ [yamadashy/repomix](https://github.com/yamadashy/repomix)
+
