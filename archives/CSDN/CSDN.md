@@ -173,3 +173,5 @@
 
 + [Java 大视界 -- Java 大数据未来十年的技术蓝图与发展愿景（95）](https://blog.csdn.net/atgfg/article/details/145802946)
 
++ [【JT/T 808协议】808 协议开发笔记 ② ( 终端注册 | 终端注册应答 | 字符编码转换网站 )](https://blog.csdn.net/han1202012/article/details/145777897)
+

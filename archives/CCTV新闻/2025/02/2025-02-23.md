@@ -237,3 +237,5 @@
 
 + [架起中埃塞民心相通的友谊桥梁（新时代中非合作）](https://news.cctv.com/2025/02/23/ARTInimcsSi3LNdtJJfH1tC8250223.shtml)
 
++ [乌外长：乌总统已设定今年结束冲突的任务](https://news.cctv.com/2025/02/23/ARTIPOrLLkEaq528q4hDop59250223.shtml)
+
