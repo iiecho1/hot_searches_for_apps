@@ -127,3 +127,5 @@
 
 + [Nginx反向代理及负载均衡](https://blog.csdn.net/Starry__Sky222/article/details/145752816)
 
++ [计算机引导过程四（vmlinuz保护模式vmlinux.bin）](https://blog.csdn.net/hz5034/article/details/145816443)
+
