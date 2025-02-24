@@ -135,3 +135,11 @@
 
 + [计算机网络————（一）HTTP讲解](https://blog.csdn.net/weixin_51398164/article/details/145800435)
 
++ [【C++篇】树影摇曳，旋转无声：探寻AVL树的平衡之道](https://blog.csdn.net/2301_79849925/article/details/145753277)
+
++ [【AI时代】使用unsloth对deepseek-r1-1.5b进行微调](https://blog.csdn.net/sinat_14840559/article/details/145780216)
+
++ [实战设计模式之代理模式](https://blog.csdn.net/hope_wisdom/article/details/145815575)
+
++ [揭秘 Linux 服务启动：chkconfig 与 systemctl 的幕后机制](https://blog.csdn.net/qq_44378083/article/details/145719544)
+
