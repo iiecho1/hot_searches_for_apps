@@ -131,3 +131,7 @@
 
 + [计算机网络：应用层 —— 文件传送协议 FTP](https://blog.csdn.net/Zachyy/article/details/145774066)
 
++ [【大模型】蓝耘智算云平台快速部署DeepSeek R1/R3大模型详解](https://blog.csdn.net/zhangcongyi420/article/details/145791355)
+
++ [计算机网络————（一）HTTP讲解](https://blog.csdn.net/weixin_51398164/article/details/145800435)
+
