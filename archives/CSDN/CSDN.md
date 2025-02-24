@@ -161,3 +161,7 @@
 
 + [详细介绍嵌入式硬件设计](https://blog.csdn.net/m0_66540684/article/details/145806940)
 
++ [【一起学Rust | 框架篇 | Tauri2.0框架】在Tauri应用中设置Http头（Headers）](https://blog.csdn.net/weixin_47754149/article/details/145698963)
+
++ [【现代深度学习技术】卷积神经网络 | 图像卷积](https://blog.csdn.net/Morse_Chen/article/details/145820944)
+

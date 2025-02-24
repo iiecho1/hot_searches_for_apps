@@ -203,3 +203,5 @@
 
 + [美国国际开发署所有非关键雇员被通知行政休假](https://news.cctv.com/2025/02/24/ARTIBKHmiTCjqg8lGDE41EGp250224.shtml)
 
++ [美国国际开发署裁员1600人 全球员工“被休假”](https://news.cctv.com/2025/02/24/ARTINfimHCtOW75ijutR6d5S250224.shtml)
+
