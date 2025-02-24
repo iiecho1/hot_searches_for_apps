@@ -217,3 +217,13 @@
 
 + [“杀猪盘”“虚拟绑架”“刷单诈骗”等花样百出：在韩中国留学生深受其害](https://news.cctv.com/2025/02/24/ARTIsRhzkKseNkHpuNgTXPM8250224.shtml)
 
++ [日本福岛温泉胜地附近3人身亡：遗体叠压，死因均为硫化氢中毒](https://news.cctv.com/2025/02/24/ARTI6ocYXs846lEeTtP0PP6a250224.shtml)
+
++ [俄驻法国马赛领馆区域发生爆炸 俄外交部称“拥有恐怖袭击所有特征”](https://news.cctv.com/2025/02/24/ARTIhhkQPzdeiBUL4hUGZcJ7250224.shtml)
+
++ [欧盟称尚未考虑向乌克兰派遣维和部队](https://news.cctv.com/2025/02/24/ARTIsLy48Oyv373F9EVCGrla250224.shtml)
+
++ [俄乌冲突三周年之际 欧盟通过对俄第16轮制裁措施](https://news.cctv.com/2025/02/24/ARTIGvG0KS8iYx67PirhBxOX250224.shtml)
+
++ [欧盟各国外长批准对俄新一轮制裁](https://news.cctv.com/2025/02/24/ARTIStZQB3lWDDUaJwxX3aeC250224.shtml)
+

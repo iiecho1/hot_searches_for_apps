@@ -177,3 +177,9 @@
 
 + [内网网络安全的解决之道](https://blog.csdn.net/Hacker_Nightrain/article/details/145795491)
 
++ [探索深度学习奥秘：构建智能世界的基石](https://blog.csdn.net/weixin_53269650/article/details/145805879)
+
++ [蓝耘科技发布DeepSeek满血版：引领AI推理革新，开启智慧新时代](https://blog.csdn.net/2301_81313679/article/details/145826935)
+
++ [【MySQL】第九弹---掌握SQL关键操作：更新、删除、插入与聚合分析的秘诀](https://blog.csdn.net/2201_75584283/article/details/142306947)
+
