@@ -203,3 +203,7 @@
 
 + [什么AGI](https://blog.csdn.net/sunyuhua_keyboard/article/details/145785639)
 
++ [DeepSeek核心技术全景解析：架构革新与工程突破](https://blog.csdn.net/qq_37037348/article/details/145813179)
+
++ [SSI用量子计算来玩AI](https://blog.csdn.net/kingsoftcloud/article/details/145802100)
+
