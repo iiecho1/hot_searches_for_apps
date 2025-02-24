@@ -19,3 +19,19 @@
 
 + [yamadashy/repomix](https://github.com/yamadashy/repomix)
 
++ [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
+
++ [al1abb/invoify](https://github.com/al1abb/invoify)
+
++ [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper)
+
++ [neovim/neovim](https://github.com/neovim/neovim)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
