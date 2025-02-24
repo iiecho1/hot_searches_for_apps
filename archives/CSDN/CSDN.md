@@ -107,3 +107,27 @@
 
 + [结束，起点。有感于2024博客之星评选](https://blog.csdn.net/michaelline/article/details/145790042)
 
++ [【Viewer.js】vue3封装图片查看器](https://blog.csdn.net/qq_43614372/article/details/145816514)
+
++ [云电脑接入DeepSeek？探讨ToDesk云电脑、海马云、顺网云的AI潜能](https://blog.csdn.net/qq_38951259/article/details/145817940)
+
++ [LabVIEW齿轮箱故障分析系统](https://blog.csdn.net/bjcyck/article/details/145804934)
+
++ [【Linux-网络】从逻辑寻址到物理传输：解构IP协议与ARP协议的跨层协作](https://blog.csdn.net/dhgiuyawhiudwqha/article/details/145836004)
+
++ [DeepSeek 全面分析报告](https://blog.csdn.net/qq_64685283/article/details/145791817)
+
++ [Linux项目自动化构建工具-make/Makeﬁle (linux第六课)](https://blog.csdn.net/m0_73751295/article/details/145838640)
+
++ [微信小程序-二维码绘制](https://blog.csdn.net/2302_80798583/article/details/145796482)
+
++ [verilog测试平台设计与verilog的synthesis](https://blog.csdn.net/weixin_74277223/article/details/145816926)
+
++ [Spring Boot 如何保证接口安全](https://blog.csdn.net/g470641382/article/details/145790217)
+
++ [高性能缓存设计：如何解决缓存伪共享问题](https://blog.csdn.net/qq_46225886/article/details/145796864)
+
++ [8090科技才俊张一鸣、汪滔、梁文锋、王兴兴、冯骥、吴怀宇干货秘籍](https://blog.csdn.net/ibmfahsion/article/details/145837906)
+
++ [微信小程序-组件复用机制behaviors](https://blog.csdn.net/2301_76662406/article/details/145801435)
+
