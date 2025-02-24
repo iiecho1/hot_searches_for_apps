@@ -205,3 +205,15 @@
 
 + [美国国际开发署裁员1600人 全球员工“被休假”](https://news.cctv.com/2025/02/24/ARTINfimHCtOW75ijutR6d5S250224.shtml)
 
++ [欧盟及多国领导人访问乌克兰](https://news.cctv.com/2025/02/24/ARTIpXx4cX9m5nX3lCOsNN3i250224.shtml)
+
++ [空难56天后 韩国务安机场恢复部分航班起降](https://news.cctv.com/2025/02/24/ARTI1ikjPd1WQARlN9eItVow250224.shtml)
+
++ [日本财务省前财务官神田真人就任亚行行长](https://news.cctv.com/2025/02/24/ARTIzvfVxlJzS7yax0T3lfRN250224.shtml)
+
++ [朝鲜谴责11国召开对朝制裁会议](https://news.cctv.com/2025/02/24/ARTIZW9xi3myYUrh3WJ6fqUo250224.shtml)
+
++ [热点问答｜大选结束 德国接下来怎么走](https://news.cctv.com/2025/02/24/ARTIVYb2U9JwPxhOmL1ZfGnw250224.shtml)
+
++ [“杀猪盘”“虚拟绑架”“刷单诈骗”等花样百出：在韩中国留学生深受其害](https://news.cctv.com/2025/02/24/ARTIsRhzkKseNkHpuNgTXPM8250224.shtml)
+

@@ -165,3 +165,15 @@
 
 + [【现代深度学习技术】卷积神经网络 | 图像卷积](https://blog.csdn.net/Morse_Chen/article/details/145820944)
 
++ [碰撞检测 | 图解凸多边形分离轴定理(附ROS C++可视化)](https://blog.csdn.net/FRIGIDWINTER/article/details/145816785)
+
++ [用PyTorch从零构建 DeepSeek R1：模型架构和分步训练详解](https://blog.csdn.net/m0_46510245/article/details/145824001)
+
++ [云电脑接入DeepSeek？探讨ToDesk云电脑、海马云、顺网云的AI潜能](https://blog.csdn.net/qq_38951259/article/details/145817940)
+
++ [学习threejs，使用createMultiMaterialObject创建多材质对象](https://blog.csdn.net/qq_28419035/article/details/145824247)
+
++ [Deepseek官网卡顿：教你玩转蓝耘的Deepseek-R1/V3满血版，免费送500万Tokens](https://blog.csdn.net/weixin_43151418/article/details/145789804)
+
++ [内网网络安全的解决之道](https://blog.csdn.net/Hacker_Nightrain/article/details/145795491)
+
