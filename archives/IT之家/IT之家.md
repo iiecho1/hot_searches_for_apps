@@ -25,3 +25,27 @@
 
 + [一汽大众 ID.系列车型官宣降价最高 5.5 万元，一口价 13.99 万元起](https://m.ithome.com/html/831462.htm)
 
++ [苹果 iPhone 17 Pro Max 手机壳曝光，再次印证矩形相机模组设计](https://m.ithome.com/html/833056.htm)
+
++ [小米 15 Ultra 真机外观曝光：后置四摄、圆形相机模组设计](https://m.ithome.com/html/833121.htm)
+
++ [华为余承东预告“想不到的产品”：首款为原生鸿蒙而生的新形态手机 3 月见](https://m.ithome.com/html/833184.htm)
+
++ [小米 15 Ultra 手机细节设计公布：与“百年来堪称最伟大”相机设计相融](https://m.ithome.com/html/833054.htm)
+
++ [发布在即，卢伟冰官宣小米 15 Ultra 手机明天见](https://m.ithome.com/html/833138.htm)
+
++ [小米 SU7 Ultra 暗绿色实车谍照曝光：5 款配色目前已知 3 款](https://m.ithome.com/html/833095.htm)
+
++ [小米 15 Ultra / SU7 Ultra“双 Ultra”定档 2 月 27 日，雷军宣布“开始向超高端进发”](https://m.ithome.com/html/833129.htm)
+
++ [苹果 iPhone 17 系列 CAD 渲染图曝光：Pro 和 Air 机型采用横向摄像头设计](https://m.ithome.com/html/833059.htm)
+
++ [领克 900 旗舰 SUV 细节公布：前后 30 英寸 6K 屏、双骁龙 8295 芯片，第二季度上市](https://m.ithome.com/html/833165.htm)
+
++ [YY 语音公司接入 DeepSeek 上线“YYDS”](https://m.ithome.com/html/833205.htm)
+
++ [小米 15 Ultra 手机经典黑白配色公布，2 月 27 日发布](https://m.ithome.com/html/833118.htm)
+
++ [小米 15 Ultra 手机外观公布：采用双拼色设计，2 月 27 日发布](https://m.ithome.com/html/832174.htm)
+
