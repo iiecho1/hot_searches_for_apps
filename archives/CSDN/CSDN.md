@@ -153,3 +153,11 @@
 
 + [使用KTransformer部署DeepSeekR1-671B满血量化版+ OpenwebUI 及多GPU(多卡)适配教程（Ubuntu+256G+4090+Intel）](https://blog.csdn.net/qq_26123545/article/details/145757197)
 
++ [DeepSeek＋Kimi生成高质量PPT](https://blog.csdn.net/2401_83427936/article/details/145620639)
+
++ [《极速探索 HarmonyOS NEXT》：与鸿蒙共成长，助力科技未来新发展](https://blog.csdn.net/qq_39132095/article/details/145820977)
+
++ [如何用本地部署的DeepSeek-R1模型结合OmniParser V2实现无网络 WPS 文件交互？（适合小白）](https://blog.csdn.net/2301_78858041/article/details/145799991)
+
++ [详细介绍嵌入式硬件设计](https://blog.csdn.net/m0_66540684/article/details/145806940)
+
