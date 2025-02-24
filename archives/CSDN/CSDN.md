@@ -101,3 +101,9 @@
 
 + [SSI用量子计算来玩AI](https://blog.csdn.net/kingsoftcloud/article/details/145802100)
 
++ [揭秘 Linux 服务启动：chkconfig 与 systemctl 的幕后机制](https://blog.csdn.net/qq_44378083/article/details/145719544)
+
++ [‌挖数据平台对接DeepSeek推出一键云端部署功能：API接口驱动金融、汽车等行业智能化升级](https://blog.csdn.net/m0_57991918/article/details/145809431)
+
++ [结束，起点。有感于2024博客之星评选](https://blog.csdn.net/michaelline/article/details/145790042)
+

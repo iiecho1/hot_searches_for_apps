@@ -161,3 +161,9 @@
 
 + [法国东部城市米卢斯发生持刀袭击事件 已致1死多伤](https://news.cctv.com/2025/02/23/ARTISgz2pH7Z4t16G8Bpmtvf250223.shtml)
 
++ [哈萨克斯坦将在高考中引入人工智能技术](https://news.cctv.com/2025/02/25/ARTIPvw8FsDAxfBh4k5wsctD250224.shtml)
+
++ [俄外长：只有协议令俄满意才会停止军事行动](https://news.cctv.com/2025/02/25/ARTIfoew9frnVpQeg1naBq3t250225.shtml)
+
++ [敲定几乎所有关键细节 乌克兰盼与美尽快签矿产协议](https://news.cctv.com/2025/02/25/ARTIcfnTLEE0pEY154gMHGEx250224.shtml)
+
