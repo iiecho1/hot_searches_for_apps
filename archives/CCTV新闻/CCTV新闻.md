@@ -227,3 +227,15 @@
 
 + [欧盟各国外长批准对俄新一轮制裁](https://news.cctv.com/2025/02/24/ARTIStZQB3lWDDUaJwxX3aeC250224.shtml)
 
++ [默茨：美国不关心欧洲人命运，对美“不抱任何幻想”](https://news.cctv.com/2025/02/24/ARTIkqB6O72V908GaLxfGAAQ250224.shtml)
+
++ [无视“最后通牒”，美多家政府机构称不会配合马斯克](https://news.cctv.com/2025/02/24/ARTIDjMNoCVojeIrqEaLsG9u250224.shtml)
+
++ [不得不依赖美企 日本“数字赤字”超430亿美元创新高](https://news.cctv.com/2025/02/24/ARTICoduZRNHQOG1HNEkv7EW250224.shtml)
+
++ [乌克兰全境拉响防空警报](https://news.cctv.com/2025/02/24/ARTIvpfsRzODPSo9uABxcnlS250224.shtml)
+
++ [俄外长：俄方愿与乌、欧谈判 但乌克兰不加入北约是“先决条件”](https://news.cctv.com/2025/02/24/ARTI2o0XCh12guTjT9rOr9jC250224.shtml)
+
++ [欧盟提供一项能源计划 支持乌克兰融入欧洲能源市场](https://news.cctv.com/2025/02/24/ARTIbrCGqZCCyDyiHtRkWSX7250224.shtml)
+

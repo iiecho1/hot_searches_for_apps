@@ -183,3 +183,13 @@
 
 + [【MySQL】第九弹---掌握SQL关键操作：更新、删除、插入与聚合分析的秘诀](https://blog.csdn.net/2201_75584283/article/details/142306947)
 
++ [使用大语言模型（Deepseek）构建一个基于 SQL 数据的问答系统](https://blog.csdn.net/qq_26610239/article/details/145810611)
+
++ [结合Jaeger与SkyWalking进行分布式系统故障定位与性能监控的探索](https://blog.csdn.net/weixin_52908342/article/details/145811466)
+
++ [硬件加速与技术创新双轮驱动：DeepSeek和ChatGPT性能进阶的未来蓝图](https://blog.csdn.net/djdjiejsn/article/details/145826293)
+
++ [使用Windbg调试目标进程排查C++软件异常的一般步骤与要点分享](https://blog.csdn.net/chenlycly/article/details/145826705)
+
++ [ctf网络安全题库 ctf网络安全大赛答案 ](https://blog.csdn.net/Hacker_Fuchen/article/details/145796053)
+
