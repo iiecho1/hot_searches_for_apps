@@ -185,3 +185,15 @@
 
 + [南非实行六级限电 居民每天停电8小时以上](https://news.cctv.com/2025/02/24/ARTI4qGgBQHIuWdyqOhoSpZQ250224.shtml)
 
++ [聚焦共赢 谋求正和（和音）](https://news.cctv.com/2025/02/24/ARTIVKeK115Pk4hzsZenaGUY250224.shtml)
+
++ [加征关税无法解决美贸易失衡](https://news.cctv.com/2025/02/24/ARTIU74Mye9N3Jx7xZZ9Vq9x250224.shtml)
+
++ [非洲加快能源绿色转型步伐（国际视点）](https://news.cctv.com/2025/02/24/ARTICLptb7LtoRRXilkrsySQ250224.shtml)
+
++ [“帮助智利等拉美国家人民更好了解中国”](https://news.cctv.com/2025/02/24/ARTIphU5ySNYnExrOTf9vguk250224.shtml)
+
++ [默茨：欧洲应摆脱对美依赖](https://news.cctv.com/2025/02/24/ARTIBZaSTfEohlL3aUPwbuky250224.shtml)
+
++ [右转的保守派、业余的飞行员，默茨将把德国带向何方](https://people.cctv.com/2025/02/24/ARTIOhJPccG1HIvfRgQViae9250224.shtml)
+
