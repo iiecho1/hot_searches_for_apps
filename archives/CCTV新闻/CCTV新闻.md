@@ -239,3 +239,7 @@
 
 + [欧盟提供一项能源计划 支持乌克兰融入欧洲能源市场](https://news.cctv.com/2025/02/24/ARTIbrCGqZCCyDyiHtRkWSX7250224.shtml)
 
++ [中国贸促会回应美发布“美国第一”投资政策备忘录](https://news.cctv.com/2025/02/24/ARTIueuqs4P1I6wE1U59GvKf250224.shtml)
+
++ [法国专家：美欧分歧日益凸显 欧盟对华合作意义重大](https://news.cctv.com/2025/02/24/ARTIYKPvFRbi4I89EsYINm8u250224.shtml)
+
