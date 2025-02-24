@@ -199,3 +199,7 @@
 
 + [美国纽约附近海域一船只倾覆 已致3人死亡](https://news.cctv.com/2025/02/24/ARTIonirzWO2ybEHdqqSQh3c250224.shtml)
 
++ [以军再次袭击约旦河西岸 部署坦克扩大行动范围](https://news.cctv.com/2025/02/24/ARTIzzSJsXGWa7iyyVGJd167250224.shtml)
+
++ [美国国际开发署所有非关键雇员被通知行政休假](https://news.cctv.com/2025/02/24/ARTIBKHmiTCjqg8lGDE41EGp250224.shtml)
+

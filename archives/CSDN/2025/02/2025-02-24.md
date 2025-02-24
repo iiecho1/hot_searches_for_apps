@@ -143,3 +143,13 @@
 
 + [揭秘 Linux 服务启动：chkconfig 与 systemctl 的幕后机制](https://blog.csdn.net/qq_44378083/article/details/145719544)
 
++ [SQL ①-数据库 || MySQL](https://blog.csdn.net/Themberfue/article/details/145774660)
+
++ [SpringBoot源码解析(十一)：准备应用上下文](https://blog.csdn.net/qq_35512802/article/details/145395885)
+
++ [2025年02月21日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/145782826)
+
++ [Oracle和Mysql的区别](https://blog.csdn.net/weixin_36104843/article/details/145798392)
+
++ [使用KTransformer部署DeepSeekR1-671B满血量化版+ OpenwebUI 及多GPU(多卡)适配教程（Ubuntu+256G+4090+Intel）](https://blog.csdn.net/qq_26123545/article/details/145757197)
+
