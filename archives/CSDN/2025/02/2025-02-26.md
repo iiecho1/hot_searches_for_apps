@@ -143,3 +143,5 @@
 
 + [云原生周刊：云原生和 AI](https://blog.csdn.net/zpf17671624050/article/details/145833384)
 
++ [CPT204 个人自习笔记W1](https://blog.csdn.net/shuyuweiyang/article/details/145754024)
+
