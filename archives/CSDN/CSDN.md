@@ -131,3 +131,9 @@
 
 + [Qt中C++与QML交互从原理、方法与实践陷阱深度解析](https://blog.csdn.net/qianniulaoren/article/details/145836235)
 
++ [Open WebUI本地部署教程](https://blog.csdn.net/u013305783/article/details/145805774)
+
++ [《2025国内免费DeepSeek-R1自部署平台实测指南：三大运营商/腾讯/华为哪家强？附避坑清单》](https://blog.csdn.net/Mo_Tao/article/details/145824679)
+
++ [短剧小程序系统源码](https://blog.csdn.net/helloworld_dream/article/details/145841257)
+
