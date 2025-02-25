@@ -109,3 +109,25 @@
 
 + [使用django调用deepseek api，搭建ai网站](https://blog.csdn.net/m0_74370400/article/details/145809657)
 
++ [SelfCite: 通过自监督奖励提升LLM对上下文内容的引用质量](https://blog.csdn.net/m0_46510245/article/details/145846010)
+
++ [实战设计模式之代理模式](https://blog.csdn.net/hope_wisdom/article/details/145815575)
+
++ [Spring Cloud Gateway 网关的使用](https://blog.csdn.net/2202_76097976/article/details/145836299)
+
++ [从零开始：在.NET Core中快速集成SqlSugar ORM](https://blog.csdn.net/qq_53123067/article/details/145786751)
+
++ [DeepSeek核心技术全景解析：架构革新与工程突破](https://blog.csdn.net/qq_37037348/article/details/145813179)
+
++ [【Unity】鱼群效果模拟](https://blog.csdn.net/qq_36674053/article/details/145815045)
+
++ [数据拟合与插值技术全解析：从线性插值到Logistic模型实战](https://blog.csdn.net/qq_74303061/article/details/145858088)
+
++ [基于星海智算云平台部署DeepSeek-R1系列70b模型全攻略（附平台福利）](https://blog.csdn.net/qq_44866828/article/details/145852056)
+
++ [无人机实战系列（二）本地摄像头 + Depth-Anything V2](https://blog.csdn.net/nenchoumi3119/article/details/145825257)
+
++ [前端防重复请求终极方案：从Loading地狱到精准拦截的架构升级](https://blog.csdn.net/qq_40850839/article/details/145808167)
+
++ [Qt中C++与QML交互从原理、方法与实践陷阱深度解析](https://blog.csdn.net/qianniulaoren/article/details/145836235)
+
