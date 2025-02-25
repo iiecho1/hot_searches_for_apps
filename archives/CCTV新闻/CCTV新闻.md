@@ -203,3 +203,7 @@
 
 + [视频丨美国得克萨斯州一小型飞机坠毁 致2人受伤](https://news.cctv.com/2025/02/25/ARTIlkY91c6p9IzOfytKOnYu250225.shtml)
 
++ [法国芒通柠檬节：水果艺术点亮“星际之旅”](https://photo.cctv.com/2025/02/25/PHOARrtUZOEdS19uGqRvy8a7250225.shtml)
+
++ [西班牙首相：将再向乌克兰提供10亿欧元军事援助](https://news.cctv.com/2025/02/25/ARTIrkdy7I5NDbG1HiNVWBa0250225.shtml)
+
