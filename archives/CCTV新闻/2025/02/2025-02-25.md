@@ -171,3 +171,17 @@
 
 + [日本国土交通省：为扩大女飞行员报考及招收比例，日本航空大学校将取消身高限制](https://news.cctv.com/2025/02/25/ARTIYsdQ1ED5RotsckfcuWzM250225.shtml)
 
++ [从斯图加特到杜塞尔多夫，德国的“刹车”与“加速”](https://news.cctv.com/2025/02/25/ARTIBJaLIipzVX6rbzhvyQ4o250225.shtml)
+
++ [韩国消防部门：忠清南道高速公路垮塌已致2人死亡4人重伤](https://news.cctv.com/2025/02/25/ARTIJ0ObTkPpnhiVvPVrT4ly250225.shtml)
+
++ [美国“对等关税”究竟意味着什么（环球热点）](https://news.cctv.com/2025/02/25/ARTIVK2RKdCwh8M4T415mvCa250225.shtml)
+
++ [美靠关税施压无法实现制造业回归](https://news.cctv.com/2025/02/25/ARTIHzBOj64grIk6UbiK8ywL250225.shtml)
+
++ [普京：俄美可考虑多领域合作 两国企业“正在接触”](https://news.cctv.com/2025/02/25/ARTINXJt2Asp9j0tUqneD4HA250225.shtml)
+
++ [安理会通过决议呼吁迅速结束俄乌冲突](https://news.cctv.com/2025/02/25/ARTIjFUByIWjOtKIg5guJ0Lg250225.shtml)
+
++ [韩国一高速公路在建桥梁倒塌 致3死5伤](https://news.cctv.com/2025/02/25/ARTI5JyVHz8d5GQYlwcFmyk6250225.shtml)
+

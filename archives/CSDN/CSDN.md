@@ -149,3 +149,9 @@
 
 + [无名管道、有名管道、信号、信号处理](https://blog.csdn.net/m0_71564676/article/details/145836454)
 
++ [第二十届全国大学生智能汽车竞赛-竞速比赛 百度完全模型组规则V1.0](https://blog.csdn.net/zhuoqingjoking97298/article/details/145842861)
+
++ [分享一个免费的CKA认证学习资料](https://blog.csdn.net/unbuntu_luo/article/details/145820934)
+
++ [让Word插上AI的翅膀:如何把DeepSeek装进Word](https://blog.csdn.net/henanlion/article/details/145837432)
+
