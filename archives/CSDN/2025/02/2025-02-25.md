@@ -191,3 +191,9 @@
 
 + [渗透测试：seacmsV9+order by+information-schema](https://blog.csdn.net/weixin_59713645/article/details/145836550)
 
++ [SelfCite: 通过自监督奖励提升LLM对上下文内容的引用质量](https://blog.csdn.net/m0_46510245/article/details/145846010)
+
++ [相似性搜索（2）](https://blog.csdn.net/yaojiawan/article/details/145819138)
+
++ [Unity百游修炼(2)——Brick_Breaker详细制作全流程](https://blog.csdn.net/MY_future_/article/details/145838086)
+
