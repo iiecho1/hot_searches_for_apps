@@ -193,3 +193,13 @@
 
 + [韩国忠清南道高速公路垮塌已致4人死亡5人重伤](https://news.cctv.com/2025/02/25/ARTIoEfPVAJCm1V40OAArrBr250225.shtml)
 
++ [我驻韩使馆证实：韩国在建桥梁坍塌事故中有2名中国工人遇难](https://news.cctv.com/2025/02/25/ARTIzXswS8sGqI7mTLHT45mq250225.shtml)
+
++ [菲律宾保安上班迟到30分钟，被同事3枪毙命！嫌犯：他天天交班都晚来](https://news.cctv.com/2025/02/25/ARTIsEFJV2zs8B8sRmhAc6v8250225.shtml)
+
++ [尹锡悦弹劾案举行最后一场辩论](https://news.cctv.com/2025/02/25/ARTInwZwQBzlgDP07lXIcQco250225.shtml)
+
++ [马斯克喊话美联邦政府雇员：两次“不交周报”就将被炒！](https://news.cctv.com/2025/02/25/ARTIZ6eYuRlgIaZTheBFyg0i250225.shtml)
+
++ [视频丨美国得克萨斯州一小型飞机坠毁 致2人受伤](https://news.cctv.com/2025/02/25/ARTIlkY91c6p9IzOfytKOnYu250225.shtml)
+
