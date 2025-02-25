@@ -203,3 +203,11 @@
 
 + [脑机接口SSVEP经典算法 FBCCA滤波器组典型相关分析 matlab实战](https://blog.csdn.net/foamz/article/details/145820417)
 
++ [DeepSeek加持的通义灵码2.0 AI程序员实战案例：助力嵌入式开发中的算法生成革新](https://blog.csdn.net/g310773517/article/details/145800181)
+
++ [【聊天室后端服务器开发】功能设计-框架与微服务](https://blog.csdn.net/gma999/article/details/143860398)
+
++ [petalinux上自己编译vsftpd](https://blog.csdn.net/m0_50771771/article/details/145860147)
+
++ [若依前后端分离框架修改3.8.9版本（重点在安全框架讲解与微信小程序登录集成）](https://blog.csdn.net/qq_43483251/article/details/145835417)
+
