@@ -155,3 +155,5 @@
 
 + [让Word插上AI的翅膀:如何把DeepSeek装进Word](https://blog.csdn.net/henanlion/article/details/145837432)
 
++ [智慧废品回收小程序php+uniapp](https://blog.csdn.net/2401_84293145/article/details/145811013)
+
