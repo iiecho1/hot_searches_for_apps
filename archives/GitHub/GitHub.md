@@ -31,3 +31,17 @@
 
 + [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
++ [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
+
++ [laravel/laravel](https://github.com/laravel/laravel)
+
++ [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
+
++ [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+
++ [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [DS4SD/docling](https://github.com/DS4SD/docling)
+
