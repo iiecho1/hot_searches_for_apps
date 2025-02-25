@@ -137,3 +137,9 @@
 
 + [短剧小程序系统源码](https://blog.csdn.net/helloworld_dream/article/details/145841257)
 
++ [48、深度学习-自学之路-自己搭建深度学习框架-9、添加嵌入层为了浮现RNN的神经网络使用框架。](https://blog.csdn.net/weixin_43006478/article/details/145837252)
+
++ [AWS Bedrock平台引入DeepSeek-R1 模型，推动深度学习](https://blog.csdn.net/ai18013044985/article/details/145820733)
+
++ [云原生周刊：云原生和 AI](https://blog.csdn.net/zpf17671624050/article/details/145833384)
+
