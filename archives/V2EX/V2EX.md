@@ -53,3 +53,5 @@
 
 + [真爱是什么样的?](https://www.v2ex.com/t/1114055)
 
++ [dell u2725qe 官网上架了](https://www.v2ex.com/t/1113994)
+
