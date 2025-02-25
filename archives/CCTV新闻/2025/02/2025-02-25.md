@@ -167,3 +167,7 @@
 
 + [敲定几乎所有关键细节 乌克兰盼与美尽快签矿产协议](https://news.cctv.com/2025/02/25/ARTIcfnTLEE0pEY154gMHGEx250224.shtml)
 
++ [美法官拒绝立即恢复美联社对白宫新闻发布会的全面采访权](https://news.cctv.com/2025/02/25/ARTImHE8Y643ZfE85pPAkwiJ250225.shtml)
+
++ [日本国土交通省：为扩大女飞行员报考及招收比例，日本航空大学校将取消身高限制](https://news.cctv.com/2025/02/25/ARTIYsdQ1ED5RotsckfcuWzM250225.shtml)
+

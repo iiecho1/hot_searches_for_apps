@@ -141,3 +141,7 @@
 
 + [Vue2 和 Vue3 的响应式原理对比](https://blog.csdn.net/Jet_Lover/article/details/145816848)
 
++ [大模型经济困局突围战：寻找打破“算力暴政“的下一个奇点](https://blog.csdn.net/RenGJ010617/article/details/145763851)
+
++ [基于SpringBoot和Leaflet的邻省GDP可视化实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/145838534)
+
