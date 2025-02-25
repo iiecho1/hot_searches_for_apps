@@ -47,3 +47,5 @@
 
 + [吐槽一下，我最近真的烦死了这些大模型公司，有必要这么搞吗](https://www.v2ex.com/t/1114012)
 
++ [请问 macOS 下的 Office 有何解决方案](https://www.v2ex.com/t/1113990)
+

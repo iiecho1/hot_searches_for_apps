@@ -207,3 +207,7 @@
 
 + [西班牙首相：将再向乌克兰提供10亿欧元军事援助](https://news.cctv.com/2025/02/25/ARTIrkdy7I5NDbG1HiNVWBa0250225.shtml)
 
++ [特朗普“都要” 欧盟也想要 美欧“合伙”瓜分乌克兰矿产资源](https://news.cctv.com/2025/02/25/ARTIhS4IOIZyfRtme8dYDqPc250225.shtml)
+
++ [以色列冻结巴勒斯坦权力机构资金 用于补偿“恐袭受害者”](https://news.cctv.com/2025/02/25/ARTIZZyXKh84uEAhcNjrDfwx250225.shtml)
+
