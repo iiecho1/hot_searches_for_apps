@@ -101,3 +101,11 @@
 
 + [使用大语言模型（Deepseek）构建一个基于 SQL 数据的问答系统](https://blog.csdn.net/qq_26610239/article/details/145810611)
 
++ [Redis——用户签到BitMap，UV统计](https://blog.csdn.net/gege_0606/article/details/145830790)
+
++ [Power BI：商业智能数据分析与可视化的核心工具](https://blog.csdn.net/qq_44273429/article/details/145856971)
+
++ [云电脑接入DeepSeek？探讨ToDesk云电脑、海马云、顺网云的AI潜能](https://blog.csdn.net/qq_38951259/article/details/145817940)
+
++ [使用django调用deepseek api，搭建ai网站](https://blog.csdn.net/m0_74370400/article/details/145809657)
+

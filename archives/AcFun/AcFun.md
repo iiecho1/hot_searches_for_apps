@@ -61,3 +61,5 @@
 
 + [三十名绯红之拳用战术几乎团灭了一个恐虐的混沌星际战士战帮](https://m.acfun.cn/v/%3Fac%3D46924675)
 
++ [【浅汐☆真曈】仙布厨和波加曼厨的Biri-Biri-YOASOBI](https://m.acfun.cn/v/%3Fac%3D46928139)
+

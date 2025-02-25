@@ -161,3 +161,11 @@
 
 + [德国新一届联邦议院选举正式开始投票](https://news.cctv.com/2025/02/23/ARTIHInH6ygELRJUeK4smeEA250223.shtml)
 
++ [国际观察丨从乌克兰危机看美欧关系中的“美国优先”](https://news.cctv.com/2025/02/26/ARTIYMJNKFNWn4yB7owJ4VzY250225.shtml)
+
++ [真松弛还是暗较劲？特朗普马克龙会晤传递哪些信息](https://news.cctv.com/2025/02/26/ARTIQ4f4YbI81SSuuxmzl3Ey250225.shtml)
+
++ [大埃及博物馆将于今年7月3日正式对外开放](https://news.cctv.com/2025/02/26/ARTIQhCdBr77w4kMo1eQS6i6250225.shtml)
+
++ [泰国切断边境可疑通信和网络信号 与中缅合作打击电诈](https://news.cctv.com/2025/02/26/ARTISV6EdUXWf10ifBX2Yc8E250225.shtml)
+
