@@ -157,3 +157,13 @@
 
 + [智慧废品回收小程序php+uniapp](https://blog.csdn.net/2401_84293145/article/details/145811013)
 
++ [TensorFlow深度学习实战（9）——构建VGG模型实现图像分类](https://blog.csdn.net/LOVEmy134611/article/details/144276193)
+
++ [BIRCH算法深度解析与实践指南](https://blog.csdn.net/YYDS_54/article/details/145756861)
+
++ [Rk3568驱动开发_驱动实现流程以及本质_3](https://blog.csdn.net/xyint/article/details/145835642)
+
++ [美颜相机1.0](https://blog.csdn.net/cc2879675934/article/details/145808386)
+
++ [Kubernetes控制平面组件：API Server Node 授权机制 详解](https://blog.csdn.net/a1369760658/article/details/145841232)
+
