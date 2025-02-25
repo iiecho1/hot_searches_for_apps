@@ -199,3 +199,7 @@
 
 + [游戏引擎学习第120天](https://blog.csdn.net/TM1695648164/article/details/145834826)
 
++ [DeepSeek 助力 Vue 开发：打造丝滑的文本输入框（Text Input）](https://blog.csdn.net/qq_33650655/article/details/145837003)
+
++ [脑机接口SSVEP经典算法 FBCCA滤波器组典型相关分析 matlab实战](https://blog.csdn.net/foamz/article/details/145820417)
+
