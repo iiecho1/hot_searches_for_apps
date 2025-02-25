@@ -189,3 +189,7 @@
 
 + [一夜之间，联大和安理会涉乌投票格局为何大变？](https://news.cctv.com/2025/02/25/ARTIjXBUdtc7U6qzC53NZ7kw250225.shtml)
 
++ [叙利亚首都大马士革郊区发生交战 致多人伤亡](https://news.cctv.com/2025/02/25/ARTIq7zDePPwPBadLcJbNmq2250225.shtml)
+
++ [韩国忠清南道高速公路垮塌已致4人死亡5人重伤](https://news.cctv.com/2025/02/25/ARTIoEfPVAJCm1V40OAArrBr250225.shtml)
+

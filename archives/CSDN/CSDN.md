@@ -167,3 +167,7 @@
 
 + [Kubernetes控制平面组件：API Server Node 授权机制 详解](https://blog.csdn.net/a1369760658/article/details/145841232)
 
++ [【Spark+Hadoop】基于Spark大数据小说数据分析推荐系统（完整系统源码+数据库+开发笔记+详细部署教程+虚拟机分布式启动教程）✅](https://blog.csdn.net/qq_64605578/article/details/145799300)
+
++ [9.【线性代数】—— 线性相关性， 向量空间的基，维数](https://blog.csdn.net/sda42342342423/article/details/145827702)
+
