@@ -15,3 +15,5 @@
 
 + [Apple 教育优惠叠加国补， 3000 可买 MacMini M4 版本](https://www.v2ex.com/t/1114363)
 
++ [国产手机哪一家和型号完美支持 Telegram?](https://www.v2ex.com/t/1114262)
+
