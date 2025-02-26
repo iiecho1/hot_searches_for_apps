@@ -199,3 +199,9 @@
 
 + [本地部署deepseek大模型后使用c# winform调用（可离线）](https://blog.csdn.net/weixin_72139050/article/details/145861436)
 
++ [穿越AI边界：深度集成DeepSeek API与云平台的实践之路](https://blog.csdn.net/lrq13965748542/article/details/145876544)
+
++ [1分钟用DeepSeek编写一个PDF转Word软件](https://blog.csdn.net/henanlion/article/details/145861672)
+
++ [DeepSeek在MATLAB上的部署与应用 ](https://blog.csdn.net/qq_57128262/article/details/145819626)
+

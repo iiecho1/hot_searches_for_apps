@@ -59,3 +59,5 @@
 
 + [求推荐 macOS 必装软件](https://www.v2ex.com/t/1114282)
 
++ [黑苹果末路？](https://www.v2ex.com/t/1114222)
+

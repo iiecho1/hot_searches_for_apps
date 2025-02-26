@@ -235,3 +235,15 @@
 
 + [苏丹军用飞机坠毁事件已造成46人死亡](https://news.cctv.com/2025/02/26/ARTI0aoG1EjgmiE3PCC3NwIG250226.shtml)
 
++ [韩媒：李在明违反选举法二审结束，检方求刑2年](https://news.cctv.com/2025/02/26/ARTIG3lONtuQ70TILFysnceY250226.shtml)
+
++ [美政府效率部21名雇员辞职 白宫再谈马斯克身份](https://news.cctv.com/2025/02/26/ARTI98hpbzohQNU1cshsNQes250226.shtml)
+
++ [中国驻韩国大使馆：对中国公民在韩国桥梁坍塌事故中伤亡感到痛心](https://news.cctv.com/2025/02/26/ARTIpi8BeekpH0dyu3aKFsDa250226.shtml)
+
++ [因面临恐袭威胁 德国纽伦堡狂欢节庆祝活动被取消](https://news.cctv.com/2025/02/26/ARTI47i1cea2YDfXim67JDoZ250226.shtml)
+
++ [乌总理：乌美已制定矿产协议最终版本 乌政府将进行审议](https://news.cctv.com/2025/02/26/ARTIA2MXhnsbwOUtSezO35N5250226.shtml)
+
++ [日本冲绳民众抗议美日军舰停靠民用港口](https://news.cctv.com/2025/02/26/ARTI6QPJ7zd8CeAvNHqiiFkG250226.shtml)
+
