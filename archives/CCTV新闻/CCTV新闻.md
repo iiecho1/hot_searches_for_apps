@@ -247,3 +247,7 @@
 
 + [日本冲绳民众抗议美日军舰停靠民用港口](https://news.cctv.com/2025/02/26/ARTI6QPJ7zd8CeAvNHqiiFkG250226.shtml)
 
++ [俄外长：欧洲的对乌政策“极度过时和失败”](https://news.cctv.com/2025/02/26/ARTIC6pCJ82jeiVjG0Q8wwvg250226.shtml)
+
++ [外媒：从DeepSeek到《哪吒2》 中国不断突破科技创新与艺术创造极限](https://news.cctv.com/2025/02/26/ARTIPJR2L7R3tqYfmvva1Smc250226.shtml)
+
