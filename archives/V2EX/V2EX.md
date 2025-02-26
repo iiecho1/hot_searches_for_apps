@@ -13,3 +13,5 @@
 
 + [60W 2.8 年化率, 5 年还, 要不要考虑贷出来做点什么?](https://www.v2ex.com/t/1114334)
 
++ [Apple 教育优惠叠加国补， 3000 可买 MacMini M4 版本](https://www.v2ex.com/t/1114363)
+

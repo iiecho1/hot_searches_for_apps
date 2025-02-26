@@ -101,3 +101,11 @@
 
 + [快手弹幕 websocket 分析](https://blog.csdn.net/ff2766958292/article/details/145824006)
 
++ [什么是朴素贝叶斯](https://blog.csdn.net/Annconda/article/details/145887127)
+
++ [DeepSeek在MATLAB上的部署与应用 ](https://blog.csdn.net/qq_57128262/article/details/145819626)
+
++ [LabVIEW形状误差测量系统](https://blog.csdn.net/bjcyck/article/details/145843837)
+
++ [《白帽子讲Web安全》学习：深入解析Cookie与会话安全](https://blog.csdn.net/FFNCL/article/details/145785530)
+
