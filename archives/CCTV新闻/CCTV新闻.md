@@ -215,3 +215,5 @@
 
 + [美国土安全部要求所有外国人须在移民局登记 不遵循者将受处罚](https://news.cctv.com/2025/02/26/ARTIwgQAH6ElShTRJ4QjXVxt250226.shtml)
 
++ [智利大规模停电致数百万人受影响](https://news.cctv.com/2025/02/26/ARTIBd3UI1FUwYoGFKaeEGzn250226.shtml)
+
