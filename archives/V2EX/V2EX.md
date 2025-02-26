@@ -19,3 +19,5 @@
 
 + [dell u2725qe 官网上架了](https://www.v2ex.com/t/1113994)
 
++ [买了一年 iphone15 电池就只剩 88%了,一天要两充](https://www.v2ex.com/t/1114039)
+
