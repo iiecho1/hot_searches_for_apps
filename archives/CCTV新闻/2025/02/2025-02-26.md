@@ -199,3 +199,11 @@
 
 + [印尼免费营养膳食计划已在38个省份实施](https://news.cctv.com/2025/02/26/ARTIzIUR0hFPHPlKOSp9a6qS250226.shtml)
 
++ [中菲执法部门合作遣返近百名在菲从事离岸博彩中国公民](https://news.cctv.com/2025/02/26/ARTI1qRv8FMGPszEM4799JZF250226.shtml)
+
++ [泰国一巴士发生车祸 死亡人数升至18人](https://news.cctv.com/2025/02/26/ARTIOwyDwagWQR1ciAzgBUsE250226.shtml)
+
++ [俄“进步MS-28”货运飞船结束任务坠入太平洋](https://news.cctv.com/2025/02/26/ARTIhslp5njZwpAKsXKZPmJX250226.shtml)
+
++ [美媒称美乌达成矿产协议 泽连斯基28日赴美签署](https://news.cctv.com/2025/02/26/ARTIdFyx4bY0PdwAo3DnkCgC250226.shtml)
+
