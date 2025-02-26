@@ -187,3 +187,11 @@
 
 + [使用python接入腾讯云DeepSeek](https://blog.csdn.net/wang19970228/article/details/145819199)
 
++ [SQL*PLUS命令](https://blog.csdn.net/2403_83147124/article/details/145861164)
+
++ [【Vue启动项目详情教程】包含启动报错和解决方案](https://blog.csdn.net/Feng_wwf/article/details/145823773)
+
++ [学习threejs，Materials常量汇总](https://blog.csdn.net/qq_28419035/article/details/145874058)
+
++ [DeepSeek开源周Day2：DeepEP - 专为 MoE 模型设计的超高效 GPU 通信库](https://blog.csdn.net/MnivL/article/details/145850389)
+
