@@ -45,3 +45,5 @@
 
 + [开一帖, 论证 AI 浪潮下程序员如何自救](https://www.v2ex.com/t/1114146)
 
++ [有没有这样一款能在 Linux 和 windows 之间同步文件夹的软件？](https://www.v2ex.com/t/1114204)
+

@@ -173,3 +173,13 @@
 
 + [【一起学Rust | 框架篇 | Tauri2.0框架】在Tauri应用中设置Http头（Headers）](https://blog.csdn.net/weixin_47754149/article/details/145698963)
 
++ [「爬虫实战分享：如何高效爬取某汽车官方销售排行榜」](https://blog.csdn.net/YOU__FEI/article/details/145735003)
+
++ [【大模型】蓝耘智算云平台对接满血DeepSeek R1/R3 实战详解](https://blog.csdn.net/zhangcongyi420/article/details/145806593)
+
++ [Deepseek官网卡顿：教你玩转蓝耘的Deepseek-R1/V3满血版，免费送500万Tokens](https://blog.csdn.net/weixin_43151418/article/details/145789804)
+
++ [【Linux】：网络层](https://blog.csdn.net/island1314/article/details/145822695)
+
++ [基于腾讯云大模型知识引擎的DeepSeek满血版模型搭建【法律大模型专家模型搭建实战】](https://blog.csdn.net/weixin_52908342/article/details/145847738)
+

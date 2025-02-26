@@ -207,3 +207,11 @@
 
 + [美媒称美乌达成矿产协议 泽连斯基28日赴美签署](https://news.cctv.com/2025/02/26/ARTIdFyx4bY0PdwAo3DnkCgC250226.shtml)
 
++ [玻利维亚前总统莫拉莱斯辞去执政党内职务](https://news.cctv.com/2025/02/26/ARTINrXPMpruIpSagTXRZwKg250226.shtml)
+
++ [定价500万美元，特朗普计划推出移民“金卡”](https://news.cctv.com/2025/02/26/ARTI33ClDKHmtcm0CJMxXJJr250226.shtml)
+
++ [海地首都太子港遭武装团伙袭击 多人死亡](https://news.cctv.com/2025/02/26/ARTI4wX1fCAi5XQLQQcWbH2d250226.shtml)
+
++ [美国土安全部要求所有外国人须在移民局登记 不遵循者将受处罚](https://news.cctv.com/2025/02/26/ARTIwgQAH6ElShTRJ4QjXVxt250226.shtml)
+
