@@ -197,3 +197,5 @@
 
 + [高并发微服务日志管理：ELK、Loki、Fluentd 终极对决与实战指南](https://blog.csdn.net/qq_36478920/article/details/145861306)
 
++ [本地部署deepseek大模型后使用c# winform调用（可离线）](https://blog.csdn.net/weixin_72139050/article/details/145861436)
+

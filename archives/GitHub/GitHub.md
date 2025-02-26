@@ -31,3 +31,11 @@
 
 + [DS4SD/docling](https://github.com/DS4SD/docling)
 
++ [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper)
+
++ [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+
++ [ggerganov/ggwave](https://github.com/ggerganov/ggwave)
+
++ [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
+
