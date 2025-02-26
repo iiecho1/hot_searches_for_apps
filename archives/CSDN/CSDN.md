@@ -183,3 +183,7 @@
 
 + [基于腾讯云大模型知识引擎的DeepSeek满血版模型搭建【法律大模型专家模型搭建实战】](https://blog.csdn.net/weixin_52908342/article/details/145847738)
 
++ [基于YOLOv8深度学习无人机图像的电力线缺陷检测系统](https://blog.csdn.net/ZSW1218/article/details/145841837)
+
++ [使用python接入腾讯云DeepSeek](https://blog.csdn.net/wang19970228/article/details/145819199)
+

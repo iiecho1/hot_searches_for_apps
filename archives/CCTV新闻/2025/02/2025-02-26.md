@@ -217,3 +217,5 @@
 
 + [智利大规模停电致数百万人受影响](https://news.cctv.com/2025/02/26/ARTIBd3UI1FUwYoGFKaeEGzn250226.shtml)
 
++ [印尼东努沙登加拉省勒沃托比火山喷发 附近机场关闭一天](https://news.cctv.com/2025/02/26/ARTI9IbPvFqDTNVcGM8lRjsv250226.shtml)
+
