@@ -109,3 +109,19 @@
 
 + [《白帽子讲Web安全》学习：深入解析Cookie与会话安全](https://blog.csdn.net/FFNCL/article/details/145785530)
 
++ [深度学习进阶：构建多层神经网络](https://blog.csdn.net/GGDxianv/article/details/145856251)
+
++ [【React】合成事件原理](https://blog.csdn.net/qq_38951259/article/details/145868990)
+
++ [SpringBoot项目实战—难忘外卖开发：分类管理增删改查实践【03】](https://blog.csdn.net/weixin_52908342/article/details/145864616)
+
++ [FPGA:UART串口接收模块](https://blog.csdn.net/weixin_50164178/article/details/145756950)
+
++ [ARM Cortex-M处理器中的MSP和PSP](https://blog.csdn.net/u013318019/article/details/145847730)
+
++ [软件工程：软件需求之需求编写规则](https://blog.csdn.net/qq_30878817/article/details/145768383)
+
++ [Lspatch的使用原理及机制](https://blog.csdn.net/2401_84168288/article/details/145886085)
+
++ [深入解析Spring核心扩展点：BeanFactoryPostProcessor与BeanDefinitionRegistryPostProcessor](https://blog.csdn.net/qq_35512802/article/details/145593308)
+
