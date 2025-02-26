@@ -161,3 +161,15 @@
 
 + [网络安全-系统层攻击流程及防御措施](https://blog.csdn.net/WhiteNebula/article/details/145840499)
 
++ [【通俗易懂说模型】循环神经网络模型 · LSTM（呕心沥血版）](https://blog.csdn.net/m0_67656158/article/details/145756750)
+
++ [深度学习进阶：构建多层神经网络](https://blog.csdn.net/GGDxianv/article/details/145856251)
+
++ [了解大模型LLM：部署、优化与框架](https://blog.csdn.net/weixin_44245188/article/details/145773632)
+
++ [最新前端框架选型对比与建议（React/Vue/Svelte/Angular）](https://blog.csdn.net/qq_34640315/article/details/145848738)
+
++ [【项目】基于Boost自主实现搜索引擎](https://blog.csdn.net/Renswc/article/details/145797153)
+
++ [【一起学Rust | 框架篇 | Tauri2.0框架】在Tauri应用中设置Http头（Headers）](https://blog.csdn.net/weixin_47754149/article/details/145698963)
+

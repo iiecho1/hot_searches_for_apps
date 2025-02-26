@@ -187,3 +187,15 @@
 
 + [中使馆提醒赴德中国公民注意 慕尼黑机场48小时警告性罢工](https://news.cctv.com/2025/02/26/ARTI8B9GFPFdSyhchJiUluGA250226.shtml)
 
++ [南非桌山国家公园火灾持续蔓延 部分徒步线路已封闭](https://news.cctv.com/2025/02/26/ARTIHAMEb2z1GcBsSj2vKjze250226.shtml)
+
++ [武契奇道歉后 克里姆林宫表示赞赏](https://news.cctv.com/2025/02/26/ARTIXfDK1BHPqslNgNoCGJBY250226.shtml)
+
++ [中欧贸易互补带来共赢](https://news.cctv.com/2025/02/26/ARTIzb2gMQmPQ87jvkaQfWLk250226.shtml)
+
++ [续写跨越半个多世纪的中古情谊——访古巴退役飞行员曼努埃尔·罗哈斯·加尔西亚](https://news.cctv.com/2025/02/26/ARTIaknlbP2P18iQYaRbeaw2250226.shtml)
+
++ [【“中国游记”第一季⑩】从30天延期到近三个月！埃文·凯尔的中国之旅为啥让他“一生难忘”？](https://news.cctv.com/2025/02/26/ARTIWBIqyKyUBgELbamm1m9k250226.shtml)
+
++ [印尼免费营养膳食计划已在38个省份实施](https://news.cctv.com/2025/02/26/ARTIzIUR0hFPHPlKOSp9a6qS250226.shtml)
+
