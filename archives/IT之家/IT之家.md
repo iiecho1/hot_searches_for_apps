@@ -25,3 +25,27 @@
 
 + [李想揭晓理想增程“L”、纯电“i”系列命名含义：分别代表“领先”“智慧”](https://m.ithome.com/html/832174.htm)
 
++ [骁龙“兄弟”品牌：高通“跃龙”发布](https://m.ithome.com/html/833606.htm)
+
++ [江汽集团回应迈巴赫测试争议：车辆通过正规第三方租赁渠道获取，并提前向租赁渠道明确用途](https://m.ithome.com/html/833671.htm)
+
++ [无伪装，小米 SU7 Ultra 暗绿色实车曝光](https://m.ithome.com/html/833662.htm)
+
++ [终于跌破 2800 元：iPhone 13 手机国补后 2785 元京东自营新低](https://m.ithome.com/html/833787.htm)
+
++ [不要惦记抠标，小米 SU7 Ultra 车标 24K 金达盗窃量刑标准](https://m.ithome.com/html/833728.htm)
+
++ [26.35 万元起，特斯拉焕新 Model Y 今日在中国市场正式开启交付](https://m.ithome.com/html/833635.htm)
+
++ [苹果自研 C1 基带带来两大杀手级特性：长续航与智能数据管理](https://m.ithome.com/html/833855.htm)
+
++ [爱奇艺被吐槽吃相难看：新剧第一集就要会员，官方回应](https://m.ithome.com/html/833607.htm)
+
++ [11499 元起 22:00 开抢：首发支持 2000 元国补，ROG 幻 X 2025 平板笔记本手慢无](https://m.ithome.com/html/833846.htm)
+
++ [DeepSeek 宣布下调夜间 API 调用价格，降幅最高达 75％](https://m.ithome.com/html/833616.htm)
+
++ [支持平板设备安装使用，鸿蒙原生版微信 App 获 1.0.4.16 邀测升级](https://m.ithome.com/html/833691.htm)
+
++ [理想 i8 纯电 SUV 侧面照公布，对比特斯拉 Model X 设计大不同](https://m.ithome.com/html/832174.htm)
+
