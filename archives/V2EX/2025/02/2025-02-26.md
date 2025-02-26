@@ -21,3 +21,15 @@
 
 + [买了一年 iphone15 电池就只剩 88%了,一天要两充](https://www.v2ex.com/t/1114039)
 
++ [现在都已经明目张胆的刷票房了吗](https://www.v2ex.com/t/1114237)
+
++ [大家有没有觉得情绪稳定，像是一种道德绑架？](https://www.v2ex.com/t/1114009)
+
++ [肛周脓肿警告 | 提肛小助手](https://www.v2ex.com/t/1114074)
+
++ [裸辞一年半，真的很开心](https://www.v2ex.com/t/1114129)
+
++ [关于外包 关于 PHP](https://www.v2ex.com/t/1114241)
+
++ [nodejs 后端究竟是做什么的](https://www.v2ex.com/t/1114025)
+

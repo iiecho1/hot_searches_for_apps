@@ -177,3 +177,13 @@
 
 + [决定尹锡悦命运的马拉松辩论结束 一文梳理控辩双方11次交锋→](https://news.cctv.com/2025/02/26/ARTIjEcgRMHZO7SUGTWpq6n0250226.shtml)
 
++ [智利电网已恢复约四分之一电力 26日上午可完全供电](https://news.cctv.com/2025/02/26/ARTI8TY13AqdHzScAjB8p2Ac250226.shtml)
+
++ [泰国一巴士发生翻车事故 致17人死亡超40人受伤](https://news.cctv.com/2025/02/26/ARTIt1bqTNA1lExVcxzwzpbA250226.shtml)
+
++ [智利发生大规模停电 受影响地区进入紧急状态](https://news.cctv.com/2025/02/26/ARTIydTrcUf4C9x8rCRku6pA250226.shtml)
+
++ [洪都拉斯总统直升机迫降无人受伤](https://news.cctv.com/2025/02/26/ARTIkXRvS07YmklCYFKBqOZf250226.shtml)
+
++ [中使馆提醒赴德中国公民注意 慕尼黑机场48小时警告性罢工](https://news.cctv.com/2025/02/26/ARTI8B9GFPFdSyhchJiUluGA250226.shtml)
+
