@@ -101,3 +101,7 @@
 
 + [lmstdio大模型——本地大模型python函数调用设计](https://blog.csdn.net/weixin_60223645/article/details/145887588)
 
++ [Linux红帽：RHCSA认证知识讲解（四）修改远程配置文件，取消root禁用，便于使用root身份远程](https://blog.csdn.net/2402_83322742/article/details/145889593)
+
++ [Windows版FFmpeg使用及B站视频下载示例python源码](https://blog.csdn.net/cnds123/article/details/145855557)
+
