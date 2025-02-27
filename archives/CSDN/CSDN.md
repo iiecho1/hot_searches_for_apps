@@ -105,3 +105,23 @@
 
 + [Windows版FFmpeg使用及B站视频下载示例python源码](https://blog.csdn.net/cnds123/article/details/145855557)
 
++ [深度学习进阶：构建多层神经网络](https://blog.csdn.net/GGDxianv/article/details/145856251)
+
++ [Maven 生命周期与构建命令（一）](https://blog.csdn.net/qq_42190530/article/details/145876428)
+
++ [DeepSeek R1 简明指南：架构、训练、本地部署及硬件要求](https://blog.csdn.net/JellyAI/article/details/145851002)
+
++ [揭秘大粤国际期货恒指招商的盈利模式：代码模型与策略解析](https://blog.csdn.net/2501_90835645/article/details/145872260)
+
++ [从0-1学习Mysql第六章: 缓存与性能优化](https://blog.csdn.net/anheicang/article/details/145868080)
+
++ [学习threejs，Materials常量汇总](https://blog.csdn.net/qq_28419035/article/details/145874058)
+
++ [python爬虫学习第十一篇爬取指定类型数据](https://blog.csdn.net/m0_63174442/article/details/145864680)
+
++ [Redis 高可用性：如何让你的缓存一直在线，稳定运行？](https://blog.csdn.net/Brad_PiTt7/article/details/145840266)
+
++ [网络安全词汇](https://blog.csdn.net/2401_88755455/article/details/145889667)
+
++ [物联网通信应用案例之《智慧农业》](https://blog.csdn.net/2201_75446108/article/details/145872596)
+
