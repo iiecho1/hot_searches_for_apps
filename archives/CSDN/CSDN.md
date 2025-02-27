@@ -157,3 +157,37 @@
 
 + [岳阳市美术馆预约平台（小程序论文源码调试讲解）](https://blog.csdn.net/u014445459/article/details/145842954)
 
++ [快速理解Spring 和 Spring Boot 的核心区别](https://blog.csdn.net/m0_70814680/article/details/145903057)
+
++ [【一起学Rust | Tauri2.0框架】单实例应用程序的深入解析：零漏洞实现与优化实战](https://blog.csdn.net/weixin_47754149/article/details/145709030)
+
++ [DeepSeek-R1-671B大模型满血版私有化部署高可用教程-SparkAi系统集成图文教程](https://blog.csdn.net/CodeRunning/article/details/145883492)
+
++ [【SpringBoot】论坛项目中如何进行实现发布文章，以及更新对应数据库的数据更新](https://blog.csdn.net/GGBond778/article/details/145895134)
+
++ [【大模型科普】AIGC技术发展与应用实践（一文读懂AIGC）](https://blog.csdn.net/Morse_Chen/article/details/145869385)
+
++ [Linux 文件缓冲区：高效数据访问的幕后推手](https://blog.csdn.net/Cayyyy/article/details/145902073)
+
++ [【计网】计算机网络概述](https://blog.csdn.net/m0_51350326/article/details/145889681)
+
++ [【Linux高级IO】掌握Linux高效编程：深入探索多路转接select机制](https://blog.csdn.net/EterNity_TiMe_/article/details/145484694)
+
++ [Vue的禁足之地：全面分析不适合使用vue的情况](https://blog.csdn.net/sixpp/article/details/145892605)
+
++ [FPGA:UART串口接收(高干扰情况)](https://blog.csdn.net/weixin_50164178/article/details/145882231)
+
++ [网络原理---HTTP/HTTPS](https://blog.csdn.net/2301_80501383/article/details/143850514)
+
++ [前端工程化---ES6](https://blog.csdn.net/2401_88481074/article/details/145756660)
+
++ [202年充电计划——自学手册 网络安全（黑客技术）](https://blog.csdn.net/2401_85027424/article/details/145879680)
+
++ [本地部署 DeepSeek-R1大模型详细教程(桌面客户端美观UI)](https://blog.csdn.net/jxjdhdnd/article/details/145868480)
+
++ [基于ARM的嵌入式温度控制系统的设计](https://blog.csdn.net/weixin_112233/article/details/145872794)
+
++ [一周掌握Flutter开发--4、导航与路由](https://blog.csdn.net/yikezhuixun/article/details/145843782)
+
++ [【Java企业生态系统的演进】从单体J2EE到云原生微服务](https://blog.csdn.net/qq_53433382/article/details/145889676)
+

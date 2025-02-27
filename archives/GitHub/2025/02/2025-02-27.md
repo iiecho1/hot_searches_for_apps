@@ -19,3 +19,5 @@
 
 + [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
++ [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+
