@@ -133,3 +133,11 @@
 
 + [使用ZFile打造属于自己的私有云系统结合内网穿透实现安全远程访问](https://blog.csdn.net/YYDsis/article/details/145890035)
 
++ [YOLOv12 ——基于卷积神经网络的快速推理速度与注意力机制带来的增强性能结合](https://blog.csdn.net/matt45m/article/details/145889114)
+
++ [YOLO11单目测距与深度估计和目标检测项目](https://blog.csdn.net/QQ_1309399183/article/details/145731176)
+
++ [本地部署阿里的万象2.1文生视频（Wan2.1-T2V-1.3B）模型](https://blog.csdn.net/ddrfan/article/details/145887466)
+
++ [deepseek清华团队104页深度解读PDF下载](https://blog.csdn.net/weixin_44279453/article/details/145833513)
+
