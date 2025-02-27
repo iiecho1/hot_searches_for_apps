@@ -41,3 +41,5 @@
 
 + [刚刷到了奔驰裁员,N+9?!](https://www.v2ex.com/t/1114562)
 
++ [jetbrains 系列软件或许有一天会因为功能过于高级而被抛弃](https://www.v2ex.com/t/1114603)
+
