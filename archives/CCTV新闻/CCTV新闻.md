@@ -191,3 +191,9 @@
 
 + [第一观察丨中俄元首通话向世界传递明确信号](https://news.cctv.com/2025/02/27/ARTISCtcmmQFYODCaVMVOYmU250227.shtml)
 
++ [海湾资本加力布局中国新能源](https://jingji.cctv.com/2025/02/27/ARTIKbmBRztFvr9DvH5RZthC250227.shtml)
+
++ [中南经贸合作潜力巨大](https://jingji.cctv.com/2025/02/27/ARTIGloxqZhaiGlUEG93ltZY250227.shtml)
+
++ [看，乡村文化生活“实力圈粉”（国际人士看中国乡村全面振兴）](https://news.cctv.com/2025/02/27/ARTIKDO31OaUyQOKsUFc4iCP250227.shtml)
+

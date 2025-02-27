@@ -141,3 +141,11 @@
 
 + [deepseek清华团队104页深度解读PDF下载](https://blog.csdn.net/weixin_44279453/article/details/145833513)
 
++ [QT 中的元对象系统(一)：元对象和元数据](https://blog.csdn.net/haokan123456789/article/details/145838928)
+
++ [基于Springboot的小说网站【附源码】](https://blog.csdn.net/2402_84112588/article/details/145865050)
+
++ [去中心化技术P2P框架](https://blog.csdn.net/weixin_50873490/article/details/145853477)
+
++ [基于springboot+vue的融合多源高校画像数据与协同过滤算法的高考择校推荐系统](https://blog.csdn.net/shmp54/article/details/145888470)
+
