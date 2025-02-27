@@ -17,3 +17,7 @@
 
 + [国产手机哪一家和型号完美支持 Telegram?](https://www.v2ex.com/t/1114262)
 
++ [telegram 吃香是真的难看，还有人夸 app 做得好踩小而美](https://www.v2ex.com/t/1114491)
+
++ [有什么快速在两台电脑上切换键鼠显示器的方案吗？](https://www.v2ex.com/t/1114326)
+

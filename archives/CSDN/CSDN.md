@@ -127,3 +127,9 @@
 
 + [数据分析案例-青少年心脏病发作数据集可视化分析](https://blog.csdn.net/m0_64336780/article/details/145419638)
 
++ [Vue2生态栈----路由VueRouter](https://blog.csdn.net/fageaaa/article/details/145886180)
+
++ [lmstdio大模型——本地大模型python函数调用设计](https://blog.csdn.net/weixin_60223645/article/details/145887588)
+
++ [使用ZFile打造属于自己的私有云系统结合内网穿透实现安全远程访问](https://blog.csdn.net/YYDsis/article/details/145890035)
+

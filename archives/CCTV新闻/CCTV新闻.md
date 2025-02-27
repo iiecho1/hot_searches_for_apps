@@ -161,3 +161,31 @@
 
 + [欧盟提供一项能源计划 支持乌克兰融入欧洲能源市场](https://news.cctv.com/2025/02/24/ARTIbrCGqZCCyDyiHtRkWSX7250224.shtml)
 
++ [特朗普称将对欧盟征收25%关税](https://news.cctv.com/2025/02/27/ARTI2Cv1mO64idoSkcBzbBYs250227.shtml)
+
++ [乌克兰总统泽连斯基：将于28日与特朗普会晤](https://news.cctv.com/2025/02/27/ARTIzTw3T0sPEMmIGV5AjYmz250227.shtml)
+
++ [韩国代总统拒绝任命最后一名宪法法院法官 宪法法院：违宪](https://news.cctv.com/2025/02/27/ARTIqiTp1jtXmfcnGgf8e3Pn250227.shtml)
+
++ [欧盟委员会：欧盟将对贸易壁垒作出坚决且迅速的回应](https://news.cctv.com/2025/02/27/ARTIz7rSQb2FV0DiHWUIudJz250227.shtml)
+
++ [哈马斯已将4具以方被扣押人员遗体移交给国际红十字会](https://news.cctv.com/2025/02/27/ARTIeB0UsUOCcylIWHOpZK7L250227.shtml)
+
++ [保加利亚宪法法院要求重新计算国民议会选举投票](https://news.cctv.com/2025/02/27/ARTICTZACHvzHZ1TMOBKBBsE250227.shtml)
+
++ [智利突发“大规模停电”，殃及全球金属市场](https://news.cctv.com/2025/02/27/ARTIiDzzuFKAF69jI2O1BJSv250227.shtml)
+
++ [相关传言持续流传，美国否认将加拿大赶出“五眼联盟”](https://news.cctv.com/2025/02/27/ARTIIk9QJQW75oB5aRfq2WNL250227.shtml)
+
++ [联合国报告：反对针对巴勒斯坦的吞并和强行迁移](https://news.cctv.com/2025/02/27/ARTIUovDdlgU1AZqe8r4h95s250227.shtml)
+
++ [美总统特朗普下令终止与委内瑞拉的石油交易](https://news.cctv.com/2025/02/27/ARTI3zF5HaOpJYY1iy6Y2AVo250227.shtml)
+
++ [特朗普：参与阿富汗撤军的“每一位”将军都应被解雇](https://news.cctv.com/2025/02/27/ARTIie06oURYgNlk7EgJaOgh250227.shtml)
+
++ [美总统特朗普证实乌总统将于28日访美签署稀土相关协议](https://news.cctv.com/2025/02/27/ARTIk6T0RQxOdHFLOTTEeCzU250227.shtml)
+
++ [以军称监测到一枚从加沙地带发射的火箭弹](https://news.cctv.com/2025/02/27/ARTITGHkl9b4i584HmlK4pHO250227.shtml)
+
++ [裁员、关税、乌克兰问题……特朗普第二任期首次内阁会谈了啥→](https://news.cctv.com/2025/02/27/ARTIbM7JJJT972VTEwk2Gqfi250227.shtml)
+
