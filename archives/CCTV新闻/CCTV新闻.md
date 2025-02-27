@@ -197,3 +197,7 @@
 
 + [看，乡村文化生活“实力圈粉”（国际人士看中国乡村全面振兴）](https://news.cctv.com/2025/02/27/ARTIKDO31OaUyQOKsUFc4iCP250227.shtml)
 
++ [电力基本恢复 智利政府宣布解除紧急状态](https://news.cctv.com/2025/02/27/ARTILaP0uyRrbYZWervbDp62250227.shtml)
+
++ [美国土安全部：特朗普任期首月逮捕超20000名无证移民](https://news.cctv.com/2025/02/27/ARTIhJr5dIzGnWCZjF4p6Fjo250227.shtml)
+
