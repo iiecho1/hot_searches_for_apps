@@ -201,3 +201,7 @@
 
 + [计算机网络————（三）](https://blog.csdn.net/weixin_51398164/article/details/145852347)
 
++ [Qt监控系统远程回放/录像文件远程下载/录像文件打上水印/批量多线程极速下载](https://blog.csdn.net/feiyangqingyun/article/details/145908780)
+
++ [Immich自托管服务的本地化部署与随时随地安全便捷在线访问数据](https://blog.csdn.net/weixin_44976692/article/details/145906123)
+
