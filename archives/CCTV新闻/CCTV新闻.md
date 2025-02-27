@@ -219,3 +219,11 @@
 
 + [连续9年减少 日本去年出生人口创逾120年来新低](https://news.cctv.com/2025/02/27/ARTIsKr9WnN1ZuAo21f4msn5250227.shtml)
 
++ [哥斯达黎加前总统顾问：中国为何能驾驭全球逆风？](https://news.cctv.com/2025/02/27/ARTIBZGtCxSCMHIelqu7oUrz250227.shtml)
+
++ [做美国的盟友是致命的](https://news.cctv.com/2025/02/27/ARTITZNhGgv86VYpO4tYfT3G250227.shtml)
+
++ [通讯｜“希望未来我能将中西医相结合”——马耳他大学医学生感受中医魅力](https://news.cctv.com/2025/02/27/ARTI3AvmsdIYwcOPgqREDcH6250227.shtml)
+
++ [以官员：以色列不会从“费城走廊”撤军](https://news.cctv.com/2025/02/27/ARTI42bCr4CVdWCuGxSsgAss250227.shtml)
+

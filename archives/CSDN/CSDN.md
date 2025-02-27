@@ -191,3 +191,13 @@
 
 + [【Java企业生态系统的演进】从单体J2EE到云原生微服务](https://blog.csdn.net/qq_53433382/article/details/145889676)
 
++ [DeepSeekの食用指南：在腾讯云LKE厨房里，我们把AI炖成了一锅会写彩虹屁的佛跳墙](https://blog.csdn.net/2301_80863610/article/details/145904904)
+
++ [【fnOS飞牛云NAS本地部署DeepSeek-R1结合内网穿透远程访问告别服务器繁忙】](https://blog.csdn.net/qyj19920704/article/details/145905584)
+
++ [Java 大视界 -- Java 大数据在智能物流路径规划与车辆调度中的创新应用（102）](https://blog.csdn.net/atgfg/article/details/145891257)
+
++ [Web网页开发——水果忍者](https://blog.csdn.net/lieyingJ/article/details/145883325)
+
++ [计算机网络————（三）](https://blog.csdn.net/weixin_51398164/article/details/145852347)
+

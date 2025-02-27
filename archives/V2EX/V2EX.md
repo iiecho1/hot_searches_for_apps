@@ -39,3 +39,5 @@
 
 + [如同柯洁大败 AlphaGo 一样沮丧](https://www.v2ex.com/t/1114503)
 
++ [刚刷到了奔驰裁员,N+9?!](https://www.v2ex.com/t/1114562)
+

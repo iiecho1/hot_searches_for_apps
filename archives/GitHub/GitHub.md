@@ -21,3 +21,15 @@
 
 + [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
++ [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+
++ [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+
++ [Soulter/AstrBot](https://github.com/Soulter/AstrBot)
+
++ [allenai/olmocr](https://github.com/allenai/olmocr)
+
++ [twentyhq/twenty](https://github.com/twentyhq/twenty)
+
++ [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc)
+
