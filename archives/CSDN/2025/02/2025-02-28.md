@@ -129,3 +129,7 @@
 
 + [网络原理--TCP的特性](https://blog.csdn.net/wuyunhang123456/article/details/145838160)
 
++ [实时记录SQL注入靶场心得(labs1-10)](https://blog.csdn.net/weixin_45476967/article/details/145910428)
+
++ [[AI]从零开始的安卓手机本地运行DeepSeek模型教程](https://blog.csdn.net/c858845275/article/details/145832708)
+

@@ -165,3 +165,9 @@
 
 + [耗时约6.5小时 俄美伊斯坦布尔会谈结束](https://news.cctv.com/2025/02/28/ARTINFvkziqifAuN8eyHXRo7250228.shtml)
 
++ [刚果（金）不明原因疾病死亡病例升至60例](https://news.cctv.com/2025/02/28/ARTIMFfyT2dd16oOhJaYWpsq250228.shtml)
+
++ [特朗普：美乌达成矿产协议后才能组建维和部队](https://news.cctv.com/2025/02/28/ARTIO0NJpD1T9ukzAqOQayAp250228.shtml)
+
++ [法国财长：若美国加征关税 欧盟将以同样措施回应](https://news.cctv.com/2025/02/28/ARTILUc8z3imWpIV8JSuJZ5d250228.shtml)
+
