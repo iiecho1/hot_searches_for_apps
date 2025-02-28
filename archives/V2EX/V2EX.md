@@ -39,3 +39,9 @@
 
 + [su7 ultra 才 52.99 万，兄弟们买吗？一年工资就够了吧！](https://www.v2ex.com/t/1114733)
 
++ [Xiaomi 15 Ultra 手机届的颜值巅峰！](https://www.v2ex.com/t/1114785)
+
++ [小米 SU7 来了，有人买吗？](https://www.v2ex.com/t/1114783)
+
++ [Cursor 和 Windsurf，哪个更好？](https://www.v2ex.com/t/1114775)
+

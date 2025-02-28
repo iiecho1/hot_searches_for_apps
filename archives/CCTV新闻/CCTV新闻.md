@@ -197,3 +197,7 @@
 
 + [英国南希尔兹：阳光穿透云层 海面金光四溢](https://photo.cctv.com/2025/02/28/PHOA8vSM9lQfXLFyjj1Ebe2u250228.shtml)
 
++ [伊朗总统：伊朗对谈判持开放态度 但不会屈服于强权](https://news.cctv.com/2025/02/28/ARTIBcG2btQJTppNdjKyk02Q250228.shtml)
+
++ [特朗普再次被欧洲领导人打断发言](https://news.cctv.com/2025/02/28/ARTIydyDJKgSruK9Lc9eTxvm250228.shtml)
+

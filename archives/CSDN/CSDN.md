@@ -161,3 +161,15 @@
 
 + [wx091基于ssm+vue+uniapp的学生毕业管理小程序](https://blog.csdn.net/shmp54xmu/article/details/145888213)
 
++ [轻松微调大模型：利用 Colab 和 Unsloth 实现高效训练](https://blog.csdn.net/weixin_66401877/article/details/145892615)
+
++ [哈工大（深圳）& 清华力作 FilmAgent：剧本自动生成 + 镜头智能规划，开启 AI 电影制作新时代](https://blog.csdn.net/xiaobing259/article/details/145913553)
+
++ [阿里通义万相2.1(WAN2.1)开源文生视频大模型-1.3B-单卡24G实测](https://blog.csdn.net/showker/article/details/145878464)
+
++ [学习threejs，使用ShaderMaterial自定义着色器材质](https://blog.csdn.net/qq_28419035/article/details/145921062)
+
++ [DeepSeek 学习 书籍及视频](https://blog.csdn.net/dllglvzhenfeng/article/details/145923914)
+
++ [【现代前端框架中本地图片资源的处理方案】](https://blog.csdn.net/weixin_37342647/article/details/145909620)
+
