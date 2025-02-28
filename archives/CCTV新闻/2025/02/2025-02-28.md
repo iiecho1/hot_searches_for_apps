@@ -219,3 +219,7 @@
 
 + [巴基斯坦发生自杀式袭击致5死20伤](https://news.cctv.com/2025/02/28/ARTI0ruVN5tFUcM4iNEu22VO250228.shtml)
 
++ [美国个人消费支出价格指数1月份环比上升0.3%](https://news.cctv.com/2025/02/28/ARTI63RaWaLWR6NeeJpflIx8250228.shtml)
+
++ [俄外交部：新任驻美大使将于近期赴任](https://news.cctv.com/2025/02/28/ARTIJ4x8W4TxaM5QHoGS0YAD250228.shtml)
+
