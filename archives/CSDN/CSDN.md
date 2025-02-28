@@ -103,3 +103,33 @@
 
 + [Docker和K8S中pod、services、container的介绍和关系](https://blog.csdn.net/cdq2012/article/details/145910515)
 
++ [【无人机】基于无人机的移动边缘计算网络研究附Matlab代码](https://blog.csdn.net/Matlab_dashi/article/details/145901383)
+
++ [【Spring】统一功能处理](https://blog.csdn.net/zhyhgx/article/details/145884096)
+
++ [毕业项目推荐：基于yolov8/yolo11的野生菌菇检测识别系统（python+卷积神经网络）](https://blog.csdn.net/weixin_71667732/article/details/145879459)
+
++ [【SpringBoot】论坛项目中如何进行实现发布文章，以及更新对应数据库的数据更新](https://blog.csdn.net/GGBond778/article/details/145895134)
+
++ [爬取使用了Ajax技术的网页中的数据](https://blog.csdn.net/fighterDMU/article/details/145940844)
+
++ [Elasticsearch：使用阿里云 AI 服务进行嵌入和重新排名](https://blog.csdn.net/UbuntuTouch/article/details/145893899)
+
++ [极速探索 HarmonyOS NEXT：开启国产操作系统开发的新篇章](https://blog.csdn.net/weixin_50804299/article/details/145910131)
+
++ [Flask 应用结构与模块化管理详细笔记](https://blog.csdn.net/Juryman155/article/details/145892914)
+
++ [【数学建模】层次分析法（AHP）：从理论到实战的全面解析](https://blog.csdn.net/qq_74303061/article/details/145916070)
+
++ [【过程控制系统】第4章 PID控制原理 ，比例控制，积分控制，比例积分控制，数字PID控制](https://blog.csdn.net/persona5joker/article/details/145903657)
+
++ [Ubuntu2204下使用NVIDIA GeForce RTX 4090进行DeepSeek-R1-Distill-Llama-8B模型微调](https://blog.csdn.net/jihui8848/article/details/145899134)
+
++ [BUCK-BOOST电路原理](https://blog.csdn.net/qq_36603424/article/details/145938242)
+
++ [基于云部署DeepSeek自动分析整合低粉爆款视频数据](https://blog.csdn.net/beishang_1/article/details/145914622)
+
++ [Labview中的Datasocket](https://blog.csdn.net/qq_60942249/article/details/145757490)
+
++ [傅里叶分析](https://blog.csdn.net/2403_88923953/article/details/145875380)
+
