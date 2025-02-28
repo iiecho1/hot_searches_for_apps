@@ -193,3 +193,11 @@
 
 + [前端如何实现添加水印功能](https://blog.csdn.net/qq_39454432/article/details/145913237)
 
++ [DeepSeek、Grok 和 ChatGPT 对比分析：从技术与应用场景的角度深入探讨](https://blog.csdn.net/Zero_VPN/article/details/145935908)
+
++ [CIDR转IP段：原理&Java实现](https://blog.csdn.net/lilinhai548/article/details/145928593)
+
++ [Docker和K8S中pod、services、container的介绍和关系](https://blog.csdn.net/cdq2012/article/details/145910515)
+
++ [嵌入式迷雾：现状谜团待解，未来行情走向何方？](https://blog.csdn.net/2401_82648291/article/details/145660713)
+
