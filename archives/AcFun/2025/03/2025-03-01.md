@@ -67,3 +67,5 @@
 
 + [极致还原！数码《The Biggest Dreamer》中文译配翻唱！](https://m.acfun.cn/v/%3Fac%3D46941214)
 
++ [【破2000万销量的3A大作，再度1折抛售！】STEAM高评价史低游戏大推荐（2月28日-3月7日）](https://m.acfun.cn/v/%3Fac%3D46940434)
+
