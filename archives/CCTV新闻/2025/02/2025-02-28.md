@@ -217,3 +217,5 @@
 
 + [海地教育系统遭受武装暴力冲击 数十万儿童面临失学风险](https://news.cctv.com/2025/02/28/ARTISV58k2bCrCREyrdqrx3R250228.shtml)
 
++ [巴基斯坦发生自杀式袭击致5死20伤](https://news.cctv.com/2025/02/28/ARTI0ruVN5tFUcM4iNEu22VO250228.shtml)
+

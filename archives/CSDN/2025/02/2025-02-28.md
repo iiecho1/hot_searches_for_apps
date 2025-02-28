@@ -189,3 +189,7 @@
 
 + [GaussDB SQL 调优：从执行计划到AI驱动的进阶指南](https://blog.csdn.net/GaussDB/article/details/145920593)
 
++ [前端代理，解决跨域问题讲解](https://blog.csdn.net/u010055960/article/details/145896963)
+
++ [前端如何实现添加水印功能](https://blog.csdn.net/qq_39454432/article/details/145913237)
+
