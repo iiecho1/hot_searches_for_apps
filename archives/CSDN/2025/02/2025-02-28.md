@@ -133,3 +133,13 @@
 
 + [[AI]从零开始的安卓手机本地运行DeepSeek模型教程](https://blog.csdn.net/c858845275/article/details/145832708)
 
++ [如何在 WPS 中集成 DeepSeek](https://blog.csdn.net/m0_64680064/article/details/145853884)
+
++ [C#实现本地Deepseek模型及其他模型的对话](https://blog.csdn.net/weixin_43626218/article/details/145852307)
+
++ [网络安全防御模型](https://blog.csdn.net/2401_88752464/article/details/145879940)
+
++ [【计算机网络】IP协议](https://blog.csdn.net/2202_75605090/article/details/145877288)
+
++ [解锁高效开发新姿势：Trae AI编辑器深度体验](https://blog.csdn.net/Williams10/article/details/145904040)
+
