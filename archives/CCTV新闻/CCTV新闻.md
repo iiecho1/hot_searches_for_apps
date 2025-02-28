@@ -211,3 +211,5 @@
 
 + [哥伦比亚总统公布新内阁名单 强调深入反腐](https://news.cctv.com/2025/02/28/ARTISnxG4OUr4eiaAMpFVZpl250228.shtml)
 
++ [中国与巴基斯坦签署选拔训练航天员合作协议 中国空间站将迎来首位外籍航天员造访](https://news.cctv.com/2025/02/28/ARTIaeS0y1lsywXF8TAEnZDj250228.shtml)
+

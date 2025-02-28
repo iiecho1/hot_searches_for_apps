@@ -23,3 +23,11 @@
 
 + [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
++ [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent)
+
++ [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+
++ [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
+
++ [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+
