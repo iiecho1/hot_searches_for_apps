@@ -65,3 +65,5 @@
 
 + [太阳太阳请你告诉我，为什么为什么遗憾那么多](https://m.acfun.cn/v/%3Fac%3D46941513)
 
++ [极致还原！数码《The Biggest Dreamer》中文译配翻唱！](https://m.acfun.cn/v/%3Fac%3D46941214)
+

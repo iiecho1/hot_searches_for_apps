@@ -133,3 +133,9 @@
 
 + [傅里叶分析](https://blog.csdn.net/2403_88923953/article/details/145875380)
 
++ [Logic-RL: 小模型也能强推理，通过基于规则的强化学习提升大语言模型结构化推理能力](https://blog.csdn.net/m0_46510245/article/details/145871318)
+
++ [【数据挖掘】NumPy ](https://blog.csdn.net/dundunmm/article/details/145916381)
+
++ [玩转Java微服务：架构设计与实战进阶终极指南](https://blog.csdn.net/lgf228/article/details/145788819)
+
