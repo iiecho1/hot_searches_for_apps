@@ -203,3 +203,7 @@
 
 + [外交部：再次敦促韩方有关人员停止对华抹黑攻击](https://news.cctv.com/2025/02/28/ARTIk76N35uS5a0djR3zUe5w250228.shtml)
 
++ [伊朗外交部发言人：以色列对伊朗的威胁是“无耻的”](https://news.cctv.com/2025/02/28/ARTIS6DqJsaPBszmi5Lkf08h250228.shtml)
+
++ [外交部回应韩领导人弹劾案庭审辩论再提涉华问题：向邻居泼脏水解决不了自身问题](https://news.cctv.com/2025/02/28/ARTIk76N35uS5a0djR3zUe5w250228.shtml)
+

@@ -181,3 +181,5 @@
 
 + [使用(腾讯云AI代码助手)开发微信小程序1024游戏体验](https://blog.csdn.net/qq_44742109/article/details/145914844)
 
++ [第一批用上DeepSeek的政企，更焦虑了](https://blog.csdn.net/xlkjshuo/article/details/145909279)
+
