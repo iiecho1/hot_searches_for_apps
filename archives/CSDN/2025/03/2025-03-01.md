@@ -143,3 +143,5 @@
 
 + [掌握领域驱动微服务中的聚合与实体](https://blog.csdn.net/JellyAI/article/details/145901227)
 
++ [YOLO系列到底都做了啥？(yolov1-yolov3)持续更新中~](https://blog.csdn.net/lxfksbg/article/details/145845346)
+
