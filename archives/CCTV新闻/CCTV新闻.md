@@ -213,3 +213,7 @@
 
 + [中国与巴基斯坦签署选拔训练航天员合作协议 中国空间站将迎来首位外籍航天员造访](https://news.cctv.com/2025/02/28/ARTIaeS0y1lsywXF8TAEnZDj250228.shtml)
 
++ [哈马斯称加沙下阶段停火谈判仍在进行 以方尚未做出承诺](https://news.cctv.com/2025/02/28/ARTIbNAEbJ7k8g8mZjrN69cM250228.shtml)
+
++ [海地教育系统遭受武装暴力冲击 数十万儿童面临失学风险](https://news.cctv.com/2025/02/28/ARTISV58k2bCrCREyrdqrx3R250228.shtml)
+

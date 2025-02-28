@@ -187,3 +187,5 @@
 
 + [【数学建模】层次分析法（AHP）：从理论到实战的全面解析](https://blog.csdn.net/qq_74303061/article/details/145916070)
 
++ [GaussDB SQL 调优：从执行计划到AI驱动的进阶指南](https://blog.csdn.net/GaussDB/article/details/145920593)
+
