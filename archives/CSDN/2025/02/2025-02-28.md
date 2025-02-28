@@ -183,3 +183,7 @@
 
 + [第一批用上DeepSeek的政企，更焦虑了](https://blog.csdn.net/xlkjshuo/article/details/145909279)
 
++ [利用 Python 爬虫进行跨境电商数据采集](https://blog.csdn.net/2202_75623950/article/details/145926638)
+
++ [【数学建模】层次分析法（AHP）：从理论到实战的全面解析](https://blog.csdn.net/qq_74303061/article/details/145916070)
+
