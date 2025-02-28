@@ -179,3 +179,5 @@
 
 + [DeepSeek 助力 Vue3 开发：打造丝滑的列表（List）](https://blog.csdn.net/qq_33650655/article/details/145866384)
 
++ [使用(腾讯云AI代码助手)开发微信小程序1024游戏体验](https://blog.csdn.net/qq_44742109/article/details/145914844)
+

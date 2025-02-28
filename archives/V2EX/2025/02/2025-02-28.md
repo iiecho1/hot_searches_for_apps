@@ -45,3 +45,5 @@
 
 + [Cursor 和 Windsurf，哪个更好？](https://www.v2ex.com/t/1114775)
 
++ [新的一年，买了一台旧能源杂牌车](https://www.v2ex.com/t/1114792)
+
