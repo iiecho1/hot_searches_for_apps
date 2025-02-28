@@ -177,3 +177,23 @@
 
 + [美斥资10亿美元应对“鸡蛋荒”，拟从他国进口更多鸡蛋](https://news.cctv.com/2025/02/28/ARTIrbn4u3cp23kiJmTM1H4Z250228.shtml)
 
++ [美加关税战一触即发？特朗普又双叒改期到3月4日 特鲁多：立即反击](https://news.cctv.com/2025/02/28/ARTIsgHiPRObNz0zz581oD1d250228.shtml)
+
++ [尼加拉瓜宣布退出联合国人权理事会](https://news.cctv.com/2025/02/28/ARTIpyJ8uSoneoOfB7W81Qoi250228.shtml)
+
++ [或违反隐私法 社交媒体平台X被加拿大一监管机构调查](https://news.cctv.com/2025/02/28/ARTIEfs7wCmkDgrmMc9ReNbg250228.shtml)
+
++ [韩国再度讨论核潜艇计划](https://military.cctv.com/2025/02/28/ARTIPqgdxwZTkEoJHXAgpNR1250228.shtml)
+
++ [2025年大阪世博会中国馆标志和吉祥物公布](https://news.cctv.com/2025/02/28/ARTIhcKVcK9p0DJsHVPz5Ys2250228.shtml)
+
++ [中东战地手记｜停火后的加沙：废墟中的坚守与苦难](https://news.cctv.com/2025/02/28/ARTIofEUffHCDLS5dhmguIl0250228.shtml)
+
++ [特朗普称对加墨关税措施仍将于3月4日实施 加总理称将做出“强烈回应”](https://news.cctv.com/2025/02/28/ARTIsRy78hNxQoKFIFFoNIZ2250228.shtml)
+
++ [美俄伊斯坦布尔会谈取得进展 确定稳定双边关系初步步骤](https://news.cctv.com/2025/02/28/ARTI65WGExcpafiylJqsebp2250228.shtml)
+
++ [特朗普解雇美军高官 五位前防长谴责：破坏部队、削弱国家安全](https://news.cctv.com/2025/02/28/ARTIBJuxHPHWgBac8sq7CyZJ250228.shtml)
+
++ [英国南希尔兹：阳光穿透云层 海面金光四溢](https://photo.cctv.com/2025/02/28/PHOA8vSM9lQfXLFyjj1Ebe2u250228.shtml)
+

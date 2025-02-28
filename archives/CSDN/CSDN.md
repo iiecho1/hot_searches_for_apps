@@ -143,3 +143,21 @@
 
 + [解锁高效开发新姿势：Trae AI编辑器深度体验](https://blog.csdn.net/Williams10/article/details/145904040)
 
++ [Java 大视界 -- Java 大数据分布式文件系统的性能调优实战（101）](https://blog.csdn.net/atgfg/article/details/145885980)
+
++ [DeepSeek + 数据分析：让数据洞察更智能、更高效](https://blog.csdn.net/qq_35164554/article/details/145869220)
+
++ [深度学习实战：使用TensorFlow构建卷积神经网络（CNN）](https://blog.csdn.net/GGDxianv/article/details/145910338)
+
++ [ZLG嵌入式笔记 | 如何减少寄生电容和保障节点数量？](https://blog.csdn.net/ZLG_zhiyuan/article/details/145902911)
+
++ [linux之crosstool-NG(1)生成toolchain](https://blog.csdn.net/Once_day/article/details/145917443)
+
++ [西电应用密码学与网络安全实验通关指南](https://blog.csdn.net/m0_62201229/article/details/145896092)
+
++ [消息队列（RocketMQ+Kafka）](https://blog.csdn.net/qq_37744360/article/details/145883808)
+
++ [基于springboot+vue的融合多源高校画像数据与协同过滤算法的高考择校推荐系统](https://blog.csdn.net/shmp54/article/details/145888470)
+
++ [wx091基于ssm+vue+uniapp的学生毕业管理小程序](https://blog.csdn.net/shmp54xmu/article/details/145888213)
+
