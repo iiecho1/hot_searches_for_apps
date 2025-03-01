@@ -19,3 +19,11 @@
 
 + [langgenius/dify](https://github.com/langgenius/dify)
 
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
++ [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+
++ [twentyhq/twenty](https://github.com/twentyhq/twenty)
+
