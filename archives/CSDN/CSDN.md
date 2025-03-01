@@ -181,3 +181,9 @@
 
 + [Python服务端测试开发实战-从单元测试到性能优化【好书推荐】](https://blog.csdn.net/weixin_52908342/article/details/145911606)
 
++ [【宠粉赠书】高效使用DeepSeek：实现智能、高效、创新的效率指南](https://blog.csdn.net/weixin_41793160/article/details/145940551)
+
++ [202年充电计划——自学手册 网络安全（黑客技术）](https://blog.csdn.net/2401_85027424/article/details/145877236)
+
++ [基于LangChain4j调用火山引擎DeepSeek R1搭建RAG知识库实战指南](https://blog.csdn.net/qq_36944952/article/details/145890797)
+
