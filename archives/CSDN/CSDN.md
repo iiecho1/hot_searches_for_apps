@@ -211,3 +211,13 @@
 
 + [.Net6后端WebAPI部署IIS，托管web网站丨阿里云服务器丨SqlServer服务器部署丨发布一个让大家都可以访问的网站](https://blog.csdn.net/longjiahaomaqian/article/details/145932858)
 
++ [使用 Polars 进行人工智能医疗数据分析（ICU数据基本测试篇）](https://blog.csdn.net/kkiron/article/details/145910554)
+
++ [第十四届蓝桥杯大赛软件赛国赛C/C++大学C组](https://blog.csdn.net/m0_73669127/article/details/145932333)
+
++ [基于springboot体育用品商城网上体育用品销售商城系统设计与实现](https://blog.csdn.net/u013818205/article/details/145646657)
+
++ [全渠道小程序引流指南](https://blog.csdn.net/weixin_42096448/article/details/145911599)
+
++ [用大白话解释搜索引擎Elasticsearch是什么，有什么用，怎么用](https://blog.csdn.net/m0_73852099/article/details/145927671)
+
