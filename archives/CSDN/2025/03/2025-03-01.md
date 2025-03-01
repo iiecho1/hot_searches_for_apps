@@ -221,3 +221,7 @@
 
 + [用大白话解释搜索引擎Elasticsearch是什么，有什么用，怎么用](https://blog.csdn.net/m0_73852099/article/details/145927671)
 
++ [飞书工单审批对接腾讯电子签：开启合同流程自动化新时代](https://blog.csdn.net/Neozsvc/article/details/145909898)
+
++ [【AI+智造】基于阿里云Ubuntu24.04系统，使用Ollama部署开源DeepSeek模型并集成到企业微信](https://blog.csdn.net/weixin_38708145/article/details/145918496)
+
