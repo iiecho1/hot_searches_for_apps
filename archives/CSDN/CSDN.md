@@ -145,3 +145,5 @@
 
 + [YOLO系列到底都做了啥？(yolov1-yolov3)持续更新中~](https://blog.csdn.net/lxfksbg/article/details/145845346)
 
++ [【宠粉赠书】天才引导的历程：数学中的伟大定理](https://blog.csdn.net/weixin_41793160/article/details/145939885)
+
