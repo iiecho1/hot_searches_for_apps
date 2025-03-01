@@ -147,3 +147,7 @@
 
 + [【宠粉赠书】天才引导的历程：数学中的伟大定理](https://blog.csdn.net/weixin_41793160/article/details/145939885)
 
++ [云平台DeepSeek满血版：引领AI推理革新，开启智慧新时代](https://blog.csdn.net/2301_80840905/article/details/145940077)
+
++ [嵌入式迷雾：现状谜团待解，未来行情走向何方？](https://blog.csdn.net/2401_82648291/article/details/145660713)
+
