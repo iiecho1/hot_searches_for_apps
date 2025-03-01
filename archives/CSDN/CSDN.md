@@ -101,3 +101,15 @@
 
 + [BiliBili视频下载-原理与实现Python+FFmpeg](https://blog.csdn.net/Keirakee/article/details/145927598)
 
++ [哈工大 计算机组成原理 第三章计算机总线 笔记](https://blog.csdn.net/weixin_50444005/article/details/145926466)
+
++ [【北京迅为】iTOP-RK3568OpenHarmony系统南向驱动开发-第6章 实操-HDF驱动配置UART](https://blog.csdn.net/BeiJingXunWei/article/details/145931379)
+
++ [阿里云物联网获取设备属性api接口：QueryDevicePropertyData](https://blog.csdn.net/mangge/article/details/145932836)
+
++ [掌握领域驱动微服务中的聚合与实体](https://blog.csdn.net/JellyAI/article/details/145901227)
+
++ [AI数据分析：用DeepSeek做数据清洗](https://blog.csdn.net/atbigapp/article/details/145900173)
+
++ [深度学习五大模型：CNN、Transformer、BERT、RNN、GAN详细解析](https://blog.csdn.net/2301_81174869/article/details/145927624)
+

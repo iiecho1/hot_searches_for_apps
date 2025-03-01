@@ -161,3 +161,7 @@
 
 + [哈马斯已将4具以方被扣押人员遗体移交给国际红十字会](https://news.cctv.com/2025/02/27/ARTIeB0UsUOCcylIWHOpZK7L250227.shtml)
 
++ [斯洛伐克总理：不会为乌克兰提供军事和财政支持](https://news.cctv.com/2025/03/02/ARTIbUsTkaz5NC1zVddp44tn250302.shtml)
+
++ [俄国防部：乌克兰无人机袭击俄境内天然气压缩站设施](https://news.cctv.com/2025/03/02/ARTIV1Se3gDmSXtURD3Ua752250301.shtml)
+
