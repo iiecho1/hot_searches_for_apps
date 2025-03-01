@@ -177,3 +177,7 @@
 
 + [阿里云物联网获取设备属性api接口：QueryDevicePropertyData](https://blog.csdn.net/mangge/article/details/145932836)
 
++ [PyTorch内存优化的10种策略总结：在有限资源环境下高效训练模型](https://blog.csdn.net/m0_46510245/article/details/145943611)
+
++ [Python服务端测试开发实战-从单元测试到性能优化【好书推荐】](https://blog.csdn.net/weixin_52908342/article/details/145911606)
+
