@@ -187,3 +187,7 @@
 
 + [基于LangChain4j调用火山引擎DeepSeek R1搭建RAG知识库实战指南](https://blog.csdn.net/qq_36944952/article/details/145890797)
 
++ [顶顶通呼叫中心中间件(mod_cti基于FreeSWITCH)-大模型电话机器人](https://blog.csdn.net/iyaosan/article/details/145931526)
+
++ [网络安全大赛模拟](https://blog.csdn.net/shuicarry66/article/details/145928829)
+
