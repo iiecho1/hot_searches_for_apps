@@ -173,3 +173,7 @@
 
 + [OpenWebUI配置异常的外部模型导致页面无法打开](https://blog.csdn.net/csdou/article/details/145894151)
 
++ [基于定制开发开源AI大模型S2B2C商城小程序的商品选品策略研究](https://blog.csdn.net/weixin_70596807/article/details/145900397)
+
++ [阿里云物联网获取设备属性api接口：QueryDevicePropertyData](https://blog.csdn.net/mangge/article/details/145932836)
+
