@@ -161,3 +161,11 @@
 
 + [优选算法的智慧之光：滑动窗口专题(一)](https://blog.csdn.net/2401_85198927/article/details/145809449)
 
++ [实时记录SQL注入靶场心得(labs1-10)](https://blog.csdn.net/weixin_45476967/article/details/145910428)
+
++ [【LLM】DeepSeek开源技术汇总](https://blog.csdn.net/qq_35812205/article/details/145866192)
+
++ [python量化交易——金融数据管理最佳实践——qteasy创建本地数据源](https://blog.csdn.net/Shepherdppz/article/details/145915580)
+
++ [颠覆常规Trae IDE教你如何用新玩法打造超级知识体系](https://blog.csdn.net/qq_33681891/article/details/145921005)
+

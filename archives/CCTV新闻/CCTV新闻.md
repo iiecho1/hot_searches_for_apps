@@ -181,3 +181,7 @@
 
 + [日本岩手县山火蔓延 4000多名居民被指示避难](https://news.cctv.com/2025/03/01/ARTI12dU9V9xBzozX3g9GmzP250301.shtml)
 
++ [世界看两会丨国际人士：中国发展惠及世界 期待两会带来更多机遇](https://news.cctv.com/2025/03/01/ARTIL68RAQlJfQ7TCnaPTLs0250301.shtml)
+
++ [“每周一凌晨前必须回复” 美联邦雇员再收交周报要求](https://news.cctv.com/2025/03/01/ARTIopUEcAkCtyyKUPlIzjhi250301.shtml)
+
