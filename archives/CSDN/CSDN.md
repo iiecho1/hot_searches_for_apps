@@ -151,3 +151,5 @@
 
 + [物联网概念](https://blog.csdn.net/back_room/article/details/145924794)
 
++ [使用通义万相Wan2.1进行视频生成](https://blog.csdn.net/jihui8848/article/details/145924172)
+
