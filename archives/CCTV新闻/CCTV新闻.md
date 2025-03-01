@@ -165,3 +165,9 @@
 
 + [俄国防部：乌克兰无人机袭击俄境内天然气压缩站设施](https://news.cctv.com/2025/03/02/ARTIV1Se3gDmSXtURD3Ua752250301.shtml)
 
++ [土耳其总统称如库尔德工人党不信守承诺将重启对其打击](https://news.cctv.com/2025/03/02/ARTIhlHGLChwzpXBGaQz03UT250302.shtml)
+
++ [纳米比亚为开国总统努乔马举行国葬](https://news.cctv.com/2025/03/02/ARTIFM9sD6YedLruS6qX6z3I250302.shtml)
+
++ [乌拉圭当选总统奥尔西宣誓就职](https://news.cctv.com/2025/03/02/ARTI9lPiQ71IF1YOgkDQudve250302.shtml)
+
