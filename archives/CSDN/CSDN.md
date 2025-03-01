@@ -151,3 +151,13 @@
 
 + [嵌入式迷雾：现状谜团待解，未来行情走向何方？](https://blog.csdn.net/2401_82648291/article/details/145660713)
 
++ [Linux 学习必杀技：从菜鸟到高手的蜕变密码](https://blog.csdn.net/2401_82648291/article/details/145932250)
+
++ [NVIDIA CUDA Installation Guide for Linux (WSL-Ubuntu)](https://blog.csdn.net/chengyq116/article/details/145916380)
+
++ [ZLG嵌入式笔记 | 如何减少寄生电容和保障节点数量？](https://blog.csdn.net/ZLG_zhiyuan/article/details/145902911)
+
++ [Wireshark Lua 插件教程](https://blog.csdn.net/arong_xu/article/details/145913297)
+
++ [优选算法的智慧之光：滑动窗口专题(一)](https://blog.csdn.net/2401_85198927/article/details/145809449)
+
