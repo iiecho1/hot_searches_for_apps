@@ -191,3 +191,9 @@
 
 + [网络安全大赛模拟](https://blog.csdn.net/shuicarry66/article/details/145928829)
 
++ [【人工智能】Deepseek 与 Kimi 联袂：重塑 PPT 创作，开启智能演示新纪元](https://blog.csdn.net/2301_80350265/article/details/145944662)
+
++ [Android设备与电脑端网页交互](https://blog.csdn.net/qq_43008246/article/details/145946279)
+
++ [Vue核心知识：Vue动态权限到按钮完整方案](https://blog.csdn.net/sixpp/article/details/145941529)
+
