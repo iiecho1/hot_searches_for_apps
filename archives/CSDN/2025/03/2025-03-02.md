@@ -113,3 +113,29 @@
 
 + [深度学习五大模型：CNN、Transformer、BERT、RNN、GAN详细解析](https://blog.csdn.net/2301_81174869/article/details/145927624)
 
++ [【Qt-信号与槽】connect函数的用法](https://blog.csdn.net/2303_79015671/article/details/145952384)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的分页（Pagination）](https://blog.csdn.net/qq_33650655/article/details/145886824)
+
++ [k8s之pod的调度之污点与容忍污点，什么是污点？ 如何容忍污点](https://blog.csdn.net/soso678/article/details/145932564)
+
++ [AI绘画软件Stable Diffusion详解教程（3）：Windows系统本地化部署操作方法（通用版）](https://blog.csdn.net/daobaqin/article/details/145901134)
+
++ [Whisper.cpp + GPU 加速全攻略：Mac M 芯片高效转录音频教程](https://blog.csdn.net/qq_29824567/article/details/145893170)
+
++ [Spring Boot 启动与 Service 注入的 JVM 运行细节](https://blog.csdn.net/qq_52011411/article/details/145935390)
+
++ [Elasticsearch 的 .net 驱动NEST ：Fluent API 和 Object Initializer API 的异同](https://blog.csdn.net/wgdzg/article/details/145925355)
+
++ [【计算机网络】TCP三次握手，四次挥手以及SYN，ACK，seq，以及握手次数理解](https://blog.csdn.net/m0_74282926/article/details/145933337)
+
++ [使用PDFMiner.six解析PDF数据](https://blog.csdn.net/neweastsun/article/details/145937459)
+
++ [网络安全知识：网络安全网格架构](https://blog.csdn.net/2401_88220102/article/details/145927847)
+
++ [IP-----动态路由OSPF](https://blog.csdn.net/m0_75167824/article/details/145910883)
+
++ [2025年如何实现安卓、iOS、鸿蒙跨平台开发](https://blog.csdn.net/CSqingchen/article/details/145925773)
+
++ [各种类型网络安全竞赛有哪些 网络安全大赛的简称](https://blog.csdn.net/2401_88752684/article/details/145906527)
+
