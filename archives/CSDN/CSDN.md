@@ -169,3 +169,7 @@
 
 + [颠覆常规Trae IDE教你如何用新玩法打造超级知识体系](https://blog.csdn.net/qq_33681891/article/details/145921005)
 
++ [Windows版FFmpeg使用及B站视频下载示例python源码](https://blog.csdn.net/cnds123/article/details/145855557)
+
++ [OpenWebUI配置异常的外部模型导致页面无法打开](https://blog.csdn.net/csdou/article/details/145894151)
+
