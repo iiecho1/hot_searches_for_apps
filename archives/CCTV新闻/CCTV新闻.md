@@ -171,3 +171,5 @@
 
 + [乌拉圭当选总统奥尔西宣誓就职](https://news.cctv.com/2025/03/02/ARTI9lPiQ71IF1YOgkDQudve250302.shtml)
 
++ [英国首相重申英国对乌克兰的坚定支持](https://news.cctv.com/2025/03/02/ARTITMkUQP6aB4PEd12GeVqw250302.shtml)
+
