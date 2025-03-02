@@ -227,3 +227,7 @@
 
 + [I2C驱动(九) -- i2c_adapter控制器驱动框架编写](https://blog.csdn.net/zpz979994367/article/details/145952390)
 
++ [DeepSeek能画流程图吗？分享一种我正在使用的DeepSeek画流程图教程](https://blog.csdn.net/wd209988/article/details/145939052)
+
++ [【HTTP】解码网络通信的奥秘：HTTP,IP 地址,端口,DNS及NAT地址转换的协同之舞](https://blog.csdn.net/m0_75192474/article/details/145670579)
+
