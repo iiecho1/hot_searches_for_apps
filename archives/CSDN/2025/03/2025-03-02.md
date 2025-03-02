@@ -207,3 +207,7 @@
 
 + [DeepSeek如何快速开发PDF转Word软件](https://blog.csdn.net/XiaoRungen/article/details/145928512)
 
++ [DeepSeek 助力 Vue3 开发：打造丝滑的密码输入框（Password Input）](https://blog.csdn.net/qq_33650655/article/details/145903079)
+
++ [基于Spring Boot+Vue+UNIAPP的微信小程序的宠物服务中心设计与实现（源码+LW+调试）](https://blog.csdn.net/Steve792/article/details/145956168)
+

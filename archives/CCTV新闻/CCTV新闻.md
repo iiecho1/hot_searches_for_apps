@@ -203,3 +203,11 @@
 
 + [日本高考纳入信息学科能否收到预期效果？](https://news.cctv.com/2025/03/02/ARTIDOLJxYrIdOY5sTMQbJSQ250302.shtml)
 
++ [美国“卡尔·文森”号航母驶入韩国釜山海军基地](https://news.cctv.com/2025/03/02/ARTIw8pBC91ZuoYXB0JFK2qw250302.shtml)
+
++ [缅甸掸邦一客车坠入峡谷 致7人死亡](https://news.cctv.com/2025/03/02/ARTIvrO2LYJ3LINoxGIvSpiZ250302.shtml)
+
++ [平均每年近20万韩国人申请改名 是因为……](https://news.cctv.com/2025/03/02/ARTIwTdp5IpUv2yGheuYCHrv250302.shtml)
+
++ [世界看两会丨瑞士亚洲商会主席高度关注中国两会](https://news.cctv.com/2025/03/02/ARTIhu1PKU5Ge5bSBjJ9jN1F250302.shtml)
+
