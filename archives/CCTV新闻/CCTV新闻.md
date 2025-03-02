@@ -219,3 +219,5 @@
 
 + [埃塞俄比亚发生5.2级地震，震源深度10千米](https://news.cctv.com/2025/03/02/ARTIGEnMslvhWESwycSQGdu8250302.shtml)
 
++ [俄总统新闻秘书：不应期待俄美合作能快速取得成果](https://news.cctv.com/2025/03/02/ARTI9cCrrbTYm2zNKFd8xGDP250302.shtml)
+
