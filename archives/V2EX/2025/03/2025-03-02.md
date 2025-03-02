@@ -25,3 +25,7 @@
 
 + [大家抄代码的时候记得把注释改掉](https://www.v2ex.com/t/1115044)
 
++ [无语 父母买了套房子](https://www.v2ex.com/t/1115112)
+
++ [心痒痒 m4 macmini，该不该冲动消费？](https://www.v2ex.com/t/1115174)
+

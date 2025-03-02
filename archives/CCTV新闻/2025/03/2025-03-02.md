@@ -185,3 +185,9 @@
 
 + [非洲好物加快进入中国市场（新时代中非合作）](https://news.cctv.com/2025/03/02/ARTIciDuAJnVE9DkesrgnFog250302.shtml)
 
++ [日本东北山区火势凶猛：烧毁面积已达约1800公顷](https://news.cctv.com/2025/03/02/ARTIKNlTeV80ULhwXwE2r6it250302.shtml)
+
++ [俄罗斯“进步MS-30”货运飞船与国际空间站对接](https://news.cctv.com/2025/03/02/ARTIYsgCAbQqQ9a3t0ibVLi9250302.shtml)
+
++ [以色列决定在斋月期间继续执行加沙停火协议](https://news.cctv.com/2025/03/02/ARTIFeZlrLXdKMMwgsJK7vBl250302.shtml)
+
