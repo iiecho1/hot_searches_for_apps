@@ -193,3 +193,11 @@
 
 + [美国南卡罗来纳州购物中心枪击致1死2伤](https://news.cctv.com/2025/03/02/ARTISX10uj7c3Ec7AaRfbb8q250302.shtml)
 
++ [美国总统特朗普关税“大棒”加剧投资者对美国经济状况的担忧](https://news.cctv.com/2025/03/02/ARTImBhnZ5Sa71lQZmkN9keL250302.shtml)
+
++ [特朗普与泽连斯基在媒体前爆发激烈争吵 美乌谈崩为哪般？](https://news.cctv.com/2025/03/02/ARTIYblg31NY4mW2m87AMWNZ250302.shtml)
+
++ [美国得克萨斯踩踏事故致10人受伤](https://news.cctv.com/2025/03/02/ARTIz3Q3AwDpgTKaubCnZtkj250302.shtml)
+
++ [美政府官员：国防部将向南部边境增派约3000名军人](https://news.cctv.com/2025/03/02/ARTIjC9qsZm1mJv2ZaD7OQca250302.shtml)
+

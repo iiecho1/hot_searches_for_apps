@@ -187,3 +187,15 @@
 
 + [【网络原理】详解 HTTPS 协议](https://blog.csdn.net/m0_61814277/article/details/145886080)
 
++ [腾讯云大模型知识引擎驱动的DeepSeek满血版医疗顾问大模型搭建实战](https://blog.csdn.net/weixin_66401877/article/details/145959060)
+
++ [基于yolov8的农作物叶子病害检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/145952940)
+
++ [基于Java+Spring+Mybsita+mysql的汽租车辆共享平台的设计源码+设计文档](https://blog.csdn.net/m0_51530640/article/details/145955376)
+
++ [LabVIEW正弦信号处理：FFT与最小二乘拟合的参数提取](https://blog.csdn.net/bjcyck/article/details/145958558)
+
++ [【高并发秒杀系统设计：从Guava到Redis的6级缓存架构演进】](https://blog.csdn.net/weixin_74887700/article/details/145949684)
+
++ [I2C总线详细介绍](https://blog.csdn.net/scy518/article/details/145918602)
+

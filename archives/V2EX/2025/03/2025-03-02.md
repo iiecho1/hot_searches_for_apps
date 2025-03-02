@@ -31,3 +31,9 @@
 
 + [今年的二月二理发很顺畅](https://www.v2ex.com/t/1115092)
 
++ [一想到 30+岁还要去相亲，不免有些感慨](https://www.v2ex.com/t/1115202)
+
++ [有人用 pfSense 吗？ N100 应该硬装还是 PVE？](https://www.v2ex.com/t/1115102)
+
++ [现在 Claude 充值有什么方法吗？](https://www.v2ex.com/t/1115095)
+
