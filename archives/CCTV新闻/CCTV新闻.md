@@ -161,3 +161,11 @@
 
 + [美俄伊斯坦布尔会谈取得进展 确定稳定双边关系初步步骤](https://news.cctv.com/2025/02/28/ARTI65WGExcpafiylJqsebp2250228.shtml)
 
++ [美国社会保障管理局计划削减7000个工作岗位](https://news.cctv.com/2025/03/03/ARTImlFq3KUVwHYxiT9J32mx250303.shtml)
+
++ [英国首相：将允许乌克兰使用16亿英镑出口融资购买防空导弹](https://news.cctv.com/2025/03/03/ARTISSQfXGVwyXoGm5Jd4Bo2250303.shtml)
+
++ [机舱内检测到“烟雾异味” 美国达美航空一航班紧急返航](https://news.cctv.com/2025/03/03/ARTIiCs6ffKQqwH9ZHcgqyC0250303.shtml)
+
++ [乌克兰总统与意大利总理举行会谈 讨论结束俄乌冲突](https://news.cctv.com/2025/03/03/ARTIvclCYpY7NFjoZ78AxRL0250303.shtml)
+

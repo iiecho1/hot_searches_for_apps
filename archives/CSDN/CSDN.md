@@ -147,3 +147,5 @@
 
 + [【通俗讲解电子电路】——从零开始理解生活中的电路(二)](https://blog.csdn.net/MA2021803/article/details/145948913)
 
++ [智能制造：汽车从订单到交付全流程](https://blog.csdn.net/2401_88515538/article/details/145923822)
+
