@@ -191,3 +191,5 @@
 
 + [以色列决定在斋月期间继续执行加沙停火协议](https://news.cctv.com/2025/03/02/ARTIFeZlrLXdKMMwgsJK7vBl250302.shtml)
 
++ [美国南卡罗来纳州购物中心枪击致1死2伤](https://news.cctv.com/2025/03/02/ARTISX10uj7c3Ec7AaRfbb8q250302.shtml)
+

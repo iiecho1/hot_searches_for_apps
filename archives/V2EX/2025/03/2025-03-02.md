@@ -29,3 +29,5 @@
 
 + [心痒痒 m4 macmini，该不该冲动消费？](https://www.v2ex.com/t/1115174)
 
++ [今年的二月二理发很顺畅](https://www.v2ex.com/t/1115092)
+
