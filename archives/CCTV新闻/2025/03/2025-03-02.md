@@ -211,3 +211,9 @@
 
 + [世界看两会丨瑞士亚洲商会主席高度关注中国两会](https://news.cctv.com/2025/03/02/ARTIhu1PKU5Ge5bSBjJ9jN1F250302.shtml)
 
++ [马克龙给美乌领导人“劝架” 泽连斯基称愿签矿产协议](https://news.cctv.com/2025/03/02/ARTIsKmAqQ61eFgKMbEUPnyD250302.shtml)
+
++ [中国驻美大使：中美长期和平共存，既是责任也是必须](https://news.cctv.com/2025/03/02/ARTI8GeoIHkIfdGPiBDEGdsv250302.shtml)
+
++ [足球规则修订：门将持球超8秒将被罚角球，越位新规还在测试](https://news.cctv.com/2025/03/02/ARTIot85m8VyZdFHih3DWZqU250302.shtml)
+

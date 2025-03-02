@@ -211,3 +211,5 @@
 
 + [基于Spring Boot+Vue+UNIAPP的微信小程序的宠物服务中心设计与实现（源码+LW+调试）](https://blog.csdn.net/Steve792/article/details/145956168)
 
++ [网络安全-使用DeepSeek来获取sqlmap的攻击payload](https://blog.csdn.net/lady_killer9/article/details/145952921)
+
