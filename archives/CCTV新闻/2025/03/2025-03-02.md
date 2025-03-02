@@ -221,3 +221,7 @@
 
 + [俄总统新闻秘书：不应期待俄美合作能快速取得成果](https://news.cctv.com/2025/03/02/ARTI9cCrrbTYm2zNKFd8xGDP250302.shtml)
 
++ [共话中国经济新机遇丨专访：中国将继续为全球发展作出重要贡献——访白俄罗斯白中友协副主席](https://news.cctv.com/2025/03/02/ARTIHua3DiAH5FzrRzgFUPDz250302.shtml)
+
++ [网连世界：在欧洲，中国文化融入当地民众生活](https://news.cctv.com/2025/03/02/ARTISMX9L9cuJGXhprdWi5bw250302.shtml)
+

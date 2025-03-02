@@ -217,3 +217,9 @@
 
 + [在线抽奖系统——项目测试](https://blog.csdn.net/2301_76161469/article/details/145864335)
 
++ [DeepSeek-V3：AI语言模型的高效训练与推理之路](https://blog.csdn.net/qq_18941713/article/details/145939130)
+
++ [如何通过 LlamaIndex 将数据导入 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/145942780)
+
++ [EasyExcel构建复杂多级表头](https://blog.csdn.net/qq_42798343/article/details/145945089)
+
