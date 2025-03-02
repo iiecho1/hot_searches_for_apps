@@ -173,3 +173,15 @@
 
 + [英国首相重申英国对乌克兰的坚定支持](https://news.cctv.com/2025/03/02/ARTITMkUQP6aB4PEd12GeVqw250302.shtml)
 
++ [匈牙利总理敦促欧盟与俄罗斯直接谈判](https://news.cctv.com/2025/03/02/ARTIFQ374vkgnPmz9Q8t3sA9250302.shtml)
+
++ [泽连斯基与斯塔默会面连说3次感谢](https://news.cctv.com/2025/03/02/ARTI8Gv92AJXx2KDwU4nk2bF250302.shtml)
+
++ [美财长：在与特朗普会面前 泽连斯基已两次拒绝与美签署矿产协议](https://news.cctv.com/2025/03/02/ARTIKUjd0oodKupaJuUYDa9L250302.shtml)
+
++ [乌克兰提议用俄冻结资产收益为乌生产武器](https://news.cctv.com/2025/03/02/ARTIMlrjb2YsZTAuMkkqDgQ3250302.shtml)
+
++ [特朗普下令将英语定为美国官方语言](https://news.cctv.com/2025/03/02/ARTIqajjfAfXiKBUMVO7rYNZ250302.shtml)
+
++ [非洲好物加快进入中国市场（新时代中非合作）](https://news.cctv.com/2025/03/02/ARTIciDuAJnVE9DkesrgnFog250302.shtml)
+

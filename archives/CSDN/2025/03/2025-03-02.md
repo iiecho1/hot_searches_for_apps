@@ -155,3 +155,5 @@
 
 + [eMMC安全简介](https://blog.csdn.net/aa25012/article/details/145931413)
 
++ [DeepSeekの食用指南：在腾讯云LKE厨房里，我们把AI炖成了一锅会写彩虹屁的佛跳墙](https://blog.csdn.net/2301_80863610/article/details/145904904)
+
