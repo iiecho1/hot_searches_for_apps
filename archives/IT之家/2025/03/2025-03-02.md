@@ -25,3 +25,27 @@
 
 + [2 月小米 SU7 交付超 20000 台：已连续 5 个月破 2 万，累计交付超 18 万台](https://m.ithome.com/html/834085.htm)
 
++ [小米 SU7 Ultra 汽车今日开启交付，雷军亲自助阵赠送车主 24K 金碳纤维 Logo](https://m.ithome.com/html/834683.htm)
+
++ [腾讯视频手机客户端上线“概念版”简约界面，VIP / SVIP 每月加 3 元可使用](https://m.ithome.com/html/834791.htm)
+
++ [雷军：小米 SU7 Ultra 大定已达 1.9 万台、锁单超 1 万台，提前完成全年任务](https://m.ithome.com/html/834697.htm)
+
++ [鸿蒙智行问界新 M5 Ultra 汽车 12 小时小订破 3000 台](https://m.ithome.com/html/834737.htm)
+
++ [日产 GT-R R35 汽车宣布停产，不再接受新订单](https://m.ithome.com/html/834732.htm)
+
++ [雷军：GT-R 是一代传奇，感谢对小米 SU7 Ultra 的祝贺和认可](https://m.ithome.com/html/834810.htm)
+
++ [微信三端更新汇总：iOS 存储可瘦身、安卓转发焕新颜、PC 浮窗变星标](https://m.ithome.com/html/834785.htm)
+
++ [鸿蒙原生版微信 App 暂不支持手机、平板同时登录，腾讯员工称后续版本改进](https://m.ithome.com/html/834677.htm)
+
++ [消息称苹果将重返路由器市场：自研芯片成关键，支持 Wi-Fi 7](https://m.ithome.com/html/834714.htm)
+
++ [不提供“火麒麟”等英雄级武器：腾讯《穿越火线 怀旧模式》1.0 版下月上线](https://m.ithome.com/html/834781.htm)
+
++ [售 30.9 万元起，上汽奥迪 Q6 中大型 SUV 限时优惠价发布](https://m.ithome.com/html/834765.htm)
+
++ [网友在台积电工厂附近垃圾桶捡到晶圆，但无法制成 GPU](https://m.ithome.com/html/834085.htm)
+

@@ -51,3 +51,5 @@
 
 + [请问这是什么标志？](https://www.v2ex.com/t/1115215)
 
++ [入手 AirPods Max 二代 合不合适？](https://www.v2ex.com/t/1115187)
+

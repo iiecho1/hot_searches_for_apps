@@ -229,3 +229,5 @@
 
 + [乌干达再次出现埃博拉死亡病例](https://news.cctv.com/2025/03/02/ARTIf1xVpsEu6uTYGrpYmEPl250302.shtml)
 
++ [乌外交部抗议国际原子能机构未经乌方同意进行扎波罗热核电站专家轮换](https://news.cctv.com/2025/03/02/ARTIx8DZFp5pIS0ZkswVMvkq250302.shtml)
+
