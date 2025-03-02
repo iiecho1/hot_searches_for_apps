@@ -113,3 +113,27 @@
 
 + [在线抽奖系统——项目测试](https://blog.csdn.net/2301_76161469/article/details/145864335)
 
++ [智能代码生成与优化：DeepSeek如何重构前端开发范式](https://blog.csdn.net/qq_32682301/article/details/145972799)
+
++ [8.5 kubelet维护pod的内存管理器podManager源码解析](https://blog.csdn.net/weixin_48502062/article/details/145929197)
+
++ [基于zookeeper搭建kafka集群](https://blog.csdn.net/muxia_jhy/article/details/145972641)
+
++ [Spring Boot拦截器（Interceptor）与过滤器（Filter）详细教程](https://blog.csdn.net/qq_43356920/article/details/145929075)
+
++ [【LLM】DeepSeek开源技术汇总](https://blog.csdn.net/qq_35812205/article/details/145866192)
+
++ [【图文详解】什么是微服务？什么是SpringCloud？](https://blog.csdn.net/m0_74825152/article/details/145947878)
+
++ [微信小程序开发实战：天气预报应用](https://blog.csdn.net/weixin_64537406/article/details/145965917)
+
++ [自由学习记录（40）](https://blog.csdn.net/red_redemption/article/details/145872629)
+
++ [linux中断调用流程(arm)](https://blog.csdn.net/qq_46538985/article/details/145947318)
+
++ [极简Redis速成学习](https://blog.csdn.net/m0_62519278/article/details/145919807)
+
++ [【JAVA】阿里云百炼平台对接DeepSeek-V3大模型使用详解](https://blog.csdn.net/u012998680/article/details/145935462)
+
++ [自制AVA数据集在slowfast中训练（mmaction2工具箱）](https://blog.csdn.net/2301_81316166/article/details/145972218)
+
