@@ -137,3 +137,13 @@
 
 + [自制AVA数据集在slowfast中训练（mmaction2工具箱）](https://blog.csdn.net/2301_81316166/article/details/145972218)
 
++ [对泰坦尼克号沉没事件幸存者数据分析和预测](https://blog.csdn.net/qq_62974479/article/details/145924829)
+
++ [OpenHarmony多模输入子系统](https://blog.csdn.net/benco1986/article/details/145943359)
+
++ [51单片机智能小车|清翔（三）](https://blog.csdn.net/weixin_74285545/article/details/145956288)
+
++ [Harmony os next～鸿蒙原子化服务开发实战：天气卡片开发全解析](https://blog.csdn.net/weixin_41905135/article/details/145942658)
+
++ [【通俗讲解电子电路】——从零开始理解生活中的电路(二)](https://blog.csdn.net/MA2021803/article/details/145948913)
+
