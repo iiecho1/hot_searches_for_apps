@@ -217,3 +217,5 @@
 
 + [足球规则修订：门将持球超8秒将被罚角球，越位新规还在测试](https://news.cctv.com/2025/03/02/ARTIot85m8VyZdFHih3DWZqU250302.shtml)
 
++ [埃塞俄比亚发生5.2级地震，震源深度10千米](https://news.cctv.com/2025/03/02/ARTIGEnMslvhWESwycSQGdu8250302.shtml)
+
