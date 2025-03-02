@@ -37,3 +37,5 @@
 
 + [现在 Claude 充值有什么方法吗？](https://www.v2ex.com/t/1115095)
 
++ [将代码中的密码等信息发给 chatgpt 等模型安全吗？](https://www.v2ex.com/t/1115208)
+

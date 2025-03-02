@@ -201,3 +201,5 @@
 
 + [美政府官员：国防部将向南部边境增派约3000名军人](https://news.cctv.com/2025/03/02/ARTIjC9qsZm1mJv2ZaD7OQca250302.shtml)
 
++ [日本高考纳入信息学科能否收到预期效果？](https://news.cctv.com/2025/03/02/ARTIDOLJxYrIdOY5sTMQbJSQ250302.shtml)
+

@@ -199,3 +199,11 @@
 
 + [I2C总线详细介绍](https://blog.csdn.net/scy518/article/details/145918602)
 
++ [【fnOS飞牛云NAS本地部署DeepSeek-R1结合内网穿透远程访问告别服务器繁忙】](https://blog.csdn.net/qyj19920704/article/details/145905584)
+
++ [VMware平台的Ubuntu部署完全分布式Hadoop环境](https://blog.csdn.net/z253255/article/details/145883402)
+
++ [springboot报错：Invalid bound statement (not found)](https://blog.csdn.net/weixin_73355603/article/details/145907259)
+
++ [DeepSeek如何快速开发PDF转Word软件](https://blog.csdn.net/XiaoRungen/article/details/145928512)
+
