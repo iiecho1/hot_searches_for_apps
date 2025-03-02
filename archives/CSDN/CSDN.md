@@ -149,3 +149,5 @@
 
 + [智能制造：汽车从订单到交付全流程](https://blog.csdn.net/2401_88515538/article/details/145923822)
 
++ [[笔记]U-boot下从从核启动流程学习（linux内核）](https://blog.csdn.net/FWDDZDD/article/details/145966781)
+
