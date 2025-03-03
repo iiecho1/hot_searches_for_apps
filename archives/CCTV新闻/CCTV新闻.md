@@ -189,3 +189,17 @@
 
 + [美国“猎鹰9”火箭发射21颗“星链”卫星](https://news.cctv.com/2025/03/03/ARTI4dOEP56sMqUKRNtMesgI250303.shtml)
 
++ [美国南、北卡罗来纳州山火持续蔓延 部分地区发布疏散令](https://news.cctv.com/2025/03/03/ARTILlh262blWzsIHLOX5Bm6250303.shtml)
+
++ [法英提议俄乌部分停火一个月 泽连斯基称已知情](https://news.cctv.com/2025/03/03/ARTIz2VuLpwdIOufJT0zogmI250303.shtml)
+
++ [日本本月将向市场投放15万吨政府储备米](https://news.cctv.com/2025/03/03/ARTIr9E0OhNQEVBGRULibmSM250303.shtml)
+
++ [乌克兰问题烫手美欧互踢皮球](https://news.cctv.com/2025/03/03/ARTIKxV9P6WzBVfnWz6Kk8KG250303.shtml)
+
++ [美官员：美国已暂停针对俄罗斯的网络攻击行动和计划](https://news.cctv.com/2025/03/03/ARTIF0x8BHwFDdlOde4XjwbH250303.shtml)
+
++ [美国支持以色列阻止一切物资进入加沙地带的决定](https://news.cctv.com/2025/03/03/ARTIDxeHjDhmYrFe4OzTWK5u250303.shtml)
+
++ [美媒：美国一载92人客机飞行中发出紧急信号](https://news.cctv.com/2025/03/03/ARTILc5wiov9jmkTk7AjWSwe250303.shtml)
+

@@ -185,3 +185,5 @@
 
 + [【DeepSeek应用实践】DeepSeek接入Word、WPS方法详解：无需代码，轻松实现智能办公助手功能](https://blog.csdn.net/xiaobing259/article/details/145943656)
 
++ [DeepSeek架构革命：动态异构计算](https://blog.csdn.net/lilinhai548/article/details/145968545)
+
