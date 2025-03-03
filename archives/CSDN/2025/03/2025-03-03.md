@@ -213,3 +213,11 @@
 
 + [FPGA开发，使用Deepseek V3还是R1（8）：FPGA的全流程（简略版）](https://blog.csdn.net/LeeConstantine/article/details/145960915)
 
++ [DeepSeek 助力 Vue3 开发：打造丝滑的弹性布局（Flexbox）](https://blog.csdn.net/qq_33650655/article/details/145938677)
+
++ [【HarmonyOS之旅】基于ArkTS开发(三) -＞ 兼容JS的类Web开发(七) -＞ JS动画(二)](https://blog.csdn.net/weixin_74809706/article/details/145935781)
+
++ [[免费]微信小程序(校园)二手交易系统(uni-app+SpringBoot后端+Vue管理端)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/145984394)
+
++ [从零开始的kafka学习 （一）| 概念，Java API](https://blog.csdn.net/remsqks/article/details/145965557)
+

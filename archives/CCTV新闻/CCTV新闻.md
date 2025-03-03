@@ -213,3 +213,19 @@
 
 + [塔吉克斯坦执政党赢得议会下院选举](https://news.cctv.com/2025/03/03/ARTIf0MmfUEEKweqNt3ZZzWH250303.shtml)
 
++ [随笔丨“任尔焦土，吾要稀土”](https://news.cctv.com/2025/03/03/ARTIk14bIjL6DWGMBlHyrYks250303.shtml)
+
++ [现场直击｜在基辅街头感受乌克兰民众的愤懑](https://news.cctv.com/2025/03/03/ARTIIZhVlztFjovQrV1chXhc250303.shtml)
+
++ [土耳其2月消费者价格指数同比上涨39.05%](https://news.cctv.com/2025/03/03/ARTIrktjmCmV1e3LKzoMh9LL250303.shtml)
+
++ [美媒：特朗普政府3日讨论对乌“断供”](https://news.cctv.com/2025/03/03/ARTIAFR2dujvwJ6dsKZASCku250303.shtml)
+
++ [俄罗斯发射联盟-2.1b号运载火箭](https://news.cctv.com/2025/03/03/ARTIho4uIwPxVDxTmrZgUacy250303.shtml)
+
++ [泽连斯基发布最新视频 称必须实现的底线和不能妥协的红线将提交美国](https://news.cctv.com/2025/03/03/ARTI0d10fUlNcLX7EhLhCLbm250303.shtml)
+
++ [特朗普威胁“吞并”加拿大 特鲁多：捍卫主权与独立是其与英国国王会面重点](https://news.cctv.com/2025/03/03/ARTIGp9XLtvj2wky8lljKixw250303.shtml)
+
++ [用甄嬛传的方式打开美乌白宫骂战](https://news.cctv.com/2025/03/03/ARTIQ6aBIMHd3EPLbgGMOj7v250303.shtml)
+
