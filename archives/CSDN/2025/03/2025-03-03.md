@@ -199,3 +199,11 @@
 
 + [python量化交易——金融数据管理最佳实践——使用qteasy管理本地数据源](https://blog.csdn.net/Shepherdppz/article/details/145951333)
 
++ [深度强化学习 | 详解过估计现象与Double DQN算法(附Pytorch实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/145951765)
+
++ [【Linux网络#14】：数据链路层（以太网 & 局域网通信 & ARP协议 & ARP 欺骗 & DDos 攻击）](https://blog.csdn.net/island1314/article/details/145914939)
+
++ [【宠粉赠书】极速探索 HarmonyOS NEXT：国产操作系统的未来之光](https://blog.csdn.net/weixin_41793160/article/details/145975519)
+
++ [【SpringSecurity】——认证、注销、权限控制和注销、记住密码、自定义登入页等知识总结](https://blog.csdn.net/shsjssnn/article/details/141021853)
+

@@ -97,3 +97,5 @@
 
 + [【余若】午夜狂奔Midnight Express](https://m.acfun.cn/v/%3Fac%3D46949944)
 
++ [【排名不分先后】DeepSeek评选，华语乐坛最有影响力的10位歌手！不知道你是否认同](https://m.acfun.cn/v/%3Fac%3D46948201)
+
