@@ -35,3 +35,5 @@
 
 + [周鸿祎 清华演讲 - DeepSeek 给我们带来的创业机会(附视频和 ppt)](https://www.v2ex.com/t/1115345)
 
++ [无线鼠标求推荐](https://www.v2ex.com/t/1115391)
+

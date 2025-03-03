@@ -193,3 +193,9 @@
 
 + [爬虫科普：小白也能玩爬虫（二）](https://blog.csdn.net/m0_72737486/article/details/145967104)
 
++ [WPF高级 | WPF 应用程序部署与发布：确保顺利交付到用户手中](https://blog.csdn.net/weixin_43151418/article/details/145476406)
+
++ [Vue核心知识：动态路由实现完整方案](https://blog.csdn.net/sixpp/article/details/145941464)
+
++ [python量化交易——金融数据管理最佳实践——使用qteasy管理本地数据源](https://blog.csdn.net/Shepherdppz/article/details/145951333)
+
