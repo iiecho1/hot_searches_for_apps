@@ -239,3 +239,5 @@
 
 + [面向低资源环境的扩散模型优化方法：从噪声调度到硬件加速的综合方案实战【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/145960639)
 
++ [Linux内核配置与构建原理](https://blog.csdn.net/mapleay/article/details/145967713)
+

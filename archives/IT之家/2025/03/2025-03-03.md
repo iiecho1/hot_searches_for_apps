@@ -25,3 +25,27 @@
 
 + [网友在台积电工厂附近垃圾桶捡到晶圆，但无法制成 GPU](https://m.ithome.com/html/834085.htm)
 
++ [雷军否认穿皮夹克抄袭英伟达黄仁勋：容易配上小米 SU7 Ultra 的风格](https://m.ithome.com/html/834876.htm)
+
++ [小米 15 手机磁吸 M43 大底镜头首次亮相，MWC 2025 秀影像“肌肉”](https://m.ithome.com/html/834833.htm)
+
++ [小米汽车：SU7 Ultra 的竞速套装不能后装](https://m.ithome.com/html/834831.htm)
+
++ [鸿蒙智行发言人：坚决打击黑公关乱象，向线索及证据提供者给予 10 万至最高 500 万元奖励](https://m.ithome.com/html/834882.htm)
+
++ [华为 Mate 70 Pro 优享版与常规版在拍照、AI 等功能与特性上保持一致](https://m.ithome.com/html/834844.htm)
+
++ [假的：OPPO 周意保否认 Find X8 Ultra“真机照”，称 Deco 长这样设计师得开掉](https://m.ithome.com/html/834877.htm)
+
++ [小米推出 59 元智能墙壁插座：老家电也能实现智能控制，支持语音、远程、定时开关](https://m.ithome.com/html/834837.htm)
+
++ [雷军直播总结发布：小米 15 Ultra 手机用一天多时间超过原定三天预售目标](https://m.ithome.com/html/834847.htm)
+
++ [6499 元起小米 15 Ultra 手机 10 点正式开售：28 倍无损变焦、首发徕卡超纯光学系统](https://m.ithome.com/html/835004.htm)
+
++ [华为申请注册“悟空”等神话人物商标，目前处于“等待实质审查”阶段](https://m.ithome.com/html/835042.htm)
+
++ [《哪吒 2》成为首部票房破 20 亿美元亚洲电影，冲击影史前六](https://m.ithome.com/html/834830.htm)
+
++ [小米 15/15 Ultra 手机海外发布，平板、耳机等新品同步登场](https://m.ithome.com/html/834085.htm)
+
