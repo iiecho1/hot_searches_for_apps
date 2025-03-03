@@ -229,3 +229,15 @@
 
 + [用甄嬛传的方式打开美乌白宫骂战](https://news.cctv.com/2025/03/03/ARTIQ6aBIMHd3EPLbgGMOj7v250303.shtml)
 
++ [奥地利首个三党联合政府宣誓就职](https://news.cctv.com/2025/03/03/ARTIGyNj4xwWEOWvEg1ViFPX250303.shtml)
+
++ [英国将向乌克兰提供16亿英镑导弹援助](https://news.cctv.com/2025/03/03/ARTIQnrsL4iFI6CIkkGeOZMx250303.shtml)
+
++ [美媒：巴菲特罕见就特朗普关税政策发表评论](https://news.cctv.com/2025/03/03/ARTIZaWt3VgDyxR7cVJHUz7Q250303.shtml)
+
++ [柬埔寨国王西哈莫尼和太后莫尼列来华](https://news.cctv.com/2025/03/03/ARTIGsPNqk1dl2kqMRDnOs2Y250303.shtml)
+
++ [澳大利亚成功解救一名被困海上的立陶宛划船运动员](https://news.cctv.com/2025/03/03/ARTIOXV8ynW2NWcS1Hk9phiB250303.shtml)
+
++ [以色列海法发生枪击事件 已致1死4伤](https://news.cctv.com/2025/03/03/ARTI8ZMYQcAiYWKwQRXqq0Mh250303.shtml)
+

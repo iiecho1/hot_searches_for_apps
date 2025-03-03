@@ -229,3 +229,5 @@
 
 + [DeepSeek MLA(Multi-Head Latent Attention)算法浅析](https://blog.csdn.net/qq_40672115/article/details/145971138)
 
++ [全员DeepSeek时代，前端能做些什么？](https://blog.csdn.net/qq_34419312/article/details/145989301)
+
