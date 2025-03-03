@@ -151,3 +151,17 @@
 
 + [[笔记]U-boot下从从核启动流程学习（linux内核）](https://blog.csdn.net/FWDDZDD/article/details/145966781)
 
++ [从源到目标：深度学习中的迁移学习与领域自适应实践](https://blog.csdn.net/lrq13965748542/article/details/145970095)
+
++ [DeepSeek-V3：AI语言模型的高效训练与推理之路](https://blog.csdn.net/qq_18941713/article/details/145939130)
+
++ [网络安全大赛模拟](https://blog.csdn.net/shuicarry66/article/details/145928829)
+
++ [Java 大视界 -- Java 大数据在智慧文旅游客流量预测与景区运营优化中的应用（110）](https://blog.csdn.net/atgfg/article/details/145964958)
+
++ [使用Java构建高效的Web服务架构](https://blog.csdn.net/shrgegrb/article/details/145960827)
+
++ [[操作系统] 文件的软链接和硬链接](https://blog.csdn.net/SDFsoul/article/details/145971270)
+
++ [Electron + Vite + React + TypeScript 跨平台开发实践指南](https://blog.csdn.net/qq_34640315/article/details/145942536)
+

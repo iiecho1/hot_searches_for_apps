@@ -171,3 +171,7 @@
 
 + [多国领导人伦敦峰会宣布支持乌克兰四个步骤](https://news.cctv.com/2025/03/03/ARTI3nAVp8sdKYzMnaRgzQwi250303.shtml)
 
++ [泽连斯基：仍“愿意”签署美乌矿产协议](https://news.cctv.com/2025/03/03/ARTIH1vYKizJ1LbXDzG95N0I250303.shtml)
+
++ [乌总统泽连斯基称愿以辞职换取乌克兰加入北约](https://news.cctv.com/2025/03/03/ARTIQngM4Wbw7I494RlyNB1A250303.shtml)
+
