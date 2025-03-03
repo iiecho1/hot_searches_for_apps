@@ -221,3 +221,7 @@
 
 + [从零开始的kafka学习 （一）| 概念，Java API](https://blog.csdn.net/remsqks/article/details/145965557)
 
++ [【C/C++算法】从浅到深学习--- 位操作算法（图文兼备 + 源码详解）](https://blog.csdn.net/ZYK069/article/details/145859684)
+
++ [在.net中，async/await的理解](https://blog.csdn.net/qq_61709335/article/details/145940408)
+
