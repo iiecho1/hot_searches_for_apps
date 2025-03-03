@@ -33,3 +33,5 @@
 
 + [[重磅更新] [送码] SlideBrowser 一个轻量的滑动浏览器，给你不一样的交互体验](https://www.v2ex.com/t/1115346)
 
++ [周鸿祎 清华演讲 - DeepSeek 给我们带来的创业机会(附视频和 ppt)](https://www.v2ex.com/t/1115345)
+

@@ -187,3 +187,9 @@
 
 + [DeepSeek架构革命：动态异构计算](https://blog.csdn.net/lilinhai548/article/details/145968545)
 
++ [【C++指南】一文总结C++类和对象【中】](https://blog.csdn.net/egoist2023/article/details/145736502)
+
++ [LabVIEW正弦信号处理：FFT与最小二乘拟合的参数提取](https://blog.csdn.net/bjcyck/article/details/145958558)
+
++ [爬虫科普：小白也能玩爬虫（二）](https://blog.csdn.net/m0_72737486/article/details/145967104)
+
