@@ -19,3 +19,5 @@
 
 + [买了个 14 寸 m4pro 48+512](https://www.v2ex.com/t/1115387)
 
++ [帮忙看看这个 diy 装机配置搞开发怎样](https://www.v2ex.com/t/1115530)
+
