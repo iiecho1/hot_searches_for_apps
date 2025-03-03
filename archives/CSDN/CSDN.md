@@ -127,3 +127,5 @@
 
 + [[笔记]U-boot下从从核启动流程学习（linux内核）](https://blog.csdn.net/FWDDZDD/article/details/145966781)
 
++ [【服务器】Nginx](https://blog.csdn.net/taibai12/article/details/145953946)
+
