@@ -175,3 +175,15 @@
 
 + [乌总统泽连斯基称愿以辞职换取乌克兰加入北约](https://news.cctv.com/2025/03/03/ARTIQngM4Wbw7I494RlyNB1A250303.shtml)
 
++ [泰国总理承诺加快该国经济发展](https://news.cctv.com/2025/03/03/ARTIcvTqutYfAzptthmOtKeY250303.shtml)
+
++ [美方称乌克兰总统或需换人](https://news.cctv.com/2025/03/03/ARTI3HlmU90axWzome5EjWyQ250303.shtml)
+
++ [美国务卿：乌克兰准备好实现和平时将恢复与其谈判 俄罗斯或参与](https://news.cctv.com/2025/03/03/ARTIN8TIljQ5Fp0ZAxamdgPE250303.shtml)
+
++ [日本大船渡市山火过火面积已达2100公顷](https://news.cctv.com/2025/03/03/ARTIVIDzclpqpnV5Ojt4KbIo250303.shtml)
+
++ [俄罗斯一购物中心发生枪击事件 已致3人受伤](https://news.cctv.com/2025/03/03/ARTI2gtZzqiiu3kxynE5cVNu250303.shtml)
+
++ [综述丨德企加强全球布局以应对美关税威胁](https://news.cctv.com/2025/03/03/ARTIPU7QRc0NEGk8MqZ77waL250303.shtml)
+
