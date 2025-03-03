@@ -101,3 +101,21 @@
 
 + [一文了解 Web3 操作系统 RuleOS，如何以紧耦合架构赋能通用应用](https://blog.csdn.net/2501_90893600/article/details/145940737)
 
++ [LLMR: Real-time Prompting of Interactive Worldsusing Large Language Models](https://blog.csdn.net/Zlzxzw/article/details/145940618)
+
++ [冯诺依曼体系结构](https://blog.csdn.net/2301_80774875/article/details/145939976)
+
++ [【Python】OpenCV算法使用案例全解](https://blog.csdn.net/DaiZongFuUp/article/details/145970586)
+
++ [大模型巅峰对决：DeepSeek vs GPT-4/Claude/PaLM-2 全面对比与核心差异揭秘](https://blog.csdn.net/qq_16242613/article/details/146001896)
+
++ [面向高质量视频生成的扩散模型方法-算法、架构与实现【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/145980540)
+
++ [DeepSeek 与云原生后端：AI 赋能现代应用架构](https://blog.csdn.net/qq_20245171/article/details/145964441)
+
++ [Linux——计算机网络](https://blog.csdn.net/2401_83532323/article/details/145945687)
+
++ [游戏中的成就系统，我们一般会使用设计模式中的哪种模式来制作？为什么？](https://blog.csdn.net/2303_76354097/article/details/145928660)
+
++ [Docker 学习（一）](https://blog.csdn.net/2401_83342251/article/details/145965040)
+
