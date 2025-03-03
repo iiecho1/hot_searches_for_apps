@@ -241,3 +241,5 @@
 
 + [以色列海法发生枪击事件 已致1死4伤](https://news.cctv.com/2025/03/03/ARTI8ZMYQcAiYWKwQRXqq0Mh250303.shtml)
 
++ [德国曼海姆发生汽车冲撞人群事件 已致多人受伤](https://news.cctv.com/2025/03/03/ARTIZb0SwGV6DG4v1QPRw4jG250303.shtml)
+
