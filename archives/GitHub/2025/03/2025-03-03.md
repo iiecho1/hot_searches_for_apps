@@ -17,3 +17,9 @@
 
 + [praydog/REFramework](https://github.com/praydog/REFramework)
 
++ [nicbarker/clay](https://github.com/nicbarker/clay)
+
++ [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+

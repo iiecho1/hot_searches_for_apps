@@ -225,3 +225,7 @@
 
 + [在.net中，async/await的理解](https://blog.csdn.net/qq_61709335/article/details/145940408)
 
++ [从零开始：H20服务器上DeepSeek R1 671B大模型部署与压力测试全攻略](https://blog.csdn.net/firehadoop/article/details/145959758)
+
++ [DeepSeek MLA(Multi-Head Latent Attention)算法浅析](https://blog.csdn.net/qq_40672115/article/details/145971138)
+
