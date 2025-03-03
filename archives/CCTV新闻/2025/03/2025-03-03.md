@@ -205,3 +205,11 @@
 
 + [埃及阿斯尤特省发生车祸已致13死2伤](https://news.cctv.com/2025/03/03/ARTIswcZrkNjzbuBDD7Q3a5s250303.shtml)
 
++ [瑞典首都发生枪击事件致两人重伤](https://news.cctv.com/2025/03/03/ARTIpHvcG7Pi8uiIMQ53agn5250303.shtml)
+
++ [印度雪崩营救行动结束 8人死亡](https://news.cctv.com/2025/03/03/ARTIZPuXYwsrIEVka62FeoBW250303.shtml)
+
++ [韩国民调：李在明成韩国下届大选最热门候选人](https://news.cctv.com/2025/03/03/ARTIfqSptVpRLyP9xfzCFA9A250303.shtml)
+
++ [塔吉克斯坦执政党赢得议会下院选举](https://news.cctv.com/2025/03/03/ARTIf0MmfUEEKweqNt3ZZzWH250303.shtml)
+

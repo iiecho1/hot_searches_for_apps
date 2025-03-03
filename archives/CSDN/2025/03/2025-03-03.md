@@ -207,3 +207,9 @@
 
 + [【SpringSecurity】——认证、注销、权限控制和注销、记住密码、自定义登入页等知识总结](https://blog.csdn.net/shsjssnn/article/details/141021853)
 
++ [机器学习特征筛选：向后淘汰法原理与Python实现](https://blog.csdn.net/m0_46510245/article/details/145976691)
+
++ [一文了解 Web3 操作系统 RuleOS，如何以紧耦合架构赋能通用应用](https://blog.csdn.net/2501_90893600/article/details/145940737)
+
++ [FPGA开发，使用Deepseek V3还是R1（8）：FPGA的全流程（简略版）](https://blog.csdn.net/LeeConstantine/article/details/145960915)
+
