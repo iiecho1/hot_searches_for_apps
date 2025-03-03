@@ -167,3 +167,21 @@
 
 + [Linux三种网络方式](https://blog.csdn.net/aabbdnsm/article/details/145945667)
 
++ [使用AI后为什么思考会变得困难？](https://blog.csdn.net/JellyAI/article/details/145949662)
+
++ [基于大数据+机器学习等的淘宝电商用户行为预测分析平台(源码+论文+数据集)](https://blog.csdn.net/weixin_39709134/article/details/145974670)
+
++ [Linux：Http协议](https://blog.csdn.net/weixin_51142926/article/details/143628926)
+
++ [实战设计模式之享元模式](https://blog.csdn.net/hope_wisdom/article/details/145967663)
+
++ [谜团待解：DeepSeek 分布式大模型训练，隐藏着怎样的秘密？](https://blog.csdn.net/2401_82648291/article/details/145962016)
+
++ [RabbitMQ——延迟消息的实现](https://blog.csdn.net/2201_75732091/article/details/145952181)
+
++ [React生态、Vue生态与跨框架前端解决方案](https://blog.csdn.net/liminwang0311/article/details/145969372)
+
++ [【Transformer模型学习】第三篇：位置编码](https://blog.csdn.net/m0_49963403/article/details/145792848)
+
++ [【DeepSeek应用实践】DeepSeek接入Word、WPS方法详解：无需代码，轻松实现智能办公助手功能](https://blog.csdn.net/xiaobing259/article/details/145943656)
+
