@@ -39,3 +39,5 @@
 
 + [佬们，想更新 macbookair，是冲 m3 还是等 m4，急急急！在线等！](https://www.v2ex.com/t/1115652)
 
++ [特斯拉 model3 标续和小鹏 p7+怎么选？](https://www.v2ex.com/t/1115672)
+
