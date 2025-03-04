@@ -19,3 +19,5 @@
 
 + [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
+
