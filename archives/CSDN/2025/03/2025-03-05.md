@@ -119,3 +119,7 @@
 
 + [简易的微信聊天网页版【项目测试报告】](https://blog.csdn.net/2301_80667728/article/details/145942906)
 
++ [视觉图像坐标转换](https://blog.csdn.net/weixin_44533869/article/details/145955603)
+
++ [基于云部署DeepSeek自动分析整合Dou音爆款视频数据](https://blog.csdn.net/beishang_1/article/details/146005702)
+
