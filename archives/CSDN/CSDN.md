@@ -169,3 +169,9 @@
 
 + [《白帽子讲 Web 安全》之移动 Web 安全](https://blog.csdn.net/FFNCL/article/details/145955249)
 
++ [DeepSeek 助力 Vue3 开发：打造丝滑的模态框（Modal）](https://blog.csdn.net/qq_33650655/article/details/145938939)
+
++ [字节Trae国内版：3分钟打造你的首个AI项目](https://blog.csdn.net/2502_90109034/article/details/146009946)
+
++ [【超全】YOLO系列综述： 从YOLOv1到YOLOv12，记录YOLO发展的十年](https://blog.csdn.net/qq_42589613/article/details/145958257)
+

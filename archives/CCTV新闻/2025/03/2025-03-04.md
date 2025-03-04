@@ -189,3 +189,13 @@
 
 + [欧洲经济界人士表示：中国重视民企发展值得期待](https://jingji.cctv.com/2025/03/04/ARTI74zGUtK6mWky5dnch7Ms250304.shtml)
 
++ [秀我中国｜越南影迷跨国追哪吒！](https://news.cctv.com/2025/03/04/ARTIeTumDfNmElKTeZWVh6nV250304.shtml)
+
++ [尼泊尔大会党干部在中国基层见证“生动的民主实践”](https://news.cctv.com/2025/03/04/ARTIcN81ih60v9HfwNsaocHv250304.shtml)
+
++ [命运与共好伙伴｜共建中印尼命运共同体 携手开创更美好未来](https://news.cctv.com/2025/03/04/ARTI91YCadsCMYRrap5ALRBc250304.shtml)
+
++ [特朗普加征关税与美股下跌同框](https://news.cctv.com/2025/03/04/ARTIGATRSvUWCa4g3hzu3YPA250304.shtml)
+
++ [科隆狂欢节：“玫瑰星期一”大游行](https://photo.cctv.com/2025/03/04/PHOAgsW0euyA2EG91li8DDWn250304.shtml)
+
