@@ -139,3 +139,5 @@
 
 + [运维安全计划书，驻场安全运维服务方案（Word完整版56页原件）](https://blog.csdn.net/2302_79423711/article/details/145943412)
 
++ [【AI 大模型】RAG 检索增强生成 ⑥ ( 使用 向量数据库 作为 RAG 知识库 完整实现 )](https://blog.csdn.net/han1202012/article/details/145956764)
+

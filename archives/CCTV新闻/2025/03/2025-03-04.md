@@ -171,3 +171,21 @@
 
 + [俄罗斯宣布无限期禁止9名日本公民入境](https://news.cctv.com/2025/03/04/ARTILE51CXTX9DhGaVLs3om9250304.shtml)
 
++ [美方暂停对乌军援 特朗普称无法“容忍”泽连斯基](https://military.cctv.com/2025/03/04/ARTIv7yVdzbW9RCx3YrC26Uq250304.shtml)
+
++ [美参议院批准琳达·麦克马洪出任教育部长](https://news.cctv.com/2025/03/04/ARTI4cxJlZGaLRj3haWkoLQK250304.shtml)
+
++ [日本众议院通过2025财年预算案 总额超115万亿日元](https://news.cctv.com/2025/03/04/ARTIHf9cFLaEEqKgZKPJLyLu250304.shtml)
+
++ [美媒：美国暂停对乌克兰军援 直至乌方表现和平诚意](https://news.cctv.com/2025/03/04/ARTIZ6ALSIisAksk6DmvRLYK250304.shtml)
+
++ [两会世界眼｜新动能 新机遇 新启迪——世界瞩目2025年中国两会](https://news.cctv.com/2025/03/04/ARTILW6yA2LhCXj3GySpTjCW250304.shtml)
+
++ [漫评美乱挥“关税大棒”：“雪上加霜”](https://news.cctv.com/2025/03/04/ARTIHSl1xfY54yC9iWRr5A0W250304.shtml)
+
++ [多位外国记者期待通过两会了解中国未来发展蓝图](https://news.cctv.com/2025/03/04/ARTIypsnK14cQzrqvMVf3Eyi250304.shtml)
+
++ [说采就采的两会Vlog｜街头“撞见”的“洋朋友”因为什么爱上中国？](https://news.cctv.com/2025/03/04/ARTIBlju9DvKYN0lazqFezTo250304.shtml)
+
++ [欧洲经济界人士表示：中国重视民企发展值得期待](https://jingji.cctv.com/2025/03/04/ARTI74zGUtK6mWky5dnch7Ms250304.shtml)
+
