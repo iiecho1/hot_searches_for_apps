@@ -63,3 +63,5 @@
 
 + [【千璃Senri】嗵嗵](https://m.acfun.cn/v/%3Fac%3D46958798)
 
++ [写一首歌告别方大同，感谢曾与你《同游》](https://m.acfun.cn/v/%3Fac%3D46957116)
+
