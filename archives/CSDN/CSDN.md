@@ -175,3 +175,7 @@
 
 + [【超全】YOLO系列综述： 从YOLOv1到YOLOv12，记录YOLO发展的十年](https://blog.csdn.net/qq_42589613/article/details/145958257)
 
++ [linux启程指南——体悟虚拟开源天地的漫步翩翩](https://blog.csdn.net/2303_81060385/article/details/145094696)
+
++ [DeepSeek R1与微信集成的医疗提示词工程改造方案（Discuss V1版）](https://blog.csdn.net/kkiron/article/details/146006350)
+

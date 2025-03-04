@@ -199,3 +199,9 @@
 
 + [科隆狂欢节：“玫瑰星期一”大游行](https://photo.cctv.com/2025/03/04/PHOAgsW0euyA2EG91li8DDWn250304.shtml)
 
++ [对美反制9连发，中方坚决反制美对华加征关税](https://news.cctv.com/2025/03/04/ARTIx3rplpUpjYbluuECfpmN250304.shtml)
+
++ [一语中的｜美国经济学家：美国应正视中国的崛起，而非试图遏制](https://news.cctv.com/2025/03/04/ARTIRWr5JdJ9e7Qj5s3StNrz250304.shtml)
+
++ [日本大船渡市山火蔓延 四千余人被要求疏散](https://news.cctv.com/2025/03/04/ARTIQyvk40cuDgxgoSsykmIr250304.shtml)
+
