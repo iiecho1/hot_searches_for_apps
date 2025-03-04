@@ -101,3 +101,7 @@
 
 + [【HTTP】解码网络通信的奥秘：HTTP,IP 地址,端口,DNS及NAT地址转换的协同之舞](https://blog.csdn.net/m0_75192474/article/details/145670579)
 
++ [k8s架构及服务详解](https://blog.csdn.net/u014723137/article/details/145991333)
+
++ [Flutter实现短信验证码监控与转发](https://blog.csdn.net/m0_50111178/article/details/145984248)
+
