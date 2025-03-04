@@ -179,3 +179,7 @@
 
 + [DeepSeek R1与微信集成的医疗提示词工程改造方案（Discuss V1版）](https://blog.csdn.net/kkiron/article/details/146006350)
 
++ [零知识证明在区块链加密货币中的应用分析 ](https://blog.csdn.net/m0_73514785/article/details/145958775)
+
++ [基于云部署DeepSeek自动分析整合Dou音爆款视频数据](https://blog.csdn.net/beishang_1/article/details/146005702)
+
