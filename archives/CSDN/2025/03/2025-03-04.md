@@ -145,3 +145,11 @@
 
 + [如何使用Spring Boot框架整合Redis：超详细案例教程](https://blog.csdn.net/m0_54850786/article/details/145969760)
 
++ [Java 大视界 -- Java 大数据在智能安防入侵检测与行为分析中的应用（108）](https://blog.csdn.net/atgfg/article/details/145956138)
+
++ [【一起学Rust | Tauri2.0框架】基于 Rust 与 Tauri 2.0 框架实现跨平台二维码扫描应用](https://blog.csdn.net/weixin_47754149/article/details/145725982)
+
++ [深度探索AI | 智算云平台与DeepSeek 的多元联动应用与模型微调全解析](https://blog.csdn.net/weixin_43151418/article/details/145992400)
+
++ [被 YOLO 版本号 PUA 的这三年：一个研究生的血泪反思](https://blog.csdn.net/weixin_43694096/article/details/145994819)
+
