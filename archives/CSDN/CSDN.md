@@ -161,3 +161,11 @@
 
 + [【Spark+Hive】基于Spark大数据技术小红书舆情分析可视化预测系统（完整系统源码+数据库+开发笔记+详细部署教程+虚拟机分布式启动教程）✅](https://blog.csdn.net/qq_64605578/article/details/145992794)
 
++ [深入解析Tiktokenizer：大语言模型中核心分词技术的原理与架构](https://blog.csdn.net/m0_46510245/article/details/146007753)
+
++ [【现代深度学习技术】卷积神经网络04：多输入多输出通道](https://blog.csdn.net/Morse_Chen/article/details/145999754)
+
++ [使用Windbg分析dump文件定位软件异常的方法与操作步骤](https://blog.csdn.net/chenlycly/article/details/146005441)
+
++ [《白帽子讲 Web 安全》之移动 Web 安全](https://blog.csdn.net/FFNCL/article/details/145955249)
+
