@@ -189,3 +189,7 @@
 
 + [Webpack的高级应用](https://blog.csdn.net/fageaaa/article/details/145972444)
 
++ [生成式PPT的实践策略、价值探究与未来突破](https://blog.csdn.net/RenGJ010617/article/details/145990913)
+
++ [腾讯云大模型知识引擎 + DeepSeek：打造懒人专属的谷歌浏览器翻译插件](https://blog.csdn.net/lwcwam/article/details/146026348)
+
