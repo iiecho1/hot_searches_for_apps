@@ -207,3 +207,11 @@
 
 + [欧盟统计局：2024年中国为欧盟最大的进口来源地](https://news.cctv.com/2025/03/04/ARTI9A49j4a8UnNJ5G5teMhU250304.shtml)
 
++ [中国式现代化前景光明（国际论坛·读懂中国·读懂中国式现代化）](https://news.cctv.com/2025/03/04/ARTIKWig2UJnT196ElRElDdw250304.shtml)
+
++ [科威特驻华大使：中科关系为双边合作树立典范](https://news.cctv.com/2025/03/04/ARTIWOnGwyuKaUuPtHSDpOnL250304.shtml)
+
++ [外眼看中国的民主（第二集）丨“摸得着的民主，看得见的幸福”](https://news.cctv.com/2025/03/04/ARTIp1NrRWP9A79PQunnWn5w250304.shtml)
+
++ [世说中国|乌兹别克斯坦《人民言论报》副总编：中国的现代化之路蕴含丰富智慧](https://news.cctv.com/2025/03/04/ARTIN7ojIzO1ceK5KzVtCexv250304.shtml)
+

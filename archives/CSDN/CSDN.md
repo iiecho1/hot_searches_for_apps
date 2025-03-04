@@ -185,3 +185,5 @@
 
 + [Ktransformers实践-仅用14G显存就能跑Deepseek-R1 671B](https://blog.csdn.net/qq_44193969/article/details/146014746)
 
++ [让 LabVIEW 程序更稳定](https://blog.csdn.net/bjcyck/article/details/146004727)
+
