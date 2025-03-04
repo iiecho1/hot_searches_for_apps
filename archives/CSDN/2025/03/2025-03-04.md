@@ -129,3 +129,13 @@
 
 + [【服务器】Nginx](https://blog.csdn.net/taibai12/article/details/145953946)
 
++ [TensorFlow深度学习实战（10）——迁移学习详解](https://blog.csdn.net/LOVEmy134611/article/details/144276215)
+
++ [DeepSeek：开启AI联动与模型微调的无限可能](https://blog.csdn.net/beautifulmemory/article/details/145979694)
+
++ [Minio搭建并在SpringBoot中使用完成用户头像的上传](https://blog.csdn.net/m0_64365315/article/details/145964310)
+
++ [Linux中WgCloud的服务器与客户端监控系统(完整部署教程)](https://blog.csdn.net/jxjdhdnd/article/details/145991198)
+
++ [运维安全计划书，驻场安全运维服务方案（Word完整版56页原件）](https://blog.csdn.net/2302_79423711/article/details/145943412)
+

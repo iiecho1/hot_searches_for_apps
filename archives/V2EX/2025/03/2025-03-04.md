@@ -25,3 +25,11 @@
 
 + [鉴于 IT 行业日渐萎靡，开个出路探索贴](https://www.v2ex.com/t/1115375)
 
++ [提了离职一定要走吗](https://www.v2ex.com/t/1115529)
+
++ [Gap2 年想回到职场,还有机会吗.](https://www.v2ex.com/t/1115401)
+
++ [Trae，确定是中国首款 AI IDE？](https://www.v2ex.com/t/1115452)
+
++ [三月底打算带父母去北京旅游几天，各位有什么景点或者美食推荐吗](https://www.v2ex.com/t/1115512)
+
