@@ -161,3 +161,11 @@
 
 + [俄总统新闻秘书：不应期待俄美合作能快速取得成果](https://news.cctv.com/2025/03/02/ARTI9cCrrbTYm2zNKFd8xGDP250302.shtml)
 
++ [巴基斯坦西北部一军营遭恐怖分子袭击 致12死32伤](https://news.cctv.com/2025/03/05/ARTI6NTctm6x0aG0LAbdbYIW250305.shtml)
+
++ [普京已同意作为美国和伊朗核问题谈判的中间人](https://news.cctv.com/2025/03/05/ARTIV2yjMHQ1xZfjCcim5Ryb250305.shtml)
+
++ [面临重大外交挑战 德国会否再次出现“大联盟”政府](https://news.cctv.com/2025/03/05/ARTI3jy9mbiwCRd9UwR7iyBn250305.shtml)
+
++ [黎总统会见联合国秘书长 讨论黎以最新局势等](https://news.cctv.com/2025/03/05/ARTIUEYwVz46zZPoCM3GSZlr250305.shtml)
+

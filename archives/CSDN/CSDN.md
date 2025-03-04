@@ -123,3 +123,5 @@
 
 + [基于云部署DeepSeek自动分析整合Dou音爆款视频数据](https://blog.csdn.net/beishang_1/article/details/146005702)
 
++ [【计算机视觉】手势识别](https://blog.csdn.net/zkw54334/article/details/145994177)
+
