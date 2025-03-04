@@ -153,3 +153,11 @@
 
 + [被 YOLO 版本号 PUA 的这三年：一个研究生的血泪反思](https://blog.csdn.net/weixin_43694096/article/details/145994819)
 
++ [GaussDB自带诊断工具实战指南](https://blog.csdn.net/GaussDB/article/details/146006028)
+
++ [腾讯云大模型知识引擎驱动DeepSeek满血版能源革命大模型：架构、优势与产业变革](https://blog.csdn.net/2301_76341691/article/details/145992955)
+
++ [C++发展 ](https://blog.csdn.net/2401_83427936/article/details/146004943)
+
++ [【Spark+Hive】基于Spark大数据技术小红书舆情分析可视化预测系统（完整系统源码+数据库+开发笔记+详细部署教程+虚拟机分布式启动教程）✅](https://blog.csdn.net/qq_64605578/article/details/145992794)
+
