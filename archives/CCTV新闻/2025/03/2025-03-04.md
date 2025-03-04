@@ -163,3 +163,11 @@
 
 + [知情人士：白宫正在制定一项可能减轻对俄制裁的计划](https://news.cctv.com/2025/03/04/ARTIXsQEufuH74fMbWrcYnN7250304.shtml)
 
++ [美国政府暂停对乌克兰军事援助](https://news.cctv.com/2025/03/04/ARTI299ptksoQ0Hb3ztkPGLQ250304.shtml)
+
++ [联合国机构：加沙过境点关闭导致面粉和蔬菜价格上涨超100倍](https://news.cctv.com/2025/03/04/ARTIgQMBQH7xz8yAnl26Srjz250304.shtml)
+
++ [金与正：谴责美国无视朝鲜关切 再次派遣战略资产进入朝鲜半岛](https://news.cctv.com/2025/03/04/ARTIE48tNrFUAIW7pS487NcN250304.shtml)
+
++ [俄罗斯宣布无限期禁止9名日本公民入境](https://news.cctv.com/2025/03/04/ARTILE51CXTX9DhGaVLs3om9250304.shtml)
+
