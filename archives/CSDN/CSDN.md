@@ -183,3 +183,5 @@
 
 + [基于云部署DeepSeek自动分析整合Dou音爆款视频数据](https://blog.csdn.net/beishang_1/article/details/146005702)
 
++ [Ktransformers实践-仅用14G显存就能跑Deepseek-R1 671B](https://blog.csdn.net/qq_44193969/article/details/146014746)
+
