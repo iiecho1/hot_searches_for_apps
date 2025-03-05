@@ -203,3 +203,7 @@
 
 + [《DeepSeek从部署到安全分析实战》](https://blog.csdn.net/weixin_45802999/article/details/145990955)
 
++ [【AIGC】通义万相 2.1 与蓝耘智算：共绘 AIGC 未来绚丽蓝图](https://blog.csdn.net/2401_87848736/article/details/146050524)
+
++ [探索Elasticsearch：文档的CRUD](https://blog.csdn.net/2201_75732091/article/details/145976350)
+
