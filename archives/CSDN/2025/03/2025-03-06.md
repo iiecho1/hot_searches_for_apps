@@ -101,3 +101,9 @@
 
 + [Java 大视界 -- Java 大数据在智能金融反欺诈中的技术实现与案例分析（114）](https://blog.csdn.net/atgfg/article/details/146026311)
 
++ [蓝耘智算平台部署通义万相2.1文生图技术详解](https://blog.csdn.net/GGDxianv/article/details/146037573)
+
++ [DeepSeek开源周开源的五个项目分析](https://blog.csdn.net/ccsss22/article/details/146026097)
+
++ [探索Elasticsearch：文档的CRUD](https://blog.csdn.net/2201_75732091/article/details/145976350)
+
