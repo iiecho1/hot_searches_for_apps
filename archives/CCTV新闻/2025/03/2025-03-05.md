@@ -185,3 +185,7 @@
 
 + [特朗普：美国“无论如何都将得到格陵兰岛”](https://news.cctv.com/2025/03/05/ARTIVAYrbeilG2dflcQQtjBc250305.shtml)
 
++ [石破茂：日本不会根据美国的要求决定防卫费](https://news.cctv.com/2025/03/05/ARTIcvDsg6W81l4I4oAbAmoq250305.shtml)
+
++ [新华社社评：为推进中国式现代化凝聚奋进力量——热烈祝贺十四届全国人大三次会议开幕](https://news.cctv.com/2025/03/05/ARTIyW31PUzRuutbk2YwXENU250305.shtml)
+
