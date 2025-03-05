@@ -107,3 +107,15 @@
 
 + [探索Elasticsearch：文档的CRUD](https://blog.csdn.net/2201_75732091/article/details/145976350)
 
++ [【现代深度学习技术】卷积神经网络04：多输入多输出通道](https://blog.csdn.net/Morse_Chen/article/details/145999754)
+
++ [深入解析图神经网络注意力机制：数学原理与可视化实现](https://blog.csdn.net/m0_46510245/article/details/146035404)
+
++ [决策树（Decision Tree）案例分析](https://blog.csdn.net/qq_51701007/article/details/146019453)
+
++ [2025华为软件精英挑战赛FAQ & 空宣来袭](https://blog.csdn.net/devcloud/article/details/146047823)
+
++ [探索AIGC未来：通义万相2.1与蓝耘智算平台的完美结合释放AI生产力](https://blog.csdn.net/2301_81313679/article/details/146051700)
+
++ [基于springboot+uniapp+vue的医院预约挂号系统小程序](https://blog.csdn.net/shmp54/article/details/146029868)
+
