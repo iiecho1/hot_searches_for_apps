@@ -161,3 +161,5 @@
 
 + [美国支持以色列阻止一切物资进入加沙地带的决定](https://news.cctv.com/2025/03/03/ARTIDxeHjDhmYrFe4OzTWK5u250303.shtml)
 
++ [哈马斯：对与除以色列外的国际各方接触均“保持开放态度”](https://news.cctv.com/2025/03/06/ARTIbrN6gtpNEgQkApBdmW1b250306.shtml)
+
