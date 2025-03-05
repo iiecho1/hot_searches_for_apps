@@ -131,3 +131,9 @@
 
 + [IDEA 接入 Deepseek](https://blog.csdn.net/u013257321/article/details/145979597)
 
++ [DeepSeek 助力 Vue3 开发：打造丝滑的密码输入框（Password Input）](https://blog.csdn.net/qq_33650655/article/details/145903079)
+
++ [基于python的网络爬虫爬取天气数据及可视化分析（Matplotlib、sk-learn等，包括ppt，视频）](https://blog.csdn.net/web15085415935/article/details/145969193)
+
++ [优选算法的智慧之光：滑动窗口专题(二)](https://blog.csdn.net/2401_85198927/article/details/145923518)
+
