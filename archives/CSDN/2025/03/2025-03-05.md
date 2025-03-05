@@ -191,3 +191,15 @@
 
 + [生成对抗网络（GAN）在图像生成中的应用与优化策略研究【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/146007791)
 
++ [AI数据分析：deepseek生成SQL](https://blog.csdn.net/atbigapp/article/details/145992663)
+
++ [GPTs+RPA赋能智慧校园：构建下一代教育智能体的技术实践](https://blog.csdn.net/qq_32682301/article/details/146048079)
+
++ [蓝耘 × 通义万相 2.1，AIGC 双雄合璧，点燃数字艺术新引擎](https://blog.csdn.net/2401_84813926/article/details/146050426)
+
++ [一弱三高网络安全 网络安全 三高一弱](https://blog.csdn.net/2401_88857275/article/details/146028016)
+
++ [Spring统一格式返回](https://blog.csdn.net/m0_73233932/article/details/145979796)
+
++ [《DeepSeek从部署到安全分析实战》](https://blog.csdn.net/weixin_45802999/article/details/145990955)
+
