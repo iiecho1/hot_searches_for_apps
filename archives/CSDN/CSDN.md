@@ -165,3 +165,7 @@
 
 + [如何本地部署大模型及性能优化指南（附避坑要点）](https://blog.csdn.net/Memory_mumu/article/details/145990340)
 
++ [【DeepSeek+LLaMA-Factory+Lora+FastAPI】开发人员如何微调大模型并暴露接口给后端调用（理论）](https://blog.csdn.net/weixin_40816738/article/details/145992919)
+
++ [【AIGC文生图】通义万相2.1应用拓展与蓝耘云平台实践](https://blog.csdn.net/Skrrapper/article/details/146039261)
+

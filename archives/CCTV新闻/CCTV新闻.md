@@ -177,3 +177,7 @@
 
 + [波黑群山间的中国风电实践](https://news.cctv.com/2025/03/05/ARTIkdeaNSnUa4A8rvCnrtrs250305.shtml)
 
++ [岸田文雄遇袭案被告木村隆二就判决结果提出上诉](https://news.cctv.com/2025/03/05/ARTIc4C9URADMya0T4DJGLdM250305.shtml)
+
++ [缅甸发生5.4级地震，震源深度30千米](https://news.cctv.com/2025/03/05/ARTIskcxfeHkpRfoPscHaGsp250305.shtml)
+
