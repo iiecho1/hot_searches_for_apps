@@ -31,3 +31,27 @@
 
 + [jjleng/copilot-more](https://github.com/jjleng/copilot-more)
 
++ [gorhill/uBlock](https://github.com/gorhill/uBlock)
+
++ [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+
++ [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+
++ [influxdata/telegraf](https://github.com/influxdata/telegraf)
+
++ [commixproject/commix](https://github.com/commixproject/commix)
+
++ [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+
++ [cloudwego/eino](https://github.com/cloudwego/eino)
+
++ [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
++ [stretchr/testify](https://github.com/stretchr/testify)
+
++ [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+
++ [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+
++ [coturn/coturn](https://github.com/coturn/coturn)
+

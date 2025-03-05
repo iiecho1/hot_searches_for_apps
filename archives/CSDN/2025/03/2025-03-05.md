@@ -181,3 +181,11 @@
 
 + [GaussDB性能诊断核心武器：EXPLAIN ANALYZE 与执行计划](https://blog.csdn.net/GaussDB/article/details/146009441)
 
++ [AI 视频争霸：通义万相 2.1 凭啥让画面质量和稳定性远超同行？](https://blog.csdn.net/weixin_73295475/article/details/146039922)
+
++ [通义万相2.1携手蓝耘智算，开启AIGC新篇章](https://blog.csdn.net/weixin_66401877/article/details/146026054)
+
++ [《YOLOv12魔术师专栏》专栏介绍 & 专栏目录](https://blog.csdn.net/m0_63774211/article/details/146040295)
+
++ [Java 大视界 -- Java 大数据在智能金融反欺诈中的技术实现与案例分析（114）](https://blog.csdn.net/atgfg/article/details/146026311)
+
