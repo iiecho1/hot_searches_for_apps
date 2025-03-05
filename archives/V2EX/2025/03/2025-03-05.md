@@ -19,3 +19,5 @@
 
 + [太抽象了，绷不住了](https://www.v2ex.com/t/1115826)
 
++ [你们 iPad 现在都在干什么用？又想买 iPad 了，罪过](https://www.v2ex.com/t/1115819)
+
