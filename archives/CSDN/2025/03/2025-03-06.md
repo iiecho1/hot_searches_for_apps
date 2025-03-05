@@ -119,3 +119,11 @@
 
 + [基于springboot+uniapp+vue的医院预约挂号系统小程序](https://blog.csdn.net/shmp54/article/details/146029868)
 
++ [蓝耘智算携手通义万相2.1：助力 AIGC 生成效率与性能的革新实践](https://blog.csdn.net/bite_zwy/article/details/146039624)
+
++ [《OpenCV》—— dlib（换脸操作）](https://blog.csdn.net/lou0720/article/details/146024809)
+
++ [Spring Boot如何利用Twilio Verify 发送验证码短信？](https://blog.csdn.net/dot_life/article/details/146026030)
+
++ [【Linux网络#15】：DNS 协议 & ICMP 协议](https://blog.csdn.net/island1314/article/details/145987912)
+
