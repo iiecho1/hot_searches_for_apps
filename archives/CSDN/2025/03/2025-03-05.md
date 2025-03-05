@@ -171,3 +171,7 @@
 
 + [【AIGC实战】蓝耘元生代部署通义万相2.1文生图，结尾附上提示词合集](https://blog.csdn.net/null18/article/details/146034906)
 
++ [【音视频 | AAC】AAC解码库faad2介绍、使用步骤、例子代码](https://blog.csdn.net/wkd_007/article/details/146030393)
+
++ [mongodb,redis,hbase都是nosql数据库，其最大区别和不同定位是什么？redis为什么可以做到百万级QPS？](https://blog.csdn.net/concisedistinct/article/details/146018410)
+

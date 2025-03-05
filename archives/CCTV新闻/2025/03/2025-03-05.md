@@ -181,3 +181,7 @@
 
 + [缅甸发生5.4级地震，震源深度30千米](https://news.cctv.com/2025/03/05/ARTIskcxfeHkpRfoPscHaGsp250305.shtml)
 
++ [阿塞拜疆巴库一炼油厂发生火灾](https://news.cctv.com/2025/03/05/ARTI5LsXs3L0FAr9BYI8jUPa250305.shtml)
+
++ [特朗普：美国“无论如何都将得到格陵兰岛”](https://news.cctv.com/2025/03/05/ARTIVAYrbeilG2dflcQQtjBc250305.shtml)
+
