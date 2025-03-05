@@ -163,3 +163,9 @@
 
 + [哈马斯：对与除以色列外的国际各方接触均“保持开放态度”](https://news.cctv.com/2025/03/06/ARTIbrN6gtpNEgQkApBdmW1b250306.shtml)
 
++ [南非谴责以色列暂停允许人道援助进入加沙](https://news.cctv.com/2025/03/06/ARTInElJpKVgbD4eybuawtTU250306.shtml)
+
++ [法国总统马克龙：拒绝签订一个脆弱的俄乌停火协议](https://news.cctv.com/2025/03/06/ARTIC7Bvd92Jj9GKivInuf52250306.shtml)
+
++ [白宫：美国正在重新考虑为乌克兰提供资金](https://news.cctv.com/2025/03/06/ARTIwg58dTNB5BwZvT8bfAQL250306.shtml)
+

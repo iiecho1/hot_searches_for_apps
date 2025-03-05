@@ -129,3 +129,5 @@
 
 + [Spring Boot的启动流程](https://blog.csdn.net/chi_666/article/details/146001675)
 
++ [责任链模式：优雅处理复杂流程的设计艺术](https://blog.csdn.net/qq_73450329/article/details/146024221)
+
