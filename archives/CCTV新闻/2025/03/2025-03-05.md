@@ -189,3 +189,17 @@
 
 + [新华社社评：为推进中国式现代化凝聚奋进力量——热烈祝贺十四届全国人大三次会议开幕](https://news.cctv.com/2025/03/05/ARTIyW31PUzRuutbk2YwXENU250305.shtml)
 
++ [全球瞭望丨阿根廷媒体：两会让世界更好了解中国民主理念](https://news.cctv.com/2025/03/05/ARTIpyrLKinUVHdxJBpwWyPe250305.shtml)
+
++ [【世界看两会】国际人士：规划清晰并为之努力 中国为全球发展注入更多稳定因素](https://news.cctv.com/2025/03/05/ARTIxZXN2PKhe5vmGAfsqNMm250305.shtml)
+
++ [波兰专家：美加征关税是“荒谬之举”](https://news.cctv.com/2025/03/05/ARTIFJpqOwuGai9zMZi3GE2M250305.shtml)
+
++ [全球瞭望丨美媒：美国经济衰退风险越来越高](https://news.cctv.com/2025/03/05/ARTItKdURkGaZOxTSC3ASNm4250305.shtml)
+
++ [世说中国丨坦桑尼亚《卫报》国际版主编：中国式民主确保国家决策汇聚广泛民意](https://news.cctv.com/2025/03/05/ARTIzRSrBbL1CdxewtDtGvwJ250305.shtml)
+
++ [“中国创新能力迅速提升”——访国际货币基金组织中东地区顾问纳赛尔·赛义迪](https://news.cctv.com/2025/03/05/ARTIuxRJLwz9T2AHqMW8CyYl250305.shtml)
+
++ [来而不往非礼也！对美反制，我们工具更丰富](https://news.cctv.com/2025/03/05/ARTIvmo7gVWr2CTtV19ZZh9b250305.shtml)
+

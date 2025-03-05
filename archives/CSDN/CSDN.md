@@ -189,3 +189,5 @@
 
 + [Java 大视界 -- Java 大数据在智能金融反欺诈中的技术实现与案例分析（114）](https://blog.csdn.net/atgfg/article/details/146026311)
 
++ [生成对抗网络（GAN）在图像生成中的应用与优化策略研究【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/146007791)
+
