@@ -141,3 +141,7 @@
 
 + [【DeepSeek应用实践】DeepSeek接入Word、WPS方法详解：无需代码，轻松实现智能办公助手功能](https://blog.csdn.net/xiaobing259/article/details/145943656)
 
++ [【AI大模型】DeepSeek + Kimi 高效制作PPT实战详解](https://blog.csdn.net/zhangcongyi420/article/details/146024407)
+
++ [微服务中的服务保护方案：确保系统稳定与安全](https://blog.csdn.net/weixin_74888502/article/details/146028109)
+
