@@ -137,3 +137,7 @@
 
 + [优选算法的智慧之光：滑动窗口专题(二)](https://blog.csdn.net/2401_85198927/article/details/145923518)
 
++ [Redis7——进阶篇（二）](https://blog.csdn.net/m0_48860687/article/details/145963992)
+
++ [【DeepSeek应用实践】DeepSeek接入Word、WPS方法详解：无需代码，轻松实现智能办公助手功能](https://blog.csdn.net/xiaobing259/article/details/145943656)
+
