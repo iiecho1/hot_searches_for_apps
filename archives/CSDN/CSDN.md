@@ -169,3 +169,5 @@
 
 + [【AIGC文生图】通义万相2.1应用拓展与蓝耘云平台实践](https://blog.csdn.net/Skrrapper/article/details/146039261)
 
++ [【AIGC实战】蓝耘元生代部署通义万相2.1文生图，结尾附上提示词合集](https://blog.csdn.net/null18/article/details/146034906)
+
