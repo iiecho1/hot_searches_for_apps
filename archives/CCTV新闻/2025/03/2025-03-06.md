@@ -251,3 +251,11 @@
 
 + [乌官员称“爱国者”导弹库存或将在几周内耗尽](https://news.cctv.com/2025/03/06/ARTIkYrzlPfeXwHbwkOqvOPG250306.shtml)
 
++ [消息人士称哈马斯与以色列将在“不久的将来”进入停火协议第二阶段](https://news.cctv.com/2025/03/06/ARTIizaDxmYI8a94EKiqWLwu250306.shtml)
+
++ [荷兰阿纳姆市中心发生火灾 多座历史建筑被毁](https://news.cctv.com/2025/03/06/ARTIv9WtoNuCJwjdKIusoz6V250306.shtml)
+
++ [欧盟特别峰会即将召开 欧洲领导人陆续抵达布鲁塞尔](https://news.cctv.com/2025/03/06/ARTIp9gqIfqFkHUPHhw3FWdk250306.shtml)
+
++ [应北约请求 瑞典将派“鹰狮”战机赴波兰保护援乌后勤枢纽](https://news.cctv.com/2025/03/06/ARTId5XN3IWAmD7508qxnmzm250306.shtml)
+
