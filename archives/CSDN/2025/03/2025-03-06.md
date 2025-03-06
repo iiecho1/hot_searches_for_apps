@@ -185,3 +185,5 @@
 
 + [实测最好用的AI编程工具Trae：国内版本与海外版本对比分析](https://blog.csdn.net/qq_24306131/article/details/146006709)
 
++ [【Linux】手动部署并测试内网穿透](https://blog.csdn.net/weixin_50776420/article/details/146000882)
+

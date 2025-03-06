@@ -129,3 +129,9 @@
 
 + [偷偷过来更新辣](https://m.acfun.cn/v/%3Fac%3D46964719)
 
++ [【摄影记录】现在1块钱可以买到什么样的快乐？哪吒三太子勇闯南海](https://m.acfun.cn/v/%3Fac%3D46964725)
+
++ [【櫻坂46字幕组】2025.3.2「转角就是櫻坂吗？」EP224 第二届 櫻坂46同感发表会 下](https://m.acfun.cn/v/%3Fac%3D46966586)
+
++ [NinjaBlade忍者刀首张全原创曲专辑「Chasing the Blade」披露](https://m.acfun.cn/v/%3Fac%3D46963295)
+
