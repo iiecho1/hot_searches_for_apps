@@ -169,3 +169,7 @@
 
 + [SpringBoot为什么默认使用CGLIB?](https://blog.csdn.net/caoli201314/article/details/146052348)
 
++ [WebGPU：前端图形性能的新纪元——开启浏览器高性能计算新时代](https://blog.csdn.net/qq_34419312/article/details/146027648)
+
++ [【SpringBoot】一文讲懂什么是scanBasePackages](https://blog.csdn.net/2301_79728896/article/details/146022079)
+
