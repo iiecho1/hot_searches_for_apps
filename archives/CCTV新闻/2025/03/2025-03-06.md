@@ -187,3 +187,27 @@
 
 + [马克龙：将就向欧洲提供“核保护伞”开展战略讨论](https://news.cctv.com/2025/03/06/ARTIb9nyK5Ks8KmzVmKX9vln250306.shtml)
 
++ [美国关税威胁下 墨西哥总统强硬发声：绝不屈服 将另寻贸易伙伴](https://news.cctv.com/2025/03/06/ARTIBL4txwcPsxRjlrbEg4L6250306.shtml)
+
++ [炮弹坠入民宅已致7人受伤 韩国空军：战斗机误发空对地导弹](https://news.cctv.com/2025/03/06/ARTIgZidNlF6do8H9rBCA1Qx250306.shtml)
+
++ [以色列暂停援助致加沙物价飞涨 各方呼吁放行物资](https://news.cctv.com/2025/03/06/ARTIduTIddQEWEGc8Yq20jFK250306.shtml)
+
++ [全球瞭望丨美国削减对外援助　南方国家不会悲伤](https://news.cctv.com/2025/03/06/ARTIdoHEcVwaXcHUWy6y02o1250306.shtml)
+
++ [专访丨两会让世界看到中国治理智慧——访尼日利亚通讯社社长阿里](https://news.cctv.com/2025/03/06/ARTIh6u1b1fdZrFDLLGsBQqZ250306.shtml)
+
++ [外媒看两会：中国经济韧性十足 增长目标彰显发展信心](https://news.cctv.com/2025/03/06/ARTIy8BRGWByz6PcGro83GRW250306.shtml)
+
++ [砸8千亿“重新武装欧洲” 欧盟特别峰会能达成一致吗？](https://news.cctv.com/2025/03/06/ARTI25dYUTBxpYbuYg4U83fQ250306.shtml)
+
++ [海外人士看两会：中国持续深化国际合作 传递共赢愿景](https://news.cctv.com/2025/03/06/ARTI6VDaYmzI3R6YyRq10IKm250306.shtml)
+
++ [多国驻华大使：从中国两会读懂中国机遇](https://news.cctv.com/2025/03/06/ARTIOivI8jWsmVlwsprQfU05250306.shtml)
+
++ [厄瓜多尔暴雨 已致16人死亡970人受伤](https://news.cctv.com/2025/03/06/ARTIGONNNKlvik2JBvTuFkdR250306.shtml)
+
++ [美国暂停同乌克兰分享情报](https://news.cctv.com/2025/03/06/ARTICRsvTm2YPAztDiTb9jta250306.shtml)
+
++ [疑似韩美实弹演习失误 炮弹坠入民宅已致7人受伤](https://news.cctv.com/2025/03/06/ARTIsxx8Ada3DrWsXGLu8U8J250306.shtml)
+

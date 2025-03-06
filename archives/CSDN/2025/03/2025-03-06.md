@@ -145,3 +145,7 @@
 
 + [anolis8.9-k8s1.32-master集群-二进制部署](https://blog.csdn.net/tingting0119/article/details/145927764)
 
++ [AI生成的web框架 包含前后端 k8s管理等](https://blog.csdn.net/LCY133/article/details/146014546)
+
++ [深度探索：美团开源DeepSeek R1 INT8量化技术的性能革命](https://blog.csdn.net/Xs_20240309/article/details/146027750)
+

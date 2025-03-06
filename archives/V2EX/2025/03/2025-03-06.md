@@ -29,3 +29,9 @@
 
 + [想听听看各位大佬的投资之道，你最成功的几笔投资是？](https://www.v2ex.com/t/1116022)
 
++ [diy 主机： itx 值得选择吗？](https://www.v2ex.com/t/1116225)
+
++ [在 Clash Verge 中如何像 Shadowrocket 那样配置自己的代理规则呢？](https://www.v2ex.com/t/1116106)
+
++ [怎么感觉当前环境。。。外包都投不进去了](https://www.v2ex.com/t/1116047)
+
