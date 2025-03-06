@@ -241,3 +241,5 @@
 
 + [美国证实一架“黑鹰”直升机在洪都拉斯紧急迫降](https://news.cctv.com/2025/03/06/ARTIg3NLyOsSMshmgC6Ert5g250306.shtml)
 
++ [美加“关税互殴”第一回合 特鲁多电话拒绝美方折中方案](https://news.cctv.com/2025/03/06/ARTIEcm8oXyq6AjGBnI3Ym19250306.shtml)
+

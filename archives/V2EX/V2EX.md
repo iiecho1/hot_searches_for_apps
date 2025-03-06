@@ -51,3 +51,5 @@
 
 + [manus 没人关注吗？咋看](https://www.v2ex.com/t/1116232)
 
++ [高中取消早晚自习老师激动得睡不着](https://www.v2ex.com/t/1116278)
+
