@@ -167,3 +167,13 @@
 
 + [加拿大总理与美总统通话讨论关税问题 特鲁多：内容“丰富多彩”且激烈](https://news.cctv.com/2025/03/07/ARTItbW1A5KjDvylO1bnqXQR250307.shtml)
 
++ [首次执行商业发射任务 阿丽亚娜6型火箭升空](https://news.cctv.com/2025/03/07/ARTIlTYEcP3FGNUU4kJYHvZ3250307.shtml)
+
++ [特朗普竞选集会遇刺事件调查报告将于下周公布](https://news.cctv.com/2025/03/07/ARTIP60HTvLqLRfGKPlwhBYk250307.shtml)
+
++ [美国月球着陆器“雅典娜”登陆月球但未直立](https://news.cctv.com/2025/03/07/ARTI3aBgLoJ3iNNRZlmB8u6A250307.shtml)
+
++ [特朗普称对墨西哥加征关税暂缓执行至4月2日](https://news.cctv.com/2025/03/07/ARTI6gGBAUSMVYmYrMZ5bfrz250307.shtml)
+
++ [普京：在乌克兰问题上俄罗斯不会向任何人屈服](https://news.cctv.com/2025/03/07/ARTIykup0Buge9EBUQh5ylJi250307.shtml)
+
