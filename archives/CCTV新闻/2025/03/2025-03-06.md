@@ -243,3 +243,11 @@
 
 + [美加“关税互殴”第一回合 特鲁多电话拒绝美方折中方案](https://news.cctv.com/2025/03/06/ARTIEcm8oXyq6AjGBnI3Ym19250306.shtml)
 
++ [以军新任总参谋长：今年将是重点针对加沙和伊朗的“战争年”](https://news.cctv.com/2025/03/06/ARTIH4dv9QBm9iT2FikMuZLb250306.shtml)
+
++ [法国国防部长称正在向乌克兰提供军事情报](https://news.cctv.com/2025/03/06/ARTI4a0Q4GTVOfWIuKLJQt0T250306.shtml)
+
++ [韩国地方政府要求全面中止韩美联合军演](https://news.cctv.com/2025/03/06/ARTInSNcqx3xXYWin92Z3GzQ250306.shtml)
+
++ [乌官员称“爱国者”导弹库存或将在几周内耗尽](https://news.cctv.com/2025/03/06/ARTIkYrzlPfeXwHbwkOqvOPG250306.shtml)
+
