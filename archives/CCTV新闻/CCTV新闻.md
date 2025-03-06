@@ -259,3 +259,7 @@
 
 + [应北约请求 瑞典将派“鹰狮”战机赴波兰保护援乌后勤枢纽](https://news.cctv.com/2025/03/06/ARTId5XN3IWAmD7508qxnmzm250306.shtml)
 
++ [匈牙利总理：同意加强欧洲防御能力建设 但应由欧盟各成员国主导](https://news.cctv.com/2025/03/06/ARTI3l7s1BBxLvbVTsRjFNru250306.shtml)
+
++ [巴拿马运河管理局：巴拿马运河并未调整通行费和通行权](https://news.cctv.com/2025/03/06/ARTIceKLVUDwcB0iKnEgxV50250306.shtml)
+
