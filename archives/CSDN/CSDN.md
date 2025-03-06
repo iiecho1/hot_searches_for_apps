@@ -107,3 +107,23 @@
 
 + [【Linux】手动部署并测试内网穿透](https://blog.csdn.net/weixin_50776420/article/details/146000882)
 
++ [AI 视频争霸：通义万相 2.1 凭啥让画面质量和稳定性远超同行？](https://blog.csdn.net/weixin_73295475/article/details/146039922)
+
++ [DeepSeek大模型深度解析：架构、技术与应用全景](https://blog.csdn.net/qq_16242613/article/details/146001002)
+
++ [自学网络安全（黑客技术）2024年 —100天学习计划](https://blog.csdn.net/2401_85026291/article/details/146033033)
+
++ [React Server Components：高性能React开发](https://blog.csdn.net/qq_34419312/article/details/146001841)
+
++ [π0源码解析——一个模型控制7种机械臂：对开源VLA sota之π0源码的全面分析，含我司的部分落地实践](https://blog.csdn.net/v_JULY_v/article/details/146068251)
+
++ [人工智能大模型培训讲师叶梓分享多智能体协作新框架AGENTVERSE：探索协作行为与效率提升](https://blog.csdn.net/yetzi1975/article/details/146041914)
+
++ [阿里深夜推出全新推理模型，仅1/20参数媲美DeepSeek R1满血版](https://blog.csdn.net/YYDS_54/article/details/146064045)
+
++ [【粉丝福利社】鸿蒙HarmonyOS NEXT开发之路 卷1：ArkTS语言篇](https://blog.csdn.net/aa2528877987/article/details/146076945)
+
++ [基于springboot+uniapp+vue的医院预约挂号系统小程序](https://blog.csdn.net/shmp54/article/details/146029868)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的表格（Table）示例5: 搜索和过滤](https://blog.csdn.net/qq_33650655/article/details/146025532)
+
