@@ -175,3 +175,15 @@
 
 + [反制美国加征关税措施 加拿大有几张牌能打？](https://news.cctv.com/2025/03/06/ARTINcrynI2YWnENLoXWzCOV250306.shtml)
 
++ [美以反对埃及版加沙重建计划 埃及谴责以色列“顽固”](https://news.cctv.com/2025/03/06/ARTImODIZ38ZYijuXsKhSerF250306.shtml)
+
++ [阿根廷一架波音飞机因发动机故障紧急降落](https://news.cctv.com/2025/03/06/ARTIG8FCPQSWMzymL1d1BSlI250306.shtml)
+
++ [韩国京畿道发生炮弹落入民宅事故 已致3人受伤](https://news.cctv.com/2025/03/06/ARTIAsyKF9S6KqFB1FmgXIrT250306.shtml)
+
++ [巴拿马运河管理局驳斥让美军舰免费通行的说法](https://news.cctv.com/2025/03/06/ARTIwr4qdJeWOF7xyHVRVGss250306.shtml)
+
++ [美国农业部被解雇的数千名员工暂时恢复原职](https://news.cctv.com/2025/03/06/ARTI38retzRdygfGkgjy01Tq250306.shtml)
+
++ [马克龙：将就向欧洲提供“核保护伞”开展战略讨论](https://news.cctv.com/2025/03/06/ARTIb9nyK5Ks8KmzVmKX9vln250306.shtml)
+

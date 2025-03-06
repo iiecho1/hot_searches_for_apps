@@ -69,3 +69,5 @@
 
 + [【东方/爵士】春色小径【Active NEETs 東方爆音ジャズ7】](https://m.acfun.cn/v/%3Fac%3D46957772)
 
++ [《绝世豪猫》](https://m.acfun.cn/v/%3Fac%3D46963790)
+

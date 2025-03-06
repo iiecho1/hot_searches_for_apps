@@ -137,3 +137,11 @@
 
 + [Go语言学习系列——第一个 Go 程序——【坚果派-红目香薰】](https://blog.csdn.net/feng8403000/article/details/146026423)
 
++ [毕业项目推荐：基于yolov8/yolov5/yolo11的田间杂草检测识别系统（python+卷积神经网络）](https://blog.csdn.net/weixin_71667732/article/details/146011795)
+
++ [【Linux网络#16】：NAT 技术& 代理服务器 & 内网穿透](https://blog.csdn.net/island1314/article/details/145968104)
+
++ [PyCharm 对接 DeepSeek 大模型的详细操作流程](https://blog.csdn.net/qq_22497491/article/details/145998242)
+
++ [anolis8.9-k8s1.32-master集群-二进制部署](https://blog.csdn.net/tingting0119/article/details/145927764)
+
