@@ -101,3 +101,9 @@
 
 + [deepseek助力运维和监控自动化](https://blog.csdn.net/Jailman/article/details/146006474)
 
++ [Manus：中国AI创新力，开启通用智能体的新时代](https://blog.csdn.net/YuKeeHgg/article/details/146070052)
+
++ [【人工智能】异构算力重构AIGC | 蓝耘智算平台部署通义万相2.1文生图技术全解析](https://blog.csdn.net/EterNity_TiMe_/article/details/146029949)
+
++ [【Linux】手动部署并测试内网穿透](https://blog.csdn.net/weixin_50776420/article/details/146000882)
+

@@ -161,3 +161,9 @@
 
 + [科威特驻华大使：中科关系为双边合作树立典范](https://news.cctv.com/2025/03/04/ARTIWOnGwyuKaUuPtHSDpOnL250304.shtml)
 
++ [关税措施影响持续 纽约股市三大股指开盘延续跌势](https://news.cctv.com/2025/03/07/ARTIx4MAPDT2zGSgEN192GKt250307.shtml)
+
++ [苏丹在国际法院起诉阿联酋 指控其向快速支援部队提供武器](https://news.cctv.com/2025/03/07/ARTIHFVW5zpV1kZ8GGc0D0k1250307.shtml)
+
++ [加拿大总理与美总统通话讨论关税问题 特鲁多：内容“丰富多彩”且激烈](https://news.cctv.com/2025/03/07/ARTItbW1A5KjDvylO1bnqXQR250307.shtml)
+

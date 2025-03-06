@@ -61,3 +61,5 @@
 
 + [NinjaBlade忍者刀首张全原创曲专辑「Chasing the Blade」披露](https://m.acfun.cn/v/%3Fac%3D46963295)
 
++ [大哥要吃干烧鱼，可担心大厨做不好，老板娘说不好吃就免单，自信](https://m.acfun.cn/v/%3Fac%3D46966771)
+
