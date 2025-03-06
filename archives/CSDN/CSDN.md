@@ -131,3 +131,7 @@
 
 + [蓝耘智算平台助力阿里万相2.1：文生图创作攻略](https://blog.csdn.net/2302_78391795/article/details/146052358)
 
++ [鸿蒙与DeepSeek深度整合：构建下一代智能操作系统生态](https://blog.csdn.net/qq_16242613/article/details/146026995)
+
++ [【MySQL】事务(中)](https://blog.csdn.net/2302_81805546/article/details/145990345)
+
