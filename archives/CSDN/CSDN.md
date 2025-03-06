@@ -161,3 +161,5 @@
 
 + [C++20 协程：异步编程的演进](https://blog.csdn.net/Z_oioihoii/article/details/146050801)
 
++ [在【k8s】中部署Jenkins的实践指南](https://blog.csdn.net/weixin_53269650/article/details/146060495)
+

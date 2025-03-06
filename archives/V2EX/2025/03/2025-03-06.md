@@ -47,3 +47,7 @@
 
 + [MBP Intel 升级成 M 后，会有酣畅淋漓的感觉吗？来自 2019 年的呼唤](https://www.v2ex.com/t/1116143)
 
++ [用 PC 的大佬们都用什么浏览器啊？小小调研下](https://www.v2ex.com/t/1116299)
+
++ [manus 没人关注吗？咋看](https://www.v2ex.com/t/1116232)
+
