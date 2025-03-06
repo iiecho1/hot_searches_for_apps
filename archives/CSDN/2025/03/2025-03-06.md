@@ -163,3 +163,5 @@
 
 + [在【k8s】中部署Jenkins的实践指南](https://blog.csdn.net/weixin_53269650/article/details/146060495)
 
++ [Dify+DeepSeek | Excel数据一键可视化（创建步骤案例）（echarts助手.yml）（文档表格转图表、根据表格绘制图表、Excel绘制图表）](https://blog.csdn.net/Dontla/article/details/146008305)
+

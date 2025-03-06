@@ -237,3 +237,7 @@
 
 + [视频丨韩国空军战机误击居民区致15人受伤 现场画面曝光→](https://news.cctv.com/2025/03/06/ARTIhTjHDbaRFyVZheL89TQ9250306.shtml)
 
++ [亚历山大·达尔奇耶夫被正式任命为俄罗斯驻美国大使](https://news.cctv.com/2025/03/06/ARTIPLzwGGjmwH0SpFhZonVA250306.shtml)
+
++ [美国证实一架“黑鹰”直升机在洪都拉斯紧急迫降](https://news.cctv.com/2025/03/06/ARTIg3NLyOsSMshmgC6Ert5g250306.shtml)
+
