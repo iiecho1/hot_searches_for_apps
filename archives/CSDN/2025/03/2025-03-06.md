@@ -155,3 +155,9 @@
 
 + [P10904 [蓝桥杯 2024 省 C] 挖矿](https://blog.csdn.net/illhm/article/details/145974657)
 
++ [Java开发者如何接入并使用DeepSeek](https://blog.csdn.net/weixin_43856625/article/details/146045726)
+
++ [202年充电计划——自学手册 网络安全（黑客技术）](https://blog.csdn.net/2401_85027424/article/details/146021720)
+
++ [C++20 协程：异步编程的演进](https://blog.csdn.net/Z_oioihoii/article/details/146050801)
+

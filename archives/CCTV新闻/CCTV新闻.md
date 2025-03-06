@@ -221,3 +221,15 @@
 
 + [“北溪”管道爆炸泄漏甲烷量远高于估计](https://news.cctv.com/2025/03/06/ARTI5PBWyol4TzDANvYSaUkJ250306.shtml)
 
++ [欧盟气候机构：全球海冰覆盖范围创历史新低](https://news.cctv.com/2025/03/06/ARTIpFPaHTdTgRjCqS7YVzWA250306.shtml)
+
++ [美国“退群” 世卫组织：经费减少严重威胁结核病防治](https://news.cctv.com/2025/03/06/ARTIaGhFj8fpQO7iqdqo0GOH250306.shtml)
+
++ [美媒：五角大楼被查出“浪费”8000万美元](https://news.cctv.com/2025/03/06/ARTIz5uXU2AoqgQXQYuqS32D250306.shtml)
+
++ [加拿大拒绝美方关税折中方案](https://news.cctv.com/2025/03/06/ARTIwAlPnhOa3BXwfXejTmgN250306.shtml)
+
++ [美方证实正就释放被扣押人员问题同哈马斯直接对话](https://news.cctv.com/2025/03/06/ARTIqasUYblWNTNQa3YvFmfF250306.shtml)
+
++ [英国财政大臣：加征关税增加全球经济不确定性](https://news.cctv.com/2025/03/06/ARTIlIWAfghwdWVhl8d3i8QM250306.shtml)
+
