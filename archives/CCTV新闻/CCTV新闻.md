@@ -169,3 +169,9 @@
 
 + [白宫：美国正在重新考虑为乌克兰提供资金](https://news.cctv.com/2025/03/06/ARTIwg58dTNB5BwZvT8bfAQL250306.shtml)
 
++ [担心选区议员减少 印度一官员呼吁民众“立即生娃”](https://news.cctv.com/2025/03/06/ARTIOn6S75cgWT1SG8sTBbQN250306.shtml)
+
++ [普及AI教科书受阻 韩教育部：预计2026年流程将更顺畅](https://news.cctv.com/2025/03/06/ARTIRBAcas5jBm8Dqp5dcnMr250306.shtml)
+
++ [反制美国加征关税措施 加拿大有几张牌能打？](https://news.cctv.com/2025/03/06/ARTINcrynI2YWnENLoXWzCOV250306.shtml)
+
