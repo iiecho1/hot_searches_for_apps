@@ -149,3 +149,9 @@
 
 + [深度探索：美团开源DeepSeek R1 INT8量化技术的性能革命](https://blog.csdn.net/Xs_20240309/article/details/146027750)
 
++ [C++、C#、python调用OpenCV进行图像处理耗时对比](https://blog.csdn.net/weixin_46846685/article/details/145989822)
+
++ [山东大学计算机科学与技术学院软件工程实验日志](https://blog.csdn.net/Inori_333/article/details/146008350)
+
++ [P10904 [蓝桥杯 2024 省 C] 挖矿](https://blog.csdn.net/illhm/article/details/145974657)
+

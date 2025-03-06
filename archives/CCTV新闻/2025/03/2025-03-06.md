@@ -211,3 +211,9 @@
 
 + [疑似韩美实弹演习失误 炮弹坠入民宅已致7人受伤](https://news.cctv.com/2025/03/06/ARTIsxx8Ada3DrWsXGLu8U8J250306.shtml)
 
++ [研究：印度2050年将有全球最多超重青少年，成年肥胖人口达4.5亿](https://news.cctv.com/2025/03/06/ARTIIiLLCEz4ogZ770FDdwYu250306.shtml)
+
++ [美联储报告：政策不确定性影响美国经济前景](https://news.cctv.com/2025/03/06/ARTICYIqEPbVDaRll8NN0tAK250306.shtml)
+
++ [格陵兰岛为全国大选做准备](https://photo.cctv.com/2025/03/06/PHOAQREIdAPmCMONaNFRuYj3250306.shtml)
+
