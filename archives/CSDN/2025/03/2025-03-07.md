@@ -165,3 +165,11 @@
 
 + [学习Flink：一场大数据世界的奇妙冒险](https://blog.csdn.net/Kenneth55/article/details/145842552)
 
++ [【通义万相】蓝耘智算 | 开源视频生成新纪元：通义万相2.1模型部署与测评](https://blog.csdn.net/Morse_Chen/article/details/146051413)
+
++ [【Linux系统】-----进程初相识：原理与概念全解析](https://blog.csdn.net/2301_80774875/article/details/145959503)
+
++ [【MySQL】事务（隔离性、MVCC）](https://blog.csdn.net/weixin_69380220/article/details/146024578)
+
++ [wx122基于ssm+vue+uniapp的食堂线上预约点餐系统小程序](https://blog.csdn.net/shmp54xmu/article/details/146081295)
+
