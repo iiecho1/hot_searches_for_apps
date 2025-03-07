@@ -247,3 +247,5 @@
 
 + [北约盟友是否靠得住？马克龙：靠不住的是美国](https://news.cctv.com/2025/03/07/ARTILBB0z37VWpf6qIQ0ELTY250307.shtml)
 
++ [匈牙利反对 欧盟未就援助乌克兰达成一致](https://news.cctv.com/2025/03/07/ARTIu10MQddwa9XkJgNgW035250307.shtml)
+

@@ -201,3 +201,7 @@
 
 + [Android 仿 DeepSeek 思考效果：逐字显示 AI 生成内容，支持加粗、颜色，复制内容](https://blog.csdn.net/qq_40533422/article/details/146093982)
 
++ [如何在本地部署开源通用智能体OpenManus？技术方案全解析](https://blog.csdn.net/qq_44866828/article/details/146082945)
+
++ [【C++指南】一文总结C++类和对象【中】](https://blog.csdn.net/egoist2023/article/details/145914596)
+
