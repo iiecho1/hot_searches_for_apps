@@ -21,3 +21,21 @@
 
 + [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc)
 
++ [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
+
++ [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+
++ [EFForg/rayhunter](https://github.com/EFForg/rayhunter)
+
++ [stanford-oval/storm](https://github.com/stanford-oval/storm)
+
++ [cloudwego/eino](https://github.com/cloudwego/eino)
+
++ [moby/moby](https://github.com/moby/moby)
+
++ [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
+
++ [microsoft/vscode](https://github.com/microsoft/vscode)
+
++ [vllm-project/vllm](https://github.com/vllm-project/vllm)
+

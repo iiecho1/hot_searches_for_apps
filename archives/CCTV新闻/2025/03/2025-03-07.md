@@ -233,3 +233,15 @@
 
 + [美财长：若能为和平谈判提供筹码 对俄制裁将毫不犹豫“全力以赴”](https://news.cctv.com/2025/03/07/ARTI56pUJ2mYiriFpl0ZDy9E250307.shtml)
 
++ [“扩大开放，让家乡与世界更近了”（侨界心语）](https://news.cctv.com/2025/03/07/ARTIc32TiltEl7AGNv5mAiPO250307.shtml)
+
++ [记者手记丨北欧民众“抵制美国” 美欧关系裂隙凸显](https://news.cctv.com/2025/03/07/ARTIUByXQdB6VpdbBBUXGdIN250307.shtml)
+
++ [“我们看到活力中国的无限可能”](https://news.cctv.com/2025/03/07/ARTI57F0p4TTxnavzpWsJkD5250307.shtml)
+
++ [“与中国合作，发展机遇多”（海外关注）](https://news.cctv.com/2025/03/07/ARTIVXieAtW1RalUhcL2Jhhr250307.shtml)
+
++ [外国人眼中的中国和中国两会](https://news.cctv.com/2025/03/07/ARTIgm32BqChRyDDogsstk1m250307.shtml)
+
++ [关乎中国，也影响全球——坦桑尼亚《卫报》国际版主编姆加纳谈中国两会](https://news.cctv.com/2025/03/07/ARTIoUz3s8vf3VfU8i1Gop0r250307.shtml)
+
