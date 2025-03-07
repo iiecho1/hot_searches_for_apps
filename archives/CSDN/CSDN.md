@@ -105,3 +105,23 @@
 
 + [网络安全wireshark题目](https://blog.csdn.net/Hacker_LaoYi/article/details/146071185)
 
++ [【AI 大模型】RAG 检索增强生成 ⑦ ( 本地部署向量模型 | Sentence Transformers 工具库 | 从 Hugging Face 模型库 中查找模型 | BGE 模型 )](https://blog.csdn.net/han1202012/article/details/146006527)
+
++ [Spring Web MVC(1)](https://blog.csdn.net/no_rt_h_se_v_en/article/details/146038009)
+
++ [用于管理 Elasticsearch Serverless 项目的 AI Agent](https://blog.csdn.net/UbuntuTouch/article/details/146033156)
+
++ [前端实现版本更新自动检测✅](https://blog.csdn.net/weixin_45511682/article/details/146070482)
+
++ [【DeepSeek】Ubuntu快速部署DeepSeek（Ollama方式）](https://blog.csdn.net/yueguangzhiyuan/article/details/146074334)
+
++ [【Linux系统】-----进程初相识：原理与概念全解析](https://blog.csdn.net/2301_80774875/article/details/145959503)
+
++ [【Docker系列】Docker 容器文件拷贝](https://blog.csdn.net/qyj19920704/article/details/146096978)
+
++ [Kafka，Mq，Redis作为消息队列使用时的差异？｜消息队列](https://blog.csdn.net/concisedistinct/article/details/146076124)
+
++ [什么是TiDB，什么是分布式数据库？它和 MySQL 比优缺点是什么？](https://blog.csdn.net/2508_90580492/article/details/146055113)
+
++ [Android 仿 DeepSeek 思考效果：逐字显示 AI 生成内容，支持加粗、颜色，复制内容](https://blog.csdn.net/qq_40533422/article/details/146093982)
+
