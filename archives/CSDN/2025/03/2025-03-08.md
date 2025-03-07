@@ -125,3 +125,5 @@
 
 + [Android 仿 DeepSeek 思考效果：逐字显示 AI 生成内容，支持加粗、颜色，复制内容](https://blog.csdn.net/qq_40533422/article/details/146093982)
 
++ [采用OllamaSharp实现.NET快速对接deepseek实现聊天、模型管理、流式响应等功能](https://blog.csdn.net/zzlyx99/article/details/146058383)
+
