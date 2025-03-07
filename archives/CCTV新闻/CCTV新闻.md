@@ -191,3 +191,7 @@
 
 + [美“星舰”试飞遇挫　第二级飞船解体](https://news.cctv.com/2025/03/07/ARTID3sTfYMOtlgmMTXHMPl9250307.shtml)
 
++ [美法官要求特朗普政府10日前偿还部分20亿美元外援欠款](https://news.cctv.com/2025/03/07/ARTIeuUsVhqpObmTs0zhPfZz250307.shtml)
+
++ [一周“出差”三趟求援助 泽连斯基还没拿到个准信儿？](https://news.cctv.com/2025/03/07/ARTIq9un8aJk3aPaJYvbVZ1K250307.shtml)
+
