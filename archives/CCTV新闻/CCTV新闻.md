@@ -183,3 +183,11 @@
 
 + [美国“雅典娜”着陆器登陆月球 或未处于直立状态](https://news.cctv.com/2025/03/07/ARTI5ah7UvNcGpktghCUNRqw250307.shtml)
 
++ [韩空军战机输错坐标误炸居民区 已致29人受伤](https://news.cctv.com/2025/03/07/ARTIMeK4Hj9kXJvX3hhS3O9j250307.shtml)
+
++ [联合国报告：苏丹快速支援部队在首都拘押超过1万人](https://news.cctv.com/2025/03/07/ARTIzY3eCCzKKmkzZa9106cK250307.shtml)
+
++ [SpaceX“星舰”重型火箭第八次试飞发射升空](https://photo.cctv.com/2025/03/07/PHOAa9YAdmhJ269hpjymtD6K250307.shtml)
+
++ [美“星舰”试飞遇挫　第二级飞船解体](https://news.cctv.com/2025/03/07/ARTID3sTfYMOtlgmMTXHMPl9250307.shtml)
+

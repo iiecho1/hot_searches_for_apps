@@ -25,3 +25,11 @@
 
 + [都已经 2025 年了，为什么 Java Boy 还是不能接受 var 关键字](https://www.v2ex.com/t/1116515)
 
++ [去医院做个检查被开了五百多块钱的药](https://www.v2ex.com/t/1116542)
+
++ [M1 Pro 用户换 M4 Pro 的感受和碎碎念](https://www.v2ex.com/t/1116474)
+
++ [offer 怎么选啊](https://www.v2ex.com/t/1116318)
+
++ [阿三哥会把 Windows 彻底带入深渊吗？又遇奇葩 BUG](https://www.v2ex.com/t/1116335)
+
