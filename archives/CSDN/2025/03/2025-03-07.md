@@ -197,3 +197,7 @@
 
 + [ArcGIS Pro：轻松制作地震动画，洞察灾害动态](https://blog.csdn.net/sjz2017/article/details/146081098)
 
++ [如何用HTML5 Canvas实现电子签名功能✍️](https://blog.csdn.net/weixin_45511682/article/details/146065187)
+
++ [Android 仿 DeepSeek 思考效果：逐字显示 AI 生成内容，支持加粗、颜色，复制内容](https://blog.csdn.net/qq_40533422/article/details/146093982)
+
