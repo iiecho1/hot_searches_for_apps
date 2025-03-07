@@ -137,3 +137,5 @@
 
 + [人工智能：从理论到实践的全方位解析](https://blog.csdn.net/qq_16242613/article/details/146055685)
 
++ [【AIGC文生图】通义万相2.1应用拓展与蓝耘云平台实践](https://blog.csdn.net/Skrrapper/article/details/146039261)
+

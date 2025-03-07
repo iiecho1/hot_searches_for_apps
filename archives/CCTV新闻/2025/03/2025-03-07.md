@@ -177,3 +177,7 @@
 
 + [普京：在乌克兰问题上俄罗斯不会向任何人屈服](https://news.cctv.com/2025/03/07/ARTIykup0Buge9EBUQh5ylJi250307.shtml)
 
++ [朝中社发表评论文章 谴责美韩“自由护盾”联合军演](https://news.cctv.com/2025/03/07/ARTISMeuhw2kpJG1v0x9UEGp250307.shtml)
+
++ [国际足联：正考虑将2030年世界杯参赛队伍扩至64支](https://news.cctv.com/2025/03/07/ARTIVz5uv9hKRWwLWirgk6L2250307.shtml)
+
