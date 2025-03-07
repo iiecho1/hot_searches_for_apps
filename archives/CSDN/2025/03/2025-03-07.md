@@ -181,3 +181,13 @@
 
 + [《极速探索 HarmonyOS NEXT》：解锁国产操作系统的未来之门](https://blog.csdn.net/Easonmax/article/details/146092657)
 
++ [DeepSeek 掌舵创意方向+即梦 AI 绘制梦幻蓝图，引领创作潮流](https://blog.csdn.net/2301_80350265/article/details/146078795)
+
++ [Java 大视界 -- Java 大数据在智能金融反欺诈中的技术实现与案例分析（114）](https://blog.csdn.net/atgfg/article/details/146026311)
+
++ [MySQL 数据库优化与定期数据处理策略](https://blog.csdn.net/hh867308122/article/details/146073352)
+
++ [【智能体架构：Agent】LangChain智能体类型ReAct、Self-ASK的区别](https://blog.csdn.net/weixin_42430947/article/details/146033409)
+
++ [安全隔离与信息交换系统（官方文档你真的会看吗？）](https://blog.csdn.net/qq_56248592/article/details/146060385)
+
