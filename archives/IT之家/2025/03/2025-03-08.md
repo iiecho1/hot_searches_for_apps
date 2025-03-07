@@ -25,3 +25,27 @@
 
 + [华为新笔记本被曝换装 Linux 系统，鸿蒙 PC 还得再等等](https://m.ithome.com/html/834604.htm)
 
++ [再补就真买得起了！苹果 M4 MacBook Air 16G 首发 7 折 5799 元 12 期免息](https://m.ithome.com/html/836235.htm)
+
++ [车评人袁启聪发布致歉声明：测评享界 S9 时得出失实结论](https://m.ithome.com/html/836087.htm)
+
++ [外交部长王毅：临近边界的缅甸北部地区的电诈园区已经全部清除](https://m.ithome.com/html/836039.htm)
+
++ [小米 SU7 Ultra 汽车设计手稿公布](https://m.ithome.com/html/836017.htm)
+
++ [雷军：小米 SU7 Ultra 小定车主 90% 以上都是传统豪车转过来的，其中 56E 用户占一半多](https://m.ithome.com/html/836011.htm)
+
++ [苹果 2025 款 M4 MacBook Air 跑分揭晓](https://m.ithome.com/html/836045.htm)
+
++ [郭明錤：小米 16 Pro 将首次采用 3D 打印的手机中框，进一步减轻重量并提升散热性能](https://m.ithome.com/html/835985.htm)
+
++ [苹果称 2025 款 M4 MacBook Air 比英特尔机型快 23 倍，但测试方法令人咋舌](https://m.ithome.com/html/836119.htm)
+
++ [消息称苹果 iPhone 17 全系标配 LTPO 灵动岛屏幕、高密度钢壳异形电池](https://m.ithome.com/html/836155.htm)
+
++ [5 个人三小时复刻开源版 Manus，邀请码也不需要](https://m.ithome.com/html/836195.htm)
+
++ [中美将合拍《猫和老鼠：星盘奇缘》大电影](https://m.ithome.com/html/836015.htm)
+
++ [比亚迪官宣仰望 U7 豪华轿车即将上市，提供纯电及混动版本](https://m.ithome.com/html/835896.htm)
+
