@@ -157,3 +157,11 @@
 
 + [高考數學。。。](https://blog.csdn.net/artificiali/article/details/146026694)
 
++ [探索高性能AI识别和边缘计算 | NVIDIA Jetson Orin Nano 8GB 开发套件的全面测评](https://blog.csdn.net/weixin_41793160/article/details/146084544)
+
++ [WPF在特定领域的应用：打造一款专业的图像编辑工具](https://blog.csdn.net/weixin_43151418/article/details/145564208)
+
++ [基于LabVIEW的伺服阀高频振动测试闭环控制系统](https://blog.csdn.net/bjcyck/article/details/146085520)
+
++ [学习Flink：一场大数据世界的奇妙冒险](https://blog.csdn.net/Kenneth55/article/details/145842552)
+

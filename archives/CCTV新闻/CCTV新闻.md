@@ -195,3 +195,11 @@
 
 + [一周“出差”三趟求援助 泽连斯基还没拿到个准信儿？](https://news.cctv.com/2025/03/07/ARTIq9un8aJk3aPaJYvbVZ1K250307.shtml)
 
++ [特朗普：联邦政府裁员应用“手术刀”而非“大斧头”](https://news.cctv.com/2025/03/07/ARTIn3TfYI4sjIc0eOr6uQD3250307.shtml)
+
++ [厄瓜多尔最大城市发生暴力事件 已致22人死亡](https://news.cctv.com/2025/03/07/ARTIOlGkYOUi8ZmBDAgsqPzB250307.shtml)
+
++ [美月球着陆器“雅典娜”在月球着陆 但状态未卜](https://news.cctv.com/2025/03/07/ARTIU2GCtTMMmas7H9Ze5TbE250307.shtml)
+
++ [文莱对中国公民14天免签将于3月8日实施](https://news.cctv.com/2025/03/07/ARTIRKwMCGCEeqFb0IY9S1gZ250307.shtml)
+
