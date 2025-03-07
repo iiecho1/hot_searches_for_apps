@@ -205,3 +205,7 @@
 
 + [【C++指南】一文总结C++类和对象【中】](https://blog.csdn.net/egoist2023/article/details/145914596)
 
++ [从多智能体变成一个具有通过场景生成多个决策路径 并在实施的过程中优化决策路径 openmanus 致敬开源精神中的每一个孤勇者](https://blog.csdn.net/weixin_40941102/article/details/146093922)
+
++ [Manus横空出生，通用AGI来了？](https://blog.csdn.net/nalw2012/article/details/146076784)
+

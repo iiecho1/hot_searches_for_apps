@@ -249,3 +249,5 @@
 
 + [匈牙利反对 欧盟未就援助乌克兰达成一致](https://news.cctv.com/2025/03/07/ARTIu10MQddwa9XkJgNgW035250307.shtml)
 
++ [文莱8日起对中国公民实施免签入境政策](https://news.cctv.com/2025/03/07/ARTIIHu1JS2fyFZbqTIYQZQi250307.shtml)
+
