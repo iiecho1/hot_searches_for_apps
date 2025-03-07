@@ -245,3 +245,5 @@
 
 + [关乎中国，也影响全球——坦桑尼亚《卫报》国际版主编姆加纳谈中国两会](https://news.cctv.com/2025/03/07/ARTIoUz3s8vf3VfU8i1Gop0r250307.shtml)
 
++ [北约盟友是否靠得住？马克龙：靠不住的是美国](https://news.cctv.com/2025/03/07/ARTILBB0z37VWpf6qIQ0ELTY250307.shtml)
+
