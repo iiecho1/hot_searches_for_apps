@@ -173,3 +173,9 @@
 
 + [wx122基于ssm+vue+uniapp的食堂线上预约点餐系统小程序](https://blog.csdn.net/shmp54xmu/article/details/146081295)
 
++ [基于自监督学习的AIGC方法研究：多模态生成任务中的创新与挑战【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/146091260)
+
++ [【阿里云】操作系统控制台——体验与测评](https://blog.csdn.net/null18/article/details/146086673)
+
++ [nginx配置反向代理服务器，实现在https网站中请求http资源](https://blog.csdn.net/mss359681091/article/details/146083184)
+
