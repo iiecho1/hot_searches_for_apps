@@ -101,3 +101,29 @@
 
 + [Flink深入浅出之03：状态、窗口、checkpoint、两阶段提交](https://blog.csdn.net/u010342213/article/details/146100816)
 
++ [NeoBERT：4096 tokens上下文窗口，参数更少但性能翻倍](https://blog.csdn.net/m0_46510245/article/details/146111476)
+
++ [Docker 深度解析：构建现代化应用的必备利器](https://blog.csdn.net/qq_53123067/article/details/146051579)
+
++ [【数学建模】CRITIC权重法解析：从数学原理到实战分析](https://blog.csdn.net/qq_74303061/article/details/146092685)
+
++ [《极速探索 HarmonyOS NEXT》心得分享-读者视角](https://blog.csdn.net/m0_68635815/article/details/146093082)
+
++ [Vue Hooks 深度解析：从原理到实践](https://blog.csdn.net/qq_34419312/article/details/146076648)
+
++ [【文心索引】搜索引擎测试报告](https://blog.csdn.net/hanwangyyds/article/details/146045927)
+
++ [【Spring】_Spring事务与事务传播机制](https://blog.csdn.net/m0_63299495/article/details/146080266)
+
++ [DeepSeek + ReAct 实现 Agent](https://blog.csdn.net/weixin_34452850/article/details/146096539)
+
++ [PyQt学习记录04——通过提升法绘制matplot图形](https://blog.csdn.net/u014798590/article/details/146084478)
+
++ [cs231n笔记](https://blog.csdn.net/2403_87090261/article/details/146124439)
+
++ [通义万相 2.1 携手蓝耘云平台：开启影视广告创意新纪元](https://blog.csdn.net/atgfg/article/details/146102120)
+
++ [uniapp封装路由管理（兼容Vue2和Vue3）](https://blog.csdn.net/qq_42543264/article/details/146072791)
+
++ [OpenAPI Generator Maven 插件配置详解（SpringBoot集成）](https://blog.csdn.net/u011278722/article/details/146070245)
+
