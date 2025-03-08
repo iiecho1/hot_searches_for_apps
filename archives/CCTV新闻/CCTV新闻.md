@@ -171,3 +171,11 @@
 
 + [特朗普：可能对加拿大奶制品和木材征收对等关税](https://news.cctv.com/2025/03/08/ARTIrhV6liUkCK4MBtEQPsqP250308.shtml)
 
++ [韩国检方放弃抗诉 尹锡悦稍后将被释放](https://news.cctv.com/2025/03/08/ARTIy2tO3ozuSXABlJxqhSnb250308.shtml)
+
++ [乌美关系紧张之际 泽连斯基支持率上升10个百分点](https://news.cctv.com/2025/03/08/ARTIyfboaBnBwBW67gSejNik250308.shtml)
+
++ [尹锡悦取消拘留申请获法院批准 韩最大在野党敦促检方立即抗诉](https://news.cctv.com/2025/03/08/ARTIy0HPjytW2NSYvHXQtssA250308.shtml)
+
++ [伊朗外长：伊核计划不可能被军事攻击摧毁](https://news.cctv.com/2025/03/08/ARTIuwq1khnf29dRyzMlThkU250308.shtml)
+

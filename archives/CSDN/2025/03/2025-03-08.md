@@ -143,3 +143,7 @@
 
 + [使用Wireshark截取并解密摄像头画面](https://blog.csdn.net/weixin_43526443/article/details/146061078)
 
++ [人机共创：AI与人类编剧如何携手打造电影新纪元](https://blog.csdn.net/qq_32682301/article/details/146109572)
+
++ [《AIGC新纪元：通义万相2.1全栈实战——从蓝耘平台注册到千亿级MoE模型深度调优》](https://blog.csdn.net/2301_76341691/article/details/146051803)
+
