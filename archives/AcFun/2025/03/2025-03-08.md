@@ -73,3 +73,7 @@
 
 + [《狗脑.exe（未响应）》](https://m.acfun.cn/v/%3Fac%3D46971249)
 
++ [牛仔裤纯享](https://m.acfun.cn/v/%3Fac%3D46971496)
+
++ [【颜音】弦上生花——是我的 念念不忘 终有回响~](https://m.acfun.cn/v/%3Fac%3D46972431)
+
