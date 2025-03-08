@@ -199,3 +199,7 @@
 
 + [玉渊谭天丨重拳出击加拿大 中国采取全球首例反歧视措施](https://news.cctv.com/2025/03/08/ARTIOdV8lkxKyUEchIniDQBt250308.shtml)
 
++ [国际观察｜法国“核保护伞”能否撑起欧洲安全防务](https://news.cctv.com/2025/03/08/ARTIN886isBBAhYlfJToGBST250308.shtml)
+
++ [加拿大新总理会是谁](https://news.cctv.com/2025/03/08/ARTIdJITs1xtxoBfqf88sV2t250308.shtml)
+

@@ -31,3 +31,19 @@
 
 + [vllm-project/vllm](https://github.com/vllm-project/vllm)
 
++ [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+
++ [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
++ [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
++ [dagger/dagger](https://github.com/dagger/dagger)
+
++ [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
+
++ [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+
++ [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+
