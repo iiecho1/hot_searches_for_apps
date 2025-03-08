@@ -193,3 +193,9 @@
 
 + [被捕满52天后 韩国总统尹锡悦被释放](https://news.cctv.com/2025/03/08/ARTIq1B6JT9vUrucwx8U0FAj250308.shtml)
 
++ [乌克兰总统泽连斯基支持率出现明显增长](https://news.cctv.com/2025/03/08/ARTI2eI1qYWhWjPEdwvr6uuK250308.shtml)
+
++ [国际锐评丨中国“恒量”对冲世界“变量”](https://news.cctv.com/2025/03/08/ARTIBbvIKrHcYph6gZOrWKn5250308.shtml)
+
++ [玉渊谭天丨重拳出击加拿大 中国采取全球首例反歧视措施](https://news.cctv.com/2025/03/08/ARTIOdV8lkxKyUEchIniDQBt250308.shtml)
+

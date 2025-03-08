@@ -153,3 +153,11 @@
 
 + [《九章云络书·织网布阵玄机》上篇](https://blog.csdn.net/m0_73953114/article/details/146099633)
 
++ [Manus AI：从爆火到争议，AI Agent的未来之路](https://blog.csdn.net/weixin_44976692/article/details/146089852)
+
++ [豆包大模型 MarsCode AI 刷题专栏 002](https://blog.csdn.net/boysoft2002/article/details/146103258)
+
++ [【SpringBoot】你不能不会的SpringBoot图形验证码生成](https://blog.csdn.net/2301_79728896/article/details/146069706)
+
++ [数学建模：MATLAB强化学习](https://blog.csdn.net/DesolateGIS/article/details/146102955)
+
