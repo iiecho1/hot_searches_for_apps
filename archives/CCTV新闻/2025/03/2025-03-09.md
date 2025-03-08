@@ -163,3 +163,9 @@
 
 + [谋求防务独立 法国“核保护伞”能否撑起欧洲安全防务](https://news.cctv.com/2025/03/09/ARTIpXON0w5i5UgcmphjMvyS250309.shtml)
 
++ [以色列将派代表团前往多哈推动停火协议第二阶段谈判](https://news.cctv.com/2025/03/09/ARTI2oC7lXL4lGhXiRkxVjgC250309.shtml)
+
++ [为避免“停摆” 美众议院议长公布政府资金临时法案](https://news.cctv.com/2025/03/09/ARTIbM1WAswEbnbUjjcwctoG250309.shtml)
+
++ [苏丹西部城市遭导弹袭击 5名平民死亡](https://news.cctv.com/2025/03/09/ARTIjG8GychsbwOjH2Ywc5Ua250309.shtml)
+
