@@ -161,3 +161,5 @@
 
 + [冯德莱恩：欧洲正面临“分水岭时刻”](https://news.cctv.com/2025/03/06/ARTIzVJLnbAcdEwFC428yeLz250306.shtml)
 
++ [谋求防务独立 法国“核保护伞”能否撑起欧洲安全防务](https://news.cctv.com/2025/03/09/ARTIpXON0w5i5UgcmphjMvyS250309.shtml)
+
