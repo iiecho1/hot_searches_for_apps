@@ -181,3 +181,7 @@
 
 + [【Qt】自定义信号和槽函数](https://blog.csdn.net/2303_79015671/article/details/146118275)
 
++ [RAGflow启动之后，报错：WARNING:root:RedisDB.queue_info rag_flow_svr_queue got exception: no such key](https://blog.csdn.net/xuukai/article/details/146051816)
+
++ [大模型AI平台DeepSeek 眼中的SQL2API平台：QuickAPI、dbapi 和 Magic API 介绍与对比](https://blog.csdn.net/lgbingyu00/article/details/146064942)
+
