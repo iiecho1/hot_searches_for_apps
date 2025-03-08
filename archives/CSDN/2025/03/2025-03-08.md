@@ -173,3 +173,11 @@
 
 + [Flink深入浅出之03：状态、窗口、checkpoint、两阶段提交](https://blog.csdn.net/u010342213/article/details/146100816)
 
++ [NeoBERT：4096 tokens上下文窗口，参数更少但性能翻倍](https://blog.csdn.net/m0_46510245/article/details/146111476)
+
++ [通义万相 2.1 + 蓝耘算力，AI 视频生成的梦幻组合](https://blog.csdn.net/2401_82648291/article/details/146093206)
+
++ [【系统架构设计师】操作系统 - 进程管理 ⑤ ( 进程死锁 | 死锁 四大条件 | 死锁资源数计算 )](https://blog.csdn.net/han1202012/article/details/145816176)
+
++ [【Qt】自定义信号和槽函数](https://blog.csdn.net/2303_79015671/article/details/146118275)
+
