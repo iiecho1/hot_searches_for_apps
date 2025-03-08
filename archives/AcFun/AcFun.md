@@ -115,3 +115,11 @@
 
 + [不做自助餐！旋转小火锅，还有活路吗？](https://m.acfun.cn/v/%3Fac%3D46972574)
 
++ [不想浪费旅拍素材，写了这首歌《随飞鸟去远方》](https://m.acfun.cn/v/%3Fac%3D46969702)
+
++ [中国地图随机旅行，飞镖扎哪就去哪，结果扎到了边境戈壁滩！](https://m.acfun.cn/v/%3Fac%3D46957123)
+
++ [格斯呀，格斯【剑风380】](https://m.acfun.cn/v/%3Fac%3D46973033)
+
++ [【千璃Senri】Cry For Me](https://m.acfun.cn/v/%3Fac%3D46958800)
+

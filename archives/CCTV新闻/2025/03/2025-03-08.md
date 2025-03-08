@@ -205,3 +205,7 @@
 
 + [柬埔寨警方突袭电诈园区 扣留258名外籍人员](https://news.cctv.com/2025/03/08/ARTIn6ZzBxciovUB4YWHAyUR250308.shtml)
 
++ [美国政府举办峰会支持加密货币](https://news.cctv.com/2025/03/08/ARTIndhbC5YsDsheszOyN1X5250308.shtml)
+
++ [尹锡悦走出拘留所 李在明将上审判席 二人3月迎来“生死局”](https://news.cctv.com/2025/03/08/ARTIRddIrkPxQzzQNbrvtamk250308.shtml)
+
