@@ -133,3 +133,7 @@
 
 + [ASP.NET 微服务网关 Ocelot+Consul+Skywalking](https://blog.csdn.net/u010653281/article/details/146094216)
 
++ [对开源VLA sota π0的微调——如何基于各种开源数据集、以及你自己的私有数据集微调π0(含我司的微调实践)](https://blog.csdn.net/v_JULY_v/article/details/146125555)
+
++ [手表手环NFC模拟门禁](https://blog.csdn.net/m_cdd/article/details/146121195)
+
