@@ -17,3 +17,11 @@
 
 + [赴日两年下一步拿永驻的阶段性总结和一些介绍](https://www.v2ex.com/t/1116665)
 
++ [大家安卓与 iPhone 双持都是为了解决些什么需求？](https://www.v2ex.com/t/1116558)
+
++ [同事离职送礼求推荐](https://www.v2ex.com/t/1116572)
+
++ [38 岁，在今天辞职了，过程有点搞笑（苦笑）。](https://www.v2ex.com/t/1116671)
+
++ [某鱼有锁美版 iPhone 在 US 用](https://www.v2ex.com/t/1116638)
+

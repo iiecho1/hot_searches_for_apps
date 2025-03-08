@@ -127,3 +127,5 @@
 
 + [采用OllamaSharp实现.NET快速对接deepseek实现聊天、模型管理、流式响应等功能](https://blog.csdn.net/zzlyx99/article/details/146058383)
 
++ [【Web服务器】编织HTTP交响曲：用Python Socket库架构响应请求处理引擎](https://blog.csdn.net/m0_75192474/article/details/145902801)
+
