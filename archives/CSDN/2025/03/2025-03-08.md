@@ -135,3 +135,7 @@
 
 + [深度体验阿里云操作系统控制台](https://blog.csdn.net/2301_80863610/article/details/146093001)
 
++ [通用型AI智能体Manus分析以及首个云平台自行搭建OpenManus](https://blog.csdn.net/lovely_yoshino/article/details/146094945)
+
++ [如何使用 LLM 生成的术语自动在搜索应用程序上构建 autocomplete 功能](https://blog.csdn.net/UbuntuTouch/article/details/146057606)
+
