@@ -25,3 +25,9 @@
 
 + [某鱼有锁美版 iPhone 在 US 用](https://www.v2ex.com/t/1116638)
 
++ [chrome 升级后，那些失效的插件都有什么替代品？](https://www.v2ex.com/t/1116730)
+
++ [请问 M4 MBA 日常办公性能够吗？](https://www.v2ex.com/t/1116581)
+
++ [昨天开会，分管领导问大家有没有感觉到危机感？](https://www.v2ex.com/t/1116674)
+
