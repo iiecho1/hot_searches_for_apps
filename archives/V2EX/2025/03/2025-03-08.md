@@ -45,3 +45,11 @@
 
 + [有必要上 ECC 内存吗？](https://www.v2ex.com/t/1116711)
 
++ [老哥们，骚扰电话太多了，你们用哪个 App 识别拦截](https://www.v2ex.com/t/1116825)
+
++ [关于 V 友 @Notamo 对 Alook 浏览器 iOS 版本刷好评质疑的回复](https://www.v2ex.com/t/1116778)
+
++ [请问各位干运维的，用 excel 表多么](https://www.v2ex.com/t/1116733)
+
++ [有没有开源硬件，开源安卓设备？](https://www.v2ex.com/t/1116768)
+
