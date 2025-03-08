@@ -139,3 +139,7 @@
 
 + [如何使用 LLM 生成的术语自动在搜索应用程序上构建 autocomplete 功能](https://blog.csdn.net/UbuntuTouch/article/details/146057606)
 
++ [OpenManus+DeepSeek联合，打造一款超级强大的Agent工具](https://blog.csdn.net/qq_38773993/article/details/146093020)
+
++ [使用Wireshark截取并解密摄像头画面](https://blog.csdn.net/weixin_43526443/article/details/146061078)
+

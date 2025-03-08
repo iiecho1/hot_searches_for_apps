@@ -165,3 +165,9 @@
 
 + [美月球着陆器“雅典娜”着陆时侧翻 任务提前结束](https://news.cctv.com/2025/03/08/ARTI0vT82nmzLmVhGGraVlbp250308.shtml)
 
++ [联合国国际劳动妇女节纪念活动暨北京世界妇女大会三十周年对话会在日内瓦举行](https://news.cctv.com/2025/03/08/ARTIxeFsZ2HgpwAkxL7PJsji250308.shtml)
+
++ [加拿大多伦多市发生枪击事件致至少11人受伤](https://news.cctv.com/2025/03/08/ARTIdUGSuiJsjUaOYfuPYZjB250308.shtml)
+
++ [特朗普：可能对加拿大奶制品和木材征收对等关税](https://news.cctv.com/2025/03/08/ARTIrhV6liUkCK4MBtEQPsqP250308.shtml)
+
