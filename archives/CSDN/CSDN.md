@@ -141,3 +141,13 @@
 
 + [如何搭建个人静态住宅IP：从零开始](https://blog.csdn.net/2401_86330316/article/details/146102027)
 
++ [使用Node.js从零搭建DeepSeek本地部署（Express框架、Ollama）](https://blog.csdn.net/weixin_42881768/article/details/146094416)
+
++ [docker指令整理](https://blog.csdn.net/LCY133/article/details/146093089)
+
++ [基于yolov8的土豆马铃薯叶子病害检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/146127018)
+
++ [本地部署DeepSeek并通过Continue接入VSCode全攻略｜附模型对比与对话技巧](https://blog.csdn.net/deepever/article/details/146124008)
+
++ [【SpringBoot】统一功能处理](https://blog.csdn.net/weixin_64916311/article/details/146011920)
+
