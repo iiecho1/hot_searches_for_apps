@@ -163,3 +163,9 @@
 
 + [特朗普：预计泽连斯基将与美国签署矿产协议](https://news.cctv.com/2025/03/10/ARTI1UIwrtN9RHRJh6Ar3qLs250310.shtml)
 
++ [伊朗外长阿拉格齐：“极限施压”下无法展开谈判](https://news.cctv.com/2025/03/10/ARTIZDWys95RRS1a2ybrDkX7250310.shtml)
+
++ [马克·卡尼赢得党内选举 成为加拿大自由党新党首](https://news.cctv.com/2025/03/10/ARTIVh6JrON6WjULj7jaQJa0250310.shtml)
+
++ [以色列宣布切断加沙地带供电](https://news.cctv.com/2025/03/10/ARTIC6wtCxPZ0SGGGyKSry5R250310.shtml)
+
