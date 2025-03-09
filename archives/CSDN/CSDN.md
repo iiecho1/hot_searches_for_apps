@@ -175,3 +175,9 @@
 
 + [服务熔断组件sentinel，监控服务-springboot-admin-ui](https://blog.csdn.net/weixin_51635918/article/details/146094466)
 
++ [【Linux网络#17】五种 IO 模型](https://blog.csdn.net/island1314/article/details/145997385)
+
++ [DeepSeek-R1本地化部署（Mac）](https://blog.csdn.net/kxiaozhuk/article/details/146089304)
+
++ [DeepSeek大模型 —— 全维度技术解析](https://blog.csdn.net/qq_34419312/article/details/146075698)
+
