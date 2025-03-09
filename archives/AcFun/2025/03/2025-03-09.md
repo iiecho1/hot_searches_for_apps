@@ -147,3 +147,7 @@
 
 + [舔爆！ “雨波”这裙子太涩了，不愧是老艺术家……](https://m.acfun.cn/v/%3Fac%3D46959382)
 
++ [你没听过的全新重分词版本《Ready Steady》cover by R.G.B](https://m.acfun.cn/v/%3Fac%3D46976950)
+
++ [勇气对于ADC来说是什么？快速看完一局韩服王者斗殴局#641 Gumayusi, sheer,](https://m.acfun.cn/v/%3Fac%3D46975371)
+

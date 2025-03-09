@@ -199,3 +199,11 @@
 
 + [什么是hadoop](https://blog.csdn.net/qiuyang0607/article/details/146119908)
 
++ [深度学习之卷积神经网络（CNN）](https://blog.csdn.net/u012935445/article/details/146114872)
+
++ [从 MP3 到电脑存储，雷龙 CS SD NAND 贴片式 TF 卡表现如何？](https://blog.csdn.net/qq_57761637/article/details/146135615)
+
++ [RISC-V汇编学习（三）—— RV指令集](https://blog.csdn.net/weixin_43083491/article/details/146122711)
+
++ [004-获取CPU占用率](https://blog.csdn.net/zhengtianzuo06/article/details/146121728)
+
