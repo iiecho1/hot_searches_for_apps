@@ -101,3 +101,15 @@
 
 + [004-获取CPU占用率](https://blog.csdn.net/zhengtianzuo06/article/details/146121728)
 
++ [深度学习之卷积神经网络（CNN）](https://blog.csdn.net/u012935445/article/details/146114872)
+
++ [Elasticsearch：使用 BigQuery 提取数据](https://blog.csdn.net/UbuntuTouch/article/details/146110160)
+
++ [Spring Boot + MyBatis + MySQL：快速搭建CRUD应用](https://blog.csdn.net/qiuyufeng/article/details/146106396)
+
++ [【RocketMQ】二、架构与核心概念](https://blog.csdn.net/llg___/article/details/146055061)
+
++ [wx125基于ssm+vue+uniapp的校园商铺系统小程序](https://blog.csdn.net/shmp54xmu/article/details/146128875)
+
++ [本地部署DeepSeek并通过Continue接入VSCode全攻略｜附模型对比与对话技巧](https://blog.csdn.net/deepever/article/details/146124008)
+
