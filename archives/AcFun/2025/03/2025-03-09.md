@@ -97,3 +97,7 @@
 
 + [【GUNDAM×MIKU】アイドル戦士(feat. 初音ミク）-Mitchie M](https://m.acfun.cn/v/%3Fac%3D46977053)
 
++ [几位大哥点道挂霜花生米，大厨一听头都大了，好久没做就怕掉链子](https://m.acfun.cn/v/%3Fac%3D46977406)
+
++ [【西部动作】龙虎群英 Soleil rouge (1971)](https://m.acfun.cn/v/%3Fac%3D46975109)
+
