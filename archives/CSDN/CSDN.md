@@ -181,3 +181,9 @@
 
 + [DeepSeek大模型 —— 全维度技术解析](https://blog.csdn.net/qq_34419312/article/details/146075698)
 
++ [【大模型】WPS 接入 DeepSeek-R1详解，打造全能AI办公助手](https://blog.csdn.net/zhangcongyi420/article/details/145963655)
+
++ [【MySQL】第十五弹---全面解析事务：定义、起源、版本支持与提交方式](https://blog.csdn.net/2201_75584283/article/details/143778306)
+
++ [【CSS3】练气篇](https://blog.csdn.net/m0_72516377/article/details/146109314)
+

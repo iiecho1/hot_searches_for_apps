@@ -179,3 +179,5 @@
 
 + [热带气旋“阿尔弗雷德”致澳大利亚洪水泛滥](https://photo.cctv.com/2025/03/09/PHOASoKdLLGnzi994vjYi45P250309.shtml)
 
++ [国际观察丨欧洲“重新武装”要迈过几道坎](https://news.cctv.com/2025/03/09/ARTIKH3GreqBS6fNw1ttag8L250309.shtml)
+
