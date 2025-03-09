@@ -161,3 +161,5 @@
 
 + [美国月球着陆器“雅典娜”登陆月球但未直立](https://news.cctv.com/2025/03/07/ARTI3aBgLoJ3iNNRZlmB8u6A250307.shtml)
 
++ [特朗普：预计泽连斯基将与美国签署矿产协议](https://news.cctv.com/2025/03/10/ARTI1UIwrtN9RHRJh6Ar3qLs250310.shtml)
+
