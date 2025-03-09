@@ -49,3 +49,5 @@
 
 + [锤子与小米科技](https://www.v2ex.com/t/1117016)
 
++ [长期 esim 求推荐](https://www.v2ex.com/t/1117011)
+

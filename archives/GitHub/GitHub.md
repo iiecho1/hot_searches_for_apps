@@ -31,3 +31,15 @@
 
 + [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
 
++ [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [supabase/supabase](https://github.com/supabase/supabase)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
