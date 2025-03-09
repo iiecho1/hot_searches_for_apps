@@ -137,3 +137,7 @@
 
 + [手表手环NFC模拟门禁](https://blog.csdn.net/m_cdd/article/details/146121195)
 
++ [OpenManus+DeepSeek联合，打造一款超级强大的Agent工具](https://blog.csdn.net/qq_38773993/article/details/146093020)
+
++ [如何搭建个人静态住宅IP：从零开始](https://blog.csdn.net/2401_86330316/article/details/146102027)
+
