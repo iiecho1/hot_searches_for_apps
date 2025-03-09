@@ -37,3 +37,9 @@
 
 + [现在来看， C/C++ 的 int、long 等不定宽类型是失败的设计吗？](https://www.v2ex.com/t/1116958)
 
++ [Manus 是小甜甜还是牛夫人？](https://www.v2ex.com/t/1116988)
+
++ [请教用过苹果 ai 的](https://www.v2ex.com/t/1116976)
+
++ [互联网工作求助(或者在日工作的)](https://www.v2ex.com/t/1116967)
+

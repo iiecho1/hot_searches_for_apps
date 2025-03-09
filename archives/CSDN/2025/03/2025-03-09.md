@@ -167,3 +167,9 @@
 
 + [什么是全栈？](https://blog.csdn.net/mo_sss/article/details/145966649)
 
++ [大语言模型中的归一化技术：LayerNorm与RMSNorm的深入研究](https://blog.csdn.net/m0_46510245/article/details/146128064)
+
++ [中国嵌入式单片机就业形势分析](https://blog.csdn.net/h050210/article/details/146083278)
+
++ [【RocketMQ】二、架构与核心概念](https://blog.csdn.net/llg___/article/details/146055061)
+

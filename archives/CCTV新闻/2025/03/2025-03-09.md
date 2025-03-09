@@ -177,3 +177,5 @@
 
 + [加拿大前奥运选手成跨国毒枭 美国千万美元悬赏通缉](https://news.cctv.com/2025/03/09/ARTI2K3WDy6SAGcqci23gam2250309.shtml)
 
++ [热带气旋“阿尔弗雷德”致澳大利亚洪水泛滥](https://photo.cctv.com/2025/03/09/PHOASoKdLLGnzi994vjYi45P250309.shtml)
+
