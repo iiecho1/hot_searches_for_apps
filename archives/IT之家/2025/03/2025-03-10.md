@@ -25,3 +25,27 @@
 
 + [零跑 B10 试驾车到店：15 万内激光雷达城区智驾 SUV，3 月 10 日预售](https://m.ithome.com/html/835896.htm)
 
++ [雷军回应“国庆 7 天‘AI 雷军’骂了 8 天”：损失无法量化，建议填补立法空白](https://m.ithome.com/html/836486.htm)
+
++ [央视曝光摄影爱好者滥用无人机拍摄鸟类，致国家一级保护动物东方白鹳被绞断双腿死亡](https://m.ithome.com/html/836461.htm)
+
++ [9 点必须走人，消息称大疆开始严禁过度加班](https://m.ithome.com/html/836479.htm)
+
++ [董明珠再回应“格力专卖店”改名“董明珠健康家”：以个人名誉作保将“信任流量”转化为“品质认知”](https://m.ithome.com/html/836523.htm)
+
++ [超越《复仇者联盟 3：无限战争》，《哪吒之魔童闹海》票房跻身全球影史第六](https://m.ithome.com/html/836435.htm)
+
++ [雷军称小米曾遭造谣被查导致股价下跌：应针对性加强立法工作](https://m.ithome.com/html/836427.htm)
+
++ [华为鸿蒙 HarmonyOS 5.0.3 Beta2 版本发布：新增智慧数据平台、获取分布式相机设备类型等特性](https://m.ithome.com/html/836500.htm)
+
++ [马斯克：中国高铁令人惊叹，美国铁路却令人尴尬](https://m.ithome.com/html/836450.htm)
+
++ [华为 Mate 70 Pro 优享版手机支持星闪 / 关机查找功能](https://m.ithome.com/html/836508.htm)
+
++ [雷军谈小米汽车订单排队超半年：海外布局开始考察，先解决扩产问题](https://m.ithome.com/html/836460.htm)
+
++ [华为 Mate 60 Pro+、nova 12 UItra 等机型适配支持运营商北斗卫星短信功能](https://m.ithome.com/html/836525.htm)
+
++ [尾号“8 个 7”电信手机靓号拍出 254.4 万元天价，只有使用权没有所有权](https://m.ithome.com/html/835896.htm)
+

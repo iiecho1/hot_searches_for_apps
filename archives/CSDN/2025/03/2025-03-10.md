@@ -113,3 +113,21 @@
 
 + [本地部署DeepSeek并通过Continue接入VSCode全攻略｜附模型对比与对话技巧](https://blog.csdn.net/deepever/article/details/146124008)
 
++ [AI革命先锋：DeepSeek与蓝耘通义万相2.1的无缝融合引领行业智能化变革](https://blog.csdn.net/lrq13965748542/article/details/146077962)
+
++ [解锁DeepSpeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568)
+
++ [Java对接微信支付全过程详解](https://blog.csdn.net/lilinhai548/article/details/146105883)
+
++ [数学建模：MATLAB强化学习](https://blog.csdn.net/DesolateGIS/article/details/146102955)
+
++ [CSS—补充：CSS计数器、单位、@media媒体查询](https://blog.csdn.net/m0_74556076/article/details/146123283)
+
++ [什么是hadoop](https://blog.csdn.net/qiuyang0607/article/details/146119908)
+
++ [用Kotlin写一个Android闹钟](https://blog.csdn.net/wangz76/article/details/146096626)
+
++ [12.【线性代数】——图和网络](https://blog.csdn.net/sda42342342423/article/details/146047768)
+
++ [FPGA 的 LBC 总线详解](https://blog.csdn.net/SDJ_success/article/details/146122053)
+
