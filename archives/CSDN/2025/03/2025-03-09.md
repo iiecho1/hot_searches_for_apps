@@ -151,3 +151,13 @@
 
 + [【SpringBoot】统一功能处理](https://blog.csdn.net/weixin_64916311/article/details/146011920)
 
++ [如何在本地部署开源通用智能体OpenManus？技术方案全解析](https://blog.csdn.net/qq_44866828/article/details/146082945)
+
++ [OpenManus介绍及本地部署体验](https://blog.csdn.net/cskywit/article/details/146128445)
+
++ [π0及π0_fast的源码剖析——核心模块src的全面分析与解读：如何实现PaLI-Gemma、如何去噪生成动作](https://blog.csdn.net/v_JULY_v/article/details/146068251)
+
++ [VanillaVueSvelteReactSolidAngularPreact前端框架/库的简要介绍及其优势](https://blog.csdn.net/weixin_44786530/article/details/146118541)
+
++ [Elasticsearch：使用 BigQuery 提取数据](https://blog.csdn.net/UbuntuTouch/article/details/146110160)
+

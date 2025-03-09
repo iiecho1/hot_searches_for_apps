@@ -33,3 +33,7 @@
 
 + [中英文完美 2:1 宽的 JetBrains Maple Mono 开源合成字体 [工整，优雅，超高可读性]](https://www.v2ex.com/t/1116924)
 
++ [AI 全栈工程师求职（吴恩达团队首席技术）](https://www.v2ex.com/t/1116989)
+
++ [现在来看， C/C++ 的 int、long 等不定宽类型是失败的设计吗？](https://www.v2ex.com/t/1116958)
+
