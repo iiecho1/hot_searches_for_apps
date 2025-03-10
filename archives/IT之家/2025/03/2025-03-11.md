@@ -25,3 +25,27 @@
 
 + [尾号“8 个 7”电信手机靓号拍出 254.4 万元天价，只有使用权没有所有权](https://m.ithome.com/html/835896.htm)
 
++ [美的被曝强制 18 点 20 下班：一到时间 HR 就催促各部门抓紧下班](https://m.ithome.com/html/836650.htm)
+
++ [美的回应“强制 18 点 20 下班”：严禁形式主义加班，身体力行践行“反内卷”](https://m.ithome.com/html/836576.htm)
+
++ [苹果 iPhone 17 系列革新设计：Pro 与 Air 双线出击，新机模上手](https://m.ithome.com/html/836553.htm)
+
++ [苹果 AirPods 新突破：内置摄像头，引领耳机智能交互新时代](https://m.ithome.com/html/836751.htm)
+
++ [8499 元起，华为 Mate 70 Pro+ / RS 非凡大师部分版本也开启现货原价“敞开卖”模式](https://m.ithome.com/html/836794.htm)
+
++ [苹果 iPhone 17 系列前瞻：设计革新、全系高刷、自研 Wi-Fi 芯片...](https://m.ithome.com/html/836552.htm)
+
++ [苹果 M4 Ultra 芯片恐将永远缺席，三大原因揭秘](https://m.ithome.com/html/836619.htm)
+
++ [百世集团退市，宣布完成私有化交易](https://m.ithome.com/html/836792.htm)
+
++ [零跑 B10 预售：激光雷达智驾进入 15 万内，10.98 万-13.98 万元](https://m.ithome.com/html/836662.htm)
+
++ [消息称苹果 iPhone 17 Air 为轻薄机身直接取消实体 SIM 卡槽](https://m.ithome.com/html/836563.htm)
+
++ [领克 900 旗舰 SUV 展车到店：车长超 5.2 米，二季度上市](https://m.ithome.com/html/836682.htm)
+
++ [二手平台“9.9 元小米 SU7 Ultra 车标”引热议，3D 打印仿品涉嫌侵权](https://m.ithome.com/html/835956.htm)
+

@@ -101,3 +101,15 @@
 
 + [《Python实战进阶》No15: 数据可视化：Matplotlib 与 Seaborn 的高级用法](https://blog.csdn.net/yweng18/article/details/146124593)
 
++ [如何在本地部署开源通用智能体OpenManus &OpenManus-OWL项目？](https://blog.csdn.net/qq_44866828/article/details/146139316)
+
++ [Spring Boot拦截器（Interceptor）与过滤器（Filter）深度解析：区别、实现与实战指南](https://blog.csdn.net/A_Kamen/article/details/146137666)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的表格（Table）之功能优化，加载结合分页 ,Table11加载结合分页](https://blog.csdn.net/qq_33650655/article/details/146049727)
+
++ [从0开始学习Manus手册](https://blog.csdn.net/2402_88135437/article/details/146110672)
+
++ [《云原生监控体系构建实录：从Prometheus到Grafana的观测革命》](https://blog.csdn.net/qq_63926306/article/details/146136297)
+
++ [JavaScript系列06-深入理解 JavaScript 事件系统：从原生事件到 React 合成事件](https://blog.csdn.net/jsd0915/article/details/146123232)
+
