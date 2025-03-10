@@ -173,3 +173,9 @@
 
 + [加拿大下任总理：政府将保持对美国的报复性关税措施](https://news.cctv.com/2025/03/10/ARTIMJWnqQEPZbAYxk1gxGrT250310.shtml)
 
++ [美国“断供” 澳大利亚反华智库急了](https://news.cctv.com/2025/03/10/ARTIeaXnJlaK6CesgNRzvGls250310.shtml)
+
++ [日本柏崎刈羽核电站6号机组建筑内冒烟 东电称无辐射外泄影响](https://news.cctv.com/2025/03/10/ARTIbm2ONuodygMTbtBjLnNs250310.shtml)
+
++ [筹措8000亿欧元 欧洲“重新武装”要迈过几道坎？](https://news.cctv.com/2025/03/10/ARTIsNMcZi3gjjxo5kf9OHQd250310.shtml)
+
