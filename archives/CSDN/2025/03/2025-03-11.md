@@ -125,3 +125,5 @@
 
 + [媲美Deepseek R1 671B的千问QwQ32B本地部署与远程访问实测流程](https://blog.csdn.net/weixin_44976692/article/details/146155188)
 
++ [通义万相2.1：开启视频生成新时代](https://blog.csdn.net/lx08113/article/details/146164616)
+
