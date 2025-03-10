@@ -185,3 +185,9 @@
 
 + [韩美举行联合军演 朝鲜警告：极其危险的挑衅行动](https://news.cctv.com/2025/03/10/ARTIbSUoxb41g43ub3yZFzTi250310.shtml)
 
++ [印度中央邦一汽车与卡车相撞 致7人死亡](https://news.cctv.com/2025/03/10/ARTIqnRSvKEuqJMSv6AbJoak250310.shtml)
+
++ [日本岩手县大船渡市解除对居民发布的避难指示](https://news.cctv.com/2025/03/10/ARTIwwWSGCXO1h8VpUGCU9ik250310.shtml)
+
++ [美国政府加征关税措施扰乱全球市场 投资者加速抛售风险资产](https://news.cctv.com/2025/03/10/ARTIWGZ0G4AUxspipg9uz7wr250310.shtml)
+
