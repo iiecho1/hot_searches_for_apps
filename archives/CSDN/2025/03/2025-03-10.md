@@ -145,3 +145,9 @@
 
 + [摆脱繁琐命令-让运维更加流畅-阿里云ECS操作系统控制台运维篇](https://blog.csdn.net/feng8403000/article/details/146141513)
 
++ [Spark-TTS：基于大模型的文本语音合成工具](https://blog.csdn.net/CITY_OF_MO_GY/article/details/146137278)
+
++ [鸿蒙版Flutter快递查询助手](https://blog.csdn.net/qq_39132095/article/details/146130676)
+
++ [《云原生监控体系构建实录：从Prometheus到Grafana的观测革命》](https://blog.csdn.net/qq_63926306/article/details/146136297)
+
