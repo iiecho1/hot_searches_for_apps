@@ -221,3 +221,15 @@
 
 + [大发战争财 美国武器出口全球占比超四成 欧洲难摆脱对美依赖](https://news.cctv.com/2025/03/10/ARTI2u03zbOFDScqvmzwN5gF250310.shtml)
 
++ [视频丨美国龙飞船本周发射 宇航员滞留太空9个月回家有望](https://news.cctv.com/2025/03/10/ARTIhNnL3a9xriQSTjwMhO3a250310.shtml)
+
++ [哈马斯称其灵活应对调解努力 正在等待预期的谈判结果](https://news.cctv.com/2025/03/10/ARTIuSo6xhmlWbB9iR10mxee250310.shtml)
+
++ [白俄罗斯总统任命亚历山大·图尔钦为新任总理](https://news.cctv.com/2025/03/10/ARTIuADmZDdItGGFDHDEf6uW250310.shtml)
+
++ [叙利亚宣布成立两个专门委员会应对冲突事件](https://news.cctv.com/2025/03/10/ARTIS0JfvuBDZBF7AJnau10x250310.shtml)
+
++ [哈萨克斯坦首都遭遇暴风雪 多条郊区公交线路停运](https://news.cctv.com/2025/03/10/ARTIt4QTW1uumEhdQsCbUjW4250310.shtml)
+
++ [澳大利亚受热带低气压“阿尔弗雷德”影响引发洪涝灾害](https://news.cctv.com/2025/03/10/ARTI4g4lCTyx8iIrGv31a0wZ250310.shtml)
+

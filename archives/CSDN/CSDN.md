@@ -203,3 +203,7 @@
 
 + [Unity大型游戏开发全流程指南](https://blog.csdn.net/2401_82978699/article/details/146139741)
 
++ [【python爬虫】酷狗音乐爬取练习](https://blog.csdn.net/weixin_74798742/article/details/146120511)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的表格（Table）之功能优化，加载结合分页 ,Table11加载结合分页](https://blog.csdn.net/qq_33650655/article/details/146049727)
+
