@@ -23,3 +23,5 @@
 
 + [如何用最少的钱搭建 alist？](https://www.v2ex.com/t/1117046)
 
++ [PDD 百亿， Dell U2725 上了， 3999](https://www.v2ex.com/t/1117052)
+

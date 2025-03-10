@@ -137,3 +137,11 @@
 
 + [【python爬虫】酷狗音乐爬取](https://blog.csdn.net/weixin_74798742/article/details/146120511)
 
++ [Hadoop八股](https://blog.csdn.net/qq_45972323/article/details/146121936)
+
++ [【Linux】外接硬盘管理](https://blog.csdn.net/2303_80346267/article/details/146125136)
+
++ [DeepSeek进阶应用（一）：结合Mermaid绘图（流程图、时序图、类图、状态图、甘特图、饼图）](https://blog.csdn.net/qq_51646682/article/details/146135406)
+
++ [摆脱繁琐命令-让运维更加流畅-阿里云ECS操作系统控制台运维篇](https://blog.csdn.net/feng8403000/article/details/146141513)
+
