@@ -233,3 +233,5 @@
 
 + [澳大利亚受热带低气压“阿尔弗雷德”影响引发洪涝灾害](https://news.cctv.com/2025/03/10/ARTI4g4lCTyx8iIrGv31a0wZ250310.shtml)
 
++ [格陵兰岛自治政府总理回应特朗普：格陵兰属于格陵兰人](https://news.cctv.com/2025/03/10/ARTITwGI3af2MCMFax6PcMTT250310.shtml)
+

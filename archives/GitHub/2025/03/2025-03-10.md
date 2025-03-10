@@ -33,3 +33,15 @@
 
 + [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
++ [thalissonvs/pydoll](https://github.com/thalissonvs/pydoll)
+
++ [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
++ [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [mfontanini/presenterm](https://github.com/mfontanini/presenterm)
+
