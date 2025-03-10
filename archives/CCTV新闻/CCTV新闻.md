@@ -239,3 +239,9 @@
 
 + [美保护主义拖累世界经济前景——访波黑学者弗拉德·西莫维奇](https://news.cctv.com/2025/03/10/ARTIM5XWx1g81j8EyEf9NDbu250310.shtml)
 
++ [格陵兰岛总理：美国不尊重格陵兰岛且极其不可预测](https://news.cctv.com/2025/03/10/ARTI5tPZ2s6y0d405znY7WQJ250310.shtml)
+
++ [叙利亚宣布西部沿海地区军事行动结束](https://news.cctv.com/2025/03/10/ARTI6wBElrPKXImmzGglL2Xh250310.shtml)
+
++ [波兰总理：美国应“尊重”伙伴而非表现“傲慢”](https://news.cctv.com/2025/03/10/ARTIFcUObT2to7Wk95PMeDH8250310.shtml)
+
