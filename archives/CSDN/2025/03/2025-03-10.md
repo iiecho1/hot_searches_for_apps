@@ -187,3 +187,13 @@
 
 + [Linux：HTTPS协议原理](https://blog.csdn.net/weixin_51142926/article/details/143697206)
 
++ [Spring组件实例化扩展点：InstantiationAwareBeanPostProcessor](https://blog.csdn.net/qq_35512802/article/details/145434006)
+
++ [【AIGC实战】蓝耘元生代部署通义万相2.1文生视频，up主亲测好用~](https://blog.csdn.net/null18/article/details/146135857)
+
++ [基于STM32物联网水质监测系统的设计与实现/基于STM32的水产养殖云监控系统设计](https://blog.csdn.net/ZHG0220/article/details/146141099)
+
++ [【Academy】HTTP 请求走私 ------ HTTP request smuggling](https://blog.csdn.net/u013672940/article/details/146118984)
+
++ [Android 仿 DeepSeek 思考效果：逐字显示 AI 生成内容，支持加粗、颜色，复制内容](https://blog.csdn.net/qq_40533422/article/details/146093982)
+
