@@ -29,3 +29,7 @@
 
 + [今日 BTC 战况](https://www.v2ex.com/t/1117067)
 
++ [Cursor 到底比 VSCode+Copilot 强在哪？求指导](https://www.v2ex.com/t/1117083)
+
++ [请问大家 新车选择白色车漆 后期会发黄吗](https://www.v2ex.com/t/1117141)
+

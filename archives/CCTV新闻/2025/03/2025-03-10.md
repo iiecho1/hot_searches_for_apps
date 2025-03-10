@@ -169,3 +169,7 @@
 
 + [以色列宣布切断加沙地带供电](https://news.cctv.com/2025/03/10/ARTIC6wtCxPZ0SGGGyKSry5R250310.shtml)
 
++ [特鲁多：加拿大人面临来自美国的“生存挑战”](https://news.cctv.com/2025/03/10/ARTILBZW8rSLp3Z7wjtLwF8t250310.shtml)
+
++ [加拿大下任总理：政府将保持对美国的报复性关税措施](https://news.cctv.com/2025/03/10/ARTIMJWnqQEPZbAYxk1gxGrT250310.shtml)
+

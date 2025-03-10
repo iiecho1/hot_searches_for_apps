@@ -151,3 +151,9 @@
 
 + [《云原生监控体系构建实录：从Prometheus到Grafana的观测革命》](https://blog.csdn.net/qq_63926306/article/details/146136297)
 
++ [DeepSeek相关技术名词含义详解（面向国人的一次倾情科普）](https://blog.csdn.net/jacke121/article/details/146123120)
+
++ [基于大数据与线性回归的电商消费行为分析可视化系统(源码+论文+数据集)](https://blog.csdn.net/weixin_39709134/article/details/146143410)
+
++ [Python MongoDB速成教程](https://blog.csdn.net/weixin_43033268/article/details/146091351)
+
