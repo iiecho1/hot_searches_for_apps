@@ -211,3 +211,9 @@
 
 + [计算机视觉应用｜自动驾驶的感知革命：多传感器融合架构的技术演进与落地实践](https://blog.csdn.net/u013132758/article/details/146152197)
 
++ [蓝耘智算携手通义万相 2.1，文生图技术变革解析](https://blog.csdn.net/GGDxianv/article/details/146133233)
+
++ [【轻量级博客Moments使用Docker本地部署与随时随地远程访问】](https://blog.csdn.net/qyj19920704/article/details/146156472)
+
++ [灰色关联分析（GRA）：从数学原理到实战应用的全方位解析](https://blog.csdn.net/qq_74303061/article/details/146132922)
+

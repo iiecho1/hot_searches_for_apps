@@ -235,3 +235,7 @@
 
 + [格陵兰岛自治政府总理回应特朗普：格陵兰属于格陵兰人](https://news.cctv.com/2025/03/10/ARTITwGI3af2MCMFax6PcMTT250310.shtml)
 
++ [共话中国经济新机遇丨专访：“期待与中国共同实现绿色低碳发展”——访巴西淡水河谷高管卢西亚娜·布鲁姆](https://news.cctv.com/2025/03/10/ARTIHiSBI6LnofF0TtCH4JnC250310.shtml)
+
++ [美保护主义拖累世界经济前景——访波黑学者弗拉德·西莫维奇](https://news.cctv.com/2025/03/10/ARTIM5XWx1g81j8EyEf9NDbu250310.shtml)
+
