@@ -179,3 +179,11 @@
 
 + [DeepSeek-进阶版部署(Linux+GPU)](https://blog.csdn.net/dessler/article/details/146106206)
 
++ [视频创作小白逆袭手册：蓝耘与通义万相 2.1，点燃 AI 视频新引擎](https://blog.csdn.net/2401_84813926/article/details/146123489)
+
++ [第一篇c++](https://blog.csdn.net/2402_86667364/article/details/146136589)
+
++ [《苍穹外卖》SpringBoot后端开发项目重点知识整理（DAY1 to DAY3）](https://blog.csdn.net/weixin_65552509/article/details/146137835)
+
++ [Linux：HTTPS协议原理](https://blog.csdn.net/weixin_51142926/article/details/143697206)
+
