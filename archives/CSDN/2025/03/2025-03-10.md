@@ -157,3 +157,9 @@
 
 + [Python MongoDB速成教程](https://blog.csdn.net/weixin_43033268/article/details/146091351)
 
++ [纯视觉硝烟再起，萤石网络能打造商用清洁新标杆吗？](https://blog.csdn.net/xlkjshuo/article/details/146092815)
+
++ [2025年Linux 安全与运维指南](https://blog.csdn.net/liuguizhong/article/details/146120233)
+
++ [yolov7-3d算法原理](https://blog.csdn.net/qq_46454669/article/details/146107990)
+

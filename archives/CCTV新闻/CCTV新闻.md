@@ -179,3 +179,9 @@
 
 + [筹措8000亿欧元 欧洲“重新武装”要迈过几道坎？](https://news.cctv.com/2025/03/10/ARTIsNMcZi3gjjxo5kf9OHQd250310.shtml)
 
++ [视频丨点名三连 加拿大候任总理胜选演讲剑指特朗普](https://news.cctv.com/2025/03/10/ARTIILd7qy3kIcsHY7uBHHkQ250310.shtml)
+
++ [外媒：特朗普拒绝排除美经济衰退可能](https://news.cctv.com/2025/03/10/ARTIAY2sXTadkwOjFNd7eEBA250310.shtml)
+
++ [韩美举行联合军演 朝鲜警告：极其危险的挑衅行动](https://news.cctv.com/2025/03/10/ARTIbSUoxb41g43ub3yZFzTi250310.shtml)
+
