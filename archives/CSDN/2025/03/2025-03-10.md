@@ -217,3 +217,11 @@
 
 + [灰色关联分析（GRA）：从数学原理到实战应用的全方位解析](https://blog.csdn.net/qq_74303061/article/details/146132922)
 
++ [KICE第二讲：C++与其他编程语言的比较](https://blog.csdn.net/abcdeWA/article/details/146105922)
+
++ [GPT-4在AIGC中的技术实现与应用：基于深度学习的文本生成方法【附核心代码实现】](https://blog.csdn.net/weixin_52908342/article/details/146113457)
+
++ [通义万相 2.1 × 蓝耘智算：AIGC 界的「黄金搭档」如何重塑创作未来？](https://blog.csdn.net/2301_80350265/article/details/146067544)
+
++ [《Python实战进阶》No15: 数据可视化：Matplotlib 与 Seaborn 的高级用法](https://blog.csdn.net/yweng18/article/details/146124593)
+
