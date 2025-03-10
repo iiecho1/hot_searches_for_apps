@@ -113,3 +113,15 @@
 
 + [JavaScript系列06-深入理解 JavaScript 事件系统：从原生事件到 React 合成事件](https://blog.csdn.net/jsd0915/article/details/146123232)
 
++ [蓝耘赋能通义万相 2.1：用 C++ 构建高效 AI 视频生成生态](https://blog.csdn.net/weixin_73295475/article/details/146127768)
+
++ [Java 大视界 -- 基于 Java 的大数据实时数据处理框架性能评测与选型建议（121）](https://blog.csdn.net/atgfg/article/details/146124782)
+
++ [Java后端高频面经——Spring、SpringBoot、MyBatis](https://blog.csdn.net/weixin_49426115/article/details/146123653)
+
++ [复现 MODEST 机器人抓取透明物体 单目 ICRA 2025](https://blog.csdn.net/qq_41204464/article/details/146135939)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(二)](https://blog.csdn.net/weixin_74809706/article/details/146159710)
+
++ [媲美Deepseek R1 671B的千问QwQ32B本地部署与远程访问实测流程](https://blog.csdn.net/weixin_44976692/article/details/146155188)
+
