@@ -171,3 +171,27 @@
 
 + [联合国妇女地位委员会第69届会议将评估《北京宣言》执行情况](https://news.cctv.com/2025/03/11/ARTI8g2KnnZvzjqUY8LqYynC250311.shtml)
 
++ [特朗普政府2月驱逐移民人数较去年同期减少](https://news.cctv.com/2025/03/11/ARTIpl369JXZeG5z1ubpLw4a250311.shtml)
+
++ [卡塔尔强烈谴责以色列切断加沙地带供电](https://news.cctv.com/2025/03/11/ARTIUZ4DNRMCwyzbyLQ4vhhJ250311.shtml)
+
++ [涨电费、下架酒 加拿大对美国出手了！](https://news.cctv.com/2025/03/11/ARTIFRCtoB5yPhEfrdRVzUCa250311.shtml)
+
++ [他当选第二天美股血流成河 美国经济大麻烦来了](https://jingji.cctv.com/2025/03/11/ARTIJTdhmjvczWxnA9fRdbdP250311.shtml)
+
++ [特朗普正式撤销拜登获取总统每日简报的权限](https://news.cctv.com/2025/03/11/ARTI55QScAUWONAQ9JRaCiMj250311.shtml)
+
++ [曾在特朗普遇刺事件中“护卫有功” 肖恩·柯伦就任美国特勤局局长](https://news.cctv.com/2025/03/11/ARTI6DlzzF0QjP1zDRHgBvpw250311.shtml)
+
++ [北海撞船事故停止搜救　涉事油轮由美方租用](https://news.cctv.com/2025/03/11/ARTIKzdgjYzEQc2N5vmucLQD250311.shtml)
+
++ [受特朗普贸易政策影响 高盛下调2025年美GDP增长预期](https://news.cctv.com/2025/03/11/ARTImJXWgmniYzGyBZMaj51y250311.shtml)
+
++ [韩国首尔江南区一施工工地发生爆炸事故 3人受伤](https://news.cctv.com/2025/03/11/ARTIiGkm38mQWYZ34cOo8bcz250311.shtml)
+
++ [第68届联合国麻醉药品委员会会议开幕 探讨应对全球毒品问题对策](https://news.cctv.com/2025/03/11/ARTIMXjgd4mRIv9E00I4jnQf250311.shtml)
+
++ [叙利亚宣布：西部沿海地区军事行动结束](https://news.cctv.com/2025/03/11/ARTIsBMY12L20Gu7zzMougYs250311.shtml)
+
++ [鲁比奥称乌克兰必须在和谈中做出领土让步](https://news.cctv.com/2025/03/11/ARTINhFoe96RklKjBuxKMqM5250311.shtml)
+
