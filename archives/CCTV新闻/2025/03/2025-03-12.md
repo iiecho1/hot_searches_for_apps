@@ -163,3 +163,7 @@
 
 + [杜特尔特被送往海牙国际法院](https://news.cctv.com/2025/03/12/ARTIRjLxUSevVczDGfIzQpJY250312.shtml)
 
++ [也门胡塞武装宣布恢复对以色列船只的打击](https://news.cctv.com/2025/03/12/ARTIm1nOJKTX1OBWsCd7UjUB250312.shtml)
+
++ [美乌沙特会谈就临时停火和安全援助等达成共识](https://news.cctv.com/2025/03/12/ARTI7KtHJG5cA605sbTxnRIO250312.shtml)
+
