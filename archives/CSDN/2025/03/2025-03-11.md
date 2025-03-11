@@ -137,3 +137,9 @@
 
 + [【Godot】实现对话系统](https://blog.csdn.net/2301_82135086/article/details/146132020)
 
++ [蓝耘携手通义万相2.1：引领AI创作革新，重塑视觉体验](https://blog.csdn.net/2302_80243065/article/details/146155744)
+
++ [【Linux篇】从冯诺依曼到进程管理：计算机体系与操作系统的核心逻辑](https://blog.csdn.net/2301_81290732/article/details/146053852)
+
++ [大数据 spark hive 总结](https://blog.csdn.net/weixin_41826215/article/details/146155480)
+
