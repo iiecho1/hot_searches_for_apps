@@ -161,3 +161,5 @@
 
 + [韩媒：韩空军总参谋长就韩军演习误炸民宅事故再次致歉](https://news.cctv.com/2025/03/10/ARTIoz3n05VJmlEw3UF4bK2R250310.shtml)
 
++ [杜特尔特被送往海牙国际法院](https://news.cctv.com/2025/03/12/ARTIRjLxUSevVczDGfIzQpJY250312.shtml)
+

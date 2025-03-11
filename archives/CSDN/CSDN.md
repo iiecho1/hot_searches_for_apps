@@ -101,3 +101,17 @@
 
 + [【软件测试】接口自动化测试用例通常包含哪些要素](https://blog.csdn.net/qq_41413652/article/details/146159915)
 
++ [OpenManus介绍及本地部署体验](https://blog.csdn.net/cskywit/article/details/146128445)
+
++ [使用Process Explorer、Dependency Walker和PE信息查看工具快速排查dll动态库因库与库版本不一致导致的加载失败问题](https://blog.csdn.net/chenlycly/article/details/146170148)
+
++ [对开源VLA sota π0的微调——如何基于各种开源数据集、以及你自己的私有数据集微调π0(含我司的微调实践)](https://blog.csdn.net/v_JULY_v/article/details/146125555)
+
++ [Spring Boot拦截器（Interceptor）与过滤器（Filter）深度解析：区别、实现与实战指南](https://blog.csdn.net/A_Kamen/article/details/146137666)
+
++ [如何在本地部署开源通用智能体OpenManus &OpenManus-OWL项目？](https://blog.csdn.net/qq_44866828/article/details/146139316)
+
++ [Manus 与鸿蒙 Next 深度融合：构建下一代空间计算生态](https://blog.csdn.net/qq_16242613/article/details/146118938)
+
++ [无公网IP也能远程控制Windows：Linux rdesktop内网穿透实战](https://blog.csdn.net/weixin_74888502/article/details/146157147)
+
