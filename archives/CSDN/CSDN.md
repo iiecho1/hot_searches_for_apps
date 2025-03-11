@@ -157,3 +157,7 @@
 
 + [解锁WPS新姿势：DeepSeek高效接入全攻略](https://blog.csdn.net/fq1986614/article/details/146164146)
 
++ [【MySQL】事务是个啥？（一文带你了解 为什么要有事务、事务在mysql中的出现情况以及事务的四大特性）](https://blog.csdn.net/ZYK069/article/details/145992977)
+
++ [Python大数据可视化：基于python大数据的电脑硬件推荐系统_flask+Hadoop+spider](https://blog.csdn.net/m0_74825172/article/details/146150135)
+

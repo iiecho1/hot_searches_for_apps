@@ -217,3 +217,9 @@
 
 + [美一架医用直升机坠毁致3人遇难](https://news.cctv.com/2025/03/11/ARTInOxFVnnMBbsWasnXq4br250311.shtml)
 
++ [韩媒：尹锡悦弹劾案判决结果最早或下周出炉](https://news.cctv.com/2025/03/11/ARTIpPH1RqzkQWdBuV6hE5Zr250311.shtml)
+
++ [墨西哥两起交通事故共致32人死亡](https://news.cctv.com/2025/03/11/ARTId6qIzR5pS81VPsSH5msq250311.shtml)
+
++ [日本下调去年四季度经济增幅](https://news.cctv.com/2025/03/11/ARTInganDk1GQ4Mz67nV7Uds250311.shtml)
+
