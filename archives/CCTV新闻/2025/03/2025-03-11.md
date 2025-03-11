@@ -237,3 +237,11 @@
 
 + [美中东问题特使计划访俄 扎哈罗娃：俄美两国正在密集接触](https://news.cctv.com/2025/03/11/ARTIQvPq7MT1WVf94PjBAgue250311.shtml)
 
++ [美股标普指数市值比上月峰值减少4万亿美元](https://news.cctv.com/2025/03/11/ARTIrJ52PvbsDG2raVBXh8Rm250311.shtml)
+
++ [俄罗斯遭遇今年以来最大规模的无人机袭击](https://news.cctv.com/2025/03/11/ARTIbeNxsDC11MEX9ooGwy2Y250311.shtml)
+
++ [乌克兰对俄无人机袭击已致莫斯科州2死18伤](https://news.cctv.com/2025/03/11/ARTIjaaCtYqFFvgiN0Ybtf5J250311.shtml)
+
++ [美军租用油轮在北海水域与货轮相撞 或引发环境灾难](https://news.cctv.com/2025/03/11/ARTIGcrhIZnk8LiSCk0HYJbw250311.shtml)
+

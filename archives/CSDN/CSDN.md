@@ -175,3 +175,5 @@
 
 + [Python大数据可视化：基于spark的短视频推荐系统的设计与实现_django+spider](https://blog.csdn.net/m0_74825746/article/details/146150176)
 
++ [蓝耘携手通义万象 2.1 图生视频：开启创意无限的共享新时代](https://blog.csdn.net/2401_82648291/article/details/146176228)
+
