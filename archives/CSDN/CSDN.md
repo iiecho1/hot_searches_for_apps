@@ -177,3 +177,9 @@
 
 + [蓝耘携手通义万象 2.1 图生视频：开启创意无限的共享新时代](https://blog.csdn.net/2401_82648291/article/details/146176228)
 
++ [【AI 大模型】RAG 检索增强生成 ⑧ ( 文本相似度排序 | Bi-Encoder 双编码器 | Cross-Encoder 交叉编码器 )](https://blog.csdn.net/han1202012/article/details/146122236)
+
++ [做到哪一步才算精通SQL](https://blog.csdn.net/qq_22038327/article/details/146130338)
+
++ [决策树的核心思想](https://blog.csdn.net/u010076603/article/details/146167142)
+
