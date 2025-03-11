@@ -127,3 +127,7 @@
 
 + [通义万相2.1：开启视频生成新时代](https://blog.csdn.net/lx08113/article/details/146164616)
 
++ [DeepSeek 助力 Vue3 开发：打造丝滑的表格（Table）之功能优化，自定义加载文本,Table9自定义加载文本](https://blog.csdn.net/qq_33650655/article/details/146049592)
+
++ [llama.cpp框架下GGUF格式及量化参数全解析](https://blog.csdn.net/Black_Rock_br/article/details/146150124)
+
