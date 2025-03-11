@@ -31,3 +31,9 @@
 
 + [[最终版] [送码] SlideBrowser 一个轻量的滑动浏览器，给你不一样的交互体验](https://www.v2ex.com/t/1117474)
 
++ [apple tv 有技术手段使得能够安装爱优腾吗](https://www.v2ex.com/t/1117372)
+
++ [纳指啥时候触底](https://www.v2ex.com/t/1117443)
+
++ [聊聊 HDR 照片（看看你的设备是否支持）](https://www.v2ex.com/t/1117431)
+

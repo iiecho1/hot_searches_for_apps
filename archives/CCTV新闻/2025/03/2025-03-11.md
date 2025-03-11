@@ -227,3 +227,13 @@
 
 + [俄罗斯莫斯科遭大规模无人机袭击 已致1死5伤](https://news.cctv.com/2025/03/11/ARTIdGOtIjroKUeLajpe4pZF250311.shtml)
 
++ [外交部：中方支持一切有助于和平解决乌克兰危机的努力](https://news.cctv.com/2025/03/11/ARTI2xkIkr993RPRBrumjpn8250311.shtml)
+
++ [美国军方取消90多项研究 防长称部分研究“胡扯”](https://news.cctv.com/2025/03/11/ARTIEtU6zRolQOZNwrvF9LjD250311.shtml)
+
++ [日媒：日本寻求美“关税豁免”未果](https://news.cctv.com/2025/03/11/ARTIAwDIqhTgg7PlEUp8WoFg250311.shtml)
+
++ [乌克兰代表团在沙特已就位 正为与美国会谈进行准备](https://news.cctv.com/2025/03/11/ARTINFj0bP4z3iKwJ6cxywNa250311.shtml)
+
++ [美中东问题特使计划访俄 扎哈罗娃：俄美两国正在密集接触](https://news.cctv.com/2025/03/11/ARTIQvPq7MT1WVf94PjBAgue250311.shtml)
+
