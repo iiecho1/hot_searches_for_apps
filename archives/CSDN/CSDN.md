@@ -135,3 +135,11 @@
 
 + [FPGA前端设计适合哪些人学？该怎么学？](https://blog.csdn.net/billgateslove/article/details/146166910)
 
++ [基于深度学习的中文文本情感分析系统](https://blog.csdn.net/weixin_44954070/article/details/146161306)
+
++ [重生之我在学Vue--第5天 Vue 3 路由管理（Vue Router）](https://blog.csdn.net/Xiao651/article/details/146164458)
+
++ [三维仿射变换矩阵](https://blog.csdn.net/hlhgzx/article/details/146160443)
+
++ [Liunx（CentOS-6-x86_64）使用Nginx部署Vue项目](https://blog.csdn.net/weixin_49200545/article/details/146156140)
+
