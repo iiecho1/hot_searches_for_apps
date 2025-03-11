@@ -115,3 +115,23 @@
 
 + [无公网IP也能远程控制Windows：Linux rdesktop内网穿透实战](https://blog.csdn.net/weixin_74888502/article/details/146157147)
 
++ [基于PyTorch的深度学习——机器学习1](https://blog.csdn.net/Wis4e/article/details/146165042)
+
++ [Java 大视界 -- Java 大数据在智慧农业农产品质量追溯与品牌建设中的应用（124）](https://blog.csdn.net/atgfg/article/details/146156855)
+
++ [Elastic：AI 会开始取代网络安全工作吗？](https://blog.csdn.net/UbuntuTouch/article/details/146128007)
+
++ [Spring Boot 整合 Redis 步骤详解](https://blog.csdn.net/m0_74823094/article/details/146159052)
+
++ [【Latex】latex公式手册大全||积分公式表示||极限表达||矩阵的各种表达](https://blog.csdn.net/zjoy_/article/details/146163159)
+
++ [基于yolov8的手语类型检测系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/146144575)
+
++ [LabVIEW闭环控制系统硬件选型与实时性能](https://blog.csdn.net/bjcyck/article/details/146127974)
+
++ [使用DeepSeek+蓝耘快速设计网页简易版《我的世界》小游戏](https://blog.csdn.net/m0_61712829/article/details/146103489)
+
++ [MySQL的约束](https://blog.csdn.net/m0_73975164/article/details/146142449)
+
++ [FPGA前端设计适合哪些人学？该怎么学？](https://blog.csdn.net/billgateslove/article/details/146166910)
+
