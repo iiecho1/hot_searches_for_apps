@@ -191,3 +191,7 @@
 
 + [使用Process Explorer、Dependency Walker和PE信息查看工具快速排查dll动态库因库与库版本不一致导致的加载失败问题](https://blog.csdn.net/chenlycly/article/details/146170148)
 
++ [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://blog.csdn.net/qq_32682301/article/details/146171988)
+
++ [【软件测试】接口自动化测试用例通常包含哪些要素](https://blog.csdn.net/qq_41413652/article/details/146159915)
+

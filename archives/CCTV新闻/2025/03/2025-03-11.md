@@ -263,3 +263,7 @@
 
 + [联合国官员敦促追究叙利亚暴力事件罪行的责任](https://news.cctv.com/2025/03/11/ARTIjVrjl2b10CaC1HtuDPTK250311.shtml)
 
++ [波兰副总理：候任美国大使对波政府发号施令“太荒谬”](https://news.cctv.com/2025/03/11/ARTIEBzzyDr0rGYNgNuqvjVi250311.shtml)
+
++ [也门海岸发现至少70具移民遗体](https://news.cctv.com/2025/03/11/ARTIps0TqrNLH4lFWth4L9lb250311.shtml)
+
