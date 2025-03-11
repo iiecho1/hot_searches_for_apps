@@ -149,3 +149,11 @@
 
 + [在Linux开发板中使用.NET实现音频开发](https://blog.csdn.net/marin1993/article/details/146133382)
 
++ [AI 赋能软件开发：从工具到思维的全面升级](https://blog.csdn.net/qq_34419312/article/details/146158856)
+
++ [移动专属云赋能中国石油：智算时代的存储新突破](https://blog.csdn.net/weixin_46879208/article/details/146159785)
+
++ [Web网页制作（静态网页）：千年之恋](https://blog.csdn.net/2301_80945113/article/details/146136026)
+
++ [解锁WPS新姿势：DeepSeek高效接入全攻略](https://blog.csdn.net/fq1986614/article/details/146164146)
+
