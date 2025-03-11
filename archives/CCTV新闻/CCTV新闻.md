@@ -205,3 +205,13 @@
 
 + [“中国经济持续回升向好将为全球市场带来更多机遇”](https://news.cctv.com/2025/03/11/ARTI6fqbfz6P10Qnkee1GkBB250311.shtml)
 
++ [巴基斯坦央行暂停降息 维持政策利率在12%](https://news.cctv.com/2025/03/11/ARTIKvxGekG3LnDOnr6spqLi250311.shtml)
+
++ [美媒：美国特使计划访俄与普京会晤](https://news.cctv.com/2025/03/11/ARTIk0SDDUTkY10gEtTLxnyd250311.shtml)
+
++ [菲律宾前总统杜特尔特被拘留](https://news.cctv.com/2025/03/11/ARTIbhKu6IxvTLxa9YZo12i1250311.shtml)
+
++ [俄称击退大规模无人机袭击 莫斯科市有建筑受损](https://news.cctv.com/2025/03/11/ARTIFbWbBSElLZ3qWmD42pXF250311.shtml)
+
++ [中国驻美大使：极限施压注定撞上南墙，打关税战、贸易战损人更害己](https://news.cctv.com/2025/03/11/ARTIJObCvW6hz1CKWxQFxY6d250311.shtml)
+

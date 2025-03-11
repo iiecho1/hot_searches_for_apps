@@ -143,3 +143,9 @@
 
 + [大数据 spark hive 总结](https://blog.csdn.net/weixin_41826215/article/details/146155480)
 
++ [在Html5中仿Matlab自定义色带生成实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/146165709)
+
++ [网络安全高级软件编程技术 网络安全 软件开发](https://blog.csdn.net/Hacker_xingchen/article/details/146117839)
+
++ [在Linux开发板中使用.NET实现音频开发](https://blog.csdn.net/marin1993/article/details/146133382)
+
