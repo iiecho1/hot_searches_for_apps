@@ -199,3 +199,13 @@
 
 + [海思Hi3516DV00移植yolov5-7.0的模型转化流程说明](https://blog.csdn.net/evm_doc/article/details/146124218)
 
++ [通义万相2.1 图生视频：为AI绘梦插上翅膀，开启ALGC算力领域新纪元](https://blog.csdn.net/bite_zwy/article/details/146164067)
+
++ [Spring Boot 集成 Kafka](https://blog.csdn.net/m0_74824592/article/details/146159172)
+
++ [基于物联网设计的疫苗冷链物流监测系统](https://blog.csdn.net/xiaolong1126626497/article/details/146153566)
+
++ [LabVIEW伺服阀高频振动测试](https://blog.csdn.net/bjcyck/article/details/146143496)
+
++ [无公网IP也能远程控制Windows：Linux rdesktop内网穿透实战](https://blog.csdn.net/weixin_74888502/article/details/146157147)
+
