@@ -249,3 +249,17 @@
 
 + [巴基斯坦一客运列车遭武装分子袭击](https://news.cctv.com/2025/03/11/ARTIXSVhyC6jxqyG0ZEjzZtx250311.shtml)
 
++ [南非一公交车侧翻 造成至少12人死亡](https://news.cctv.com/2025/03/11/ARTI4CIfqpULvBZB7ofVvX0M250311.shtml)
+
++ [冯德莱恩呼吁欧洲大幅增加国防开支 放弃对美俄幻想](https://news.cctv.com/2025/03/11/ARTIrFsF04uwLPWZMNKCcVCO250311.shtml)
+
++ [热点问答｜杜特尔特被拘留，将会发生什么](https://news.cctv.com/2025/03/11/ARTIvzBoAqndRbUz9oTFSEuP250311.shtml)
+
++ [欧盟通过数字时代增值税方案](https://news.cctv.com/2025/03/11/ARTIH2av1KO3coffTwg0Wtpn250311.shtml)
+
++ [2024年欧盟与美国货物贸易顺差为1982亿欧元](https://news.cctv.com/2025/03/11/ARTI36aqaVZZEvYLKX5CNeE2250311.shtml)
+
++ [俄外长：欧安组织被欧盟和北约逼入深度危机状态](https://news.cctv.com/2025/03/11/ARTIRicdTlU2rUot7gBAl3p2250311.shtml)
+
++ [联合国官员敦促追究叙利亚暴力事件罪行的责任](https://news.cctv.com/2025/03/11/ARTIjVrjl2b10CaC1HtuDPTK250311.shtml)
+
