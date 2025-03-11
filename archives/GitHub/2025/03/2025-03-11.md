@@ -29,3 +29,15 @@
 
 + [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
++ [mem0ai/mem0](https://github.com/mem0ai/mem0)
+
++ [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
+
++ [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
++ [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+
++ [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)
+
++ [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+

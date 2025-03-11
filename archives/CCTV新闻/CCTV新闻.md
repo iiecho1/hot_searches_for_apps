@@ -247,3 +247,5 @@
 
 + [美国和乌克兰代表团在沙特开始会谈](https://news.cctv.com/2025/03/11/ARTIOUvfGilkcak168UuhOyn250311.shtml)
 
++ [巴基斯坦一客运列车遭武装分子袭击](https://news.cctv.com/2025/03/11/ARTIXSVhyC6jxqyG0ZEjzZtx250311.shtml)
+
