@@ -133,3 +133,5 @@
 
 + [HTTPS工作原理与安全机制详解（仅供参考）](https://blog.csdn.net/weixin_57202284/article/details/146187418)
 
++ [uni-app开发的App和H5嵌套封装的App，以及原生App有什么区别](https://blog.csdn.net/qq_33769914/article/details/146158831)
+
