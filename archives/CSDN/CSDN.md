@@ -217,3 +217,9 @@
 
 + [大咖面对面|华为云GaussDB数据库在技术突破与生态建设中重塑国产数据库](https://blog.csdn.net/weixin_41645135/article/details/146194528)
 
++ [深度揭秘：通义万相 2.1 与深度学习碰撞出的 AI 视频生成奇迹](https://blog.csdn.net/weixin_73295475/article/details/146202180)
+
++ [MYSQL联合查询](https://blog.csdn.net/Excuse_lighttime/article/details/146137297)
+
++ [YOLOv5添加输出各类别训练过程指标](https://blog.csdn.net/csy1021/article/details/146188416)
+
