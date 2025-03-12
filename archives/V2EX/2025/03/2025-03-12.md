@@ -19,3 +19,7 @@
 
 + [怎么消除自己在购买东西时的犹豫感？](https://www.v2ex.com/t/1117571)
 
++ [如果 go、node、c#学一个推荐哪个？](https://www.v2ex.com/t/1117684)
+
++ [二本，北京，丁克，月薪 5200， OpenWrt, QT 开发，老板烂透了](https://www.v2ex.com/t/1117739)
+

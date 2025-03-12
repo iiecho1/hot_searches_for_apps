@@ -149,3 +149,7 @@
 
 + [预测逆动力学模型是机器人操作的可扩展学习器](https://blog.csdn.net/yorkhunter/article/details/146157036)
 
++ [ViLLA——继AgiBot World之后，智元发布具身基座模型Genie Operator-1，且提出基于潜在动作的VLA架构ViLLA(含其重要参考LAPA的详解)](https://blog.csdn.net/v_JULY_v/article/details/146176858)
+
++ [网络安全之文件上传漏洞](https://blog.csdn.net/weixin_72380152/article/details/146123067)
+
