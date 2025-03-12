@@ -29,3 +29,15 @@
 
 + [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
++ [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+
++ [cdozdil/OptiScaler](https://github.com/cdozdil/OptiScaler)
+
++ [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [bytedance/flux](https://github.com/bytedance/flux)
+
++ [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
+
