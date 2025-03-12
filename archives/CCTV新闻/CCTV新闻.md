@@ -179,3 +179,9 @@
 
 + [美国对所有进口钢铁和铝征收25%关税正式生效](https://news.cctv.com/2025/03/12/ARTItpkkMwZgglMTKuQDZWKD250312.shtml)
 
++ [政府停摆在即 美国会众议院通过短期支出法案](https://news.cctv.com/2025/03/12/ARTIKl9aUQUPMw9bYQGDjmxh250312.shtml)
+
++ [日本启动第11轮核污染水排海 本次排海量7800吨](https://news.cctv.com/2025/03/12/ARTI3vASSQZKO1ks6OU0vVHN250312.shtml)
+
++ [欧盟宣布对美钢铝关税政策采取反制措施](https://news.cctv.com/2025/03/12/ARTIOh82JDhEEcURqr8EnPDl250312.shtml)
+

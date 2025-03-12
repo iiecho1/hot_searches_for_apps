@@ -181,3 +181,9 @@
 
 + [DDPG算法（深度确定性策略梯度）实现无人机三维空间避障导航](https://blog.csdn.net/weixin_58115589/article/details/146132855)
 
++ [展望 AIGC 前景：通义万相 2.1 与蓝耘智算平台共筑 AI 生产力高地](https://blog.csdn.net/2301_80840905/article/details/146168790)
+
++ [DeepSeek 引爆 AI 圈：深度学习大模型全解析](https://blog.csdn.net/weixin_43151418/article/details/145514629)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的表格（Table）之添加列宽调整功能,示例Table14_02带边框和斑马纹的固定表头表格](https://blog.csdn.net/qq_33650655/article/details/146162045)
+
