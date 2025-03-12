@@ -131,3 +131,5 @@
 
 + [【Linux网络】I/O 世界的技术之旅：探索五种模型与 fcntl 函数的魅力](https://blog.csdn.net/djdjiejsn/article/details/146132245)
 
++ [HTTPS工作原理与安全机制详解（仅供参考）](https://blog.csdn.net/weixin_57202284/article/details/146187418)
+
