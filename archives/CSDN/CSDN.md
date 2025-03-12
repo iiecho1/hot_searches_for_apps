@@ -223,3 +223,5 @@
 
 + [YOLOv5添加输出各类别训练过程指标](https://blog.csdn.net/csy1021/article/details/146188416)
 
++ [我与红队：一场网络安全实战的较量与成长](https://blog.csdn.net/zkaqlaoniao/article/details/146177773)
+
