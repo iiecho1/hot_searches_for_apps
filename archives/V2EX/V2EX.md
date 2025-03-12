@@ -19,3 +19,5 @@
 
 + [紫薇爱好者福音来了， https://github.com/EdwinXiang/dart_iztro 欢迎给 star； 纯 dart 实现。](https://www.v2ex.com/t/1117776)
 
++ [看到今天群里有人讨论微软用 Go 重写 TypeScript 编译器，为什么不是用他们自家的 C#？ C#在大部分 benchmark 项中性能都远超 Go， TypeScript 编译也不是在浏览器进行，不用考虑编译器体积](https://www.v2ex.com/t/1117872)
+
