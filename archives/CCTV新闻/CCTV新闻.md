@@ -189,3 +189,11 @@
 
 + [欧盟宣布下月起将对价值260亿欧元的美国商品实施反制关税](https://news.cctv.com/2025/03/12/ARTIp8UyZ2Zb40V0PubZ9NRJ250312.shtml)
 
++ [中萨（摩亚）互免签证协定将于4月2日起生效](https://news.cctv.com/2025/03/12/ARTIcrenNUojof2Q5KM0Va5M250312.shtml)
+
++ [巴基斯坦军方：已解救遇袭列车上部分遭劫持人员](https://news.cctv.com/2025/03/12/ARTI0bHw5EukppVqlG61v7Om250312.shtml)
+
++ [中方将举行伊朗核问题中俄伊北京会晤](https://news.cctv.com/2025/03/12/ARTICA4RqmPTe6BNcgGthY6E250312.shtml)
+
++ [美两款新太空观测设备搭乘“猎鹰9”火箭升空](https://news.cctv.com/2025/03/12/ARTIxCI2C9P9ECjJPWjEVK7O250312.shtml)
+
