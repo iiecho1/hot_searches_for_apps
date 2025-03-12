@@ -61,3 +61,7 @@
 
 + [怪叫江湖！](https://m.acfun.cn/v/%3Fac%3D46993659)
 
++ [天榜第一的对局！快速看完一局韩服王者斗殴局#642 Kiaya, Yesjun, Clozer,](https://m.acfun.cn/v/%3Fac%3D46992171)
+
++ [喇叭到底是如何发出声音的，看完工作原理，真是天才发明](https://m.acfun.cn/v/%3Fac%3D46993576)
+

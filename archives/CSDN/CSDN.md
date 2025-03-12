@@ -109,3 +109,25 @@
 
 + [网络安全反渗透 网络安全攻防渗透](https://blog.csdn.net/2401_88752684/article/details/146156924)
 
++ [Python----计算机视觉处理（Opencv：自适应二值化，取均值，加权求和（高斯定理））](https://blog.csdn.net/weixin_64110589/article/details/145993468)
+
++ [【C++指南】一文总结C++类和对象【下】](https://blog.csdn.net/egoist2023/article/details/146097003)
+
++ [基于大数据爬虫+Hadoop得电影数据分析与可视化平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/146194833)
+
++ [做到哪一步才算精通SQL](https://blog.csdn.net/qq_22038327/article/details/146130338)
+
++ [SigLIP 2：多语言语义理解、定位和密集特征的视觉语言编码器](https://blog.csdn.net/m0_46510245/article/details/146197413)
+
++ [运动规划实战案例 | 基于可视图的路径规划算法(附ROS C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/146117544)
+
++ [推理模型对SQL理解能力的评测：DeepSeek r1、GPT-4o、Kimi k1.5和Claude 3.7 Sonnet](https://blog.csdn.net/PawSQL/article/details/146172311)
+
++ [【网络】poll 与epoll（原理、工作模式LT、ET）](https://blog.csdn.net/weixin_69380220/article/details/146137472)
+
++ [《黑神话：悟空》Steam 游戏用户评论数据分析报告](https://blog.csdn.net/2301_79787209/article/details/146155652)
+
++ [基于Golang的微服务——Consul](https://blog.csdn.net/sinat_33370468/article/details/146180228)
+
++ [【Linux网络】I/O 世界的技术之旅：探索五种模型与 fcntl 函数的魅力](https://blog.csdn.net/djdjiejsn/article/details/146132245)
+
