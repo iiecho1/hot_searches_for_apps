@@ -199,3 +199,11 @@
 
 + [2025年三个月自学手册 网络安全（黑客技术）](https://blog.csdn.net/2401_85027336/article/details/146175519)
 
++ [从GAN到Transformer-生成式人工智能（AIGC）在视频内容创作中的应用【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/146151145)
+
++ [Unity光照系统概要笔记](https://blog.csdn.net/stariser/article/details/146119099)
+
++ [Docker+Flask 实战：打造高并发微服务架构](https://blog.csdn.net/sido777/article/details/146181753)
+
++ [CSS-三大特性，盒子模型，圆角边框，盒子阴影，文字阴影](https://blog.csdn.net/m0_73941339/article/details/146167277)
+
