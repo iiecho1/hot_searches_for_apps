@@ -153,3 +153,13 @@
 
 + [网络安全之文件上传漏洞](https://blog.csdn.net/weixin_72380152/article/details/146123067)
 
++ [AI提示词（Prompt）设计优化方案 | 高效使用 AI 工具](https://blog.csdn.net/m0_57874805/article/details/146189842)
+
++ [【数学建模】灰色关联分析（GRA）：从数学原理到实战应用的全方位解析](https://blog.csdn.net/qq_74303061/article/details/146132922)
+
++ [【一起学Rust | Tauri2.0框架】基于 Rust 与 Tauri 2.0 框架实现软件开机自启](https://blog.csdn.net/weixin_47754149/article/details/146020443)
+
++ [嵌入式硬件篇---手柄控制控制麦克纳姆轮子](https://blog.csdn.net/2301_79556402/article/details/146174445)
+
++ [【社交+陪玩服务】全场景陪玩系统源码 小程序+H5双端 社群互动+即时点单+搭建教程](https://blog.csdn.net/m0_57941469/article/details/146151629)
+

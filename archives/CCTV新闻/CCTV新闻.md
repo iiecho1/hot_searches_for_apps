@@ -173,3 +173,7 @@
 
 + [巴基斯坦军方说已解救遇袭列车上104名遭劫持人员](https://news.cctv.com/2025/03/12/ARTIqZibVOwRkobJg5geM88u250312.shtml)
 
++ [也门胡塞武装恢复禁止以色列船只在指定海域通行禁令](https://news.cctv.com/2025/03/12/ARTIM5JbDIY18430X8WDaXnG250312.shtml)
+
++ [俄军大反攻，库尔斯克战局转折在即？](https://news.cctv.com/2025/03/12/ARTI4agCswWSfzModfMuyhHt250312.shtml)
+
