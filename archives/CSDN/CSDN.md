@@ -145,3 +145,7 @@
 
 + [【Linux网络】I/O 世界的技术之旅：探索五种模型与 fcntl 函数的魅力](https://blog.csdn.net/djdjiejsn/article/details/146132245)
 
++ [【Qt】带参数的信号和槽函数](https://blog.csdn.net/2303_79015671/article/details/146191627)
+
++ [预测逆动力学模型是机器人操作的可扩展学习器](https://blog.csdn.net/yorkhunter/article/details/146157036)
+

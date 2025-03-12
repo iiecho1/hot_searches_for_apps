@@ -167,3 +167,9 @@
 
 + [美乌沙特会谈就临时停火和安全援助等达成共识](https://news.cctv.com/2025/03/12/ARTI7KtHJG5cA605sbTxnRIO250312.shtml)
 
++ [一夜之间反转 美乌会谈还促成特朗普一项重要决定](https://news.cctv.com/2025/03/12/ARTI5oLag8GazATb0azWSjBT250312.shtml)
+
++ [美国宣布撤回对加拿大加征的25%额外钢铝关税](https://news.cctv.com/2025/03/12/ARTIy3zOuMqRCHWOeytPVBu5250312.shtml)
+
++ [巴基斯坦军方说已解救遇袭列车上104名遭劫持人员](https://news.cctv.com/2025/03/12/ARTIqZibVOwRkobJg5geM88u250312.shtml)
+
