@@ -171,3 +171,13 @@
 
 + [自学黑客（网络安全），一般人我劝你还是算了吧](https://blog.csdn.net/2401_85023453/article/details/146185105)
 
++ [QT | 信号与槽(超详解)](https://blog.csdn.net/2302_78381559/article/details/146094508)
+
++ [Docker 实践与应用举例](https://blog.csdn.net/LJY_CF/article/details/146138456)
+
++ [ViLLA——继AgiBot World之后，智元发布基于潜在动作的VLA架构ViLLA：利用海量的无标注视频做监督训练(含LAPA、Moto的详解)](https://blog.csdn.net/v_JULY_v/article/details/146176858)
+
++ [uni-app开发的App和H5嵌套封装的App，以及原生App有什么区别](https://blog.csdn.net/qq_33769914/article/details/146158831)
+
++ [DDPG算法（深度确定性策略梯度）实现无人机三维空间避障导航](https://blog.csdn.net/weixin_58115589/article/details/146132855)
+

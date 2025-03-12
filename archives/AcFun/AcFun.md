@@ -79,3 +79,7 @@
 
 + […总之，MGN独立游戏嘉年华走出了国门——当预告来自海外](https://m.acfun.cn/v/%3Fac%3D46990661)
 
++ [电影院玩《鸣潮》是什么体验？](https://m.acfun.cn/v/%3Fac%3D46989822)
+
++ [过完年还没找到工作的你 be like](https://m.acfun.cn/v/%3Fac%3D46989187)
+
