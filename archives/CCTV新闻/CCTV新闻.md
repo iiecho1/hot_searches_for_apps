@@ -185,3 +185,7 @@
 
 + [欧盟宣布对美钢铝关税政策采取反制措施](https://news.cctv.com/2025/03/12/ARTIOh82JDhEEcURqr8EnPDl250312.shtml)
 
++ [拉夫罗夫：不接受北约部队出现在乌克兰](https://news.cctv.com/2025/03/12/ARTIpiP2L1fa0Awo0eAUrdwT250312.shtml)
+
++ [欧盟宣布下月起将对价值260亿欧元的美国商品实施反制关税](https://news.cctv.com/2025/03/12/ARTIp8UyZ2Zb40V0PubZ9NRJ250312.shtml)
+

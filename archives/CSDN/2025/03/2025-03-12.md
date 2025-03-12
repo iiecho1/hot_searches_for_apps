@@ -187,3 +187,13 @@
 
 + [DeepSeek 助力 Vue3 开发：打造丝滑的表格（Table）之添加列宽调整功能,示例Table14_02带边框和斑马纹的固定表头表格](https://blog.csdn.net/qq_33650655/article/details/146162045)
 
++ [使用DeepSeek自动生成PPT：高效办公的终极指南](https://blog.csdn.net/2401_82355416/article/details/146199584)
+
++ [AIGC实战测评：蓝耘元生代通义万相2.1图生视频的完美部署~](https://blog.csdn.net/null18/article/details/146196869)
+
++ [基于腾讯云高性能HAI-CPU的跨境电商客服助手全链路解析](https://blog.csdn.net/2301_80863610/article/details/146189076)
+
++ [推理大模型时代，TextIn ParseX助力出版业知识资产重构](https://blog.csdn.net/INTSIG/article/details/146158859)
+
++ [《网络安全》中RSA加密算法的计算过程](https://blog.csdn.net/Hacker_Nightrain/article/details/146156349)
+
