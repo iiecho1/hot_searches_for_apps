@@ -171,3 +171,9 @@
 
 + [载有菲律宾前总统杜特尔特的飞机抵达荷兰](https://news.cctv.com/2025/03/13/ARTI2NTRbjVeGXErDLcASjZO250313.shtml)
 
++ [巴基斯坦军方说列车遇袭事件中有21名人质遇害](https://news.cctv.com/2025/03/13/ARTIAr8DbQ7M7ISNezpAe4VU250313.shtml)
+
++ [韩国宪法法院驳回监察院院长弹劾案](https://news.cctv.com/2025/03/13/ARTIS0xpf1XSWD4FqbTEoiL4250313.shtml)
+
++ [马克·卡尼将于14日宣誓就任加拿大第24任总理](https://news.cctv.com/2025/03/13/ARTIoYtapLEmmYJmW6yOVzaM250313.shtml)
+

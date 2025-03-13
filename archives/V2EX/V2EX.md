@@ -21,3 +21,9 @@
 
 + [看到今天群里有人讨论微软用 Go 重写 TypeScript 编译器，为什么不是用他们自家的 C#？ C#在大部分 benchmark 项中性能都远超 Go， TypeScript 编译也不是在浏览器进行，不用考虑编译器体积](https://www.v2ex.com/t/1117872)
 
++ [在上海开车习惯了，去杭州开的好别扭。](https://www.v2ex.com/t/1117999)
+
++ [Windows 求推荐能秒开的纯文本编辑器](https://www.v2ex.com/t/1117894)
+
++ [请问程序员如何提升表达能力？现在说话开始磕磕巴巴了，以前不这样](https://www.v2ex.com/t/1117780)
+

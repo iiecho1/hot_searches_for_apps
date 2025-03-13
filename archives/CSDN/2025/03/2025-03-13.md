@@ -141,3 +141,9 @@
 
 + [网络安全事件响应--应急响应（windows）](https://blog.csdn.net/2401_88326365/article/details/146191004)
 
++ [AI赋能的高效学习闭环：Deep Research + Obsidian + Cursor 实战指南](https://blog.csdn.net/qq_16242613/article/details/146173819)
+
++ [Windows server网络安全](https://blog.csdn.net/Hacker_LaoYi/article/details/146190984)
+
++ [《HTML + CSS + JS 打造炫酷轮播图详解》](https://blog.csdn.net/ningmengjing_/article/details/146215152)
+
