@@ -37,3 +37,7 @@
 
 + [40+ 求一份工作。](https://www.v2ex.com/t/1117923)
 
++ [是我老了，还是新同事很牛？](https://www.v2ex.com/t/1117969)
+
++ [你的 MacBook 是中文键盘还是美式键盘？](https://www.v2ex.com/t/1118002)
+
