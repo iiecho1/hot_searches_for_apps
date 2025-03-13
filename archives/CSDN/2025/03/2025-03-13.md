@@ -173,3 +173,5 @@
 
 + [网络安全之数据加密（DES、AES、RSA、MD5）](https://blog.csdn.net/2401_88752464/article/details/146156157)
 
++ [AI浪潮下嵌入式软件开发如何拥抱AI：VSCODE + MarscodeAI插件+Embedded IDE](https://blog.csdn.net/hrw_embedded/article/details/146218168)
+
