@@ -165,3 +165,9 @@
 
 + [【 现代后端架构演进：微服务设计与云原生】](https://blog.csdn.net/weixin_50961821/article/details/146199916)
 
++ [【AI 大模型】RAG 检索增强生成 ⑧ ( 文本相似度排序 | Bi-Encoder 双编码器 | Cross-Encoder 交叉编码器 )](https://blog.csdn.net/han1202012/article/details/146122236)
+
++ [【SpringBoot】实现登录功能](https://blog.csdn.net/weixin_64916311/article/details/146148179)
+
++ [【一键让照片动起来】阿里万相2.1图生视频+蓝耘智算零门槛部署指南](https://blog.csdn.net/weixin_66401877/article/details/146193830)
+
