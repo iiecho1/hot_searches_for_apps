@@ -129,3 +129,7 @@
 
 + [密码学笔记](https://blog.csdn.net/qq_36076556/article/details/146198272)
 
++ [深度揭秘：通义万相 2.1 与深度学习碰撞出的 AI 视频生成奇迹](https://blog.csdn.net/weixin_73295475/article/details/146202180)
+
++ [网络信息安全专业（710207）网络安全攻防实训室建设方案](https://blog.csdn.net/whwzzc/article/details/146169982)
+
