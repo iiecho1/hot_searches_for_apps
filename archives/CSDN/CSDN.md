@@ -147,3 +147,7 @@
 
 + [《HTML + CSS + JS 打造炫酷轮播图详解》](https://blog.csdn.net/ningmengjing_/article/details/146215152)
 
++ [Blackbox.Ai体验：AI编程插件如何提升开发效率](https://blog.csdn.net/yuan2019035055/article/details/146210797)
+
++ [【三维重建】Proc-GS：使用3DGS的程序性城市建筑生成](https://blog.csdn.net/qq_45752541/article/details/146063957)
+
