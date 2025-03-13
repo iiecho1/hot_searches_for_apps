@@ -203,3 +203,5 @@
 
 + [吉尔吉斯斯坦、塔吉克斯坦总统签署协议 重新开通两国边境口岸](https://news.cctv.com/2025/03/13/ARTIqrNUtf01J154nr4Ao9u3250313.shtml)
 
++ [全球瞭望｜埃及资深媒体人：美国关税政策威胁全球经济](https://news.cctv.com/2025/03/13/ARTI6CL0PbNv5rhHXXLAPf9t250313.shtml)
+

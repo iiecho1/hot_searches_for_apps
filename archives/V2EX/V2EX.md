@@ -51,3 +51,5 @@
 
 + [这道数学题能让目前所有 AI 原地爆炸](https://www.v2ex.com/t/1118105)
 
++ [ios 换安卓手机(求推荐](https://www.v2ex.com/t/1117986)
+
