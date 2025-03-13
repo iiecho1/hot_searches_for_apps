@@ -199,3 +199,7 @@
 
 + [Vue/React前端项目或者静态页面强制横屏显示的神秘代码，支持ios的safari浏览器](https://blog.csdn.net/weixin_44786530/article/details/146175930)
 
++ [NineData 社区版：从 MySQL 到 TiDB 数据复制新选择](https://blog.csdn.net/breeze915/article/details/146240279)
+
++ [密码学笔记](https://blog.csdn.net/qq_36076556/article/details/146198272)
+

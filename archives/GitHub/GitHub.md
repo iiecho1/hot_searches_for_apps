@@ -43,3 +43,5 @@
 
 + [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
++ [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick)
+
