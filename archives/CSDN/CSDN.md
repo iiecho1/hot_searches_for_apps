@@ -175,3 +175,11 @@
 
 + [AI浪潮下嵌入式软件开发如何拥抱AI：VSCODE + MarscodeAI插件+Embedded IDE](https://blog.csdn.net/hrw_embedded/article/details/146218168)
 
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(三)](https://blog.csdn.net/weixin_74809706/article/details/146199550)
+
++ [技术速递｜Visual Studio Code 2025年2月更新（v1.98）](https://blog.csdn.net/MicrosoftReactor/article/details/146166619)
+
++ [接口测试和功能测试的区别](https://blog.csdn.net/m0_74195174/article/details/146214284)
+
++ [LVDS系列3：Xilinx的IOBUFDS原语](https://blog.csdn.net/weixin_38828382/article/details/146184362)
+
