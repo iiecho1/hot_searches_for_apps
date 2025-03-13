@@ -101,3 +101,25 @@
 
 + [【Latex】latex公式手册大全||积分公式表示||极限表达||矩阵的各种表达](https://blog.csdn.net/zjoy_/article/details/146163159)
 
++ [【Java篇】行云流水，似风分岔：编程结构中的自然法则](https://blog.csdn.net/2301_79849925/article/details/145949992)
+
++ [优云智算赋能国产AI：DeepSeek配合通义万相2.1文生视频模型生成高质量视频](https://blog.csdn.net/g310773517/article/details/146165068)
+
++ [微信小程序电子门票生成与核验系统架构研究——基于微信小程序的演出赛事电子票务系统设计与实现](https://blog.csdn.net/lnvb596914531/article/details/146242768)
+
++ [使用Process Explorer、Dependency Walker和PE信息查看工具快速排查dll动态库因库与库版本不一致导致的加载失败问题](https://blog.csdn.net/chenlycly/article/details/146170148)
+
++ [Cursor 终极使用指南：从零开始走向AI编程](https://blog.csdn.net/qq_34419312/article/details/146240988)
+
++ [HTTPS工作原理与安全机制详解（仅供参考）](https://blog.csdn.net/weixin_57202284/article/details/146187418)
+
++ [打造Windows服务器安全堡垒：安当SLA双因素认证方案详解](https://blog.csdn.net/weixin_51174449/article/details/146211692)
+
++ [桂链：什么是区块链智能合约和链码？](https://blog.csdn.net/weixin_42104694/article/details/146186523)
+
++ [Linux：基本指令与内涵理解](https://blog.csdn.net/2301_79954395/article/details/146095667)
+
++ [5G技术与物联网融合：未来智慧城市的基石](https://blog.csdn.net/cainiao080605/article/details/146162160)
+
++ [重生之我在学Vue--第10天 Vue 3 项目收尾与部署](https://blog.csdn.net/Xiao651/article/details/146216436)
+
