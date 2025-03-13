@@ -25,3 +25,27 @@
 
 + [小米王化否认 SU7 Pro 交付时间达 11 个月：会尽可能提拉产能保障全年 30 万台目标达成](https://m.ithome.com/html/835956.htm)
 
++ [格力董明珠：有人靠炒高股价成了首富，产品只靠低价消费者是最大受害者](https://m.ithome.com/html/837663.htm)
+
++ [2025 款小鹏 G6 轿跑 SUV 上市：全系标配图灵 AI 智驾，售 17.68 万元起](https://m.ithome.com/html/837404.htm)
+
++ [英特尔宣布任命史上首位华人 CEO 陈立武：3 月 18 日起生效，股价应声涨超 11%](https://m.ithome.com/html/837425.htm)
+
++ [华为 Pura 先锋盛典及鸿蒙智行新品发布会 3 月 20 日举行](https://m.ithome.com/html/837662.htm)
+
++ [2025 款小鹏 G9 上市：24.88 万-27.88 万元，定位巅峰科技 AI 旗舰 SUV](https://m.ithome.com/html/837413.htm)
+
++ [苹果 iPhone 17 Pro Max 再曝：横向大矩阵设计，厚度增加为更大电池腾空间](https://m.ithome.com/html/837659.htm)
+
++ [你已经有很多充电宝了，但这款还没有: 酷态科全系国补新低，10 号电能棒仅 149 元](https://m.ithome.com/html/837472.htm)
+
++ [“1610 大开想象”：华为 Pura 先锋盛典及鸿蒙智行新品发布会预告发布，暗示新机屏幕形态](https://m.ithome.com/html/837480.htm)
+
++ [余承东预热原生鸿蒙正式版，近百家合作伙伴力挺](https://m.ithome.com/html/837644.htm)
+
++ [《哪吒之魔童闹海》烂番茄开分 100% 新鲜度](https://m.ithome.com/html/837622.htm)
+
++ [惠州德赛电池回应“员工上满 8 小时班倒扣 3 天工资”：已就视频中不实部分报案](https://m.ithome.com/html/837406.htm)
+
++ [零跑 B10 汽车预售 48 小时订单超 3.1 万台，510 激光雷达智驾版 TOP1](https://m.ithome.com/html/836830.htm)
+

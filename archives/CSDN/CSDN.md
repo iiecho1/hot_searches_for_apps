@@ -123,3 +123,9 @@
 
 + [重生之我在学Vue--第10天 Vue 3 项目收尾与部署](https://blog.csdn.net/Xiao651/article/details/146216436)
 
++ [【AIGC】OpenAI 集成 Langchain 操作实战使用详解](https://blog.csdn.net/zhangcongyi420/article/details/145502391)
+
++ [【操作系统安全】任务1：操作系统部署](https://blog.csdn.net/2303_76492156/article/details/146204974)
+
++ [密码学笔记](https://blog.csdn.net/qq_36076556/article/details/146198272)
+
