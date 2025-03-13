@@ -187,3 +187,11 @@
 
 + [基于开源AI大模型与用户数据分析的S2B2C商城小程序运营策略研究](https://blog.csdn.net/weixin_70596807/article/details/146210031)
 
++ [【fnOS飞牛云NAS本地部署跨平台视频下载工具MediaGo与远程访问下载视频流程】](https://blog.csdn.net/qyj19920704/article/details/146238278)
+
++ [Folium库在地理数据可视化中的应用：方法、实践与对比分析](https://blog.csdn.net/weixin_52908342/article/details/146200460)
+
++ [基于boss直聘的招聘数据可视化分析平台-Flask+html](https://blog.csdn.net/shmp54/article/details/146217123)
+
++ [Linux：基本指令与内涵理解](https://blog.csdn.net/2301_79954395/article/details/146095667)
+

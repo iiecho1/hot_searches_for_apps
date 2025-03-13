@@ -205,3 +205,5 @@
 
 + [全球瞭望｜埃及资深媒体人：美国关税政策威胁全球经济](https://news.cctv.com/2025/03/13/ARTI6CL0PbNv5rhHXXLAPf9t250313.shtml)
 
++ [特朗普威胁将对欧盟酒类产品征收200%关税](https://news.cctv.com/2025/03/13/ARTIV4f4RiKCvnYxZV19i4dN250313.shtml)
+
