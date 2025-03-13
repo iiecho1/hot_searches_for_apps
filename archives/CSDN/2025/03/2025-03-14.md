@@ -133,3 +133,5 @@
 
 + [网络信息安全专业（710207）网络安全攻防实训室建设方案](https://blog.csdn.net/whwzzc/article/details/146169982)
 
++ [玩转云服务器——阿里云操作系统控制台体验测评](https://blog.csdn.net/weixin_41793160/article/details/146220678)
+

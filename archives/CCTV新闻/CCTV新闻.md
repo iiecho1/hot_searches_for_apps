@@ -161,3 +161,13 @@
 
 + [特朗普政府2月驱逐移民人数较去年同期减少](https://news.cctv.com/2025/03/11/ARTIpl369JXZeG5z1ubpLw4a250311.shtml)
 
++ [美载人“龙”飞船因故障取消12日发射](https://news.cctv.com/2025/03/14/ARTIApG1EKnWIgakZrcF9cbb250314.shtml)
+
++ [打击恐怖主义 西共体启用约5000人组成的待命部队](https://news.cctv.com/2025/03/14/ARTIzo2ZHxhOkklrEf98RqBm250314.shtml)
+
++ [阿塞拜疆与亚美尼亚完成和平协议草案文本谈判](https://news.cctv.com/2025/03/14/ARTIfM3qVogYDGADDr1sot2K250314.shtml)
+
++ [因支持巴勒斯坦民众 多名美国哥伦比亚大学学生遭开除](https://news.cctv.com/2025/03/14/ARTIxGaIGru5H70YMkh33x5r250314.shtml)
+
++ [特朗普再度扬言“夺岛” 称要派更多美军到格陵兰岛](https://news.cctv.com/2025/03/14/ARTIQtsNTDftjsI5l9mMRifQ250314.shtml)
+
