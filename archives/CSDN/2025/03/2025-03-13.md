@@ -195,3 +195,7 @@
 
 + [Linux：基本指令与内涵理解](https://blog.csdn.net/2301_79954395/article/details/146095667)
 
++ [蓝耘携手通义万相2.1：引领AI创作革新，重塑视觉体验](https://blog.csdn.net/2302_80243065/article/details/146155744)
+
++ [Vue/React前端项目或者静态页面强制横屏显示的神秘代码，支持ios的safari浏览器](https://blog.csdn.net/weixin_44786530/article/details/146175930)
+
