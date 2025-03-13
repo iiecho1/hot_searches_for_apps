@@ -183,3 +183,7 @@
 
 + [LVDS系列3：Xilinx的IOBUFDS原语](https://blog.csdn.net/weixin_38828382/article/details/146184362)
 
++ [Manus（一种AI代理或自动化工具）与DeepSeek（一种强大的语言模型或AI能力）结合使用任务自动化和智能决策](https://blog.csdn.net/zzlyx99/article/details/146215963)
+
++ [基于开源AI大模型与用户数据分析的S2B2C商城小程序运营策略研究](https://blog.csdn.net/weixin_70596807/article/details/146210031)
+
