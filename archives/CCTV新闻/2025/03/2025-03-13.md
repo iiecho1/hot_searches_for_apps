@@ -183,3 +183,11 @@
 
 + [俄称在库尔斯克地区行动已进入最后阶段](https://news.cctv.com/2025/03/13/ARTIuLtVSrvb25C4MdJEVj7Y250313.shtml)
 
++ [1.147万亿美元 美国政府本财年前5个月预算赤字创新高](https://news.cctv.com/2025/03/13/ARTIBbsvscxfQoB6VnzYxUPx250313.shtml)
+
++ [英媒：波兰总统提议美国将核弹头部署到波兰领土](https://news.cctv.com/2025/03/13/ARTIbD3L1cS38eptdQSSfUs6250313.shtml)
+
++ [英国撤销一名俄罗斯外交官常驻资格](https://news.cctv.com/2025/03/13/ARTInaLCfRI2OuzYMjoDtVdo250313.shtml)
+
++ [欧航局“赫拉”航天器飞掠火星 将前往近地双小行星系统](https://news.cctv.com/2025/03/13/ARTIsYYty2IeQ7tZrxhQETR8250313.shtml)
+
