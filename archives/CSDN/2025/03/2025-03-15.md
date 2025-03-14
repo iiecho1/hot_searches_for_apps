@@ -109,3 +109,19 @@
 
 + [TCP网络协议](https://blog.csdn.net/Ctrlcctrlv001/article/details/146241973)
 
++ [【QT】文件系统相关 -- QFile](https://blog.csdn.net/island1314/article/details/146260536)
+
++ [使用OpenCV和MediaPipe库——抽烟检测（姿态监控）](https://blog.csdn.net/DDDDWJDDDD/article/details/146180693)
+
++ [卷积神经网络可视化](https://blog.csdn.net/mqsdfghjk/article/details/146245381)
+
++ [vue 仿deepseek前端开发一个对话界面](https://blog.csdn.net/weixin_42050406/article/details/146207957)
+
++ [RISC-V汇编学习（四）—— RISCV QEMU平台搭建（基于芯来平台）](https://blog.csdn.net/weixin_43083491/article/details/146243752)
+
++ [【Linux系统】进程优先级：进程间的权力游戏](https://blog.csdn.net/2301_80774875/article/details/146054440)
+
++ [Secure and Privacy-Preserving Decentralized Federated Learning同态加密联邦学习文献阅读](https://blog.csdn.net/2404_87750875/article/details/146211943)
+
++ [5G技术与物联网融合：未来智慧城市的基石](https://blog.csdn.net/cainiao080605/article/details/146162160)
+
