@@ -217,3 +217,9 @@
 
 + [中消协等倡议：商家不得使用“全网最低价”等误导性信息](https://news.cctv.com/2025/03/14/ARTIjG5QSsSbbL6Q00IMCbpQ250314.shtml)
 
++ [过半美国民众不认可特朗普政府经济政策 通胀问题最受关注](https://news.cctv.com/2025/03/14/ARTIdbv0KLLNZ3C0OgAZ32wX250314.shtml)
+
++ [2025年首场月全食“上线”](https://photo.cctv.com/2025/03/14/PHOAJlMjbVYpVjJFVkSWbYFL250314.shtml)
+
++ [美媒：美以希望将加沙民众迁至非洲](https://news.cctv.com/2025/03/14/ARTIKvCj9DI6cQHEiQv78mQS250314.shtml)
+
