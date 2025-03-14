@@ -159,3 +159,7 @@
 
 + [linux系统安全](https://blog.csdn.net/xiaochenshenyu/article/details/146236703)
 
++ [Linux——Shell运行原理以及Linux权限](https://blog.csdn.net/2302_81486993/article/details/146192140)
+
++ [LabVIEW正弦信号三参数最小二乘拟合](https://blog.csdn.net/bjcyck/article/details/146221232)
+
