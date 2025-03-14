@@ -101,3 +101,11 @@
 
 + [Prompt 工程](https://blog.csdn.net/u011213419/article/details/146205686)
 
++ [python语言写的一款pdf转word、word转pdf的免费工具](https://blog.csdn.net/2302_79560683/article/details/146230228)
+
++ [Python爬虫：从人民网提取视频链接的完整指南](https://blog.csdn.net/Z_suger7/article/details/146208625)
+
++ [贪心算法和遗传算法优劣对比——c#](https://blog.csdn.net/yongshiqq/article/details/146233688)
+
++ [TCP网络协议](https://blog.csdn.net/Ctrlcctrlv001/article/details/146241973)
+
