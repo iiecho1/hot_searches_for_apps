@@ -27,3 +27,13 @@
 
 + [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
++ [glanceapp/glance](https://github.com/glanceapp/glance)
+
++ [openai/openai-python](https://github.com/openai/openai-python)
+
++ [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
+
++ [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+
++ [kern/filepizza](https://github.com/kern/filepizza)
+
