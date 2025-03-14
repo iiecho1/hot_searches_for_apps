@@ -229,3 +229,11 @@
 
 + [卷积神经网络可视化](https://blog.csdn.net/mqsdfghjk/article/details/146245381)
 
++ [SpringBoot牵手RabbitMQ](https://blog.csdn.net/jdxhb/article/details/146224225)
+
++ [VulnHub靶场之AI Web 1.0超易懂反弹shell提权cat flag](https://blog.csdn.net/2301_77091612/article/details/146175276)
+
++ [当量子计算邂逅计算机视觉：开启科技融合新征程](https://blog.csdn.net/u013132758/article/details/146248358)
+
++ [基于Hadoop的城市道路交通数据的可视化分析-Flask](https://blog.csdn.net/shmp54/article/details/146242725)
+
