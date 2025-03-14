@@ -219,3 +219,11 @@
 
 + [江科大51单片机笔记【16】AD/DA（上）](https://blog.csdn.net/2301_80195807/article/details/146185566)
 
++ [设计深度学习系统：从理论到实践](https://blog.csdn.net/qq_44273429/article/details/146261867)
+
++ [Deepseek Chatgpt Kimi 推荐的深度学习书单](https://blog.csdn.net/qq_26226783/article/details/146237877)
+
++ [「HTML5+Canvas实战」星际空战游戏开发 - 纯前端实现 & 源码即开即用【附演示视频】](https://blog.csdn.net/Pte_moon/article/details/146189984)
+
++ [微信小程序校园跑腿的设计与实现【lw+源码+部署+视频+讲解】](https://blog.csdn.net/weixin_43586169/article/details/146196592)
+
