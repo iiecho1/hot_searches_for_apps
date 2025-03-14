@@ -239,3 +239,13 @@
 
 + [以色列封锁加沙第13天 约80%居民失去基本粮食来源](https://news.cctv.com/2025/03/14/ARTINREoQdmXTdn2u3cSS7Pn250314.shtml)
 
++ [从三个变量，看懂中俄伊的罕见一幕](https://news.cctv.com/2025/03/14/ARTIXA30zzayCOfw0dkJeUq4250314.shtml)
+
++ [日本陆上自卫队一军官因训练事故死亡](https://news.cctv.com/2025/03/14/ARTIn0Kpc3CdHfvjs5UCQ0fs250314.shtml)
+
++ [卢卡申科：“榛树”导弹即将列装白俄罗斯军队](https://news.cctv.com/2025/03/14/ARTIhTmhzvVgGGL3crX5XtOw250314.shtml)
+
++ [美国可能于下月对进口汽车征收关税 包括韩、日、德](https://news.cctv.com/2025/03/14/ARTIMVF3VQ3dpkQN43mlcc33250314.shtml)
+
++ [丹麦外交大臣：格陵兰岛仍将继续是丹麦王国的一部分](https://news.cctv.com/2025/03/14/ARTIi9N0qpwLzUO6dLjdLj2e250314.shtml)
+

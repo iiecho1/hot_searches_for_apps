@@ -227,3 +227,5 @@
 
 + [微信小程序校园跑腿的设计与实现【lw+源码+部署+视频+讲解】](https://blog.csdn.net/weixin_43586169/article/details/146196592)
 
++ [卷积神经网络可视化](https://blog.csdn.net/mqsdfghjk/article/details/146245381)
+
