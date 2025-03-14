@@ -175,3 +175,15 @@
 
 + [2025年第十届数维杯大学生数学建模挑战赛参赛规则](https://blog.csdn.net/qq_52590045/article/details/146216177)
 
++ [人工智能技术与编程语言：从理论到实践](https://blog.csdn.net/qq_16242613/article/details/146188599)
+
++ [PyTorch PINN实战：用深度学习求解微分方程](https://blog.csdn.net/m0_46510245/article/details/146250015)
+
++ [DeepSeek R1在医院后勤故障报修工单自动化处理中的路径设计](https://blog.csdn.net/kkiron/article/details/146249213)
+
++ [ Machine Learning: 十大基本机器学习算法](https://blog.csdn.net/qq_45913945/article/details/146196784)
+
++ [学习threejs，使用MeshFaceMaterial面材质容器](https://blog.csdn.net/qq_28419035/article/details/146251930)
+
++ [springboot 云原生介绍](https://blog.csdn.net/qq_38041439/article/details/146234166)
+
