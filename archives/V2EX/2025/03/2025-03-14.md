@@ -33,3 +33,13 @@
 
 + [请教下买哪个 nas 最好](https://www.v2ex.com/t/1118189)
 
++ [金三银四 怕是凉了 24 届后端求职](https://www.v2ex.com/t/1118092)
+
++ [有在大公司运维 VMware 虚拟化平台的，而且用盗版的吗？](https://www.v2ex.com/t/1118127)
+
++ [[送码] InfyniDock, macOS 应用多窗口管理辅助工具](https://www.v2ex.com/t/1118106)
+
++ [原来少年的心气是不可再生之物](https://www.v2ex.com/t/1118116)
+
++ [一大早起来，看到 GitHub 让我立遗嘱？](https://www.v2ex.com/t/1118312)
+

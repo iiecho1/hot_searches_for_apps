@@ -145,3 +145,9 @@
 
 + [Linux驱动开发实战（四）：设备树点RGB灯](https://blog.csdn.net/m0_71304252/article/details/146235808)
 
++ [Nature最新报道：分析四大主流AI工具、性能测评、推荐使用场景](https://blog.csdn.net/guorui_java/article/details/146197349)
+
++ [【C++项目实战】校园公告搜索引擎：完整实现与优化指南](https://blog.csdn.net/dhgiuyawhiudwqha/article/details/146230928)
+
++ [Nginx 生产环境安全配置加固](https://blog.csdn.net/mqiqe/article/details/146203326)
+

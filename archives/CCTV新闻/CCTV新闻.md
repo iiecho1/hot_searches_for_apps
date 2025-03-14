@@ -175,3 +175,17 @@
 
 + [美国航空一架飞机在机场起火 乘客已全部撤离](https://news.cctv.com/2025/03/14/ARTIficszF5L06uEWUjMMBRU250314.shtml)
 
++ [法国总理贝鲁：我们不会屈服于美方的关税威胁](https://news.cctv.com/2025/03/14/ARTITfHYYmM4eXdo0WGrCvgt250314.shtml)
+
++ [美国得州一小飞机坠毁起火 机上飞行员丧生](https://news.cctv.com/2025/03/14/ARTIZg9t3mhGf1cfTD6ng81g250314.shtml)
+
++ [菲律宾前总统杜特尔特将首次出庭接受聆讯](https://news.cctv.com/2025/03/14/ARTId2xL6lik7STZD8dC1PWR250314.shtml)
+
++ [“龙”飞船再“爽约” 美滞留太空宇航员“回家”又双叒叕推迟了](https://news.cctv.com/2025/03/14/ARTIqhov6Zon7jXmoKCs2EhB250314.shtml)
+
++ [“关税乱拳”或致美国经济陷入“特朗普衰退”甚至“滞胀”困境](https://news.cctv.com/2025/03/14/ARTI5KtcCPyeDloOPxtBMswH250314.shtml)
+
++ [美国加征钢铝关税 美媒：本国消费者将付出真金白银](https://news.cctv.com/2025/03/14/ARTIvSez8ueTG9GZ1p8bL3xb250314.shtml)
+
++ [通胀问题最受关注 美国民众对特朗普经济政策认可率不足五成](https://news.cctv.com/2025/03/14/ARTIZ7RARx6qZEzCuo9g4Ttb250314.shtml)
+
