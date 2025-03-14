@@ -163,3 +163,15 @@
 
 + [LabVIEW正弦信号三参数最小二乘拟合](https://blog.csdn.net/bjcyck/article/details/146221232)
 
++ [搭建【Dify】大语言模型（LLM）应用开发平台的详细指南](https://blog.csdn.net/weixin_53269650/article/details/145998014)
+
++ [GaussDB高安全—全密态数据库](https://blog.csdn.net/GaussDB/article/details/146250949)
+
++ [OpenEuler部署Flink 1.19.2完全分布式集群](https://blog.csdn.net/shisjin/article/details/146246259)
+
++ [Kubernetes 中 YAML 文件详解](https://blog.csdn.net/zhangyongze_z/article/details/146208987)
+
++ [系统安全及应用](https://blog.csdn.net/rzy41880/article/details/146222320)
+
++ [2025年第十届数维杯大学生数学建模挑战赛参赛规则](https://blog.csdn.net/qq_52590045/article/details/146216177)
+
