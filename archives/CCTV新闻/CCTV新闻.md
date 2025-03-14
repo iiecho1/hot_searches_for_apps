@@ -223,3 +223,11 @@
 
 + [美媒：美以希望将加沙民众迁至非洲](https://news.cctv.com/2025/03/14/ARTIKvCj9DI6cQHEiQv78mQS250314.shtml)
 
++ [和评理｜损人无法利己，关税战也无法让美国再次伟大](https://news.cctv.com/2025/03/14/ARTInFYgZzEKq5vaKO8VShk9250314.shtml)
+
++ [国际观察：从外媒关注探寻中国经济发展底气何来](https://news.cctv.com/2025/03/14/ARTICzkJe5cY0iNhSgMlE22v250314.shtml)
+
++ [坦桑尼亚宣布马尔堡病毒病疫情结束](https://news.cctv.com/2025/03/14/ARTIBRTgEC4rmw0d8RoJUR0t250314.shtml)
+
++ [日本首相回应给议员发商品券：确有此事 但不违法](https://news.cctv.com/2025/03/14/ARTIUnYDh5IgtdnSeqoF9mnu250314.shtml)
+

@@ -195,3 +195,17 @@
 
 + [Linux笔记---文件系统硬件部分](https://blog.csdn.net/2302_80372340/article/details/146210194)
 
++ [计算机视觉领域开源数据集资源整理](https://blog.csdn.net/m0_69402477/article/details/146227044)
+
++ [Python 进程与线程-分布式进程](https://blog.csdn.net/xinfanyyds/article/details/146224707)
+
++ [【反无人机目标检测】DRBD-YOLOv8](https://blog.csdn.net/weixin_44184852/article/details/146202465)
+
++ [wx137基于springboot+vue+uniapp的驾校报名小程序](https://blog.csdn.net/shmp54xmu/article/details/146242462)
+
++ [【React】useState及底层处理机制](https://blog.csdn.net/qq_38951259/article/details/146232881)
+
++ [【VBA】excel获取股票实时行情（历史数据，基金数据下载）](https://blog.csdn.net/weixin_43764974/article/details/146242560)
+
++ [《Python实战进阶》No22 Python自动化办公实战：Excel/Word/PDF文件处理全攻略](https://blog.csdn.net/yweng18/article/details/146239135)
+
