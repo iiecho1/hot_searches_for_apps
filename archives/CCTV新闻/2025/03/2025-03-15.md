@@ -161,3 +161,5 @@
 
 + [欧盟宣布对美钢铝关税政策采取反制措施](https://news.cctv.com/2025/03/12/ARTIOh82JDhEEcURqr8EnPDl250312.shtml)
 
++ [马克·卡尼宣誓就任加拿大总理 新内阁亮相](https://news.cctv.com/2025/03/15/ARTIkzE4mkUSkaLfTTdnBNv5250315.shtml)
+
