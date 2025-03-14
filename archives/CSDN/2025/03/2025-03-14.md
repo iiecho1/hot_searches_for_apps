@@ -135,3 +135,7 @@
 
 + [玩转云服务器——阿里云操作系统控制台体验测评](https://blog.csdn.net/weixin_41793160/article/details/146220678)
 
++ [Springboot医院智能导诊问诊全流程系统源码 支持小程序H5](https://blog.csdn.net/qq_27741787/article/details/146230789)
+
++ [卷积神经网络（笔记02）](https://blog.csdn.net/mqsdfghjk/article/details/146185937)
+
