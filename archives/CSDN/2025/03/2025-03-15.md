@@ -125,3 +125,5 @@
 
 + [5G技术与物联网融合：未来智慧城市的基石](https://blog.csdn.net/cainiao080605/article/details/146162160)
 
++ [Java 大视界 -- Java 大数据在智能安防视频摘要与检索技术中的应用（128）](https://blog.csdn.net/atgfg/article/details/146217687)
+
