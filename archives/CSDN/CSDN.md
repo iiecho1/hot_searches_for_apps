@@ -139,3 +139,9 @@
 
 + [卷积神经网络（笔记02）](https://blog.csdn.net/mqsdfghjk/article/details/146185937)
 
++ [基于Python实现手写数字识别](https://blog.csdn.net/s1t16/article/details/146211454)
+
++ [多模态生成模型：统一文本、图像、视频与音频的生成框架及技术进展【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/146174077)
+
++ [Linux驱动开发实战（四）：设备树点RGB灯](https://blog.csdn.net/m0_71304252/article/details/146235808)
+
