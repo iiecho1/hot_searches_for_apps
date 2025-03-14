@@ -129,3 +129,5 @@
 
 + [【Linux内核系列】：文件系统收尾以及软硬链接详解](https://blog.csdn.net/2301_80260194/article/details/146269676)
 
++ [kafka连问](https://blog.csdn.net/C18298182575/article/details/146245285)
+
