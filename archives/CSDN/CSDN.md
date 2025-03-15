@@ -173,3 +173,11 @@
 
 + [通过qemu仿真树莓派系统调试IoT固件和程序](https://blog.csdn.net/GKD2019/article/details/146263626)
 
++ [扩散模型的鲁棒性研究：对抗攻击的影响与防御策略分析【附核心代码实例】](https://blog.csdn.net/weixin_52908342/article/details/146277200)
+
++ [内网穿透的应用-全流程解析如何通过VNC实现Windows与MacOS远程桌面的无缝连接](https://blog.csdn.net/weixin_42878111/article/details/146248117)
+
++ [计算机网络：（一）详细讲解互联网概述与组成 （附带图谱更好对比理解）](https://blog.csdn.net/2402_83322742/article/details/146279089)
+
++ [数学建模之数学模型-3：动态规划](https://blog.csdn.net/2301_81197800/article/details/145817176)
+

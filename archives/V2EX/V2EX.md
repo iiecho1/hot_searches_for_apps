@@ -51,3 +51,5 @@
 
 + [二孩家庭选车纠结](https://www.v2ex.com/t/1118600)
 
++ [JavaScript 中的 Promise 跟异步有关系吗？还是我的理解有问题？谁能把 Promise 解释清楚？ Promise 的正确用法应该是什么样的？](https://www.v2ex.com/t/1118623)
+
