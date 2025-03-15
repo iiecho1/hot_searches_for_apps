@@ -141,3 +141,7 @@
 
 + [「今天是钢琴大师的show time～」｜小井小一小剧场](https://m.acfun.cn/v/%3Fac%3D47006618)
 
++ [化妆师居然用牙刷给我化妆](https://m.acfun.cn/v/%3Fac%3D47004017)
+
++ [帅气来一首《Beatbox》](https://m.acfun.cn/v/%3Fac%3D47004384)
+
