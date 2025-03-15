@@ -215,3 +215,21 @@
 
 + [美国麻疹疫情继续蔓延　确诊病例数突破300](https://news.cctv.com/2025/03/15/ARTIg3N0azLmb8Hjc53pFj6M250315.shtml)
 
++ [古巴再度发生大面积断电](https://news.cctv.com/2025/03/15/ARTI9uH4MI7Sb6klPhfh9IBv250315.shtml)
+
++ [美国能源部确认已将韩国列入“敏感国家名单”](https://news.cctv.com/2025/03/15/ARTIlLgnF273xRozUGOa9pZV250315.shtml)
+
++ [匈牙利总理向欧盟提出“乌克兰不加入欧盟”等12点要求](https://news.cctv.com/2025/03/15/ARTI4MvnjRObFzoMgUp12Svb250315.shtml)
+
++ [英国首相与多位领导人举行线上会议 呼吁对俄施压](https://news.cctv.com/2025/03/15/ARTIwqck94M2Apnai6KfOPwj250315.shtml)
+
++ [哈马斯提出释放被扣押人员条件 要求以色列履行停火协议](https://news.cctv.com/2025/03/15/ARTIfJdhhu9MxVUQ1R5pHl4A250315.shtml)
+
++ [南非总统府：驻美大使被驱逐“令人遗憾”](https://news.cctv.com/2025/03/15/ARTIr6TMGcvgLEKCpOW6c5go250315.shtml)
+
++ [美国提出临时方案 欲延长加沙地带停火至4月](https://news.cctv.com/2025/03/15/ARTIPFcA4oiADri75WKCE673250315.shtml)
+
++ [军火只买“欧洲造” 欧盟要推动与美国“防务脱钩”？](https://news.cctv.com/2025/03/15/ARTIJzq8gZO2Z0clJnX8F95Z250315.shtml)
+
++ [经济不确定性及航空事故频发影响美航空业](https://news.cctv.com/2025/03/15/ARTI8UgwTaUfQz9ZwfxOZsAG250315.shtml)
+

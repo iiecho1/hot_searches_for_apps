@@ -181,3 +181,11 @@
 
 + [数学建模之数学模型-3：动态规划](https://blog.csdn.net/2301_81197800/article/details/145817176)
 
++ [【Golang】第五弹----函数](https://blog.csdn.net/2302_80713883/article/details/146232185)
+
++ [嵌入式八股ARM篇](https://blog.csdn.net/qq_45731845/article/details/146259399)
+
++ [Linux系统安全及应用](https://blog.csdn.net/2402_86723757/article/details/146229343)
+
++ [技术与情感交织的一生 （一）](https://blog.csdn.net/michaelline/article/details/146147619)
+

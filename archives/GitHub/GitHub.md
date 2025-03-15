@@ -23,3 +23,9 @@
 
 + [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
 
++ [ethereum/solidity](https://github.com/ethereum/solidity)
+
++ [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+
++ [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+
