@@ -189,3 +189,9 @@
 
 + [技术与情感交织的一生 （一）](https://blog.csdn.net/michaelline/article/details/146147619)
 
++ [基于RAGFlow本地部署DeepSpeek-R1大模型与知识库：从配置到应用的全流程解析](https://blog.csdn.net/c18213590220/article/details/146280673)
+
++ [字节跳动COMET：MoE架构优化技术解析](https://blog.csdn.net/ccsss22/article/details/146282034)
+
++ [ESP32-H2芯片模组方案，设备物联网通信，智能化无线控制联动](https://blog.csdn.net/2409_89353636/article/details/146257579)
+
