@@ -163,3 +163,9 @@
 
 + [flutter 专题 八十八 Flutter原生混合开发](https://blog.csdn.net/m0_61164038/article/details/145462386)
 
++ [ChatGPT、DeepSeek、Grok 三者对比：AI 语言模型的博弈与未来](https://blog.csdn.net/qq_20245171/article/details/146227743)
+
++ [非遗数字化活态传承：基于Manus AI的惠山泥人交互设计范式重构研究](https://blog.csdn.net/m0_49844997/article/details/146268076)
+
++ [鸿蒙初学者学习手册(HarmonyOSNext_API14)_UIContext（@ohos.arkui.UIContext (UIContext)）](https://blog.csdn.net/m0_71977266/article/details/146119914)
+
