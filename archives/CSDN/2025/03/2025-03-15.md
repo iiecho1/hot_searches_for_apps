@@ -149,3 +149,7 @@
 
 + [用Keras构建爱情模型：破解情侣间的情感密码](https://blog.csdn.net/qq_51601665/article/details/146239220)
 
++ [DeepSeek +Ollama+ Dify+Docker ：企业本地化部署+本地知识库构建详细教程（Windows）](https://blog.csdn.net/weixin_47590992/article/details/146208468)
+
++ [前端笔记 --- vue框架](https://blog.csdn.net/m0_73753865/article/details/146210168)
+

@@ -193,3 +193,9 @@
 
 + [联合国安理会谴责叙利亚暴力冲突](https://news.cctv.com/2025/03/15/ARTIrzMpErl3am4pwDP1ZJUh250315.shtml)
 
++ [鲁班工坊环游记：汉字背后的价值观让世界共鸣](https://news.cctv.com/2025/03/15/ARTINWeRTotewQ8iVzAPLl56250315.shtml)
+
++ [巴西副外长：金砖机制是推动全球南方合作的重要力量](https://news.cctv.com/2025/03/15/ARTIY9Q71wjqSqjpfvAvAFzs250315.shtml)
+
++ [专访丨“中国的机械化技术正助力我们实现农业现代化”——访冈比亚农业部长登巴·萨巴利](https://news.cctv.com/2025/03/15/ARTI3SzT9HRyRNNfE63f6bK1250315.shtml)
+
