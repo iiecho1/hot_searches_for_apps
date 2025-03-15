@@ -109,3 +109,17 @@
 
 + [3D扩散模型的构建与优化：多模态融合在三维物体生成中的作用【附核心代码实例】](https://blog.csdn.net/weixin_52908342/article/details/146253119)
 
++ [基于Python的天气预报数据可视化分析系统-Flask+html](https://blog.csdn.net/shmp54/article/details/146267487)
+
++ [基于大数据与机器学习的淘宝电商消费行为分析可视化系统(源码+论文+数据集)](https://blog.csdn.net/weixin_39709134/article/details/146282636)
+
++ [数学建模：MATLAB循环神经网络](https://blog.csdn.net/DesolateGIS/article/details/146266241)
+
++ [python开发订单查询功能（flask+orm bee）](https://blog.csdn.net/abckingaa/article/details/146267744)
+
++ [Fiora聊天系统本地化部署：Docker搭建与远程在线聊天的实践指南](https://blog.csdn.net/2301_77485708/article/details/146243494)
+
++ [ARM：什么是满减栈？为何选择满减栈？](https://blog.csdn.net/leilei050213/article/details/146267575)
+
++ [【论文笔记】Contrastive Learning for Compact Single Image Dehazing(AECR-Net)](https://blog.csdn.net/w050423/article/details/146268429)
+
