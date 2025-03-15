@@ -161,3 +161,9 @@
 
 + [美国航空一架飞机在机场起火 乘客已全部撤离](https://news.cctv.com/2025/03/14/ARTIficszF5L06uEWUjMMBRU250314.shtml)
 
++ [特朗普命令美国军方对胡塞武装采取军事行动](https://news.cctv.com/2025/03/16/ARTIH3wIbWmFsfvEtuCmf5M2250316.shtml)
+
++ [强风暴袭击美国南部和中西部 至少18人死亡、超20万户停电](https://news.cctv.com/2025/03/16/ARTIQmIWTMOiEOXPvS4b4mZi250316.shtml)
+
++ [英媒：斯塔默痛斥英国公务员体系“臃肿低效”，被警告不要效仿马斯克风格](https://news.cctv.com/2025/03/16/ARTI42KS8VWorBTDiCSnmC3J250316.shtml)
+
