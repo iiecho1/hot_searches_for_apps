@@ -101,3 +101,11 @@
 
 + [当量子计算邂逅计算机视觉：开启科技融合新征程](https://blog.csdn.net/u013132758/article/details/146248358)
 
++ [AWS Bedrock + DeepSeek-R1：开启企业级 AI 开发的新篇章](https://blog.csdn.net/CC1991_/article/details/146225719)
+
++ [【Golang】第五弹----函数](https://blog.csdn.net/2302_80713883/article/details/146232185)
+
++ [鸿蒙Next开发与实战经验总结](https://blog.csdn.net/qq_16242613/article/details/146244233)
+
++ [3D扩散模型的构建与优化：多模态融合在三维物体生成中的作用【附核心代码实例】](https://blog.csdn.net/weixin_52908342/article/details/146253119)
+
