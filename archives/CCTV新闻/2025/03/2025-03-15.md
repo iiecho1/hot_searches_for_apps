@@ -233,3 +233,7 @@
 
 + [经济不确定性及航空事故频发影响美航空业](https://news.cctv.com/2025/03/15/ARTI8UgwTaUfQz9ZwfxOZsAG250315.shtml)
 
++ [法国官员：美欧贸易争端将升级](https://news.cctv.com/2025/03/15/ARTIEqmAWG29zaqULZrceV1I250315.shtml)
+
++ [泽连斯基：乌军在库尔斯克部分地区的军事行动仍在继续 未陷入包围](https://news.cctv.com/2025/03/15/ARTIqDccUSSbMYg2kWBDqeHd250315.shtml)
+
