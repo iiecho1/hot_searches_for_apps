@@ -145,3 +145,7 @@
 
 + [完善机器人：让 DeepSeek 使用Vue Element UI快速搭建 AI 交互页面](https://blog.csdn.net/qq_23202687/article/details/146179981)
 
++ [基于深度学习的多模态人脸情绪识别研究与实现（视频+图像＋语音）](https://blog.csdn.net/weixin_42380711/article/details/146228828)
+
++ [用Keras构建爱情模型：破解情侣间的情感密码](https://blog.csdn.net/qq_51601665/article/details/146239220)
+
