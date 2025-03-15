@@ -131,3 +131,17 @@
 
 + [kafka连问](https://blog.csdn.net/C18298182575/article/details/146245285)
 
++ [C#整体知识点快速回顾](https://blog.csdn.net/weixin_46012816/article/details/146244456)
+
++ [AWS Bedrock + DeepSeek-R1：开启企业级 AI 开发的新篇章](https://blog.csdn.net/CC1991_/article/details/146225719)
+
++ [Java 大视界 -- Java 大数据在智能教育虚拟实验室建设与实验数据分析中的应用（132）](https://blog.csdn.net/atgfg/article/details/146255638)
+
++ [使用 Excel 实现绩效看板的自动化](https://blog.csdn.net/chenchihwen/article/details/146221849)
+
++ [Spring Boot中实现多租户架构](https://blog.csdn.net/u013257321/article/details/146228134)
+
++ [【MySQL】表的约束（上）](https://blog.csdn.net/2301_79969994/article/details/146268048)
+
++ [完善机器人：让 DeepSeek 使用Vue Element UI快速搭建 AI 交互页面](https://blog.csdn.net/qq_23202687/article/details/146179981)
+

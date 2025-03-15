@@ -21,3 +21,13 @@
 
 + [AirPods Pro 3 或于今年发布，你期待吗？](https://www.v2ex.com/t/1118349)
 
++ [AI 替代法官的可行性](https://www.v2ex.com/t/1118580)
+
++ [拿了个奖，奖金 2000 怎么处理比较好](https://www.v2ex.com/t/1118476)
+
++ [关于早睡与女朋友之间的争吵，何解？](https://www.v2ex.com/t/1118443)
+
++ [好奇 Java 味是什么味](https://www.v2ex.com/t/1118514)
+
++ [反思，我写的前端的 react 味是不是太重了](https://www.v2ex.com/t/1118463)
+
