@@ -19,3 +19,5 @@
 
 + [净水器的挑选](https://www.v2ex.com/t/1118303)
 
++ [AirPods Pro 3 或于今年发布，你期待吗？](https://www.v2ex.com/t/1118349)
+

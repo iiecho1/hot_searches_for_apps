@@ -163,3 +163,7 @@
 
 + [马克·卡尼宣誓就任加拿大总理 新内阁亮相](https://news.cctv.com/2025/03/15/ARTIkzE4mkUSkaLfTTdnBNv5250315.shtml)
 
++ [英国指控北海撞船事故涉事货轮船长犯有重大过失杀人罪](https://news.cctv.com/2025/03/15/ARTICna4AuktVC77yBZFRvJ7250315.shtml)
+
++ [古巴多省市发生大面积停电](https://news.cctv.com/2025/03/15/ARTITdSiXGzjZ4CeDhds1iOW250315.shtml)
+
