@@ -169,3 +169,7 @@
 
 + [鸿蒙初学者学习手册(HarmonyOSNext_API14)_UIContext（@ohos.arkui.UIContext (UIContext)）](https://blog.csdn.net/m0_71977266/article/details/146119914)
 
++ [MyBatis框架操作数据库一＞xml和动态Sql](https://blog.csdn.net/robin_suli/article/details/146277360)
+
++ [通过qemu仿真树莓派系统调试IoT固件和程序](https://blog.csdn.net/GKD2019/article/details/146263626)
+
