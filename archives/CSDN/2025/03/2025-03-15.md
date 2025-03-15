@@ -153,3 +153,9 @@
 
 + [前端笔记 --- vue框架](https://blog.csdn.net/m0_73753865/article/details/146210168)
 
++ [解锁 AI 核心：神经网络与机器学习知名算法全解析](https://blog.csdn.net/hxsyyds49/article/details/146269684)
+
++ [RISC-V汇编学习（五）—— 汇编实战、GCC内联汇编（基于芯来平台）](https://blog.csdn.net/weixin_43083491/article/details/146251066)
+
++ [论文写作篇#6：在C会里，YOLO文章的摘要怎么写？Conclusion怎么写？摘要和Conclusion有哪些区别？](https://blog.csdn.net/hjs314159/article/details/146274126)
+
