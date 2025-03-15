@@ -195,3 +195,9 @@
 
 + [ESP32-H2芯片模组方案，设备物联网通信，智能化无线控制联动](https://blog.csdn.net/2409_89353636/article/details/146257579)
 
++ [探索Maas平台与阿里 QWQ 技术：AI调参的魔法世界](https://blog.csdn.net/beautifulmemory/article/details/146268865)
+
++ [深入理解数据库：从概念到MySQL应用](https://blog.csdn.net/ZWW_zhangww/article/details/146275562)
+
++ [JAVA多商户家政同城上门服务预约服务抢单派单+自营商城系统支持小程序+APP+公众号+h5](https://blog.csdn.net/2401_84292256/article/details/146217892)
+
