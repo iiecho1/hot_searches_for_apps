@@ -47,3 +47,5 @@
 
 + [人生实苦，何以自渡？观几个帖子有感](https://www.v2ex.com/t/1118708)
 
++ [Studio M4max 128G 是否合适跑大模型](https://www.v2ex.com/t/1118789)
+
