@@ -137,3 +137,5 @@
 
 + [uv命令介绍（高性能Python包管理工具，旨在替代pip、pip-tools和virtualenv等传统工具）](https://blog.csdn.net/Dontla/article/details/146260077)
 
++ [DeepSeek-prompt指令-当DeepSeek答非所问，应该如何准确的表达我们的诉求？](https://blog.csdn.net/weixin_42029523/article/details/146234047)
+
