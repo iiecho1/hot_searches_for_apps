@@ -21,3 +21,15 @@
 
 + [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 
++ [calcom/cal.com](https://github.com/calcom/cal.com)
+
++ [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid)
+
++ [TanStack/form](https://github.com/TanStack/form)
+
++ [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+
++ [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi)
+
++ [uutils/coreutils](https://github.com/uutils/coreutils)
+
