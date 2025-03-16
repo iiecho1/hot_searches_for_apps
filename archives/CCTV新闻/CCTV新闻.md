@@ -185,3 +185,11 @@
 
 + [“这是一场愚蠢的战争” 法官员称美欧贸易争端将升级](https://news.cctv.com/2025/03/16/ARTIGCSRptnyMNYX8gTFyRfF250316.shtml)
 
++ [德国公布5000亿欧元基金财政草案　放宽债务限制](https://news.cctv.com/2025/03/16/ARTIWuJyINPUlJLXNuT8zDtQ250316.shtml)
+
++ [澳研究团队发现世界已知最古老陨石撞击坑 或改变对生命起源认知](https://news.cctv.com/2025/03/16/ARTIlhG0upnjmiBf2eMJnPnn250316.shtml)
+
++ [塞尔维亚首都爆发大规模抗议，武契奇：必须做出改变](https://news.cctv.com/2025/03/16/ARTI8pJq0Mtw8RjYEtThodRC250316.shtml)
+
++ [马斯克：“星舰”2026年底将前往火星 最早2029年载人登陆](https://news.cctv.com/2025/03/16/ARTIbqkEvcKEDQ6tms5Au5Hm250316.shtml)
+
