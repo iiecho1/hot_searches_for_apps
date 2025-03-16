@@ -183,3 +183,11 @@
 
 + [Web3到底解决了什么问题?](https://blog.csdn.net/2401_86523075/article/details/146284209)
 
++ [利用 OpenCV 库进行实时目标物体检测](https://blog.csdn.net/weixin_69327572/article/details/146280833)
+
++ [Axios介绍（前端开发处理网络请求首选工具，基于Promise HTTP客户端，可以在浏览器和Node.js环境使用）（Axios库）](https://blog.csdn.net/Dontla/article/details/146280213)
+
++ [学习springboot 的自动配置原理](https://blog.csdn.net/m0_74124657/article/details/146267281)
+
++ [SpringBoot项目实战—难忘外卖开发：菜品分页查询、批量删除、状态改变 实践【05】](https://blog.csdn.net/weixin_52908342/article/details/146245137)
+

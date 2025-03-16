@@ -53,3 +53,5 @@
 
 + [写了个自动更新内网打洞 IP 和端口服务，没有公网 IP 的宽带用户也可以全自动全速连回家](https://www.v2ex.com/t/1118793)
 
++ [求推荐便宜的 SG US VPS，最好是 CN2 GIA 线路的，用来搭 hysteria2](https://www.v2ex.com/t/1118734)
+
