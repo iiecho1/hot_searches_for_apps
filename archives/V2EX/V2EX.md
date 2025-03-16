@@ -49,3 +49,5 @@
 
 + [Studio M4max 128G 是否合适跑大模型](https://www.v2ex.com/t/1118789)
 
++ [现在全额缴纳的养老保险，合算吗？](https://www.v2ex.com/t/1118798)
+

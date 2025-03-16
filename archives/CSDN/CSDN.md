@@ -169,3 +169,9 @@
 
 + [JAVA同城服务上门家政服务家政派单系统源码微信小程序+微信公众号+APP+H5](https://blog.csdn.net/2401_84292256/article/details/146260013)
 
++ [用Python打造智能姓名生成器：从数据分离到AI赋能](https://blog.csdn.net/deepever/article/details/146297960)
+
++ [System V共享内存详解：在Linux上实现内存共享的最佳实践](https://blog.csdn.net/Cayyyy/article/details/146289972)
+
++ [nginx中间件部署](https://blog.csdn.net/weixin_53662874/article/details/146286567)
+
