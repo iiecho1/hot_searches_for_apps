@@ -23,3 +23,5 @@
 
 + [IP.im 准确方便的 IP 地址查询网站， UI 全新升级，欢迎体验](https://www.v2ex.com/t/1118840)
 
++ [出海的 app，怎么收款？](https://www.v2ex.com/t/1118767)
+
