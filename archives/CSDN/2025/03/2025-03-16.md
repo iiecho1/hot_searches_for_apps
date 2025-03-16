@@ -175,3 +175,11 @@
 
 + [nginx中间件部署](https://blog.csdn.net/weixin_53662874/article/details/146286567)
 
++ [QWQ-32B 于蓝耘 MaaS 平台：基于 Transformer 架构的 AIGC 推理优化策略](https://blog.csdn.net/bite_zwy/article/details/146294423)
+
++ [ICLR2025 | SLMRec: 重新思考大语言模型在推荐系统中的价值](https://blog.csdn.net/qq_35812205/article/details/146285120)
+
++ [搭建Spring Boot Admin监控系统](https://blog.csdn.net/liangmengbk/article/details/146281786)
+
++ [Web3到底解决了什么问题?](https://blog.csdn.net/2401_86523075/article/details/146284209)
+
