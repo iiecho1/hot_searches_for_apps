@@ -175,3 +175,13 @@
 
 + [厄瓜多尔西北部发生石油泄漏 当地进入环境紧急状态](https://news.cctv.com/2025/03/16/ARTIirN8jlZ1QTEynVgRPab4250316.shtml)
 
++ [也门遭美军大规模空袭 胡塞武装：已准备好以“升级对抗升级”](https://news.cctv.com/2025/03/16/ARTIp9wL5NRLalcPdkoCPXp3250316.shtml)
+
++ [军火只买“欧洲造”，欧盟要推动与美国“防务脱钩”？](https://news.cctv.com/2025/03/16/ARTIrWwbZKWD9tIc5dGOuXoE250316.shtml)
+
++ [北欧国家难解美国面临的“鸡蛋危机”](https://news.cctv.com/2025/03/16/ARTIUWXKfs1Kmo7cowJa8YN4250316.shtml)
+
++ [美国8个州遭遇40多起龙卷风 致31人死亡](https://news.cctv.com/2025/03/16/ARTImaeSteaiWlfp7Tz4gd37250316.shtml)
+
++ [“这是一场愚蠢的战争” 法官员称美欧贸易争端将升级](https://news.cctv.com/2025/03/16/ARTIGCSRptnyMNYX8gTFyRfF250316.shtml)
+

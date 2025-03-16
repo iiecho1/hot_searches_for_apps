@@ -133,3 +133,7 @@
 
 + [驾驭 DeepSeek 科技之翼，翱翔现代学习新天际](https://blog.csdn.net/2401_82648291/article/details/145660647)
 
++ [如何使用Vue3实现登录注册页面多种布局的6套源码案例, 完整vue代码，直接复制,免费领取](https://blog.csdn.net/qq_44866828/article/details/146285852)
+
++ [uv命令介绍（高性能Python包管理工具，旨在替代pip、pip-tools和virtualenv等传统工具）](https://blog.csdn.net/Dontla/article/details/146260077)
+
