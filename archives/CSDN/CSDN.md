@@ -191,3 +191,11 @@
 
 + [SpringBoot项目实战—难忘外卖开发：菜品分页查询、批量删除、状态改变 实践【05】](https://blog.csdn.net/weixin_52908342/article/details/146245137)
 
++ [「自动驾驶背后的数学：从传感器数据到控制指令的函数嵌套」—— 揭秘人工智能中的线性函数、ReLU 与复合函数](https://blog.csdn.net/SiArch/article/details/146284180)
+
++ [AIGC带来数据革命：R语言如何成为数据科学家的秘密武器？](https://blog.csdn.net/qq_32682301/article/details/146296671)
+
++ [【小沐学Web3D】three.js 加载三维模型（React）](https://blog.csdn.net/hhy321/article/details/135535988)
+
++ [网络安全 与 加密算法 ](https://blog.csdn.net/2401_88752464/article/details/146268640)
+

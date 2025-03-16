@@ -55,3 +55,5 @@
 
 + [求推荐便宜的 SG US VPS，最好是 CN2 GIA 线路的，用来搭 hysteria2](https://www.v2ex.com/t/1118734)
 
++ [Java 找工作有感，行业经验大于一切](https://www.v2ex.com/t/1118813)
+
