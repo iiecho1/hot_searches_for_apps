@@ -155,3 +155,7 @@
 
 + [[测试]软件测试的生命周期,bug的级别及生命周期](https://blog.csdn.net/m0_73992740/article/details/146260120)
 
++ [卷积神经网络可视化](https://blog.csdn.net/mqsdfghjk/article/details/146245381)
+
++ [【DeepSeek】智能遥感新质生产力暨DeepSeek、Python、OpenCV驱动的空天地数据识别与计算及15个行业标杆案例（深度参与地质监测、城市规划、农业分析、生态评估等）](https://blog.csdn.net/JNLWLAQ/article/details/146237552)
+
