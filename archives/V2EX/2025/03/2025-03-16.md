@@ -23,3 +23,5 @@
 
 + [为什么很多人喷 Java 开发者离了 spring 框架就不会写代码了](https://www.v2ex.com/t/1118702)
 
++ [养的小猫去世了 有点伤心](https://www.v2ex.com/t/1118596)
+

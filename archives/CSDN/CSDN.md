@@ -127,3 +127,7 @@
 
 + [3.14周报](https://blog.csdn.net/Joy_moon/article/details/146263298)
 
++ [Java 大视界 -- 基于 Java 的大数据机器学习模型的迁移学习应用与实践（129）](https://blog.csdn.net/atgfg/article/details/146243113)
+
++ [深度解读DeepSeek部署使用安全（48页PPT）（文末有下载方式）](https://blog.csdn.net/AI_data_cloud/article/details/146266011)
+

@@ -167,3 +167,7 @@
 
 + [英媒：斯塔默痛斥英国公务员体系“臃肿低效”，被警告不要效仿马斯克风格](https://news.cctv.com/2025/03/16/ARTI42KS8VWorBTDiCSnmC3J250316.shtml)
 
++ [日本开发出新型蓄电池 有望推动贫铀再利用](https://news.cctv.com/2025/03/16/ARTIeeh5aZJlDgJKXPFr7X8D250316.shtml)
+
++ [马克龙：法国愿在俄乌停火后就向乌提供安全保障与俄对话](https://news.cctv.com/2025/03/16/ARTIsdVJISr03GVfWQsWDKKY250316.shtml)
+
