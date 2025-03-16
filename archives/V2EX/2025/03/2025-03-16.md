@@ -25,3 +25,5 @@
 
 + [养的小猫去世了 有点伤心](https://www.v2ex.com/t/1118596)
 
++ [小白发问，都说 C++开发效率比 Java 低，但 C++的 hello world 也没多几行代码啊](https://www.v2ex.com/t/1118729)
+

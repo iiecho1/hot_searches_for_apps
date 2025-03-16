@@ -131,3 +131,5 @@
 
 + [深度解读DeepSeek部署使用安全（48页PPT）（文末有下载方式）](https://blog.csdn.net/AI_data_cloud/article/details/146266011)
 
++ [驾驭 DeepSeek 科技之翼，翱翔现代学习新天际](https://blog.csdn.net/2401_82648291/article/details/145660647)
+

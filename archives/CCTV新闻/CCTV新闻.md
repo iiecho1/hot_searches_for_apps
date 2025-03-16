@@ -171,3 +171,7 @@
 
 + [马克龙：法国愿在俄乌停火后就向乌提供安全保障与俄对话](https://news.cctv.com/2025/03/16/ARTIsdVJISr03GVfWQsWDKKY250316.shtml)
 
++ [对普京小作让步？特朗普调整特使任命](https://news.cctv.com/2025/03/16/ARTIpA53mFwxPc2bvTAhAox2250316.shtml)
+
++ [厄瓜多尔西北部发生石油泄漏 当地进入环境紧急状态](https://news.cctv.com/2025/03/16/ARTIirN8jlZ1QTEynVgRPab4250316.shtml)
+
