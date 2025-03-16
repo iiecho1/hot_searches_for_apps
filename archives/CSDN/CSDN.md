@@ -139,3 +139,7 @@
 
 + [DeepSeek-prompt指令-当DeepSeek答非所问，应该如何准确的表达我们的诉求？](https://blog.csdn.net/weixin_42029523/article/details/146234047)
 
++ [大数据分析案例-基于随机森林和CatBoost算法构建银行客户流失预测模型](https://blog.csdn.net/m0_64336780/article/details/143094211)
+
++ [基于扩散模型的图像去噪与修复：原理、实现与性能分析【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/146228702)
+

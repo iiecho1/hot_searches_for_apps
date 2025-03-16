@@ -41,3 +41,5 @@
 
 + [Vscode 多人同时使用情况下配置解决方案](https://www.v2ex.com/t/1118636)
 
++ [[送码] 我的群晖 NAS App 再升级，现已支持杜比视界~](https://www.v2ex.com/t/1118750)
+
