@@ -101,3 +101,13 @@
 
 + [数学建模之数学模型-3：动态规划](https://blog.csdn.net/2301_81197800/article/details/145817176)
 
++ [Java 大视界 -- Java 大数据在智慧文旅虚拟导游与个性化推荐中的应用（130）](https://blog.csdn.net/atgfg/article/details/146243363)
+
++ [SpringBoot项目实战—难忘外卖开发：菜品分页查询、批量删除、状态改变 实践【05】](https://blog.csdn.net/weixin_52908342/article/details/146245137)
+
++ [如何通过 Airbyte 将数据摄取到 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/146275096)
+
++ [Redis设计与实现-数据持久化](https://blog.csdn.net/m0_50149847/article/details/146182730)
+
++ [麒麟系统利用pycharm生成deb文件](https://blog.csdn.net/qq_42078147/article/details/146254360)
+
