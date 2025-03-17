@@ -209,3 +209,5 @@
 
 + [黑马node.js教程（nodejs教程）——AJAX-Day01-04.案例_地区查询——查询某个省某个城市所有地区（代码示例）](https://blog.csdn.net/Dontla/article/details/146298169)
 
++ [介绍如何使用YOLOv8模型进行基于深度学习的吸烟行为检测](https://blog.csdn.net/max500600/article/details/146302709)
+

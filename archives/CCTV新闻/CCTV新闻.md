@@ -199,3 +199,17 @@
 
 + [经合组织下调今明两年全球经济增长预期](https://news.cctv.com/2025/03/17/ARTIsvAHlVHeMknh7eddO4G2250317.shtml)
 
++ [国际奥委会执委会建议将拳击纳入2028年洛杉矶奥运会正式比赛项目](https://news.cctv.com/2025/03/17/ARTIKCRBvxMEQdwNpvzTtCh8250317.shtml)
+
++ [机遇中国说丨驻华大使看中国 点赞中国经济新机遇！](https://news.cctv.com/2025/03/17/ARTIdXxJMcccJ0b7pBshdbUL250317.shtml)
+
++ [通讯丨“中医的整体理论体系让我着迷”——记马耳他大学学生走进地中海地区中医中心](https://news.cctv.com/2025/03/17/ARTI9Ar2fqkfOkLidvv4nIq6250317.shtml)
+
++ [综合消息｜联合国及多国呼吁美国和也门胡塞武装停止打击行动](https://news.cctv.com/2025/03/17/ARTI7Gu8lNbrcPkneKKwZR66250317.shtml)
+
++ [美国加征关税招致多方批评](https://news.cctv.com/2025/03/17/ARTIcjZI2gxcmdJyv39bCFzZ250317.shtml)
+
++ [俄方证实普京与特朗普将于18日通电话](https://news.cctv.com/2025/03/17/ARTI60r0Of23xaWLow0LnwxB250317.shtml)
+
++ [俄方证实普京将于18日与特朗普通话](https://news.cctv.com/2025/03/17/ARTI9eX4qQA1NxvPTmJhAaZT250317.shtml)
+
