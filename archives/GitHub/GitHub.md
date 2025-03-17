@@ -25,3 +25,13 @@
 
 + [uutils/coreutils](https://github.com/uutils/coreutils)
 
++ [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+
++ [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+
++ [DiceDB/dice](https://github.com/DiceDB/dice)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
