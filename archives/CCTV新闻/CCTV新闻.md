@@ -191,3 +191,7 @@
 
 + [定了！美国滞留宇航员将提前至18日返回地球](https://news.cctv.com/2025/03/17/ARTI2Zeyy0wL5C28ubzCw1eK250317.shtml)
 
++ [韩国江原道普降大雪 山岭银装素裹变“雪国”](https://photo.cctv.com/2025/03/17/PHOAETTO2kneUqAxgBsnRDRN250317.shtml)
+
++ [韩产业部长拟访美 欲要求将韩移出美“敏感国家”名单](https://news.cctv.com/2025/03/17/ARTIckD6KnDkf3lwen1DsWbg250317.shtml)
+
