@@ -147,3 +147,9 @@
 
 + [1.Windows+vscode+cline+MCP配置](https://blog.csdn.net/qq_43280851/article/details/146296790)
 
++ [Java 大视界 -- Java 大数据在智慧交通自动驾驶仿真与测试数据处理中的应用（136）](https://blog.csdn.net/atgfg/article/details/146297722)
+
++ [多集群管理：K8s 跨集群部署与管理的策略和工具](https://blog.csdn.net/wdfdgygg77/article/details/146281213)
+
++ [wx140基于ssm+vue+uniapp的面向企事业单位的项目申报小程序](https://blog.csdn.net/shmp54xmu/article/details/146284157)
+
