@@ -153,3 +153,5 @@
 
 + [wx140基于ssm+vue+uniapp的面向企事业单位的项目申报小程序](https://blog.csdn.net/shmp54xmu/article/details/146284157)
 
++ [【数学建模】一致矩阵的应用及其在层次分析法(AHP)中的性质](https://blog.csdn.net/Zlyzjiabjw547479/article/details/146299129)
+
