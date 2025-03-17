@@ -163,3 +163,13 @@
 
 + [车载Android音频系统 CarAudioService](https://blog.csdn.net/zhanyahuiv5/article/details/146283406)
 
++ [【通义千问】蓝耘智算 | 智启未来：蓝耘MaaS×通义QwQ-32B引领AI开发生产力](https://blog.csdn.net/Morse_Chen/article/details/146293849)
+
++ [Spring组件初始化扩展点：BeanPostProcessor](https://blog.csdn.net/qq_35512802/article/details/145432737)
+
++ [挑战蓝耘 MaaS 和阿里 QWQ 技术，开启高能学习蜕变](https://blog.csdn.net/2401_82648291/article/details/146284671)
+
++ [【Weaviate】数据库：向量存储与搜索的新纪元](https://blog.csdn.net/weixin_53269650/article/details/146298161)
+
++ [单元测试、系统测试、集成测试](https://blog.csdn.net/zhangsiyuan1998/article/details/146280489)
+
