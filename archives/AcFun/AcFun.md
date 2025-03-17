@@ -69,3 +69,5 @@
 
 + [「纤维」我只剩下拼凑不了你的..纤维...治愈女声翻唱](https://m.acfun.cn/v/%3Fac%3D47016334)
 
++ [【东方/爵士】SWING HOLIC - Vol 1-3 专辑赏析【Sound Holic】](https://m.acfun.cn/v/%3Fac%3D47008567)
+
