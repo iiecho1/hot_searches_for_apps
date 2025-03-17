@@ -139,3 +139,7 @@
 
 + [k8s系统学习路径](https://blog.csdn.net/LCY133/article/details/146287690)
 
++ [Spring Boot实战：MySQL与Redis数据一致性深度解析与代码实战](https://blog.csdn.net/chenOnlyOne/article/details/146273085)
+
++ [LabVIEW 线性拟合](https://blog.csdn.net/bjcyck/article/details/146290593)
+
