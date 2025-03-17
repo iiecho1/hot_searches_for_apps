@@ -113,3 +113,27 @@
 
 + [群晖NAS使用Audio Station制作本地文件公网地址让音频共享更高效(1)](https://blog.csdn.net/LT15171009269/article/details/146313108)
 
++ [【DeepSeek部署实战】DeepSeek-R1-Distill-Qwen-7B：本地部署与API服务快速上手](https://blog.csdn.net/xiaobing259/article/details/145950438)
+
++ [深入探讨RAID 5的性能与容错能力：实验与分析(磁盘阵列)](https://blog.csdn.net/jxjdhdnd/article/details/146255934)
+
++ [【Weaviate】数据库：向量存储与搜索的新纪元](https://blog.csdn.net/weixin_53269650/article/details/146298161)
+
++ [【redis】reids 客户端的连接（Windows和mac）](https://blog.csdn.net/Yeeear/article/details/146290813)
+
++ [Uni-APP部署到微信小程序过程详解](https://blog.csdn.net/qq_73427280/article/details/146281696)
+
++ [LangChain教程 - Agent -之 REACT_DOCSTORE](https://blog.csdn.net/fenglingguitar/article/details/146270669)
+
++ [车载Android音频系统 CarAudioService](https://blog.csdn.net/zhanyahuiv5/article/details/146283406)
+
++ [Docker Desktop配置国内镜像源教程](https://blog.csdn.net/qq_23311271/article/details/146259874)
+
++ [基于SpringBoot实现旅游酒店平台功能十七](https://blog.csdn.net/yuancodenet/article/details/146303724)
+
++ [Websocket实现实时通信](https://blog.csdn.net/qq_74414570/article/details/146237314)
+
++ [HTTP 和 HTTPS：从不安全到安全的蜕变之路](https://blog.csdn.net/qq_51626216/article/details/146293444)
+
++ [单元测试、系统测试、集成测试](https://blog.csdn.net/zhangsiyuan1998/article/details/146280489)
+
