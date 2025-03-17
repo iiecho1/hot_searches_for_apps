@@ -25,3 +25,5 @@
 
 + [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 
++ [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)
+

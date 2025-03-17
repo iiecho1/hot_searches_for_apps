@@ -101,3 +101,15 @@
 
 + [C#与游戏开发的初次见面：从零开始的Unity之旅](https://blog.csdn.net/Kiradzy/article/details/146298315)
 
++ [Java 大视界 -- Java 大数据在智能金融资产定价与风险管理中的应用（134）](https://blog.csdn.net/atgfg/article/details/146287817)
+
++ [用Python打造AI玩家：挑战2048，谁与争锋](https://blog.csdn.net/kouweizhu/article/details/146217339)
+
++ [基于RAGFlow本地部署DeepSpeek-R1大模型与知识库：从配置到应用的全流程解析](https://blog.csdn.net/c18213590220/article/details/146280673)
+
++ [【小白学习Oralce】Oracle 与 MySQL 的风云对决，SQL*Plus 的独特舞台](https://blog.csdn.net/2302_79527141/article/details/146268879)
+
++ [基于牛优化（ OX Optimizer，OX）算法的多个无人机协同路径规划（可以自定义无人机数量及起始点），MATLAB代码](https://blog.csdn.net/weixin_46204734/article/details/146278143)
+
++ [群晖NAS使用Audio Station制作本地文件公网地址让音频共享更高效(1)](https://blog.csdn.net/LT15171009269/article/details/146313108)
+
