@@ -173,3 +173,19 @@
 
 + [专栏丨8000亿欧元能否换来“欧洲战略自主”？](https://news.cctv.com/2025/03/17/ARTIcqzO71I4aNOSD20mTrPV250317.shtml)
 
++ [跨境游持续升温 多元“China Travel”吸引越南游客](https://news.cctv.com/2025/03/17/ARTIKkwIsoa6sCPorJ5MW8Lz250317.shtml)
+
++ [国际观察丨美关税政策带来三大恶果](https://news.cctv.com/2025/03/17/ARTIqoomL2KYIeHM5ttqnH4Z250317.shtml)
+
++ [共话中国经济新机遇｜专访：中国成为全球科技创新重要引领者——访安卡拉全球咨询集团国际问题专家巴哲](https://news.cctv.com/2025/03/17/ARTIf9RfIwvAqVLCt2R6mHwo250317.shtml)
+
++ [专访丨见证中国经济社会快速发展——访英中商业发展中心主席约翰·麦克利恩](https://news.cctv.com/2025/03/17/ARTIfDQszvOEXOStUEWvArRY250317.shtml)
+
++ [刷新韩总统弹劾案最长审理纪录！尹锡悦弹劾案或本周宣判](https://news.cctv.com/2025/03/17/ARTI6dF6wOKSdN1DYGqTfMZN250317.shtml)
+
++ [特朗普：计划18日与普京通话](https://news.cctv.com/2025/03/17/ARTIDcD6h3Nmwcx5srM6Qpb4250317.shtml)
+
++ [韩国一架军用无人机同直升机相撞](https://military.cctv.com/2025/03/17/ARTIS9KMuNHVC9ObEjCiYyXk250317.shtml)
+
++ [特朗普称18日同普京通话](https://news.cctv.com/2025/03/17/ARTIX9v1yRNdtxtgoJuUlO7C250317.shtml)
+
