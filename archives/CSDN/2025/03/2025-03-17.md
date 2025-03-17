@@ -151,3 +151,15 @@
 
 + [windows协议不再续签，华为再无windows可用，将于四月发布鸿蒙PC](https://blog.csdn.net/lanselibailiu/article/details/146283339)
 
++ [【数学 线性代数】差分约束](https://blog.csdn.net/he_zhidan/article/details/146290737)
+
++ [Python----数据分析（Pandas一：pandas库介绍，pandas操作文件读取和保存）](https://blog.csdn.net/weixin_64110589/article/details/145859992)
+
++ [LabVIEW 中的曲线拟合模型与方法概述](https://blog.csdn.net/bjcyck/article/details/146306100)
+
++ [基于SpringBoot3+Druid数据库连接池与外部PostgreSQL的Kubernetes Pod YAML全解析](https://blog.csdn.net/moshowgame/article/details/146294680)
+
++ [YOLOE：实时查看任何事物](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/146274253)
+
++ [车载Android音频系统 CarAudioService](https://blog.csdn.net/zhanyahuiv5/article/details/146283406)
+

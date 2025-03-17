@@ -31,3 +31,15 @@
 
 + [开发了一年多，开源等宽字体 Maple Mono 发布 v7.0 正式版](https://www.v2ex.com/t/1118902)
 
++ [我的情况需要买车么](https://www.v2ex.com/t/1118943)
+
++ [我的族谱网站开源啦！一键部署自己的族谱网站~](https://www.v2ex.com/t/1118927)
+
++ [办公室同事打字声音好吵啊](https://www.v2ex.com/t/1118933)
+
++ [AI 创业公司招募技术合伙人（前后端）](https://www.v2ex.com/t/1118939)
+
++ [matebook 现在出厂预装 Linux 系统](https://www.v2ex.com/t/1118928)
+
++ [看情感热帖了，也更新下我进度](https://www.v2ex.com/t/1118961)
+
