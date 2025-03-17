@@ -213,3 +213,5 @@
 
 + [RAG-Gym: 基于过程监督的检索增强生成代理优化框架](https://blog.csdn.net/m0_46510245/article/details/146307975)
 
++ [【微服务】SpringBoot整合LangChain4j 操作AI大模型实战详解](https://blog.csdn.net/zhangcongyi420/article/details/146128793)
+
