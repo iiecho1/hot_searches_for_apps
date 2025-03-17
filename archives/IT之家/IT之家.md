@@ -25,3 +25,27 @@
 
 + [2025 年 315 晚会曝光后麦酷酷声明：纸尿裤 2023 年起停止在国内销售，配合调查所涉产品来源](https://m.ithome.com/html/836830.htm)
 
++ [苹果 iPhone 17 / Pro 系列模型机曝光：Air 之薄一目了然，全系支持 MagSafe](https://m.ithome.com/html/838313.htm)
+
++ [华为余承东预热“想不到”新品：它确实是手机，又不止是手机](https://m.ithome.com/html/838528.htm)
+
++ [比亚迪汉 L 正式预售：EV 版 27 万-35 万元，DM 版同期开启盲订](https://m.ithome.com/html/838307.htm)
+
++ [黄焖鸡卧底记者提醒 11 点前别点外卖](https://m.ithome.com/html/838359.htm)
+
++ [受 DeepSeek-R1 启发，小米大模型团队登顶音频推理 MMAU 榜](https://m.ithome.com/html/838391.htm)
+
++ [国内独有“玻璃光盘”技术发布：理论容量最高 360TB，成本仅 1/10](https://m.ithome.com/html/838354.htm)
+
++ [美国娱乐公司将推《西游记》动画电影三部曲：《八戒》《美猴王》《哪吒》](https://m.ithome.com/html/838482.htm)
+
++ [阿里 1688 将全面取消“仅退款”](https://m.ithome.com/html/838504.htm)
+
++ [2025 款苹果 iPad Air / iPad（A16）国内版侧面印“中国制造”，移除后盖文字](https://m.ithome.com/html/838284.htm)
+
++ [古尔曼重申：苹果 iOS 19 将借鉴 visionOS 风格设计，界面更加透明](https://m.ithome.com/html/838372.htm)
+
++ [网易云音乐打击“听歌外挂”：找“代练”自动刷歌的 1 万 + 账号被治理](https://m.ithome.com/html/838527.htm)
+
++ [比亚迪唐 L EV 正式启动预售：1000kW 全球量产最大充电功率，28-36 万元](https://m.ithome.com/html/838130.htm)
+

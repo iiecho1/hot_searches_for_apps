@@ -137,3 +137,13 @@
 
 + [单元测试、系统测试、集成测试](https://blog.csdn.net/zhangsiyuan1998/article/details/146280489)
 
++ [【Java篇】无形至有形，法与道的编织：类与对象初探](https://blog.csdn.net/2301_79849925/article/details/146014214)
+
++ [SpringBoot前后端不分离，前端如何解析后端返回html所携带的参数](https://blog.csdn.net/qq_35683545/article/details/146297194)
+
++ [【Kubernetes】Kubernetes 如何进行容器编排和调度？如何使用 kubectl`创建和管理 Pod、Deployment、Service？](https://blog.csdn.net/m0_74282926/article/details/146327839)
+
++ [深度学习模型压缩：非结构化剪枝与结构化剪枝的定义与对比](https://blog.csdn.net/weixin_41544125/article/details/146292817)
+
++ [1.Windows+vscode+cline+MCP配置](https://blog.csdn.net/qq_43280851/article/details/146296790)
+
