@@ -157,3 +157,5 @@
 
 + [农业电商|基于SprinBoot+vue的农业电商服务系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/146284646)
 
++ [由一个话题进入DFMEA（设计失效模式及影响分析）](https://blog.csdn.net/weixin_45817947/article/details/146302497)
+

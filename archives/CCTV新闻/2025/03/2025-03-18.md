@@ -163,3 +163,11 @@
 
 + [美国之音遭“断粮” 黑历史被揭穿](https://news.cctv.com/2025/03/18/ARTI3kgUImr5rIa9YJYUwCu2250318.shtml)
 
++ [秘鲁政府宣布首都利马与卡亚俄省进入30天紧急状态](https://news.cctv.com/2025/03/18/ARTIVp4CCFTY1f4slOsyv3Ls250318.shtml)
+
++ [白宫官员警告：美关税议程将给经济带来更多不确定性](https://news.cctv.com/2025/03/18/ARTI5Hrx7ujw3CTV5aV4ihJN250318.shtml)
+
++ [特朗普：将于18日早间与普京就俄乌停战问题通话](https://news.cctv.com/2025/03/18/ARTIACLOWr0pUawRByRXgtWF250318.shtml)
+
++ [德国公共部门第三轮薪资谈判失败 将启动调解程序](https://news.cctv.com/2025/03/18/ARTI4QoVOVQf1SGLhkSkHt9P250318.shtml)
+
