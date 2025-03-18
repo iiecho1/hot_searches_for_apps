@@ -199,3 +199,5 @@
 
 + [【操作系统安全】任务6：Linux 系统文件与文件系统安全 学习指南](https://blog.csdn.net/2303_76492156/article/details/146314641)
 
++ [轨迹优化 | 基于梯度下降的路径规划算法(附ROS C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/146320092)
+
