@@ -163,3 +163,7 @@
 
 + [综合消息丨多方谴责以色列空袭加沙](https://news.cctv.com/2025/03/19/ARTIVxXKhmuVYEPYqZ8Rg91I250319.shtml)
 
++ [德国联邦议会通过历史性千亿欧元财政方案](https://news.cctv.com/2025/03/19/ARTIOff4czxTS1HXsCCG9U3g250319.shtml)
+
++ [克宫：普京同意俄乌30天不互袭能源设施 对美方停火倡议提条件](https://news.cctv.com/2025/03/19/ARTIZZtU4AdxZHw00GmN2qoy250319.shtml)
+
