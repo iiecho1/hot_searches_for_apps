@@ -215,3 +215,11 @@
 
 + [面向AIGC的训练数据增强方法研究-从图像到多模态增强的实践与探索【附核心代码实战】](https://blog.csdn.net/weixin_52908342/article/details/146308532)
 
++ [Trae AI 上新 SSHremote ，服务器的 Python接口日志排查实战](https://blog.csdn.net/diandianxiyu/article/details/146330415)
+
++ [蓝耘 MaaS 牵手海螺 AI 视频，凭什么让视频创作直接上升一个档次？？？](https://blog.csdn.net/2401_82648291/article/details/146324227)
+
++ [Java 大视界 -- Java 大数据在智能政务舆情引导与公共危机管理中的应用（138）](https://blog.csdn.net/atgfg/article/details/146324913)
+
++ [巧用 VSCode 与 AI 编码提升 Vue 前端开发效率](https://blog.csdn.net/weixin_39100915/article/details/146315532)
+
