@@ -193,3 +193,9 @@
 
 + [从零开始实现一个HTML5飞机大战游戏](https://blog.csdn.net/qq_43129878/article/details/146316208)
 
++ [【一起学Rust | Tauri2.0框架】基于 Rust 与 Tauri 2.0 框架实现生物识别（指纹识别）应用](https://blog.csdn.net/weixin_47754149/article/details/146022155)
+
++ [解决Java多张图合成JPG时出现红色前景及多列自适应适配](https://blog.csdn.net/yelangkingwuzuhu/article/details/146327974)
+
++ [【操作系统安全】任务6：Linux 系统文件与文件系统安全 学习指南](https://blog.csdn.net/2303_76492156/article/details/146314641)
+
