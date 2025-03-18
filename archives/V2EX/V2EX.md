@@ -21,3 +21,19 @@
 
 + [AI 创业公司招募技术合伙人（前后端）](https://www.v2ex.com/t/1118939)
 
++ [苹果的 face ID 人脸识别就是个笑话，依托答辩](https://www.v2ex.com/t/1119193)
+
++ [检查了幽门螺旋杆菌（HP），但是我没有选择为医生的处方付款](https://www.v2ex.com/t/1119019)
+
++ [如何说服同事使用 Cursor？](https://www.v2ex.com/t/1119039)
+
++ [求指点迷津：老家年到手十万公务员 vs 大厂年包 30w](https://www.v2ex.com/t/1119189)
+
++ [2025 年上半年软考可以报名了](https://www.v2ex.com/t/1118956)
+
++ [买车决赛圈极氪 001 还是蔚来 ET5T](https://www.v2ex.com/t/1119046)
+
++ [安卓的这个文字编辑锤爆某系统，太好用了](https://www.v2ex.com/t/1118980)
+
++ [把微信输入法卸了](https://www.v2ex.com/t/1119007)
+

@@ -171,3 +171,19 @@
 
 + [德国公共部门第三轮薪资谈判失败 将启动调解程序](https://news.cctv.com/2025/03/18/ARTI4QoVOVQf1SGLhkSkHt9P250318.shtml)
 
++ [日本米价暴涨 较2024年同期价格翻倍](https://news.cctv.com/2025/03/18/ARTIxT8e1nBQs0EGY5q8s4Ab250318.shtml)
+
++ [“谎言工厂”美国之音深陷被“封喉”困境 在涉华报道方面劣迹斑斑](https://news.cctv.com/2025/03/18/ARTIX1OVNerjyfY7gXzzewxY250318.shtml)
+
++ [经合组织警告：大巴黎地区将面临严重干旱风险](https://news.cctv.com/2025/03/18/ARTIw0AxtNzwugBzbC3IwctX250318.shtml)
+
++ [一架小型飞机在洪都拉斯北部坠毁](https://news.cctv.com/2025/03/18/ARTI2lmaFPyk9CPQwVpHPa0H250318.shtml)
+
++ [哈马斯称以色列单方面结束停火](https://news.cctv.com/2025/03/18/ARTIdW7fyYLERUMJOi0QdFl6250318.shtml)
+
++ [多国实施反制以维护自身利益 美国关税政策带来多重“反噬”](https://news.cctv.com/2025/03/18/ARTI19R8YNNp7Ggm8Qv9kouz250318.shtml)
+
++ [泽连斯基和马克龙通话就俄乌停火问题协调立场](https://news.cctv.com/2025/03/18/ARTI7CLwLfwTROYH5o4jejYQ250318.shtml)
+
++ [日本熊本县发生4.8级“极浅”地震 震中附近有核电站](https://news.cctv.com/2025/03/18/ARTI1VVMSj0AWPZaKl6ctEO5250318.shtml)
+

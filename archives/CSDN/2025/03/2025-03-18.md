@@ -163,3 +163,9 @@
 
 + [网络安全常识科普（百问百答）](https://blog.csdn.net/admin_gt/article/details/146299055)
 
++ [最新AI大模型数据集解决方案：分享两种AI高质量代码数据集生产方案](https://blog.csdn.net/qq_44866828/article/details/146311478)
+
++ [基于vue3.5+deepseek+vant4+markdown仿DeepSeek-R1流式输出ai聊天界面](https://blog.csdn.net/yanxinyun1990/article/details/146306730)
+
++ [Linux错误(2)程序触发SIGBUS信号分析](https://blog.csdn.net/Once_day/article/details/146328453)
+
