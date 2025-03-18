@@ -203,3 +203,9 @@
 
 + [Spring Boot 整合 Elasticsearch：打造高性能全文检索实战](https://blog.csdn.net/weixin_48037764/article/details/146311955)
 
++ [GoT：基于思维链的语义-空间推理框架为视觉生成注入思维能力](https://blog.csdn.net/m0_46510245/article/details/146333614)
+
++ [Deepseek API+Python测试用例一键生成与导出-V1.0.2【实现需求文档图片识别与用例生成自动化】](https://blog.csdn.net/weixin_44872675/article/details/146328284)
+
++ [YOLOv1到YOLOv12发展概述2025.3.17](https://blog.csdn.net/sinat_34897952/article/details/146327427)
+

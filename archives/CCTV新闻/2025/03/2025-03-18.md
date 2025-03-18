@@ -235,3 +235,15 @@
 
 + [一架小型客机在洪都拉斯坠毁 已致12死5伤](https://news.cctv.com/2025/03/18/ARTIR8Ehx008PcH22JiFgOPy250318.shtml)
 
++ [国家国际发展合作署：中国已向乌克兰提供4批人道主义援助](https://news.cctv.com/2025/03/18/ARTIescvC47xGuBQHr19W3hq250318.shtml)
+
++ [以色列称暂不考虑在加沙地带开展地面攻势](https://news.cctv.com/2025/03/18/ARTIfCVbLOuNoeAoziRp48yf250318.shtml)
+
++ [亚美尼亚国防部再次否认向阿塞拜疆阵地开火](https://news.cctv.com/2025/03/18/ARTIvlATspnIwPGhid3o2mf1250318.shtml)
+
++ [巴勒斯坦外交部指责以色列背弃停火协议](https://news.cctv.com/2025/03/18/ARTII23I4aVI35wuHEnO74sr250318.shtml)
+
++ [谭德塞：美国削减全球卫生资金或威胁数百万人生命](https://news.cctv.com/2025/03/18/ARTI5VKHsF0LztzXY4i7BX4r250318.shtml)
+
++ [以军空袭加沙地带中部难民营 造成两人死亡](https://news.cctv.com/2025/03/18/ARTIwYbfTg7PdO90kcLhG1L2250318.shtml)
+
