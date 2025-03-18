@@ -131,3 +131,7 @@
 
 + [基于Python的金融领域AI训练数据抓取实战（完整技术解析）](https://blog.csdn.net/qq_44273429/article/details/146308529)
 
++ [Redis 持久化机制：AOF 与 RDB 详解](https://blog.csdn.net/dnuiking/article/details/146315229)
+
++ [华为和思科防火墙上下行连接交换机，部署双机热备脚本，附带深度解析](https://blog.csdn.net/2502_91189104/article/details/146289975)
+
