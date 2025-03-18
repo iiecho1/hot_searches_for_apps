@@ -129,3 +129,5 @@
 
 + [网络安全之前端学习（HTML篇）](https://blog.csdn.net/2401_87248788/article/details/146295978)
 
++ [基于Python的金融领域AI训练数据抓取实战（完整技术解析）](https://blog.csdn.net/qq_44273429/article/details/146308529)
+
