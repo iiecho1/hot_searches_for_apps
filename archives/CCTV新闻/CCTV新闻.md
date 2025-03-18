@@ -259,3 +259,11 @@
 
 + [哈马斯确认：以军打死加沙地带政府领导人](https://news.cctv.com/2025/03/18/ARTIeWreoiqh0iZ5cskvgRSy250318.shtml)
 
++ [中东战地手记丨“我们想要的，是一个有未来的国家”](https://news.cctv.com/2025/03/18/ARTIz566Prjxbni1B0MSOWAA250318.shtml)
+
++ [特朗普关税政策对美国经济“只会产生负面效应”——访英国经济学家罗思义](https://news.cctv.com/2025/03/18/ARTIKe6bgnF6JwVWBQSEPWUY250318.shtml)
+
++ [“中国式现代化具备独特全球价值”——专访埃塞俄比亚驻华大使塔费拉](https://news.cctv.com/2025/03/18/ARTIrYN4JFR6Q5xL6K0HvdOA250318.shtml)
+
++ [驻吉达总领馆提醒中国公民遵守朝觐期间相关法律法规](https://news.cctv.com/2025/03/18/ARTIzOG231gjBy6VRGDyt6iL250318.shtml)
+
