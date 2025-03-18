@@ -27,3 +27,13 @@
 
 + [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)
 
++ [block/goose](https://github.com/block/goose)
+
++ [makeplane/plane](https://github.com/makeplane/plane)
+
++ [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
+
++ [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+
++ [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+

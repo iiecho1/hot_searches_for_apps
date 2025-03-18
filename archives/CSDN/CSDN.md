@@ -211,3 +211,7 @@
 
 + [游戏引擎学习第163天](https://blog.csdn.net/TM1695648164/article/details/146296857)
 
++ [Trae AI 全新功能 SSHremote助力开发者个人产品打造，高效构建全栈应用](https://blog.csdn.net/sjw890821sjw/article/details/146328826)
+
++ [面向AIGC的训练数据增强方法研究-从图像到多模态增强的实践与探索【附核心代码实战】](https://blog.csdn.net/weixin_52908342/article/details/146308532)
+
