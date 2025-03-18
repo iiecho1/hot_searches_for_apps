@@ -267,3 +267,11 @@
 
 + [驻吉达总领馆提醒中国公民遵守朝觐期间相关法律法规](https://news.cctv.com/2025/03/18/ARTIzOG231gjBy6VRGDyt6iL250318.shtml)
 
++ [美国报告2017年以来首起高致病性H7N9型禽流感疫情](https://news.cctv.com/2025/03/18/ARTId7LwE9q1oGzIbOTK0oiF250318.shtml)
+
++ [美媒：特朗普对外政策“吓退”外国游客](https://news.cctv.com/2025/03/18/ARTI1yQVXyZGTf6SC38RPoNq250318.shtml)
+
++ [国际奥委会第144次全会开幕 将选举产生新任国际奥委会主席](https://news.cctv.com/2025/03/18/ARTIrx23sJgclZ5DN6AEEkzy250318.shtml)
+
++ [消息人士说加沙地带政府领导人等高官死于以军空袭](https://news.cctv.com/2025/03/18/ARTIYn545Vxh05S47PaDpUbo250318.shtml)
+
