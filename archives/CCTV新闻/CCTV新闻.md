@@ -247,3 +247,13 @@
 
 + [以军空袭加沙地带中部难民营 造成两人死亡](https://news.cctv.com/2025/03/18/ARTIwYbfTg7PdO90kcLhG1L2250318.shtml)
 
++ [以军缘何突袭加沙？分析人士：内塔尼亚胡担心“政府垮台”](https://news.cctv.com/2025/03/18/ARTIBdIOHd5kp1ASMpKUVRVB250318.shtml)
+
++ [俄美总统今晚通话 将讨论双边关系正常化](https://news.cctv.com/2025/03/18/ARTIK6FgsnbaW40w3NbdSqem250318.shtml)
+
++ [乌外长：第三国无权阻挠乌克兰加入任何联盟](https://news.cctv.com/2025/03/18/ARTIBRUhIRSkqOhxIDf7lWnV250318.shtml)
+
++ [尼日尔宣布退出法语国家组织](https://news.cctv.com/2025/03/18/ARTIsl3J8rqR4aMsprPJYOgG250318.shtml)
+
++ [法美政客拿自由女神像归属“互怼”](https://news.cctv.com/2025/03/18/ARTIHvc0jYdOEy5x4ESOKBoW250318.shtml)
+
