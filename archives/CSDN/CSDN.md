@@ -107,3 +107,23 @@
 
 + [【css酷炫效果】纯css实现液体按钮效果](https://blog.csdn.net/u011561335/article/details/146312572)
 
++ [蓝耘之巅：320亿参数的通义千问QWQ-32B如何用混合专家与多模态革命定义AI新纪元？](https://blog.csdn.net/2301_76341691/article/details/146227291)
+
++ [Spring组件初始化扩展点：BeanPostProcessor](https://blog.csdn.net/qq_35512802/article/details/145432737)
+
++ [解决Java多张图合成JPG时出现红色前景及多列自适应适配](https://blog.csdn.net/yelangkingwuzuhu/article/details/146327974)
+
++ [51单片机学习记录](https://blog.csdn.net/m0_63874207/article/details/146258321)
+
++ [【React】useEffect、useLayoutEffect底层机制](https://blog.csdn.net/qq_38951259/article/details/146257254)
+
++ [操作系统八股文整理(一)](https://blog.csdn.net/LittleBoy_IT/article/details/146303591)
+
++ [实现回车键自动登录功能：Vue 2 和 Vue 3 的解决方案](https://blog.csdn.net/weixin_48998573/article/details/146314074)
+
++ [出租车数据可视化分析-大数据-实训大作业](https://blog.csdn.net/shmp54/article/details/146324527)
+
++ [ ArcGIS Pro中加载在线地图的详细指南](https://blog.csdn.net/sjz2017/article/details/146327307)
+
++ [html重点知识总结](https://blog.csdn.net/Wzh20060111/article/details/146327380)
+
