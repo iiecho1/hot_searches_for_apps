@@ -187,3 +187,9 @@
 
 + [日本熊本县发生4.8级“极浅”地震 震中附近有核电站](https://news.cctv.com/2025/03/18/ARTI1VVMSj0AWPZaKl6ctEO5250318.shtml)
 
++ [一艘难民船在塞浦路斯附近海域倾覆至少7人遇难](https://news.cctv.com/2025/03/18/ARTIoEbAK5fr7iUP2df8Ipk9250318.shtml)
+
++ [拉美观察丨美国取消对委内瑞拉石油制裁豁免 “极限施压”被批不可取](https://news.cctv.com/2025/03/18/ARTIWkQanz5lxQkBMRrKHPLT250318.shtml)
+
++ [一架小型飞机在洪都拉斯北部坠毁 已致6人死亡](https://news.cctv.com/2025/03/18/ARTI2lmaFPyk9CPQwVpHPa0H250318.shtml)
+
