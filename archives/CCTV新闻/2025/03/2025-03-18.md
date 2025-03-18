@@ -193,3 +193,27 @@
 
 + [一架小型飞机在洪都拉斯北部坠毁 已致6人死亡](https://news.cctv.com/2025/03/18/ARTI2lmaFPyk9CPQwVpHPa0H250318.shtml)
 
++ [美媒：关税反制将冲击美800万人就业](https://news.cctv.com/2025/03/18/ARTIg2XmFuYCdCdJa9z28C3B250318.shtml)
+
++ [外媒点赞中国禁毒成效：“与推卸责任的美国形成鲜明对比”](https://news.cctv.com/2025/03/18/ARTIXkdKtuBLgtCkrCBKJtJn250318.shtml)
+
++ [这样的美国还能做朋友吗](https://news.cctv.com/2025/03/18/ARTIqXeZ8uqB2lF0lLrqMm6B250318.shtml)
+
++ [日中之间加强多层次交流至关重要——访日本自民党干事长森山裕](https://news.cctv.com/2025/03/18/ARTISewnW2ehW819PsVIn1Ra250318.shtml)
+
++ [俄罗斯一民宅火灾致6人死亡 死者包括5名儿童](https://news.cctv.com/2025/03/18/ARTICBSWBGd6a7l90cyYRRh8250318.shtml)
+
++ [打击暴力犯罪 秘鲁首都及邻省进入紧急状态](https://news.cctv.com/2025/03/18/ARTIwsUKVKWZJCDL14lo5vIh250318.shtml)
+
++ [厄瓜多尔冬季暴雨致20人死亡 超10万人受影响](https://news.cctv.com/2025/03/18/ARTI2igL0EyOXHokjAv5RtE1250318.shtml)
+
++ [继猛烈空袭后 以军坦克对加沙地带拉法发动炮击](https://news.cctv.com/2025/03/18/ARTIucr1Nwl9QvxUQKVylh2D250318.shtml)
+
++ [阿尔及利亚拟建15座光伏发电厂](https://news.cctv.com/2025/03/18/ARTIlUUb6HMFEAaLp2YnMzOT250318.shtml)
+
++ [日媒：一名日本男子在白俄罗斯因间谍罪被判7年监禁](https://news.cctv.com/2025/03/18/ARTIpSBfeKZiZplOljdUiGOt250318.shtml)
+
++ [以色列空袭加沙地带造成超过200人死亡](https://news.cctv.com/2025/03/18/ARTIRcLTO6sIDz0ZGNjac1nS250318.shtml)
+
++ [美国继续袭击也门胡塞武装 萨那民众抗议美军空袭](https://news.cctv.com/2025/03/18/ARTIh3zwjhjllnMn4jckgq6c250318.shtml)
+
