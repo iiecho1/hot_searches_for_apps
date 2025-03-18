@@ -225,3 +225,13 @@
 
 + [中国全方位行动提振消费成为世界“焦点” 内需成为经济增长稳定锚](https://news.cctv.com/2025/03/18/ARTIsx4IhRg5J6D8lhHXyMSO250318.shtml)
 
++ [有人员称可为中国公民在亚美尼亚中转办理签证后赴欧盟等地“高薪”务工 中使馆提醒](https://news.cctv.com/2025/03/18/ARTItJdcObJDj18UpiK8jdx1250318.shtml)
+
++ [澳大利亚堪培拉举行热气球节](https://photo.cctv.com/2025/03/18/PHOAw4hGbTupRhomKc4bWOZ5250318.shtml)
+
++ [热点问答丨以色列缘何恢复对加沙地带军事行动](https://news.cctv.com/2025/03/18/ARTIFnLwo6W1mFZT1MlLKmwB250318.shtml)
+
++ [哈马斯多名高级官员在以色列空袭中丧生](https://news.cctv.com/2025/03/18/ARTIKzsAo26dADHlnvB313jU250318.shtml)
+
++ [一架小型客机在洪都拉斯坠毁 已致12死5伤](https://news.cctv.com/2025/03/18/ARTIR8Ehx008PcH22JiFgOPy250318.shtml)
+
