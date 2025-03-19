@@ -173,3 +173,7 @@
 
 + [俄美总统通话谈换俘、部分停火、冰球赛，但是……](https://news.cctv.com/2025/03/19/ARTIQPmWnL6EGvhEtDw4K4OR250319.shtml)
 
++ [澳官员称美国施加关税是一种“经济自残”](https://news.cctv.com/2025/03/19/ARTIjTTAQbgS72ySgeAOupNi250319.shtml)
+
++ [以色列称袭击加沙“与美国充分协调” 巴勒斯坦呼吁召开阿盟理事会特别会议](https://news.cctv.com/2025/03/19/ARTIIW1VwBhNDYVDVSBu3fL4250319.shtml)
+

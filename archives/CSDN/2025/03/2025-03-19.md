@@ -145,3 +145,13 @@
 
 + [Linux错误(2)程序触发SIGBUS信号分析](https://blog.csdn.net/Once_day/article/details/146328453)
 
++ [【文心智能体】使用免费满血版DeepSeek模型创建智能体，用一句话来生成背景图，来看看是如何实现的](https://blog.csdn.net/lmy_520/article/details/146352808)
+
++ [Java 大视界 -- 基于 Java 的大数据实时流处理中的窗口操作与时间语义详解（135）](https://blog.csdn.net/atgfg/article/details/146293238)
+
++ [Spark大数据分析与实战笔记（第四章 Spark SQL结构化数据文件处理-01）](https://blog.csdn.net/u014727709/article/details/136033196)
+
++ [技术架构解说：搭建智能聊天系统-对话机器人](https://blog.csdn.net/zyjwjck/article/details/146328640)
+
++ [【软件系统架构】单体架构](https://blog.csdn.net/wnm23/article/details/146312249)
+
