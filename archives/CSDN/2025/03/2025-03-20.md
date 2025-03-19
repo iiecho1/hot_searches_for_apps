@@ -101,3 +101,9 @@
 
 + [【HarmonyOS Next之旅】DevEco Studio使用指南(五) -＞ 添加/删除Module](https://blog.csdn.net/weixin_74809706/article/details/146356985)
 
++ [AI数据采集的利器：动态住宅代理与网页抓取API实战解析](https://blog.csdn.net/qq_42055933/article/details/146218140)
+
++ [Python 视频爬取教程](https://blog.csdn.net/u014164303/article/details/146328984)
+
++ [Rocky Linux 9.x 基于 kubeadm部署k8s 1.32](https://blog.csdn.net/Hurry6/article/details/146335289)
+
