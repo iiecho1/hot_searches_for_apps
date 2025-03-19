@@ -193,3 +193,5 @@
 
 + [【HarmonyOS Next之旅】DevEco Studio使用指南(五) -＞ 添加/删除Module](https://blog.csdn.net/weixin_74809706/article/details/146356985)
 
++ [深度解析manus:技术原理剖析、开源平替方案架构分析](https://blog.csdn.net/spatial_coder/article/details/146276911)
+
