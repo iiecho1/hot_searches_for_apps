@@ -107,3 +107,29 @@
 
 + [Rocky Linux 9.x 基于 kubeadm部署k8s 1.32](https://blog.csdn.net/Hurry6/article/details/146335289)
 
++ [Trae AI 全新功能 SSHremote助力开发者个人产品打造，高效构建全栈应用](https://blog.csdn.net/sjw890821sjw/article/details/146328826)
+
++ [Python----计算机视觉处理（Opencv：图像缩放）](https://blog.csdn.net/weixin_64110589/article/details/146058639)
+
++ [Java 大视界 -- Java 大数据在智能政务舆情引导与公共危机管理中的应用（138）](https://blog.csdn.net/atgfg/article/details/146324913)
+
++ [Spring Boot 事务详解](https://blog.csdn.net/qq_73450329/article/details/146333238)
+
++ [wx143基于ssm+vue+uniapp的数学辅导小程序](https://blog.csdn.net/shmp54xmu/article/details/146351643)
+
++ [Web3游戏行业报告](https://blog.csdn.net/kduduuuw/article/details/146353315)
+
++ [视频编辑器（OpenShot）](https://blog.csdn.net/weixin_43156294/article/details/146305450)
+
++ [本周安全速报（2025.3.11~3.17）](https://blog.csdn.net/weixin_42196283/article/details/146317042)
+
++ [Pycharm接入DeepSeek，提升自动化脚本的写作效率](https://blog.csdn.net/Felix_tester/article/details/146332370)
+
++ [Microi吾码：一款高效、灵活的低代码开发开源框架【低代码框架】](https://blog.csdn.net/mss359681091/article/details/146327360)
+
++ [Qwen2.5-VL 开源视觉大模型，模型体验、下载、推理、微调、部署实战](https://blog.csdn.net/coco_1998_2/article/details/146151818)
+
++ [国产编辑器EverEdit - 模式的原理与作用](https://blog.csdn.net/tyysoft/article/details/146331218)
+
++ [深入解析计算机组成原理：从硬件架构到程序运行的本质](https://blog.csdn.net/2301_80215285/article/details/146337729)
+
