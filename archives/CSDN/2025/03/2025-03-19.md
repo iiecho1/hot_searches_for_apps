@@ -135,3 +135,7 @@
 
 + [华为和思科防火墙上下行连接交换机，部署双机热备脚本，附带深度解析](https://blog.csdn.net/2502_91189104/article/details/146289975)
 
++ [人工智能中神经网络是如何进行学习的](https://blog.csdn.net/qq_16242613/article/details/146290695)
+
++ [Elasticsearch 向量检索详解](https://blog.csdn.net/wlei0618/article/details/146327649)
+
