@@ -203,3 +203,7 @@
 
 + [泽连斯基称计划19日与特朗普通电话](https://news.cctv.com/2025/03/19/ARTI8LdA37BYj3X0lHtzrd7U250319.shtml)
 
++ [欧盟委员会公布《欧洲防务未来白皮书》](https://news.cctv.com/2025/03/19/ARTIqqpYChHmky2nm9whZ7zu250319.shtml)
+
++ [加沙卫生部门：以军轰炸致联合国机构员工伤亡](https://news.cctv.com/2025/03/19/ARTIxFKOmcyoaSMTr63RmVeg250319.shtml)
+
