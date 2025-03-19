@@ -175,3 +175,9 @@
 
 + [MySQL请求处理全流程深度解析：从SQL语句到数据返回](https://blog.csdn.net/longdong7889/article/details/146357548)
 
++ [AI数据采集的利器：动态住宅代理与网页抓取API实战解析](https://blog.csdn.net/qq_42055933/article/details/146218140)
+
++ [融合AMD与NVIDIA GPU集群的MLOps：异构计算环境中的分布式训练架构实践](https://blog.csdn.net/m0_46510245/article/details/146363536)
+
++ [Windows11 新机开荒（二）电脑优化设置](https://blog.csdn.net/qq_56376552/article/details/146275053)
+
