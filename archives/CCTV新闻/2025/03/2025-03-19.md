@@ -187,3 +187,5 @@
 
 + [美俄将于本周末在沙特就俄乌停火细节举行谈判](https://news.cctv.com/2025/03/19/ARTIJcfLdHYBcfgCAUIZ99wz250319.shtml)
 
++ [特朗普对外政策“吓退”外国游客 美国旅游业或损失数百亿美元](https://news.cctv.com/2025/03/19/ARTI3uEGvpsuiPe94P4CT8XP250319.shtml)
+

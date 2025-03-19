@@ -171,3 +171,7 @@
 
 + [51单片机的寻址方式（完整）](https://blog.csdn.net/2401_85409229/article/details/146345650)
 
++ [【海螺AI视频】蓝耘智算 | AI视频新浪潮：蓝耘MaaS与海螺AI视频创作体验](https://blog.csdn.net/Morse_Chen/article/details/146334378)
+
++ [MySQL请求处理全流程深度解析：从SQL语句到数据返回](https://blog.csdn.net/longdong7889/article/details/146357548)
+

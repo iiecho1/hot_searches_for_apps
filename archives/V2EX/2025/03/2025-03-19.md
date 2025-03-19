@@ -39,3 +39,7 @@
 
 + [存够 100w 就离开深圳](https://www.v2ex.com/t/1119500)
 
++ [想想以后街上 2， 30 万的车有千匹马力，有点吓人](https://www.v2ex.com/t/1119505)
+
++ [Windows 又在犯大病了](https://www.v2ex.com/t/1119420)
+
