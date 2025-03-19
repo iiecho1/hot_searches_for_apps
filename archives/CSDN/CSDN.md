@@ -195,3 +195,7 @@
 
 + [深度解析manus:技术原理剖析、开源平替方案架构分析](https://blog.csdn.net/spatial_coder/article/details/146276911)
 
++ [探秘蓝耘 Maas 平台：海螺 AI 视频与计算机视觉算法的奇妙融合](https://blog.csdn.net/weixin_73295475/article/details/146367684)
+
++ [爬虫+动态代理助力 AI 训练数据采集](https://blog.csdn.net/yuan2019035055/article/details/146348098)
+
