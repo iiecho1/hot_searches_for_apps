@@ -177,3 +177,7 @@
 
 + [以色列称袭击加沙“与美国充分协调” 巴勒斯坦呼吁召开阿盟理事会特别会议](https://news.cctv.com/2025/03/19/ARTIIW1VwBhNDYVDVSBu3fL4250319.shtml)
 
++ [国际移民组织：海地暴力冲突致流离失所人数创单月最高纪录](https://news.cctv.com/2025/03/19/ARTIm1i8EqxcxX8vSlRwhJR7250319.shtml)
+
++ [特朗普：若加拿大成美第51州就将保其安全](https://news.cctv.com/2025/03/19/ARTIHd4Wr0RWY2w72gea3CIL250319.shtml)
+
