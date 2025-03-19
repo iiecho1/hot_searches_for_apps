@@ -181,3 +181,13 @@
 
 + [Windows11 新机开荒（二）电脑优化设置](https://blog.csdn.net/qq_56376552/article/details/146275053)
 
++ [你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告](https://blog.csdn.net/weixin_43151418/article/details/146366578)
+
++ [免费看付费电影网站制作，高清电影集合搜索引擎网站](https://blog.csdn.net/m0_46478534/article/details/146354187)
+
++ [GaussDB 资源管理指南：冻结、解冻、释放与生命周期控制](https://blog.csdn.net/GaussDB/article/details/146070776)
+
++ [基于YOLOv8与SKU110K数据集实现超市货架物品目标检测与计算](https://blog.csdn.net/matt45m/article/details/146295691)
+
++ [学习threejs，构建THREE.ParametricGeometry参数化函数生成几何体](https://blog.csdn.net/qq_28419035/article/details/146367949)
+
