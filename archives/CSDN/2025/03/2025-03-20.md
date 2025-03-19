@@ -133,3 +133,5 @@
 
 + [深入解析计算机组成原理：从硬件架构到程序运行的本质](https://blog.csdn.net/2301_80215285/article/details/146337729)
 
++ [通过 TTL 识别操作系统的原理详解](https://blog.csdn.net/2301_79518550/article/details/145834675)
+

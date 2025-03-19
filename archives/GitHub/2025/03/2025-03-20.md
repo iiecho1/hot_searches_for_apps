@@ -23,3 +23,5 @@
 
 + [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+

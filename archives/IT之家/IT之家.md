@@ -25,3 +25,27 @@
 
 + [巴克莱银行：首款折叠 iPhone 定价 2300 美元，成苹果史上最贵智能手机](https://m.ithome.com/html/838130.htm)
 
++ [消息称京东集团品牌部撤销](https://m.ithome.com/html/838880.htm)
+
++ [英伟达宣布创造满血 DeepSeek-R1 模型 AI 推理性能的世界纪录](https://m.ithome.com/html/838939.htm)
+
++ [Java 24 正式发布](https://m.ithome.com/html/838865.htm)
+
++ [美滞留太空 9 个月宇航员顺利返回地球，以微笑面对世界](https://m.ithome.com/html/839110.htm)
+
++ [百度就“谢广军女儿开盒”事件发布声明：坚决谴责，任何职级员工高管均无权限触碰用户数据](https://m.ithome.com/html/839033.htm)
+
++ [消息称华为 Pura 80 Pro 系列工程机搭 6.78 英寸 1.5K LTPO 2.5D 直屏，配可变光圈主摄](https://m.ithome.com/html/838898.htm)
+
++ [《速度与激情 7》宣布中国内地 10 周年纪念重映：定档 4 月 11 日，See You Again](https://m.ithome.com/html/838965.htm)
+
++ [小米汽车业务加速扩张，北京在建第二工厂被曝将翻倍至约 105 公顷以应对持续增长的订单需求](https://m.ithome.com/html/839063.htm)
+
++ [腾讯 2024 年末员工数达 11.05 万人，全年总酬金成本 1128 亿元](https://m.ithome.com/html/839123.htm)
+
++ [小米 YU7 多款“新鞋”亮相：申报信息显示低风阻轮毂可选 20 种颜色](https://m.ithome.com/html/839028.htm)
+
++ [卢伟冰称小米空调联网率领先友商 10 倍，某些品牌只有百分之几](https://m.ithome.com/html/838917.htm)
+
++ [江淮汽车：尊界品牌盈利所需的销量目标是 7~8 万辆](https://m.ithome.com/html/838130.htm)
+
