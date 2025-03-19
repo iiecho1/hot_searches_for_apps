@@ -189,3 +189,9 @@
 
 + [特朗普对外政策“吓退”外国游客 美国旅游业或损失数百亿美元](https://news.cctv.com/2025/03/19/ARTI3uEGvpsuiPe94P4CT8XP250319.shtml)
 
++ [经合组织：美国关税政策正损害全球经济 并引发美国通胀](https://news.cctv.com/2025/03/19/ARTIhvP3WkKiCvRiCm85DU3r250319.shtml)
+
++ [“中国医疗队带来温暖和希望”——访冈比亚卫生部长萨马泰](https://news.cctv.com/2025/03/19/ARTIdBkuxjrGRBu3BvmLrjNq250319.shtml)
+
++ [中巴医疗合作惠民生暖人心](https://news.cctv.com/2025/03/19/ARTIi2DFGLpKn1U4cdsoV5OK250319.shtml)
+
