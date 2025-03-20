@@ -161,3 +161,11 @@
 
 + [厄瓜多尔冬季暴雨致20人死亡 超10万人受影响](https://news.cctv.com/2025/03/18/ARTI2igL0EyOXHokjAv5RtE1250318.shtml)
 
++ [柯丝蒂·考文垂成为国际奥委会首位女性主席](https://news.cctv.com/2025/03/21/ARTIp3ImsMU1ReZwkLUxYNGp250320.shtml)
+
++ [俄方说俄美代表团将于24日在利雅得举行谈判](https://news.cctv.com/2025/03/21/ARTIRqqldqFGsclIM7rHZQUp250320.shtml)
+
++ [旅德大熊猫双胞胎“梦好”“梦甜”首次户外活动 萌态十足](https://news.cctv.com/2025/03/21/ARTI5YlfBsLeF9nFvzUFxfUl250320.shtml)
+
++ [改写IOC历史，考文垂当选第十任国际奥委会主席](https://people.cctv.com/2025/03/21/ARTIccVcfn5Hn3nSgvEvpMXZ250321.shtml)
+
