@@ -141,3 +141,13 @@
 
 + [AI and Programming Research Report](https://blog.csdn.net/2201_76054814/article/details/146325615)
 
++ [C#进阶-ASP.NET网站会话固定漏洞的解决](https://blog.csdn.net/weixin_41793160/article/details/146329672)
+
++ [高频SQL 50 题（持续更新）](https://blog.csdn.net/weixin_73557167/article/details/146353392)
+
++ [网络空间安全（34）安全防御体系](https://blog.csdn.net/m0_73399576/article/details/146114384)
+
++ [用了Cline和华为云的大模型，再也回不去了](https://blog.csdn.net/coderising/article/details/146342087)
+
++ [2025年三个月自学手册 网络安全（黑客技术）](https://blog.csdn.net/2401_85027336/article/details/146306814)
+
