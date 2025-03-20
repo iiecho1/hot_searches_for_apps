@@ -213,3 +213,5 @@
 
 + [【微信小程序变通实现DeepSeek支持语音】](https://blog.csdn.net/Practicer2015/article/details/146383314)
 
++ [【微信小程序（云开发模式）变通实现DeepSeek支持语音】](https://blog.csdn.net/Practicer2015/article/details/146383387)
+
