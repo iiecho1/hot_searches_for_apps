@@ -141,3 +141,9 @@
 
 + [微信小程序 Skyline Worklet ios Andorid 项目实战](https://blog.csdn.net/weixin_37638924/article/details/146380373)
 
++ [【HarmonyOS NEXT】关键资产存储开发案例](https://blog.csdn.net/weixin_44640245/article/details/146395135)
+
++ [Elasticsearch 在航空行业：数据管理的游戏规则改变者](https://blog.csdn.net/UbuntuTouch/article/details/146360862)
+
++ [AI 原生 IDE Trae 深度体验：SSHremote 功能助力远程开发与云原生部署](https://blog.csdn.net/dietime1943/article/details/146328395)
+
