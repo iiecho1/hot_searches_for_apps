@@ -171,3 +171,5 @@
 
 + [“美国关税开始影响经济” 特朗普敦促美联储降息](https://news.cctv.com/2025/03/20/ARTIW3XDvYITdwn074tkUwO3250320.shtml)
 
++ [加拿大与欧盟就国防采购合作进行谈判](https://news.cctv.com/2025/03/20/ARTIDbP3rjw2cBeEZdXdMCHw250320.shtml)
+
