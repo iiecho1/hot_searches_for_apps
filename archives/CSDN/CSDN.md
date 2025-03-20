@@ -215,3 +215,7 @@
 
 + [【微信小程序（云开发模式）变通实现DeepSeek支持语音】](https://blog.csdn.net/Practicer2015/article/details/146383387)
 
++ [智能制造：机器视觉检测介绍](https://blog.csdn.net/2401_88515538/article/details/146363167)
+
++ [Python、MATLAB和PPT完成数学建模竞赛中的地图绘制](https://blog.csdn.net/jsl123x/article/details/146363141)
+
