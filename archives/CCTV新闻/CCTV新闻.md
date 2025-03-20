@@ -173,3 +173,7 @@
 
 + [加拿大与欧盟就国防采购合作进行谈判](https://news.cctv.com/2025/03/20/ARTIDbP3rjw2cBeEZdXdMCHw250320.shtml)
 
++ [马来西亚正式批准重启搜寻马航370航班客机残骸](https://news.cctv.com/2025/03/20/ARTIh8s6KOzte1ZPQkVmVOSP250320.shtml)
+
++ [欧盟发布“钢铁与金属产业行动计划”应对美国关税冲击](https://news.cctv.com/2025/03/20/ARTIZ2HPQ9OHcbsVHdCmdkRp250320.shtml)
+

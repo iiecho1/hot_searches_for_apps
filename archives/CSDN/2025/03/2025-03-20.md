@@ -175,3 +175,13 @@
 
 + [《九章云络书·织网布阵玄机》中篇](https://blog.csdn.net/m0_73953114/article/details/146382863)
 
++ [TensorFlow深度学习实战（12）——词嵌入技术详解](https://blog.csdn.net/LOVEmy134611/article/details/146337648)
+
++ [网络爬虫【爬虫库request】](https://blog.csdn.net/2401_88885149/article/details/146377796)
+
++ [C++ 宇宙穿越指南：小白从新手村到编程巅峰的奇幻之旅](https://blog.csdn.net/2401_82648291/article/details/146284012)
+
++ [递归算法（5）——深度优先遍历（4）决策树](https://blog.csdn.net/2301_77239666/article/details/146351182)
+
++ [Can通信流程](https://blog.csdn.net/qq_53206057/article/details/146383706)
+
