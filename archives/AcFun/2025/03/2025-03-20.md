@@ -71,3 +71,7 @@
 
 + [【柯基】奥德彪的香蕉小曲儿｜口哨神曲《Caravan》](https://m.acfun.cn/v/%3Fac%3D47026436)
 
++ [认 亲 盲 盒](https://m.acfun.cn/v/%3Fac%3D47026652)
+
++ [不计划太多反而能勇敢冒险](https://m.acfun.cn/v/%3Fac%3D47026039)
+
