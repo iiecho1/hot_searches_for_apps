@@ -207,3 +207,9 @@
 
 + [网络安全漏洞与修复 网络安全软件漏洞](https://blog.csdn.net/Hacker_Nightrain/article/details/146371903)
 
++ [分布式系统中分布式ID生成方案的技术详解](https://blog.csdn.net/xuanxuan199504/article/details/146385343)
+
++ [【Linux系列】实时监控磁盘空间：`watch -n 1 ‘df -h‘` 命令详解](https://blog.csdn.net/qyj19920704/article/details/146327223)
+
++ [【微信小程序变通实现DeepSeek支持语音】](https://blog.csdn.net/Practicer2015/article/details/146383314)
+
