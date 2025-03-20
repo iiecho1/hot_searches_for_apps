@@ -25,3 +25,27 @@
 
 + [江淮汽车：尊界品牌盈利所需的销量目标是 7~8 万辆](https://m.ithome.com/html/838130.htm)
 
++ [华为 Pura X“阔折叠”手机发布：16:10 阔型屏、首次全面搭载鸿蒙 5，售价 7499 元起](https://m.ithome.com/html/839299.htm)
+
++ [华为 Pura X“阔折叠”手机亮相，搭载全新 1610 阔型屏](https://m.ithome.com/html/839390.htm)
+
++ [华为余承东：刘亦菲正式成为鸿蒙智行智界品牌大使](https://m.ithome.com/html/839355.htm)
+
++ [华为 Pura X 阔折叠手机出厂搭载鸿蒙 HarmonyOS 5，不支持变更为 4.X 或更早版本](https://m.ithome.com/html/839274.htm)
+
++ [华为定制形态新折叠手机定名 Pura X，还有典藏版](https://m.ithome.com/html/839336.htm)
+
++ [华为余承东：鸿蒙电脑 5 月见](https://m.ithome.com/html/839352.htm)
+
++ [华为鸿蒙 HarmonyOS 5 升级计划公布，第二季度更新 5.0.1 版本](https://m.ithome.com/html/839301.htm)
+
++ [华为 Pura X“阔折叠”手机典藏版亮相：三色素皮后盖设计](https://m.ithome.com/html/839320.htm)
+
++ [华为 Pura X 阔折叠手机首搭鸿蒙 HarmonyOS 5 系统](https://m.ithome.com/html/839255.htm)
+
++ [魏建军：长城汽车技术很好但不会讲，也挺憋屈的](https://m.ithome.com/html/839264.htm)
+
++ [央视起底新型网络暴力“开盒挂人”：提供手机号 1600 元就能查住址，上万元可查五年内全部信息](https://m.ithome.com/html/839382.htm)
+
++ [骁龙 8 Gen3 手机 1611 元：一加 Ace 3 Pro 手机 20:00 国补后再降价](https://m.ithome.com/html/838130.htm)
+

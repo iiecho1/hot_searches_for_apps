@@ -135,3 +135,9 @@
 
 + [《Linux 网络架构：基于 TCP 协议的多人聊天系统搭建详解》](https://blog.csdn.net/weixin_45136594/article/details/146379232)
 
++ [生物医药蛋白分子数据采集：支撑大模型训练的技术实践分享](https://blog.csdn.net/weixin_36755535/article/details/146393438)
+
++ [Elasticsearch 介绍：分布式搜索与分析引擎](https://blog.csdn.net/2301_81316824/article/details/146372720)
+
++ [微信小程序 Skyline Worklet ios Andorid 项目实战](https://blog.csdn.net/weixin_37638924/article/details/146380373)
+
