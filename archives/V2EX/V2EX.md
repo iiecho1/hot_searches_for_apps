@@ -37,3 +37,13 @@
 
 + [AI 重度参与完成了一款简历产品，找工作的看过来](https://www.v2ex.com/t/1119539)
 
++ [最近金三银四有人换工作吗](https://www.v2ex.com/t/1119757)
+
++ [大家在购买 Apple 产品的时候，哪些产品加购了 Applecare+啊？](https://www.v2ex.com/t/1119700)
+
++ [得了前端恐惧症该怎么解决](https://www.v2ex.com/t/1119625)
+
++ [江苏联通下行被限速](https://www.v2ex.com/t/1119571)
+
++ [[讨论] 想知道在这种情况下，各位 v 友觉得公道不](https://www.v2ex.com/t/1119711)
+
