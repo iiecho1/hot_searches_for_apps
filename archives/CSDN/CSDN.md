@@ -167,3 +167,11 @@
 
 + [全栈网络安全-渗透测试-2](https://blog.csdn.net/qq_73187469/article/details/146323295)
 
++ [全方位对比oracle18c和oracle 19c](https://blog.csdn.net/sixpp/article/details/146380703)
+
++ [windsurf配置blender-mcp和qgis-mcp](https://blog.csdn.net/qq_44897914/article/details/146323260)
+
++ [亚马逊防关联策略2025：新规下的安全运营指南](https://blog.csdn.net/2401_89629692/article/details/146351080)
+
++ [《九章云络书·织网布阵玄机》中篇](https://blog.csdn.net/m0_73953114/article/details/146382863)
+
