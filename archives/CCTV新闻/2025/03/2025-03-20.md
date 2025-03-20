@@ -185,3 +185,5 @@
 
 + [专访丨中国减贫经验对乌兹别克斯坦意义重大——访乌兹别克斯坦科学院国家与法律研究所高级研究员纳扎罗夫](https://news.cctv.com/2025/03/20/ARTIRIJCX90eFir0QM8GJA6d250320.shtml)
 
++ [拳击被纳入2028年洛杉矶奥运会正式比赛项目](https://news.cctv.com/2025/03/20/ARTIAiR6FrGDj1lfqwLzWTxa250320.shtml)
+

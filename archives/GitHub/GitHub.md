@@ -25,3 +25,11 @@
 
 + [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 
++ [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
+
++ [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who)
+
++ [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView)
+
++ [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
+
