@@ -147,3 +147,7 @@
 
 + [AI 原生 IDE Trae 深度体验：SSHremote 功能助力远程开发与云原生部署](https://blog.csdn.net/dietime1943/article/details/146328395)
 
++ [【系统架构设计师】操作系统 - 特殊操作系统 ③ ( 微内核操作系统 | 单体内核 操作系统 | 内核态 | 用户态 | 单体内核 与 微内核 对比 )](https://blog.csdn.net/han1202012/article/details/146369135)
+
++ [虚拟机 | Ubuntu操作系统：su和sudo理解及如何处理忘记root密码](https://blog.csdn.net/weixin_55599565/article/details/146195347)
+
