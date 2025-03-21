@@ -161,3 +161,7 @@
 
 + [驻吉达总领馆提醒中国公民遵守朝觐期间相关法律法规](https://news.cctv.com/2025/03/18/ARTIzOG231gjBy6VRGDyt6iL250318.shtml)
 
++ [巴赫：“我会非常想念大家”](https://people.cctv.com/2025/03/22/ARTIJIfP3ZK7UxXnAeFtctM6250322.shtml)
+
++ [国际观察｜“商品券”丑闻发酵　石破茂执政承压](https://news.cctv.com/2025/03/22/ARTIJVbYDLKJb1aMshofP9gM250322.shtml)
+

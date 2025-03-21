@@ -101,3 +101,13 @@
 
 + [FPGA中级项目6——VGA 2part](https://blog.csdn.net/m0_67400176/article/details/146400688)
 
++ [强大的AI网站推荐（第一集）—— Devv AI](https://blog.csdn.net/lwcwam/article/details/146407707)
+
++ [在 Elasticsearch 中扩展后期交互模型 - 第 2 部分 - 8.18](https://blog.csdn.net/UbuntuTouch/article/details/146411849)
+
++ [Vue3 中的 ref 详解 - 看完你就懂了](https://blog.csdn.net/qq39144563/article/details/146410658)
+
++ [【微信小程序变通实现DeepSeek支持语音】](https://blog.csdn.net/Practicer2015/article/details/146383314)
+
++ [FPGA时钟约束](https://blog.csdn.net/qq_57548898/article/details/146377700)
+
