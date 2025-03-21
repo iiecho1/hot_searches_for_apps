@@ -165,3 +165,27 @@
 
 + [工业相机选型](https://blog.csdn.net/wfengzi5/article/details/146352267)
 
++ [【一起学Rust | Tauri2.0框架】基于 Rust 与 Tauri 2.0 框架实现全局状态管理](https://blog.csdn.net/weixin_47754149/article/details/146170978)
+
++ [Linux信号的诞生与归宿：内核如何管理信号的生成、阻塞和递达？](https://blog.csdn.net/2302_80105876/article/details/146336492)
+
++ [SEARCH-R1: 基于强化学习的大型语言模型多轮搜索与推理框架](https://blog.csdn.net/m0_46510245/article/details/146413857)
+
++ [从PGC到AIGC：海螺AI多模态内容生成系统架构一站式剖析](https://blog.csdn.net/bite_zwy/article/details/146406838)
+
++ [用 Pinia 点燃 Vue 3 应用：状态管理革新之旅](https://blog.csdn.net/2401_85655834/article/details/146410168)
+
++ [MySQL 设置允许远程连接完整指南：安全与效率并重](https://blog.csdn.net/erjinzhi138006/article/details/146410253)
+
++ [手撸一个 deepseek 聊天历史对话、多轮对话（ollama + deepseek + langchain + flask）](https://blog.csdn.net/ANONYMOUSLAI/article/details/146370172)
+
++ [分布式系统性能优化：策略、实践与工具](https://blog.csdn.net/qq_44273429/article/details/146418418)
+
++ [【DeepSeek部署实战】DeepSeek-R1-Distill-Qwen-7B：基于vLLM 搭建高性能推理服务器](https://blog.csdn.net/xiaobing259/article/details/145950453)
+
++ [【Nginx】——从0到1，带你玩转Nginx，掌握其中的技巧以及配置](https://blog.csdn.net/shsjssnn/article/details/143430850)
+
++ [IOS接入微信方法](https://blog.csdn.net/ltf857/article/details/146398258)
+
++ [FPGA中级项目6——VGA 2part](https://blog.csdn.net/m0_67400176/article/details/146400688)
+
