@@ -195,3 +195,15 @@
 
 + [朝鲜谴责美韩军演是“侵略战争预演”](https://military.cctv.com/2025/03/21/ARTI9Uzr6U9AzqIAxS1U26aP250321.shtml)
 
++ [新任国际奥委会主席：中国经验值得世界学习](https://news.cctv.com/2025/03/21/ARTIn8f5irGay2J24uEPqN4s250321.shtml)
+
++ [中东战地手记｜美国吹嘘的人权哪去了？——萨那民众在美军空袭也门后质问](https://news.cctv.com/2025/03/21/ARTIbwgI2mR7Onhu3yydOLrH250321.shtml)
+
++ [全球瞭望丨英媒：经济学家担心美经济政策会抑制增长、加剧通胀](https://news.cctv.com/2025/03/21/ARTIghuOFR2KSBzWTFt4bueT250321.shtml)
+
++ [专访丨美国单边主义对全球贸易和经济稳定构成重大威胁——访意中理事基金会会长马里奥·博塞利](https://news.cctv.com/2025/03/21/ARTIvPxv4ob4a01UApkggdC0250321.shtml)
+
++ [白宫称特朗普“完全支持”以色列恢复在加沙地带军事行动](https://news.cctv.com/2025/03/21/ARTIDphTLH1P0VYqrPVxgC6x250321.shtml)
+
++ [韩国在野党已对代总统崔相穆发起弹劾](https://news.cctv.com/2025/03/21/ARTIIVspfKmilz9I0Bo9H84a250321.shtml)
+
