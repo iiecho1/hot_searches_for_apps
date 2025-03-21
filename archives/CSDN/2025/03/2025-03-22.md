@@ -137,3 +137,9 @@
 
 + [压力测试实战指南：JMeter 5.x深度解析与QPS/TPS性能优化](https://blog.csdn.net/m0_74077663/article/details/146405521)
 
++ [融合AMD与NVIDIA GPU集群的MLOps：异构计算环境中的分布式训练架构实践](https://blog.csdn.net/m0_46510245/article/details/146363536)
+
++ [命令行版Linux通过校园网认证并SSH方案](https://blog.csdn.net/qq_73357884/article/details/146420421)
+
++ [HarmonyOS Next～鸿蒙系统性能优化全解析：检测、分析与场景实践](https://blog.csdn.net/weixin_41905135/article/details/146404735)
+
