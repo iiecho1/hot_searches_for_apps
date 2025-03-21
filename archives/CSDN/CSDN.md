@@ -203,3 +203,7 @@
 
 + [FPGA时钟约束](https://blog.csdn.net/qq_57548898/article/details/146377700)
 
++ [harmony笔记](https://blog.csdn.net/2402_88991400/article/details/145453580)
+
++ [探索 ESP32：物联网时代的全能微控制器](https://blog.csdn.net/m0_71934846/article/details/146389261)
+

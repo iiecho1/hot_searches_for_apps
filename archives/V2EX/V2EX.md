@@ -57,3 +57,5 @@
 
 + [最近这期国补是不是范围和力度更大了](https://www.v2ex.com/t/1120053)
 
++ [为什么 Python 、Node.js 就不能学习一下 C#这种优雅的依赖管理方式？](https://www.v2ex.com/t/1120003)
+
