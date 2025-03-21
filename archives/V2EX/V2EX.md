@@ -51,3 +51,5 @@
 
 + [一个月应该连上 20 多天班，然后休一周](https://www.v2ex.com/t/1120103)
 
++ [装了台 pc， windows 有什么必装的软件吗？](https://www.v2ex.com/t/1120028)
+
