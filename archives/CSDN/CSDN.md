@@ -135,3 +135,5 @@
 
 + [【数学建模】主成分分析（PCA）算法在数学建模中的应用](https://blog.csdn.net/Zlyzjiabjw547479/article/details/146401781)
 
++ [压力测试实战指南：JMeter 5.x深度解析与QPS/TPS性能优化](https://blog.csdn.net/m0_74077663/article/details/146405521)
+
