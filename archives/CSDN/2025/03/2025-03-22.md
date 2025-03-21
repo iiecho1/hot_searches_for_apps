@@ -111,3 +111,27 @@
 
 + [FPGA时钟约束](https://blog.csdn.net/qq_57548898/article/details/146377700)
 
++ [Spring Boot拦截器（Interceptor）与过滤器（Filter）深度解析：区别、实现与实战指南](https://blog.csdn.net/my1121716951/article/details/146410233)
+
++ [Java 大视界 -- 基于 Java 的大数据机器学习模型的多模态融合技术与应用（143）](https://blog.csdn.net/atgfg/article/details/146394898)
+
++ [Spring Boot启动流程及源码实现深度解析](https://blog.csdn.net/chenOnlyOne/article/details/146410311)
+
++ [【海螺AI视频】蓝耘智算 | AI视频新浪潮：蓝耘MaaS与海螺AI视频创作体验](https://blog.csdn.net/Morse_Chen/article/details/146334378)
+
++ [探秘海螺 AI 视频与计算机视觉算法的奇妙融合](https://blog.csdn.net/weixin_73295475/article/details/146367684)
+
++ [【GitHub周榜】Agno：快速构建多模态智能体的轻量级框架，开发提速 10000 倍](https://blog.csdn.net/xiaobing259/article/details/146248448)
+
++ [腾讯云大模型知识引擎×DeepSeek：股票分析低代码应用实践](https://blog.csdn.net/weixin_65947448/article/details/146403054)
+
++ [Kubeasz工具快速部署K8Sv1.27版本集群(二进制方式)](https://blog.csdn.net/weixin_45310323/article/details/146369221)
+
++ [2025年优化算法：人工旅鼠算法(Artificial lemming algorithm，ALA)](https://blog.csdn.net/yuchunyu12/article/details/146406911)
+
++ [关于Docker是否被淘汰&虚拟机实现连接虚拟专用网络&Ubuntu 22.04 LTS部署Harbor仓库全流程](https://blog.csdn.net/shjwkzkzk/article/details/146379935)
+
++ [wx143基于ssm+vue+uniapp的数学辅导小程序](https://blog.csdn.net/shmp54xmu/article/details/146351643)
+
++ [【数学建模】主成分分析（PCA）算法在数学建模中的应用](https://blog.csdn.net/Zlyzjiabjw547479/article/details/146401781)
+
