@@ -193,3 +193,9 @@
 
 + [智能驱动的视频未来：蓝耘MaaS平海螺AI技术的革新与应用](https://blog.csdn.net/2501_91062530/article/details/146420518)
 
++ [GaussDB构建高性能Schema：分布式数据库架构设计与实战](https://blog.csdn.net/GaussDB/article/details/146423292)
+
++ [学习threejs，使用TextGeometry文本几何体](https://blog.csdn.net/qq_28419035/article/details/146424756)
+
++ [深度解析manus:技术原理剖析、开源平替方案架构分析](https://blog.csdn.net/spatial_coder/article/details/146276911)
+
