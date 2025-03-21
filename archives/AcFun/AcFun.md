@@ -69,3 +69,5 @@
 
 + [震碎三观的“慢脚”文化，看完恶心了三天三夜……](https://m.acfun.cn/v/%3Fac%3D47031500)
 
++ [【东方/交响】Chinese Tea【Touhou Orchestra Concert 2024】](https://m.acfun.cn/v/%3Fac%3D47031374)
+
