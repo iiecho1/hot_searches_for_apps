@@ -175,3 +175,9 @@
 
 + [关闭教育部，特朗普真动手了](https://news.cctv.com/2025/03/21/ARTIrfbydPJqaYOP8VQFaU8s250321.shtml)
 
++ [格陵兰岛努克印象](https://photo.cctv.com/2025/03/21/PHOAa1zVH6MdLcL3dkoFlXuG250321.shtml)
+
++ [美军对也门荷台达省发动多次空袭](https://military.cctv.com/2025/03/21/ARTI6BRPKiSJC32XPeZH3iPw250321.shtml)
+
++ [美乌“很快”签矿产协议　特朗普：“非常顺利”](https://news.cctv.com/2025/03/21/ARTIpdRFaCFGuLmdsGyH8R46250321.shtml)
+
