@@ -173,3 +173,5 @@
 
 + [柯丝蒂·考文垂是谁？](https://people.cctv.com/2025/03/21/ARTIz2W4bsq1HqfHfykpDBox250321.shtml)
 
++ [关闭教育部，特朗普真动手了](https://news.cctv.com/2025/03/21/ARTIrfbydPJqaYOP8VQFaU8s250321.shtml)
+

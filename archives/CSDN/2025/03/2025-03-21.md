@@ -151,3 +151,7 @@
 
 + [虚拟机 | Ubuntu操作系统：su和sudo理解及如何处理忘记root密码](https://blog.csdn.net/weixin_55599565/article/details/146195347)
 
++ [强大的AI网站推荐（第一集）—— Devv AI](https://blog.csdn.net/lwcwam/article/details/146407707)
+
++ [Wireshark进阶技巧:通过DNS查询来分析可疑流量中恶意软件感染事件](https://blog.csdn.net/mashiro_hibiki/article/details/146361316)
+
