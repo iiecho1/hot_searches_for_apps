@@ -19,3 +19,13 @@
 
 + [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
++ [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [e2b-dev/fragments](https://github.com/e2b-dev/fragments)
+

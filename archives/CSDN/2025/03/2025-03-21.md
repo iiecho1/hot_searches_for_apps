@@ -189,3 +189,7 @@
 
 + [FPGA中级项目6——VGA 2part](https://blog.csdn.net/m0_67400176/article/details/146400688)
 
++ [Spring Boot 中的 @ConditionalOnBean 注解详解](https://blog.csdn.net/yang_love1011/article/details/146409732)
+
++ [智能驱动的视频未来：蓝耘MaaS平海螺AI技术的革新与应用](https://blog.csdn.net/2501_91062530/article/details/146420518)
+
