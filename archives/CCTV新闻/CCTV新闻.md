@@ -181,3 +181,17 @@
 
 + [美乌“很快”签矿产协议　特朗普：“非常顺利”](https://news.cctv.com/2025/03/21/ARTIpdRFaCFGuLmdsGyH8R46250321.shtml)
 
++ [欧盟军备采购计划排除英美军火商？欧盟官员回应](https://news.cctv.com/2025/03/21/ARTIxGZ365GWjOINzUL9iPek250321.shtml)
+
++ [高端访谈丨杰弗里·萨克斯：“美国遏制中国的企图不可能成功”](https://news.cctv.com/2025/03/21/ARTIrlAXIgfGUSnEylHbtYRI250321.shtml)
+
++ [欧洲央行行长：美国贸易政策变化或拖累欧元区经济](https://news.cctv.com/2025/03/21/ARTI8V5X7dYp42zIMjZ8F69w250321.shtml)
+
++ [萨尔瓦多媒体：中国在拉美创造上百万就业岗位](https://news.cctv.com/2025/03/21/ARTILbqjeuOiywN8cUX0WNZx250321.shtml)
+
++ [挪威驻华大使：发生在中国的创新实践能让所有人受益](https://news.cctv.com/2025/03/21/ARTIS8EB4KDSKGJnL6E453si250321.shtml)
+
++ [为“上合大家庭”贡献侨力](https://news.cctv.com/2025/03/21/ARTIburvBj5GKS1YRLLLJR3d250321.shtml)
+
++ [朝鲜谴责美韩军演是“侵略战争预演”](https://military.cctv.com/2025/03/21/ARTI9Uzr6U9AzqIAxS1U26aP250321.shtml)
+
