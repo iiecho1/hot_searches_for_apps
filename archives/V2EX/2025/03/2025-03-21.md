@@ -49,3 +49,5 @@
 
 + [我以为低价的 mac mini m4 会提升国内 macOS 市场份额，但似乎并没有](https://www.v2ex.com/t/1119945)
 
++ [一个月应该连上 20 多天班，然后休一周](https://www.v2ex.com/t/1120103)
+
