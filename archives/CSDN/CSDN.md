@@ -193,3 +193,11 @@
 
 + [【Linux系统】—— 进程概念](https://blog.csdn.net/yusjushd/article/details/144240769)
 
++ [2025三掌柜赠书活动第九期：秒懂AI辅助论文写作](https://blog.csdn.net/CC1991_/article/details/146374213)
+
++ [基于Arm GNU Toolchain编译生成的.elf转hex/bin文件格式方法](https://blog.csdn.net/weixin_42880082/article/details/146337974)
+
++ [html5炫酷3D立体文字效果实现详解](https://blog.csdn.net/qq_43129878/article/details/146429160)
+
++ [【AI】AI编程助手：Cursor、Codeium、GitHub Copilot、Roo Cline、Tabnine](https://blog.csdn.net/u011436427/article/details/146408280)
+

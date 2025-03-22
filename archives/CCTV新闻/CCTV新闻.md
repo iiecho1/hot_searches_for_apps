@@ -227,3 +227,7 @@
 
 + [“远蛋”解近渴？美国又向土耳其和韩国买蛋](https://news.cctv.com/2025/03/22/ARTI2ItCOYmhg8CHPDh065x3250322.shtml)
 
++ [韩国东南部发生多起山火 山林厅向多地发布“严重”级危机警报](https://news.cctv.com/2025/03/22/ARTIacpexDYmV3gYaDUjIQWY250322.shtml)
+
++ [美军第六代战斗机F-47到底什么来头？](https://military.cctv.com/2025/03/22/ARTIHSRl4McUuu2S0RAiPDZV250322.shtml)
+
