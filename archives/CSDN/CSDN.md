@@ -143,3 +143,9 @@
 
 + [HarmonyOS Next～鸿蒙系统性能优化全解析：检测、分析与场景实践](https://blog.csdn.net/weixin_41905135/article/details/146404735)
 
++ [在 Elasticsearch 中探索基于 NVIDIA 的 GPU 加速向量搜索](https://blog.csdn.net/UbuntuTouch/article/details/146386770)
+
++ [【GitHub开源AI精选】Oumi：一站式AI开发平台，涵盖训练、评估与部署全流程](https://blog.csdn.net/xiaobing259/article/details/146247962)
+
++ [推荐5款免费AI编程工具，智能自动编写和生成代码【2025最新】](https://blog.csdn.net/2401_88240332/article/details/146384662)
+
