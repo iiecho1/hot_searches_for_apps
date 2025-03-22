@@ -113,3 +113,35 @@
 
 + [田间机器人幼苗视觉检测与护苗施肥装置研究（大纲）](https://blog.csdn.net/qq_53773901/article/details/146420475)
 
++ [Fourier-Lerobot——把斯坦福人形动作策略iDP3封装进了Lerobot(含我司七月人形研发落地实践)](https://blog.csdn.net/v_JULY_v/article/details/146448646)
+
++ [深入理解 Spring Boot 应用的生命周期：从启动到关闭的全流程解析](https://blog.csdn.net/qq_42763903/article/details/146431376)
+
++ [Kafka消息自定义序列化](https://blog.csdn.net/weixin_44231698/article/details/146418948)
+
++ [技术与情感交织的一生 （二）](https://blog.csdn.net/michaelline/article/details/146312951)
+
++ [VLAN综合实验报告](https://blog.csdn.net/2301_78537542/article/details/146430302)
+
++ [AI赋能视频创作：蓝耘MaaS与海螺AI技术的深度融合](https://blog.csdn.net/lrq13965748542/article/details/146383719)
+
++ [MyBatis参数赋值技巧：#{} 和 ${} 的区别与实践](https://blog.csdn.net/2302_81090306/article/details/146433779)
+
++ [深入解读《白帽子讲 Web 安全》之业务逻辑安全](https://blog.csdn.net/FFNCL/article/details/146394902)
+
++ [【Java】TCP网络编程：从可靠传输到Socket实战](https://blog.csdn.net/2302_80639556/article/details/146409244)
+
++ [扩展卡尔曼滤波](https://blog.csdn.net/dmf_fff/article/details/146407873)
+
++ [css制作一个卡通形象](https://blog.csdn.net/Y990823/article/details/146448336)
+
++ [基于springboot+vue的旅游网站](https://blog.csdn.net/shmp54/article/details/146406902)
+
++ [硕博论文格式调整 的那些事——甲乙丙丁为那般？？](https://blog.csdn.net/cory010/article/details/146440086)
+
++ [前端开发：Vue以及Vue的路由](https://blog.csdn.net/cuxqblt/article/details/146419355)
+
++ [MySQL数据库精研之旅第二期：库操作的深度探索](https://blog.csdn.net/2401_85198927/article/details/146372347)
+
++ [探索未来世界：元宇宙、虚拟现实与增强现实的交互新体验](https://blog.csdn.net/nervous_hard/article/details/146409657)
+
