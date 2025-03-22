@@ -55,3 +55,9 @@
 
 + [mbp 选购决赛圈，大佬们，快快快！](https://www.v2ex.com/t/1120231)
 
++ [被 Passwords 应用坑惨了](https://www.v2ex.com/t/1120176)
+
++ [想长期持有一只股票该怎么操作](https://www.v2ex.com/t/1120175)
+
++ [C++ 开发不想 996，如何跳槽转到 Java ？](https://www.v2ex.com/t/1120238)
+

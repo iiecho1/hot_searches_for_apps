@@ -203,3 +203,13 @@
 
 + [韩国医学生复课在即 医学教育界呼吁尽快返校](https://news.cctv.com/2025/03/22/ARTIke8aNG1r5vPJsoNDRl1C250322.shtml)
 
++ [滞留太空的美宇航员还没拿到加班费？特朗普：如有需要，我会自掏腰包](https://news.cctv.com/2025/03/22/ARTIXyKdlWzhHGYJeQb4XimM250322.shtml)
+
++ [印度官员爆料：搞了4年、规模达230亿美元，振兴“印度制造”计划失败](https://news.cctv.com/2025/03/22/ARTI6JtQdTxNjP175402RAyq250322.shtml)
+
++ [一颗种子见证中非友谊](https://news.cctv.com/2025/03/22/ARTIidKbuMab6N8Y0okAuLWJ250322.shtml)
+
++ [“替代美国”成美国盟友关键词](https://news.cctv.com/2025/03/22/ARTIabrFU2wfDlC3XBQqVVT1250322.shtml)
+
++ [阿尔及利亚学者：美国挥舞“关税大棒”将反噬自身](https://news.cctv.com/2025/03/22/ARTIAfr9dNvilPQnU488VUgE250322.shtml)
+
