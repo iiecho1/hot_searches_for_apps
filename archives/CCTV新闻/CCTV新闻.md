@@ -213,3 +213,13 @@
 
 + [阿尔及利亚学者：美国挥舞“关税大棒”将反噬自身](https://news.cctv.com/2025/03/22/ARTIAfr9dNvilPQnU488VUgE250322.shtml)
 
++ [美国新墨西哥州发生枪击事件 造成至少1人死亡多人受伤](https://news.cctv.com/2025/03/22/ARTIVVPOd5AW3sBhgOZJKl3s250322.shtml)
+
++ [考文垂：北京在我心中有着特殊的位置](https://people.cctv.com/2025/03/22/ARTI4rqhme7CPJuNjIMX4M6h250322.shtml)
+
++ [中瑙签署互免持特定类别护照人员签证协定](https://news.cctv.com/2025/03/22/ARTIJyUb6xoAlJthhRyKBJPc250322.shtml)
+
++ [美国限制加拿大人进入两国跨境图书馆引发不满](https://news.cctv.com/2025/03/22/ARTIE7NsUkSsQgoUPCa2E6bh250322.shtml)
+
++ [美国中东问题特使：乌克兰同意举行总统选举](https://news.cctv.com/2025/03/22/ARTIfvtzfhPkFA6dyqvQgWpG250322.shtml)
+

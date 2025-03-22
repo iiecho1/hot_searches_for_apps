@@ -181,3 +181,9 @@
 
 + [Redis缓存异常场景深度解析：穿透、击穿、雪崩及终极解决方案](https://blog.csdn.net/2401_85610958/article/details/146409813)
 
++ [【NLP】 API在大语言模型中的应用](https://blog.csdn.net/DawnAurora_/article/details/146378594)
+
++ [【Linux】I/O 多路转接：select & epoll 技术剖析](https://blog.csdn.net/weixin_50776420/article/details/146355852)
+
++ [【yolo】使用 Netron 可视化深度学习模型：从 YOLOv1 到 YOLOv8 的探索](https://blog.csdn.net/songhuangong123/article/details/146429128)
+
