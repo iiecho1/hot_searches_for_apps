@@ -103,3 +103,15 @@
 
 + [直接加入反方【今天有什么好笑的 #1973】](https://m.acfun.cn/v/%3Fac%3D47037629)
 
++ [魔童闹海：谁在闹海？闹的是什么海？](https://m.acfun.cn/v/%3Fac%3D47037973)
+
++ [开拓者，你这个坏蛋！](https://m.acfun.cn/v/%3Fac%3D47034386)
+
++ [你咋不说你亿万僵尸天天偷袭QYQ](https://m.acfun.cn/v/%3Fac%3D47037472)
+
++ [相信我！！好吃到爆啊！](https://m.acfun.cn/v/%3Fac%3D47034982)
+
++ [成都绵阳魔幻兄弟](https://m.acfun.cn/v/%3Fac%3D47034493)
+
++ [【翻唱】《闪之轨迹III》ED「嘆きのリフレイン」完整版](https://m.acfun.cn/v/%3Fac%3D47037775)
+

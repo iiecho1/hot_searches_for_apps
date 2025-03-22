@@ -237,3 +237,7 @@
 
 + [安德烈亚诺夫群岛发生5.6级地震，震源深度90千米](https://news.cctv.com/2025/03/22/ARTIqug2XjnAe30KbCPMRXpr250322.shtml)
 
++ [针对美“关税大棒” 法国要求欧盟采取强有力反制措施](https://news.cctv.com/2025/03/22/ARTItXjBeWho3VxznTkfCDap250322.shtml)
+
++ [尼日尔一清真寺发生恐怖袭击 至少44人死亡](https://news.cctv.com/2025/03/22/ARTIsbkpTpv0gr0BsITdZmDp250322.shtml)
+
