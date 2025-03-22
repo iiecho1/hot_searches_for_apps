@@ -231,3 +231,9 @@
 
 + [美军第六代战斗机F-47到底什么来头？](https://military.cctv.com/2025/03/22/ARTIHSRl4McUuu2S0RAiPDZV250322.shtml)
 
++ [国际合作是避免全球气候灾难的唯一途径——访《联合国气候变化框架公约》秘书处执行秘书斯蒂尔](https://news.cctv.com/2025/03/22/ARTIVDz8sab1di6ydl6hb6qa250322.shtml)
+
++ [日媒：美关税政策加剧经济混乱](https://news.cctv.com/2025/03/22/ARTIJifBqw1nwn0oGYeWhKek250322.shtml)
+
++ [安德烈亚诺夫群岛发生5.6级地震，震源深度90千米](https://news.cctv.com/2025/03/22/ARTIqug2XjnAe30KbCPMRXpr250322.shtml)
+

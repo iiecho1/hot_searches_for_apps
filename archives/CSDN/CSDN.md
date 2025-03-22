@@ -201,3 +201,9 @@
 
 + [【AI】AI编程助手：Cursor、Codeium、GitHub Copilot、Roo Cline、Tabnine](https://blog.csdn.net/u011436427/article/details/146408280)
 
++ [PostgreSQL用SQL实现俄罗斯方块](https://blog.csdn.net/weixin_41645135/article/details/146429834)
+
++ [Linux信号处理详解：从基本概念到高级应用](https://blog.csdn.net/Cayyyy/article/details/146440989)
+
++ [基于 FPGA的HLS技术与应用](https://blog.csdn.net/m0_46644085/article/details/146430515)
+

@@ -17,3 +17,15 @@
 
 + [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
 
++ [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+
++ [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
+
++ [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
++ [RSSNext/Folo](https://github.com/RSSNext/Folo)
+
++ [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
+
