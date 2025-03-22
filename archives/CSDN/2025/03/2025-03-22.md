@@ -157,3 +157,15 @@
 
 + [电源电路篇](https://blog.csdn.net/m0_51319492/article/details/146000629)
 
++ [在Springboot中集成unihttp后应用无法启动的解决办法](https://blog.csdn.net/yelangkingwuzuhu/article/details/146428209)
+
++ [【高并发内存池】第三弹---构建Central Cache的全方位指南——从整体设计到核心实现](https://blog.csdn.net/2201_75584283/article/details/144008531)
+
++ [集成学习（下）：Stacking集成方法](https://blog.csdn.net/YYDS_54/article/details/146359876)
+
++ [[网络安全] 滥用Azure内置Contributor角色横向移动至Azure VM](https://blog.csdn.net/Eastmount/article/details/146412429)
+
++ [深度学习：从零开始的DeepSeek-R1-Distill有监督微调训练实战（SFT）](https://blog.csdn.net/Landy_Jay/article/details/146335467)
+
++ [Vue 3 事件总线详解：构建组件间高效通信的桥梁](https://blog.csdn.net/A_Kamen/article/details/146409900)
+
