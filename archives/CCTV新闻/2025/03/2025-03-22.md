@@ -251,3 +251,11 @@
 
 + [欧洲多国更新赴美旅行安全提示](https://news.cctv.com/2025/03/22/ARTIH7uG8QVbKLCQb2m2EKxA250322.shtml)
 
++ [苏丹武装部队称在首都地区取得重大军事进展 控制更多地区](https://news.cctv.com/2025/03/22/ARTI0k6HLFVd4k3MJztFWlUv250322.shtml)
+
++ [因安全局势持续恶化 德国暂时关闭驻南苏丹使馆](https://news.cctv.com/2025/03/22/ARTI64SblcrCgpRKTxLze0Ts250322.shtml)
+
++ [委内瑞拉与美政府达成协议 恢复遣返移民安排](https://news.cctv.com/2025/03/22/ARTIOyPeEwpK1BnPnTNZQvBl250322.shtml)
+
++ [现场直击丨格陵兰冰盖加速融化](https://news.cctv.com/2025/03/22/ARTIWaXSmuzdHpfGdPOQRmEz250322.shtml)
+
