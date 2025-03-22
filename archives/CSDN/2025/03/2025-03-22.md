@@ -213,3 +213,7 @@
 
 + [AI大模型学习和八股文资料合集](https://blog.csdn.net/unbuntu_luo/article/details/146325830)
 
++ [Mysql基本查询（上）](https://blog.csdn.net/2301_81831423/article/details/146427765)
+
++ [【redis】事务详解，相关命令multi、exec、discard 与 watch 的原理](https://blog.csdn.net/Yeeear/article/details/146443570)
+
