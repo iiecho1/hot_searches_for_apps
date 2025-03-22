@@ -169,3 +169,9 @@
 
 + [Vue 3 事件总线详解：构建组件间高效通信的桥梁](https://blog.csdn.net/A_Kamen/article/details/146409900)
 
++ [冯・诺依曼架构深度解析](https://blog.csdn.net/LJY_CF/article/details/146382260)
+
++ [Linux--软硬链接、动静态库](https://blog.csdn.net/cookies_s_/article/details/146295588)
+
++ [技术与情感交织的一生 （二）](https://blog.csdn.net/michaelline/article/details/146312951)
+

@@ -193,3 +193,13 @@
 
 + [总台记者观察丨千亿欧元财政草案通过 德国改革承诺能否兑现？](https://news.cctv.com/2025/03/22/ARTI5VELMLfTLfkYjJhCkiyS250322.shtml)
 
++ [美国新墨西哥州发生枪击事件 多人中枪](https://news.cctv.com/2025/03/22/ARTIFfaxOFGzqLO5p5jrvcLN250322.shtml)
+
++ [日媒称美国单边强行征税危及全球经济复苏 将加剧经济停滞和混乱](https://news.cctv.com/2025/03/22/ARTIzfRtMeWBalP3kY60In84250322.shtml)
+
++ [死亡威胁？“斗法”？美政府效率部大规模裁员在美引发巨大争议](https://news.cctv.com/2025/03/22/ARTI4ftNVmkjqc1KygGbEDqm250322.shtml)
+
++ [全球冰川融化速度比以往更快 可能引发一系列环境、经济和社会问题](https://news.cctv.com/2025/03/22/ARTIWBdo2Zye8YBUYkMVvSbS250322.shtml)
+
++ [韩国医学生复课在即 医学教育界呼吁尽快返校](https://news.cctv.com/2025/03/22/ARTIke8aNG1r5vPJsoNDRl1C250322.shtml)
+
