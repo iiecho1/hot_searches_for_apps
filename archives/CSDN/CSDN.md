@@ -151,3 +151,5 @@
 
 + [压缩壳学习](https://blog.csdn.net/Sean_summer/article/details/146430996)
 
++ [生物医药蛋白分子数据采集：支撑大模型训练的技术实践分享](https://blog.csdn.net/weixin_36755535/article/details/146393438)
+
