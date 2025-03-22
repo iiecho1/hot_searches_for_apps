@@ -153,3 +153,5 @@
 
 + [生物医药蛋白分子数据采集：支撑大模型训练的技术实践分享](https://blog.csdn.net/weixin_36755535/article/details/146393438)
 
++ [使用 Python 从 Microsoft OneNote 加载文档的指南](https://blog.csdn.net/fgayif/article/details/146436277)
+
