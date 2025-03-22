@@ -243,3 +243,11 @@
 
 + [美国特使：乌克兰“很大程度上”接受不会成为北约成员](https://news.cctv.com/2025/03/22/ARTIZ3uCApGBlaJp4GKb6mdT250322.shtml)
 
++ [巴黎一司机驾车逃逸后与警车相撞 致11人受伤](https://news.cctv.com/2025/03/22/ARTIagPUdEywk9qQiYlPm78O250322.shtml)
+
++ [韩国庆尚南道山清郡山火已致4人遇难 受灾面积超500公顷](https://news.cctv.com/2025/03/22/ARTInCKG3WVXLjSHp0QqQVAd250322.shtml)
+
++ [黎总理警告南部局势升级或引发战争](https://news.cctv.com/2025/03/22/ARTINe8C7Vi1Sdt8HF4dbEg1250322.shtml)
+
++ [欧洲多国更新赴美旅行安全提示](https://news.cctv.com/2025/03/22/ARTIH7uG8QVbKLCQb2m2EKxA250322.shtml)
+

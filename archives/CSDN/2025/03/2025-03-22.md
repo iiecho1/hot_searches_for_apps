@@ -217,3 +217,7 @@
 
 + [【redis】事务详解，相关命令multi、exec、discard 与 watch 的原理](https://blog.csdn.net/Yeeear/article/details/146443570)
 
++ [MyBatis参数赋值技巧：#{} 和 ${} 的区别与实践](https://blog.csdn.net/2302_81090306/article/details/146433779)
+
++ [机器学习-04-分类算法-02贝叶斯算法案例](https://blog.csdn.net/m0_38139250/article/details/146411421)
+
