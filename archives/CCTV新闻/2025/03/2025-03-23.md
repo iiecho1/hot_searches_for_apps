@@ -161,3 +161,9 @@
 
 + [韩国国会通过“金建希常设特检案”](https://news.cctv.com/2025/03/20/ARTISvocTfOZVBqThKsyxp1X250320.shtml)
 
++ [美国新墨西哥州枪击事件造成至少3死16伤](https://news.cctv.com/2025/03/23/ARTIyYofzkSiJxuh4OeFDVBz250323.shtml)
+
++ [美政府大规模调派联邦力量强化移民执法 前官员：将致其他事务被搁置](https://news.cctv.com/2025/03/23/ARTIJPicS8zcmwPAabyZVorR250323.shtml)
+
++ [山火难控 韩国政府宣布庆山南道山清郡为特别受灾地区](https://news.cctv.com/2025/03/23/ARTIrOjljIzB2bU6wdFO6EoV250323.shtml)
+

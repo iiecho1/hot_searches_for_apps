@@ -101,3 +101,15 @@
 
 + [DeepSeek 助力 Vue3 开发：打造丝滑的表格（Table）之添加导出数据功能示例9，TableView15_09带排序的导出表格示例](https://blog.csdn.net/qq_33650655/article/details/146351181)
 
++ [【一起学Rust | Tauri2.0框架】基于 Rust 与 Tauri 2.0 框架实现全局状态管理](https://blog.csdn.net/weixin_47754149/article/details/146170978)
+
++ [深度学习与计算机视觉方向](https://blog.csdn.net/weixin_71288092/article/details/146386555)
+
++ [Vue.js 的计算属性和侦听器：提升数据处理与交互的关键工具](https://blog.csdn.net/FFNCL/article/details/146278208)
+
++ [技术速递｜.NET AI 模板现已提供预览版](https://blog.csdn.net/MicrosoftReactor/article/details/146404965)
+
++ [什么是 BA ？BA怎么样？BA和BI是什么关系？](https://blog.csdn.net/weixin_44958787/article/details/146412423)
+
++ [田间机器人幼苗视觉检测与护苗施肥装置研究（大纲）](https://blog.csdn.net/qq_53773901/article/details/146420475)
+
