@@ -167,3 +167,11 @@
 
 + [山火难控 韩国政府宣布庆山南道山清郡为特别受灾地区](https://news.cctv.com/2025/03/23/ARTIrOjljIzB2bU6wdFO6EoV250323.shtml)
 
++ [以军称空袭加沙、黎巴嫩、叙利亚200余个目标](https://news.cctv.com/2025/03/23/ARTIJrGJxaMYyKSj5LHzHNmG250323.shtml)
+
++ [俄罗斯喀山机场临时限制航班起降](https://news.cctv.com/2025/03/23/ARTIFgrYN7CUxzGvo0Zuw3CW250323.shtml)
+
++ [苏丹西部地区遭遇袭击 致45名平民死亡](https://news.cctv.com/2025/03/23/ARTI4Lhu9aPoA96Cduwu8DBz250323.shtml)
+
++ [联合国难民署：刚果（金）十万人逃离至邻国](https://news.cctv.com/2025/03/23/ARTIhDgEYMU23rNMvL7ZtH7s250323.shtml)
+
