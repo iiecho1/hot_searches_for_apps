@@ -223,3 +223,7 @@
 
 + [美国中东问题特使：乌克兰同意举行总统选举](https://news.cctv.com/2025/03/22/ARTIfvtzfhPkFA6dyqvQgWpG250322.shtml)
 
++ [印尼巴布亚省发生武装袭击 6名教师遇袭身亡](https://news.cctv.com/2025/03/22/ARTIVGzhjewsmxTsYizKwGIc250322.shtml)
+
++ [“远蛋”解近渴？美国又向土耳其和韩国买蛋](https://news.cctv.com/2025/03/22/ARTI2ItCOYmhg8CHPDh065x3250322.shtml)
+
