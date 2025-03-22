@@ -149,3 +149,11 @@
 
 + [推荐5款免费AI编程工具，智能自动编写和生成代码【2025最新】](https://blog.csdn.net/2401_88240332/article/details/146384662)
 
++ [爬虫+动态代理助力 AI 训练数据采集](https://blog.csdn.net/yuan2019035055/article/details/146348098)
+
++ [2025三掌柜赠书活动第八期：预训练语言模型：方法、实践与应用](https://blog.csdn.net/CC1991_/article/details/146371310)
+
++ [设计模式，如单例模式、观察者模式在什么场景下使用](https://blog.csdn.net/qinfen123456/article/details/146400719)
+
++ [电源电路篇](https://blog.csdn.net/m0_51319492/article/details/146000629)
+

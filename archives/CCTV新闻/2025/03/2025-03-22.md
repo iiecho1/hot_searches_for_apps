@@ -169,3 +169,23 @@
 
 + [国际观察｜“商品券”丑闻发酵 石破茂执政承压](https://news.cctv.com/2025/03/22/ARTIJVbYDLKJb1aMshofP9gM250322.shtml)
 
++ [特朗普宣布撤销哈里斯以及希拉里安全许可](https://news.cctv.com/2025/03/22/ARTIg6L8sAetc2eknFNQEWoo250322.shtml)
+
++ [伊拉克驻伊斯坦布尔领事馆遭枪击 无人员伤亡](https://news.cctv.com/2025/03/22/ARTIYvNBlcWfSIxNaj6VSKsh250322.shtml)
+
++ [玻利维亚强降雨已造成49人死亡 超32万户家庭受灾](https://news.cctv.com/2025/03/22/ARTIDKvu5IauzmgNVLrLMnT2250322.shtml)
+
++ [委内瑞拉：被美遣返移民与“阿拉瓜火车”犯罪组织无关](https://news.cctv.com/2025/03/22/ARTIIa3F0kZcFmSihF7763kO250322.shtml)
+
++ [乌外交部：乌克兰和美国仍在就矿产协议进行谈判](https://news.cctv.com/2025/03/22/ARTICPeMDajuu6RAycnLUFP4250322.shtml)
+
++ [美国宣布撤销53万人临时合法身份 涉及拉美多国](https://news.cctv.com/2025/03/22/ARTITPfeunXI3eO7iMTP4IVS250322.shtml)
+
++ [美国将向中东部署第二艘航母 加强打击胡塞武装](https://news.cctv.com/2025/03/22/ARTId9rZFnIjogglhpDMSDIe250322.shtml)
+
++ [金正恩会见绍伊古 讨论维护朝俄两国安全利益等议题](https://news.cctv.com/2025/03/22/ARTIKehIjtw5S8mlolz2nWjf250322.shtml)
+
++ [伊朗最高领袖：美国对伊朗采取任何恶意行为将受到沉重打击](https://news.cctv.com/2025/03/22/ARTIclCWSR7V50ciA1D3ook6250322.shtml)
+
++ [第47任总统特朗普要造新战机F-47](https://news.cctv.com/2025/03/22/ARTICpewdvHCoq5pqFjqWxC2250322.shtml)
+

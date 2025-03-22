@@ -25,3 +25,11 @@
 
 + [IDEA 转 VS code，看下大家的 VS code 主题](https://www.v2ex.com/t/1120166)
 
++ [问下拆迁款分配问题](https://www.v2ex.com/t/1120117)
+
++ [车被恶意刮了很深一条划痕，修车预计 1500](https://www.v2ex.com/t/1120064)
+
++ [终端查看 Mac mini 硬盘读写数据，感觉超出我使用的范围](https://www.v2ex.com/t/1120054)
+
++ [目前节点看，小米智驾有没有戏](https://www.v2ex.com/t/1120065)
+
