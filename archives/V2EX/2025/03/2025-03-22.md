@@ -43,3 +43,9 @@
 
 + [推荐个安卓手机](https://www.v2ex.com/t/1120210)
 
++ [Typescript 如此成功，为何没有发展出所谓 “Typthon”?](https://www.v2ex.com/t/1120232)
+
++ [Quantumult X 防 DNS 泄露](https://www.v2ex.com/t/1120130)
+
++ [常觉得自己三观脱离主流](https://www.v2ex.com/t/1120114)
+

@@ -189,3 +189,7 @@
 
 + [第47任总统特朗普要造新战机F-47](https://news.cctv.com/2025/03/22/ARTICpewdvHCoq5pqFjqWxC2250322.shtml)
 
++ [美国哥伦比亚大学同意进行改革 以恢复4亿美元联邦拨款](https://news.cctv.com/2025/03/22/ARTI9AIpGSawWbHDSNCcD2x9250322.shtml)
+
++ [总台记者观察丨千亿欧元财政草案通过 德国改革承诺能否兑现？](https://news.cctv.com/2025/03/22/ARTI5VELMLfTLfkYjJhCkiyS250322.shtml)
+
