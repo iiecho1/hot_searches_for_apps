@@ -161,3 +161,7 @@
 
 + [总台记者观察丨千亿欧元财政草案通过 德国改革承诺能否兑现？](https://news.cctv.com/2025/03/22/ARTI5VELMLfTLfkYjJhCkiyS250322.shtml)
 
++ [乌克兰国防部长：乌美代表团在利雅得开始会谈](https://news.cctv.com/2025/03/24/ARTICLoFUmyses4TIRzyDMIX250324.shtml)
+
++ [加拿大总理宣布提前举行联邦大选](https://news.cctv.com/2025/03/24/ARTIMzP0Gz8f8ilh2zVBnXJj250324.shtml)
+
