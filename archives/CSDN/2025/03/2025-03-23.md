@@ -155,3 +155,5 @@
 
 + [使用 Python 从 Microsoft OneNote 加载文档的指南](https://blog.csdn.net/fgayif/article/details/146436277)
 
++ [数智读书笔记系列021《大数据医疗》：探索医疗行业的智能变革](https://blog.csdn.net/kkiron/article/details/146412094)
+

@@ -179,3 +179,15 @@
 
 + [德国总统签署《基本法》修正案放宽“债务刹车”限制](https://news.cctv.com/2025/03/23/ARTIiIderTPUoa70ESuANpoY250323.shtml)
 
++ [厄瓜多尔一输油管道发生泄漏](https://news.cctv.com/2025/03/23/ARTImcug15hwMXNjiU7jLxGo250323.shtml)
+
++ [美国空中任务通知系统中断数小时后恢复运行](https://news.cctv.com/2025/03/23/ARTIcVifzO05q6oL81ydf6UK250323.shtml)
+
++ [知情人士：美乌代表团将于23日举行首次停火谈判会议](https://news.cctv.com/2025/03/23/ARTIb7MMuwnJcMeAEHsetQ5g250323.shtml)
+
++ [美国北方司令部宣布“斯普鲁恩斯”号驱逐舰前往南部边境执行任务](https://news.cctv.com/2025/03/23/ARTIImXQiEhMLgbmEb0HDjzY250323.shtml)
+
++ [埃及消息人士：以色列提议哈马斯分两阶段释放被扣押人员](https://news.cctv.com/2025/03/23/ARTII8KGZ8wvFwpCY7btxPrn250323.shtml)
+
++ [利比亚两车相撞事故造成8人死亡](https://news.cctv.com/2025/03/23/ARTIu3peBELrrWw5QJtR8yfW250323.shtml)
+
