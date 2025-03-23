@@ -133,3 +133,7 @@
 
 + [React--》文件下载优化技巧与最佳实践](https://blog.csdn.net/qq_53123067/article/details/146287748)
 
++ [腾讯云HAI1元体验：轻松调用DeepSeek-R1模型搭建网站](https://blog.csdn.net/qq_47888212/article/details/146413126)
+
++ [硕博论文格式调整 的那些事——甲乙丙丁为那般？？](https://blog.csdn.net/cory010/article/details/146440086)
+
