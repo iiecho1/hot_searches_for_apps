@@ -167,3 +167,11 @@
 
 + [第六届电气、电子信息与通信工程国际学术会议 (EEICE 2025）](https://blog.csdn.net/2403_88900542/article/details/146427375)
 
++ [Linux笔记---文件系统软件部分](https://blog.csdn.net/2302_80372340/article/details/146377560)
+
++ [CUDA 学习(1)——GPU 架构](https://blog.csdn.net/qq_38342510/article/details/146418970)
+
++ [Java 大视界 -- Java 大数据在智能安防周界防范与入侵预警中的应用（148）](https://blog.csdn.net/atgfg/article/details/146447899)
+
++ [【AI大模型前沿】阿里 QwQ-32B：320 亿参数推理大模型，性能比肩 DeepSeek-R1，免费开源](https://blog.csdn.net/xiaobing259/article/details/146414317)
+
