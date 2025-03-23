@@ -23,3 +23,9 @@
 
 + [洗衣液，洗发水是不是智商税啊？](https://www.v2ex.com/t/1120321)
 
++ [有替代 Proxy SwitchyOmega 的插件吗](https://www.v2ex.com/t/1120361)
+
++ [如何给有线和 wifi 的笔记本分配同一个 ip](https://www.v2ex.com/t/1120312)
+
++ [高强度使用纳米纹理玻璃 nano texture iPad Pro 半个月，觉得非常值得推荐](https://www.v2ex.com/t/1120287)
+

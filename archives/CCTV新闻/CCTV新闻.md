@@ -191,3 +191,17 @@
 
 + [利比亚两车相撞事故造成8人死亡](https://news.cctv.com/2025/03/23/ARTIu3peBELrrWw5QJtR8yfW250323.shtml)
 
++ [世贸组织总干事犀利点评美国“贸易吃亏论”：滥用自身优势的“大赢家”](https://news.cctv.com/2025/03/23/ARTIYFwWfbfqFGbGOCv9RNP1250323.shtml)
+
++ [从挥舞“关税大棒”到一心谋取资源 美政府“交易外交”陷入僵局](https://news.cctv.com/2025/03/23/ARTIqsWsNFvopfwZ2NE3hq9B250323.shtml)
+
++ [韩国山火致4人死亡 多地进入“灾难状态”](https://news.cctv.com/2025/03/23/ARTITICs6JRqdtAjTInL9Omd250323.shtml)
+
++ [澳大利亚海域频发鲨鱼咬人事件](https://news.cctv.com/2025/03/23/ARTIcbFqMaw8pZWhOljebGHu250323.shtml)
+
++ [哈马斯政治局高层夫妇被以军炸死](https://news.cctv.com/2025/03/23/ARTIw9QR7Idrb7CIM46ibtlq250323.shtml)
+
++ [乌克兰首都基辅遭大规模无人机袭击 多地传出爆炸声](https://news.cctv.com/2025/03/23/ARTIzpkjNKywVwtZPEK9sRVj250323.shtml)
+
++ [意大利出版全球首份“AI报纸”](https://news.cctv.com/2025/03/23/ARTIzMx8DlXc5boICgnRzSFN250323.shtml)
+
