@@ -175,3 +175,7 @@
 
 + [【AI大模型前沿】阿里 QwQ-32B：320 亿参数推理大模型，性能比肩 DeepSeek-R1，免费开源](https://blog.csdn.net/xiaobing259/article/details/146414317)
 
++ [解锁云原生后端开发新姿势：腾讯云大模型API实战攻略](https://blog.csdn.net/weixin_73295475/article/details/146452588)
+
++ [新能源汽车高压液体加热器总成技术解析及未来发展趋势](https://blog.csdn.net/weixin_62244995/article/details/146436507)
+

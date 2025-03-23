@@ -37,3 +37,9 @@
 
 + [2025 年了，求推荐洗烘套装，北方！](https://www.v2ex.com/t/1120307)
 
++ [有人在 macOS 使用 crossover 玩游戏吗？](https://www.v2ex.com/t/1120315)
+
++ [Airpods 二代停产了，耳朵已经成了二代的形状怎么办？](https://www.v2ex.com/t/1120395)
+
++ [中国联通申请了 PCDN 识别的专利](https://www.v2ex.com/t/1120381)
+
