@@ -17,3 +17,5 @@
 
 + [Windows 11 24H2 新 bug？ Alt+Tab 切换窗口后，输入法也跟着切换了。](https://www.v2ex.com/t/1120452)
 
++ [全球第一个数字游民国家在北欧](https://www.v2ex.com/t/1120486)
+

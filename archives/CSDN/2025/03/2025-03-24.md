@@ -101,3 +101,13 @@
 
 + [使用 Python 从 Microsoft OneNote 加载文档的指南](https://blog.csdn.net/fgayif/article/details/146436277)
 
++ [挑战用AI替代我的工作——从抢券困境到技术突破](https://blog.csdn.net/lwcwam/article/details/146430280)
+
++ [【Java】TCP网络编程：从可靠传输到Socket实战](https://blog.csdn.net/2302_80639556/article/details/146409244)
+
++ [一款由字节复刻Manus的开源AI自动化任务处理工具：LangManus，它通过LLM和网络搜索、网页爬取、浏览器控制等各种工具结合来实现任务自动化，可以实现本地部署使用，支持国产AI大模型API](https://blog.csdn.net/qq_44866828/article/details/146412259)
+
++ [深入解读《白帽子讲 Web 安全》之业务逻辑安全](https://blog.csdn.net/FFNCL/article/details/146394902)
+
++ [单一职责原则&开闭原则&其他开发原则](https://blog.csdn.net/Vic10101/article/details/146419142)
+
