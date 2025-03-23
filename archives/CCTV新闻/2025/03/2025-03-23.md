@@ -217,3 +217,19 @@
 
 + [英媒：“特朗普衰退”担忧令美英货币政策承压](https://news.cctv.com/2025/03/23/ARTIpAJPAWMfdA2fqPhhV9o0250323.shtml)
 
++ [美加征关税冲击世界石油市场](https://news.cctv.com/2025/03/23/ARTISennHDeC9exslcmIpnit250323.shtml)
+
++ [世贸组织总干事给美国算了一笔贸易账](https://news.cctv.com/2025/03/23/ARTIF7toOnQduA7Is2lav49V250323.shtml)
+
++ [通水亦通心，中坦携手“通水”浇灌民心](https://news.cctv.com/2025/03/23/ARTIm1YV1tNgL93NzNfFTVG1250323.shtml)
+
++ [“中国井”给津巴布韦农户带来盼头](https://news.cctv.com/2025/03/23/ARTIWd48cHibMguTpoP9CdpO250323.shtml)
+
++ [气象条件恶化 韩国庆尚道山火灭火工作面临困难](https://news.cctv.com/2025/03/23/ARTIVy6g9DibigZxciIRsB8Q250323.shtml)
+
++ [为了驱逐非法移民 美国政府又上新手段](https://news.cctv.com/2025/03/23/ARTIz3SnTDiNbgwUEG4fihFw250323.shtml)
+
++ [日媒：多数经济学家认为特朗普政府关税政策将拉低美日GDP](https://news.cctv.com/2025/03/23/ARTIHO0rlHfJWeOrmwydsl6A250323.shtml)
+
++ [乌克兰首都基辅遭大规模无人机袭击 已致3人死亡](https://news.cctv.com/2025/03/23/ARTIHmOqXJtOBJQo261SklMn250323.shtml)
+

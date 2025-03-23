@@ -189,3 +189,7 @@
 
 + [单一职责原则&开闭原则&其他开发原则](https://blog.csdn.net/Vic10101/article/details/146419142)
 
++ [OpenCV DNN 模块使用指南](https://blog.csdn.net/junjun4561482/article/details/146414089)
+
++ [DeepSeek究竟处于一个什么水平，AI江湖的搅局者到底几斤几两](https://blog.csdn.net/qq_42127686/article/details/146447365)
+
