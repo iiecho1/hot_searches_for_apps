@@ -25,3 +25,27 @@
 
 + [蔚来法务部：某车企员工造谣蔚来经营状况被公安机关处罚](https://m.ithome.com/html/839335.htm)
 
++ [三星李在镕、高通安蒙被曝访问小米汽车工厂，雷军会见](https://m.ithome.com/html/840135.htm)
+
++ [比亚迪全新纯电轿车秦 L EV 上市：11.98 万-13.98 万元，标配天神之眼 C 智驾](https://m.ithome.com/html/840084.htm)
+
++ [日本首家“小米之家”开业，现场人气火爆](https://m.ithome.com/html/840111.htm)
+
++ [小米米家智能眼镜新品明日发布，号称“精细之镜”](https://m.ithome.com/html/840058.htm)
+
++ [仅用两部，《哪吒》系列电影总票房破 200 亿](https://m.ithome.com/html/840067.htm)
+
++ [我国发现首个亿吨级页岩油油田](https://m.ithome.com/html/840106.htm)
+
++ [小米明日发布“掌控家中每一缕阳光”的米家新品，网友期待窗帘电机](https://m.ithome.com/html/840053.htm)
+
++ [苹果 CEO 库克回应是否使用过 DeepSeek：当然，很棒！](https://m.ithome.com/html/840014.htm)
+
++ [郭明錤重申：苹果 iPhone 18 系列的 A20 处理器将采用 2 纳米工艺](https://m.ithome.com/html/840092.htm)
+
++ [2025 款广汽本田雅阁轿车正式上市，燃油版指导价 17.98 万元起](https://m.ithome.com/html/840110.htm)
+
++ [三只羊发布停业整改情况通报：合作品牌压减 80%，提高准入门槛](https://m.ithome.com/html/840131.htm)
+
++ [鸿蒙智行：2025 款问界 M9 上市 72 小时大定突破 21000 台](https://m.ithome.com/html/839335.htm)
+

@@ -165,3 +165,5 @@
 
 + [加拿大总理宣布提前举行联邦大选](https://news.cctv.com/2025/03/24/ARTIMzP0Gz8f8ilh2zVBnXJj250324.shtml)
 
++ [【世界周刊】视线：中东“死循环”](https://news.cctv.com/2025/03/24/ARTIpGu40a4GUh8TVOqa6NLw250324.shtml)
+
