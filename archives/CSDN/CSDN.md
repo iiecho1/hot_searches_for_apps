@@ -219,3 +219,9 @@
 
 + [【AI大模型】DeepSeek + 通义万相高效制作AI视频实战详解](https://blog.csdn.net/zhangcongyi420/article/details/146441972)
 
++ [Python深度学习环境配置指南：PyTorch、CUDA、cuDNN详解](https://blog.csdn.net/2401_82355416/article/details/146442631)
+
++ [模糊综合评价（FCE）全解析：从理论到实践的深度解读及Python代码实现](https://blog.csdn.net/qq_74303061/article/details/146459421)
+
++ [5G时代代理IP：速度与隐私的共舞](https://blog.csdn.net/weixin_43856625/article/details/146421012)
+

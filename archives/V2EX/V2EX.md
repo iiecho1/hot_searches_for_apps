@@ -55,3 +55,7 @@
 
 + [apple pencil 闲置两年没用，在使用充不进去电了](https://www.v2ex.com/t/1120407)
 
++ [如何低成本给家里云做带外管理，副宽带吗？](https://www.v2ex.com/t/1120424)
+
++ [想要把别的后台管理系统通过 iframe 嵌套进来，但是对方禁止 iframe 嵌入](https://www.v2ex.com/t/1120408)
+
