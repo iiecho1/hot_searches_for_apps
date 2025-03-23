@@ -239,3 +239,5 @@
 
 + [我驻釜山总领事馆提醒领区中国公民注意防范山火灾害](https://news.cctv.com/2025/03/23/ARTIE3RrhTAn9RIJlNFttwJx250323.shtml)
 
++ [总台记者观察丨中东紧张局势加剧 伊朗密切关注事态发展](https://news.cctv.com/2025/03/23/ARTILfHpjx6fhisWSaComr9J250323.shtml)
+

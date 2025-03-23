@@ -217,3 +217,5 @@
 
 + [【计算机网络】网络简介](https://blog.csdn.net/m0_50534425/article/details/146422573)
 
++ [【AI大模型】DeepSeek + 通义万相高效制作AI视频实战详解](https://blog.csdn.net/zhangcongyi420/article/details/146441972)
+
