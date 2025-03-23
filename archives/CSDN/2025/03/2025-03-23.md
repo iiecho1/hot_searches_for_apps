@@ -157,3 +157,13 @@
 
 + [数智读书笔记系列021《大数据医疗》：探索医疗行业的智能变革](https://blog.csdn.net/kkiron/article/details/146412094)
 
++ [深入理解SQL：增删改查操作详解](https://blog.csdn.net/ZWW_zhangww/article/details/146394347)
+
++ [决战到底__彻底清除顽固后台进程「aTrust***」的方案完整代码分享](https://blog.csdn.net/deepever/article/details/146410065)
+
++ [Java 大视界 -- Java 大数据在智慧农业精准灌溉与施肥决策中的应用（144）](https://blog.csdn.net/atgfg/article/details/146394919)
+
++ [【AIGC前沿】MiniMax海螺AI视频——图片/文本生成高质量视频](https://blog.csdn.net/m0_61712829/article/details/146378534)
+
++ [第六届电气、电子信息与通信工程国际学术会议 (EEICE 2025）](https://blog.csdn.net/2403_88900542/article/details/146427375)
+

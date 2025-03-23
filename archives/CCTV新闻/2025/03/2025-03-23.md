@@ -205,3 +205,9 @@
 
 + [意大利出版全球首份“AI报纸”](https://news.cctv.com/2025/03/23/ARTIzMx8DlXc5boICgnRzSFN250323.shtml)
 
++ [部分会员国拖欠会费 联合国总部因缺钱关闭一处入口](https://news.cctv.com/2025/03/23/ARTI6sszHDwGoPnqPu2pnpQY250323.shtml)
+
++ [中国驻美大使谢锋：将关税武器化如同回旋镖，终将反噬自身](https://news.cctv.com/2025/03/23/ARTIlzlsbLjidWs5034RT6n1250323.shtml)
+
++ [中国驻美大使谢锋：纵容“台独”就是破坏台海稳定，“以台制华”不仅徒劳而且危险](https://news.cctv.com/2025/03/23/ARTI3xOLV5oJWBOOiygKnJvl250323.shtml)
+
