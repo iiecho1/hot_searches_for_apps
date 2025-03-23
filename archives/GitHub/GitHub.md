@@ -19,3 +19,17 @@
 
 + [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
 
++ [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)
+
++ [wonderwhy-er/ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander)
+
++ [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [joanrod/star-vector](https://github.com/joanrod/star-vector)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+

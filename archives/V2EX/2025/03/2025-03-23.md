@@ -53,3 +53,5 @@
 
 + [做了个单词消消乐小程序，不会推广怎么办？](https://www.v2ex.com/t/1120331)
 
++ [apple pencil 闲置两年没用，在使用充不进去电了](https://www.v2ex.com/t/1120407)
+

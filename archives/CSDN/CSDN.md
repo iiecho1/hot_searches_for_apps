@@ -207,3 +207,13 @@
 
 + [线性代数核心概念与NumPy科学计算实战全解析](https://blog.csdn.net/qq_58364361/article/details/146412912)
 
++ [LANYUN·蓝耘元生-几分钟带你快速了解](https://blog.csdn.net/Dovis5884/article/details/146407908)
+
++ [【PCB工艺】晶体管的发展历史](https://blog.csdn.net/qq_39725309/article/details/146405450)
+
++ [使用HTML5和CSS3实现3D旋转相册效果](https://blog.csdn.net/qq_43129878/article/details/146439079)
+
++ [DeepSeek：大模型跃迁AGI，探索智能新航道（17/18）](https://blog.csdn.net/beautifulmemory/article/details/146444488)
+
++ [【计算机网络】网络简介](https://blog.csdn.net/m0_50534425/article/details/146422573)
+
