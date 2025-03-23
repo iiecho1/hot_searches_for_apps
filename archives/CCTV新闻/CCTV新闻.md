@@ -213,3 +213,7 @@
 
 + [韩国政坛将迎激荡一周：尹锡悦、韩德洙、李在明案或宣判](https://news.cctv.com/2025/03/23/ARTIsPR07tGKcGUCz9m29B5w250323.shtml)
 
++ [美防长发起民意调查，讨论是否将国防部更名为“战争部”？](https://news.cctv.com/2025/03/23/ARTIIVnaSmUgwILDggRXJff9250323.shtml)
+
++ [英媒：“特朗普衰退”担忧令美英货币政策承压](https://news.cctv.com/2025/03/23/ARTIpAJPAWMfdA2fqPhhV9o0250323.shtml)
+
