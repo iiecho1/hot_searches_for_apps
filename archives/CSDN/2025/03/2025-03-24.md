@@ -163,3 +163,13 @@
 
 + [AIGC 新势力：探秘海螺 AI 与蓝耘 MaaS 平台的协同创新之旅](https://blog.csdn.net/2301_80840905/article/details/146464676)
 
++ [Linux：TCP保证可靠性的方案（1）](https://blog.csdn.net/weixin_51142926/article/details/143895259)
+
++ [PyTorch生成式人工智能实战：从零打造创意引擎](https://blog.csdn.net/LOVEmy134611/article/details/146259185)
+
++ [利用matlab实现贝叶斯优化算法（BO）优化梯度提升决策树（GBDT）](https://blog.csdn.net/fx666_/article/details/146435312)
+
++ [【Docker系列五】Docker Compose 简介](https://blog.csdn.net/qyj19920704/article/details/146457896)
+
++ [计算机网络总结](https://blog.csdn.net/lsh0411/article/details/146364204)
+

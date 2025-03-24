@@ -187,3 +187,13 @@
 
 + [玻利维亚强降雨影响超36万家庭 约800栋房屋被毁](https://news.cctv.com/2025/03/24/ARTIxz23TKigJYoWv4zG8mpC250324.shtml)
 
++ [恢复国务总理职权后 韩德洙发表对韩国国民讲话](https://news.cctv.com/2025/03/24/ARTId5uVeOXOPzPD1ohwsIkf250324.shtml)
+
++ [海外仓，让外国消费者更快收到“中国造”（国际论道）](https://jingji.cctv.com/2025/03/24/ARTIx9CvFXtQeVXO0tJLNYvZ250324.shtml)
+
++ [全球连线｜对话格陵兰岛民众：“我们不想成为美国的一部分”](https://news.cctv.com/2025/03/24/ARTIHYc3Kb3kuYDkjq9V5GFs250324.shtml)
+
++ [“我很期待丹中建交75周年的日子”（我在中国当大使(116)）](https://news.cctv.com/2025/03/24/ARTIsvsHsHGhEF37HvrnATYk250324.shtml)
+
++ [尹锡悦涉嫌“内乱罪”首次公审将于4月14日举行](https://news.cctv.com/2025/03/24/ARTIiLmMMdDoYAMQ6hNXEgo3250324.shtml)
+
