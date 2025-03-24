@@ -179,3 +179,11 @@
 
 + [乌美在沙特再次会谈 能源成关键议题](https://news.cctv.com/2025/03/24/ARTI0sxavBJbj1EVUjLw5YFh250324.shtml)
 
++ [埃及和巴勒斯坦总理强调有必要维持加沙地带停火](https://news.cctv.com/2025/03/24/ARTIM9dRqZUNDDvwfjPJXSRL250324.shtml)
+
++ [以色列批准设立新机构推动迁出加沙地带居民](https://news.cctv.com/2025/03/24/ARTIDE4CLL3EbmIvQdrDGTk6250324.shtml)
+
++ [韩国宪法法院驳回总理弹劾案 韩德洙恢复总理及代总统职权](https://news.cctv.com/2025/03/24/ARTIm1K7D5gqOEKV9FiITKjR250324.shtml)
+
++ [玻利维亚强降雨影响超36万家庭 约800栋房屋被毁](https://news.cctv.com/2025/03/24/ARTIxz23TKigJYoWv4zG8mpC250324.shtml)
+

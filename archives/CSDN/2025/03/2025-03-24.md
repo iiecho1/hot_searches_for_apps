@@ -149,3 +149,17 @@
 
 + [数据库开发必备：深入理解DDL、DML、DQL和DCL](https://blog.csdn.net/2302_81410974/article/details/146464230)
 
++ [Pytorch 第十一回：循环神经网络——RNN模型](https://blog.csdn.net/zhuwenlong130130/article/details/146454960)
+
++ [(学习总结29)Linux 进程概念和进程状态](https://blog.csdn.net/qq3304968099/article/details/146380665)
+
++ [基于异构卷积神经网络的传感器人体活动识别方法](https://blog.csdn.net/weixin_51390582/article/details/146118483)
+
++ [算法系列——有监督学习——8.神经网络](https://blog.csdn.net/kouweizhu/article/details/146381051)
+
++ [【Nginx】——从0到1，带你玩转Nginx，掌握其中的技巧以及配置](https://blog.csdn.net/shsjssnn/article/details/143430850)
+
++ [一个完整的小项目案例，涉及到项目的规划，模块的设计功能的衔接等。](https://blog.csdn.net/weixin_42771529/article/details/146426807)
+
++ [AIGC 新势力：探秘海螺 AI 与蓝耘 MaaS 平台的协同创新之旅](https://blog.csdn.net/2301_80840905/article/details/146464676)
+
