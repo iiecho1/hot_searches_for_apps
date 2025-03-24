@@ -197,3 +197,13 @@
 
 + [尹锡悦涉嫌“内乱罪”首次公审将于4月14日举行](https://news.cctv.com/2025/03/24/ARTIiLmMMdDoYAMQ6hNXEgo3250324.shtml)
 
++ [乌克兰防长：乌美沙特会谈“具有建设性且有意义”](https://news.cctv.com/2025/03/24/ARTIDEZRCotTu3W58gNQGS03250324.shtml)
+
++ [中东战地手记丨“这里本应是和平的、繁荣的、共存的!”](https://military.cctv.com/2025/03/24/ARTIvCU9QsFPrHFclEkxyq2q250324.shtml)
+
++ [墨西哥一厢式车坠落峡谷已致12死4伤](https://news.cctv.com/2025/03/24/ARTIjc9vLXlt6PVQqSHgSEDM250324.shtml)
+
++ [“国防部”还是“战争部” 超20万网民参与美国防部更名投票 评论区吵翻](https://news.cctv.com/2025/03/24/ARTIFmcGV3FUPlmeA6cuanxb250324.shtml)
+
++ [美军再袭也门 美高官：胡塞武装主要领导被“除掉”](https://news.cctv.com/2025/03/24/ARTIZYvNa4uZ3PMxU83JjCnO250324.shtml)
+
