@@ -209,3 +209,7 @@
 
 + [自动学习和优化过程，实现更加精准的预测和决策的智慧交通开源了](https://blog.csdn.net/weixin_63598920/article/details/146444231)
 
++ [解锁DeepSeek潜能：Docker+Ollama打造本地大模型部署新范式](https://blog.csdn.net/weixin_53269650/article/details/146457200)
+
++ [深入浅出JVM性能优化：从理论到实践](https://blog.csdn.net/weixin_43063624/article/details/146463932)
+
