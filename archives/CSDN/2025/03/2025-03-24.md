@@ -201,3 +201,11 @@
 
 + [WebRTC实现双端音视频聊天（Vue3 + SpringBoot）](https://blog.csdn.net/m0_74824002/article/details/146432811)
 
++ [Nginx如何处理请求](https://blog.csdn.net/m0_74536424/article/details/146461189)
+
++ [【DeepSeek部署实战】基于Ollama+Chatbox零成本部署DeepSeek-R1系列模型攻略（Windows）](https://blog.csdn.net/xiaobing259/article/details/146457463)
+
++ [如何高效参与 GitHub 知名项目开发并成为核心贡献者](https://blog.csdn.net/Prince140678/article/details/146463375)
+
++ [自动学习和优化过程，实现更加精准的预测和决策的智慧交通开源了](https://blog.csdn.net/weixin_63598920/article/details/146444231)
+
