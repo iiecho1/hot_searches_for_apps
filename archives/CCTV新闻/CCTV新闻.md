@@ -207,3 +207,7 @@
 
 + [美军再袭也门 美高官：胡塞武装主要领导被“除掉”](https://news.cctv.com/2025/03/24/ARTIZYvNa4uZ3PMxU83JjCnO250324.shtml)
 
++ [干旱导致电力短缺 委内瑞拉公共部门将减少工作时间](https://news.cctv.com/2025/03/24/ARTIYj2w0VMfk2O1Lig24VCy250324.shtml)
+
++ [韩国代总统韩德洙：重点应对与美贸易战 恳请朝野跨党派合作](https://news.cctv.com/2025/03/24/ARTInTvv5p4z9dSrBiKraGfc250324.shtml)
+

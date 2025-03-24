@@ -81,3 +81,7 @@
 
 + [凭 什 么 让 互 联 网 影 响 到 我 ？](https://m.acfun.cn/v/%3Fac%3D47043019)
 
++ [エールフォーユー OP映像（作者：ほんだ3）【油管博主毕业制作动画】](https://m.acfun.cn/v/%3Fac%3D47035567)
+
++ [【东方】Broken Moon【NyxTheShield Remix】](https://m.acfun.cn/v/%3Fac%3D47041494)
+
