@@ -221,3 +221,5 @@
 
 + [信息安全、网络安全和数据安全的区别与联系](https://blog.csdn.net/HWP18612324139/article/details/146451020)
 
++ [GPT-SoVITS本地部署：低成本实现语音克隆远程生成音频全流程实战](https://blog.csdn.net/weixin_44976692/article/details/146481044)
+

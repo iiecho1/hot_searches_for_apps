@@ -233,3 +233,9 @@
 
 + [欧盟外长会见以色列外长 呼吁停火并恢复人道主义救援](https://news.cctv.com/2025/03/24/ARTISzrs7WE4lAOGwbpnz6kx250324.shtml)
 
++ [埃及就恢复加沙停火向以色列和哈马斯提出紧急提议](https://news.cctv.com/2025/03/24/ARTINLDXMud2I91V0JLTuWby250324.shtml)
+
++ [遭美驱逐南非大使：对美关系不能牺牲国家尊严和主权](https://news.cctv.com/2025/03/24/ARTIRjGwRPcEDIdfZSKo1vdH250324.shtml)
+
++ [徒步游中国“圈粉”海外游客（外国游客感受“中国之美”）](https://news.cctv.com/2025/03/24/ARTI7T78Lmd8ewhxcHTrYAMO250324.shtml)
+
