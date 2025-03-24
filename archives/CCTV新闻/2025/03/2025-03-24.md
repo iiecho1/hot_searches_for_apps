@@ -239,3 +239,5 @@
 
 + [徒步游中国“圈粉”海外游客（外国游客感受“中国之美”）](https://news.cctv.com/2025/03/24/ARTI7T78Lmd8ewhxcHTrYAMO250324.shtml)
 
++ [俄方证实普京给特朗普送肖像画](https://news.cctv.com/2025/03/24/ARTI2Q18cWRSN9FmYRq9q88Z250324.shtml)
+

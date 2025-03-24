@@ -223,3 +223,11 @@
 
 + [GPT-SoVITS本地部署：低成本实现语音克隆远程生成音频全流程实战](https://blog.csdn.net/weixin_44976692/article/details/146481044)
 
++ [一站式开源AI平台Cherry Studio本地部署与远程调用本地大模型](https://blog.csdn.net/qyj19920704/article/details/146481508)
+
++ [无人船 | 基于ROS的轻量级多无人艇自主导航仿真框架](https://blog.csdn.net/FRIGIDWINTER/article/details/146457706)
+
++ [HarmonyOS NEXT（九） ：图形渲染体系](https://blog.csdn.net/qq_34419312/article/details/146463634)
+
++ [html5炫酷的科技感3D文字效果实现详解](https://blog.csdn.net/qq_43129878/article/details/146458513)
+
