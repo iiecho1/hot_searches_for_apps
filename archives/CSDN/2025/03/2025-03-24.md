@@ -145,3 +145,7 @@
 
 + [ENSP之交换机与以太网实验（交换机限制学习mac地址，与关闭端口实验）](https://blog.csdn.net/2301_81713278/article/details/146445167)
 
++ [AI 驱动视频处理与智算革新：蓝耘MaaS释放海螺AI视频生产力](https://blog.csdn.net/2301_81313679/article/details/146464376)
+
++ [数据库开发必备：深入理解DDL、DML、DQL和DCL](https://blog.csdn.net/2302_81410974/article/details/146464230)
+

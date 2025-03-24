@@ -21,3 +21,5 @@
 
 + [扣款方是苹果的信用卡盗刷？](https://www.v2ex.com/t/1120453)
 
++ [apple pencil 闲置两年没用，在使用充不进去电了](https://www.v2ex.com/t/1120407)
+
