@@ -29,3 +29,9 @@
 
 + [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
++ [ml-explore/mlx](https://github.com/ml-explore/mlx)
+
++ [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection)
+
++ [ossu/computer-science](https://github.com/ossu/computer-science)
+

@@ -229,3 +229,7 @@
 
 + [美俄代表团开始在利雅得会谈](https://news.cctv.com/2025/03/24/ARTI8E32UIgiKFg50tLLvsa7250324.shtml)
 
++ [苏丹西部城市遭炮击 已致8人死亡](https://news.cctv.com/2025/03/24/ARTIIvlj8PysFn1VfINevaMW250324.shtml)
+
++ [欧盟外长会见以色列外长 呼吁停火并恢复人道主义救援](https://news.cctv.com/2025/03/24/ARTISzrs7WE4lAOGwbpnz6kx250324.shtml)
+
