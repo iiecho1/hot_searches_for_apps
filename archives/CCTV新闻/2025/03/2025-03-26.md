@@ -161,3 +161,11 @@
 
 + [土耳其伊斯坦布尔市长因腐败指控被羁押候审](https://news.cctv.com/2025/03/23/ARTIOwsKLYC7al9mq9OJEp1f250323.shtml)
 
++ [法国飞行表演队训练期间发生飞机相撞事故](https://news.cctv.com/2025/03/26/ARTIlfLNQ4PVVEjLv7D0x1Jr250326.shtml)
+
++ [韩国东南部山火继续蔓延 千年古刹孤云寺被烧毁](https://news.cctv.com/2025/03/26/ARTIMbAlqQKHDpR8xvOKAcKN250325.shtml)
+
++ [白俄罗斯总统卢卡申科宣誓就职](https://news.cctv.com/2025/03/26/ARTIyZa3l1lW85dz76ZO29nK250326.shtml)
+
++ [连谈三天了，俄美乌谈到哪一步？](https://news.cctv.com/2025/03/26/ARTIvybcDyKSc4QUkh4IyiXq250326.shtml)
+
