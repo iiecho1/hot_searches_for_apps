@@ -215,3 +215,11 @@
 
 + [韩媒：韩国检方以受贿罪起诉文在寅女儿](https://news.cctv.com/2025/03/25/ARTIwGrnWWEINGU8ptgNdywi250325.shtml)
 
++ [【国际锐评】美国政商界密集访华不寻常](https://news.cctv.com/2025/03/25/ARTIqvLLCxCVJSQ1Gh8XRyVJ250325.shtml)
+
++ [外媒记者看中国——感受中国发展  传递友谊之声](https://news.cctv.com/2025/03/25/ARTI9umf6aWqu4RPgvJxBbTL250325.shtml)
+
++ [专访｜中国总能用新事物令世界感到惊喜——访美国前商务部长卡洛斯·古铁雷斯](https://news.cctv.com/2025/03/25/ARTI5tZEPrDduhVtqq8MBiWC250325.shtml)
+
++ [以高质量发展为世界经济提供“稳定锚”（和音）](https://news.cctv.com/2025/03/25/ARTIqmLZ6VDB2VJNuMtq5ORU250325.shtml)
+

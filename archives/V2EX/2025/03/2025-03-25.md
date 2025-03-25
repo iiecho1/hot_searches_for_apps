@@ -47,3 +47,7 @@
 
 + [把微信的 OCR 功能提取出来做 Docker 服务](https://www.v2ex.com/t/1120897)
 
++ [个人项目代码用 git 还是网盘同步更好？ git 经常忘记 commit，公司电脑又不让安装任何远控软件](https://www.v2ex.com/t/1120789)
+
++ [天气暖和了 想下班去摆摊](https://www.v2ex.com/t/1120851)
+
