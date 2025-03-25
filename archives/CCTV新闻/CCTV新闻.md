@@ -177,3 +177,13 @@
 
 + [美媒记者被拉入涉密群聊 提前知晓美军空袭胡塞武装计划](https://news.cctv.com/2025/03/25/ARTInUyKP3HF6iG8S9SEBTJ3250325.shtml)
 
++ [日本熊本市有轨电车追尾致7人受伤 线路全线停运](https://news.cctv.com/2025/03/25/ARTIRwDn7Tqi423mHb2UMWAZ250325.shtml)
+
++ [特朗普称美方代表团“应邀前往” 格陵兰岛政府否认](https://news.cctv.com/2025/03/25/ARTIAKGKxeY4LKLxp2ZCWm7j250325.shtml)
+
++ [欧盟批准德国50亿欧元工业脱碳补贴](https://news.cctv.com/2025/03/25/ARTIabMXHT58zKKACb7UszLZ250325.shtml)
+
++ [委内瑞拉内政部长：美称遣返移民涉黑是歪曲事实](https://news.cctv.com/2025/03/25/ARTIdIWvScZtuLeSE8LfNRuo250325.shtml)
+
++ [新西兰南岛西岸远海发生6.8级地震 震源深度10千米](https://news.cctv.com/2025/03/25/ARTIH795QcvEqpFerkLXnTfD250325.shtml)
+

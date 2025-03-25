@@ -151,3 +151,7 @@
 
 + [北京交通大学第三届C语言积分赛](https://blog.csdn.net/LT_HLYY/article/details/146485580)
 
++ [Java 大视界 -- Java 大数据中的数据隐私保护技术在多方数据协作中的应用（147）](https://blog.csdn.net/atgfg/article/details/146445393)
+
++ [量子计算的黎明：从理论到现实的突破之旅](https://blog.csdn.net/SDFsoul/article/details/146480186)
+
