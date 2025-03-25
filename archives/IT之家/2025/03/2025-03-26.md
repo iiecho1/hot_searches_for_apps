@@ -25,3 +25,27 @@
 
 + [小鹏汽车科技更名，加上“集团”字样](https://m.ithome.com/html/839335.htm)
 
++ [小米雷军回武汉大学发了 100 万奖学金，凌晨在樱花树下给 YU7 拍宣传内容](https://m.ithome.com/html/840461.htm)
+
++ [支持双端登录、深色模式等功能，微信鸿蒙版 App 获 1.0.5.16 大版本更新](https://m.ithome.com/html/840565.htm)
+
++ [马云、邓文迪、章泽天等现身香港一活动](https://m.ithome.com/html/840502.htm)
+
++ [微信员工：“允许完全访问”是苹果 iOS 给所有第三方输入法的标准设置，有开关](https://m.ithome.com/html/840555.htm)
+
++ [vivo X200s 手机外观公布，宣称和 Pro mini 正好“苹替”Pro 和 Plus 经典尺寸](https://m.ithome.com/html/840613.htm)
+
++ [消息称百度副总裁谢广军“已提离职”，内部人士称“目前系统中还能搜到”](https://m.ithome.com/html/840566.htm)
+
++ [理想汽车重启销量周榜：仅发布自家数据，不再公布行业排名](https://m.ithome.com/html/840636.htm)
+
++ [小米米家强光手电 74.9 元国补新低：1000 流明亮度，至高 30 小时续航](https://m.ithome.com/html/840501.htm)
+
++ [DeepSeek V3“小版本升级”实测堪比 V3.5，非推理模型也有“啊哈时刻”](https://m.ithome.com/html/840660.htm)
+
++ [全国立减 10%：苹果 iPhone 16 Pro 京东 8 折 6569 元起（山东港澳台除外）](https://m.ithome.com/html/840699.htm)
+
++ [领克 900 旗舰 SUV 开启预售：6 座布局 / 插混动力，预售价 33 万元起](https://m.ithome.com/html/840650.htm)
+
++ [李开复：DeepSeek 让中美 AI 核心技术差距缩小至只剩三个月](https://m.ithome.com/html/839335.htm)
+
