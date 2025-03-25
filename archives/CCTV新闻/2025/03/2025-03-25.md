@@ -187,3 +187,5 @@
 
 + [新西兰南岛西岸远海发生6.8级地震 震源深度10千米](https://news.cctv.com/2025/03/25/ARTIH795QcvEqpFerkLXnTfD250325.shtml)
 
++ [博鳌报告：2025年亚洲经济增速预计将增至4.5%](https://jingji.cctv.com/2025/03/25/ARTIFSWsLNctu2BjcsO5vrkk250325.shtml)
+

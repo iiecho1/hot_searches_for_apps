@@ -155,3 +155,11 @@
 
 + [量子计算的黎明：从理论到现实的突破之旅](https://blog.csdn.net/SDFsoul/article/details/146480186)
 
++ [数据挖掘实战-基于深度学习Keras的玉米植物叶识别检测模型](https://blog.csdn.net/m0_64336780/article/details/139126656)
+
++ [MySQL中的锁（全局锁、表锁和行锁）](https://blog.csdn.net/m0_73922877/article/details/146448811)
+
++ [LabVIEW远程控制通讯接口](https://blog.csdn.net/bjcyck/article/details/146466971)
+
++ [[操作系统] 进程间通信：进程池的实现](https://blog.csdn.net/SDFsoul/article/details/146484323)
+
