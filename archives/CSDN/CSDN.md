@@ -107,3 +107,19 @@
 
 + [天津大学第二讲：《深度解读DeepSeek：部署、使用、安全》｜附PPT下载方法](https://blog.csdn.net/2502_91176038/article/details/146473933)
 
++ [PostgreSQL 谓词信息采集插件 pg_qualstats 源码分析](https://blog.csdn.net/qq_41773806/article/details/146445445)
+
++ [解密Java内存模型：从happens-before原则到实战可见性问题](https://blog.csdn.net/martian665/article/details/146414564)
+
++ [【机器人】复现 GrainGrasp 精细指导的灵巧手抓取](https://blog.csdn.net/qq_41204464/article/details/146470942)
+
++ [优选算法的睿智之林：前缀和专题(一)](https://blog.csdn.net/2401_85198927/article/details/146390294)
+
++ [基于Docker的OpenObserve快速搭建实现全链路可观测性远程管理](https://blog.csdn.net/VLOKL/article/details/146482438)
+
++ [威胁驱动的网络安全方法论](https://blog.csdn.net/ztc131450/article/details/146487876)
+
++ [深入理解 HTML5 Web Workers：提升网页性能的关键技术解析](https://blog.csdn.net/A_Kamen/article/details/146465110)
+
++ [模糊综合评价（FCE）全解析：从理论到实践的深度解读及Python代码实现](https://blog.csdn.net/qq_74303061/article/details/146459421)
+
