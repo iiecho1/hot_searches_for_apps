@@ -119,3 +119,13 @@
 
 + [洛天依 心跳光谱](https://m.acfun.cn/v/%3Fac%3D47047806)
 
++ [【独家放送】随机勇者AC娘（第一集）](https://m.acfun.cn/v/%3Fac%3D47051404)
+
++ [中二魂燃起来了！！！](https://m.acfun.cn/v/%3Fac%3D47051502)
+
++ [痛，太痛了《小伤口》蔡依林](https://m.acfun.cn/v/%3Fac%3D47051329)
+
++ [双主角是最大败笔！为什么不推荐《刺客信条：影》](https://m.acfun.cn/v/%3Fac%3D47051218)
+
++ [【莉莉子】BADKIZ Come Closer【定制预览】](https://m.acfun.cn/v/%3Fac%3D47045051)
+

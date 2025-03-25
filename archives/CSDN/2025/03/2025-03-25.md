@@ -199,3 +199,7 @@
 
 + [AI驱动的代码自动化：腾讯云大模型知识引擎 × DeepSeek提供全新视角](https://blog.csdn.net/m0_67656158/article/details/146483518)
 
++ [【DeepSeek开发实战】DeepSeek-R1-Distill-Qwen与LangChain的本地大模型应用开发指南](https://blog.csdn.net/xiaobing259/article/details/146457443)
+
++ [如何保证LabVIEW软件开发的质量？](https://blog.csdn.net/bjcyck/article/details/146493161)
+
