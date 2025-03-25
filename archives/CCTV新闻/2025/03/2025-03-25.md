@@ -189,3 +189,9 @@
 
 + [博鳌报告：2025年亚洲经济增速预计将增至4.5%](https://jingji.cctv.com/2025/03/25/ARTIFSWsLNctu2BjcsO5vrkk250325.shtml)
 
++ [英特宜家集团CEO：对中国经济充满坚定信心](https://news.cctv.com/2025/03/25/ARTITbEnbAzt6JELhPf3P1N7250325.shtml)
+
++ [全球@中国|昆山杜克大学常务副校长：感受到中国创新引擎正加速运转 对中国经济前景非常乐观](https://news.cctv.com/2025/03/25/ARTIrFtDAFcWEcAtSmNmi4zv250325.shtml)
+
++ [国际观察｜从博鳌“热词”看下一个“亚洲奇迹”](https://jingji.cctv.com/2025/03/25/ARTIKovxBsyPGsBF7VIvsMfR250325.shtml)
+

@@ -163,3 +163,7 @@
 
 + [[操作系统] 进程间通信：进程池的实现](https://blog.csdn.net/SDFsoul/article/details/146484323)
 
++ [Java 大视界 -- Java 大数据在智能安防周界防范与入侵预警中的应用（148）](https://blog.csdn.net/atgfg/article/details/146447899)
+
++ [GitHub供应链攻击事件：Coinbase遭袭，218个仓库暴露，CI/CD密钥泄露](https://blog.csdn.net/FreeBuf_/article/details/146484510)
+
