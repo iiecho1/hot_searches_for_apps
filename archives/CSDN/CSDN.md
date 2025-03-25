@@ -149,3 +149,5 @@
 
 + [腾讯云HAI1元体验：DeepSeek-R1模型助力个人博客快速搭建](https://blog.csdn.net/null18/article/details/146483728)
 
++ [北京交通大学第三届C语言积分赛](https://blog.csdn.net/LT_HLYY/article/details/146485580)
+
