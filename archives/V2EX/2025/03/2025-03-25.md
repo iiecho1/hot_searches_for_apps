@@ -43,3 +43,7 @@
 
 + [后知后觉的意识到一件可怕的事情](https://www.v2ex.com/t/1120839)
 
++ [帮朋友问个感情问题](https://www.v2ex.com/t/1120872)
+
++ [把微信的 OCR 功能提取出来做 Docker 服务](https://www.v2ex.com/t/1120897)
+

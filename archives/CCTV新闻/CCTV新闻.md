@@ -203,3 +203,11 @@
 
 + [空袭胡塞武装计划疑泄密 遭美国政界痛批](https://military.cctv.com/2025/03/25/ARTI8MN3rToqtljjQlqBqALw250325.shtml)
 
++ [新西兰南岛西岸远海地震引发局地海啸](https://news.cctv.com/2025/03/25/ARTIJwws0CAKNU9chXaHyz1o250325.shtml)
+
++ [台积电引发的危机：岛内“依赖症”，岛外“整锅端”](https://news.cctv.com/2025/03/25/ARTInxx7MXBMAfNyuZbv8VDJ250325.shtml)
+
++ [美记者视频回应被拉入袭击群聊全程](https://news.cctv.com/2025/03/25/ARTIFXkqozy5e0Pxr4SG63bN250325.shtml)
+
++ [朝鲜称美国把地区政治军事形势恶化到“最糟糕的地步”](https://news.cctv.com/2025/03/25/ARTI3K9aqfYx9Tw6BLtsTTkn250325.shtml)
+
