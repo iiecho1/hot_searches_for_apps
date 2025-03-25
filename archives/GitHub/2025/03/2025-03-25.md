@@ -27,3 +27,23 @@
 
 + [ossu/computer-science](https://github.com/ossu/computer-science)
 
++ [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+
++ [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+
++ [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
+
++ [nf-core/modules](https://github.com/nf-core/modules)
+
++ [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+
++ [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+
++ [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [home-assistant/core](https://github.com/home-assistant/core)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
++ [agno-agi/agno](https://github.com/agno-agi/agno)
+
