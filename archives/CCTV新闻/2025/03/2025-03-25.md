@@ -195,3 +195,11 @@
 
 + [国际观察｜从博鳌“热词”看下一个“亚洲奇迹”](https://jingji.cctv.com/2025/03/25/ARTIKovxBsyPGsBF7VIvsMfR250325.shtml)
 
++ [克宫：俄方已向金正恩发出有效访问邀请](https://news.cctv.com/2025/03/25/ARTIvHOFrGNoRCLfX689KySz250325.shtml)
+
++ [特朗普说美副总统夫人访格陵兰岛“不是挑衅”](https://news.cctv.com/2025/03/25/ARTIB1NAVwJOSaE7ZF67LoRZ250325.shtml)
+
++ [欧洲专利局去年收到中国专利申请数创新高](https://news.cctv.com/2025/03/25/ARTIRjWoMeRWFJ8mW7tyZu4w250325.shtml)
+
++ [空袭胡塞武装计划疑泄密 遭美国政界痛批](https://military.cctv.com/2025/03/25/ARTI8MN3rToqtljjQlqBqALw250325.shtml)
+
