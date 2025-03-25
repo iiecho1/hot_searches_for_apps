@@ -141,3 +141,11 @@
 
 + [穿越之程序员周树人的狂人日记Part2__重构人间Beta版](https://blog.csdn.net/deepever/article/details/146468923)
 
++ [DeepSeek-R1 现已作为全托管无服务器模型在 Amazon Bedrock上线。](https://blog.csdn.net/qq_41640218/article/details/146477204)
+
++ [腾讯云大模型知识引擎x deepseek：打造智能服装搭配新体验](https://blog.csdn.net/2301_80840905/article/details/146485061)
+
++ [10 个pygame经典小游戏](https://blog.csdn.net/2505_90340337/article/details/146445041)
+
++ [腾讯云HAI1元体验：DeepSeek-R1模型助力个人博客快速搭建](https://blog.csdn.net/null18/article/details/146483728)
+
