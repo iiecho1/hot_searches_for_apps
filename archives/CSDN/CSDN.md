@@ -187,3 +187,9 @@
 
 + [地理信息可视化技术大全【WebGIS 教程一】](https://blog.csdn.net/weixin_63474626/article/details/146487804)
 
++ [基于SpringBoot的名著阅读网站](https://blog.csdn.net/2301_78335941/article/details/146487816)
+
++ [Docker一键部署OpenObserve打造低成本的云原生观测平台操作详解](https://blog.csdn.net/Tiam_cr/article/details/146486065)
+
++ [Unity 实现一个简易可拓展性的对话系统](https://blog.csdn.net/2301_77947509/article/details/146479977)
+
