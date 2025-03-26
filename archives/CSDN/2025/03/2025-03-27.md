@@ -105,3 +105,29 @@
 
 + [【C++笔记】C++IO流的深度剖析](https://blog.csdn.net/2301_81670477/article/details/146456032)
 
++ [数据挖掘实战-基于深度学习Keras的玉米植物叶识别检测模型](https://blog.csdn.net/m0_64336780/article/details/139126656)
+
++ [C++：异常的深度解析](https://blog.csdn.net/2301_81390458/article/details/145443822)
+
++ [基于深度学习的图片识别系统（下）](https://blog.csdn.net/2401_85464956/article/details/146480716)
+
++ [消息队列(Kafka及RocketMQ等对比联系)](https://blog.csdn.net/qq_38889342/article/details/146505051)
+
++ [使用Geotools从DEM数据中读取指定位置的高程实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/146539281)
+
++ [高效驾驭海量数据：GaussDB SQL在金融风控场景下的实践指南](https://blog.csdn.net/GaussDB/article/details/146498817)
+
++ [医院挂号预约小程序|基于微信小程序的医院挂号预约系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_66413741/article/details/146514111)
+
++ [Nginx反向代理及负载均衡](https://blog.csdn.net/m0_74536424/article/details/146515830)
+
++ [如何用C#继承提升游戏开发效率？Enemy与Boss案例解析](https://blog.csdn.net/Kiradzy/article/details/146486375)
+
++ [SpringBoot通过Map实现天然的策略模式](https://blog.csdn.net/zhuocailing3390/article/details/146512750)
+
++ [一文解读DeepSeek在工业制造领域的应用](https://blog.csdn.net/u013891230/article/details/146513702)
+
++ [LwM2M基于DTLS的身份认证漏洞调研](https://blog.csdn.net/weixin_67705309/article/details/146469054)
+
++ [【C++项目实战】：基于正倒排索引的Boost搜索引擎（1）](https://blog.csdn.net/fjj2397194209/article/details/146509917)
+
