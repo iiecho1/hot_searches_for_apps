@@ -101,3 +101,7 @@
 
 + [【Linux-驱动开发-设备树 DTS】](https://blog.csdn.net/sinat_23896491/article/details/146502846)
 
++ [DeepSeek与GPT的全方位对比及其为编程工作带来的巨大变革](https://blog.csdn.net/sixpp/article/details/146521823)
+
++ [【C++笔记】C++IO流的深度剖析](https://blog.csdn.net/2301_81670477/article/details/146456032)
+
