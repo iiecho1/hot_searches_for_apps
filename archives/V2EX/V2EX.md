@@ -49,3 +49,5 @@
 
 + [吐槽成都新房](https://www.v2ex.com/t/1121100)
 
++ [PDD 百亿补贴 Mac mini M4 乞丐版 3099](https://www.v2ex.com/t/1121085)
+

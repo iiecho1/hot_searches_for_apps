@@ -179,3 +179,9 @@
 
 + [高度电路中时序设计之二](https://blog.csdn.net/selin19860818/article/details/146511861)
 
++ [【GitHub周榜】WrenAI：开源SQL AI代理，让Text-to-SQL轻松实现，开启自然语言与数据交互新时代](https://blog.csdn.net/xiaobing259/article/details/146486239)
+
++ [MySQL请求处理全流程深度解析：从SQL语句到数据返回](https://blog.csdn.net/misschen888/article/details/146516713)
+
++ [C#架构炼狱：从.NET 1.0到.NET 8的地狱级代码审查——用IL反编译+依赖倒置重构“架构炼金术“](https://blog.csdn.net/2401_88677290/article/details/146295562)
+
