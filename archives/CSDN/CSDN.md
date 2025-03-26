@@ -125,3 +125,7 @@
 
 + [HTTPS协议—加密算法和中间攻击人的博弈](https://blog.csdn.net/2302_80639556/article/details/146464603)
 
++ [【HarmonyOS4＋NEXT】Image与Text组件高效应用解析](https://blog.csdn.net/m0_55394328/article/details/146457236)
+
++ [基于FPGA的16QAM+帧同步系统verilog开发,包含testbench,高斯信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/146483476)
+

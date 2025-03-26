@@ -171,3 +171,5 @@
 
 + [德国新一届联邦议院成立 朔尔茨政府解散](https://news.cctv.com/2025/03/26/ARTI6a683h5TbZ29zAQrZxzA250326.shtml)
 
++ [用“博物馆免费一日游”治病，瑞士一小镇的“艺术疗愈处方”火了](https://news.cctv.com/2025/03/26/ARTIu4HNTdKRl26Z3qa7R42V250326.shtml)
+
