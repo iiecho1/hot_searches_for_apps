@@ -189,3 +189,9 @@
 
 + [中国驻洛杉矶总领馆再次提醒：来美中国公民注意美方入境有关要求](https://news.cctv.com/2025/03/26/ARTIklzPfPulJf1wscUvTyRL250326.shtml)
 
++ [英媒：美国关税政策无法重振本国制造业](https://news.cctv.com/2025/03/26/ARTIUZCaFMJMNY1x61dTNrTL250326.shtml)
+
++ [特朗普推销美制六代机，仍不忘敲打盟友](https://news.cctv.com/2025/03/26/ARTIlMHqmVBh7RsHYAIx0Od6250326.shtml)
+
++ [韩国一架灭火直升机坠落飞行员丧生](https://news.cctv.com/2025/03/26/ARTIGXjPVGvajfPXAdoCpUFV250326.shtml)
+

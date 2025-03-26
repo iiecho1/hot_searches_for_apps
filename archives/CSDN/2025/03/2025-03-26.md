@@ -153,3 +153,13 @@
 
 + [html5炫酷3D数字时钟项目开发实践](https://blog.csdn.net/qq_43129878/article/details/146514393)
 
++ [基于MoE架构的AIGC引擎：海螺AI重新定义人机协同新范式](https://blog.csdn.net/bite_zwy/article/details/146500380)
+
++ [优选算法的睿智之林：前缀和专题(二)](https://blog.csdn.net/2401_85198927/article/details/146483586)
+
++ [【网络】HTTP 和 HTTPS](https://blog.csdn.net/m0_59873661/article/details/146495362)
+
++ [响应式 Web 设计：HTML 与 CSS 协同学习的进度（二）](https://blog.csdn.net/qq_42190530/article/details/146468341)
+
++ [mysql的学习](https://blog.csdn.net/qq_37185361/article/details/115767742)
+
