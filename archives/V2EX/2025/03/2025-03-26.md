@@ -39,3 +39,7 @@
 
 + [对搭建 MinIO 对象存储的一些疑问](https://www.v2ex.com/t/1121050)
 
++ [北京北七家每月 1200 的城中村， 15 平，因隔壁村拆迁又涨租金了](https://www.v2ex.com/t/1121079)
+
++ [🎁 [送码] 开源的 全平台数据同步 AI 电子书阅读器 Anx Reader 终于上架 App Store 限时五折 50% off！](https://www.v2ex.com/t/1121077)
+

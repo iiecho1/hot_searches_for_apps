@@ -181,3 +181,9 @@
 
 + [日本两地山火仍在蔓延 多校停课千余户紧急避难](https://news.cctv.com/2025/03/26/ARTI9GE7JXkCvBBCjHtNfsNx250326.shtml)
 
++ [美智库专家：亚洲如何应对美关税挑战？博鳌论坛有看点](https://news.cctv.com/2025/03/26/ARTIq51AHG3CtnIlgvbD5Cgf250326.shtml)
+
++ [博鳌亚洲论坛｜美国前商务部长谈美中关系：和则天下利 建设积极双边关系](https://news.cctv.com/2025/03/26/ARTIwCgDymGmu39o7AEbYO0s250326.shtml)
+
++ [世界看博鳌 | 博鳌亚洲论坛为完善全球治理提供独特“亚洲视角”](https://news.cctv.com/2025/03/26/ARTIRYw7NxfJQKyYIVAFWol0250326.shtml)
+
