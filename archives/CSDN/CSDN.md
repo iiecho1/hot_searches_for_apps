@@ -131,3 +131,9 @@
 
 + [【C++项目实战】：基于正倒排索引的Boost搜索引擎（1）](https://blog.csdn.net/fjj2397194209/article/details/146509917)
 
++ [一站式开源AI平台Cherry Studio本地部署与远程调用本地大模型](https://blog.csdn.net/qyj19920704/article/details/146481508)
+
++ [AI驱动的代码自动化：腾讯云大模型知识引擎 × DeepSeek提供全新视角](https://blog.csdn.net/m0_67656158/article/details/146483518)
+
++ [Docker一键部署OpenObserve打造低成本的云原生观测平台操作详解](https://blog.csdn.net/Tiam_cr/article/details/146486065)
+
