@@ -139,3 +139,7 @@
 
 + [金融数据API实战：无限制获取马来西亚、印度股票实时行情与WebSocket集成](https://blog.csdn.net/CryptoPP/article/details/146468076)
 
++ [Vue 在现代 Web 开发中的优势](https://blog.csdn.net/qq_37703224/article/details/146514489)
+
++ [【2025】基于springboot+spark的电影推荐系统（源码、万字文档、图文修改、调试答疑）](https://blog.csdn.net/u013374864/article/details/146467080)
+
