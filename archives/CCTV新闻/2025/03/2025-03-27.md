@@ -173,3 +173,11 @@
 
 + [英国大幅下调今年经济增长预期](https://news.cctv.com/2025/03/27/ARTIBtMBar8pkUGkaaJtwgWS250327.shtml)
 
++ [丹麦首相重申格陵兰岛“不会出售”](https://news.cctv.com/2025/03/27/ARTI4banxkLD6aizTWoHzHC1250327.shtml)
+
++ [马克龙宣布向乌克兰额外提供20亿欧元军事援助](https://news.cctv.com/2025/03/27/ARTIaelkVc6FK1VxJk357lhT250327.shtml)
+
++ [美国务卿回应“群聊泄密”事件：有人犯了错误](https://news.cctv.com/2025/03/27/ARTIxyQPquLEkDyjADtrwXsY250327.shtml)
+
++ [苏丹主权委员会主席说首都喀土穆“自由了”](https://news.cctv.com/2025/03/27/ARTIEClqxVxcHFGk2EeNNOfY250327.shtml)
+
