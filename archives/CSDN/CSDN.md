@@ -163,3 +163,11 @@
 
 + [mysql的学习](https://blog.csdn.net/qq_37185361/article/details/115767742)
 
++ [【现代深度学习技术】现代卷积神经网络04：含并行连接的网络（GoogLeNet）](https://blog.csdn.net/Morse_Chen/article/details/146519835)
+
++ [Spring Boot 集成 Quartz 实现定时任务（Cron 表达式示例）](https://blog.csdn.net/yixingxing0201/article/details/146517131)
+
++ [Python从0到100（九十二）：Swin Transformer 架构解析及在UCI-HAR行为识别中的实现](https://blog.csdn.net/weixin_51390582/article/details/146499961)
+
++ [Java 大视界 -- Java 大数据中的时间序列预测算法在金融市场波动预测中的应用与优化（153）](https://blog.csdn.net/atgfg/article/details/146512528)
+

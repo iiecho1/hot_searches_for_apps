@@ -195,3 +195,7 @@
 
 + [韩国一架灭火直升机坠落飞行员丧生](https://news.cctv.com/2025/03/26/ARTIGXjPVGvajfPXAdoCpUFV250326.shtml)
 
++ [李在明涉嫌违反《公职选举法》案二审被判无罪](https://news.cctv.com/2025/03/26/ARTITaVY3OcNMtTqyxrMhttv250326.shtml)
+
++ [美国消费者信心指数连续4个月下降 “通胀+关税政策”加剧民众担忧](https://news.cctv.com/2025/03/26/ARTIJoBr3iEVPrGVTtn9OGe8250326.shtml)
+
