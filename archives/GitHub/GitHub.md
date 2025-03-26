@@ -33,3 +33,15 @@
 
 + [agno-agi/agno](https://github.com/agno-agi/agno)
 
++ [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+
++ [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+
++ [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+
++ [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS)
+
++ [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+
++ [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
