@@ -47,3 +47,5 @@
 
 + [公司每一个功能或 bug 都要新开一个 issue，合理吗](https://www.v2ex.com/t/1121115)
 
++ [吐槽成都新房](https://www.v2ex.com/t/1121100)
+

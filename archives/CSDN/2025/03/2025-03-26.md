@@ -171,3 +171,11 @@
 
 + [Java 大视界 -- Java 大数据中的时间序列预测算法在金融市场波动预测中的应用与优化（153）](https://blog.csdn.net/atgfg/article/details/146512528)
 
++ [PostgreSQL：索引与查询优化](https://blog.csdn.net/lilinhai548/article/details/146446965)
+
++ [【大模型加速器2.0】合合信息文档图表解析全方位深度测评](https://blog.csdn.net/weixin_52908342/article/details/146512335)
+
++ [理解文字识别：一文读懂OCR商业化产品的算法逻辑](https://blog.csdn.net/INTSIG/article/details/146502545)
+
++ [高度电路中时序设计之二](https://blog.csdn.net/selin19860818/article/details/146511861)
+
