@@ -35,3 +35,7 @@
 
 + [国外 Remote 工作，怎么缴社保、公积金这些东西](https://www.v2ex.com/t/1120971)
 
++ [现在为了打击诈骗而中断支付越来越走火入魔了](https://www.v2ex.com/t/1121075)
+
++ [对搭建 MinIO 对象存储的一些疑问](https://www.v2ex.com/t/1121050)
+

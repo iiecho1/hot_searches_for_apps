@@ -133,3 +133,9 @@
 
 + [使用腾讯云大模型知识引擎×DeepSeek打造自己的私人家教](https://blog.csdn.net/m0_73367097/article/details/146487707)
 
++ [告别眼疲劳，拥抱高效编程：明基RD280U专业显示器评测](https://blog.csdn.net/weixin_43151418/article/details/146512293)
+
++ [数据库原理及应用mysql版陈业斌实验二](https://blog.csdn.net/2301_81831423/article/details/146505305)
+
++ [计算机网络：（三）计算机网络体系结构（附带图谱表格更好对比理解）](https://blog.csdn.net/2402_83322742/article/details/146509622)
+
