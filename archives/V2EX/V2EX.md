@@ -43,3 +43,5 @@
 
 + [🎁 [送码] 开源的 全平台数据同步 AI 电子书阅读器 Anx Reader 终于上架 App Store 限时五折 50% off！](https://www.v2ex.com/t/1121077)
 
++ [突然觉得生活太复杂了，想听听 v 友们的看法](https://www.v2ex.com/t/1121122)
+

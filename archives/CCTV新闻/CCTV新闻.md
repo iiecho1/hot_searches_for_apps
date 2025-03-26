@@ -187,3 +187,5 @@
 
 + [世界看博鳌 | 博鳌亚洲论坛为完善全球治理提供独特“亚洲视角”](https://news.cctv.com/2025/03/26/ARTIRYw7NxfJQKyYIVAFWol0250326.shtml)
 
++ [中国驻洛杉矶总领馆再次提醒：来美中国公民注意美方入境有关要求](https://news.cctv.com/2025/03/26/ARTIklzPfPulJf1wscUvTyRL250326.shtml)
+
