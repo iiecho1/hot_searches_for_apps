@@ -193,3 +193,7 @@
 
 + [MySQL慢SQL优化方案详解：从诊断到根治的完整指南](https://blog.csdn.net/aifen_0928/article/details/146517267)
 
++ [【系统架构设计师】数据库系统 ② ( 分布式数据库 | 分布式数据库 特点 | 分布式数据库 分层模式 | 两阶段提交协议 - 2PC 协议 )](https://blog.csdn.net/han1202012/article/details/146459861)
+
++ [歌曲缓存相关功能](https://blog.csdn.net/Unlimited_ci/article/details/146512377)
+
