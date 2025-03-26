@@ -181,3 +181,9 @@
 
 + [苏丹主权委员会主席说首都喀土穆“自由了”](https://news.cctv.com/2025/03/27/ARTIEClqxVxcHFGk2EeNNOfY250327.shtml)
 
++ [中国代表：应尊重和保护巴勒斯坦人民基本人权](https://news.cctv.com/2025/03/27/ARTIBzKjyvKZu100dEq4eMZu250327.shtml)
+
++ [美国暂停处理部分绿卡申请](https://news.cctv.com/2025/03/27/ARTICU9XcEbsuLiHm9w2Mk6w250327.shtml)
+
++ [美总统特朗普宣布对所有进口汽车征收25%关税](https://news.cctv.com/2025/03/27/ARTIXBFSeU4zYoKvLuKxTFDv250327.shtml)
+
