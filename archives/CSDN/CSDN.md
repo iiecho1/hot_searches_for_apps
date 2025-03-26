@@ -129,3 +129,7 @@
 
 + [基于FPGA的16QAM+帧同步系统verilog开发,包含testbench,高斯信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/146483476)
 
++ [人工智能与人类社会的复杂关系：挑战与应对](https://blog.csdn.net/sixpp/article/details/146457670)
+
++ [使用腾讯云大模型知识引擎×DeepSeek打造自己的私人家教](https://blog.csdn.net/m0_73367097/article/details/146487707)
+
