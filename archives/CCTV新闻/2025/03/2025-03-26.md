@@ -213,3 +213,7 @@
 
 + [苏丹武装部队宣布控制喀土穆国际机场](https://news.cctv.com/2025/03/26/ARTIkFcq4Ekhkn9HpQjUU2tT250326.shtml)
 
++ [亚美尼亚议会正式批准启动加入欧盟进程的法案](https://news.cctv.com/2025/03/26/ARTIjN9LHqduT8Yte8b4i2xS250326.shtml)
+
++ [欧洲复兴开发银行向乌克兰提供2.7亿欧元贷款用于购买天然气](https://news.cctv.com/2025/03/26/ARTIkiYvV5OMraGXTvcmPcpE250326.shtml)
+
