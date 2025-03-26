@@ -137,3 +137,5 @@
 
 + [Docker一键部署OpenObserve打造低成本的云原生观测平台操作详解](https://blog.csdn.net/Tiam_cr/article/details/146486065)
 
++ [金融数据API实战：无限制获取马来西亚、印度股票实时行情与WebSocket集成](https://blog.csdn.net/CryptoPP/article/details/146468076)
+

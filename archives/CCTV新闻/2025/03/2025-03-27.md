@@ -167,3 +167,7 @@
 
 + [巴西联邦最高法院决定受理前总统博索纳罗政变案指控](https://news.cctv.com/2025/03/27/ARTIMrluR83J2178hoUbQ3vd250327.shtml)
 
++ [苏丹快速支援部队宣布与苏丹南部地方武装结成军事联盟](https://news.cctv.com/2025/03/27/ARTIeoHMB0LzZ0JENIOTAgMr250327.shtml)
+
++ [古特雷斯：欢迎美俄乌就黑海航行安全达成一致](https://news.cctv.com/2025/03/27/ARTI5OuxHJMN1lbwgsZaOBa5250327.shtml)
+
