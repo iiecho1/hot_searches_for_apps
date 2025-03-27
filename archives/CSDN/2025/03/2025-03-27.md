@@ -219,3 +219,11 @@
 
 + [新能源动力电池测试设备深度解析：充放电设备与电池模拟器的差异及技术趋势](https://blog.csdn.net/weixin_62244995/article/details/146550726)
 
++ [【DeepSeek部署实战】一键本地推理，DeepSeek-R1 蒸馏模型 + llama.cpp 部署教程](https://blog.csdn.net/xiaobing259/article/details/146494076)
+
++ [基于Spring Boot的网上商城系统的设计与实现（LW+源码+讲解）](https://blog.csdn.net/hungelianshu123/article/details/146537750)
+
++ [微信小程序学习](https://blog.csdn.net/weixin_56606482/article/details/146493664)
+
++ [【Linux】进程信号的产生](https://blog.csdn.net/s_little_monster/article/details/145653496)
+

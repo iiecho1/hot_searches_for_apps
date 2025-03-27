@@ -221,3 +221,5 @@
 
 + [南苏丹第一副总统遭软禁　联南苏团呼吁各方保持克制](https://news.cctv.com/2025/03/27/ARTI3MX7X66QDuXLa6p1f7yl250327.shtml)
 
++ [巴基斯坦俾路支省首府发生爆炸事件致2死21伤](https://news.cctv.com/2025/03/27/ARTIBeX9qp1koMhmpQdmvl00250327.shtml)
+
