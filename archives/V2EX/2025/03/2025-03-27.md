@@ -47,3 +47,5 @@
 
 + [AOSP 终止了](https://www.v2ex.com/t/1121473)
 
++ [照片搬家真费劲](https://www.v2ex.com/t/1121435)
+

@@ -217,3 +217,7 @@
 
 + [美国东部两州山火持续蔓延 数百户居民紧急撤离](https://news.cctv.com/2025/03/27/ARTI2Wv4sTLd9cXABnyG6iQ6250327.shtml)
 
++ [埃及红海旅游潜艇发生事故致6死9伤](https://news.cctv.com/2025/03/27/ARTInKPv3ez6ZNUTRTDIIDaa250327.shtml)
+
++ [南苏丹第一副总统遭软禁　联南苏团呼吁各方保持克制](https://news.cctv.com/2025/03/27/ARTI3MX7X66QDuXLa6p1f7yl250327.shtml)
+
