@@ -189,3 +189,7 @@
 
 + [尼日尔军政府颁布过渡宪章 过渡期为60个月](https://news.cctv.com/2025/03/27/ARTI1Iaah1z3G69EtUn4CL9N250327.shtml)
 
++ [哈马斯发言人卡努瓦被以军打死](https://news.cctv.com/2025/03/27/ARTIkJ6GCYnIPCaMqhSnMlB7250327.shtml)
+
++ [中国驻美大使谢锋：挑战一个中国原则，就是危害国际和平，必须当头棒喝](https://news.cctv.com/2025/03/27/ARTIPstXRgORGlmCl9BgBlGu250327.shtml)
+

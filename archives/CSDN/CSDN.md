@@ -147,3 +147,13 @@
 
 + [基于Zookeeper的微服务配置管理与灰度发布实战指南](https://blog.csdn.net/Vic10101/article/details/146510228)
 
++ [漫画|基于SprinBoot+vue的漫画网站(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/146513015)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的表格（Table）之添加行拖拽排序功能示例4，TableView16_04 跨表格拖拽示例](https://blog.csdn.net/qq_33650655/article/details/146517613)
+
++ [k8s集群添加一个新GPU节点](https://blog.csdn.net/m0_62464865/article/details/146471484)
+
++ [在K8S中使用ArgoCD做持续部署](https://blog.csdn.net/m0_69326428/article/details/146507818)
+
++ [基于gork的三端互联海陆空学习方案](https://blog.csdn.net/qq_57484399/article/details/146524835)
+
