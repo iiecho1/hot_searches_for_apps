@@ -167,3 +167,7 @@
 
 + [YoloV8训练和平精英人物检测模型](https://blog.csdn.net/qq_35230125/article/details/146516187)
 
++ [鸿蒙OS 5 架构设计探秘：从分层设计到多端部署](https://blog.csdn.net/weixin_66401877/article/details/146516446)
+
++ [蓝耘平台API深度剖析：如何高效实现AI应用联动](https://blog.csdn.net/2501_91062530/article/details/146544467)
+
