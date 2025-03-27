@@ -161,3 +161,9 @@
 
 + [“太丑了，立马换掉！”让特朗普“破防”的肖像画，是共和党人6年前众筹得来](https://news.cctv.com/2025/03/25/ARTIQuF7yIatoDShZjldcPSw250325.shtml)
 
++ [巴西就特朗普关税政策对美发声明：严重损害两国外贸关系](https://news.cctv.com/2025/03/28/ARTI2JpsIso8IMBqU8LJ4C4V250328.shtml)
+
++ [以军继续在约旦河西岸行动 过去一周打死2人逮捕近80人](https://news.cctv.com/2025/03/28/ARTI6pcMQ4QDSZ1ppLC8kcdn250328.shtml)
+
++ [欧委会“重新武装欧洲”计划遭欧盟多国反对](https://news.cctv.com/2025/03/28/ARTIIsQiJrs2psyRV6srN5gL250328.shtml)
+
