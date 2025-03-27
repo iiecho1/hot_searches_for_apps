@@ -39,3 +39,5 @@
 
 + [美的洗碗机一周偷跑 200G 流量](https://www.v2ex.com/t/1121349)
 
++ [头脑发热想入手 mac mini m4 求骂醒](https://www.v2ex.com/t/1121410)
+

@@ -203,3 +203,11 @@
 
 + [法国空客集团首席执行官：中国市场具有巨大潜力 希望加强对华合作](https://news.cctv.com/2025/03/27/ARTIDFnsB8o6H0f0j0dJWAHK250327.shtml)
 
++ [以保护“国家安全”名义加征汽车关税 美国关税政策扰动全球市场](https://news.cctv.com/2025/03/27/ARTIQbW47SolJlTKGxZX6cOa250327.shtml)
+
++ [关税压力下 法国外长访华](https://news.cctv.com/2025/03/27/ARTIOGNC1nIm3sdIs3R5cJbs250327.shtml)
+
++ [德国专家：美国不再遵循国际规则体系是严重风险](https://news.cctv.com/2025/03/27/ARTIlAVmPcbjVEj8QmtVTD5D250327.shtml)
+
++ [博鳌进行时｜挪威学者：期待挪中两国深化合作](https://news.cctv.com/2025/03/27/ARTIk57dr4c1PlBGXaHF5DNx250327.shtml)
+
