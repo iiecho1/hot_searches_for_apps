@@ -107,3 +107,19 @@
 
 + [【Linux】想学习Linux不看这一篇你就慢了--＞发展背景与基本指令](https://blog.csdn.net/qq_53706413/article/details/143104237)
 
++ [MySQL慢SQL优化方案详解：从诊断到根治的完整指南](https://blog.csdn.net/li_Michael/article/details/146545350)
+
++ [Python+Pytorch掌纹训练识别](https://blog.csdn.net/alicema1111/article/details/146500210)
+
++ [基于MoE架构的AIGC引擎：海螺AI重新定义人机协同新范式](https://blog.csdn.net/bite_zwy/article/details/146500380)
+
++ [前端安全加密方式](https://blog.csdn.net/wl_qianduan/article/details/146173195)
+
++ [快速搭建个人 k8s 集群（版本 1.30.x）](https://blog.csdn.net/SZU_Crayon/article/details/146490400)
+
++ [吐血教程：搭建Flutter开发环境](https://blog.csdn.net/2501_91087985/article/details/146528373)
+
++ [DeepSeek-V3-0324 模型发布：开源 AI 性能再攀高峰，推理与编码能力逼近顶级闭源模型](https://blog.csdn.net/WL_ZHG/article/details/146498156)
+
++ [使用AI一步一步实现若依(27)](https://blog.csdn.net/younuoqianjin/article/details/146533896)
+
