@@ -191,3 +191,15 @@
 
 + [智能制造：物联网和自动化之间的关系](https://blog.csdn.net/2401_88515538/article/details/146525083)
 
++ [解锁大语言模型潜力：LangChain，构建AI应用的全新框架](https://blog.csdn.net/weixin_53269650/article/details/146536996)
+
++ [TensorFlow深度学习实战——利用词嵌入实现垃圾邮件检测](https://blog.csdn.net/LOVEmy134611/article/details/146547303)
+
++ [深入理解 HTML5 Web Workers：提升网页性能的关键技术解析](https://blog.csdn.net/yixingxing0201/article/details/146545631)
+
++ [《Android低内存设备性能优化实战：深度解析Dalvik虚拟机参数调优》](https://blog.csdn.net/qq_15950325/article/details/146543841)
+
++ [【MySQL】事务](https://blog.csdn.net/qq_55401402/article/details/146485536)
+
++ [学习threejs，使用多面体（IcosahedronGeometry、TetrahedronGeometry、OctahedronGeometry等）](https://blog.csdn.net/qq_28419035/article/details/146555661)
+

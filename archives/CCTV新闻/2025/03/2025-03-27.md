@@ -211,3 +211,7 @@
 
 + [博鳌进行时｜挪威学者：期待挪中两国深化合作](https://news.cctv.com/2025/03/27/ARTIk57dr4c1PlBGXaHF5DNx250327.shtml)
 
++ [空中安全状况频出 美国拟新招2000名空管实习生补缺](https://news.cctv.com/2025/03/27/ARTIynAXpjXtqVb77JQ3nhA0250327.shtml)
+
++ [《哪吒之魔童闹海》比利时首映](https://photo.cctv.com/2025/03/27/PHOAVSGZPGcw5N677uOjAnid250327.shtml)
+

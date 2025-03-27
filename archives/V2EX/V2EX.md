@@ -43,3 +43,7 @@
 
 + [想换个 15 万内的纯电，有什么推荐吗？](https://www.v2ex.com/t/1121376)
 
++ [[抽奖] 白给数量 15 名，白给虚拟 visa 卡，先到先得！](https://www.v2ex.com/t/1121515)
+
++ [AOSP 终止了](https://www.v2ex.com/t/1121473)
+
