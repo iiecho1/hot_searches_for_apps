@@ -223,3 +223,15 @@
 
 + [巴基斯坦俾路支省首府发生爆炸事件致2死21伤](https://news.cctv.com/2025/03/27/ARTIBeX9qp1koMhmpQdmvl00250327.shtml)
 
++ [韩国山火已致28人死亡](https://news.cctv.com/2025/03/27/ARTIITkx0ewEhEA46FzxnuJ4250327.shtml)
+
++ [援乌“意愿联盟”峰会在巴黎闭幕 马克龙再提向乌派兵](https://news.cctv.com/2025/03/27/ARTIDKriPE5bZ1K6eIsYngC5250327.shtml)
+
++ [德国总理朔尔茨：拒绝放松对俄制裁](https://news.cctv.com/2025/03/27/ARTIeZUJteee54DrJn3k2EzK250327.shtml)
+
++ [历史首次 俄罗斯外汇储备总额超6500亿美元](https://news.cctv.com/2025/03/27/ARTI1VjJjVWJ7r7Xei1kcoxS250327.shtml)
+
++ [缅甸预计于今年12月举行大选](https://news.cctv.com/2025/03/27/ARTI6bRhNxZc0dMGvyfDr9EP250327.shtml)
+
++ [总台现场直击丨韩国山火仍在蔓延 夜间救援束手无策](https://news.cctv.com/2025/03/27/ARTIcx1JxeeRYqnTTUVj3K2D250327.shtml)
+
