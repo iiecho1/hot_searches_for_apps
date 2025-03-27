@@ -193,3 +193,9 @@
 
 + [涉嫌非法接受竞选资助 法国前总统萨科齐被要求判处7年监禁](https://news.cctv.com/2025/03/28/ARTIDpM2HITHuPIcKFB0SzTH250328.shtml)
 
++ [玻利维亚发生矿难 5人死亡](https://news.cctv.com/2025/03/28/ARTIRo3uSXHV74Bf08gOX2Yn250328.shtml)
+
++ [美法官要求特朗普政府保留“群聊泄密”事件的聊天记录](https://news.cctv.com/2025/03/28/ARTIeCkUNE2zkSzLh14EMatf250328.shtml)
+
++ [俄副外长：谈论重启俄美战略稳定对话“为时尚早”](https://news.cctv.com/2025/03/28/ARTITCqjXx2y12uRdXiZcnLv250328.shtml)
+
