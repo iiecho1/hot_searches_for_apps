@@ -189,3 +189,5 @@
 
 + [【Web API系列】深入掌握Web键盘API（Keyboard API）：构建全屏沉浸式应用的完整指南](https://blog.csdn.net/weixin_47754149/article/details/146362380)
 
++ [智能制造：物联网和自动化之间的关系](https://blog.csdn.net/2401_88515538/article/details/146525083)
+

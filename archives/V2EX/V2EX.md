@@ -41,3 +41,5 @@
 
 + [头脑发热想入手 mac mini m4 求骂醒](https://www.v2ex.com/t/1121410)
 
++ [想换个 15 万内的纯电，有什么推荐吗？](https://www.v2ex.com/t/1121376)
+
