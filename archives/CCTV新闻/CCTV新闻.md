@@ -169,3 +169,5 @@
 
 + [韩国山火已致28人死亡 政府追加指定特别灾区](https://news.cctv.com/2025/03/28/ARTIkgCk7bgy9b13HZJ0X9o0250328.shtml)
 
++ [南苏丹安全风险急剧上升 我使馆建议中国公民尽快撤离](https://news.cctv.com/2025/03/28/ARTI90arhu7OeN9zlRbjqo1o250327.shtml)
+
