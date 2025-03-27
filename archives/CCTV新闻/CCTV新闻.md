@@ -171,3 +171,25 @@
 
 + [南苏丹安全风险急剧上升 我使馆建议中国公民尽快撤离](https://news.cctv.com/2025/03/28/ARTI90arhu7OeN9zlRbjqo1o250327.shtml)
 
++ [加拿大总理卡尼：美国不再是可靠的贸易伙伴](https://news.cctv.com/2025/03/28/ARTIvmzXXqDLEPntS21R4iBp250328.shtml)
+
++ [伊朗外长：伊朗通过阿曼回复了特朗普信函](https://news.cctv.com/2025/03/28/ARTI6FhvANvgJunVtp3g4Nop250328.shtml)
+
++ [墨西哥央行下调基准利率至9.0%](https://news.cctv.com/2025/03/28/ARTI6gjQFKlyqWeoyIw7Lf03250328.shtml)
+
++ [俄罗斯“彼尔姆”号核潜艇举行下水仪式 俄总统普京出席](https://news.cctv.com/2025/03/28/ARTIFCCPYnPsuQOiTaNyNauO250328.shtml)
+
++ [联合国秘书长对南苏丹局势深表关切 敦促各方维护和平协议](https://news.cctv.com/2025/03/28/ARTIZhE7es6TJMpQZQZLhmNZ250328.shtml)
+
++ [欧盟宣布对白俄罗斯25名个人和7个实体实施制裁](https://news.cctv.com/2025/03/28/ARTIe2KYExxWhkR4rjjqyjre250328.shtml)
+
++ [超3周零物资进入 加沙正经历冲突爆发以来最长“援助真空期”](https://news.cctv.com/2025/03/28/ARTIWABYaOOFY4qJJwisfI6x250328.shtml)
+
++ [埃及观光潜艇沉没事故已致6死21伤 遇难者均为俄罗斯籍](https://news.cctv.com/2025/03/28/ARTIuRE4zyBemmDJS8cztRJe250328.shtml)
+
++ [普京：将允许西方国家与俄在北极地区开展联合项目](https://news.cctv.com/2025/03/28/ARTImMkEkCZlxSXVO3HCKiwp250328.shtml)
+
++ [阿尔及利亚责令摩洛哥驻奥兰副总领事48小时内离境](https://news.cctv.com/2025/03/28/ARTIVb4kykySrZajz4KlJxDn250328.shtml)
+
++ [涉嫌非法接受竞选资助 法国前总统萨科齐被要求判处7年监禁](https://news.cctv.com/2025/03/28/ARTIDpM2HITHuPIcKFB0SzTH250328.shtml)
+
