@@ -27,3 +27,9 @@
 
 + [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [signalapp/libsignal](https://github.com/signalapp/libsignal)
+
++ [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)
+

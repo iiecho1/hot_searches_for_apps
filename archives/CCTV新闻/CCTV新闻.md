@@ -215,3 +215,5 @@
 
 + [《哪吒之魔童闹海》比利时首映](https://photo.cctv.com/2025/03/27/PHOAVSGZPGcw5N677uOjAnid250327.shtml)
 
++ [美国东部两州山火持续蔓延 数百户居民紧急撤离](https://news.cctv.com/2025/03/27/ARTI2Wv4sTLd9cXABnyG6iQ6250327.shtml)
+

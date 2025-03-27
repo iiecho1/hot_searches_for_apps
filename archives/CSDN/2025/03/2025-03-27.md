@@ -203,3 +203,7 @@
 
 + [学习threejs，使用多面体（IcosahedronGeometry、TetrahedronGeometry、OctahedronGeometry等）](https://blog.csdn.net/qq_28419035/article/details/146555661)
 
++ [零代码构建AI知识库：基于亮数据网页抓取API的维基百科数据自动化采集实战](https://blog.csdn.net/g310773517/article/details/146550275)
+
++ [数据湖的崛起：从大数据到智能未来的钥匙](https://blog.csdn.net/SDFsoul/article/details/146554592)
+
