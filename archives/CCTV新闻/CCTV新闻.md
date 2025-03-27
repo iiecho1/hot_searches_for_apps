@@ -167,3 +167,5 @@
 
 + [欧委会“重新武装欧洲”计划遭欧盟多国反对](https://news.cctv.com/2025/03/28/ARTIIsQiJrs2psyRV6srN5gL250328.shtml)
 
++ [韩国山火已致28人死亡 政府追加指定特别灾区](https://news.cctv.com/2025/03/28/ARTIkgCk7bgy9b13HZJ0X9o0250328.shtml)
+
