@@ -187,3 +187,5 @@
 
 + [美总统特朗普宣布对所有进口汽车征收25%关税](https://news.cctv.com/2025/03/27/ARTIXBFSeU4zYoKvLuKxTFDv250327.shtml)
 
++ [尼日尔军政府颁布过渡宪章 过渡期为60个月](https://news.cctv.com/2025/03/27/ARTI1Iaah1z3G69EtUn4CL9N250327.shtml)
+

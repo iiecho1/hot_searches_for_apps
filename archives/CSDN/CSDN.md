@@ -143,3 +143,7 @@
 
 + [【2025】基于springboot+spark的电影推荐系统（源码、万字文档、图文修改、调试答疑）](https://blog.csdn.net/u013374864/article/details/146467080)
 
++ [wx151基于ssm+vue+uniapp的自助购药小程序](https://blog.csdn.net/shmp54xmu/article/details/146461247)
+
++ [基于Zookeeper的微服务配置管理与灰度发布实战指南](https://blog.csdn.net/Vic10101/article/details/146510228)
+
