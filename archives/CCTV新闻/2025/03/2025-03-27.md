@@ -193,3 +193,5 @@
 
 + [中国驻美大使谢锋：挑战一个中国原则，就是危害国际和平，必须当头棒喝](https://news.cctv.com/2025/03/27/ARTIPstXRgORGlmCl9BgBlGu250327.shtml)
 
++ [向“新”而行打造新引力 中国资产受到海外投资者青睐](https://news.cctv.com/2025/03/27/ARTI9eP6AYm65ySKCqiTX0EQ250327.shtml)
+

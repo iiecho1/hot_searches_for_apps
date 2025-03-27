@@ -157,3 +157,13 @@
 
 + [基于gork的三端互联海陆空学习方案](https://blog.csdn.net/qq_57484399/article/details/146524835)
 
++ [【我的项目】仿RabbitMQ的消息队列项目总结](https://blog.csdn.net/JLX_1/article/details/146538831)
+
++ [【HarmonyOS4＋NEXT】TextInput 组件：placeholder深度解析](https://blog.csdn.net/m0_55394328/article/details/146543784)
+
++ [【go微服务】跨语言RPC接口工具--protobuf语法与原理解读以及应用实战](https://blog.csdn.net/littlefun591/article/details/146523645)
+
++ [【#2】介绍第三方库](https://blog.csdn.net/island1314/article/details/146515182)
+
++ [YoloV8训练和平精英人物检测模型](https://blog.csdn.net/qq_35230125/article/details/146516187)
+
