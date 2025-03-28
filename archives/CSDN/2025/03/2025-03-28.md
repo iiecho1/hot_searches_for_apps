@@ -145,3 +145,7 @@
 
 + [【系统架构设计师】数据库系统 ② ( 分布式数据库 | 分布式数据库 特点 | 分布式数据库 分层模式 | 两阶段提交协议 - 2PC 协议 )](https://blog.csdn.net/han1202012/article/details/146459861)
 
++ [【Sql Server】在SQL Server中生成雪花ID(Snowflake ID)](https://blog.csdn.net/lmy_520/article/details/146568696)
+
++ [【Nature顶刊级科研绘图】DeepSeek、ChatGPT等大语言模型绘图（如何画图、如何标注、如何改图、如何美化、如何组合、如何排序）](https://blog.csdn.net/JNLWLAQ/article/details/146524908)
+

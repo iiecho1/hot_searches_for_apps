@@ -243,3 +243,13 @@
 
 + [苏丹武装部队称已全面控制该国首都喀土穆](https://news.cctv.com/2025/03/28/ARTIRv8SO8xTjKKuem3px30h250328.shtml)
 
++ [泰国曼谷在建高楼倒塌造成1人死亡、43人失踪](https://news.cctv.com/2025/03/28/ARTIKmrKMxCEt0IU6kIaKCzR250328.shtml)
+
++ [泰国曼谷市区一在建高楼因强震倒塌 多人被困](https://news.cctv.com/2025/03/28/ARTIXH6O5IKzrReKutpfGoER250328.shtml)
+
++ [泰国总理中断会议紧急商讨地震应对措施](https://news.cctv.com/2025/03/28/ARTII3GXZiHRMStbnw3d0egO250328.shtml)
+
++ [降雨不足及干旱引发德国农民担忧](https://photo.cctv.com/2025/03/28/PHOAqfHbCjMjBFSIVt9Ao3Sf250328.shtml)
+
++ [缅甸发生6.4级地震 震源深度30千米](https://news.cctv.com/2025/03/28/ARTI4EwK1WjVWBvfnwK28Gft250328.shtml)
+
