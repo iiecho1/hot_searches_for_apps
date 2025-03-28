@@ -35,3 +35,5 @@
 
 + [[送码] Omnit：一款 iOS AI 聚合翻译工具 (灵感来自 Pot/Bob)](https://www.v2ex.com/t/1121656)
 
++ [iPhone 13 是该换电池还是买充电宝](https://www.v2ex.com/t/1121652)
+

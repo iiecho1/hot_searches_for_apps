@@ -223,3 +223,5 @@
 
 + [总台现场直击丨韩国山火蔓延 灾区财产损失惨重 火线绵延数公里](https://news.cctv.com/2025/03/28/ARTI4L5qf4FikVIs0yGxBwud250328.shtml)
 
++ [含冤坐牢超47年，日本前死刑犯获赔2亿多日元，创该国刑事补偿金新高](https://news.cctv.com/2025/03/28/ARTID3Rv7k30GyI1cgXCEKRj250328.shtml)
+
