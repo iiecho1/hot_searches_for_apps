@@ -231,3 +231,15 @@
 
 + [普京：可讨论在乌克兰实行临时管理的可能性](https://news.cctv.com/2025/03/28/ARTIq7eOry6SebDTdvqraSVJ250328.shtml)
 
++ [缅甸发生7.9级地震 泰国全国震感强烈](https://news.cctv.com/2025/03/28/ARTIdYPt8aPJpCpTi0k7LLtR250328.shtml)
+
++ [【国际漫评】卖卡还债](https://news.cctv.com/2025/03/28/ARTIDMtNpPlE0joMQT6cOwHz250328.shtml)
+
++ [专栏丨从“群聊泄密门”透视霸权的裂痕](https://news.cctv.com/2025/03/28/ARTI0veJD07C1gYebo6nEHG4250328.shtml)
+
++ [缅甸发生7.9级地震，震源深度30千米](https://news.cctv.com/2025/03/28/ARTIf3PWuz4dwClLf5idSBpb250328.shtml)
+
++ [缅甸附近发生7.7级左右地震](https://news.cctv.com/2025/03/28/ARTIaWtKK5zbgMSxd3gqUl6S250328.shtml)
+
++ [苏丹武装部队称已全面控制该国首都喀土穆](https://news.cctv.com/2025/03/28/ARTIRv8SO8xTjKKuem3px30h250328.shtml)
+
