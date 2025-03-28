@@ -149,3 +149,9 @@
 
 + [【Nature顶刊级科研绘图】DeepSeek、ChatGPT等大语言模型绘图（如何画图、如何标注、如何改图、如何美化、如何组合、如何排序）](https://blog.csdn.net/JNLWLAQ/article/details/146524908)
 
++ [PostgreSQL： GIN 索引详解](https://blog.csdn.net/lilinhai548/article/details/146549265)
+
++ [合合信息TextIn大模型加速器2.0发布：智能图表数据解析深度测评](https://blog.csdn.net/weixin_43151418/article/details/146558514)
+
++ [k近邻算法K-Nearest Neighbors（KNN）](https://blog.csdn.net/2401_88885149/article/details/146599793)
+

@@ -253,3 +253,13 @@
 
 + [缅甸发生6.4级地震 震源深度30千米](https://news.cctv.com/2025/03/28/ARTI4EwK1WjVWBvfnwK28Gft250328.shtml)
 
++ [专家解读缅甸7.9级地震：海啸可能性不大，需防山体滑坡等风险](https://news.cctv.com/2025/03/28/ARTINXxW3CqUykr9Ign2HWAE250328.shtml)
+
++ [缅甸发生7.9级地震 越南胡志明市民众到户外避难](https://news.cctv.com/2025/03/28/ARTIzyxUGKhXO4cGZpb8j9CX250328.shtml)
+
++ [泰国震感明显：在建高楼倒塌43人失踪，移动信号时断时续](https://news.cctv.com/2025/03/28/ARTIuHeLL0wun56aQhyHjC3c250328.shtml)
+
++ [泰国首都曼谷进入紧急状态](https://news.cctv.com/2025/03/28/ARTIYQjzCL4iz0Y4MH1oNceC250328.shtml)
+
++ [总台现场直击丨强震过后 缅甸高速公路部分路面出现断裂](https://news.cctv.com/2025/03/28/ARTI3KL5z35OkxVxrVSbWzCS250328.shtml)
+
