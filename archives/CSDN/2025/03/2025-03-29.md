@@ -111,3 +111,19 @@
 
 + [优选算法的睿智之林：前缀和专题(二)](https://blog.csdn.net/2401_85198927/article/details/146483586)
 
++ [使用Geotools从DEM数据中读取指定位置的高程实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/146539281)
+
++ [前端文件下载全解析：多种方式与实战示例](https://blog.csdn.net/jianzhi001/article/details/146582442)
+
++ [人工智能与网络安全](https://blog.csdn.net/weixin_68683692/article/details/146569936)
+
++ [【GitHub周榜】WrenAI：开源SQL AI代理，让Text-to-SQL轻松实现，开启自然语言与数据交互新时代](https://blog.csdn.net/xiaobing259/article/details/146486239)
+
++ [Linux 上使用 Docker 部署 Kafka 集群](https://blog.csdn.net/weixin_42949219/article/details/146045338)
+
++ [Docker技术系列文章，第十篇——Docker 集群与编排（以 Kubernetes 为例）](https://blog.csdn.net/qq_58611691/article/details/146563768)
+
++ [深入理解 HTML5 Web Workers：提升网页性能的关键技术解析](https://blog.csdn.net/yixingxing0201/article/details/146545631)
+
++ [Dify 0.15.3版本 本地部署指南](https://blog.csdn.net/Daoyiyun/article/details/146535186)
+
