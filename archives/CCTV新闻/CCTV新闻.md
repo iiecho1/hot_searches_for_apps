@@ -219,3 +219,7 @@
 
 + [规模最大、伤亡最多 韩国最严重山火影响区域扩大至4.8万公顷](https://news.cctv.com/2025/03/28/ARTIIa2NlNWbgghEqRjvGjYG250328.shtml)
 
++ [激烈反弹！格陵兰岛“MAGA”红帽火了：让美国滚开](https://news.cctv.com/2025/03/28/ARTI6f3cpZFF9Ld3djPrMyk6250328.shtml)
+
++ [总台现场直击丨韩国山火蔓延 灾区财产损失惨重 火线绵延数公里](https://news.cctv.com/2025/03/28/ARTI4L5qf4FikVIs0yGxBwud250328.shtml)
+

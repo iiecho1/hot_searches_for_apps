@@ -33,3 +33,5 @@
 
 + [不吐不快: 当今环境下普通人出售自有房或车就是一种修行](https://www.v2ex.com/t/1121587)
 
++ [[送码] Omnit：一款 iOS AI 聚合翻译工具 (灵感来自 Pot/Bob)](https://www.v2ex.com/t/1121656)
+
