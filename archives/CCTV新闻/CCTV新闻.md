@@ -225,3 +225,9 @@
 
 + [含冤坐牢超47年，日本前死刑犯获赔2亿多日元，创该国刑事补偿金新高](https://news.cctv.com/2025/03/28/ARTID3Rv7k30GyI1cgXCEKRj250328.shtml)
 
++ [以军空袭加沙城东南部一民宅 致8人死亡](https://news.cctv.com/2025/03/28/ARTI1NCu97gKfyh3g7un2Auu250328.shtml)
+
++ [美国会预算办公室：债务水平将在2029年创新高](https://news.cctv.com/2025/03/28/ARTI1CppWl6NqkQ5FwqedFhU250328.shtml)
+
++ [普京：可讨论在乌克兰实行临时管理的可能性](https://news.cctv.com/2025/03/28/ARTIq7eOry6SebDTdvqraSVJ250328.shtml)
+
