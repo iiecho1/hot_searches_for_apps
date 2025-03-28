@@ -285,3 +285,5 @@
 
 + [受地震影响 缅甸国际航空往返内比都和曼德勒省所有航班取消](https://news.cctv.com/2025/03/28/ARTI0Eg8ZfryEa50qwIfibaA250328.shtml)
 
++ [强震已致缅甸144人死亡](https://news.cctv.com/2025/03/28/ARTIxHBjmrIyvj9BQETy8p1v250328.shtml)
+
