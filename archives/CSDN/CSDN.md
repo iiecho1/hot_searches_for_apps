@@ -131,3 +131,9 @@
 
 + [阿里Qwen2.5-Omni：全能型多模态模型登场，视频实时互动碾压Gemini](https://blog.csdn.net/weixin_32759777/article/details/146556396)
 
++ [MySQL 用户权限与安全管理](https://blog.csdn.net/wuaisPsG/article/details/146582250)
+
++ [MySQL数据库精研之旅第四期：解锁库操作高阶技能](https://blog.csdn.net/2401_85198927/article/details/146521576)
+
++ [【HarmonyOS4＋NEXT】TextInput 组件：text 深度解析](https://blog.csdn.net/m0_55394328/article/details/146547136)
+
