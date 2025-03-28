@@ -161,3 +161,15 @@
 
 + [【GitHub周榜】WrenAI：开源SQL AI代理，让Text-to-SQL轻松实现，开启自然语言与数据交互新时代](https://blog.csdn.net/xiaobing259/article/details/146486239)
 
++ [前端图片懒加载技术实现详解](https://blog.csdn.net/siyang0928/article/details/146581946)
+
++ [MySQL 事务与锁机制详解](https://blog.csdn.net/CodeAi663081/article/details/146582338)
+
++ [MySQL 备份与恢复方案：mysqldump 与 xtrabackup](https://blog.csdn.net/yang_love1011/article/details/146582175)
+
++ [【现代深度学习技术】现代卷积神经网络04：含并行连接的网络（GoogLeNet）](https://blog.csdn.net/Morse_Chen/article/details/146519835)
+
++ [Java 大视界 -- Java 大数据在自动驾驶高精度地图数据更新与优化中的技术应用（157）](https://blog.csdn.net/atgfg/article/details/146573177)
+
++ [同步、异步FIFO](https://blog.csdn.net/weixin_57231523/article/details/146603939)
+

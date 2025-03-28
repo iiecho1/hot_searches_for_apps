@@ -25,3 +25,19 @@
 
 + [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
 
++ [EFForg/rayhunter](https://github.com/EFForg/rayhunter)
+
++ [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+
++ [kern/filepizza](https://github.com/kern/filepizza)
+
++ [cline/cline](https://github.com/cline/cline)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [neovim/neovim](https://github.com/neovim/neovim)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+
