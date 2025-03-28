@@ -263,3 +263,19 @@
 
 + [总台现场直击丨强震过后 缅甸高速公路部分路面出现断裂](https://news.cctv.com/2025/03/28/ARTI3KL5z35OkxVxrVSbWzCS250328.shtml)
 
++ [我驻缅甸使领馆提醒在缅同胞注意防范地震和次生灾害](https://news.cctv.com/2025/03/28/ARTIOfZu8PW1NaFAlMPf4Ypb250328.shtml)
+
++ [以军空袭加沙城东南部一民宅 死亡人数升至14人](https://news.cctv.com/2025/03/28/ARTIYwj05I26WHOVSHENzk5f250328.shtml)
+
++ [我驻清迈总领馆提醒中国公民防范地震余震](https://news.cctv.com/2025/03/28/ARTIBsLP8Usqd84rLTw8rhVg250328.shtml)
+
++ [泰国防灾减灾厅厅长：地震引发的高楼倒塌已致3人死亡](https://news.cctv.com/2025/03/28/ARTIPqMo0Sv4TPlFvXoJCpGS250328.shtml)
+
++ [博鳌亚洲论坛｜经济学家萨克斯：美国政府当下政策“错误”且“危险”](https://news.cctv.com/2025/03/28/ARTID27euzltcE4dQfac5H53250328.shtml)
+
++ [博鳌进行时｜巴基斯坦驻华大使卡里尔·哈什米：中国倡议凝聚发展共识](https://news.cctv.com/2025/03/28/ARTIZJae99vLZbLJZFyXaKKk250328.shtml)
+
++ [缅甸曼德勒一清真寺坍塌 10人丧生](https://news.cctv.com/2025/03/28/ARTIeZCSXMbO0TBl8ptODKZ8250328.shtml)
+
++ [并肩同行！听外企高管畅谈投资中国心声](https://jingji.cctv.com/2025/03/28/ARTI1Cch5bTlyrCGTeWPmenN250328.shtml)
+

@@ -155,3 +155,9 @@
 
 + [k近邻算法K-Nearest Neighbors（KNN）](https://blog.csdn.net/2401_88885149/article/details/146599793)
 
++ [MySQL 大数据处理优化与分布式架构探索](https://blog.csdn.net/chengong9988/article/details/146582485)
+
++ [合合信息TextIn大模型加速器 2.0来了：智能文档解析和图表解析能力全面升级](https://blog.csdn.net/qq_44866828/article/details/146583632)
+
++ [【GitHub周榜】WrenAI：开源SQL AI代理，让Text-to-SQL轻松实现，开启自然语言与数据交互新时代](https://blog.csdn.net/xiaobing259/article/details/146486239)
+

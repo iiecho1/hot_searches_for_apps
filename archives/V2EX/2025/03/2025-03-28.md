@@ -45,3 +45,7 @@
 
 + [最近在杞人忧天的考虑一个问题](https://www.v2ex.com/t/1121608)
 
++ [YouTube 广告越来越多了](https://www.v2ex.com/t/1121659)
+
++ [GPT-4o 生成吉卜力风格漫画](https://www.v2ex.com/t/1121649)
+
