@@ -127,3 +127,7 @@
 
 + [Dify 0.15.3版本 本地部署指南](https://blog.csdn.net/Daoyiyun/article/details/146535186)
 
++ [【数学建模】（启发式算法）蚁群算法(Ant Colony Optimization)的详解与应用](https://blog.csdn.net/Zlyzjiabjw547479/article/details/146563910)
+
++ [阿里Qwen2.5-Omni：全能型多模态模型登场，视频实时互动碾压Gemini](https://blog.csdn.net/weixin_32759777/article/details/146556396)
+
