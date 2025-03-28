@@ -163,3 +163,7 @@
 
 + [古特雷斯：联合国准备好协助受缅甸地震影响的国家](https://news.cctv.com/2025/03/29/ARTI8csSNU0G3B77juIRAMii250329.shtml)
 
++ [格陵兰岛新政府：美国副总统到访对格陵兰岛“缺乏尊重”](https://news.cctv.com/2025/03/29/ARTIsT8MUMJbp24nAHCmfm7n250329.shtml)
+
++ [加拿大总理：特朗普在通话中没有对关税威胁作出让步](https://news.cctv.com/2025/03/29/ARTIbIDHl6riWxCAl2QSzM6j250329.shtml)
+
