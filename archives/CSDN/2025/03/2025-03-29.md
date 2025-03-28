@@ -101,3 +101,13 @@
 
 + [智能制造：物联网和自动化之间的关系](https://blog.csdn.net/2401_88515538/article/details/146525083)
 
++ [MySQL 备份与恢复方案：mysqldump 与 xtrabackup](https://blog.csdn.net/yang_love1011/article/details/146582175)
+
++ [深入理解K8s与Docker的关系：容器化技术的双雄](https://blog.csdn.net/weixin_42132035/article/details/146535463)
+
++ [后端学习day1-Spring(八股）--还剩9个没看](https://blog.csdn.net/zsysingapore/article/details/146524839)
+
++ [经典优化算法：遗传算法（Genetic Algorithm, GA）](https://blog.csdn.net/yuchunyu12/article/details/146571704)
+
++ [优选算法的睿智之林：前缀和专题(二)](https://blog.csdn.net/2401_85198927/article/details/146483586)
+

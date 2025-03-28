@@ -61,3 +61,5 @@
 
 + [【钢炼FA】神作配神曲！OP2粤语版《ホログラム》](https://m.acfun.cn/v/%3Fac%3D47002699)
 
++ [傲慢舞](https://m.acfun.cn/v/%3Fac%3D47066303)
+
