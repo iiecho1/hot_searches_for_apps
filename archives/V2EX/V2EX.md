@@ -23,3 +23,7 @@
 
 + [家人们，有偿帮忙取名！](https://www.v2ex.com/t/1121569)
 
++ [消费贷 2.58 利率, 大家觉的到底了吗?](https://www.v2ex.com/t/1121531)
+
++ [退税六千多，想花钱： mac mini、 iPad mini、ps5、switch，大家给个建议？](https://www.v2ex.com/t/1121462)
+

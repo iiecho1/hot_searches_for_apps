@@ -129,3 +129,7 @@
 
 + [【C++笔记】C++IO流的深度剖析](https://blog.csdn.net/2301_81670477/article/details/146456032)
 
++ [《Python实战进阶》No34：卷积神经网络（CNN）图像分类实战](https://blog.csdn.net/yweng18/article/details/146540626)
+
++ [2025年入职/转行网络安全，该如何规划？网络安全职业规划](https://blog.csdn.net/2401_85025054/article/details/146519718)
+

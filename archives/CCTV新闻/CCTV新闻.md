@@ -199,3 +199,15 @@
 
 + [俄副外长：谈论重启俄美战略稳定对话“为时尚早”](https://news.cctv.com/2025/03/28/ARTITCqjXx2y12uRdXiZcnLv250328.shtml)
 
++ [国际观察：怎么看美国“断粮”部分反华机构](https://news.cctv.com/2025/03/28/ARTIz7LKWPl7VKPoSCF2RFI4250328.shtml)
+
++ [财政恶化、通胀困扰、经济减速——国际机构敲响美国经济警钟](https://news.cctv.com/2025/03/28/ARTIedJlat1H3V0ARSrGpUOJ250328.shtml)
+
++ [葡萄牙总理宣布将向乌克兰提供2.05亿欧元军事援助](https://news.cctv.com/2025/03/28/ARTIRExMIf1LiS3V7iv4OtTG250328.shtml)
+
++ [墨西哥多家行业协会联合发声：美征税行为严重损害北美汽车工业](https://news.cctv.com/2025/03/28/ARTIyp2Bj7WIPWOjjaMqf5jq250328.shtml)
+
++ [苏丹武装部队：已清除苏丹快速支援部队在首都的最后残余势力](https://news.cctv.com/2025/03/28/ARTIF5tbfByvPyFYhLT4sX5h250328.shtml)
+
++ [美国华盛顿州法官阻止特朗普禁止跨性别者参军的命令](https://news.cctv.com/2025/03/28/ARTIaipMUhZP2vHUiKXUlHYu250328.shtml)
+
