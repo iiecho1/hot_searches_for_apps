@@ -281,3 +281,7 @@
 
 + [乌副总理：乌克兰政府已收到美国矿产协议文本](https://news.cctv.com/2025/03/28/ARTIPatVhCHc5BBIlWC6gZHg250328.shtml)
 
++ [缅甸地震已造成超50人死亡300人受伤](https://news.cctv.com/2025/03/28/ARTIEz5mWpH3EW1Hk9umbOAZ250328.shtml)
+
++ [受地震影响 缅甸国际航空往返内比都和曼德勒省所有航班取消](https://news.cctv.com/2025/03/28/ARTI0Eg8ZfryEa50qwIfibaA250328.shtml)
+

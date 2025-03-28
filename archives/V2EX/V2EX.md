@@ -49,3 +49,5 @@
 
 + [GPT-4o 生成吉卜力风格漫画](https://www.v2ex.com/t/1121649)
 
++ [技术栈选择： Java 还是 Python](https://www.v2ex.com/t/1121609)
+
