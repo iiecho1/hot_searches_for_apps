@@ -137,3 +137,7 @@
 
 + [【HarmonyOS4＋NEXT】TextInput 组件：text 深度解析](https://blog.csdn.net/m0_55394328/article/details/146547136)
 
++ [使用Redis实现分布式锁的技术详解](https://blog.csdn.net/chenmin139400/article/details/146582288)
+
++ [C#云原生网络的服务发现与负载均衡](https://blog.csdn.net/2401_88677290/article/details/146296016)
+
