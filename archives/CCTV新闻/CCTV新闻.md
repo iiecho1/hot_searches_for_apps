@@ -211,3 +211,11 @@
 
 + [美国华盛顿州法官阻止特朗普禁止跨性别者参军的命令](https://news.cctv.com/2025/03/28/ARTIaipMUhZP2vHUiKXUlHYu250328.shtml)
 
++ [阿尔及利亚国防部：军方查获超120公斤可卡因](https://news.cctv.com/2025/03/28/ARTI7eTRPLXv9AVhMD9yPvic250328.shtml)
+
++ [石破茂：美国加征汽车关税对日本经济影响“非常大”](https://news.cctv.com/2025/03/28/ARTIy6Rb5VckGsHIOXwwyUJ3250328.shtml)
+
++ [胡塞武装称美军对也门发动40余次袭击](https://news.cctv.com/2025/03/28/ARTIgY0TuXmUkJK7nKxSzpKF250328.shtml)
+
++ [规模最大、伤亡最多 韩国最严重山火影响区域扩大至4.8万公顷](https://news.cctv.com/2025/03/28/ARTIIa2NlNWbgghEqRjvGjYG250328.shtml)
+
