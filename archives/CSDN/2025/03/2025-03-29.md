@@ -213,3 +213,5 @@
 
 + [[微信小程序]对接sse接口](https://blog.csdn.net/yys190418/article/details/146562179)
 
++ [【云服务器】在 Linux（Ubuntu / CentOS 7）上快速搭建我的世界 Minecraft 服务器，并实现远程联机，详细教程](https://blog.csdn.net/m0_66434421/article/details/146592251)
+
