@@ -151,3 +151,11 @@
 
 + [DexGrasp Anything：具有物理-觉察的普遍机器人灵巧抓取](https://blog.csdn.net/yorkhunter/article/details/146525127)
 
++ [编程自学指南：java程序设计开发，HTTPS 与认证授权进阶， HTTPS 的核心原理与加密机制，HTTPS 的配置流程与证书管理，认证与授权的核心概念与实现方式](https://blog.csdn.net/beijing_oracle/article/details/146568772)
+
++ [苹果与安卓，鸿蒙下跨设备，应用分享](https://blog.csdn.net/LJY_CF/article/details/146539166)
+
++ [uniapp打包发布微信小程序](https://blog.csdn.net/yonghuid123453/article/details/146550202)
+
++ [uniapp实现小票打印 兼容微信小程序安卓](https://blog.csdn.net/luck332/article/details/146551634)
+
