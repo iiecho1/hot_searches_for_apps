@@ -173,3 +173,5 @@
 
 + [近看外交｜习近平主席亲切会见后，国际工商界代表这样说](https://news.cctv.com/2025/03/29/ARTIreZuuF5VaCS6G5XdJEsE250329.shtml)
 
++ [博鳌亚洲论坛｜专访：高关税让美国经济面临“真实的衰退风险”——访世界银行前副行长伊恩·戈尔丁](https://news.cctv.com/2025/03/29/ARTI8tfVBBv45XDfsqgvlkbb250329.shtml)
+
