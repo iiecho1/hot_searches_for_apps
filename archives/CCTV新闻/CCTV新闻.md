@@ -181,3 +181,15 @@
 
 + [《自然》杂志调查：约75%的美科研人员考虑离开美国](https://news.cctv.com/2025/03/29/ARTIrhvqEx69Wzj7h1cK8X26250329.shtml)
 
++ [缅甸强震遇难人数升至1007人](https://news.cctv.com/2025/03/29/ARTIOoTLWlc4KFFPdnBanI7j250329.shtml)
+
++ [西班牙首相呼吁美国停止对欧盟产品加征关税](https://news.cctv.com/2025/03/29/ARTInJ28lQjwvmHzj21gyxfr250329.shtml)
+
++ [博鳌亚洲论坛｜世界银行前副行长：美经济衰退或发生在两个季度后](https://news.cctv.com/2025/03/29/ARTIYAzbjDOt2A6TEu3dHBrH250329.shtml)
+
++ [【中国那些事儿】China Travel热度不减！多项便利政策措施助力老外多彩中国行](https://news.cctv.com/2025/03/29/ARTIRISDV6RpmY5CZSgvK8PV250329.shtml)
+
++ [高端访谈丨“期待孟中两国合作迈入新阶段”——访孟加拉国临时政府领导人尤努斯](https://news.cctv.com/2025/03/29/ARTI2LzeAzLSdQ9Li4s4YkgC250329.shtml)
+
++ [总台现场直击丨记者奔赴缅甸地震灾区 沿途通讯普遍中断](https://news.cctv.com/2025/03/29/ARTIP5bOhTXbvG6Zs2klhnfU250329.shtml)
+
