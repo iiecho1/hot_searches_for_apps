@@ -193,3 +193,7 @@
 
 + [总台现场直击丨记者奔赴缅甸地震灾区 沿途通讯普遍中断](https://news.cctv.com/2025/03/29/ARTIP5bOhTXbvG6Zs2klhnfU250329.shtml)
 
++ [美媒爆“美国防长曾携妻子参加两场与外国军方官员的‘敏感会议’”，五角大楼回应](https://news.cctv.com/2025/03/29/ARTIC1cgPgn0TgtpISyD388n250329.shtml)
+
++ [胡塞武装：美军近两日对也门发动近70次空袭](https://news.cctv.com/2025/03/29/ARTIcTNsfoThmx09rNo96iXd250329.shtml)
+

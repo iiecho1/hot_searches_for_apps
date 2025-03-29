@@ -55,3 +55,7 @@
 
 + [小体积低功耗+ECC 内存的 NAS 有没有解](https://www.v2ex.com/t/1121941)
 
++ [面试快 2 个月了，最终被迫去苏州了](https://www.v2ex.com/t/1121886)
+
++ [公司 IP 被送中了](https://www.v2ex.com/t/1121926)
+
