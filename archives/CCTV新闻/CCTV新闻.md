@@ -163,3 +163,7 @@
 
 + [科普丨缅甸地震破坏力缘何如此巨大](https://news.cctv.com/2025/03/30/ARTIUpKcxJZsGfgkbNQlc7yY250330.shtml)
 
++ [联合国紧急拨款500万美元用于缅甸地震救援](https://news.cctv.com/2025/03/30/ARTIdJX0anJXuv0MRSj1WNYL250330.shtml)
+
++ [苏丹武装部队总司令：拒绝与快速支援部队谈判](https://news.cctv.com/2025/03/30/ARTIhig8mQ2ziTdVmA5C6x71250330.shtml)
+
