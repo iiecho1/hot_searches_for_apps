@@ -111,3 +111,23 @@
 
 + [【云原生】docker 搭建单机PostgreSQL操作详解](https://blog.csdn.net/congge_study/article/details/146703863)
 
++ [编程技术水平横向和垂直发展的抉择全方位分析](https://blog.csdn.net/sixpp/article/details/146607638)
+
++ [PostgreSQL： GIN 索引详解](https://blog.csdn.net/lilinhai548/article/details/146549265)
+
++ [数据库----单表、多表](https://blog.csdn.net/wxhxmj/article/details/146531016)
+
++ [【系统架构设计师】数据库系统 ④ ( 关系模型 | 数据模型 三要素 | 数据模型 种类 | 关系模型 的 表示形式 | 关系模型相关概念 | 完整性约束 | 触发器 )](https://blog.csdn.net/han1202012/article/details/146562923)
+
++ [k近邻算法K-Nearest Neighbors（KNN）](https://blog.csdn.net/2401_88885149/article/details/146599793)
+
++ [LabVIEW从需求快速开发的方法](https://blog.csdn.net/bjcyck/article/details/146583286)
+
++ [wx162基于springboot+vue+uniapp的在线办公小程序](https://blog.csdn.net/shmp54xmu/article/details/146608887)
+
++ [OpenHarmony子系统开发 - init启动引导组件（八） ](https://blog.csdn.net/benco1986/article/details/146583717)
+
++ [谷歌Android闭源与鸿蒙崛起：一场关于技术主权的生态博弈](https://blog.csdn.net/finally_vince/article/details/146600803)
+
++ [学习threejs，使用多面体（IcosahedronGeometry、TetrahedronGeometry、OctahedronGeometry等）](https://blog.csdn.net/qq_28419035/article/details/146555661)
+
