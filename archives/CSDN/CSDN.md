@@ -131,3 +131,5 @@
 
 + [学习threejs，使用多面体（IcosahedronGeometry、TetrahedronGeometry、OctahedronGeometry等）](https://blog.csdn.net/qq_28419035/article/details/146555661)
 
++ [智能仪表板DevExpress Dashboard v24.2新版亮点：支持.NET 9](https://blog.csdn.net/AABBbaby/article/details/146601343)
+
