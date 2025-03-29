@@ -175,3 +175,7 @@
 
 + [博鳌亚洲论坛｜专访：高关税让美国经济面临“真实的衰退风险”——访世界银行前副行长伊恩·戈尔丁](https://news.cctv.com/2025/03/29/ARTI8tfVBBv45XDfsqgvlkbb250329.shtml)
 
++ [中国救援队赴缅甸地震灾区实施国际救援](https://news.cctv.com/2025/03/29/ARTImeZQ65LsSaKHCtfJKIHR250329.shtml)
+
++ [意大利民众漫步郁金香花田](https://photo.cctv.com/2025/03/29/PHOApGl7Zvh0btF6RwY0BOnt250329.shtml)
+
