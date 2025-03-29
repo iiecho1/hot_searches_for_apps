@@ -65,3 +65,5 @@
 
 + [Chocolate cream](https://m.acfun.cn/v/%3Fac%3D47070864)
 
++ [【出道介绍】一封来自一年后的信](https://m.acfun.cn/v/%3Fac%3D47068554)
+
