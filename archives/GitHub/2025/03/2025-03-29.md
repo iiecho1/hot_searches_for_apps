@@ -29,3 +29,15 @@
 
 + [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 
++ [agno-agi/agno](https://github.com/agno-agi/agno)
+
++ [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
+
++ [angular/angular](https://github.com/angular/angular)
+
++ [grpc/grpc-go](https://github.com/grpc/grpc-go)
+
++ [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+
++ [gogs/gogs](https://github.com/gogs/gogs)
+
