@@ -133,3 +133,7 @@
 
 + [智能仪表板DevExpress Dashboard v24.2新版亮点：支持.NET 9](https://blog.csdn.net/AABBbaby/article/details/146601343)
 
++ [【PyTorch】深度学习：在VS Code中使用JupyTer以及PyCharm的相关使用](https://blog.csdn.net/2302_79970065/article/details/146611191)
+
++ [探索MVC、MVP、MVVM和DDD架构在不同编程语言中的实现差异](https://blog.csdn.net/jiarry/article/details/146606429)
+

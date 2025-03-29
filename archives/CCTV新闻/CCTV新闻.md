@@ -167,3 +167,9 @@
 
 + [苏丹武装部队总司令：拒绝与快速支援部队谈判](https://news.cctv.com/2025/03/30/ARTIhig8mQ2ziTdVmA5C6x71250330.shtml)
 
++ [德国汉诺威一养老院发生火灾50余人受伤](https://news.cctv.com/2025/03/30/ARTI7xDAhZM1ZMtuDbEiNYnV250330.shtml)
+
++ [以官员称哈马斯同意释放5名人质换取50天停火](https://news.cctv.com/2025/03/30/ARTIfxwXGeNWcS2OdG2yetmX250330.shtml)
+
++ [哈马斯官员称以色列拖延并逃避达成加沙停火协议](https://news.cctv.com/2025/03/30/ARTIM0z0UKrS8N7B8YaVemmr250330.shtml)
+
