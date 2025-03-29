@@ -159,3 +159,5 @@
 
 + [uniapp实现小票打印 兼容微信小程序安卓](https://blog.csdn.net/luck332/article/details/146551634)
 
++ [进程状态：Linux的幕后指挥管理，穿越操作系统进程的静与动](https://blog.csdn.net/2303_81060385/article/details/146326627)
+

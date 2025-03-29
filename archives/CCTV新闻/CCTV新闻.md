@@ -169,3 +169,7 @@
 
 + [韩国义城郡部分地区山火发生复燃](https://news.cctv.com/2025/03/29/ARTIsd4VQTflXnn3DHxKlbbg250329.shtml)
 
++ [外媒：特朗普政府正式确定“关闭”美国国际开发署计划](https://news.cctv.com/2025/03/29/ARTIy1SWKWzlZz8V5dYYgSsY250329.shtml)
+
++ [近看外交｜习近平主席亲切会见后，国际工商界代表这样说](https://news.cctv.com/2025/03/29/ARTIreZuuF5VaCS6G5XdJEsE250329.shtml)
+
