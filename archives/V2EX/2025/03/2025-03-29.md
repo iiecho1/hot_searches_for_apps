@@ -33,3 +33,7 @@
 
 + [气死我了！记录一下武汉 golang 面试经历](https://www.v2ex.com/t/1121740)
 
++ [有没有必要把 n100 换成 m4 mac mini](https://www.v2ex.com/t/1121811)
+
++ [大厂里高龄低职级程序员的生存状况](https://www.v2ex.com/t/1121728)
+
