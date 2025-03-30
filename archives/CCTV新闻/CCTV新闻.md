@@ -247,3 +247,7 @@
 
 + [中国救援队抵达受灾严重的曼德勒市](https://news.cctv.com/2025/03/30/ARTILuw8v7A1UXMfs37zrsfQ250330.shtml)
 
++ [跨越太平洋的“无蚊”之约——记中国助力洪都拉斯抗击登革热](https://news.cctv.com/2025/03/30/ARTIS3en5SE8dZIoJuy8vg84250330.shtml)
+
++ [中国14颗遥感卫星助力缅甸震后应急救援](https://news.cctv.com/2025/03/30/ARTIfYX5jPz5nkCJi73bq5VA250330.shtml)
+
