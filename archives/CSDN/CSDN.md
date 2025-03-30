@@ -159,3 +159,11 @@
 
 + [Python爬虫：开启数据抓取的奇幻之旅（一）](https://blog.csdn.net/weixin_73295475/article/details/146711412)
 
++ [LabVIEW液压控制系统开发要点](https://blog.csdn.net/bjcyck/article/details/146720172)
+
++ [人工智能生成内容（AIGC）开源项目的协作机制与技术贡献](https://blog.csdn.net/weixin_52908342/article/details/146599104)
+
++ [【动手学深度学习】#6 卷积神经网络](https://blog.csdn.net/mojin2005/article/details/146608288)
+
++ [【AI大模型前沿】BioMedGPT-R1：清华联合水木分子打造的多模态生物医药大模型，开启智能研发新纪元](https://blog.csdn.net/xiaobing259/article/details/146493176)
+
