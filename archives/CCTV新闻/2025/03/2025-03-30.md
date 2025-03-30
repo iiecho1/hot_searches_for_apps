@@ -185,3 +185,17 @@
 
 + [美国政府滥用“关税大棒”招致多方反对和批评](https://news.cctv.com/2025/03/30/ARTIQ3uM0AtqqCz2Du9vlgM1250330.shtml)
 
++ [13名中国公民在缅甸强震中受伤](https://news.cctv.com/2025/03/30/ARTIx0ZlYMOqhqWbKx1zv74i250330.shtml)
+
++ [美防长赞二战日军“英勇”惹众怒：还记得谁袭击了珍珠港？](https://news.cctv.com/2025/03/30/ARTIDW3ROADG0S2OBd6Cs6sx250330.shtml)
+
++ [美国向中东部署第二艘航母 “卡尔·文森”号离开关岛基地](https://news.cctv.com/2025/03/30/ARTIyLmjf7VzaJLqGr04ovis250330.shtml)
+
++ [美国副总统“劝降”格陵兰岛 特朗普：必须拿下](https://news.cctv.com/2025/03/30/ARTItyM5MPz2zYn516FU09VJ250330.shtml)
+
++ [特朗普称“不在乎”汽车制造商因关税涨价](https://news.cctv.com/2025/03/30/ARTItuWvBqi0vzMGqq6uJXkX250330.shtml)
+
++ [中国驻缅甸大使馆：已确认有12名中国公民在强震中受伤](https://news.cctv.com/2025/03/30/ARTINcysgMk3hCUmtLq5RL20250330.shtml)
+
++ [泰国派遣军方救援队伍前往缅甸地震灾区](https://news.cctv.com/2025/03/30/ARTIrF3oPo46YMDU8Qe2OSuU250330.shtml)
+
