@@ -243,3 +243,7 @@
 
 + [死海：水位下降 沟壑蔓延](https://photo.cctv.com/2025/03/30/PHOAUS9vDKVM6mf6zmLjvBa3250330.shtml)
 
++ [冲突爆发726天后 苏丹快速支援部队首次撤出首都喀土穆](https://news.cctv.com/2025/03/30/ARTIeYfHUot0RDC2LdUjKnzJ250330.shtml)
+
++ [中国救援队抵达受灾严重的曼德勒市](https://news.cctv.com/2025/03/30/ARTILuw8v7A1UXMfs37zrsfQ250330.shtml)
+

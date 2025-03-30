@@ -27,3 +27,21 @@
 
 + [gogs/gogs](https://github.com/gogs/gogs)
 
++ [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+
++ [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
+
++ [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
+
++ [causify-ai/helpers](https://github.com/causify-ai/helpers)
+
++ [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+
++ [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [neovim/neovim](https://github.com/neovim/neovim)
+
++ [coollabsio/coolify](https://github.com/coollabsio/coolify)
+
++ [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+

@@ -183,3 +183,5 @@
 
 + [软链接解决docker中的conda路径错误：ModuleNotFoundError: No module named ‘Cpython‘](https://blog.csdn.net/jining11/article/details/144829890)
 
++ [最最最基本神经网络及其原理、程序](https://blog.csdn.net/m0_69722969/article/details/146601526)
+
