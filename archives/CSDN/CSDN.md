@@ -131,3 +131,5 @@
 
 + [[c++项目]基于微服务的聊天室服务端测试](https://blog.csdn.net/weixin_73861555/article/details/146711828)
 
++ [文章配图新纪元：OpenAI新推出的GPT-4o原生图像生成功能启示](https://blog.csdn.net/kkiron/article/details/146770882)
+
