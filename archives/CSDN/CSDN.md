@@ -101,3 +101,13 @@
 
 + [精灵图（CSS Sprite）制作教程](https://blog.csdn.net/AI_U20/article/details/146606151)
 
++ [合合信息TextIn大模型加速器 2.0来了：智能文档解析和图表解析能力全面升级](https://blog.csdn.net/qq_44866828/article/details/146583632)
+
++ [19.OpenCV图像二值化](https://blog.csdn.net/qp135790/article/details/146709768)
+
++ [hive数据仓库](https://blog.csdn.net/qq_45260641/article/details/145816141)
+
++ [基于Huggingface的lerobot项目在so-arm100机械臂上的复现笔记](https://blog.csdn.net/2303_80018785/article/details/146689608)
+
++ [基于YALMIP+CPLEX的带储能微电网调度问题最优求解matlab仿真](https://blog.csdn.net/hardware_player/article/details/146717472)
+
