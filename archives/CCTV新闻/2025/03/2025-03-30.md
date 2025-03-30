@@ -199,3 +199,5 @@
 
 + [泰国派遣军方救援队伍前往缅甸地震灾区](https://news.cctv.com/2025/03/30/ARTIrF3oPo46YMDU8Qe2OSuU250330.shtml)
 
++ [韩国庆尚南道山清郡山火主火已被扑灭](https://news.cctv.com/2025/03/30/ARTIMQXwOyLEVVD7pwDqcTXH250330.shtml)
+

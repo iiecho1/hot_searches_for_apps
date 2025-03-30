@@ -153,3 +153,9 @@
 
 + [时间轮算法：原理、演进与应用实践指南](https://blog.csdn.net/qq_30294911/article/details/146621701)
 
++ [Java 开发中的 AI 黑科技：如何用 AI 工具自动生成 Spring Boot 项目脚手架？](https://blog.csdn.net/CalEx_Tech/article/details/146591809)
+
++ [李想官宣开源整车操作系统](https://blog.csdn.net/timer_017/article/details/146573993)
+
++ [Python爬虫：开启数据抓取的奇幻之旅（一）](https://blog.csdn.net/weixin_73295475/article/details/146711412)
+
