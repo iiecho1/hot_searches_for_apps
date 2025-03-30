@@ -25,3 +25,27 @@
 
 + [小米徐洁云晒 Xiaomi EV Ultra Club 俱乐部首次会员聚会合影：SU7 Ultra 及车主“老爱车”齐聚一堂](https://m.ithome.com/html/841417.htm)
 
++ [抖音首次公开推荐算法原理](https://m.ithome.com/html/841763.htm)
+
++ [华为 Pura X“阔折叠”手机首销：首次全面搭载鸿蒙 5，售 7499 元起](https://m.ithome.com/html/841834.htm)
+
++ [美的集团 2024 年清仓小米股票](https://m.ithome.com/html/841866.htm)
+
++ [央视入股爱奇艺，持股比例占 0.9999%](https://m.ithome.com/html/841779.htm)
+
++ [15.58 万元起，比亚迪汉 DM-i / 唐 DM-i 非智驾版限时一口价公布](https://m.ithome.com/html/841772.htm)
+
++ [OPPO Find X8s 手机规格公布：重 179g、电池 5700mAh，首发天玑 9400+](https://m.ithome.com/html/841751.htm)
+
++ [蔚来李斌回应“钱花在哪了”：研发投入 600 亿、管理经营交“学费”、换电网络等](https://m.ithome.com/html/841792.htm)
+
++ [API 16 首个版本，华为鸿蒙 HarmonyOS 5.0.4 Release 新增和增强特性发布](https://m.ithome.com/html/841744.htm)
+
++ [支持平板、手机双端登录，微信鸿蒙版 App 1.0.5.34 版本邀测转尝鲜升级](https://m.ithome.com/html/841810.htm)
+
++ [华为：隔空传送和隔空截图操作手势相同，Pura X 在图库图片等场景仅支持隔空传送](https://m.ithome.com/html/841747.htm)
+
++ [外屏支持小艺私语功能，华为 Pura X 阔折叠手机获鸿蒙 HarmonyOS NEXT 5.0.1.105 升级](https://m.ithome.com/html/841845.htm)
+
++ [专为绕过“动力税”设计：特斯拉在新加坡推出零百加速 9.6 秒的焕新 Model Y 汽车 110 kW 后驱版](https://m.ithome.com/html/841417.htm)
+
