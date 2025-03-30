@@ -207,3 +207,21 @@
 
 + [苏丹武装冲突致29家媒体机构总部被彻底摧毁](https://news.cctv.com/2025/03/30/ARTITX09x7olIXzqOIbPf16l250330.shtml)
 
++ [为共创亚洲美好未来贡献智慧和力量（聚焦博鳌亚洲论坛2025年年会）](https://news.cctv.com/2025/03/30/ARTIJjzRDZE39ByhY5WtTWEo250330.shtml)
+
++ [乌克兰国防部宣布成立太空政策办公室](https://news.cctv.com/2025/03/30/ARTI4DX2pL1RoErFaFTmqXi1250330.shtml)
+
++ [缅甸领导人敏昂莱慰问中国云南救援医疗队](https://news.cctv.com/2025/03/30/ARTIOtm3f0VfKaEKU77d6dWK250330.shtml)
+
++ [缅甸强震死亡人数升至1700人](https://news.cctv.com/2025/03/30/ARTIwBpVyPa2EWeTHevuhfO1250330.shtml)
+
++ [全球瞭望丨日媒：各国应联手阻止美关税“暴举”](https://news.cctv.com/2025/03/30/ARTIJ0ij9Wm8BPZVhFjjjMJk250330.shtml)
+
++ [“中国式现代化提供了一种全新的现代化模式”——访埃及学者纳迪娅·希勒米](https://news.cctv.com/2025/03/30/ARTIjL55hZsnAmtLt2V3z9Jk250330.shtml)
+
++ [总台现场直击丨曼德勒震中居民：我爸妈被大楼压住了](https://news.cctv.com/2025/03/30/ARTIITQeXb2lqarLnLDgk78e250330.shtml)
+
++ [缅甸地震破坏力缘何巨大？实皆断裂带犹如“火药桶”](https://news.cctv.com/2025/03/30/ARTITvtSwqihdxJOIfW8NxHt250330.shtml)
+
++ [丹麦民众美使馆前抗议：美国走开 离格陵兰岛远点](https://news.cctv.com/2025/03/30/ARTI9IbPlrHNHZ57EBP1rN4Q250330.shtml)
+

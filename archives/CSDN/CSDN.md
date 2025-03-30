@@ -169,3 +169,5 @@
 
 + [认识一家公司：瑞芯微（Rockchip Electronics Co., Ltd.）以及旗下的两款芯片RK3288\RK3588](https://blog.csdn.net/lincyang/article/details/146589431)
 
++ [【数学建模】（启发式算法）模拟退火算法：原理、实现与应用](https://blog.csdn.net/Zlyzjiabjw547479/article/details/146559773)
+
