@@ -205,3 +205,17 @@
 
 + [嵌入式系统安全编码规范（V1.2）](https://blog.csdn.net/bifudoph/article/details/146704074)
 
++ [React编程的核心概念：数据流与观察者模式](https://blog.csdn.net/sixpp/article/details/146719181)
+
++ [19.OpenCV图像二值化](https://blog.csdn.net/qp135790/article/details/146709768)
+
++ [【MyBatis】MyBatis 操作数据库](https://blog.csdn.net/2403_87459748/article/details/146704297)
+
++ [自然语言处理，能否成为人工智能与人类语言完美交互的答案？](https://blog.csdn.net/2401_82648291/article/details/146568226)
+
++ [基于HTML5和CSS3实现3D旋转相册效果](https://blog.csdn.net/qq_43129878/article/details/146586213)
+
++ [模块化革命：树莓派CM5嵌入式工业计算机如何重构嵌入式系统开发边界](https://blog.csdn.net/weixin_49512855/article/details/146570577)
+
++ [基于Huggingface的lerobot项目在so-arm100机械臂上的复现笔记](https://blog.csdn.net/2303_80018785/article/details/146689608)
+
