@@ -127,3 +127,5 @@
 
 + [16 Junit单元测试框架、反射、注解、动态代理（黑马Java视频笔记）](https://blog.csdn.net/m0_61625388/article/details/146602637)
 
++ [【2025具身智能大模型·系列1】SpatialVLA：上海 AI Lab 联合上科大等推出的空间具身通用操作模型，赋能机器人3D空间理解](https://blog.csdn.net/xiaobing259/article/details/146723921)
+
