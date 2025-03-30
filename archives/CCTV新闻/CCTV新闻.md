@@ -225,3 +225,13 @@
 
 + [丹麦民众美使馆前抗议：美国走开 离格陵兰岛远点](https://news.cctv.com/2025/03/30/ARTI9IbPlrHNHZ57EBP1rN4Q250330.shtml)
 
++ [加纳海域一艘渔船遇袭 三名中国人失踪](https://news.cctv.com/2025/03/30/ARTIetH29q8LN2jnf4CJZCLZ250330.shtml)
+
++ [缅甸强震中受伤中国公民升至14人](https://news.cctv.com/2025/03/30/ARTIriq6PrxtYLQrf52y73Wk250330.shtml)
+
++ [缅甸曼德勒发生5.1级地震](https://news.cctv.com/2025/03/30/ARTIKvnHOHppIgvCD1wfpkRP250330.shtml)
+
++ [日本第11轮福岛核污染水排海结束 共排放约7800吨](https://news.cctv.com/2025/03/30/ARTIL39PfNyRN2PR4DP0IhtD250330.shtml)
+
++ [缅甸驻华大使：缅甸人民深切感受到中国兄弟的胞波情谊](https://news.cctv.com/2025/03/30/ARTIUetsP8otg3hL8AT78jpH250330.shtml)
+
