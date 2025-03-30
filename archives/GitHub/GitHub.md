@@ -25,3 +25,5 @@
 
 + [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 
++ [google/perfetto](https://github.com/google/perfetto)
+

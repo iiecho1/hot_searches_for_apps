@@ -111,3 +111,19 @@
 
 + [基于YALMIP+CPLEX的带储能微电网调度问题最优求解matlab仿真](https://blog.csdn.net/hardware_player/article/details/146717472)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式计算在基因测序数据分析中的性能优化（161）](https://blog.csdn.net/atgfg/article/details/146714793)
+
++ [基于Spring Boot的戒烟网站的设计与实现（LW+源码+讲解）](https://blog.csdn.net/hungelianshu123/article/details/146705733)
+
++ [大数据Spark（五十六）：Spark生态模块与运行模式](https://blog.csdn.net/xiaoweite1/article/details/146763564)
+
++ [【Spring Boot 与 Spring Cloud 深度 Mape 之九】分布式链路追踪：Sleuth 与 Zipkin/SkyWalking 集成实践](https://blog.csdn.net/weixin_52568491/article/details/146636984)
+
++ [Redis设计与实现-哨兵](https://blog.csdn.net/m0_50149847/article/details/146469085)
+
++ [Docker学习之dockerfile篇（day8）](https://blog.csdn.net/qq_44787802/article/details/146553464)
+
++ [大数据学习（92）-spark详解](https://blog.csdn.net/weixin_61006262/article/details/146607223)
+
++ [16 Junit单元测试框架、反射、注解、动态代理（黑马Java视频笔记）](https://blog.csdn.net/m0_61625388/article/details/146602637)
+
