@@ -129,3 +129,5 @@
 
 + [【2025具身智能大模型·系列1】SpatialVLA：上海 AI Lab 联合上科大等推出的空间具身通用操作模型，赋能机器人3D空间理解](https://blog.csdn.net/xiaobing259/article/details/146723921)
 
++ [[c++项目]基于微服务的聊天室服务端测试](https://blog.csdn.net/weixin_73861555/article/details/146711828)
+
