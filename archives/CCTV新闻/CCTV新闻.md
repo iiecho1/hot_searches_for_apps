@@ -175,3 +175,7 @@
 
 + [专访｜美关税政策外溢效应冲击非洲经济——访肯尼亚国际问题学者阿德希尔](https://news.cctv.com/2025/03/30/ARTI0br0QhSpUeqhQbLFyTly250330.shtml)
 
++ [一方有难八方支援 中国多方力量为缅甸灾区提供救灾援助](https://news.cctv.com/2025/03/30/ARTI9YSlvEzKyqOhM0tozydp250330.shtml)
+
++ [叙利亚组建新的过渡行政部门](https://news.cctv.com/2025/03/30/ARTIvkibvwajeNjoUykwOOqu250330.shtml)
+

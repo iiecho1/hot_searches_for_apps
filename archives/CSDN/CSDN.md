@@ -139,3 +139,5 @@
 
 + [处理 Linux 信号：进程控制与异常管理的核心](https://blog.csdn.net/Cayyyy/article/details/146717002)
 
++ [Java开发者指南：深入解析PBFT拜占庭容错算法](https://blog.csdn.net/martian665/article/details/146469447)
+

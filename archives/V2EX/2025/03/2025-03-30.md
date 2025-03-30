@@ -29,3 +29,5 @@
 
 + [建议鼻炎的兄弟们还是早点去检测下过敏原](https://www.v2ex.com/t/1121990)
 
++ [用 GPT4-o 生成了一个 V2EX icon](https://www.v2ex.com/t/1121938)
+
