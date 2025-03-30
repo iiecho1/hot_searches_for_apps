@@ -175,3 +175,11 @@
 
 + [Docker学习之dockerfile篇（day8）](https://blog.csdn.net/qq_44787802/article/details/146553464)
 
++ [MySQL 复制与主从架构（Master-Slave）](https://blog.csdn.net/feidaoxiaoli777/article/details/146636663)
+
++ [Docker容器化技术演进史](https://blog.csdn.net/2401_85655834/article/details/146636712)
+
++ [庙算兵棋推演AI开发初探（6-神经网络开发）](https://blog.csdn.net/sinat_27382047/article/details/144657349)
+
++ [软链接解决docker中的conda路径错误：ModuleNotFoundError: No module named ‘Cpython‘](https://blog.csdn.net/jining11/article/details/144829890)
+

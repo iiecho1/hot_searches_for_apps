@@ -235,3 +235,11 @@
 
 + [缅甸驻华大使：缅甸人民深切感受到中国兄弟的胞波情谊](https://news.cctv.com/2025/03/30/ARTIUetsP8otg3hL8AT78jpH250330.shtml)
 
++ [特朗普：为得到格陵兰岛，不排除使用军事手段可能性](https://news.cctv.com/2025/03/30/ARTIsy98QaNW1uJV6SyvJ6zJ250330.shtml)
+
++ [以军袭击加沙地带汗尤尼斯 已致10人死亡](https://news.cctv.com/2025/03/30/ARTIvmKM0IsiMeoA443y6y6m250330.shtml)
+
++ [跨越3600公里 镜头记录中国救援队彻夜奔赴缅甸震区](https://news.cctv.com/2025/03/30/ARTIzxJKAqaaB5n9yxLLaPGz250330.shtml)
+
++ [死海：水位下降 沟壑蔓延](https://photo.cctv.com/2025/03/30/PHOAUS9vDKVM6mf6zmLjvBa3250330.shtml)
+
