@@ -251,3 +251,5 @@
 
 + [中国14颗遥感卫星助力缅甸震后应急救援](https://news.cctv.com/2025/03/30/ARTIfYX5jPz5nkCJi73bq5VA250330.shtml)
 
++ [汤加附近发生7.3级地震](https://news.cctv.com/2025/03/30/ARTIlDZAda926dLJl3Y8l3jK250330.shtml)
+

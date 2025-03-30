@@ -191,3 +191,17 @@
 
 + [注意力蒸馏技术](https://blog.csdn.net/m0_68676142/article/details/146691274)
 
++ [【大模型】SpringBoot整合LangChain4j实现RAG检索实战详解](https://blog.csdn.net/zhangcongyi420/article/details/146280270)
+
++ [NeoRL-2: Near Real-World Benchmarks for Offline RL with Extended Realistic Scenarios 阅读笔记](https://blog.csdn.net/qq_29671287/article/details/146768759)
+
++ [MySQL数据库精研之旅第五期：CRUD的趣味探索(上)](https://blog.csdn.net/2401_85198927/article/details/146637487)
+
++ [【MySQL篇】事务管理，事务的特性及深入理解隔离级别](https://blog.csdn.net/2401_82677021/article/details/146521592)
+
++ [【 ＜二＞ 丹方改良：Spring 时代的 JavaWeb】之 Spring Boot 中的缓存技术：使用 Redis 提升性能](https://blog.csdn.net/FoyoDesigner/article/details/146686628)
+
++ [【TCP/IP】五层网络模型详解（以及封装分用讲解）](https://blog.csdn.net/2302_80639556/article/details/145450863)
+
++ [嵌入式系统安全编码规范（V1.2）](https://blog.csdn.net/bifudoph/article/details/146704074)
+
