@@ -161,3 +161,9 @@
 
 + [缅甸曼德勒一清真寺坍塌 10人丧生](https://news.cctv.com/2025/03/28/ARTIeZCSXMbO0TBl8ptODKZ8250328.shtml)
 
++ [特朗普威胁对俄石油征收二级关税 称计划与普京通话](https://news.cctv.com/2025/03/31/ARTIgzwvoZJxKBhkAg6m45d8250331.shtml)
+
++ [苏丹西部城市遭炮击 至少26人伤亡](https://news.cctv.com/2025/03/31/ARTIpYv2bnKTCGyUTcXiLMY6250331.shtml)
+
++ [泰国将地震灾害应对级别下调至二级](https://news.cctv.com/2025/03/31/ARTIbjtiEor252E4q28QHz7q250331.shtml)
+
