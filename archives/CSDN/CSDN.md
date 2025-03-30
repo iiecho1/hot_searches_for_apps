@@ -167,3 +167,5 @@
 
 + [【AI大模型前沿】BioMedGPT-R1：清华联合水木分子打造的多模态生物医药大模型，开启智能研发新纪元](https://blog.csdn.net/xiaobing259/article/details/146493176)
 
++ [认识一家公司：瑞芯微（Rockchip Electronics Co., Ltd.）以及旗下的两款芯片RK3288\RK3588](https://blog.csdn.net/lincyang/article/details/146589431)
+
