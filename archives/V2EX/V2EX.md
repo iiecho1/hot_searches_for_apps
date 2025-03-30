@@ -31,3 +31,7 @@
 
 + [用 GPT4-o 生成了一个 V2EX icon](https://www.v2ex.com/t/1121938)
 
++ [Adobe 简直是强盗](https://www.v2ex.com/t/1121983)
+
++ [为了方便给孩子锻炼专注力，做了个舒尔特方格训练小工具](https://www.v2ex.com/t/1121969)
+

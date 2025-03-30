@@ -141,3 +141,15 @@
 
 + [Java开发者指南：深入解析PBFT拜占庭容错算法](https://blog.csdn.net/martian665/article/details/146469447)
 
++ [Reactive编程：应用场景和传统比较](https://blog.csdn.net/sixpp/article/details/146636918)
+
++ [AI知识补全（八）：多模态大模型是什么？](https://blog.csdn.net/qq_51646682/article/details/146715329)
+
++ [解锁大语言模型潜力：LangChain，构建AI应用的全新框架](https://blog.csdn.net/weixin_53269650/article/details/146536996)
+
++ [【Linux内核系列】：文件ELF格式详解](https://blog.csdn.net/2301_80260194/article/details/146635950)
+
++ [.NET 集成 Velocity 模板引擎实现动态代码生成（高性能+易扩展）](https://blog.csdn.net/mss359681091/article/details/146710271)
+
++ [时间轮算法：原理、演进与应用实践指南](https://blog.csdn.net/qq_30294911/article/details/146621701)
+

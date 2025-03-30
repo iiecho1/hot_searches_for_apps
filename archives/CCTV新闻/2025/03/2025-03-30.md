@@ -179,3 +179,9 @@
 
 + [叙利亚组建新的过渡行政部门](https://news.cctv.com/2025/03/30/ARTIvkibvwajeNjoUykwOOqu250330.shtml)
 
++ [在缅中国公民目前安全状况如何？中国驻缅使馆介绍相关情况](https://news.cctv.com/2025/03/30/ARTIUimPnuIHT9aX1DUlmYEE250330.shtml)
+
++ [美副总统希望格陵兰岛选择美国“安全保护伞” 以确保美北极领导作用](https://news.cctv.com/2025/03/30/ARTINnnc7ligsAGDkfMH8KRH250330.shtml)
+
++ [美国政府滥用“关税大棒”招致多方反对和批评](https://news.cctv.com/2025/03/30/ARTIQ3uM0AtqqCz2Du9vlgM1250330.shtml)
+
