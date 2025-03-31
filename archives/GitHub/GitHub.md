@@ -27,3 +27,13 @@
 
 + [google/perfetto](https://github.com/google/perfetto)
 
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
++ [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+
++ [ocornut/imgui](https://github.com/ocornut/imgui)
+
++ [dubinc/dub](https://github.com/dubinc/dub)
+
++ [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server)
+
