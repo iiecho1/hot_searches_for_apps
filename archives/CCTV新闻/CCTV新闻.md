@@ -201,3 +201,9 @@
 
 + [加拿大冰风暴引发大规模断电 39万用户受影响](https://news.cctv.com/2025/03/31/ARTIHIFVNAqAqtRPL3wGZ8oR250331.shtml)
 
++ [缅甸强震已致中国公民1死15伤](https://news.cctv.com/2025/03/31/ARTI1kWab6GGqSvoNaCSoFht250331.shtml)
+
++ [法国收到美方来信后抗议：管得太宽了](https://news.cctv.com/2025/03/31/ARTIQSar4EjNAoQm8VvHjytZ250331.shtml)
+
++ [新西兰皇家学会原主席：中关村论坛展现中国高水平合作与创新趋势](https://news.cctv.com/2025/03/31/ARTIfZuk8YyP7Mwv8UWwEiyi250331.shtml)
+
