@@ -161,3 +161,5 @@
 
 + [联合国紧急拨款500万美元用于缅甸地震救援](https://news.cctv.com/2025/03/30/ARTIdJX0anJXuv0MRSj1WNYL250330.shtml)
 
++ [特朗普废除美联邦雇员集体谈判权 美工会提起诉讼](https://news.cctv.com/2025/04/01/ARTIeDXdDCcvUyDngEUJrxLu250401.shtml)
+
