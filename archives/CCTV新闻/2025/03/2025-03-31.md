@@ -167,3 +167,17 @@
 
 + [泰国将地震灾害应对级别下调至二级](https://news.cctv.com/2025/03/31/ARTIbjtiEor252E4q28QHz7q250331.shtml)
 
++ [格陵兰岛领导人驳斥美总统“夺岛”言论](https://news.cctv.com/2025/03/31/ARTI6K4t56RuhN53qRvpNkFf250331.shtml)
+
++ [【8点见】中国救援队在缅救出被困近60小时幸存者](https://news.cctv.com/2025/03/31/ARTIMUKDbMhphOyU3ldEXpoS250331.shtml)
+
++ [万斯刚走，丹麦首相宣布访格陵兰岛：期待继续推进合作关系](https://news.cctv.com/2025/03/31/ARTIDLSBnJojrUNOp7zG6VWS250331.shtml)
+
++ [涉嫌扫墓引发山火，韩国56岁男子被调查](https://news.cctv.com/2025/03/31/ARTIn9KuncLDnVXWZfnXSywE250331.shtml)
+
++ [韩国山火主要火点已被扑灭](https://news.cctv.com/2025/03/31/ARTIFWEPsrBU38GJcBhJaWeY250331.shtml)
+
++ [美媒：为有效遏制儿童肥胖等问题，墨西哥“封杀”校园垃圾食品](https://news.cctv.com/2025/03/31/ARTI4vcYx4cVAHdD1BJZOfS2250331.shtml)
+
++ [法国呼吁以色列停止袭击加沙并重返停火](https://news.cctv.com/2025/03/31/ARTIiI4E7gaWuP6sZUiFqQ68250331.shtml)
+
