@@ -153,3 +153,11 @@
 
 + [为什么idea显示数据库连接成功，但操作数据库时，两边数据不同步](https://blog.csdn.net/2301_76371717/article/details/146708838)
 
++ [51单片机的五类指令（三）——逻辑操作类指令](https://blog.csdn.net/2401_85409229/article/details/146769067)
+
++ [计算机网络相关知识小结](https://blog.csdn.net/2303_77543831/article/details/139220852)
+
++ [云原生系列-K8S实战](https://blog.csdn.net/George_huhu/article/details/146374332)
+
++ [【01】噩梦终结flutter配安卓android鸿蒙harmonyOS 以及next调试环境配鸿蒙和ios真机调试环境-flutter项目安卓环境配置](https://blog.csdn.net/2501_91093988/article/details/146596698)
+
