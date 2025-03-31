@@ -127,3 +127,5 @@
 
 + [合合信息IntFinQ知识库体验：大模型加速器2.0，助力企业走向文档智能化](https://blog.csdn.net/weixin_41793160/article/details/146813026)
 
++ [wx162基于springboot+vue+uniapp的在线办公小程序](https://blog.csdn.net/shmp54xmu/article/details/146608887)
+
