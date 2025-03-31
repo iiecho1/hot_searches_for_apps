@@ -125,3 +125,5 @@
 
 + [数据库系统概论|第二章：关系数据库—课程笔记3](https://blog.csdn.net/Always_away/article/details/146740228)
 
++ [合合信息IntFinQ知识库体验：大模型加速器2.0，助力企业走向文档智能化](https://blog.csdn.net/weixin_41793160/article/details/146813026)
+
