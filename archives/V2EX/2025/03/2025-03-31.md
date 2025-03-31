@@ -35,3 +35,7 @@
 
 + [[分享] Ghibli AI 工具 - 免费将照片转换为吉卜力动画风格 | GhibliAI.tools](https://www.v2ex.com/t/1122113)
 
++ [情感问题紧急求助！](https://www.v2ex.com/t/1122313)
+
++ [给我的小电驴装了一个监控，再也不怕被偷头盔了。](https://www.v2ex.com/t/1122268)
+

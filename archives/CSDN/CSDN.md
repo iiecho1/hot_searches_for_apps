@@ -189,3 +189,11 @@
 
 + [GaussDB数据库SQL开发实践与性能优化全解析](https://blog.csdn.net/GaussDB/article/details/146799373)
 
++ [深入解析：HarmonyOS Design设计语言的核心理念](https://blog.csdn.net/qq_44866828/article/details/146803335)
+
++ [对话式开发实战：用 Zulu 打造你的键盘习惯分析插件](https://blog.csdn.net/u012382425/article/details/146607667)
+
++ [GitHub上免费学习工具的精选汇总](https://blog.csdn.net/xinxiyinhe/article/details/146641471)
+
++ [网络原理-TCP/IP](https://blog.csdn.net/2403_83543687/article/details/146725861)
+
