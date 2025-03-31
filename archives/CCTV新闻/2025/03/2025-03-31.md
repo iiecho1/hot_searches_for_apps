@@ -189,3 +189,15 @@
 
 + [特朗普说不排除寻求第三任期的可能性](https://news.cctv.com/2025/03/31/ARTIQoGU3YRp3rsdssgAM2C1250331.shtml)
 
++ [日本再发特大地震风险评估：或致近30万人死亡](https://news.cctv.com/2025/03/31/ARTIM9E4iHg23utja7pbZYaC250331.shtml)
+
++ [韩国“最严重山火”涉事嫌疑人被立案调查](https://news.cctv.com/2025/03/31/ARTIxXhxttDofwuQHYmLkeSe250331.shtml)
+
++ [特朗普称乌方想退出矿产协议 警告泽连斯基将面临大问题](https://news.cctv.com/2025/03/31/ARTIUk8uLrSXlu8E4NHSZSgy250331.shtml)
+
++ [“关税大棒”挥向全球 美国经济“首当其冲”](https://news.cctv.com/2025/03/31/ARTImRADwRH9rxbTez5555l6250331.shtml)
+
++ [美国迈阿密一公交车司机与乘客发生冲突 枪杀2人](https://news.cctv.com/2025/03/31/ARTIzC2WudpTkSHC2PlMUQco250331.shtml)
+
++ [加拿大冰风暴引发大规模断电 39万用户受影响](https://news.cctv.com/2025/03/31/ARTIHIFVNAqAqtRPL3wGZ8oR250331.shtml)
+

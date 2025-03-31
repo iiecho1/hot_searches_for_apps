@@ -145,3 +145,11 @@
 
 + [手机上（ios&安卓）如何打开网页控制台](https://blog.csdn.net/a2274001782/article/details/146603815)
 
++ [【YOLOv11】目标检测任务-实操过程](https://blog.csdn.net/2301_82023330/article/details/146694928)
+
++ [Flink介绍——实时计算核心论文之S4论文详解](https://blog.csdn.net/qq_41478243/article/details/146718081)
+
++ [Jenkins教程(自动化部署)](https://blog.csdn.net/weixin_39655220/article/details/146591174)
+
++ [为什么idea显示数据库连接成功，但操作数据库时，两边数据不同步](https://blog.csdn.net/2301_76371717/article/details/146708838)
+
