@@ -211,3 +211,7 @@
 
 + [关税让美国成为赢家？经济学家担忧：高关税增加经济衰退风险](https://news.cctv.com/2025/03/31/ARTIXyjMND1BEnuPn0WBijku250331.shtml)
 
++ [缅甸宣布3月31日至4月6日为全国哀悼日](https://news.cctv.com/2025/03/31/ARTIeUDDjDyg3JkmCxySSRUl250331.shtml)
+
++ [塔、吉两国总统签署互换国家边界协议批准书的议定书](https://news.cctv.com/2025/03/31/ARTIHMvnBLwyPOyDigKuKm3b250331.shtml)
+
