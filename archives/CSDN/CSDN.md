@@ -103,3 +103,25 @@
 
 + [探索HTML5 Canvas：创造动态与交互性网页内容的强大工具](https://blog.csdn.net/swordsman588415/article/details/146797381)
 
++ [【YOLOv11】目标检测任务-实操过程](https://blog.csdn.net/2301_82023330/article/details/146694928)
+
++ [SpringCloud-Nacos](https://blog.csdn.net/2302_79981885/article/details/146606612)
+
++ [《Python Web部署应知应会》No2：如何基于FastAPI 和 OLLAMA 架构实现高并发 AI 推理服务](https://blog.csdn.net/yweng18/article/details/146637067)
+
++ [在MCU工程中优化CPU工作效率的几种方法](https://blog.csdn.net/Dustinthewine/article/details/146719399)
+
++ [Java 大视界 -- Java 大数据在智慧矿山设备故障预测与预防性维护中的技术实现（163）](https://blog.csdn.net/atgfg/article/details/146771028)
+
++ [《Mycat核心技术》第21章：高可用负载均衡集群的实现（HAProxy + Keepalived + Mycat）](https://blog.csdn.net/l1028386804/article/details/146771261)
+
++ [Linux《进程概念（上）》](https://blog.csdn.net/2303_81098358/article/details/146613265)
+
++ [LInux指令篇 (1)在Linux指令的引领下，我们得以穿梭于文件的森林，探索目录的迷宫，领略进程的奔涌，以及网络的浩渺。每一条指令，都是一次心灵的触碰，一次智慧启迪。](https://blog.csdn.net/2301_80109683/article/details/146531246)
+
++ [Python调用手机摄像头检测火焰烟雾的三种方法](https://blog.csdn.net/mosquito_lover1/article/details/146776287)
+
++ [WEB安全--SQL注入--MySQL提权](https://blog.csdn.net/m0_74800552/article/details/146780209)
+
++ [数据库系统概论|第二章：关系数据库—课程笔记3](https://blog.csdn.net/Always_away/article/details/146740228)
+
