@@ -163,3 +163,7 @@
 
 + [特朗普废除美联邦雇员集体谈判权 美工会提起诉讼](https://news.cctv.com/2025/04/01/ARTIeDXdDCcvUyDngEUJrxLu250401.shtml)
 
++ [涉嫌走私燃油 伊朗伊斯兰革命卫队扣押两艘油轮](https://news.cctv.com/2025/04/01/ARTIECo7A1GbGQjwYkWArzs3250401.shtml)
+
++ [泰国曼谷防灾减灾指挥中心解除曼谷市地震灾区公告](https://news.cctv.com/2025/04/01/ARTIBUNOwQeCnsJa5IIL6LvD250401.shtml)
+
