@@ -229,3 +229,5 @@
 
 + [缅甸强震已造成3名中国公民遇难](https://news.cctv.com/2025/03/31/ARTI8GcwkCDzdiDWoSOxQVWm250331.shtml)
 
++ [缅甸强震已致该国2065人遇难](https://news.cctv.com/2025/03/31/ARTIfwzLFD2kKt9fUo0dtFc3250331.shtml)
+

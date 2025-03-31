@@ -217,3 +217,9 @@
 
 + [相机推流到网页中播放](https://blog.csdn.net/ngczx/article/details/146769410)
 
++ [边缘计算的崛起：从云端到设备端的IT新纪元](https://blog.csdn.net/SDFsoul/article/details/146763556)
+
++ [SQL SELECT DISTINCT 语句详解：精准去重的艺术](https://blog.csdn.net/weixin_57615234/article/details/146783659)
+
++ [量子计算：未来计算技术的革命性突破](https://blog.csdn.net/qq_74383080/article/details/146780605)
+
