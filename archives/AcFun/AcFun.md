@@ -69,3 +69,5 @@
 
 + [半夜浣熊叫事件](https://m.acfun.cn/v/%3Fac%3D47080669)
 
++ [IGN只给了5分的国产魂游 其实还挺好玩？](https://m.acfun.cn/v/%3Fac%3D47080700)
+

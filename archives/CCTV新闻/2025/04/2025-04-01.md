@@ -167,3 +167,13 @@
 
 + [泰国曼谷防灾减灾指挥中心解除曼谷市地震灾区公告](https://news.cctv.com/2025/04/01/ARTIBUNOwQeCnsJa5IIL6LvD250401.shtml)
 
++ [瑞典宣布向乌克兰提供近16亿美元军援计划](https://news.cctv.com/2025/04/01/ARTIdo7vjVhzjR8RWVPfG5TQ250331.shtml)
+
++ [支持防空系统 波兰将与美国签近20亿美元协议](https://news.cctv.com/2025/04/01/ARTIXBkGKhECjVIbsnzbmkkO250331.shtml)
+
++ [英首相府：美关税政策将影响英国 或采取报复措施](https://news.cctv.com/2025/04/01/ARTIfr5uX9k6csGaoG3bogDc250331.shtml)
+
++ [美千余名科学家签署公开信 控诉特朗普政府削减科研经费](https://news.cctv.com/2025/04/01/ARTIjI9FQun67xOC4FVow0q4250331.shtml)
+
++ [白宫：特朗普将于4月2日决定最终关税政策](https://news.cctv.com/2025/04/01/ARTI36jHrEfN21ohdywRPN1i250401.shtml)
+
