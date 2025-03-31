@@ -181,3 +181,11 @@
 
 + [法国呼吁以色列停止袭击加沙并重返停火](https://news.cctv.com/2025/03/31/ARTIiI4E7gaWuP6sZUiFqQ68250331.shtml)
 
++ [中国救援队在曼德勒开展救援](https://photo.cctv.com/2025/03/31/PHOAgNMqnsafcfUg2MFCXDnb250331.shtml)
+
++ [中国救援队在缅甸曼德勒持续开展救援行动已成功救出4名幸存者](https://news.cctv.com/2025/03/31/ARTI163aKWrYV8gWmD8CVRlc250331.shtml)
+
++ [瑙鲁驻华使馆今天开馆](https://news.cctv.com/2025/03/31/ARTIzOyPAv2aA9no3Lga02xP250331.shtml)
+
++ [特朗普说不排除寻求第三任期的可能性](https://news.cctv.com/2025/03/31/ARTIQoGU3YRp3rsdssgAM2C1250331.shtml)
+

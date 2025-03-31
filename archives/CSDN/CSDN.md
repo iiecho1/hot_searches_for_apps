@@ -139,3 +139,9 @@
 
 + [FPGA调试笔记](https://blog.csdn.net/weixin_51418325/article/details/146686056)
 
++ [TensorFlow深度学习实战（13）——神经嵌入详解](https://blog.csdn.net/LOVEmy134611/article/details/146798353)
+
++ [《Python Web部署应知应会》No2：如何基于FastAPI 和 OLLAMA 架构实现高并发 AI 推理服务](https://blog.csdn.net/yweng18/article/details/146637067)
+
++ [手机上（ios&安卓）如何打开网页控制台](https://blog.csdn.net/a2274001782/article/details/146603815)
+
