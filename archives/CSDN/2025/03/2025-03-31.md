@@ -209,3 +209,7 @@
 
 + [【Hadoop】Hadoop3.1.4完全分布式集群搭建](https://blog.csdn.net/2402_88422835/article/details/146765582)
 
++ [SQL 约束：确保数据完整性和一致性的关键](https://blog.csdn.net/2302_81410974/article/details/146840776)
+
++ [Pytorch中torch.nn的学习](https://blog.csdn.net/weixin_70673823/article/details/146722090)
+
