@@ -205,3 +205,7 @@
 
 + [kafka 与 RocketMQ对比](https://blog.csdn.net/dengjiayue/article/details/146777635)
 
++ [网红酒店|基于java+vue的网红酒店预定系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/146763348)
+
++ [【Hadoop】Hadoop3.1.4完全分布式集群搭建](https://blog.csdn.net/2402_88422835/article/details/146765582)
+

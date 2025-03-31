@@ -217,3 +217,15 @@
 
 + [挪用欧盟公款 法国极右翼领导人勒庞被定罪](https://news.cctv.com/2025/03/31/ARTICAxB0eBno2Z3UMWgeQPg250331.shtml)
 
++ [缅甸强震已致该国2056人遇难](https://news.cctv.com/2025/03/31/ARTIlv5pPfWPub5qQynPUuBv250331.shtml)
+
++ [缅甸强震已致中国公民3死14伤](https://news.cctv.com/2025/03/31/ARTI1q5APBg5dnWRuRO61PeU250331.shtml)
+
++ [中俄边境行｜跨境医疗热：中医服务“圈粉”俄罗斯人](https://news.cctv.com/2025/03/31/ARTI76ufDDyBEiBzsRo5iebw250331.shtml)
+
++ [国际观察丨中国农业技术解锁非洲“丰收密码”](https://news.cctv.com/2025/03/31/ARTImPY0KqjzJFBn78upj4FI250331.shtml)
+
++ [中国企业闪耀非洲未来能源展（国际视点）](https://news.cctv.com/2025/03/31/ARTI5P05intzQ02NaGwrViG3250331.shtml)
+
++ [缅甸强震已造成3名中国公民遇难](https://news.cctv.com/2025/03/31/ARTI8GcwkCDzdiDWoSOxQVWm250331.shtml)
+
