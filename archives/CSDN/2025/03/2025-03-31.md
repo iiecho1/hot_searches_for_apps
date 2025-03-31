@@ -183,3 +183,9 @@
 
 + [2025年春招-Linux面经](https://blog.csdn.net/m0_68987050/article/details/146603423)
 
++ [opencv图像处理之指纹验证](https://blog.csdn.net/2201_75345884/article/details/146778577)
+
++ [合合信息大模型加速器2.0：知识库智能化与文档图表解析能力实测](https://blog.csdn.net/g310773517/article/details/146806471)
+
++ [GaussDB数据库SQL开发实践与性能优化全解析](https://blog.csdn.net/GaussDB/article/details/146799373)
+

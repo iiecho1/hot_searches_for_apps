@@ -33,3 +33,5 @@
 
 + [iOS 端有好用的地震预警或者地震记录的 App 吗？](https://www.v2ex.com/t/1122161)
 
++ [[分享] Ghibli AI 工具 - 免费将照片转换为吉卜力动画风格 | GhibliAI.tools](https://www.v2ex.com/t/1122113)
+
