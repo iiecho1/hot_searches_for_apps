@@ -121,3 +121,7 @@
 
 + [Coze+TreeMind实测：秒出ISO标准流程图/脑图（附完整提示词）](https://blog.csdn.net/c18213590220/article/details/146771008)
 
++ [将代理连接到 Elasticsearch 使用模型上下文协议](https://blog.csdn.net/UbuntuTouch/article/details/146720751)
+
++ [2025年入职/转行网络安全，该如何规划？网络安全职业规划](https://blog.csdn.net/2401_85025054/article/details/146799287)
+
