@@ -221,3 +221,5 @@
 
 + [冯德莱恩：欧盟有能力抵制美国关税](https://news.cctv.com/2025/04/01/ARTIC75sP0vK8Wm3dAu9Xi5Z250401.shtml)
 
++ [缅甸全国举行仪式 为地震遇难者默哀](https://news.cctv.com/2025/04/01/ARTIBLTxf8tNGCQqVD08Gdrn250401.shtml)
+
