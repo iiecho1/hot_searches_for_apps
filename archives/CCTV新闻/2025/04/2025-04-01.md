@@ -197,3 +197,7 @@
 
 + [尹锡悦弹劾案4月4日宣判 将通过电视直播](https://news.cctv.com/2025/04/01/ARTIh55wdqZwSuCAZ80k6wh0250401.shtml)
 
++ [特朗普称沙特同意对美国公司投资“近万亿美元”](https://news.cctv.com/2025/04/01/ARTIpXfF4d0bx3KObXoThpLU250401.shtml)
+
++ [缅甸曼德勒地区已有403人获救](https://news.cctv.com/2025/04/01/ARTIbwf2M5iKlhXBB6d8Y99S250401.shtml)
+
