@@ -213,3 +213,9 @@
 
 + [Docker仓库选型指南：公有 vs 私有深度对比与企业级方案选型](https://blog.csdn.net/JuggShots100/article/details/146895198)
 
++ [【DeepSeek应用实践】Ollama Deep Researcher：Ollama平台部署DeepSeek-R1，打造本地AI研究助手](https://blog.csdn.net/xiaobing259/article/details/146774619)
+
++ [Matlab自学笔记四十九：类型识别：判断数据的类型和类别](https://blog.csdn.net/freexyn/article/details/146722114)
+
++ [wx203基于ssm+vue+uniapp的教学辅助小程序](https://blog.csdn.net/shmp54xmu/article/details/146888493)
+
