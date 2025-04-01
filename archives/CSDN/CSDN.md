@@ -219,3 +219,5 @@
 
 + [wx203基于ssm+vue+uniapp的教学辅助小程序](https://blog.csdn.net/shmp54xmu/article/details/146888493)
 
++ [DeepSeek-R1 模型现已在亚马逊云科技上提供](https://blog.csdn.net/qq_41640218/article/details/146896990)
+
