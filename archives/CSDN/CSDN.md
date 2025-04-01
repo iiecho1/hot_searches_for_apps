@@ -221,3 +221,15 @@
 
 + [DeepSeek-R1 模型现已在亚马逊云科技上提供](https://blog.csdn.net/qq_41640218/article/details/146896990)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式计算在基因测序数据分析中的性能优化（161）](https://blog.csdn.net/atgfg/article/details/146714793)
+
++ [嵌入式项目：基于QT与海思HI3861开发板设计的鸿蒙智能车](https://blog.csdn.net/m0_75180351/article/details/146609839)
+
++ [性能比拼: Go(Gin) vs Python(Flask)](https://blog.csdn.net/techdashen/article/details/146888518)
+
++ [解决Dify:failed to init dify plugin db问题](https://blog.csdn.net/liangma/article/details/146712552)
+
++ [开源的java内网穿透 - 维基代理（wiki-proxy）](https://blog.csdn.net/JPST228/article/details/146899278)
+
++ [阿里开源了端到端全模态大模型Qwen-2.5-Omni-7B之本地部署（windows篇）](https://blog.csdn.net/coco2d_x2014/article/details/146714633)
+
