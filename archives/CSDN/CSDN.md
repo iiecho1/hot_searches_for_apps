@@ -167,3 +167,11 @@
 
 + [【Json-Rpc #3】项目设计](https://blog.csdn.net/island1314/article/details/146804209)
 
++ [# 基于 OpenCV 的运动目标检测与跟踪](https://blog.csdn.net/www_pp_/article/details/146774722)
+
++ [QT第六课------QT界面优化------QSS](https://blog.csdn.net/m0_69984273/article/details/146258026)
+
++ [【云服务器】在Linux CentOS 7上快速搭建我的世界 Minecraft Fabric 服务器搭建，Fabric 模组详细搭建教程](https://blog.csdn.net/m0_66434421/article/details/146650760)
+
++ [如何屏蔽mac电脑更新提醒，禁止系统更新](https://blog.csdn.net/weixin_44786530/article/details/146770191)
+

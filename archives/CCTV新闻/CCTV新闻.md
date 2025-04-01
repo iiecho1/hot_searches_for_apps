@@ -203,3 +203,15 @@
 
 + [美国宇航员：“星际客机”问题 波音和美航天局都有责任](https://news.cctv.com/2025/04/01/ARTIdJzvCWeUxYOy3izO4ENc250401.shtml)
 
++ [特稿｜挺进缅甸灾区 中国救援争分夺秒](https://news.cctv.com/2025/04/01/ARTIxjvycdEoI0xOZM9AKIU9250401.shtml)
+
++ [美股创两年多来最差季度表现](https://news.cctv.com/2025/04/01/ARTI1XAfYS5jNTJqTQMt7dqQ250401.shtml)
+
++ [IMF总裁说关税不确定性或拖累全球经济增长](https://news.cctv.com/2025/04/01/ARTIR5oxA9KuR0juDOkk4OXG250401.shtml)
+
++ [意大利生育率创新低 人口持续萎缩](https://news.cctv.com/2025/04/01/ARTISNaZtk37zfAp6yBz9mJn250401.shtml)
+
++ [日本成立新的国家级感染症应对机构](https://news.cctv.com/2025/04/01/ARTIaz9Xc78oceZnI2ndDIle250401.shtml)
+
++ [特朗普称法国极右翼领导人勒庞被禁参选是“大事”](https://news.cctv.com/2025/04/01/ARTIyrbkJBixDt9QWa5DDG71250401.shtml)
+

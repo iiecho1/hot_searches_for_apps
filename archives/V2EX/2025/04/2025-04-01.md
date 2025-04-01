@@ -33,3 +33,9 @@
 
 + [两个 offer，一个 web3，一个互联网中厂，求建议](https://www.v2ex.com/t/1122446)
 
++ [本地区的公务员随便活动下都能转到其他部门吗](https://www.v2ex.com/t/1122450)
+
++ [初级程序员的未来是什么](https://www.v2ex.com/t/1122389)
+
++ [arc browser 公司新出的 dia browser 邀请 5 个人](https://www.v2ex.com/t/1122415)
+
