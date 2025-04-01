@@ -101,3 +101,9 @@
 
 + [【5G学习】终端UE能力信息](https://blog.csdn.net/weixin_42127042/article/details/146774111)
 
++ [华为OD机试 - 最优的投资方式 - 贪心算法（Python/JS/C/C++ 2025 A卷 200分）](https://blog.csdn.net/guorui_java/article/details/146908798)
+
++ [202年充电计划——自学手册 网络安全（黑客技术）](https://blog.csdn.net/2401_85027424/article/details/146799149)
+
++ [DeepSeek-R1 模型现已在亚马逊云科技上提供](https://blog.csdn.net/qq_41640218/article/details/146896990)
+
