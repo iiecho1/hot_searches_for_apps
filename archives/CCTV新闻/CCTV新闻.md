@@ -161,3 +161,9 @@
 
 + [跨越3600公里 镜头记录中国救援队彻夜奔赴缅甸震区](https://news.cctv.com/2025/03/30/ARTIzxJKAqaaB5n9yxLLaPGz250330.shtml)
 
++ [印度古吉拉特邦一工厂爆炸事故已致21人死亡](https://news.cctv.com/2025/04/02/ARTIjxQUcG7SQgAGXRuJkktP250402.shtml)
+
++ [泽连斯基称乌美正就矿产协议磋商 强调不涉北约问题](https://news.cctv.com/2025/04/02/ARTIADh1qqc4se74uj60zfk4250402.shtml)
+
++ [美官员被曝使用商业邮箱处理政府事务 华尔兹再涉其中](https://news.cctv.com/2025/04/02/ARTIU15ktdvA1vNkciILZ8u3250402.shtml)
+

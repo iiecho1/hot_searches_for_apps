@@ -25,3 +25,27 @@
 
 + [华为 nova 12、nova 13 等 4 款设备开启鸿蒙 HarmonyOS 5 公测版尝鲜升级](https://m.ithome.com/html/841417.htm)
 
++ [小米公司发言人正式回应 SU7 高速上碰撞爆燃事故](https://m.ithome.com/html/842269.htm)
+
++ [官方回应小米 SU7 高速上碰撞爆燃：事故造成 3 人身亡，专案组已介入调查](https://m.ithome.com/html/842246.htm)
+
++ [小米汽车客服回应 SU7 高速上碰撞爆燃：已成立专门工作小组赶赴现场](https://m.ithome.com/html/842214.htm)
+
++ [2025 年 3 月汽车销量 / 交付汇总：长安启源 3 月销量 15274 辆，累计销量超 22 万辆（实时更新）](https://m.ithome.com/html/842444.htm)
+
++ [雷军回应安徽 SU7 高速事故：无论发生什么，小米都不会回避](https://m.ithome.com/html/842442.htm)
+
++ [“SU7 高速碰撞爆燃”，小米汽车发布《关于大家关心问题的回答》](https://m.ithome.com/html/842264.htm)
+
++ [vivo 新品全家桶亮相：X200s / X200 Ultra 手机、Pad5 Pro / Pad SE 平板、Watch5 手表](https://m.ithome.com/html/842324.htm)
+
++ [上市 1 月立减 1000 元：苹果 iPhone 16e 手机国补再降价](https://m.ithome.com/html/842420.htm)
+
++ [消息称小米汽车 App 悄悄上线“安全分 Beta”功能，为 SU7 车主进行驾驶安全评估](https://m.ithome.com/html/842205.htm)
+
++ [2450 元起，小米 SU7 Ultra 全新赛轮赛道轮胎 Podium Track 01 上架](https://m.ithome.com/html/842240.htm)
+
++ [小米 SU7 汽车 3 月交付量超 29000 台](https://m.ithome.com/html/842289.htm)
+
++ [微软 Win11 将用“黑屏死机”取代“蓝屏死机”，“哭脸”亦遭移除](https://m.ithome.com/html/842293.htm)
+
