@@ -223,3 +223,13 @@
 
 + [缅甸全国举行仪式 为地震遇难者默哀](https://news.cctv.com/2025/04/01/ARTIBLTxf8tNGCQqVD08Gdrn250401.shtml)
 
++ [塞尔维亚与匈牙利签署国防合作协议](https://news.cctv.com/2025/04/01/ARTIIEH9OKLPUJ3dpcwxiFJO250401.shtml)
+
++ [克宫：俄美将继续接触 乌克兰问题需额外努力](https://news.cctv.com/2025/04/01/ARTIaRgvKMfk75WiRBhIWlUG250401.shtml)
+
++ [深度｜“二级关税”，特朗普再出关税乱拳](https://news.cctv.com/2025/04/01/ARTIlOEQ624kQVpjQfH155ON250401.shtml)
+
++ [专访：中国经济持续增长为全球带来机遇——访意中理事基金会会长马里奥·博塞利](https://news.cctv.com/2025/04/01/ARTIDFrviByAFazSVNt0snQP250401.shtml)
+
++ [争分夺秒，中国力量参与缅甸地震救援“黄金72小时”](https://news.cctv.com/2025/04/01/ARTIQBgyt8FT04wpH1y1qfaz250401.shtml)
+
