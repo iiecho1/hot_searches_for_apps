@@ -195,3 +195,9 @@
 
 + [DeepSeek+Kimi：PPT制作的效率革命](https://blog.csdn.net/beautifulmemory/article/details/146778738)
 
++ [Elasticsearch 评分机制](https://blog.csdn.net/qq_33807380/article/details/146578289)
+
++ [Python Flask并发demo（http并发与锁）独占接口、monkey功能还不太确定](https://blog.csdn.net/Dontla/article/details/146815642)
+
++ [用 Pinia 点燃 Vue 3 应用：状态管理革新之旅](https://blog.csdn.net/wangdashu1994/article/details/146895469)
+

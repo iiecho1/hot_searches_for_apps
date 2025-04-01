@@ -215,3 +215,9 @@
 
 + [特朗普称法国极右翼领导人勒庞被禁参选是“大事”](https://news.cctv.com/2025/04/01/ARTIyrbkJBixDt9QWa5DDG71250401.shtml)
 
++ [以总理取消任命新一任国家安全总局局长的决定](https://news.cctv.com/2025/04/01/ARTIsYN0mXp7POpAF2CZ8KS0250401.shtml)
+
++ [希腊比雷埃夫斯港2024年收入和利润创新高](https://news.cctv.com/2025/04/01/ARTIlnYU9YrC7zgiuZQ3VkQE250401.shtml)
+
++ [冯德莱恩：欧盟有能力抵制美国关税](https://news.cctv.com/2025/04/01/ARTIC75sP0vK8Wm3dAu9Xi5Z250401.shtml)
+
