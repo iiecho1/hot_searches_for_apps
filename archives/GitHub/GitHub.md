@@ -27,3 +27,13 @@
 
 + [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
++ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
+
++ [hackclub/hcb](https://github.com/hackclub/hcb)
+
++ [louislam/dockge](https://github.com/louislam/dockge)
+

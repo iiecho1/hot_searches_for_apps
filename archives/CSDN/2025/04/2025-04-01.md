@@ -209,3 +209,7 @@
 
 + [基于C++的PPO算法实现托马斯全旋动作的机器人训练系统](https://blog.csdn.net/lbh73/article/details/146801731)
 
++ [VideoMind：Chain-of-LoRA突破时间盲区让AI真正看懂长视频](https://blog.csdn.net/m0_46510245/article/details/146900486)
+
++ [Docker仓库选型指南：公有 vs 私有深度对比与企业级方案选型](https://blog.csdn.net/JuggShots100/article/details/146895198)
+
