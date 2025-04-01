@@ -107,3 +107,17 @@
 
 + [DeepSeek-R1 模型现已在亚马逊云科技上提供](https://blog.csdn.net/qq_41640218/article/details/146896990)
 
++ [【DeepSeek应用实践】Ollama Deep Researcher：Ollama平台部署DeepSeek-R1，打造本地AI研究助手](https://blog.csdn.net/xiaobing259/article/details/146774619)
+
++ [Java 大视界 -- Java 大数据在智能农业无人机植保作业路径规划与药效评估中的应用（165）](https://blog.csdn.net/atgfg/article/details/146886868)
+
++ [第二章:ROS架构_《ROS机器人开发实践》_notes](https://blog.csdn.net/lianghudream/article/details/146887792)
+
++ [深入解析HTTP请求方法：Spring Boot实战与最佳实践](https://blog.csdn.net/weixin_45793745/article/details/146888143)
+
++ [从零开始学习SQL](https://blog.csdn.net/KevinRay_0854/article/details/146717907)
+
++ [Python实现音频数字水印方法](https://blog.csdn.net/mosquito_lover1/article/details/146885967)
+
++ [Coze+TreeMind实测：秒出ISO标准流程图/脑图（附完整提示词）](https://blog.csdn.net/c18213590220/article/details/146771008)
+
