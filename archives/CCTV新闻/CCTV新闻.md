@@ -187,3 +187,13 @@
 
 + [特朗普：可能在4月1日晚或4月2日宣布关税细节](https://news.cctv.com/2025/04/01/ARTI0W3GRrs7bzRPc8B9rP0N250401.shtml)
 
++ [美“重振造船业”冲击全球航运](https://news.cctv.com/2025/04/01/ARTI8y5KKXsgtoULWM0q7AM8250401.shtml)
+
++ [“不仅将激发消费市场的活力，也将带动产业转型升级”](https://jingji.cctv.com/2025/04/01/ARTI6l842BSWkWoStfHRQatP250401.shtml)
+
++ [白宫称对“群聊门”的调查已结束 华尔兹将继续任职](https://news.cctv.com/2025/04/01/ARTImM5jKCdvdGojeGoqshFK250401.shtml)
+
++ [特朗普威胁胡塞武装和伊朗：“真正的痛苦尚未到来”](https://news.cctv.com/2025/04/01/ARTIGEgLQpOp5GIcoaK7BY2L250401.shtml)
+
++ [尹锡悦弹劾案4月4日宣判 将通过电视直播](https://news.cctv.com/2025/04/01/ARTIh55wdqZwSuCAZ80k6wh0250401.shtml)
+

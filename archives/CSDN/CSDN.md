@@ -143,3 +143,15 @@
 
 + [【Linux内核系列】：进程间通信：匿名管道实现通信](https://blog.csdn.net/2301_80260194/article/details/146868660)
 
++ [第五十四章 Spring之假如让你来写Boot——注解篇（上）](https://blog.csdn.net/weixin_42789334/article/details/145206476)
+
++ [【创新实训个人博客】deepseek api接入](https://blog.csdn.net/zhengjiuzheDu/article/details/146781059)
+
++ [Unity 连接DeepSeek](https://blog.csdn.net/m0_66358314/article/details/146884959)
+
++ [计算机网络和因特网](https://blog.csdn.net/ikkkkkkkl/article/details/146478175)
+
++ [Java 大视界 -- Java 大数据在智能农业无人机植保作业路径规划与药效评估中的应用（165）](https://blog.csdn.net/atgfg/article/details/146886868)
+
++ [CSS中的em,rem,vm,vh详解](https://blog.csdn.net/2202_75961842/article/details/146703597)
+
