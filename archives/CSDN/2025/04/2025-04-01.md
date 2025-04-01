@@ -189,3 +189,9 @@
 
 + [Docker镜像管理全攻略：build/push/pull/tag 核心操作深度解析](https://blog.csdn.net/huangxuanxuan01/article/details/146891937)
 
++ [数据挖掘实战-基于卷积神经网络CNN的口罩检测识别模型|91%准确率](https://blog.csdn.net/m0_64336780/article/details/139076073)
+
++ [第二章:ROS架构_《ROS机器人开发实践》_notes](https://blog.csdn.net/lianghudream/article/details/146887792)
+
++ [DeepSeek+Kimi：PPT制作的效率革命](https://blog.csdn.net/beautifulmemory/article/details/146778738)
+
