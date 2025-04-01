@@ -201,3 +201,5 @@
 
 + [缅甸曼德勒地区已有403人获救](https://news.cctv.com/2025/04/01/ARTIbwf2M5iKlhXBB6d8Y99S250401.shtml)
 
++ [美国宇航员：“星际客机”问题 波音和美航天局都有责任](https://news.cctv.com/2025/04/01/ARTIdJzvCWeUxYOy3izO4ENc250401.shtml)
+
