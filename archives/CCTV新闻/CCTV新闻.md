@@ -177,3 +177,13 @@
 
 + [白宫：特朗普将于4月2日决定最终关税政策](https://news.cctv.com/2025/04/01/ARTI36jHrEfN21ohdywRPN1i250401.shtml)
 
++ [德国商业火箭试飞失败，难挡欧洲航天雄心](https://news.cctv.com/2025/04/01/ARTI2wvz9LMtpMgV9y2E2FaA250401.shtml)
+
++ [接连发现老鼠蟑螂，日本连锁快餐店停业整顿4天](https://news.cctv.com/2025/04/01/ARTIuBBKPbupCfYR9RKqskmG250401.shtml)
+
++ [意大利一特斯拉展厅发生火灾 17辆车被毁](https://news.cctv.com/2025/04/01/ARTIB1lLud5L1nxo10TRenXl250401.shtml)
+
++ [俄方表示“特朗普对普京非常生气”报道内容系转述](https://news.cctv.com/2025/04/01/ARTID2pLe3htlaMSG36hjPQc250401.shtml)
+
++ [特朗普：可能在4月1日晚或4月2日宣布关税细节](https://news.cctv.com/2025/04/01/ARTI0W3GRrs7bzRPc8B9rP0N250401.shtml)
+
