@@ -175,3 +175,17 @@
 
 + [如何屏蔽mac电脑更新提醒，禁止系统更新](https://blog.csdn.net/weixin_44786530/article/details/146770191)
 
++ [【Web API系列】使用URL API实现高效的URL解析](https://blog.csdn.net/weixin_47754149/article/details/146371322)
+
++ [【Matlab】-- 基于MATLAB的飞蛾扑火算法与反向传播算法的混凝土强度预测](https://blog.csdn.net/wangshuqian1314/article/details/146767510)
+
++ [Webpack vs Vite：深度对比与实战示例，如何选择最佳构建工具？](https://blog.csdn.net/2401_85655988/article/details/146894189)
+
++ [Webpack vs Vite：深度对比与实战示例，如何选择最佳构建工具？](https://blog.csdn.net/qq39138814/article/details/146894516)
+
++ [深入解析HTTP请求方法：Spring Boot实战与最佳实践](https://blog.csdn.net/weixin_45793745/article/details/146888143)
+
++ [智慧路灯网络安全入侵监测](https://blog.csdn.net/2501_91106766/article/details/146888592)
+
++ [Docker镜像管理全攻略：build/push/pull/tag 核心操作深度解析](https://blog.csdn.net/huangxuanxuan01/article/details/146891937)
+

@@ -39,3 +39,5 @@
 
 + [arc browser 公司新出的 dia browser 邀请 5 个人](https://www.v2ex.com/t/1122415)
 
++ [电车到底安不安全，今天群里疯传某 7 着火，烧死了 3 个花季少女](https://www.v2ex.com/t/1122485)
+
