@@ -155,3 +155,23 @@
 
 + [WebSocket原理详解(二)](https://blog.csdn.net/haokan123456789/article/details/146923343)
 
++ [标签噪声下的模型评估：如何准确评估AI模型的真实性能，提高模型性能测量的可信度](https://blog.csdn.net/m0_46510245/article/details/146935728)
+
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在工业物联网设备状态监测中的应用与挑战（167）](https://blog.csdn.net/atgfg/article/details/146924800)
+
++ [NVIDIA Jetson Orin Nano 8G 开发板开箱测评：边缘AI设备的性价比之选](https://blog.csdn.net/herosunly/article/details/146909244)
+
++ [计算机视觉——传统数字图像处理中图像去噪原理与代码实现细节](https://blog.csdn.net/matt45m/article/details/146804470)
+
++ [Mysql之事务(上)](https://blog.csdn.net/2301_81831423/article/details/146887668)
+
++ [PostgreSQL：高级SQL特性](https://blog.csdn.net/lilinhai548/article/details/146936824)
+
++ [Vue 3 事件总线详解：构建组件间高效通信的桥梁](https://blog.csdn.net/weixin_57615234/article/details/146895348)
+
++ [Flutter PopupMenuButton 详解](https://blog.csdn.net/g984160547/article/details/146069960)
+
++ [IPv6网络安全浅析](https://blog.csdn.net/2401_88857275/article/details/146924681)
+
++ [Deepseek API+Python 测试用例一键生成与导出 V1.0.6（加入分块策略，返回更完整可靠）](https://blog.csdn.net/weixin_44872675/article/details/146924476)
+

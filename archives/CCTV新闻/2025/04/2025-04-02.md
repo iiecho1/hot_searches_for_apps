@@ -189,3 +189,17 @@
 
 + [缅甸强震已致2886死4639伤](https://news.cctv.com/2025/04/02/ARTIY91AWKcSxcNZfhhtbjKU250402.shtml)
 
++ [专栏丨美国功利主义下的移民悲歌](https://news.cctv.com/2025/04/02/ARTIYcXO97oFhoqi6ZEkVQkv250402.shtml)
+
++ [巴黎上诉法院：勒庞上诉案将在法国总统选举前裁决](https://news.cctv.com/2025/04/02/ARTIAjPZXGOvdcBiXIUZ8WuD250402.shtml)
+
++ [“中国独特的发展经验为伊朗提供借鉴” ——访《伊朗日报》前总编辑、政治分析家伊马德·阿卜谢纳斯](https://news.cctv.com/2025/04/02/ARTISJP2KVA5ux1lytQS8Q5L250402.shtml)
+
++ [越来越多外国友人爱上中华饮食之美——蕴含和合理念 传统与现代交融](https://news.cctv.com/2025/04/02/ARTIcAYhDw26wPC7gMUIPicy250402.shtml)
+
++ [芬兰宣布今春将全面关停燃煤电厂](https://news.cctv.com/2025/04/02/ARTIMydCqlV3L79mZSv1Sie7250402.shtml)
+
++ [联合国官员谴责加沙急救车队遭袭击](https://news.cctv.com/2025/04/02/ARTIhD8r3zKGgSozCAwHPyk0250402.shtml)
+
++ [叙利亚发生大规模停电](https://news.cctv.com/2025/04/02/ARTIv9csJp1U0JKPciTfNuB9250402.shtml)
+
