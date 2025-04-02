@@ -149,3 +149,9 @@
 
 + [【Golang】第十弹----单元测试、go协程和管道](https://blog.csdn.net/2302_80713883/article/details/146704974)
 
++ [穿越之灵脉重构师：重启天元代码——1.3 月蚀启程 | 噬灵核心](https://blog.csdn.net/deepever/article/details/146924869)
+
++ [.NET 创建MCP使用大模型对话](https://blog.csdn.net/a123_z/article/details/146907261)
+
++ [WebSocket原理详解(二)](https://blog.csdn.net/haokan123456789/article/details/146923343)
+

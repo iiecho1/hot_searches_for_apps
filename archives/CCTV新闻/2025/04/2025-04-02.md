@@ -183,3 +183,5 @@
 
 + [墨西哥与加拿大强调北美经济一体化重要性](https://news.cctv.com/2025/04/02/ARTI6myzmoEmpkYFmoDY0ch7250402.shtml)
 
++ [以色列防长证实以军已在拉法发起军事行动](https://news.cctv.com/2025/04/02/ARTImhgTRM1MI7lhxLBR5Kl3250402.shtml)
+
