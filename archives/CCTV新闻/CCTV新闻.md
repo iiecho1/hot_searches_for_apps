@@ -179,3 +179,7 @@
 
 + [外媒称刚果（金）政府和反政府武装将在一周后直接会谈](https://news.cctv.com/2025/04/02/ARTIodtqFAnTHCVRWh7PvLbh250402.shtml)
 
++ [美国政府裁员“大刀”挥向公共卫生机构](https://news.cctv.com/2025/04/02/ARTIxqi1BCybgwD3QpSoNuEL250402.shtml)
+
++ [墨西哥与加拿大强调北美经济一体化重要性](https://news.cctv.com/2025/04/02/ARTI6myzmoEmpkYFmoDY0ch7250402.shtml)
+
