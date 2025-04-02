@@ -209,3 +209,9 @@
 
 + [普京签署关于改善移民领域国家管理的总统令](https://news.cctv.com/2025/04/02/ARTI1e2CTuGFwPr4OO9sj0QO250402.shtml)
 
++ [欧洲央行：美国关税政策对全球经济带来负面影响](https://news.cctv.com/2025/04/02/ARTIT58XirGgcXpELq8UZG36250402.shtml)
+
++ [设定“真空区域” 韩国警方对宪法法院周边全面管制](https://news.cctv.com/2025/04/02/ARTIfGfX5FrZ3evmnxmBWe3W250402.shtml)
+
++ [俄罗斯2024年恐怖袭击事件数量增长近2倍](https://news.cctv.com/2025/04/02/ARTIkCUyytz1Aats7CL78TaR250402.shtml)
+
