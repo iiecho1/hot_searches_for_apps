@@ -109,3 +109,17 @@
 
 + [鸿蒙NEXT开发集合工具类（ArkTs）](https://blog.csdn.net/weixin_48639457/article/details/146877549)
 
++ [基于Hadoop的明星社交媒体影响力数据挖掘平台设计和实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/146966374)
+
++ [TensorFlow深度学习实战（13）——神经嵌入详解](https://blog.csdn.net/LOVEmy134611/article/details/146798353)
+
++ [后端开发 SpringBoot 工程模板](https://blog.csdn.net/qq_53324833/article/details/146735981)
+
++ [【Linux】【操作】Linux操作集锦系列之十四——SSH远程Linux服务器执行命令的操作技巧汇总](https://blog.csdn.net/qxhgd/article/details/146383538)
+
++ [文章配图新纪元：OpenAI新推出的GPT-4o原生图像生成功能启示](https://blog.csdn.net/kkiron/article/details/146770882)
+
++ [ARM-----数据处理、异常处理、模式切换](https://blog.csdn.net/2401_84382970/article/details/146921391)
+
++ [Docker学习之私有仓库（day10）](https://blog.csdn.net/qq_44787802/article/details/146824843)
+
