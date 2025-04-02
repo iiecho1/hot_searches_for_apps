@@ -171,3 +171,11 @@
 
 + [五角大楼：在中东部署两艘航母，并加强防御性空中支援能力](https://news.cctv.com/2025/04/02/ARTIbPhGMhcuhKbSsd4yKtuN250402.shtml)
 
++ [尹锡悦弹劾案将宣判 韩德洙称全力维持治安](https://news.cctv.com/2025/04/02/ARTIAnl8N7xynj8saBIhYU3N250402.shtml)
+
++ [缅甸强震后已发生54次余震](https://news.cctv.com/2025/04/02/ARTIOfqjIU3kCqQhmJK7BrCQ250402.shtml)
+
++ [美军向中东增派航母战斗群](https://news.cctv.com/2025/04/02/ARTIfISYvCSFqE1bq12jGX26250402.shtml)
+
++ [外媒称刚果（金）政府和反政府武装将在一周后直接会谈](https://news.cctv.com/2025/04/02/ARTIodtqFAnTHCVRWh7PvLbh250402.shtml)
+
