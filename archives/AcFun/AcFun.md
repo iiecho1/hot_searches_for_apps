@@ -75,3 +75,7 @@
 
 + [阳光彩虹小白马改成古风](https://m.acfun.cn/v/%3Fac%3D47082819)
 
++ [小泽秀树日系口音超越脐带，佳能R50 V为西饼而生！](https://m.acfun.cn/v/%3Fac%3D47084235)
+
++ [【铁拳8】第2季莉莉新招数【TEKKEN8】Season2 Lili](https://m.acfun.cn/v/%3Fac%3D47082432)
+
