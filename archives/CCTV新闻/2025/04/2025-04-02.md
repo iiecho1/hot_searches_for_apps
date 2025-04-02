@@ -215,3 +215,5 @@
 
 + [俄罗斯2024年恐怖袭击事件数量增长近2倍](https://news.cctv.com/2025/04/02/ARTIkCUyytz1Aats7CL78TaR250402.shtml)
 
++ [新华社快讯：中国救援队伍在缅甸救出第9名幸存者 被救者生命体征良好](https://news.cctv.com/2025/04/02/ARTILnwphC7eiMd7Z3dKf9Zj250402.shtml)
+
