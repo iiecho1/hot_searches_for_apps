@@ -205,3 +205,9 @@
 
 + [鸿蒙NEXT开发集合工具类（ArkTs）](https://blog.csdn.net/weixin_48639457/article/details/146877549)
 
++ [从Hugging Face下载Qwen/Qwen2-Audio-7B-Instruct模型到本地运行，使用python实现一个音频转文字的助手](https://blog.csdn.net/weixin_53269650/article/details/146931240)
+
++ [Spring 核心技术解析【纯干货版】- XVII：Spring 网络模块 Spring-WebFlux 模块精讲](https://blog.csdn.net/weixin_45187434/article/details/146950749)
+
++ [深入理解前端防抖（Debounce）与节流（Throttle）：原理、区别与实战示例](https://blog.csdn.net/weixin_57615234/article/details/146927683)
+

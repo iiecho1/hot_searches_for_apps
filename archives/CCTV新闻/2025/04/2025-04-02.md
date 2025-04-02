@@ -217,3 +217,9 @@
 
 + [新华社快讯：中国救援队伍在缅甸救出第9名幸存者 被救者生命体征良好](https://news.cctv.com/2025/04/02/ARTILnwphC7eiMd7Z3dKf9Zj250402.shtml)
 
++ [专访丨美关税政策将推高欧洲企业和消费者成本——访马耳他经济学家法布里](https://news.cctv.com/2025/04/02/ARTIRBU9JuMtREiREDdkemgw250402.shtml)
+
++ [现场直击丨中国救援队伍在缅持续开展救援行动](https://news.cctv.com/2025/04/02/ARTIGIYlkyLSInWEuwTI9pBQ250402.shtml)
+
++ [中国国际救援队在缅甸曼德勒城区多地持续展开救援](https://news.cctv.com/2025/04/02/ARTIeAj8oSRV4eafRHgwkiZB250402.shtml)
+
