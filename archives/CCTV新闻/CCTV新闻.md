@@ -203,3 +203,7 @@
 
 + [叙利亚发生大规模停电](https://news.cctv.com/2025/04/02/ARTIv9csJp1U0JKPciTfNuB9250402.shtml)
 
++ [内塔尼亚胡第21次因涉贪腐案出庭作证](https://news.cctv.com/2025/04/02/ARTIuPmfqSLbDCKrGejF4FAo250402.shtml)
+
++ [中国红十字会首批援缅物资运抵震中曼德勒](https://news.cctv.com/2025/04/02/ARTI3GTXZ15gQ0CFTqRGapPV250402.shtml)
+

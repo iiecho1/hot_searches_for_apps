@@ -101,3 +101,7 @@
 
 + [大香蕉之《晚安大小姐》！(¦3[▓▓] ](https://m.acfun.cn/v/%3Fac%3D47083929)
 
++ [鬼知道甲亢哥看了几次](https://m.acfun.cn/v/%3Fac%3D47083751)
+
++ [逆天！！IshowSpeed 甲亢哥 遇上 二次元种族骑士，成都的噩梦！？@IShowSp](https://m.acfun.cn/v/%3Fac%3D47084440)
+

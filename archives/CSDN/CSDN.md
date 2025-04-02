@@ -175,3 +175,13 @@
 
 + [Deepseek API+Python 测试用例一键生成与导出 V1.0.6（加入分块策略，返回更完整可靠）](https://blog.csdn.net/weixin_44872675/article/details/146924476)
 
++ [Mysql之事务（下）](https://blog.csdn.net/2301_81831423/article/details/146924231)
+
++ [单点登录（SSO）实战：基于Vue与Spring Boot的深度实现](https://blog.csdn.net/2401_86966801/article/details/146925507)
+
++ [【YOLO系列】基于YOLOv8的无人机野生动物检测](https://blog.csdn.net/qq_43619271/article/details/146775983)
+
++ [27--当路由器学会“防狼术“：华为设备管理面安全深度解剖（完整战备版）](https://blog.csdn.net/2302_77698668/article/details/146925001)
+
++ [Elasticsearch笔记](https://blog.csdn.net/weixin_53085985/article/details/146859187)
+
