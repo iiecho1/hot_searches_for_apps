@@ -223,3 +223,5 @@
 
 + [中国国际救援队在缅甸曼德勒城区多地持续展开救援](https://news.cctv.com/2025/04/02/ARTIeAj8oSRV4eafRHgwkiZB250402.shtml)
 
++ [日本九州岛附近海域发生6.2级地震 震源深度30千米](https://news.cctv.com/2025/04/02/ARTI8sSIcsDy0zwePdACcBtR250402.shtml)
+
