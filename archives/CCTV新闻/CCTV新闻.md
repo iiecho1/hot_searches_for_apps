@@ -167,3 +167,7 @@
 
 + [美官员被曝使用商业邮箱处理政府事务 华尔兹再涉其中](https://news.cctv.com/2025/04/02/ARTIU15ktdvA1vNkciILZ8u3250402.shtml)
 
++ [联合国报告称援助物资暂停进入加沙 给民众带来毁灭性影响](https://news.cctv.com/2025/04/02/ARTIh8hcJTW2cWCcMeXeMlib250402.shtml)
+
++ [五角大楼：在中东部署两艘航母，并加强防御性空中支援能力](https://news.cctv.com/2025/04/02/ARTIbPhGMhcuhKbSsd4yKtuN250402.shtml)
+
