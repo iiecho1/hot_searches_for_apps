@@ -129,3 +129,5 @@
 
 + [27--当路由器学会“防狼术“：华为设备管理面安全深度解剖（完整战备版）](https://blog.csdn.net/2302_77698668/article/details/146925001)
 
++ [linux进程信号 ─── linux第27课](https://blog.csdn.net/m0_73751295/article/details/146871377)
+
