@@ -131,3 +131,5 @@
 
 + [linux进程信号 ─── linux第27课](https://blog.csdn.net/m0_73751295/article/details/146871377)
 
++ [【Linux网络#18】：深入理解select多路转接：传统I/O复用的基石](https://blog.csdn.net/island1314/article/details/146885403)
+

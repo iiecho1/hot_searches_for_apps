@@ -25,3 +25,27 @@
 
 + [微软 Win11 将用“黑屏死机”取代“蓝屏死机”，“哭脸”亦遭移除](https://m.ithome.com/html/842293.htm)
 
++ [宁德时代：发生高速爆燃事故的小米 SU7 用的不是我们的电池](https://m.ithome.com/html/842557.htm)
+
++ [小米客服：SU7 电池系双供应商产品随机安装，爆燃事故车辆搭载何种暂不得知](https://m.ithome.com/html/842660.htm)
+
++ [小米否认雷军发布《致所有关心小米 SU7 事故用户和公众的一封信》](https://m.ithome.com/html/842727.htm)
+
++ [任天堂 Switch 2 游戏机正式发布：日版 49980 日元起，港版 3450 港币](https://m.ithome.com/html/842469.htm)
+
++ [马斯克公开回应第 13 个孩子：不知道是不是我的，已经给了 250 万美元](https://m.ithome.com/html/842532.htm)
+
++ [京东启动第 8 次加薪：达达员工今年升至 19 薪，明年 20 薪](https://m.ithome.com/html/842490.htm)
+
++ [抖音：网传“字节跳动创始人张一鸣加入新加坡国籍”不实](https://m.ithome.com/html/842703.htm)
+
++ [任天堂 Switch 2 掌机模式 1080P 120 帧，主机模式支持 4K](https://m.ithome.com/html/842500.htm)
+
++ [乐道总裁艾铁成宣布离职，消息称蔚来能源负责人沈斐接替](https://m.ithome.com/html/842539.htm)
+
++ [DeepSeek 首次用于地震国际救援，7 小时攻克缅甸救灾语言关](https://m.ithome.com/html/842623.htm)
+
++ [（更新：已全面恢复）腾讯会议回应“崩了”并致歉：正在加速抢修中](https://m.ithome.com/html/842653.htm)
+
++ [高通推出第四代骁龙 8s 移动平台：CPU / GPU 提升 31~49%，小米、REDMI、iQOO、OPPO 和星纪魅族等品牌率先采用](https://m.ithome.com/html/842293.htm)
+

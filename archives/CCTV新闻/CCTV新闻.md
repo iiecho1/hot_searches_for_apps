@@ -161,3 +161,11 @@
 
 + [萨摩亚因严重电力危机宣布进入全国紧急状态](https://news.cctv.com/2025/03/31/ARTInqzk3Fg7nWQWsSzzOeQo250331.shtml)
 
++ [俄军一轰炸机在伊尔库茨克州坠毁 一名飞行员死亡](https://news.cctv.com/2025/04/03/ARTItrdf1dNemcrgXgwqnowA250403.shtml)
+
++ [以防长称黎南部或需3至5年完成重建 届时民众才能返回](https://news.cctv.com/2025/04/03/ARTISPfM0NYBClJLggLNumUZ250403.shtml)
+
++ [哈马斯官员称该组织认为以方已拒绝相关停火提议](https://news.cctv.com/2025/04/03/ARTIIkIvd7rhJiG5LS4HcifW250403.shtml)
+
++ [特朗普宣布国家紧急状态 全面征收关税](https://news.cctv.com/2025/04/03/ARTI7VC05M5RclYKXEI0mRAR250403.shtml)
+
