@@ -207,3 +207,5 @@
 
 + [中国红十字会首批援缅物资运抵震中曼德勒](https://news.cctv.com/2025/04/02/ARTI3GTXZ15gQ0CFTqRGapPV250402.shtml)
 
++ [普京签署关于改善移民领域国家管理的总统令](https://news.cctv.com/2025/04/02/ARTI1e2CTuGFwPr4OO9sj0QO250402.shtml)
+

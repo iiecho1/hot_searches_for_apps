@@ -185,3 +185,9 @@
 
 + [Elasticsearch笔记](https://blog.csdn.net/weixin_53085985/article/details/146859187)
 
++ [学习threejs，使用Texture纹理贴图，测试repeat重复纹理贴图](https://blog.csdn.net/qq_28419035/article/details/146937582)
+
++ [SpringBoot分布式项目订单管理实战：Mybatis最佳实践全解](https://blog.csdn.net/h356363/article/details/146770747)
+
++ [云原生周刊：Kubernetes v1.33 要来了](https://blog.csdn.net/zpf17671624050/article/details/146919390)
+
