@@ -185,3 +185,7 @@
 
 + [以色列防长证实以军已在拉法发起军事行动](https://news.cctv.com/2025/04/02/ARTImhgTRM1MI7lhxLBR5Kl3250402.shtml)
 
++ [美国股市创两年多来最差季度表现](https://news.cctv.com/2025/04/02/ARTIH9FJ3DTtK5oy2l291IMV250402.shtml)
+
++ [缅甸强震已致2886死4639伤](https://news.cctv.com/2025/04/02/ARTIY91AWKcSxcNZfhhtbjKU250402.shtml)
+
