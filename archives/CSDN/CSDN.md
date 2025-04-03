@@ -155,3 +155,9 @@
 
 + [【Deepseek、ChatGPT】智能气候前沿：AI Agent结合机器学习与深度学习在全球气候变化驱动因素预测中的应用](https://blog.csdn.net/JNLWLAQ/article/details/146909980)
 
++ [【现代深度学习技术】现代卷积神经网络07：稠密连接网络（DenseNet）](https://blog.csdn.net/Morse_Chen/article/details/146942268)
+
++ [Opencv计算机视觉编程攻略-第七节 提取直线、轮廓和区域](https://blog.csdn.net/weixin_44242403/article/details/146962680)
+
++ [2025年入职/转行网络安全，该如何规划？网络安全职业规划](https://blog.csdn.net/2401_85025054/article/details/146899132)
+

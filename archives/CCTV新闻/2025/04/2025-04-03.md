@@ -197,3 +197,9 @@
 
 + [美国对进口汽车加征25%关税正式生效](https://news.cctv.com/2025/04/03/ARTIHwO5CMZfCVWeiaBXhmba250403.shtml)
 
++ [以军称在叙利亚南部开展军事行动](https://news.cctv.com/2025/04/03/ARTIRLjlhyKlwFz4QMaY9wm0250403.shtml)
+
++ [缅甸强震后已发生63次余震](https://news.cctv.com/2025/04/03/ARTIc9qkKvxgDSe2PyHeNMcV250403.shtml)
+
++ [美平均关税率或重回大萧条前水平](https://news.cctv.com/2025/04/03/ARTI7WF17kuqOOnw6fGafpkn250403.shtml)
+
