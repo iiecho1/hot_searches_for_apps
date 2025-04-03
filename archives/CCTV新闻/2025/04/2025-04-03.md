@@ -189,3 +189,5 @@
 
 + [驻加拿大使馆提醒在加中国公民警惕防范电信网络诈骗](https://news.cctv.com/2025/04/03/ARTItWpYMLExEjN26SzwNEGy250403.shtml)
 
++ [尹锡悦弹劾案宣判倒计时 韩国警方启动二级响应](https://news.cctv.com/2025/04/03/ARTIq7DLVEytK8vnPE6mMtlP250403.shtml)
+
