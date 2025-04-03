@@ -169,3 +169,5 @@
 
 + [特朗普宣布国家紧急状态 全面征收关税](https://news.cctv.com/2025/04/03/ARTI7VC05M5RclYKXEI0mRAR250403.shtml)
 
++ [俄军一架战略轰炸机坠毁一人身亡](https://news.cctv.com/2025/04/03/ARTIps7CoDlGn7qH89gziQm5250403.shtml)
+
