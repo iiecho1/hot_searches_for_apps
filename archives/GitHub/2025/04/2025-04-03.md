@@ -31,3 +31,23 @@
 
 + [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
 
++ [nuejs/nue](https://github.com/nuejs/nue)
+
++ [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release)
+
++ [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)
+
++ [unionlabs/union](https://github.com/unionlabs/union)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [fleetdm/fleet](https://github.com/fleetdm/fleet)
+
++ [symfony/symfony](https://github.com/symfony/symfony)
+
++ [typst/typst](https://github.com/typst/typst)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+

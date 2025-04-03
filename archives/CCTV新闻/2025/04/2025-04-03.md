@@ -225,3 +225,11 @@
 
 + [匈牙利决定退出国际刑事法院](https://news.cctv.com/2025/04/03/ARTIqIh8HY5Ry9IAD8o87EkA250403.shtml)
 
++ [美媒曝白宫国家安全团队“拉群”至少20个聊机密](https://news.cctv.com/2025/04/03/ARTICNpU9CTD9juVKIXpfi5K250403.shtml)
+
++ [关税壁垒遮蔽全球经济复苏曙光](https://news.cctv.com/2025/04/03/ARTIiYQXFolRvVjrZO9cmFRC250403.shtml)
+
++ [美国关税政策遭多方反对：“将伤害美国自身行业和消费者”](https://news.cctv.com/2025/04/03/ARTITNtslNh3EXLrN54vW5iR250403.shtml)
+
++ [专访：中国是制造中心更是创新引擎——访博世集团董事会主席斯特凡·哈通](https://news.cctv.com/2025/04/03/ARTIl8jXN548seSBLLPgGLyr250403.shtml)
+

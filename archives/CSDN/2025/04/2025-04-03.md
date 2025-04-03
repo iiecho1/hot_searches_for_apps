@@ -191,3 +191,11 @@
 
 + [阿里通义千问发布全模态开源大模型Qwen2.5-Omni-7B](https://blog.csdn.net/debug_fan/article/details/146920263)
 
++ [深入理解 HTML5 Web Workers：提升网页性能的关键技术解析](https://blog.csdn.net/dreamweaver01/article/details/146929158)
+
++ [DeepSeek大模型场景化成果分享：MoE架构与多模态协同在教育/科研/管理场景下的深度应用与创新解析](https://blog.csdn.net/g310773517/article/details/146882504)
+
++ [穿越之灵脉重构师：重启天元代码——2.2 灵脉Debug | 递归屏障](https://blog.csdn.net/deepever/article/details/146977784)
+
++ [【计网速通】计算机网络核心知识点与高频考点——数据链路层（二）](https://blog.csdn.net/weixin_73492487/article/details/146959623)
+
