@@ -69,3 +69,7 @@
 
 + [【翻唱】《闪之轨迹IV》ED「愛の詩」完整版](https://m.acfun.cn/v/%3Fac%3D47093142)
 
++ [失乐园](https://m.acfun.cn/v/%3Fac%3D47092437)
+
++ [提线木偶](https://m.acfun.cn/v/%3Fac%3D47093731)
+
