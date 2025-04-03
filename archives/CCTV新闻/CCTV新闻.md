@@ -213,3 +213,11 @@
 
 + [中国政府援缅第二批抗震救灾物资抵达仰光](https://news.cctv.com/2025/04/03/ARTIt5nXQAy1eCJxMwpCrd6V250403.shtml)
 
++ [缅甸曼德勒国际机场已对救援飞机开放起降](https://news.cctv.com/2025/04/03/ARTIwlFuwKRsTM3uDihOZVkw250403.shtml)
+
++ [美国国内舆论和研究机构普遍对特朗普政府关税政策表示担忧](https://news.cctv.com/2025/04/03/ARTIzD1mhbvXZyZamiXtc5Pu250403.shtml)
+
++ [袭击事件增加 斯洛伐克批准扑杀350头棕熊](https://news.cctv.com/2025/04/03/ARTI32UuzXSDugSoWLiidZjO250403.shtml)
+
++ [多方警告美国关税政策损人害己](https://news.cctv.com/2025/04/03/ARTIsC7wPul4rd4S2PhNNZzZ250403.shtml)
+
