@@ -103,3 +103,23 @@
 
 + [MySQL 大数据处理优化与分布式架构探索](https://blog.csdn.net/2401_85655988/article/details/146928435)
 
++ [分布式系统中分布式ID生成方案的技术详解](https://blog.csdn.net/huangxuanxuan01/article/details/146928274)
+
++ [【Linux网络#18】：深入理解select多路转接：传统I/O复用的基石](https://blog.csdn.net/island1314/article/details/146885403)
+
++ [PostgreSQL：高级SQL特性](https://blog.csdn.net/lilinhai548/article/details/146936824)
+
++ [MySQL数据库精研之旅第五期：CRUD的趣味探索(中)](https://blog.csdn.net/2401_85198927/article/details/146886448)
+
++ [美团民宿 mtgsig 小程序 mtgsig1.2 分析](https://blog.csdn.net/ff2766958292/article/details/146963029)
+
++ [【Deepseek、ChatGPT】智能气候前沿：AI Agent结合机器学习与深度学习在全球气候变化驱动因素预测中的应用](https://blog.csdn.net/JNLWLAQ/article/details/146909980)
+
++ [最新Spring Security实战教程（八）Remember-Me实现原理 - 持久化令牌与安全存储方案](https://blog.csdn.net/lhmyy521125/article/details/146915817)
+
++ [贪心算法，其优缺点是什么？](https://blog.csdn.net/liangzai215/article/details/146967016)
+
++ [从Hugging Face下载Qwen/Qwen2-Audio-7B-Instruct模型到本地运行，使用python实现一个音频转文字的助手](https://blog.csdn.net/weixin_53269650/article/details/146931240)
+
++ [Wireshark——抓包分析](https://blog.csdn.net/2501_91087985/article/details/146899266)
+
