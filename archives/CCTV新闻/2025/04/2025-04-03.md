@@ -203,3 +203,13 @@
 
 + [美平均关税率或重回大萧条前水平](https://news.cctv.com/2025/04/03/ARTI7WF17kuqOOnw6fGafpkn250403.shtml)
 
++ [“这是假新闻” 马斯克否认将提前结束“政府效率部”工作](https://news.cctv.com/2025/04/03/ARTIBK9JgSEon2164qO2wG2U250403.shtml)
+
++ [德国：特朗普的“解放日”是美国人的“通胀日”](https://news.cctv.com/2025/04/03/ARTIMhbDqu0MKhBjdVErPjP0250403.shtml)
+
++ [面对美“对等关税” 法国：准备好跟美国打这场贸易战](https://news.cctv.com/2025/04/03/ARTIA5bp86hPDFH8iw9ZQCFB250403.shtml)
+
++ [“对等关税”将反噬美国经济](https://news.cctv.com/2025/04/03/ARTIvevCKWQ59fNBPclnSBFP250403.shtml)
+
++ [中国政府援缅第二批抗震救灾物资抵达仰光](https://news.cctv.com/2025/04/03/ARTIt5nXQAy1eCJxMwpCrd6V250403.shtml)
+
