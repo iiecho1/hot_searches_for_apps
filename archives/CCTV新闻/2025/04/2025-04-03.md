@@ -237,3 +237,5 @@
 
 + [美财长说乌克兰代表团最早或于本周末访美](https://news.cctv.com/2025/04/03/ARTIqQzO5xrSkcyMyiDfNV8p250403.shtml)
 
++ [美征收“对等关税” 欧洲多国领导人发声](https://news.cctv.com/2025/04/03/ARTIEHNDbFKwPYSuWeIBgTlq250403.shtml)
+

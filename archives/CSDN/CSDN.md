@@ -199,3 +199,13 @@
 
 + [【计网速通】计算机网络核心知识点与高频考点——数据链路层（二）](https://blog.csdn.net/weixin_73492487/article/details/146959623)
 
++ [《从0到神谕：GPT系列的进化狂想曲——用AI之眼见证人类语言的终极形态》](https://blog.csdn.net/2301_76341691/article/details/146981965)
+
++ [Spring Boot 集成 Quartz 实现定时任务（Cron 表达式示例）](https://blog.csdn.net/swordsman588415/article/details/146929132)
+
++ [【Spring Cloud Alibaba】：Nacos 使用全详解](https://blog.csdn.net/qq_56158663/article/details/146912594)
+
++ [ODVerse33：新的YOLO版本总是更好吗？从YOLOv5到v11的多领域基准测试](https://blog.csdn.net/weixin_43694096/article/details/146983409)
+
++ [LabVIEW中VISA Write 与 GPIB Write的差异](https://blog.csdn.net/bjcyck/article/details/146970447)
+
