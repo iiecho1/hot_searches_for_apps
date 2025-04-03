@@ -191,3 +191,9 @@
 
 + [尹锡悦弹劾案宣判倒计时 韩国警方启动二级响应](https://news.cctv.com/2025/04/03/ARTIq7DLVEytK8vnPE6mMtlP250403.shtml)
 
++ [特朗普开征对等关税 欧盟：谈不拢就“回击”](https://news.cctv.com/2025/04/03/ARTIh7DhZKA1MtAYZJNgukaE250403.shtml)
+
++ [缅甸强震已致3085人死亡](https://news.cctv.com/2025/04/03/ARTINshX6Jjr1fBGSCR4WPiz250403.shtml)
+
++ [美国对进口汽车加征25%关税正式生效](https://news.cctv.com/2025/04/03/ARTIHwO5CMZfCVWeiaBXhmba250403.shtml)
+

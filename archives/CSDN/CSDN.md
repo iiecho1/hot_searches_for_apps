@@ -151,3 +151,7 @@
 
 + [深挖 DeepSeek 隐藏玩法·智能炼金术2.0版本](https://blog.csdn.net/Dovis5884/article/details/146907730)
 
++ [MySQL 事务与锁机制详解](https://blog.csdn.net/2401_85655834/article/details/146929452)
+
++ [【Deepseek、ChatGPT】智能气候前沿：AI Agent结合机器学习与深度学习在全球气候变化驱动因素预测中的应用](https://blog.csdn.net/JNLWLAQ/article/details/146909980)
+
