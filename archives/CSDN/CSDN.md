@@ -209,3 +209,11 @@
 
 + [LabVIEW中VISA Write 与 GPIB Write的差异](https://blog.csdn.net/bjcyck/article/details/146970447)
 
++ [Spring WebFlux 深度实践指南](https://blog.csdn.net/sixpp/article/details/146968468)
+
++ [计算加速技术比较分析：GPU、FPGA、ASIC、TPU与NPU的技术特性、应用场景及产业生态](https://blog.csdn.net/m0_46510245/article/details/146972569)
+
++ [# 实时人脸识别系统：基于 OpenCV 和 Python 的实现](https://blog.csdn.net/www_pp_/article/details/146922435)
+
++ [飞浆PaddlePaddle 猫狗数据大战](https://blog.csdn.net/2301_80109683/article/details/146984720)
+
