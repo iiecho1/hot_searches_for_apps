@@ -171,3 +171,21 @@
 
 + [俄军一架战略轰炸机坠毁一人身亡](https://news.cctv.com/2025/04/03/ARTIps7CoDlGn7qH89gziQm5250403.shtml)
 
++ [丹麦首相访问格陵兰岛 称格陵兰岛属于格陵兰人](https://news.cctv.com/2025/04/03/ARTIOBVLEWtriB7rCsfRVJ0t250403.shtml)
+
++ [孟加拉国东南部地区发生客车相撞事故 致10人死亡](https://news.cctv.com/2025/04/03/ARTID2dO9nHhl7eLb4d4T5Og250403.shtml)
+
++ [美国“关税讹诈”破坏世界经济稳定性（国际论坛）](https://news.cctv.com/2025/04/03/ARTINFjh21ndatB3vj5zJkqH250403.shtml)
+
++ [美国加征关税 全球一片反对（国际视点）](https://news.cctv.com/2025/04/03/ARTIEU30wiRcw80nhVKbQ77t250403.shtml)
+
++ [加拿大总理说将对美采取关税反制措施](https://news.cctv.com/2025/04/03/ARTIw1tRL7UIJCtdi2in2ezm250403.shtml)
+
++ [秘鲁中南部发生沉船事故 致14人失踪](https://news.cctv.com/2025/04/03/ARTIhrcrTj3IvqLIxIRhY205250403.shtml)
+
++ [广泛针对、10%起步 特朗普亮出“对等关税”牌](https://news.cctv.com/2025/04/03/ARTIFCeGBKShdBH52aEaLhSr250403.shtml)
+
++ [中国政府援缅第二批紧急人道主义地震救灾物资启运](https://news.cctv.com/2025/04/03/ARTIto9kq9HmHU6DeHcI7Oc7250403.shtml)
+
++ [驻加拿大使馆提醒在加中国公民警惕防范电信网络诈骗](https://news.cctv.com/2025/04/03/ARTItWpYMLExEjN26SzwNEGy250403.shtml)
+

@@ -139,3 +139,15 @@
 
 + [Docker镜像管理全攻略：build/push/pull/tag 核心操作深度解析](https://blog.csdn.net/teng7407326305/article/details/146929030)
 
++ [OpenCV 引擎：驱动实时应用开发的科技狂飙](https://blog.csdn.net/2401_82648291/article/details/146888082)
+
++ [使用Leaflet对的SpringBoot天地图路径规划可视化实践-以黄花机场到橘子洲景区为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/146922693)
+
++ [【spring01】Spring 管理 Bean-IOC，基于 XML 配置 bean](https://blog.csdn.net/qq_74232707/article/details/146138291)
+
++ [Python爬虫：开启数据抓取的奇幻之旅（二）](https://blog.csdn.net/weixin_73295475/article/details/146940811)
+
++ [穿越之灵脉重构师：重启天元代码——1.10 月蚀启程 | 递归终启](https://blog.csdn.net/deepever/article/details/146933914)
+
++ [深挖 DeepSeek 隐藏玩法·智能炼金术2.0版本](https://blog.csdn.net/Dovis5884/article/details/146907730)
+
