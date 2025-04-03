@@ -183,3 +183,11 @@
 
 + [Python数据分析与可视化实战](https://blog.csdn.net/mosquito_lover1/article/details/146963752)
 
++ [Docker部署Blinko：打造你的个性化AI笔记助手与随时随地访问](https://blog.csdn.net/weixin_74888502/article/details/146980717)
+
++ [LLM驱动的智能体：基于GPT的对话智能体开发指南](https://blog.csdn.net/2302_79376097/article/details/146978682)
+
++ [网络安全的重要性与防护措施](https://blog.csdn.net/zhu1289303556/article/details/146967214)
+
++ [阿里通义千问发布全模态开源大模型Qwen2.5-Omni-7B](https://blog.csdn.net/debug_fan/article/details/146920263)
+
