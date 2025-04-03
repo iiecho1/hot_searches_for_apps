@@ -221,3 +221,7 @@
 
 + [多方警告美国关税政策损人害己](https://news.cctv.com/2025/04/03/ARTIsC7wPul4rd4S2PhNNZzZ250403.shtml)
 
++ [扎哈罗娃：乌克兰蓄意破坏俄美间已开始的对话](https://news.cctv.com/2025/04/03/ARTIk54uJVlysuWULbf3M6nT250403.shtml)
+
++ [匈牙利决定退出国际刑事法院](https://news.cctv.com/2025/04/03/ARTIqIh8HY5Ry9IAD8o87EkA250403.shtml)
+
