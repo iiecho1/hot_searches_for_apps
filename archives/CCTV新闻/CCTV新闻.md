@@ -231,3 +231,17 @@
 
 + [主要产油国5月起将增产](https://news.cctv.com/2025/04/04/ARTIm7bbwsssDwZTtfsLOUBV250404.shtml)
 
++ [尹锡悦弹劾案已宣判 韩国警方将解除“甲级紧急令”](https://news.cctv.com/2025/04/04/ARTIkcEloEHdMcZ8xPWKEql7250404.shtml)
+
++ [视频丨韩国代总统：将力保总统大选顺利举行](https://news.cctv.com/2025/04/04/ARTIn5AVMj3pstOHZ1nLjlF6250404.shtml)
+
++ [印尼东爪哇省山体滑坡已致10人死亡](https://news.cctv.com/2025/04/04/ARTIhOOJc8aGJBRIi6F8pHey250404.shtml)
+
++ [印尼制定三项新举措应对美国关税政策](https://news.cctv.com/2025/04/04/ARTIO6XNLbvNL3DKzzVWzBex250404.shtml)
+
++ [俄代表：乌克兰问题谈判已取得显著进展](https://news.cctv.com/2025/04/04/ARTItqdOeXDHLMreJiQR4BGy250404.shtml)
+
++ [韩国政界：接受弹劾判决、尽全力安排总统选举](https://news.cctv.com/2025/04/04/ARTICuGdLwMuDhE9HhzGSCUj250404.shtml)
+
++ [美媒：特朗普核心圈子建议暂不要与普京通话](https://news.cctv.com/2025/04/04/ARTIvxtb51ABM6zaNBgEqLR6250404.shtml)
+
