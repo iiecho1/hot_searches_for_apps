@@ -207,3 +207,25 @@
 
 + [中国驻美使馆发言人就美方宣布对等关税答记者问](https://news.cctv.com/2025/04/04/ARTI5ySyCj4cvPD2djENG9zT250404.shtml)
 
++ [马克龙呼吁企业暂停对美投资](https://news.cctv.com/2025/04/04/ARTIAhG5sfVgHfOeSCZQqOp1250404.shtml)
+
++ [美媒：美国国安局局长被解职](https://news.cctv.com/2025/04/04/ARTInjcUha4TpN6sWX5iP7Dr250404.shtml)
+
++ [15名韩国总统办公室高级参谋集体辞职](https://news.cctv.com/2025/04/04/ARTIPpFJT8Bz82EYPGtdDK4U250404.shtml)
+
++ [巴西圣保罗黄热病疫情加剧 一季度死亡24例](https://news.cctv.com/2025/04/04/ARTIKrHmrepeD3MFRTkov7Pg250404.shtml)
+
++ [综述丨美国公共卫生系统大规模裁员引质疑](https://news.cctv.com/2025/04/04/ARTIwYwGT15BzKH0mzRwB53X250404.shtml)
+
++ [俄总统特别代表：乌克兰“入约”不可能，俄或能接受乌获得“某种形式”安保](https://news.cctv.com/2025/04/04/ARTIKAwqhsgBehyYmOUGcKtP250404.shtml)
+
++ [保护主义是短视的经济政策（国际论坛）](https://news.cctv.com/2025/04/04/ARTIdC4I5dQ2HLfbi09H5evX250404.shtml)
+
++ [美乱挥关税大棒，拉响衰退警报](https://news.cctv.com/2025/04/04/ARTIsYesUGh7XzZZa75incPZ250404.shtml)
+
++ [【国际漫评】“经济自残”](https://news.cctv.com/2025/04/04/ARTIcQ24SXFWXSszF8Z0Xip7250404.shtml)
+
++ [了解下美“对等关税”税率的算法，你可能会惊呆了](https://news.cctv.com/2025/04/04/ARTI6Y8r6v8vVJZk4q904duw250404.shtml)
+
++ [世贸组织总干事称美国关税政策或将使今年全球商品贸易量萎缩约1%](https://news.cctv.com/2025/04/04/ARTIsgYEaKpMkUOCrCocDfAM250404.shtml)
+
