@@ -185,3 +185,13 @@
 
 + [DeepSeek 都开源了哪些技术？](https://blog.csdn.net/bestpasu/article/details/146965898)
 
++ [【技术报告】GPT-4o 原生图像生成的应用与分析](https://blog.csdn.net/youcans/article/details/146947389)
+
++ [基于飞桨框架3.0本地DeepSeek-R1蒸馏版部署实战](https://blog.csdn.net/2301_80863610/article/details/146970940)
+
++ [基于DeepSeek、ChatGPT支持下的地质灾害风险评估、易发性分析、信息化建库及灾后重建](https://blog.csdn.net/glldxh/article/details/146958671)
+
++ [wx206基于ssm+vue+uniapp的优购电商小程序](https://blog.csdn.net/shmp54xmu/article/details/146989398)
+
++ [[Linux]从零开始的vs code交叉调试arm Linux程序教程](https://blog.csdn.net/c858845275/article/details/146945071)
+

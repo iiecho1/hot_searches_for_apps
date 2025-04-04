@@ -251,3 +251,7 @@
 
 + [记者手记｜擦拭你的名字 就是同你说话——在坦桑尼亚祭扫援坦中国专家公墓](https://news.cctv.com/2025/04/04/ARTI6gJNx0e2gwb0LL4f99iq250404.shtml)
 
++ [俄总统新闻秘书否认普京本周将与特朗普通电话](https://news.cctv.com/2025/04/04/ARTIdhZlrUvTOvRGWZVoAg8L250404.shtml)
+
++ [158秒回顾尹锡悦弹劾案全过程](https://news.cctv.com/2025/04/04/ARTItFdpeaT4bRrURqcmJEWI250404.shtml)
+
