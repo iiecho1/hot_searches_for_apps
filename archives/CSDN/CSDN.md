@@ -155,3 +155,9 @@
 
 + [nginx的反向代理和负载均衡](https://blog.csdn.net/xujiangyan_/article/details/146945144)
 
++ [Pytorch 第十三回：神经网络编码器——自动编解码器](https://blog.csdn.net/zhuwenlong130130/article/details/146913496)
+
++ [Spring 核心技术解析【纯干货版】- XIX：Spring 日志模块 Spring-Jcl 模块精讲](https://blog.csdn.net/weixin_45187434/article/details/146984297)
+
++ [Vue 3 事件总线详解：构建组件间高效通信的桥梁](https://blog.csdn.net/VisualCoder/article/details/146928241)
+

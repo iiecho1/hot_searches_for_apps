@@ -199,3 +199,11 @@
 
 + [缅甸强震已造成5名中国公民遇难](https://news.cctv.com/2025/04/04/ARTIQ6KMVzL2b6wWhypBZ3so250404.shtml)
 
++ [国际观察｜欧洲酝酿多重反制应对美“对等关税”](https://news.cctv.com/2025/04/04/ARTIhvikKhADSZU2BD2kMZIR250404.shtml)
+
++ [美参议院否决两项停止向以色列售武议案](https://news.cctv.com/2025/04/04/ARTIeVuo0qpOQWNgow2PFVPE250404.shtml)
+
++ [尹锡悦发表对国民谈话：没能达到预期，非常遗憾](https://news.cctv.com/2025/04/04/ARTItynTVuDEzMa9spqxRIOY250404.shtml)
+
++ [中国驻美使馆发言人就美方宣布对等关税答记者问](https://news.cctv.com/2025/04/04/ARTI5ySyCj4cvPD2djENG9zT250404.shtml)
+
