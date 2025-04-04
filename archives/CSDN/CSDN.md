@@ -195,3 +195,7 @@
 
 + [[Linux]从零开始的vs code交叉调试arm Linux程序教程](https://blog.csdn.net/c858845275/article/details/146945071)
 
++ [MATLAB实现基于Transformer-Adaboost多特征分类预测的详细项目实例](https://blog.csdn.net/xiaoxingkongyuxi/article/details/146919788)
+
++ [Webpack vs Vite：深度对比与实战示例，如何选择最佳构建工具？](https://blog.csdn.net/weixin_724849599/article/details/146928527)
+
