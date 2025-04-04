@@ -167,3 +167,15 @@
 
 + [古特雷斯呼吁加大对缅甸资金支持和人道主义援助](https://news.cctv.com/2025/04/04/ARTIyHi41noyFhbs2yEbBrtM250404.shtml)
 
++ [美联航一波音737客机在空中起火](https://news.cctv.com/2025/04/04/ARTIsPhGpHpHpYy6gPws3HMJ250404.shtml)
+
++ [走进缅甸震后灾民安置点](https://photo.cctv.com/2025/04/04/PHOAgmNZM6SWUficpA2q8JmR250404.shtml)
+
++ [中国代表敦促以色列立即停止对加沙军事行动](https://news.cctv.com/2025/04/04/ARTII04J40IvcKitgocBfk2b250404.shtml)
+
++ [特朗普政府因对中国进口产品征收关税被起诉](https://news.cctv.com/2025/04/04/ARTI2Z916qZZKJ8uZKfxjxrh250404.shtml)
+
++ [特朗普：只要马斯克愿意 其可无限期留任“政府效率部”](https://news.cctv.com/2025/04/04/ARTIpS0ZZedcPW4ebtgOZal7250404.shtml)
+
++ [特朗普：将在未来几周发放“金卡”签证](https://news.cctv.com/2025/04/04/ARTIPNY7zQKGwKixA8k71mC8250404.shtml)
+

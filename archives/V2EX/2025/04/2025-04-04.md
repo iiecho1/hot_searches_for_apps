@@ -21,3 +21,17 @@
 
 + [婚后家庭财产如何分配？](https://www.v2ex.com/t/1123144)
 
++ [有没有人把 idea 的 git 功能扒出来做个独立项目](https://www.v2ex.com/t/1123119)
+
++ [对于 2-3 年经验的前端, 一般一个月要给几钱?](https://www.v2ex.com/t/1123082)
+
++ [什么是 Java 味，是一种对 javaer 的歧视吗？](https://www.v2ex.com/t/1123118)
+
++ [为了防止充话费出错，在充值页面需要先获取短信验证码，我这样的产品思维放在业内是什么水平](https://www.v2ex.com/t/1123088)
+
++ [因为开源项目，我收到了面试邀请！](https://www.v2ex.com/t/1123053)
+
++ [小米汽车, 辅助驾驶是不是跳过 beta 测试直接生产上路?](https://www.v2ex.com/t/1123037)
+
++ [类 Manus 的 UI Agent 完全是个伪需求，前端已经没活路了](https://www.v2ex.com/t/1123081)
+
