@@ -179,3 +179,15 @@
 
 + [特朗普：将在未来几周发放“金卡”签证](https://news.cctv.com/2025/04/04/ARTIPNY7zQKGwKixA8k71mC8250404.shtml)
 
++ [下台！尹锡悦成韩国第二位被罢免总统 司法深渊已对他敞开](https://news.cctv.com/2025/04/04/ARTIuHl9SlaNgwOn5D5n7jyF250404.shtml)
+
++ [尹锡悦被罢免后命运将如何 谁可能成为韩国下届总统](https://news.cctv.com/2025/04/04/ARTI59gYdVAGOBLHhw302TZX250404.shtml)
+
++ [弹劾案通过 韩国总统尹锡悦被罢免](https://news.cctv.com/2025/04/04/ARTIUw5638nT1ryiQpRcPMtd250404.shtml)
+
++ [反对美国新关税政策 多国政府发声](https://news.cctv.com/2025/04/04/ARTIAAZe1aCF7YmG7AUHvOVe250404.shtml)
+
++ [韩国宪法法院：尹锡悦宣布紧急戒严违反戒严法](https://news.cctv.com/2025/04/04/ARTIS1F5vUX78U21g7ME28Xb250404.shtml)
+
++ [尹锡悦弹劾案开庭宣判](https://news.cctv.com/2025/04/04/ARTI4C3uVxpOLPMBAJfvNBqy250404.shtml)
+

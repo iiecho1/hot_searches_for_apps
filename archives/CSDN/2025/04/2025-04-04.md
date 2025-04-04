@@ -135,3 +135,13 @@
 
 + [GitHub 趋势日报 (2025年04月01日)](https://blog.csdn.net/ShrCheng/article/details/146957203)
 
++ [飞桨框架3.0解锁DeepSeek部署全流程极简体验](https://blog.csdn.net/herosunly/article/details/146974505)
+
++ [2025最新版全景式解读国内外66个媒体与技术平台：内容生态、用户画像与实用价值分析](https://blog.csdn.net/qq_44866828/article/details/146989748)
+
++ [Linux红帽：RHCSA认证知识讲解（十 一）配置NTP 时间同步、用户密码策略与使用 autofs 实现 NFS 自动挂载](https://blog.csdn.net/2402_83322742/article/details/146923136)
+
++ [学习 QML MouseArea 组件](https://blog.csdn.net/qq_43689451/article/details/146980758)
+
++ [实战 | 餐厅点餐小程序技术解析：SpringBoot + UniApp 高效开发指南](https://blog.csdn.net/weixin_62330360/article/details/146949028)
+
