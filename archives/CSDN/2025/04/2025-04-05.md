@@ -129,3 +129,7 @@
 
 + [探索HTML5 Canvas：创造动态与交互性网页内容的强大工具](https://blog.csdn.net/Lisiyang0928/article/details/146992375)
 
++ [前端AJAX请求上传下载进度监控指南详解与完整代码示例](https://blog.csdn.net/lhmyy521125/article/details/147003697)
+
++ [【目标检测】【深度学习】【Pytorch版本】YOLOV3模型算法详解](https://blog.csdn.net/yangyu0515/article/details/146937596)
+
