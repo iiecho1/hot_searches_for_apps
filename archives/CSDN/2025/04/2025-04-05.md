@@ -133,3 +133,5 @@
 
 + [【目标检测】【深度学习】【Pytorch版本】YOLOV3模型算法详解](https://blog.csdn.net/yangyu0515/article/details/146937596)
 
++ [测评：这B班上的值不值？在不同城市过上同等生活水平到底需要多少钱？](https://blog.csdn.net/RenGJ010617/article/details/146224308)
+
