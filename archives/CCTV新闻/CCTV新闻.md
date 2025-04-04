@@ -161,3 +161,9 @@
 
 + [希腊比雷埃夫斯港2024年收入和利润创新高](https://news.cctv.com/2025/04/01/ARTIlnYU9YrC7zgiuZQ3VkQE250401.shtml)
 
++ [中国赴黎维和部队协助友军安全销毁过期高爆弹药](https://news.cctv.com/2025/04/04/ARTIYkJp4UQ8lB8iRB5RFgA4250404.shtml)
+
++ [今天上午 尹锡悦弹劾案迎来最终宣判 结果将如何](https://news.cctv.com/2025/04/04/ARTI9lkc8oi17jeKgAsEXfHx250404.shtml)
+
++ [古特雷斯呼吁加大对缅甸资金支持和人道主义援助](https://news.cctv.com/2025/04/04/ARTIyHi41noyFhbs2yEbBrtM250404.shtml)
+
