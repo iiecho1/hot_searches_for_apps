@@ -105,3 +105,25 @@
 
 + [ARM------硬件程序开发](https://blog.csdn.net/2401_84382970/article/details/146988736)
 
++ [智能体中的知识库、数据库与大模型详解](https://blog.csdn.net/2302_79376097/article/details/146990748)
+
++ [Java 大数据在智能安防入侵检测系统中的多源数据融合与分析技术（171）](https://blog.csdn.net/atgfg/article/details/146989120)
+
++ [Opencv之dilib库：表情识别](https://blog.csdn.net/2201_75345884/article/details/146982983)
+
++ [HTTP vs HTTPS: 终极解析，保护你的数据究竟有多重要？](https://blog.csdn.net/wangdashu1994/article/details/146927450)
+
++ [【Linux】进程信号的捕捉处理](https://blog.csdn.net/s_little_monster/article/details/145691957)
+
++ [【Linux篇】自主Shell命令行解释器](https://blog.csdn.net/2301_81290732/article/details/146883890)
+
++ [【Linux】动静态库知识大梳理](https://blog.csdn.net/2301_82213854/article/details/146987303)
+
++ [【Linux篇】操作系统揭秘：进程创建、等待与终止的无缝衔接](https://blog.csdn.net/braveact/article/details/146966711)
+
++ [技术趋势：GitHub热门项目与开源工具](https://blog.csdn.net/2302_79177254/article/details/146973221)
+
++ [学习threejs，使用Texture纹理贴图，测试repeat重复纹理贴图](https://blog.csdn.net/qq_28419035/article/details/146937582)
+
++ [[ 留痕工具篇 ] 一键导出微信聊天记录为PDF/Word/Excel/HTML文档永久保存(一)](https://blog.csdn.net/qq_51577576/article/details/147003419)
+
