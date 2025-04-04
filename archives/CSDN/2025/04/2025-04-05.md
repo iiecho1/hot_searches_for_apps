@@ -101,3 +101,7 @@
 
 + [wx206基于ssm+vue+uniapp的优购电商小程序](https://blog.csdn.net/shmp54xmu/article/details/146989398)
 
++ [基于飞桨框架3.0本地DeepSeek-R1蒸馏版部署实战](https://blog.csdn.net/2301_80863610/article/details/146970940)
+
++ [ARM------硬件程序开发](https://blog.csdn.net/2401_84382970/article/details/146988736)
+
