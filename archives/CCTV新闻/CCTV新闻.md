@@ -191,3 +191,11 @@
 
 + [尹锡悦弹劾案开庭宣判](https://news.cctv.com/2025/04/04/ARTI4C3uVxpOLPMBAJfvNBqy250404.shtml)
 
++ [屡证无效却如此痴迷——起底美国“关税战”深层动因](https://news.cctv.com/2025/04/04/ARTIQHA3fBQsZ1xt1UqSNkLj250404.shtml)
+
++ [西班牙宣布141亿欧元“关税援助计划”](https://news.cctv.com/2025/04/04/ARTIylyysoYC2YQLtuvmu41t250404.shtml)
+
++ [以军：对加沙攻势进入“新阶段”](https://news.cctv.com/2025/04/04/ARTI7dvSkcFlso5SiAGyXVdS250404.shtml)
+
++ [缅甸强震已造成5名中国公民遇难](https://news.cctv.com/2025/04/04/ARTIQ6KMVzL2b6wWhypBZ3so250404.shtml)
+
