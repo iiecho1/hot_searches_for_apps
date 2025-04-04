@@ -59,3 +59,9 @@
 
 + [国行 iPhone 17 系列接入 esim](https://www.v2ex.com/t/1123246)
 
++ [被强迫写鸿蒙怎么搞](https://www.v2ex.com/t/1123185)
+
++ [RAID0 停电，一个盘没了](https://www.v2ex.com/t/1123252)
+
++ [用 cursor 做了一个超级玛丽的游戏网站，但是没啥流量，咋弄啊？](https://www.v2ex.com/t/1123180)
+

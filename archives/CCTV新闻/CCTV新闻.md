@@ -229,3 +229,5 @@
 
 + [世贸组织总干事称美国关税政策或将使今年全球商品贸易量萎缩约1%](https://news.cctv.com/2025/04/04/ARTIsgYEaKpMkUOCrCocDfAM250404.shtml)
 
++ [主要产油国5月起将增产](https://news.cctv.com/2025/04/04/ARTIm7bbwsssDwZTtfsLOUBV250404.shtml)
+
