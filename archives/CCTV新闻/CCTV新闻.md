@@ -245,3 +245,9 @@
 
 + [美媒：特朗普核心圈子建议暂不要与普京通话](https://news.cctv.com/2025/04/04/ARTIvxtb51ABM6zaNBgEqLR6250404.shtml)
 
++ [中国援喀麦隆医疗队在当地开展义诊活动](https://news.cctv.com/2025/04/04/ARTI9jjKnEicloUwE0xE6Rzc250404.shtml)
+
++ [全球瞭望｜意智库：美关税政策“缺乏经济逻辑”](https://news.cctv.com/2025/04/04/ARTICAt2DfkjDE0eZObXs17V250404.shtml)
+
++ [记者手记｜擦拭你的名字 就是同你说话——在坦桑尼亚祭扫援坦中国专家公墓](https://news.cctv.com/2025/04/04/ARTI6gJNx0e2gwb0LL4f99iq250404.shtml)
+
