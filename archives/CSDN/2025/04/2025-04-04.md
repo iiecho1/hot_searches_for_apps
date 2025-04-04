@@ -145,3 +145,13 @@
 
 + [实战 | 餐厅点餐小程序技术解析：SpringBoot + UniApp 高效开发指南](https://blog.csdn.net/weixin_62330360/article/details/146949028)
 
++ [【通俗易懂说模型】生成对抗网络·GAN](https://blog.csdn.net/m0_67656158/article/details/146883872)
+
++ [【Spring Cloud Alibaba】：Nacos 使用全详解](https://blog.csdn.net/qq_56158663/article/details/146912594)
+
++ [向量数据库：大模型时代的智能数据基石](https://blog.csdn.net/qq_16242613/article/details/146923829)
+
++ [【Linux】动静态库知识大梳理](https://blog.csdn.net/2301_82213854/article/details/146987303)
+
++ [nginx的反向代理和负载均衡](https://blog.csdn.net/xujiangyan_/article/details/146945144)
+
