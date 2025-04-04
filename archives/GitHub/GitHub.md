@@ -31,3 +31,19 @@
 
 + [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
++ [alibaba/higress](https://github.com/alibaba/higress)
+
++ [browser-use/web-ui](https://github.com/browser-use/web-ui)
+
++ [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
++ [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
+
++ [liam-hq/liam](https://github.com/liam-hq/liam)
+
++ [backstage/backstage](https://github.com/backstage/backstage)
+
