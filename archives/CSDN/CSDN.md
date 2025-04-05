@@ -215,3 +215,9 @@
 
 + [接口测试和功能测试的区别](https://blog.csdn.net/nhb000000/article/details/146987565)
 
++ [一周学会Pandas2 Python数据处理与分析-编写Pandas2 HelloWord项目](https://blog.csdn.net/caoli201314/article/details/146986357)
+
++ [React编程高级主题：错误处理（Error Handling）](https://blog.csdn.net/sixpp/article/details/147002615)
+
++ [基于FPGA的特定序列检测器verilog实现,包含testbench和开发板硬件测试](https://blog.csdn.net/hardware_player/article/details/147004373)
+
