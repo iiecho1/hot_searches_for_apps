@@ -163,3 +163,9 @@
 
 + [特朗普宣布将再给予TikTok“不卖就禁用”法律75天宽限期](https://news.cctv.com/2025/04/05/ARTI0vtObPCNv9T5UaTO0ICm250405.shtml)
 
++ [SpaceX载人绕地球两极飞行任务结束 机组返回地球](https://news.cctv.com/2025/04/05/ARTIGycOrqCpj6CM3Jhk316z250405.shtml)
+
++ [金正恩指导朝鲜人民军特战部队综合训练](https://news.cctv.com/2025/04/05/ARTIzKwnqcBjmCb51M0nieZW250405.shtml)
+
++ [破坏规则 伤人伤己——美国“对等关税”招致全球谴责](https://news.cctv.com/2025/04/05/ARTIZHs6vEgn6zDYlln7GUuK250405.shtml)
+

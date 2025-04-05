@@ -139,3 +139,19 @@
 
 + [使用高德api实现天气查询](https://blog.csdn.net/m0_51534164/article/details/146937149)
 
++ [Spring WebFlux 深度实践指南](https://blog.csdn.net/sixpp/article/details/146968468)
+
++ [zabbix监控网站（nginx、redis、mysql）](https://blog.csdn.net/m0_68472908/article/details/146949067)
+
++ [思维链编程模式下可视化医疗编程具体模块和流程架构分析（全架构与代码版）](https://blog.csdn.net/kkiron/article/details/146987465)
+
++ [【Linux网络#18】：深入理解select多路转接：传统I/O复用的基石](https://blog.csdn.net/island1314/article/details/146885403)
+
++ [【2025具身智能大模型·系列8】LightPlanner：中科视语开源的轻量化具身推理大模型，赋能机器人高效决策](https://blog.csdn.net/xiaobing259/article/details/146920729)
+
++ [Flutter中实现中国省份地图](https://blog.csdn.net/hrtyurthfgh/article/details/146933545)
+
++ [Vue + Axios + Mock.js 全链路实操：从封装到数据模拟的深度解析](https://blog.csdn.net/qq_18944929/article/details/146967604)
+
++ [大模型学习二：DeepSeek R1+蒸馏模型组本地部署与调用](https://blog.csdn.net/jiangkp/article/details/146957263)
+
