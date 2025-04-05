@@ -169,3 +169,5 @@
 
 + [破坏规则 伤人伤己——美国“对等关税”招致全球谴责](https://news.cctv.com/2025/04/05/ARTIZHs6vEgn6zDYlln7GUuK250405.shtml)
 
++ [巴布亚新几内亚附近海域发生6.9级地震](https://news.cctv.com/2025/04/05/ARTItHIZXKUe5dJl8zUJqrlh250405.shtml)
+
