@@ -181,3 +181,7 @@
 
 + [欧洲头条丨从德国汽车产业看美式“对等”名义下的“无差别”反噬](https://news.cctv.com/2025/04/05/ARTI67wPyzNF5nfxTOsACUxt250405.shtml)
 
++ [美国加州州长：美国政府关税政策“并不代表人民意愿”](https://news.cctv.com/2025/04/05/ARTIstXWcOiYJbngaVv03xQv250405.shtml)
+
++ [联合国：贸易战没有赢家 脆弱国家令人担忧](https://news.cctv.com/2025/04/05/ARTIK24eUtI0QycITbdRGI3V250405.shtml)
+
