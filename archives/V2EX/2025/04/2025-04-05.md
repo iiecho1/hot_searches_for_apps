@@ -25,3 +25,5 @@
 
 + [mac 的 karabiner 改键软件 能以普通 的按键 作为修饰键吗?](https://www.v2ex.com/t/1123355)
 
++ [今天整理电脑，看到两张 V2EX 在 2020 年时的流量截图](https://www.v2ex.com/t/1123362)
+
