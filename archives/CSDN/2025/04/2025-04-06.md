@@ -127,3 +127,9 @@
 
 + [操作系统、虚拟化技术与云原生及云原生AI简述](https://blog.csdn.net/yuange1666/article/details/146996907)
 
++ [【SpringCloud】Nacos](https://blog.csdn.net/m0_73888323/article/details/143920284)
+
++ [基于YOLOv8的热力图生成与可视化-支持自定义模型与置信度阈值的多维度分析](https://blog.csdn.net/m0_69402477/article/details/146997416)
+
++ [Linux 进程信号](https://blog.csdn.net/m0_73634434/article/details/146570343)
+
