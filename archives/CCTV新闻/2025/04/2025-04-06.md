@@ -161,3 +161,11 @@
 
 + [美国关税政策遭多方反对：“将伤害美国自身行业和消费者”](https://news.cctv.com/2025/04/03/ARTITNtslNh3EXLrN54vW5iR250403.shtml)
 
++ [伊朗伊斯兰革命卫队总司令：伊朗已为任何战争做好充分准备](https://news.cctv.com/2025/04/06/ARTIbA8tNTN0Zm3HUA6rjsFf250406.shtml)
+
++ [联合国：加沙超百万儿童一个多月无法获得救援物资](https://news.cctv.com/2025/04/06/ARTIbG5mLjjAZZT3aXQRkI7Y250406.shtml)
+
++ [刚果（金）政府与“M23运动”在多哈举行直接会谈](https://news.cctv.com/2025/04/06/ARTIHvwi3MpXAzPfscshLKcM250406.shtml)
+
++ [胡塞武装称打击美“杜鲁门”号航母为首的多艘战舰](https://news.cctv.com/2025/04/06/ARTI8uKubwDOv6EKAoTQt9Lj250406.shtml)
+
