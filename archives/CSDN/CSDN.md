@@ -203,3 +203,13 @@
 
 + [【C++11（上）】—— 我与C++的不解之缘（三十）](https://blog.csdn.net/LH__1314/article/details/146966654)
 
++ [在VMware下Hadoop分布式集群环境的配置--基于Yarn模式的一个Master节点、两个Slaver（Worker）节点的配置](https://blog.csdn.net/2301_79139273/article/details/146603605)
+
++ [基于SpringBoot的河道水情大数据可视化分析平台设计与实现(源码+论文+部署讲解等)](https://blog.csdn.net/IamBird/article/details/146960354)
+
++ [【c++指南】模板VS手写代码：这场效率对决你站哪边？【上】](https://blog.csdn.net/egoist2023/article/details/146541921)
+
++ [深入解析：使用Python爬取Bilibili视频](https://blog.csdn.net/kingmax54212008/article/details/147004409)
+
++ [Muduo网络库实现 [十三] - HttpRequest模块](https://blog.csdn.net/2402_83315537/article/details/147003727)
+
