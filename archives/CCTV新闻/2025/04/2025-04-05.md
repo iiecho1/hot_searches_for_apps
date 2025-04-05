@@ -173,3 +173,7 @@
 
 + [美国土安全部称遣返乌克兰人邮件系“误发”](https://news.cctv.com/2025/04/05/ARTItO3VnShF9TarwYBRha4l250405.shtml)
 
++ [“与特朗普批评者有联系” 美国安局局长被解职](https://news.cctv.com/2025/04/05/ARTI1KzVI3pNzeZ2UYweOcgN250405.shtml)
+
++ [美国太空军135亿美元项目招标 SpaceX获得最多订单](https://military.cctv.com/2025/04/05/ARTILlJ4MjCzMzRqeypBLTMH250405.shtml)
+
