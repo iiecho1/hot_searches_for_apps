@@ -95,3 +95,9 @@
 
 + [我的武魂是兔，你呢？](https://m.acfun.cn/v/%3Fac%3D47096816)
 
++ [【歌回录像】旷野之息（bushi 20250326](https://m.acfun.cn/v/%3Fac%3D47096115)
+
++ [【绝望女神/清明节翻唱】【崩坏3rd 动画短片印象曲 TruE】](https://m.acfun.cn/v/%3Fac%3D47096334)
+
++ [哇塞 是阿格莱雅大人和风堇宝宝](https://m.acfun.cn/v/%3Fac%3D47098854)
+

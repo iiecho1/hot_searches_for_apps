@@ -187,3 +187,5 @@
 
 + [尼日利亚中部发生袭击事件至少52人死亡](https://news.cctv.com/2025/04/05/ARTIKI7fugR8uGCuiuek08QE250405.shtml)
 
++ [乌克兰总统会见英法高级军官 讨论乌国家安全等问题](https://news.cctv.com/2025/04/05/ARTIFFoOwL6KB1M5HDmojx67250405.shtml)
+
