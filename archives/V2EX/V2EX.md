@@ -41,3 +41,5 @@
 
 + [考研调剂边疆双非还是二战？](https://www.v2ex.com/t/1123386)
 
++ [毕业一年半 值得花 2 万买台 MacBook Pro 吗](https://www.v2ex.com/t/1123427)
+

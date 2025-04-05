@@ -201,3 +201,5 @@
 
 + [全球媒体聚焦丨世行前首席经济学家：“特朗普的关税措施将加速美国经济衰退”](https://news.cctv.com/2025/04/05/ARTIn3G0mhoDuNUnp9EazqMo250405.shtml)
 
++ [俄国防部说乌克兰24小时袭击俄能源基础设施14次](https://news.cctv.com/2025/04/05/ARTIcBhBHxMSRgslbEAnPonZ250405.shtml)
+
