@@ -43,3 +43,5 @@
 
 + [毕业一年半 值得花 2 万买台 MacBook Pro 吗](https://www.v2ex.com/t/1123427)
 
++ [ai 和中医很像，突然的想法水一下。](https://www.v2ex.com/t/1123428)
+
