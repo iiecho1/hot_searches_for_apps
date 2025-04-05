@@ -177,3 +177,7 @@
 
 + [美国太空军135亿美元项目招标 SpaceX获得最多订单](https://military.cctv.com/2025/04/05/ARTILlJ4MjCzMzRqeypBLTMH250405.shtml)
 
++ [中国政府援缅第三批抗震救灾物资抵达仰光](https://news.cctv.com/2025/04/05/ARTIkxno6UePJIdqFSNMRRqn250405.shtml)
+
++ [欧洲头条丨从德国汽车产业看美式“对等”名义下的“无差别”反噬](https://news.cctv.com/2025/04/05/ARTI67wPyzNF5nfxTOsACUxt250405.shtml)
+
