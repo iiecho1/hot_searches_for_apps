@@ -21,3 +21,7 @@
 
 + [求输入法推荐](https://www.v2ex.com/t/1123261)
 
++ [比尔盖茨的 Blog 的 UI 好好看啊](https://www.v2ex.com/t/1123346)
+
++ [mac 的 karabiner 改键软件 能以普通 的按键 作为修饰键吗?](https://www.v2ex.com/t/1123355)
+
