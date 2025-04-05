@@ -189,3 +189,7 @@
 
 + [乌克兰总统会见英法高级军官 讨论乌国家安全等问题](https://news.cctv.com/2025/04/05/ARTIFFoOwL6KB1M5HDmojx67250405.shtml)
 
++ [记者手记丨“虽相距遥远，但缘分很深”——感受摩洛哥青年的“中国情缘”](https://news.cctv.com/2025/04/05/ARTIaRDc0OmnP871sODjRXCe250405.shtml)
+
++ [总台现场直击丨中国政府援缅第三批抗震救灾物资抵达仰光](https://news.cctv.com/2025/04/05/ARTIFMGIl5ndT6hBz8ZcAn2u250405.shtml)
+
