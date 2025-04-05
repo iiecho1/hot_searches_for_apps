@@ -199,3 +199,7 @@
 
 + [第三期：深入理解 Spring Web MVC [特殊字符]（数据传参+ 特殊字符处理 + 编码问题解析）](https://blog.csdn.net/eternal__day/article/details/146996921)
 
++ [FAISS向量数据库原理(详解)-以及如何解决LLM检索的分割问题](https://blog.csdn.net/2401_83185882/article/details/147007212)
+
++ [【C++11（上）】—— 我与C++的不解之缘（三十）](https://blog.csdn.net/LH__1314/article/details/146966654)
+

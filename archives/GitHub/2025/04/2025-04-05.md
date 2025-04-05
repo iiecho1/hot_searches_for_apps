@@ -29,3 +29,21 @@
 
 + [backstage/backstage](https://github.com/backstage/backstage)
 
++ [nuejs/nue](https://github.com/nuejs/nue)
+
++ [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)
+
++ [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+
++ [google/googletest](https://github.com/google/googletest)
+
++ [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)
+
++ [twbs/bootstrap](https://github.com/twbs/bootstrap)
+
++ [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)
+
++ [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+

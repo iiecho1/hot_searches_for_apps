@@ -193,3 +193,11 @@
 
 + [总台现场直击丨中国政府援缅第三批抗震救灾物资抵达仰光](https://news.cctv.com/2025/04/05/ARTIFMGIl5ndT6hBz8ZcAn2u250405.shtml)
 
++ [国际锐评丨中方连环反制！美方“关税战”又踢到钢板了](https://news.cctv.com/2025/04/05/ARTIfRvGkD7wrcT7riNoL1Yi250405.shtml)
+
++ [全球瞭望丨坦桑媒体：美国所谓“对等关税”将加剧非洲国家经济增长压力](https://news.cctv.com/2025/04/05/ARTIaydiczKKhvUNt6BncpoW250405.shtml)
+
++ [美经济分析人士：美“对等关税”政策是重大误判](https://news.cctv.com/2025/04/05/ARTIXgw3Yd81LYvtVhlX6yr1250405.shtml)
+
++ [全球媒体聚焦丨世行前首席经济学家：“特朗普的关税措施将加速美国经济衰退”](https://news.cctv.com/2025/04/05/ARTIn3G0mhoDuNUnp9EazqMo250405.shtml)
+
