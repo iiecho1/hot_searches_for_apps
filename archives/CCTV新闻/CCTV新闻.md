@@ -185,3 +185,5 @@
 
 + [联合国：贸易战没有赢家 脆弱国家令人担忧](https://news.cctv.com/2025/04/05/ARTIK24eUtI0QycITbdRGI3V250405.shtml)
 
++ [尼日利亚中部发生袭击事件至少52人死亡](https://news.cctv.com/2025/04/05/ARTIKI7fugR8uGCuiuek08QE250405.shtml)
+
