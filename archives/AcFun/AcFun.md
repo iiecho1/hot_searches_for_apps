@@ -83,3 +83,7 @@
 
 + [甲亢哥：“特朗普”带我探索了中国重庆！ | Live Speedy](https://m.acfun.cn/v/%3Fac%3D47101021)
 
++ [东欧大狐狸跳 EXID - HOT PINK 给你看](https://m.acfun.cn/v/%3Fac%3D47100381)
+
++ [【木野子】FATE ZERO - 小说朗读【非机读，已完工】](https://m.acfun.cn/v/%3Fac%3D47099714)
+

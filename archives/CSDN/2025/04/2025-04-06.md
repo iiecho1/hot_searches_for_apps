@@ -155,3 +155,9 @@
 
 + [使用Geotools中的原始方法来操作PostGIS空间数据库](https://blog.csdn.net/yelangkingwuzuhu/article/details/146965881)
 
++ [trae国际版 Mac Intel芯片更新前的dmg文件，更新之后的10.15的系统用不了，Trea 更新后无法在macOS 10.15系统上运行，如何恢复使用旧版本](https://blog.csdn.net/qq_44866828/article/details/147022031)
+
++ [计算机视觉——为什么 mAP 是目标检测的黄金标准](https://blog.csdn.net/matt45m/article/details/147005940)
+
++ [DeepSeek与ChatGPT的优势对比：选择合适的工具来提升工作效率](https://blog.csdn.net/qq_44819248/article/details/146988216)
+
