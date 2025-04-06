@@ -161,3 +161,9 @@
 
 + [世贸组织总干事称美国关税政策或将使今年全球商品贸易量萎缩约1%](https://news.cctv.com/2025/04/04/ARTIsgYEaKpMkUOCrCocDfAM250404.shtml)
 
++ [武契奇提名久罗·马楚特为塞尔维亚新总理人选](https://news.cctv.com/2025/04/07/ARTIM2ahxQ4UbiYQNGTMngpY250407.shtml)
+
++ [加沙战火重燃 以军被指“系统屠杀” 490名儿童丧生](https://news.cctv.com/2025/04/07/ARTIefev2x5R17UkyyFW9A2s250407.shtml)
+
++ [冯德莱恩：美关税措施将损害所有国家 已准备好反制](https://news.cctv.com/2025/04/07/ARTIYhICLxWfInnV7LUULWGK250407.shtml)
+
