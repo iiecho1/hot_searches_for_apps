@@ -131,3 +131,9 @@
 
 + [西方媒体的天就没好过](https://m.acfun.cn/v/%3Fac%3D47103088)
 
++ [【东方】ラプラスショコラ【雾雨魔理沙 妹抖装Ver. MMD】](https://m.acfun.cn/v/%3Fac%3D47101499)
+
++ [Vibrato](https://m.acfun.cn/v/%3Fac%3D47103601)
+
++ [【原创纯音乐】sunrise on the other side | 彼岸天明](https://m.acfun.cn/v/%3Fac%3D47104768)
+

@@ -193,3 +193,9 @@
 
 + [【 ＜二＞ 丹方改良：Spring 时代的 JavaWeb】之 Spring Boot 的未来：从微服务到云原生的演进](https://blog.csdn.net/FoyoDesigner/article/details/147015015)
 
++ [穿越之灵脉重构师：重启天元代码——2.7 灵脉Debug | 逆熵洪流](https://blog.csdn.net/deepever/article/details/146992641)
+
++ [【TI MSPM0】UART学习](https://blog.csdn.net/2301_79608998/article/details/146998624)
+
++ [Java 大视界 -- Java 大数据在智能医疗远程护理与患者健康管理中的应用与前景（175）](https://blog.csdn.net/atgfg/article/details/147017469)
+
