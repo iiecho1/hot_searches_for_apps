@@ -135,3 +135,5 @@
 
 + [英伟达新一代GPU架构（50系列显卡）PyTorch兼容性解决方案](https://blog.csdn.net/m0_46510245/article/details/147014916)
 
++ [进度条实时加载和Ajax显示Nprogress.js库定制用法web小组件](https://blog.csdn.net/2301_80066325/article/details/147032163)
+
