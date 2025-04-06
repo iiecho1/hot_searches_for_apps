@@ -193,3 +193,7 @@
 
 + [反特朗普政府抗议活动席卷全美](https://news.cctv.com/2025/04/06/ARTImaEklC1P6Rb7uvolZMXm250406.shtml)
 
++ [中国救援队伍在缅持续开展医疗服务和震后建筑安全应急评估](https://news.cctv.com/2025/04/06/ARTIqjnupQjhM7ROTUTwqxha250406.shtml)
+
++ [韩国国会议长提议在总统选举日举行修宪国民投票](https://news.cctv.com/2025/04/06/ARTI5ztLWKQSmfcgH1mbMBWf250406.shtml)
+
