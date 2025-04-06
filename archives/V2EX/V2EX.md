@@ -47,3 +47,7 @@
 
 + [Kitty, Wezterm, Alacritty, Ghostty 该用哪个?](https://www.v2ex.com/t/1123532)
 
++ [ktc 出了一个 5k 分辨率的雾面屏显示器](https://www.v2ex.com/t/1123483)
+
++ [[沈阳]招聘精通 vue3 生态前端工程师一名,非外包](https://www.v2ex.com/t/1123512)
+

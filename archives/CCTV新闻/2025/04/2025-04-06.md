@@ -211,3 +211,11 @@
 
 + [特朗普是美国经济特效减肥药](https://news.cctv.com/2025/04/06/ARTIin5VkLqWOJ8jmj3ZiGQp250406.shtml)
 
++ [“把中国教我的，教给更多非洲同胞”（海外纪闻）](https://news.cctv.com/2025/04/06/ARTIRNHUqGfjwYRQZdxqzbgN250406.shtml)
+
++ [美媒：美国举行抗议活动 “充斥着对关税和市场崩盘的愤怒”](https://news.cctv.com/2025/04/06/ARTI8gBUenLLhBVkGoUswVsV250406.shtml)
+
++ [全球瞭望丨英媒：美国关税计算方法引发经济学家广泛质疑](https://news.cctv.com/2025/04/06/ARTIWGOCvcn0H41LtNePSmGO250406.shtml)
+
++ [“不反对间接谈判” 伊朗军方透露回信特朗普的细节内容](https://news.cctv.com/2025/04/06/ARTIaasJuHKHc6SgFAyoPE8z250406.shtml)
+
