@@ -101,3 +101,15 @@
 
 + [OpenMinus 源码深度解析：从 React 模式到多智能体架构实现](https://blog.csdn.net/omonday1234/article/details/147000084)
 
++ [神经网络能不能完全拟合y=x² ？？？](https://blog.csdn.net/Listennnn/article/details/146991919)
+
++ [MySQL系统库汇总](https://blog.csdn.net/qq_74092815/article/details/147003428)
+
++ [spring-cloud-alibaba-nacos-config使用说明](https://blog.csdn.net/zhangzehai2234/article/details/147012488)
+
++ [【数学建模】（时间序列模型）ARIMA时间序列模型](https://blog.csdn.net/Zlyzjiabjw547479/article/details/147012451)
+
++ [从地狱模式到躺平：Java云原生依赖兼容性检查的10个必杀技](https://blog.csdn.net/z_344791576/article/details/146437414)
+
++ [【Linux系统】linux下的软件管理](https://blog.csdn.net/twlw13/article/details/147012046)
+
