@@ -133,3 +133,5 @@
 
 + [VLAN(虚拟局域网)](https://blog.csdn.net/2301_81548590/article/details/147029462)
 
++ [英伟达新一代GPU架构（50系列显卡）PyTorch兼容性解决方案](https://blog.csdn.net/m0_46510245/article/details/147014916)
+
