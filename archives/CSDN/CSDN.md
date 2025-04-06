@@ -113,3 +113,21 @@
 
 + [【Linux系统】linux下的软件管理](https://blog.csdn.net/twlw13/article/details/147012046)
 
++ [【c++指南】模板VS手写代码：这场效率对决你站哪边？【下】](https://blog.csdn.net/egoist2023/article/details/147013718)
+
++ [Elasticsearch：使用机器学习生成筛选器和分类标签](https://blog.csdn.net/UbuntuTouch/article/details/146993861)
+
++ [UE5安卓打包添加隐私政策弹窗。](https://blog.csdn.net/zimu_233/article/details/147027653)
+
++ [学透Spring Boot — 013. Spring Web-Flux 函数式风格的控制器](https://blog.csdn.net/postnull/article/details/147014551)
+
++ [WebChat 一款超好用的浏览器侧边栏 AI 问答插件](https://blog.csdn.net/weixin_51524504/article/details/147031344)
+
++ [鸿蒙开发实现微信tabs滑动页面时tabbar随着滑动呈现的动态效果](https://blog.csdn.net/qq_38097561/article/details/147026443)
+
++ [自动化备份全网服务器数据平台](https://blog.csdn.net/haijq/article/details/146927047)
+
++ [深度解析Llama 4：性能突破、架构创新与生态应用](https://blog.csdn.net/qq_41797451/article/details/147022271)
+
++ [Redis核心机制-缓存、分布式锁](https://blog.csdn.net/qq_74056922/article/details/146955414)
+
