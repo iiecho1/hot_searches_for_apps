@@ -43,3 +43,7 @@
 
 + [关于在国内做海外远程工作的问题](https://www.v2ex.com/t/1123484)
 
++ [有脱发又成功恢复的站友吗?](https://www.v2ex.com/t/1123496)
+
++ [Kitty, Wezterm, Alacritty, Ghostty 该用哪个?](https://www.v2ex.com/t/1123532)
+

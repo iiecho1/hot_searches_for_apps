@@ -27,3 +27,21 @@
 
 + [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
 
++ [meta-llama/llama-models](https://github.com/meta-llama/llama-models)
+
++ [juliangarnier/anime](https://github.com/juliangarnier/anime)
+
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [NVIDIA-Omniverse/PhysX](https://github.com/NVIDIA-Omniverse/PhysX)
+
++ [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+
++ [activepieces/activepieces](https://github.com/activepieces/activepieces)
+
++ [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp)
+
++ [unionlabs/union](https://github.com/unionlabs/union)
+
++ [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
+
