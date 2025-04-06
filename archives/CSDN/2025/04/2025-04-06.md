@@ -187,3 +187,9 @@
 
 + [大模型-爬虫prompt](https://blog.csdn.net/qq_43563512/article/details/147004341)
 
++ [pyTorch框架使用CNN进行手写数字识别](https://blog.csdn.net/Hiweir/article/details/147017207)
+
++ [动手学生成式深度学习VAE(包含变分自编码器生成数字图像实践 | 完整代码 | Pytorch实现)](https://blog.csdn.net/qq_53769632/article/details/146999654)
+
++ [【 ＜二＞ 丹方改良：Spring 时代的 JavaWeb】之 Spring Boot 的未来：从微服务到云原生的演进](https://blog.csdn.net/FoyoDesigner/article/details/147015015)
+
