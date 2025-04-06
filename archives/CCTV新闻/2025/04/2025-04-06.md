@@ -197,3 +197,9 @@
 
 + [韩国国会议长提议在总统选举日举行修宪国民投票](https://news.cctv.com/2025/04/06/ARTI5ztLWKQSmfcgH1mbMBWf250406.shtml)
 
++ [特写｜敲击声重燃求生渴望](https://news.cctv.com/2025/04/06/ARTImycCRAPiZyCGAhCNtiQN250406.shtml)
+
++ [韩国大邱市一架灭火直升机坠落](https://news.cctv.com/2025/04/06/ARTIHS3AAVrKFDtk5wN71lfh250406.shtml)
+
++ [机场垃圾箱内发现子弹 韩国警方启动调查](https://news.cctv.com/2025/04/06/ARTIGmcxTaVh0aerXdo2AbWt250406.shtml)
+

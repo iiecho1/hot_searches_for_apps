@@ -173,3 +173,7 @@
 
 + [html5炫酷3D文字效果项目开发实践](https://blog.csdn.net/qq_43129878/article/details/146998642)
 
++ [FAISS向量数据库-如何解决LLM文本检索的分块问题](https://blog.csdn.net/2401_83185882/article/details/147007212)
+
++ [第P10周：Pytorch实现车牌识别](https://blog.csdn.net/weixin_59907394/article/details/147002306)
+
