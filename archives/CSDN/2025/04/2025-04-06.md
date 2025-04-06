@@ -169,3 +169,7 @@
 
 + [如何提升后端开发效率：从Spring Boot到微服务架构](https://blog.csdn.net/2302_79177254/article/details/146995312)
 
++ [从开发到上线：基于 Linux 云服务器的前后端分离项目部署实践（Vue + Node.js）](https://blog.csdn.net/ciyundata/article/details/146995254)
+
++ [html5炫酷3D文字效果项目开发实践](https://blog.csdn.net/qq_43129878/article/details/146998642)
+
