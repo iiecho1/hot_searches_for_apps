@@ -199,3 +199,9 @@
 
 + [Java 大视界 -- Java 大数据在智能医疗远程护理与患者健康管理中的应用与前景（175）](https://blog.csdn.net/atgfg/article/details/147017469)
 
++ [【大模型】DeepSeek + 蓝耕MaaS平台 + 海螺AI生成高质量视频操作详解](https://blog.csdn.net/zhangcongyi420/article/details/146995322)
+
++ [【网络安全】安全的网络设计](https://blog.csdn.net/qq_53225741/article/details/147013552)
+
++ [Spring-AOP详解(AOP概念，原理，动态代理，静态代理)](https://blog.csdn.net/robin_suli/article/details/147024306)
+
