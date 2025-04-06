@@ -169,3 +169,13 @@
 
 + [胡塞武装称打击美“杜鲁门”号航母为首的多艘战舰](https://news.cctv.com/2025/04/06/ARTI8uKubwDOv6EKAoTQt9Lj250406.shtml)
 
++ [联合国警告贸易战没有赢家 美加州州长：加州不是华盛顿](https://news.cctv.com/2025/04/06/ARTI2HKI0ZLHzNSN3PJmHsdA250406.shtml)
+
++ [美国安局长被解职 谁打的“小报告”？五角大楼人心惶惶](https://news.cctv.com/2025/04/06/ARTIJ98QInY1JojjgzLSjCPn250406.shtml)
+
++ [全球连线丨德企持续加大投资和研发力度 加码布局中国市场](https://news.cctv.com/2025/04/06/ARTIrpDjUxF466P0CjhxKz2v250406.shtml)
+
++ [美国发起的贸易战火终将反噬自身](https://news.cctv.com/2025/04/06/ARTIUpbzF5c0YsBmtD4hvW8q250406.shtml)
+
++ [深观察丨美国的“恐吓”正在“赶走”盟友](https://news.cctv.com/2025/04/06/ARTIqOBBplqQKyJOonCxXQc8250406.shtml)
+
