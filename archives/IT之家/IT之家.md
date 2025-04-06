@@ -25,3 +25,27 @@
 
 + [2025 清明节电影票房破亿，《哪吒之魔童闹海》仍位列前三](https://m.ithome.com/html/842293.htm)
 
++ [小米之家日本第二家直营店开业，人气继续火爆](https://m.ithome.com/html/843196.htm)
+
++ [奇瑞 QQ 概念车官图公布：流媒体后视镜 + 无门把手、上海车展亮相](https://m.ithome.com/html/843231.htm)
+
++ [苹果 M4 款 MacBook Pro 和 Mac mini 国行翻新版上架，最高立省 15%](https://m.ithome.com/html/843235.htm)
+
++ [USB Type-C 一线走天下，还有这些“坑”需要解决](https://m.ithome.com/html/843217.htm)
+
++ [我国过敏性鼻炎治疗研究取得新进展，相关国产药物已获批上市](https://m.ithome.com/html/843221.htm)
+
++ [OPPO Find X8s+ 手机升级点公布：6000mAh 电池、自定义按键等](https://m.ithome.com/html/843206.htm)
+
++ [消息称《塞尔达传说：王国之泪》Switch 2 版 TV 模式下支持 4K 60FPS 运行](https://m.ithome.com/html/843187.htm)
+
++ [创意求职：工程师悬赏 1 万美元寻求年薪六位数开发岗，获意外成功](https://m.ithome.com/html/843222.htm)
+
++ [让旧头、老宝激发小米快充：酷态科 10 号双头电能线 71 元新低](https://m.ithome.com/html/843241.htm)
+
++ [全新一代宝马 X5 路试谍照曝光，预计 2026 年首次亮相](https://m.ithome.com/html/843208.htm)
+
++ [CPU-Z 最新数据：八核处理器受欢迎程度首次超越六核产品，AMD 锐龙 7 9800X3D 最惹人爱](https://m.ithome.com/html/843251.htm)
+
++ [iQOO Z10 Turbo Pro、小米 REDMI Turbo 4 Pro 手机参数曝光：均为本月发布、骁龙 8s Gen4 处理器](https://m.ithome.com/html/842293.htm)
+

@@ -137,3 +137,7 @@
 
 + [Flink介绍——实时计算核心论文之Storm论文总结](https://blog.csdn.net/qq_41478243/article/details/146970346)
 
++ [【现代深度学习技术】现代卷积神经网络07：稠密连接网络（DenseNet）](https://blog.csdn.net/Morse_Chen/article/details/146942268)
+
++ [计算机网络-TCP的拥塞控制](https://blog.csdn.net/LUCIAZZZ/article/details/146981401)
+
