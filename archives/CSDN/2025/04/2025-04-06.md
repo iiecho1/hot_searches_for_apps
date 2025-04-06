@@ -147,3 +147,11 @@
 
 + [调用kimi api](https://blog.csdn.net/CDialog/article/details/147000763)
 
++ [模运算核心性质与算法应用：从数学原理到编程实践](https://blog.csdn.net/2402_88461821/article/details/146997116)
+
++ [使用 Elastic 实现端到端的大语言模型（LLM）可观测性：洞察生成式 AI 应用这个不透明的世界](https://blog.csdn.net/UbuntuTouch/article/details/147015606)
+
++ [Opencv计算机视觉编程攻略-第九节 描述和匹配兴趣点](https://blog.csdn.net/weixin_44242403/article/details/146996178)
+
++ [使用Geotools中的原始方法来操作PostGIS空间数据库](https://blog.csdn.net/yelangkingwuzuhu/article/details/146965881)
+

@@ -189,3 +189,7 @@
 
 + [一架轻型飞机在新西兰黑斯廷斯坠毁](https://news.cctv.com/2025/04/06/ARTIIKsM48FPxPmrKF0HCitD250406.shtml)
 
++ [反特朗普政府抗议活动席卷全美](https://news.cctv.com/2025/04/06/ARTIEv9oyMr1uEnqjJXFXSRs250406.shtml)
+
++ [反特朗普政府抗议活动席卷全美](https://news.cctv.com/2025/04/06/ARTImaEklC1P6Rb7uvolZMXm250406.shtml)
+
