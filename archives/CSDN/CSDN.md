@@ -177,3 +177,13 @@
 
 + [第P10周：Pytorch实现车牌识别](https://blog.csdn.net/weixin_59907394/article/details/147002306)
 
++ [如何解决LLM文本检索的时候文本分割问题-FAISS](https://blog.csdn.net/2401_83185882/article/details/147007212)
+
++ [神经网络能不能完全拟合y=x² ？？？](https://blog.csdn.net/Listennnn/article/details/146991919)
+
++ [2-Visual Studio 2022 NET开发Windows桌面软件并连接SQL Server数据库](https://blog.csdn.net/qq_73252299/article/details/147012277)
+
++ [基于LangChain构建专业级文档问答系统：从原理到实现的全方位指南](https://blog.csdn.net/qq_16242613/article/details/146988711)
+
++ [大模型-爬虫prompt](https://blog.csdn.net/qq_43563512/article/details/147004341)
+

@@ -203,3 +203,11 @@
 
 + [机场垃圾箱内发现子弹 韩国警方启动调查](https://news.cctv.com/2025/04/06/ARTIGmcxTaVh0aerXdo2AbWt250406.shtml)
 
++ [一架灭火直升机在韩国大邱坠毁 1名飞行员死亡](https://news.cctv.com/2025/04/06/ARTILJEDbKw0M9KN4XTRJPMI250406.shtml)
+
++ [综述丨巴西多举措应对美贸易保护主义](https://news.cctv.com/2025/04/06/ARTIUXp9LsfuOfXAX5XbxNcL250406.shtml)
+
++ [全球瞭望丨比利时《回声报》：美关税政策令华尔街首当其冲](https://news.cctv.com/2025/04/06/ARTIwuXaolY8QThVKd1nhJ75250406.shtml)
+
++ [特朗普是美国经济特效减肥药](https://news.cctv.com/2025/04/06/ARTIin5VkLqWOJ8jmj3ZiGQp250406.shtml)
+
