@@ -179,3 +179,13 @@
 
 + [深观察丨美国的“恐吓”正在“赶走”盟友](https://news.cctv.com/2025/04/06/ARTIqOBBplqQKyJOonCxXQc8250406.shtml)
 
++ [龙卷风和洪水在美中西部和南部造成至少16人死亡](https://news.cctv.com/2025/04/06/ARTIFOaF86iweyjpZfYCSHmY250406.shtml)
+
++ [乌克兰首都基辅遭到空袭](https://military.cctv.com/2025/04/06/ARTIZPVSyDkC7T5BAO5C29yy250406.shtml)
+
++ [中国“文物医生”在海外](https://news.cctv.com/2025/04/06/ARTI4pyUIaCYWSSP66cKIhRI250406.shtml)
+
++ [泽连斯基抨击美国大使馆 称其对俄袭击的回应“令人失望”](https://news.cctv.com/2025/04/06/ARTIQMVXJFBLJmigMVYxJEoy250406.shtml)
+
++ [一架轻型飞机在新西兰黑斯廷斯坠毁](https://news.cctv.com/2025/04/06/ARTIIKsM48FPxPmrKF0HCitD250406.shtml)
+
