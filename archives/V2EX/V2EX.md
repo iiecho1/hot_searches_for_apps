@@ -43,3 +43,5 @@
 
 + [说说你 N 刷的国产经典电视剧。](https://www.v2ex.com/t/1123705)
 
++ [GKD 上架 Google Play 封闭式测试邀请](https://www.v2ex.com/t/1123733)
+

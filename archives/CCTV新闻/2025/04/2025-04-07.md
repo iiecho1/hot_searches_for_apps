@@ -253,3 +253,5 @@
 
 + [哈马斯发射火箭弹 内塔尼亚胡称将“采取有力回应”](https://news.cctv.com/2025/04/07/ARTIVX3XplwzlKXX4d1we2XD250407.shtml)
 
++ [阿尔及利亚和法国同意全面恢复各项合作机制](https://news.cctv.com/2025/04/07/ARTIADbEVZl0Znrq2cDRZFX6250407.shtml)
+
