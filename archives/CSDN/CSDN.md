@@ -233,3 +233,7 @@
 
 + [多元高斯分布函数](https://blog.csdn.net/u010948546/article/details/147026862)
 
++ [记一次不太顺利的Docker重装](https://blog.csdn.net/u014451778/article/details/147012432)
+
++ [Linux红帽：RHCSA认证知识讲解（十 二）调试 SELinux，如何管理 SELinux 的运行模式、安全策略、端口和上下文策略](https://blog.csdn.net/2402_83322742/article/details/146924420)
+

@@ -263,3 +263,11 @@
 
 + [美法院裁定两名遭解雇的联邦机构负责人暂时复职](https://news.cctv.com/2025/04/07/ARTIkoLimm33dEAlZZWmO17B250407.shtml)
 
++ [大阪世博会中国馆展陈准备就绪](https://news.cctv.com/2025/04/07/ARTIiWKpYtGJhyVyAZjeLsPT250407.shtml)
+
++ [白宫官员：特朗普正考虑对部分国家暂停征收90天关税](https://news.cctv.com/2025/04/07/ARTIdjhl3xKfRJESxtqI9QMk250407.shtml)
+
++ [苏丹西部一难民营遭炮击 造成26人伤亡](https://news.cctv.com/2025/04/07/ARTI5vcG70ycbljN3BNJOj3u250407.shtml)
+
++ [马来西亚总理：东盟国家需团结一致应对美关税政策](https://news.cctv.com/2025/04/07/ARTI7bmMPwGr34LvIZ9sP3uC250407.shtml)
+
