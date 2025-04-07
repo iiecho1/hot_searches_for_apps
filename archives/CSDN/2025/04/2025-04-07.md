@@ -151,3 +151,9 @@
 
 + [Llama 4 模型深度解析：架构创新 × 多版本对比 × 应用实战](https://blog.csdn.net/sinat_28461591/article/details/147031231)
 
++ [Stable Diffusion 中 Cross Attention 实现原理解析（含代码讲解）](https://blog.csdn.net/qq_43069203/article/details/147023525)
+
++ [【从零实现Json-Rpc框架】- 项目实现 - 客户端注册主题整合 及 rpc流程示意](https://blog.csdn.net/2301_77954967/article/details/146997545)
+
++ [Llama 4重磅开源标志着Llama 4与Apple Silicon的协同创新：多模态架构与硬件适配的全面解析](https://blog.csdn.net/2301_76341691/article/details/147028690)
+

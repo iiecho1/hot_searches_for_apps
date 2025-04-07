@@ -167,3 +167,27 @@
 
 + [冯德莱恩：美关税措施将损害所有国家 已准备好反制](https://news.cctv.com/2025/04/07/ARTIYhICLxWfInnV7LUULWGK250407.shtml)
 
++ [关税政策冲击美国“科学核心基础设施”](https://news.cctv.com/2025/04/07/ARTI69yJ2L6TnFizJgjYdLes250407.shtml)
+
++ [美新关税政策将推高几乎所有日用品价格 抗议活动席卷全美](https://news.cctv.com/2025/04/07/ARTIJTCNQmhFiygwndrGJFhs250407.shtml)
+
++ [美国经济学家：中国将开创人类新时代](https://news.cctv.com/2025/04/07/ARTIiVJMaShpHLwAnn4BOJeW250407.shtml)
+
++ [驻加拿大使馆发言人就七国集团国家外长和欧盟高级代表涉台错误声明答记者问](https://news.cctv.com/2025/04/07/ARTIeZAjTwxRn1opYz9T4ktz250407.shtml)
+
++ [中国将长期成为外资企业投资兴业的沃土](https://news.cctv.com/2025/04/07/ARTIGg82zFqVhX4BE8XU5VZh250407.shtml)
+
++ [向世界传递“春之声”——从三场国际论坛看中国经济向“新”大势](https://news.cctv.com/2025/04/07/ARTIlsVYZ23tuH94VtMIlM6p250407.shtml)
+
++ [巴西一载有乙醇卡车爆炸 附近27辆汽车起火](https://news.cctv.com/2025/04/07/ARTIEv1TpuC0Lft0Y9szg73r250407.shtml)
+
++ [韩国大选时间初步敲定 谁有望成为尹锡悦的继任者？](https://news.cctv.com/2025/04/07/ARTI78gw25kdbusAcZGQwyyT250407.shtml)
+
++ [日本千叶县发生5级地震 东京等地有震感](https://news.cctv.com/2025/04/07/ARTIf0VY1QfmG7DYTSrhmSS1250407.shtml)
+
++ [内塔尼亚胡抵达美国 将与特朗普会晤](https://news.cctv.com/2025/04/07/ARTIKpweMnF0KFXlRT2aMDKj250407.shtml)
+
++ [意大利总理：准备动用一切必要手段应对美关税](https://news.cctv.com/2025/04/07/ARTIGsvP74TNatQwaX2xoO2a250407.shtml)
+
++ [韩国政府暂定6月3日举行总统选举](https://news.cctv.com/2025/04/07/ARTIj3aHQJ5g2EXSzpRqD80A250407.shtml)
+
