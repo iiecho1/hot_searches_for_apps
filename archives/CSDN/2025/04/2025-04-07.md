@@ -195,3 +195,9 @@
 
 + [基于spring boot的外卖系统的设计与实现【如何写论文思路与真正写出论文】](https://blog.csdn.net/Elephantpretty/article/details/147005554)
 
++ [ChatGPT 4：解锁AI文案、绘画与视频创作新纪元](https://blog.csdn.net/qq_32682301/article/details/147024487)
+
++ [Java 大视界 -- Java 大数据在智能医疗远程护理与患者健康管理中的应用与前景（175）](https://blog.csdn.net/atgfg/article/details/147017469)
+
++ [跨平台游戏引擎 axmol-2.5.0 发布](https://blog.csdn.net/xyzzf/article/details/147014384)
+

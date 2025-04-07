@@ -221,3 +221,15 @@
 
 + [新一周继续大跌！美股过去两交易日已蒸发5.4万亿美元](https://news.cctv.com/2025/04/07/ARTIRzbEYVj6HDl5stn4cHwH250407.shtml)
 
++ [乌克兰代表团本周将前往美国就矿产协议草案进行谈判](https://news.cctv.com/2025/04/07/ARTI5ctfogJzCnErLHMjmvI6250407.shtml)
+
++ [一名美籍巴勒斯坦少年在约旦河西岸被以军打死](https://news.cctv.com/2025/04/07/ARTIBIYHb20SNSdcGatZz0Vu250407.shtml)
+
++ [美国“关税风暴”在全球供应链中引发冲击波 招致多国媒体抨击](https://news.cctv.com/2025/04/07/ARTImEb62JhhhU6grlCTc4Oc250407.shtml)
+
++ [【关税观察】关税给美国带来的风暴，才刚刚开始](https://news.cctv.com/2025/04/07/ARTIL7LDhZxRhrhSO2iuSBC9250407.shtml)
+
++ [美专家：美关税政策是95年来最严重的政策失误 恐将酿成灾难性后果](https://news.cctv.com/2025/04/07/ARTInuSzgjI5gz2tHVCyzlQI250407.shtml)
+
++ [英国放宽电动汽车转型规定 应对美关税冲击](https://news.cctv.com/2025/04/07/ARTI1rfzylBdIDZSydS3ez83250407.shtml)
+
