@@ -45,3 +45,5 @@
 
 + [GKD 上架 Google Play 封闭式测试邀请](https://www.v2ex.com/t/1123733)
 
++ [想找静态网页托管服务，无需域名](https://www.v2ex.com/t/1123748)
+

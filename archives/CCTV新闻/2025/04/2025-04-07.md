@@ -261,3 +261,5 @@
 
 + [昔日坚定看好 如今“腰斩”！特斯拉“铁粉”下调目标股价](https://news.cctv.com/2025/04/07/ARTIEluFgNZW9dBgqBa30GOR250407.shtml)
 
++ [美法院裁定两名遭解雇的联邦机构负责人暂时复职](https://news.cctv.com/2025/04/07/ARTIkoLimm33dEAlZZWmO17B250407.shtml)
+
