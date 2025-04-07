@@ -191,3 +191,9 @@
 
 + [韩国政府暂定6月3日举行总统选举](https://news.cctv.com/2025/04/07/ARTIj3aHQJ5g2EXSzpRqD80A250407.shtml)
 
++ [上周国际金价累计跌超2%](https://news.cctv.com/2025/04/07/ARTI5VNajZMqShLlTdoOzH96250407.shtml)
+
++ [美国已确诊642例麻疹病例 2025年已有3人死亡](https://news.cctv.com/2025/04/07/ARTIaaSwlNUxah4unj1Hp3yK250407.shtml)
+
++ [刚果（金）首都洪灾死亡人数升至33人](https://news.cctv.com/2025/04/07/ARTIasSguYXrJEAJwD58zTbO250407.shtml)
+

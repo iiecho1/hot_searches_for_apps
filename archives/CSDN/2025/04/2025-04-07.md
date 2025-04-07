@@ -157,3 +157,17 @@
 
 + [Llama 4重磅开源标志着Llama 4与Apple Silicon的协同创新：多模态架构与硬件适配的全面解析](https://blog.csdn.net/2301_76341691/article/details/147028690)
 
++ [Docker Compose环境变量与配置文件管理全攻略](https://blog.csdn.net/Lisiyang0928/article/details/147032788)
+
++ [测试分类篇](https://blog.csdn.net/weixin_73077334/article/details/146428623)
+
++ [TensorFlow深度学习实战——字符嵌入、子词嵌入、句子嵌入和段落嵌入](https://blog.csdn.net/LOVEmy134611/article/details/147034148)
+
++ [动手学生成式深度学习VAE(包含变分自编码器生成数字图像实践 | 完整代码 | Pytorch实现)](https://blog.csdn.net/qq_53769632/article/details/146999654)
+
++ [【Redis】通用命令](https://blog.csdn.net/2301_77868664/article/details/147015588)
+
++ [【Web服务器】深度挖掘 Cookie 与 LocalStorage：搭建实用登录/注册功能](https://blog.csdn.net/m0_75192474/article/details/147010965)
+
++ [消息队列(kafka 与 rocketMQ)](https://blog.csdn.net/dengjiayue/article/details/147029521)
+
