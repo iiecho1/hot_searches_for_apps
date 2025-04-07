@@ -233,3 +233,11 @@
 
 + [英国放宽电动汽车转型规定 应对美关税冲击](https://news.cctv.com/2025/04/07/ARTI1rfzylBdIDZSydS3ez83250407.shtml)
 
++ [一男子闯入加拿大国会山威胁他人安全 被控多项罪名](https://news.cctv.com/2025/04/07/ARTIa39qwvHmBz6IJnwI9j2e250407.shtml)
+
++ [外交部：中方愿意同各方一道坚持真正的多边主义](https://news.cctv.com/2025/04/07/ARTI4Tul8ODVDzbCaqE2oYVl250407.shtml)
+
++ [肯尼亚一建筑物倒塌已致5死](https://news.cctv.com/2025/04/07/ARTIYPK0Q05ScXk6CI7ivgly250407.shtml)
+
++ [关税战恐令苹果公司遭遇“人生大考” 在美售产品面临涨价](https://news.cctv.com/2025/04/07/ARTIiHdc4Zw520wS2x0zx6Ft250407.shtml)
+

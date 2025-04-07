@@ -201,3 +201,5 @@
 
 + [跨平台游戏引擎 axmol-2.5.0 发布](https://blog.csdn.net/xyzzf/article/details/147014384)
 
++ [频率派与贝叶斯统计在营销组合建模中的应用比较：隐私优先时代的方法选择](https://blog.csdn.net/m0_46510245/article/details/147037421)
+
