@@ -245,3 +245,5 @@
 
 + [受美“对等关税”影响 多国汇市剧烈震荡](https://news.cctv.com/2025/04/07/ARTIJpg2f6uOFUw7KykZ5swJ250407.shtml)
 
++ [美企如何承担美国关税？用一部手机的价格告诉你](https://news.cctv.com/2025/04/07/ARTIoO6daFOH8UGGxJdIQ3VI250407.shtml)
+

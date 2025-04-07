@@ -213,3 +213,9 @@
 
 + [【ESP32】ESP32物联网应用：MQTT控制与状态监测](https://blog.csdn.net/hmywillstronger/article/details/147023317)
 
++ [穿越之灵脉重构师：重启天元代码——2.8 灵脉Debug | 对撞天命](https://blog.csdn.net/deepever/article/details/146992645)
+
++ [如何在idea中快速搭建一个Spring Boot项目？](https://blog.csdn.net/2302_78879607/article/details/147024497)
+
++ [Android studio局域网屏幕共享(旧手机可以用来当监控啦)](https://blog.csdn.net/qq_42311391/article/details/147024203)
+
