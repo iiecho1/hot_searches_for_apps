@@ -111,3 +111,7 @@
 
 + [2025 LCK杯 第二赛段 T1 vs GEN KT vs DK](https://m.acfun.cn/v/%3Fac%3D47105071)
 
++ [巴霍迪尔·贾洛洛夫 vs 伊霍尔·谢瓦祖斯基](https://m.acfun.cn/v/%3Fac%3D47104946)
+
++ [NJPW G1 Climax 25 第十八日 2015.08.15 中邑真辅 vs. 冈田和睦](https://m.acfun.cn/v/%3Fac%3D47104967)
+

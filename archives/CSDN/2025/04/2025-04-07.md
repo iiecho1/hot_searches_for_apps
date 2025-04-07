@@ -219,3 +219,5 @@
 
 + [Android studio局域网屏幕共享(旧手机可以用来当监控啦)](https://blog.csdn.net/qq_42311391/article/details/147024203)
 
++ [Windows操作系统安全配置（一）](https://blog.csdn.net/u014690484/article/details/147032692)
+

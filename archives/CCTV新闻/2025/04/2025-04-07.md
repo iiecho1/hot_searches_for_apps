@@ -247,3 +247,9 @@
 
 + [美企如何承担美国关税？用一部手机的价格告诉你](https://news.cctv.com/2025/04/07/ARTIoO6daFOH8UGGxJdIQ3VI250407.shtml)
 
++ [中泰齐心 命运与共（大使随笔）](https://news.cctv.com/2025/04/07/ARTI5hXS1nKItGB2qo7869e3250407.shtml)
+
++ [全球瞭望丨以媒：所谓“对等关税”是对盟友的“可耻背叛”](https://news.cctv.com/2025/04/07/ARTIVqRzBZeo1rVNqHhVQyE6250407.shtml)
+
++ [哈马斯发射火箭弹 内塔尼亚胡称将“采取有力回应”](https://news.cctv.com/2025/04/07/ARTIVX3XplwzlKXX4d1we2XD250407.shtml)
+

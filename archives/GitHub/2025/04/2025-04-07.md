@@ -25,3 +25,15 @@
 
 + [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
 
++ [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+
++ [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook)
+
++ [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)
+
++ [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
+
++ [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [liam-hq/liam](https://github.com/liam-hq/liam)
+
