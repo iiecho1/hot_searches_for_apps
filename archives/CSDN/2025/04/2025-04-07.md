@@ -171,3 +171,11 @@
 
 + [消息队列(kafka 与 rocketMQ)](https://blog.csdn.net/dengjiayue/article/details/147029521)
 
++ [智能体中的知识库、数据库与大模型详解](https://blog.csdn.net/2302_79376097/article/details/146990748)
+
++ [Redis 线程模型：单线程也能快如闪电？](https://blog.csdn.net/qq_56158663/article/details/147029527)
+
++ [Llama 4 本地部署实战指南：Scout 模型全流程配置 × 性能测试 × 多端集成](https://blog.csdn.net/sinat_28461591/article/details/147031574)
+
++ [嵌入式硬件篇---TOF&陀螺仪&SPI液晶屏](https://blog.csdn.net/2301_79556402/article/details/147018991)
+

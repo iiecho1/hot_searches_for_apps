@@ -81,3 +81,9 @@
 
 + [乘风破浪的姐姐 第6季 2025.04.06-加更版第3期 李艺彤在宿舍看  BanG Dream!](https://m.acfun.cn/v/%3Fac%3D47103743)
 
++ [欢乐谷是懂蛇精的！★手机竖屏1478★](https://m.acfun.cn/v/%3Fac%3D47105153)
+
++ [【HJM每周秀】VS【HXD每周秀】vol.20](https://m.acfun.cn/v/%3Fac%3D47105661)
+
++ [【弱音/MMD】倾杯](https://m.acfun.cn/v/%3Fac%3D47104071)
+

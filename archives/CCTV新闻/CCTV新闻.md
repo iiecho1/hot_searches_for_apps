@@ -197,3 +197,13 @@
 
 + [刚果（金）首都洪灾死亡人数升至33人](https://news.cctv.com/2025/04/07/ARTIasSguYXrJEAJwD58zTbO250407.shtml)
 
++ [韩国一火电厂发生火灾 暂无人员伤亡](https://news.cctv.com/2025/04/07/ARTIFxWtfugwswG4N8Mw8SNY250407.shtml)
+
++ [美媒犀利点评关税新政：加征关税对美国企业是“一场噩梦”](https://news.cctv.com/2025/04/07/ARTIJAmz5jCagTRMJydk6COf250407.shtml)
+
++ [美关税新政在美引发“囤货潮” 本土制造商面临严峻挑战](https://news.cctv.com/2025/04/07/ARTIEZqO1lZoPqWWZc9OEIdf250407.shtml)
+
++ [对冲基金巨头批评特朗普关税政策：美对全球发动经济核战](https://news.cctv.com/2025/04/07/ARTIDLbIVKsimWSxMqzb8n83250407.shtml)
+
++ [多家市场机构大幅下调对美国今年经济增长预期 预计美国将出现经济衰退](https://news.cctv.com/2025/04/07/ARTIs8IqYiynvgf2f4kpA8xt250407.shtml)
+
