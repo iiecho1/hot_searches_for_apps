@@ -187,3 +187,11 @@
 
 + [Spring Boot + Kafka 消息队列从零到落地](https://blog.csdn.net/m0_59465624/article/details/147027693)
 
++ [【Web API系列】XMLHttpRequest API和Fetch API深入理解与应用指南](https://blog.csdn.net/weixin_47754149/article/details/146372579)
+
++ [Meta推出Llama 4系列AI模型，包括Scout、Maverick和Behemoth三款产品，具备出色视觉理解能力](https://blog.csdn.net/qq_44866828/article/details/147022965)
+
++ [网络原理 - HTTP/HTTPS](https://blog.csdn.net/2302_81707171/article/details/146501168)
+
++ [基于spring boot的外卖系统的设计与实现【如何写论文思路与真正写出论文】](https://blog.csdn.net/Elephantpretty/article/details/147005554)
+

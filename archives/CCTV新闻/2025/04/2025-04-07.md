@@ -207,3 +207,17 @@
 
 + [多家市场机构大幅下调对美国今年经济增长预期 预计美国将出现经济衰退](https://news.cctv.com/2025/04/07/ARTIs8IqYiynvgf2f4kpA8xt250407.shtml)
 
++ [美关税新政在美引发“囤货潮” 给美本土制造商带来严峻挑战](https://news.cctv.com/2025/04/07/ARTIcVA8AC37lu0qsjfE8AcE250407.shtml)
+
++ [为完善全球人权治理贡献中国方案](https://news.cctv.com/2025/04/07/ARTIfTQ8Kf9Trd1IOeF34jUp250407.shtml)
+
++ [美股三大指数期货再次崩盘 特朗普关税政策致全球金融市场陷入动荡](https://news.cctv.com/2025/04/07/ARTImhU5t1T0NdQE7xIaa2zr250407.shtml)
+
++ [美国多地极端天气已致至少20人死亡](https://news.cctv.com/2025/04/07/ARTIeaTCivpAwWuUbXP8W6xl250407.shtml)
+
++ [单边霸凌，损人害己！美国“对等关税”计划招致国际社会强烈反对](https://news.cctv.com/2025/04/07/ARTI92trnKgNdZafgpW4iTfy250407.shtml)
+
++ [阿根廷媒体：“对等关税”将美国推向全球对立面](https://news.cctv.com/2025/04/07/ARTI5sZiWhELqfsAidUWn8kx250407.shtml)
+
++ [新一周继续大跌！美股过去两交易日已蒸发5.4万亿美元](https://news.cctv.com/2025/04/07/ARTIRzbEYVj6HDl5stn4cHwH250407.shtml)
+
