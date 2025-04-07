@@ -255,3 +255,9 @@
 
 + [阿尔及利亚和法国同意全面恢复各项合作机制](https://news.cctv.com/2025/04/07/ARTIADbEVZl0Znrq2cDRZFX6250407.shtml)
 
++ [冯德莱恩：欧盟将成立工作组应对美关税政策](https://news.cctv.com/2025/04/07/ARTIBuN7PtPzYUEslfz2u7vm250407.shtml)
+
++ [抗议无人机被击落 马里等三国召回驻阿尔及利亚大使](https://news.cctv.com/2025/04/07/ARTIfHOzTE8QTXpOxwswHEE4250407.shtml)
+
++ [昔日坚定看好 如今“腰斩”！特斯拉“铁粉”下调目标股价](https://news.cctv.com/2025/04/07/ARTIEluFgNZW9dBgqBa30GOR250407.shtml)
+
