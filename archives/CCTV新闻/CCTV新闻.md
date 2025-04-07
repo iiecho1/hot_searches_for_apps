@@ -241,3 +241,7 @@
 
 + [关税战恐令苹果公司遭遇“人生大考” 在美售产品面临涨价](https://news.cctv.com/2025/04/07/ARTIiHdc4Zw520wS2x0zx6Ft250407.shtml)
 
++ [龙卷风和洪水侵袭美中西部和南部地区](https://photo.cctv.com/2025/04/07/PHOAnrfQDl29BhRExV7LV4oQ250407.shtml)
+
++ [受美“对等关税”影响 多国汇市剧烈震荡](https://news.cctv.com/2025/04/07/ARTIJpg2f6uOFUw7KykZ5swJ250407.shtml)
+
