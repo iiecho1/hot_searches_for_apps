@@ -161,3 +161,7 @@
 
 + [泽连斯基抨击美国大使馆 称其对俄袭击的回应“令人失望”](https://news.cctv.com/2025/04/06/ARTIQMVXJFBLJmigMVYxJEoy250406.shtml)
 
++ [美上诉法院恢复政府效率部对3家联邦机构的数据访问权限](https://news.cctv.com/2025/04/08/ARTIuyYpttJLVscdFHsBQQ1C250408.shtml)
+
++ [欧委会提议对部分美国商品征收25%关税 预计5月16日生效](https://news.cctv.com/2025/04/08/ARTIiGJ9HUyXgPN5wWWRnktd250408.shtml)
+
