@@ -141,3 +141,13 @@
 
 + [用Scala玩转Flink：从零构建实时处理系统](https://blog.csdn.net/weixin_66485800/article/details/147030041)
 
++ [【HTML】纯前端网页小游戏-戳破彩泡](https://blog.csdn.net/aystl_gss/article/details/147017153)
+
++ [【AI大模型前沿】阿里开源 R1-Omni：全模态情感识别与强化学习的创新结合](https://blog.csdn.net/xiaobing259/article/details/146916213)
+
++ [Linux系统安全及应用](https://blog.csdn.net/qq_54324852/article/details/147017872)
+
++ [【软件系统架构】分布式架构](https://blog.csdn.net/wnm23/article/details/147032233)
+
++ [Llama 4 模型深度解析：架构创新 × 多版本对比 × 应用实战](https://blog.csdn.net/sinat_28461591/article/details/147031231)
+

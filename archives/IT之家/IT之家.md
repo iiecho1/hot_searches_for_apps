@@ -25,3 +25,27 @@
 
 + [iQOO Z10 Turbo Pro、小米 REDMI Turbo 4 Pro 手机参数曝光：均为本月发布、骁龙 8s Gen4 处理器](https://m.ithome.com/html/842293.htm)
 
++ [小米 15S Pro 手机“意外曝光”：有望搭载超宽带 UWB 技术、支持 90W 快充](https://m.ithome.com/html/843297.htm)
+
++ [苹果 iPhone 17 Air 新机模曝光，直观展示 5.5 毫米纤薄机身](https://m.ithome.com/html/843296.htm)
+
++ [雷军发文纪念小米成立 15 周年：这只是开始，会继续努力](https://m.ithome.com/html/843312.htm)
+
++ [南京交警查获一男子“开启汽车辅助驾驶后双手玩手机”，予以警告处理](https://m.ithome.com/html/843335.htm)
+
++ [比亚迪官宣“划时代旗舰”汉 L、唐 L 车型 4 月 9 日上市](https://m.ithome.com/html/843286.htm)
+
++ [《文明 7》开发团队：任天堂 Switch 2 性能堪比中端 PC](https://m.ithome.com/html/843363.htm)
+
++ [【IT之家评测室】OPPO Find X8s 上手体验：超窄边框、超 mini、超性能的轻薄小直屏](https://m.ithome.com/html/843342.htm)
+
++ [家庭智慧旗舰 SUV 鸿蒙智行问界 M8 汽车小订突破 10 万台](https://m.ithome.com/html/843308.htm)
+
++ [消息称超 50 家银行暂停 ATM 机扫码存取款，你用过相应业务吗？](https://m.ithome.com/html/843327.htm)
+
++ [小米澎湃 OS 2 问题处理进展公布：Beta 版本部分场景音量条弹窗错位、连接手环耗电快等已优化](https://m.ithome.com/html/843319.htm)
+
++ [OPPO Find X8 Ultra 手机详细配置曝光，4 月 10 日全球首发](https://m.ithome.com/html/843323.htm)
+
++ [OPPO 周意保： Find“明确不会做”阔折叠手机](https://m.ithome.com/html/842293.htm)
+
