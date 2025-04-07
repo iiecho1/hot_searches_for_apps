@@ -179,3 +179,11 @@
 
 + [嵌入式硬件篇---TOF&陀螺仪&SPI液晶屏](https://blog.csdn.net/2301_79556402/article/details/147018991)
 
++ [国产大模型多模型部署如何保持上下文不混乱？用户隔离 × LoRA切换 × 多租户上下文管理](https://blog.csdn.net/sinat_28461591/article/details/146934734)
+
++ [GaussDB回调机制深度实践：从事件驱动到系统集成](https://blog.csdn.net/GaussDB/article/details/147037681)
+
++ [基于yolov11的绵羊检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/147026386)
+
++ [Spring Boot + Kafka 消息队列从零到落地](https://blog.csdn.net/m0_59465624/article/details/147027693)
+
