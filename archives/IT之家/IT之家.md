@@ -25,3 +25,27 @@
 
 + [OPPO 周意保： Find“明确不会做”阔折叠手机](https://m.ithome.com/html/842293.htm)
 
++ [为规避新关税，消息称苹果三天内安排五架货机满载 iPhone 等产品飞往美国](https://m.ithome.com/html/843416.htm)
+
++ [古尔曼：苹果将为 iPhone 的 20 周年纪念准备“真正的大改款”机型](https://m.ithome.com/html/843445.htm)
+
++ [东风、华为等合作全新车型亮相：“四年磨一剑 + 领先不止一代”](https://m.ithome.com/html/843394.htm)
+
++ [再不买就要大幅涨价了：应对关税压力，车企在美掀起“员工价”促销潮](https://m.ithome.com/html/843505.htm)
+
++ [消息称华为开始大量评估 2.5D 直屏，相应面板有望应用于 Pura 80 Pro 系列机型](https://m.ithome.com/html/843591.htm)
+
++ [小米公司发言人：有关小米 SU7 保险相关的谣言被有组织地扩散传播，已向公安机关报案](https://m.ithome.com/html/843524.htm)
+
++ [微软回应停止中国区运营传闻：信息不实](https://m.ithome.com/html/843451.htm)
+
++ [一加 13T 手机全新快捷键亮相：替代经典三段式按键，新增自定义功能](https://m.ithome.com/html/843428.htm)
+
++ [特斯拉 Model S 碰撞后起火，车主索赔 337 万元被驳回](https://m.ithome.com/html/843536.htm)
+
++ [华为畅享 70X 活力版手机明日开售：6100mAh 电池、6.78 英寸 3D 双曲 OLED 屏](https://m.ithome.com/html/843498.htm)
+
++ [传微软停止中国区运营？员工回应：主要波及 Office 相关业务外包部门](https://m.ithome.com/html/843596.htm)
+
++ [畅连新增屏幕共享和涂鸦功能，华为 Mate 70 系列手机获鸿蒙 HarmonyOS NEXT 5.0.0.150 升级](https://m.ithome.com/html/843302.htm)
+

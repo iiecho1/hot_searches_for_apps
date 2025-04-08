@@ -139,3 +139,11 @@
 
 + [文心快码制作微信小程序](https://blog.csdn.net/zhangyifang_009/article/details/147022204)
 
++ [【大模型】DeepSeek+蓝耕MaaS平台+海螺AI生成高质量视频实战详解](https://blog.csdn.net/zhangcongyi420/article/details/146995322)
+
++ [【Linux】进程预备知识——冯诺依曼、操作系统](https://blog.csdn.net/m0_71199350/article/details/147013188)
+
++ [贪心算法篇——万千抉择中的唯一考量，最优解追寻的跬步累积（1）](https://blog.csdn.net/2303_81060385/article/details/146611589)
+
++ [【Vue #1】Vue.js 介绍&声明式渲染&数据响应式](https://blog.csdn.net/island1314/article/details/147042631)
+
