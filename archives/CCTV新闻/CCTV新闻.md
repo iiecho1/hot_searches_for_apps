@@ -165,3 +165,11 @@
 
 + [欧委会提议对部分美国商品征收25%关税 预计5月16日生效](https://news.cctv.com/2025/04/08/ARTIiGJ9HUyXgPN5wWWRnktd250408.shtml)
 
++ [菲律宾坎拉翁火山爆炸性喷发 火山灰柱高达4000米](https://news.cctv.com/2025/04/08/ARTIAwtR2ipiV0RnvqczwsvM250408.shtml)
+
++ [巴黎17区发生严重火灾 一座垃圾分拣中心被焚毁](https://news.cctv.com/2025/04/08/ARTIOPGAJoVrZlR6pK3HWGrw250408.shtml)
+
++ [伊朗外长证实 将同美国在阿曼举行间接高层谈判](https://news.cctv.com/2025/04/08/ARTIM6k3dQUnjPI3tmBHoeBS250408.shtml)
+
++ [韩国政府正式确定6月3日举行提前大选](https://news.cctv.com/2025/04/08/ARTIOyMVbQdAyaX8GWgdqYeR250408.shtml)
+
