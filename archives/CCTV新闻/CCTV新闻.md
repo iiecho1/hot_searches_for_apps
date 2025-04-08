@@ -173,3 +173,17 @@
 
 + [韩国政府正式确定6月3日举行提前大选](https://news.cctv.com/2025/04/08/ARTIOyMVbQdAyaX8GWgdqYeR250408.shtml)
 
++ [“强者为所欲为，弱者受其所难”——美国已成为世界最大风险源](https://news.cctv.com/2025/04/08/ARTI95A4ZQMoqhRMnYrQaQRY250408.shtml)
+
++ [“相信在中国市场能有更多收获”](https://news.cctv.com/2025/04/08/ARTIFcQC75itOiQQyPTRfK1z250408.shtml)
+
++ [亲诚惠容 命运与共](https://news.cctv.com/2025/04/08/ARTIwP9mYVMgsnFZIgUzoa3d250408.shtml)
+
++ [施压和威胁绝不是同中方打交道的正确方式](https://news.cctv.com/2025/04/08/ARTIZdt564QS6LXRYkVhB7zE250408.shtml)
+
++ [世粮署对美国终止对14国紧急粮援深表关切](https://news.cctv.com/2025/04/08/ARTIEl0C4x5WQBiCPm4SwoeB250408.shtml)
+
++ [韩国大选时间正式敲定 总统热门人选都有谁？](https://news.cctv.com/2025/04/08/ARTIfNxum19ioQPRQm8j9tUE250408.shtml)
+
++ [视频丨美一货运列车撞上卡车 三人受轻伤](https://news.cctv.com/2025/04/08/ARTIzroaR5N6qbU6VbzGX7Kp250408.shtml)
+

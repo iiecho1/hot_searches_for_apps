@@ -31,3 +31,5 @@
 
 + [你们平时会重构自己代码吗？](https://www.v2ex.com/t/1123707)
 
++ [bilibili 全自动硬核会员 LV6 试炼](https://www.v2ex.com/t/1123737)
+
