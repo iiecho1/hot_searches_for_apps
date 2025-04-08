@@ -221,3 +221,9 @@
 
 + [捷克总理社交媒体账号遭黑客攻击](https://news.cctv.com/2025/04/08/ARTIE6ol4Kw3FShFEP0DznUZ250408.shtml)
 
++ [韩称朝鲜士兵越过军事分界线 朝方暂未回应](https://news.cctv.com/2025/04/08/ARTIOAJjQAbzuSLJ7jBhtNIn250408.shtml)
+
++ [国际移民组织：返回苏丹的流离失所民众激增](https://news.cctv.com/2025/04/08/ARTIW7d1HziV0OmciWAB3Z5h250408.shtml)
+
++ [联海办：帮派袭击致海地两城镇262人死亡](https://news.cctv.com/2025/04/08/ARTIuDQ8hkIMVRIF0viB6ZbQ250408.shtml)
+

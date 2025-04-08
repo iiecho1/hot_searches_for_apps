@@ -173,3 +173,13 @@
 
 + [杂谈：抖音双塔召回模型：亿级内容分发的数学魔法](https://blog.csdn.net/MeyrlNotFound/article/details/147051793)
 
++ [Reactive编程框架与工具](https://blog.csdn.net/sixpp/article/details/147065170)
+
++ [Java 大视界 -- Java 大数据在智能医疗远程护理与患者健康管理中的应用与前景（175）](https://blog.csdn.net/atgfg/article/details/147017469)
+
++ [AI 时代：哪些开发语言将引领潮流](https://blog.csdn.net/a247534855/article/details/147027231)
+
++ [Spring MVC](https://blog.csdn.net/hhj25802580/article/details/147052644)
+
++ [AWS SNS深度解析：构建高可用、可扩展的云原生消息通信解决方案](https://blog.csdn.net/awscloud/article/details/147041053)
+
