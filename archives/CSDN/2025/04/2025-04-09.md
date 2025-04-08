@@ -125,3 +125,7 @@
 
 + [工程创新大赛智能网联汽车设计赛项经验帖——软件下载与配置篇](https://blog.csdn.net/handsomeboyou/article/details/147024300)
 
++ [2025三掌柜赠书活动第十二期 大模型工程化：AI驱动下的数据体系](https://blog.csdn.net/CC1991_/article/details/147033305)
+
++ [PyTorch 笔记](https://blog.csdn.net/sumatch/article/details/147043436)
+
