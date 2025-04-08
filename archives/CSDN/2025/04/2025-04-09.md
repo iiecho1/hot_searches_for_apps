@@ -109,3 +109,19 @@
 
 + [AWS SNS深度解析：构建高可用、可扩展的云原生消息通信解决方案](https://blog.csdn.net/awscloud/article/details/147041053)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式计算在气象数据处理与天气预报中的应用进展（176）](https://blog.csdn.net/atgfg/article/details/147024898)
+
++ [穿越之灵脉重构师：重启天元代码——2.10 灵脉Debug | 协议觉醒](https://blog.csdn.net/deepever/article/details/146992649)
+
++ [基于LlamaIndex实现CodeAct Agent：代码执行工作流的技术架构与原理](https://blog.csdn.net/m0_46510245/article/details/147060229)
+
++ [【软件系统架构】分布式架构](https://blog.csdn.net/wnm23/article/details/147032233)
+
++ [蓝桥杯 破译密码 Johnson流水线贪心算法](https://blog.csdn.net/XYY369/article/details/147018574)
+
++ [03_docker 部署 nginx 配置 HTTPS 并转发请求到后端服务](https://blog.csdn.net/wgy17734894660/article/details/147039893)
+
++ [GPU是什么？ 与 FPGA 有何关联](https://blog.csdn.net/billgateslove/article/details/147042718)
+
++ [工程创新大赛智能网联汽车设计赛项经验帖——软件下载与配置篇](https://blog.csdn.net/handsomeboyou/article/details/147024300)
+
