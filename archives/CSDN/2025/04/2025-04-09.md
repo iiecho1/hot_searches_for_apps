@@ -129,3 +129,5 @@
 
 + [PyTorch 笔记](https://blog.csdn.net/sumatch/article/details/147043436)
 
++ [Java8+Spring Boot + Vue + Langchain4j 实现阿里云百炼平台 AI 流式对话对接](https://blog.csdn.net/qq_43257103/article/details/147042987)
+

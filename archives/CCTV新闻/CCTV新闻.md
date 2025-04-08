@@ -161,3 +161,5 @@
 
 + [美媒犀利点评关税新政：加征关税对美国企业是“一场噩梦”](https://news.cctv.com/2025/04/07/ARTIJAmz5jCagTRMJydk6COf250407.shtml)
 
++ [古特雷斯：加沙正变成“死亡之地” 应立即永久停火](https://news.cctv.com/2025/04/09/ARTItyBXUhcoRTXs8HyXp3yC250409.shtml)
+
