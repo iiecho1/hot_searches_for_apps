@@ -207,3 +207,9 @@
 
 + [被问为何向企鹅征税，美国农业部长：……](https://news.cctv.com/2025/04/08/ARTILKtliPZ39L4kYzbIkq6R250408.shtml)
 
++ [缅甸强震后已发生99次余震](https://news.cctv.com/2025/04/08/ARTIP5YEJs7X4f1J3ABlkzOI250408.shtml)
+
++ [俄罗斯“联盟MS-27”载人飞船顺利升空](https://news.cctv.com/2025/04/08/ARTIQ49bNU8GMLBl5ANeB9dP250408.shtml)
+
++ [马达加斯加：丛林里的狐猴](https://photo.cctv.com/2025/04/08/PHOAFqVQiibIHmoCrqw8Sz4b250408.shtml)
+

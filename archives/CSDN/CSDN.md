@@ -167,3 +167,5 @@
 
 + [从个人博客到电商中台：EdgeOne Pages的MCP Server弹性架构×DeepSeek多场景模板实测报告](https://blog.csdn.net/2301_80863610/article/details/147058210)
 
++ [注意，暂时不要升级 MacOS ，Flutter/RN 等构建 ipa 可能会因 「ITMS-90048」This bundle is invalid 被拒绝](https://blog.csdn.net/ZuoYueLiang/article/details/147033800)
+
