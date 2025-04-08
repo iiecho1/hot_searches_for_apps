@@ -51,3 +51,7 @@
 
 + [iOS App「停车地点」更新送码，快停车上岛](https://www.v2ex.com/t/1123854)
 
++ [vscode 写 go 连最基础的补全功能都做得这么差的吗](https://www.v2ex.com/t/1123995)
+
++ [求前辈分享恋爱技巧](https://www.v2ex.com/t/1123972)
+

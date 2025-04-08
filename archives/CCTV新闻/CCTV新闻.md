@@ -233,3 +233,7 @@
 
 + [俄罗斯“联盟MS-27”飞船成功与国际空间站对接](https://news.cctv.com/2025/04/08/ARTIwjllVvebgRLc8hXBb5T2250408.shtml)
 
++ [俄官员：若美国打击伊朗 俄无义务对伊提供军事援助](https://news.cctv.com/2025/04/08/ARTIRAUl1F3gMzbcsz2nmwLJ250408.shtml)
+
++ [2026年米兰冬奥会公众售票正式启动](https://news.cctv.com/2025/04/08/ARTIkQDxSZN7qtmD00kYfX2M250408.shtml)
+
