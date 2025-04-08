@@ -169,3 +169,5 @@
 
 + [注意，暂时不要升级 MacOS ，Flutter/RN 等构建 ipa 可能会因 「ITMS-90048」This bundle is invalid 被拒绝](https://blog.csdn.net/ZuoYueLiang/article/details/147033800)
 
++ [Spring Boot中@Valid 与 @Validated 注解的详解](https://blog.csdn.net/li_Michael/article/details/147056254)
+
