@@ -227,3 +227,9 @@
 
 + [联海办：帮派袭击致海地两城镇262人死亡](https://news.cctv.com/2025/04/08/ARTIuDQ8hkIMVRIF0viB6ZbQ250408.shtml)
 
++ [开放的中国将为世界带来更多发展机遇](https://news.cctv.com/2025/04/08/ARTI5PS23pauRSOFYGaQQXSr250408.shtml)
+
++ [全球瞭望丨罗马尼亚媒体：美国关税政策加速全球“去美元化”趋势](https://news.cctv.com/2025/04/08/ARTI98qZimVQ4TqnBIDvVruQ250408.shtml)
+
++ [俄罗斯“联盟MS-27”飞船成功与国际空间站对接](https://news.cctv.com/2025/04/08/ARTIwjllVvebgRLc8hXBb5T2250408.shtml)
+

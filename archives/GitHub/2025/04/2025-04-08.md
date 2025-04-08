@@ -29,3 +29,23 @@
 
 + [liam-hq/liam](https://github.com/liam-hq/liam)
 
++ [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [getmaxun/maxun](https://github.com/getmaxun/maxun)
+
++ [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+
++ [modelscope/FunASR](https://github.com/modelscope/FunASR)
+
++ [chartdb/chartdb](https://github.com/chartdb/chartdb)
+
++ [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python)
+
++ [gin-gonic/gin](https://github.com/gin-gonic/gin)
+
++ [unionlabs/union](https://github.com/unionlabs/union)
+
++ [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+
