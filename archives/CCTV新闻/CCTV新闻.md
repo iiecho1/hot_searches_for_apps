@@ -213,3 +213,11 @@
 
 + [马达加斯加：丛林里的狐猴](https://photo.cctv.com/2025/04/08/PHOAFqVQiibIHmoCrqw8Sz4b250408.shtml)
 
++ [欧盟：要和全球伙伴多做生意，美国除外](https://news.cctv.com/2025/04/08/ARTIbG6k9lTF8oDUV9yg1ASF250408.shtml)
+
++ [梅德韦杰夫：俄罗斯未来几十年都不会削减核武器](https://news.cctv.com/2025/04/08/ARTIG1NFsLfqGMsSTI4zAHVX250408.shtml)
+
++ [德国财长：美国加征关税没有赢家](https://news.cctv.com/2025/04/08/ARTI0WjuKWt1pzsOjT1xbJ7F250408.shtml)
+
++ [捷克总理社交媒体账号遭黑客攻击](https://news.cctv.com/2025/04/08/ARTIE6ol4Kw3FShFEP0DznUZ250408.shtml)
+

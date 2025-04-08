@@ -171,3 +171,5 @@
 
 + [Spring Boot中@Valid 与 @Validated 注解的详解](https://blog.csdn.net/li_Michael/article/details/147056254)
 
++ [杂谈：抖音双塔召回模型：亿级内容分发的数学魔法](https://blog.csdn.net/MeyrlNotFound/article/details/147051793)
+
