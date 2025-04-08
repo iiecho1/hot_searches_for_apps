@@ -131,3 +131,5 @@
 
 + [Java8+Spring Boot + Vue + Langchain4j 实现阿里云百炼平台 AI 流式对话对接](https://blog.csdn.net/qq_43257103/article/details/147042987)
 
++ [【c++指南】模板VS手写代码：这场效率对决你站哪边？【下】](https://blog.csdn.net/egoist2023/article/details/147013718)
+
