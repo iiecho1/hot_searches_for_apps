@@ -157,3 +157,11 @@
 
 + [MCP+数据库：超越RAG的新一代检索技术](https://blog.csdn.net/m0_63171455/article/details/147045922)
 
++ [运动规划实战案例 | 基于四叉树分解的路径规划(附ROS C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/147049954)
+
++ [使用Vue、Nodejs以及websocket搭建一个简易聊天室](https://blog.csdn.net/samroom/article/details/147051329)
+
++ [基于Raft协议 + gRPC长连接实现集群间的服务发现、服务注册、元数据共享、元数据持久化](https://blog.csdn.net/weixin_43591980/article/details/147055827)
+
++ [Qt -信号与槽](https://blog.csdn.net/2401_86587256/article/details/147009092)
+

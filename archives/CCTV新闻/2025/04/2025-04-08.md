@@ -193,3 +193,7 @@
 
 + [欧盟气候机构：3月北极海冰覆盖范围创历史同期新低](https://news.cctv.com/2025/04/08/ARTIEfYdowRZCWSMwwXk4DE0250408.shtml)
 
++ [阿尔及利亚、马里外交危机升级 向对方关闭领空](https://news.cctv.com/2025/04/08/ARTIKjsxmizpA7818WnGnyGD250408.shtml)
+
++ [英国确诊一感染源不明“分支Ib”猴痘病例](https://news.cctv.com/2025/04/08/ARTIwr212anbtXyLOArc0Aih250408.shtml)
+
