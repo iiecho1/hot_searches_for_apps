@@ -33,3 +33,5 @@
 
 + [bilibili 全自动硬核会员 LV6 试炼](https://www.v2ex.com/t/1123737)
 
++ [听说 4 月有小米 NAS，有点期待](https://www.v2ex.com/t/1123853)
+

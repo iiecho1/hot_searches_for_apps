@@ -187,3 +187,9 @@
 
 + [视频丨美一货运列车撞上卡车 三人受轻伤](https://news.cctv.com/2025/04/08/ARTIzroaR5N6qbU6VbzGX7Kp250408.shtml)
 
++ [马里宣布对阿尔及利亚关闭领空](https://news.cctv.com/2025/04/08/ARTIzk2oSShWDIZAOZUpbGed250408.shtml)
+
++ [墨西哥一戒毒康复中心遭袭致9人死亡](https://news.cctv.com/2025/04/08/ARTIuUuLkPaY0RUGEHZ74U4o250408.shtml)
+
++ [欧盟气候机构：3月北极海冰覆盖范围创历史同期新低](https://news.cctv.com/2025/04/08/ARTIEfYdowRZCWSMwwXk4DE0250408.shtml)
+
