@@ -191,3 +191,9 @@
 
 + [DeepSeek-VL 解读：从视觉语言统一到多模态智能的未来](https://blog.csdn.net/unbuntu_luo/article/details/147029608)
 
++ [数字人技术的核心：AI与动作捕捉的双引擎驱动（2/10）](https://blog.csdn.net/beautifulmemory/article/details/147066315)
+
++ [【Spring】解锁应用分层之美：从混乱代码到高内聚低耦合的艺术](https://blog.csdn.net/2302_79527141/article/details/146979264)
+
++ [IntelliJ IDEA下开发FPGA——FPGA开发体验提升__下](https://blog.csdn.net/m0_74349248/article/details/147026823)
+
