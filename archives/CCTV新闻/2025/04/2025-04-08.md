@@ -197,3 +197,13 @@
 
 + [英国确诊一感染源不明“分支Ib”猴痘病例](https://news.cctv.com/2025/04/08/ARTIwr212anbtXyLOArc0Aih250408.shtml)
 
++ [联合国：加沙地带五分之一的人再次流离失所](https://news.cctv.com/2025/04/08/ARTIqoyI9CP558av626qy1Fl250408.shtml)
+
++ [马来西亚总理：将采取一切必要措施维护本国经济利益](https://news.cctv.com/2025/04/08/ARTIr3xOvl9167Gh2j94U2xH250408.shtml)
+
++ [特朗普再次扬言要“接管”加沙地带](https://news.cctv.com/2025/04/08/ARTImTi7od2U5jNbrQDjTx0J250408.shtml)
+
++ [扩大开放之门 共享市场机遇 中国零关税政策红利惠及多国](https://news.cctv.com/2025/04/08/ARTIz6HY4T9d3TFAp3FO3fSY250408.shtml)
+
++ [被问为何向企鹅征税，美国农业部长：……](https://news.cctv.com/2025/04/08/ARTILKtliPZ39L4kYzbIkq6R250408.shtml)
+

@@ -165,3 +165,5 @@
 
 + [Qt -信号与槽](https://blog.csdn.net/2401_86587256/article/details/147009092)
 
++ [从个人博客到电商中台：EdgeOne Pages的MCP Server弹性架构×DeepSeek多场景模板实测报告](https://blog.csdn.net/2301_80863610/article/details/147058210)
+
