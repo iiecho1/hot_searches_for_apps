@@ -195,3 +195,9 @@
 
 + [揭示宇宙膨胀的秘密 暗能量研究获新突破](https://news.cctv.com/2025/04/09/ARTI57o5v10wOXvymcUH8uou250409.shtml)
 
++ [伊朗总统参观伊朗核工业成果展](https://news.cctv.com/2025/04/09/ARTIScYv5Tds7xkCmUpN355m250409.shtml)
+
++ [加沙地带超6万儿童因营养不良面临严重健康风险](https://news.cctv.com/2025/04/09/ARTInBGtyxX6Izve15Rgx9sh250409.shtml)
+
++ [美国关税政策伤了谁？给美国汽车业算笔“关税账”](https://news.cctv.com/2025/04/09/ARTIfZHtBeOKAlCQABG7WHDp250409.shtml)
+
