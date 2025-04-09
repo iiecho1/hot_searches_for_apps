@@ -191,3 +191,5 @@
 
 + [我驻普吉领办提醒中国游客宋干节期间注意交通安全](https://news.cctv.com/2025/04/09/ARTI6I0fAgnx8ZhV1i6eiG96250409.shtml)
 
++ [【世界说】美媒质问“绝对利己”的美国关税新政损害了全球贸易，真能独善其身？](https://news.cctv.com/2025/04/09/ARTIzYfJtvguRccRiLaKli1n250409.shtml)
+
