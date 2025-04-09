@@ -179,3 +179,5 @@
 
 + [美国关税政策引发美各界强烈反应 美消费者或成最大输家](https://news.cctv.com/2025/04/09/ARTInsnqgXaoNWS1On5vefhf250409.shtml)
 
++ [中方希望国际社会为推动乌克兰危机政治解决创造有利条件](https://news.cctv.com/2025/04/09/ARTI0S6qXJPRGiWo9XY3VzrJ250409.shtml)
+
