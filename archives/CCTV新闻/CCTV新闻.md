@@ -181,3 +181,11 @@
 
 + [中方希望国际社会为推动乌克兰危机政治解决创造有利条件](https://news.cctv.com/2025/04/09/ARTI0S6qXJPRGiWo9XY3VzrJ250409.shtml)
 
++ [中国政府援缅第五批抗震救灾物资抵达仰光](https://news.cctv.com/2025/04/09/ARTInCRUGDoEBktCc1cvpsOB250409.shtml)
+
++ [韩国国民力量党公布党内初选日程](https://news.cctv.com/2025/04/09/ARTIN9z69BfQxeDKXgd52FIy250409.shtml)
+
++ [多米尼加俱乐部屋顶坍塌事故死亡人数升至98人](https://news.cctv.com/2025/04/09/ARTI9qxfNaNbH9KK6APbah7R250409.shtml)
+
++ [“特朗普妄图给世界定规矩” 巴西总统抨击美国贸易新政](https://news.cctv.com/2025/04/09/ARTITeeRz32ZncCQddWUsO2j250409.shtml)
+
