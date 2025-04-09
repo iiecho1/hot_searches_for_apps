@@ -147,3 +147,5 @@
 
 + [ZeroMimic：从网络视频中蒸馏机器人操作技能](https://blog.csdn.net/yorkhunter/article/details/147078769)
 
++ [航天器交会的分布式MPC模型预测控制研究附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/147091618)
+
