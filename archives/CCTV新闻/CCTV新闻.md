@@ -165,3 +165,15 @@
 
 + [韩国最大在野党党首李在明宣布辞去党首职务 全力参选下届总统](https://news.cctv.com/2025/04/09/ARTIZcF9PaAyDdynwwLlmT3a250409.shtml)
 
++ [缅甸强震致中国公民6死13伤](https://news.cctv.com/2025/04/09/ARTImJqZTR18ETygPMNXhG5Q250409.shtml)
+
++ [百害而无一利！美国滥施关税 遭全球多方反对和批评](https://news.cctv.com/2025/04/09/ARTIkMpNL9kMCMEf5IfJ2rKl250409.shtml)
+
++ [美关税“回旋镖”：美国各行各业受损 普通民众生活成本飙升](https://news.cctv.com/2025/04/09/ARTIskz8uaYvQo4GlBFvuPZ6250409.shtml)
+
++ [加税还想要鸡蛋？美国关税政策被批“荒谬”](https://news.cctv.com/2025/04/09/ARTIGBysY3TCwOE8qDPemOf9250409.shtml)
+
++ [专访｜关税不会以任何方式提振美国经济——访美国硅谷“创始人空间”首席执行官霍夫曼](https://news.cctv.com/2025/04/09/ARTIxlKBIjzoDly7hlETQ8E8250409.shtml)
+
++ [美国前财长：美国经济可能陷入衰退 可能导致200万人失业](https://news.cctv.com/2025/04/09/ARTIOkbJ06QrUT5WBM5FPXuD250409.shtml)
+
