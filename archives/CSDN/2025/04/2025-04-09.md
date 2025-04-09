@@ -175,3 +175,15 @@
 
 + [【Unity】Unity Transform缩放控制教程：实现3D模型缩放交互，支持按钮/鼠标/手势操作](https://blog.csdn.net/qq_41140324/article/details/147058359)
 
++ [[蓝桥杯] 挖矿（C&C++双语版）](https://blog.csdn.net/2302_81044676/article/details/147074747)
+
++ [OpenCv高阶（一）——图像金字塔（上采样、下采样）](https://blog.csdn.net/jdjhcn/article/details/146483589)
+
++ [Java 大视界 -- 基于 Java 的大数据分布式缓存技术在电商高并发场景下的性能优化（181）](https://blog.csdn.net/atgfg/article/details/147078580)
+
++ [DeepSeek-V3与DeepSeek-R1全面解析：从架构原理到实战应用](https://blog.csdn.net/weixin_46476460/article/details/147066510)
+
++ [VS Code下开发FPGA——FPGA开发体验提升__下](https://blog.csdn.net/m0_74349248/article/details/147065314)
+
++ [清明假期间](https://blog.csdn.net/strong_butter/article/details/147028311)
+

@@ -35,3 +35,19 @@
 
 + [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 
++ [swiftlang/swift](https://github.com/swiftlang/swift)
+
++ [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
+
++ [activepieces/activepieces](https://github.com/activepieces/activepieces)
+
++ [girafe-ai/ml-course](https://github.com/girafe-ai/ml-course)
+
++ [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)
+
++ [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)
+
++ [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
