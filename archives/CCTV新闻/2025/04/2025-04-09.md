@@ -189,3 +189,5 @@
 
 + [“特朗普妄图给世界定规矩” 巴西总统抨击美国贸易新政](https://news.cctv.com/2025/04/09/ARTITeeRz32ZncCQddWUsO2j250409.shtml)
 
++ [我驻普吉领办提醒中国游客宋干节期间注意交通安全](https://news.cctv.com/2025/04/09/ARTI6I0fAgnx8ZhV1i6eiG96250409.shtml)
+

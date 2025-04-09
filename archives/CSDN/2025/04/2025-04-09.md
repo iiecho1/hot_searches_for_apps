@@ -157,3 +157,7 @@
 
 + [【网络协议】WebSocket讲解](https://blog.csdn.net/m0_74289770/article/details/147046588)
 
++ [【机器学习案列】基于LightGBM算法的互联网防火墙异常行为检测：数据不平衡的解决方案](https://blog.csdn.net/qq_38614074/article/details/147069755)
+
++ [大数据与人工智能之大数据架构（Hadoop、Spark、Flink）](https://blog.csdn.net/qq_39311377/article/details/146441597)
+
