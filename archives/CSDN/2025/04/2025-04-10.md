@@ -133,3 +133,9 @@
 
 + [AWS区块链游戏场景技术解决方案：全球节点与去中心化架构实践](https://blog.csdn.net/awscloud/article/details/147073665)
 
++ [2025三掌柜赠书活动第十二期 大模型工程化：AI驱动下的数据体系](https://blog.csdn.net/CC1991_/article/details/147033305)
+
++ [Ansible（7）——管理机密与事实](https://blog.csdn.net/m0_68756914/article/details/147076080)
+
++ [数学建模--在新能源汽车研发测试中的革命性应用](https://blog.csdn.net/weixin_62244995/article/details/147017145)
+
