@@ -101,3 +101,35 @@
 
 + [条件概率、概率乘法公式、全概率公式和贝叶斯 (Bayes) 公式](https://blog.csdn.net/u013600306/article/details/147029516)
 
++ [【QT】QWidget 概述与核心属性（API）](https://blog.csdn.net/weixin_50776420/article/details/147046194)
+
++ [【微服务】SpringBoot 整合 Lock4j 分布式锁使用详解](https://blog.csdn.net/zhangcongyi420/article/details/146638691)
+
++ [数据挖掘为AI人工智能注入新活力](https://blog.csdn.net/universsky2015/article/details/147039153)
+
++ [GitHub 趋势日报 (2025年04月07日)](https://blog.csdn.net/ShrCheng/article/details/147057284)
+
++ [Linux 指令初探：开启终端世界的大门](https://blog.csdn.net/2302_79376097/article/details/147016464)
+
++ [2025 年修真者 AI 修炼手册：从筑基到飞升的神器图谱与密令攻略（泠峯剑宗珍藏版）](https://blog.csdn.net/deepever/article/details/147087045)
+
++ [Elasticsearch：加快 HNSW 图的合并速度](https://blog.csdn.net/UbuntuTouch/article/details/147077192)
+
++ [【系统架构设计师】数据库系统 ⑦ ( 规范化理论 | Armstrong 公理系统 | 自反律 | 增广律 | 传递律 | 合并规则 | 伪传递规则 | 分解规则 | 最小不可推导依赖 )](https://blog.csdn.net/han1202012/article/details/147068472)
+
++ [DeepSeek-V3与DeepSeek-R1全面解析：从架构原理到实战应用](https://blog.csdn.net/weixin_46476460/article/details/147066510)
+
++ [MySQL、Oracle 和 PostgreSQL 是三种主流的关系型数据库的主要原理性差异分析](https://blog.csdn.net/weixin_39863120/article/details/147078169)
+
++ [基于 springboot 的在线考试系统](https://blog.csdn.net/FireFox1997/article/details/147036153)
+
++ [使用 Canal 实现 MySQL 与 ES 数据同步的技术实践](https://blog.csdn.net/gaosw0521/article/details/147080063)
+
++ [使用 kind 创建 K8s 集群并部署 StarRocks 的完整指南](https://blog.csdn.net/qq_51149892/article/details/147070022)
+
++ [Python爬取数据（二）](https://blog.csdn.net/2201_75355888/article/details/147051737)
+
++ [Uniapp 集成极光推送(JPush)完整指南](https://blog.csdn.net/mss359681091/article/details/147079930)
+
++ [AWS区块链游戏场景技术解决方案：全球节点与去中心化架构实践](https://blog.csdn.net/awscloud/article/details/147073665)
+
