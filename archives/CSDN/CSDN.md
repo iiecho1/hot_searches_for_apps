@@ -189,3 +189,9 @@
 
 + [Hadoop序列化与反序列化](https://blog.csdn.net/lqlj2233/article/details/147063638)
 
++ [深入解析Linux软硬链接：原理、区别与应用实践](https://blog.csdn.net/2301_80774875/article/details/146765018)
+
++ [WEB安全--内网渗透--Kerberos之AS_REQ&AS_REP](https://blog.csdn.net/m0_74800552/article/details/147062074)
+
++ [揭开 MCP 的神秘面纱：标准化 AI 上下文管理的未来(上)](https://blog.csdn.net/yjw123456/article/details/147072165)
+
