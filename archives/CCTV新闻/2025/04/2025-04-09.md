@@ -163,3 +163,5 @@
 
 + [古特雷斯：加沙正变成“死亡之地” 应立即永久停火](https://news.cctv.com/2025/04/09/ARTItyBXUhcoRTXs8HyXp3yC250409.shtml)
 
++ [韩国最大在野党党首李在明宣布辞去党首职务 全力参选下届总统](https://news.cctv.com/2025/04/09/ARTIZcF9PaAyDdynwwLlmT3a250409.shtml)
+
