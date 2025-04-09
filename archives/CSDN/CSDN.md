@@ -139,3 +139,11 @@
 
 + [数学建模--在新能源汽车研发测试中的革命性应用](https://blog.csdn.net/weixin_62244995/article/details/147017145)
 
++ [Qwen2.5-Omni 大模型部署实践（二）：使用transformers推理实践](https://blog.csdn.net/xiaobing259/article/details/147076720)
+
++ [AJAX：重构前端交互体验的异步革命](https://blog.csdn.net/weixin_52379434/article/details/147055708)
+
++ [Hadoop(2)-MapReduce](https://blog.csdn.net/qq407155634/article/details/147105752)
+
++ [ZeroMimic：从网络视频中蒸馏机器人操作技能](https://blog.csdn.net/yorkhunter/article/details/147078769)
+
