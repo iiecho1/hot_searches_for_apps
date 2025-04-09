@@ -167,3 +167,11 @@
 
 + [特权FPGA之UART串口](https://blog.csdn.net/TommiWei/article/details/147072586)
 
++ [【现代深度学习技术】循环神经网络02：文本预处理](https://blog.csdn.net/Morse_Chen/article/details/147090005)
+
++ [最新Spring Security实战教程（九）前后端分离认证实战 - JWT+SpringSecurity无缝整合](https://blog.csdn.net/lhmyy521125/article/details/147044945)
+
++ [【区块链安全 | 第三十八篇】合约审计之获取私有数据（二）](https://blog.csdn.net/2301_77485708/article/details/147059511)
+
++ [【Unity】Unity Transform缩放控制教程：实现3D模型缩放交互，支持按钮/鼠标/手势操作](https://blog.csdn.net/qq_41140324/article/details/147058359)
+
