@@ -123,3 +123,9 @@
 
 + [【Vue #2】脚手架 & 指令](https://blog.csdn.net/island1314/article/details/147119085)
 
++ [当 AI 邂逅自动化，从测试到智能，代码里的狂飙时代](https://blog.csdn.net/2401_82648291/article/details/147107613)
+
++ [智能仓储数字孪生Demo（Unity实现）](https://blog.csdn.net/weixin_44274655/article/details/147078584)
+
++ [《微服务与事件驱动架构》读书分享](https://blog.csdn.net/ld851/article/details/147102226)
+
