@@ -141,3 +141,9 @@
 
 + [【东方】DJ Got Us Falling In Love Again【Minecraft MMD】](https://m.acfun.cn/v/%3Fac%3D47120131)
 
++ [这个编剧有点东西](https://m.acfun.cn/v/%3Fac%3D47061630)
+
++ [两场失败的暗杀+三首背景音乐赏析 | 漫谈周星驰电影《功夫》【8】](https://m.acfun.cn/v/%3Fac%3D47121285)
+
++ [我刚一进来就看到常威在唱歌](https://m.acfun.cn/v/%3Fac%3D47119004)
+
