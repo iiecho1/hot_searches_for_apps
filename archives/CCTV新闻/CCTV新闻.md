@@ -177,3 +177,11 @@
 
 + [多米尼加俱乐部屋顶坍塌事故已致136人死亡](https://news.cctv.com/2025/04/10/ARTIKRyxiilNeV5ApER5Iq0y250410.shtml)
 
++ [在爱尔兰，组了一个中文乐队](https://people.cctv.com/2025/04/10/ARTIAPU0YHiRtYjRRfVcRJF6250410.shtml)
+
++ [多米尼加俱乐部屋顶坍塌事故已致184人死亡](https://news.cctv.com/2025/04/10/ARTIzzkmsFYNAN5FIlgiTrB1250410.shtml)
+
++ [深观察丨“只要团结，欧盟反制美国的王牌很多”](https://news.cctv.com/2025/04/10/ARTIYKyaCfzbXYHaKidDXmND250410.shtml)
+
++ [美国在全球制造巨大混乱——“特朗普衰退”背后的保护主义政策风险](https://news.cctv.com/2025/04/10/ARTIBRldF78bQxoP0cIoYaK4250410.shtml)
+
