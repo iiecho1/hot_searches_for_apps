@@ -197,3 +197,11 @@
 
 + [技术与情感交织的一生 （五）](https://blog.csdn.net/michaelline/article/details/146933829)
 
++ [Gemma 3模型：Google 开源新星，大语言模型未来探索](https://blog.csdn.net/weixin_53269650/article/details/147115207)
+
++ [【STM32项目】基于STM32多传感器融合的新型智能导盲杖设计与实现（2.0更新版本）【完整工程资料源码】](https://blog.csdn.net/m0_63168877/article/details/147114538)
+
++ [Hadoop案例——流量统计](https://blog.csdn.net/lqlj2233/article/details/147095433)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(十二)](https://blog.csdn.net/weixin_74809706/article/details/147104383)
+
