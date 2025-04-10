@@ -205,3 +205,9 @@
 
 + [三年三访中国，西班牙首相在国际风云突变之际“用脚投票”](https://news.cctv.com/2025/04/10/ARTIyi1p2KLqYkW8W9xogpvU250410.shtml)
 
++ [多米尼加俱乐部屋顶坍塌事故已致218人死亡](https://news.cctv.com/2025/04/10/ARTIyG75q5QKkdZWwokVBxig250410.shtml)
+
++ [东盟国家召开财长和央行行长会议 讨论经济前景等问题](https://news.cctv.com/2025/04/10/ARTIWeA9XSI1QId058NfA0jE250410.shtml)
+
++ [联合国教科文组织确定3名下届总干事候选人名单](https://news.cctv.com/2025/04/10/ARTIO31kQoFygcYchkVsHvaS250410.shtml)
+
