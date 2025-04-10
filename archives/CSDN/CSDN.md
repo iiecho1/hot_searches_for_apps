@@ -171,3 +171,11 @@
 
 + [【机器学习】决策树](https://blog.csdn.net/PANSS__/article/details/147076126)
 
++ [浅层神经网络：全面解析（扩展）](https://blog.csdn.net/qq_34419312/article/details/147076041)
+
++ [模型量化和剪枝](https://blog.csdn.net/weixin_44714085/article/details/147064476)
+
++ [MIME 类型（媒体类型）详解](https://blog.csdn.net/qq_43689451/article/details/147102415)
+
++ [Vue.js 中 v-model 的使用及其原理](https://blog.csdn.net/BANaanaa/article/details/147067167)
+
