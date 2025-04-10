@@ -101,3 +101,21 @@
 
 + [TQTT_KU5P开发板教程---文件的烧写与程序固化](https://blog.csdn.net/mcupro/article/details/147089133)
 
++ [AI应用企业研发方案研究](https://blog.csdn.net/qq_43517653/article/details/147091032)
+
++ [浅层神经网络：全面解析（扩展）](https://blog.csdn.net/qq_34419312/article/details/147076041)
+
++ [卷积神经网络CNN](https://blog.csdn.net/weixin_46203834/article/details/147074065)
+
++ [GaussDB存储过程深度解析：从开发到生产实践](https://blog.csdn.net/GaussDB/article/details/147098398)
+
++ [如何设计一个包含上下文约束的Prompt来生成React表单组件代码](https://blog.csdn.net/qq_16242613/article/details/147082709)
+
++ [最新Spring Security实战教程（九）前后端分离认证实战 - JWT+SpringSecurity无缝整合](https://blog.csdn.net/lhmyy521125/article/details/147044945)
+
++ [Python：Excel表内关键字查修改删神器](https://blog.csdn.net/Clay_K/article/details/147122317)
+
++ [2025认证杯数学建模一阶段ABC题完整思路代码+成品文档+数据处理](https://blog.csdn.net/2501_91608738/article/details/147124758)
+
++ [头歌数据库【数据库概论】第10-11章 故障恢复与并发控制](https://blog.csdn.net/2301_79976271/article/details/147104282)
+
