@@ -119,3 +119,7 @@
 
 + [头歌数据库【数据库概论】第10-11章 故障恢复与并发控制](https://blog.csdn.net/2301_79976271/article/details/147104282)
 
++ [AI平台如何实现推理？数算岛是一个开源的AI平台（主要用于管理和调度分布式AI训练和推理任务。）](https://blog.csdn.net/Roinli/article/details/147065267)
+
++ [【Vue #2】脚手架 & 指令](https://blog.csdn.net/island1314/article/details/147119085)
+
