@@ -231,3 +231,5 @@
 
 + [Python：Excel表内关键字查修改删神器](https://blog.csdn.net/Clay_K/article/details/147122317)
 
++ [TQTT_KU5P开发板教程---文件的烧写与程序固化](https://blog.csdn.net/mcupro/article/details/147089133)
+

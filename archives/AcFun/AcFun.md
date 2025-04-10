@@ -137,3 +137,7 @@
 
 + [“一笛清影化烟魂，落入江湖伞犹温”](https://m.acfun.cn/v/%3Fac%3D47121533)
 
++ [【櫻坂46字幕组】2025.4.6「转角就是櫻坂吗？」EP229 团队对抗撒谎演技对决！下](https://m.acfun.cn/v/%3Fac%3D47121728)
+
++ [【东方】DJ Got Us Falling In Love Again【Minecraft MMD】](https://m.acfun.cn/v/%3Fac%3D47120131)
+
