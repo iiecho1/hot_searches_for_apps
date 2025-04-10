@@ -193,3 +193,9 @@
 
 + [美媒：联邦调查局局长被免去兼任职务](https://news.cctv.com/2025/04/10/ARTIMqeJrjJpSJkaB7ek1fNa250410.shtml)
 
++ [云南鲜花走俏阿斯塔纳：跨越五千多公里的“双向奔赴”](https://news.cctv.com/2025/04/10/ARTIZSN38y8vMnfejHU3g3N6250410.shtml)
+
++ [德国经济学家：美国长期从贸易逆差中受益](https://news.cctv.com/2025/04/10/ARTI9a4cpWgqAov5H3HLRNHG250410.shtml)
+
++ [中印尼建交75周年，双边关系对亚洲和平发展具有重要意义——访印尼外交政策协会主席及创始人迪诺·帕迪·贾拉尔](https://news.cctv.com/2025/04/10/ARTIz5RnmLEIoXhRpop9jLao250410.shtml)
+
