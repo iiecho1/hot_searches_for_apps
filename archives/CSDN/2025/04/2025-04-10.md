@@ -213,3 +213,7 @@
 
 + [XSS（跨站脚本攻击）](https://blog.csdn.net/YiHanXii/article/details/147047416)
 
++ [wx212基于ssm+vue+uniapp的科创微应用平台小程序](https://blog.csdn.net/shmp54xmu/article/details/147116143)
+
++ [从PPT到PNG：Python实现的高效PPT转图工具](https://blog.csdn.net/Clay_K/article/details/147115992)
+

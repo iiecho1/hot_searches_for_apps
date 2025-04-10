@@ -29,3 +29,21 @@
 
 + [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 
++ [caddyserver/caddy](https://github.com/caddyserver/caddy)
+
++ [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+
++ [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python)
+
++ [getmaxun/maxun](https://github.com/getmaxun/maxun)
+
++ [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [gin-gonic/gin](https://github.com/gin-gonic/gin)
+
