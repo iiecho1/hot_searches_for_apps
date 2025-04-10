@@ -161,3 +161,19 @@
 
 + [美企如何承担美国关税？用一部手机的价格告诉你](https://news.cctv.com/2025/04/07/ARTIoO6daFOH8UGGxJdIQ3VI250407.shtml)
 
++ [他痴痴地等北京来电，却迎来84%关税，欧盟顺手补一刀：华尔街崩了](https://news.cctv.com/2025/04/10/ARTIkfhWmGWUAGIWi3crOEU3250410.shtml)
+
++ [“对等关税”靴子落地 白宫已沦为“黑手党”？](https://news.cctv.com/2025/04/10/ARTIErKFE6EZWtTdYO6upyBo250410.shtml)
+
++ [伊朗总统：将在有尊严和必要保证情况下与美国谈判](https://news.cctv.com/2025/04/10/ARTIlxvfW9EQiYfVc6QuCNZo250410.shtml)
+
++ [法国或在6月承认巴勒斯坦国 巴方回应→](https://news.cctv.com/2025/04/10/ARTIEy462pOHssGr0OWz0oJ7250410.shtml)
+
++ [美联储会议纪要：通胀率略高 经济前景不确定性增加](https://news.cctv.com/2025/04/10/ARTIAxzv8CsbXrB6zp2pnaZm250410.shtml)
+
++ [墨西哥南部发生武装冲突 造成11人死亡](https://news.cctv.com/2025/04/10/ARTIxwVwaPB8R1SrnxeIHCEE250410.shtml)
+
++ [联合国人道主义行动在加沙严重受限 以军阻断近七成救援](https://news.cctv.com/2025/04/10/ARTI67rjAGQTmKxtKs0PUAo1250410.shtml)
+
++ [多米尼加俱乐部屋顶坍塌事故已致136人死亡](https://news.cctv.com/2025/04/10/ARTIKRyxiilNeV5ApER5Iq0y250410.shtml)
+

@@ -149,3 +149,15 @@
 
 + [航天器交会的分布式MPC模型预测控制研究附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/147091618)
 
++ [Java 大视界 -- Java 大数据在影视内容推荐与用户兴趣挖掘中的深度实践（183）](https://blog.csdn.net/atgfg/article/details/147091911)
+
++ [2025 年 GitHub 开源网页建站程序推荐](https://blog.csdn.net/weixin_46216236/article/details/147104787)
+
++ [口腔助手|口腔挂号预约小程序|基于微信小程序的口腔门诊预约系统的设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/147081391)
+
++ [2025年04月08日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/147068273)
+
++ [大数据与人工智能之大数据架构（Hadoop、Spark、Flink）](https://blog.csdn.net/qq_39311377/article/details/146441597)
+
++ [Spring Boot 自动配置原理详解](https://blog.csdn.net/qq_62112907/article/details/147072370)
+
