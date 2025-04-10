@@ -221,3 +221,13 @@
 
 + [FPAG_BUFFER学习](https://blog.csdn.net/m0_58129662/article/details/147092309)
 
++ [梯度下降法中学习率的观察](https://blog.csdn.net/qq_42327944/article/details/147121847)
+
++ [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、FilmPass渲染通道）](https://blog.csdn.net/qq_28419035/article/details/147117484)
+
++ [将 CrewAI 与 Elasticsearch 结合使用](https://blog.csdn.net/UbuntuTouch/article/details/147082483)
+
++ [一周学会Pandas2 Python数据处理与分析-Pandas2数据读取](https://blog.csdn.net/caoli201314/article/details/147110698)
+
++ [Python：Excel表内关键字查修改删神器](https://blog.csdn.net/Clay_K/article/details/147122317)
+
