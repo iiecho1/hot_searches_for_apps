@@ -189,3 +189,11 @@
 
 + [深度解析强化学习：原理、算法与实战](https://blog.csdn.net/LOVEmy134611/article/details/147112292)
 
++ [PyTorch CUDA内存管理优化：深度理解GPU资源分配与缓存机制](https://blog.csdn.net/m0_46510245/article/details/147113510)
+
++ [机器学习-线性回归模型](https://blog.csdn.net/m0_61159638/article/details/147098703)
+
++ [Qwen2.5-Omni 大模型部署实践（三）：5 分钟搭建本地 Web UI，体验多模态智能助手](https://blog.csdn.net/xiaobing259/article/details/147076929)
+
++ [技术与情感交织的一生 （五）](https://blog.csdn.net/michaelline/article/details/146933829)
+
