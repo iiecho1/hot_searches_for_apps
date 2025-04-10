@@ -179,3 +179,7 @@
 
 + [Vue.js 中 v-model 的使用及其原理](https://blog.csdn.net/BANaanaa/article/details/147067167)
 
++ [计算机视觉——图像金字塔与目标图像边缘检测原理与实践](https://blog.csdn.net/matt45m/article/details/147000908)
+
++ [基于微信小程序的高校寝室快修小程序研究](https://blog.csdn.net/Candy5204/article/details/147040853)
+

@@ -185,3 +185,7 @@
 
 + [美国在全球制造巨大混乱——“特朗普衰退”背后的保护主义政策风险](https://news.cctv.com/2025/04/10/ARTIBRldF78bQxoP0cIoYaK4250410.shtml)
 
++ [共同推动原子造福全球南方 中国将与国际原子能机构深化合作](https://news.cctv.com/2025/04/10/ARTI89KIbJGzZhSNArOGC9LH250410.shtml)
+
++ [国际奥委会官员：现阶段无法预测全球贸易战对洛杉矶奥运会的影响](https://news.cctv.com/2025/04/10/ARTIKpE4t2j6GMN9VgnrpPuj250410.shtml)
+
