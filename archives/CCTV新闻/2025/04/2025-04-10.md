@@ -201,3 +201,5 @@
 
 + [俄美代表团在土耳其举行会谈](https://news.cctv.com/2025/04/10/ARTI2xJnfs6Zt4aAUb3Bf12l250410.shtml)
 
++ [日本2024财年企业物价指数创1980财年以来最高](https://news.cctv.com/2025/04/10/ARTIjgPI4OnS4r2o4GA9cEPY250410.shtml)
+
