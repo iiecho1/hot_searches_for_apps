@@ -161,3 +161,7 @@
 
 + [Spring Boot 自动配置原理详解](https://blog.csdn.net/qq_62112907/article/details/147072370)
 
++ [小番茄C盘清理：电脑磁盘空间的瘦身神器，软件管家](https://blog.csdn.net/weixin_43151418/article/details/147091687)
+
++ [VUE3+TS+elementplus+Django+MySQL实现从前端增加数据存入数据库，并显示在前端界面上](https://blog.csdn.net/xll_007/article/details/147103099)
+
