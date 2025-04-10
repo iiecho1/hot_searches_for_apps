@@ -189,3 +189,7 @@
 
 + [国际奥委会官员：现阶段无法预测全球贸易战对洛杉矶奥运会的影响](https://news.cctv.com/2025/04/10/ARTIKpE4t2j6GMN9VgnrpPuj250410.shtml)
 
++ [印尼一客车与巴士相撞 致7人死亡](https://news.cctv.com/2025/04/10/ARTI20LC3M4xrNoN7E7dI3Cj250410.shtml)
+
++ [美媒：联邦调查局局长被免去兼任职务](https://news.cctv.com/2025/04/10/ARTIMqeJrjJpSJkaB7ek1fNa250410.shtml)
+

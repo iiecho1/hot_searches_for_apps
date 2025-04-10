@@ -183,3 +183,7 @@
 
 + [基于微信小程序的高校寝室快修小程序研究](https://blog.csdn.net/Candy5204/article/details/147040853)
 
++ [【Web API系列】WebSocketStream API 深度实践：构建高吞吐量实时应用的流式通信方案](https://blog.csdn.net/weixin_47754149/article/details/147065478)
+
++ [阿里云原生AI网关Higress：架构解析与应用实践](https://blog.csdn.net/fudaihb/article/details/147085904)
+
