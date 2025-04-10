@@ -161,3 +161,11 @@
 
 + [韩国大选时间正式敲定 总统热门人选都有谁？](https://news.cctv.com/2025/04/08/ARTIfNxum19ioQPRQm8j9tUE250408.shtml)
 
++ [世贸组织纪念成立三十周年 各方呼吁坚持多边主义](https://news.cctv.com/2025/04/11/ARTIrapkm0r07qHXCpyebkJ3250411.shtml)
+
++ [苏丹西部一难民营遭炮击 至少150人伤亡](https://news.cctv.com/2025/04/11/ARTIWwNVBVx39IKLo3aJF727250411.shtml)
+
++ [俄外交部：俄美同意制定方案 返还俄被没收外交设施](https://news.cctv.com/2025/04/11/ARTInP6FCO1GlwqdWPqPRnHd250411.shtml)
+
++ [会谈在即 美财政部宣布制裁与伊朗相关实体和个人](https://news.cctv.com/2025/04/11/ARTI0kuYsjn8saXiXkUY5qVl250411.shtml)
+
