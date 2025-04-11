@@ -211,3 +211,11 @@
 
 + [美国“关税风暴”冲击全球 多国采取措施应对“美国风险”](https://news.cctv.com/2025/04/11/ARTI2h4yevUPK0nqc7jYyCMo250411.shtml)
 
++ [联合国呼吁增加和调拨逾3.75亿美元援助缅甸强震灾民](https://news.cctv.com/2025/04/11/ARTIkpAWi9euCGOlbCAUY90A250411.shtml)
+
++ [印度比哈尔邦持续遭遇恶劣天气至少82人死亡](https://news.cctv.com/2025/04/11/ARTInEKdVweP4ZIM3NNyN1Ou250411.shtml)
+
++ [韩国一地铁施工现场发生坍塌 目前1人被困1人失联](https://news.cctv.com/2025/04/11/ARTIbj73w05VG6W9fyAaf6cH250411.shtml)
+
++ [韩国前总统尹锡悦正式搬离总统官邸](https://news.cctv.com/2025/04/11/ARTIGER0zRfPP9GfhtZxXpAE250411.shtml)
+
