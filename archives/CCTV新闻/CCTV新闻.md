@@ -161,3 +161,7 @@
 
 + [百害而无一利！美国滥施关税 遭全球多方反对和批评](https://news.cctv.com/2025/04/09/ARTIkMpNL9kMCMEf5IfJ2rKl250409.shtml)
 
++ [历时约4小时 普京与美国中东问题特使结束会谈](https://news.cctv.com/2025/04/12/ARTI6UvahyfYWFiGNg3oVlzm250412.shtml)
+
++ [“公开颠覆特朗普议程”？格陵兰岛美军太空基地指挥官被解职](https://news.cctv.com/2025/04/12/ARTI6X06KScXsQJg2NkXsKu3250412.shtml)
+
