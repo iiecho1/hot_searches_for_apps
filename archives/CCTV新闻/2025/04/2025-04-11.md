@@ -179,3 +179,19 @@
 
 + [美国纽约一直升机坠毁 机上6人全部遇难](https://news.cctv.com/2025/04/11/ARTI5C9zi36ls9SuxKQPLY2t250411.shtml)
 
++ [纽约股市三大股指10日显著下跌 美国3月CPI同比上涨2.4%](https://news.cctv.com/2025/04/11/ARTIDGnShq9VAJjPwqCEoFFo250411.shtml)
+
++ [伊朗最高领导人顾问：若持续遭威胁 伊朗或中止与IAEA合作](https://news.cctv.com/2025/04/11/ARTIKulanTbYxQXRmXJ1DRn0250411.shtml)
+
++ [欧洲专家警告美激进的关税政策将拖累全球经济 带来沉重负担](https://news.cctv.com/2025/04/11/ARTIijdiLsJOTMxEe1kWJ5u7250411.shtml)
+
++ [美联储官员警告通胀风险“显著上升” 美国经济衰退可能性或高达60%](https://news.cctv.com/2025/04/11/ARTICxbF4ND0iahx4wdtAuuR250411.shtml)
+
++ [国际能源署：2030年全球数据中心电力需求预计将翻倍](https://news.cctv.com/2025/04/11/ARTIXnMXhqF49U6vvmZG3WmE250411.shtml)
+
++ [专访丨技术赋能媒体创新发展　东盟可借鉴中国经验——访马来西亚国家新闻社主席黄振威](https://news.cctv.com/2025/04/11/ARTItSXyEQLAwZumBW21Je62250411.shtml)
+
++ [全球连线｜英国剑桥莎士比亚戏剧团：期待用戏剧架起中英友谊桥](https://news.cctv.com/2025/04/11/ARTIPtpfHbAccFeyknT1I6ot250411.shtml)
+
++ [树立起南南合作的典范](https://news.cctv.com/2025/04/11/ARTIgAWPEKukkaLHZn61JKPe250411.shtml)
+

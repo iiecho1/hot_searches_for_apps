@@ -139,3 +139,11 @@
 
 + [【Linux】网络层协议 IP](https://blog.csdn.net/2203_76003626/article/details/146553724)
 
++ [MySQL：事务的理解](https://blog.csdn.net/weixin_51142926/article/details/145407686)
+
++ [Zookeeper的通知机制是什么?](https://blog.csdn.net/caoli201314/article/details/147116456)
+
++ [Redis-场景缓存+秒杀+管道+消息队列](https://blog.csdn.net/qq_69147787/article/details/147084079)
+
++ [K8S核心技术点](https://blog.csdn.net/tq02h2a/article/details/147068212)
+
