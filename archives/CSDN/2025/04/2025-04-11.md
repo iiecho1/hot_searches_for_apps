@@ -177,3 +177,9 @@
 
 + [【C++面向对象】封装(上)：探寻构造函数的幽微之境](https://blog.csdn.net/m0_75192474/article/details/147042153)
 
++ [YOLO目标检测应用——基于 YOLOv8目标检测和 SAM 零样本分割实现指定目标分割](https://blog.csdn.net/matt45m/article/details/147013784)
+
++ [GaussDB ECPG与Oracle Pro_C深度对比：嵌入式SQL开发者的迁移指南](https://blog.csdn.net/GaussDB/article/details/147123510)
+
++ [【Linux 进程控制】—— 进程亦生生不息：起于鸿蒙，守若空谷，归于太虚](https://blog.csdn.net/bite_zwy/article/details/147062981)
+
