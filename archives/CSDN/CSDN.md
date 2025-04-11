@@ -205,3 +205,13 @@
 
 + [2025年04月10日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/147112277)
 
++ [人工智能向量化技术深度解析](https://blog.csdn.net/qq_34419312/article/details/147099120)
+
++ [【Python 开源】你的 Windows 关机助手——PyQt5 版定时关机工具](https://blog.csdn.net/Clay_K/article/details/147145988)
+
++ [Python 几种将数据插入到数据库的方法（单行插入、批量插入，SQL Server、MySQL，insert into）](https://blog.csdn.net/garbageSystem/article/details/147121636)
+
++ [Spring Boot 自动加载流程详解](https://blog.csdn.net/weixin_43063493/article/details/147127061)
+
++ [【Unity】Unity Transform缩放控制教程：实现3D模型缩放交互，支持按钮/鼠标/手势操作](https://blog.csdn.net/qq_41140324/article/details/147058359)
+
