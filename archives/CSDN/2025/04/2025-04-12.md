@@ -131,3 +131,7 @@
 
 + [Trea CN多多与主流AI编程工具万字解析](https://blog.csdn.net/abcdeWA/article/details/147153263)
 
++ [《Linux核心探微：从开源内核到系统之道 的艺术》(Linux概述)](https://blog.csdn.net/2301_77030121/article/details/147092665)
+
++ [线代[13]｜线性代数题37道以及数学分析题3道（多图预警）](https://blog.csdn.net/weixin_46959681/article/details/145550626)
+
