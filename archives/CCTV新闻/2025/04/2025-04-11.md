@@ -195,3 +195,7 @@
 
 + [树立起南南合作的典范](https://news.cctv.com/2025/04/11/ARTIgAWPEKukkaLHZn61JKPe250411.shtml)
 
++ [“这是对美国人民最大幅度的一次加税”——美民众抱怨成为关税政策“埋单人”](https://news.cctv.com/2025/04/11/ARTI7JYPIUWXsUYvxc6fnKhx250411.shtml)
+
++ [一场搞乱世界的美式闹剧](https://news.cctv.com/2025/04/11/ARTIqf027QYPP41GTJUfW9Je250411.shtml)
+

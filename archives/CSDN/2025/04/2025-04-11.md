@@ -147,3 +147,5 @@
 
 + [K8S核心技术点](https://blog.csdn.net/tq02h2a/article/details/147068212)
 
++ [DeepSeek打破AI天花板：MoE架构+RL推理，效率提升5倍的底层逻辑](https://blog.csdn.net/qq_32682301/article/details/147131606)
+
