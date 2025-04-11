@@ -219,3 +219,11 @@
 
 + [韩国前总统尹锡悦正式搬离总统官邸](https://news.cctv.com/2025/04/11/ARTIGER0zRfPP9GfhtZxXpAE250411.shtml)
 
++ [世卫组织总干事呼吁解除对加沙的援助封锁](https://news.cctv.com/2025/04/11/ARTIs7htRg3CHCKHylXhQoSH250411.shtml)
+
++ [美联邦法官将阻止特朗普政府撤销数十万移民临时身份](https://news.cctv.com/2025/04/11/ARTIomEjuq7NHzGvXRbSqAsH250411.shtml)
+
++ [美国中东问题特使已抵俄 预计将与俄总统普京会面](https://news.cctv.com/2025/04/11/ARTI8BbT4z7Eiaq9bBVFsf4r250411.shtml)
+
++ [俄外交部：俄乌已建立沟通渠道 将开展接触](https://news.cctv.com/2025/04/11/ARTIi46SeMhEolTo0yTTsrhQ250411.shtml)
+
