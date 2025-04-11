@@ -45,3 +45,7 @@
 
 + [我看空纳指到 9999 点。](https://www.v2ex.com/t/1124629)
 
++ [UV 已死， PDM 天下第一，建议写 Python 的进来学习一下优雅的代码怎么写](https://www.v2ex.com/t/1124712)
+
++ [汉 L 适合入手吗？](https://www.v2ex.com/t/1124635)
+
