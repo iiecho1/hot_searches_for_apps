@@ -171,3 +171,11 @@
 
 + [多米尼加宣布延长全国哀悼期3天](https://news.cctv.com/2025/04/11/ARTI0mOHT1YEyrWRL7Dlgka0250411.shtml)
 
++ [朝韩非军事区韩方一侧发生山火，韩国出动直升机灭火](https://news.cctv.com/2025/04/11/ARTIK4r3tBWnVYXs6Erp5ygp250411.shtml)
+
++ [特朗普以违反供水协议为由威胁制裁墨西哥](https://news.cctv.com/2025/04/11/ARTIs18bAY16jJQzRRvKUdhB250411.shtml)
+
++ [美元指数跌破100 为2023年7月以来首次](https://news.cctv.com/2025/04/11/ARTISFF7rW8G3fZSr0fQBgHa250411.shtml)
+
++ [美国纽约一直升机坠毁 机上6人全部遇难](https://news.cctv.com/2025/04/11/ARTI5C9zi36ls9SuxKQPLY2t250411.shtml)
+

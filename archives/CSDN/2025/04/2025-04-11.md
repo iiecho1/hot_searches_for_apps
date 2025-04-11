@@ -131,3 +131,11 @@
 
 + [Docker端口映射与容器间DNS发现：打通服务通信的任督二脉](https://blog.csdn.net/u011570324/article/details/147106689)
 
++ [Rust 的征服：从系统编程到全栈开发的 IT 新宠](https://blog.csdn.net/SDFsoul/article/details/147124891)
+
++ [Python从0到100（九十四）：深度可分离卷积的深入解析及在OPPORTUNITY数据集上的实战](https://blog.csdn.net/weixin_51390582/article/details/147044092)
+
++ [Elasticsearch 向量数据库，原生支持 Google Cloud Vertex AI 平台](https://blog.csdn.net/UbuntuTouch/article/details/147119036)
+
++ [【Linux】网络层协议 IP](https://blog.csdn.net/2203_76003626/article/details/146553724)
+
