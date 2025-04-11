@@ -233,3 +233,9 @@
 
 + [日本时隔17年再报告马流感疫情](https://news.cctv.com/2025/04/11/ARTINAhCNuUo0q5FRR57CHa5250411.shtml)
 
++ [一天获利4.15亿美元 特朗普被质疑操控股市](https://news.cctv.com/2025/04/11/ARTI1AK6klCDYGQw9h0iSFPW250411.shtml)
+
++ [本轮巴以冲突已致加沙地带50912人死亡](https://news.cctv.com/2025/04/11/ARTI71lm0vmDQNMBtNbUy95K250411.shtml)
+
++ [世界反兴奋剂机构主席：美国将体育政治化意在掩盖自身问题](https://news.cctv.com/2025/04/11/ARTIPUaNWpavymlTiCZUs28H250411.shtml)
+
