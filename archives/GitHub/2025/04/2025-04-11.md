@@ -29,3 +29,13 @@
 
 + [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
 
++ [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
+
++ [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
+

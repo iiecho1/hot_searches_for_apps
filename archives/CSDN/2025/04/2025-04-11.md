@@ -201,3 +201,5 @@
 
 + [Kubernetes核心架构：从组件协同到工作原理](https://blog.csdn.net/double222222/article/details/147111028)
 
++ [物联网应用技术专业（510102）传感器应用实训室建设方案](https://blog.csdn.net/whwzzc/article/details/147108770)
+
