@@ -203,3 +203,11 @@
 
 + [关税讹诈无法“让美国再次伟大”——起底美国关税战的历史与本质](https://news.cctv.com/2025/04/11/ARTI32eDPPk7DebUWc4obYHh250411.shtml)
 
++ [韩国一地铁施工现场发生地下坍塌，部分工人失联](https://news.cctv.com/2025/04/11/ARTIBGR6mXjI0JKxC0Q1x3vN250411.shtml)
+
++ [总台现场直击丨中国政府援缅第六批抗震救灾物资抵达仰光](https://news.cctv.com/2025/04/11/ARTIR5i2ln0XyFLhtutLmZdl250411.shtml)
+
++ [民调显示超半数美国人对加征关税不满](https://news.cctv.com/2025/04/11/ARTIxRe54L8ufh2Ui172dDqH250411.shtml)
+
++ [美国“关税风暴”冲击全球 多国采取措施应对“美国风险”](https://news.cctv.com/2025/04/11/ARTI2h4yevUPK0nqc7jYyCMo250411.shtml)
+

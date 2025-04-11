@@ -189,3 +189,11 @@
 
 + [深入理解 Spring Boot 的@AutoConfiguration注解](https://blog.csdn.net/younuoqianjin/article/details/147089010)
 
++ [【仿Mudou库one thread per loop式并发服务器实现】项目介绍+前置技术知识点](https://blog.csdn.net/fight_p/article/details/146729078)
+
++ [HomeAssistant本地化部署结合内网穿透打造跨网络智能家居中枢](https://blog.csdn.net/qq_73017178/article/details/147129371)
+
++ [【Spring】IoC详解：五大类注解、类Bean的存储（上）](https://blog.csdn.net/2302_79527141/article/details/147093951)
+
++ [Pyside6使用QtWebEngine实现GUI嵌入网页内容](https://blog.csdn.net/weixin_73953650/article/details/147075616)
+
