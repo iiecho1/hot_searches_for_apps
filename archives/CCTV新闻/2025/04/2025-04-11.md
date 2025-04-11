@@ -227,3 +227,9 @@
 
 + [俄外交部：俄乌已建立沟通渠道 将开展接触](https://news.cctv.com/2025/04/11/ARTIi46SeMhEolTo0yTTsrhQ250411.shtml)
 
++ [英德等国承诺为乌克兰提供超210亿欧元军援](https://news.cctv.com/2025/04/11/ARTIaMRD53vTpkZb9hf6Btng250411.shtml)
+
++ [联合国人权高专办：以色列对加沙封锁已进入第六周](https://news.cctv.com/2025/04/11/ARTI0vfBpVlwH9ch5d2vssun250411.shtml)
+
++ [日本时隔17年再报告马流感疫情](https://news.cctv.com/2025/04/11/ARTINAhCNuUo0q5FRR57CHa5250411.shtml)
+
