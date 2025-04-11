@@ -109,3 +109,25 @@
 
 + [玩转代理 IP ：实战爬虫案例](https://blog.csdn.net/qq_52213943/article/details/147122279)
 
++ [基于EDDFS眼底数据集的疾病诊断模型实战：CoAtt Net复现与性能分析](https://blog.csdn.net/2301_79062072/article/details/147155593)
+
++ [Elasticsearch 向量数据库，原生支持 Google Cloud Vertex AI 平台](https://blog.csdn.net/UbuntuTouch/article/details/147119036)
+
++ [动手学图神经网络GCN( GCN识别人体姿态 | 完整代码 | Pytorch实现)](https://blog.csdn.net/qq_53769632/article/details/147058229)
+
++ [新技术学习方法](https://blog.csdn.net/weixin_46004749/article/details/147114549)
+
++ [Java 大视界 -- Java 大数据在智能建筑能耗监测与节能策略制定中的应用（182）](https://blog.csdn.net/atgfg/article/details/147091896)
+
++ [蓝桥杯嵌入式第十五届](https://blog.csdn.net/2301_81764359/article/details/147104259)
+
++ [【数据库原理及安全实验】实验二 数据库的语句操作](https://blog.csdn.net/xinghuayu_lin/article/details/147087498)
+
++ [【Linux网络编程】UDP Echo Server的实现 ](https://blog.csdn.net/2401_82677021/article/details/147097404)
+
++ [剖析Spring中的设计模式（一） | 工厂&观察者](https://blog.csdn.net/qq_74092815/article/details/147088320)
+
++ [Redis-场景缓存+秒杀+管道+消息队列](https://blog.csdn.net/qq_69147787/article/details/147084079)
+
++ [Trea CN多多与主流AI编程工具万字解析](https://blog.csdn.net/abcdeWA/article/details/147153263)
+
