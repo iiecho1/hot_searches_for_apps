@@ -137,3 +137,5 @@
 
 + [当 AI 邂逅自动化，从测试到智能，代码里的狂飙时代](https://blog.csdn.net/2401_82648291/article/details/147107613)
 
++ [AutoEval：现实世界中通才机器人操作策略的自主评估](https://blog.csdn.net/yorkhunter/article/details/147099276)
+
