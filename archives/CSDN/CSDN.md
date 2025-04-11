@@ -135,3 +135,5 @@
 
 + [线代[13]｜线性代数题37道以及数学分析题3道（多图预警）](https://blog.csdn.net/weixin_46959681/article/details/145550626)
 
++ [当 AI 邂逅自动化，从测试到智能，代码里的狂飙时代](https://blog.csdn.net/2401_82648291/article/details/147107613)
+
