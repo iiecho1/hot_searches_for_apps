@@ -149,3 +149,31 @@
 
 + [DeepSeek打破AI天花板：MoE架构+RL推理，效率提升5倍的底层逻辑](https://blog.csdn.net/qq_32682301/article/details/147131606)
 
++ [电商素材革命：影刀RPA魔法指令3.0驱动批量去水印，实现秒级素材净化](https://blog.csdn.net/2301_80863610/article/details/147129689)
+
++ [什么是A2A协议？什么是MCP协议？A2A和MCP协议哪个更好？](https://blog.csdn.net/qq_44866828/article/details/147130190)
+
++ [[免费]SpringBoot+Vue高考志愿填报系统【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/147094640)
+
++ [【粉丝福利社】大模型智能推荐系统：技术解析与开发实践](https://blog.csdn.net/aa2528877987/article/details/147077553)
+
++ [Hi Robot——大脑加强版的π0：基于「VLM的高层次推理+ VLA低层次任务执行」的复杂指令跟随及交互式反馈](https://blog.csdn.net/v_JULY_v/article/details/147090612)
+
++ [乐观锁与悲观锁的使用场景](https://blog.csdn.net/qq_59837818/article/details/147103664)
+
++ [BMP格式文件的C语言操作（附加西电BMP图像二值化作业）](https://blog.csdn.net/2401_87740383/article/details/147104696)
+
++ [基于springboot+vue的攀枝花市鲜花销售系统](https://blog.csdn.net/shmp54/article/details/147116236)
+
++ [实测文心4.5与X1一个月后，我预测文心大模型4.5 Turbo将有这几个升级点](https://blog.csdn.net/herosunly/article/details/147120815)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历（Calendar）](https://blog.csdn.net/qq_33650655/article/details/147083574)
+
++ [我的创作纪念日：创作四周年回顾——从第一篇博客到持续技术分享的旅程](https://blog.csdn.net/qq_16242613/article/details/147102008)
+
++ [数字人技术的核心：AI与动作捕捉的双引擎驱动（2/10）](https://blog.csdn.net/beautifulmemory/article/details/147066315)
+
++ [蓝桥杯嵌入式第十五届](https://blog.csdn.net/2301_81764359/article/details/147104259)
+
++ [【C++面向对象】封装(上)：探寻构造函数的幽微之境](https://blog.csdn.net/m0_75192474/article/details/147042153)
+
