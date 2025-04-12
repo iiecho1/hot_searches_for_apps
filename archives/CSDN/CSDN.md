@@ -167,3 +167,7 @@
 
 + [数据中台、BI业务访谈（三）：如何选择合适的访谈对象](https://blog.csdn.net/weixin_44958787/article/details/147133891)
 
++ [PostgreSQL：逻辑复制与物理复制](https://blog.csdn.net/lilinhai548/article/details/147159828)
+
++ [GaussDB ECPG与Oracle Pro_C深度对比：嵌入式SQL开发者的迁移指南](https://blog.csdn.net/GaussDB/article/details/147123510)
+

@@ -195,3 +195,5 @@
 
 + [阿根廷宣布实行区间浮动汇率制度](https://news.cctv.com/2025/04/12/ARTIpDZfN3VtZlYLJP6yg4rM250412.shtml)
 
++ [美关税政策重创美国多行业 美消费者正为贸易战付出沉重代价](https://news.cctv.com/2025/04/12/ARTIAk9gUfm9Qr97Wa0gOZ8q250412.shtml)
+
