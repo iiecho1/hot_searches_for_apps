@@ -125,3 +125,9 @@
 
 + [【PySpark大数据分析概述】03 PySpark大数据分析](https://blog.csdn.net/Morse_Chen/article/details/147125438)
 
++ [微信小程序原生开发学习概述](https://blog.csdn.net/sixpp/article/details/147130456)
+
++ [第五章：5.1 ESP32物联网应用 - MQTT协议深度教程](https://blog.csdn.net/Hi__gril/article/details/147153809)
+
++ [2025年_第16届蓝桥杯pyB组](https://blog.csdn.net/qq_57360189/article/details/147177989)
+
