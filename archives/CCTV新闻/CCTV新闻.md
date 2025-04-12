@@ -215,3 +215,5 @@
 
 + [巴布亚新几内亚附近海域发生6.0级地震，震源深度50千米](https://news.cctv.com/2025/04/12/ARTI5iFIqPyIsBUXPwHL7COc250412.shtml)
 
++ [美关税措施加剧贸易紧张导致美元指数大幅走低](https://news.cctv.com/2025/04/12/ARTIOniOQeTn4TIbNBWi1B1H250412.shtml)
+

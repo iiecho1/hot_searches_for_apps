@@ -179,3 +179,5 @@
 
 + [第五章：5.1 ESP32物联网应用 - MQTT协议深度教程](https://blog.csdn.net/Hi__gril/article/details/147153809)
 
++ [元生代品牌建设：平台实现工作流（comfyui）创建与技术文档说明](https://blog.csdn.net/beautifulmemory/article/details/147155465)
+
