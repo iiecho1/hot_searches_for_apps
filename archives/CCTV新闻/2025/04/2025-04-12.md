@@ -175,3 +175,15 @@
 
 + [土耳其总统说土不会容忍将叙利亚陷入不稳定的企图](https://news.cctv.com/2025/04/12/ARTIKzOf7JxtFkVjs8d6CBHJ250412.shtml)
 
++ [联合国机构和国际组织：苏丹人道主义危机规模空前](https://news.cctv.com/2025/04/12/ARTIUgcH1G8h0D0qatEOVqVs250412.shtml)
+
++ [专访丨构建周边命运共同体　中国式现代化为东盟国家带来更多机遇——访泰国泰中“一带一路”研究中心主任威伦·披差翁帕迪](https://news.cctv.com/2025/04/12/ARTIuDpO6KUZgJO6mT7iBybQ250412.shtml)
+
++ [共话中国经济新机遇丨专访：中国汽车品牌参与欧洲车展将助力欧中汽车业合作——访意大利都灵车展新闻官圣蒂塞](https://news.cctv.com/2025/04/12/ARTIKxPUHdPckm7e6JMDUfAj250412.shtml)
+
++ [“为地区发展开辟更加美好的未来”——国际人士积极评价中国周边外交理念与实践成效](https://news.cctv.com/2025/04/12/ARTIvIQWpPvQNVJH6kH3KsGI250412.shtml)
+
++ [谱写推动构建周边命运共同体新篇章](https://news.cctv.com/2025/04/12/ARTIk7KYvPmQFPkT5nznlnvA250412.shtml)
+
++ [从国际民意看美式霸权的内爆与崩塌](https://news.cctv.com/2025/04/12/ARTIU9vEkiiGgcDfnG37Kq3w250412.shtml)
+
