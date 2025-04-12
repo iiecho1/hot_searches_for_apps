@@ -199,3 +199,19 @@
 
 + [中国对美式霸凌奉陪到底 外媒犀利点评：美国没有胜算](https://news.cctv.com/2025/04/12/ARTI5YyAZWfYUFXFK2v52ugN250412.shtml)
 
++ [伊朗外长会见阿曼外交大臣 沟通伊美间接谈判安排](https://news.cctv.com/2025/04/12/ARTIQjVIH8fbyikKwW1vd6TA250412.shtml)
+
++ [希腊铁路公司总部附近发生爆炸](https://news.cctv.com/2025/04/12/ARTIbspiztzDrxuCgfLZBLtT250412.shtml)
+
++ [巴布亚新几内亚发生6.2级地震](https://news.cctv.com/2025/04/12/ARTI8gnNsqth2hX79FyiHRFD250412.shtml)
+
++ [伊朗外长已率团抵达阿曼 准备与美展开核谈判](https://news.cctv.com/2025/04/12/ARTITnwALJcitQKFnyYBJ0O0250412.shtml)
+
++ [大阪世博会中国馆举行升旗仪式，五星红旗迎风飘扬！](https://news.cctv.com/2025/04/12/ARTISpvQb7i007fmXnKNV6qx250412.shtml)
+
++ [青年说：连接中国与东南亚的文化纽带](https://news.cctv.com/2025/04/12/ARTINM4MkrnOsuNgCkQEhRpl250412.shtml)
+
++ [专访丨亲诚惠容周边外交理念在中亚深得人心——访《哈萨克斯坦实业报》总编辑科尔茹姆巴耶夫](https://news.cctv.com/2025/04/12/ARTIFdBi4Y39QwhAnwPwcwA9250412.shtml)
+
++ [巴布亚新几内亚附近海域发生6.0级地震，震源深度50千米](https://news.cctv.com/2025/04/12/ARTI5iFIqPyIsBUXPwHL7COc250412.shtml)
+

@@ -41,3 +41,5 @@
 
 + [redis 存储视频数据可行性](https://www.v2ex.com/t/1124922)
 
++ [为什么从 MSDN 系统库下载的 LSTC 的 MD5 和 SHA1 校验不对？](https://www.v2ex.com/t/1124930)
+
