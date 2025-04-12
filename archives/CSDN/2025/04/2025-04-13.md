@@ -137,3 +137,9 @@
 
 + [Excel数据如何无损导入wangEditor编辑器？](https://blog.csdn.net/weixin_52050572/article/details/147163181)
 
++ [Transformer模型解析与实例：搭建一个自己的预测语言模型](https://blog.csdn.net/m0_69722969/article/details/147029255)
+
++ [MySQL——约束(constraint)笔记](https://blog.csdn.net/m0_75134325/article/details/147183355)
+
++ [小程序中实现音频播放（原生 + uniapp）](https://blog.csdn.net/qq_57952018/article/details/147120479)
+
