@@ -189,3 +189,7 @@
 
 + [解锁AI未来，开启创新之旅——《GPTs开发详解》与《ChatGPT 4应用详解》两本书的深度解析](https://blog.csdn.net/shi_hong_fei_hei/article/details/147167909)
 
++ [【黑客帝国连接虚拟与现实：数据采集系统（DAQ）硬核技术深度解析】](https://blog.csdn.net/weixin_62244995/article/details/147141357)
+
++ [HTML应用指南：利用GET请求获取全国汉堡王门店位置信息](https://blog.csdn.net/weixin_45812624/article/details/147145525)
+

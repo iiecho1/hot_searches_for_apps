@@ -227,3 +227,7 @@
 
 + [缅甸强震致中国公民8死13伤](https://news.cctv.com/2025/04/12/ARTI9u1styscnE7VvgURpPr2250412.shtml)
 
++ [极速掠影｜60秒带你看越南](https://news.cctv.com/2025/04/12/ARTI3nzq6EFRY0HpYl5Rjgbg250412.shtml)
+
++ [孙夏铃：从越南到中国，她用音乐拉近青春](https://news.cctv.com/2025/04/12/ARTID2Fb92ix5FgNU2thAbD9250412.shtml)
+
