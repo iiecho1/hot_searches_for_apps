@@ -169,3 +169,9 @@
 
 + [【前哨】偏执于关税战的美国政客，将自戕更多无辜行业](https://news.cctv.com/2025/04/12/ARTITlMVNGORzPGXzEZhdaxR250412.shtml)
 
++ [美国佛罗里达州一架小型飞机坠毁致3死1伤](https://news.cctv.com/2025/04/12/ARTI8AGBBRkrSZvSf5jvipyM250412.shtml)
+
++ [苏丹北达尔富尔州首府遭袭致32名平民死亡](https://news.cctv.com/2025/04/12/ARTIUZbFfIjtMYJjVMxHALIM250412.shtml)
+
++ [土耳其总统说土不会容忍将叙利亚陷入不稳定的企图](https://news.cctv.com/2025/04/12/ARTIKzOf7JxtFkVjs8d6CBHJ250412.shtml)
+

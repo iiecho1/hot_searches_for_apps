@@ -21,3 +21,7 @@
 
 + [拼音缩写字段真是给我整无奈了](https://www.v2ex.com/t/1124740)
 
++ [脑子一热定了蔚来 ET5T](https://www.v2ex.com/t/1124710)
+
++ [nas 到底是不是伪需求？](https://www.v2ex.com/t/1124703)
+
