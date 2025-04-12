@@ -165,3 +165,7 @@
 
 + [“公开颠覆特朗普议程”？格陵兰岛美军太空基地指挥官被解职](https://news.cctv.com/2025/04/12/ARTI6X06KScXsQJg2NkXsKu3250412.shtml)
 
++ [美国滥施关税伤了谁？“数”说美国经济衰退风险增加 民众付出沉重代价](https://news.cctv.com/2025/04/12/ARTIBjJdXMRICWAnL5vSkadh250412.shtml)
+
++ [【前哨】偏执于关税战的美国政客，将自戕更多无辜行业](https://news.cctv.com/2025/04/12/ARTITlMVNGORzPGXzEZhdaxR250412.shtml)
+
