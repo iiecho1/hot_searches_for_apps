@@ -105,3 +105,23 @@
 
 + [蓝桥杯嵌入式第十五届](https://blog.csdn.net/2301_81764359/article/details/147104259)
 
++ [基于深度学习的口罩检测系统（YOLOv8+YOLO数据集+UI界面+Python项目源码+模型）](https://blog.csdn.net/m0_68036862/article/details/147077135)
+
++ [艾伦·图灵：计算机科学与人工智能之父](https://blog.csdn.net/qq_51646682/article/details/147170582)
+
++ [【KWDB 创作者计划】_国内开元数据库概述分析](https://blog.csdn.net/feng8403000/article/details/147153428)
+
++ [基于YOLO11的Robotiq机械臂夹爪检测系统（Python源码+数据集+Pyside6界面）](https://blog.csdn.net/m0_63774211/article/details/147158985)
+
++ [DeepSeek：穿透行业知识壁垒的搜索引擎攻防战](https://blog.csdn.net/weixin_45788582/article/details/147143341)
+
++ [springboot调用python文件，python文件使用其他dat文件，适配windows和linux，以及docker环境的方案](https://blog.csdn.net/jifashihan/article/details/147091013)
+
++ [技术与情感交织的一生 （五）](https://blog.csdn.net/michaelline/article/details/146933829)
+
++ [Web 项目实战：构建属于自己的博客系统](https://blog.csdn.net/2401_83595513/article/details/146909949)
+
++ [元生代品牌建设：平台实现工作流（comfyui）创建与技术文档说明](https://blog.csdn.net/beautifulmemory/article/details/147155465)
+
++ [【PySpark大数据分析概述】03 PySpark大数据分析](https://blog.csdn.net/Morse_Chen/article/details/147125438)
+
