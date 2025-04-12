@@ -193,3 +193,11 @@
 
 + [HTML应用指南：利用GET请求获取全国汉堡王门店位置信息](https://blog.csdn.net/weixin_45812624/article/details/147145525)
 
++ [Elasticsearch：用向量找到你最合拍的音乐好友 - Spotify Wrapped，第五部分](https://blog.csdn.net/UbuntuTouch/article/details/147163595)
+
++ [【机器学习】第27天：玩转时间序列预测，从 ARIMA 到 Prophet 实战指南](https://blog.csdn.net/Kiradzy/article/details/147102734)
+
++ [Docker--利用dockerfile搭建mysql主从集群和redis集群](https://blog.csdn.net/m0_74068921/article/details/147077108)
+
++ [Spring Boot 自动配置与启动原理全解析](https://blog.csdn.net/m0_73748193/article/details/147126803)
+

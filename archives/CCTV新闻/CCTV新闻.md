@@ -231,3 +231,9 @@
 
 + [孙夏铃：从越南到中国，她用音乐拉近青春](https://news.cctv.com/2025/04/12/ARTID2Fb92ix5FgNU2thAbD9250412.shtml)
 
++ [特朗普昔日搭档彭斯：本届政府加征关税是“失策”](https://news.cctv.com/2025/04/12/ARTI4QiDjGNX1uk3CV2kL6Ij250412.shtml)
+
++ [乌称一名飞行员死亡 俄称击落F-16战斗机](https://news.cctv.com/2025/04/12/ARTIHfc4pdqjfd2IiXvzJ0G0250412.shtml)
+
++ [希腊方面称该国海岸警卫队与土耳其船只交火 土方暂无回应](https://news.cctv.com/2025/04/12/ARTIeS2264SEIvCE6XGJNiDX250412.shtml)
+
