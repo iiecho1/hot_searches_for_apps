@@ -197,3 +197,5 @@
 
 + [美关税政策重创美国多行业 美消费者正为贸易战付出沉重代价](https://news.cctv.com/2025/04/12/ARTIAk9gUfm9Qr97Wa0gOZ8q250412.shtml)
 
++ [中国对美式霸凌奉陪到底 外媒犀利点评：美国没有胜算](https://news.cctv.com/2025/04/12/ARTI5YyAZWfYUFXFK2v52ugN250412.shtml)
+

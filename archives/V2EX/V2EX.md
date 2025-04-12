@@ -35,3 +35,9 @@
 
 + [求助：小米 su7 与沃尔沃 s60 如何选择](https://www.v2ex.com/t/1124880)
 
++ [看了下帖子,看来收公网是大势所趋](https://www.v2ex.com/t/1124831)
+
++ [不懂 NAS 的影音服务有什么用](https://www.v2ex.com/t/1124919)
+
++ [redis 存储视频数据可行性](https://www.v2ex.com/t/1124922)
+

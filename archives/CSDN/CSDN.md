@@ -171,3 +171,11 @@
 
 + [GaussDB ECPG与Oracle Pro_C深度对比：嵌入式SQL开发者的迁移指南](https://blog.csdn.net/GaussDB/article/details/147123510)
 
++ [数据挖掘实战-基于TFIDF+余弦相似度的个性化论文推荐](https://blog.csdn.net/m0_64336780/article/details/142815267)
+
++ [从零实现基于扩散模型的文本到视频生成系统：技术详解与Pytorch代码实现](https://blog.csdn.net/m0_46510245/article/details/147161443)
+
++ [NotebookLM：基于 Gemini 2.0 的个性化 AI 研究助手](https://blog.csdn.net/u014390502/article/details/147129289)
+
++ [第五章：5.1 ESP32物联网应用 - MQTT协议深度教程](https://blog.csdn.net/Hi__gril/article/details/147153809)
+
