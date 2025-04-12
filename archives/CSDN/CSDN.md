@@ -187,3 +187,5 @@
 
 + [C++学习之密码学知识](https://blog.csdn.net/qq_27302885/article/details/147146487)
 
++ [解锁AI未来，开启创新之旅——《GPTs开发详解》与《ChatGPT 4应用详解》两本书的深度解析](https://blog.csdn.net/shi_hong_fei_hei/article/details/147167909)
+
