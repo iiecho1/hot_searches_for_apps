@@ -19,3 +19,5 @@
 
 + [为什么从 MSDN 系统库下载的 LSTC 的 MD5 和 SHA1 校验不对？](https://www.v2ex.com/t/1124930)
 
++ [关于工资收入方面扣税的问题？](https://www.v2ex.com/t/1124909)
+
