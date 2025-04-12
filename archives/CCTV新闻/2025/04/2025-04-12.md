@@ -221,3 +221,9 @@
 
 + [特朗普政府将赶走在美避难的阿富汗人、喀麦隆人](https://news.cctv.com/2025/04/12/ARTImVNJVOHY1q6zo7eHJGf8250412.shtml)
 
++ [美国是多边贸易体制的最大破坏者](https://news.cctv.com/2025/04/12/ARTIOBmZsmvgm9ApIiVA8qHo250412.shtml)
+
++ [以军持续分割加沙 控制第二条“费城走廊”并包围拉法](https://news.cctv.com/2025/04/12/ARTI64zYzOBwGwui0phDpkTl250412.shtml)
+
++ [缅甸强震致中国公民8死13伤](https://news.cctv.com/2025/04/12/ARTI9u1styscnE7VvgURpPr2250412.shtml)
+

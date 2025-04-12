@@ -21,3 +21,15 @@
 
 + [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
 
++ [colinhacks/zod](https://github.com/colinhacks/zod)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [vllm-project/vllm](https://github.com/vllm-project/vllm)
+
++ [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit)
+
++ [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)
+
++ [minio/minio](https://github.com/minio/minio)
+
