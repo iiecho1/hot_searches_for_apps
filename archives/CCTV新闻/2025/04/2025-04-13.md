@@ -161,3 +161,9 @@
 
 + [东盟国家召开财长和央行行长会议 讨论经济前景等问题](https://news.cctv.com/2025/04/10/ARTIWeA9XSI1QId058NfA0jE250410.shtml)
 
++ [白宫称美伊双方同意于19日再次会面](https://news.cctv.com/2025/04/13/ARTIEcvqv4WHkc0sXWe64MOu250413.shtml)
+
++ [美方豁免部分商品“对等关税”](https://news.cctv.com/2025/04/13/ARTIuqKX82fiHSHMrrSrt7qj250413.shtml)
+
++ [大阪世博会开幕 13日正式开园](https://news.cctv.com/2025/04/13/ARTIPsP8dWqu1T6lojrstsOn250413.shtml)
+

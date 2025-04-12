@@ -143,3 +143,5 @@
 
 + [小程序中实现音频播放（原生 + uniapp）](https://blog.csdn.net/qq_57952018/article/details/147120479)
 
++ [人工智能图像识别Spark Core3](https://blog.csdn.net/2501_90677971/article/details/147139558)
+
