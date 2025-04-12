@@ -181,3 +181,7 @@
 
 + [元生代品牌建设：平台实现工作流（comfyui）创建与技术文档说明](https://blog.csdn.net/beautifulmemory/article/details/147155465)
 
++ [HTTP vs HTTPS: 终极解析，保护你的数据究竟有多重要？](https://blog.csdn.net/Lisiyang0928/article/details/147156923)
+
++ [Elasticsearch：使用稀疏向量提升相关性](https://blog.csdn.net/UbuntuTouch/article/details/147160981)
+

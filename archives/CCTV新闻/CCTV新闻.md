@@ -217,3 +217,7 @@
 
 + [美关税措施加剧贸易紧张导致美元指数大幅走低](https://news.cctv.com/2025/04/12/ARTIOniOQeTn4TIbNBWi1B1H250412.shtml)
 
++ [当美元不再“避险” 欧元对美元汇率创3年多来新高](https://news.cctv.com/2025/04/12/ARTIzjVwlLkEANH9CbYGUalb250412.shtml)
+
++ [特朗普政府将赶走在美避难的阿富汗人、喀麦隆人](https://news.cctv.com/2025/04/12/ARTImVNJVOHY1q6zo7eHJGf8250412.shtml)
+
