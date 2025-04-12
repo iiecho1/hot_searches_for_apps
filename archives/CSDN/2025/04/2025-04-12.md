@@ -201,3 +201,5 @@
 
 + [Spring Boot 自动配置与启动原理全解析](https://blog.csdn.net/m0_73748193/article/details/147126803)
 
++ [基于 RS232 的串口通信：由 FPGA 发射数据到 PC](https://blog.csdn.net/feng1790291543/article/details/145049889)
+
