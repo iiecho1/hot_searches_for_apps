@@ -187,3 +187,11 @@
 
 + [从国际民意看美式霸权的内爆与崩塌](https://news.cctv.com/2025/04/12/ARTIU9vEkiiGgcDfnG37Kq3w250412.shtml)
 
++ [英国禁止个人从欧盟携带肉类和乳制品入境以防口蹄疫](https://news.cctv.com/2025/04/12/ARTIuiOEnI4Hfy0Th0FjR9x1250412.shtml)
+
++ [洪都拉斯外长：尼加拉瓜将派驻新任驻洪大使](https://news.cctv.com/2025/04/12/ARTIoxlTrl2pElY1ClMUl0YV250412.shtml)
+
++ [格陵兰岛一美军指挥官在美副总统访问后遭解职](https://news.cctv.com/2025/04/12/ARTIaGQxvDFUbAqQoaNELuZ2250412.shtml)
+
++ [阿根廷宣布实行区间浮动汇率制度](https://news.cctv.com/2025/04/12/ARTIpDZfN3VtZlYLJP6yg4rM250412.shtml)
+
