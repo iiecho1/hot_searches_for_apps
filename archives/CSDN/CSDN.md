@@ -145,3 +145,7 @@
 
 + [人工智能图像识别Spark Core3](https://blog.csdn.net/2501_90677971/article/details/147139558)
 
++ [Model Context Protocol（MCP）模型上下文协议](https://blog.csdn.net/liangpangpangyo/article/details/147168559)
+
++ [Elasticsearch：用向量找到你最合拍的音乐好友 - Spotify Wrapped，第五部分](https://blog.csdn.net/UbuntuTouch/article/details/147163595)
+
