@@ -219,3 +219,5 @@
 
 + [Qwen2.5-Omni 大模型部署实践（八）：视频信息提取的多模态应用探索](https://blog.csdn.net/xiaobing259/article/details/147103037)
 
++ [Vue 3 和 Vue 2 的区别及优点](https://blog.csdn.net/m0_75075881/article/details/147170105)
+
