@@ -221,3 +221,11 @@
 
 + [Vue 3 和 Vue 2 的区别及优点](https://blog.csdn.net/m0_75075881/article/details/147170105)
 
++ [【AI大模型】大模型RAG技术Langchain4j 核心组件深入详解](https://blog.csdn.net/zhangcongyi420/article/details/146639738)
+
++ [用魔法打败魔法：AI教你如何去AI痕迹全方位策略](https://blog.csdn.net/deepever/article/details/147170594)
+
++ [Elasticsearch：使用稀疏向量提升相关性](https://blog.csdn.net/UbuntuTouch/article/details/147160981)
+
++ [用纯Qt实现GB28181协议/实时视频/云台控制/预置位/录像回放和下载/事件订阅/语音对讲](https://blog.csdn.net/feiyangqingyun/article/details/147169825)
+
