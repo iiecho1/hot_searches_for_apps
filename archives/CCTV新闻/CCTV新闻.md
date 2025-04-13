@@ -181,3 +181,5 @@
 
 + [意识到给美民众带去的痛苦？美方豁免部分商品“对等关税”](https://news.cctv.com/2025/04/13/ARTID9SgZqs6ugHkILaNYxyp250413.shtml)
 
++ [美国把对俄制裁的国家紧急状态延长一年](https://news.cctv.com/2025/04/13/ARTI0ksCvtEIsgI4J378bLA3250413.shtml)
+

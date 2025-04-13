@@ -181,3 +181,11 @@
 
 + [CSS篇：CSS选择器详解与权重计算全指南](https://blog.csdn.net/qq_48652579/article/details/147111864)
 
++ [玩转ESP32-S3：UDP网络通信技术详解](https://blog.csdn.net/SlientICE/article/details/147133442)
+
++ [Java 架构设计：从单体架构到微服务的转型之路](https://blog.csdn.net/shrgegrb/article/details/147170342)
+
++ [Spring Data Solr 在后端实时搜索场景下的优化](https://blog.csdn.net/2501_91492197/article/details/147188040)
+
++ [16届蓝桥杯Python赛道B组战果汇报](https://blog.csdn.net/2403_88854014/article/details/147164151)
+
