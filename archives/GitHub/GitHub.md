@@ -21,3 +21,25 @@
 
 + [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)
 
++ [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
+
++ [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
+
++ [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
++ [ocornut/imgui](https://github.com/ocornut/imgui)
+
++ [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+
++ [BasedHardware/omi](https://github.com/BasedHardware/omi)
+
++ [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+
++ [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+
