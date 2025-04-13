@@ -135,3 +135,9 @@
 
 + [学习海康VisionMaster之平行线查找](https://blog.csdn.net/yuhouxiyang/article/details/147182453)
 
++ [.py文件和.ipynb文件的区别：完整教程](https://blog.csdn.net/2401_88885149/article/details/147175009)
+
++ [【Spring】IoC详解：五大类注解、类Bean的存储（上）](https://blog.csdn.net/2302_79527141/article/details/147093951)
+
++ [DeepSeek的神经元革命：穿透搜索引擎算法的下一代内容基建](https://blog.csdn.net/weixin_45788582/article/details/147143585)
+
