@@ -213,3 +213,9 @@
 
 + [网络原理-TCP/IP(第二部分)](https://blog.csdn.net/m0_64725370/article/details/147190306)
 
++ [Spring AI 结构化输出详解](https://blog.csdn.net/qq_29434541/article/details/147176876)
+
++ [.py文件和.ipynb文件的区别：完整教程](https://blog.csdn.net/2401_88885149/article/details/147175009)
+
++ [Qwen2.5-Omni 大模型部署实践（八）：视频信息提取的多模态应用探索](https://blog.csdn.net/xiaobing259/article/details/147103037)
+
