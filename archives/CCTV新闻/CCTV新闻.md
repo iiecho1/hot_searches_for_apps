@@ -173,3 +173,7 @@
 
 + [首尔市长放弃竞选韩国总统](https://news.cctv.com/2025/04/13/ARTIaGk0jlPAwtYm5MOJhDWL250413.shtml)
 
++ [塔吉克斯坦发生6.1级地震](https://news.cctv.com/2025/04/13/ARTIcXCNKwxivSDt6M0FPQE1250413.shtml)
+
++ [塔吉克斯坦发生6.1级地震](https://news.cctv.com/2025/04/13/ARTIDWVwDbxHzFh3vtQoLIly250413.shtml)
+

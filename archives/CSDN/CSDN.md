@@ -167,3 +167,11 @@
 
 + [SDC命令详解：使用相对路径访问设计对象(current_instance命令)](https://blog.csdn.net/weixin_45791458/article/details/147156354)
 
++ [Stable Diffusion XL 1.0 model](https://blog.csdn.net/chengyq116/article/details/147173602)
+
++ [HTML应用指南：利用GET请求获取全国汉堡王门店位置信息](https://blog.csdn.net/weixin_45812624/article/details/147145525)
+
++ [企业年报问答RAG挑战赛冠军方案：从零到SOTA，一战封神](https://blog.csdn.net/qq_36603091/article/details/147163318)
+
++ [【区块链安全 | 第三十九篇】合约审计之delegatecall（一）](https://blog.csdn.net/2301_77485708/article/details/147167057)
+
