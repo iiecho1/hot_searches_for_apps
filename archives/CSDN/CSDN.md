@@ -149,3 +149,7 @@
 
 + [Elasticsearch：用向量找到你最合拍的音乐好友 - Spotify Wrapped，第五部分](https://blog.csdn.net/UbuntuTouch/article/details/147163595)
 
++ [ASP.NET Core 性能优化：内存缓存](https://blog.csdn.net/lei1083929965/article/details/147153370)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(十三) -＞ ArkTS/TS代码重构](https://blog.csdn.net/weixin_74809706/article/details/147169222)
+

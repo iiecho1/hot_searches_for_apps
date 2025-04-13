@@ -25,3 +25,27 @@
 
 + [腾讯 OCR 优化“・”识别，支持全国所有的少数民族身份证](https://m.ithome.com/html/844381.htm)
 
++ [刘强东回应美团高管炮轰京东：不要和人打口仗，产生不了社会价值](https://m.ithome.com/html/844805.htm)
+
++ [一加 13T 真机曝光：小直屏设计 + 超 6000mAh 电池，本月发售](https://m.ithome.com/html/844828.htm)
+
++ [游戏科学至今仍未收到《黑神话：悟空》TGA 奖杯，展区仅用一张纸卡代替](https://m.ithome.com/html/844872.htm)
+
++ [美豁免从中国进口的智能手机、电脑等产品关税，含苹果 iPhone、Mac 等](https://m.ithome.com/html/844816.htm)
+
++ [零跑 C16 推出限时一口价，叠加国补后 11.8701 万元起](https://m.ithome.com/html/844849.htm)
+
++ [国补后立打 7.7 折：小米 15 手机 16+512G 版 3873 元京东自营探新低](https://m.ithome.com/html/844781.htm)
+
++ [消息称安卓端微信开启朋友圈实况照片灰度测试](https://m.ithome.com/html/844819.htm)
+
++ [小米 REDMI 显示器 A27U 节能版上市：4K 画质 + 青山护眼，国补价 1189.15 元](https://m.ithome.com/html/844821.htm)
+
++ [阿维塔 07 探索版车型上市：增程 25.99 万元，纯电 26.99 万元](https://m.ithome.com/html/844833.htm)
+
++ [3999 元 → 2379 元：苹果 AirPods Max 头戴式耳机 20:00 限量购](https://m.ithome.com/html/844838.htm)
+
++ [小米 REDMI 显示器 A27U Type-C 节能版上市，国补价 1359.15 元](https://m.ithome.com/html/844786.htm)
+
++ [小米推出米家 3D 压力 IH 钛内胆电饭煲 P1 3L：0 氟涂层钛釜，799 元](https://m.ithome.com/html/844381.htm)
+

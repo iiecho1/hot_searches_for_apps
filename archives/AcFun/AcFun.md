@@ -69,3 +69,7 @@
 
 + [【东方】十六夜、刻を止めて【玲瓏のHydrangea Vocal MV】](https://m.acfun.cn/v/%3Fac%3D47125883)
 
++ [【手书】I love you so请别让我走【千璃Senri】](https://m.acfun.cn/v/%3Fac%3D47126243)
+
++ [【堪比大促！30元入手销量破4千万的3A ！？】STEAM高评史低游戏推荐（4月12日-4月18日）](https://m.acfun.cn/v/%3Fac%3D47125503)
+
