@@ -161,3 +161,7 @@
 
 + [美联储官员警告通胀风险“显著上升” 美国经济衰退可能性或高达60%](https://news.cctv.com/2025/04/11/ARTICxbF4ND0iahx4wdtAuuR250411.shtml)
 
++ [世卫组织呼吁保护加沙医疗资源并尽快实现停火](https://news.cctv.com/2025/04/14/ARTIacU1nBZXn0Mhz2eFuqUi250414.shtml)
+
++ [胡塞武装再次击落美军无人机](https://news.cctv.com/2025/04/14/ARTI7yl0CcPR59cyxfLzuNKM250414.shtml)
+
