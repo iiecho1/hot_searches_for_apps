@@ -105,3 +105,33 @@
 
 + [基于JavaAPIforKml实现Kml 2.2版本的全量解析实践-以两步路网站为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/147154584)
 
++ [用纯Qt实现GB28181协议/实时视频/云台控制/预置位/录像回放和下载/事件订阅/语音对讲](https://blog.csdn.net/feiyangqingyun/article/details/147169825)
+
++ [图像形态学操作对比（Opencv）](https://blog.csdn.net/suoxd123/article/details/147167399)
+
++ [亲手打造可视化故事线管理工具：开发全流程、难点突破与开发过程经验总结](https://blog.csdn.net/deepever/article/details/147197360)
+
++ [Spring AI 结构化输出详解](https://blog.csdn.net/qq_29434541/article/details/147176876)
+
++ [【2025年泰迪杯数据挖掘挑战赛】B题 详细解题思路+数据预处理+代码分享](https://blog.csdn.net/Magnolia_He/article/details/147166457)
+
++ [中职网络安全 MSF 漏洞 自动利用脚本 Python C模块](https://blog.csdn.net/2301_81335574/article/details/147169634)
+
++ [35.Java线程池（线程池概述、线程池的架构、线程池的种类与创建、线程池的底层原理、线程池的工作流程、线程池的拒绝策略、自定义线程池）](https://blog.csdn.net/weixin_52173250/article/details/147169727)
+
++ [C++ 数据结构优化实战：突破性能瓶颈，提升应用效率](https://blog.csdn.net/martian665/article/details/146948327)
+
++ [CSS视口单位的实际应用场景：前端响应式设计](https://blog.csdn.net/2502_91534727/article/details/147159952)
+
++ [自动化备份全网服务器数据平台](https://blog.csdn.net/m0_74818048/article/details/147161075)
+
++ [【数学建模】（智能优化算法）天牛须算法(Beetle Antennae Search, BAS)详解与Python实现](https://blog.csdn.net/Zlyzjiabjw547479/article/details/147132490)
+
++ [《Vue3学习手记》](https://blog.csdn.net/2302_77332005/article/details/147145153)
+
++ [在WPS中通过JavaScript宏（JSA）调用DeepSeek官网API优化文档教程](https://blog.csdn.net/lzm12278828/article/details/147156451)
+
++ [智能车摄像头开源—9 动态权、模糊PID、速度决策、路径优化](https://blog.csdn.net/lh66969696/article/details/145682567)
+
++ [学习海康VisionMaster之平行线查找](https://blog.csdn.net/yuhouxiyang/article/details/147182453)
+
