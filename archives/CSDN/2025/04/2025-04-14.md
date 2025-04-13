@@ -141,3 +141,11 @@
 
 + [DeepSeek的神经元革命：穿透搜索引擎算法的下一代内容基建](https://blog.csdn.net/weixin_45788582/article/details/147143585)
 
++ [R 语言科研绘图第 38 期 --- 饼状图-玫瑰](https://blog.csdn.net/weixin_45851732/article/details/146925248)
+
++ [大模型论文：Language Models are Few-Shot Learners(GPT3)](https://blog.csdn.net/apple_50860766/article/details/147180729)
+
++ [【2】k8s集群管理系列--包应用管理器之helm（Chart语法深入应用）](https://blog.csdn.net/weixin_43063624/article/details/147181231)
+
++ [蓝桥杯十二到十五届B，C++组签到题](https://blog.csdn.net/prime6899/article/details/147155662)
+
