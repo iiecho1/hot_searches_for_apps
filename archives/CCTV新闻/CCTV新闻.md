@@ -169,3 +169,7 @@
 
 + [专访丨东盟致力于深化对华合作 倡导多边主义应对共同挑战——访东盟秘书长高金洪](https://news.cctv.com/2025/04/13/ARTIKud72p96qxagt6cS5KbG250413.shtml)
 
++ [缅甸发生5.4级地震，震源深度20千米](https://news.cctv.com/2025/04/13/ARTISBKRlrzDoAUcdIIbuLFH250413.shtml)
+
++ [首尔市长放弃竞选韩国总统](https://news.cctv.com/2025/04/13/ARTIaGk0jlPAwtYm5MOJhDWL250413.shtml)
+

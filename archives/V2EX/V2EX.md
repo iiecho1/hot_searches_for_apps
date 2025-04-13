@@ -25,3 +25,11 @@
 
 + [Chatwise 8 折 限时优惠](https://www.v2ex.com/t/1124984)
 
++ [结婚的各种事项应该父母之间沟通，还是我们之前传达一下就可以了](https://www.v2ex.com/t/1125040)
+
++ [vibe coding 了一个博客网站](https://www.v2ex.com/t/1124945)
+
++ [2025 年 4 月， ios 屏蔽推特/X 广告的优雅方式是什么](https://www.v2ex.com/t/1124936)
+
++ [618 期间电脑配置推荐](https://www.v2ex.com/t/1125012)
+

@@ -153,3 +153,17 @@
 
 + [【HarmonyOS Next之旅】DevEco Studio使用指南(十三) -＞ ArkTS/TS代码重构](https://blog.csdn.net/weixin_74809706/article/details/147169222)
 
++ [Python 深度学习实战 第1章 什么是深度学习&代码示例](https://blog.csdn.net/qq_26226783/article/details/147114352)
+
++ [MySQL 分区与分库分表策略](https://blog.csdn.net/siyang0928/article/details/147185242)
+
++ [Service Mesh 深度解析与 Istio+Envoy 实现方案](https://blog.csdn.net/Rainsirius/article/details/147125048)
+
++ [电商素材革命：影刀RPA魔法指令3.0驱动批量去水印，实现秒级素材净化](https://blog.csdn.net/2301_80863610/article/details/147129689)
+
++ [【全队项目】智能学术海报生成系统PosterGenius--多智能体辩论](https://blog.csdn.net/m0_67656158/article/details/147160029)
+
++ [armLinux字符设备驱动开发](https://blog.csdn.net/chuanyu111223345/article/details/147124196)
+
++ [SDC命令详解：使用相对路径访问设计对象(current_instance命令)](https://blog.csdn.net/weixin_45791458/article/details/147156354)
+
