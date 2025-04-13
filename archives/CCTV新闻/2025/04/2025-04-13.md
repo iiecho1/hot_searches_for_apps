@@ -177,3 +177,7 @@
 
 + [塔吉克斯坦发生6.1级地震](https://news.cctv.com/2025/04/13/ARTIDWVwDbxHzFh3vtQoLIly250413.shtml)
 
++ [韩媒：尹锡悦首次刑事审判定于14日举行，若罪成可能面临终身监禁或死刑](https://news.cctv.com/2025/04/13/ARTITNcf4Hp3ReN8g2gzWohD250413.shtml)
+
++ [意识到给美民众带去的痛苦？美方豁免部分商品“对等关税”](https://news.cctv.com/2025/04/13/ARTID9SgZqs6ugHkILaNYxyp250413.shtml)
+

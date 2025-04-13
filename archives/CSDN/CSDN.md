@@ -175,3 +175,9 @@
 
 + [【区块链安全 | 第三十九篇】合约审计之delegatecall（一）](https://blog.csdn.net/2301_77485708/article/details/147167057)
 
++ [探索在视频深度伪造中的细微的表情变化或对特定面部特征的小改动检测方法](https://blog.csdn.net/matt45m/article/details/147145640)
+
++ [基于深度学习的五种杂草检测系统（YOLOv8+YOLO数据集+UI界面+Python项目源码+模型）](https://blog.csdn.net/m0_68036862/article/details/147161638)
+
++ [CSS篇：CSS选择器详解与权重计算全指南](https://blog.csdn.net/qq_48652579/article/details/147111864)
+
