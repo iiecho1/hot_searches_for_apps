@@ -193,3 +193,9 @@
 
 + [李宏毅NLP-2-语音识别part1](https://blog.csdn.net/uncle_ll/article/details/147161682)
 
++ [基于python的机器学习（五）—— 聚类（二）](https://blog.csdn.net/qq_74375828/article/details/143906005)
+
++ [智能测试用例生成：老旧平台页面查询功能的大模型改造](https://blog.csdn.net/weixin_44872675/article/details/147175716)
+
++ [HTML5的笔记](https://blog.csdn.net/liangmeirong123/article/details/147140186)
+

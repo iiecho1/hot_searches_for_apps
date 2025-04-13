@@ -185,3 +185,9 @@
 
 + [新研究：两类食品添加剂组合或增加患2型糖尿病风险](https://news.cctv.com/2025/04/13/ARTIzimHwDsobaJyBVtIHGyc250413.shtml)
 
++ [大阪世博会中国馆开馆](https://news.cctv.com/2025/04/13/ARTIgwf9OlYFBBaGKPquJaLa250413.shtml)
+
++ [俄国防部证实击落一架乌F-16战机](https://news.cctv.com/2025/04/13/ARTIISBnLJopKZQ08KJEk64A250413.shtml)
+
++ [特朗普“关税大棒”或殃及美国枫糖浆生产商](https://news.cctv.com/2025/04/13/ARTIWAA8FtRC4ZNwveEbAF3X250413.shtml)
+
