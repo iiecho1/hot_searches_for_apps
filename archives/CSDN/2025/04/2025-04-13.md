@@ -189,3 +189,7 @@
 
 + [16届蓝桥杯Python赛道B组战果汇报](https://blog.csdn.net/2403_88854014/article/details/147164151)
 
++ [QQ风格客服聊天窗口](https://blog.csdn.net/2301_79996063/article/details/147156838)
+
++ [李宏毅NLP-2-语音识别part1](https://blog.csdn.net/uncle_ll/article/details/147161682)
+
