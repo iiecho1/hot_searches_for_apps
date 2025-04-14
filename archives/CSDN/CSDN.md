@@ -253,3 +253,9 @@
 
 + [从零开始理解服务器：架构、原理与实战指南](https://blog.csdn.net/guojiyun1688/article/details/147199589)
 
++ [程序员副业暴利指南：用影刀3.0+Textln在某鱼10倍暴利的终极玩法](https://blog.csdn.net/lwcwam/article/details/147226239)
+
++ [【Linux】驭令如马：Linux指令世界的奇幻骑行指南](https://blog.csdn.net/Miracle_86/article/details/147195173)
+
++ [关于全球化大规模混合云 Kubernetes Prometheus 监控体系标准化及 GitOps 自动化改进方案](https://blog.csdn.net/east4ming/article/details/147196258)
+

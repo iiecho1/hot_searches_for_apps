@@ -217,3 +217,9 @@
 
 + [跟着习主席去柬埔寨｜吴哥古迹的中国守护者](https://news.cctv.com/2025/04/14/ARTIMWFEkM5tRCHfNTWDMPQQ250414.shtml)
 
++ [【世界说】美智库专家驳斥美方拥有所谓关税“升级优势”：实为虚幻，贸易战无赢家](https://news.cctv.com/2025/04/14/ARTIhREU9vFgxMKm5CsScP0S250414.shtml)
+
++ [跟着习主席看世界 | 走进越南：与中国山水相连 同志加兄弟](https://news.cctv.com/2025/04/14/ARTIAwp5lr8gIp5DoYtNDoXP250414.shtml)
+
++ [尹锡悦涉嫌发动内乱案首次庭审 尹锡悦全盘否认](https://news.cctv.com/2025/04/14/ARTIpkmKIDay7wOmukmoHZQE250414.shtml)
+
