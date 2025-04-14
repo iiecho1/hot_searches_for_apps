@@ -149,3 +149,15 @@
 
 + [蓝桥杯十二到十五届B，C++组签到题](https://blog.csdn.net/prime6899/article/details/147155662)
 
++ [基于YOLO11的雾天行人车辆目标检测系统（Python源码+数据集+Pyside6界面）](https://blog.csdn.net/m0_63774211/article/details/147197317)
+
++ [分布式日志治理：Log4j2自定义Appender写日志到RocketMQ](https://blog.csdn.net/lilinhai548/article/details/147195110)
+
++ [LabVIEW往复式压缩机管路故障诊断系统](https://blog.csdn.net/bjcyck/article/details/147158691)
+
++ [【NIO番外篇】之组件 Channel](https://blog.csdn.net/qq_56158663/article/details/147188505)
+
++ [揭秘：元生代平台工作流创建与服务器虚拟化的深度关联及跨平台优势](https://blog.csdn.net/weixin_73295475/article/details/147189770)
+
++ [RCE漏洞学习](https://blog.csdn.net/m0_68956519/article/details/147156400)
+

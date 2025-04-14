@@ -165,3 +165,11 @@
 
 + [胡塞武装再次击落美军无人机](https://news.cctv.com/2025/04/14/ARTI7yl0CcPR59cyxfLzuNKM250414.shtml)
 
++ [2025年大阪世博会中国馆正式开馆](https://news.cctv.com/2025/04/14/ARTIg1cKSY0ob50TKvlx8tRo250414.shtml)
+
++ [被弹劾后再上审判台 尹锡悦内乱案首场公审前瞻](https://news.cctv.com/2025/04/14/ARTITNVFBYajKNAhGMVHCzbB250414.shtml)
+
++ [威胁取消哈佛大学90亿美元经费 美国政府被起诉](https://news.cctv.com/2025/04/14/ARTINWw69gmZI60K970Zydh6250414.shtml)
+
++ [拉近对华经贸关系 冯德莱恩：欧盟将进一步转向亚洲](https://news.cctv.com/2025/04/14/ARTIIqLkwOMsyUwmiVTQt2QX250414.shtml)
+
