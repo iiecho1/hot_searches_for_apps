@@ -191,3 +191,19 @@
 
 + [SQL 全文检索原理](https://blog.csdn.net/lizhengyu891231/article/details/147163733)
 
++ [突破亚马逊壁垒，Web Unlocker API 助您轻松获取数据](https://blog.csdn.net/guorui_java/article/details/147079247)
+
++ [TensorFlow深度学习实战——基于语言模型的动态词嵌入技术](https://blog.csdn.net/LOVEmy134611/article/details/147200956)
+
++ [基于【Lang Chain】构建智能问答系统的实战指南](https://blog.csdn.net/weixin_53269650/article/details/147143950)
+
++ [Webpack与Vite构建工具对比分析](https://blog.csdn.net/qq_34295179/article/details/147140596)
+
++ [Android.bp中添加条件判断编译方式](https://blog.csdn.net/learnframework/article/details/147136511)
+
++ [Ollama调用多GPU实现负载均衡](https://blog.csdn.net/qq_36693723/article/details/147143824)
+
++ [16届蓝桥杯Python赛道B组战果汇报](https://blog.csdn.net/2403_88854014/article/details/147164151)
+
++ [论坛系统测试报告](https://blog.csdn.net/hurui0120/article/details/147193656)
+
