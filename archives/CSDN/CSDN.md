@@ -101,3 +101,27 @@
 
 + [自动化测试概念篇](https://blog.csdn.net/weixin_73077334/article/details/146468534)
 
++ [Java 大视界 -- Java 大数据在智能物流仓储机器人路径规划与任务调度中的技术实现（188）](https://blog.csdn.net/atgfg/article/details/147092062)
+
++ [3D版的VLA——从3D VLA、SpatialVLA到PointVLA(不动VLM，仅动作专家中加入3D数据)](https://blog.csdn.net/v_JULY_v/article/details/147235139)
+
++ [macOS上利用FFmpeg将m3u8转化为mp4实现播放](https://blog.csdn.net/m0_74390545/article/details/147234529)
+
++ [如何使用electron将Vue项目打包为本地exe文件](https://blog.csdn.net/qq_42257666/article/details/147191353)
+
++ [SQL 语句说明](https://blog.csdn.net/weixin_42375949/article/details/147169471)
+
++ [YOLOv8 改进：添加 MHSA 注意力机制并与 C2f 结构融合](https://blog.csdn.net/feng1790291543/article/details/146982541)
+
++ [FPGA时序分析与约束（11）——时钟组](https://blog.csdn.net/apple_53311083/article/details/147196843)
+
++ [kubeadm搭建k8s集群 v1.28.0](https://blog.csdn.net/m0_73091477/article/details/147235703)
+
++ [去中心化金融（DeFi）项目全揭秘：创新浪潮中的领航者与颠覆者](https://blog.csdn.net/2501_91377248/article/details/147224938)
+
++ [Java 架构设计：从单体架构到微服务的转型之路](https://blog.csdn.net/shrgegrb/article/details/147170342)
+
++ [HTTP实现心跳模块](https://blog.csdn.net/xiaofeilongyu/article/details/147198979)
+
++ [企业年报问答RAG挑战赛冠军方案：从零到SOTA，一战封神](https://blog.csdn.net/qq_36603091/article/details/147163318)
+
