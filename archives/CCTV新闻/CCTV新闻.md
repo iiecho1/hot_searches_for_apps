@@ -199,3 +199,17 @@
 
 + [特朗普对华贸易战注定失败，原因如下](https://news.cctv.com/2025/04/14/ARTI0NEAbuucFAAi1Q0wKNuU250414.shtml)
 
++ [中方持续为缅甸地震灾后工作提供支持](https://news.cctv.com/2025/04/14/ARTIIr9AiHFzbdYMH9yoOlOX250414.shtml)
+
++ [泽连斯基：将全力通过外交途径解决俄乌冲突](https://news.cctv.com/2025/04/14/ARTIsVYoSQ7NJdx4wf0C81Xf250414.shtml)
+
++ [近距离Vlog丨走！从友谊关去越南](https://news.cctv.com/2025/04/14/ARTIUh59VjnhGgB1LRklzTgs250414.shtml)
+
++ [Vlog｜在越南，感受山水相连的情谊](https://news.cctv.com/2025/04/14/ARTIokqosGMxW2a0cr7ox89N250414.shtml)
+
++ [马来西亚“中国山”：令人动容！华人墓碑上用汉字刻着故乡](https://news.cctv.com/2025/04/14/ARTIEqmEMgjgHEIuKUocXvVx250414.shtml)
+
++ [深观察丨“他制造的不确定性本身就是一种关税”](https://news.cctv.com/2025/04/14/ARTIqwAgefsafr70n27c3rbE250414.shtml)
+
++ [美国小企业哭诉：美国政府关税政策对其业务构成严重威胁](https://news.cctv.com/2025/04/14/ARTIXkLeJpk0W0G6kAlDDwtD250414.shtml)
+

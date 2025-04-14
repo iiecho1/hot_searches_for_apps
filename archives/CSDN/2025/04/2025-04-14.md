@@ -233,3 +233,9 @@
 
 + [【ComfyUI】蓝耘元生代 | ComfyUI深度解析：高性能AI绘画工作流实践](https://blog.csdn.net/Morse_Chen/article/details/147202353)
 
++ [【Spring】IoC详解：方法Bean的存储、Bean重命名、扫描路径@Component（下）](https://blog.csdn.net/2302_79527141/article/details/147122108)
+
++ [Linux网络http与https](https://blog.csdn.net/qq_63580639/article/details/147073362)
+
++ [Prompt-Tuning方法](https://blog.csdn.net/qq_45694932/article/details/147161544)
+
