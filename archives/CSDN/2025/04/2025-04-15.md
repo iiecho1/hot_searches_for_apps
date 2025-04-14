@@ -135,3 +135,5 @@
 
 + [智能测试用例生成：老旧平台页面查询功能的大模型改造](https://blog.csdn.net/weixin_44872675/article/details/147175716)
 
++ [微信小程序实战案例 - 餐馆点餐系统 阶段 3 - 下单 & 云数据库](https://blog.csdn.net/qq_41611586/article/details/147155601)
+

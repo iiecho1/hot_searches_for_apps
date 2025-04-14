@@ -171,3 +171,7 @@
 
 + [特朗普称伊朗拖延谈判进程](https://news.cctv.com/2025/04/15/ARTIpcpa0w1O4ZIdXQoFKqOa250415.shtml)
 
++ [大国外交最前线丨在热烈的欢迎仪式上 见证越走越亲的“同志加兄弟”](https://news.cctv.com/2025/04/15/ARTIuWCZykszM0oiNndhlU0b250415.shtml)
+
++ [8次发言6次提“荒唐” 尹锡悦内乱案首场公审细节公布](https://news.cctv.com/2025/04/15/ARTIe4iJdMdhoYKrIMO9uMwc250415.shtml)
+
