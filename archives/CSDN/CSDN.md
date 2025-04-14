@@ -251,3 +251,5 @@
 
 + [FPGA时序分析与约束（11）——时钟组](https://blog.csdn.net/apple_53311083/article/details/147196843)
 
++ [从零开始理解服务器：架构、原理与实战指南](https://blog.csdn.net/guojiyun1688/article/details/147199589)
+
