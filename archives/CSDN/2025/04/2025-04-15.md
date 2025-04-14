@@ -127,3 +127,7 @@
 
 + [【Linux网络编程】TCP Echo Server的实现](https://blog.csdn.net/2401_82677021/article/details/147218691)
 
++ [蓝耘元生代AIDC OS：一站式MaaS平台，助力AI应用快速落地](https://blog.csdn.net/null18/article/details/147202789)
+
++ [【新能源汽车压力采集与数据处理技术方案：从传感器到智能分析的硬核实战指南】](https://blog.csdn.net/weixin_62244995/article/details/146959591)
+
