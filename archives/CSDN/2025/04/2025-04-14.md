@@ -229,3 +229,7 @@
 
 + [FPGA 37 ，FPGA千兆以太网设计实战：RGMII接口时序实现全解析（ RGMII接口时序设计，RGMII~GMII，GMII~RGMII 接口转换 ）](https://blog.csdn.net/weixin_65793170/article/details/146203841)
 
++ [LabVIEW 发电机励磁系统监测与诊断](https://blog.csdn.net/bjcyck/article/details/147201559)
+
++ [【ComfyUI】蓝耘元生代 | ComfyUI深度解析：高性能AI绘画工作流实践](https://blog.csdn.net/Morse_Chen/article/details/147202353)
+

@@ -197,3 +197,5 @@
 
 + [“反华神棍”，翻车又断粮](https://news.cctv.com/2025/04/14/ARTIi87eYh1YIcLGEibbwDa9250414.shtml)
 
++ [特朗普对华贸易战注定失败，原因如下](https://news.cctv.com/2025/04/14/ARTI0NEAbuucFAAi1Q0wKNuU250414.shtml)
+
