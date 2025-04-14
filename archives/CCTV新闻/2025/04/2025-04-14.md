@@ -187,3 +187,11 @@
 
 + [斐济群岛以南海域发生6.4级地震 震源深度270千米](https://news.cctv.com/2025/04/14/ARTIyyClHzIGAKk5oDl1E7sq250414.shtml)
 
++ [独家视频丨河内：中越两党两国旗帜飘扬 当地热切期待习近平到访](https://news.cctv.com/2025/04/14/ARTIP0YalqqkWLoVyWMvaodJ250414.shtml)
+
++ [三个维度看中越｜从边境绿茵场上看民心相通的温度](https://news.cctv.com/2025/04/14/ARTISpxhvLbdhwfutRIOcuXB250414.shtml)
+
++ [中马“两国双园”合作谱新篇](https://news.cctv.com/2025/04/14/ARTIJ43yoSP0ZO40Zs7w2mJJ250414.shtml)
+
++ [美国民众反对加征关税](https://news.cctv.com/2025/04/14/ARTIlT7cjVs7TdML65knEk8m250414.shtml)
+

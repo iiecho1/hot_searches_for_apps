@@ -175,3 +175,19 @@
 
 + [Linux--进程信号](https://blog.csdn.net/m0_74085682/article/details/147171095)
 
++ [思维与算法共舞：AIGC语言模型的艺术与科学](https://blog.csdn.net/lrq13965748542/article/details/147200722)
+
++ [【C++ Qt】认识Qt、Qt 项目搭建流程（图文并茂、通俗易懂）](https://blog.csdn.net/ZYK069/article/details/146232213)
+
++ [SpringBoot条件注解全解析：核心作用与使用场景详解](https://blog.csdn.net/qq_35512802/article/details/146947585)
+
++ [Qwen2.5-Omni 大模型部署实践（九）：音视频交互中多元知识探讨实践](https://blog.csdn.net/xiaobing259/article/details/147103195)
+
++ [在pycharm中搭建yolo11分类检测系统1--PyQt5学习（一）](https://blog.csdn.net/weixin_53036073/article/details/147038706)
+
++ [自动化测试概念篇](https://blog.csdn.net/weixin_73077334/article/details/146468534)
+
++ [【VulnHub靶场】超全详解DC-9提权渗透之端口敲门knockd](https://blog.csdn.net/2301_77091612/article/details/147166899)
+
++ [SQL 全文检索原理](https://blog.csdn.net/lizhengyu891231/article/details/147163733)
+
