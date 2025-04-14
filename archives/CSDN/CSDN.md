@@ -215,3 +215,17 @@
 
 + [Linux：进程理解1（查看进程，创造进程，进程状态）](https://blog.csdn.net/2301_82256131/article/details/147156628)
 
++ [蓝耘元生代智算云平台技术全解析：从架构设计到产业赋能的算力密码](https://blog.csdn.net/2302_78391795/article/details/147189615)
+
++ [Open-TeleVision源码解析——宇树摇操方案的重要参考：VR控制人形机器人采集数据](https://blog.csdn.net/v_JULY_v/article/details/147183534)
+
++ [openGauss新特性 | 自动参数化执行计划缓存](https://blog.csdn.net/GaussDB/article/details/147202282)
+
++ [【高性能缓存Redis_中间件】一、快速上手redis缓存中间件](https://blog.csdn.net/qq_58611691/article/details/147163382)
+
++ [【Linux篇章】踏入 Linux 进程控制的奇幻迷宫，解锁系统调度奥秘(秒懂版)](https://blog.csdn.net/2401_82648291/article/details/144515910)
+
++ [Vue + Node.js 实现埋点功能方案](https://blog.csdn.net/qq_48652579/article/details/147135422)
+
++ [FPGA 37 ，FPGA千兆以太网设计实战：RGMII接口时序实现全解析（ RGMII接口时序设计，RGMII~GMII，GMII~RGMII 接口转换 ）](https://blog.csdn.net/weixin_65793170/article/details/146203841)
+
