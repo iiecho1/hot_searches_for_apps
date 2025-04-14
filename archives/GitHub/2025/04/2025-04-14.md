@@ -31,3 +31,11 @@
 
 + [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
++ [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)
+
++ [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)
+
++ [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
