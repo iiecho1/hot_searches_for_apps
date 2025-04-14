@@ -225,3 +225,5 @@
 
 + [越共中央总书记苏林为习近平举行欢迎仪式](https://news.cctv.com/2025/04/14/ARTIC9gPwQ2dAXaNnzvpzWPv250414.shtml)
 
++ [大国外交最前线丨欢迎仪式现场遇上越南少先队员：中国 越南 hữu nghị （友谊）](https://news.cctv.com/2025/04/14/ARTI7alECHC78pt58bKmh8ho250414.shtml)
+
