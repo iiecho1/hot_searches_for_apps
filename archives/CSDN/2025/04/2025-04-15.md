@@ -131,3 +131,7 @@
 
 + [【新能源汽车压力采集与数据处理技术方案：从传感器到智能分析的硬核实战指南】](https://blog.csdn.net/weixin_62244995/article/details/146959591)
 
++ [k8s的配置文件总结](https://blog.csdn.net/LCY133/article/details/147199424)
+
++ [智能测试用例生成：老旧平台页面查询功能的大模型改造](https://blog.csdn.net/weixin_44872675/article/details/147175716)
+

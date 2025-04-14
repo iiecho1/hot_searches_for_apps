@@ -161,3 +161,13 @@
 
 + [共话中国经济新机遇丨专访：中国汽车品牌参与欧洲车展将助力欧中汽车业合作——访意大利都灵车展新闻官圣蒂塞](https://news.cctv.com/2025/04/12/ARTIKxPUHdPckm7e6JMDUfAj250412.shtml)
 
++ [多米尼加俱乐部屋顶坍塌事故死亡人数上升至231人](https://news.cctv.com/2025/04/15/ARTIUi21Rvhdm1jToDNnNnqw250415.shtml)
+
++ [联合国：苏丹西部城市遇袭事件造成至少300人死亡](https://news.cctv.com/2025/04/15/ARTI3ms9eUZK8SIUymDHfxMh250415.shtml)
+
++ [以官员：各方就达成加沙停火协议仍存在分歧](https://news.cctv.com/2025/04/15/ARTIyAkHBya7OdWS9paduNIH250415.shtml)
+
++ [滥施关税加剧美国经济不确定性](https://news.cctv.com/2025/04/15/ARTImSYlnc9U6RwnvMgkBCcj250415.shtml)
+
++ [特朗普称伊朗拖延谈判进程](https://news.cctv.com/2025/04/15/ARTIpcpa0w1O4ZIdXQoFKqOa250415.shtml)
+
