@@ -173,3 +173,17 @@
 
 + [拉近对华经贸关系 冯德莱恩：欧盟将进一步转向亚洲](https://news.cctv.com/2025/04/14/ARTIIqLkwOMsyUwmiVTQt2QX250414.shtml)
 
++ [尹锡悦出席涉内乱罪刑事审判首场公审 2名关键证人将出庭](https://news.cctv.com/2025/04/14/ARTInBTwk3aIigOSrzmgezJu250414.shtml)
+
++ [美债崩溃说明了一切！华尔街：特朗普正在支付“白痴溢价”](https://news.cctv.com/2025/04/14/ARTIEGdL1WD77d9PkKaDwz3h250414.shtml)
+
++ [时政Vlog丨越南大学生这样学中文](https://news.cctv.com/2025/04/14/ARTICpfMaEY0rqEMMcXfzQ6P250414.shtml)
+
++ [时政Vlog丨五星红旗飘扬 越南欢迎好兄弟到访](https://news.cctv.com/2025/04/14/ARTIuJL5gL38LXDaEgjTkdAU250414.shtml)
+
++ [中国驻日本大使馆提醒中国公民注意防范地震灾害](https://news.cctv.com/2025/04/14/ARTIeOTSFnwMjRS0DWsBsInK250414.shtml)
+
++ [中国驻南非使馆再次提醒旅南侨胞严防绑架犯罪](https://news.cctv.com/2025/04/14/ARTIK0v6V3s87RzZ0c73fwj5250414.shtml)
+
++ [斐济群岛以南海域发生6.4级地震 震源深度270千米](https://news.cctv.com/2025/04/14/ARTIyyClHzIGAKk5oDl1E7sq250414.shtml)
+

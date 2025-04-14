@@ -71,3 +71,7 @@
 
 + [抽象和老抽(新宝岛)](https://m.acfun.cn/v/%3Fac%3D47133714)
 
++ [《动物迷惑行为大赏253》](https://m.acfun.cn/v/%3Fac%3D47133106)
+
++ [【叫ぶ獣】プレイバック part2 不插电版【翻唱】](https://m.acfun.cn/v/%3Fac%3D47135142)
+
