@@ -49,3 +49,5 @@
 
 + [要不要同意执行和解](https://www.v2ex.com/t/1125400)
 
++ [如何以最低成本添加美区 apple id 的付款方式](https://www.v2ex.com/t/1125488)
+

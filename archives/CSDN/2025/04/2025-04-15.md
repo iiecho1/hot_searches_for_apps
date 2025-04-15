@@ -187,3 +187,13 @@
 
 + [鸿蒙动画与交互设计：ArkUI 3D变换与手势事件详解](https://blog.csdn.net/finally_vince/article/details/147232947)
 
++ [【C#】Html转Pdf，Spire和iTextSharp结合，.net framework 4.8](https://blog.csdn.net/lmy_520/article/details/147242967)
+
++ [Nginx底层架构（非常清晰）](https://blog.csdn.net/2301_78506180/article/details/147191051)
+
++ [【Linux】Linux下的gcc/g++编译器与动静态库](https://blog.csdn.net/apple_61439616/article/details/147233319)
+
++ [计算机网络（第四章）](https://blog.csdn.net/NovakG_/article/details/146475827)
+
++ [添加登录和注册功能](https://blog.csdn.net/qq_73968447/article/details/147233999)
+

@@ -215,3 +215,5 @@
 
 + [受美国关税政策影响 欧佩克下调全球石油需求预期](https://news.cctv.com/2025/04/15/ARTIxekfzXOimI5w5HFzfVn7250415.shtml)
 
++ [学习新语｜影像速览！习主席今年首访第一天](https://news.cctv.com/2025/04/15/ARTIEnZxGswdr0NulqMSbHbg250415.shtml)
+
