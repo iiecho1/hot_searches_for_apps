@@ -67,3 +67,9 @@
 
 + [强制“机械飞升”！？一款怪异又抽象的游戏！恶魔轮盘作者新作《Fused 240》](https://m.acfun.cn/v/%3Fac%3D47141498)
 
++ [Cry Cry~完整版](https://m.acfun.cn/v/%3Fac%3D47142907)
+
++ [First Love~完整版](https://m.acfun.cn/v/%3Fac%3D47142939)
+
++ [我以为你心里只有我『』](https://m.acfun.cn/v/%3Fac%3D47141839)
+
