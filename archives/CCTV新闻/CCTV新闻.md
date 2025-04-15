@@ -195,3 +195,5 @@
 
 + [桥水创始人担忧美国经济陷入“比衰退更糟”境地](https://news.cctv.com/2025/04/15/ARTIMyOeYUGqJ7wOqYJZU6nD250415.shtml)
 
++ [关税政策引发全球动荡 多国人士表示美国的做法只会让中国更加强大](https://news.cctv.com/2025/04/15/ARTI79bdVnqvcEPZkLOwOYl0250415.shtml)
+

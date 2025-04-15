@@ -163,3 +163,13 @@
 
 + [智能车摄像头开源—9 动态权、模糊PID、速度决策、路径优化](https://blog.csdn.net/lh66969696/article/details/145682567)
 
++ [3D版的VLA：从3D VLA、SpatialVLA到PointVLA——3D点云版的DexVLA，在动作专家中加入3D数据](https://blog.csdn.net/v_JULY_v/article/details/147235139)
+
++ [【Linux网络】Socket 编程TCP](https://blog.csdn.net/qinjh_/article/details/146130221)
+
++ [基于springboot+vue的国内旅游景点的数据爬虫与可视化分析](https://blog.csdn.net/shmp54/article/details/147198991)
+
++ [MySQL Explain 分析 SQL 执行计划](https://blog.csdn.net/A_Kamen/article/details/147200131)
+
++ [INT4 / INT8 横评：GPTQ、AWQ、SmoothQuant 谁才是推理最优解](https://blog.csdn.net/sinat_28461591/article/details/147180680)
+
