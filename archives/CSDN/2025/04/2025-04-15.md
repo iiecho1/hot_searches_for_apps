@@ -177,3 +177,11 @@
 
 + [解锁动态规划的奥秘：从零到精通的创新思维解析（8）](https://blog.csdn.net/effort123_/article/details/147238300)
 
++ [【用ChatGPT学编程】——如何让AI帮你写代码注释和Debug？](https://blog.csdn.net/user340/article/details/147240819)
+
++ [Python从0到100（九十五）：空洞卷积（Dilated Convolution）网络架构与PAMAP2数据集实验分析](https://blog.csdn.net/weixin_51390582/article/details/147168314)
+
++ [猫咪如厕检测与分类识别系统系列【五】信息存储数据库改进+添加猫咪页面制作+猫咪躯体匹配算法架构更新](https://blog.csdn.net/qq_43207259/article/details/147189210)
+
++ [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、ShaderPass、BloomPass、FilmPass、DotScreenPass渲染通道）](https://blog.csdn.net/qq_28419035/article/details/147238462)
+
