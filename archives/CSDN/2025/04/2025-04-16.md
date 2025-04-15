@@ -117,3 +117,7 @@
 
 + [如何配置AWS EKS自动扩展组：实现高效弹性伸缩](https://blog.csdn.net/awscloud/article/details/147224224)
 
++ [机器学习：让数据开口说话的科技魔法](https://blog.csdn.net/2401_88885149/article/details/147235275)
+
++ [Redis-cplus-cplus库使用指南--万字详解带你10分钟快速上手redis开发](https://blog.csdn.net/2302_80207345/article/details/147261617)
+
