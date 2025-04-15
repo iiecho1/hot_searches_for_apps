@@ -179,3 +179,7 @@
 
 + [时政Vlog丨友好氛围拉满！布城街头中马国旗飘扬](https://news.cctv.com/2025/04/15/ARTI5ZPzuSfUCu91BO6lt4fl250415.shtml)
 
++ [中东面面观丨苏丹武装冲突爆发两周年 民生多艰 人道危机何时休？](https://news.cctv.com/2025/04/15/ARTIEgceIKD7imNqLHr6F6OK250415.shtml)
+
++ [“做法错误”“扰乱秩序”“加速衰落”……美国政府滥施关税招致多方批评](https://news.cctv.com/2025/04/15/ARTI98jDKpDEwjXHkaGxSQ8D250415.shtml)
+

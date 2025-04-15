@@ -137,3 +137,13 @@
 
 + [微信小程序实战案例 - 餐馆点餐系统 阶段 3 - 下单 & 云数据库](https://blog.csdn.net/qq_41611586/article/details/147155601)
 
++ [艾伦·图灵：计算机科学与人工智能之父](https://blog.csdn.net/qq_51646682/article/details/147170582)
+
++ [从零实现基于扩散模型的文本到视频生成系统：技术详解与Pytorch代码实现](https://blog.csdn.net/m0_46510245/article/details/147161443)
+
++ [基于 Python 与 GitHub，打造个人专属本地化思维导图工具全流程方案（下）](https://blog.csdn.net/deepever/article/details/147218271)
+
++ [Maven工具学习使用（十一）——部署项目到仓库](https://blog.csdn.net/chsunnyboy/article/details/147196455)
+
++ [GitHub 趋势日报 (2025年04月12日)](https://blog.csdn.net/ShrCheng/article/details/147190307)
+
