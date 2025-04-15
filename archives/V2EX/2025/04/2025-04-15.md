@@ -55,3 +55,5 @@
 
 + [每个月的消费比想象的多](https://www.v2ex.com/t/1125622)
 
++ [win10 ltsc 2021 / win11 ltsc / win11 iot ltsc / winserver 2025 到底用哪个？](https://www.v2ex.com/t/1125498)
+
