@@ -187,3 +187,11 @@
 
 + [美特使：与伊朗对话将涉及核查铀浓缩计划](https://news.cctv.com/2025/04/15/ARTISCezbPvxDVwoGixGL174250415.shtml)
 
++ [联合国：加沙人道局势已到“最严峻时刻”](https://news.cctv.com/2025/04/15/ARTI3PuUwxoEpNi2HkJpXHgr250415.shtml)
+
++ [越南导游见证中越跨境游日益红火](https://news.cctv.com/2025/04/15/ARTIvxLIupUrCRozEySwDApW250415.shtml)
+
++ [马来西亚和中国合作实现了双赢](https://news.cctv.com/2025/04/15/ARTI5O2awmtOvAwnR7W7szP3250415.shtml)
+
++ [桥水创始人担忧美国经济陷入“比衰退更糟”境地](https://news.cctv.com/2025/04/15/ARTIMyOeYUGqJ7wOqYJZU6nD250415.shtml)
+
