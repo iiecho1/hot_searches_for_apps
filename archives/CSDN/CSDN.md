@@ -115,3 +115,5 @@
 
 + [从零开始理解服务器：架构、原理与实战指南](https://blog.csdn.net/guojiyun1688/article/details/147199589)
 
++ [如何配置AWS EKS自动扩展组：实现高效弹性伸缩](https://blog.csdn.net/awscloud/article/details/147224224)
+
