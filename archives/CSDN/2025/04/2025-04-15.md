@@ -185,3 +185,5 @@
 
 + [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、ShaderPass、BloomPass、FilmPass、DotScreenPass渲染通道）](https://blog.csdn.net/qq_28419035/article/details/147238462)
 
++ [鸿蒙动画与交互设计：ArkUI 3D变换与手势事件详解](https://blog.csdn.net/finally_vince/article/details/147232947)
+

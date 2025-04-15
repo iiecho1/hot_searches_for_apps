@@ -199,3 +199,19 @@
 
 + [阿尔及利亚要求12名法国外交人员48小时内离境](https://news.cctv.com/2025/04/15/ARTIkDLVBtlwezs9TtxMVNA5250415.shtml)
 
++ [学习进行时｜习近平署名文章里的中越友好故事](https://news.cctv.com/2025/04/15/ARTItsXyYPfGFIy8kRnd5reZ250415.shtml)
+
++ [“小心美国间谍”！欧盟给赴美官员发一次性手机和基础款电脑](https://news.cctv.com/2025/04/15/ARTI9oPpAPUwVbYRyIDLMnu6250415.shtml)
+
++ [日本首相：不打算以妥协换取尽快达成关税协议](https://news.cctv.com/2025/04/15/ARTIGaGTL2vAUpkuYgqUiekd250415.shtml)
+
++ [切实感受到柬中合作带来的福祉](https://news.cctv.com/2025/04/15/ARTIPR5vIMOgbxusrDTbhEBh250415.shtml)
+
++ [美国关税政策“朝令夕改”引发金融市场动荡 威胁征收“半导体关税”遭批](https://news.cctv.com/2025/04/15/ARTIuHuQBbWv1alpe3OsD0M9250415.shtml)
+
++ [新加坡总统宣布解散国会 2025年大选正式启动](https://news.cctv.com/2025/04/15/ARTIIeVCVYzxuoKDB9WRIUae250415.shtml)
+
++ [日本认定谷歌公司违反《反垄断法》 勒令其整改](https://news.cctv.com/2025/04/15/ARTIQm2PTcMsAlnblKFV8LAC250415.shtml)
+
++ [受美国关税政策影响 欧佩克下调全球石油需求预期](https://news.cctv.com/2025/04/15/ARTIxekfzXOimI5w5HFzfVn7250415.shtml)
+
