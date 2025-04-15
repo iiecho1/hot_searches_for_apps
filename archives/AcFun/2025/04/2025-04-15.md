@@ -71,3 +71,5 @@
 
 + [【东方/爵士】Live 2023 专辑赏析【Accord On Codes】](https://m.acfun.cn/v/%3Fac%3D47125906)
 
++ [叫我女王陛下(有辣条吃喔)](https://m.acfun.cn/v/%3Fac%3D47138553)
+

@@ -19,3 +19,7 @@
 
 + [500 元能买到什么玩具？](https://www.v2ex.com/t/1125270)
 
++ [2025 年家用投影仪求推荐](https://www.v2ex.com/t/1125240)
+
++ [简直要崩溃了，就因为我试图在 Apple Silicon 芯片上运行一个 Windows 软件](https://www.v2ex.com/t/1125283)
+
