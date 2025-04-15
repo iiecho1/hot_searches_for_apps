@@ -173,3 +173,7 @@
 
 + [INT4 / INT8 横评：GPTQ、AWQ、SmoothQuant 谁才是推理最优解](https://blog.csdn.net/sinat_28461591/article/details/147180680)
 
++ [解锁元生代：ComfyUI工作流与云原生后端的深度融合](https://blog.csdn.net/weixin_73295475/article/details/147238422)
+
++ [解锁动态规划的奥秘：从零到精通的创新思维解析（8）](https://blog.csdn.net/effort123_/article/details/147238300)
+
