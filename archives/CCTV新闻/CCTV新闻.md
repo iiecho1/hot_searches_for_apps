@@ -223,3 +223,9 @@
 
 + [保护主义没有出路 合作共赢才是正道](https://news.cctv.com/2025/04/15/ARTIUqKgZR76WeOseKRk6y5I250415.shtml)
 
++ [马来西亚榴莲用上中国扫描技术](https://news.cctv.com/2025/04/15/ARTIKqX9bHGYWJuFcbR3rObL250415.shtml)
+
++ [法国政府针对全国多地监狱遇袭事件发起调查](https://news.cctv.com/2025/04/15/ARTIaoz3JaDXrwkLl4FGPFIr250415.shtml)
+
++ [全球瞭望丨比利时媒体：欧洲对美贸易施压勿存幻想](https://news.cctv.com/2025/04/15/ARTIR9ocs27yC9PtLytoGW9j250415.shtml)
+
