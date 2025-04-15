@@ -217,3 +217,9 @@
 
 + [学习新语｜影像速览！习主席今年首访第一天](https://news.cctv.com/2025/04/15/ARTIEnZxGswdr0NulqMSbHbg250415.shtml)
 
++ [共话中国经济新机遇丨专访：参加消博会有助于拓展斯中经贸关系——访斯洛伐克投资与贸易发展局局长西蒙契奇](https://news.cctv.com/2025/04/15/ARTIGPPwzjoI936yrqeumBL4250415.shtml)
+
++ [人民日报仲音文章：从三则故事看美滥施关税](https://news.cctv.com/2025/04/15/ARTIQ42NKdu1i6S2fgZV2e9W250415.shtml)
+
++ [保护主义没有出路 合作共赢才是正道](https://news.cctv.com/2025/04/15/ARTIUqKgZR76WeOseKRk6y5I250415.shtml)
+

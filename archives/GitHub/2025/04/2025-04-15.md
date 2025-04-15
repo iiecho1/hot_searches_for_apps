@@ -23,3 +23,27 @@
 
 + [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
+
++ [vanna-ai/vanna](https://github.com/vanna-ai/vanna)
+
++ [netdata/netdata](https://github.com/netdata/netdata)
+
++ [gofiber/fiber](https://github.com/gofiber/fiber)
+
++ [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
++ [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+
++ [Budibase/budibase](https://github.com/Budibase/budibase)
+
++ [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [gofr-dev/gofr](https://github.com/gofr-dev/gofr)
+
++ [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
+
++ [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
+
