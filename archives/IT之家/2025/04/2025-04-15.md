@@ -25,3 +25,27 @@
 
 + [国内首个汽车用铝板自主牌号“6B05”注册成功](https://m.ithome.com/html/844381.htm)
 
++ [一加 13T 真机亮相：小直屏堆性能、堆质感、堆大电池](https://m.ithome.com/html/845085.htm)
+
++ [问界汽车用户服务部发布关于辽宁沈阳工业展览馆 M7 Pro 事故的声明](https://m.ithome.com/html/845153.htm)
+
++ [哪吒汽车原 CEO 张勇回应远走英国传闻：为公司四处奔波融资](https://m.ithome.com/html/845102.htm)
+
++ [李斌：如果蔚来不盈利，我作为 CEO 是不称职的](https://m.ithome.com/html/845061.htm)
+
++ [小米智能摄像机 4 开启预约：800 万像素 + AI 识别，首发 249 元赠 64GB 存储卡](https://m.ithome.com/html/845065.htm)
+
++ [新海诚大夸特夸《哪吒之魔童闹海》：厉害、震撼、感动](https://m.ithome.com/html/845193.htm)
+
++ [小米 REDMI Turbo 4 Pro 手机官宣“本月见”](https://m.ithome.com/html/845084.htm)
+
++ [“破解女皇”复出盯上《GTA6》：若他人失败便会亲自出手](https://m.ithome.com/html/845141.htm)
+
++ [比亚迪汉 L 普通第三方充电桩双枪充电实测：从 0 充至满电仅需 19 分钟](https://m.ithome.com/html/845096.htm)
+
++ [苹果首款折叠屏配置爆料：内屏搭载屏下摄像头技术，外屏挖孔方案](https://m.ithome.com/html/845250.htm)
+
++ [阿维塔 06 车型 4 月 19 日上市：预售 21.59 万元起，搭华为乾崑智驾](https://m.ithome.com/html/845103.htm)
+
++ [网易 MuMu 模拟器上线 Windows ARM 测试版：适配 ARM64 平台、部分游戏最高支持 240 帧](https://m.ithome.com/html/844381.htm)
+

@@ -75,3 +75,5 @@
 
 + [姐姐妹妹一起跳起来](https://m.acfun.cn/v/%3Fac%3D47139060)
 
++ [【Blu-ray 1080P】初音未来魔法未来2024演唱会](https://m.acfun.cn/v/%3Fac%3D47136293)
+

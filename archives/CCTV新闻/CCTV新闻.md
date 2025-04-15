@@ -183,3 +183,7 @@
 
 + [“做法错误”“扰乱秩序”“加速衰落”……美国政府滥施关税招致多方批评](https://news.cctv.com/2025/04/15/ARTI98jDKpDEwjXHkaGxSQ8D250415.shtml)
 
++ [“越中情谊深、同志加兄弟”，中越携手启新程 | 图览天下](https://news.cctv.com/2025/04/15/ARTIronRp5t3D6wqEfvEo7Sn250415.shtml)
+
++ [美特使：与伊朗对话将涉及核查铀浓缩计划](https://news.cctv.com/2025/04/15/ARTISCezbPvxDVwoGixGL174250415.shtml)
+
