@@ -191,3 +191,9 @@
 
 + [【AI模型学习】MAE——CV界的无监督预训练](https://blog.csdn.net/wwl412095144/article/details/147247231)
 
++ [基于主成分分析（PCA）的新能源汽车行驶工况数据降维实战：从理论推导到工业级应用](https://blog.csdn.net/weixin_62244995/article/details/147231436)
+
++ [贪心算法学习C++](https://blog.csdn.net/2401_82677021/article/details/147280448)
+
++ [MyBatis 详解](https://blog.csdn.net/qq_62112907/article/details/147260836)
+

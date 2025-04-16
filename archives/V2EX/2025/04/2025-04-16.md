@@ -53,3 +53,5 @@
 
 + [绿联 NAS UGOS Pro 体验（避坑）](https://www.v2ex.com/t/1125733)
 
++ [各位 v 友有什么好的电脑输入法推荐吗？微软自带的那个用着不舒服， win10](https://www.v2ex.com/t/1125739)
+
