@@ -165,3 +165,7 @@
 
 + [美前财长耶伦：“市场对美国经济政策失去信心”](https://news.cctv.com/2025/04/16/ARTIivFmSViiiogSO6wsOpWs250416.shtml)
 
++ [数据透视关税推高美企回迁成本 恐难引供应链回流](https://news.cctv.com/2025/04/16/ARTI5fJhg0zgQqHvEcIa9FQB250416.shtml)
+
++ [加沙城遭袭医院损毁严重 短期恐难恢复](https://news.cctv.com/2025/04/16/ARTIbC06Hf7RPSn29J7RLppf250416.shtml)
+
