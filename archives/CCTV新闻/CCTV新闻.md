@@ -209,3 +209,7 @@
 
 + [从昆明到河内 在花香中感受中越经贸活力](https://news.cctv.com/2025/04/16/ARTIpPlClDrS3j6H9MvsLJ78250416.shtml)
 
++ [拜登卸任后首次公开批评新政府“破坏巨大” 白宫：这么晚还不睡吗](https://news.cctv.com/2025/04/16/ARTI7RJgzdV9tR4ge03iDNh8250416.shtml)
+
++ [以军称打死一名哈马斯高级指挥官](https://news.cctv.com/2025/04/16/ARTIEGDoAKiOMogs7IlOQJRi250416.shtml)
+

@@ -43,3 +43,7 @@
 
 + [小公司想上 nas，各位大佬有推荐吗](https://www.v2ex.com/t/1125655)
 
++ [准备自建 NAS，求建议](https://www.v2ex.com/t/1125813)
+
++ [offer 二选一了，可能是职业生涯最后一份了](https://www.v2ex.com/t/1125770)
+

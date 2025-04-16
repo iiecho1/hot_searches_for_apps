@@ -151,3 +151,9 @@
 
 + [Lucene.NET + Jieba分词：核心词典与停用词配置详解](https://blog.csdn.net/mss359681091/article/details/147272121)
 
++ [AI 对话高效输入指令攻略（一）：了解AI对话指令](https://blog.csdn.net/Pocker_Spades_A/article/details/147240041)
+
++ [AI大模型ms-swift框架实战指南（三）：模型部署初体验](https://blog.csdn.net/xiaobing259/article/details/147118626)
+
++ [Webflux声明式http客户端：Spring6原生HttpExchange实现，彻底摒弃feign](https://blog.csdn.net/lilinhai548/article/details/147230271)
+
