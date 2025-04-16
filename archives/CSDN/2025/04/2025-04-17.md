@@ -107,3 +107,21 @@
 
 + [C语言 —— 指尖跃迁 刻印永恒 - 文件操作](https://blog.csdn.net/hedhjd/article/details/147243925)
 
++ [【大模型】DeepSeek + Coze 打造个人专属AI智能体使用详解](https://blog.csdn.net/zhangcongyi420/article/details/147172869)
+
++ [SpringBoot 与 Vue3 实现前后端互联全解析](https://blog.csdn.net/2301_76849350/article/details/147257844)
+
++ [操作系统之系统IO](https://blog.csdn.net/maomi_9526/article/details/147248475)
+
++ [一站式Windows下Docker开启MySQL并链接本地Navicat（附乱码解决方案）](https://blog.csdn.net/2302_81141145/article/details/147228745)
+
++ [Spring Boot循环依赖全解析：原理、解决方案与最佳实践](https://blog.csdn.net/weixin_52318532/article/details/147260658)
+
++ [蓝耘元生代智算云平台技术全解析：从架构设计到产业赋能的算力密码](https://blog.csdn.net/2302_78391795/article/details/147189615)
+
++ [Redis适用场景](https://blog.csdn.net/qq_55342245/article/details/147260341)
+
++ [springboot基于微信小程序的个人健康运动辅助系统小程序介绍](https://blog.csdn.net/qq_1039692211/article/details/147243639)
+
++ [ZYNQ笔记（八）：UART 串口中断](https://blog.csdn.net/2303_76814451/article/details/147191310)
+
