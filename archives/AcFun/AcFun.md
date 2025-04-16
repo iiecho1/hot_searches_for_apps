@@ -67,3 +67,5 @@
 
 + [【看火力少年王学悠悠球】郭睿学会了姚杰的绝招？](https://m.acfun.cn/v/%3Fac%3D47144262)
 
++ [[4K Model Fancam] 모델 새하/Model Sae Ha/스튜디오 촬영회/세로직캠](https://m.acfun.cn/v/%3Fac%3D47147511)
+

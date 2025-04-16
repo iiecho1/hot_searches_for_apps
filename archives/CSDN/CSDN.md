@@ -129,3 +129,7 @@
 
 + [基于 Python 与 GitHub，打造个人专属本地化思维导图工具全流程方案（上）](https://blog.csdn.net/deepever/article/details/147212614)
 
++ [基于小程序的购物系统设计与实现](https://blog.csdn.net/2402_89220103/article/details/147101146)
+
++ [JWT令牌：实现安全会话跟踪与登录认证的利器](https://blog.csdn.net/weixin_53197693/article/details/147252252)
+
