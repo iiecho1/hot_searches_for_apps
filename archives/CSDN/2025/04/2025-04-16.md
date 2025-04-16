@@ -183,3 +183,9 @@
 
 + [HTTP实现心跳模块](https://blog.csdn.net/xiaofeilongyu/article/details/147198979)
 
++ [计算机视觉——基于 Yolov8 目标检测与 OpenCV 光流实现目标追踪](https://blog.csdn.net/matt45m/article/details/146949869)
+
++ [《突破控件限制：用Qt绘图API解锁高级界面定制能力》](https://blog.csdn.net/island1314/article/details/147272642)
+
++ [【Web API系列】Web Shared Storage API之WorkletSharedStorage深度解析与实践指南](https://blog.csdn.net/weixin_47754149/article/details/147077057)
+
