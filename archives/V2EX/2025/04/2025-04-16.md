@@ -21,3 +21,5 @@
 
 + [win10 ltsc 2021 / win11 ltsc / win11 iot ltsc / winserver 2025 到底用哪个？](https://www.v2ex.com/t/1125498)
 
++ [给娃开发的奥特曼识别小程序，现在整个光之国都在用](https://www.v2ex.com/t/1125561)
+

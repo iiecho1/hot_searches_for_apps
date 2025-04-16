@@ -161,3 +161,7 @@
 
 + [特朗普“关税大棒”或殃及美国枫糖浆生产商](https://news.cctv.com/2025/04/13/ARTIWAA8FtRC4ZNwveEbAF3X250413.shtml)
 
++ [法国驱逐12名阿尔及利亚外交人员并召回大使](https://news.cctv.com/2025/04/16/ARTIh3SyqTVlIeYSWuNe7ckX250416.shtml)
+
++ [美前财长耶伦：“市场对美国经济政策失去信心”](https://news.cctv.com/2025/04/16/ARTIivFmSViiiogSO6wsOpWs250416.shtml)
+
