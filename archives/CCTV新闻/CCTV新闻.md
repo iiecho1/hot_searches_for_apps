@@ -197,3 +197,15 @@
 
 + [韩国警方对总统府等地展开扣押搜查](https://news.cctv.com/2025/04/16/ARTIT75Q6sDyqj6uoLbjsqc2250416.shtml)
 
++ [学习新语｜影像速览！习主席今年首访第一站·越南](https://news.cctv.com/2025/04/16/ARTIc1hIjj8PAKFZEXpVh6aV250416.shtml)
+
++ [金句海报｜关于中越关系，习近平这样阐述](https://news.cctv.com/2025/04/16/ARTIcMnREwzhwzRF6v1e4L35250416.shtml)
+
++ [数读中马务实合作成就](https://news.cctv.com/2025/04/16/ARTIraVku2bldfaYtX4pEZd1250416.shtml)
+
++ [俄罗斯两座机场实施临时限制起降措施](https://news.cctv.com/2025/04/16/ARTIaTE7leNQBLRMhuDDe5SZ250416.shtml)
+
++ [同舟共济建设中越命运共同体](https://news.cctv.com/2025/04/16/ARTIUmzoEWU4zFHBPic4uwL0250416.shtml)
+
++ [从昆明到河内 在花香中感受中越经贸活力](https://news.cctv.com/2025/04/16/ARTIpPlClDrS3j6H9MvsLJ78250416.shtml)
+

@@ -145,3 +145,9 @@
 
 + [OpenAI深夜发布GPT-4.1系列模型，虚竹团队通宵对接，已经可以体验](https://blog.csdn.net/shi_hong_fei_hei/article/details/147261089)
 
++ [MySQL数据库精研之旅第八期：玩转数据库约束](https://blog.csdn.net/2401_85198927/article/details/147191878)
+
++ [一文读懂 AI](https://blog.csdn.net/qq_61654952/article/details/147201025)
+
++ [Lucene.NET + Jieba分词：核心词典与停用词配置详解](https://blog.csdn.net/mss359681091/article/details/147272121)
+
