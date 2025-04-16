@@ -169,3 +169,5 @@
 
 + [加沙城遭袭医院损毁严重 短期恐难恢复](https://news.cctv.com/2025/04/16/ARTIbC06Hf7RPSn29J7RLppf250416.shtml)
 
++ [斐济学生庆祝“国际中文日”](https://photo.cctv.com/2025/04/16/PHOARCLlJ5LewBc61tD2VOit250416.shtml)
+
