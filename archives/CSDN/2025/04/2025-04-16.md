@@ -141,3 +141,7 @@
 
 + [【Qt】Qt 信号与槽机制全解析](https://blog.csdn.net/2301_77509762/article/details/147239256)
 
++ [（2）Luxonis OAK-D](https://blog.csdn.net/qq_20016593/article/details/146910350)
+
++ [OpenAI深夜发布GPT-4.1系列模型，虚竹团队通宵对接，已经可以体验](https://blog.csdn.net/shi_hong_fei_hei/article/details/147261089)
+
