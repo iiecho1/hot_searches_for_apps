@@ -157,3 +157,5 @@
 
 + [Webflux声明式http客户端：Spring6原生HttpExchange实现，彻底摒弃feign](https://blog.csdn.net/lilinhai548/article/details/147230271)
 
++ [从零构建高颜值局域网聊天室：Flask+Socket.IO全栈实战](https://blog.csdn.net/Clay_K/article/details/147256332)
+

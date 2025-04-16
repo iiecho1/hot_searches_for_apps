@@ -213,3 +213,5 @@
 
 + [以军称打死一名哈马斯高级指挥官](https://news.cctv.com/2025/04/16/ARTIEGDoAKiOMogs7IlOQJRi250416.shtml)
 
++ [俄联邦委员会批准《俄罗斯联邦与伊朗伊斯兰共和国全面战略伙伴关系条约》](https://news.cctv.com/2025/04/16/ARTIwJRZmdfs9JETymguPRRw250416.shtml)
+
