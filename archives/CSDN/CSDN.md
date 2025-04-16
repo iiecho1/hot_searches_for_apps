@@ -175,3 +175,11 @@
 
 + [Linux中信号的保存](https://blog.csdn.net/2201_75357870/article/details/147230403)
 
++ [【Spring】DI（依赖注入）详解：属性注入@Autowired（超详细）、构造方法注入、Setter注入](https://blog.csdn.net/2302_79527141/article/details/147138804)
+
++ [Redis之缓存击穿](https://blog.csdn.net/weixin_42541479/article/details/147242516)
+
++ [黑马商城项目（一）MybatisPlus](https://blog.csdn.net/DDDiccc/article/details/147240917)
+
++ [HTTP实现心跳模块](https://blog.csdn.net/xiaofeilongyu/article/details/147198979)
+

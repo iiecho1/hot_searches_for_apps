@@ -35,3 +35,19 @@
 
 + [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 
++ [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+
++ [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+
++ [opf/openproject](https://github.com/opf/openproject)
+
++ [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [kestra-io/kestra](https://github.com/kestra-io/kestra)
+
++ [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+
++ [scylladb/scylladb](https://github.com/scylladb/scylladb)
+
