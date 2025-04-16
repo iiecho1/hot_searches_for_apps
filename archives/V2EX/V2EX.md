@@ -51,3 +51,5 @@
 
 + [程序员转行经历分享](https://www.v2ex.com/t/1125777)
 
++ [绿联 NAS UGOS Pro 体验（避坑）](https://www.v2ex.com/t/1125733)
+

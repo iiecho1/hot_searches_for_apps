@@ -221,3 +221,11 @@
 
 + [美国一男子持胡椒喷雾冲入法院袭警 面临6项指控](https://news.cctv.com/2025/04/16/ARTIDlecD7zaiNCIZzHbdzAn250416.shtml)
 
++ [近闻·越南之行，这些话寓意深刻](https://news.cctv.com/2025/04/16/ARTIMXvcV6Y0NNi8WaAjxpKT250416.shtml)
+
++ [高清大图｜习近平出席易卜拉欣举行的欢迎仪式](https://news.cctv.com/2025/04/16/ARTIz1X5YSYuXCbvihcwZ2DR250416.shtml)
+
++ [走进习近平主席今年首次出访第二站：马来西亚](https://news.cctv.com/2025/04/16/ARTI8FRTzUkp964QAPYXQEHk250416.shtml)
+
++ [中国驻菲律宾使馆发言人就谷歌地图标注“西菲律宾海”答记者问](https://news.cctv.com/2025/04/16/ARTIAWkpXKbG3tO0iR0EwcC1250416.shtml)
+

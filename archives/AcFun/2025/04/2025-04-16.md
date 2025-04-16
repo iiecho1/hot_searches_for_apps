@@ -99,3 +99,7 @@
 
 + [《异度神剑X 终极版》评测8分：野心的地平线](https://m.acfun.cn/v/%3Fac%3D47142835)
 
++ [AC娘更喜欢的，当然是你啦](https://m.acfun.cn/v/%3Fac%3D47146178)
+
++ [孝琳 只想着你](https://m.acfun.cn/v/%3Fac%3D47142582)
+
