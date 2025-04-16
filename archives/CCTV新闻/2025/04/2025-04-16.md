@@ -171,3 +171,15 @@
 
 + [斐济学生庆祝“国际中文日”](https://photo.cctv.com/2025/04/16/PHOARCLlJ5LewBc61tD2VOit250416.shtml)
 
++ [印尼勒沃托比火山发生喷发 灰柱最高达3500米](https://news.cctv.com/2025/04/16/ARTIIV0Diex21Wn0WUAokiKl250416.shtml)
+
++ [共同擘画中越命运共同体建设新蓝图](https://news.cctv.com/2025/04/16/ARTICJlgJ91cNuVCAXEwk5cf250416.shtml)
+
++ [苏丹快速支援部队宣布成立“和平与团结政府”](https://news.cctv.com/2025/04/16/ARTI87PrBYoSqkemEcSKqYXK250416.shtml)
+
++ [第一观察·瞬间｜志同道合 一路同行](https://news.cctv.com/2025/04/16/ARTIXJrtlOC7NLkCjLrm0dHT250416.shtml)
+
++ [习主席的丝路故事｜这条轻轨，见证了中越情谊](https://news.cctv.com/2025/04/16/ARTILyvpa1gEBJDt4HFTVHUK250416.shtml)
+
++ [辛识平：“同志加兄弟”，共绘新蓝图](https://news.cctv.com/2025/04/16/ARTIW5MgaUr7em2WEMzG1zBw250416.shtml)
+
