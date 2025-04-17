@@ -105,3 +105,31 @@
 
 + [MCP协议，.Net 使用示例](https://blog.csdn.net/u012094427/article/details/147273767)
 
++ [C语言 —— 指尖跃迁 刻印永恒 - 文件操作](https://blog.csdn.net/hedhjd/article/details/147243925)
+
++ [首次打蓝桥杯总结(c/c++B组)](https://blog.csdn.net/lxr_lxr_/article/details/147255426)
+
++ [Java 大视界 -- 基于 Java 的大数据实时数据处理在车联网车辆协同控制中的应用与挑战（197）](https://blog.csdn.net/atgfg/article/details/147163720)
+
++ [【Linux实践系列】：用c/c++制作一个简易的进程池](https://blog.csdn.net/2301_80260194/article/details/147235924)
+
++ [Spring 中的验证、数据绑定和类型转换](https://blog.csdn.net/lilinhai548/article/details/147297943)
+
++ [Spring 源码学习资料 从手写到源码深度剖析](https://blog.csdn.net/unbuntu_luo/article/details/147029335)
+
++ [网络层IP协议知识大梳理](https://blog.csdn.net/2301_82213854/article/details/147312587)
+
++ [解锁元生代：ComfyUI工作流与云原生后端的深度融合](https://blog.csdn.net/weixin_73295475/article/details/147238422)
+
++ [新能源汽车能量流测试的传感器融合技术应用指南](https://blog.csdn.net/weixin_62244995/article/details/147311272)
+
++ [操作系统之系统IO](https://blog.csdn.net/maomi_9526/article/details/147248475)
+
++ [React 在组件间共享状态](https://blog.csdn.net/ahui829/article/details/147252349)
+
++ [Linux信号三部曲：产生机制、处理方式与内核接口](https://blog.csdn.net/2301_80774875/article/details/147312252)
+
++ [Spark-SQL](https://blog.csdn.net/2502_90678862/article/details/147285912)
+
++ [深入理解 Nacos 服务发现机制](https://blog.csdn.net/weixin_43063493/article/details/147258045)
+
