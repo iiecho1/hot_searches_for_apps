@@ -25,3 +25,27 @@
 
 + [微信 iOS 版 8.0.58 最新官方正式版下载发布](https://m.ithome.com/html/844381.htm)
 
++ [特斯拉 Model 2 被毙内幕：马斯克嫌造车无聊，高管集体劝不住](https://m.ithome.com/html/845682.htm)
+
++ [35.98 万-44.98 万元，鸿蒙智行家庭智慧旗舰 SUV 问界 M8 正式上市](https://m.ithome.com/html/845699.htm)
+
++ [京东外卖出现短暂异常：流量达平时 4 倍，将额外发放 10 万张百亿补贴优惠券](https://m.ithome.com/html/845630.htm)
+
++ [12306 回应“五一抢票崩了”：已基本缓解，将加强监控巡检和技术维护](https://m.ithome.com/html/845662.htm)
+
++ [仅限 28 小时直接补一半：数码家电国补 20%+ 换新 30%，京东超级双补开启](https://m.ithome.com/html/845695.htm)
+
++ [30.98 万元起鸿蒙智行享界 S9 增程版豪华轿车正式上市：综合续航 1355km，三季度升级华为 ADS 4](https://m.ithome.com/html/845698.htm)
+
++ [ONE MORE THING：上汽 &#215; 华为合作鸿蒙智行“尚界”品牌亮相，首款车型争取今年秋天上市](https://m.ithome.com/html/845797.htm)
+
++ [英伟达确认 RTX 5060 显卡国内售价 2499 元起，将于 5 月上市](https://m.ithome.com/html/845615.htm)
+
++ [华为路由 X1 / Pro 发布：搭载灵犀天线技术，售价 599 元起](https://m.ithome.com/html/845779.htm)
+
++ [小米 REDMI 显示器 G Pro 27U 亮相：搭载小米澎湃 OS2，4 月 24 日开售](https://m.ithome.com/html/845689.htm)
+
++ [红魔 10 Air 游戏手机发布：骁龙 8 Gen 3、悟空全面屏，国补价 2999 元起](https://m.ithome.com/html/845824.htm)
+
++ [苹果 iOS 18.4.1 正式版发布，修复无线 CarPlay 车载无法连接问题](https://m.ithome.com/html/844381.htm)
+
