@@ -189,3 +189,9 @@
 
 + [欧洲央行再次宣布降息](https://news.cctv.com/2025/04/17/ARTIoz86E4rjrQZk9AXxlXgH250417.shtml)
 
++ [时政Vlog丨万名群众沿途欢迎习主席访问柬埔寨！听听他们怎么说](https://news.cctv.com/2025/04/17/ARTIWvZqJhdg6WaQPwJq2zbh250417.shtml)
+
++ [时政Vlog丨皇家礼器、华盖、茉莉花环 柬埔寨用传统礼遇欢迎习主席](https://news.cctv.com/2025/04/17/ARTIAIxhkeGT9gUjHu6jlj7r250417.shtml)
+
++ [股价再暴跌，好莱坞真正的担忧是失去未来](https://news.cctv.com/2025/04/17/ARTIWlmXQ589krOCpiVouzvQ250417.shtml)
+

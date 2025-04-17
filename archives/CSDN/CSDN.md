@@ -225,3 +225,11 @@
 
 + [计算机三级网络技术备考心得（def0）](https://blog.csdn.net/2302_78154322/article/details/147261808)
 
++ [AI 对话高效输入指令攻略（二）：关于豆包的指令](https://blog.csdn.net/Pocker_Spades_A/article/details/147285153)
+
++ [YOLO11-pose关键点检测：训练实战篇（晶体管定位识别） | 自己数据集从labelme标注到生成yolo格式的关键点数据以及训练教程](https://blog.csdn.net/m0_63774211/article/details/147294957)
+
++ [Token安全存储的几种方式](https://blog.csdn.net/qq_25383607/article/details/147244596)
+
++ [WebSocket 技术详解](https://blog.csdn.net/m0_62364592/article/details/147255780)
+
