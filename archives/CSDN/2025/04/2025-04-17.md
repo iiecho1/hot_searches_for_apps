@@ -171,3 +171,7 @@
 
 + [硬件电路设计之51单片机（2）](https://blog.csdn.net/m0_50562428/article/details/147068304)
 
++ [PyTorch生成式人工智能实战（1）——神经网络与模型训练过程详解](https://blog.csdn.net/LOVEmy134611/article/details/146259374)
+
++ [Linux 系统 hang 住问题诊断与解决方法探讨](https://blog.csdn.net/unbuntu_luo/article/details/147196886)
+
