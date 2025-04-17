@@ -161,3 +161,9 @@
 
 + [受美国关税政策影响 欧佩克下调全球石油需求预期](https://news.cctv.com/2025/04/15/ARTIxekfzXOimI5w5HFzfVn7250415.shtml)
 
++ [乌克兰和美国签署关于矿产协议的备忘录](https://news.cctv.com/2025/04/18/ARTI4ZXfv34lihGig0VvcfJA250418.shtml)
+
++ [安理会谴责苏丹暴力升级 敦促解除对法希尔的围困](https://news.cctv.com/2025/04/18/ARTIOU8FC9A0DrkBRAX0Z4Tc250418.shtml)
+
++ [哈马斯：愿就达成一项“全面”协议进行谈判](https://news.cctv.com/2025/04/18/ARTIhOqXudIBmqMCnHgxzGgI250418.shtml)
+
