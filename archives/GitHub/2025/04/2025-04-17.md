@@ -29,3 +29,21 @@
 
 + [scylladb/scylladb](https://github.com/scylladb/scylladb)
 
++ [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5)
+
++ [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
+
++ [docmost/docmost](https://github.com/docmost/docmost)
+
++ [midday-ai/midday](https://github.com/midday-ai/midday)
+
++ [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [microsoft/BitNet](https://github.com/microsoft/BitNet)
+
++ [cline/cline](https://github.com/cline/cline)
+
++ [browserbase/stagehand](https://github.com/browserbase/stagehand)
+
