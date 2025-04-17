@@ -201,3 +201,9 @@
 
 + [本地Ubuntu轻松部署高效性能监控平台SigNoz与远程使用教程](https://blog.csdn.net/m0_68662723/article/details/147288839)
 
++ [Crawl4AI：为大语言模型打造的开源网页数据采集工具](https://blog.csdn.net/m0_46510245/article/details/147294109)
+
++ [YOLOv8 改进：将 Neck 替换为 AFPN](https://blog.csdn.net/feng1790291543/article/details/146987033)
+
++ [OpenHarmony5.0 USB声卡（耳机/Mic）适配](https://blog.csdn.net/weixin_53632740/article/details/147305103)
+
