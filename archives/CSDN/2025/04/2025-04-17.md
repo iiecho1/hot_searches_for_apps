@@ -145,3 +145,19 @@
 
 + [一、小白如何用Pygame制作一款跑酷类游戏（成品展示+添加背景图和道路移动效果）](https://blog.csdn.net/qq_43646281/article/details/147257333)
 
++ [【深度学习的骨架与脉搏】语义分割的卷积神经网络·U-Net](https://blog.csdn.net/m0_67656158/article/details/147044189)
+
++ [一文读懂 AI](https://blog.csdn.net/qq_61654952/article/details/147201025)
+
++ [Java 大视界 -- Java 大数据在智能教育在线考试监考与作弊检测中的技术创新（193）](https://blog.csdn.net/atgfg/article/details/147129759)
+
++ [【Linux】驭令如马：Linux指令世界的奇幻骑行指南](https://blog.csdn.net/Miracle_86/article/details/147195173)
+
++ [基于Geotools的PostGIS原始操作之CQL过滤及按属性名称生成面属性时间-以湖北省地级市行政区划为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/147234784)
+
++ [Elasticsearch BBQ 与 OpenSearch FAISS：向量搜索性能对比](https://blog.csdn.net/UbuntuTouch/article/details/147264172)
+
++ [第五章 ISO15118-2协议分析--5.1 学习方法](https://blog.csdn.net/u012084827/article/details/147205251)
+
++ [系统设计模块之安全架构设计（身份认证与授权（OAuth2.0、JWT、RBAC/ABAC））](https://blog.csdn.net/qq_39311377/article/details/147029093)
+
