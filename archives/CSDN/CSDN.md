@@ -133,3 +133,5 @@
 
 + [深入理解 Nacos 服务发现机制](https://blog.csdn.net/weixin_43063493/article/details/147258045)
 
++ [Webflux声明式http客户端：Spring6原生HttpExchange实现，彻底摒弃feign](https://blog.csdn.net/lilinhai548/article/details/147230271)
+
