@@ -32,15 +32,12 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        
-        if git diff --staged --quiet; then
-          echo "没有更改，跳过提交。"
-        else
-          # 关键修改：拉取远程最新代码并变基（避免合并提交）
-          git pull --rebase origin main
-          git commit -m "Add generated files"
-          git push origin main
-        fi
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if git diff --staged --quiet; then
+            echo "没有更改，跳过提交。"
+          else
+            git commit -m "Add generated files"
+            git pushß
+          fi
