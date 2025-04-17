@@ -39,5 +39,5 @@ jobs:
             echo "没有更改，跳过提交。"
           else
             git commit -m "Add generated files"
-            git pushß
+            git push
           fi
