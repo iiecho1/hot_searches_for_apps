@@ -34,16 +34,10 @@ jobs:
       run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # 检查是否有更改，避免空提交
           git add .
           if git diff --staged --quiet; then
-              echo "没有更改，跳过提交。"
+            echo "没有更改，跳过提交。"
           else
-              # 先拉取最新代码（使用 merge 而非 rebase，避免冲突）
-              git pull origin main --no-rebase  # 替换 main 为你的默认分支
-              
-              # 提交并推送
-              git commit -m "Add generated files"
-              git push
+            git commit -m "Add generated files"
+            git push
           fi
