@@ -163,3 +163,11 @@
 
 + [【Linux】掌权如鹰：Linux权限天空的翱翔秘籍](https://blog.csdn.net/Miracle_86/article/details/147234620)
 
++ [【Ansible自动化运维】六、ansible 实践案例与最佳实践：经验总结与分享](https://blog.csdn.net/qq_58611691/article/details/147227495)
+
++ [基于Java，SpringBoot，Vue，HTML家政服务预约系统设计](https://blog.csdn.net/qq_28245905/article/details/147240070)
+
++ [用微信小程序制作一个性行为同意协议系统](https://blog.csdn.net/keny88888/article/details/147286372)
+
++ [硬件电路设计之51单片机（2）](https://blog.csdn.net/m0_50562428/article/details/147068304)
+
