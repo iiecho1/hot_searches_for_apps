@@ -213,3 +213,5 @@
 
 + [Elastic 9.0/8.18：BBQ、EDOT 和 LLM 可观察性、攻击发现、自动导入以及 ES|QL JOIN](https://blog.csdn.net/UbuntuTouch/article/details/147292900)
 
++ [《 C++ 点滴漫谈： 三十三 》当函数成为参数：解密 C++ 回调函数的全部姿势](https://blog.csdn.net/mmlhbjk/article/details/147234448)
+
