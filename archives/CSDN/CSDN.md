@@ -101,3 +101,7 @@
 
 + [Token安全存储的几种方式](https://blog.csdn.net/qq_25383607/article/details/147244596)
 
++ [Elasticsearch BBQ 与 OpenSearch FAISS：向量搜索性能对比](https://blog.csdn.net/UbuntuTouch/article/details/147264172)
+
++ [MCP协议，.Net 使用示例](https://blog.csdn.net/u012094427/article/details/147273767)
+
