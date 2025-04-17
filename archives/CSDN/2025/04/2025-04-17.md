@@ -193,3 +193,11 @@
 
 + [【MySQL数据库】InnoDB存储引擎：逻辑存储结构、内存架构、磁盘架构](https://blog.csdn.net/U2396573637/article/details/147004061)
 
++ [【AI】——结合Ollama、Open WebUI和Docker本地部署可视化AI大语言模型](https://blog.csdn.net/shsjssnn/article/details/145991395)
+
++ [【快递100物流API技术指南：高效查询、订阅推送与地图轨迹集成方案】](https://blog.csdn.net/qyj19920704/article/details/147276421)
+
++ [【AI 大模型】Assistants API 开发 ② ( 核心概念 | 开发流程 | 创建 Assistant | 创建 Thread | 添加消息 | 运行 Assistant | 获取响应 )](https://blog.csdn.net/han1202012/article/details/147212014)
+
++ [本地Ubuntu轻松部署高效性能监控平台SigNoz与远程使用教程](https://blog.csdn.net/m0_68662723/article/details/147288839)
+
