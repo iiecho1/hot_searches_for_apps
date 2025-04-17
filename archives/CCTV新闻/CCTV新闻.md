@@ -169,3 +169,9 @@
 
 + [气象组织年度报告：欧洲是升温最快的大陆](https://news.cctv.com/2025/04/17/ARTI0r13PGynzQD7QoYBcJ7N250417.shtml)
 
++ [美联储主席：加征关税对美经济冲击或超预期](https://news.cctv.com/2025/04/17/ARTIuoR32821ja3szO9JZrQJ250417.shtml)
+
++ [世贸组织警告2025年全球货物贸易将陷入萎缩](https://news.cctv.com/2025/04/17/ARTIlCKkIhK5IK2SEj56eR6e250417.shtml)
+
++ [美媒：美政府暂不支持以色列袭击伊朗核设施的计划](https://military.cctv.com/2025/04/17/ARTIzguuFKszPwdDcZUzkeKH250417.shtml)
+

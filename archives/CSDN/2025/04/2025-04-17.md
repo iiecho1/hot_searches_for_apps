@@ -175,3 +175,15 @@
 
 + [Linux 系统 hang 住问题诊断与解决方法探讨](https://blog.csdn.net/unbuntu_luo/article/details/147196886)
 
++ [【Python】python系列之函数闭包概念](https://blog.csdn.net/qq_35995514/article/details/146905576)
+
++ [最近试了下Javashop 商城系统：我愿称之为企业级电商解决方案的标杆之选](https://blog.csdn.net/weixin_44976692/article/details/147297203)
+
++ [【GitHub开源AI精选】Agent-S架构揭秘：低代码与多模态融合的智能体新范式](https://blog.csdn.net/xiaobing259/article/details/147277542)
+
++ [解锁动态规划的奥秘：从零到精通的创新思维解析（9）](https://blog.csdn.net/effort123_/article/details/147292555)
+
++ [GPT-4-mini 与 o3 满血版实战首测：视觉推理、工具调用与多模态协同的范式突变](https://blog.csdn.net/sinat_28461591/article/details/147293727)
+
++ [阿里巴巴开源Nacos漏洞大揭秘：从隐患排查到完美修复](https://blog.csdn.net/beautifulmemory/article/details/147252286)
+
