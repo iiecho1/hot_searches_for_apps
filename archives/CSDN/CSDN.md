@@ -207,3 +207,9 @@
 
 + [OpenHarmony5.0 USB声卡（耳机/Mic）适配](https://blog.csdn.net/weixin_53632740/article/details/147305103)
 
++ [《蓝耘智绘元生代未来：CogVLM2重塑视觉语言模型格局》](https://blog.csdn.net/2301_76341691/article/details/147169615)
+
++ [深入浅出 NVIDIA CUDA 架构与并行计算技术](https://blog.csdn.net/weixin_53269650/article/details/147264663)
+
++ [Elastic 9.0/8.18：BBQ、EDOT 和 LLM 可观察性、攻击发现、自动导入以及 ES|QL JOIN](https://blog.csdn.net/UbuntuTouch/article/details/147292900)
+
