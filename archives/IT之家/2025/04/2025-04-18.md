@@ -25,3 +25,27 @@
 
 + [苹果 iOS 18.4.1 正式版发布，修复无线 CarPlay 车载无法连接问题](https://m.ithome.com/html/844381.htm)
 
++ [小米 YU7 汽车内饰曝光，采用环绕式仪表](https://m.ithome.com/html/846031.htm)
+
++ [英伟达 CEO 黄仁勋：坚定不移服务中国市场](https://m.ithome.com/html/846042.htm)
+
++ [20:00 开抢：京东超级 18 直接补一半 + 抢 20 元叠加神券，小米手环 9 仅 160 元](https://m.ithome.com/html/845937.htm)
+
++ [科学家发现“迄今为止最有力”的外星生命存在证据](https://m.ithome.com/html/846015.htm)
+
++ [苹果 macOS 在中国桌面操作系统份额首次突破 10%](https://m.ithome.com/html/846058.htm)
+
++ [小米手机国内 ROM 将不再支持安装国际版主题商店](https://m.ithome.com/html/846009.htm)
+
++ [今晚国内油价迎近三年最大跌幅，加满一箱油少花 19 元](https://m.ithome.com/html/845926.htm)
+
++ [理想 L6 智驾焕新版亮相，新增类薄荷绿车漆并缩小激光雷达体积](https://m.ithome.com/html/846064.htm)
+
++ [鸿蒙智行智界 R7 增程新版本上市：纯电续航最高 360km，29.98 万元起](https://m.ithome.com/html/846105.htm)
+
++ [相册照片可按日期分组显示，华为 Mate 60 、Pura 70 系列等手机获鸿蒙 HarmonyOS NEXT 5.0.0.155 升级](https://m.ithome.com/html/846048.htm)
+
++ [华为余承东：问界 M8 汽车上市 24 小时大定突破 3.2 万台](https://m.ithome.com/html/846071.htm)
+
++ [刘亦菲录制的语音包将上线智界汽车的华为小艺助手](https://m.ithome.com/html/844625.htm)
+
