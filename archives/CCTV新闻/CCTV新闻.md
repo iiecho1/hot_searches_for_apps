@@ -185,3 +185,11 @@
 
 + [世卫组织和非洲疾控中心更新猴痘疫情应对计划](https://news.cctv.com/2025/04/18/ARTIx8IlM4DWLknHNnSmEwEk250418.shtml)
 
++ [新华时评丨中国经济开局良好，为世界注入确定性](https://news.cctv.com/2025/04/18/ARTIWiE4iH28TagMyyR1iyPQ250418.shtml)
+
++ [学习新语｜习近平越南之行](https://news.cctv.com/2025/04/18/ARTIfOxjyIXAeqKIMn13Xeik250418.shtml)
+
++ [小企业这样出海闯商机（经济聚焦·稳外贸扩消费）](https://jingji.cctv.com/2025/04/18/ARTIMF5jTuC4zYnGrCGctbyU250418.shtml)
+
++ [开启中马关系新的“黄金五十年”（和音）](https://news.cctv.com/2025/04/18/ARTIIwgxFJMzUeL00ebgguTC250418.shtml)
+
