@@ -173,3 +173,11 @@
 
 + [也门拉斯伊萨港再次遭袭](https://news.cctv.com/2025/04/18/ARTIh9gPGpSsNXE5pCNo8sXn250418.shtml)
 
++ [加州州长纽森：中国越成功，世界越成功](https://news.cctv.com/2025/04/18/ARTI3AP4MvcE7N7ik1E87e3z250418.shtml)
+
++ [日本3月米价同比上涨92.1% 创54年来最大涨幅](https://news.cctv.com/2025/04/18/ARTIq9MEOHkr22xc9sm2QJww250418.shtml)
+
++ [我驻日使馆提醒在日中国公民注意人身及食品卫生安全](https://news.cctv.com/2025/04/18/ARTIHJfrSSFGblGo7zhXRuY4250418.shtml)
+
++ [一中国侨胞在拿骚遭歹徒枪击受伤 我驻巴哈马使馆通报](https://news.cctv.com/2025/04/18/ARTIJN5LzkqGsd0K1vdZs752250418.shtml)
+
