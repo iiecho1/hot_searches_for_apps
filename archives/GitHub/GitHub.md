@@ -29,3 +29,19 @@
 
 + [browserbase/stagehand](https://github.com/browserbase/stagehand)
 
++ [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
+
++ [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
+
++ [opf/openproject](https://github.com/opf/openproject)
+
++ [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
+
++ [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+
++ [nocobase/nocobase](https://github.com/nocobase/nocobase)
+
++ [potpie-ai/potpie](https://github.com/potpie-ai/potpie)
+
++ [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+

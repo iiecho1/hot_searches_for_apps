@@ -187,3 +187,9 @@
 
 + [Spring Boot管理Spring MVC](https://blog.csdn.net/daqi1983/article/details/147277936)
 
++ [杰弗里·辛顿：深度学习教父](https://blog.csdn.net/qq_51646682/article/details/147283351)
+
++ [【Linux篇】ELF文件及其加载与动态链接机制](https://blog.csdn.net/braveact/article/details/147234807)
+
++ [WebSocket 双向通信技术详解](https://blog.csdn.net/m0_62364592/article/details/147255780)
+
