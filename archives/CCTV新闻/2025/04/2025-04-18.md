@@ -181,3 +181,5 @@
 
 + [一中国侨胞在拿骚遭歹徒枪击受伤 我驻巴哈马使馆通报](https://news.cctv.com/2025/04/18/ARTIJN5LzkqGsd0K1vdZs752250418.shtml)
 
++ [美肯塔基州长警告：关税或致美家庭年增数千美元支出](https://news.cctv.com/2025/04/18/ARTICb2EtrbPltnV62GglS60250418.shtml)
+

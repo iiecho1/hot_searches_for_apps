@@ -141,3 +141,17 @@
 
 + [【软件系统架构】事件驱动架构](https://blog.csdn.net/wnm23/article/details/147291851)
 
++ [Java 大视界 -- Java 大数据在智能金融理财产品风险评估与个性化配置中的应用（195）](https://blog.csdn.net/atgfg/article/details/147153522)
+
++ [Elasticsearch 8.18 中提供了原生连接 (Native Joins)](https://blog.csdn.net/UbuntuTouch/article/details/147265283)
+
++ [算力、数据与算法：大模型成功的三大支柱](https://blog.csdn.net/m0_68111267/article/details/147319257)
+
++ [最新Spring Security实战教程（十一）CSRF攻防实战 - 从原理到防护的最佳实践](https://blog.csdn.net/lhmyy521125/article/details/147314076)
+
++ [数据一致性问题剖析与实践（一）——冗余数据存储&分布式共识决策中的一致性问题](https://blog.csdn.net/qq_46101869/article/details/147312083)
+
++ [网络安全与信息安全防护措施](https://blog.csdn.net/chengoodflower/article/details/147238656)
+
++ [2025能源网络安全大赛CTF --- Crypto wp](https://blog.csdn.net/luochen2436/article/details/147310939)
+
