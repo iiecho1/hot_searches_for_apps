@@ -101,3 +101,11 @@
 
 + [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、GlitchPass渲染通道）](https://blog.csdn.net/qq_28419035/article/details/147322381)
 
++ [《SpringBoot中@Scheduled和Quartz的区别是什么？分布式定时任务框架选型实战》​](https://blog.csdn.net/IRpickstars/article/details/147266434)
+
++ [探索元生代：ComfyUI 工作流与计算机视觉的奇妙邂逅](https://blog.csdn.net/weixin_73295475/article/details/147332138)
+
++ [Redis--事务](https://blog.csdn.net/2301_79995226/article/details/147311747)
+
++ [微服务4--服务网关](https://blog.csdn.net/qq_56486237/article/details/147288686)
+
