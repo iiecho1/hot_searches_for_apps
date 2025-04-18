@@ -167,3 +167,9 @@
 
 + [哈马斯：愿就达成一项“全面”协议进行谈判](https://news.cctv.com/2025/04/18/ARTIhOqXudIBmqMCnHgxzGgI250418.shtml)
 
++ [胡塞武装称美军空袭也门西部港口造成17人死亡](https://news.cctv.com/2025/04/18/ARTIyTPWlvpDk6q9SxpXc5mH250418.shtml)
+
++ [有人建议必须强硬，有人主张对外结盟，加拿大联邦大选辩论聚焦“应对美国”](https://news.cctv.com/2025/04/18/ARTIKuwFvfy9hx5zlBomr6fT250418.shtml)
+
++ [也门拉斯伊萨港再次遭袭](https://news.cctv.com/2025/04/18/ARTIh9gPGpSsNXE5pCNo8sXn250418.shtml)
+

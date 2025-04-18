@@ -139,3 +139,5 @@
 
 + [电商|基于java+vue的农业电商系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/147199529)
 
++ [【软件系统架构】事件驱动架构](https://blog.csdn.net/wnm23/article/details/147291851)
+
