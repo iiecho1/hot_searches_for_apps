@@ -193,3 +193,5 @@
 
 + [WebSocket 双向通信技术详解](https://blog.csdn.net/m0_62364592/article/details/147255780)
 
++ [visual studio 2022更改项目名称，灾难性故障(异常来自HRESULT)](https://blog.csdn.net/aoxuestudy/article/details/147308516)
+
