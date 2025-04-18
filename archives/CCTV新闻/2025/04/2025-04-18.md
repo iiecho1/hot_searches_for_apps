@@ -209,3 +209,11 @@
 
 + [美国一退伍军人持刀劫机，刺伤3人后被乘客开枪击中](https://news.cctv.com/2025/04/18/ARTIvAIDdp93iFcePxqEZ8vt250418.shtml)
 
++ [全球瞭望丨英媒：摩根大通首席执行官说贸易战损害美国信誉](https://news.cctv.com/2025/04/18/ARTIIDJHVCLJpPoUPRijQPEe250418.shtml)
+
++ [综述｜美关税政策将严重冲击非洲经济——非洲多国专家批美滥施关税](https://news.cctv.com/2025/04/18/ARTIlwpJAHDLU1sxvnAT2PCZ250418.shtml)
+
++ [学习新语｜这些故事见证中柬“铁杆友谊”](https://news.cctv.com/2025/04/18/ARTIKEu2XcJUrkjS56QeFuVY250418.shtml)
+
++ [学习进行时丨铁杆友谊 中柬情深](https://news.cctv.com/2025/04/18/ARTIFISuow7BtUTBIET6mzIx250418.shtml)
+

@@ -195,3 +195,7 @@
 
 + [visual studio 2022更改项目名称，灾难性故障(异常来自HRESULT)](https://blog.csdn.net/aoxuestudy/article/details/147308516)
 
++ [[C++从零实现Json-Rpc框架]第三弹——C++11异步操作](https://blog.csdn.net/m0_73953114/article/details/147199921)
+
++ [国内最大的MCP中文社区来了，4000多个服务等你体验](https://blog.csdn.net/qq_44866828/article/details/147307144)
+
