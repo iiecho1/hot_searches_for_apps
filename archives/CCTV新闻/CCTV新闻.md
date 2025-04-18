@@ -161,3 +161,9 @@
 
 + [习主席的丝路故事｜这条轻轨，见证了中越情谊](https://news.cctv.com/2025/04/16/ARTILyvpa1gEBJDt4HFTVHUK250416.shtml)
 
++ [联合国工发组织：美国滥施关税的做法是错误的](https://news.cctv.com/2025/04/19/ARTIiKBE2yRBo9qi87MEIWyU250419.shtml)
+
++ [黎真主党领导人：不会让任何人解除真主党武装](https://news.cctv.com/2025/04/19/ARTICaVGIywUvx7Ql7Esc894250419.shtml)
+
++ [美国防部宣布整合驻叙美军部队 将减少至不足千人](https://news.cctv.com/2025/04/19/ARTIQbthHq2D1zo1KuYpm2H1250419.shtml)
+

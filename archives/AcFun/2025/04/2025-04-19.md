@@ -69,3 +69,5 @@
 
 + [像素风小女巫【LIVE2D】](https://m.acfun.cn/v/%3Fac%3D47155740)
 
++ [【换装还原LoveLive热歌《AiScReam》！️一起来跳甜甜的舞吧！️](https://m.acfun.cn/v/%3Fac%3D47155986)
+
