@@ -199,3 +199,11 @@
 
 + [国内最大的MCP中文社区来了，4000多个服务等你体验](https://blog.csdn.net/qq_44866828/article/details/147307144)
 
++ [AI 对话高效输入指令攻略（一）：了解AI对话指令](https://blog.csdn.net/Pocker_Spades_A/article/details/147240041)
+
++ [探索元生代：ComfyUI 工作流与计算机视觉的奇妙邂逅](https://blog.csdn.net/weixin_73295475/article/details/147332138)
+
++ [【Linux】软件包管理双雄：Yum与Apt的璀璨对决](https://blog.csdn.net/Miracle_86/article/details/147311922)
+
++ [基于Scrapy-Redis与Bright Data的企业级智能招聘数据采集系统](https://blog.csdn.net/weixin_50804299/article/details/147273759)
+
