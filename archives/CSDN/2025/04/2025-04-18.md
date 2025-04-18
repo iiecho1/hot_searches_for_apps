@@ -183,3 +183,7 @@
 
 + [让SQL飞起来：搭建企业AI应用的SQL性能优化实战](https://blog.csdn.net/wang5701071/article/details/147307688)
 
++ [《SpringBoot中@Scheduled和Quartz的区别是什么？分布式定时任务框架选型实战》​](https://blog.csdn.net/IRpickstars/article/details/147266434)
+
++ [Spring Boot管理Spring MVC](https://blog.csdn.net/daqi1983/article/details/147277936)
+
