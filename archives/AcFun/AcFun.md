@@ -79,3 +79,7 @@
 
 + [展示一下新学的街舞！★手机竖屏1489★](https://m.acfun.cn/v/%3Fac%3D47151366)
 
++ [【红色警戒】精神续作！玩家们最期待RTS《风暴崛起》值得入手么](https://m.acfun.cn/v/%3Fac%3D47150607)
+
++ [杰克赖招已废！追忆杰克更新前最后的疯狂【铁拳8】杰克vs飞鸟【TEKKEN8】JackvsAsuka](https://m.acfun.cn/v/%3Fac%3D47150722)
+

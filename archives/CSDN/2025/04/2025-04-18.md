@@ -155,3 +155,9 @@
 
 + [2025能源网络安全大赛CTF --- Crypto wp](https://blog.csdn.net/luochen2436/article/details/147310939)
 
++ [【Java开发日记】Spring MVC控制器的14个技巧](https://blog.csdn.net/2402_87298751/article/details/147248487)
+
++ [从0到1：让AI赋能计算机的全流程实践指南](https://blog.csdn.net/user340/article/details/147285688)
+
++ [2025华中杯数学建模C题就业状态分析与预测代码分析](https://blog.csdn.net/beichengshumo/article/details/147313728)
+
