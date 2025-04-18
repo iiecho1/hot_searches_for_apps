@@ -193,3 +193,7 @@
 
 + [开启中马关系新的“黄金五十年”（和音）](https://news.cctv.com/2025/04/18/ARTIIwgxFJMzUeL00ebgguTC250418.shtml)
 
++ [苏丹：受损的喀土穆国际机场](https://photo.cctv.com/2025/04/18/PHOA7HgUnAKg7uhj9Q1FWSyY250418.shtml)
+
++ [乌美两国签署矿产协议意向备忘录](https://news.cctv.com/2025/04/18/ARTIA8WIrzphhLUvciRp6g6V250418.shtml)
+

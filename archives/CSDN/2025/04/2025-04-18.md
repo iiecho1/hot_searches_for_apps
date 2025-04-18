@@ -171,3 +171,15 @@
 
 + [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、GlitchPass渲染通道）](https://blog.csdn.net/qq_28419035/article/details/147322381)
 
++ [李宏毅NLP-4-语音识别part3-CTC](https://blog.csdn.net/uncle_ll/article/details/147261417)
+
++ [2025年GitHub平台上的十大开源MCP服务器汇总分析](https://blog.csdn.net/m0_46510245/article/details/147320766)
+
++ [AI 模型高效化：推理加速与训练优化的技术原理与理论解析](https://blog.csdn.net/deepever/article/details/147309404)
+
++ [Spring Boot中定时任务Cron表达式的终极指南](https://blog.csdn.net/siyang0928/article/details/147316888)
+
++ [DSP、MCU、FPGA 的详细总结](https://blog.csdn.net/m0_63469121/article/details/147295514)
+
++ [让SQL飞起来：搭建企业AI应用的SQL性能优化实战](https://blog.csdn.net/wang5701071/article/details/147307688)
+
