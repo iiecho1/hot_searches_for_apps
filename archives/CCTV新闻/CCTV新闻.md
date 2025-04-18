@@ -197,3 +197,15 @@
 
 + [乌美两国签署矿产协议意向备忘录](https://news.cctv.com/2025/04/18/ARTIA8WIrzphhLUvciRp6g6V250418.shtml)
 
++ [牢不可破的“铁杆”友情！一组数据说柬埔寨→](https://jingji.cctv.com/2025/04/18/ARTIz1aZNUro6b1eWk0CmUeF250418.shtml)
+
++ [韩媒：内乱独检法等7项法案在国会遭否决后作废](https://news.cctv.com/2025/04/18/ARTIiTD89KcKeK9OxYVoFPHf250418.shtml)
+
++ [澳大利亚大堡礁2016年以来第六次出现大规模珊瑚白化](https://news.cctv.com/2025/04/18/ARTIdHiuCahB93LkqfD1qGAY250418.shtml)
+
++ [IMF总裁：美国实际关税税率已达到“几代人都没见过的水平”](https://news.cctv.com/2025/04/18/ARTIjYD8QHQHQ7SY9cMGmHB9250418.shtml)
+
++ [俄联邦最高法院暂停塔利班在俄活动禁令](https://news.cctv.com/2025/04/18/ARTII5mglwzQpiym1SUgtVaK250418.shtml)
+
++ [美国一退伍军人持刀劫机，刺伤3人后被乘客开枪击中](https://news.cctv.com/2025/04/18/ARTIvAIDdp93iFcePxqEZ8vt250418.shtml)
+
