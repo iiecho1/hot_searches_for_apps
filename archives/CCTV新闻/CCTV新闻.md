@@ -183,3 +183,5 @@
 
 + [美肯塔基州长警告：关税或致美家庭年增数千美元支出](https://news.cctv.com/2025/04/18/ARTICb2EtrbPltnV62GglS60250418.shtml)
 
++ [世卫组织和非洲疾控中心更新猴痘疫情应对计划](https://news.cctv.com/2025/04/18/ARTIx8IlM4DWLknHNnSmEwEk250418.shtml)
+

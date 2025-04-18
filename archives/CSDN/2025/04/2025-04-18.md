@@ -161,3 +161,7 @@
 
 + [2025华中杯数学建模C题就业状态分析与预测代码分析](https://blog.csdn.net/beichengshumo/article/details/147313728)
 
++ [2025华中杯B题——AI实现](https://blog.csdn.net/weixin_46211269/article/details/147314206)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_自定义单元格大小示例（CalendarView01_07）](https://blog.csdn.net/qq_33650655/article/details/147190839)
+
