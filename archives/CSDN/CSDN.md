@@ -109,3 +109,27 @@
 
 + [微服务4--服务网关](https://blog.csdn.net/qq_56486237/article/details/147288686)
 
++ [Java 大视界 -- Java 大数据在智慧文旅旅游线路规划与游客流量均衡调控中的应用实践（196）](https://blog.csdn.net/atgfg/article/details/147163676)
+
++ [Elastic 9.0/8.18：BBQ、EDOT 和 LLM 可观察性、攻击发现、自动导入以及 ES|QL JOIN](https://blog.csdn.net/UbuntuTouch/article/details/147292900)
+
++ [基于ISA 95, MQTT Sparkplug与统一命名空间实现智能制造](https://blog.csdn.net/weixin_64659129/article/details/147315508)
+
++ [OpenHarmony - 小型系统内核（LiteOS-A）（五）](https://blog.csdn.net/benco1986/article/details/147293647)
+
++ [Ubuntu搭建Docker环境(超详细版)](https://blog.csdn.net/MR_chengdong/article/details/147295309)
+
++ [音视频之H.265/HEVC预测编码](https://blog.csdn.net/wangyongyao1989/article/details/147227511)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_自定义单元格大小示例（CalendarView01_07）](https://blog.csdn.net/qq_33650655/article/details/147190839)
+
++ [计算机三级网络技术备考心得（def1）（先看我的主页def0）](https://blog.csdn.net/2302_78154322/article/details/147315458)
+
++ [2025年最新版动漫短剧系统开发小程序app教程，源码部署上线](https://blog.csdn.net/2401_86439998/article/details/147283510)
+
++ [03(总)-docker篇 Dockerfile镜像制作(jdk,jar)与jar包制作成docker容器方式](https://blog.csdn.net/pingzhuyan/article/details/147246226)
+
++ [CNN卷积神经网络](https://blog.csdn.net/2401_88885149/article/details/147285756)
+
++ [网络层IP协议知识大梳理](https://blog.csdn.net/2301_82213854/article/details/147312587)
+
