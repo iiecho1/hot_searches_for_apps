@@ -31,3 +31,15 @@
 
 + [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
 
++ [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+
++ [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [wanglin2/mind-map](https://github.com/wanglin2/mind-map)
+

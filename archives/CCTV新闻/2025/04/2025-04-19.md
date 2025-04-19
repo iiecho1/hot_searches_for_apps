@@ -221,3 +221,11 @@
 
 + [一中国公民在日本新潟县一处滑雪场意外死亡，中领馆提醒](https://news.cctv.com/2025/04/19/ARTIHcqCQGn1vAZDMbNWZN01250419.shtml)
 
++ [刚果（金）一船只起火 已致逾百人死亡](https://news.cctv.com/2025/04/19/ARTIa4pH3fzlZSfzONDnAhs1250419.shtml)
+
++ [取消签证、入境审查、窃听手机……美国还能去吗？](https://news.cctv.com/2025/04/19/ARTIidbjIC3LjJHX1mPsqIJr250419.shtml)
+
++ [撤销逾千名留学生签证 特朗普政府面临集体诉讼](https://news.cctv.com/2025/04/19/ARTIQYaMpwfNaemSCrQkG8VN250419.shtml)
+
++ [两名中国公民徒步时被海浪卷走致一人死亡、一人失踪，驻墨尔本总领馆提醒](https://news.cctv.com/2025/04/19/ARTIeKlpGn7RP8Ql5xDHzdYw250419.shtml)
+
