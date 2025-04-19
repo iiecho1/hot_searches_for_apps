@@ -209,3 +209,9 @@
 
 + [Linux工具学习之【gcc/g++】](https://blog.csdn.net/2401_83603768/article/details/147312560)
 
++ [【MySQL】数据库约束](https://blog.csdn.net/2301_80543957/article/details/147284830)
+
++ [从零开始搭建CLIP模型实现基于文本的图像检索](https://blog.csdn.net/weixin_49295405/article/details/147296916)
+
++ [嵌入式ARM RISCV toolchain工具 梳理arm-none-eabi-gcc](https://blog.csdn.net/lt6210925/article/details/147342176)
+
