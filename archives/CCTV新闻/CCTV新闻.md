@@ -181,3 +181,15 @@
 
 + [美伊“罗马谈判”在即 俄罗斯会发挥什么作用](https://news.cctv.com/2025/04/19/ARTIYXjVGk185k1xZiMDAGuT250419.shtml)
 
++ [日本长野一夜连震47次 当局呼吁警惕更大地震](https://news.cctv.com/2025/04/19/ARTIXIcpru3i6yRQA5snko8J250419.shtml)
+
++ [金融界人士表示关税政策不确定性冲击美经济和市场信心](https://news.cctv.com/2025/04/19/ARTIRCO45DCdQtndMhSz2qSn250419.shtml)
+
++ [梅德韦杰夫：若美欧抽身乌克兰问题 俄将“更快”解决它](https://news.cctv.com/2025/04/19/ARTIkfcFFphFA7KdRyXFy2b0250419.shtml)
+
++ [携手构建新时代全天候中柬命运共同体（和音）](https://news.cctv.com/2025/04/19/ARTIFminMLD0MbXH20dE97Nq250419.shtml)
+
++ [各方呼吁坚定维护多边贸易体制（环球热点）](https://news.cctv.com/2025/04/19/ARTIpqhhEqSaUwpySxidbQOu250419.shtml)
+
++ [从“两国双园”到“双向奔赴”——习近平主席推动中马合作高质量发展](https://news.cctv.com/2025/04/19/ARTIfO1uddIMx8fn8YgFyJTz250419.shtml)
+

@@ -163,3 +163,9 @@
 
 + [基于Ubuntu22.04和OpenCV4.5.4的物联网人脸识别考勤机](https://blog.csdn.net/weixin_74417251/article/details/147196633)
 
++ [Java 大视界 -- Java 大数据机器学习模型在遥感图像土地利用分类中的优化与应用（199）](https://blog.csdn.net/atgfg/article/details/147163751)
+
++ [MORE 协议的 MATLAB 仿真](https://blog.csdn.net/feng1790291543/article/details/145144482)
+
++ [Docker多阶段构建深度优化指南：从GB到MB的镜像瘦身革命](https://blog.csdn.net/Lisiyang0928/article/details/147342931)
+
