@@ -145,3 +145,9 @@
 
 + [Three.js 场景编辑器 (Vue3 + TypeScript 实现)](https://blog.csdn.net/huhuan123456/article/details/147316404)
 
++ [人工智能横行的时代：小体量团队的赛道突围策略](https://blog.csdn.net/sixpp/article/details/147291639)
+
++ [【web考试系统的设计】](https://blog.csdn.net/qq_73121793/article/details/147313955)
+
++ [分布式笔记（一）](https://blog.csdn.net/yesyesyes_yes/article/details/147293840)
+
