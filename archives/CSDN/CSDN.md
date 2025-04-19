@@ -153,3 +153,13 @@
 
 + [Jupyter 中 Markdown 邂逅 LaTeX：一场知识的绮梦](https://blog.csdn.net/zzy985/article/details/147289308)
 
++ [全解：Redis RDB持久化和AOF持久化](https://blog.csdn.net/lilinhai548/article/details/147297883)
+
++ [【linux】倒计时小程序、进度条小程序及其puls版本](https://blog.csdn.net/2301_80751958/article/details/147324525)
+
++ [车载T-BOX 硬件方案——STM32 + SD NAND（贴片t卡）存储搭配](https://blog.csdn.net/mkfounderR/article/details/147295776)
+
++ [yolov8复现](https://blog.csdn.net/2301_81230251/article/details/147315485)
+
++ [基于Ubuntu22.04和OpenCV4.5.4的物联网人脸识别考勤机](https://blog.csdn.net/weixin_74417251/article/details/147196633)
+
