@@ -217,3 +217,7 @@
 
 + [白宫慌了！将设工作组紧急处理对中国加征关税危机](https://news.cctv.com/2025/04/19/ARTIYIyTRRBEoHpPuclvOK6i250419.shtml)
 
++ [特朗普要对美国金库“大查账” 进展如何？](https://news.cctv.com/2025/04/19/ARTIVygBg1YU4wTNZb4Jq71e250419.shtml)
+
++ [一中国公民在日本新潟县一处滑雪场意外死亡，中领馆提醒](https://news.cctv.com/2025/04/19/ARTIHcqCQGn1vAZDMbNWZN01250419.shtml)
+

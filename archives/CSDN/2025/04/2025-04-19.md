@@ -191,3 +191,11 @@
 
 + [用微信小程序制作一个性行为同意协议系统](https://blog.csdn.net/keny88888/article/details/147286372)
 
++ [2025年MathorCup数学应用挑战赛【D题成品论文】第一问+参考代码（免费分享）](https://blog.csdn.net/RS_handy/article/details/147337429)
+
++ [告别Feign：基于Spring 6.1 RestClient构建高可用声明式HTTP客户端](https://blog.csdn.net/lilinhai548/article/details/147255184)
+
++ [Motion Tracks：少样本模仿学习中人-机器人之间迁移的统一表征](https://blog.csdn.net/yorkhunter/article/details/147309144)
+
++ [【Linux我做主】探秘gcc/g++和动静态库](https://blog.csdn.net/2301_80064645/article/details/147154409)
+
