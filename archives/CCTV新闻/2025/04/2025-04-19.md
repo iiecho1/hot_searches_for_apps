@@ -229,3 +229,9 @@
 
 + [两名中国公民徒步时被海浪卷走致一人死亡、一人失踪，驻墨尔本总领馆提醒](https://news.cctv.com/2025/04/19/ARTIeKlpGn7RP8Ql5xDHzdYw250419.shtml)
 
++ [心相近丨中柬携手铺就发展振兴路](https://news.cctv.com/2025/04/19/ARTIh1JvwCWF4E1gwlN2tANS250419.shtml)
+
++ [习主席的丝路故事丨这条高速，成为当地百姓的“幸福路”](https://news.cctv.com/2025/04/19/ARTIDFAJcyYkPwqRG5jJsknX250419.shtml)
+
++ [俄总统要求政府制定非友好国家人员名单](https://news.cctv.com/2025/04/19/ARTIkxxpHPZpsNnDIrd8KnBy250419.shtml)
+
