@@ -183,3 +183,11 @@
 
 + [电流模式控制学习](https://blog.csdn.net/Cherish1ove/article/details/147311003)
 
++ [计算机视觉——基于使用 OpenCV 与 Python 实现相机标定畸变校正](https://blog.csdn.net/matt45m/article/details/147338294)
+
++ [如何增加 Elasticsearch 中的 primary shard 数量](https://blog.csdn.net/UbuntuTouch/article/details/147318516)
+
++ [基于FPGA的AES加解密系统verilog实现,包含testbench和开发板硬件测试](https://blog.csdn.net/hardware_player/article/details/147340029)
+
++ [用微信小程序制作一个性行为同意协议系统](https://blog.csdn.net/keny88888/article/details/147286372)
+

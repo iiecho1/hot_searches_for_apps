@@ -205,3 +205,15 @@
 
 + [加州州长起诉特朗普政府的三个线索](https://news.cctv.com/2025/04/19/ARTIwiV72kSmD3IB3MldXHiT250419.shtml)
 
++ [美国“对等关税”或将使德国损失2900亿欧元](https://news.cctv.com/2025/04/19/ARTIIRi6fHhOgxlwXFjJSJk1250419.shtml)
+
++ [“急于促成俄乌停火协议” 外媒：美国或准备承认克里米亚为俄领土](https://news.cctv.com/2025/04/19/ARTIvW6FObaAW3NmjurJbIti250419.shtml)
+
++ [马克龙试图吸引受美国政策影响的美科研人员赴法发展：在法国，科研是重中之重](https://news.cctv.com/2025/04/19/ARTIl1kgwmmPaJTry4dHSPc8250419.shtml)
+
++ [总台记者观察丨英国“PPT阶段”六代机撑得住它的“大战略”吗？](https://news.cctv.com/2025/04/19/ARTIY8x31GZaR8Ao5jWWAK3I250419.shtml)
+
++ [日本大阪府一住宅楼起火 数十人受伤](https://news.cctv.com/2025/04/19/ARTIzbvV7QJlYCFcFR0Ff8PZ250419.shtml)
+
++ [白宫慌了！将设工作组紧急处理对中国加征关税危机](https://news.cctv.com/2025/04/19/ARTIYIyTRRBEoHpPuclvOK6i250419.shtml)
+
