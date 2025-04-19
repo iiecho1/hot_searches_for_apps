@@ -199,3 +199,9 @@
 
 + [美议员访叙谈制裁 五角大楼缩减驻叙部队规模](https://news.cctv.com/2025/04/19/ARTIXyeDB6rAwBcfS5oEEInw250419.shtml)
 
++ [美国总统特朗普连续两天施压要求美联储降息 美媒称其意图“甩锅”](https://news.cctv.com/2025/04/19/ARTIDBcwILq6vOckd0Izm2vV250419.shtml)
+
++ [美国“关税风暴”引发信任危机 美元正面临结构性贬值](https://news.cctv.com/2025/04/19/ARTIpCsJycIDNyB1HYQitvEi250419.shtml)
+
++ [加州州长起诉特朗普政府的三个线索](https://news.cctv.com/2025/04/19/ARTIwiV72kSmD3IB3MldXHiT250419.shtml)
+
