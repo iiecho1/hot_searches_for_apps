@@ -175,3 +175,9 @@
 
 + [美国又一小飞机坠毁 机上载有4人 伤亡不明](https://news.cctv.com/2025/04/20/ARTIiSzz0FUWjfxRnMvxqt5p250420.shtml)
 
++ [以总理：作战目标实现前不会结束加沙军事行动](https://news.cctv.com/2025/04/20/ARTIhIC9JcYzOMPbZQfvJp6V250420.shtml)
+
++ [普京宣布俄军在复活节期间暂时停火](https://news.cctv.com/2025/04/20/ARTIX6uTecsPTr0QSZ5xUOjg250420.shtml)
+
++ [以总理：作战目标实现前不会结束加沙军事行动](https://news.cctv.com/2025/04/20/ARTIhlR3WTdUF9iUDcmHRpFv250420.shtml)
+
