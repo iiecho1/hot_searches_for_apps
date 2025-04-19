@@ -239,3 +239,9 @@
 
 + [安瓦尔总理在社交媒体上发了一段中文歌](https://news.cctv.com/2025/04/19/ARTI3LU5QnyLdzXAAUCr1eLY250419.shtml)
 
++ [胡塞武装称击落一架美军MQ-9无人机](https://news.cctv.com/2025/04/19/ARTItuKhpTaadouNNVIlYj9l250419.shtml)
+
++ [普京宣布俄军临时停火30小时](https://news.cctv.com/2025/04/19/ARTIWl3g3PS4MeyAzwiTWtEd250419.shtml)
+
++ [视频丨美伊第二轮核问题间接谈判结束 伊方称“结果是建设性的”](https://news.cctv.com/2025/04/19/ARTIwFNh96uYcUbxsaaPDd8z250419.shtml)
+

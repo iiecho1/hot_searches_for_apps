@@ -133,3 +133,7 @@
 
 + [“还好是东方，不然就火了”](https://m.acfun.cn/v/%3Fac%3D47158510)
 
++ [KARA Mister](https://m.acfun.cn/v/%3Fac%3D47159392)
+
++ [神雕侠侣VS火云邪神细致拆解，侠客与武者的对抗 | 漫谈周星驰电影《功夫》【14】](https://m.acfun.cn/v/%3Fac%3D47159293)
+
