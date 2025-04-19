@@ -165,3 +165,5 @@
 
 + [俄罗斯与乌克兰互换246名在押人员](https://news.cctv.com/2025/04/20/ARTIxIou42uBLLrCgJrZO3jw250420.shtml)
 
++ [埃及南部两车相撞造成至少8人死亡](https://news.cctv.com/2025/04/20/ARTIBa8msEuTkXu7XIr6B8XP250420.shtml)
+

@@ -109,3 +109,19 @@
 
 + [Flutter的原理及美团的实践（下）](https://blog.csdn.net/2501_91373349/article/details/147305278)
 
++ [PyTorch生成式人工智能实战（1）——神经网络与模型训练过程详解](https://blog.csdn.net/LOVEmy134611/article/details/146259374)
+
++ [哪种电脑更稳定？Mac？Windows？还是云电脑？ 实测解密](https://blog.csdn.net/ToDesk_Daas/article/details/146981566)
+
++ [电商|基于java+vue的农业电商系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/147199529)
+
++ [【Spring Boot 源码学习】深入 ConfigurableEnvironment 的初始化过程](https://blog.csdn.net/u012855229/article/details/147342351)
+
++ [【AI】——结合Ollama、Open WebUI和Docker本地部署可视化AI大语言模型](https://blog.csdn.net/shsjssnn/article/details/145991395)
+
++ [使用 Vue 开发登录页面的完整指南](https://blog.csdn.net/2302_79462679/article/details/147341141)
+
++ [工程化实践：Flutter项目结构与规范](https://blog.csdn.net/wang295689649/article/details/147341020)
+
++ [Linux工具学习之【gcc/g++】](https://blog.csdn.net/2401_83603768/article/details/147312560)
+
