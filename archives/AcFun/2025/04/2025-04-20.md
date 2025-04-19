@@ -75,3 +75,5 @@
 
 + [广东yama演唱『记忆缝线』粤语版OP《GRIDOUT》【小野贤章/花泽香菜/4月新番】](https://m.acfun.cn/v/%3Fac%3D47152974)
 
++ [不知道成为谁的光，所以先成为自己的光](https://m.acfun.cn/v/%3Fac%3D47159566)
+

@@ -167,3 +167,9 @@
 
 + [埃及南部两车相撞造成至少8人死亡](https://news.cctv.com/2025/04/20/ARTIBa8msEuTkXu7XIr6B8XP250420.shtml)
 
++ [“30小时不够” 泽连斯基建议延长停火至30天](https://news.cctv.com/2025/04/20/ARTI5XwL6ah1a1Fb0vY1p4Mu250420.shtml)
+
++ [韩国一战机飞行训练中掉落机炮吊舱和空油箱](https://news.cctv.com/2025/04/20/ARTIxCHRDIEivPUU7gCXWmmB250420.shtml)
+
++ [美国最高法院叫停政府驱逐委籍人员行动](https://news.cctv.com/2025/04/20/ARTIIUqJ6goBJZgrfQQKFpmr250420.shtml)
+
