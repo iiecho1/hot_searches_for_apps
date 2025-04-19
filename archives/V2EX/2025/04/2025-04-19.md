@@ -39,3 +39,7 @@
 
 + [每人提名一个你觉得 macOS 上最好玩的软件](https://www.v2ex.com/t/1126467)
 
++ [一个 CTO 的深度思考](https://www.v2ex.com/t/1126590)
+
++ [花 5.5W 报了个两年的英语培训](https://www.v2ex.com/t/1126622)
+
