@@ -169,3 +169,9 @@
 
 + [Docker多阶段构建深度优化指南：从GB到MB的镜像瘦身革命](https://blog.csdn.net/Lisiyang0928/article/details/147342931)
 
++ [【一起学Rust】使用Thunk工具链实现Rust应用对Windows XP/7的兼容性适配实战](https://blog.csdn.net/weixin_47754149/article/details/147135873)
+
++ [计算机视觉——JPEG AI 标准发布了图像压缩新突破与数字图像取证的挑战及应对策略](https://blog.csdn.net/matt45m/article/details/147289065)
+
++ [51单片机实验四：键盘检测原理及应用实现](https://blog.csdn.net/m0_69789599/article/details/147303520)
+
