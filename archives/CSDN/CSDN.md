@@ -175,3 +175,9 @@
 
 + [51单片机实验四：键盘检测原理及应用实现](https://blog.csdn.net/m0_69789599/article/details/147303520)
 
++ [【现代深度学习技术】循环神经网络04：循环神经网络](https://blog.csdn.net/Morse_Chen/article/details/147341541)
+
++ [深入探索Spring：Bean管理与Spring Boot自动配置原理](https://blog.csdn.net/2302_81090306/article/details/147339872)
+
++ [Elasticsearch：使用 ES|QL 进行搜索和过滤](https://blog.csdn.net/UbuntuTouch/article/details/147345600)
+

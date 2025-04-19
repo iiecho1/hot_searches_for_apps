@@ -195,3 +195,7 @@
 
 + [关税讹诈无法“让美国再次伟大” 特朗普“交易艺术”遭冷遇](https://news.cctv.com/2025/04/19/ARTIx4a9LCVsYHEpOJZXiWIW250419.shtml)
 
++ [“中国高质量发展扎实推进”引起舆论关注 中国经济韧性不容小觑](https://news.cctv.com/2025/04/19/ARTIzNnl5sBdjYUkjXQpBW0N250419.shtml)
+
++ [美议员访叙谈制裁 五角大楼缩减驻叙部队规模](https://news.cctv.com/2025/04/19/ARTIXyeDB6rAwBcfS5oEEInw250419.shtml)
+
