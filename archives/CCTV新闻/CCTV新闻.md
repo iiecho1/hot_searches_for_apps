@@ -169,3 +169,11 @@
 
 + [越南、马来西亚、柬埔寨三国Z世代眼中的中国](https://news.cctv.com/2025/04/19/ARTIzUhtZBPVctq9eIaJCMjC250419.shtml)
 
++ [美机构提起集体诉讼 请求法院恢复被撤销签证国际学生的合法身份](https://news.cctv.com/2025/04/19/ARTIoPdi95ulrMt6BuZeDhJ8250419.shtml)
+
++ [特朗普：乌克兰问题谈判短期内若无进展 美将不再斡旋](https://news.cctv.com/2025/04/19/ARTILxhxRg0D3olBMJqK9daw250419.shtml)
+
++ [美国“贸易吃亏论”根本站不住脚 美国服务业就业在贸易战中岌岌可危](https://news.cctv.com/2025/04/19/ARTI3TN29GaIq9QOk3wuI7QG250419.shtml)
+
++ [大国外交最前线丨友谊树下，和汪文斌大使共同回顾习主席的柬埔寨之行](https://news.cctv.com/2025/04/19/ARTI1jwN4BONVTm9Irt0n7UV250419.shtml)
+

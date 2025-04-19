@@ -151,3 +151,5 @@
 
 + [分布式笔记（一）](https://blog.csdn.net/yesyesyes_yes/article/details/147293840)
 
++ [Jupyter 中 Markdown 邂逅 LaTeX：一场知识的绮梦](https://blog.csdn.net/zzy985/article/details/147289308)
+
