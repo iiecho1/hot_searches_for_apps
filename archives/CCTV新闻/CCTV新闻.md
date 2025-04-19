@@ -161,3 +161,7 @@
 
 + [日本连续4个财年出现贸易逆差](https://news.cctv.com/2025/04/17/ARTIGMUKW8zGC1W24811QHZc250417.shtml)
 
++ [意大利内政部长：阿尔巴尼亚移民收容中心首次遣返外国公民](https://news.cctv.com/2025/04/20/ARTInO8ugO9GJcOzXdJMc5qY250420.shtml)
+
++ [俄罗斯与乌克兰互换246名在押人员](https://news.cctv.com/2025/04/20/ARTIxIou42uBLLrCgJrZO3jw250420.shtml)
+
