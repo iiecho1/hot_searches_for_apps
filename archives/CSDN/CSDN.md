@@ -125,3 +125,9 @@
 
 + [Linux工具学习之【gcc/g++】](https://blog.csdn.net/2401_83603768/article/details/147312560)
 
++ [JDBC 数据库连接全解析：从驱动配置到工具类封装](https://blog.csdn.net/qq_46987323/article/details/147260324)
+
++ [密码学中的盐值是什么？](https://blog.csdn.net/czhmx/article/details/147329721)
+
++ [c#开发大冲锋游戏登录器](https://blog.csdn.net/yuyueliuliu/article/details/147321606)
+
