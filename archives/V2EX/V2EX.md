@@ -43,3 +43,5 @@
 
 + [600 万行 tsv 打开方式](https://www.v2ex.com/t/1126768)
 
++ [唉，研发密钥泄露，导致整个私有 gitlab 被拖。。。](https://www.v2ex.com/t/1126773)
+
