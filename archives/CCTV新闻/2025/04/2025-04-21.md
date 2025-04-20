@@ -173,3 +173,7 @@
 
 + [叙利亚航空20日恢复大马士革直飞迪拜航班](https://news.cctv.com/2025/04/21/ARTIFgCMYsTUGBBqye8fmwPQ250421.shtml)
 
++ [以色列取消27名法国官员的入境签证](https://news.cctv.com/2025/04/21/ARTI158wS0yIUOlietpVSr96250421.shtml)
+
++ [以军称袭击加沙救护车队存在误判 巴方：充满谎言](https://news.cctv.com/2025/04/21/ARTIXCoaPUYdS3QeBHF7697D250421.shtml)
+
