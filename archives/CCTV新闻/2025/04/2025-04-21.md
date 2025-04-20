@@ -165,3 +165,9 @@
 
 + [也门多地遭到空袭](https://news.cctv.com/2025/04/21/ARTIswfEHdxRkwByOhVJopf5250421.shtml)
 
++ [韩战机训练中掉落机炮吊舱和空油箱 韩媒：或因误触按钮](https://news.cctv.com/2025/04/21/ARTIKWcUVMqQsw3Bkm4CVaaw250421.shtml)
+
++ [哈马斯代表团与土耳其外长就加沙停火举行会谈](https://news.cctv.com/2025/04/21/ARTI4o3VNhPsDhty9AYZsAP4250421.shtml)
+
++ [俄乌互指对方未遵守复活节临时停火提议](https://news.cctv.com/2025/04/21/ARTIJkmzYhj6IvD2eiMFueCu250421.shtml)
+

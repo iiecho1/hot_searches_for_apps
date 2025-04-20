@@ -133,3 +133,7 @@
 
 + [Docker - Harbor私有仓库：镜像漏洞扫描与自动同步策略全解析](https://blog.csdn.net/li_Michael/article/details/147358265)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的对抗训练与鲁棒性提升（205）](https://blog.csdn.net/atgfg/article/details/147232815)
+
++ [计算机网络八股——HTTP协议与HTTPS协议](https://blog.csdn.net/cyz322649/article/details/147348463)
+
