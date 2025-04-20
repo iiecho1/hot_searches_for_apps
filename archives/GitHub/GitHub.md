@@ -31,3 +31,15 @@
 
 + [wanglin2/mind-map](https://github.com/wanglin2/mind-map)
 
++ [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)
+
++ [wandb/openui](https://github.com/wandb/openui)
+

@@ -225,3 +225,13 @@
 
 + [日落金字塔](https://photo.cctv.com/2025/04/20/PHOAqg3tnCgBodFIGdneK4Mm250420.shtml)
 
++ [泽连斯基：俄军违反停火承诺 20日10时起前线俄炮击增加](https://news.cctv.com/2025/04/20/ARTID6yigwtH0lFU2PdRpVn9250420.shtml)
+
++ [俄国防部：俄军自19日18时起严格遵守停火规定](https://news.cctv.com/2025/04/20/ARTI9nvFkDalQt17NZr8kZFs250420.shtml)
+
++ [美国防部查信息外泄 防长四名亲信被解职](https://news.cctv.com/2025/04/20/ARTIQLQm6394tbPU7MSdTRtf250420.shtml)
+
++ [本轮巴以冲突已致加沙地带51201人死亡](https://news.cctv.com/2025/04/20/ARTIMYfDZjkcf1QZ2Hy5UgcP250420.shtml)
+
++ [美国福克斯新闻将基辅标为俄属 乌外交部要求道歉](https://news.cctv.com/2025/04/20/ARTItRnsMYLN65ohqKHLf1iJ250420.shtml)
+
