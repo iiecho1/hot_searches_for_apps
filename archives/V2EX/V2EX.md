@@ -53,3 +53,5 @@
 
 + [[送码] HEIF &amp; HEVC 转换器：压缩 iOS 照片库，释放存储空间](https://www.v2ex.com/t/1126783)
 
++ [准备给老婆买 15 万标普 500ETF 基金作为她的养老保险](https://www.v2ex.com/t/1126844)
+
