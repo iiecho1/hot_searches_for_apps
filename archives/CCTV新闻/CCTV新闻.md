@@ -161,3 +161,7 @@
 
 + [各方呼吁坚定维护多边贸易体制（环球热点）](https://news.cctv.com/2025/04/19/ARTIpqhhEqSaUwpySxidbQOu250419.shtml)
 
++ [承认出现误判 以军公布加沙救护车队遭袭事件调查结果](https://news.cctv.com/2025/04/21/ARTITEu5HTokmCkp0UXFn4bB250421.shtml)
+
++ [也门多地遭到空袭](https://news.cctv.com/2025/04/21/ARTIswfEHdxRkwByOhVJopf5250421.shtml)
+

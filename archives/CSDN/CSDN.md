@@ -101,3 +101,15 @@
 
 + [09-DevOps-Jenkins实现CI持续集成](https://blog.csdn.net/liangmengbk/article/details/147348830)
 
++ [计算机视觉——基于使用 OpenCV 与 Python 实现相机标定畸变校正](https://blog.csdn.net/matt45m/article/details/147338294)
+
++ [面向AI时代与数字化转型关键期：中小企业IT人才储备计划研究分析](https://blog.csdn.net/qq_35209305/article/details/147351598)
+
++ [Java 大视界 -- Java 大数据在智能医疗手术风险评估与术前方案制定中的应用探索（203）](https://blog.csdn.net/atgfg/article/details/147232778)
+
++ [【后端开发】Spring日志](https://blog.csdn.net/m0_50534425/article/details/147280274)
+
++ [【硬件系统架构】冯·诺依曼架构](https://blog.csdn.net/wnm23/article/details/147318586)
+
++ [【网络】数据链路层知识梳理](https://blog.csdn.net/2301_82213854/article/details/147376215)
+
