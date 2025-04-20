@@ -113,3 +113,21 @@
 
 + [【网络】数据链路层知识梳理](https://blog.csdn.net/2301_82213854/article/details/147376215)
 
++ [Python：使用web框架Flask搭建网站](https://blog.csdn.net/qq_44304677/article/details/147355397)
+
++ [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（16）：ReactExecutor](https://blog.csdn.net/margaret_lau_01/article/details/147349016)
+
++ [CPU与GPU之间的交互](https://blog.csdn.net/m0_57958061/article/details/147355675)
+
++ [Linux——进程概念](https://blog.csdn.net/unlockjy/article/details/147217070)
+
++ [深入解析C++驱动开发实战：优化高效稳定的驱动应用](https://blog.csdn.net/martian665/article/details/146974296)
+
++ [面向新一代扩展现实（XR）应用的物联网框架](https://blog.csdn.net/bit_mike/article/details/147355939)
+
++ [网络编程 - 4 ( TCP )](https://blog.csdn.net/Zz_waiting/article/details/147345777)
+
++ [【图片识别分类】如何快速识别照片中的水印文字，对图片进行关键字分类，快速整理水印相机拍摄图片，基于WPF和腾讯OCR的技术实现](https://blog.csdn.net/bbyn3316/article/details/147350630)
+
++ [WebSocket介绍](https://blog.csdn.net/2302_80826557/article/details/147352015)
+
