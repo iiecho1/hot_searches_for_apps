@@ -149,3 +149,9 @@
 
 + [在pycharm中搭建yolo11分类检测系统--PyQt5学习（二）](https://blog.csdn.net/weixin_53036073/article/details/147161905)
 
++ [最新Spring Security实战教程（十一）CSRF攻防实战 - 从原理到防护的最佳实践](https://blog.csdn.net/lhmyy521125/article/details/147314076)
+
++ [新能源汽车能量流测试的传感器融合技术应用指南](https://blog.csdn.net/weixin_62244995/article/details/147311272)
+
++ [云计算（Cloud Computing）概述——从AWS开始](https://blog.csdn.net/m0_65595995/article/details/147323724)
+

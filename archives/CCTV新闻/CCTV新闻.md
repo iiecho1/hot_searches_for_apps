@@ -203,3 +203,7 @@
 
 + [美国宣布削减科研经费 大批人才“出走”他国](https://news.cctv.com/2025/04/20/ARTI5tHyHyK5xWjysAkuFEBs250420.shtml)
 
++ [厄瓜多尔选举委员会正式宣布现任总统诺沃亚胜选](https://news.cctv.com/2025/04/20/ARTILhjxb0jaKxDMmCmevfCV250420.shtml)
+
++ [韩媒：战机飞行训练时掉落机炮吊舱和空油箱，韩国空军致歉](https://news.cctv.com/2025/04/20/ARTIwyyebGh2PH2x5rvAeLcZ250420.shtml)
+

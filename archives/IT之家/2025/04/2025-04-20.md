@@ -25,3 +25,27 @@
 
 + [图像生成技术新突破：小米大模型团队联合北大信科提出对角蛇形自回归图像生成方式，超越此前所有自回归方法](https://m.ithome.com/html/844835.htm)
 
++ [蔚来纯电小车 firefly 萤火虫上市，11.98 万元起](https://m.ithome.com/html/846523.htm)
+
++ [20.99 万元起，阿维塔 06 正式上市](https://m.ithome.com/html/846507.htm)
+
++ [华为余承东：问界 M8 上市 72 个小时大定突破 4.4 万台，很多家庭用户排队试新车](https://m.ithome.com/html/846476.htm)
+
++ [宇树科技回应未参与半马比赛：最近事情较多，独立团队表现差别很大](https://m.ithome.com/html/846527.htm)
+
++ [三星印度再次延长针对手机屏幕“绿线”问题的免费换屏期限，包括 Galaxy S21 系列等机型](https://m.ithome.com/html/846494.htm)
+
++ [小米 REDMI 显示器 G Pro 27Q 发布：1152 分区 Mini LED，2000nits 峰值亮度](https://m.ithome.com/html/846477.htm)
+
++ [vivo X200 Ultra 手机参数汇总：2K 等深四曲屏 + 骁龙 8 Elite，4 月 21 日发布](https://m.ithome.com/html/846509.htm)
+
++ [美团：“去其他平台跑单会被美团永久封号”系谣言](https://m.ithome.com/html/846512.htm)
+
++ [2025 款五菱缤果纯电小车上市：新增芋泥紫等配色，5.68 万元起](https://m.ithome.com/html/846456.htm)
+
++ [小米为 SU7 Ultra Club 首批会员推出限定礼盒：1:43 合金车模、纽北成绩限定车牌...](https://m.ithome.com/html/846511.htm)
+
++ [上汽董事长王晓秋：智己是集团一号工程和唯一的高端品牌](https://m.ithome.com/html/846482.htm)
+
++ [零跑汽车智驾软件全面免费，仍有 1314 位用户款项无法原路返还](https://m.ithome.com/html/846075.htm)
+
