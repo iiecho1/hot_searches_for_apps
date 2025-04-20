@@ -183,3 +183,5 @@
 
 + [CentOS 7系统yum报错解决方案（CentOS 7官方EOL问题修复）](https://blog.csdn.net/2301_78816995/article/details/147334764)
 
++ [FPGA系列之DDS信号发生器设计（DE2-115开发板）](https://blog.csdn.net/star68_/article/details/147352433)
+

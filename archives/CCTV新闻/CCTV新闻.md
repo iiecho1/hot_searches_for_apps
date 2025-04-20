@@ -235,3 +235,19 @@
 
 + [美国福克斯新闻将基辅标为俄属 乌外交部要求道歉](https://news.cctv.com/2025/04/20/ARTItRnsMYLN65ohqKHLf1iJ250420.shtml)
 
++ [特稿丨全球南方声势卓然壮大的历史逻辑——写在万隆会议召开70周年之际](https://news.cctv.com/2025/04/20/ARTIJ0ASHgAyaSsuPhvPENWp250420.shtml)
+
++ [新华时评丨推动中越命运共同体建设行稳致远](https://news.cctv.com/2025/04/20/ARTIt0hdDIglQPzOivYGTzYw250420.shtml)
+
++ [书写周边命运共同体建设新篇章（和音）](https://news.cctv.com/2025/04/20/ARTIGbAtbRs42GL5pHqbJxMI250420.shtml)
+
++ [上合组织秘书长：中国不断助力本组织可持续发展，深化区域互联互通](https://news.cctv.com/2025/04/20/ARTIsbcANEE44wZ2WxrqsKxL250420.shtml)
+
++ [特写：肯尼亚执政党总书记提出一个特别请求](https://news.cctv.com/2025/04/20/ARTILT3NZuSCOpOUrS88Ool4250420.shtml)
+
++ [美伊再会谈 分歧仍无解](https://news.cctv.com/2025/04/20/ARTI5CdofrpWW8FdRd6TVmus250420.shtml)
+
++ [美国近期政策对科研人才造成冲击](https://news.cctv.com/2025/04/20/ARTIFYji5Eaal63xkzq4098v250420.shtml)
+
++ [从习主席署名文章看大国外交 | 中柬人民双向奔赴的“暖心”微镜头](https://news.cctv.com/2025/04/20/ARTIbz2WxHgq1X2D9gAeVpg0250420.shtml)
+
