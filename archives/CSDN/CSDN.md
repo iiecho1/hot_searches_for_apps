@@ -133,3 +133,5 @@
 
 + [Flink介绍——实时计算核心论文之Kafka论文详解](https://blog.csdn.net/qq_41478243/article/details/145837191)
 
++ [Elasticsearch：使用 ES|QL 进行搜索和过滤](https://blog.csdn.net/UbuntuTouch/article/details/147345600)
+

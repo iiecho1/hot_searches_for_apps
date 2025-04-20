@@ -181,3 +181,9 @@
 
 + [以总理：作战目标实现前不会结束加沙军事行动](https://news.cctv.com/2025/04/20/ARTIhlR3WTdUF9iUDcmHRpFv250420.shtml)
 
++ [习近平东南亚之行，这些细节令人难忘](https://news.cctv.com/2025/04/20/ARTIA1FuDIw2nYv5PJA29JxX250420.shtml)
+
++ [第1视点｜构建新时代全天候中柬命运共同体](https://news.cctv.com/2025/04/20/ARTIcTcL99X97kHj1Sb2qKTL250420.shtml)
+
++ [金句海报｜关于中柬关系，习近平这样阐述](https://news.cctv.com/2025/04/20/ARTICLSQHAiDdIwqGDW3rBwO250420.shtml)
+
