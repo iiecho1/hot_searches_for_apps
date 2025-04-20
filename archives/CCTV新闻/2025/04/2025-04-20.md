@@ -187,3 +187,9 @@
 
 + [金句海报｜关于中柬关系，习近平这样阐述](https://news.cctv.com/2025/04/20/ARTICLSQHAiDdIwqGDW3rBwO250420.shtml)
 
++ [也门胡塞武装称击落美军一架无人机](https://news.cctv.com/2025/04/20/ARTIINA4oR9P0Ia9ml6UtpPu250420.shtml)
+
++ [伊朗外长：伊美第三轮会谈将于26日在阿曼举行](https://news.cctv.com/2025/04/20/ARTIXHs0WhFFJUIPjQVogiag250420.shtml)
+
++ [调查显示特朗普在经济问题上的支持率跌至其总统生涯最低](https://news.cctv.com/2025/04/20/ARTIG9nLm6VDWCScmdqskljZ250420.shtml)
+

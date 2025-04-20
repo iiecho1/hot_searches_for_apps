@@ -135,3 +135,5 @@
 
 + [Elasticsearch：使用 ES|QL 进行搜索和过滤](https://blog.csdn.net/UbuntuTouch/article/details/147345600)
 
++ [ubantu18.04（Hadoop3.1.3）之MapReduce编程](https://blog.csdn.net/m0_73595857/article/details/147333243)
+
