@@ -185,3 +185,9 @@
 
 + [FPGA系列之DDS信号发生器设计（DE2-115开发板）](https://blog.csdn.net/star68_/article/details/147352433)
 
++ [基于Djiango实现中药材数据分析与可视化系统](https://blog.csdn.net/weixin_44510615/article/details/147313286)
+
++ [09-DevOps-Jenkins实现CI持续集成](https://blog.csdn.net/liangmengbk/article/details/147348830)
+
++ [【图片识别分类】如何快速识别照片中的水印文字，对图片进行关键字分类，快速整理水印相机拍摄图片，基于WPF和腾讯OCR的技术实现](https://blog.csdn.net/bbyn3316/article/details/147350630)
+
