@@ -35,3 +35,11 @@
 
 + [目前外企小白，英文已经丢了好久，和老外交流总是卡壳。于是组建了一个 Let`s Speak English 群，让我们一起说英文！](https://www.v2ex.com/t/1126765)
 
++ [大龄程序员的一些工作上的感受](https://www.v2ex.com/t/1126789)
+
++ [求教：怎么才能做到 [不以物喜，不以己悲] ？](https://www.v2ex.com/t/1126724)
+
++ [广东宽带质量](https://www.v2ex.com/t/1126715)
+
++ [600 万行 tsv 打开方式](https://www.v2ex.com/t/1126768)
+

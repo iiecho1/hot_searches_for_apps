@@ -213,3 +213,13 @@
 
 + [“鲲龙”AG600获得市场“准入证” “中国制造”再添“利器”](https://news.cctv.com/2025/04/20/ARTINuA3JO6mZjBYxpG8ITwe250420.shtml)
 
++ [学签被撤销+多国旅行警告 赴美已变“高危行为”？](https://news.cctv.com/2025/04/20/ARTIkNarD9TxuCCiJ8T3wAuP250420.shtml)
+
++ [中国政府援缅第七批紧急人道主义地震救灾物资抵达缅甸](https://news.cctv.com/2025/04/20/ARTIP0W5sJCOx3yumI9fL0ds250420.shtml)
+
++ [美关税政策影响本国消费者利益 多个城市举行抗议活动](https://news.cctv.com/2025/04/20/ARTI5q4c6jMw3PPIxP3gleov250420.shtml)
+
++ [英国财政大臣：应与中国建立更深层伙伴关系 不与其接触非常愚蠢](https://news.cctv.com/2025/04/20/ARTIQ7M8C8IVsLH7ph4020J3250420.shtml)
+
++ [美政府称“整改邮件”发错了 哈佛大学：你们就是这么想的](https://news.cctv.com/2025/04/20/ARTIOLomMi8uZa1OAPAcUpdk250420.shtml)
+
