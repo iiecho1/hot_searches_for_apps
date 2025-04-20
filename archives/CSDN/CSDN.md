@@ -165,3 +165,7 @@
 
 + [基于electron35+vue3.5+deepseek+arco实战桌面端AI流式聊天系统](https://blog.csdn.net/yanxinyun1990/article/details/147314363)
 
++ [Qt编写推流程序/支持webrtc265/从此不用再转码/打开新世界的大门](https://blog.csdn.net/feiyangqingyun/article/details/147349734)
+
++ [Webpack在Vue项目中的应用与Vite对比](https://blog.csdn.net/m0_62364592/article/details/147323721)
+

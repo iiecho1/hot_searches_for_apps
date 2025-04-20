@@ -211,3 +211,5 @@
 
 + [俄“联盟MS-26”载人飞船安全返回地球](https://news.cctv.com/2025/04/20/ARTIiH938qmf5Qmx57nln7DB250420.shtml)
 
++ [“鲲龙”AG600获得市场“准入证” “中国制造”再添“利器”](https://news.cctv.com/2025/04/20/ARTINuA3JO6mZjBYxpG8ITwe250420.shtml)
+
