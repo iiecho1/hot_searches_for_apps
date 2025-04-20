@@ -137,3 +137,15 @@
 
 + [ubantu18.04（Hadoop3.1.3）之MapReduce编程](https://blog.csdn.net/m0_73595857/article/details/147333243)
 
++ [2025年MathorCup数学应用挑战赛D题问题一求解与整体思路分析](https://blog.csdn.net/qq_33690821/article/details/147336689)
+
++ [GitHub 趋势日报 (2025年04月16日)](https://blog.csdn.net/ShrCheng/article/details/147297593)
+
++ [Vue数据双向绑定机制及响应式原理深度解析（Vue2 vs Vue3）](https://blog.csdn.net/weixin_55862073/article/details/147354439)
+
++ [探索 Higress：下一代云原生 API 网关](https://blog.csdn.net/problc/article/details/147341175)
+
++ [【Redis】Redis基本命令（1）](https://blog.csdn.net/2303_80187476/article/details/147306103)
+
++ [在pycharm中搭建yolo11分类检测系统--PyQt5学习（二）](https://blog.csdn.net/weixin_53036073/article/details/147161905)
+

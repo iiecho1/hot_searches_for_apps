@@ -193,3 +193,13 @@
 
 + [调查显示特朗普在经济问题上的支持率跌至其总统生涯最低](https://news.cctv.com/2025/04/20/ARTIG9nLm6VDWCScmdqskljZ250420.shtml)
 
++ [“像黑暗风暴一样悬在头上”美国滥施关税搅乱全球经济秩序](https://news.cctv.com/2025/04/20/ARTIjTmXy1aegiKUL5tfAWrz250420.shtml)
+
++ [内部矛盾频发 美最高法院紧急叫停特朗普驱逐移民行动](https://news.cctv.com/2025/04/20/ARTIcBCfRzi6DolMzRFjfbVj250420.shtml)
+
++ [尹锡悦涉嫌发动内乱案第二次庭审21日举行 媒体获准拍摄](https://news.cctv.com/2025/04/20/ARTItban3c6VfXqACTaZNDB8250420.shtml)
+
++ [撤销超千名留学生签证 特朗普政府面临集体诉讼](https://news.cctv.com/2025/04/20/ARTI2BI4L2DkLdhegcVOSOWk250420.shtml)
+
++ [美国宣布削减科研经费 大批人才“出走”他国](https://news.cctv.com/2025/04/20/ARTI5tHyHyK5xWjysAkuFEBs250420.shtml)
+
