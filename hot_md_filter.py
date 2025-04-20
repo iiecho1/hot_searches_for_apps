@@ -72,7 +72,7 @@ def process_api_data(api_data, base_path):
             print("title",title, "href:",href)
             if title not in existing_content:
                 # 对 href 进行 URL 编码，避免 Markdown 将%20重新渲染为空格。（主要针对微博）
-                encoded_href = quote(href, safe=":/=?")
+                encoded_href = quote(href, safe=":/=?&")
                 new_content += f"+ [{title}]({encoded_href})\n\n"
 
         if new_content:
