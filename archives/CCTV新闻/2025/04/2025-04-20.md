@@ -207,3 +207,7 @@
 
 + [韩媒：战机飞行训练时掉落机炮吊舱和空油箱，韩国空军致歉](https://news.cctv.com/2025/04/20/ARTIwyyebGh2PH2x5rvAeLcZ250420.shtml)
 
++ [这是一个时代的结束](https://news.cctv.com/2025/04/20/ARTIwEcBbQR0q5lzNM5wfBmE250420.shtml)
+
++ [俄“联盟MS-26”载人飞船安全返回地球](https://news.cctv.com/2025/04/20/ARTIiH938qmf5Qmx57nln7DB250420.shtml)
+

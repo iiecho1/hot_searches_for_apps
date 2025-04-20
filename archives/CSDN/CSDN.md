@@ -161,3 +161,7 @@
 
 + [深入规划 Elasticsearch 索引：策略与实践](https://blog.csdn.net/N201871643/article/details/147340553)
 
++ [模拟投资大师思维：AI对冲基金开源项目详解](https://blog.csdn.net/u014390502/article/details/147355551)
+
++ [基于electron35+vue3.5+deepseek+arco实战桌面端AI流式聊天系统](https://blog.csdn.net/yanxinyun1990/article/details/147314363)
+
