@@ -191,3 +191,5 @@
 
 + [【图片识别分类】如何快速识别照片中的水印文字，对图片进行关键字分类，快速整理水印相机拍摄图片，基于WPF和腾讯OCR的技术实现](https://blog.csdn.net/bbyn3316/article/details/147350630)
 
++ [从零开始学习 Lucene.Net：.NET Core 中的全文搜索与索引管理](https://blog.csdn.net/weixin_48916144/article/details/147349468)
+
