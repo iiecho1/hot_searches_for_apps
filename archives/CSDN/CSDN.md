@@ -155,3 +155,9 @@
 
 + [云计算（Cloud Computing）概述——从AWS开始](https://blog.csdn.net/m0_65595995/article/details/147323724)
 
++ [【Qt】QMainWindow类](https://blog.csdn.net/weixin_50776420/article/details/147351512)
+
++ [如何进行Python的学习：知识体系、实践方法与思维习惯](https://blog.csdn.net/weixin_47362565/article/details/147355988)
+
++ [深入规划 Elasticsearch 索引：策略与实践](https://blog.csdn.net/N201871643/article/details/147340553)
+
