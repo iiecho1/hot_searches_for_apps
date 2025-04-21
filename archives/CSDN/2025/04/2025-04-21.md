@@ -153,3 +153,11 @@
 
 + [软件开发指南——GUI 开发方案推荐](https://blog.csdn.net/qq_45812950/article/details/147356014)
 
++ [卷积神经网络（CNN）详解](https://blog.csdn.net/zdx2585503940/article/details/147334299)
+
++ [使用Redis实现实时排行榜](https://blog.csdn.net/iku_n/article/details/147355322)
+
++ [【Linux篇章】进程通信黑科技：匿名管道的暗码传递与命名管道的实名使命](https://blog.csdn.net/2401_82648291/article/details/145869795)
+
++ [【笔记】网络安全管理](https://blog.csdn.net/m0_46141283/article/details/147347292)
+
