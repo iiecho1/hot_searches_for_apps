@@ -205,3 +205,9 @@
 
 + [美“露西”号探测器再次飞越小行星](https://news.cctv.com/2025/04/21/ARTIrnCFhvxTINfjq5dC4Dcr250421.shtml)
 
++ [俄国防部：休战结束后 俄武装部队继续开展特别军事行动](https://military.cctv.com/2025/04/21/ARTIrc79Bt4BEWRCKnOLgzYB250421.shtml)
+
++ [罗马教皇方济各去世](https://news.cctv.com/2025/04/21/ARTIQN60t2slPro135uUyNTB250421.shtml)
+
++ [中国与东盟共享自由贸易“蛋糕”（国际论道）](https://news.cctv.com/2025/04/21/ARTIUqVLQchFj6YstZtjiNqu250421.shtml)
+
