@@ -239,3 +239,5 @@
 
 + [JSON-RPC远程控制](https://blog.csdn.net/m0_49476241/article/details/147360116)
 
++ [【深度学习—李宏毅教程笔记】各式各样的 Attention](https://blog.csdn.net/m0_56997192/article/details/147356256)
+
