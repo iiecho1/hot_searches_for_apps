@@ -161,3 +161,11 @@
 
 + [伊朗外长: 下一轮伊美核问题谈判将于26日举行](https://news.cctv.com/2025/04/19/ARTIh1yJkgSJD6lDCssAz5W5250419.shtml)
 
++ [日本米价连续15周创新高](https://news.cctv.com/2025/04/22/ARTIwEqksOkMdxqCgWb4hoyQ250421.shtml)
+
++ [普京批准俄伊全面战略伙伴关系条约](https://news.cctv.com/2025/04/22/ARTIymSFOavA0kKztQusRsNJ250421.shtml)
+
++ [“国际中文日”庆祝活动在科威特等国举行](https://news.cctv.com/2025/04/22/ARTIxky8STLDljXUTWea3FoW250421.shtml)
+
++ [投资者加速“卖出美国”交易](https://news.cctv.com/2025/04/22/ARTIoWEwhDXab3qdUuVCZXiG250421.shtml)
+
