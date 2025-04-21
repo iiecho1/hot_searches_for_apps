@@ -241,3 +241,5 @@
 
 + [【深度学习—李宏毅教程笔记】各式各样的 Attention](https://blog.csdn.net/m0_56997192/article/details/147356256)
 
++ [kimi+deepseek制作PPT](https://blog.csdn.net/2401_83604604/article/details/147350560)
+

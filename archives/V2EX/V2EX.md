@@ -47,3 +47,5 @@
 
 + [朋友说自助洗车有前景，我信了，你们觉得呢？](https://www.v2ex.com/t/1127028)
 
++ [M4 Mac Mini 跌破 2900 了](https://www.v2ex.com/t/1126938)
+
