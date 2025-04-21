@@ -211,3 +211,9 @@
 
 + [中国与东盟共享自由贸易“蛋糕”（国际论道）](https://news.cctv.com/2025/04/21/ARTIUqVLQchFj6YstZtjiNqu250421.shtml)
 
++ [日本大米价格连涨15周 5公斤约218元人民币](https://news.cctv.com/2025/04/21/ARTIFEw16LWF3uN3PUUq25Yt250421.shtml)
+
++ [本轮巴以冲突已致加沙地带51240人死亡](https://news.cctv.com/2025/04/21/ARTIzL6RbQrL8H56jcyU8Bvf250421.shtml)
+
++ [法国再次发生监狱遭袭事件 一周内已有多起](https://news.cctv.com/2025/04/21/ARTISd4EJSp0x8lbvP3VTWaQ250421.shtml)
+

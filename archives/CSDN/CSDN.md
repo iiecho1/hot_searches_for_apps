@@ -215,3 +215,15 @@
 
 + [软件设计师/系统架构师---计算机网络](https://blog.csdn.net/qq_54122623/article/details/144913141)
 
++ [【Linux】进程替换与自定义 Shell：原理与实战](https://blog.csdn.net/2401_83431652/article/details/147336365)
+
++ [ubuntu18.04 Nginx配置quic支持（碰到的问题以及解决的步骤）](https://blog.csdn.net/weixin_52669835/article/details/147372025)
+
++ [Java学习手册：Web 应用架构概述](https://blog.csdn.net/weixin_44978801/article/details/147349765)
+
++ [交换机与路由器的主要区别：深入分析其工作原理与应用场景](https://blog.csdn.net/weixin_42132035/article/details/147352693)
+
++ [网络安全知识点](https://blog.csdn.net/weixin_45737215/article/details/146245549)
+
++ [FPGA学习(五)——DDS信号发生器设计](https://blog.csdn.net/Pijiojio/article/details/147363985)
+
