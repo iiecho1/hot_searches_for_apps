@@ -109,3 +109,25 @@
 
 + [JSON-RPC远程控制](https://blog.csdn.net/m0_49476241/article/details/147360116)
 
++ [卷积神经网络（CNN）详解](https://blog.csdn.net/zdx2585503940/article/details/147334299)
+
++ [将 DeepSeek 集成到 Spring Boot 项目实现通过 AI 对话方式操作后台数据](https://blog.csdn.net/weixin_42607526/article/details/147353703)
+
++ [【C#】.net core 6.0调用MVC API接口时，提示Unsupported Media Type，状态码415](https://blog.csdn.net/lmy_520/article/details/147284652)
+
++ [详解Windows（一）——系统盘下目录及文件详解](https://blog.csdn.net/m0_73552988/article/details/147344851)
+
++ [Spring Boot 核心模块全解析：12 个模块详解及作用说明](https://blog.csdn.net/weixin_45187434/article/details/147385453)
+
++ [【仿Mudou库one thread per loop式并发服务器实现】HTTP协议模块实现](https://blog.csdn.net/fight_p/article/details/146778362)
+
++ [【1】云原生，kubernetes 与 Docker 的关系](https://blog.csdn.net/m0_67480146/article/details/147362574)
+
++ [Docker - Harbor私有仓库：镜像漏洞扫描与自动同步策略全解析](https://blog.csdn.net/li_Michael/article/details/147358265)
+
++ [Elasticsearch：使用 ES|QL 进行搜索和过滤](https://blog.csdn.net/UbuntuTouch/article/details/147345600)
+
++ [【iOS】alloc & init & new底层原理](https://blog.csdn.net/2301_80095702/article/details/147374565)
+
++ [【实战中提升自己】内网安全部署之dot1x部署 本地与集成AD域的主流方式（附带MAC认证）](https://blog.csdn.net/weixin_46948473/article/details/147374233)
+
