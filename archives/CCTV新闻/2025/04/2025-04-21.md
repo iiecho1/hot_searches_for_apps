@@ -199,3 +199,9 @@
 
 + [“保护主义没有出路，合作共赢是人心所向”（国际视点）](https://news.cctv.com/2025/04/21/ARTIElCINl2qUzfPDbtNfeMv250421.shtml)
 
++ [坚守公平正义人间正道（和音）](https://news.cctv.com/2025/04/21/ARTIIPkWK9asxBKCppdty088250421.shtml)
+
++ [书写周边命运共同体建设新篇章——国际社会高度评价习近平主席东南亚之行](https://news.cctv.com/2025/04/21/ARTIXySWXms5rYpAC1ruEFFj250421.shtml)
+
++ [美“露西”号探测器再次飞越小行星](https://news.cctv.com/2025/04/21/ARTIrnCFhvxTINfjq5dC4Dcr250421.shtml)
+

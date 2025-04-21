@@ -193,3 +193,9 @@
 
 + [单例模式与消费者生产者模型，以及线程池的基本认识与模拟实现](https://blog.csdn.net/2302_81249757/article/details/147340800)
 
++ [【现代深度学习技术】循环神经网络05：循环神经网络的从零开始实现](https://blog.csdn.net/Morse_Chen/article/details/147381088)
+
++ [计算机网络——应用层](https://blog.csdn.net/weixin_74019079/article/details/147330565)
+
++ [Redis 的持久化机制（RDB, AOF）对微服务的数据一致性和恢复性有何影响？如何选择？](https://blog.csdn.net/nmsoftklb/article/details/147150783)
+
