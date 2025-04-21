@@ -29,3 +29,13 @@
 
 + [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
 
++ [allenai/olmocr](https://github.com/allenai/olmocr)
+
++ [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+
++ [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
+
