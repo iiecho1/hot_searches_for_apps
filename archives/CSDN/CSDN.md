@@ -141,3 +141,15 @@
 
 + [一种企业级数据仓库（基于GreenPlum，离线，T+1）的架构模式中，以存储过程为基本单元，实现数据校验一种方案](https://blog.csdn.net/qq_43580742/article/details/147364710)
 
++ [【C到Java的深度跃迁：从指针到对象，从过程到生态】第三模块·面向对象深度进化 —— 第八章 类与对象：从struct到class的量子跃迁](https://blog.csdn.net/2401_86018842/article/details/147373269)
+
++ [【AI 大模型】大模型行业融合与技术落地探索 ( 百度千帆模型 模型广场 | Hugging Face 模型广场 | 模型类型简介 | 文本生成模型 | 图像理解模型 | 深度推理模型 )](https://blog.csdn.net/han1202012/article/details/147241489)
+
++ [基于 Vue3 + ECharts + GeoJson 实现区域地图钻取功能详解](https://blog.csdn.net/mss359681091/article/details/147376781)
+
++ [基于maven-jar-plugin打造一款自动识别主类的maven打包插件](https://blog.csdn.net/lilinhai548/article/details/147366572)
+
++ [详解Windows（一）——系统盘下目录及文件详解](https://blog.csdn.net/m0_73552988/article/details/147344851)
+
++ [软件开发指南——GUI 开发方案推荐](https://blog.csdn.net/qq_45812950/article/details/147356014)
+
