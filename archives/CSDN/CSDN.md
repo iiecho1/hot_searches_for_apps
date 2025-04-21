@@ -169,3 +169,11 @@
 
 + [HTMLCSS实现网页轮播图](https://blog.csdn.net/2401_88691693/article/details/147370153)
 
++ [Java 大视界 -- Java 大数据在智能政务公共资源交易数据分析与监管中的应用（202）](https://blog.csdn.net/atgfg/article/details/147194356)
+
++ [AI大模型ms-swift框架实战指南（四）：大模型推理实践完全指南](https://blog.csdn.net/xiaobing259/article/details/147360546)
+
++ [【C++软件实战问题排查经验分享】UI界面卡顿 | CPU占用高 | GDI对象泄漏 | 线程堵塞 系列问题排查总结](https://blog.csdn.net/chenlycly/article/details/147382470)
+
++ [高并发架构三剑客：单例模式×阻塞队列×生产者消费者实战秘籍](https://blog.csdn.net/2302_81247414/article/details/147285905)
+

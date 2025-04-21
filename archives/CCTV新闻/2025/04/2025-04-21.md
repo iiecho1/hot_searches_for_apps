@@ -187,3 +187,5 @@
 
 + [烟雾探测器失效 美国纽约皇后区一房屋起火致3死1伤](https://news.cctv.com/2025/04/21/ARTIUKQEOpGnzD68yNTU2ki0250421.shtml)
 
++ [特朗普称希望俄乌本周内达成协议 俄乌互指对方不停火](https://military.cctv.com/2025/04/21/ARTIV6mvT6Sq24VdBTbKac4c250421.shtml)
+
