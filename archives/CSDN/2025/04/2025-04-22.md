@@ -135,3 +135,9 @@
 
 + [ubuntu18.04 Nginx配置quic支持（碰到的问题以及解决的步骤）](https://blog.csdn.net/weixin_52669835/article/details/147372025)
 
++ [论文阅读：2025 arxiv AI Alignment: A Comprehensive Survey](https://blog.csdn.net/WhiffeYF/article/details/147353165)
+
++ [Java学习手册：Web 应用架构概述](https://blog.csdn.net/weixin_44978801/article/details/147349765)
+
++ [【仓颉 + 鸿蒙 + AI Agent】CangjieMagic框架（17）：PlanReactExecutor](https://blog.csdn.net/margaret_lau_01/article/details/147359845)
+
