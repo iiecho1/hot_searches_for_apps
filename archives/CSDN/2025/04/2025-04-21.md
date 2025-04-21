@@ -199,3 +199,9 @@
 
 + [Redis 的持久化机制（RDB, AOF）对微服务的数据一致性和恢复性有何影响？如何选择？](https://blog.csdn.net/nmsoftklb/article/details/147150783)
 
++ [汽车驱动轮惯量：数学建模深度解析与等效质量法如何实现3.9%精度奇迹](https://blog.csdn.net/weixin_62244995/article/details/147383120)
+
++ [Vue 组件化开发](https://blog.csdn.net/QQ1257871322/article/details/147376118)
+
++ [基于Python的推荐算法的电影推荐系统的设计](https://blog.csdn.net/Candy5204/article/details/147362708)
+
