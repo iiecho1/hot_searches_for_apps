@@ -161,3 +161,11 @@
 
 + [【笔记】网络安全管理](https://blog.csdn.net/m0_46141283/article/details/147347292)
 
++ [TensorFlow深度学习实战（13）——循环神经网络详解](https://blog.csdn.net/LOVEmy134611/article/details/147380003)
+
++ [突破网页数据集获取难题：Web Unlocker API 助力 AI 训练与微调数据集全方位解决方案](https://blog.csdn.net/qq_44866828/article/details/147377934)
+
++ [从内核到用户态：Linux信号内核结构、保存与处理全链路剖析](https://blog.csdn.net/2301_80774875/article/details/147374983)
+
++ [HTMLCSS实现网页轮播图](https://blog.csdn.net/2401_88691693/article/details/147370153)
+

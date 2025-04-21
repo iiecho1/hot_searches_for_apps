@@ -179,3 +179,11 @@
 
 + [东南亚之行，习近平这样向世界传递中国声音](https://news.cctv.com/2025/04/21/ARTIBao2Uq46Tu3n2iYsnCvz250421.shtml)
 
++ [韩国空军：战机机炮吊舱掉落事故由飞行员误触按钮引发](https://military.cctv.com/2025/04/21/ARTISbUOPkmQnRRuoCZmWLcW250421.shtml)
+
++ [美防长被爆再陷泄密事件：曾另建Signal群聊，向亲属泄露空袭胡塞武装计划](https://news.cctv.com/2025/04/21/ARTIO8G4pSR99GJUY6TDsQWo250421.shtml)
+
++ [委内瑞拉要求立即释放被美驱逐到萨尔瓦多关押的委公民](https://news.cctv.com/2025/04/21/ARTInIION9clWHvqDgRuKIkE250421.shtml)
+
++ [烟雾探测器失效 美国纽约皇后区一房屋起火致3死1伤](https://news.cctv.com/2025/04/21/ARTIUKQEOpGnzD68yNTU2ki0250421.shtml)
+
