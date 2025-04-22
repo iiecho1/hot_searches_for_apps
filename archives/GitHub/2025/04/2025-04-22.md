@@ -27,3 +27,13 @@
 
 + [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
 
++ [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+
++ [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
+
++ [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+
++ [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+

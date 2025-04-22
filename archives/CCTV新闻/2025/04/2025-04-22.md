@@ -205,3 +205,7 @@
 
 + [巴基斯坦南部发生交通事故致16人死亡](https://news.cctv.com/2025/04/22/ARTIVndRJgrKqhKLVFI5mIpJ250422.shtml)
 
++ [印尼塔劳群岛发生6.2级地震，震源深度140千米](https://news.cctv.com/2025/04/22/ARTI6HPMpIgb8FY0SkGyXkzu250422.shtml)
+
++ [印尼塔劳群岛附近发生6.3级地震](https://news.cctv.com/2025/04/22/ARTIRQLZHgeLHZJieXNtoWF5250422.shtml)
+
