@@ -167,3 +167,5 @@
 
 + [印控克什米尔地区枪击事件致至少25人遇难](https://news.cctv.com/2025/04/23/ARTIcQhoXqNAk0yQNkj8mOkP250423.shtml)
 
++ [胡塞武装称袭击美航母并击落MQ-9型无人机](https://news.cctv.com/2025/04/23/ARTITuHBEhYIKci8gmpDYCCL250423.shtml)
+
