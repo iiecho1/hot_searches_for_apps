@@ -177,3 +177,9 @@
 
 + [普京释放对话信号 泽连斯基敲定四方会谈](https://news.cctv.com/2025/04/22/ARTIng0FQQJz658RwAPcbWcR250422.shtml)
 
++ [华尔街“失血”进行时：三大因素逼走国际投资者](https://news.cctv.com/2025/04/22/ARTINCjRrRc99DuV6B1E5rbh250422.shtml)
+
++ [特朗普：关税真能取代所得税 经济学家：真不能](https://news.cctv.com/2025/04/22/ARTI6ElfaCzK8LwKrpIfq3Iy250422.shtml)
+
++ [专访丨越南经济学家：越中务实合作潜力巨大](https://news.cctv.com/2025/04/22/ARTIWLXSZGGiSVp8XVjJMvsI250422.shtml)
+

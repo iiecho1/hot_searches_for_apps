@@ -151,3 +151,9 @@
 
 + [【KWDB 创作者计划】_本地化部署与使用KWDB 深度实践](https://blog.csdn.net/2302_78391795/article/details/147169899)
 
++ [Trae AI IDE：重新定义智能开发的未来](https://blog.csdn.net/2301_76341691/article/details/147399409)
+
++ [【Qt】QDialog类](https://blog.csdn.net/weixin_50776420/article/details/147351520)
+
++ [SpringBoot 基本原理](https://blog.csdn.net/2301_79976046/article/details/147374721)
+

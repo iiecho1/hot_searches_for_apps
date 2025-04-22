@@ -33,3 +33,15 @@
 
 + [csdn 是不是挂掉了啊](https://www.v2ex.com/t/1127026)
 
++ [请问下，拍婚纱照有没有需要注意的事项？](https://www.v2ex.com/t/1127174)
+
++ [近万元的 Windows 轻薄本，除了它是 Windows，拿什么和 MBA 打？](https://www.v2ex.com/t/1127102)
+
++ [今日金价 816](https://www.v2ex.com/t/1127160)
+
++ [苹果的市场营销部门是不是进了什么内鬼出这种广告？](https://www.v2ex.com/t/1127191)
+
++ [2025 年有什么可以长期持有的海外手机号](https://www.v2ex.com/t/1126983)
+
++ [大容量 U 盘用什么文件系统最好？](https://www.v2ex.com/t/1126958)
+
