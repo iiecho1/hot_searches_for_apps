@@ -183,3 +183,7 @@
 
 + [专访丨越南经济学家：越中务实合作潜力巨大](https://news.cctv.com/2025/04/22/ARTIWLXSZGGiSVp8XVjJMvsI250422.shtml)
 
++ [哥斯达黎加波阿斯火山喷发 灰柱超3000米](https://news.cctv.com/2025/04/22/ARTIngLxqYty8E3ZmbTbBwWT250422.shtml)
+
++ [高端访谈丨“阿中关系正在不断向前发展”——访阿塞拜疆总统阿利耶夫](https://news.cctv.com/2025/04/22/ARTIDUOn3FNUvmBKDTv6Q9xI250422.shtml)
+
