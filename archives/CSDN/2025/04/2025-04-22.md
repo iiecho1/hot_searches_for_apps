@@ -167,3 +167,11 @@
 
 + [Vue数据双向绑定机制及响应式原理深度解析（Vue2 vs Vue3）](https://blog.csdn.net/weixin_55862073/article/details/147354439)
 
++ [【图像轮廓特征查找】图像处理（OpenCV) -part8](https://blog.csdn.net/2302_77326347/article/details/147400344)
+
++ [深度学习4——深度神经网络训练](https://blog.csdn.net/Aiden3122/article/details/147364909)
+
++ [【Web API系列】Web Shared Storage API 深度解析：WindowSharedStorage 接口实战指南](https://blog.csdn.net/weixin_47754149/article/details/147066035)
+
++ [基于Docker+k8s集群的web应用部署与监控](https://blog.csdn.net/2303_78135757/article/details/147364122)
+
