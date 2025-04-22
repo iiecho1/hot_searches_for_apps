@@ -195,3 +195,7 @@
 
 + [前方后方·国际舞台上的这些汉语名场面](https://news.cctv.com/2025/04/22/ARTIQVNiydGW8kEWsvG3MbEf250422.shtml)
 
++ [在街头，感知中越经贸活力](https://news.cctv.com/2025/04/22/ARTIlx0n0KqzKs4rTexsVD5H250422.shtml)
+
++ [记者手记：大国睦邻的时代意义](https://news.cctv.com/2025/04/22/ARTI99Kf4wMg7buaEm69Bly7250422.shtml)
+

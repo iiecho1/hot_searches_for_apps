@@ -175,3 +175,7 @@
 
 + [基于Docker+k8s集群的web应用部署与监控](https://blog.csdn.net/2303_78135757/article/details/147364122)
 
++ [第十四届蓝桥杯 2023 C/C++组 平方差](https://blog.csdn.net/2301_80558092/article/details/147404584)
+
++ [【网络】代理服务器收尾及高级IO](https://blog.csdn.net/2301_82213854/article/details/147411835)
+
