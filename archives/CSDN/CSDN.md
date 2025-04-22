@@ -101,3 +101,11 @@
 
 + [单例模式与消费者生产者模型，以及线程池的基本认识与模拟实现](https://blog.csdn.net/2302_81249757/article/details/147340800)
 
++ [AI大模型ms-swift框架实战指南（六）：本地部署Chat对话全流程](https://blog.csdn.net/xiaobing259/article/details/147396967)
+
++ [Windows11使用Docker部署Hbase超详细过程](https://blog.csdn.net/Doris_cool/article/details/147402168)
+
++ [Springboot 集成 RBAC 模型实战指南](https://blog.csdn.net/qq_35201802/article/details/147426653)
+
++ [CSS预处理工具有哪些？分享主流产品](https://blog.csdn.net/MaisieKim_/article/details/147401780)
+

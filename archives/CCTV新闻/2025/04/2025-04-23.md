@@ -161,3 +161,9 @@
 
 + [本轮巴以冲突已致加沙地带51201人死亡](https://news.cctv.com/2025/04/20/ARTIMYfDZjkcf1QZ2Hy5UgcP250420.shtml)
 
++ [IMF下调全球经济增速预期 警示贸易战风险](https://news.cctv.com/2025/04/23/ARTI8RIf1xXHxXPX58KYXGab250422.shtml)
+
++ [军事单位发生火灾致弹药爆炸 俄罗斯一地进入紧急状态](https://news.cctv.com/2025/04/23/ARTIq9wEwYczQFIBNm1PqYlo250422.shtml)
+
++ [印控克什米尔地区枪击事件致至少25人遇难](https://news.cctv.com/2025/04/23/ARTIcQhoXqNAk0yQNkj8mOkP250423.shtml)
+
