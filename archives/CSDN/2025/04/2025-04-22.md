@@ -159,3 +159,5 @@
 
 + [GPU高效利用率实战揭秘：蓝耘元生代VS传统云平台的降维打击](https://blog.csdn.net/null18/article/details/147382423)
 
++ [AI大模型ms-swift框架实战指南（六）：本地部署Chat对话全流程](https://blog.csdn.net/xiaobing259/article/details/147396967)
+

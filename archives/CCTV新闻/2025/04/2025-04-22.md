@@ -187,3 +187,7 @@
 
 + [高端访谈丨“阿中关系正在不断向前发展”——访阿塞拜疆总统阿利耶夫](https://news.cctv.com/2025/04/22/ARTIDUOn3FNUvmBKDTv6Q9xI250422.shtml)
 
++ [美防长陷“信号门2.0”，和“家人”在群里分享军事机密引争议，特朗普回应](https://news.cctv.com/2025/04/22/ARTIQ6x6EEipixwYiUjmPN2r250422.shtml)
+
++ [韩国警方调查针对李在明的深度伪造视频](https://news.cctv.com/2025/04/22/ARTIljImzQHWUunQCe670Sio250422.shtml)
+
