@@ -187,3 +187,9 @@
 
 + [在ARM Linux应用层下驱动MFRC522](https://blog.csdn.net/CATTLE_L/article/details/147393386)
 
++ [如何在腾讯云Ubuntu服务器上部署Node.js项目](https://blog.csdn.net/weixin_49707375/article/details/147403478)
+
++ [Elasticsearch插件：IDEA中的Elasticsearch开发利器](https://blog.csdn.net/wuchaoyong0413/article/details/147403414)
+
++ [【iOS】Blocks学习](https://blog.csdn.net/2301_79847748/article/details/147312575)
+
