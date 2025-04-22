@@ -59,3 +59,5 @@
 
 + [2025 年 DIY NAS 系统你会选择那个呢？](https://www.v2ex.com/t/1127276)
 
++ [为了戒 lu，开发了一个 lulu 指导工具，限制自己频率](https://www.v2ex.com/t/1127312)
+
