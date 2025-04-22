@@ -191,3 +191,7 @@
 
 + [韩国警方调查针对李在明的深度伪造视频](https://news.cctv.com/2025/04/22/ARTIljImzQHWUunQCe670Sio250422.shtml)
 
++ [市场担忧美联储主席被解职 金价创新高](https://news.cctv.com/2025/04/22/ARTI3modnVmtFEZIXbHPQMMp250422.shtml)
+
++ [前方后方·国际舞台上的这些汉语名场面](https://news.cctv.com/2025/04/22/ARTIQVNiydGW8kEWsvG3MbEf250422.shtml)
+
