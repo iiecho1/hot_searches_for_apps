@@ -209,3 +209,11 @@
 
 + [印尼塔劳群岛附近发生6.3级地震](https://news.cctv.com/2025/04/22/ARTIRQLZHgeLHZJieXNtoWF5250422.shtml)
 
++ [习近平主席东南亚三国之行成果速览](https://news.cctv.com/2025/04/22/ARTIhiNSwva6bB9RAx2tb8f7250422.shtml)
+
++ [综述｜投资者对美国经济前景担忧加剧重挫纽约股市](https://news.cctv.com/2025/04/22/ARTIJVI4VvJWxDUnPhzdb908250422.shtml)
+
++ [西语国家人士谈中国旅游新印象：安全、便捷、多元](https://news.cctv.com/2025/04/22/ARTI6zdHkVrwtETMRUl5zJCK250422.shtml)
+
++ [全球瞭望｜沙特媒体：特朗普关税政策助推海湾国家更多“转向亚洲”](https://news.cctv.com/2025/04/22/ARTIpEjamgFUfXWodvG6Zz6q250422.shtml)
+

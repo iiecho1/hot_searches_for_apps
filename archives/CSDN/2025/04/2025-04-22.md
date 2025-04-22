@@ -197,3 +197,5 @@
 
 + [华为云数字人 + DeepSeek：解锁智能交互的无限潜能](https://blog.csdn.net/CC1991_/article/details/147378183)
 
++ [Oracle--SQL基本语法](https://blog.csdn.net/lerp020321/article/details/147371012)
+

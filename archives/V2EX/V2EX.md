@@ -57,3 +57,5 @@
 
 + [预算 35w 以内，买什么车好](https://www.v2ex.com/t/1127258)
 
++ [2025 年 DIY NAS 系统你会选择那个呢？](https://www.v2ex.com/t/1127276)
+
