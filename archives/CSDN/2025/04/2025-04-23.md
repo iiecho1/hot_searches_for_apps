@@ -109,3 +109,11 @@
 
 + [CSS预处理工具有哪些？分享主流产品](https://blog.csdn.net/MaisieKim_/article/details/147401780)
 
++ [[渗透测试]渗透测试靶场docker搭建 — —全集](https://blog.csdn.net/weixin_45565886/article/details/147376944)
+
++ [基于maven-jar-plugin打造一款自动识别主类的maven打包插件](https://blog.csdn.net/lilinhai548/article/details/147366572)
+
++ [MySQL 线上大表 DDL 如何避免锁表（pt-online-schema-change）](https://blog.csdn.net/weixin_46594796/article/details/147309489)
+
++ [UML 状态图：陪伴机器人系统示例](https://blog.csdn.net/weixin_73924918/article/details/147402360)
+
