@@ -179,3 +179,11 @@
 
 + [【网络】代理服务器收尾及高级IO](https://blog.csdn.net/2301_82213854/article/details/147411835)
 
++ [【强化学习】深入理解：基于价值（Value）VS 基于策略（Policy）](https://blog.csdn.net/qq_51399582/article/details/147396789)
+
++ [模拟投资大师思维：AI对冲基金开源项目详解](https://blog.csdn.net/u014390502/article/details/147355551)
+
++ [Docker概念详解](https://blog.csdn.net/qq_56591814/article/details/147404287)
+
++ [在ARM Linux应用层下驱动MFRC522](https://blog.csdn.net/CATTLE_L/article/details/147393386)
+

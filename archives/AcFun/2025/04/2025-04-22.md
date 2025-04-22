@@ -93,3 +93,5 @@
 
 + [EXID UP&DOWN](https://m.acfun.cn/v/?ac=47168609)
 
++ [夏天来了  辣妹时间到！](https://m.acfun.cn/v/?ac=47163237)
+
