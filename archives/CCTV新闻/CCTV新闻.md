@@ -169,3 +169,7 @@
 
 + [胡塞武装称袭击美航母并击落MQ-9型无人机](https://news.cctv.com/2025/04/23/ARTITuHBEhYIKci8gmpDYCCL250423.shtml)
 
++ [土耳其逮捕13名涉嫌与“伊斯兰国”有关联者](https://news.cctv.com/2025/04/23/ARTIPQA2LPLfEt04seIVsxTb250423.shtml)
+
++ [俄国防部一军火库发生爆炸 已致3人受伤](https://news.cctv.com/2025/04/23/ARTIx3jmDdePtuDtH2kvhjKG250423.shtml)
+
