@@ -199,3 +199,7 @@
 
 + [Oracle--SQL基本语法](https://blog.csdn.net/lerp020321/article/details/147371012)
 
++ [【大语言模型DeepSeek+ChatGPT+python】最新AI-Python机器学习与深度学习技术在植被参数反演中的核心技术应用](https://blog.csdn.net/JNLWLAQ/article/details/147389305)
+
++ [Day-1 漏洞攻击实战](https://blog.csdn.net/2201_75999912/article/details/147397931)
+

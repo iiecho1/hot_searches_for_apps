@@ -217,3 +217,13 @@
 
 + [全球瞭望｜沙特媒体：特朗普关税政策助推海湾国家更多“转向亚洲”](https://news.cctv.com/2025/04/22/ARTIpEjamgFUfXWodvG6Zz6q250422.shtml)
 
++ [国际货币基金组织：将2025年美国经济增长预期下调0.9个百分点至1.8%](https://news.cctv.com/2025/04/22/ARTIZJu5gkF60MDQdi3BDap3250422.shtml)
+
++ [国际货币基金组织：将2025年全球经济增长预期由此前的3.3%下调至2.8%](https://news.cctv.com/2025/04/22/ARTIfjRKudkEfwDXgwsOdSlC250422.shtml)
+
++ [缅甸国防军宣布延长临时停火期限至4月30日](https://news.cctv.com/2025/04/22/ARTIkiJv1NXTLzY5cfQgvfy7250422.shtml)
+
++ [驱逐移民程序被指不遵法令 美政府另引法条“赶人”](https://news.cctv.com/2025/04/22/ARTIa0n9fvpkXzSDDcuhld13250422.shtml)
+
++ [微视频丨书写周边命运共同体建设新篇章](https://news.cctv.com/2025/04/22/ARTIZjhRIjsKjDPxZkdqjgiW250422.shtml)
+
