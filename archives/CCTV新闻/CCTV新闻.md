@@ -179,3 +179,5 @@
 
 + [匈牙利外长：为避免欧洲陷入困境 须对乌克兰入盟说“不”](https://news.cctv.com/2025/04/24/ARTIunqUXukQqYEzwhvu5exY250424.shtml)
 
++ [欧盟报告：申根区非法过境事件数量降至2021年以来最低](https://news.cctv.com/2025/04/24/ARTIzSiwF5e9LjtealsyAqjF250424.shtml)
+
