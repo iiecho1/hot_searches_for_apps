@@ -221,3 +221,9 @@
 
 + [中国驻斐济使馆提醒：在斐中国公民注意涉水安全](https://news.cctv.com/2025/04/23/ARTIh5CGAQLrL4bdQIzgxt3y250423.shtml)
 
++ [美伊核谈判将进入专家级会谈 三大关键问题成博弈焦点](https://news.cctv.com/2025/04/23/ARTIVImHLPXxanHqYcDK16yN250423.shtml)
+
++ [IMF下调全球经济增长预期 经济专家担忧失业潮或将来临](https://news.cctv.com/2025/04/23/ARTIKVW6cvLt3KBrKPCVVe3K250423.shtml)
+
++ [削减、撤销、关停……美国外交系统迎数十年来最大“变革” 抗议常态化](https://news.cctv.com/2025/04/23/ARTI6AG5yjo6hMKJuqalzY3A250423.shtml)
+

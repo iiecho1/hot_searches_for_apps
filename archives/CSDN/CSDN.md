@@ -171,3 +171,9 @@
 
 + [Maven 依赖坐标与BOM统一管理](https://blog.csdn.net/lilinhai548/article/details/147446760)
 
++ [【Linux我做主】GDB调试工具完全指南](https://blog.csdn.net/2301_80064645/article/details/147368474)
+
++ [Nginx​中间件的解析](https://blog.csdn.net/w2361734601/article/details/147431917)
+
++ [技术与情感交织的一生 （七）](https://blog.csdn.net/michaelline/article/details/147265867)
+
