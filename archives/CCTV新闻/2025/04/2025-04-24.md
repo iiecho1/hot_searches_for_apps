@@ -171,3 +171,5 @@
 
 + [波兰外长说不会派兵参与乌克兰维和任务](https://news.cctv.com/2025/04/24/ARTIS0u3sDqhZahvoL6uQ8kn250424.shtml)
 
++ [俄罗斯决定将阿富汗驻俄外交代表机构提升至大使级](https://news.cctv.com/2025/04/24/ARTINA8eeSMECMNRfpVolnKb250424.shtml)
+
