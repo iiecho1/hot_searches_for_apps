@@ -21,3 +21,11 @@
 
 + [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
++ [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
+
++ [anthropics/courses](https://github.com/anthropics/courses)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+
