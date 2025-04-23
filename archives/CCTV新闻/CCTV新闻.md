@@ -233,3 +233,7 @@
 
 + [中国驻韩国大使馆再次提醒：在韩中国公民慎用无人机或相机进行拍摄](https://news.cctv.com/2025/04/23/ARTIukoc1NXyZSb5gmsA3qaQ250423.shtml)
 
++ [中国专家组赴缅开展地震灾害评估工作 最新进度→](https://news.cctv.com/2025/04/23/ARTInNEvamRXpZXPwZHQJsXW250423.shtml)
+
++ [泽连斯基：不排除任何能够实现停火的方式](https://news.cctv.com/2025/04/23/ARTIZCHjOU6AD2QNWe41fHxW250423.shtml)
+
