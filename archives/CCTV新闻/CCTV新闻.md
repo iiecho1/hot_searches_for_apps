@@ -227,3 +227,9 @@
 
 + [削减、撤销、关停……美国外交系统迎数十年来最大“变革” 抗议常态化](https://news.cctv.com/2025/04/23/ARTI6AG5yjo6hMKJuqalzY3A250423.shtml)
 
++ [热点问答丨“最有力证据”能否证明系外生命存在](https://news.cctv.com/2025/04/23/ARTIxFN5Ri1wWm5rRFb9pEsQ250423.shtml)
+
++ [世卫组织宣布因预算缺口裁员重组](https://news.cctv.com/2025/04/23/ARTIRxccv8WBgYuUhJaPc2RI250423.shtml)
+
++ [中国驻韩国大使馆再次提醒：在韩中国公民慎用无人机或相机进行拍摄](https://news.cctv.com/2025/04/23/ARTIukoc1NXyZSb5gmsA3qaQ250423.shtml)
+
