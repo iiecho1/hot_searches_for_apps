@@ -181,3 +181,7 @@
 
 + [欧盟报告：申根区非法过境事件数量降至2021年以来最低](https://news.cctv.com/2025/04/24/ARTIzSiwF5e9LjtealsyAqjF250424.shtml)
 
++ [以色列举行犹太人大屠杀纪念日活动](https://news.cctv.com/2025/04/24/ARTIbIDbPgNBYke0grPmq2V8250424.shtml)
+
++ [加沙卫生部门：过去24小时以军行动造成38人死亡](https://news.cctv.com/2025/04/24/ARTIJIEV5cNZyZBvlL1s8HQr250424.shtml)
+
