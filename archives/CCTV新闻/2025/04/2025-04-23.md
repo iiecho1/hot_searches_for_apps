@@ -191,3 +191,15 @@
 
 + [马斯克说将减少在政府效率部工作时间](https://news.cctv.com/2025/04/23/ARTI8bubIhxV9Ssw1rtFbTw0250423.shtml)
 
++ [一周过完春夏秋冬？研究称全球变暖致“气温骤变”现象日益严重](https://news.cctv.com/2025/04/23/ARTIh0HKhgp9P9aL1JIkxKk6250423.shtml)
+
++ [从中国花田到越南花市——云南鲜花的跨国之旅](https://news.cctv.com/2025/04/23/ARTI25wJwXX95nnPmpM4fIH6250423.shtml)
+
++ [深度丨美元资产从“避风港”变成“风险源”](https://news.cctv.com/2025/04/23/ARTICjMp1zZF1uoaF0fLrXSi250423.shtml)
+
++ [深观察丨关税持续！美国汽车业面临“酷夏”](https://news.cctv.com/2025/04/23/ARTI99v0F8kSYMZmoEvV6szQ250423.shtml)
+
++ [马中教育合作着眼青年面向未来——访马来西亚高等教育部长赞比里](https://news.cctv.com/2025/04/23/ARTIxhCotzbuEiGd69MLF1be250423.shtml)
+
++ [埃塞俄比亚前国务部长：美国“对等关税”威胁下 “全球南方”合作至关重要](https://news.cctv.com/2025/04/23/ARTIUwS5a8544BvLJjFELODx250423.shtml)
+

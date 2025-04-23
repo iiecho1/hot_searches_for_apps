@@ -135,3 +135,11 @@
 
 + [AI数字人：品牌营销的新宠与增长密码（6/10）](https://blog.csdn.net/beautifulmemory/article/details/147415268)
 
++ [蓝耘平台介绍：算力赋能AI创新的智算云平台](https://blog.csdn.net/2401_88885149/article/details/147376384)
+
++ [Ceph分布式存储集群详解：从零构建高可用架构到企业级运维指南](https://blog.csdn.net/2301_76341691/article/details/147363808)
+
++ [【HarmonyOS4+NEXT】Slider组件详解与实战](https://blog.csdn.net/m0_55394328/article/details/147406805)
+
++ [搜索引擎的高级语法](https://blog.csdn.net/m1154619573/article/details/147426333)
+
