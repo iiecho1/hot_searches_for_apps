@@ -101,3 +101,9 @@
 
 + [华为云数字人 + DeepSeek：解锁智能交互的无限潜能](https://blog.csdn.net/CC1991_/article/details/147378183)
 
++ [OpenCV --- 图像预处理（六）](https://blog.csdn.net/m0_73338216/article/details/147424671)
+
++ [前端如何优雅地对接后端](https://blog.csdn.net/qq_30110433/article/details/147432813)
+
++ [实训Day-1 漏洞攻击实战](https://blog.csdn.net/likfishdn/article/details/147397977)
+
