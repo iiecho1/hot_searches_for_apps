@@ -175,3 +175,5 @@
 
 + [裁员15% 撤销132个机构 美国务院将全面重组](https://news.cctv.com/2025/04/23/ARTIkxrtS0aUZqzKdCxChOAb250423.shtml)
 
++ [我驻哥伦比亚使馆发言人就哥伦比亚对华签证有关情况答问](https://news.cctv.com/2025/04/23/ARTI3JEPFESjjcIwTKknJOgJ250423.shtml)
+
