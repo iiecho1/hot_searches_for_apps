@@ -239,3 +239,9 @@
 
 + [裁人、内讧、撂挑子……美国政府陷入三重乱局](https://news.cctv.com/2025/04/23/ARTINwNMyQgJMcEpbTYaboOV250423.shtml)
 
++ [俄罗斯宣布禁止21名英国议员入境](https://news.cctv.com/2025/04/23/ARTIREPVfIJraAGeHu6831p3250423.shtml)
+
++ [IMF预测2025年全球公共债务水平持续攀升](https://news.cctv.com/2025/04/23/ARTIqnCJ1WyAG1255KCvZmWC250423.shtml)
+
++ [土耳其地震致151人受伤 土总统：所有国家机关均处于戒备状态](https://news.cctv.com/2025/04/23/ARTIYePevaZXsUQ54G10qIqc250423.shtml)
+

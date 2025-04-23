@@ -197,3 +197,9 @@
 
 + [ARM Cortex-A和Cortex-M中断处理浅析](https://blog.csdn.net/qq_63922192/article/details/147447247)
 
++ [DeepSeek在物联网设备中的应用：通过轻量化模型实现本地化数据分析](https://blog.csdn.net/qq_32682301/article/details/147455902)
+
++ [多表查询之嵌套查询](https://blog.csdn.net/2401_85409229/article/details/147423949)
+
++ [HarmonyOS：网络HTTP数据请求](https://blog.csdn.net/u013323045/article/details/147424435)
+
