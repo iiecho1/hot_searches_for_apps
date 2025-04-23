@@ -203,3 +203,5 @@
 
 + [埃塞俄比亚前国务部长：美国“对等关税”威胁下 “全球南方”合作至关重要](https://news.cctv.com/2025/04/23/ARTIUwS5a8544BvLJjFELODx250423.shtml)
 
++ [特朗普改口称“无意”解除美联储主席鲍威尔职务](https://news.cctv.com/2025/04/23/ARTI4o0l8Jwwh9CQ7QMFGqNl250423.shtml)
+

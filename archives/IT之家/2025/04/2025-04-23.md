@@ -25,3 +25,27 @@
 
 + [宁德时代钠离子电池“钠新”发布：175Wh/kg 行业量产最高水平能量密度，不起火、不爆炸](https://m.ithome.com/html/846675.htm)
 
++ [电影《哪吒之魔童闹海》第三次延期：再延长上映一个月至 5 月 31 日，累计票房近 157 亿元](https://m.ithome.com/html/848045.htm)
+
++ [京东外卖就今日系统故障致歉：超时 20 分钟外卖订单全部免单](https://m.ithome.com/html/848075.htm)
+
++ [京东外卖再次道歉：本周进行全系统压测，确保此类故障不再发生](https://m.ithome.com/html/848146.htm)
+
++ [小米苗雷：Xiaomi 15 / 14 系列开启相机焕新 Beta 测试，徕卡联名机型升级后默认保留经典红色 UI](https://m.ithome.com/html/848174.htm)
+
++ [国家广播电视总局：超高清插入式微型机顶盒千万级规模部署正式启动](https://m.ithome.com/html/848139.htm)
+
++ [电商反内卷一大步：消息称拼多多、淘宝、抖音、快手、京东等平台将全面取消“仅退款”](https://m.ithome.com/html/848095.htm)
+
++ [京东：太过火爆，近期报名秒送全职骑手预计审核需一周左右时间](https://m.ithome.com/html/848152.htm)
+
++ [华为靳玉志称 ADS 4 已具备高速 L3 能力](https://m.ithome.com/html/848155.htm)
+
++ [微信 iOS 8.0.59 正式版更新：深色图标未回归、添加朋友支持图片描述](https://m.ithome.com/html/848029.htm)
+
++ [京东外卖再现服务故障：商家无法接单，客服称正在全力抢修](https://m.ithome.com/html/848186.htm)
+
++ [苹果移除 Apple Intelligence 页面“现已可用”标签](https://m.ithome.com/html/848099.htm)
+
++ [小米 REDMI Turbo 4 Pro 手机支持 22.5W 反向快充，4 月 24 日发布](https://m.ithome.com/html/846675.htm)
+
