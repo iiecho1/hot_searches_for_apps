@@ -107,3 +107,21 @@
 
 + [实训Day-1 漏洞攻击实战](https://blog.csdn.net/likfishdn/article/details/147397977)
 
++ [深度学习--卷积神经网络数据增强](https://blog.csdn.net/m0_65065095/article/details/147429723)
+
++ [Java 大视界 --Java 大数据在智慧交通公交车辆调度与乘客需求匹配中的应用创新（206）](https://blog.csdn.net/atgfg/article/details/147232836)
+
++ [基于UDP协议的群聊服务器开发（C/C++）](https://blog.csdn.net/2302_80105876/article/details/147427753)
+
++ [【Spring】深入解析 Spring AOP：切面优先级、切点表达式、自定义注解并实现、Spring AOP 的几种实现方式](https://blog.csdn.net/2402_84916296/article/details/147401888)
+
++ [【Linux网络】应用层自定义协议与序列化](https://blog.csdn.net/qinjh_/article/details/146296269)
+
++ [网络原理 - 4（TCP - 1）](https://blog.csdn.net/Zz_waiting/article/details/147424769)
+
++ [为什么FPGA中一般不使用浮点数进行计算？](https://blog.csdn.net/kanhao100/article/details/147388322)
+
++ [物联网 (IoT) 安全简介](https://blog.csdn.net/u014674420/article/details/147408864)
+
++ [Java 性能优化：如何利用 APM 工具提升系统性能？](https://blog.csdn.net/shrgegrb/article/details/147403567)
+

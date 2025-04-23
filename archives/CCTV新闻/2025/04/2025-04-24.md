@@ -161,3 +161,11 @@
 
 + [“国际中文日”庆祝活动在科威特等国举行](https://news.cctv.com/2025/04/22/ARTIxky8STLDljXUTWea3FoW250421.shtml)
 
++ [应对印方连环举措 巴基斯坦将召开国家安全委员会紧急会议](https://news.cctv.com/2025/04/24/ARTIMKqH1xsIX0RkEQNbmXfD250424.shtml)
+
++ [停止水资源共享 驱逐武官 印度对巴宣布多项反制措施](https://news.cctv.com/2025/04/24/ARTIvcS4HvVRFnYgiYBdkirP250424.shtml)
+
++ [古特雷斯呼吁全球坚定履行气候承诺 推动向清洁能源加速转型](https://news.cctv.com/2025/04/24/ARTIiPCMU8Z2C72gCRS6oHoa250424.shtml)
+
++ [中国援塞拉利昂医疗队开展义诊活动](https://news.cctv.com/2025/04/24/ARTICvheTH4QZkV7udvMBFgQ250424.shtml)
+
