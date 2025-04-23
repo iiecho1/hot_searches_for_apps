@@ -161,3 +161,11 @@
 
 + [flutter 专题 六十六 Flutter Dio包网络请求抓包解决方案](https://blog.csdn.net/m0_61164038/article/details/145462035)
 
++ [AI大模型ms-swift框架实战指南（八）：Qwen2.5-7B高效微调实践指南](https://blog.csdn.net/xiaobing259/article/details/147397749)
+
++ [鸿蒙HarmonyOS应用开发100例实战指南](https://blog.csdn.net/qq_44273429/article/details/147441471)
+
++ [数据挖掘实战-基于随机森林算法的交通事故预测模型](https://blog.csdn.net/m0_64336780/article/details/145355381)
+
++ [画布交互系统深度优化：从动态缩放、小地图到拖拽同步的全链路实现方案](https://blog.csdn.net/deepever/article/details/147420556)
+
