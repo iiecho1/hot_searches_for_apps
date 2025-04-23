@@ -205,3 +205,19 @@
 
 + [特朗普改口称“无意”解除美联储主席鲍威尔职务](https://news.cctv.com/2025/04/23/ARTI4o0l8Jwwh9CQ7QMFGqNl250423.shtml)
 
++ [美国股市、债市、汇市再遭三重下跌 “抛售潮”暴露信任危机](https://news.cctv.com/2025/04/23/ARTI6dTuNHOWBQgDj5NIJecX250423.shtml)
+
++ [为柬中长期全方位互利合作擘画战略蓝图——专访柬埔寨皇家科学院国际关系研究所所长金平](https://news.cctv.com/2025/04/23/ARTIG0A7tWKE0u3x4Q60R2QW250423.shtml)
+
++ [巴拿马大学批评美国干涉巴拿马运河事务](https://news.cctv.com/2025/04/23/ARTIXZYoKn57yg0tIAK5hRry250423.shtml)
+
++ [以军封锁加沙 物资匮乏已致6万儿童营养不良](https://news.cctv.com/2025/04/23/ARTIBPcRQqg4OaLtBamuXSTR250423.shtml)
+
++ [美国国务院：鲁比奥将不参加在伦敦举行的乌克兰问题会谈](https://news.cctv.com/2025/04/23/ARTIE9ULmT0mEUE1KuNQ47Ze250423.shtml)
+
++ [美媒：普京向特朗普赠送“遇刺照”肖像画，“特朗普被感动了”](https://news.cctv.com/2025/04/23/ARTIR88vK9UbYpqLdGZOa5DA250423.shtml)
+
++ [美滥施关税遭反噬 行业呼吁不要加征汽车零部件关税](https://news.cctv.com/2025/04/23/ARTIjJN2kc2Oy5LEdYmkZ0tO250423.shtml)
+
++ [中国驻斐济使馆提醒：在斐中国公民注意涉水安全](https://news.cctv.com/2025/04/23/ARTIh5CGAQLrL4bdQIzgxt3y250423.shtml)
+

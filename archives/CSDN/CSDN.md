@@ -169,3 +169,5 @@
 
 + [画布交互系统深度优化：从动态缩放、小地图到拖拽同步的全链路实现方案](https://blog.csdn.net/deepever/article/details/147420556)
 
++ [Maven 依赖坐标与BOM统一管理](https://blog.csdn.net/lilinhai548/article/details/147446760)
+
