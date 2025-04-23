@@ -177,3 +177,17 @@
 
 + [我驻哥伦比亚使馆发言人就哥伦比亚对华签证有关情况答问](https://news.cctv.com/2025/04/23/ARTI3JEPFESjjcIwTKknJOgJ250423.shtml)
 
++ [美国政府滥施关税遭反噬 裁员扩大向“让制造业回流”计划泼冷水](https://news.cctv.com/2025/04/23/ARTIeUD2oQSTKvlhmfdsu9IL250423.shtml)
+
++ [伊朗：与美国会谈，推迟](https://news.cctv.com/2025/04/23/ARTIZU1wcBmH6pgf7UzajLIL250423.shtml)
+
++ [美关税新政对全球经济造成重大负面冲击 IMF下调全球经济增速预期](https://news.cctv.com/2025/04/23/ARTIMt1elF1YFzxgh03DDZzL250423.shtml)
+
++ [泽连斯基：停火后愿进行“任何形式”谈判但领土问题除外](https://news.cctv.com/2025/04/23/ARTI6IHQgg9p9jeKxS9jJFtr250423.shtml)
+
++ [启程赴奥地利 大熊猫“荷风”“兰韵”将开启10年旅居生活](https://news.cctv.com/2025/04/23/ARTITkOQqioOfGzsxAZyZtz9250423.shtml)
+
++ [特朗普：无意解雇鲍威尔 但美联储应该降低利率](https://news.cctv.com/2025/04/23/ARTIFneLgBPdkUIKzL7vHh3r250423.shtml)
+
++ [马斯克说将减少在政府效率部工作时间](https://news.cctv.com/2025/04/23/ARTI8bubIhxV9Ssw1rtFbTw0250423.shtml)
+

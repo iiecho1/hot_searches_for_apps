@@ -133,3 +133,5 @@
 
 + [【技术派后端篇】技术派中基于 Redis 的缓存实践](https://blog.csdn.net/gaosw0521/article/details/147382404)
 
++ [AI数字人：品牌营销的新宠与增长密码（6/10）](https://blog.csdn.net/beautifulmemory/article/details/147415268)
+
