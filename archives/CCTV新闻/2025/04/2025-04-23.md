@@ -173,3 +173,5 @@
 
 + [俄国防部一军火库发生爆炸 已致3人受伤](https://news.cctv.com/2025/04/23/ARTIx3jmDdePtuDtH2kvhjKG250423.shtml)
 
++ [裁员15% 撤销132个机构 美国务院将全面重组](https://news.cctv.com/2025/04/23/ARTIkxrtS0aUZqzKdCxChOAb250423.shtml)
+
