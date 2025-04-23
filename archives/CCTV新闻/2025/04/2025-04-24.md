@@ -173,3 +173,9 @@
 
 + [俄罗斯决定将阿富汗驻俄外交代表机构提升至大使级](https://news.cctv.com/2025/04/24/ARTINA8eeSMECMNRfpVolnKb250424.shtml)
 
++ [乌代表团与美特使在伦敦举行会谈 双方同意继续对话](https://news.cctv.com/2025/04/24/ARTIno2AHuyTVp892SKVyU0v250424.shtml)
+
++ [美联储“褐皮书”：经济不确定性增加 多地前景显著恶化](https://news.cctv.com/2025/04/24/ARTItqECBbCyHjsayjJjlV8a250424.shtml)
+
++ [匈牙利外长：为避免欧洲陷入困境 须对乌克兰入盟说“不”](https://news.cctv.com/2025/04/24/ARTIunqUXukQqYEzwhvu5exY250424.shtml)
+
