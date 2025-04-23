@@ -169,3 +169,5 @@
 
 + [中国援塞拉利昂医疗队开展义诊活动](https://news.cctv.com/2025/04/24/ARTICvheTH4QZkV7udvMBFgQ250424.shtml)
 
++ [波兰外长说不会派兵参与乌克兰维和任务](https://news.cctv.com/2025/04/24/ARTIS0u3sDqhZahvoL6uQ8kn250424.shtml)
+
