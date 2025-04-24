@@ -187,3 +187,7 @@
 
 + [初识SpringBoot](https://blog.csdn.net/2302_81707171/article/details/147427428)
 
++ [Browser-Use WebUI：让AI自动使用浏览器帮你查询信息执行任务](https://blog.csdn.net/qyj19920704/article/details/147484092)
+
++ [Elasticsearch 堆内存使用情况和 JVM 垃圾回收](https://blog.csdn.net/UbuntuTouch/article/details/147447118)
+

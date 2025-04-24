@@ -233,3 +233,5 @@
 
 + [日本和歌山县4只大熊猫将于6月底送返中国](https://news.cctv.com/2025/04/24/ARTIpf9WERPwGXYtfsI7bQx8250424.shtml)
 
++ [德国4月商业景气指数环比小幅上升](https://news.cctv.com/2025/04/24/ARTI5YEDIfsdMTRty1PXXFHC250424.shtml)
+
