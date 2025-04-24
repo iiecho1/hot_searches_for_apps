@@ -149,3 +149,5 @@
 
 + [Spring开发系列教程(26)——异步处理](https://blog.csdn.net/heludoit1/article/details/147432412)
 
++ [跨越边界的 AI 变革：揭秘 Gemini 2.5 Pro 如何颠覆传统智能应用](https://blog.csdn.net/lrq13965748542/article/details/147467749)
+
