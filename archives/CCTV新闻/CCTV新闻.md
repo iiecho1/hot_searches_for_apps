@@ -185,3 +185,13 @@
 
 + [加沙卫生部门：过去24小时以军行动造成38人死亡](https://news.cctv.com/2025/04/24/ARTIJIEV5cNZyZBvlL1s8HQr250424.shtml)
 
++ [乌克兰总统提议“立即全面无条件停火”](https://news.cctv.com/2025/04/24/ARTIB9Rsky4T3f5Io8FDG3Fs250424.shtml)
+
++ [医药短缺 加沙超400名肾病患者死亡](https://news.cctv.com/2025/04/24/ARTIhMnMJJ3KqD1D4LFJWWuP250424.shtml)
+
++ [加拿大总理：将坚决抵制特朗普关税政策](https://news.cctv.com/2025/04/24/ARTIacVkDYK9lBeQnDm7y8gE250424.shtml)
+
++ [锐评｜“由美国定规矩”？这算什么规矩！](https://news.cctv.com/2025/04/24/ARTIoQ31HORIlZMDmCleY6W7250424.shtml)
+
++ [韩国检方以受贿嫌疑起诉前总统文在寅](https://news.cctv.com/2025/04/24/ARTIzTCFuwoVRu05dEQWRyu0250424.shtml)
+

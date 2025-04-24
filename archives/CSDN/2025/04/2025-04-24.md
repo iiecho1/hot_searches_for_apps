@@ -129,3 +129,7 @@
 
 + [第6次课 贪心算法 A](https://blog.csdn.net/m0_46727639/article/details/147429814)
 
++ [博客系统-邮件发送-nginx-服务部署](https://blog.csdn.net/2302_79981885/article/details/147375052)
+
++ [网络原理————HTTP](https://blog.csdn.net/2301_79083481/article/details/147401720)
+
