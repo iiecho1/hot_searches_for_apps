@@ -25,3 +25,27 @@
 
 + [小米 REDMI Turbo 4 Pro 手机支持 22.5W 反向快充，4 月 24 日发布](https://m.ithome.com/html/846675.htm)
 
++ [荣耀 GT Pro 手机发布：骁龙 8 至尊领先版处理器、144Hz 绿洲护眼电竞屏，3699 元起](https://m.ithome.com/html/848417.htm)
+
++ [2599 元起真我 GT7 发布：联发科天玑 9400+、7200mAh 泰坦电池](https://m.ithome.com/html/848513.htm)
+
++ [苹果 iPhone 17 系列机模全家福曝光：标准版沿用经典、Air 配长条跑道、Pro 为横向大矩阵](https://m.ithome.com/html/848444.htm)
+
++ [阿里小号宣布于 4 月 29 日关停下线，余额将按订购价退回](https://m.ithome.com/html/848350.htm)
+
++ [王化：小米 YU7 上市发布时间不变，依然是今年 6-7 月](https://m.ithome.com/html/848496.htm)
+
++ [马斯克：中国用户对特斯拉 FSD 最为苛刻，是真正将其推向极限的群体](https://m.ithome.com/html/848336.htm)
+
++ [全新奇瑞 QQ 亮相上海车展，造型科技感十足](https://m.ithome.com/html/848554.htm)
+
++ [消息称小红书将取消大小周](https://m.ithome.com/html/848412.htm)
+
++ [邓承浩：深蓝汽车不做鸿蒙智行第六界，只做好 CP](https://m.ithome.com/html/848463.htm)
+
++ [一加 13T 手机完整规格公布：185 克重量 IP65 认证、机身配“快捷键”、骁龙 8 至尊版 + 6260 mAh 电池](https://m.ithome.com/html/848385.htm)
+
++ [成龙回归出演，索尼电影《功夫梦：融合之道》确认引进中国内地](https://m.ithome.com/html/848472.htm)
+
++ [小米 SU7 / Ultra 汽车亮相 2025 上海车展，展台每天提供限量棒球帽和矿泉水](https://m.ithome.com/html/846675.htm)
+

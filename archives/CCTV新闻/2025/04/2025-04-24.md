@@ -201,3 +201,9 @@
 
 + [我驻加拿大使馆提醒：在加中国公民规避“失踪失联”风险](https://news.cctv.com/2025/04/24/ARTIUSr075dglO579dSgREmr250424.shtml)
 
++ [韩国检方以涉嫌收受贿赂对前总统文在寅提起诉讼](https://news.cctv.com/2025/04/24/ARTIHwlwUm1rK7zfKeYTvDKI250424.shtml)
+
++ [中方在联合国驳斥美方无理指责和霸凌行径](https://news.cctv.com/2025/04/24/ARTIFAaiiyogsEDf7JWCTfGT250424.shtml)
+
++ [“单边霸凌不会得逞，多边合作才是正道”（国际视点）](https://news.cctv.com/2025/04/24/ARTIohC2BRaGB0Wgnq2d98rL250424.shtml)
+
