@@ -207,3 +207,9 @@
 
 + [“单边霸凌不会得逞，多边合作才是正道”（国际视点）](https://news.cctv.com/2025/04/24/ARTIohC2BRaGB0Wgnq2d98rL250424.shtml)
 
++ [巴基斯坦已启动航天员选拔 将先选出十余名候选人](https://news.cctv.com/2025/04/24/ARTINgcNjZBhR3rPDIyH0rZm250424.shtml)
+
++ [欧盟《数字市场法案》首开罚单 剑指美科技巨头垄断](https://news.cctv.com/2025/04/24/ARTIvUcTcqJcYz4f5NKafZUC250424.shtml)
+
++ [野火烧毁栖息地，澳大利亚扑杀750只考拉引强烈抗议](https://news.cctv.com/2025/04/24/ARTIwNerBApFDj4qDqYCl6Dk250424.shtml)
+

@@ -141,3 +141,7 @@
 
 + [【产品经理从0到1】用户研究和需求分析](https://blog.csdn.net/qq_41413652/article/details/147418939)
 
++ [Cephalon端脑云：神经形态计算+边缘AI·重定义云端算力](https://blog.csdn.net/Dovis5884/article/details/147409082)
+
++ [【Linux】自动化构建，有Make就够了](https://blog.csdn.net/apple_61439616/article/details/147403304)
+
