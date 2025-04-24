@@ -157,3 +157,9 @@
 
 + [车载功能测试-车载域控/BCM控制器测试用例开发流程【用例导出方法+优先级划分原则】](https://blog.csdn.net/l789789789789/article/details/147402537)
 
++ [KG4MM：融合知识图谱与多模态数据预测药物相互作用](https://blog.csdn.net/m0_46510245/article/details/147471047)
+
++ [Transformer：引领深度学习新时代的架构](https://blog.csdn.net/m0_73707009/article/details/145922781)
+
++ [OSPF 综合实验](https://blog.csdn.net/aaa__wsk/article/details/147446018)
+

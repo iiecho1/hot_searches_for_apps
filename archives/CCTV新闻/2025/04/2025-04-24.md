@@ -221,3 +221,5 @@
 
 + [有记录以来最严重 全球84%珊瑚白化](https://news.cctv.com/2025/04/24/ARTIej697fi4D0paPvYwaF3r250424.shtml)
 
++ [一年内米价翻倍 日本游客赴韩买米](https://news.cctv.com/2025/04/24/ARTIVVCLGryuczNFL3k5O9Cw250424.shtml)
+
