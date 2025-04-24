@@ -213,3 +213,9 @@
 
 + [野火烧毁栖息地，澳大利亚扑杀750只考拉引强烈抗议](https://news.cctv.com/2025/04/24/ARTIwNerBApFDj4qDqYCl6Dk250424.shtml)
 
++ [美加码芯片管制徒劳无益 中国企业加速自主创新进程](https://news.cctv.com/2025/04/24/ARTIHssrfljeHPzfUoNkUX4H250424.shtml)
+
++ [日本大阪府一工业公司职工血检检出高浓度有机氟化物](https://news.cctv.com/2025/04/24/ARTINh9FsSl1gy2Sput4nrBU250424.shtml)
+
++ [美国六大汽车行业组织联名反对加征汽车零部件关税](https://news.cctv.com/2025/04/24/ARTIh9bP6LIkFCWeppeHaodF250424.shtml)
+
