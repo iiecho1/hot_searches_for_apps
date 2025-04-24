@@ -19,3 +19,15 @@
 
 + [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
++ [kortix-ai/suna](https://github.com/kortix-ai/suna)
+
++ [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+
++ [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
+
++ [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+
++ [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+
++ [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
