@@ -135,3 +135,9 @@
 
 + [【Spring】依赖注入的方式：构造方法、setter注入、字段注入](https://blog.csdn.net/weixin_46589153/article/details/147430413)
 
++ [Python Transformers库【NLP处理库】全面讲解](https://blog.csdn.net/webcai_3/article/details/147361792)
+
++ [我的赛博之路：跨越失业迷雾，于 IT 矩阵破茧成蝶](https://blog.csdn.net/2401_82648291/article/details/147375726)
+
++ [【产品经理从0到1】用户研究和需求分析](https://blog.csdn.net/qq_41413652/article/details/147418939)
+

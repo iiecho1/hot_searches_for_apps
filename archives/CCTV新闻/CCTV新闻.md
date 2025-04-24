@@ -199,3 +199,5 @@
 
 + [特朗普政府释放缓和信号 美财长：对华谈判将会是一场“持久战”](https://news.cctv.com/2025/04/24/ARTII38Y22tJq6CkaYiNNVMY250424.shtml)
 
++ [我驻加拿大使馆提醒：在加中国公民规避“失踪失联”风险](https://news.cctv.com/2025/04/24/ARTIUSr075dglO579dSgREmr250424.shtml)
+
