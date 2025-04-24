@@ -173,3 +173,15 @@
 
 + [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、ShaderPass渲染通道），案例一](https://blog.csdn.net/qq_28419035/article/details/147480389)
 
++ [【金仓数据库征文】KingbaseES金融行业国产化替代实战：集群高效部署性能调优实战演练](https://blog.csdn.net/null18/article/details/147481113)
+
++ [【Linux】详细介绍进程的概念](https://blog.csdn.net/hffh123/article/details/147445358)
+
++ [穿越链路的旅程：深入理解计算机网络中的数据链路层](https://blog.csdn.net/2501_91512407/article/details/147465883)
+
++ [为什么Spring中@Bean注解默认创建单例Bean](https://blog.csdn.net/m0_75236543/article/details/147463738)
+
++ [【数学建模】孤立森林算法：异常检测的高效利器](https://blog.csdn.net/Zlyzjiabjw547479/article/details/147424331)
+
++ [【MCP】第二篇：IDE革命——用MCP构建下一代智能工具链](https://blog.csdn.net/likunxing/article/details/147402606)
+

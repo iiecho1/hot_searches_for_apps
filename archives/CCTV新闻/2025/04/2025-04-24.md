@@ -231,3 +231,5 @@
 
 + [限时离境 关闭领空 暂停贸易 巴基斯坦宣布一系列对印反制措施](https://news.cctv.com/2025/04/24/ARTIPfpd1kBDAAvwWLBhZdTW250424.shtml)
 
++ [日本和歌山县4只大熊猫将于6月底送返中国](https://news.cctv.com/2025/04/24/ARTIpf9WERPwGXYtfsI7bQx8250424.shtml)
+
