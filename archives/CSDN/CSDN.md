@@ -169,3 +169,7 @@
 
 + [管理100个小程序-很难吗](https://blog.csdn.net/jijunjian/article/details/147464864)
 
++ [Node.js 开发用户登录功能（使用mysql实现）](https://blog.csdn.net/2302_79462679/article/details/147464924)
+
++ [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、ShaderPass渲染通道），案例一](https://blog.csdn.net/qq_28419035/article/details/147480389)
+

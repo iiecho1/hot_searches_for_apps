@@ -225,3 +225,9 @@
 
 + [土耳其地震已致236人受伤 多栋建筑受损](https://news.cctv.com/2025/04/24/ARTIHZugbBwnO6ciQ65BZ5By250424.shtml)
 
++ [美国13州起诉特朗普政府：不计后果的关税措施引发混乱](https://news.cctv.com/2025/04/24/ARTInsUxyGlItaFKq7wK0mwa250424.shtml)
+
++ [印度加大应对力度 吊销所有巴基斯坦公民签证](https://news.cctv.com/2025/04/24/ARTInNQcZ9IymkO4rhYghGzF250424.shtml)
+
++ [限时离境 关闭领空 暂停贸易 巴基斯坦宣布一系列对印反制措施](https://news.cctv.com/2025/04/24/ARTIPfpd1kBDAAvwWLBhZdTW250424.shtml)
+
