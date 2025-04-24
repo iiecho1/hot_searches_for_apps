@@ -127,3 +127,5 @@
 
 + [均匀辐照度和局部遮光条件下光伏系统的新型样条-MPPT技术（Simulink）](https://blog.csdn.net/weixin_67304359/article/details/147398495)
 
++ [第6次课 贪心算法 A](https://blog.csdn.net/m0_46727639/article/details/147429814)
+
