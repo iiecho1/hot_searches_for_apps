@@ -101,3 +101,11 @@
 
 + [云计算领域需掌握的核心技术](https://blog.csdn.net/weixin_42998312/article/details/147409720)
 
++ [Java 大视界 --Java 大数据在智能安防入侵检测系统中的深度学习模型优化与实时推理（208）](https://blog.csdn.net/atgfg/article/details/147232913)
+
++ [Python数据清洗笔记（上）](https://blog.csdn.net/2401_83982014/article/details/147464812)
+
++ [第五章：5.3 ESP32物联网应用：阿里云IoT平台与腾讯云IoT平台的数据上传与远程控制](https://blog.csdn.net/Hi__gril/article/details/147458513)
+
++ [解锁webpack：对html、css、js及图片资源的抽离打包处理](https://blog.csdn.net/qq_38800316/article/details/147443164)
+
