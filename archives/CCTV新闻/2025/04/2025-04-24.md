@@ -219,3 +219,5 @@
 
 + [美国六大汽车行业组织联名反对加征汽车零部件关税](https://news.cctv.com/2025/04/24/ARTIh9bP6LIkFCWeppeHaodF250424.shtml)
 
++ [有记录以来最严重 全球84%珊瑚白化](https://news.cctv.com/2025/04/24/ARTIej697fi4D0paPvYwaF3r250424.shtml)
+

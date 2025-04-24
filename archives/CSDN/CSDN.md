@@ -151,3 +151,9 @@
 
 + [跨越边界的 AI 变革：揭秘 Gemini 2.5 Pro 如何颠覆传统智能应用](https://blog.csdn.net/lrq13965748542/article/details/147467749)
 
++ [初始SpringBoot](https://blog.csdn.net/2302_81707171/article/details/147427428)
+
++ [【Linux网络】构建类似XShell功能的TCP服务器](https://blog.csdn.net/2301_77954967/article/details/147442338)
+
++ [车载功能测试-车载域控/BCM控制器测试用例开发流程【用例导出方法+优先级划分原则】](https://blog.csdn.net/l789789789789/article/details/147402537)
+
