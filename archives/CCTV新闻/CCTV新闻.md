@@ -223,3 +223,5 @@
 
 + [一年内米价翻倍 日本游客赴韩买米](https://news.cctv.com/2025/04/24/ARTIVVCLGryuczNFL3k5O9Cw250424.shtml)
 
++ [土耳其地震已致236人受伤 多栋建筑受损](https://news.cctv.com/2025/04/24/ARTIHZugbBwnO6ciQ65BZ5By250424.shtml)
+

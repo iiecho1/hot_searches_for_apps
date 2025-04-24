@@ -163,3 +163,9 @@
 
 + [OSPF 综合实验](https://blog.csdn.net/aaa__wsk/article/details/147446018)
 
++ [【k8s】docker、k8s、虚拟机的区别以及使用场景](https://blog.csdn.net/2303_78135757/article/details/147464333)
+
++ [2025山东省职业院校技能大赛网络安全赛项样题](https://blog.csdn.net/a3444215831/article/details/147443800)
+
++ [管理100个小程序-很难吗](https://blog.csdn.net/jijunjian/article/details/147464864)
+
