@@ -125,3 +125,5 @@
 
 + [2025职业本科网络安全课程体系设计：如何培养行业急需的实战型人才？](https://blog.csdn.net/whwzzc/article/details/147440226)
 
++ [基于大疆行业无人机的特色解决方案-无线通信篇：基于蜂窝以及自组网MESH的无线通信C2链路](https://blog.csdn.net/moonsims/article/details/147416684)
+
