@@ -123,3 +123,5 @@
 
 + [融山科技前端面经](https://blog.csdn.net/2301_79428107/article/details/147462839)
 
++ [2025职业本科网络安全课程体系设计：如何培养行业急需的实战型人才？](https://blog.csdn.net/whwzzc/article/details/147440226)
+
