@@ -163,3 +163,9 @@
 
 + [美联储官员：若特朗普高额关税致失业率飙升 将支持降息](https://news.cctv.com/2025/04/25/ARTIWZnTWkNAzIg6lKXBxini250425.shtml)
 
++ [中俄伊三国代表就伊核问题共同会见国际原子能机构总干事格罗西](https://news.cctv.com/2025/04/25/ARTIerlFRTIC8JIZ1XzODWsu250425.shtml)
+
++ [巴解组织决定增设执委会副主席一职](https://news.cctv.com/2025/04/25/ARTIY9nIh8hDzQKSYtQ8LBtC250425.shtml)
+
++ [乌克兰基辅遭大规模袭击 已致12人死亡](https://news.cctv.com/2025/04/25/ARTIIPFBwrFAAZVp1mMYUTqK250425.shtml)
+
