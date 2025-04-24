@@ -169,3 +169,5 @@
 
 + [乌克兰基辅遭大规模袭击 已致12人死亡](https://news.cctv.com/2025/04/25/ARTIIPFBwrFAAZVp1mMYUTqK250425.shtml)
 
++ [加拿大多伦多皮尔逊国际机场一男子被警方击毙](https://news.cctv.com/2025/04/25/ARTIz0IYrF7xaxmjPPFQCcbz250425.shtml)
+
