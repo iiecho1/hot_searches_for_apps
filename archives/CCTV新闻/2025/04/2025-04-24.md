@@ -195,3 +195,7 @@
 
 + [韩国检方以受贿嫌疑起诉前总统文在寅](https://news.cctv.com/2025/04/24/ARTIzTCFuwoVRu05dEQWRyu0250424.shtml)
 
++ [多国人士：关税政策让美失信 严重打击企业信心](https://news.cctv.com/2025/04/24/ARTIQKdaaZXAn3vs2aKGpVzU250424.shtml)
+
++ [特朗普政府释放缓和信号 美财长：对华谈判将会是一场“持久战”](https://news.cctv.com/2025/04/24/ARTII38Y22tJq6CkaYiNNVMY250424.shtml)
+

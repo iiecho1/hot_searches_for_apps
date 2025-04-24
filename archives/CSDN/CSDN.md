@@ -133,3 +133,5 @@
 
 + [网络原理————HTTP](https://blog.csdn.net/2301_79083481/article/details/147401720)
 
++ [【Spring】依赖注入的方式：构造方法、setter注入、字段注入](https://blog.csdn.net/weixin_46589153/article/details/147430413)
+
