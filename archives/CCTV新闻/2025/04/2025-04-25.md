@@ -229,3 +229,7 @@
 
 + [俄外长说已准备好就乌克兰问题达成协议](https://military.cctv.com/2025/04/25/ARTIIp56oWDgF5BpOuNleGXO250425.shtml)
 
++ [记者手记｜关税阴云笼罩IMF和世行春季会议](https://news.cctv.com/2025/04/25/ARTIq1uhV698w3DLUOmSNeW5250425.shtml)
+
++ [记者手记丨在阿尔及利亚见证中阿深化互利合作](https://news.cctv.com/2025/04/25/ARTI3pIra2QwRJUbUWPE1fJg250425.shtml)
+
