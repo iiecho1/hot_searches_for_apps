@@ -167,3 +167,19 @@
 
 + [前端流式输出大模型回答时为什么使用长连接，具体怎么实现流式输出markdown文本](https://blog.csdn.net/2302_80473627/article/details/147472130)
 
++ [金仓数据库 KingbaseES 产品深度优化提案：迈向卓越的全面升级](https://blog.csdn.net/Z_oioihoii/article/details/147503023)
+
++ [人工智能与机器学习，谁是谁的子集 —— 再谈智能的边界与演进路径](https://blog.csdn.net/weixin_45187434/article/details/147501938)
+
++ [【现代深度学习技术】循环神经网络06：循环神经网络的简洁实现](https://blog.csdn.net/Morse_Chen/article/details/147499713)
+
++ [【C++软件实战问题排查经验分享系列 ②】 调试遇到0xfeeefeee、0xcdcdcdcd等异常值 | 动态库加载失败 | 程序启动报错与启动失败 | 软件操作权限系列问题总结](https://blog.csdn.net/chenlycly/article/details/147497957)
+
++ [SecMulti-RAG：兼顾数据安全与智能检索的多源RAG框架，为企业构建不泄密的智能搜索引擎](https://blog.csdn.net/m0_46510245/article/details/147500905)
+
++ [从单机工具到协同平台：开源交互式模拟环境的技术演进之路](https://blog.csdn.net/deepever/article/details/147483425)
+
++ [矩阵运算和线性代数操作开源库](https://blog.csdn.net/byxdaz/article/details/147467730)
+
++ [【全部更新】2025金地杯C题山西省大学生数学建模思路代码文章教学:抗抑郁药物的疗效问题](https://blog.csdn.net/xb459149247/article/details/147489982)
+

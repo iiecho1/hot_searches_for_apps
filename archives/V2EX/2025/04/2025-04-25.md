@@ -43,3 +43,5 @@
 
 + [之前一直用 iPhone ，换成小米用了两年，最近又想换回 iPhone](https://www.v2ex.com/t/1127950)
 
++ [跟老婆共用一台 mac，我喜欢用罗技的 G304 的侧键，她不喜欢侧键](https://www.v2ex.com/t/1127810)
+

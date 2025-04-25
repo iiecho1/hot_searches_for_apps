@@ -209,3 +209,7 @@
 
 + [“遭政治起诉” 韩国前总统文在寅回应检方诉讼](https://news.cctv.com/2025/04/25/ARTIiyDAML3sy7cjDuZNCTfA250425.shtml)
 
++ [美媒爆：日本官员透露，日方拟抵制美国将其纳入“反华经济同盟”](https://news.cctv.com/2025/04/25/ARTI8JjquDSiDccFcQTaJJWa250425.shtml)
+
++ [巴西最高法院下令逮捕前总统科洛尔](https://news.cctv.com/2025/04/25/ARTIxfltbkBQm9LdCEaA4Hzn250425.shtml)
+
