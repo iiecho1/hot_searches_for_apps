@@ -25,3 +25,27 @@
 
 + [小米 SU7 / Ultra 汽车亮相 2025 上海车展，展台每天提供限量棒球帽和矿泉水](https://m.ithome.com/html/846675.htm)
 
++ [一加 13T 小屏旗舰手机发布：骁龙 8 至尊版 + 6260mAh 电池，国补到手价 2899 元起](https://m.ithome.com/html/848731.htm)
+
++ [小米 REDMI Turbo 4 Pro 手机发布：首搭骁龙 8s Gen4、7550mAh 电池支持 22.5W 反向快充，首销 1999 元起](https://m.ithome.com/html/848652.htm)
+
++ [35 岁程序员长期熬夜脑干出血：累了就歇歇，好好爱自己](https://m.ithome.com/html/848739.htm)
+
++ [19:40 开抢：小米 REDMI Turbo 4 Pro 首发赠 675 元各种保，再赠黄金贴](https://m.ithome.com/html/848743.htm)
+
++ [5 年质保 3 年换新：小米 REDMI MiniLED 显示器 G Pro 27U 首销支持 8.5 折国补](https://m.ithome.com/html/848684.htm)
+
++ [浙江极越汽车科技有限公司重新更名为枫盛汽车](https://m.ithome.com/html/848737.htm)
+
++ [小米 REDMI Turbo 4 Pro 手机“哈利・波特定制版”发布：定制斜切相机模组，16G + 512G 售 2799 元](https://m.ithome.com/html/848685.htm)
+
++ [【IT之家图赏】一加 13T 实拍：一加全新设计语言首款小屏旗舰](https://m.ithome.com/html/848746.htm)
+
++ [小米推出 10cm 长度 USB-C 充电线：支持 60W 输出功率、适用“反向快充”等场景，9.9 元](https://m.ithome.com/html/848738.htm)
+
++ [小米 REDMI Turbo 4 手机官降 200 元，优惠到手价 1799 元起](https://m.ithome.com/html/848771.htm)
+
++ [小米澎湃 OS“微信朋友圈发布实况照片”机型适配计划公布，含 REDMI Turbo 4 等超二十款机型](https://m.ithome.com/html/848794.htm)
+
++ [苹果 iPhone 17 系列机模再曝，暗示 Air 机型全球标配 eSIM](https://m.ithome.com/html/846675.htm)
+

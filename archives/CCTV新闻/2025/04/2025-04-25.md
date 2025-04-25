@@ -207,3 +207,5 @@
 
 + [世卫组织等机构警告全球免疫工作面临日益严重威胁](https://news.cctv.com/2025/04/25/ARTIDyZwSKLD62Q1s0WbnKJg250425.shtml)
 
++ [“遭政治起诉” 韩国前总统文在寅回应检方诉讼](https://news.cctv.com/2025/04/25/ARTIiyDAML3sy7cjDuZNCTfA250425.shtml)
+

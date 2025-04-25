@@ -39,3 +39,7 @@
 
 + [30 岁了， QQ 邮箱管理员祝你生日快乐](https://www.v2ex.com/t/1127947)
 
++ [求推荐 nas!无限循环纠结中](https://www.v2ex.com/t/1127954)
+
++ [之前一直用 iPhone ，换成小米用了两年，最近又想换回 iPhone](https://www.v2ex.com/t/1127950)
+
