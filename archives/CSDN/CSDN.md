@@ -139,3 +139,7 @@
 
 + [安恒web安全春招实战](https://blog.csdn.net/persist213/article/details/147478280)
 
++ [【全部更新】2025金地杯A题山西省大学生数学建模思路代码文章教学:光伏板积灰程度检测及灰尘清洗策略](https://blog.csdn.net/xb459149247/article/details/147513222)
+
++ [Flask项目在Ubuntu18.04上的部署](https://blog.csdn.net/qq_70674687/article/details/147497063)
+
