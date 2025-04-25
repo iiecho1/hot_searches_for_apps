@@ -183,3 +183,23 @@
 
 + [日本民众集会抗议驻日美军性暴力事件](https://news.cctv.com/2025/04/25/ARTIfYr45DUG3NSS4HVBXSzX250425.shtml)
 
++ [韩国首尔江南区一大型商场起火](https://news.cctv.com/2025/04/25/ARTIfys28oXsrAU1DM1I6Bnw250425.shtml)
+
++ [俄外长：俄准备与美就乌问题达成协议 部分内容需“微调”](https://news.cctv.com/2025/04/25/ARTIaF1CeyRWZKOA6e5NYvIF250425.shtml)
+
++ [泰国一小型飞机坠毁 死亡人数升至5人](https://news.cctv.com/2025/04/25/ARTI5BB594KBuo4xSB8wJwGM250425.shtml)
+
++ [快讯！外媒：泰国总理佩通坦因高烧入院](https://news.cctv.com/2025/04/25/ARTIjQZxkjsJ4rpQg0mzWXfc250425.shtml)
+
++ [日本多地检出有机氟化物超标 最高值超标500余倍](https://news.cctv.com/2025/04/25/ARTIFosDAUzUfn2WoNCtDzOC250425.shtml)
+
++ [中企助力柬埔寨提升基建水平——“柬中友好合作让我们的生活不断改善”](https://news.cctv.com/2025/04/25/ARTIzKkWBC61xEufw6nvljZS250425.shtml)
+
++ [记者手记丨“梦幻之路”带动柬埔寨驶入发展快车道](https://news.cctv.com/2025/04/25/ARTIM1jgu00OmP8IeLHfngRY250425.shtml)
+
++ [韩国检方重启调查前总统夫人金建希操纵股价案](https://news.cctv.com/2025/04/25/ARTIMd2jxgisEm1YfcacOwCr250425.shtml)
+
++ [当“中文十级爱好者”成为博主 “中国通”，“通中国”](https://people.cctv.com/2025/04/25/ARTIGAZxMqpQTK47n7QBaRLO250425.shtml)
+
++ [记者手记｜“你不打他，他就以为只有他会打人”——“可可王国”的关税之怒](https://news.cctv.com/2025/04/25/ARTIHAtVySlmsgMLLrwG0Qrq250425.shtml)
+

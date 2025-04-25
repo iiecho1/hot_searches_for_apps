@@ -143,3 +143,21 @@
 
 + [【Linux】计算机基本知识补充](https://blog.csdn.net/2301_80224556/article/details/147428563)
 
++ [Java 大视界 --Java 大数据在智能教育学习效果评估与教学质量改进中的应用（209）](https://blog.csdn.net/atgfg/article/details/147233000)
+
++ [【Rust】Rust中的枚举与模式匹配，原理解析与应用实战](https://blog.csdn.net/littlefun591/article/details/147497777)
+
++ [ASP.NET Core 主机模型详解：Host、WebHost与WebApplication的对比与实践【代码之美】](https://blog.csdn.net/mss359681091/article/details/147494700)
+
++ [π0.5——让VLA走出实验室，泛化在开放世界中的π0推理加强版：同一个模型中先高层推断出子任务，后低层执行子任务](https://blog.csdn.net/v_JULY_v/article/details/147443184)
+
++ [【GitHub开源AI精选】Sitcom-Crafter：北航联合港中文等高校打造的剧情驱动3D动作生成系统](https://blog.csdn.net/xiaobing259/article/details/147462810)
+
++ [【算法-双指针】双指针大揭秘：如何用两根指针优化你的代码](https://blog.csdn.net/2302_79177254/article/details/147440344)
+
++ [2025年04月23日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/147444381)
+
++ [微信小程序（uniapp）自定义 TabBar](https://blog.csdn.net/Rocky_Time/article/details/147445166)
+
++ [【全部更新】2025金地杯B题山西省大学生数学建模思路代码文章教学:智能评阅算法效果的综合评价](https://blog.csdn.net/xb459149247/article/details/147489776)
+

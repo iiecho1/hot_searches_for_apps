@@ -29,3 +29,11 @@
 
 + [iPhone14Pro 请大家推荐一款好用的磁吸充电宝](https://www.v2ex.com/t/1127760)
 
++ [小米真的有工时排名吗？](https://www.v2ex.com/t/1127930)
+
++ [35+， gap 近一年后求职，俩终面 offer 均被 HR 最后关头卡掉，心态有点崩，吐个槽](https://www.v2ex.com/t/1127843)
+
++ [为什么程序员和画师对 AI 的态度差别那么大?](https://www.v2ex.com/t/1127763)
+
++ [现在的学生更可怜了](https://www.v2ex.com/t/1127918)
+
