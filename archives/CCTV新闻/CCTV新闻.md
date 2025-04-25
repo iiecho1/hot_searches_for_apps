@@ -223,3 +223,9 @@
 
 + [特朗普称“俄罗斯停止占领整个乌克兰已是相当大的让步”，有乌媒表示不满](https://news.cctv.com/2025/04/25/ARTIedi8SUUDTegf2D7xGWXv250425.shtml)
 
++ [日本出台紧急方案应对美关税政策影响](https://news.cctv.com/2025/04/25/ARTIQssm5soyixyCZJ4bgxem250425.shtml)
+
++ [全球瞭望｜埃及学者：美国民主实为寡头政治](https://news.cctv.com/2025/04/25/ARTIdkvnvvGQ7q62ffe2u8Fi250425.shtml)
+
++ [俄外长说已准备好就乌克兰问题达成协议](https://military.cctv.com/2025/04/25/ARTIIp56oWDgF5BpOuNleGXO250425.shtml)
+

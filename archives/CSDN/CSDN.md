@@ -187,3 +187,9 @@
 
 + [【金仓数据库征文】- 金融HTAP实战：KingbaseES实时风控与毫秒级分析一体化架构](https://blog.csdn.net/2302_78391795/article/details/147495163)
 
++ [【金仓数据库征文】从云计算到区块链：金仓数据库的颠覆性创新之路](https://blog.csdn.net/lrq13965748542/article/details/147494956)
+
++ [《巧用DeepSeek快速搞定数据分析》书籍分享](https://blog.csdn.net/yuan2019035055/article/details/147459111)
+
++ [10天学会嵌入式技术之51单片机-day-6](https://blog.csdn.net/2301_80748708/article/details/147477430)
+
