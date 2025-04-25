@@ -161,3 +161,15 @@
 
 + [古特雷斯呼吁全球坚定履行气候承诺 推动向清洁能源加速转型](https://news.cctv.com/2025/04/24/ARTIiPCMU8Z2C72gCRS6oHoa250424.shtml)
 
++ [俄称尚未收到德国就“北溪”事件的调查结果](https://news.cctv.com/2025/04/26/ARTIhZGuekxccaXMrjTwGWWk250426.shtml)
+
++ [特朗普政府称将恢复被终止的外国学生合法身份](https://news.cctv.com/2025/04/26/ARTII3A6erFzioyx0tbDJw9y250426.shtml)
+
++ [美国挥舞“关税大棒”　各方怎么接招？](https://news.cctv.com/2025/04/26/ARTIPc68PaKKIpGy9rq8B1AS250425.shtml)
+
++ [俄罗斯一高级军官在车辆爆炸中身亡](https://news.cctv.com/2025/04/26/ARTIN5koEp8sH6PkBaAwzI37250425.shtml)
+
++ [美伊第三轮核问题会谈在即 伊朗代表团抵达阿曼](https://news.cctv.com/2025/04/26/ARTIFpFHZ0nmOhhIGMHTX2ag250425.shtml)
+
++ [枪击事件后第三天 巴印在克什米尔交火](https://news.cctv.com/2025/04/26/ARTInP4aFXqjcjFZmNaG0fm1250425.shtml)
+
