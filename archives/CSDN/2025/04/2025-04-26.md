@@ -123,3 +123,15 @@
 
 + [2025年04月24日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/147482951)
 
++ [【金仓数据库征文】——选择金仓，选择胜利](https://blog.csdn.net/2301_81831423/article/details/147506476)
+
++ [C++ 日志系统实战第一步：项目功能与技术架构详解](https://blog.csdn.net/2301_82213854/article/details/147419935)
+
++ [人脸识别考勤系统实现教程：基于Face-Recognition、OpenCV与SQLite](https://blog.csdn.net/m0_72958694/article/details/147490641)
+
++ [【HarmonyOS4+NEXT】Slider组件详解与实战](https://blog.csdn.net/m0_55394328/article/details/147406805)
+
++ [【全部更新】2025金地杯C题山西省大学生数学建模思路代码文章教学:抗抑郁药物的疗效问题](https://blog.csdn.net/xb459149247/article/details/147489982)
+
++ [利用deepseek快速生成甘特图](https://blog.csdn.net/youhebuke225/article/details/147273054)
+
