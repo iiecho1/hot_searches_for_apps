@@ -19,3 +19,13 @@
 
 + [有什么吃完一辈子再也不想吃的东西](https://www.v2ex.com/t/1127822)
 
++ [现在取名字怎么如此困难](https://www.v2ex.com/t/1127788)
+
++ [大家有没有看过之后大呼过瘾的技术书籍推荐](https://www.v2ex.com/t/1127830)
+
++ [下一代不如上一代，是怎么样的感受？](https://www.v2ex.com/t/1127921)
+
++ [jetbrains 续费折扣 25%](https://www.v2ex.com/t/1127742)
+
++ [iPhone14Pro 请大家推荐一款好用的磁吸充电宝](https://www.v2ex.com/t/1127760)
+

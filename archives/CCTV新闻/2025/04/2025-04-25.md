@@ -177,3 +177,9 @@
 
 + [朝中社发表评论文章 谴责美军部署B1-B轰炸机至日本](https://news.cctv.com/2025/04/25/ARTI4vgXaYVOMTWnfhiMsDEt250425.shtml)
 
++ [以军称若哈马斯不尽快释放剩余被扣押人员将发动“更激烈袭击”](https://military.cctv.com/2025/04/25/ARTI250oDOwV1oPO5O14Q61f250425.shtml)
+
++ [美国沃尔玛等主要零售商警告关税政策将抬高物价](https://news.cctv.com/2025/04/25/ARTIRRjsKhGURHP4iCoLyODI250425.shtml)
+
++ [日本民众集会抗议驻日美军性暴力事件](https://news.cctv.com/2025/04/25/ARTIfYr45DUG3NSS4HVBXSzX250425.shtml)
+

@@ -135,3 +135,11 @@
 
 + [Spring Boot + MyBatis 动态字段更新方法](https://blog.csdn.net/BillKu/article/details/147462794)
 
++ [【HarmonyOS4+NEXT】Slider组件详解与实战](https://blog.csdn.net/m0_55394328/article/details/147406805)
+
++ [NVIDIA 自动驾驶技术见解](https://blog.csdn.net/hometowna/article/details/147422391)
+
++ [Maven 依赖坐标与BOM统一管理](https://blog.csdn.net/lilinhai548/article/details/147446760)
+
++ [【Linux】计算机基本知识补充](https://blog.csdn.net/2301_80224556/article/details/147428563)
+
