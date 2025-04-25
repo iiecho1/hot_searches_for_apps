@@ -171,3 +171,9 @@
 
 + [加拿大多伦多皮尔逊国际机场一男子被警方击毙](https://news.cctv.com/2025/04/25/ARTIz0IYrF7xaxmjPPFQCcbz250425.shtml)
 
++ [美检方正式寻求判处枪杀联合健康高管嫌疑人死刑](https://news.cctv.com/2025/04/25/ARTI1xYc6Qst3Z0bmufwoRZn250425.shtml)
+
++ [以色列民众抗议 要求政府达成停火协议](https://news.cctv.com/2025/04/25/ARTIZaOJSSxWRU8PHHhxzLmJ250425.shtml)
+
++ [朝中社发表评论文章 谴责美军部署B1-B轰炸机至日本](https://news.cctv.com/2025/04/25/ARTI4vgXaYVOMTWnfhiMsDEt250425.shtml)
+
