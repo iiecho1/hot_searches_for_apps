@@ -193,3 +193,11 @@
 
 + [10天学会嵌入式技术之51单片机-day-6](https://blog.csdn.net/2301_80748708/article/details/147477430)
 
++ [动手学机器学习——支持向量机SVM(含完整代码实现)](https://blog.csdn.net/qq_53769632/article/details/147482964)
+
++ [【金仓数据库征文】从 HTAP 到 AI 加速，KingbaseES 的未来之路](https://blog.csdn.net/qq_52213943/article/details/147455909)
+
++ [基于AI技术的在线监考系统设计与实现](https://blog.csdn.net/qq_16242613/article/details/147493341)
+
++ [【金仓数据库征文】运营商背后的“隐形冠军“：金仓数据库日吞76亿条数据，守护你的每一秒在线](https://blog.csdn.net/weixin_43151418/article/details/147476466)
+
