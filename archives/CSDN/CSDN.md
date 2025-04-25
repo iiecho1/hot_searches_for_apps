@@ -161,3 +161,9 @@
 
 + [【全部更新】2025金地杯B题山西省大学生数学建模思路代码文章教学:智能评阅算法效果的综合评价](https://blog.csdn.net/xb459149247/article/details/147489776)
 
++ [PyTorch生成式人工智能实战（3）——分类任务详解](https://blog.csdn.net/LOVEmy134611/article/details/146259435)
+
++ [2025/4/23 心得](https://blog.csdn.net/bbc121223/article/details/147463865)
+
++ [前端流式输出大模型回答时为什么使用长连接，具体怎么实现流式输出markdown文本](https://blog.csdn.net/2302_80473627/article/details/147472130)
+

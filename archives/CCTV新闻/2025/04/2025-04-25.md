@@ -203,3 +203,7 @@
 
 + [记者手记｜“你不打他，他就以为只有他会打人”——“可可王国”的关税之怒](https://news.cctv.com/2025/04/25/ARTIHAtVySlmsgMLLrwG0Qrq250425.shtml)
 
++ [泰国国家警察总署一飞机坠海 机上6人全部遇难](https://news.cctv.com/2025/04/25/ARTISSj3Lv2AuyZoDFXVQ1J2250425.shtml)
+
++ [世卫组织等机构警告全球免疫工作面临日益严重威胁](https://news.cctv.com/2025/04/25/ARTIDyZwSKLD62Q1s0WbnKJg250425.shtml)
+
