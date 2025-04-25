@@ -107,3 +107,19 @@
 
 + [矩阵运算和线性代数操作开源库](https://blog.csdn.net/byxdaz/article/details/147467730)
 
++ [百度搜索AI开放计划：助力开发者通过MCP Server连接用户和应用](https://blog.csdn.net/qq_44866828/article/details/147510840)
+
++ [Web 服务架构与技术组件概述](https://blog.csdn.net/m1154619573/article/details/147457409)
+
++ [Spring boot 中的IOC容器对Bean的管理](https://blog.csdn.net/FAQEW/article/details/147495358)
+
++ [Nginx 中间件](https://blog.csdn.net/owolai/article/details/147482443)
+
++ [《巧用DeepSeek快速搞定数据分析》书籍分享](https://blog.csdn.net/yuan2019035055/article/details/147459111)
+
++ [并发设计模式实战系列(7)：Thread Local Storage (TLS)](https://blog.csdn.net/IRpickstars/article/details/147498493)
+
++ [机器人操作中的生成式 AI：综述（上）](https://blog.csdn.net/yorkhunter/article/details/147409611)
+
++ [2025年04月24日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/147482951)
+
