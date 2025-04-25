@@ -183,3 +183,7 @@
 
 + [【全部更新】2025金地杯C题山西省大学生数学建模思路代码文章教学:抗抑郁药物的疗效问题](https://blog.csdn.net/xb459149247/article/details/147489982)
 
++ [Puter部署指南：基于Docker的多功能个人云平台掌控自己的数据](https://blog.csdn.net/m0_61712829/article/details/147483401)
+
++ [【金仓数据库征文】- 金融HTAP实战：KingbaseES实时风控与毫秒级分析一体化架构](https://blog.csdn.net/2302_78391795/article/details/147495163)
+

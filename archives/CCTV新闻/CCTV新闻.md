@@ -213,3 +213,13 @@
 
 + [巴西最高法院下令逮捕前总统科洛尔](https://news.cctv.com/2025/04/25/ARTIxfltbkBQm9LdCEaA4Hzn250425.shtml)
 
++ [纪录连破7个月 日本东京4月米价比去年几乎翻倍](https://news.cctv.com/2025/04/25/ARTIYRDSazWWvPtLIgtqiNvZ250425.shtml)
+
++ [约2万人将失业？美国芯片巨头英特尔宣布裁员](https://news.cctv.com/2025/04/25/ARTIjqnOtnuQJilaiCMQEGZI250425.shtml)
+
++ [俄国防部副部长：俄中在世界反法西斯战争中凝结的深厚友谊将代代相传](https://news.cctv.com/2025/04/25/ARTIGDwwaiQr6pH7dfQhMmGt250425.shtml)
+
++ [巴基斯坦防长警告：印控克什米尔地区枪击事件可能致两国爆发“全面战争”](https://news.cctv.com/2025/04/25/ARTIjVFBRaq7f0e1xxpkCtyY250425.shtml)
+
++ [特朗普称“俄罗斯停止占领整个乌克兰已是相当大的让步”，有乌媒表示不满](https://news.cctv.com/2025/04/25/ARTIedi8SUUDTegf2D7xGWXv250425.shtml)
+
