@@ -147,3 +147,9 @@
 
 + [Docker - 集成Prometheus监控指标：Spring Boot微服务的可观测性实践](https://blog.csdn.net/Lisiyang0928/article/details/147524081)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在能源行业设备状态监测与故障预测中的应用（210）](https://blog.csdn.net/atgfg/article/details/147287212)
+
++ [【优选算 | 双指针】双指针大揭秘：如何用两根指针优化你的代码](https://blog.csdn.net/2302_79177254/article/details/147440344)
+
++ [双三相电机与直接转矩控制（DTC）：从科普到原理的完整剖析](https://blog.csdn.net/qq_56419897/article/details/147500256)
+

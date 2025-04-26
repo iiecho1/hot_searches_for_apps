@@ -175,3 +175,9 @@
 
 + [美国挥舞“关税大棒” 各方怎么接招？](https://news.cctv.com/2025/04/26/ARTIPc68PaKKIpGy9rq8B1AS250425.shtml)
 
++ [美司法部放宽针对媒体泄密案的调查权限](https://news.cctv.com/2025/04/26/ARTICJUovGPcUyDjpCxgPxFs250426.shtml)
+
++ [美国麻疹疫情蔓延 确诊病例增至884例](https://news.cctv.com/2025/04/26/ARTIGMAAUvCKkyw8oge8Wuf1250426.shtml)
+
++ [金正恩出席朝鲜人民军海军驱逐舰入水仪式](https://news.cctv.com/2025/04/26/ARTIp4JZcKfMTjo3Uml0mtRh250426.shtml)
+
