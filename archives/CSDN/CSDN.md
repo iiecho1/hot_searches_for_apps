@@ -167,3 +167,9 @@
 
 + [微信小程序（uniapp）自定义 TabBar](https://blog.csdn.net/Rocky_Time/article/details/147445166)
 
++ [【金仓数据库征文】金仓数据库KingbaseES：千行百业国产化征程中的璀璨之星](https://blog.csdn.net/user340/article/details/147517536)
+
++ [计算机视觉——速度与精度的完美结合的实时目标检测算法RF-DETR详解](https://blog.csdn.net/matt45m/article/details/147464643)
+
++ [Docker Compose一键部署LNMP环境全攻略](https://blog.csdn.net/u011570324/article/details/147523961)
+
