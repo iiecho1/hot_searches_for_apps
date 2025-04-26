@@ -185,3 +185,7 @@
 
 + [面向高性能运动控制的MCU：架构创新、算法优化与应用分析](https://blog.csdn.net/ANSILIC/article/details/147523354)
 
++ [Python从0到100（九十六）：ResNext 网络核心技术解析及UCI-HAR数据集实验分析](https://blog.csdn.net/weixin_51390582/article/details/147352027)
+
++ [P12167 [蓝桥杯 2025 省 C/Python A] 倒水](https://blog.csdn.net/triticale/article/details/147522358)
+
