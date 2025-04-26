@@ -191,3 +191,5 @@
 
 + [金正恩出席朝鲜海军新型驱逐舰下水仪式](https://military.cctv.com/2025/04/26/ARTI5cu9dXc2eZmuVohiBokB250426.shtml)
 
++ [罗马教皇方济各葬礼在梵蒂冈举行](https://news.cctv.com/2025/04/26/ARTI0vGCIDA3nbPjeJSeE2PI250426.shtml)
+
