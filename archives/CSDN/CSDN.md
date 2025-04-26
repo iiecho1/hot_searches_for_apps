@@ -153,3 +153,9 @@
 
 + [双三相电机与直接转矩控制（DTC）：从科普到原理的完整剖析](https://blog.csdn.net/qq_56419897/article/details/147500256)
 
++ [Javashop新零售电商系统：构建智能零售生态的终极解决方案](https://blog.csdn.net/weixin_44976692/article/details/147462710)
+
++ [Python在AI虚拟教学视频开发中的核心技术与前景展望](https://blog.csdn.net/deepever/article/details/147517651)
+
++ [React 与 Vue：两大前端框架的深度对比](https://blog.csdn.net/vvilkim/article/details/146010217)
+

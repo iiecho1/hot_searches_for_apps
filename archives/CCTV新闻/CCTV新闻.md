@@ -181,3 +181,7 @@
 
 + [金正恩出席朝鲜人民军海军驱逐舰入水仪式](https://news.cctv.com/2025/04/26/ARTIp4JZcKfMTjo3Uml0mtRh250426.shtml)
 
++ [日本240多处河川和地下水检测点测出有机氟化合物超标](https://news.cctv.com/2025/04/26/ARTI4ludslVTdfMiwLE8kQJE250426.shtml)
+
++ [亲诚惠容 命运与共（和音）](https://news.cctv.com/2025/04/26/ARTIjvtmaxC0h5yCyNjrxAnh250426.shtml)
+
