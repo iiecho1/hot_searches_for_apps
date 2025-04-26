@@ -193,3 +193,13 @@
 
 + [罗马教皇方济各葬礼在梵蒂冈举行](https://news.cctv.com/2025/04/26/ARTI0vGCIDA3nbPjeJSeE2PI250426.shtml)
 
++ [俄军方：已完成库尔斯克地区全面控制行动](https://news.cctv.com/2025/04/26/ARTILF7hpdpLggLmopHmmVGQ250426.shtml)
+
++ [漠视发展中国家权益 扰乱全球贸易秩序——全球南方国家批评美关税政策](https://news.cctv.com/2025/04/26/ARTIh0GjDAZqeSn1kjZVQjO9250426.shtml)
+
++ [伊朗港口爆炸事件已致195人受伤](https://news.cctv.com/2025/04/26/ARTImdBz7cdLMpedeJuZGyiE250426.shtml)
+
++ [视频丨伤者升至80人 伊朗港口爆炸源头可能为“危险品和化学品仓库”](https://news.cctv.com/2025/04/26/ARTIha3mg4G7nx8eZqWFrZdU250426.shtml)
+
++ [伊朗港口油罐爆炸事件已致47人受伤](https://news.cctv.com/2025/04/26/ARTIwcgEV1xgqiZtu4nlwIk2250426.shtml)
+

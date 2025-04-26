@@ -29,3 +29,19 @@
 
 + [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 
++ [lapce/lapce](https://github.com/lapce/lapce)
+
++ [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+
++ [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+
++ [ruanyf/weekly](https://github.com/ruanyf/weekly)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+
++ [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
+
