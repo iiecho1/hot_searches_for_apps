@@ -165,3 +165,11 @@
 
 + [普京与美特使确认 俄愿无先决条件与乌谈判](https://news.cctv.com/2025/04/27/ARTIGP70ygwJHQeDi2r9BLL8250426.shtml)
 
++ [意大利高度警戒，梵蒂冈下月选举，多国政要出席方济各葬礼](https://news.cctv.com/2025/04/27/ARTIoMmobnN402RI1dFQaQTT250427.shtml)
+
++ [埃及消息人士：哈马斯愿释放所有被扣押人员以实现停火5年](https://news.cctv.com/2025/04/27/ARTI4slGq0OfGM7IVGUAtn9d250427.shtml)
+
++ [14死700多伤 大火延烧 调查困难 伊朗港口爆炸最新情况→](https://news.cctv.com/2025/04/27/ARTIIlPW7oUsmAe2TyEmDrih250427.shtml)
+
++ [俄愿无先决条件谈判 乌已准备好无条件停火 俄乌冲突迎来拐点？](https://news.cctv.com/2025/04/27/ARTIXrygSVm8XkbO5LpZ7pNC250427.shtml)
+
