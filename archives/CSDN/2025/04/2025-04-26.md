@@ -143,3 +143,7 @@
 
 + [Flask项目在Ubuntu18.04上的部署](https://blog.csdn.net/qq_70674687/article/details/147497063)
 
++ [机器学习（7）——K均值聚类](https://blog.csdn.net/jiaomongjun/article/details/147289322)
+
++ [Docker - 集成Prometheus监控指标：Spring Boot微服务的可观测性实践](https://blog.csdn.net/Lisiyang0928/article/details/147524081)
+
