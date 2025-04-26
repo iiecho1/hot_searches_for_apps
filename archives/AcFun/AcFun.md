@@ -147,3 +147,9 @@
 
 + [为什么声音的极限是194分贝，超过了会发生什么](https://m.acfun.cn/v/?ac=47189380)
 
++ [半年没抽赏，上来就给我整不会了](https://m.acfun.cn/v/?ac=47189988)
+
++ [玉足女杀手大战机器人【铁拳8】安娜vs杰克【TEKKEN8】Anna vs Jack](https://m.acfun.cn/v/?ac=47188899)
+
++ [俏皮柏妮思，这皮袜脱下是啥味的？](https://m.acfun.cn/v/?ac=47153004)
+

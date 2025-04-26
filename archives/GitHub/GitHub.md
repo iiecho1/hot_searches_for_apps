@@ -45,3 +45,5 @@
 
 + [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
 
++ [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
+
