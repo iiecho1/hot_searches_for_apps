@@ -51,3 +51,7 @@
 
 + [炒股影响到生活了](https://www.v2ex.com/t/1128075)
 
++ [从 iOS 迁移到安卓的一点小笔记](https://www.v2ex.com/t/1128125)
+
++ [生产环境部署疑问](https://www.v2ex.com/t/1128044)
+

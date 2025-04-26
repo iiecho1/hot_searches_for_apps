@@ -189,3 +189,5 @@
 
 + [专访｜期待深化对华媒体合作　促进国际传播多元发展——访几内亚比绍社会通讯部部长迪亚斯](https://news.cctv.com/2025/04/26/ARTIoHelQgMyVfeAkn9jAek4250426.shtml)
 
++ [金正恩出席朝鲜海军新型驱逐舰下水仪式](https://military.cctv.com/2025/04/26/ARTI5cu9dXc2eZmuVohiBokB250426.shtml)
+

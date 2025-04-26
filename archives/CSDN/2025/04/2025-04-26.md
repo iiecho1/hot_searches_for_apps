@@ -175,3 +175,13 @@
 
 + [Python数据分析案例73——基于多种异常值监测算法探查内幕交易信息](https://blog.csdn.net/weixin_46277779/article/details/147522846)
 
++ [【金仓数据库征文】_AI 赋能数据库运维：金仓KES的智能化未来](https://blog.csdn.net/lwcwam/article/details/147522647)
+
++ [PyTabKit：比sklearn更强大的表格数据机器学习框架](https://blog.csdn.net/m0_46510245/article/details/147528037)
+
++ [并发编程【深度解剖】](https://blog.csdn.net/2302_80067378/article/details/147251353)
+
++ [微信小程序蓝牙连接打印机打印单据完整Demo【蓝牙小票打印】](https://blog.csdn.net/mss359681091/article/details/147514281)
+
++ [面向高性能运动控制的MCU：架构创新、算法优化与应用分析](https://blog.csdn.net/ANSILIC/article/details/147523354)
+
