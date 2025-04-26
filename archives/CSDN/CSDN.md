@@ -135,3 +135,9 @@
 
 + [安恒web安全春招实战](https://blog.csdn.net/persist213/article/details/147478280)
 
++ [Cephalon端脑云：神经形态计算+边缘AI·重定义云端算力](https://blog.csdn.net/Dovis5884/article/details/147409082)
+
++ [ASP.NET Core 主机模型详解：Host、WebHost与WebApplication的对比与实践【代码之美】](https://blog.csdn.net/mss359681091/article/details/147494700)
+
++ [我的世界Java版1.21.4的Fabric模组开发教程(五)创建高级物品:盔甲](https://blog.csdn.net/Jackson_JinLei/article/details/147373740)
+
