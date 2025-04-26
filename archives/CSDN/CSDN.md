@@ -217,3 +217,9 @@
 
 + [Linux驱动开发快速上手指南：从理论到实战](https://blog.csdn.net/niuTyler/article/details/147515230)
 
++ [金仓数据库征文-政务领域国产化数据库更替：金仓 KingbaseES 应用实践](https://blog.csdn.net/Pocker_Spades_A/article/details/147521822)
+
++ [《Python3网络爬虫开发实战（第二版）》配套案例 spa6](https://blog.csdn.net/qq_28247201/article/details/147491861)
+
++ [GitHub 趋势日报 (2025年04月24日)](https://blog.csdn.net/ShrCheng/article/details/147497578)
+
