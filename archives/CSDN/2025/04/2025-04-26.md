@@ -189,3 +189,5 @@
 
 + [P12167 [蓝桥杯 2025 省 C/Python A] 倒水](https://blog.csdn.net/triticale/article/details/147522358)
 
++ [10天学会嵌入式技术之51单片机-day-7](https://blog.csdn.net/2301_80748708/article/details/147308952)
+
