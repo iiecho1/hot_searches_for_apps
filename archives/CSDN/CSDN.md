@@ -101,3 +101,13 @@
 
 + [双三相电机与直接转矩控制（DTC）：从科普到原理的完整剖析](https://blog.csdn.net/qq_56419897/article/details/147500256)
 
++ [Java 大视界 --Java 大数据在智慧农业农产品市场价格预测与种植决策支持中的应用（212）](https://blog.csdn.net/atgfg/article/details/147302366)
+
++ [机器学习（7）——K均值聚类](https://blog.csdn.net/jiaomongjun/article/details/147289322)
+
++ [Spring Boot知识点详解](https://blog.csdn.net/qq_42219004/article/details/147476513)
+
++ [20242817-李臻-课上测试：信号处理](https://blog.csdn.net/weixin_52098515/article/details/147499501)
+
++ [Web4.0身份革命：去中心化身份系统的全栈实现路径](https://blog.csdn.net/cainiao080605/article/details/147404153)
+

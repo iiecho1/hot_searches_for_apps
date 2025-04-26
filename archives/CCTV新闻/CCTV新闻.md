@@ -161,3 +161,7 @@
 
 + [日本大阪府一工业公司职工血检检出高浓度有机氟化物](https://news.cctv.com/2025/04/24/ARTINh9FsSl1gy2Sput4nrBU250424.shtml)
 
++ [第152次中老缅泰湄公河联合巡逻执法行动结束](https://news.cctv.com/2025/04/27/ARTIJ0BAFuoENif4TsTl29WI250427.shtml)
+
++ [普京与美特使确认 俄愿无先决条件与乌谈判](https://news.cctv.com/2025/04/27/ARTIGP70ygwJHQeDi2r9BLL8250426.shtml)
+
