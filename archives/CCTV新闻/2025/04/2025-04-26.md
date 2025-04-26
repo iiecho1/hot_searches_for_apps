@@ -185,3 +185,7 @@
 
 + [亲诚惠容 命运与共（和音）](https://news.cctv.com/2025/04/26/ARTIjvtmaxC0h5yCyNjrxAnh250426.shtml)
 
++ [中国代表：希望叙利亚尽快恢复稳定走上和平发展之路](https://news.cctv.com/2025/04/26/ARTImhVkRBHEDCNWgddgPc44250426.shtml)
+
++ [专访｜期待深化对华媒体合作　促进国际传播多元发展——访几内亚比绍社会通讯部部长迪亚斯](https://news.cctv.com/2025/04/26/ARTIoHelQgMyVfeAkn9jAek4250426.shtml)
+

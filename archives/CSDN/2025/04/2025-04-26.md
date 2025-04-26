@@ -173,3 +173,5 @@
 
 + [Docker Compose一键部署LNMP环境全攻略](https://blog.csdn.net/u011570324/article/details/147523961)
 
++ [Python数据分析案例73——基于多种异常值监测算法探查内幕交易信息](https://blog.csdn.net/weixin_46277779/article/details/147522846)
+
