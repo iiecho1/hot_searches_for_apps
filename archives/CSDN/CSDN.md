@@ -207,3 +207,13 @@
 
 + [FWFT_FIFO和Standard_FIFO对比仿真](https://blog.csdn.net/cjie221/article/details/147522425)
 
++ [《后端如何接收数据？详解8种HTTP请求方式及SpringBoot代码实现》](https://blog.csdn.net/Rqaqedamancy/article/details/147539178)
+
++ [Java 大视界 --Java 大数据机器学习模型在金融风险压力测试中的应用与验证（211）](https://blog.csdn.net/atgfg/article/details/147287223)
+
++ [【linux】冯诺依曼体系、操作系统、进程、PCB的概念讲解](https://blog.csdn.net/2301_80751958/article/details/147517426)
+
++ [2025 蓝桥杯网络安全赛道 个人writeup](https://blog.csdn.net/2301_80146720/article/details/147536886)
+
++ [Linux驱动开发快速上手指南：从理论到实战](https://blog.csdn.net/niuTyler/article/details/147515230)
+

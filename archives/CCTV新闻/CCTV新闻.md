@@ -211,3 +211,7 @@
 
 + [伊朗港口爆炸事件已致406人受伤](https://news.cctv.com/2025/04/26/ARTI6zkJnKcsqfw22d7YcttF250426.shtml)
 
++ [伊朗救援组织：港口爆炸事件已致4人死亡](https://news.cctv.com/2025/04/26/ARTIZzz4cYO6oBmtuNJQqkHb250426.shtml)
+
++ [3名中国公民在伊朗港口爆炸中受轻伤](https://news.cctv.com/2025/04/26/ARTI88j1WEh2qrpMhxnipOJc250426.shtml)
+
