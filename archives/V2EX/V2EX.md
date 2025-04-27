@@ -41,3 +41,5 @@
 
 + [ES6 和 L6 怎么选？](https://www.v2ex.com/t/1128294)
 
++ [记一次失败的 Go 面试](https://www.v2ex.com/t/1128388)
+
