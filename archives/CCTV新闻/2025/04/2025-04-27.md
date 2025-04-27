@@ -209,3 +209,5 @@
 
 + [尼日尔军方：该国西部边境遭袭致12名士兵死亡](https://news.cctv.com/2025/04/27/ARTI65KVm3qj0YgfRBKx2dHC250427.shtml)
 
++ [疑遭飞鸟撞击 一架英国航空公司航班备降波士顿机场](https://news.cctv.com/2025/04/27/ARTISY2OKrWJHBNIqglkEeeL250427.shtml)
+
