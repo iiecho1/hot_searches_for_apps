@@ -105,3 +105,17 @@
 
 + [路由交换网络专题 | 第八章 | GVRP配置 | 端口安全 | 端口隔离 | Mux-VLAN | Hybrid](https://blog.csdn.net/ZJC744575/article/details/147540240)
 
++ [什么是WebSocket？NGINX如何支持WebSocket协议？](https://blog.csdn.net/caoli201314/article/details/147540276)
+
++ [重塑编程体验边界：明基RD280U显示器深度体验](https://blog.csdn.net/qq_34419312/article/details/147566768)
+
++ [python调用ffmpeg对截取视频片段，可批量处理](https://blog.csdn.net/BO_S__/article/details/147529178)
+
++ [linux的例行性工作（at）](https://blog.csdn.net/2302_78529604/article/details/147536889)
+
++ [微信小程序蓝牙连接打印机打印单据完整Demo【蓝牙小票打印】](https://blog.csdn.net/mss359681091/article/details/147514281)
+
++ [React 与 Vue 虚拟 DOM 实现原理深度对比：从理论到实践](https://blog.csdn.net/vvilkim/article/details/147528709)
+
++ [云原生--核心组件-容器篇-3-Docker核心之-镜像](https://blog.csdn.net/qq_34207422/article/details/147545016)
+
