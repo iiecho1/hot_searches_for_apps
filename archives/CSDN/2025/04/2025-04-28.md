@@ -101,3 +101,7 @@
 
 + [简述删除一个Pod流程？](https://blog.csdn.net/unbuntu_luo/article/details/147526323)
 
++ [深度学习 视觉处理(CNN) day_02](https://blog.csdn.net/qq_59348412/article/details/147481201)
+
++ [路由交换网络专题 | 第八章 | GVRP配置 | 端口安全 | 端口隔离 | Mux-VLAN | Hybrid](https://blog.csdn.net/ZJC744575/article/details/147540240)
+
