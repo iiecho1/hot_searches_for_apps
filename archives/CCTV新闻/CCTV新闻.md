@@ -235,3 +235,11 @@
 
 + [联合国官员称加沙物资消耗殆尽 呼吁解除封锁](https://news.cctv.com/2025/04/27/ARTIVU9XXLxR05spOmS3mdH5250427.shtml)
 
++ [美以芬太尼为借口滥施关税，纯属“内病外治”（钟声）](https://news.cctv.com/2025/04/27/ARTI7YR8p0in1Pw7tExLpSnv250427.shtml)
+
++ [美国“贸易吃亏论”站不住脚——访德国“隐形冠军之父”赫尔曼·西蒙](https://news.cctv.com/2025/04/27/ARTIZx0tOPlpWSvWYG7AnLsZ250427.shtml)
+
++ [首季中国经济观察丨外资眼中“确定性的绿洲”——首季中国经济一线调研报告之十](https://news.cctv.com/2025/04/27/ARTISLr6alYyaY8ZDrFsfSsP250427.shtml)
+
++ [“中国致力于构建基于对话与信任的伙伴关系”——访联合国副秘书长汤姆·弗莱彻](https://news.cctv.com/2025/04/27/ARTIBUjo0i4LnO34fweg11GF250427.shtml)
+

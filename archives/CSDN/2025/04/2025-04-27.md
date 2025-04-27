@@ -193,3 +193,11 @@
 
 + [第十六周蓝桥杯2025网络安全赛道](https://blog.csdn.net/ALe0721/article/details/147542648)
 
++ [计算机视觉——对比YOLOv12、YOLOv11、和基于Darknet的YOLOv7的微调对比](https://blog.csdn.net/matt45m/article/details/147495335)
+
++ [GenPRM：思维链+代码验证，通过生成式推理的过程奖励让大模型推理准确率显著提升](https://blog.csdn.net/m0_46510245/article/details/147549307)
+
++ [基于OpenMV+STM32+OLED与YOLOv11+PaddleOCR的嵌入式车牌识别系统开发笔记](https://blog.csdn.net/weixin_46221106/article/details/147541902)
+
++ [【网络原理】从零开始深入理解TCP的各项特性和机制.(三)](https://blog.csdn.net/2302_81886858/article/details/147554768)
+
