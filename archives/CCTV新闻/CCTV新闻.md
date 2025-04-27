@@ -193,3 +193,13 @@
 
 + [伊朗南部沙希德拉贾伊港发生爆炸事件 我驻伊朗使馆发布安全提醒](https://news.cctv.com/2025/04/27/ARTIc2LPmb3asq5S8UVy2VmY250427.shtml)
 
++ [巴西科技部部长：深化巴中科技合作 共促世界和平发展](https://news.cctv.com/2025/04/27/ARTIfZFxertUWuilLZ8lfzjS250427.shtml)
+
++ [美国经济学家萨克斯：美国单边主义政策破坏全球秩序](https://news.cctv.com/2025/04/27/ARTInjvCY919NxadZWyAtkrn250427.shtml)
+
++ [德企看好中国经济“引擎”作用](https://news.cctv.com/2025/04/27/ARTIPOEXhdv0zFaggwgX0DZv250427.shtml)
+
++ [做现代化道路上的同行者和真朋友——中肯携手书写共同发展的故事](https://news.cctv.com/2025/04/27/ARTIeM6nHoQZwfTyd1HUm0Mz250427.shtml)
+
++ [印方称与巴基斯坦军队在克什米尔交火](https://news.cctv.com/2025/04/27/ARTIwqEYQqBcnCYIolW554eJ250427.shtml)
+
