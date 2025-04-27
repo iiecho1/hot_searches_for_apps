@@ -253,3 +253,7 @@
 
 + [李在明当选韩国共同民主党总统候选人](https://news.cctv.com/2025/04/27/ARTIhLKw5iXXOAEvSnmi2K3H250427.shtml)
 
++ [伊朗国防部发言人：发生爆炸的港口无进出口军用物资](https://news.cctv.com/2025/04/27/ARTIsqEOmqpw10YQvdb6isHq250427.shtml)
+
++ [伊朗港口爆炸已致25死逾千受伤 大部分火情已扑灭](https://news.cctv.com/2025/04/27/ARTIDSZgV9gjehedXTT5P1h4250427.shtml)
+

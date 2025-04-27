@@ -207,3 +207,11 @@
 
 + [【网络原理】从零开始深入理解TCP的各项特性和机制.(二)](https://blog.csdn.net/2302_81886858/article/details/147552837)
 
++ [OpenManus实战—云上一键部署，重塑复杂任务自动化](https://blog.csdn.net/weixin_52908342/article/details/147564338)
+
++ [MyBatis 插件开发的完整详细例子](https://blog.csdn.net/zp357252539/article/details/147545304)
+
++ [Jenkins流水线管理工具](https://blog.csdn.net/biyn9/article/details/147515205)
+
++ [WEB安全--RCE--webshell bypass](https://blog.csdn.net/m0_74800552/article/details/147524520)
+
