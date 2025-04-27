@@ -173,3 +173,5 @@
 
 + [多模态（3）：实战 GPT-4o 视频理解](https://blog.csdn.net/weixin_34452850/article/details/147502946)
 
++ [DeepSeek分布式训练框架中的混合精度计算：硬件成本优化的技术实践](https://blog.csdn.net/qq_32682301/article/details/147545885)
+

@@ -211,3 +211,7 @@
 
 + [疑遭飞鸟撞击 一架英国航空公司航班备降波士顿机场](https://news.cctv.com/2025/04/27/ARTISY2OKrWJHBNIqglkEeeL250427.shtml)
 
++ [美国田纳西州一小型飞机坠毁 机上3人全部遇难](https://news.cctv.com/2025/04/27/ARTIlCrDGDvD4P68SuLNLf6Z250427.shtml)
+
++ [加拿大温哥华发生驾车冲撞人群事件 司机已被警方控制](https://news.cctv.com/2025/04/27/ARTIjNsJbHMVISsNeXqVlEqO250427.shtml)
+

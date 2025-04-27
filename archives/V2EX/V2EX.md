@@ -39,3 +39,5 @@
 
 + [终究还是从小米换到了 oppo。](https://www.v2ex.com/t/1128296)
 
++ [ES6 和 L6 怎么选？](https://www.v2ex.com/t/1128294)
+
