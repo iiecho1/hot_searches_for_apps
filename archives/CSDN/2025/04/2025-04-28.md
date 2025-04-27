@@ -119,3 +119,9 @@
 
 + [云原生--核心组件-容器篇-3-Docker核心之-镜像](https://blog.csdn.net/qq_34207422/article/details/147545016)
 
++ [大模型SFT数据筛选的艺术：探索IFD、Supperfiltering、MoDS、CaR、Nuggets与LESS的核心价值](https://blog.csdn.net/sinat_39620217/article/details/147503033)
+
++ [tcp 和http 网络知识](https://blog.csdn.net/weixin_42283818/article/details/147517185)
+
++ [如何在SpringBoot中通过@Value注入Map和List并使用YAML配置？](https://blog.csdn.net/m0_58377104/article/details/147514223)
+
