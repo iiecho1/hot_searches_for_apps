@@ -247,3 +247,9 @@
 
 + [警方称加拿大温哥华车辆冲撞人群事件不是恐怖袭击](https://news.cctv.com/2025/04/27/ARTIEtEY5GyEFbsSEZg87DXO250427.shtml)
 
++ [加拿大温哥华车辆冲撞人群事件已致9死 警方称非恐怖袭击](https://news.cctv.com/2025/04/27/ARTIcVX0GsGcDEUI9BWcUdC1250427.shtml)
+
++ [加拿大警方确认9人在温哥华驾车撞人事件中遇难](https://news.cctv.com/2025/04/27/ARTI0AUvIgtRkMaOzlxx8SAP250427.shtml)
+
++ [李在明当选韩国共同民主党总统候选人](https://news.cctv.com/2025/04/27/ARTIhLKw5iXXOAEvSnmi2K3H250427.shtml)
+
