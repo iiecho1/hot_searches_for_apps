@@ -175,3 +175,5 @@
 
 + [DeepSeek分布式训练框架中的混合精度计算：硬件成本优化的技术实践](https://blog.csdn.net/qq_32682301/article/details/147545885)
 
++ [【Web API系列】深入解析 Web Service Worker 中的 WindowClient 接口：原理、实践与进阶应用](https://blog.csdn.net/weixin_47754149/article/details/147065864)
+

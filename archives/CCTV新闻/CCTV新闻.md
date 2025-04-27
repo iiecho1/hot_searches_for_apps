@@ -215,3 +215,11 @@
 
 + [加拿大温哥华发生驾车冲撞人群事件 司机已被警方控制](https://news.cctv.com/2025/04/27/ARTIjNsJbHMVISsNeXqVlEqO250427.shtml)
 
++ [韩国东北山区发生野火 数百人被疏散](https://news.cctv.com/2025/04/27/ARTIdBTlV9fiImzVrWukeIjC250427.shtml)
+
++ [伊朗港口爆炸致超800人受伤 三分之二伤者已出院](https://news.cctv.com/2025/04/27/ARTI0F2LX3In7yYWDdaKB3Lz250427.shtml)
+
++ [超七成受访日本人不相信美国会真正保护日本](https://news.cctv.com/2025/04/27/ARTIO6bOJJHKoSBkqBM8LmUx250427.shtml)
+
++ [斯洛文尼亚：美政策连锁反应将拖累斯经济增长下降0.5%](https://news.cctv.com/2025/04/27/ARTISgKkIpkTm0I2FPZfIM72250427.shtml)
+
