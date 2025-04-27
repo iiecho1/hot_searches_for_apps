@@ -33,3 +33,23 @@
 
 + [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
 
++ [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [tracel-ai/burn](https://github.com/tracel-ai/burn)
+
++ [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+
++ [2dust/v2rayN](https://github.com/2dust/v2rayN)
+
++ [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
+
++ [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+
++ [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
++ [microsoft/terminal](https://github.com/microsoft/terminal)
+

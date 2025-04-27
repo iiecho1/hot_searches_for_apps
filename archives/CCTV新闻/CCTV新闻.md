@@ -243,3 +243,7 @@
 
 + [“中国致力于构建基于对话与信任的伙伴关系”——访联合国副秘书长汤姆·弗莱彻](https://news.cctv.com/2025/04/27/ARTIBUjo0i4LnO34fweg11GF250427.shtml)
 
++ [热点问答丨第三轮间接谈判结束 美伊分歧还有多大？](https://news.cctv.com/2025/04/27/ARTID0ITngaSiKo7U6ZwAzoh250427.shtml)
+
++ [警方称加拿大温哥华车辆冲撞人群事件不是恐怖袭击](https://news.cctv.com/2025/04/27/ARTIEtEY5GyEFbsSEZg87DXO250427.shtml)
+
