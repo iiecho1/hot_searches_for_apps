@@ -173,3 +173,23 @@
 
 + [俄愿无先决条件谈判 乌已准备好无条件停火 俄乌冲突迎来拐点？](https://news.cctv.com/2025/04/27/ARTIXrygSVm8XkbO5LpZ7pNC250427.shtml)
 
++ [巴基斯坦军方打死15名恐怖分子](https://news.cctv.com/2025/04/27/ARTI5e1M1Oe14YAh9QplJZyH250427.shtml)
+
++ [以军对加沙发动密集袭击 造成至少49人死亡](https://news.cctv.com/2025/04/27/ARTIiBm1qjSEFspGD81dshaY250427.shtml)
+
++ [李在明连赢三场初选 剑指韩国总统候选人提名](https://news.cctv.com/2025/04/27/ARTI5iPFW9a3poRCFZkhIPK1250427.shtml)
+
++ [美乌总统举行简短会晤 讨论无条件停火](https://news.cctv.com/2025/04/27/ARTIIO2rBJgVrkJNksSPtT1E250427.shtml)
+
++ [伊朗港口爆炸已致至少14死750伤 与石油设施无关](https://news.cctv.com/2025/04/27/ARTIvrZIrnC8Ezji3RVjXbAq250427.shtml)
+
++ [全球南方国家批评美关税政策漠视发展中国家权益 要团结应对挑战](https://news.cctv.com/2025/04/27/ARTIpLz65pyApWeVf00gWvMQ250427.shtml)
+
++ [美跨境电商从业者：突如其来的关税风暴重创无数电商企业和消费者](https://news.cctv.com/2025/04/27/ARTIuXCH9jdl5WYQtzYZEETu250427.shtml)
+
++ [美政府又遭批：通过关税壁垒让制造业回流美国的“梦想”注定无法实现](https://news.cctv.com/2025/04/27/ARTI6M7PIup23Gn8unXCCEAX250427.shtml)
+
++ [第24届“汉语桥”世界大学生中文比赛在柬埔寨举行](https://news.cctv.com/2025/04/27/ARTIrOSezmgbOMuqMKHYt0pl250427.shtml)
+
++ [伊朗南部沙希德拉贾伊港发生爆炸事件 我驻伊朗使馆发布安全提醒](https://news.cctv.com/2025/04/27/ARTIc2LPmb3asq5S8UVy2VmY250427.shtml)
+
