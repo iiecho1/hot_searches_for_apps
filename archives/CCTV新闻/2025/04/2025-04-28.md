@@ -161,3 +161,15 @@
 
 + [记者手记丨在阿尔及利亚见证中阿深化互利合作](https://news.cctv.com/2025/04/25/ARTI3pIra2QwRJUbUWPE1fJg250425.shtml)
 
++ [特朗普政府：百日执政 百诉缠身](https://news.cctv.com/2025/04/28/ARTIPSs3z5e7TCO85prEqqne250428.shtml)
+
++ [近邻令人不安 加拿大人拒游美国](https://news.cctv.com/2025/04/28/ARTIWZq3rq2akDBdUM1wbs9e250428.shtml)
+
++ [民调显示特朗普执政百日支持率为80年来美历任总统最低](https://news.cctv.com/2025/04/28/ARTIGnCqQAlP5m5Cvpu3JzMd250428.shtml)
+
++ [前白宫高官：关税政策影响将于下月底在全美显现](https://news.cctv.com/2025/04/28/ARTIyMJz9AzTlukBPBnDbk0w250428.shtml)
+
++ [汽车爆炸致俄军中将死亡嫌疑人被羁押 作案全过程披露](https://news.cctv.com/2025/04/28/ARTIMTVnaUhhebbAfoiVrqih250428.shtml)
+
++ [丹麦首相：面对“强大的力量” 国家内部应保持团结](https://news.cctv.com/2025/04/28/ARTIZunwbb5QqghrWveRmWSy250428.shtml)
+
