@@ -47,3 +47,7 @@
 
 + [英语口语练习，有没有方案，付费也可以](https://www.v2ex.com/t/1128288)
 
++ [有哪些地方，是你去过一次不想再去的？](https://www.v2ex.com/t/1128291)
+
++ [现在是 25.4.27， cursor 相比 windsurf/trae/github copilot 等 AI 工具是否还具有断崖式领先优势？](https://www.v2ex.com/t/1128289)
+

@@ -215,3 +215,7 @@
 
 + [WEB安全--RCE--webshell bypass](https://blog.csdn.net/m0_74800552/article/details/147524520)
 
++ [如何快速高效学习Python？](https://blog.csdn.net/jackson_lingua/article/details/147493430)
+
++ [如何在SpringBoot中通过@Value注入Map和List并使用YAML配置？](https://blog.csdn.net/m0_58377104/article/details/147514223)
+
