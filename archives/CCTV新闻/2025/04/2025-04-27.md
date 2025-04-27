@@ -203,3 +203,9 @@
 
 + [印方称与巴基斯坦军队在克什米尔交火](https://news.cctv.com/2025/04/27/ARTIwqEYQqBcnCYIolW554eJ250427.shtml)
 
++ [伊朗港口爆炸已造成18人死亡](https://news.cctv.com/2025/04/27/ARTIuolluU5BYIEyE5X0EAo5250427.shtml)
+
++ [庆祝“世界太极日”](https://photo.cctv.com/2025/04/27/PHOAYCYgx3FV1SUXrtzF22LI250427.shtml)
+
++ [尼日尔军方：该国西部边境遭袭致12名士兵死亡](https://news.cctv.com/2025/04/27/ARTI65KVm3qj0YgfRBKx2dHC250427.shtml)
+

@@ -35,3 +35,7 @@
 
 + [各位 nas 里面一般放什么？](https://www.v2ex.com/t/1128233)
 
++ [周六头脑发热跑去植了个发](https://www.v2ex.com/t/1128301)
+
++ [终究还是从小米换到了 oppo。](https://www.v2ex.com/t/1128296)
+
