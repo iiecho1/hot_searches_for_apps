@@ -223,3 +223,13 @@
 
 + [斯洛文尼亚：美政策连锁反应将拖累斯经济增长下降0.5%](https://news.cctv.com/2025/04/27/ARTISgKkIpkTm0I2FPZfIM72250427.shtml)
 
++ [“泰坦尼克”号幸存者信件拍得30万英镑](https://news.cctv.com/2025/04/27/ARTIxeDtUYuOUMRH68IJkE0x250427.shtml)
+
++ [误将名画“当垃圾扔了” 荷兰小镇“深感遗憾”](https://news.cctv.com/2025/04/27/ARTIF5HLm875jJOPzXZyqGpm250427.shtml)
+
++ [伊朗港口爆炸已造成25人死亡](https://news.cctv.com/2025/04/27/ARTISsC1BC0fvtC1TumYV9IP250427.shtml)
+
++ [米价太高 日本兴起“海淘”大米](https://news.cctv.com/2025/04/27/ARTIzT4voeoCYH0GCkFOCbHt250427.shtml)
+
++ [余震445次 伊斯坦布尔震感明显](https://news.cctv.com/2025/04/27/ARTIoJGgnQqR0tWUFnapGzOl250427.shtml)
+
