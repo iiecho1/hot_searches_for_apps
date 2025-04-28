@@ -149,3 +149,13 @@
 
 + [【2025具身智能大模型·系列11】SpatialLM：群核科技开源空间理解多模态，赋予机器超强空间认知，登顶HuggingFace](https://blog.csdn.net/xiaobing259/article/details/147549392)
 
++ [无人船 | 图解基于LQR控制的路径跟踪算法(以全驱动无人艇WAMV为例)](https://blog.csdn.net/FRIGIDWINTER/article/details/147568592)
+
++ [《DeepSeek 行业应用大全（微课视频版）》人工智能深度剖析：解锁 AIGC 新生产力](https://blog.csdn.net/weixin_43151418/article/details/147542857)
+
++ [AI大模型ms-swift框架实战指南（十一）：模型评测实战指南](https://blog.csdn.net/xiaobing259/article/details/147527383)
+
++ [零成本AI抠图终极指南：蓝耘元生代AIDC OS+ComfyUI实现商业级效果](https://blog.csdn.net/null18/article/details/147573980)
+
++ [【金仓数据库征文】金仓数据库KingbaseES：千行百业国产化征程中的璀璨之星](https://blog.csdn.net/user340/article/details/147517536)
+

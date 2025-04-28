@@ -25,3 +25,27 @@
 
 + [比亚迪方程豹熊甜波：钛系列今年还有新品，年底再推轿车系列](https://m.ithome.com/html/846675.htm)
 
++ [京东外卖未来 3 个月将招聘 10 万名全职骑手：入职就至少有 7000 元保障](https://m.ithome.com/html/849410.htm)
+
++ [工服撞衫猪猪侠：京东外卖官方玩梗，有望进行联动](https://m.ithome.com/html/849338.htm)
+
++ [刘强东发朋友圈点赞“支持京东外卖的餐厅”：深知餐饮行业不易、祝生意兴隆](https://m.ithome.com/html/849295.htm)
+
++ [华为余承东：折叠机内屏保护膜是屏幕的一部分，千万不要撕](https://m.ithome.com/html/849359.htm)
+
++ [比亚迪保险经纪公司拟解散，此前已收购易安财险获得财产保险牌照](https://m.ithome.com/html/849382.htm)
+
++ [东风日产 N7 纯电轿车上市：最高续航 635 公里，售价 11.99-14.99 万元](https://m.ithome.com/html/849389.htm)
+
++ [小米米家保温杯 Ti 2 新增 350mL 版，售价 129 元](https://m.ithome.com/html/849463.htm)
+
++ [猪猪侠入职京东外卖](https://m.ithome.com/html/849370.htm)
+
++ [飞行过程中零部件脱落，大阪世博会飞行汽车演示被紧急叫停](https://m.ithome.com/html/849296.htm)
+
++ [不到 2 个月立减 1300 元：iPad Air 2025 款 256G 版国补后 3932 元（M3 芯片）](https://m.ithome.com/html/849271.htm)
+
++ [Canalys：今年 Q1 中国智能手机出货 7090 万部同比增长 5%，小米时隔十年重回第一](https://m.ithome.com/html/849278.htm)
+
++ [人脸 / 指纹支付继续开放，微信鸿蒙版 App 获 1.0.6.34 尝鲜升级](https://m.ithome.com/html/847858.htm)
+
