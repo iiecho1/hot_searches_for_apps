@@ -127,3 +127,5 @@
 
 + [李臻20242817_安全文件传输系统项目报告_第9周](https://blog.csdn.net/weixin_52098515/article/details/147561966)
 
++ [[特殊字符]实战：使用 Canal + MQ + ES + Redis + XXL-Job 打造高性能地理抢单系统](https://blog.csdn.net/m0_73612839/article/details/147565685)
+
