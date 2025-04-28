@@ -221,3 +221,7 @@
 
 + [特朗普执政将满百天 支持率大幅下降](https://news.cctv.com/2025/04/28/ARTItZPcsWx8WXb9eKuidI2D250428.shtml)
 
++ [温哥华汽车冲撞人群事件嫌疑人受审](https://news.cctv.com/2025/04/28/ARTIXP80XDpWhgBXf7772SE5250428.shtml)
+
++ [普京宣布卫国战争胜利80周年庆典期间停火](https://news.cctv.com/2025/04/28/ARTIKdDVCsnDQGkhsz6IuKDp250428.shtml)
+
