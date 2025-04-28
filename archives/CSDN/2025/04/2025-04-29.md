@@ -129,3 +129,5 @@
 
 + [[特殊字符]实战：使用 Canal + MQ + ES + Redis + XXL-Job 打造高性能地理抢单系统](https://blog.csdn.net/m0_73612839/article/details/147565685)
 
++ [【仿Mudou库one thread per loop式并发服务器实现】服务器边缘测试+性能测试](https://blog.csdn.net/fight_p/article/details/146887075)
+

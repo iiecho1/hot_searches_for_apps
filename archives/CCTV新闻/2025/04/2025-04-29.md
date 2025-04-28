@@ -161,3 +161,9 @@
 
 + [伊朗南部沙希德拉贾伊港发生爆炸事件 我驻伊朗使馆发布安全提醒](https://news.cctv.com/2025/04/27/ARTIc2LPmb3asq5S8UVy2VmY250427.shtml)
 
++ [东非和中非面临粮食不安全状况人数增至7300万](https://news.cctv.com/2025/04/29/ARTIWs5Uwd6UYYiJgoxHnGMO250429.shtml)
+
++ [伊朗港口爆炸死亡人数升至70人](https://news.cctv.com/2025/04/29/ARTI28ZwIUVHHiQ1KN06Tr2f250429.shtml)
+
++ [俄罗斯延长非法滞留外国人限期离境时间至9月](https://news.cctv.com/2025/04/29/ARTIl2FJAGLs1ARw0rndpAL7250429.shtml)
+
