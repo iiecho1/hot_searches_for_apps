@@ -181,3 +181,7 @@
 
 + [援助物资紧缺 加沙民众艰难维持生活](https://news.cctv.com/2025/04/28/ARTIt67OozkGD2VgGbs3j1te250428.shtml)
 
++ [爆炸已致40人死亡 伊朗总统批港口管理不善](https://news.cctv.com/2025/04/28/ARTICa2cVwpVaTDlWDErmxSH250428.shtml)
+
++ [美国北卡罗来纳州发生校园枪击案 致1死5伤](https://news.cctv.com/2025/04/28/ARTItH0NrMFO6BLAWW1Xt8hr250428.shtml)
+
