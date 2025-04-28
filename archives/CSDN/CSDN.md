@@ -191,3 +191,11 @@
 
 + [使用Three.js搭建自己的3Dweb模型（从0到1无废话版本）](https://blog.csdn.net/2302_79840586/article/details/147544597)
 
++ [React 面向组件编程-【React篇2】](https://blog.csdn.net/m0_57874805/article/details/147583992)
+
++ [驱动开发硬核特训 · Day 22（上篇）： 电源管理体系完整梳理：I2C、Regulator、PMIC与Power-Domain框架](https://blog.csdn.net/Interview_TC/article/details/147553722)
+
++ [详解最新链路追踪skywalking框架介绍、架构、环境本地部署&配置、整合微服务springcloudalibaba 、日志收集、自定义链路追踪、告警等](https://blog.csdn.net/crazy123456789/article/details/147543059)
+
++ [Nginx配置文件介绍](https://blog.csdn.net/E2242/article/details/147566455)
+
