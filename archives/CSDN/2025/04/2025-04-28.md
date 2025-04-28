@@ -143,3 +143,9 @@
 
 + [5G频道资源及划分](https://blog.csdn.net/2501_91855190/article/details/147566510)
 
++ [解决Spring Boot多模块自动配置失效问题](https://blog.csdn.net/wenxuankeji/article/details/147492946)
+
++ [给视频自动打字幕：从Humanoid-X、UH-1到首个人形VLA Humanoid-VLA：迈向整合第一人称视角的通用人形控制](https://blog.csdn.net/v_JULY_v/article/details/147552157)
+
++ [【2025具身智能大模型·系列11】SpatialLM：群核科技开源空间理解多模态，赋予机器超强空间认知，登顶HuggingFace](https://blog.csdn.net/xiaobing259/article/details/147549392)
+
