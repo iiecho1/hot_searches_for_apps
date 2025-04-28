@@ -173,3 +173,11 @@
 
 + [丹麦首相：面对“强大的力量” 国家内部应保持团结](https://news.cctv.com/2025/04/28/ARTIZunwbb5QqghrWveRmWSy250428.shtml)
 
++ [欧洲小企业对美国按下暂停键， “一些人正在远离美国，开辟新的道路”](https://news.cctv.com/2025/04/28/ARTIX160Lwzd7bgwAe5ZJ3W3250428.shtml)
+
++ [提前投票率创新高，能“对抗美国”者或胜出，加拿大迎“几十年最重要大选”](https://news.cctv.com/2025/04/28/ARTIuRxvOaHR4ChSpk0gQhwc250428.shtml)
+
++ [韩国最高法院可能将于5月宣判李在明案](https://news.cctv.com/2025/04/28/ARTI49ezX8N0LC3Vaio0TPgU250428.shtml)
+
++ [援助物资紧缺 加沙民众艰难维持生活](https://news.cctv.com/2025/04/28/ARTIt67OozkGD2VgGbs3j1te250428.shtml)
+
