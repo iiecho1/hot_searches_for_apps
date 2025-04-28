@@ -103,3 +103,25 @@
 
 + [【现代深度学习技术】循环神经网络07：通过时间反向传播](https://blog.csdn.net/Morse_Chen/article/details/147573452)
 
++ [数据分析案例-ChatGPT用户评论数据集可视化分析](https://blog.csdn.net/m0_64336780/article/details/145113649)
+
++ [Qt软件开发-摄像头检测使用软件V1.1](https://blog.csdn.net/xuming2044/article/details/147540843)
+
++ [机器学习周报-文献阅读](https://blog.csdn.net/weixin_51923997/article/details/147529675)
+
++ [Kafka + Kafka-UI](https://blog.csdn.net/Bruce__taotao/article/details/147525504)
+
++ [使用Docker Compose定义服务依赖：构建高可用Django+PostgreSQL+Redis架构](https://blog.csdn.net/aifen_0928/article/details/147571999)
+
++ [突破JVM边界：类加载三重门与栈帧的生存法则](https://blog.csdn.net/tulingtuling/article/details/147347936)
+
++ [openGauss新特性 | DataKit支持PostgreSQL到openGauss的迁移能力](https://blog.csdn.net/GaussDB/article/details/147562552)
+
++ [知识就是力量——物联网应用技术](https://blog.csdn.net/qq_45812950/article/details/147566044)
+
++ [Taro on Harmony ：助力业务高效开发纯血鸿蒙应用](https://blog.csdn.net/zheli1969917/article/details/147560911)
+
++ [当AI浏览器和AI搜索替代掉传统搜索份额时，老牌的搜索引擎市场何去何从。](https://blog.csdn.net/taotaocwl/article/details/147570000)
+
++ [2025 蓝桥杯网络安全赛道 个人writeup](https://blog.csdn.net/2301_80146720/article/details/147536886)
+
