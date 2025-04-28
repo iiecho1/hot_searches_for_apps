@@ -219,3 +219,5 @@
 
 + [德国候任总理公布拟任内阁名单](https://news.cctv.com/2025/04/28/ARTIDCtcf1tBpgThCZ2oRvFH250428.shtml)
 
++ [特朗普执政将满百天 支持率大幅下降](https://news.cctv.com/2025/04/28/ARTItZPcsWx8WXb9eKuidI2D250428.shtml)
+
