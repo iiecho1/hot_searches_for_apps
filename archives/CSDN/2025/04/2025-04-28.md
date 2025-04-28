@@ -137,3 +137,9 @@
 
 + [Java 大视界 --Java 大数据在智能医疗远程手术机器人控制与数据传输中的技术支持（215）](https://blog.csdn.net/atgfg/article/details/147372526)
 
++ [Nacos简介—4.Nacos架构和原理三](https://blog.csdn.net/mjunz/article/details/147571302)
+
++ [【每日随笔】文化属性 ② ( 高维度信息处理 | 强者思维形成 | 认知重构 | 资源捕获 | 进化路径 )](https://blog.csdn.net/han1202012/article/details/147482729)
+
++ [5G频道资源及划分](https://blog.csdn.net/2501_91855190/article/details/147566510)
+

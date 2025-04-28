@@ -185,3 +185,13 @@
 
 + [美国北卡罗来纳州发生校园枪击案 致1死5伤](https://news.cctv.com/2025/04/28/ARTItH0NrMFO6BLAWW1Xt8hr250428.shtml)
 
++ [“全球贸易战的始作俑者”——多国媒体和专家批评美国滥施关税](https://news.cctv.com/2025/04/28/ARTIlYjOxk0PFAAYJmEXirEk250428.shtml)
+
++ [中马合作推动区域航运物流新发展](https://news.cctv.com/2025/04/28/ARTIQYEVwGK187t9s3SpRbZr250428.shtml)
+
++ [2024年全球军费开支创纪录飙升 美国占超三成](https://news.cctv.com/2025/04/28/ARTIh6t677q32D6dleivHkOy250428.shtml)
+
++ [美国土安全部长餐厅遇窃案嫌疑人被捕](https://news.cctv.com/2025/04/28/ARTIclYqdBM0dc40yrFo6osx250428.shtml)
+
++ [朝鲜证实出兵俄罗斯协助收复库尔斯克](https://news.cctv.com/2025/04/28/ARTIWLHrgO1eYr40FKmEgVn2250428.shtml)
+
