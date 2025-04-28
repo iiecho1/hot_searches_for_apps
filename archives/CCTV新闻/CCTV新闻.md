@@ -209,3 +209,13 @@
 
 + [伊朗港口爆炸事件受伤人升至1200人](https://news.cctv.com/2025/04/28/ARTIsXew0XANQswHTbCWVqV2250428.shtml)
 
++ [佩斯科夫：俄美总统暂无新通话安排](https://news.cctv.com/2025/04/28/ARTIefBu6UpYkbQ3wzfaMc13250428.shtml)
+
++ [普京发表声明感谢协助俄军收复库尔斯克州的朝鲜军人](https://news.cctv.com/2025/04/28/ARTINV4EAr4BP1ZOqAp5QWkB250428.shtml)
+
++ [经济低迷 韩国主要信用卡违约率创十年来新高](https://news.cctv.com/2025/04/28/ARTIsR9shlZHgjqMk7XzlU1h250428.shtml)
+
++ [法国对监狱遭袭事件嫌疑人展开大规模抓捕 二十余人已落网](https://news.cctv.com/2025/04/28/ARTI9WRcH4PlGkuUbSWinx0p250428.shtml)
+
++ [德国候任总理公布拟任内阁名单](https://news.cctv.com/2025/04/28/ARTIDCtcf1tBpgThCZ2oRvFH250428.shtml)
+

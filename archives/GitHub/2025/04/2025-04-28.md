@@ -35,3 +35,19 @@
 
 + [kortix-ai/suna](https://github.com/kortix-ai/suna)
 
++ [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
+
++ [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+
++ [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
+

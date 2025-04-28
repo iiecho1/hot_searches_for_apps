@@ -163,3 +163,25 @@
 
 + [Unity 和 Unreal Engine（UE） 两大主流游戏引擎的核心使用方法](https://blog.csdn.net/testManger/article/details/147556716)
 
++ [基于springboot+vue的阿坝州旅游网站系统](https://blog.csdn.net/shmp54/article/details/147568349)
+
++ [蓝耘元生代：基于ComfyUI的AI工作流构建实践——技术架构与开发者效率的双重革新](https://blog.csdn.net/2302_78391795/article/details/147574774)
+
++ [【金仓数据库征文】金仓数据库KingbaseES：在技术与人文交织中开拓信创未来](https://blog.csdn.net/user340/article/details/147519173)
+
++ [金仓数据库KingbaseES数据库如何启动、停止、重启数据库](https://blog.csdn.net/qq_44866828/article/details/147559343)
+
++ [使用Docker Compose定义服务依赖：构建高可用Django+PostgreSQL+Redis架构](https://blog.csdn.net/aifen_0928/article/details/147571999)
+
++ [Mysql之存储过程（下）](https://blog.csdn.net/2301_81831423/article/details/147497783)
+
++ [从视频中学习：从Humanoid-X、UH-1的自动打字幕，到首个人形VLA Humanoid-VLA(自监督数据增强且整合第一人称视角)](https://blog.csdn.net/v_JULY_v/article/details/147552157)
+
++ [【Spring Boot】Mybatis操作数据库，动态SQL：＜if＞标签、＜trim＞标签、＜where＞标签、＜set＞标签、＜foreach＞标签、＜sql＞和＜include＞标签](https://blog.csdn.net/2302_79527141/article/details/147383511)
+
++ [【Redis】服务端高并发分布式结构演进之路](https://blog.csdn.net/m0_72563041/article/details/147543614)
+
++ [用python写一个相机选型的简易程序](https://blog.csdn.net/fmdpenny/article/details/147526367)
+
++ [Vue中Axios实战指南：高效网络请求的艺术](https://blog.csdn.net/QQ1257871322/article/details/147570327)
+
