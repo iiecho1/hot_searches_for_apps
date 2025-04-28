@@ -195,3 +195,17 @@
 
 + [朝鲜证实出兵俄罗斯协助收复库尔斯克](https://news.cctv.com/2025/04/28/ARTIWLHrgO1eYr40FKmEgVn2250428.shtml)
 
++ [“全球经济需要一个运作良好、基于规则的贸易体系”（国际视点）](https://news.cctv.com/2025/04/28/ARTIFdTjaFTvicNgPgTZpK1V250428.shtml)
+
++ [外媒高度评价中国周边外交政策—— 中国书写周边命运共同体建设新篇章（国际论道）](https://news.cctv.com/2025/04/28/ARTI1Lvd1w5WouGK299RsfcZ250428.shtml)
+
++ [叙政权说“叙利亚民主力量”呼吁实行联邦制威胁国家统一](https://news.cctv.com/2025/04/28/ARTIOVmIRDstl7O9CkiDQE52250428.shtml)
+
++ [泽连斯基：乌军仍在库尔斯克作战](https://news.cctv.com/2025/04/28/ARTILexstIXA4TTltshLcZxk250428.shtml)
+
++ [“美国诉讼美国”特朗普政府百日执政 百诉缠身](https://news.cctv.com/2025/04/28/ARTII6Ag6QEwm3HiOcmGKbx1250428.shtml)
+
++ [本轮巴以冲突已致加沙5万余人死亡 超六成遇难者为妇孺老人](https://news.cctv.com/2025/04/28/ARTIIaJ1GCB98ZVxBIsKBT7e250428.shtml)
+
++ [伊朗港口爆炸事件受伤人升至1200人](https://news.cctv.com/2025/04/28/ARTIsXew0XANQswHTbCWVqV2250428.shtml)
+
