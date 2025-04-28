@@ -101,3 +101,5 @@
 
 + [Nginx配置文件介绍](https://blog.csdn.net/E2242/article/details/147566455)
 
++ [【现代深度学习技术】循环神经网络07：通过时间反向传播](https://blog.csdn.net/Morse_Chen/article/details/147573452)
+
