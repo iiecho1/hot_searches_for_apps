@@ -173,3 +173,7 @@
 
 + [【前端】从零开始的搭建顺序指南（技术栈：Node.js + Express + MongoDB + React）book-management](https://blog.csdn.net/weixin_44174312/article/details/147597096)
 
++ [Spring进阶篇](https://blog.csdn.net/fxbsdl/article/details/147516294)
+
++ [论文阅读_Search-R1_大模型+搜索引擎](https://blog.csdn.net/xieyan0811/article/details/147575765)
+
