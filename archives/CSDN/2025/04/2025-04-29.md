@@ -157,3 +157,11 @@
 
 + [深入理解算力：从普通电脑到宏观计算世界](https://blog.csdn.net/qq_29768197/article/details/147537466)
 
++ [什么是Lua模块？你会如何使用NGINX的Lua模块来定制请求处理流程？](https://blog.csdn.net/caoli201314/article/details/147540166)
+
++ [【Python】Matplotlib：立体永生花绘制](https://blog.csdn.net/2303_80346267/article/details/147569746)
+
++ [最新Spring Security实战教程（十三）会话管理机制 - 并发控制与会话固定攻击防护](https://blog.csdn.net/lhmyy521125/article/details/147571592)
+
++ [什么是模块化区块链？Polkadot 架构解析](https://blog.csdn.net/CryptoBuffett/article/details/147560944)
+

@@ -193,3 +193,7 @@
 
 + [发出“美利坚名存实亡”呼号的他 将带领加拿大走向何方？](https://news.cctv.com/2025/04/29/ARTI0LlMEFCLbLnTDXgimqcv250429.shtml)
 
++ [中国动画电影《哪吒2》在法上映 各界高度评价](https://news.cctv.com/2025/04/29/ARTIExeUURi1MXNVFEMgfvQm250429.shtml)
+
++ [韩国大邱山火被扑灭 影响区域达260公顷](https://news.cctv.com/2025/04/29/ARTI8cyWCxjbBxdKMp60mRzu250429.shtml)
+

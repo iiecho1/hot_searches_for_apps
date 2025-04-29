@@ -25,3 +25,27 @@
 
 + [人脸 / 指纹支付继续开放，微信鸿蒙版 App 获 1.0.6.34 尝鲜升级](https://m.ithome.com/html/847858.htm)
 
++ [小米 YU7 新增 835 公里续航版本，6 - 7 月正式发布](https://m.ithome.com/html/849633.htm)
+
++ [领克 900 正式上市：全系标配天地门、激光雷达，限时 28.99 万-39.69 万元](https://m.ithome.com/html/849624.htm)
+
++ [iQOO Z10 Turbo Pro 手机发布：骁龙 8s Gen4 处理器、7000mAh 电池，1999 元起](https://m.ithome.com/html/849548.htm)
+
++ [消息称刘强东曾与滴滴程维、美团王兴等人共进晚餐，京东前年已规划外卖业务](https://m.ithome.com/html/849576.htm)
+
++ [《哪吒之魔童闹海》导演饺子“闭关”，新作面世前不再参加任何活动](https://m.ithome.com/html/849706.htm)
+
++ [微软项目经理“叛变”：用 Win11 一小时弃坑重回 macOS，70 万网友围观点赞](https://m.ithome.com/html/849657.htm)
+
++ [领克 900 上市一小时大定破万，限时价 28.99 万元起](https://m.ithome.com/html/849653.htm)
+
++ [吉利推出“五一”一口价活动：第 4 代帝豪 4.89 万起，新博越 8.28 万起](https://m.ithome.com/html/849625.htm)
+
++ [iQOO Z10 Turbo 手机发布：天玑 8400 满血版 + 7620mAh 电池，1799 元起](https://m.ithome.com/html/849501.htm)
+
++ [五一超级国补 20 点开抢：京东数码家电立减不止 50%，小米肩颈按摩仪 156 元半价探底](https://m.ithome.com/html/849518.htm)
+
++ [努比亚 Z70S Ultra 摄影师版手机发布：骁龙 8 至尊版、国产定制主摄、可外接镜头，4599 元起](https://m.ithome.com/html/849593.htm)
+
++ [奥博穆：保时捷未来 2-3 年内可能停止在华销售电动汽车](https://m.ithome.com/html/849185.htm)
+
