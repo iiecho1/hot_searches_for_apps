@@ -125,3 +125,9 @@
 
 + [PostSwigger Web 安全学习：CSRF漏洞2](https://blog.csdn.net/anddddoooo/article/details/147562840)
 
++ [数据分析案例-ChatGPT用户评论数据集可视化分析](https://blog.csdn.net/m0_64336780/article/details/145113649)
+
++ [DeepSeek主动学习系统：低质量数据炼金术的工程化实践](https://blog.csdn.net/qq_32682301/article/details/147605808)
+
++ [node.js 实战——mongoDB](https://blog.csdn.net/weixin_46282323/article/details/147597118)
+
