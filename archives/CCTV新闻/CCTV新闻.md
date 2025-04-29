@@ -161,3 +161,15 @@
 
 + [首季中国经济观察丨外资眼中“确定性的绿洲”——首季中国经济一线调研报告之十](https://news.cctv.com/2025/04/27/ARTISLr6alYyaY8ZDrFsfSsP250427.shtml)
 
++ [美民调显示近六成美国人认为特朗普政府恶化经济状况](https://news.cctv.com/2025/04/30/ARTIgHbcFtTUzThXH2D1hpi2250430.shtml)
+
++ [德国通胀推高贫困水平 弱势群体生活承压](https://news.cctv.com/2025/04/30/ARTIS83oFiFYoV46q3N07zmj250430.shtml)
+
++ [加拿大总理：将“按照我们的条件”与美方就贸易和安全谈判](https://news.cctv.com/2025/04/30/ARTIfKM6yUJYbGTNJ2iqICTI250430.shtml)
+
++ [美国参议院投票通过戴维·珀杜出任美国驻华大使](https://news.cctv.com/2025/04/30/ARTIxiy1jtTprNaIOhCMLUrC250430.shtml)
+
++ [创纪录 美国3月贸易逆差激增至1620亿美元](https://news.cctv.com/2025/04/30/ARTICd1Eh0zdO1WtgNaYCMtE250430.shtml)
+
++ [普京：国际社会须构建更加公平的多极世界秩序](https://news.cctv.com/2025/04/30/ARTIhK3vKi3MxJWbujUq7MaL250430.shtml)
+

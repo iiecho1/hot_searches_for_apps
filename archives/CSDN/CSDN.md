@@ -101,3 +101,7 @@
 
 + [【Java开发日记】OpenFeign 的 9 个坑](https://blog.csdn.net/2402_87298751/article/details/147576022)
 
++ [CasaOS上部署1Panel开源运维面板远程在线访问配置实操指南](https://blog.csdn.net/LT15171009269/article/details/147586556)
+
++ [头歌实训之游标触发器](https://blog.csdn.net/maomi_9526/article/details/147570239)
+
