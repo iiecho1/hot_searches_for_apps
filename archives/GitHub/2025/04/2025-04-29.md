@@ -33,3 +33,15 @@
 
 + [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)
 
++ [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+
++ [carykh/jes](https://github.com/carykh/jes)
+

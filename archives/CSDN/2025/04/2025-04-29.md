@@ -183,3 +183,9 @@
 
 + [​​HTTP vs HTTPS：传输协议的安全演进与核心差异​](https://blog.csdn.net/w2361734601/article/details/147597406)
 
++ [工作流 x 深度学习：揭秘蓝耘元生代如何用 ComfyUI 玩转 AI 开发](https://blog.csdn.net/weixin_73295475/article/details/147546433)
+
++ [案例篇：如何用tcpdump和Wireshark识别潜在威胁](https://blog.csdn.net/ShuShengTuM/article/details/147581248)
+
++ [网络原理 - 10（HTTP/HTTPS - 1）](https://blog.csdn.net/Zz_waiting/article/details/147567727)
+
