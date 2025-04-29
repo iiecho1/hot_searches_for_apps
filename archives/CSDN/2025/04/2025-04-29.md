@@ -197,3 +197,11 @@
 
 + [网络安全之红队LLM的大模型自动化越狱](https://blog.csdn.net/anquan2233/article/details/147581470)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式文件系统在数字图书馆海量文献存储与管理中的应用优化（219）](https://blog.csdn.net/atgfg/article/details/147372581)
+
++ [线性代数的本质大白话理解](https://blog.csdn.net/qq_36812406/article/details/147581244)
+
++ [【Linux网络】Http服务优化 - 增加请求后缀、状态码描述、重定向、自动跳转及注册多功能服务](https://blog.csdn.net/2301_77954967/article/details/147550954)
+
++ [Python 实现的运筹优化系统数学建模详解(动态规划模型）](https://blog.csdn.net/heikediguoshinib/article/details/147595368)
+

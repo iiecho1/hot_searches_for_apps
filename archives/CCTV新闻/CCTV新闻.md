@@ -221,3 +221,5 @@
 
 + [波兰首都华沙市中心有轨电车相撞已致18人受伤](https://news.cctv.com/2025/04/29/ARTIyVa2AZyrL792VFT8JIKU250429.shtml)
 
++ [国际观察丨加拿大大选：特朗普“助攻”自由党胜出](https://news.cctv.com/2025/04/29/ARTIemZrmxYDxQEJN0g0IPzA250429.shtml)
+
