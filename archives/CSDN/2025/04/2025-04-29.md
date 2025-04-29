@@ -189,3 +189,11 @@
 
 + [网络原理 - 10（HTTP/HTTPS - 1）](https://blog.csdn.net/Zz_waiting/article/details/147567727)
 
++ [【计算机视觉】TorchVision 深度解析：从核心功能到实战应用 ——PyTorch 官方计算机视觉库的全面指南](https://blog.csdn.net/weixin_43988131/article/details/147588965)
+
++ [2个小时1.5w字｜ React & Golang 全栈微服务实战](https://blog.csdn.net/qq_41468830/article/details/147571471)
+
++ [Docker 容器虚拟化技术和自动化部署](https://blog.csdn.net/weixin_74212619/article/details/147191534)
+
++ [网络安全之红队LLM的大模型自动化越狱](https://blog.csdn.net/anquan2233/article/details/147581470)
+
