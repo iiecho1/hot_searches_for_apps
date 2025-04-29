@@ -137,3 +137,15 @@
 
 + [基于边缘人工智能的AI无人机-更高效更安全的飞行任务执行](https://blog.csdn.net/moonsims/article/details/147560713)
 
++ [基于QT的仿QQ音乐播放器](https://blog.csdn.net/qq_75271671/article/details/147481252)
+
++ [Jenkins（CI/CD工具）](https://blog.csdn.net/qq_58159506/article/details/147531425)
+
++ [手写SpringMVC(基本框架)](https://blog.csdn.net/qq_44766305/article/details/147561306)
+
++ [写windows服务日志-.net4.5.2-定时修改数据库中某些参数](https://blog.csdn.net/liuchunyu0130/article/details/147549132)
+
++ [【技术派后端篇】技术派并发访问性能优化](https://blog.csdn.net/gaosw0521/article/details/147513871)
+
++ [头歌实训之游标触发器](https://blog.csdn.net/maomi_9526/article/details/147570239)
+

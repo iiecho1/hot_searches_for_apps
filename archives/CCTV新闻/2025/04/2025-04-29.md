@@ -175,3 +175,9 @@
 
 + [西班牙葡萄牙突发全国大停电，欧洲近年来最严重停电事故何以酿成](https://news.cctv.com/2025/04/29/ARTIyE7FXrttfsW8mfZbxstk250429.shtml)
 
++ [加拿大自由党在联邦众议院选举中获胜 但无法单独组阁](https://news.cctv.com/2025/04/29/ARTIyE6TCzv4HCGSQYEXKhb9250429.shtml)
+
++ [美国滥施关税贻害世界经济（钟声）](https://news.cctv.com/2025/04/29/ARTIfap6G6urfk4a7iIB4N7y250429.shtml)
+
++ [西班牙发生大范围停电](https://photo.cctv.com/2025/04/29/PHOABUpXQ6grjFaO8vtHurdv250429.shtml)
+
