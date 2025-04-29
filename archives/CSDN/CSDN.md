@@ -105,3 +105,23 @@
 
 + [头歌实训之游标触发器](https://blog.csdn.net/maomi_9526/article/details/147570239)
 
++ [【前端】从零开始的搭建顺序指南（技术栈：Node.js + Express + MongoDB + React）book-management](https://blog.csdn.net/weixin_44174312/article/details/147597096)
+
++ [快速上手Linux的Web服务器的部署及优化](https://blog.csdn.net/ZZZKKKRTSAE/article/details/147528888)
+
++ [【网络原理】 网络编程套接字](https://blog.csdn.net/2403_87459748/article/details/147563514)
+
++ [【3D 地图】无人机测绘制作 3D 地图流程 ( 无人机采集数据 | 地图原始数据处理原理 | 数据处理软件 | 无人机测绘完整解决方案 )](https://blog.csdn.net/han1202012/article/details/147399344)
+
++ [关系数据的可视化](https://blog.csdn.net/2301_77327865/article/details/147594109)
+
++ [数模学习：二，MATLAB的基本语法使用](https://blog.csdn.net/ayas12319/article/details/147527308)
+
++ [使用 MQTT - C 访问 IoTDA 平台：一个完整的嵌入式示例](https://blog.csdn.net/bit_mike/article/details/147588586)
+
++ [深入理解CSS3：Flex/Grid布局、动画与媒体查询实战指南](https://blog.csdn.net/qq_57755194/article/details/147576217)
+
++ [驱动开发硬核特训 │ 深度解析 fixed regulator 驱动与 regulator_ops](https://blog.csdn.net/Interview_TC/article/details/147579757)
+
++ [PostSwigger Web 安全学习：CSRF漏洞2](https://blog.csdn.net/anddddoooo/article/details/147562840)
+
