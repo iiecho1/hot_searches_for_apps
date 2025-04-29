@@ -223,3 +223,5 @@
 
 + [国际观察丨加拿大大选：特朗普“助攻”自由党胜出](https://news.cctv.com/2025/04/29/ARTIemZrmxYDxQEJN0g0IPzA250429.shtml)
 
++ [新西兰南岛西岸远海发生6.2级地震，震源深度10千米](https://news.cctv.com/2025/04/29/ARTIb9rMcAVHyAftjkS4zpYe250429.shtml)
+

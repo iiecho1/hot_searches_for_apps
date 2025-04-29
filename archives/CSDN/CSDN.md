@@ -205,3 +205,7 @@
 
 + [Python 实现的运筹优化系统数学建模详解(动态规划模型）](https://blog.csdn.net/heikediguoshinib/article/details/147595368)
 
++ [【C#】.net core6.0无法访问到控制器方法，直接404。由于自己的不仔细，出现个低级错误，这让DeepSeek看出来了，是什么错误呢，来瞧瞧](https://blog.csdn.net/lmy_520/article/details/146936940)
+
++ [什么是 DDoS 攻击？高防 IP 如何有效防护？2025全面解析与方案推荐](https://blog.csdn.net/BEST_yundun/article/details/147589940)
+
