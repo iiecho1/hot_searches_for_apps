@@ -191,3 +191,5 @@
 
 + [美军空袭也门萨达省一拘留所已致115人死伤](https://news.cctv.com/2025/04/29/ARTIfbdw2SbV5XUqYkBQcCTn250429.shtml)
 
++ [发出“美利坚名存实亡”呼号的他 将带领加拿大走向何方？](https://news.cctv.com/2025/04/29/ARTI0LlMEFCLbLnTDXgimqcv250429.shtml)
+
