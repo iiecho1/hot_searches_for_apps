@@ -135,3 +135,5 @@
 
 + [RabbitMQ应用（基于腾讯云）](https://blog.csdn.net/ly1h1/article/details/147568115)
 
++ [基于边缘人工智能的AI无人机-更高效更安全的飞行任务执行](https://blog.csdn.net/moonsims/article/details/147560713)
+

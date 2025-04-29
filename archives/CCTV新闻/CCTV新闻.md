@@ -173,3 +173,5 @@
 
 + [特朗普宣布成立联邦紧急事务管理局审查委员会](https://news.cctv.com/2025/04/29/ARTIkfrKF9U1dIKskS4zM1qg250429.shtml)
 
++ [西班牙葡萄牙突发全国大停电，欧洲近年来最严重停电事故何以酿成](https://news.cctv.com/2025/04/29/ARTIyE7FXrttfsW8mfZbxstk250429.shtml)
+
