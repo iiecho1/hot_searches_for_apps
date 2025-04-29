@@ -197,3 +197,15 @@
 
 + [韩国大邱山火被扑灭 影响区域达260公顷](https://news.cctv.com/2025/04/29/ARTI8cyWCxjbBxdKMp60mRzu250429.shtml)
 
++ [韩国下届大选执政党初选4进2结果揭晓 金文洙、韩东勋胜出](https://news.cctv.com/2025/04/29/ARTIqOQaExiEU1CkCZqmXtz8250429.shtml)
+
++ [一架载有2人的小型飞机在日本岛根县坠毁](https://news.cctv.com/2025/04/29/ARTIimRwu5bG4cXT1g8l4IAB250429.shtml)
+
++ [西班牙和葡萄牙电力基本恢复](https://news.cctv.com/2025/04/29/ARTImFLB7CBIMZvHST1n57VL250429.shtml)
+
++ [中俄共同纪念世界反法西斯战争胜利80周年](https://news.cctv.com/2025/04/29/ARTI07Raml5aHyETiyuSxESB250429.shtml)
+
++ [全球瞭望丨澳媒：美国军事支出庞大且热衷逐利](https://news.cctv.com/2025/04/29/ARTIaQGzHisJHyF5d8poXNH8250429.shtml)
+
++ [“中国的经济规划具有长期性、稳定性”（见证·中国机遇）](https://jingji.cctv.com/2025/04/29/ARTIVP1IRRePz5m2lYRORKbM250429.shtml)
+
