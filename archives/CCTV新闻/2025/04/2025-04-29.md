@@ -181,3 +181,13 @@
 
 + [西班牙发生大范围停电](https://photo.cctv.com/2025/04/29/PHOABUpXQ6grjFaO8vtHurdv250429.shtml)
 
++ [日本米价再创新高 多地出现“半价米”骗局](https://news.cctv.com/2025/04/29/ARTIEJgrPDzNzWiNtEmTzxUS250429.shtml)
+
++ [胡塞火力致美军航母舰载机坠海](https://news.cctv.com/2025/04/29/ARTIC7PFOZ9Ive5QaWdktjR1250429.shtml)
+
++ [部分商品涨幅高达377%：美国消费者为关税“买单”](https://news.cctv.com/2025/04/29/ARTI2u2WYEt2ABrpddaMr2S8250429.shtml)
+
++ [韩国国务总理或于5月初辞职参选总统](https://news.cctv.com/2025/04/29/ARTI8NfyQl3QLyTyZMiy96Zg250429.shtml)
+
++ [美军空袭也门萨达省一拘留所已致115人死伤](https://news.cctv.com/2025/04/29/ARTIfbdw2SbV5XUqYkBQcCTn250429.shtml)
+
