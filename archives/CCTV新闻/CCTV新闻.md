@@ -173,3 +173,5 @@
 
 + [普京：国际社会须构建更加公平的多极世界秩序](https://news.cctv.com/2025/04/30/ARTIhK3vKi3MxJWbujUq7MaL250430.shtml)
 
++ [俄罗斯纪念卫国战争胜利80周年阅兵式首次彩排在莫斯科举行](https://news.cctv.com/2025/04/30/ARTIn4vsWaF1SKGCihwgGJwX250430.shtml)
+
