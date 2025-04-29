@@ -177,3 +177,9 @@
 
 + [论文阅读_Search-R1_大模型+搜索引擎](https://blog.csdn.net/xieyan0811/article/details/147575765)
 
++ [基于 Spring Boot 瑞吉外卖系统开发（九）](https://blog.csdn.net/qq_29385297/article/details/147467918)
+
++ [Linux权限管理](https://blog.csdn.net/yovo1/article/details/147594145)
+
++ [​​HTTP vs HTTPS：传输协议的安全演进与核心差异​](https://blog.csdn.net/w2361734601/article/details/147597406)
+

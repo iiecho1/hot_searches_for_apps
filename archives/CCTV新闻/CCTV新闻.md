@@ -217,3 +217,7 @@
 
 + [巴基斯坦防长：巴印局势可能升级但不会爆发核战](https://news.cctv.com/2025/04/29/ARTICrYKjywq5DfnlSejT0p9250429.shtml)
 
++ [佩斯科夫：俄愿在不设先决条件下启动谈判 未获乌方回应](https://news.cctv.com/2025/04/29/ARTImGgs23U3ONAaA3FsvugZ250429.shtml)
+
++ [波兰首都华沙市中心有轨电车相撞已致18人受伤](https://news.cctv.com/2025/04/29/ARTIyVa2AZyrL792VFT8JIKU250429.shtml)
+
