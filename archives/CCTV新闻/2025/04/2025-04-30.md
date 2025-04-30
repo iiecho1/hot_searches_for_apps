@@ -199,3 +199,7 @@
 
 + [巴基斯坦军方说印度参与策划巴境内71起恐袭](https://news.cctv.com/2025/04/30/ARTIURkzDGZbPp9Wkhmb6x8f250430.shtml)
 
++ [印度加尔各答一酒店发生火灾致14人死亡](https://news.cctv.com/2025/04/30/ARTIWF0z7CHe8THEhxTcxsyo250430.shtml)
+
++ [国际观察丨谈判僵持 各国谨慎应对美关税施压](https://news.cctv.com/2025/04/30/ARTIVSJjHEjnk8Z4KJHflMkn250430.shtml)
+
