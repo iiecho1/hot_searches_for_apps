@@ -161,3 +161,5 @@
 
 + [美国土安全部长餐厅遇窃案嫌疑人被捕](https://news.cctv.com/2025/04/28/ARTIclYqdBM0dc40yrFo6osx250428.shtml)
 
++ [俄罗斯莫斯科举行卫国战争胜利日阅兵首次彩排](https://news.cctv.com/2025/05/01/ARTIzTV7RVngZzs2Sob4qRRt250501.shtml)
+

@@ -105,3 +105,17 @@
 
 + [打造惊艳的渐变色下划线动画：CSS实现详解](https://blog.csdn.net/m0_74412436/article/details/147622025)
 
++ [DeepSeek: 探索未来的深度学习搜索引擎](https://blog.csdn.net/m0_68111267/article/details/147615724)
+
++ [Python PyTorch库【机器学习框架】全面深入讲解与实践](https://blog.csdn.net/webcai_3/article/details/147541487)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(十八) -＞ 跨语言代码编辑](https://blog.csdn.net/weixin_74809706/article/details/147614776)
+
++ [性能测试概念篇](https://blog.csdn.net/weixin_73077334/article/details/147013116)
+
++ [使用Spring Boot实现WebSocket广播](https://blog.csdn.net/zy103118/article/details/147600411)
+
++ [Elasticsearch：ES|QL lookup JOIN 介绍 - 8.18/9.0](https://blog.csdn.net/UbuntuTouch/article/details/147604073)
+
++ [网络安全攻防演练实训室建设方案](https://blog.csdn.net/whwzzc/article/details/147605044)
+
