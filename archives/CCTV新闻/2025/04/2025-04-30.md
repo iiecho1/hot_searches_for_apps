@@ -175,3 +175,7 @@
 
 + [俄罗斯纪念卫国战争胜利80周年阅兵式首次彩排在莫斯科举行](https://news.cctv.com/2025/04/30/ARTIn4vsWaF1SKGCihwgGJwX250430.shtml)
 
++ [俄罗斯纪念卫国战争胜利80周年阅兵式举行首次彩排](https://photo.cctv.com/2025/04/30/PHOAPWKYDIDmGVvRuhPiO3No250430.shtml)
+
++ [巴基斯坦高官：印度恐将在24至36小时内动武](https://news.cctv.com/2025/04/30/ARTI8MTzKnUyLtsaqo878KiO250430.shtml)
+

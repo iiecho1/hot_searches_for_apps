@@ -139,3 +139,9 @@
 
 + [看完 NVIDIA 高级辅助驾驶安全报告后我惊呆了](https://blog.csdn.net/feng8403000/article/details/147618191)
 
++ [web技术与nginx网站环境部署](https://blog.csdn.net/2301_76584825/article/details/147579881)
+
++ [Linux《进程概念（中）》](https://blog.csdn.net/2303_81098358/article/details/146983259)
+
++ [从视频中学习：从Humanoid-X、UH-1的自动打字幕，到首个人形VLA Humanoid-VLA(自监督数据增强且整合第一人称视角)](https://blog.csdn.net/v_JULY_v/article/details/147552157)
+
