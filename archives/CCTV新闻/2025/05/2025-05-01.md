@@ -163,3 +163,5 @@
 
 + [俄罗斯莫斯科举行卫国战争胜利日阅兵首次彩排](https://news.cctv.com/2025/05/01/ARTIzTV7RVngZzs2Sob4qRRt250501.shtml)
 
++ [美国务院宣布新一轮与伊朗相关的制裁](https://news.cctv.com/2025/05/01/ARTIugZfBOkHZWrCDe6fYPa5250501.shtml)
+
