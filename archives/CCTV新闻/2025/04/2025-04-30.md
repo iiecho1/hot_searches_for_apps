@@ -195,3 +195,7 @@
 
 + [关税冲击显现 美最大集装箱港入境货运量预计暴跌](https://news.cctv.com/2025/04/30/ARTIdtk5ludZAZOLxIEa2XKX250430.shtml)
 
++ [莫迪授权军队“放手去打” 巴方称将坚决果断回击](https://news.cctv.com/2025/04/30/ARTIXQPDO5cxhL2DhOoz6Gxe250430.shtml)
+
++ [巴基斯坦军方说印度参与策划巴境内71起恐袭](https://news.cctv.com/2025/04/30/ARTIURkzDGZbPp9Wkhmb6x8f250430.shtml)
+

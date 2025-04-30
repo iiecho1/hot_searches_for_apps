@@ -179,3 +179,11 @@
 
 + [【原创】如何在安卓系统下使用Delphi开发的APP运行ADB命令](https://blog.csdn.net/tom_yea/article/details/147619401)
 
++ [数据库原理及应用mysql版陈业斌实验五](https://blog.csdn.net/2301_81831423/article/details/147541519)
+
++ [在android 系统上qnn sdk转换，运行模型示例](https://blog.csdn.net/jx232515/article/details/147590568)
+
++ [[计算机网络]物理层](https://blog.csdn.net/WenBayBay/article/details/147603967)
+
++ [从 0 到 1开展性能测试：JMeter 揭秘 Spring 项目《抽奖系统》接口性能真相](https://blog.csdn.net/mgzdwm/article/details/147490446)
+
