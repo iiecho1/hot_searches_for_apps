@@ -25,3 +25,21 @@
 
 + [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+
++ [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
+
++ [daytonaio/daytona](https://github.com/daytonaio/daytona)
+
++ [vllm-project/vllm](https://github.com/vllm-project/vllm)
+
++ [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)
+
++ [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [AutoMQ/automq](https://github.com/AutoMQ/automq)
+
++ [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+

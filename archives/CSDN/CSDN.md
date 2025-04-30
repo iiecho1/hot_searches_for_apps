@@ -191,3 +191,9 @@
 
 + [当 ComfyUI 工作流撞上网络安全：一个计算机学生的「攻防实战」觉醒之路](https://blog.csdn.net/weixin_73295475/article/details/147624111)
 
++ [AI数字人：人类身份与意识的终极思考（10/10）](https://blog.csdn.net/beautifulmemory/article/details/147628908)
+
++ [使用 Ziegler-Nichols 法进行 PID 参数整定：实践指南](https://blog.csdn.net/x1131230123/article/details/147604529)
+
++ [【开源工具】Python打造智能IP监控系统：邮件告警+可视化界面+配置持久化](https://blog.csdn.net/Clay_K/article/details/147627868)
+
