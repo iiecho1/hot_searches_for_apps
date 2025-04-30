@@ -175,3 +175,7 @@
 
 + [从密码到握手：一文拆解HTTPS背后的7大安全加密技术护城河](https://blog.csdn.net/weixin_45793745/article/details/147618749)
 
++ [Redis性能优化终极指南：从原理到实战的深度调优策略](https://blog.csdn.net/qq_42287536/article/details/147607277)
+
++ [【原创】如何在安卓系统下使用Delphi开发的APP运行ADB命令](https://blog.csdn.net/tom_yea/article/details/147619401)
+
