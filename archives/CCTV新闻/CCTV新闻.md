@@ -165,3 +165,7 @@
 
 + [美国务院宣布新一轮与伊朗相关的制裁](https://news.cctv.com/2025/05/01/ARTIugZfBOkHZWrCDe6fYPa5250501.shtml)
 
++ [美乌签署协议建立美乌重建投资基金](https://news.cctv.com/2025/05/01/ARTI3yghTcvxVgXK1ZAdP858250501.shtml)
+
++ [乌美签署矿产协议](https://news.cctv.com/2025/05/01/ARTIuQxUFDTE3j2O8Eo9dP0Q250501.shtml)
+
