@@ -185,3 +185,5 @@
 
 + [特朗普签署公告将对汽车零部件关税提供补偿](https://news.cctv.com/2025/04/30/ARTI3lFcmLcNpxTGWVjE4TOQ250430.shtml)
 
++ [印度总理授权军队对印控克什米尔恐袭作出回应](https://news.cctv.com/2025/04/30/ARTIy0UApYGprUv6izb6d6Li250430.shtml)
+

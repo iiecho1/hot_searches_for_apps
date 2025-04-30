@@ -41,3 +41,5 @@
 
 + [VIVO 使用报告](https://www.v2ex.com/t/1128864)
 
++ [Switch 2 你们买吗？](https://www.v2ex.com/t/1128990)
+
