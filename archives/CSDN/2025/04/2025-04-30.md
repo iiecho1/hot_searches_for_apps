@@ -145,3 +145,17 @@
 
 + [从视频中学习：从Humanoid-X、UH-1的自动打字幕，到首个人形VLA Humanoid-VLA(自监督数据增强且整合第一人称视角)](https://blog.csdn.net/v_JULY_v/article/details/147552157)
 
++ [生成对抗网络（Generative Adversarial Nets，GAN)](https://blog.csdn.net/qq_62434791/article/details/147352274)
+
++ [【MCP探索实践】Cherry Studio+MCP实战：3步让AI自动抓网页/读文件/调API](https://blog.csdn.net/xiaobing259/article/details/147589551)
+
++ [第10次：电商项目配置开发环境](https://blog.csdn.net/liuzhidong123/article/details/147616391)
+
++ [【计网】计算机网络的类别与性能](https://blog.csdn.net/2302_80281315/article/details/146564121)
+
++ [RPC 是什么？为什么有了 HTTP 还要用 RPC](https://blog.csdn.net/m0_46671240/article/details/147572278)
+
++ [Nacos 3.0 正式发布：MCP Registry、安全零信任、链接更多生态](https://blog.csdn.net/alisystemsoftware/article/details/147604871)
+
++ [最近对javashop做了压力测试：百万级并发下完全不是问题](https://blog.csdn.net/weixin_44976692/article/details/147549787)
+

@@ -179,3 +179,9 @@
 
 + [巴基斯坦高官：印度恐将在24至36小时内动武](https://news.cctv.com/2025/04/30/ARTI8MTzKnUyLtsaqo878KiO250430.shtml)
 
++ [古特雷斯与巴印双方分别通话 对紧张局势深表担忧](https://news.cctv.com/2025/04/30/ARTIUjsrUxBPbLBH4WfkT9ni250430.shtml)
+
++ [红场阅兵，首次彩排！](https://military.cctv.com/2025/04/30/ARTIwyFVhvCP0sg9aFBJBLt6250430.shtml)
+
++ [特朗普签署公告将对汽车零部件关税提供补偿](https://news.cctv.com/2025/04/30/ARTI3lFcmLcNpxTGWVjE4TOQ250430.shtml)
+
