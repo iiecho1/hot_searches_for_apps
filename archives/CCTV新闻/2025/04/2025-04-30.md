@@ -203,3 +203,5 @@
 
 + [国际观察丨谈判僵持 各国谨慎应对美关税施压](https://news.cctv.com/2025/04/30/ARTIVSJjHEjnk8Z4KJHflMkn250430.shtml)
 
++ [美国一季度GDP负增长](https://news.cctv.com/2025/04/30/ARTI3vqqd0o084xr4M3BEyeF250430.shtml)
+
