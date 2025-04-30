@@ -187,3 +187,5 @@
 
 + [印度总理授权军队对印控克什米尔恐袭作出回应](https://news.cctv.com/2025/04/30/ARTIy0UApYGprUv6izb6d6Li250430.shtml)
 
++ [巴基斯坦高官：印度恐将在24至36小时内动武 巴将果断回击](https://news.cctv.com/2025/04/30/ARTIIpImbmh6Q86GlxICOIto250430.shtml)
+

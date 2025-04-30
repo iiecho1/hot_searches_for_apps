@@ -43,3 +43,5 @@
 
 + [Switch 2 你们买吗？](https://www.v2ex.com/t/1128990)
 
++ [从 win 到 mac 是不是每个程序员的必经之路？](https://www.v2ex.com/t/1129027)
+
