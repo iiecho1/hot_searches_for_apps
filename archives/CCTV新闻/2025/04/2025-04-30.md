@@ -189,3 +189,9 @@
 
 + [巴基斯坦高官：印度恐将在24至36小时内动武 巴将果断回击](https://news.cctv.com/2025/04/30/ARTIIpImbmh6Q86GlxICOIto250430.shtml)
 
++ [乌称俄袭击哈尔科夫 已致45人受伤](https://news.cctv.com/2025/04/30/ARTIGXuYlcnpLSCqWjYuSClG250430.shtml)
+
++ [普遍悲观！美国消费者信心指数跌至近年最低水平](https://news.cctv.com/2025/04/30/ARTItEKCcqDkmE91Z9pPvd3w250430.shtml)
+
++ [关税冲击显现 美最大集装箱港入境货运量预计暴跌](https://news.cctv.com/2025/04/30/ARTIdtk5ludZAZOLxIEa2XKX250430.shtml)
+

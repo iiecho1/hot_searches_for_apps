@@ -167,3 +167,11 @@
 
 + [.NET 平台详解](https://blog.csdn.net/XiaoyuEr_6688/article/details/147621712)
 
++ [基于卷积神经网络的蔬菜水果识别系统，resnet50，mobilenet模型【pytorch框架+python源码】](https://blog.csdn.net/lanboAI/article/details/147574870)
+
++ [加速LLM大模型推理，KV缓存技术详解与PyTorch实现](https://blog.csdn.net/m0_46510245/article/details/147626045)
+
++ [DeepSeek解密：深度探索搜索引擎背后的底层架构与黑科技](https://blog.csdn.net/m0_68111267/article/details/147623903)
+
++ [从密码到握手：一文拆解HTTPS背后的7大安全加密技术护城河](https://blog.csdn.net/weixin_45793745/article/details/147618749)
+
