@@ -225,3 +225,5 @@
 
 + [美国法官裁定苹果公司违令 立即整改](https://news.cctv.com/2025/05/01/ARTIg5UBOo80wZGKAwJSEYvB250501.shtml)
 
++ [耶路撒冷山火持续 18人因涉嫌纵火被捕](https://news.cctv.com/2025/05/01/ARTIcB72Mjv2MAfbT61Dtbo8250501.shtml)
+
