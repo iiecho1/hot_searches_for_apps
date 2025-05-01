@@ -219,3 +219,9 @@
 
 + [英国地方选举正式开始](https://news.cctv.com/2025/05/01/ARTIZTGQvswbBsji0TJfONa0250501.shtml)
 
++ [出于安全考虑 巴基斯坦将限时关闭两座城市的部分空域](https://news.cctv.com/2025/05/01/ARTIXLZOoyxi6JmAzEsKWvuE250501.shtml)
+
++ [涉嫌违反《公职选举法》案被发回重审，李在明发声：失望](https://news.cctv.com/2025/05/01/ARTIczfQg4SNOjNiENeOUfmV250501.shtml)
+
++ [美国法官裁定苹果公司违令 立即整改](https://news.cctv.com/2025/05/01/ARTIg5UBOo80wZGKAwJSEYvB250501.shtml)
+

@@ -177,3 +177,7 @@
 
 + [组装 (DIY) 一台显示器 (4K 屏支持 4 画面分屏 PBP 1080p x4)](https://blog.csdn.net/secext2022/article/details/147595810)
 
++ [【现代深度学习技术】现代循环神经网络02：长短期记忆网络（LSTM）](https://blog.csdn.net/Morse_Chen/article/details/147645319)
+
++ [苍穹外卖心得体会](https://blog.csdn.net/2302_79847831/article/details/147567253)
+

@@ -27,3 +27,27 @@
 
 + [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 
++ [teableio/teable](https://github.com/teableio/teable)
+
++ [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
++ [zed-industries/zed](https://github.com/zed-industries/zed)
+
++ [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
++ [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app)
+
++ [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+
++ [alibaba/MNN](https://github.com/alibaba/MNN)
+
++ [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+
++ [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+
++ [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs)
+
++ [dotnet/eShop](https://github.com/dotnet/eShop)
+
