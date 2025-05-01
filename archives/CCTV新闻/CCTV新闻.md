@@ -161,3 +161,11 @@
 
 + [韩国大邱山火被扑灭 影响区域达260公顷](https://news.cctv.com/2025/04/29/ARTI8cyWCxjbBxdKMp60mRzu250429.shtml)
 
++ [特朗普称将禁止伊朗石油买家与美国做生意](https://news.cctv.com/2025/05/02/ARTIav12dnoOPCWMRbyFdtFy250502.shtml)
+
++ [美总统国家安全事务助理华尔兹被提名为美常驻联合国代表](https://news.cctv.com/2025/05/02/ARTIAsq3DGk9GrREX9zATaG8250502.shtml)
+
++ [美媒称美总统国家安全事务助理华尔兹将被解职](https://news.cctv.com/2025/05/02/ARTIiGK1oZJK7utT2G017mRU250502.shtml)
+
++ [泽连斯基：美乌矿产协议将提交乌拉达批准](https://news.cctv.com/2025/05/02/ARTIcljtFkIBjcgq84jFkaKs250502.shtml)
+
