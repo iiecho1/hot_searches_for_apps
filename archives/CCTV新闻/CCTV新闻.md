@@ -199,3 +199,11 @@
 
 + [国际媒体关注“加拿大与美国渐行渐远” 美国单边主义自酿苦果](https://news.cctv.com/2025/05/01/ARTISmUSPeJ9pnOFL6x6mzzk250501.shtml)
 
++ [需要“重新平衡”的是美国心态](https://news.cctv.com/2025/05/01/ARTIxVPjxkFTRPv4KAsuHr2I250501.shtml)
+
++ [美一季度经济环比萎缩0.3% 英国央行暗示美元地位下降](https://news.cctv.com/2025/05/01/ARTIRWF6qlsQZJ8IY3bCetTB250501.shtml)
+
++ [韩国代总统、国务总理韩德洙宣布辞职](https://news.cctv.com/2025/05/01/ARTIwtg0CSRVaNWwJF9yp6RE250501.shtml)
+
++ [韩德洙宣布辞职](https://news.cctv.com/2025/05/01/ARTIElwBaUW9bBMkg0jZynDH250501.shtml)
+

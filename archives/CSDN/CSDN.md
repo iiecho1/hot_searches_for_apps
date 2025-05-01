@@ -155,3 +155,11 @@
 
 + [网络原理 - 11(HTTP/HTTPS - 2 - 请求)](https://blog.csdn.net/Zz_waiting/article/details/147595721)
 
++ [Perforated Backpropagation：神经网络优化的创新技术及PyTorch使用指南](https://blog.csdn.net/m0_46510245/article/details/147645022)
+
++ [（A题｜支路车流量推测问题）2025年第二十二届五一数学建模竞赛（五一杯/五一赛）解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/147645579)
+
++ [《Claude 3.7 Sonnet：混合推理架构深度解析 | 代码生成/企业应用/多模态编程全维度评测》](https://blog.csdn.net/2301_76341691/article/details/147638217)
+
++ [2025五一杯数学建模C题：社交媒体平台用户分析问题；思路分析+模型代码](https://blog.csdn.net/weixin_45499067/article/details/147645929)
+
