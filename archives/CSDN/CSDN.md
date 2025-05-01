@@ -169,3 +169,11 @@
 
 + [深度解析Qwen3：性能实测对标Gemini 2.5 Pro？开源大模型新标杆的部署挑战与机遇](https://blog.csdn.net/coolyoung520/article/details/147619914)
 
++ [长短期记忆网络（LSTM）](https://blog.csdn.net/weixin_73557167/article/details/147403228)
+
++ [2025五一杯A题五一杯数学建模思路代码文章教学:支路车流量推测问题](https://blog.csdn.net/xb459149247/article/details/147645798)
+
++ [2025五一杯数学建模A题：支路车流量推测问题，思路分析+模型代码](https://blog.csdn.net/weixin_45499067/article/details/147647059)
+
++ [组装 (DIY) 一台显示器 (4K 屏支持 4 画面分屏 PBP 1080p x4)](https://blog.csdn.net/secext2022/article/details/147595810)
+

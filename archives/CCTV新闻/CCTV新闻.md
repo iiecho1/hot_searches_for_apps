@@ -217,3 +217,5 @@
 
 + [中国驻阿根廷使馆发言人就有关涉台谬论发表谈话](https://news.cctv.com/2025/05/01/ARTIRiJQEmRIPz4MbTVgduJC250501.shtml)
 
++ [英国地方选举正式开始](https://news.cctv.com/2025/05/01/ARTIZTGQvswbBsji0TJfONa0250501.shtml)
+
