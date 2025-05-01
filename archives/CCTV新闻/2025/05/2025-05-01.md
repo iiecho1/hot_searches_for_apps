@@ -191,3 +191,11 @@
 
 + [增诉滥用职权罪 尹锡悦遭韩国检方追加起诉](https://news.cctv.com/2025/05/01/ARTIU7NmQ5J7gq8iz4rlMaax250501.shtml)
 
++ [米价连创新高 日本多地频现“大米盗贼”](https://news.cctv.com/2025/05/01/ARTIBn7JziX3tyIjFwfMQ6JM250501.shtml)
+
++ [近东救济工程处：以色列将关闭6所学校 800加沙儿童失学](https://news.cctv.com/2025/05/01/ARTI1IwZ5ioIj3XhtvRqqgFg250501.shtml)
+
++ [案件发回重审 李在明参选韩总统之路再添波折](https://news.cctv.com/2025/05/01/ARTIhOyrmI811jjKjL6a73bE250501.shtml)
+
++ [国际媒体关注“加拿大与美国渐行渐远” 美国单边主义自酿苦果](https://news.cctv.com/2025/05/01/ARTISmUSPeJ9pnOFL6x6mzzk250501.shtml)
+

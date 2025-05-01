@@ -147,3 +147,11 @@
 
 + [Linux 部署以paddle Serving 的方式部署 PaddleOCR CPU版本](https://blog.csdn.net/weixin_36893273/article/details/147637117)
 
++ [【云原生】基于Centos7 搭建Redis 6.2 操作实战详解](https://blog.csdn.net/congge_study/article/details/147644807)
+
++ [如何免费把PPT的页面输出为透明的图片-快速制作图新说汇报内容](https://blog.csdn.net/xiaopeixiaojun/article/details/147592705)
+
++ [用TCP实现服务器与客户端的交互](https://blog.csdn.net/Lizhihao_/article/details/147613760)
+
++ [网络原理 - 11(HTTP/HTTPS - 2 - 请求)](https://blog.csdn.net/Zz_waiting/article/details/147595721)
+
