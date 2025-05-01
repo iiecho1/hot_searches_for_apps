@@ -207,3 +207,13 @@
 
 + [韩德洙宣布辞职](https://news.cctv.com/2025/05/01/ARTIElwBaUW9bBMkg0jZynDH250501.shtml)
 
++ [印度宣布对巴基斯坦所有航班关闭领空](https://news.cctv.com/2025/05/01/ARTIU3Po6YhwIQcaXLl8xG02250501.shtml)
+
++ [李在明涉嫌违反韩国《公职选举法》案被发回重审](https://news.cctv.com/2025/05/01/ARTIHGruqfhrterNQcldgfkR250501.shtml)
+
++ [新西兰遭遇极端天气 多地进入紧急状态](https://news.cctv.com/2025/05/01/ARTIwvcNqFeqGlKhH56vraV7250501.shtml)
+
++ [热点问答丨美乌终签协议，影响几何](https://news.cctv.com/2025/05/01/ARTIl90flPJu6n3xdY5icBtO250501.shtml)
+
++ [中国驻阿根廷使馆发言人就有关涉台谬论发表谈话](https://news.cctv.com/2025/05/01/ARTIRiJQEmRIPz4MbTVgduJC250501.shtml)
+

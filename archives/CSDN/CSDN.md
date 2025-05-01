@@ -163,3 +163,9 @@
 
 + [2025五一杯数学建模C题：社交媒体平台用户分析问题；思路分析+模型代码](https://blog.csdn.net/weixin_45499067/article/details/147645929)
 
++ [解锁动态规划的奥秘：从零到精通的创新思维解析（10）](https://blog.csdn.net/effort123_/article/details/147642178)
+
++ [2025东三省B题深圳杯B题数学建模挑战赛数模思路代码文章教学](https://blog.csdn.net/xb459149247/article/details/147641263)
+
++ [深度解析Qwen3：性能实测对标Gemini 2.5 Pro？开源大模型新标杆的部署挑战与机遇](https://blog.csdn.net/coolyoung520/article/details/147619914)
+
