@@ -175,3 +175,13 @@
 
 + [以色列进入“国家紧急状态”](https://news.cctv.com/2025/05/01/ARTI0FgJXihyrHLmcLETcvoo250501.shtml)
 
++ [智库调查：超六成荷兰民众视美国为全球威胁](https://news.cctv.com/2025/05/01/ARTILRtRvuX32VGTXZxFnr9L250501.shtml)
+
++ [被特斯拉踢出局？马斯克面临“双下岗”](https://news.cctv.com/2025/05/01/ARTIpsqvnD5BHotBxlWRvipC250501.shtml)
+
++ [美国多家企业重新评估业绩指引 超八成受访企业高管对美政策表示担忧](https://news.cctv.com/2025/05/01/ARTIBS9NQfzNy3Q23WlNls5H250501.shtml)
+
++ [美经济学家给出关税政策可能导致美国经济衰退“时间表”](https://news.cctv.com/2025/05/01/ARTIchU1sd9QpP2BuFZUMHZf250501.shtml)
+
++ [驻日本大使馆提醒中国公民谨防新型电信诈骗](https://news.cctv.com/2025/05/01/ARTIY4dlLnYUVLMKmqVpvnMx250501.shtml)
+
