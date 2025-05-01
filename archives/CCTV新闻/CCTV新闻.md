@@ -169,3 +169,9 @@
 
 + [乌美签署矿产协议](https://news.cctv.com/2025/05/01/ARTIuQxUFDTE3j2O8Eo9dP0Q250501.shtml)
 
++ [美国第一季度经济环比萎缩0.3% 这一数据的糟糕程度超出市场预期](https://news.cctv.com/2025/05/01/ARTIHsHP6cWXNYVOImz1QggR250501.shtml)
+
++ [白宫“关税经济学”重创美国内经济 特朗普：怪拜登](https://news.cctv.com/2025/05/01/ARTIEKGQq7L0qK2TewCgZKx4250501.shtml)
+
++ [以色列进入“国家紧急状态”](https://news.cctv.com/2025/05/01/ARTI0FgJXihyrHLmcLETcvoo250501.shtml)
+

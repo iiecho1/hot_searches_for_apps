@@ -129,3 +129,9 @@
 
 + [【Redis】缓存|缓存的更新策略|内存淘汰策略|缓存预热、缓存穿透、缓存雪崩和缓存击穿](https://blog.csdn.net/qq_73017178/article/details/147616534)
 
++ [蓝耘元生代：基于ComfyUI的AI工作流构建实践——技术架构与开发者效率的双重革新](https://blog.csdn.net/2302_78391795/article/details/147574774)
+
++ [Python小程序：上班该做点摸鱼的事情](https://blog.csdn.net/qq_57737603/article/details/147620637)
+
++ [【Spring Boot】Mybatis操作数据库，动态SQL：＜if＞标签、＜trim＞标签、＜where＞标签、＜set＞标签、＜foreach＞标签、＜sql＞和＜include＞标签](https://blog.csdn.net/2302_79527141/article/details/147383511)
+
