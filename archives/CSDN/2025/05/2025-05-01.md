@@ -135,3 +135,11 @@
 
 + [【Spring Boot】Mybatis操作数据库，动态SQL：＜if＞标签、＜trim＞标签、＜where＞标签、＜set＞标签、＜foreach＞标签、＜sql＞和＜include＞标签](https://blog.csdn.net/2302_79527141/article/details/147383511)
 
++ [DeepSeek-Prover-V2-671B 简介、下载、体验、微调、数据集：专为数学定理自动证明设计的超大垂直领域语言模型（在线体验地址）](https://blog.csdn.net/qq_44866828/article/details/147641631)
+
++ [【计算机架构】CISC（复杂指令集计算机）架构](https://blog.csdn.net/wnm23/article/details/147599558)
+
++ [如何使用CAN分析仪验证MCU CAN错误机制](https://blog.csdn.net/m0_38106923/article/details/147640101)
+
++ [基于UNet算法的农业遥感图像语义分割——补充版](https://blog.csdn.net/2401_85464956/article/details/147623679)
+
