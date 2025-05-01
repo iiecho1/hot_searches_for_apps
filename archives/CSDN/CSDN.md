@@ -143,3 +143,7 @@
 
 + [基于UNet算法的农业遥感图像语义分割——补充版](https://blog.csdn.net/2401_85464956/article/details/147623679)
 
++ [【Qt】网络](https://blog.csdn.net/weixin_50776420/article/details/147522445)
+
++ [Linux 部署以paddle Serving 的方式部署 PaddleOCR CPU版本](https://blog.csdn.net/weixin_36893273/article/details/147637117)
+
