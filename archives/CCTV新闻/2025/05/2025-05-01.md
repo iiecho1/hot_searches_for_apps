@@ -185,3 +185,9 @@
 
 + [驻日本大使馆提醒中国公民谨防新型电信诈骗](https://news.cctv.com/2025/05/01/ARTIY4dlLnYUVLMKmqVpvnMx250501.shtml)
 
++ [经济热点问答丨美国经济萎缩意味着什么？](https://news.cctv.com/2025/05/01/ARTIRbNRm9vll12eKKdflhHc250501.shtml)
+
++ [日本央行维持政策利率在0.5%不变](https://news.cctv.com/2025/05/01/ARTIqw27yD0b8gHlSU8OCRYU250501.shtml)
+
++ [增诉滥用职权罪 尹锡悦遭韩国检方追加起诉](https://news.cctv.com/2025/05/01/ARTIU7NmQ5J7gq8iz4rlMaax250501.shtml)
+
