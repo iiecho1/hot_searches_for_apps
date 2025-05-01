@@ -227,3 +227,11 @@
 
 + [耶路撒冷山火持续 18人因涉嫌纵火被捕](https://news.cctv.com/2025/05/01/ARTIcB72Mjv2MAfbT61Dtbo8250501.shtml)
 
++ [多国数十年共建“人造太阳”达成重要里程碑](https://news.cctv.com/2025/05/01/ARTIP19f8MTqhtWt9my9ygsN250501.shtml)
+
++ [美国一季度GDP环比萎缩0.3% 特朗普：都怪拜登](https://news.cctv.com/2025/05/01/ARTI3ea5EMjdhOpiXeCloBPA250501.shtml)
+
++ [菲律宾高速收费站多车相撞 致12死30伤](https://news.cctv.com/2025/05/01/ARTIQvmCZ5hatDdmemxRt2U0250501.shtml)
+
++ [乌美矿产协议文本公布 明确乌收益及协议优先级](https://news.cctv.com/2025/05/01/ARTI2HRoGXDChHtBBEVtQVGI250501.shtml)
+
