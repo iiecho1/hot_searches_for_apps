@@ -115,3 +115,7 @@
 
 + [【数据可视化-46】截止2025年手机发布数据可视化分析](https://blog.csdn.net/qq_38614074/article/details/147616771)
 
++ [nodemon命令介绍（Node.js代码监视并自动重启工具、代码监控代码、监控文件监控）重启node重启（注意：Node.js v22引入了稳定内置监视模式，提供更集成、更高效文件监控机制）](https://blog.csdn.net/Dontla/article/details/147655020)
+
++ [2025年04月29日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/147615463)
+
