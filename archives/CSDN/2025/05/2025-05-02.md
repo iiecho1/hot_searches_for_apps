@@ -105,3 +105,11 @@
 
 + [spring中的@Configuration注解详解](https://blog.csdn.net/zhangzehai2234/article/details/147641604)
 
++ [TensorFlow深度学习实战——基于循环神经网络的情感分析模型](https://blog.csdn.net/LOVEmy134611/article/details/144361208)
+
++ [海外社交App的Web3革命：去中心化社交与Token经济实战指南](https://blog.csdn.net/Vx18664956126/article/details/147613858)
+
++ [【dify—2】docker重装](https://blog.csdn.net/qq_62223405/article/details/147607019)
+
++ [2025年第二十二届五一数学建模竞赛题目C题 社交媒体平台用户分析问题](https://blog.csdn.net/m0_58496908/article/details/147644849)
+
