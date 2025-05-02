@@ -99,3 +99,7 @@
 
 + [这只皮卡丘好像有点不对劲...](https://m.acfun.cn/v/?ac=47213531)
 
++ [野鸡妈妈去世留下一窝蛋，被好心人救下后出现奇迹](https://m.acfun.cn/v/?ac=47211320)
+
++ [来自远古的生物危机！史前生物模拟恐怖！剧情解说《Prehistoric Emergence》](https://m.acfun.cn/v/?ac=47209152)
+
