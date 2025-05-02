@@ -69,3 +69,5 @@
 
 + [EXID UP&DOWN](https://m.acfun.cn/v/?ac=47213667)
 
++ [【绝望女神/劳动节五天乐翻唱】【AIMO 和 胡萝卜爱你呦】](https://m.acfun.cn/v/?ac=47214541)
+
