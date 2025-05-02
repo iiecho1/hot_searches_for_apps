@@ -67,3 +67,5 @@
 
 + [人均前十的顶分局！快速看完一局韩服王者斗殴局#660 十四, Cuzz, Tangyuan, Ted](https://m.acfun.cn/v/?ac=47213645)
 
++ [EXID UP&DOWN](https://m.acfun.cn/v/?ac=47213667)
+

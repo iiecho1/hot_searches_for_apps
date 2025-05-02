@@ -149,3 +149,7 @@
 
 + [Linux 部署以paddle Serving 的方式部署 PaddleOCR CPU版本](https://blog.csdn.net/weixin_36893273/article/details/147637117)
 
++ [【音视频】RTMP流媒体服务器搭建、推流拉流](https://blog.csdn.net/Antonio915/article/details/147655500)
+
++ [【MySQL】增删改查（CRUD）](https://blog.csdn.net/2402_86304740/article/details/147429314)
+
