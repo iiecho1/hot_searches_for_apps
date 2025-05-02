@@ -131,3 +131,5 @@
 
 + [2025 年五一数学建模竞赛选题分析（A/B/C 题）——王炸版](https://blog.csdn.net/2401_90074470/article/details/147644639)
 
++ [（C题｜社交媒体平台用户分析问题）2025年第二十二届五一数学建模竞赛（五一杯/五一赛）解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/147646841)
+

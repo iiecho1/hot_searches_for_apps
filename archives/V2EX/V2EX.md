@@ -27,3 +27,7 @@
 
 + [请教，有大佬知道如何在国内使用 WhatsApp 吗？](https://www.v2ex.com/t/1129337)
 
++ [苹果官网买的 Mac Mini 这个数据,给我发的翻新机??](https://www.v2ex.com/t/1129298)
+
++ [错误的事情，坚持下去，就会付出惨重的代价！](https://www.v2ex.com/t/1129347)
+

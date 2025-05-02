@@ -171,3 +171,5 @@
 
 + [韩国前国务总理韩德洙正式宣布参加总统选举](https://news.cctv.com/2025/05/02/ARTIfbKqqvP4Uz4XWlev80s2250502.shtml)
 
++ [国际观察丨欧洲军费“狂飙”背后的承压与破局](https://news.cctv.com/2025/05/02/ARTICCFFmrqBtz9wHidj17g0250502.shtml)
+
