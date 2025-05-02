@@ -145,3 +145,5 @@
 
 + [LabVIEW实验室测试框架推荐](https://blog.csdn.net/bjcyck/article/details/147659914)
 
++ [蓝耘智算云平台技术优势的差异化实践：从成本革命到全流程管理](https://blog.csdn.net/2302_78391795/article/details/147595444)
+

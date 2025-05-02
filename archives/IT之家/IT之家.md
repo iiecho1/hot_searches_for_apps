@@ -25,3 +25,27 @@
 
 + [国补立减 500 元：华为 Mate 70 Pro 优享版手机 5499 元京东新低](https://m.ithome.com/html/849185.htm)
 
++ [小米 SU7 Ultra 汽车更新 1.7.0 限制最大马力，打卡赛道成绩才能解锁 1548 匹](https://m.ithome.com/html/850288.htm)
+
++ [2025 年 4 月汽车销量 / 交付汇总：吉利 234112 辆，同比增长 53%（实时更新）](https://m.ithome.com/html/850343.htm)
+
++ [铁路 12306 回应网传“五一前大量放票”：持续挖潜运力、部分旅客退改](https://m.ithome.com/html/850330.htm)
+
++ [英伟达黄仁勋称华为是全球最强科技公司之一，中美在 AI 发展领域的水平非常接近](https://m.ithome.com/html/850370.htm)
+
++ [拼多多宣布派发 50 亿元消费补贴，支持上海“五五购物节”](https://m.ithome.com/html/850394.htm)
+
++ [2025 年 4 月汽车销量 / 交付榜：比亚迪超 38 万辆继续领跑，小鹏超越理想](https://m.ithome.com/html/850338.htm)
+
++ [全国规模最大的京东 MALL 落地北京，今日起试营业](https://m.ithome.com/html/850373.htm)
+
++ [比亚迪乘用车 4 月销量明细出炉：秦、海鸥继续领跑，方程豹破万](https://m.ithome.com/html/850336.htm)
+
++ [索尼 Xperia 1 VII 手机跑分曝光：骁龙 8 至尊版芯片、12GB 内存](https://m.ithome.com/html/850404.htm)
+
++ [小米五月黄金服务周：手机电池换新 79.2 元起，家电清洁一口价 99 元](https://m.ithome.com/html/850381.htm)
+
++ [微软宣布 Xbox 主机、游戏、配件全球范围全面涨价](https://m.ithome.com/html/850389.htm)
+
++ [9800 元，国内首款 AI 智能助行外骨骼机器人“踏山”发布](https://m.ithome.com/html/849185.htm)
+

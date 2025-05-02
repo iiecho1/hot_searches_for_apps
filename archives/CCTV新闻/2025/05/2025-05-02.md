@@ -183,3 +183,11 @@
 
 + [不到半年已换3位 李周浩履职韩国代总统](https://news.cctv.com/2025/05/02/ARTIUcNZ1fsQVpqpNsEnbyRa250502.shtml)
 
++ [高质量共建“一带一路”，携手迈向现代化（和音）——携手周边国家共创美好未来④](https://news.cctv.com/2025/05/02/ARTIDAMNQzFl18aWJchmrV8q250502.shtml)
+
++ [美国商会：加征关税将给小企业造成“无法弥补的伤害”](https://news.cctv.com/2025/05/02/ARTI5T1dFsPWROoDDPZt0m69250502.shtml)
+
++ [携手维护全球多边经贸体制](https://news.cctv.com/2025/05/02/ARTI7lxUkkzCBnjq05Lor1Bg250502.shtml)
+
++ [巴基斯坦专家学者：中国践行万隆精神 为团结全球南方发挥引领作用](https://news.cctv.com/2025/05/02/ARTI997byeQQywGcTiJHo7sA250502.shtml)
+
