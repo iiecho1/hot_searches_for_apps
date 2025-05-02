@@ -237,3 +237,7 @@
 
 + [新闻调查｜美国关税战之害的世纪警示](https://news.cctv.com/2025/05/02/ARTI5ATtO5HbZkOIMgsprnZ5250502.shtml)
 
++ [克什米尔局势紧张 多国斡旋力避印巴冲突扩大](https://news.cctv.com/2025/05/02/ARTI6nipfypM6YseHFDuC8om250502.shtml)
+
++ [阻止移民入境 美将在美墨边境设立新军事禁区](https://news.cctv.com/2025/05/02/ARTIm03lMmhIrh1q9wFbkg25250502.shtml)
+

@@ -177,3 +177,7 @@
 
 + [FPGA中级项目8———UART-RAM-TFT](https://blog.csdn.net/m0_67400176/article/details/147628085)
 
++ [[FPGA VIDEO IP] VCU](https://blog.csdn.net/qaz178889322/article/details/147629066)
+
++ [【前端】Webpack+LLM开发一个代码审查助手](https://blog.csdn.net/qq_45866781/article/details/147653531)
+
