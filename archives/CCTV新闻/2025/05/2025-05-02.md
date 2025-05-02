@@ -177,3 +177,9 @@
 
 + [谭德塞：全球卫生融资“正经历记忆中最严重的动荡”](https://news.cctv.com/2025/05/02/ARTIgApbBrt7zi6gnvuByv1H250502.shtml)
 
++ [缺零配件、缺产业链 美企要实现“100%美国制造”困难重重](https://news.cctv.com/2025/05/02/ARTIZoWprGQ4icUmwo1IcVee250502.shtml)
+
++ [“让货架变空”“让价格更高” 美国人将吞下滥施关税的苦果](https://news.cctv.com/2025/05/02/ARTIqf1YxNjWe4wPCk9LUUt5250502.shtml)
+
++ [不到半年已换3位 李周浩履职韩国代总统](https://news.cctv.com/2025/05/02/ARTIUcNZ1fsQVpqpNsEnbyRa250502.shtml)
+
