@@ -191,3 +191,13 @@
 
 + [巴基斯坦专家学者：中国践行万隆精神 为团结全球南方发挥引领作用](https://news.cctv.com/2025/05/02/ARTI997byeQQywGcTiJHo7sA250502.shtml)
 
++ [乌美重建基金将在乌议会批准矿产协议后尽快启动](https://news.cctv.com/2025/05/02/ARTIn3cSiIrAvTd1ZjSBEroO250502.shtml)
+
++ [德国民调：美关税政策加剧经济困境 民众呼吁采取强硬立场](https://news.cctv.com/2025/05/02/ARTITZOmMzmlDhf9kgZblKuT250502.shtml)
+
++ [法国多地监狱遭袭 21名涉案嫌疑人被起诉](https://news.cctv.com/2025/05/02/ARTIX1RYEJdyskilg8LHqSBe250502.shtml)
+
++ [第20批援中非中国医疗队在当地开展义诊](https://news.cctv.com/2025/05/02/ARTIOK6AEDhlb5CBZzvRYaSz250502.shtml)
+
++ [缺零配件、缺产业链 美企要实现100%“美国制造”困难重重](https://news.cctv.com/2025/05/02/ARTIZoWprGQ4icUmwo1IcVee250502.shtml)
+

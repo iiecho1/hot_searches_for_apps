@@ -147,3 +147,9 @@
 
 + [蓝耘智算云平台技术优势的差异化实践：从成本革命到全流程管理](https://blog.csdn.net/2302_78391795/article/details/147595444)
 
++ [计算机视觉——基于树莓派的YOLO11模型优化与实时目标检测、跟踪及计数的实践](https://blog.csdn.net/matt45m/article/details/147629866)
+
++ [Mysql数据库高可用解决方案-Mysql Router](https://blog.csdn.net/qq877507054/article/details/147639346)
+
++ [雷达理论中模糊函数详解与 MATLAB 仿真程序](https://blog.csdn.net/feng1790291543/article/details/145144287)
+
