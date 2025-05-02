@@ -133,3 +133,13 @@
 
 + [（C题｜社交媒体平台用户分析问题）2025年第二十二届五一数学建模竞赛（五一杯/五一赛）解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/147646841)
 
++ [【现代深度学习技术】现代循环神经网络03：深度循环神经网络](https://blog.csdn.net/Morse_Chen/article/details/147652835)
+
++ [Flutter BottomNavigationBar 详解](https://blog.csdn.net/g984160547/article/details/146070241)
+
++ [OpenHarmony - 小型系统内核（LiteOS-A）（完），内核编码规范](https://blog.csdn.net/benco1986/article/details/147625056)
+
++ [『深夜_MySQL』详解数据库 && 探索数据库是如何存储的](https://blog.csdn.net/m0_54443558/article/details/147618640)
+
++ [《社交类应用开发：React Native与Flutter的抉择》](https://blog.csdn.net/xy520521/article/details/147656181)
+

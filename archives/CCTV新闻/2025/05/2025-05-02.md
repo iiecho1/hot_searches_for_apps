@@ -175,3 +175,5 @@
 
 + [印度德里地区突发暴雨 上百架次航班延误](https://news.cctv.com/2025/05/02/ARTIy8UbfKRqwhT1FyWiMp4V250502.shtml)
 
++ [谭德塞：全球卫生融资“正经历记忆中最严重的动荡”](https://news.cctv.com/2025/05/02/ARTIgApbBrt7zi6gnvuByv1H250502.shtml)
+
