@@ -167,3 +167,5 @@
 
 + [加速LLM大模型推理，KV缓存技术详解与PyTorch实现](https://blog.csdn.net/m0_46510245/article/details/147626045)
 
++ [AI Agent新范式：FastGPT+MCP协议实现工具增强型智能体构建](https://blog.csdn.net/qq_40477248/article/details/147630838)
+
