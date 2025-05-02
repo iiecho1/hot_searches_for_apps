@@ -215,3 +215,15 @@
 
 + [开往加沙的援助船在国际水域遭无人机袭击](https://news.cctv.com/2025/05/02/ARTIV2sAaJ39JPlhQvd2lLhY250502.shtml)
 
++ [印尼4月通胀率达1.17%](https://news.cctv.com/2025/05/02/ARTI9O2hPgnqi09o7OuKjBdO250502.shtml)
+
++ [美将不再充当调解人角色？美国务院发言人：俄乌需“直接对话”](https://news.cctv.com/2025/05/02/ARTITY5urMV1lhJQkpMnP6lN250502.shtml)
+
++ [英国多家零售商遭网络黑客攻击](https://news.cctv.com/2025/05/02/ARTIIQHUaOujrYHnTHfAnbQp250502.shtml)
+
++ [视频丨日本找到三个月前坠坑老人遗体](https://news.cctv.com/2025/05/02/ARTICZclWyiOOnutLYjvQg6g250502.shtml)
+
++ [乌总理：乌美矿产协议后续技术文件无需议会批准](https://news.cctv.com/2025/05/02/ARTI523i5mKXyIYplIrdgTtS250502.shtml)
+
++ [联合国粮农组织：4月全球食品价格指数环比上涨1%](https://news.cctv.com/2025/05/02/ARTIRwFlL82z8Ga8CkgDNixS250502.shtml)
+
