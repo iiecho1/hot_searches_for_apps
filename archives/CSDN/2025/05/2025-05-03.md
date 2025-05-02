@@ -109,3 +109,37 @@
 
 + [FPGA中级项目8———UART-RAM-TFT](https://blog.csdn.net/m0_67400176/article/details/147628085)
 
++ [详解 MyBatis-Plus 框架中 QueryWrapper 类](https://blog.csdn.net/2302_79730293/article/details/147640544)
+
++ [贝叶斯算法实战：从原理到鸢尾花数据集分类](https://blog.csdn.net/2201_75345884/article/details/147655114)
+
++ [手把手教你Jetson Orin Nano使用Ollama本地部署DeepSeek等大语言模型](https://blog.csdn.net/agentssl/article/details/147633842)
+
++ [解锁动态规划的奥秘：从零到精通的创新思维解析（10）](https://blog.csdn.net/effort123_/article/details/147642178)
+
++ [软件工程国考](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/147651346)
+
++ [windows远程服务器数据库的搭建和远程访问(Mysql忘记密码通过Navicat连接记录解密密码)](https://blog.csdn.net/weixin_46011290/article/details/147632801)
+
++ [解锁 C++26 的未来：从语言标准演进到实战突破](https://blog.csdn.net/2501_90200491/article/details/147657194)
+
++ [MIT XV6 - 1.2 Lab: Xv6 and Unix utilities - pingpong](https://blog.csdn.net/peilinok/article/details/147660505)
+
++ [如何使用CAN分析仪验证MCU CAN错误机制](https://blog.csdn.net/m0_38106923/article/details/147640101)
+
++ [如何通过ROS2 获取Xbox Series手柄通道信息](https://blog.csdn.net/weixin_73903802/article/details/147672959)
+
++ [潇洒郎： 100% 成功搭建Docker私有镜像仓库并管理、删除镜像](https://blog.csdn.net/qq_32711799/article/details/147639654)
+
++ [【云原生】基于Centos7 搭建Redis 6.2 操作实战详解](https://blog.csdn.net/congge_study/article/details/147644807)
+
++ [C++负载均衡远程调用学习之消息路分发机制](https://blog.csdn.net/qq_27302885/article/details/147655473)
+
++ [QML对象更新机制与缓存问题的全面讨论](https://blog.csdn.net/qq_43689451/article/details/147655220)
+
++ [前端工程化利器：Node.js 文件匹配库 fast-glob 完全指南——比传统方案快 350% 的「文件搜索神器」](https://blog.csdn.net/y158392613/article/details/147623577)
+
++ [podman/docker国内可用的docker镜像源（2025-05）](https://blog.csdn.net/adorechen/article/details/147652534)
+
++ [【2025五一数学建模竞赛C题】社交媒体平台用户分析问题｜建模过程+完整代码论文全解全析](https://blog.csdn.net/wxhzly__030/article/details/147652673)
+
