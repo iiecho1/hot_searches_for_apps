@@ -201,3 +201,13 @@
 
 + [缺零配件、缺产业链 美企要实现100%“美国制造”困难重重](https://news.cctv.com/2025/05/02/ARTIZoWprGQ4icUmwo1IcVee250502.shtml)
 
++ [乌克兰议会将于5月8日审议乌美矿产协议](https://news.cctv.com/2025/05/02/ARTIPA2AhbP9IfBQ9OdSj4Xc250502.shtml)
+
++ [欧元区4月通胀率为2.2% 与3月持平](https://news.cctv.com/2025/05/02/ARTIihPMd7LUkftrBVeula4O250502.shtml)
+
++ [总台现场直击丨强风雨侵袭新西兰 树木倾倒 供电仍在抢修](https://news.cctv.com/2025/05/02/ARTIKHatYtqBfKuG9nPs2dc1250502.shtml)
+
++ [李在明涉嫌违反《公职选举法》案将于15日进行首次重审公审](https://news.cctv.com/2025/05/02/ARTI6l5ziVy5HUmdgKinS21x250502.shtml)
+
++ [德联邦宪法保卫局认定德国选择党为极右翼势力](https://news.cctv.com/2025/05/02/ARTI5BzoGFfzAO2wrkQeeNns250502.shtml)
+
