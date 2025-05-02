@@ -169,3 +169,5 @@
 
 + [泽连斯基：美乌矿产协议将提交乌拉达批准](https://news.cctv.com/2025/05/02/ARTIcljtFkIBjcgq84jFkaKs250502.shtml)
 
++ [韩国前国务总理韩德洙正式宣布参加总统选举](https://news.cctv.com/2025/05/02/ARTIfbKqqvP4Uz4XWlev80s2250502.shtml)
+
