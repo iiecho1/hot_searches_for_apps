@@ -211,3 +211,7 @@
 
 + [德联邦宪法保卫局认定德国选择党为极右翼势力](https://news.cctv.com/2025/05/02/ARTI5BzoGFfzAO2wrkQeeNns250502.shtml)
 
++ [美国启动新一代通用疫苗平台研发计划](https://news.cctv.com/2025/05/02/ARTIwSNZtTVD9NX1ANtRIAga250502.shtml)
+
++ [开往加沙的援助船在国际水域遭无人机袭击](https://news.cctv.com/2025/05/02/ARTIV2sAaJ39JPlhQvd2lLhY250502.shtml)
+

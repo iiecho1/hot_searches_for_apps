@@ -39,3 +39,25 @@
 
 + [dotnet/eShop](https://github.com/dotnet/eShop)
 
++ [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci)
+
++ [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+
++ [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+
++ [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+
++ [unionlabs/union](https://github.com/unionlabs/union)
+
++ [cloudflare/agents](https://github.com/cloudflare/agents)
+
++ [DiceDB/dice](https://github.com/DiceDB/dice)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [langwatch/langwatch](https://github.com/langwatch/langwatch)
+
++ [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+
++ [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2)
+
