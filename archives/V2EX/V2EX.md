@@ -49,3 +49,5 @@
 
 + [M1-Max 的 E-Core 长期接近满载导致操作卡顿，该淘汰了吗？](https://www.v2ex.com/t/1129339)
 
++ [微信支付优惠太少](https://www.v2ex.com/t/1129415)
+
