@@ -227,3 +227,13 @@
 
 + [联合国粮农组织：4月全球食品价格指数环比上涨1%](https://news.cctv.com/2025/05/02/ARTIRwFlL82z8Ga8CkgDNixS250502.shtml)
 
++ [印尼巴厘岛多地停电 疑似海底电缆发生故障](https://news.cctv.com/2025/05/02/ARTIZL5yLpyUMiGE2d4sc8Lj250502.shtml)
+
++ [苏丹快速支援部队宣布占领西科尔多凡州最大城市](https://news.cctv.com/2025/05/02/ARTIq4pdlnNKZCf9Y1mHlqSh250502.shtml)
+
++ [欧尔班：乌克兰加入欧盟将导致匈牙利经济破产](https://news.cctv.com/2025/05/02/ARTIiluGXdz7XJjH4lfjo8Wf250502.shtml)
+
++ [中国新型农机在巴西农业科技展上表现亮眼](https://news.cctv.com/2025/05/02/ARTI1RW7HPtGSeKUHMY6ytBA250502.shtml)
+
++ [新闻调查｜美国关税战之害的世纪警示](https://news.cctv.com/2025/05/02/ARTI5ATtO5HbZkOIMgsprnZ5250502.shtml)
+
