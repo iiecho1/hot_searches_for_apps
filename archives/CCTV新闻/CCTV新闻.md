@@ -173,3 +173,5 @@
 
 + [国际观察丨欧洲军费“狂飙”背后的承压与破局](https://news.cctv.com/2025/05/02/ARTICCFFmrqBtz9wHidj17g0250502.shtml)
 
++ [印度德里地区突发暴雨 上百架次航班延误](https://news.cctv.com/2025/05/02/ARTIy8UbfKRqwhT1FyWiMp4V250502.shtml)
+
