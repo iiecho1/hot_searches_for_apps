@@ -153,3 +153,15 @@
 
 + [【MySQL】增删改查（CRUD）](https://blog.csdn.net/2402_86304740/article/details/147429314)
 
++ [Spring AI的架构以及仿照小红书界面的博客实现](https://blog.csdn.net/m0_73654773/article/details/147673825)
+
++ [密码学_加密](https://blog.csdn.net/m0_65655109/article/details/147642505)
+
++ [c++互斥锁，竞争状态与临界区](https://blog.csdn.net/m0_72753035/article/details/147641955)
+
++ [Redis在大数据去重中的应用：布隆过滤器实战指南](https://blog.csdn.net/universsky2015/article/details/147673800)
+
++ [JVM 调优详解：从应届毕业生到经验丰富的性能绝地武士](https://blog.csdn.net/weixin_45508377/article/details/147673084)
+
++ [基于单片机的音频信号处理系统设计（三）](https://blog.csdn.net/u011046042/article/details/147644689)
+
