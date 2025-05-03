@@ -231,3 +231,11 @@
 
 + [2025 RSAC｜自主式 GenAI 安全智能体（Agent）开启防御新纪元](https://blog.csdn.net/m0_46640144/article/details/147636741)
 
++ [第三部分：特征提取与目标检测](https://blog.csdn.net/u012133341/article/details/147641180)
+
++ [Golang 身份证号码校验](https://blog.csdn.net/K346K346/article/details/147661262)
+
++ [构建更快，部署更智能：立即优化您的 Docker 设置](https://blog.csdn.net/weixin_39660059/article/details/147661343)
+
++ [linux下抓包工具--tcpdump介绍](https://blog.csdn.net/qq_40642828/article/details/147671835)
+

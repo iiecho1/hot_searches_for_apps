@@ -195,3 +195,5 @@
 
 + [日本民众举行护宪集会 反对战争与军备扩张](https://news.cctv.com/2025/05/03/ARTIBgxzPInQ9E4kXUfOnbYr250503.shtml)
 
++ [特朗普称将剥夺哈佛免税地位 哈佛回应“后果很严重”](https://news.cctv.com/2025/05/03/ARTIf5F7rPhHXwa2PFy7kWaq250503.shtml)
+
