@@ -241,3 +241,9 @@
 
 + [7.计算机网络相关术语](https://blog.csdn.net/qq_63241030/article/details/147641289)
 
++ [Redis 挂掉后高并发系统的应对策略：使用 Sentinel 实现限流降级与 SkyWalking 监控优化](https://blog.csdn.net/weixin_43063493/article/details/147653143)
+
++ [玩转Docker（一）：基本概念](https://blog.csdn.net/qq_36327627/article/details/147643611)
+
++ [Linux：信号(一)](https://blog.csdn.net/m0_68142120/article/details/147655108)
+
