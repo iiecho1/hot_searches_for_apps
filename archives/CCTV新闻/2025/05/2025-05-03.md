@@ -169,3 +169,7 @@
 
 + [中国驻旧金山总领馆：领区发生旅行交通事故，有中国公民伤亡](https://news.cctv.com/2025/05/03/ARTIT0glLJiRssa3pA1lYpJr250503.shtml)
 
++ [第三批援瓦努阿图中国医疗队在当地开展义诊](https://news.cctv.com/2025/05/03/ARTIPa1yxY7PJpKmX44Kh7bl250503.shtml)
+
++ [美国将于6月14日举行阅兵式 美媒报当天是特朗普生日](https://news.cctv.com/2025/05/03/ARTI4pVamXy96rpWrvtEnloR250503.shtml)
+

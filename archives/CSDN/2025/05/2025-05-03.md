@@ -181,3 +181,17 @@
 
 + [NFS 快速开始](https://blog.csdn.net/matrixlzp/article/details/147635041)
 
++ [当神经网络突破摩尔定律：探索大模型时代的算力新纪元](https://blog.csdn.net/m0_68111267/article/details/147659462)
+
++ [Maven 实现多模块项目依赖管理](https://blog.csdn.net/lilinhai548/article/details/147675144)
+
++ [Java学习手册：Spring 数据访问](https://blog.csdn.net/weixin_44978801/article/details/147657139)
+
++ [网络原理 - 12（HTTP/HTTPS - 3 - 响应）](https://blog.csdn.net/Zz_waiting/article/details/147626434)
+
++ [性能测试概念篇](https://blog.csdn.net/weixin_73077334/article/details/147013116)
+
++ [【开源工具】Python打造智能IP监控系统：邮件告警+可视化界面+配置持久化](https://blog.csdn.net/Clay_K/article/details/147627868)
+
++ [OpenHarmony - 驱动使用指南，HDF驱动开发流程](https://blog.csdn.net/benco1986/article/details/147662548)
+
