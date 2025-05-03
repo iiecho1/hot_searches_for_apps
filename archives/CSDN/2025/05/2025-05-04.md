@@ -101,3 +101,9 @@
 
 + [《社交类应用开发：React Native与Flutter的抉择》](https://blog.csdn.net/xy520521/article/details/147656181)
 
++ [当神经网络突破摩尔定律：探索大模型时代的算力新纪元](https://blog.csdn.net/m0_68111267/article/details/147659462)
+
++ [Zcanpro搭配USBCANFD-200U在新能源汽车研发测试中的应用指南（周立功/致远电子）](https://blog.csdn.net/2501_90583334/article/details/147644967)
+
++ [K8S - 深入解析 Service 与 Ingress - 服务暴露与流量管理](https://blog.csdn.net/weixin_46619605/article/details/147634565)
+
