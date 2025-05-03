@@ -197,3 +197,7 @@
 
 + [特朗普称将剥夺哈佛免税地位 哈佛回应“后果很严重”](https://news.cctv.com/2025/05/03/ARTIf5F7rPhHXwa2PFy7kWaq250503.shtml)
 
++ [也门总理艾哈迈德·阿瓦德·本·穆巴拉克辞职](https://news.cctv.com/2025/05/03/ARTIcmQfYhPsxYLQE90StuaM250503.shtml)
+
++ [武契奇回国后在军事医学院接受治疗](https://news.cctv.com/2025/05/03/ARTIrt51ESbQeyEd1yBVzvmA250503.shtml)
+
