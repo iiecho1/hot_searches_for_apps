@@ -223,3 +223,11 @@
 
 + [深度理解linux系统—— 进程优先级](https://blog.csdn.net/LH__1314/article/details/147653926)
 
++ [《Claude 3.7 Sonnet：混合推理架构深度解析 | 代码生成/企业应用/多模态编程全维度评测》](https://blog.csdn.net/2301_76341691/article/details/147638217)
+
++ [Flink流式计算核心：DataStream API与时间语义深度解析](https://blog.csdn.net/qq407155634/article/details/147655597)
+
++ [网络原理 - 13（HTTP/HTTPS - 4 - HTTPS）](https://blog.csdn.net/Zz_waiting/article/details/147636138)
+
++ [2025 RSAC｜自主式 GenAI 安全智能体（Agent）开启防御新纪元](https://blog.csdn.net/m0_46640144/article/details/147636741)
+

@@ -187,3 +187,11 @@
 
 + [印度一寺庙发生踩踏事件至少6人死亡](https://news.cctv.com/2025/05/03/ARTIwQTGXuI8t9AjL1Ijz35H250503.shtml)
 
++ [澳大利亚执政党工党在本次联邦选举中获胜](https://news.cctv.com/2025/05/03/ARTIG9Moz8ZmGcjqAgtetPHR250503.shtml)
+
++ [印度禁止巴基斯坦船只入港 暂停巴邮件包裹收发](https://news.cctv.com/2025/05/03/ARTIt4idEIAhy2DGKVOC7yRZ250503.shtml)
+
++ [今春获准从南坡攀登珠峰者超去年](https://news.cctv.com/2025/05/03/ARTIUwrSBDRwca3C4kSgL6yz250503.shtml)
+
++ [日本民众举行护宪集会 反对战争与军备扩张](https://news.cctv.com/2025/05/03/ARTIBgxzPInQ9E4kXUfOnbYr250503.shtml)
+

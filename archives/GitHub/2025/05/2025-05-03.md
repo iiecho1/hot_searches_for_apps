@@ -33,3 +33,27 @@
 
 + [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
 
++ [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+
++ [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
++ [juanfont/headscale](https://github.com/juanfont/headscale)
+
++ [koreader/koreader](https://github.com/koreader/koreader)
+
++ [jj-vcs/jj](https://github.com/jj-vcs/jj)
+
++ [alibaba/MNN](https://github.com/alibaba/MNN)
+
++ [pydantic/pydantic](https://github.com/pydantic/pydantic)
+
++ [alacritty/alacritty](https://github.com/alacritty/alacritty)
+
++ [filamentphp/filament](https://github.com/filamentphp/filament)
+
++ [htr-tech/zphisher](https://github.com/htr-tech/zphisher)
+
++ [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs)
+
++ [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot)
+
