@@ -163,3 +163,7 @@
 
 + [以军将大规模征召预备役部队 准备扩大加沙军事行动](https://news.cctv.com/2025/05/04/ARTIJAkgDJ9IKGqFtaYq3vr4250504.shtml)
 
++ [苏丹外交部：苏丹西部一城市约300名平民遭杀害](https://news.cctv.com/2025/05/04/ARTIs9uvWPDUfWxbxpe1SQd0250504.shtml)
+
++ [人民行动党在新加坡国会选举中获胜](https://news.cctv.com/2025/05/04/ARTIUyTWyZoMsQNNGADU9yOp250504.shtml)
+
