@@ -183,3 +183,5 @@
 
 + [德化工巨头警告美关税政策对全球市场情绪造成冲击](https://news.cctv.com/2025/05/03/ARTI3guo28tEyGoLNBZtFjd6250503.shtml)
 
++ [韩国国民力量党宣布金文洙为该党总统候选人](https://news.cctv.com/2025/05/03/ARTIfcRyES0e1x6cPo6AdPKt250503.shtml)
+

@@ -35,3 +35,5 @@
 
 + [O3， O4mini-high， claude3.7， Gemini2.5pro 编程能力该怎么排序](https://www.v2ex.com/t/1129424)
 
++ [男人三十依旧单身](https://www.v2ex.com/t/1129458)
+
