@@ -185,3 +185,5 @@
 
 + [韩国国民力量党宣布金文洙为该党总统候选人](https://news.cctv.com/2025/05/03/ARTIfcRyES0e1x6cPo6AdPKt250503.shtml)
 
++ [印度一寺庙发生踩踏事件至少6人死亡](https://news.cctv.com/2025/05/03/ARTIwQTGXuI8t9AjL1Ijz35H250503.shtml)
+

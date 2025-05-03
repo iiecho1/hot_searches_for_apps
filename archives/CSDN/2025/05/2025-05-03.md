@@ -211,3 +211,13 @@
 
 + [Python全流程开发实战：基于IMAP协议安全下载个人Gmail邮箱内所有PDF附件](https://blog.csdn.net/dudly/article/details/147669170)
 
++ [【现代深度学习技术】现代循环神经网络04：双向循环神经网络](https://blog.csdn.net/Morse_Chen/article/details/147655613)
+
++ [【KWDB 创作者计划】使用Docker实现KWDB数据库的快速部署与配置](https://blog.csdn.net/jks212454/article/details/147656934)
+
++ [Elasticsearch 中的索引模板：如何使用可组合模板](https://blog.csdn.net/UbuntuTouch/article/details/147680617)
+
++ [基于C++、JsonCpp、Muduo库实现的分布式RPC通信框架](https://blog.csdn.net/2301_78843337/article/details/147166212)
+
++ [ArcGIS+GPT：多领域地理分析与决策新方案](https://blog.csdn.net/2403_89974123/article/details/147636176)
+
