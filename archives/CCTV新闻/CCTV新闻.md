@@ -179,3 +179,5 @@
 
 + [5名中国公民在美国交通事故中遇难](https://news.cctv.com/2025/05/03/ARTIMAalRxojDceZEEIaI3qI250503.shtml)
 
++ [特朗普出访沙特前 美国务院批准35亿美元导弹军售](https://military.cctv.com/2025/05/03/ARTIyx512zeFH41LlMz0Pcuj250503.shtml)
+

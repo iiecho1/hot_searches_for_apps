@@ -199,3 +199,11 @@
 
 + [【影刀实战】每天自动关注CSDN热榜高活跃用户，实现高效涨粉和互关私聊](https://blog.csdn.net/lwcwam/article/details/147672847)
 
++ [【MCP探索实践】3分钟搭建AI服务器，FastMCP让开发效率飙升10倍](https://blog.csdn.net/xiaobing259/article/details/147595069)
+
++ [制作一款打飞机游戏36：调度编辑器](https://blog.csdn.net/wskongdesheng/article/details/147629920)
+
++ [CodeBuddy三大利器：Craft智能体、MCP协议和DeepSeek V3，编程效率提升的秘诀：我的CodeBuddy升级体验之旅（个性化推荐微服务系统）](https://blog.csdn.net/2301_76341691/article/details/147670260)
+
++ [OSPF路由协议配置](https://blog.csdn.net/m0_74113296/article/details/147662964)
+

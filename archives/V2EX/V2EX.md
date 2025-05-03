@@ -31,3 +31,5 @@
 
 + [求个 claude 中转，比 openrouter 贵的别来](https://www.v2ex.com/t/1129394)
 
++ [MBA M4 内存选 16 还是 24](https://www.v2ex.com/t/1129418)
+
