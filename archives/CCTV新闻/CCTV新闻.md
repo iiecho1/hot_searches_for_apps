@@ -163,3 +163,9 @@
 
 + [关税政策冲击美国港口 或引发供应链危机](https://news.cctv.com/2025/05/03/ARTIUqFPmdu5omkkfgxRWnUt250503.shtml)
 
++ [德国为何将选择党列为极右翼组织？](https://news.cctv.com/2025/05/03/ARTIqr55X1a1KyLh8Wl9w7ns250503.shtml)
+
++ [“我在义乌被看见”：一名塞内加尔商人的跨国故事](https://people.cctv.com/2025/05/03/ARTIdLyvs4U1qjWpaEYLHl4j250503.shtml)
+
++ [中国驻旧金山总领馆：领区发生旅行交通事故，有中国公民伤亡](https://news.cctv.com/2025/05/03/ARTIT0glLJiRssa3pA1lYpJr250503.shtml)
+

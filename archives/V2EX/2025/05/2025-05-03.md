@@ -23,3 +23,7 @@
 
 + [7 年之后的新手机](https://www.v2ex.com/t/1129438)
 
++ [四十依旧单身](https://www.v2ex.com/t/1129467)
+
++ [苹果有够离谱的, A17pro 真的有两个批次](https://www.v2ex.com/t/1129407)
+
