@@ -177,3 +177,5 @@
 
 + [美宣布向乌出售F-16战机零配件和配套服务](https://military.cctv.com/2025/05/03/ARTIuoaTQsz5G0wh66KYPf0j250503.shtml)
 
++ [5名中国公民在美国交通事故中遇难](https://news.cctv.com/2025/05/03/ARTIMAalRxojDceZEEIaI3qI250503.shtml)
+

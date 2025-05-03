@@ -29,3 +29,5 @@
 
 + [4 月一个月拔笋卖笋干能卖 1 万 5 千你会干吗？](https://www.v2ex.com/t/1129446)
 
++ [求个 claude 中转，比 openrouter 贵的别来](https://www.v2ex.com/t/1129394)
+

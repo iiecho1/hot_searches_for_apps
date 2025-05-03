@@ -195,3 +195,7 @@
 
 + [OpenHarmony - 驱动使用指南，HDF驱动开发流程](https://blog.csdn.net/benco1986/article/details/147662548)
 
++ [【Agent】MCP协议 | 用高德MCP Server制作旅游攻略](https://blog.csdn.net/qq_35812205/article/details/146767396)
+
++ [【影刀实战】每天自动关注CSDN热榜高活跃用户，实现高效涨粉和互关私聊](https://blog.csdn.net/lwcwam/article/details/147672847)
+
