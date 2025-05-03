@@ -173,3 +173,7 @@
 
 + [美国将于6月14日举行阅兵式 美媒报当天是特朗普生日](https://news.cctv.com/2025/05/03/ARTI4pVamXy96rpWrvtEnloR250503.shtml)
 
++ [朝中社：美在朝鲜半岛增兵将进一步增加其本土安全不确定性](https://military.cctv.com/2025/05/03/ARTIRrpFMkBcUcYzdCv8tK9m250503.shtml)
+
++ [美宣布向乌出售F-16战机零配件和配套服务](https://military.cctv.com/2025/05/03/ARTIuoaTQsz5G0wh66KYPf0j250503.shtml)
+
