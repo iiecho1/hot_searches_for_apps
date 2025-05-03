@@ -247,3 +247,11 @@
 
 + [Linux：信号(一)](https://blog.csdn.net/m0_68142120/article/details/147655108)
 
++ [深度学习-神经网络参数优化的约束与迭代策略](https://blog.csdn.net/jdjhcn/article/details/147654437)
+
++ [【网络原理】深入理解HTTPS协议](https://blog.csdn.net/2302_81886858/article/details/147654607)
+
++ [计算机网络01-网站数据传输过程](https://blog.csdn.net/qq_36022463/article/details/147672849)
+
++ [网络安全知识问答微信小程序的设计与实现](https://blog.csdn.net/qq_29528701/article/details/147646619)
+
