@@ -107,3 +107,19 @@
 
 + [K8S - 深入解析 Service 与 Ingress - 服务暴露与流量管理](https://blog.csdn.net/weixin_46619605/article/details/147634565)
 
++ [蓝耘智算云平台技术优势的差异化实践：从成本革命到全流程管理](https://blog.csdn.net/2302_78391795/article/details/147595444)
+
++ [探秘内存黑匣子：程序地址空间的底层真相与趣味实践](https://blog.csdn.net/suye050331/article/details/147687873)
+
++ [FPGA中级项目8———UART-RAM-TFT](https://blog.csdn.net/m0_67400176/article/details/147628085)
+
++ [Socat 用法详解：网络安全中的瑞士军刀](https://blog.csdn.net/2301_79518550/article/details/147545528)
+
++ [【2025五一数学建模竞赛A题】 支路车流量推测问题｜建模过程+完整代码论文全解全析](https://blog.csdn.net/wxhzly__030/article/details/147652701)
+
++ [ZYNQ 纯PL端逻辑资源程序固化流程](https://blog.csdn.net/juxiandesiyu/article/details/147656330)
+
++ [[FPGA Video] AXI4-Stream Remapper](https://blog.csdn.net/qaz178889322/article/details/147662962)
+
++ [HTTPS协议：更安全的HTTP](https://blog.csdn.net/m0_69722969/article/details/147505559)
+
