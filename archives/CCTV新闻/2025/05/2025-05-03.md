@@ -181,3 +181,5 @@
 
 + [特朗普出访沙特前 美国务院批准35亿美元导弹军售](https://military.cctv.com/2025/05/03/ARTIyx512zeFH41LlMz0Pcuj250503.shtml)
 
++ [德化工巨头警告美关税政策对全球市场情绪造成冲击](https://news.cctv.com/2025/05/03/ARTI3guo28tEyGoLNBZtFjd6250503.shtml)
+

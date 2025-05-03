@@ -25,3 +25,27 @@
 
 + [9800 元，国内首款 AI 智能助行外骨骼机器人“踏山”发布](https://m.ithome.com/html/849185.htm)
 
++ [小米 SU7 Ultra 限制马力灰度 OTA 停止推送：高度重视用户的利益和心声](https://m.ithome.com/html/850501.htm)
+
++ [工信部推广“二次号码焕新”服务，手机号注销后可一键解绑互联网账号](https://m.ithome.com/html/850456.htm)
+
++ [“鹰眼”扮演者因漫威“侮辱性报价”拒绝出演第二季剧集：他们只给我一半薪酬](https://m.ithome.com/html/850492.htm)
+
++ [R 星官宣《GTA6》延期至 2026 年 5 月 26 日发售](https://m.ithome.com/html/850507.htm)
+
++ [小米平板 7 Max 有望更名 Ultra：已通过蓝牙认证，120W 快充](https://m.ithome.com/html/850510.htm)
+
++ [《GTA 6》跳票后各界反应：彭博社记者称早已注定，玩家直呼“好歹来张截图”](https://m.ithome.com/html/850490.htm)
+
++ [小米米家筒 / 射灯 2 蓝牙 mesh 版开售：支持多灯分组，39.9 元 / 79 元](https://m.ithome.com/html/850480.htm)
+
++ [《植物大战僵尸 3》中国版有望 7 月 18 日推出，现已上架 iOS](https://m.ithome.com/html/850496.htm)
+
++ [iOS 版 Spotify 迎“史诗级更新”：用户可跳转至苹果以外平台付款](https://m.ithome.com/html/850524.htm)
+
++ [一汽奥迪 A5L 内饰公布：9 段式智能全景天幕，曲面 OLED 显示屏](https://m.ithome.com/html/850453.htm)
+
++ [微软 Surface 新品官宣 5 月 6 日发布](https://m.ithome.com/html/850545.htm)
+
++ [《哪吒之魔童闹海》上映 94 天票房逆跌，总票房冲击 158 亿元](https://m.ithome.com/html/849185.htm)
+

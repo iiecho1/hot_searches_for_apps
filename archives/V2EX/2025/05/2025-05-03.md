@@ -33,3 +33,5 @@
 
 + [MBA M4 内存选 16 还是 24](https://www.v2ex.com/t/1129418)
 
++ [O3， O4mini-high， claude3.7， Gemini2.5pro 编程能力该怎么排序](https://www.v2ex.com/t/1129424)
+
