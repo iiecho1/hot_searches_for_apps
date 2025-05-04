@@ -187,3 +187,7 @@
 
 + [塞尔维亚总统武契奇已出院](https://news.cctv.com/2025/05/04/ARTIAMuyvNxzFBFCXTFNYstZ250504.shtml)
 
++ [专访｜美关税政策加剧全球贸易不确定性——访英国四十八家集团主席杰克·佩里](https://news.cctv.com/2025/05/04/ARTIn36wtvsKzSHp5osg0it1250504.shtml)
+
++ [鲁班工坊助力中柬职教合作，培养技能人才—— “打开通向未来的大门”](https://news.cctv.com/2025/05/04/ARTIyG4QzH45jfLwX1mR727o250504.shtml)
+
