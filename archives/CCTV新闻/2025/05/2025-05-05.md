@@ -169,3 +169,7 @@
 
 + [以总理称将就机场导弹袭击报复也门胡塞武装和伊朗](https://news.cctv.com/2025/05/05/ARTIqNLv8NTDWuBrX4ytFkDL250505.shtml)
 
++ [黎巴嫩9年来首次举行地方选举](https://news.cctv.com/2025/05/05/ARTIYgUJOtdlEm1Yh5ODT9fm250505.shtml)
+
++ [加拿大总理访美前夕 特朗普称将永远谈论“第51个州”](https://news.cctv.com/2025/05/05/ARTIGuoTXt1UOwTMmcsKCVLr250505.shtml)
+
