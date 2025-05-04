@@ -211,3 +211,7 @@
 
 + [如何从GitHub上调研优秀的开源项目，并魔改应用于工作中？](https://blog.csdn.net/u011634421/article/details/147693764)
 
++ [React--》掌握react构建拖拽交互的技巧](https://blog.csdn.net/qq_53123067/article/details/147602672)
+
++ [SVM实战：从理论到鸢尾花数据集的分类可视化](https://blog.csdn.net/2201_75345884/article/details/147687869)
+

@@ -199,3 +199,9 @@
 
 + [日本儿童人数连续44年下降](https://news.cctv.com/2025/05/04/ARTIspg8YCCqvSg3E5AydLwu250504.shtml)
 
++ [普京称俄中关系对维护世界稳定具有战略意义](https://news.cctv.com/2025/05/04/ARTIWpLgimMtNevZUHFNnaO9250504.shtml)
+
++ [俄媒：斯洛伐克总理证实，将赴俄出席卫国战争胜利日阅兵式](https://news.cctv.com/2025/05/04/ARTIQasgmbJfeU79c0QBcE5h250504.shtml)
+
++ [“是否担忧经济衰退”？ 特朗普：最终会对一切负责](https://news.cctv.com/2025/05/04/ARTI8levPXv7C9W7ZjsWs8jm250504.shtml)
+
