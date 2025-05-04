@@ -179,3 +179,5 @@
 
 + [原油价格战一触即发？沙特不想再忍，领衔多个产油国加速增产](https://news.cctv.com/2025/05/04/ARTI2vDbvHTikwzDDcxp5QrO250504.shtml)
 
++ [圣彼得堡举办破冰船节](https://photo.cctv.com/2025/05/04/PHOAtg4AfOJwWpCovAObKeLU250504.shtml)
+

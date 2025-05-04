@@ -31,3 +31,9 @@
 
 + [苹果对于电池问题的保障是什么政策有人知道吗](https://www.v2ex.com/t/1129528)
 
++ [情感咨询](https://www.v2ex.com/t/1129575)
+
++ [MacBook Pro 16 寸 M2Max 能不能直推 600 欧高阻抗耳机拜亚动力 DT880](https://www.v2ex.com/t/1129567)
+
++ [EMQX 变脸记：从开源兄弟到商业猛兽？](https://www.v2ex.com/t/1129525)
+
