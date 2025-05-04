@@ -133,3 +133,13 @@
 
 + [Web虚拟卡销售店铺实现方案](https://blog.csdn.net/sixpp/article/details/147657362)
 
++ [TensorFlow深度学习实战——基于循环神经网络的词性标注模型](https://blog.csdn.net/LOVEmy134611/article/details/144361214)
+
++ [Linux《进程概念（下）》](https://blog.csdn.net/2303_81098358/article/details/147620618)
+
++ [小程序与快应用：中国移动互联网的渐进式革命——卓伊凡的技术演进观](https://blog.csdn.net/dujiangdu123/article/details/147688673)
+
++ [企业级分布式 MCP 方案](https://blog.csdn.net/mynameisgt/article/details/147672813)
+
++ [Mybatis中的一级二级缓存扫盲](https://blog.csdn.net/C384136844/article/details/147669131)
+

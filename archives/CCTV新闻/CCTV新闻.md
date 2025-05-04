@@ -169,3 +169,7 @@
 
 + [墨西哥总统：已拒绝特朗普派美军入境打击贩毒的提议](https://news.cctv.com/2025/05/04/ARTIEnOx1tsTCNLjUQQ4314U250504.shtml)
 
++ [金正恩视察重要坦克厂并强调更迭陆军装备](https://military.cctv.com/2025/05/04/ARTIg2ZxVqHx6ExaDKAJjGKv250504.shtml)
+
++ [新加坡国会选举结果揭晓 人民行动党获胜](https://news.cctv.com/2025/05/04/ARTI38zTCbUcIGWo7FOskGO5250504.shtml)
+
