@@ -195,3 +195,7 @@
 
 + [美军入境扫毒？墨西哥总统严词拒绝](https://news.cctv.com/2025/05/04/ARTIqGDGLrfAT8skLZIC7ANt250504.shtml)
 
++ [记者手记丨走访中国首个援外地质公园项目](https://news.cctv.com/2025/05/04/ARTIGxU2qThLcQwYHaqGbA4Q250504.shtml)
+
++ [日本儿童人数连续44年下降](https://news.cctv.com/2025/05/04/ARTIspg8YCCqvSg3E5AydLwu250504.shtml)
+
