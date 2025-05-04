@@ -161,3 +161,11 @@
 
 + [印度德里地区突发暴雨 上百架次航班延误](https://news.cctv.com/2025/05/02/ARTIy8UbfKRqwhT1FyWiMp4V250502.shtml)
 
++ [巴基斯坦宣布禁止与印度的进口贸易](https://news.cctv.com/2025/05/05/ARTIeNUph9bKzb6E0xU7fkzj250505.shtml)
+
++ [美国农业部超1.5万名员工接受特朗普政府自愿离职计划](https://news.cctv.com/2025/05/05/ARTIpps9oT9I2c4kolConBN8250505.shtml)
+
++ [胡塞武装：对以实施空中封锁 仍将继续袭击以机场](https://news.cctv.com/2025/05/05/ARTI8q4SVKd3Rf8NmD3IgigL250505.shtml)
+
++ [以总理称将就机场导弹袭击报复也门胡塞武装和伊朗](https://news.cctv.com/2025/05/05/ARTIqNLv8NTDWuBrX4ytFkDL250505.shtml)
+
