@@ -193,3 +193,5 @@
 
 + [德国多地举行集中营解放80周年纪念活动](https://news.cctv.com/2025/05/04/ARTIQyFXnPZq5KUbuu3N1ptW250504.shtml)
 
++ [美军入境扫毒？墨西哥总统严词拒绝](https://news.cctv.com/2025/05/04/ARTIqGDGLrfAT8skLZIC7ANt250504.shtml)
+

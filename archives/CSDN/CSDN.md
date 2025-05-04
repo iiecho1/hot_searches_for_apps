@@ -193,3 +193,13 @@
 
 + [密码学_加密](https://blog.csdn.net/m0_65655109/article/details/147642505)
 
++ [【Linux系统】探秘内存黑匣子：程序地址空间的底层真相与趣味实践](https://blog.csdn.net/suye050331/article/details/147687873)
+
++ [Linux 下使用tcpdump进行网络分析原](https://blog.csdn.net/liuguizhong/article/details/147671742)
+
++ [[一文解决大模型微调+部署+RAG] LLamaFactory微调模型后使用Ollama + RAGFlow在Windows本地部署](https://blog.csdn.net/joker_sxj/article/details/147677780)
+
++ [在Java项目中实现本地语音识别与热点检测，并集成阿里云智能语音服务](https://blog.csdn.net/weixin_43063493/article/details/147686717)
+
++ [C++八股--5--设计模式--适配器模式，代理模式，观察者模式](https://blog.csdn.net/wjm041006/article/details/147687760)
+
