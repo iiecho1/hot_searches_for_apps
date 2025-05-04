@@ -119,3 +119,5 @@
 
 + [[方法论]软件工程中的设计模式：从理论到实践的深度解析](https://blog.csdn.net/jz_ddk/article/details/147687910)
 
++ [SAM2-Unet](https://blog.csdn.net/qq_52684249/article/details/147586200)
+
