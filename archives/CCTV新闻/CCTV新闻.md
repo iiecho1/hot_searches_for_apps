@@ -173,3 +173,9 @@
 
 + [新加坡国会选举结果揭晓 人民行动党获胜](https://news.cctv.com/2025/05/04/ARTI38zTCbUcIGWo7FOskGO5250504.shtml)
 
++ [星舰基地获批变城镇 面临“双下岗”的马斯克迎来好消息](https://news.cctv.com/2025/05/04/ARTIkISAoFtSVp228XK0GD5I250504.shtml)
+
++ [继加拿大之后，澳选举又出现了“特朗普因素”](https://news.cctv.com/2025/05/04/ARTIseBUnAKsVpKeHRrhzTPp250504.shtml)
+
++ [原油价格战一触即发？沙特不想再忍，领衔多个产油国加速增产](https://news.cctv.com/2025/05/04/ARTI2vDbvHTikwzDDcxp5QrO250504.shtml)
+
