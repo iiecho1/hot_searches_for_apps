@@ -27,3 +27,5 @@
 
 + [求推荐一个 macbook 的便携屏](https://www.v2ex.com/t/1129520)
 
++ [MCP 现在这么火，有朋友日常高频使用 MCP 的吗？](https://www.v2ex.com/t/1129545)
+

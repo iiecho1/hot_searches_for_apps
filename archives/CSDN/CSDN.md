@@ -129,3 +129,7 @@
 
 + [Linux：信号(一)](https://blog.csdn.net/m0_68142120/article/details/147655108)
 
++ [AIGC时代——语义化AI驱动器：提示词的未来图景与技术深潜](https://blog.csdn.net/qq_32682301/article/details/147687218)
+
++ [Web虚拟卡销售店铺实现方案](https://blog.csdn.net/sixpp/article/details/147657362)
+

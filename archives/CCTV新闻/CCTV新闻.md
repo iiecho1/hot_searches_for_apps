@@ -167,3 +167,5 @@
 
 + [人民行动党在新加坡国会选举中获胜](https://news.cctv.com/2025/05/04/ARTIUyTWyZoMsQNNGADU9yOp250504.shtml)
 
++ [墨西哥总统：已拒绝特朗普派美军入境打击贩毒的提议](https://news.cctv.com/2025/05/04/ARTIEnOx1tsTCNLjUQQ4314U250504.shtml)
+
