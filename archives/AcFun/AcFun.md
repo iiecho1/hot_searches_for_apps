@@ -67,3 +67,5 @@
 
 + [[AC娘录播] AC娘微博漫展直播中DAY2！20250504直播录播](https://m.acfun.cn/v/?ac=47222177)
 
++ [【小竹摸鱼】Ditto](https://m.acfun.cn/v/?ac=47221702)
+
