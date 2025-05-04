@@ -189,3 +189,7 @@
 
 + [计算机网络 - stp生成树实验](https://blog.csdn.net/m0_74113296/article/details/147662385)
 
++ [神经网络的基本概念与深度解析——基于生物机制的仿生建模与工程实现](https://blog.csdn.net/lzm12278828/article/details/147688816)
+
++ [密码学_加密](https://blog.csdn.net/m0_65655109/article/details/147642505)
+

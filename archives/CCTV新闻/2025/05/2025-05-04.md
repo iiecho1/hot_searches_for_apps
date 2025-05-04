@@ -191,3 +191,5 @@
 
 + [鲁班工坊助力中柬职教合作，培养技能人才—— “打开通向未来的大门”](https://news.cctv.com/2025/05/04/ARTIyG4QzH45jfLwX1mR727o250504.shtml)
 
++ [德国多地举行集中营解放80周年纪念活动](https://news.cctv.com/2025/05/04/ARTIQyFXnPZq5KUbuu3N1ptW250504.shtml)
+

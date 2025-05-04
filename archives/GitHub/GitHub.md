@@ -37,3 +37,21 @@
 
 + [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot)
 
++ [BasedHardware/omi](https://github.com/BasedHardware/omi)
+
++ [daytonaio/daytona](https://github.com/daytonaio/daytona)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [nodejs/node](https://github.com/nodejs/node)
+
++ [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+
++ [Klipper3d/klipper](https://github.com/Klipper3d/klipper)
+
++ [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+
++ [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+
