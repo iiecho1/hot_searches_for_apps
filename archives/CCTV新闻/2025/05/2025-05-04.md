@@ -181,3 +181,7 @@
 
 + [圣彼得堡举办破冰船节](https://photo.cctv.com/2025/05/04/PHOAtg4AfOJwWpCovAObKeLU250504.shtml)
 
++ [菲律宾首都机场航站楼外发生汽车冲撞事故致2死多伤](https://news.cctv.com/2025/05/04/ARTILcaGUwnCrc6B5yTuV3eB250504.shtml)
+
++ [不要模仿！以身试毒近18载 美国男子血液产生蛇毒抗体](https://news.cctv.com/2025/05/04/ARTIhLuQLtUZHpPYfADcy2xz250504.shtml)
+
