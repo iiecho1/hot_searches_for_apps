@@ -189,3 +189,9 @@
 
 + [中国App掀起使用热潮 “生活新方式”魅力刷新世界消费观念](https://news.cctv.com/2025/05/05/ARTILc2A5xaKrilOlLeADQhI250505.shtml)
 
++ [世界遗产约旦佩特拉古城突发洪水](https://news.cctv.com/2025/05/05/ARTID7P2n17YShvgSG68dWmQ250505.shtml)
+
++ [引领新时代中俄关系坚毅前行（和音）](https://news.cctv.com/2025/05/05/ARTIn4Ejkth3SOmBpXpLkNJF250505.shtml)
+
++ [东盟—中国自贸区合作升级促进互利共赢](https://news.cctv.com/2025/05/05/ARTI7CH5V428wJSbuzVAYyvs250505.shtml)
+
