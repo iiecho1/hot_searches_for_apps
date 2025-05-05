@@ -169,3 +169,13 @@
 
 + [运算放大器的主要技术指标](https://blog.csdn.net/qq_74284733/article/details/147704517)
 
++ [【现代深度学习技术】现代循环神经网络07：序列到序列学习（seq2seq）](https://blog.csdn.net/Morse_Chen/article/details/147709024)
+
++ [Linux：深入理解数据链路层](https://blog.csdn.net/weixin_51142926/article/details/144000377)
+
++ [使用 IDEA + Maven 搭建传统 Spring MVC 项目的详细步骤（非Spring Boot）](https://blog.csdn.net/rulaixiong/article/details/147689179)
+
++ [本地大模型编程实战(32)用websocket显示大模型的流式输出](https://blog.csdn.net/liupras/article/details/147670433)
+
++ [记录图鸟UI Tabbar大赛创作学习过程-scss任意弧度曲线渲染](https://blog.csdn.net/qq_19668193/article/details/147406744)
+
