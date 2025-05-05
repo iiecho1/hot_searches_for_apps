@@ -195,3 +195,7 @@
 
 + [东盟—中国自贸区合作升级促进互利共赢](https://news.cctv.com/2025/05/05/ARTI7CH5V428wJSbuzVAYyvs250505.shtml)
 
++ [美国加州州长称将继续对中国“敞开贸易大门”](https://news.cctv.com/2025/05/05/ARTIAXXPU9jV4W1Bp21qPQaF250505.shtml)
+
++ [罗马尼亚总统选举将进入第二轮投票 两名候选人展开角逐](https://news.cctv.com/2025/05/05/ARTIpBTHE0b5CR5SO3GOx66l250505.shtml)
+
