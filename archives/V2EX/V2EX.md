@@ -35,3 +35,5 @@
 
 + [Switch 2 游戏](https://www.v2ex.com/t/1129671)
 
++ [PDD 上卖的斐讯路由器，是假货吗？](https://www.v2ex.com/t/1129666)
+

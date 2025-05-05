@@ -155,3 +155,17 @@
 
 + [《Vue3学习手记8》](https://blog.csdn.net/2302_77332005/article/details/147692490)
 
++ [防止交叉验证中的数据泄露：提升模型在实际环境中的性能](https://blog.csdn.net/m0_46510245/article/details/147709424)
+
++ [MySQL：联合查询](https://blog.csdn.net/zm3rttqs9f/article/details/147665697)
+
++ [基于Jenkins的DevOps工程实践之Jenkins共享库](https://blog.csdn.net/weixin_50902636/article/details/147685456)
+
++ [Xilinx FPGA | 管脚约束 / 时序约束 / 问题解析](https://blog.csdn.net/u013669912/article/details/147677397)
+
++ [SpringCloud教程 — 无废话从0到1逐步学习](https://blog.csdn.net/2302_79840586/article/details/147704943)
+
++ [OpenHarmony平台驱动开发（二），CLOCK](https://blog.csdn.net/benco1986/article/details/147691862)
+
++ [运算放大器的主要技术指标](https://blog.csdn.net/qq_74284733/article/details/147704517)
+

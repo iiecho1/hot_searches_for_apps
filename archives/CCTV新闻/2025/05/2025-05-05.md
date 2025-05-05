@@ -207,3 +207,7 @@
 
 + [澳总理证实胜选后与特朗普通话 讨论关税等问题](https://news.cctv.com/2025/05/05/ARTI8OnrinAyLqXel4QBh8M2250505.shtml)
 
++ [供电恢复不到一周电缆又被偷走 西班牙多地铁路又停了](https://news.cctv.com/2025/05/05/ARTIhYB0qKFFSDPIhhZ6D9PO250505.shtml)
+
++ [“占领并控制加沙” 以军最新加沙行动计划获批](https://news.cctv.com/2025/05/05/ARTIJP7D3SDDYauIbrrOd9Jz250505.shtml)
+
