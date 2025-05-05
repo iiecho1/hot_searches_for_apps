@@ -177,3 +177,15 @@
 
 + [主要产油国6月再增产 日均41.1万桶稳油市](https://news.cctv.com/2025/05/05/ARTI8tXWyAGoLDEQGYa9DMMb250505.shtml)
 
++ [巴基斯坦禁止转运进口印度原产商品 巴媒：紧张关系升级](https://news.cctv.com/2025/05/05/ARTI0ThxUR2BeOtRRrQsYSxe250505.shtml)
+
++ [多部影视作品原型 美国“恶魔岛”监狱将重新启用](https://news.cctv.com/2025/05/05/ARTIK4bZbMuC7lbJ8eDGmfUC250505.shtml)
+
++ [民调：韩国大选若出现三者对决 李在明支持率位列第一](https://news.cctv.com/2025/05/05/ARTIyPpWyWFL5qcWQQyR9bh6250505.shtml)
+
++ [伊拉克打死2名“伊斯兰国”武装分子](https://news.cctv.com/2025/05/05/ARTI3G3Rd19cgKrpq58d0qI0250505.shtml)
+
++ [特朗普称将对所有在外国制作的电影征收100%关税](https://news.cctv.com/2025/05/05/ARTIPIRQnpwNYABdYJ35UbES250505.shtml)
+
++ [中国App掀起使用热潮 “生活新方式”魅力刷新世界消费观念](https://news.cctv.com/2025/05/05/ARTILc2A5xaKrilOlLeADQhI250505.shtml)
+
