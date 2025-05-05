@@ -161,3 +161,5 @@
 
 + [德国为何将选择党列为极右翼组织？](https://news.cctv.com/2025/05/03/ARTIqr55X1a1KyLh8Wl9w7ns250503.shtml)
 
++ [罗马尼亚总理乔拉库辞职 社会民主党退出执政联盟](https://news.cctv.com/2025/05/06/ARTIWYa5V5CayEV6Y2KTnlwO250506.shtml)
+
