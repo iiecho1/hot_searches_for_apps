@@ -231,3 +231,9 @@
 
 + [加沙卫生部门：过去24小时以军行动造成至少23人死亡](https://news.cctv.com/2025/05/05/ARTIeay745jXO8FwnKL1hEVD250505.shtml)
 
++ [塞尔维亚总统武契奇将于5月7日恢复工作](https://news.cctv.com/2025/05/05/ARTIbuDYrSFYmlkJE2mb0B6i250505.shtml)
+
++ [达成人质交换协议也不会撤离加沙 以财长再发强硬表态](https://news.cctv.com/2025/05/05/ARTI0J9yyxZy861WftsLlpBP250505.shtml)
+
++ [特朗普对电影加关税 新西兰各界担忧政策负面影响](https://news.cctv.com/2025/05/05/ARTIrdjbtFozHy4ky5MuXQC7250505.shtml)
+

@@ -49,3 +49,5 @@
 
 + [有谁体验过 Intel 的 Ultra 系列的大中小核 CPU？ Windows 日常任务的调度怎么样？](https://www.v2ex.com/t/1129729)
 
++ [佬们对于要求去现场的面试如何说？](https://www.v2ex.com/t/1129705)
+
