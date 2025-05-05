@@ -111,3 +111,31 @@
 
 + [[更新完毕]2025东三省B题深圳杯B题数学建模挑战赛数模思路代码文章教学:LED显示屏颜色转换设计与校正](https://blog.csdn.net/xb459149247/article/details/147683960)
 
++ [【Elasticsearch】实现气象数据存储与查询系统](https://blog.csdn.net/lilinhai548/article/details/147676919)
+
++ [【Python】Python好玩的第三方库之二维码生成，操作xlsx文件，以及音频控制器](https://blog.csdn.net/GGBond778/article/details/147720967)
+
++ [【SpringBoot】Spring事务--详解@Transactional：rollbackFor、事务隔离级别（isolation）、事务传播机制（propagation））](https://blog.csdn.net/2302_79527141/article/details/147672205)
+
++ [爬虫准备前工作](https://blog.csdn.net/weixin_64809364/article/details/147685422)
+
++ [SVM实战：从理论到鸢尾花数据集的分类可视化](https://blog.csdn.net/2201_75345884/article/details/147687869)
+
++ [聊聊对Mysql的理解](https://blog.csdn.net/weixin_50055999/article/details/147686993)
+
++ [5分钟上手Coze插件开发，利用阿里云大模型实现精准图图像理解](https://blog.csdn.net/c18213590220/article/details/147723560)
+
++ [【翻译、转载】MCP 核心架构](https://blog.csdn.net/superdont/article/details/147699781)
+
++ [【ICMP协议深度解析】从网络诊断到安全实践](https://blog.csdn.net/qq_56664222/article/details/147687335)
+
++ [FPGA----基于ZYNQ 7020实现EPICS通信系统](https://blog.csdn.net/qq_37912811/article/details/147168980)
+
++ [Compose 中使用 WebView](https://blog.csdn.net/wulong756273/article/details/147722721)
+
++ [JSON Web Token 默认密钥 身份验证安全性分析 dubbo-admin JWT硬编码身份验证绕过](https://blog.csdn.net/shelter1234567/article/details/147702646)
+
++ [数学实验（Matlab语言环境和线性代数实验）](https://blog.csdn.net/chasing_dreamsss/article/details/147670739)
+
++ [Vue中的过滤器知道多少？从是什么、怎么用、应用场景、原理分析、示例解释](https://blog.csdn.net/2202_75695913/article/details/147684353)
+

@@ -67,3 +67,5 @@
 
 + [日常一乐#54（是挺突出的……）](https://m.acfun.cn/v/?ac=47223278)
 
++ [Chocolate Cream](https://m.acfun.cn/v/?ac=47227121)
+
