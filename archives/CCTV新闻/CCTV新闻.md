@@ -225,3 +225,9 @@
 
 + [屈从于美国关税施压将受到更大伤害——访泰国前财长素察·他达探隆威](https://news.cctv.com/2025/05/05/ARTI6lyUWcGgbQH8f9ok7x6v250505.shtml)
 
++ [俄罗斯达吉斯坦共和国首府发生枪击事件 三名警察死亡](https://news.cctv.com/2025/05/05/ARTITR7rlEAcWbvbPYATiTh9250505.shtml)
+
++ [外媒：德国联盟党与社民党正式签署联合执政协议](https://news.cctv.com/2025/05/05/ARTIOazvDhXECoo7qRQSQ5eb250505.shtml)
+
++ [加沙卫生部门：过去24小时以军行动造成至少23人死亡](https://news.cctv.com/2025/05/05/ARTIeay745jXO8FwnKL1hEVD250505.shtml)
+

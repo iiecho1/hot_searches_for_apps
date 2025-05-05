@@ -47,3 +47,5 @@
 
 + [快速心算数数能力，💻来算算你的快速数数能力吧📱](https://www.v2ex.com/t/1129667)
 
++ [有谁体验过 Intel 的 Ultra 系列的大中小核 CPU？ Windows 日常任务的调度怎么样？](https://www.v2ex.com/t/1129729)
+
