@@ -71,8 +71,13 @@ def process_api_data(api_data, base_path):
         for title, href in zip(titles, hrefs):
             print("title",title, "href:",href)
             if title not in existing_content:
-                # 对 href 进行 URL 编码，避免 Markdown 将%20重新渲染为空格。（主要针对微博）
-                encoded_href = quote(href, safe=":/=?&")
+                # 检查 URL 是否已经编码
+                if '%' in href and any(c in href for c in ['%20', '%23', '%3F', '%3D', '%26']):
+                    # URL 已经编码，直接使用
+                    encoded_href = href
+                else:
+                    # URL 未编码，进行编码
+                    encoded_href = quote(href, safe=":/=?&")
                 new_content += f"+ [{title}]({encoded_href})\n\n"
 
         if new_content:
