@@ -139,3 +139,11 @@
 
 + [网络协议：TCP/UDP/KCP 可靠传输全解](https://blog.csdn.net/2301_81287715/article/details/147704352)
 
++ [PandasAI：对话式数据分析新时代](https://blog.csdn.net/u014390502/article/details/147710770)
+
++ [【全队项目】智能学术海报生成系统PosterGenius--图片布局生成模型LayoutPrompt（2）](https://blog.csdn.net/m0_67656158/article/details/147347878)
+
++ [【Linux网络#3】：Socket编程应用层UDP](https://blog.csdn.net/2301_79582015/article/details/147692798)
+
++ [从零认识阿里云OSS：云原生对象存储的核心价值](https://blog.csdn.net/l19889317684/article/details/147676764)
+
