@@ -209,3 +209,15 @@
 
 + [【Linux我做主】进度条小程序深度解析](https://blog.csdn.net/2301_80064645/article/details/147645600)
 
++ [实战设计模式之中介者模式](https://blog.csdn.net/hope_wisdom/article/details/147721584)
+
++ [数字化转型-4A架构之业务架构](https://blog.csdn.net/qq_40821260/article/details/147675104)
+
++ [学习黑客 week1周测 & 复盘](https://blog.csdn.net/qq_41179365/article/details/147701686)
+
++ [马尔科夫随机过程](https://blog.csdn.net/2201_75538301/article/details/147684020)
+
++ [学习spring boot-拦截器Interceptor，过滤器Filter](https://blog.csdn.net/m0_74124657/article/details/147701836)
+
++ [Maven框架详解：构建与依赖管理的利器](https://blog.csdn.net/lyx20020823/article/details/147700025)
+

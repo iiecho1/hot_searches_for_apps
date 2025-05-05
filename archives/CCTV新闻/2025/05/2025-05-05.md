@@ -237,3 +237,7 @@
 
 + [特朗普对电影加关税 新西兰各界担忧政策负面影响](https://news.cctv.com/2025/05/05/ARTIrdjbtFozHy4ky5MuXQC7250505.shtml)
 
++ [是自保还是自残？八个恶果透视美国征收100%电影关税](https://news.cctv.com/2025/05/05/ARTIa3oZqdbIQMdzxyGxXbkx250505.shtml)
+
++ [乌美矿产协议签署后 新任美驻乌外交官抵乌履职](https://news.cctv.com/2025/05/05/ARTI8cybQYw0nP7uVgUklkF3250505.shtml)
+
