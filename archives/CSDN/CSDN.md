@@ -189,3 +189,19 @@
 
 + [前端八股CSS篇上](https://blog.csdn.net/loverdany/article/details/147704504)
 
++ [【Elasticsearch】实现气象数据存储与查询系统](https://blog.csdn.net/lilinhai548/article/details/147676919)
+
++ [【AI大模型】SpringBoot整合Spring AI 核心组件使用详解](https://blog.csdn.net/zhangcongyi420/article/details/146722481)
+
++ [MySQL 分库分表](https://blog.csdn.net/2302_77871725/article/details/147685034)
+
++ [SpringMVC详解](https://blog.csdn.net/fanTuanye/article/details/147704877)
+
++ [【LLM】deepseek R1之GRPO训练笔记（持续更新）](https://blog.csdn.net/qq_35812205/article/details/146297669)
+
++ [ARM Linux 设备树](https://blog.csdn.net/weixin_39541632/article/details/147701942)
+
++ [[特殊字符]Spring Boot 后台使用 EasyExcel 实现数据报表导出（含模板、样式、美化）](https://blog.csdn.net/m0_73612839/article/details/147699210)
+
++ [深入探索 AAC 编码原理与 ADTS 格式：音频世界的智慧结晶](https://blog.csdn.net/2301_76564925/article/details/147684506)
+

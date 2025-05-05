@@ -215,3 +215,13 @@
 
 + [与印度关系紧张之际 巴基斯坦再次试射一地对地导弹](https://news.cctv.com/2025/05/05/ARTIVC5vpX6EUsqI7Lzeoe5X250505.shtml)
 
++ [巴基斯坦决定正式向安理会通报南亚局势](https://news.cctv.com/2025/05/05/ARTI6NmHYYu1KK874PGQnBFL250505.shtml)
+
++ [时政Vlog丨祖孙三代齐唱《喀秋莎》 街头偶遇让中俄友谊具象化](https://news.cctv.com/2025/05/05/ARTIriN95K7hJPFupTehapbz250505.shtml)
+
++ [超1.5万名以军人员签署公开信 呼吁结束加沙冲突](https://news.cctv.com/2025/05/05/ARTI62QjneRxQGnL7SRMxtCB250505.shtml)
+
++ [免签政策持续优化 中国游释放更大吸引力](https://news.cctv.com/2025/05/05/ARTIhB6cRW5WQUUsJvGs3HQA250505.shtml)
+
++ [屈从于美国关税施压将受到更大伤害——访泰国前财长素察·他达探隆威](https://news.cctv.com/2025/05/05/ARTI6lyUWcGgbQH8f9ok7x6v250505.shtml)
+
