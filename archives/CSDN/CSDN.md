@@ -101,3 +101,13 @@
 
 + [【LLM】deepseek R1之GRPO训练笔记（持续更新）](https://blog.csdn.net/qq_35812205/article/details/146297669)
 
++ [ARM Linux 设备树](https://blog.csdn.net/weixin_39541632/article/details/147701942)
+
++ [深入探索 AAC 编码原理与 ADTS 格式：音频世界的智慧结晶](https://blog.csdn.net/2301_76564925/article/details/147684506)
+
++ [小程序与快应用：中国移动互联网的渐进式革命——卓伊凡的技术演进观](https://blog.csdn.net/dujiangdu123/article/details/147688673)
+
++ [Maven框架详解：构建与依赖管理的利器](https://blog.csdn.net/lyx20020823/article/details/147700025)
+
++ [[更新完毕]2025东三省B题深圳杯B题数学建模挑战赛数模思路代码文章教学:LED显示屏颜色转换设计与校正](https://blog.csdn.net/xb459149247/article/details/147683960)
+
