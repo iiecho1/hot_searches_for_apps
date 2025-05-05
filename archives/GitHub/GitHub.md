@@ -31,3 +31,25 @@
 
 + [juanfont/headscale](https://github.com/juanfont/headscale)
 
++ [koreader/koreader](https://github.com/koreader/koreader)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)
+
++ [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+
++ [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+
++ [commaai/openpilot](https://github.com/commaai/openpilot)
+
++ [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot)
+
++ [home-assistant/core](https://github.com/home-assistant/core)
+
