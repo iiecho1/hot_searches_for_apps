@@ -201,3 +201,9 @@
 
 + [英国警方说在反恐行动中逮捕7名伊朗公民](https://news.cctv.com/2025/05/05/ARTIrLxV8Q28x7guTpJbQptA250505.shtml)
 
++ [燃料储备最多维持三天 加沙医院面临全面停运威胁](https://news.cctv.com/2025/05/05/ARTIOytGb7vVbo7Sml7ZGogr250505.shtml)
+
++ [连续9周封锁加沙 联合国谴责以色列将人道主义救援军事化](https://news.cctv.com/2025/05/05/ARTIkB4COLSUBWbSksfhowU0250505.shtml)
+
++ [澳总理证实胜选后与特朗普通话 讨论关税等问题](https://news.cctv.com/2025/05/05/ARTI8OnrinAyLqXel4QBh8M2250505.shtml)
+

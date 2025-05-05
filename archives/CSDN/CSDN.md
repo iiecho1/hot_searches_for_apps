@@ -147,3 +147,11 @@
 
 + [从零认识阿里云OSS：云原生对象存储的核心价值](https://blog.csdn.net/l19889317684/article/details/147676764)
 
++ [【现代深度学习技术】现代循环神经网络06：编码器-解码器架构](https://blog.csdn.net/Morse_Chen/article/details/147693424)
+
++ [Elasticsearch：RAG 和 grounding 的价值](https://blog.csdn.net/UbuntuTouch/article/details/147678231)
+
++ [FPGA----基于ZYNQ 7020实现EPICS通信系统](https://blog.csdn.net/qq_37912811/article/details/147168980)
+
++ [《Vue3学习手记8》](https://blog.csdn.net/2302_77332005/article/details/147692490)
+
