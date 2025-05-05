@@ -173,3 +173,5 @@
 
 + [加拿大总理访美前夕 特朗普称将永远谈论“第51个州”](https://news.cctv.com/2025/05/05/ARTIGuoTXt1UOwTMmcsKCVLr250505.shtml)
 
++ [莫斯科一住宅楼发生爆炸引发火灾致2死6伤](https://news.cctv.com/2025/05/05/ARTI7cuAo2U1GmahTmfLCgYE250505.shtml)
+
