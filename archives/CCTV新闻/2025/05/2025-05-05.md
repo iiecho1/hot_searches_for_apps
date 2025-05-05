@@ -175,3 +175,5 @@
 
 + [莫斯科一住宅楼发生爆炸引发火灾致2死6伤](https://news.cctv.com/2025/05/05/ARTI7cuAo2U1GmahTmfLCgYE250505.shtml)
 
++ [主要产油国6月再增产 日均41.1万桶稳油市](https://news.cctv.com/2025/05/05/ARTI8tXWyAGoLDEQGYa9DMMb250505.shtml)
+

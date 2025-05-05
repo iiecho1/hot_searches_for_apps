@@ -23,3 +23,7 @@
 
 + [NAS 绿联和极空间二选一](https://www.v2ex.com/t/1129646)
 
++ [Apple Pay 卡包有什么好看的且获取成本较低的卡面吗](https://www.v2ex.com/t/1129601)
+
++ [你们都用什么 APP 听播客？](https://www.v2ex.com/t/1129635)
+
