@@ -211,3 +211,7 @@
 
 + [“占领并控制加沙” 以军最新加沙行动计划获批](https://news.cctv.com/2025/05/05/ARTIJP7D3SDDYauIbrrOd9Jz250505.shtml)
 
++ [大停电前 西班牙电力系统发生三起断电事故](https://news.cctv.com/2025/05/05/ARTINMOjPWpUUeYqEHZTxHQh250505.shtml)
+
++ [与印度关系紧张之际 巴基斯坦再次试射一地对地导弹](https://news.cctv.com/2025/05/05/ARTIVC5vpX6EUsqI7Lzeoe5X250505.shtml)
+

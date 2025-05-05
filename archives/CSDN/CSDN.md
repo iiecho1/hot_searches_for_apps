@@ -179,3 +179,7 @@
 
 + [记录图鸟UI Tabbar大赛创作学习过程-scss任意弧度曲线渲染](https://blog.csdn.net/qq_19668193/article/details/147406744)
 
++ [基于 Dify + vLLM插件 + Qwen3 构建问答机器人Docker版](https://blog.csdn.net/qq_60245590/article/details/147669004)
+
++ [GStreamer开发笔记（三）：测试gstreamer/v4l2+sdl2/v4l2+QtOpengl打摄像头延迟和内存](https://blog.csdn.net/qq21497936/article/details/147714800)
+
