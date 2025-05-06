@@ -217,3 +217,11 @@
 
 + [默茨首轮投票未能当选德国总理 欧洲股市普跌](https://news.cctv.com/2025/05/06/ARTIRy4BQWbzDrsTbmOStnqe250506.shtml)
 
++ [俄乌交换205名被俘人员 俄方人员已抵达白俄罗斯](https://news.cctv.com/2025/05/06/ARTIvsU0Ds6CyGL0h0Y8lq1H250506.shtml)
+
++ [巴基斯坦政府领导层称将进一步加强战备抵御一切威胁](https://news.cctv.com/2025/05/06/ARTIWBtRvUVbOm6JHMCyLHzO250506.shtml)
+
++ [德国联邦议院6日下午将进行总理选举第二轮投票](https://news.cctv.com/2025/05/06/ARTIck8oaCynxQ5JMtP7zjP1250506.shtml)
+
++ [大规模空袭也门一日后 以军又对也门萨那机场发出撤离警告](https://news.cctv.com/2025/05/06/ARTIEDGwd6TqZ9GWVmz2SPcB250506.shtml)
+
