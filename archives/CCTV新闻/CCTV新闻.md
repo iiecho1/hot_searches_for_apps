@@ -177,3 +177,5 @@
 
 + [印度比哈尔邦两车相撞 致8人死亡](https://news.cctv.com/2025/05/06/ARTIFgUtRZ4ET6CTG2o6bvwT250506.shtml)
 
++ [缅甸国防军继续延长临时停火期限](https://news.cctv.com/2025/05/06/ARTIfoKvB6KciICCh8Pc4MN3250506.shtml)
+

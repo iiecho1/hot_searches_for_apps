@@ -183,3 +183,5 @@
 
 + [网络原理 TCP/IP](https://blog.csdn.net/2402_88670936/article/details/147685335)
 
++ [【计算机网络-应用层】解析HTTP会话保持：Cookie与Session的原理与实践](https://blog.csdn.net/2303_77756141/article/details/147668864)
+
