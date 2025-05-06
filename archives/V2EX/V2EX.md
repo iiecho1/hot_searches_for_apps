@@ -37,3 +37,5 @@
 
 + [你们是如何保持白天上班，晚上带娃，然后还精神抖擞的](https://www.v2ex.com/t/1129865)
 
++ [Google 出 BUG 了，免费领取 Google One 会员到 2026 年底](https://www.v2ex.com/t/1129845)
+

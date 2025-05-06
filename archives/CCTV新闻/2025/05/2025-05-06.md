@@ -195,3 +195,5 @@
 
 + [美政府称不再对哈佛大学提供联邦资助](https://news.cctv.com/2025/05/06/ARTIUKDE5TN808wAKFVFUhFt250506.shtml)
 
++ [默茨在德国联邦议院第一轮投票中未能当选总理](https://news.cctv.com/2025/05/06/ARTIOmbNSyeJIwm98eU1mYju250506.shtml)
+
