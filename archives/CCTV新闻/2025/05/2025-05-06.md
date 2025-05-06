@@ -207,3 +207,5 @@
 
 + [现金补贴+报销路费 美为驱逐移民出新招](https://news.cctv.com/2025/05/06/ARTISLWO1A47gI66qdrhWCEi250506.shtml)
 
++ [近东救济工程处：加沙超6.6万名儿童严重营养不良](https://news.cctv.com/2025/05/06/ARTIud1RgXJMkIWF5ULMkz5z250506.shtml)
+

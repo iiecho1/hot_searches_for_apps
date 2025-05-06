@@ -215,3 +215,5 @@
 
 + [全面解析 Model Context Protocol（MCP）及其在 LangChain 中的实践：打造真正可用的本地AI助手](https://blog.csdn.net/2301_76341691/article/details/147653780)
 
++ [Docker 使用与部署（超详细）](https://blog.csdn.net/2301_80160897/article/details/147671309)
+

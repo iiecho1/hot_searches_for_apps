@@ -37,3 +37,21 @@
 
 + [home-assistant/core](https://github.com/home-assistant/core)
 
++ [awslabs/agent-squad](https://github.com/awslabs/agent-squad)
+
++ [glanceapp/glance](https://github.com/glanceapp/glance)
+
++ [containerd/containerd](https://github.com/containerd/containerd)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [huggingface/agents-course](https://github.com/huggingface/agents-course)
+
++ [jj-vcs/jj](https://github.com/jj-vcs/jj)
+
++ [expo/expo](https://github.com/expo/expo)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [ruanyf/weekly](https://github.com/ruanyf/weekly)
+
