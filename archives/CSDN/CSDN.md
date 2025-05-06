@@ -229,3 +229,17 @@
 
 + [基于MATLAB的图像色彩识别项目，彩色图像矩阵识别](https://blog.csdn.net/qq_63860529/article/details/147722350)
 
++ [深入理解 Redis 的主从、哨兵与集群架构](https://blog.csdn.net/cooldream2009/article/details/147708639)
+
++ [物联网之对接MQTT最佳实践](https://blog.csdn.net/qq_39893313/article/details/147717971)
+
++ [SpringBoot后端实现小程序微信登录](https://blog.csdn.net/equila/article/details/147694434)
+
++ [如何查看电脑IP地址和归属地：全面指南](https://blog.csdn.net/hgdlip/article/details/147691553)
+
++ [Vue 路由(Vue Router)详解：轻松实现单页应用导航](https://blog.csdn.net/2501_91537388/article/details/147644449)
+
++ [IP 协议](https://blog.csdn.net/Excuse_lighttime/article/details/147693731)
+
++ [n8n 中文系列教程_18. n8n连接企业微信/个人微信全攻略（附避坑指南）](https://blog.csdn.net/Lilith_0828/article/details/147708623)
+
