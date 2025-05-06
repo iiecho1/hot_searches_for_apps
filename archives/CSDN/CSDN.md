@@ -109,3 +109,27 @@
 
 + [【Linux网络】应用层协议HTTP](https://blog.csdn.net/qinjh_/article/details/146641339)
 
++ [【小程序】微信小程序备案失败，有请DeepSeek闪亮出场，看TA如何快速给出解决方案](https://blog.csdn.net/lmy_520/article/details/147747392)
+
++ [RAG_Techniques：探索GitHub热门RAG技术开源项目](https://blog.csdn.net/u014390502/article/details/147732425)
+
++ [玩转天地图爱好地理分析的可以看看](https://blog.csdn.net/yelangkingwuzuhu/article/details/147691497)
+
++ [基于开源链动2+1模式AI智能名片S2B2C商城小程序的爆品力构建研究](https://blog.csdn.net/weixin_70596807/article/details/147690986)
+
++ [JVM内存模型深度解剖：分代策略、元空间与GC调优实战](https://blog.csdn.net/tulingtuling/article/details/147596260)
+
++ [【JVM】从零开始深度解析JVM](https://blog.csdn.net/2302_81886858/article/details/147719373)
+
++ [学习spring boot-拦截器Interceptor，过滤器Filter](https://blog.csdn.net/m0_74124657/article/details/147701836)
+
++ [Electron 架构详解：主进程与渲染进程的协作机制](https://blog.csdn.net/2501_91537388/article/details/147691153)
+
++ [【KWDB 创作者计划】KWDB 2.2.0多模融合架构与分布式时序引擎](https://blog.csdn.net/weixin_62782025/article/details/147712171)
+
++ [从0开始学习大模型--Day01--大模型是什么](https://blog.csdn.net/Chef_Chen/article/details/147724485)
+
++ [网络安全自动化：精准把握自动化边界，筑牢企业安全防](https://blog.csdn.net/weixin_43172311/article/details/147721793)
+
++ [ARM Linux 设备树](https://blog.csdn.net/weixin_39541632/article/details/147701942)
+
