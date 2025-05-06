@@ -217,3 +217,7 @@
 
 + [Docker 使用与部署（超详细）](https://blog.csdn.net/2301_80160897/article/details/147671309)
 
++ [【计算机视觉】3d人体重建：PIFu/PIFuHD：高精度三维人体数字化技术指南](https://blog.csdn.net/weixin_43988131/article/details/147721141)
+
++ [学习方法讨论——正论科举精神的内核](https://blog.csdn.net/eloudy/article/details/147689548)
+

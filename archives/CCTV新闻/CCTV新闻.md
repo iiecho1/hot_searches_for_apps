@@ -209,3 +209,9 @@
 
 + [近东救济工程处：加沙超6.6万名儿童严重营养不良](https://news.cctv.com/2025/05/06/ARTIud1RgXJMkIWF5ULMkz5z250506.shtml)
 
++ [关税“筑墙”挡不住合作步伐——访德国巴伐利亚州副州长艾旺格](https://news.cctv.com/2025/05/06/ARTIy6TO9bMweYXmpITLFZVd250506.shtml)
+
++ [记者手记丨加征关税能重振美国制造业？美民众：时光无法倒流](https://news.cctv.com/2025/05/06/ARTIDyNqi6xfXalEbZpvNXkf250506.shtml)
+
++ [第四轮伊美核问题谈判预计5月11日举行](https://news.cctv.com/2025/05/06/ARTIuV3ktzJe9hV59uVsFgxW250506.shtml)
+
