@@ -163,3 +163,9 @@
 
 + [SpringBoot集成CXF框架，实现WebService](https://blog.csdn.net/qq_54655539/article/details/147720170)
 
++ [Vuex使用指南：状态管理](https://blog.csdn.net/jingling555/article/details/147722241)
+
++ [【瞎折腾/mi50 32G/ubuntu】mi50显卡ubuntu运行大模型开坑(二)使用llama.cpp部署Qwen3系列](https://blog.csdn.net/qq_33446100/article/details/147718657)
+
++ [【数据可视化-47】自动售货机咖啡销售数据可视化分析](https://blog.csdn.net/qq_38614074/article/details/147702207)
+

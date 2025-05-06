@@ -165,3 +165,7 @@
 
 + [紧张局势下，巴基斯坦再射导弹](https://news.cctv.com/2025/05/06/ARTIa4HLPB1mzJviJERugFo0250506.shtml)
 
++ [特朗普拟对进口电影征100%关税 好莱坞或临“灾难性”冲击](https://news.cctv.com/2025/05/06/ARTInMIEO9i4qguErRcxFDzQ250506.shtml)
+
++ [特朗普与马斯克“P图”互动，但被网民嘲笑了](https://news.cctv.com/2025/05/06/ARTIvEtzBquUh6IVldZhR9xz250506.shtml)
+
