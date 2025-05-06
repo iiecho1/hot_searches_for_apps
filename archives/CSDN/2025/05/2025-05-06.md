@@ -221,3 +221,11 @@
 
 + [学习方法讨论——正论科举精神的内核](https://blog.csdn.net/eloudy/article/details/147689548)
 
++ [【开源深度解析】从零打造AI暗棋对战系统：Python实现中国象棋暗棋全攻略](https://blog.csdn.net/Clay_K/article/details/147636734)
+
++ [【Part 2安卓原生360°VR播放器开发实战】第三节｜实现VR视频播放与时间轴同步控制](https://blog.csdn.net/qq_41140324/article/details/147744287)
+
++ [【Linux笔记】时间同步服务（timedatectl、chronyd.service、chrony.conf等）](https://blog.csdn.net/2301_79850619/article/details/147706190)
+
++ [基于MATLAB的图像色彩识别项目，彩色图像矩阵识别](https://blog.csdn.net/qq_63860529/article/details/147722350)
+
