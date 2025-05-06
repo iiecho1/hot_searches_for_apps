@@ -179,3 +179,13 @@
 
 + [缅甸国防军继续延长临时停火期限](https://news.cctv.com/2025/05/06/ARTIfoKvB6KciICCh8Pc4MN3250506.shtml)
 
++ [德国不邀请俄代表出席二战纪念活动 俄大使：非常不友好](https://news.cctv.com/2025/05/06/ARTIbl48sW6Wxk2J2o6nnvda250506.shtml)
+
++ [美国股市、汇市及国际油价5日均下跌](https://news.cctv.com/2025/05/06/ARTIavEhgf7ReQxSNPsYc1ST250506.shtml)
+
++ [为什么贸易战没有出路](https://news.cctv.com/2025/05/06/ARTIBqa2BAQcn38a81aFG14K250506.shtml)
+
++ [“推动双边关系不断取得更大发展”](https://news.cctv.com/2025/05/06/ARTIZPqQ1WTbgqEAn6vTu0Mj250506.shtml)
+
++ [深化人文交流，传承中俄世代友好](https://news.cctv.com/2025/05/06/ARTIewRwxaEl2bW4PjX9cp61250506.shtml)
+

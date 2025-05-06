@@ -185,3 +185,9 @@
 
 + [【计算机网络-应用层】解析HTTP会话保持：Cookie与Session的原理与实践](https://blog.csdn.net/2303_77756141/article/details/147668864)
 
++ [基于Piecewise Jerk Speed Optimizer的速度规划算法(附ROS C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/147723091)
+
++ [【优选算法 | 模拟】探索模拟算法: 编程与问题分析的双重 考验](https://blog.csdn.net/2302_79177254/article/details/147465614)
+
++ [深入理解面向对象编程：从概念到实践](https://blog.csdn.net/2401_88174794/article/details/147685418)
+
