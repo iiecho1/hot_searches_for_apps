@@ -149,3 +149,17 @@
 
 + [【文献阅读2】Game of Drones: 基于深度强化学习的多无人机追逃博弈在线运动规划](https://blog.csdn.net/qq_44991381/article/details/147489751)
 
++ [学习黑客Linux 命令](https://blog.csdn.net/qq_41179365/article/details/147704313)
+
++ [Spring AI聊天模型API：轻松构建智能聊天交互](https://blog.csdn.net/m0_73610345/article/details/147693157)
+
++ [Spring 容器相关的核心注解​](https://blog.csdn.net/2303_80933038/article/details/147688234)
+
++ [一、Hadoop历史发展与优劣势](https://blog.csdn.net/2401_83830408/article/details/147689050)
+
++ [记录图鸟UI Tabbar大赛创作学习过程-scss任意弧度曲线渲染](https://blog.csdn.net/qq_19668193/article/details/147406744)
+
++ [[人机交互]理解与概念化交互](https://blog.csdn.net/qq_74776071/article/details/147721817)
+
++ [SpringBoot集成CXF框架，实现WebService](https://blog.csdn.net/qq_54655539/article/details/147720170)
+

@@ -19,3 +19,7 @@
 
 + [Switch 2 游戏](https://www.v2ex.com/t/1129671)
 
++ [请问如何自己从 vscode 手搓 cursor（付费招人）](https://www.v2ex.com/t/1129716)
+
++ [到我问了，要不要卖房？](https://www.v2ex.com/t/1129733)
+
