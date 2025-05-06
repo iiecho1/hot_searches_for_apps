@@ -161,3 +161,7 @@
 
 + [美军入境扫毒？墨西哥总统严词拒绝](https://news.cctv.com/2025/05/04/ARTIqGDGLrfAT8skLZIC7ANt250504.shtml)
 
++ [巴基斯坦军方称击落两架印度空军战机](https://news.cctv.com/2025/05/07/ARTIbew8LSl2wlt4p1Ga7O9a250507.shtml)
+
++ [巴基斯坦军方：印度导弹袭击已造成至少3死14伤](https://news.cctv.com/2025/05/07/ARTIcypbptsg9IXrxd9xQkgW250507.shtml)
+

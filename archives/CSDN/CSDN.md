@@ -149,3 +149,5 @@
 
 + [Linux的时间同步服务器（附加详细实验案例）](https://blog.csdn.net/Lxt0369/article/details/147712460)
 
++ [【LLM】deepseek R1之GRPO训练笔记（持续更新）](https://blog.csdn.net/qq_35812205/article/details/146297669)
+
