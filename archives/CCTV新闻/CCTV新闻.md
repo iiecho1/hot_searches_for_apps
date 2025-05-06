@@ -169,3 +169,5 @@
 
 + [特朗普与马斯克“P图”互动，但被网民嘲笑了](https://news.cctv.com/2025/05/06/ARTIvEtzBquUh6IVldZhR9xz250506.shtml)
 
++ [解放军仪仗队高频参加多国阅兵 “中国排面”亮相海外受到热烈欢迎](https://news.cctv.com/2025/05/06/ARTIo1pHkPV3X1Ux8OZiqKVC250506.shtml)
+

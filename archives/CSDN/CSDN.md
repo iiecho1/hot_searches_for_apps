@@ -169,3 +169,17 @@
 
 + [【数据可视化-47】自动售货机咖啡销售数据可视化分析](https://blog.csdn.net/qq_38614074/article/details/147702207)
 
++ [【AI大模型前沿】Fin-R1：上海财经大学联合财跃星辰推出的金融推理大模型，凭7B参数拿下评测第二，离行业第一仅差3分](https://blog.csdn.net/xiaobing259/article/details/147708570)
+
++ [智能推理DeepSeek-R1+Word深度整合业级智能办公构建](https://blog.csdn.net/Dovis5884/article/details/147704783)
+
++ [LabVIEW燃气轮机测控系统](https://blog.csdn.net/bjcyck/article/details/147726676)
+
++ [【Redis】Java操作Redis之SpringDataRedis](https://blog.csdn.net/qq_63320529/article/details/147694252)
+
++ [基于yolov11的灭火器检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/147709971)
+
++ [笔记本电脑升级计划（2017———2025）](https://blog.csdn.net/kouweizhu/article/details/147720957)
+
++ [网络原理 TCP/IP](https://blog.csdn.net/2402_88670936/article/details/147685335)
+
