@@ -193,3 +193,5 @@
 
 + [印尼西苏门答腊省一巴士侧翻 致12人死亡](https://news.cctv.com/2025/05/06/ARTIctbnyq8v5DzzizsFsr9J250506.shtml)
 
++ [美政府称不再对哈佛大学提供联邦资助](https://news.cctv.com/2025/05/06/ARTIUKDE5TN808wAKFVFUhFt250506.shtml)
+
