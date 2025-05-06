@@ -171,3 +171,9 @@
 
 + [解放军仪仗队高频参加多国阅兵 “中国排面”亮相海外受到热烈欢迎](https://news.cctv.com/2025/05/06/ARTIo1pHkPV3X1Ux8OZiqKVC250506.shtml)
 
++ [欧盟砸5亿欧元“抢人” 马克龙：欧洲要做科学家的避风港](https://news.cctv.com/2025/05/06/ARTIVecqNx4jp8RWNw55Rv8G250506.shtml)
+
++ [撇开白宫单干 美多州同加拿大“私聊”关税](https://news.cctv.com/2025/05/06/ARTIXBun1EkOqbyd4uQL0zc1250506.shtml)
+
++ [印度比哈尔邦两车相撞 致8人死亡](https://news.cctv.com/2025/05/06/ARTIFgUtRZ4ET6CTG2o6bvwT250506.shtml)
+
