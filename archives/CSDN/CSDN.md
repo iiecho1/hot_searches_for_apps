@@ -209,3 +209,9 @@
 
 + [全球化电商平台AWS云架构设计](https://blog.csdn.net/weixin_30777913/article/details/147723745)
 
++ [TensorFlow深度学习实战——基于循环神经网络的词性标注模型](https://blog.csdn.net/LOVEmy134611/article/details/144361214)
+
++ [2025三掌柜赠书活动第十六期 网络安全：守护安全防线，铸就高薪荣光](https://blog.csdn.net/CC1991_/article/details/147736474)
+
++ [全面解析 Model Context Protocol（MCP）及其在 LangChain 中的实践：打造真正可用的本地AI助手](https://blog.csdn.net/2301_76341691/article/details/147653780)
+

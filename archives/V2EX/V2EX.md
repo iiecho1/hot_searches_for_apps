@@ -39,3 +39,7 @@
 
 + [Google 出 BUG 了，免费领取 Google One 会员到 2026 年底](https://www.v2ex.com/t/1129845)
 
++ [观拍婚纱照有感，想入个相机，兄弟们推荐下](https://www.v2ex.com/t/1129800)
+
++ [问一下，你们的 NAS 里 DOCKER 都装了啥服务](https://www.v2ex.com/t/1129740)
+

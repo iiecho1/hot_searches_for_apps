@@ -197,3 +197,13 @@
 
 + [默茨在德国联邦议院第一轮投票中未能当选总理](https://news.cctv.com/2025/05/06/ARTIOmbNSyeJIwm98eU1mYju250506.shtml)
 
++ [视频丨苏丹港连续第三天遭空袭 机场、市区未能幸免](https://news.cctv.com/2025/05/06/ARTI6U4F1VXa9UYn19cxK9Wk250506.shtml)
+
++ [特朗普：不要花钱查了，我知道谁炸了“北溪”](https://news.cctv.com/2025/05/06/ARTINgvVmjF0vyg8agmtxWrQ250506.shtml)
+
++ [五角大楼要裁一批四星上将](https://military.cctv.com/2025/05/06/ARTImZ9WJaBSEN7Mz1MCrt35250506.shtml)
+
++ [视频曝光 巴基斯坦海军追踪印度海军反潜巡逻机](https://news.cctv.com/2025/05/06/ARTInhKuEtE76rK1Ejj9DPpV250506.shtml)
+
++ [现金补贴+报销路费 美为驱逐移民出新招](https://news.cctv.com/2025/05/06/ARTISLWO1A47gI66qdrhWCEi250506.shtml)
+
