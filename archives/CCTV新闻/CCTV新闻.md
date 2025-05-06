@@ -189,3 +189,7 @@
 
 + [深化人文交流，传承中俄世代友好](https://news.cctv.com/2025/05/06/ARTIewRwxaEl2bW4PjX9cp61250506.shtml)
 
++ [斯里兰卡举行全国地方选举](https://news.cctv.com/2025/05/06/ARTIfLGPFYGWSi9IUFkaIAtn250506.shtml)
+
++ [印尼西苏门答腊省一巴士侧翻 致12人死亡](https://news.cctv.com/2025/05/06/ARTIctbnyq8v5DzzizsFsr9J250506.shtml)
+
