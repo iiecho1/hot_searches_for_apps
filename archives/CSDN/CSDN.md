@@ -101,3 +101,11 @@
 
 + [【Linux笔记】时间同步服务（timedatectl、chronyd.service、chrony.conf等）](https://blog.csdn.net/2301_79850619/article/details/147706190)
 
++ [双系统电脑中如何把ubuntu装进外接移动固态硬盘](https://blog.csdn.net/LSG_Down/article/details/141575665)
+
++ [GaussDB数据库事务管理：高可靠与高性能的实践之道](https://blog.csdn.net/GaussDB/article/details/147310187)
+
++ [聊聊对Mysql的理解](https://blog.csdn.net/weixin_50055999/article/details/147686993)
+
++ [【Linux网络】应用层协议HTTP](https://blog.csdn.net/qinjh_/article/details/146641339)
+
