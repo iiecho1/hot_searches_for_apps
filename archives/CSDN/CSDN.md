@@ -141,3 +141,9 @@
 
 + [网络协议：TCP/UDP/KCP 可靠传输全解](https://blog.csdn.net/2301_81287715/article/details/147704352)
 
++ [Scrapy爬虫实战：如何用Rules实现高效数据采集](https://blog.csdn.net/neweastsun/article/details/147717844)
+
++ [使用 IDEA + Maven 搭建传统 Spring MVC + Thymeleaf 项目的详细步骤](https://blog.csdn.net/rulaixiong/article/details/147709525)
+
++ [一文读懂GPT-4与GPT-3.5的核心差异：技术突破与行业影响](https://blog.csdn.net/qq_16242613/article/details/147640648)
+
