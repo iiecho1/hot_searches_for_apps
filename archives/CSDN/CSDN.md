@@ -237,3 +237,11 @@
 
 + [学习Python网络爬虫的实例](https://blog.csdn.net/MatheoGao/article/details/147749334)
 
++ [【Linux我做主】深入探讨从冯诺依曼体系到进程](https://blog.csdn.net/2301_80064645/article/details/147552175)
+
++ [python + whisper 读取蓝牙耳机， 转为文字](https://blog.csdn.net/waterHBO/article/details/147749574)
+
++ [一周学会Pandas2 Python数据处理与分析-Pandas2数据类型转换操作](https://blog.csdn.net/caoli201314/article/details/147748711)
+
++ [基于GA遗传优化的不同规模城市TSP问题求解算法matlab仿真](https://blog.csdn.net/soft_algorithm/article/details/147747548)
+

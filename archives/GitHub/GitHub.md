@@ -31,3 +31,23 @@
 
 + [ruanyf/weekly](https://github.com/ruanyf/weekly)
 
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+
++ [evroon/bracket](https://github.com/evroon/bracket)
+
++ [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+
++ [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+
++ [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+
++ [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
+
++ [cline/cline](https://github.com/cline/cline)
+
++ [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+
