@@ -25,3 +25,27 @@
 
 + [星纪魅族 22 系列手机特性公布：全新形态、预装 Flyme 12，号称“影像大提升”](https://m.ithome.com/html/850857.htm)
 
++ [长城汽车魏建军谈“隐藏式门把手”设计：重量大密封性差、唯一作用就是减少风阻](https://m.ithome.com/html/851011.htm)
+
++ [蔚来乐道员工炫耀“卖爆了”被沈斐批评：我们还在复读，别人已经本硕博了](https://m.ithome.com/html/851063.htm)
+
++ [R 星发布《GTA 6》第二支预告，游戏登陆 PS5 和 Xbox Series X｜S 平台](https://m.ithome.com/html/851073.htm)
+
++ [苹果 iPhone 17 摄像头设计撞脸 Pixel？谷歌发短片进行调侃](https://m.ithome.com/html/851018.htm)
+
++ [“京东饭卡”官方储值账户服务上线：用于“秒送”服务、限时“充 100 元赠 20 元外卖券”](https://m.ithome.com/html/850990.htm)
+
++ [阿维塔：特斯拉创始人马斯克转发了“阿维塔 12 风阻系数”不实信息，近期将进行风洞测试](https://m.ithome.com/html/851095.htm)
+
++ [哪吒汽车欠税 215 万余元被公告](https://m.ithome.com/html/851044.htm)
+
++ [微软全新 12 英寸 Surface Pro 发布：八核骁龙 X Plus 处理器，抛弃磁吸充电口](https://m.ithome.com/html/851066.htm)
+
++ [理想 L 系列智能焕新版发布会定档，将推 L9、L8、L7、L6 新版本](https://m.ithome.com/html/850975.htm)
+
++ [为 12GB 内存 iPhone 17 Pro / Max 做准备，消息称苹果正与内存制造商进行最后谈判](https://m.ithome.com/html/850981.htm)
+
++ [星纪魅族宣布全员认证入驻微博：自愿，鼓励，不强制，但大家很积极](https://m.ithome.com/html/851077.htm)
+
++ [苹果 iOS / iPadOS 18.5 RC 发布，正式版有望本月推出](https://m.ithome.com/html/851085.htm)
+

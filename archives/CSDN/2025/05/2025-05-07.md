@@ -181,3 +181,49 @@
 
 + [《巧用DeepSeek快速搞定数据分析》—— AI时代的数据科学革命](https://blog.csdn.net/qq_44273429/article/details/147754813)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式存储在物联网设备数据存储与管理中的应用（231）](https://blog.csdn.net/atgfg/article/details/147638992)
+
++ [【AI大模型前沿】Baichuan-M1-14B：百川智能推出专为医疗优化的开源大语言模型](https://blog.csdn.net/xiaobing259/article/details/147718564)
+
++ [Web 架构之负载均衡全解析](https://blog.csdn.net/XiaoRungen/article/details/147752574)
+
++ [Flutter Drawer 详解](https://blog.csdn.net/g984160547/article/details/146070284)
+
++ [新型深度神经网络架构：ENet模型](https://blog.csdn.net/weixin_51390582/article/details/146295202)
+
++ [基于Redis实现优惠券秒杀——第3期（分布式锁-Redisson）](https://blog.csdn.net/m0_74016429/article/details/147718369)
+
++ [知识图谱 + 大语言模型：打造更聪明、更可靠的AI大脑 —— 探索 GraphRAG 中文优化与可视化实践](https://blog.csdn.net/weixin_43264001/article/details/147719034)
+
++ [Nginx安全防护与HTTPS部署](https://blog.csdn.net/2302_79408199/article/details/147732465)
+
++ [OpenCV进阶操作：图像直方图、直方图均衡化](https://blog.csdn.net/m0_65065095/article/details/147722852)
+
++ [NVIDIA Halos：智能汽车革命中的全栈式安全系统](https://blog.csdn.net/qq_40999403/article/details/147750076)
+
++ [25：三大分类器原理](https://blog.csdn.net/2301_80188818/article/details/147712044)
+
++ [HtmlWebpackPlugin插件介绍（构建过程自动生成HTML文件，将打包后的资源如JavaScript、CSS文件注入到HTML中）html-webpack-plugin](https://blog.csdn.net/Dontla/article/details/147747488)
+
++ [睿抗机器人魔力元宝在完成任务过程中如何使机械臂先到达白色盒子上方而不是先到达工作台？？](https://blog.csdn.net/weixin_43970743/article/details/147729316)
+
++ [基于k8s的Jenkins CI/CD平台部署实践（三）：集成ArgoCD实现持续部署](https://blog.csdn.net/wfcxhit/article/details/147730874)
+
++ [邂逅蓝耘元生代：ComfyUI 工作流与服务器虚拟化的诗意交织](https://blog.csdn.net/weixin_73295475/article/details/147743614)
+
++ [在与大语言模型交互中的礼貌现象：技术影响、社会行为与文化意义的多维度探讨](https://blog.csdn.net/matt45m/article/details/147747714)
+
++ [Springboot循环依赖](https://blog.csdn.net/qq_56486237/article/details/147720773)
+
++ [全局过滤器与局部过滤器: Vue中的文本格式化工具](https://blog.csdn.net/weixin_42554191/article/details/147722085)
+
++ [手写 Vue 源码 === Effect 机制解析](https://blog.csdn.net/qq_63358859/article/details/147748984)
+
++ [ASP.NET Core 中间件](https://blog.csdn.net/lei1083929965/article/details/147731271)
+
++ [Linux内核视角：线程同步与互斥的原理、实现与锁优化策略](https://blog.csdn.net/2301_80774875/article/details/147077261)
+
++ [Redis 使用及命令操作](https://blog.csdn.net/m0_37739193/article/details/147740612)
+
++ [Day17 聚类算法（K-Means、DBSCAN、层次聚类）](https://blog.csdn.net/m0_51572183/article/details/147747420)
+

@@ -203,3 +203,5 @@
 
 + [两国战机均未侵入对方领空 巴方公布对印回击细节](https://news.cctv.com/2025/05/07/ARTIHVFd9LIWrxNERXUm2q3v250507.shtml)
 
++ [印度举行全国民防演习](https://photo.cctv.com/2025/05/07/PHOAs81iv2UDbRk3CqlTgcIU250507.shtml)
+
