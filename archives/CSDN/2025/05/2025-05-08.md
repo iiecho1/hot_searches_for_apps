@@ -109,3 +109,27 @@
 
 + [Tauri2.0、VUE3路由及用户登录页设计](https://blog.csdn.net/weixin_39141295/article/details/147765058)
 
++ [基于 Spring Boot 瑞吉外卖系统开发（十）](https://blog.csdn.net/qq_29385297/article/details/147732636)
+
++ [AI与知识图谱：从结构化数据到智能推理](https://blog.csdn.net/layneyao/article/details/147727543)
+
++ [5.1经典架构](https://blog.csdn.net/weixin_63681863/article/details/147732378)
+
++ [在与大语言模型交互中的礼貌现象：技术影响、社会行为与文化意义的多维度探讨](https://blog.csdn.net/matt45m/article/details/147747714)
+
++ [【PostgreSQL数据分析实战：从数据清洗到可视化全流程】5.1 描述性统计分析（均值/方差/分位数计算）](https://blog.csdn.net/qq_24452475/article/details/147722473)
+
++ [在 Sheel 中运行 Spark：开启高效数据处理之旅](https://blog.csdn.net/2301_80870395/article/details/147730401)
+
++ [重磅解析 | YOLOv11全方位改进指南：从理论到实战的模块精解与性能飞跃](https://blog.csdn.net/lgf228/article/details/147687400)
+
++ [前端、XSS（跨站脚本攻击，Cross-Site Scripting）](https://blog.csdn.net/u010843503/article/details/147739618)
+
++ [【论文笔记】SOTR: Segmenting Objects with Transformers](https://blog.csdn.net/Word_And_Me_/article/details/147720505)
+
++ [MCU与USB PD结合：驱动智能设备创新的技术引擎](https://blog.csdn.net/ZenasLDR/article/details/147727593)
+
++ [【旅游网站设计与实现】基于SpringBoot + Vue 的前后端分离项目 | 万字详细文档 + 源码 + 数据库 + PPT](https://blog.csdn.net/m0_58147884/article/details/147749287)
+
++ [（九）PMSM驱动控制学习---分流电阻采样及重构](https://blog.csdn.net/m0_64461937/article/details/147509633)
+

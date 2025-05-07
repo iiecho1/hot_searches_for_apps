@@ -169,3 +169,11 @@
 
 + [独家视频丨习近平主席专机抵达莫斯科 俄战机升空护航](https://news.cctv.com/2025/05/08/ARTIEbnkku93TItpWjjoKZao250508.shtml)
 
++ [独家视频丨习近平步出舱门 俄罗斯副总理等政府高级官员热情迎接](https://news.cctv.com/2025/05/08/ARTINNHCfsgq7aVohYnHKCuV250508.shtml)
+
++ [独家视频丨各界人士热烈欢迎习近平主席到访俄罗斯](https://news.cctv.com/2025/05/08/ARTIm8zLb2jpftf05aiYOELZ250508.shtml)
+
++ [独家视频丨习近平抵达莫斯科对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典](https://news.cctv.com/2025/05/08/ARTIJIqNAbgU7A8h6rj7bTx4250508.shtml)
+
++ [独家视频丨习近平主席出席俄方在机场举行的迎接仪式](https://news.cctv.com/2025/05/08/ARTI9EeaQbcuGMRMHFVwZ0tG250508.shtml)
+
