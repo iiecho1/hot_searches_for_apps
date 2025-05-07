@@ -181,3 +181,11 @@
 
 + [习近平向“和平薪火　时代新章——纪念中国人民抗日战争和苏联伟大卫国战争胜利80周年中俄人文交流活动”致贺信](https://news.cctv.com/2025/05/08/ARTIuix18WkAHKkQUTAWQEl1250508.shtml)
 
++ [印巴冲突是否会进一步升级？](https://news.cctv.com/2025/05/08/ARTIdo4ka6TdAuZ5vBRIvRG3250508.shtml)
+
++ [美联储连续第三次维持利率不变 警示关税影响](https://news.cctv.com/2025/05/08/ARTIGLUxiQWf49WvJpPRO9Mm250508.shtml)
+
++ [法德领导人说将加强合作共同应对欧洲面临的挑战](https://news.cctv.com/2025/05/08/ARTIvPq2dn3U1PJ4oSyHPH4k250508.shtml)
+
++ [苏丹宣布与阿联酋断交后 阿外交部作出回应](https://news.cctv.com/2025/05/08/ARTIcx5pYbFcDl9lmxEnUlmf250508.shtml)
+
