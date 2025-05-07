@@ -199,3 +199,7 @@
 
 + [巴基斯坦军方称印军袭击已致巴方26死46伤](https://news.cctv.com/2025/05/07/ARTIVykvO1INy1vWHCfbdt6t250507.shtml)
 
++ [泰国酒店泳池6天内连发两起中国游客溺水事件，1死1伤](https://news.cctv.com/2025/05/07/ARTILKsy61eF6PGCIfgdqCJ9250507.shtml)
+
++ [两国战机均未侵入对方领空 巴方公布对印回击细节](https://news.cctv.com/2025/05/07/ARTIHVFd9LIWrxNERXUm2q3v250507.shtml)
+

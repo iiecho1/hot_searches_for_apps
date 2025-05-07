@@ -179,3 +179,5 @@
 
 + [【Docker系列】镜像大小排序](https://blog.csdn.net/qyj19920704/article/details/147750205)
 
++ [《巧用DeepSeek快速搞定数据分析》—— AI时代的数据科学革命](https://blog.csdn.net/qq_44273429/article/details/147754813)
+
