@@ -245,3 +245,9 @@
 
 + [基于GA遗传优化的不同规模城市TSP问题求解算法matlab仿真](https://blog.csdn.net/soft_algorithm/article/details/147747548)
 
++ [RPA与After Effects 2024深度融合：自动化影视特效全链路革命](https://blog.csdn.net/qq_32682301/article/details/147769835)
+
++ [HarmonyOS 5.0 分布式数据协同与跨设备同步​​](https://blog.csdn.net/finally_vince/article/details/147746645)
+
++ [从零开始学Flink：开启实时计算的魔法之旅](https://blog.csdn.net/jackelee90/article/details/147709313)
+

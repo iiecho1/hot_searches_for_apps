@@ -211,3 +211,5 @@
 
 + [特稿丨习近平: 世界和平与发展的坚定支持者、维护者、推动者](https://news.cctv.com/2025/05/07/ARTIf5K9qCKi7hHIABBgIuZU250507.shtml)
 
++ [《俄罗斯报》刊文《中俄合拍电影〈红丝绸〉将在中国上映》](https://news.cctv.com/2025/05/07/ARTIMztuXCInVTIVGFmmiIV5250507.shtml)
+
