@@ -177,3 +177,5 @@
 
 + [独家视频丨习近平主席出席俄方在机场举行的迎接仪式](https://news.cctv.com/2025/05/08/ARTI9EeaQbcuGMRMHFVwZ0tG250508.shtml)
 
++ [《平“语”近人——习近平喜欢的典故》（国际版）在俄罗斯媒体播出](https://news.cctv.com/2025/05/08/ARTIMcz2hWPRnNHNTSqATqdM250508.shtml)
+
