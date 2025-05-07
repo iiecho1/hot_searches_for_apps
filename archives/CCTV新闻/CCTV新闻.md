@@ -205,3 +205,9 @@
 
 + [印度举行全国民防演习](https://photo.cctv.com/2025/05/07/PHOAs81iv2UDbRk3CqlTgcIU250507.shtml)
 
++ [漫评美滥用关税：“内病外治”](https://news.cctv.com/2025/05/07/ARTIxmj7r6LMHpt2xh9EOoDl250507.shtml)
+
++ [当外交遇上书香·“我们那一代人受俄罗斯经典的影响很深”](https://news.cctv.com/2025/05/07/ARTIYklyWcEkMgeqBnnfEdPV250507.shtml)
+
++ [特稿丨习近平: 世界和平与发展的坚定支持者、维护者、推动者](https://news.cctv.com/2025/05/07/ARTIf5K9qCKi7hHIABBgIuZU250507.shtml)
+

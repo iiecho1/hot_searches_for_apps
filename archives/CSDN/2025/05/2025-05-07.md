@@ -233,3 +233,7 @@
 
 + [FPGA实战项目1——坦克大战](https://blog.csdn.net/m0_67400176/article/details/147726953)
 
++ [Python从0到100（九十七）：VisionTransformer（ViT）在时间序列行为识别中的应用](https://blog.csdn.net/weixin_51390582/article/details/147654063)
+
++ [学习Python网络爬虫的实例](https://blog.csdn.net/MatheoGao/article/details/147749334)
+
