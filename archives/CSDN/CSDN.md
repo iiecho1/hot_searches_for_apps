@@ -251,3 +251,7 @@
 
 + [从零开始学Flink：开启实时计算的魔法之旅](https://blog.csdn.net/jackelee90/article/details/147709313)
 
++ [opencv之图像亮度变换和形态学变换（八）](https://blog.csdn.net/Hao_diedie/article/details/147724781)
+
++ [【大语言模型ChatGPT+Python】近红外光谱数据分析及机器学习与深度学习建模（近红外光谱数据分析、定性/定量分析模型代码自动生成等）](https://blog.csdn.net/2403_89634305/article/details/147588836)
+
