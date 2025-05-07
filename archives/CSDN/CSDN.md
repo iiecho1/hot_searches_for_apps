@@ -175,3 +175,7 @@
 
 + [ARM寻址方式](https://blog.csdn.net/weixin_43599304/article/details/147694239)
 
++ [【计算机视觉】3d人体重建：PIFu/PIFuHD：高精度三维人体数字化技术指南](https://blog.csdn.net/weixin_43988131/article/details/147721141)
+
++ [【Docker系列】镜像大小排序](https://blog.csdn.net/qyj19920704/article/details/147750205)
+

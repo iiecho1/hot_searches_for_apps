@@ -189,3 +189,13 @@
 
 + [巴基斯坦军方：印度空袭已致8死35伤2失踪](https://news.cctv.com/2025/05/07/ARTIbRUBH9F9jPcwGAdDja7T250507.shtml)
 
++ [行动持续25分钟 打击巴9处目标 印度就对巴军事行动召开发布会](https://news.cctv.com/2025/05/07/ARTIFkq2Tv6bPgtQTWsJLA0U250507.shtml)
+
++ [印官员称巴基斯坦在克什米尔实控线附近开火已致10人死亡](https://news.cctv.com/2025/05/07/ARTIcc5JVNBXBAQitBFJW21V250507.shtml)
+
++ [巴基斯坦伊斯兰堡：机场关闭](https://photo.cctv.com/2025/05/07/PHOA8kAhmKRsZXnZ7HArAXVz250507.shtml)
+
++ [莫斯科街头“盛装”迎接胜利日](https://photo.cctv.com/2025/05/07/PHOABMyNhpKGF0D058hzI3ba250507.shtml)
+
++ [巴基斯坦军方称印军袭击已致巴方26死46伤](https://news.cctv.com/2025/05/07/ARTIVykvO1INy1vWHCfbdt6t250507.shtml)
+
