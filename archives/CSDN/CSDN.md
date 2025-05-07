@@ -141,3 +141,5 @@
 
 + [从明文裸奔到密钥长城：HTTPS加密全链路攻防与CA信任锚点构建](https://blog.csdn.net/2302_80105876/article/details/147730196)
 
++ [高铁座位指示灯系统技术深度解析：从物联网到智慧出行的实践路径](https://blog.csdn.net/lihaiming_2008/article/details/147728802)
+
