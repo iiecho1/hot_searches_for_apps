@@ -179,3 +179,5 @@
 
 + [《平“语”近人——习近平喜欢的典故》（国际版）在俄罗斯媒体播出](https://news.cctv.com/2025/05/08/ARTIMcz2hWPRnNHNTSqATqdM250508.shtml)
 
++ [习近平向“和平薪火　时代新章——纪念中国人民抗日战争和苏联伟大卫国战争胜利80周年中俄人文交流活动”致贺信](https://news.cctv.com/2025/05/08/ARTIuix18WkAHKkQUTAWQEl1250508.shtml)
+
