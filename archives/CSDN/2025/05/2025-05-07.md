@@ -255,3 +255,5 @@
 
 + [【大语言模型ChatGPT+Python】近红外光谱数据分析及机器学习与深度学习建模（近红外光谱数据分析、定性/定量分析模型代码自动生成等）](https://blog.csdn.net/2403_89634305/article/details/147588836)
 
++ [Tauri2.0、VUE3路由及用户登录页设计](https://blog.csdn.net/weixin_39141295/article/details/147765058)
+
