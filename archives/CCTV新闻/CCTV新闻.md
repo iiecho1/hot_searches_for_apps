@@ -165,3 +165,27 @@
 
 + [巴基斯坦军方：印度导弹袭击已造成至少3死14伤](https://news.cctv.com/2025/05/07/ARTIcypbptsg9IXrxd9xQkgW250507.shtml)
 
++ [金句海报 | 为新时代中俄关系提供战略引领](https://news.cctv.com/2025/05/07/ARTI7lfRBS0h7fSeoLLvRgMF250507.shtml)
+
++ [参选之路亮起绿灯 李在明所涉案件被延至韩国大选后重审](https://news.cctv.com/2025/05/07/ARTIZNltpXSh4qC13QQFIMSs250507.shtml)
+
++ [巴证实击落3架阵风、1架苏-30和1架米格战机](https://news.cctv.com/2025/05/07/ARTIG6RoCTwcQ9yAKcMkdZ4B250507.shtml)
+
++ [刚果（金）危机升级 联合国机构呼吁紧急筹款以应对危机](https://news.cctv.com/2025/05/07/ARTIzuQQ91hQwznjkGwhDiWa250507.shtml)
+
++ [“俄中绿色低碳领域合作潜力巨大”](https://news.cctv.com/2025/05/07/ARTIUt9EWa1K5AmnL4345qnn250507.shtml)
+
++ [Vlog | 跟着镜头打卡！莫斯科这些地方很“中国”](https://news.cctv.com/2025/05/07/ARTI4p5x9JyJToQnN4y0PeDt250507.shtml)
+
++ [商务部新闻发言人就中美经贸高层会谈答记者问](https://news.cctv.com/2025/05/07/ARTIVCBQjcg8ze344hYfdYJK250507.shtml)
+
++ [开辟中欧关系更加美好的未来（和音）](https://news.cctv.com/2025/05/07/ARTIHeqrR2IdD4CHWrR2cEZP250507.shtml)
+
++ [新华社政论丨让和平的薪火代代相传](https://news.cctv.com/2025/05/07/ARTIlyiDTeX8UX9gJRzS7sY0250507.shtml)
+
++ [11次、80年、百年变局，三个数字前瞻习近平主席俄罗斯之行](https://news.cctv.com/2025/05/07/ARTIDqchPuARXJkxtBdXb8YR250507.shtml)
+
++ [印巴冲突升级 巴防长称已击落5架印度战机](https://news.cctv.com/2025/05/07/ARTIdeshA3doAOiOLfEB7ige250507.shtml)
+
++ [巴基斯坦军方：印度空袭已致8死35伤2失踪](https://news.cctv.com/2025/05/07/ARTIbRUBH9F9jPcwGAdDja7T250507.shtml)
+
