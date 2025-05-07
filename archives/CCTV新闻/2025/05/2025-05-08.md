@@ -189,3 +189,7 @@
 
 + [苏丹宣布与阿联酋断交后 阿外交部作出回应](https://news.cctv.com/2025/05/08/ARTIcx5pYbFcDl9lmxEnUlmf250508.shtml)
 
++ [以防长：以军将全面控制加沙地带 将民众转移到南部](https://news.cctv.com/2025/05/08/ARTIHkzupUoGnSILhrxycYDa250508.shtml)
+
++ [十年政策转向 德内政部长称拒绝无证移民入境](https://news.cctv.com/2025/05/08/ARTIwjiwGJD61CB2VJFda63o250508.shtml)
+

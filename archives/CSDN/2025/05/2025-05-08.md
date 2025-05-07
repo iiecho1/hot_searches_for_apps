@@ -143,3 +143,5 @@
 
 + [高铁座位指示灯系统技术深度解析：从物联网到智慧出行的实践路径](https://blog.csdn.net/lihaiming_2008/article/details/147728802)
 
++ [数字乡村综合管理与服务平台软件需求规格说明文档](https://blog.csdn.net/2301_79849925/article/details/147246546)
+
