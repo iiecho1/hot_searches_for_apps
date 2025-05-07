@@ -101,3 +101,11 @@
 
 + [从0开始学习大模型--Day01--大模型是什么](https://blog.csdn.net/Chef_Chen/article/details/147724485)
 
++ [AI驱动的Kubernetes管理：kubectl-ai 如何简化你的云原生运维](https://blog.csdn.net/u014390502/article/details/147768253)
+
++ [Linux：深入理解数据链路层](https://blog.csdn.net/weixin_51142926/article/details/144000377)
+
++ [一文读懂GPT-4与GPT-3.5的核心差异：技术突破与行业影响](https://blog.csdn.net/qq_16242613/article/details/147640648)
+
++ [Tauri2.0、VUE3路由及用户登录页设计](https://blog.csdn.net/weixin_39141295/article/details/147765058)
+

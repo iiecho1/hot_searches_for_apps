@@ -161,3 +161,11 @@
 
 + [连续9周封锁加沙 联合国谴责以色列将人道主义救援军事化](https://news.cctv.com/2025/05/05/ARTIkB4COLSUBWbSksfhowU0250505.shtml)
 
++ [独家视频丨习近平主席出席俄方在机场举行的迎宾仪式](https://news.cctv.com/2025/05/08/ARTI9EeaQbcuGMRMHFVwZ0tG250508.shtml)
+
++ [习近平抵达莫斯科伏努科沃专机机场发表书面讲话（全文）](https://news.cctv.com/2025/05/08/ARTI37dUELrODHzZaO9gjpli250508.shtml)
+
++ [习近平抵达莫斯科对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典](https://news.cctv.com/2025/05/08/ARTI1tnLPyRPY9MaGr9ZiXVu250508.shtml)
+
++ [独家视频丨习近平主席专机抵达莫斯科 俄战机升空护航](https://news.cctv.com/2025/05/08/ARTIEbnkku93TItpWjjoKZao250508.shtml)
+
