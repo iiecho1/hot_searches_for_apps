@@ -161,3 +161,9 @@
 
 + [巴基斯坦政府领导层称将进一步加强战备抵御一切威胁](https://news.cctv.com/2025/05/06/ARTIWBtRvUVbOm6JHMCyLHzO250506.shtml)
 
++ [中华人民共和国和俄罗斯联邦关于进一步加强合作维护国际法权威的联合声明](https://news.cctv.com/2025/05/09/ARTIAnldTAaAUozwoZLcEfh9250509.shtml)
+
++ [中华人民共和国和俄罗斯联邦关于全球战略稳定的联合声明](https://news.cctv.com/2025/05/09/ARTIer0wAdLmYBekuiW15BFm250509.shtml)
+
++ [时政Vlog丨近距离在克宫乔治大厅看欢迎仪式](https://news.cctv.com/2025/05/09/ARTITI9jIHYrWnO1susgwFPl250509.shtml)
+
