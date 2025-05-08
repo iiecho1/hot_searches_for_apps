@@ -161,3 +161,5 @@
 
 + [车载通信网络安全：挑战与解决方案](https://blog.csdn.net/qq_51524329/article/details/147743485)
 
++ [【解决方案】CloudFront VPC Origins 实践流程深入解析 —— 安全高效架构的实战之道](https://blog.csdn.net/air__Heaven/article/details/147286035)
+

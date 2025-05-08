@@ -215,3 +215,5 @@
 
 + [学习新语｜重温中俄并肩作战历史，习主席讲述四个故事](https://news.cctv.com/2025/05/08/ARTIkSyBvxflme51vsBDONPh250508.shtml)
 
++ [巴控克什米尔地区首府：空袭过后](https://photo.cctv.com/2025/05/08/PHOAYU6FOV0xfB2cBL2wLtaT250508.shtml)
+
