@@ -235,3 +235,9 @@
 
 + [印度防长：“朱砂行动”仍在持续 不希望局势升级但也不会退缩](https://news.cctv.com/2025/05/08/ARTI51pOj5nmnmmcAEYOSh9Y250508.shtml)
 
++ [纪录片｜为什么这一纪念不能忘却](https://news.cctv.com/2025/05/08/ARTITiEROGgx90S5gwqej1dq250508.shtml)
+
++ [全球瞭望｜马来西亚媒体：美对马关税谈判要求“不公平”“不对等”](https://news.cctv.com/2025/05/08/ARTIJEWvnjL1i769LfkibiTm250508.shtml)
+
++ [乌克兰议会批准美乌矿产协议](https://news.cctv.com/2025/05/08/ARTIuv4fJlTZg3Cjl7ycC5SD250508.shtml)
+
