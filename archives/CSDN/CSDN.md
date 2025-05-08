@@ -147,3 +147,5 @@
 
 + [AI与Web3.0：去中心化智能合约的未来](https://blog.csdn.net/layneyao/article/details/147752403)
 
++ [【HarmonyOS 5】App Linking 应用间跳转详解](https://blog.csdn.net/weixin_44640245/article/details/147798466)
+
