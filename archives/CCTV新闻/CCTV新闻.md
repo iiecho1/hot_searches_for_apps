@@ -229,3 +229,9 @@
 
 + [一见·共同期待这场庄重而光荣的盛典](https://news.cctv.com/2025/05/08/ARTIXQL1kUtZ19d3J2pDLSCR250508.shtml)
 
++ [美国下周宣布改称“波斯湾”为“阿拉伯湾”？特朗普最新回应](https://news.cctv.com/2025/05/08/ARTIaBMoNGVfuphLC2Ch3shc250508.shtml)
+
++ [巴基斯坦称击落超25架印度无人机](https://news.cctv.com/2025/05/08/ARTI0SZfQBvQnCJZ7ql1B9ls250508.shtml)
+
++ [印度防长：“朱砂行动”仍在持续 不希望局势升级但也不会退缩](https://news.cctv.com/2025/05/08/ARTI51pOj5nmnmmcAEYOSh9Y250508.shtml)
+
