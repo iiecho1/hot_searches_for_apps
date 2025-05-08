@@ -199,3 +199,7 @@
 
 + [大国外交最前线丨历史交汇点 驻俄大使谈俄罗斯对习主席此行期待](https://news.cctv.com/2025/05/08/ARTIV5GbEa6YFv8krAWq5HeX250508.shtml)
 
++ [驻德国使领馆提醒赴德务工中国公民谨防中介陷阱](https://news.cctv.com/2025/05/08/ARTIfzajDI5MUJQEIi9wbcNK250508.shtml)
+
++ [康辉@大国外交最前线丨“梨花开遍了天涯” 的季节 习近平主席开启“以史为鉴 共创未来”的俄罗斯之行](https://news.cctv.com/2025/05/08/ARTIAzXwfF2UR4sVo9vs9xY4250508.shtml)
+
