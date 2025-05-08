@@ -187,3 +187,7 @@
 
 + [未来 CSS：变量、容器查询与新特性的探索](https://blog.csdn.net/Chen7Chan/article/details/147729933)
 
++ [基于Transformer的多资产收益预测模型实战（附PyTorch实现与避坑指南）](https://blog.csdn.net/deepever/article/details/147771130)
+
++ [南京大学OpenHarmony技术俱乐部正式揭牌 仓颉编程语言引领生态创新](https://blog.csdn.net/pl_lab_001/article/details/147757464)
+

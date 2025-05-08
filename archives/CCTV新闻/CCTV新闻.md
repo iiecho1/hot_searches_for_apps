@@ -241,3 +241,11 @@
 
 + [乌克兰议会批准美乌矿产协议](https://news.cctv.com/2025/05/08/ARTIuv4fJlTZg3Cjl7ycC5SD250508.shtml)
 
++ [习近平同俄罗斯总统普京共同会见记者](https://news.cctv.com/2025/05/08/ARTIlkptffBkHuq1Ku0S3lEb250508.shtml)
+
++ [金句海报 | 关于中国人民抗日战争和世界反法西斯战争，习近平主席这样说](https://news.cctv.com/2025/05/08/ARTIGTbh5LxMaKhj37W5ETZU250508.shtml)
+
++ [习言道丨再赴俄罗斯，习近平特别提到这些老战士](https://news.cctv.com/2025/05/08/ARTIFy89PTTheQngEINzc1sR250508.shtml)
+
++ [一见·历史与未来，一对跨越十年的关键词](https://news.cctv.com/2025/05/08/ARTIugEg89a3odvsxIJTIXv0250508.shtml)
+
