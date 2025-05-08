@@ -31,3 +31,19 @@
 
 + [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
 
++ [awslabs/agent-squad](https://github.com/awslabs/agent-squad)
+
++ [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
++ [zed-industries/zed](https://github.com/zed-industries/zed)
+
++ [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+
++ [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)
+
++ [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+
++ [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+
++ [rzane/docker2exe](https://github.com/rzane/docker2exe)
+
