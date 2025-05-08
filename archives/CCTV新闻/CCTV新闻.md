@@ -203,3 +203,9 @@
 
 + [康辉@大国外交最前线丨“梨花开遍了天涯” 的季节 习近平主席开启“以史为鉴 共创未来”的俄罗斯之行](https://news.cctv.com/2025/05/08/ARTIAzXwfF2UR4sVo9vs9xY4250508.shtml)
 
++ [波音公司计划于2027年交付新版“空军一号”飞机](https://news.cctv.com/2025/05/08/ARTIRLDKvNKQMT2xOng3iTWH250508.shtml)
+
++ [多架战机被击落，水坝遇袭，印巴冲突走向何方](https://news.cctv.com/2025/05/08/ARTIgbR9nTAneIqSLjpVa3sz250508.shtml)
+
++ [欧盟气候机构：今年4月是有记录以来第二热的4月](https://news.cctv.com/2025/05/08/ARTIc2BgQ2jXzkglAd65nQwJ250508.shtml)
+

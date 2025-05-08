@@ -151,3 +151,9 @@
 
 + [深度剖析：可视化如何重塑驾驶舱信息交互模式](https://blog.csdn.net/2501_91851081/article/details/147728670)
 
++ [深入了解linux系统—— 进程控制](https://blog.csdn.net/LH__1314/article/details/147715813)
+
++ [深入理解Embedding Models（嵌入模型）：从原理到实战（上）](https://blog.csdn.net/weixin_53269650/article/details/147774332)
+
++ [AI教你学VUE——Gemini版](https://blog.csdn.net/LuckyLay/article/details/147748179)
+
