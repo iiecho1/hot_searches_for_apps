@@ -145,3 +145,5 @@
 
 + [白杨SEO：如何查看百度、抖音、微信、微博、小红书、知乎、B站、视频号、快手等7天内最热门话题及流量关键词有哪些？使用方法和免费工具推荐以及注意事项【干货】](https://blog.csdn.net/baiyangseo/article/details/147767199)
 
++ [AI与Web3.0：去中心化智能合约的未来](https://blog.csdn.net/layneyao/article/details/147752403)
+
