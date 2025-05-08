@@ -167,3 +167,7 @@
 
 + [时政Vlog丨近距离在克宫乔治大厅看欢迎仪式](https://news.cctv.com/2025/05/09/ARTITI9jIHYrWnO1susgwFPl250509.shtml)
 
++ [习近平同俄罗斯总统普京茶叙](https://news.cctv.com/2025/05/09/ARTIOtlowUpPL3hN33hvvKOb250509.shtml)
+
++ [习近平同俄罗斯总统普京茶叙](https://news.cctv.com/2025/05/09/ARTIOlUb5fQjSCvYUcvhsCGx250509.shtml)
+
