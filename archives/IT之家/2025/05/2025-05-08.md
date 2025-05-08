@@ -25,3 +25,27 @@
 
 + [苹果 iOS / iPadOS 18.5 RC 发布，正式版有望本月推出](https://m.ithome.com/html/851085.htm)
 
++ [小米就 SU7 Ultra 碳纤维双风道前舱盖争议致歉，未交付订单限时改回铝制前舱盖](https://m.ithome.com/html/851341.htm)
+
++ [华为首款鸿蒙电脑正式亮相](https://m.ithome.com/html/851386.htm)
+
++ [华为首款鸿蒙电脑将于 5 月 19 日正式发布](https://m.ithome.com/html/851405.htm)
+
++ [九成司机讨厌汽车触控屏，实体控制正全面反攻](https://m.ithome.com/html/851346.htm)
+
++ [吉利汽车：建议私有化极氪](https://m.ithome.com/html/851258.htm)
+
++ [华为：鸿蒙电脑搭载 HarmonyOS 5，从内核开始重构操作系统](https://m.ithome.com/html/851392.htm)
+
++ [DeepSeek 致谢腾讯技术团队，DeepEP 开源通信框架性能显著提升](https://m.ithome.com/html/851308.htm)
+
++ [IT之家 iOS / 安卓版 9.0 开放公测：水评座、AI 润色……](https://m.ithome.com/html/851261.htm)
+
++ [华为首款鸿蒙电脑亮点公布，支持万能卡片、直觉交互等](https://m.ithome.com/html/851394.htm)
+
++ [华为首款鸿蒙电脑将亮相](https://m.ithome.com/html/851378.htm)
+
++ [2025 款阿维塔 12 正式上市，权益价 25.99 万-41.99 万元](https://m.ithome.com/html/851313.htm)
+
++ [理想汽车回应网传李想年薪 6.39 亿：实际薪酬 266 万元，现在解锁股权激励需倒贴 2.3 亿](https://m.ithome.com/html/851246.htm)
+

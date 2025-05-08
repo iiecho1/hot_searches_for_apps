@@ -173,3 +173,5 @@
 
 + [【计算机视觉】OpenCV项目实战：OpenCV_Position 项目深度解析：基于 OpenCV 的相机定位技术](https://blog.csdn.net/weixin_43988131/article/details/147775818)
 
++ [物联网从HomeAssistant开始](https://blog.csdn.net/sinat_15906013/article/details/147773807)
+

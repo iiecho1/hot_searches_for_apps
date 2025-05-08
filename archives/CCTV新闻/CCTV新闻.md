@@ -221,3 +221,5 @@
 
 + [以色列防长：胡塞武装若继续开火将遭受沉重打击](https://news.cctv.com/2025/05/08/ARTIpVeiom8nmUwB8mrU2zpZ250508.shtml)
 
++ [纵情歌唱，有着英雄血脉的伟大人民！——《黄河大合唱》与《神圣的战争》跨越时空的交响](https://news.cctv.com/2025/05/08/ARTImBpQcdJvXojIVNy6m3MW250508.shtml)
+
