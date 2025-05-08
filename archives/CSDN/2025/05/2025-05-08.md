@@ -175,3 +175,9 @@
 
 + [物联网从HomeAssistant开始](https://blog.csdn.net/sinat_15906013/article/details/147773807)
 
++ [挑战用豆包教我学Java01天](https://blog.csdn.net/2301_80142503/article/details/147772037)
+
++ [Linux 驱动开发步骤及 SPI 设备驱动移植示例](https://blog.csdn.net/a247534855/article/details/147772133)
+
++ [网络安全的原理和基本知识点](https://blog.csdn.net/mrzyun0811/article/details/147721903)
+

@@ -223,3 +223,9 @@
 
 + [纵情歌唱，有着英雄血脉的伟大人民！——《黄河大合唱》与《神圣的战争》跨越时空的交响](https://news.cctv.com/2025/05/08/ARTImBpQcdJvXojIVNy6m3MW250508.shtml)
 
++ [镜观·回响｜好邻居 真朋友](https://news.cctv.com/2025/05/08/ARTIiWXOB2exS8X733lj7P50250508.shtml)
+
++ [传承英雄血脉 捍卫公平正义——习近平主席署名文章引发俄罗斯各界热烈反响](https://news.cctv.com/2025/05/08/ARTI6MVTZgTl8bTTDMmSQBTa250508.shtml)
+
++ [一见·共同期待这场庄重而光荣的盛典](https://news.cctv.com/2025/05/08/ARTIXQL1kUtZ19d3J2pDLSCR250508.shtml)
+
