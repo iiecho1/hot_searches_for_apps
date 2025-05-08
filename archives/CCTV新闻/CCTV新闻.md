@@ -193,3 +193,9 @@
 
 + [十年政策转向 德内政部长称拒绝无证移民入境](https://news.cctv.com/2025/05/08/ARTIwjiwGJD61CB2VJFda63o250508.shtml)
 
++ [时政Vlog丨俄中青年共同迎接习主席到访](https://news.cctv.com/2025/05/08/ARTIJIyKPhGaa5LuV3bT3Vjr250508.shtml)
+
++ [时政Vlog丨习主席第11次访俄 记者区前排看接机现场！](https://news.cctv.com/2025/05/08/ARTIYgBsQSZ8byQVsTfGA1jA250508.shtml)
+
++ [大国外交最前线丨历史交汇点 驻俄大使谈俄罗斯对习主席此行期待](https://news.cctv.com/2025/05/08/ARTIV5GbEa6YFv8krAWq5HeX250508.shtml)
+
