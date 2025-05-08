@@ -167,3 +167,9 @@
 
 + [计算机网络:TCP/IP协议(从 MAC 地址到 VLAN 标签：数据链路层如何重构网络拓扑逻辑)](https://blog.csdn.net/qq_53769632/article/details/147773021)
 
++ [PyTorchVideo实战：从零开始构建高效视频分类模型](https://blog.csdn.net/m0_46510245/article/details/147781634)
+
++ [【Rust错误处理】Rust错误处理机制详解与应用实战](https://blog.csdn.net/littlefun591/article/details/147771040)
+
++ [【计算机视觉】OpenCV项目实战：OpenCV_Position 项目深度解析：基于 OpenCV 的相机定位技术](https://blog.csdn.net/weixin_43988131/article/details/147775818)
+

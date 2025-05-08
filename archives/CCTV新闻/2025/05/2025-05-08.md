@@ -217,3 +217,7 @@
 
 + [巴控克什米尔地区首府：空袭过后](https://photo.cctv.com/2025/05/08/PHOAYU6FOV0xfB2cBL2wLtaT250508.shtml)
 
++ [巴西央行上调基准利率至近20年来最高水平](https://news.cctv.com/2025/05/08/ARTI3usXPvlBMqXauFcMlFKS250508.shtml)
+
++ [以色列防长：胡塞武装若继续开火将遭受沉重打击](https://news.cctv.com/2025/05/08/ARTIpVeiom8nmUwB8mrU2zpZ250508.shtml)
+
