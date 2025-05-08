@@ -157,3 +157,7 @@
 
 + [AI教你学VUE——Gemini版](https://blog.csdn.net/LuckyLay/article/details/147748179)
 
++ [趣味编程：梦幻万花筒](https://blog.csdn.net/2401_87194328/article/details/147753276)
+
++ [车载通信网络安全：挑战与解决方案](https://blog.csdn.net/qq_51524329/article/details/147743485)
+

@@ -209,3 +209,9 @@
 
 + [欧盟气候机构：今年4月是有记录以来第二热的4月](https://news.cctv.com/2025/05/08/ARTIc2BgQ2jXzkglAd65nQwJ250508.shtml)
 
++ [习言道丨中俄两国携手走出了一条大国、邻国和睦相处、合作共赢的崭新道路](https://news.cctv.com/2025/05/08/ARTIJE1WDhuMGx1TRk0FNvt4250508.shtml)
+
++ [国际足联公布2027年女足世界杯举办城市](https://news.cctv.com/2025/05/08/ARTIPBoVSo3pdtkQJGPSfnlq250508.shtml)
+
++ [学习新语｜重温中俄并肩作战历史，习主席讲述四个故事](https://news.cctv.com/2025/05/08/ARTIkSyBvxflme51vsBDONPh250508.shtml)
+
