@@ -263,3 +263,7 @@
 
 + [日本松下集团宣布将全球裁员约1万人](https://news.cctv.com/2025/05/09/ARTI69NQjoXvaRSs9ac3pXCh250509.shtml)
 
++ [本轮巴以冲突已致加沙地带52787人死亡](https://news.cctv.com/2025/05/09/ARTIqkWgSjlGh1CU787lEhOI250509.shtml)
+
++ [中国驻印度大使馆提醒：在印度中国公民加强安全防范](https://news.cctv.com/2025/05/09/ARTIsz3tLA3xyaErDg4EAmZc250509.shtml)
+
