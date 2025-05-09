@@ -149,3 +149,5 @@
 
 + [【HarmonyOS 5】App Linking 应用间跳转详解](https://blog.csdn.net/weixin_44640245/article/details/147798466)
 
++ [HarmonyOS NEXT深度解析：自研框架ArkUI-X的技术革命与跨平台实践](https://blog.csdn.net/weixin_41905135/article/details/147773560)
+
