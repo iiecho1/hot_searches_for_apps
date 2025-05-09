@@ -257,3 +257,7 @@
 
 + [匈牙利总理：接纳乌克兰加入欧盟无异于“经济自杀”](https://news.cctv.com/2025/05/09/ARTIEsga6LzqT6GtJhSOfZbI250509.shtml)
 
++ [斯里兰卡空军直升机坠毁致6人死亡](https://news.cctv.com/2025/05/09/ARTIxMae050w0PtbW63xIhZA250509.shtml)
+
++ [欧洲议会通过放宽车企碳排放规则修订案](https://news.cctv.com/2025/05/09/ARTIjSbzN6LrEONSmTt8pp8L250509.shtml)
+
