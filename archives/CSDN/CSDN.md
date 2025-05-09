@@ -145,3 +145,5 @@
 
 + [2025 年数维杯数学建模 C 题完整论文代码模型](https://blog.csdn.net/2301_81596622/article/details/147831027)
 
++ [2025数维杯C题 解题思路](https://blog.csdn.net/qq_64901455/article/details/147831087)
+
