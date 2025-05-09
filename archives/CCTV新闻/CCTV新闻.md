@@ -179,3 +179,15 @@
 
 + [合并事宜濒临破裂边缘 韩国大选保守阵营内讧加剧](https://news.cctv.com/2025/05/09/ARTIQvroWUfwEa0BTC3HIYKR250509.shtml)
 
++ [美众议院通过法案将“墨西哥湾”更名为“美国湾”](https://news.cctv.com/2025/05/09/ARTIbxSJJAaZK2vY0tF72A8b250509.shtml)
+
++ [朝鲜进行远程炮及导弹系统联合打击训练](https://news.cctv.com/2025/05/09/ARTIEvEIiX96p9Wo5zUjEpZp250509.shtml)
+
++ [美英宣布达成贸易协议 但具体细节尚待敲定](https://news.cctv.com/2025/05/09/ARTIH1Thcxl3wJqxNkCfhlfG250509.shtml)
+
++ [专家解读：印巴紧张局势出路在何方](https://news.cctv.com/2025/05/09/ARTIj2MT5BGNm21pzbiNImeK250509.shtml)
+
++ [中方呼吁国际社会充分尊重南苏丹主权和主导权](https://news.cctv.com/2025/05/09/ARTIaRjPROq3RuUpCP1tm4d8250509.shtml)
+
++ [时政新闻眼丨中俄元首今年首次面对面会谈，达成哪些新的重要共识？](https://news.cctv.com/2025/05/09/ARTIf1uXdMAOG4PoFWNl8Zah250509.shtml)
+
