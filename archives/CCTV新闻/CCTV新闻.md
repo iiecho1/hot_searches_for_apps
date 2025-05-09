@@ -205,3 +205,17 @@
 
 + [中国驻尼泊尔使馆提醒旅尼中国公民近期避免前往尼印边境地区](https://news.cctv.com/2025/05/09/ARTIcD9BKTCyqoqQrWGs3Z9R250509.shtml)
 
++ [跨越时空，守护共同的历史记忆](https://news.cctv.com/2025/05/09/ARTIkxjx4YmyKEimCdk3xCRI250509.shtml)
+
++ [“中国排面”亮相莫斯科红场](https://news.cctv.com/2025/05/09/ARTI1wIsJfUKKOaRg3aP53lG250509.shtml)
+
++ [南非柑橘小镇的焦虑——关税海啸中的国别观察](https://news.cctv.com/2025/05/09/ARTIVgz5tHQpWnfmbmLhKY4K250509.shtml)
+
++ [土耳其警方拘留16名涉嫌与“伊斯兰国”有关联者](https://news.cctv.com/2025/05/09/ARTI916UUXc4irXYxSBgR9uX250509.shtml)
+
++ [智利一架医疗救护飞机坠毁 致6人遇难](https://news.cctv.com/2025/05/09/ARTIoBFQurMIxqnfW9tvH5wJ250509.shtml)
+
++ [让俄中友谊故事世代流传](https://news.cctv.com/2025/05/09/ARTI0biyKc1BYv0fKt2cSNGG250509.shtml)
+
++ [铭记世界反法西斯战场上的中国人](https://news.cctv.com/2025/05/09/ARTITBPJWut6rXYS9tIQnROB250509.shtml)
+
