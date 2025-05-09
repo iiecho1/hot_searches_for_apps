@@ -199,3 +199,5 @@
 
 + [洛杉矶奥组委确认2028年奥运会和残奥会开闭幕式场地](https://news.cctv.com/2025/05/09/ARTIBmLx4xaj45MttX06pyjz250509.shtml)
 
++ [习语丨“老战士们的铮铮铁骨和坚毅神情我至今难忘”](https://news.cctv.com/2025/05/09/ARTIv8AWIPtQrmO13aaFL1pg250509.shtml)
+
