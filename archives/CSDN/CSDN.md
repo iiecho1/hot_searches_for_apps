@@ -119,3 +119,21 @@
 
 + [论坛系统测试报告](https://blog.csdn.net/weixin_73077334/article/details/147325925)
 
++ [Spring Boot + Vue 实现在线视频教育平台](https://blog.csdn.net/m0_58147884/article/details/147786263)
+
++ [基于LSTM与SHAP可解释性分析的神经网络回归预测模型【MATLAB】](https://blog.csdn.net/m0_47282648/article/details/147797584)
+
++ [阿里云 golang 一面](https://blog.csdn.net/weixin_54385104/article/details/147780744)
+
++ [Android7 Input（六）InputChannel](https://blog.csdn.net/yanl1229/article/details/147805453)
+
++ [三、大模型原理：图文解析MoE原理](https://blog.csdn.net/ngadminq/article/details/147759508)
+
++ [从颜料混色到网络安全：DH算法的跨界智慧](https://blog.csdn.net/weixin_43903639/article/details/147805710)
+
++ [软件内更新的完全实现 jetpackCompose in app update](https://blog.csdn.net/K0N0D10DA/article/details/147750146)
+
++ [网络协议之DHCP和PXE分析](https://blog.csdn.net/wang0907/article/details/147795196)
+
++ [拒绝服务攻击(DoS/DDoS/DRDoS)详解：洪水猛兽的防御之道](https://blog.csdn.net/m0_73762612/article/details/147753925)
+
