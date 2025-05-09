@@ -255,3 +255,5 @@
 
 + [我驻巴基斯坦大使馆提醒在巴中国公民加强安全防范](https://news.cctv.com/2025/05/09/ARTIcNGyDE9z7waMjMyrzKzL250509.shtml)
 
++ [匈牙利总理：接纳乌克兰加入欧盟无异于“经济自杀”](https://news.cctv.com/2025/05/09/ARTIEsga6LzqT6GtJhSOfZbI250509.shtml)
+
