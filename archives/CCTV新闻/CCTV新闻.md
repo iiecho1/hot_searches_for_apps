@@ -201,3 +201,7 @@
 
 + [习语丨“老战士们的铮铮铁骨和坚毅神情我至今难忘”](https://news.cctv.com/2025/05/09/ARTIv8AWIPtQrmO13aaFL1pg250509.shtml)
 
++ [巴基斯坦军方：已击落25架印度无人机 巴人员有伤亡](https://photo.cctv.com/2025/05/09/PHOA8vVaDTKG7M0qVE1v5Msx250509.shtml)
+
++ [中国驻尼泊尔使馆提醒旅尼中国公民近期避免前往尼印边境地区](https://news.cctv.com/2025/05/09/ARTIcD9BKTCyqoqQrWGs3Z9R250509.shtml)
+
