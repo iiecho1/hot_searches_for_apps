@@ -147,3 +147,7 @@
 
 + [2025数维杯C题 解题思路](https://blog.csdn.net/qq_64901455/article/details/147831087)
 
++ [python实现的音乐播放器](https://blog.csdn.net/cnds123/article/details/147785469)
+
++ [jquery+ajax+SpringBoot实现前后端分离技术](https://blog.csdn.net/myydnz/article/details/147805427)
+
