@@ -229,3 +229,27 @@
 
 + [“谁为关税买单”？美媒给出答案](https://news.cctv.com/2025/05/09/ARTIR7PUgIvPbbA5MOMiyIDH250509.shtml)
 
++ [美国贸易政策反复无常 德国工业产出面临再次受挫](https://news.cctv.com/2025/05/09/ARTIf660X6qogranUVkTVAyS250509.shtml)
+
++ [中国医疗队在塞拉利昂偏远地区举行多场义诊](https://news.cctv.com/2025/05/09/ARTIFzjF3YJo5B3LOkrJLV25250509.shtml)
+
++ [哈马斯与斡旋方举行两轮会谈 停火谈判暂无进展](https://news.cctv.com/2025/05/09/ARTI485kzfigdZ2taiGl2VLG250509.shtml)
+
++ [《喀秋莎》凝聚中俄深厚情谊](https://news.cctv.com/2025/05/09/ARTI5wVxDo8lUBxBGiXftqCU250509.shtml)
+
++ [视频画报 | 习近平主席国事访问为中俄关系发展注入新动能](https://news.cctv.com/2025/05/09/ARTI0KDX2neQJEQSaSjCfQ1n250509.shtml)
+
++ [影像速览！为中俄关系定向领航](https://news.cctv.com/2025/05/09/ARTIbGNM4OP4QMNzOH36ix9G250509.shtml)
+
++ [近闻·“风雨同渡、关山共越”，7句话读懂中俄关系](https://news.cctv.com/2025/05/09/ARTI5fCXZJgn4xygP8fEUeiD250509.shtml)
+
++ [微视频｜中俄世代友好的不竭源泉](https://news.cctv.com/2025/05/09/ARTIV5HRGNZgKDNK36VRon79250509.shtml)
+
++ [日本冲绳县议会要求彻底修改日美地位协定](https://news.cctv.com/2025/05/09/ARTI1SPSQ64CmYnnIvjEYCa0250509.shtml)
+
++ [四川省资阳市委原副书记、市政府原市长王善平被“双开”](https://news.cctv.com/2025/05/09/ARTIefJz8qxkUtaJhdU7MqVa250509.shtml)
+
++ [巴基斯坦称已摧毁77架印度无人机](https://news.cctv.com/2025/05/09/ARTIwmXS5lt1gSjn48uUplMp250509.shtml)
+
++ [美“电影关税”冲击好莱坞 学者斥其为政治操弄](https://news.cctv.com/2025/05/09/ARTI5gmfYB0amAK33nH35Cem250509.shtml)
+

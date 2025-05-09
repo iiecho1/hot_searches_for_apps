@@ -203,3 +203,11 @@
 
 + [IoT平台和AIoT平台的区别](https://blog.csdn.net/lcwdzl/article/details/147784700)
 
++ [Python基于Django和MySQL实现突发公共卫生事件舆情分析系统(有大屏功能)](https://blog.csdn.net/weixin_42163563/article/details/147804550)
+
++ [【C/C++】RPC与线程间通信：高效设计的关键选择](https://blog.csdn.net/YZJincsdn/article/details/147805111)
+
++ [华为云Flexus+DeepSeek征文｜从开通到应用：华为云DeepSeek-V3/R1商用服务深度体验](https://blog.csdn.net/weixin_62782025/article/details/147821539)
+
++ [FPGA_Verilog实现QSPI驱动，完成FLASH程序固化](https://blog.csdn.net/universaldata/article/details/147781984)
+
