@@ -261,3 +261,5 @@
 
 + [欧洲议会通过放宽车企碳排放规则修订案](https://news.cctv.com/2025/05/09/ARTIjSbzN6LrEONSmTt8pp8L250509.shtml)
 
++ [日本松下集团宣布将全球裁员约1万人](https://news.cctv.com/2025/05/09/ARTI69NQjoXvaRSs9ac3pXCh250509.shtml)
+
