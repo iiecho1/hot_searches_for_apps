@@ -253,3 +253,5 @@
 
 + [美“电影关税”冲击好莱坞 学者斥其为政治操弄](https://news.cctv.com/2025/05/09/ARTI5gmfYB0amAK33nH35Cem250509.shtml)
 
++ [我驻巴基斯坦大使馆提醒在巴中国公民加强安全防范](https://news.cctv.com/2025/05/09/ARTIcNGyDE9z7waMjMyrzKzL250509.shtml)
+
