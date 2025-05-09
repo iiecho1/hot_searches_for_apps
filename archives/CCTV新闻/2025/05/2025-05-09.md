@@ -219,3 +219,5 @@
 
 + [铭记世界反法西斯战场上的中国人](https://news.cctv.com/2025/05/09/ARTITBPJWut6rXYS9tIQnROB250509.shtml)
 
++ [G20召开贸易投资工作组第二次会议 多方反对美国单边关税措施](https://news.cctv.com/2025/05/09/ARTIM2mHEaxI4Ho4HRR5P621250509.shtml)
+

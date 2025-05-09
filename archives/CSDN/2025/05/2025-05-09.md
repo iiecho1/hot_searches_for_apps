@@ -185,3 +185,11 @@
 
 + [【计算机视觉】OpenCV项目实战：OpenCV_Position 项目深度解析：相机定位技术](https://blog.csdn.net/weixin_43988131/article/details/147775818)
 
++ [Web 架构之动静分离](https://blog.csdn.net/XiaoRungen/article/details/147759067)
+
++ [Qt/C++开发监控GB28181系统/警情订阅/目录订阅/报警事件上报/通道上下线](https://blog.csdn.net/feiyangqingyun/article/details/147788404)
+
++ [【AI 大模型】LlamaIndex 大模型开发框架 ② ( LlamaIndex 可配置的 LLM 类型 | LlamaIndex 可配置的 文本向量模型 类型 )](https://blog.csdn.net/han1202012/article/details/147781504)
+
++ [鸿蒙系统被抹黑的深层解析：技术、商业与地缘政治的复杂博弈-优雅草卓伊凡](https://blog.csdn.net/dujiangdu123/article/details/147743731)
+
