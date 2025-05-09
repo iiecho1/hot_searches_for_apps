@@ -221,3 +221,11 @@
 
 + [G20召开贸易投资工作组第二次会议 多方反对美国单边关税措施](https://news.cctv.com/2025/05/09/ARTIM2mHEaxI4Ho4HRR5P621250509.shtml)
 
++ [影像志｜新华社镜头下的卫国战争胜利日阅兵式](https://news.cctv.com/2025/05/09/ARTIJO9XE4lDI0l92A2vCjWx250509.shtml)
+
++ [总台记者观察丨日本大米价格持续上涨 今年秋季或更贵](https://news.cctv.com/2025/05/09/ARTIWv5whRYMMsN1k244FRlI250509.shtml)
+
++ [加沙超三成“社区厨房”断供 人道危机加剧](https://news.cctv.com/2025/05/09/ARTIywC5LYjn4SjBDMKv0phO250509.shtml)
+
++ [“谁为关税买单”？美媒给出答案](https://news.cctv.com/2025/05/09/ARTIR7PUgIvPbbA5MOMiyIDH250509.shtml)
+

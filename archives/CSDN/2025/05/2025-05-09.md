@@ -193,3 +193,13 @@
 
 + [鸿蒙系统被抹黑的深层解析：技术、商业与地缘政治的复杂博弈-优雅草卓伊凡](https://blog.csdn.net/dujiangdu123/article/details/147743731)
 
++ [【MySQL】存储引擎 - MEMORY详解](https://blog.csdn.net/2301_77954967/article/details/147806021)
+
++ [C#生成二维码和条形码](https://blog.csdn.net/A1138474382/article/details/147801042)
+
++ [驱动开发硬核特训 · Day 30（下篇）： 深入解析 lm48100q I2C 音频编解码器驱动模型（基于 i.MX8MP）](https://blog.csdn.net/Interview_TC/article/details/147804106)
+
++ [多模态认知革命：工业大模型如何读懂雷达与红外信号](https://blog.csdn.net/yuntongliangda/article/details/147808269)
+
++ [IoT平台和AIoT平台的区别](https://blog.csdn.net/lcwdzl/article/details/147784700)
+
