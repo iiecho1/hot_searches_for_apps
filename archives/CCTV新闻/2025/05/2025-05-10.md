@@ -161,3 +161,5 @@
 
 + [欧盟气候机构：今年4月是有记录以来第二热的4月](https://news.cctv.com/2025/05/08/ARTIc2BgQ2jXzkglAd65nQwJ250508.shtml)
 
++ [巴基斯坦军方：印度袭击已致巴方33人死亡](https://news.cctv.com/2025/05/10/ARTIn1nJv9Iob4sOYBMlvp8n250510.shtml)
+
