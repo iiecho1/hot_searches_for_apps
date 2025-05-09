@@ -153,3 +153,13 @@
 
 + [JavaScript ES6+ 最佳实践](https://blog.csdn.net/chen_jigang/article/details/147770206)
 
++ [基于Piecewise Jerk Speed Optimizer的速度规划算法(附ROS C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/147723091)
+
++ [Python 异常处理与文件 IO 操作：构建健壮的数据处理体系（3/10）](https://blog.csdn.net/beautifulmemory/article/details/147793965)
+
++ [生成式AI：技术解析与应用实践（详）](https://blog.csdn.net/2501_91956003/article/details/147781724)
+
++ [Docker容器网络架构深度解析与技术实践指南——基于Linux内核特性的企业级容器网络实现](https://blog.csdn.net/2401_86478612/article/details/147766374)
+
++ [SpringCloud服务拆分：Nacos服务注册中心 + LoadBalancer服务负载均衡使用](https://blog.csdn.net/weixin_74879735/article/details/147771771)
+

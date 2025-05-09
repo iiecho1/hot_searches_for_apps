@@ -191,3 +191,11 @@
 
 + [时政新闻眼丨中俄元首今年首次面对面会谈，达成哪些新的重要共识？](https://news.cctv.com/2025/05/09/ARTIf1uXdMAOG4PoFWNl8Zah250509.shtml)
 
++ [习言道｜新时代的中俄关系更加从容自信、稳定坚韧](https://news.cctv.com/2025/05/09/ARTIG6Yu2oSbBuUzxyTMZhvr250509.shtml)
+
++ [第一观察｜大国领袖的胸怀担当 以史鉴今的真理力量](https://news.cctv.com/2025/05/09/ARTIjqrInhYWQhvvtlkamIIf250509.shtml)
+
++ [丹麦召见美外交官 强调“不能容忍”美在格陵兰岛间谍活动](https://news.cctv.com/2025/05/09/ARTILLXZBO84Ew0OxQn8Dd4l250509.shtml)
+
++ [洛杉矶奥组委确认2028年奥运会和残奥会开闭幕式场地](https://news.cctv.com/2025/05/09/ARTIBmLx4xaj45MttX06pyjz250509.shtml)
+
