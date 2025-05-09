@@ -179,3 +179,9 @@
 
 + [前端三大件--HTML](https://blog.csdn.net/2201_75786273/article/details/147766287)
 
++ [TensorFlow深度学习实战（15）——编码器-解码器架构](https://blog.csdn.net/LOVEmy134611/article/details/147810105)
+
++ [【Rust测试】Rust代码测试方法详解与应用实战](https://blog.csdn.net/littlefun591/article/details/147798559)
+
++ [【计算机视觉】OpenCV项目实战：OpenCV_Position 项目深度解析：相机定位技术](https://blog.csdn.net/weixin_43988131/article/details/147775818)
+
