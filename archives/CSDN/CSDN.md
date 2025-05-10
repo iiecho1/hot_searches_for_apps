@@ -163,3 +163,7 @@
 
 + [解构C++高级命名空间：构建空间作用域·控制兼容](https://blog.csdn.net/Dovis5884/article/details/147500623)
 
++ [遗传算法（GA）](https://blog.csdn.net/2401_88885149/article/details/147818835)
+
++ [LabVIEW多通道并行数据存储系统](https://blog.csdn.net/bjcyck/article/details/147846943)
+

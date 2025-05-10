@@ -187,3 +187,9 @@
 
 + [俄罗斯举行纪念苏联伟大卫国战争胜利80周年阅兵式](https://photo.cctv.com/2025/05/10/PHOADk4MQsFzUPlIEftnjUTU250510.shtml)
 
++ [外媒：印度32个机场暂停起降](https://news.cctv.com/2025/05/10/ARTIoHwnvQxjl8coF4RzKOHP250510.shtml)
+
++ [女足世界杯将从32支球队扩军至48支](https://news.cctv.com/2025/05/10/ARTIUWQEMEzMjpsm3H0QyG7b250510.shtml)
+
++ [被取消总统候选人资格 金文洙：将采取政治法律措施讨回公道](https://news.cctv.com/2025/05/10/ARTIAhHMO1o8U44RHig2D4j7250510.shtml)
+
