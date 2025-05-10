@@ -163,3 +163,9 @@
 
 + [巴基斯坦军方：印度袭击已致巴方33人死亡](https://news.cctv.com/2025/05/10/ARTIn1nJv9Iob4sOYBMlvp8n250510.shtml)
 
++ [巴基斯坦称回应挑衅 对印度发起军事行动](https://news.cctv.com/2025/05/10/ARTIhndhNJyQ2iVXXuwKiBls250510.shtml)
+
++ [保加利亚总统提议就加入欧元区举行公投](https://news.cctv.com/2025/05/10/ARTIWwSl8fxlyPa8ejU1RODf250510.shtml)
+
++ [伊朗外长：伊朗同意11日举行伊美第四轮间接会谈](https://news.cctv.com/2025/05/10/ARTIPR0eQVbxoOFChgbCYkLu250510.shtml)
+

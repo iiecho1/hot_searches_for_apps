@@ -67,3 +67,5 @@
 
 + [【东方】Prism Heart【蓬莱人形 Ver.MMD】](https://m.acfun.cn/v/?ac=47239040)
 
++ [从不参加活动？59.9元自助小火锅，县城加盟店这么“倨傲”](https://m.acfun.cn/v/?ac=47244760)
+

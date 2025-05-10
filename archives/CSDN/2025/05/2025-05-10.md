@@ -155,3 +155,7 @@
 
 + [AI原生手机：三大技术阵营的终极对决与未来展望](https://blog.csdn.net/weixin_48639457/article/details/147780942)
 
++ [如何在金仓数据库KingbaseES中新建一个数据库？新建一个表？给表添加一个字段？](https://blog.csdn.net/qq_44866828/article/details/147775848)
+
++ [Python从0到100（九十七）：VisionTransformer（ViT）在时间序列行为识别中的应用](https://blog.csdn.net/weixin_51390582/article/details/147654063)
+
