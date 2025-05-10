@@ -107,3 +107,19 @@
 
 + [霸王茶姬微信小程序自动化签到系统完整实现&解析](https://blog.csdn.net/q2642346535/article/details/147835846)
 
++ [AIGC时代大模型幻觉问题深度治理：技术体系、工程实践与未来演进](https://blog.csdn.net/qq_32682301/article/details/147860673)
+
++ [深度学习Y7周：YOLOv8训练自己数据集](https://blog.csdn.net/Radiantsss/article/details/147752741)
+
++ [基于OpenCV的人脸识别：EigenFaces算法](https://blog.csdn.net/zdx2585503940/article/details/147837429)
+
++ [LVDS系列11：Xilinx Ultrascale系可编程输入延迟(一)](https://blog.csdn.net/weixin_38828382/article/details/147812137)
+
++ [OpenHarmony平台驱动开发（十一），PIN](https://blog.csdn.net/benco1986/article/details/147835837)
+
++ [FPGA 40 ，基于 RGMII 的 ARP 与 UDP 协议栈实战：从物理层到传输层的网络通信及 Wireshark 网络分析工具（ FPGA网络通信子系统 ）](https://blog.csdn.net/weixin_65793170/article/details/147547721)
+
++ [k8s监控方案实践（二）：集成Alertmanager告警与钉钉Webhook通知](https://blog.csdn.net/wfcxhit/article/details/147827274)
+
++ [最近闹得很大的B站CPU分流，被拦截插件拦截上千条技术分析辟谣](https://blog.csdn.net/m0_48069349/article/details/147783338)
+
