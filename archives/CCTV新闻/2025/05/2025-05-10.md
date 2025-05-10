@@ -207,3 +207,9 @@
 
 + [联合国儿基会批美以“新加沙援助方案”：只会“加重苦难”](https://news.cctv.com/2025/05/10/ARTIksdhWH8gRudIhD47b2xj250510.shtml)
 
++ [欧盟发表声明支持乌克兰30天停火呼吁](https://news.cctv.com/2025/05/10/ARTIZgjLo8CyOHF1N0BGeZHw250510.shtml)
+
++ [美关税政策重创旅游业 美媒：特朗普政府“自作自受”](https://news.cctv.com/2025/05/10/ARTIhZj7PpvGbOyANa6GMMXP250510.shtml)
+
++ [特朗普“软硬兼施”要求降息 美联储再次“按兵不动”](https://news.cctv.com/2025/05/10/ARTIICSZfrW7Ganabauxm9Qx250510.shtml)
+

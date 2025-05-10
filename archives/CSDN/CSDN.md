@@ -187,3 +187,13 @@
 
 + [深度学习Y7周：YOLOv8训练自己数据集](https://blog.csdn.net/Radiantsss/article/details/147752741)
 
++ [【相机标定】OpenCV 相机标定中的重投影误差与角点三维坐标计算详解](https://blog.csdn.net/qq_41140324/article/details/147836437)
+
++ [七、Hadoop 历史追踪、数据安全阀与 MapReduce初体验](https://blog.csdn.net/2401_83830408/article/details/147835261)
+
++ [【论文阅读】Attentive Collaborative Filtering:](https://blog.csdn.net/2301_81170529/article/details/147773400)
+
++ [2025数维杯数学建模挑战赛A题【 蹦床运动的力学行为分析】思路详解](https://blog.csdn.net/smppbzyc/article/details/147819375)
+
++ [OpenHarmony平台驱动开发（十一），PIN](https://blog.csdn.net/benco1986/article/details/147835837)
+
