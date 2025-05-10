@@ -25,3 +25,27 @@
 
 + [享界 S9 旅行车谍照曝光：体形修长，配问界 M8 同款尾灯](https://m.ithome.com/html/851617.htm)
 
++ [雷军时隔月余首度发声：系小米创办以来最艰难的一段时间，感谢大家的关心和支持](https://m.ithome.com/html/851915.htm)
+
++ [京东宣布首创外卖行业“最严”准入标准：发现无堂食餐厅将奖励 40 元饭卡](https://m.ithome.com/html/851865.htm)
+
++ [阿维塔 12 风洞测试结果出炉：不同工况风阻系数 0.217-0.2973](https://m.ithome.com/html/851871.htm)
+
++ [小米盒子 5/5 Max 系列发布：杜比视界全景声、AI 小爱同学，299 元起](https://m.ithome.com/html/851890.htm)
+
++ [消息称上海微软大裁员，赔偿金 N+8](https://m.ithome.com/html/851867.htm)
+
++ [一个蛋卷铁盒就能提速，微信官方给出聊天记录迁移小妙招](https://m.ithome.com/html/851825.htm)
+
++ [华为 Petal 花瓣地图 5.0 正式版本上线：适配 Pura X 折叠屏手机、新增“徒步地图”等](https://m.ithome.com/html/851862.htm)
+
++ [限时 11.58 万元起（赠 23 扬声器 + VIP 座椅），吉利银河星耀 8 轿车上市](https://m.ithome.com/html/851881.htm)
+
++ [B站回应 PC 端收集数据被浏览器第三方插件拦截：不存在占用资源达到其他目的的行为](https://m.ithome.com/html/851831.htm)
+
++ [比亚迪两三轮车电池被曝 5 月 17 日发布，发力电动自行车市场](https://m.ithome.com/html/851885.htm)
+
++ [马云现身阿里音乐会，挥手致意引发全场热烈掌声](https://m.ithome.com/html/851887.htm)
+
++ [索尼 Xperia 1 VII 手机抢先看：骁龙 8 至尊版芯片、5000mAh 电池、4 次安卓大版本更新](https://m.ithome.com/html/851914.htm)
+

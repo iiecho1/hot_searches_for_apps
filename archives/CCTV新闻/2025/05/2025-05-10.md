@@ -213,3 +213,7 @@
 
 + [特朗普“软硬兼施”要求降息 美联储再次“按兵不动”](https://news.cctv.com/2025/05/10/ARTIICSZfrW7Ganabauxm9Qx250510.shtml)
 
++ [通讯｜铭记历史 共创未来](https://news.cctv.com/2025/05/10/ARTIeqkTMbJv8x8f4f24mVRJ250510.shtml)
+
++ [今日谈：永远不能忘却的纪念](https://news.cctv.com/2025/05/10/ARTIaKHUxwCpQvUYtxM5FWFt250510.shtml)
+

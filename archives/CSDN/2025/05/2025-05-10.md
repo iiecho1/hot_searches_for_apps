@@ -197,3 +197,11 @@
 
 + [OpenHarmony平台驱动开发（十一），PIN](https://blog.csdn.net/benco1986/article/details/147835837)
 
++ [PyTorch量化感知训练技术：模型压缩与高精度边缘部署实践](https://blog.csdn.net/m0_46510245/article/details/147848019)
+
++ [【金仓数据库征文】政府项目数据库迁移：从MySQL 5.7到KingbaseES的蜕变之路](https://blog.csdn.net/beautifulmemory/article/details/147850217)
+
++ [Dia浏览器：AI驱动浏览网页，究竟怎么样？（含注册申请体验流程）](https://blog.csdn.net/qq_51646682/article/details/147850193)
+
++ [《企业级前端部署方案：Jenkins+MinIO+SSH+Gitee+Jenkinsfile自动化实践》](https://blog.csdn.net/weixin_50902636/article/details/147807116)
+
