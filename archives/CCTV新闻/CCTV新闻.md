@@ -193,3 +193,7 @@
 
 + [被取消总统候选人资格 金文洙：将采取政治法律措施讨回公道](https://news.cctv.com/2025/05/10/ARTIAhHMO1o8U44RHig2D4j7250510.shtml)
 
++ [影像速览！纪念伟大胜利 捍卫公平正义](https://news.cctv.com/2025/05/10/ARTI4nXvKX3S91FbbHjJHMJC250510.shtml)
+
++ [壹视界·微视频｜习主席这样讲述“战争与和平”](https://news.cctv.com/2025/05/10/ARTI0oxokOd7hucnOYgkeyui250510.shtml)
+
