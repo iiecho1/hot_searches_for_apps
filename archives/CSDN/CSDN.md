@@ -131,3 +131,7 @@
 
 + [低秩适应（LoRA）与量化LoRA（QLoRA）技术解析](https://blog.csdn.net/ngadminq/article/details/147795363)
 
++ [Redis-商品缓存](https://blog.csdn.net/m0_73618358/article/details/147755793)
+
++ [【Docker】Docker Compose方式搭建分布式内存数据库(Redis)集群](https://blog.csdn.net/qazcxh/article/details/147861085)
+
