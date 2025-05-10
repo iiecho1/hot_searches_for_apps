@@ -135,3 +135,5 @@
 
 + [【Docker】Docker Compose方式搭建分布式内存数据库(Redis)集群](https://blog.csdn.net/qazcxh/article/details/147861085)
 
++ [如何阅读、学习 Linux 2 内核源代码 ？](https://blog.csdn.net/belldeep/article/details/147855214)
+
