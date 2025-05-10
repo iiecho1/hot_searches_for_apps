@@ -129,3 +129,5 @@
 
 + [用Coze打造内容自动化工作流：公众号一键转小红书图文实战](https://blog.csdn.net/c18213590220/article/details/147776680)
 
++ [低秩适应（LoRA）与量化LoRA（QLoRA）技术解析](https://blog.csdn.net/ngadminq/article/details/147795363)
+
