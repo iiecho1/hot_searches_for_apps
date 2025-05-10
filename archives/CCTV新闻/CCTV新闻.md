@@ -241,3 +241,9 @@
 
 + [巴基斯坦外长：印巴已同意立即停火](https://news.cctv.com/2025/05/10/ARTItMtZwRdkGjVCITAhXPpB250510.shtml)
 
++ [美法官：特朗普政府不得继续推进大规模裁员或重组计划](https://news.cctv.com/2025/05/10/ARTItYO6ad44U9FwREzOdrPT250510.shtml)
+
++ [本轮巴以冲突已致加沙地带52810人死亡](https://news.cctv.com/2025/05/10/ARTIStp8mWimbBWbrZ2WrB7E250510.shtml)
+
++ [印巴军方将于12日再次对话 双方军事热线联系已启动](https://news.cctv.com/2025/05/10/ARTIQxfdArQ4yyLjrKm1r91u250510.shtml)
+
