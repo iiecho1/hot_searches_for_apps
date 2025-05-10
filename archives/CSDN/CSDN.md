@@ -211,3 +211,9 @@
 
 + [2025年第十届数维杯大学生数学建模挑战赛C题国奖大佬思路助攻](https://blog.csdn.net/excnies/article/details/147842917)
 
++ [一文读懂大规模语言模型：概念、发展](https://blog.csdn.net/taogumo/article/details/147796341)
+
++ [MySQL 安全架构：从渗透测试到合规审计](https://blog.csdn.net/qq_17589751/article/details/147831140)
+
++ [【计网】TCP/IP四层模型（一）](https://blog.csdn.net/2303_80187476/article/details/147788912)
+

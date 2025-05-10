@@ -29,3 +29,13 @@
 
 + [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
 
++ [Peterande/D-FINE](https://github.com/Peterande/D-FINE)
+
++ [shane-mason/FieldStation42](https://github.com/shane-mason/FieldStation42)
+
++ [wolfpld/tracy](https://github.com/wolfpld/tracy)
+
++ [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+
++ [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
+
