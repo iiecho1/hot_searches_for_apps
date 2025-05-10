@@ -167,3 +167,5 @@
 
 + [LabVIEW多通道并行数据存储系统](https://blog.csdn.net/bjcyck/article/details/147846943)
 
++ [自研MCU芯片闪存驱动的实现：OpenOCD详细过程记录与操作指南](https://blog.csdn.net/ANSILIC/article/details/147781519)
+

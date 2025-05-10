@@ -197,3 +197,5 @@
 
 + [壹视界·微视频｜习主席这样讲述“战争与和平”](https://news.cctv.com/2025/05/10/ARTI0oxokOd7hucnOYgkeyui250510.shtml)
 
++ [“感谢人民海军保驾护航，身为中国人感到万分自豪！”](https://news.cctv.com/2025/05/10/ARTIy9GkXw9qy8acZC1joLCa250510.shtml)
+
