@@ -181,3 +181,9 @@
 
 + [使用Jmeter对AI模型服务进行压力测试](https://blog.csdn.net/weixin_52208686/article/details/147783472)
 
++ [【SpringBoot】从环境准备到创建SpringBoot项目的全面解析.](https://blog.csdn.net/2302_81886858/article/details/147785025)
+
++ [Android平台FFmpeg音视频开发深度指南](https://blog.csdn.net/qq_35970872/article/details/147850034)
+
++ [深度学习Y7周：YOLOv8训练自己数据集](https://blog.csdn.net/Radiantsss/article/details/147752741)
+
