@@ -235,3 +235,9 @@
 
 + [总台记者观察丨美以在中东问题上分歧渐显 以色列或加强单边行动](https://news.cctv.com/2025/05/10/ARTIHpxnrDPzQyyeNE2Lt9a4250510.shtml)
 
++ [乌外长：乌方准备无条件停火至少30天](https://news.cctv.com/2025/05/10/ARTIcAYD85PM9OAxmSpzQYPO250510.shtml)
+
++ [印度证实印巴已同意停火](https://news.cctv.com/2025/05/10/ARTI1pRKcyCsWIDlDUl77oZM250510.shtml)
+
++ [巴基斯坦外长：印巴已同意立即停火](https://news.cctv.com/2025/05/10/ARTItMtZwRdkGjVCITAhXPpB250510.shtml)
+

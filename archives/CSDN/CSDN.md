@@ -223,3 +223,5 @@
 
 + [android studio项目gradle从3.0.0升级到7.4.2的详细步骤](https://blog.csdn.net/weixin_48336327/article/details/147809401)
 
++ [霸王茶姬微信小程序自动化签到系统完整实现&解析](https://blog.csdn.net/q2642346535/article/details/147835846)
+
