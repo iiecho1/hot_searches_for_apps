@@ -205,3 +205,9 @@
 
 + [《企业级前端部署方案：Jenkins+MinIO+SSH+Gitee+Jenkinsfile自动化实践》](https://blog.csdn.net/weixin_50902636/article/details/147807116)
 
++ [最新Spring Security实战教程（十四）OAuth2.0精讲 - 四种授权模式与资源服务器搭建](https://blog.csdn.net/lhmyy521125/article/details/147801218)
+
++ [2025数维杯数学建模B题完整限量论文：马拉松经济的高质量发展思路探索](https://blog.csdn.net/weixin_45499067/article/details/147827508)
+
++ [2025年第十届数维杯大学生数学建模挑战赛C题国奖大佬思路助攻](https://blog.csdn.net/excnies/article/details/147842917)
+

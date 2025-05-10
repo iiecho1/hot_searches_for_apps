@@ -217,3 +217,17 @@
 
 + [今日谈：永远不能忘却的纪念](https://news.cctv.com/2025/05/10/ARTIaKHUxwCpQvUYtxM5FWFt250510.shtml)
 
++ [巴基斯坦军方：印度导弹袭击巴首都附近空军基地](https://photo.cctv.com/2025/05/10/PHOARCKo79kiZuGrZ4n7vjXl250510.shtml)
+
++ [习主席引用的一句歌词，温暖了俄罗斯人民的心](https://news.cctv.com/2025/05/10/ARTIV9Am8fqqWEqgzxbk3I1C250510.shtml)
+
++ [一见·真情不变！习主席致敬老战士的动人瞬间](https://news.cctv.com/2025/05/10/ARTIayucHA3IUjZxKVAtQ7fZ250510.shtml)
+
++ [巴基斯坦总理：已强力回应印度挑衅 精准打击其军事设施](https://news.cctv.com/2025/05/10/ARTI3a1LqlKYYrjgGIwoF6qM250510.shtml)
+
++ [站在历史正确一边、站在公平正义一边——习近平主席在俄罗斯媒体发表的署名文章引发国际社会热烈反响](https://news.cctv.com/2025/05/10/ARTI9AIUdKsDdPuqZW0KNixW250510.shtml)
+
++ [推动中俄关系迈向更加成熟和坚韧的明天](https://news.cctv.com/2025/05/10/ARTIElKesXMsk4aH2bEfUILz250510.shtml)
+
++ [中美经贸高层会谈在瑞士日内瓦开始举行](https://news.cctv.com/2025/05/10/ARTIxV8wZroLpinuRfVeFkt1250510.shtml)
+
