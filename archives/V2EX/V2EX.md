@@ -21,3 +21,7 @@
 
 + [失业半年了找不到工作天要塌了](https://www.v2ex.com/t/1130681)
 
++ [家中老人一次意外的股骨颈骨折，花费了 10 万的医疗费用](https://www.v2ex.com/t/1130697)
+
++ [纯 macOS 原生， surge 和 stash 哪个更好额](https://www.v2ex.com/t/1130658)
+

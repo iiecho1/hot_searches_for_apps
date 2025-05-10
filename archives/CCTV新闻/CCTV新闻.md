@@ -169,3 +169,21 @@
 
 + [伊朗外长：伊朗同意11日举行伊美第四轮间接会谈](https://news.cctv.com/2025/05/10/ARTIPR0eQVbxoOFChgbCYkLu250510.shtml)
 
++ [“关税风暴”袭来 可乐也难置身“税外”](https://news.cctv.com/2025/05/10/ARTIPyGC8GdlgNjIbzKa5jqs250510.shtml)
+
++ [平等对话是解决大国间问题的正确之道](https://news.cctv.com/2025/05/10/ARTIMIDQYBcprmDXj7f3KtNw250510.shtml)
+
++ [铭记二战历史 传承深厚友谊](https://news.cctv.com/2025/05/10/ARTI5ea7ec1HMVQGgw4zYrjl250510.shtml)
+
++ [全面提升中俄关系的高度、维度、韧度](https://news.cctv.com/2025/05/10/ARTI43nm8gpCt8YrEHGLvhn8250510.shtml)
+
++ [李在明正式登记参选下届韩国总统](https://news.cctv.com/2025/05/10/ARTItYnjUdaavrgA8yecieyR250510.shtml)
+
++ [受美关税政策影响 日本和牛出口雪上加霜](https://news.cctv.com/2025/05/10/ARTIfAnOnj1vHmeKCQjEv1bw250510.shtml)
+
++ [俄符拉迪沃斯托克：纪念苏联伟大卫国战争胜利80周年](https://photo.cctv.com/2025/05/10/PHOAmFfyzMXzORyBxcsbONU9250510.shtml)
+
++ [中国人民解放军三军仪仗队参加纪念苏联伟大卫国战争胜利80周年阅兵式](https://photo.cctv.com/2025/05/10/PHOAYepq9JKo8fyUpndIRzwB250510.shtml)
+
++ [俄罗斯举行纪念苏联伟大卫国战争胜利80周年阅兵式](https://photo.cctv.com/2025/05/10/PHOADk4MQsFzUPlIEftnjUTU250510.shtml)
+
