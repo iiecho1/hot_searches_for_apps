@@ -169,3 +169,15 @@
 
 + [自研MCU芯片闪存驱动的实现：OpenOCD详细过程记录与操作指南](https://blog.csdn.net/ANSILIC/article/details/147781519)
 
++ [【现代深度学习技术】注意力机制04：Bahdanau注意力](https://blog.csdn.net/Morse_Chen/article/details/147846865)
+
++ [【 Redis | 实战篇 缓存 】](https://blog.csdn.net/2402_88700528/article/details/147835819)
+
++ [Vue3 + Node.js 实现客服实时聊天系统（WebSocket + Socket.IO 详解）](https://blog.csdn.net/x15514104477/article/details/147804445)
+
++ [前端三大件--HTML](https://blog.csdn.net/2201_75786273/article/details/147766287)
+
++ [基于ESP32控制的机器人摄像头车](https://blog.csdn.net/weixin_51141489/article/details/147849007)
+
++ [使用Jmeter对AI模型服务进行压力测试](https://blog.csdn.net/weixin_52208686/article/details/147783472)
+
