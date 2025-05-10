@@ -229,3 +229,9 @@
 
 + [挑战用豆包教我学Java01天](https://blog.csdn.net/2301_80142503/article/details/147772037)
 
++ [Spring Boot快速开发：从零开始搭建一个企业级应用](https://blog.csdn.net/shrgegrb/article/details/147838060)
+
++ [2025 年第十届数维杯大学生数学建模挑战赛题目](https://blog.csdn.net/2503_91991019/article/details/147835272)
+
++ [【Linux实践系列】：进程间通信：万字详解共享内存实现通信](https://blog.csdn.net/2301_80260194/article/details/147851752)
+
