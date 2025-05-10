@@ -217,3 +217,9 @@
 
 + [【计网】TCP/IP四层模型（一）](https://blog.csdn.net/2303_80187476/article/details/147788912)
 
++ [经验：从CAN到以太网为主的车载网络架构升级](https://blog.csdn.net/weixin_62244995/article/details/147799906)
+
++ [使用JMeter 编写的测试计划的多个线程组如何生成独立的线程组报告](https://blog.csdn.net/z284747/article/details/147771860)
+
++ [android studio项目gradle从3.0.0升级到7.4.2的详细步骤](https://blog.csdn.net/weixin_48336327/article/details/147809401)
+
