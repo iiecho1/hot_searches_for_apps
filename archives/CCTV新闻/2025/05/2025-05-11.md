@@ -171,3 +171,7 @@
 
 + [为世界和平稳定注入更多正能量（国际论坛）](https://news.cctv.com/2025/05/11/ARTIw6JnNjVHZrwkBqtKdodQ250511.shtml)
 
++ [普京提议无条件重启俄乌谈判](https://news.cctv.com/2025/05/11/ARTIXP6kto9YNzS4qlO6uabm250511.shtml)
+
++ [联合国秘书长欢迎印巴达成停火协议](https://news.cctv.com/2025/05/11/ARTI2sf7JSDsIcoN9BXwY2Ws250511.shtml)
+
