@@ -163,3 +163,7 @@
 
 + [论文解读：MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion](https://blog.csdn.net/qq_35831906/article/details/147867978)
 
++ [PaperCoder：一种利用大型语言模型自动生成机器学习论文代码的框架](https://blog.csdn.net/m0_46510245/article/details/147869130)
+
++ [systemd vs crontab：Linux 自动化运行系统的全面对比](https://blog.csdn.net/qq_59002866/article/details/147789743)
+

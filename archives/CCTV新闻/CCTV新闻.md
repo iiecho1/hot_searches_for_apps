@@ -183,3 +183,7 @@
 
 + [德国将不再公布对乌克兰军事支持的细节](https://news.cctv.com/2025/05/11/ARTIBCvXaSnTMgFG50lYelYg250511.shtml)
 
++ [新研究将玉米废料转化成低成本糖用于生物燃料生产](https://news.cctv.com/2025/05/11/ARTI2W3Bq3VWF0ZP4mHqXe1D250511.shtml)
+
++ [纠正对二战亚洲战场的“记忆不对称”（伟大胜利·历史贡献）](https://news.cctv.com/2025/05/11/ARTIy58W5rqAwnkbrXucNDkz250511.shtml)
+
