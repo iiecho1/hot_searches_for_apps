@@ -41,3 +41,5 @@
 
 + [Gemini 2.5 Pro 代码水平已经能与腾讯 T7 相媲美了](https://www.v2ex.com/t/1130938)
 
++ [我把老爸种的枇杷树砍了](https://www.v2ex.com/t/1130950)
+
