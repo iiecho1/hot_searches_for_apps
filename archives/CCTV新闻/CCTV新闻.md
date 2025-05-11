@@ -195,3 +195,7 @@
 
 + [视频画报｜以史为鉴 共创未来——习近平主席俄罗斯之行精彩瞬间](https://news.cctv.com/2025/05/11/ARTIgolnMCAgzhCBErV5Wdcn250511.shtml)
 
++ [全球瞭望丨美媒：美对华“脱钩”代价将比预期更糟](https://news.cctv.com/2025/05/11/ARTIcdr1QZx6r9abdq3LPixd250511.shtml)
+
++ [共商中俄合作大计 维护国际公平正义](https://news.cctv.com/2025/05/11/ARTImy4gIwRcUdIUjK56XDkO250511.shtml)
+

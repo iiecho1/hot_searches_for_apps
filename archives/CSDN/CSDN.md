@@ -171,3 +171,7 @@
 
 + [全国大学生智能汽车竞赛专家组线上会议（2025,5,11）](https://blog.csdn.net/zhuoqingjoking97298/article/details/147870843)
 
++ [【Linux】冯诺依曼体系结构和操作系统的理解](https://blog.csdn.net/apple_61439616/article/details/147851769)
+
++ [基于CNN卷积神经网络的带频偏QPSK调制信号检测识别算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/147857540)
+
