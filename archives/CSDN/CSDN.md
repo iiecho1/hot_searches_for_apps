@@ -187,3 +187,7 @@
 
 + [AI日报 · 2025年5月09日｜OpenAI Deep Research 上线 GitHub Connector Beta](https://blog.csdn.net/He_r_o/article/details/147811989)
 
++ [Spring Boot快速开发：从零开始搭建一个企业级应用](https://blog.csdn.net/shrgegrb/article/details/147838060)
+
++ [深入理解 Vue 全局导航守卫：分类、作用与参数详解](https://blog.csdn.net/BANaanaa/article/details/147831436)
+
