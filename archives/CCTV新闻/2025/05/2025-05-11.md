@@ -175,3 +175,5 @@
 
 + [联合国秘书长欢迎印巴达成停火协议](https://news.cctv.com/2025/05/11/ARTI2sf7JSDsIcoN9BXwY2Ws250511.shtml)
 
++ [俄罗斯圣彼得堡举办胡瓜鱼节](https://photo.cctv.com/2025/05/11/PHOA6nZCdQkES9F9HMAlIqCS250511.shtml)
+

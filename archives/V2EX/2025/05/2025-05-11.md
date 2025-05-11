@@ -37,3 +37,7 @@
 
 + [很久没回国了，现在国内建设怎么样？](https://www.v2ex.com/t/1130924)
 
++ [关于我在消费主义陷阱下购买的 Mac mini](https://www.v2ex.com/t/1130916)
+
++ [Gemini 2.5 Pro 代码水平已经能与腾讯 T7 相媲美了](https://www.v2ex.com/t/1130938)
+
