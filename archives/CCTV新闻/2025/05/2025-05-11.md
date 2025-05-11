@@ -199,3 +199,5 @@
 
 + [共商中俄合作大计 维护国际公平正义](https://news.cctv.com/2025/05/11/ARTImy4gIwRcUdIUjK56XDkO250511.shtml)
 
++ [马克龙：俄方提议俄乌直接谈判“只是第一步”](https://news.cctv.com/2025/05/11/ARTIvRi9CqzCMxGoyzWp1ENm250511.shtml)
+
