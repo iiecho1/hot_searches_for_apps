@@ -191,3 +191,9 @@
 
 + [深入理解 Vue 全局导航守卫：分类、作用与参数详解](https://blog.csdn.net/BANaanaa/article/details/147831436)
 
++ [【大模型】AI智能体Coze 知识库从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/147374448)
+
++ [基于Spring Boot + Vue的高校心理教育辅导系统](https://blog.csdn.net/m0_58147884/article/details/147859274)
+
++ [2025数维杯c题国奖思路](https://blog.csdn.net/2503_91991019/article/details/147816092)
+
