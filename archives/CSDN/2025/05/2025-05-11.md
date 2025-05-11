@@ -181,3 +181,9 @@
 
 + [前端npm包发布流程：从准备到上线的完整指南](https://blog.csdn.net/qq_53123067/article/details/147805371)
 
++ [场快订场馆预定平台开源说明](https://blog.csdn.net/laodanqiu/article/details/147803021)
+
++ [Threejs粒子（ts+vue版）](https://blog.csdn.net/2301_80080127/article/details/147806079)
+
++ [AI日报 · 2025年5月09日｜OpenAI Deep Research 上线 GitHub Connector Beta](https://blog.csdn.net/He_r_o/article/details/147811989)
+

@@ -201,3 +201,7 @@
 
 + [马克龙：俄方提议俄乌直接谈判“只是第一步”](https://news.cctv.com/2025/05/11/ARTIvRi9CqzCMxGoyzWp1ENm250511.shtml)
 
++ [金色相框丨习近平主席俄罗斯之行](https://news.cctv.com/2025/05/11/ARTIIU8n6eBHehb98IVJ2nGH250511.shtml)
+
++ [携手为人类前途命运争取更加光明的未来——国际社会高度评价习近平主席俄罗斯之行](https://news.cctv.com/2025/05/11/ARTIfKvGT6dKPm82tFlI4wsh250511.shtml)
+
