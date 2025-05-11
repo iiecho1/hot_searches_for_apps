@@ -187,3 +187,11 @@
 
 + [纠正对二战亚洲战场的“记忆不对称”（伟大胜利·历史贡献）](https://news.cctv.com/2025/05/11/ARTIy58W5rqAwnkbrXucNDkz250511.shtml)
 
++ [【讲习所·中国与世界】习近平强调深化中俄关系是应有之义、必然选择、时代呼唤](https://news.cctv.com/2025/05/11/ARTIiAyfQEi8Zk6LRSzyodm0250511.shtml)
+
++ [第四轮核问题谈判在即 伊朗外长批评美国立场矛盾](https://news.cctv.com/2025/05/11/ARTI2HQuztN08CWM7qdNLFR9250511.shtml)
+
++ [从“稳市场”到“育动能”：国际舆论点赞中国金融政策双轨发力](https://news.cctv.com/2025/05/11/ARTIYaEDrbW4ufoMbZELTDRP250511.shtml)
+
++ [视频画报｜以史为鉴 共创未来——习近平主席俄罗斯之行精彩瞬间](https://news.cctv.com/2025/05/11/ARTIgolnMCAgzhCBErV5Wdcn250511.shtml)
+

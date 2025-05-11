@@ -167,3 +167,7 @@
 
 + [systemd vs crontab：Linux 自动化运行系统的全面对比](https://blog.csdn.net/qq_59002866/article/details/147789743)
 
++ [【金仓数据库征文】学校AI数字人：从Sql Server到KingbaseES的数据库转型之路](https://blog.csdn.net/beautifulmemory/article/details/147851325)
+
++ [全国大学生智能汽车竞赛专家组线上会议（2025,5,11）](https://blog.csdn.net/zhuoqingjoking97298/article/details/147870843)
+
