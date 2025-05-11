@@ -43,3 +43,5 @@
 
 + [我把老爸种的枇杷树砍了](https://www.v2ex.com/t/1130950)
 
++ [许个愿，号召全站抵制 imgur](https://www.v2ex.com/t/1130961)
+

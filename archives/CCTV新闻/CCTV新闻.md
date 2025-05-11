@@ -177,3 +177,5 @@
 
 + [俄罗斯圣彼得堡举办胡瓜鱼节](https://photo.cctv.com/2025/05/11/PHOA6nZCdQkES9F9HMAlIqCS250511.shtml)
 
++ [斯里兰卡一巴士坠崖致15人死亡](https://news.cctv.com/2025/05/11/ARTIdhtMtn68vs6RWV4G9T44250511.shtml)
+
