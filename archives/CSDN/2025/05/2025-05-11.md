@@ -175,3 +175,7 @@
 
 + [基于CNN卷积神经网络的带频偏QPSK调制信号检测识别算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/147857540)
 
++ [《Python星球日记》 第55天：迁移学习与预训练模型](https://blog.csdn.net/qq_51646682/article/details/147859741)
+
++ [【大模型ChatGPT+ArcGIS】数据处理、空间分析、可视化及多案例综合应用](https://blog.csdn.net/2403_89634305/article/details/147819428)
+

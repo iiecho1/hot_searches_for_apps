@@ -21,3 +21,13 @@
 
 + [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
 
++ [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+
++ [isledecomp/isle](https://github.com/isledecomp/isle)
+
++ [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
+
++ [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo)
+
