@@ -23,3 +23,13 @@
 
 + [如何快速取消和电信的宽带协议？](https://www.v2ex.com/t/1130861)
 
++ [求推荐一款好用的文档、笔记工具](https://www.v2ex.com/t/1130860)
+
++ [各位大佬是怎么给购买 apple 美区礼品卡的？](https://www.v2ex.com/t/1130828)
+
++ [mac 上窗口切换管理的最佳实践到底是什么](https://www.v2ex.com/t/1130841)
+
++ [Oppo 过保后，每个月屏幕加一条绿线](https://www.v2ex.com/t/1130838)
+
++ [不把域名解析到公网 能用公网 IP 搭建网站吗](https://www.v2ex.com/t/1130843)
+

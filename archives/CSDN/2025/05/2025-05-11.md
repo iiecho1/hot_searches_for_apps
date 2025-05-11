@@ -137,3 +137,9 @@
 
 + [如何阅读、学习 Linux 2 内核源代码 ？](https://blog.csdn.net/belldeep/article/details/147855214)
 
++ [Maven 插件配置分层架构深度解析](https://blog.csdn.net/lilinhai548/article/details/147860418)
+
++ [MySQL有哪些高可用方案?](https://blog.csdn.net/caoli201314/article/details/147838080)
+
++ [archlinux 详解系统层面](https://blog.csdn.net/weixin_74042625/article/details/147837188)
+

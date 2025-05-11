@@ -165,3 +165,9 @@
 
 + [“书林翰墨传友谊”中日书法交流会在大阪世博会中国馆举行](https://news.cctv.com/2025/05/11/ARTIK5DD8VnnQvH2zmXJk0ux250511.shtml)
 
++ [新华时评丨中国维护国际经贸秩序的立场坚定不移](https://news.cctv.com/2025/05/11/ARTIgOe3CyUGRs3mtEA0IIlf250511.shtml)
+
++ [新华社评论员：守护历史记忆，共创光明未来](https://news.cctv.com/2025/05/11/ARTIEigHwl2CR9hQIs0XpNIS250511.shtml)
+
++ [为世界和平稳定注入更多正能量（国际论坛）](https://news.cctv.com/2025/05/11/ARTIw6JnNjVHZrwkBqtKdodQ250511.shtml)
+
