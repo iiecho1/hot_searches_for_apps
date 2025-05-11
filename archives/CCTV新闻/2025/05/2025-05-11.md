@@ -179,3 +179,7 @@
 
 + [斯里兰卡一巴士坠崖致15人死亡](https://news.cctv.com/2025/05/11/ARTIdhtMtn68vs6RWV4G9T44250511.shtml)
 
++ [影像速览！领航战略协作 共促世界和平](https://news.cctv.com/2025/05/11/ARTIWll1WtMNWVlx3zYhrkpl250511.shtml)
+
++ [德国将不再公布对乌克兰军事支持的细节](https://news.cctv.com/2025/05/11/ARTIBCvXaSnTMgFG50lYelYg250511.shtml)
+
