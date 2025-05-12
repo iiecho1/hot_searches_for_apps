@@ -217,3 +217,7 @@
 
 + [拾光纪·习近平主席俄罗斯之行这些场景令人难忘](https://news.cctv.com/2025/05/12/ARTIRJ78tzGBEUWgChqQblNr250512.shtml)
 
++ [半数学校毁于战火 数百万儿童辍学 叙教育恢复之路道阻且长](https://news.cctv.com/2025/05/12/ARTIDMvRJZucHVYlrLBwmerV250512.shtml)
+
++ [极端天气与气候变化重创非洲 预警能力亟须加强](https://news.cctv.com/2025/05/12/ARTIN88yAZHeQxwm5nwkuSqV250512.shtml)
+

@@ -23,3 +23,15 @@
 
 + [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)
 
++ [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
++ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
++ [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS)
+
++ [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+
++ [comet-ml/opik](https://github.com/comet-ml/opik)
+
