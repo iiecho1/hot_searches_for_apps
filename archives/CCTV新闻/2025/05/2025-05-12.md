@@ -183,3 +183,9 @@
 
 + [“中国朋友为我们带来了一条甜蜜的致富路”（中拉是天然合作伙伴）](https://news.cctv.com/2025/05/12/ARTIKutyNDTYicUt1uhEKbhu250512.shtml)
 
++ [阿尔及利亚决定遣返多名法国派驻人员](https://news.cctv.com/2025/05/12/ARTIPk8hwilZC2QNQBpvwsRm250512.shtml)
+
++ [专访丨不确定性加剧背景下巴中深化合作具有重要意义——访巴西出口投资促进局主席维亚纳](https://news.cctv.com/2025/05/12/ARTI8iuFUT3kjVkSrWsK7va9250512.shtml)
+
++ [以侨为桥，中俄民众越走越亲](https://news.cctv.com/2025/05/12/ARTIWfogILMZRnUH24PQmZGf250512.shtml)
+

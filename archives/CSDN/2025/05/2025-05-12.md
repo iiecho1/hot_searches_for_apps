@@ -183,3 +183,9 @@
 
 + [开源数字人框架 AWESOME-DIGITAL-HUMAN 技术解析与应用指南](https://blog.csdn.net/zhz5214/article/details/147817393)
 
++ [Redis+Caffeine构建高性能二级缓存](https://blog.csdn.net/IRpickstars/article/details/147889251)
+
++ [深度探索GPUGEEK：算力市场AI大模型在线搭建使用全景指南](https://blog.csdn.net/weixin_43151418/article/details/147887795)
+
++ [GitLab搭建与使用(SSH和Docker)两种方式](https://blog.csdn.net/qq_57404736/article/details/147876072)
+
