@@ -151,3 +151,25 @@
 
 + [一种安全不泄漏、高效、免费的自动化脚本平台](https://blog.csdn.net/m0_62259629/article/details/147834197)
 
++ [PyTorch实战（4）——卷积神经网络(Convolutional Neural Network, CNN)详解](https://blog.csdn.net/LOVEmy134611/article/details/146259639)
+
++ [基于Java和高德开放平台的WebAPI集成实践-以搜索POI2.0为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/147867639)
+
++ [AI在制造业的实践：预测性维护与工业4.0转型](https://blog.csdn.net/qq_16242613/article/details/147850384)
+
++ [嵌入式硬件篇---无线通信模块](https://blog.csdn.net/2301_79556402/article/details/147869328)
+
++ [如何将 Rust 编译出的 WebAssembly 模块引入你的前端项目中（React + Vite ）](https://blog.csdn.net/kkkkasad/article/details/147858918)
+
++ [【现代深度学习技术】注意力机制05：多头注意力](https://blog.csdn.net/Morse_Chen/article/details/147888048)
+
++ [深入理解Embedding Models（嵌入模型）：从原理到实战（下）](https://blog.csdn.net/weixin_53269650/article/details/147872394)
+
++ [LabVIEW中算法开发的系统化解决方案与优化](https://blog.csdn.net/bjcyck/article/details/147887805)
+
++ [金融学知识笔记](https://blog.csdn.net/weixin_44737586/article/details/147839948)
+
++ [字节DeerFlow开源框架：多智能体深度研究框架，实现端到端自动化研究流程](https://blog.csdn.net/sinat_39620217/article/details/147855939)
+
++ [web安全-逻辑漏洞梳理与总结（详细介绍）](https://blog.csdn.net/2303_80806493/article/details/147887595)
+

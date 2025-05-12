@@ -173,3 +173,13 @@
 
 + [俄乌谈判本周或重启 但先停火还是先谈判？](https://news.cctv.com/2025/05/12/ARTIvcWdIxvAufvJTn9Mt6lo250512.shtml)
 
++ [以总理办公室：未来任何谈判都将在炮火中进行](https://news.cctv.com/2025/05/12/ARTIC3Jg7o3zgtTObQyz4PEJ250512.shtml)
+
++ [中拉这十年 | 沙漠开出“太阳花”](https://news.cctv.com/2025/05/12/ARTIkMaabixuCoA1lIa1CAoj250512.shtml)
+
++ [印空军官员称印巴飞机在冲突中均有损失 未透露具体数字](https://news.cctv.com/2025/05/12/ARTIxbRuL3iiaUPooyJ8yFT5250512.shtml)
+
++ [尺素金声｜和中国“脱钩断链”无异“痴人说梦”](https://news.cctv.com/2025/05/12/ARTIWtCqwyGItY3yNjIXVJ96250512.shtml)
+
++ [“中国朋友为我们带来了一条甜蜜的致富路”（中拉是天然合作伙伴）](https://news.cctv.com/2025/05/12/ARTIKutyNDTYicUt1uhEKbhu250512.shtml)
+
