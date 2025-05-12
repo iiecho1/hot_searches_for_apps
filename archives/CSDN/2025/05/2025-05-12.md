@@ -189,3 +189,9 @@
 
 + [GitLab搭建与使用(SSH和Docker)两种方式](https://blog.csdn.net/qq_57404736/article/details/147876072)
 
++ [OpenCV进阶操作：指纹验证、识别](https://blog.csdn.net/m0_65065095/article/details/147880683)
+
++ [系统架构设计（四）：架构风格总结](https://blog.csdn.net/www_dong/article/details/147877660)
+
++ [.Net Mqtt协议-MQTTNet（一）简介](https://blog.csdn.net/u011127019/article/details/147853041)
+
