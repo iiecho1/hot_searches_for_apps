@@ -129,3 +129,5 @@
 
 + [live555开发笔记（三）：live555创建RTSP服务器源码剖析，创建h264文件rtsp服务器源码深度剖析](https://blog.csdn.net/qq21497936/article/details/147879917)
 
++ [AI在制造业的实践：预测性维护与工业4.0转型](https://blog.csdn.net/qq_16242613/article/details/147850384)
+
