@@ -173,3 +173,13 @@
 
 + [web安全-逻辑漏洞梳理与总结（详细介绍）](https://blog.csdn.net/2303_80806493/article/details/147887595)
 
++ [【金仓数据库征文】金仓数据库（KingbaseES）迁移与集群部署实战：从MySQL到KES的全流程解析](https://blog.csdn.net/2302_79177254/article/details/147851944)
+
++ [JavaWeb, Spring, Spring Boot](https://blog.csdn.net/jkl12345669/article/details/147880174)
+
++ [国产远程工具推荐：国产远程工具如何重新定义高效连接？](https://blog.csdn.net/qq_42055933/article/details/147869530)
+
++ [【网络】大模型训练/推理网络技术篇：RDMA](https://blog.csdn.net/weixin_49199313/article/details/147878963)
+
++ [开源数字人框架 AWESOME-DIGITAL-HUMAN 技术解析与应用指南](https://blog.csdn.net/zhz5214/article/details/147817393)
+
