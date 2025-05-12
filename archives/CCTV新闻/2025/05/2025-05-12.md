@@ -167,3 +167,9 @@
 
 + [从导弹互袭到全面停火 印巴冲突“急刹车”原因很硬核](https://news.cctv.com/2025/05/12/ARTIjBmHdetfTx5eSvIjfmca250512.shtml)
 
++ [以色列：未来任何谈判都将在炮火中进行](https://news.cctv.com/2025/05/12/ARTI4MTagqrsrIuE8LI7Cfrr250512.shtml)
+
++ [袭击印26个军事目标、实施全面网络攻击 巴公布“铜墙铁壁”行动细节](https://news.cctv.com/2025/05/12/ARTIkLncXuzFch4Q7DqHrzPL250512.shtml)
+
++ [俄乌谈判本周或重启 但先停火还是先谈判？](https://news.cctv.com/2025/05/12/ARTIvcWdIxvAufvJTn9Mt6lo250512.shtml)
+
