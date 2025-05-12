@@ -161,3 +161,9 @@
 
 + [近闻·“风雨同渡、关山共越”，7句话读懂中俄关系](https://news.cctv.com/2025/05/09/ARTI5fCXZJgn4xygP8fEUeiD250509.shtml)
 
++ [哈马斯表示将释放一名美以双重国籍被扣押人员](https://news.cctv.com/2025/05/12/ARTI26SXX4IaLt7Cmj8x72sZ250512.shtml)
+
++ [南非多地暴发口蹄疫疫情 政府紧急限制动物运输](https://news.cctv.com/2025/05/12/ARTITcrPHBuU6sQVUj19Vvl9250512.shtml)
+
++ [从导弹互袭到全面停火 印巴冲突“急刹车”原因很硬核](https://news.cctv.com/2025/05/12/ARTIjBmHdetfTx5eSvIjfmca250512.shtml)
+

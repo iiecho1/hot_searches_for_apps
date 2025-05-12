@@ -143,3 +143,9 @@
 
 + [hz2新建Keyword页面](https://blog.csdn.net/s11show_163/article/details/147836458)
 
++ [Quartus与Modelsim-Altera使用手册](https://blog.csdn.net/Klusfsc/article/details/147879392)
+
++ [数据链共享：从印巴空战到工业控制的跨越性应用](https://blog.csdn.net/Wnq10072/article/details/147860973)
+
++ [御网杯2025 Web，Msic，密码 WP](https://blog.csdn.net/weixin_62024248/article/details/147876941)
+

@@ -21,3 +21,9 @@
 
 + [湖南移动 ipv6 同网都限 5M 飞牛 nsa](https://www.v2ex.com/t/1130992)
 
++ [许个愿，号召全站抵制 imgur](https://www.v2ex.com/t/1130961)
+
++ [iPhone 的 128G 差价达到了 1600 元](https://www.v2ex.com/t/1130949)
+
++ [有无需要对敲 USDC 的？](https://www.v2ex.com/t/1130998)
+
