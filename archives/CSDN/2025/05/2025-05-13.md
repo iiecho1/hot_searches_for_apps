@@ -105,3 +105,21 @@
 
 + [外网访问内网海康威视监控视频的方案：WebRTC + Coturn 搭建](https://blog.csdn.net/mucaoyx/article/details/147880706)
 
++ [PINN应用案例：神经网络求解热扩散方程高质量近似解](https://blog.csdn.net/m0_46510245/article/details/147890843)
+
++ [【Rust泛型】Rust泛型使用详解与应用场景](https://blog.csdn.net/littlefun591/article/details/147888860)
+
++ [在 Elasticsearch 中删除文档中的某个字段](https://blog.csdn.net/UbuntuTouch/article/details/147846192)
+
++ [飞蛾扑火算法matlab实现](https://blog.csdn.net/weixin_47093974/article/details/147875288)
+
++ [【网络分析工具】网络工具wireshark、TCPdump、iperf使用详解](https://blog.csdn.net/m0_54984588/article/details/147868206)
+
++ [Maven 执行单元（Execution）的精细化控制](https://blog.csdn.net/lilinhai548/article/details/147868112)
+
++ [御网杯2025 Web，Msic，密码 WP](https://blog.csdn.net/weixin_62024248/article/details/147876941)
+
++ [Typescript中的泛型](https://blog.csdn.net/2401_88174794/article/details/147853578)
+
++ [【Linux】socket网络编程之TCP](https://blog.csdn.net/s_little_monster/article/details/145962639)
+
