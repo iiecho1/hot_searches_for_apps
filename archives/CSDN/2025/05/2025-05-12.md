@@ -207,3 +207,5 @@
 
 + [Maven 执行单元（Execution）的精细化控制](https://blog.csdn.net/lilinhai548/article/details/147868112)
 
++ [学习threejs，使用Physijs物理引擎，加载各种几何体网格对象](https://blog.csdn.net/qq_28419035/article/details/147892495)
+

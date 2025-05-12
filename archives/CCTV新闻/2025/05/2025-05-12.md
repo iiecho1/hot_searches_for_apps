@@ -209,3 +209,11 @@
 
 + [印度32座机场已恢复民航通航](https://news.cctv.com/2025/05/12/ARTIhNvWwd965y4BuKqBqvPY250512.shtml)
 
++ [全球瞭望｜英媒：保护沿海生态 中国“言出必行”](https://news.cctv.com/2025/05/12/ARTIMkzpbi9najL3kgbTLrEy250512.shtml)
+
++ [通讯丨近六十载的坚守——中国医疗队用“技术赋能”为几内亚民众架起“生命之桥”](https://news.cctv.com/2025/05/12/ARTIzDQZweLMuoYqwtwV0hg3250512.shtml)
+
++ [“甜蜜贸易”背后的坚实根基](https://news.cctv.com/2025/05/12/ARTIt0sPa5MBg7L7GN60cnsL250512.shtml)
+
++ [拾光纪·习近平主席俄罗斯之行这些场景令人难忘](https://news.cctv.com/2025/05/12/ARTIRJ78tzGBEUWgChqQblNr250512.shtml)
+
