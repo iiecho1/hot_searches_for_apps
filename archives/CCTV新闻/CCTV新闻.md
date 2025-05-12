@@ -189,3 +189,17 @@
 
 + [以侨为桥，中俄民众越走越亲](https://news.cctv.com/2025/05/12/ARTIWfogILMZRnUH24PQmZGf250512.shtml)
 
++ [伊美第四轮会谈提出“原创性”想法](https://news.cctv.com/2025/05/12/ARTImVRTCz6sEDO9yvyID8PZ250512.shtml)
+
++ [库尔德工人党决定自行解散](https://news.cctv.com/2025/05/12/ARTInulKbHp98XpGW0JTpHYo250512.shtml)
+
++ [巴基斯坦全国航班仍持续延误或取消](https://news.cctv.com/2025/05/12/ARTIPZRAypnrjkn4Zm0wOaFS250512.shtml)
+
++ [“他们让我们的生活更安心”——中国防疫队助力提升缅甸震后卫生防疫能力](https://news.cctv.com/2025/05/12/ARTIH9a2PrpKlWBVY7iMsR7o250512.shtml)
+
++ [世贸组织欢迎中美经贸高层会谈取得积极成果](https://news.cctv.com/2025/05/12/ARTI1NNPgFZyrpl8vEg2CtYt250512.shtml)
+
++ [俄罗斯国家技术集团交付俄国防部一批新型苏-35S战斗机](https://military.cctv.com/2025/05/12/ARTI87X0OONyo6s5Rqm6nIrU250512.shtml)
+
++ [印尼一游船倾覆致7死34伤](https://news.cctv.com/2025/05/12/ARTIPWGPvlPZX2EYKswBdHMK250512.shtml)
+
