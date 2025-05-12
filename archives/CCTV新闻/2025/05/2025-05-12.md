@@ -205,3 +205,7 @@
 
 + [波兰宣布再撤销一俄驻波领事馆运营许可 俄称将对等回应](https://news.cctv.com/2025/05/12/ARTImDxC5T1IG5YQwYDc3ZCc250512.shtml)
 
++ [以色列总理：未承诺停火或释放巴方人员](https://news.cctv.com/2025/05/12/ARTI242BfhbxWGspYnYFm3rF250512.shtml)
+
++ [印度32座机场已恢复民航通航](https://news.cctv.com/2025/05/12/ARTIhNvWwd965y4BuKqBqvPY250512.shtml)
+

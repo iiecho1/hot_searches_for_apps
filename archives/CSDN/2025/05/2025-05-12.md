@@ -195,3 +195,15 @@
 
 + [.Net Mqtt协议-MQTTNet（一）简介](https://blog.csdn.net/u011127019/article/details/147853041)
 
++ [PINN应用案例：神经网络求解热扩散方程高质量近似解](https://blog.csdn.net/m0_46510245/article/details/147890843)
+
++ [【文心智能体】使用文心一言来给智能体设计一段稳定调用工作流的提示词](https://blog.csdn.net/lmy_520/article/details/147888866)
+
++ [《用MATLAB玩转游戏开发》Flappy Bird：小鸟飞行大战MATLAB趣味实现](https://blog.csdn.net/qq_27595745/article/details/147880176)
+
++ [基于OpenCV的人脸识别：LBPH算法](https://blog.csdn.net/zdx2585503940/article/details/147881354)
+
++ [PyGame游戏开发（含源码+演示视频+开结题报告+设计文档）](https://blog.csdn.net/wlf2030/article/details/147878665)
+
++ [Maven 执行单元（Execution）的精细化控制](https://blog.csdn.net/lilinhai548/article/details/147868112)
+
