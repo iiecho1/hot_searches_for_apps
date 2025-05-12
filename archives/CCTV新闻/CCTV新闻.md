@@ -221,3 +221,5 @@
 
 + [极端天气与气候变化重创非洲 预警能力亟须加强](https://news.cctv.com/2025/05/12/ARTIN88yAZHeQxwm5nwkuSqV250512.shtml)
 
++ [斯塔默说英国将延长申请永居的最低居住年限](https://news.cctv.com/2025/05/12/ARTIs4NCSnbY8uRsW2MhT6Je250512.shtml)
+
