@@ -105,3 +105,23 @@
 
 + [【Redis实战篇】分布式锁-Redisson](https://blog.csdn.net/qq_63320529/article/details/147894522)
 
++ [Java 大视界 —— Java 大数据在智能农业病虫害精准识别与绿色防控中的创新应用（243）](https://blog.csdn.net/atgfg/article/details/147858979)
+
++ [vue3+flask+sqlite前后端项目实战](https://blog.csdn.net/BuLingLings/article/details/147905243)
+
++ [解锁遥感数据密码：DeepSeek、Python 与 OpenCV 的协同之力](https://blog.csdn.net/2403_89974123/article/details/147890566)
+
++ [vue实现与后台springboot传递数据【传值/取值 Axios 】](https://blog.csdn.net/mobangde/article/details/147877938)
+
++ [《Spring Boot 4.0新特性深度解析》](https://blog.csdn.net/cainiao080605/article/details/147881823)
+
++ [SpringBoot校园失物招领信息平台](https://blog.csdn.net/weixin_53961667/article/details/147904490)
+
++ [低代码开发：开启软件开发的新篇章](https://blog.csdn.net/qq_74383080/article/details/147881166)
+
++ [Mac显卡的工作原理及特殊之处](https://blog.csdn.net/2401_84168288/article/details/147915646)
+
++ [Redis 缓存](https://blog.csdn.net/2301_80055001/article/details/147872011)
+
++ [Vue.js 页面切换空白与刷新 404 问题深度解析](https://blog.csdn.net/BANaanaa/article/details/147875779)
+
