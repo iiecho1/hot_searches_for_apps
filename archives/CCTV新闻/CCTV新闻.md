@@ -161,3 +161,9 @@
 
 + [普京提议无条件重启俄乌谈判](https://news.cctv.com/2025/05/11/ARTIXP6kto9YNzS4qlO6uabm250511.shtml)
 
++ [保加利亚总统就加入欧元区举行公投的议案被议长驳回](https://news.cctv.com/2025/05/14/ARTI78h9Z5L3t0NliVrF91Cv250514.shtml)
+
++ [国际移民组织：全球境内流离失所人数创历史新高](https://news.cctv.com/2025/05/14/ARTIoMjaXP8RYdNYDLWB1NmI250514.shtml)
+
++ [美国和沙特签署上千亿美元军售协议](https://news.cctv.com/2025/05/14/ARTICqVHMPaGMy7xjoiJRBHY250514.shtml)
+
