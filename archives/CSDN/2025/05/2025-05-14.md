@@ -131,3 +131,5 @@
 
 + [视频编解码学习10之成像技术原理](https://blog.csdn.net/Tony750509/article/details/147872037)
 
++ [ZYNQ笔记（二十一）： VDMA HDMI 彩条显示](https://blog.csdn.net/2303_76814451/article/details/147906210)
+
