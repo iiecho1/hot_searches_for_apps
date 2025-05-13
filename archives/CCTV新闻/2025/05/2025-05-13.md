@@ -185,3 +185,13 @@
 
 + [澳大利亚总理阿尔巴尼斯正式宣誓就职 开启新一届任期](https://news.cctv.com/2025/05/13/ARTIosDjUdiOFzNoGXpqLavL250513.shtml)
 
++ [中拉合作奏响全球南方共同发展新乐章](https://news.cctv.com/2025/05/13/ARTIq2KOGK7NWa70m6Jaklnx250513.shtml)
+
++ [俄罗斯学者：中国经济韧性足 俄中科研与产业合作机遇多](https://news.cctv.com/2025/05/13/ARTIhsFcPqGOPjBKYn2NrhxV250513.shtml)
+
++ [“巴中关系正处于历史最好时期”——访巴西总统卢拉](https://news.cctv.com/2025/05/13/ARTIDstM3ty92TyQNrrIWLbL250513.shtml)
+
++ [饥荒倒计时 约47万加沙民众面临“灾难性饥饿”](https://news.cctv.com/2025/05/13/ARTIxby49NSiUwuijZIbLByh250513.shtml)
+
++ [东南亚黄金市场热度不减](https://jingji.cctv.com/2025/05/13/ARTIn3paVLrg5PFticArSgLq250513.shtml)
+

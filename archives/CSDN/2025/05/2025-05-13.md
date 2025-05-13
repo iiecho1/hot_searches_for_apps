@@ -143,3 +143,9 @@
 
 + [flutter 项目工程文件夹组织结构](https://blog.csdn.net/axuanqq/article/details/147870387)
 
++ [Java 大视界 -- Java 大数据在智能电网分布式能源协同调度中的应用与挑战（242）](https://blog.csdn.net/atgfg/article/details/147858972)
+
++ [【机器人】复现 UniGoal 具身导航 | 通用零样本目标导航 CVPR 2025](https://blog.csdn.net/qq_41204464/article/details/147904663)
+
++ [大模型项目：普通蓝牙音响接入DeepSeek，解锁语音交互新玩法](https://blog.csdn.net/m0_46360532/article/details/147871398)
+
