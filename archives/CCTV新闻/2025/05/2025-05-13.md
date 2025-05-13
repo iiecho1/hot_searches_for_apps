@@ -205,3 +205,9 @@
 
 + [印度旁遮普邦14人因饮用假酒死亡](https://news.cctv.com/2025/05/13/ARTI5h2PrPdTqBigpnT6aenI250513.shtml)
 
++ [世界气象组织：极端天气和气候变化影响对非洲造成沉重打击](https://news.cctv.com/2025/05/13/ARTIfJ58DT8D2PUTpIKprGNT250513.shtml)
+
++ [游穿海峡 骑行欧亚 千里跑步 超级“铁人三项”后他又完成一项壮举](https://people.cctv.com/2025/05/13/ARTI6BRCwarIPtw1Hv6yfYgh250513.shtml)
+
++ [以色列要求国际刑事法院撤销对内塔尼亚胡逮捕令](https://news.cctv.com/2025/05/13/ARTIe8dOUtsPJLVMkQIaaXdl250513.shtml)
+
