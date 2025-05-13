@@ -189,3 +189,5 @@
 
 + [【SpringBoot】从零开始全面解析Spring MVC (一)](https://blog.csdn.net/2302_81886858/article/details/147893571)
 
++ [DeepSeek自动驾驶中的多传感器融合框架(附DeepSeek行业解决方案100+)](https://blog.csdn.net/ashyyyy/article/details/147888772)
+
