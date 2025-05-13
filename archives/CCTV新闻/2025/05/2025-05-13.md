@@ -211,3 +211,19 @@
 
 + [以色列要求国际刑事法院撤销对内塔尼亚胡逮捕令](https://news.cctv.com/2025/05/13/ARTIe8dOUtsPJLVMkQIaaXdl250513.shtml)
 
++ [嫦娥样品助力外国科学家讲述“月球完整故事” 实现跨越国界的知识共享](https://news.cctv.com/2025/05/13/ARTIs2D3atCnzmRNqEq6BrC1250513.shtml)
+
++ [外媒：印度向WTO发出通知，拟对部分美国商品加征关税](https://news.cctv.com/2025/05/13/ARTID6cNFb7fA8ezU3QP1POX250513.shtml)
+
++ [俄外交部发言人：西方坚持俄乌停火30天旨在为乌提供喘息机会](https://news.cctv.com/2025/05/13/ARTIwUOzee0DqdhYzXc9KRHR250513.shtml)
+
++ [财报披露巨额亏损 日产汽车官宣全球裁员2万人](https://news.cctv.com/2025/05/13/ARTIf3n73HLY46k0PS8OL7Yc250513.shtml)
+
++ [英媒：一名21岁男子因涉嫌对英国首相斯塔默房产纵火被捕](https://news.cctv.com/2025/05/13/ARTIpIEP2unB121szwJ3JC5H250513.shtml)
+
++ [公开展出 德国“末代皇族”艺术品归属纷争告终](https://news.cctv.com/2025/05/13/ARTIduMbayJJNkkae27xl2YV250513.shtml)
+
++ [运河也搞“打折促销” 苏伊士运河管理局拟降通行费提运量](https://news.cctv.com/2025/05/13/ARTIWSGuV8Yg6lsSrDKQGFX2250513.shtml)
+
++ [被问及美政府打算接受卡塔尔王室赠送豪华飞机 特朗普当场怼记者](https://news.cctv.com/2025/05/13/ARTIM3qc5ebXYgY8nOqB3xVC250513.shtml)
+
