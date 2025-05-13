@@ -25,3 +25,27 @@
 
 + [小米张宇：REDMI Turbo 4 Pro 手机近期高频次更新，未对动画方案和显示效果做任何阉割和更改](https://m.ithome.com/html/852222.htm)
 
++ [苹果 iOS 18.5 正式版发布：引入“彩虹和谐”墙纸、升级家长控制](https://m.ithome.com/html/852467.htm)
+
++ [被阿维塔法务部发律师函后，当事博主“苏黎世贝勒爷”公开道歉](https://m.ithome.com/html/852422.htm)
+
++ [三星最薄旗舰 Galaxy S25 Edge 手机发布：厚 5.8 毫米，起价 7999 元](https://m.ithome.com/html/852488.htm)
+
++ [6999 元 → 3899 元：小米 14 Ultra 手机 16GB+512GB 再降价](https://m.ithome.com/html/852554.htm)
+
++ [iOS 19 即将亮相，苹果力求提升系统质量](https://m.ithome.com/html/852479.htm)
+
++ [小米法务部：法院认为聚好看公司发布侮辱、贬损小米公司的虚假和误导性信息，构成商业诋毁](https://m.ithome.com/html/852552.htm)
+
++ [华为智选 5G 随身随行 WiFi Pro 5 上架：5G-A 网络、支持 Wi-Fi 6+，单机 1549 元](https://m.ithome.com/html/852450.htm)
+
++ [诺基亚公司迎来成立 160 周年纪念](https://m.ithome.com/html/852421.htm)
+
++ [网传“丰田正考虑收购哪吒汽车”，官方回应称不实](https://m.ithome.com/html/852439.htm)
+
++ [苹果 iOS 19 新特性曝光：AI 延长续航，弥补最薄 iPhone 17 Air 电池短板](https://m.ithome.com/html/852476.htm)
+
++ [华为 nova 14 系列手机外观公布，5 月 19 日发布](https://m.ithome.com/html/852529.htm)
+
++ [B站变更第三方软件开播要求，5 月 26 日起五千粉以上 UP 主才可获相应权限](https://m.ithome.com/html/852429.htm)
+
