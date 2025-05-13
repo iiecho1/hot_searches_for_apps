@@ -195,3 +195,9 @@
 
 + [东南亚黄金市场热度不减](https://jingji.cctv.com/2025/05/13/ARTIn3paVLrg5PFticArSgLq250513.shtml)
 
++ [通过平等对话协商解决分歧的重要一步](https://news.cctv.com/2025/05/13/ARTI4Ut7anXaJ27rvM0oAgj4250513.shtml)
+
++ [中拉携手同行 共绘下一个美好十年](https://news.cctv.com/2025/05/13/ARTIPGV6shqKPQPP90E6h2Wx250513.shtml)
+
++ [实行入境新规！中使馆发布中国公民近期入境莫桑比克有关要求的提醒](https://news.cctv.com/2025/05/13/ARTIstDcDIm4HANkzoToj08I250513.shtml)
+
