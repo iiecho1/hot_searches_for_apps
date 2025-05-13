@@ -175,3 +175,5 @@
 
 + [以军对加沙哈马斯目标实施“精准打击”至少16人死亡](https://news.cctv.com/2025/05/14/ARTItN2vmGSp26UH53sNdmkk250514.shtml)
 
++ [马里总统签署行政令解散所有政党](https://news.cctv.com/2025/05/14/ARTI9TbIM1m7t4lvLn7I21zF250514.shtml)
+
