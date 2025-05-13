@@ -125,3 +125,9 @@
 
 + [Vue.js 页面切换空白与刷新 404 问题深度解析](https://blog.csdn.net/BANaanaa/article/details/147875779)
 
++ [LabVIEW的PID参数自适应控制](https://blog.csdn.net/bjcyck/article/details/147871550)
+
++ [基于深度学习YOLOv8的苹果成熟度检测系统（YOLOv8+YOLO数据集+UI界面+Python项目源码+模型）](https://blog.csdn.net/m0_68036862/article/details/147891825)
+
++ [视频编解码学习10之成像技术原理](https://blog.csdn.net/Tony750509/article/details/147872037)
+
