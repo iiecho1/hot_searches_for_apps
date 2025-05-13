@@ -23,3 +23,19 @@
 
 + [comet-ml/opik](https://github.com/comet-ml/opik)
 
++ [xming521/WeClone](https://github.com/xming521/WeClone)
+
++ [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [microsoft/BitNet](https://github.com/microsoft/BitNet)
+
++ [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
++ [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+
++ [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
+
++ [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
+

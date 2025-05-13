@@ -179,3 +179,9 @@
 
 + [HTML5 定位详解：相对定位、绝对定位和固定定位](https://blog.csdn.net/JJH2724719395/article/details/147891294)
 
++ [【RabbitMQ】工作队列和发布/订阅模式的具体实现](https://blog.csdn.net/Yeeear/article/details/147918231)
+
++ [从零开始：使用 Vue-ECharts 实现数据可视化图表功能](https://blog.csdn.net/weixin_52208686/article/details/147918265)
+
++ [五、Hive表类型、分区及数据加载](https://blog.csdn.net/2401_83830408/article/details/147902090)
+

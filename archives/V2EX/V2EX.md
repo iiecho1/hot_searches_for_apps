@@ -45,3 +45,5 @@
 
 + [日本签证出签了， 有大佬分享下注意事项吗](https://www.v2ex.com/t/1131418)
 
++ [macOS 上使用自带的 iorag 查看电池健康度](https://www.v2ex.com/t/1131467)
+
