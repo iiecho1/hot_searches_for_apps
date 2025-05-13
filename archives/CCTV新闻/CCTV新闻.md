@@ -171,3 +171,5 @@
 
 + [内塔尼亚胡：以军将在未来几天“全力进入”加沙](https://news.cctv.com/2025/05/14/ARTItdeczJQ64eLYYe2GFV4S250514.shtml)
 
++ [加拿大新政府宣誓就职](https://news.cctv.com/2025/05/14/ARTIa1ztIe4uZplnAQQlLbSK250514.shtml)
+
