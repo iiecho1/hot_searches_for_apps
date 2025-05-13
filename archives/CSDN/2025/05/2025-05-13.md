@@ -185,3 +185,5 @@
 
 + [五、Hive表类型、分区及数据加载](https://blog.csdn.net/2401_83830408/article/details/147902090)
 
++ [【Redis实战篇】分布式锁-Redisson](https://blog.csdn.net/qq_63320529/article/details/147894522)
+
