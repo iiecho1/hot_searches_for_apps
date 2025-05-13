@@ -149,3 +149,13 @@
 
 + [大模型项目：普通蓝牙音响接入DeepSeek，解锁语音交互新玩法](https://blog.csdn.net/m0_46360532/article/details/147871398)
 
++ [【 Redis | 实战篇 秒杀实现 】](https://blog.csdn.net/2402_88700528/article/details/147869379)
+
++ [SpringBoot + Druid + Dynamic Datasource 多数据源配置](https://blog.csdn.net/baidu_25117757/article/details/147860428)
+
++ [Vue.js 页面切换空白与刷新 404 问题深度解析](https://blog.csdn.net/BANaanaa/article/details/147875779)
+
++ [.Net HttpClient 使用请求数据](https://blog.csdn.net/bicijinlian/article/details/147871127)
+
++ [Mac显卡的工作原理及特殊之处](https://blog.csdn.net/2401_84168288/article/details/147915646)
+

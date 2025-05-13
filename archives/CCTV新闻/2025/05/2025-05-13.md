@@ -201,3 +201,7 @@
 
 + [实行入境新规！中使馆发布中国公民近期入境莫桑比克有关要求的提醒](https://news.cctv.com/2025/05/13/ARTIstDcDIm4HANkzoToj08I250513.shtml)
 
++ [日本广岛大学发现疑似未爆弹](https://news.cctv.com/2025/05/13/ARTIVmOxKcXoiwOTIp3crgL1250513.shtml)
+
++ [印度旁遮普邦14人因饮用假酒死亡](https://news.cctv.com/2025/05/13/ARTI5h2PrPdTqBigpnT6aenI250513.shtml)
+
