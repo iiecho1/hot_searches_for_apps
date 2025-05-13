@@ -133,3 +133,5 @@
 
 + [ZYNQ笔记（二十一）： VDMA HDMI 彩条显示](https://blog.csdn.net/2303_76814451/article/details/147906210)
 
++ [基于微信小程序的城市特色旅游推荐应用的设计与实现](https://blog.csdn.net/qq_31293575/article/details/147907305)
+
