@@ -167,3 +167,21 @@
 
 + [英国首相斯塔默一处房产发生火灾](https://news.cctv.com/2025/05/12/ARTIE2YCyFscDGTMa1FXadH5250512.shtml)
 
++ [世界期待中美对话合作带来更多确定性和稳定性](https://news.cctv.com/2025/05/13/ARTI0lPWeOkgB97sLbaB5wpn250513.shtml)
+
++ [中美经贸会谈为全球经济纾压增信](https://news.cctv.com/2025/05/13/ARTIjghUF6ht6gWYiDBURJEK250513.shtml)
+
++ [日本北海道等多地野熊袭人、治安事件频发，中领馆发布安全提醒](https://news.cctv.com/2025/05/13/ARTIxaFckI6I62ffOIi7VgvP250513.shtml)
+
++ [股市上涨、众多国际组织表态 一文看懂中美经贸会谈联合声明→](https://news.cctv.com/2025/05/13/ARTIwSH0VRtkusvnGKKapOXG250513.shtml)
+
++ [中国消费提振为拉美和加勒比地区优质产品对华出口提供商机](https://news.cctv.com/2025/05/13/ARTI8NlWlGPlV3HYNj4X39DF250513.shtml)
+
++ [埃尔多安：土耳其反恐斗争已到“关键节点”](https://news.cctv.com/2025/05/13/ARTIo5SEoNEEZctkRWfIGiuC250513.shtml)
+
++ [哈马斯放人 以色列将谈判停火](https://news.cctv.com/2025/05/13/ARTIzLWXtEopoJPND9JjER9f250513.shtml)
+
++ [美国务院批准对阿联酋价值约14.5亿美元军售](https://news.cctv.com/2025/05/13/ARTI1IY6yRM2UiVVlZexDdJ4250513.shtml)
+
++ [澳大利亚总理阿尔巴尼斯正式宣誓就职 开启新一届任期](https://news.cctv.com/2025/05/13/ARTIosDjUdiOFzNoGXpqLavL250513.shtml)
+

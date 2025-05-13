@@ -131,3 +131,15 @@
 
 + [AI在制造业的实践：预测性维护与工业4.0转型](https://blog.csdn.net/qq_16242613/article/details/147850384)
 
++ [MySQL 分页查询优化](https://blog.csdn.net/qq_56158663/article/details/147816110)
+
++ [【GitHub开源AI精选】WhisperX：70倍实时语音转录、革命性词级时间戳与多说话人分离技术](https://blog.csdn.net/xiaobing259/article/details/147874280)
+
++ [Linux：深入理解网络层](https://blog.csdn.net/weixin_51142926/article/details/144067952)
+
++ [【Linux笔记】——进程信号的保存](https://blog.csdn.net/GGDxianv/article/details/147904072)
+
++ [源码示例：使用SpringBoot+Vue+ElementUI+UniAPP技术组合开发一套小微企业ERP系统](https://blog.csdn.net/baina666/article/details/147848192)
+
++ [flutter 项目工程文件夹组织结构](https://blog.csdn.net/axuanqq/article/details/147870387)
+
