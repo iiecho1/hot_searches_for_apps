@@ -183,3 +183,9 @@
 
 + [中方呼吁推动红海局势尽快降温](https://news.cctv.com/2025/05/15/ARTI9iKSqFbTm4UDmpYNrnH1250515.shtml)
 
++ [美国务院批准向土耳其出售导弹及相关部件 价值3.04亿美元](https://news.cctv.com/2025/05/15/ARTInZzAcfTnb4hVodvIYQAV250515.shtml)
+
++ [加拿大马尼托巴省博内湖附近山火迫使近千人疏散](https://news.cctv.com/2025/05/15/ARTIj0LA8fd6ZrbQsuwMbOt2250515.shtml)
+
++ [海合会国家领导人重申对巴勒斯坦事业的支持](https://news.cctv.com/2025/05/15/ARTIl8OpkDbqsAXXwMqhuHjc250515.shtml)
+
