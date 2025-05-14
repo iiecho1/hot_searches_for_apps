@@ -57,3 +57,9 @@
 
 + [全新智己 L6 上市：全系四轮转向、最高续航 850 公里，上市权益价 20.49 万元起](https://m.ithome.com/html/852747.htm)
 
++ [华为 nova 14 Ultra 手机预热：配备“够真镜头”、升级长焦、支持前置暗拍](https://m.ithome.com/html/852557.htm)
+
++ [AMD Zen 6 架构曝光：超大容量 3D 缓存，50% 核心数提升](https://m.ithome.com/html/852558.htm)
+
++ [“实至名归”618 首日探底：三星 Galaxy S25 系列手机上市 3 月狂砍 1900 元](https://m.ithome.com/html/852562.htm)
+
