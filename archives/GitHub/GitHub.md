@@ -25,3 +25,13 @@
 
 + [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
 
++ [mem0ai/mem0](https://github.com/mem0ai/mem0)
+
++ [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
+
++ [ossu/computer-science](https://github.com/ossu/computer-science)
+
++ [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+
++ [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+

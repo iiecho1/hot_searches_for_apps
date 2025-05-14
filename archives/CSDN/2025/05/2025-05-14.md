@@ -199,3 +199,7 @@
 
 + [学习threejs，使用Physijs物理引擎，通过控制重力，实现多米诺骨牌效果](https://blog.csdn.net/qq_28419035/article/details/147949914)
 
++ [【Part 2安卓原生360°VR播放器开发实战】第四节｜安卓VR播放器性能优化与设备适配](https://blog.csdn.net/qq_41140324/article/details/147849115)
+
++ [GaussDB 实例 gsql 连接方式详解](https://blog.csdn.net/GaussDB/article/details/147945685)
+
