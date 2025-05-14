@@ -203,3 +203,7 @@
 
 + [GaussDB 实例 gsql 连接方式详解](https://blog.csdn.net/GaussDB/article/details/147945685)
 
++ [2025年第十六届蓝桥杯大赛软件赛C/C++大学B组题解](https://blog.csdn.net/2303_76892351/article/details/147931674)
+
++ [大模型微调实战：基于GpuGeek平台的低成本高效训练方案](https://blog.csdn.net/2302_78391795/article/details/147923079)
+

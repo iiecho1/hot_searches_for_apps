@@ -65,3 +65,13 @@
 
 + [基于开源鸿蒙的移动警务终端亮相，适配 OpenHarmony 5.0 Release 版本和警鸿](https://m.ithome.com/html/852819.htm)
 
++ [微信月活首次突破 14 亿](https://m.ithome.com/html/853001.htm)
+
++ [华为 nova 14 Ultra 手机四款配色外观公布：白、金、黑、紫，5 月 19 日发布](https://m.ithome.com/html/852877.htm)
+
++ [微软被曝全球裁员 3%，不限地区、级别](https://m.ithome.com/html/852784.htm)
+
++ [京东数码 618 狂促开启：支持一键领券，苹果 / 大疆 / 小米等直降新低](https://m.ithome.com/html/852783.htm)
+
++ [上市 1 月立减 1100 元 + 24 期免息：OPPO Find X8 Ultra 手机首进国补](https://m.ithome.com/html/852755.htm)
+
