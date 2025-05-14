@@ -31,3 +31,5 @@
 
 + [装全屋智能千万别去小米之家！](https://www.v2ex.com/t/1131587)
 
++ [手持 iphone15 pro max，要不要换 iphone16 pro max](https://www.v2ex.com/t/1131584)
+

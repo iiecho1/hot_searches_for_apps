@@ -153,3 +153,5 @@
 
 + [基于Java和PostGIS的AOI面数据球面面积计算实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/147905744)
 
++ [AI开发者的算力革命：GpuGeek平台全景实战指南（大模型训练/推理/微调全解析）](https://blog.csdn.net/Dreamy_zsy/article/details/147899572)
+
