@@ -47,3 +47,5 @@
 
 + [买个椅子真难](https://www.v2ex.com/t/1131637)
 
++ [离谱， TypeScript 的主力开发之一 Ron Buckton 被微软裁了](https://www.v2ex.com/t/1131670)
+

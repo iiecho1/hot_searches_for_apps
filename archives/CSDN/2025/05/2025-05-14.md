@@ -207,3 +207,11 @@
 
 + [大模型微调实战：基于GpuGeek平台的低成本高效训练方案](https://blog.csdn.net/2302_78391795/article/details/147923079)
 
++ [【计算机视觉】OpenCV实战项目：基于Tesseract与OpenCV的字符识别系统深度解析](https://blog.csdn.net/weixin_43988131/article/details/147935152)
+
++ [Maven 动态插件配置：Profile的灵活集成实践](https://blog.csdn.net/lilinhai548/article/details/147872700)
+
++ [容器编排的革命：Kubernetes如何引领IT的云原生时代](https://blog.csdn.net/SDFsoul/article/details/147960110)
+
++ [MySQL主从复制](https://blog.csdn.net/2501_91114776/article/details/147918718)
+

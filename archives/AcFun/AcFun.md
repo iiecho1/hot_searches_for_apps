@@ -145,3 +145,7 @@
 
 + [6年改变了什么？七朵组合《咏春-贺岁版》2025&2019](https://m.acfun.cn/v/?ac=47266348)
 
++ [【千璃Senri】明日方舟六周年印象曲『ECLIPSE』](https://m.acfun.cn/v/?ac=47266570)
+
++ [【鼓灵vlog】吃鸭脚煲，顺便逛火炬路喔！](https://m.acfun.cn/v/?ac=47266662)
+
