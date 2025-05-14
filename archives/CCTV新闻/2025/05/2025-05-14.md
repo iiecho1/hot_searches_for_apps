@@ -205,3 +205,5 @@
 
 + [中巴工商界齐聚北京 巴西高官密集表示将加强对华合作](https://news.cctv.com/2025/05/14/ARTI3InvRbZVzCuarcPomGoX250514.shtml)
 
++ [印度旁遮普邦已有21人疑似因饮用假酒死亡](https://news.cctv.com/2025/05/14/ARTIb5ayEOwzmanl6aJaD651250514.shtml)
+

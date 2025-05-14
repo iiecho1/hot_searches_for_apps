@@ -43,3 +43,7 @@
 
 + [“实至名归”618 首日探底：三星 Galaxy S25 系列手机上市 3 月狂砍 1900 元](https://m.ithome.com/html/852562.htm)
 
++ [中国品牌首次打破传统豪华行政旗舰市场垄断：消息称蔚来 ET9 汽车首个完整交付月上险量超宝马 7 系和奥迪 A8L](https://m.ithome.com/html/852489.htm)
+
++ [京东 618 狂促 20 点开始：1 分钟速读国补攻略，iPhone 16 Pro / 三星 S24 Ultra 直降至 5499 元新低](https://m.ithome.com/html/852714.htm)
+
