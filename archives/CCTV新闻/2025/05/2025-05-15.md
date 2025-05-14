@@ -171,3 +171,5 @@
 
 + [巴西米纳斯吉拉斯州发生一起车祸 致9死10伤](https://news.cctv.com/2025/05/15/ARTIHf1kRwFNgKuNCHIPi7HN250515.shtml)
 
++ [美国与卡塔尔签署超2435亿美元经济及军事合作协议](https://news.cctv.com/2025/05/15/ARTIJTEvbyDthZ46sbY5o2vV250515.shtml)
+

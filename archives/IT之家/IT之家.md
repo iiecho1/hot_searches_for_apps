@@ -63,3 +63,15 @@
 
 + [“实至名归”618 首日探底：三星 Galaxy S25 系列手机上市 3 月狂砍 1900 元](https://m.ithome.com/html/852562.htm)
 
++ [0 点抢券：小米 14 Ultra 手机 16GB+512GB 版 6999 → 3774 元新低](https://m.ithome.com/html/852959.htm)
+
++ [小米雷军微博设置关注 100 天才能评论，王化称主要是为了防水军](https://m.ithome.com/html/853048.htm)
+
++ [小米法务部：自媒体“民之力”一审被判赔偿小米公司共计 6 万元](https://m.ithome.com/html/853040.htm)
+
++ [京东外卖：系统故障已全面恢复，订单超时 20 分钟免单](https://m.ithome.com/html/853014.htm)
+
++ [eSIM 技术产业研讨会举办，小米、苹果、联想、OPPO 等参会](https://m.ithome.com/html/852996.htm)
+
++ [苹果发布 iPadOS 17.7.7 紧急安全更新，适用于老款设备](https://m.ithome.com/html/852796.htm)
+
