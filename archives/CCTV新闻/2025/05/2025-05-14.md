@@ -207,3 +207,5 @@
 
 + [印度旁遮普邦已有21人疑似因饮用假酒死亡](https://news.cctv.com/2025/05/14/ARTIb5ayEOwzmanl6aJaD651250514.shtml)
 
++ [125%→10%、24%税率暂停90天 对美关税开始调整](https://news.cctv.com/2025/05/14/ARTI06QUHjuQYlahsAGEuTIL250514.shtml)
+
