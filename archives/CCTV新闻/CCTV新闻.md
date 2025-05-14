@@ -197,3 +197,11 @@
 
 + [阿尔巴尼亚执政党在议会选举中获胜](https://news.cctv.com/2025/05/14/ARTIr9EuwASqxPY4fcGE51C0250514.shtml)
 
++ [日媒：储备米陆续投放，日本大米价格18周来首次转跌](https://news.cctv.com/2025/05/14/ARTIGsR4B5f3lsRIRcSTEhvY250514.shtml)
+
++ [始终做拉美和加勒比国家的好朋友、好伙伴](https://news.cctv.com/2025/05/14/ARTI0kcJ9XRiW8W2cukPuSZA250514.shtml)
+
++ [483.4亿元 今年前4个月我国与哥伦比亚贸易规模创历史同期新高](https://news.cctv.com/2025/05/14/ARTIwXHRgcLOsliHLShDCDaF250514.shtml)
+
++ [中巴工商界齐聚北京 巴西高官密集表示将加强对华合作](https://news.cctv.com/2025/05/14/ARTI3InvRbZVzCuarcPomGoX250514.shtml)
+

@@ -147,3 +147,9 @@
 
 + [iOS即时通信的技术要点](https://blog.csdn.net/baidu_30087715/article/details/147901774)
 
++ [大模型之Spring AI实战系列（二）：Spring Boot + OpenAI 打造聊天应用全攻略](https://blog.csdn.net/xiaobing259/article/details/147890592)
+
++ [AIGC时代 | 终端设备上的大模型轻量化部署：模型压缩与量化全栈方案](https://blog.csdn.net/qq_32682301/article/details/147937826)
+
++ [基于Java和PostGIS的AOI面数据球面面积计算实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/147905744)
+
