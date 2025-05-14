@@ -181,3 +181,19 @@
 
 + [中国代表呼吁采取紧急行动结束加沙人道惨剧](https://news.cctv.com/2025/05/14/ARTISSLGQtRmhgpRsFLGvMiI250514.shtml)
 
++ [戛纳电影节：主竞赛单元评委亮相](https://photo.cctv.com/2025/05/14/PHOA5jWblGCH7cb5ie5tgaxL250514.shtml)
+
++ [强降雨引发洪水 美国马里兰州一小学被紧急疏散](https://news.cctv.com/2025/05/14/ARTIiNyLcDayz5UcXS4LTt8o250514.shtml)
+
++ [乌拉圭前总统何塞·穆希卡去世](https://people.cctv.com/2025/05/14/ARTIAea6llKx9vAij9PBnHVI250514.shtml)
+
++ [以色列称将“全力进入”加沙 哈马斯目标遭“精准打击”](https://news.cctv.com/2025/05/14/ARTIJ7WSWYqeP5VdaeIgfdy5250514.shtml)
+
++ [特朗普说将下令解除对叙利亚制裁](https://news.cctv.com/2025/05/14/ARTIdaP0gSFQOVKpQzNaggLd250514.shtml)
+
++ [美国明尼苏达州发生山火 过火面积超80平方公里](https://news.cctv.com/2025/05/14/ARTIwzNz1hOjubUvMfEXwewj250514.shtml)
+
++ [金正恩观摩朝鲜人民军各兵种战术综合训练](https://news.cctv.com/2025/05/14/ARTIis5dbWXLhBzLWBnI624N250514.shtml)
+
++ [阿尔巴尼亚执政党在议会选举中获胜](https://news.cctv.com/2025/05/14/ARTIr9EuwASqxPY4fcGE51C0250514.shtml)
+
