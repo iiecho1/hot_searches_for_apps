@@ -245,3 +245,5 @@
 
 + [加沙地带九成家庭面临安全用水困难](https://news.cctv.com/2025/05/14/ARTItgp8zIWf1KNTEG8wVrhR250514.shtml)
 
++ [佩斯科夫：俄方代表团15日将在伊斯坦布尔等候乌克兰代表团](https://news.cctv.com/2025/05/14/ARTIisd8FyGk5Nv5dgTSY5sL250514.shtml)
+

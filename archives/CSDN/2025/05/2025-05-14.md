@@ -189,3 +189,13 @@
 
 + [RobotxR1：通过闭环强化学习在大语言模型上实现具身机器人智能](https://blog.csdn.net/yorkhunter/article/details/147902835)
 
++ [JavaScript异步编程 Async/Await 使用详解：从原理到最佳实践](https://blog.csdn.net/lhmyy521125/article/details/147932219)
+
++ [深度强化学习 | 图文详细推导软性演员-评论家SAC算法原理](https://blog.csdn.net/FRIGIDWINTER/article/details/147952065)
+
++ [t*tok的X-Bogus和X-Gnarly参数逆向分析](https://blog.csdn.net/weixin_73499887/article/details/147880540)
+
++ [HTTP / HTTPS 协议](https://blog.csdn.net/Excuse_lighttime/article/details/147925140)
+
++ [学习threejs，使用Physijs物理引擎，通过控制重力，实现多米诺骨牌效果](https://blog.csdn.net/qq_28419035/article/details/147949914)
+
