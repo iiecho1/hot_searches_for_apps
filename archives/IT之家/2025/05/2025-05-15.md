@@ -25,3 +25,27 @@
 
 + [京东 618 狂促 20 点开始：1 分钟速读国补攻略，iPhone 16 Pro / 三星 S24 Ultra 直降至 5499 元新低](https://m.ithome.com/html/852714.htm)
 
++ [英特尔处理器被曝出潜在安全漏洞，影响第九代酷睿及后续所有 CPU](https://m.ithome.com/html/852804.htm)
+
++ [国补后立打 6.6 折：REDMI K80 手机 12+256GB 京东自营 1647 元新低](https://m.ithome.com/html/852779.htm)
+
++ [上市半年 6.9 折腰斩：一加 13 手机 24GB+1TB 版国补后 4170 元新低](https://m.ithome.com/html/852789.htm)
+
++ [灵动岛恐面临调整：罗斯・杨称苹果 iPhone 18 Pro / Max 机型将配屏下 Face ID](https://m.ithome.com/html/852869.htm)
+
++ [7550mAh 电池：小米 REDMI Turbo 4 Pro 手机国补后 1486 元起新低](https://m.ithome.com/html/852832.htm)
+
++ [国补立减 500 元：华为 Mate 70 Pro 优享版手机 5418 元再降价](https://m.ithome.com/html/852752.htm)
+
++ [微信月活首次突破 14 亿](https://m.ithome.com/html/853001.htm)
+
++ [基于开源鸿蒙的移动警务终端亮相，适配 OpenHarmony 5.0 Release 版本和警鸿](https://m.ithome.com/html/852819.htm)
+
++ [华为 nova 14 Ultra 手机四款配色外观公布：白、金、黑、紫，5 月 19 日发布](https://m.ithome.com/html/852877.htm)
+
++ [微软被曝全球裁员 3%，不限地区、级别](https://m.ithome.com/html/852784.htm)
+
++ [京东数码 618 狂促开启：支持一键领券，苹果 / 大疆 / 小米等直降新低](https://m.ithome.com/html/852783.htm)
+
++ [上市 1 月立减 1100 元 + 24 期免息：OPPO Find X8 Ultra 手机首进国补](https://m.ithome.com/html/852755.htm)
+

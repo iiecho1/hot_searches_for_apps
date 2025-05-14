@@ -161,3 +161,13 @@
 
 + [极端天气与气候变化重创非洲 预警能力亟须加强](https://news.cctv.com/2025/05/12/ARTIN88yAZHeQxwm5nwkuSqV250512.shtml)
 
++ [伊外交部：伊朗与英、法、德将于16日举行核问题会议](https://news.cctv.com/2025/05/15/ARTIORMfftta9eDbamR2lGI6250515.shtml)
+
++ [以色列政府发言人：对哈马斯的军事压力将“成倍增加”](https://news.cctv.com/2025/05/15/ARTIY3nR5yhMAYKXSlJ6brh4250515.shtml)
+
++ [俄总统新闻秘书：俄美关系改善与乌克兰危机的解决并不关联](https://news.cctv.com/2025/05/15/ARTIUAtUUc1Ir5GXluTfy0Y3250515.shtml)
+
++ [大熊猫“荷风”“兰韵”正式亮相奥地利维也纳美泉宫动物园](https://news.cctv.com/2025/05/15/ARTIXO5Esa9psbwYEJPjWfS2250515.shtml)
+
++ [巴西米纳斯吉拉斯州发生一起车祸 致9死10伤](https://news.cctv.com/2025/05/15/ARTIHf1kRwFNgKuNCHIPi7HN250515.shtml)
+
