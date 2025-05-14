@@ -37,3 +37,9 @@
 
 + [考虑退坑 Vim](https://www.v2ex.com/t/1131559)
 
++ [有必要学双拼吗？](https://www.v2ex.com/t/1131675)
+
++ [35 岁+程序员， Gap 10 个月后成功再就业，一点经历分享](https://www.v2ex.com/t/1131621)
+
++ [微软发布 Win11 的 KB5058411，看 changelog，感觉可能解决了我之前遇到的很多恶心 bug](https://www.v2ex.com/t/1131582)
+
