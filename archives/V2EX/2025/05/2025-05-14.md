@@ -43,3 +43,5 @@
 
 + [微软发布 Win11 的 KB5058411，看 changelog，感觉可能解决了我之前遇到的很多恶心 bug](https://www.v2ex.com/t/1131582)
 
++ [决赛圈了，汉 L ev 入门 VS 小鹏 P7+2025 旗舰](https://www.v2ex.com/t/1131645)
+

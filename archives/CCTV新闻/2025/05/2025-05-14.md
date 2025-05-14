@@ -213,3 +213,17 @@
 
 + [沙特与美国签署经济、国防等领域合作文件](https://news.cctv.com/2025/05/14/ARTImf1JQXYTjnW066iPDajt250514.shtml)
 
++ [以军拦截胡塞武装导弹 耶路撒冷响起防空警报](https://news.cctv.com/2025/05/14/ARTIfnroDybqYwzzOz4Qjt7r250514.shtml)
+
++ [“联合声明发布第一天，我们的预定量就增长了35%”](https://news.cctv.com/2025/05/14/ARTI2O3xUriwE3fUYBxo3fLp250514.shtml)
+
++ [让中拉合作之树更加挺拔繁茂](https://news.cctv.com/2025/05/14/ARTI8hWriyuZNpHlubfVqCX3250514.shtml)
+
++ [埃及降低苏伊士运河过境费以提振运量](https://news.cctv.com/2025/05/14/ARTIHPNlfiFnQVgXoHgknKLa250514.shtml)
+
++ [多个侵华日军细菌战部队留守名簿文件首次公布](https://news.cctv.com/2025/05/14/ARTI2go2XGEMk5bwOXI0q51L250514.shtml)
+
++ [日媒：日本餐饮公司发声明就旗下门店拒绝接待中国人“道歉”](https://news.cctv.com/2025/05/14/ARTIOvHfrKhX8hhXcwVKosKJ250514.shtml)
+
++ [古巴外长谴责美国再次将古列为“反恐行动不合作国家”](https://news.cctv.com/2025/05/14/ARTIYjtnCXTtrsNZAZjRfv6d250514.shtml)
+
