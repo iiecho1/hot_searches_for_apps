@@ -179,3 +179,13 @@
 
 + [.NET 在鸿蒙系统上的适配现状](https://blog.csdn.net/2401_82505179/article/details/147892497)
 
++ [【RabbitMq C++】消息队列组件](https://blog.csdn.net/fight_p/article/details/147174839)
+
++ [从零构建知识图谱：使用大语言模型处理复杂数据的11步实践指南](https://blog.csdn.net/m0_46510245/article/details/147948306)
+
++ [前端学习（3）—— CSS实现热搜榜](https://blog.csdn.net/aaqq800520/article/details/147930532)
+
++ [MK米客方德SD NAND:无人机存储的高效解决方案](https://blog.csdn.net/sixpp/article/details/147951264)
+
++ [RobotxR1：通过闭环强化学习在大语言模型上实现具身机器人智能](https://blog.csdn.net/yorkhunter/article/details/147902835)
+

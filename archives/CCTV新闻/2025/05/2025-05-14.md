@@ -235,3 +235,13 @@
 
 + [菲律宾中期选举初步结果出炉 杜特尔特家族多人赢得地方选举](https://news.cctv.com/2025/05/14/ARTIZT8yQymHrLWzlnB2UeMH250514.shtml)
 
++ [乌内阁批准启动与欧盟首个谈判集群所需路线图](https://news.cctv.com/2025/05/14/ARTIZYzL0UDQr8cS4Zx6tGHv250514.shtml)
+
++ [“为地区国家基建发展注入动力，为民生发展打开一扇窗”](https://news.cctv.com/2025/05/14/ARTIYD62LV0m60Z8NZS0ekHT250514.shtml)
+
++ [中俄深化合作给民众带来更多实惠](https://news.cctv.com/2025/05/14/ARTIrP7hs59m76PXOMDNIpwN250514.shtml)
+
++ [美国20个州起诉特朗普政府将拨款与执行移民政策挂钩](https://news.cctv.com/2025/05/14/ARTIc6Ol6fpXMgopPq9tsRzI250514.shtml)
+
++ [加沙地带九成家庭面临安全用水困难](https://news.cctv.com/2025/05/14/ARTItgp8zIWf1KNTEG8wVrhR250514.shtml)
+
