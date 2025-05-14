@@ -171,3 +171,11 @@
 
 + [初入OpenCV](https://blog.csdn.net/2301_80657297/article/details/147880546)
 
++ [存储扇区分配表：NAND Flash与SD NAND（贴片式SD卡）的架构差异](https://blog.csdn.net/qyj19920704/article/details/147948016)
+
++ [微信小程序生活服务平台：基于CodeBuddy的现代化开发实践](https://blog.csdn.net/2301_76341691/article/details/147948812)
+
++ [文本数据可视化](https://blog.csdn.net/2301_77327865/article/details/147903030)
+
++ [.NET 在鸿蒙系统上的适配现状](https://blog.csdn.net/2401_82505179/article/details/147892497)
+

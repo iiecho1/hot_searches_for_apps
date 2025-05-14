@@ -47,3 +47,21 @@
 
 + [京东 618 狂促 20 点开始：1 分钟速读国补攻略，iPhone 16 Pro / 三星 S24 Ultra 直降至 5499 元新低](https://m.ithome.com/html/852714.htm)
 
++ [英特尔处理器被曝出潜在安全漏洞，影响第九代酷睿及后续所有 CPU](https://m.ithome.com/html/852804.htm)
+
++ [国补后立打 6.6 折：REDMI K80 手机 12+256GB 京东自营 1647 元新低](https://m.ithome.com/html/852779.htm)
+
++ [上市半年 6.9 折腰斩：一加 13 手机 24GB+1TB 版国补后 4170 元新低](https://m.ithome.com/html/852789.htm)
+
++ [618 会员狂促合集：B站年卡 90 元，腾讯视频 + 京东 PLUS 年卡 148 元发车](https://m.ithome.com/html/852718.htm)
+
++ [7550mAh 电池：小米 REDMI Turbo 4 Pro 手机国补后 1486 元起新低](https://m.ithome.com/html/852832.htm)
+
++ [灵动岛恐面临调整：罗斯・杨称苹果 iPhone 18 Pro / Max 机型将配屏下 Face ID](https://m.ithome.com/html/852869.htm)
+
++ [国补立减 500 元：华为 Mate 70 Pro 优享版手机 5418 元再降价](https://m.ithome.com/html/852752.htm)
+
++ [全新智己 L6 上市：全系四轮转向、最高续航 850 公里，上市权益价 20.49 万元起](https://m.ithome.com/html/852747.htm)
+
++ [基于开源鸿蒙的移动警务终端亮相，适配 OpenHarmony 5.0 Release 版本和警鸿](https://m.ithome.com/html/852819.htm)
+

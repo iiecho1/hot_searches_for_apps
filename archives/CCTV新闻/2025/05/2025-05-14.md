@@ -227,3 +227,11 @@
 
 + [古巴外长谴责美国再次将古列为“反恐行动不合作国家”](https://news.cctv.com/2025/05/14/ARTIYjtnCXTtrsNZAZjRfv6d250514.shtml)
 
++ [日本航空自卫队一练习机在爱知县坠毁](https://news.cctv.com/2025/05/14/ARTIGdgSpZLhiVXs6NwkEeQh250514.shtml)
+
++ [外交部：中方有关芬太尼关税的反制措施仍然有效](https://news.cctv.com/2025/05/14/ARTI4A6MUrCDgy6qiE3e07nS250514.shtml)
+
++ [乌总统：若与普京会谈 全面停火和交换战俘是主要议题](https://news.cctv.com/2025/05/14/ARTIdOzFwo300INJoTCBszAJ250514.shtml)
+
++ [菲律宾中期选举初步结果出炉 杜特尔特家族多人赢得地方选举](https://news.cctv.com/2025/05/14/ARTIZT8yQymHrLWzlnB2UeMH250514.shtml)
+

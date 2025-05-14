@@ -45,3 +45,5 @@
 
 + [决赛圈了，汉 L ev 入门 VS 小鹏 P7+2025 旗舰](https://www.v2ex.com/t/1131645)
 
++ [买个椅子真难](https://www.v2ex.com/t/1131637)
+
