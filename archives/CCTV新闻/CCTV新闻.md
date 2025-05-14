@@ -177,3 +177,7 @@
 
 + [马里总统签署行政令解散所有政党](https://news.cctv.com/2025/05/14/ARTI9TbIM1m7t4lvLn7I21zF250514.shtml)
 
++ [印度旁遮普邦17人因饮用有毒酒精饮料死亡](https://news.cctv.com/2025/05/14/ARTIebUfTFmJhsYfUvqSqwe9250514.shtml)
+
++ [中国代表呼吁采取紧急行动结束加沙人道惨剧](https://news.cctv.com/2025/05/14/ARTISSLGQtRmhgpRsFLGvMiI250514.shtml)
+

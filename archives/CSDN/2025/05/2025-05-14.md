@@ -135,3 +135,11 @@
 
 + [基于微信小程序的城市特色旅游推荐应用的设计与实现](https://blog.csdn.net/qq_31293575/article/details/147907305)
 
++ [24、DeepSeek-V3论文笔记](https://blog.csdn.net/weixin_44986037/article/details/147873186)
+
++ [Python实例题：pygame开发打飞机游戏](https://blog.csdn.net/shangzhiqi/article/details/147724959)
+
++ [AI大模型学习二十、利用Dify+deepseekR1 使用知识库搭建初中英语学习智能客服机器人](https://blog.csdn.net/jiangkp/article/details/147901273)
+
++ [网络安全侦察与漏洞扫描One-Liners](https://blog.csdn.net/2301_79518550/article/details/147880532)
+
