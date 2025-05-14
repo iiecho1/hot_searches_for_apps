@@ -107,3 +107,27 @@
 
 + [MySQL主从复制](https://blog.csdn.net/2501_91114776/article/details/147918718)
 
++ [GpuGeek 大模型教程：凭借镜像与资源优势，带你畅行垂直 AI 领域](https://blog.csdn.net/2301_80350265/article/details/147957057)
+
++ [基于Python的量化交易实盘部署与风险管理指南](https://blog.csdn.net/deepever/article/details/147947600)
+
++ [PostgreSQL 流复制认证机制](https://blog.csdn.net/qq_41773806/article/details/147769916)
+
++ [JavaScript中的this深度剖析 & 对于爬虫扣加密代码的影响](https://blog.csdn.net/qq_44907926/article/details/147902328)
+
++ [node.js 邮箱验证服务器搭建](https://blog.csdn.net/Vone_66/article/details/147908079)
+
++ [.NET 在鸿蒙系统上的适配现状](https://blog.csdn.net/2401_82505179/article/details/147892497)
+
++ [字节DeerFlow开源框架：多智能体深度研究框架，实现端到端自动化研究流程](https://blog.csdn.net/sinat_39620217/article/details/147855939)
+
++ [Maven 项目中将本地依赖库打包到最终的 JAR 中](https://blog.csdn.net/footless_bird/article/details/147889720)
+
++ [MQTT协议详解：物联网通信的轻量级解决方案](https://blog.csdn.net/weixin_37647148/article/details/147922574)
+
++ [python实现usb热插拔检测（linux）](https://blog.csdn.net/qq_43627907/article/details/147902400)
+
++ [【解析：新能源汽车芯片主要玩家及技术发展】](https://blog.csdn.net/weixin_62244995/article/details/147902563)
+
++ [http接口性能优化方案](https://blog.csdn.net/maoer95209520/article/details/147889279)
+

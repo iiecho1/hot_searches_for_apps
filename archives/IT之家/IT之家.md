@@ -49,3 +49,11 @@
 
 + [上市 1 月立减 1100 元 + 24 期免息：OPPO Find X8 Ultra 手机首进国补](https://m.ithome.com/html/852755.htm)
 
++ [京东 618 狂促开启：1 分钟速读国补攻略，iPhone 16 Pro / 三星 S24 Ultra 直降至 5499 元新低](https://m.ithome.com/html/852714.htm)
+
++ [京东、美团、饿了么等外卖平台企业被五部门约谈](https://m.ithome.com/html/852716.htm)
+
++ [618 会员狂促合集：B站年卡 90 元，腾讯视频 + 京东 PLUS 年卡 148 元发车](https://m.ithome.com/html/852718.htm)
+
++ [全新智己 L6 上市：全系四轮转向、最高续航 850 公里，上市权益价 20.49 万元起](https://m.ithome.com/html/852747.htm)
+
