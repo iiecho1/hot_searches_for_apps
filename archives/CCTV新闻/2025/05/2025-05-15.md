@@ -173,3 +173,13 @@
 
 + [美国与卡塔尔签署超2435亿美元经济及军事合作协议](https://news.cctv.com/2025/05/15/ARTIJTEvbyDthZ46sbY5o2vV250515.shtml)
 
++ [美国财政部对伊朗相关个人和实体实施制裁](https://news.cctv.com/2025/05/15/ARTIVfbnpRl17PoRbbFuhU47250515.shtml)
+
++ [泽连斯基：正在等待俄方确认参加会谈的代表团组成](https://news.cctv.com/2025/05/15/ARTIETxa4ilJeq1nLcw5W5iv250515.shtml)
+
++ [65名已获释以色列被扣押人员呼吁推动达成加沙全面停火协议](https://news.cctv.com/2025/05/15/ARTICAADk5MWSUNu01sXL2jx250515.shtml)
+
++ [德国总理默茨发表首份政府声明：将提升国防能力 全力发展经济](https://news.cctv.com/2025/05/15/ARTIQQogschKSCDh1doW3ouc250515.shtml)
+
++ [中方呼吁推动红海局势尽快降温](https://news.cctv.com/2025/05/15/ARTI9iKSqFbTm4UDmpYNrnH1250515.shtml)
+
