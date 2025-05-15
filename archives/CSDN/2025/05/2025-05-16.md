@@ -117,3 +117,5 @@
 
 + [学习threejs，使用Physijs物理引擎，通过控制重力，实现多米诺骨牌效果](https://blog.csdn.net/qq_28419035/article/details/147949914)
 
++ [YOLO v2：目标检测领域的全面性进化](https://blog.csdn.net/weixin_68114439/article/details/147957378)
+
