@@ -201,3 +201,9 @@
 
 + [俄外交部：俄乌伊斯坦布尔谈判改在当地时间15日下午举行](https://news.cctv.com/2025/05/15/ARTIROeELKWNzfHtAVk9uKUd250515.shtml)
 
++ [【国际微访谈】秘鲁外交部长：钱凯港是秘中共同迈出的里程碑式的一步](https://news.cctv.com/2025/05/15/ARTIB4gZxwpB4JINarA7x0Cs250515.shtml)
+
++ [外媒关注中美经贸高层会谈成果：意义重大，有助提振经济前景](https://news.cctv.com/2025/05/15/ARTIP34UGdG74YJoag8wj13u250515.shtml)
+
++ [外媒观察 | 中美关税会谈后 国际舆论称中国作为经济伙伴的可靠性正在上升](https://news.cctv.com/2025/05/15/ARTIje7Ztj6ez2XnOzVPzHpH250515.shtml)
+

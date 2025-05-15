@@ -211,3 +211,9 @@
 
 + [JVM 与云原生的完美融合：引领技术潮流](https://blog.csdn.net/yunsteel/article/details/147961796)
 
++ [【Linux系列】Linux 系统下 SSD 磁盘识别](https://blog.csdn.net/qyj19920704/article/details/147870265)
+
++ [Windows平台OpenManus部署及WebUI远程访问实现](https://blog.csdn.net/m0_61712829/article/details/147982163)
+
++ [【网络协议】TCP、HTTP、MQTT 和 WebSocket 对比](https://blog.csdn.net/weixin_42430947/article/details/147960539)
+
