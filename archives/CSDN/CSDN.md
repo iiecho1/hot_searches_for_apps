@@ -105,3 +105,15 @@
 
 + [LLaMA-Factory 微调 Qwen2-7B-Instruct](https://blog.csdn.net/qq_41934789/article/details/147935166)
 
++ [大模型之Spring AI实战系列（四）：Spring Boot + OpenAI 使用OpenAI Embedding实现文本向量化](https://blog.csdn.net/xiaobing259/article/details/147928677)
+
++ [Vue3 本地环境 Vite 与生产环境 Nginx 反向代理配置方法汇总【反向代理篇】](https://blog.csdn.net/mss359681091/article/details/147991159)
+
++ [详细说说Spring的IOC机制](https://blog.csdn.net/2508_90580492/article/details/147965114)
+
++ [FPGA：Xilinx Kintex 7实现DDR3 SDRAM读写](https://blog.csdn.net/u011732210/article/details/147964205)
+
++ [技术中台-核心技术介绍(微服务、云原生、DevOps等)](https://blog.csdn.net/lcwdzl/article/details/147949112)
+
++ [学习threejs，使用Physijs物理引擎，通过控制重力，实现多米诺骨牌效果](https://blog.csdn.net/qq_28419035/article/details/147949914)
+
