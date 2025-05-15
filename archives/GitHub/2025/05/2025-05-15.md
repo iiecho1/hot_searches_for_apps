@@ -23,3 +23,13 @@
 
 + [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 
++ [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
+
++ [overleaf/overleaf](https://github.com/overleaf/overleaf)
+
++ [facebookresearch/fairchem](https://github.com/facebookresearch/fairchem)
+
++ [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser)
+
++ [trycua/cua](https://github.com/trycua/cua)
+
