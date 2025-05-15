@@ -223,3 +223,5 @@
 
 + [前端服务器部署分类总结](https://blog.csdn.net/weixin_47389477/article/details/147965467)
 
++ [JVM方法区核心技术解析：从方法区到执行引擎](https://blog.csdn.net/tulingtuling/article/details/147834428)
+
