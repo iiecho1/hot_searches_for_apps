@@ -21,3 +21,7 @@
 
 + [马上 618 了烙铁们购物车里都有什么？](https://www.v2ex.com/t/1131613)
 
++ [小米电视还真是过保就坏](https://www.v2ex.com/t/1131728)
+
++ [我感觉 Flclash 比 clash for windows 好用](https://www.v2ex.com/t/1131724)
+

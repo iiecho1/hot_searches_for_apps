@@ -189,3 +189,5 @@
 
 + [海合会国家领导人重申对巴勒斯坦事业的支持](https://news.cctv.com/2025/05/15/ARTIl8OpkDbqsAXXwMqhuHjc250515.shtml)
 
++ [墨西哥中部发生严重交通事故致21人死亡](https://news.cctv.com/2025/05/15/ARTIDp8MygskMDG5XOkaUxhq250515.shtml)
+
