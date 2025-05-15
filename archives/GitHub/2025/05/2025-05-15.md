@@ -21,3 +21,5 @@
 
 + [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
