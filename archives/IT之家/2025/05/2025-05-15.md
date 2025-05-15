@@ -77,3 +77,15 @@
 
 + [隔日再降百元：小米 14 Ultra 手机 16GB+512GB 版 6999 → 3774 元新低](https://m.ithome.com/html/852959.htm)
 
++ [波音斩获公司史上最大单笔宽体客机订单，卡塔尔航空豪购至多 210 架飞机](https://m.ithome.com/html/853106.htm)
+
++ [何小鹏宣布小鹏 P7 大改款](https://m.ithome.com/html/853120.htm)
+
++ [消息称华为折叠 PC 内置大面积线性马达，搭载自研麒麟 X90 芯片 + 鸿蒙系统](https://m.ithome.com/html/853118.htm)
+
++ [李斌：蔚来虽然致敬了奔驰、宝马、保时捷，但没有抄袭](https://m.ithome.com/html/853067.htm)
+
++ [“大天地 展非凡”：华为鸿蒙电脑 ULTIMATE DESIGN 官宣，5 月 19 日发布](https://m.ithome.com/html/853108.htm)
+
++ [消息称 2027 年 20 周年纪念版 iPhone 将迎大变革：采用四曲面真全面屏设计](https://m.ithome.com/html/853027.htm)
+

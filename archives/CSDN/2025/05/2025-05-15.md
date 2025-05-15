@@ -187,3 +187,9 @@
 
 + [【taro3 + vue3 + webpack4】在微信小程序中的请求封装及使用](https://blog.csdn.net/qq_45954390/article/details/147927523)
 
++ [Java 大视界 -- Java 大数据在智能安防生物特征识别系统中的多模态融合优化（246）](https://blog.csdn.net/atgfg/article/details/147860793)
+
++ [智能手表项目风险评估与应对计划书](https://blog.csdn.net/hoony123/article/details/147955390)
+
++ [榕壹云搭子系统技术解析：基于Spring Boot+MySQL+UniApp的同城社交平台开发实践](https://blog.csdn.net/2401_86780002/article/details/147929101)
+
