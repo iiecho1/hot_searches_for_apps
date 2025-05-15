@@ -161,3 +161,7 @@
 
 + [印度旁遮普邦14人因饮用假酒死亡](https://news.cctv.com/2025/05/13/ARTI5h2PrPdTqBigpnT6aenI250513.shtml)
 
++ [旅奥大熊猫“荷风”“兰韵”亮相维也纳](https://news.cctv.com/2025/05/16/ARTIWiwVoqr8NUm01s4Wcmxf250516.shtml)
+
++ [经贸合作为中拉经济持续发展增添新动力](https://jingji.cctv.com/2025/05/16/ARTICgy0kRHnG98d4RLSkkIQ250516.shtml)
+

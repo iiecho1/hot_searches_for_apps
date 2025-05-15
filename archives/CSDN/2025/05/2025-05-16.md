@@ -101,3 +101,7 @@
 
 + [前端服务器部署分类总结](https://blog.csdn.net/weixin_47389477/article/details/147965467)
 
++ [OpenHarmony轻量系统--BearPi-Nano开发板网络程序测试](https://blog.csdn.net/Tony_Shen/article/details/147952908)
+
++ [LLaMA-Factory 微调 Qwen2-7B-Instruct](https://blog.csdn.net/qq_41934789/article/details/147935166)
+
