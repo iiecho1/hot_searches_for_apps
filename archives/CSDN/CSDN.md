@@ -193,3 +193,9 @@
 
 + [榕壹云搭子系统技术解析：基于Spring Boot+MySQL+UniApp的同城社交平台开发实践](https://blog.csdn.net/2401_86780002/article/details/147929101)
 
++ [SmolDocling技术解析：2.56亿参数胜过70亿参数的轻量级文档处理模型](https://blog.csdn.net/m0_46510245/article/details/147976873)
+
++ [基于面向对象设计的C++日期推算引擎：精准高效的时间运算实现与运算重载工程化实践](https://blog.csdn.net/Dovis5884/article/details/147978915)
+
++ [游戏引擎学习第279天:将实体存储移入世界区块](https://blog.csdn.net/TM1695648164/article/details/147953449)
+
