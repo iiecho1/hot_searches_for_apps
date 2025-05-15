@@ -177,3 +177,13 @@
 
 + [【Linux笔记】——进程信号的保存](https://blog.csdn.net/GGDxianv/article/details/147904072)
 
++ [TensorFlow深度学习实战（16）——注意力机制详解](https://blog.csdn.net/LOVEmy134611/article/details/147969071)
+
++ [【现代深度学习技术】注意力机制07：Transformer](https://blog.csdn.net/Morse_Chen/article/details/147970530)
+
++ [【论文复现】基于文本挖掘的互联网医疗平台用户画像模型构建](https://blog.csdn.net/m0_64336780/article/details/142306929)
+
++ [医院网络安全托管服务(MSS)深度解读与实践路径](https://blog.csdn.net/kkiron/article/details/147973409)
+
++ [【taro3 + vue3 + webpack4】在微信小程序中的请求封装及使用](https://blog.csdn.net/qq_45954390/article/details/147927523)
+
