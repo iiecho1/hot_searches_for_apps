@@ -149,3 +149,19 @@
 
 + [vue3与springboot交互-前后分离【完成登陆验证及页面跳转】](https://blog.csdn.net/mobangde/article/details/147923208)
 
++ [GpuGeek全栈AI开发实战：从零构建企业级大模型生产管线（附完整案例）](https://blog.csdn.net/Dreamy_zsy/article/details/147902059)
+
++ [【MySQL】：数据库表的 CRUD 操作](https://blog.csdn.net/island1314/article/details/147952807)
+
++ [React百日学习计划-Grok3](https://blog.csdn.net/LuckyLay/article/details/147926875)
+
++ [2025年中国主流DevOps平台对比分析：Gitee、阿里云效与GitLab CE的技术适配与合规实践全景解读](https://blog.csdn.net/2501_91074808/article/details/147949201)
+
++ [51单片机——交通指示灯控制器设计](https://blog.csdn.net/shidisy/article/details/147964388)
+
++ [ChromeDriver 技术生态与应用场景深度解析](https://blog.csdn.net/weixin_39863120/article/details/147899461)
+
++ [JAVA研发+前后端分离，ZKmall开源商城B2C商城如何保障系统性能？](https://blog.csdn.net/zkmall/article/details/147936255)
+
++ [网络安全-等级保护(等保) 2-3 GB/T 22240—2020《信息安全技术 网络安全等级保护定级指南》-2020-04-28发布【现行】](https://blog.csdn.net/qq_42591962/article/details/147924351)
+

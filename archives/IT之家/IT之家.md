@@ -75,3 +75,5 @@
 
 + [苹果发布 iPadOS 17.7.7 紧急安全更新，适用于老款设备](https://m.ithome.com/html/852796.htm)
 
++ [隔日再降百元：小米 14 Ultra 手机 16GB+512GB 版 6999 → 3774 元新低](https://m.ithome.com/html/852959.htm)
+
