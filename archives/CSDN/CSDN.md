@@ -119,3 +119,5 @@
 
 + [YOLO v2：目标检测领域的全面性进化](https://blog.csdn.net/weixin_68114439/article/details/147957378)
 
++ [2025长三角杯数学建模A题思路模型代码：智能手机产品设计优化与定价问题](https://blog.csdn.net/2301_81596622/article/details/147975798)
+

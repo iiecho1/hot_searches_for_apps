@@ -165,3 +165,9 @@
 
 + [经贸合作为中拉经济持续发展增添新动力](https://jingji.cctv.com/2025/05/16/ARTICgy0kRHnG98d4RLSkkIQ250516.shtml)
 
++ [圭亚那称其军队在边境地区遭委内瑞拉武装打击](https://news.cctv.com/2025/05/16/ARTI7ASVXs8JVDzrAW63IIJS250516.shtml)
+
++ [哈马斯官员：若实现永久停火 可交出加沙地带控制权](https://news.cctv.com/2025/05/16/ARTIsY4uofXOAEZIxalICWyd250516.shtml)
+
++ [联合国报告：全球经济前景恶化 面临高度不确定性](https://news.cctv.com/2025/05/16/ARTI6F3udvkJb1WqPnKMLm79250516.shtml)
+
