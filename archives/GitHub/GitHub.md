@@ -25,3 +25,17 @@
 
 + [trycua/cua](https://github.com/trycua/cua)
 
++ [neondatabase/neon](https://github.com/neondatabase/neon)
+
++ [git-bug/git-bug](https://github.com/git-bug/git-bug)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+
++ [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
