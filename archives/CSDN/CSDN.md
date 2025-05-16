@@ -133,3 +133,15 @@
 
 + [可视化数据图表怎么做？如何实现三维数据可视化？](https://blog.csdn.net/yuanziok/article/details/147949740)
 
++ [大模型之Spring AI实战系列（六）：借助PromptTemplate在使用OpenAI时构建动态提示词系统](https://blog.csdn.net/xiaobing259/article/details/147961136)
+
++ [基于Leaflet和天地图的免费运动场所WebGIS可视化-以长沙市为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/147962054)
+
++ [掌握 LangChain 文档处理核心：Document Loaders 与 Text Splitters 全解析](https://blog.csdn.net/weixin_53269650/article/details/147959663)
+
++ [如何搭建Spring-Boot框架](https://blog.csdn.net/DaphneWee/article/details/147976275)
+
++ [【Elasticsearch】DSL 篇](https://blog.csdn.net/qq_54088234/article/details/147946227)
+
++ [Trae 插件 Builder 模式：从 0 到 1 开发天气查询小程序，解锁 AI 编程新体验](https://blog.csdn.net/2302_79177254/article/details/147989188)
+

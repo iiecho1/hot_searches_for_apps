@@ -173,3 +173,5 @@
 
 + [“以整个地区的视角规划与中国的合作”——访拉美和加勒比国家驻华使团团长、乌拉圭驻华大使卢格里斯](https://news.cctv.com/2025/05/16/ARTI4tcwD5XTCFSStYZzM0xH250516.shtml)
 
++ [日本一季度实际GDP环比下降0.2%](https://news.cctv.com/2025/05/16/ARTIgJKnesfywamsm6lF13Fg250516.shtml)
+
