@@ -183,3 +183,5 @@
 
 + [“赤道玫瑰”的跨洋之旅](https://news.cctv.com/2025/05/16/ARTIoFh5z8McMc9SlJLFjCQH250516.shtml)
 
++ [阿联酋与美国达成超过2000亿美元协议](https://news.cctv.com/2025/05/16/ARTIbD5ngygQzWxiUmbFqqB7250516.shtml)
+

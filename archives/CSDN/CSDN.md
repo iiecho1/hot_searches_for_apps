@@ -151,3 +151,7 @@
 
 + [基于FPGA的车速检测系统仿真设计与实现](https://blog.csdn.net/Candy5204/article/details/147993169)
 
++ [从零构建知识图谱：使用大语言模型处理复杂数据的11步实践指南](https://blog.csdn.net/m0_46510245/article/details/147948306)
+
++ [SaaS基于云计算、大数据的Java云HIS平台信息化系统源码](https://blog.csdn.net/qq_27741787/article/details/147977545)
+
