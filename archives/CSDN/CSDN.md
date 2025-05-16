@@ -103,3 +103,25 @@
 
 + [【鸿蒙开发】性能优化](https://blog.csdn.net/sheldon178/article/details/147993292)
 
++ [【MySQL】数据库三大范式](https://blog.csdn.net/2402_86304740/article/details/147566985)
+
++ [LabVIEW机械振动信号分析与故障诊断](https://blog.csdn.net/bjcyck/article/details/147969591)
+
++ [ES常识8：ES8.X如何实现热词统计](https://blog.csdn.net/qq_30118563/article/details/147993492)
+
++ [程序人生-Hello’s P2P](https://blog.csdn.net/2301_79620348/article/details/147980182)
+
++ [linux - 权限的概念](https://blog.csdn.net/2301_80772499/article/details/147957850)
+
++ [GitHub 趋势日报 (2025年05月13日)](https://blog.csdn.net/ShrCheng/article/details/147939924)
+
++ [Spring Cloud：构建云原生微服务架构的最佳工具和实践](https://blog.csdn.net/eternal__day/article/details/147963518)
+
++ [最新Spring Security实战教程（十五）快速集成 GitHub 与 Gitee 的社交登录](https://blog.csdn.net/lhmyy521125/article/details/147991403)
+
++ [Linux服务之lvs+keepalived nginx+keepalived负载均衡实例解析](https://blog.csdn.net/yinglongdiwan/article/details/147985144)
+
++ [2025tg最新免费社工库机器人](https://blog.csdn.net/xxx_un/article/details/147948349)
+
++ [用Flutter构建一个2048小游戏](https://blog.csdn.net/iteye_5430/article/details/147927615)
+
