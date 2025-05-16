@@ -141,3 +141,9 @@
 
 + [SaaS基于云计算、大数据的Java云HIS平台信息化系统源码](https://blog.csdn.net/qq_27741787/article/details/147977545)
 
++ [FAAC 在君正平台使用得到aac实时音频流](https://blog.csdn.net/m0_52972473/article/details/148010431)
+
++ [iOS 阅后即焚功能的实现](https://blog.csdn.net/baidu_30087715/article/details/147939258)
+
++ [Python 翻译词典小程序](https://blog.csdn.net/coolinfo/article/details/147981699)
+

@@ -163,3 +163,11 @@
 
 + [联合国报告：全球粮食危机持续恶化　超2.9亿人面临严重饥饿](https://news.cctv.com/2025/05/17/ARTItQQBZJYTdhSoLi9fPRX6250517.shtml)
 
++ [消息人士称美政府计划将100万巴勒斯坦人迁往利比亚](https://news.cctv.com/2025/05/17/ARTIH6j9TVJ8jX9GsQD5CK9k250517.shtml)
+
++ [雅典卫城上空现“巨鞋”形状无人机群 希腊下令彻查](https://news.cctv.com/2025/05/17/ARTII7y4sEgmoym47RzDLEzD250517.shtml)
+
++ [联合国：欢迎俄乌伊斯坦布尔会谈 希望实现全面停火](https://news.cctv.com/2025/05/17/ARTIuK9T2kJwmmhtCMUQr9FU250517.shtml)
+
++ [特朗普政府涉税改法案遭众议院预算委员会否决](https://news.cctv.com/2025/05/17/ARTIf6GKuuWfBJkImsYnMsMR250517.shtml)
+
