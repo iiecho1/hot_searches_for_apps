@@ -195,3 +195,7 @@
 
 + [使用GpuGeek高效完成LLaMA大模型微调：实践与心得分享](https://blog.csdn.net/lwcwam/article/details/147975303)
 
++ [【Docker系列】挂载文件结果是目录](https://blog.csdn.net/qyj19920704/article/details/147876359)
+
++ [HarmonyOS NEXT～React Native在鸿蒙系统(HarmonyOS)上的适配现状与技术展望](https://blog.csdn.net/weixin_41905135/article/details/147949079)
+
