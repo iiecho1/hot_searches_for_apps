@@ -25,3 +25,27 @@
 
 + [eSIM 技术产业研讨会举办，小米、苹果、联想、OPPO 等参会](https://m.ithome.com/html/852996.htm)
 
++ [小米自研手机 SoC 芯片“玄戒 O1”官宣：5 月下旬发布，雷军感叹“十年造芯路”](https://m.ithome.com/html/853328.htm)
+
++ [雷军官宣小米自研手机 SoC 芯片“玄戒 O1”视频曝光](https://m.ithome.com/html/853345.htm)
+
++ [小米最便宜手机：REDMI 14C 无充电器版发布，国补后 399 元起](https://m.ithome.com/html/853346.htm)
+
++ [华为海思芯片强势回归，Counterpoint 称其 2024 年收入同比翻倍](https://m.ithome.com/html/853297.htm)
+
++ [多屏协同能力增强，华为 Mate 60 / Pura 70 系列等手机获鸿蒙 HarmonyOS NEXT 5.0.1.120 升级](https://m.ithome.com/html/853366.htm)
+
++ [“微信过期图片可找回”登上热搜，腾讯员工否认并详解机制](https://m.ithome.com/html/853332.htm)
+
++ [特朗普：已告诉库克，自己不希望苹果在印度建厂](https://m.ithome.com/html/853238.htm)
+
++ [雷军最新内部演讲曝光：15 岁的小米不再是行业新人，要有更高的标准和目标](https://m.ithome.com/html/853409.htm)
+
++ [华为 WATCH 5、WATCH FIT 4 / Pro 智能手表海外发布，399.99/ 149.99 /249.99 美元起售](https://m.ithome.com/html/853353.htm)
+
++ [商务部回应美方滥用出口管制措施限制华为昇腾芯片：将采取坚决措施维护中国企业正当权益](https://m.ithome.com/html/853261.htm)
+
++ [苹果新一代 CarPlay Ultra 正式发布：深度整合车辆控制功能，阿斯顿・马丁车主率先用上](https://m.ithome.com/html/853326.htm)
+
++ [OPPO 史上首台为直播而生的手机：Reno14 Pro 发布，国补后 2999 元起](https://m.ithome.com/html/853258.htm)
+
