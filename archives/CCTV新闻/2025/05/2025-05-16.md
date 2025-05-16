@@ -175,3 +175,11 @@
 
 + [日本一季度实际GDP环比下降0.2%](https://news.cctv.com/2025/05/16/ARTIgJKnesfywamsm6lF13Fg250516.shtml)
 
++ [俄陆军总司令调任联邦安全会议副秘书](https://military.cctv.com/2025/05/16/ARTISGxdHdEhCVoNPUNx7AtJ250516.shtml)
+
++ [“中国的经济发展模式对阿拉伯国家有激励作用”——访黎巴嫩美国科技大学工商管理学院院长皮埃尔·扈利](https://news.cctv.com/2025/05/16/ARTIrj2XGbRr9xdgzfFohMCM250516.shtml)
+
++ [好好说画 ｜“上合”与天津的那些事儿 ：“中乌丝路”又有新故事？](https://news.cctv.com/2025/05/16/ARTIRvLBTEWtcOMMtmFAdnv0250516.shtml)
+
++ [“赤道玫瑰”的跨洋之旅](https://news.cctv.com/2025/05/16/ARTIoFh5z8McMc9SlJLFjCQH250516.shtml)
+

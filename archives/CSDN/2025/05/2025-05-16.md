@@ -145,3 +145,9 @@
 
 + [Trae 插件 Builder 模式：从 0 到 1 开发天气查询小程序，解锁 AI 编程新体验](https://blog.csdn.net/2302_79177254/article/details/147989188)
 
++ [防御保护-----第十三章：L2TP VPN](https://blog.csdn.net/m0_75008371/article/details/147919106)
+
++ [2025长三角数学建模C题完整思路](https://blog.csdn.net/weixin_46211269/article/details/147976840)
+
++ [基于FPGA的车速检测系统仿真设计与实现](https://blog.csdn.net/Candy5204/article/details/147993169)
+
