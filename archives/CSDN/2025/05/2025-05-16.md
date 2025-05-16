@@ -121,3 +121,15 @@
 
 + [2025长三角杯数学建模A题思路模型代码：智能手机产品设计优化与定价问题](https://blog.csdn.net/2301_81596622/article/details/147975798)
 
++ [【RabbitMq C++】消息队列组件](https://blog.csdn.net/fight_p/article/details/147174839)
+
++ [【MySQL】：数据库表的 CRUD 操作](https://blog.csdn.net/island1314/article/details/147952807)
+
++ [第二章：CSS秘典 · 色彩与布局的力量](https://blog.csdn.net/weixin_51798265/article/details/147962208)
+
++ [GitHub 趋势日报 (2025年05月13日)](https://blog.csdn.net/ShrCheng/article/details/147939924)
+
++ [MK米客方德SD NAND:无人机存储的高效解决方案](https://blog.csdn.net/sixpp/article/details/147951264)
+
++ [可视化数据图表怎么做？如何实现三维数据可视化？](https://blog.csdn.net/yuanziok/article/details/147949740)
+
