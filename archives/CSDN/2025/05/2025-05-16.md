@@ -191,3 +191,7 @@
 
 + [程序人生-Hello’s P2P](https://blog.csdn.net/2301_79620348/article/details/147980182)
 
++ [Kafka消息路由分区机制深度解析：架构设计与实现原理](https://blog.csdn.net/fjkxyl/article/details/147993906)
+
++ [使用GpuGeek高效完成LLaMA大模型微调：实践与心得分享](https://blog.csdn.net/lwcwam/article/details/147975303)
+
