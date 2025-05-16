@@ -155,3 +155,15 @@
 
 + [SaaS基于云计算、大数据的Java云HIS平台信息化系统源码](https://blog.csdn.net/qq_27741787/article/details/147977545)
 
++ [GpuGeek 实操指南：So-VITS-SVC 语音合成与 Stable Diffusion 文生图双模型搭建，融合即梦 AI 的深度实践](https://blog.csdn.net/weixin_62765017/article/details/147917019)
+
++ [分类预测 | Matlab实现ABC-Transformer人工蜂群算法优化编码器多特征分类预测/故障诊断Matlab实现](https://blog.csdn.net/kjm13182345320/article/details/147993416)
+
++ [【Rust闭包】rust语言闭包函数原理用法汇总与应用实战](https://blog.csdn.net/littlefun591/article/details/147988634)
+
++ [医学影像系统性能优化与调试技术：深度剖析与实践指南](https://blog.csdn.net/martian665/article/details/147730078)
+
++ [LabVIEW光谱检测系统](https://blog.csdn.net/bjcyck/article/details/147998700)
+
++ [TCP实现安全传输的核心机制 + TCP的报文讲解（全程图文讲解）](https://blog.csdn.net/Lizhihao_/article/details/147580155)
+
