@@ -169,3 +169,5 @@
 
 + [Maven 插件参数注入与Mojo开发详解](https://blog.csdn.net/lilinhai548/article/details/147963617)
 
++ [2025三掌柜赠书活动第十七期 稳敏兼顾：数字化研发管理实战](https://blog.csdn.net/CC1991_/article/details/147929478)
+
