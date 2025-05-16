@@ -131,3 +131,9 @@
 
 + [实现可靠的 WebSocket 连接：心跳与自动重连的最佳实践](https://blog.csdn.net/pangzimin/article/details/147988831)
 
++ [Android学习总结之类LiveData与ViewModel关系篇](https://blog.csdn.net/2301_80329517/article/details/147638928)
+
++ [麒麟系统ARM64架构部署mysql、jdk和java项目](https://blog.csdn.net/fei_thefirst/article/details/147985011)
+
++ [面向具身智能的视觉-语言-动作模型（VLA）综述](https://blog.csdn.net/weixin_44887311/article/details/147948790)
+
