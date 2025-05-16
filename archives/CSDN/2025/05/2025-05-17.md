@@ -137,3 +137,5 @@
 
 + [面向具身智能的视觉-语言-动作模型（VLA）综述](https://blog.csdn.net/weixin_44887311/article/details/147948790)
 
++ [什么时候可以开始学习深度学习？](https://blog.csdn.net/weixin_41560800/article/details/147982169)
+
