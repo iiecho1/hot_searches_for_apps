@@ -191,3 +191,5 @@
 
 + [土耳其、美国、乌克兰代表团抵达会场 即将举行会谈](https://news.cctv.com/2025/05/16/ARTIxQYvZY8St6owCNQLHasP250516.shtml)
 
++ [美国学者罗伯特·罗斯：中国加大绿色投资 助力应对全球气候变化](https://news.cctv.com/2025/05/16/ARTI4OTcf7n2F3szLVHk8o7E250516.shtml)
+

@@ -179,3 +179,15 @@
 
 + [【物联网】基于树莓派的物联网开发【3】——最新镜像下载和烧录](https://blog.csdn.net/weixin_44504146/article/details/147983723)
 
++ [C# 实现雪花算法（Snowflake Algorithm）详解与应用](https://blog.csdn.net/weixin_48916144/article/details/147990723)
+
++ [【RabbitMQ】路由模式和通配符模式的具体实现](https://blog.csdn.net/Yeeear/article/details/147918332)
+
++ [2025认证杯数学建模第二阶段C题：化工厂生产流程的预测和控制，思路+模型+代码](https://blog.csdn.net/2301_81596622/article/details/147993154)
+
++ [【鸿蒙开发】性能优化](https://blog.csdn.net/sheldon178/article/details/147993292)
+
++ [学习threejs，使用Physijs物理引擎，各种constraint约束限制](https://blog.csdn.net/qq_28419035/article/details/148005383)
+
++ [程序人生-Hello’s P2P](https://blog.csdn.net/2301_79620348/article/details/147980182)
+
