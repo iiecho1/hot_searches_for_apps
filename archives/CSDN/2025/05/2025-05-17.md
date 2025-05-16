@@ -125,3 +125,9 @@
 
 + [用Flutter构建一个2048小游戏](https://blog.csdn.net/iteye_5430/article/details/147927615)
 
++ [Maven 插件参数注入与Mojo开发详解](https://blog.csdn.net/lilinhai548/article/details/147963617)
+
++ [MySQL-数据库分布式XA事务](https://blog.csdn.net/sunboylife/article/details/147981118)
+
++ [实现可靠的 WebSocket 连接：心跳与自动重连的最佳实践](https://blog.csdn.net/pangzimin/article/details/147988831)
+
