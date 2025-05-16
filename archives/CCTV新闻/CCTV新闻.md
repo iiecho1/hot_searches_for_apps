@@ -161,3 +161,5 @@
 
 + [印度宣布一名巴基斯坦外交官为不受欢迎的人](https://news.cctv.com/2025/05/14/ARTIjDZtEDkksp7voneGNMAu250514.shtml)
 
++ [联合国报告：全球粮食危机持续恶化　超2.9亿人面临严重饥饿](https://news.cctv.com/2025/05/17/ARTItQQBZJYTdhSoLi9fPRX6250517.shtml)
+
