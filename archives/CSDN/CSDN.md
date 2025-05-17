@@ -153,3 +153,13 @@
 
 + [C++之fmt库介绍和使用(1)](https://blog.csdn.net/Once_day/article/details/147962940)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的少样本学习与迁移学习融合（250）](https://blog.csdn.net/atgfg/article/details/147966161)
+
++ [一个年轻工程师在AI时代中所面临的核心矛盾](https://blog.csdn.net/2301_79342058/article/details/147994260)
+
++ [Java大对象存储：@Lob注解处理BLOB和CLOB](https://blog.csdn.net/weixin_55344375/article/details/147941809)
+
++ [Web 架构之状态码全解](https://blog.csdn.net/XiaoRungen/article/details/147956219)
+
++ [MK米客方德SD NAND:无人机存储的高效解决方案](https://blog.csdn.net/sixpp/article/details/147951264)
+

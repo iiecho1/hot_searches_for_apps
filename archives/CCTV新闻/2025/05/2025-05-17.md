@@ -185,3 +185,11 @@
 
 + [强风暴袭击美国中东部多州致4人死亡 数千家庭断电](https://news.cctv.com/2025/05/17/ARTIjdknJPaUCAsOKDOHpF9C250517.shtml)
 
++ [美国拉斯维加斯发生枪击事件 致一死多伤](https://news.cctv.com/2025/05/17/ARTI7ZIbRSky2oFhmgu44YH8250517.shtml)
+
++ [允许半自动步枪改连发 美国政府放宽枪支改装限制](https://news.cctv.com/2025/05/17/ARTIyLry5FmtHgy3uQ3Nhona250517.shtml)
+
++ [金正恩指导朝鲜空军防空战斗及空袭训练](https://news.cctv.com/2025/05/17/ARTI6WubItS1XgArYRHbajwc250517.shtml)
+
++ [时隔3年 持续近2小时 俄乌在土耳其谈成了什么？](https://news.cctv.com/2025/05/17/ARTIp5OUEEm4EmwM3p8jYIpC250517.shtml)
+
