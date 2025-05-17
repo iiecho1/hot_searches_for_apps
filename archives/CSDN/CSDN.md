@@ -129,3 +129,5 @@
 
 + [探索前沿技术，重塑智能家居新格局](https://blog.csdn.net/universsky2015/article/details/148036865)
 
++ [SpringBoot + Shiro + JWT 实现认证与授权完整方案实现](https://blog.csdn.net/weixin_41798072/article/details/148018786)
+
