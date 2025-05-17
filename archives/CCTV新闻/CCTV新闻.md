@@ -165,3 +165,5 @@
 
 + [苏丹西部一难民营持续遭遇炮击 造成18人死亡](https://news.cctv.com/2025/05/18/ARTI6KAfo86ZHnoOQnmMjt7U250518.shtml)
 
++ [秘鲁中南部地区发生6.0级地震](https://news.cctv.com/2025/05/18/ARTI7ecohUCPfB0wEZoyBX2Q250518.shtml)
+
