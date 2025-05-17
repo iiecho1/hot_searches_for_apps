@@ -125,3 +125,7 @@
 
 + [python爬虫实战训练](https://blog.csdn.net/2402_88126487/article/details/148014159)
 
++ [我的 PDF 工具箱：CodeBuddy 打造 PDFMagician 的全过程记录](https://blog.csdn.net/qq_21484461/article/details/147995673)
+
++ [探索前沿技术，重塑智能家居新格局](https://blog.csdn.net/universsky2015/article/details/148036865)
+
