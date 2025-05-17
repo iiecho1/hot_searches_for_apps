@@ -181,3 +181,7 @@
 
 + [WPS中代码段的识别方法及JS宏实现](https://blog.csdn.net/lzm12278828/article/details/148020004)
 
++ [DataInLong任务切换实践：从Kafka-A到Kafka-B的数据迁移指南](https://blog.csdn.net/weixin_44976692/article/details/148006510)
+
++ [物联网设备远程管理：基于代理IP的安全固件更新通道方案](https://blog.csdn.net/2501_91457362/article/details/148012805)
+
