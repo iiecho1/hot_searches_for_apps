@@ -195,3 +195,9 @@
 
 + [Qt/C++编写音视频实时通话程序/画中画/设备热插拔/支持本地摄像头和桌面](https://blog.csdn.net/feiyangqingyun/article/details/147997830)
 
++ [大数据：新能源汽车宇宙的未来曲率引擎](https://blog.csdn.net/weixin_62244995/article/details/147961415)
+
++ [【网络编程】九、详解 HTTPS 加密原理](https://blog.csdn.net/lirendada/article/details/147985664)
+
++ [【Linux】动静态库链接原理](https://blog.csdn.net/tan_run/article/details/147995053)
+

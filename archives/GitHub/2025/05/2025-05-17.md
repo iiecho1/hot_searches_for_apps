@@ -27,3 +27,19 @@
 
 + [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+
++ [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner)
+
++ [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
+
++ [facebookresearch/fairchem](https://github.com/facebookresearch/fairchem)
+
++ [itdoginfo/podkop](https://github.com/itdoginfo/podkop)
+
++ [google/perfetto](https://github.com/google/perfetto)
+
++ [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
