@@ -185,3 +185,7 @@
 
 + [物联网设备远程管理：基于代理IP的安全固件更新通道方案](https://blog.csdn.net/2501_91457362/article/details/148012805)
 
++ [大模型之Spring AI实战系列（四）：Spring Boot + OpenAI 使用OpenAI Embedding实现文本向量化](https://blog.csdn.net/xiaobing259/article/details/147928677)
+
++ [Yolov8的详解与实战-深度学习目标检测](https://blog.csdn.net/QQ67658008/article/details/147959386)
+

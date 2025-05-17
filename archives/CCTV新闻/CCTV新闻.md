@@ -201,3 +201,7 @@
 
 + [乌称苏梅州一公共汽车遭俄军袭击 致9死4伤](https://news.cctv.com/2025/05/17/ARTIMLZWr0ezjWI1hTitTjqH250517.shtml)
 
++ [联合国儿基会：2天45名巴勒斯坦儿童被以军杀害](https://news.cctv.com/2025/05/17/ARTICIjZOyiRj3VhkylHBUmW250517.shtml)
+
++ [菲律宾选举委员会公布中期选举结果 马科斯阵营选情未达预期](https://news.cctv.com/2025/05/17/ARTI6dmaP7Etmnk02rd3tuFE250517.shtml)
+

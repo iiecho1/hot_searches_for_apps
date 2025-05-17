@@ -91,3 +91,5 @@
 
 + [因为...我们心中，爱意永存【ALIVE】](https://m.acfun.cn/v/?ac=47276867)
 
++ [万分局！快速看完一局韩服王者斗殴局#670 Wei, Teddy, Cuzz, 1Jiang, Cu](https://m.acfun.cn/v/?ac=47274903)
+
