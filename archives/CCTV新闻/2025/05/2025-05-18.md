@@ -167,3 +167,9 @@
 
 + [秘鲁中南部地区发生6.0级地震](https://news.cctv.com/2025/05/18/ARTI7ecohUCPfB0wEZoyBX2Q250518.shtml)
 
++ [美国两架小型飞机坠毁 3人丧生](https://news.cctv.com/2025/05/18/ARTIvYZbbIEglcRLSOYB8c1t250518.shtml)
+
++ [俄罗斯考虑引入外资参与北极货物运输](https://news.cctv.com/2025/05/18/ARTIUKOMg6l2nAadFe6ltTFp250518.shtml)
+
++ [芬兰直升机相撞坠毁事故中五名人员全部遇难](https://news.cctv.com/2025/05/18/ARTIZnnlTn04cPAxloH12LqU250518.shtml)
+
