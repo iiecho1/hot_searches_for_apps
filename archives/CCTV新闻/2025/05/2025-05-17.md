@@ -205,3 +205,5 @@
 
 + [菲律宾选举委员会公布中期选举结果 马科斯阵营选情未达预期](https://news.cctv.com/2025/05/17/ARTI6dmaP7Etmnk02rd3tuFE250517.shtml)
 
++ [财政和经济前景恶化 穆迪下调美国主权信用评级](https://news.cctv.com/2025/05/17/ARTIgEkQug9rnHWXICRzDhZd250517.shtml)
+

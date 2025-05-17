@@ -189,3 +189,5 @@
 
 + [Yolov8的详解与实战-深度学习目标检测](https://blog.csdn.net/QQ67658008/article/details/147959386)
 
++ [DeepSeek源码深度解析 × 华为仓颉语言编程精粹——从MoE架构到全场景开发生态](https://blog.csdn.net/m0_50546016/article/details/148027409)
+
