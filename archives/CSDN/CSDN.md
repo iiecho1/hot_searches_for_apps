@@ -215,3 +215,9 @@
 
 + [【粉丝福利社】从零构建大模型：算法、训练与微调](https://blog.csdn.net/aa2528877987/article/details/147962456)
 
++ [【机器人】复现 WMNav 具身导航 | 将VLM集成到世界模型中](https://blog.csdn.net/qq_41204464/article/details/148011630)
+
++ [【Vue 3全栈实战】从响应式原理到企业级架构设计](https://blog.csdn.net/qq_56664222/article/details/148019010)
+
++ [基于微信小程序的在线聊天功能实现：WebSocket通信实战](https://blog.csdn.net/m0_73610345/article/details/147980084)
+

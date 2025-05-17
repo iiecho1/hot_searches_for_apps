@@ -219,3 +219,7 @@
 
 + [英国警方：3名伊朗男子涉嫌间谍活动](https://news.cctv.com/2025/05/17/ARTI4pz6iCk8izTYUkpgQMpm250517.shtml)
 
++ [巴西出生人口数创有记录以来新低](https://news.cctv.com/2025/05/17/ARTIYxyUerd2CVN0qno8H5ei250517.shtml)
+
++ [俄总统新闻秘书：俄乌交换停火条件清单是优先工作](https://news.cctv.com/2025/05/17/ARTIqH4GMtCmsUfA1Bxn5ZTu250517.shtml)
+
