@@ -171,3 +171,5 @@
 
 + [特朗普政府涉税改法案遭众议院预算委员会否决](https://news.cctv.com/2025/05/17/ARTIf6GKuuWfBJkImsYnMsMR250517.shtml)
 
++ [尹锡悦宣布退出国民力量党](https://news.cctv.com/2025/05/17/ARTIn6CtWvPyUzyReg1OeiCw250517.shtml)
+
