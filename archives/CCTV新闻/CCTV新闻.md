@@ -195,3 +195,7 @@
 
 + [美媒：美国新奥尔良十名囚犯凿墙越狱，警方怀疑存在“外部协助”](https://news.cctv.com/2025/05/17/ARTI5sh9WzxrrbPIzjFifGFX250517.shtml)
 
++ [韩国光州一轮胎工厂发生大火 韩消防厅下达国家消防动员令](https://news.cctv.com/2025/05/17/ARTIDTqrkLqYz9RFYSjT3SFO250517.shtml)
+
++ [时隔3年 俄乌面对面两小时谈得如何](https://news.cctv.com/2025/05/17/ARTIjPD2K8D1M42Rsjz3Evr5250517.shtml)
+
