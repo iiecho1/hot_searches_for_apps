@@ -163,3 +163,13 @@
 
 + [MK米客方德SD NAND:无人机存储的高效解决方案](https://blog.csdn.net/sixpp/article/details/147951264)
 
++ [DeepSeek+AI工具链：重塑高效办公的全场景实战手册](https://blog.csdn.net/qq_32682301/article/details/148015628)
+
++ [RAG-MCP：基于检索增强生成的大模型工具选择优化框架](https://blog.csdn.net/m0_46510245/article/details/147999080)
+
++ [AWS EC2 微服务 金丝雀发布(Canary Release)方案](https://blog.csdn.net/lo085213/article/details/147964231)
+
++ [GitHub 趋势日报 (2025年05月14日)](https://blog.csdn.net/ShrCheng/article/details/147968655)
+
++ [【更新】全国省市县-公开手机基站数据集（2006-2025.3）](https://blog.csdn.net/m0_65541699/article/details/147962785)
+
