@@ -191,3 +191,7 @@
 
 + [DeepSeek源码深度解析 × 华为仓颉语言编程精粹——从MoE架构到全场景开发生态](https://blog.csdn.net/m0_50546016/article/details/148027409)
 
++ [我的创作纪念日——《惊变256天》](https://blog.csdn.net/2301_80221951/article/details/148025897)
+
++ [Qt/C++编写音视频实时通话程序/画中画/设备热插拔/支持本地摄像头和桌面](https://blog.csdn.net/feiyangqingyun/article/details/147997830)
+
