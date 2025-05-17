@@ -101,3 +101,11 @@
 
 + [学习threejs，使用Physijs物理引擎，各种constraint约束限制](https://blog.csdn.net/qq_28419035/article/details/148005383)
 
++ [迁移学习：解锁AI高效学习与泛化能力的密钥](https://blog.csdn.net/weixin_62782025/article/details/147978609)
+
++ [用Python绘制梦幻星空](https://blog.csdn.net/summerriver1/article/details/148007146)
+
++ [Vue3 本地环境 Vite 与生产环境 Nginx 反向代理配置方法汇总【反向代理篇】](https://blog.csdn.net/mss359681091/article/details/147991159)
+
++ [Web3.0：互联网的去中心化未来](https://blog.csdn.net/qq_74383080/article/details/147987369)
+

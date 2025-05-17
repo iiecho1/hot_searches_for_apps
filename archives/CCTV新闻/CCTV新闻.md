@@ -161,3 +161,7 @@
 
 + [美国20个州起诉特朗普政府将拨款与执行移民政策挂钩](https://news.cctv.com/2025/05/14/ARTIc6Ol6fpXMgopPq9tsRzI250514.shtml)
 
++ [英国警方再逮捕一名涉嫌参与首相住宅纵火案嫌疑人](https://news.cctv.com/2025/05/18/ARTI54QWX8TtCUmMUvBDsOGl250518.shtml)
+
++ [苏丹西部一难民营持续遭遇炮击 造成18人死亡](https://news.cctv.com/2025/05/18/ARTI6KAfo86ZHnoOQnmMjt7U250518.shtml)
+
