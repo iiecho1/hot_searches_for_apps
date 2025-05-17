@@ -205,3 +205,13 @@
 
 + [【论文阅读】KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://blog.csdn.net/xianshuiyihui/article/details/148018426)
 
++ [事件驱动架构：从传统服务到实时响应的IT新风潮](https://blog.csdn.net/SDFsoul/article/details/148017100)
+
++ [将嵌入映射到 Elasticsearch 字段类型：semantic_text、dense_vector、sparse_vector](https://blog.csdn.net/UbuntuTouch/article/details/148004186)
+
++ [我设计的一个安全的 web 系统用户密码管理流程](https://blog.csdn.net/FungLeo/article/details/148018372)
+
++ [2025长三角杯数学建模A题思路模型代码：智能手机产品设计优化与定价问题](https://blog.csdn.net/2301_81596622/article/details/147975798)
+
++ [【粉丝福利社】从零构建大模型：算法、训练与微调](https://blog.csdn.net/aa2528877987/article/details/147962456)
+
