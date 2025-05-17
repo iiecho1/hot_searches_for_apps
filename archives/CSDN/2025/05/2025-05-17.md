@@ -201,3 +201,7 @@
 
 + [【Linux】动静态库链接原理](https://blog.csdn.net/tan_run/article/details/147995053)
 
++ [【使用 C# 获取 USB 设备信息及进行通信】](https://blog.csdn.net/zsr154278963/article/details/147978308)
+
++ [【论文阅读】KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://blog.csdn.net/xianshuiyihui/article/details/148018426)
+
