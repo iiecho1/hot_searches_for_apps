@@ -189,3 +189,9 @@
 
 + [Qt音视频开发过程中一个疑难杂症的解决方法/ffmpeg中采集本地音频设备无法触发超时回调](https://blog.csdn.net/feiyangqingyun/article/details/148038966)
 
++ [基于马尔可夫链的状态转换，用概率模型预测股市走势](https://blog.csdn.net/m0_46510245/article/details/148040615)
+
++ [“Cloud Native English“云原生时代下的微服务架构设计：从理论到实战全解析](https://blog.csdn.net/Dovis5884/article/details/148039635)
+
++ [操作系统之EXT文件系统](https://blog.csdn.net/maomi_9526/article/details/147958056)
+
