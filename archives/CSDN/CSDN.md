@@ -105,3 +105,17 @@
 
 + [事件驱动架构：从传统服务到实时响应的IT新风潮](https://blog.csdn.net/SDFsoul/article/details/148017100)
 
++ [Python 张量操作](https://blog.csdn.net/ljysee/article/details/148018676)
+
++ [python 爬虫框架介绍](https://blog.csdn.net/2501_91538706/article/details/148017737)
+
++ [MyBatis-Plus前置拦截器，基于注解按需分表方案](https://blog.csdn.net/weixin_44073650/article/details/143862499)
+
++ [【MySQL】数据库三大范式](https://blog.csdn.net/2402_86304740/article/details/147566985)
+
++ [Unity3D仿星露谷物语开发44之收集农作物](https://blog.csdn.net/benben044/article/details/148027992)
+
++ [Uniapp 与 Uniapp X 对比：新手上手指南及迁移到 Uniapp X 的注意事项](https://blog.csdn.net/mss359681091/article/details/148050574)
+
++ [npm cross-env工具包介绍（跨平台环境变量设置工具）](https://blog.csdn.net/Dontla/article/details/148018978)
+
