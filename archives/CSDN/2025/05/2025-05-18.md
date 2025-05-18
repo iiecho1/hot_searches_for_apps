@@ -203,3 +203,13 @@
 
 + [最小二乘法拟合直线，用线性回归法、梯度下降法实现](https://blog.csdn.net/m0_55908255/article/details/148018256)
 
++ [【PostgreSQL系列】PostgreSQL 复制参数详解](https://blog.csdn.net/qyj19920704/article/details/148042491)
+
++ [【基于Spring Boot 的图书购买系统】深度讲解 用户注册的前后端交互，Mapper操作MySQL数据库进行用户持久化](https://blog.csdn.net/2302_79527141/article/details/148046526)
+
++ [2025 年九江市第二十三届中职学校技能大赛 （网络安全）赛项竞赛样题](https://blog.csdn.net/Aluxian_/article/details/148033345)
+
++ [CentOS 上配置 Docker 使用 NVIDIA GPU](https://blog.csdn.net/weiwoyonzhe/article/details/148026732)
+
++ [【开源工具】视频分割神器：PyQt6+FFmpeg多线程优化设计实现](https://blog.csdn.net/Clay_K/article/details/148004675)
+
