@@ -139,3 +139,15 @@
 
 + [记参加一次数学建模](https://blog.csdn.net/lkai312/article/details/148014442)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的少样本学习与迁移学习融合（250）](https://blog.csdn.net/atgfg/article/details/147966161)
+
++ [大模型之Spring AI实战系列（六）：借助PromptTemplate在使用OpenAI时构建动态提示词系统](https://blog.csdn.net/xiaobing259/article/details/147961136)
+
++ [新能源汽车制动系统建模全解析——从理论到工程应用](https://blog.csdn.net/weixin_62244995/article/details/147980085)
+
++ [【 Redis | 实战篇 秒杀优化 】](https://blog.csdn.net/2402_88700528/article/details/147969013)
+
++ [使用exceljs将excel文件转化为html预览最佳实践（完整源码）](https://blog.csdn.net/yxlyttyxlytt/article/details/148011046)
+
++ [计算机网络(1)——概述](https://blog.csdn.net/2401_89167985/article/details/147984372)
+

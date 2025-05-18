@@ -175,3 +175,9 @@
 
 + [俄乌时隔三年谈判未实现突破 特朗普称将给他们打电话](https://news.cctv.com/2025/05/18/ARTI3n6CuEP58o1BE9Be7g6X250518.shtml)
 
++ [俄美外长通话讨论俄乌伊斯坦布尔谈判结果](https://news.cctv.com/2025/05/18/ARTIsU7rYYC2xLWBxSzHLusm250518.shtml)
+
++ [墨西哥海军一帆船撞上纽约布鲁克林大桥 多人落水](https://news.cctv.com/2025/05/18/ARTIhOB5zqKg8jqw8YdreJot250518.shtml)
+
++ [巴西出生人口数创有记录以来新低 连续5年下滑](https://news.cctv.com/2025/05/18/ARTI1OcCeyGBpwFotDLJ5Vhr250518.shtml)
+
