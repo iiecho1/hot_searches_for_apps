@@ -181,3 +181,11 @@
 
 + [巴西出生人口数创有记录以来新低 连续5年下滑](https://news.cctv.com/2025/05/18/ARTI1OcCeyGBpwFotDLJ5Vhr250518.shtml)
 
++ [小籽粒走向大世界 外国记者聚焦中欧班列高质量发展的“内蒙古引擎”](https://news.cctv.com/2025/05/18/ARTIQYixZVCfNyWxeePzOX3T250518.shtml)
+
++ [“看见土地的回馈，让人满心喜悦” 中拉是天然合作伙伴](https://news.cctv.com/2025/05/18/ARTI95x1eNBKzdra0xRsrEwT250518.shtml)
+
++ [“相互理解与交流比以往任何时候都重要”——访德国汉学家培高德](https://news.cctv.com/2025/05/18/ARTI8oJiyuzUhlAiNpEL7AHe250518.shtml)
+
++ [发射后失联 印度地球观测卫星发射任务宣告失败](https://news.cctv.com/2025/05/18/ARTIy7nXMQcH1UrkgtYimlR6250518.shtml)
+

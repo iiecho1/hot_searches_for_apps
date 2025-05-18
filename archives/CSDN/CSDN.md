@@ -151,3 +151,13 @@
 
 + [计算机网络(1)——概述](https://blog.csdn.net/2401_89167985/article/details/147984372)
 
++ [从神经架构到万物自动化的 AI 革命：解码深度学习驱动的智能自动化新范式](https://blog.csdn.net/2401_82648291/article/details/148034910)
+
++ [【RabbitMQ】整合 SpringBoot，实现工作队列、发布/订阅、路由和通配符模式](https://blog.csdn.net/Yeeear/article/details/148025177)
+
++ [Animaster：一次由 CodeBuddy 主导的 CSS 动画编辑器诞生记](https://blog.csdn.net/qq_21484461/article/details/148025673)
+
++ [【2025最新】VSCode Cline插件配置教程：免费使用Claude 3.7提升编程效率](https://blog.csdn.net/zl3450341/article/details/147987175)
+
++ [云计算与大数据进阶 | 26、解锁云架构核心：深度解析可扩展数据库的5大策略与挑战（上）](https://blog.csdn.net/Ultipa/article/details/148000813)
+
