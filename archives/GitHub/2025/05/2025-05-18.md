@@ -33,3 +33,21 @@
 
 + [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+
++ [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [tursodatabase/limbo](https://github.com/tursodatabase/limbo)
+
++ [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering)
+
++ [arendst/Tasmota](https://github.com/arendst/Tasmota)
+
++ [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [tiann/KernelSU](https://github.com/tiann/KernelSU)
+

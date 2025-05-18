@@ -207,3 +207,5 @@
 
 + [中国驻以色列大使馆调整以色列旅行风险等级](https://news.cctv.com/2025/05/18/ARTIGDaLXMDoNMKwiQotSuFL250518.shtml)
 
++ [罗马教皇利奥十四世正式任职](https://news.cctv.com/2025/05/18/ARTId61UInF2LIKppoFUQcba250518.shtml)
+
