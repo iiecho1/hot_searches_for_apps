@@ -211,3 +211,11 @@
 
 + [纳米比亚疟疾疫情累计报告病例逾7.6万例](https://news.cctv.com/2025/05/18/ARTIQbL8ZBqglcI66hTVVZIN250518.shtml)
 
++ [法国官员：美国关税政策不确定性将拖累对美投资](https://news.cctv.com/2025/05/18/ARTIKvIz1ECZVNTziqF3kCRt250518.shtml)
+
++ [苏丹武装部队称控制苏丹、利比亚和乍得三国交界地带一战略要地](https://news.cctv.com/2025/05/18/ARTIy6KrX4gt8wsQvexnIvFx250518.shtml)
+
++ [索马里首都发生自杀式炸弹袭击 致至少11人丧生](https://news.cctv.com/2025/05/18/ARTIPg2cNEcVDvwk2DtYWQeF250518.shtml)
+
++ [国际观察丨美中东政策生变 以色列面临艰难选择](https://news.cctv.com/2025/05/18/ARTIy0kpk3vZRSmgEB9Fj4Tc250518.shtml)
+
