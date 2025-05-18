@@ -187,3 +187,7 @@
 
 + [美联邦调查局确认加州棕榈泉市爆炸事件嫌疑人](https://news.cctv.com/2025/05/19/ARTIR1FPJLfyysS3WgmnhyUN250519.shtml)
 
++ [初步统计结果显示达恩在罗马尼亚总统选举中获胜](https://news.cctv.com/2025/05/19/ARTILvu0RXgIg3PITl8PqvH4250519.shtml)
+
++ [以色列称“将立即允许恢复”人道主义物资进入加沙](https://news.cctv.com/2025/05/19/ARTIxZ3gEFQJsjQS0W7W31Sl250519.shtml)
+
