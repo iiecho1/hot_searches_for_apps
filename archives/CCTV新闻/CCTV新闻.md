@@ -193,3 +193,5 @@
 
 + [欢迎回家！旅马大熊猫“福娃”和“凤仪”启程回国](https://news.cctv.com/2025/05/18/ARTIGbH0u3JVDEBuNW3OI7pn250518.shtml)
 
++ [美联邦调查局称棕榈泉市爆炸事件为“蓄意恐怖主义行为”](https://news.cctv.com/2025/05/18/ARTIxVE2RNubjIkRql5zcUei250518.shtml)
+

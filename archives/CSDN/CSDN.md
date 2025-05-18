@@ -169,3 +169,13 @@
 
 + [2025认证杯数学建模第二阶段A题完整论文（代码齐全）:小行星轨迹预测思路](https://blog.csdn.net/2301_81596622/article/details/148014766)
 
++ [实战设计模式之状态模式](https://blog.csdn.net/hope_wisdom/article/details/148040269)
+
++ [2025认证杯数学建模第二阶段C题：化工厂生产流程的预测和控制，思路+模型+代码](https://blog.csdn.net/2301_81596622/article/details/147993154)
+
++ [5000 字总结CSS 中的过渡、动画和变换详解](https://blog.csdn.net/xuelian3015/article/details/148035462)
+
++ [Cross-Site Scripting（XSS）](https://blog.csdn.net/2401_88816569/article/details/148012719)
+
++ [第十天——贪心算法——深度总结](https://blog.csdn.net/kouweizhu/article/details/147927347)
+
