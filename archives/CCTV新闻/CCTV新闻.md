@@ -163,3 +163,7 @@
 
 + [以军启动“基甸战车”行动 扩大对加沙地面攻势](https://news.cctv.com/2025/05/19/ARTIdXTc9dgaNlf9Im4aJVjE250519.shtml)
 
++ [墨海军训练舰在纽约撞桥 墨总统：对遇难者表示悲痛 将跟进调查](https://news.cctv.com/2025/05/19/ARTIAnGwFVrno6USr47JbZL8250519.shtml)
+
++ [美官员称墨海军帆船撞桥时“正朝着错误方向行驶”](https://news.cctv.com/2025/05/19/ARTI0LhpR3tDD4OzPcUq0Pag250519.shtml)
+
