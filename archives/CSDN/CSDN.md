@@ -161,3 +161,11 @@
 
 + [云计算与大数据进阶 | 26、解锁云架构核心：深度解析可扩展数据库的5大策略与挑战（上）](https://blog.csdn.net/Ultipa/article/details/148000813)
 
++ [HCIP中期考试实验 2023016231王昊](https://blog.csdn.net/wanghaobbydhjdj/article/details/148029030)
+
++ [kafka调优](https://blog.csdn.net/Will_1130/article/details/147990269)
+
++ [Linux系统启动相关：vmlinux、vmlinuz、zImage，和initrd 、 initramfs，以及SystemV 和 SystemD](https://blog.csdn.net/2402_87288810/article/details/148000624)
+
++ [2025认证杯数学建模第二阶段A题完整论文（代码齐全）:小行星轨迹预测思路](https://blog.csdn.net/2301_81596622/article/details/148014766)
+

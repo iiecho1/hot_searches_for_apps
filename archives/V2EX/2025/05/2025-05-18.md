@@ -33,3 +33,5 @@
 
 + [关于又被荔枝投诉了这件事](https://www.v2ex.com/t/1132500)
 
++ [为什么在未设置 robots.txt 的情况下， Google 搜索不到上海人大官方网站 www.shrd.gov.cn 的任何内容但是 Bing 却能搜索到大部分公开内容](https://www.v2ex.com/t/1132443)
+

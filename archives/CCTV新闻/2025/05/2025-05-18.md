@@ -189,3 +189,7 @@
 
 + [发射后失联 印度地球观测卫星发射任务宣告失败](https://news.cctv.com/2025/05/18/ARTIy7nXMQcH1UrkgtYimlR6250518.shtml)
 
++ [墨西哥海军船只撞上布鲁克林大桥 已致19人受伤](https://news.cctv.com/2025/05/18/ARTIhzrPe0JPeUPOLMcSGifa250518.shtml)
+
++ [欢迎回家！旅马大熊猫“福娃”和“凤仪”启程回国](https://news.cctv.com/2025/05/18/ARTIGbH0u3JVDEBuNW3OI7pn250518.shtml)
+
