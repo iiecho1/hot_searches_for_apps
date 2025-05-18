@@ -209,3 +209,5 @@
 
 + [罗马教皇利奥十四世正式任职](https://news.cctv.com/2025/05/18/ARTId61UInF2LIKppoFUQcba250518.shtml)
 
++ [纳米比亚疟疾疫情累计报告病例逾7.6万例](https://news.cctv.com/2025/05/18/ARTIQbL8ZBqglcI66hTVVZIN250518.shtml)
+
