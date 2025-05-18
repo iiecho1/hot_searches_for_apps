@@ -67,3 +67,5 @@
 
 + [什么经典复刻（五）](https://m.acfun.cn/v/?ac=47231304)
 
++ [【cc君辣】Aoa good luck 希望一直是个幸运girl](https://m.acfun.cn/v/?ac=47284668)
+

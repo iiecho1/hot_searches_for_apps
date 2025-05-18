@@ -167,3 +167,15 @@
 
 + [美官员称墨海军帆船撞桥时“正朝着错误方向行驶”](https://news.cctv.com/2025/05/19/ARTI0LhpR3tDD4OzPcUq0Pag250519.shtml)
 
++ [泰国推“绿色旅游季”以促进国内旅游业](https://news.cctv.com/2025/05/19/ARTIee6jCFLgLPMA0QpJKvrx250519.shtml)
+
++ [出口民调：波兰总统选举将进行第二轮投票](https://news.cctv.com/2025/05/19/ARTIRocYISa3XAMxnM5tfBJi250519.shtml)
+
++ [苏丹北达尔富尔州首府遭炮击至少14人死亡](https://news.cctv.com/2025/05/19/ARTIEksbNzKCVjMRNdGlT8oc250519.shtml)
+
++ [山洪和山体滑坡致越南北干省4死3伤](https://news.cctv.com/2025/05/19/ARTInfA1b18KrhoBHJeEKV2f250519.shtml)
+
++ [哈马斯愿释放数名被扣押人员 以换取两月停火及300名巴方人员](https://news.cctv.com/2025/05/19/ARTIQvxsFjr0PJidjnGmOjG7250519.shtml)
+
++ [伊朗外长：无论是否达成协议 伊朗的铀浓缩活动都将继续](https://news.cctv.com/2025/05/19/ARTINxchee1My2aDtm3r6PeF250519.shtml)
+
