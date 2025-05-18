@@ -185,3 +185,7 @@
 
 + [腾讯云CodeBuddy：重构AI编程范式的“全栈协作者“——深度技术解析与产业影响报告](https://blog.csdn.net/2301_76341691/article/details/148025780)
 
++ [大模型之Spring AI实战系列（十）：Spring Boot + OpenAI 使用 DALL·E实现文本生成图像功能](https://blog.csdn.net/xiaobing259/article/details/148007206)
+
++ [Qt音视频开发过程中一个疑难杂症的解决方法/ffmpeg中采集本地音频设备无法触发超时回调](https://blog.csdn.net/feiyangqingyun/article/details/148038966)
+

@@ -195,3 +195,7 @@
 
 + [美联邦调查局称棕榈泉市爆炸事件为“蓄意恐怖主义行为”](https://news.cctv.com/2025/05/18/ARTIxVE2RNubjIkRql5zcUei250518.shtml)
 
++ [葡萄牙议会选举开始投票](https://news.cctv.com/2025/05/18/ARTINUvJMuHDMqi2LhfaeA0J250518.shtml)
+
++ [印度南部一建筑起火 至少17人死亡](https://news.cctv.com/2025/05/18/ARTIgrmOmuX9S8PJkS2puWLB250518.shtml)
+
