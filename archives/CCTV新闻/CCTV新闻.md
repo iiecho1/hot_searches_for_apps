@@ -201,3 +201,9 @@
 
 + [俄需要达成怎样的特别军事行动结果？普京回应→](https://news.cctv.com/2025/05/18/ARTIDAQyQ1sVhN0evf0X4fzD250518.shtml)
 
++ [印尼勒沃托比火山发生喷发 火山灰柱高达3000米](https://news.cctv.com/2025/05/18/ARTI9DK7nV409is3SgRoz7lD250518.shtml)
+
++ [加沙卫生部门：北加沙省所有公立医院均已停止服务](https://news.cctv.com/2025/05/18/ARTIZq6YRsNfCkjCsUVXDj8D250518.shtml)
+
++ [中国驻以色列大使馆调整以色列旅行风险等级](https://news.cctv.com/2025/05/18/ARTIGDaLXMDoNMKwiQotSuFL250518.shtml)
+
