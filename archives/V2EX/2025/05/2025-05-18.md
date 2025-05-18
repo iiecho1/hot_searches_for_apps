@@ -19,3 +19,5 @@
 
 + [windows 今天修复了微软拼音默认中文的问题了，可以去更新试试了](https://www.v2ex.com/t/1132434)
 
++ [自己搭 Bitwarden，没有公网 ip 用 tailscale 的问题](https://www.v2ex.com/t/1132431)
+

@@ -131,3 +131,11 @@
 
 + [SpringBoot + Shiro + JWT 实现认证与授权完整方案实现](https://blog.csdn.net/weixin_41798072/article/details/148018786)
 
++ [什么是Agentic AI（代理型人工智能）？](https://blog.csdn.net/qq_44866828/article/details/147994106)
+
++ [使用UniApi调用百度地图API的需要注意的地方](https://blog.csdn.net/yelangkingwuzuhu/article/details/148018726)
+
++ [分布式锁: Redis和ZooKeeper两种分布式锁对比](https://blog.csdn.net/fjkxyl/article/details/148008977)
+
++ [记参加一次数学建模](https://blog.csdn.net/lkai312/article/details/148014442)
+
