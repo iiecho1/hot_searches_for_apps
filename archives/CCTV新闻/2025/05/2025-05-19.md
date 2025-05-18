@@ -179,3 +179,11 @@
 
 + [伊朗外长：无论是否达成协议 伊朗的铀浓缩活动都将继续](https://news.cctv.com/2025/05/19/ARTINxchee1My2aDtm3r6PeF250519.shtml)
 
++ [出口民调：布加勒斯特市长在罗马尼亚总统选举中得票率暂时领先](https://news.cctv.com/2025/05/19/ARTIDkWsNcyNY6XmF9jS5AoU250519.shtml)
+
++ [以色列总理批准立即恢复向加沙提供人道主义援助](https://news.cctv.com/2025/05/19/ARTIDfT9GeHSgUGAspKGzgmI250519.shtml)
+
++ [美国恶劣天气已造成至少28人死亡](https://news.cctv.com/2025/05/19/ARTIezOevS2gaqWp1mFkoUmZ250519.shtml)
+
++ [美联邦调查局确认加州棕榈泉市爆炸事件嫌疑人](https://news.cctv.com/2025/05/19/ARTIR1FPJLfyysS3WgmnhyUN250519.shtml)
+
