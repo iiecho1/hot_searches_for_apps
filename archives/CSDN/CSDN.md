@@ -179,3 +179,9 @@
 
 + [第十天——贪心算法——深度总结](https://blog.csdn.net/kouweizhu/article/details/147927347)
 
++ [Python 张量操作](https://blog.csdn.net/ljysee/article/details/148018676)
+
++ [TCP实现安全传输的核心机制 + TCP的报文讲解（全程图文讲解）](https://blog.csdn.net/Lizhihao_/article/details/147580155)
+
++ [腾讯云CodeBuddy：重构AI编程范式的“全栈协作者“——深度技术解析与产业影响报告](https://blog.csdn.net/2301_76341691/article/details/148025780)
+

@@ -35,3 +35,7 @@
 
 + [为什么在未设置 robots.txt 的情况下， Google 搜索不到上海人大官方网站 www.shrd.gov.cn 的任何内容但是 Bing 却能搜索到大部分公开内容](https://www.v2ex.com/t/1132443)
 
++ [农村父母，没有养老金的，怎么处理](https://www.v2ex.com/t/1132521)
+
++ [小弟今年 24 周岁，对未来很迷茫，求指导](https://www.v2ex.com/t/1132513)
+
