@@ -101,3 +101,7 @@
 
 + [腾讯云CodeBuddy：重构AI编程范式的“全栈协作者“——深度技术解析与产业影响报告](https://blog.csdn.net/2301_76341691/article/details/148025780)
 
++ [【基于Spring Boot 的图书购买系统】深度讲解 用户注册的前后端交互，Mapper操作MySQL数据库进行用户持久化](https://blog.csdn.net/2302_79527141/article/details/148046526)
+
++ [事件驱动架构：从传统服务到实时响应的IT新风潮](https://blog.csdn.net/SDFsoul/article/details/148017100)
+
