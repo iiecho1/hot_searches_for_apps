@@ -25,3 +25,27 @@
 
 + [疑似小米玄戒 O1 自研芯片跑分曝光：10 核最高 3.9GHz，超越骁龙 8 Gen 3](https://m.ithome.com/html/853938.htm)
 
++ [央视新闻评小米玄戒 O1：中国内地 3nm 芯片设计的一次突破，紧追国际先进水平](https://m.ithome.com/html/854080.htm)
+
++ [小米自主研发设计的全新旗舰处理器「玄戒 O1」采用第二代 3nm 工艺制程](https://m.ithome.com/html/854075.htm)
+
++ [雷军透露小米玄戒累计研发投入超 135 亿人民币，消息称大概需要出货千万片才能摊平造芯研发成本](https://m.ithome.com/html/854089.htm)
+
++ [小米 15 周年战略新品发布会定档 5 月 22 日：玄戒 O1、YU7、小米 15S Pro、平板 7 Ultra](https://m.ithome.com/html/854056.htm)
+
++ [售价 23999 元起，全球首款鸿蒙折叠屏电脑华为 MateBook Fold 非凡大师发布](https://m.ithome.com/html/854192.htm)
+
++ [华为 MateBook Pro 鸿蒙笔记本发布：仅重 970g / 全球首搭星闪技术，7999-10999 元](https://m.ithome.com/html/854194.htm)
+
++ [深圳交警引入新款大疆警用无人机，可抓拍司机开车玩手机违法行为](https://m.ithome.com/html/853978.htm)
+
++ [全面搭载 HarmonyOS 5 系统：华为 nova 14 / 14 Pro 手机发布，2699 元起](https://m.ithome.com/html/854146.htm)
+
++ [小米雷军：玄戒累计研发投入已超 135 亿人民币，研发团队超 2500 人](https://m.ithome.com/html/854078.htm)
+
++ [小米 YU7 车型预约咨询现已开启，5 月 22 日发布](https://m.ithome.com/html/854066.htm)
+
++ [我心依然澎湃：小米发视频“谢谢大家”，自研芯片玄戒 O1 将至](https://m.ithome.com/html/854026.htm)
+
++ [首款鸿蒙电脑！华为 MateBook Fold 非凡大师折叠屏笔记本外观揭晓](https://m.ithome.com/html/854166.htm)
+

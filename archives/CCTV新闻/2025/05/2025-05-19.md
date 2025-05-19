@@ -211,3 +211,9 @@
 
 + [以色列媒体：以总理称将接管整个加沙](https://news.cctv.com/2025/05/19/ARTIaBi1NgYXUkdTJtouRbBq250519.shtml)
 
++ [菲律宾华人“钢铁大王”遭撕票案两名主犯落网 一部分赎金已被“洗钱”](https://news.cctv.com/2025/05/19/ARTIs5PfOmP5gw6pOMLGIng2250519.shtml)
+
++ [世卫大会连续九年拒绝涉台提案](https://news.cctv.com/2025/05/19/ARTIQJ4cOeiOyp8zlpEdoJm3250519.shtml)
+
++ [欧盟下调今明两年经济增长预期](https://news.cctv.com/2025/05/19/ARTIDHXfBBeNyLzr3v7LZ9Xv250519.shtml)
+

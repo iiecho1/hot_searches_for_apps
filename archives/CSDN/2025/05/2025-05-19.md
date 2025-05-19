@@ -171,3 +171,11 @@
 
 + [深入理解Docker和K8S](https://blog.csdn.net/qq_44599368/article/details/148048904)
 
++ [华为云Flexus+DeepSeek征文｜云服务器单机部署基于Dify平台实现AI Agent的一键式部署与开发](https://blog.csdn.net/weixin_62765017/article/details/148060720)
+
++ [【Rust迭代器】Rust迭代器用法解析与应用实战](https://blog.csdn.net/littlefun591/article/details/148054707)
+
++ [uni-app x正式支持鸿蒙原生应用开发](https://blog.csdn.net/hbcui1984/article/details/148011576)
+
++ [【Linux】ssh命令 – 安全的远程连接服务](https://blog.csdn.net/xmweisi/article/details/147926482)
+
