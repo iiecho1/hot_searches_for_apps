@@ -147,3 +147,9 @@
 
 + [【HTML 全栈进阶】从语义化到现代 Web 开发实战](https://blog.csdn.net/qq_56664222/article/details/148019100)
 
++ [OpenCV 光流估计：从原理到实战](https://blog.csdn.net/2201_75491841/article/details/148033811)
+
++ [【EDA软件】【联合Modelsim仿真使用方法】](https://blog.csdn.net/HR20180108/article/details/148032085)
+
++ [Redis实现消息队列与分布式数据库集群搭建](https://blog.csdn.net/gjx18084061690/article/details/148052101)
+
