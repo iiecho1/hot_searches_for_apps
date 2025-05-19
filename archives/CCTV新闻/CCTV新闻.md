@@ -199,3 +199,5 @@
 
 + [中国说｜“习主席回信后，我的责任感更强了！”](https://news.cctv.com/2025/05/19/ARTIbv3vtUUbniKYgfXZMdI7250519.shtml)
 
++ [“开启两国合作高质量、高水平、高标准的新时代”（高端访谈）](https://news.cctv.com/2025/05/19/ARTIaqjVWbquMJQaPtvpit4G250519.shtml)
+
