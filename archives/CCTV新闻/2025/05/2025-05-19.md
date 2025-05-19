@@ -225,3 +225,5 @@
 
 + [转向充满机遇的中国市场——阿根廷牧场推进出口多元化应对美关税冲击](https://news.cctv.com/2025/05/19/ARTIv2J9mQc8chH2EEeBSAAw250519.shtml)
 
++ [欧盟大幅下调经济增长预期](https://news.cctv.com/2025/05/19/ARTI9WaiB8xzcGVCYRUVXTo0250519.shtml)
+

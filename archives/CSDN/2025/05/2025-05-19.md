@@ -187,3 +187,7 @@
 
 + [JDBC实现模糊、动态与分页查询的详解](https://blog.csdn.net/qq_46987323/article/details/147993135)
 
++ [IDE/IoT/搭建物联网(LiteOS)集成开发环境，基于 LiteOS Studio + GCC + JLink](https://blog.csdn.net/quguanxin/article/details/147260684)
+
++ [Vue框架](https://blog.csdn.net/Wyc72409/article/details/147964538)
+
