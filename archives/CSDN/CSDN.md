@@ -153,3 +153,7 @@
 
 + [Redis实现消息队列与分布式数据库集群搭建](https://blog.csdn.net/gjx18084061690/article/details/148052101)
 
++ [深度强化学习 | 基于SAC算法的移动机器人路径跟踪(附Pytorch实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/147952007)
+
++ [【前端】Vue3+elementui+ts，给标签设置样式属性style时，提示type check failed for prop，再次请出DeepSeek来解答](https://blog.csdn.net/lmy_520/article/details/147992273)
+
