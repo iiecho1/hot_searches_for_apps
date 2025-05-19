@@ -133,3 +133,5 @@
 
 + [HarmonyOS 与 OpenHarmony：同根而不同途](https://blog.csdn.net/m0_74096349/article/details/148040353)
 
++ [【Tokenization第二章】分词算法深度解析：BPE、WordPiece与Unigram的原理、实现与优化](https://blog.csdn.net/2501_91903104/article/details/148061803)
+
