@@ -31,3 +31,15 @@
 
 + [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
++ [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [kortix-ai/suna](https://github.com/kortix-ai/suna)
+
++ [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
++ [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)
+
++ [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+
++ [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+

@@ -217,3 +217,5 @@
 
 + [欧盟下调今明两年经济增长预期](https://news.cctv.com/2025/05/19/ARTIDHXfBBeNyLzr3v7LZ9Xv250519.shtml)
 
++ [官宣！海军第三艘“大白船”亮相 专家：三大战区均实现医院船部署](https://news.cctv.com/2025/05/19/ARTIn1YGEkYZwmvOPdILHEm5250519.shtml)
+

@@ -179,3 +179,7 @@
 
 + [【Linux】ssh命令 – 安全的远程连接服务](https://blog.csdn.net/xmweisi/article/details/147926482)
 
++ [【实战】GPT-SoVITS+内网穿透：3分钟搭建可公网访问的语音克隆系统](https://blog.csdn.net/qyj19920704/article/details/148062646)
+
++ [基于FPGA的电子万年历系统开发,包含各模块testbench](https://blog.csdn.net/hardware_player/article/details/148051049)
+
