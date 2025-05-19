@@ -67,3 +67,5 @@
 
 + [AD选手扎堆！快速看完一局韩服王者斗殴局#673 JackeyLove, Teddy, Light,](https://m.acfun.cn/v/?ac=47287352)
 
++ [世界第一可爱的那谁](https://m.acfun.cn/v/?ac=47289357)
+
