@@ -167,3 +167,7 @@
 
 + [Kubernetes控制平面组件：Kubelet详解（七）：容器网络接口 CNI](https://blog.csdn.net/a1369760658/article/details/148042081)
 
++ [CodeBuddy助力创新：打造高效可扩展的现代应用架构](https://blog.csdn.net/2301_76341691/article/details/148048314)
+
++ [深入理解Docker和K8S](https://blog.csdn.net/qq_44599368/article/details/148048904)
+

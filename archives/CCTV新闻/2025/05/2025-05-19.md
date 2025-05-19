@@ -205,3 +205,9 @@
 
 + [波兰总统选举首轮为何无人直接胜出](https://news.cctv.com/2025/05/19/ARTIR4Ke4AJhGCuMGIj3Ck1m250519.shtml)
 
++ [无人获过半选票 波兰总统选举将展开第二轮角逐](https://news.cctv.com/2025/05/19/ARTIColV4W5anf6KNIOmo1ev250519.shtml)
+
++ [美国消费者信心持续低迷 经济负面效应持续显现](https://news.cctv.com/2025/05/19/ARTIU7vzLecAzsChoqNLvNIl250519.shtml)
+
++ [以色列媒体：以总理称将接管整个加沙](https://news.cctv.com/2025/05/19/ARTIaBi1NgYXUkdTJtouRbBq250519.shtml)
+
