@@ -109,3 +109,23 @@
 
 + [【Redis】redis用作缓存和分布式锁](https://blog.csdn.net/weixin_69380220/article/details/147745837)
 
++ [从0到1吃透卷积神经网络（CNN）：原理与实战全解析](https://blog.csdn.net/beautifulmemory/article/details/148040510)
+
++ [人工智能、机器学习、深度学习定义与联系](https://blog.csdn.net/qq_36801966/article/details/148041922)
+
++ [[Java实战]Spring Boot整合RabbitMQ：实现异步通信与消息确认机制（二十七）](https://blog.csdn.net/qq_29709589/article/details/148047055)
+
++ [MySQL企业版免费开启,强先体验](https://blog.csdn.net/weixin_41645135/article/details/148075617)
+
++ [Linux：计算机的层状结构](https://blog.csdn.net/D180230/article/details/147353903)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | 页面布局 与 Vue Router 路由配置](https://blog.csdn.net/qq_44808710/article/details/148044494)
+
++ [浅入ES5、ES6（ES2015）、ES2023（ES14）版本对比，及使用建议---ES6就够用（个人觉得）](https://blog.csdn.net/Jcrows/article/details/148046001)
+
++ [深入理解TCP与UDP：协议对比、头部结构与连接管理](https://blog.csdn.net/zyp246810/article/details/148045733)
+
++ [第十六届蓝桥杯复盘](https://blog.csdn.net/weixin_42828342/article/details/148070984)
+
++ [HTTPS的工作过程](https://blog.csdn.net/lxsxjsj/article/details/148046327)
+
