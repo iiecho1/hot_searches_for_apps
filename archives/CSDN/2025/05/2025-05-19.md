@@ -157,3 +157,11 @@
 
 + [【前端】Vue3+elementui+ts，给标签设置样式属性style时，提示type check failed for prop，再次请出DeepSeek来解答](https://blog.csdn.net/lmy_520/article/details/147992273)
 
++ [基于OpenCV的实时文档扫描与矫正技术](https://blog.csdn.net/zdx2585503940/article/details/148050821)
+
++ [分布式数据库TiDB：深度解析原理、优化与架构设计](https://blog.csdn.net/qq_44273429/article/details/148056733)
+
++ [[免费]苍穹微信小程序外卖点餐系统修改版(跑腿点餐系统)(SpringBoot后端+Vue管理端)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/148055851)
+
++ [Linux——UDP/TCP协议理论](https://blog.csdn.net/m0_51952310/article/details/147819767)
+
