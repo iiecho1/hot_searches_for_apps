@@ -161,3 +161,11 @@
 
 + [乌称苏梅州一公共汽车遭俄军袭击 致9死4伤](https://news.cctv.com/2025/05/17/ARTIMLZWr0ezjWI1hTitTjqH250517.shtml)
 
++ [埃及总统敦促以色列立即无条件从黎巴嫩撤军](https://news.cctv.com/2025/05/20/ARTI4wvOpCrEVEOmakk6iCav250520.shtml)
+
++ [“脱欧”后首次双边峰会 英欧达成安全与防务协议](https://news.cctv.com/2025/05/20/ARTI8z9g4AZj3NtCVhdZipLE250520.shtml)
+
++ [特朗普与普京进行电话会谈](https://news.cctv.com/2025/05/20/ARTIw1fWX1l5tQp5PgdhapLy250519.shtml)
+
++ [中国原创医疗方案点亮“心”希望](https://news.cctv.com/2025/05/20/ARTIEA2MKSE9THnPxj9ypdmw250520.shtml)
+
