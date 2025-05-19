@@ -183,3 +183,7 @@
 
 + [基于FPGA的电子万年历系统开发,包含各模块testbench](https://blog.csdn.net/hardware_player/article/details/148051049)
 
++ [【GitHub开源AI精选】UFO²：微软开源的 Windows 桌面 Agent 操作系统，开启智能自动化新时代](https://blog.csdn.net/xiaobing259/article/details/147875274)
+
++ [JDBC实现模糊、动态与分页查询的详解](https://blog.csdn.net/qq_46987323/article/details/147993135)
+

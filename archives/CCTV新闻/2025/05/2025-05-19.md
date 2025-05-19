@@ -219,3 +219,9 @@
 
 + [官宣！海军第三艘“大白船”亮相 专家：三大战区均实现医院船部署](https://news.cctv.com/2025/05/19/ARTIn1YGEkYZwmvOPdILHEm5250519.shtml)
 
++ [美财长承认：受政府关税政策影响，沃尔玛涨价消费者买单](https://news.cctv.com/2025/05/19/ARTIA1q3GGlWYiSETerCuI1x250519.shtml)
+
++ [世界银行近期发布报告显示——东南亚经济前景受美关税战拖累](https://news.cctv.com/2025/05/19/ARTIcf914moOtV9AIwU3TUY5250519.shtml)
+
++ [转向充满机遇的中国市场——阿根廷牧场推进出口多元化应对美关税冲击](https://news.cctv.com/2025/05/19/ARTIv2J9mQc8chH2EEeBSAAw250519.shtml)
+
