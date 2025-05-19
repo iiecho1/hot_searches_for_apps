@@ -27,3 +27,5 @@
 
 + [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering)
 
++ [facebook/pyrefly](https://github.com/facebook/pyrefly)
+
