@@ -191,3 +191,9 @@
 
 + [以色列称“将立即允许恢复”人道主义物资进入加沙](https://news.cctv.com/2025/05/19/ARTIxZ3gEFQJsjQS0W7W31Sl250519.shtml)
 
++ [事关加沙 以色列一天发三个声明](https://news.cctv.com/2025/05/19/ARTIlZVXekXPbV3zXeWjNvR5250519.shtml)
+
++ [罢工结束 美国新泽西州通勤铁路将恢复运营](https://news.cctv.com/2025/05/19/ARTIvFjDJqje24SA4CvnJrMx250519.shtml)
+
++ [美方称伊美协议必须包括伊朗停止铀浓缩活动](https://news.cctv.com/2025/05/19/ARTI5Q8qrM7i8W0MXfq4VdZ2250519.shtml)
+
