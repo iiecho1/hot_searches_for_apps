@@ -197,3 +197,5 @@
 
 + [美方称伊美协议必须包括伊朗停止铀浓缩活动](https://news.cctv.com/2025/05/19/ARTI5Q8qrM7i8W0MXfq4VdZ2250519.shtml)
 
++ [中国说｜“习主席回信后，我的责任感更强了！”](https://news.cctv.com/2025/05/19/ARTIbv3vtUUbniKYgfXZMdI7250519.shtml)
+
