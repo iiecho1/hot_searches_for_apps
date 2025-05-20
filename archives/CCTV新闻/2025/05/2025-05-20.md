@@ -173,3 +173,15 @@
 
 + [特朗普与普京、泽连斯基通话 各方发布详情](https://news.cctv.com/2025/05/20/ARTIMW7N7soZblnZLqH4ktn8250520.shtml)
 
++ [菲律宾总统马科斯说愿与杜特尔特家族和解](https://news.cctv.com/2025/05/20/ARTIbrcvlopjChBdI42zX9gn250520.shtml)
+
++ [法国参议院调查委员会公布雀巢“巴黎水”丑闻调查报告](https://news.cctv.com/2025/05/20/ARTIVmqqwQpowcKBT8pCectA250520.shtml)
+
++ [乌拉圭外交部长：中国是乌拉圭在清洁能源领域最重要的合作伙伴之一](https://news.cctv.com/2025/05/20/ARTI1CwiwgvO52GOMLsT0J2f250520.shtml)
+
++ [【世界说】被遗忘的“棋子”：关税重压下的美国小企业主](https://news.cctv.com/2025/05/20/ARTIPmrFe0VKVvWxVufJ6RYy250520.shtml)
+
++ [【中国那些事儿】“盲盒”潮玩风靡全球的背后是中国品牌吸引力的提升](https://news.cctv.com/2025/05/20/ARTIdxDTSj1eVxcs6isLY0fe250520.shtml)
+
++ [“没有中方鼎力支持，我们无法完成这一历史性跨越”](https://news.cctv.com/2025/05/20/ARTIe8yfvggRKy2DoAwJ4D5t250520.shtml)
+

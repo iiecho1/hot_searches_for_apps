@@ -167,3 +167,5 @@
 
 + [基于深度学习YOLOv10的安全背心穿戴识别检测系统（YOLOv10+YOLO数据集+UI界面+Python项目源码+模型）](https://blog.csdn.net/m0_68036862/article/details/148056127)
 
++ [Web 技术与 Nginx 网站环境部署](https://blog.csdn.net/tkzcmz/article/details/148069472)
+
