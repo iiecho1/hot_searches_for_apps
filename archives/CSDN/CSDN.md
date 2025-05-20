@@ -191,3 +191,7 @@
 
 + [微信小程序 地图 使用 射线法 判断目标点是否在多边形内部（可用于判断当前位置是否在某个区域内部）](https://blog.csdn.net/weixin_45940369/article/details/148049605)
 
++ [Transformer实战——循环神经网络详解](https://blog.csdn.net/LOVEmy134611/article/details/147517723)
+
++ [Recraft软件AI绘图使用教程_一款有趣的AI绘图软件（附带12种提问句式、可绘制各类PPT插图、技术流程图、原理示意图等）](https://blog.csdn.net/2401_89590626/article/details/148041618)
+
