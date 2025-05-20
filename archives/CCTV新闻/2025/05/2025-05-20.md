@@ -185,3 +185,7 @@
 
 + [“没有中方鼎力支持，我们无法完成这一历史性跨越”](https://news.cctv.com/2025/05/20/ARTIe8yfvggRKy2DoAwJ4D5t250520.shtml)
 
++ [世界卫生大会审议通过“大流行协定”](https://news.cctv.com/2025/05/20/ARTIuWNWaHdwt3dYlyZo0qBi250520.shtml)
+
++ [泰国进入雨季 我驻清迈总领馆提醒领区中国公民防洪防灾](https://news.cctv.com/2025/05/20/ARTIff3MC1MZ8PkiiMuA8E1t250520.shtml)
+
