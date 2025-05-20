@@ -181,3 +181,9 @@
 
 + [清华、阿里云、腾讯云、豆瓣等镜像源地址](https://blog.csdn.net/weixin_64672709/article/details/148032290)
 
++ [【AI大模型前沿】MiniMind-V：低成本打造超小多模态视觉语言模型（仅需1.3元人民币和1小时）](https://blog.csdn.net/xiaobing259/article/details/147877229)
+
++ [游戏开发实战（一）：Python复刻「崩坏星穹铁道」嗷呜嗷呜事务所---源码级解析该小游戏背后的算法与设计模式【纯原创】](https://blog.csdn.net/coreyckw/article/details/148074894)
+
++ [计算机网络-HTTP与HTTPS](https://blog.csdn.net/Ggjvhsjsj/article/details/148074802)
+

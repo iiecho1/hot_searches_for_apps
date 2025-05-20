@@ -29,3 +29,17 @@
 
 + [facebook/pyrefly](https://github.com/facebook/pyrefly)
 
++ [appwrite/appwrite](https://github.com/appwrite/appwrite)
+
++ [usememos/memos](https://github.com/usememos/memos)
+
++ [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [colinhacks/zod](https://github.com/colinhacks/zod)
+
++ [kmeps4/PSFree](https://github.com/kmeps4/PSFree)
+
++ [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
