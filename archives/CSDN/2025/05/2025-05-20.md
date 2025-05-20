@@ -149,3 +149,9 @@
 
 + [【华为鸿蒙电脑】首款鸿蒙电脑发布：MateBook Fold 非凡大师 & MateBook Pro，擎云星河计划启动](https://blog.csdn.net/Morse_Chen/article/details/148070552)
 
++ [CentOS Stream 9 中部署 MySQL 8.0 MGR（MySQL Group Replication）一主两从高可用集群](https://blog.csdn.net/weixin_53269650/article/details/148062232)
+
++ [Qt音视频开发过程中一个疑难杂症的解决方法/ffmpeg中采集本地音频设备无法触发超时回调](https://blog.csdn.net/feiyangqingyun/article/details/148038966)
+
++ [kubernetes的Service与服务发现](https://blog.csdn.net/m0_75233142/article/details/148027813)
+
