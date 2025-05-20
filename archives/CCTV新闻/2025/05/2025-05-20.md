@@ -191,3 +191,5 @@
 
 + [中国经济稳中向好：内循环强基、消费扩容、创新加速](https://news.cctv.com/2025/05/20/ARTImyXR1C8hgwtnidI4AKSD250520.shtml)
 
++ [爱“莲”说](https://photo.cctv.com/2025/05/20/PHOAI3II2adM4MHcelBj1jSH250520.shtml)
+

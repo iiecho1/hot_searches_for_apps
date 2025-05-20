@@ -177,3 +177,7 @@
 
 + [深入浅出IIC协议 -- 第二篇：FPGA数字接口设计方法论](https://blog.csdn.net/GateWorld/article/details/148074990)
 
++ [量子计算的曙光：从理论奇点到 IT 世界的颠覆力量](https://blog.csdn.net/SDFsoul/article/details/148085181)
+
++ [清华、阿里云、腾讯云、豆瓣等镜像源地址](https://blog.csdn.net/weixin_64672709/article/details/148032290)
+
