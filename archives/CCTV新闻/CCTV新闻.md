@@ -171,3 +171,5 @@
 
 + [胡塞武装宣布对以色列海法港实施海上封锁](https://news.cctv.com/2025/05/20/ARTImXJZyRpzboWEGiqTydU1250520.shtml)
 
++ [特朗普与普京、泽连斯基通话 各方发布详情](https://news.cctv.com/2025/05/20/ARTIMW7N7soZblnZLqH4ktn8250520.shtml)
+

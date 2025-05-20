@@ -143,3 +143,9 @@
 
 + [家庭数字生态构建实战：基于飞牛fnOS的智能家居数据中台搭建全流程解析](https://blog.csdn.net/m0_75215937/article/details/148073828)
 
++ [Redis进阶知识](https://blog.csdn.net/weixin_45153969/article/details/147963157)
+
++ [【Linux仓库】Linux终端生存手册：从cd到zip的救命指令实战【下】](https://blog.csdn.net/egoist2023/article/details/147539238)
+
++ [【华为鸿蒙电脑】首款鸿蒙电脑发布：MateBook Fold 非凡大师 & MateBook Pro，擎云星河计划启动](https://blog.csdn.net/Morse_Chen/article/details/148070552)
+
