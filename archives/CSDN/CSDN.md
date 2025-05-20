@@ -159,3 +159,11 @@
 
 + [资源管理器必要性———仙盟创梦IDE](https://blog.csdn.net/cybersnow/article/details/148036898)
 
++ [FastMCP：为大语言模型构建强大的上下文和工具服务](https://blog.csdn.net/kunhe0512/article/details/148032112)
+
++ [python创建flask项目](https://blog.csdn.net/zwjapple/article/details/148045414)
+
++ [第二届帕鲁杯【parloo杯】Web WriteUp](https://blog.csdn.net/giaogiaohuohua/article/details/148055593)
+
++ [基于深度学习YOLOv10的安全背心穿戴识别检测系统（YOLOv10+YOLO数据集+UI界面+Python项目源码+模型）](https://blog.csdn.net/m0_68036862/article/details/148056127)
+

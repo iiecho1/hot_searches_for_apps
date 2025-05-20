@@ -35,3 +35,7 @@
 
 + [小月龄宝宝生病有感](https://www.v2ex.com/t/1132842)
 
++ [我开发了一款 PDF 阅读器（基于 PDFium + Swift ，免费）](https://www.v2ex.com/t/1132773)
+
++ [大家 qq 音乐会员哪里买的，多少钱一年？](https://www.v2ex.com/t/1132902)
+
