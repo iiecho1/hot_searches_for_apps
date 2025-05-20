@@ -109,3 +109,23 @@
 
 + [学习threejs，使用Physijs物理引擎，使用DOFConstraint自由度约束，模拟小车移动](https://blog.csdn.net/qq_28419035/article/details/148082518)
 
++ [华为云Flexus+DeepSeek征文｜基于Dify平台端午习俗指南助手Ai agent【实战体验】](https://blog.csdn.net/weixin_52908342/article/details/148098840)
+
++ [Redis进阶知识](https://blog.csdn.net/weixin_45153969/article/details/147963157)
+
++ [CodeBuddy助力创新：打造高效可扩展的现代应用架构](https://blog.csdn.net/2301_76341691/article/details/148048314)
+
++ [华为云Flexus+DeepSeek征文｜基于华为云Flexus云服务的Dify 快速构建聊天助手](https://blog.csdn.net/u011074149/article/details/148027399)
+
++ [双紫擒龙紫紫红指标源码学习，2025升级版紫紫红指标公式-重点技术](https://blog.csdn.net/qzc2017/article/details/148042140)
+
++ [游戏引擎学习第294天:增加手套](https://blog.csdn.net/TM1695648164/article/details/148060021)
+
++ [Visual Studio构建三剑客：生成/重新生成/清理解决方案深度解析](https://blog.csdn.net/fluxcode/article/details/148060834)
+
++ [WEB安全--SQL注入--Oracle注入](https://blog.csdn.net/m0_74800552/article/details/148063553)
+
++ [FPGA：高速接口JESD204B以及FPGA实现](https://blog.csdn.net/u011732210/article/details/148076972)
+
++ [虚幻引擎5-Unreal Engine笔记之什么时候新建GameMode,什么时候新建关卡？](https://blog.csdn.net/weixin_43297891/article/details/148076389)
+
