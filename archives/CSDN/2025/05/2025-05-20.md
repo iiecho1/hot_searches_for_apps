@@ -155,3 +155,7 @@
 
 + [kubernetes的Service与服务发现](https://blog.csdn.net/m0_75233142/article/details/148027813)
 
++ [【Docker】Docker Compose方式搭建分布式协调服务(Zookeeper)集群](https://blog.csdn.net/qazcxh/article/details/148041883)
+
++ [资源管理器必要性———仙盟创梦IDE](https://blog.csdn.net/cybersnow/article/details/148036898)
+
