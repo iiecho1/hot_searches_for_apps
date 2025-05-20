@@ -101,3 +101,11 @@
 
 + [【Part 3 Unity VR眼镜端播放器开发与优化】第一节｜基于Unity的360°全景视频播放实现方案](https://blog.csdn.net/qq_41140324/article/details/148076658)
 
++ [【大模型】SpringBoot 整合Spring AI 对接主流大模型平台实战详解](https://blog.csdn.net/zhangcongyi420/article/details/147644379)
+
++ [基于Java在高德地图面查询检索中使用WGS84坐标的一种方法-以某商场的POI数据检索为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/148076169)
+
++ [【电动汽车充电系统核心技术全解：从can通讯高压架构到800V超充未来】](https://blog.csdn.net/weixin_62244995/article/details/148028625)
+
++ [学习threejs，使用Physijs物理引擎，使用DOFConstraint自由度约束，模拟小车移动](https://blog.csdn.net/qq_28419035/article/details/148082518)
+
