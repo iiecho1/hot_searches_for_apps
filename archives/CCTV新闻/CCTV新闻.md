@@ -165,3 +165,5 @@
 
 + [墨西哥城市长私人秘书及顾问遇袭身亡](https://news.cctv.com/2025/05/21/ARTIKWgK91ca2VE3JKFlYo9L250521.shtml)
 
++ [欧盟宣布解除对叙利亚的经济制裁](https://news.cctv.com/2025/05/21/ARTIxRyvtH2bjGDIyhSKeojD250521.shtml)
+

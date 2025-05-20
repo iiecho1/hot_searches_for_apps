@@ -137,3 +137,5 @@
 
 + [GitHub 趋势日报 (2025年05月18日)](https://blog.csdn.net/ShrCheng/article/details/148054646)
 
++ [GPU 超级节点：AWS Trainium2 UltraServer](https://blog.csdn.net/Jmilk/article/details/148048418)
+
