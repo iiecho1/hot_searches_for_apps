@@ -169,3 +169,9 @@
 
 + [Web 技术与 Nginx 网站环境部署](https://blog.csdn.net/tkzcmz/article/details/148069472)
 
++ [OpenCV计算机视觉实战（6）——经典计算机视觉算法](https://blog.csdn.net/qq_30167691/article/details/147645692)
+
++ [Linux《自主Shell命令行解释器》](https://blog.csdn.net/2303_81098358/article/details/148052766)
+
++ [安全强化的Linux](https://blog.csdn.net/wb189/article/details/148073339)
+

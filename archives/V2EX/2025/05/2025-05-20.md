@@ -39,3 +39,7 @@
 
 + [大家 qq 音乐会员哪里买的，多少钱一年？](https://www.v2ex.com/t/1132902)
 
++ [新晋宝爸，请各位 v 友赐名，采纳红包感谢](https://www.v2ex.com/t/1132986)
+
++ [有骑行的小伙伴用 AirPods 吗？](https://www.v2ex.com/t/1132899)
+
