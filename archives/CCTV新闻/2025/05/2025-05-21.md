@@ -199,3 +199,5 @@
 
 + [巴基斯坦称校车遇袭事件系印度策划 印方暂无回应](https://news.cctv.com/2025/05/21/ARTITzL6sY79CJmYX7HjX71D250521.shtml)
 
++ [美国多州受灾亟需援助 主管部门被要求180天内“改名”](https://news.cctv.com/2025/05/21/ARTInhqVexmVBM6FP9BtJZ3t250521.shtml)
+
