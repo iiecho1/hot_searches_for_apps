@@ -41,3 +41,9 @@
 
 + [兄弟们薅羊毛了，新的企业信息查询平台，注册送 5 年 SVIP。](https://www.v2ex.com/t/1133226)
 
++ [国强富强和普通人有关系吗](https://www.v2ex.com/t/1133273)
+
++ [想替换掉 Jenkins，有啥好的推荐吗？](https://www.v2ex.com/t/1133168)
+
++ [坑爹的 GBK：大家都应该去用 UTF-8](https://www.v2ex.com/t/1133223)
+

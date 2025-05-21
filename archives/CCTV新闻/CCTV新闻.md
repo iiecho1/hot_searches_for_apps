@@ -193,3 +193,9 @@
 
 + [巴基斯坦西南部一校车遇袭致5死40伤](https://news.cctv.com/2025/05/21/ARTIQam8J0B63v2MhoCCDjmc250521.shtml)
 
++ [巴勒斯坦总统呼吁国际社会共同努力制止加沙地带冲突](https://news.cctv.com/2025/05/21/ARTIyMd0PYHc8VtsOSmPqGTd250521.shtml)
+
++ [应对“过度旅游” 西班牙寻求短租平台下架6万余套民宅](https://news.cctv.com/2025/05/21/ARTIFwZTRfAdsbuUdNfADjL5250521.shtml)
+
++ [巴基斯坦称校车遇袭事件系印度策划 印方暂无回应](https://news.cctv.com/2025/05/21/ARTITzL6sY79CJmYX7HjX71D250521.shtml)
+

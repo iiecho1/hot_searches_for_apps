@@ -49,3 +49,9 @@
 
 + [联想推出拯救者山地自行车 M5000：首发价 1899 元，教育优惠 999 元](https://m.ithome.com/html/854518.htm)
 
++ [荣耀“飞机拍成鲲鹏”事件水落石出，涉事人员道歉并被刑拘](https://m.ithome.com/html/854825.htm)
+
++ [【IT之家开箱】一加 Ace 5 至尊版图赏：大直屏设计，后壳简约优雅](https://m.ithome.com/html/854774.htm)
+
++ [鸿蒙智行“时代旗舰”尊界 S800 汽车官宣 5 月 30 日发布](https://m.ithome.com/html/854719.htm)
+
