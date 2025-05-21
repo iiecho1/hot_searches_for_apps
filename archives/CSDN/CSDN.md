@@ -109,3 +109,17 @@
 
 + [学习threejs，使用Physijs物理引擎，使用DOFConstraint自由度约束，模拟小车移动](https://blog.csdn.net/qq_28419035/article/details/148082518)
 
++ [Java 大视界 -- Java 大数据机器学习模型在遥感图像目标检测与语义分割中的应用与改进（258）](https://blog.csdn.net/atgfg/article/details/148052567)
+
++ [深度学习实战 04：卷积神经网络之 VGG16 复现三（训练）](https://blog.csdn.net/weixin_44493991/article/details/148097843)
+
++ [数据库选型：打破成见，回归业务本质](https://blog.csdn.net/Z_oioihoii/article/details/148115011)
+
++ [【基于SpringBoot的图书购买系统】深度讲解 分页查询用户信息，分析前后端交互的原理](https://blog.csdn.net/2302_79527141/article/details/148063509)
+
++ [Vue 3.0中核心的Composition API](https://blog.csdn.net/weixin_40629244/article/details/148125145)
+
++ [Unity3D仿星露谷物语开发46之种植/砍伐橡树](https://blog.csdn.net/benben044/article/details/148050822)
+
++ [Vue 3 新特性与最佳实践之Composition API 和响应式系统](https://blog.csdn.net/sjw890821sjw/article/details/148100267)
+
