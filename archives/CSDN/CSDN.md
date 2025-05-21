@@ -127,3 +127,7 @@
 
 + [CUDA的设备,流处理器(Streams)，核，线程块（threadblock），线程，网格（‌gridDim），块（block）和多gpu设备同步数据概念](https://blog.csdn.net/Poisx/article/details/148126944)
 
++ [【android bluetooth 协议分析 01】【HCI 层介绍 9】【ReadLocalSupportedCommands命令介绍】](https://blog.csdn.net/qq_33689469/article/details/148073584)
+
++ [Linux《自主Shell命令行解释器》](https://blog.csdn.net/2303_81098358/article/details/148052766)
+
