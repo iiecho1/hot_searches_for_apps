@@ -153,3 +153,13 @@
 
 + [WEB安全--SQL注入--MSSQL注入](https://blog.csdn.net/m0_74800552/article/details/148057208)
 
++ [工业缺陷检测：基于深度学习的表面缺陷分类](https://blog.csdn.net/weixin_43151418/article/details/147397729)
+
++ [Java 大视界 -- Java 大数据在智能体育赛事直播中的虚拟现实（VR）/ 增强现实（AR）互动体验优化（257）](https://blog.csdn.net/atgfg/article/details/148052130)
+
++ [C++ asio网络编程(8)处理粘包问题](https://blog.csdn.net/2401_87117051/article/details/148044381)
+
++ [【狂热算法篇】堆核驱动 TopK 分拣，快选奇招直击数据核心](https://blog.csdn.net/2401_82648291/article/details/146000230)
+
++ [空调系统虚拟标定技术：新能源汽车能效优化的革命性突破](https://blog.csdn.net/weixin_62244995/article/details/148070860)
+

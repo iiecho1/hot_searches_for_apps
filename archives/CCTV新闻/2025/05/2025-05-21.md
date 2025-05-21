@@ -173,3 +173,7 @@
 
 + [墨西哥军方：军舰在撞桥时由纽约引航员指挥操作](https://news.cctv.com/2025/05/21/ARTIRYOoIKLnqBxsCObm16CL250521.shtml)
 
++ [日本农林水产大臣因不当“大米言论”引咎辞职](https://news.cctv.com/2025/05/21/ARTIulOvmbOScpG5zmlayram250521.shtml)
+
++ [边轰炸边“喊冤” 以色列行径遭欧洲多国反对 欧盟出手了](https://news.cctv.com/2025/05/21/ARTIgRbsjVH7YgjKDBvDlIg0250521.shtml)
+
