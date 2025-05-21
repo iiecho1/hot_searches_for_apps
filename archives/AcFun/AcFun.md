@@ -67,3 +67,5 @@
 
 + [十王者局！快速看完一局韩服王者斗殴局#674 Siwoo,Citrus,Enosh,HamBak,C](https://m.acfun.cn/v/?ac=47287453)
 
++ [【3ds动物森友会】拿着喇叭叫叫小动物们](https://m.acfun.cn/v/?ac=47291459)
+
