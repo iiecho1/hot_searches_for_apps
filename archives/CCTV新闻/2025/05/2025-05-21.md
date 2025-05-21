@@ -201,3 +201,9 @@
 
 + [美国多州受灾亟需援助 主管部门被要求180天内“改名”](https://news.cctv.com/2025/05/21/ARTInhqVexmVBM6FP9BtJZ3t250521.shtml)
 
++ [新加坡公布新内阁名单 黄循财继续担任总理及财政部长](https://news.cctv.com/2025/05/21/ARTId30tXBuNo2dhwX6MlAqb250521.shtml)
+
++ [德国经济专家委员会预测2025年德国经济零增长](https://news.cctv.com/2025/05/21/ARTIllbhZwwkMo80okN0joxk250521.shtml)
+
++ [越南前国家主席陈德良因病去世](https://news.cctv.com/2025/05/21/ARTIu2O3rkni38vUkDghkXWl250521.shtml)
+
