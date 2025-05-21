@@ -123,3 +123,7 @@
 
 + [Vue 3 新特性与最佳实践之Composition API 和响应式系统](https://blog.csdn.net/sjw890821sjw/article/details/148100267)
 
++ [大模型（2）——提示工程（Prompt Engineering）](https://blog.csdn.net/jiaomongjun/article/details/148076265)
+
++ [CUDA的设备,流处理器(Streams)，核，线程块（threadblock），线程，网格（‌gridDim），块（block）和多gpu设备同步数据概念](https://blog.csdn.net/Poisx/article/details/148126944)
+
