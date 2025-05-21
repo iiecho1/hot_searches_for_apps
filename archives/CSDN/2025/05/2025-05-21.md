@@ -163,3 +163,11 @@
 
 + [空调系统虚拟标定技术：新能源汽车能效优化的革命性突破](https://blog.csdn.net/weixin_62244995/article/details/148070860)
 
++ [【远程工具系列】节点小宝、RustDesk、向日葵、ToDesk、TeamViewer、AnyDesk ——六款主流远程控制软件横向测评对比](https://blog.csdn.net/qq_44866828/article/details/148100250)
+
++ [Redis实现消息队列与分布式数据库集群搭建](https://blog.csdn.net/gjx18084061690/article/details/148052101)
+
++ [LabVIEW风机状态实时监测](https://blog.csdn.net/bjcyck/article/details/148103206)
+
++ [12.vue整合springboot首页显示数据库表-实现按钮：【添加修改删除查询】](https://blog.csdn.net/mobangde/article/details/148025248)
+
