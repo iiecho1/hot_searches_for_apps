@@ -171,3 +171,11 @@
 
 + [12.vue整合springboot首页显示数据库表-实现按钮：【添加修改删除查询】](https://blog.csdn.net/mobangde/article/details/148025248)
 
++ [【AI大模型前沿】MedReason：大规模医学推理数据集、借用知识图谱将大模型打造成医术专家](https://blog.csdn.net/xiaobing259/article/details/147877622)
+
++ [【 Redis | 实战篇 扩展 】](https://blog.csdn.net/2402_88700528/article/details/148096442)
+
++ [从数据到智能：openGauss+openEuler Intelligence的RAG架构实战](https://blog.csdn.net/GaussDB/article/details/148103117)
+
++ [华为云Flexus+DeepSeek征文｜Flexus云服务器Dify-LLM资源部署极致体验Agent](https://blog.csdn.net/Dovis5884/article/details/148103976)
+
