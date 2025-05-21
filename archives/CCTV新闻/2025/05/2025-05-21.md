@@ -167,3 +167,9 @@
 
 + [欧盟宣布解除对叙利亚的经济制裁](https://news.cctv.com/2025/05/21/ARTIxRyvtH2bjGDIyhSKeojD250521.shtml)
 
++ [美发布“金穹”导弹防御系统发展规划](https://news.cctv.com/2025/05/21/ARTI6CvKulCCQ6COLyE56dtP250521.shtml)
+
++ [美媒：鲁比奥称特朗普不出席二十国集团领导人会议](https://news.cctv.com/2025/05/21/ARTIEmIBvss4VikbrJgztwIb250521.shtml)
+
++ [墨西哥军方：军舰在撞桥时由纽约引航员指挥操作](https://news.cctv.com/2025/05/21/ARTIRYOoIKLnqBxsCObm16CL250521.shtml)
+

@@ -25,3 +25,9 @@
 
 + [OFFER 决赛圈](https://www.v2ex.com/t/1132968)
 
++ [这个世界无时无刻不再刷新我的三观](https://www.v2ex.com/t/1133186)
+
++ [上班这件事在我的视角里愈发荒诞起来](https://www.v2ex.com/t/1133156)
+
++ [怎么说服老婆换手机，她目前还在用 iPhone 7P](https://www.v2ex.com/t/1133184)
+
