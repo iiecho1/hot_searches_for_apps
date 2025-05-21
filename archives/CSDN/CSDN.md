@@ -179,3 +179,15 @@
 
 + [华为云Flexus+DeepSeek征文｜Flexus云服务器Dify-LLM资源部署极致体验Agent](https://blog.csdn.net/Dovis5884/article/details/148103976)
 
++ [【Vue篇】组件的武林绝学：状态风暴下的乾坤挪移术](https://blog.csdn.net/zzy985/article/details/148077575)
+
++ [自动驾驶视觉感知：车道线检测与障碍物识别](https://blog.csdn.net/weixin_43151418/article/details/147397217)
+
++ [数据挖掘实战-基于LSTM时间序列模型的香烟销售预测分析](https://blog.csdn.net/m0_64336780/article/details/141998601)
+
++ [以电商API为核心的点三技术平台实属让人眼界大开](https://blog.csdn.net/linshantang/article/details/148099693)
+
++ [大数据Spark（五十九）：Standalone集群部署](https://blog.csdn.net/xiaoweite1/article/details/148098417)
+
++ [面向概念漂移的动态自组织映射（SOM）及其在金融风险预警中的效能评估](https://blog.csdn.net/m0_46510245/article/details/148105717)
+
