@@ -189,3 +189,7 @@
 
 + [中国与东盟十国全面完成中国—东盟自贸区3.0版谈判](https://news.cctv.com/2025/05/21/ARTIIO7hIUsXcezlI6RzwN09250521.shtml)
 
++ [外媒：匈牙利国会批准该国退出国际刑事法院](https://news.cctv.com/2025/05/21/ARTIesbhGZdn4XDxSpuc3Zh4250521.shtml)
+
++ [巴基斯坦西南部一校车遇袭致5死40伤](https://news.cctv.com/2025/05/21/ARTIQam8J0B63v2MhoCCDjmc250521.shtml)
+

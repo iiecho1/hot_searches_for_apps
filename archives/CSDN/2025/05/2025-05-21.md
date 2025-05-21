@@ -191,3 +191,7 @@
 
 + [面向概念漂移的动态自组织映射（SOM）及其在金融风险预警中的效能评估](https://blog.csdn.net/m0_46510245/article/details/148105717)
 
++ [【Rust智能指针】Rust智能指针原理剖析与应用指导](https://blog.csdn.net/littlefun591/article/details/148083770)
+
++ [Visual Studio 2022 插件推荐](https://blog.csdn.net/m0_58648890/article/details/148089771)
+

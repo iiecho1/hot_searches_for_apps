@@ -25,3 +25,27 @@
 
 + [小米林斌回应现在工作：主要负责应对国际地缘政治给企业造成的挑战](https://m.ithome.com/html/854378.htm)
 
++ [小米自研玄戒 O1 公布后官宣与高通续签合作协议，首批采用下一代骁龙 8 旗舰处理器](https://m.ithome.com/html/854633.htm)
+
++ [小米芯片商标遭抢注，已被驳回](https://m.ithome.com/html/854537.htm)
+
++ [高通 CEO 安蒙回应小米自研手机芯片玄戒 O1：将继续向小米供应芯片](https://m.ithome.com/html/854591.htm)
+
++ [小米史上最强大平板：小米平板 7 Ultra 采用玄戒 O1 旗舰处理器、14 英寸 OLED 屏](https://m.ithome.com/html/854496.htm)
+
++ [小米 16 渲染图出炉：极简主义美学，尺寸 6.32~6.36 英寸之间](https://m.ithome.com/html/854716.htm)
+
++ [小米史上最强平板：小米 Pad 7 Ultra 跑分首曝，3.7GHz 主频玄戒 O1 芯片 + 16GB 内存](https://m.ithome.com/html/854733.htm)
+
++ [雷军：小米 YU7 定位豪华高性能 SUV，和 SU7 有一脉相承的家族设计语言](https://m.ithome.com/html/854736.htm)
+
++ [小米 YU7 汽车全新配色「宝石绿」亮相：采用双层色漆工艺、灵感来自哥伦比亚绿宝石](https://m.ithome.com/html/854767.htm)
+
++ [鸿蒙电脑外设兼容清单上线：涵盖华为、小米、惠普、佳能、兄弟等几乎所有品牌](https://m.ithome.com/html/854711.htm)
+
++ [iQOO Neo10 Pro + 手机发布：搭载骁龙 8 至尊版、2K Q10 珠峰屏，首销到手价 2799 元起](https://m.ithome.com/html/854608.htm)
+
++ [小米平板 7 Ultra 真机外观公布：镜头 Deco 新增“XRING”标识、14 英寸 OLED 屏幕](https://m.ithome.com/html/854700.htm)
+
++ [联想推出拯救者山地自行车 M5000：首发价 1899 元，教育优惠 999 元](https://m.ithome.com/html/854518.htm)
+
