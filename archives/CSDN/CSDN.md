@@ -199,3 +199,7 @@
 
 + [springboot+vue实现服装商城系统（带用户协同过滤个性化推荐算法）](https://blog.csdn.net/LuoZheng4698729/article/details/148085032)
 
++ [留给王小川的时间不多了 ](https://blog.csdn.net/yidiancaijing/article/details/148072052)
+
++ [【基于SpringBoot的图书购买系统】深度讲解 分页查询用户信息，分析前后端交互的原理](https://blog.csdn.net/2302_79527141/article/details/148063509)
+

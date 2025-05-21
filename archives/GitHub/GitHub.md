@@ -31,3 +31,21 @@
 
 + [Cysharp/ZLinq](https://github.com/Cysharp/ZLinq)
 
++ [microsoft/WSL](https://github.com/microsoft/WSL)
+
++ [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [antirez/kilo](https://github.com/antirez/kilo)
+
++ [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
+
++ [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel)
+
++ [microsoft/vscode](https://github.com/microsoft/vscode)
+
++ [nektos/act](https://github.com/nektos/act)
+
