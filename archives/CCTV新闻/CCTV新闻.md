@@ -161,3 +161,9 @@
 
 + [索马里首都发生自杀式炸弹袭击 致至少11人丧生](https://news.cctv.com/2025/05/18/ARTIPg2cNEcVDvwk2DtYWQeF250518.shtml)
 
++ [新加坡调整内阁　布局关键领域](https://news.cctv.com/2025/05/22/ARTISsy2gBDJNvniO7MB7zvk250522.shtml)
+
++ [以色列高等法院裁定政府解职辛贝特局长程序不当](https://news.cctv.com/2025/05/22/ARTILHPZR1d0PbbZZAxSwNgf250522.shtml)
+
++ [“雪龙2”号极地考察破冰船首访泰国](https://news.cctv.com/2025/05/22/ARTIyBusYoT2EDe4DRSGIcja250522.shtml)
+

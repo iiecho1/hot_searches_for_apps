@@ -25,3 +25,9 @@
 
 + [鸿蒙智行“时代旗舰”尊界 S800 汽车官宣 5 月 30 日发布](https://m.ithome.com/html/854719.htm)
 
++ [小米芯片商标遭抢注，已被驳回](https://m.ithome.com/html/854537.htm)
+
++ [小米史上最强大平板：小米平板 7 Ultra 采用玄戒 O1 旗舰处理器、14 英寸 OLED 屏](https://m.ithome.com/html/854496.htm)
+
++ [联想推出拯救者山地自行车 M5000：首发价 1899 元，教育优惠 999 元](https://m.ithome.com/html/854518.htm)
+

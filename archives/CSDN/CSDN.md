@@ -101,3 +101,11 @@
 
 + [计算机网络-HTTP与HTTPS](https://blog.csdn.net/Ggjvhsjsj/article/details/148074802)
 
++ [Transformer实战——循环神经网络详解](https://blog.csdn.net/LOVEmy134611/article/details/147517723)
+
++ [从数据到智能：openGauss+openEuler Intelligence的RAG架构实战](https://blog.csdn.net/GaussDB/article/details/148103117)
+
++ [matlab+opencv车道线识别](https://blog.csdn.net/alicema1111/article/details/148079121)
+
++ [学习threejs，使用Physijs物理引擎，使用DOFConstraint自由度约束，模拟小车移动](https://blog.csdn.net/qq_28419035/article/details/148082518)
+
