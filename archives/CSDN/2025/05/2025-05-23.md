@@ -111,3 +111,21 @@
 
 + [Vue Router动态路由与导航守卫实战](https://blog.csdn.net/2508_91837411/article/details/148124637)
 
++ [以电商API为核心的点三技术平台实属让人眼界大开](https://blog.csdn.net/linshantang/article/details/148099693)
+
++ [极大似然估计与机器学习](https://blog.csdn.net/xsddys/article/details/148123622)
+
++ [【机器学习】支持向量机（SVM）](https://blog.csdn.net/PANSS__/article/details/148094354)
+
++ [九天画芯CEO张锦：AR 与 AI 融合重构智能终端生态，消费级市场迎来关键拐点](https://blog.csdn.net/weixin_53305836/article/details/148106521)
+
++ [网络安全之身份验证绕过漏洞](https://blog.csdn.net/anquan2233/article/details/148117157)
+
++ [Docker的网络介绍](https://blog.csdn.net/qq_39853669/article/details/148123917)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(二十五) -＞ 端云一体化开发 -＞ 业务介绍(二)](https://blog.csdn.net/weixin_74809706/article/details/148106796)
+
++ [PCB智能报价系统——————仙盟创梦IDE](https://blog.csdn.net/cybersnow/article/details/148113886)
+
++ [学习threejs，使用Physijs物理引擎，使用DOFConstraint自由度约束，模拟小车移动](https://blog.csdn.net/qq_28419035/article/details/148082518)
+
