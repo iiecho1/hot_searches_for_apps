@@ -151,3 +151,11 @@
 
 + [[概率论基本概念1]什么是经验分布](https://blog.csdn.net/gongdiwudu/article/details/148089446)
 
++ [【MySQL】函数 & 复合查询 & 内外连接](https://blog.csdn.net/island1314/article/details/148128461)
+
++ [C#与FFmpeg的旋转魔法：从零到精通视频旋转的终极指南](https://blog.csdn.net/2401_88677290/article/details/147369724)
+
++ [园区无人机智能巡检项目方案](https://blog.csdn.net/weixin_45520289/article/details/148099173)
+
++ [vue路由小案例](https://blog.csdn.net/2301_81616961/article/details/148098570)
+

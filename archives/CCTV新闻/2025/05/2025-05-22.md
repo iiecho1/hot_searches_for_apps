@@ -193,3 +193,13 @@
 
 + [时隔近一年 委内瑞拉航空公司恢复巴拿马航线](https://news.cctv.com/2025/05/22/ARTI3VmNYld11kHcnjrS6BtZ250522.shtml)
 
++ [巴基斯坦与印度互相驱逐对方一名外交官](https://news.cctv.com/2025/05/22/ARTI3yP1hnuIKV8oxa6viYRq250522.shtml)
+
++ [俄国防部：俄防空系统摧毁101架乌无人机](https://news.cctv.com/2025/05/22/ARTIW2CLD7AJkSxg6y50kqva250522.shtml)
+
++ [韩称朝鲜发射数枚巡航导弹 朝方暂无回应](https://news.cctv.com/2025/05/22/ARTIDVltmcCsMi7YFIbDeTFH250522.shtml)
+
++ [两名以色列驻美使馆工作人员在华盛顿遇害](https://news.cctv.com/2025/05/22/ARTIpCsPD5NcpxqCl99UcUIc250522.shtml)
+
++ [爱琴海发生6.2级地震，震源深度70千米](https://news.cctv.com/2025/05/22/ARTITH6WWm8UXGtyC1yyub4k250522.shtml)
+

@@ -81,3 +81,7 @@
 
 + [当你的朋友只会拍汽车！★手机竖屏1523★](https://m.acfun.cn/v/?ac=47297809)
 
++ [不以天赋而自矜的天才，终将成为传奇 #等我刷把宗师](https://m.acfun.cn/v/?ac=47297899)
+
++ [AOA Heart Attack 怦然心动](https://m.acfun.cn/v/?ac=47294964)
+
