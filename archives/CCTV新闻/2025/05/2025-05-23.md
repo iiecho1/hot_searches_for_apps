@@ -161,3 +161,5 @@
 
 + [“脱欧”后首次双边峰会 英欧达成安全与防务协议](https://news.cctv.com/2025/05/20/ARTI8z9g4AZj3NtCVhdZipLE250520.shtml)
 
++ [美国商场货架一线观察：关税冲击下的民众“物价焦虑”](https://news.cctv.com/2025/05/23/ARTItpBNe4yO9HDCsYtFuhya250523.shtml)
+
