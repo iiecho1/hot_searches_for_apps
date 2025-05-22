@@ -171,3 +171,7 @@
 
 + [特朗普会见南非总统时起争执](https://news.cctv.com/2025/05/22/ARTI9jzMIEz4OetWs6omnbM9250522.shtml)
 
++ [朝鲜新建驱逐舰下水发生“重大事故” 金正恩说“不可接受”](https://news.cctv.com/2025/05/22/ARTIOLgB1NbAyaKjwuhkgw6H250522.shtml)
+
++ [新加坡调整内阁 布局关键领域](https://news.cctv.com/2025/05/22/ARTISsy2gBDJNvniO7MB7zvk250522.shtml)
+
