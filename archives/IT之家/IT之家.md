@@ -55,3 +55,5 @@
 
 + [传快手要求员工每日刷够 1 小时 App，未达标将标红](https://m.ithome.com/html/855052.htm)
 
++ [全新「小米天际屏全景显示」亮相，号称“更符合直觉的视觉交互系统”](https://m.ithome.com/html/854803.htm)
+

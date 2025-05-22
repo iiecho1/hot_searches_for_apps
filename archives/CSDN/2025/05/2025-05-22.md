@@ -189,3 +189,7 @@
 
 + [【开源解析】基于深度学习的双色球预测系统：从数据获取到可视化分析](https://blog.csdn.net/Clay_K/article/details/148131441)
 
++ [Java 大视界 -- Java 大数据在智能教育在线实验室设备管理与实验资源优化中的应用（261）](https://blog.csdn.net/atgfg/article/details/148099731)
+
++ [量子计算的曙光：从理论奇点到 IT 世界的颠覆力量](https://blog.csdn.net/SDFsoul/article/details/148085181)
+

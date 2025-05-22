@@ -29,3 +29,11 @@
 
 + [appwrite/appwrite](https://github.com/appwrite/appwrite)
 
++ [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
++ [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
+
++ [usebruno/bruno](https://github.com/usebruno/bruno)
+
++ [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js)
+
