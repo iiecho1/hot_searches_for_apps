@@ -195,3 +195,13 @@
 
 + [HTTP/HTTPS 协议浅解](https://blog.csdn.net/weixin_47166516/article/details/148109388)
 
++ [高级学习算法（神经网络 决策树）](https://blog.csdn.net/qq947467490/article/details/147994313)
+
++ [小土堆pytorch--神经网络-非线性激活&线性层及其他层介绍](https://blog.csdn.net/2302_80295520/article/details/148112322)
+
++ [【C/C++】Observer与Producer-Consumer模式解析](https://blog.csdn.net/YZJincsdn/article/details/148126380)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | Hidden Search Widget （交互式搜索框）](https://blog.csdn.net/qq_44808710/article/details/148125186)
+
++ [量子计算与云计算的融合：技术前沿与应用前景](https://blog.csdn.net/2401_86478612/article/details/148112817)
+

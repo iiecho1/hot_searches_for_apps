@@ -233,3 +233,7 @@
 
 + [美国一架小型飞机在圣迭戈一居民区坠毁](https://news.cctv.com/2025/05/22/ARTIwwnccmHUDgItcHfadK22250522.shtml)
 
++ [日本自卫队坠机事故中失踪的飞行员确认死亡](https://news.cctv.com/2025/05/22/ARTISKWitDJLBgtNOoH5kfYu250522.shtml)
+
++ [英国宣布将查戈斯群岛主权移交给毛里求斯](https://news.cctv.com/2025/05/22/ARTIRbQUHTTE9k0NufTgbQ73250522.shtml)
+
