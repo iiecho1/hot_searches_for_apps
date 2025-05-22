@@ -129,3 +129,7 @@
 
 + [学习threejs，使用Physijs物理引擎，使用DOFConstraint自由度约束，模拟小车移动](https://blog.csdn.net/qq_28419035/article/details/148082518)
 
++ [LabVIEW风机状态实时监测](https://blog.csdn.net/bjcyck/article/details/148103206)
+
++ [【超详细】Vue3+UniApp+.NET8集成腾讯云IM即时通信全攻略](https://blog.csdn.net/mss359681091/article/details/148151435)
+
