@@ -227,3 +227,7 @@
 
 + [英国首次在本土蚊子中发现西尼罗病毒](https://news.cctv.com/2025/05/22/ARTIuzTax5Rps6Xbv8N5yiCh250522.shtml)
 
++ [塞内加尔总理要求外国驻军7月底前撤离该国](https://news.cctv.com/2025/05/22/ARTIFrpPURfWgY2eGXlwKy4U250522.shtml)
+
++ [内塔尼亚胡要求全球所有以色列外交机构加强安全防护](https://news.cctv.com/2025/05/22/ARTIOpGfkNWHJ9WgFnSIPzrp250522.shtml)
+

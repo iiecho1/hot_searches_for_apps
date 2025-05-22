@@ -187,3 +187,5 @@
 
 + [家庭数字生态构建实战：基于飞牛fnOS的智能家居数据中台搭建全流程解析](https://blog.csdn.net/m0_75215937/article/details/148073828)
 
++ [【开源解析】基于深度学习的双色球预测系统：从数据获取到可视化分析](https://blog.csdn.net/Clay_K/article/details/148131441)
+
