@@ -175,3 +175,19 @@
 
 + [新加坡调整内阁 布局关键领域](https://news.cctv.com/2025/05/22/ARTISsy2gBDJNvniO7MB7zvk250522.shtml)
 
++ [朝鲜劳动党中央委员会政治局决定召开八届十二中全会](https://news.cctv.com/2025/05/22/ARTIc4QYOGbAT5TJLjeqPrjP250522.shtml)
+
++ [特朗普白宫“伏击”南非总统](https://news.cctv.com/2025/05/22/ARTIHgjK0KzA1NkLIUgK4Sa4250522.shtml)
+
++ [美国警方与反以学生爆发冲突 逮捕至少两人](https://news.cctv.com/2025/05/22/ARTIU1WZzI8SKYhBmayGmziP250522.shtml)
+
++ [一船只在美国西雅图北部海域沉没 3人失踪](https://news.cctv.com/2025/05/22/ARTINsPdwSzElz6IBoTo9hCm250522.shtml)
+
++ [“导弹焦虑症”诱发“空中楼阁幻想” 美“金穹”系统遭广泛质疑](https://military.cctv.com/2025/05/22/ARTIicqgxmTHfENSyy6ksv2U250522.shtml)
+
++ [美国零售巨头沃尔玛公司计划裁员约1500人](https://news.cctv.com/2025/05/22/ARTInZYKOzI9kvGBQORc9Jwl250522.shtml)
+
++ [美国正式接受卡塔尔为特朗普提供的波音747飞机](https://military.cctv.com/2025/05/22/ARTIuFCUQyPtKpIoLnvgSq0y250522.shtml)
+
++ [第五轮伊美核问题谈判将于5月23日在罗马举行](https://news.cctv.com/2025/05/22/ARTIrqw7jsiTyDE54cBiCAX6250522.shtml)
+

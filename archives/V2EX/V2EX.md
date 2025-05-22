@@ -19,3 +19,13 @@
 
 + [坑爹的 GBK：大家都应该去用 UTF-8](https://www.v2ex.com/t/1133223)
 
++ [有没有感觉迷信比之前要盛行](https://www.v2ex.com/t/1133236)
+
++ [男生如果不想结婚了，真的能够活得很好](https://www.v2ex.com/t/1133334)
+
++ [亏掉首付有感](https://www.v2ex.com/t/1133437)
+
++ [“再等等”的果粉好累](https://www.v2ex.com/t/1133212)
+
++ [从 iPhone 换到三星 S25，软件适配和广告真难受](https://www.v2ex.com/t/1133315)
+

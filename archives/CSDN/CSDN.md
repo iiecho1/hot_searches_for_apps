@@ -131,3 +131,15 @@
 
 + [Linux《自主Shell命令行解释器》](https://blog.csdn.net/2303_81098358/article/details/148052766)
 
++ [样本复杂性：机器学习的数据效率密码](https://blog.csdn.net/weixin_62782025/article/details/148046318)
+
++ [Spring Boot 集成 Elasticsearch【实战】](https://blog.csdn.net/weixin_42118323/article/details/144648940)
+
++ [【深度学习】多目标融合算法（六）：渐进式分层提取模型PLE（Progressive Layered Extraction）](https://blog.csdn.net/weixin_48007632/article/details/148118660)
+
++ [redis在spring boot中异常退出](https://blog.csdn.net/qq_37533306/article/details/148056557)
+
++ [Linux 磁盘扩容实战案例：从问题发现到完美解决](https://blog.csdn.net/weixin_51326478/article/details/148099586)
+
++ [使用docker——10分钟内 完成一个高可用的 MongoDB 副本集部署](https://blog.csdn.net/hnlucky/article/details/148055245)
+
