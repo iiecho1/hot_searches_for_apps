@@ -205,3 +205,9 @@
 
 + [菲律宾外交部长马纳罗向总统提交辞呈](https://news.cctv.com/2025/05/22/ARTICZK2XMgSzYIiIuUFagMA250522.shtml)
 
++ [多家国际航空公司恢复途经巴基斯坦领空](https://news.cctv.com/2025/05/22/ARTIQcXQFDTWm9yWhZnmMUWe250522.shtml)
+
++ [巴基斯坦总理：沙特可成为巴印会谈的“中立”场所](https://news.cctv.com/2025/05/22/ARTIfFQBpZeR2WPM6UOt4rVq250522.shtml)
+
++ [以色列使馆两名工作人员在美遭枪杀 特朗普：可怕杀戮](https://news.cctv.com/2025/05/22/ARTIAznwxlrrOHfVaSACVVPI250522.shtml)
+
