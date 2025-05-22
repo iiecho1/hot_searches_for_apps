@@ -203,3 +203,5 @@
 
 + [爱琴海发生6.2级地震，震源深度70千米](https://news.cctv.com/2025/05/22/ARTITH6WWm8UXGtyC1yyub4k250522.shtml)
 
++ [菲律宾外交部长马纳罗向总统提交辞呈](https://news.cctv.com/2025/05/22/ARTICZK2XMgSzYIiIuUFagMA250522.shtml)
+

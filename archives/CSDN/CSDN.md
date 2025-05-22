@@ -159,3 +159,13 @@
 
 + [vue路由小案例](https://blog.csdn.net/2301_81616961/article/details/148098570)
 
++ [大模型之Spring AI实战系列（十一）：Spring Boot + OpenAI 集成本地向量数据库Chroma](https://blog.csdn.net/xiaobing259/article/details/148045864)
+
++ [【Linux我做主】探秘进程与fork](https://blog.csdn.net/2301_80064645/article/details/147850381)
+
++ [《Linux权威指南：从小白到系统管理员（上册）》深度解析与实践指南](https://blog.csdn.net/qq_44273429/article/details/148130071)
+
++ [Hbuilder X4.65新建vue3项目存在的问题以及解决办法](https://blog.csdn.net/lzm12278828/article/details/148092628)
+
++ [Spring Boot 的高级特性与经典的设计模式应用](https://blog.csdn.net/supingemail/article/details/148063234)
+
