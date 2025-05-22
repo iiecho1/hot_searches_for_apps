@@ -211,3 +211,5 @@
 
 + [以色列使馆两名工作人员在美遭枪杀 特朗普：可怕杀戮](https://news.cctv.com/2025/05/22/ARTIAznwxlrrOHfVaSACVVPI250522.shtml)
 
++ [日本民调显示石破内阁支持率跌至新低 仅20.9%](https://news.cctv.com/2025/05/22/ARTIvLJjz12EXMO4P7W6uA56250522.shtml)
+
