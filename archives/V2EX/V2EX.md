@@ -29,3 +29,7 @@
 
 + [从 iPhone 换到三星 S25，软件适配和广告真难受](https://www.v2ex.com/t/1133315)
 
++ [北京美食分享](https://www.v2ex.com/t/1133416)
+
++ [35+的 985 本程序员加个圈子](https://www.v2ex.com/t/1133432)
+

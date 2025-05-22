@@ -143,3 +143,11 @@
 
 + [使用docker——10分钟内 完成一个高可用的 MongoDB 副本集部署](https://blog.csdn.net/hnlucky/article/details/148055245)
 
++ [TensorFlow深度学习实战（17）——主成分分析详解](https://blog.csdn.net/LOVEmy134611/article/details/148128486)
+
++ [【写在创作纪念日】基于SpringBoot和PostGIS的各省东西南北四至极点区县可视化](https://blog.csdn.net/yelangkingwuzuhu/article/details/148125763)
+
++ [【MySQL】联合查询（上）](https://blog.csdn.net/2402_86304740/article/details/147640075)
+
++ [[概率论基本概念1]什么是经验分布](https://blog.csdn.net/gongdiwudu/article/details/148089446)
+
