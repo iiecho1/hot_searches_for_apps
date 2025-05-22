@@ -193,3 +193,5 @@
 
 + [量子计算的曙光：从理论奇点到 IT 世界的颠覆力量](https://blog.csdn.net/SDFsoul/article/details/148085181)
 
++ [HTTP/HTTPS 协议浅解](https://blog.csdn.net/weixin_47166516/article/details/148109388)
+
