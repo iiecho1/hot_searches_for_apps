@@ -163,3 +163,9 @@
 
 + [美国商场货架一线观察：关税冲击下的民众“物价焦虑”](https://news.cctv.com/2025/05/23/ARTItpBNe4yO9HDCsYtFuhya250523.shtml)
 
++ [罗马尼亚宪法法院确认达恩当选新总统](https://news.cctv.com/2025/05/23/ARTI9l77dsqfP7v8WkbnBlrR250523.shtml)
+
++ [土耳其宣布将向叙利亚供应大量电力和天然气](https://news.cctv.com/2025/05/23/ARTIIz1U0tvG3XVf6YIFYo5W250523.shtml)
+
++ [美国圣迭戈坠机事件造成至少2死8伤](https://news.cctv.com/2025/05/23/ARTIjvP9BbYsEfHkrt4O4dwt250523.shtml)
+
