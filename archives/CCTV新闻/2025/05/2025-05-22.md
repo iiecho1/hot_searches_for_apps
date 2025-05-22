@@ -213,3 +213,17 @@
 
 + [日本民调显示石破内阁支持率跌至新低 仅20.9%](https://news.cctv.com/2025/05/22/ARTIvLJjz12EXMO4P7W6uA56250522.shtml)
 
++ [飞阅印尼雅万高铁](https://photo.cctv.com/2025/05/22/PHOAq7PmfsDA7Ewj5L5XkNQC250522.shtml)
+
++ [泰国前总理英拉因“大米渎职案”被判赔偿百亿泰铢](https://news.cctv.com/2025/05/22/ARTIGJlac3fi0J5wAG6cfZyz250522.shtml)
+
++ [超1.8万亿日元 日本百年银行迎史上最大亏损](https://news.cctv.com/2025/05/22/ARTIY9GEdTG4tXNDnXOPfKv1250522.shtml)
+
++ [美媒：美国对以色列失望 愿与哈马斯直接谈判](https://news.cctv.com/2025/05/22/ARTI2iX2FwLJL64KJ985aJjN250522.shtml)
+
++ [美知名百货零售商下调销售预期 经济学家唱衰美国经济](https://news.cctv.com/2025/05/22/ARTIhtKSksenEUcdlHbc89b0250522.shtml)
+
++ [卡塔尔为世界反兴奋剂机构提供150万美元额外资助](https://news.cctv.com/2025/05/22/ARTIpmeytss2JaNH57OGfro1250522.shtml)
+
++ [英国首次在本土蚊子中发现西尼罗病毒](https://news.cctv.com/2025/05/22/ARTIuzTax5Rps6Xbv8N5yiCh250522.shtml)
+

@@ -177,3 +177,13 @@
 
 + [springboot+vue实现鲜花商城系统源码（带用户协同过滤个性化推荐算法）](https://blog.csdn.net/LuoZheng4698729/article/details/148109919)
 
++ [【MySQL】数据库约束](https://blog.csdn.net/2401_86112610/article/details/148115459)
+
++ [【TI MSP430与SD NAND：心电监测的长续航解决方案】](https://blog.csdn.net/qyj19920704/article/details/148127877)
+
++ [深入解析 HTTP 中的 GET 请求与 POST 请求​](https://blog.csdn.net/2201_75786273/article/details/148086367)
+
++ [华为云Flexus+DeepSeek征文｜华为云 Dify LLM 平台单机部署教程：一键开启高效开发之旅](https://blog.csdn.net/weixin_62782025/article/details/148096794)
+
++ [家庭数字生态构建实战：基于飞牛fnOS的智能家居数据中台搭建全流程解析](https://blog.csdn.net/m0_75215937/article/details/148073828)
+

@@ -33,3 +33,25 @@
 
 + [电影《哪吒之魔童闹海》密钥第四次延期：延长上映至 6 月 30 日，累计票房 158.59 亿](https://m.ithome.com/html/854831.htm)
 
++ [小米卢伟冰：玄戒芯片不止 O1 一款](https://m.ithome.com/html/854945.htm)
+
++ [消息称一汽南京全员解散，赔偿 N+4](https://m.ithome.com/html/854953.htm)
+
++ [小米 YU7 汽车全新配色「钛金属色」亮相：车身表面增加大颗粒金属铝粉](https://m.ithome.com/html/855068.htm)
+
++ [雷军：小米 YU7 预计 7 月正式上市，今晚不会公布正式价格](https://m.ithome.com/html/855091.htm)
+
++ [丰田第六代 RAV4 发布：外观更运动，纯燃油版成为历史](https://m.ithome.com/html/854841.htm)
+
++ [2499 元起，AMD RX 9060 XT 显卡国行价格公布](https://m.ithome.com/html/854906.htm)
+
++ [威力超广岛原子弹 20 倍，美国新核弹 B61-13 完成首个制造](https://m.ithome.com/html/854915.htm)
+
++ [4.3GB：微软 Win11 24H2 五月更新体积暴增，AI 文件占 3GB](https://m.ithome.com/html/855007.htm)
+
++ [微信员工：微信没有能力“盗用”好友头像昵称给朋友圈广告评论，也绝不会这么干](https://m.ithome.com/html/855079.htm)
+
++ [“全球品牌中国线上 500 强榜单”发布，苹果、华为、小米前三](https://m.ithome.com/html/854931.htm)
+
++ [传快手要求员工每日刷够 1 小时 App，未达标将标红](https://m.ithome.com/html/855052.htm)
+
