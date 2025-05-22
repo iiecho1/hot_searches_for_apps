@@ -231,3 +231,5 @@
 
 + [内塔尼亚胡要求全球所有以色列外交机构加强安全防护](https://news.cctv.com/2025/05/22/ARTIOpGfkNWHJ9WgFnSIPzrp250522.shtml)
 
++ [美国一架小型飞机在圣迭戈一居民区坠毁](https://news.cctv.com/2025/05/22/ARTIwwnccmHUDgItcHfadK22250522.shtml)
+
