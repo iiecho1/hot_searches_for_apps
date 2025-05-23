@@ -187,3 +187,9 @@
 
 + [《深度掌控Linux：openEuler、CentOS、Debian、Ubuntu的全方位运维指南》](https://blog.csdn.net/2401_87322981/article/details/148069188)
 
++ [RNN神经网络](https://blog.csdn.net/2301_77717148/article/details/148151026)
+
++ [C++ 日志系统实战第五步：日志器的设计](https://blog.csdn.net/2301_82213854/article/details/147774347)
+
++ [深入掌握Node.js HTTP模块：从开始到放弃](https://blog.csdn.net/weixin_44732078/article/details/148106497)
+

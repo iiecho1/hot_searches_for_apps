@@ -225,3 +225,7 @@
 
 + [11名苏丹籍难民在利比亚沙漠中因脱水死亡](https://news.cctv.com/2025/05/23/ARTImiDsVckdu8s6ICGL5KEz250523.shtml)
 
++ [美法官阻止政府终止国际学生身份措施生效](https://news.cctv.com/2025/05/23/ARTIJ6oTml7qZpPY0zUV5AF7250523.shtml)
+
++ [俄罗斯发射一颗军用卫星](https://military.cctv.com/2025/05/23/ARTIAF2oDOIpACn36Z4oQQc5250523.shtml)
+

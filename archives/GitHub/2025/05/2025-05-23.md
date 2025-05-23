@@ -23,3 +23,19 @@
 
 + [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js)
 
++ [microsoft/qlib](https://github.com/microsoft/qlib)
+
++ [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+
++ [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+
++ [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [flutter/flutter](https://github.com/flutter/flutter)
+
++ [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
+
