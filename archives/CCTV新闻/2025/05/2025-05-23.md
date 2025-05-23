@@ -179,3 +179,15 @@
 
 + [中国驻悉尼总领馆关注领区针对中国公民暴力行为](https://news.cctv.com/2025/05/23/ARTIt2LBz5KtlWipmm8SoYKf250523.shtml)
 
++ [委内瑞拉在议会选举期间关闭与哥伦比亚陆路口岸](https://news.cctv.com/2025/05/23/ARTIol2D1IVkjSB1usX2mWxP250523.shtml)
+
++ [联合国安理会谴责巴基斯坦校车遭袭事件](https://news.cctv.com/2025/05/23/ARTIKJfKRohCrBhuBDDLshNi250523.shtml)
+
++ [韩警方掌握总统警卫处涉尹锡悦加密手机记录](https://news.cctv.com/2025/05/23/ARTI1m7J2G9J5GBqYYXe8oan250523.shtml)
+
++ [法国加强犹太人聚集场所安保措施](https://news.cctv.com/2025/05/23/ARTIXveN8nfeDUXpIHX3omzg250523.shtml)
+
++ [胡塞武装再次警告外国航班和船只远离以色列机场和港口](https://news.cctv.com/2025/05/23/ARTIEjizIlKbnwqXDlYNYrze250523.shtml)
+
++ [土耳其警方拘留272名贩毒嫌疑人](https://news.cctv.com/2025/05/23/ARTIL8AT0E0bKsxKk2Egb350250523.shtml)
+

@@ -145,3 +145,13 @@
 
 + [Linux笔记---信号(下)](https://blog.csdn.net/2302_80372340/article/details/148098038)
 
++ [【C++从零实现Json-Rpc框架】第五弹——理解项目功能](https://blog.csdn.net/m0_73953114/article/details/148148630)
+
++ [2025电工杯数学建模A题：光伏电站发电功率日前预测问题](https://blog.csdn.net/2301_81596622/article/details/148153925)
+
++ [【TI MSP430与SD NAND：心电监测的长续航解决方案】](https://blog.csdn.net/qyj19920704/article/details/148127877)
+
++ [AI开源框架对比：PyTorch vs TensorFlow vs PaddlePaddle 深度解析](https://blog.csdn.net/qq_16242613/article/details/148027820)
+
++ [如何用数据可视化提升你的决策力？](https://blog.csdn.net/2401_82881178/article/details/148058037)
+
