@@ -223,3 +223,5 @@
 
 + [胡塞武装称使用导弹成功打击以色列机场](https://news.cctv.com/2025/05/23/ARTIYpgMCmQaC2P28aup23Om250523.shtml)
 
++ [11名苏丹籍难民在利比亚沙漠中因脱水死亡](https://news.cctv.com/2025/05/23/ARTImiDsVckdu8s6ICGL5KEz250523.shtml)
+

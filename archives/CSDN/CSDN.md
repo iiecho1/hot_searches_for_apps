@@ -183,3 +183,7 @@
 
 + [2025年电工杯数学建模竞赛 选题分析&解题思路](https://blog.csdn.net/Magnolia_He/article/details/148154168)
 
++ [JVM梳理（逻辑清晰）](https://blog.csdn.net/weixin_45865163/article/details/148108516)
+
++ [《深度掌控Linux：openEuler、CentOS、Debian、Ubuntu的全方位运维指南》](https://blog.csdn.net/2401_87322981/article/details/148069188)
+
