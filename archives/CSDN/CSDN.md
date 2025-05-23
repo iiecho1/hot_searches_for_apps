@@ -135,3 +135,13 @@
 
 + [虚幻引擎5-Unreal Engine笔记之摄像头camera](https://blog.csdn.net/weixin_43297891/article/details/148100334)
 
++ [spring的注入方式都有什么区别](https://blog.csdn.net/Very_a/article/details/148124735)
+
++ [Transformer——Q104 视觉Transformer中Patch Embedding的参数量计算（图像尺寸 H×W，Patch大小 P）](https://blog.csdn.net/pzccool/article/details/148101547)
+
++ [微服务中API网关作用（统一入口、路由转发、协议转换、认证授权、请求聚合、负载均衡、熔断限流、监控日志）](https://blog.csdn.net/Dontla/article/details/148119431)
+
++ [SpringBoot微服务编写Dockerfile流程及问题汇总](https://blog.csdn.net/wojiushiwo945you/article/details/148119800)
+
++ [Linux笔记---信号(下)](https://blog.csdn.net/2302_80372340/article/details/148098038)
+

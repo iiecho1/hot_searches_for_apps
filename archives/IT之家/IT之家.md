@@ -61,3 +61,11 @@
 
 + [小米 YU7 内饰亮相：前排“天际屏”，后排 6.68 英寸移动控制屏](https://m.ithome.com/html/855259.htm)
 
++ [小米推出 90W GaN 小布丁充电器，售价 149 元起](https://m.ithome.com/html/855069.htm)
+
++ [iPhone 7 Plus、64GB / 256GB 版 iPhone 8 被苹果列入“过时”产品](https://m.ithome.com/html/854993.htm)
+
++ [首发搭载玄戒 O1 旗舰处理器：小米 15S Pro 手机 / 7 Ultra 平板开放预约，免费抽新机](https://m.ithome.com/html/855152.htm)
+
++ [小米 14 Ultra 手机 4K 60fps 全焦段杜比视界完成全部开发和认证工作](https://m.ithome.com/html/855089.htm)
+

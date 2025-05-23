@@ -169,3 +169,13 @@
 
 + [美国圣迭戈坠机事件造成至少2死8伤](https://news.cctv.com/2025/05/23/ARTIjvP9BbYsEfHkrt4O4dwt250523.shtml)
 
++ [欧盟将取消对乌克兰农产品免关税政策](https://news.cctv.com/2025/05/23/ARTIgEJLVukiqEiJFYJ0QxWG250523.shtml)
+
++ [中国驻悉尼总领馆提醒领区中国公民加强人身安全防范](https://news.cctv.com/2025/05/23/ARTIDKUeGO5mgNQCSivbMPlv250523.shtml)
+
++ [禁招国际学生 特朗普政府对哈佛大学下狠手](https://news.cctv.com/2025/05/23/ARTIpj6NWj71gVSjA4oLrhX0250523.shtml)
+
++ [造船厂厂长被传唤 朝鲜驱逐舰下水事故最新调查结果公布](https://news.cctv.com/2025/05/23/ARTI6kGT4fFAdbLsS8qLF5HS250523.shtml)
+
++ [中国驻悉尼总领馆关注领区针对中国公民暴力行为](https://news.cctv.com/2025/05/23/ARTIt2LBz5KtlWipmm8SoYKf250523.shtml)
+
