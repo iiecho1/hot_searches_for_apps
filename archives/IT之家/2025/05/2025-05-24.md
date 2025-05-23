@@ -33,3 +33,27 @@
 
 + [小米 YU7 搭第三代骁龙 8 座舱 SoC 芯片，匹配 700 TOPS 英伟达 DRIVE AGX 车载计算平台](https://m.ithome.com/html/855268.htm)
 
++ [苹果临时提升 iPhone 12 及后续机型以旧换新价值，活动 6 月 18 日截止](https://m.ithome.com/html/855308.htm)
+
++ [玄戒 O1 处理器晶圆实物首度亮相，入驻小米科技园大堂展厅](https://m.ithome.com/html/855471.htm)
+
++ [荣耀、华为、OPPO、vivo 签署融合快充互授权意向，UFCS 2.0 标准发布](https://m.ithome.com/html/855472.htm)
+
++ [华为余承东清华演讲：鸿蒙系统开发不易，生态建设更难](https://m.ithome.com/html/855440.htm)
+
++ [比亚迪海洋网智驾版车型限时一口价：海鸥智驾版 5.58 万元起，宋 PLUS DM-i 智驾版 9.98 万元起](https://m.ithome.com/html/855363.htm)
+
++ [小米回应 YU7 汽车门把手“冬天会被冻住吗”热议：经过严谨设计、极寒天气表面可能结冰](https://m.ithome.com/html/855568.htm)
+
++ [华为 nova 14 Pro / Ultra 手机首销：全新红枫影像，3499 元起（国补价 2949 元起）](https://m.ithome.com/html/855324.htm)
+
++ [【IT之家图赏】小米 YU7 Max「宝石绿」实拍：豪华高性能 SUV，专为时代精英打造，御风而行](https://m.ithome.com/html/855322.htm)
+
++ [格力董明珠、孟羽童合体直播，称双方“交恶”系无稽之谈](https://m.ithome.com/html/855547.htm)
+
++ [【视频】HarmonyOS 5 + 全新AI小艺赋能，华为nova 14系列体验评测](https://m.ithome.com/html/855349.htm)
+
++ [小米 90W GaN 小布丁充电器开售：可折叠插脚设计，149 元起](https://m.ithome.com/html/855380.htm)
+
++ [512G+16T 版也支持国补：苹果 M3 Ultra 芯片 Mac Studio 106749 元补货](https://m.ithome.com/html/855541.htm)
+

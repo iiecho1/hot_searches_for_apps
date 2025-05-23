@@ -127,3 +127,7 @@
 
 + [完整改进RIME算法，基于修正多项式微分学习算子Rime-ice增长优化器，完整MATLAB代码获取](https://blog.csdn.net/m0_58857684/article/details/148137990)
 
++ [大模型之Spring AI实战系列（十一）：Spring Boot + OpenAI 集成本地向量数据库Chroma](https://blog.csdn.net/xiaobing259/article/details/148045864)
+
++ [率先实现混合搜索：使用 Elasticsearch 和 Semantic Kernel](https://blog.csdn.net/UbuntuTouch/article/details/148140688)
+
