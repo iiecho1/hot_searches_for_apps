@@ -233,3 +233,7 @@
 
 + [为扩大“蓝碳”规模 日本将开展深海藻类生物调查](https://news.cctv.com/2025/05/23/ARTId5U40PnmiqhbiQPYYKVY250523.shtml)
 
++ [哈佛大学称已就美政府对国际学生的禁令提起诉讼](https://news.cctv.com/2025/05/23/ARTIJrUQtIYuXVQqWMQg0x4X250523.shtml)
+
++ [国际观察｜众议院涉险过关 美减税法案争议难平](https://news.cctv.com/2025/05/23/ARTIxEa5mqIs0VObYgBAB0rL250523.shtml)
+

@@ -199,3 +199,11 @@
 
 + [前端图片裁剪上传全流程详解：从预览到上传的完整流程](https://blog.csdn.net/lhmyy521125/article/details/148148418)
 
++ [OpenCv高阶（十五）——EigenFace人脸识别](https://blog.csdn.net/jdjhcn/article/details/148106527)
+
++ [uniapp实现H5、APP、微信小程序播放.m3u8监控视频](https://blog.csdn.net/qq_72114625/article/details/148140926)
+
++ [HarmonyOS NEXT～React Native 在鸿蒙系统上的应用与实践](https://blog.csdn.net/weixin_41905135/article/details/148148798)
+
++ [贪心算法 Part04](https://blog.csdn.net/fieldsss/article/details/148121037)
+
