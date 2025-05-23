@@ -155,3 +155,5 @@
 
 + [如何用数据可视化提升你的决策力？](https://blog.csdn.net/2401_82881178/article/details/148058037)
 
++ [Vivado中IP核被锁定的解决办法](https://blog.csdn.net/ccsss22/article/details/148126351)
+
