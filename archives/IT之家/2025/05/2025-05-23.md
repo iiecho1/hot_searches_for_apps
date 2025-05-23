@@ -69,3 +69,11 @@
 
 + [小米 14 Ultra 手机 4K 60fps 全焦段杜比视界完成全部开发和认证工作](https://m.ithome.com/html/855089.htm)
 
++ [小米 15 周年战略新品发布会一文汇总：自研芯片玄戒 O1 / T1 上阵，YU7 首秀，旗舰手机平板登场](https://m.ithome.com/html/855282.htm)
+
++ [【IT之家开箱】小米 15S Pro 图赏：首搭小米首款自主设计 3nm 旗舰 SoC 玄戒 O1，15 周年献礼之作](https://m.ithome.com/html/855265.htm)
+
++ [小米 Watch S4 eSIM 15 周年纪念版发布：搭载自研玄戒 T1 芯片，售 1299 元](https://m.ithome.com/html/855242.htm)
+
++ [小米 YU7 搭第三代骁龙 8 座舱 SoC 芯片，匹配 700 TOPS 英伟达 DRIVE AGX 车载计算平台](https://m.ithome.com/html/855268.htm)
+

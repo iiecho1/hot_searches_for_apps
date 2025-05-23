@@ -201,3 +201,13 @@
 
 + [伊朗外长率团前往罗马 参加伊美第五轮核问题谈判](https://news.cctv.com/2025/05/23/ARTIMuVRdGnBeBAzArtOfxMv250523.shtml)
 
++ [美信用危机警示全球治理变革紧迫性](https://news.cctv.com/2025/05/23/ARTIEQjyF4Pll2XvpZNPz9UZ250523.shtml)
+
++ [国际观察丨欧美关税谈判僵持 欧盟经济面临多重压力](https://news.cctv.com/2025/05/23/ARTIhoED2ENJMt8oEtpFFDhI250523.shtml)
+
++ [记者手记｜在大阪世博会感受多彩中国](https://news.cctv.com/2025/05/23/ARTIQbuRopVpz2OSe1IakedL250523.shtml)
+
++ [澳大利亚东南部洪水致4人死亡](https://news.cctv.com/2025/05/23/ARTIW27ntQkgmSlTvpNL6ZZj250523.shtml)
+
++ [日本核心CPI连续44个月同比上涨](https://news.cctv.com/2025/05/23/ARTIKEq0GKMzuENWNHB8Pmt6250523.shtml)
+
