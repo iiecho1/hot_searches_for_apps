@@ -211,3 +211,15 @@
 
 + [日本核心CPI连续44个月同比上涨](https://news.cctv.com/2025/05/23/ARTIKEq0GKMzuENWNHB8Pmt6250523.shtml)
 
++ [俄国防部称在多地摧毁112架乌无人机](https://military.cctv.com/2025/05/23/ARTILLt9cZATDBLUFYuYrbXL250523.shtml)
+
++ [印尼苏门答腊岛西南海域发生6.0级地震 多处建筑物受损](https://news.cctv.com/2025/05/23/ARTIcDDP7VlpQvxUQi6c3OfA250523.shtml)
+
++ [中方代表呼吁加大紧迫感和行动力度保护武装冲突中平民](https://news.cctv.com/2025/05/23/ARTIWHN31zDElmaOk3UKksCs250523.shtml)
+
++ [引发美欧打嘴仗，特朗普说了啥](https://news.cctv.com/2025/05/23/ARTIbDeyAy4W3jKKDxy48yfS250523.shtml)
+
++ [巴基斯坦谴责印度暂停《印度河用水条约》](https://news.cctv.com/2025/05/23/ARTIr0UYpddpRcL5cmtBzmIi250523.shtml)
+
++ [胡塞武装称使用导弹成功打击以色列机场](https://news.cctv.com/2025/05/23/ARTIYpgMCmQaC2P28aup23Om250523.shtml)
+

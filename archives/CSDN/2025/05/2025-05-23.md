@@ -173,3 +173,13 @@
 
 + [flutter getx路由管理、状态管理、路由守卫中间件、永久储存get_storage](https://blog.csdn.net/u010843503/article/details/148141724)
 
++ [【基于SpringBoot的图书购买系统】用户模块删除和修改的全栈开发实践：从接口设计到业务落地](https://blog.csdn.net/2302_79527141/article/details/148151018)
+
++ [数学建模MathAI智能体-2025电工杯A题实战](https://blog.csdn.net/weixin_46211269/article/details/148157718)
+
++ [MySQL 主从复制搭建全流程：基于 Docker 与 Harbor 仓库](https://blog.csdn.net/2403_88333522/article/details/148122833)
+
++ [基于微信小程序的旅游攻略分享与互动平台设计与实现](https://blog.csdn.net/m0_58847451/article/details/148167448)
+
++ [2025年电工杯数学建模竞赛 选题分析&解题思路](https://blog.csdn.net/Magnolia_He/article/details/148154168)
+
