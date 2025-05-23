@@ -101,3 +101,9 @@
 
 + [自由开发者计划 002：创建一个贷款计算器的微信小程序](https://blog.csdn.net/zgf605506394/article/details/148147646)
 
++ [【基于SpringBoot的图书购买系统】用户模块删除和修改的全栈开发实践：从接口设计到业务落地](https://blog.csdn.net/2302_79527141/article/details/148151018)
+
++ [关于数据仓库、数据湖、数据平台、数据中台和湖仓一体的概念和区别](https://blog.csdn.net/garyond/article/details/148139377)
+
++ [数据挖掘实战-基于LSTM时间序列模型的香烟销售预测分析](https://blog.csdn.net/m0_64336780/article/details/141998601)
+

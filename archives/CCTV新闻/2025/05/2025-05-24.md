@@ -161,3 +161,11 @@
 
 + [新加坡公布新内阁名单 黄循财继续担任总理及财政部长](https://news.cctv.com/2025/05/21/ARTId30tXBuNo2dhwX6MlAqb250521.shtml)
 
++ [特朗普提议对欧盟征收50%关税 欧美股市大幅低开](https://news.cctv.com/2025/05/24/ARTIY6wxoPn7MrymdgjLlzzn250524.shtml)
+
++ [新加坡新一届内阁宣誓就职](https://news.cctv.com/2025/05/24/ARTIDEGW12kMtYw2URZOAIvV250524.shtml)
+
++ [俄乌完成直接会谈后首批大规模换俘](https://news.cctv.com/2025/05/24/ARTIonaV2Q1f1WN1Pm8GSmPJ250523.shtml)
+
++ [巴基斯坦延长对印度航班关闭领空至6月24日](https://news.cctv.com/2025/05/24/ARTIy4hhSq84h7xw5pbH8Mrv250524.shtml)
+
