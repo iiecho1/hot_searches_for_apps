@@ -229,3 +229,7 @@
 
 + [俄罗斯发射一颗军用卫星](https://military.cctv.com/2025/05/23/ARTIAF2oDOIpACn36Z4oQQc5250523.shtml)
 
++ [美媒揭批大规模减税法案 提醒美国民众：“除非你非常富有 否则将过得更糟”](https://news.cctv.com/2025/05/23/ARTIMA9vzP0I59PAFQfSUaOv250523.shtml)
+
++ [为扩大“蓝碳”规模 日本将开展深海藻类生物调查](https://news.cctv.com/2025/05/23/ARTId5U40PnmiqhbiQPYYKVY250523.shtml)
+

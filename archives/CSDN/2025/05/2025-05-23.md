@@ -193,3 +193,9 @@
 
 + [深入掌握Node.js HTTP模块：从开始到放弃](https://blog.csdn.net/weixin_44732078/article/details/148106497)
 
++ [OpenCV计算机视觉实战（7）——色彩空间详解](https://blog.csdn.net/qq_30167691/article/details/147746988)
+
++ [Python安全密码生成器：告别弱密码的最佳实践](https://blog.csdn.net/weixin_74994771/article/details/148147766)
+
++ [前端图片裁剪上传全流程详解：从预览到上传的完整流程](https://blog.csdn.net/lhmyy521125/article/details/148148418)
+
