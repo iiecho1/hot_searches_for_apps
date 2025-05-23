@@ -191,3 +191,9 @@
 
 + [土耳其警方拘留272名贩毒嫌疑人](https://news.cctv.com/2025/05/23/ARTIL8AT0E0bKsxKk2Egb350250523.shtml)
 
++ [日本和歌山县4只大熊猫将于6月28日送返中国](https://news.cctv.com/2025/05/23/ARTIxSD9PMCXmbt1P0ImnORy250523.shtml)
+
++ [塞浦路斯将选民法定投票年龄下调至17岁](https://news.cctv.com/2025/05/23/ARTILrkq8Ifq374hgk2FqtiT250523.shtml)
+
++ [法国参议院通过打击电话营销法案 将于2026年8月实施](https://news.cctv.com/2025/05/23/ARTIpMGQfI6kAnZ1bomwESdb250523.shtml)
+
