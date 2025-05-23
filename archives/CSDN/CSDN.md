@@ -107,3 +107,23 @@
 
 + [数据挖掘实战-基于LSTM时间序列模型的香烟销售预测分析](https://blog.csdn.net/m0_64336780/article/details/141998601)
 
++ [华为云Flexus+DeepSeek征文｜快速搭建Dify-LLM应用开发平台：基于华为云的一键部署实践全攻略](https://blog.csdn.net/weixin_52908342/article/details/148142255)
+
++ [2025年开源大模型技术全景图](https://blog.csdn.net/weixin_41046245/article/details/148168261)
+
++ [C++ vector 深度解析：从原理到实战的全方位指南](https://blog.csdn.net/2403_87794049/article/details/148177140)
+
++ [【Linux我做主】探秘进程与fork](https://blog.csdn.net/2301_80064645/article/details/147850381)
+
++ [深入了解linux系统—— 文件系统](https://blog.csdn.net/LH__1314/article/details/148147820)
+
++ [【TI MSP430与SD NAND：心电监测的长续航解决方案】](https://blog.csdn.net/qyj19920704/article/details/148127877)
+
++ [Spark大数据分与实践笔记（第五章 HBase分布式数据库-02）](https://blog.csdn.net/u014727709/article/details/131679982)
+
++ [《Linux权威指南：从小白到系统管理员（上册）》深度解析与实践指南](https://blog.csdn.net/qq_44273429/article/details/148130071)
+
++ [FPGA：CLB资源以及Verilog编码面积优化技巧](https://blog.csdn.net/u011732210/article/details/148149648)
+
++ [完整改进RIME算法，基于修正多项式微分学习算子Rime-ice增长优化器，完整MATLAB代码获取](https://blog.csdn.net/m0_58857684/article/details/148137990)
+
