@@ -161,3 +161,7 @@
 
 + [关于Vue自定义组件封装的属性/事件/插槽的透传问题](https://blog.csdn.net/qq_39691676/article/details/148121250)
 
++ [2025电工杯B题电工杯数学建模思路代码文章教学: 城市垃圾分类运输的路径优化与调度](https://blog.csdn.net/xb459149247/article/details/148156343)
+
++ [FPGA开发全流程](https://blog.csdn.net/m0_67400176/article/details/148118770)
+
