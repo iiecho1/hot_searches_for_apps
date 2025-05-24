@@ -55,3 +55,11 @@
 
 + [小米 90W GaN 小布丁充电器开售：可折叠插脚设计，149 元起](https://m.ithome.com/html/855380.htm)
 
++ [莫迪：首款“印度造”芯片即将正式下线](https://m.ithome.com/html/855723.htm)
+
++ [小米推出米家折叠偏光太阳镜套镜：近视专用，售价 199 元](https://m.ithome.com/html/855641.htm)
+
++ [4999 元 → 3079 元：REDMI K80 Pro 冠军版 16G + 1T 国补后立打 6 折](https://m.ithome.com/html/855733.htm)
+
++ [全球限量 999 辆：阿斯顿・马丁 Valhalla 超跑首秀，1064 马力、零百加速 2.5 秒](https://m.ithome.com/html/855661.htm)
+
