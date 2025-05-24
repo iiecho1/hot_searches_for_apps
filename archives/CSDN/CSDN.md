@@ -187,3 +187,13 @@
 
 + [Coze实战：基于数据库的视频混剪工作流搭建（喂饭级教程）](https://blog.csdn.net/c18213590220/article/details/148120654)
 
++ [微前端架构：从单体到模块化的前端新革命](https://blog.csdn.net/SDFsoul/article/details/148192841)
+
++ [个人理解 火山引擎的实时对话 AI 如何利用 WebRTC、大模型、语音识别（ASR）、语音合成（TTS）等技术实现低延迟的实时对话功能。](https://blog.csdn.net/luck332/article/details/148174072)
+
++ [HTTP 与 HTTPS 深度解析：原理、实践与大型项目应用](https://blog.csdn.net/weixin_54524403/article/details/148178173)
+
++ [Flink初始及搭建集群环境（技术选型与实战详解）](https://blog.csdn.net/weixin_39863120/article/details/148114983)
+
++ [ECharts图表工厂，完整代码+思路逻辑](https://blog.csdn.net/sahjiwij/article/details/148177677)
+
