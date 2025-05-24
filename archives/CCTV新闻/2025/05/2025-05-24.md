@@ -171,3 +171,9 @@
 
 + [麦夸里岛以西海域发生6.1级地震 震源深度10千米](https://news.cctv.com/2025/05/24/ARTIEsfOfoj0uFNqp0qXMstl250524.shtml)
 
++ [美国拟对高校捐赠基金分级征税 矛头直指精英大学](https://news.cctv.com/2025/05/24/ARTIC6qf3jdONjFfbYKiEuyv250524.shtml)
+
++ [“在中国的帮助下，非洲也在努力实现现代化梦想”](https://news.cctv.com/2025/05/24/ARTIEFd4tKR5kfstwhFOAL7x250524.shtml)
+
++ [韩国总统选举临近 李在明领先优势大幅减少](https://news.cctv.com/2025/05/24/ARTIh4CJJfJQlfJCmMQTQrCr250524.shtml)
+

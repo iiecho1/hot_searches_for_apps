@@ -145,3 +145,9 @@
 
 + [电影网站|基于SSM+vue的电影网站系统(源码+数据库+文档)​](https://blog.csdn.net/m0_66468899/article/details/148150938)
 
++ [2024 CKA题库+详尽解析| 1. 权限控制RBAC](https://blog.csdn.net/qq_30435355/article/details/148171363)
+
++ [【前端系列】ECharts：数据可视化的强大工具](https://blog.csdn.net/qyj19920704/article/details/148127921)
+
++ [【粉丝福利社】向量数据库：大模型驱动的智能检索与应用](https://blog.csdn.net/aa2528877987/article/details/148177579)
+
