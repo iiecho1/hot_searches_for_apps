@@ -23,3 +23,11 @@
 
 + [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 
++ [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [usebruno/bruno](https://github.com/usebruno/bruno)
+
++ [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)
+
++ [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js)
+

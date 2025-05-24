@@ -191,3 +191,5 @@
 
 + [中国驻越南使馆提醒在越公民注意防范强降雨天气](https://news.cctv.com/2025/05/24/ARTIdphUEu219f3AFVGY10Kf250524.shtml)
 
++ [经贸磋商机制初建，轻言速胜并不可取](https://news.cctv.com/2025/05/24/ARTI5TrVPwhTmlvj9Q6H6oko250524.shtml)
+

@@ -173,3 +173,7 @@
 
 + [前端状态管理介绍（React状态管理）（通过管理状态来控制UI的呈现，确保数据的一致性和可维护性）（界面与数据分离、可预测性、组件化、响应式更新）](https://blog.csdn.net/Dontla/article/details/148177961)
 
++ [华为云Flexus+DeepSeek征文｜华为云Dify-LLM应用开发平台部署与开发全流程指南 —基于Flexus X实例的极速部署与智能体开发实践](https://blog.csdn.net/weixin_52908342/article/details/148150853)
+
++ [【ARM 嵌入式 编译系列 10.4.2 -- 查看 bss 段中有哪些内容】](https://blog.csdn.net/sinat_32960911/article/details/148176525)
+
