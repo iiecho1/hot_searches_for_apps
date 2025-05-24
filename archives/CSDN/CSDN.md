@@ -105,3 +105,27 @@
 
 + [个人理解 火山引擎的实时对话 AI 如何利用 WebRTC、大模型、语音识别（ASR）、语音合成（TTS）等技术实现低延迟的实时对话功能。](https://blog.csdn.net/luck332/article/details/148174072)
 
++ [微服务架构中的 RabbitMQ：异步通信与服务解耦（二）](https://blog.csdn.net/qq_42190530/article/details/148142838)
+
++ [华为云Flexus+DeepSeek征文｜华为云Dify-LLM应用开发平台部署与开发全流程指南 —基于Flexus X实例的极速部署与智能体开发实践](https://blog.csdn.net/weixin_52908342/article/details/148150853)
+
++ [2025电工杯数学建模A题思路&数模AI&提示词工程](https://blog.csdn.net/qq_39899679/article/details/148153701)
+
++ [k8s网络架构](https://blog.csdn.net/ZhanBiaoChina/article/details/148124110)
+
++ [9大开源AI智能体概况](https://blog.csdn.net/chenhong007/article/details/148177638)
+
++ [2025年电工杯数学建模竞赛 选题分析&解题思路](https://blog.csdn.net/Magnolia_He/article/details/148154168)
+
++ [C# TCP协议全面指南：从可靠传输到企业级高并发的深度实践​](https://blog.csdn.net/Rocn666/article/details/148160194)
+
++ [【TI MSP430与SD NAND：心电监测的长续航解决方案】](https://blog.csdn.net/qyj19920704/article/details/148127877)
+
++ [数据库blog5_数据库软件架构介绍（以Mysql为例）](https://blog.csdn.net/2301_79534441/article/details/148151394)
+
++ [Vivado HLS优化指令使用方法总结](https://blog.csdn.net/ccsss22/article/details/148151048)
+
++ [【Node.js】全栈开发实践](https://blog.csdn.net/Go_ahead1025/article/details/148126916)
+
++ [HTML5的新语义化标签](https://blog.csdn.net/bubiyoushang888/article/details/148158530)
+
