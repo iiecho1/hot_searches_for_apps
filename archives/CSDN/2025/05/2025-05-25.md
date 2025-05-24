@@ -101,3 +101,7 @@
 
 + [DeepSeek-R1 模型现已在亚马逊云科技上推出](https://blog.csdn.net/zhangxia_/article/details/147723185)
 
++ [Elastic：什么是 DevOps？](https://blog.csdn.net/UbuntuTouch/article/details/148166119)
+
++ [个人理解 火山引擎的实时对话 AI 如何利用 WebRTC、大模型、语音识别（ASR）、语音合成（TTS）等技术实现低延迟的实时对话功能。](https://blog.csdn.net/luck332/article/details/148174072)
+

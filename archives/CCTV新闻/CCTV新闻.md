@@ -161,3 +161,9 @@
 
 + [韩称朝鲜发射数枚巡航导弹 朝方暂无回应](https://news.cctv.com/2025/05/22/ARTIDVltmcCsMi7YFIbDeTFH250522.shtml)
 
++ [越南为已故前国家主席陈德良举办国葬](https://news.cctv.com/2025/05/25/ARTIi1lujYO4rHxlZ31JlEXm250525.shtml)
+
++ [米价居高不下 日本新农相承诺投放低价储备米](https://news.cctv.com/2025/05/25/ARTIs7cA5wLHStV2QPune7Eq250525.shtml)
+
++ [联合国机构：加沙地带超7万名儿童面临严重营养不良](https://news.cctv.com/2025/05/25/ARTItUcVmSuHZcgBPM8DXwrj250524.shtml)
+
