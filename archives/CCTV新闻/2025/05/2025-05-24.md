@@ -179,3 +179,7 @@
 
 + [苏丹政府谴责美国以所谓使用化学武器为由制裁苏丹](https://news.cctv.com/2025/05/24/ARTIJnFfajVAL7z5rJ4Ee74T250524.shtml)
 
++ [人道主义危机难解 联合国称加沙遭遇“最残酷阶段”](https://news.cctv.com/2025/05/24/ARTIYnRef8Cy5SyI9e9B4EV7250524.shtml)
+
++ [巴基斯坦校车遇袭事件死亡人数升至8人](https://news.cctv.com/2025/05/24/ARTICIbGwJra1QAbtvSk4DxC250524.shtml)
+
