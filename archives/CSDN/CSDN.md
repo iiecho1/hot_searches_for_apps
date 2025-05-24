@@ -129,3 +129,9 @@
 
 + [HTML5的新语义化标签](https://blog.csdn.net/bubiyoushang888/article/details/148158530)
 
++ [【萤火工场GD32VW553-IOT开发板】流水灯](https://blog.csdn.net/qq_36654593/article/details/148171157)
+
++ [【2025年电工杯B题】城市垃圾分类运输的路径优化与调度（思路、代码、论文持续更新.....)](https://blog.csdn.net/weixin_67304359/article/details/148153987)
+
++ [分布式消息队列kafka详解](https://blog.csdn.net/ljw714/article/details/148176644)
+
