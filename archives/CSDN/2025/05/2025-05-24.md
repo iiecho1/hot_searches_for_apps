@@ -131,3 +131,9 @@
 
 + [率先实现混合搜索：使用 Elasticsearch 和 Semantic Kernel](https://blog.csdn.net/UbuntuTouch/article/details/148140688)
 
++ [【HarmonyOS 5】Map Kit 地图服务之应用内地图加载](https://blog.csdn.net/weixin_44640245/article/details/148171284)
+
++ [C++ 日志系统实战第五步：日志器的设计](https://blog.csdn.net/2301_82213854/article/details/147774347)
+
++ [PyTorch性能调优实战：从算子优化到分布式训练全攻略](https://blog.csdn.net/deepever/article/details/148135480)
+
