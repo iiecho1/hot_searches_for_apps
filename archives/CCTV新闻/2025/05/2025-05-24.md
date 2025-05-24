@@ -185,3 +185,9 @@
 
 + [数据显示今年赴美国际旅客数量将下降8.7%](https://news.cctv.com/2025/05/24/ARTIzzLfdwIxamTn38BHTeUs250524.shtml)
 
++ [中东故事 中国印记](https://news.cctv.com/2025/05/24/ARTIAsnaR2Uhavkms0bWF6vG250524.shtml)
+
++ [有人当场哭了？美国白宫国安委裁员“降级”](https://news.cctv.com/2025/05/24/ARTIeNnHlME0MO0ESz6LRrfk250524.shtml)
+
++ [中国驻越南使馆提醒在越公民注意防范强降雨天气](https://news.cctv.com/2025/05/24/ARTIdphUEu219f3AFVGY10Kf250524.shtml)
+
