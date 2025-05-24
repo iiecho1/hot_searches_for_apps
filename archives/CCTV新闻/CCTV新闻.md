@@ -177,3 +177,5 @@
 
 + [韩国总统选举临近 李在明领先优势大幅减少](https://news.cctv.com/2025/05/24/ARTIh4CJJfJQlfJCmMQTQrCr250524.shtml)
 
++ [苏丹政府谴责美国以所谓使用化学武器为由制裁苏丹](https://news.cctv.com/2025/05/24/ARTIJnFfajVAL7z5rJ4Ee74T250524.shtml)
+

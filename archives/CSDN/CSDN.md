@@ -151,3 +151,11 @@
 
 + [【粉丝福利社】向量数据库：大模型驱动的智能检索与应用](https://blog.csdn.net/aa2528877987/article/details/148177579)
 
++ [探索Dify：开启大语言模型应用开发新时代](https://blog.csdn.net/beautifulmemory/article/details/148147385)
+
++ [华为云Flexus+DeepSeek征文｜Flexus云服务器从零到畅玩大模型的极致输出](https://blog.csdn.net/Dovis5884/article/details/148135650)
+
++ [【Linux】想学 Linux 却无从下手？这篇文章帮你搭建从 0 到 1 的知识框架](https://blog.csdn.net/2302_78391795/article/details/148177687)
+
++ [产品经理技术篇：必知的模型参数&调优](https://blog.csdn.net/weixin_44923674/article/details/148099902)
+
