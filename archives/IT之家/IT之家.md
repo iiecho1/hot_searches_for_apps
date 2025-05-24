@@ -25,3 +25,15 @@
 
 + [苹果官网上架雷雳 5（USB-C）Pro 连接线，1 米长售 499 元](https://m.ithome.com/html/855571.htm)
 
++ [我国首艘弹射型航母“福建舰”正加紧海试，入列后作战模式将更灵活](https://m.ithome.com/html/855636.htm)
+
++ [小米 YU7 车型官方 4K 高清壁纸发布：展示宝石绿 / 钛金属/熔岩橙三色车漆](https://m.ithome.com/html/855678.htm)
+
++ [人民日报公布 AI 彩色修复版《义勇军进行曲》国歌，纪念抗战胜利 80 周年](https://m.ithome.com/html/855703.htm)
+
++ [丰田皇冠问世迎来 70 周年，两款特别定制版车型海外发布](https://m.ithome.com/html/855589.htm)
+
++ [美国打压非本土制造手机：三星、苹果等将被定向加征 25% 关税，恐 6 月底生效](https://m.ithome.com/html/855600.htm)
+
++ [CounterPoint 报告 2025Q1 中国手机出货量：华为同比增 18%、小米增 40%，苹果降 3%](https://m.ithome.com/html/855613.htm)
+

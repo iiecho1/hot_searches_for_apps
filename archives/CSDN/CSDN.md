@@ -135,3 +135,5 @@
 
 + [分布式消息队列kafka详解](https://blog.csdn.net/ljw714/article/details/148176644)
 
++ [鸿蒙 HarmonyOS NEXT 系统 Preference 首选项使用全解析](https://blog.csdn.net/finally_vince/article/details/148139638)
+
