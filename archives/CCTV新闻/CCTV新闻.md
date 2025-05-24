@@ -169,3 +169,5 @@
 
 + [巴基斯坦延长对印度航班关闭领空至6月24日](https://news.cctv.com/2025/05/24/ARTIy4hhSq84h7xw5pbH8Mrv250524.shtml)
 
++ [麦夸里岛以西海域发生6.1级地震 震源深度10千米](https://news.cctv.com/2025/05/24/ARTIEsfOfoj0uFNqp0qXMstl250524.shtml)
+

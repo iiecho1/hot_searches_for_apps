@@ -137,3 +137,11 @@
 
 + [PyTorch性能调优实战：从算子优化到分布式训练全攻略](https://blog.csdn.net/deepever/article/details/148135480)
 
++ [解决MybatisPlus使用Druid1.2.11连接池查询PG数据库报Merge sql error的一种办法](https://blog.csdn.net/yelangkingwuzuhu/article/details/148176839)
+
++ [VSCode推出开源Github Copilot：AI编程新纪元](https://blog.csdn.net/O_____V_____O/article/details/148133621)
+
++ [[Java实战]Spring Boot整合Seata：分布式事务一致性解决方案（三十一）](https://blog.csdn.net/qq_29709589/article/details/148108532)
+
++ [电影网站|基于SSM+vue的电影网站系统(源码+数据库+文档)​](https://blog.csdn.net/m0_66468899/article/details/148150938)
+
