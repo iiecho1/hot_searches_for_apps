@@ -67,3 +67,5 @@
 
 + [博通把 vmware 原来的 index 关闭了, 我搞了个工具获取 Vmware 产品的下载链接](https://www.v2ex.com/t/1133977)
 
++ [[极限二选一] MacBookpro M4 32G+512G 和 MacBookpro M4Pro 24G + 512G，相同价格该怎么选？](https://www.v2ex.com/t/1133975)
+
