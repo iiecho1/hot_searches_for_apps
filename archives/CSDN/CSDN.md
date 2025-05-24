@@ -201,3 +201,9 @@
 
 + [Nginx核心服务](https://blog.csdn.net/2301_81259717/article/details/148121407)
 
++ [【Linux仓库】权限的量子纠缠：用户/组/other如何编织Linux访问控制网？](https://blog.csdn.net/egoist2023/article/details/147959892)
+
++ [Java 大视界 -- 基于 Java 的大数据分布式存储在视频会议系统海量视频数据存储与回放中的应用（263）](https://blog.csdn.net/atgfg/article/details/148149953)
+
++ [自制操作系统day8 （鼠标数据取得、通往32位模式之路、A20GATE、切换到保护模式、控制寄存器cr0-cr4以及cr8、ALIGNB）](https://blog.csdn.net/2402_84235386/article/details/148151325)
+
