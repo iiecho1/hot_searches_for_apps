@@ -137,3 +137,7 @@
 
 + [鸿蒙 HarmonyOS NEXT 系统 Preference 首选项使用全解析](https://blog.csdn.net/finally_vince/article/details/148139638)
 
++ [springboot集成日志配置文件](https://blog.csdn.net/weixin_62912897/article/details/148176219)
+
++ [redis 进行缓存实战-18](https://blog.csdn.net/u011290209/article/details/148177137)
+
