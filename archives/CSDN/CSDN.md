@@ -159,3 +159,7 @@
 
 + [产品经理技术篇：必知的模型参数&调优](https://blog.csdn.net/weixin_44923674/article/details/148099902)
 
++ [计算机操作系统（十二）详细讲解调计算机操作系统调度算法与多处理机调度](https://blog.csdn.net/2402_83322742/article/details/148177372)
+
++ [SQL概述和定义](https://blog.csdn.net/weixin_41957626/article/details/148137060)
+
