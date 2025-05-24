@@ -183,3 +183,5 @@
 
 + [巴基斯坦校车遇袭事件死亡人数升至8人](https://news.cctv.com/2025/05/24/ARTICIbGwJra1QAbtvSk4DxC250524.shtml)
 
++ [数据显示今年赴美国际旅客数量将下降8.7%](https://news.cctv.com/2025/05/24/ARTIzzLfdwIxamTn38BHTeUs250524.shtml)
+

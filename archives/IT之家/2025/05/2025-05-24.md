@@ -63,3 +63,21 @@
 
 + [Epic 喜加三：《师父》《巨兽浩劫》《绝递必达》游戏免费领取](https://m.ithome.com/html/855283.htm)
 
++ [小米 15 周年产品答网友问：15S Pro 相比 15 Pro 影像、屏幕、散热系统等均有升级](https://m.ithome.com/html/855593.htm)
+
++ [UU 跑腿被曝要求高管午休集体跑腿接单，官方回应称情况确实存在](https://m.ithome.com/html/855594.htm)
+
++ [明确网号、网证自愿使用原则，六部门联合公布《国家网络身份认证公共服务管理办法》](https://m.ithome.com/html/855521.htm)
+
++ [UU 跑腿创始人乔松涛回应“要求高管午休时间集体跑腿接单”：我个人也接了 4000 多块钱呢](https://m.ithome.com/html/855632.htm)
+
++ [鸿蒙智行：2025 款问界 M9 上市 64 天大定突破 6 万台，拿下 50 万级销冠](https://m.ithome.com/html/855591.htm)
+
++ [不含国补，比亚迪王朝网智驾版车型限时补贴价 6.38 万元起](https://m.ithome.com/html/855617.htm)
+
++ [华为 MatePad Pro 13.2 英寸 2025 新增 12+256GB 砚黑 SIM 卡版本，国补价 5499 元](https://m.ithome.com/html/855642.htm)
+
++ [京东自营上架港版任天堂 Switch 2 游戏机，《马力欧赛车世界》同捆 4242.9 元（晒单返 437 元京豆）](https://m.ithome.com/html/855576.htm)
+
++ [苹果官网上架雷雳 5（USB-C）Pro 连接线，1 米长售 499 元](https://m.ithome.com/html/855571.htm)
+
