@@ -65,3 +65,23 @@
 
 + [WWDC25 前瞻：招聘信息确认苹果 iOS 19 将重构日历应用](https://m.ithome.com/html/855604.htm)
 
++ [软硬件都实现自主可控，华为鸿蒙电脑搭载麒麟 X90 芯片](https://m.ithome.com/html/855758.htm)
+
++ [小米汽车详解 YU7 闭式双腔空簧：5 挡高度调节，最高离地间隙 222mm](https://m.ithome.com/html/855756.htm)
+
++ [全国 ATM 机仅剩 80 万台，5 年锐减 26.87%](https://m.ithome.com/html/855812.htm)
+
++ [调查显示，70% 要求强制联网的游戏最终难逃一“凉”](https://m.ithome.com/html/855749.htm)
+
++ [蔚来通报：两车在苏州充电站被其他品牌车引燃，无人受伤](https://m.ithome.com/html/855792.htm)
+
++ [“马上有”：小米 15S Pro 手机过上市关键期后将推 Beta 版系统更新](https://m.ithome.com/html/855797.htm)
+
++ [用 Linux“还原”Win11，AnduinOS 创始人公布 1.4/1.5 版本更新计划](https://m.ithome.com/html/855740.htm)
+
++ [小米 YU7 汽车天际屏全景显示演示视频发布，支持语音联动、多屏互动等](https://m.ithome.com/html/855780.htm)
+
++ [长安深蓝 S07 新增 215Plus 深蓝智驾 AD PRO 版，售 12.99 万元起](https://m.ithome.com/html/855708.htm)
+
++ [研究发现近半英国青年希望生活在没有互联网的世界，且支持“数字宵禁”](https://m.ithome.com/html/855751.htm)
+
