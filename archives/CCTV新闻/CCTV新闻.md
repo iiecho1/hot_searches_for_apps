@@ -193,3 +193,13 @@
 
 + [诺沃亚宣誓就任厄瓜多尔总统](https://news.cctv.com/2025/05/25/ARTIfjQ85WrOm9BYkYP2eSvw250525.shtml)
 
++ [以军被曝为减少伤亡 强迫巴勒斯坦平民当“人盾”探路](https://news.cctv.com/2025/05/25/ARTI1W1aHIweydf3FOQyXfI4250525.shtml)
+
++ [白宫裁撤国家安全委员会大量工作人员](https://news.cctv.com/2025/05/25/ARTIPiGsa0jDj81vkmpc7yuQ250525.shtml)
+
++ [英国男童成为门萨俱乐部史上最年轻男性会员](https://news.cctv.com/2025/05/25/ARTImo9aUThAL0HDXxxkCE81250525.shtml)
+
++ [微软封锁电邮事件凸显欧洲数字主权困境](https://news.cctv.com/2025/05/25/ARTIUlpkgzX20baKyE2Zx3IW250525.shtml)
+
++ [俄国防部称过去一夜击落110架乌军无人机](https://news.cctv.com/2025/05/25/ARTIMsRI4bCnhUVCJH8MgVCT250525.shtml)
+
