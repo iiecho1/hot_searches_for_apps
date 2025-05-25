@@ -49,3 +49,5 @@
 
 + [当下往 nas 里拉资源 pt 是最优方案吗](https://www.v2ex.com/t/1134132)
 
++ [数字游民,泰国旅居半年](https://www.v2ex.com/t/1134160)
+

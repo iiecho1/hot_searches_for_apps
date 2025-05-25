@@ -203,3 +203,7 @@
 
 + [俄国防部称过去一夜击落110架乌军无人机](https://news.cctv.com/2025/05/25/ARTIMsRI4bCnhUVCJH8MgVCT250525.shtml)
 
++ [白宫人事震荡：国安委裁人、马斯克暗示淡出政治](https://news.cctv.com/2025/05/25/ARTIV1LhlNcUzsrlM58ZeOkY250525.shtml)
+
++ [退出《巴黎协定》还不够？美政府又计划取消一项限制](https://news.cctv.com/2025/05/25/ARTIJd10ME5pTkxVmWz2I7Gy250525.shtml)
+
