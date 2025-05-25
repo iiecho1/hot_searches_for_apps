@@ -137,3 +137,7 @@
 
 + [牛肉分级识别图像分割系统源码和数据集：改进yolo11-CloAtt](https://blog.csdn.net/weixin_43860634/article/details/148173556)
 
++ [揭秘大语言模型：从零到一的完整训练指南（二）：混合专家模型（MoE）](https://blog.csdn.net/qq_36583400/article/details/148084580)
+
++ [【机器人】复现 Embodied-Reasoner 具身推理 | 具身任务 深度推理模型 多模态场景 长远决策 多轮互动](https://blog.csdn.net/qq_41204464/article/details/148198635)
+

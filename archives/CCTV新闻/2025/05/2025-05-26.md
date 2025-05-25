@@ -169,3 +169,5 @@
 
 + [马耳他总理表示马将承认巴勒斯坦国](https://news.cctv.com/2025/05/26/ARTIz1pBCY1G7sBN0O7vOG74250526.shtml)
 
++ [朝鲜调查驱逐舰下水事故 军需工业副部长李亨先被拘留](https://news.cctv.com/2025/05/26/ARTIAckFLSo9rCDwTjsOVY2G250526.shtml)
+
