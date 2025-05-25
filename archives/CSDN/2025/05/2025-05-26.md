@@ -129,3 +129,5 @@
 
 + [大模型之 Spring AI实战系列（十七）：Spring AI Tools 高级技巧——异步调用、事务控制与错误处理攻略](https://blog.csdn.net/xiaobing259/article/details/148191890)
 
++ [第十天 高精地图与定位（SLAM、RTK技术） 多传感器融合（Kalman滤波、深度学习）](https://blog.csdn.net/dulgao/article/details/148171032)
+
