@@ -141,3 +141,15 @@
 
 + [redis 进行缓存实战-18](https://blog.csdn.net/u011290209/article/details/148177137)
 
++ [python与mysql怎么完成大量的数据交互？](https://blog.csdn.net/Pydatas/article/details/148146197)
+
++ [矩阵短剧系统：如何用1个后台管理100+小程序？技术解析与实战应用](https://blog.csdn.net/2501_91866051/article/details/148133021)
+
++ [深度学习优化器相关问题](https://blog.csdn.net/mistydou/article/details/147987715)
+
++ [人工智能示例之基于规则的专家系统（动物识别）的python完整代码](https://blog.csdn.net/lzm12278828/article/details/148190490)
+
++ [2025电工杯数学建模A题：光伏电站发电功率日前预测问题思路及Matlab参考代码](https://blog.csdn.net/m0_60703264/article/details/148197487)
+
++ [基于阿里云DashScope API构建智能对话指南](https://blog.csdn.net/heian_99/article/details/148146965)
+
