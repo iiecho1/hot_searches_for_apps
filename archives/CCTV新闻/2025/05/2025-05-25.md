@@ -229,3 +229,5 @@
 
 + [乌方确认：与俄千人换俘行动已完成](https://news.cctv.com/2025/05/25/ARTId4TMz1QTeyo39dCRrevo250525.shtml)
 
++ [斐济群岛以南海域发生5.5级地震，震源深度10千米](https://news.cctv.com/2025/05/25/ARTILPVVYIXxgzlcBmkaNzq8250525.shtml)
+
