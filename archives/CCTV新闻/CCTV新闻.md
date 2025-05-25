@@ -161,3 +161,11 @@
 
 + [法国参议院通过打击电话营销法案 将于2026年8月实施](https://news.cctv.com/2025/05/23/ARTIpMGQfI6kAnZ1bomwESdb250523.shtml)
 
++ [是“未来之洲”更是“全球变革引擎” 非盟举办“非洲日”纪念活动](https://news.cctv.com/2025/05/26/ARTInASwWResrfTtSz1RGRPs250526.shtml)
+
++ [荷兰将向乌克兰交付最后一架F-16战斗机 兑现24架承诺](https://news.cctv.com/2025/05/26/ARTInFjY74XVKTg8HXx5QFH1250526.shtml)
+
++ [涉嫌策划用燃烧弹袭击美国驻以色列使馆 一男子在美被捕](https://news.cctv.com/2025/05/26/ARTIUDYQkL3q1J8cIAVLcZFX250526.shtml)
+
++ [马耳他总理表示马将承认巴勒斯坦国](https://news.cctv.com/2025/05/26/ARTIz1pBCY1G7sBN0O7vOG74250526.shtml)
+
