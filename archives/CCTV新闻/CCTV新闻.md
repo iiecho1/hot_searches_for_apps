@@ -217,3 +217,9 @@
 
 + [英媒：英国前首相鲍里斯·约翰逊再添一女 已是九个孩子的父亲](https://news.cctv.com/2025/05/25/ARTIYgyPX932d1lIWZJTa8Yw250525.shtml)
 
++ [恶劣天气袭击巴基斯坦 造成至少19人死亡](https://news.cctv.com/2025/05/25/ARTI9BaTquttFAgzOh2Qgcj9250525.shtml)
+
++ [再交换303人 俄乌本轮千人换俘将结束](https://news.cctv.com/2025/05/25/ARTIYRHjEfqZQZqkgonUjGsY250525.shtml)
+
++ [俄国防部：军队正在沿国境建立安全区](https://news.cctv.com/2025/05/25/ARTIX6y453mGIaSyxy5SupYW250525.shtml)
+
