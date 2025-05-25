@@ -101,3 +101,13 @@
 
 + [k8s网络架构](https://blog.csdn.net/ZhanBiaoChina/article/details/148124110)
 
++ [【Trea】Trea国内版｜国际版｜海外版下载｜Mac版｜Windows版|Linux下载配置教程](https://blog.csdn.net/qq_44866828/article/details/148149597)
+
++ [Vivado HLS优化指令使用方法总结](https://blog.csdn.net/ccsss22/article/details/148151048)
+
++ [2024 CKA题库+详尽解析| 1. 权限控制RBAC](https://blog.csdn.net/qq_30435355/article/details/148171363)
+
++ [【爬虫学习】Python数据采集进阶：从请求优化到解析技术实战](https://blog.csdn.net/deepever/article/details/148210678)
+
++ [canal实现mysql数据同步](https://blog.csdn.net/k0307x1990y/article/details/148170926)
+

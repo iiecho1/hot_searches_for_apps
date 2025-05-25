@@ -25,3 +25,23 @@
 
 + [研究发现近半英国青年希望生活在没有互联网的世界，且支持“数字宵禁”](https://m.ithome.com/html/855751.htm)
 
++ [不含国补，比亚迪王朝网智驾版车型限时补贴价 6.38 万元起](https://m.ithome.com/html/855617.htm)
+
++ [UU 跑腿创始人乔松涛回应“要求高管午休时间集体跑腿接单”：我个人也接了 4000 多块钱呢](https://m.ithome.com/html/855632.htm)
+
++ [我国首艘弹射型航母“福建舰”正加紧海试，入列后作战模式将更灵活](https://m.ithome.com/html/855636.htm)
+
++ [小米 YU7 车型官方 4K 高清壁纸发布：展示宝石绿 / 钛金属/熔岩橙三色车漆](https://m.ithome.com/html/855678.htm)
+
++ [华为 MatePad Pro 13.2 英寸 2025 新增 12+256GB 砚黑 SIM 卡版本，国补价 5499 元](https://m.ithome.com/html/855642.htm)
+
++ [人民日报公布 AI 彩色修复版《义勇军进行曲》国歌，纪念抗战胜利 80 周年](https://m.ithome.com/html/855703.htm)
+
++ [小米推出米家折叠偏光太阳镜套镜：近视专用，售价 199 元](https://m.ithome.com/html/855641.htm)
+
++ [CounterPoint 报告 2025Q1 中国手机出货量：华为同比增 18%、小米增 40%，苹果降 3%](https://m.ithome.com/html/855613.htm)
+
++ [美国打压非本土制造手机：三星、苹果等将被定向加征 25% 关税，恐 6 月底生效](https://m.ithome.com/html/855600.htm)
+
++ [全球限量 999 辆：阿斯顿・马丁 Valhalla 超跑首秀，1064 马力、零百加速 2.5 秒](https://m.ithome.com/html/855661.htm)
+
