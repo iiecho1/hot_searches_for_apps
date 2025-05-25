@@ -85,3 +85,15 @@
 
 + [研究发现近半英国青年希望生活在没有互联网的世界，且支持“数字宵禁”](https://m.ithome.com/html/855751.htm)
 
++ [小米 YU7 熔岩橙实车首次曝光，配全新半封闭式轮辋](https://m.ithome.com/html/855859.htm)
+
++ [李书福：几乎所有新势力都来吉利挖人，没有吉利的人才他们造不出车](https://m.ithome.com/html/855871.htm)
+
++ [网易 MuMu 模拟器上线 Windows ARM 版，号称全球首个适配 ARM64 平台的安卓模拟器](https://m.ithome.com/html/855856.htm)
+
++ [开鸿 Bot 系列产品（开发者版）发布：一站式开发平台，6999/7999 元](https://m.ithome.com/html/855757.htm)
+
++ [消息称微软将砍掉 Xbox 游戏机硬件，目前在开发中的主机为“最后一代”](https://m.ithome.com/html/855870.htm)
+
++ [零跑汽车端午降价：C16 增程 200 智享版 11.18 万元，C11 增程 200 智享版 10.38 万元](https://m.ithome.com/html/855775.htm)
+

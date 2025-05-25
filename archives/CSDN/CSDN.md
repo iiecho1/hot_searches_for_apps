@@ -209,3 +209,13 @@
 
 + [ARM笔记-ARM处理器及系统结构](https://blog.csdn.net/xianshuiyihui/article/details/148193725)
 
++ [Python实现时间序列动量策略：波动率标准化让量化交易收益更平稳](https://blog.csdn.net/m0_46510245/article/details/148202143)
+
++ [【AI智能体】Spring AI Tool 从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/147963334)
+
++ [MyBatis实战指南（二）如何实现小鸟图标与导入Teacher数据库表实战](https://blog.csdn.net/2402_83322742/article/details/147982026)
+
++ [Linux（7）——进程（概念篇）](https://blog.csdn.net/2301_80065652/article/details/148190943)
+
++ [BLIP3-o：一系列完全开源的统一多模态模型——架构、训练与数据集](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/148190962)
+

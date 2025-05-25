@@ -231,3 +231,7 @@
 
 + [斐济群岛以南海域发生5.5级地震，震源深度10千米](https://news.cctv.com/2025/05/25/ARTILPVVYIXxgzlcBmkaNzq8250525.shtml)
 
++ [伊朗外长：美伊下一轮谈判时间地点尚未确定](https://news.cctv.com/2025/05/25/ARTIgviSnP7CXZI79An4MBno250525.shtml)
+
++ [胡塞武装称使用高超音速导弹打击以色列本-古里安机场](https://news.cctv.com/2025/05/25/ARTIAPmgxoAQ3lUpSTtHU2Hp250525.shtml)
+
