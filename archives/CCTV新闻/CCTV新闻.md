@@ -171,3 +171,15 @@
 
 + [又拘留三名责任人 朝鲜公布驱逐舰下水事故调查最新进展](https://news.cctv.com/2025/05/25/ARTIc97jAaUbbAEmJ0GAbQdl250525.shtml)
 
++ [美欧关税战若升级 德国或面临2500亿欧元损失](https://news.cctv.com/2025/05/25/ARTIcZlZHtsgfGVaGbxVTmny250525.shtml)
+
++ [是否用了翻译？俄乌突然爆发激烈争执](https://news.cctv.com/2025/05/25/ARTICwIkZ2jjuhSQHMfoF6ud250525.shtml)
+
++ [“布隆迪迈向光明未来的重要一步”（新时代中非合作）](https://news.cctv.com/2025/05/25/ARTI6XYXvSciYdyvPsb1lWqx250525.shtml)
+
++ [专访｜哥伦比亚加入共建“一带一路”倡议为哥中战略伙伴关系注入新动力——访哥伦比亚对外大学教授莉娜·卢纳](https://news.cctv.com/2025/05/25/ARTIeA4qa6y8yChq766hznIw250525.shtml)
+
++ [经济热点问答丨美方威胁对欧盟征收高关税意欲何为？](https://news.cctv.com/2025/05/25/ARTIgpF782ld6tXGtJKy2wrS250525.shtml)
+
++ [一毛不能少 特朗普拒绝削减万亿美元军费预算](https://news.cctv.com/2025/05/25/ARTIosAyWSiRtI0L7tmhoIKl250525.shtml)
+

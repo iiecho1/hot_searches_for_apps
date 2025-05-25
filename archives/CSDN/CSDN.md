@@ -153,3 +153,9 @@
 
 + [基于阿里云DashScope API构建智能对话指南](https://blog.csdn.net/heian_99/article/details/148146965)
 
++ [实战设计模式之访问者模式](https://blog.csdn.net/hope_wisdom/article/details/148200061)
+
++ [李宏毅《深度学习》：Self-attention 自注意力机制](https://blog.csdn.net/weixin_62528784/article/details/148177716)
+
++ [使用Rancher在CentOS 环境上部署和管理多Kubernetes集群](https://blog.csdn.net/2401_86478612/article/details/148177894)
+
