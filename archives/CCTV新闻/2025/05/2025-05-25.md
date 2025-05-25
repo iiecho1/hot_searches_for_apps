@@ -207,3 +207,13 @@
 
 + [退出《巴黎协定》还不够？美政府又计划取消一项限制](https://news.cctv.com/2025/05/25/ARTIJd10ME5pTkxVmWz2I7Gy250525.shtml)
 
++ [李在明：若当选总统，绝不针对特定个人进行政治报复](https://news.cctv.com/2025/05/25/ARTIBysYaKC8RYYWEDUJU8dq250525.shtml)
+
++ [专访丨越来越多英国企业加快“向东看”——访英国商会贸易政策负责人贝恩](https://news.cctv.com/2025/05/25/ARTINgK4sve4M9b36nBEuLdy250525.shtml)
+
++ [专访丨“中国不仅是波黑的政治伙伴，更是真挚的朋友”——访波黑议会代表院副主席马林科·查瓦拉](https://news.cctv.com/2025/05/25/ARTI6gsGmNAR7W8c0RM6831D250525.shtml)
+
++ [佩斯科夫：也门领导人将访俄并与普京会晤](https://news.cctv.com/2025/05/25/ARTIURCURHm0AxuJCCst7jfz250525.shtml)
+
++ [英媒：英国前首相鲍里斯·约翰逊再添一女 已是九个孩子的父亲](https://news.cctv.com/2025/05/25/ARTIYgyPX932d1lIWZJTa8Yw250525.shtml)
+
