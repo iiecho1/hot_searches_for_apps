@@ -161,3 +161,15 @@
 
 + [【Trea】Trea国内版｜国际版｜海外版下载｜Mac版｜Windows版|Linux下载配置教程](https://blog.csdn.net/qq_44866828/article/details/148149597)
 
++ [Maven Profile高级策略与冲突解决](https://blog.csdn.net/lilinhai548/article/details/148199887)
+
++ [深度剖析并发I/O模型select、poll、epoll与IOCP核心机制](https://blog.csdn.net/qq_44846784/article/details/148177299)
+
++ [传统医疗系统文档集中标准化存储和AI智能化更新路径分析](https://blog.csdn.net/kkiron/article/details/148195668)
+
++ [​​Java UDP套接字编程：高效实时通信的实战应用与核心类解析​](https://blog.csdn.net/2302_81247414/article/details/148149542)
+
++ [canal实现mysql数据同步](https://blog.csdn.net/k0307x1990y/article/details/148170926)
+
++ [Java 连接并操作 Redis 万字详解：从 Jedis 直连到 RedisTemplate 封装，5 种方式全解析](https://blog.csdn.net/2302_79527141/article/details/148191894)
+

@@ -187,3 +187,9 @@
 
 + [美国关税大棒下 欧洲多行业恐陷生存危机](https://news.cctv.com/2025/05/25/ARTI9JHBgrQXAkFoL1dWj7PX250525.shtml)
 
++ [一艘货轮在印度西南海域倾斜 多个集装箱落海](https://news.cctv.com/2025/05/25/ARTIQd3QfoLH3NnZqpEBRUG0250525.shtml)
+
++ [被国际旅客“抛弃”？今年赴美国际旅客数量预计将下降8.7%](https://news.cctv.com/2025/05/25/ARTIWUG9nZszhtVnsiv3IOVE250525.shtml)
+
++ [诺沃亚宣誓就任厄瓜多尔总统](https://news.cctv.com/2025/05/25/ARTIfjQ85WrOm9BYkYP2eSvw250525.shtml)
+
