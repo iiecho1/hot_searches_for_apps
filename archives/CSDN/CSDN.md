@@ -173,3 +173,11 @@
 
 + [Java 连接并操作 Redis 万字详解：从 Jedis 直连到 RedisTemplate 封装，5 种方式全解析](https://blog.csdn.net/2302_79527141/article/details/148191894)
 
++ [基于python的机器学习（九）—— 评估算法（二）](https://blog.csdn.net/qq_74375828/article/details/148194668)
+
++ [破解C/C++内存分配与管理：内存对象模型硬核剖析](https://blog.csdn.net/Dovis5884/article/details/148200757)
+
++ [【微服务】SpringBoot 对接飞书审批流程使用详解](https://blog.csdn.net/congge_study/article/details/148200811)
+
++ [Mac的显卡架构种类](https://blog.csdn.net/2401_84168288/article/details/148194547)
+
