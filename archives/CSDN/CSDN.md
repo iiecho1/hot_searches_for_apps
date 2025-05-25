@@ -111,3 +111,17 @@
 
 + [canal实现mysql数据同步](https://blog.csdn.net/k0307x1990y/article/details/148170926)
 
++ [Java 大视界 -- Java 大数据在智慧农业农产品溯源区块链平台中的数据管理与安全保障（264）](https://blog.csdn.net/atgfg/article/details/148151486)
+
++ [李宏毅《深度学习》：Self-attention 自注意力机制](https://blog.csdn.net/weixin_62528784/article/details/148177716)
+
++ [基于 Spring Boot + Vue 的墙绘产品展示交易平台设计与实现【含源码+文档】](https://blog.csdn.net/m0_58147884/article/details/148175807)
+
++ [Spring Boot微服务架构（一）：如何拆分？如何将CRM系统拆解为多个微服务构建？](https://blog.csdn.net/ChailangCompany/article/details/148154374)
+
++ [redis 进行缓存实战-18](https://blog.csdn.net/u011290209/article/details/148177137)
+
++ [基于微信小程序的旅游攻略分享与互动平台设计与实现](https://blog.csdn.net/m0_58847451/article/details/148167448)
+
++ [30个性能优化方案](https://blog.csdn.net/weixin_44984196/article/details/148155893)
+

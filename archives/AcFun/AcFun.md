@@ -67,3 +67,7 @@
 
 + [【弱音/MMD】ITZY - WANNABE](https://m.acfun.cn/v/?ac=47310450)
 
++ [霓虹灯下的心动Lolita](https://m.acfun.cn/v/?ac=47314020)
+
++ [珠玉清唱挑战我来啦~](https://m.acfun.cn/v/?ac=47312209)
+
