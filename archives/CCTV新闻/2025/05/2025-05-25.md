@@ -223,3 +223,9 @@
 
 + [俄国防部：军队正在沿国境建立安全区](https://news.cctv.com/2025/05/25/ARTIX6y453mGIaSyxy5SupYW250525.shtml)
 
++ [俄军证实正在执行建立安全区任务](https://news.cctv.com/2025/05/25/ARTI9tJPAqQ1TYLPJkzwvWLF250525.shtml)
+
++ [国际原子能机构完成驻扎波罗热核电站专家组轮换](https://news.cctv.com/2025/05/25/ARTI7gpGDR6K6z8rt1hAAssn250525.shtml)
+
++ [乌方确认：与俄千人换俘行动已完成](https://news.cctv.com/2025/05/25/ARTId4TMz1QTeyo39dCRrevo250525.shtml)
+

@@ -191,3 +191,9 @@
 
 + [安卓无障碍脚本开发全教程](https://blog.csdn.net/sixpp/article/details/148196614)
 
++ [道德经总结](https://blog.csdn.net/2401_82965090/article/details/148196433)
+
++ [Magic Resume：开源免费的AI简历制作应用（使用指南、场景分析）](https://blog.csdn.net/qq_51646682/article/details/148202139)
+
++ [Spring boot和SSM项目对比](https://blog.csdn.net/A18266678650/article/details/148195044)
+

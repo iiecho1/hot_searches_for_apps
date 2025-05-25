@@ -23,3 +23,23 @@
 
 + [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js)
 
++ [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
+
++ [ziglang/zig](https://github.com/ziglang/zig)
+
++ [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+
++ [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+
++ [anthropics/courses](https://github.com/anthropics/courses)
+
++ [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
++ [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [reactos/reactos](https://github.com/reactos/reactos)
+
