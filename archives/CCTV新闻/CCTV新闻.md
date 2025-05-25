@@ -183,3 +183,7 @@
 
 + [一毛不能少 特朗普拒绝削减万亿美元军费预算](https://news.cctv.com/2025/05/25/ARTIosAyWSiRtI0L7tmhoIKl250525.shtml)
 
++ [中华传统文化走向海外 多国举行赛龙舟活动](https://news.cctv.com/2025/05/25/ARTIXsxaCBAWsedW03fYt03L250525.shtml)
+
++ [美国关税大棒下 欧洲多行业恐陷生存危机](https://news.cctv.com/2025/05/25/ARTI9JHBgrQXAkFoL1dWj7PX250525.shtml)
+

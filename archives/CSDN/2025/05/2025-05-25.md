@@ -159,3 +159,5 @@
 
 + [使用Rancher在CentOS 环境上部署和管理多Kubernetes集群](https://blog.csdn.net/2401_86478612/article/details/148177894)
 
++ [【Trea】Trea国内版｜国际版｜海外版下载｜Mac版｜Windows版|Linux下载配置教程](https://blog.csdn.net/qq_44866828/article/details/148149597)
+
