@@ -207,3 +207,9 @@
 
 + [消除“买外国媳妇”错误思想 我驻孟加拉国使馆提醒：遵守涉外婚姻法律法规](https://news.cctv.com/2025/05/26/ARTIi6Lbaej6fidjFJSzIkla250526.shtml)
 
++ [初步结果显示委内瑞拉执政党在议会选举中获胜](https://news.cctv.com/2025/05/26/ARTIQuXhP1KbxnRYj87nD4kh250526.shtml)
+
++ [拉美观察丨美国放松控枪政策 非法枪支大量流入加勒比地区](https://news.cctv.com/2025/05/26/ARTIKvANRSe0ZwABwvi3pAEF250526.shtml)
+
++ [韩国前总统尹锡悦出席大选前最后一次涉嫌发动内乱案审判](https://news.cctv.com/2025/05/26/ARTISuFp5MMUkF6aQrywjuBR250526.shtml)
+
