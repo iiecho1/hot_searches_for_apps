@@ -241,3 +241,7 @@
 
 + [特朗普再威胁哈佛大学 考虑撤款30亿美元](https://news.cctv.com/2025/05/26/ARTI8JxHRkSeHSeQOcP8pYF0250526.shtml)
 
++ [哈马斯已同意美特使提出的加沙停火方案](https://news.cctv.com/2025/05/26/ARTIPnVAyPfqeeEsL8VjSTnY250526.shtml)
+
++ [多名驻日美军涉嫌违法被捕 日方要求整顿军纪](https://news.cctv.com/2025/05/26/ARTIfBwzErxUyi34n5dRwnSK250526.shtml)
+
