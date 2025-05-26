@@ -213,3 +213,9 @@
 
 + [韩国前总统尹锡悦出席大选前最后一次涉嫌发动内乱案审判](https://news.cctv.com/2025/05/26/ARTISuFp5MMUkF6aQrywjuBR250526.shtml)
 
++ [中国方案为全球发展增添动力（国际论坛·读懂中国·读懂中国式现代化）](https://news.cctv.com/2025/05/26/ARTI7klIu6CsfCf49lViiiZX250526.shtml)
+
++ [全球瞭望丨老挝媒体：美关税壁垒或重创全球经济](https://news.cctv.com/2025/05/26/ARTI1QuIE2HG4nMoqlYz7cmY250526.shtml)
+
++ [巴基斯坦校车遇袭事件死亡人数升至10人](https://news.cctv.com/2025/05/26/ARTIzxYQNj1TvS1ZRBsD7BI1250526.shtml)
+
