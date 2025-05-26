@@ -197,3 +197,7 @@
 
 + [MQTT-SpringBoot整合](https://blog.csdn.net/u012516524/article/details/148213629)
 
++ [多模态RAG实战指南：完整Python代码实现AI同时理解图片、表格和文本](https://blog.csdn.net/m0_46510245/article/details/148220230)
+
++ [【SpringBoot】从零开始全面解析Spring Ioc&DI (二)](https://blog.csdn.net/2302_81886858/article/details/148026181)
+
