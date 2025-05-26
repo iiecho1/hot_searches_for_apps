@@ -31,3 +31,25 @@
 
 + [reactos/reactos](https://github.com/reactos/reactos)
 
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
++ [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+
++ [ossu/computer-science](https://github.com/ossu/computer-science)
+
++ [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [uutils/coreutils](https://github.com/uutils/coreutils)
+
++ [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+
++ [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
+
++ [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash)
+
++ [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+
++ [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+

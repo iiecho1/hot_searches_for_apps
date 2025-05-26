@@ -233,3 +233,7 @@
 
 + [乘客空中欲开舱门 日本飞往美国航班被迫改道](https://news.cctv.com/2025/05/26/ARTIz3LV82dzgvYydOUuCUbh250526.shtml)
 
++ [中国-东盟自贸区3.0版谈判完成 印尼专家：将为区域内各国发展带来福祉](https://news.cctv.com/2025/05/26/ARTIwy3UQl5W9twCFxyzGmU0250526.shtml)
+
++ [中国共产党同周边国家政党对话会在北京举行：放大区域声音 加强全球南方发展合作](https://news.cctv.com/2025/05/26/ARTIPbFkGA7aFtPtHHGuDt6N250526.shtml)
+
