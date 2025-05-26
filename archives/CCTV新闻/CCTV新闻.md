@@ -175,3 +175,19 @@
 
 + [美国教育界人士：受到调查威胁的不止哈佛](https://news.cctv.com/2025/05/26/ARTIO38vF4ped6XV3epMxAGV250526.shtml)
 
++ [迪迩秀｜关税战阴影下 欧洲企业拥抱中国](https://news.cctv.com/2025/05/26/ARTIFdXljUOT8ul1UR1W0Xov250526.shtml)
+
++ [特朗普要求哈佛大学提交所有国际学生名单](https://news.cctv.com/2025/05/26/ARTIjor4Dr7L2OWJDnkLWfM2250526.shtml)
+
++ [第46届东盟峰会在吉隆坡会议中心开幕](https://news.cctv.com/2025/05/26/ARTIKEy3LDxLhONkT2jeeQMq250526.shtml)
+
++ [弗洛伊德遭跪压身亡五周年 家人律师施压政府推进警务改革](https://news.cctv.com/2025/05/26/ARTI5ZsPTpnvHUKzJW2z8jxr250526.shtml)
+
++ [特朗普：在伊朗问题上取得了实质性进展](https://news.cctv.com/2025/05/26/ARTINmfQATKWObHEgIhEYcfr250526.shtml)
+
++ [特朗普再提万亿美元军费预算 挤压了谁？满足了谁？](https://news.cctv.com/2025/05/26/ARTIDfhWAxiTZg0nhhhL8KWo250526.shtml)
+
++ [以色列媒体：以军计划两月内控制加沙75%地区](https://news.cctv.com/2025/05/26/ARTIC8kt9CiaNvQxTXOj6B9r250526.shtml)
+
++ [美国与欧盟的关税谈判期限延长至7月9日](https://news.cctv.com/2025/05/26/ARTI6niApK48DYB2eUwd51nE250526.shtml)
+

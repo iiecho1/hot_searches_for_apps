@@ -23,3 +23,13 @@
 
 + [请教下 Dell U2725QE 接 Mac 不出 HDR 选项是啥情况](https://www.v2ex.com/t/1134144)
 
++ [观安徽路边摊提拉米苏绝命毒师致 200 人窜稀有感](https://www.v2ex.com/t/1134267)
+
++ [手持 iPhone13，买 16p256g 还是等 17pro](https://www.v2ex.com/t/1134154)
+
++ [剃须刀有没有推荐的呀，性价比高的](https://www.v2ex.com/t/1134270)
+
++ [地狱开局怎么破？](https://www.v2ex.com/t/1134271)
+
++ [张一鸣想干啥？最近抖音为什么都故意给我推很多那方面作品，这风向什么意思啊？](https://www.v2ex.com/t/1134242)
+

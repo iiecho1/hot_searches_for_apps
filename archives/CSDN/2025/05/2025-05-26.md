@@ -145,3 +145,17 @@
 
 + [【计算机网络】基于TCP进行socket编程——实现客户端到服务端远程命令行操作](https://blog.csdn.net/GGDxianv/article/details/148205195)
 
++ [HTML5实现好看的个人主页网页源码：多平台兼容(附源码)](https://blog.csdn.net/weixin_43151418/article/details/148207679)
+
++ [ChatGPT 如何工作——提示工程、对话记忆与上下文管理解析](https://blog.csdn.net/weixin_53269650/article/details/148139106)
+
++ [Java 大视界 -- Java 大数据在智能医疗远程康复监测与个性化康复方案制定中的应用（265）](https://blog.csdn.net/atgfg/article/details/148177375)
+
++ [PyTorch实战——生成对抗网络数值数据生成](https://blog.csdn.net/LOVEmy134611/article/details/146368401)
+
++ [远控安全进阶之战：TeamViewer/ToDesk/向日葵设备安全策略对比](https://blog.csdn.net/Morse_Chen/article/details/148176728)
+
++ [在 Docker 中启动 Jupyter Notebook](https://blog.csdn.net/weixin_51612528/article/details/148011333)
+
++ [Spring 框架的JDBC 模板技术](https://blog.csdn.net/2301_81535770/article/details/148075545)
+
