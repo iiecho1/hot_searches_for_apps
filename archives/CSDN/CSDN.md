@@ -129,3 +129,5 @@
 
 + [【硬件测试】基于FPGA的BPSK+卷积编码Viterbi译码系统开发,包含帧同步,信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/148207458)
 
++ [华为云Flexus+DeepSeek征文 | Dify-LLM平台一键部署教程及问题解决指南](https://blog.csdn.net/IRpickstars/article/details/148235910)
+
