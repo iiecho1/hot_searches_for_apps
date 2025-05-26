@@ -25,3 +25,23 @@
 
 + [基于开源鸿蒙的 KaihongOS 桌面版未来将支持 X86 架构设备运行](https://m.ithome.com/html/855986.htm)
 
++ [小米 YU7 熔岩橙实车首次曝光，配全新半封闭式轮辋](https://m.ithome.com/html/855859.htm)
+
++ [李书福：几乎所有新势力都来吉利挖人，没有吉利的人才他们造不出车](https://m.ithome.com/html/855871.htm)
+
++ [全国 ATM 机仅剩 80 万台，5 年锐减 26.87%](https://m.ithome.com/html/855812.htm)
+
++ [网易 MuMu 模拟器上线 Windows ARM 版，号称全球首个适配 ARM64 平台的安卓模拟器](https://m.ithome.com/html/855856.htm)
+
++ [古尔曼：iOS 19、macOS 16 等苹果全平台操作系统将在 WWDC25 迎来设计革新](https://m.ithome.com/html/855880.htm)
+
++ [2025 款蔚来 ET5 / ET5T 车型正式上市，整车购买 29.8 万元起](https://m.ithome.com/html/855881.htm)
+
++ [“马上有”：小米 15S Pro 手机过上市关键期后将推 Beta 版系统更新](https://m.ithome.com/html/855797.htm)
+
++ [消息称微软将砍掉 Xbox 游戏机硬件，目前在开发中的主机为“最后一代”](https://m.ithome.com/html/855870.htm)
+
++ [到手低至 392.16 元，华为 MateView SE 标准版 27 英寸 1080P 100Hz 显示器迎优惠](https://m.ithome.com/html/855894.htm)
+
++ [全球首个人形机器人格斗赛开赛，宇树 G1 擂台激烈对打](https://m.ithome.com/html/855895.htm)
+
