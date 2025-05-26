@@ -165,3 +165,5 @@
 
 + [特朗普威胁进一步削减哈佛大学30亿美元拨款](https://news.cctv.com/2025/05/27/ARTIfbsOA3sYMIR7IO3CU8dr250527.shtml)
 
++ [英国利物浦汽车冲撞球迷致27人受伤送医](https://news.cctv.com/2025/05/27/ARTIoGdIxUsG62WaP3iG8Ac5250527.shtml)
+
