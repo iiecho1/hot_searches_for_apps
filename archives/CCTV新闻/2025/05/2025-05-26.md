@@ -219,3 +219,5 @@
 
 + [巴基斯坦校车遇袭事件死亡人数升至10人](https://news.cctv.com/2025/05/26/ARTIzxYQNj1TvS1ZRBsD7BI1250526.shtml)
 
++ [发布“朋友在球场被鹅咬”照片 特朗普：我一直说高尔夫球是危险运动](https://news.cctv.com/2025/05/26/ARTIyXG08IZFwMe2MB5oZQZs250526.shtml)
+
