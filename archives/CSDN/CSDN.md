@@ -127,3 +127,5 @@
 
 + [2025第三届黄河流域网络安全技能挑战赛--Crypto--WriteUp](https://blog.csdn.net/2301_81161051/article/details/148211359)
 
++ [【硬件测试】基于FPGA的BPSK+卷积编码Viterbi译码系统开发,包含帧同步,信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/148207458)
+
