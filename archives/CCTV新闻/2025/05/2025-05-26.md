@@ -191,3 +191,5 @@
 
 + [美国与欧盟的关税谈判期限延长至7月9日](https://news.cctv.com/2025/05/26/ARTI6niApK48DYB2eUwd51nE250526.shtml)
 
++ [不再竞标 价格更低 日本公布新版政府储备米投放方案](https://news.cctv.com/2025/05/26/ARTIhaxBK2yNz5oSLN7ZYmIC250526.shtml)
+
