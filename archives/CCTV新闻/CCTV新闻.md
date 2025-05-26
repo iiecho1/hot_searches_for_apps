@@ -221,3 +221,15 @@
 
 + [发布“朋友在球场被鹅咬”照片 特朗普：我一直说高尔夫球是危险运动](https://news.cctv.com/2025/05/26/ARTIyXG08IZFwMe2MB5oZQZs250526.shtml)
 
++ [关税让一切变得更糟——多项民调显示美关税政策不得民心](https://news.cctv.com/2025/05/26/ARTIWpG7jPtRMpXkIZ6VPgL3250526.shtml)
+
++ [“一扇开放的大门”——中国—中东欧国家企业携手促发展](https://news.cctv.com/2025/05/26/ARTIdJJ2kcWHqvAaWmEqbDqB250526.shtml)
+
++ [鲍威尔为受特朗普攻击的美联储和美国大学辩护](https://news.cctv.com/2025/05/26/ARTIVybuhvOlRRqxHt7oKNxx250526.shtml)
+
++ [法国农业、出租车行业举行游行抗议活动 多地交通受阻](https://news.cctv.com/2025/05/26/ARTIWawn8EpQoCWkQ9vzoKOP250526.shtml)
+
++ [美国石油产量可能见顶 英媒：行业高管警告美国“页岩繁荣”将结束](https://news.cctv.com/2025/05/26/ARTIUiL1UtrT8NoOrf2Ulk2P250526.shtml)
+
++ [乘客空中欲开舱门 日本飞往美国航班被迫改道](https://news.cctv.com/2025/05/26/ARTIz3LV82dzgvYydOUuCUbh250526.shtml)
+

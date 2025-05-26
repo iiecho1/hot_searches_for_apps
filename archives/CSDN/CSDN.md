@@ -185,3 +185,13 @@
 
 + [用HTML5实现实时ASCII艺术摄像头](https://blog.csdn.net/2301_79428107/article/details/148215084)
 
++ [基于AI自动生成测试用例](https://blog.csdn.net/frxnance/article/details/148214030)
+
++ [使用CentOS部署本地DeekSeek](https://blog.csdn.net/2301_76272092/article/details/148205974)
+
++ [二、ZooKeeper 集群部署搭建](https://blog.csdn.net/2401_83830408/article/details/148193006)
+
++ [前端vue3实现图片懒加载](https://blog.csdn.net/2302_76909185/article/details/148213149)
+
++ [嵌入式硬件---施密特触发器&单稳态触发器&多谐振荡器](https://blog.csdn.net/2301_79556402/article/details/148215489)
+
