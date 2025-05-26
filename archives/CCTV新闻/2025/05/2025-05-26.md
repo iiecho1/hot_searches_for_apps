@@ -193,3 +193,17 @@
 
 + [不再竞标 价格更低 日本公布新版政府储备米投放方案](https://news.cctv.com/2025/05/26/ARTIhaxBK2yNz5oSLN7ZYmIC250526.shtml)
 
++ [特朗普：美国钢铁仍将由美国控制](https://news.cctv.com/2025/05/26/ARTIbcKMTJlrZpTJ4JN8dwRz250526.shtml)
+
++ [欧盟：面对美方勒索 欧盟不会退缩](https://news.cctv.com/2025/05/26/ARTIx0Ao5UjkxCyxBO8HjVDe250526.shtml)
+
++ [大阪世博会中国馆举行中国电影日活动](https://photo.cctv.com/2025/05/26/PHOAOx5b2Z5vuYqPCw9rnZRZ250526.shtml)
+
++ [加沙地带的临时课堂](https://photo.cctv.com/2025/05/26/PHOAfbDS7rnRauqhfuckhya8250526.shtml)
+
++ [特朗普猛批俄乌两国总统](https://news.cctv.com/2025/05/26/ARTI5nERfsGsLxMLjaxVs0PO250526.shtml)
+
++ [李在明表示将推进恢复朝韩军事热线](https://news.cctv.com/2025/05/26/ARTIEphNZ4sAcy7hh4EtyV2E250526.shtml)
+
++ [消除“买外国媳妇”错误思想 我驻孟加拉国使馆提醒：遵守涉外婚姻法律法规](https://news.cctv.com/2025/05/26/ARTIi6Lbaej6fidjFJSzIkla250526.shtml)
+

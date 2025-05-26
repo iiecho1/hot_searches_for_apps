@@ -159,3 +159,7 @@
 
 + [Spring 框架的JDBC 模板技术](https://blog.csdn.net/2301_81535770/article/details/148075545)
 
++ [Jenkins+Docker+K8S自动化部署全攻略](https://blog.csdn.net/2506_92055592/article/details/148178530)
+
++ [LabVIEW累加器标签通道](https://blog.csdn.net/bjcyck/article/details/148217966)
+

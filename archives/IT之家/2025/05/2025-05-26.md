@@ -61,3 +61,5 @@
 
 + [开鸿 Bot 系列产品（开发者版）发布：一站式开发平台，6999/7999 元](https://m.ithome.com/html/855757.htm)
 
++ [到手低至 392.16 元，华为 MateView SE 标准版 27 英寸 1080P 100Hz 显示器迎优惠](https://m.ithome.com/html/855894.htm)
+
