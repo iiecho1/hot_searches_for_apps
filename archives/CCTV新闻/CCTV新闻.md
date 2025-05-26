@@ -245,3 +245,5 @@
 
 + [多名驻日美军涉嫌违法被捕 日方要求整顿军纪](https://news.cctv.com/2025/05/26/ARTIfBwzErxUyi34n5dRwnSK250526.shtml)
 
++ [德国总理：西方国家已取消援助乌克兰武器的射程限制](https://news.cctv.com/2025/05/26/ARTIgKQbv7OgVdXpu9z5lIhb250526.shtml)
+
