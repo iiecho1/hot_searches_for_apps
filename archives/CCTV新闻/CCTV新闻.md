@@ -161,3 +161,7 @@
 
 + [又拘留三名责任人 朝鲜公布驱逐舰下水事故调查最新进展](https://news.cctv.com/2025/05/25/ARTIc97jAaUbbAEmJ0GAbQdl250525.shtml)
 
++ [韩国本届大选旅外公民投票率达79.5% 创历史新高](https://news.cctv.com/2025/05/27/ARTIFOqjNOglz0rrIruxDPHb250527.shtml)
+
++ [特朗普威胁进一步削减哈佛大学30亿美元拨款](https://news.cctv.com/2025/05/27/ARTIfbsOA3sYMIR7IO3CU8dr250527.shtml)
+

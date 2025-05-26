@@ -131,3 +131,5 @@
 
 + [华为云Flexus+DeepSeek征文 | Dify-LLM平台一键部署教程及问题解决指南](https://blog.csdn.net/IRpickstars/article/details/148235910)
 
++ [GitHub 趋势日报 (2025年05月23日)](https://blog.csdn.net/ShrCheng/article/details/148185854)
+

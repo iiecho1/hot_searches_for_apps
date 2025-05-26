@@ -17,3 +17,5 @@
 
 + [XDM，被裁员了~ 今天最后一天](https://www.v2ex.com/t/1134336)
 
++ [穷人纠结的牛马工具， mac mini 还是 mac air？](https://www.v2ex.com/t/1134273)
+
