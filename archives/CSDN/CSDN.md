@@ -123,3 +123,7 @@
 
 + [LabVIEW开发FPGA磁声发射应力检测系统](https://blog.csdn.net/bjcyck/article/details/148200111)
 
++ [知识宇宙-学习篇：技术文档该如何写？](https://blog.csdn.net/qq_51646682/article/details/148193664)
+
++ [2025第三届黄河流域网络安全技能挑战赛--Crypto--WriteUp](https://blog.csdn.net/2301_81161051/article/details/148211359)
+
