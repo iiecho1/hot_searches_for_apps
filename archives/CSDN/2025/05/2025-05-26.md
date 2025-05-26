@@ -141,3 +141,7 @@
 
 + [【机器人】复现 Embodied-Reasoner 具身推理 | 具身任务 深度推理模型 多模态场景 长远决策 多轮互动](https://blog.csdn.net/qq_41204464/article/details/148198635)
 
++ [大数据Spark（六十）：Spark On Yarn 配置](https://blog.csdn.net/xiaoweite1/article/details/148215389)
+
++ [【计算机网络】基于TCP进行socket编程——实现客户端到服务端远程命令行操作](https://blog.csdn.net/GGDxianv/article/details/148205195)
+

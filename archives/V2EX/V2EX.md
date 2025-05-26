@@ -21,3 +21,5 @@
 
 + [一代经典论坛 vBulletin 3.x](https://www.v2ex.com/t/1134124)
 
++ [请教下 Dell U2725QE 接 Mac 不出 HDR 选项是啥情况](https://www.v2ex.com/t/1134144)
+
