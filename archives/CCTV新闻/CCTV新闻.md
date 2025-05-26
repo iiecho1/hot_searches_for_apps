@@ -237,3 +237,7 @@
 
 + [中国共产党同周边国家政党对话会在北京举行：放大区域声音 加强全球南方发展合作](https://news.cctv.com/2025/05/26/ARTIPbFkGA7aFtPtHHGuDt6N250526.shtml)
 
++ [东盟峰会通过“吉隆坡宣言” 聚焦加强区域一体化](https://news.cctv.com/2025/05/26/ARTI6LFEANzQWsHBOTxiNK57250526.shtml)
+
++ [特朗普再威胁哈佛大学 考虑撤款30亿美元](https://news.cctv.com/2025/05/26/ARTI8JxHRkSeHSeQOcP8pYF0250526.shtml)
+

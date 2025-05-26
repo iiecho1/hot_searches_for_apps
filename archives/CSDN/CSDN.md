@@ -201,3 +201,11 @@
 
 + [【SpringBoot】从零开始全面解析Spring Ioc&DI (二)](https://blog.csdn.net/2302_81886858/article/details/148026181)
 
++ [Linux核心技术：Linux文件系统与bootFS/rootFS](https://blog.csdn.net/a1369760658/article/details/148204377)
+
++ [AI时代从0到1的破局密码：24堂设计思维课，重塑科技人的创新基因](https://blog.csdn.net/qq_32682301/article/details/148233012)
+
++ [python炸鱼船](https://blog.csdn.net/rhz20131230/article/details/148195957)
+
++ [Ubuntu+Docker实战：手把手教你整合MyIP与cpolar实现内网穿透](https://blog.csdn.net/qyj19920704/article/details/148231802)
+

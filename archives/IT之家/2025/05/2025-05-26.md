@@ -63,3 +63,17 @@
 
 + [到手低至 392.16 元，华为 MateView SE 标准版 27 英寸 1080P 100Hz 显示器迎优惠](https://m.ithome.com/html/855894.htm)
 
++ [国产一英寸镜皇，华为 Pura80 Pro 旗舰手机被曝主摄搭载思特威 50Mp SC5A0CS](https://m.ithome.com/html/855917.htm)
+
++ [全球首个人形机器人格斗赛开赛，宇树 G1 擂台激烈对打](https://m.ithome.com/html/855895.htm)
+
++ [小米汽车：YU7 的 100 挡主动进气格栅全关闭后可降低整车风阻系数 18 Counts，提升 14km 续航](https://m.ithome.com/html/855896.htm)
+
++ [小米玄戒负责人朱丹：玄戒 O1 并非基于 Arm CSS 软核或硬核方案](https://m.ithome.com/html/856017.htm)
+
++ [美国将停产一美分硬币，因铸造成本远超面值](https://m.ithome.com/html/855869.htm)
+
++ [腾讯京东等合资收购 48 座万达广场](https://m.ithome.com/html/855997.htm)
+
++ [酷态科 30 号超级电能站 Ultra 发布：1.83 英寸 IPS 屏，国补后 551.65 元](https://m.ithome.com/html/855937.htm)
+
