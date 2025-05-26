@@ -101,3 +101,25 @@
 
 + [配置文件，xml，json，yaml，我该选哪个？](https://blog.csdn.net/xiezhipu/article/details/148198149)
 
++ [【linux篇】操作系统的第一道防线：权限](https://blog.csdn.net/2401_86275172/article/details/148216124)
+
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在工业自动化生产线能源优化中的应用与实践（267）](https://blog.csdn.net/atgfg/article/details/148198113)
+
++ [基于Python的分布式网络爬虫系统设计与实现](https://blog.csdn.net/2301_80338712/article/details/148210429)
+
++ [相机内参 opencv](https://blog.csdn.net/jacke121/article/details/148199822)
+
++ [PyTorch实战——生成对抗网络数值数据生成](https://blog.csdn.net/LOVEmy134611/article/details/146368401)
+
++ [大数据领域数据中台的集成与对接方案](https://blog.csdn.net/universsky2015/article/details/148178686)
+
++ [python炸鱼船](https://blog.csdn.net/rhz20131230/article/details/148195957)
+
++ [数据科学概论笔记--U5 Analysis](https://blog.csdn.net/m0_49654496/article/details/148191896)
+
++ [【MySQL】第10节｜MySQL全局优化与Mysql 8.0新增特性详解](https://blog.csdn.net/zwliuxing/article/details/148212486)
+
++ [李宏毅《机器学习2025》笔记 第二讲 —— AI Agent](https://blog.csdn.net/m0_67168421/article/details/148176757)
+
++ [LabVIEW开发FPGA磁声发射应力检测系统](https://blog.csdn.net/bjcyck/article/details/148200111)
+

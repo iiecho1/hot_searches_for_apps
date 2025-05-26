@@ -45,3 +45,5 @@
 
 + [全球首个人形机器人格斗赛开赛，宇树 G1 擂台激烈对打](https://m.ithome.com/html/855895.htm)
 
++ [美国将停产一美分硬币，因铸造成本远超面值](https://m.ithome.com/html/855869.htm)
+
