@@ -181,3 +181,7 @@
 
 + [AI领域一周纵览：从大模型更新到开源生态的前沿动态](https://blog.csdn.net/sinat_39620217/article/details/148220709)
 
++ [2025 年江西研究生数学建模竞赛题A题电动汽车充电桩共享优化与电网安全协同模型完整思路 模型代码 结果 成品分享](https://blog.csdn.net/2403_86854718/article/details/148254909)
+
++ [npm幻影依赖问题](https://blog.csdn.net/everfoot/article/details/148207267)
+
