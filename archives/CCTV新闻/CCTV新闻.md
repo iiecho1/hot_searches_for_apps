@@ -161,3 +161,13 @@
 
 + [退出《巴黎协定》还不够？美政府又计划取消一项限制](https://news.cctv.com/2025/05/25/ARTIJd10ME5pTkxVmWz2I7Gy250525.shtml)
 
++ [查尔斯三世主持加拿大议会开幕 强调加拿大“强大而自由”](https://news.cctv.com/2025/05/28/ARTIrQgNwJiqRJczok8JUmeJ250528.shtml)
+
++ [印度国防部批准五代战机研发项目](https://news.cctv.com/2025/05/28/ARTIi211FSOIlqg6x7iAlJF6250528.shtml)
+
++ [特朗普政府下令美使领馆暂停留学生新签证面试](https://news.cctv.com/2025/05/28/ARTIcvavPgzT5zj4TW1RHJJ1250528.shtml)
+
++ [俄称若欧洲取消供乌武器射程限制 意味冲突升级](https://news.cctv.com/2025/05/28/ARTIOG33HkfNA7Dp8ApL7vcj250528.shtml)
+
++ [俄乌和谈前景如何？起草备忘录、完成换俘，也有人要继续拱火](https://news.cctv.com/2025/05/28/ARTIh2X14bBNWyV76KtOgyGx250528.shtml)
+
