@@ -191,3 +191,9 @@
 
 + [【KWDB创作者计划】- KWDB：高性能时序数据库，赋能AIoT场景，引领时序数据库新纪元的高效引擎 - 新零售可回溯视屏时序数据系统最佳实践](https://blog.csdn.net/2301_77888392/article/details/148206931)
 
++ [PyTorch实战（7）——生成对抗网络(Generative Adversarial Network, GAN)实践详解](https://blog.csdn.net/LOVEmy134611/article/details/146259536)
+
++ [HTTP与HTTPS网络原理（7000+字详解）](https://blog.csdn.net/no_rt_h_se_v_en/article/details/148223456)
+
++ [FreeRTOS 在物联网传感器节点的应用：低功耗实时数据采集与传输方案](https://blog.csdn.net/qq_44805265/article/details/148236881)
+
