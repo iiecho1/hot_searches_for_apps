@@ -135,3 +135,7 @@
 
 + [构建智能AI记忆系统：多智能体系统记忆机制的设计与技术实现](https://blog.csdn.net/m0_46510245/article/details/148187188)
 
++ [Spring boot使用](https://blog.csdn.net/weixin_42795092/article/details/148183560)
+
++ [【MySQL】 事务的概念及ACID属性和使用](https://blog.csdn.net/island1314/article/details/148242172)
+

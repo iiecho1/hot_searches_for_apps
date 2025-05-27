@@ -167,3 +167,9 @@
 
 + [英国利物浦汽车冲撞球迷致27人受伤送医](https://news.cctv.com/2025/05/27/ARTIoGdIxUsG62WaP3iG8Ac5250527.shtml)
 
++ [欧洲小国运动会开幕 九国竞逐“迷你版奥运”](https://news.cctv.com/2025/05/27/ARTI6FlCwwHRcutQXP6IEThs250527.shtml)
+
++ [“五年过去了一切都没变” 弗洛伊德遭跪压死亡后美国警察劣迹未减](https://news.cctv.com/2025/05/27/ARTIdHeFKxLglzjt65jL16yo250527.shtml)
+
++ [巴西总统卢拉因身体不适入院检查](https://news.cctv.com/2025/05/27/ARTIBgkCSQz1H9Nl4YnJNRSC250527.shtml)
+
