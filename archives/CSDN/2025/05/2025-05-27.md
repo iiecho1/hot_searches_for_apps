@@ -159,3 +159,9 @@
 
 + [PDF 转 JPG 图片小工具：CodeBuddy 助力解决转换痛点](https://blog.csdn.net/2301_80863610/article/details/148196585)
 
++ [Elasticsearch实操案例](https://blog.csdn.net/cui_hao_nan/article/details/148189833)
+
++ [基于Geotools的Worldpop世界人口tif解析-以中国2020年数据为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/148239293)
+
++ [基于flutter3+deepseek+getx+dio+markdown仿DeepSeek手机端流式AI输出模板](https://blog.csdn.net/yanxinyun1990/article/details/148217532)
+

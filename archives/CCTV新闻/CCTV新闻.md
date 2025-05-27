@@ -181,3 +181,7 @@
 
 + [日本一处施工工地发生爆炸 至少10人受伤](https://news.cctv.com/2025/05/27/ARTILt5mee8nC6RiX6BzwQcN250527.shtml)
 
++ [阿根廷重申退出世卫组织决定](https://news.cctv.com/2025/05/27/ARTIL5jRJK83TEE7TuQ9enpH250527.shtml)
+
++ [韩国前国务总理韩德洙和前副总理崔相穆被禁止出国](https://news.cctv.com/2025/05/27/ARTIsXQEmqyp2XgS46LV2qAX250527.shtml)
+
