@@ -175,3 +175,5 @@
 
 + [美国中东问题特使称哈马斯尚未接受其加沙停火方案](https://news.cctv.com/2025/05/27/ARTIKbCZvR15DxI3pAhZARwr250527.shtml)
 
++ [一针见血！专家谈美国为什么没有中国那样的高铁](https://news.cctv.com/2025/05/27/ARTI7GzGL1f4iD54ONPT3Bj5250527.shtml)
+
