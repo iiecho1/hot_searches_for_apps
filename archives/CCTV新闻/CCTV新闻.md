@@ -179,3 +179,5 @@
 
 + [美国费城发生大规模枪击事件 已致2死9伤](https://news.cctv.com/2025/05/27/ARTIVUGWG9keGxV3mRhzobhP250527.shtml)
 
++ [日本一处施工工地发生爆炸 至少10人受伤](https://news.cctv.com/2025/05/27/ARTILt5mee8nC6RiX6BzwQcN250527.shtml)
+
