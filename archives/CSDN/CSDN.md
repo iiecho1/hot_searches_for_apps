@@ -185,3 +185,9 @@
 
 + [npm幻影依赖问题](https://blog.csdn.net/everfoot/article/details/148207267)
 
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(二十七) -＞ 开发云函数](https://blog.csdn.net/weixin_74809706/article/details/148255231)
+
++ [奈雪小程序任务脚本](https://blog.csdn.net/q2642346535/article/details/148207087)
+
++ [【KWDB创作者计划】- KWDB：高性能时序数据库，赋能AIoT场景，引领时序数据库新纪元的高效引擎 - 新零售可回溯视屏时序数据系统最佳实践](https://blog.csdn.net/2301_77888392/article/details/148206931)
+
