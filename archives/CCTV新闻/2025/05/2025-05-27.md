@@ -189,3 +189,13 @@
 
 + [中国游客在意大利西西里岛遭遇交通事故 1人遇难2人受伤](https://news.cctv.com/2025/05/27/ARTINTRGUktJihEHq126di4J250527.shtml)
 
++ [俄副外长：俄美关系出现积极变化](https://news.cctv.com/2025/05/27/ARTIGSu3biSJTLpdq4a6IJNV250527.shtml)
+
++ [俄外交部发言人：俄乌冲突调解备忘录草案正在制定中](https://news.cctv.com/2025/05/27/ARTIIynxqeZjCBPJ9FF0CtXo250527.shtml)
+
++ [韩国大选进入倒计时一周 “三足鼎立”格局或成定局](https://news.cctv.com/2025/05/27/ARTIDKB30fRuwHMnCWF6aJUZ250527.shtml)
+
++ [南非一巴士坠桥 已致3死12伤](https://news.cctv.com/2025/05/27/ARTIAZDlQxQPFXgiagRCpXqg250527.shtml)
+
++ [迪迩秀｜欧企“三招”抢占中国市场先机](https://news.cctv.com/2025/05/27/ARTIvcsq5EK4YamiN8SovBhd250527.shtml)
+

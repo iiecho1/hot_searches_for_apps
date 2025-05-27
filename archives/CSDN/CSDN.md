@@ -175,3 +175,9 @@
 
 + [【HarmonyOS5】DevEco Studio 使用指南：代码阅读与编辑功能详解](https://blog.csdn.net/m0_55394328/article/details/148204343)
 
++ [CUDA重大更新：原生Python可直接编写高性能GPU程序](https://blog.csdn.net/m0_46510245/article/details/148249766)
+
++ [【KWDB 创作者计划】KWDB多模分布式数据库助力共享打印机物联网IoT最佳实践落地，实现高效存储与查询时序数据](https://blog.csdn.net/m0_68635815/article/details/148190910)
+
++ [AI领域一周纵览：从大模型更新到开源生态的前沿动态](https://blog.csdn.net/sinat_39620217/article/details/148220709)
+
