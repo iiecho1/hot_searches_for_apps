@@ -185,3 +185,7 @@
 
 + [韩国前国务总理韩德洙和前副总理崔相穆被禁止出国](https://news.cctv.com/2025/05/27/ARTIsXQEmqyp2XgS46LV2qAX250527.shtml)
 
++ [共话中国经济新机遇丨“中国超大规模市场带来巨大机遇”——访塞尔维亚经济部国务秘书尼科利奇](https://news.cctv.com/2025/05/27/ARTIy5ltzJ8Kndkcn1rXq56p250527.shtml)
+
++ [中国游客在意大利西西里岛遭遇交通事故 1人遇难2人受伤](https://news.cctv.com/2025/05/27/ARTINTRGUktJihEHq126di4J250527.shtml)
+

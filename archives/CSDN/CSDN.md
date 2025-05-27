@@ -165,3 +165,13 @@
 
 + [基于flutter3+deepseek+getx+dio+markdown仿DeepSeek手机端流式AI输出模板](https://blog.csdn.net/yanxinyun1990/article/details/148217532)
 
++ [【RabbitMQ】基于Spring Boot + RabbitMQ 完成应用通信](https://blog.csdn.net/Yeeear/article/details/148241953)
+
++ [【Linux】进程信号（二）：捕抓信号](https://blog.csdn.net/tan_run/article/details/148191874)
+
++ [大型三甲医院更换HIS系统全流程分析与经验考察（下）](https://blog.csdn.net/kkiron/article/details/148247970)
+
++ [最新Spring Security实战教程（十六）微服务间安全通信 - JWT令牌传递与校验机制](https://blog.csdn.net/lhmyy521125/article/details/148239407)
+
++ [【HarmonyOS5】DevEco Studio 使用指南：代码阅读与编辑功能详解](https://blog.csdn.net/m0_55394328/article/details/148204343)
+
