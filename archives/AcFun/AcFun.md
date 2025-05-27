@@ -73,3 +73,5 @@
 
 + [窥探深渊——【BUGEGO 08】](https://m.acfun.cn/v/?ac=47317488)
 
++ [自研芯片玄戒O1全面对标苹果！小米YU7发布硬吃SU7回旋镖](https://m.acfun.cn/v/?ac=47317721)
+

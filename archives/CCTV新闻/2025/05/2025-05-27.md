@@ -173,3 +173,5 @@
 
 + [巴西总统卢拉因身体不适入院检查](https://news.cctv.com/2025/05/27/ARTIBgkCSQz1H9Nl4YnJNRSC250527.shtml)
 
++ [美国中东问题特使称哈马斯尚未接受其加沙停火方案](https://news.cctv.com/2025/05/27/ARTIKbCZvR15DxI3pAhZARwr250527.shtml)
+

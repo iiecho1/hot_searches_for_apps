@@ -55,3 +55,11 @@
 
 + [美团王兴回应京东外卖百亿补贴：将不惜代价赢得竞争](https://m.ithome.com/html/856116.htm)
 
++ [荣耀 CEO 李健国内首秀定档 5 月 28 日，将发布荣耀三部曲和百万雄鹰计划](https://m.ithome.com/html/855985.htm)
+
++ [小米雷军：玄戒 O1 最高主频 3.9GHz，足以说明芯片团队已具备相当强的研发设计实力](https://m.ithome.com/html/856177.htm)
+
++ [消息称苹果“接下来三年 ID 大变”，2027 年 iPhone 19 迎来屏下 Face ID + 前摄“真全面屏”](https://m.ithome.com/html/856015.htm)
+
++ [小米汽车：YU7 设计保留了可拆卸物理按键，支持按需购买](https://m.ithome.com/html/856166.htm)
+
