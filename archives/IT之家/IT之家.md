@@ -63,3 +63,17 @@
 
 + [小米汽车：YU7 设计保留了可拆卸物理按键，支持按需购买](https://m.ithome.com/html/856166.htm)
 
++ [苹果最薄 iPhone 17 Air 曝料：厚 5.5mm、重 146g，7000 系铝合金、2800mAh 电池、2400 万前摄](https://m.ithome.com/html/856204.htm)
+
++ [苹果史上最大规模界面改版：iOS 等六大系统将焕新登场，主打玻璃质感](https://m.ithome.com/html/856229.htm)
+
++ [深蓝汽车向 48 万老车主投放降价广告惹争议，客服回应称“只能收到一次”](https://m.ithome.com/html/856252.htm)
+
++ [本周正式发布，鸿蒙智行尊界 S800 纯白色实车曝光](https://m.ithome.com/html/856101.htm)
+
++ [2598 元 → 1775 元：大疆 Osmo Action 5 Pro 国补 6.8 折新低](https://m.ithome.com/html/856156.htm)
+
++ [认真做国补后再认真做 618：苹果 Mac 全系大破价，mini 低至 2699 元、MBA 仅 5399 元](https://m.ithome.com/html/856311.htm)
+
++ [图片发送前支持编辑，微信鸿蒙版 App 获 1.0.7.16 邀测升级](https://m.ithome.com/html/856155.htm)
+
