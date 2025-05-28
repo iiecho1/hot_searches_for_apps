@@ -121,3 +121,11 @@
 
 + [图解BERT](https://blog.csdn.net/m0_53157173/article/details/148201735)
 
++ [[免费]SpringBoot+Vue在线教育(在线学习)系统(高级版)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/148229144)
+
++ [视频问答功能播放器(视频问答)视频弹题功能实例](https://blog.csdn.net/suny2020/article/details/148241090)
+
++ [vue3组件--无限滚动效果](https://blog.csdn.net/qq_74114417/article/details/148203643)
+
++ [AI领域一周纵览：从大模型更新到开源生态的前沿动态](https://blog.csdn.net/sinat_39620217/article/details/148220709)
+
