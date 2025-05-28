@@ -173,3 +173,13 @@
 
 + [德国宣布将向乌克兰提供50亿欧元军事援助](https://news.cctv.com/2025/05/29/ARTIXpMZgAlm6hQiCQbCG1uP250529.shtml)
 
++ [墨西哥央行大幅下调2025年经济增长预期](https://news.cctv.com/2025/05/29/ARTItNoQEByZ2JTPpF9OPgLY250529.shtml)
+
++ [禁止叫停 美法官下令纽约曼哈顿继续征收拥堵费](https://news.cctv.com/2025/05/29/ARTIxLSj6PKX2zilaZvjp6wX250529.shtml)
+
++ [韩国第21届总统选举开始“事前投票”](https://news.cctv.com/2025/05/29/ARTItpshADTy677DmiBT64J9250529.shtml)
+
++ [投资换取关税豁免？德国三大车企被曝直接与美政府谈判](https://news.cctv.com/2025/05/29/ARTImVzBLmm4mOSGwtdlOJkt250529.shtml)
+
++ [特朗普政府削减美科研经费引众怒 美16州提起诉讼](https://news.cctv.com/2025/05/29/ARTIKo46rYDD7edU05rVlXXZ250529.shtml)
+
