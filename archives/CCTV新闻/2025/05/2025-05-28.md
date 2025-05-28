@@ -205,3 +205,9 @@
 
 + [欧盟正式取消对叙利亚经济制裁](https://news.cctv.com/2025/05/28/ARTI87f7jkFOJ3opbDGu29gC250528.shtml)
 
++ [韩国忠清南道瑞山市一旅馆发生火灾 致1死17伤](https://news.cctv.com/2025/05/28/ARTIW2nOe0Vzp7frrJAq1gRa250528.shtml)
+
++ [以总理：哈马斯高级军事指挥官穆罕默德·辛瓦尔已死亡](https://news.cctv.com/2025/05/28/ARTIG7fPtB1Saaix369frogv250528.shtml)
+
++ [马里亚纳群岛以南海域发生5.6级地震，震源深度20千米](https://news.cctv.com/2025/05/28/ARTIlIPe7PjSAw3oOKMjbiVl250528.shtml)
+
