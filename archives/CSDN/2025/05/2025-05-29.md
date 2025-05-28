@@ -107,3 +107,11 @@
 
 + [高考加油（Python+HTML）](https://blog.csdn.net/weixin_64066303/article/details/148256740)
 
++ [一种比较精简的协议](https://blog.csdn.net/weixin_56634270/article/details/148251445)
+
++ [与 PyCharm 官方沟通解决开发环境问题记录（进展：官方已推出2个新的修复版本）](https://blog.csdn.net/u014451778/article/details/148264330)
+
++ [视频问答功能播放器(视频问答)视频弹题功能实例](https://blog.csdn.net/suny2020/article/details/148241090)
+
++ [基于Java的springboot/SSM+vue.js+uniapp小程序的汉中茗茶微系统设计与实现附带文章源码部署视频讲解等](https://blog.csdn.net/2401_82799502/article/details/148242493)
+
