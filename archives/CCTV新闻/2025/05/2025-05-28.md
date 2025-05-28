@@ -191,3 +191,7 @@
 
 + [以色列防长：以军空袭也门萨那机场](https://news.cctv.com/2025/05/28/ARTIFSvne8K3m9FjRXCWGrSH250528.shtml)
 
++ [俄外长：俄乌新一轮谈判安排将于近期公布](https://news.cctv.com/2025/05/28/ARTIysa5gWT5IYYomEbj0ewp250528.shtml)
+
++ [首尔市中心起火 暂无人员伤亡报告](https://news.cctv.com/2025/05/28/ARTIaUYmaQvh05Jl4NVNnk8q250528.shtml)
+
