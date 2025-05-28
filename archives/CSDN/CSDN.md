@@ -101,3 +101,9 @@
 
 + [谷歌高调宣布，Gemini 2.5 Pro重磅升级，硬刚Claude Sonnet 4，国内直接使用](https://blog.csdn.net/guorui_java/article/details/148253985)
 
++ [小土堆pytorch--损失函数与反向传播](https://blog.csdn.net/2302_80295520/article/details/148227649)
+
++ [Python-ArcGIS蒸散发组分解析与GPP估算技术](https://blog.csdn.net/weixin_46433038/article/details/148261417)
+
++ [高考加油（Python+HTML）](https://blog.csdn.net/weixin_64066303/article/details/148256740)
+

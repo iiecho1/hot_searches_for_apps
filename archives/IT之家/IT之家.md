@@ -25,3 +25,19 @@
 
 + [李书福：吉利不会放弃传统内燃机汽车的研发与制造，坚持不打价格战](https://m.ithome.com/html/856425.htm)
 
++ [深蓝汽车向 48 万老车主投放降价广告惹争议，客服回应称“只能收到一次”](https://m.ithome.com/html/856252.htm)
+
++ [认真做国补后再认真做 618：苹果 Mac 全系大破价，mini 低至 2699 元、MBA 仅 5399 元](https://m.ithome.com/html/856311.htm)
+
++ [小米集团 2025 年第一季度收入及盈利均再次创下历史新高，净利润首次超百亿](https://m.ithome.com/html/856362.htm)
+
++ [刘强东前往“阿里大本营”杭州演讲：一落地点了 3 份京东外卖，杭州也是世界美食之都](https://m.ithome.com/html/856352.htm)
+
++ [一加 Ace 5 至尊版手机发布：行业首台“电竞三芯”旗舰，2499 元起](https://m.ithome.com/html/856320.htm)
+
++ [3199 → 1881 元接近腰斩：Apple Watch S10 46mm 京东 618 国补再降价](https://m.ithome.com/html/856342.htm)
+
++ [卢伟冰：小米电视放弃对规模数量的过度追求，专注做深技术](https://m.ithome.com/html/856315.htm)
+
++ [卢伟冰：小米 SU7 Ultra 最新锁单数超 2.3 万台，YU7 预约咨询量超同期 SU7](https://m.ithome.com/html/856384.htm)
+

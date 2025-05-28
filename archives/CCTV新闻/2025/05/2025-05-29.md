@@ -161,3 +161,15 @@
 
 + [特朗普再提万亿美元军费预算 挤压了谁？满足了谁？](https://news.cctv.com/2025/05/26/ARTIDfhWAxiTZg0nhhhL8KWo250526.shtml)
 
++ [俄外长：俄乌第二轮谈判将于6月2日在伊斯坦布尔举行](https://news.cctv.com/2025/05/29/ARTIoJGxFmiRSeCzhCf9PY8g250529.shtml)
+
++ [日本投放储备 能否把“天价米”打下来？](https://news.cctv.com/2025/05/29/ARTI437UWeiXnCNxeNyUBDAW250529.shtml)
+
++ [第78届世界卫生大会取得关键成果 推进全球健康议程](https://news.cctv.com/2025/05/29/ARTIenFkdsfgYbxON6Ao8jD9250529.shtml)
+
++ [苏丹新一轮霍乱疫情已致超1700人死亡](https://news.cctv.com/2025/05/29/ARTIXiglD8uVsVpST7sVwlfJ250529.shtml)
+
++ [北约计划大幅扩军 作战旅可能增至130个](https://news.cctv.com/2025/05/29/ARTI4DzBytqfYuCdHvcpYfSb250529.shtml)
+
++ [德国宣布将向乌克兰提供50亿欧元军事援助](https://news.cctv.com/2025/05/29/ARTIXpMZgAlm6hQiCQbCG1uP250529.shtml)
+
