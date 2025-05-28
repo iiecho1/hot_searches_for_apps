@@ -117,3 +117,5 @@
 
 + [【2025最新】Cline自定义API配置完全指南：接入Claude 3.7/GPT-4o](https://blog.csdn.net/zl3450341/article/details/148263864)
 
++ [DeepSeek区块链存证的可验证计算框架(附DeepSeek行业解决方案100+)](https://blog.csdn.net/ashyyyy/article/details/148223149)
+
