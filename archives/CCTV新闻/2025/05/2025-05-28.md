@@ -187,3 +187,7 @@
 
 + [【世界说】研究：关税战、“美国优先”劝退赴美游客 或致美国经济损失230亿美元](https://news.cctv.com/2025/05/28/ARTId2zGk4TZ2QqwD7bREqdr250528.shtml)
 
++ [也门萨那国际机场遭以军空袭 一架民航客机被炸毁](https://news.cctv.com/2025/05/28/ARTIPnGXbkM0wSJ7tYqzcOO9250528.shtml)
+
++ [以色列防长：以军空袭也门萨那机场](https://news.cctv.com/2025/05/28/ARTIFSvne8K3m9FjRXCWGrSH250528.shtml)
+
