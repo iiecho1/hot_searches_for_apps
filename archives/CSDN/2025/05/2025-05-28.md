@@ -137,3 +137,7 @@
 
 + [VB.NET与SQL连接问题解决方案](https://blog.csdn.net/2501_91207543/article/details/148221071)
 
++ [从 MQTT 迁移数据到当前 TDengine 集群](https://blog.csdn.net/NIIT0532/article/details/148203401)
+
++ [基于深度学习的情绪识别检测系统【完整版】](https://blog.csdn.net/weixin_42380711/article/details/147924625)
+
