@@ -143,3 +143,11 @@
 
 + [2025蓝桥杯WP](https://blog.csdn.net/m1154619573/article/details/148186664)
 
++ [【Rust】Rust获取命令行参数以及IO操作](https://blog.csdn.net/littlefun591/article/details/148269295)
+
++ [OpenCv高阶（十八）——dlib人脸检测与识别](https://blog.csdn.net/jdjhcn/article/details/148118708)
+
++ [基于蓝耘平台的 JupyterLab 全面解析：理论与实践](https://blog.csdn.net/2301_76341691/article/details/148192360)
+
++ [React vs Vue.js：选哪个框架更适合你的项目？](https://blog.csdn.net/2501_90478035/article/details/148157671)
+

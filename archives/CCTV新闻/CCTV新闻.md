@@ -185,3 +185,5 @@
 
 + [总台记者观察丨印度邀私企参与五代机研发 成本超17亿美元 周期约10年](https://news.cctv.com/2025/05/28/ARTIHqLwnb41OyRvOR6e1yBi250528.shtml)
 
++ [【世界说】研究：关税战、“美国优先”劝退赴美游客 或致美国经济损失230亿美元](https://news.cctv.com/2025/05/28/ARTId2zGk4TZ2QqwD7bREqdr250528.shtml)
+
