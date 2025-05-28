@@ -39,3 +39,21 @@
 
 + [图片发送前支持编辑，微信鸿蒙版 App 获 1.0.7.16 邀测升级](https://m.ithome.com/html/856155.htm)
 
++ [小米卢伟冰：先从最难的旗舰芯片开始做，接下来攻克 5G 基带](https://m.ithome.com/html/856410.htm)
+
++ [小米集团 2025 年第一季度收入及盈利均再次创下历史新高，净利润首次超百亿](https://m.ithome.com/html/856362.htm)
+
++ [一加 Ace 5 至尊版手机发布：行业首台“电竞三芯”旗舰，2499 元起](https://m.ithome.com/html/856320.htm)
+
++ [刘强东前往“阿里大本营”杭州演讲：一落地点了 3 份京东外卖，杭州也是世界美食之都](https://m.ithome.com/html/856352.htm)
+
++ [雷军向小米董事赠送玄戒创始纪念品，林斌称董事会全力支持芯片投入](https://m.ithome.com/html/856422.htm)
+
++ [3199 → 1881 元接近腰斩：Apple Watch S10 46mm 京东 618 国补再降价](https://m.ithome.com/html/856342.htm)
+
++ [卢伟冰：小米电视放弃对规模数量的过度追求，专注做深技术](https://m.ithome.com/html/856315.htm)
+
++ [卢伟冰：小米 SU7 Ultra 最新锁单数超 2.3 万台，YU7 预约咨询量超同期 SU7](https://m.ithome.com/html/856384.htm)
+
++ [小米汽车：YU7 全系三个版本均标配小米超级电机 V6s Plus，最大输出功率有所差异](https://m.ithome.com/html/856423.htm)
+

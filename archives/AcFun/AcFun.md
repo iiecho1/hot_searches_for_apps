@@ -69,3 +69,7 @@
 
 + [Brave Girls Rollin](https://m.acfun.cn/v/?ac=47324014)
 
++ [【AC娘周边】我的第一个ACFUN周边展示](https://m.acfun.cn/v/?ac=47323294)
+
++ [酸菜鱼](https://m.acfun.cn/v/?ac=47319279)
+

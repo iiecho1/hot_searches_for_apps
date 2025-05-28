@@ -129,3 +129,11 @@
 
 + [AI领域一周纵览：从大模型更新到开源生态的前沿动态](https://blog.csdn.net/sinat_39620217/article/details/148220709)
 
++ [【爬虫学习】动态网页数据抓取实战：Ajax逆向与浏览器自动化](https://blog.csdn.net/deepever/article/details/148210751)
+
++ [网络安全全知识图谱：威胁、防护、管理与发展趋势详解](https://blog.csdn.net/qq_53139964/article/details/148241406)
+
++ [[yolov11改进系列]基于yolov11引入可改变核卷积AKConv的python源码+训练源码](https://blog.csdn.net/FL1623863129/article/details/148261874)
+
++ [VB.NET与SQL连接问题解决方案](https://blog.csdn.net/2501_91207543/article/details/148221071)
+

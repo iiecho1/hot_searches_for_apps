@@ -175,3 +175,7 @@
 
 + [美“星舰”第九次试飞未能成功](https://news.cctv.com/2025/05/28/ARTIncVEEvIQaGPSzFX2K573250528.shtml)
 
++ [韩总统选举临近 民调显示李在明仍领先但优势缩小](https://news.cctv.com/2025/05/28/ARTI79xrAfghR0dJDbFnsKKG250528.shtml)
+
++ [土耳其外长访俄斡旋 俄外长说愿在伊斯坦布尔与乌克兰再谈](https://news.cctv.com/2025/05/28/ARTIdCdApvzc1B6cFKfqOitN250528.shtml)
+
