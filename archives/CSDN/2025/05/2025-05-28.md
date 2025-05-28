@@ -117,3 +117,7 @@
 
 + [《软件工程》第 15 章 - 软件度量与估算：从概念到实践​](https://blog.csdn.net/2302_80961196/article/details/148241622)
 
++ [【Spring】Spring AI 核心知识（一）](https://blog.csdn.net/weixin_62533201/article/details/148239447)
+
++ [图解BERT](https://blog.csdn.net/m0_53157173/article/details/148201735)
+
