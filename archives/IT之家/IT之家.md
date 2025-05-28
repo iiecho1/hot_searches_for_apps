@@ -59,3 +59,19 @@
 
 + [深蓝汽车就“车机投放降价广告”致歉：未来不再通过该渠道向用户推送权益提醒](https://m.ithome.com/html/856417.htm)
 
++ [小米澎湃 OS 2 年中升级公告发布，首批机型今日起陆续推送](https://m.ithome.com/html/856515.htm)
+
++ [比亚迪：网传信息不实，正对济南乾城集团予以纾困支持](https://m.ithome.com/html/856533.htm)
+
++ [小米玄戒 O1 旗舰处理器创始纪念品亮相：内嵌芯片、外刻设计图，采用铝板材质](https://m.ithome.com/html/856512.htm)
+
++ [高通委托测试：苹果 iPhone 16e 自研基带 5G 性能落后于 X75 / X80 安卓竞品](https://m.ithome.com/html/856452.htm)
+
++ [苹果 iOS 19 新特性曝光：iPhone eSIM 可直接转移至安卓](https://m.ithome.com/html/856456.htm)
+
++ [小米王腾：REDMI K80 至尊版将会是行业 3K 档最豪华的性能之王](https://m.ithome.com/html/856499.htm)
+
++ [小米张国全：自澎湃 OS 2 发布以来改善 1858 项体验问题，优化 132 项功能细节](https://m.ithome.com/html/856570.htm)
+
++ [李书福：吉利不会放弃传统内燃机汽车的研发与制造，坚持不打价格战](https://m.ithome.com/html/856425.htm)
+

@@ -193,3 +193,7 @@
 
 + [制作一款打飞机游戏56：爆裂子弹](https://blog.csdn.net/wskongdesheng/article/details/148227504)
 
++ [【前端】Vue3+elementui+ts，TypeScript Promise＜string＞转string错误解析，习惯性请出DeepSeek来解答](https://blog.csdn.net/lmy_520/article/details/148290008)
+
++ [一个开源的多播放源自动采集在线影视网站](https://blog.csdn.net/flex8888/article/details/148263455)
+
