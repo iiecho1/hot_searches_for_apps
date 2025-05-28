@@ -179,3 +179,17 @@
 
 + [小白成长之路-计算机网络（四）](https://blog.csdn.net/m0_70730767/article/details/148256192)
 
++ [【Linux】网络（上）](https://blog.csdn.net/2301_81073406/article/details/147199281)
+
++ [C++日新月异的未来代码：C++11（上）](https://blog.csdn.net/Zero_VPN/article/details/148193946)
+
++ [训练自己的yolo模型，并部署到rk3588上](https://blog.csdn.net/DraemSky/article/details/148266063)
+
++ [大模型应用开发第二讲：核心能力：自主性、适应性、推理能力](https://blog.csdn.net/kovlistudio/article/details/148253581)
+
++ [深入解析Linux死锁：原理、原因及解决方案](https://blog.csdn.net/Cayyyy/article/details/148286969)
+
++ [AI工具的选择：Dify还是传统工具？](https://blog.csdn.net/ailuloo/article/details/148267044)
+
++ [制作一款打飞机游戏56：爆裂子弹](https://blog.csdn.net/wskongdesheng/article/details/148227504)
+

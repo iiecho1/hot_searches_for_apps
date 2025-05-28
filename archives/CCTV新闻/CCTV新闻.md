@@ -195,3 +195,13 @@
 
 + [首尔市中心起火 暂无人员伤亡报告](https://news.cctv.com/2025/05/28/ARTIaUYmaQvh05Jl4NVNnk8q250528.shtml)
 
++ [澳洲学者：多边秩序岂能屈从霸权逻辑？美国不要高估了自己的重要性](https://news.cctv.com/2025/05/28/ARTIqkq7mHQTRkKVFy3wpE7q250528.shtml)
+
++ [特写：“我有时会用中文思考怎样解决生活中的问题”——澳年轻人通过学中文增进对中华文化的理解](https://news.cctv.com/2025/05/28/ARTIa9BgDUdqM8kt9FYWvxG9250528.shtml)
+
++ [专访丨“希望与中国携手共建”——土耳其加济安泰普市长期待古丝路重镇焕发新活力](https://news.cctv.com/2025/05/28/ARTI0kukkscwMpgOmwmca9sF250528.shtml)
+
++ [德国战后首次大规模海外驻军传递什么信号？](https://news.cctv.com/2025/05/28/ARTIOCR1uvyyy3rI0LmMqj4T250528.shtml)
+
++ [欧盟正式取消对叙利亚经济制裁](https://news.cctv.com/2025/05/28/ARTI87f7jkFOJ3opbDGu29gC250528.shtml)
+
