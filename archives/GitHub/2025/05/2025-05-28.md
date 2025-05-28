@@ -25,3 +25,25 @@
 
 + [n8n-io/n8n](https://github.com/n8n-io/n8n)
 
++ [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
+
++ [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+
++ [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
+
++ [actions/runner-images](https://github.com/actions/runner-images)
+
++ [labring/FastGPT](https://github.com/labring/FastGPT)
+
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [Lagrange-Labs/deep-prove](https://github.com/Lagrange-Labs/deep-prove)
+
++ [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
++ [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [ccxt/ccxt](https://github.com/ccxt/ccxt)
+
++ [facebook/react-native](https://github.com/facebook/react-native)
+

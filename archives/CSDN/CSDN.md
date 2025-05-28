@@ -167,3 +167,15 @@
 
 + [yolov8分割任务的推理和后处理解析](https://blog.csdn.net/ThomasCai001/article/details/148028342)
 
++ [线性回归的概念和案例](https://blog.csdn.net/m0_56691516/article/details/148266356)
+
++ [【 Docker系列】 Docker部署kafka](https://blog.csdn.net/qyj19920704/article/details/148240392)
+
++ [Python map()函数详解：批量数据处理的瑞士军刀](https://blog.csdn.net/x15514104477/article/details/148261457)
+
++ [【ArcGIS】ArcGIS AI 助手----复现](https://blog.csdn.net/qq_39397927/article/details/148158628)
+
++ [OpenGAN：基于开放数据生成的开放集识别](https://blog.csdn.net/LJ1147517021/article/details/148221786)
+
++ [小白成长之路-计算机网络（四）](https://blog.csdn.net/m0_70730767/article/details/148256192)
+
