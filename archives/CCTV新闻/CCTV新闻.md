@@ -181,3 +181,7 @@
 
 + [白宫称暂停学生签证面谈 美驻华大使馆：签证申请和面谈目前正常进行](https://news.cctv.com/2025/05/28/ARTIlOc5sLOhd9Ut4fzI2c69250528.shtml)
 
++ [“猎鹰9”火箭将24颗“星链”卫星送入极地轨道](https://news.cctv.com/2025/05/28/ARTIce0pOgU4xEMEcZvDmrmi250528.shtml)
+
++ [总台记者观察丨印度邀私企参与五代机研发 成本超17亿美元 周期约10年](https://news.cctv.com/2025/05/28/ARTIHqLwnb41OyRvOR6e1yBi250528.shtml)
+

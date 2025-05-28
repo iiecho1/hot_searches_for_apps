@@ -141,3 +141,5 @@
 
 + [基于深度学习的情绪识别检测系统【完整版】](https://blog.csdn.net/weixin_42380711/article/details/147924625)
 
++ [2025蓝桥杯WP](https://blog.csdn.net/m1154619573/article/details/148186664)
+
