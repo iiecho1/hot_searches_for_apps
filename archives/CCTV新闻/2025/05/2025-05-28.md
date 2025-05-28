@@ -179,3 +179,5 @@
 
 + [土耳其外长访俄斡旋 俄外长说愿在伊斯坦布尔与乌克兰再谈](https://news.cctv.com/2025/05/28/ARTIdCdApvzc1B6cFKfqOitN250528.shtml)
 
++ [白宫称暂停学生签证面谈 美驻华大使馆：签证申请和面谈目前正常进行](https://news.cctv.com/2025/05/28/ARTIlOc5sLOhd9Ut4fzI2c69250528.shtml)
+
