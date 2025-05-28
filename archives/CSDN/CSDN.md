@@ -115,3 +115,5 @@
 
 + [基于Java的springboot/SSM+vue.js+uniapp小程序的汉中茗茶微系统设计与实现附带文章源码部署视频讲解等](https://blog.csdn.net/2401_82799502/article/details/148242493)
 
++ [【2025最新】Cline自定义API配置完全指南：接入Claude 3.7/GPT-4o](https://blog.csdn.net/zl3450341/article/details/148263864)
+
