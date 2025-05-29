@@ -43,3 +43,17 @@
 
 + [苹果史上最大规模界面改版：iOS 等六大系统将焕新登场，主打玻璃质感](https://m.ithome.com/html/856229.htm)
 
++ [苹果 iPhone 17 Pro Max 机模曝光：比 16 Pro Max 更厚实](https://m.ithome.com/html/856723.htm)
+
++ [荣耀 400/400 Pro 手机发布：搭载 2 亿超清写真人像主摄，2499 元起](https://m.ithome.com/html/856692.htm)
+
++ [“15 万级最强”辅助驾驶车型小鹏 MONA M03 Max 上市，12.98 万 / 13.98 万元](https://m.ithome.com/html/856687.htm)
+
++ [华为首款鸿蒙折叠 PC 设计揭秘：MateBook Fold 早在 2018 年就有原型，余承东、何刚力挺](https://m.ithome.com/html/856679.htm)
+
++ [4199 → 2469 元：OPPO Find X8 手机国补再降价，搭载天玑 9400](https://m.ithome.com/html/856620.htm)
+
++ [小米 Civi 1S、REDMI K40 Pro、K50 系列等机型宣布终止软件支持](https://m.ithome.com/html/856549.htm)
+
++ [王腾回应小米 REDMI 系列何时用上玄戒芯片：真的急不来，我们一起期待](https://m.ithome.com/html/856605.htm)
+
