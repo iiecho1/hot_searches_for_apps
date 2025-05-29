@@ -213,3 +213,7 @@
 
 + [韩国一客机在越南降落时短暂偏离跑道 起落架轮胎受损](https://news.cctv.com/2025/05/29/ARTIJrwPWd0ky8xr4P3eBDhX250529.shtml)
 
++ [韩国浦项海军巡逻机坠毁 机上4人全部遇难](https://news.cctv.com/2025/05/29/ARTITb4xoIMAE5RP2iigre6Y250529.shtml)
+
++ [乌驻德大使馆否认泽连斯基因俄进攻威胁提前回国](https://news.cctv.com/2025/05/29/ARTImAv62OSEEO9leVQy3rRI250529.shtml)
+

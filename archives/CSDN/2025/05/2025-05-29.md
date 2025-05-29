@@ -159,3 +159,11 @@
 
 + [Redis击穿，穿透和雪崩详解以及解决方案](https://blog.csdn.net/hqxstudying/article/details/148293898)
 
++ [基于Qt的MCP LLM代理服务开发实战：从0到1扩展大语言模型](https://blog.csdn.net/goldenhawking/article/details/148291450)
+
++ [【Rust模式与匹配】Rust模式与匹配深入探索与应用实战](https://blog.csdn.net/littlefun591/article/details/148296252)
+
++ [Jenkins+Docker 实现一键自动化部署项目](https://blog.csdn.net/wa_ka_ka/article/details/148293950)
+
++ [【Linux】网络--传输层--深入理解TCP协议](https://blog.csdn.net/s_little_monster/article/details/146165880)
+
