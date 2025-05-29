@@ -161,3 +161,17 @@
 
 + [欧洲小国运动会开幕 九国竞逐“迷你版奥运”](https://news.cctv.com/2025/05/27/ARTI6FlCwwHRcutQXP6IEThs250527.shtml)
 
++ [哈马斯称诉求未获以方回应 对美方加沙停火提案感到失望](https://news.cctv.com/2025/05/30/ARTI0iOULrAh7y10N3NyrJwm250530.shtml)
+
++ [野火肆虐 加拿大萨斯喀彻温省进入紧急状态](https://news.cctv.com/2025/05/30/ARTIHQDNMLJEEgoMU3q9gPds250530.shtml)
+
++ [禁招国际生案哈佛再获胜 美政府改立场提出“30天限期”](https://news.cctv.com/2025/05/30/ARTIt3rGSjsnxRdrJ7W8rIbI250530.shtml)
+
++ [胡塞武装称过去一周对以色列多地目标实施打击](https://news.cctv.com/2025/05/30/ARTIz9P1fpdfQDVFpRcFzM97250530.shtml)
+
++ [英国利物浦汽车冲撞人群事件嫌疑人身份公布 警方通报调查进展](https://news.cctv.com/2025/05/30/ARTI2df8SaIurLmJpe4lVt1X250530.shtml)
+
++ [美国联邦法官“叫停”禁止哈佛大学招收国际学生政策](https://news.cctv.com/2025/05/30/ARTIvg2pLezh6jyW7ARoARPo250530.shtml)
+
++ [马拉多纳死亡案法官被指参与纪录片拍摄 该案将进行重审](https://news.cctv.com/2025/05/30/ARTIFOKiuYxOVxaXe1mR6N0U250530.shtml)
+
