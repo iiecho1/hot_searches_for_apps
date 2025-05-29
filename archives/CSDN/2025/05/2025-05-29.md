@@ -189,3 +189,13 @@
 
 + [Spring Boot项目中实现单点登录(SSO)完整指南](https://blog.csdn.net/wa_ka_ka/article/details/148293899)
 
++ [基于蓝耘平台的 JupyterLab 全面解析：理论与实践](https://blog.csdn.net/2301_76341691/article/details/148192360)
+
++ [【基于SpringBoot的图书购买系统】操作Jedis对图书图书的增-删-改：从设计到实战的全栈开发指南](https://blog.csdn.net/2302_79527141/article/details/148308020)
+
++ [【华为开发者空间 x DeepSeek】服务器运行Ollama并在本地调用](https://blog.csdn.net/sjb2274540432/article/details/148098944)
+
++ [Maven Profile多环境构建实战指南](https://blog.csdn.net/lilinhai548/article/details/148217774)
+
++ [决策树 & GBDT & XGBoost & LightGBM](https://blog.csdn.net/qq_41764621/article/details/148252219)
+

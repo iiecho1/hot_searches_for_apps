@@ -229,3 +229,7 @@
 
 + [中国驻韩国大使馆发布关于韩大选及端午节假期安全提醒](https://news.cctv.com/2025/05/29/ARTII1oFs7Jj7bc2krNKF1vE250529.shtml)
 
++ [视频丨以色列前总理：以军在加沙的行动构成“战争罪”](https://news.cctv.com/2025/05/29/ARTIWRLmottj9xDY3YSDfnuw250529.shtml)
+
++ [墨西哥8名军方人员遭地雷爆炸遇难 总统哀悼](https://news.cctv.com/2025/05/29/ARTIs0vLnw1Soojm0xhhwxQn250529.shtml)
+
