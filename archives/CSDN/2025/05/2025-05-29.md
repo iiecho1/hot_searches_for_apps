@@ -167,3 +167,9 @@
 
 + [【Linux】网络--传输层--深入理解TCP协议](https://blog.csdn.net/s_little_monster/article/details/146165880)
 
++ [（FREE）快速掌握阿里FastJSON：高效Java-JSON转换实战](https://blog.csdn.net/CaiJIXC/article/details/148283528)
+
++ [FPGA实现CNN卷积层：高效窗口生成模块设计与验证](https://blog.csdn.net/JInx299/article/details/148284946)
+
++ [百度量子蜘蛛3.0横空出世，搜索引擎迎来“量子跃迁“级革命](https://blog.csdn.net/2506_92055592/article/details/148267881)
+
