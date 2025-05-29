@@ -147,3 +147,11 @@
 
 + [什么是香农极限？](https://blog.csdn.net/ccsss22/article/details/148287552)
 
++ [深度学习能取代机器学习吗？](https://blog.csdn.net/wangfantastic/article/details/148257092)
+
++ [pyｔｈｏｎ 生成复杂表格，自动分页等功能](https://blog.csdn.net/fqfq123456/article/details/148254710)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(二十八) -＞ 开发云对象](https://blog.csdn.net/weixin_74809706/article/details/148304957)
+
++ [基于MATLAB的纯电动汽车动力性仿真分析：理论建模、代码实战与行业应用](https://blog.csdn.net/weixin_62244995/article/details/148236936)
+

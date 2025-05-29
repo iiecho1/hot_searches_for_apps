@@ -39,3 +39,7 @@
 
 + [友友们， M4 Macbook Air 13 寸， 32G+256G 这配置干后端开发是不是能战五年？](https://www.v2ex.com/t/1135050)
 
++ [这里搞 Rust 的多吗？](https://www.v2ex.com/t/1135037)
+
++ [路边停车，各位都是如何应对的？](https://www.v2ex.com/t/1135063)
+

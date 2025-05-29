@@ -201,3 +201,5 @@
 
 + [墨西哥8名军人遭遇地雷爆炸 全部殉职](https://news.cctv.com/2025/05/29/ARTIzHtDc1ALR4U1Bar3Z1ZA250529.shtml)
 
++ [第21届韩国总统大选提前投票今起举行](https://news.cctv.com/2025/05/29/ARTIdAkv8hwxhju03fO5YpOP250529.shtml)
+
