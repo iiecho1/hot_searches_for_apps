@@ -183,3 +183,7 @@
 
 + [特朗普政府削减美科研经费引众怒 美16州提起诉讼](https://news.cctv.com/2025/05/29/ARTIKo46rYDD7edU05rVlXXZ250529.shtml)
 
++ [马斯克官宣即将离开特朗普政府](https://news.cctv.com/2025/05/29/ARTINNIg0GqAeFKbGUOfoAdU250529.shtml)
+
++ [裁定越权 美联邦法院阻止特朗普4月2日关税政策生效](https://news.cctv.com/2025/05/29/ARTI5MIp7FsBi5bRxtgJ5Vp3250529.shtml)
+
