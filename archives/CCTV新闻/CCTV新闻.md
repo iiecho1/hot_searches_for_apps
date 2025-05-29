@@ -203,3 +203,11 @@
 
 + [第21届韩国总统大选提前投票今起举行](https://news.cctv.com/2025/05/29/ARTIdAkv8hwxhju03fO5YpOP250529.shtml)
 
++ [韩媒：韩国一载有4人海军巡逻机坠落 山腰冒起浓烟](https://news.cctv.com/2025/05/29/ARTIXS5lFQYiPh05VZVcokL0250529.shtml)
+
++ [纳米比亚纪念种族屠杀遇难者](https://news.cctv.com/2025/05/29/ARTI6Njh85vKDH9lOSsVUxPd250529.shtml)
+
++ [欧盟与阿联酋正式启动自由贸易协定谈判](https://news.cctv.com/2025/05/29/ARTIuPrHD0dS8KYkZiOvkNBN250529.shtml)
+
++ [美法院裁定禁止执行特朗普政府多个关税行政令](https://news.cctv.com/2025/05/29/ARTIFjd35Z5nWKXRMhgtXcPb250529.shtml)
+
