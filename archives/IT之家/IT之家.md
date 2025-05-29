@@ -63,3 +63,19 @@
 
 + [苹果 macOS 26 首曝：17GB 安装包，部分老款 Mac 无缘更新](https://m.ithome.com/html/856735.htm)
 
++ [苹果 iOS 26 新特性曝光：锁屏显示预估充满电时间](https://m.ithome.com/html/856746.htm)
+
++ [小米 YU7 支持后排座椅靠背电动放倒抬起，100&#176;~135&#176; 角度无级调节](https://m.ithome.com/html/856722.htm)
+
++ [消息称华为 MatePad Pro 12.2 2025 平板搭载麒麟 T92A / 9020A 处理器](https://m.ithome.com/html/856766.htm)
+
++ [消息称小米还有一个旗舰平板，换装 12.5 英寸 LCD 屏](https://m.ithome.com/html/856775.htm)
+
++ [小鹏 MONA M03 加推 Max、Plus 新车，上市 1 小时大定 12566 台](https://m.ithome.com/html/856730.htm)
+
++ [小米 15S Pro、Pad 7 Ultra 等新机保持上市版本迭代，预计完成升级 1 个月左右推送年中 OTA](https://m.ithome.com/html/856786.htm)
+
++ [realme 真我 Neo7 Turbo 手机发布：天玑 9400e 芯片 + 7200mAh 电池，1999 元起](https://m.ithome.com/html/856856.htm)
+
++ [5799 元 → 4089 元：小米 15 Pro 手机 16+512G 版京东自营 7 折购](https://m.ithome.com/html/856759.htm)
+

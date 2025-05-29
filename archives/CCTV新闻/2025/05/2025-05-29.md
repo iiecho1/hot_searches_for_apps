@@ -233,3 +233,7 @@
 
 + [墨西哥8名军方人员遭地雷爆炸遇难 总统哀悼](https://news.cctv.com/2025/05/29/ARTIs0vLnw1Soojm0xhhwxQn250529.shtml)
 
++ [英国利物浦汽车冲撞人群事件已致79人受伤 最小伤者仅9岁](https://news.cctv.com/2025/05/29/ARTIYUmCQUv70nDn1v0HmcMH250529.shtml)
+
++ [西迪·乌尔德·塔赫当选新一任非洲开发银行行长](https://news.cctv.com/2025/05/29/ARTI6LYMfqvucCowC2SPIR5x250529.shtml)
+
