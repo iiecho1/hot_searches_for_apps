@@ -211,3 +211,5 @@
 
 + [美法院裁定禁止执行特朗普政府多个关税行政令](https://news.cctv.com/2025/05/29/ARTIFjd35Z5nWKXRMhgtXcPb250529.shtml)
 
++ [韩国一客机在越南降落时短暂偏离跑道 起落架轮胎受损](https://news.cctv.com/2025/05/29/ARTIJrwPWd0ky8xr4P3eBDhX250529.shtml)
+

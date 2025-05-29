@@ -155,3 +155,7 @@
 
 + [基于MATLAB的纯电动汽车动力性仿真分析：理论建模、代码实战与行业应用](https://blog.csdn.net/weixin_62244995/article/details/148236936)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式计算在基因编辑数据分析与精准医疗中的应用进展（271）](https://blog.csdn.net/atgfg/article/details/148227191)
+
++ [Redis击穿，穿透和雪崩详解以及解决方案](https://blog.csdn.net/hqxstudying/article/details/148293898)
+
