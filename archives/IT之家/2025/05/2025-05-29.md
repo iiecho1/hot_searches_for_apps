@@ -57,3 +57,9 @@
 
 + [王腾回应小米 REDMI 系列何时用上玄戒芯片：真的急不来，我们一起期待](https://m.ithome.com/html/856605.htm)
 
++ [消息称苹果重塑六大系统：iOS 26 领衔，命名向年份看齐](https://m.ithome.com/html/856728.htm)
+
++ [DeepSeek R1 模型完成小版本试升级](https://m.ithome.com/html/856686.htm)
+
++ [苹果 macOS 26 首曝：17GB 安装包，部分老款 Mac 无缘更新](https://m.ithome.com/html/856735.htm)
+

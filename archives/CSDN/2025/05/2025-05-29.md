@@ -187,3 +187,5 @@
 
 + [回头看，FPGA+RK3576方案的功耗性能优势](https://blog.csdn.net/haoxingheng/article/details/148285894)
 
++ [Spring Boot项目中实现单点登录(SSO)完整指南](https://blog.csdn.net/wa_ka_ka/article/details/148293899)
+

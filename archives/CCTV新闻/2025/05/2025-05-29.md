@@ -227,3 +227,5 @@
 
 + [外媒走进新疆：“多民族和谐共处构成生动的中国画卷”](https://news.cctv.com/2025/05/29/ARTI5oQkdUPl1CMvkUUKIkNM250529.shtml)
 
++ [中国驻韩国大使馆发布关于韩大选及端午节假期安全提醒](https://news.cctv.com/2025/05/29/ARTII1oFs7Jj7bc2krNKF1vE250529.shtml)
+
