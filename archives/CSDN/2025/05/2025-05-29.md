@@ -125,3 +125,17 @@
 
 + [哈希算法：原理、应用、安全演进与推荐](https://blog.csdn.net/ruanjiananquan99/article/details/148264524)
 
++ [Java 大视界 -- Java 大数据机器学习模型在电商用户画像构建与精准营销中的应用（270）](https://blog.csdn.net/atgfg/article/details/148216055)
+
++ [顶会新方向：卡尔曼滤波＋目标检测](https://blog.csdn.net/YunTM/article/details/148142273)
+
++ [OpenCv高阶（十三）——人脸检测](https://blog.csdn.net/jdjhcn/article/details/147526298)
+
++ [C/C++跳动的爱心](https://blog.csdn.net/m0_68111267/article/details/148283137)
+
++ [Vue3进阶教程：1.初次了解vue](https://blog.csdn.net/tao5090694/article/details/148264740)
+
++ [LabVIEW旋转机械智能监测诊断系统](https://blog.csdn.net/bjcyck/article/details/148295712)
+
++ [四、web安全-行业术语](https://blog.csdn.net/lushuaibao/article/details/148257210)
+

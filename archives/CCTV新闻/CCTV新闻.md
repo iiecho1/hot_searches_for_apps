@@ -187,3 +187,9 @@
 
 + [裁定越权 美联邦法院阻止特朗普4月2日关税政策生效](https://news.cctv.com/2025/05/29/ARTI5MIp7FsBi5bRxtgJ5Vp3250529.shtml)
 
++ [全球南方联合自强的一次开创性行动](https://news.cctv.com/2025/05/29/ARTIPLuy2KNFhWy9CHcIqzB3250529.shtml)
+
++ [委内瑞拉官员：发现美国资助对委恐怖主义行动的明确证据](https://news.cctv.com/2025/05/29/ARTIFxwdI1uiErHZyYao0wtk250529.shtml)
+
++ [“中国式现代化为全球发展注入了新动能”](https://news.cctv.com/2025/05/29/ARTIKzw0KR1fXE5ihsDtPNIk250529.shtml)
+
