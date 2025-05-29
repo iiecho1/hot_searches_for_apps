@@ -125,3 +125,5 @@
 
 + [Spring Boot 深度集成 Ollama 指南：从聊天模型配置到生产级应用开发](https://blog.csdn.net/m0_73610345/article/details/148260867)
 
++ [Spring Boot事务失效场景及解决方案](https://blog.csdn.net/Emmien/article/details/148259274)
+
