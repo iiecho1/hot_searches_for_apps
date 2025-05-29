@@ -107,3 +107,17 @@
 
 + [Spring Boot微服务架构（六）：伪装的微服务有哪些问题？](https://blog.csdn.net/ChailangCompany/article/details/148243631)
 
++ [Java 大视界 -- Java 大数据在智能政务舆情监测与引导中的情感分析与话题挖掘技术（272）](https://blog.csdn.net/atgfg/article/details/148241986)
+
++ [什么是生成式人工智能？](https://blog.csdn.net/cui_yonghua/article/details/148307632)
+
++ [TensorFlow深度学习实战（18）——K-means 聚类详解](https://blog.csdn.net/LOVEmy134611/article/details/148295678)
+
++ [三十一、面向对象底层逻辑-SpringMVC九大组件之RequestToViewNameTranslator接口设计哲学](https://blog.csdn.net/u013883798/article/details/148292736)
+
++ [【Android笔记】记一次 CMake 构建 Filament Android 库的完整排错过程（安卓交叉编译、CMake、Ninja）](https://blog.csdn.net/qq_41140324/article/details/148269532)
+
++ [从0到1的破局密码：24堂设计思维课，重塑科技人的创新基因](https://blog.csdn.net/herosunly/article/details/148277497)
+
++ [基于MATLAB的纯电动汽车动力性仿真分析：理论建模、代码实战与行业应用](https://blog.csdn.net/weixin_62244995/article/details/148236936)
+
