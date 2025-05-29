@@ -121,3 +121,7 @@
 
 + [基于MATLAB的纯电动汽车动力性仿真分析：理论建模、代码实战与行业应用](https://blog.csdn.net/weixin_62244995/article/details/148236936)
 
++ [【MySQL】联合查询（下）](https://blog.csdn.net/2402_86304740/article/details/147654431)
+
++ [Spring Boot 深度集成 Ollama 指南：从聊天模型配置到生产级应用开发](https://blog.csdn.net/m0_73610345/article/details/148260867)
+
