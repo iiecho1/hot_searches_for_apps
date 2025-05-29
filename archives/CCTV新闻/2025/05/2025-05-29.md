@@ -219,3 +219,11 @@
 
 + [强化文化传承发展 中阿图书馆深化合作](https://news.cctv.com/2025/05/29/ARTIpubscISPbu2esZGlU1Yk250529.shtml)
 
++ [海合会官员：中国、海合会、东盟三方合作战略意义深远](https://news.cctv.com/2025/05/29/ARTItfkG2n9rQv6sE9XSUy7A250529.shtml)
+
++ [图尔古孙水电站见证中哈“友谊因互惠而牢固”](https://news.cctv.com/2025/05/29/ARTIuiBFm1uZ38lMK38ELS2Q250529.shtml)
+
++ [阿根廷边远省份产业转型中的“中国能量”](https://news.cctv.com/2025/05/29/ARTIOByazvwnFJmbXusBYEtY250529.shtml)
+
++ [外媒走进新疆：“多民族和谐共处构成生动的中国画卷”](https://news.cctv.com/2025/05/29/ARTI5oQkdUPl1CMvkUUKIkNM250529.shtml)
+
