@@ -199,3 +199,7 @@
 
 + [决策树 & GBDT & XGBoost & LightGBM](https://blog.csdn.net/qq_41764621/article/details/148252219)
 
++ [【AI智能体】Coze 插件从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/147855617)
+
++ [网络安全之XSS漏洞](https://blog.csdn.net/anquan2233/article/details/148286365)
+
