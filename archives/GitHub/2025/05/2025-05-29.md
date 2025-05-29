@@ -33,3 +33,23 @@
 
 + [facebook/react-native](https://github.com/facebook/react-native)
 
++ [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
+
++ [vuejs/core](https://github.com/vuejs/core)
+
++ [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
++ [livestorejs/livestore](https://github.com/livestorejs/livestore)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+
++ [angular/angular](https://github.com/angular/angular)
+
++ [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)
+
++ [ant-design/ant-design](https://github.com/ant-design/ant-design)
+
++ [fastapi/fastapi](https://github.com/fastapi/fastapi)
+

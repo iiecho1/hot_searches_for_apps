@@ -179,3 +179,11 @@
 
 + [排球场地线检测系统源码和数据集：改进yolo11-HSFPN【完整源码+数据集+部署教程】](https://blog.csdn.net/weixin_43860634/article/details/148289001)
 
++ [网络安全十大漏洞](https://blog.csdn.net/lubiii_/article/details/148290369)
+
++ [Hadoop复习（一）](https://blog.csdn.net/lzx13290757580/article/details/148277030)
+
++ [YOLO实战项目专栏—学习YOLO实战项目的合集宝典](https://blog.csdn.net/weixin_52908342/article/details/148265851)
+
++ [回头看，FPGA+RK3576方案的功耗性能优势](https://blog.csdn.net/haoxingheng/article/details/148285894)
+
