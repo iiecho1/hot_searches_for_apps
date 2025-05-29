@@ -43,3 +43,9 @@
 
 + [今晚 4 小时 98 元！酷态科 10 号电能棒国补跌破百元](https://m.ithome.com/html/856653.htm)
 
++ [小米澎湃 OS 2 年中升级公告发布，首批机型今日起陆续推送](https://m.ithome.com/html/856515.htm)
+
++ [小米玄戒 O1 旗舰处理器创始纪念品亮相：内嵌芯片、外刻设计图，采用铝板材质](https://m.ithome.com/html/856512.htm)
+
++ [小米王腾：REDMI K80 至尊版将会是行业 3K 档最豪华的性能之王](https://m.ithome.com/html/856499.htm)
+
