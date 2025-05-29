@@ -195,3 +195,9 @@
 
 + [外国留学生在重庆体验端午民俗](https://news.cctv.com/2025/05/29/ARTI2Hsx65xs6QKIjpS8v5eT250529.shtml)
 
++ [国际观察丨“事前投票”开启 韩国大选悬念犹存](https://news.cctv.com/2025/05/29/ARTI4gYnPSLZSY0tLrTf29wi250529.shtml)
+
++ [美国务院正在审查与哈佛大学相关的所有签证持有人](https://news.cctv.com/2025/05/29/ARTIkQuDnbCD0eM3zexKMOyb250529.shtml)
+
++ [墨西哥8名军人遭遇地雷爆炸 全部殉职](https://news.cctv.com/2025/05/29/ARTIzHtDc1ALR4U1Bar3Z1ZA250529.shtml)
+
