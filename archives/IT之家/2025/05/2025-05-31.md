@@ -41,3 +41,5 @@
 
 + [新款沃尔沃 S90 上市，限时参考尊享价 30.09 万元起](https://m.ithome.com/html/856998.htm)
 
++ [按照年份命名，又有传闻称苹果 WWDC25 将发布 iOS 26 / macOS 26](https://m.ithome.com/html/857005.htm)
+
