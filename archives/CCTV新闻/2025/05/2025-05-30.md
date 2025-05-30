@@ -185,3 +185,7 @@
 
 + [日本政府宣布解除对叙利亚部分制裁](https://news.cctv.com/2025/05/30/ARTITfEYwJdjeA0z2ALmDLlO250530.shtml)
 
++ [“中文学习热”为中沙文化年增添青春色彩](https://news.cctv.com/2025/05/30/ARTIzRBmI3yhp9cgn7Jc2d3f250530.shtml)
+
++ [国际乒联回应选举争议 将调查确定各方责任](https://news.cctv.com/2025/05/30/ARTI3ITRUYEJdXaNMOBgKLUS250530.shtml)
+
