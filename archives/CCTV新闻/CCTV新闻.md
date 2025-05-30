@@ -161,3 +161,5 @@
 
 + [白宫称暂停学生签证面谈 美驻华大使馆：签证申请和面谈目前正常进行](https://news.cctv.com/2025/05/28/ARTIlOc5sLOhd9Ut4fzI2c69250528.shtml)
 
++ [以色列防长：哈马斯要么接受美方提案 要么面临毁灭](https://news.cctv.com/2025/05/31/ARTIGdmKuYXeoCeHzGeoZCwM250531.shtml)
+
