@@ -71,3 +71,11 @@
 
 + [新款沃尔沃 S90 上市，限时参考尊享价 30.09 万元起](https://m.ithome.com/html/856998.htm)
 
++ [华为 Mate XT | ULTIMATE DESIGN 三折叠手机获鸿蒙 HarmonyOS 5.0.1.125 升级，新增多屏壁纸等功能](https://m.ithome.com/html/857010.htm)
+
++ [华为 nova 14 手机开售：鸿蒙 HarmonyOS 5 加持，2699 元起（国补价 2251.65 元起）](https://m.ithome.com/html/857057.htm)
+
++ [按照年份命名，又有传闻称苹果 WWDC25 将发布 iOS 26 / macOS 26](https://m.ithome.com/html/857005.htm)
+
++ [【IT之家评测室】小米平板 7 Ultra 柔光版体验：玄戒 O1 芯片表现超预期，综合体验全面](https://m.ithome.com/html/857129.htm)
+

@@ -37,3 +37,15 @@
 
 + [fastapi/fastapi](https://github.com/fastapi/fastapi)
 
++ [getzep/graphiti](https://github.com/getzep/graphiti)
+
++ [anthropics/courses](https://github.com/anthropics/courses)
+
++ [ccxt/ccxt](https://github.com/ccxt/ccxt)
+
++ [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+
