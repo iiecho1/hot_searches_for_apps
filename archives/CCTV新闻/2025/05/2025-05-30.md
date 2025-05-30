@@ -201,3 +201,11 @@
 
 + [巴西获认证为无需接种疫苗仍可消除口蹄疫的国家](https://news.cctv.com/2025/05/30/ARTIOlqxYZ6TwXUNZKkcsDdJ250530.shtml)
 
++ [俄罗斯启动入境数字化试点 免签人员须提前72小时申报](https://news.cctv.com/2025/05/30/ARTIO91mWC7gtJPM6QTJj4ot250530.shtml)
+
++ [危地马拉确认此前发现玛雅城市遗址年代](https://news.cctv.com/2025/05/30/ARTIMYokr0OQuvJu6y68JuWH250530.shtml)
+
++ [泰国一幼儿园发生食物中毒事件 超200人出现症状](https://news.cctv.com/2025/05/30/ARTICbWXpo4EgcWahPLe8UFy250530.shtml)
+
++ [印尼西爪哇省发生山体滑坡 致4人遇难20人失踪](https://news.cctv.com/2025/05/30/ARTIxNfZutTMfT7HmQjgZqUh250530.shtml)
+
