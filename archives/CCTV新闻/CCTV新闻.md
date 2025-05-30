@@ -189,3 +189,9 @@
 
 + [国际乒联回应选举争议 将调查确定各方责任](https://news.cctv.com/2025/05/30/ARTI3ITRUYEJdXaNMOBgKLUS250530.shtml)
 
++ [苏丹喀土穆州霍乱疫情两天致70人死亡](https://news.cctv.com/2025/05/30/ARTI0EaMeSO7opgGs04l6LKf250530.shtml)
+
++ [伊朗外长：伊方“并不确定”与美国接近达成协议](https://news.cctv.com/2025/05/30/ARTIbOt68neObZREl4RrafRY250530.shtml)
+
++ [加沙停火再生变数：以色列“接受”美方案、哈马斯不认可](https://news.cctv.com/2025/05/30/ARTIvbgDrfnIuUW43F6ntKWO250530.shtml)
+

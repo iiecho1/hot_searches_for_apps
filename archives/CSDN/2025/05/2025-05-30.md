@@ -159,3 +159,7 @@
 
 + [【论文阅读】《PEACE: Empowering Geologic Map Holistic Understanding with MLLMs》](https://blog.csdn.net/weixin_42475060/article/details/148134051)
 
++ [#RabbitMQ# 消息队列进阶](https://blog.csdn.net/2302_79847831/article/details/148234564)
+
++ [[网页五子棋][用户模块]数据库设计和配置(MyBatis)、约定前后端交互接口、服务器开发](https://blog.csdn.net/Yeeear/article/details/148242155)
+
