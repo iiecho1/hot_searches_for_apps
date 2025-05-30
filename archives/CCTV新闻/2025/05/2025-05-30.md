@@ -177,3 +177,7 @@
 
 + [金正恩观摩朝鲜人民军大联合部队炮兵部队火炮射击比赛](https://news.cctv.com/2025/05/30/ARTIQQIshedttx1KGVINx4Ri250530.shtml)
 
++ [白宫称美国法院“叫停”关税是司法越权](https://news.cctv.com/2025/05/30/ARTI7TWH2579zLjEG604s4ii250530.shtml)
+
++ [特朗普：5月30日将是马斯克在政府效率部最后一天](https://news.cctv.com/2025/05/30/ARTI6oGFty3TNOieHC7zIpM1250530.shtml)
+

@@ -131,3 +131,13 @@
 
 + [【python深度学习】Day 39 图像数据与显存](https://blog.csdn.net/2203_75479908/article/details/148314339)
 
++ [前人栽树，后人乘凉——AdaBoost](https://blog.csdn.net/2401_88885149/article/details/148289381)
+
++ [HTTPS加密通信详解及在Spring Boot中的实现](https://blog.csdn.net/wa_ka_ka/article/details/148293882)
+
++ [AI 眼镜新纪元：贴片式TF卡与 SOC 芯片的黄金组合破局智能穿戴](https://blog.csdn.net/sixpp/article/details/148313627)
+
++ [Spring Boot微服务架构（七）：服务间通信方式有哪些？](https://blog.csdn.net/ChailangCompany/article/details/148268852)
+
++ [贪心算法实战篇2](https://blog.csdn.net/qq_63037719/article/details/148288449)
+
