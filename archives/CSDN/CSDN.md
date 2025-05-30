@@ -167,3 +167,9 @@
 
 + [AI全栈之路：Ubuntu云服务器部署Spring + Vue + MySql](https://blog.csdn.net/sjw890821sjw/article/details/148321859)
 
++ [HTML5实现简洁的端午节节日网站源码](https://blog.csdn.net/weixin_43151418/article/details/148314760)
+
++ [用DeepSeek和Cursor从零打造智能代码审查工具：我的AI编程实践](https://blog.csdn.net/qq_44273429/article/details/148333536)
+
++ [为什么混合专家模型（MoE）如此高效：从架构原理到技术实现全解析](https://blog.csdn.net/m0_46510245/article/details/148331740)
+
