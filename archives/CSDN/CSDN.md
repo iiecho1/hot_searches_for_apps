@@ -195,3 +195,13 @@
 
 + [Java消息队列应用：Kafka、RabbitMQ选择与优化](https://blog.csdn.net/shrgegrb/article/details/148292228)
 
++ [Java 大视界 -- Java 大数据在智能安防视频监控中的异常事件快速响应与处理机制（273）](https://blog.csdn.net/atgfg/article/details/148262828)
+
++ [STM32 搭配 嵌入式SD卡在智能皮电手环中的应用全景评测](https://blog.csdn.net/qyj19920704/article/details/148331931)
+
++ [【开源工具】音频格式转换大师：基于PyQt5与FFmpeg的高效格式转换工具开发全解析](https://blog.csdn.net/Clay_K/article/details/148337280)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | Split Landing Page（拆分展示页）](https://blog.csdn.net/qq_44808710/article/details/148318233)
+
++ [Unity3D仿星露谷物语开发55之保存游戏到文件](https://blog.csdn.net/benben044/article/details/148267149)
+
