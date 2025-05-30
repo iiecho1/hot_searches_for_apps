@@ -163,3 +163,7 @@
 
 + [[网页五子棋][用户模块]数据库设计和配置(MyBatis)、约定前后端交互接口、服务器开发](https://blog.csdn.net/Yeeear/article/details/148242155)
 
++ [ElasticSearch迁移至openGauss](https://blog.csdn.net/GaussDB/article/details/148310513)
+
++ [AI全栈之路：Ubuntu云服务器部署Spring + Vue + MySql](https://blog.csdn.net/sjw890821sjw/article/details/148321859)
+
