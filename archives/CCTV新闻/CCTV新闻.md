@@ -163,3 +163,15 @@
 
 + [以色列防长：哈马斯要么接受美方提案 要么面临毁灭](https://news.cctv.com/2025/05/31/ARTIGdmKuYXeoCeHzGeoZCwM250531.shtml)
 
++ [欧盟：欧美贸易谈判前景面临不确定性](https://news.cctv.com/2025/05/31/ARTIw30VPqoIbnHoBg9EbilI250531.shtml)
+
++ [特朗普称将把进口钢铁关税提高至50%](https://news.cctv.com/2025/05/31/ARTIjOTfOcSG6pz9yWFl13qA250531.shtml)
+
++ [特朗普：仍希望有国际学生在美国学习](https://news.cctv.com/2025/05/31/ARTICSQbjEzrVubWIuEU73jX250531.shtml)
+
++ [苏丹外交部指责快速支援部队袭击医院 造成16人死亡](https://news.cctv.com/2025/05/31/ARTIhqWlCgQR0IqZnM6NYFtu250531.shtml)
+
++ [官宣正式“分手” 特朗普马斯克都说了什么“临别感言”](https://news.cctv.com/2025/05/31/ARTI2inTonIKCLveFepBIuwr250531.shtml)
+
++ [古巴外交部召见美国临时代办 抗议其无礼行为](https://news.cctv.com/2025/05/31/ARTIQR5UYNZJzz6tAynsft8S250531.shtml)
+

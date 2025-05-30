@@ -139,3 +139,7 @@
 
 + [HTML5 Canvas 星空战机游戏开发全解析](https://blog.csdn.net/qq_49516462/article/details/148300480)
 
++ [领军计划学科能力综合测试（TACA）之抽象代数（群论）板块、科普](https://blog.csdn.net/dllglvzhenfeng/article/details/148278046)
+
++ [基于 GitLab CI + Inno Setup 实现 Windows 程序自动化打包发布方案](https://blog.csdn.net/weixin_43988887/article/details/148306243)
+
