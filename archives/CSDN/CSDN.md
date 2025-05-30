@@ -117,3 +117,19 @@
 
 + [Python爬虫实战：抓取百度15天天气预报数据](https://blog.csdn.net/weixin_74994771/article/details/148265774)
 
++ [MCU STM32搭配存储SD NAND（贴片式T卡）于智能皮电手环（Galvanic Skin Response, GSR 手环）的全方位评测](https://blog.csdn.net/sixpp/article/details/148331933)
+
++ [Java 大视界 -- Java 大数据在智能教育学习社区用户互动分析与社区活跃度提升中的应用（274）](https://blog.csdn.net/atgfg/article/details/148266729)
+
++ [【MySQL】用户管理](https://blog.csdn.net/Sakura_ding/article/details/148314437)
+
++ [基于FPGA的计数译码显示电路（仿真）](https://blog.csdn.net/2301_77402451/article/details/148317020)
+
++ [HTTPS加密通信详解及在Spring Boot中的实现](https://blog.csdn.net/wa_ka_ka/article/details/148293882)
+
++ [2021年认证杯SPSSPRO杯数学建模D题(第二阶段)停车的策略全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/148289897)
+
++ [MySQL的基本架构](https://blog.csdn.net/2301_81948543/article/details/148316759)
+
++ [【论文阅读】《PEACE: Empowering Geologic Map Holistic Understanding with MLLMs》](https://blog.csdn.net/weixin_42475060/article/details/148134051)
+
