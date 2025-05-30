@@ -141,3 +141,21 @@
 
 + [贪心算法实战篇2](https://blog.csdn.net/qq_63037719/article/details/148288449)
 
++ [一、Sqoop历史发展及原理](https://blog.csdn.net/2401_83830408/article/details/148320384)
+
++ [AIGC与影视制作：技术革命、产业重构与未来图景](https://blog.csdn.net/qq_32682301/article/details/148321037)
+
++ [深入 RAG（检索增强生成）系统架构：如何构建一个能查资料的大语言模型系统](https://blog.csdn.net/weixin_53269650/article/details/148255475)
+
++ [前端八股之HTML](https://blog.csdn.net/Xiao_die888/article/details/148260138)
+
++ [Maven 仓库类型与镜像策略](https://blog.csdn.net/lilinhai548/article/details/148217831)
+
++ [LabVIEW输血袋字符智能检测系统](https://blog.csdn.net/bjcyck/article/details/148322347)
+
++ [第三届宁波技能大赛网络安全赛项样题](https://blog.csdn.net/Aluxian_/article/details/148279378)
+
++ [五、web安全--XSS漏洞（1）--XSS漏洞利用全过程](https://blog.csdn.net/lushuaibao/article/details/148281886)
+
++ [【论文阅读】《PEACE: Empowering Geologic Map Holistic Understanding with MLLMs》](https://blog.csdn.net/weixin_42475060/article/details/148134051)
+

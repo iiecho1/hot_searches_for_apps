@@ -181,3 +181,7 @@
 
 + [特朗普：5月30日将是马斯克在政府效率部最后一天](https://news.cctv.com/2025/05/30/ARTI6oGFty3TNOieHC7zIpM1250530.shtml)
 
++ [韩国四月生产、消费、投资环比全面下滑](https://news.cctv.com/2025/05/30/ARTI2RzeHgotQ3UGzstXH3IQ250530.shtml)
+
++ [日本政府宣布解除对叙利亚部分制裁](https://news.cctv.com/2025/05/30/ARTITfEYwJdjeA0z2ALmDLlO250530.shtml)
+
