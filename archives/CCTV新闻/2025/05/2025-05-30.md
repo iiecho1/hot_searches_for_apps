@@ -175,3 +175,5 @@
 
 + [马拉多纳死亡案法官被指参与纪录片拍摄 该案将进行重审](https://news.cctv.com/2025/05/30/ARTIFOKiuYxOVxaXe1mR6N0U250530.shtml)
 
++ [金正恩观摩朝鲜人民军大联合部队炮兵部队火炮射击比赛](https://news.cctv.com/2025/05/30/ARTIQQIshedttx1KGVINx4Ri250530.shtml)
+
