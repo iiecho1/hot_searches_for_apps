@@ -49,3 +49,25 @@
 
 + [小米王腾：REDMI K80 至尊版将会是行业 3K 档最豪华的性能之王](https://m.ithome.com/html/856499.htm)
 
++ [DeepSeek-R1-0528 更新官方详解：思考更深、推理更强，整体表现接近 o3](https://m.ithome.com/html/856990.htm)
+
++ [华为余承东：宽度对于阅读体验帮助非常大，所以 Pura X 阔折叠手机屏幕比例为 16:10](https://m.ithome.com/html/857006.htm)
+
++ [苹果 iPhone 17 标准版屏幕曝料：6.12 → 6.27 英寸，120Hz ProMotion 刷新率](https://m.ithome.com/html/857029.htm)
+
++ [小米：YU7 汽车天际屏可视峰值亮度 1200nits，全局 903 分区控光，强光也能看清](https://m.ithome.com/html/857024.htm)
+
++ [vivo S30 Pro mini 手机发布：6.31 英寸多彩小直屏，3499 元（国补价 2999 元）起](https://m.ithome.com/html/856984.htm)
+
++ [4299 → 2900 元：小米 REDMI K80 Pro 16+512G 国补新低，搭载骁龙 8 至尊](https://m.ithome.com/html/857003.htm)
+
++ [中国信通院、vivo、荣耀、OPPO、小米、华为联合倡议：共建终端智能体生态](https://m.ithome.com/html/856927.htm)
+
++ [哪吒汽车回应上海总部 LOGO 被连夜拆除：因场地到期，公司要搬家](https://m.ithome.com/html/856910.htm)
+
++ [小米汽车辅助驾驶再迎大将，消息称前一汽南京 CTO 陈光加入](https://m.ithome.com/html/856961.htm)
+
++ [“一天内完成更新”：腾讯多款产品接入 DeepSeek R1-0528 最新版](https://m.ithome.com/html/857023.htm)
+
++ [新款沃尔沃 S90 上市，限时参考尊享价 30.09 万元起](https://m.ithome.com/html/856998.htm)
+

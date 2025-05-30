@@ -175,3 +175,11 @@
 
 + [域名解析怎么查询？有哪些域名解析查询方式？](https://blog.csdn.net/weixin_53018687/article/details/148283410)
 
++ [【电路笔记 TMS320F28335DSP】McBSP 从源时钟得到 生成时钟 CLKG & 帧同步信号 FSG](https://blog.csdn.net/ResumeProject/article/details/148314276)
+
++ [【QQ音乐】sign签名| data参数 | AES-GCM加密 | webpack（上）](https://blog.csdn.net/qq_44990881/article/details/148257842)
+
++ [ZigBee 协议：开启物联网低功耗通信新时代](https://blog.csdn.net/a247534855/article/details/148315700)
+
++ [.NET 开源工业视觉系统 OpenIVS 快速搭建自动化检测平台](https://blog.csdn.net/xdpcxq1029/article/details/148305897)
+

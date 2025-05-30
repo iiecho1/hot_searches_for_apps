@@ -199,3 +199,5 @@
 
 + [“伊斯兰国”宣称对叙利亚新政权发动首次袭击](https://news.cctv.com/2025/05/30/ARTIVw1ZGgq4tMENhWzVN2GY250530.shtml)
 
++ [巴西获认证为无需接种疫苗仍可消除口蹄疫的国家](https://news.cctv.com/2025/05/30/ARTIOlqxYZ6TwXUNZKkcsDdJ250530.shtml)
+
