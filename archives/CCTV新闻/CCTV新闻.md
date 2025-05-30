@@ -195,3 +195,7 @@
 
 + [加沙停火再生变数：以色列“接受”美方案、哈马斯不认可](https://news.cctv.com/2025/05/30/ARTIvbgDrfnIuUW43F6ntKWO250530.shtml)
 
++ [泰国发生枪击事件已致3死1伤](https://news.cctv.com/2025/05/30/ARTI6E36SwNV6NUzFxyQhuDN250530.shtml)
+
++ [“伊斯兰国”宣称对叙利亚新政权发动首次袭击](https://news.cctv.com/2025/05/30/ARTIVw1ZGgq4tMENhWzVN2GY250530.shtml)
+
