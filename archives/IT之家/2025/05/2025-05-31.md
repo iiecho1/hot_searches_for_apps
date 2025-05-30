@@ -25,3 +25,19 @@
 
 + [百度起诉小米等不正当竞争，将于 6 月开庭](https://m.ithome.com/html/857187.htm)
 
++ [DeepSeek-R1-0528 更新官方详解：思考更深、推理更强，整体表现接近 o3](https://m.ithome.com/html/856990.htm)
+
++ [vivo S30 Pro mini 手机发布：6.31 英寸多彩小直屏，3499 元（国补价 2999 元）起](https://m.ithome.com/html/856984.htm)
+
++ [realme 真我 Neo7 Turbo 手机发布：天玑 9400e 芯片 + 7200mAh 电池，1999 元起](https://m.ithome.com/html/856856.htm)
+
++ [中国信通院、vivo、荣耀、OPPO、小米、华为联合倡议：共建终端智能体生态](https://m.ithome.com/html/856927.htm)
+
++ [4299 → 2900 元：小米 REDMI K80 Pro 16+512G 国补新低，搭载骁龙 8 至尊](https://m.ithome.com/html/857003.htm)
+
++ [哪吒汽车回应上海总部 LOGO 被连夜拆除：因场地到期，公司要搬家](https://m.ithome.com/html/856910.htm)
+
++ [小米汽车辅助驾驶再迎大将，消息称前一汽南京 CTO 陈光加入](https://m.ithome.com/html/856961.htm)
+
++ [新款沃尔沃 S90 上市，限时参考尊享价 30.09 万元起](https://m.ithome.com/html/856998.htm)
+

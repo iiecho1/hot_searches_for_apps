@@ -101,3 +101,19 @@
 
 + [基于Android的记录生活APP_springboot+vue](https://blog.csdn.net/shmp54/article/details/148317412)
 
++ [高效开发，升级软件，硬件也要专业](https://blog.csdn.net/qyj19920704/article/details/148304712)
+
++ [AI 眼镜新纪元：贴片式TF卡与 SOC 芯片的黄金组合破局智能穿戴](https://blog.csdn.net/sixpp/article/details/148313627)
+
++ [数据挖掘实战-基于RFM模型与K-means聚类算法对超市客户进行细分](https://blog.csdn.net/m0_64336780/article/details/142026975)
+
++ [网络常识：网线和光纤的区别](https://blog.csdn.net/weixin_46654114/article/details/148267043)
+
++ [AugmentFree：解除 AugmentCode 限制的终极方案 如何快速清理vscode和AugmentCode缓存—windows端](https://blog.csdn.net/yangshuo1281/article/details/148291825)
+
++ [智能厨房系统—御控物联网IoT平台](https://blog.csdn.net/Yukong2025/article/details/148306399)
+
++ [.NET 开源工业视觉系统 OpenIVS 快速搭建自动化检测平台](https://blog.csdn.net/xdpcxq1029/article/details/148305897)
+
++ [Python爬虫实战：抓取百度15天天气预报数据](https://blog.csdn.net/weixin_74994771/article/details/148265774)
+
