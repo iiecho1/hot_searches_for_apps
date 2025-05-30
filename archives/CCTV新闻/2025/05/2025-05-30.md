@@ -209,3 +209,5 @@
 
 + [印尼西爪哇省发生山体滑坡 致4人遇难20人失踪](https://news.cctv.com/2025/05/30/ARTIxNfZutTMfT7HmQjgZqUh250530.shtml)
 
++ [印尼西爪哇省山体滑坡已致8死12伤](https://news.cctv.com/2025/05/30/ARTInK2b8xUuWYEZ9zLAeaRK250530.shtml)
+
