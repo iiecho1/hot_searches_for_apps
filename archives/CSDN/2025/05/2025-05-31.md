@@ -229,3 +229,7 @@
 
 + [【完整源码+数据集+部署教程】瓶中水位检测系统源码和数据集：改进yolo11-REPVGGOREPA](https://blog.csdn.net/weixin_43860634/article/details/148342494)
 
++ [【KWDB 创作者计划】KWDB时序数据库在工业级机器手臂生产调度中的落地实践案例，加速时序数据高效存储与检索](https://blog.csdn.net/2301_79516858/article/details/148283623)
+
++ [硬件I2C和软件I2C的区别](https://blog.csdn.net/weixin_63207510/article/details/148307592)
+
