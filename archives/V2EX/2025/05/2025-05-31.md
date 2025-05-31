@@ -39,3 +39,9 @@
 
 + [新能源汽车行业的恒大要爆雷了](https://www.v2ex.com/t/1135569)
 
++ [老话题，有什么方法能把肚子减一减吗，要是能练点肌肉更好](https://www.v2ex.com/t/1135413)
+
++ [买 S10 还是买个菊花的 GT5](https://www.v2ex.com/t/1135442)
+
++ [Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了](https://www.v2ex.com/t/1135453)
+

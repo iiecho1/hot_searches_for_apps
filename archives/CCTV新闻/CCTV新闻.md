@@ -183,3 +183,7 @@
 
 + [霍乱疫情严峻 苏丹接收超290万剂疫苗](https://news.cctv.com/2025/05/31/ARTI0VRmOF3Eyd6c9lFNAWY2250531.shtml)
 
++ [数据显示关税政策拖累美国就业](https://news.cctv.com/2025/05/31/ARTIAZXu6apiORvi7CFVHuye250531.shtml)
+
++ [美媒：中国专注发展的政策展现强大战略眼光](https://news.cctv.com/2025/05/31/ARTI3HKuiVH5QmmIBWo37Pfc250531.shtml)
+
