@@ -101,3 +101,5 @@
 
 + [Display Driver Uninstaller(DDU卸载显卡驱动工具)官网下载](https://blog.csdn.net/nettsz/article/details/148340797)
 
++ [【AI智能体】Coze 插件从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/147855617)
+
