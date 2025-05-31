@@ -135,3 +135,9 @@
 
 + [在ROS2(humble)+Gazebo+rqt下，实时显示仿真无人机的相机图像](https://blog.csdn.net/2301_79256589/article/details/148231658)
 
++ [美业破局新利器：AI智能体引流全攻略（1/6）](https://blog.csdn.net/beautifulmemory/article/details/148346918)
+
++ [LVS + Keepalived高可用群集](https://blog.csdn.net/Lemon__ing/article/details/148307296)
+
++ [高空视角之大美遥感-基于Leaflet和天地图的壮美遥感影像实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/148318973)
+
