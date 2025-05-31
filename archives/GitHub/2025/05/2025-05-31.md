@@ -23,3 +23,23 @@
 
 + [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
++ [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
+
++ [fastapi/fastapi](https://github.com/fastapi/fastapi)
+
++ [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
++ [frdel/agent-zero](https://github.com/frdel/agent-zero)
+
++ [syncthing/syncthing](https://github.com/syncthing/syncthing)
+
++ [mui/mui-x](https://github.com/mui/mui-x)
+
++ [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+
++ [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
++ [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
+
