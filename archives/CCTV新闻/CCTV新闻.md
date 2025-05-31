@@ -177,3 +177,7 @@
 
 + [中方敦促安理会早日调整或解除对南苏丹制裁](https://news.cctv.com/2025/05/31/ARTI6JY5d8NnJBDCne1EBcBc250531.shtml)
 
++ [阿塞拜疆议会批准与中国签署的互免签证协定](https://news.cctv.com/2025/05/31/ARTIfXeRTzkjiC9qbmahbcNj250531.shtml)
+
++ [韩国首尔一地铁车厢内遭纵火 乘客被紧急疏散](https://news.cctv.com/2025/05/31/ARTI3tuKhtgB3kj0Km1PVv7V250531.shtml)
+
