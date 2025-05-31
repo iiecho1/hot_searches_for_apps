@@ -209,3 +209,5 @@
 
 + [埃及、突尼斯、阿尔及利亚三国外长就利比亚问题举行会谈](https://news.cctv.com/2025/05/31/ARTIJ0XiclcIShLbMPslyW0E250531.shtml)
 
++ [多米尼加俱乐部屋顶坍塌事故死亡人数升至234人](https://news.cctv.com/2025/05/31/ARTI0kCx3A3ksnezbwDhNWIE250531.shtml)
+

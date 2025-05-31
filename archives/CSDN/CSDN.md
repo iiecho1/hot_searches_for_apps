@@ -223,3 +223,9 @@
 
 + [K8S StatefulSet 快速开始](https://blog.csdn.net/matrixlzp/article/details/147994245)
 
++ [Redis：功能特性和应用场景](https://blog.csdn.net/weixin_50776420/article/details/148351890)
+
++ [【机器人】具身导航 VLN 最新论文汇总 | Vision-and-Language Navigation](https://blog.csdn.net/qq_41204464/article/details/148337859)
+
++ [【完整源码+数据集+部署教程】瓶中水位检测系统源码和数据集：改进yolo11-REPVGGOREPA](https://blog.csdn.net/weixin_43860634/article/details/148342494)
+
