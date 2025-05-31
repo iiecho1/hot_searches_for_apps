@@ -103,3 +103,25 @@
 
 + [【AI智能体】Coze 插件从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/147855617)
 
++ [Java 大视界 -- Java 大数据在智能金融区块链智能合约审计与风险防范中的应用（276）](https://blog.csdn.net/atgfg/article/details/148294083)
+
++ [RISCV——内核及汇编](https://blog.csdn.net/xiaolangyangyang/article/details/148305030)
+
++ [领军计划学科能力综合测试（TACA）之线性代数板块](https://blog.csdn.net/dllglvzhenfeng/article/details/148276225)
+
++ [【论文解读】DETR: 用Transformer实现真正的End2End目标检测](https://blog.csdn.net/weixin_44191845/article/details/148312424)
+
++ [【2025具身智能大模型·系列13】Infinite Mobility：上海 AI Lab 推出的可交互物体生成模型，高效助力机器人仿真训练](https://blog.csdn.net/xiaobing259/article/details/148312397)
+
++ [SpringBoot整合Sa-Token实现RBAC权限模型的过程解析](https://blog.csdn.net/huayula/article/details/148321524)
+
++ [Java 大数据处理：使用 Hadoop 和 Spark 进行大规模数据处理](https://blog.csdn.net/shrgegrb/article/details/148338691)
+
++ [AstrBot NapCat 消息机器人实战教程教学 WeClone教程](https://blog.csdn.net/x1131230123/article/details/148351670)
+
++ [小程序Python餐厅外卖点餐商城平台的 商家 骑手](https://blog.csdn.net/QQ3166678367/article/details/148307417)
+
++ [关于DDOS](https://blog.csdn.net/liulilittle/article/details/148316280)
+
++ [2025年05月29日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/148305891)
+
