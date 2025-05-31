@@ -67,3 +67,9 @@
 
 + [iOS18 天气 app 的降水量只能显示弱还是中等了，而 iOS17 可以显示几毫米](https://www.v2ex.com/t/1135566)
 
++ [最近车圈的 cc， byd 之争，大家支持谁？](https://www.v2ex.com/t/1135604)
+
++ [“端午安康”的谣言到底怎么流传开来的？](https://www.v2ex.com/t/1135590)
+
++ [通义灵码出了 IDE](https://www.v2ex.com/t/1135587)
+

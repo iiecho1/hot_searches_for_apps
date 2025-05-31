@@ -203,3 +203,11 @@
 
 + [深入了解linux系统—— 库的制作和使用](https://blog.csdn.net/LH__1314/article/details/148196598)
 
++ [大数据量下的数据修复与回写Spark on Hive 的大数据量主键冲突排查：COUNT(DISTINCT) 的陷阱](https://blog.csdn.net/qq_52128187/article/details/148337641)
+
++ [Spring Boot深度解析：自动配置、Starter依赖与MyBatis Plus集成指南](https://blog.csdn.net/qq_57755194/article/details/148339880)
+
++ [K 值选对，准确率翻倍：KNN 算法调参的黄金法则](https://blog.csdn.net/2401_82648291/article/details/148351140)
+
++ [【计算机网络】第2章：应用层—Web and HTTP](https://blog.csdn.net/fhkk55/article/details/148312850)
+

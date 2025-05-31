@@ -203,3 +203,7 @@
 
 + [日本北海道附近海域发生6.0级地震，震源深度20千米](https://news.cctv.com/2025/05/31/ARTIfSmM2yHL1AnkHL6JfKMQ250531.shtml)
 
++ [联合国：加沙遭遇冲突以来“最糟糕的灾难性局面”](https://news.cctv.com/2025/05/31/ARTIQoCSLKzPjmXf9tlX2lvq250531.shtml)
+
++ [日本北海道东部海域当地时间31日发生6.1级地震](https://news.cctv.com/2025/05/31/ARTIgSudxfjuHHG7s7IwP3ma250531.shtml)
+
