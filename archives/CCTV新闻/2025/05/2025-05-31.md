@@ -187,3 +187,11 @@
 
 + [美媒：中国专注发展的政策展现强大战略眼光](https://news.cctv.com/2025/05/31/ARTI3HKuiVH5QmmIBWo37Pfc250531.shtml)
 
++ [世界反兴奋剂机构主席驳斥美国指责：你们先解决自身兴奋剂问题](https://news.cctv.com/2025/05/31/ARTI0LGwwZxOvbWzGD7VUBIp250531.shtml)
+
++ [德国柏林博物馆岛举行200周年庆典](https://news.cctv.com/2025/05/31/ARTI5OREPfl5yHdl1vZQnaVd250531.shtml)
+
++ [法国7月起将在多类户外公共场所禁烟](https://news.cctv.com/2025/05/31/ARTI0wTHl6LM9Lo2jEeLBD3r250531.shtml)
+
++ [中国驻尼泊尔使馆再次提醒旅尼中国公民切勿前往尼印边境地区](https://news.cctv.com/2025/05/31/ARTIl0p0GFMT8I5jSopZDhTY250531.shtml)
+

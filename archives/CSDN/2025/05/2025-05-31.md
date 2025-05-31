@@ -177,3 +177,13 @@
 
 + [[yolov11改进系列]基于yolov11引入高效上采样卷积块EUCB的python源码+训练源码](https://blog.csdn.net/FL1623863129/article/details/148348793)
 
++ [DeepSeekMath：突破开放式语言模型中数学推理能力的极限](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/148279742)
+
++ [PostgreSQL 备份与恢复策略](https://blog.csdn.net/lilinhai548/article/details/148272111)
+
++ [[yolov11改进系列]基于yolov11引入重参数化模块DiverseBranchBlock的python源码+训练源码](https://blog.csdn.net/FL1623863129/article/details/148349249)
+
++ [Flutter3.22适配运行鸿蒙系统问题记录](https://blog.csdn.net/qq_30766131/article/details/148282999)
+
++ [NUTTX的学习记录(nuttx例程运行，环境部署)](https://blog.csdn.net/slxkjc/article/details/148283956)
+
