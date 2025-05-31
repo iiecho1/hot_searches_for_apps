@@ -163,3 +163,9 @@
 
 + [欧冠决赛在即 巴黎部署5400名警力防球迷骚乱](https://news.cctv.com/2025/06/01/ARTIFDUEkMyeTKM0Ko3JsedW250601.shtml)
 
++ [中东国家外长谴责以色列阻止其访问约旦河西岸](https://news.cctv.com/2025/06/01/ARTItE52WBnRhMUTZqlXlPpO250601.shtml)
+
++ [俄罗斯布良斯克州一桥梁坍塌 已致数十人伤亡](https://news.cctv.com/2025/06/01/ARTIxyoIaZIXdm5kwe92tbGR250601.shtml)
+
++ [伊朗外长：将适当回应美方核谈判提案](https://news.cctv.com/2025/06/01/ARTI6hCep3ShzSrBnS5r4bkT250601.shtml)
+
