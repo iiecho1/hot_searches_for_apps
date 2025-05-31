@@ -175,3 +175,5 @@
 
 + [古巴外交部召见美国临时代办 抗议其无礼行为](https://news.cctv.com/2025/05/31/ARTIQR5UYNZJzz6tAynsft8S250531.shtml)
 
++ [中方敦促安理会早日调整或解除对南苏丹制裁](https://news.cctv.com/2025/05/31/ARTI6JY5d8NnJBDCne1EBcBc250531.shtml)
+
