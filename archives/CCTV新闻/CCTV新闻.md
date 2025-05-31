@@ -201,3 +201,5 @@
 
 + [马斯克白宫欢送会：“分手”应该体面？](https://news.cctv.com/2025/05/31/ARTIORD3etgO8VgQsIRsIDpW250531.shtml)
 
++ [日本北海道附近海域发生6.0级地震，震源深度20千米](https://news.cctv.com/2025/05/31/ARTIfSmM2yHL1AnkHL6JfKMQ250531.shtml)
+
