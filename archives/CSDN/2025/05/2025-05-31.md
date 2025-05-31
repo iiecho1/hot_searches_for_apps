@@ -187,3 +187,11 @@
 
 + [NUTTX的学习记录(nuttx例程运行，环境部署)](https://blog.csdn.net/slxkjc/article/details/148283956)
 
++ [从0到1上手Trae：开启AI编程新时代](https://blog.csdn.net/beautifulmemory/article/details/148293958)
+
++ [调用蓝耘Maas平台大模型API打造个人AI助理实战](https://blog.csdn.net/2301_80840905/article/details/148317768)
+
++ [RabbitMQ的高级特性](https://blog.csdn.net/2301_80636143/article/details/147914614)
+
++ [linux、docker、git相关操作](https://blog.csdn.net/2401_87427517/article/details/148344471)
+

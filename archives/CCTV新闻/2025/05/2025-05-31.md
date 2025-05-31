@@ -195,3 +195,5 @@
 
 + [中国驻尼泊尔使馆再次提醒旅尼中国公民切勿前往尼印边境地区](https://news.cctv.com/2025/05/31/ARTIl0p0GFMT8I5jSopZDhTY250531.shtml)
 
++ [美国加州州长：美国政府“违法”关税政策后果严重](https://news.cctv.com/2025/05/31/ARTI0hjR5Xitxxe6JcmdSycQ250531.shtml)
+
