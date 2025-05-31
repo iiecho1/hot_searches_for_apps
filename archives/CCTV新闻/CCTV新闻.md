@@ -181,3 +181,5 @@
 
 + [韩国首尔一地铁车厢内遭纵火 乘客被紧急疏散](https://news.cctv.com/2025/05/31/ARTI3tuKhtgB3kj0Km1PVv7V250531.shtml)
 
++ [霍乱疫情严峻 苏丹接收超290万剂疫苗](https://news.cctv.com/2025/05/31/ARTI0VRmOF3Eyd6c9lFNAWY2250531.shtml)
+

@@ -31,3 +31,11 @@
 
 + [局域网内的两台台式电脑，一台 mac mini，一台 Linux 系统，如何比较好的共享数据啊？](https://www.v2ex.com/t/1135380)
 
++ [因为太闲被抓去写软著](https://www.v2ex.com/t/1135418)
+
++ [想问问目前在用小米 15、真我 GT7Pro、一加 13T 和荣耀 Magic7 的老兄们](https://www.v2ex.com/t/1135503)
+
++ [求推荐一款鼠标。](https://www.v2ex.com/t/1135395)
+
++ [新能源汽车行业的恒大要爆雷了](https://www.v2ex.com/t/1135569)
+
