@@ -125,3 +125,13 @@
 
 + [2025年05月29日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/148305891)
 
++ [神经网络-Day40](https://blog.csdn.net/weixin_57342745/article/details/148341796)
+
++ [Spring MVC 框架](https://blog.csdn.net/2302_80521088/article/details/147803846)
+
++ [Maven 仓库类型与镜像策略](https://blog.csdn.net/lilinhai548/article/details/148217831)
+
++ [【AI大模型前沿】SkyReels-V2：昆仑万维开源的无限时长电影生成模型，开启视频生成新纪元](https://blog.csdn.net/xiaobing259/article/details/148338424)
+
++ [在ROS2(humble)+Gazebo+rqt下，实时显示仿真无人机的相机图像](https://blog.csdn.net/2301_79256589/article/details/148231658)
+
