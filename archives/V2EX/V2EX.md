@@ -45,3 +45,9 @@
 
 + [Cursor 现在改的太烂了，今天我的 cursor 出 bug 完全不可用了](https://www.v2ex.com/t/1135453)
 
++ [mac mini (2024) 作为家里云虚拟化平台的可行性](https://www.v2ex.com/t/1135538)
+
++ [小白怎么部署微服务服务器，这个任务要不要接](https://www.v2ex.com/t/1135460)
+
++ [[求问] 盈透取款问题](https://www.v2ex.com/t/1135474)
+

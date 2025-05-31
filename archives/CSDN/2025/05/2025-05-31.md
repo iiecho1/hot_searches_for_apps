@@ -169,3 +169,11 @@
 
 + [聊聊Tomato Architecture](https://blog.csdn.net/hello_ejb3/article/details/148306758)
 
++ [循环神经网络(RNN)模型](https://blog.csdn.net/Albert201605/article/details/148320144)
+
++ [论文速读《UAV-Flow Colosseo: 自然语言控制无人机系统》](https://blog.csdn.net/lovely_yoshino/article/details/148340633)
+
++ [夜莺-Nightingale-开源云原生监控分析系统二进制部署指南](https://blog.csdn.net/qq_41840843/article/details/148344630)
+
++ [[yolov11改进系列]基于yolov11引入高效上采样卷积块EUCB的python源码+训练源码](https://blog.csdn.net/FL1623863129/article/details/148348793)
+
