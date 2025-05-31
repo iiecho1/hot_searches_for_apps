@@ -197,3 +197,7 @@
 
 + [美国加州州长：美国政府“违法”关税政策后果严重](https://news.cctv.com/2025/05/31/ARTI0hjR5Xitxxe6JcmdSycQ250531.shtml)
 
++ [国际机构向苏丹提供290多万剂霍乱疫苗](https://news.cctv.com/2025/05/31/ARTI0n983Rx9U0uHI0IdWHMj250531.shtml)
+
++ [马斯克白宫欢送会：“分手”应该体面？](https://news.cctv.com/2025/05/31/ARTIORD3etgO8VgQsIRsIDpW250531.shtml)
+

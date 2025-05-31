@@ -61,3 +61,5 @@
 
 + [Mac mini m4 硬盘读写速度也太慢了吧](https://www.v2ex.com/t/1135509)
 
++ [公网映射 NAS，如何保证安全](https://www.v2ex.com/t/1135582)
+

@@ -195,3 +195,5 @@
 
 + [linux、docker、git相关操作](https://blog.csdn.net/2401_87427517/article/details/148344471)
 
++ [安卓下电源管理一](https://blog.csdn.net/marksky665/article/details/148337872)
+
