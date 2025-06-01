@@ -25,3 +25,23 @@
 
 + [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
 
++ [anthropics/courses](https://github.com/anthropics/courses)
+
++ [imputnet/cobalt](https://github.com/imputnet/cobalt)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+
++ [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
+
++ [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
++ [assimp/assimp](https://github.com/assimp/assimp)
+
++ [googleapis/go-genai](https://github.com/googleapis/go-genai)
+
++ [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
+

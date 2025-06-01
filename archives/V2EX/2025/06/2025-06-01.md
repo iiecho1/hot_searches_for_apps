@@ -47,3 +47,5 @@
 
 + [FakeHTTP - 伪装 TCP 连接为 HTTP，解除白名单限速](https://www.v2ex.com/t/1135702)
 
++ [今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速](https://www.v2ex.com/t/1135682)
+
