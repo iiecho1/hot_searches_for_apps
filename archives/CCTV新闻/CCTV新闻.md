@@ -187,3 +187,7 @@
 
 + [俄罗斯连发两起桥梁坍塌事件 均在与乌克兰接壤边境地区](https://news.cctv.com/2025/06/01/ARTIqxVrZTht3A4PerXVPPrz250601.shtml)
 
++ [新闻分析丨科研停滞，人才外流——特朗普政府政策引发美科学界“寒潮”](https://news.cctv.com/2025/06/01/ARTIWWt0shYPiEdTBeyn9fSe250601.shtml)
+
++ [俄侦委会：两起桥梁坍塌均系爆炸引起 已展开刑事调查](https://news.cctv.com/2025/06/01/ARTIAa6fo12g4ZwuNrNozQNq250601.shtml)
+

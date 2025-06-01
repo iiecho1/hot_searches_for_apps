@@ -179,3 +179,9 @@
 
 + [深入探讨redis：主从复制](https://blog.csdn.net/hyldzbg/article/details/146120008)
 
++ [AI星图导航：从星空到三维坐标的飞行空间定位革命——基于事件相机的动态星敏感器技术解析](https://blog.csdn.net/deepever/article/details/148333252)
+
++ [Spring Boot深度解析：自动配置、Starter依赖与MyBatis Plus集成指南](https://blog.csdn.net/qq_57755194/article/details/148339880)
+
++ [K8S StatefulSet 快速开始](https://blog.csdn.net/matrixlzp/article/details/147994245)
+
