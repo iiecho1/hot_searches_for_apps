@@ -51,3 +51,5 @@
 
 + [Deepseek 的自我阉割](https://www.v2ex.com/t/1135706)
 
++ [仲裁的话， 2n 概率大吗](https://www.v2ex.com/t/1135704)
+
