@@ -101,3 +101,9 @@
 
 + [前端antd，后端fastapi，解决文件上传](https://blog.csdn.net/xiezhipu/article/details/148346299)
 
++ [2024 CKA模拟系统制作 | Step-By-Step | 18、题目搭建-备份还原Etcd](https://blog.csdn.net/tiger0310119/article/details/148335208)
+
++ [【Python】os模块](https://blog.csdn.net/qq_56664222/article/details/148346802)
+
++ [Vue 核心技术与实战day07](https://blog.csdn.net/Wjs153612/article/details/148350340)
+
