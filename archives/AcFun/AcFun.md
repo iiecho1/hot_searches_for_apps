@@ -71,3 +71,5 @@
 
 + [爷青回！火影忍者ED《long kiss good bye》【小五沉沉沉之经典动画游戏歌曲翻唱113](https://m.acfun.cn/v/?ac=47324206)
 
++ [或许你还记得 红鼻子节\(^o^)/~](https://m.acfun.cn/v/?ac=47344645)
+

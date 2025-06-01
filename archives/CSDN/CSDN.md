@@ -143,3 +143,9 @@
 
 + [负载均衡群集---Haproxy](https://blog.csdn.net/2301_80839375/article/details/148333756)
 
++ [MCU STM32搭配存储SD NAND（贴片式T卡）于智能皮电手环（Galvanic Skin Response, GSR 手环）的全方位评测](https://blog.csdn.net/sixpp/article/details/148331933)
+
++ [Docker快速上手](https://blog.csdn.net/Legth/article/details/148372935)
+
++ [【实战教程】微信小程序生成方形二维码可自定义页面（附完整代码）](https://blog.csdn.net/weixin_44345217/article/details/148371736)
+
