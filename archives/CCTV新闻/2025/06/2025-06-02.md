@@ -161,3 +161,5 @@
 
 + [阿根廷边远省份产业转型中的“中国能量”](https://news.cctv.com/2025/05/29/ARTIOByazvwnFJmbXusBYEtY250529.shtml)
 
++ [俄发生两起塌桥事故 已展开刑事调查](https://news.cctv.com/2025/06/02/ARTIKZn3rhZ6Hx2HTWTKezIz250602.shtml)
+
