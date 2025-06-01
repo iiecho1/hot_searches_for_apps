@@ -45,3 +45,5 @@
 
 + [包装盒要扔吗？](https://www.v2ex.com/t/1135726)
 
++ [FakeHTTP - 伪装 TCP 连接为 HTTP，解除白名单限速](https://www.v2ex.com/t/1135702)
+

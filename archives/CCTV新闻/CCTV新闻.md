@@ -195,3 +195,7 @@
 
 + [乌国防部情报总局称俄一军列在扎波罗热州被炸毁](https://news.cctv.com/2025/06/01/ARTIqpelJ5J8FunxkWfVTNZu250601.shtml)
 
++ [缅甸国防军宣布再次延长临时停火](https://military.cctv.com/2025/06/01/ARTIINGaVka2gGy3Vley8iwz250601.shtml)
+
++ [俄罗斯布良斯克州再发生铁路爆炸事件 轨道受损](https://news.cctv.com/2025/06/01/ARTIcy1b6lZJTq26WkZ9D8j4250601.shtml)
+
