@@ -145,3 +145,13 @@
 
 + [云原生与DevOps融合实践：加速企业数字化转型的加速器](https://blog.csdn.net/qq_20245171/article/details/148295704)
 
++ [路由器、网关和光猫三种设备有啥区别？](https://blog.csdn.net/m0_74075744/article/details/148318598)
+
++ [爬虫--以爬取小说为例](https://blog.csdn.net/2404_89803017/article/details/148214374)
+
++ [Ai降维打击【公选课作业】，10分钟搞定《合作社问题》](https://blog.csdn.net/weixin_39032019/article/details/148346086)
+
++ [【完整源码+数据集+部署教程】咖啡豆品质分级图像分割系统源码和数据集：改进yolo11-LSCD](https://blog.csdn.net/weixin_43860634/article/details/148356301)
+
++ [MySQL之数据库的内嵌函数和联合查询](https://blog.csdn.net/weixin_74285822/article/details/148345552)
+

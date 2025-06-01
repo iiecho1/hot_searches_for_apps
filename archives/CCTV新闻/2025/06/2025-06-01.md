@@ -171,3 +171,9 @@
 
 + [新西兰克马德克群岛附近海域发生6.2级地震](https://news.cctv.com/2025/06/01/ARTIgefE08FWbFFgKr6t9IDp250601.shtml)
 
++ [“入学申请截止日期考虑延后” 各国为抢哈佛生源拼了](https://news.cctv.com/2025/06/01/ARTIayx4yU8PIExdLvysssmW250601.shtml)
+
++ [印度尼西亚唐格朗：花样过端午](https://photo.cctv.com/2025/06/01/PHOAqaieyQWtut6Y3LKsBbeK250601.shtml)
+
++ [驻德国使领馆再次提醒中国公民防范各类安全风险](https://news.cctv.com/2025/06/01/ARTIgXZ3RD3byKSKrOaMgvL7250601.shtml)
+
