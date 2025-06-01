@@ -191,3 +191,7 @@
 
 + [俄侦委会：两起桥梁坍塌均系爆炸引起 已展开刑事调查](https://news.cctv.com/2025/06/01/ARTIAa6fo12g4ZwuNrNozQNq250601.shtml)
 
++ [俄侦委会将两起桥梁遭破坏事件定性为恐怖袭击](https://news.cctv.com/2025/06/01/ARTIMdzg1PiBzvQQzmhPKCe3250601.shtml)
+
++ [乌国防部情报总局称俄一军列在扎波罗热州被炸毁](https://news.cctv.com/2025/06/01/ARTIqpelJ5J8FunxkWfVTNZu250601.shtml)
+

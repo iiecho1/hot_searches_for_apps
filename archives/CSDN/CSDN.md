@@ -185,3 +185,5 @@
 
 + [K8S StatefulSet 快速开始](https://blog.csdn.net/matrixlzp/article/details/147994245)
 
++ [Yolov8改进 C2f中添加注意力机制Attention 包括SE、CA、CBAM、MHSA等）具体实现代码，如何将这些模块集成到YOLOv8模型中](https://blog.csdn.net/OICQQ67658008/article/details/148351401)
+

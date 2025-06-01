@@ -43,3 +43,5 @@
 
 + [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699)
 
++ [包装盒要扔吗？](https://www.v2ex.com/t/1135726)
+
