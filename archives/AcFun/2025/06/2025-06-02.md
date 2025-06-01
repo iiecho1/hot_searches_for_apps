@@ -69,3 +69,5 @@
 
 + [找冷血老板请假](https://m.acfun.cn/v/?ac=47342813)
 
++ [爷青回！火影忍者ED《long kiss good bye》【小五沉沉沉之经典动画游戏歌曲翻唱113](https://m.acfun.cn/v/?ac=47324206)
+

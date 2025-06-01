@@ -127,3 +127,13 @@
 
 + [MySQL数据库复合查询](https://blog.csdn.net/2302_80105876/article/details/148107297)
 
++ [基于Android的跳蚤市场_springboot+vue](https://blog.csdn.net/shmp54/article/details/148371387)
+
++ [【Github/Gitee Webhook触发自动部署-Jenkins】](https://blog.csdn.net/xbd_zc/article/details/148354580)
+
++ [测试用例及黑盒测试方法](https://blog.csdn.net/m0_61780496/article/details/148339243)
+
++ [通义灵码深度实战测评：从零构建智能家居控制中枢，体验AI编程新范式](https://blog.csdn.net/ailuloo/article/details/148356861)
+
++ [Maestro CLI云端测试以及github cl，bitrise原生cl的测试流程](https://blog.csdn.net/A6516565189/article/details/148355130)
+
