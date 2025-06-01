@@ -199,3 +199,5 @@
 
 + [俄罗斯布良斯克州再发生铁路爆炸事件 轨道受损](https://news.cctv.com/2025/06/01/ARTIcy1b6lZJTq26WkZ9D8j4250601.shtml)
 
++ [俄方：两起桥梁被炸为恐怖袭击 乌方：炸毁俄方一军列](https://news.cctv.com/2025/06/01/ARTI5kohsF0lU178gwl3wb1h250601.shtml)
+
