@@ -177,3 +177,7 @@
 
 + [驻德国使领馆再次提醒中国公民防范各类安全风险](https://news.cctv.com/2025/06/01/ARTIgXZ3RD3byKSKrOaMgvL7250601.shtml)
 
++ [24小时内第二座 俄罗斯又一桥梁坍塌](https://news.cctv.com/2025/06/01/ARTIgxhwDxEkk2cYgZCctWZF250601.shtml)
+
++ [特朗普：钢铝关税加倍 欧盟加拿大：强烈遗憾！强烈反对！](https://news.cctv.com/2025/06/01/ARTI2M87HOgL0uQgTBje6HXv250601.shtml)
+

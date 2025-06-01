@@ -157,3 +157,9 @@
 
 + [ES分词搜索](https://blog.csdn.net/transitory_truth/article/details/148340120)
 
++ [[yolov11改进系列]基于yolov11引入上下文锚点注意力CAA的python源码+训练源码](https://blog.csdn.net/FL1623863129/article/details/148359007)
+
++ [ck-editor5的研究（2）：对 CKEditor5 进行设计，并封装成一个可用的 vue 组件](https://blog.csdn.net/baidu_41651062/article/details/148354651)
+
++ [GSR 手环能耗数据实测：STM32 与 SD NAND 的功耗优化成果](https://blog.csdn.net/weixin_42878111/article/details/148330132)
+
