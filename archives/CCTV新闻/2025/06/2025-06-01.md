@@ -169,3 +169,5 @@
 
 + [伊朗外长：将适当回应美方核谈判提案](https://news.cctv.com/2025/06/01/ARTI6hCep3ShzSrBnS5r4bkT250601.shtml)
 
++ [新西兰克马德克群岛附近海域发生6.2级地震](https://news.cctv.com/2025/06/01/ARTIgefE08FWbFFgKr6t9IDp250601.shtml)
+
