@@ -169,3 +169,13 @@
 
 + [Vue 3.0 中的路由导航守卫详解](https://blog.csdn.net/weixin_40629244/article/details/148345007)
 
++ [TensorFlow深度学习实战（19）——受限玻尔兹曼机](https://blog.csdn.net/LOVEmy134611/article/details/148363643)
+
++ [领军计划学科能力综合测试（TACA）之抽象代数（群论）板块、科普](https://blog.csdn.net/dllglvzhenfeng/article/details/148278046)
+
++ [deepseek轻松解决 Nginx 网络透传问题实现内部IBM MQ和外部IBM MQ的通信](https://blog.csdn.net/openeis/article/details/148321414)
+
++ [C++八股 —— 手撕线程池](https://blog.csdn.net/m0_46329175/article/details/148346950)
+
++ [深入探讨redis：主从复制](https://blog.csdn.net/hyldzbg/article/details/146120008)
+

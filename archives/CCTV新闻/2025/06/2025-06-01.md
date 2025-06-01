@@ -181,3 +181,9 @@
 
 + [特朗普：钢铝关税加倍 欧盟加拿大：强烈遗憾！强烈反对！](https://news.cctv.com/2025/06/01/ARTI2M87HOgL0uQgTBje6HXv250601.shtml)
 
++ [刚走一天就遭白宫“背刺” 马斯克：很失望](https://news.cctv.com/2025/06/01/ARTIC5jnqQW2EqBKM8arvz0j250601.shtml)
+
++ [驻南非使馆提醒旅南侨胞谨防暴力犯罪](https://news.cctv.com/2025/06/01/ARTIGyqJZw09rvfWKS2WRHco250601.shtml)
+
++ [俄罗斯连发两起桥梁坍塌事件 均在与乌克兰接壤边境地区](https://news.cctv.com/2025/06/01/ARTIqxVrZTht3A4PerXVPPrz250601.shtml)
+

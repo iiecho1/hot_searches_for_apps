@@ -43,3 +43,21 @@
 
 + [华为余承东展示尊界 S800 新功能：车内挥手即可自动关门](https://m.ithome.com/html/857171.htm)
 
++ [iPhone 16 Pro 256GB  8999 → 6799 元，京东苹果补贴再升级](https://m.ithome.com/html/857546.htm)
+
++ [华为余承东谈智能驾驶：我先把牛吹在这里，鸿蒙智行不是第一阵营而是第一名](https://m.ithome.com/html/857576.htm)
+
++ [7999 元 → 限地区 4519 元！苹果 M4 MacBook Air 以旧换新破冰新低](https://m.ithome.com/html/857543.htm)
+
++ [鸿蒙智行尊界 S800 车型上市 24 小时大定突破 1600 台](https://m.ithome.com/html/857542.htm)
+
++ [《哪吒之魔童闹海》出品人王长田称《哪吒 3》预计要做 5 年](https://m.ithome.com/html/857555.htm)
+
++ [2899 元 → 919 元：索尼 WH-1000XM4 头戴降噪耳机新低](https://m.ithome.com/html/857509.htm)
+
++ [卢伟冰：小米 SU7 的卖爆以强大的产品力为基础](https://m.ithome.com/html/857581.htm)
+
++ [支付宝邀请测试“余额青春模式”：提供更炫彩、年轻化的界面和功能](https://m.ithome.com/html/857564.htm)
+
++ [上汽总裁贾健旭：余总调侃我们不太像国企，我很汗颜](https://m.ithome.com/html/857478.htm)
+
