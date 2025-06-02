@@ -171,3 +171,7 @@
 
 + [第二轮俄乌谈判在即 俄罗斯代表团抵达土耳其](https://news.cctv.com/2025/06/02/ARTIk3hHl4UlinNiHp7NfOzH250602.shtml)
 
++ [俄乌今日再次回到谈判桌 俄多地连续遭袭](https://news.cctv.com/2025/06/02/ARTI3Br2UQ36cWsEC8aI7ZkB250602.shtml)
+
++ [韩国大选“5选1”投票将启 四位前总统分四波忙“路演”](https://news.cctv.com/2025/06/02/ARTIHJPWoJzF72gYS4IRhOQ3250602.shtml)
+
