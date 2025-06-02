@@ -161,3 +161,7 @@
 
 + [以色列防长：哈马斯要么接受美方提案 要么面临毁灭](https://news.cctv.com/2025/05/31/ARTIGdmKuYXeoCeHzGeoZCwM250531.shtml)
 
++ [土总统称俄乌第二轮谈判取得“重大成果” 提议举行俄乌美峰会](https://news.cctv.com/2025/06/03/ARTIMWQ7p9LTEEsfhk2Xu7Uy250603.shtml)
+
++ [俄乌第二轮直接谈判结束 同意交换阵亡士兵遗体](https://news.cctv.com/2025/06/03/ARTIrHA2jzaMjTtOeiaNRnrf250603.shtml)
+
