@@ -195,3 +195,13 @@
 
 + [法国涉巴以表态惹美大使“风凉话”　扯上“蔚蓝海岸”](https://news.cctv.com/2025/06/02/ARTIjWknj46KyV0fJvguV7AC250602.shtml)
 
++ [澳大利亚首都上空的极光](https://photo.cctv.com/2025/06/02/PHOAPcFZpcjJbRRrTXncTIeL250602.shtml)
+
++ [美单边关税让全球经济面临更大不确定性](https://news.cctv.com/2025/06/02/ARTIZVDvmZjIsT5MoPrvP2oa250602.shtml)
+
++ [巴西端午龙舟竞渡：“点燃去中国的热情”](https://news.cctv.com/2025/06/02/ARTIaPuXvkaTYlOXWcwQFomx250602.shtml)
+
++ [秀我中国丨与“斯诺”同行](https://news.cctv.com/2025/06/02/ARTIDkaH1JwB8NLtLaoeRQAZ250602.shtml)
+
++ [热点问答丨韩国总统选举谁会赢](https://news.cctv.com/2025/06/02/ARTIabuNZJsrk9OJH4B4Jb3U250602.shtml)
+
