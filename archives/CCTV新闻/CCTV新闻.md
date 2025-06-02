@@ -175,3 +175,7 @@
 
 + [韩国大选“5选1”投票将启 四位前总统分四波忙“路演”](https://news.cctv.com/2025/06/02/ARTIHJPWoJzF72gYS4IRhOQ3250602.shtml)
 
++ [美证实：驻日美军基地有害化学物发生泄漏](https://news.cctv.com/2025/06/02/ARTIG9xg6UrihADo39lQHWjp250602.shtml)
+
++ [波兰举行总统选举第二轮投票 民调显示纳夫罗茨基得票领先](https://news.cctv.com/2025/06/02/ARTIM5dEyS0eLFSVYvCDoM1D250602.shtml)
+
