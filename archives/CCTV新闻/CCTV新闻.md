@@ -189,3 +189,7 @@
 
 + [国际观察丨“把世界当作丛林”——起底美国“掠夺性外交”](https://news.cctv.com/2025/06/02/ARTIfbApc443oUx5Yycq8w38250602.shtml)
 
++ [俄乌第二轮会谈即将举行 乌克兰代表团抵达土耳其](https://news.cctv.com/2025/06/02/ARTI36AGx42lLq2WFkZXSMd4250602.shtml)
+
++ [免签“朋友圈”再扩容 是时候开启一场“中国行”了](https://news.cctv.com/2025/06/02/ARTIQtDV8DjinlWlSutRpTYv250602.shtml)
+

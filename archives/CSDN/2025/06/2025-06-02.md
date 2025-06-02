@@ -181,3 +181,13 @@
 
 + [springboot集成websocket给前端推送消息](https://blog.csdn.net/lichuangcsdn/article/details/148355577)
 
++ [【C#】Quartz.NET怎么动态调用方法，并且根据指定时间周期执行，动态配置类何方法以及Cron表达式，有请DeepSeek](https://blog.csdn.net/lmy_520/article/details/148379260)
+
++ [从噪声中寻找真理：RANSAC算法在测绘程序设计大赛中的实战指南（2025国赛选题一）](https://blog.csdn.net/2501_92238416/article/details/148338754)
+
++ [MCU如何从向量表到中断服务](https://blog.csdn.net/m0_38106923/article/details/148370396)
+
++ [2025年十堰市网络建设与运维赛题](https://blog.csdn.net/lxc_djy/article/details/148119868)
+
++ [前端框架进化史](https://blog.csdn.net/techdashen/article/details/148370879)
+
