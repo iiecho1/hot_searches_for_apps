@@ -145,3 +145,7 @@
 
 + [2025GDCPC广东省赛游记（附赛时代码）](https://blog.csdn.net/swan416/article/details/148386365)
 
++ [基于SpringBoot+Redis实现RabbitMQ幂等性设计，解决MQ重复消费问题](https://blog.csdn.net/jike11231/article/details/148368251)
+
++ [使用 MCP 将代理连接到 Elasticsearch 并对索引进行查询](https://blog.csdn.net/UbuntuTouch/article/details/148378743)
+
