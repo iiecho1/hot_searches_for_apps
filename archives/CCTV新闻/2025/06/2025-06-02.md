@@ -223,3 +223,7 @@
 
 + [尼日利亚中北部洪灾死亡人数已超200人](https://news.cctv.com/2025/06/02/ARTIKylGKwsBQZ9ozxWBqDUh250602.shtml)
 
++ [美国科罗拉多州“涉以”袭击已致8人受伤 袭击者系非法居留](https://news.cctv.com/2025/06/02/ARTI2eTLkcGzARpxYgZ3XJXC250602.shtml)
+
++ [俄乌第二轮谈判结束后 乌总统泽连斯基首度发声](https://news.cctv.com/2025/06/02/ARTIHjQpMj6kFowshWXt2M67250602.shtml)
+
