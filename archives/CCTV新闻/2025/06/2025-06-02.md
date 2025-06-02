@@ -183,3 +183,9 @@
 
 + [独立候选人纳夫罗茨基赢得波兰总统选举](https://news.cctv.com/2025/06/02/ARTIEAeOigQi2ucayWazm2JN250602.shtml)
 
++ [伊朗原子能组织主席：铀浓缩是伊朗的“红线”](https://news.cctv.com/2025/06/02/ARTIdm5wkutZb7YIaNFRnCmk250602.shtml)
+
++ [俄称挫败一起破坏远东铁路设施图谋](https://news.cctv.com/2025/06/02/ARTI73FFX8QTLd6aCX3AjbuI250602.shtml)
+
++ [国际观察丨“把世界当作丛林”——起底美国“掠夺性外交”](https://news.cctv.com/2025/06/02/ARTIfbApc443oUx5Yycq8w38250602.shtml)
+

@@ -41,3 +41,19 @@
 
 + [进一步巩固高端汽车市场地位：鸿蒙智行 2025 年 5 月全系交付新车 44454 辆再创新高](https://m.ithome.com/html/857672.htm)
 
++ [华为余承东：尊界 S800 价值非常高，它带动中国十几个省 221 家供应链企业走高端化](https://m.ithome.com/html/857696.htm)
+
++ [消息称苹果 iPhone 17 不会改名为 iPhone 2025](https://m.ithome.com/html/857695.htm)
+
++ [鸿蒙智行“时代旗舰”尊界 S800 汽车上市 48 小时大定破 2100 台](https://m.ithome.com/html/857691.htm)
+
++ [江汽集团尊界超级工厂全面亮相，宣称“以时代匠心铸就时代旗舰”](https://m.ithome.com/html/857699.htm)
+
++ [小米汽车：YU7 四门车窗都将配备夹层玻璃，在防晒隔热、隔音性能都比较出色](https://m.ithome.com/html/857693.htm)
+
++ [小米平板 7S Pro 12.5 英寸 / 柔光版获认证，有望配备 LCD 面板支持 120W 超级闪充](https://m.ithome.com/html/857669.htm)
+
++ [消息称首批任天堂 Switch 2 游戏机已入广州保税仓，京东全球购可“保证多数地区 6 月 5 日当天收货”](https://m.ithome.com/html/857690.htm)
+
++ [2025 年 5 月汽车销量 / 交付榜：比亚迪超 38.24 万辆继续领跑，鸿蒙智行全系交付新车 44454 辆再创新高](https://m.ithome.com/html/857705.htm)
+

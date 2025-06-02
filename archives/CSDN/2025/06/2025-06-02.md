@@ -173,3 +173,11 @@
 
 + [（一）微服务（垂直AP/分布式缓存/装饰器Pattern）](https://blog.csdn.net/weixin_42067536/article/details/148335655)
 
++ [智启未来：当知识库遇见莫奈的调色盘——API工作流重构企业服务美学](https://blog.csdn.net/lrq13965748542/article/details/148338965)
+
++ [c/c++的opencv车牌识别](https://blog.csdn.net/m0_54069809/article/details/148357427)
+
++ [LabVIEW多按键自动化检测系统](https://blog.csdn.net/bjcyck/article/details/148359510)
+
++ [springboot集成websocket给前端推送消息](https://blog.csdn.net/lichuangcsdn/article/details/148355577)
+
