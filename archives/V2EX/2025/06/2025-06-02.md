@@ -23,3 +23,7 @@
 
 + [FakeHTTP - 伪装 TCP 连接为 HTTP，解除白名单限速](https://www.v2ex.com/t/1135702)
 
++ [关于有钱人家孩子升学问题](https://www.v2ex.com/t/1135751)
+
++ [为什么没有左脚刹车右脚油门的设计呢？](https://www.v2ex.com/t/1135739)
+

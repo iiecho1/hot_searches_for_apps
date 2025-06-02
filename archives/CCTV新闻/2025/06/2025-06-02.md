@@ -163,3 +163,11 @@
 
 + [俄发生两起塌桥事故 已展开刑事调查](https://news.cctv.com/2025/06/02/ARTIKZn3rhZ6Hx2HTWTKezIz250602.shtml)
 
++ [哈马斯表示愿意开始新一轮加沙停火谈判](https://news.cctv.com/2025/06/02/ARTIKRdTZM81hBpX5LLC7n9Q250602.shtml)
+
++ [墨西哥一戒毒中心发生火灾 已致12人死亡](https://news.cctv.com/2025/06/02/ARTIxuCNiraBbqaB4ghbglMR250602.shtml)
+
++ [上任第二天 苏丹新任总理宣布解散政府](https://news.cctv.com/2025/06/02/ARTI4s5wu05Wwo5xYGQJCWde250602.shtml)
+
++ [第二轮俄乌谈判在即 俄罗斯代表团抵达土耳其](https://news.cctv.com/2025/06/02/ARTIk3hHl4UlinNiHp7NfOzH250602.shtml)
+

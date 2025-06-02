@@ -149,3 +149,7 @@
 
 + [【实战教程】微信小程序生成方形二维码可自定义页面（附完整代码）](https://blog.csdn.net/weixin_44345217/article/details/148371736)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场情绪分析与投资策略制定中的应用（278）](https://blog.csdn.net/atgfg/article/details/148318406)
+
++ [【大模型部署】mac m1本地部署 ChatGLM3-6B 超详细教程](https://blog.csdn.net/weixin_41645791/article/details/148356476)
+
