@@ -61,3 +61,15 @@
 
 + [小米 YU7 还有五款颜色即将发布，光环尾灯传承家族设计](https://m.ithome.com/html/857650.htm)
 
++ [深蓝汽车法务部：车机广告仅在车辆处于 P 挡时弹出且不会收集用户信息](https://m.ithome.com/html/857752.htm)
+
++ [任天堂提醒：切勿撕掉 Switch 2 的屏幕保护膜](https://m.ithome.com/html/857733.htm)
+
++ [万志强透露魅族 21 手机“基本没货了”](https://m.ithome.com/html/857799.htm)
+
++ [雷军：小米 YU7 展车已陆续到店](https://m.ithome.com/html/857823.htm)
+
++ [比亚迪各车型 5 月销量公布：含 4617 辆腾势 N9、5598 辆方程豹钛 3](https://m.ithome.com/html/857720.htm)
+
++ [小米 15 / 14 Pro 手机 Beta 版本部分场景手势提示线无法唤醒小爱问题已优化](https://m.ithome.com/html/857702.htm)
+

@@ -219,3 +219,7 @@
 
 + [匈牙利保克希核电站控制设备出现故障](https://news.cctv.com/2025/06/02/ARTISKIjGJfNy0BbdhmVBse2250602.shtml)
 
++ [怕美国“撒手”　英国欲加大开发核武力](https://news.cctv.com/2025/06/02/ARTISneW9EtkW0KNSx60jcIU250602.shtml)
+
++ [尼日利亚中北部洪灾死亡人数已超200人](https://news.cctv.com/2025/06/02/ARTIKylGKwsBQZ9ozxWBqDUh250602.shtml)
+
