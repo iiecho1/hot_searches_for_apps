@@ -109,3 +109,33 @@
 
 + [Socket网络编程之UDP套件字](https://blog.csdn.net/2403_84775671/article/details/148370911)
 
++ [Python趣学篇：用Pygame打造绚烂流星雨动画](https://blog.csdn.net/qq_51646682/article/details/148388948)
+
++ [Java 大视界 -- Java 大数据在智能安防门禁系统中的多生物特征融合识别与权限管理（280）](https://blog.csdn.net/atgfg/article/details/148346389)
+
++ [无法运用pytorch环境、改环境路径、隔离环境](https://blog.csdn.net/zslgoup1484/article/details/148350594)
+
++ [C++日新月异的未来代码：C++11（下）](https://blog.csdn.net/Zero_VPN/article/details/148239477)
+
++ [Python数学可视化——显函数、隐函数及复杂曲线的交互式绘图技术](https://blog.csdn.net/deepever/article/details/148385141)
+
++ [一天搞懂深度学习--李宏毅教程笔记](https://blog.csdn.net/Starry__/article/details/148370150)
+
++ [Elastic 和 AWS 合作将 GenAI 引入 DevOps、安全和搜索领域](https://blog.csdn.net/UbuntuTouch/article/details/148363346)
+
++ [android lifeCycleOwner生命周期](https://blog.csdn.net/qq_26296197/article/details/148366751)
+
++ [JVM——云原生时代JVM的演进之路](https://blog.csdn.net/qq_41478243/article/details/148350231)
+
++ [Suno AI API 项目主页github](https://blog.csdn.net/sinat_37574187/article/details/148389239)
+
++ [日志与策略模式](https://blog.csdn.net/2302_81171591/article/details/148366953)
+
++ [2024年数维杯国际大学生数学建模挑战赛A题飞行器激光测速中的频率估计问题解题全过程论文及程序](https://blog.csdn.net/weixin_43292788/article/details/148363936)
+
++ [嵌入式硬件从小工到专家（不同SoC之间的差别）](https://blog.csdn.net/feixiaoxing/article/details/148389463)
+
++ [【AI大模型前沿】阿里巴巴开源LHM：单图生成可动画3D人体模型，开启3D建模新纪元](https://blog.csdn.net/xiaobing259/article/details/148370441)
+
++ [汽车安全 2030 预测 (功能安全FuSa、预期功能安全SOTIF、网络安全CyberSecurity)：成本、效益与行业影响](https://blog.csdn.net/SiArch/article/details/148363725)
+
