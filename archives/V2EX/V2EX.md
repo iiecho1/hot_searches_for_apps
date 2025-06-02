@@ -29,3 +29,5 @@
 
 + [《高性能 MySQL》第三版：是否已经过时？](https://www.v2ex.com/t/1135741)
 
++ [昨天忘记关闹钟了， IOS 这点真的难评](https://www.v2ex.com/t/1135788)
+

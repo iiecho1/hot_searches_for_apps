@@ -159,3 +159,9 @@
 
 + [某航后缀混淆逆向与顶像风控分析](https://blog.csdn.net/qiulin_wu/article/details/148351889)
 
++ [工厂方法模式（Factory Method）深度解析：从原理到实战优化](https://blog.csdn.net/IRpickstars/article/details/148339907)
+
++ [【前端】SPA v.s. MPA](https://blog.csdn.net/qq_41775119/article/details/148357082)
+
++ [C++命名空间深度解析](https://blog.csdn.net/2302_79963723/article/details/148370433)
+
