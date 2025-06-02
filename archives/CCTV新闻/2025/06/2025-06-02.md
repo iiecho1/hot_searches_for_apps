@@ -211,3 +211,11 @@
 
 + [俄乌双方代表团已抵达谈判地点](https://news.cctv.com/2025/06/02/ARTIcFfIvEtr7cLqnZ97EvQP250602.shtml)
 
++ [“更多合作成果正不断涌现”](https://news.cctv.com/2025/06/02/ARTIu6N7Xj0WvG35i0zXd0uI250602.shtml)
+
++ [乌克兰称13架俄战机在特种作战行动中被摧毁](https://military.cctv.com/2025/06/02/ARTICVMJNmCNvBzyOpjDKVpM250602.shtml)
+
++ [日本气象厅警告：北海道附近可能发生强震](https://news.cctv.com/2025/06/02/ARTIzah9ZbH2TFkvRHuWYE03250602.shtml)
+
++ [匈牙利保克希核电站控制设备出现故障](https://news.cctv.com/2025/06/02/ARTISKIjGJfNy0BbdhmVBse2250602.shtml)
+
