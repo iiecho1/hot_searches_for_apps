@@ -25,3 +25,23 @@
 
 + [2025 年 5 月汽车销量 / 交付榜：比亚迪超 38.24 万辆继续领跑，鸿蒙智行全系交付新车 44454 辆再创新高](https://m.ithome.com/html/857705.htm)
 
++ [深蓝汽车法务部：车机广告仅在车辆处于 P 挡时弹出且不会收集用户信息](https://m.ithome.com/html/857752.htm)
+
++ [卢伟冰：小米未来的困难 / 挑战有两点，竞争从来不是，未来也不会是关键](https://m.ithome.com/html/857735.htm)
+
++ [雷军：小米 YU7 展车已陆续到店](https://m.ithome.com/html/857823.htm)
+
++ [任天堂提醒：切勿撕掉 Switch 2 的屏幕保护膜](https://m.ithome.com/html/857733.htm)
+
++ [万志强透露魅族 21 手机“基本没货了”](https://m.ithome.com/html/857799.htm)
+
++ [比亚迪各车型 5 月销量公布：含 4617 辆腾势 N9、5598 辆方程豹钛 3](https://m.ithome.com/html/857720.htm)
+
++ [小米 15 / 14 Pro 手机 Beta 版本部分场景手势提示线无法唤醒小爱问题已优化](https://m.ithome.com/html/857702.htm)
+
++ [尾号 7 个 0，“13**0000000”手机靓号使用权拍出 61.2 万元高价](https://m.ithome.com/html/857781.htm)
+
++ [机械革命笔记本新模具曝光，提供蓝白撞色设计](https://m.ithome.com/html/857754.htm)
+
++ [李斌回应蔚来车主高速睡着：辅助驾驶不是自动驾驶，2025 端午假期结束返工路上应注意安全](https://m.ithome.com/html/857818.htm)
+
