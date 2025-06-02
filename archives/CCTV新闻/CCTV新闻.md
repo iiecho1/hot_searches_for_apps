@@ -193,3 +193,5 @@
 
 + [免签“朋友圈”再扩容 是时候开启一场“中国行”了](https://news.cctv.com/2025/06/02/ARTIQtDV8DjinlWlSutRpTYv250602.shtml)
 
++ [法国涉巴以表态惹美大使“风凉话”　扯上“蔚蓝海岸”](https://news.cctv.com/2025/06/02/ARTIjWknj46KyV0fJvguV7AC250602.shtml)
+
