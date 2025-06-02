@@ -165,3 +165,7 @@
 
 + [俄乌第二轮直接谈判结束 同意交换阵亡士兵遗体](https://news.cctv.com/2025/06/03/ARTIrHA2jzaMjTtOeiaNRnrf250603.shtml)
 
++ [未通过信任投票 蒙古国总理奥云额尔登遭议会解职](https://news.cctv.com/2025/06/03/ARTIBuDGMQuBzOVfb73Sc8z9250603.shtml)
+
++ [印媒：加拿大尚未正式邀请，莫迪或将六年来首次缺席G7峰会](https://news.cctv.com/2025/06/03/ARTIi1Vxp3KPH7m3SB3jBFOt250603.shtml)
+
