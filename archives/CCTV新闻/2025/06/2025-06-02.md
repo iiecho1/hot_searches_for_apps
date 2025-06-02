@@ -179,3 +179,7 @@
 
 + [波兰举行总统选举第二轮投票 民调显示纳夫罗茨基得票领先](https://news.cctv.com/2025/06/02/ARTIM5dEyS0eLFSVYvCDoM1D250602.shtml)
 
++ [领取食物时遭以军枪击 加沙援助物资分发点或沦为“死亡陷阱”](https://news.cctv.com/2025/06/02/ARTIrBD8MSxncvXBd9jZ1QGL250602.shtml)
+
++ [独立候选人纳夫罗茨基赢得波兰总统选举](https://news.cctv.com/2025/06/02/ARTIEAeOigQi2ucayWazm2JN250602.shtml)
+

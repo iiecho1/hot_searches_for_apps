@@ -165,3 +165,11 @@
 
 + [C++命名空间深度解析](https://blog.csdn.net/2302_79963723/article/details/148370433)
 
++ [基于图神经网络的自然语言处理：融合LangGraph与大型概念模型的情感分析实践](https://blog.csdn.net/m0_46510245/article/details/148353262)
+
++ [[yolov11改进系列]基于yolov11引入上下文锚点注意力CAA的python源码+训练源码](https://blog.csdn.net/FL1623863129/article/details/148359007)
+
++ [解密高性能Web时代：WebAssembly与Web Workers的完美协作之道](https://blog.csdn.net/lgf228/article/details/148289139)
+
++ [（一）微服务（垂直AP/分布式缓存/装饰器Pattern）](https://blog.csdn.net/weixin_42067536/article/details/148335655)
+
