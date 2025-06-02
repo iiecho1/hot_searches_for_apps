@@ -233,3 +233,9 @@
 
 + [云原生领域容器的弹性伸缩策略优化](https://blog.csdn.net/sjsndy/article/details/148346884)
 
++ [基于机器学习的心脏病预测模型构建与可解释性分析](https://blog.csdn.net/2401_83314910/article/details/148369721)
+
++ [Python数学可视化——坐标系与变换](https://blog.csdn.net/deepever/article/details/148371692)
+
++ [【Linux网络编程】数据链路层](https://blog.csdn.net/2401_82677021/article/details/148369522)
+
