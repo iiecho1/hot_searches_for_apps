@@ -33,3 +33,15 @@
 
 + [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
 
++ [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+
++ [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+
++ [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves)
+
++ [termux/termux-app](https://github.com/termux/termux-app)
+
++ [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+

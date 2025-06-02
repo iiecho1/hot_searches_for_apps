@@ -215,3 +215,9 @@
 
 + [深入解析 Dotnet-Boxed.Framework：提升 .NET 开发效率的利器](https://blog.csdn.net/weixin_48916144/article/details/148350557)
 
++ [【AI大模型前沿】阿里巴巴开源LHM：单图生成可动画3D人体模型，开启3D建模新纪元](https://blog.csdn.net/xiaobing259/article/details/148370441)
+
++ [【Java笔记】Spring IoC & DI](https://blog.csdn.net/Origin_life/article/details/148355153)
+
++ [混沌映射（Chaotic Map）](https://blog.csdn.net/qq_38769809/article/details/148290087)
+
