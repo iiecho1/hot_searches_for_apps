@@ -209,3 +209,5 @@
 
 + [世卫组织：苏丹新一轮霍乱疫情已致超1770人死亡](https://news.cctv.com/2025/06/03/ARTIrNeafBIJ6LNUdirl39tp250603.shtml)
 
++ [荷兰首相宣布将递交辞呈](https://news.cctv.com/2025/06/03/ARTI2fcQJ3Qa8gSD3RBksilB250603.shtml)
+

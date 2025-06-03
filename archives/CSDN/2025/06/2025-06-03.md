@@ -235,3 +235,7 @@
 
 + [CentOS8.3+Kubernetes1.32.5+Docker28.2.2高可用集群二进制部署](https://blog.csdn.net/peng_s_w/article/details/148388353)
 
++ [房屋租赁系统 Java+Vue.js+SpringBoot，包括房屋信息、看房申请、租赁合同、房屋报修、收租信息、维修数据、租客管理、公告管理模块](https://blog.csdn.net/WSheng_Pyhon/article/details/148387134)
+
++ [哪些高端技术带来了 DeepSeek 的一夜爆火？](https://blog.csdn.net/jsntghf/article/details/148380779)
+
