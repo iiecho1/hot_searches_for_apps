@@ -189,3 +189,5 @@
 
 + [自主设计一个DDS信号发生器](https://blog.csdn.net/weixin_74345079/article/details/148388650)
 
++ [数据库系统概论（十六）数据库安全性（安全标准，控制，视图机制，审计与数据加密）](https://blog.csdn.net/2402_83322742/article/details/148387760)
+

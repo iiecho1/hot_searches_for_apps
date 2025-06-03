@@ -183,3 +183,7 @@
 
 + [葡萄牙收紧政策 将驱离近3.4万名移民](https://news.cctv.com/2025/06/03/ARTIJ7vqwXYdemJOPwtafD9L250603.shtml)
 
++ [联合国机构：阿富汗约400万儿童缺乏教育机会](https://news.cctv.com/2025/06/03/ARTIkaGyJXBQyBoi4c8ZQfQs250603.shtml)
+
++ [经合组织再次下调今明两年全球经济增长预期](https://news.cctv.com/2025/06/03/ARTIcJts60tml7uMdpxF5aP7250603.shtml)
+
