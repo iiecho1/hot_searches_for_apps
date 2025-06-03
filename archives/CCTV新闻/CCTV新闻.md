@@ -179,3 +179,7 @@
 
 + [选举日过半 韩国大选投票率已超60%](https://news.cctv.com/2025/06/03/ARTItP7Wm6Y7k3cPKAWtOrPC250603.shtml)
 
++ [“死磕”哈佛只因曾被拒入学？特朗普回应：本人毕业于沃顿商学院](https://news.cctv.com/2025/06/03/ARTIQIQigp4ceowdEgBJHoc3250603.shtml)
+
++ [葡萄牙收紧政策 将驱离近3.4万名移民](https://news.cctv.com/2025/06/03/ARTIJ7vqwXYdemJOPwtafD9L250603.shtml)
+
