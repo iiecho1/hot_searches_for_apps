@@ -109,3 +109,31 @@
 
 + [02.上帝之心算法用GPU计算提速50倍](https://blog.csdn.net/u010559109/article/details/148371727)
 
++ [基于mediapipe深度学习的虚拟画板系统python源码](https://blog.csdn.net/aycd1234/article/details/148358209)
+
++ [Java 大视界 -- Java 大数据在新能源微电网能量优化调度与虚拟电厂协同控制中的应用实践（282）](https://blog.csdn.net/atgfg/article/details/148357552)
+
++ [【AI大模型前沿】Aero-1-Audio：Qwen2.5架构加持，轻量级音频模型天花板、吊打Whisper【稳跑+低资源】](https://blog.csdn.net/xiaobing259/article/details/148402210)
+
++ [学习threejs，交互式神经网络可视化](https://blog.csdn.net/qq_28419035/article/details/148401608)
+
++ [.net consul服务注册与发现](https://blog.csdn.net/weixin_44064908/article/details/148373709)
+
++ [华为云Flexus+DeepSeek征文｜DeepSeek-V3/R1 商用服务开通全流程与本地部署搭建](https://blog.csdn.net/weixin_62765017/article/details/148409105)
+
++ [MySQL——事务](https://blog.csdn.net/2302_78794424/article/details/148290163)
+
++ [AI原生应用安全防护：从算法到架构的安全设计](https://blog.csdn.net/universsky2015/article/details/148370503)
+
++ [Linux《文件系统》](https://blog.csdn.net/2303_81098358/article/details/148310980)
+
++ [flutter开发安卓APP适配不同尺寸的手机屏幕](https://blog.csdn.net/getapi/article/details/148381882)
+
++ [多目标粒子群优化算法（MOPSO），用于解决无人机三维路径规划问题，Matlab代码实现](https://blog.csdn.net/matlab_dingdang/article/details/148370839)
+
++ [现代前端框架的发展与演进](https://blog.csdn.net/qq_25416827/article/details/148366233)
+
++ [Spring Boot Starter 自动装配原理全解析：从概念到实践](https://blog.csdn.net/huayula/article/details/148373838)
+
++ [【计算机网络】数据链路层——ARP协议](https://blog.csdn.net/GGDxianv/article/details/148381070)
+
