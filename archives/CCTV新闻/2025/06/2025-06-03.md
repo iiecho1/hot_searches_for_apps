@@ -171,3 +171,9 @@
 
 + [“当作没有谈判一样” 以色列将在加沙地带全力行动](https://news.cctv.com/2025/06/03/ARTIPY2o33PI8979tQsiOuIz250603.shtml)
 
++ [乌方提议本月末与俄举行下一轮谈判 土耳其提议举行俄乌美峰会](https://news.cctv.com/2025/06/03/ARTIYHKsQkQIz291maW9J3lz250603.shtml)
+
++ [韩国第21届总统选举正式投票开始，尹锡悦夫妇现身投票站完成投票](https://news.cctv.com/2025/06/03/ARTIPiJWmxTBhJRZhVBOgbLo250603.shtml)
+
++ [哈佛大学寻求解冻美政府冻结的25亿美元资金](https://news.cctv.com/2025/06/03/ARTITOsLs6KhYfv6FISOQyfd250603.shtml)
+
