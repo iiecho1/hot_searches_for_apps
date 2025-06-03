@@ -77,3 +77,7 @@
 
 + [小哥：我去玩得挺溜呀](https://m.acfun.cn/v/?ac=47346725)
 
++ [瑞克和莫蒂 第八季 第二集 Rick and Morty Season 8 (2025)](https://m.acfun.cn/v/?ac=47348538)
+
++ [【A站独家】深渊巨口版小兔喝西瓜](https://m.acfun.cn/v/?ac=47338647)
+

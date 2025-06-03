@@ -177,3 +177,5 @@
 
 + [哈佛大学寻求解冻美政府冻结的25亿美元资金](https://news.cctv.com/2025/06/03/ARTITOsLs6KhYfv6FISOQyfd250603.shtml)
 
++ [选举日过半 韩国大选投票率已超60%](https://news.cctv.com/2025/06/03/ARTItP7Wm6Y7k3cPKAWtOrPC250603.shtml)
+
