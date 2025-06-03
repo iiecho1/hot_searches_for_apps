@@ -199,3 +199,13 @@
 
 + [逻辑回归的概念和案例](https://blog.csdn.net/m0_56691516/article/details/148363621)
 
++ [c/c++的opencv车牌识别](https://blog.csdn.net/m0_54069809/article/details/148357427)
+
++ [从单机到集群，再到分布式，再到微服务](https://blog.csdn.net/2301_80355452/article/details/148367497)
+
++ [【Rust unsafe】Rust 不安全代码unsafe详细用法实战](https://blog.csdn.net/littlefun591/article/details/148395084)
+
++ [HuggingFace平台详细介绍|模型or数据集下载](https://blog.csdn.net/m0_64336780/article/details/146904714)
+
++ [OpenWrt部署Docker的硬核实战：内核适配调试全攻略与资源优化实战技巧](https://blog.csdn.net/qyj19920704/article/details/148389457)
+

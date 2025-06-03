@@ -187,3 +187,9 @@
 
 + [经合组织再次下调今明两年全球经济增长预期](https://news.cctv.com/2025/06/03/ARTIcJts60tml7uMdpxF5aP7250603.shtml)
 
++ [欧盟批准英意日合资开发第六代战斗机](https://news.cctv.com/2025/06/03/ARTI3yysKtMy5WUDjH9zU95m250603.shtml)
+
++ [调查显示超半数美国亚太裔居民去年曾遭仇恨攻击](https://news.cctv.com/2025/06/03/ARTIWZXxObpUIGBC4nnXctJK250603.shtml)
+
++ [“稳定”和“创新”是观察中国发展的关键词（国际论坛·读懂中国·读懂中国式现代化）](https://news.cctv.com/2025/06/03/ARTIO77TpS3XQA5omng9erkA250603.shtml)
+
