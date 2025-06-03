@@ -203,3 +203,9 @@
 
 + [克里米亚大桥公路通行已关闭](https://news.cctv.com/2025/06/03/ARTIFmsXyintGhZB9aRXkwtH250603.shtml)
 
++ [土耳其查获1.87吨冰毒](https://news.cctv.com/2025/06/03/ARTI2LfWcSf0ICb2ojyMHm15250603.shtml)
+
++ [荷兰云服务严重依赖美国　加剧数字主权忧虑](https://news.cctv.com/2025/06/03/ARTIQqM1s80LFf9Iy04Edt5v250603.shtml)
+
++ [世卫组织：苏丹新一轮霍乱疫情已致超1770人死亡](https://news.cctv.com/2025/06/03/ARTIrNeafBIJ6LNUdirl39tp250603.shtml)
+

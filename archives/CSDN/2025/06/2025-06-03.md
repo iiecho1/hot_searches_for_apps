@@ -229,3 +229,9 @@
 
 + [【业务系统开发】【web系统系列】大型web系统](https://blog.csdn.net/weixin_49199313/article/details/148381337)
 
++ [SNR,Eb/N0以及Es/N0的原理与应用](https://blog.csdn.net/ccsss22/article/details/148383845)
+
++ [网络攻防技术四：网络侦察技术](https://blog.csdn.net/qq_55038440/article/details/148386026)
+
++ [CentOS8.3+Kubernetes1.32.5+Docker28.2.2高可用集群二进制部署](https://blog.csdn.net/peng_s_w/article/details/148388353)
+
