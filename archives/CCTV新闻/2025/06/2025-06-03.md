@@ -201,3 +201,5 @@
 
 + [助力构建更加紧密的中国—中亚命运共同体](https://news.cctv.com/2025/06/03/ARTImhSGETwThpGwVXMWUu6k250603.shtml)
 
++ [克里米亚大桥公路通行已关闭](https://news.cctv.com/2025/06/03/ARTIFmsXyintGhZB9aRXkwtH250603.shtml)
+
