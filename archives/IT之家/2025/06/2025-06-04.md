@@ -37,3 +37,5 @@
 
 + [售价 56.8 万元起，新款路虎揽胜星脉上市](https://m.ithome.com/html/857939.htm)
 
++ [小鹏汽车：天玑升级属于系统彻底变更，无法回退至原系统](https://m.ithome.com/html/858083.htm)
+
