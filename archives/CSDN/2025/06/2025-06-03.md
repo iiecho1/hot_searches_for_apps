@@ -149,3 +149,13 @@
 
 + [使用 MCP 将代理连接到 Elasticsearch 并对索引进行查询](https://blog.csdn.net/UbuntuTouch/article/details/148378743)
 
++ [安全漏洞修复导致SpringBoot2.7与Springfox不兼容](https://blog.csdn.net/xdpcxq/article/details/148370642)
+
++ [阿里云ACP云计算备考笔记 (2)——云网络原理与实践](https://blog.csdn.net/weixin_42254759/article/details/148334900)
+
++ [shiro、struts2、weblogic特征流量分析](https://blog.csdn.net/2302_81945070/article/details/148389863)
+
++ [CTF：网络安全的实战演练场](https://blog.csdn.net/u014727709/article/details/148384134)
+
++ [计算机网络第1章（下）：网络性能指标与分层模型全面解析](https://blog.csdn.net/xw1680/article/details/148365679)
+
