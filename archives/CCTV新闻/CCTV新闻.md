@@ -163,3 +163,9 @@
 
 + [李在明：拼经济保民生　寻求韩朝对话](https://news.cctv.com/2025/06/04/ARTIPs8mCdy0SKtFr5XHPU6W250604.shtml)
 
++ [韩国大选投票结果议案通过 李在明总统任期正式开始](https://news.cctv.com/2025/06/04/ARTI6mZVj0LUOVMnRkRGP0YE250604.shtml)
+
++ [白宫证实写信“催”贸易谈判伙伴“交方案”](https://news.cctv.com/2025/06/04/ARTIehvSp7CeDmHPoMCFTqTg250604.shtml)
+
++ [荷兰首相宣布政府辞职](https://news.cctv.com/2025/06/04/ARTIcszYPVjmJG9smcTQmoat250604.shtml)
+

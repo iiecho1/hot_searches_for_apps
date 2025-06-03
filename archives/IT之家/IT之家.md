@@ -39,3 +39,5 @@
 
 + [小鹏汽车：天玑升级属于系统彻底变更，无法回退至原系统](https://m.ithome.com/html/858083.htm)
 
++ [苹果 iPad 加入自助维修服务，外媒直呼官方配件定价高昂“修不起”](https://m.ithome.com/html/857828.htm)
+
