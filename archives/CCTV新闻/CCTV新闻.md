@@ -193,3 +193,11 @@
 
 + [“稳定”和“创新”是观察中国发展的关键词（国际论坛·读懂中国·读懂中国式现代化）](https://news.cctv.com/2025/06/03/ARTIO77TpS3XQA5omng9erkA250603.shtml)
 
++ [政策朝令夕改，美国正在失去方向](https://news.cctv.com/2025/06/03/ARTI3O9nWxf0RMPEeXvXNSZb250603.shtml)
+
++ [专访：期待不断深化对华经贸合作——访马耳他贸易局首席执行官布蒂吉格](https://news.cctv.com/2025/06/03/ARTIADXnacuEymlrxmKeMEWL250603.shtml)
+
++ [“深化中亚国家和中国人民的友谊”（中国—中亚媒体高质量共建“一带一路”联合采访）](https://news.cctv.com/2025/06/03/ARTIq3nhINg7nBLde7XKMkOQ250603.shtml)
+
++ [助力构建更加紧密的中国—中亚命运共同体](https://news.cctv.com/2025/06/03/ARTImhSGETwThpGwVXMWUu6k250603.shtml)
+

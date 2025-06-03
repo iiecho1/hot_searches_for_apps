@@ -209,3 +209,13 @@
 
 + [OpenWrt部署Docker的硬核实战：内核适配调试全攻略与资源优化实战技巧](https://blog.csdn.net/qyj19920704/article/details/148389457)
 
++ [Python爬虫（47）Python异步爬虫与K8S弹性伸缩：构建百万级并发数据采集引擎](https://blog.csdn.net/Dreamy_zsy/article/details/148396943)
+
++ [心怀热爱，共绽光芒——鲲鹏昇腾开发者大会 2025 印象记](https://blog.csdn.net/qq_44866828/article/details/148390824)
+
++ [1.6万字测评：deepseek-r1-0528横向对比 gemini-2.5-pro-0506和claude4](https://blog.csdn.net/shi_hong_fei_hei/article/details/148356272)
+
++ [AnyLine 对低代码的支持](https://blog.csdn.net/NIIT0532/article/details/148378749)
+
++ [600+纯CSS加载动画一键获取指南](https://blog.csdn.net/qq_40603125/article/details/148388764)
+

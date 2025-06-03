@@ -31,3 +31,13 @@
 
 + [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 
++ [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
++ [plankanban/planka](https://github.com/plankanban/planka)
+
++ [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
+
++ [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
++ [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+
