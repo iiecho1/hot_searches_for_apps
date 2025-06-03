@@ -161,3 +161,5 @@
 
 + [伊朗外长：将适当回应美方核谈判提案](https://news.cctv.com/2025/06/01/ARTI6hCep3ShzSrBnS5r4bkT250601.shtml)
 
++ [李在明：拼经济保民生　寻求韩朝对话](https://news.cctv.com/2025/06/04/ARTIPs8mCdy0SKtFr5XHPU6W250604.shtml)
+
