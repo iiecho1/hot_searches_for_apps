@@ -25,3 +25,15 @@
 
 + [小米汽车：YU7 将提供多种轮胎选项，用于满足不同性能及续航需求](https://m.ithome.com/html/857845.htm)
 
++ [雷军称反内卷不打价格战，小米 YU7 标准版不会只比 SU7 高 2 万元](https://m.ithome.com/html/858038.htm)
+
++ [华为 Pura 80 系列配色曝光：Pro+ 鎏光黑、鎏光金、 釉白、釉红、釉青](https://m.ithome.com/html/858020.htm)
+
++ [骁龙 8 Gen 3 处理器：realme 真我 GT6 手机国补后 1292 元新低](https://m.ithome.com/html/857909.htm)
+
++ [2024 年小米中国手机市场净流入 1300 余万用户，消息称“其中苹果和华为 550 万”](https://m.ithome.com/html/858035.htm)
+
++ [去年上市 6999 元 → 今年半价 3499 元：小米 14 Ultra 16+512GB 破冰新低](https://m.ithome.com/html/858072.htm)
+
++ [售价 56.8 万元起，新款路虎揽胜星脉上市](https://m.ithome.com/html/857939.htm)
+

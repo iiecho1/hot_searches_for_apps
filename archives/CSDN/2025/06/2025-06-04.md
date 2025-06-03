@@ -101,3 +101,11 @@
 
 + [【业务系统开发】【web系统系列】大型web系统](https://blog.csdn.net/weixin_49199313/article/details/148381337)
 
++ [Python从0到100（九十八）：融合选择性卷积与残差结构的SKResNet架构详解](https://blog.csdn.net/weixin_51390582/article/details/148197039)
+
++ [CNN卷积网络：让计算机拥有“火眼金睛“（superior哥AI系列第4期）](https://blog.csdn.net/qq_53773901/article/details/148386614)
+
++ [计算机网络第1章（下）：网络性能指标与分层模型全面解析](https://blog.csdn.net/xw1680/article/details/148365679)
+
++ [02.上帝之心算法用GPU计算提速50倍](https://blog.csdn.net/u010559109/article/details/148371727)
+
