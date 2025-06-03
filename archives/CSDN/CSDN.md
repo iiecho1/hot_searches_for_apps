@@ -219,3 +219,5 @@
 
 + [600+纯CSS加载动画一键获取指南](https://blog.csdn.net/qq_40603125/article/details/148388764)
 
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | Sound Board（音响控制面板）](https://blog.csdn.net/qq_44808710/article/details/148387814)
+
