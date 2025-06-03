@@ -165,3 +165,13 @@
 
 + [[yolov11改进系列]基于yolov11引入上下文锚点注意力CAA的python源码+训练源码](https://blog.csdn.net/FL1623863129/article/details/148359007)
 
++ [边缘计算场景下的大模型落地：基于 Cherry Studio 的 DeepSeek-R1-0528 本地部署](https://blog.csdn.net/K48932/article/details/148355264)
+
++ [02.上帝之心算法用GPU计算提速50倍](https://blog.csdn.net/u010559109/article/details/148371727)
+
++ [现代前端框架的发展与演进](https://blog.csdn.net/qq_25416827/article/details/148366233)
+
++ [Notion使用教程](https://blog.csdn.net/2301_80426325/article/details/148352628)
+
++ [第二章支线三 ·CSS炼金术：动画与变换高级奥义](https://blog.csdn.net/weixin_51798265/article/details/148356011)
+

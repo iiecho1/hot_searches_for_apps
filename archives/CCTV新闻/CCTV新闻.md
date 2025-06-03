@@ -169,3 +169,5 @@
 
 + [印媒：加拿大尚未正式邀请，莫迪或将六年来首次缺席G7峰会](https://news.cctv.com/2025/06/03/ARTIi1Vxp3KPH7m3SB3jBFOt250603.shtml)
 
++ [“当作没有谈判一样” 以色列将在加沙地带全力行动](https://news.cctv.com/2025/06/03/ARTIPY2o33PI8979tQsiOuIz250603.shtml)
+
