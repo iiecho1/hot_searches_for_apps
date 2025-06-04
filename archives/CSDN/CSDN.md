@@ -185,3 +185,5 @@
 
 + [SpringBoot接入Kimi实践记录轻松上手](https://blog.csdn.net/weixin_56861179/article/details/148412568)
 
++ [Python爬虫（48）基于Scrapy-Redis与深度强化学习的智能分布式爬虫架构设计与实践](https://blog.csdn.net/Dreamy_zsy/article/details/148398197)
+

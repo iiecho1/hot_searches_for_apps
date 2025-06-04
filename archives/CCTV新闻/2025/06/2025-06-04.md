@@ -193,3 +193,11 @@
 
 + [李在明公布韩国新政府人事安排 提名金民锡为总理候选人](https://news.cctv.com/2025/06/04/ARTIgR4216671SqlcRo84tGN250604.shtml)
 
++ [美国5月汽车销量暴跌](https://news.cctv.com/2025/06/04/ARTI2aIgLH43AT2C1bRoyVAA250604.shtml)
+
++ [日本2024年总和生育率达新低 出生人口不足70万](https://news.cctv.com/2025/06/04/ARTIuhQZ8GzGRFBLs8o5N6kw250604.shtml)
+
++ [世界绿色发展的坚定行动派、重要贡献者——写在世界环境日到来之际](https://news.cctv.com/2025/06/04/ARTIgIFJuF012AxlDDHeb2Bv250604.shtml)
+
++ [俄罗斯布良斯克州桥梁坍塌事故已致118人受伤](https://news.cctv.com/2025/06/04/ARTIKcMSEoCQOdoTtUaJqFs8250604.shtml)
+
