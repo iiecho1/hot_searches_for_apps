@@ -23,3 +23,15 @@
 
 + [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
 
++ [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [scrapy/scrapy](https://github.com/scrapy/scrapy)
+
++ [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
+
++ [syncthing/syncthing](https://github.com/syncthing/syncthing)
+

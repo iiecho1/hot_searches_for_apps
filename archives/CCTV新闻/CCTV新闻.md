@@ -211,3 +211,7 @@
 
 + [当选后首场发布会 罗马尼亚总统达恩称将聚焦司法公正](https://news.cctv.com/2025/06/04/ARTIYRT3jkYhAyxy66PjgdkN250604.shtml)
 
++ [特朗普要告，民主党要闹，派拉蒙左右为难](https://news.cctv.com/2025/06/04/ARTIXAfKO4Ei9zoswlrnJwQq250604.shtml)
+
++ [乌最高拉达批准预算法修正案 以落实美乌矿产协议](https://news.cctv.com/2025/06/04/ARTI51uBkk3hFMv1Z80xoHKf250604.shtml)
+
