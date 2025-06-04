@@ -177,3 +177,11 @@
 
 + [这座博物馆25万件藏品皆可点单预约近距离观赏](https://news.cctv.com/2025/06/04/ARTI1VR1J65dpg6CMZxoSkol250604.shtml)
 
++ [火速上岗 韩国新总统面临内外四大挑战](https://news.cctv.com/2025/06/04/ARTIY2jAQI4OYQyo6EsIGHQX250604.shtml)
+
++ [俄总统新闻秘书：待乌克兰回应备忘录草案 俄美乌领导人近期会晤可能性小](https://news.cctv.com/2025/06/04/ARTI5bBxK9HCwHeZyIn8bXNv250604.shtml)
+
++ [联合国：希望俄乌谈判能达成“无条件停火”](https://news.cctv.com/2025/06/04/ARTIJLw7DV8P9ZiT2eZQVSUL250604.shtml)
+
++ [加拿大野火持续蔓延 萨斯喀彻温省未来几天仍需撤离数千人](https://news.cctv.com/2025/06/04/ARTIyyWi6qmUOiWvXwYKcKNf250604.shtml)
+
