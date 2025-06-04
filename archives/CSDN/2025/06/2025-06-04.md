@@ -175,3 +175,9 @@
 
 + [【Part 3 Unity VR眼镜端播放器开发与优化】第二节｜VR眼镜端的开发适配与交互设计](https://blog.csdn.net/qq_41140324/article/details/148379920)
 
++ [Vue3+SpringBoot全栈开发：从零实现增删改查与分页功能](https://blog.csdn.net/p6448777/article/details/148368211)
+
++ [工厂方法模式深度解析：从原理到应用实战](https://blog.csdn.net/IRpickstars/article/details/148400576)
+
++ [微信小程序与H5通信：web-view内嵌页交互方案](https://blog.csdn.net/2501_91888447/article/details/148370775)
+
