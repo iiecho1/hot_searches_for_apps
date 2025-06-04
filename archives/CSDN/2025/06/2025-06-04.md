@@ -155,3 +155,9 @@
 
 + [穿越文件之海：Linux链接与库的奇幻旅程，软硬连接与动静态库](https://blog.csdn.net/2303_81060385/article/details/147580876)
 
++ [【机器学习】支持向量机（SVM）](https://blog.csdn.net/2501_90800687/article/details/148097291)
+
++ [spring-cloud-alibaba-sentinel-gateway](https://blog.csdn.net/Mr_lee_1/article/details/148383744)
+
++ [React前端框架](https://blog.csdn.net/qq_53353440/article/details/148400543)
+

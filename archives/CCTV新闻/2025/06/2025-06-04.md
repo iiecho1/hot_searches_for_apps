@@ -169,3 +169,11 @@
 
 + [荷兰首相宣布政府辞职](https://news.cctv.com/2025/06/04/ARTIcszYPVjmJG9smcTQmoat250604.shtml)
 
++ [国际原子能机构总干事：扎波罗热核电站目前不具备重启条件](https://news.cctv.com/2025/06/04/ARTIJuYor70JnbJlt5lHf2sa250604.shtml)
+
++ [韩国总统李在明宣誓就职](https://news.cctv.com/2025/06/04/ARTIowDTTSNRAlCGnUhcnJVh250604.shtml)
+
++ [意大利庆祝共和国日](https://photo.cctv.com/2025/06/04/PHOA35y2ePZjCEWnk42dxNlg250604.shtml)
+
++ [这座博物馆25万件藏品皆可点单预约近距离观赏](https://news.cctv.com/2025/06/04/ARTI1VR1J65dpg6CMZxoSkol250604.shtml)
+
