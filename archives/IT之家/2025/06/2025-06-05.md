@@ -25,3 +25,15 @@
 
 + [迅雷完成收购虎扑，总现金对价 5 亿元](https://m.ithome.com/html/858302.htm)
 
++ [雷军称反内卷不打价格战，小米 YU7 标准版不会只比 SU7 高 2 万元](https://m.ithome.com/html/858038.htm)
+
++ [去年上市 6999 元 → 今年半价 3499 元：小米 14 Ultra 16+512GB 破冰新低](https://m.ithome.com/html/858072.htm)
+
++ [华为客户服务：Mate 40 系列（5G）产品目前支持 5G-A 能力](https://m.ithome.com/html/858109.htm)
+
++ [2024 年小米中国手机市场净流入 1300 余万用户，消息称“其中苹果和华为 550 万”](https://m.ithome.com/html/858035.htm)
+
++ [小鹏汽车：天玑升级属于系统彻底变更，无法回退至原系统](https://m.ithome.com/html/858083.htm)
+
++ [消息称玄戒芯片会持续迭代，并逐步覆盖小米高端产品线](https://m.ithome.com/html/858097.htm)
+
