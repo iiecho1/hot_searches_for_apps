@@ -149,3 +149,9 @@
 
 + [【数据库】关系数据库标准语言－SQL（金仓）下](https://blog.csdn.net/2301_79791432/article/details/146459189)
 
++ [计算机网络第1章（上）：网络组成与三种交换方式全解析](https://blog.csdn.net/xw1680/article/details/148314312)
+
++ [基于PostGIS的GeoTools执行原生SQL查询制图实践-以贵州省行政区划及地级市驻地为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/148412137)
+
++ [穿越文件之海：Linux链接与库的奇幻旅程，软硬连接与动静态库](https://blog.csdn.net/2303_81060385/article/details/147580876)
+
