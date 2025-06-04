@@ -215,3 +215,5 @@
 
 + [乌最高拉达批准预算法修正案 以落实美乌矿产协议](https://news.cctv.com/2025/06/04/ARTI51uBkk3hFMv1Z80xoHKf250604.shtml)
 
++ [欧洲央行正式批准保加利亚加入欧元区](https://news.cctv.com/2025/06/04/ARTIVZBDFcy3VDzBn4tWI1qI250604.shtml)
+
