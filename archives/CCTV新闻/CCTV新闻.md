@@ -201,3 +201,11 @@
 
 + [俄罗斯布良斯克州桥梁坍塌事故已致118人受伤](https://news.cctv.com/2025/06/04/ARTIKcMSEoCQOdoTtUaJqFs8250604.shtml)
 
++ [共话中国经济新机遇丨通讯：“白色黄金”铺就致富路——中国技术助力科特迪瓦橡胶产业增产增效](https://news.cctv.com/2025/06/04/ARTItpNPaV0C0tCwvJctSeNM250604.shtml)
+
++ [谈判话音刚落冲突又起，双线博弈下俄乌和平难以“一蹴而就”](https://news.cctv.com/2025/06/04/ARTIA29OdhhQm7Ug6zIz5GqF250604.shtml)
+
++ [特朗普政府正式要求国会停止资助公共广播公司](https://news.cctv.com/2025/06/04/ARTI9RLYXGvNO5gEpVsNdoad250604.shtml)
+
++ [加拿大森林火灾过火面积超过2万平方公里](https://news.cctv.com/2025/06/04/ARTI5iuQU4UK23ursuue5MkW250604.shtml)
+
