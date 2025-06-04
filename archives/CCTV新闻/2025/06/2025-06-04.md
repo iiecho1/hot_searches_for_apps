@@ -185,3 +185,5 @@
 
 + [加拿大野火持续蔓延 萨斯喀彻温省未来几天仍需撤离数千人](https://news.cctv.com/2025/06/04/ARTIyyWi6qmUOiWvXwYKcKNf250604.shtml)
 
++ [世界泳联：或将驱逐参加“增强运动会”者](https://news.cctv.com/2025/06/04/ARTIdgDUOINcbxhqc4QzprTN250604.shtml)
+
