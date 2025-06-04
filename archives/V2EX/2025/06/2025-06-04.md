@@ -39,3 +39,5 @@
 
 + [昨晚第一次开通会员看《藏海传》](https://www.v2ex.com/t/1136205)
 
++ [买了个 Nova 14 Pro ，替换小米](https://www.v2ex.com/t/1136228)
+

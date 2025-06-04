@@ -181,3 +181,7 @@
 
 + [微信小程序与H5通信：web-view内嵌页交互方案](https://blog.csdn.net/2501_91888447/article/details/148370775)
 
++ [【Rust 高级trait】Rust trait的一些高级用法解密](https://blog.csdn.net/littlefun591/article/details/148406677)
+
++ [SpringBoot接入Kimi实践记录轻松上手](https://blog.csdn.net/weixin_56861179/article/details/148412568)
+

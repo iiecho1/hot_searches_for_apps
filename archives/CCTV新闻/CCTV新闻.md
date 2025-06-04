@@ -187,3 +187,9 @@
 
 + [世界泳联：或将驱逐参加“增强运动会”者](https://news.cctv.com/2025/06/04/ARTIdgDUOINcbxhqc4QzprTN250604.shtml)
 
++ [韩国总统选举最终投票率达79.4% 创自1997年以来最高纪录](https://news.cctv.com/2025/06/04/ARTI8wVBU0B4ZPPCvIDJD7b4250604.shtml)
+
++ [马斯克“炮轰”特朗普政府“大而美”法案：荒唐可笑、夹带私货，令人作呕](https://news.cctv.com/2025/06/04/ARTIQBkufFmxydtFMSLXJ6Aw250604.shtml)
+
++ [李在明公布韩国新政府人事安排 提名金民锡为总理候选人](https://news.cctv.com/2025/06/04/ARTIgR4216671SqlcRo84tGN250604.shtml)
+
