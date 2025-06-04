@@ -161,3 +161,13 @@
 
 + [美证实：驻日美军基地有害化学物发生泄漏](https://news.cctv.com/2025/06/02/ARTIG9xg6UrihADo39lQHWjp250602.shtml)
 
++ [外媒：加入欧盟18年后，保加利亚正式获准使用欧元](https://news.cctv.com/2025/06/05/ARTIVfxMPAeTmK6fNECdpBFN250605.shtml)
+
++ [新政策附加严苛条件，印度吸引全球电动车巨头遇冷](https://news.cctv.com/2025/06/05/ARTIJogXcDPgDoWLjHrOWXRC250605.shtml)
+
++ [欧盟官员：美国上调钢铝关税无助于美欧谈判](https://news.cctv.com/2025/06/05/ARTISUkuCzkR3y0evzkJH31k250605.shtml)
+
++ [安理会加沙人道主义决议草案遭美国一票否决](https://news.cctv.com/2025/06/05/ARTIVsQpJfOGhqCJ6FOF7VnO250605.shtml)
+
++ [普京与特朗普通话超1小时 聚焦俄机场遭袭及伊朗核问题](https://news.cctv.com/2025/06/05/ARTIzVL14Pb0aOw8Z6Kuepho250605.shtml)
+
