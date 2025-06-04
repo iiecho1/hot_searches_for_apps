@@ -37,3 +37,13 @@
 
 + [消息称玄戒芯片会持续迭代，并逐步覆盖小米高端产品线](https://m.ithome.com/html/858097.htm)
 
++ [微信鸿蒙版 App 安装量突破 500 万](https://m.ithome.com/html/858260.htm)
+
++ [周星驰《少林足球》续作《女足》杀青：张小斐、迪丽热巴等主演](https://m.ithome.com/html/858323.htm)
+
++ [消息称苹果 A20 芯片采用 2nm 工艺及全新封装技术，iPhone 18 Pro 系列搭载](https://m.ithome.com/html/858148.htm)
+
++ [天气太热游泳去：Apple Watch S10 国补 + 换新 2999 → 1488 元腰斩新低](https://m.ithome.com/html/858240.htm)
+
++ [小鹏汽车宣布携手华为联手打造“世界最好”AR-HUD，突破行业痛点](https://m.ithome.com/html/858258.htm)
+
