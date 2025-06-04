@@ -209,3 +209,5 @@
 
 + [加拿大森林火灾过火面积超过2万平方公里](https://news.cctv.com/2025/06/04/ARTI5iuQU4UK23ursuue5MkW250604.shtml)
 
++ [当选后首场发布会 罗马尼亚总统达恩称将聚焦司法公正](https://news.cctv.com/2025/06/04/ARTIYRT3jkYhAyxy66PjgdkN250604.shtml)
+

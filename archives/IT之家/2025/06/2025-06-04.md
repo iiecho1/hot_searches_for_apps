@@ -41,3 +41,19 @@
 
 + [苹果 iPad 加入自助维修服务，外媒直呼官方配件定价高昂“修不起”](https://m.ithome.com/html/857828.htm)
 
++ [OPPO 产品总监评华为 Pura 80 相机模组：非常贵，应该打破目前长焦单一模组成本记录](https://m.ithome.com/html/858125.htm)
+
++ [王腾官宣小米 REDMI 首款旗舰小平板：手感好、性能强、配置满，全面对标 iPad mini](https://m.ithome.com/html/858208.htm)
+
++ [华为客户服务：Mate 40 系列（5G）产品目前支持 5G-A 能力](https://m.ithome.com/html/858109.htm)
+
++ [华为、小鹏官宣“牵手”，HUD 新技术有望明天见](https://m.ithome.com/html/858190.htm)
+
++ [小米汽车：YU7 标准版、Pro 均搭载由弗迪和宁德时代提供的 96.3kWh 磷酸铁锂电池](https://m.ithome.com/html/858132.htm)
+
++ [贾跃亭落泪：FF 必须活下去，我除了感动之外更多的是愧疚](https://m.ithome.com/html/858126.htm)
+
++ [前苹果设计师前瞻 iOS 26，指尖下的动态玻璃世界](https://m.ithome.com/html/858158.htm)
+
++ [消息称玄戒芯片会持续迭代，并逐步覆盖小米高端产品线](https://m.ithome.com/html/858097.htm)
+
