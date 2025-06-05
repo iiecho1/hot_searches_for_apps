@@ -207,3 +207,9 @@
 
 + [马斯克呼吁民众“扼杀”“大而美”法案](https://news.cctv.com/2025/06/05/ARTIIrQlmHiEDzhPcmb39F0I250605.shtml)
 
++ [美联储最新“褐皮书”发布：美国整体经济前景仍显悲观](https://news.cctv.com/2025/06/05/ARTIF8llVjuNQaDWPgKM30Q9250605.shtml)
+
++ [一客机遭遇强气流在德国境内紧急降落 机上9人受伤](https://news.cctv.com/2025/06/05/ARTIxb0H5VEgEPNXLUE0skjO250605.shtml)
+
++ [特朗普下令调查拜登健康状况是否被合谋隐瞒](https://news.cctv.com/2025/06/05/ARTIIXxYOdvWM5mzERgESX2F250605.shtml)
+

@@ -159,3 +159,11 @@
 
 + [一周学会Pandas2之Python数据处理与分析-Pandas2数据绘图与可视化](https://blog.csdn.net/caoli201314/article/details/148408086)
 
++ [让回归模型不再被异常值“带跑偏“，MSE和Cauchy损失函数在噪声数据环境下的实战对比](https://blog.csdn.net/m0_46510245/article/details/148444913)
+
++ [[yolov11改进系列]基于yolov11引入空间通道系统注意力机制SCSA的python源码+训练源码](https://blog.csdn.net/FL1623863129/article/details/148404219)
+
++ [立志成为一名优秀测试开发工程师(第十一天)—Postman动态参数/变量、文件上传、断言策略、批量执行及CSV/JSON数据驱动测试](https://blog.csdn.net/2301_80002241/article/details/148408683)
+
++ [鸿蒙版Taro 搭建开发环境](https://blog.csdn.net/weixin_45822171/article/details/148406774)
+
