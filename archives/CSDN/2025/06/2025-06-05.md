@@ -143,3 +143,9 @@
 
 + [CTF：网络安全的实战演练场](https://blog.csdn.net/u014727709/article/details/148384134)
 
++ [OPenCV CUDA模块图像处理-----对图像执行 均值漂移滤波（Mean Shift Filtering）函数meanShiftFiltering()](https://blog.csdn.net/jndingxin/article/details/148422912)
+
++ [【Linux】自动化构建-Make/Makefile](https://blog.csdn.net/huangyuchi/article/details/148411624)
+
++ [Transformer实战——词嵌入技术详解](https://blog.csdn.net/LOVEmy134611/article/details/147517468)
+
