@@ -167,3 +167,17 @@
 
 + [鸿蒙版Taro 搭建开发环境](https://blog.csdn.net/weixin_45822171/article/details/148406774)
 
++ [OpenCV CUDA模块图像处理------创建CUDA加速的Canny边缘检测器对象createCannyEdgeDetector()](https://blog.csdn.net/jndingxin/article/details/148421009)
+
++ [告别局域网：实现NASCab云可云远程自由访问](https://blog.csdn.net/weixin_44976692/article/details/148449039)
+
++ [Chat2DB快速部署指南，本地数据库远程访问一键搞定](https://blog.csdn.net/qyj19920704/article/details/148449736)
+
++ [【p2p、分布式，区块链笔记 MESH】 论文阅读 Thread/OpenThread Low-Power Wireless Multihop Net](https://blog.csdn.net/ResumeProject/article/details/148411347)
+
++ [Web前端为什么要打包？Webpack 和 Vite 如何助力现代开发？](https://blog.csdn.net/m0_63472757/article/details/148341912)
+
++ [Spark大数据分析与实战笔记（第五章 HBase分布式数据库-03）](https://blog.csdn.net/u014727709/article/details/148438896)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | Dad Jokes（冷笑话卡片）](https://blog.csdn.net/qq_44808710/article/details/148410262)
+
