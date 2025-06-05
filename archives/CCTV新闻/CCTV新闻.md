@@ -173,3 +173,7 @@
 
 + [特朗普：短时间内促成俄乌立即停火比较困难](https://news.cctv.com/2025/06/06/ARTIY5PmM9EIUCbnEdIhSPst250606.shtml)
 
++ [美媒：受美政策影响 科学家想“另寻他处”](https://news.cctv.com/2025/06/06/ARTIzMXIIscC1rdB7TLpXkMV250606.shtml)
+
++ [韩国经济“亮红灯” 李在明组建紧急小组](https://news.cctv.com/2025/06/06/ARTIx6m9pZRodPVomerWcQUA250606.shtml)
+
