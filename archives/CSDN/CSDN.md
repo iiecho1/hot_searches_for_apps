@@ -127,3 +127,11 @@
 
 + [基于大数据爬虫+智能AI的网络小说数据可视化系统设计与实现(源码+论文+部署讲解等)](https://blog.csdn.net/weixin_39709134/article/details/148436025)
 
++ [黑客利用GitHub现成工具通过DevOps API发起加密货币挖矿攻击](https://blog.csdn.net/FreeBuf_/article/details/148394779)
+
++ [深度学习学习率调度器指南：PyTorch 四大 scheduler 对决](https://blog.csdn.net/JiShuiSanQianLi/article/details/148398351)
+
++ [Windows Server部署Vue3+Spring Boot项目](https://blog.csdn.net/BillKu/article/details/148401958)
+
++ [大数据Spark（六十一）：Spark基于Standalone提交任务流程](https://blog.csdn.net/xiaoweite1/article/details/148436499)
+
