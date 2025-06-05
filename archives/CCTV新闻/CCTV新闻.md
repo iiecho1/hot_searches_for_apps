@@ -213,3 +213,7 @@
 
 + [特朗普下令调查拜登健康状况是否被合谋隐瞒](https://news.cctv.com/2025/06/05/ARTIIXxYOdvWM5mzERgESX2F250605.shtml)
 
++ [非媒：中非关系在全球动荡变局中更显韧性](https://news.cctv.com/2025/06/05/ARTIh2pYuwWZpsg3NHooFJ9l250605.shtml)
+
++ [“为地区绿色交通发展作出贡献”（中国—中亚媒体高质量共建“一带一路”联合采访）](https://news.cctv.com/2025/06/05/ARTIZ7n4m2GlwVCpGwwct6zc250605.shtml)
+

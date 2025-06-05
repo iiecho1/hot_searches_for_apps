@@ -47,3 +47,25 @@
 
 + [小鹏汽车宣布携手华为联手打造“世界最好”AR-HUD，突破行业痛点](https://m.ithome.com/html/858258.htm)
 
++ [华为 Pura80 Pro / Pro + 今日开启预约](https://m.ithome.com/html/858434.htm)
+
++ [多地家电国补告急：1 分钟速读数码家电国补攻略合集，iPhone 平板 Mac 手表破冰新低，一键保价速速走起](https://m.ithome.com/html/858341.htm)
+
++ [内存占用减少 90%：苹果开发团队弃用 Java，改用自家 Swift 重写关键服务](https://m.ithome.com/html/858467.htm)
+
++ [2388 元学生新低：苹果 iPad mini（A17 Pro）国补 + 换新补贴随时结束](https://m.ithome.com/html/858365.htm)
+
++ [金山办公：继续聘任雷军为公司名誉董事长](https://m.ithome.com/html/858348.htm)
+
++ [高通 CEO 阿蒙：已做好与苹果“分手”的准备](https://m.ithome.com/html/858408.htm)
+
++ [小鹏与华为乾崑联合打造“追光全景”抬头显示，新车 G7 首发搭载](https://m.ithome.com/html/858450.htm)
+
++ [消息称鸿蒙智行尊界 S800 汽车实际大定均价突破 100 万元](https://m.ithome.com/html/858370.htm)
+
++ [京东首次设立开源鸿蒙穿戴专区](https://m.ithome.com/html/858322.htm)
+
++ [载有 3000 多辆汽车的轮船在太平洋上起火，含 65 辆纯电车](https://m.ithome.com/html/858510.htm)
+
++ [苹果 AirPods 耳机五大新功能前瞻：升级头部动作控制、睡眠自动暂停等](https://m.ithome.com/html/858399.htm)
+
