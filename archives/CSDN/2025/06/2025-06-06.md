@@ -109,3 +109,29 @@
 
 + [瑞芯微RK3506（3核A7@1.5GHz+双网口+双CAN-FD）工业开发板—图形用户界面(GUI)开发手册](https://blog.csdn.net/Tronlong/article/details/148338305)
 
++ [网络编程之TCP编程](https://blog.csdn.net/weixin_73635496/article/details/148433017)
+
++ [一键更新依赖全指南：Flutter、Node.js、Kotlin、Java、Go、Python 等主流语言全覆盖](https://blog.csdn.net/m0_52537869/article/details/148431537)
+
++ [Java 大视界 -- Java 大数据在智能建筑能耗预测与需求响应优化中的应用（288）](https://blog.csdn.net/atgfg/article/details/148436998)
+
++ [华为云Flexus+DeepSeek征文 | 基于DeepSeek-V3构建企业知识库问答机器人实战](https://blog.csdn.net/IRpickstars/article/details/148444581)
+
++ [Oracle OCP与MySQL OCP认证如何选？](https://blog.csdn.net/IT99_/article/details/148432571)
+
++ [【Arduino 动手做】Ottis 机器人，一款可以行走并执行视觉和音频手势的 Arduino 机器人](https://blog.csdn.net/weixin_41659040/article/details/148438649)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(三十)](https://blog.csdn.net/weixin_74809706/article/details/148422597)
+
++ [优化 Spring Boot API 性能：利用 GZIP 压缩处理大型有效载荷](https://blog.csdn.net/u010398771/article/details/148012517)
+
++ [Jenkins的学习与使用(CI/CD)](https://blog.csdn.net/qq_39635178/article/details/148268055)
+
++ [Spring 中注入 Bean 有几种方式？](https://blog.csdn.net/qq_35996924/article/details/148436911)
+
++ [Electron打包前端和后端为exe](https://blog.csdn.net/enthan809882/article/details/148430754)
+
++ [本地IP配置](https://blog.csdn.net/weixin_44040169/article/details/148434529)
+
++ [GitHub 趋势日报 (2025年06月02日)](https://blog.csdn.net/ShrCheng/article/details/148391452)
+

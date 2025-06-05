@@ -37,3 +37,25 @@
 
 + [最新交易显示，小红书估值跃升至 260 亿美元](https://m.ithome.com/html/858484.htm)
 
++ [王腾官宣小米 REDMI 首款旗舰小平板：手感好、性能强、配置满，全面对标 iPad mini](https://m.ithome.com/html/858208.htm)
+
++ [华为、小鹏官宣“牵手”，HUD 新技术有望明天见](https://m.ithome.com/html/858190.htm)
+
++ [前苹果设计师前瞻 iOS 26，指尖下的动态玻璃世界](https://m.ithome.com/html/858158.htm)
+
++ [官方发布 vivo X Fold5 真机照：折叠态厚度接近苹果 iPhone 16 Pro Max](https://m.ithome.com/html/858194.htm)
+
++ [比尔・盖茨：我将把大部分财富捐给非洲](https://m.ithome.com/html/858204.htm)
+
++ [消息称苹果 iOS 26 将为信息、音乐、备忘录、CarPlay 带来新功能](https://m.ithome.com/html/858147.htm)
+
++ [迅雷完成收购虎扑，总现金对价 5 亿元](https://m.ithome.com/html/858302.htm)
+
++ [微信鸿蒙版 App 安装量突破 500 万](https://m.ithome.com/html/858260.htm)
+
++ [消息称苹果 A20 芯片采用 2nm 工艺及全新封装技术，iPhone 18 Pro 系列搭载](https://m.ithome.com/html/858148.htm)
+
++ [天气太热游泳去：Apple Watch S10 国补 + 换新 2999 → 1488 元腰斩新低](https://m.ithome.com/html/858240.htm)
+
++ [小鹏汽车宣布携手华为联手打造“世界最好”AR-HUD，突破行业痛点](https://m.ithome.com/html/858258.htm)
+
