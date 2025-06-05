@@ -69,3 +69,15 @@
 
 + [苹果 AirPods 耳机五大新功能前瞻：升级头部动作控制、睡眠自动暂停等](https://m.ithome.com/html/858399.htm)
 
++ [全球首个满级 QQ 即将诞生，马上凑齐四个皇冠](https://m.ithome.com/html/858599.htm)
+
++ [消息称华为 Pura80 Pro+ 手机配备 50Mp 超级大底三摄、侧边指纹解锁](https://m.ithome.com/html/858528.htm)
+
++ [小鹏软件 + 华为硬件打造的“追光全景”AR-HUD 抬头显示发布，首次将导航路线“画”在真实道路上](https://m.ithome.com/html/858539.htm)
+
++ [传闻称苹果 iOS 26 系统适配 iPhone 11 及更新机型](https://m.ithome.com/html/858621.htm)
+
++ [继“魅力指数”第一后，小米 SU7 拿下 J.D. Power “消费者之声”奖](https://m.ithome.com/html/858458.htm)
+
++ [最新交易显示，小红书估值跃升至 260 亿美元](https://m.ithome.com/html/858484.htm)
+

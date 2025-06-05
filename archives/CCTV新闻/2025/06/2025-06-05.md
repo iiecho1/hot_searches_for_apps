@@ -219,3 +219,7 @@
 
 + [欧洲央行下调三大关键利率25个基点](https://news.cctv.com/2025/06/05/ARTI1vCtnK2H1d71OstNOvoy250605.shtml)
 
++ [韩国会通过“内乱特检法” 调查尹锡悦发动紧急戒严真相](https://news.cctv.com/2025/06/05/ARTIbfxBbTRZ5zvi76pqUorn250605.shtml)
+
++ [习近平同美国总统特朗普通电话](https://news.cctv.com/2025/06/05/ARTI88B2JQ5WtgJnT3MwfW2J250605.shtml)
+
