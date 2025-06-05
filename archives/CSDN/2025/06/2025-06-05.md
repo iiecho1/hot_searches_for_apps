@@ -135,3 +135,11 @@
 
 + [大数据Spark（六十一）：Spark基于Standalone提交任务流程](https://blog.csdn.net/xiaoweite1/article/details/148436499)
 
++ [C++内存列传之RAII宇宙：智能指针](https://blog.csdn.net/Zero_VPN/article/details/148293810)
+
++ [【Rust宏编程】Rust有关宏编程底层原理解析与应用实战](https://blog.csdn.net/littlefun591/article/details/148431435)
+
++ [联邦学习架构深度分析：支持多家医院协作训练AI模型方案分析](https://blog.csdn.net/kkiron/article/details/148439406)
+
++ [CTF：网络安全的实战演练场](https://blog.csdn.net/u014727709/article/details/148384134)
+

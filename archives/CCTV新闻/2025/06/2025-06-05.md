@@ -173,3 +173,23 @@
 
 + [新华社快讯：美国宣布将对哈佛大学国际学生实行签证限制](https://news.cctv.com/2025/06/05/ARTIuePJ3BbfhKNITSKcl9Lr250605.shtml)
 
++ [埃塞俄比亚通过法案禁止使用一次性塑料袋](https://news.cctv.com/2025/06/05/ARTIN5MBAzNe9stcOU7gqyfR250605.shtml)
+
++ [合力维护国际贸易规则才能有效应对挑战（国际论坛）](https://news.cctv.com/2025/06/05/ARTIBV3CguFelXtj4FhMBqO0250605.shtml)
+
++ [李在明谈履职首日：总统府“空无一物”](https://news.cctv.com/2025/06/05/ARTIsejoUhXSvhcQe5Ckw2Io250605.shtml)
+
++ [哈佛回应白官签证限制令：又一非法报复](https://news.cctv.com/2025/06/05/ARTIsiASola1g4u96lqLaY0F250605.shtml)
+
++ [泰国拟采购瑞典“鹰狮”替代美制F-16](https://military.cctv.com/2025/06/05/ARTIzL4AXDgWKEgB3IXn5MUR250605.shtml)
+
++ [美钢铝关税加倍 多国表达反对](https://news.cctv.com/2025/06/05/ARTI97penvJJ4wHbfbeUUFqw250605.shtml)
+
++ [美国政府正在建立政府效率部新领导层](https://news.cctv.com/2025/06/05/ARTImlwfNcUqNR9fAy3U4vBE250605.shtml)
+
++ [中国和老挝就中老铁路“一地两检”便利通关安排举行磋商](https://news.cctv.com/2025/06/05/ARTI6fK2tNgsOCTayo7SthOk250605.shtml)
+
++ [中国当选连任联合国经济及社会理事会成员](https://news.cctv.com/2025/06/05/ARTIgtOfpukx567CqP0hsUcg250605.shtml)
+
++ [美国宣布限制多国公民入境](https://news.cctv.com/2025/06/05/ARTIr6p966pAVGt1ULEwlgkE250605.shtml)
+
