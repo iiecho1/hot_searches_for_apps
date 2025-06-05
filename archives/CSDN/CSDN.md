@@ -149,3 +149,13 @@
 
 + [Transformer实战——词嵌入技术详解](https://blog.csdn.net/LOVEmy134611/article/details/147517468)
 
++ [DuckDB + Spring Boot + MyBatis 构建高性能本地数据分析引擎](https://blog.csdn.net/dandandeshangni/article/details/148434494)
+
++ [高效集成AI能力：使用开放API打造问答系统，不用训练模型，也能做出懂知识的AI](https://blog.csdn.net/2401_82648291/article/details/148384379)
+
++ [一键更新依赖全指南：Flutter、Node.js、Kotlin、Java、Go、Python 等主流语言全覆盖](https://blog.csdn.net/m0_52537869/article/details/148431537)
+
++ [机器学习——SVM](https://blog.csdn.net/xiaoli2327/article/details/148404218)
+
++ [一周学会Pandas2之Python数据处理与分析-Pandas2数据绘图与可视化](https://blog.csdn.net/caoli201314/article/details/148408086)
+

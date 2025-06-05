@@ -195,3 +195,15 @@
 
 + [特朗普VS哈佛：步步紧逼遭遇层层硬刚](https://news.cctv.com/2025/06/05/ARTIVR4UPICazhtGuIKFYSVL250605.shtml)
 
++ [加拿大首位进入太空飞行的航天员、前外长加诺病逝](https://news.cctv.com/2025/06/05/ARTIgj0FjxjLSH2weXi5iWZs250605.shtml)
+
++ [巴西农业部：禽流感疫情已得到有效控制](https://news.cctv.com/2025/06/05/ARTIOeioX2rhKhW1ZufKj2d7250605.shtml)
+
++ [世界气象组织：2024年西南太平洋平均气温创新高](https://news.cctv.com/2025/06/05/ARTIrARz9yIbpZUevaUQjrks250605.shtml)
+
++ [美教育部警告哥伦比亚大学“不符合认证标准”](https://news.cctv.com/2025/06/05/ARTIQWNYU7cFVCfoEikdnJiG250605.shtml)
+
++ [将查明尹锡悦发动紧急戒严真相 韩国国会通过“内乱特检法”](https://news.cctv.com/2025/06/05/ARTIRsPSAx4JMWB9hnNKTAJC250605.shtml)
+
++ [马斯克呼吁民众“扼杀”“大而美”法案](https://news.cctv.com/2025/06/05/ARTIIrQlmHiEDzhPcmb39F0I250605.shtml)
+
