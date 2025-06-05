@@ -101,3 +101,11 @@
 
 + [华为云Flexus+DeepSeek征文｜DeepSeek-V3/R1 商用服务开通全流程与本地部署搭建](https://blog.csdn.net/weixin_62765017/article/details/148409105)
 
++ [Agentic Workflow是什么？Agentic Workflow会成为下一个AI风口吗？](https://blog.csdn.net/RenGJ010617/article/details/146376167)
+
++ [Java 大视界 -- Java 大数据机器学习模型在电商用户流失预警与挽回策略动态优化中的应用（284）](https://blog.csdn.net/atgfg/article/details/148387523)
+
++ [告别局域网：实现NASCab云可云远程自由访问](https://blog.csdn.net/weixin_44976692/article/details/148449039)
+
++ [瑞芯微RK3506（3核A7@1.5GHz+双网口+双CAN-FD）工业开发板—图形用户界面(GUI)开发手册](https://blog.csdn.net/Tronlong/article/details/148338305)
+
