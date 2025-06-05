@@ -181,3 +181,9 @@
 
 + [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | Dad Jokes（冷笑话卡片）](https://blog.csdn.net/qq_44808710/article/details/148410262)
 
++ [2024年陕西省职业院校技能大赛网络建设与运维样卷](https://blog.csdn.net/lxc_djy/article/details/148402156)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_天气预报日历示例（CalendarView01_18）](https://blog.csdn.net/qq_33650655/article/details/148424637)
+
++ [【推荐算法】推荐系统核心算法深度解析：协同过滤 Collaborative Filtering](https://blog.csdn.net/weixin_43988131/article/details/148437135)
+

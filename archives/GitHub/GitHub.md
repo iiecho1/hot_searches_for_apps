@@ -25,3 +25,17 @@
 
 + [syncthing/syncthing](https://github.com/syncthing/syncthing)
 
++ [netbirdio/netbird](https://github.com/netbirdio/netbird)
+
++ [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
+
++ [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
+
++ [topoteretes/cognee](https://github.com/topoteretes/cognee)
+
++ [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
+
++ [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
++ [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk)
+
