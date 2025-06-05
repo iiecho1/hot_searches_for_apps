@@ -217,3 +217,5 @@
 
 + [“为地区绿色交通发展作出贡献”（中国—中亚媒体高质量共建“一带一路”联合采访）](https://news.cctv.com/2025/06/05/ARTIZ7n4m2GlwVCpGwwct6zc250605.shtml)
 
++ [欧洲央行下调三大关键利率25个基点](https://news.cctv.com/2025/06/05/ARTI1vCtnK2H1d71OstNOvoy250605.shtml)
+

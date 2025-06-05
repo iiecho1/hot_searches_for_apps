@@ -197,3 +197,13 @@
 
 + [Linux：理解库制作与原理](https://blog.csdn.net/2401_84107961/article/details/148365278)
 
++ [OPENCV重点结构体Mat的讲解](https://blog.csdn.net/2202_75840803/article/details/148397237)
+
++ [Spring Boot微服务架构（十）：Docker与K8S部署的区别](https://blog.csdn.net/ChailangCompany/article/details/148434074)
+
++ [在本地电脑中部署阿里 Qwen3 大模型及连接到 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/148423202)
+
++ [【学习记录】如何使用 Python 提取 PDF 文件中的内容](https://blog.csdn.net/qq_30006795/article/details/148435159)
+
++ [[概率论基本概念4]什么是无偏估计](https://blog.csdn.net/gongdiwudu/article/details/148210367)
+
