@@ -187,3 +187,13 @@
 
 + [【推荐算法】推荐系统核心算法深度解析：协同过滤 Collaborative Filtering](https://blog.csdn.net/weixin_43988131/article/details/148437135)
 
++ [【基于Redis的秒杀图书专区】秒杀专区商品的购买和取消购买--从理论到实践](https://blog.csdn.net/2302_79527141/article/details/148448421)
+
++ [【网络安全】漏洞分析：阿帕奇漏洞学习](https://blog.csdn.net/anquan2233/article/details/148426352)
+
++ [Python 区块链开发实战：从零到一构建智能合约](https://blog.csdn.net/qq_42588900/article/details/148432197)
+
++ [【Linux】网络--数据链路层--以太网](https://blog.csdn.net/s_little_monster/article/details/146287263)
+
++ [Linux：理解库制作与原理](https://blog.csdn.net/2401_84107961/article/details/148365278)
+
