@@ -161,3 +161,15 @@
 
 + [乌方提议本月末与俄举行下一轮谈判 土耳其提议举行俄乌美峰会](https://news.cctv.com/2025/06/03/ARTIYHKsQkQIz291maW9J3lz250603.shtml)
 
++ [葡萄牙新政府宣誓就职 新任总理承诺将推进国家改革](https://news.cctv.com/2025/06/06/ARTIT3cDd2C2WuoLE0vb7bIF250606.shtml)
+
++ [加拿大4月商品贸易逆差达71亿加元 创历史最高纪录](https://news.cctv.com/2025/06/06/ARTIeu5zwlc7IhysP44sEPZt250606.shtml)
+
++ [“马斯克疯了” 特朗普威胁终止对其政府补贴及合同](https://news.cctv.com/2025/06/06/ARTI1OwIfciTbIdbCNid9rCB250606.shtml)
+
++ [回应特朗普取消合同威胁 马斯克称即刻退役“龙”飞船](https://news.cctv.com/2025/06/06/ARTIPwcGz13rxsDCqJYGVp6O250606.shtml)
+
++ [朝鲜披露此前发生“重大事故”的驱逐舰已被扶正](https://news.cctv.com/2025/06/06/ARTIFWFkLGf06BhO0hawPrnJ250606.shtml)
+
++ [特朗普：短时间内促成俄乌立即停火比较困难](https://news.cctv.com/2025/06/06/ARTIY5PmM9EIUCbnEdIhSPst250606.shtml)
+

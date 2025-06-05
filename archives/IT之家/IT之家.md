@@ -59,3 +59,5 @@
 
 + [小鹏汽车宣布携手华为联手打造“世界最好”AR-HUD，突破行业痛点](https://m.ithome.com/html/858258.htm)
 
++ [5299 → 2999 元：苹果 iPad mini（A17 Pro）eSIM 版京东低过 WLAN 版](https://m.ithome.com/html/858632.htm)
+
