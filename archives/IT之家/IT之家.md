@@ -61,3 +61,15 @@
 
 + [5299 → 2999 元：苹果 iPad mini（A17 Pro）eSIM 版京东低过 WLAN 版](https://m.ithome.com/html/858632.htm)
 
++ [实探日本 Switch 2 首发：抽签限购，顾客寥寥，国人无缘购买](https://m.ithome.com/html/858605.htm)
+
++ [打出身价，印尼考虑采购我国歼 10 战机](https://m.ithome.com/html/858631.htm)
+
++ [苹果 iPhone 17 系列有望支持最高 45W MagSafe 无线充电（Qi 2.2）](https://m.ithome.com/html/858608.htm)
+
++ [华为鸿蒙电脑今日正式开售：MateBook Fold 非凡大师 23999 元起，MateBook Pro 7999 元起](https://m.ithome.com/html/858696.htm)
+
++ [“真正的国行”，任天堂香港官方频道入驻B站宣传 Switch 2](https://m.ithome.com/html/858584.htm)
+
++ [小鹏 G7 将于 6 月 11 日开启预售：25 万元级，Q3 上市交付](https://m.ithome.com/html/858545.htm)
+
