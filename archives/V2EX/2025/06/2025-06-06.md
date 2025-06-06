@@ -45,3 +45,5 @@
 
 + [manus 开放注册了](https://www.v2ex.com/t/1136784)
 
++ [第一次被这么恶心到](https://www.v2ex.com/t/1136882)
+

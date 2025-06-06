@@ -189,3 +189,7 @@
 
 + [【浅析赛题，国赛一等奖水平：思路+模型：】2025 年第八届河北省研究生数学建模竞赛：A 题 基于图论的复杂网络分析与可视化建模](https://blog.csdn.net/m0_60472361/article/details/148463491)
 
++ [神经网络-Day45](https://blog.csdn.net/weixin_57342745/article/details/148459900)
+
++ [【个人笔记】数据库原理（西电）](https://blog.csdn.net/H13420972436/article/details/146457925)
+
