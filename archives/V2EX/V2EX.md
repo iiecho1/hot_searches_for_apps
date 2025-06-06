@@ -17,3 +17,5 @@
 
 + [阿里云真是个草台班子](https://www.v2ex.com/t/1136731)
 
++ [感觉 Linux 桌面也没什么用](https://www.v2ex.com/t/1136923)
+

@@ -101,3 +101,7 @@
 
 + [DeepSeek 大模型学习领航计划：开启你的 AI 技术进阶之旅](https://blog.csdn.net/devcloud/article/details/148474785)
 
++ [告别局域网：实现NASCab云可云远程自由访问](https://blog.csdn.net/weixin_44976692/article/details/148449039)
+
++ [openGauss / 磐维数据库分析函数实用示例](https://blog.csdn.net/GaussDB/article/details/148465660)
+

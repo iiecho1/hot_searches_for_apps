@@ -25,3 +25,25 @@
 
 + [字节跳动新加坡员工大规模食物中毒案进展：云海肴被告上法庭](https://m.ithome.com/html/858873.htm)
 
++ [全球首个满级 QQ 即将诞生，马上凑齐四个皇冠](https://m.ithome.com/html/858599.htm)
+
++ [传闻称苹果 iOS 26 系统适配 iPhone 11 及更新机型](https://m.ithome.com/html/858621.htm)
+
++ [载有 3000 多辆汽车的轮船在太平洋上起火，含 65 辆纯电车](https://m.ithome.com/html/858510.htm)
+
++ [5299 → 2999 元：苹果 iPad mini（A17 Pro）eSIM 版京东低过 WLAN 版](https://m.ithome.com/html/858632.htm)
+
++ [消息称华为 Pura80 Pro+ 手机配备 50Mp 超级大底三摄、侧边指纹解锁](https://m.ithome.com/html/858528.htm)
+
++ [小鹏软件 + 华为硬件打造的“追光全景”AR-HUD 抬头显示发布，首次将导航路线“画”在真实道路上](https://m.ithome.com/html/858539.htm)
+
++ [实探日本 Switch 2 首发：抽签限购，顾客寥寥，国人无缘购买](https://m.ithome.com/html/858605.htm)
+
++ [打出身价，印尼考虑采购我国歼 10 战机](https://m.ithome.com/html/858631.htm)
+
++ [苹果 iPhone 17 系列有望支持最高 45W MagSafe 无线充电（Qi 2.2）](https://m.ithome.com/html/858608.htm)
+
++ [“真正的国行”，任天堂香港官方频道入驻B站宣传 Switch 2](https://m.ithome.com/html/858584.htm)
+
++ [小鹏 G7 将于 6 月 11 日开启预售：25 万元级，Q3 上市交付](https://m.ithome.com/html/858545.htm)
+
