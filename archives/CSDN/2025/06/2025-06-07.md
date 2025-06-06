@@ -105,3 +105,19 @@
 
 + [openGauss / 磐维数据库分析函数实用示例](https://blog.csdn.net/GaussDB/article/details/148465660)
 
++ [Java 大视界 -- Java 大数据机器学习模型在社交媒体舆情传播预测与舆论引导策略制定中的应用（289）](https://blog.csdn.net/atgfg/article/details/148437099)
+
++ [【Linux仓库】冯诺依曼体系结构与操作系统【进程·壹】](https://blog.csdn.net/egoist2023/article/details/148049782)
+
++ [【Linux】自动化构建-Make/Makefile](https://blog.csdn.net/huangyuchi/article/details/148411624)
+
++ [SELinux是什么以及如何编写SELinux策略](https://blog.csdn.net/2401_84168288/article/details/148461254)
+
++ [LuaJIT2.1 和 Lua5.4.8 性能对比](https://blog.csdn.net/eieihihi/article/details/148446781)
+
++ [ select、poll、epoll 与 Reactor 模式](https://blog.csdn.net/2301_76564925/article/details/148449880)
+
++ [FPGA点亮ILI9488驱动的SPI+RGB接口LCD显示屏（一）](https://blog.csdn.net/m0_66360845/article/details/148457733)
+
++ [Electron打包前端和后端为exe](https://blog.csdn.net/enthan809882/article/details/148430754)
+
