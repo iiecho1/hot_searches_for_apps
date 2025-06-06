@@ -161,3 +161,5 @@
 
 + [意大利庆祝共和国日](https://photo.cctv.com/2025/06/04/PHOA35y2ePZjCEWnk42dxNlg250604.shtml)
 
++ [孟加拉国定于明年4月举行大选](https://news.cctv.com/2025/06/07/ARTIJAbS5GLEgaI61iXwbODw250607.shtml)
+
