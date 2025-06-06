@@ -191,3 +191,7 @@
 
 + [中国驻加拿大使馆提醒在加中国公民注意山火灾害](https://news.cctv.com/2025/06/06/ARTI4i13ZIXd9ELFt9BsqgUu250606.shtml)
 
++ [美国法官阻止特朗普政府对哈佛大学国际学生实行签证限制](https://news.cctv.com/2025/06/06/ARTIs7t4DmHdOc7LsDDNo5CK250606.shtml)
+
++ [德国一学校疑遭刺激性气体袭击 17人受伤](https://news.cctv.com/2025/06/06/ARTISCfH6dJtInU3e16Zu7Jn250606.shtml)
+
