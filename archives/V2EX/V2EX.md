@@ -19,3 +19,13 @@
 
 + [dp 接口间歇性黑屏](https://www.v2ex.com/t/1136515)
 
++ [无房无车 50W 彩礼算高额吗](https://www.v2ex.com/t/1136691)
+
++ [阿里云大早上来了个惊喜，被客户叼炸了](https://www.v2ex.com/t/1136705)
+
++ [DIY 主机哪里靠谱](https://www.v2ex.com/t/1136514)
+
++ [AI 拉近普通程序员和高级程序员之间的差距](https://www.v2ex.com/t/1136729)
+
++ [程序员 Java 牛马，今天被裁员了](https://www.v2ex.com/t/1136574)
+

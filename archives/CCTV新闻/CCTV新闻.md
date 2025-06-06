@@ -177,3 +177,17 @@
 
 + [韩国经济“亮红灯” 李在明组建紧急小组](https://news.cctv.com/2025/06/06/ARTIx6m9pZRodPVomerWcQUA250606.shtml)
 
++ [加拿大商品贸易逆差创历史新高](https://photo.cctv.com/2025/06/06/PHOA8w51oAJ41j9QjU0UTYrT250606.shtml)
+
++ [极端短视的巨大错误——美国专家学者批评美政府无理撤销中国留学生签证](https://news.cctv.com/2025/06/06/ARTIFWlvywjmvapFs8V8R66m250606.shtml)
+
++ [日本北海道附近海域连发强震 我大使馆提醒中国公民加强防范](https://news.cctv.com/2025/06/06/ARTI2QWr1YYg4CDRRE5FtsB5250606.shtml)
+
++ [美联储“褐皮书”：美国经济不确定性居高位 关税推高物价](https://news.cctv.com/2025/06/06/ARTIAKgPpf6ji1xsVWbKLcNK250606.shtml)
+
++ [“中企投资正助力中亚现代化发展”（中国—中亚媒体高质量共建“一带一路”联合采访）](https://news.cctv.com/2025/06/06/ARTIODtUOSCKt70adFs8KC7K250606.shtml)
+
++ [吵完架反悔了？马斯克改口：不会让“龙”飞船退役](https://news.cctv.com/2025/06/06/ARTIk9EI9tk7LEIDBz87uO4C250606.shtml)
+
++ [中国驻加拿大使馆提醒在加中国公民注意山火灾害](https://news.cctv.com/2025/06/06/ARTI4i13ZIXd9ELFt9BsqgUu250606.shtml)
+

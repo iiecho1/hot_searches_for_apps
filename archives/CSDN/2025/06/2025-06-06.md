@@ -145,3 +145,15 @@
 
 + [TypeScript 编译 ES6+ 语法到兼容的 JavaScript介绍](https://blog.csdn.net/renchao7060/article/details/148421257)
 
++ [.NET 8集成阿里云短信服务完全指南【短信接口】](https://blog.csdn.net/mss359681091/article/details/148460630)
+
++ [机器学习×第一卷：概念上篇——咱不是模型训练员，是她的第一个亲人](https://blog.csdn.net/2501_92239402/article/details/148427638)
+
++ [AI 智能体赋能美业：全方位数字化转型攻略（6/6）](https://blog.csdn.net/beautifulmemory/article/details/148426766)
+
++ [基于深度学习的音乐推荐系统](https://blog.csdn.net/shmp54/article/details/148435117)
+
++ [Spring Boot 从Socket 到Netty网络编程（上）：SOCKET 基本开发（BIO）与改进(NIO)](https://blog.csdn.net/weixin_44690195/article/details/148395978)
+
++ [论文速读《DexWild：野外机器人策略的灵巧人机交互》](https://blog.csdn.net/lovely_yoshino/article/details/148433077)
+
