@@ -195,3 +195,5 @@
 
 + [德国一学校疑遭刺激性气体袭击 17人受伤](https://news.cctv.com/2025/06/06/ARTISCfH6dJtInU3e16Zu7Jn250606.shtml)
 
++ [407架无人机 44枚导弹 乌称遭俄大规模袭击](https://news.cctv.com/2025/06/06/ARTIkOdNPS3g4MmMt6XtkXa8250606.shtml)
+
