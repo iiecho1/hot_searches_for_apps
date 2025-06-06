@@ -73,3 +73,15 @@
 
 + [小鹏 G7 将于 6 月 11 日开启预售：25 万元级，Q3 上市交付](https://m.ithome.com/html/858545.htm)
 
++ [《黑神话：悟空》数字版将首次 8 折优惠，8 月 20 日登陆 Xbox Series X|S](https://m.ithome.com/html/858728.htm)
+
++ [微信 iOS 版 8.0.60 最新官方正式版下载发布](https://m.ithome.com/html/858750.htm)
+
++ [多地家电“国补”暂停，专家回应称“前期补贴资金用完，第二批第三批在拨”](https://m.ithome.com/html/858803.htm)
+
++ [华为 Pura80 系列长焦有望大升级，官方喊出“远远不止，近在眼前”](https://m.ithome.com/html/858712.htm)
+
++ [荣耀 Magic V5 折叠屏手机规格曝光：骁龙 8 至尊领先版，本月见](https://m.ithome.com/html/858659.htm)
+
++ [王自如宣布将在 AI 领域“二次创业”](https://m.ithome.com/html/858798.htm)
+
