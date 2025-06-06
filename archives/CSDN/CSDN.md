@@ -167,3 +167,7 @@
 
 + [Go并发编程在微服务中的应用 - 从理论到实践](https://blog.csdn.net/sinat_27016095/article/details/146763570)
 
++ [AI编程开发利器：Cursor 1.0 发布全览一键五发之BugBot 、记忆编程、 MCP、Jupyter以及后台Agent 的全面支持](https://blog.csdn.net/qq_44866828/article/details/148453691)
+
++ [基于LLaMA-Factory和Easy Dataset的Qwen3微调实战：从数据准备到LoRA微调推理评估的全流程指南](https://blog.csdn.net/sinat_39620217/article/details/148159347)
+
