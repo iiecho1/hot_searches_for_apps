@@ -199,3 +199,9 @@
 
 + [英国麻疹疫情持续蔓延 今年来伦敦病例数最多](https://news.cctv.com/2025/06/06/ARTITEPn4XmcMxajqd7o7kn6250606.shtml)
 
++ [联合国人权高专：对美国决定制裁国际刑事法院法官“深感不安”](https://news.cctv.com/2025/06/06/ARTIIeJzQEfQyogTXPM6of1Y250606.shtml)
+
++ [荷兰将于10月29日举行议会选举](https://news.cctv.com/2025/06/06/ARTIeXZWhgKiAXFxV5OPWT9M250606.shtml)
+
++ [北约防长会尽显焦虑](https://news.cctv.com/2025/06/06/ARTIWsJ8GERsvcSDImiH5XDO250606.shtml)
+

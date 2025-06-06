@@ -197,3 +197,9 @@
 
 + [华为云Flexus+DeepSeek征文｜ 华为云Flexus X实例单机部署Dify-LLM应用开发平台全流程指南](https://blog.csdn.net/jks212454/article/details/148434118)
 
++ [Python数学可视化：3D参数曲面与隐式曲面绘制技术](https://blog.csdn.net/deepever/article/details/148474597)
+
++ [数据挖掘实战-基于机器学习的会计专业毕业生薪资预测模型](https://blog.csdn.net/m0_64336780/article/details/142206391)
+
++ [【Linux】网络--传输层--深入理解TCP协议](https://blog.csdn.net/cainiao080605/article/details/148350008)
+
