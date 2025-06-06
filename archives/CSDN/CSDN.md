@@ -121,3 +121,11 @@
 
 + [Electron打包前端和后端为exe](https://blog.csdn.net/enthan809882/article/details/148430754)
 
++ [【Arduino 动手做】由ESP32 Cam模块驱动的全方位监控机器人](https://blog.csdn.net/weixin_41659040/article/details/148469749)
+
++ [linux——磁盘和文件系统管理](https://blog.csdn.net/bcz1517/article/details/148458655)
+
++ [Spring框架学习day7--SpringWeb学习（概念与搭建配置）](https://blog.csdn.net/weixin_75111785/article/details/148456707)
+
++ [网络通信核心概念全解析：从IP地址到TCP/UDP实战](https://blog.csdn.net/ZNing_1/article/details/148436755)
+

@@ -47,3 +47,15 @@
 
 + [小鹏 G7 将于 6 月 11 日开启预售：25 万元级，Q3 上市交付](https://m.ithome.com/html/858545.htm)
 
++ [华为 Pura80 Pro / Pro + 今日开启预约](https://m.ithome.com/html/858434.htm)
+
++ [内存占用减少 90%：苹果开发团队弃用 Java，改用自家 Swift 重写关键服务](https://m.ithome.com/html/858467.htm)
+
++ [高通 CEO 阿蒙：已做好与苹果“分手”的准备](https://m.ithome.com/html/858408.htm)
+
++ [小鹏与华为乾崑联合打造“追光全景”抬头显示，新车 G7 首发搭载](https://m.ithome.com/html/858450.htm)
+
++ [苹果 AirPods 耳机五大新功能前瞻：升级头部动作控制、睡眠自动暂停等](https://m.ithome.com/html/858399.htm)
+
++ [继“魅力指数”第一后，小米 SU7 拿下 J.D. Power “消费者之声”奖](https://m.ithome.com/html/858458.htm)
+
