@@ -183,3 +183,9 @@
 
 + [【网络安全】XSS攻击](https://blog.csdn.net/Dalik1018/article/details/148460228)
 
++ [Python训练第四十五天](https://blog.csdn.net/qq_62872072/article/details/148460884)
+
++ [QT开发技术【ffmpeg + QAudioOutput】音乐播放器](https://blog.csdn.net/weixin_45397344/article/details/148429364)
+
++ [【浅析赛题，国赛一等奖水平：思路+模型：】2025 年第八届河北省研究生数学建模竞赛：A 题 基于图论的复杂网络分析与可视化建模](https://blog.csdn.net/m0_60472361/article/details/148463491)
+

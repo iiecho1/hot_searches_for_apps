@@ -197,3 +197,5 @@
 
 + [407架无人机 44枚导弹 乌称遭俄大规模袭击](https://news.cctv.com/2025/06/06/ARTIkOdNPS3g4MmMt6XtkXa8250606.shtml)
 
++ [英国麻疹疫情持续蔓延 今年来伦敦病例数最多](https://news.cctv.com/2025/06/06/ARTITEPn4XmcMxajqd7o7kn6250606.shtml)
+
