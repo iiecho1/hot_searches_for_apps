@@ -193,3 +193,7 @@
 
 + [【个人笔记】数据库原理（西电）](https://blog.csdn.net/H13420972436/article/details/146457925)
 
++ [DM8数据库导出工具dexpdp：DIRECTORY参数详解](https://blog.csdn.net/qq_41840843/article/details/148369697)
+
++ [华为云Flexus+DeepSeek征文｜ 华为云Flexus X实例单机部署Dify-LLM应用开发平台全流程指南](https://blog.csdn.net/jks212454/article/details/148434118)
+
