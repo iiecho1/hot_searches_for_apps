@@ -171,3 +171,7 @@
 
 + [基于LLaMA-Factory和Easy Dataset的Qwen3微调实战：从数据准备到LoRA微调推理评估的全流程指南](https://blog.csdn.net/sinat_39620217/article/details/148159347)
 
++ [购物商城网站 Java+Vue.js+SpringBoot，包括商家管理、商品分类管理、商品管理、在线客服管理、购物订单模块](https://blog.csdn.net/WSheng_Pyhon/article/details/148460901)
+
++ [Python爬虫之数据提取](https://blog.csdn.net/m0_63845988/article/details/148412375)
+
