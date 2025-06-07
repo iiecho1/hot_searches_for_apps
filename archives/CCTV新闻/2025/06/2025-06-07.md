@@ -197,3 +197,9 @@
 
 + [中东战地手记丨战火下的苏丹：买羊过节成了一种奢望](https://news.cctv.com/2025/06/07/ARTIBIdOAe83qOIijMnFwfAU250607.shtml)
 
++ [马克龙计划访问格陵兰岛 意在“巩固欧洲主权”](https://news.cctv.com/2025/06/07/ARTIkVpaWV0xepugTlRhkJ90250607.shtml)
+
++ [北约要求德军增兵至25万 德国或恢复义务服役补缺？](https://news.cctv.com/2025/06/07/ARTIpWCQmryiAERdKJfTYe7n250607.shtml)
+
++ [国际观察丨俄全方位回击乌“蛛网”行动 俄乌局势会否失控](https://news.cctv.com/2025/06/07/ARTIKVmDFVAT1Q3eWhZAPe0I250607.shtml)
+
