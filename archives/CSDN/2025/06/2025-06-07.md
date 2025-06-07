@@ -153,3 +153,7 @@
 
 + [MATLAB | 绘图复刻（十九）| 轻松拿捏 Nature Communications 绘图](https://blog.csdn.net/slandarer/article/details/148455244)
 
++ [【ESP-IDF造轮子】之配网方案softap+http+mDNS（待补充）](https://blog.csdn.net/weixin_74246631/article/details/148483415)
+
++ [机器学习实验八--基于pca的人脸识别](https://blog.csdn.net/bj3281/article/details/148446465)
+

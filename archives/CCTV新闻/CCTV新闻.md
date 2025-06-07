@@ -189,3 +189,5 @@
 
 + [特朗普：下一任美联储主席人选决定即将公布](https://news.cctv.com/2025/06/07/ARTIa6yTmBA3i5cWe66UG4Wp250607.shtml)
 
++ [部分中国公民在新西兰遭盗抢 我驻奥克兰总领馆提醒加强防范](https://news.cctv.com/2025/06/07/ARTIWDG9p8zVj47rB7cGLqev250607.shtml)
+
