@@ -31,3 +31,21 @@
 
 + [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
 
++ [scrapy/scrapy](https://github.com/scrapy/scrapy)
+
++ [jwohlwend/boltz](https://github.com/jwohlwend/boltz)
+
++ [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)
+
++ [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
+
++ [vinta/awesome-python](https://github.com/vinta/awesome-python)
+
++ [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
+

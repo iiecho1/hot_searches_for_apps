@@ -75,3 +75,13 @@
 
 + [消息称新款华为 Mate XT 三折叠手机下半年发布，升级处理器](https://m.ithome.com/html/858941.htm)
 
++ [苹果 WWDC25 前瞻：聚焦操作系统革新，AI 能力升级有限](https://m.ithome.com/html/858949.htm)
+
++ [极越汽车线上商城重启后订单量激增，官方致歉](https://m.ithome.com/html/858918.htm)
+
++ [比亚迪海豹 06 EV 上市：标配天神之眼 C，10.98 万-12.98 万元](https://m.ithome.com/html/859024.htm)
+
++ [苹果 iPadOS 26 前瞻：革新界面、优化手写笔、增强 AI、扩展应用](https://m.ithome.com/html/858996.htm)
+
++ [特斯拉 Model S Plaid 原型车曝光，将冲击纽北最快四门车纪录](https://m.ithome.com/html/859034.htm)
+

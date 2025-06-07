@@ -171,3 +171,9 @@
 
 + [物联网专业核心课程以及就业方向](https://blog.csdn.net/suny8/article/details/148433249)
 
++ [安卓opencv没有stitching.so文件怎么办？想用opencv的图片拼接，但是从官网下的包里面没有那个模块，如何解决？](https://blog.csdn.net/weixin_43970743/article/details/148430153)
+
++ [Java + Spring Boot + Mybatis 实现批量插入](https://blog.csdn.net/BillKu/article/details/148483949)
+
++ [vue项目引入tailwindcss](https://blog.csdn.net/qq_64760783/article/details/148483940)
+
