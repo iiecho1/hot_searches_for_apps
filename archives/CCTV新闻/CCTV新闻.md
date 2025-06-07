@@ -171,3 +171,13 @@
 
 + [智利北部发生6.4级地震，震源深度70千米](https://news.cctv.com/2025/06/07/ARTIpZGx8sqf1KVDM7oKolDz250607.shtml)
 
++ [全球瞭望丨英媒：大型机构投资者正在撤出美国市场](https://news.cctv.com/2025/06/07/ARTIDkmkOcrPN9kWS9hyiGzw250607.shtml)
+
++ [下游叫苦 钱包“失血”——美国钢铝关税翻倍引发行业批评](https://news.cctv.com/2025/06/07/ARTI4q3wHS5PpbnBpxc3oCT5250607.shtml)
+
++ [毛里塔尼亚环境部长：中非绿色合作播种非洲“绿色长城”的未来](https://news.cctv.com/2025/06/07/ARTIw5LJDigRTR6znc5QxdAy250607.shtml)
+
++ [李在明与特朗普通话 改组幕僚团队](https://news.cctv.com/2025/06/07/ARTI6eJhr6537OjXJDC06kp9250607.shtml)
+
++ [斐济群岛以南海域发生5.8级地震，震源深度360千米](https://news.cctv.com/2025/06/07/ARTIW09vH8BdK4Gz14cgCkqd250607.shtml)
+
