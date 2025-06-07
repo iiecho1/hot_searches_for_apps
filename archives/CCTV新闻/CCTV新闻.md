@@ -209,3 +209,5 @@
 
 + [对抗升级？俄罗斯与北约在波罗的海“狭路相逢” 专家：并非巧合](https://news.cctv.com/2025/06/07/ARTIXzABN63wjqyBur0eLCgv250607.shtml)
 
++ [中国游客在日遭袭 我驻日本大使馆提醒加强安全防范](https://news.cctv.com/2025/06/07/ARTIPLqWPhPK3TgkiyigvGLm250607.shtml)
+

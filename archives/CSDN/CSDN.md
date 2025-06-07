@@ -185,3 +185,11 @@
 
 + [React项目的状态管理：Redux Toolkit](https://blog.csdn.net/QA154/article/details/148435903)
 
++ [AI浪潮下，IT从业者会失业吗？](https://blog.csdn.net/beautifulmemory/article/details/148426546)
+
++ [在虚拟宇宙中低语——进程间通信，Linux命名管道的前世今生](https://blog.csdn.net/2303_81060385/article/details/147632470)
+
++ [网络安全逆向分析之rust逆向技巧](https://blog.csdn.net/anquan2233/article/details/148478627)
+
++ [Win10停更，Win11不好用？现在Mac电脑比Win11电脑更便宜](https://blog.csdn.net/meiyimin/article/details/148446166)
+
