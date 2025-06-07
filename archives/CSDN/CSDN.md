@@ -131,3 +131,7 @@
 
 + [NoSQl之Redis部署](https://blog.csdn.net/2501_91112123/article/details/148447706)
 
++ [win10+TensorRT+OpenCV+Qt+YOLOV8模型部署教程](https://blog.csdn.net/Fcc_bd_stars/article/details/148477430)
+
++ [【时事新闻】稳定币巨头Circle：从支付梦想到IPO征程的蜕变之路](https://blog.csdn.net/qq_44214428/article/details/148497583)
+
