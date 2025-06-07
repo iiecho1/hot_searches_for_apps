@@ -143,3 +143,5 @@
 
 + [【Linux】网络--传输层--深入理解TCP协议](https://blog.csdn.net/cainiao080605/article/details/148350008)
 
++ [(第二章)深度学习标准化技术综述: 从BatchNorm到DeepNorm的演进与实战](https://blog.csdn.net/2501_91903104/article/details/148410547)
+

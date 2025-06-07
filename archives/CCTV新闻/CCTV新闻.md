@@ -187,3 +187,5 @@
 
 + [吉尔吉斯斯坦发生4.5级地震，震源深度10千米](https://news.cctv.com/2025/06/07/ARTItmKULg5qKnHojfqioi4f250607.shtml)
 
++ [特朗普：下一任美联储主席人选决定即将公布](https://news.cctv.com/2025/06/07/ARTIa6yTmBA3i5cWe66UG4Wp250607.shtml)
+
