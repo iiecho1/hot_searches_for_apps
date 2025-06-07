@@ -203,3 +203,7 @@
 
 + [国际观察丨俄全方位回击乌“蛛网”行动 俄乌局势会否失控](https://news.cctv.com/2025/06/07/ARTIKVmDFVAT1Q3eWhZAPe0I250607.shtml)
 
++ [关闭检查站 增派军队 泰柬边境局势再度升级](https://news.cctv.com/2025/06/07/ARTIATAFMmAlBL6Jt1so7ULV250607.shtml)
+
++ [俄谈判代表团团长：乌方无限期推迟接收阵亡人员遗体和换俘时间](https://news.cctv.com/2025/06/07/ARTIwmxg4fjfGHH0vtfxY6yK250607.shtml)
+
