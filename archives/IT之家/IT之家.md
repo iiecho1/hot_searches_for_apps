@@ -25,3 +25,27 @@
 
 + [特斯拉 Model S Plaid 原型车曝光，将冲击纽北最快四门车纪录](https://m.ithome.com/html/859034.htm)
 
++ [多地家电“国补”暂停，专家回应称“前期补贴资金用完，第二批第三批在拨”](https://m.ithome.com/html/858803.htm)
+
++ [华为鸿蒙电脑今日正式开售：MateBook Fold 非凡大师 23999 元起，MateBook Pro 7999 元起](https://m.ithome.com/html/858696.htm)
+
++ [微信 iOS 版 8.0.60 最新官方正式版下载发布](https://m.ithome.com/html/858750.htm)
+
++ [《黑神话：悟空》数字版将首次 8 折优惠，8 月 20 日登陆 Xbox Series X|S](https://m.ithome.com/html/858728.htm)
+
++ [王自如宣布将在 AI 领域“二次创业”](https://m.ithome.com/html/858798.htm)
+
++ [华为 Pura80 系列长焦有望大升级，官方喊出“远远不止，近在眼前”](https://m.ithome.com/html/858712.htm)
+
++ [比亚迪：我们不打价格战，但面对任何人掀起的价格战也都玩得起](https://m.ithome.com/html/858825.htm)
+
++ [魅族 22 系列手机入网：有望搭载骁龙 8 至尊版、下月发布](https://m.ithome.com/html/858771.htm)
+
++ [16.98 万元起：2026 款零跑 C16 开订，新增 5 座版车型及车载冰箱](https://m.ithome.com/html/858751.htm)
+
++ [股东读长文批比亚迪存在营销等短板，王传福承认并承诺改进](https://m.ithome.com/html/858763.htm)
+
++ [字节跳动新加坡员工大规模食物中毒案进展：云海肴被告上法庭](https://m.ithome.com/html/858873.htm)
+
++ [消息称华为 Pura80 Pro 系列手机为居中单孔屏，未采用 3D 人脸识别](https://m.ithome.com/html/858878.htm)
+

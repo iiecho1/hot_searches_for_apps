@@ -113,3 +113,19 @@
 
 + [实时数据仓库是什么？数据仓库设计怎么做？](https://blog.csdn.net/yuanziok/article/details/148458916)
 
++ [Java 大视界 -- Java 大数据机器学习模型在社交媒体舆情传播预测与舆论引导策略制定中的应用（289）](https://blog.csdn.net/atgfg/article/details/148437099)
+
++ [关于Web安全：8. Web 攻击流量分析与自动化](https://blog.csdn.net/Triste__chengxi/article/details/148473733)
+
++ [HybridVLA——为单一LLM同时赋予扩散和自回归动作生成能力：训练时既扩散也回归，但推理时则扩散](https://blog.csdn.net/v_JULY_v/article/details/148499910)
+
++ [告别局域网：实现NASCab云可云远程自由访问](https://blog.csdn.net/weixin_44976692/article/details/148449039)
+
++ [青少年编程与数学 01-011 系统软件简介 05 macOS操作系统](https://blog.csdn.net/qq_40071585/article/details/148462803)
+
++ [Lombok 的 @Data 注解失效，未生成 getter/setter 方法引发的HTTP 406 错误](https://blog.csdn.net/m0_73941339/article/details/148482217)
+
++ [在不同型号的手机或平板上后台运行Aidlux](https://blog.csdn.net/AidLux/article/details/148452228)
+
++ [【计算机组成原理】计算机硬件的基本组成、详细结构、工作原理](https://blog.csdn.net/2302_79527141/article/details/148365775)
+
