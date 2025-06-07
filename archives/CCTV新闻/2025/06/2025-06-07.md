@@ -191,3 +191,7 @@
 
 + [部分中国公民在新西兰遭盗抢 我驻奥克兰总领馆提醒加强防范](https://news.cctv.com/2025/06/07/ARTIWDG9p8zVj47rB7cGLqev250607.shtml)
 
++ [全球连线｜中非绿色对话：从黄山民宿到非洲“树屋”](https://news.cctv.com/2025/06/07/ARTIt8eaxWtQmIuZDiyWiTa9250607.shtml)
+
++ [特朗普：“没空理马斯克” 欧洲抛橄榄枝](https://news.cctv.com/2025/06/07/ARTIfuhoGvg0sPRFtsuF3PMU250607.shtml)
+

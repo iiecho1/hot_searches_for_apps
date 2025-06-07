@@ -157,3 +157,9 @@
 
 + [机器学习实验八--基于pca的人脸识别](https://blog.csdn.net/bj3281/article/details/148446465)
 
++ [python中的经典视觉模块：OpenCV(cv2)全面解析](https://blog.csdn.net/m0_69722969/article/details/148460702)
+
++ [计算机网络(6)——局域网](https://blog.csdn.net/2401_89167985/article/details/148372618)
+
++ [数据库同步是什么意思？数据库架构有哪些？](https://blog.csdn.net/yuanziok/article/details/148427044)
+

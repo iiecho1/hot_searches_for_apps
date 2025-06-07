@@ -61,3 +61,17 @@
 
 + [消息称华为 Pura80 Pro 系列手机为居中单孔屏，未采用 3D 人脸识别](https://m.ithome.com/html/858878.htm)
 
++ [全球首个满级 QQ 诞生：256 级用户集齐四皇冠获得“金企鹅”](https://m.ithome.com/html/858967.htm)
+
++ [苹果标准版 iPhone 17 抢先看：120Hz 屏幕、A18 芯片、4800 万主摄、自研 Wi-Fi 芯片](https://m.ithome.com/html/859008.htm)
+
++ [鸿蒙电脑版微信开启邀测报名](https://m.ithome.com/html/858928.htm)
+
++ [70.8 万元起，鸿蒙智行尊界 S800 上市 7 天大定突破 3600 台](https://m.ithome.com/html/858927.htm)
+
++ [华为公布“一底双长焦”专利，Pura80 Ultra 手机有望搭载](https://m.ithome.com/html/858935.htm)
+
++ [苹果警告澳大利亚不要效仿欧盟强制开放 iPhone 应用侧载](https://m.ithome.com/html/858956.htm)
+
++ [消息称新款华为 Mate XT 三折叠手机下半年发布，升级处理器](https://m.ithome.com/html/858941.htm)
+
