@@ -167,3 +167,7 @@
 
 + [VSCode主题定制：CSS个性化你的编程世界](https://blog.csdn.net/Vinceri/article/details/148455709)
 
++ [Linux网络——socket网络通信udp](https://blog.csdn.net/qq_34434522/article/details/148458650)
+
++ [物联网专业核心课程以及就业方向](https://blog.csdn.net/suny8/article/details/148433249)
+

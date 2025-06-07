@@ -195,3 +195,5 @@
 
 + [特朗普：“没空理马斯克” 欧洲抛橄榄枝](https://news.cctv.com/2025/06/07/ARTIfuhoGvg0sPRFtsuF3PMU250607.shtml)
 
++ [中东战地手记丨战火下的苏丹：买羊过节成了一种奢望](https://news.cctv.com/2025/06/07/ARTIBIdOAe83qOIijMnFwfAU250607.shtml)
+
