@@ -185,3 +185,5 @@
 
 + [受关税战影响 国际投资人开始重估美国市场](https://news.cctv.com/2025/06/07/ARTIZEEgKZOd7SXZXPCU8DdO250607.shtml)
 
++ [吉尔吉斯斯坦发生4.5级地震，震源深度10千米](https://news.cctv.com/2025/06/07/ARTItmKULg5qKnHojfqioi4f250607.shtml)
+
