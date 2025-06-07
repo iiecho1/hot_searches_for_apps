@@ -129,3 +129,5 @@
 
 + [【计算机组成原理】计算机硬件的基本组成、详细结构、工作原理](https://blog.csdn.net/2302_79527141/article/details/148365775)
 
++ [NoSQl之Redis部署](https://blog.csdn.net/2501_91112123/article/details/148447706)
+
