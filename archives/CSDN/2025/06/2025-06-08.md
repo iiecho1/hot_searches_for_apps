@@ -137,3 +137,7 @@
 
 + [​​Android 如何查看CPU架构？2025年主流架构有哪些？​](https://blog.csdn.net/qq_35970872/article/details/148196905)
 
++ [新能源汽车热管理核心技术解析：冬季续航提升40%的行业方案](https://blog.csdn.net/weixin_62244995/article/details/148447098)
+
++ [C++单例模式教学指南](https://blog.csdn.net/weixin_45481496/article/details/148480974)
+

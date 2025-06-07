@@ -49,3 +49,17 @@
 
 + [消息称华为 Pura80 Pro 系列手机为居中单孔屏，未采用 3D 人脸识别](https://m.ithome.com/html/858878.htm)
 
++ [吉利李书福：说假话难自圆其说，做亏心事天理难容，有些企业的竞争方式令人难以启齿](https://m.ithome.com/html/859076.htm)
+
++ [消息称华为一镜双焦段的切换是不连续的，变焦过程有软件衔接](https://m.ithome.com/html/859090.htm)
+
++ [消息称任天堂 Switch 2 首日销量超三百万：刷新游戏主机历史新纪录](https://m.ithome.com/html/859100.htm)
+
++ [吉利李书福：不再建设新的汽车生产工厂](https://m.ithome.com/html/859089.htm)
+
++ [滴滴将连发三个月高温补贴，鼓励网约车司机开空调改善乘客体验](https://m.ithome.com/html/859043.htm)
+
++ [比亚迪预告方程豹全新车型：中大型 SUV 或命名“钛 7”](https://m.ithome.com/html/859015.htm)
+
++ [小米 YU7 展车陆续到店，含北上广深、杭州、成都、长沙、合肥等](https://m.ithome.com/html/859085.htm)
+
