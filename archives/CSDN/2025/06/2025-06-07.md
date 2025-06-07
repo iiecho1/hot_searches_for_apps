@@ -129,3 +129,7 @@
 
 + [网络通信核心概念全解析：从IP地址到TCP/UDP实战](https://blog.csdn.net/ZNing_1/article/details/148436755)
 
++ [Java 大视界 -- Java 大数据在智能建筑能耗预测与需求响应优化中的应用（288）](https://blog.csdn.net/atgfg/article/details/148436998)
+
++ [【计算机网络】NAT、代理服务器、内网穿透、内网打洞、局域网中交换机](https://blog.csdn.net/GGDxianv/article/details/148384865)
+

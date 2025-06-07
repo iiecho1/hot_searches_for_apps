@@ -59,3 +59,5 @@
 
 + [继“魅力指数”第一后，小米 SU7 拿下 J.D. Power “消费者之声”奖](https://m.ithome.com/html/858458.htm)
 
++ [消息称华为 Pura80 Pro 系列手机为居中单孔屏，未采用 3D 人脸识别](https://m.ithome.com/html/858878.htm)
+

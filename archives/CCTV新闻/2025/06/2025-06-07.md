@@ -163,3 +163,11 @@
 
 + [孟加拉国定于明年4月举行大选](https://news.cctv.com/2025/06/07/ARTIJAbS5GLEgaI61iXwbODw250607.shtml)
 
++ [以军说4名士兵在加沙地带南部身亡](https://news.cctv.com/2025/06/07/ARTIXK2fa5QMxPtVIanwaETb250607.shtml)
+
++ [特朗普与马斯克“口水战”持续升级](https://news.cctv.com/2025/06/07/ARTIHyPhnjjlWXFGcGkyoHWB250607.shtml)
+
++ [中国留学生被起诉走私危险菌种 我驻芝加哥总领馆发言人答记者问](https://news.cctv.com/2025/06/07/ARTIGnCsC5RqhLxBTq0LCjWg250607.shtml)
+
++ [智利北部发生6.4级地震，震源深度70千米](https://news.cctv.com/2025/06/07/ARTIpZGx8sqf1KVDM7oKolDz250607.shtml)
+
