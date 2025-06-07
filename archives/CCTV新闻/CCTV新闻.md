@@ -181,3 +181,7 @@
 
 + [斐济群岛以南海域发生5.8级地震，震源深度360千米](https://news.cctv.com/2025/06/07/ARTIW09vH8BdK4Gz14cgCkqd250607.shtml)
 
++ [日本政府储备米库存量告急 或考虑进口大米](https://news.cctv.com/2025/06/07/ARTIO01Xc7mXUILoQoWhRYi7250607.shtml)
+
++ [受关税战影响 国际投资人开始重估美国市场](https://news.cctv.com/2025/06/07/ARTIZEEgKZOd7SXZXPCU8DdO250607.shtml)
+

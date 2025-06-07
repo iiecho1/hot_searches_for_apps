@@ -31,3 +31,13 @@
 
 + [MacBook Pro 剩余价值](https://www.v2ex.com/t/1136841)
 
++ [现在入手 appletv7 是否合适？](https://www.v2ex.com/t/1136834)
+
++ [HDR 的正确用法](https://www.v2ex.com/t/1136875)
+
++ [MacBook M4 pro 和 air 怎么选呢](https://www.v2ex.com/t/1136830)
+
++ [你们有过高考 PTSD 吗？](https://www.v2ex.com/t/1136984)
+
++ [打算蹲 yu7，但这车机芯片竟然是骁龙 8gen3，想问下各位怎么看这个](https://www.v2ex.com/t/1136990)
+
