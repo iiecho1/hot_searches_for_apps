@@ -209,3 +209,7 @@
 
 + [2025年06月06日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/148478654)
 
++ [Java 大视界 -- Java 大数据在智能安防视频摘要生成与快速检索系统中的应用（291）](https://blog.csdn.net/atgfg/article/details/148482680)
+
++ [短视频矩阵SaaS系统：开源部署与核心功能架构指南](https://blog.csdn.net/Yxh18137784554/article/details/148472416)
+

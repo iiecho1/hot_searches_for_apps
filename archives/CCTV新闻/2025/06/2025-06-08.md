@@ -203,3 +203,7 @@
 
 + [俄官员：阵亡人员遗体移交或推迟至下周进行](https://news.cctv.com/2025/06/08/ARTI76zJAl1efyIQLpMdW5yK250608.shtml)
 
++ [借“国家安全”幌子行种族歧视之实——美国入境限制令引发广泛质疑和批评](https://news.cctv.com/2025/06/08/ARTI3dPt3cga6eK1gDEYbmih250608.shtml)
+
++ [卢旺达宣布退出中部非洲国家经济共同体](https://news.cctv.com/2025/06/08/ARTIsvIax2ndn2lNf2gQX3bp250608.shtml)
+
