@@ -173,3 +173,7 @@
 
 + [蓝牙音乐(A2DP)音频延迟的一些感想跟分析，让你对A2DP体验更佳深入](https://blog.csdn.net/XiaoXiaoPengBo/article/details/148494385)
 
++ [Spring Boot 启动流程及配置类解析原理](https://blog.csdn.net/yuan19997/article/details/148454886)
+
++ [Python分形几何可视化—— 复数迭代、L系统与生物分形模拟](https://blog.csdn.net/deepever/article/details/148481085)
+

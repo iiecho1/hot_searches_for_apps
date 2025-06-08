@@ -191,3 +191,5 @@
 
 + [菲律宾总统举办庆祝菲中建交50周年灯光烟火秀](https://news.cctv.com/2025/06/08/ARTIvxRrNyhUQgeE2j69cDE6250608.shtml)
 
++ [耶路撒冷一宗教场所发生火情 暂无人员伤亡](https://news.cctv.com/2025/06/08/ARTIHQbMzZuDECLFmxiod7lD250608.shtml)
+

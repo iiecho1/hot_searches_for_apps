@@ -65,3 +65,13 @@
 
 + [小米 REDMI Turbo 4 Pro 限时购机再送“红运黄金贴”，限量 10 万份](https://m.ithome.com/html/859115.htm)
 
++ [苹果 iOS 26 全新设计揭秘：透明玻璃风、Safari 浏览器大变样](https://m.ithome.com/html/859143.htm)
+
++ [微信员工：鸿蒙电脑版微信采用跨平台开发](https://m.ithome.com/html/859181.htm)
+
++ [小米汽车：投保车险需警惕将“保险”表述为“保障”，且保费明显低于常规车险的情况](https://m.ithome.com/html/859130.htm)
+
++ [蔚来总裁称还是行业小学生，理想汽车高管自嘲“我们只能上幼儿园了”](https://m.ithome.com/html/859093.htm)
+
++ [消息称苹果 macOS 26 将不再支持部分英特尔 CPU 机型](https://m.ithome.com/html/859128.htm)
+
