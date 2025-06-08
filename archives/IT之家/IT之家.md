@@ -63,3 +63,5 @@
 
 + [小米 YU7 展车陆续到店，含北上广深、杭州、成都、长沙、合肥等](https://m.ithome.com/html/859085.htm)
 
++ [小米 REDMI Turbo 4 Pro 限时购机再送“红运黄金贴”，限量 10 万份](https://m.ithome.com/html/859115.htm)
+
