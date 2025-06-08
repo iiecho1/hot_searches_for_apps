@@ -165,3 +165,15 @@
 
 + [乌克兰否认推迟交换战俘和阵亡士兵遗体](https://news.cctv.com/2025/06/08/ARTIKdOYy75Ed71m4E1zFyEB250608.shtml)
 
++ [俄乌就交换战俘和遗体现“罗生门”](https://news.cctv.com/2025/06/08/ARTIfAl86307w8ZBN1Q6Nrst250608.shtml)
+
++ [哥伦比亚总统候选人遭枪击情况危急 一名嫌疑人被捕](https://news.cctv.com/2025/06/08/ARTI6fyuGpRLROclkrL0zPah250608.shtml)
+
++ [美执法人员搜捕非法移民再度引发冲突](https://news.cctv.com/2025/06/08/ARTIA8F9qzQ4gcxzLxo8rTNt250608.shtml)
+
++ [哥伦比亚总统候选人遭枪击 嫌疑人被捕 更多细节披露](https://news.cctv.com/2025/06/08/ARTIIAoDX8J4rdQSMjxWot6k250608.shtml)
+
++ [伊朗谴责美国对伊朗等多国实施入境限制](https://news.cctv.com/2025/06/08/ARTIGVFBeSEO1Gjwa4xsoKuw250608.shtml)
+
++ [美国务院指示领事馆恢复处理哈佛大学国际学生签证](https://news.cctv.com/2025/06/08/ARTIYxpz4qErvrHgMw7U6ay1250608.shtml)
+

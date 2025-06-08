@@ -141,3 +141,17 @@
 
 + [C++单例模式教学指南](https://blog.csdn.net/weixin_45481496/article/details/148480974)
 
++ [Python----目标检测（YOLO简介）](https://blog.csdn.net/weixin_64110589/article/details/147835165)
+
++ [缺陷检测（作者：不想上早八）](https://blog.csdn.net/2401_88665132/article/details/148455423)
+
++ [Docker/DockerHub 国内镜像源/加速列表（6月8日更新）](https://blog.csdn.net/mliev/article/details/148444140)
+
++ [【Java开发日记】说一说 SpringBoot 中 CommandLineRunner](https://blog.csdn.net/2402_87298751/article/details/148491836)
+
++ [数据库系统概论（十七）超详细讲解数据库规范化与五大范式（从函数依赖到多值依赖，再到五大范式，附带例题，表格，知识图谱对比带你一步步掌握）](https://blog.csdn.net/2402_83322742/article/details/148456190)
+
++ [使用 Docker Compose 从零部署 TeamCity + PostgreSQL（详细新手教程）](https://blog.csdn.net/qq_34707272/article/details/148475885)
+
++ [Web安全深度解析：源码泄漏与未授权访问漏洞全指南](https://blog.csdn.net/weixin_41905135/article/details/148463042)
+
