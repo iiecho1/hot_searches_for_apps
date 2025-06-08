@@ -165,3 +165,13 @@
 
 + [2000名国民警卫队进驻洛杉矶 州长市长齐批特朗普“制造混乱”](https://news.cctv.com/2025/06/09/ARTIisSi26uFSSXP2QnNlfv5250609.shtml)
 
++ [中菲建交50年 菲总统重申菲律宾和中国的持久友谊](https://news.cctv.com/2025/06/09/ARTIFlEYFzwnW94HzLChrdRP250609.shtml)
+
++ [激烈争议中 意大利举行“入籍年限”公投](https://news.cctv.com/2025/06/09/ARTIN8kMbdIQvcDUVhseX33S250609.shtml)
+
++ [日美谈判仍然毫无进展，关税成“死结”，日本大臣：双方“尚未找到共识”](https://news.cctv.com/2025/06/09/ARTIw0MhLRhMnTjyzMM0U9Sp250609.shtml)
+
++ [加沙卫生部门负责人：加沙医院濒临停运](https://news.cctv.com/2025/06/09/ARTI9OK6CLlG7zDnW8LRlIDS250609.shtml)
+
++ [埃及一小巴车翻入水中 造成7人死亡1人受伤](https://news.cctv.com/2025/06/09/ARTIb4ml0dmkHqmXtyRTdzUQ250609.shtml)
+

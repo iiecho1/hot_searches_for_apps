@@ -153,3 +153,7 @@
 
 + [【HarmonyOS Next之旅】DevEco Studio使用指南(三十一) -＞ 同步云端代码至DevEco Studio工程](https://blog.csdn.net/weixin_74809706/article/details/148499443)
 
++ [基于物联网设计的智慧家庭健康医疗系统](https://blog.csdn.net/xiaolong1126626497/article/details/148501956)
+
++ [《Vuejs设计与实现》第 8 章（挂载与更新）](https://blog.csdn.net/qq_63358859/article/details/148468041)
+
