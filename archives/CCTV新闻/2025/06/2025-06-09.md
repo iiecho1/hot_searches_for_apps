@@ -163,3 +163,5 @@
 
 + [特朗普政府派遣国民警卫队进驻洛杉矶](https://news.cctv.com/2025/06/09/ARTIOW5yNI0HFsxFrn7ggKzQ250609.shtml)
 
++ [2000名国民警卫队进驻洛杉矶 州长市长齐批特朗普“制造混乱”](https://news.cctv.com/2025/06/09/ARTIisSi26uFSSXP2QnNlfv5250609.shtml)
+

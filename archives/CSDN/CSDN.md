@@ -149,3 +149,7 @@
 
 + [青少年编程与数学 01-011 系统软件简介 07 iOS操作系统](https://blog.csdn.net/qq_40071585/article/details/148497826)
 
++ [持续交付的进化：从DevOps到AI驱动的IT新动能](https://blog.csdn.net/SDFsoul/article/details/148511914)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(三十一) -＞ 同步云端代码至DevEco Studio工程](https://blog.csdn.net/weixin_74809706/article/details/148499443)
+
