@@ -195,3 +195,5 @@
 
 + [中国援白俄罗斯国家足球体育场正式启用](https://photo.cctv.com/2025/06/08/PHOAq5RKrRxuq3GxLc0CLvuH250608.shtml)
 
++ [美国“粮仓”一线观察：关税政策冲击下的农民春播之困](https://news.cctv.com/2025/06/08/ARTIfqv2oMhYi98WA2rSkUoJ250608.shtml)
+
