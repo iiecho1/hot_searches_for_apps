@@ -193,3 +193,5 @@
 
 + [耶路撒冷一宗教场所发生火情 暂无人员伤亡](https://news.cctv.com/2025/06/08/ARTIHQbMzZuDECLFmxiod7lD250608.shtml)
 
++ [中国援白俄罗斯国家足球体育场正式启用](https://photo.cctv.com/2025/06/08/PHOAq5RKrRxuq3GxLc0CLvuH250608.shtml)
+
