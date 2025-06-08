@@ -177,3 +177,5 @@
 
 + [美国务院指示领事馆恢复处理哈佛大学国际学生签证](https://news.cctv.com/2025/06/08/ARTIYxpz4qErvrHgMw7U6ay1250608.shtml)
 
++ [特朗普政府宣布向洛杉矶部署2000名国民警卫队人员](https://news.cctv.com/2025/06/08/ARTIHzOscUN2J1lQckVBxq7x250608.shtml)
+
