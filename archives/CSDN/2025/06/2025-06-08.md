@@ -165,3 +165,5 @@
 
 + [《从零掌握MIPI CSI-2: 协议精解与FPGA摄像头开发实战》-- CSI-2 协议详细解析 (一）](https://blog.csdn.net/GateWorld/article/details/148482950)
 
++ [HybridVLA——让单一LLM同时具备扩散和自回归动作预测能力：训练时既扩散也回归，但推理时则扩散](https://blog.csdn.net/v_JULY_v/article/details/148499910)
+

@@ -185,3 +185,5 @@
 
 + [世界各地举办庆祝活动迎接文明对话国际日——在文明对话中拉近心与心的距离](https://news.cctv.com/2025/06/08/ARTIv6BjPJgC1iaNtVE6Kxdx250608.shtml)
 
++ [洛杉矶乱了！特朗普下令部署国民警卫队 防长称或出动军队](https://news.cctv.com/2025/06/08/ARTIvgJKTbhKFKNMRBE4isR0250608.shtml)
+
