@@ -75,3 +75,17 @@
 
 + [消息称苹果 macOS 26 将不再支持部分英特尔 CPU 机型](https://m.ithome.com/html/859128.htm)
 
++ [领克穆军：不建议加装“防虫网”，此类装置可能影响发动机散热及车辆性能](https://m.ithome.com/html/859189.htm)
+
++ [比亚迪李云飞回应“常压油箱”和“车圈恒大”话题：油箱合规、财务没问题](https://m.ithome.com/html/859204.htm)
+
++ [Win11 WSA 项目已终结，微软商店下架相关应用](https://m.ithome.com/html/859164.htm)
+
++ [雷军：小米 SU7 Ultra 将入驻《Gran Turismo 7》，这也是 GT 赛车史上首款中国车](https://m.ithome.com/html/859187.htm)
+
++ [阿维塔累计销量突破 15 万辆，产品均价超 27 万元](https://m.ithome.com/html/859113.htm)
+
++ [京东国补再升级：云闪付领资格后 + 京东支付享免息，Apple Watch S10 以旧换新 1388 元 12 期免息](https://m.ithome.com/html/859208.htm)
+
++ [中国汽研-尚界合作专班成立，为上汽华为合作项目提供支持](https://m.ithome.com/html/859118.htm)
+

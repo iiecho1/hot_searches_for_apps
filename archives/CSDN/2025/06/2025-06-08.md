@@ -195,3 +195,7 @@
 
 + [大模型安全测试报告：千问、GPT 全系列、豆包、Claude 表现优异，DeepSeek、Grok-3 与 Kimi 存在安全隐患](https://blog.csdn.net/Herryfyh/article/details/148482594)
 
++ [【MySQL系列】MySQL 执行 SQL 文件](https://blog.csdn.net/qyj19920704/article/details/148500533)
+
++ [命名管道实现本地通信](https://blog.csdn.net/sqm_C/article/details/146122310)
+

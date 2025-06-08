@@ -33,3 +33,19 @@
 
 + [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
 
++ [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)
+
++ [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+
++ [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
+
++ [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [unslothai/notebooks](https://github.com/unslothai/notebooks)
+
