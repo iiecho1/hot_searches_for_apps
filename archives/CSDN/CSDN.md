@@ -131,3 +131,13 @@
 
 + [ARM SMMUv3简介（一）](https://blog.csdn.net/u011037593/article/details/148501635)
 
++ [AI知识补全（十七）：通用人工智能AGI是什么？](https://blog.csdn.net/qq_51646682/article/details/148520403)
+
++ [Spring AI 核心工作流](https://blog.csdn.net/H2750380601/article/details/148410473)
+
++ [springCloud2025+springBoot3.5.0+Nacos集成redis从nacos拉配置起服务](https://blog.csdn.net/zwrlj527/article/details/148499650)
+
++ [SpringBoot项目接口集中测试方法及实现](https://blog.csdn.net/sclibingqing/article/details/148501639)
+
++ [【LLM-Agent】智能体的记忆缓存设计](https://blog.csdn.net/qq_35812205/article/details/144472003)
+

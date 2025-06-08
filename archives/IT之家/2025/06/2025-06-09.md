@@ -59,3 +59,5 @@
 
 + [比亚迪汉家族累销突破 101 万辆](https://m.ithome.com/html/859191.htm)
 
++ [蔚来总裁称还是行业小学生，理想汽车高管自嘲“我们只能上幼儿园了”](https://m.ithome.com/html/859093.htm)
+
