@@ -179,3 +179,9 @@
 
 + [特朗普政府宣布向洛杉矶部署2000名国民警卫队人员](https://news.cctv.com/2025/06/08/ARTIHzOscUN2J1lQckVBxq7x250608.shtml)
 
++ [多元交流共筑丝路情！首趟中国－中亚国际人文旅游专列运行记](https://news.cctv.com/2025/06/08/ARTImETw5x0moNDFXqHko1ta250608.shtml)
+
++ [美国洛杉矶港执行董事称港口就业机会锐减](https://news.cctv.com/2025/06/08/ARTIAfEZWpb3D9y7R3s1zz0O250608.shtml)
+
++ [世界各地举办庆祝活动迎接文明对话国际日——在文明对话中拉近心与心的距离](https://news.cctv.com/2025/06/08/ARTIv6BjPJgC1iaNtVE6Kxdx250608.shtml)
+

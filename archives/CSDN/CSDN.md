@@ -159,3 +159,9 @@
 
 + [8.axios Http网络请求库（1）](https://blog.csdn.net/wdy00000/article/details/148445915)
 
++ [华为云Flexus+DeepSeek征文 | 从零到一：用Flexus云服务打造低延迟联网搜索Agent](https://blog.csdn.net/IRpickstars/article/details/148492588)
+
++ [uniapp 集成腾讯云 IM 消息搜索功能](https://blog.csdn.net/Rocky_Time/article/details/148234254)
+
++ [《从零掌握MIPI CSI-2: 协议精解与FPGA摄像头开发实战》-- CSI-2 协议详细解析 (一）](https://blog.csdn.net/GateWorld/article/details/148482950)
+
