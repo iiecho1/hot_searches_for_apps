@@ -41,3 +41,9 @@
 
 + [“AI 不会杀死创作，但会杀死平庸”各位怎么看？](https://www.v2ex.com/t/1137017)
 
++ [一次洗衣机维修经历](https://www.v2ex.com/t/1137147)
+
++ [馋 MacBook Pro 的屏幕怎么办。](https://www.v2ex.com/t/1137052)
+
++ [有没有比较方便好用的 Python GUI 框架？](https://www.v2ex.com/t/1137123)
+

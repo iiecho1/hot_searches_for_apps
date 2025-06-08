@@ -187,3 +187,7 @@
 
 + [洛杉矶乱了！特朗普下令部署国民警卫队 防长称或出动军队](https://news.cctv.com/2025/06/08/ARTIvgJKTbhKFKNMRBE4isR0250608.shtml)
 
++ [中国援加纳医疗队到当地孤儿院开展义诊活动](https://news.cctv.com/2025/06/08/ARTIvA5TIjUJIXnkYyEE4ta0250608.shtml)
+
++ [菲律宾总统举办庆祝菲中建交50周年灯光烟火秀](https://news.cctv.com/2025/06/08/ARTIvxRrNyhUQgeE2j69cDE6250608.shtml)
+

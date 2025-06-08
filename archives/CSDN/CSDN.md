@@ -167,3 +167,9 @@
 
 + [HybridVLA——让单一LLM同时具备扩散和自回归动作预测能力：训练时既扩散也回归，但推理时则扩散](https://blog.csdn.net/v_JULY_v/article/details/148499910)
 
++ [MCP 技术完全指南：微软开源项目助力 AI 开发标准化学习](https://blog.csdn.net/u014390502/article/details/148492412)
+
++ [TensorFlow深度学习实战（20）——自组织映射详解](https://blog.csdn.net/LOVEmy134611/article/details/144413301)
+
++ [蓝牙音乐(A2DP)音频延迟的一些感想跟分析，让你对A2DP体验更佳深入](https://blog.csdn.net/XiaoXiaoPengBo/article/details/148494385)
+
