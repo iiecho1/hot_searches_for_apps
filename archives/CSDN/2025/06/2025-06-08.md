@@ -221,3 +221,11 @@
 
 + [Coze案例：复刻爆款视频](https://blog.csdn.net/2301_76385322/article/details/148476290)
 
++ [DROPP算法详解：专为时间序列和空间数据优化的PCA降维方案](https://blog.csdn.net/m0_46510245/article/details/148510007)
+
++ [【机器学习】支持向量机实验报告——基于SVM进行分类预测](https://blog.csdn.net/2401_84149564/article/details/148472321)
+
++ [上智院第三界世界科学智能大赛-新能源复赛提交docker经验](https://blog.csdn.net/qq_42223823/article/details/148516074)
+
++ [【完整源码+数据集+部署教程】火车连接器检测系统源码和数据集：改进yolo11-unireplknet](https://blog.csdn.net/weixin_43860634/article/details/148485848)
+
