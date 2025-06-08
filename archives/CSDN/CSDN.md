@@ -187,3 +187,11 @@
 
 + [React 中 HTML 插入的全场景实践与安全指南](https://blog.csdn.net/sinat_33255495/article/details/148478149)
 
++ [最新Spring Security实战教程（十七）企业级安全方案设计 - 多因素认证（MFA）实现](https://blog.csdn.net/lhmyy521125/article/details/148483657)
+
++ [向 AI Search 迈进，腾讯云 ES 自研 v-pack 向量增强插件揭秘](https://blog.csdn.net/UbuntuTouch/article/details/148492893)
+
++ [R&D-Agent-Quant：一个以数据为中心的因素与模型联合优化的多智能体框架](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/148501399)
+
++ [大模型安全测试报告：千问、GPT 全系列、豆包、Claude 表现优异，DeepSeek、Grok-3 与 Kimi 存在安全隐患](https://blog.csdn.net/Herryfyh/article/details/148482594)
+

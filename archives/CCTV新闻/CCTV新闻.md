@@ -197,3 +197,9 @@
 
 + [美国“粮仓”一线观察：关税政策冲击下的农民春播之困](https://news.cctv.com/2025/06/08/ARTIfqv2oMhYi98WA2rSkUoJ250608.shtml)
 
++ [遭枪击后 哥伦比亚总统选举参选人接受首次手术](https://news.cctv.com/2025/06/08/ARTIK4hOzvf9h8RVHcZQwDqA250608.shtml)
+
++ [关税政策恶果显现 美国最大港口工作岗位减少近半](https://news.cctv.com/2025/06/08/ARTISY1tB8xJI4DZe1IZa4xm250608.shtml)
+
++ [俄官员：阵亡人员遗体移交或推迟至下周进行](https://news.cctv.com/2025/06/08/ARTI76zJAl1efyIQLpMdW5yK250608.shtml)
+
