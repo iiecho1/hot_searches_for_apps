@@ -141,3 +141,5 @@
 
 + [【LLM-Agent】智能体的记忆缓存设计](https://blog.csdn.net/qq_35812205/article/details/144472003)
 
++ [Deepseek基座：Deepseek-v2核心内容解析](https://blog.csdn.net/2501_91903104/article/details/148483656)
+
