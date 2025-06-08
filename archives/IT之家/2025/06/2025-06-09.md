@@ -25,3 +25,27 @@
 
 + [小米 YU7 展车陆续到店，含北上广深、杭州、成都、长沙、合肥等](https://m.ithome.com/html/859085.htm)
 
++ [微信员工：鸿蒙电脑版微信采用跨平台开发](https://m.ithome.com/html/859181.htm)
+
++ [苹果 iOS 26 全新设计揭秘：透明玻璃风、Safari 浏览器大变样](https://m.ithome.com/html/859143.htm)
+
++ [小米 REDMI Turbo 4 Pro 限时购机再送“红运黄金贴”，限量 10 万份](https://m.ithome.com/html/859115.htm)
+
++ [领克穆军：不建议加装“防虫网”，此类装置可能影响发动机散热及车辆性能](https://m.ithome.com/html/859189.htm)
+
++ [小米汽车：投保车险需警惕将“保险”表述为“保障”，且保费明显低于常规车险的情况](https://m.ithome.com/html/859130.htm)
+
++ [比亚迪李云飞回应“常压油箱”和“车圈恒大”话题：油箱合规、财务没问题](https://m.ithome.com/html/859204.htm)
+
++ [消息称苹果 macOS 26 将不再支持部分英特尔 CPU 机型](https://m.ithome.com/html/859128.htm)
+
++ [Win11 WSA 项目已终结，微软商店下架相关应用](https://m.ithome.com/html/859164.htm)
+
++ [雷军：小米 SU7 Ultra 将入驻《Gran Turismo 7》，这也是 GT 赛车史上首款中国车](https://m.ithome.com/html/859187.htm)
+
++ [阿维塔累计销量突破 15 万辆，产品均价超 27 万元](https://m.ithome.com/html/859113.htm)
+
++ [京东国补再升级：云闪付领资格后 + 京东支付享免息，Apple Watch S10 以旧换新 1388 元 12 期免息](https://m.ithome.com/html/859208.htm)
+
++ [中国汽研-尚界合作专班成立，为上汽华为合作项目提供支持](https://m.ithome.com/html/859118.htm)
+
