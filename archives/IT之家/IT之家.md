@@ -49,3 +49,13 @@
 
 + [中国汽研-尚界合作专班成立，为上汽华为合作项目提供支持](https://m.ithome.com/html/859118.htm)
 
++ [国补立减 2000 元：宝华韦健鹦鹉螺 HiFi 落地音箱 794300 元再降价](https://m.ithome.com/html/859241.htm)
+
++ [王自如：在格力工资是以前几分之一，欠钱因与股东纠纷，绝对不会带货](https://m.ithome.com/html/859273.htm)
+
++ [小米 SU7 Ultra 汽车将登陆游戏《GT 赛车 7》](https://m.ithome.com/html/859135.htm)
+
++ [任天堂 Switch 2 被指屏幕亮度不足，HDR 体验令人失望](https://m.ithome.com/html/859173.htm)
+
++ [比亚迪汉家族累销突破 101 万辆](https://m.ithome.com/html/859191.htm)
+

@@ -101,3 +101,33 @@
 
 + [【完整源码+数据集+部署教程】火车连接器检测系统源码和数据集：改进yolo11-unireplknet](https://blog.csdn.net/weixin_43860634/article/details/148485848)
 
++ [深入了解linux系统—— 进程池](https://blog.csdn.net/LH__1314/article/details/148385415)
+
++ [深入了解UDP套接字：构建高效网络通信](https://blog.csdn.net/Cayyyy/article/details/148500445)
+
++ [Vue3+Element Plus表单验证实战：从零实现用户管理](https://blog.csdn.net/p6448777/article/details/148500514)
+
++ [华为云Flexus+DeepSeek征文｜基于华为云一键部署快速搭建Dify-LLM应用开发平台实战（一）](https://blog.csdn.net/wanmeijuhao/article/details/148511788)
+
++ [【GitHub开源AI精选】ebook2audiobook：AI驱动的电子书转有声书利器，支持1107种语言+语音克隆](https://blog.csdn.net/xiaobing259/article/details/148449615)
+
++ [【JS逆向】哲风壁纸4K图滑动验证算法分析案例分享](https://blog.csdn.net/2402_89364638/article/details/148516388)
+
++ [nginx日志的一点理解](https://blog.csdn.net/xiyafei122/article/details/148501686)
+
++ [单元测试与QTestLib框架使用](https://blog.csdn.net/xieliru/article/details/148481733)
+
++ [山东大学算法设计与分析复习笔记](https://blog.csdn.net/px0405/article/details/148475129)
+
++ [【工作记录】接口功能测试总结](https://blog.csdn.net/m0_46582389/article/details/148494390)
+
++ [Linux权限探秘：驾驭权限模型，筑牢系统安全](https://blog.csdn.net/2401_82924480/article/details/148023423)
+
++ [Vue学习之---nextTick](https://blog.csdn.net/m0_74065758/article/details/148499494)
+
++ [LabVIEW工业级多任务实时测控系统](https://blog.csdn.net/bjcyck/article/details/148468141)
+
++ [短视频矩阵SaaS系统：开源部署与核心功能架构指南](https://blog.csdn.net/Yxh18137784554/article/details/148472416)
+
++ [ARM SMMUv3简介（一）](https://blog.csdn.net/u011037593/article/details/148501635)
+

@@ -161,3 +161,5 @@
 
 + [一客机遭遇强气流在德国境内紧急降落 机上9人受伤](https://news.cctv.com/2025/06/05/ARTIxb0H5VEgEPNXLUE0skjO250605.shtml)
 
++ [特朗普政府派遣国民警卫队进驻洛杉矶](https://news.cctv.com/2025/06/09/ARTIOW5yNI0HFsxFrn7ggKzQ250609.shtml)
+
