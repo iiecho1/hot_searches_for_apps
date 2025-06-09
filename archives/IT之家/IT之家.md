@@ -81,3 +81,9 @@
 
 + [何小鹏：小鹏 G7 将是第一款具有 L3 级算力的 AI 汽车](https://m.ithome.com/html/859324.htm)
 
++ [比亚迪方程豹钛 7 内饰曝光，或将采用 5 座布局](https://m.ithome.com/html/859364.htm)
+
++ [古尔曼：预计苹果不会在 WWDC25 开发者大会上发布新硬件](https://m.ithome.com/html/859306.htm)
+
++ [任天堂 Switch 2 在日本引发二手转卖潮，价格跳水却仍高于官方定价](https://m.ithome.com/html/859376.htm)
+
