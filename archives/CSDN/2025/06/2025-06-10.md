@@ -141,3 +141,15 @@
 
 + [【Redis】持久化](https://blog.csdn.net/Sakura_ding/article/details/148516111)
 
++ [自动驾驶---SD图导航的规划策略](https://blog.csdn.net/Janeiskangs/article/details/142929209)
+
++ [从C到C++语法过度1](https://blog.csdn.net/m0_74147998/article/details/148512562)
+
++ [【论文阅读】YOLOv8在单目下视多车目标检测中的应用](https://blog.csdn.net/qq_54452916/article/details/148497447)
+
++ [网络编程（TCP编程）](https://blog.csdn.net/Zz3528966192/article/details/148425494)
+
++ [搜索领域爬虫的搜索引擎算法研究与应对](https://blog.csdn.net/2501_91930600/article/details/148519826)
+
++ [机器人/智能车纯视觉巡线经典策略—滑动窗口+直方图法](https://blog.csdn.net/xiongqi123123/article/details/148520422)
+
