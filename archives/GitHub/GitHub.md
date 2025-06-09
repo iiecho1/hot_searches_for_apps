@@ -33,3 +33,23 @@
 
 + [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
++ [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
+
++ [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+
++ [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+
++ [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+
++ [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
++ [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
+
++ [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)
+
++ [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+
++ [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
