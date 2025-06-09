@@ -161,3 +161,7 @@
 
 + [德国央行：预计德国经济在2025年陷入停滞](https://news.cctv.com/2025/06/06/ARTI4QyKwVwbBKmT2ui3VBQd250606.shtml)
 
++ [加拿大总理：本财年将实现北约防务开支目标](https://news.cctv.com/2025/06/10/ARTIWqzD9qrGrer8nLeUt4A9250610.shtml)
+
++ [美国加州政府起诉特朗普调兵进入洛杉矶](https://news.cctv.com/2025/06/10/ARTI3Uc422rNKi5BOUygwHZ3250610.shtml)
+
