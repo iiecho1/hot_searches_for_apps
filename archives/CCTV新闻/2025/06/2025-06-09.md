@@ -175,3 +175,5 @@
 
 + [埃及一小巴车翻入水中 造成7人死亡1人受伤](https://news.cctv.com/2025/06/09/ARTIb4ml0dmkHqmXtyRTdzUQ250609.shtml)
 
++ [“解放洛杉矶” 特朗普令三部长联手“结束移民暴乱”](https://news.cctv.com/2025/06/09/ARTI33mHHNk4aE0PjFrtUfSg250609.shtml)
+
