@@ -165,3 +165,7 @@
 
 + [美国加州政府起诉特朗普调兵进入洛杉矶](https://news.cctv.com/2025/06/10/ARTI3Uc422rNKi5BOUygwHZ3250610.shtml)
 
++ [“午餐仅一块炸鸡” 日本福冈一小学回应“校餐寒酸”](https://news.cctv.com/2025/06/10/ARTIPBdVbOdH0cEHVvYtcPWc250610.shtml)
+
++ [伊朗发表声明：若遭以色列袭击将打击以秘密核设施](https://news.cctv.com/2025/06/10/ARTIqW6kOtgzwMBJhUlrmTR6250610.shtml)
+

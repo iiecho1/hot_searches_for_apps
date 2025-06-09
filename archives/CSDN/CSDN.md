@@ -153,3 +153,7 @@
 
 + [机器人/智能车纯视觉巡线经典策略—滑动窗口+直方图法](https://blog.csdn.net/xiongqi123123/article/details/148520422)
 
++ [20242817李臻-安全文件传输系统-项目验收](https://blog.csdn.net/weixin_52098515/article/details/148513589)
+
++ [基于大数据爬虫+Python的农产品销售预测系统设计与实现(精品源码+论文+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/148540431)
+
