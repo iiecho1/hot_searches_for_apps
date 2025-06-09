@@ -203,3 +203,9 @@
 
 + [500名士兵待命 特朗普：将向任何地方派遣军队](https://news.cctv.com/2025/06/09/ARTI4Xlb6CRELO5wBoXm1GKD250609.shtml)
 
++ [时长约25分钟 李在明就任后首次与石破茂通电话](https://news.cctv.com/2025/06/09/ARTICvEygUVzOORIpUxy4SpM250609.shtml)
+
++ [叙利亚将重新接入跨境支付系统SWIFT](https://news.cctv.com/2025/06/09/ARTIe184Ap1OszLjIHBoTmmX250609.shtml)
+
++ [日本首相：将彻查米价突然高涨原因](https://news.cctv.com/2025/06/09/ARTIF4RhN4mr4E5mojcc94BD250609.shtml)
+

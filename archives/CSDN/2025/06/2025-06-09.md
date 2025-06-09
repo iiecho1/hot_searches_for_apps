@@ -197,3 +197,5 @@
 
 + [【评测】Qwen3-Embedding模型初体验](https://blog.csdn.net/u010593516/article/details/148519273)
 
++ [新能源汽车热管理核心技术解析：冬季续航提升40%的行业方案](https://blog.csdn.net/weixin_62244995/article/details/148447098)
+
