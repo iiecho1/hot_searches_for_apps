@@ -177,3 +177,9 @@
 
 + [界面开发框架DevExpress XAF实践：集成.NET Aspire后如何实现数据库依赖？](https://blog.csdn.net/AABBbaby/article/details/148471342)
 
++ [自动驾驶---SD图导航的规划策略](https://blog.csdn.net/Janeiskangs/article/details/142929209)
+
++ [建造者模式深度解析与实战应用](https://blog.csdn.net/IRpickstars/article/details/148518193)
+
++ [GitLab + Jenkins +Sonar Qube+docker+Harbor+ Kubernetes 实现 CI/CD 全流程](https://blog.csdn.net/qq_33382118/article/details/148515428)
+

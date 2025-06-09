@@ -185,3 +185,9 @@
 
 + [西印度洋发生5.9级地震 震源深度10千米](https://news.cctv.com/2025/06/09/ARTId93BjAtvJJJwZZBtReyP250609.shtml)
 
++ [“高水平对外开放的中国为我们带来更多发展机遇”——访丹麦中国商业协会秘书长蓬托皮丹](https://news.cctv.com/2025/06/09/ARTIRThoXfKUcOzyFDyaPEW7250609.shtml)
+
++ [韩国警方传唤尹锡悦12日接受调查](https://news.cctv.com/2025/06/09/ARTISQKXaYVBLGCjFnxzH8fB250609.shtml)
+
++ [韩国法院延期二审重审李在明涉嫌违反《公职选举法》案](https://news.cctv.com/2025/06/09/ARTIN72TyaC3c8fdNFeEZdZu250609.shtml)
+
