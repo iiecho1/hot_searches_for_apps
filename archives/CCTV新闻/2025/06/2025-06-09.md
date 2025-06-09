@@ -213,3 +213,5 @@
 
 + [俄罗斯喀山一油漆厂发生火灾 现场浓烟滚滚](https://news.cctv.com/2025/06/09/ARTITW63dwSbbcgwo60bv9g5250609.shtml)
 
++ [中巴合作的大型射电望远镜启运巴西](https://news.cctv.com/2025/06/09/ARTIBtaDS8RmN1NWQj9oi1pV250609.shtml)
+

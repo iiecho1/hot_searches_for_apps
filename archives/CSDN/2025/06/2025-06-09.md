@@ -207,3 +207,5 @@
 
 + [前端现行架构浅析](https://blog.csdn.net/Jcrows/article/details/148518948)
 
++ [DeepSeek12-Open WebUI 知识库配置详细步骤](https://blog.csdn.net/mengyoufengyu/article/details/148520748)
+
