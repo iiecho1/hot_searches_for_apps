@@ -183,3 +183,11 @@
 
 + [GitLab + Jenkins +Sonar Qube+docker+Harbor+ Kubernetes 实现 CI/CD 全流程](https://blog.csdn.net/qq_33382118/article/details/148515428)
 
++ [claude3.7高阶玩法，生成系统架构图，国内直接使用](https://blog.csdn.net/shi_hong_fei_hei/article/details/147633251)
+
++ [一个完整的日志收集方案:Elasticsearch + Logstash + Kibana+Filebeat (二)](https://blog.csdn.net/livemegoodboy/article/details/148500837)
+
++ [基于Spring Boot的云音乐平台设计与实现](https://blog.csdn.net/mrchailiu/article/details/148495900)
+
++ [Fetch与Axios：区别、联系、优缺点及使用差异](https://blog.csdn.net/m0_47311097/article/details/148499886)
+

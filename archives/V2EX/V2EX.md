@@ -43,3 +43,5 @@
 
 + [外出就餐发现的一个有意思的现象](https://www.v2ex.com/t/1137267)
 
++ [1999 买了 MacMnini 然后…](https://www.v2ex.com/t/1137293)
+

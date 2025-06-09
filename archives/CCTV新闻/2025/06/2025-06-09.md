@@ -191,3 +191,7 @@
 
 + [韩国法院延期二审重审李在明涉嫌违反《公职选举法》案](https://news.cctv.com/2025/06/09/ARTIN72TyaC3c8fdNFeEZdZu250609.shtml)
 
++ [警方开枪、军队进驻，特朗普下令“解放洛杉矶”是怎么回事？](https://news.cctv.com/2025/06/09/ARTIMxTRbt0OP1gWNgW80s3q250609.shtml)
+
++ [冲绳驻日美军基地内发生爆炸 有人员受伤](https://news.cctv.com/2025/06/09/ARTIN2iyF3vwBwJgO8PKHp6g250609.shtml)
+
