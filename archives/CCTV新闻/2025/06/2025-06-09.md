@@ -195,3 +195,5 @@
 
 + [冲绳驻日美军基地内发生爆炸 有人员受伤](https://news.cctv.com/2025/06/09/ARTIN2iyF3vwBwJgO8PKHp6g250609.shtml)
 
++ [冲绳驻日美军基地内发生爆炸 4人被紧急送医](https://military.cctv.com/2025/06/09/ARTI5hjsXQXFxJFx0awiASq1250609.shtml)
+
