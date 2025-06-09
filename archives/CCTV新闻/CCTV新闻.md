@@ -177,3 +177,11 @@
 
 + [“解放洛杉矶” 特朗普令三部长联手“结束移民暴乱”](https://news.cctv.com/2025/06/09/ARTI33mHHNk4aE0PjFrtUfSg250609.shtml)
 
++ [仅剩5辆！俄称已摧毁乌军26辆美制“艾布拉姆斯”主战坦克](https://military.cctv.com/2025/06/09/ARTIKdyxyIQgjMbU73Qv7fEd250609.shtml)
+
++ [500名美海军陆战队员待命 准备部署至洛杉矶](https://news.cctv.com/2025/06/09/ARTICkxUwPwToKf1L8rGMdQP250609.shtml)
+
++ [我驻洛杉矶总领馆提醒洛杉矶地区中国公民切实加强安全防范](https://news.cctv.com/2025/06/09/ARTI1xKWYD43K55VQF5T8h2u250609.shtml)
+
++ [西印度洋发生5.9级地震 震源深度10千米](https://news.cctv.com/2025/06/09/ARTId93BjAtvJJJwZZBtReyP250609.shtml)
+

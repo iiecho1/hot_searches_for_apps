@@ -163,3 +163,17 @@
 
 + [从零开始的开发学习日志（二）](https://blog.csdn.net/weixin_46024746/article/details/148503059)
 
++ [多模态目标检测综述：为什么你现在应该开始关注这个方向](https://blog.csdn.net/weixin_43694096/article/details/147771809)
+
++ [【Arduino 动手做】开源 3D 打印、Arduino 驱动的快乐机器人](https://blog.csdn.net/weixin_41659040/article/details/148515813)
+
++ [市面上哪款AI开源软件做ppt最好？](https://blog.csdn.net/skywalk8163/article/details/148470524)
+
++ [异步跟栈 webpack](https://blog.csdn.net/yunAike/article/details/148519911)
+
++ [关于脏读，幻读，可重复读的学习](https://blog.csdn.net/u012196940/article/details/148501594)
+
++ [2025年06月07日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/148497187)
+
++ [界面开发框架DevExpress XAF实践：集成.NET Aspire后如何实现数据库依赖？](https://blog.csdn.net/AABBbaby/article/details/148471342)
+
