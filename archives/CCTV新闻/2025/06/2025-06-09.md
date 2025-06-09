@@ -217,3 +217,7 @@
 
 + [专访丨美单边关税不停止 难有真正的贸易公平——访波黑经济学家伊戈尔](https://news.cctv.com/2025/06/09/ARTI0In5CMGMivDIUssMZXT3250609.shtml)
 
++ [菲律宾参议院正式启动对副总统莎拉·杜特尔特的弹劾程序](https://news.cctv.com/2025/06/09/ARTIhpAqvYb09vxMrmM9SW6P250609.shtml)
+
++ [美国拉斯维加斯发生枪击事件 致2人死亡](https://news.cctv.com/2025/06/09/ARTIWM8xk7dPArXXeyMcNhUx250609.shtml)
+
