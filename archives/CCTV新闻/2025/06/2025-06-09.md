@@ -209,3 +209,7 @@
 
 + [日本首相：将彻查米价突然高涨原因](https://news.cctv.com/2025/06/09/ARTIF4RhN4mr4E5mojcc94BD250609.shtml)
 
++ [“中国的发展成就鼓舞广大发展中国家”——访伊朗研究阿拉伯中心主任、伊朗政治分析家穆罕默德·萨利赫·塞德吉安](https://news.cctv.com/2025/06/09/ARTIRYRWoQ1g7uDGZUTkgXCJ250609.shtml)
+
++ [俄罗斯喀山一油漆厂发生火灾 现场浓烟滚滚](https://news.cctv.com/2025/06/09/ARTITW63dwSbbcgwo60bv9g5250609.shtml)
+
