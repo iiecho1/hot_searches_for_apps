@@ -197,3 +197,9 @@
 
 + [冲绳驻日美军基地内发生爆炸 4人被紧急送医](https://military.cctv.com/2025/06/09/ARTI5hjsXQXFxJFx0awiASq1250609.shtml)
 
++ [保加利亚：欢庆玫瑰节](https://photo.cctv.com/2025/06/09/PHOAVXzsyIANJVcJBwrF5SyJ250609.shtml)
+
++ [巴西新增一处高致病性禽流感疫点](https://news.cctv.com/2025/06/09/ARTItSPp9Nv0esZsIqajKgJO250609.shtml)
+
++ [500名士兵待命 特朗普：将向任何地方派遣军队](https://news.cctv.com/2025/06/09/ARTI4Xlb6CRELO5wBoXm1GKD250609.shtml)
+

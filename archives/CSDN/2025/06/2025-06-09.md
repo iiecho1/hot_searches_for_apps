@@ -191,3 +191,9 @@
 
 + [Fetch与Axios：区别、联系、优缺点及使用差异](https://blog.csdn.net/m0_47311097/article/details/148499886)
 
++ [驭码CodeRider 2.0 产品体验：开启智能研发协作新纪元](https://blog.csdn.net/lwcwam/article/details/148521093)
+
++ [嵌入式学习之系统编程（十一）网络编程之协议头，测试命令及工具与MQTT协议](https://blog.csdn.net/weixin_63557265/article/details/148468338)
+
++ [【评测】Qwen3-Embedding模型初体验](https://blog.csdn.net/u010593516/article/details/148519273)
+
