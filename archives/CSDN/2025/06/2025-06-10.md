@@ -135,3 +135,9 @@
 
 + [【工作记录】接口功能测试总结](https://blog.csdn.net/m0_46582389/article/details/148494390)
 
++ [（六）卷积神经网络：深度学习在计算机视觉中的应用](https://blog.csdn.net/hanyuge/article/details/148519961)
+
++ [基于SpringBoot利用死信队列解决RabbitMQ业务队列故障重试无效场景问题](https://blog.csdn.net/jike11231/article/details/148515969)
+
++ [【Redis】持久化](https://blog.csdn.net/Sakura_ding/article/details/148516111)
+

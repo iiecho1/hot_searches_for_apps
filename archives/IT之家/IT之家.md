@@ -51,3 +51,7 @@
 
 + [任天堂 Switch 2 在日本引发二手转卖潮，价格跳水却仍高于官方定价](https://m.ithome.com/html/859376.htm)
 
++ [未上市即遭山寨，老头乐版“小米 YU7”车型已上路](https://m.ithome.com/html/859534.htm)
+
++ [小米汽车公布 YU7 设计手稿，继承家族设计](https://m.ithome.com/html/859484.htm)
+
