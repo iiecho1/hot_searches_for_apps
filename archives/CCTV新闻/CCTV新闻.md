@@ -197,3 +197,9 @@
 
 + [北约秘书长警告成员国：不加军费就准备学俄语吧](https://news.cctv.com/2025/06/10/ARTIyi5WtEo5Rri0jyirq35X250610.shtml)
 
++ [英国拟投资10亿英镑推动人工智能发展](https://news.cctv.com/2025/06/10/ARTIZZCooTIGmo4lY4KxS7qL250610.shtml)
+
++ [朝中社刊文：“入境美国问题并非我们的关心事项”](https://news.cctv.com/2025/06/10/ARTI3ZjdgQy8thCeJ1tx2Tgl250610.shtml)
+
++ [“在职总统不受司法起诉” 韩国法院延期审理李在明涉地产开发案](https://news.cctv.com/2025/06/10/ARTIThXmwMedcSmaflnxH20I250610.shtml)
+
