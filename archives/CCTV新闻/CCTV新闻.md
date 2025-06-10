@@ -177,3 +177,7 @@
 
 + [美国驻以大使：美国不再“全力”支持巴勒斯坦建国](https://news.cctv.com/2025/06/11/ARTInx1h68TGRGdogyrl8yof250611.shtml)
 
++ [阿根廷最高法院维持对前总统克里斯蒂娜6年监禁的判决](https://news.cctv.com/2025/06/11/ARTIFvLY0DZdSlqauQjigPlT250611.shtml)
+
++ [世界银行下调全球经济增长预期](https://news.cctv.com/2025/06/11/ARTI2exFeLbKr9kugrTFjIu7250611.shtml)
+
