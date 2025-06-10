@@ -195,3 +195,5 @@
 
 + [关税问题仍无解 日美首脑欲借G7峰会寻求破局](https://news.cctv.com/2025/06/10/ARTIWQcq8l3S4LGWENje4nxF250610.shtml)
 
++ [北约秘书长警告成员国：不加军费就准备学俄语吧](https://news.cctv.com/2025/06/10/ARTIyi5WtEo5Rri0jyirq35X250610.shtml)
+

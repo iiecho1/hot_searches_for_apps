@@ -197,3 +197,11 @@
 
 + [当数学遇见代码：用Python绘制参数方程与分形艺术（附完整代码）](https://blog.csdn.net/deepever/article/details/148531055)
 
++ [【PostgreSQL系列】PostgreSQL连接参数](https://blog.csdn.net/qyj19920704/article/details/148545008)
+
++ [CVE-2023-25194源码分析与漏洞复现(Kafka JNDI注入)](https://blog.csdn.net/2303_80022567/article/details/148497800)
+
++ [Vue数据响应式原理解析](https://blog.csdn.net/teeeeeeemo/article/details/148544638)
+
++ [2025年6月最新版电脑显卡天梯图：显卡选购指南及推荐](https://blog.csdn.net/weixb886/article/details/148525805)
+
