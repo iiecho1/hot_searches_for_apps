@@ -243,3 +243,17 @@
 
 + [【大模型RAG】Docker 一键部署 Milvus 完整攻略](https://blog.csdn.net/weixin_41645791/article/details/148513749)
 
++ [Java 大视界 -- Java 大数据在智慧文旅景区游客时空行为模式挖掘与服务优化中的应用（295）](https://blog.csdn.net/atgfg/article/details/148513960)
+
++ [AI Agent与Agentic AI：原理、应用、挑战与未来展望](https://blog.csdn.net/qq_32682301/article/details/148546713)
+
++ [一篇玩转Spring-IOC](https://blog.csdn.net/2302_80639556/article/details/145952367)
+
++ [基于Flask+Bootstrap+机器学习的会计专业毕业生薪资可视化分析系统](https://blog.csdn.net/m0_64336780/article/details/142206938)
+
++ [【Linux手册】探秘系统世界：从用户交互到硬件底层的全链路工作之旅](https://blog.csdn.net/2401_87944878/article/details/148458235)
+
++ [C++ 设计模式 《爬虫围城危机：小明用代理模式自救》](https://blog.csdn.net/yiqixxb/article/details/148535567)
+
++ [Linux 关键目录解析：底层机制与技术细节](https://blog.csdn.net/2301_79518550/article/details/145994055)
+

@@ -59,3 +59,21 @@
 
 + [苹果官宣迄今规模最大设计更新：iOS 26、macOS 26 登场，全新液态玻璃语言](https://m.ithome.com/html/859570.htm)
 
++ [苹果 iPadOS 26 登场：多任务处理 / 文件 App“史诗级更新”近似 macOS](https://m.ithome.com/html/859589.htm)
+
++ [苹果 WWDC25 一文汇总：iOS 26 等六大系统登场、液态玻璃、迄今规模最大设计更新](https://m.ithome.com/html/859613.htm)
+
++ [苹果 iOS 26 上新“透明色”模式：透明美学颠覆 iPhone 体验](https://m.ithome.com/html/859600.htm)
+
++ [苹果 iOS 26 升级 iPhone 电池管理：使用数据更透明、耗电应用无处遁形](https://m.ithome.com/html/859663.htm)
+
++ [苹果 iOS 26 隐藏更新一览：卫星天气、镜头脏污检测、关闭透明效果等](https://m.ithome.com/html/859635.htm)
+
++ [苹果 iOS 26 开发者预览版 Beta 首版 Bug 汇总，更新需谨慎](https://m.ithome.com/html/859637.htm)
+
++ [任正非谈昇腾芯片被“警告”使用风险：中国做芯片的公司很多，美国是夸大了华为的成绩](https://m.ithome.com/html/859631.htm)
+
++ [苹果今秋发布 iOS 26，iPhone XS 等三款机型无缘更新](https://m.ithome.com/html/859581.htm)
+
++ [苹果 iOS 26 首个开发者测试版发布](https://m.ithome.com/html/859591.htm)
+

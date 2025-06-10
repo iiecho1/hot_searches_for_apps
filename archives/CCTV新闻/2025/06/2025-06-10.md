@@ -221,3 +221,5 @@
 
 + [奥地利校园枪击案造成至少10人死亡](https://news.cctv.com/2025/06/10/ARTIdbRxf1292jWKjpcr4LUM250610.shtml)
 
++ [联合国近东救济工程处再次谴责加沙援助物资分发变成“死亡陷阱”](https://news.cctv.com/2025/06/10/ARTIJWTFfJb9jrmMEkAnBuDO250610.shtml)
+
