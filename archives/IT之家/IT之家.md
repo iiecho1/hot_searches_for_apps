@@ -25,3 +25,25 @@
 
 + [苹果 iOS 26 首个开发者测试版发布](https://m.ithome.com/html/859591.htm)
 
++ [古尔曼：苹果 iOS 26 将引入“液态玻璃”设计，为 20 周年纪念版 iPhone 铺路](https://m.ithome.com/html/859300.htm)
+
++ [余承东晒华为 Pura 80 Pro 系列真机，展示其强大视频拍摄能力](https://m.ithome.com/html/859384.htm)
+
++ [一图看懂鸿蒙版微信开发时间线：何为“一年走完 14 年的路”](https://m.ithome.com/html/859355.htm)
+
++ [男子主动被毒蛇咬超 200 次，血液抗体助力研发通用抗蛇毒血清](https://m.ithome.com/html/859322.htm)
+
++ [华为 Pura 80 系列手机影像新预热视频发布：无惧过亮或过暗](https://m.ithome.com/html/859326.htm)
+
++ [微软 ROG Xbox Ally / X 掌机登场：Win11 优化加持、AMD Z2 系列处理器、16/24GB 内存、7 英寸 1080P 屏幕](https://m.ithome.com/html/859299.htm)
+
++ [小米汽车公布 YU7 设计手稿，继承家族设计](https://m.ithome.com/html/859484.htm)
+
++ [何小鹏：小鹏 G7 将是第一款具有 L3 级算力的 AI 汽车](https://m.ithome.com/html/859324.htm)
+
++ [比亚迪方程豹钛 7 内饰曝光，或将采用 5 座布局](https://m.ithome.com/html/859364.htm)
+
++ [古尔曼：预计苹果不会在 WWDC25 开发者大会上发布新硬件](https://m.ithome.com/html/859306.htm)
+
++ [任天堂 Switch 2 在日本引发二手转卖潮，价格跳水却仍高于官方定价](https://m.ithome.com/html/859376.htm)
+

@@ -163,3 +163,5 @@
 
 + [哥伦比亚西部发生多起针对公共机构袭击事件 造成4死多伤](https://news.cctv.com/2025/06/11/ARTIm3c0r5sv4My7K0ZXRUiL250611.shtml)
 
++ [印度海域船只爆炸 有中国船员获救另有2人失踪](https://news.cctv.com/2025/06/11/ARTIFVRij5lpLBwrs1qvSbKQ250611.shtml)
+
