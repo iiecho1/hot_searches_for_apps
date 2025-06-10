@@ -223,3 +223,5 @@
 
 + [联合国近东救济工程处再次谴责加沙援助物资分发变成“死亡陷阱”](https://news.cctv.com/2025/06/10/ARTIJWTFfJb9jrmMEkAnBuDO250610.shtml)
 
++ [世界银行大幅下调全球经济增长预期](https://news.cctv.com/2025/06/10/ARTI3BLB691fndD9GWnLOgkR250610.shtml)
+

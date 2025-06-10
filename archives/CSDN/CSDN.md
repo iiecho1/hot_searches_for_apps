@@ -257,3 +257,5 @@
 
 + [Linux 关键目录解析：底层机制与技术细节](https://blog.csdn.net/2301_79518550/article/details/145994055)
 
++ [大模型智能体核心技术：CoT与ReAct深度解析](https://blog.csdn.net/qq_30294911/article/details/148545395)
+
