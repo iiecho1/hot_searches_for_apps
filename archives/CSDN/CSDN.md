@@ -185,3 +185,15 @@
 
 + [174页PPT家居制造业集团战略规划和运营管控规划方案](https://blog.csdn.net/zuoan1993/article/details/148500750)
 
++ [Python爬虫（52）Scrapy-Redis分布式爬虫架构实战：IP代理池深度集成与跨地域数据采集](https://blog.csdn.net/Dreamy_zsy/article/details/148522669)
+
++ [LangGraph实战教程：构建会思考、能记忆、可人工干预的多智能体AI系统](https://blog.csdn.net/m0_46510245/article/details/148531571)
+
++ [DM8数据库导出工具dexpdp：PARALLEL参数详解](https://blog.csdn.net/qq_41840843/article/details/148370698)
+
++ [如何查看GPU是否可用，CPU、GPU、NPU、APU运行状态，是否可用，大小指令大全（Windows、Mac、Linux）](https://blog.csdn.net/qq_44866828/article/details/148536720)
+
++ [Vue中虚拟DOM的原理与作用](https://blog.csdn.net/qq_39126115/article/details/148512012)
+
++ [当数学遇见代码：用Python绘制参数方程与分形艺术（附完整代码）](https://blog.csdn.net/deepever/article/details/148531055)
+
