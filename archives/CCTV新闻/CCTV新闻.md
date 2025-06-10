@@ -169,3 +169,5 @@
 
 + [伊朗发表声明：若遭以色列袭击将打击以秘密核设施](https://news.cctv.com/2025/06/10/ARTIqW6kOtgzwMBJhUlrmTR6250610.shtml)
 
++ [中方敦促国际社会帮助中部非洲国家遏制安全威胁](https://news.cctv.com/2025/06/10/ARTIPoVzqxt8Nm0dfGE3FxM5250610.shtml)
+

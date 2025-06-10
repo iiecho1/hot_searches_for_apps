@@ -157,3 +157,11 @@
 
 + [基于大数据爬虫+Python的农产品销售预测系统设计与实现(精品源码+论文+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/148540431)
 
++ [Gemini 2.5 Pro (0605版本) 深度测评与体验指南](https://blog.csdn.net/2301_76341691/article/details/148533997)
+
++ [HTML5实现简洁的体育赛事网站源码](https://blog.csdn.net/weixin_43151418/article/details/148468908)
+
++ [丘成桐少年班的报名条件](https://blog.csdn.net/dllglvzhenfeng/article/details/148542167)
+
++ [Linux Docker的简介](https://blog.csdn.net/feyehong/article/details/148511338)
+
