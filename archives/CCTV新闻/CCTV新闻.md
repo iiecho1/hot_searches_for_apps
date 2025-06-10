@@ -161,3 +161,5 @@
 
 + [菲律宾总统举办庆祝菲中建交50周年灯光烟火秀](https://news.cctv.com/2025/06/08/ARTIvxRrNyhUQgeE2j69cDE6250608.shtml)
 
++ [哥伦比亚西部发生多起针对公共机构袭击事件 造成4死多伤](https://news.cctv.com/2025/06/11/ARTIm3c0r5sv4My7K0ZXRUiL250611.shtml)
+

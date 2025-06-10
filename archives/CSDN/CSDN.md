@@ -101,3 +101,15 @@
 
 + [大模型智能体核心技术：CoT与ReAct深度解析](https://blog.csdn.net/qq_30294911/article/details/148545395)
 
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(三十二) -＞ 构建系统生命周期](https://blog.csdn.net/weixin_74809706/article/details/148555053)
+
++ [【Nginx系列】Nginx 负载均衡策略之 least_conn](https://blog.csdn.net/qyj19920704/article/details/148545191)
+
++ [丘成桐少年班的报名条件](https://blog.csdn.net/dllglvzhenfeng/article/details/148542167)
+
++ [如何查看GPU是否可用，CPU、GPU、NPU、APU运行状态，是否可用，大小指令大全（Windows、Mac、Linux）](https://blog.csdn.net/qq_44866828/article/details/148536720)
+
++ [快速使用 Flutter Card 组件指南](https://blog.csdn.net/g984160547/article/details/146070387)
+
++ [搭建本地瓦片地图服务器的完整指南](https://blog.csdn.net/sixpp/article/details/148558809)
+
