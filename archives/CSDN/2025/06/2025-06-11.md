@@ -135,3 +135,9 @@
 
 + [数据网格的革命：从集中式到分布式的数据管理新范式](https://blog.csdn.net/SDFsoul/article/details/148512073)
 
++ [C++八股 —— 单例模式](https://blog.csdn.net/m0_46329175/article/details/148531901)
+
++ [从算法到系统架构：AI生成内容连贯性技术深度解析](https://blog.csdn.net/deepever/article/details/148562462)
+
++ [.Net 优秀框架 ABP全面详解](https://blog.csdn.net/sixpp/article/details/148543960)
+

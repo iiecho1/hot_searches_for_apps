@@ -47,3 +47,13 @@
 
 + [任天堂 Switch 2 在日本引发二手转卖潮，价格跳水却仍高于官方定价](https://m.ithome.com/html/859376.htm)
 
++ [3GB RAM + A12 芯片吃上“台前调度”：苹果 iPad mini 5 更新 iPadOS 26 获“曾经 M1 独占功能”](https://m.ithome.com/html/859826.htm)
+
++ [苹果车钥匙功能支持更多汽车品牌，含红旗、小鹏、奇瑞等](https://m.ithome.com/html/859617.htm)
+
++ [苹果 iOS 26 返回手势优化：可从 iPhone 屏幕中间右滑，利好小手用户](https://m.ithome.com/html/859845.htm)
+
++ [苹果 iOS 26 照片应用设计反转：底部标签栏回归](https://m.ithome.com/html/859615.htm)
+
++ [任正非：没有理论就没有突破，我们就赶不上美国](https://m.ithome.com/html/859640.htm)
+
