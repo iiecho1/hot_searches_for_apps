@@ -33,3 +33,15 @@
 
 + [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
++ [jwohlwend/boltz](https://github.com/jwohlwend/boltz)
+
++ [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+
++ [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
+
++ [YaLTeR/niri](https://github.com/YaLTeR/niri)
+
++ [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+
++ [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
+

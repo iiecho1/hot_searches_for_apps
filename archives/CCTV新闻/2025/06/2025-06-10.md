@@ -213,3 +213,7 @@
 
 + [记者手记｜从日内瓦到伦敦，朝着对话合作相向而行](https://news.cctv.com/2025/06/10/ARTI0Pu9ao9va8Ae9mboS1a6250610.shtml)
 
++ [签证政策没谱 印度学生对赴美留学“深感焦虑”](https://news.cctv.com/2025/06/10/ARTIJwKFZigNNhnqh27J6TIP250610.shtml)
+
++ [伊朗称若遭以色列袭击 将打击以秘密核设施](https://news.cctv.com/2025/06/10/ARTIICdzksKlsvJwwozaV6bu250610.shtml)
+

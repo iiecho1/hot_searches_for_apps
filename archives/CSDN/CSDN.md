@@ -223,3 +223,17 @@
 
 + [计算机网络自定向下：第二章复习](https://blog.csdn.net/2302_80981029/article/details/148545121)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融信用风险评估中的可解释性增强与应用（293）](https://blog.csdn.net/atgfg/article/details/148496253)
+
++ [【OpenCV】相机标定之利用棋盘格信息标定](https://blog.csdn.net/qq_40526309/article/details/147266668)
+
++ [初探用uniapp写微信小程序遇到的问题及解决(vue3+ts)](https://blog.csdn.net/m0_58355897/article/details/148468836)
+
++ [如何手撸一个最小化操作系统：从 0 到 1 掌握汇编-文件管理-内存页表-文件系统-上下文切换算法 MIT 经典教程 结合豆包ai](https://blog.csdn.net/c5dnuser/article/details/148537977)
+
++ [【完整源码+数据集+部署教程】棉签检测系统源码和数据集：改进yolo11-EfficientFormerV2](https://blog.csdn.net/weixin_43860634/article/details/148539966)
+
++ [Django、Flask、FastAPI与Jupyter对比](https://blog.csdn.net/weixin_45668002/article/details/148538251)
+
++ [基于鸿蒙(HarmonyOS5)的打车小程序](https://blog.csdn.net/weixin_63947094/article/details/148542925)
+
