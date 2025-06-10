@@ -203,3 +203,13 @@
 
 + [“在职总统不受司法起诉” 韩国法院延期审理李在明涉地产开发案](https://news.cctv.com/2025/06/10/ARTIThXmwMedcSmaflnxH20I250610.shtml)
 
++ [为平抑大米价格 日本拟再投放20万吨储备米](https://news.cctv.com/2025/06/10/ARTIRaC3ahXyjTBaqbt89zhP250610.shtml)
+
++ [美国夏威夷：清理前年野火垃圾需50辆卡车运5个月](https://news.cctv.com/2025/06/10/ARTIjjsAzkNCz3ZkAbhZv8oK250610.shtml)
+
++ [美媒：美国儿童玩具涨价缺货 业者质问“为何对孩子的快乐征税？”](https://news.cctv.com/2025/06/10/ARTIiZQXMz81LmhfQNwjpSME250610.shtml)
+
++ [泽连斯基：基辅遭遇冲突爆发以来最猛烈空袭](https://news.cctv.com/2025/06/10/ARTIRT9eY0UoB8QXY9ykBNaV250610.shtml)
+
++ [记者手记｜从日内瓦到伦敦，朝着对话合作相向而行](https://news.cctv.com/2025/06/10/ARTI0Pu9ao9va8Ae9mboS1a6250610.shtml)
+
