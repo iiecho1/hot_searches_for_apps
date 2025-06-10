@@ -237,3 +237,9 @@
 
 + [基于鸿蒙(HarmonyOS5)的打车小程序](https://blog.csdn.net/weixin_63947094/article/details/148542925)
 
++ [TensorFlow深度学习实战（21）——Transformer架构详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/148547687)
+
++ [总结前端三年 理想滚烫与现实的冰冷碰撞](https://blog.csdn.net/m0_57874805/article/details/148560019)
+
++ [【大模型RAG】Docker 一键部署 Milvus 完整攻略](https://blog.csdn.net/weixin_41645791/article/details/148513749)
+

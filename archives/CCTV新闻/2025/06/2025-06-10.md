@@ -217,3 +217,7 @@
 
 + [伊朗称若遭以色列袭击 将打击以秘密核设施](https://news.cctv.com/2025/06/10/ARTIICdzksKlsvJwwozaV6bu250610.shtml)
 
++ [伊朗宣布15日与美国举行下一轮会谈](https://news.cctv.com/2025/06/10/ARTIX07TQNV3tuGSbnSov3zS250610.shtml)
+
++ [奥地利校园枪击案造成至少10人死亡](https://news.cctv.com/2025/06/10/ARTIdbRxf1292jWKjpcr4LUM250610.shtml)
+
