@@ -165,3 +165,15 @@
 
 + [印度海域船只爆炸 有中国船员获救另有2人失踪](https://news.cctv.com/2025/06/11/ARTIFVRij5lpLBwrs1qvSbKQ250611.shtml)
 
++ [世界粮食计划署：苏丹首都面临严重饥荒风险](https://news.cctv.com/2025/06/11/ARTI3tzGmlKI6VcmdxpZwnj7250611.shtml)
+
++ [以军向领取面粉的巴勒斯坦人开火 已致数十人受伤](https://news.cctv.com/2025/06/11/ARTI4O1TvRbJfHJAn5QawUjT250611.shtml)
+
++ [加沙地带超2700名五岁以下儿童严重营养不良](https://news.cctv.com/2025/06/11/ARTICkRoOG3mnj8JjxRAwXqJ250611.shtml)
+
++ [美国能源信息署预测美2026年石油产量将低于2025年](https://news.cctv.com/2025/06/11/ARTIcBKlZJ3JY0y0jF4RfgjU250611.shtml)
+
++ [南非东开普省遭遇洪灾与暴雪 致7人死亡](https://news.cctv.com/2025/06/11/ARTI6yDvqUj8vIHhXOvGcj67250611.shtml)
+
++ [美国驻以大使：美国不再“全力”支持巴勒斯坦建国](https://news.cctv.com/2025/06/11/ARTInx1h68TGRGdogyrl8yof250611.shtml)
+

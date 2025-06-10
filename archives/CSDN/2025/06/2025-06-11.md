@@ -131,3 +131,7 @@
 
 + [Springboot项目集成Ai模型（阿里云百炼-DeepSeek）](https://blog.csdn.net/weixin_38423249/article/details/148541694)
 
++ [C++ 设计模式 《爬虫围城危机：小明用代理模式自救》](https://blog.csdn.net/yiqixxb/article/details/148535567)
+
++ [数据网格的革命：从集中式到分布式的数据管理新范式](https://blog.csdn.net/SDFsoul/article/details/148512073)
+
