@@ -55,3 +55,7 @@
 
 + [小米汽车公布 YU7 设计手稿，继承家族设计](https://m.ithome.com/html/859484.htm)
 
++ [苹果 iOS 26 系统更新正式发布：全新液态玻璃设计、AI 功能改进，最低支持 iPhone 11](https://m.ithome.com/html/859586.htm)
+
++ [苹果官宣迄今规模最大设计更新：iOS 26、macOS 26 登场，全新液态玻璃语言](https://m.ithome.com/html/859570.htm)
+

@@ -171,3 +171,21 @@
 
 + [中方敦促国际社会帮助中部非洲国家遏制安全威胁](https://news.cctv.com/2025/06/10/ARTIPoVzqxt8Nm0dfGE3FxM5250610.shtml)
 
++ [中美经贸关系优势互补、共生共赢](https://news.cctv.com/2025/06/10/ARTINF7lT6D1cYcpQowwL6A6250610.shtml)
+
++ [韩总统李在明主持会议 审议通过两项特检法调查尹锡悦夫妇](https://news.cctv.com/2025/06/10/ARTIwN6LMM0jr7sqvCSlIjnG250610.shtml)
+
++ [美国和伊朗第六轮会谈将于13日或15日举行](https://news.cctv.com/2025/06/10/ARTI9aAafIbnvGwFNpZh9K8s250610.shtml)
+
++ [洛杉矶惊现新兵种 两大因素引爆加州“内战”升级](https://news.cctv.com/2025/06/10/ARTIyWH48x6foqusivl4BJJ6250610.shtml)
+
++ [聊天机器人当HR？美国国务院用人工智能协助选拔人员](https://news.cctv.com/2025/06/10/ARTIFTLBRBMvvNEWAhFlk4rU250610.shtml)
+
++ [洛杉矶警察局称已逮捕至少50人 使用600多发非致命弹药](https://news.cctv.com/2025/06/10/ARTIks96olqCxaxKUjOX6sCU250610.shtml)
+
++ [美国加州州长称特朗普威胁逮捕他](https://news.cctv.com/2025/06/10/ARTIOY9kUZe4jUnir6ji5ik0250610.shtml)
+
++ [美加州州长：特朗普将向洛杉矶增派2000名国民警卫队士兵](https://news.cctv.com/2025/06/10/ARTIUS4KdppRADiopwMU6zhb250610.shtml)
+
++ [约700名美国海军陆战队士兵将部署至洛杉矶地区](https://news.cctv.com/2025/06/10/ARTIXCn9HKY6nvCzXzbnSFCa250610.shtml)
+

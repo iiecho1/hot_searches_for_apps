@@ -165,3 +165,9 @@
 
 + [Linux Docker的简介](https://blog.csdn.net/feyehong/article/details/148511338)
 
++ [Spring AI中使用ChatMemory实现会话记忆功能](https://blog.csdn.net/fu_huo_1993/article/details/148511211)
+
++ [Maven 多仓库治理与发布策略深度实践](https://blog.csdn.net/lilinhai548/article/details/148528262)
+
++ [[免费]微信小程序问卷调查系统(SpringBoot后端+Vue管理端)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/148533111)
+
