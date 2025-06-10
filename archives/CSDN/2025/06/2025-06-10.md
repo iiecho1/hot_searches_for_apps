@@ -171,3 +171,17 @@
 
 + [[免费]微信小程序问卷调查系统(SpringBoot后端+Vue管理端)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/148533111)
 
++ [基于Python的气象数据分析及可视化研究](https://blog.csdn.net/m0_58847451/article/details/148522621)
+
++ [Spring 框架（1）](https://blog.csdn.net/Excuse_lighttime/article/details/148473057)
+
++ [Web 架构之 API 安全防护：防刷、防爬、防泄漏](https://blog.csdn.net/XiaoRungen/article/details/148535542)
+
++ [openGauss 用户权限统计及权限回收](https://blog.csdn.net/GaussDB/article/details/148525152)
+
++ [计算机技术、互联网与 IT 前沿：量子计算、Web3.0 等趋势洞察及行业应用](https://blog.csdn.net/qq_53139964/article/details/148543730)
+
++ [Linux系统：进程间通信-匿名与命名管道](https://blog.csdn.net/yue_2899799318/article/details/148433560)
+
++ [174页PPT家居制造业集团战略规划和运营管控规划方案](https://blog.csdn.net/zuoan1993/article/details/148500750)
+

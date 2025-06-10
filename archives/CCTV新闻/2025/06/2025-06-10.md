@@ -189,3 +189,5 @@
 
 + [约700名美国海军陆战队士兵将部署至洛杉矶地区](https://news.cctv.com/2025/06/10/ARTIXCn9HKY6nvCzXzbnSFCa250610.shtml)
 
++ [共同维护国际经贸秩序和国际和平与安全](https://news.cctv.com/2025/06/10/ARTI7oLQoAEW8hBLX0VGmWMq250610.shtml)
+
