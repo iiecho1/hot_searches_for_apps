@@ -201,3 +201,5 @@
 
 + [洛杉矶市长宣布市中心部分地区宵禁](https://news.cctv.com/2025/06/11/ARTItUXZMSVkXVN9uSe6AVUZ250611.shtml)
 
++ [日本富士山发生车祸 6名外国游客受伤](https://news.cctv.com/2025/06/11/ARTIzHZhYAseoZZVfnaurUMZ250611.shtml)
+
