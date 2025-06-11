@@ -51,3 +51,11 @@
 
 + [Alist 疑似被卖，谨慎更新](https://www.v2ex.com/t/1137812)
 
++ [全世界都在搞 AI，唯有苹果在搞 UI。](https://www.v2ex.com/t/1137837)
+
++ [求推荐“神书”](https://www.v2ex.com/t/1137663)
+
++ [Alist 似乎被卖了](https://www.v2ex.com/t/1137764)
+
++ [给对象开发了个生物信息导航站，对象嫌弃说我不够专业](https://www.v2ex.com/t/1137784)
+

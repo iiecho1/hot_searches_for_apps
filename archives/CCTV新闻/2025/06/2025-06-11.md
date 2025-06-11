@@ -203,3 +203,15 @@
 
 + [日本富士山发生车祸 6名外国游客受伤](https://news.cctv.com/2025/06/11/ARTIzHZhYAseoZZVfnaurUMZ250611.shtml)
 
++ [马斯克深夜反悔：不该对特朗普说那么过分的话](https://news.cctv.com/2025/06/11/ARTIvs8mTo58fNud0FpapAqB250611.shtml)
+
++ [奥地利罕见发生校园枪击案已致11死 全国将哀悼3天](https://news.cctv.com/2025/06/11/ARTITNlr5iya8uTwhGaggtbE250611.shtml)
+
++ [韩国军方停止对朝扩音广播](https://news.cctv.com/2025/06/11/ARTI8AFDG7K2vDGOjaBFSUpq250611.shtml)
+
++ [北约秘书长警告不涨军费就去学俄语 英国国防参谋长用俄语回应](https://news.cctv.com/2025/06/11/ARTICheyFcGRmYrUAJOGZlfn250611.shtml)
+
++ [墨西哥总统反驳美官员指责其“煽动”抗议](https://news.cctv.com/2025/06/11/ARTIfJZDhRwx86cAOKWWM4FB250611.shtml)
+
++ [有望接替鲍威尔任职美联储主席？美财长贝森特回应](https://news.cctv.com/2025/06/11/ARTIj7xIyGab6KcVkAdOkqkE250611.shtml)
+

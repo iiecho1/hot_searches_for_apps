@@ -157,3 +157,15 @@
 
 + [计算机网络(7)——物理层](https://blog.csdn.net/2401_89167985/article/details/148158942)
 
++ [SnapViewer：解决PyTorch官方内存工具卡死问题，实现高效可视化](https://blog.csdn.net/m0_46510245/article/details/148580248)
+
++ [DM8数据库导出工具dexpdp：INCLUDE参数详解](https://blog.csdn.net/qq_41840843/article/details/148371425)
+
++ [深度强化学习 | 详细推导随机/确定性策略梯度定理](https://blog.csdn.net/FRIGIDWINTER/article/details/148580036)
+
++ [千人中小型校园网络的网络规划](https://blog.csdn.net/m0_73990724/article/details/148537989)
+
++ [智慧医疗能源事业线深度画像分析（下）](https://blog.csdn.net/kkiron/article/details/148573781)
+
++ [蓝桥杯 冶炼金属](https://blog.csdn.net/wuqingshun314159/article/details/148539687)
+
