@@ -121,3 +121,11 @@
 
 + [最新SpringBoot+SpringCloud+Nacos微服务框架分享](https://blog.csdn.net/zwrlj527/article/details/148569292)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在工业设备预测性维护中的异常检测与剩余寿命预测（297）](https://blog.csdn.net/atgfg/article/details/148536181)
+
++ [2025年6月最新可用国内Docker镜像源网站（最全网址）](https://blog.csdn.net/qq_44866828/article/details/148569247)
+
++ [Gemini 2.5 Pro (0605版本) 深度测评与体验指南](https://blog.csdn.net/2301_76341691/article/details/148533997)
+
++ [第十四届蓝桥杯_省赛B组(C).冶炼金属](https://blog.csdn.net/2301_82086893/article/details/148564170)
+

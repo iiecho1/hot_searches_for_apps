@@ -177,3 +177,5 @@
 
 + [国际观察｜海上争锋 北约与俄罗斯互“秀肌肉”](https://news.cctv.com/2025/06/12/ARTIuJfTcEJ352Aeyn5EdBgN250612.shtml)
 
++ [苏丹武装部队撤离与利比亚和埃及交界地带](https://news.cctv.com/2025/06/12/ARTIxBUzQhte3IsITOgZ6Kpd250612.shtml)
+

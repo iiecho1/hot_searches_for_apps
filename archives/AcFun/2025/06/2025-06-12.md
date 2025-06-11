@@ -67,3 +67,5 @@
 
 + [【AC娘周边】站龄四年网龄至少十年的Acer的周边展示回——还有Coming Soon？](https://m.acfun.cn/v/?ac=47386072)
 
++ [2019 KOBA Korean Model [Min Hanna]](https://m.acfun.cn/v/?ac=47386417)
+
