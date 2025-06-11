@@ -219,3 +219,7 @@
 
 + [一中国公民在新西兰不幸意外身亡，中领馆：第一时间启动应急机制](https://news.cctv.com/2025/06/11/ARTIEjkdPdf9x3Hn4fBbxotH250611.shtml)
 
++ [土耳其抓捕近1300名偷渡组织者和非法移民](https://news.cctv.com/2025/06/11/ARTI6KNRW6WLYnHYqKvRLoZV250611.shtml)
+
++ [俄总统新闻秘书：俄美关系面临诸多障碍但对话仍在继续](https://news.cctv.com/2025/06/11/ARTI23GZ4QBxqbo6YeE2yUuk250611.shtml)
+
