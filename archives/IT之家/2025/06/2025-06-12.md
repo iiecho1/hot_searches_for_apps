@@ -59,3 +59,5 @@
 
 + [小米辟谣高阶驾驶培训出现致命车祸，称已启动法律程序追究造谣者责任](https://m.ithome.com/html/859630.htm)
 
++ [华为 Pura 80 系列手机搭载第八代 ISP，实时数据处理提升 200%](https://m.ithome.com/html/860008.htm)
+

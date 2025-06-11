@@ -179,3 +179,7 @@
 
 + [苏丹武装部队撤离与利比亚和埃及交界地带](https://news.cctv.com/2025/06/12/ARTIxBUzQhte3IsITOgZ6Kpd250612.shtml)
 
++ [美国俄亥俄州发生化学品泄漏事件 数百名居民被疏散](https://news.cctv.com/2025/06/12/ARTIZ6D08KfRICaLfVHqg41Y250612.shtml)
+
++ [南非东开普省洪灾和山体滑坡已造成49人死亡](https://news.cctv.com/2025/06/12/ARTICKWGEalSE3V9ljPYlIiF250612.shtml)
+
