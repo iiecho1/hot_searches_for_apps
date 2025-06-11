@@ -25,3 +25,7 @@
 
 + [华为 Pura 80 系列手机首次搭载鸿蒙操作系统 5.1，号称“体验大有不同”](https://m.ithome.com/html/860022.htm)
 
++ [苹果 iOS 26 返回手势优化：可从 iPhone 屏幕中间右滑，利好小手用户](https://m.ithome.com/html/859845.htm)
+
++ [华为手机外观专利维权胜诉，一审获赔 29.9 万元](https://m.ithome.com/html/859848.htm)
+

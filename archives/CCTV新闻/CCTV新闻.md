@@ -161,3 +161,13 @@
 
 + [中巴合作的大型射电望远镜启运巴西](https://news.cctv.com/2025/06/09/ARTIBtaDS8RmN1NWQj9oi1pV250609.shtml)
 
++ [海上争锋 北约与俄罗斯互“秀肌肉”](https://news.cctv.com/2025/06/12/ARTI5DTMEdqHPwY5bpIGRRKM250612.shtml)
+
++ [乌克兰陆军司令宣布辞去职务](https://news.cctv.com/2025/06/12/ARTIDnFXewXZ9DKGcWKRl1gK250612.shtml)
+
++ [伊朗伊斯兰革命卫队总司令：已为任何战斗准备好升级版导弹](https://news.cctv.com/2025/06/12/ARTIZIGcUDUVxzDqyml2JsHd250612.shtml)
+
++ [以军宣布军事改革计划 将扩编部队](https://news.cctv.com/2025/06/12/ARTIw3Rj0OkkMYHcsWuOn4bA250612.shtml)
+
++ [欧盟与英国就直布罗陀未来关系达成政治协议](https://news.cctv.com/2025/06/12/ARTITCAU02Jf7doKnviyMBdG250612.shtml)
+
