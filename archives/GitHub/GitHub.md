@@ -29,3 +29,13 @@
 
 + [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
 
++ [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
+
++ [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+

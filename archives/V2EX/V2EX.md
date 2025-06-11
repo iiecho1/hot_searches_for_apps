@@ -65,3 +65,5 @@
 
 + [meta 对中国市场到底有什么执念 恶心](https://www.v2ex.com/t/1137777)
 
++ [前端能不能少用 js 跳转路由](https://www.v2ex.com/t/1137829)
+
