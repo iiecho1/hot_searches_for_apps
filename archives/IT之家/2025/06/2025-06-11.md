@@ -57,3 +57,11 @@
 
 + [任正非：没有理论就没有突破，我们就赶不上美国](https://m.ithome.com/html/859640.htm)
 
++ [华为任正非：人工智能也许是人类社会最后一次技术革命，中国也有很多优势](https://m.ithome.com/html/859657.htm)
+
++ [领克 01 焕新版上市：换装悬浮式中控屏，上市专享价 11.88 万元起](https://m.ithome.com/html/859685.htm)
+
++ [华为 Pura 80 系列手机支持个性风格拍摄，相机提供调色功能](https://m.ithome.com/html/859665.htm)
+
++ [小米辟谣高阶驾驶培训出现致命车祸，称已启动法律程序追究造谣者责任](https://m.ithome.com/html/859630.htm)
+

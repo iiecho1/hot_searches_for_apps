@@ -183,3 +183,21 @@
 
 + [驻哥伦比亚使馆再次提醒在哥中国公民务必加强安全防范](https://news.cctv.com/2025/06/11/ARTItmsYv78Dy8rm2O0FpYix250611.shtml)
 
++ [俄乌近日持续大规模无人机攻防战如何影响战局？](https://news.cctv.com/2025/06/11/ARTIxvrt10GEdQhPOUc0z27B250611.shtml)
+
++ [墨西哥总统呼吁美国进行全面移民政策改革并承认移民作用](https://news.cctv.com/2025/06/11/ARTIBPJXUmyRqpTEbDZDpUfH250611.shtml)
+
++ [向加州派兵要花1.34亿美元？花哪了？美防长拒答](https://news.cctv.com/2025/06/11/ARTIacky75DzJaDfCJc2MF00250611.shtml)
+
++ [巴西前总统博索纳罗出庭受审 否认政变企图](https://news.cctv.com/2025/06/11/ARTIRhqurUmI8ZS5pKI9awfM250611.shtml)
+
++ [美法官驳回加州有关立即阻止特朗普政府向该州派兵的请求](https://news.cctv.com/2025/06/11/ARTIbMV4G3H38N50X2B2JX1y250611.shtml)
+
++ [美总统特朗普：洛杉矶骚乱事件是“外国入侵”](https://news.cctv.com/2025/06/11/ARTII3guQ9JIW3QcHAmD4BT4250611.shtml)
+
++ [局势不断升级 洛杉矶抗议活动4天378人被捕](https://news.cctv.com/2025/06/11/ARTITpzlxkLQ3smENHadjumi250611.shtml)
+
++ [哥伦比亚多起袭击致数十人死伤 哥政府将召开最高级别安全会议](https://news.cctv.com/2025/06/11/ARTIJL6eeXIeH4VV7F54OHS6250611.shtml)
+
++ [洛杉矶市长宣布市中心部分地区宵禁](https://news.cctv.com/2025/06/11/ARTItUXZMSVkXVN9uSe6AVUZ250611.shtml)
+

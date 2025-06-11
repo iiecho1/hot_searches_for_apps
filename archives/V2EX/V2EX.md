@@ -23,3 +23,17 @@
 
 + [芜湖， iPad Air 更新了 iOS 26，有什么想问的来](https://www.v2ex.com/t/1137557)
 
++ [Liquid Glass：时代的列车不可阻挡](https://www.v2ex.com/t/1137650)
+
++ [高考完被送去小工厂干两个月，是我这辈子做过最无意义的事](https://www.v2ex.com/t/1137675)
+
++ [老父亲有高血压，爱喝酒，死活不愿意吃降压药，怎么破？](https://www.v2ex.com/t/1137636)
+
++ [关于 AI 编程对于前后端的讨论](https://www.v2ex.com/t/1137574)
+
++ [iPhone 恶心的液态玻璃 ui 会不会被国内安卓跟风？毕竟刘海屏这种恶心的东西都被抄过了。🤢](https://www.v2ex.com/t/1137624)
+
++ [macOS 26 也太丑了吧，完全无法接受。](https://www.v2ex.com/t/1137583)
+
++ [让 AI 根据浏览器请求的路径，现场制作 HTML](https://www.v2ex.com/t/1137586)
+
