@@ -181,3 +181,5 @@
 
 + [世界银行下调全球经济增长预期](https://news.cctv.com/2025/06/11/ARTI2exFeLbKr9kugrTFjIu7250611.shtml)
 
++ [驻哥伦比亚使馆再次提醒在哥中国公民务必加强安全防范](https://news.cctv.com/2025/06/11/ARTItmsYv78Dy8rm2O0FpYix250611.shtml)
+
