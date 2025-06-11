@@ -107,3 +107,17 @@
 
 + [【HarmonyOS Next之旅】DevEco Studio使用指南(三十二) -＞ 构建系统生命周期](https://blog.csdn.net/weixin_74809706/article/details/148555053)
 
++ [QT 仿网易云项目](https://blog.csdn.net/m0_65143871/article/details/142909285)
+
++ [自然语言处理——Transformer](https://blog.csdn.net/m0_74259787/article/details/148535462)
+
++ [今日学习：Spring线程池|并发修改异常|链路丢失|登录续期|VIP过期策略|数值类缓存](https://blog.csdn.net/m0_63497607/article/details/148523536)
+
++ [CentOS下的分布式内存计算Spark环境部署](https://blog.csdn.net/2401_83224865/article/details/148562933)
+
++ [【华为Pura80系列】鸿蒙生态再升级：Pura 80 系列影像突破，WATCH 5 开启智能手表新纪元](https://blog.csdn.net/Morse_Chen/article/details/148590463)
+
++ [架构视角下MySql中Sql执行原理及过程](https://blog.csdn.net/qq_26664043/article/details/148516128)
+
++ [最新SpringBoot+SpringCloud+Nacos微服务框架分享](https://blog.csdn.net/zwrlj527/article/details/148569292)
+

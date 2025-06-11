@@ -171,3 +171,9 @@
 
 + [欧盟与英国就直布罗陀未来关系达成政治协议](https://news.cctv.com/2025/06/12/ARTITCAU02Jf7doKnviyMBdG250612.shtml)
 
++ [友谊、繁荣、生态之路——肯尼亚蒙内铁路的八年共赢答卷](https://news.cctv.com/2025/06/12/ARTIVCKTXhGABEgY60Sk76u4250612.shtml)
+
++ [莫桑比克总统：愿进一步加强莫中关系](https://news.cctv.com/2025/06/12/ARTIdFoqwQL0m7ibM27sQoOh250612.shtml)
+
++ [国际观察｜海上争锋 北约与俄罗斯互“秀肌肉”](https://news.cctv.com/2025/06/12/ARTIuJfTcEJ352Aeyn5EdBgN250612.shtml)
+
