@@ -215,3 +215,7 @@
 
 + [有望接替鲍威尔任职美联储主席？美财长贝森特回应](https://news.cctv.com/2025/06/11/ARTIj7xIyGab6KcVkAdOkqkE250611.shtml)
 
++ [俄体操联合会宣布俄运动员重返国际赛场](https://news.cctv.com/2025/06/11/ARTIbrghSeDPxMsYhoA1uWww250611.shtml)
+
++ [一中国公民在新西兰不幸意外身亡，中领馆：第一时间启动应急机制](https://news.cctv.com/2025/06/11/ARTIEjkdPdf9x3Hn4fBbxotH250611.shtml)
+

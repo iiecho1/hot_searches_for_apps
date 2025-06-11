@@ -169,3 +169,13 @@
 
 + [蓝桥杯 冶炼金属](https://blog.csdn.net/wuqingshun314159/article/details/148539687)
 
++ [【Rust UDP编程】rust udp编程方法解析与应用实战](https://blog.csdn.net/littlefun591/article/details/148581472)
+
++ [C++显性契约与隐性规则：类型转换](https://blog.csdn.net/Zero_VPN/article/details/148351371)
+
++ [自然语言处理——循环神经网络](https://blog.csdn.net/m0_74259787/article/details/148528915)
+
++ [Flutter鸿蒙化环境配置（windows）](https://blog.csdn.net/weixin_44129599/article/details/148480267)
+
++ [HTML5 和 CSS3 简介及核心特性（附电子书资料）](https://blog.csdn.net/vbhfdghff/article/details/148554719)
+
