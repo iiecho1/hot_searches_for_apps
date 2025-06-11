@@ -89,3 +89,5 @@
 
 + [华为 Pura 80 系列手机首次搭载鸿蒙操作系统 5.1，号称“体验大有不同”](https://m.ithome.com/html/860022.htm)
 
++ [华为手机外观专利维权胜诉，一审获赔 29.9 万元](https://m.ithome.com/html/859848.htm)
+

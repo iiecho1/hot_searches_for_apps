@@ -223,3 +223,5 @@
 
 + [俄总统新闻秘书：俄美关系面临诸多障碍但对话仍在继续](https://news.cctv.com/2025/06/11/ARTI23GZ4QBxqbo6YeE2yUuk250611.shtml)
 
++ [一艘移民船在吉布提沿海遭拦截 至少8人死亡](https://news.cctv.com/2025/06/11/ARTIJB9vkBp2V2BtgTRvMUgC250611.shtml)
+
