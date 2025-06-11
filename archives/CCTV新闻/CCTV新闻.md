@@ -183,3 +183,5 @@
 
 + [南非东开普省洪灾和山体滑坡已造成49人死亡](https://news.cctv.com/2025/06/12/ARTICKWGEalSE3V9ljPYlIiF250612.shtml)
 
++ [比利时拒绝扣押俄冻结资产的提议](https://news.cctv.com/2025/06/12/ARTIK6a0Ythqk7XOImlhxFqr250612.shtml)
+
