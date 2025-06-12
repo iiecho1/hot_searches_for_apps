@@ -249,3 +249,5 @@
 
 + [印度坠机事件已致170人遇难](https://news.cctv.com/2025/06/12/ARTIB29j7GNG72F7jGVmwiu1250612.shtml)
 
++ [印度警方称坠机事故中发现一名幸存者](https://news.cctv.com/2025/06/12/ARTIf70zmkbDJ7I9AIcXvg4Z250612.shtml)
+
