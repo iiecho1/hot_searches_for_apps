@@ -25,3 +25,27 @@
 
 + [不只有鸿蒙座舱，广汽丰田 D 级轿车铂智 7 还将搭载华为 DriveONE 电机](https://m.ithome.com/html/860265.htm)
 
++ [华为 Pura80 / Pro / Pro+/Ultra 手机发布：影像再突破，Pro 系列 6499 元起](https://m.ithome.com/html/860029.htm)
+
++ [华为 Pura 80 系列手机外观公布：眼前一亮“釉”一亮](https://m.ithome.com/html/860006.htm)
+
++ [小米汽车：将供应商支付账期统一至 60 天内](https://m.ithome.com/html/859937.htm)
+
++ [苹果 iPhone 17 系列新爆料：又一消息称全系机型支持高刷](https://m.ithome.com/html/859974.htm)
+
++ [18:08 开抢：华为 Pura 80 Pro 系列 6499 元起首销，三款新机一图对比](https://m.ithome.com/html/860063.htm)
+
++ [华为鸿蒙 HarmonyOS 5.1 官宣 7 月开启升级，首批支持名单公布](https://m.ithome.com/html/860028.htm)
+
++ [苹果 iOS 26“液态玻璃”设计褒贬不一：目前可读性差，但未来可期](https://m.ithome.com/html/859929.htm)
+
++ [华为 Pura 80 Ultra 手机业界首创「一镜双目」双焦段切换式长焦结构](https://m.ithome.com/html/860014.htm)
+
++ [华为 Pura 80 系列手机首次搭载鸿蒙操作系统 5.1，号称“体验大有不同”](https://m.ithome.com/html/860022.htm)
+
++ [华为 Pura 80 系列手机搭载第八代 ISP，实时数据处理提升 200%](https://m.ithome.com/html/860008.htm)
+
++ [更高效：华为全新实况窗亮相，号称“无需打开应用状态一眼便知”](https://m.ithome.com/html/860025.htm)
+
++ [余承东：华为 Pura 80 系列手机首发星闪车钥匙功能，鸿蒙 6 预计 10~11 月升级](https://m.ithome.com/html/860026.htm)
+
