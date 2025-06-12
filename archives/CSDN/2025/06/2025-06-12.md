@@ -197,3 +197,5 @@
 
 + [Uniapp实现多选下拉框](https://blog.csdn.net/qq_43600166/article/details/148595484)
 
++ [【Block总结】DiffAttention，差分注意力融入CLIP架构，抑制噪声，增强对相关特征的关注|即插即用](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/148516512)
+
