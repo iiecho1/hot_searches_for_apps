@@ -189,3 +189,7 @@
 
 + [埃尔多安：土耳其将向印尼出口48架第五代战机“可汗”](https://news.cctv.com/2025/06/12/ARTIzHVqJl9HO575oOaP6HYH250612.shtml)
 
++ [美国务院要求驻伊拉克使馆非必要人员撤离](https://news.cctv.com/2025/06/12/ARTIPZ20FNxynM5M5euEe4Zw250612.shtml)
+
++ [美国国防部重新评估美英澳安全伙伴协定](https://news.cctv.com/2025/06/12/ARTIOB2vWrRDAxUDxHVTGNfV250612.shtml)
+

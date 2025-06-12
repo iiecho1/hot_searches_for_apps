@@ -73,3 +73,7 @@
 
 + [【东方】东方弹球组曲【Marble-Music】](https://m.acfun.cn/v/?ac=47380249)
 
++ [赤也*-Spotlight/Awairo＝雄之助×Wami](https://m.acfun.cn/v/?ac=47387730)
+
++ [在清爽的夜晚自由地跳了听见WO全曲~是一镜到底哦~](https://m.acfun.cn/v/?ac=47387724)
+
