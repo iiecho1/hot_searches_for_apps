@@ -147,3 +147,11 @@
 
 + [Oracle 数据库对象管理：表空间与表的操作](https://blog.csdn.net/2401_83830408/article/details/148566550)
 
++ [适配器模式深度解析：Java设计模式实战指南与接口兼容性解决方案](https://blog.csdn.net/IRpickstars/article/details/148579264)
+
++ [从 Facebook 到阿里再到小质科技，王绍翾携 ProtonBase 在全球数据库市场“打怪升级“](https://blog.csdn.net/qq_44866828/article/details/148596152)
+
++ [基于python的内蒙古旅游景点数据分析系统-Flask+spider+vue](https://blog.csdn.net/shmp54/article/details/148569604)
+
++ [（二十六）深度解析领域特定语言（DSL）第四章——词法分析：基于正则表达式的词法分析器](https://blog.csdn.net/weixin_46217641/article/details/148599880)
+

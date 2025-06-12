@@ -193,3 +193,5 @@
 
 + [美国国防部重新评估美英澳安全伙伴协定](https://news.cctv.com/2025/06/12/ARTIOB2vWrRDAxUDxHVTGNfV250612.shtml)
 
++ [联合国报告：全球未能实现2025年消除童工现象的目标](https://news.cctv.com/2025/06/12/ARTIuInClRTKuIJuxq3lNtuG250612.shtml)
+
