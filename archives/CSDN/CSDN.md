@@ -155,3 +155,7 @@
 
 + [（二十六）深度解析领域特定语言（DSL）第四章——词法分析：基于正则表达式的词法分析器](https://blog.csdn.net/weixin_46217641/article/details/148599880)
 
++ [一键实现全站多语言化：translate.js 极简集成指南，支持Vue 、React 框架。](https://blog.csdn.net/mss359681091/article/details/148596766)
+
++ [【完整源码+数据集+部署教程】安检爆炸物检测系统源码和数据集：改进yolo11-REPVGGOREPA](https://blog.csdn.net/weixin_43860634/article/details/148590858)
+
