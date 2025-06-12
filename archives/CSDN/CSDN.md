@@ -123,3 +123,5 @@
 
 + [ProtonBase 这匹“黑马“为何能搅动全球数据库市场？｜专访小质科技 CEO 王绍翾](https://blog.csdn.net/shi_hong_fei_hei/article/details/148590585)
 
++ [Linuxkernel学习-deepseek-2](https://blog.csdn.net/SmileHergo/article/details/148593575)
+
