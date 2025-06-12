@@ -185,3 +185,7 @@
 
 + [比利时拒绝扣押俄冻结资产的提议](https://news.cctv.com/2025/06/12/ARTIK6a0Ythqk7XOImlhxFqr250612.shtml)
 
++ [普京提出建最现代化武器系统 指核力量是俄主权保障](https://news.cctv.com/2025/06/12/ARTI19WjDxUGzqQIgRzqV5HO250612.shtml)
+
++ [埃尔多安：土耳其将向印尼出口48架第五代战机“可汗”](https://news.cctv.com/2025/06/12/ARTIzHVqJl9HO575oOaP6HYH250612.shtml)
+

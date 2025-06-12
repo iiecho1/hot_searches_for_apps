@@ -61,3 +61,7 @@
 
 + [华为 Pura 80 系列手机搭载第八代 ISP，实时数据处理提升 200%](https://m.ithome.com/html/860008.htm)
 
++ [更高效：华为全新实况窗亮相，号称“无需打开应用状态一眼便知”](https://m.ithome.com/html/860025.htm)
+
++ [余承东：华为 Pura 80 系列手机首发星闪车钥匙功能，鸿蒙 6 预计 10~11 月升级](https://m.ithome.com/html/860026.htm)
+
