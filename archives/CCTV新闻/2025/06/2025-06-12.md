@@ -209,3 +209,5 @@
 
 + [巴方称以军袭击加沙两处援助物资分发点 已致数百人死伤](https://military.cctv.com/2025/06/12/ARTI8JrbgkjAptPOzKgT5e63250612.shtml)
 
++ [韩越领导人通电话 欲加强多领域合作](https://news.cctv.com/2025/06/12/ARTIakjIdYKjI5U0nEnwDDeu250612.shtml)
+
