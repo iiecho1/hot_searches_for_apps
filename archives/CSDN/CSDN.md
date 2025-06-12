@@ -183,3 +183,11 @@
 
 + [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_学习计划日历示例（CalendarView01_20）](https://blog.csdn.net/qq_33650655/article/details/148600045)
 
++ [桥接模式深度解析：Java设计模式实战指南与抽象实现分离架构设计](https://blog.csdn.net/IRpickstars/article/details/148611324)
+
++ [高精度3D打印头视觉定位系统：基于C#与HALCON的复杂场景抗干扰深度实践](https://blog.csdn.net/weixin_39815573/article/details/148606683)
+
++ [【GitHub开源AI精选】Toolkami：极简AI Agent框架，七种工具实现高效轻量化开发](https://blog.csdn.net/xiaobing259/article/details/148561773)
+
++ [基于Spring Boot和Vue的无人驾驶网约车平台设计与实现-开题报告](https://blog.csdn.net/weixin_39709134/article/details/148592271)
+

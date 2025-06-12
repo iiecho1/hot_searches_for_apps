@@ -243,3 +243,9 @@
 
 + [印度客机坠毁事件已造成至少110人死亡](https://news.cctv.com/2025/06/12/ARTILh43wULN5XpqZvhPni5z250612.shtml)
 
++ [我驻印度使馆：坠毁客机上无中国籍乘客](https://news.cctv.com/2025/06/12/ARTIQb4P5OdKVDMizS0lYOlR250612.shtml)
+
++ [印度失事客机上所有人员全部遇难](https://news.cctv.com/2025/06/12/ARTIFTNv1goJidhDRsbTuyXj250612.shtml)
+
++ [印度坠机事件已致170人遇难](https://news.cctv.com/2025/06/12/ARTIB29j7GNG72F7jGVmwiu1250612.shtml)
+
