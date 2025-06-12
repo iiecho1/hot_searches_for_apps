@@ -161,3 +161,11 @@
 
 + [南非东开普省遭遇洪灾与暴雪 致7人死亡](https://news.cctv.com/2025/06/11/ARTI6yDvqUj8vIHhXOvGcj67250611.shtml)
 
++ [使用“大量非致命性弹药” 洛杉矶警察局11日逮捕超80人](https://news.cctv.com/2025/06/13/ARTI4lOFOeq76xgugWez7NjY250613.shtml)
+
++ [美国宣布23日起对钢制家电加征关税 洗衣机冰箱在列](https://news.cctv.com/2025/06/13/ARTIiLOtsnUQxOFuYDzKfac9250613.shtml)
+
++ [印度坠机事故造成至少265人死亡 机上仅1人幸存](https://news.cctv.com/2025/06/13/ARTIzzuGG0UdEw2t9xqgMgp4250613.shtml)
+
++ [联大紧急特别会议要求以巴冲突方立即无条件永久停火](https://news.cctv.com/2025/06/13/ARTIfrLilWKcwC5mRuxk7psb250613.shtml)
+

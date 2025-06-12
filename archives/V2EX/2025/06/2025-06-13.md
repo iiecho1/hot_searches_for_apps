@@ -19,3 +19,5 @@
 
 + [zed 这个编辑器值得关注](https://www.v2ex.com/t/1138033)
 
++ [为什么非要用 s3 协议的存储?](https://www.v2ex.com/t/1138055)
+

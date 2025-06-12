@@ -51,3 +51,15 @@
 
 + [B站服务异常：App 端出现问题，目前已在紧急处理中](https://m.ithome.com/html/860436.htm)
 
++ [（更新：发现幸存者）史上首次：波音 787-8“梦想客机”在印度坠毁，机上载有 242 人](https://m.ithome.com/html/860403.htm)
+
++ [（已恢复）B站服务异常：App 端出现问题，目前已在紧急处理中](https://m.ithome.com/html/860436.htm)
+
++ [小米 REDMI K80 至尊版手机正面曝光：拒绝短焦指纹](https://m.ithome.com/html/860420.htm)
+
++ [长焦镜头 2899 元，华为 Pura 80 Ultra 手机备件价格公布](https://m.ithome.com/html/860394.htm)
+
++ [因台积电 2 纳米成本飙升，高通下下代骁龙 8 至尊版芯片被曝有 2 个版本](https://m.ithome.com/html/860405.htm)
+
++ [消息称腾讯研究以 150 亿美元收购《DNF》《跑跑卡丁车》游戏开发商 Nexon](https://m.ithome.com/html/860357.htm)
+
