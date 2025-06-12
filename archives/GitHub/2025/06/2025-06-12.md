@@ -19,3 +19,15 @@
 
 + [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
 
++ [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
+
++ [YaLTeR/niri](https://github.com/YaLTeR/niri)
+
++ [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+

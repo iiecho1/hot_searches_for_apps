@@ -181,3 +181,5 @@
 
 + [( github actions + workflow 01 ) 实现爬虫自动化，每2小时爬取一次澎湃新闻](https://blog.csdn.net/waterHBO/article/details/148593262)
 
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_学习计划日历示例（CalendarView01_20）](https://blog.csdn.net/qq_33650655/article/details/148600045)
+

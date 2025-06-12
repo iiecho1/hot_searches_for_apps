@@ -235,3 +235,11 @@
 
 + [韩国警方向前总统尹锡悦发出传唤调查要求](https://news.cctv.com/2025/06/12/ARTIMxtKBzUXGcrJY7oNyJgh250612.shtml)
 
++ [印度客机坠毁超百人遇难 总理莫迪发声：深感悲痛](https://news.cctv.com/2025/06/12/ARTI0jGHxHuouNGtK25yJSnl250612.shtml)
+
++ [遭美国质疑 澳英美核潜艇合作生变数](https://news.cctv.com/2025/06/12/ARTI22y1aYrpa4kYiYxHDOts250612.shtml)
+
++ [新华社快讯：印度客机失事已造成133人遇难](https://news.cctv.com/2025/06/12/ARTIkY8QtDpWmw7YVcvLtbfT250612.shtml)
+
++ [印度客机坠毁事件已造成至少110人死亡](https://news.cctv.com/2025/06/12/ARTILh43wULN5XpqZvhPni5z250612.shtml)
+
