@@ -49,3 +49,5 @@
 
 + [余承东：华为 Pura 80 系列手机首发星闪车钥匙功能，鸿蒙 6 预计 10~11 月升级](https://m.ithome.com/html/860026.htm)
 
++ [B站服务异常：App 端出现问题，目前已在紧急处理中](https://m.ithome.com/html/860436.htm)
+
