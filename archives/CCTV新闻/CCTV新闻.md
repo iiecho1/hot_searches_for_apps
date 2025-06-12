@@ -211,3 +211,13 @@
 
 + [韩越领导人通电话 欲加强多领域合作](https://news.cctv.com/2025/06/12/ARTIakjIdYKjI5U0nEnwDDeu250612.shtml)
 
++ [越南国会批准省级行政单位合并决议](https://news.cctv.com/2025/06/12/ARTIhFcT0fexTuaSK3wZyRmt250612.shtml)
+
++ [印度航空公司一架客机坠毁](https://news.cctv.com/2025/06/12/ARTIxGGx4REKq3DW2CH9CL5x250612.shtml)
+
++ [一搭载逾百人客机在印度坠毁 伤亡情况不明](https://news.cctv.com/2025/06/12/ARTIVVSttRm7GOHXFHNMhMLf250612.shtml)
+
++ [一架飞机在印度坠毁](https://news.cctv.com/2025/06/12/ARTIh9EhvhNlXiKKOVG0MZCQ250612.shtml)
+
++ [韩国总统李在明：将努力尽快恢复韩朝对话渠道](https://news.cctv.com/2025/06/12/ARTIM5hiRmIhNtCPxG7jJ4if250612.shtml)
+
