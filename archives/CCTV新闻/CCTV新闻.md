@@ -221,3 +221,17 @@
 
 + [韩国总统李在明：将努力尽快恢复韩朝对话渠道](https://news.cctv.com/2025/06/12/ARTIM5hiRmIhNtCPxG7jJ4if250612.shtml)
 
++ [印度失事客机确认载有242人 包括61名外国公民](https://news.cctv.com/2025/06/12/ARTI1xNK2HGXB6UbUSMyE9nY250612.shtml)
+
++ [印度失事客机确认载有242人，包括61名外国公民](https://news.cctv.com/2025/06/12/ARTImxgHalGMHOm1CFWofm7a250612.shtml)
+
++ [印度一客机起飞时坠毁 原计划飞往伦敦](https://news.cctv.com/2025/06/12/ARTIee5l87y6G5UvR4kvzsJC250612.shtml)
+
++ [【世界说】美媒：美国“制造业回流”之路举步维艰 面临成本与质量双重困境](https://news.cctv.com/2025/06/12/ARTICTBkFadCsXB5vaSh95p8250612.shtml)
+
++ [津巴布韦各界人士：愿创造更好环境吸引更多中国投资](https://news.cctv.com/2025/06/12/ARTIYat9VH24Y7yJLGdxyQz8250612.shtml)
+
++ [专访丨“莫中关系已成为发展中国家团结协作的典范”——访莫桑比克前总理阿里](https://news.cctv.com/2025/06/12/ARTIC5ca0pgSlnLbHyQiBVK6250612.shtml)
+
++ [韩国警方向前总统尹锡悦发出传唤调查要求](https://news.cctv.com/2025/06/12/ARTIMxtKBzUXGcrJY7oNyJgh250612.shtml)
+
