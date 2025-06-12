@@ -195,3 +195,17 @@
 
 + [联合国报告：全球未能实现2025年消除童工现象的目标](https://news.cctv.com/2025/06/12/ARTIuInClRTKuIJuxq3lNtuG250612.shtml)
 
++ [继洛杉矶后 美国又一城市宣布实施宵禁](https://news.cctv.com/2025/06/12/ARTI5QwR6YESgyqWjPdghZi7250612.shtml)
+
++ [继洛杉矶后 美国又一城市宣布实施宵禁](https://news.cctv.com/2025/06/12/ARTIdPpOdCdqZYiy9A115Wz2250612.shtml)
+
++ [受美国关税政策拖累 日本大企业二季度信心恶化](https://news.cctv.com/2025/06/12/ARTIXp2Zc4wRXQV9CXPsJeHt250612.shtml)
+
++ [巴卫生部门：24小时内以军袭击造成57人死亡](https://news.cctv.com/2025/06/12/ARTIkT1VftPaotdizOcT4bUo250612.shtml)
+
++ [担心以色列袭击伊朗 美国缩减在中东存在](https://news.cctv.com/2025/06/12/ARTIo0SB3CNprwhoIq6PfWct250612.shtml)
+
++ [德国防长访问基辅 将讨论进一步对乌军援](https://military.cctv.com/2025/06/12/ARTIMhrgt2O2HiE8qzfpZGBm250612.shtml)
+
++ [巴方称以军袭击加沙两处援助物资分发点 已致数百人死伤](https://military.cctv.com/2025/06/12/ARTI8JrbgkjAptPOzKgT5e63250612.shtml)
+

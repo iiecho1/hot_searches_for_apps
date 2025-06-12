@@ -159,3 +159,5 @@
 
 + [【完整源码+数据集+部署教程】安检爆炸物检测系统源码和数据集：改进yolo11-REPVGGOREPA](https://blog.csdn.net/weixin_43860634/article/details/148590858)
 
++ [NXP S32K146 T-Box 携手 SDNAND（贴片式 TF 卡）：驱动汽车智能革新的黄金组合](https://blog.csdn.net/weixin_44976692/article/details/148605907)
+
