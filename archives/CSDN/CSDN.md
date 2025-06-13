@@ -191,3 +191,5 @@
 
 + [《Redis》持久化](https://blog.csdn.net/w2915w/article/details/148516394)
 
++ [Amazon EC2 实战指南：构建灵活高效的云计算环境](https://blog.csdn.net/weixin_62765017/article/details/148632743)
+

@@ -213,3 +213,5 @@
 
 + [伊朗最高领袖任命陆军总司令穆萨维为新任武装部队总参谋长](https://news.cctv.com/2025/06/13/ARTIHAy33xVoeceNWyzMMCPX250613.shtml)
 
++ [伊朗媒体说以色列13日对伊朗德黑兰省发动的空袭已造成78人死亡、329人受伤](https://news.cctv.com/2025/06/13/ARTIOLig6SFHqRsleFxTveoe250613.shtml)
+
