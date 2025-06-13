@@ -123,3 +123,5 @@
 
 + [什么是遥测数据？](https://blog.csdn.net/UbuntuTouch/article/details/148587518)
 
++ [什么是 OpenSearch？- 比较 OpenSearch 及 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/148631957)
+
