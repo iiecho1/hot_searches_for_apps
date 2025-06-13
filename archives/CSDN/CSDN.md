@@ -167,3 +167,7 @@
 
 + [【HarmonyOS Next之旅】DevEco Studio使用指南(三十三) -＞ 构建任务](https://blog.csdn.net/weixin_74809706/article/details/148628328)
 
++ [计算机视觉生物启发视觉算法：如何模拟人眼与大脑？](https://blog.csdn.net/weixin_43151418/article/details/147710615)
+
++ [（二十七）深度解析领域特定语言（DSL）第四章——词法分析：基于状态机的词法分析器](https://blog.csdn.net/weixin_46217641/article/details/148623491)
+

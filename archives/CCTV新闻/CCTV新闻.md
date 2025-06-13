@@ -203,3 +203,7 @@
 
 + [印度航空一航班收到炸弹威胁紧急返航 降落泰国机场](https://news.cctv.com/2025/06/13/ARTIg277WINs526gk5AQBHEk250613.shtml)
 
++ [刚果（金）西北部一船只沉没 已致30人死亡多人失踪](https://news.cctv.com/2025/06/13/ARTIuZFlx6ZrwJMueoe6TLJv250613.shtml)
+
++ [安曼部分地区拉响安全警报 约旦发布公众安全提醒](https://news.cctv.com/2025/06/13/ARTIMhE2wQtRLLIYYuTy5FnA250613.shtml)
+
