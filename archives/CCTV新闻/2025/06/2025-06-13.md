@@ -169,3 +169,9 @@
 
 + [联大紧急特别会议要求以巴冲突方立即无条件永久停火](https://news.cctv.com/2025/06/13/ARTIfrLilWKcwC5mRuxk7psb250613.shtml)
 
++ [以军证实对伊朗核计划发动空袭](https://news.cctv.com/2025/06/13/ARTI6G9CAj1XfsiPBjUcQa4d250613.shtml)
+
++ [以色列宣布全国进入紧急状态](https://news.cctv.com/2025/06/13/ARTIu8Duq48rka2Ibjx73pmW250613.shtml)
+
++ [以色列宣布对伊朗发动打击 德黑兰多地传出爆炸声](https://news.cctv.com/2025/06/13/ARTIrrJAd5Qm3aiBL0ZCxiFk250613.shtml)
+
