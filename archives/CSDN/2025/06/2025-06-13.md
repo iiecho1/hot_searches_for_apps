@@ -173,3 +173,21 @@
 
 + [从 0 开始理解 Spring 的核心思想 —— IoC 和 DI(1)](https://blog.csdn.net/cjejwe/article/details/148618401)
 
++ [在ZYNQ Petalinux中实现PCIe读写NVMe固态硬盘的终极指南](https://blog.csdn.net/QQ_778132974/article/details/148623813)
+
++ [Java 大视界 -- Java 大数据在智能交通动态交通信号优化与交通拥堵缓解中的应用（299）](https://blog.csdn.net/atgfg/article/details/148564520)
+
++ [华为云Flexus+DeepSeek征文 | 当大模型遇见边缘计算：Flexus赋能低延迟AI Agent](https://blog.csdn.net/IRpickstars/article/details/148631638)
+
++ [SpatialLM：群核科技开源大模型，3D空间理解精度86.5%、零样本学习能力惊艳](https://blog.csdn.net/xiaobing259/article/details/148617377)
+
++ [网络安全：OWASP防护守则](https://blog.csdn.net/xike1024/article/details/148619536)
+
++ [基于 SpringBoot + Vue 在线点餐系统(前后端分离)](https://blog.csdn.net/LuoZheng4698729/article/details/148617628)
+
++ [从信息孤岛到智能星云：学习助手编织高校学习生活的全维度互联网络](https://blog.csdn.net/2401_82648291/article/details/148627917)
+
++ [【Arduino 动手做】LittleArm：Arduino 机械臂](https://blog.csdn.net/weixin_41659040/article/details/148634467)
+
++ [《Redis》持久化](https://blog.csdn.net/w2915w/article/details/148516394)
+

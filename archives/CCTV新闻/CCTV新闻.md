@@ -207,3 +207,9 @@
 
 + [安曼部分地区拉响安全警报 约旦发布公众安全提醒](https://news.cctv.com/2025/06/13/ARTIMhE2wQtRLLIYYuTy5FnA250613.shtml)
 
++ [多地航司暂停往返以色列、伊朗地区的航班](https://news.cctv.com/2025/06/13/ARTInOVefUEC9rL5CpMMDKkU250613.shtml)
+
++ [记者手记丨从卢旺达田野到中国餐桌——一个辣椒的“跨洋之旅”](https://news.cctv.com/2025/06/13/ARTIwYRcWJ2YnEASBhnsPmfj250613.shtml)
+
++ [伊朗最高领袖任命陆军总司令穆萨维为新任武装部队总参谋长](https://news.cctv.com/2025/06/13/ARTIHAy33xVoeceNWyzMMCPX250613.shtml)
+
