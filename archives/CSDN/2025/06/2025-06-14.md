@@ -107,3 +107,17 @@
 
 + [pytorch 之 nn 库与调试](https://blog.csdn.net/qq_51294669/article/details/148595252)
 
++ [驭码CodeRider 2.0 产品体验：AI 驱动的研发协作新时代](https://blog.csdn.net/u014727709/article/details/148573674)
+
++ [AI大模型从0到1记录学习 大模型技术之机器学习 day27-day60](https://blog.csdn.net/Gsen2819/article/details/148614776)
+
++ [docker compose搭建elk 8.6.2](https://blog.csdn.net/zhazhagu/article/details/148619309)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_学习计划日历示例（CalendarView01_20）](https://blog.csdn.net/qq_33650655/article/details/148600045)
+
++ [从零搭建智能家居：香橙派+HomeAssistant实战指南](https://blog.csdn.net/LT15171009269/article/details/148607838)
+
++ [Redis分布式缓存（RDB、AOF、主从同步）](https://blog.csdn.net/2302_81153890/article/details/148586794)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在能源互联网全景展示与能源调度决策支持中的应用（300）](https://blog.csdn.net/atgfg/article/details/148566469)
+
