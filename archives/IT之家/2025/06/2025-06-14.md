@@ -25,3 +25,5 @@
 
 + [消息称腾讯研究以 150 亿美元收购《DNF》《跑跑卡丁车》游戏开发商 Nexon](https://m.ithome.com/html/860357.htm)
 
++ [印度坠机事故致超 290 人死亡，一名幸存者正在接受治疗](https://m.ithome.com/html/860475.htm)
+
