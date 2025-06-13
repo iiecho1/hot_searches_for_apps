@@ -161,3 +161,13 @@
 
 + [俄乌开始相互移交阵亡士兵遗体](https://news.cctv.com/2025/06/11/ARTIs28VU0jrY67veU4WDBya250611.shtml)
 
++ [美军证实海军陆战队首次在洛杉矶拘留平民](https://news.cctv.com/2025/06/14/ARTIdwKF1kQUYVXo5bTVo0mp250614.shtml)
+
++ [巴西确认越南加入金砖国家合作机制成为伙伴国](https://news.cctv.com/2025/06/14/ARTI9g80MJStUvxIUeJbrOZG250614.shtml)
+
++ [日美元首通话 同意加快部长级磋商以达成互利协议](https://news.cctv.com/2025/06/14/ARTICdvd87dKZjMHVDPDRxQi250614.shtml)
+
++ [伊朗导弹袭击已致1名以色列人死亡 至少50人受伤](https://news.cctv.com/2025/06/14/ARTI9TNasNZEuTRfloSgKacr250614.shtml)
+
++ [以军称监测到伊朗新一轮导弹袭击 多地响起防空警报](https://news.cctv.com/2025/06/14/ARTIK28L9UksChOm95EQrxD9250614.shtml)
+
