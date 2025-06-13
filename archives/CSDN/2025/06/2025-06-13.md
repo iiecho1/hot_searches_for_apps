@@ -193,3 +193,7 @@
 
 + [Amazon EC2 实战指南：构建灵活高效的云计算环境](https://blog.csdn.net/weixin_62765017/article/details/148632743)
 
++ [【开源工具】：基于PyQt5的智能网络驱动器映射工具开发全流程（附源码）](https://blog.csdn.net/Clay_K/article/details/148615836)
+
++ [MCU、MPU、GPU、Soc、DSP、FPGA、CPLD……它们到底是什么？](https://blog.csdn.net/weixin_46134133/article/details/148605348)
+
