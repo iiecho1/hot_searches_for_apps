@@ -159,3 +159,5 @@
 
 + [Uniapp实现多选下拉框](https://blog.csdn.net/qq_43600166/article/details/148595484)
 
++ [Redis相关知识总结（缓存雪崩，缓存穿透，缓存击穿，Redis实现分布式锁，如何保持数据库和缓存一致）](https://blog.csdn.net/2302_81153890/article/details/148561195)
+
