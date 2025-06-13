@@ -185,3 +185,7 @@
 
 + [伊朗武装部队总参谋长穆罕默德·巴盖里遭暗杀](https://news.cctv.com/2025/06/13/ARTIRoHDkYPy1m1NCA65yd2N250613.shtml)
 
++ [哈梅内伊证实多名军事指挥官和核科学家死亡 “以方将受严厉惩罚”](https://military.cctv.com/2025/06/13/ARTI2dHppNOSVD7QRstgnn3M250613.shtml)
+
++ [以方称对伊打击前已同美国进行全面协调](https://news.cctv.com/2025/06/13/ARTIJxJ5TZqFWhyfHz3nAUyN250613.shtml)
+
