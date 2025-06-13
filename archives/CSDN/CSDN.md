@@ -121,3 +121,5 @@
 
 + [Java 大视界 -- 基于 Java 的大数据可视化在能源互联网全景展示与能源调度决策支持中的应用（300）](https://blog.csdn.net/atgfg/article/details/148566469)
 
++ [什么是遥测数据？](https://blog.csdn.net/UbuntuTouch/article/details/148587518)
+
