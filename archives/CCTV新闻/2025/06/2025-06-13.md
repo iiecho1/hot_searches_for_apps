@@ -215,3 +215,7 @@
 
 + [伊朗媒体说以色列13日对伊朗德黑兰省发动的空袭已造成78人死亡、329人受伤](https://news.cctv.com/2025/06/13/ARTIOLig6SFHqRsleFxTveoe250613.shtml)
 
++ [外交部提醒在伊朗、以色列中国公民加强安全防范](https://news.cctv.com/2025/06/13/ARTIJL9gj6WmWlWG0VOapVND250613.shtml)
+
++ [柬埔寨、泰国领导人分别就两国边境紧张局势表态](https://news.cctv.com/2025/06/13/ARTIYloj6bNEa0g9uWVxUTF4250613.shtml)
+

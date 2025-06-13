@@ -197,3 +197,11 @@
 
 + [MCU、MPU、GPU、Soc、DSP、FPGA、CPLD……它们到底是什么？](https://blog.csdn.net/weixin_46134133/article/details/148605348)
 
++ [最新Transformer模型及深度学习前沿技术应用](https://blog.csdn.net/glldxh/article/details/148619380)
+
++ [GitHub 趋势日报(2025年06月10日)](https://blog.csdn.net/ShrCheng/article/details/148574005)
+
++ [暴雨服务器成功交付长沙市第四医院](https://blog.csdn.net/BAOYUCompany/article/details/148619993)
+
++ [【WebSocket】WebSocket架构重构：从分散管理到统一连接的实战经验](https://blog.csdn.net/weixin_41899098/article/details/148607179)
+
