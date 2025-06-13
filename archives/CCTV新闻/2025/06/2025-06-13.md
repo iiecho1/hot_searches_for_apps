@@ -175,3 +175,13 @@
 
 + [以色列宣布对伊朗发动打击 德黑兰多地传出爆炸声](https://news.cctv.com/2025/06/13/ARTIrrJAd5Qm3aiBL0ZCxiFk250613.shtml)
 
++ [朝鲜“崔贤”级二号舰举行重新下水仪式](https://news.cctv.com/2025/06/13/ARTI3TUmaKhmoUH0FJHy3J3z250613.shtml)
+
++ [以军袭击伊朗核计划相关设施 伊朗防空处于全面戒备状态](https://news.cctv.com/2025/06/13/ARTImaeQofYnpVMfUUpEftIX250613.shtml)
+
++ [美国务卿：美方未参与打击伊朗](https://news.cctv.com/2025/06/13/ARTIKRMBYpG2h5PLWHS5TQCL250613.shtml)
+
++ [美“星舰”第八次试飞失败系一“猛禽”发动机硬件故障](https://news.cctv.com/2025/06/13/ARTIaQiU3LykyKSwk7K12fa3250613.shtml)
+
++ [伊朗武装部队总参谋长穆罕默德·巴盖里遭暗杀](https://news.cctv.com/2025/06/13/ARTIRoHDkYPy1m1NCA65yd2N250613.shtml)
+

@@ -135,3 +135,17 @@
 
 + [风中低语：Linux 信号处理的艺术与实践](https://blog.csdn.net/2303_81060385/article/details/147957814)
 
++ [AI时代志愿填报新策略，北大清华专家携手AI，为你破译志愿填报密码](https://blog.csdn.net/qq_32682301/article/details/148622252)
+
++ [基于深度学习的网络流量预测详解与Matlab仿真](https://blog.csdn.net/ccsss22/article/details/148614172)
+
++ [FastChat 架构拆解：打造类 ChatGPT 私有化部署解决方案的基石](https://blog.csdn.net/weixin_53269650/article/details/148336541)
+
++ [【Cargo构建脚本】Rust中如何通过cargo构建脚本来生成代码](https://blog.csdn.net/littlefun591/article/details/148615494)
+
++ [卷积神经网络（一）](https://blog.csdn.net/qq_52889317/article/details/148590285)
+
++ [【Linux系列】cat 命令写入文本到文件](https://blog.csdn.net/qyj19920704/article/details/148571289)
+
++ [Spring boot ](https://blog.csdn.net/u014744118/article/details/148553433)
+
