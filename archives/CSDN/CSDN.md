@@ -155,3 +155,7 @@
 
 + [【新能源汽车技术全景解析：构建智能出行新生态】](https://blog.csdn.net/weixin_62244995/article/details/148615586)
 
++ [2023年全国研究生数学建模竞赛华为杯D题区域双碳目标与路径规划研究求解全过程文档及程序](https://blog.csdn.net/weixin_43292788/article/details/148563690)
+
++ [Uniapp实现多选下拉框](https://blog.csdn.net/qq_43600166/article/details/148595484)
+
