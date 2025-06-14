@@ -161,3 +161,17 @@
 
 + [我驻印度使馆：坠毁客机上无中国籍乘客](https://news.cctv.com/2025/06/12/ARTIQb4P5OdKVDMizS0lYOlR250612.shtml)
 
++ [以军无人机袭击伊朗南帕尔斯天然气田 部分区域起火](https://news.cctv.com/2025/06/15/ARTIy9iYBb1bIyBHqrAvPfN2250615.shtml)
+
++ [伊朗总统：能用武力击落以色列隐形军用装备](https://news.cctv.com/2025/06/15/ARTIDBIIRvzLxxR7KOSkbGUU250615.shtml)
+
++ [多个以色列邻国重新开放领空](https://news.cctv.com/2025/06/15/ARTIDKoszYXo5VJNPd3wZIPQ250615.shtml)
+
++ [俄国防部称新一批俄被俘人员从乌克兰控制区返回](https://news.cctv.com/2025/06/15/ARTIUmSqaVwEhisGgqFs1OyL250615.shtml)
+
++ [阿曼外交大臣：原定15日举行的伊美谈判取消](https://news.cctv.com/2025/06/15/ARTIk12tRJXqXEQWoU5PLC7N250615.shtml)
+
++ [伊拉克宣布延长领空关闭时间](https://news.cctv.com/2025/06/15/ARTIGPUbvI1mVlGSIoFgbF6L250615.shtml)
+
++ [热点问答｜伊朗对以色列的反击有多大规模](https://news.cctv.com/2025/06/15/ARTIsQeagGcn4ENA8a5JykhW250615.shtml)
+

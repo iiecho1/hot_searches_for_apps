@@ -113,3 +113,27 @@
 
 + [React ajax中的跨域以及代理服务器](https://blog.csdn.net/A6516565189/article/details/148640947)
 
++ [Linux--磁盘寻址：从 CHS 到 LBA 的深度解码之旅](https://blog.csdn.net/2401_83191546/article/details/148658763)
+
++ [MySQL-DDL语句深度解析与实战指南](https://blog.csdn.net/aa_hdkf_vg/article/details/148643682)
+
++ [MySQL启动失败？openEuler系统下mysqld服务无法启动的原因与解决](https://blog.csdn.net/qq_44866828/article/details/148619088)
+
++ [NXP S32K146 T-Box 携手 SDNAND（贴片式 TF 卡）：驱动汽车智能革新的黄金组合](https://blog.csdn.net/weixin_44976692/article/details/148605907)
+
++ [无痛学线性代数](https://blog.csdn.net/dllglvzhenfeng/article/details/148659113)
+
++ [【Arduino 动手做】RGB HexMatrix | 物联网时钟](https://blog.csdn.net/weixin_41659040/article/details/148639894)
+
++ [SpatialLM：群核科技开源大模型，3D空间理解精度86.5%、零样本学习能力惊艳](https://blog.csdn.net/xiaobing259/article/details/148617377)
+
++ [20250613在Ubuntu20.04.6下编译Rockchip的RK3576原厂Android14的SDK【整理编译】](https://blog.csdn.net/wb4916/article/details/148638463)
+
++ [微信小程序 微信同声传译和微信OCR识别](https://blog.csdn.net/qq_36158551/article/details/148653292)
+
++ [electron实现加载页（启动页）](https://blog.csdn.net/qq_44775782/article/details/148632050)
+
++ [数据可视化——一图胜千言](https://blog.csdn.net/m0_53814833/article/details/148639371)
+
++ [【DVWA系列】——xss（Stored)——High详细教程](https://blog.csdn.net/2402_84408069/article/details/148607334)
+
