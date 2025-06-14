@@ -217,3 +217,9 @@
 
 + [约旦重新开放领空](https://news.cctv.com/2025/06/14/ARTIXbqild6dXoIf8szt5g67250614.shtml)
 
++ [特朗普政府惹上的那些官司，现在怎么样了？](https://news.cctv.com/2025/06/14/ARTIgLBHbhtS8lQT6JUbrEHI250614.shtml)
+
++ [伊朗：对以报复行动已击中超过150个以色列目标](https://news.cctv.com/2025/06/14/ARTIVBpgLA1RF0Csgj9MVP15250614.shtml)
+
++ [伊朗军方称计划对中东地区美军基地开展打击](https://news.cctv.com/2025/06/14/ARTIiofTZBUBOhpxAg0vSGUw250614.shtml)
+
