@@ -141,3 +141,23 @@
 
 + [【论文阅读笔记】高光反射实时渲染新突破：3D Gaussian Splatting with Deferred Reflection 技术解析](https://blog.csdn.net/weixin_43357695/article/details/148617450)
 
++ [centos 7.9 升级ssh版本 7.4p1 升级到 8.2p1](https://blog.csdn.net/OceanWaves1993/article/details/148615445)
+
++ [网络层协议：IP](https://blog.csdn.net/xike1024/article/details/148563523)
+
++ [Java八股文——Spring「SpringMVC 篇」](https://blog.csdn.net/qq_54452916/article/details/148591399)
+
++ [Python----神经网络发（神经网络发展历程）](https://blog.csdn.net/weixin_64110589/article/details/148006548)
+
++ [MySQL中触发器详解 触发器在自动化任务中的应用场景](https://blog.csdn.net/weixin_46493566/article/details/148586594)
+
++ [SpringBoot+Junit在IDEA中实现查询数据库的单元测试](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/148612571)
+
++ [【EdgeAI实战】（3）边缘AI开发套件 STM32N6570X0 用户手册](https://blog.csdn.net/youcans/article/details/148586380)
+
++ [[论文阅读] 算法 | 布谷鸟算法在声源定位中的应用研究](https://blog.csdn.net/zhangjiaoshou_/article/details/148565607)
+
++ [Cursor中实用MCP Server 推荐（一）-- interactive-feedback-mcp](https://blog.csdn.net/m0_65437087/article/details/148573669)
+
++ [【微软RDP协议】微软RDP协议技术架构特点与跨地域应用实践](https://blog.csdn.net/qq_44033208/article/details/148610412)
+

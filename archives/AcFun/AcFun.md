@@ -69,3 +69,7 @@
 
 + [So cool](https://m.acfun.cn/v/?ac=47395454)
 
++ [【东方】平安のエイリアン 钢琴演绎【ViddyWell】](https://m.acfun.cn/v/?ac=47387474)
+
++ [雷雷这些年都出了哪些书？你们要的大合集来了](https://m.acfun.cn/v/?ac=47395039)
+

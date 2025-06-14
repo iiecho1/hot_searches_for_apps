@@ -51,3 +51,13 @@
 
 + [vivo 产品副总裁黄韬详解 X Fold5 折叠屏手机：“行业最强续航 + 最合拍的苹果搭子”](https://m.ithome.com/html/860556.htm)
 
++ [苹果软件主管 Craig：平板 iPad 若装上 macOS 将摧毁其“终极触控设备”的立身之本](https://m.ithome.com/html/860761.htm)
+
++ [苹果重发 iOS 26 Beta 1 测试版，修复 iPhone 15/16 系列机型无法启动故障](https://m.ithome.com/html/860763.htm)
+
++ [当当网创始人李国庆与俞渝就财产分割达成最终和解，宣布进军 AI 领域](https://m.ithome.com/html/860743.htm)
+
++ [印度政府考虑停飞波音 787 型客机](https://m.ithome.com/html/860624.htm)
+
++ [苹果 iPhone XS 手机现已被列为“过时产品”](https://m.ithome.com/html/860760.htm)
+

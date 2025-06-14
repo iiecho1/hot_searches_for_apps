@@ -197,3 +197,13 @@
 
 + [特朗普提交其任内首份公开财务披露报告](https://news.cctv.com/2025/06/14/ARTIO4bkFEZTMNsXreS6ZueO250614.shtml)
 
++ [以色列军方说伊朗对以连续发动导弹打击](https://photo.cctv.com/2025/06/14/PHOAuXE5GSyGq1ntt9yQcC31250614.shtml)
+
++ [以军方称伊朗发动第5轮导弹攻击 15分钟内3次导弹齐射](https://news.cctv.com/2025/06/14/ARTIPS64XkeEuQ0PUowRY7f4250614.shtml)
+
++ [伊朗发动第4波导弹袭击 以色列北部多地拉响警报](https://news.cctv.com/2025/06/14/ARTIxNPFklzBqDBeDtBgbm7Z250614.shtml)
+
++ [美军“爱国者”与“萨德”导弹防御系统参与以色列防空行动](https://news.cctv.com/2025/06/14/ARTIBnFZ1aBLMhteDpuPxB6y250614.shtml)
+
++ [李在明政府一高官因涉争议辞职 上任仅5天](https://news.cctv.com/2025/06/14/ARTIbZQfwCEjB0uIbV3Eiq7S250614.shtml)
+

@@ -23,3 +23,15 @@
 
 + [Linux 桌面不一定非要安装一个 desktop system](https://www.v2ex.com/t/1138341)
 
++ [macos / windows 日常混用 快捷键极其割裂](https://www.v2ex.com/t/1138400)
+
++ [如果决定不生孩子，需要考虑做哪些准备？](https://www.v2ex.com/t/1138501)
+
++ [赔偿二选一, 被通知裁员,让我走,怎么选?](https://www.v2ex.com/t/1138446)
+
++ [Gemini 写小说是真牛逼，搞了个《一觉醒来全球计算机水平下降一万倍，本是黑马程序员出身的我一越成为万人之上》给我看上头了](https://www.v2ex.com/t/1138419)
+
++ [刚刚差点被中国联通的客服诈骗了](https://www.v2ex.com/t/1138431)
+
++ [现在大环境这么差嘛（小小吐槽发泄下）](https://www.v2ex.com/t/1138417)
+
