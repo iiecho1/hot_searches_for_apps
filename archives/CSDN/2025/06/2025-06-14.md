@@ -167,3 +167,5 @@
 
 + [学习threejs，使用TSL计算粒子鼠标特效](https://blog.csdn.net/qq_28419035/article/details/148588263)
 
++ [深度学习——基于PyTorch的MNIST手写数字识别详解](https://blog.csdn.net/zdx2585503940/article/details/148641218)
+

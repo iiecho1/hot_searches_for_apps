@@ -209,3 +209,5 @@
 
 + [伊朗导弹袭击以色列 已造成至少2死80伤](https://news.cctv.com/2025/06/14/ARTIRKSwzVxRc19UsXUx6vRk250614.shtml)
 
++ [古特雷斯呼吁以色列伊朗停止升级冲突](https://news.cctv.com/2025/06/14/ARTI26f3tfSQ6ZlgXtFflYUj250614.shtml)
+
