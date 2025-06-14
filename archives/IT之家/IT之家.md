@@ -53,3 +53,5 @@
 
 + [消息称 2025 年不会有比华为 1/1.28&quot; RYYB 潜望镜底更大的方案出现](https://m.ithome.com/html/860859.htm)
 
++ [印度政府考虑停飞波音 787 型客机](https://m.ithome.com/html/860624.htm)
+

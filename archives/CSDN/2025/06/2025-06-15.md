@@ -147,3 +147,7 @@
 
 + [.NET Redis 高级指南：拥抱智能时代的分布式利器](https://blog.csdn.net/lgf228/article/details/148521145)
 
++ [Transformer实战——从词袋模型到Transformer：NLP技术演进](https://blog.csdn.net/LOVEmy134611/article/details/147516752)
+
++ [AI时代志愿填报新策略，北大清华专家携手AI，为你破译志愿填报密码](https://blog.csdn.net/qq_32682301/article/details/148622252)
+
