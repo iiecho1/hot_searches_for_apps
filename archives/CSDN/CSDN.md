@@ -137,3 +137,13 @@
 
 + [【DVWA系列】——xss（Stored)——High详细教程](https://blog.csdn.net/2402_84408069/article/details/148607334)
 
++ [基于大数据的个性化教育推荐系的设计与实现-开题报告](https://blog.csdn.net/weixin_39709134/article/details/148659036)
+
++ [使用Cursor + Devbox + Uniapp 一站式AI编程开发移动端（App、H5、小程序）](https://blog.csdn.net/mss359681091/article/details/148657544)
+
++ [openEuler 虚拟机中 Shell 脚本实现自动化备份与清理实践](https://blog.csdn.net/weixin_46282323/article/details/148618657)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | RandomChoicePicker（标签生成）](https://blog.csdn.net/qq_44808710/article/details/148615314)
+
++ [.NET Redis 高级指南：拥抱智能时代的分布式利器](https://blog.csdn.net/lgf228/article/details/148521145)
+
