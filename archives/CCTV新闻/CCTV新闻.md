@@ -243,3 +243,5 @@
 
 + [法国总统马克龙将于6月15日访问格陵兰岛](https://news.cctv.com/2025/06/14/ARTI6CCt116qGOLw4NmJSdKm250614.shtml)
 
++ [新闻分析丨G7峰会在即 加拿大为何要放弃达成公报](https://news.cctv.com/2025/06/14/ARTIqZQ3cyaUNW4PGGcdgZA5250614.shtml)
+

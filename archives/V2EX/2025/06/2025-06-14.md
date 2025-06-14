@@ -57,3 +57,7 @@
 
 + [奇葩安卓要求？安卓系统的设备有支持 USB Type-C 接口作为 DisplayPort 输入端口的吗？](https://www.v2ex.com/t/1138523)
 
++ [最近公司组织爱心献血，有些个人疑问](https://www.v2ex.com/t/1138594)
+
++ [爬取小红书评论是否合法](https://www.v2ex.com/t/1138599)
+

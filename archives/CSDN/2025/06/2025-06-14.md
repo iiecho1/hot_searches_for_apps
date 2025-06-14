@@ -193,3 +193,9 @@
 
 + [基于PSO粒子群优化的VMD-LSTM时间序列预测算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/148642619)
 
++ [AI全栈之路：Cursor+Claude3.7一整套APP原型图UI生成](https://blog.csdn.net/sjw890821sjw/article/details/148654387)
+
++ [OceanBase （DBA）一面面经](https://blog.csdn.net/dnuiking/article/details/148634731)
+
++ [解决Augment账号限制与免费额度问题全流程实录](https://blog.csdn.net/yangshuo1281/article/details/148621055)
+
