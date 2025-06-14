@@ -53,3 +53,7 @@
 
 + [话说各位机械硬盘盒有啥好推荐吗？](https://www.v2ex.com/t/1138520)
 
++ [请各位给推荐一下好用的蟑螂药，多谢](https://www.v2ex.com/t/1138499)
+
++ [奇葩安卓要求？安卓系统的设备有支持 USB Type-C 接口作为 DisplayPort 输入端口的吗？](https://www.v2ex.com/t/1138523)
+
