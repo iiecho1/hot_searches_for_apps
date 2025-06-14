@@ -207,3 +207,5 @@
 
 + [李在明政府一高官因涉争议辞职 上任仅5天](https://news.cctv.com/2025/06/14/ARTIbZQfwCEjB0uIbV3Eiq7S250614.shtml)
 
++ [伊朗导弹袭击以色列 已造成至少2死80伤](https://news.cctv.com/2025/06/14/ARTIRKSwzVxRc19UsXUx6vRk250614.shtml)
+
