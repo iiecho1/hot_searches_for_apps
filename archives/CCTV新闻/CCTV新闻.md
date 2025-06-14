@@ -239,3 +239,7 @@
 
 + [第四届中非经贸博览会：冈比亚新农人见证中非农业友好合作](https://news.cctv.com/2025/06/14/ARTIrWqYrlkrKp54UbRdnC7v250614.shtml)
 
++ [1200名乌方人员遗体已被送返乌克兰](https://news.cctv.com/2025/06/14/ARTIFCD9ZbFnhPWS5jJava4H250614.shtml)
+
++ [法国总统马克龙将于6月15日访问格陵兰岛](https://news.cctv.com/2025/06/14/ARTI6CCt116qGOLw4NmJSdKm250614.shtml)
+

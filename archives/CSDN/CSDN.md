@@ -191,3 +191,5 @@
 
 + [基于Spring Boot非遗文化宣传推荐平台设计和实现-开题报告](https://blog.csdn.net/weixin_39709134/article/details/148653227)
 
++ [基于PSO粒子群优化的VMD-LSTM时间序列预测算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/148642619)
+
