@@ -175,3 +175,9 @@
 
 + [热点问答｜伊朗对以色列的反击有多大规模](https://news.cctv.com/2025/06/15/ARTIsQeagGcn4ENA8a5JykhW250615.shtml)
 
++ [伊朗伊斯兰革命卫队航空航天部队情报部门副负责人在以军袭击中身亡](https://news.cctv.com/2025/06/15/ARTI6IyTSp5fFKam0iVtWjj9250615.shtml)
+
++ [卡塔尔称正努力推动相关各方恢复对话 缓和地区局势](https://news.cctv.com/2025/06/15/ARTI3SLm4oxCSF17rlRjKgqi250615.shtml)
+
++ [英国正将喷气式飞机等军事资源向中东转移](https://news.cctv.com/2025/06/15/ARTIYceTUD7A1YERxGDzBX74250615.shtml)
+

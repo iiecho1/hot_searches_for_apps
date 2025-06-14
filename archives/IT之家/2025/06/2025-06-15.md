@@ -49,3 +49,7 @@
 
 + [vivo 产品副总裁黄韬详解 X Fold5 折叠屏手机：“行业最强续航 + 最合拍的苹果搭子”](https://m.ithome.com/html/860556.htm)
 
++ [印度波音 787 坠机事故遇难人数升至 279 人](https://m.ithome.com/html/860839.htm)
+
++ [消息称 2025 年不会有比华为 1/1.28&quot; RYYB 潜望镜底更大的方案出现](https://m.ithome.com/html/860859.htm)
+
