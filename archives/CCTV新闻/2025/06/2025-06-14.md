@@ -211,3 +211,9 @@
 
 + [古特雷斯呼吁以色列伊朗停止升级冲突](https://news.cctv.com/2025/06/14/ARTI26f3tfSQ6ZlgXtFflYUj250614.shtml)
 
++ [镜头连中外丨一梦到徽州——在法兰克福遇见中式园林](https://photo.cctv.com/2025/06/14/PHOADymiSBWgzkiYNcYNGCll250614.shtml)
+
++ [印度坠机事故遇难人数升至279人](https://news.cctv.com/2025/06/14/ARTITotwIHHiNwma0X4knKEm250614.shtml)
+
++ [约旦重新开放领空](https://news.cctv.com/2025/06/14/ARTIXbqild6dXoIf8szt5g67250614.shtml)
+

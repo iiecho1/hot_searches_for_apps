@@ -169,3 +169,7 @@
 
 + [深度学习——基于PyTorch的MNIST手写数字识别详解](https://blog.csdn.net/zdx2585503940/article/details/148641218)
 
++ [UniApp APP打包方法（Android/iOS双平台）](https://blog.csdn.net/u012210662/article/details/148584958)
+
++ [系统安全之身份认证](https://blog.csdn.net/Ahri_J/article/details/148604824)
+
