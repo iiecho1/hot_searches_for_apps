@@ -65,3 +65,7 @@
 
 + [新英雄登场！](https://m.acfun.cn/v/?ac=47395627)
 
++ [《攒了1000块，被宠物知道了》](https://m.acfun.cn/v/?ac=47395171)
+
++ [So cool](https://m.acfun.cn/v/?ac=47395454)
+

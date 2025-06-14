@@ -171,3 +171,29 @@
 
 + [以军称监测到伊朗新一轮导弹袭击 多地响起防空警报](https://news.cctv.com/2025/06/14/ARTIK28L9UksChOm95EQrxD9250614.shtml)
 
++ [伊朗导弹回击以色列 以军开始新一轮打击 速览昨夜今晨最新战况](https://news.cctv.com/2025/06/14/ARTI4K9EmzdqaKuRgL6De3rC250614.shtml)
+
++ [伊朗媒体公布被击落的以色列F-35战机残骸照片 以官方未证实](https://news.cctv.com/2025/06/14/ARTI7ramO878y0TBlDzlUmME250614.shtml)
+
++ [以军说伊朗向以色列发动新一轮导弹袭击](https://news.cctv.com/2025/06/14/ARTIegK7yXjP9Qqsojr3MkNo250614.shtml)
+
++ [伊朗伊斯兰革命卫队说袭击以色列境内数十处目标](https://news.cctv.com/2025/06/14/ARTIoIUiVkmnnV5Dl6WfonWs250614.shtml)
+
++ [以军称伊朗大不里士的空军基地被完全摧毁](https://news.cctv.com/2025/06/14/ARTIO2gOJjFFdL3aeo3TOfSs250614.shtml)
+
++ [伊朗首都德黑兰持续遭以色列空袭](https://news.cctv.com/2025/06/14/ARTIDm9WesMLdOpQqJTZFWfJ250614.shtml)
+
++ [金正恩视察朝鲜重要军工企业](https://news.cctv.com/2025/06/14/ARTIVUZAMg1G6n7iHB5vdcov250614.shtml)
+
++ [特朗普承认对以色列打击伊朗知情](https://news.cctv.com/2025/06/14/ARTIDhyry7sqb6dxHhdCUa34250614.shtml)
+
++ [以军说袭击了伊朗伊斯法罕附近核设施](https://news.cctv.com/2025/06/14/ARTIRHZP114YgNwt7x1FhIiD250614.shtml)
+
++ [美海军陆战队进驻洛杉矶执勤](https://news.cctv.com/2025/06/14/ARTIRmsIxReVMzKtF3qHCaXm250614.shtml)
+
++ [伊朗多地继续遭以色列袭击](https://news.cctv.com/2025/06/14/ARTI2vEEQPqPY7xCmaYOEvuR250614.shtml)
+
++ [印度坠机事故遇难人数升至274人](https://news.cctv.com/2025/06/14/ARTILWGpnEdB6ZoL4fFkSrp9250614.shtml)
+
++ [特朗普提交其任内首份公开财务披露报告](https://news.cctv.com/2025/06/14/ARTIO4bkFEZTMNsXreS6ZueO250614.shtml)
+

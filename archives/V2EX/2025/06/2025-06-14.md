@@ -17,3 +17,9 @@
 
 + [前前司差旅报销，打到我账户](https://www.v2ex.com/t/1138438)
 
++ [升级服务器后， mysql 性能反而更慢了，求排查思路](https://www.v2ex.com/t/1138433)
+
++ [k8s 使用调研](https://www.v2ex.com/t/1138350)
+
++ [Linux 桌面不一定非要安装一个 desktop system](https://www.v2ex.com/t/1138341)
+
