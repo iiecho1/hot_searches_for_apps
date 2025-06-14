@@ -223,3 +223,15 @@
 
 + [伊朗军方称计划对中东地区美军基地开展打击](https://news.cctv.com/2025/06/14/ARTIiofTZBUBOhpxAg0vSGUw250614.shtml)
 
++ [五角大楼披萨订单激增预示以色列对伊朗“大动作”](https://news.cctv.com/2025/06/14/ARTIBod69T4xnsyyjPveH4YG250614.shtml)
+
++ [伊朗武装部队总参谋部两名高官遭袭身亡](https://news.cctv.com/2025/06/14/ARTIfqXqvB61pyGHy1jxHPQL250614.shtml)
+
++ [伊朗首都一居民楼遭空袭后倒塌 致60人死亡](https://news.cctv.com/2025/06/14/ARTI3HKtCkgZhwwBakNpkWS1250614.shtml)
+
++ [伊朗导弹袭击已致以色列3人死亡150余人受伤](https://news.cctv.com/2025/06/14/ARTIjDS5jeYPw3w2Wjj82I54250614.shtml)
+
++ [阿根廷驻华大使： 发展中国家以中国模式为范本应对挑战](https://news.cctv.com/2025/06/14/ARTIvsdABk1sNoV7eeK4hocg250614.shtml)
+
++ [专访丨美国关税措施造成“多输局面”——访欧洲央行行长拉加德](https://news.cctv.com/2025/06/14/ARTINWTcGwYnlPKMzq3WiC30250614.shtml)
+
