@@ -189,3 +189,5 @@
 
 + [前端实现图片防盗链技术详解 - 原理分析与SpringBoot解决方案](https://blog.csdn.net/lhmyy521125/article/details/148590938)
 
++ [基于Spring Boot非遗文化宣传推荐平台设计和实现-开题报告](https://blog.csdn.net/weixin_39709134/article/details/148653227)
+

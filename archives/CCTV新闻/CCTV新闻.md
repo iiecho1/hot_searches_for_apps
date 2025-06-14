@@ -237,3 +237,5 @@
 
 + [加沙南部物资分发点附近民众遭枪击 27人死亡](https://news.cctv.com/2025/06/14/ARTIkWq2yRhnxsNJRoXJ8HoB250614.shtml)
 
++ [第四届中非经贸博览会：冈比亚新农人见证中非农业友好合作](https://news.cctv.com/2025/06/14/ARTIrWqYrlkrKp54UbRdnC7v250614.shtml)
+
