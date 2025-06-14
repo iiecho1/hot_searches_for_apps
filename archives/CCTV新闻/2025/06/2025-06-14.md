@@ -235,3 +235,5 @@
 
 + [专访丨美国关税措施造成“多输局面”——访欧洲央行行长拉加德](https://news.cctv.com/2025/06/14/ARTINWTcGwYnlPKMzq3WiC30250614.shtml)
 
++ [加沙南部物资分发点附近民众遭枪击 27人死亡](https://news.cctv.com/2025/06/14/ARTIkWq2yRhnxsNJRoXJ8HoB250614.shtml)
+
