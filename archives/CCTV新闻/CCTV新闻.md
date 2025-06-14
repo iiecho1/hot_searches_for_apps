@@ -245,3 +245,11 @@
 
 + [新闻分析丨G7峰会在即 加拿大为何要放弃达成公报](https://news.cctv.com/2025/06/14/ARTIqZQ3cyaUNW4PGGcdgZA5250614.shtml)
 
++ [南非东开普省洪灾死亡人数升至86人](https://news.cctv.com/2025/06/14/ARTIHY9tmtqaTBvsj6jWROfE250614.shtml)
+
++ [日本学者呼吁返还战时被掠中国文物](https://news.cctv.com/2025/06/14/ARTI5y65nhrSa2JSDLgh4jDW250614.shtml)
+
++ [伊朗媒体称伊防空部队又击落一架以色列F-35战机](https://news.cctv.com/2025/06/14/ARTI2g2uZaO20TgFQnPLxobZ250614.shtml)
+
++ [韩总统要求制定对策预防及惩处对朝散布传单行为](https://news.cctv.com/2025/06/14/ARTIBjFVND0dTxV67yTgsWfS250614.shtml)
+
