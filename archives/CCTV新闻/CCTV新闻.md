@@ -181,3 +181,5 @@
 
 + [英国正将喷气式飞机等军事资源向中东转移](https://news.cctv.com/2025/06/15/ARTIYceTUD7A1YERxGDzBX74250615.shtml)
 
++ [美媒：政府暂停在“关键行业”工作场所抓捕非法移民](https://news.cctv.com/2025/06/15/ARTIAjK8n6jrfw87CSFzfh1Q250615.shtml)
+
