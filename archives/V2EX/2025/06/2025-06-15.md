@@ -37,3 +37,7 @@
 
 + [求助，关于新手第一辆公路车的选择](https://www.v2ex.com/t/1138618)
 
++ [抖音导致 Pppoe 被强制 T 下线](https://www.v2ex.com/t/1138608)
+
++ [有 ai 辅助后，学习曲线这东西越来越模糊了。](https://www.v2ex.com/t/1138632)
+

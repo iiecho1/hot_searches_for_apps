@@ -205,3 +205,9 @@
 
 + [美军提升全境军事设施安保等级](https://news.cctv.com/2025/06/15/ARTIf2Hj0oc9bqgLzE2T2RyZ250615.shtml)
 
++ [伊朗新一轮导弹袭击已致以色列超200人死伤](https://news.cctv.com/2025/06/15/ARTI8CBJMm1QfyXyhXiEXLoQ250615.shtml)
+
++ [李在明再提恢复韩朝对话合作 强调“和平就是经济”](https://news.cctv.com/2025/06/15/ARTIvtEw4Jl75zbBBQESIo0l250615.shtml)
+
++ [伊朗发动新一轮导弹袭击 以色列一科学研究院遭袭起火](https://news.cctv.com/2025/06/15/ARTISGwdwyeXw6Kw3iy0DsKR250615.shtml)
+
