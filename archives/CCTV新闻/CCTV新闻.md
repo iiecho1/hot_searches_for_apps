@@ -171,3 +171,13 @@
 
 + [莫桑比克北部地方武装打死18名恐怖分子](https://news.cctv.com/2025/06/16/ARTIHJMNdenI3qBoMTwVUZsv250616.shtml)
 
++ [伊朗卫生部：以色列袭击两天内已致128人死亡](https://news.cctv.com/2025/06/16/ARTI1j5Ggqe30x5gPR0tseb5250616.shtml)
+
++ [以总理：如伊朗放弃核计划 以色列愿停止行动](https://news.cctv.com/2025/06/16/ARTIG5CJwnzJMLLs0QTujf0g250616.shtml)
+
++ [美警方发现明尼苏达州枪击案嫌疑人的第二辆车](https://news.cctv.com/2025/06/16/ARTIwN6DpX3FMzzWWI52IL5W250616.shtml)
+
++ [乌称伊朗袭击以色列巴特亚姆致5名乌克兰人死亡](https://news.cctv.com/2025/06/16/ARTIpO0ZDl2l5UKpPR2oj1PX250616.shtml)
+
++ [犯罪案件频发 秘鲁首都利马再延长紧急状态30天](https://news.cctv.com/2025/06/16/ARTI3L9U1ay5Mc8Ty5wWSLq1250616.shtml)
+
