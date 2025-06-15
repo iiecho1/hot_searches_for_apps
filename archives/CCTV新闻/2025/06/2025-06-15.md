@@ -225,3 +225,5 @@
 
 + [加沙地带物资分发点再次发生枪击事件 致2死超50伤](https://news.cctv.com/2025/06/15/ARTIyTNWIBeYJkgtwQUmOzN5250615.shtml)
 
++ [专访丨人文交流为哈中关系发展不断注入新动力——访哈萨克斯坦文化与信息部部长巴拉耶娃](https://news.cctv.com/2025/06/15/ARTIaNGUD678gwpoLBFqpQU3250615.shtml)
+
