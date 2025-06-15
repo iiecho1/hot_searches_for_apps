@@ -219,3 +219,9 @@
 
 + [胡塞武装称使用导弹袭击以色列特拉维夫并命中目标](https://news.cctv.com/2025/06/15/ARTI9aKwmaJTBol85CZTcuJI250615.shtml)
 
++ [特朗普：若伊朗对美发动攻击 美国将“以空前规模全力回击”](https://news.cctv.com/2025/06/15/ARTIMwYSur4V2V3dGUBTDuto250615.shtml)
+
++ [伊朗新一轮导弹袭击已致以色列10死超200伤](https://news.cctv.com/2025/06/15/ARTIugWt5qPo1MWueFB078q4250615.shtml)
+
++ [加沙地带物资分发点再次发生枪击事件 致2死超50伤](https://news.cctv.com/2025/06/15/ARTIyTNWIBeYJkgtwQUmOzN5250615.shtml)
+
