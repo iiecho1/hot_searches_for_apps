@@ -181,3 +181,5 @@
 
 + [犯罪案件频发 秘鲁首都利马再延长紧急状态30天](https://news.cctv.com/2025/06/16/ARTI3L9U1ay5Mc8Ty5wWSLq1250616.shtml)
 
++ [视频丨印度一大桥坍塌 致6人死亡25人失踪](https://news.cctv.com/2025/06/16/ARTIM60zq0KjyFVhKp6mLG2u250616.shtml)
+

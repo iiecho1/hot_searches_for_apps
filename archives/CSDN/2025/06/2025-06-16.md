@@ -131,3 +131,5 @@
 
 + [青少年编程与数学 01-011 系统软件简介 17 Hadoop大数据处理框架](https://blog.csdn.net/qq_40071585/article/details/148622882)
 
++ [AWS EC2和RDS从0开始创建（免费版＋初学者版）](https://blog.csdn.net/WUSITING9647/article/details/148673205)
+
