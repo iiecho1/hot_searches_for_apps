@@ -51,3 +51,5 @@
 
 + [公司用的 mac ,目前家里是 win. 突然想到是否家里也换个 mac 代码放到 cloud 里面](https://www.v2ex.com/t/1138628)
 
++ [最近看了下 svelte, 感觉不错, 打算在后面项目正式用起来, 有啥建议吗](https://www.v2ex.com/t/1138660)
+
