@@ -161,3 +161,7 @@
 
 + [以军称伊朗大不里士的空军基地被完全摧毁](https://news.cctv.com/2025/06/14/ARTIO2gOJjFFdL3aeo3TOfSs250614.shtml)
 
++ [埃及总统：必须结束以色列在“所有地区战线”的军事行动](https://news.cctv.com/2025/06/16/ARTIwlTarSoyoLTECwvuj5J7250616.shtml)
+
++ [伊朗称以色列在德黑兰引爆汽车炸弹 以方否认](https://news.cctv.com/2025/06/16/ARTIcUQGYAsEc0VIlvW253Gx250616.shtml)
+

@@ -101,3 +101,13 @@
 
 + [SpatialLM：群核科技开源大模型，3D空间理解精度86.5%、零样本学习能力惊艳](https://blog.csdn.net/xiaobing259/article/details/148617377)
 
++ [嵌入式linux实战项目：基于立创泰山派的网络AI摄像头](https://blog.csdn.net/qq_53686293/article/details/148673403)
+
++ [Java 大视界 -- Java 大数据在智能安防视频监控系统中的目标行为识别与异常事件预警（301）](https://blog.csdn.net/atgfg/article/details/148620330)
+
++ [简历模板3——数据挖掘工程师5年经验](https://blog.csdn.net/absolete/article/details/148659545)
+
++ [ELK日志分析系统](https://blog.csdn.net/YUNYINGXIA/article/details/148640670)
+
++ [unity学习摘要](https://blog.csdn.net/qq_23923713/article/details/148642157)
+

@@ -25,3 +25,27 @@
 
 + [华为 Pura 80 系列手机服务权益公布，含免费清洁保养、维修期间高端备用机等](https://m.ithome.com/html/860920.htm)
 
++ [网传北京多所高校禁用罗马仕充电宝，工作人员回应“自燃概率比较高”](https://m.ithome.com/html/860805.htm)
+
++ [罗马仕回应“北京多所高校禁用其充电宝”：将对经鉴定有缺陷产品担责](https://m.ithome.com/html/860870.htm)
+
++ [华为悄悄上线新版 Petal One 付费会员：三档可选至高可获“新品优先购资格”，连续包月 29 元起](https://m.ithome.com/html/860809.htm)
+
++ [苹果重发 iOS 26 Beta 1 测试版，修复 iPhone 15/16 系列机型无法启动故障](https://m.ithome.com/html/860763.htm)
+
++ [6499 元起，华为 Pura 80 Pro / Pro+ 两款手机今日开售](https://m.ithome.com/html/860811.htm)
+
++ [小米汽车固态电池专利公布，新能源行业竞赛加速](https://m.ithome.com/html/860883.htm)
+
++ [OPPO ColorOS 设计总监陈希再谈“不跟进”iOS 26 设计：是指三方应用厂商不跟](https://m.ithome.com/html/860833.htm)
+
++ [苹果 iOS 26 增强 CarPlay：界面针对车载屏幕尺寸 / 形状智能缩放](https://m.ithome.com/html/860785.htm)
+
++ [16+512G 国补后立打 6 折：一加 13 手机 3120 元新低，采用骁龙 8 至尊版](https://m.ithome.com/html/860814.htm)
+
++ [印度波音 787 坠机事故遇难人数升至 279 人](https://m.ithome.com/html/860839.htm)
+
++ [消息称 2025 年不会有比华为 1/1.28&quot; RYYB 潜望镜底更大的方案出现](https://m.ithome.com/html/860859.htm)
+
++ [不再是 iPhone / Apple Watch 独占，实时活动将登陆 iPadOS / macOS 26](https://m.ithome.com/html/860770.htm)
+
