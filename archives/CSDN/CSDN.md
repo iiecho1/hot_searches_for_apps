@@ -165,3 +165,9 @@
 
 + [【EdgeAI实战】（3）边缘AI开发套件 STM32N6570X0 用户手册](https://blog.csdn.net/youcans/article/details/148586380)
 
++ [华为云Flexus+DeepSeek征文 | 模型即服务（MaaS）安全攻防：企业级数据隔离方案](https://blog.csdn.net/IRpickstars/article/details/148650235)
+
++ [区块链与人工智能的融合：从信任到智能的IT新引擎](https://blog.csdn.net/SDFsoul/article/details/148656614)
+
++ [【Java 开发日记】你会不会使用 SpringBoot 整合 Flowable 快速实现工作流呢？](https://blog.csdn.net/2402_87298751/article/details/148666102)
+
