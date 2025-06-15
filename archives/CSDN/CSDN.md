@@ -151,3 +151,9 @@
 
 + [AI时代志愿填报新策略，北大清华专家携手AI，为你破译志愿填报密码](https://blog.csdn.net/qq_32682301/article/details/148622252)
 
++ [MaxKB源码部署与DeepSeek应用(ubuntu22.04)](https://blog.csdn.net/taogumo/article/details/148653593)
+
++ [Design Compiler：解组(Ungroup)](https://blog.csdn.net/weixin_45791458/article/details/147079093)
+
++ [三维重建 —— 1. 摄像机几何](https://blog.csdn.net/2501_90669630/article/details/148586407)
+

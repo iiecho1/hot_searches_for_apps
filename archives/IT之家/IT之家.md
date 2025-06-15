@@ -55,3 +55,5 @@
 
 + [印度政府考虑停飞波音 787 型客机](https://m.ithome.com/html/860624.htm)
 
++ [当当网创始人李国庆与俞渝就财产分割达成最终和解，宣布进军 AI 领域](https://m.ithome.com/html/860743.htm)
+

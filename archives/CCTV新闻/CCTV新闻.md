@@ -185,3 +185,7 @@
 
 + [独家视频丨伊朗开始对以色列发动新一轮导弹袭击](https://news.cctv.com/2025/06/15/ARTIp9mgEiE0xBgsLwDygi8V250615.shtml)
 
++ [刚果（金）首都强降雨至少19人死亡](https://news.cctv.com/2025/06/15/ARTIRV8DzR7Nfvr6xY0JWu8m250615.shtml)
+
++ [伊朗伊斯法罕核设施遭袭后外部辐射水平未有变化](https://news.cctv.com/2025/06/15/ARTI8Kqx1f2wUj5pJXhZ8loi250615.shtml)
+
