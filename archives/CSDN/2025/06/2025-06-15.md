@@ -199,3 +199,15 @@
 
 + [【Flutter】程序报错导致的灰屏总结](https://blog.csdn.net/u014220518/article/details/148658876)
 
++ [（二十七）深度解析领域特定语言（DSL）第五章——词法分析：基于状态机的词法分析器](https://blog.csdn.net/weixin_46217641/article/details/148623491)
+
++ [使用Docker快速部署openGauss数据库](https://blog.csdn.net/qq_41840843/article/details/148650048)
+
++ [linux开机原理以及如何开关机-linux023](https://blog.csdn.net/weixin_44874487/article/details/148659348)
+
++ [Elasticsearch9 + 通义大模型实现语义检索操作详解](https://blog.csdn.net/zhangcongyi420/article/details/148650090)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | AnimatedNavigation（动态导航）](https://blog.csdn.net/qq_44808710/article/details/148659262)
+
++ [【系统分析师】2009年真题：案例分析-答案及详解](https://blog.csdn.net/cui_yonghua/article/details/148658466)
+
