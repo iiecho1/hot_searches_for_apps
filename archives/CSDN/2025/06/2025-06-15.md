@@ -181,3 +181,9 @@
 
 + [【Linux】初见，进程概念](https://blog.csdn.net/huangyuchi/article/details/148590685)
 
++ [ProRL：基于长期强化学习让1.5B小模型推理能力超越7B大模型](https://blog.csdn.net/m0_46510245/article/details/148666942)
+
++ [Java 大视界 -- 基于 Java 的大数据分布式计算在气象灾害预警与应急响应中的应用（304）](https://blog.csdn.net/atgfg/article/details/148660171)
+
++ [使用 Azure LLM Functions 与 Elasticsearch 构建更智能的查询体验](https://blog.csdn.net/UbuntuTouch/article/details/148655667)
+

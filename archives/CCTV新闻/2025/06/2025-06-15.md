@@ -227,3 +227,9 @@
 
 + [专访丨人文交流为哈中关系发展不断注入新动力——访哈萨克斯坦文化与信息部部长巴拉耶娃](https://news.cctv.com/2025/06/15/ARTIaNGUD678gwpoLBFqpQU3250615.shtml)
 
++ [央视记者直击丨全美多地爆发2000余起大规模抗议活动](https://news.cctv.com/2025/06/15/ARTI3XzdrfI33rX6CVH1OsPH250615.shtml)
+
++ [印度一直升机坠毁致7人遇难](https://news.cctv.com/2025/06/15/ARTIl3tdZrgmBad3TocExoqe250615.shtml)
+
++ [俄罗斯奔萨机场实施临时航空管制](https://news.cctv.com/2025/06/15/ARTIQyYjy36F0l9pXQne8uuU250615.shtml)
+
