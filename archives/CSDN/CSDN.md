@@ -211,3 +211,11 @@
 
 + [【系统分析师】2009年真题：案例分析-答案及详解](https://blog.csdn.net/cui_yonghua/article/details/148658466)
 
++ [AI首次自主发现人工生命](https://blog.csdn.net/2501_91883294/article/details/148660326)
+
++ [Spring中观察者模式的应用](https://blog.csdn.net/qq_30621637/article/details/148658539)
+
++ [1 Studying《Arm A715 Software Optimization Guide》](https://blog.csdn.net/u012906122/article/details/148659924)
+
++ [第五章 决策树](https://blog.csdn.net/qq_53983845/article/details/148618434)
+

@@ -237,3 +237,7 @@
 
 + [伊朗领空将关闭至16日凌晨 客运以铁路和公路为主](https://news.cctv.com/2025/06/15/ARTI5jQmPtRpP1WQ8LvvmfV3250615.shtml)
 
++ [以色列内阁批准将全国紧急状态延长至6月30日](https://news.cctv.com/2025/06/15/ARTIfWHvIThnwyvk1FQhZZhr250615.shtml)
+
++ [俄媒：俄方再向乌方移交1200具乌克兰军人遗体](https://news.cctv.com/2025/06/15/ARTIdIN5pHie0tyuXR0g1r6f250615.shtml)
+
