@@ -169,3 +169,5 @@
 
 + [内塔尼亚胡证实以色列打死伊朗情报部门负责人](https://news.cctv.com/2025/06/16/ARTIzFKW4YPGbvmXVEa6YvLb250616.shtml)
 
++ [莫桑比克北部地方武装打死18名恐怖分子](https://news.cctv.com/2025/06/16/ARTIHJMNdenI3qBoMTwVUZsv250616.shtml)
+

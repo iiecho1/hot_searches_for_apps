@@ -49,3 +49,9 @@
 
 + [不再是 iPhone / Apple Watch 独占，实时活动将登陆 iPadOS / macOS 26](https://m.ithome.com/html/860770.htm)
 
++ [荣耀罗巍评友商影像旗舰：长焦机械结构很精巧但有点炫技没有实际用处，大胆预测下代会放弃](https://m.ithome.com/html/860918.htm)
+
++ [赛力斯康波：“品牌”已经是问界 M8 首批车主购车最为重要的决策原因之一](https://m.ithome.com/html/860868.htm)
+
++ [上市 2 月立打 7 折：一加 13T 手机 12+256G 国补后 2285 元新低](https://m.ithome.com/html/860893.htm)
+

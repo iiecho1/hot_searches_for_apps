@@ -123,3 +123,7 @@
 
 + [web方向第一次考核内容](https://blog.csdn.net/qq_73334598/article/details/148618692)
 
++ [华为云Flexus+DeepSeek征文｜基于华为云Flexus X实例与ModelArts Studio部署AI客户端LobeChat聊天机器人](https://blog.csdn.net/jks212454/article/details/148640439)
+
++ [基于Spring Boot非遗文化宣传推荐平台设计和实现-开题报告](https://blog.csdn.net/weixin_39709134/article/details/148653227)
+
