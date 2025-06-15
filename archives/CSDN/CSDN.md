@@ -127,3 +127,7 @@
 
 + [基于Spring Boot非遗文化宣传推荐平台设计和实现-开题报告](https://blog.csdn.net/weixin_39709134/article/details/148653227)
 
++ [AIGC时代API设计范式重构：从数据管道到智能交互层的深度跃迁](https://blog.csdn.net/qq_32682301/article/details/148676535)
+
++ [青少年编程与数学 01-011 系统软件简介 17 Hadoop大数据处理框架](https://blog.csdn.net/qq_40071585/article/details/148622882)
+
