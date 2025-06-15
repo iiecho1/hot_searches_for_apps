@@ -55,3 +55,11 @@
 
 + [上市 2 月立打 7 折：一加 13T 手机 12+256G 国补后 2285 元新低](https://m.ithome.com/html/860893.htm)
 
++ [新一代华为手表无线充电换代说明发布：5 月后推出的新品使用历史充电底座存在体验差异](https://m.ithome.com/html/860873.htm)
+
++ [华为 Pura 80 系列手机全系搭载 HDR Vivid 菁彩影像技术](https://m.ithome.com/html/860846.htm)
+
++ [CDPR 展示《赛博朋克 2077》苹果 MacBook Pro 运行效果：M4 Max 平台可实现极致画质 120 帧](https://m.ithome.com/html/860851.htm)
+
++ [宁波公开一起危险驾驶案：司机无证酒后开智驾上高速追尾，辩称“未实施驾驶行为”被判拘役 3 个月](https://m.ithome.com/html/860872.htm)
+
