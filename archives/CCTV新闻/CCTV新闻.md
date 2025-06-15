@@ -165,3 +165,7 @@
 
 + [伊朗称以色列在德黑兰引爆汽车炸弹 以方否认](https://news.cctv.com/2025/06/16/ARTIcUQGYAsEc0VIlvW253Gx250616.shtml)
 
++ [秘鲁发生6.1级地震 首都利马震感强烈](https://news.cctv.com/2025/06/16/ARTIMfehWlwvQbWH4xhgOihR250616.shtml)
+
++ [内塔尼亚胡证实以色列打死伊朗情报部门负责人](https://news.cctv.com/2025/06/16/ARTIzFKW4YPGbvmXVEa6YvLb250616.shtml)
+

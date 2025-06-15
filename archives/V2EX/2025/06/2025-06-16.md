@@ -17,3 +17,5 @@
 
 + [修自行车花了 80](https://www.v2ex.com/t/1138714)
 
++ [iPadOS26 以后 iPad 可以作为轻度使用的电脑了吧](https://www.v2ex.com/t/1138701)
+

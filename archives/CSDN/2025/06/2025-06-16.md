@@ -111,3 +111,15 @@
 
 + [unity学习摘要](https://blog.csdn.net/qq_23923713/article/details/148642157)
 
++ [Pytorch 卷积神经网络参数说明一](https://blog.csdn.net/qq_51294669/article/details/148656200)
+
++ [RabbitMQ 知识详解（Java版）](https://blog.csdn.net/yuren_xia/article/details/148657345)
+
++ [基于SpringBoot和Leaflet的电影票房时序展示-以《哪吒2》为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/148646995)
+
++ [纯 CSS 实现的的3种扫光效果](https://blog.csdn.net/sheldon178/article/details/148659557)
+
++ [Elasticsearch：什么是混合搜索?](https://blog.csdn.net/UbuntuTouch/article/details/148668424)
+
++ [web方向第一次考核内容](https://blog.csdn.net/qq_73334598/article/details/148618692)
+
