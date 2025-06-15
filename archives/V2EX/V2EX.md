@@ -27,3 +27,13 @@
 
 + [如何使用 fdisk 创建正确的 swap 分区？](https://www.v2ex.com/t/1138590)
 
++ [请问有没有什么办法能批量把 docx 格式转成 doc 格式](https://www.v2ex.com/t/1138561)
+
++ [[远程] 急招中高级运维（k8s 方向）薪资 14k-18k](https://www.v2ex.com/t/1138595)
+
++ [有哪些开源项目是比较值得捐赠的？](https://www.v2ex.com/t/1138596)
+
++ [ChatGPT 选股还是有点用的](https://www.v2ex.com/t/1138564)
+
++ [求助，关于新手第一辆公路车的选择](https://www.v2ex.com/t/1138618)
+

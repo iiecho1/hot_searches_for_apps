@@ -189,3 +189,19 @@
 
 + [伊朗伊斯法罕核设施遭袭后外部辐射水平未有变化](https://news.cctv.com/2025/06/15/ARTI8Kqx1f2wUj5pJXhZ8loi250615.shtml)
 
++ [中东危情48小时 以色列伊朗持续互袭 俄美首脑通话讨论局势](https://news.cctv.com/2025/06/15/ARTIkEaDz4Jfn4Oi2Xr3Zswa250615.shtml)
+
++ [以色列国家安全总局局长巴尔宣布辞职](https://news.cctv.com/2025/06/15/ARTISRpxZIjurLYveMrpR9nm250615.shtml)
+
++ [美国明尼苏达州两名州议员遭枪击，特朗普发声：绝不容忍](https://news.cctv.com/2025/06/15/ARTISfzfMVr8NelEu4S9Yrou250615.shtml)
+
++ [伊朗多枚导弹袭击以色列特拉维夫 多人受伤](https://news.cctv.com/2025/06/15/ARTI1oRO6KxZ2DZdAdTEfKXq250615.shtml)
+
++ [以军称空袭伊朗国防部总部、核计划总部及多处石油设施](https://news.cctv.com/2025/06/15/ARTITBO7qlty2fIuWzYT3y05250615.shtml)
+
++ [以军袭击也门和伊朗 目标包括“胡塞武装高层领导人秘密会议”](https://news.cctv.com/2025/06/15/ARTI0FIUAgYvzioqrVy2ZlDB250615.shtml)
+
++ [伊朗总统：若以色列继续袭击就不会有伊美谈判](https://news.cctv.com/2025/06/15/ARTIeHe6mJgKhcbdHdxZpRIv250615.shtml)
+
++ [美军提升全境军事设施安保等级](https://news.cctv.com/2025/06/15/ARTIf2Hj0oc9bqgLzE2T2RyZ250615.shtml)
+
