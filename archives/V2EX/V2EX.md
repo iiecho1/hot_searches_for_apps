@@ -45,3 +45,9 @@
 
 + [完犊子了，我妈被洗脑了](https://www.v2ex.com/t/1138669)
 
++ [iOS 26 有什么恶性 Bug 吗？](https://www.v2ex.com/t/1138653)
+
++ [刚入手了 3D 打印机，求入门教程推荐](https://www.v2ex.com/t/1138639)
+
++ [公司用的 mac ,目前家里是 win. 突然想到是否家里也换个 mac 代码放到 cloud 里面](https://www.v2ex.com/t/1138628)
+

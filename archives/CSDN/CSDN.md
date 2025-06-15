@@ -187,3 +187,7 @@
 
 + [使用 Azure LLM Functions 与 Elasticsearch 构建更智能的查询体验](https://blog.csdn.net/UbuntuTouch/article/details/148655667)
 
++ [RFC4291-IPv6地址架构](https://blog.csdn.net/Once_day/article/details/148670813)
+
++ [C++中的零拷贝技术](https://blog.csdn.net/qq2745567641/article/details/148640246)
+
