@@ -163,3 +163,5 @@
 
 + [第1章 C# 和 .NET 框架 笔记](https://blog.csdn.net/z2014z/article/details/148659211)
 
++ [【EdgeAI实战】（3）边缘AI开发套件 STM32N6570X0 用户手册](https://blog.csdn.net/youcans/article/details/148586380)
+
