@@ -211,3 +211,9 @@
 
 + [机场收到炸弹威胁 德国汉莎航空飞往印度一航班被迫返航](https://news.cctv.com/2025/06/16/ARTI7QfH74XKY60dwoTOj544250616.shtml)
 
++ [伊朗总统重申伊朗不寻求核武器](https://news.cctv.com/2025/06/16/ARTIRXRZP7FAAfF0nS5XCe3E250616.shtml)
+
++ [竖屏微视频｜古道新程 共促繁荣](https://news.cctv.com/2025/06/16/ARTItMiaj33HInFEpFbWdnDC250616.shtml)
+
++ [习主席的丝路故事——听习主席和中亚好伙伴话合作丨 “中哈关系将像金鹰展翅高飞”](https://news.cctv.com/2025/06/16/ARTISeaCiPneq4Z8ltQdmXzP250616.shtml)
+
