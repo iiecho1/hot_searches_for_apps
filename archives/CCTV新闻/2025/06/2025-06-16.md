@@ -217,3 +217,13 @@
 
 + [习主席的丝路故事——听习主席和中亚好伙伴话合作丨 “中哈关系将像金鹰展翅高飞”](https://news.cctv.com/2025/06/16/ARTISeaCiPneq4Z8ltQdmXzP250616.shtml)
 
++ [特稿丨循驼铃古道赴现代化新程：习近平主席推动深化中国－中亚合作的故事](https://news.cctv.com/2025/06/16/ARTI7BkYWEHRiCAFWvtP3ikk250616.shtml)
+
++ [习近平抵达阿斯塔纳出席第二届中国—中亚峰会](https://news.cctv.com/2025/06/16/ARTIPs74XgHXLpKXgyb3PPCz250616.shtml)
+
++ [加拿大本拿比市就历史上歧视华人作出正式道歉](https://news.cctv.com/2025/06/16/ARTIAc5PXyicTrcNPUYBmfDw250616.shtml)
+
++ [普京愿当以伊冲突调解人 特朗普接受、马克龙反对](https://news.cctv.com/2025/06/16/ARTIIROzSlwt9POFISTUKA7F250616.shtml)
+
++ [柬埔寨警告禁止泰国农产品入境](https://news.cctv.com/2025/06/16/ARTIhGFTF4Yp72BIZ9ZQdDwH250616.shtml)
+
