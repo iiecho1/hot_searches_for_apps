@@ -165,3 +165,15 @@
 
 + [俄国防部说已向乌移交6000多具乌阵亡军人遗体](https://news.cctv.com/2025/06/17/ARTIXSNMHvfW05L8mGAhbuUN250616.shtml)
 
++ [巴媒：以军在加沙援助物资分发点附近打死至少20人](https://news.cctv.com/2025/06/17/ARTIDywb8KEoOzqlInBxZ8HT250617.shtml)
+
++ [伊朗红新月会3名救援人员遭以军空袭死亡](https://news.cctv.com/2025/06/17/ARTIdgJ778kJkuO8Kqe584Si250617.shtml)
+
++ [以军称监测到伊朗发射导弹 以多地拉响防空警报](https://news.cctv.com/2025/06/17/ARTIrv7DCNf5P9Jegj28VbtG250617.shtml)
+
++ [哥伦比亚遭枪击总统参选人情况恶化 紧急接受脑出血手术](https://news.cctv.com/2025/06/17/ARTI9GA4JlJeXpnb22o5ZTKp250617.shtml)
+
++ [厄瓜多尔主要输油管道发生破裂 暂停原油输送](https://news.cctv.com/2025/06/17/ARTIfxGMGT5fzlPR6nmoliQf250617.shtml)
+
++ [特朗普：美国将暂缓对俄罗斯实施制裁](https://news.cctv.com/2025/06/17/ARTImQXrZqLZIciytZYgpoHe250617.shtml)
+
