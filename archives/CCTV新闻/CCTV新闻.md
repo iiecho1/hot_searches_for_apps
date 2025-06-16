@@ -183,3 +183,13 @@
 
 + [视频丨印度一大桥坍塌 致6人死亡25人失踪](https://news.cctv.com/2025/06/16/ARTIM60zq0KjyFVhKp6mLG2u250616.shtml)
 
++ [李在明涉朝最新表态：将尽早恢复韩朝对话渠道](https://news.cctv.com/2025/06/16/ARTIgqUn2rqKGPW8WUjUXAVh250616.shtml)
+
++ [也门胡塞武装否认高级将领遭“定点清除”](https://news.cctv.com/2025/06/16/ARTIB558e4ijOPHNBldXfICy250616.shtml)
+
++ [特朗普称美国“有可能”介入以伊冲突](https://news.cctv.com/2025/06/16/ARTIueZzf2GwL7qeHtQbhExt250616.shtml)
+
++ [刚果（金）首都强降雨死亡人数升至29人](https://news.cctv.com/2025/06/16/ARTIBJZGaoWN6ljeVsdn2J1a250616.shtml)
+
++ [印度空难客机两个黑匣子均已找到](https://news.cctv.com/2025/06/16/ARTI6ykvTFc9NzCMbiE7tCGd250616.shtml)
+

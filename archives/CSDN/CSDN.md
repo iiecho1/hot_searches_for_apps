@@ -133,3 +133,5 @@
 
 + [AWS EC2和RDS从0开始创建（免费版＋初学者版）](https://blog.csdn.net/WUSITING9647/article/details/148673205)
 
++ [【SQLAlchemy系列】 SQLAlchemy 中的多条件查询：or*与 in*操作符](https://blog.csdn.net/qyj19920704/article/details/148571442)
+
