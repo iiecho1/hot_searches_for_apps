@@ -155,3 +155,11 @@
 
 + [Vue3 + Element Plus中el-table加载状态分析](https://blog.csdn.net/BillKu/article/details/148640285)
 
++ [10分钟学会使用.Net技术开发一个Ai智能体应用-小智esp32](https://blog.csdn.net/zhulige/article/details/148659384)
+
++ [2025开发者工具链革命：AI赋能的效率跃迁](https://blog.csdn.net/Dreamy_zsy/article/details/148681181)
+
++ [Spring Boot性能优化实践：如何让你的应用跑得更快？看完此篇你就懂了。](https://blog.csdn.net/weixin_43970743/article/details/148673654)
+
++ [GStreamer开发笔记（七）：gstreamer播放ogg详解](https://blog.csdn.net/qq21497936/article/details/148684380)
+

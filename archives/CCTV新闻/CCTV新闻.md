@@ -203,3 +203,5 @@
 
 + [美媒称特朗普否决以色列刺杀哈梅内伊计划](https://news.cctv.com/2025/06/16/ARTINbiezAclL1IzQKNrkitL250616.shtml)
 
++ [伊朗总统再次强调“坚决抵抗以色列侵略”](https://military.cctv.com/2025/06/16/ARTIoycXcFjBTZnwtIswkyeU250616.shtml)
+
