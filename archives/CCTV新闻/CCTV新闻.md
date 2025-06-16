@@ -197,3 +197,7 @@
 
 + [马克龙访问格陵兰岛 传达欧洲的支持](https://news.cctv.com/2025/06/16/ARTIusz7sV1nblPRn6VkETqI250616.shtml)
 
++ [伊朗对以色列发动第八轮导弹袭击](https://military.cctv.com/2025/06/16/ARTINESLSeAdCYYDk6ffiQHY250616.shtml)
+
++ [以军称成功打击伊朗武器生产基地](https://news.cctv.com/2025/06/16/ARTIq894mrqljdlYYWMWvUBZ250616.shtml)
+
