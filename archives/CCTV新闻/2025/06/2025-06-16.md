@@ -235,3 +235,11 @@
 
 + [部分建筑被破坏 国际原子能机构公布伊朗核设施受损情况](https://news.cctv.com/2025/06/16/ARTIBOHEQtzwT2HlaSuL7IFw250616.shtml)
 
++ [国家主席习近平同哈萨克斯坦总统托卡耶夫举行会谈](https://news.cctv.com/2025/06/16/ARTIBNAG3e8KsAIKhJeGJCZ2250616.shtml)
+
++ [波音787再出状况 日本一客机着陆后“抛锚”](https://news.cctv.com/2025/06/16/ARTIO53lLACNTMZf1j2XeX3C250616.shtml)
+
++ [土俄领导人通话 讨论伊以冲突等议题](https://news.cctv.com/2025/06/16/ARTIul7YpjRnmQCpTVrfpofV250616.shtml)
+
++ [美国明尼苏达州议员遭枪击案嫌疑人被捕](https://news.cctv.com/2025/06/16/ARTI6OgIaFBJLN7dMBNnYPMA250616.shtml)
+
