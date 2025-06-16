@@ -233,3 +233,5 @@
 
 + [以色列称摧毁伊朗超三成地对地导弹发射装置](https://news.cctv.com/2025/06/16/ARTIGFsUG3UUB16mtrkDb80T250616.shtml)
 
++ [部分建筑被破坏 国际原子能机构公布伊朗核设施受损情况](https://news.cctv.com/2025/06/16/ARTIBOHEQtzwT2HlaSuL7IFw250616.shtml)
+

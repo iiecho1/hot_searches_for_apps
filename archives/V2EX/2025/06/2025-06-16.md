@@ -41,3 +41,5 @@
 
 + [电脑小白求助，电脑打游戏时老是断电式关机，各位大哥有没有 debug 建议](https://www.v2ex.com/t/1138851)
 
++ [iPhone13mini，目前是 ios15.7，有必要升级 18.5 吗](https://www.v2ex.com/t/1138776)
+
