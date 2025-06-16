@@ -135,3 +135,15 @@
 
 + [【SQLAlchemy系列】 SQLAlchemy 中的多条件查询：or*与 in*操作符](https://blog.csdn.net/qyj19920704/article/details/148571442)
 
++ [【AI大模型】Elasticsearch9 + 通义大模型实现语义检索操作详解](https://blog.csdn.net/zhangcongyi420/article/details/148650090)
+
++ [使用C/C++的OpenCV 构建人脸识别并自动抓拍系统](https://blog.csdn.net/m0_54069809/article/details/148649403)
+
++ [【Rust微服务】Rust结合grpc构建跨平台的微服务](https://blog.csdn.net/littlefun591/article/details/148637628)
+
++ [4步使用 vue3 路由](https://blog.csdn.net/wh_xia_jun/article/details/148636152)
+
++ [TCP 协议](https://blog.csdn.net/baidu_17707883/article/details/148658187)
+
++ [Spark DAG、Stage 划分与 Task 调度底层原理深度剖析](https://blog.csdn.net/m0_73889530/article/details/148657045)
+

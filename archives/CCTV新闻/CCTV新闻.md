@@ -193,3 +193,7 @@
 
 + [印度空难客机两个黑匣子均已找到](https://news.cctv.com/2025/06/16/ARTI6ykvTFc9NzCMbiE7tCGd250616.shtml)
 
++ [以媒爆：以总理内塔尼亚胡等七人小组过去一年定期讨论对伊朗发动袭击](https://news.cctv.com/2025/06/16/ARTI3aP6wWbRilqgEuxMnLUS250616.shtml)
+
++ [马克龙访问格陵兰岛 传达欧洲的支持](https://news.cctv.com/2025/06/16/ARTIusz7sV1nblPRn6VkETqI250616.shtml)
+
