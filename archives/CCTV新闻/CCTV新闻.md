@@ -229,3 +229,7 @@
 
 + [壹视界·微视频｜在中亚探访“中国风车”，看习主席关心的能源合作不断深化](https://news.cctv.com/2025/06/16/ARTIeYFZwUlOdAJWlhchF1Gu250616.shtml)
 
++ [独家视频丨习近平抵达阿斯塔纳出席第二届中国—中亚峰会](https://news.cctv.com/2025/06/16/ARTIIrozf3EgUAx7FdQiGi9K250616.shtml)
+
++ [以色列称摧毁伊朗超三成地对地导弹发射装置](https://news.cctv.com/2025/06/16/ARTIGFsUG3UUB16mtrkDb80T250616.shtml)
+
