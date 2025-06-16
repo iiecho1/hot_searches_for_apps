@@ -21,3 +21,21 @@
 
 + [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 
++ [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
+
++ [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
++ [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
++ [immich-app/immich](https://github.com/immich-app/immich)
+
++ [huggingface/lerobot](https://github.com/huggingface/lerobot)
+
++ [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+
++ [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
++ [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+
++ [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
+
