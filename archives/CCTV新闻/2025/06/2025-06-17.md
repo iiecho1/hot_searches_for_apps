@@ -163,3 +163,5 @@
 
 + [内塔尼亚胡称以空军已掌控德黑兰领空](https://news.cctv.com/2025/06/17/ARTI2wqNXgAnHpv3p8GTFp1t250616.shtml)
 
++ [俄国防部说已向乌移交6000多具乌阵亡军人遗体](https://news.cctv.com/2025/06/17/ARTIXSNMHvfW05L8mGAhbuUN250616.shtml)
+
