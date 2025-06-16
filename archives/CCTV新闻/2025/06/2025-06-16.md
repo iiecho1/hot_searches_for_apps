@@ -201,3 +201,5 @@
 
 + [以军称成功打击伊朗武器生产基地](https://news.cctv.com/2025/06/16/ARTIq894mrqljdlYYWMWvUBZ250616.shtml)
 
++ [美媒称特朗普否决以色列刺杀哈梅内伊计划](https://news.cctv.com/2025/06/16/ARTINbiezAclL1IzQKNrkitL250616.shtml)
+
