@@ -65,3 +65,15 @@
 
 + [国补后立打 6 折：REDMI K80 手机 12+256GB 京东自营 1528.8 元新低](https://m.ithome.com/html/861022.htm)
 
++ [雷军：大家非常期待的小米 YU7 将于 6 月底发布，第二款玄戒 O1 平板 7S Pro 一同发布](https://m.ithome.com/html/861091.htm)
+
++ [消息称苹果人工智能部门负责人 John Giannandrea 遭降职，WWDC25 中并未露面](https://m.ithome.com/html/861067.htm)
+
++ [车主 5 年接 107 单顺风车出险遭拒赔，武汉市交通运输局回应“保险公司无权单方判定非法营运”](https://m.ithome.com/html/861003.htm)
+
++ [今起国铁 12306 实施新规：已核验资质学生旅客无需再持实体在校证件乘车](https://m.ithome.com/html/861044.htm)
+
++ [S25 Ultra 企业仅需 6499 元：三星 Galaxy S25 全系手机破冰新低再降价](https://m.ithome.com/html/861052.htm)
+
++ [全网会员 618 狂促倒数 2 天：B 站 QQ 音乐年内探底、京东 PLUS 视频网盘下载破冰新低](https://m.ithome.com/html/861064.htm)
+

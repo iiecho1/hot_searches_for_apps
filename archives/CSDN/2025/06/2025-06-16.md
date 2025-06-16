@@ -163,3 +163,11 @@
 
 + [GStreamer开发笔记（七）：gstreamer播放ogg详解](https://blog.csdn.net/qq21497936/article/details/148684380)
 
++ [Java 大视界 -- Java 大数据在智能教育学生心理健康监测与干预中的应用（302）](https://blog.csdn.net/atgfg/article/details/148642538)
+
++ [【 新能源汽车OBD网关全解析：原理、方案、测试与趋势】](https://blog.csdn.net/weixin_62244995/article/details/148617465)
+
++ [HTTP 请求报文 方法](https://blog.csdn.net/SZ170110231/article/details/148657537)
+
++ [后端开发：计算机网络、数据库常识](https://blog.csdn.net/weixin_46530492/article/details/148635213)
+
