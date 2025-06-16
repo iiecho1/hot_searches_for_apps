@@ -227,3 +227,5 @@
 
 + [柬埔寨警告禁止泰国农产品入境](https://news.cctv.com/2025/06/16/ARTIhGFTF4Yp72BIZ9ZQdDwH250616.shtml)
 
++ [壹视界·微视频｜在中亚探访“中国风车”，看习主席关心的能源合作不断深化](https://news.cctv.com/2025/06/16/ARTIeYFZwUlOdAJWlhchF1Gu250616.shtml)
+
