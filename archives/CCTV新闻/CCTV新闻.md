@@ -179,3 +179,25 @@
 
 + [冲突进入第5天：以称控制德黑兰领空 伊称准备长期全面战争](https://news.cctv.com/2025/06/17/ARTIIlvSpxH2mxf38zzISiF2250617.shtml)
 
++ [印媒：印度航空公司旧金山至孟买航班发动机出现故障，乘客在经停期间被要求下机](https://news.cctv.com/2025/06/17/ARTInUTjxnX7dLZJdUy5cK0g250617.shtml)
+
++ [微视频｜携手共建中国—中亚命运共同体](https://news.cctv.com/2025/06/17/ARTIAefBUpIIM27TYyEL0CTE250617.shtml)
+
++ [习主席的丝路故事丨习主席关心的哈萨克斯坦这所学校，现在咋样了？](https://news.cctv.com/2025/06/17/ARTIOCsZMHCOzmsDjMSVcGsi250617.shtml)
+
++ [一见·从“联通”二字，透视中国与中亚的广阔未来](https://news.cctv.com/2025/06/17/ARTICoEForM2hLVPtp4FKsbR250617.shtml)
+
++ [巴黎航展开幕 中国航空工业产品亮相](https://news.cctv.com/2025/06/17/ARTIjk3w3d6x0IPDIKBmg4CZ250617.shtml)
+
++ [洛杉矶宵禁时长缩短两小时](https://news.cctv.com/2025/06/17/ARTId1p6RXExU9sR6jKVJX7c250617.shtml)
+
++ [特朗普缩短其G7峰会日程提前回国，加拿大总理：完全理解](https://news.cctv.com/2025/06/17/ARTIopI4BrTuEYKVTaOEGtKq250617.shtml)
+
++ [越南政府批准设立首个自贸区](https://news.cctv.com/2025/06/17/ARTI9XIxLscsTPv7n1J5jnAZ250617.shtml)
+
++ [联大批准设立“反对单边强制措施国际日”](https://news.cctv.com/2025/06/17/ARTIGh8E5FRPqPaYJGJaDJIy250617.shtml)
+
++ [21国联合声明：以色列必须停止对伊朗敌对行动](https://news.cctv.com/2025/06/17/ARTIHYU2bCwWdNCNcOMTZ11k250617.shtml)
+
++ [以伊冲突持续升级，我使馆提醒在以中国公民尽快陆路离境](https://news.cctv.com/2025/06/17/ARTIidkD3kofilicV6XC6ie2250617.shtml)
+
