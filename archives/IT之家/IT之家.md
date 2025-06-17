@@ -25,3 +25,25 @@
 
 + [消息称鸿蒙智行上周新增订单 9000 左右，尊界破 800](https://m.ithome.com/html/861329.htm)
 
++ [为 Apple Intelligence 入华铺路？阿里巴巴发布适配苹果 MLX 架构的 Qwen3 升级版](https://m.ithome.com/html/861349.htm)
+
++ [3GB 内存苹果 iPad 被部分游戏“拒之门外”：《堡垒之夜》无法启动，《罗布乐思》频现内存不足警告](https://m.ithome.com/html/861342.htm)
+
++ [华为余承东：对比安卓 iOS，鸿蒙有三大优势体验](https://m.ithome.com/html/861577.htm)
+
++ [苹果 iOS 18.6 开发者预览版 Beta 发布](https://m.ithome.com/html/861330.htm)
+
++ [【IT之家开箱】REDMI K Pad 烟霞紫平板图赏：配色清新淡雅，质感突出](https://m.ithome.com/html/861381.htm)
+
++ [REDMI K80 至尊版手机搭载 7410mAh 电池，宣称“小米史上最长续航”](https://m.ithome.com/html/861499.htm)
+
++ [全网 618 巅峰 28 小时狂促 20:00 开抢：1 分钟速读 618 国补省钱攻略，多地家电国补告急，一键保价速速走起](https://m.ithome.com/html/861547.htm)
+
++ [京东刘强东谈首次退休：当时太理想主义了，想成为国内首个有职业经理人传承的大型互联网公司](https://m.ithome.com/html/861599.htm)
+
++ [512G 黑色版 9426 元：iPhone 16 Pro Max 手机京东限时购](https://m.ithome.com/html/861371.htm)
+
++ [小米 REDMI K80 至尊版手机搭载行业首款“大师级同轴对称双扬”，本月发布](https://m.ithome.com/html/861387.htm)
+
++ [4299 → 2728 元：小米 REDMI K80 Pro 16+512G 国补新低，搭载骁龙 8 至尊](https://m.ithome.com/html/861511.htm)
+

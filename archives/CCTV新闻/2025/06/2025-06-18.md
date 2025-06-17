@@ -161,3 +161,7 @@
 
 + [乌称伊朗袭击以色列巴特亚姆致5名乌克兰人死亡](https://news.cctv.com/2025/06/16/ARTIpO0ZDl2l5UKpPR2oj1PX250616.shtml)
 
++ [法国前总理菲永因“空饷”案被判4年监禁缓期执行](https://news.cctv.com/2025/06/18/ARTIkmenc5LclXSKW7SbE4dN250618.shtml)
+
++ [美军将向中东调派战斗机 并扩大战机部署范围](https://news.cctv.com/2025/06/18/ARTIJ2gsRTrnNa8vkMZlBjbD250618.shtml)
+
