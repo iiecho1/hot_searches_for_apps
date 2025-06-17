@@ -225,3 +225,15 @@
 
 + [韩媒：韩国总统室证实韩美首脑会谈被取消，“美方提前请求谅解，因此不构成外交失礼”](https://news.cctv.com/2025/06/17/ARTIPvTNZGj52KJGXiK8H8Xu250617.shtml)
 
++ [七国集团成员未能就贸易谈判取得突破](https://news.cctv.com/2025/06/17/ARTIMSTF5FjU6hO6BHwSNmzc250617.shtml)
+
++ [习近平出席第二届中国—中亚峰会](https://news.cctv.com/2025/06/17/ARTICbU35l68ek8qthkIXnDm250617.shtml)
+
++ [特朗普否认与伊朗进行和谈接触](https://news.cctv.com/2025/06/17/ARTIdrouz2GBFehfhaUysE6D250617.shtml)
+
++ [印尼勒沃托比火山喷发 火山灰柱高达10000米](https://news.cctv.com/2025/06/17/ARTIVINKK0VzIuTN15NI7tAh250617.shtml)
+
++ [习近平：各方应该推动中东局势尽快降温](https://news.cctv.com/2025/06/17/ARTIRN38QLT60VDV8bWvOgE7250617.shtml)
+
++ [国家主席习近平出席第二届中国—中亚峰会](https://news.cctv.com/2025/06/17/ARTIdKHojh8YOXIZWIXpKTVl250617.shtml)
+
