@@ -67,3 +67,9 @@
 
 + [消息称鸿蒙智行上周新增订单 9000 左右，尊界破 800](https://m.ithome.com/html/861329.htm)
 
++ [为 Apple Intelligence 入华铺路？阿里巴巴发布适配苹果 MLX 架构的 Qwen3 升级版](https://m.ithome.com/html/861349.htm)
+
++ [苹果 iOS 18.6 开发者预览版 Beta 发布](https://m.ithome.com/html/861330.htm)
+
++ [一架波音客机长沙起飞半小时后返航，奥凯航空回应称系机械故障](https://m.ithome.com/html/861203.htm)
+

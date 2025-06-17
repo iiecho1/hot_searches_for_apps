@@ -39,3 +39,13 @@
 
 + [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
 
++ [menloresearch/jan](https://github.com/menloresearch/jan)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
++ [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
+
++ [automatisch/automatisch](https://github.com/automatisch/automatisch)
+
++ [continuedev/continue](https://github.com/continuedev/continue)
+
