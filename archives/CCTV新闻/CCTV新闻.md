@@ -201,3 +201,7 @@
 
 + [以伊冲突持续升级，我使馆提醒在以中国公民尽快陆路离境](https://news.cctv.com/2025/06/17/ARTIidkD3kofilicV6XC6ie2250617.shtml)
 
++ [美国向中东地区部署更多军力](https://news.cctv.com/2025/06/17/ARTIjU4jwM4PTVlpYILyHY80250617.shtml)
+
++ [伊朗谴责以色列袭击伊国家电视台是“邪恶战争罪行”](https://news.cctv.com/2025/06/17/ARTIvzFGWYnCIkiqcilIcP3m250617.shtml)
+
