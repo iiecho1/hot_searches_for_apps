@@ -209,3 +209,19 @@
 
 + [国家主席习近平会见土库曼斯坦总统别尔德穆哈梅多夫](https://news.cctv.com/2025/06/17/ARTI6MIBWhlLWBMyMSzQyr6s250617.shtml)
 
++ [习近平会见吉尔吉斯斯坦总统扎帕罗夫](https://news.cctv.com/2025/06/17/ARTIQCmUZObkPtrZIOslN53O250617.shtml)
+
++ [新华社快讯：国家主席习近平会见乌兹别克斯坦总统米尔济约耶夫](https://news.cctv.com/2025/06/17/ARTIZBdScd1G99Y3su7jt5G8250617.shtml)
+
++ [特朗普再提将俄罗斯赶出七国集团是个“大错误”](https://news.cctv.com/2025/06/17/ARTIIbJ6MHrMR9EIv7gOVuxl250617.shtml)
+
++ [俄安全会议秘书绍伊古抵达平壤进行访问](https://news.cctv.com/2025/06/17/ARTIX3y3YjqGORkClMQAk15I250617.shtml)
+
++ [外媒：特朗普“抨击”马克龙，并称离开G7峰会提前回国与促成以伊“停火”无关](https://news.cctv.com/2025/06/17/ARTIVAF1zDiAtcBomG7ZQp1X250617.shtml)
+
++ [以军称打死伊朗最高军事指挥官](https://news.cctv.com/2025/06/17/ARTIChvOuyt7UqDkCTmMUfQ8250617.shtml)
+
++ [习近平会见塔吉克斯坦总统拉赫蒙](https://news.cctv.com/2025/06/17/ARTIK0z1uiDDC3xAbNycUOv8250617.shtml)
+
++ [韩媒：韩国总统室证实韩美首脑会谈被取消，“美方提前请求谅解，因此不构成外交失礼”](https://news.cctv.com/2025/06/17/ARTIPvTNZGj52KJGXiK8H8Xu250617.shtml)
+
