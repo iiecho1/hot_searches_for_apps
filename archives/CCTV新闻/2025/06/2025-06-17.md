@@ -207,3 +207,5 @@
 
 + [为节省开支 联合国难民署裁员3500人](https://news.cctv.com/2025/06/17/ARTISWUnKc1Qm3CRIpMjvqOb250617.shtml)
 
++ [国家主席习近平会见土库曼斯坦总统别尔德穆哈梅多夫](https://news.cctv.com/2025/06/17/ARTI6MIBWhlLWBMyMSzQyr6s250617.shtml)
+
