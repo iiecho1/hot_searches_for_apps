@@ -169,3 +169,13 @@
 
 + [因技术故障等原因 印度航空取消至少5架次波音机型国际航班](https://news.cctv.com/2025/06/18/ARTI6sJ447crlGRX1xdMERKD250618.shtml)
 
++ [金正恩会见率团访朝的俄联邦安全会议秘书绍伊古](https://news.cctv.com/2025/06/18/ARTIEdKylBKHyQBj2yWsH2xe250618.shtml)
+
++ [以军确认有导弹从伊朗向以色列发射 要求民众进入防空设施](https://news.cctv.com/2025/06/18/ARTIvERlzXLoFERVGVzc06s6250618.shtml)
+
++ [加拿大与印度总理举行会谈 重启紧张两年的印加关系](https://news.cctv.com/2025/06/18/ARTISzwGoQwK0Z5SfMkWVNAU250618.shtml)
+
++ [俄总统新闻秘书：俄乌下一轮直接谈判时间尚未确定](https://news.cctv.com/2025/06/18/ARTIi5JtUgQ2RENalLnKbsrR250618.shtml)
+
++ [中国—中亚机制促进人员往来便利化合作倡议](https://news.cctv.com/2025/06/18/ARTIOTzB52mYDLWMKGptLwXn250618.shtml)
+
