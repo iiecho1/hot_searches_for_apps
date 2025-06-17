@@ -237,3 +237,7 @@
 
 + [国家主席习近平出席第二届中国—中亚峰会](https://news.cctv.com/2025/06/17/ARTIdKHojh8YOXIZWIXpKTVl250617.shtml)
 
++ [习近平在第二届中国—中亚峰会上的主旨发言](https://news.cctv.com/2025/06/17/ARTIoaYeYSLWAltLdAbbu1Sb250617.shtml)
+
++ [国家主席习近平同中亚五国元首见证中国—中亚三个合作中心和贸易畅通合作平台揭牌](https://news.cctv.com/2025/06/17/ARTIwJii75RIpeDsPovVwbrr250617.shtml)
+
