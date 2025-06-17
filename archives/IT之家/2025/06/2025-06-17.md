@@ -55,3 +55,15 @@
 
 + [全网会员 618 狂促倒数 2 天：B 站 QQ 音乐年内探底、京东 PLUS 视频网盘下载破冰新低](https://m.ithome.com/html/861064.htm)
 
++ [罗马仕宣布召回超 49 万台充电宝：极端场景下可能产生燃烧风险，免费换新或退货退款](https://m.ithome.com/html/861318.htm)
+
++ [小米汽车：YU7 车型电池包前方配备一根 1500MPa 防刮底横梁、应用 SU7 Ultra 同款「防弹涂层」](https://m.ithome.com/html/861327.htm)
+
++ [动画电影《西游记真假美猴王》发布概念海报，六小龄童、马德华领衔主演](https://m.ithome.com/html/861237.htm)
+
++ [庆祝 iPhone 问世 20 周年：苹果特别版手机被曝全玻璃设计、搭载 iOS 28、续航明显提升](https://m.ithome.com/html/861377.htm)
+
++ [京东外卖后又一家，淘宝闪购接入 vivo OriginOS 原子通知及原子岛](https://m.ithome.com/html/861157.htm)
+
++ [消息称鸿蒙智行上周新增订单 9000 左右，尊界破 800](https://m.ithome.com/html/861329.htm)
+
