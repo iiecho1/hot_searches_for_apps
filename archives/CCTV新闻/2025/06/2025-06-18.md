@@ -167,3 +167,5 @@
 
 + [欧盟委员会计划全面禁止进口俄石油天然气](https://news.cctv.com/2025/06/18/ARTIPBOMXIYWJ2Ku53rHgwUi250617.shtml)
 
++ [因技术故障等原因 印度航空取消至少5架次波音机型国际航班](https://news.cctv.com/2025/06/18/ARTI6sJ447crlGRX1xdMERKD250618.shtml)
+
