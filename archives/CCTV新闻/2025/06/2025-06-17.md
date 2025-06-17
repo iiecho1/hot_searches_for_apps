@@ -205,3 +205,5 @@
 
 + [伊朗谴责以色列袭击伊国家电视台是“邪恶战争罪行”](https://news.cctv.com/2025/06/17/ARTIvzFGWYnCIkiqcilIcP3m250617.shtml)
 
++ [为节省开支 联合国难民署裁员3500人](https://news.cctv.com/2025/06/17/ARTISWUnKc1Qm3CRIpMjvqOb250617.shtml)
+
