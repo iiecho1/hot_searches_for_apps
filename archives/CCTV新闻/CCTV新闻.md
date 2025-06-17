@@ -165,3 +165,5 @@
 
 + [美军将向中东调派战斗机 并扩大战机部署范围](https://news.cctv.com/2025/06/18/ARTIJ2gsRTrnNa8vkMZlBjbD250618.shtml)
 
++ [欧盟委员会计划全面禁止进口俄石油天然气](https://news.cctv.com/2025/06/18/ARTIPBOMXIYWJ2Ku53rHgwUi250617.shtml)
+
