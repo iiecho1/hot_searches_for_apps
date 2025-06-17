@@ -103,3 +103,7 @@
 
 + [AC娘18成年礼晚会 录播](https://m.acfun.cn/v/?ac=47405679)
 
++ [【AC娘18成年礼晚会】晚会正片纯享【AC18 未来可FUN】](https://m.acfun.cn/v/?ac=47407769)
+
++ [【三行情书】Acer联合共创AcFun十八周年情歌——《夏日满糖》](https://m.acfun.cn/v/?ac=47407814)
+
