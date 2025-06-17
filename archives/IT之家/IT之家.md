@@ -47,3 +47,5 @@
 
 + [4299 → 2728 元：小米 REDMI K80 Pro 16+512G 国补新低，搭载骁龙 8 至尊](https://m.ithome.com/html/861511.htm)
 
++ [一架波音客机长沙起飞半小时后返航，奥凯航空回应称系机械故障](https://m.ithome.com/html/861203.htm)
+
