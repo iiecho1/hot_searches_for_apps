@@ -219,3 +219,33 @@
 
 + [听习主席和中亚好伙伴话合作｜山水相依、民心相亲的好邻居、好朋友、好伙伴](https://news.cctv.com/2025/06/18/ARTIWUxLg3JgpdurMc5fvy6D250618.shtml)
 
++ [特稿｜丝路花开——从北京到阿斯塔纳纪行](https://news.cctv.com/2025/06/18/ARTIkz3mgLjRQJcdZzJWJRdw250618.shtml)
+
++ [壹视界丨中国风电在中亚吹起“绿色新风”](https://news.cctv.com/2025/06/18/ARTIHOJX3StgqTUWGwkLcxN8250618.shtml)
+
++ [弘扬“中国－中亚精神”，习近平指明中国中亚合作方向](https://news.cctv.com/2025/06/18/ARTInrg9VLJQnEveYodIl82O250618.shtml)
+
++ [学习新语｜一首诗一首歌，感受中哈深情厚谊](https://news.cctv.com/2025/06/18/ARTIjBjeS4M1SWvFlgs5HNrj250618.shtml)
+
++ [西班牙公布4月西葡大停电原因：电压瞬间激增](https://news.cctv.com/2025/06/18/ARTIyhV0L3NBYpXkoH87tOF5250618.shtml)
+
++ [乌克兰基辅遭大规模袭击 已致23人死亡](https://news.cctv.com/2025/06/18/ARTI26NLuSDR3cOFMkWG8rkP250618.shtml)
+
++ [巴基斯坦俾路支省铁路发生爆炸致列车脱轨](https://news.cctv.com/2025/06/18/ARTIIccDnvsdAarmkA0OwvJJ250618.shtml)
+
++ [以军称伊朗已使用近400枚弹道导弹 消息人士称以方防空导弹短缺](https://news.cctv.com/2025/06/18/ARTIOnW5kcmWNFXPSXw3xjwH250618.shtml)
+
++ [一名华人讲述在中亚做导游的故事——共赏丝路美景 共促相互了解（侨界关注）](https://people.cctv.com/2025/06/18/ARTIJdOPgezlF0RmV8uS29B6250618.shtml)
+
++ [伊以冲突已致伊朗方面585人死亡](https://news.cctv.com/2025/06/18/ARTI5aPxNf0z42yyQtmSD3eq250618.shtml)
+
++ [伊朗领空继续关闭至18日下午](https://news.cctv.com/2025/06/18/ARTIRHdcZqtFHNEXz8OzTOjv250618.shtml)
+
++ [伊朗称再次击落F-35战机 以方暂未回应](https://news.cctv.com/2025/06/18/ARTIo1jeE9vZH9DWsWwbBfXx250618.shtml)
+
++ [俄罗斯联邦储蓄银行董事会副主席：超80个黑客组织对俄实施攻击](https://news.cctv.com/2025/06/18/ARTIgWdSMVJdqdYnKi9fNcBw250618.shtml)
+
++ [话越说越“狠” 美国“参战”可能性正在加大？](https://news.cctv.com/2025/06/18/ARTIobTNMqacAUXDx3kxSjQ6250618.shtml)
+
++ [第二十八届圣彼得堡国际经济论坛开幕](https://news.cctv.com/2025/06/18/ARTIyKf7u7mx3CuimsjWHzkM250618.shtml)
+
