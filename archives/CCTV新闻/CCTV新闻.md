@@ -179,3 +179,29 @@
 
 + [中国—中亚机制促进人员往来便利化合作倡议](https://news.cctv.com/2025/06/18/ARTIOTzB52mYDLWMKGptLwXn250618.shtml)
 
++ [加拿大和印度同意任命新的高级专员 恢复常规外交服务](https://news.cctv.com/2025/06/18/ARTIyLhQHLM2HzPjzsRi5pT8250618.shtml)
+
++ [阿根廷成立联邦调查部](https://news.cctv.com/2025/06/18/ARTIszo60FzXjHNcH9VJ8wzo250618.shtml)
+
++ [伊朗称“法塔赫”导弹突破以色列防御 “完全控制”其领空](https://news.cctv.com/2025/06/18/ARTIbZbWEnjEzbHQHVvRoFjD250618.shtml)
+
++ [红十字国际委员会说刚果（金）东部医疗系统濒临崩溃](https://news.cctv.com/2025/06/18/ARTIyKNCeQu5utvOAMw6Otpw250618.shtml)
+
++ [中方促贸援助实践在世贸组织受到高度肯定](https://news.cctv.com/2025/06/18/ARTIYGdXiPzu3g3oYUa4XqoN250618.shtml)
+
++ [伊朗最高领袖哈梅内伊称必须强力打击以色列 永不妥协](https://news.cctv.com/2025/06/18/ARTIOGGrbiOYjyECIBlyvHCW250618.shtml)
+
++ [美国土安全部长被救护车送至医院](https://news.cctv.com/2025/06/18/ARTI42oHAuO0ZPHgeXZL1kBc250618.shtml)
+
++ [伊朗方面称德黑兰防空系统击退以色列入侵](https://news.cctv.com/2025/06/18/ARTIkZSnMfggltAsCv3aMdQx250618.shtml)
+
++ [金句海报丨弘扬“中国—中亚精神”，习近平主席这样说](https://news.cctv.com/2025/06/18/ARTIiKLz8UGAXrVFyRyrMPGn250618.shtml)
+
++ [视频画报｜阿斯塔纳的握手——习近平主席同中亚五国元首密集会谈会见](https://news.cctv.com/2025/06/18/ARTIBdc1T0VsaxPZMP2GxQ4r250618.shtml)
+
++ [法国总统对可能导致伊朗政权更迭的军事行动表示反对](https://news.cctv.com/2025/06/18/ARTIdErh8EzA6PlsQUmwtjV2250618.shtml)
+
++ [特朗普召集国安团队讨论以伊冲突](https://news.cctv.com/2025/06/18/ARTIGgUFaIcIR2PGUxKyTjKY250618.shtml)
+
++ [中国驻土耳其使馆愿为入境或转机中国公民提供协助](https://news.cctv.com/2025/06/18/ARTI6A69M1jLrkHG34jCtuKz250618.shtml)
+
