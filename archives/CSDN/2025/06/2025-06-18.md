@@ -169,3 +169,5 @@
 
 + [React Native 搭建iOS与Android开发环境](https://blog.csdn.net/ParkChanyelo/article/details/148583759)
 
++ [【咸鱼之王】H5修复版服务端搭建教程（含资源下载+部署过程）](https://blog.csdn.net/T_Snail_T/article/details/148715249)
+

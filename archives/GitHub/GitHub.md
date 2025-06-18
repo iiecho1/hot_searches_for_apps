@@ -17,3 +17,19 @@
 
 + [continuedev/continue](https://github.com/continuedev/continue)
 
++ [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+
++ [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
++ [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
++ [php/frankenphp](https://github.com/php/frankenphp)
+
++ [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)
+
++ [moby/buildkit](https://github.com/moby/buildkit)
+
++ [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2)
+
++ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+

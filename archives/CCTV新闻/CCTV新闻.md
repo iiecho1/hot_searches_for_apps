@@ -259,3 +259,5 @@
 
 + [驻登巴萨总领馆提醒领区中国公民关注勒沃托比火山喷发影响](https://news.cctv.com/2025/06/18/ARTIywricrw7VMN2f6Fd6D6B250618.shtml)
 
++ [中国驻伊拉克大使馆发布在伊朗中国公民通过沙拉姆切口岸撤离指南](https://news.cctv.com/2025/06/18/ARTIssgkWYS7D2OBg7Yq7Fd5250618.shtml)
+

@@ -49,3 +49,5 @@
 
 + [抓住 618 的尾巴，跪求显示器推荐](https://www.v2ex.com/t/1139347)
 
++ [关于 telegram 网速问题想请教一下怎么提高](https://www.v2ex.com/t/1139341)
+
