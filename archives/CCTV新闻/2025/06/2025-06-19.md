@@ -163,3 +163,5 @@
 
 + [伊朗最高领袖：美国军事干预将招致无法挽回的后果](https://news.cctv.com/2025/06/19/ARTITf1MgF3fdpApcf3ubsST250618.shtml)
 
++ [泰国总理通话录音引争议　第二大党退出执政联盟](https://news.cctv.com/2025/06/19/ARTI19SSWNg4Qz1nsWRG8iLo250619.shtml)
+
