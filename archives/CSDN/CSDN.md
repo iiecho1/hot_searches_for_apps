@@ -117,3 +117,13 @@
 
 + [系统性能优化的关键手段](https://blog.csdn.net/Wendy_robot/article/details/148702010)
 
++ [华为云Flexus+DeepSeek征文｜从零部署Dify平台，打造属于自己的AI Agent](https://blog.csdn.net/qq_44273429/article/details/148691419)
+
++ [金仓数据库KingbaseES体验报告：国产数据库的轻量与强大](https://blog.csdn.net/2301_80840905/article/details/148723534)
+
++ [数据库管家KingbaseES：我的国产数据库初体验](https://blog.csdn.net/lwcwam/article/details/148723517)
+
++ [基于SpringBoot的汽车维保服务平台的设计与实现 -开题报告](https://blog.csdn.net/weixin_39709134/article/details/148683600)
+
++ [python+uniapp微信小程序的共享雨伞租赁系统](https://blog.csdn.net/Q_Q511008285/article/details/148713933)
+

@@ -209,3 +209,9 @@
 
 + [苏丹总检察长：快速支援部队已造成超2.8万人死亡](https://news.cctv.com/2025/06/18/ARTIP0P7eWBat7O8ck6yYKhx250618.shtml)
 
++ [印度尼西亚巴厘岛数十架航班因火山喷发取消](https://news.cctv.com/2025/06/18/ARTI8n4DDaHqmnJtU6ld34gI250618.shtml)
+
++ [七国集团峰会闭幕 呼吁解决以伊冲突](https://news.cctv.com/2025/06/18/ARTIHikXtsgwRau6BCJkFAwb250618.shtml)
+
++ [受以伊大规模冲突影响 国际油价17日显著上涨](https://news.cctv.com/2025/06/18/ARTIoICd9xjmcgUJNAdO2Xba250618.shtml)
+
