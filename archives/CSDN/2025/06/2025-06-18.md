@@ -171,3 +171,7 @@
 
 + [【咸鱼之王】H5修复版服务端搭建教程（含资源下载+部署过程）](https://blog.csdn.net/T_Snail_T/article/details/148715249)
 
++ [数据资产入表与AI融合：推动企业数字化转型的双重引擎](https://blog.csdn.net/weixin_41026747/article/details/148737107)
+
++ [Spring Boot 和 Spring Security 实现 JWT 认证](https://blog.csdn.net/weixin_43833540/article/details/148693607)
+

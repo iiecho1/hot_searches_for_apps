@@ -261,3 +261,7 @@
 
 + [中国驻伊拉克大使馆发布在伊朗中国公民通过沙拉姆切口岸撤离指南](https://news.cctv.com/2025/06/18/ARTIssgkWYS7D2OBg7Yq7Fd5250618.shtml)
 
++ [两议员遇袭后 美国会参议员吁加强安保](https://news.cctv.com/2025/06/18/ARTIprcJSJcsXEk9IzNyQLd5250618.shtml)
+
++ [普京表示俄方愿为推动以伊对话提供斡旋协助](https://news.cctv.com/2025/06/18/ARTI7NSRweEiNvRlZSMJRgxs250618.shtml)
+
