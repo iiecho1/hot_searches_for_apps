@@ -275,3 +275,5 @@
 
 + [印尼一火山持续喷发 部分往返巴厘岛航班取消](https://news.cctv.com/2025/06/18/ARTIzppfU2F3dFm5eoDJZWKH250618.shtml)
 
++ [300多名中方人员顺利撤离伊朗 入境阿塞拜疆](https://news.cctv.com/2025/06/18/ARTI2mr2p089Hi5vyogrQJba250618.shtml)
+
