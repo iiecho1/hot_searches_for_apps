@@ -251,3 +251,11 @@
 
 + [暴雨致尼泊尔东西向交通大动脉受阻](https://news.cctv.com/2025/06/18/ARTI7lbSHO46lPEYvEu8KKxw250618.shtml)
 
++ [国际原子能机构称伊朗两处离心机生产设施受损 伊方暂无回应](https://news.cctv.com/2025/06/18/ARTItfrir0gxpuG9WDxo5cPK250618.shtml)
+
++ [伊朗原子能机构主席：伊核设施目前状况良好](https://news.cctv.com/2025/06/18/ARTIp4MCS1wKcDcuAhBsTbzk250618.shtml)
+
++ [埃及开罗一建筑物倒塌 致2人死亡](https://news.cctv.com/2025/06/18/ARTIUPVZxu9AuXiYI6C6398W250618.shtml)
+
++ [驻登巴萨总领馆提醒领区中国公民关注勒沃托比火山喷发影响](https://news.cctv.com/2025/06/18/ARTIywricrw7VMN2f6Fd6D6B250618.shtml)
+
