@@ -181,3 +181,11 @@
 
 + [大模型知识库RAG框架，比如LangChain、ChatChat、FastGPT等等，哪个效果比较好](https://blog.csdn.net/weixin_44280696/article/details/148724382)
 
++ [在jackson中@JsonAnySetter实现不固定属性序列化和多层级属性序列化实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/148701893)
+
++ [【Arduino 动手做】用于递送小包裹的智能环保型 Raspberry Pi 机器人](https://blog.csdn.net/weixin_41659040/article/details/148730379)
+
++ [第二十届全国大学生智能汽车竞赛中的双盲任务（讨论稿）](https://blog.csdn.net/zhuoqingjoking97298/article/details/148681017)
+
++ [爬虫技术：数据获取的利器与伦理边界](https://blog.csdn.net/weixin_66924704/article/details/148726356)
+

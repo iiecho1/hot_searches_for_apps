@@ -159,3 +159,5 @@
 
 + [万字拆解优秀港片《手卷烟》剧情解说、巧思、细节、隐喻与吐槽](https://m.acfun.cn/v/?ac=47410957)
 
++ [【东方/汉化】Mischievous Rabbit - Part 1【MMD剧情动画/兔纸汉化组】](https://m.acfun.cn/v/?ac=47405637)
+
