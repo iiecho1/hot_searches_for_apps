@@ -249,3 +249,5 @@
 
 + [第二十八届圣彼得堡国际经济论坛开幕](https://news.cctv.com/2025/06/18/ARTIyKf7u7mx3CuimsjWHzkM250618.shtml)
 
++ [暴雨致尼泊尔东西向交通大动脉受阻](https://news.cctv.com/2025/06/18/ARTI7lbSHO46lPEYvEu8KKxw250618.shtml)
+

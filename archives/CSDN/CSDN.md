@@ -153,3 +153,13 @@
 
 + [电阻、电容、电感](https://blog.csdn.net/caiji0169/article/details/148725590)
 
++ [Adaptive-k 检索：RAG 系统中自适应上下文长度选择的新方法](https://blog.csdn.net/m0_46510245/article/details/148734311)
+
++ [【数据库】大模型时代的数据库新范式：从平替到智能演进](https://blog.csdn.net/qq_38628970/article/details/148722432)
+
++ [[计算机网络] 网络的诞生：协议的认知建立](https://blog.csdn.net/SDFsoul/article/details/148738148)
+
++ [工业视觉应用开发教程（一）](https://blog.csdn.net/univerbright/article/details/148726151)
+
++ [Vue 97 ，前端 SSO 单点登录实现完整指南与注意事项（ Vue + Vuex + Router 实现单点登录 ）](https://blog.csdn.net/weixin_65793170/article/details/148495616)
+
