@@ -145,3 +145,5 @@
 
 + [MyBatis与JPA有哪些不同？](https://blog.csdn.net/caoli201314/article/details/148722585)
 
++ [SEO 优化标题：【已解决】Spring Boot 异常：`HttpMediaTypeNotSupportedException: Content type ‘multipart/form-data‘](https://blog.csdn.net/qq_42055933/article/details/148678843)
+
