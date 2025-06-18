@@ -135,3 +135,11 @@
 
 + [量子级安全架构：抗攻击包的冷热隔离与生物验证技术](https://blog.csdn.net/Lovely_xwys/article/details/148691865)
 
++ [华为云Flexus+DeepSeek征文｜一键部署Dify平台并绑定专属域名打造个人AI Agent](https://blog.csdn.net/qq_44273429/article/details/148717355)
+
++ [一步到位掌握 KingbaseES—Oracle 兼容数据库的在线实操教程【实战】](https://blog.csdn.net/weixin_52908342/article/details/148722529)
+
++ [Qt/C++开发监控GB28181系统/记一个取流失败问题的解决/不支持的传输模式/主动拉流端口校验](https://blog.csdn.net/feiyangqingyun/article/details/148729649)
+
++ [音视频之H.264/AVC解码器的原理和实现](https://blog.csdn.net/wangyongyao1989/article/details/148636338)
+
