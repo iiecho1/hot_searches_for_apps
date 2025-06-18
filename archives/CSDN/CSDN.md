@@ -175,3 +175,9 @@
 
 + [Spring Boot 和 Spring Security 实现 JWT 认证](https://blog.csdn.net/weixin_43833540/article/details/148693607)
 
++ [数据挖掘实战-基于决策树回归算法构建公寓租赁价格预测模型](https://blog.csdn.net/m0_64336780/article/details/142443104)
+
++ [【开源解析】基于Python+Qt打造智能应用时长统计工具 - 你的数字生活分析师](https://blog.csdn.net/Clay_K/article/details/148738359)
+
++ [大模型知识库RAG框架，比如LangChain、ChatChat、FastGPT等等，哪个效果比较好](https://blog.csdn.net/weixin_44280696/article/details/148724382)
+

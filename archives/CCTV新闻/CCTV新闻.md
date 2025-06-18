@@ -265,3 +265,13 @@
 
 + [普京表示俄方愿为推动以伊对话提供斡旋协助](https://news.cctv.com/2025/06/18/ARTI7NSRweEiNvRlZSMJRgxs250618.shtml)
 
++ [学习新语｜一图学习！习近平这样阐释“中国—中亚精神”深刻内涵](https://news.cctv.com/2025/06/18/ARTISD4d15jYEGc9H4xQLmTS250618.shtml)
+
++ [壹视界 | 习主席关心的中国－中亚合作项目进展怎样了](https://news.cctv.com/2025/06/18/ARTIJZsWx0uXB8wcUNQmOOFa250618.shtml)
+
++ [金色相框｜弘扬“中国－中亚精神” 锚定命运共同体目标](https://news.cctv.com/2025/06/18/ARTISI7roAJoN98Gyg7EAYvU250618.shtml)
+
++ [习言道｜从西安到阿斯塔纳，一条路连结两座城](https://news.cctv.com/2025/06/18/ARTIsAB8szIYaiIMu5IBvpda250618.shtml)
+
++ [印尼一火山持续喷发 部分往返巴厘岛航班取消](https://news.cctv.com/2025/06/18/ARTIzppfU2F3dFm5eoDJZWKH250618.shtml)
+
