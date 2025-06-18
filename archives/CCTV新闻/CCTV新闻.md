@@ -215,3 +215,7 @@
 
 + [受以伊大规模冲突影响 国际油价17日显著上涨](https://news.cctv.com/2025/06/18/ARTIoICd9xjmcgUJNAdO2Xba250618.shtml)
 
++ [第一观察·瞬间｜特殊礼遇 深厚情谊](https://news.cctv.com/2025/06/18/ARTIt6KSlr2ryEvyKwbeyOz1250618.shtml)
+
++ [听习主席和中亚好伙伴话合作｜山水相依、民心相亲的好邻居、好朋友、好伙伴](https://news.cctv.com/2025/06/18/ARTIWUxLg3JgpdurMc5fvy6D250618.shtml)
+
