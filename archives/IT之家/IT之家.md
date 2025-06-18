@@ -25,3 +25,19 @@
 
 + [4299 → 2728 元：小米 REDMI K80 Pro 16+512G 国补新低，搭载骁龙 8 至尊](https://m.ithome.com/html/861511.htm)
 
++ [国补后至高立减 4000 元：苹果 Mac 全系大破价，mini 免费升级万兆网口、iMac 免费升级纳米玻璃](https://m.ithome.com/html/861660.htm)
+
++ [全网 618 巅峰狂促只看今日：1 分钟速读 618 国补省钱攻略，苹果小米破冰行动，一键保价速速走起](https://m.ithome.com/html/861547.htm)
+
++ [NFC 15 版本正式发布：通信范围扩大至 4 倍，今年秋季到来](https://m.ithome.com/html/861657.htm)
+
++ [信息量巨大：刘强东分享会发言全文，首次阐释京东决策背后的逻辑](https://m.ithome.com/html/861670.htm)
+
++ [6999 → 3474 元：小米 14 Ultra 16+512G 手机跌破半价](https://m.ithome.com/html/861605.htm)
+
++ [刘强东证实京东进入外卖行业前曾请王兴吃饭，预测一个月后将出现与美团完全不同的商业模式](https://m.ithome.com/html/861624.htm)
+
++ [国产 3A 游戏大作《黑神话：悟空》开启首次打折促销，国区 214.4 元起](https://m.ithome.com/html/861671.htm)
+
++ [消息称苹果 iOS 版 QQ 灰度测试“微信同款”来电弹窗功能，利用 LiveCommunicationKit 实现](https://m.ithome.com/html/861505.htm)
+

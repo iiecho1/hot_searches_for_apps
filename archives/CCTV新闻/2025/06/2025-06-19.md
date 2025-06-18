@@ -161,3 +161,5 @@
 
 + [国家主席习近平会见土库曼斯坦总统别尔德穆哈梅多夫](https://news.cctv.com/2025/06/17/ARTI6MIBWhlLWBMyMSzQyr6s250617.shtml)
 
++ [伊朗最高领袖：美国军事干预将招致无法挽回的后果](https://news.cctv.com/2025/06/19/ARTITf1MgF3fdpApcf3ubsST250618.shtml)
+
