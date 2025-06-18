@@ -101,3 +101,19 @@
 
 + [《解码SCSS：悬浮与点击效果的高阶塑造法则》](https://blog.csdn.net/xy520521/article/details/148673501)
 
++ [【AI大模型】Elasticsearch9 + 通义大模型实现语义检索操作详解](https://blog.csdn.net/zhangcongyi420/article/details/148650090)
+
++ [YOLO深度解读：从原理到实践的进阶指南](https://blog.csdn.net/qq_45590504/article/details/148727818)
+
++ [【Arduino 动手做】完全开源的Pedro 机器人](https://blog.csdn.net/weixin_41659040/article/details/148698003)
+
++ [Cursor vs Trae vs VSCode：2025终极IDE横评，谁才是开发者的效率之选？](https://blog.csdn.net/mss359681091/article/details/148717675)
+
++ [.NET 开发中全局数据存储的几种方式](https://blog.csdn.net/sixpp/article/details/148710586)
+
++ [【Python系列PyCharm实战】ModuleNotFoundError: No module named ‘sklearn’ 系列Bug解决方案大全](https://blog.csdn.net/qq_44866828/article/details/148724520)
+
++ [手机日志是什么？如何调试手机日志](https://blog.csdn.net/2401_84168288/article/details/148714895)
+
++ [系统性能优化的关键手段](https://blog.csdn.net/Wendy_robot/article/details/148702010)
+

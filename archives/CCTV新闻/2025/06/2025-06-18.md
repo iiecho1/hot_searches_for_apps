@@ -205,3 +205,7 @@
 
 + [中国驻土耳其使馆愿为入境或转机中国公民提供协助](https://news.cctv.com/2025/06/18/ARTI6A69M1jLrkHG34jCtuKz250618.shtml)
 
++ [阿根廷成立联邦调查部 将成联邦警察局核心机构](https://news.cctv.com/2025/06/18/ARTIFao9sOYjZoIHca7DSA0L250618.shtml)
+
++ [苏丹总检察长：快速支援部队已造成超2.8万人死亡](https://news.cctv.com/2025/06/18/ARTIP0P7eWBat7O8ck6yYKhx250618.shtml)
+
