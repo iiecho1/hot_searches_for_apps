@@ -171,3 +171,15 @@
 
 + [基于YOLOv10算法的交通信号灯检测与识别](https://blog.csdn.net/m0_58847451/article/details/148754193)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的多语言翻译与文化适应性优化（307）](https://blog.csdn.net/atgfg/article/details/148676466)
+
++ [【Arduino 动手做】Anansi：一个很酷的蜘蛛状机器人](https://blog.csdn.net/weixin_41659040/article/details/148732006)
+
++ [Linux生产者消费者模型](https://blog.csdn.net/2301_81265915/article/details/148741657)
+
++ [全球金融数据实时对接实战：基于WebSocket的印度、马来西亚、韩国股票API集成指南](https://blog.csdn.net/CryptoPP/article/details/148716089)
+
++ [Uniapp H5端SEO优化全攻略：提升搜索引擎排名与流量](https://blog.csdn.net/vvilkim/article/details/148566216)
+
++ [.NET Core 实现缓存的预热的方式](https://blog.csdn.net/lwf3115841/article/details/148725357)
+

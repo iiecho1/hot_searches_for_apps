@@ -207,3 +207,9 @@
 
 + [国际观察｜“摇摇欲坠”的七国集团](https://news.cctv.com/2025/06/19/ARTIx1rMRJzOgowpdDpEYgdJ250619.shtml)
 
++ [4天3架 印度又一航班因技术问题返航](https://news.cctv.com/2025/06/19/ARTIUwhWotK3l7cC6lqtIKtn250619.shtml)
+
++ [通话录音引争议 泰国上议院要求罢免总理佩通坦](https://news.cctv.com/2025/06/19/ARTIkGQVi91PAQtl067LicCy250619.shtml)
+
++ [以色列袭击伊朗重水反应堆附近区域](https://news.cctv.com/2025/06/19/ARTI9qLyrN7C9H8vNRGnbekh250619.shtml)
+
