@@ -219,3 +219,9 @@
 
 + [ vue | vue 插件化机制，全局注册 和 局部注册](https://blog.csdn.net/weixin_42479421/article/details/148748455)
 
++ [《DeepSeek大模型高性能核心技术与多模态融合开发》-15.2节 带有跨平台客户端的智能客服开发实战](https://blog.csdn.net/qq_41840843/article/details/148765904)
+
++ [【Arduino 动手做】使用手机/平板远程控制 Arduino 机械臂](https://blog.csdn.net/weixin_41659040/article/details/148753637)
+
++ [榕壹云外卖跑腿系统：基于Spring Boot的开源生活服务平台技术解析](https://blog.csdn.net/2401_86780002/article/details/148745779)
+

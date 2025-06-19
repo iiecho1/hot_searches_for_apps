@@ -227,3 +227,5 @@
 
 + [“威胁国家安全” 以色列将禁止半岛电视台在该国境内转播](https://news.cctv.com/2025/06/19/ARTI4KS1W1SCOR0Rt6fvdbBg250619.shtml)
 
++ [山水相连 心手相牵——中国中亚共绘丝路新画卷](https://news.cctv.com/2025/06/19/ARTIR6vz3gp1KXppTN37bCqb250619.shtml)
+
