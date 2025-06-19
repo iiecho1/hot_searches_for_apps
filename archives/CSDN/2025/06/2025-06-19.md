@@ -205,3 +205,17 @@
 
 + [数学建模会议笔记](https://blog.csdn.net/m0_52024881/article/details/148751333)
 
++ [手机和PC远控安全深度测评：TeamViewer/ToDesk/向日葵安全防线对比](https://blog.csdn.net/2302_78391795/article/details/148738889)
+
++ [SSH带外管理和Rsync+sersync实现数据实时同步](https://blog.csdn.net/2503_91960863/article/details/148747110)
+
++ [Oracle 数据库数据操作：精通 INSERT, UPDATE, DELETE](https://blog.csdn.net/2401_83830408/article/details/148730090)
+
++ [Spring Boot热更新技巧：节省90%重启时间](https://blog.csdn.net/yunxyc/article/details/148712046)
+
++ [算法导论第十四章 B树与B+树：海量数据的守护者](https://blog.csdn.net/SEU123WW/article/details/148743392)
+
++ [照片墙html](https://blog.csdn.net/2501_90859196/article/details/148737413)
+
++ [ vue | vue 插件化机制，全局注册 和 局部注册](https://blog.csdn.net/weixin_42479421/article/details/148748455)
+

@@ -81,3 +81,9 @@
 
 + [微信鸿蒙版 App 1.0.7.39 正式版上线华为应用市场 App Gallery](https://m.ithome.com/html/861959.htm)
 
++ [小米汽车：即日起至今年 7 月 17 日，已提车用户购延保服务享统一优惠价格](https://m.ithome.com/html/861960.htm)
+
++ [玩家成功让初代任天堂 Switch 吃上 iOS：自嘲“史上最卡 iPhone”，QEMU 立功](https://m.ithome.com/html/861979.htm)
+
++ [苹果高管解释为何不合并 iPad 与 Mac：不想造“叉勺一体”的怪东西](https://m.ithome.com/html/861968.htm)
+
