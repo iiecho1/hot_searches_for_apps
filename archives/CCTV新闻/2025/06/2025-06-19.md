@@ -213,3 +213,9 @@
 
 + [以色列袭击伊朗重水反应堆附近区域](https://news.cctv.com/2025/06/19/ARTI9qLyrN7C9H8vNRGnbekh250619.shtml)
 
++ [印度空难黑匣子受损严重 将被送往美国提取数据](https://news.cctv.com/2025/06/19/ARTI8nvrRwzsyTpw2ZHzUlir250619.shtml)
+
++ [“星舰”静态点火测试中发生爆炸](https://news.cctv.com/2025/06/19/ARTIvJTG59PTrtCKM8TvAIfQ250619.shtml)
+
++ [美媒：以色列防空系统或仅还能支撑约10天](https://news.cctv.com/2025/06/19/ARTIvR3huckIcXxbtJhczluZ250619.shtml)
+
