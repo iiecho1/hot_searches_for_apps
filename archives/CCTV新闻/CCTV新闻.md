@@ -165,3 +165,5 @@
 
 + [泰国总理通话录音引争议　第二大党退出执政联盟](https://news.cctv.com/2025/06/19/ARTI19SSWNg4Qz1nsWRG8iLo250619.shtml)
 
++ [普京称愿与泽连斯基会面](https://news.cctv.com/2025/06/19/ARTIjJZnkKTq6SxPzA5419l9250619.shtml)
+
