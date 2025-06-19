@@ -197,3 +197,7 @@
 
 + [近闻·8句话感悟首次提出的“中国—中亚精神”](https://news.cctv.com/2025/06/19/ARTIEFUGPQw10FnsQruxnodS250619.shtml)
 
++ [国会听证在即 韩国国务总理提名人卷入争议](https://news.cctv.com/2025/06/19/ARTIQiZitfRaLlqi7yA1YlXm250619.shtml)
+
++ [普京：俄乌谈判团队准备在6月22日之后举行会谈](https://news.cctv.com/2025/06/19/ARTIblf9H7R2DqFapaKJBhjP250619.shtml)
+

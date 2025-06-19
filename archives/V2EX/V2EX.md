@@ -31,3 +31,11 @@
 
 + [Windows 远程连接暴露在公网被疯狂爆破](https://www.v2ex.com/t/1139552)
 
++ [今天晚上竟然用无人机拍到了闪电！](https://www.v2ex.com/t/1139546)
+
++ [听说国内要放开 eSIM 了？改变世界还得是 apple 啊](https://www.v2ex.com/t/1139598)
+
++ [最近用 VSCode Agent + Sonnet 4 从零开始做了个小游戏](https://www.v2ex.com/t/1139399)
+
++ [买了个手机，却高兴不起来](https://www.v2ex.com/t/1139558)
+

@@ -163,3 +163,9 @@
 
 + [Tailwind CSS 快速上手指南](https://blog.csdn.net/wanghaoyingand/article/details/148745063)
 
++ [基于RTX 4090，LoRA 微调 LLaMA2-7B + vLLM 轻量部署全流程实战（含训练与推理部署）](https://blog.csdn.net/weixin_53269650/article/details/148574296)
+
++ [Spring Boot——日志介绍和配置](https://blog.csdn.net/qq_42184486/article/details/148686866)
+
++ [【Linux驱动开发 ---- 2.1_深入理解 Linux 内核架构】](https://blog.csdn.net/SpringWJN/article/details/148714167)
+
