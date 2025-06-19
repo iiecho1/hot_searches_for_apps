@@ -149,3 +149,17 @@
 
 + [Go语言与Docker交互：版本与容器信息查询Client](https://blog.csdn.net/2401_83649605/article/details/148716766)
 
++ [大模型之Spring AI实战系列（二十三）：Spring AI + MCP + 自定义MCP服务开发实战](https://blog.csdn.net/xiaobing259/article/details/148720552)
+
++ [PyTorch实战（10）——CyclelGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/146259921)
+
++ [全面探索 KingbaseES 在线数据库平台：从开发到优化的全方位体验](https://blog.csdn.net/2302_79177254/article/details/148723768)
+
++ [分布式+RPC](https://blog.csdn.net/A18266678650/article/details/148690334)
+
++ [【Rust发邮件】Rust如何通过smtp协议发送邮件](https://blog.csdn.net/littlefun591/article/details/148745206)
+
++ [【Unity笔记】Unity URP 渲染中的灯光数量设置— 场景、使用方法与渲染原理详解](https://blog.csdn.net/qq_41140324/article/details/148681866)
+
++ [Tailwind CSS 快速上手指南](https://blog.csdn.net/wanghaoyingand/article/details/148745063)
+

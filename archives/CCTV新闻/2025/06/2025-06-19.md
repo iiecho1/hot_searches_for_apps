@@ -167,3 +167,33 @@
 
 + [普京称愿与泽连斯基会面](https://news.cctv.com/2025/06/19/ARTIjJZnkKTq6SxPzA5419l9250619.shtml)
 
++ [马克龙呼吁以色列立即停止袭击与伊朗核计划无关的目标](https://news.cctv.com/2025/06/19/ARTIOo3vlyjeS5RRdcQT6Jgk250619.shtml)
+
++ [美国西弗吉尼亚州洪水已造成至少8人死亡](https://news.cctv.com/2025/06/19/ARTIZojiFpqOHfrYIFpZGdXn250619.shtml)
+
++ [以军向伊朗两处核设施所在地指定区域发出撤离警告](https://news.cctv.com/2025/06/19/ARTI47bXpyDQPZojgWy2OQ8N250619.shtml)
+
++ [以军向伊朗两处核设施所在地指定区域发出撤离警告](https://news.cctv.com/2025/06/19/ARTILntfMVdXOzKMUJm4Z4c2250619.shtml)
+
++ [美高级官员透露美对伊袭击时间表](https://news.cctv.com/2025/06/19/ARTIgYsLjH8E6El4IgIYlRka250619.shtml)
+
++ [普京：伊朗未向俄方请求军事援助](https://news.cctv.com/2025/06/19/ARTIErJAo23uznVUvlpR6Ku5250619.shtml)
+
++ [美媒：特朗普称已批准美军打击伊朗计划但暂不下达命令](https://news.cctv.com/2025/06/19/ARTIKKKDzv2Il4PA0Gkn2u4v250619.shtml)
+
++ [美国将对所有赴美学生签证申请人进行网络审查](https://news.cctv.com/2025/06/19/ARTI7hSpuPAEJ0o9FWaoyc78250619.shtml)
+
++ [美联储继续维持联邦基金利率目标区间不变](https://news.cctv.com/2025/06/19/ARTIYaZXitwAspVb0LT36WrO250619.shtml)
+
++ [以军对伊朗多地发动新一轮袭击](https://news.cctv.com/2025/06/19/ARTIzBK3VxgxxNQIcmuem78z250619.shtml)
+
++ [批准作战计划却未下令原因揭晓 特朗普质疑美军钻地弹效力](https://news.cctv.com/2025/06/19/ARTICto9g4Y2QdQBFDjUzvHA250619.shtml)
+
++ [中国对最不发达国家“零关税”等举措在世贸组织获赞誉](https://news.cctv.com/2025/06/19/ARTI3HqqbsYct0RfP79O1eVf250619.shtml)
+
++ [第1视点｜弘扬“中国—中亚精神” 构建更加紧密的命运共同体](https://news.cctv.com/2025/06/19/ARTIOeFy3INeVxRNvVAL7WK8250619.shtml)
+
++ [一见·从三层“逻辑”，读懂“中国－中亚精神”](https://news.cctv.com/2025/06/19/ARTIGquQIYnvupth9Ixi8mau250619.shtml)
+
++ [近闻·8句话感悟首次提出的“中国—中亚精神”](https://news.cctv.com/2025/06/19/ARTIEFUGPQw10FnsQruxnodS250619.shtml)
+
