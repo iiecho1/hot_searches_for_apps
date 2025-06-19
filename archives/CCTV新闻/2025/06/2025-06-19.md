@@ -203,3 +203,7 @@
 
 + [印度空难已确认210名遇难者身份](https://news.cctv.com/2025/06/19/ARTIH9Cw0BkG3URblqTx3ow4250619.shtml)
 
++ [巴西宣布本轮高致病性禽流感疫情结束](https://news.cctv.com/2025/06/19/ARTIQ1usxreyF17vjdCo4w4s250619.shtml)
+
++ [国际观察｜“摇摇欲坠”的七国集团](https://news.cctv.com/2025/06/19/ARTIx1rMRJzOgowpdDpEYgdJ250619.shtml)
+
