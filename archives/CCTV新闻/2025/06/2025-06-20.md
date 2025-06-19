@@ -165,3 +165,5 @@
 
 + [新西兰简化中国护照持有人过境流程](https://news.cctv.com/2025/06/20/ARTIe9qpU3mMLwbtPQoqLMEp250619.shtml)
 
++ [中国驻美大使谢锋：“大院铁幕”只会激发中国加快自立自强](https://news.cctv.com/2025/06/20/ARTIXLfYLRk1LxRJT4Kq7J7X250619.shtml)
+
