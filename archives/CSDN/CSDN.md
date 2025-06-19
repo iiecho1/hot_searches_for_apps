@@ -109,3 +109,23 @@
 
 + [Spring Boot启动流程深度解析（源码级剖析）](https://blog.csdn.net/weixin_42148384/article/details/148714232)
 
++ [技术与情感交织的一生 （八）](https://blog.csdn.net/michaelline/article/details/147499461)
+
++ [全面探索 KingbaseES 在线数据库平台：从开发到优化的全方位体验](https://blog.csdn.net/2302_79177254/article/details/148723768)
+
++ [数据库管家KingbaseES：我的国产数据库初体验](https://blog.csdn.net/lwcwam/article/details/148723517)
+
++ [国产数据库KingbaseES：在线体验平台实测应用，学习测试sql的神器](https://blog.csdn.net/weixin_43151418/article/details/148722505)
+
++ [编程实战：1小时开发微信小游戏《我的早餐店》——基于CloudBase AI Toolkit](https://blog.csdn.net/Long_xu/article/details/148720872)
+
++ [python校园服务交流系统](https://blog.csdn.net/Q_Q511008285/article/details/148714057)
+
++ [【机器人】ForesightNav | 高效探索 动态场景 CVPR2025](https://blog.csdn.net/qq_41204464/article/details/148721387)
+
++ [HTML 与 CSS 的布局机制（盒模型、盒子定位、浮动、Flexbox、Grid）问题总结大全](https://blog.csdn.net/libin9iOak/article/details/148734478)
+
++ [视频续播功能实现 - 断点续看从前端到 Spring Boot 后端](https://blog.csdn.net/lhmyy521125/article/details/148767335)
+
++ [数学建模会议笔记](https://blog.csdn.net/m0_52024881/article/details/148751333)
+
