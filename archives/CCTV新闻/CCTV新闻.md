@@ -219,3 +219,9 @@
 
 + [美媒：以色列防空系统或仅还能支撑约10天](https://news.cctv.com/2025/06/19/ARTIvR3huckIcXxbtJhczluZ250619.shtml)
 
++ [黎真主党警告：暗杀哈梅内伊后果将“不堪设想”](https://news.cctv.com/2025/06/19/ARTI8fuVFiVuXOkT0DHxYLVZ250619.shtml)
+
++ [尹锡悦多次拒绝传唤调查 韩国警方考虑申请逮捕令](https://news.cctv.com/2025/06/19/ARTIOQ4sb2i10boJqF46nFr6250619.shtml)
+
++ [伊朗对以色列实施第14轮打击 利库德集团重要人物住所受波及](https://news.cctv.com/2025/06/19/ARTIFysPOZYv7WsIqsqu1ib8250619.shtml)
+
