@@ -229,3 +229,5 @@
 
 + [山水相连 心手相牵——中国中亚共绘丝路新画卷](https://news.cctv.com/2025/06/19/ARTIR6vz3gp1KXppTN37bCqb250619.shtml)
 
++ [伊朗警方称逮捕24名为以色列从事间谍或破坏性活动人员](https://news.cctv.com/2025/06/19/ARTIdpB1p0ztmFbYcgCGaHtt250619.shtml)
+
