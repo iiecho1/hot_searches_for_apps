@@ -129,3 +129,7 @@
 
 + [数学建模会议笔记](https://blog.csdn.net/m0_52024881/article/details/148751333)
 
++ [【第二章:机器学习与神经网络概述】01.聚类算法理论与实践-(2)层次聚类算法（Hierarchical Clustering）](https://blog.csdn.net/IT_ORACLE/article/details/148741494)
+
++ [Jupyter 是什么？基于浏览器的交互式计算环境](https://blog.csdn.net/m0_72427326/article/details/148750560)
+
