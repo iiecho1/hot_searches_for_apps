@@ -29,3 +29,17 @@
 
 + [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 
++ [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)
+
++ [kortix-ai/suna](https://github.com/kortix-ai/suna)
+
++ [ollama/ollama](https://github.com/ollama/ollama)
+
++ [vllm-project/vllm](https://github.com/vllm-project/vllm)
+
++ [espressif/esp-idf](https://github.com/espressif/esp-idf)
+
++ [firebase/genkit](https://github.com/firebase/genkit)
+
++ [MystenLabs/sui](https://github.com/MystenLabs/sui)
+
