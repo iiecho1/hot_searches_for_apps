@@ -101,3 +101,11 @@
 
 + [探秘KingbaseES在线体验平台：技术盛宴还是虚有其表？](https://blog.csdn.net/beautifulmemory/article/details/148723366)
 
++ [【粉丝福利社】MCP协议与AI Agent开发：标准、应用与实现](https://blog.csdn.net/aa2528877987/article/details/148770269)
+
++ [数据资产入表与AI融合：推动企业数字化转型的双重引擎](https://blog.csdn.net/weixin_41026747/article/details/148737107)
+
++ [matlab无法使用及激活部分工具箱？如何解决？](https://blog.csdn.net/weixin_43970743/article/details/148775436)
+
++ [Spring Boot启动流程深度解析（源码级剖析）](https://blog.csdn.net/weixin_42148384/article/details/148714232)
+

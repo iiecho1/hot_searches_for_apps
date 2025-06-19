@@ -25,3 +25,17 @@
 
 + [小米相册编辑焕新版本将覆盖 Hyper OS 1.0 和 2.0 支持机型，确认适配数字 10 系列等](https://m.ithome.com/html/861888.htm)
 
++ [华为鸿蒙 HarmonyOS NEXT 系统新版实况窗通用胶囊模板发布：软硬结合显示、三种设备样式](https://m.ithome.com/html/861962.htm)
+
++ [小霸王推出首款迷你主机“全帅 Mini 小主机”，1199 元起](https://m.ithome.com/html/861952.htm)
+
++ [安卓唯一，小米平板 7S Pro 支持 PC 级悬浮键盘](https://m.ithome.com/html/861931.htm)
+
++ [全网 618 狂促倒数半小时：小米 15 Ultra 16+512G 手机 4903 元 24 期免息](https://m.ithome.com/html/861955.htm)
+
++ [微信 PC 版 4.0.6 内测版更新，未下载文件可直接保存到电脑](https://m.ithome.com/html/861908.htm)
+
++ [“国补”将继续惠及消费者，1380 亿元中央资金今年三、四季度分批下达](https://m.ithome.com/html/862068.htm)
+
++ [微信鸿蒙版 App 1.0.7.39 正式版上线华为应用市场 App Gallery](https://m.ithome.com/html/861959.htm)
+
