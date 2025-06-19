@@ -167,3 +167,11 @@
 
 + [中国驻美大使谢锋：“大院铁幕”只会激发中国加快自立自强](https://news.cctv.com/2025/06/20/ARTIXLfYLRk1LxRJT4Kq7J7X250619.shtml)
 
++ [伊朗说打击以色列反导防御系统等军事目标](https://news.cctv.com/2025/06/20/ARTI5cz7neAZUwCTsd9MHzsD250620.shtml)
+
++ [伊朗向以色列发动新一轮导弹袭击致数十人受伤](https://news.cctv.com/2025/06/20/ARTI9mfL0uabkzmT28PlqXdd250620.shtml)
+
++ [捷克驻伊朗大使馆宣布临时闭馆](https://news.cctv.com/2025/06/20/ARTIh0HxbPSEOJCzh6zOadYm250620.shtml)
+
++ [泽连斯基：已准备好进行最高级别会晤并愿与普京会面](https://news.cctv.com/2025/06/20/ARTI6jqyXoxUs5CgDMmOqbkO250620.shtml)
+
