@@ -227,3 +227,7 @@
 
 + [【金仓数据库】KingbaseES在线体验平台：开启国产数据库学习新征程](https://blog.csdn.net/Morse_Chen/article/details/148723266)
 
++ [【AI智能体】Coze 搭建个人旅游规划助手实战详解](https://blog.csdn.net/zhangcongyi420/article/details/148367462)
+
++ [【Arduino 动手做】Arduino - 通过 Web 控制 Arm 机器人](https://blog.csdn.net/weixin_41659040/article/details/148758149)
+
