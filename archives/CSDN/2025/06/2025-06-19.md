@@ -189,3 +189,5 @@
 
 + [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | IncrementingCounter（递增计数器）](https://blog.csdn.net/qq_44808710/article/details/148745485)
 
++ [Python构建MCP服务器完整教程：5步打造专属AI工具调用系统](https://blog.csdn.net/m0_46510245/article/details/148760187)
+
