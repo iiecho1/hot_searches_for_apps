@@ -25,3 +25,25 @@
 
 + [华为余承东官宣鸿蒙 6：全场景智能操作系统再进化，星闪、小艺升级](https://m.ithome.com/html/862396.htm)
 
++ [“国补”将继续惠及消费者，1380 亿元中央资金今年三、四季度分批下达](https://m.ithome.com/html/862068.htm)
+
++ [玩家成功让初代任天堂 Switch 吃上 iOS：自嘲“史上最卡 iPhone”，QEMU 立功](https://m.ithome.com/html/861979.htm)
+
++ [小米雷军：美的、海尔都是非常优秀的企业，我们需要认真向这些优秀企业学习](https://m.ithome.com/html/862107.htm)
+
++ [苹果高管解释为何不合并 iPad 与 Mac：不想造“叉勺一体”的怪东西](https://m.ithome.com/html/861968.htm)
+
++ [华为 ADS（乾崑智驾）高阶功能包限时优惠价格公布：一次性购买 32000 元](https://m.ithome.com/html/862045.htm)
+
++ [李想称理想 i8 将于 7 月下旬发布，并晒出无伪装实车行驶视频](https://m.ithome.com/html/862075.htm)
+
++ [消息称苹果 iPhone 18 Pro 系列手机开案两块新屏，Face ID 屏下化处理](https://m.ithome.com/html/862191.htm)
+
++ [郭明錤：苹果折叠屏 iPhone 今秋启动生产，屏幕规格已确定](https://m.ithome.com/html/861965.htm)
+
++ [消息称尊界品牌将发布两款新车，其中一款为 S600](https://m.ithome.com/html/862144.htm)
+
++ [苹果推送 iOS 18.6 和 iPadOS 18.6 首个公测版](https://m.ithome.com/html/861973.htm)
+
++ [2026 QS 世界大学排名发布：约四成五内地学校名次较去年有所提升](https://m.ithome.com/html/861980.htm)
+

@@ -101,3 +101,11 @@
 
 + [CMake实践：指定gcc版本编译和交叉编译](https://blog.csdn.net/haokan123456789/article/details/148776803)
 
++ [VACM 详解：SNMPv3 的访问控制核心](https://blog.csdn.net/renchao7060/article/details/148620825)
+
++ [flink的多种部署模式](https://blog.csdn.net/Azoner/article/details/148759703)
+
++ [【机器人】ForesightNav | 高效探索 动态场景 CVPR2025](https://blog.csdn.net/qq_41204464/article/details/148721387)
+
++ [[Data Pipeline] Kafka消息 | Redis缓存 | Docker部署(Lambda架构)](https://blog.csdn.net/2301_80171004/article/details/148774479)
+
