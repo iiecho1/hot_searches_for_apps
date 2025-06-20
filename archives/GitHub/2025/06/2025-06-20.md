@@ -31,3 +31,19 @@
 
 + [MystenLabs/sui](https://github.com/MystenLabs/sui)
 
++ [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2)
+
++ [grafana/loki](https://github.com/grafana/loki)
+
++ [gabime/spdlog](https://github.com/gabime/spdlog)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+
++ [moby/buildkit](https://github.com/moby/buildkit)
+
