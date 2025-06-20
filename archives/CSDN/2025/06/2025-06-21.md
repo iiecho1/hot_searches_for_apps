@@ -109,3 +109,15 @@
 
 + [[Data Pipeline] Kafka消息 | Redis缓存 | Docker部署(Lambda架构)](https://blog.csdn.net/2301_80171004/article/details/148774479)
 
++ [Java 大视界 -- Java 大数据在智能医疗电子病历数据分析与临床科研中的应用（314）](https://blog.csdn.net/atgfg/article/details/148776601)
+
++ [Python构建MCP服务器完整教程：5步打造专属AI工具调用系统](https://blog.csdn.net/m0_46510245/article/details/148760187)
+
++ [ECK 简化：在 GCP GKE Autopilot 上部署 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/148780938)
+
++ [KungfuBot——基于物理约束和自适应运动追踪的人形全身控制PBHC，用于学习打拳或跳舞(即RL下的动作模仿和运控)](https://blog.csdn.net/v_JULY_v/article/details/148764804)
+
++ [ROS学习之动作通信](https://blog.csdn.net/qq_60043905/article/details/148775249)
+
++ [股票心理学习篇：交易的人性弱点 - 频繁交易](https://blog.csdn.net/weixin_45264425/article/details/148776526)
+

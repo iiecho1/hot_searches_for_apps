@@ -161,3 +161,5 @@
 
 + [学习新语｜一首诗一首歌，感受中哈深情厚谊](https://news.cctv.com/2025/06/18/ARTIjBjeS4M1SWvFlgs5HNrj250618.shtml)
 
++ [国际观察丨默许、纵容、火上浇油，以伊冲突背后的美国黑影](https://news.cctv.com/2025/06/21/ARTIUIzaOAjCd8DEEoow93dy250620.shtml)
+
