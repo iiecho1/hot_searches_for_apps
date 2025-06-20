@@ -175,3 +175,7 @@
 
 + [【设计模式】用观察者模式对比事件订阅(相机举例)](https://blog.csdn.net/songhuangong123/article/details/148766330)
 
++ [Spring Boot + MyBatis + Vue：构建高效全栈应用的实战指南](https://blog.csdn.net/weixin_66924704/article/details/148777226)
+
++ [CMake实践：指定gcc版本编译和交叉编译](https://blog.csdn.net/haokan123456789/article/details/148776803)
+

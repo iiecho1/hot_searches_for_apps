@@ -201,3 +201,11 @@
 
 + [美上诉法院支持特朗普政府保有进驻洛杉矶国民警卫队控制权](https://news.cctv.com/2025/06/20/ARTIs7VGpdloT1zTSeQuJvG2250620.shtml)
 
++ [专访丨南博会为南亚各国提供长期发展机遇——访巴基斯坦企业家赛义德·哈桑·拉扎](https://news.cctv.com/2025/06/20/ARTIWGNvl12PWiBRpA7yFLfT250620.shtml)
+
++ [中国中亚关系发展展现坚实确定性（和音）](https://news.cctv.com/2025/06/20/ARTI94INC4f9CqnrS537gPLX250620.shtml)
+
++ [国际原子能机构：伊朗洪达卜重水反应堆主体建筑受损](https://news.cctv.com/2025/06/20/ARTIEPcIqR1MH3B0m7INstTN250620.shtml)
+
++ [伊朗德黑兰市中心防空系统启动](https://news.cctv.com/2025/06/20/ARTIqbywuKpIKu2njZm9MskU250620.shtml)
+
