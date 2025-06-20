@@ -215,3 +215,5 @@
 
 + [以国防部长：将继续打击伊朗核设施与核科学家](https://military.cctv.com/2025/06/20/ARTItDEYylMcCUG6WCvA8liA250620.shtml)
 
++ [印度空难已确认223名遇难者身份](https://news.cctv.com/2025/06/20/ARTIrSLQ5Tv3WhvzpWWDcWYO250620.shtml)
+
