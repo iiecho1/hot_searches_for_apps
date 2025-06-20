@@ -149,3 +149,7 @@
 
 + [【Arduino 动手做】Arduino - 通过 Web 控制 Arm 机器人](https://blog.csdn.net/weixin_41659040/article/details/148758149)
 
++ [大模型之Spring AI实战系列（二十六）：Spring Boot + DeepSeek 实战指南：构建AI聊天应用](https://blog.csdn.net/xiaobing259/article/details/148767315)
+
++ [【计算机存储架构】分布式存储架构](https://blog.csdn.net/wnm23/article/details/148729735)
+

@@ -187,3 +187,7 @@
 
 + [新华鲜报丨共赴这场“东方之约”！南博会多元交融有看点](https://jingji.cctv.com/2025/06/20/ARTIYg6OhK7zkF6nyKxH3PUa250620.shtml)
 
++ [热浪来袭 英国发布高温健康警报](https://news.cctv.com/2025/06/20/ARTIVlSN6gLX7GK7lNriFvWt250620.shtml)
+
++ [伊朗说挫败以色列针对伊外长的暗杀行动](https://military.cctv.com/2025/06/20/ARTIoaNYcMJ9ooEC4zglyFY2250620.shtml)
+
