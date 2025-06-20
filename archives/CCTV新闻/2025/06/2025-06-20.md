@@ -179,3 +179,11 @@
 
 + [国际原子能机构：伊朗洪达卜重水反应堆遭袭 无放射性影响](https://news.cctv.com/2025/06/20/ARTIpivXLiRAZz96HFm66QU0250620.shtml)
 
++ [美国东北部遭遇恶劣天气 超50万户家庭断电](https://news.cctv.com/2025/06/20/ARTIN5nDfkDB9VO0JL7UZGYz250620.shtml)
+
++ [贸发会议报告：2024年全球外国直接投资下降11%](https://jingji.cctv.com/2025/06/20/ARTIjWVtOdO33pF4jePEdKxV250620.shtml)
+
++ [挪威驻以色列大使官邸遭袭 未造成人员伤亡](https://news.cctv.com/2025/06/20/ARTIqatcIIS80WnqbubpE68K250620.shtml)
+
++ [新华鲜报丨共赴这场“东方之约”！南博会多元交融有看点](https://jingji.cctv.com/2025/06/20/ARTIYg6OhK7zkF6nyKxH3PUa250620.shtml)
+

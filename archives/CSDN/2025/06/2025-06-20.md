@@ -139,3 +139,13 @@
 
 + [2025年06月18日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/148742017)
 
++ [Java 大视界 -- Java 大数据在智能教育个性化学习资源智能推荐系统中的知识图谱构建与应用（310）](https://blog.csdn.net/atgfg/article/details/148717381)
+
++ [【数据库】零门槛在线体验KingbaseES平台，SQL Server模式高阶玩法，动态创建数据体验函数、存储过程等功能](https://blog.csdn.net/lmy_520/article/details/148723464)
+
++ [OpenCV计算机视觉实战（11）——边缘检测详解](https://blog.csdn.net/qq_30167691/article/details/148151640)
+
++ [基于SpringBoot+微信小程序的背单词系统开发与实现-开题报告](https://blog.csdn.net/weixin_39709134/article/details/148776056)
+
++ [【Arduino 动手做】Arduino - 通过 Web 控制 Arm 机器人](https://blog.csdn.net/weixin_41659040/article/details/148758149)
+
