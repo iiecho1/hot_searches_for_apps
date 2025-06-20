@@ -165,3 +165,13 @@
 
 + [学习threejs，三维汽车模拟器，场景有树、云、山等](https://blog.csdn.net/qq_28419035/article/details/148772770)
 
++ [Chatbox AI全面测评｜AI集成工具箱，一键拿下国内外顶尖大模型](https://blog.csdn.net/weixin_66401877/article/details/148782045)
+
++ [Python从0到100（一百）：基于Transformer的时序数据建模与实现详解](https://blog.csdn.net/weixin_51390582/article/details/148773507)
+
++ [生成https免费证书并绑定到nginx](https://blog.csdn.net/LQ137969328/article/details/148745200)
+
++ [Python实例题：图片批量处理工具](https://blog.csdn.net/shangzhiqi/article/details/148703417)
+
++ [【设计模式】用观察者模式对比事件订阅(相机举例)](https://blog.csdn.net/songhuangong123/article/details/148766330)
+

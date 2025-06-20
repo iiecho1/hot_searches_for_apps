@@ -199,3 +199,5 @@
 
 + [乌克兰任命新陆军司令](https://military.cctv.com/2025/06/20/ARTILUd6CZ5cKHIlUaQs43v3250620.shtml)
 
++ [美上诉法院支持特朗普政府保有进驻洛杉矶国民警卫队控制权](https://news.cctv.com/2025/06/20/ARTIs7VGpdloT1zTSeQuJvG2250620.shtml)
+
