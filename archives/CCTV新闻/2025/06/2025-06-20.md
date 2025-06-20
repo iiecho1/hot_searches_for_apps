@@ -191,3 +191,5 @@
 
 + [伊朗说挫败以色列针对伊外长的暗杀行动](https://military.cctv.com/2025/06/20/ARTIoaNYcMJ9ooEC4zglyFY2250620.shtml)
 
++ [美多家航空公司暂停部分中东客运航班](https://news.cctv.com/2025/06/20/ARTIlaxGfYV71plDosr3Sjio250620.shtml)
+
