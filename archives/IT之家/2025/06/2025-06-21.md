@@ -47,3 +47,17 @@
 
 + [2026 QS 世界大学排名发布：约四成五内地学校名次较去年有所提升](https://m.ithome.com/html/861980.htm)
 
++ [罗马仕召回自燃风险充电宝遭吐槽寄不出去，顺丰、菜鸟等被曝紧急拒收](https://m.ithome.com/html/862493.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta1 发布：新增跨线程数据传递、处理拉端请求等底座开放能力](https://m.ithome.com/html/862488.htm)
+
++ [罗马仕大批充电宝的 3C 证书被“暂停”](https://m.ithome.com/html/862459.htm)
+
++ [又一个自燃风险充电宝：安克宣布召回部分批次基础款移动电源，将为用户寄送专用防火保护袋](https://m.ithome.com/html/862497.htm)
+
++ [荣耀 Magic V5 折叠屏手机外观公布：“减负不减配”的旗舰机](https://m.ithome.com/html/862306.htm)
+
++ [华为鸿蒙 HarmonyOS 6 开发者预览版 Beta 支持机型公布，含 Mate 60 / 70 / X5 等](https://m.ithome.com/html/862454.htm)
+
++ [华为 nova 14 系列手机上市 24 天零售突破一百万台](https://m.ithome.com/html/862414.htm)
+
