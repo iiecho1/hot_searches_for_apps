@@ -185,3 +185,15 @@
 
 + [在Linux上搭建FRP服务器及Docker部署FRP实现内网穿透方案二（Nginx前置 + FRP TCP穿透）](https://blog.csdn.net/weixin_45626288/article/details/148697798)
 
++ [N个神级大模型+MCP+全平台畅用，效率直接狂飙｜Chatbox AI用法介绍](https://blog.csdn.net/2301_80863610/article/details/148790156)
+
++ [金仓KingbaseES数据库深度解析：从“跟跑者“到“并跑者“的国产数据库突围之路](https://blog.csdn.net/2301_76341691/article/details/148722781)
+
++ [基于C#的Baumer相机二次开发教程](https://blog.csdn.net/m0_37816922/article/details/148771123)
+
++ [计算机网络：（五）信道复用技术，数字传输系统，宽带接入技术](https://blog.csdn.net/2402_83322742/article/details/148775978)
+
++ [Transformer实战——Hugging Face环境配置与应用详解](https://blog.csdn.net/LOVEmy134611/article/details/147769828)
+
++ [Postman 的 Jenkins 管理 - 自动构建](https://blog.csdn.net/weixin_73924918/article/details/148774793)
+

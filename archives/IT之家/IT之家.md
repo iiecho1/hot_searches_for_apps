@@ -63,3 +63,25 @@
 
 + [小米汽车：即日起至今年 7 月 17 日，已提车用户购延保服务享统一优惠价格](https://m.ithome.com/html/861960.htm)
 
++ [哪吒汽车正式被申请破产](https://m.ithome.com/html/862347.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 5.0.1.130 系统开推，适配 Mate 60 / 70、Pura 70 系列等手机](https://m.ithome.com/html/862258.htm)
+
++ [智界产品总监回应 HUAWEI SOUND 音响标签出现奇瑞标识：这是制造的规范化管理要求](https://m.ithome.com/html/862209.htm)
+
++ [全球首款华为乾崑智驾燃油车，一汽奥迪 A5L 正式启动预售](https://m.ithome.com/html/862354.htm)
+
++ [美团：“凌晨 5 点送外卖痛哭”“送餐被投诉几天白干”均为虚假摆拍](https://m.ithome.com/html/862252.htm)
+
++ [不止 iPhone 17 Air，消息称华为等多款新机也在测试 eSIM](https://m.ithome.com/html/862300.htm)
+
++ [华为开发者大会 HDC 2025 直播日程公布，含主题演讲、HarmonyOS 公开课等](https://m.ithome.com/html/862265.htm)
+
++ [QQ 苹果 iOS 版获 9.1.95 版本升级，支持“微信同款”来电弹窗功能](https://m.ithome.com/html/862236.htm)
+
++ [消息称苹果后年吃上屏下摄像头，安卓机型已启动“超前瞻”预研剑指同期发布](https://m.ithome.com/html/862350.htm)
+
++ [华为 nova 12 / 13 系列手机获 HarmonyOS 5.0.1.130 公测版升级，新增“动态照片开关”](https://m.ithome.com/html/862264.htm)
+
++ [华为余承东官宣鸿蒙 6：全场景智能操作系统再进化，星闪、小艺升级](https://m.ithome.com/html/862396.htm)
+
