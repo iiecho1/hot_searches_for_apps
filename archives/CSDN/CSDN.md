@@ -121,3 +121,7 @@
 
 + [股票心理学习篇：交易的人性弱点 - 频繁交易](https://blog.csdn.net/weixin_45264425/article/details/148776526)
 
++ [DAY 37 早停策略和模型权重的保存](https://blog.csdn.net/2302_77343683/article/details/148800661)
+
++ [Qt/C++开发监控GB28181系统/记一个取流失败问题的解决/不支持的传输模式/主动拉流端口校验](https://blog.csdn.net/feiyangqingyun/article/details/148729649)
+
