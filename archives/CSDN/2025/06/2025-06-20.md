@@ -157,3 +157,11 @@
 
 + [用Go写一个飞书机器人定时发送消息的程序](https://blog.csdn.net/qq_41688840/article/details/148747774)
 
++ [工业AI永不停机：YOLO持续学习与自适应优化实战（365天维持98%+准确率）](https://blog.csdn.net/weixin_39815573/article/details/148781993)
+
++ [数据库从零开始：MySQL 中的 DDL 库操作详解【Linux版】](https://blog.csdn.net/effort123_/article/details/148777703)
+
++ [基于Perplexica与内网穿透工具的本地AI搜索服务远程访问实践过程](https://blog.csdn.net/weixin_44976692/article/details/148765969)
+
++ [学习threejs，三维汽车模拟器，场景有树、云、山等](https://blog.csdn.net/qq_28419035/article/details/148772770)
+

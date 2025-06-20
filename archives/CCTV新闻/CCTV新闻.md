@@ -193,3 +193,9 @@
 
 + [美多家航空公司暂停部分中东客运航班](https://news.cctv.com/2025/06/20/ARTIlaxGfYV71plDosr3Sjio250620.shtml)
 
++ [伊朗袭击以色列“网络首都”](https://news.cctv.com/2025/06/20/ARTIXVLC1eqrYJTaiGaAzV2V250620.shtml)
+
++ [习言道｜一首诗、两部剧、三句谚语，读懂“中国－中亚精神”](https://news.cctv.com/2025/06/20/ARTI8EIsvmEo0iBfSuguSEWw250620.shtml)
+
++ [乌克兰任命新陆军司令](https://military.cctv.com/2025/06/20/ARTILUd6CZ5cKHIlUaQs43v3250620.shtml)
+
