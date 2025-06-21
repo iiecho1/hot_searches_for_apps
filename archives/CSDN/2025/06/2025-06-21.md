@@ -159,3 +159,11 @@
 
 + [如何正确处理音频数据：16位整数与32位浮点数](https://blog.csdn.net/qq_34941290/article/details/148801032)
 
++ [Spring Boot + MyBatis + Vue：全栈开发中的最佳实践](https://blog.csdn.net/weixin_66924704/article/details/148801568)
+
++ [Kubernetes控制平面组件：Kubelet详解（八）：容器存储接口 CSI](https://blog.csdn.net/a1369760658/article/details/148367033)
+
++ [基于物联网的智能衣柜系统设计](https://blog.csdn.net/Candy5204/article/details/148801399)
+
++ [.NET 的配置系统](https://blog.csdn.net/R3333355726856/article/details/148761558)
+

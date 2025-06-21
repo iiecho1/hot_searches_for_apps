@@ -199,3 +199,7 @@
 
 + [普京：俄罗斯准备支持伊朗发展和平核能](https://news.cctv.com/2025/06/21/ARTIcnf3R2bBAsXGiAUljOnq250621.shtml)
 
++ [总台现场直击丨87名中国公民从伊朗顺利撤离至阿塞拜疆巴库](https://news.cctv.com/2025/06/21/ARTIFvYoQF3n6bXBsr8mK4qT250621.shtml)
+
++ [以军称空袭伊朗伊斯法罕的离心机生产设施](https://military.cctv.com/2025/06/21/ARTIWFE5nNFBeSUMMXPxUOd8250621.shtml)
+
