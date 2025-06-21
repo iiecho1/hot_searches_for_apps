@@ -163,3 +163,7 @@
 
 + [巴西南部一热气球起火 至少8人死亡](https://news.cctv.com/2025/06/22/ARTIDH4NzviTWSV8G0AwxVMk250621.shtml)
 
++ [西班牙莱里达发生森林火灾 已烧毁超400公顷土地](https://news.cctv.com/2025/06/22/ARTIFe4N8lweGcJNoJleUbJO250622.shtml)
+
++ [尼日利亚东北部自杀式爆炸袭击致死至少24人](https://news.cctv.com/2025/06/22/ARTIhgPRd5MDbf5X4PZjsb7J250621.shtml)
+

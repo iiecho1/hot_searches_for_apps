@@ -127,3 +127,5 @@
 
 + [Spark 以及 spark streaming 核心原理及实践](https://blog.csdn.net/2301_82041400/article/details/148785276)
 
++ [服务网格安全（Istio）：用零信任架构重构微服务通信安全](https://blog.csdn.net/like21a/article/details/148799415)
+
