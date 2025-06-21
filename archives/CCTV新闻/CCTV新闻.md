@@ -211,3 +211,7 @@
 
 + [外媒聚焦第二届中国—中亚峰会及中国—中亚机制积极影响——睦邻友好之道 发展共赢之路（国际论道）](https://news.cctv.com/2025/06/21/ARTIteig0RHEPwr4y9dZ3feo250621.shtml)
 
++ [中国驻以色列大使：已组织两批约400名人员撤离](https://news.cctv.com/2025/06/21/ARTIMKFkgCkMVV9cUWj7jCHv250621.shtml)
+
++ [泽连斯基签署法令 任命乌克兰总检察长](https://news.cctv.com/2025/06/21/ARTISLtw2imbhmaWu3VWOv4A250621.shtml)
+

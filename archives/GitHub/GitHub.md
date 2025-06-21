@@ -29,3 +29,15 @@
 
 + [moby/buildkit](https://github.com/moby/buildkit)
 
++ [typst/typst](https://github.com/typst/typst)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
+
++ [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)
+
++ [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+
++ [unionlabs/union](https://github.com/unionlabs/union)
+
