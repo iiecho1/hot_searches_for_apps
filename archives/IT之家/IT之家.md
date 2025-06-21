@@ -53,3 +53,7 @@
 
 + [微信 8.0.60 内测功能 +1：朋友圈评论支持表情包及图片回复](https://m.ithome.com/html/862506.htm)
 
++ [卢伟冰：小米 MIX Flip 2 折叠屏手机下周见](https://m.ithome.com/html/862502.htm)
+
++ [微软 Win11 Linux 子系统（WSL）首个开源版本 2.6.0 发布](https://m.ithome.com/html/862544.htm)
+
