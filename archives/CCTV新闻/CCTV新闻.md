@@ -181,3 +181,7 @@
 
 + [致力永久睦邻友好 树立区域合作标杆——习近平主席中亚之行推动中国中亚携手迈向共同现代化](https://news.cctv.com/2025/06/21/ARTIdbH3pMYJC3ploVbZNkSt250621.shtml)
 
++ [中欧空中桥梁持续上新 上海—米兰直飞航线开通](https://news.cctv.com/2025/06/21/ARTIwm8VhQdOmYvpwDuzpoaS250621.shtml)
+
++ [南博会上“头回客”和“回头客”共享中国发展新机遇](https://news.cctv.com/2025/06/21/ARTIHCaGoJbYDojIaPMTSZ81250621.shtml)
+

@@ -33,3 +33,7 @@
 
 + [大 A 亏麻了，有没有群可以加，一起吐槽](https://www.v2ex.com/t/1139913)
 
++ [农村晚上真没地方去 咋办 注意本贴最重要的是倒数后两段内容](https://www.v2ex.com/t/1140028)
+
++ [逃离了 sourcetree，开始使用开发工具自带的 git gui](https://www.v2ex.com/t/1139926)
+
