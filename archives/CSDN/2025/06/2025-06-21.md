@@ -147,3 +147,7 @@
 
 + [MCP协议与AI Agent开发:标准、应用与实现【好书推荐】](https://blog.csdn.net/weixin_52908342/article/details/148788371)
 
++ [【Linux-shell】探索Dialog 工具在 Shell 图形化编程中的高效范式重构](https://blog.csdn.net/m0_75192474/article/details/148806622)
+
++ [【设计模式】用观察者模式对比事件订阅(相机举例)](https://blog.csdn.net/songhuangong123/article/details/148766330)
+
