@@ -167,3 +167,7 @@
 
 + [尼日利亚东北部自杀式爆炸袭击致死至少24人](https://news.cctv.com/2025/06/22/ARTIhgPRd5MDbf5X4PZjsb7J250621.shtml)
 
++ [乍得西南部发生暴力冲突 致18死17伤](https://news.cctv.com/2025/06/22/ARTIhnvrBbzBPq4Q6I4Nz40c250622.shtml)
+
++ [伊朗称又逮捕一名以色列间谍嫌疑人](https://news.cctv.com/2025/06/22/ARTIlkv8FLleaE9B3ZK2NNTS250622.shtml)
+
