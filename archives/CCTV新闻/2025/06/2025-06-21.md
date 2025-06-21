@@ -175,3 +175,9 @@
 
 + [伊朗与欧洲三国日内瓦密谈3小时：以方停火是外交解决前提](https://news.cctv.com/2025/06/21/ARTI2UIzzFdPM1TtqYOYP8ot250621.shtml)
 
++ [伊朗外交部发言人：以色列袭击医务人员是“战争罪”](https://news.cctv.com/2025/06/21/ARTI77BXYqF5iNJ5gwGksIed250621.shtml)
+
++ [以军称对伊朗导弹设施发起新一轮打击](https://news.cctv.com/2025/06/21/ARTIHePG7GfpXc7ddxvUIhpC250621.shtml)
+
++ [致力永久睦邻友好 树立区域合作标杆——习近平主席中亚之行推动中国中亚携手迈向共同现代化](https://news.cctv.com/2025/06/21/ARTIdbH3pMYJC3ploVbZNkSt250621.shtml)
+
