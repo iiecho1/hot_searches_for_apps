@@ -61,3 +61,7 @@
 
 + [一人夸一句缇宝。](https://m.acfun.cn/v/?ac=47420215)
 
++ [隙 / Riria【Cover】](https://m.acfun.cn/v/?ac=47418768)
+
++ [「森林（cover：郑兴）」——“把年轮数一数 吹平凡的蜡烛 至少还有理想值得庆祝”](https://m.acfun.cn/v/?ac=47421147)
+
