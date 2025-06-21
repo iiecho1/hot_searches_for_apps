@@ -49,3 +49,7 @@
 
 + [华为鸿蒙 HarmonyOS 6 引入跨域融合编译优化技术实现“应用秒开”，推出 HMOS 代码工坊便于开发者学习](https://m.ithome.com/html/862589.htm)
 
++ [鸿蒙 HarmonyOS 6 开发者预览版 Beta 招募开放报名，支持华为 Mate 60/70 及 X5 等机型](https://m.ithome.com/html/862487.htm)
+
++ [微信 8.0.60 内测功能 +1：朋友圈评论支持表情包及图片回复](https://m.ithome.com/html/862506.htm)
+
