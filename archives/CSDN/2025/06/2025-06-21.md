@@ -151,3 +151,9 @@
 
 + [【设计模式】用观察者模式对比事件订阅(相机举例)](https://blog.csdn.net/songhuangong123/article/details/148766330)
 
++ [变幻莫测：CoreData 中 Transformable 类型面面俱到（五）](https://blog.csdn.net/mydo/article/details/148228078)
+
++ [领码 SPARK 融合平台赋能工程建设行业物资管理革新——数智赋能，重塑中国模式新范式](https://blog.csdn.net/lgf228/article/details/148790520)
+
++ [python+uniapp基于微信小程序的高校二手商品交易系统](https://blog.csdn.net/Q_Q1963288475/article/details/148715909)
+
