@@ -131,3 +131,5 @@
 
 + [基于 OpenCV 的图像亮度、对比度与锐度调节](https://blog.csdn.net/luofeiju/article/details/148762386)
 
++ [Git的AI进化：智能代码协作的未来实践指南](https://blog.csdn.net/Dreamy_zsy/article/details/148805319)
+
