@@ -215,3 +215,11 @@
 
 + [泽连斯基签署法令 任命乌克兰总检察长](https://news.cctv.com/2025/06/21/ARTISLtw2imbhmaWu3VWOv4A250621.shtml)
 
++ [学习时节｜从“机制”到“精神”，习近平主席擘画中国—中亚关系发展新蓝图](https://news.cctv.com/2025/06/21/ARTIbp9vdMJaL7HwJzoweiCv250621.shtml)
+
++ [述评丨弘扬“中国—中亚精神” 开创更加美好未来](https://news.cctv.com/2025/06/21/ARTIj33lrQOTSRATxo74MPUH250621.shtml)
+
++ [印度内政部长放话：绝不恢复履行《印度河用水条约》，流向巴方的水源转供印国内调配](https://news.cctv.com/2025/06/21/ARTIK5uSg6C4j9Hab923JMOX250621.shtml)
+
++ [美媒：两架伊朗单向攻击无人机突破以色列防空系统发动袭击](https://news.cctv.com/2025/06/21/ARTIEl6iGJp5CZOP37EhFsfj250621.shtml)
+

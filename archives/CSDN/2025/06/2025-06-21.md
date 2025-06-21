@@ -183,3 +183,9 @@
 
 + [计算机网络 网络层：数据平面（一）](https://blog.csdn.net/Zhang_Qin123/article/details/148278446)
 
++ [华为云Flexus+DeepSeek征文 | 基于Flexus X实例的金融AI Agent开发：智能风控与交易决策系统](https://blog.csdn.net/IRpickstars/article/details/148808927)
+
++ [机器学习异常检测实战：用Isolation Forest快速构建无标签异常检测系统](https://blog.csdn.net/m0_46510245/article/details/148805125)
+
++ [GitHub 趋势日报 (2025年06月19日)](https://blog.csdn.net/ShrCheng/article/details/148780730)
+
