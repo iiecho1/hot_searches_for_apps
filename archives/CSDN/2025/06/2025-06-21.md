@@ -167,3 +167,7 @@
 
 + [.NET 的配置系统](https://blog.csdn.net/R3333355726856/article/details/148761558)
 
++ [AWK在网络安全中的高效应用：从日志分析到威胁狩猎](https://blog.csdn.net/weixin_41905135/article/details/148766986)
+
++ [【网络安全】文件上传型XSS攻击解析](https://blog.csdn.net/anquan2233/article/details/148796467)
+

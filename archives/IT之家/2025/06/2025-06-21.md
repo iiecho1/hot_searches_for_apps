@@ -63,3 +63,21 @@
 
 + [苹果 CEO 库克：今年秋天会再来中国，这里充满活力和生机](https://m.ithome.com/html/862158.htm)
 
++ [充电宝电芯供应商安普瑞斯（无锡）的所有电池 3C 证书被暂停或撤销](https://m.ithome.com/html/862539.htm)
+
++ [高德地图车机版官网论坛宣布 7 月 20 日停服](https://m.ithome.com/html/862541.htm)
+
++ [鸿蒙 HarmonyOS 6 开发者预览版 Beta 招募开放报名，支持华为 Mate 60/70 及 X5 等机型](https://m.ithome.com/html/862487.htm)
+
++ [罗马仕京东自营旗舰店下架所有移动电源商品，淘宝屏蔽“罗马仕充电宝”关键字](https://m.ithome.com/html/862607.htm)
+
++ [苹果发布 81 页幻灯片：帮孩子说服父母买 Mac 作为学习设备](https://m.ithome.com/html/862588.htm)
+
++ [微信 8.0.60 内测功能 +1：朋友圈评论支持表情包及图片回复](https://m.ithome.com/html/862506.htm)
+
++ [华为 MateBook Fold 非凡大师折叠 PC 获鸿蒙 HarmonyOS 5.0.1.315 升级，支持折叠态使用系统虚拟化能力](https://m.ithome.com/html/862547.htm)
+
++ [“大 7 磅礴”：比亚迪发布中大型 SUV 新车方程豹钛 7 官图](https://m.ithome.com/html/862563.htm)
+
++ [初探苹果 macOS 26 转译游戏表现：M1 Max 跑《黑神话：悟空》《巫师 3》等超 60 FPS](https://m.ithome.com/html/862613.htm)
+
