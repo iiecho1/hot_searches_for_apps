@@ -145,3 +145,5 @@
 
 + [Android Java语言转Kotlin语言学习指导实用攻略](https://blog.csdn.net/wenzhi20102321/article/details/148798251)
 
++ [MCP协议与AI Agent开发:标准、应用与实现【好书推荐】](https://blog.csdn.net/weixin_52908342/article/details/148788371)
+
