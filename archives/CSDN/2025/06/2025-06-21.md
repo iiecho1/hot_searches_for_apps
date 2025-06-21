@@ -177,3 +177,9 @@
 
 + [Springboot仿抖音app开发之Nacos 分布式服务与配置中心（进阶）](https://blog.csdn.net/xuziang13/article/details/148762305)
 
++ [MySQL之事务深度解析](https://blog.csdn.net/aa_hdkf_vg/article/details/148801487)
+
++ [OSI网络通信模型详解](https://blog.csdn.net/alonetown/article/details/148800513)
+
++ [计算机网络 网络层：数据平面（一）](https://blog.csdn.net/Zhang_Qin123/article/details/148278446)
+

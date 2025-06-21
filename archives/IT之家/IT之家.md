@@ -81,3 +81,7 @@
 
 + [初探苹果 macOS 26 转译游戏表现：M1 Max 跑《黑神话：悟空》《巫师 3》等超 60 FPS](https://m.ithome.com/html/862613.htm)
 
++ [卢伟冰：小米 MIX Flip 2 折叠屏手机下周见](https://m.ithome.com/html/862502.htm)
+
++ [微软 Win11 Linux 子系统（WSL）首个开源版本 2.6.0 发布](https://m.ithome.com/html/862544.htm)
+
