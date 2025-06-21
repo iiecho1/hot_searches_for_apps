@@ -57,3 +57,9 @@
 
 + [微软 Win11 Linux 子系统（WSL）首个开源版本 2.6.0 发布](https://m.ithome.com/html/862544.htm)
 
++ [华中科技大学宣布获个人匿名捐赠 1.8 亿元人民币](https://m.ithome.com/html/862701.htm)
+
++ [理想汽车产品经理：i8 不会像其他大六座 SUV 一样卖到 50 万元以上](https://m.ithome.com/html/862622.htm)
+
++ [消息称苹果为基础款 iPhone 17 酝酿新配色：紫色 / 绿色候选](https://m.ithome.com/html/862559.htm)
+
