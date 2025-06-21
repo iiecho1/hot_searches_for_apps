@@ -193,3 +193,9 @@
 
 + [韩国警方对15名济州航空空难事故相关责任人立案调查](https://news.cctv.com/2025/06/21/ARTIByi3DgPu7Wm5xI4jrpu9250621.shtml)
 
++ [英国研发新型机器人皮肤](https://news.cctv.com/2025/06/21/ARTIf4nHZJEKDDjHhTEe3T2D250621.shtml)
+
++ [李在明下令调查韩国邪教“新天地教会”](https://news.cctv.com/2025/06/21/ARTI9UpXGRVHv9c8rITWPZtT250621.shtml)
+
++ [普京：俄罗斯准备支持伊朗发展和平核能](https://news.cctv.com/2025/06/21/ARTIcnf3R2bBAsXGiAUljOnq250621.shtml)
+
