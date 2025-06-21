@@ -125,3 +125,11 @@
 
 + [Qt/C++开发监控GB28181系统/记一个取流失败问题的解决/不支持的传输模式/主动拉流端口校验](https://blog.csdn.net/feiyangqingyun/article/details/148729649)
 
++ [华为云Flexus+DeepSeek征文｜打造一款智能问数 AI Agent 的完整实践指南](https://blog.csdn.net/qq_44273429/article/details/148742203)
+
++ [跟着AI学习C# Day22](https://blog.csdn.net/qq_35151545/article/details/148773946)
+
++ [基于Perplexica与内网穿透工具的本地AI搜索服务远程访问实践过程](https://blog.csdn.net/weixin_44976692/article/details/148765969)
+
++ [【CS创世SD NAND征文】STM32户外无线终端管理设备的数据存储方案](https://blog.csdn.net/m0_61712829/article/details/148798089)
+
