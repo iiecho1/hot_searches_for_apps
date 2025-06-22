@@ -161,3 +161,7 @@
 
 + [伊朗恢复全国网络服务](https://news.cctv.com/2025/06/21/ARTI8MA7FrvYA6UFyY1ygAlQ250621.shtml)
 
++ [叙利亚首都大马士革一座教堂发生爆炸25人丧生](https://news.cctv.com/2025/06/23/ARTIjQY88Wep4gsKwv4HNjJN250623.shtml)
+
++ [美防长说基本摧毁了伊朗的核项目](https://news.cctv.com/2025/06/23/ARTIP02Y3cfRZKQEIGuwZAOz250623.shtml)
+
