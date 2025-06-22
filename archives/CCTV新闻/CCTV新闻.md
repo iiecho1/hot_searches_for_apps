@@ -165,3 +165,5 @@
 
 + [美防长说基本摧毁了伊朗的核项目](https://news.cctv.com/2025/06/23/ARTIP02Y3cfRZKQEIGuwZAOz250623.shtml)
 
++ [以方称伊朗新一轮导弹袭击致至少16人受伤](https://news.cctv.com/2025/06/23/ARTIG3a8FuYRIcQQQKMqnNTG250623.shtml)
+
