@@ -113,3 +113,23 @@
 
 + [【DDD】——带你领略领域驱动设计的独特魅力](https://blog.csdn.net/shsjssnn/article/details/145587021)
 
++ [吴恩达：从斯坦福到 Coursera，他的深度学习布道之路](https://blog.csdn.net/qq_51646682/article/details/148816339)
+
++ [【Arduino 动手做】如何DIY 32波段LED音频音乐频谱分析仪](https://blog.csdn.net/weixin_41659040/article/details/148827219)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(三十六) -＞ 配置构建(三)](https://blog.csdn.net/weixin_74809706/article/details/148832605)
+
++ [华为云 Flexus+DeepSeek 实战：华为云Dify 平台 CCE 高可用集群部署与大模型知识库构建指南](https://blog.csdn.net/weixin_62765017/article/details/148809286)
+
++ [Linux进程信号](https://blog.csdn.net/sqm_C/article/details/146291972)
+
++ [我开源了一套springboot3快速开发模板](https://blog.csdn.net/m0_48069349/article/details/148813439)
+
++ [5.2 Qt Creator 使用FFmpeg库](https://blog.csdn.net/xiaojingfirst/article/details/148813270)
+
++ [我用一个 Postgres 表替换了 MongoDB，这是我学到的经验](https://blog.csdn.net/xiongwenhao6/article/details/148809078)
+
++ [音视频之H.264的可伸缩编码SVC](https://blog.csdn.net/wangyongyao1989/article/details/148771406)
+
++ [多协议物联网关的方案测试-基于米尔全志T536开发板](https://blog.csdn.net/Jason_zhao_MR/article/details/148784821)
+
