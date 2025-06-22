@@ -63,3 +63,27 @@
 
 + [消息称苹果为基础款 iPhone 17 酝酿新配色：紫色 / 绿色候选](https://m.ithome.com/html/862559.htm)
 
++ [华为朱懂东：鸿蒙电脑未来会支持侧载，下半年推出“键盘可以拆开的电脑”](https://m.ithome.com/html/862722.htm)
+
++ [小米 YU7 Max 车型谍照曝光：汽车中控 / 后扰流 / 鸭尾 / 后视镜等处均应用碳纤维](https://m.ithome.com/html/862735.htm)
+
++ [罗永浩回忆科技圈往事，称余承东曾“粗暴”挖锤子科技员工](https://m.ithome.com/html/862737.htm)
+
++ [多家机场严查罗马仕 / 安克品牌移动电源充电宝，涉及深圳宝安 / 长沙黄花 / 南昌昌北等](https://m.ithome.com/html/862787.htm)
+
++ [蔡磊：单基因渐冻症药物已经实现突破，三年前必然死去的患者现在有的可以活下来](https://m.ithome.com/html/862757.htm)
+
++ [比亚迪方程豹豹 8 全球首发华为 HiCar 6.0 镜像模式，四季度推送](https://m.ithome.com/html/862716.htm)
+
++ [酷态科回应 6 号移动电源 CCC 认证异常：测试方法不同导致，产品符合国标可放心使用](https://m.ithome.com/html/862797.htm)
+
++ [上线仅一天，苹果撤下“说服父母给你买一台 Mac”的广告视频](https://m.ithome.com/html/862730.htm)
+
++ [华为智选品牌升级为“鸿蒙智选”，覆盖智能家居、运动健康等智能硬件领域](https://m.ithome.com/html/862777.htm)
+
++ [小米 REDMI K80 至尊版手机搭载瑞声科技全家桶](https://m.ithome.com/html/862800.htm)
+
++ [WinRAR 官方手提包周边开售，定价 150 美元相当于购买 5 份正版压缩软件](https://m.ithome.com/html/862806.htm)
+
++ [苹果 iOS 26 新增自适应电源模式仅适用 iPhone 15 Pro 及后续机型，需 Apple 智能 AI 驱动](https://m.ithome.com/html/862728.htm)
+

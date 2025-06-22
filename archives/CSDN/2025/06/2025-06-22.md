@@ -199,3 +199,9 @@
 
 + [华为云Flexus+DeepSeek征文｜开启DeepSeek-V3+R1商用服务之旅](https://blog.csdn.net/lwcwam/article/details/148826996)
 
++ [华为云Flexus+DeepSeek征文｜低代码 × 强推理：华为云 Flexus 搭建可部署的 AI Agent 实践方案【搭建宠物养护小知识AI助手】](https://blog.csdn.net/weixin_52908342/article/details/148828641)
+
++ [Linux进程信号](https://blog.csdn.net/sqm_C/article/details/146291972)
+
++ [计算机网络第九章——数据链路层《流量控制和可靠传输》](https://blog.csdn.net/m0_73991249/article/details/148808099)
+
