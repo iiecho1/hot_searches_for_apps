@@ -49,3 +49,7 @@
 
 + [消息称苹果为基础款 iPhone 17 酝酿新配色：紫色 / 绿色候选](https://m.ithome.com/html/862559.htm)
 
++ [华为朱懂东：鸿蒙电脑未来会支持侧载，下半年推出“键盘可以拆开的电脑”](https://m.ithome.com/html/862722.htm)
+
++ [比亚迪方程豹豹 8 全球首发华为 HiCar 6.0 镜像模式，四季度推送](https://m.ithome.com/html/862716.htm)
+
