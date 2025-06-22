@@ -25,3 +25,27 @@
 
 + [海思技术有限公司：星闪硬总线加持鸿蒙软总线将实现 1+1＞2 效果，覆盖 IoT 家电、轻智能等领域](https://m.ithome.com/html/862781.htm)
 
++ [罗马仕京东自营旗舰店下架所有移动电源商品，淘宝屏蔽“罗马仕充电宝”关键字](https://m.ithome.com/html/862607.htm)
+
++ [韦东奕就餐遭“贴脸拍摄”，北京网信办宣布严打跟拍盯拍、恶意蹭热](https://m.ithome.com/html/862698.htm)
+
++ [《情感反诈模拟器》超越《黑神话：悟空》登顶 Steam 中国区热销榜](https://m.ithome.com/html/862658.htm)
+
++ [苹果发布 81 页幻灯片：帮孩子说服父母买 Mac 作为学习设备](https://m.ithome.com/html/862588.htm)
+
++ [华中科技大学宣布获个人匿名捐赠 1.8 亿元人民币](https://m.ithome.com/html/862701.htm)
+
++ [“大 7 磅礴”：比亚迪发布中大型 SUV 新车方程豹钛 7 官图](https://m.ithome.com/html/862563.htm)
+
++ [初探苹果 macOS 26 转译游戏表现：M1 Max 跑《黑神话：悟空》《巫师 3》等超 60 FPS](https://m.ithome.com/html/862613.htm)
+
++ [小米汽车称严禁以任何形式诋毁竞品：新品上市前期，外界可能会出现较多虚假信息](https://m.ithome.com/html/862652.htm)
+
++ [理想汽车回应“MEGA 地库起火事件”：发现打火机烧焦残骸，起火点附近的中控台线束完整](https://m.ithome.com/html/862675.htm)
+
++ [华为鸿蒙 HarmonyOS 6 引入跨域融合编译优化技术实现“应用秒开”，推出 HMOS 代码工坊便于开发者学习](https://m.ithome.com/html/862589.htm)
+
++ [理想汽车产品经理：i8 不会像其他大六座 SUV 一样卖到 50 万元以上](https://m.ithome.com/html/862622.htm)
+
++ [消息称苹果为基础款 iPhone 17 酝酿新配色：紫色 / 绿色候选](https://m.ithome.com/html/862559.htm)
+
