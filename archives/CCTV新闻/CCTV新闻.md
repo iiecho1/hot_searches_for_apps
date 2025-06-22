@@ -273,3 +273,5 @@
 
 + [动用B-2轰炸机等超125架飞机 美公布打击伊朗核设施行动细节](https://news.cctv.com/2025/06/22/ARTIm93vU7lJKIgexkh6ZcdL250622.shtml)
 
++ [美军说动用7架B－2轰炸机打击伊朗核设施](https://news.cctv.com/2025/06/22/ARTI70NykJZWkK6exvPQCNr6250622.shtml)
+
