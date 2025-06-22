@@ -265,3 +265,9 @@
 
 + [美国加州一游艇倾覆致6人遇难](https://news.cctv.com/2025/06/22/ARTIbVr3QdDqIuAl5GTqbgVb250622.shtml)
 
++ [韩国总统办公室：李在明将不出席北约峰会](https://news.cctv.com/2025/06/22/ARTIE36RDgFiUteTgY33rQ8R250622.shtml)
+
++ [伊外长召开新闻发布会：伊朗将在必要时对美作出回应](https://news.cctv.com/2025/06/22/ARTIV7943VbaJNTjxQdCM3Hh250622.shtml)
+
++ [国际观察｜美国“危险豪赌”加剧中东危局](https://news.cctv.com/2025/06/22/ARTI6PN4Ww1dirosfrjeKNjN250622.shtml)
+

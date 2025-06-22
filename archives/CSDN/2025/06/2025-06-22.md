@@ -193,3 +193,9 @@
 
 + [西门子S7通信协议抓包分析应用](https://blog.csdn.net/qq_26303227/article/details/148801510)
 
++ [[计算机网络] 局域网内的网络传输](https://blog.csdn.net/SDFsoul/article/details/148824240)
+
++ [【DDD】——带你领略领域驱动设计的独特魅力](https://blog.csdn.net/shsjssnn/article/details/145587021)
+
++ [华为云Flexus+DeepSeek征文｜开启DeepSeek-V3+R1商用服务之旅](https://blog.csdn.net/lwcwam/article/details/148826996)
+
