@@ -219,3 +219,15 @@
 
 + [日媒证实防卫费分歧致日美高官会晤推迟](https://news.cctv.com/2025/06/22/ARTIMxGMjVqDbvXkWi1lVhpO250622.shtml)
 
++ [尼泊尔两巴士相撞 7人死亡25人受伤](https://news.cctv.com/2025/06/22/ARTIyAIwbzgB1yeiAa46tQRE250622.shtml)
+
++ [以伊冲突持续发酵正在重塑中东地区权力格局 以色列行动冲击国际秩序](https://news.cctv.com/2025/06/22/ARTI8D2yhhg2Qg8nOERePZkU250622.shtml)
+
++ [外溢风险与国际斡旋交织 中东地缘政治博弈错综复杂](https://news.cctv.com/2025/06/22/ARTIEzaDEop0IWf6DZxngt6N250622.shtml)
+
++ [以色列境内多地拉响新一轮防空警报](https://news.cctv.com/2025/06/22/ARTIMNfUkm91hWHcySZIxF3Z250622.shtml)
+
++ [伊朗外长：美方袭击“令人震惊” 并将带来“可怕后果”](https://news.cctv.com/2025/06/22/ARTIC0NR4j0bqMn6AbuMsyVQ250622.shtml)
+
++ [内塔尼亚胡：美军行动是在与以军“充分协调”下实施的](https://news.cctv.com/2025/06/22/ARTItdxbBBhU9qMxEoEHuWfA250622.shtml)
+
