@@ -217,3 +217,5 @@
 
 + [以色列空袭黎巴嫩南部](https://news.cctv.com/2025/06/22/ARTIbXyl0HMs7Kvt6UM7etyR250622.shtml)
 
++ [日媒证实防卫费分歧致日美高官会晤推迟](https://news.cctv.com/2025/06/22/ARTIMxGMjVqDbvXkWi1lVhpO250622.shtml)
+
