@@ -173,3 +173,39 @@
 
 + [特朗普说已“成功打击”伊朗三处核设施](https://news.cctv.com/2025/06/22/ARTI97geZTEJ5Pyphc8bYmzw250622.shtml)
 
++ [伊朗媒体：伊革命卫队对以色列发起新一轮导弹和无人机打击](https://news.cctv.com/2025/06/22/ARTI4hPyEcF8ONbdEFBgPFBg250622.shtml)
+
++ [特朗普：伊朗任何对美报复都将导致更大打击](https://news.cctv.com/2025/06/22/ARTIQLnILCb2M5k6ry4LqTnC250622.shtml)
+
++ [哈马斯：强烈谴责美国对伊朗领土和主权的公然侵犯](https://news.cctv.com/2025/06/22/ARTIscSCVHdpvv50ovKZtdIu250622.shtml)
+
++ [美军使用六枚巨型钻地弹袭击伊朗核设施，以色列升级全国戒备状态](https://news.cctv.com/2025/06/22/ARTIebhG3WZh5eXL6dyy5gNG250622.shtml)
+
++ [美媒称打击伊朗核设施是“美方全部计划”](https://news.cctv.com/2025/06/22/ARTIGFUJ9JYfTe6dTihoipP6250622.shtml)
+
++ [美国总统特朗普就袭击伊朗核设施发表讲话](https://news.cctv.com/2025/06/22/ARTIz02hRpiJtWqiS3RLkklr250622.shtml)
+
++ [以色列加强警戒状态 禁止集会并关闭非必要工作场所](https://news.cctv.com/2025/06/22/ARTIlEh6ed3Iao1YCDJCdzkl250622.shtml)
+
++ [美国向伊朗核设施发射了30枚“战斧”导弹](https://news.cctv.com/2025/06/22/ARTIR7tPTUDUmjWRSKbAQ7Nk250622.shtml)
+
++ [伊朗证实三处核设施遭袭](https://news.cctv.com/2025/06/22/ARTIzpA74PgC4YxpV70YhnrE250622.shtml)
+
++ [中国驻以色列大使馆将分别于6月23日和25日组织两批撤离](https://news.cctv.com/2025/06/22/ARTIrSfY3NZWyKgDbfUFLbLK250622.shtml)
+
++ [日本东京都议会选举进行投票](https://news.cctv.com/2025/06/22/ARTIYKxb79e81C92bGEOJUuw250622.shtml)
+
++ [以伊冲突第10天 进入消耗战可能性增加 美部署B-2轰炸机](https://news.cctv.com/2025/06/22/ARTIeavguZm5x4GItFrbqu7i250622.shtml)
+
++ [伊朗称已提前对三个核设施进行疏散](https://news.cctv.com/2025/06/22/ARTIfMMjVn7CCZ1q32ePEaht250622.shtml)
+
++ [伊称对以第19波袭击已开始 将持续不断进行](https://news.cctv.com/2025/06/22/ARTIeUV98BAxdyAcAG5OJuFt250622.shtml)
+
++ [伊方称击中以色列14个战略军事目标](https://news.cctv.com/2025/06/22/ARTI8oLBtJpF5znneQL10zpW250622.shtml)
+
++ [美国打击伊朗核设施 国际原子能机构：核安全急剧恶化](https://news.cctv.com/2025/06/22/ARTIYcSk7kothyRsWdwV3e2c250622.shtml)
+
++ [以色列称伊朗打击已造成近1300人死伤](https://news.cctv.com/2025/06/22/ARTIqD0xlcqhV30JB2CSO3ij250622.shtml)
+
++ [日本北海道沿岸远海发生6.2级地震，震源深度10千米](https://news.cctv.com/2025/06/22/ARTIxmXZcvkA5hHmfn6Ybyoo250622.shtml)
+
