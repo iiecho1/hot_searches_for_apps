@@ -219,3 +219,15 @@
 
 + [量化-因子处理](https://blog.csdn.net/2401_88885149/article/details/148816150)
 
++ [Python的6万张图像数据集CIFAR-10和CIFAR-100说明](https://blog.csdn.net/lzm12278828/article/details/148817721)
+
++ [springboot垃圾分类网站](https://blog.csdn.net/2401_85506870/article/details/148813509)
+
++ [Android Kotlin 用法对比Java使用小结](https://blog.csdn.net/wenzhi20102321/article/details/148797427)
+
++ [Spring-MyBatis基本操作](https://blog.csdn.net/weixin_52159554/article/details/148790980)
+
++ [Oracle 数据库查询：单表查询](https://blog.csdn.net/2401_83830408/article/details/148827584)
+
++ [day44-硬件学习之arm启动代码](https://blog.csdn.net/m0_71289080/article/details/148806666)
+

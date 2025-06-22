@@ -87,3 +87,7 @@
 
 + [苹果 iOS 26 新增自适应电源模式仅适用 iPhone 15 Pro 及后续机型，需 Apple 智能 AI 驱动](https://m.ithome.com/html/862728.htm)
 
++ [华为 MateBook Pro 鸿蒙笔记本获 HarmonyOS 5.0.1.315 升级，支持将外接显示器设置为主显示器](https://m.ithome.com/html/862827.htm)
+
++ [海思技术有限公司：星闪硬总线加持鸿蒙软总线将实现 1+1＞2 效果，覆盖 IoT 家电、轻智能等领域](https://m.ithome.com/html/862781.htm)
+

@@ -275,3 +275,7 @@
 
 + [美军说动用7架B－2轰炸机打击伊朗核设施](https://news.cctv.com/2025/06/22/ARTI70NykJZWkK6exvPQCNr6250622.shtml)
 
++ [法国表示未参与美国空袭伊朗核设施](https://news.cctv.com/2025/06/22/ARTIIXtgm496ubuIK4vuJ5rk250622.shtml)
+
++ [联合国安理会将就伊朗局势举行紧急会议](https://news.cctv.com/2025/06/22/ARTIHPpfadLbchwywVFiZEhN250622.shtml)
+
