@@ -179,3 +179,17 @@
 
 + [大模型与搜索引擎的技术博弈及未来智能范式演进](https://blog.csdn.net/weixin_47696437/article/details/148799859)
 
++ [Chatbox AI全面测评｜AI集成工具箱，一键拿下国内外顶尖大模型](https://blog.csdn.net/weixin_66401877/article/details/148782045)
+
++ [合成生物学与人工智能的融合：从生命编程到智能设计的IT新前沿](https://blog.csdn.net/SDFsoul/article/details/148824138)
+
++ [自反性与持续学习驱动下的 LLM 工具系统-以 MCP‑Zero 为核心的技术演进](https://blog.csdn.net/weixin_52908342/article/details/148812598)
+
++ [MASF-YOLO：一种改进的用于无人机视角下小目标检测的YOLOv11网络](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/148756981)
+
++ [DM8数据库：如何使用 EXPLAIN 命令分析 SQL 执行计划](https://blog.csdn.net/qq_41840843/article/details/148395861)
+
++ [python中学物理实验模拟：凸透镜成像和凹透镜成像](https://blog.csdn.net/cnds123/article/details/148813152)
+
++ [西门子S7通信协议抓包分析应用](https://blog.csdn.net/qq_26303227/article/details/148801510)
+

@@ -255,3 +255,13 @@
 
 + [国际原子能机构将召开伊朗问题紧急会议](https://news.cctv.com/2025/06/22/ARTIvQzEzT7QIYWfPQnrDpgu250622.shtml)
 
++ [日本新燃岳火山时隔7年再次喷发 火山灰柱高达500米](https://news.cctv.com/2025/06/22/ARTIiRtaL3enTRRqECFL6B16250622.shtml)
+
++ [美国总统特使喊话马斯克：今后几周在伊朗免费开通“星链”](https://news.cctv.com/2025/06/22/ARTIQ30dCPCxyHVkcd16OXAY250622.shtml)
+
++ [伊外长质问：伊朗何以“重返”谈判桌？](https://news.cctv.com/2025/06/22/ARTIDsv0hC3iI3Gry0EV90ap250622.shtml)
+
++ [多方谴责美对伊行动 伊以相互发动新一轮打击](https://news.cctv.com/2025/06/22/ARTI2t4Li29pCq73N8vEKLhB250622.shtml)
+
++ [美国加州一游艇倾覆致6人遇难](https://news.cctv.com/2025/06/22/ARTIbVr3QdDqIuAl5GTqbgVb250622.shtml)
+

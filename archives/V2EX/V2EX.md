@@ -39,3 +39,7 @@
 
 + [官翻 MacBook Pro 经销商，可以用 U 支付，手续费 1%，一种小众出金渠道](https://www.v2ex.com/t/1140192)
 
++ [想问问现在付费 DNS 还有搞头吗？](https://www.v2ex.com/t/1140244)
+
++ [iOS 下的天气应用无法通知下雨或其他恶劣天气](https://www.v2ex.com/t/1140213)
+
