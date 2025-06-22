@@ -209,3 +209,11 @@
 
 + [日本北海道沿岸远海发生6.2级地震，震源深度10千米](https://news.cctv.com/2025/06/22/ARTIxmXZcvkA5hHmfn6Ybyoo250622.shtml)
 
++ [古特雷斯：对美国袭击伊朗“深感震惊” 呼吁避免陷入混乱循环](https://news.cctv.com/2025/06/22/ARTILSIMvnzy3XdrLa1Fl0Tk250622.shtml)
+
++ [新西兰总理：过去一年中国游客赴新旅游消费额同比增147%](https://news.cctv.com/2025/06/22/ARTIMHIDCsaYe5p5V81jJUy7250622.shtml)
+
++ [“中亚与中国多层次多领域合作正当其时”——访吉尔吉斯斯坦前驻华大使巴克特古洛娃](https://news.cctv.com/2025/06/22/ARTIXoeNI0iG3fowTxYEhyZ2250622.shtml)
+
++ [以色列空袭黎巴嫩南部](https://news.cctv.com/2025/06/22/ARTIbXyl0HMs7Kvt6UM7etyR250622.shtml)
+

@@ -143,3 +143,7 @@
 
 + [P12894 [蓝桥杯 2025 国 Java B] 智能交通信号灯](https://blog.csdn.net/ZHUYINGYE_123456/article/details/148799608)
 
++ [FastGPT：开启大模型应用新时代（4/6）](https://blog.csdn.net/beautifulmemory/article/details/148816457)
+
++ [日本生活：日语语言学校-日语作文-沟通无国界（３）-题目：わたしの友達](https://blog.csdn.net/qq_22146161/article/details/148699716)
+
