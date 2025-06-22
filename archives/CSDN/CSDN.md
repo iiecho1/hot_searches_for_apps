@@ -205,3 +205,11 @@
 
 + [计算机网络第九章——数据链路层《流量控制和可靠传输》](https://blog.csdn.net/m0_73991249/article/details/148808099)
 
++ [python的校园兼职系统](https://blog.csdn.net/Q_Q511008285/article/details/148714584)
+
++ [5.2 Qt Creator 使用FFmpeg库](https://blog.csdn.net/xiaojingfirst/article/details/148813270)
+
++ [【Arduino 动手做】如何DIY 32波段LED音频音乐频谱分析仪](https://blog.csdn.net/weixin_41659040/article/details/148827219)
+
++ [北京京东，看看难度](https://blog.csdn.net/w425772719/article/details/148791381)
+
