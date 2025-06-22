@@ -137,3 +137,7 @@
 
 + [操作系统进程与线程核心知识全览](https://blog.csdn.net/2302_80067378/article/details/148816730)
 
++ [【HarmonyOS 5】应用更新功能详解](https://blog.csdn.net/weixin_44640245/article/details/147930459)
+
++ [借助ChatGPT快速开发图片转PDF的Python工具](https://blog.csdn.net/henanlion/article/details/148814128)
+

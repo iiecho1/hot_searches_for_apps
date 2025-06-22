@@ -167,3 +167,9 @@
 
 + [以方称伊朗新一轮导弹袭击致至少16人受伤](https://news.cctv.com/2025/06/23/ARTIG3a8FuYRIcQQQKMqnNTG250623.shtml)
 
++ [西班牙和北约达成协议 无须提高军费开支至国内生产总值5%](https://news.cctv.com/2025/06/23/ARTI84HrmpZM1bxmYwH5eAqj250623.shtml)
+
++ [伊朗最高领袖顾问：浓缩铀材料仍在 “游戏并未结束”](https://news.cctv.com/2025/06/23/ARTIPYiV8xKOlVKa2UAZapdt250623.shtml)
+
++ [叙利亚自杀式袭击死伤人数升至85人](https://news.cctv.com/2025/06/23/ARTIQRfFggdWFjwJR0CBhekJ250623.shtml)
+

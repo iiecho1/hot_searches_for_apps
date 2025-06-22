@@ -53,3 +53,5 @@
 
 + [比亚迪方程豹豹 8 全球首发华为 HiCar 6.0 镜像模式，四季度推送](https://m.ithome.com/html/862716.htm)
 
++ [消息称苹果 iPhone 17 Pro 系列首次采用均热板设计，散热片谍照曝光](https://m.ithome.com/html/862868.htm)
+
