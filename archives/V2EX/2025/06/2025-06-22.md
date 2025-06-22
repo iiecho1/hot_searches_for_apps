@@ -37,3 +37,5 @@
 
 + [神州租车，也没有那么神](https://www.v2ex.com/t/1140200)
 
++ [官翻 MacBook Pro 经销商，可以用 U 支付，手续费 1%，一种小众出金渠道](https://www.v2ex.com/t/1140192)
+

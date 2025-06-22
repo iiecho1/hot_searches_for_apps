@@ -249,3 +249,9 @@
 
 + [俄罗斯愿向墨西哥供应天然气](https://news.cctv.com/2025/06/22/ARTIpz6EKjMvGGqT5MyuHwnj250622.shtml)
 
++ [琉球群岛发生5.2级地震，震源深度10千米](https://news.cctv.com/2025/06/22/ARTIFxRkU6p1DvIyXPSz4kzn250622.shtml)
+
++ [伊朗向以色列发射新型导弹](https://news.cctv.com/2025/06/22/ARTInbAyL47uaN36ytg6zOeY250622.shtml)
+
++ [国际原子能机构将召开伊朗问题紧急会议](https://news.cctv.com/2025/06/22/ARTIvQzEzT7QIYWfPQnrDpgu250622.shtml)
+

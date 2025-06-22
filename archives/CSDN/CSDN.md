@@ -165,3 +165,17 @@
 
 + [Spring Boot自动装配原理解析](https://blog.csdn.net/qq_41331466/article/details/148796697)
 
++ [Chonkie：面向大语言模型的轻量级文本分块处理库](https://blog.csdn.net/m0_46510245/article/details/148824447)
+
++ [华为云Flexus+DeepSeek征文｜ 从零开始：利用华为云Flexus X实例和ModelArts Studio快速部署HiveChat AI聊天应用](https://blog.csdn.net/jks212454/article/details/148740606)
+
++ [Linux 服务器运维：磁盘管理与网络配置](https://blog.csdn.net/m0_67187271/article/details/148794693)
+
++ [详细介绍 Provider 框架及其在 Flutter 中的使用方法](https://blog.csdn.net/qfeung/article/details/148778907)
+
++ [DeepSeek生成HTML5图片拼接工具](https://blog.csdn.net/wodeita/article/details/148812180)
+
++ [每天一个前端小知识 Day 7 - 现代前端工程化与构建工具体系](https://blog.csdn.net/weixin_51798265/article/details/148782440)
+
++ [大模型与搜索引擎的技术博弈及未来智能范式演进](https://blog.csdn.net/weixin_47696437/article/details/148799859)
+
