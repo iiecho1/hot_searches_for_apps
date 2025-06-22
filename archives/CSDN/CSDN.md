@@ -133,3 +133,5 @@
 
 + [Git的AI进化：智能代码协作的未来实践指南](https://blog.csdn.net/Dreamy_zsy/article/details/148805319)
 
++ [机器学习流量识别(pytorch+NSL-KDD+多分类建模)](https://blog.csdn.net/qq_52674444/article/details/148800021)
+
