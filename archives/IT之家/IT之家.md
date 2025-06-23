@@ -47,3 +47,9 @@
 
 + [消息称三星 Galaxy S26 明年全线升级 16GB 内存，苹果 iPhone 18 仍是 12GB](https://m.ithome.com/html/862982.htm)
 
++ [京东在刘强东老家宿迁总投资额已超过 200 亿元](https://m.ithome.com/html/862864.htm)
+
++ [新款特斯拉 Model Y 性能版谍照曝光：采用运动型尾翼、21 英寸轮毂、尾部特殊标识](https://m.ithome.com/html/862852.htm)
+
++ [消息称小米 MIX Flip 2 小折叠手机配备 5100mAh 电池，提供青、紫、金、黑色](https://m.ithome.com/html/862859.htm)
+

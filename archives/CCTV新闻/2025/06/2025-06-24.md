@@ -169,3 +169,5 @@
 
 + [日本冲绳民众不满政府处理驻日美军问题的方式](https://news.cctv.com/2025/06/24/ARTIAmncksbPftNjqB8jB212250623.shtml)
 
++ [英国政府建议在卡塔尔英国公民就地避难](https://news.cctv.com/2025/06/24/ARTIhqSRtJTVoC8JaqCMHaP8250623.shtml)
+
