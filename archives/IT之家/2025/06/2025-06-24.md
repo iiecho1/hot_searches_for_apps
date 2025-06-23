@@ -53,3 +53,9 @@
 
 + [消息称小米 MIX Flip 2 小折叠手机配备 5100mAh 电池，提供青、紫、金、黑色](https://m.ithome.com/html/862859.htm)
 
++ [小米 REDMI K80 至尊版手机主要参数曝光：配 6.83&quot;1.5K+144Hz LTPS 直屏，6 月 26 日发布](https://m.ithome.com/html/863046.htm)
+
++ [古尔曼称“真全面屏”iPhone 后年问世：分两步走，明年先缩小灵动岛](https://m.ithome.com/html/862886.htm)
+
++ [小米 YU7 车型全系出厂即搭载 1000 万 Clips 版本端到端辅助驾驶](https://m.ithome.com/html/863075.htm)
+
