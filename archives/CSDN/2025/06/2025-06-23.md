@@ -141,3 +141,9 @@
 
 + [借助ChatGPT快速开发图片转PDF的Python工具](https://blog.csdn.net/henanlion/article/details/148814128)
 
++ [论文笔记：Large language model augmented narrative driven recommendations](https://blog.csdn.net/qq_40206371/article/details/148827172)
+
++ [解密AI原生应用：链式思考如何实现智能推理？](https://blog.csdn.net/universsky2015/article/details/148830750)
+
++ [day44-硬件学习之arm启动代码](https://blog.csdn.net/m0_71289080/article/details/148806666)
+

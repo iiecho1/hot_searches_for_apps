@@ -65,3 +65,5 @@
 
 + [Stay the Night](https://m.acfun.cn/v/?ac=47422048)
 
++ [【颜音】周日歌回~录播](https://m.acfun.cn/v/?ac=47423665)
+

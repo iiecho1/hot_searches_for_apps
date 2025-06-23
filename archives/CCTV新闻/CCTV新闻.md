@@ -173,3 +173,11 @@
 
 + [叙利亚自杀式袭击死伤人数升至85人](https://news.cctv.com/2025/06/23/ARTIQRfFggdWFjwJR0CBhekJ250623.shtml)
 
++ [以军说伊朗向以色列发射导弹 以多地拉响警报](https://news.cctv.com/2025/06/23/ARTIeZqh1GjNsBBSkB5Ha8Br250623.shtml)
+
++ [3天发生超160次有感地震 日本福冈气象台提醒强震风险](https://news.cctv.com/2025/06/23/ARTId4GNxEAIAYnYa7UGnAIH250623.shtml)
+
++ [伊朗击落一架以色列“赫尔墨斯”900型无人机](https://news.cctv.com/2025/06/23/ARTIq71Mg5nAVAW27spNfc0S250623.shtml)
+
++ [伊朗德黑兰等地防空系统启动](https://news.cctv.com/2025/06/23/ARTIDULoG5L8D87ch6NI2y7V250623.shtml)
+
