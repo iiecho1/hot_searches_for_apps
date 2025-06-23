@@ -191,3 +191,9 @@
 
 + [浏览器插件cursor实现自动注册、续杯](https://blog.csdn.net/Mrxiao_bo/article/details/148843978)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在智能电网电力负荷预测与调度优化中的应用（316）](https://blog.csdn.net/atgfg/article/details/148793828)
+
++ [在高数中 导数 微分 不定积分 定积分 的意义以及联系](https://blog.csdn.net/weixin_41380194/article/details/148834348)
+
++ [逆向某物 App 登录接口：还原 newSign 算法全流程](https://blog.csdn.net/linchaolong/article/details/148833026)
+

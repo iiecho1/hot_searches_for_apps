@@ -241,3 +241,7 @@
 
 + [伊朗武装部队总参谋长：将放手采取任何行动打击美军](https://news.cctv.com/2025/06/23/ARTIQDfOCUyEJmNkl6fhB6ah250623.shtml)
 
++ [国际奥委会主席完成交接 巴赫卸任 考文垂接棒](https://news.cctv.com/2025/06/23/ARTIgP5VX45o91eIQrRCGZFE250623.shtml)
+
++ [国际奥委会举行主席交接仪式 考文垂将正式接棒](https://news.cctv.com/2025/06/23/ARTI8gEVRffLf2UNRR1Jo9ia250623.shtml)
+
