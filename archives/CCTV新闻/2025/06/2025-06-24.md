@@ -167,3 +167,5 @@
 
 + [泰国总理宣布将加强泰柬边境管制](https://news.cctv.com/2025/06/24/ARTIcy7a1sXas3Uee5b4yXbm250623.shtml)
 
++ [日本冲绳民众不满政府处理驻日美军问题的方式](https://news.cctv.com/2025/06/24/ARTIAmncksbPftNjqB8jB212250623.shtml)
+
