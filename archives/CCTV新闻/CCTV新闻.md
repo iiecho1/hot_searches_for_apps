@@ -207,3 +207,13 @@
 
 + [韩国前总统尹锡悦出席其涉嫌发动内乱案的第八次庭审](https://news.cctv.com/2025/06/23/ARTINyZPg42TSomWWDh2cWXi250623.shtml)
 
++ [韩国总统李在明提名新任外长和防长等多位政府官员](https://news.cctv.com/2025/06/23/ARTINiwONI1J1LU70iusgDzN250623.shtml)
+
++ [我驻布里斯班总领馆提醒领区中国公民加强人身安全防范](https://news.cctv.com/2025/06/23/ARTIbtOzazccLH9MBmUiENxp250623.shtml)
+
++ [特朗普：美军打击“正中靶心” 伊朗核设施已被“毁灭”](https://news.cctv.com/2025/06/23/ARTIjfuuzmt0AAOpUSZrTwgK250623.shtml)
+
++ [伊朗最高领袖哈梅内伊：以色列犯下巨大错误 必须受到惩罚](https://news.cctv.com/2025/06/23/ARTISkMJIQHVYJQydQMJZQja250623.shtml)
+
++ [以总理称对伊朗行动目标“非常接近完成”](https://news.cctv.com/2025/06/23/ARTIv8jBEqqW0ECARLDjo80w250623.shtml)
+

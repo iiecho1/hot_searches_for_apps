@@ -161,3 +161,7 @@
 
 + [对接支付宝，阿里云沙箱服务](https://blog.csdn.net/2401_87473474/article/details/148816000)
 
++ [计算机视觉分布式训练实战：多GPU加速视觉模型训练](https://blog.csdn.net/weixin_43151418/article/details/148043734)
+
++ [【好用但慎用】Windows 系统中将所有 WSL 发行版从 C 盘迁移到 非系统 盘的完整笔记（附 异常处理）](https://blog.csdn.net/u014451778/article/details/148817092)
+
