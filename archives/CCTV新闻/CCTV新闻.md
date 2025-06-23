@@ -245,3 +245,5 @@
 
 + [国际奥委会举行主席交接仪式 考文垂将正式接棒](https://news.cctv.com/2025/06/23/ARTI8gEVRffLf2UNRR1Jo9ia250623.shtml)
 
++ [日本首相取消北约峰会行程](https://news.cctv.com/2025/06/23/ARTIz2sojnQc4xBi5vINfJXL250623.shtml)
+

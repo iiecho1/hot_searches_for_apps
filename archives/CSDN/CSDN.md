@@ -205,3 +205,11 @@
 
 + [【Datawhale组队学习202506】YOLO-Master task03 IOU总结](https://blog.csdn.net/raulyy7777/article/details/148833649)
 
++ [免费1000套编程教学视频资料视频(涉及Java、python、C C++、R语言、PHP C# HTML GO)](https://blog.csdn.net/weixin_42380711/article/details/148810690)
+
++ [华为云 Flexus+DeepSeek 实战：华为云单机部署 Dify-LLM 开发平台全流程指南【服务部署、模型配置、知识库构建全流程】](https://blog.csdn.net/weixin_62765017/article/details/148809140)
+
++ [深入理解Spring MVC：构建灵活Web应用的基石](https://blog.csdn.net/weixin_69555518/article/details/148831493)
+
++ [基于Spring Boot和Vue的网上军事论坛设计与实现](https://blog.csdn.net/m0_58847451/article/details/148823625)
+
