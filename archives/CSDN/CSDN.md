@@ -153,3 +153,11 @@
 
 + [基于物联网的智能饮水机系统设计](https://blog.csdn.net/Candy5204/article/details/148814938)
 
++ [TensorFlow深度学习实战——使用Hugging Face构建Transformer模型](https://blog.csdn.net/LOVEmy134611/article/details/148838234)
+
++ [（三十四）深度解析领域特定语言（DSL）第六章——语法分析：第三个案例——优惠规则语法分析器](https://blog.csdn.net/weixin_46217641/article/details/148832554)
+
++ [小智AI -- ESP32-S3 DIY面包板WIFI-LCD彩屏](https://blog.csdn.net/zhuwade/article/details/148809019)
+
++ [对接支付宝，阿里云沙箱服务](https://blog.csdn.net/2401_87473474/article/details/148816000)
+

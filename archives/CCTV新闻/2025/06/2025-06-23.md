@@ -197,3 +197,13 @@
 
 + [伊朗总统：伊朗将对美国侵略行径作出回应](https://news.cctv.com/2025/06/23/ARTIqJHceoBWmzU2bhntdOpr250623.shtml)
 
++ [旅游导览工作室“行在大马”创始人程龙——行走南洋的文化牵线人（侨界关注）](https://news.cctv.com/2025/06/23/ARTIzev130SuAsqyjtFPwP1F250623.shtml)
+
++ [在华中亚五国青年说——我们的梦想在中国—中亚合作中起航](https://news.cctv.com/2025/06/23/ARTI5Y2AaaQiiuevJ0VWdTL9250623.shtml)
+
++ [与会嘉宾：中国与中亚开展人工智能合作前景广阔](https://news.cctv.com/2025/06/23/ARTIewzsNfefeELKyFw3keQx250623.shtml)
+
++ [“推动亚洲国家‘共创未来’”——访亚洲开发银行首席经济学家朴之水](https://news.cctv.com/2025/06/23/ARTIqsfFMSoZj3XNSpD06q7R250623.shtml)
+
++ [韩国前总统尹锡悦出席其涉嫌发动内乱案的第八次庭审](https://news.cctv.com/2025/06/23/ARTINyZPg42TSomWWDh2cWXi250623.shtml)
+
