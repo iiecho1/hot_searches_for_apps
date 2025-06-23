@@ -229,3 +229,7 @@
 
 + [伊朗中部军事设施遭以军空袭 致10人死亡](https://news.cctv.com/2025/06/23/ARTIa0fXygJxHTnhezH0rcjX250623.shtml)
 
++ [日本加强在日外国人管理 中国驻日本大使馆对中国公民发出提醒](https://news.cctv.com/2025/06/23/ARTISGNd5QCGrOFjmnEiUIbC250623.shtml)
+
++ [哈梅内伊：以色列必须受到惩罚](https://news.cctv.com/2025/06/23/ARTIMZz010thCbL5W0xAo879250623.shtml)
+

@@ -175,3 +175,9 @@
 
 + [第八章 网络安全](https://blog.csdn.net/weixin_45595929/article/details/147469604)
 
++ [【闲谈】对于c++未来的看法](https://blog.csdn.net/YZJincsdn/article/details/148834281)
+
++ [鸿蒙：启动本地 http-server 加载 h5 游戏](https://blog.csdn.net/printf123scanf/article/details/148794602)
+
++ [基于FPGA的白噪声信号发生器verilog实现,包含testbench和开发板硬件测试](https://blog.csdn.net/hardware_player/article/details/148810487)
+
