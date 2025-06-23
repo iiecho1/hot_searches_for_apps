@@ -31,3 +31,15 @@
 
 + [n8n-io/n8n](https://github.com/n8n-io/n8n)
 
++ [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [typst/typst](https://github.com/typst/typst)
+
++ [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [localsend/localsend](https://github.com/localsend/localsend)
+
++ [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable)
+
