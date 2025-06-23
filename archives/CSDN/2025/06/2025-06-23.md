@@ -197,3 +197,11 @@
 
 + [逆向某物 App 登录接口：还原 newSign 算法全流程](https://blog.csdn.net/linchaolong/article/details/148833026)
 
++ [华为云Flexus+DeepSeek征文｜在Dify-LLM平台中开发童话故事精灵工作流AI Agent](https://blog.csdn.net/lwcwam/article/details/148830906)
+
++ [Kafka 原理与核心机制全解析](https://blog.csdn.net/keeppractice/article/details/148833166)
+
++ [抖音小程序开发：ttml和传统html的区别](https://blog.csdn.net/CFY1226/article/details/148834611)
+
++ [【Datawhale组队学习202506】YOLO-Master task03 IOU总结](https://blog.csdn.net/raulyy7777/article/details/148833649)
+
