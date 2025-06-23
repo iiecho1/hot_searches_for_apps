@@ -255,3 +255,5 @@
 
 + [接棒巴赫 考文垂就职国际奥委会第十任主席](https://news.cctv.com/2025/06/23/ARTI7EyRhwVm4UE53Ft02Gci250623.shtml)
 
++ [第四批在以中国公民从塔巴口岸进入埃及](https://news.cctv.com/2025/06/23/ARTIhJCgmkijCqceYQcUW8tZ250623.shtml)
+
