@@ -165,3 +165,5 @@
 
 + [【好用但慎用】Windows 系统中将所有 WSL 发行版从 C 盘迁移到 非系统 盘的完整笔记（附 异常处理）](https://blog.csdn.net/u014451778/article/details/148817092)
 
++ [【技术分享】XR技术体系浅析：VR、AR与MR的区别、联系与应用实践](https://blog.csdn.net/qq_41140324/article/details/148839229)
+
