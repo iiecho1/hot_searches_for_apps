@@ -161,3 +161,7 @@
 
 + [外溢风险与国际斡旋交织 中东地缘政治博弈错综复杂](https://news.cctv.com/2025/06/22/ARTIEzaDEop0IWf6DZxngt6N250622.shtml)
 
++ [特朗普：美核潜艇发射30枚“战斧”导弹袭击伊核设施 全部命中目标](https://news.cctv.com/2025/06/24/ARTIRZnxd2OF804bkf2vKBrp250623.shtml)
+
++ [普京说俄罗斯将继续发展武装力量确保主权](https://news.cctv.com/2025/06/24/ARTIW7uq0fTNhDIJ7pDkTg45250623.shtml)
+

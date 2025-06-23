@@ -109,3 +109,21 @@
 
 + [WebSocket 协议详解](https://blog.csdn.net/weixin_74136601/article/details/148827847)
 
++ [机器学习异常检测实战：用Isolation Forest快速构建无标签异常检测系统](https://blog.csdn.net/m0_46510245/article/details/148805125)
+
++ [[计算机网络] 局域网内的网络传输](https://blog.csdn.net/SDFsoul/article/details/148824240)
+
++ [爬虫001----介绍以及可能需要使用的技术栈](https://blog.csdn.net/qxj2422640226/article/details/148828905)
+
++ [【Elastic】Elastic 监控运维 dipper-elastic-monitor](https://blog.csdn.net/qq_21383435/article/details/148812626)
+
++ [【开源工具】一键解决使用代理后无法访问浏览器网页问题 - 基于PyQt5的智能代理开关工具开发全攻略](https://blog.csdn.net/Clay_K/article/details/148842106)
+
++ [【群体智能优化算法系列 】一 粒子群算法 (Particle Swarm Optimization, PSO)](https://blog.csdn.net/weixin_45259896/article/details/148817629)
+
++ [AIGC技术的本质：统计学驱动的智能革命](https://blog.csdn.net/lornshrimp/article/details/148834769)
+
++ [day44-硬件学习之arm启动代码](https://blog.csdn.net/m0_71289080/article/details/148806666)
+
++ [Pandas 数据清洗](https://blog.csdn.net/wyy202206174248/article/details/148834548)
+

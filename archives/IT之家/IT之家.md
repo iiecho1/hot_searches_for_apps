@@ -25,3 +25,25 @@
 
 + [消息称苹果 iPhone 17 Pro 系列首次采用均热板设计，散热片谍照曝光](https://m.ithome.com/html/862868.htm)
 
++ [小米 YU7 新配色流金粉公布：粉色漆面基底上叠加浅金色金属颗粒](https://m.ithome.com/html/862949.htm)
+
++ [QQ 音乐客户端被吐槽“广告多”，涉及播放页专辑封面 / App 开屏等](https://m.ithome.com/html/862884.htm)
+
++ [美媒揭秘 1999 美元的“美国制造”手机：配置落后十年，一半客户是政府](https://m.ithome.com/html/862869.htm)
+
++ [雷军解释“小米首款 SUV 车型 YU7 不用 6 座”设计原因：可提供更大空间、舒适度更佳](https://m.ithome.com/html/862975.htm)
+
++ [小米雷军：我们没有计划造油车](https://m.ithome.com/html/863040.htm)
+
++ [雷军：周四的小米人车家全生态发布会将推出“面向下一个时代的个人智能设备”](https://m.ithome.com/html/862910.htm)
+
++ [小米 YU7、MIX Flip 2、平板 7S Pro 及 REDMI 新品发布会定档：6 月 26 日见](https://m.ithome.com/html/862902.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 5.0.1.130 版本游戏场景新增“高性能”模式](https://m.ithome.com/html/862872.htm)
+
++ [微信悄悄修改语音发送界面，网友喊“丑”登顶微博热搜](https://m.ithome.com/html/863128.htm)
+
++ [小米 REDMI K80 至尊版手机 / K Pad 游戏平板样机上架全国多家小米之家](https://m.ithome.com/html/862888.htm)
+
++ [消息称三星 Galaxy S26 明年全线升级 16GB 内存，苹果 iPhone 18 仍是 12GB](https://m.ithome.com/html/862982.htm)
+
