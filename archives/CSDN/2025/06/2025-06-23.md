@@ -147,3 +147,9 @@
 
 + [day44-硬件学习之arm启动代码](https://blog.csdn.net/m0_71289080/article/details/148806666)
 
++ [【Linux篇章】线程同步与互斥2：打破多线程并发困境，开启高效程序运行新境界](https://blog.csdn.net/2401_82648291/article/details/146984651)
+
++ [【C++软件异常排查实战经验分享系列 ①】报错窗口点击重试 | 0xfeeefeee等异常值 | OutputDebugString | 数据断点 | if条件断点 | 历史版本比对法 | 汇编代码 ](https://blog.csdn.net/chenlycly/article/details/148837397)
+
++ [基于物联网的智能饮水机系统设计](https://blog.csdn.net/Candy5204/article/details/148814938)
+
