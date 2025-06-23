@@ -101,3 +101,11 @@
 
 + [（三十四）深度解析领域特定语言（DSL）第六章——语法分析：第三个案例——优惠规则语法分析器](https://blog.csdn.net/weixin_46217641/article/details/148832554)
 
++ [华为云 Flexus+DeepSeek 实战：华为云Dify 平台 CCE 高可用集群部署与大模型知识库构建指南](https://blog.csdn.net/weixin_62765017/article/details/148809286)
+
++ [网络安全智能体：重塑重大赛事安全保障新范式](https://blog.csdn.net/tigerman20201/article/details/148828918)
+
++ [开关电源：BUCK和BOOST](https://blog.csdn.net/caiji0169/article/details/148834481)
+
++ [WebSocket 协议详解](https://blog.csdn.net/weixin_74136601/article/details/148827847)
+
