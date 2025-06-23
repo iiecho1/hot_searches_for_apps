@@ -247,3 +247,11 @@
 
 + [日本首相取消北约峰会行程](https://news.cctv.com/2025/06/23/ARTIz2sojnQc4xBi5vINfJXL250623.shtml)
 
++ [伊朗武装部队总参谋长：将根据美方行动作出对等回应](https://news.cctv.com/2025/06/23/ARTIPobCQ4tALdyZxCg7IbMD250623.shtml)
+
++ [伊朗德黑兰电力中断地区已恢复供电 周围城市遭袭后部分断电](https://news.cctv.com/2025/06/23/ARTI6brrWySkTNHtcIWupYuH250623.shtml)
+
++ [白宫：确认伊朗核设施已被彻底摧毁](https://news.cctv.com/2025/06/23/ARTI9acRERQPaFv5RmpC3MaA250623.shtml)
+
++ [接棒巴赫 考文垂就职国际奥委会第十任主席](https://news.cctv.com/2025/06/23/ARTI7EyRhwVm4UE53Ft02Gci250623.shtml)
+
