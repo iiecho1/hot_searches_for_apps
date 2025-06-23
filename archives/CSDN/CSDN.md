@@ -167,3 +167,11 @@
 
 + [【技术分享】XR技术体系浅析：VR、AR与MR的区别、联系与应用实践](https://blog.csdn.net/qq_41140324/article/details/148839229)
 
++ [合成生物学与人工智能的融合：从生命编程到智能设计的IT新前沿](https://blog.csdn.net/SDFsoul/article/details/148824138)
+
++ [四核 A53+工业级存储：移远 SC200L 与 pSLC SD NAND 如何重构 T-BOX 性能边界？](https://blog.csdn.net/weixin_44976692/article/details/148839501)
+
++ [深度实战｜星环OS三大创新场景解密：如何用确定性技术重构智能汽车安全与体验？](https://blog.csdn.net/weixin_62244995/article/details/148832290)
+
++ [第八章 网络安全](https://blog.csdn.net/weixin_45595929/article/details/147469604)
+

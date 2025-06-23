@@ -221,3 +221,11 @@
 
 + [综述｜欧洲多国拟对未成年人访问社交媒体加强监管](https://news.cctv.com/2025/06/23/ARTIEfoPZ4VjB2F3LFpSEoVw250623.shtml)
 
++ [伊朗警告或封锁霍尔木兹海峡](https://news.cctv.com/2025/06/23/ARTIq54JWAauXTApivrYh18Z250623.shtml)
+
++ [美国会议员要求限制总统战争权力 特朗普发动袭击危险且违宪](https://news.cctv.com/2025/06/23/ARTIdPBG2zHhpGgT84urVLVx250623.shtml)
+
++ [中国驻格鲁吉亚大使馆发布在格中国公民的安全提醒](https://news.cctv.com/2025/06/23/ARTIvsEsGhaAJuRkviEgtZtl250623.shtml)
+
++ [伊朗中部军事设施遭以军空袭 致10人死亡](https://news.cctv.com/2025/06/23/ARTIa0fXygJxHTnhezH0rcjX250623.shtml)
+
