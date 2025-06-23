@@ -165,3 +165,5 @@
 
 + [普京说俄罗斯将继续发展武装力量确保主权](https://news.cctv.com/2025/06/24/ARTIW7uq0fTNhDIJ7pDkTg45250623.shtml)
 
++ [泰国总理宣布将加强泰柬边境管制](https://news.cctv.com/2025/06/24/ARTIcy7a1sXas3Uee5b4yXbm250623.shtml)
+

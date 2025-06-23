@@ -127,3 +127,9 @@
 
 + [Pandas 数据清洗](https://blog.csdn.net/wyy202206174248/article/details/148834548)
 
++ [Chonkie：面向大语言模型的轻量级文本分块处理库](https://blog.csdn.net/m0_46510245/article/details/148824447)
+
++ [从本地到云端：通过ToolJet和cpolar构建远程开发环境实践过程](https://blog.csdn.net/qyj19920704/article/details/148848927)
+
++ [【FPGA学习】DDS信号发生器设计](https://blog.csdn.net/2301_78895982/article/details/148824923)
+
