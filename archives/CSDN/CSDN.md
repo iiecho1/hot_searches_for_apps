@@ -181,3 +181,13 @@
 
 + [基于FPGA的白噪声信号发生器verilog实现,包含testbench和开发板硬件测试](https://blog.csdn.net/hardware_player/article/details/148810487)
 
++ [机器学习异常检测实战：用Isolation Forest快速构建无标签异常检测系统](https://blog.csdn.net/m0_46510245/article/details/148805125)
+
++ [华为云Flexus+DeepSeek征文 | DeepSeek+RAG技术栈打造企业级知识问答Agent全流程实践](https://blog.csdn.net/IRpickstars/article/details/148839323)
+
++ [蓝牙数据通讯，实现内网电脑访问外网电脑](https://blog.csdn.net/MissYuanxi/article/details/148807313)
+
++ [React 核心原理与Fiber架构](https://blog.csdn.net/2301_82023822/article/details/148818670)
+
++ [浏览器插件cursor实现自动注册、续杯](https://blog.csdn.net/Mrxiao_bo/article/details/148843978)
+

@@ -233,3 +233,11 @@
 
 + [哈梅内伊：以色列必须受到惩罚](https://news.cctv.com/2025/06/23/ARTIMZz010thCbL5W0xAo879250623.shtml)
 
++ [哥伦比亚国防部证实57名政府军在考卡省遭绑架](https://news.cctv.com/2025/06/23/ARTIm8V5vm5XaqAgxC46ozyd250623.shtml)
+
++ [共话中国经济新机遇丨专访：全球日益关注中国创新生态系统——访世界经济论坛执行董事米雷克·杜塞克](https://news.cctv.com/2025/06/23/ARTIxCGF1i4LR7CHQYH0pxNS250623.shtml)
+
++ [以高质量发展推进共同现代化（和音）——始终秉持并不断发扬光大“中国—中亚精神”④](https://news.cctv.com/2025/06/23/ARTIgXvodQYO3DB1AfEbOtyL250623.shtml)
+
++ [伊朗武装部队总参谋长：将放手采取任何行动打击美军](https://news.cctv.com/2025/06/23/ARTIQDfOCUyEJmNkl6fhB6ah250623.shtml)
+
