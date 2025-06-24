@@ -133,3 +133,7 @@
 
 + [【FPGA学习】DDS信号发生器设计](https://blog.csdn.net/2301_78895982/article/details/148824923)
 
++ [第三章 卷积神经网络](https://blog.csdn.net/Xiao651/article/details/148824072)
+
++ [如何在 Python 中连接 Elasticsearch 并使用 Qwen3 来实现 RAG](https://blog.csdn.net/UbuntuTouch/article/details/148853095)
+

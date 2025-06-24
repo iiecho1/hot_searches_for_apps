@@ -171,3 +171,15 @@
 
 + [英国政府建议在卡塔尔英国公民就地避难](https://news.cctv.com/2025/06/24/ARTIhqSRtJTVoC8JaqCMHaP8250623.shtml)
 
++ [伊官员称伊朗已接受美国提出的停火方案](https://news.cctv.com/2025/06/24/ARTIJKvm2keBwF7mXu1GHPQ9250624.shtml)
+
++ [伊朗政府尚未就停火发表任何声明](https://news.cctv.com/2025/06/24/ARTIVEfVWvZGNeNOgNAQsxRY250624.shtml)
+
++ [特朗普：以色列和伊朗已同意全面停火](https://news.cctv.com/2025/06/24/ARTIvqfSLKkTt7hka3EAaXF6250624.shtml)
+
++ [特朗普：以色列和伊朗即将停火](https://news.cctv.com/2025/06/24/ARTISkWPE9dbEmCNUM0dwa6a250624.shtml)
+
++ [美方证实伊朗导弹打击美军在卡塔尔基地](https://news.cctv.com/2025/06/24/ARTIjVQ3Ro4ueByW9zlpGexe250624.shtml)
+
++ [伊朗实施报复 导弹打击美国驻卡塔尔空军基地](https://news.cctv.com/2025/06/24/ARTI2RlCnnU4e46e3Madk7Kk250624.shtml)
+
