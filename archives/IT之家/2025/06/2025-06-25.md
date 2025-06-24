@@ -49,3 +49,5 @@
 
 + [小米 YU7 车型全系出厂即搭载 1000 万 Clips 版本端到端辅助驾驶](https://m.ithome.com/html/863075.htm)
 
++ [小米 YU7 车外配 8 个麦克风和 1 个扬声器，支持小爱语音控车 / 沟通](https://m.ithome.com/html/863374.htm)
+
