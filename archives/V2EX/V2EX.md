@@ -55,3 +55,5 @@
 
 + [go 转 Python 的心智负担增加](https://www.v2ex.com/t/1140619)
 
++ [25 应届，月薪 7k，未来迷茫](https://www.v2ex.com/t/1140656)
+

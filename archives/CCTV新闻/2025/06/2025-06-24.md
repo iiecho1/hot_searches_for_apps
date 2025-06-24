@@ -203,3 +203,5 @@
 
 + [世卫组织报告：控烟措施已保护全球逾61亿人口](https://news.cctv.com/2025/06/24/ARTIcKoudgPs8jUWFwSCpCHs250624.shtml)
 
++ [以色列本-古里安国际机场将恢复运营](https://news.cctv.com/2025/06/24/ARTIAIKSzOhu8Vz6JDrecKEl250624.shtml)
+

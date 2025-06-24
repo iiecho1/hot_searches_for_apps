@@ -169,3 +169,11 @@
 
 + [AIGC工具平台-FishSpeech零样本语音合成](https://blog.csdn.net/qq_20288327/article/details/148763723)
 
++ [Java 大视界 -- Java 大数据在智能教育在线考试智能监考系统中的作弊行为识别与防作弊策略（318）](https://blog.csdn.net/atgfg/article/details/148818302)
+
++ [华为云Flexus+DeepSeek征文 | DeepSeek+RAG技术栈打造企业级知识问答Agent全流程实践](https://blog.csdn.net/IRpickstars/article/details/148839323)
+
++ [北斗导航深度接入小程序打车：高精度定位如何解决定位漂移难题？](https://blog.csdn.net/2501_91851081/article/details/148823791)
+
++ [【通识】fpga基本概念](https://blog.csdn.net/Achenganggyel/article/details/148820086)
+
