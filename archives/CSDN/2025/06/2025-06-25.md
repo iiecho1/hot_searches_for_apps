@@ -131,3 +131,7 @@
 
 + [为什么 Agent 会成为下一个 AI 应用爆发点？如何为企业带来盈利](https://blog.csdn.net/weixin_53269650/article/details/148781787)
 
++ [DEYOLO 全面复现，将双增强跨模态目标检测网络 DEYOLO 融合到 YOLOFuse 框架](https://blog.csdn.net/weixin_43694096/article/details/148871722)
+
++ [UniApp与WebView双向通信及数据传输超详细讲解](https://blog.csdn.net/miyatalolow/article/details/148883304)
+

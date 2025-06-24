@@ -69,3 +69,5 @@
 
 + [炉石传说：【天天素材库】 第368期](https://m.acfun.cn/v/?ac=47428042)
 
++ [【东方】感情の摩天樓 ~ Cosmic Mind【NyxTheShield Remix】](https://m.acfun.cn/v/?ac=47427893)
+
