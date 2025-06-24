@@ -195,3 +195,7 @@
 
 + [使用AI开发招聘网站(100天AI编程实验)](https://blog.csdn.net/dot_life/article/details/148854785)
 
++ [【云原生】Docker 部署 Elasticsearch 9 操作详解](https://blog.csdn.net/congge_study/article/details/148823159)
+
++ [Java的SpringAI+Deepseek大模型实战【二】](https://blog.csdn.net/u012190388/article/details/148801227)
+
