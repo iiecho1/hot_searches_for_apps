@@ -209,3 +209,13 @@
 
 + [YOLOv13技术介绍：基于超图增强的自适应视觉感知实时目标检测器](https://blog.csdn.net/Lemon__Tree__/article/details/148829298)
 
++ [AI智能化高效办公：WPS AI全场景深度应用指南](https://blog.csdn.net/qq_32682301/article/details/148868756)
+
++ [MySQL DDL深度解析：表结构操作的艺术与实践【Linux】](https://blog.csdn.net/effort123_/article/details/148853533)
+
++ [【CS创世SD NAND征文】基于全志V3S与CS创世SD NAND的物联网智能路灯网关数据存储方案](https://blog.csdn.net/m0_61712829/article/details/148875407)
+
++ [STM32给FPGA的外挂FLASH进行升级](https://blog.csdn.net/weixin_50183638/article/details/148839244)
+
++ [新高考需求之一](https://blog.csdn.net/qq123456xxd/article/details/148857179)
+
