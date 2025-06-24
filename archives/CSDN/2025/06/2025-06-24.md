@@ -219,3 +219,11 @@
 
 + [新高考需求之一](https://blog.csdn.net/qq123456xxd/article/details/148857179)
 
++ [华为云Flexus+DeepSeek征文 | 基于CCE容器的AI Agent高可用部署架构与弹性扩容实践](https://blog.csdn.net/IRpickstars/article/details/148863103)
+
++ [【AI大模型】Spring AI 基于Redis实现对话持久存储详解](https://blog.csdn.net/zhangcongyi420/article/details/148808144)
+
++ [Qt+OPC开发笔记（三）：OPC客户端订阅特点消息的Demo](https://blog.csdn.net/qq21497936/article/details/148868209)
+
++ [Spring Boot 集成 Apache Kafka 实战指南](https://blog.csdn.net/2503_92145588/article/details/148846959)
+
