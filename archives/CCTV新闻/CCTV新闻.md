@@ -165,3 +165,7 @@
 
 + [“双向奔赴”正当时：中泰跨境电商与物流合作持续深化](https://jingji.cctv.com/2025/06/25/ARTIaua6v15EtcaSSMSXGRXQ250624.shtml)
 
++ [多国民众抗议北约峰会 质疑北约变成“军事推销公司”](https://news.cctv.com/2025/06/25/ARTIkdE2TAUnXuS5Op6m7wGq250625.shtml)
+
++ [欧盟准备采取更多关税反制措施以对美施压](https://news.cctv.com/2025/06/25/ARTIfIm31hiMPbi2JbtFCWmF250625.shtml)
+

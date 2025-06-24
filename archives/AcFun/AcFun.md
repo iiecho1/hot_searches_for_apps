@@ -71,3 +71,5 @@
 
 + [【东方】感情の摩天樓 ~ Cosmic Mind【NyxTheShield Remix】](https://m.acfun.cn/v/?ac=47427893)
 
++ [【歌回录像】坐立不安 20250409](https://m.acfun.cn/v/?ac=47416664)
+
