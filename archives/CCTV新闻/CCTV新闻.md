@@ -217,3 +217,9 @@
 
 + [伊朗否认在停火后对以色列发射导弹](https://news.cctv.com/2025/06/24/ARTIoo52qDsK9Q7BlblcJXIT250624.shtml)
 
++ [特朗普与内塔尼亚胡通话 要求以色列停止攻击伊朗](https://news.cctv.com/2025/06/24/ARTILx0GnWLZc0aZvZNueUbz250624.shtml)
+
++ [卡塔尔首相：卡塔尔将针对伊朗袭击采取法律和外交行动](https://news.cctv.com/2025/06/24/ARTIdUsdXwP6l38s4al0vATz250624.shtml)
+
++ [特朗普称以伊均违反停火协议](https://news.cctv.com/2025/06/24/ARTI21O8LYx9Pc5HIcKB5VaO250624.shtml)
+

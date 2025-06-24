@@ -199,3 +199,13 @@
 
 + [Java的SpringAI+Deepseek大模型实战【二】](https://blog.csdn.net/u012190388/article/details/148801227)
 
++ [为什么 Agent 会成为下一个 AI 应用爆发点？如何为企业带来盈利](https://blog.csdn.net/weixin_53269650/article/details/148781787)
+
++ [SpringSecurity6（认证-前后端分离）](https://blog.csdn.net/Linging_24/article/details/148855462)
+
++ [（三十六）深度解析领域特定语言（DSL）第七章——语法制导翻译——案例语义模型](https://blog.csdn.net/weixin_46217641/article/details/148873534)
+
++ [计算机网络笔记](https://blog.csdn.net/2301_80484013/article/details/148830766)
+
++ [YOLOv13技术介绍：基于超图增强的自适应视觉感知实时目标检测器](https://blog.csdn.net/Lemon__Tree__/article/details/148829298)
+
