@@ -185,3 +185,5 @@
 
 + [中方敦促保持同阿富汗临时政府对话接触](https://news.cctv.com/2025/06/24/ARTIeAsjHiqR98cRMzbimiPm250624.shtml)
 
++ [伊朗和以色列宣布正式停火](https://news.cctv.com/2025/06/24/ARTIaDChzV36frMTDfNcSLHP250624.shtml)
+

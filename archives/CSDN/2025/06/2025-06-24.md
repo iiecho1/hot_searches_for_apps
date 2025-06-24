@@ -145,3 +145,19 @@
 
 + [【智能协同云图库】智能协同云图库第一弹：前后端项目启动和初始化](https://blog.csdn.net/2402_84916296/article/details/148845526)
 
++ [大模型之Spring AI实战系列（三十二）：Spring Boot + DeepSeek 实战指南：工具函数（Function Call）实战应用](https://blog.csdn.net/xiaobing259/article/details/148792694)
+
++ [基于PostgreSQL的百度或高德等POI多层级分类的数据库设计](https://blog.csdn.net/yelangkingwuzuhu/article/details/148855794)
+
++ [【深度学习-Day 31】CNN基石：彻底搞懂卷积层 (Convolutional Layer) 的工作原理](https://blog.csdn.net/Kiradzy/article/details/148799963)
+
++ [python基于微信小程序的广西文化传承系统](https://blog.csdn.net/Q_Q1963288475/article/details/148842319)
+
++ [Java 大视界 -- Java 大数据机器学习模型在金融反洗钱交易模式识别与风险预警中的应用（319）](https://blog.csdn.net/atgfg/article/details/148855592)
+
++ [（8）(8.1) 光学流量传感器测试和设置（一）](https://blog.csdn.net/qq_20016593/article/details/148716930)
+
++ [量子叠加，量子相干，Rabi 震荡，能量量子化，量子纠缠，量子行走问题汇总](https://blog.csdn.net/eloudy/article/details/148769306)
+
++ [浏览器插件cursor实现自动注册、续杯](https://blog.csdn.net/Mrxiao_bo/article/details/148843978)
+
