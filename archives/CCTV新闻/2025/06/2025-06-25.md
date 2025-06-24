@@ -161,3 +161,5 @@
 
 + [以方称伊朗新一轮导弹袭击致至少16人受伤](https://news.cctv.com/2025/06/23/ARTIG3a8FuYRIcQQQKMqnNTG250623.shtml)
 
++ [大幅增加国防开支 德国内阁批准新财政预算草案](https://news.cctv.com/2025/06/25/ARTImTvrW0b11EiaoHRnL398250625.shtml)
+

@@ -101,3 +101,17 @@
 
 + [STM32给FPGA的外挂FLASH进行升级](https://blog.csdn.net/weixin_50183638/article/details/148839244)
 
++ [基于LSTM自编码器与KMeans聚类的时间序列无监督异常检测方法](https://blog.csdn.net/m0_46510245/article/details/148866969)
+
++ [【云原生】Docker 部署 Elasticsearch 9 操作详解](https://blog.csdn.net/congge_study/article/details/148823159)
+
++ [基于 SpringBoot+JSP 的医疗预约与诊断系统设计与实现](https://blog.csdn.net/mr_lili_111/article/details/140196796)
+
++ [深度剖析：Dify、Coze、FastGPT、n8n、RAGflow大对决，谁主沉浮？（6/6）](https://blog.csdn.net/beautifulmemory/article/details/148875828)
+
++ [Qt+OPC开发笔记（三）：OPC客户端订阅特点消息的Demo](https://blog.csdn.net/qq21497936/article/details/148868209)
+
++ [如何将在vscode本地部署的Deepseek大模型设置自定义回答问题？](https://blog.csdn.net/weixin_43970743/article/details/148853980)
+
++ [【智能协同云图库】智能协同云图库第一弹：前后端项目启动和初始化](https://blog.csdn.net/2402_84916296/article/details/148845526)
+
