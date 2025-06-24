@@ -137,3 +137,11 @@
 
 + [如何在 Python 中连接 Elasticsearch 并使用 Qwen3 来实现 RAG](https://blog.csdn.net/UbuntuTouch/article/details/148853095)
 
++ [【机器学习四大核心任务类型详解】分类、回归、聚类、降维都是什么？](https://blog.csdn.net/qq_62223405/article/details/148828365)
+
++ [Spring JDBC配置与使用](https://blog.csdn.net/m0_61261153/article/details/148827531)
+
++ [本地文件深度交互新玩法：Obsidian Copilot的深度开发](https://blog.csdn.net/2301_80863610/article/details/148856704)
+
++ [【智能协同云图库】智能协同云图库第一弹：前后端项目启动和初始化](https://blog.csdn.net/2402_84916296/article/details/148845526)
+

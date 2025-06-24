@@ -183,3 +183,5 @@
 
 + [伊朗实施报复 导弹打击美国驻卡塔尔空军基地](https://news.cctv.com/2025/06/24/ARTI2RlCnnU4e46e3Madk7Kk250624.shtml)
 
++ [中方敦促保持同阿富汗临时政府对话接触](https://news.cctv.com/2025/06/24/ARTIeAsjHiqR98cRMzbimiPm250624.shtml)
+
