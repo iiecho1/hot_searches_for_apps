@@ -223,3 +223,5 @@
 
 + [特朗普称以伊均违反停火协议](https://news.cctv.com/2025/06/24/ARTI21O8LYx9Pc5HIcKB5VaO250624.shtml)
 
++ [稳定币，是美元的“救心丸”吗？](https://news.cctv.com/2025/06/24/ARTIxPjgyy0B7jqMMFAwfddl250624.shtml)
+
