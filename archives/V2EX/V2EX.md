@@ -51,3 +51,7 @@
 
 + [有没有人觉得 markdown 并不适合拿来写文档？](https://www.v2ex.com/t/1140628)
 
++ [大家卧推重量多少？调研下，看看我在什么水平。](https://www.v2ex.com/t/1140609)
+
++ [go 转 Python 的心智负担增加](https://www.v2ex.com/t/1140619)
+

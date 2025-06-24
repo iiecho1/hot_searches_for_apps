@@ -165,3 +165,7 @@
 
 + [从零到一：基于Ubuntu部署MyIP系统并整合内网穿透技术实现远程访问](https://blog.csdn.net/m0_75215937/article/details/148845115)
 
++ [AI驱动的DevOps运维与云服务部署自动化](https://blog.csdn.net/master_hunter/article/details/148866145)
+
++ [AIGC工具平台-FishSpeech零样本语音合成](https://blog.csdn.net/qq_20288327/article/details/148763723)
+

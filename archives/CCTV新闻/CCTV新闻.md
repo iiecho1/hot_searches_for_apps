@@ -197,3 +197,9 @@
 
 + [卡塔尔埃米尔与美总统通话 讨论伊朗袭击美军基地](https://news.cctv.com/2025/06/24/ARTIfZP2T485ock0k3fsnhj8250624.shtml)
 
++ [特朗普宣布以伊停火生效 警告各方不要违反协议](https://news.cctv.com/2025/06/24/ARTIHbH2Zsi2IEtWF8gfNeEb250624.shtml)
+
++ [总台专访丨国际奥委会新任主席考文垂期待再访中国](https://news.cctv.com/2025/06/24/ARTI9wnmY39sfgA9fA3k0qOA250624.shtml)
+
++ [世卫组织报告：控烟措施已保护全球逾61亿人口](https://news.cctv.com/2025/06/24/ARTIcKoudgPs8jUWFwSCpCHs250624.shtml)
+
