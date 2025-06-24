@@ -129,3 +129,5 @@
 
 + [【信创-k8s】银河麒麟V10国防版+鲲鹏/飞腾(arm64架构)在线/离线部署k8s1.30+kubesphere](https://blog.csdn.net/qq_33174891/article/details/148846032)
 
++ [为什么 Agent 会成为下一个 AI 应用爆发点？如何为企业带来盈利](https://blog.csdn.net/weixin_53269650/article/details/148781787)
+
