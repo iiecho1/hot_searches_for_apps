@@ -177,3 +177,7 @@
 
 + [【通识】fpga基本概念](https://blog.csdn.net/Achenganggyel/article/details/148820086)
 
++ [DeepSeek今天喝什么随机奶茶推荐器](https://blog.csdn.net/wodeita/article/details/148856129)
+
++ [学习threejs，使用kokomi、gsap实现图片环效果](https://blog.csdn.net/qq_28419035/article/details/148869715)
+
