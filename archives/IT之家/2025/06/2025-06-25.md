@@ -51,3 +51,11 @@
 
 + [小米 YU7 车外配 8 个麦克风和 1 个扬声器，支持小爱语音控车 / 沟通](https://m.ithome.com/html/863374.htm)
 
++ [消息称苹果 iPhone 18 系列手机灵动岛开孔更小，部分机型配备屏下 Face ID](https://m.ithome.com/html/863145.htm)
+
++ [小米相机徕卡原生双画质「徕卡经典」和「徕卡生动」差异公布，前者追求真实自然、后者视觉冲击力强](https://m.ithome.com/html/863132.htm)
+
++ [微信鸿蒙版 App 获 1.0.8.16 邀测升级，音视频通话支持在后台小窗显示](https://m.ithome.com/html/863148.htm)
+
++ [小米 REDMI K Pad 平板游戏视野拓展功能曝光，需开箱后 OTA 至最新版本获取](https://m.ithome.com/html/863142.htm)
+
