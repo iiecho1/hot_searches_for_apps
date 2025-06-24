@@ -181,3 +181,7 @@
 
 + [学习threejs，使用kokomi、gsap实现图片环效果](https://blog.csdn.net/qq_28419035/article/details/148869715)
 
++ [聚合多个顶尖AI模型，打造极速编程流｜Chatbox AI 实战精讲](https://blog.csdn.net/2302_78391795/article/details/148811776)
+
++ [【Rust异步编程】Rust异步编程原理解析、标准库实现与第三方库实现详解](https://blog.csdn.net/littlefun591/article/details/148848082)
+

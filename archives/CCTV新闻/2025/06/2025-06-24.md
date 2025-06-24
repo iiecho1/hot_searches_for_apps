@@ -209,3 +209,11 @@
 
 + [“北约应该在海牙接受审判，而不是举行峰会”——海牙数千人集会反对北约峰会召开](https://news.cctv.com/2025/06/24/ARTIRrYTP6DBGyckvc1ICo9I250624.shtml)
 
++ [韩国特检组向法院申请逮捕前总统尹锡悦](https://news.cctv.com/2025/06/24/ARTIgBNl33w3MPMk4gvhl8C7250624.shtml)
+
++ [伊朗称已“迫使以色列单方面停止侵略”](https://news.cctv.com/2025/06/24/ARTI13Rj4SOp1JkE5vSPGx35250624.shtml)
+
++ [印度空难已确认259名遇难者身份](https://news.cctv.com/2025/06/24/ARTItiH9OJOtYqj85UvSfPNi250624.shtml)
+
++ [伊朗否认在停火后对以色列发射导弹](https://news.cctv.com/2025/06/24/ARTIoo52qDsK9Q7BlblcJXIT250624.shtml)
+
