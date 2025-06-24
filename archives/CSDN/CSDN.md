@@ -161,3 +161,7 @@
 
 + [浏览器插件cursor实现自动注册、续杯](https://blog.csdn.net/Mrxiao_bo/article/details/148843978)
 
++ [SpringBoot中使用表单数据有效性检验](https://blog.csdn.net/2301_77931454/article/details/148857003)
+
++ [从零到一：基于Ubuntu部署MyIP系统并整合内网穿透技术实现远程访问](https://blog.csdn.net/m0_75215937/article/details/148845115)
+
