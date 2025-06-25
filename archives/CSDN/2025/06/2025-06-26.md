@@ -111,3 +111,25 @@
 
 + [【CS创世SD NAND征文】基于全志V3S与CS创世SD NAND的物联网智能路灯网关数据存储方案](https://blog.csdn.net/m0_61712829/article/details/148875407)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融反洗钱交易模式识别与风险预警中的应用（319）](https://blog.csdn.net/atgfg/article/details/148855592)
+
++ [Oracle 数据库查询：多表查询](https://blog.csdn.net/2401_83830408/article/details/148828849)
+
++ [【Arduino 动手做】全新视角的自平衡远程呈现机器人算法](https://blog.csdn.net/weixin_41659040/article/details/148867906)
+
++ [打破网络安全孤岛：实现防御数据协作](https://blog.csdn.net/UbuntuTouch/article/details/148859768)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | MovieApp（电影卡片组件）](https://blog.csdn.net/qq_44808710/article/details/148878928)
+
++ [深度解析｜智能汽车操作系统技术突破：从架构演进到产业重构](https://blog.csdn.net/weixin_62244995/article/details/148833176)
+
++ [python3实现QQ官方机器人回调验证](https://blog.csdn.net/weixin_42726196/article/details/148793518)
+
++ [打包上传到Linux部署并启动](https://blog.csdn.net/weixin_43900374/article/details/148880227)
+
++ [AWS EC2 实例 部署 Let’s Encrypt 免费 HTTPS 证书记录（ Nginx 配置 + 排错解决）](https://blog.csdn.net/m0_37482190/article/details/148875043)
+
++ [AIGC工具平台-FishSpeech零样本语音合成](https://blog.csdn.net/qq_20288327/article/details/148763723)
+
++ [Java实现简易即时通讯系统](https://blog.csdn.net/qq_45990281/article/details/148880593)
+
