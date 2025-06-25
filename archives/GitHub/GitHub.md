@@ -25,3 +25,27 @@
 
 + [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
++ [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+
++ [vitejs/vite](https://github.com/vitejs/vite)
+
++ [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
++ [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
+
++ [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
++ [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
++ [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+
++ [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+

@@ -205,3 +205,5 @@
 
 + [伊朗逮捕700多名涉嫌为以色列从事间谍活动人员](https://news.cctv.com/2025/06/25/ARTIRriRYuz6y8WPQCKmXuR2250625.shtml)
 
++ [世界银行批准向叙利亚和黎巴嫩提供贷款 合计近5亿美元](https://news.cctv.com/2025/06/25/ARTImFqs4CiyVw4WLNf05jeg250625.shtml)
+

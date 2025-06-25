@@ -183,3 +183,9 @@
 
 + [HTML炫酷烟花](https://blog.csdn.net/m0_68111267/article/details/148871999)
 
++ [TensorFlow深度学习实战——使用Hugging Face构建Transformer模型](https://blog.csdn.net/LOVEmy134611/article/details/148838234)
+
++ [T-BOX 革新：ASR1606 LTE Cat.1 联合 SD NAND MKDV1GIL-AST 的优势剖析](https://blog.csdn.net/weixin_44976692/article/details/148892333)
+
++ [软件工程：从理论到实践，构建可靠软件的艺术与科学](https://blog.csdn.net/qq_14829643/article/details/148881732)
+
