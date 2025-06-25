@@ -189,3 +189,9 @@
 
 + [深陷“黑金”丑闻 日本自民党原“安倍派”正式解散](https://news.cctv.com/2025/06/25/ARTIjcCh1H9lg7x5sA2kIIoF250625.shtml)
 
++ [外交部：中方愿同金砖国家一道 为维护中东地区和平稳定努力](https://news.cctv.com/2025/06/25/ARTIuVUxvlX0KdkdiTPJ0VAr250625.shtml)
+
++ [伊朗民众庆祝停火](https://photo.cctv.com/2025/06/25/PHOAP92P98lsWP2cJHLk3QyV250625.shtml)
+
++ [伊朗议会通过暂停与国际原子能机构合作的法案](https://news.cctv.com/2025/06/25/ARTIZ3ANptKFHNT73GtwW9Dp250625.shtml)
+

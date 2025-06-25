@@ -169,3 +169,11 @@
 
 + [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_服药提醒示例（CalendarView01_24）](https://blog.csdn.net/qq_33650655/article/details/148885622)
 
++ [解决语义搜索痛点，基于对比学习的领域特定文本嵌入模型微调实践](https://blog.csdn.net/m0_46510245/article/details/148893982)
+
++ [【Arduino 动手做】全新视角的自平衡远程呈现机器人算法](https://blog.csdn.net/weixin_41659040/article/details/148867906)
+
++ [ASR1606 LTE Cat.1 与 MK SD NAND–––T-BOX 智能基座的通信存储双擎](https://blog.csdn.net/qyj19920704/article/details/148882510)
+
++ [.NET 生态中主流的前后端生产级框架](https://blog.csdn.net/sixpp/article/details/148871199)
+

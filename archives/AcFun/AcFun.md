@@ -97,3 +97,5 @@
 
 + [NS 允智 Yasisi](https://m.acfun.cn/v/?ac=47429996)
 
++ [集主流工艺之大成的价格杀手，fosi audio I5平板振膜耳机](https://m.acfun.cn/v/?ac=47431152)
+
