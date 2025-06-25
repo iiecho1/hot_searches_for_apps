@@ -167,3 +167,5 @@
 
 + [波音“门塞事故”调查：制造流程缺陷及监管不力所致](https://news.cctv.com/2025/06/26/ARTIlYcvb96GQoTFurHp7P49250625.shtml)
 
++ [调查显示大量美国公司今年上半年削减、推迟或取消支出](https://news.cctv.com/2025/06/26/ARTIA4JivbNfKTsdn2XzsH8v250625.shtml)
+

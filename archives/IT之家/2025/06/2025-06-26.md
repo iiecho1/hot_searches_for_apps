@@ -49,3 +49,5 @@
 
 + [小米 YU7 车外配 8 个麦克风和 1 个扬声器，支持小爱语音控车 / 沟通](https://m.ithome.com/html/863374.htm)
 
++ [王腾：REDMI K Pad 平板小米首发双 USB-C 接口，支持至高 USB 3.2 Gen1 协议](https://m.ithome.com/html/863428.htm)
+

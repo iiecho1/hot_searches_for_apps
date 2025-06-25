@@ -133,3 +133,5 @@
 
 + [Java实现简易即时通讯系统](https://blog.csdn.net/qq_45990281/article/details/148880593)
 
++ [Bright Data亮数据 MCP + N8N x AI 新闻编辑：基于亮数据，数据采集到观点摘要工作流自动化实践](https://blog.csdn.net/weixin_62765017/article/details/148876556)
+
