@@ -195,3 +195,7 @@
 
 + [OSS安全合规实战：金融行业敏感数据加密+KMS自动轮转策略（满足等保2.0三级要求）](https://blog.csdn.net/weixin_53920044/article/details/148882265)
 
++ [打造属于你的AI智能体，从数据开始 —— 使用 Bright Data MCP+Trae快速构建垂直智能体](https://blog.csdn.net/weixin_51390582/article/details/148904190)
+
++ [云原生与人工智能的融合：从弹性架构到智能运维的IT新范式](https://blog.csdn.net/SDFsoul/article/details/148904509)
+

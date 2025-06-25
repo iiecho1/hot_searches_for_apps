@@ -215,3 +215,5 @@
 
 + [联合国副秘书长徐浩良出任联合国开发计划署代理署长](https://news.cctv.com/2025/06/25/ARTIFU3pu3h63TT4clz7GYvo250625.shtml)
 
++ [以伊停火说法各异，美国暗中调整中东布局](https://news.cctv.com/2025/06/25/ARTInu5gJfEW5YPU9FOWUN2U250625.shtml)
+

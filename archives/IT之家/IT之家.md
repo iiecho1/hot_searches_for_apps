@@ -69,3 +69,21 @@
 
 + [前苹果工程师：iOS 26 闹钟界面设计有悖调研结果，并排大按钮恐致 iPhone 用户睡过头](https://m.ithome.com/html/863442.htm)
 
++ [雷军：小米 YU7 标准版配置对标友商 Max / Ultra 版，“比 SU7 标准版贵 2-3 万元”不实](https://m.ithome.com/html/863534.htm)
+
++ [载 3000 辆新车的货轮在北太平洋起火后沉没，含 750 辆新能源汽车](https://m.ithome.com/html/863530.htm)
+
++ [小米 YU7 汽车新配色「珍珠白」亮相，雷军称“一定有很多人喜欢”](https://m.ithome.com/html/863567.htm)
+
++ [全新小米 AI 眼镜官宣：面向下一代的个人智能设备明天见](https://m.ithome.com/html/863464.htm)
+
++ [9 月生效：俄罗斯新规要求 iPhone / iPad 等苹果设备支持安装第三方应用商店 RuStore](https://m.ithome.com/html/863459.htm)
+
++ [华为鸿蒙 HarmonyOS NEXT 系统推出游戏内存镜像功能，支持“秒开秒进”效果](https://m.ithome.com/html/863593.htm)
+
++ [全球最轻大折叠手机 vivo X Fold5 发布：骁龙 8 Gen3 处理器、首发等效 6000mAh 蓝海电池，6999 元起](https://m.ithome.com/html/863661.htm)
+
++ [小米手环 10 将首次推出彩色陶瓷版，官方称“温润光泽风尚出众”](https://m.ithome.com/html/863555.htm)
+
++ [“小米首款小尺寸智能腕表”小米手表 S4 41mm 现身，明晚发布](https://m.ithome.com/html/863584.htm)
+
