@@ -183,3 +183,9 @@
 
 + [日本茨城县附近海域发生4.3级地震](https://news.cctv.com/2025/06/25/ARTIeT02GEbEJAPF5Xv9wQ1m250625.shtml)
 
++ [以伊打完了 这件全球瞩目的事美国却始终没讲圆](https://news.cctv.com/2025/06/25/ARTIHotSXQoElRvELg13CDvM250625.shtml)
+
++ [美政府寻求本月底前与哈佛达成协议](https://news.cctv.com/2025/06/25/ARTIbcTzXzQG1A7Lcirv2WRy250625.shtml)
+
++ [深陷“黑金”丑闻 日本自民党原“安倍派”正式解散](https://news.cctv.com/2025/06/25/ARTIjcCh1H9lg7x5sA2kIIoF250625.shtml)
+

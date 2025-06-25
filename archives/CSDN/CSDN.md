@@ -161,3 +161,11 @@
 
 + [Gemini 2.5 Pro 和Claude 4 高考数学2025年真题实战对比，国内直接使用](https://blog.csdn.net/shi_hong_fei_hei/article/details/148650129)
 
++ [计算机视觉模型可解释性：Grad-CAM与Attention可视化](https://blog.csdn.net/weixin_43151418/article/details/148043899)
+
++ [基于单片机的语音控制设计（论文）](https://blog.csdn.net/weixin_65633498/article/details/148882338)
+
++ [【网络安全】从IP头部看网络通信：IPv4、IPv6与抓包工具 Wireshark 实战](https://blog.csdn.net/qq_41608408/article/details/148881887)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_服药提醒示例（CalendarView01_24）](https://blog.csdn.net/qq_33650655/article/details/148885622)
+
