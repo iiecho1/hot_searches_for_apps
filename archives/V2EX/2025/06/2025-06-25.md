@@ -21,3 +21,11 @@
 
 + [做了个 Labubu 网站，整不会了，已经凉了](https://www.v2ex.com/t/1140560)
 
++ [推荐一款很装又实用的编程字体](https://www.v2ex.com/t/1140755)
+
++ [有什么办法可以进入路边的监控](https://www.v2ex.com/t/1140795)
+
++ [CODING 下线了](https://www.v2ex.com/t/1140648)
+
++ [现在注册 Claude 是不是不用手机号了？ 我 Google 账户直接登录了](https://www.v2ex.com/t/1140689)
+

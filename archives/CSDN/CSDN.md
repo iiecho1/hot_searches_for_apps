@@ -139,3 +139,5 @@
 
 + [量化-因子处理](https://blog.csdn.net/2401_88885149/article/details/148816150)
 
++ [AI编程再突破，文心快码发布行业首个多模态、多智能体协同Comate AI IDE](https://blog.csdn.net/qq_44866828/article/details/148855701)
+
