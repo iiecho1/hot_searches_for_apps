@@ -147,3 +147,9 @@
 
 + [如何开发Cursor](https://blog.csdn.net/m0_57874805/article/details/148829494)
 
++ [Jenkins X + AI：重塑云原生时代的持续交付范式](https://blog.csdn.net/Dreamy_zsy/article/details/148811322)
+
++ [Spring Security 技术原理与实战全景详解](https://blog.csdn.net/weixin_39863120/article/details/148564447)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(三十六) -＞ 配置构建(三)](https://blog.csdn.net/weixin_74809706/article/details/148832605)
+

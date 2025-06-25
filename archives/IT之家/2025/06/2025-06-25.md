@@ -59,3 +59,13 @@
 
 + [小米 REDMI K Pad 平板游戏视野拓展功能曝光，需开箱后 OTA 至最新版本获取](https://m.ithome.com/html/863142.htm)
 
++ [王腾：REDMI K Pad 平板小米首发双 USB-C 接口，支持至高 USB 3.2 Gen1 协议](https://m.ithome.com/html/863428.htm)
+
++ [最新苹果 iPhone 17 Pro 机模曝光：清晰展示全新“摄像头条”设计](https://m.ithome.com/html/863437.htm)
+
++ [HDMI 2.2 最终完整规范发布：线缆必须标 ULTRA96 字样，带宽翻倍至 96 Gbps](https://m.ithome.com/html/863415.htm)
+
++ [小米申请注册“XRING O2”商标，为玄戒 O2 自研芯片铺路](https://m.ithome.com/html/863297.htm)
+
++ [前苹果工程师：iOS 26 闹钟界面设计有悖调研结果，并排大按钮恐致 iPhone 用户睡过头](https://m.ithome.com/html/863442.htm)
+
