@@ -195,3 +195,9 @@
 
 + [伊朗议会通过暂停与国际原子能机构合作的法案](https://news.cctv.com/2025/06/25/ARTIZ3ANptKFHNT73GtwW9Dp250625.shtml)
 
++ [英国将采购可携带核武器的F-35A战斗机](https://military.cctv.com/2025/06/25/ARTIEFgNI2DUiRETXG95SY0E250625.shtml)
+
++ [至少14名顶尖专家身亡 伊朗核计划还有可能继续吗](https://news.cctv.com/2025/06/25/ARTIzPEKmc91S0C2Tg33hWHr250625.shtml)
+
++ [共话中国经济新机遇丨专访：期待亚投行成为引领区域可持续发展的全球公共产品提供者——访马来西亚经济学家郑鼎华](https://news.cctv.com/2025/06/25/ARTIv4B66tM7zXoRM5PBAvEy250625.shtml)
+
