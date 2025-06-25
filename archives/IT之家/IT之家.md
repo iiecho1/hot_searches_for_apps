@@ -51,3 +51,7 @@
 
 + [王腾：REDMI K Pad 平板小米首发双 USB-C 接口，支持至高 USB 3.2 Gen1 协议](https://m.ithome.com/html/863428.htm)
 
++ [HDMI 2.2 最终完整规范发布：线缆必须标 ULTRA96 字样，带宽翻倍至 96 Gbps](https://m.ithome.com/html/863415.htm)
+
++ [小米申请注册“XRING O2”商标，为玄戒 O2 自研芯片铺路](https://m.ithome.com/html/863297.htm)
+
