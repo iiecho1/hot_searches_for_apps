@@ -101,3 +101,13 @@
 
 + [MySQL之SQL性能优化策略](https://blog.csdn.net/aa_hdkf_vg/article/details/148882025)
 
++ [T-BOX 革新：ASR1606 LTE Cat.1 联合 SD NAND MKDV1GIL-AST 的优势剖析](https://blog.csdn.net/weixin_44976692/article/details/148892333)
+
++ [MySQL 替代 Redis 的认证系统优化方案](https://blog.csdn.net/x15514104477/article/details/148869352)
+
++ [OSS安全合规实战：金融行业敏感数据加密+KMS自动轮转策略（满足等保2.0三级要求）](https://blog.csdn.net/weixin_53920044/article/details/148882265)
+
++ [【开源工具】一键解决使用代理后无法访问浏览器网页问题 - 基于PyQt5的智能代理开关工具开发全攻略](https://blog.csdn.net/Clay_K/article/details/148842106)
+
++ [【CS创世SD NAND征文】基于全志V3S与CS创世SD NAND的物联网智能路灯网关数据存储方案](https://blog.csdn.net/m0_61712829/article/details/148875407)
+
