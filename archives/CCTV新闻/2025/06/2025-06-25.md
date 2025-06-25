@@ -171,3 +171,5 @@
 
 + [也门胡塞武装宣布将继续针对以色列开展军事行动](https://news.cctv.com/2025/06/25/ARTI7rpQSBrNDyBC8iqDpRu9250625.shtml)
 
++ [驻冲绳美军士兵因试图性侵致人受伤被判处7年监禁](https://news.cctv.com/2025/06/25/ARTIyszxgplF7SEr1nt3n36V250625.shtml)
+
