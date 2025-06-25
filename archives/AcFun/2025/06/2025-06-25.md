@@ -85,3 +85,5 @@
 
 + [初代龙王：锯齿龙](https://m.acfun.cn/v/?ac=47429407)
 
++ [【歌回录像】hear me roar 2025-04-16](https://m.acfun.cn/v/?ac=47415543)
+
