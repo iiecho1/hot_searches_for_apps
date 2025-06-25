@@ -209,3 +209,9 @@
 
 + [韩国法院驳回尹锡悦逮捕令](https://news.cctv.com/2025/06/25/ARTIC8lRUiIg67O8Wich8ySr250625.shtml)
 
++ [泰柬边境争端引发泰国政局动荡：佩通坦重组内阁，反对派拟提请不信任投票](https://news.cctv.com/2025/06/25/ARTITThapvVuqX3hPTFklbu3250625.shtml)
+
++ [英国将首次挪用被冻结俄资产利息援乌：提供350枚防空导弹](https://news.cctv.com/2025/06/25/ARTIJMtKhzUA9pwb2oqaiAqd250625.shtml)
+
++ [联合国副秘书长徐浩良出任联合国开发计划署代理署长](https://news.cctv.com/2025/06/25/ARTIFU3pu3h63TT4clz7GYvo250625.shtml)
+
