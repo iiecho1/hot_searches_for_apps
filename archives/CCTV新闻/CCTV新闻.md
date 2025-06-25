@@ -173,3 +173,13 @@
 
 + [驻冲绳美军士兵因试图性侵致人受伤被判处7年监禁](https://news.cctv.com/2025/06/25/ARTIyszxgplF7SEr1nt3n36V250625.shtml)
 
++ [美媒称伊朗核设施未被摧毁 特朗普怒斥“假新闻”](https://news.cctv.com/2025/06/25/ARTI214Y8erU5OoscR4K2p4t250625.shtml)
+
++ [联合国：加沙已有18741名儿童因严重营养不良入院治疗](https://news.cctv.com/2025/06/25/ARTIiqdZu8NryGJFx7FwtPYd250625.shtml)
+
++ [美国6月消费者信心指数明显回落](https://news.cctv.com/2025/06/25/ARTI65L3t0ufwHalvyderDxB250625.shtml)
+
++ [伊朗：已采取措施确保核项目继续](https://news.cctv.com/2025/06/25/ARTIlJWqOw599tbe4XmX8lSf250625.shtml)
+
++ [日本茨城县附近海域发生4.3级地震](https://news.cctv.com/2025/06/25/ARTIeT02GEbEJAPF5Xv9wQ1m250625.shtml)
+

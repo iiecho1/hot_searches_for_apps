@@ -155,3 +155,9 @@
 
 + [网络安全攻防：2025年新型钓鱼攻击防御指南](https://blog.csdn.net/cainiao080605/article/details/148824155)
 
++ [华为云Flexus+DeepSeek征文 | 华为云MaaS平台上的智能客服Agent开发：多渠道融合应用案例](https://blog.csdn.net/IRpickstars/article/details/148840077)
+
++ [当AI说错话：大模型问答系统的致命缺陷与破解之道](https://blog.csdn.net/2401_82648291/article/details/148893031)
+
++ [Gemini 2.5 Pro 和Claude 4 高考数学2025年真题实战对比，国内直接使用](https://blog.csdn.net/shi_hong_fei_hei/article/details/148650129)
+
