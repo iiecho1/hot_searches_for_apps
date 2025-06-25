@@ -169,3 +169,5 @@
 
 + [欧盟准备采取更多关税反制措施以对美施压](https://news.cctv.com/2025/06/25/ARTIfIm31hiMPbi2JbtFCWmF250625.shtml)
 
++ [也门胡塞武装宣布将继续针对以色列开展军事行动](https://news.cctv.com/2025/06/25/ARTI7rpQSBrNDyBC8iqDpRu9250625.shtml)
+
