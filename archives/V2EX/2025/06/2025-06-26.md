@@ -39,3 +39,7 @@
 
 + [Python 的 async 协程当前真的能跑在生产环境吗？](https://www.v2ex.com/t/1140935)
 
++ [2025 年了，前端你会选 vue3 还是 react?](https://www.v2ex.com/t/1141142)
+
++ [结婚 0 彩礼的，速度来此帖报个到！](https://www.v2ex.com/t/1141145)
+

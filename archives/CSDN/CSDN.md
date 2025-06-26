@@ -163,3 +163,13 @@
 
 + [Jenkins+Jmeter+Ant接口持续集成](https://blog.csdn.net/m0_68405758/article/details/148876528)
 
++ [华为云Flexus+DeepSeek征文｜低门槛打造AI内容审核助手，从部署到上线全流程实录](https://blog.csdn.net/qq_44273429/article/details/148912572)
+
++ [【Actix Web】Rust Web开发实战：Actix Web框架全面指南](https://blog.csdn.net/littlefun591/article/details/148903715)
+
++ [计算机网络-----详解HTTP协议](https://blog.csdn.net/2401_82690001/article/details/148806896)
+
++ [基于SpringBoot+大数据Hadoop的互联网网络舆情管理与可视化平台设计与实现(精品源码+论文+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/148922043)
+
++ [【Linux】软硬链接](https://blog.csdn.net/hffh123/article/details/148839879)
+
