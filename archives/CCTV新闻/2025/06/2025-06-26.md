@@ -199,3 +199,7 @@
 
 + [谨慎参与“极地游” 驻南非使馆提醒来南中国游客加强安全防范](https://news.cctv.com/2025/06/26/ARTIOj5IivXOiQ5LvIP38OKo250626.shtml)
 
++ [泰国警方在普吉岛发现多个可疑爆炸装置](https://news.cctv.com/2025/06/26/ARTIJlujQdCuuKG0oSqiHqql250626.shtml)
+
++ [美国对伊朗释放了哪些信号？](https://news.cctv.com/2025/06/26/ARTIxSoDY1kmAtaFJTTkbP9h250626.shtml)
+
