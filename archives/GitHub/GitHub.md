@@ -31,3 +31,19 @@
 
 + [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 
++ [microsoft/edit](https://github.com/microsoft/edit)
+
++ [mui/base-ui](https://github.com/mui/base-ui)
+
++ [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
+
++ [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+
++ [twentyhq/twenty](https://github.com/twentyhq/twenty)
+
++ [nexus-xyz/nexus-cli](https://github.com/nexus-xyz/nexus-cli)
+
++ [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+
++ [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+

@@ -205,3 +205,11 @@
 
 + [极端天气袭击法国 致2人死亡超10万户家庭停电](https://news.cctv.com/2025/06/26/ARTI73cCcvDPQpzAFFMO1ANp250626.shtml)
 
++ [夏季达沃斯论坛上，经济学家集体警示美国经济三重危机](https://news.cctv.com/2025/06/26/ARTI6qucVHrz6stC4SRs3lGI250626.shtml)
+
++ [伊朗宪法监护委员会批准暂停伊朗与国际原子能机构合作的法案](https://news.cctv.com/2025/06/26/ARTIlLEyeVueEwsN1WDuXYFT250626.shtml)
+
++ [国际观察｜北约峰会“共识”里的分歧](https://news.cctv.com/2025/06/26/ARTIhrnChSsQhXoKIMUBBE3t250626.shtml)
+
++ [斯洛伐克总理要求欧盟推迟对俄制裁投票](https://news.cctv.com/2025/06/26/ARTIO8yGLbQ1HRP5UeNGWaS6250626.shtml)
+

@@ -185,3 +185,13 @@
 
 + [Prompt：面向目标的提示词](https://blog.csdn.net/mdwsmg/article/details/148909160)
 
++ [基于合合信息开源智能终端工具—Chaterm的实战指南【当运维遇上AI，一场效率革命正在发生】](https://blog.csdn.net/weixin_52908342/article/details/148851780)
+
++ [【Maven核心功能与SpringBoot实战指南】](https://blog.csdn.net/Aileenvov/article/details/148910332)
+
++ [微信小程序 / UNIAPP --- 阻止小程序返回（顶部导航栏返回、左 / 右滑手势、安卓物理返回键和调用 navigateBack 接口）](https://blog.csdn.net/qq_63358859/article/details/148907976)
+
++ [FPGA笔记——ZYNQ-7020运行PS端的USB 2.0端口作为硬盘](https://blog.csdn.net/qq_45362336/article/details/148901233)
+
++ [Android14音频子系统-Linux音频子系统ALSA](https://blog.csdn.net/STCNXPARM/article/details/148908921)
+
