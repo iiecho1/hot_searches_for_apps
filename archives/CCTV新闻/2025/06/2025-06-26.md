@@ -195,3 +195,7 @@
 
 + [丝路“老友记”：跨越两年，我捕捉到这些关键词](https://news.cctv.com/2025/06/26/ARTIP23UIDeLZGngkdkIRvVv250626.shtml)
 
++ [以军总参谋长称特种部队曾进入伊朗境内](https://military.cctv.com/2025/06/26/ARTIZWzYmonX6oIs7HUJBwiP250626.shtml)
+
++ [谨慎参与“极地游” 驻南非使馆提醒来南中国游客加强安全防范](https://news.cctv.com/2025/06/26/ARTIOj5IivXOiQ5LvIP38OKo250626.shtml)
+
