@@ -215,3 +215,15 @@
 
 + [以伊停火后哈梅内伊首次发表讲话：侵犯伊朗必将付出沉重代价](https://news.cctv.com/2025/06/26/ARTIftQ9pnSFcujEujnYAQib250626.shtml)
 
++ [伊朗正式颁布法律 暂停与国际原子能机构合作](https://news.cctv.com/2025/06/26/ARTIq5aXM7uoQuQ3xPAj7UQH250626.shtml)
+
++ [特朗普谈伊朗打美军基地前预警：“非常好”](https://news.cctv.com/2025/06/26/ARTIq3YrDusDOMfhbNhRs0rV250626.shtml)
+
++ [西班牙首相再驳北约5%军费计划：西班牙在该问题上有自主权](https://news.cctv.com/2025/06/26/ARTIbqBZjcLtzTOYybpVghMp250626.shtml)
+
++ [中非共和国发生校园踩踏致约20人丧生](https://news.cctv.com/2025/06/26/ARTIrSwarkSw7FjyShyjCOW2250626.shtml)
+
++ [美国一季度实际国内生产总值修正值公布 环比按年计萎缩0.5%](https://news.cctv.com/2025/06/26/ARTIytWAsp3YMXyWq3ujU0sL250626.shtml)
+
++ [特朗普：伊朗袭击美军基地经过我批准](https://news.cctv.com/2025/06/26/ARTIM87YXyq8LV4bOiPG0y4t250626.shtml)
+
