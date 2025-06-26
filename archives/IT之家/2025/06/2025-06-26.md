@@ -55,3 +55,23 @@
 
 + [小米申请注册“XRING O2”商标，为玄戒 O2 自研芯片铺路](https://m.ithome.com/html/863297.htm)
 
++ [支付宝内测新版“我的”页面，图标转为多列显示](https://m.ithome.com/html/863703.htm)
+
++ [小米 YU7 预计明晚 10 点开启定购，销售人员称交付中心不打烊、27 号凌晨两点前随时看车](https://m.ithome.com/html/863701.htm)
+
++ [华为 Pura80 Ultra 手机今日正式开售，9999/10999 元](https://m.ithome.com/html/863748.htm)
+
++ [小米手环多功能桌搭亮相：机器人造型、黄 / 银配色 + 亮面设计](https://m.ithome.com/html/863676.htm)
+
++ [玩家换货换到“错版”显卡，同时印有“AMD Radeon”和“GeForce RTX”标志](https://m.ithome.com/html/863659.htm)
+
++ [不再标榜“美国制造”，特朗普“土豪金”手机官网删除产地有关描述](https://m.ithome.com/html/863758.htm)
+
++ [刘强东发力家装行业，京东收购生活家](https://m.ithome.com/html/863693.htm)
+
++ [鸿蒙智行智界品牌启动补贴：全系车型立减 2 万元现金](https://m.ithome.com/html/863776.htm)
+
++ [小米 15 Ultra 全新限量定制色官宣：徕卡经典相机拼色设计，今晚发布](https://m.ithome.com/html/863761.htm)
+
++ [哪吒汽车泰国被曝若产量不达标，将偿还超 20 亿泰铢政府补贴](https://m.ithome.com/html/863655.htm)
+

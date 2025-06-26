@@ -213,3 +213,5 @@
 
 + [斯洛伐克总理要求欧盟推迟对俄制裁投票](https://news.cctv.com/2025/06/26/ARTIO8yGLbQ1HRP5UeNGWaS6250626.shtml)
 
++ [以伊停火后哈梅内伊首次发表讲话：侵犯伊朗必将付出沉重代价](https://news.cctv.com/2025/06/26/ARTIftQ9pnSFcujEujnYAQib250626.shtml)
+
