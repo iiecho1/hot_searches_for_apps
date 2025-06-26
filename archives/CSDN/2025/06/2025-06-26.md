@@ -135,3 +135,13 @@
 
 + [Bright Data亮数据 MCP + N8N x AI 新闻编辑：基于亮数据，数据采集到观点摘要工作流自动化实践](https://blog.csdn.net/weixin_62765017/article/details/148876556)
 
++ [Vue3+Spring boot 前后端防抖增强方案](https://blog.csdn.net/BillKu/article/details/148877580)
+
++ [C++设计模式（GOF-23）——03 C++观察者模式（Observer / Event、发布-订阅模式、事件模式）](https://blog.csdn.net/Dontla/article/details/148791260)
+
++ [Spring Boot 项目集成 Redisson 实现延迟队列](https://blog.csdn.net/qq_29864051/article/details/148872225)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_服药提醒示例（CalendarView01_24）](https://blog.csdn.net/qq_33650655/article/details/148885622)
+
++ [Python实例题：Web 爬虫与数据可视化](https://blog.csdn.net/shangzhiqi/article/details/148857261)
+
