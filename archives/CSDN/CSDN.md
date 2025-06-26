@@ -145,3 +145,13 @@
 
 + [Python实例题：Web 爬虫与数据可视化](https://blog.csdn.net/shangzhiqi/article/details/148857261)
 
++ [DM8数据库用户管理：ALTER USER命令](https://blog.csdn.net/qq_41840843/article/details/148406837)
+
++ [从零构建 gRPC 跨语言通信：C++ 服务端与 C# 客户端完整指南](https://blog.csdn.net/Z_oioihoii/article/details/148904653)
+
++ [.NET 依赖注入(DI)全面解析](https://blog.csdn.net/sixpp/article/details/148890574)
+
++ [（三十五）深度解析领域特定语言（DSL）第七章——语法制导翻译——基本概念与案例](https://blog.csdn.net/weixin_46217641/article/details/148849070)
+
++ [使用预训练权重在YOLO模型上训练新数据集的完整指南](https://blog.csdn.net/qq_71729869/article/details/148869307)
+

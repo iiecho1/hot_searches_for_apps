@@ -179,3 +179,15 @@
 
 + [中国代表敦促国际社会切实采取措施保护武装冲突中的儿童](https://news.cctv.com/2025/06/26/ARTI1X4Pz6ZQIrkeTCdBxQr6250626.shtml)
 
++ [特朗普公开施压 要求撤销对内塔尼亚胡的审判](https://military.cctv.com/2025/06/26/ARTIfDOnbV2Z0Jxel2vGrT0L250626.shtml)
+
++ [罕见！英国航母F-35B战机滞留印度超10天，英方担心技术泄密](https://military.cctv.com/2025/06/26/ARTI2ApZ5G7I4LXJOY8krXA9250626.shtml)
+
++ [加沙地带：悼念遇难者](https://photo.cctv.com/2025/06/26/PHOAxozo7rQQ9A7aGMfTdTwG250626.shtml)
+
++ [越南总理：亚洲各国应携手构建繁荣与可持续的“亚洲世纪”](https://news.cctv.com/2025/06/26/ARTIo2SjI5sKg9UfwGCYo97i250626.shtml)
+
++ [韩国总统李在明就任后首次发表施政演说](https://news.cctv.com/2025/06/26/ARTIok8uvvy4v8i4YAwAIJRe250626.shtml)
+
++ [非洲疾控中心官员：中国为非洲卫生基础设施建设提供了大力支持](https://news.cctv.com/2025/06/26/ARTIWCjEeIDHzL2XhERhnjTH250626.shtml)
+
