@@ -161,3 +161,5 @@
 
 + [伊称以色列与伊朗停火进入实施阶段](https://news.cctv.com/2025/06/24/ARTIBXoFc2gs9hNmQDKUlP4l250624.shtml)
 
++ [热点问答｜哈梅内伊的“三个祝贺”有何深意](https://news.cctv.com/2025/06/27/ARTIkOkTxsm7dolumHvazzJm250626.shtml)
+
