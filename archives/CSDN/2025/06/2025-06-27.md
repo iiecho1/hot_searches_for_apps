@@ -101,3 +101,29 @@
 
 + [uniapp/Vue/微信小程序瀑布流,小红书瀑布流,豆瓣瀑布流,淘宝瀑布流布局](https://blog.csdn.net/2401_89806660/article/details/148875251)
 
++ [新能源汽车能耗破局之道：主成分与聚类算法的技术实践（K-means算法，附完整代码）](https://blog.csdn.net/weixin_62244995/article/details/148904773)
+
++ [云原生与人工智能的融合：从弹性架构到智能运维的IT新范式](https://blog.csdn.net/SDFsoul/article/details/148904509)
+
++ [AI驱动的DevOps运维与云服务部署自动化](https://blog.csdn.net/master_hunter/article/details/148866145)
+
++ [Java 大视界 -- Java 大数据在智慧农业无人农场精准作业与智能决策中的深度应用（320）](https://blog.csdn.net/atgfg/article/details/148881422)
+
++ [前端与 Spring Boot 后端无感 Token 刷新 - 从原理到全栈实践](https://blog.csdn.net/lhmyy521125/article/details/148868177)
+
++ [Vue3+Spring boot 前后端防抖增强方案](https://blog.csdn.net/BillKu/article/details/148877580)
+
++ [▲基于8PSK调制解调+Turbo编译码通信链路matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/148931832)
+
++ [分布式环境下 Spring Boot 项目基于雪花算法的唯一 ID 生成方案](https://blog.csdn.net/weixin_43833540/article/details/148903047)
+
++ [基于Dyna-Q强化学习的智能营销系统：融合贝叶斯生存模型与Transformer注意力机制的电商客户重参与策略优化](https://blog.csdn.net/m0_46510245/article/details/148919285)
+
++ [Kubernetes、Docker Swarm 与 Nomad 容器编排方案深度对比与选型指导](https://blog.csdn.net/qq_35716689/article/details/148904198)
+
++ [通用 Excel 导出功能设计与实现：动态列选择与灵活配置](https://blog.csdn.net/weixin_57681114/article/details/148902976)
+
++ [如何将FPGA设计验证效率提升1000倍以上(1)](https://blog.csdn.net/mecache2009/article/details/148899222)
+
++ [Jenkins 全面解析：作用、功能、优势与对比](https://blog.csdn.net/Interview_TC/article/details/148868144)
+

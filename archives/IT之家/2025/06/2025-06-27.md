@@ -25,3 +25,27 @@
 
 + [小米雷军：SUV 是汽车行业真正的主战场，YU7 即将迎来最残酷的竞争](https://m.ithome.com/html/863638.htm)
 
++ [小米 YU7 正式发布，25.35 万-32.99 万元](https://m.ithome.com/html/863974.htm)
+
++ [小米 YU7 汽车 3 分钟大定突破 20 万台](https://m.ithome.com/html/863978.htm)
+
++ [小米 REDMI K80 至尊版手机发布：天玑 9400+ / AI 独显芯片 D2、7410mAh 电池，2599 元起](https://m.ithome.com/html/863945.htm)
+
++ [小米 YU7 汽车 1 小时大定突破 28.9 万台](https://m.ithome.com/html/863992.htm)
+
++ [小米 REDMI 首款旗舰小平板 K Pad 发布：8.8 英寸 LCD 屏搭配天玑 9400+，2799 元起](https://m.ithome.com/html/863946.htm)
+
++ [小米多功能桌搭发布：小米手环 8、9、10 代秒变“机器人”，199 元](https://m.ithome.com/html/863952.htm)
+
++ [小米首款 AI 眼镜发布：第一人称相机、超级小爱、看一眼支付，1999 元起](https://m.ithome.com/html/863956.htm)
+
++ [华为 Pura80 Ultra 手机今日正式开售，9999/10999 元](https://m.ithome.com/html/863748.htm)
+
++ [小米手环 10“第十代典藏之作”发布：首推彩色陶瓷版、四等边屏幕，269 元起](https://m.ithome.com/html/863950.htm)
+
++ [小米 YU7 大定数字惊人，雷军称可能我们大家一起见证了中国汽车领域的奇迹](https://m.ithome.com/html/863980.htm)
+
++ [不再标榜“美国制造”，特朗普“土豪金”手机官网删除产地有关描述](https://m.ithome.com/html/863758.htm)
+
++ [小米 MIX Flip 2 小折叠手机发布：5999 元起，骁龙 8 至尊版、小折电池容量首次突破 5000mAh](https://m.ithome.com/html/863940.htm)
+
