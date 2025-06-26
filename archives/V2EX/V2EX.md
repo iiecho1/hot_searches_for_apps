@@ -35,3 +35,7 @@
 
 + [为什么感觉程序员龟男反而多呢](https://www.v2ex.com/t/1141099)
 
++ [旅居的第 48 天，讲讲我为什么逃离西安](https://www.v2ex.com/t/1141101)
+
++ [Python 的 async 协程当前真的能跑在生产环境吗？](https://www.v2ex.com/t/1140935)
+

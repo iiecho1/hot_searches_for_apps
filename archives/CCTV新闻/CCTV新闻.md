@@ -191,3 +191,7 @@
 
 + [非洲疾控中心官员：中国为非洲卫生基础设施建设提供了大力支持](https://news.cctv.com/2025/06/26/ARTIWCjEeIDHzL2XhERhnjTH250626.shtml)
 
++ [国际观察丨“全世界都看到美国正在自毁声誉”](https://news.cctv.com/2025/06/26/ARTID9PMMT2Bm1Xls37hDAm1250626.shtml)
+
++ [丝路“老友记”：跨越两年，我捕捉到这些关键词](https://news.cctv.com/2025/06/26/ARTIP23UIDeLZGngkdkIRvVv250626.shtml)
+

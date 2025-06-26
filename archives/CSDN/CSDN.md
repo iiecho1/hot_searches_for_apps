@@ -155,3 +155,11 @@
 
 + [使用预训练权重在YOLO模型上训练新数据集的完整指南](https://blog.csdn.net/qq_71729869/article/details/148869307)
 
++ [飞算JavaAI 2.0.0测评：自然语言编程如何颠覆传统开发？](https://blog.csdn.net/IRpickstars/article/details/148902899)
+
++ [最方便的应用构建——利用云原生快速搭建本地deepseek知识仓库](https://blog.csdn.net/ailuloo/article/details/148876116)
+
++ [Maven 之 JUnit 测试体系构建全解析](https://blog.csdn.net/qq_46987323/article/details/148831076)
+
++ [Jenkins+Jmeter+Ant接口持续集成](https://blog.csdn.net/m0_68405758/article/details/148876528)
+
