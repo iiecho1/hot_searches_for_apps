@@ -203,3 +203,5 @@
 
 + [美国对伊朗释放了哪些信号？](https://news.cctv.com/2025/06/26/ARTIxSoDY1kmAtaFJTTkbP9h250626.shtml)
 
++ [极端天气袭击法国 致2人死亡超10万户家庭停电](https://news.cctv.com/2025/06/26/ARTI73cCcvDPQpzAFFMO1ANp250626.shtml)
+
