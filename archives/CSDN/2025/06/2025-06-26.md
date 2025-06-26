@@ -195,3 +195,9 @@
 
 + [Android14音频子系统-Linux音频子系统ALSA](https://blog.csdn.net/STCNXPARM/article/details/148908921)
 
++ [MySQL之存储过程详解](https://blog.csdn.net/aa_hdkf_vg/article/details/148908517)
+
++ [Redis—持久化](https://blog.csdn.net/weixin_71964451/article/details/148907984)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | BackgroundSlider（背景滑块）](https://blog.csdn.net/qq_44808710/article/details/148906507)
+
