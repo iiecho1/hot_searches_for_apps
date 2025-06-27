@@ -175,3 +175,9 @@
 
 + [小模型当老师效果更好：借助RLTs方法7B参数击败671B，训练成本暴降99%](https://blog.csdn.net/m0_46510245/article/details/148947963)
 
++ [计算机网络-----详解HTTPS协议](https://blog.csdn.net/2401_82690001/article/details/148830404)
+
++ [Springboot的自动配置原理？](https://blog.csdn.net/caoli201314/article/details/148932644)
+
++ [Nginx服务部署与配置](https://blog.csdn.net/Tianzs_/article/details/148852813)
+
