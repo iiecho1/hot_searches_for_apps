@@ -49,3 +49,9 @@
 
 + [《原神》鸿蒙版启动测试服玩家招募](https://m.ithome.com/html/864109.htm)
 
++ [雷军：个别同行把小米的成功包装成“靠营销赢”，其实绝大部分领域小米都领先](https://m.ithome.com/html/863986.htm)
+
++ [雷军：小米 YU7 的销量肯定比 SU7 高，但是 SU7 也不会低](https://m.ithome.com/html/864006.htm)
+
++ [小米王化辟谣 YU7 汽车“5 分钟大定 35 万台”：这个海报的数字也太开玩笑了，请不要捧杀](https://m.ithome.com/html/863988.htm)
+
