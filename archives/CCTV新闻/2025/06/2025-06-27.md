@@ -183,3 +183,5 @@
 
 + [到素有“欧亚之窗”美誉的满洲里感受三国青少年交流——“遛洋娃”与“玩套娃”](https://news.cctv.com/2025/06/27/ARTIiT4KMnDT9UcGA0HQXuQC250627.shtml)
 
++ [4只旅日大熊猫明日启程回国 日本民众依依惜别](https://news.cctv.com/2025/06/27/ARTIOWv0wSrdcUHrOkeacrbU250627.shtml)
+

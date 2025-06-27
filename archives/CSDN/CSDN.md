@@ -151,3 +151,9 @@
 
 + [【网络安全】网络协议分析利器：tcpdump 使用指南](https://blog.csdn.net/qq_41608408/article/details/148882608)
 
++ [农业4.0：无人机与视觉技术助力作物监测](https://blog.csdn.net/weixin_43151418/article/details/148045268)
+
++ [鸿蒙系统（HarmonyOS）经典红色风格登录页布局](https://blog.csdn.net/TWW844475003/article/details/148907235)
+
++ [银河麒麟高级服务器操作系统（全架构）OpenGauss 数据库部署手册](https://blog.csdn.net/qq_40797754/article/details/148900348)
+
