@@ -157,3 +157,17 @@
 
 + [银河麒麟高级服务器操作系统（全架构）OpenGauss 数据库部署手册](https://blog.csdn.net/qq_40797754/article/details/148900348)
 
++ [智慧城市中的CV：交通流量监控与行人检测](https://blog.csdn.net/weixin_43151418/article/details/148045577)
+
++ [【话题讨论】AI与XR融合的未来：大模型如何重塑AR/VR/MR产业应用与开发模式](https://blog.csdn.net/qq_41140324/article/details/148916987)
+
++ [【 MyBatis-Plus | 精讲 】](https://blog.csdn.net/2402_88700528/article/details/148900350)
+
++ [C语言再出发：2025年AI时代的关键语言](https://blog.csdn.net/2302_79751907/article/details/148850834)
+
++ [Serverless DevOps工具实战指南：FaaS自动化、成本监控与启动优化深度解析（万字干货）](https://blog.csdn.net/Dreamy_zsy/article/details/148901535)
+
++ [高中成绩可视化平台开发笔记](https://blog.csdn.net/qq_58801558/article/details/148935906)
+
++ [【树的概念及其堆的实现】](https://blog.csdn.net/2301_76821799/article/details/148881288)
+
