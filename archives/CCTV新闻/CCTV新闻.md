@@ -189,3 +189,15 @@
 
 + [“研究资金成博弈棋子” 多所英国大学收到美政府撤资通知](https://news.cctv.com/2025/06/27/ARTI9JgzkXlcC5EPGQQlxsoy250627.shtml)
 
++ [美国一季度经济出现萎缩 部分投资者减少对美国股票的持仓](https://news.cctv.com/2025/06/27/ARTIWxwKbzXBWsVv6UXTcUt9250627.shtml)
+
++ [欧洲航天局：月球或在2032年遭一小行星撞击](https://news.cctv.com/2025/06/27/ARTIZDWhLmKVHmvPNH7ApHdx250627.shtml)
+
++ [回顾珍贵回忆 超三千人齐聚日本和歌山县欢送旅日大熊猫](https://news.cctv.com/2025/06/27/ARTITPydVrp59iuZnsMgEKJb250627.shtml)
+
++ [哥伦比亚西北部山体滑坡遇难人数升至16人](https://news.cctv.com/2025/06/27/ARTIOYMdGORNdGy1sYJmvVST250627.shtml)
+
++ [印度新德里机场收到虚假炸弹威胁](https://news.cctv.com/2025/06/27/ARTIM3bge5iu7JFmT5IXYI08250627.shtml)
+
++ [与世界经济深度联动中创造共赢故事](https://news.cctv.com/2025/06/27/ARTIAt4DCuYBjxghr5NkmDq4250627.shtml)
+
