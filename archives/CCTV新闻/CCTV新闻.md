@@ -213,3 +213,9 @@
 
 + [苏丹主权委员会同意在法希尔市实施一周人道主义停火](https://news.cctv.com/2025/06/27/ARTIwkagNvldXsSYfH3LZ0pT250627.shtml)
 
++ [以军称对伊军事行动已全面达成目标甚至超额完成](https://news.cctv.com/2025/06/27/ARTITFUC8O1iojAf6BWBmo4s250627.shtml)
+
++ [乌克兰总统签署命令 将同步实施欧盟及七国集团对俄制裁](https://news.cctv.com/2025/06/27/ARTIVlEaJiLTQ7LxqRLb332d250627.shtml)
+
++ [哈佛大学公布针对政府限制国际学生应急预案](https://news.cctv.com/2025/06/27/ARTIp3KbpdoCusXA55aMwbEd250627.shtml)
+
