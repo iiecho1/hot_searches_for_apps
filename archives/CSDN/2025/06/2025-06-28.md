@@ -101,3 +101,27 @@
 
 + [【智能记录系统Blinko】从0到1搭建个人云端笔记本：Blinko+Docker环境配置](https://blog.csdn.net/qq_44033208/article/details/148924723)
 
++ [（三十七）深度解析领域特定语言（DSL）第七章——语法制导翻译——案例文法说明](https://blog.csdn.net/weixin_46217641/article/details/148895837)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在智慧城市能源消耗动态监测与优化决策中的应用（324）](https://blog.csdn.net/atgfg/article/details/148936139)
+
++ [华为云Flexus+DeepSeek征文｜基于华为云Flexus+Dify构建【宠物语言翻译器】AI Agent智能体](https://blog.csdn.net/weixin_52908342/article/details/148935107)
+
++ [利用Python驾驭Stable Diffusion：原理解析、扩展开发与高级应用](https://blog.csdn.net/qq_44273429/article/details/148920063)
+
++ [打造属于你的AI智能体，从数据开始 —— 使用 Bright Data MCP+Trae快速构建垂直智能体](https://blog.csdn.net/weixin_51390582/article/details/148904190)
+
++ [什么是物联网 (IoT)？](https://blog.csdn.net/u014674420/article/details/148891510)
+
++ [LLM复杂记忆存储-多会话隔离案例实战](https://blog.csdn.net/qq_30294911/article/details/148934648)
+
++ [《高等数学》（同济大学·第7版）第七章 微分方程 第四节一阶线性微分方程](https://blog.csdn.net/weixin_41380194/article/details/148904758)
+
++ [HarmonyOS NEXT仓颉开发语言实战案例：银行App](https://blog.csdn.net/youlanjihua/article/details/148912222)
+
++ [Azure 托管 Redis 已正式发布](https://blog.csdn.net/Leinwin/article/details/148895669)
+
++ [开源代码修复新标杆——月之暗面最新开源编程模型Kimi-Dev-72B本地部署教程，自博弈修复 Bug](https://blog.csdn.net/SJJS_1/article/details/148905577)
+
++ [RPC（Remote Procedure Call）技术解析](https://blog.csdn.net/renchao7060/article/details/148904746)
+
