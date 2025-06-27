@@ -199,3 +199,7 @@
 
 + [使用 ReAct 框架在 Ollama 中实现本地代理（Agent）](https://blog.csdn.net/m0_69704099/article/details/148929562)
 
++ [python中学物理实验模拟：斜面受力分析](https://blog.csdn.net/cnds123/article/details/148830083)
+
++ [【Linux指南】压缩、网络传输与系统工具](https://blog.csdn.net/2302_78391795/article/details/148311922)
+

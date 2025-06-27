@@ -211,3 +211,5 @@
 
 + [美国白宫称不急于提名下届美联储主席](https://news.cctv.com/2025/06/27/ARTIaSyyfgh25KJUH89PMW5s250627.shtml)
 
++ [苏丹主权委员会同意在法希尔市实施一周人道主义停火](https://news.cctv.com/2025/06/27/ARTIwkagNvldXsSYfH3LZ0pT250627.shtml)
+
