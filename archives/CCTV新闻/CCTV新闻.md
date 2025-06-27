@@ -201,3 +201,7 @@
 
 + [与世界经济深度联动中创造共赢故事](https://news.cctv.com/2025/06/27/ARTIAt4DCuYBjxghr5NkmDq4250627.shtml)
 
++ [夏季达沃斯论坛丨专访：“我们需要与中国加强合作”——访南非独立传媒集团副董事长莱汉·瑟维](https://news.cctv.com/2025/06/27/ARTIIQoY65eorOg72bQIoOBD250627.shtml)
+
++ [视频丨伊朗核设施受损情况各执一词 美方公布钻地弹试爆画面](https://news.cctv.com/2025/06/27/ARTIv2rjHALmkP5uo14c3E6z250627.shtml)
+

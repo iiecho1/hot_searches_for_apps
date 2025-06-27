@@ -189,3 +189,9 @@
 
 + [服务器性能优化通用方案](https://blog.csdn.net/qq_35861227/article/details/148896479)
 
++ [华为云 Flexus+DeepSeek 征文｜华为云 Dify 平台 CCE 高可用集群实战部署：Trea × 即梦 AI × 硅基流动文生图大模型融合搭建指南](https://blog.csdn.net/weixin_62765017/article/details/148905030)
+
++ [（三十八）深度解析领域特定语言（DSL）第七章——语法制导翻译——语法制导定义](https://blog.csdn.net/weixin_46217641/article/details/148912133)
+
++ [桌面小屏幕实战课程：DesktopScreen 11 SPI 水墨屏](https://blog.csdn.net/u014615943/article/details/148935696)
+

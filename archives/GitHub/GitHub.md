@@ -33,3 +33,17 @@
 
 + [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
++ [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents)
+
++ [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
++ [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
+
++ [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm)
+
++ [rxi/microui](https://github.com/rxi/microui)
+
++ [automatisch/automatisch](https://github.com/automatisch/automatisch)
+
++ [cline/cline](https://github.com/cline/cline)
+
