@@ -205,3 +205,9 @@
 
 + [视频丨伊朗核设施受损情况各执一词 美方公布钻地弹试爆画面](https://news.cctv.com/2025/06/27/ARTIv2rjHALmkP5uo14c3E6z250627.shtml)
 
++ [越南河内两架客机地面滑行时发生碰撞 机身受损](https://news.cctv.com/2025/06/27/ARTIKno2vDQ28okjwlaKWuWZ250627.shtml)
+
++ [哈梅内伊指责特朗普“夸大”“战果”](https://news.cctv.com/2025/06/27/ARTIuEKoR4z6LB2TWexnGIY5250627.shtml)
+
++ [美国白宫称不急于提名下届美联储主席](https://news.cctv.com/2025/06/27/ARTIaSyyfgh25KJUH89PMW5s250627.shtml)
+

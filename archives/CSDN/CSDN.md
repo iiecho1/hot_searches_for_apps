@@ -195,3 +195,7 @@
 
 + [桌面小屏幕实战课程：DesktopScreen 11 SPI 水墨屏](https://blog.csdn.net/u014615943/article/details/148935696)
 
++ [从输入到路径：AI赋能的地图语义解析与可视化探索之旅](https://blog.csdn.net/2401_82648291/article/details/148893795)
+
++ [使用 ReAct 框架在 Ollama 中实现本地代理（Agent）](https://blog.csdn.net/m0_69704099/article/details/148929562)
+
