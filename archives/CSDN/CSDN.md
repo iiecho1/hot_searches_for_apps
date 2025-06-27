@@ -135,3 +135,19 @@
 
 + [【unity游戏开发——网络】网络通信寻址三要素：IP、端口、MAC](https://blog.csdn.net/qq_36303853/article/details/148845705)
 
++ [MySQL 替代 Redis 的认证系统优化方案](https://blog.csdn.net/x15514104477/article/details/148869352)
+
++ [【机器学习与数据挖掘实战 | 医疗】案例18：基于Apriori算法的中医证型关联规则分析](https://blog.csdn.net/Morse_Chen/article/details/148901531)
+
++ [生成式人工智能实战 | WGAN（Wasserstein Generative Adversarial Network, GAN）](https://blog.csdn.net/LOVEmy134611/article/details/148878442)
+
++ [照着这个指南搭建框架，我的前端项目性能提升了 3 倍](https://blog.csdn.net/m0_67187271/article/details/148912576)
+
++ [Spring Boot 整合华为 GaussDB 企业版](https://blog.csdn.net/qq_40198004/article/details/148883915)
+
++ [网络 : HTTPS](https://blog.csdn.net/2301_82256131/article/details/148879729)
+
++ [Qt+OPC开发笔记（三）：OPC客户端订阅特点消息的Demo](https://blog.csdn.net/qq21497936/article/details/148868209)
+
++ [【网络安全】网络协议分析利器：tcpdump 使用指南](https://blog.csdn.net/qq_41608408/article/details/148882608)
+

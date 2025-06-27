@@ -71,3 +71,5 @@
 
 + [库克连夜偷图纸？vivo X Fold5留给苹果折叠屏的时间不多了](https://m.acfun.cn/v/?ac=47436131)
 
++ [探访西日本最大的家居装饰中心HANDSMAN](https://m.acfun.cn/v/?ac=47433768)
+

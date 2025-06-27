@@ -27,3 +27,9 @@
 
 + [如果你的组员，用 controller 直接调用 mapper，是不是可以直接 fire 了](https://www.v2ex.com/t/1141353)
 
++ [安空调的师傅掉下去了，当场身亡](https://www.v2ex.com/t/1141404)
+
++ [2025 年了,组装电脑你选 Intel 还是 AMD?](https://www.v2ex.com/t/1141214)
+
++ [分析一下:十多年不联系的同学突然加微信是有什么事情吗](https://www.v2ex.com/t/1141231)
+
