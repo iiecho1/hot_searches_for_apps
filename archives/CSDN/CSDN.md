@@ -171,3 +171,7 @@
 
 + [【树的概念及其堆的实现】](https://blog.csdn.net/2301_76821799/article/details/148881288)
 
++ [《DeepSeek原生应用与智能体开发实践》——DeepSeek驱动的即时金融信息采集与分析平台](https://blog.csdn.net/qq_41840843/article/details/148908656)
+
++ [小模型当老师效果更好：借助RLTs方法7B参数击败671B，训练成本暴降99%](https://blog.csdn.net/m0_46510245/article/details/148947963)
+

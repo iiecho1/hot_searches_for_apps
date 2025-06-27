@@ -187,3 +187,5 @@
 
 + [热点问答｜12天冲突 以伊美究竟谁是赢家](https://news.cctv.com/2025/06/27/ARTIDkE4bwKlGWPRsKbrZF83250627.shtml)
 
++ [“研究资金成博弈棋子” 多所英国大学收到美政府撤资通知](https://news.cctv.com/2025/06/27/ARTI9JgzkXlcC5EPGQQlxsoy250627.shtml)
+
