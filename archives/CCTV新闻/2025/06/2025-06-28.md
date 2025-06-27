@@ -163,3 +163,5 @@
 
 + [一场冲突三个“赢家”？以伊美实际得失几何](https://news.cctv.com/2025/06/28/ARTIUqSHkKKzfKK4WTjPxtS2250627.shtml)
 
++ [特朗普：美国将立即终止与加拿大的所有贸易谈判](https://news.cctv.com/2025/06/28/ARTI8jxN4rZJIkIWrRoSol6g250628.shtml)
+
