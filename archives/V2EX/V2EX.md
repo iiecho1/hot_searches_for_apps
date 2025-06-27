@@ -19,3 +19,11 @@
 
 + [旅居的第 48 天，讲讲我为什么逃离西安](https://www.v2ex.com/t/1141101)
 
++ [小米 yu7， 3 分钟 20w 辆，有 v 友购入了吗](https://www.v2ex.com/t/1141347)
+
++ [如何理解 996，如果不 996，自己在家待着和在公司上班有什么不同](https://www.v2ex.com/t/1141223)
+
++ [钱多、事少、离家近，你占几条？](https://www.v2ex.com/t/1141248)
+
++ [如果你的组员，用 controller 直接调用 mapper，是不是可以直接 fire 了](https://www.v2ex.com/t/1141353)
+

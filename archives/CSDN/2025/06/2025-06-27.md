@@ -129,3 +129,9 @@
 
 + [华为云Flexus+DeepSeek征文｜基于华为云MaaS平台DeepSeek大模型推理服务构建AI Agent—古诗接龙陪练智能体助手](https://blog.csdn.net/weixin_52908342/article/details/148907353)
 
++ [基于SpringBoot和Leaflet的区域冲突可视化-以伊以冲突为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/148935206)
+
++ [【Linux】软硬链接，动静态库](https://blog.csdn.net/hffh123/article/details/148839879)
+
++ [【unity游戏开发——网络】网络通信寻址三要素：IP、端口、MAC](https://blog.csdn.net/qq_36303853/article/details/148845705)
+

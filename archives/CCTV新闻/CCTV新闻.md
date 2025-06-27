@@ -167,3 +167,19 @@
 
 + [总台记者观察丨停火协议生效后 伊朗经济活动陆续恢复](https://news.cctv.com/2025/06/27/ARTIGqkdQNfX58l9Mi8Ujh6d250627.shtml)
 
++ [南非西开普省多地强降雨 气象局发布灾害警报](https://news.cctv.com/2025/06/27/ARTI9oRRJLA5PLUJTdFMmCL8250627.shtml)
+
++ [迎合美国的盛宴，欧洲何以下咽？](https://news.cctv.com/2025/06/27/ARTI2VfqFgVKVTlR60l81Q0k250627.shtml)
+
++ [建交五十年，中莫务实合作硕果累累](https://news.cctv.com/2025/06/27/ARTIsztZK1cCFfBVUswvZ9Iq250627.shtml)
+
++ [外籍员工，在共建“一带一路”中成长](https://news.cctv.com/2025/06/27/ARTIiy1JwaOtaJeQEj8lxw2e250627.shtml)
+
++ [文明对话，互鉴共生——中欧人权研讨会十年之路的深刻启示](https://news.cctv.com/2025/06/27/ARTIz7gbWsqGw8dtxzDouTHG250627.shtml)
+
++ [跨国公司看中国经济：“磁力”持续释放](https://news.cctv.com/2025/06/27/ARTIu13IvCSqYaeV8Us7CLJo250627.shtml)
+
++ [“开放合作的中国是推动世界经济发展的重要力量”——第十六届夏季达沃斯论坛与会外方嘉宾热议中国经济前景和国际贡献](https://news.cctv.com/2025/06/27/ARTIOg1N8TSnRZJsTeDLLigz250627.shtml)
+
++ [到素有“欧亚之窗”美誉的满洲里感受三国青少年交流——“遛洋娃”与“玩套娃”](https://news.cctv.com/2025/06/27/ARTIiT4KMnDT9UcGA0HQXuQC250627.shtml)
+
