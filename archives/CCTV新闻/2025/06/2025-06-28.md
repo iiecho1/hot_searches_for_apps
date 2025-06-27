@@ -165,3 +165,7 @@
 
 + [特朗普：美国将立即终止与加拿大的所有贸易谈判](https://news.cctv.com/2025/06/28/ARTI8jxN4rZJIkIWrRoSol6g250628.shtml)
 
++ [“出生公民权”之争：美高院裁决地区法官无权发布全国禁令阻止特朗普政府](https://news.cctv.com/2025/06/28/ARTIEMIhnA1gMvJzTj658txK250628.shtml)
+
++ [总台记者观察丨以色列全面恢复需时间 以伊停火后双方仍充满敌意](https://news.cctv.com/2025/06/28/ARTIPGT1AxvDhAKtLbYwjM5q250628.shtml)
+
