@@ -127,3 +127,5 @@
 
 + [Jenkins 全面解析：作用、功能、优势与对比](https://blog.csdn.net/Interview_TC/article/details/148868144)
 
++ [华为云Flexus+DeepSeek征文｜基于华为云MaaS平台DeepSeek大模型推理服务构建AI Agent—古诗接龙陪练智能体助手](https://blog.csdn.net/weixin_52908342/article/details/148907353)
+
