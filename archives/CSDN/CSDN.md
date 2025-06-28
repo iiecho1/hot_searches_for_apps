@@ -173,3 +173,7 @@
 
 + [TCP四层模型：网络协议核心解密](https://blog.csdn.net/YZJincsdn/article/details/148963188)
 
++ [[论文阅读] 人工智能 | 真实场景下 RAG 系统的工程实践指南](https://blog.csdn.net/zhangjiaoshou_/article/details/148962783)
+
++ [华为云Flexus+DeepSeek征文｜华为云数字人 + DeepSeek：智能交互的革命性突破](https://blog.csdn.net/CC1991_/article/details/148946583)
+
