@@ -183,3 +183,5 @@
 
 + [Jetson nano yolov8+ros 部署尝试](https://blog.csdn.net/qq_29997077/article/details/148954292)
 
++ [Go语言与云原生：Kubernetes Operator开发全流程](https://blog.csdn.net/2501_92505055/article/details/148932813)
+

@@ -185,3 +185,9 @@
 
 + [特朗普称加沙停火“接近”达成 多方加紧斡旋](https://news.cctv.com/2025/06/28/ARTIwVIXioS0W6FXdiRzJuTB250628.shtml)
 
++ [树立国际多边合作新典范（和音）](https://news.cctv.com/2025/06/28/ARTIjE7c5fYzbbTUbHx0K9OR250628.shtml)
+
++ [“中国经济韧性不断增强”——访世界经济论坛国际贸易和投资部负责人肖恩·多尔蒂](https://news.cctv.com/2025/06/28/ARTIXM1qfffNG0jTAV1N9SCD250628.shtml)
+
++ [“中国持续成为促进全球发展的引擎”](https://news.cctv.com/2025/06/28/ARTIHtiNHMgX1CL95R513WlW250628.shtml)
+
