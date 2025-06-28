@@ -131,3 +131,13 @@
 
 + [TCP/UDP协议深度解析（二）：TCP连接管理全解，三次握手四次挥手的完整流程](https://blog.csdn.net/to_mountain/article/details/148900928)
 
++ [AIOps与人工智能的融合：从智能运维到自适应IT生态的革命](https://blog.csdn.net/SDFsoul/article/details/148960064)
+
++ [AI+时代已至｜AI人才到底该如何培育？](https://blog.csdn.net/CIPSDN/article/details/148934521)
+
++ [远程玩3A大作要多少帧？ToDesk、向日葵、UU远程性能对决](https://blog.csdn.net/weixin_51390582/article/details/148908828)
+
++ [html 照片环 - 图片的动态3D环绕](https://blog.csdn.net/qq_38204686/article/details/148777958)
+
++ [基于开源AI大模型、AI智能名片与S2B2C商城小程序的美食菜单社交化营销创新研究](https://blog.csdn.net/weixin_70596807/article/details/148892768)
+
