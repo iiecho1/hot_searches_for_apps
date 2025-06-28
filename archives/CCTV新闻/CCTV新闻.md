@@ -177,3 +177,9 @@
 
 + [48小时“鲜”达 岭南荔枝香飘迪拜](https://photo.cctv.com/2025/06/28/PHOALJcz26SzbwByYdlcavyT250628.shtml)
 
++ [特朗普威胁“可能再炸” 伊朗警告“不要对伊朗力量有错觉”](https://news.cctv.com/2025/06/28/ARTIVQJHAKZVcGWkdZfPLMwt250628.shtml)
+
++ [以伊冲突中 9名伊朗媒体工作者因以军袭击丧生](https://news.cctv.com/2025/06/28/ARTINyTCQMnj7aWqwDHK9ijy250628.shtml)
+
++ [5名希腊政府高官因欧盟资金管理丑闻辞职](https://news.cctv.com/2025/06/28/ARTIOj1DMWx6XXaO7BNUu4oz250628.shtml)
+

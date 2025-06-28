@@ -167,3 +167,9 @@
 
 + [【unity游戏开发——网络】计算机网络中的三种数据管理模型（分散式、集中式、分布式）和三大通信模型（C/S、B/S、P2P）](https://blog.csdn.net/qq_36303853/article/details/148847212)
 
++ [Java 大视界 -- Java 大数据在智能零售全渠道用户画像融合与精准营销中的应用突破（322）](https://blog.csdn.net/atgfg/article/details/148908326)
+
++ [【Linux手册】进程终止：进程退出和信号的响应机制](https://blog.csdn.net/2401_87944878/article/details/148747370)
+
++ [TCP四层模型：网络协议核心解密](https://blog.csdn.net/YZJincsdn/article/details/148963188)
+
