@@ -101,3 +101,15 @@
 
 + [【unity游戏开发——网络】计算机网络中的三种数据管理模型（分散式、集中式、分布式）和三大通信模型（C/S、B/S、P2P）](https://blog.csdn.net/qq_36303853/article/details/148847212)
 
++ [Java 大视界 -- Java 大数据机器学习模型在卫星通信信号干扰检测与智能抗干扰中的应用（323）](https://blog.csdn.net/atgfg/article/details/148935571)
+
++ [DM8数据库用户管理：ALTER USER命令](https://blog.csdn.net/qq_41840843/article/details/148406837)
+
++ [【C/C++】C++26新特性前瞻：全面解析未来编程](https://blog.csdn.net/YZJincsdn/article/details/148963018)
+
++ [【开源项目】「安卓原生3D开源渲染引擎」：Sceneform‑EQR](https://blog.csdn.net/qq_41140324/article/details/148944195)
+
++ [新能源汽车能耗破局之道：主成分与聚类算法的技术实践（K-means算法，附完整代码）](https://blog.csdn.net/weixin_62244995/article/details/148904773)
+
++ [Maven生命周期与阶段扩展深度解析](https://blog.csdn.net/lilinhai548/article/details/148956920)
+

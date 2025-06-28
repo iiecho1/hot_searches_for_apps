@@ -25,3 +25,7 @@
 
 + [TCL 华星宣布独供小米 YU7 汽车天际屏 / 中控屏及 MIX Flip 2 折叠屏手机内外屏](https://m.ithome.com/html/864036.htm)
 
++ [苹果最薄 iPhone 17 Air 设计揭秘，前摄将左移](https://m.ithome.com/html/864016.htm)
+
++ [消息称 DeepSeek-R2 AI 模型开发进程因美国当局英伟达 H20 芯片出口限制而延迟](https://m.ithome.com/html/864025.htm)
+
