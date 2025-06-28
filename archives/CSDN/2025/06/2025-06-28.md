@@ -161,3 +161,9 @@
 
 + [Maven生命周期与阶段扩展深度解析](https://blog.csdn.net/lilinhai548/article/details/148956920)
 
++ [ChatboxAI 搭载 GPT 与 DeepSeek，引领科研与知识库管理变革](https://blog.csdn.net/beautifulmemory/article/details/148777414)
+
++ [掌握 MySQL 的基石：全面解读数据类型及其影响](https://blog.csdn.net/effort123_/article/details/148963473)
+
++ [【unity游戏开发——网络】计算机网络中的三种数据管理模型（分散式、集中式、分布式）和三大通信模型（C/S、B/S、P2P）](https://blog.csdn.net/qq_36303853/article/details/148847212)
+
