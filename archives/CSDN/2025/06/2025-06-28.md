@@ -151,3 +151,13 @@
 
 + [Html5播放器禁止拖动播放器进度条（教学场景）](https://blog.csdn.net/suny2020/article/details/148948782)
 
++ [融合聚类与分类的退役锂电智能分选技术：助力新能源汽车产业可持续发展](https://blog.csdn.net/weixin_62244995/article/details/148905020)
+
++ [Java 大视界 -- 基于 Java 的大数据分布式计算在药物临床试验数据分析与质量控制中的创新实践（321）](https://blog.csdn.net/atgfg/article/details/148906639)
+
++ [【机器学习&深度学习】线性代数](https://blog.csdn.net/qq_62223405/article/details/148922378)
+
++ [【计算机网络】第二章：物理层](https://blog.csdn.net/realoser/article/details/148827869)
+
++ [Maven生命周期与阶段扩展深度解析](https://blog.csdn.net/lilinhai548/article/details/148956920)
+
