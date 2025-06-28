@@ -205,3 +205,9 @@
 
 + [《高等数学》（同济大学·第7版）第九章 多元函数微分法及其应用第五节多元函数微分学的几何应用](https://blog.csdn.net/weixin_41380194/article/details/148962245)
 
++ [DM8数据库用户管理：ALTER USER命令](https://blog.csdn.net/qq_41840843/article/details/148406837)
+
++ [华为云 Flexus+DeepSeek 征文｜华为云 CCE 集群 Dify 平台赋能飞书，AI 工作流落地指南：飞书表格 + LLM 竞品分析](https://blog.csdn.net/weixin_62765017/article/details/148960260)
+
++ [Qt 与 Halcon 联合开发六：基于海康SDK设计完整的相机类【附源码】](https://blog.csdn.net/chenai886/article/details/148951123)
+
