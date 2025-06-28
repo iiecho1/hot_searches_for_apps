@@ -113,3 +113,33 @@
 
 + [Maven生命周期与阶段扩展深度解析](https://blog.csdn.net/lilinhai548/article/details/148956920)
 
++ [人机融合智能 | 以人为中心的人工智能伦理体系](https://blog.csdn.net/qq_41640218/article/details/148912839)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在智慧城市能源消耗动态监测与优化决策中的应用（324）](https://blog.csdn.net/atgfg/article/details/148936139)
+
++ [AIOps与人工智能的融合：从智能运维到自适应IT生态的革命](https://blog.csdn.net/SDFsoul/article/details/148960064)
+
++ [Kafka](https://blog.csdn.net/xujinwei_gingko/article/details/148901768)
+
++ [七天学会SpringCloud分布式微服务——02——第一个微服务项目](https://blog.csdn.net/csdn_l_z/article/details/148923765)
+
++ [【 MyBatis-Plus | 精讲 】](https://blog.csdn.net/2402_88700528/article/details/148900350)
+
++ [深入解析 Qt closeEvent 中的事件处理与内存管理](https://blog.csdn.net/qq_43689451/article/details/148961108)
+
++ [河北对口计算机高考C#笔记(2026高考适用)---完结版~~~~](https://blog.csdn.net/weixin_43166638/article/details/148955351)
+
++ [Arctic长序列训练技术：百万级Token序列的可扩展高效训练方法](https://blog.csdn.net/m0_46510245/article/details/148973285)
+
++ [基于SpringBoot+大数据Hadoop的互联网网络舆情管理与可视化平台设计与实现(精品源码+论文+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/148922043)
+
++ [LabVIEW 蓝牙通讯](https://blog.csdn.net/bjcyck/article/details/148939706)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(三十八) -＞ 构建HAR](https://blog.csdn.net/weixin_74809706/article/details/148983378)
+
++ [《聚类算法》--进阶版--详解：K-Means、DBSCAN与层次聚类的实现流程与伪代码解析](https://blog.csdn.net/qq_57755091/article/details/148956393)
+
++ [Conformal LEC：官方学习教程](https://blog.csdn.net/weixin_45791458/article/details/148959074)
+
++ [【微服务】微服务技术开发的开发与设计规范（​​基于 Spring Cloud Alibaba）](https://blog.csdn.net/binqian/article/details/148956127)
+
