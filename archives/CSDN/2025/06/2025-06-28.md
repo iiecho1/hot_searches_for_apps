@@ -211,3 +211,13 @@
 
 + [Qt 与 Halcon 联合开发六：基于海康SDK设计完整的相机类【附源码】](https://blog.csdn.net/chenai886/article/details/148951123)
 
++ [基于deepseek大模型的智能体开发实战：MCP协议替代方案](https://blog.csdn.net/2501_92112667/article/details/148978043)
+
++ [【Linux 设备模型框架 kobject 和 kset】](https://blog.csdn.net/chen1103978255/article/details/148960033)
+
++ [＜script setup＞ 语法糖](https://blog.csdn.net/weixin_46247794/article/details/148946798)
+
++ [智能助手（利用GPT搭建智能系统）](https://blog.csdn.net/bingbingyihao/article/details/148961641)
+
++ [2025 Java开发生态全景图：云原生、AI与性能优化的技术融合](https://blog.csdn.net/yiridancan/article/details/148930166)
+

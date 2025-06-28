@@ -199,3 +199,7 @@
 
 + [巴基斯坦安全部队遭恐袭致13死29伤](https://news.cctv.com/2025/06/28/ARTItRqLczhBgnn2NeNZMrFz250628.shtml)
 
++ [波罗的海三国将退出《渥太华禁雷公约》](https://news.cctv.com/2025/06/28/ARTI0EVjRjFAOZdur8d40Nve250628.shtml)
+
++ [伊朗重新开放中部和西部领空 仅供国际航班过境](https://news.cctv.com/2025/06/28/ARTIkGQaLYYN4EZsPrjSO3WR250628.shtml)
+
