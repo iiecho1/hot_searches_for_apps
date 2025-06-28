@@ -29,3 +29,27 @@
 
 + [消息称 DeepSeek-R2 AI 模型开发进程因美国当局英伟达 H20 芯片出口限制而延迟](https://m.ithome.com/html/864025.htm)
 
++ [小米更新 YU7 车型锁单交付时间：标准版最快 53 周、Max 版最快 33 周](https://m.ithome.com/html/864329.htm)
+
++ [国内最大规模缺陷充电宝召回事件：消息称罗马仕充电宝业务已暂停，每月营收损失高达 1-2 亿元](https://m.ithome.com/html/864402.htm)
+
++ [“苏超”赛事苏州对决扬州，场内移动用户手机均将显示“中国移动 苏州定胜”个性化网络显标](https://m.ithome.com/html/864394.htm)
+
++ [消息称苹果 M5 芯片将采用齐发战略，今年秋季 MacBook Pro / iPad Pro 同步升级](https://m.ithome.com/html/864349.htm)
+
++ [今起民航局航班禁带“无 3C 标识充电宝”，电商平台屏蔽相应贴纸关键词](https://m.ithome.com/html/864363.htm)
+
++ [小米 YU7 全国 97 城 355 店现已开启试驾，售价 25.35 万元起](https://m.ithome.com/html/864392.htm)
+
++ [消息称苹果 A19 Pro 处理器 9 月登场、高通 SM8850 紧随其后](https://m.ithome.com/html/864374.htm)
+
++ [格力“董明珠健康家”已超 600 家门店，今年要开 3000 家](https://m.ithome.com/html/864405.htm)
+
++ [因存在火灾隐患，安克宣布全球召回 5 款移动电源产品](https://m.ithome.com/html/864332.htm)
+
++ [小米在日本连发 8 款新品：鼻毛修剪器、理发器、电动牙刷等](https://m.ithome.com/html/864347.htm)
+
++ [2025 款东风标致 408 车型上市：搭 1.5T 发动机，10.97 万元起](https://m.ithome.com/html/864324.htm)
+
++ [消息人士回应比亚迪对印度大巴订单设严苛付款条件：不实](https://m.ithome.com/html/864427.htm)
+
