@@ -203,3 +203,5 @@
 
 + [桌面小屏幕实战课程：DesktopScreen 13 HTTP SERVER](https://blog.csdn.net/u014615943/article/details/148962991)
 
++ [《高等数学》（同济大学·第7版）第九章 多元函数微分法及其应用第五节多元函数微分学的几何应用](https://blog.csdn.net/weixin_41380194/article/details/148962245)
+

@@ -197,3 +197,5 @@
 
 + [“美国优先”带给世界更多不确定性](https://news.cctv.com/2025/06/28/ARTI4Jdx8ebvspzGFsfmcc7v250628.shtml)
 
++ [巴基斯坦安全部队遭恐袭致13死29伤](https://news.cctv.com/2025/06/28/ARTItRqLczhBgnn2NeNZMrFz250628.shtml)
+
