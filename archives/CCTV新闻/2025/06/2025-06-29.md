@@ -161,3 +161,5 @@
 
 + [美伊谈判将重启 伊朗证实核设施遭严重破坏](https://news.cctv.com/2025/06/26/ARTI6jxo6jra452TfflUpV8D250626.shtml)
 
++ [伊朗政府决定成立特别法律工作组 审查美以侵略行径](https://military.cctv.com/2025/06/29/ARTIxxfaiP1Md4j0kZjTrdC4250629.shtml)
+
