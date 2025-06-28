@@ -183,3 +183,5 @@
 
 + [5名希腊政府高官因欧盟资金管理丑闻辞职](https://news.cctv.com/2025/06/28/ARTIOj1DMWx6XXaO7BNUu4oz250628.shtml)
 
++ [特朗普称加沙停火“接近”达成 多方加紧斡旋](https://news.cctv.com/2025/06/28/ARTIwVIXioS0W6FXdiRzJuTB250628.shtml)
+
