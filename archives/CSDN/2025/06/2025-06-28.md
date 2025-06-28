@@ -141,3 +141,7 @@
 
 + [基于开源AI大模型、AI智能名片与S2B2C商城小程序的美食菜单社交化营销创新研究](https://blog.csdn.net/weixin_70596807/article/details/148892768)
 
++ [[深度学习][python]yolov13+bytetrack+pyqt5实现目标追踪](https://blog.csdn.net/FL1623863129/article/details/148930146)
+
++ [基于FPGA的UART回环设计](https://blog.csdn.net/m0_72364598/article/details/148901064)
+

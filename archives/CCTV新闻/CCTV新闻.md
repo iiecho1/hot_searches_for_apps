@@ -169,3 +169,11 @@
 
 + [总台记者观察丨以色列全面恢复需时间 以伊停火后双方仍充满敌意](https://news.cctv.com/2025/06/28/ARTIPGT1AxvDhAKtLbYwjM5q250628.shtml)
 
++ [日本吐噶喇列岛一周地震逾490次 气象部门提醒民众防灾](https://news.cctv.com/2025/06/28/ARTIdPqDUpMkD52ACerOBqpc250628.shtml)
+
++ [日本和歌山县4只大熊猫踏上回国旅程](https://news.cctv.com/2025/06/28/ARTIUpjAYtTrRHjWOFSt0slT250628.shtml)
+
++ [加沙苦难不应被淡化！联合国秘书长再促立即停火](https://news.cctv.com/2025/06/28/ARTIdT4pqoQnwY2n20EjDAPV250628.shtml)
+
++ [48小时“鲜”达 岭南荔枝香飘迪拜](https://photo.cctv.com/2025/06/28/PHOALJcz26SzbwByYdlcavyT250628.shtml)
+
