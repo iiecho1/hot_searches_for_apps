@@ -185,3 +185,11 @@
 
 + [Go语言与云原生：Kubernetes Operator开发全流程](https://blog.csdn.net/2501_92505055/article/details/148932813)
 
++ [Spring Boot整合Redis指南](https://blog.csdn.net/weixin_44107140/article/details/148961959)
+
++ [悦己汉服体验馆小程序（协同过滤算法、WebSocket即时聊天）](https://blog.csdn.net/paopaokaka_luck/article/details/148961010)
+
++ [深度解析Lucene IndexWriter 性能优化](https://blog.csdn.net/qq_38411796/article/details/148903054)
+
++ [从 0 到 1：基于 Qwen3 Embedding 的 RAG 智能问答系统搭建指南](https://blog.csdn.net/XLionXxxx/article/details/148958974)
+

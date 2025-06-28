@@ -29,3 +29,25 @@
 
 + [cline/cline](https://github.com/cline/cline)
 
++ [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
+
++ [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore)
+
++ [rommapp/romm](https://github.com/rommapp/romm)
+
++ [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio)
+
++ [midday-ai/midday](https://github.com/midday-ai/midday)
+
++ [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
+
++ [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
++ [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
+
++ [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+
++ [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
+
++ [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop)
+
