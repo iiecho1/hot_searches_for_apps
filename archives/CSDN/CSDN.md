@@ -145,3 +145,9 @@
 
 + [基于FPGA的UART回环设计](https://blog.csdn.net/m0_72364598/article/details/148901064)
 
++ [中央空调控制系统深度解析：从原理到智能AIOT运维](https://blog.csdn.net/qq_41939260/article/details/148963303)
+
++ [嵌入式项目：基于QT与Hi3861的物联网智能大棚集成控制系统](https://blog.csdn.net/m0_75180351/article/details/148933986)
+
++ [Html5播放器禁止拖动播放器进度条（教学场景）](https://blog.csdn.net/suny2020/article/details/148948782)
+
