@@ -191,3 +191,9 @@
 
 + [“中国持续成为促进全球发展的引擎”](https://news.cctv.com/2025/06/28/ARTIHtiNHMgX1CL95R513WlW250628.shtml)
 
++ [通讯丨焊花里筑梦——在乌干达见证中国焊接专家播撒技术火种](https://news.cctv.com/2025/06/28/ARTI3eM5omTJ4JNC8dtDUGen250628.shtml)
+
++ [共话中国经济新机遇丨专访：中国经济转型升级为外国投资者提供新机遇——访英国四十八家集团主席杰克·佩里](https://news.cctv.com/2025/06/28/ARTI2bjkekBr8NyYcHoct4MG250628.shtml)
+
++ [“美国优先”带给世界更多不确定性](https://news.cctv.com/2025/06/28/ARTI4Jdx8ebvspzGFsfmcc7v250628.shtml)
+

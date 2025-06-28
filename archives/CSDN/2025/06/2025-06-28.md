@@ -193,3 +193,13 @@
 
 + [从 0 到 1：基于 Qwen3 Embedding 的 RAG 智能问答系统搭建指南](https://blog.csdn.net/XLionXxxx/article/details/148958974)
 
++ [【AI智能体】Dify 核心组件从使用到实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/148510216)
+
++ [uniapp - ITMS-90426: Invalid Swift Support - The SwiftSupport folder is missing. Rebuild your app us](https://blog.csdn.net/weixin_44198965/article/details/148976251)
+
++ [人工智能导论：自动学习与花卉识别](https://blog.csdn.net/2401_87615518/article/details/148959224)
+
++ [新能源汽车电子架构革命：深度解析AUTOSAR标准与实践](https://blog.csdn.net/2501_90583334/article/details/148960090)
+
++ [桌面小屏幕实战课程：DesktopScreen 13 HTTP SERVER](https://blog.csdn.net/u014615943/article/details/148962991)
+
