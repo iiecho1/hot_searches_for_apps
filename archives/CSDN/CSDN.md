@@ -187,3 +187,7 @@
 
 + [基于Spring Boot的网上购物平台设计与实现](https://blog.csdn.net/m0_62476845/article/details/148880816)
 
++ [【网络安全】密码学知识普及](https://blog.csdn.net/weixin_49199313/article/details/148952487)
+
++ [大数据集特征工程实践：将54万样本预测误差降低68%的技术路径与代码实现详解](https://blog.csdn.net/m0_46510245/article/details/148994744)
+

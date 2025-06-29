@@ -183,3 +183,5 @@
 
 + [特朗普“大而美”法案参议院通关只差一步 民主党“拖”字诀硬扛](https://news.cctv.com/2025/06/29/ARTI1CGsO3nDdojy3X5TRFYj250629.shtml)
 
++ [韩国总统李在明再提名多位部长人选 组阁工作接近尾声](https://news.cctv.com/2025/06/29/ARTI9y5B4EvBzNcmLwDY5qlv250629.shtml)
+
