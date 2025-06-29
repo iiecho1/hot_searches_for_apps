@@ -167,3 +167,5 @@
 
 + [韩国前总统尹锡悦离开特检组 将于30日再次接受调查](https://news.cctv.com/2025/06/29/ARTIAdxlPXRA4cwnpcqqwel4250629.shtml)
 
++ [巴基斯坦发生5.6级地震，震源深度10千米](https://news.cctv.com/2025/06/29/ARTIl81XxPcOACvCkbJ80mRy250629.shtml)
+
