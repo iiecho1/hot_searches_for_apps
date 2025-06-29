@@ -199,3 +199,5 @@
 
 + [乌克兰将退出《渥太华禁雷公约》](https://news.cctv.com/2025/06/29/ARTIAnORokDpo7vOFHvDyRTQ250629.shtml)
 
++ [韩国特检组要求尹锡悦7月1日上午继续接受调查](https://news.cctv.com/2025/06/29/ARTINEBGf94g1oVG6UaN6KB0250629.shtml)
+

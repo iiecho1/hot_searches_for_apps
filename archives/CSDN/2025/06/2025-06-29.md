@@ -215,3 +215,11 @@
 
 + [uniapp安卓苹果app端：解决APP出现报错TypeError: Cannot read property ‘createElement‘ of undefined，uniApp真机运行app报错](https://blog.csdn.net/weixin_50545213/article/details/149000186)
 
++ [Spring Boot集成MinIO文件上传实战](https://blog.csdn.net/u013509518/article/details/148954056)
+
++ [给自己网站增加一个免费的AI助手，纯HTML](https://blog.csdn.net/NAN0808/article/details/148978990)
+
++ [TCP/UDP协议深度解析（三）：TCP流量控制的魔法—滑动窗口、拥塞控制与ACK的智慧](https://blog.csdn.net/to_mountain/article/details/148956176)
+
++ [如何让ChatGPT模仿人类写作，降低AIGC率？](https://blog.csdn.net/AcademicIdeas/article/details/148984068)
+
