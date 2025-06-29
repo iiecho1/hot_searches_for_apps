@@ -173,3 +173,5 @@
 
 + [乍得边境的苏丹难民](https://photo.cctv.com/2025/06/29/PHOAzEFHfHGjwdblKKoYGChn250629.shtml)
 
++ [因数据传输故障 意大利超300个航班一度暂停起降](https://news.cctv.com/2025/06/29/ARTIScYv8q3hR30VvOsGhcb5250629.shtml)
+

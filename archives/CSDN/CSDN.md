@@ -175,3 +175,9 @@
 
 + [人机融合智能 | 人智交互设计标准](https://blog.csdn.net/qq_41640218/article/details/148951945)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场高频交易策略优化与风险控制中的应用（327）](https://blog.csdn.net/atgfg/article/details/148984270)
+
++ [[论文阅读] 人工智能 | 真实场景下 RAG 系统的工程实践指南](https://blog.csdn.net/zhangjiaoshou_/article/details/148962783)
+
++ [六个安全Agent设计模式：有效防止Prompt注入攻击](https://blog.csdn.net/2401_85725028/article/details/148927137)
+
