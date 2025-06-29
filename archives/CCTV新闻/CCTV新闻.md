@@ -189,3 +189,11 @@
 
 + [坦桑尼亚两辆巴士相撞起火造成38人死亡](https://news.cctv.com/2025/06/29/ARTIIphihfQOmGahNcLySlEE250629.shtml)
 
++ [“我们有需要时，中国朋友一直都在”（共创繁荣发展新时代）](https://news.cctv.com/2025/06/29/ARTIfq648R353ZNG9QKXpz0n250629.shtml)
+
++ [“中亚中国合作正迎来新的机遇”——访塔吉克斯坦民族大学国际关系系副主任米尔佐耶夫](https://news.cctv.com/2025/06/29/ARTIdw5jVJBbbI4A2yA5beQZ250629.shtml)
+
++ [第九届中国—南亚博览会深度构建开放合作、经贸往来、产业协作、人文交流、消费促进五大平台 共享机遇 共促发展](https://news.cctv.com/2025/06/29/ARTIy4vKjymhk2OCYmy6iXRv250629.shtml)
+
++ [特朗普不满内塔尼亚胡受审 称“美国不会容忍”](https://news.cctv.com/2025/06/29/ARTIylq1GE8qTa0yq7FnDo1e250629.shtml)
+

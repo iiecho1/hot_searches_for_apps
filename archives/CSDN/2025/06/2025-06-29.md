@@ -199,3 +199,9 @@
 
 + [Unity性能优化-渲染模块(1)-CPU侧(1)-优化方向](https://blog.csdn.net/xxxxx666666/article/details/148740649)
 
++ [【AI大模型前沿】Muyan-TTS：开源零样本语音合成模型，助力播客与语音交互新突破](https://blog.csdn.net/xiaobing259/article/details/148928361)
+
++ [华为云Flexus+DeepSeek征文｜华为云ModelArts结合FeedMe：开启AI驱动的RSS阅读新时代](https://blog.csdn.net/jks212454/article/details/148905832)
+
++ [七天学会SpringCloud分布式微服务——04——Nacos配置中心](https://blog.csdn.net/csdn_l_z/article/details/148949899)
+
