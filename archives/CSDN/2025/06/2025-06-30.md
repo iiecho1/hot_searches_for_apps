@@ -139,3 +139,5 @@
 
 + [华为云Flexus+DeepSeek征文｜利用华为云一键部署的Dify平台构建高效智能电商客服系统实战](https://blog.csdn.net/cooldream2009/article/details/148983510)
 
++ [【Elasticsearch】全文检索 & 组合检索](https://blog.csdn.net/be_racle/article/details/148832106)
+
