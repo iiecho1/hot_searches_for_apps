@@ -161,3 +161,5 @@
 
 + [以伊停火后哈梅内伊首次发表讲话：侵犯伊朗必将付出沉重代价](https://news.cctv.com/2025/06/26/ARTIftQ9pnSFcujEujnYAQib250626.shtml)
 
++ [苏丹法希尔上半年已有239名儿童因营养不良死亡](https://news.cctv.com/2025/06/30/ARTIsrZo80RfElaM0aXjioC4250630.shtml)
+

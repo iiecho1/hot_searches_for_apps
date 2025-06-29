@@ -101,3 +101,17 @@
 
 + [TCP远程连接D435深度相机且有断联保护](https://blog.csdn.net/qq_61811027/article/details/148979775)
 
++ [华为云Flexus+DeepSeek征文｜基于华为云Flexus云服务的Dify一键部署方案操作指南](https://blog.csdn.net/weixin_52908342/article/details/148953619)
+
++ [K8s + Springboot 如何实现 优雅停机 + 不停服更新](https://blog.csdn.net/u013517141/article/details/148957221)
+
++ [基于MySQL的分布式锁实现（Spring Boot + MyBatis）](https://blog.csdn.net/weixin_43833540/article/details/148955667)
+
++ [【论文阅读笔记】知网SCI——基于主成分分析的空间外差干涉数据校正研究](https://blog.csdn.net/qq_42924330/article/details/148484824)
+
++ [计算机操作系统（十七）内存管理](https://blog.csdn.net/2402_83322742/article/details/148978687)
+
++ [github 淘金技巧](https://blog.csdn.net/waterHBO/article/details/148949818)
+
++ [Conformal LEC：官方学习教程](https://blog.csdn.net/weixin_45791458/article/details/148959074)
+
