@@ -29,3 +29,21 @@
 
 + [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop)
 
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [stanford-oval/storm](https://github.com/stanford-oval/storm)
+
++ [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
+
++ [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
++ [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
++ [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
+
++ [m1k1o/neko](https://github.com/m1k1o/neko)
+
++ [LMCache/LMCache](https://github.com/LMCache/LMCache)
+
++ [zyronon/typing-word](https://github.com/zyronon/typing-word)
+
