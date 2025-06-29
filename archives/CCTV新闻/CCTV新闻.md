@@ -173,3 +173,5 @@
 
 + [世界周刊｜无人作战系统逐渐成为战场上的“新宠”](https://military.cctv.com/2025/06/30/ARTIEMyaheJwwvYKkBfuP6I5250630.shtml)
 
++ [金正恩会见率团访朝的俄文化部长柳比莫娃](https://news.cctv.com/2025/06/30/ARTIwKKbe16ViDdhDh1srRkf250630.shtml)
+

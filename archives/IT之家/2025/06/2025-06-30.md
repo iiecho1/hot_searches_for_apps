@@ -49,3 +49,9 @@
 
 + [腾讯 FPS 游戏《三角洲行动》8 月 19 日登陆 PS5 和 Xbox 免费游玩](https://m.ithome.com/html/864452.htm)
 
++ [零跑 B01 纯电轿车预售 10.58 万元起：可选激光雷达版，预计下月上市交付](https://m.ithome.com/html/864565.htm)
+
++ [布拉德・皮特主演，苹果原创电影《F1：狂飙飞车》首周末票房高达 1.4 亿美元](https://m.ithome.com/html/864486.htm)
+
++ [玩家晒 Epic 账号“每周免费领游戏”战绩，2018 年至今领取超 500 款总价值约 1.36 万美元](https://m.ithome.com/html/864503.htm)
+
