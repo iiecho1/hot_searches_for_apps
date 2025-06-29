@@ -115,3 +115,23 @@
 
 + [Conformal LEC：官方学习教程](https://blog.csdn.net/weixin_45791458/article/details/148959074)
 
++ [OpenCV图像噪点消除五大滤波方法](https://blog.csdn.net/wyy202206174248/article/details/148983917)
+
++ [基于ApachePOI实现高德POI分类快速导入PostgreSQL数据库实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/148965581)
+
++ [Spring Boot 2.2.6调用DeepSeek API并通过SSE将流式响应推送给前端的完整实现](https://blog.csdn.net/weixin_42502300/article/details/148955686)
+
++ [Django实战：自定义中间件实现全链路操作日志记录](https://blog.csdn.net/zljgzw/article/details/146492414)
+
++ [河北对口计算机高考C#笔记(2026高考适用)---完结版~~~~](https://blog.csdn.net/weixin_43166638/article/details/148955351)
+
++ [[论文阅读] (40)CCS24 PowerPeeler：一种通用的PowerShell脚本动态去混淆方法](https://blog.csdn.net/Eastmount/article/details/148944997)
+
++ [ABP VNext + 多数据库混合：SQL Server＋PostgreSQL＋MySQL](https://blog.csdn.net/Kookoos/article/details/148979991)
+
++ [PMO 与IPD、CMMI、项目管理什么区别和联系](https://blog.csdn.net/zengmingen/article/details/148984135)
+
++ [嵌入式项目：基于QT与Hi3861的物联网智能大棚集成控制系统](https://blog.csdn.net/m0_75180351/article/details/148933986)
+
++ [SpringBatch处理数据性能优化](https://blog.csdn.net/shuoyueqishilove/article/details/148948397)
+

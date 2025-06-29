@@ -163,3 +163,7 @@
 
 + [苏丹法希尔上半年已有239名儿童因营养不良死亡](https://news.cctv.com/2025/06/30/ARTIsrZo80RfElaM0aXjioC4250630.shtml)
 
++ [豫园灯会“点亮”泰国曼谷](https://news.cctv.com/2025/06/30/ARTIWaTfdoy17JPoywnzHS1a250629.shtml)
+
++ [美国会预算办公室：参议院版“大而美”法案将增加3.3万亿美元债务](https://news.cctv.com/2025/06/30/ARTIP06135X5nhBmL2AfxmSs250630.shtml)
+
