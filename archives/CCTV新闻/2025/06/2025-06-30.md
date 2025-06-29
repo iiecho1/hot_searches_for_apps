@@ -169,3 +169,7 @@
 
 + [特朗普：美国应将利率控制在1%或2%](https://news.cctv.com/2025/06/30/ARTIY1y7C5WNSb1S3KnG6DwB250630.shtml)
 
++ [伊朗总统：已准备好开启与波斯湾邻国关系新篇章](https://news.cctv.com/2025/06/30/ARTIgRNiTBXMMeQBdLe3bqAt250630.shtml)
+
++ [世界周刊｜无人作战系统逐渐成为战场上的“新宠”](https://military.cctv.com/2025/06/30/ARTIEMyaheJwwvYKkBfuP6I5250630.shtml)
+
