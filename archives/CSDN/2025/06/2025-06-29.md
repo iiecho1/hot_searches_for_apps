@@ -181,3 +181,7 @@
 
 + [六个安全Agent设计模式：有效防止Prompt注入攻击](https://blog.csdn.net/2401_85725028/article/details/148927137)
 
++ [uniapp微信小程序 - initialize √ IDE server has started, listening on xx -open IDE（运行项目到微信开发者工具报错无法编译启动报错）](https://blog.csdn.net/weixin_44198965/article/details/148994580)
+
++ [基于MySQL的分布式锁实现（Spring Boot + MyBatis）](https://blog.csdn.net/weixin_43833540/article/details/148955667)
+
