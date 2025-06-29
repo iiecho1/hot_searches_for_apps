@@ -23,3 +23,9 @@
 
 + [除了 com 还有哪些好域名后缀](https://www.v2ex.com/t/1141657)
 
++ [本月深圳的房子崩了](https://www.v2ex.com/t/1141663)
+
++ [迄今为止 还是没有一个好用的 跨平台 支持多语言 的 SDK 管理工具](https://www.v2ex.com/t/1141687)
+
++ [Android 开发体验没有 web 开发体验好](https://www.v2ex.com/t/1141659)
+

@@ -169,3 +169,7 @@
 
 + [巴基斯坦发生5.6级地震，震源深度10千米](https://news.cctv.com/2025/06/29/ARTIl81XxPcOACvCkbJ80mRy250629.shtml)
 
++ [越南一铝制品厂车间发生火灾 致4死3伤](https://news.cctv.com/2025/06/29/ARTIBTWNBAfbc5ejB10Mh3JC250629.shtml)
+
++ [乍得边境的苏丹难民](https://photo.cctv.com/2025/06/29/PHOAzEFHfHGjwdblKKoYGChn250629.shtml)
+

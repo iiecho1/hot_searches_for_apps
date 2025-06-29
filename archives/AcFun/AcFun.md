@@ -75,3 +75,7 @@
 
 + [Fiestar Mirror](https://m.acfun.cn/v/?ac=47441895)
 
++ [【柯基】《O Fortuna（哦，命运女神）》|布兰诗歌序曲](https://m.acfun.cn/v/?ac=47442770)
+
++ [弱智小视频](https://m.acfun.cn/v/?ac=47442318)
+

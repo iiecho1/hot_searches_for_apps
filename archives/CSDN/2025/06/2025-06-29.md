@@ -157,3 +157,15 @@
 
 + [【Linux】运维开发必备:仅需一个脚本学习60个Linux核心命令](https://blog.csdn.net/m0_75192474/article/details/148977783)
 
++ [谷歌 Gemma 3n 正式发布：端侧AI模型，小模型也有大实力](https://blog.csdn.net/qq_51646682/article/details/148963124)
+
++ [C语言再出发：2025年AI时代的关键语言](https://blog.csdn.net/2302_79751907/article/details/148850834)
+
++ [Django实战：自定义中间件实现全链路操作日志记录](https://blog.csdn.net/zljgzw/article/details/146492414)
+
++ [从单体架构到微服务：微服务架构演进与实践](https://blog.csdn.net/Landcc/article/details/148977562)
+
++ [Spring Cloud 微服务（服务注册与发现原理深度解析）](https://blog.csdn.net/qq_45572615/article/details/148961287)
+
++ [github 淘金技巧](https://blog.csdn.net/waterHBO/article/details/148949818)
+
