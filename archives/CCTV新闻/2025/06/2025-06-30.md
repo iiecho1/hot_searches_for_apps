@@ -167,3 +167,5 @@
 
 + [美国会预算办公室：参议院版“大而美”法案将增加3.3万亿美元债务](https://news.cctv.com/2025/06/30/ARTIP06135X5nhBmL2AfxmSs250630.shtml)
 
++ [特朗普：美国应将利率控制在1%或2%](https://news.cctv.com/2025/06/30/ARTIY1y7C5WNSb1S3KnG6DwB250630.shtml)
+
