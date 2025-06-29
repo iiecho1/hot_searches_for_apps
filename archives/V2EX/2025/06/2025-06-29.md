@@ -41,3 +41,7 @@
 
 + [求推荐一个打印机吧](https://www.v2ex.com/t/1141672)
 
++ [关于 t-mobile 充值问题](https://www.v2ex.com/t/1141717)
+
++ [电脑如何远程控制华为手机](https://www.v2ex.com/t/1141675)
+

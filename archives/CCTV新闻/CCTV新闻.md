@@ -185,3 +185,7 @@
 
 + [韩国总统李在明再提名多位部长人选 组阁工作接近尾声](https://news.cctv.com/2025/06/29/ARTI9y5B4EvBzNcmLwDY5qlv250629.shtml)
 
++ [坦桑尼亚北部发生交通事故 至少38死28伤](https://news.cctv.com/2025/06/29/ARTIo0LfX197j47R5GFE4P39250629.shtml)
+
++ [坦桑尼亚两辆巴士相撞起火造成38人死亡](https://news.cctv.com/2025/06/29/ARTIIphihfQOmGahNcLySlEE250629.shtml)
+
