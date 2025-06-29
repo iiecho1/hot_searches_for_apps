@@ -197,3 +197,5 @@
 
 + [特朗普不满内塔尼亚胡受审 称“美国不会容忍”](https://news.cctv.com/2025/06/29/ARTIylq1GE8qTa0yq7FnDo1e250629.shtml)
 
++ [乌克兰将退出《渥太华禁雷公约》](https://news.cctv.com/2025/06/29/ARTIAnORokDpo7vOFHvDyRTQ250629.shtml)
+
