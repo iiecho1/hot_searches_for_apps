@@ -169,3 +169,9 @@
 
 + [github 淘金技巧](https://blog.csdn.net/waterHBO/article/details/148949818)
 
++ [【Linux】软硬链接，动静态库](https://blog.csdn.net/hffh123/article/details/148839879)
+
++ [基于React实现的一个记账本](https://blog.csdn.net/2301_81253185/article/details/148983423)
+
++ [人机融合智能 | 人智交互设计标准](https://blog.csdn.net/qq_41640218/article/details/148951945)
+
