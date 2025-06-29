@@ -175,3 +175,11 @@
 
 + [因数据传输故障 意大利超300个航班一度暂停起降](https://news.cctv.com/2025/06/29/ARTIScYv8q3hR30VvOsGhcb5250629.shtml)
 
++ [印度发生踩踏事故 造成至少3人死亡](https://news.cctv.com/2025/06/29/ARTICBg3YCD0PkKJWRdMkfqq250629.shtml)
+
++ [以军袭击伊朗德黑兰一监狱 已致71人死亡](https://news.cctv.com/2025/06/29/ARTIfcVebwVzODCKS85bfoV5250629.shtml)
+
++ [遭袭后，伊朗核计划能“数月后”重启？](https://news.cctv.com/2025/06/29/ARTI1oZ3tj5rmJVxeXJT8HeZ250629.shtml)
+
++ [特朗普“大而美”法案参议院通关只差一步 民主党“拖”字诀硬扛](https://news.cctv.com/2025/06/29/ARTI1CGsO3nDdojy3X5TRFYj250629.shtml)
+
