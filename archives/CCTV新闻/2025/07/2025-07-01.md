@@ -167,3 +167,5 @@
 
 + [美加州南部山火持续蔓延 火势仅控制10%](https://news.cctv.com/2025/07/01/ARTIfrFCI8iQ6RsEYosMmgwP250701.shtml)
 
++ [韩议员：尹锡悦执政时期 韩军确曾派出无人机侵入平壤](https://news.cctv.com/2025/07/01/ARTIVbgtjFxR51y6VKnDWaGf250701.shtml)
+

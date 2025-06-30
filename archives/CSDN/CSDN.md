@@ -139,3 +139,7 @@
 
 + [基于HarmonyOS Image Kit构建的教学图像处理系统](https://blog.csdn.net/2301_77779860/article/details/149027935)
 
++ [熟悉多线程与并发编程，理解各类锁机制，熟悉JUC并发多线程及线程池，熟练异步编排编码，熟悉Redisson在分布式场景下各类锁的应用场景和并发控制原理。](https://blog.csdn.net/qq_40267044/article/details/139872946)
+
++ [基于HarmonyOS Speech Kit构建的多模态语言学习引擎](https://blog.csdn.net/hmfjm/article/details/149028552)
+
