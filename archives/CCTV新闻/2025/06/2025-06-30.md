@@ -175,3 +175,9 @@
 
 + [金正恩会见率团访朝的俄文化部长柳比莫娃](https://news.cctv.com/2025/06/30/ARTIwKKbe16ViDdhDh1srRkf250630.shtml)
 
++ [美国爱达荷州发生枪击事件 多名消防员受伤](https://news.cctv.com/2025/06/30/ARTIBdOOPOSVaLaFD36mVgfk250630.shtml)
+
++ [海外现存最长寿大熊猫“欣欣”在墨西哥城迎来35岁生日](https://news.cctv.com/2025/06/30/ARTIwhozUAcYvqkDuxI5NbAj250630.shtml)
+
++ [苏丹一金矿发生坍塌事故 11名矿工遇难](https://news.cctv.com/2025/06/30/ARTIxLs70qnE8bC359feBAAK250630.shtml)
+

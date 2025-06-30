@@ -143,3 +143,13 @@
 
 + [电力协议处理框架C++版（一）](https://blog.csdn.net/z5201314100/article/details/148997981)
 
++ [Java AI 新纪元：Spring AI 与 Spring AI Alibaba 的崛起](https://blog.csdn.net/qq_44560143/article/details/148982430)
+
++ [Chatbox AI｜多模型多模态交互+MCP，一个工具打造你的全能私人助手](https://blog.csdn.net/g310773517/article/details/148801422)
+
++ [Linux更改国内镜像源](https://blog.csdn.net/qq_44168533/article/details/148982079)
+
++ [人机融合智能 | 人智交互设计标准](https://blog.csdn.net/qq_41640218/article/details/148951945)
+
++ [Vue 项目中 Excel 导入导出功能笔记](https://blog.csdn.net/Tttian622/article/details/148978168)
+
