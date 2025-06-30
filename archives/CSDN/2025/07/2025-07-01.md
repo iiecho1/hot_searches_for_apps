@@ -143,3 +143,5 @@
 
 + [基于HarmonyOS Speech Kit构建的多模态语言学习引擎](https://blog.csdn.net/hmfjm/article/details/149028552)
 
++ [Spring AI 中 MCP 架构与工具调用技术详解](https://blog.csdn.net/llwszx/article/details/148986736)
+
