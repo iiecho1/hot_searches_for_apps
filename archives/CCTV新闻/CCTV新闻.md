@@ -239,3 +239,5 @@
 
 + [从贸易战到轰炸伊朗：美国声誉加速崩塌](https://news.cctv.com/2025/06/30/ARTI5gM3HpWiEy1exNfKv591250630.shtml)
 
++ [墨西哥举行大熊猫“欣欣”35岁生日庆祝活动](https://photo.cctv.com/2025/06/30/PHOAGnuHMmubYDBfwXS2DIEa250630.shtml)
+

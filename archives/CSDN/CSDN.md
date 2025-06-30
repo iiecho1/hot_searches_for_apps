@@ -203,3 +203,9 @@
 
 + [vue3+echarts：实现绘制3D中国地图+点位涟漪+飞线图效果+带炫酷流水动画效果，Echarts如何实现3d省市区地图与飞线绘制（全国3d地图涟漪水波扩散动画，VUE3中国地图动态线条动画）](https://blog.csdn.net/weixin_50545213/article/details/149022179)
 
++ [Kafka4.0初体验](https://blog.csdn.net/weixin_47905944/article/details/148994207)
+
++ [libxlsxwriter: 一个轻量级的跨平台的C++操作Excel的开源库](https://blog.csdn.net/haokan123456789/article/details/148979556)
+
++ [【科普】视觉引导机械臂抓取（STM32+OPENMV方案）的原理：](https://blog.csdn.net/2401_82762455/article/details/148985637)
+

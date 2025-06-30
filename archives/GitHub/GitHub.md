@@ -29,3 +29,19 @@
 
 + [zyronon/typing-word](https://github.com/zyronon/typing-word)
 
++ [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
+
++ [midday-ai/midday](https://github.com/midday-ai/midday)
+
++ [actualbudget/actual](https://github.com/actualbudget/actual)
+
++ [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)
+
++ [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
+
++ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+
++ [visgl/deck.gl](https://github.com/visgl/deck.gl)
+
