@@ -187,3 +187,5 @@
 
 + [python+uniapp基于微信小程序的多人协同办公系统](https://blog.csdn.net/Q_Q1963288475/article/details/148950462)
 
++ [嵌入式网络通信与物联网协议全解析：Wi-Fi、BLE、LoRa、ZigBee 实战指南](https://blog.csdn.net/qq_64978731/article/details/148976990)
+
