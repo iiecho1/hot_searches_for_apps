@@ -181,3 +181,17 @@
 
 + [苏丹一金矿发生坍塌事故 11名矿工遇难](https://news.cctv.com/2025/06/30/ARTIxLs70qnE8bC359feBAAK250630.shtml)
 
++ [马来西亚官方：停泊岛翻船事件驾船者疑吸毒](https://news.cctv.com/2025/06/30/ARTIj8GlJ8G4bTFt9SBAc24l250630.shtml)
+
++ [又有美媒质疑打击伊核设施效果 特朗普：那里只剩几千吨岩石](https://news.cctv.com/2025/06/30/ARTIgQhkIExm7NWlAUIzISco250630.shtml)
+
++ [美国参议院将于6月30日就“大而美”法案开始投票](https://news.cctv.com/2025/06/30/ARTIv0wr8NOUsxswr3tjwEnm250630.shtml)
+
++ [美消防官员称爱达荷州山火系人为纵火 意在“伏击”消防员](https://news.cctv.com/2025/06/30/ARTIzzBkarUH6rvpXHiiVINE250630.shtml)
+
++ [欧洲热浪肆虐 多国发布高温山火警报](https://news.cctv.com/2025/06/30/ARTIOEPzUerrDxlok937xptM250630.shtml)
+
++ [“大而美”法案省钱还是亏钱？美两党在参议院持手绘图板互杠](https://news.cctv.com/2025/06/30/ARTI27nce3S19AvObXEg6ATp250630.shtml)
+
++ [日本民调显示石破茂内阁支持率连续4个月低于30%](https://news.cctv.com/2025/06/30/ARTIzkemFqonA8wQMdf08LvQ250630.shtml)
+

@@ -25,3 +25,9 @@
 
 + [做了一个游戏昵称生成器，基于 openrouter api，游戏昵称取名困难症的福音](https://www.v2ex.com/t/1141727)
 
++ [记录最近一次看病经历，小病熬成大问题，看病真难](https://www.v2ex.com/t/1141868)
+
++ [公益站 API 免费使用-可用 Gemini、DeepSeek 和 OpenAI！](https://www.v2ex.com/t/1141769)
+
++ [牙髓炎能自愈吗](https://www.v2ex.com/t/1141856)
+

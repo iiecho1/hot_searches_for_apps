@@ -55,3 +55,13 @@
 
 + [玩家晒 Epic 账号“每周免费领游戏”战绩，2018 年至今领取超 500 款总价值约 1.36 万美元](https://m.ithome.com/html/864503.htm)
 
++ [今年已发生 15 起充电宝在飞机上起火冒烟，处理方式成难点](https://m.ithome.com/html/864579.htm)
+
++ [小米回应无法购买新版汽车无忧服务包：仅供官保用户可选购](https://m.ithome.com/html/864583.htm)
+
++ [古尔曼确认苹果 iOS 26 隐藏功能，预计 10~12 月更新](https://m.ithome.com/html/864570.htm)
+
++ [安克修改充电宝召回方案：泡盐水放电，上传报废凭证后可获赔](https://m.ithome.com/html/864601.htm)
+
++ [马斯克的火箭爆炸碎片掉进邻国：墨西哥称已遭污染，正考虑起诉 SpaceX](https://m.ithome.com/html/864553.htm)
+

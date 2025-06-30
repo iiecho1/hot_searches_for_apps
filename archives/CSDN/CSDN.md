@@ -153,3 +153,23 @@
 
 + [Vue 项目中 Excel 导入导出功能笔记](https://blog.csdn.net/Tttian622/article/details/148978168)
 
++ [利用GPU加速TensorFlow](https://blog.csdn.net/weixin_47195452/article/details/148972289)
+
++ [障碍感知 | 基于3D激光雷达的三维膨胀栅格地图构建(附ROS C++仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/148960870)
+
++ [【Actix Web】Rust Web开发JWT认证](https://blog.csdn.net/littlefun591/article/details/148952961)
+
++ [DM8数据库角色管理：角色创建与授权](https://blog.csdn.net/qq_41840843/article/details/148481678)
+
++ [（三十九）深度解析领域特定语言（DSL）第七章——语法制导翻译——参数验证DSL语法分析器实现](https://blog.csdn.net/weixin_46217641/article/details/149009688)
+
++ [【C#】使用电脑的GPU与CPU的区别](https://blog.csdn.net/wangnaisheng/article/details/148927361)
+
++ [系统学习 Android 的 进程管理、内存管理、音频管理](https://blog.csdn.net/zhanyahuiv5/article/details/148956279)
+
++ [MyBatis实战指南（八）MyBatis日志](https://blog.csdn.net/2402_83322742/article/details/149004565)
+
++ [MCPA2APPT：基于 A2A+MCP+ADK 的多智能体流式并发高质量 PPT 智能生成系统](https://blog.csdn.net/qq_44866828/article/details/148984339)
+
++ [SpringMVC系列（六）（Restful架构风格（中））](https://blog.csdn.net/weixin_57643648/article/details/148977045)
+
