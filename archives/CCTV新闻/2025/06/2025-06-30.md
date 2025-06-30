@@ -255,3 +255,7 @@
 
 + [巴勒斯坦媒体：以军袭击加沙两地造成23人死亡](https://news.cctv.com/2025/06/30/ARTIZhlejRNLJSst5mWMHofI250630.shtml)
 
++ [特朗普政府再威胁哈佛大学“将失去所有联邦财政资源”](https://news.cctv.com/2025/06/30/ARTIgDj5k5eGIuTnRJ5dDDvI250630.shtml)
+
++ [卡塔尔外交部：加沙地带停火谈判尚未重启](https://news.cctv.com/2025/06/30/ARTI9Iyq3MtT1ZsYW7Il5J0Y250630.shtml)
+
