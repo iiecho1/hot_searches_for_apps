@@ -107,3 +107,23 @@
 
 + [【科普】视觉引导机械臂抓取（STM32+OPENMV方案）的原理：](https://blog.csdn.net/2401_82762455/article/details/148985637)
 
++ [构建可解释性AI原生应用的架构设计模式](https://blog.csdn.net/2502_92631100/article/details/149031757)
+
++ [【AI智能体】Dify 核心组件从使用到实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/148510216)
+
++ [嵌入式SoC多线程架构迁移多进程架构开发技巧](https://blog.csdn.net/m0_38106923/article/details/142493448)
+
++ [【机器人】复现 HOV-SG 机器人导航 | 分层 开放词汇 | 3D 场景图](https://blog.csdn.net/qq_41204464/article/details/149006741)
+
++ [Spring Cloud 微服务架构模型](https://blog.csdn.net/hashiqimiya/article/details/148968596)
+
++ [接口自动化测试（Python+pytest+PyMySQL+Jenkins）](https://blog.csdn.net/weixin_67186219/article/details/148993833)
+
++ [HarmonyOS NEXT仓颉开发语言实战案例：健身App](https://blog.csdn.net/youlanjihua/article/details/148995212)
+
++ [FastAPI+Sqlite+HTML的登录注册与文件上传系统：完整实现指南](https://blog.csdn.net/m0_74488469/article/details/149004218)
+
++ [HarmonyOS 公共事件机制介绍以及多进程之间的通信实现（9000字详解）](https://blog.csdn.net/Yihong1833100198/article/details/149004476)
+
++ [大模型中的长短期记忆机制实现详解](https://blog.csdn.net/qq_16242613/article/details/148999197)
+
