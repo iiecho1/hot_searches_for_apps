@@ -127,3 +127,11 @@
 
 + [大模型中的长短期记忆机制实现详解](https://blog.csdn.net/qq_16242613/article/details/148999197)
 
++ [华为云Flexus+DeepSeek征文｜基于华为云Flexus云服务的Dify一键部署方案实现：阅读推荐官AI Agent](https://blog.csdn.net/mrdeam/article/details/148974896)
+
++ [飞算JavaAI深度实践—从零构建高并发秒杀系统，效率提升500%的实战解码](https://blog.csdn.net/weixin_52258054/article/details/149028233)
+
++ [HarmonyOS Core File Kit的教育场景适配](https://blog.csdn.net/Htm_l/article/details/149028352)
+
++ [C++ 设计模式 《外卖高峰期，小明靠一键下单系统拯救了万千饥饿学子》](https://blog.csdn.net/yiqixxb/article/details/149018071)
+

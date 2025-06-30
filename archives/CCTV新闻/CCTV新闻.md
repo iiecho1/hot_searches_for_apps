@@ -163,3 +163,5 @@
 
 + [俄外交部：俄方决定对欧盟国家的15家媒体采取限制措施](https://news.cctv.com/2025/07/01/ARTIi5XBxLLpEsaS3zWI1SLC250701.shtml)
 
++ [白宫经济顾问：美国将立即重启与加拿大的贸易谈判](https://news.cctv.com/2025/07/01/ARTIs0Tzi31yJEJQdEVCxGtG250701.shtml)
+
