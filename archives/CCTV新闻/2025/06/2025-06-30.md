@@ -259,3 +259,7 @@
 
 + [卡塔尔外交部：加沙地带停火谈判尚未重启](https://news.cctv.com/2025/06/30/ARTI9Iyq3MtT1ZsYW7Il5J0Y250630.shtml)
 
++ [联合国安理会延长脱离接触观察员部队任务期限](https://news.cctv.com/2025/06/30/ARTIjMGJQGK7U43Y5zu83PiK250630.shtml)
+
++ [埃及外长同巴勒斯坦外长通电话 讨论巴以问题](https://news.cctv.com/2025/06/30/ARTI6c9GW5HDkJe3HeMS0JvW250630.shtml)
+

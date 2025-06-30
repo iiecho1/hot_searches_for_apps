@@ -233,3 +233,9 @@
 
 + [华为云 Flexus+DeepSeek 征文｜华为云单机部署 Dify 平台，智能体创建方式完整指南全解](https://blog.csdn.net/weixin_62765017/article/details/148983648)
 
++ [若依架构 代码生成功能操作--详细教程](https://blog.csdn.net/m0_74070923/article/details/148993219)
+
++ [利用imx6ull板学习裸机arm板开发（6.22-6.24）](https://blog.csdn.net/qq_71711816/article/details/148948999)
+
++ [虚拟机中使用docker部署MySql8.0并进行连接与设置允许远程连接](https://blog.csdn.net/chandfy/article/details/149023861)
+
