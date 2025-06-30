@@ -227,3 +227,15 @@
 
 + [法国超80省发布高温橙色预警 约200所学校关闭](https://news.cctv.com/2025/06/30/ARTIiINWsgehdcUBTjGYTgs4250630.shtml)
 
++ [美国一轻型飞机坠毁 6人死亡](https://news.cctv.com/2025/06/30/ARTIklDLpiEAG7P0MC3iqZp5250630.shtml)
+
++ [韩国特检组：不接受尹锡悦方变更调查日期要求](https://news.cctv.com/2025/06/30/ARTI33eDmD4XkYFDcPN6JrPU250630.shtml)
+
++ [美加州南部燃起多处山火 多条道路受影响](https://news.cctv.com/2025/06/30/ARTIPqxIVW2jfo3I4RKDWoWC250630.shtml)
+
++ [民调显示日本民众对美信任度降至新低](https://news.cctv.com/2025/06/30/ARTI3vEOYiYFFIthdvvHzddU250630.shtml)
+
++ [叙利亚和以色列进行间接谈判 推动达成和平协议](https://news.cctv.com/2025/06/30/ARTINpMyYO8f7QY4w2lXkSyE250630.shtml)
+
++ [从贸易战到轰炸伊朗：美国声誉加速崩塌](https://news.cctv.com/2025/06/30/ARTI5gM3HpWiEy1exNfKv591250630.shtml)
+
