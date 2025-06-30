@@ -199,3 +199,5 @@
 
 + [加拿大取消数字服务税 以推进与美国贸易谈判](https://news.cctv.com/2025/06/30/ARTI3BEq9QjP4jJlHr5aBPE4250630.shtml)
 
++ [美警方在爱达荷山区发现一死亡男子 有猜测称为伏击消防员嫌疑人](https://news.cctv.com/2025/06/30/ARTIDC7xZOWOBUJtNvcPgp7R250630.shtml)
+

@@ -177,3 +177,13 @@
 
 + [2025最新全网6种方法教你如何关闭Win10/Windows11系统的自动更新指南](https://blog.csdn.net/qq_44866828/article/details/148984757)
 
++ [生成式人工智能实战 | 变分自编码器（Variational Auto-Encoder, VAE）](https://blog.csdn.net/LOVEmy134611/article/details/149002399)
+
++ [Redis集群架构](https://blog.csdn.net/2301_77599076/article/details/148972989)
+
++ [机器学习算法-K近邻算法-KNN](https://blog.csdn.net/sdsh1880gm/article/details/148983581)
+
++ [学习React官方文档（描述UI）](https://blog.csdn.net/qq_45902692/article/details/148994237)
+
++ [python+uniapp基于微信小程序的多人协同办公系统](https://blog.csdn.net/Q_Q1963288475/article/details/148950462)
+
