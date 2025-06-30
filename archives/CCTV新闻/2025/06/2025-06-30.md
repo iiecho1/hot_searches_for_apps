@@ -203,3 +203,11 @@
 
 + [俄乌冲突在美外交优先级下降 欧洲国家援乌压力倍增](https://news.cctv.com/2025/06/30/ARTICTDru6DLMDUHbuEsgoyV250630.shtml)
 
++ [以军称约旦河西岸一处安全设施遭犹太定居者纵火](https://news.cctv.com/2025/06/30/ARTIixvdTSWamf3gDmSZlefR250630.shtml)
+
++ [本轮巴以冲突已致巴勒斯坦785名运动员和管理人员死亡](https://news.cctv.com/2025/06/30/ARTI5nJ7YImnU4bvIkE5woQe250630.shtml)
+
++ [美国“大而美”法案争议不断 或引发国内民怨和外国资本顾虑](https://news.cctv.com/2025/06/30/ARTIgj5R1kHSgnzZkyOdYQ5G250630.shtml)
+
++ [暑假将至 驻韩国使馆提醒在韩留学人员注意假期安全](https://news.cctv.com/2025/06/30/ARTINlvw4RDc1SUSlw2XHRGh250630.shtml)
+

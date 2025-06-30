@@ -189,3 +189,7 @@
 
 + [嵌入式网络通信与物联网协议全解析：Wi-Fi、BLE、LoRa、ZigBee 实战指南](https://blog.csdn.net/qq_64978731/article/details/148976990)
 
++ [Python AutoML框架选型攻略：7个工具性能对比与应用指南](https://blog.csdn.net/m0_46510245/article/details/149017369)
+
++ [Vue2 - 手机移动端H5网页强力解决弹起软键盘后页面被挤压变形或页面整体上移问题，点击input输入框键盘弹出底部被上推往上顶遮挡及各种问题（兼容安卓苹果ios手机，微信公众号网页微信内置浏览器）](https://blog.csdn.net/weixin_44198965/article/details/149018970)
+
