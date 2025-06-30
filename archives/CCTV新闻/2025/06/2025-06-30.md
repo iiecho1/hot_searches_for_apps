@@ -241,3 +241,17 @@
 
 + [墨西哥举行大熊猫“欣欣”35岁生日庆祝活动](https://photo.cctv.com/2025/06/30/PHOAGnuHMmubYDBfwXS2DIEa250630.shtml)
 
++ [意大利那不勒斯以东地区发生4.6级地震 居民跑出房屋避险](https://news.cctv.com/2025/06/30/ARTIhnFLhzFz25JSWhG50NUX250630.shtml)
+
++ [印度化工厂爆炸事件死亡人数升至12人](https://news.cctv.com/2025/06/30/ARTIt02CxYqkNmeG6Ysx7aS9250630.shtml)
+
++ [德国2025年将向乌克兰提供超90亿欧元援助](https://news.cctv.com/2025/06/30/ARTI4hhOtuPcn79QZ5uBv9HC250630.shtml)
+
++ [欧盟将对俄制裁措施再延长6个月](https://news.cctv.com/2025/06/30/ARTIouu8K06DDtzfn7OSw4A8250630.shtml)
+
++ [若无更多资金 世粮署对数百万苏丹难民援助或暂停](https://news.cctv.com/2025/06/30/ARTIrGzNw0R9JDN6H5VCYO7L250630.shtml)
+
++ [荷兰一列车发生爆炸 650名乘客紧急疏散](https://news.cctv.com/2025/06/30/ARTI7z5yTVN4FKXmc5FdqwDQ250630.shtml)
+
++ [巴勒斯坦媒体：以军袭击加沙两地造成23人死亡](https://news.cctv.com/2025/06/30/ARTIZhlejRNLJSst5mWMHofI250630.shtml)
+
