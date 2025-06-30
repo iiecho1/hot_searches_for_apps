@@ -195,3 +195,7 @@
 
 + [日本民调显示石破茂内阁支持率连续4个月低于30%](https://news.cctv.com/2025/06/30/ARTIzkemFqonA8wQMdf08LvQ250630.shtml)
 
++ [视频丨加沙一男子试图逃离空袭现场时被砸倒](https://news.cctv.com/2025/06/30/ARTIKCnWsLEh4vnomywAXI6l250630.shtml)
+
++ [加拿大取消数字服务税 以推进与美国贸易谈判](https://news.cctv.com/2025/06/30/ARTI3BEq9QjP4jJlHr5aBPE4250630.shtml)
+
