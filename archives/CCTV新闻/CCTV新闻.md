@@ -173,3 +173,19 @@
 
 + [知情人士透露：哈佛大学与白宫谈判陷入僵局](https://news.cctv.com/2025/07/01/ARTIiQCgRsEnKirYbjEolZ5c250701.shtml)
 
++ [巴勒斯坦记者协会：以军行动已致227名巴记者及媒体工作者遇难](https://news.cctv.com/2025/07/01/ARTI9lmnamvd5chS8jUJGOf2250701.shtml)
+
++ [美国威胁“终止与加拿大所有贸易谈判”，加迅速撤销“数字税”](https://news.cctv.com/2025/07/01/ARTIVNiM9mWElQ3kiUzkJLRM250701.shtml)
+
++ [土耳其森林火灾致逾5万居民被疏散](https://news.cctv.com/2025/07/01/ARTIUvNo8TcJrFbWAdfVXBoz250701.shtml)
+
++ [再批“大而美”法案 马斯克又提建新政党](https://news.cctv.com/2025/07/01/ARTImOTOXCYeuBWb8K6CLoaT250701.shtml)
+
++ [为应对火情 美军方要求撤回200名部署到洛杉矶的士兵](https://news.cctv.com/2025/07/01/ARTIOkeLAmFp2IL9pAcQNERl250701.shtml)
+
++ [英国苏格兰野火形势“极为严重” 多地道路关闭](https://news.cctv.com/2025/07/01/ARTI8GJLiH6mHv2jAsj6FVbQ250701.shtml)
+
++ [美联邦政府就移民政策起诉洛杉矶市](https://news.cctv.com/2025/07/01/ARTImTqyQ7WqbhorUWiZh2tt250701.shtml)
+
++ [涉146亿美元 美司法部称制止“史上最大规模”医保欺诈案](https://news.cctv.com/2025/07/01/ARTI3Ipa6BUcQt6novZ5ko2y250701.shtml)
+
