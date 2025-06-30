@@ -211,3 +211,9 @@
 
 + [暑假将至 驻韩国使馆提醒在韩留学人员注意假期安全](https://news.cctv.com/2025/06/30/ARTINlvw4RDc1SUSlw2XHRGh250630.shtml)
 
++ [视频丨印度一化工厂发生爆炸 至少10人死亡](https://news.cctv.com/2025/06/30/ARTIIKHO93U2xIH003pIUd9l250630.shtml)
+
++ [约旦河西岸一难民营传出持续枪声 目前暂无人员伤亡报告](https://news.cctv.com/2025/06/30/ARTIhO9qJHh5TYImrCkkbXqK250630.shtml)
+
++ [以军称倾向于与哈马斯达成协议而不是占领加沙](https://news.cctv.com/2025/06/30/ARTIIx53r9Ss6LrfLWa2Qj9T250630.shtml)
+

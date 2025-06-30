@@ -193,3 +193,7 @@
 
 + [Vue2 - 手机移动端H5网页强力解决弹起软键盘后页面被挤压变形或页面整体上移问题，点击input输入框键盘弹出底部被上推往上顶遮挡及各种问题（兼容安卓苹果ios手机，微信公众号网页微信内置浏览器）](https://blog.csdn.net/weixin_44198965/article/details/149018970)
 
++ [华为云Flexus+DeepSeek征文｜基于华为云Flexus云服务的Dify技术解决方案搭建育儿经验知识库智能体AI Agent](https://blog.csdn.net/mrdeam/article/details/148957653)
+
++ [linux运维学习第10周](https://blog.csdn.net/m0_57215217/article/details/148997966)
+
