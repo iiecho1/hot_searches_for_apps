@@ -101,3 +101,9 @@
 
 + [【论文阅读笔记】知网SCI——基于主成分分析的空间外差干涉数据校正研究](https://blog.csdn.net/qq_42924330/article/details/148484824)
 
++ [Modbus 报文结构与 CRC 校验实战指南（一）](https://blog.csdn.net/qq_42190530/article/details/149006185)
+
++ [MCU、LIN收发器与LIN总线是如何进行交互的？](https://blog.csdn.net/m0_46161733/article/details/148974877)
+
++ [【科普】视觉引导机械臂抓取（STM32+OPENMV方案）的原理：](https://blog.csdn.net/2401_82762455/article/details/148985637)
+

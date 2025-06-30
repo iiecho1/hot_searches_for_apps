@@ -25,3 +25,9 @@
 
 + [马斯克的火箭爆炸碎片掉进邻国：墨西哥称已遭污染，正考虑起诉 SpaceX](https://m.ithome.com/html/864553.htm)
 
++ [英伟达 RTX 5070 Ti SUPER 规格曝光：显存容量提升 50% 至 24GB](https://m.ithome.com/html/864567.htm)
+
++ [英伟达 RTX 5070 SUPER 显卡规格曝光：6400 个核心、18GB 显存、275W TBP](https://m.ithome.com/html/864514.htm)
+
++ [飞牛首款 NAS 硬件产品官宣](https://m.ithome.com/html/864604.htm)
+
