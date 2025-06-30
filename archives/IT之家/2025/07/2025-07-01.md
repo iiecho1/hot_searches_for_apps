@@ -31,3 +31,21 @@
 
 + [飞牛首款 NAS 硬件产品官宣](https://m.ithome.com/html/864604.htm)
 
++ [国产电影票房奇迹《哪吒之魔童闹海》密钥今晚到期下映：上映 153 天曾延期四次，豪夺全球影史第五](https://m.ithome.com/html/864650.htm)
+
++ [何小鹏晒小米 YU7 Pro 汽车订单：选配 25 扬声器、20 英寸光环轮毂和车载智能冰箱](https://m.ithome.com/html/864681.htm)
+
++ [消息称小米 YU7 汽车上市效果完全超过门店预期，普遍超额完成厂家任务](https://m.ithome.com/html/864620.htm)
+
++ [没有 3C 标识也未被召回的充电宝还能用吗，法律专家释疑](https://m.ithome.com/html/864658.htm)
+
++ [小米在北京、南京为员工提供“小米青年公寓”，租金平均 1999 元 / 月](https://m.ithome.com/html/864824.htm)
+
++ [猫王音响创始人曾德钧回应“小米雷军风波事件”：将回归初心，做好本分工作](https://m.ithome.com/html/864677.htm)
+
++ [“星纪魅族科技”公众号更改名称为“魅族科技”](https://m.ithome.com/html/864641.htm)
+
++ [缔造中国汽车行业历史纪录，消息称小米上周新增锁单破 28 万](https://m.ithome.com/html/864699.htm)
+
++ [进一步打通苹果 iOS 生态：小米互联服务 App 新增支持云相册功能](https://m.ithome.com/html/864586.htm)
+

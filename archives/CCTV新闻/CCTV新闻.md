@@ -165,3 +165,5 @@
 
 + [白宫经济顾问：美国将立即重启与加拿大的贸易谈判](https://news.cctv.com/2025/07/01/ARTIs0Tzi31yJEJQdEVCxGtG250701.shtml)
 
++ [美加州南部山火持续蔓延 火势仅控制10%](https://news.cctv.com/2025/07/01/ARTIfrFCI8iQ6RsEYosMmgwP250701.shtml)
+

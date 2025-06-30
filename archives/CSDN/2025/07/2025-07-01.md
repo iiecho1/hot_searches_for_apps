@@ -135,3 +135,7 @@
 
 + [C++ 设计模式 《外卖高峰期，小明靠一键下单系统拯救了万千饥饿学子》](https://blog.csdn.net/yiqixxb/article/details/149018071)
 
++ [前端实战：实现阅读位置记忆功能?13](https://blog.csdn.net/uigwhsn04/article/details/149035509)
+
++ [基于HarmonyOS Image Kit构建的教学图像处理系统](https://blog.csdn.net/2301_77779860/article/details/149027935)
+
