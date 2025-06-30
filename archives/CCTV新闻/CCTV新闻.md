@@ -217,3 +217,13 @@
 
 + [以军称倾向于与哈马斯达成协议而不是占领加沙](https://news.cctv.com/2025/06/30/ARTIIx53r9Ss6LrfLWa2Qj9T250630.shtml)
 
++ [泰国一纸厂发生火灾 22人受伤8人失踪](https://news.cctv.com/2025/06/30/ARTI4ab9yRiSFpS6hMXEwSUI250630.shtml)
+
++ [两国务实合作帮助玻利维亚提升工业能力](https://news.cctv.com/2025/06/30/ARTIA0XI7wPFMwUnAAsG450S250630.shtml)
+
++ [凶手死亡火灾持续 美爱达荷纵火诱杀案还有大量问题未查明](https://news.cctv.com/2025/06/30/ARTI1Puieu1KxuDRTy1Ddr46250630.shtml)
+
++ [泰国一纸厂发生火灾 超10人受伤并有多人失踪](https://news.cctv.com/2025/06/30/ARTIQqJwpEZ48Xgxu0n46XIe250630.shtml)
+
++ [法国超80省发布高温橙色预警 约200所学校关闭](https://news.cctv.com/2025/06/30/ARTIiINWsgehdcUBTjGYTgs4250630.shtml)
+

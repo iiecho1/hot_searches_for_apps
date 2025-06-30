@@ -197,3 +197,5 @@
 
 + [linux运维学习第10周](https://blog.csdn.net/m0_57215217/article/details/148997966)
 
++ [自从用了飞算JavaAI我每天的工作变为了喝茶、赏它](https://blog.csdn.net/Mrxiao_bo/article/details/149020523)
+
