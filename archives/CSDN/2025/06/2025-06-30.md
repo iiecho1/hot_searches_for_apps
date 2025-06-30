@@ -209,3 +209,15 @@
 
 + [【科普】视觉引导机械臂抓取（STM32+OPENMV方案）的原理：](https://blog.csdn.net/2401_82762455/article/details/148985637)
 
++ [飞算JavaAI：力臻开发之本真，破 AI 代码之繁琐，传统项目一键生成](https://blog.csdn.net/weixin_42878111/article/details/149023465)
+
++ [华为云Flexus+DeepSeek征文｜基于华为云的快速搭建Dify-LLM应用开发平台快速搭建：星座运势分析师AI Agent](https://blog.csdn.net/mrdeam/article/details/148975157)
+
++ [架构经验总结](https://blog.csdn.net/u014259503/article/details/148959475)
+
++ [MCU、LIN收发器与LIN总线是如何进行交互的？](https://blog.csdn.net/m0_46161733/article/details/148974877)
+
++ [C++包管理工具：conan2持续集成 (CI) 教程](https://blog.csdn.net/laplaya/article/details/148973870)
+
++ [前端与 Spring Boot 后端无感 Token 刷新 - 从原理到全栈实践](https://blog.csdn.net/qq_42184486/article/details/148973231)
+
