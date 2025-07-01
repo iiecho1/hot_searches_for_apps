@@ -225,3 +225,21 @@
 
 + [佩通坦被暂停总理职务 表示将努力证明自己](https://news.cctv.com/2025/07/01/ARTIYU1C4VboGDlhDlxwTaGB250701.shtml)
 
++ [欧盟第18轮对俄制裁遇阻 斯洛伐克要求能源补偿](https://news.cctv.com/2025/07/01/ARTImyLwVyOP1hQZSneXLM33250701.shtml)
+
++ [印度化工厂爆炸事件已致36人死亡](https://news.cctv.com/2025/07/01/ARTIpnU3ByDH5L2xzc5m7gz8250701.shtml)
+
++ [美军空袭无效？卫星图像显示伊朗核设施仍在持续作业](https://news.cctv.com/2025/07/01/ARTITpRkEiiwl0eTbZ20YI2F250701.shtml)
+
++ [德国巴伐利亚州袭击事件已致1人死亡](https://news.cctv.com/2025/07/01/ARTIFk7KdmUKCg9rFhg0a10e250701.shtml)
+
++ [欧盟：数字相关立法不在与美国贸易谈判议题之列](https://news.cctv.com/2025/07/01/ARTIEtjWc9PuKNvwgSfKAMyJ250701.shtml)
+
++ [行走拉美手记｜当鲜花遇上关税——美政策不确定性搅动哥伦比亚鲜花产业链](https://news.cctv.com/2025/07/01/ARTIftm5GZAyHJwmueknsWCf250701.shtml)
+
++ [伊拉克北部基尔库克机场遭袭](https://news.cctv.com/2025/07/01/ARTIbgihSG61rCeXP84yU16E250701.shtml)
+
++ [以色列称逮捕两名受雇于伊朗的间谍嫌疑人](https://news.cctv.com/2025/07/01/ARTIiXPZU2s2cTlu9amTmEi0250701.shtml)
+
++ [德国巴伐利亚州发生持刀袭击事件 四人重伤](https://news.cctv.com/2025/07/01/ARTIMv7mSG5GavWXkgnCiK0L250701.shtml)
+

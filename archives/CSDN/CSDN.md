@@ -189,3 +189,9 @@
 
 + [mysql运维语句](https://blog.csdn.net/u014595589/article/details/149031437)
 
++ [【HarmonyOS NEXT】跳转到华为应用市场进行应用下载并更新](https://blog.csdn.net/weixin_71403100/article/details/148956158)
+
++ [Springboot + vue + uni-app小程序web端全套家具商场](https://blog.csdn.net/weixin_53961667/article/details/149031415)
+
++ [人形机器人_双足行走动力学：MIT机器人跌落自恢复算法及应用](https://blog.csdn.net/PhD0791/article/details/149031826)
+
