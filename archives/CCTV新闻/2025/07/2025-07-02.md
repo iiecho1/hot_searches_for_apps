@@ -167,3 +167,9 @@
 
 + [总台记者观察丨政治算计 武力威胁 美以推动加沙停火实为作秀](https://news.cctv.com/2025/07/02/ARTIazVhyZhNcgLJegcit9Ry250702.shtml)
 
++ [法国航空调度员罢工 多个机场航班将受影响](https://news.cctv.com/2025/07/02/ARTIEWuuSxUfMCyIWhati99Y250702.shtml)
+
++ [波兰最高法院裁定2025年总统选举结果合法有效](https://news.cctv.com/2025/07/02/ARTI3vWRO3dwf7wv7lKBrEjj250702.shtml)
+
++ [是否会驱逐马斯克？特朗普回应：得考虑一下](https://news.cctv.com/2025/07/02/ARTIIQGahYw7Sdt9b3eRJ1MT250702.shtml)
+
