@@ -39,3 +39,5 @@
 
 + [锁单远超预期，雷军 7 月 2 日晚直播分享小米 YU7 上市背后的故事](https://m.ithome.com/html/864667.htm)
 
++ [比亚迪首款“瓦罐车”海豹 06 DM-i 旅行版有望 7 月 4 日上市](https://m.ithome.com/html/864678.htm)
+

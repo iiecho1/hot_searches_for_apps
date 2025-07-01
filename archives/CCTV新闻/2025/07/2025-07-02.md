@@ -163,3 +163,5 @@
 
 + [普京签署法令 允许“不友好国家”投资者在俄投资](https://news.cctv.com/2025/07/02/ARTInttQEv151b7knToyvsfl250702.shtml)
 
++ [美国参议院通过“大而美”法案](https://news.cctv.com/2025/07/02/ARTIDRqUVc2vSEXsaRV6y6Az250702.shtml)
+
