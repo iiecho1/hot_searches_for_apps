@@ -171,3 +171,11 @@
 
 + [隧道技术篇2&&frp代理&&nps代理&&shisel代理](https://blog.csdn.net/chinese_cabbage0/article/details/148977427)
 
++ [华为云Flexus+DeepSeek征文｜基于华为云Flexus云服务的Dify一键部署方案：游戏攻略助手AI Agent](https://blog.csdn.net/mrdeam/article/details/148975034)
+
++ [全方位了解TensorRT-LLM](https://blog.csdn.net/qq_40999403/article/details/149040251)
+
++ [从单体架构到微服务：微服务架构演进与实践](https://blog.csdn.net/Landcc/article/details/148977562)
+
++ [百度文心ERNIE 4.5 大模型系列正式开源](https://blog.csdn.net/English0523/article/details/149017676)
+

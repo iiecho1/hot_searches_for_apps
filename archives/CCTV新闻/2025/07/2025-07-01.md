@@ -211,3 +211,9 @@
 
 + [巴西央行：多数巴西企业受到美贸易政策冲击](https://news.cctv.com/2025/07/01/ARTInd2bmpCJuEZk6z1j9IyO250701.shtml)
 
++ [中东媒体：叙利亚或“数月内”与以色列签和平协议](https://news.cctv.com/2025/07/01/ARTI6fqTMgLMITUMCUikr4WH250701.shtml)
+
++ [埃及支持国际原子能机构就伊核问题发挥作用](https://news.cctv.com/2025/07/01/ARTIVmkgCJjERF2qaeGDg3Bz250701.shtml)
+
++ [泰国宪法法院裁定暂停佩通坦总理职务](https://news.cctv.com/2025/07/01/ARTIpAOtph2gVAuZD9Pb1LDj250701.shtml)
+
