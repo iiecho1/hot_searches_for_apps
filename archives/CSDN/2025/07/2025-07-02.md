@@ -151,3 +151,7 @@
 
 + [什么是零知识证明（Zero-Knowledge Proof, ZKP）](https://blog.csdn.net/sunyuhua_keyboard/article/details/148997592)
 
++ [Kafka中的消费者偏移量是如何管理的？](https://blog.csdn.net/caoli201314/article/details/148996149)
+
++ [Disruptor架构哲学](https://blog.csdn.net/CSDN_SAVIOR/article/details/148673439)
+

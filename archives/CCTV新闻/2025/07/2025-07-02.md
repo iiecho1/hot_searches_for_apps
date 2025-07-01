@@ -165,3 +165,5 @@
 
 + [美国参议院通过“大而美”法案](https://news.cctv.com/2025/07/02/ARTIDRqUVc2vSEXsaRV6y6Az250702.shtml)
 
++ [总台记者观察丨政治算计 武力威胁 美以推动加沙停火实为作秀](https://news.cctv.com/2025/07/02/ARTIazVhyZhNcgLJegcit9Ry250702.shtml)
+
