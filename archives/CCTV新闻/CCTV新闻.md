@@ -161,3 +161,5 @@
 
 + [马来西亚官方：停泊岛翻船事件驾船者疑吸毒](https://news.cctv.com/2025/06/30/ARTIj8GlJ8G4bTFt9SBAc24l250630.shtml)
 
++ [普京签署法令 允许“不友好国家”投资者在俄投资](https://news.cctv.com/2025/07/02/ARTInttQEv151b7knToyvsfl250702.shtml)
+
