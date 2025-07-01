@@ -101,3 +101,13 @@
 
 + [FastDFS 分布式存储](https://blog.csdn.net/2501_91351480/article/details/149025918)
 
++ [Spring AI 中 MCP 架构与工具调用技术详解](https://blog.csdn.net/llwszx/article/details/148986736)
+
++ [基于HarmonyOS Speech Kit构建的多模态语言学习引擎](https://blog.csdn.net/hmfjm/article/details/149028552)
+
++ [学习React官方文档（描述UI）](https://blog.csdn.net/qq_45902692/article/details/148994237)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | ThemeClock（主题时钟）](https://blog.csdn.net/qq_44808710/article/details/149032295)
+
++ [GitHub vs GitLab 全面对比报告（2025版）](https://blog.csdn.net/hebtu666/article/details/149002333)
+
