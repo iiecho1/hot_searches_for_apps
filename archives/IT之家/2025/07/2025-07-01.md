@@ -57,3 +57,17 @@
 
 + [锁单远超预期，雷军 7 月 2 日晚直播分享小米 YU7 上市背后的故事](https://m.ithome.com/html/864667.htm)
 
++ [特斯拉中国 Model 3 / Y 长续航版车型宣布升级：前者涨价 1 万元（现 28.55 万元），续航提升 + 标配加速包](https://m.ithome.com/html/864893.htm)
+
++ [国铁 12306 回应“充电宝上高铁”要求：不查 3C 标识或品牌，额定能量不超 100Wh 即可携带](https://m.ithome.com/html/864937.htm)
+
++ [70.8 万元起，鸿蒙智行尊界 S800 轿车上市首月大定突破 6500 台](https://m.ithome.com/html/864829.htm)
+
++ [《哪吒 2》最终票房出炉：累计 154.45 亿，豪夺内地影史多项冠军](https://m.ithome.com/html/864819.htm)
+
++ [何小鹏预定一台小米 YU7，雷军回复“力争早交车”并祝小鹏 G7 发布会成功](https://m.ithome.com/html/864727.htm)
+
++ [郭明錤：苹果 13 寸低价版 MacBook 预计将于今年底明年初量产，配备 A18 Pro 芯片](https://m.ithome.com/html/864747.htm)
+
++ [安克称充电宝召回率已达 10%，发出超 8 万个防火保护袋](https://m.ithome.com/html/864775.htm)
+
