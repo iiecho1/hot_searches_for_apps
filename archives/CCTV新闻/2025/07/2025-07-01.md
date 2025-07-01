@@ -191,3 +191,15 @@
 
 + [韩国前总统尹锡悦未出席内乱特检组传唤调查](https://news.cctv.com/2025/07/01/ARTIRUDcxiQ6E5hu3AUqPtiR250701.shtml)
 
++ [土耳其总统：安卡拉将承办2026年北约峰会](https://news.cctv.com/2025/07/01/ARTINvpxOBsnOb2eVghtd9lg250701.shtml)
+
++ [“因身体原因”？韩前总统尹锡悦未出席独检组传唤调查](https://news.cctv.com/2025/07/01/ARTIaPAy8YtjgZYb1vvvPlal250701.shtml)
+
++ [泰国内阁完成新一轮改组](https://news.cctv.com/2025/07/01/ARTIszJotcoYaI947VqjCAKw250701.shtml)
+
++ [特朗普签署行政令 解除对叙利亚的制裁](https://news.cctv.com/2025/07/01/ARTI9UKfZr1ZpFznZkdAvXn5250701.shtml)
+
++ [西班牙高铁线路电力故障影响多趟列车](https://news.cctv.com/2025/07/01/ARTIWIdjWvCJKOKPfr7qenDw250701.shtml)
+
++ [欧洲央行决定维持2%的通胀目标](https://news.cctv.com/2025/07/01/ARTI52PvCgZE4Fr1ekHBmzsz250701.shtml)
+

@@ -49,3 +49,11 @@
 
 + [进一步打通苹果 iOS 生态：小米互联服务 App 新增支持云相册功能](https://m.ithome.com/html/864586.htm)
 
++ [铁头为华为 Pura80 Ultra 手机推出摄影套装：提供跟焦供电侧手柄 / 散热器等配件，3299 元](https://m.ithome.com/html/864639.htm)
+
++ [明天起买卖所有医保药品都要“扫码”](https://m.ithome.com/html/864719.htm)
+
++ [小鹏汽车副总裁陈永海：G7 卖到 20 万元以内“绝无可能”](https://m.ithome.com/html/864860.htm)
+
++ [锁单远超预期，雷军 7 月 2 日晚直播分享小米 YU7 上市背后的故事](https://m.ithome.com/html/864667.htm)
+

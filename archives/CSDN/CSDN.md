@@ -147,3 +147,13 @@
 
 + [银河麒麟系统上利用WPS的SDK进行WORD的二次开发](https://blog.csdn.net/haokan123456789/article/details/149032218)
 
++ [飞算JavaAI：重新定义研发效能，让代码生成如丝般顺滑](https://blog.csdn.net/lwcwam/article/details/149033176)
+
++ [深度揭秘FlashTable：AI赋能低代码开发，重塑企业级应用构建范式](https://blog.csdn.net/Dreamy_zsy/article/details/149037660)
+
++ [数字孪生技术引领UI前端设计新革命：实时交互与模拟预测](https://blog.csdn.net/assjzxcvb/article/details/148973826)
+
++ [【VR光照优化】VR中光照与天空盒模糊问题分析与优化：闪烁、色带与清晰度的全面解决方案](https://blog.csdn.net/qq_41140324/article/details/148995874)
+
++ [FastDFS 分布式存储](https://blog.csdn.net/2501_91351480/article/details/149025918)
+
