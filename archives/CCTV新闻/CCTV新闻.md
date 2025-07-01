@@ -245,3 +245,9 @@
 
 + [日本官员：不会在日美关税谈判中牺牲农业](https://news.cctv.com/2025/07/01/ARTIsoaBds3lHuKPhogYP3YF250701.shtml)
 
++ [印尼5月贸易顺差43亿美元 连续61个月保持顺差](https://news.cctv.com/2025/07/01/ARTIxvtHZGD2bYb2HcMb8RWy250701.shtml)
+
++ [76名被拐骗的加纳人在尼日利亚获救](https://news.cctv.com/2025/07/01/ARTIXMZFcNVaSVxNgmv3F4vZ250701.shtml)
+
++ [日本单周新增“苹果病”和百日咳病例均创新高](https://news.cctv.com/2025/07/01/ARTImI9oU7tauTTnsD76j2HM250701.shtml)
+

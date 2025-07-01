@@ -221,3 +221,7 @@
 
 + [Linux 系统管理：自动化运维与容器化部署](https://blog.csdn.net/weixin_66924704/article/details/149034301)
 
++ [vue2：实现video视频禁止拖拽快进快退功能+禁止拖动进度条快进+禁止调整倍速播放，如何限制用户绝对禁止拖动进度条保证完整观看完视频及记录观看时长（全部浏览器强力禁止，支持移动端H5网页/PC端）](https://blog.csdn.net/weixin_50545213/article/details/149049144)
+
++ [1.1_2 计算机网络的组成和功能](https://blog.csdn.net/Lswblue/article/details/149028715)
+
