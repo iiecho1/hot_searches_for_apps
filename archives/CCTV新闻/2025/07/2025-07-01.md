@@ -243,3 +243,5 @@
 
 + [德国巴伐利亚州发生持刀袭击事件 四人重伤](https://news.cctv.com/2025/07/01/ARTIMv7mSG5GavWXkgnCiK0L250701.shtml)
 
++ [日本官员：不会在日美关税谈判中牺牲农业](https://news.cctv.com/2025/07/01/ARTIsoaBds3lHuKPhogYP3YF250701.shtml)
+
