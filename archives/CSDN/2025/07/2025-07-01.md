@@ -179,3 +179,13 @@
 
 + [百度文心ERNIE 4.5 大模型系列正式开源](https://blog.csdn.net/English0523/article/details/149017676)
 
++ [飞算 JavaAI 开发助手：深度学习驱动下的 Java 全链路智能开发新范式](https://blog.csdn.net/weixin_62765017/article/details/149037436)
+
++ [分布式架构的黄金拼图：Spring Cloud深度解剖](https://blog.csdn.net/2301_80795057/article/details/149041638)
+
++ [华为云Flexus+DeepSeek征文｜基于华为云MaaS平台DeepSeek大模型推理服务搭建自我成长顾问导师智能体](https://blog.csdn.net/mrdeam/article/details/149001896)
+
++ [大数据(4)-spark](https://blog.csdn.net/weixin_61006262/article/details/149030680)
+
++ [mysql运维语句](https://blog.csdn.net/u014595589/article/details/149031437)
+

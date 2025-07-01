@@ -71,3 +71,5 @@
 
 + [安克称充电宝召回率已达 10%，发出超 8 万个防火保护袋](https://m.ithome.com/html/864775.htm)
 
++ [比亚迪首款“瓦罐车”海豹 06 DM-i 旅行版有望 7 月 4 日上市](https://m.ithome.com/html/864678.htm)
+

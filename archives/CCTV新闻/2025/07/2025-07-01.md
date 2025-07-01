@@ -217,3 +217,11 @@
 
 + [泰国宪法法院裁定暂停佩通坦总理职务](https://news.cctv.com/2025/07/01/ARTIpAOtph2gVAuZD9Pb1LDj250701.shtml)
 
++ [泰国副总理出任看守总理](https://news.cctv.com/2025/07/01/ARTIBBq19F2AezT4zFbrAV1F250701.shtml)
+
++ [马斯克威胁让支持“大而美”法案的议员落选](https://news.cctv.com/2025/07/01/ARTIVYR9NFh7rypRAALDuFXY250701.shtml)
+
++ [特朗普回应马斯克抨击“大而美”法案：你拿的补贴比谁都多](https://news.cctv.com/2025/07/01/ARTIo17IUqHaswdsWMrXousG250701.shtml)
+
++ [佩通坦被暂停总理职务 表示将努力证明自己](https://news.cctv.com/2025/07/01/ARTIYU1C4VboGDlhDlxwTaGB250701.shtml)
+
