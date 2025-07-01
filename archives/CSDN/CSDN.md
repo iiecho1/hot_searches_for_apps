@@ -157,3 +157,5 @@
 
 + [FastDFS 分布式存储](https://blog.csdn.net/2501_91351480/article/details/149025918)
 
++ [【Rust操作MySql】Actix Web 框架结合 MySQL 数据库进行交互](https://blog.csdn.net/littlefun591/article/details/149017620)
+

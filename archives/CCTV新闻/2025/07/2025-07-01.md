@@ -203,3 +203,9 @@
 
 + [欧洲央行决定维持2%的通胀目标](https://news.cctv.com/2025/07/01/ARTI52PvCgZE4Fr1ekHBmzsz250701.shtml)
 
++ [美国务院批准对以色列5.1亿美元军售](https://news.cctv.com/2025/07/01/ARTIgMcCqZIDt2JvvJAvL7dI250701.shtml)
+
++ [以军袭击加沙地带多地致多人死伤 含记者和儿童](https://news.cctv.com/2025/07/01/ARTIjowInawxEoQMwcJ7YrX9250701.shtml)
+
++ [印度化工厂爆炸事件死亡人数升至34人](https://news.cctv.com/2025/07/01/ARTIWorGir40heZan4wI2d77250701.shtml)
+
