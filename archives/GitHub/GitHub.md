@@ -31,3 +31,17 @@
 
 + [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)
 
++ [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
+
++ [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+
++ [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)
+
++ [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
+
++ [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
+
