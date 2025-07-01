@@ -111,3 +111,31 @@
 
 + [GitHub vs GitLab 全面对比报告（2025版）](https://blog.csdn.net/hebtu666/article/details/149002333)
 
++ [Python时间序列平滑技术完全指南：6种主流方法原理与实战应用](https://blog.csdn.net/m0_46510245/article/details/149041695)
+
++ [用python可视化南方大暴雨及洪水数据分析](https://blog.csdn.net/weixin_40637477/article/details/149018119)
+
++ [TCP/UDP协议深度解析（三）：TCP流量控制的魔法—滑动窗口、拥塞控制与ACK的智慧](https://blog.csdn.net/to_mountain/article/details/148956176)
+
++ [SpringCloud系列（42）--搭建SpringCloud Config分布式配置总控中心（服务端）](https://blog.csdn.net/m0_64284147/article/details/139050855)
+
++ [基于yolov11的小鸡鸡苗行为状态检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/149027158)
+
++ [星火燎原 数智新生 —— 《GB/T 45341—2025》 × AI大模型 × 全域PaaS创新，领码SPARK打造行业数字化转型新范式](https://blog.csdn.net/lgf228/article/details/149004175)
+
++ [vue上传各种文件，并预览组件，（预览，下载），下载resources目录下文件](https://blog.csdn.net/WYT11/article/details/149029920)
+
++ [MySQL 慢查询日志详解](https://blog.csdn.net/qq_41964263/article/details/149030576)
+
++ [【网络&WebSocket】WebSocket&C# 客户端连接](https://blog.csdn.net/weixin_47220117/article/details/149029363)
+
++ [大模型中的长短期记忆机制实现详解](https://blog.csdn.net/qq_16242613/article/details/148999197)
+
++ [​扣子Coze飞书多维表插件-创建数据表](https://blog.csdn.net/weixin_47115107/article/details/148034246)
+
++ [dotnet-env: .NET 开发者的环境变量加载工具](https://blog.csdn.net/qq_40732336/article/details/149021616)
+
++ [人形机器人_双足行走动力学：MIT机器人跌落自恢复算法及应用](https://blog.csdn.net/PhD0791/article/details/149031826)
+
++ [基于Java+SpringBoot+微信小程序中小学生传统文化研学系统(源码+LW+调试文档+讲解等)/中小学生研学项目/传统文化研学课程/青少年传统文化教育/中小学生文化教育/传统文化体验活动](https://blog.csdn.net/2401_83589664/article/details/148985631)
+
