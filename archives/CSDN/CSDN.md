@@ -145,3 +145,5 @@
 
 + [Spring AI 中 MCP 架构与工具调用技术详解](https://blog.csdn.net/llwszx/article/details/148986736)
 
++ [银河麒麟系统上利用WPS的SDK进行WORD的二次开发](https://blog.csdn.net/haokan123456789/article/details/149032218)
+
