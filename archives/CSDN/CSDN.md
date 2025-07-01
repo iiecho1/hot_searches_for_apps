@@ -165,3 +165,9 @@
 
 + [核心骨架: 小程序双线程架构](https://blog.csdn.net/qq_44746132/article/details/148995437)
 
++ [飞算 JavaAI 使用体验全解析](https://blog.csdn.net/qyj19920704/article/details/149035174)
+
++ [文心大模型 4.5 系列开源首发：技术深度解析与应用指南](https://blog.csdn.net/qq_44866828/article/details/149033300)
+
++ [隧道技术篇2&&frp代理&&nps代理&&shisel代理](https://blog.csdn.net/chinese_cabbage0/article/details/148977427)
+

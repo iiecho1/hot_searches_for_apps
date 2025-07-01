@@ -209,3 +209,5 @@
 
 + [印度化工厂爆炸事件死亡人数升至34人](https://news.cctv.com/2025/07/01/ARTIWorGir40heZan4wI2d77250701.shtml)
 
++ [巴西央行：多数巴西企业受到美贸易政策冲击](https://news.cctv.com/2025/07/01/ARTInd2bmpCJuEZk6z1j9IyO250701.shtml)
+
