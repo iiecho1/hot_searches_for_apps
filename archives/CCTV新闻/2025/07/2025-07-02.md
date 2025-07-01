@@ -173,3 +173,9 @@
 
 + [是否会驱逐马斯克？特朗普回应：得考虑一下](https://news.cctv.com/2025/07/02/ARTIIQGahYw7Sdt9b3eRJ1MT250702.shtml)
 
++ [卡塔尔向以色列及哈马斯提交加沙停火协议新提案](https://news.cctv.com/2025/07/02/ARTIOwpp5eraVEZL9hwd9ss8250702.shtml)
+
++ [特朗普称不考虑延长关税谈判最后期限](https://news.cctv.com/2025/07/02/ARTIs5ELQ27U6eCbAdvitEbj250702.shtml)
+
++ [以色列发布对伊朗军事行动报告 评估自研武器系统](https://news.cctv.com/2025/07/02/ARTIQi54n8TNeeZWtEzskcrO250702.shtml)
+
