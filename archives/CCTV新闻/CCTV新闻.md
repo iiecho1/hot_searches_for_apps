@@ -195,3 +195,5 @@
 
 + [法国发布人工智能在企业全面推广计划](https://news.cctv.com/2025/07/02/ARTI1OksNOxVJsLaL5RzvI6X250702.shtml)
 
++ [为遏制暴力事件 荷兰将禁止个人在新年前夜燃放烟花爆竹](https://news.cctv.com/2025/07/02/ARTIR7NOBsvPnpXY598W2NmL250702.shtml)
+

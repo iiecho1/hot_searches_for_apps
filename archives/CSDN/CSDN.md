@@ -185,3 +185,9 @@
 
 + [人机融合智能 | 人智交互中的人类状态识别](https://blog.csdn.net/qq_41640218/article/details/149061358)
 
++ [应用场景全解析：飞算 JavaAI 的实战舞台](https://blog.csdn.net/2301_80543957/article/details/149048451)
+
++ [web服务器搭建nginx](https://blog.csdn.net/m0_58970439/article/details/148901358)
+
++ [笔记/计算机网络](https://blog.csdn.net/Love__Tay/article/details/149056119)
+
