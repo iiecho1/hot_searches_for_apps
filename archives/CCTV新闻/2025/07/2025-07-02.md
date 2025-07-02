@@ -197,3 +197,9 @@
 
 + [为遏制暴力事件 荷兰将禁止个人在新年前夜燃放烟花爆竹](https://news.cctv.com/2025/07/02/ARTIR7NOBsvPnpXY598W2NmL250702.shtml)
 
++ [美国暂停对乌克兰的部分军援](https://military.cctv.com/2025/07/02/ARTIkl32odXE1RdirlGFYZct250702.shtml)
+
++ [日本经历120多年来最热6月](https://news.cctv.com/2025/07/02/ARTIOFCk9Bp22ZRN1cj04EmW250702.shtml)
+
++ [英格兰经历有记录以来最热6月](https://news.cctv.com/2025/07/02/ARTItT6x1NC4SQvHJ7yI7jAU250702.shtml)
+
