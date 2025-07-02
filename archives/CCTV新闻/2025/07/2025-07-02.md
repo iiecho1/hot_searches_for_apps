@@ -225,3 +225,9 @@
 
 + [供应短缺、价格高涨，印度化肥告急冲击农业生产](https://news.cctv.com/2025/07/02/ARTIBCiCDEF7nww6LwrFOept250702.shtml)
 
++ [俄罗斯圣彼得堡国立大学东方系常务副主任罗季奥诺夫——“越来越体会到中国文化的伟大和深厚”](https://news.cctv.com/2025/07/02/ARTI70ckvVpG2B8G7TU62lp6250702.shtml)
+
++ [半月谈丨服贸处罚，为欧美关税谈判破局？](https://news.cctv.com/2025/07/02/ARTIDg5DsG6GtIe9esYFBxuC250702.shtml)
+
++ [国际观察：“大金砖”合作里约再出发](https://news.cctv.com/2025/07/02/ARTIHtOxxACfdP0Yx5KoOZuD250702.shtml)
+
