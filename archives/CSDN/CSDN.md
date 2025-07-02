@@ -199,3 +199,9 @@
 
 + [python+uniapp基于微信小程序的适老化背景下老年人康养知识线上学习系统nodejs+java](https://blog.csdn.net/Q_Q511008285/article/details/148950869)
 
++ [07.Cursor 高级协作技巧：成为AI指挥家](https://blog.csdn.net/github_37499193/article/details/149051345)
+
++ [CUDA性能优化实战：7个步骤让并行归约算法提升10倍效率](https://blog.csdn.net/m0_46510245/article/details/149064504)
+
++ [Vue3 中 Excel 导出的性能优化与实战指南](https://blog.csdn.net/x15514104477/article/details/149054730)
+

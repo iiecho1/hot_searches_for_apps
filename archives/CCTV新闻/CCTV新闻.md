@@ -209,3 +209,15 @@
 
 + [挪威彩票机构闹乌龙 数千彩民经历“黄粱一梦”](https://news.cctv.com/2025/07/02/ARTIBnocL4ziMBHN13cVEPUs250702.shtml)
 
++ [7月9日大限将至 欧盟对美贸易谈判立场转强硬](https://news.cctv.com/2025/07/02/ARTInWktstraNdpeUGnUxEjh250702.shtml)
+
++ [火灾6年后 巴黎圣母院尖塔将首次对游客重新开放](https://news.cctv.com/2025/07/02/ARTI3PPtY2Vz4uZBrTWOopz9250702.shtml)
+
++ [日本鹿儿岛县附近海域再发生5级以上地震](https://news.cctv.com/2025/07/02/ARTIZRFP5idlziLoKL4THjTX250702.shtml)
+
++ [澳大利亚“炸弹气旋”持续肆虐 超500万人受恶劣天气影响](https://news.cctv.com/2025/07/02/ARTI9QEmJQJxWcSJHQnxyie0250702.shtml)
+
++ [斐济群岛地区发生5.7级地震，震源深度530千米](https://news.cctv.com/2025/07/02/ARTIH1D1Z2KQuk4CN2OUFmp7250702.shtml)
+
++ [斐济群岛地区附近发生6.0级左右地震](https://news.cctv.com/2025/07/02/ARTIPdZsKKqLbTP5tF9PpbmM250702.shtml)
+
