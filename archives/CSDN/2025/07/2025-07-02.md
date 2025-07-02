@@ -165,3 +165,11 @@
 
 + [Redis分布式锁核心原理源码](https://blog.csdn.net/2301_77599076/article/details/148998554)
 
++ [基于ApachePOI实现百度POI分类快速导入PostgreSQL数据库实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/148987307)
+
++ [新能源汽车功率级测试自动化方案：从理论到实践的深度解析](https://blog.csdn.net/weixin_62244995/article/details/149053902)
+
++ [数据同步工具对比：Canal、DataX与Flink CDC](https://blog.csdn.net/wangyantao111/article/details/149001327)
+
++ [【RTSP从零实践】4、使用RTP协议封装并传输AAC](https://blog.csdn.net/wkd_007/article/details/149044919)
+

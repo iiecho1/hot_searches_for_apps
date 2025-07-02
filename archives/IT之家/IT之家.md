@@ -41,3 +41,23 @@
 
 + [比亚迪首款“瓦罐车”海豹 06 DM-i 旅行版有望 7 月 4 日上市](https://m.ithome.com/html/864678.htm)
 
++ [2025 年 6 月汽车销量 / 交付汇总：北汽集团上半年整车销量突破 81.7 万辆，中国一汽突破 157.1 万辆（实时更新）](https://m.ithome.com/html/864911.htm)
+
++ [“闪亮新作，通透新体验”：苹果 iOS / macOS 26 等新系统中文介绍上线官网](https://m.ithome.com/html/864954.htm)
+
++ [实探小米汽车工厂：76 秒下线一辆车，自动化水平令人惊叹](https://m.ithome.com/html/864977.htm)
+
++ [比亚迪 6 月汽车销量 38.25 万辆，同比增长 11.9%](https://m.ithome.com/html/865060.htm)
+
++ [首批二代身份证迎来换证高峰，多地推出网上通办服务](https://m.ithome.com/html/864972.htm)
+
++ [小米汽车 6 月交付量超过 25000 台，正全力以赴抓紧生产 SU7 / YU7](https://m.ithome.com/html/864918.htm)
+
++ [银行“清卡”行动再起，多家银行同时启动个人账户清理工作](https://m.ithome.com/html/865095.htm)
+
++ [理想汽车罕见下跌：6 月交付量 36279 辆，同比下降 24%、环比下降 11.2%](https://m.ithome.com/html/865038.htm)
+
++ [小米 YU7 汽车 7 月 6 日开启限时改配，改配成功将重新计算预计交付时间](https://m.ithome.com/html/864901.htm)
+
++ [河南省上牌 20 万元及以上“华系车”每车补贴 3000 元，工作人员称属于“定向补贴”](https://m.ithome.com/html/864993.htm)
+

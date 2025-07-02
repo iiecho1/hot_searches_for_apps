@@ -181,3 +181,5 @@
 
 + [西班牙度过“最热六月”，葡萄牙热浪“创下新高”，新一轮极端高温炙烤欧洲多国](https://news.cctv.com/2025/07/02/ARTIEWRC2T1jkWkjvLb1BZjT250702.shtml)
 
++ [民调：政治暴力令大多数美国民众担忧](https://news.cctv.com/2025/07/02/ARTIDAAGELpLb4EgkRWk2Nuw250702.shtml)
+
