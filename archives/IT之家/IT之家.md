@@ -25,3 +25,7 @@
 
 + [苹果最薄 iPhone 17 Air 再曝：最薄处 5.5 毫米、4800 万后置单摄、6.6 英寸 120Hz 屏幕](https://m.ithome.com/html/865206.htm)
 
++ [实探小米汽车工厂：76 秒下线一辆车，自动化水平令人惊叹](https://m.ithome.com/html/864977.htm)
+
++ [首批二代身份证迎来换证高峰，多地推出网上通办服务](https://m.ithome.com/html/864972.htm)
+
