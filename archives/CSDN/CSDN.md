@@ -247,3 +247,5 @@
 
 + [UniApp完全支持快应用QUICKAPP-以及如何采用 Uni 模式开发发行快应用优雅草卓伊凡](https://blog.csdn.net/dujiangdu123/article/details/149057538)
 
++ [uniapp微信小程序报错：No module factory available for dependency type: CssDependency（uniApp运行到小程序端报错，无法启动项目）](https://blog.csdn.net/weixin_50545213/article/details/149073714)
+
