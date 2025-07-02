@@ -137,3 +137,5 @@
 
 + [【大模型学习 | BLIP2原理】](https://blog.csdn.net/weixin_51908696/article/details/149050871)
 
++ [【VR光照优化】VR中光照与天空盒模糊问题分析与优化：闪烁、色带与清晰度的全面解决方案](https://blog.csdn.net/qq_41140324/article/details/148995874)
+
