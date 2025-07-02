@@ -227,3 +227,11 @@
 
 + [基于 Vue + RuoYi 架构设计的商城Web/小程序实训课程](https://blog.csdn.net/suny8/article/details/149044281)
 
++ [飞算 JavaAI：我的编程强力助推引擎](https://blog.csdn.net/sixpp/article/details/149044488)
+
++ [Flash Table实测：JAI赋能低代码开发，重塑企业级应用构建范式](https://blog.csdn.net/Dreamy_zsy/article/details/149037660)
+
++ [设置linux静态IP，主机名与IP地址映射，创建 Linux 用户和用户组，SSH免密登录](https://blog.csdn.net/2301_80484013/article/details/149053740)
+
++ [TDocStd_Document 的事务和撤销/重做（Undo/Redo）机制](https://blog.csdn.net/qq_43689451/article/details/149067604)
+
