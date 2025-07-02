@@ -61,3 +61,13 @@
 
 + [河南省上牌 20 万元及以上“华系车”每车补贴 3000 元，工作人员称属于“定向补贴”](https://m.ithome.com/html/864993.htm)
 
++ [上市 2699 元 → 今日 1291 元：小米平板 6 Pro 256G 版国补后腰斩](https://m.ithome.com/html/865024.htm)
+
++ [小米运动健康 App 悄悄上线会员服务：开通后可免费使用部分表盘，19.9 元 / 月](https://m.ithome.com/html/865122.htm)
+
++ [鸿蒙智行问界未来车型曝光：钠新电池、峰值 12C 超级快充](https://m.ithome.com/html/865121.htm)
+
++ [OPPO ColorOS 系统确认后续会接入 12306](https://m.ithome.com/html/865057.htm)
+
++ [2025 年 6 月汽车销量 / 交付榜：比亚迪超 38.25 万辆继续领跑，鸿蒙智行全系交付新车 52747 辆夺新势力销冠](https://m.ithome.com/html/865125.htm)
+

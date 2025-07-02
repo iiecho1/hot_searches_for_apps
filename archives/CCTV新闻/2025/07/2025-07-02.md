@@ -183,3 +183,13 @@
 
 + [民调：政治暴力令大多数美国民众担忧](https://news.cctv.com/2025/07/02/ARTIDAAGELpLb4EgkRWk2Nuw250702.shtml)
 
++ [哈马斯称加沙地带数百名儿童感染脑膜炎](https://news.cctv.com/2025/07/02/ARTIobzIsdQvaZUgUDDkOVb3250702.shtml)
+
++ [美国驻以色列大使：或许该轰炸也门胡塞武装](https://military.cctv.com/2025/07/02/ARTIv5DwFxM7FfdS8OFTHT7L250702.shtml)
+
++ [俄货运飞船结束任务坠入太平洋](https://news.cctv.com/2025/07/02/ARTIVNkoYc7T3JmimsPGbQKb250702.shtml)
+
++ [联合国：苏丹法希尔市4月以来超40万人流离失所](https://news.cctv.com/2025/07/02/ARTITWrHuM0OGCGtBOuYHsXS250702.shtml)
+
++ [以总理下周访美 特朗普再催加沙停火](https://news.cctv.com/2025/07/02/ARTIhxBj9qK2WvQMFxAnKlzk250702.shtml)
+

@@ -173,3 +173,15 @@
 
 + [【RTSP从零实践】4、使用RTP协议封装并传输AAC](https://blog.csdn.net/wkd_007/article/details/149044919)
 
++ [飞算JavaAI：重构软件开发范式的智能引擎](https://blog.csdn.net/2302_78391795/article/details/149053430)
+
++ [【Actix Web ORM】Rust ORM框架SeaORM应用实战](https://blog.csdn.net/littlefun591/article/details/149051247)
+
++ [【计算机网络架构】总线型架构简介](https://blog.csdn.net/wnm23/article/details/149005722)
+
++ [在 Spring Boot 中使用 MyBatis-Plus 的详细教程](https://blog.csdn.net/2503_92145588/article/details/148995984)
+
++ [成就DeepSeek超级个体：提示专家+职场高手+编程极客的三维跃迁](https://blog.csdn.net/qq_32682301/article/details/149031198)
+
++ [人机融合智能 | 人智交互中的人类状态识别](https://blog.csdn.net/qq_41640218/article/details/149061358)
+
