@@ -235,3 +235,15 @@
 
 + [TDocStd_Document 的事务和撤销/重做（Undo/Redo）机制](https://blog.csdn.net/qq_43689451/article/details/149067604)
 
++ [从零构建高性能MPP数据库平台：DM8分布式集群部署](https://blog.csdn.net/qq_41840843/article/details/148483855)
+
++ [1.MySQL之如何定位慢查询](https://blog.csdn.net/weixin_73692078/article/details/149055426)
+
++ [Java 后端工程师的日志管理艺术：SLF4J/Logback 配置与 ELK 集成](https://blog.csdn.net/HappyAcmen/article/details/149063165)
+
++ [免费版安全性缩水？ToDesk、TeamViewer、向日葵、网易UU远程访问&隐私防护测评](https://blog.csdn.net/aasd23/article/details/149076532)
+
++ [React Native 接入 eCharts](https://blog.csdn.net/qq_42866164/article/details/149056304)
+
++ [UniApp完全支持快应用QUICKAPP-以及如何采用 Uni 模式开发发行快应用优雅草卓伊凡](https://blog.csdn.net/dujiangdu123/article/details/149057538)
+

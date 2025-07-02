@@ -231,3 +231,5 @@
 
 + [国际观察：“大金砖”合作里约再出发](https://news.cctv.com/2025/07/02/ARTIHtOxxACfdP0Yx5KoOZuD250702.shtml)
 
++ [英媒：欧盟对美关税采取更强硬立场](https://news.cctv.com/2025/07/02/ARTI14G7hhVnzFnwOSTjwM7X250702.shtml)
+
