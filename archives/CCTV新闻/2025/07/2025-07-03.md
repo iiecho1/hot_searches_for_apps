@@ -161,3 +161,11 @@
 
 + [白宫经济顾问：美国将立即重启与加拿大的贸易谈判](https://news.cctv.com/2025/07/01/ARTIs0Tzi31yJEJQdEVCxGtG250701.shtml)
 
++ [德国前总理默克尔：欧盟不应惧怕美国的关税](https://news.cctv.com/2025/07/03/ARTIErDrhZWPUWWtbgAw2u8M250703.shtml)
+
++ [伊朗官员：若敌人再次侵略 伊方将做出毁灭性回应](https://news.cctv.com/2025/07/03/ARTInlkHax95Isxl9sXiS5W1250703.shtml)
+
++ [热浪肆虐 西班牙6月已有超300人因高温天气死亡](https://news.cctv.com/2025/07/03/ARTIFmtXuihWbuEnKN6L7u8w250703.shtml)
+
++ [叙利亚中部一辆油罐车发生爆炸 造成多名平民死亡](https://news.cctv.com/2025/07/03/ARTIEv7LvDVZ4xu4LgD2yp06250703.shtml)
+

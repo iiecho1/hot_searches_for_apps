@@ -139,3 +139,5 @@
 
 + [【VR光照优化】VR中光照与天空盒模糊问题分析与优化：闪烁、色带与清晰度的全面解决方案](https://blog.csdn.net/qq_41140324/article/details/148995874)
 
++ [使用pyflink进行kafka实时数据消费](https://blog.csdn.net/zhubaoJay/article/details/149022870)
+
