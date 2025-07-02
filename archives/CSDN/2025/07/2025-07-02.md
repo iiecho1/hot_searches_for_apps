@@ -157,3 +157,11 @@
 
 + [EA自动交易完全指南：从策略设计到实盘部署](https://blog.csdn.net/aa84758481/article/details/149029926)
 
++ [飞算 JavaAI 使用体验全解析](https://blog.csdn.net/qyj19920704/article/details/149035174)
+
++ [【Linux手册】进程等待：必要性剖析与wait、waitpid等多种方式实操指南](https://blog.csdn.net/2401_87944878/article/details/148775909)
+
++ [分库分表之实战-sharding-JDBC](https://blog.csdn.net/chandfy/article/details/148978522)
+
++ [Redis分布式锁核心原理源码](https://blog.csdn.net/2301_77599076/article/details/148998554)
+
