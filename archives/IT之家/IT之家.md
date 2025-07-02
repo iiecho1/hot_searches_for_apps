@@ -73,3 +73,7 @@
 
 + [腾讯：QQ 将全面接入微信小程序，建议开发者尽快迁移降低维护成本](https://m.ithome.com/html/864991.htm)
 
++ [小米汽车二期工厂紧急招工，应对 YU7 产能之急](https://m.ithome.com/html/865169.htm)
+
++ [苹果最薄 iPhone 17 Air 再曝：最薄处 5.5 毫米、4800 万后置单摄、6.6 英寸 120Hz 屏幕](https://m.ithome.com/html/865206.htm)
+

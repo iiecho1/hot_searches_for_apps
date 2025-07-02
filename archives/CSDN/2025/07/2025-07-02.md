@@ -195,3 +195,7 @@
 
 + [vue3.0所采用得Composition Api与Vue2.XOtions Api有什么不同？](https://blog.csdn.net/qq_25416827/article/details/149030981)
 
++ [飞算 JavaAI 深度实战：从老项目重构到全栈开发的降本增效密码](https://blog.csdn.net/atgfg/article/details/149029476)
+
++ [python+uniapp基于微信小程序的适老化背景下老年人康养知识线上学习系统nodejs+java](https://blog.csdn.net/Q_Q511008285/article/details/148950869)
+
