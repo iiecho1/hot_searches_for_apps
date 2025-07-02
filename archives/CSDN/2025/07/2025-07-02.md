@@ -205,3 +205,13 @@
 
 + [Vue3 中 Excel 导出的性能优化与实战指南](https://blog.csdn.net/x15514104477/article/details/149054730)
 
++ [快速上手SpringBoot整合JPA](https://blog.csdn.net/2404_87285359/article/details/149045166)
+
++ [Qt音视频开发技巧/推流带旋转角度/rtsprtmp推流/保存文件到MP4/拉流解析旋转角度](https://blog.csdn.net/feiyangqingyun/article/details/149066074)
+
++ [python+uniapp基于微信小程序的PS社区系统](https://blog.csdn.net/Q_Q1963288475/article/details/148950569)
+
++ [1.1_2 计算机网络的组成和功能](https://blog.csdn.net/Lswblue/article/details/149028715)
+
++ [深入理解 MVCC：数据库高并发的核心引擎](https://blog.csdn.net/qq_74825504/article/details/149025178)
+

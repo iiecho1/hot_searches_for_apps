@@ -221,3 +221,7 @@
 
 + [斐济群岛地区附近发生6.0级左右地震](https://news.cctv.com/2025/07/02/ARTIPdZsKKqLbTP5tF9PpbmM250702.shtml)
 
++ [特朗普真的可以驱逐马斯克？原来，马斯克也曾是“非法移民”](https://news.cctv.com/2025/07/02/ARTIQrMU97KKzpWGPC7Fdhtt250702.shtml)
+
++ [供应短缺、价格高涨，印度化肥告急冲击农业生产](https://news.cctv.com/2025/07/02/ARTIBCiCDEF7nww6LwrFOept250702.shtml)
+
