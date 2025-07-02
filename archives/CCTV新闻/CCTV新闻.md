@@ -193,3 +193,5 @@
 
 + [以总理下周访美 特朗普再催加沙停火](https://news.cctv.com/2025/07/02/ARTIhxBj9qK2WvQMFxAnKlzk250702.shtml)
 
++ [法国发布人工智能在企业全面推广计划](https://news.cctv.com/2025/07/02/ARTI1OksNOxVJsLaL5RzvI6X250702.shtml)
+
