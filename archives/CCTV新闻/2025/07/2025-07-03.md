@@ -169,3 +169,5 @@
 
 + [叙利亚中部一辆油罐车发生爆炸 造成多名平民死亡](https://news.cctv.com/2025/07/03/ARTIEv7LvDVZ4xu4LgD2yp06250703.shtml)
 
++ [印尼一艘客轮在巴厘海峡沉没](https://news.cctv.com/2025/07/03/ARTInryN5HCH6myu9SPDZLkl250703.shtml)
+

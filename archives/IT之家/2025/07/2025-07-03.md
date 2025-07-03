@@ -41,3 +41,15 @@
 
 + [小米 YU7 汽车 7 月 6 日开启限时改配，改配成功将重新计算预计交付时间](https://m.ithome.com/html/864901.htm)
 
++ [小米 1999 元 / 月青年公寓更多细节曝光：民水民电、宽带不收费，共享厨房、能和亲友同居](https://m.ithome.com/html/865276.htm)
+
++ [微信 iOS 版 8.0.61 最新官方正式版下载发布](https://m.ithome.com/html/865203.htm)
+
++ [稳居第一，华为 UPS 连续六年领跑中国 UPS 整体市场](https://m.ithome.com/html/865100.htm)
+
++ [15000mAh 酷态科 15 号超级电能卡 Air 官宣：首发 242.1 元，可上飞机](https://m.ithome.com/html/865186.htm)
+
++ [小米汽车：由于改配会调整工厂的备料节奏和生产计划，订单改配成功后将重新参与排队](https://m.ithome.com/html/865108.htm)
+
++ [网络“黑嘴”诋毁维信诺生产“瞎眼屏”，嫌疑人被刑拘](https://m.ithome.com/html/865071.htm)
+
