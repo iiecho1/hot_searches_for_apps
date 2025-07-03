@@ -109,3 +109,27 @@
 
 + [Cursor 配置Claude/Gemini/GPT/DeepSeek/Grok API 教程：5分钟搞定自定义模型配置](https://blog.csdn.net/2503_90802505/article/details/149039637)
 
++ [Java 大视界 -- Java 大数据在智能交通共享单车智能调度与停放管理中的应用（329）](https://blog.csdn.net/atgfg/article/details/149057449)
+
++ [DMDPC集群部署：Windows单机环境部署一个最小化的DMDPC集群](https://blog.csdn.net/qq_41840843/article/details/148511511)
+
++ [分布式架构的黄金拼图：Spring Cloud深度解剖](https://blog.csdn.net/2301_80795057/article/details/149041638)
+
++ [同一水平的 RISC-V 架构的 MCU，和 ARM 架构的 MCU 相比，运行速度如何？](https://blog.csdn.net/hfc1688/article/details/149063505)
+
++ [运维打铁: 服务器防火墙策略配置与管理](https://blog.csdn.net/XiaoRungen/article/details/149045433)
+
++ [armv8汇编码分析](https://blog.csdn.net/weixin_42149196/article/details/149073383)
+
++ [智能学号抽取系统 V3.7.5 —— 一个基于 Vue.js 的交互式网页应用](https://blog.csdn.net/Herryfyh/article/details/149076664)
+
++ [FPGA的开发流程](https://blog.csdn.net/u011732210/article/details/149079438)
+
++ [【王阳明代数讲义】谷歌编程智能体Gemini CLI 使用指南、架构详解与核心框架分析](https://blog.csdn.net/yudst/article/details/149065594)
+
++ [2025 年网络安全证书指南：从选择到备考，一文读懂](https://blog.csdn.net/JL54654/article/details/149070746)
+
++ [二型糖尿病居家管理小程序的设计与实现（消息订阅、websocket及时通讯、协同过滤算法）](https://blog.csdn.net/paopaokaka_luck/article/details/149049433)
+
++ [小程序通过模板消息发送通知（基于订阅消息实现）](https://blog.csdn.net/weixin_51527120/article/details/149062420)
+
