@@ -201,3 +201,9 @@
 
 + [以总理下周再访美 重点要谈哪几点？](https://news.cctv.com/2025/07/03/ARTImUcODjBb7czEeIGkFsLP250703.shtml)
 
++ [美众议院通过程序性投票推进“大而美”法案](https://news.cctv.com/2025/07/03/ARTIRwRlU71B81F8v3gurb0y250703.shtml)
+
++ [韩国国会通过戒严法修正案](https://news.cctv.com/2025/07/03/ARTIKvNcTjdvn2xaSsBx2BER250703.shtml)
+
++ [欧航局：太阳系或迎来第三位“星际访客”](https://news.cctv.com/2025/07/03/ARTIOfKfTiMWXL71eZlUL1La250703.shtml)
+

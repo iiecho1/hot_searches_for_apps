@@ -179,3 +179,9 @@
 
 + [分布式架构的黄金拼图：Spring Cloud深度解剖](https://blog.csdn.net/2301_80795057/article/details/149041638)
 
++ [玄机——某学校系统中挖矿病毒应急排查](https://blog.csdn.net/m0_73812072/article/details/149076824)
+
++ [.net8导出影像图片按现场及天拆分](https://blog.csdn.net/honeycandys/article/details/149025121)
+
++ [运维打铁: 企业运维开发痛点之解决方案](https://blog.csdn.net/XiaoRungen/article/details/149087950)
+
