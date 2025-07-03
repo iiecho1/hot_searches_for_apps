@@ -207,3 +207,7 @@
 
 + [欧航局：太阳系或迎来第三位“星际访客”](https://news.cctv.com/2025/07/03/ARTIOfKfTiMWXL71eZlUL1La250703.shtml)
 
++ [专访丨美与他国贸易争端应通过多边平台解决——访意大利经济学教授马里奥·蒂雷利](https://news.cctv.com/2025/07/03/ARTIhi8mdgdMl6VGkWKODIUt250703.shtml)
+
++ [专访丨成为金砖伙伴国为古巴带来“战略机遇”——访古巴中国问题专家雷加拉多](https://news.cctv.com/2025/07/03/ARTIVVFyl2b7VQxcaJnxoOHZ250703.shtml)
+
