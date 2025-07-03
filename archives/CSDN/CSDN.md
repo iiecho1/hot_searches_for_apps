@@ -203,3 +203,9 @@
 
 + [github 镜像节点](https://blog.csdn.net/u013517141/article/details/149074502)
 
++ [uniapp：实现中间大两边小的轮播图，幻灯片中间图片放大，两边缩小轮播效果，uniapp-swiper轮播图中间放大两边缩小示例源码替换图片（全平台兼容安卓苹果app、H5网页、微信小程序、nvue](https://blog.csdn.net/weixin_50545213/article/details/149097627)
+
++ [Rancher Server + Kubernets搭建云原生集群平台](https://blog.csdn.net/dyj095/article/details/149028915)
+
++ [跨越十年的C++演进：C++20新特性全解析](https://blog.csdn.net/m0_73443478/article/details/149077343)
+
