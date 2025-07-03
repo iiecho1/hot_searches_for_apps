@@ -193,3 +193,5 @@
 
 + [专栏丨画大饼与开小灶——美国关税与减税政策背后的财富转移](https://news.cctv.com/2025/07/03/ARTIAIIV9IbeeNsbGsdA4Fyg250703.shtml)
 
++ [泰国改组后内阁成员宣誓就职](https://news.cctv.com/2025/07/03/ARTIUqHikqkKnIH1n4P11VFZ250703.shtml)
+
