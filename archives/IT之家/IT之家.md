@@ -31,3 +31,7 @@
 
 + [比亚迪第 100 万汉车主交车暨汉 L 赛道体验日官宣：大尾翼版亮相，有望推低配车型](https://m.ithome.com/html/865407.htm)
 
++ [淘宝闪购宣布 500 亿补贴](https://m.ithome.com/html/865251.htm)
+
++ [小米 16 Ultra 系列手机型号曝光，预估会有 Ultra Max 版](https://m.ithome.com/html/865247.htm)
+
