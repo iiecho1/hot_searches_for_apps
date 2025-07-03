@@ -209,3 +209,11 @@
 
 + [跨越十年的C++演进：C++20新特性全解析](https://blog.csdn.net/m0_73443478/article/details/149077343)
 
++ [华为云 Flexus+DeepSeek 征文｜基于 Dify 平台开发智能客服 AI Agent 的完整实战指南](https://blog.csdn.net/atgfg/article/details/149034213)
+
++ [同一水平的 RISC-V 架构的 MCU，和 ARM 架构的 MCU 相比，运行速度如何？](https://blog.csdn.net/hfc1688/article/details/149063505)
+
++ [二、jenkins之idea提交项目到gitlab、jenkins获取项目](https://blog.csdn.net/weixin_39698240/article/details/148865668)
+
++ [深度剖析NumPy核心函数reshape()](https://blog.csdn.net/weixin_45562399/article/details/149079693)
+
