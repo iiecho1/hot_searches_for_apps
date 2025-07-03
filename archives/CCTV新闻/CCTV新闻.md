@@ -171,3 +171,11 @@
 
 + [印尼一艘客轮在巴厘海峡沉没](https://news.cctv.com/2025/07/03/ARTInryN5HCH6myu9SPDZLkl250703.shtml)
 
++ [缘何如此制裁这个菲律宾政客？](https://news.cctv.com/2025/07/03/ARTIFiOKdu6Zxa7iuWAQZiof250703.shtml)
+
++ [免签通关更便利 中老铁路签发首枚贴纸式临时入境许可](https://news.cctv.com/2025/07/03/ARTItf4vW5OHw5vaW5OLK4Ds250703.shtml)
+
++ [@外国友人：China Travel保姆级入门指南来啦](https://news.cctv.com/2025/07/03/ARTItJH5EWk4gfg5TqsMvrSb250703.shtml)
+
++ [中国驻印尼登巴萨总领馆：印尼沉船事故中无中国公民](https://news.cctv.com/2025/07/03/ARTI2H6VdfHqFmNPZXma2KQk250703.shtml)
+

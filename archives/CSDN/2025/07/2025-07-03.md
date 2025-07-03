@@ -143,3 +143,15 @@
 
 + [云原生的本质](https://blog.csdn.net/crazycoldking2015/article/details/149044368)
 
++ [应用场景全解析：飞算 JavaAI 的实战舞台](https://blog.csdn.net/2301_80543957/article/details/149048451)
+
++ [LabVIEW 网络流通信功能](https://blog.csdn.net/bjcyck/article/details/149085899)
+
++ [产品背景知识——API、SDK、Library、Framework、Protocol](https://blog.csdn.net/woshihlf/article/details/149032146)
+
++ [数字孪生技术中的实时数据同步与模型更新机制详解](https://blog.csdn.net/jie_kou/article/details/149047636)
+
++ [银河麒麟系统上利用WPS的SDK进行WORD的二次开发](https://blog.csdn.net/haokan123456789/article/details/149032218)
+
++ [（四十）深度解析领域特定语言（DSL）第七章——语法制导翻译——参数验证DSL语法分析器实现：语法树](https://blog.csdn.net/weixin_46217641/article/details/149038109)
+
