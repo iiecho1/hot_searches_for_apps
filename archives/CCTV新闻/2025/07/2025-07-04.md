@@ -161,3 +161,7 @@
 
 + [马斯克威胁让支持“大而美”法案的议员落选](https://news.cctv.com/2025/07/01/ARTIVYR9NFh7rypRAALDuFXY250701.shtml)
 
++ [联合国专家呼吁对以色列武器禁运和切断经贸往来](https://news.cctv.com/2025/07/04/ARTIuYQTF3GNyCPOUltGm9i5250703.shtml)
+
++ [工党执政将满一周年　英国财相为何泪洒议会](https://news.cctv.com/2025/07/04/ARTI75HP734chhtyoMlA65Sv250703.shtml)
+
