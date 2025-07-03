@@ -167,3 +167,9 @@
 
 + [Spring MVC详解](https://blog.csdn.net/R7chovy/article/details/149051273)
 
++ [【技术前沿：飞算JavaAI如何用AI引擎颠覆传统Java开发模式】](https://blog.csdn.net/Aileenvov/article/details/149075415)
+
++ [人脸活体识别3：C/C++实现人脸眨眼 张嘴 点头 摇头识别(可实时检测)](https://blog.csdn.net/guyuealian/article/details/148774226)
+
++ [HTTP 协议深入理解](https://blog.csdn.net/qq_37347855/article/details/149081729)
+

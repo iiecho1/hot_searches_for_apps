@@ -53,3 +53,25 @@
 
 + [网络“黑嘴”诋毁维信诺生产“瞎眼屏”，嫌疑人被刑拘](https://m.ithome.com/html/865071.htm)
 
++ [你当年考多少分：多地开放往届高考成绩网上查询功能，仅需身份证号或刷脸、最早能查 22 年前](https://m.ithome.com/html/865348.htm)
+
++ [微信多端正式更新：iOS 聊天记录管理大改、安卓多细节优化、PC 图标焕新](https://m.ithome.com/html/865360.htm)
+
++ [淘宝闪购宣布 500 亿补贴](https://m.ithome.com/html/865251.htm)
+
++ [小米开售 Are you OK 手型变色钥匙扣：可当摆件、当气门芯帽，售价 19.9 元](https://m.ithome.com/html/865273.htm)
+
++ [小米 16 Ultra 系列手机型号曝光，预估会有 Ultra Max 版](https://m.ithome.com/html/865247.htm)
+
++ [小米集团收盘价创新高，首超 60 港元](https://m.ithome.com/html/865330.htm)
+
++ [雷军披露小米 YU7 销售数据：SU7 系列转单占比不到 15%，女性用户占比 30%](https://m.ithome.com/html/865361.htm)
+
++ [雷军今晚直播总结发布，称小米 YU7 火爆程度超出了预期](https://m.ithome.com/html/865403.htm)
+
++ [雷军：小米目前没有计划做自行车和摩托车](https://m.ithome.com/html/865395.htm)
+
++ [荣耀 Magic V5 折叠屏旗舰手机售价公布，8999 元起](https://m.ithome.com/html/865366.htm)
+
++ [全新上汽奥迪 A5L Sportback 车型预售：限时 26 万元起，高配搭载华为乾崑智驾](https://m.ithome.com/html/865422.htm)
+
