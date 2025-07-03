@@ -215,3 +215,5 @@
 
 + [俄海军副司令在库尔斯克州遇袭阵亡](https://news.cctv.com/2025/07/03/ARTI9XWqvC2OgJuvvmCPkwmM250703.shtml)
 
++ [印尼沉船事故死亡人数上升至6人](https://news.cctv.com/2025/07/03/ARTIn4cz0tPDjdi2YcIj3YJJ250703.shtml)
+

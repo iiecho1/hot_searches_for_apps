@@ -199,3 +199,7 @@
 
 + [系统安全之大模型案例分析](https://blog.csdn.net/anquan2233/article/details/149049689)
 
++ [mysql查看数据库](https://blog.csdn.net/zwh1zwh/article/details/149079675)
+
++ [github 镜像节点](https://blog.csdn.net/u013517141/article/details/149074502)
+
