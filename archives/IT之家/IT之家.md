@@ -75,3 +75,7 @@
 
 + [全新上汽奥迪 A5L Sportback 车型预售：限时 26 万元起，高配搭载华为乾崑智驾](https://m.ithome.com/html/865422.htm)
 
++ [腾讯官方公布微信鸿蒙版开发细节：从头做微信是什么体验？](https://m.ithome.com/html/865490.htm)
+
++ [iPhone 17 Pro 新 MagSafe 设计曝光：圆形底部开口，适应背板苹果 LOGO 下移调整](https://m.ithome.com/html/865412.htm)
+
