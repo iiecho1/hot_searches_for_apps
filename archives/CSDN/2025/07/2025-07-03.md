@@ -185,3 +185,11 @@
 
 + [运维打铁: 企业运维开发痛点之解决方案](https://blog.csdn.net/XiaoRungen/article/details/149087950)
 
++ [飞算JavaAI：从情绪价值到代码革命，智能合并项目与定制化开发新范式](https://blog.csdn.net/Dreamy_zsy/article/details/149032565)
+
++ [MySQL MVCC深度解析：多版本并发控制的魔法世界](https://blog.csdn.net/2301_80795057/article/details/149092713)
+
++ [Liunx 操作系统笔记4](https://blog.csdn.net/LZY61xpy/article/details/149071066)
+
++ [鸿蒙UI框架深度解析：对比Android/iOS的布局适配与组件设计](https://blog.csdn.net/m0_74456227/article/details/149079389)
+

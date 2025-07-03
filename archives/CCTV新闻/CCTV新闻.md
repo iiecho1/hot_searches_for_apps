@@ -211,3 +211,5 @@
 
 + [专访丨成为金砖伙伴国为古巴带来“战略机遇”——访古巴中国问题专家雷加拉多](https://news.cctv.com/2025/07/03/ARTIVVFyl2b7VQxcaJnxoOHZ250703.shtml)
 
++ [法国高温本周已致2死、300人送医，极右翼推“空调普及计划”引争议](https://news.cctv.com/2025/07/03/ARTIgbuhMqOiRCShzu27X42I250703.shtml)
+
