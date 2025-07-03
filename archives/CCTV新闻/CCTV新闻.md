@@ -179,3 +179,17 @@
 
 + [中国驻印尼登巴萨总领馆：印尼沉船事故中无中国公民](https://news.cctv.com/2025/07/03/ARTI2H6VdfHqFmNPZXma2KQk250703.shtml)
 
++ [印尼沉船事故最新报告发布：涉事渡轮发动机舱漏水](https://news.cctv.com/2025/07/03/ARTISZxsWbULRbDQ1LvqZBJO250703.shtml)
+
++ [法国禁止幼儿托管场所中零岁至3岁儿童接触屏幕](https://news.cctv.com/2025/07/03/ARTILL3YdzXHIVxQ8Z9naGbp250703.shtml)
+
++ [印尼沉船事故已致4人遇难38人失踪](https://news.cctv.com/2025/07/03/ARTIyhWeMvT6TexUCAvWCTGo250703.shtml)
+
++ [韩国总统：将尽快改善韩中关系](https://news.cctv.com/2025/07/03/ARTIh18NiAOiPQxKBjzXA2AV250703.shtml)
+
++ [日本参议院选举公告发布 选战正式开始](https://news.cctv.com/2025/07/03/ARTIYX9MhHb0cK8UxQW2z5qU250703.shtml)
+
++ [热点问答｜美国“大而美”法案影响几何](https://news.cctv.com/2025/07/03/ARTIAflUcNJaeJGTzmfpAEtf250703.shtml)
+
++ [专栏丨画大饼与开小灶——美国关税与减税政策背后的财富转移](https://news.cctv.com/2025/07/03/ARTIAIIV9IbeeNsbGsdA4Fyg250703.shtml)
+
