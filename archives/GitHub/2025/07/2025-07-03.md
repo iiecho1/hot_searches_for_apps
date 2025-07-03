@@ -31,3 +31,23 @@
 
 + [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)
+
++ [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+
++ [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+
++ [btjawa/BiliTools](https://github.com/btjawa/BiliTools)
+
++ [MotiaDev/motia](https://github.com/MotiaDev/motia)
+
++ [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
+
++ [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+
++ [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
+
++ [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+

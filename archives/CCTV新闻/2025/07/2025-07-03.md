@@ -213,3 +213,5 @@
 
 + [法国高温本周已致2死、300人送医，极右翼推“空调普及计划”引争议](https://news.cctv.com/2025/07/03/ARTIgbuhMqOiRCShzu27X42I250703.shtml)
 
++ [俄海军副司令在库尔斯克州遇袭阵亡](https://news.cctv.com/2025/07/03/ARTI9XWqvC2OgJuvvmCPkwmM250703.shtml)
+

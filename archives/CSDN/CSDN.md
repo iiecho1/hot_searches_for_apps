@@ -193,3 +193,9 @@
 
 + [鸿蒙UI框架深度解析：对比Android/iOS的布局适配与组件设计](https://blog.csdn.net/m0_74456227/article/details/149079389)
 
++ [全面的 Spring Boot 整合 RabbitMQ 的 `application.yml` 配置示例](https://blog.csdn.net/TOOZOOY/article/details/149071028)
+
++ [面向Windows 11平台的YOLOv11模型搭建、训练及评估流程探析【训练YOLOv11】（附详细的系统变量添加过程）](https://blog.csdn.net/weixin_52908342/article/details/149091557)
+
++ [系统安全之大模型案例分析](https://blog.csdn.net/anquan2233/article/details/149049689)
+

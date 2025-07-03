@@ -79,3 +79,9 @@
 
 + [iPhone 17 Pro 新 MagSafe 设计曝光：圆形底部开口，适应背板苹果 LOGO 下移调整](https://m.ithome.com/html/865412.htm)
 
++ [小米雷军被问及是否会推出红米汽车，徐洁云抢答称没有这个打算](https://m.ithome.com/html/865388.htm)
+
++ [雷军：小米汽车已在纽北租用办公室，纽北广告牌空出来就抢](https://m.ithome.com/html/865385.htm)
+
++ [比亚迪第 100 万汉车主交车暨汉 L 赛道体验日官宣：大尾翼版亮相，有望推低配车型](https://m.ithome.com/html/865407.htm)
+
