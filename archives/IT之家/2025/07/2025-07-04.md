@@ -25,3 +25,9 @@
 
 + [荣耀 Magic V5 折叠屏旗舰手机售价公布，8999 元起](https://m.ithome.com/html/865366.htm)
 
++ [小米雷军被问及是否会推出红米汽车，徐洁云抢答称没有这个打算](https://m.ithome.com/html/865388.htm)
+
++ [雷军：小米汽车已在纽北租用办公室，纽北广告牌空出来就抢](https://m.ithome.com/html/865385.htm)
+
++ [比亚迪第 100 万汉车主交车暨汉 L 赛道体验日官宣：大尾翼版亮相，有望推低配车型](https://m.ithome.com/html/865407.htm)
+
