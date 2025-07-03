@@ -133,3 +133,5 @@
 
 + [小程序通过模板消息发送通知（基于订阅消息实现）](https://blog.csdn.net/weixin_51527120/article/details/149062420)
 
++ [多云密钥统一管理实战：CKMS对接阿里云/华为云密钥服务](https://blog.csdn.net/weixin_51174449/article/details/149064241)
+
