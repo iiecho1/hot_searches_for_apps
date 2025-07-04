@@ -237,3 +237,7 @@
 
 + [中国驻日本大使馆提醒在日中国公民防范自然灾害](https://news.cctv.com/2025/07/04/ARTIlLGLBjpQsi4ocFgUHinm250704.shtml)
 
++ [野火、中暑、供电故障……欧洲多国经受高温“烤”验](https://news.cctv.com/2025/07/04/ARTIxpNbFRFZry4Kkq9xcXez250704.shtml)
+
++ [印尼启动巴厘海峡沉船事故调查](https://news.cctv.com/2025/07/04/ARTI5aGKWKe5j9knKIf8BLdU250704.shtml)
+

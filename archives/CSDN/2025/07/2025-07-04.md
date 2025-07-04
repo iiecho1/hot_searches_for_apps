@@ -207,3 +207,5 @@
 
 + [打造一个可维护、可复用的前端权限控制方案（含完整Demo）](https://blog.csdn.net/m0_74456227/article/details/149104114)
 
++ [Xilinx FPGA功耗评估](https://blog.csdn.net/weixin_51418325/article/details/149093792)
+
