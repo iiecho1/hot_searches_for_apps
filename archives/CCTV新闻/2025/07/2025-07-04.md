@@ -165,3 +165,15 @@
 
 + [工党执政将满一周年　英国财相为何泪洒议会](https://news.cctv.com/2025/07/04/ARTI75HP734chhtyoMlA65Sv250703.shtml)
 
++ [埃及呼吁阻止以色列对加沙及约旦河西岸的侵略](https://news.cctv.com/2025/07/04/ARTI5syyRpJoItfIYpn52OeO250704.shtml)
+
++ [美总统特朗普将于4日下午签署“大而美”法案](https://news.cctv.com/2025/07/04/ARTIHZpvkpIB0Wo2BSgzavYE250704.shtml)
+
++ [伊朗副外长：不打算对美进一步报复 但将继续进行铀浓缩](https://news.cctv.com/2025/07/04/ARTIh3PDkEwGO7dVEPcH9Ty3250704.shtml)
+
++ [刚果（金）反政府武装称将与政府开启新一轮对话](https://news.cctv.com/2025/07/04/ARTIoaQuCb40hmj1FN9uPlvY250704.shtml)
+
++ [美国和哥伦比亚各自召回驻对方使馆负责人](https://news.cctv.com/2025/07/04/ARTIWIiVCdSKHFkynIOtyDYe250704.shtml)
+
++ [巴西金融系统遭网络攻击 巴央行紧急介入调查](https://news.cctv.com/2025/07/04/ARTI61AcK090790NH1btZahj250704.shtml)
+

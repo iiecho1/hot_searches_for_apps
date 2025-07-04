@@ -21,3 +21,7 @@
 
 + [求 mac mini 用作软路由，连接光猫拨号的解决方案](https://www.v2ex.com/t/1142658)
 
++ [电车开了 3 年 发现省钱不省油](https://www.v2ex.com/t/1142850)
+
++ [国内开发票疑问](https://www.v2ex.com/t/1142757)
+
