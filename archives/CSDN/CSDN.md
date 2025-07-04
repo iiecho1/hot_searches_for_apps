@@ -101,3 +101,21 @@
 
 + [安卓高版本HTTPS抓包：终极解决方案](https://blog.csdn.net/w987333120/article/details/149068416)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的跨语言信息检索与知识融合（331）](https://blog.csdn.net/atgfg/article/details/149104865)
+
++ [PyTorch实战（14）——条件生成对抗网络（conditional GAN，cGAN）](https://blog.csdn.net/LOVEmy134611/article/details/146259886)
+
++ [服务器间接口安全问题的全面分析](https://blog.csdn.net/sixpp/article/details/149120891)
+
++ [【Java 源码阅读系列31】深度解读Java FilterOutputStream 源码](https://blog.csdn.net/gaosw0521/article/details/149016431)
+
++ [springboot切面编程](https://blog.csdn.net/2303_82176667/article/details/149079199)
+
++ [微信小程序推动小程序领域的变革浪潮](https://blog.csdn.net/2501_91888447/article/details/149058636)
+
++ [文心4.5开源模型部署实践](https://blog.csdn.net/skywalk8163/article/details/149061970)
+
++ [Liunx 操作系统笔记4](https://blog.csdn.net/LZY61xpy/article/details/149071066)
+
++ [Docker+vLLM内网离线部署DeepSeek](https://blog.csdn.net/2501_90883911/article/details/149073534)
+
