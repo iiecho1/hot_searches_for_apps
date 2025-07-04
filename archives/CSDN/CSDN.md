@@ -171,3 +171,11 @@
 
 + [SpringBoot+Docker+Graylog - 让错误自动报警](https://blog.csdn.net/weixin_46619605/article/details/149069732)
 
++ [基于Yolo的交通流检测（含机动车和非机动车）](https://blog.csdn.net/qq_44988175/article/details/149113200)
+
++ [基于探索C++特殊容器类型：容器适配器+底层实现原理](https://blog.csdn.net/Dovis5884/article/details/148701715)
+
++ [GaussDB权限管理：从RBAC到精细化控制的企业级安全实践](https://blog.csdn.net/GaussDB/article/details/149112248)
+
++ [百度开源文心4.5系列开源21款模型，实测 ERNIE-4.5-VL-28B-A3B-Paddle 多项评测结果超 Qwen3-235B-A22B](https://blog.csdn.net/lwcwam/article/details/149102735)
+

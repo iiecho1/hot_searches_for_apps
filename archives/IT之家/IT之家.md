@@ -53,3 +53,19 @@
 
 + [上海首创外卖骑手“交通安全码”：骑手安全守法凭“绿码”方可接单](https://m.ithome.com/html/865598.htm)
 
++ [小鹏 G7 上市 9 分钟大定突破 1 万台](https://m.ithome.com/html/865670.htm)
+
++ [罗马仕：没有倒闭，定将努力解决所有朋友、用户及合作伙伴的一切问题](https://m.ithome.com/html/865676.htm)
+
++ [bilibili 国际版（白色图标）宣布 8 月 5 日下线：已下载用户仍可正常使用，用户可通过粉色图标 App 继承原有权益](https://m.ithome.com/html/865748.htm)
+
++ [何小鹏称小米 YU7 订单数据“创造了神话”：小鹏 G7 的也很不错，我们有信心](https://m.ithome.com/html/865665.htm)
+
++ [微信更新官方详解：聊天记录可“自动备份”，并支持备份到 U 盘、移动硬盘等外部存储设备](https://m.ithome.com/html/865769.htm)
+
++ [小米手环 8 全量推送桌搭模式，“闲置手环再就业”秒变机器人](https://m.ithome.com/html/865646.htm)
+
++ [小红书否认“被阿里收购”传闻：系谣言](https://m.ithome.com/html/865628.htm)
+
++ [充电宝电芯供应商安普瑞斯被曝仅少数员工上班，内部员工证实“工厂放假”](https://m.ithome.com/html/865669.htm)
+

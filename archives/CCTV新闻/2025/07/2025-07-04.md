@@ -215,3 +215,7 @@
 
 + [中国驻泰国大使馆：中国公民衷某已获救](https://news.cctv.com/2025/07/04/ARTIqBenqupFppFQCg1X01OC250704.shtml)
 
++ [仍有28人失踪 印尼沉船事故搜救工作继续进行](https://news.cctv.com/2025/07/04/ARTIRtiaXa7XhWboRZ7rkFtz250704.shtml)
+
++ [朝鲜强烈谴责美国鼓吹朝鲜“网络威胁”](https://news.cctv.com/2025/07/04/ARTIqCkLAPLHOHD7RMDTEL31250704.shtml)
+
