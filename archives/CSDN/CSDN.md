@@ -181,3 +181,9 @@
 
 + [YOLOv11缝合改进注意力机制MLCA-C2PSA：混合局部通道注意力机制（附核心代码）](https://blog.csdn.net/weixin_52908342/article/details/149113561)
 
++ [RGB下的色彩变换:用线性代数解构色彩世界](https://blog.csdn.net/luofeiju/article/details/149049597)
+
++ [XILINX Ultrascale+ Kintex系列FPGA的架构](https://blog.csdn.net/u011732210/article/details/149104342)
+
++ [【网络协议】WebSocket简介](https://blog.csdn.net/qq_34142812/article/details/149104660)
+

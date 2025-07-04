@@ -225,3 +225,5 @@
 
 + [法国空中交通管制员罢工，中使馆提醒中国公民密切关注航班信息](https://news.cctv.com/2025/07/04/ARTIMwxP2RpAXb4WQPzwqtRj250704.shtml)
 
++ [首批被拘留者抵达美国新设移民监狱“鳄鱼恶魔岛”](https://news.cctv.com/2025/07/04/ARTIj6gXuuw3eukGyFIqdKHn250704.shtml)
+
