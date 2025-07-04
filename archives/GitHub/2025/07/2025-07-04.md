@@ -29,3 +29,23 @@
 
 + [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
++ [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+
++ [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+
++ [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts)
+
++ [dockur/macos](https://github.com/dockur/macos)
+
++ [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
+
++ [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
+
++ [Infisical/infisical](https://github.com/Infisical/infisical)
+
++ [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+

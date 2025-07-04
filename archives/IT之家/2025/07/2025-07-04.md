@@ -71,3 +71,7 @@
 
 + [被曝已通知全面停工停产、工资只发到 6 月，罗马仕深夜发声“没有倒闭”](https://m.ithome.com/html/865676.htm)
 
++ [苹果发布 iPhone / iPad / Mac 全新壁纸，庆祝日本大阪 Apple Store 新店开张](https://m.ithome.com/html/865659.htm)
+
++ [特斯拉 Model Y 被丰田 RAV4 反超痛失 2024 年全球销冠，比亚迪秦杀入全球销量前十](https://m.ithome.com/html/865726.htm)
+

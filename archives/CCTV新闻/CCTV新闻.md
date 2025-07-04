@@ -231,3 +231,7 @@
 
 + [2025上合组织国家电影节电影市场开幕](https://photo.cctv.com/2025/07/04/PHOADE0UayiMe1wjtxLgGjZD250704.shtml)
 
++ [中国是全球南方最可信赖的伙伴——访印尼国际关系学者韦珍玉](https://news.cctv.com/2025/07/04/ARTInz296bBYpdos1wTc7kzS250704.shtml)
+
++ [欧洲理事会前主席范龙佩呼吁各方对话：关税战没有赢家 | 世界观](https://news.cctv.com/2025/07/04/ARTI4y0jZxtoDgWNg7pYl5ku250704.shtml)
+
