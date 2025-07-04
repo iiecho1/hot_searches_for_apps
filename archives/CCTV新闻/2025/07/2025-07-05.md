@@ -185,3 +185,7 @@
 
 + [美总统称将发函告知各国最新关税税率](https://news.cctv.com/2025/07/05/ARTI7GIo5C2RWNRFuzGIiqf5250705.shtml)
 
++ [哈马斯就停火提案提交积极回应 准备启动新一轮谈判](https://news.cctv.com/2025/07/05/ARTI072Wg6MwjjY7JrB2dAOe250705.shtml)
+
++ [与普京通话后，特朗普为啥“不高兴”？](https://news.cctv.com/2025/07/05/ARTIaW6d5m6ldflaetSWpbza250705.shtml)
+
