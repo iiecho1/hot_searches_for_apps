@@ -161,3 +161,9 @@
 
 + [斐济群岛地区附近发生6.0级左右地震](https://news.cctv.com/2025/07/02/ARTIPdZsKKqLbTP5tF9PpbmM250702.shtml)
 
++ [民调显示韩国总统李在明执政首月支持率为65%](https://news.cctv.com/2025/07/05/ARTIdexP1EMSSZ7j3lli6UaJ250705.shtml)
+
++ [国际原子能机构调查人员已离开伊朗](https://news.cctv.com/2025/07/05/ARTIr2hpDBIxm899TApgkWNC250705.shtml)
+
++ [印度拟对美征收报复性关税](https://news.cctv.com/2025/07/05/ARTIAKXE7p1AUVK7X0s1hj3x250705.shtml)
+
