@@ -193,3 +193,13 @@
 
 + [Redis 持久化详解、使用及注意事项](https://blog.csdn.net/xyz030556/article/details/149105083)
 
++ [Redis—哨兵模式](https://blog.csdn.net/weixin_71964451/article/details/149103951)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | DragNDrop（拖拽占用组件）](https://blog.csdn.net/qq_44808710/article/details/149103822)
+
++ [请求阿里云ocr身份证识别全方位指导](https://blog.csdn.net/x15514104477/article/details/149074489)
+
++ [vue3+vite：TypeError: crypto$2.getRandomValues is not a function（vite启动报错，vue3项目npm run dev运行提示错误排查）](https://blog.csdn.net/weixin_50545213/article/details/149119845)
+
++ [低代码实战训练营教学大纲 (10天)](https://blog.csdn.net/u012877217/article/details/149103712)
+
