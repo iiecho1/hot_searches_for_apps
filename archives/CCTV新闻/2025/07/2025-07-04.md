@@ -213,3 +213,5 @@
 
 + [“推动上海合作组织发展迈上新台阶”（弘扬“上海精神”：上合组织在行动）——访上海合作组织副秘书长索海尔·汗](https://news.cctv.com/2025/07/04/ARTIXX2CHL4NYTjMrHsDPR5Q250704.shtml)
 
++ [中国驻泰国大使馆：中国公民衷某已获救](https://news.cctv.com/2025/07/04/ARTIqBenqupFppFQCg1X01OC250704.shtml)
+

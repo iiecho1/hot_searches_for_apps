@@ -39,3 +39,7 @@
 
 + [minio 替代， rustfs 终于开源了](https://www.v2ex.com/t/1142853)
 
++ [大家都阿里开源的项目怎么看](https://www.v2ex.com/t/1142889)
+
++ [大厂失业后，我用 cursor 开发了一款 AI 海外产品（送会员）](https://www.v2ex.com/t/1142797)
+
