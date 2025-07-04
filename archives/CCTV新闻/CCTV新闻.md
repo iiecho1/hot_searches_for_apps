@@ -201,3 +201,15 @@
 
 + [特朗普将签署“大而美”法案 实施后影响几何](https://news.cctv.com/2025/07/04/ARTIMTFsTQoKMPbcAJorNCJi250704.shtml)
 
++ [特朗普谈对乌军援：“先保自己”](https://news.cctv.com/2025/07/04/ARTI9ntEdxczGgOZlPEvfUsR250704.shtml)
+
++ [谈不出“对等” 美国关税谈判策略反噬自身](https://news.cctv.com/2025/07/04/ARTIR3lNJYu0z6FkeheyvLSY250704.shtml)
+
++ [【国际漫评】“魔罐”斗法](https://news.cctv.com/2025/07/04/ARTIvxOYFL7JIUKyHMD6QxQ0250704.shtml)
+
++ [单方面关税加剧全球发展的不确定性](https://news.cctv.com/2025/07/04/ARTIkBh27uUEUeAjyAuNao2a250704.shtml)
+
++ [中国为应对气候变化采取的行动令人印象深刻——访《联合国气候变化框架公约》秘书处执行秘书斯蒂尔](https://news.cctv.com/2025/07/04/ARTINZUeEgqaW5gI87ZWbzjb250704.shtml)
+
++ [“推动上海合作组织发展迈上新台阶”（弘扬“上海精神”：上合组织在行动）——访上海合作组织副秘书长索海尔·汗](https://news.cctv.com/2025/07/04/ARTIXX2CHL4NYTjMrHsDPR5Q250704.shtml)
+
