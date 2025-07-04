@@ -219,3 +219,9 @@
 
 + [朝鲜强烈谴责美国鼓吹朝鲜“网络威胁”](https://news.cctv.com/2025/07/04/ARTIqCkLAPLHOHD7RMDTEL31250704.shtml)
 
++ [泽连斯基：俄对乌发动空袭 “迄今为止最大规模之一”](https://news.cctv.com/2025/07/04/ARTINwVBLDaOu3wP36e87fqG250704.shtml)
+
++ [乌称俄单次袭击中使用无人机数量创新高](https://news.cctv.com/2025/07/04/ARTI7NpHPqyboR7eePEx4PbT250704.shtml)
+
++ [法国空中交通管制员罢工，中使馆提醒中国公民密切关注航班信息](https://news.cctv.com/2025/07/04/ARTIMwxP2RpAXb4WQPzwqtRj250704.shtml)
+

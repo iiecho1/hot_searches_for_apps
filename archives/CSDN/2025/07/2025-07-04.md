@@ -179,3 +179,5 @@
 
 + [百度开源文心4.5系列开源21款模型，实测 ERNIE-4.5-VL-28B-A3B-Paddle 多项评测结果超 Qwen3-235B-A22B](https://blog.csdn.net/lwcwam/article/details/149102735)
 
++ [YOLOv11缝合改进注意力机制MLCA-C2PSA：混合局部通道注意力机制（附核心代码）](https://blog.csdn.net/weixin_52908342/article/details/149113561)
+
