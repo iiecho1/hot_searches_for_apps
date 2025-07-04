@@ -235,3 +235,5 @@
 
 + [欧洲理事会前主席范龙佩呼吁各方对话：关税战没有赢家 | 世界观](https://news.cctv.com/2025/07/04/ARTI4y0jZxtoDgWNg7pYl5ku250704.shtml)
 
++ [中国驻日本大使馆提醒在日中国公民防范自然灾害](https://news.cctv.com/2025/07/04/ARTIlLGLBjpQsi4ocFgUHinm250704.shtml)
+
