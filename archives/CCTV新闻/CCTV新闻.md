@@ -167,3 +167,21 @@
 
 + [印度拟对美征收报复性关税](https://news.cctv.com/2025/07/05/ARTIAKXE7p1AUVK7X0s1hj3x250705.shtml)
 
++ [德国长途客车侧翻事故已致31人受伤](https://news.cctv.com/2025/07/05/ARTIE7hJZp0gSJpTEhobY2TD250705.shtml)
+
++ [意大利罗马加油站爆炸事故受伤人数升至45人](https://news.cctv.com/2025/07/05/ARTIVIby2dRk34gnESjAaz9f250705.shtml)
+
++ [伊朗警告以色列：如再发动袭击 将不再设立“红线”](https://news.cctv.com/2025/07/05/ARTIgDzjvADEsm8iArdsuQdd250705.shtml)
+
++ [未能取得突破 美欧贸易谈判将持续至周末](https://news.cctv.com/2025/07/05/ARTIRIJ2WwGRMLc53X9Ypv9p250705.shtml)
+
++ [俄罗斯卡巴尔达-巴尔卡尔共和国发生袭警事件 一名交警受伤严重](https://news.cctv.com/2025/07/05/ARTIJn9UKy8R5LpmsVqk8Z2P250705.shtml)
+
++ [以军称已控制加沙地带65%以上地区](https://news.cctv.com/2025/07/05/ARTIhufWB4jmNMirM2LnOpI5250705.shtml)
+
++ [捷克所有变电站恢复运行 电力供应正逐步恢复](https://news.cctv.com/2025/07/05/ARTIQzhD5iuoreTYvIkjsck3250705.shtml)
+
++ [安抚本土农民 欧盟调整乌克兰小麦和糖进口配额](https://news.cctv.com/2025/07/05/ARTIhSScOzfQFq8oSrXkQppd250705.shtml)
+
++ [美总统称将发函告知各国最新关税税率](https://news.cctv.com/2025/07/05/ARTI7GIo5C2RWNRFuzGIiqf5250705.shtml)
+

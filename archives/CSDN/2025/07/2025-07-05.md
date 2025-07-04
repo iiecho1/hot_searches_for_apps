@@ -129,3 +129,7 @@
 
 + [Redis缓存架构实战](https://blog.csdn.net/2301_77599076/article/details/149076981)
 
++ [前端实战：实现阅读位置记忆功能125](https://blog.csdn.net/tgvfdr56/article/details/149127604)
+
++ [微信小程序在小程序领域的用户忠诚度培养](https://blog.csdn.net/2501_91888447/article/details/149079347)
+

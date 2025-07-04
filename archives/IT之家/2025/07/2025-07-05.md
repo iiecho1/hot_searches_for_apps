@@ -25,3 +25,7 @@
 
 + [特斯拉 Model Y 被丰田 RAV4 反超痛失 2024 年全球销冠，比亚迪秦杀入全球销量前十](https://m.ithome.com/html/865726.htm)
 
++ [三大 EDA 巨头证实美国已解除对华芯片设计软件限制](https://m.ithome.com/html/865584.htm)
+
++ [上海首创外卖骑手“交通安全码”：骑手安全守法凭“绿码”方可接单](https://m.ithome.com/html/865598.htm)
+
