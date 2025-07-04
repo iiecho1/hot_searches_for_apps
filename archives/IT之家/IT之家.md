@@ -35,3 +35,21 @@
 
 + [小米 16 Ultra 系列手机型号曝光，预估会有 Ultra Max 版](https://m.ithome.com/html/865247.htm)
 
++ [（更新）消息称罗马仕已通知员工全面停工停产，工资只发到上月](https://m.ithome.com/html/865656.htm)
+
++ [19.58 万~22.58 万元：“全球首款 L3 级算力 AI 汽车”小鹏 G7 上市，首搭 3 颗自研图灵芯片、华为合作 HUD](https://m.ithome.com/html/865651.htm)
+
++ [美国一波音 737 客机空中襟翼脱落，坠入居民区](https://m.ithome.com/html/865457.htm)
+
++ [三大 EDA 巨头证实美国已解除对华芯片设计软件限制](https://m.ithome.com/html/865584.htm)
+
++ [山东舰航母访问香港，服役以来首度开放给公众参观](https://m.ithome.com/html/865461.htm)
+
++ [苹果 iOS 26 FaceTime 新特性：检测脱衣裸露行为，自动暂停视频 / 音频通话](https://m.ithome.com/html/865421.htm)
+
++ [男子应粉丝要求“黑飞”无人机违法拍摄看守所：没收设备、罚款 8000 元](https://m.ithome.com/html/865478.htm)
+
++ [零跑全新 C11 车型开启预售：纯电、增程双版本，15.88 万元起](https://m.ithome.com/html/865508.htm)
+
++ [上海首创外卖骑手“交通安全码”：骑手安全守法凭“绿码”方可接单](https://m.ithome.com/html/865598.htm)
+

@@ -177,3 +177,21 @@
 
 + [巴西金融系统遭网络攻击 巴央行紧急介入调查](https://news.cctv.com/2025/07/04/ARTI61AcK090790NH1btZahj250704.shtml)
 
++ [特朗普：只要农场主担保 移民工人可以留下](https://news.cctv.com/2025/07/04/ARTIu8mcBqmxmvLVl8lXecho250704.shtml)
+
++ [加戏9小时难阻法案通过 “大而美”政治马戏再刷荒诞榜](https://news.cctv.com/2025/07/04/ARTIwIu9261JELRbNbgO2r3A250704.shtml)
+
++ [特朗普签署行政令 拟给国家公园“外国游客门票”涨价](https://news.cctv.com/2025/07/04/ARTIjkUVOkIYSYzynoPTKT6u250704.shtml)
+
++ [韩军称控制一名越过军事分界线的朝鲜人员](https://news.cctv.com/2025/07/04/ARTIXrWZZ8k2Shkw9GPkib3p250704.shtml)
+
++ [哥伦比亚外交部长辞职](https://news.cctv.com/2025/07/04/ARTIDWtTzNzaCxGVvsXBM5LC250704.shtml)
+
++ [俄罗斯正式承认阿富汗临时政府](https://news.cctv.com/2025/07/04/ARTIPaf1y4zQESGMef2J1rAB250704.shtml)
+
++ [普京与特朗普通电话讨论乌克兰和中东局势](https://news.cctv.com/2025/07/04/ARTICmWPUnDAficxqvaO51pO250704.shtml)
+
++ [加纳近日严打外国人非法黄金交易，中使馆发布提醒](https://news.cctv.com/2025/07/04/ARTIg28KqtzgMFsWkTbBgxfO250704.shtml)
+
++ [有游客当街被抢 中国驻巴塞罗那总领馆发布提醒](https://news.cctv.com/2025/07/04/ARTIoT24phNVWMmiWHFSoXQH250704.shtml)
+
