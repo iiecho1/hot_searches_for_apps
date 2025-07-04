@@ -33,3 +33,9 @@
 
 + [感觉差不多也到职业生涯末期了](https://www.v2ex.com/t/1142886)
 
++ [罗马仕法人更换，老板跑路了大家怎么看？](https://www.v2ex.com/t/1142905)
+
++ [没有人讨论昨晚的小鹏 G7 么](https://www.v2ex.com/t/1142950)
+
++ [minio 替代， rustfs 终于开源了](https://www.v2ex.com/t/1142853)
+

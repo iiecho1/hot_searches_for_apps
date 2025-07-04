@@ -195,3 +195,9 @@
 
 + [有游客当街被抢 中国驻巴塞罗那总领馆发布提醒](https://news.cctv.com/2025/07/04/ARTIoT24phNVWMmiWHFSoXQH250704.shtml)
 
++ [特朗普：如果“有必要” 愿意会见伊朗代表](https://news.cctv.com/2025/07/04/ARTIXXP1CpYSCoMy5arWzbZ8250704.shtml)
+
++ [哥伦比亚：美国开始撤销哥政府官员签证](https://news.cctv.com/2025/07/04/ARTI1kD3jsRZptX9wyY8ovHm250704.shtml)
+
++ [特朗普将签署“大而美”法案 实施后影响几何](https://news.cctv.com/2025/07/04/ARTIMTFsTQoKMPbcAJorNCJi250704.shtml)
+

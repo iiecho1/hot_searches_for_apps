@@ -147,3 +147,19 @@
 
 + [一、Docker：一场颠覆应用部署与运维的容器革命](https://blog.csdn.net/2401_83830408/article/details/149088404)
 
++ [飞算 JavaAI 智控引擎：全链路开发自动化新图景](https://blog.csdn.net/a_hong_sen/article/details/149068025)
+
++ [Java调用百度地图天气查询服务获取当前和未来天气-以贵州省榕江县为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/149005407)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(四十) -＞ 灵活定制编译选项](https://blog.csdn.net/weixin_74809706/article/details/149109203)
+
++ [基于Simulink的二关节机器人独立PD控制仿真](https://blog.csdn.net/m0_37816922/article/details/149110771)
+
++ [开源无广告面板mdserver-web：替代宝塔实现服务器轻松管理](https://blog.csdn.net/qq_43289447/article/details/149096780)
+
++ [Linux 启动过程流程图--ARM版](https://blog.csdn.net/weixin_46356409/article/details/149063871)
+
++ [用 vLLM 在两张 RTX 3090 上部署 Qwen2.5-14B BF16全量大模型的完整过程](https://blog.csdn.net/weixin_53269650/article/details/148532736)
+
++ [网络爬虫基本原理和实现方式](https://blog.csdn.net/2401_84168288/article/details/149040817)
+
