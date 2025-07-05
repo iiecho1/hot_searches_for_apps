@@ -231,3 +231,5 @@
 
 + [“大金砖合作”高质量发展——为完善全球治理注入更多动能](https://news.cctv.com/2025/07/05/ARTITLSpgcoJVXNl9F1EZLEr250705.shtml)
 
++ [不满“大而美” 马斯克“独立日”再提成立美国新政党](https://news.cctv.com/2025/07/05/ARTIaJSLCR0y0c4WLd8gzSij250705.shtml)
+

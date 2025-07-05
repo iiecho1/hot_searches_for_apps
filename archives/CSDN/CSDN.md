@@ -189,3 +189,9 @@
 
 + [基于FPGA的一维序列三次样条插值算法verilog实现,包含testbench](https://blog.csdn.net/aycd1234/article/details/149127101)
 
++ [味来已至：基于人工智能的智能外卖推荐与购买系统设计与实现](https://blog.csdn.net/2401_82648291/article/details/149131176)
+
++ [《斯图尔特微积分》学习](https://blog.csdn.net/dllglvzhenfeng/article/details/149132898)
+
++ [【免费.NET方案】CSV到PDF与DataTable的快速转换](https://blog.csdn.net/Eiceblue/article/details/149098961)
+

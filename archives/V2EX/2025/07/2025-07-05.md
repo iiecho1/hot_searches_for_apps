@@ -57,3 +57,9 @@
 
 + [现在这个时间点还建议微信转 wechat 吗](https://www.v2ex.com/t/1143115)
 
++ [🚀 GitHub 访问慢？团队协作难？试试腾讯云「云原生构建 CNB」！](https://www.v2ex.com/t/1143165)
+
++ [买车求推荐？](https://www.v2ex.com/t/1143131)
+
++ [一位农村程序员疑似走火入魔的生活。](https://www.v2ex.com/t/1143194)
+
