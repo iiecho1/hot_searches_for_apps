@@ -25,3 +25,7 @@
 
 + [微软 Edge 浏览器第二次移除 Mica 云母效果](https://m.ithome.com/html/865977.htm)
 
++ [罗马仕充电宝被曝无害化处理后仅补偿 5 元](https://m.ithome.com/html/865888.htm)
+
++ [百万粉丝网红称高山 8 汽车高速路上突然降速停车，魏牌官方回应](https://m.ithome.com/html/865869.htm)
+
