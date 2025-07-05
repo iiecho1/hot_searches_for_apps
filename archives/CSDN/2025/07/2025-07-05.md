@@ -157,3 +157,17 @@
 
 + [三角洲要求开启VT-D，DMA作弊的末日来了吗？DMA该如何应对反作弊的强势检测机制？](https://blog.csdn.net/imuzier/article/details/149117882)
 
++ [AI智能体革命：从ChatGPT到自主决策的技术演进](https://blog.csdn.net/IRpickstars/article/details/149113199)
+
++ [深度学习×第4卷：Pytorch实战——她第一次用张量去拟合你的轨迹](https://blog.csdn.net/2501_92239402/article/details/149101730)
+
++ [从零构建高性能MPP数据库平台：DM8分布式集群部署](https://blog.csdn.net/qq_41840843/article/details/148483855)
+
++ [百度文心一言ERNIE-4.5-0.3B-PT开源大模型本地私有化部署](https://blog.csdn.net/m0_68111267/article/details/149126915)
+
++ [技术与情感交织的一生 （九）](https://blog.csdn.net/michaelline/article/details/148795565)
+
++ [【K210+STM32项目】基于K210与STM32协同工作的智能垃圾分类系统设计与实现(更新3.0版本)（完整工程资料源码）](https://blog.csdn.net/m0_63168877/article/details/149120003)
+
++ [【RK3568+PG2L50H开发板实验例程】Linux部分/FPGA dma_memcpy_demo 读写案例](https://blog.csdn.net/MYMINIEYE/article/details/149093164)
+

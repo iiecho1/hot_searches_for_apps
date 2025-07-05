@@ -211,3 +211,7 @@
 
 + [以方收到哈马斯对停火提案回应 或在多哈间接谈判](https://news.cctv.com/2025/07/05/ARTIEwKcP3wm4jX154TdCJqP250705.shtml)
 
++ [美国得克萨斯州洪灾已致24人死亡](https://news.cctv.com/2025/07/05/ARTIgo4YZWRXOyeL2bK3NeXc250705.shtml)
+
++ [马斯克欲创第三党，美国专家：说起来容易做起来难](https://news.cctv.com/2025/07/05/ARTIIF14tFanw1HLXNQ6J3V9250705.shtml)
+
