@@ -137,3 +137,5 @@
 
 + [NumPy-核心函数np.dot()深入理解](https://blog.csdn.net/weixin_45562399/article/details/149126552)
 
++ [全网唯一/Qt结合ffmpeg实现手机端采集摄像头推流到rtsp或rtmp/可切换前置后置摄像头/指定分辨率帧率](https://blog.csdn.net/feiyangqingyun/article/details/149120118)
+

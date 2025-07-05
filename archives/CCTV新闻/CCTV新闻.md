@@ -161,3 +161,11 @@
 
 + [俄罗斯正式承认阿富汗临时政府](https://news.cctv.com/2025/07/04/ARTIPaf1y4zQESGMef2J1rAB250704.shtml)
 
++ [埃及吉萨省发生一起交通事故 已致10死10伤](https://news.cctv.com/2025/07/06/ARTIns449QGdbC5rj4UYEhao250706.shtml)
+
++ [以色列决定派代表团赴多哈进行加沙停火谈判](https://news.cctv.com/2025/07/06/ARTIxIEiNodJW6eFrVVvfaaC250706.shtml)
+
++ [印尼在水下发现疑似沉船残骸 将进一步检查确认](https://news.cctv.com/2025/07/06/ARTIBCbopTR5lb2rNS7NZwGm250706.shtml)
+
++ [巴黎正式开放塞纳河三处区域供公众游泳](https://news.cctv.com/2025/07/06/ARTIqNZzZdo0nYup8N0wWzIL250706.shtml)
+
