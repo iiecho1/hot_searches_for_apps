@@ -139,3 +139,13 @@
 
 + [全网唯一/Qt结合ffmpeg实现手机端采集摄像头推流到rtsp或rtmp/可切换前置后置摄像头/指定分辨率帧率](https://blog.csdn.net/feiyangqingyun/article/details/149120118)
 
++ [《企业级MySQL双活集群实战：Keepalived高可用 + Prometheus/Grafana全栈监控》](https://blog.csdn.net/2302_81635282/article/details/149145217)
+
++ [【Elasticsearch】深度分页及其替代方案4](https://blog.csdn.net/tnhdfb6/article/details/149142016)
+
++ [【领码全栈】前端三雄逐鹿：React / Vue / Angular 语法对照与AI驱动下的未来版图](https://blog.csdn.net/lgf228/article/details/149058116)
+
++ [[经验分享]ESP-IDF:如何向ESP Component Registry上传自己的组件或从Github拉取组件](https://blog.csdn.net/mondraker/article/details/149145442)
+
++ [YOLOv8实战(上) - 从零构建你的专属商品检测器](https://blog.csdn.net/qq_45590504/article/details/149145669)
+
