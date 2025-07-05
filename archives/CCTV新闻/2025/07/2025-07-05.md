@@ -215,3 +215,5 @@
 
 + [马斯克欲创第三党，美国专家：说起来容易做起来难](https://news.cctv.com/2025/07/05/ARTIIF14tFanw1HLXNQ6J3V9250705.shtml)
 
++ [受极端高温天气影响 塞尔维亚农作物可能大幅减产](https://news.cctv.com/2025/07/05/ARTIOVjueFW7kYsv0WO1xfAB250705.shtml)
+
