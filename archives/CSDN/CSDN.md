@@ -131,3 +131,9 @@
 
 + [物联网+无线传输技术：赋能园区生态环境实时监测与预警](https://blog.csdn.net/xingtuyun0228/article/details/149098101)
 
++ [XILINX Zynq-7000系列FPGA的架构](https://blog.csdn.net/u011732210/article/details/149122650)
+
++ [HTML与JavaScript：构建动态交互式Web页面的基石](https://blog.csdn.net/weixin_37647148/article/details/149111761)
+
++ [NumPy-核心函数np.dot()深入理解](https://blog.csdn.net/weixin_45562399/article/details/149126552)
+
