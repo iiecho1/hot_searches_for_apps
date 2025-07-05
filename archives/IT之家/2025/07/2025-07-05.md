@@ -65,3 +65,9 @@
 
 + [微软 Edge 浏览器第二次移除 Mica 云母效果](https://m.ithome.com/html/865977.htm)
 
++ [华为盘古团队回应争议：非基于其他厂商模型增量训练而来，严格遵循开源许可证要求标注版权声明](https://m.ithome.com/html/866044.htm)
+
++ [智界系列产品总监：本周之后，智界可以全力向前奔跑](https://m.ithome.com/html/866010.htm)
+
++ [领克 900 2.0T 探索版汽车启运：2.0T 发动机、全球首搭 NVIDIA Thor 芯片](https://m.ithome.com/html/865985.htm)
+
