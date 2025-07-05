@@ -175,3 +175,11 @@
 
 + [世卫组织：柬埔寨6月份人感染禽流感病例呈异常增加](https://news.cctv.com/2025/07/06/ARTIHFxFTIRcHRlS2GW4QBKz250706.shtml)
 
++ [以总理办公室：无法接受哈马斯提出的意见 仍将参与新一轮谈判](https://news.cctv.com/2025/07/06/ARTIUlYtg3esUjeYurja207h250706.shtml)
+
++ [伊朗互联网出现中断](https://news.cctv.com/2025/07/06/ARTIJaWf8Ov8Qyw08aKVByD3250706.shtml)
+
++ [马斯克在社交媒体上表示“美国党”成立](https://news.cctv.com/2025/07/06/ARTI25RI4YZhgb1rNyGenMef250706.shtml)
+
++ [时隔57年 印度领导人访问阿根廷](https://news.cctv.com/2025/07/06/ARTI6pVnTHyyxSBYzc20GCTh250706.shtml)
+
