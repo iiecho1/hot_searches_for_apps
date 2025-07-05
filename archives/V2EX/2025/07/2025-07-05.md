@@ -51,3 +51,5 @@
 
 + [当 Python 默认 No GIL 后， Web 框架是不是要大洗牌了](https://www.v2ex.com/t/1143018)
 
++ [深圳小铁， golang 直招 18-25，不搞八股一面定](https://www.v2ex.com/t/1143071)
+

@@ -177,3 +177,7 @@
 
 + [Spring Boot 集成 MinIO 实现分布式文件存储与管理](https://blog.csdn.net/weixin_45626288/article/details/149051659)
 
++ [Java 开发新范式：飞算 AI 实现 “需求 - 设计 - 文档 - 代码“ 全链路自动化](https://blog.csdn.net/qq_57761637/article/details/149065953)
+
++ [基于spark的北京房价数据分析及价格预测](https://blog.csdn.net/drop18611577437/article/details/149086382)
+
