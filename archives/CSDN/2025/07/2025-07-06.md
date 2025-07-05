@@ -107,3 +107,27 @@
 
 + [前端查询条件加密传输方案（SM2加解密）](https://blog.csdn.net/xieedeni/article/details/149119571)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的跨语言信息检索与知识融合（331）](https://blog.csdn.net/atgfg/article/details/149104865)
+
++ [人工智能概念之七：集成学习思想（Bagging、Boosting、Stacking）](https://blog.csdn.net/Springfield3006/article/details/149092603)
+
++ [使用 C# 发送电子邮件（支持普通文本、HTML 和附件）](https://blog.csdn.net/Eiceblue/article/details/149122747)
+
++ [学习者的Python项目灵感](https://blog.csdn.net/2502_92200938/article/details/149126800)
+
++ [二关节机器人系统模型推导](https://blog.csdn.net/m0_37816922/article/details/149114289)
+
++ [visual studio连接SQL server 提示检索服务器版本失败，如何解决？](https://blog.csdn.net/weixin_43970743/article/details/148997096)
+
++ [【Elasticsearch】深度分页及其替代方案](https://blog.csdn.net/be_racle/article/details/149142545)
+
++ [React Tailwind css 大前端考试、问卷响应式模板](https://blog.csdn.net/TWW844475003/article/details/149099827)
+
++ [猫头虎 AI工具分享：一个网页抓取、结构化数据提取、网页爬取、浏览器自动化操作工具：Hyperbrowser MCP](https://blog.csdn.net/qq_44866828/article/details/149116121)
+
++ [焊接机器人结构设计cad【16张】三维图＋设计说明书＋绛重](https://blog.csdn.net/kejigongjiang/article/details/149125938)
+
++ [深度分析：Microsoft .NET Framework System.Random 的 C++ 复刻实现](https://blog.csdn.net/liulilittle/article/details/149115217)
+
++ [物联网+无线传输技术：赋能园区生态环境实时监测与预警](https://blog.csdn.net/xingtuyun0228/article/details/149098101)
+
