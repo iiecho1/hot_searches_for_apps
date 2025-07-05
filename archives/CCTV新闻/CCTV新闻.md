@@ -217,3 +217,7 @@
 
 + [受极端高温天气影响 塞尔维亚农作物可能大幅减产](https://news.cctv.com/2025/07/05/ARTIOVjueFW7kYsv0WO1xfAB250705.shtml)
 
++ [25万人凌晨4点蹲守直播等地震 预言时间点已过：没震](https://news.cctv.com/2025/07/05/ARTIZJXltk6pXOWAoBRQYtkS250705.shtml)
+
++ [巴基斯坦卡拉奇一栋楼房倒塌 已致14人死亡](https://news.cctv.com/2025/07/05/ARTIscjMEQR4iEZ1pyIQvYVm250705.shtml)
+

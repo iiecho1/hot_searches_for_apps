@@ -171,3 +171,9 @@
 
 + [【RK3568+PG2L50H开发板实验例程】Linux部分/FPGA dma_memcpy_demo 读写案例](https://blog.csdn.net/MYMINIEYE/article/details/149093164)
 
++ [智能自主运动体与人工智能技术——环境感知、SLAM定位、路径规划、运动控制、多智能体协同](https://blog.csdn.net/ccsss22/article/details/149116289)
+
++ [基于Hadoop的京东厨具商品数据分析及商品价格预测系统的设计与实现](https://blog.csdn.net/weixin_47723732/article/details/149093874)
+
++ [Spring Boot 集成 MinIO 实现分布式文件存储与管理](https://blog.csdn.net/weixin_45626288/article/details/149051659)
+
