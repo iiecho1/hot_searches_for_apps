@@ -223,3 +223,11 @@
 
 + [美军方暂停一个关联马斯克企业的试验项目](https://news.cctv.com/2025/07/05/ARTIpRpbKtO1YhHLT1SvxpcK250705.shtml)
 
++ [特朗普称8月1日起实施新关税 最高税率或达70%](https://news.cctv.com/2025/07/05/ARTImJeP1G0LThJjv9FPIXTQ250705.shtml)
+
++ [哈马斯称积极回应停火提案 以媒披露协议细节](https://news.cctv.com/2025/07/05/ARTIDVDxHqgfPaWwmC9cdVno250705.shtml)
+
++ [看好中国市场增长潜力——访瑞士日内瓦旅游局长阿德里安·热尼耶](https://news.cctv.com/2025/07/05/ARTIM0zdjyIDgFzZl23r04MO250705.shtml)
+
++ [“大金砖合作”高质量发展——为完善全球治理注入更多动能](https://news.cctv.com/2025/07/05/ARTITLSpgcoJVXNl9F1EZLEr250705.shtml)
+

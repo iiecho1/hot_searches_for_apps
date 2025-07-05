@@ -181,3 +181,11 @@
 
 + [基于spark的北京房价数据分析及价格预测](https://blog.csdn.net/drop18611577437/article/details/149086382)
 
++ [RabbitMQ用法的6种核心模式全面解析](https://blog.csdn.net/sixpp/article/details/149121184)
+
++ [量化交易隐藏模式识别方法：用潜在高斯混合模型识别交易机会](https://blog.csdn.net/m0_46510245/article/details/149134794)
+
++ [SwiftUI 7（iOS 26）中玻璃化工具栏的艺术](https://blog.csdn.net/mydo/article/details/149135850)
+
++ [基于FPGA的一维序列三次样条插值算法verilog实现,包含testbench](https://blog.csdn.net/aycd1234/article/details/149127101)
+
