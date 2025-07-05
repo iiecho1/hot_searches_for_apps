@@ -139,3 +139,15 @@
 
 + [电力协议处理框架C++版（二）](https://blog.csdn.net/z5201314100/article/details/149092876)
 
++ [【Java学习】计算机工作原理](https://blog.csdn.net/2401_86112610/article/details/149071428)
+
++ [AI大模型如何重塑软件开发流程？](https://blog.csdn.net/u014727709/article/details/149062619)
+
++ [运维打铁：企业云服务解决方案](https://blog.csdn.net/XiaoRungen/article/details/149112570)
+
++ [推荐 7 个本周 yyds 的 GitHub 项目。](https://blog.csdn.net/2501_90882927/article/details/149073088)
+
++ [Html5支持的视频文件格式和音频文件格式有哪些？](https://blog.csdn.net/ffffffff8/article/details/148406419)
+
++ [应用密码学纲要](https://blog.csdn.net/2301_79704829/article/details/149061775)
+
