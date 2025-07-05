@@ -169,3 +169,9 @@
 
 + [巴黎正式开放塞纳河三处区域供公众游泳](https://news.cctv.com/2025/07/06/ARTIqNZzZdo0nYup8N0wWzIL250706.shtml)
 
++ [巴勒斯坦媒体：以军袭击加沙多地造成至少62人死亡](https://news.cctv.com/2025/07/06/ARTIpaCo640cMEHgjqZILwuX250706.shtml)
+
++ [斯塔默执政一周年 英国在修补与重塑之间徘徊](https://news.cctv.com/2025/07/06/ARTIjMvTArs5ARwOjGP657m1250706.shtml)
+
++ [世卫组织：柬埔寨6月份人感染禽流感病例呈异常增加](https://news.cctv.com/2025/07/06/ARTIHFxFTIRcHRlS2GW4QBKz250706.shtml)
+

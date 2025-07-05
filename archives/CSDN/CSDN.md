@@ -149,3 +149,5 @@
 
 + [YOLOv8实战(上) - 从零构建你的专属商品检测器](https://blog.csdn.net/qq_45590504/article/details/149145669)
 
++ [AI+Web3：从Web2到Web3的范式革命与深度技术实践](https://blog.csdn.net/qq_32682301/article/details/148810356)
+
