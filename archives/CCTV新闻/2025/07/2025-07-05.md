@@ -221,3 +221,5 @@
 
 + [巴基斯坦卡拉奇一栋楼房倒塌 已致14人死亡](https://news.cctv.com/2025/07/05/ARTIscjMEQR4iEZ1pyIQvYVm250705.shtml)
 
++ [美军方暂停一个关联马斯克企业的试验项目](https://news.cctv.com/2025/07/05/ARTIpRpbKtO1YhHLT1SvxpcK250705.shtml)
+

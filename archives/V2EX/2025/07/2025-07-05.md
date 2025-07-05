@@ -47,3 +47,7 @@
 
 + [楼上的老大爷早上五点就直播怎么解决](https://www.v2ex.com/t/1143148)
 
++ [为什么 cursor 升级后越来越难用？自媒体却在使劲儿吹？](https://www.v2ex.com/t/1143150)
+
++ [当 Python 默认 No GIL 后， Web 框架是不是要大洗牌了](https://www.v2ex.com/t/1143018)
+
