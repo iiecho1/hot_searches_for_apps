@@ -189,3 +189,25 @@
 
 + [与普京通话后，特朗普为啥“不高兴”？](https://news.cctv.com/2025/07/05/ARTIaW6d5m6ldflaetSWpbza250705.shtml)
 
++ [中国在人权理事会代表70余国作人工智能促进无障碍建设共同发言](https://news.cctv.com/2025/07/05/ARTIkwwOyN9TPVFK6J630moy250705.shtml)
+
++ [美“独立日”多地举行反特朗普政府抗议](https://news.cctv.com/2025/07/05/ARTIptNSjMczCoVopyZwqU7n250705.shtml)
+
++ [捷克发生大规模停电](https://news.cctv.com/2025/07/05/ARTIZZTrSnaDqElbCL0v6KHY250705.shtml)
+
++ [民调：韩国总统李在明执政首月支持率为65%](https://news.cctv.com/2025/07/05/ARTIXFVsq8y2CTvWn7W22QrU250705.shtml)
+
++ [一个月逾500人遇害！美以主导的加沙物资分发点成“杀戮点”](https://news.cctv.com/2025/07/05/ARTIVnNkEbqCNCWoxfE5Bf3t250705.shtml)
+
++ [韩国前总统尹锡悦出席内乱特检组第二次传唤调查](https://news.cctv.com/2025/07/05/ARTI7JmGq1auaQxq62jVj4C9250705.shtml)
+
++ [美暂停对乌军援？美俄乌三方外另一个通话透露了重要信息](https://news.cctv.com/2025/07/05/ARTIahy5GaLWuX29NFRRNCVQ250705.shtml)
+
++ [美国总统特朗普签署“大而美”税收和支出法案](https://news.cctv.com/2025/07/05/ARTIfdTPsd7nbbqHgt7RP3yq250705.shtml)
+
++ [美国得克萨斯州“灾难性”洪水已致13人死亡 约23人失踪](https://news.cctv.com/2025/07/05/ARTIULnCnataaDRCCdZHdJAJ250705.shtml)
+
++ [中国驻玻利维亚使馆提醒中国公民防范麻疹疫情](https://news.cctv.com/2025/07/05/ARTI9HS3V3CCb6GLjwLrbbyn250705.shtml)
+
++ [以方收到哈马斯对停火提案回应 或在多哈间接谈判](https://news.cctv.com/2025/07/05/ARTIEwKcP3wm4jX154TdCJqP250705.shtml)
+

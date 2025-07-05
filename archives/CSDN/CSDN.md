@@ -151,3 +151,9 @@
 
 + [应用密码学纲要](https://blog.csdn.net/2301_79704829/article/details/149061775)
 
++ [揭秘SiC/GaN时代的高精度测试方案-电动汽车电机驱动系统功率测量技术全解析](https://blog.csdn.net/weixin_62244995/article/details/149094409)
+
++ [【粉丝福利社】大模型核心技术与开发实践：基于Transformer、PyTorch及Hugging Face](https://blog.csdn.net/aa2528877987/article/details/149063731)
+
++ [三角洲要求开启VT-D，DMA作弊的末日来了吗？DMA该如何应对反作弊的强势检测机制？](https://blog.csdn.net/imuzier/article/details/149117882)
+
