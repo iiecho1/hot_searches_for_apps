@@ -61,3 +61,7 @@
 
 + [吉利银河 E5 纯电 SUV 累计销量突破 15 万辆，售价 10.78 万元起](https://m.ithome.com/html/865925.htm)
 
++ [小米激光投影仪 3 上架：4K 分辨率、1000 流明 CVIA 亮度，4399 元（国补价 3519.2 元）](https://m.ithome.com/html/865895.htm)
+
++ [微软 Edge 浏览器第二次移除 Mica 云母效果](https://m.ithome.com/html/865977.htm)
+

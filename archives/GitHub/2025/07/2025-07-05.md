@@ -35,3 +35,17 @@
 
 + [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
++ [rustfs/rustfs](https://github.com/rustfs/rustfs)
+
++ [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
+
++ [megadose/toutatis](https://github.com/megadose/toutatis)
+
++ [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [directus/directus](https://github.com/directus/directus)
+
++ [google/perfetto](https://github.com/google/perfetto)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+

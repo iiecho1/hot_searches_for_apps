@@ -197,3 +197,9 @@
 
 + [飞算 JavaAI：突破效率边界的代码智能构造平台](https://blog.csdn.net/2302_79751907/article/details/149078677)
 
++ [YOLOv11改进缝合SCConv | 结合SRU与CRU模块的SCConv卷积结构对特征提取能力的增强（附代码）](https://blog.csdn.net/weixin_52908342/article/details/149138508)
+
++ [使用Jenkins完成springboot项目快速更新](https://blog.csdn.net/2202_75618418/article/details/149094620)
+
++ [WebRTC音频处理模块（APM）各个子模块工作流程的总结](https://blog.csdn.net/XiaoXiaoPengBo/article/details/149138050)
+

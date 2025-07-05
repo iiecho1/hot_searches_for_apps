@@ -235,3 +235,7 @@
 
 + [热浪持续 韩国6月气温创纪录 7月或现“极限高温”](https://news.cctv.com/2025/07/05/ARTIaYVqvPbINXOvAPLIqpqz250705.shtml)
 
++ [微软拟裁员约9000人](https://news.cctv.com/2025/07/05/ARTId2Gnkz4G0bzBscPrUl9Q250705.shtml)
+
++ [美国得州洪灾仍有多名儿童失踪 特朗普：令人震惊](https://news.cctv.com/2025/07/05/ARTIxS8kpaPjl8vBynLbqEqG250705.shtml)
+
