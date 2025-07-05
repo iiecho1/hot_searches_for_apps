@@ -239,3 +239,13 @@
 
 + [美国得州洪灾仍有多名儿童失踪 特朗普：令人震惊](https://news.cctv.com/2025/07/05/ARTIxS8kpaPjl8vBynLbqEqG250705.shtml)
 
++ [核心诉求分歧难消 美欧贸易谈判未有突破](https://news.cctv.com/2025/07/05/ARTIShQuQj7IrSHmWmSnTzoL250705.shtml)
+
++ [中国有力助推全球能源转型——访世界经济论坛专家尼古拉斯·瓦格纳](https://news.cctv.com/2025/07/05/ARTIZYqmYFx0msLbHhWxpEbq250705.shtml)
+
++ [中国式现代化为南非转型发展提供重要启示——南非官员谈访华见闻](https://news.cctv.com/2025/07/05/ARTIm7Coz4UOBWx2pFdLi2ij250705.shtml)
+
++ [巴西青年精英考察团来华交流——巴中友好，像亚马孙河和长江一样奔腾不息（体验“中国味儿”）](https://news.cctv.com/2025/07/05/ARTIZ1bkPvhWvpaGmRZYb1KU250705.shtml)
+
++ [“拉中关系拥有光明前景”——访哥伦比亚埃斯特尔纳多大学国际关系学教授莉娜·贝尔特兰](https://news.cctv.com/2025/07/05/ARTIukZnYhEGfB54kWRv9xcs250705.shtml)
+
