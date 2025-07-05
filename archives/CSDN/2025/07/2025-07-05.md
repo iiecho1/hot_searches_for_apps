@@ -213,3 +213,17 @@
 
 + [【Elasticsearch】检索高亮](https://blog.csdn.net/be_racle/article/details/149135846)
 
++ [Java 大视界 -- Java 大数据在智能医疗健康管理中的慢性病风险预测与个性化干预（330）](https://blog.csdn.net/atgfg/article/details/149081066)
+
++ [Linux内核深度解析：IPv4策略路由的核心实现与fib_rules.c源码剖析](https://blog.csdn.net/eidolon_foot/article/details/149141859)
+
++ [领码SPARK融合平台：赋能国企数字化新纪元 | 战略投资与生态共建邀约函——致央国企数科公司](https://blog.csdn.net/lgf228/article/details/149118588)
+
++ [ABP VNext + RediSearch：微服务级全文检索](https://blog.csdn.net/Kookoos/article/details/149122091)
+
++ [【网络安全】Webshell命令执行失败解决思路](https://blog.csdn.net/anquan2233/article/details/149097707)
+
++ [NumPy-核心函数np.dot()深入理解](https://blog.csdn.net/weixin_45562399/article/details/149126552)
+
++ [使用 DigitalPlat 免费搭配 Cloudflare Tunnel 实现飞牛系统、服务及 SSH 内网穿透教程](https://blog.csdn.net/loutengyuan/article/details/149126325)
+
