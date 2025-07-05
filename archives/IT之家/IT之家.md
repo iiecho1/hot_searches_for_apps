@@ -55,3 +55,9 @@
 
 + [格力市场总监朱磊：世界最好的空调是中国格力，格力钛的车全国唯一一款绝对不起火、不爆炸](https://m.ithome.com/html/865854.htm)
 
++ [每款 iPhone 上市前至少需测试 10000 台，苹果揭秘耐用性测试](https://m.ithome.com/html/865948.htm)
+
++ [领克 10 EM-P 车型首秀：全系标配四驱 + 激光雷达，车漆、内饰公布](https://m.ithome.com/html/865897.htm)
+
++ [吉利银河 E5 纯电 SUV 累计销量突破 15 万辆，售价 10.78 万元起](https://m.ithome.com/html/865925.htm)
+

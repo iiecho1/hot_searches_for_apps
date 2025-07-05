@@ -233,3 +233,5 @@
 
 + [不满“大而美” 马斯克“独立日”再提成立美国新政党](https://news.cctv.com/2025/07/05/ARTIaJSLCR0y0c4WLd8gzSij250705.shtml)
 
++ [热浪持续 韩国6月气温创纪录 7月或现“极限高温”](https://news.cctv.com/2025/07/05/ARTIaYVqvPbINXOvAPLIqpqz250705.shtml)
+
