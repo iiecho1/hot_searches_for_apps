@@ -33,3 +33,5 @@
 
 + [夏天到了,空调 or 风扇?](https://www.v2ex.com/t/1143212)
 
++ [网上卖的 DIY 净水器靠谱吗？](https://www.v2ex.com/t/1143286)
+

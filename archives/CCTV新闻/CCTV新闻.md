@@ -199,3 +199,5 @@
 
 + [历时近15个小时 尹锡悦结束独检组调查返家](https://news.cctv.com/2025/07/06/ARTIdZl6ycKaouNQPXYGtObP250706.shtml)
 
++ [俄“进步MS-31”货运飞船与国际空间站对接](https://news.cctv.com/2025/07/06/ARTInpZnicJhAOJRbJ7Gr5Id250706.shtml)
+
