@@ -183,3 +183,7 @@
 
 + [时隔57年 印度领导人访问阿根廷](https://news.cctv.com/2025/07/06/ARTI6pVnTHyyxSBYzc20GCTh250706.shtml)
 
++ [美国得州洪灾死亡人数上升至43人 仍有27名儿童失踪](https://news.cctv.com/2025/07/06/ARTIwuE8RGSBWYdrkh95FUlO250706.shtml)
+
++ [俄外交部发言人：俄美新一轮谈判日期尚未确定](https://news.cctv.com/2025/07/06/ARTIbuwCLYwnQJ4qnqdZceYO250706.shtml)
+

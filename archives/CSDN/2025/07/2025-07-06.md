@@ -151,3 +151,5 @@
 
 + [AI+Web3：从Web2到Web3的范式革命与深度技术实践](https://blog.csdn.net/qq_32682301/article/details/148810356)
 
++ [第十章：HIL-SERL 真实机器人训练实战](https://blog.csdn.net/jiaquan3011/article/details/149121467)
+
