@@ -35,3 +35,9 @@
 
 + [网上卖的 DIY 净水器靠谱吗？](https://www.v2ex.com/t/1143286)
 
++ [宝子们一年下来，停车费花了多少啊？](https://www.v2ex.com/t/1143257)
+
++ [周末写了一个免费小工具，可以快速下载任意 APP Icon](https://www.v2ex.com/t/1143287)
+
++ [sing-box 作者锐评 stash，所以 loon 值得买吗](https://www.v2ex.com/t/1143297)
+

@@ -201,3 +201,7 @@
 
 + [俄“进步MS-31”货运飞船与国际空间站对接](https://news.cctv.com/2025/07/06/ARTInpZnicJhAOJRbJ7Gr5Id250706.shtml)
 
++ [地震频发！日本鹿儿岛县近海再发生5.4级地震](https://news.cctv.com/2025/07/06/ARTIgDONNAXBsZepzVcYQgHu250706.shtml)
+
++ [外媒：伊朗最高领袖哈梅内伊公开露面](https://news.cctv.com/2025/07/06/ARTIUXwu6liTtcuOFM6d1VTN250706.shtml)
+
