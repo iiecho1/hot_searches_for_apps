@@ -209,3 +209,13 @@
 
 + [GitCode-我的运气的可量化方案](https://blog.csdn.net/feng8403000/article/details/149121183)
 
++ [【AI大模型】Spring AI 基于mysql实现对话持久存储详解](https://blog.csdn.net/zhangcongyi420/article/details/148821460)
+
++ [详细解析 .NET 依赖注入的三种生命周期模式](https://blog.csdn.net/sixpp/article/details/149133104)
+
++ [基于微信小程序的校园二手交易平台、微信小程序校园二手商城源代码+数据库+使用说明，layui+微信小程序+Spring Boot](https://blog.csdn.net/2301_76484015/article/details/149119656)
+
++ [2025最新Telegram快读助手：一款智能Telegram链接摘要机器人](https://blog.csdn.net/qq_44866828/article/details/149142908)
+
++ [【最新版】IntelliJ IDEA 2025 创建 SpringBoot 项目](https://blog.csdn.net/m0_63325890/article/details/149111366)
+

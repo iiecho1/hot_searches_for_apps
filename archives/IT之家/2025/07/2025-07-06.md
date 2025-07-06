@@ -67,3 +67,5 @@
 
 + [小米 YU7 正式交付首批车主，雷军跟车主合影](https://m.ithome.com/html/866166.htm)
 
++ [被长城汽车索赔 300 万元，博主“向北不断电”再次道歉](https://m.ithome.com/html/866173.htm)
+
