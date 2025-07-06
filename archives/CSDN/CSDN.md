@@ -185,3 +185,9 @@
 
 + [OpenCV篇——项目（二）OCR文档扫描](https://blog.csdn.net/2403_88453964/article/details/149100682)
 
++ [【基于C# + HALCON的工业视系统开发实战】二十六、车规级PCB全自动质检：3D SPI+AI光学检测融合方案](https://blog.csdn.net/weixin_39815573/article/details/149144725)
+
++ [ZigBee通信技术全解析：从协议栈到底层实现，全方位解读物联网核心无线技术](https://blog.csdn.net/weixin_62244995/article/details/149122804)
+
++ [接口自动化测试实战：测试用例也能自动生成](https://blog.csdn.net/ZangKang1/article/details/149122318)
+
