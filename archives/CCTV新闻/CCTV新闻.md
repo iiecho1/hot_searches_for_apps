@@ -161,3 +161,13 @@
 
 + [捷克所有变电站恢复运行 电力供应正逐步恢复](https://news.cctv.com/2025/07/05/ARTIQzhD5iuoreTYvIkjsck3250705.shtml)
 
++ [也门荷台达市遭以色列密集空袭](https://news.cctv.com/2025/07/07/ARTI3T6ZGpgSU8y5qspbXDtV250707.shtml)
+
++ [珍妮弗·西蒙斯当选苏里南首位女总统](https://news.cctv.com/2025/07/07/ARTISjySBg4DjyLw3t9GBtWA250707.shtml)
+
++ [美国得州洪灾已造成至少79人死亡](https://news.cctv.com/2025/07/07/ARTI1xwAHEexOtDCU31GztPq250707.shtml)
+
++ [美国得州洪灾已造成至少70人死亡 41人失踪](https://news.cctv.com/2025/07/07/ARTIQeOpBsprquFiX8OtVtTV250707.shtml)
+
++ [韩国：特检组向法院申请拘留前总统尹锡悦](https://news.cctv.com/2025/07/07/ARTICWJ2Yl5SWWDYijxNJcvu250707.shtml)
+
