@@ -27,3 +27,5 @@
 
 + [被长城汽车索赔 300 万元，博主“向北不断电”再次道歉](https://m.ithome.com/html/866173.htm)
 
++ [小米 YU7 明起开启交付，全国 58 城用户将喜提新车](https://m.ithome.com/html/866054.htm)
+
