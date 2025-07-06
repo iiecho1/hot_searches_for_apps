@@ -69,3 +69,11 @@
 
 + [Hello Venus Wiggle Wiggle](https://m.acfun.cn/v/?ac=47462470)
 
++ [Wonder Girls Tell me](https://m.acfun.cn/v/?ac=47462481)
+
++ [不可思议的高斯枪，用电磁力发射，好科幻的感觉](https://m.acfun.cn/v/?ac=47463272)
+
++ [少女时代 Genie 美少女战士~](https://m.acfun.cn/v/?ac=47462345)
+
++ [【歌回录像】Don t say lazy 20250423](https://m.acfun.cn/v/?ac=47464052)
+

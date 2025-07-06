@@ -187,3 +187,13 @@
 
 + [俄外交部发言人：俄美新一轮谈判日期尚未确定](https://news.cctv.com/2025/07/06/ARTIbuwCLYwnQJ4qnqdZceYO250706.shtml)
 
++ [“美国党”成立后 还要“参选”？ 马斯克给出时间表](https://news.cctv.com/2025/07/06/ARTIs9Vw9jj5Cv2jKzs0v618250706.shtml)
+
++ [巴基斯坦卡拉奇一栋建筑倒塌 已致23人死亡](https://news.cctv.com/2025/07/06/ARTI4TseFRZasLyyLNSKj5PR250706.shtml)
+
++ [俄罗斯一架安-2轻型飞机发生硬着陆 8人受伤](https://news.cctv.com/2025/07/06/ARTI9Lu1QQ79kxYCetDJRb37250706.shtml)
+
++ [以色列被曝多处军事设施曾遭伊朗袭击](https://news.cctv.com/2025/07/06/ARTIHCeeZ4kN63xLOIKJKRCr250706.shtml)
+
++ [印度拟对美征收报复性关税！谈判卡在哪儿？](https://news.cctv.com/2025/07/06/ARTIho0n4G8SBOJCZa1Hdzkr250706.shtml)
+
