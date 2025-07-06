@@ -109,3 +109,25 @@
 
 + [Redis性能优化](https://blog.csdn.net/2301_77599076/article/details/149138010)
 
++ [Java 大视界 -- Java 大数据在智能教育在线课程学习效果影响因素分析与优化设计（334）](https://blog.csdn.net/atgfg/article/details/149153758)
+
++ [【Cursor实战】AI 赋能 Chrome 插件开发：从零打造豆包图片去水印插件](https://blog.csdn.net/weixin_43288600/article/details/149138267)
+
++ [Spring AI+Redis会话记忆持久化存储实现](https://blog.csdn.net/2301_80696081/article/details/149155973)
+
++ [Android发展历程 ](https://blog.csdn.net/qq_63981644/article/details/149125285)
+
++ [接口自动化测试实战：测试用例也能自动生成](https://blog.csdn.net/ZangKang1/article/details/149122318)
+
++ [前端进阶之路-从传统前端到VUE-JS（第三期-VUE-JS配套UI组件的选择）（Element Plus的构建）](https://blog.csdn.net/2404_89737060/article/details/149140410)
+
++ [使用Jenkins完成springboot项目快速更新](https://blog.csdn.net/2202_75618418/article/details/149094620)
+
++ [深度分析：Microsoft .NET Framework System.Random 的 C++ 复刻实现](https://blog.csdn.net/liulilittle/article/details/149115217)
+
++ [YOLOv8实战(上) - 从零构建你的专属商品检测器](https://blog.csdn.net/qq_45590504/article/details/149145669)
+
++ [计算机网络：（七）网络层（上）网络层中重要的概念与网际协议 IP](https://blog.csdn.net/2402_83322742/article/details/149159915)
+
++ [ABP VNext + RediSearch：微服务级全文检索](https://blog.csdn.net/Kookoos/article/details/149122091)
+
