@@ -17,3 +17,5 @@
 
 + [周末写了一个免费 chrome 插件，可以把当前选项卡的链接转成 chromium 风格的二维码](https://www.v2ex.com/t/1143291)
 
++ [外区的 B 站 APP 未来不更新了，国区的 B 站 APP 有啥去广告以后不影响正常使用的规则吗](https://www.v2ex.com/t/1143317)
+
