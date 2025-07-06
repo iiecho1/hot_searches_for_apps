@@ -65,3 +65,5 @@
 
 + [罗马仕：向消费者表示深刻歉意，尽量开通所有召回渠道](https://m.ithome.com/html/866135.htm)
 
++ [小米 YU7 正式交付首批车主，雷军跟车主合影](https://m.ithome.com/html/866166.htm)
+
