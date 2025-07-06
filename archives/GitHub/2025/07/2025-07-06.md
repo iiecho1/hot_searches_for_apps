@@ -23,3 +23,17 @@
 
 + [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [dockur/macos](https://github.com/dockur/macos)
+
++ [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
++ [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
+
++ [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+
++ [Alex313031/thorium](https://github.com/Alex313031/thorium)
+
++ [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
+
++ [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+

@@ -225,3 +225,5 @@
 
 + [欧盟内部对美贸易立场分歧明显 德媒称谈判前景不乐观](https://news.cctv.com/2025/07/06/ARTIVnWA2v0X3hR9dvN57eGS250706.shtml)
 
++ [美国被曝对伊朗的袭击未能彻底摧毁其核能力](https://military.cctv.com/2025/07/06/ARTIYPB5efSkSMFO7D0lEB7C250706.shtml)
+

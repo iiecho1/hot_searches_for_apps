@@ -51,3 +51,9 @@
 
 + [OpenClash 更新 UI 了](https://www.v2ex.com/t/1143277)
 
++ [发现一个有意思的天气网站（气温地图）](https://www.v2ex.com/t/1143299)
+
++ [有在公司访问家里电脑的需求，但是不想在公司电脑上装任何其他客户端软件，有什么方案](https://www.v2ex.com/t/1143242)
+
++ [周末写了一个免费 chrome 插件，可以把当前选项卡的链接转成 chromium 风格的二维码](https://www.v2ex.com/t/1143291)
+

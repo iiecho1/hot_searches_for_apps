@@ -203,3 +203,7 @@
 
 + [使用 collapse 和 cardinality 实现高效分页在 Elasticsearch 中](https://blog.csdn.net/UbuntuTouch/article/details/149132271)
 
++ [基于 PyTorch 的猫狗图像分类实战](https://blog.csdn.net/lixiemang8887/article/details/149118649)
+
++ [Softhub软件下载站实战开发（十三）：软件管理前端分片上传实现](https://blog.csdn.net/u012399690/article/details/149144129)
+
