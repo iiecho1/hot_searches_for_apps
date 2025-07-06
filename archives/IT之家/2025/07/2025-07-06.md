@@ -69,3 +69,9 @@
 
 + [被长城汽车索赔 300 万元，博主“向北不断电”再次道歉](https://m.ithome.com/html/866173.htm)
 
++ [手机可以查档案了：全国档案查询利用服务平台移动端 App 上线](https://m.ithome.com/html/866189.htm)
+
++ [华为钱包刷卡状态实况窗 7 月上线，适配鸿蒙 HarmonyOS 5.1 系统机型](https://m.ithome.com/html/866158.htm)
+
++ [李斌：蔚来汽车的钱都亏在明处，资产负债表非常干净](https://m.ithome.com/html/866123.htm)
+
