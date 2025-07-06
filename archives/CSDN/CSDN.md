@@ -191,3 +191,11 @@
 
 + [接口自动化测试实战：测试用例也能自动生成](https://blog.csdn.net/ZangKang1/article/details/149122318)
 
++ [【Arduino 动手做】使用 ESP32 和 Arduino 的 AI 驱动机器人](https://blog.csdn.net/weixin_41659040/article/details/149151622)
+
++ [【华为开发者空间 x DeepSeek】基于华为开发者空间云主机DeepSeek助力电商企业AI海报文案驱动的最佳实践落地](https://blog.csdn.net/wanmeijuhao/article/details/149112809)
+
++ [百度文心大模型 4.5 开源深度测评：技术架构、部署实战与生态协同全解析](https://blog.csdn.net/2301_80840905/article/details/149033039)
+
++ [缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级](https://blog.csdn.net/a15799652947/article/details/149124946)
+

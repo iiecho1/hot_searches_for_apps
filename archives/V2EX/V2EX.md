@@ -43,3 +43,7 @@
 
 + [RustDesk 自建中转服务器卡顿，疑是 UDP 打洞遭运营商限制](https://www.v2ex.com/t/1143224)
 
++ [请教下如今 sata ssd 如何买？什么行情？有啥推荐的？](https://www.v2ex.com/t/1143234)
+
++ [M4 Pro 虚拟机运行 Win11 系统](https://www.v2ex.com/t/1143284)
+

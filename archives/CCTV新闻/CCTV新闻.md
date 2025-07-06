@@ -209,3 +209,15 @@
 
 + [胡塞武装称使用高超音速导弹击中以色列机场](https://news.cctv.com/2025/07/06/ARTISGgtBuDPNirSwvcHjT0M250706.shtml)
 
++ [韩国特检组向法院申请拘留前总统尹锡悦](https://news.cctv.com/2025/07/06/ARTITRQGMxwJnMIKuaDkq9OJ250706.shtml)
+
++ [肯尼亚学者：全球南方需要中国，中国属于全球南方](https://news.cctv.com/2025/07/06/ARTI6sgcncGdH2dO2MmlKQO8250706.shtml)
+
++ [金砖国家是完善全球治理体系的重要力量](https://news.cctv.com/2025/07/06/ARTI6bCxtwwS5eCuiUOqKzEI250706.shtml)
+
++ [鹿儿岛县近海半个月地震1500次 日本气象厅再发预警](https://news.cctv.com/2025/07/06/ARTIfiU3yZjKU9X4mgPj9wEu250706.shtml)
+
++ [美得州洪灾已致51人死亡 大裁员被质疑影响气象机构预警能力](https://news.cctv.com/2025/07/06/ARTIrccZraPxbsssmImM1pNF250706.shtml)
+
++ [特朗普：“爱国者”导弹“相当惊人”，乌克兰“很需要”](https://news.cctv.com/2025/07/06/ARTIugZZF0qFPNUGCdXrqNbD250706.shtml)
+
