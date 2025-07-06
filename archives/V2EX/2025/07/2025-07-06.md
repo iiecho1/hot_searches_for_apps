@@ -47,3 +47,7 @@
 
 + [M4 Pro 虚拟机运行 Win11 系统](https://www.v2ex.com/t/1143284)
 
++ [Prompt Security：你的剪贴板数据守护者](https://www.v2ex.com/t/1143228)
+
++ [OpenClash 更新 UI 了](https://www.v2ex.com/t/1143277)
+

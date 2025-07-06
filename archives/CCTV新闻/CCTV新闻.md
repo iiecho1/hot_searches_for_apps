@@ -221,3 +221,7 @@
 
 + [特朗普：“爱国者”导弹“相当惊人”，乌克兰“很需要”](https://news.cctv.com/2025/07/06/ARTIugZZF0qFPNUGCdXrqNbD250706.shtml)
 
++ [加沙停火间接谈判7月6日在多哈重启 调解方已通知哈马斯](https://news.cctv.com/2025/07/06/ARTIsEMbHstwWvg6o2S9gCM6250706.shtml)
+
++ [欧盟内部对美贸易立场分歧明显 德媒称谈判前景不乐观](https://news.cctv.com/2025/07/06/ARTIVnWA2v0X3hR9dvN57eGS250706.shtml)
+

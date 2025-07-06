@@ -199,3 +199,7 @@
 
 + [缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级](https://blog.csdn.net/a15799652947/article/details/149124946)
 
++ [Spring boot之身份验证和访问控制](https://blog.csdn.net/qq_46236057/article/details/148832615)
+
++ [使用 collapse 和 cardinality 实现高效分页在 Elasticsearch 中](https://blog.csdn.net/UbuntuTouch/article/details/149132271)
+
