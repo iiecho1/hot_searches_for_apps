@@ -57,3 +57,11 @@
 
 + [长江存储首席科学家：我国三维闪存芯片技术实现从落后到赶超](https://m.ithome.com/html/866201.htm)
 
++ [小米王晓雁：东北内蒙持续高温，空调销量暴涨最高达去年同期 20 倍](https://m.ithome.com/html/866285.htm)
+
++ [小米深圳国际总部开始入驻：上班也能看海景，开 1000 平小米之家](https://m.ithome.com/html/866380.htm)
+
++ [微软 Win11 25H2 新功能：用户可自行移除预装的 Microsoft Store 应用](https://m.ithome.com/html/866210.htm)
+
++ [夏一平微博罕见更新，此前有消息称极越汽车“大概率”不会破产](https://m.ithome.com/html/866248.htm)
+

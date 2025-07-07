@@ -227,3 +227,11 @@
 
 + [随机森林算法详解：Bagging思想的代表算法](https://blog.csdn.net/Springfield3006/article/details/149159896)
 
++ [Apache Spark 4.0：将大数据分析提升到新的水平](https://blog.csdn.net/qq_26442553/article/details/149158550)
+
++ [9. 【Vue实战--孢子记账--Web 版开发】-- 账户账本管理（二）](https://blog.csdn.net/gangzhucoll/article/details/149159194)
+
++ [【教程4＞第9章＞第2节】通过FPGA实现RGB图像转换为HSV图像——MATLAB仿真测试](https://blog.csdn.net/ccsss22/article/details/149172992)
+
++ [文心一言4.5开源模型测评：ERNIE-4.5-0.3B超轻量模型部署指南](https://blog.csdn.net/michaelline/article/details/149165337)
+

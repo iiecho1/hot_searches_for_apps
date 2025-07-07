@@ -211,3 +211,7 @@
 
 + [特朗普三会内塔尼亚胡，对加沙局势能有什么影响？](https://news.cctv.com/2025/07/07/ARTIireUKpIRWnT7oeN5IQlz250707.shtml)
 
++ [记者手记丨美国关税政策使加拿大“汽车城”遭受前所未有冲击](https://news.cctv.com/2025/07/07/ARTIbhQC7a96k8khAI1hjtuH250707.shtml)
+
++ [共话中国经济新机遇丨专访：期待依托中国市场提升产业规模和竞争力——访马来西亚国际榴莲产业发展联合会秘书长张健豪](https://news.cctv.com/2025/07/07/ARTIcb3PIK0p837bTEBgVlqv250707.shtml)
+
