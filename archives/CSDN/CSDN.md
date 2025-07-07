@@ -175,3 +175,7 @@
 
 + [ZigBee通信技术全解析：从协议栈到底层实现，全方位解读物联网核心无线技术](https://blog.csdn.net/weixin_62244995/article/details/149122804)
 
++ [【K210+STM32项目】基于K210与STM32协同工作的智能垃圾分类系统设计与实现(更新3.0版本)（完整工程资料源码）](https://blog.csdn.net/m0_63168877/article/details/149120003)
+
++ [MySQL 八股文【持续更新ing】](https://blog.csdn.net/qq_45817631/article/details/149114267)
+
