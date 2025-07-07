@@ -199,3 +199,5 @@
 
 + [火山灰柱最高达1.8万米 印尼勒沃托比火山喷发](https://news.cctv.com/2025/07/07/ARTIWYw2T7S669FOFljWOHTU250707.shtml)
 
++ [俄总统普京免除斯塔罗沃伊特俄交通部长职务](https://news.cctv.com/2025/07/07/ARTIQIqkeP2yjSyevIPxrSfB250707.shtml)
+
