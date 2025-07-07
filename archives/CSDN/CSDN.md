@@ -187,3 +187,7 @@
 
 + [基于文心开源大模型ERNIE-4.5-0.3B-Paddle私有化部署并构建一个企业智能客服系统](https://blog.csdn.net/m0_61243965/article/details/149153744)
 
++ [轨迹优化 | 基于激光雷达的欧氏距离场ESDF地图构建(附ROS C++仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/149160186)
+
++ [【网络系列】HTTP 429 状态码](https://blog.csdn.net/qyj19920704/article/details/149150028)
+

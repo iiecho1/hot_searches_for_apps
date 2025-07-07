@@ -193,3 +193,9 @@
 
 + [特朗普回应马斯克成立新政党：“完全脱轨失控”](https://news.cctv.com/2025/07/07/ARTI6OSLXwBaSUonrqcZ9ecN250707.shtml)
 
++ [约20架战机投掷50多枚弹药 以军深夜袭击胡塞武装能源设施](https://news.cctv.com/2025/07/07/ARTIxocedxkUDxN90d0kePJc250707.shtml)
+
++ [特朗普：即将公布各国关税信函 税率最高70%](https://news.cctv.com/2025/07/07/ARTIaxMzfejGjxFH6I1P8Jof250707.shtml)
+
++ [火山灰柱最高达1.8万米 印尼勒沃托比火山喷发](https://news.cctv.com/2025/07/07/ARTIWYw2T7S669FOFljWOHTU250707.shtml)
+
