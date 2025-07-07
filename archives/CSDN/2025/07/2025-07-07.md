@@ -213,3 +213,9 @@
 
 + [Redis--主从复制详解](https://blog.csdn.net/m0_74168976/article/details/149160777)
 
++ [基于5G的认知触觉网络概述](https://blog.csdn.net/ccsss22/article/details/149156474)
+
++ [dify 1.5.1版本全面解析——知识库索引、动态参数及结构化输出插件全新登场](https://blog.csdn.net/weixin_48502062/article/details/149111580)
+
++ [GaussDB应用场景全景解析：从金融核心到物联网的分布式数据库实践](https://blog.csdn.net/GaussDB/article/details/149169249)
+

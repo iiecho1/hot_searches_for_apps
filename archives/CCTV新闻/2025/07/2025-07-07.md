@@ -205,3 +205,5 @@
 
 + [俄总统普京宣布任命安德烈·尼基京为交通部代理部长](https://news.cctv.com/2025/07/07/ARTIeBdvTkO5BVeHpcGXvXgU250707.shtml)
 
++ [欧元区5月零售贸易额环比下降0.7%](https://news.cctv.com/2025/07/07/ARTIMeMcf9jGaix56jrkC8yx250707.shtml)
+
