@@ -99,3 +99,13 @@
 
 + [计算机网络实验——配置ACL](https://blog.csdn.net/m0_74985950/article/details/145475408)
 
++ [【优化】Unity OpenXR渲染模式详解与优化实践：Multi Pass vs Single Pass Instanced](https://blog.csdn.net/qq_41140324/article/details/149170302)
+
++ [UiVLA解读](https://blog.csdn.net/qq_45622118/article/details/149124639)
+
++ [深度解析：Meta重金挖人组建超级智能实验室，OpenAI人才流失，AI人才大战全面升级？](https://blog.csdn.net/qq_51646682/article/details/149134347)
+
++ [webpack+vite前端构建工具 -11实战中的配置技巧](https://blog.csdn.net/qq_37581764/article/details/148999845)
+
++ [【网络协议安全】任务12：二层物理和单臂路由及三层vlanif配置方法](https://blog.csdn.net/2303_76492156/article/details/149114704)
+
