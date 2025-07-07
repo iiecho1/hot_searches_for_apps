@@ -221,3 +221,9 @@
 
 + [TensorFlow深度学习实战——去噪自编码器详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/144437953)
 
++ [为什么 AI 干不了体力活——对话清华大学教授刘嘉 | 万有引力](https://blog.csdn.net/tangxiaoyin/article/details/149172084)
+
++ [【C++开源库使用】使用libcurl开源库发送url请求（http请求）去下载用户头像文件（附完整源码）](https://blog.csdn.net/chenlycly/article/details/149175549)
+
++ [随机森林算法详解：Bagging思想的代表算法](https://blog.csdn.net/Springfield3006/article/details/149159896)
+
