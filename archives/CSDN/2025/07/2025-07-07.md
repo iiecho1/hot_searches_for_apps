@@ -219,3 +219,5 @@
 
 + [GaussDB应用场景全景解析：从金融核心到物联网的分布式数据库实践](https://blog.csdn.net/GaussDB/article/details/149169249)
 
++ [TensorFlow深度学习实战——去噪自编码器详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/144437953)
+

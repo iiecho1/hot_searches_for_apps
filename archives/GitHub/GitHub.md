@@ -19,3 +19,19 @@
 
 + [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 
++ [rustfs/rustfs](https://github.com/rustfs/rustfs)
+
++ [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
+
++ [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+
++ [commaai/openpilot](https://github.com/commaai/openpilot)
+
++ [smallcloudai/refact](https://github.com/smallcloudai/refact)
+
++ [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
+
++ [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering)
+
++ [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)
+
