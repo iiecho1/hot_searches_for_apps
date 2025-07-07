@@ -133,3 +133,5 @@
 
 + [DTW模版匹配：弹性对齐的时间序列相似度度量算法](https://blog.csdn.net/daqianai/article/details/149160885)
 
++ [GaussDB应用场景全景解析：从金融核心到物联网的分布式数据库实践](https://blog.csdn.net/GaussDB/article/details/149169249)
+

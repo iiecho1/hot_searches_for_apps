@@ -161,3 +161,11 @@
 
 + [哈马斯称积极回应停火提案 以媒披露协议细节](https://news.cctv.com/2025/07/05/ARTIDVDxHqgfPaWwmC9cdVno250705.shtml)
 
++ [埃及电信大楼失火致伤22人 开罗网络服务大面积中断](https://news.cctv.com/2025/07/08/ARTItpd4GEu125if4wk3Pmkr250708.shtml)
+
++ [以色列拟在拉法建“人道主义城” 安置所有加沙人口](https://news.cctv.com/2025/07/08/ARTIeNwLlWiAqNT9eFt4L9ei250708.shtml)
+
++ [美国得克萨斯州洪灾已造成至少104人死亡](https://news.cctv.com/2025/07/08/ARTIOzbGWlbahGms69wzTwhU250708.shtml)
+
++ [特朗普签署行政命令 将“对等关税”暂缓期延长至8月1日](https://news.cctv.com/2025/07/08/ARTI0Q8oHo3XULcgsrWBBvJa250708.shtml)
+
