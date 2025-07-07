@@ -179,3 +179,11 @@
 
 + [MySQL 八股文【持续更新ing】](https://blog.csdn.net/qq_45817631/article/details/149114267)
 
++ [百度开源文心 4.5 系列开源大模型 GitCode 本地化部署，硅基流动：文心 vs. DeepSeek vs. Qwen 3.0 深度测评](https://blog.csdn.net/weixin_62765017/article/details/149166630)
+
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(四十一) -＞ 获取自定义编译参数](https://blog.csdn.net/weixin_74809706/article/details/149161474)
+
++ [深度解析：Meta重金挖人组建超级智能实验室，OpenAI人才流失，AI人才大战全面升级？](https://blog.csdn.net/qq_51646682/article/details/149134347)
+
++ [基于文心开源大模型ERNIE-4.5-0.3B-Paddle私有化部署并构建一个企业智能客服系统](https://blog.csdn.net/m0_61243965/article/details/149153744)
+
