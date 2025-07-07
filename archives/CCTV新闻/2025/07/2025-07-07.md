@@ -201,3 +201,5 @@
 
 + [俄总统普京免除斯塔罗沃伊特俄交通部长职务](https://news.cctv.com/2025/07/07/ARTIQIqkeP2yjSyevIPxrSfB250707.shtml)
 
++ [全球@中国|巴基斯坦学者苏海尔·马哈茂德：上合组织日益发展壮大 中国作用非常重要](https://news.cctv.com/2025/07/07/ARTIrwO7XrsocIkXdEPlT3j7250707.shtml)
+

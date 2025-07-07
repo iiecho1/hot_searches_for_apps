@@ -195,3 +195,13 @@
 
 + [Vue生命周期](https://blog.csdn.net/tianzhiyi1989sq/article/details/149160552)
 
++ [医疗AI底层能力全链条工程方案的深度分析：从技术突破到临床应用](https://blog.csdn.net/kkiron/article/details/149166572)
+
++ [信息检索重排序技术深度解析：Cross-Encoders、ColBERT与大语言模型方法的实践对比](https://blog.csdn.net/m0_46510245/article/details/149167783)
+
++ [一条 SQL 语句的内部执行流程详解（MySQL为例）](https://blog.csdn.net/qq_45772447/article/details/149157378)
+
++ [将LLamaFactory微调功能包装为API：基于FastAPI的服务化改造](https://blog.csdn.net/jining11/article/details/148945348)
+
++ [同步，异步复位问题](https://blog.csdn.net/qq_45926544/article/details/149138463)
+
