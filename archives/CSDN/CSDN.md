@@ -145,3 +145,17 @@
 
 + [深度剖析：将微内核通信协议（MCP）注入遗留系统——构建面向未来的分布式通信基石](https://blog.csdn.net/Liudef06/article/details/149157416)
 
++ [【挑战14天学完python和pytorch】- day01](https://blog.csdn.net/weixin_51229662/article/details/148785060)
+
++ [计算机网络笔记(不全)](https://blog.csdn.net/2202_75362371/article/details/148761824)
+
++ [【python实用小脚本-128】基于 Python 的 Hacker News 爬虫工具：自动化抓取新闻数据](https://blog.csdn.net/kylner/article/details/149118584)
+
++ [Spring Boot 日志](https://blog.csdn.net/2302_77179144/article/details/143623871)
+
++ [【网络协议安全】任务12：二层物理和单臂路由及三层vlanif配置方法](https://blog.csdn.net/2303_76492156/article/details/149114704)
+
++ [Linux《库的制作与原理》](https://blog.csdn.net/2303_81098358/article/details/148448190)
+
++ [【Kubernetes系列】Kubernetes 资源请求（Requests）](https://blog.csdn.net/qyj19920704/article/details/149150805)
+

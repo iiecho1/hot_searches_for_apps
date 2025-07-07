@@ -171,3 +171,7 @@
 
 + [韩国：特检组向法院申请拘留前总统尹锡悦](https://news.cctv.com/2025/07/07/ARTICWJ2Yl5SWWDYijxNJcvu250707.shtml)
 
++ [美国得州洪水死亡人数升至80人 至少41人失踪](https://news.cctv.com/2025/07/07/ARTIm2g1xfy5jQjy3TJIz46r250707.shtml)
+
++ [马斯克成立“美国党” 特朗普回应：荒谬](https://news.cctv.com/2025/07/07/ARTIFxnprhnGJnftPI6QxMHg250707.shtml)
+
