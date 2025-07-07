@@ -235,3 +235,9 @@
 
 + [文心一言4.5开源模型测评：ERNIE-4.5-0.3B超轻量模型部署指南](https://blog.csdn.net/michaelline/article/details/149165337)
 
++ [基于URLLC的5G触觉网络能效优化](https://blog.csdn.net/ccsss22/article/details/149177299)
+
++ [jvm架构原理剖析篇](https://blog.csdn.net/zhangchen124/article/details/149136869)
+
++ [使用 Python 实现 ETL 流程：从文本文件提取到数据处理的全面指南](https://blog.csdn.net/abc666_666/article/details/149137214)
+
