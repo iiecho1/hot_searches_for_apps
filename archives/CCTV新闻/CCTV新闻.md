@@ -175,3 +175,21 @@
 
 + [马斯克成立“美国党” 特朗普回应：荒谬](https://news.cctv.com/2025/07/07/ARTIFxnprhnGJnftPI6QxMHg250707.shtml)
 
++ [韩国法院将于9日下午对尹锡悦进行拘捕必要性审查](https://news.cctv.com/2025/07/07/ARTIV3ph2KLgrW6R0tyNdHeJ250707.shtml)
+
++ [特朗普否认削减气象部门预算及裁员影响得州洪灾应对](https://news.cctv.com/2025/07/07/ARTIgq4N8BuXvshotGDOGFIK250707.shtml)
+
++ [热点问答｜美国得州洪灾灾情缘何如此严重](https://news.cctv.com/2025/07/07/ARTItBYQJCaMiiHtsPJ7BhB6250707.shtml)
+
++ [专访丨“正视错误、承认责任才能避免再次犯错”——访日本近现代史学者石田隆至](https://news.cctv.com/2025/07/07/ARTIcj1axBCY1G4GOovrzVKd250707.shtml)
+
++ [马来西亚总理：金砖国家合作致力于构建公正合理全球治理体系](https://news.cctv.com/2025/07/07/ARTIPvSJY9CFIGf0TASRrY6x250707.shtml)
+
++ [新华述评丨历史十字路口，世界为何需要“大金砖”](https://news.cctv.com/2025/07/07/ARTIryV4eedXRPYbxxAsF1zs250707.shtml)
+
++ [加沙停火谈判首轮会议结束 各方未能达成一致](https://news.cctv.com/2025/07/07/ARTI5Y29Hb9UiHtP1EblnBOY250707.shtml)
+
++ [“睿宝”“辉宝”今天两周岁啦 韩国爱宝乐园为熊猫双胞胎办生日会](https://news.cctv.com/2025/07/07/ARTIeUUpz0C09ehmSxvMAZNd250707.shtml)
+
++ [特朗普回应马斯克成立新政党：“完全脱轨失控”](https://news.cctv.com/2025/07/07/ARTI6OSLXwBaSUonrqcZ9ecN250707.shtml)
+

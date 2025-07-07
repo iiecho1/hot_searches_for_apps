@@ -159,3 +159,19 @@
 
 + [【Kubernetes系列】Kubernetes 资源请求（Requests）](https://blog.csdn.net/qyj19920704/article/details/149150805)
 
++ [百度文心一言开源大模型ERNIE-4.5-0.3B-PT深度测评](https://blog.csdn.net/m0_68111267/article/details/149126915)
+
++ [HTML5实现好看自媒体监控数据测评推广，大屏可视化多平台兼容网页源码](https://blog.csdn.net/weixin_43151418/article/details/149150285)
+
++ [李宏毅genai笔记：推理](https://blog.csdn.net/qq_40206371/article/details/149160073)
+
++ [基于SpringBoot+Redis实现外呼频次限制功能](https://blog.csdn.net/zgp18963349823/article/details/149121365)
+
++ [Linux操作系统之文件（五）：文件系统（下）](https://blog.csdn.net/htw250056/article/details/149158923)
+
++ [WSRL——从离线数据中热启动的RL可20分钟内控制真实机器人：先离线RL预训练，之后热身，最后丢弃离线数据下做在线RL微调](https://blog.csdn.net/v_JULY_v/article/details/149156109)
+
++ [Tomcat镜像实战：掌握Dockerfile的编写以及发布项目](https://blog.csdn.net/qq_45855825/article/details/149109320)
+
++ [ZigBee通信技术全解析：从协议栈到底层实现，全方位解读物联网核心无线技术](https://blog.csdn.net/weixin_62244995/article/details/149122804)
+
