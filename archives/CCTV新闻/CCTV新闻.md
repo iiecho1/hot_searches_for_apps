@@ -203,3 +203,5 @@
 
 + [全球@中国|巴基斯坦学者苏海尔·马哈茂德：上合组织日益发展壮大 中国作用非常重要](https://news.cctv.com/2025/07/07/ARTIrwO7XrsocIkXdEPlT3j7250707.shtml)
 
++ [俄总统普京宣布任命安德烈·尼基京为交通部代理部长](https://news.cctv.com/2025/07/07/ARTIeBdvTkO5BVeHpcGXvXgU250707.shtml)
+
