@@ -109,3 +109,23 @@
 
 + [【网络协议安全】任务12：二层物理和单臂路由及三层vlanif配置方法](https://blog.csdn.net/2303_76492156/article/details/149114704)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在工业物联网设备能耗实时监测与节能优化中的应用（332）](https://blog.csdn.net/atgfg/article/details/149137683)
+
++ [[免费]基于Python豆瓣电影数据分析及可视化系统(Flask+echarts+pandas)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/149172558)
+
++ [深度学习篇---Yolov系列](https://blog.csdn.net/2301_79556402/article/details/149160789)
+
++ [深入理解责任链模式：从HTTP中间件到异常处理的实战应用](https://blog.csdn.net/IRpickstars/article/details/149146993)
+
++ [Linux《库的制作与原理》](https://blog.csdn.net/2303_81098358/article/details/148448190)
+
++ [深入解析TCP：可靠传输的核心机制与实现逻辑（三次握手、四次挥手、流量控制、滑动窗口、拥塞控制、慢启动、延时应答、面向字节流、粘包问题）](https://blog.csdn.net/2301_80774875/article/details/149031543)
+
++ [指尖上的魔法：优雅高效的Linux命令手册](https://blog.csdn.net/2402_84532723/article/details/149135109)
+
++ [arm 精准总线错误与非精准总线错误](https://blog.csdn.net/wwwlyj123321/article/details/149156566)
+
++ [HTML网页应用打包Android App 完整实践指南](https://blog.csdn.net/2501_90357013/article/details/149141564)
+
++ [【iOS设计模式】深入理解MVC架构 - 重构你的第一个App](https://blog.csdn.net/g984160547/article/details/148588997)
+
