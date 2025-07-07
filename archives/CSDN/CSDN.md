@@ -129,3 +129,7 @@
 
 + [【iOS设计模式】深入理解MVC架构 - 重构你的第一个App](https://blog.csdn.net/g984160547/article/details/148588997)
 
++ [RESTful风格](https://blog.csdn.net/2302_80067378/article/details/149177736)
+
++ [DTW模版匹配：弹性对齐的时间序列相似度度量算法](https://blog.csdn.net/daqianai/article/details/149160885)
+
