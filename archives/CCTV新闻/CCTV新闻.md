@@ -169,3 +169,7 @@
 
 + [特朗普签署行政命令 将“对等关税”暂缓期延长至8月1日](https://news.cctv.com/2025/07/08/ARTI0Q8oHo3XULcgsrWBBvJa250708.shtml)
 
++ [德国各界强调共同合作 反对美国滥施关税](https://news.cctv.com/2025/07/08/ARTIXqXos7F9fgbZzcezxp8t250708.shtml)
+
++ [俄外长：俄对政治外交途径解决乌问题持开放态度](https://news.cctv.com/2025/07/08/ARTI1BJOOGTEoUU5yZ840FV7250708.shtml)
+

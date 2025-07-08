@@ -135,3 +135,9 @@
 
 + [GaussDB应用场景全景解析：从金融核心到物联网的分布式数据库实践](https://blog.csdn.net/GaussDB/article/details/149169249)
 
++ [人体坐姿检测系统项目教程（YOLO11+PyTorch+可视化）](https://blog.csdn.net/lydz1/article/details/149155441)
+
++ [.Net配置文件appsetting.json的几种读取方法](https://blog.csdn.net/sixpp/article/details/149131440)
+
++ [spring中@Transactional注解和事务的实战理解附代码](https://blog.csdn.net/weixin_73273374/article/details/149154336)
+
