@@ -23,3 +23,7 @@
 
 + [关于中医：一图胜千言](https://www.v2ex.com/t/1143638)
 
++ [为什么有人会对公司有感情？](https://www.v2ex.com/t/1143661)
+
++ [$v2ex 都买了吗？](https://www.v2ex.com/t/1143631)
+

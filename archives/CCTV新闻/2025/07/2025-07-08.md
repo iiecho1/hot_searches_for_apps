@@ -187,3 +187,9 @@
 
 + [中领馆：一中国旅行团所乘巴士在新西兰南岛发生侧翻，多人受伤](https://news.cctv.com/2025/07/08/ARTIcck4gI3huZtNzi1hUHI2250708.shtml)
 
++ [马斯克宣布成立新政党后 特斯拉市值蒸发超680亿美元](https://news.cctv.com/2025/07/08/ARTIKz29R8NRzbXEm4ah2pdx250708.shtml)
+
++ [美国达美航空一客机因便携式电池起火在佛州紧急降落](https://news.cctv.com/2025/07/08/ARTIiL6OFSrAVVYIOHldYxxD250708.shtml)
+
++ [巴西总统卢拉反对特朗普干涉巴内政](https://news.cctv.com/2025/07/08/ARTIQ1c8oCDtUKZ4SswbTegv250708.shtml)
+

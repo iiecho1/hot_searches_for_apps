@@ -151,3 +151,9 @@
 
 + [Spring Boot 3.x 整合 Swagger（springdoc-openapi）实现接口文档](https://blog.csdn.net/weixin_45919016/article/details/149154740)
 
++ [AI大模型时代：技术工作者如何实现职业跃迁？转型指南干货（含实战方法论）](https://blog.csdn.net/Dreamy_zsy/article/details/149171327)
+
++ [2025最新如何解决VSCode远程连接开发机失败/解决方案大全](https://blog.csdn.net/qq_44866828/article/details/149183120)
+
++ [LabVIEW与FPGA超声探伤](https://blog.csdn.net/bjcyck/article/details/149166334)
+
