@@ -31,3 +31,7 @@
 
 + [买车被骗过程](https://www.v2ex.com/t/1143535)
 
++ [公司招了在读研究生的实习生,怎么客观的看待这种行为](https://www.v2ex.com/t/1143688)
+
++ [macOS 26 beta3 更新完 眼前一亮的感觉](https://www.v2ex.com/t/1143621)
+

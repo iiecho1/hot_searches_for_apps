@@ -199,3 +199,9 @@
 
 + [金砖推动科技合作 助力应对全球挑战——访巴西科技创新部长卢西亚娜·桑托斯](https://news.cctv.com/2025/07/08/ARTIePFFBw6zM0c9PCfoujc3250708.shtml)
 
++ [印尼沉船事故死亡人数升至10人 另有25人失踪](https://news.cctv.com/2025/07/08/ARTIIgJwutvRysaEc1jCm3aT250708.shtml)
+
++ [两名中国公民在新西兰南岛车祸中受伤](https://news.cctv.com/2025/07/08/ARTI7z48uSySQbSyS2A9ivpK250708.shtml)
+
++ [尼泊尔北部洪水致至少18人失踪](https://news.cctv.com/2025/07/08/ARTICOoLm1Y30FWJaJzB35mm250708.shtml)
+
