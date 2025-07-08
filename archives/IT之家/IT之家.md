@@ -39,3 +39,27 @@
 
 + [中国台湾地区曝多家殡葬公司勾结黑客窃取消防局出勤信息，竟比救护车先到事故现场“揽客”](https://m.ithome.com/html/866245.htm)
 
++ [身份证号前六位有了新规范，9 月起实施影响每个人](https://m.ithome.com/html/866462.htm)
+
++ [苹果 iOS / iPadOS 26 开发者预览版 Beta 3 发布：完善“液态玻璃”设计、新增壁纸风格等](https://m.ithome.com/html/866447.htm)
+
++ [苹果调整 iOS 26 液态玻璃设计，用户褒贬不一](https://m.ithome.com/html/866454.htm)
+
++ [外卖混战加剧：消息称淘宝投入资源比肩双 11，美团首度全面反击](https://m.ithome.com/html/866423.htm)
+
++ [罗马仕召回超 49 万台充电宝后续：有用户退款排到 17 万位](https://m.ithome.com/html/866417.htm)
+
++ [iPhone 17 Pro / Max 手机壳渲染图曝光：调整 MagSafe 设计，适应背面苹果 LOGO 下移](https://m.ithome.com/html/866490.htm)
+
++ [“纯血鸿蒙智行”：智界品牌汽车实物车标出炉](https://m.ithome.com/html/866435.htm)
+
++ [小米汽车答网友问：YU7 长车头兼顾美学实用，辅助驾驶激活等释疑](https://m.ithome.com/html/866440.htm)
+
++ [朴实商战仅需砸钱：美团神券年卡 9.9 元手慢无，到手 120 张 5 元无门槛膨胀神券](https://m.ithome.com/html/866571.htm)
+
++ [华为宣布 HarmonyOS 游戏将亮相 2025 ChinaJoy，含《王者荣耀》《光与夜之恋》《植物大战僵尸 3》等等](https://m.ithome.com/html/866494.htm)
+
++ [更新需谨慎：苹果 iOS 26 Beta 3 更新 BUG 汇总，通讯录姓氏头像乱码等](https://m.ithome.com/html/866546.htm)
+
++ [《流浪地球》落后现实：全国首型取消驾驶室的纯电无人矿卡“华能睿驰”信息公布](https://m.ithome.com/html/866481.htm)
+
