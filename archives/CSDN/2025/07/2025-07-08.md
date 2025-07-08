@@ -157,3 +157,9 @@
 
 + [LabVIEW与FPGA超声探伤](https://blog.csdn.net/bjcyck/article/details/149166334)
 
++ [DeepSeek飞机大战小游戏HTML5(附源码)](https://blog.csdn.net/wodeita/article/details/149142343)
+
++ [Chatbox➕知识库➕Mcp = 机器学习私人语音助手](https://blog.csdn.net/lwcwam/article/details/149181968)
+
++ [【React Hook 实用分享】useDict：一个用于缓存字典的hook](https://blog.csdn.net/qq_16051405/article/details/149180506)
+
