@@ -191,3 +191,11 @@
 
 + [保加利亚确定2026年1月改用欧元正式加入欧元区](https://news.cctv.com/2025/07/09/ARTIhBZwszTACTQmS6Fhryuy250709.shtml)
 
++ [美国得克萨斯州洪灾已致109人死亡](https://news.cctv.com/2025/07/09/ARTIzysHSNDnhSoLepybNhcd250709.shtml)
+
++ [法国南部森林火灾蔓延 已烧毁超700公顷林地](https://news.cctv.com/2025/07/09/ARTIsf39X6krTSFkPPpavFVx250709.shtml)
+
++ [美最高法院撤销下级法院命令 允许政府推进联邦机构大裁员](https://news.cctv.com/2025/07/09/ARTIloY9fcXkP1EI1xVfg8Lh250709.shtml)
+
++ [胡塞武装：海上袭击只针对以色列及其相关联目标](https://news.cctv.com/2025/07/09/ARTImyEo3ccs9g4azSw1h9wt250709.shtml)
+
