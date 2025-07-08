@@ -213,3 +213,5 @@
 
 + [波音787机型首起致命空难 印度官方提交首份调查报告](https://news.cctv.com/2025/07/08/ARTI2xLD1o9bDm5y6qqMkUYB250708.shtml)
 
++ [共同营造开放、包容的国际贸易环境](https://news.cctv.com/2025/07/08/ARTIb1LGNNLc1L3gGnA5onau250708.shtml)
+

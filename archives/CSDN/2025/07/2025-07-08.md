@@ -195,3 +195,5 @@
 
 + [1.1_5_2 计算机网络的性能指标(下)](https://blog.csdn.net/Lswblue/article/details/149178093)
 
++ [【matlab】基于支持向量机和NSGA-II算法的非晶合金变压器结构优化](https://blog.csdn.net/feng1790291543/article/details/145140792)
+
