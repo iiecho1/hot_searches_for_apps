@@ -183,3 +183,11 @@
 
 + [泰国政府正式撤回《综合娱乐场所法》修订版草案](https://news.cctv.com/2025/07/09/ARTIo27ZaejC5BVhqvg5Tjoo250709.shtml)
 
++ [特朗普称对普京“很不满意” 威胁对俄追加制裁](https://news.cctv.com/2025/07/09/ARTIc9WCYHBBnUUjgGfCOuGz250709.shtml)
+
++ [也门官员：胡塞武装袭击红海一艘货轮 船员3死2伤](https://news.cctv.com/2025/07/09/ARTIgTBFTNn1MbSL8bLpOpB3250709.shtml)
+
++ [以色列称在黎巴嫩“定点清除”一名哈马斯指挥官](https://news.cctv.com/2025/07/09/ARTIbAoNs5aRjtrgSGD1qv4V250709.shtml)
+
++ [保加利亚确定2026年1月改用欧元正式加入欧元区](https://news.cctv.com/2025/07/09/ARTIhBZwszTACTQmS6Fhryuy250709.shtml)
+
