@@ -215,3 +215,11 @@
 
 + [共同营造开放、包容的国际贸易环境](https://news.cctv.com/2025/07/08/ARTIb1LGNNLc1L3gGnA5onau250708.shtml)
 
++ [日本说仅约27%国民用过生成式AI](https://news.cctv.com/2025/07/08/ARTItwi1ZpefHQsUnfS6BWVQ250708.shtml)
+
++ [伊朗外交部发言人否认向美方请求会谈](https://news.cctv.com/2025/07/08/ARTIuW97pNO6MpTgRmjWSa5a250708.shtml)
+
++ [瑞银调查：近半数各国央行认为美债可能重组](https://news.cctv.com/2025/07/08/ARTImLU1BRI2z9iCJnhno3qJ250708.shtml)
+
++ [埃及电信大楼火灾死伤人数升至31人](https://news.cctv.com/2025/07/08/ARTI2Yg9dZWS7x6Vr6uogwwn250708.shtml)
+
