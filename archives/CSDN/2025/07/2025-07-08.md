@@ -165,3 +165,13 @@
 
 + [Midjourney轻松实现高质量图片和视频生成](https://blog.csdn.net/m0_57874805/article/details/149190724)
 
++ [AIGC与影视制作：技术革命、产业重构与未来图景](https://blog.csdn.net/qq_32682301/article/details/149191286)
+
++ [Bright Data MCP+Trae ：快速构建电商导购助手垂直智能体](https://blog.csdn.net/2302_78391795/article/details/149068545)
+
++ [揭示独特模式：Elasticsearch 中 significant terms 聚合指南](https://blog.csdn.net/UbuntuTouch/article/details/149191052)
+
++ [Web安全：CSRF的攻击原理与防御措施](https://blog.csdn.net/atuo200/article/details/149145950)
+
++ [基于springboot的社区生鲜团购系统](https://blog.csdn.net/2401_85506870/article/details/149158319)
+

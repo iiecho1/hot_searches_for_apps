@@ -193,3 +193,9 @@
 
 + [巴西总统卢拉反对特朗普干涉巴内政](https://news.cctv.com/2025/07/08/ARTIQ1c8oCDtUKZ4SswbTegv250708.shtml)
 
++ [中国与埃及务实合作成果丰硕](https://news.cctv.com/2025/07/08/ARTIJkqZkOmcD8wlILVLRJfY250708.shtml)
+
++ [中国始终是全球南方国家发展道路上的坚定伙伴——访南非独立分析人士桑迪莱·斯瓦纳](https://news.cctv.com/2025/07/08/ARTI9cl2eGffAZi3S2uuQQk0250708.shtml)
+
++ [金砖推动科技合作 助力应对全球挑战——访巴西科技创新部长卢西亚娜·桑托斯](https://news.cctv.com/2025/07/08/ARTIePFFBw6zM0c9PCfoujc3250708.shtml)
+
