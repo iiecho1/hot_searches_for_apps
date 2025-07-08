@@ -161,3 +161,9 @@
 
 + [以色列被曝多处军事设施曾遭伊朗袭击](https://news.cctv.com/2025/07/06/ARTIHCeeZ4kN63xLOIKJKRCr250706.shtml)
 
++ [热点问答｜以总理访美 加沙停火能谈成吗](https://news.cctv.com/2025/07/09/ARTIfs3osWYqjZycaLDdPA24250709.shtml)
+
++ [利比里亚官员：悬挂该国国旗的货轮在也门附近遭袭 2名船员死亡](https://news.cctv.com/2025/07/09/ARTIQ6GJ8mN1s9ZpKwgKe8CR250709.shtml)
+
++ [联合国人权理事会协商一致通过中国主提发展促人权决议](https://news.cctv.com/2025/07/09/ARTIfGux21TVwAgZeajTlHtg250709.shtml)
+
