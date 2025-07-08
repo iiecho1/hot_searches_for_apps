@@ -169,3 +169,15 @@
 
 + [巴控克什米尔首府一校车坠入峡谷 30人受伤](https://news.cctv.com/2025/07/09/ARTIJrxc2RG5L2yOaZNgC8h6250709.shtml)
 
++ [尼泊尔边境地区山洪已造成9人死亡](https://news.cctv.com/2025/07/09/ARTIrEB6IL8X25MIA37rlxxC250709.shtml)
+
++ [又改口了 特朗普：不会赦免农场的非法移民](https://news.cctv.com/2025/07/09/ARTILfgve022SquAK9uQI30L250709.shtml)
+
++ [意大利一机场因跑道事故短暂停止航班起降 疑有人被吸入发动机](https://news.cctv.com/2025/07/09/ARTIoCl8kKlHaBVwNrZ77Fgp250709.shtml)
+
++ [美联航称本月将重启飞往以色列特拉维夫的航班](https://news.cctv.com/2025/07/09/ARTIGolkgL7cZLpKQWuNv5FT250709.shtml)
+
++ [特朗普：“对等关税”将于8月1日开始实施](https://news.cctv.com/2025/07/09/ARTIQ6L6K6yTl5U96g3SxIOR250709.shtml)
+
++ [苏丹卫生部：新一轮霍乱疫情已致2145人死亡](https://news.cctv.com/2025/07/09/ARTImQZYTHFT1OqzPtdi0xwI250709.shtml)
+
