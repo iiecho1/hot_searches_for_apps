@@ -131,3 +131,7 @@
 
 + [微服务分布式配置中心详解](https://blog.csdn.net/Landcc/article/details/149158411)
 
++ [TensorFlow深度学习实战——基于自编码器构建句子向量](https://blog.csdn.net/LOVEmy134611/article/details/144544995)
+
++ [Docker 稳定运行与存储优化全攻略（含可视化指南）](https://blog.csdn.net/u014451778/article/details/149172789)
+
