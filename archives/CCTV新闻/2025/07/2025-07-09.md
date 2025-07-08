@@ -181,3 +181,5 @@
 
 + [苏丹卫生部：新一轮霍乱疫情已致2145人死亡](https://news.cctv.com/2025/07/09/ARTImQZYTHFT1OqzPtdi0xwI250709.shtml)
 
++ [泰国政府正式撤回《综合娱乐场所法》修订版草案](https://news.cctv.com/2025/07/09/ARTIo27ZaejC5BVhqvg5Tjoo250709.shtml)
+
