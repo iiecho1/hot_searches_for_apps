@@ -205,3 +205,11 @@
 
 + [尼泊尔北部洪水致至少18人失踪](https://news.cctv.com/2025/07/08/ARTICOoLm1Y30FWJaJzB35mm250708.shtml)
 
++ [特朗普广发关税函 为何“漏”了个“大头”？](https://news.cctv.com/2025/07/08/ARTIR4XGLG7cSAs93cTVkmf0250708.shtml)
+
++ [中尼边境洪灾致尼一侧6名中方人员失联 尼拉苏瓦地区道路及通信中断](https://news.cctv.com/2025/07/08/ARTISiFJayh1I9BYaWPPxBuY250708.shtml)
+
++ [美得州洪灾死伤惨重，灾区市长含泪哭诉：“我们甚至没有收到任何预警”](https://news.cctv.com/2025/07/08/ARTICGUVbhTImfBSkBOylrCK250708.shtml)
+
++ [波音787机型首起致命空难 印度官方提交首份调查报告](https://news.cctv.com/2025/07/08/ARTI2xLD1o9bDm5y6qqMkUYB250708.shtml)
+
