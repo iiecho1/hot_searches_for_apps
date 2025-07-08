@@ -163,3 +163,5 @@
 
 + [【React Hook 实用分享】useDict：一个用于缓存字典的hook](https://blog.csdn.net/qq_16051405/article/details/149180506)
 
++ [Midjourney轻松实现高质量图片和视频生成](https://blog.csdn.net/m0_57874805/article/details/149190724)
+
