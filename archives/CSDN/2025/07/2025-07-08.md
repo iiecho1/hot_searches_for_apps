@@ -141,3 +141,13 @@
 
 + [spring中@Transactional注解和事务的实战理解附代码](https://blog.csdn.net/weixin_73273374/article/details/149154336)
 
++ [AI大模型时代：技术工作者如何实现职业跃迁？转型指南干货（含万字实战方法论）](https://blog.csdn.net/Dreamy_zsy/article/details/149171327)
+
++ [【操作系统】进程(二)内存管理、通信](https://blog.csdn.net/2401_86112610/article/details/149178818)
+
++ [基于Excel的数据分析思维与分析方法](https://blog.csdn.net/weixin_74268817/article/details/149139727)
+
++ [大数据Spark（六十二）：Spark基于Yarn提交任务流程](https://blog.csdn.net/xiaoweite1/article/details/149183439)
+
++ [Spring Boot 3.x 整合 Swagger（springdoc-openapi）实现接口文档](https://blog.csdn.net/weixin_45919016/article/details/149154740)
+

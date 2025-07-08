@@ -173,3 +173,17 @@
 
 + [俄外长：俄对政治外交途径解决乌问题持开放态度](https://news.cctv.com/2025/07/08/ARTI1BJOOGTEoUU5yZ840FV7250708.shtml)
 
++ [一手对14国加税 一手延长暂缓期 美政府再次极限施压贸易伙伴](https://news.cctv.com/2025/07/08/ARTISRMnt1upxvU9oJRcXBWc250708.shtml)
+
++ [对普京感到失望 美总统特朗普称将继续对乌供武](https://news.cctv.com/2025/07/08/ARTIQ9amadI9btcMaWIo4ApN250708.shtml)
+
++ [伊朗总统表示不反对国际核查和伊美谈判](https://news.cctv.com/2025/07/08/ARTI1RrYLNBp5u3wGtZgdyT3250708.shtml)
+
++ [美总统特朗普称已安排与伊朗相关的会谈 细节8日公布](https://news.cctv.com/2025/07/08/ARTIGdaAohwBjcFdhf7d3ltP250708.shtml)
+
++ [特朗普宣布将对14国加征关税](https://news.cctv.com/2025/07/08/ARTIhIWlHegplzAsDxK5bcmt250708.shtml)
+
++ [特朗普：“对等关税”生效日定于8月1日 但可有条件调整](https://news.cctv.com/2025/07/08/ARTIzcQHx5sVK66soincObHY250708.shtml)
+
++ [中领馆：一中国旅行团所乘巴士在新西兰南岛发生侧翻，多人受伤](https://news.cctv.com/2025/07/08/ARTIcck4gI3huZtNzi1hUHI2250708.shtml)
+
