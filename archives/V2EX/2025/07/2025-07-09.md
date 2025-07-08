@@ -21,3 +21,5 @@
 
 + [macOS 26 beta3 更新完 眼前一亮的感觉](https://www.v2ex.com/t/1143621)
 
++ [v2ex 毕业，恭喜站长](https://www.v2ex.com/t/1143703)
+

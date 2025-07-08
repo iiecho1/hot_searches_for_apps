@@ -167,3 +167,5 @@
 
 + [联合国人权理事会协商一致通过中国主提发展促人权决议](https://news.cctv.com/2025/07/09/ARTIfGux21TVwAgZeajTlHtg250709.shtml)
 
++ [巴控克什米尔首府一校车坠入峡谷 30人受伤](https://news.cctv.com/2025/07/09/ARTIJrxc2RG5L2yOaZNgC8h6250709.shtml)
+
