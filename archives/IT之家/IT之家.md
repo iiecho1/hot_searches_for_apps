@@ -63,3 +63,7 @@
 
 + [《流浪地球》落后现实：全国首型取消驾驶室的纯电无人矿卡“华能睿驰”信息公布](https://m.ithome.com/html/866481.htm)
 
++ [华为 Mate 40 系列手机获鸿蒙 HarmonyOS 4.2.0.180 升级，距上次更新约 10 个月](https://m.ithome.com/html/866611.htm)
+
++ [京东外卖：今天起再砸超百亿元，扶持标杆餐饮品牌商家](https://m.ithome.com/html/866576.htm)
+
