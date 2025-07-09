@@ -63,3 +63,7 @@
 
 + [怎么还带水印呢？](https://m.acfun.cn/v/?ac=47474049)
 
++ [售价13万8？思维熵增？量子AI？年度最离谱VERTU小折叠手机发布](https://m.acfun.cn/v/?ac=47475443)
+
++ [【余若】360（Cover Charlixcx）](https://m.acfun.cn/v/?ac=47475306)
+
