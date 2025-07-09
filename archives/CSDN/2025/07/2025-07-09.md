@@ -167,3 +167,17 @@
 
 + [DeepSeek 模型技术体系解构：性能优化、接口能力与智能体开发集成视角（文末送书）](https://blog.csdn.net/m0_37482190/article/details/149198444)
 
++ [【Cursor实战】AI 赋能 Chrome 插件开发：从零打造豆包图片去水印插件](https://blog.csdn.net/weixin_43288600/article/details/149138267)
+
++ [FoldersMaker：Windows文件管理效率革命，批量创建速度提升80%的自动化方案](https://blog.csdn.net/Start_mswin/article/details/149172841)
+
++ [深度学习——神经网络1](https://blog.csdn.net/2401_88868983/article/details/149208963)
+
++ [大模型驱动的智能体：从GPT-4到o1的能力跃升](https://blog.csdn.net/IRpickstars/article/details/149216725)
+
++ [刚发布的最新版本怎么用？YOLOv13新手教程带你快速上手](https://blog.csdn.net/m0_46510245/article/details/149216436)
+
++ [Swift 6.2 并发江湖：两大神功破局旧制，代码运行经脉革新（下）](https://blog.csdn.net/mydo/article/details/149204763)
+
++ [（8）(8.3) ARK Flow MR](https://blog.csdn.net/qq_20016593/article/details/148842927)
+
