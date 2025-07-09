@@ -243,3 +243,11 @@
 
 + [美将对日本加征25%关税 石破茂强硬表态：绝不妥协](https://news.cctv.com/2025/07/09/ARTIoGObyH2H5JCUb2fjUI5W250709.shtml)
 
++ [乌兹别克斯坦姑娘“吉莉” 以教育为桨载上合之舟架起中乌友谊](https://news.cctv.com/2025/07/09/ARTIuyXDB2kBDCN10edNLMdk250709.shtml)
+
++ [马来西亚媒体：关税政策已沦为美“政治勒索工具”](https://news.cctv.com/2025/07/09/ARTIXu8ZQK1MvLxlzwtPxUIm250709.shtml)
+
++ [中国共产党在抗日战争中发挥了中流砥柱作用——访美国哈佛大学肯尼迪政府学院教授拉纳·米特](https://news.cctv.com/2025/07/09/ARTIChru2IHhipTApeqfSjRp250709.shtml)
+
++ [智慧、绿色、韧性：上合组织国家代表“取经”中国城市治理之道](https://news.cctv.com/2025/07/09/ARTIRISULKzQucWYOCxLJguh250709.shtml)
+

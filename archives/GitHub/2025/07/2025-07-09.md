@@ -27,3 +27,25 @@
 
 + [forthespada/CS-Books](https://github.com/forthespada/CS-Books)
 
++ [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
+
++ [putyy/res-downloader](https://github.com/putyy/res-downloader)
+
++ [ed-donner/agents](https://github.com/ed-donner/agents)
+
++ [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+
++ [strapi/strapi](https://github.com/strapi/strapi)
+
++ [microsoft/MoGe](https://github.com/microsoft/MoGe)
+
++ [alibaba/MNN](https://github.com/alibaba/MNN)
+
++ [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering)
+
++ [junegunn/fzf](https://github.com/junegunn/fzf)
+
