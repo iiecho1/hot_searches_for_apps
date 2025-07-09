@@ -167,3 +167,25 @@
 
 + [日本参议院选举在即 美国关税政策冲击日本政坛](https://news.cctv.com/2025/07/10/ARTIziQTuVi27X80Uqzn96dN250710.shtml)
 
++ [美联储公布6月会议纪要 经济前景不确定性居高不下](https://news.cctv.com/2025/07/10/ARTIRewOlXqlXzGnGcGMrvPr250710.shtml)
+
++ [哈马斯称其在停火谈判中表现出极大灵活性 寻求达成全面协议](https://news.cctv.com/2025/07/10/ARTIy7N0NQ1M6dQrZgMvdsYc250710.shtml)
+
++ [美国得州洪灾死亡人数继续上升 至少119人死亡](https://news.cctv.com/2025/07/10/ARTI97e8occJYjm3zSbG2WZp250710.shtml)
+
++ [美国务卿宣布对联合国特别报告员实施制裁](https://news.cctv.com/2025/07/10/ARTILsSJNk6NJt19uPgYzlf3250710.shtml)
+
++ [韩国法院批准拘留令 尹锡悦再度被拘押](https://news.cctv.com/2025/07/10/ARTIULTU3FxenrfhdofJW7WX250710.shtml)
+
++ [美国总统特朗普宣布对六个国家的关税税率](https://news.cctv.com/2025/07/10/ARTIgIB7XRSHe8Ny5JY3GD9U250710.shtml)
+
++ [视频丨胡塞武装称击沉一艘赴以色列船只](https://news.cctv.com/2025/07/10/ARTI6dZRAsEJwJKnDfvNUrUL250710.shtml)
+
++ [波兰购买18套海岸雷达系统以强化海空防御](https://news.cctv.com/2025/07/10/ARTIUNpQSqI4ntYpvUlvVg0H250710.shtml)
+
++ [内塔尼亚胡：以色列没有处理伊朗浓缩铀问题](https://news.cctv.com/2025/07/10/ARTIohOWWiIfgCHL6lSJwErD250710.shtml)
+
++ [西班牙首相：西班牙有权拒绝提高军费至GDP的5%](https://news.cctv.com/2025/07/10/ARTIL2PS5Qeg55XrfvlUKdpr250710.shtml)
+
++ [俄罗斯将开通与朝鲜间航班 初期每周执飞两班](https://news.cctv.com/2025/07/10/ARTI10RxM9hUSWHAzJh1XhaX250710.shtml)
+
