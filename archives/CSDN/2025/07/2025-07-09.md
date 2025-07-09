@@ -191,3 +191,19 @@
 
 + [蓝桥杯 第十六届（2025）真题思路复盘解析](https://blog.csdn.net/xinghuayu_lin/article/details/149176571)
 
++ [Java 大视界 -- 基于 Java 的大数据可视化在企业供应链动态监控与优化中的应用（336）](https://blog.csdn.net/atgfg/article/details/149182755)
+
++ [【数据可视化-58】电动汽车规格数据集（2025）可视化分析](https://blog.csdn.net/qq_38614074/article/details/149228471)
+
++ [Spring Boot登录认证实现学习心得：从皮肤信息系统项目中学到的经验](https://blog.csdn.net/k_k666888/article/details/149179463)
+
++ [数据管理新范式：基于Docker的私有云存储系统构建指南](https://blog.csdn.net/LT15171009269/article/details/149222305)
+
++ [CI/CD — DevOps概念之实现k8s持续交付持续集成（一）](https://blog.csdn.net/dghfttgv/article/details/149132105)
+
++ [用 Spring Boot + Redis 实现哔哩哔哩弹幕系统（上篇博客改进版）](https://blog.csdn.net/m0_54187478/article/details/149205604)
+
++ [基于物联网架构的温室环境温湿度传感器节点设计](https://blog.csdn.net/Candy5204/article/details/149208425)
+
++ [算法设计与分析 知识总结](https://blog.csdn.net/2301_79518550/article/details/149207583)
+

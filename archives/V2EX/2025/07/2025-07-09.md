@@ -53,3 +53,5 @@
 
 + [现在有成熟的 jdk17 + springboot3 微服务稳定落地的案例没](https://www.v2ex.com/t/1143899)
 
++ [免费好用的划词翻译软件推荐](https://www.v2ex.com/t/1143953)
+
