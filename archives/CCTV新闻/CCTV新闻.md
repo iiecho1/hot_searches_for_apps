@@ -229,3 +229,9 @@
 
 + [韩国前总统尹锡悦抵达法院 出席拘留令必要性审查](https://news.cctv.com/2025/07/09/ARTICma11zjqdKzmWwEg4iLb250709.shtml)
 
++ [天太热 雅典卫城暂时关闭](https://news.cctv.com/2025/07/09/ARTI36j7eNVa9ix0z19xD3NG250709.shtml)
+
++ [美国白宫称得州洪水是“天意”引批评](https://news.cctv.com/2025/07/09/ARTIE7AbqNRrpdDe8HQrl5tB250709.shtml)
+
++ [美得州洪灾卫星图片前后对比](https://news.cctv.com/2025/07/09/ARTIeTLh8Gs9ywmknyZVFGI8250709.shtml)
+

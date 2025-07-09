@@ -163,3 +163,7 @@
 
 + [【matlab】基于支持向量机和NSGA-II算法的非晶合金变压器结构优化](https://blog.csdn.net/feng1790291543/article/details/145140792)
 
++ [代码详细注释：ARM-Linux字符设备驱动开发案例：LCD汉字输出改进建议开发板断电重启还能显示汉字，显示汉字位置自定义](https://blog.csdn.net/2401_82762455/article/details/149205824)
+
++ [DeepSeek 模型技术体系解构：性能优化、接口能力与智能体开发集成视角（文末送书）](https://blog.csdn.net/m0_37482190/article/details/149198444)
+
