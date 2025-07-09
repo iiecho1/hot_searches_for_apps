@@ -69,3 +69,21 @@
 
 + [曝 Flyme Auto 将上车奔驰 E，星纪魅族获新订单](https://m.ithome.com/html/866711.htm)
 
++ [否认“花费 9 位数与周杰伦签约”后，抖音今日确认周杰伦“周同學”入驻](https://m.ithome.com/html/866819.htm)
+
++ [比亚迪全球率先实现媲美 L4 级智能泊车：明确智驾权责归属，承诺在中国市场为天神之眼智能泊车安全及损失全面兜底](https://m.ithome.com/html/866811.htm)
+
++ [奇瑞汽车用智界账号直播宣传风云 A9L，智界系列产品总监发文道歉](https://m.ithome.com/html/866742.htm)
+
++ [小米最便宜、最畅销手机继任者：REDMI 15C 渲染图曝光，4 种颜色](https://m.ithome.com/html/866813.htm)
+
++ [苹果最薄 iPhone 17 Air 机模上手：引领轻薄手机新趋势](https://m.ithome.com/html/866726.htm)
+
++ [苹果全新自研 Wi-Fi 和蓝牙芯片 Proxima 现身 iOS 18 代码](https://m.ithome.com/html/866713.htm)
+
++ [苹果宣布重大人事变动：曾被视为库克接班人的杰夫・威廉姆斯今年退休，萨比赫・汗接替 COO 职位](https://m.ithome.com/html/866725.htm)
+
++ [小米详解 YU7 苹果用户用车体验：支持 UWB 近场控车、iOS 小组件远程控车、Apple Watch 独立控车等](https://m.ithome.com/html/866727.htm)
+
++ [全球最快高铁 CR450 模型亮相：设计时速 450 公里，采用碳纤维设备舱、新型“悬吊地板”、“零重力”座椅](https://m.ithome.com/html/866847.htm)
+

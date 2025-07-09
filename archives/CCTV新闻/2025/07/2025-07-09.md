@@ -253,3 +253,5 @@
 
 + [再刚特朗普 马斯克定“美国党”优先事项：曝光爱泼斯坦案文件](https://news.cctv.com/2025/07/09/ARTI2BzdgXEG6V3KrlaTVwEX250709.shtml)
 
++ [以色列外长称愿通过谈判实现加沙永久停火](https://news.cctv.com/2025/07/09/ARTIhKTGV7E1ErWOIzGD7RYu250709.shtml)
+
