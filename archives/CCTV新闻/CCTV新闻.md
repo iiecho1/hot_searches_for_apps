@@ -237,3 +237,9 @@
 
 + [特朗普索要100亿美元驻韩军费 韩方：将遵守现有协定](https://news.cctv.com/2025/07/09/ARTIFHbU69sK5wmblleBYk00250709.shtml)
 
++ [印尼沉船事故死亡人数升至12人 搜救行动将延长3天](https://news.cctv.com/2025/07/09/ARTISDa5g3rdx5eYNFFJLSJI250709.shtml)
+
++ [俄罗斯外长拉夫罗夫将访问朝鲜](https://news.cctv.com/2025/07/09/ARTIgWT4Y3LfV8cmO8I6MUrG250709.shtml)
+
++ [美将对日本加征25%关税 石破茂强硬表态：绝不妥协](https://news.cctv.com/2025/07/09/ARTIoGObyH2H5JCUb2fjUI5W250709.shtml)
+
