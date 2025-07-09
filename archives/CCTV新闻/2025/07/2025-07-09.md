@@ -225,3 +225,5 @@
 
 + [韩国送回6名朝鲜居民](https://news.cctv.com/2025/07/09/ARTIRHHyXUN3743DchqWUhf2250709.shtml)
 
++ [埃中共建“一带一路”以双赢模式驱动共同发展——访埃及前总理谢拉夫](https://news.cctv.com/2025/07/09/ARTI57wmuxl5qWhiwfv3IgR9250709.shtml)
+
