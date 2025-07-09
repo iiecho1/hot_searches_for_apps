@@ -31,3 +31,7 @@
 
 + [搬瓦工三网优化线路 VPS 服务器 BIGGERBOX-PRO 限量返场促销 拼手速](https://www.v2ex.com/t/1143716)
 
++ [一个人租房冰箱要不要买？](https://www.v2ex.com/t/1143890)
+
++ [桐庐一个伪宠物友好的地方](https://www.v2ex.com/t/1143901)
+

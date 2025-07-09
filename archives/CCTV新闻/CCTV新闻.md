@@ -201,3 +201,17 @@
 
 + [俄总理：俄无人机产量已三倍于计划目标](https://news.cctv.com/2025/07/09/ARTIDrYdHUgIHnMeUS6HEW84250709.shtml)
 
++ [从姓名住址到饮食偏好 澳航570万用户数据遭泄露](https://news.cctv.com/2025/07/09/ARTIft8NCC99S6loIa0V0DkC250709.shtml)
+
++ [24小时两见特朗普 以总理只为一件事](https://news.cctv.com/2025/07/09/ARTIU7ANirn6MdPptMJUGufJ250709.shtml)
+
++ [特朗普称将上调铜关税至50%](https://news.cctv.com/2025/07/09/ARTIBv6jTReGxwGjBSUSNi8H250709.shtml)
+
++ [贸发会议报告：今年下半年全球贸易或将遭遇更大“逆风”](https://news.cctv.com/2025/07/09/ARTIobjiYci39GTvAkkQg0aS250709.shtml)
+
++ [洪都拉斯称将与美国对话 避免该国移民被大规模驱逐](https://news.cctv.com/2025/07/09/ARTITakrNxBVHbx0GzzkBL2G250709.shtml)
+
++ [美国得州洪灾已造成至少111人死亡172人失踪](https://news.cctv.com/2025/07/09/ARTIQx4jMtDprziae01G1rMQ250709.shtml)
+
++ [马克龙：英法对欧洲安全担负特殊责任 将升级军事合作](https://news.cctv.com/2025/07/09/ARTIkJeVcTsqEFCDNtHEgkW9250709.shtml)
+
