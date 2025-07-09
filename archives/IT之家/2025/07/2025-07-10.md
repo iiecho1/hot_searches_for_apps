@@ -25,3 +25,21 @@
 
 + [全球最快高铁 CR450 模型亮相：设计时速 450 公里，采用碳纤维设备舱、新型“悬吊地板”、“零重力”座椅](https://m.ithome.com/html/866847.htm)
 
++ [华为余承东首次回应开车睡觉传闻：是在看手机，生平第一次“进局子自首”交罚款](https://m.ithome.com/html/866698.htm)
+
++ [朴实商战仅需砸钱：美团神券年卡 9.9 元手慢无，到手 120 张 5 元无门槛膨胀神券](https://m.ithome.com/html/866571.htm)
+
++ [注册成立仅 13 天，罗马仕充电宝自燃事件电芯供应商安普瑞斯认缴近 2 亿的新公司发出简易注销公告](https://m.ithome.com/html/866695.htm)
+
++ [华为余承东：鸿蒙智行五个界车标外轮廓一样，都是六边形](https://m.ithome.com/html/866694.htm)
+
++ [广汽菲克正式宣告破产，核心资产五次流拍](https://m.ithome.com/html/866699.htm)
+
++ [华为 Mate 40 系列手机获鸿蒙 HarmonyOS 4.2.0.180 升级，距上次更新约 10 个月](https://m.ithome.com/html/866611.htm)
+
++ [鸿蒙智行享界汽车 Logo 图形车标正式公布，灵感源自“寰宇之星”](https://m.ithome.com/html/866690.htm)
+
++ [更新需谨慎：苹果 iOS 26 Beta 3 更新 BUG 汇总，通讯录姓氏头像乱码等](https://m.ithome.com/html/866546.htm)
+
++ [京东外卖：今天起再砸超百亿元，扶持标杆餐饮品牌商家](https://m.ithome.com/html/866576.htm)
+

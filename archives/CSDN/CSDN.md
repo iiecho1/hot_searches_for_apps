@@ -101,3 +101,13 @@
 
 + [Midjourney轻松实现高质量图片和视频生成](https://blog.csdn.net/m0_57874805/article/details/149190724)
 
++ [AI重构教育生态：从课堂革命到人机协同的未来图景](https://blog.csdn.net/Start_mswin/article/details/148240910)
+
++ [【web安全】SQLMap 参数深度解析：--risk 与 --level 详解](https://blog.csdn.net/kp00000/article/details/149200470)
+
++ [数据挖掘实战-基于机器学习算法的空气质量预测模型](https://blog.csdn.net/m0_64336780/article/details/145229907)
+
++ [【MyBatis】XML实现，配置方法和增、删、改、查](https://blog.csdn.net/Yeeear/article/details/148833598)
+
++ [【Linux】权限的概念及理解](https://blog.csdn.net/2401_87116511/article/details/149223159)
+

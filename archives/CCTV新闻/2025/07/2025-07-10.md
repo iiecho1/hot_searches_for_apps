@@ -161,3 +161,9 @@
 
 + [以色列拟在拉法建“人道主义城” 安置所有加沙人口](https://news.cctv.com/2025/07/08/ARTIeNwLlWiAqNT9eFt4L9ei250708.shtml)
 
++ [印尼多地“旱季”遭洪灾 气象部门称三因素叠加所致](https://news.cctv.com/2025/07/10/ARTIxnY3DlAe1PxLRQLpRBxZ250710.shtml)
+
++ [印度发生桥梁垮塌事故 致10人死亡6人受伤](https://news.cctv.com/2025/07/10/ARTIIwCjRsq1Y1RGaYkHFcAL250710.shtml)
+
++ [日本参议院选举在即 美国关税政策冲击日本政坛](https://news.cctv.com/2025/07/10/ARTIziQTuVi27X80Uqzn96dN250710.shtml)
+
