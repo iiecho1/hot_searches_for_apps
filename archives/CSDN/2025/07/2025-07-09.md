@@ -209,3 +209,5 @@
 
 + [【Linux】权限的概念及理解](https://blog.csdn.net/2401_87116511/article/details/149223159)
 
++ [AI驱动的现代办公与数据分析实战指南（文末送书）](https://blog.csdn.net/weixin_51390582/article/details/149221399)
+
