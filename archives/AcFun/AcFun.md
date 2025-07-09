@@ -99,3 +99,5 @@
 
 + [厨师长教你：“辣炒鲜鲍”的家常做法，鲜辣软嫩，回味无穷](https://m.acfun.cn/v/?ac=47471782)
 
++ [2025 MSI CFO vs AL](https://m.acfun.cn/v/?ac=47472241)
+

@@ -157,3 +157,9 @@
 
 + [文档抽取进入「说人话」时代：用Prompt就能提取发票、合同、简历的关键信息](https://blog.csdn.net/INTSIG/article/details/149197147)
 
++ [飞算 JavaAI 进阶实战：从代码生成到系统架构优化的全流程指南](https://blog.csdn.net/weixin_43151418/article/details/149200891)
+
++ [学习threejs，使用自定义GLSL 着色器，生成漂流的3D能量球](https://blog.csdn.net/qq_28419035/article/details/149215210)
+
++ [【matlab】基于支持向量机和NSGA-II算法的非晶合金变压器结构优化](https://blog.csdn.net/feng1790291543/article/details/145140792)
+

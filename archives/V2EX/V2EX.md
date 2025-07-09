@@ -43,3 +43,7 @@
 
 + [刚刚有个帖子，说号被封了，然后没过一会这个也封了。](https://www.v2ex.com/t/1143927)
 
++ [AI 编程时代来临了，那么 Vue.js, React, Svelte、Bootstrap、GORM、GIN 等框架还有必要深入学习 和使用吗？](https://www.v2ex.com/t/1143775)
+
++ [看内蒙古中考成绩有感](https://www.v2ex.com/t/1143891)
+
