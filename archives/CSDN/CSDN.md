@@ -145,3 +145,9 @@
 
 + [计算机网络：（八）网络层（中）IP层转发分组的过程与网际控制报文协议 ICMP](https://blog.csdn.net/2402_83322742/article/details/149205553)
 
++ [AI重构教育生态：从课堂革命到人机协同的未来图景](https://blog.csdn.net/Start_mswin/article/details/148240910)
+
++ [使用Ideal创建一个spring boot的helloWorld项目](https://blog.csdn.net/psjasf1314/article/details/149177475)
+
++ [【计算机网络】第三章：数据链路层（下）](https://blog.csdn.net/realoser/article/details/149183041)
+

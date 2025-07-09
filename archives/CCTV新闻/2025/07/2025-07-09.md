@@ -215,3 +215,13 @@
 
 + [马克龙：英法对欧洲安全担负特殊责任 将升级军事合作](https://news.cctv.com/2025/07/09/ARTIkJeVcTsqEFCDNtHEgkW9250709.shtml)
 
++ [欧盟气候监测机构：全球经历了有记录以来第三热6月](https://news.cctv.com/2025/07/09/ARTIHgmQtF2Y4RKuS4yGHvrZ250709.shtml)
+
++ [改变传统叙事 中国“酷”文化日益受到海外消费者青睐](https://news.cctv.com/2025/07/09/ARTILFZlpRFRUMlyWbXcMaDs250709.shtml)
+
++ [特朗普：8月1日开始征税，不会变了！](https://news.cctv.com/2025/07/09/ARTI9zvILLKqmpDee8HmOgWH250709.shtml)
+
++ [韩国热浪持续 刷新多项高温纪录](https://news.cctv.com/2025/07/09/ARTIWSENUmjV2wwr6KUikNwK250709.shtml)
+
++ [韩国送回6名朝鲜居民](https://news.cctv.com/2025/07/09/ARTIRHHyXUN3743DchqWUhf2250709.shtml)
+

@@ -53,3 +53,19 @@
 
 + [罗马仕召回超 49 万台充电宝后续：有用户退款排到 17 万位](https://m.ithome.com/html/866417.htm)
 
++ [华为余承东首次回应开车睡觉传闻：是在看手机，生平第一次“进局子自首”交罚款](https://m.ithome.com/html/866698.htm)
+
++ [注册成立仅 13 天，罗马仕充电宝自燃事件电芯供应商安普瑞斯认缴近 2 亿的新公司发出简易注销公告](https://m.ithome.com/html/866695.htm)
+
++ [华为余承东：鸿蒙智行五个界车标外轮廓一样，都是六边形](https://m.ithome.com/html/866694.htm)
+
++ [宗申发布智界 S300 和问界 Q1P 三轮车](https://m.ithome.com/html/866715.htm)
+
++ [广汽菲克正式宣告破产，核心资产五次流拍](https://m.ithome.com/html/866699.htm)
+
++ [苹果 macOS 26 首次引入 ASIF 磁盘映像格式：几乎榨干 SSD 速度，读写性能飙升](https://m.ithome.com/html/866723.htm)
+
++ [鸿蒙智行享界汽车 Logo 图形车标正式公布，灵感源自“寰宇之星”](https://m.ithome.com/html/866690.htm)
+
++ [曝 Flyme Auto 将上车奔驰 E，星纪魅族获新订单](https://m.ithome.com/html/866711.htm)
+
