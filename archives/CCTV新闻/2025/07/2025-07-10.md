@@ -247,3 +247,7 @@
 
 + [乌克兰一官员在基辅遭近距离枪杀](https://news.cctv.com/2025/07/10/ARTIF6nNAKHJoeRcnRF9xoGK250710.shtml)
 
++ [泽连斯基称俄被冻结资产收益应用于乌克兰重建工作](https://news.cctv.com/2025/07/10/ARTI9BKi8YH85WE65cbwosGe250710.shtml)
+
++ [千年文脉照鉴未来——第十一届尼山世界文明论坛观察](https://news.cctv.com/2025/07/10/ARTI4yPcl4j9665ELYtvvJgx250710.shtml)
+
