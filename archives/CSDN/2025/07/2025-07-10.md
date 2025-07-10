@@ -149,3 +149,7 @@
 
 + [AI在医疗领域的十大应用场景：变革医疗健康未来与AI产品经理的新机遇](https://blog.csdn.net/qq_34419312/article/details/149219580)
 
++ [「自然语言驱动生产力」3. AI重构敏捷：DeepSeek+Jira实现需求自动拆解与精准排期](https://blog.csdn.net/weixin_39815573/article/details/149234080)
+
++ [defer学习指南](https://blog.csdn.net/2302_80067378/article/details/149241329)
+

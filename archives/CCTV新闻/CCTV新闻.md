@@ -221,3 +221,7 @@
 
 + [凝聚促进人类和平与发展的合力——中国同国际社会携手践行全球文明倡议述评](https://news.cctv.com/2025/07/10/ARTIHDrgMZjuO1Mrtpw9H8Zr250710.shtml)
 
++ [持续超10小时 俄军无人机导弹夜袭基辅致多人伤亡](https://news.cctv.com/2025/07/10/ARTIGoGiSDnxw480wsHExuFq250710.shtml)
+
++ [英国央行：美国关税战使全球经济面临下行风险](https://news.cctv.com/2025/07/10/ARTIkO1rSxRFo9CldgW1cYhG250710.shtml)
+
