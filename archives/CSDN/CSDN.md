@@ -163,3 +163,11 @@
 
 + [使用深度学习框架yolov8训练监控视角下非机动车电动车头盔佩戴检测数据集VOC+YOLO格式11999张4类别步骤和流程](https://blog.csdn.net/FL1623863129/article/details/149241975)
 
++ [【HarmonyOS Next之旅】DevEco Studio使用指南(四十二) -＞ 动态修改编译配置](https://blog.csdn.net/weixin_74809706/article/details/149248634)
+
++ [上课日志-2025-7-9](https://blog.csdn.net/lihexuan_ovo/article/details/149222521)
+
++ [Deepseek搭建智能体&个人知识库](https://blog.csdn.net/qq_41708993/article/details/149231983)
+
++ [Spring Boot 事务失效问题：同一个 Service 类中方法调用导致事务失效的原因及解决方案](https://blog.csdn.net/qq_29752857/article/details/149203058)
+

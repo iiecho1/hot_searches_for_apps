@@ -237,3 +237,7 @@
 
 + [中外嘉宾看好上合组织未来](https://news.cctv.com/2025/07/10/ARTIkq65OaoJtdlUBI9grHWH250710.shtml)
 
++ [中国和马来西亚互免签证协定将于7月17日生效](https://news.cctv.com/2025/07/10/ARTIz04XB9bg7gMMjhT0SYhK250710.shtml)
+
++ [菲律宾一大巴车坠入峡谷 已致2死27伤](https://news.cctv.com/2025/07/10/ARTIlUk4sYi3hIa4La3oR283250710.shtml)
+
