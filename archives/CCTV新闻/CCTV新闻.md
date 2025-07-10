@@ -227,3 +227,13 @@
 
 + [蛋价高企谁之过？特朗普政府起诉加州](https://news.cctv.com/2025/07/10/ARTI2Mr5NViiZhGWohvyp7OO250710.shtml)
 
++ [美国国家航空航天局计划裁掉超2000名高级别员工](https://news.cctv.com/2025/07/10/ARTIQqcuQ0lwwLsofcXzJKvH250710.shtml)
+
++ [乌克兰首都再遭大规模空袭 泽连斯基呼吁增加对乌军援](https://news.cctv.com/2025/07/10/ARTIAwjykgboiCqgSZY9v0kq250710.shtml)
+
++ [得州洪灾之际 美国土安全部长再提撤销联邦救灾机构](https://news.cctv.com/2025/07/10/ARTIyspM42tBFdOU5ocJm7ES250710.shtml)
+
++ [全球连线丨全球文明对话部长级会议外方嘉宾在沪参访](https://news.cctv.com/2025/07/10/ARTIlwTN6Goct0KVzquumgcf250710.shtml)
+
++ [中外嘉宾看好上合组织未来](https://news.cctv.com/2025/07/10/ARTIkq65OaoJtdlUBI9grHWH250710.shtml)
+

@@ -159,3 +159,7 @@
 
 + [基于Spring Boot和Vue的高校图书馆座位预约系统的设计与实现](https://blog.csdn.net/j728492392/article/details/149200019)
 
++ [论文精读（一）| 量子计算系统软件研究综述](https://blog.csdn.net/Pocker_Spades_A/article/details/149075059)
+
++ [使用深度学习框架yolov8训练监控视角下非机动车电动车头盔佩戴检测数据集VOC+YOLO格式11999张4类别步骤和流程](https://blog.csdn.net/FL1623863129/article/details/149241975)
+
