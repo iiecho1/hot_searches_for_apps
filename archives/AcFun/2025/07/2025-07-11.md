@@ -65,3 +65,5 @@
 
 + [【东方】Scarlet Pandemonium【Electro Swing Arrange】](https://m.acfun.cn/v/?ac=47471243)
 
++ [日常一乐#65（今日份金克斯！！！）](https://m.acfun.cn/v/?ac=47475640)
+

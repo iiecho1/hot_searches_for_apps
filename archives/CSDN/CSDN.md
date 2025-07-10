@@ -111,3 +111,7 @@
 
 + [从零用java实现 小红书 springboot vue uniapp（13）模仿抖音视频切换](https://blog.csdn.net/qq_35238367/article/details/149232141)
 
++ [AI在医疗领域的十大应用场景：变革医疗健康未来与AI产品经理的新机遇](https://blog.csdn.net/qq_34419312/article/details/149219580)
+
++ [Nexus zkVM 3.0 及未来：迈向模块化、分布式的零知识证明](https://blog.csdn.net/mutourend/article/details/149192530)
+
