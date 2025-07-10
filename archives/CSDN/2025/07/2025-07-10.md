@@ -191,3 +191,9 @@
 
 + [【TCP/IP】2. 计算机网络与因特网体系结构](https://blog.csdn.net/m0_72516377/article/details/149234993)
 
++ [一、深度学习——神经网络](https://blog.csdn.net/2401_88868983/article/details/149208963)
+
++ [文心一言4.5开源部署指南及文学领域测评](https://blog.csdn.net/qq_61024956/article/details/149150428)
+
++ [两张图片对比clip功能](https://blog.csdn.net/weixin_43811753/article/details/149230035)
+
