@@ -201,3 +201,11 @@
 
 + [上合组织城市勾勒未来发展“三维坐标”](https://news.cctv.com/2025/07/10/ARTI03mh9HmfQQiocZIjlxM0250710.shtml)
 
++ [特朗普称美国将从8月1日起对进口铜征收50%关税](https://news.cctv.com/2025/07/10/ARTI2AiircZgqjk9jZEdErKh250710.shtml)
+
++ [印度一桥梁断裂坍塌 死亡人数升至13人](https://news.cctv.com/2025/07/10/ARTISaSyPD8av7f8qTa3Fvtb250710.shtml)
+
++ [遭特朗普威胁后，巴西总统：将对等回应！](https://news.cctv.com/2025/07/10/ARTIY9zmjzalmuGnzf4z4NzR250710.shtml)
+
++ [尹锡悦再次被捕，或将在监狱“度过漫长岁月”](https://news.cctv.com/2025/07/10/ARTI13J6cRqiVgdg4aIiimKX250710.shtml)
+

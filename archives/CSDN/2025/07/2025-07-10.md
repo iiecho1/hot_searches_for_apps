@@ -125,3 +125,19 @@
 
 + [【计算机网络】第三章：数据链路层（下）](https://blog.csdn.net/realoser/article/details/149183041)
 
++ [飞算 JavaAI 智能编程助手 - 重塑编程新模态](https://blog.csdn.net/zhangcongyi420/article/details/149233508)
+
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场情绪指数构建与投资决策支持中的应用（339）](https://blog.csdn.net/atgfg/article/details/149206917)
+
++ [Amazon S3 对象存储服务深度解析：存储原理、应用场景与实战指南](https://blog.csdn.net/weixin_62765017/article/details/149225092)
+
++ [网络安全护网实战：攻击手段解析与防御策略](https://blog.csdn.net/qq_28776313/article/details/149189785)
+
++ [C/C++跳动的爱心](https://blog.csdn.net/m0_68111267/article/details/149189633)
+
++ [SpringBoot+Mybatis+MySQL+Vue+ElementUI前后端分离版：整体布局、架构调整（二）](https://blog.csdn.net/qq_47980550/article/details/149196357)
+
++ [【Unity笔记】Unity中Area Light不生效的原因与解决方案：从业务需求到开发实战的全面解析](https://blog.csdn.net/qq_41140324/article/details/149195495)
+
++ [企业级网络配置实战——实验解析](https://blog.csdn.net/t_suifeng/article/details/149205380)
+
