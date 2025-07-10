@@ -115,3 +115,27 @@
 
 + [Nexus zkVM 3.0 及未来：迈向模块化、分布式的零知识证明](https://blog.csdn.net/mutourend/article/details/149192530)
 
++ [Spring Boot项目中整合MCP协议及实现AI应用实践](https://blog.csdn.net/Liudef06/article/details/149194513)
+
++ [文心一言4.5开源模型实战：ERNIE-4.5-0.3B轻量化部署与效能突破](https://blog.csdn.net/weixin_43151418/article/details/149206326)
+
++ [Oracle 视图](https://blog.csdn.net/2401_83830408/article/details/149056414)
+
++ [分库分表之实战-sharding-JDBC绑定表配置实战](https://blog.csdn.net/chandfy/article/details/149224551)
+
++ [Cursor使用初体验：我差点把自己的代码搞乱了](https://blog.csdn.net/sixpp/article/details/149189582)
+
++ [【开源工具】基于PyQt5的局域网文件共享工具开发全解（附源码+emoji交互设计）](https://blog.csdn.net/Clay_K/article/details/149071053)
+
++ [小米YU7预售现象深度解析：智能电动汽车的下一个范式革命](https://blog.csdn.net/weixin_62244995/article/details/149205573)
+
++ [生成式人工智能实战 | 自注意力生成对抗网络（Self-Attention Generative Adversarial Network, SAGAN）](https://blog.csdn.net/LOVEmy134611/article/details/148934501)
+
++ [Linux操作系统之进程间通信：管道概念](https://blog.csdn.net/htw250056/article/details/149232866)
+
++ [用Simulink创建一个撸管](https://blog.csdn.net/m0_37816922/article/details/149219974)
+
++ [李宏毅NLP-9-语音转换](https://blog.csdn.net/uncle_ll/article/details/149156591)
+
++ [AI原生应用领域：开启自动化流程新时代](https://blog.csdn.net/universsky2015/article/details/149257566)
+
