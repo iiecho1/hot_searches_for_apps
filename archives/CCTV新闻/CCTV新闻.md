@@ -241,3 +241,9 @@
 
 + [菲律宾一大巴车坠入峡谷 已致2死27伤](https://news.cctv.com/2025/07/10/ARTIlUk4sYi3hIa4La3oR283250710.shtml)
 
++ [俄称仍希望实现俄美关系正常化 已提议恢复直航航班](https://news.cctv.com/2025/07/10/ARTIyAv7ulX6rBuIP13v90zF250710.shtml)
+
++ [国际观察丨美以加沙人口迁移计划尽显“新殖民主义思维”](https://news.cctv.com/2025/07/10/ARTIgMZ619LeeWBSE0GnYaLv250710.shtml)
+
++ [乌克兰一官员在基辅遭近距离枪杀](https://news.cctv.com/2025/07/10/ARTIF6nNAKHJoeRcnRF9xoGK250710.shtml)
+

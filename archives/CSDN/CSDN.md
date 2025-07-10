@@ -175,3 +175,9 @@
 
 + [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | StickyNavbar（粘性导航栏）](https://blog.csdn.net/qq_44808710/article/details/149208103)
 
++ [【智能协同云图库】智能协同云图库第四弹：实现用户上传图片及审核功能、使用模板方法模式优化上传图片功能（文件上传、URL 上传）、使用 Jsoup 实现批量抓取和创建图片功能](https://blog.csdn.net/2402_84916296/article/details/149254844)
+
++ [Web 前端框架选型：React、Vue 和 Angular 的对比与实践](https://blog.csdn.net/2301_79858914/article/details/149223179)
+
++ [基于Spring Boot+Vue的巴彦淖尔旅游网站（AI问答、腾讯地图API、WebSocket及时通讯、支付宝沙盒支付）](https://blog.csdn.net/paopaokaka_luck/article/details/149234485)
+
