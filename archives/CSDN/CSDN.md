@@ -147,3 +147,5 @@
 
 + [分布式推客系统架构设计：从微服务到高性能计算的实践路径](https://blog.csdn.net/wx_nn7334n/article/details/149177229)
 
++ [AI在医疗领域的十大应用场景：变革医疗健康未来与AI产品经理的新机遇](https://blog.csdn.net/qq_34419312/article/details/149219580)
+

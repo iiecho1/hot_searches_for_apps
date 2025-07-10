@@ -209,3 +209,15 @@
 
 + [尹锡悦再次被捕，或将在监狱“度过漫长岁月”](https://news.cctv.com/2025/07/10/ARTI13J6cRqiVgdg4aIiimKX250710.shtml)
 
++ [美国洛杉矶隧道坍塌 31人获救](https://news.cctv.com/2025/07/10/ARTI8aVnKo9qgNRTyRDYd8En250710.shtml)
+
++ [美国麻疹病例数创33年来新高](https://news.cctv.com/2025/07/10/ARTIAwdC4cQbFNzN5t4Po7Fv250710.shtml)
+
++ [中尼边境地区突发山洪泥石流 6名中国公民失联 搜救仍在进行](https://news.cctv.com/2025/07/10/ARTIMWWzMzS0DRdMazdxSeLz250710.shtml)
+
++ [美媒曝特朗普曾威胁“轰炸莫斯科” 俄方回应：无法证实](https://news.cctv.com/2025/07/10/ARTIXvzqtY07KzQiTaWdgogg250710.shtml)
+
++ [美国洛杉矶一隧道坍塌致15人被困 现场视频曝光](https://news.cctv.com/2025/07/10/ARTIl0RcgtHya0ryxAjUanwT250710.shtml)
+
++ [凝聚促进人类和平与发展的合力——中国同国际社会携手践行全球文明倡议述评](https://news.cctv.com/2025/07/10/ARTIHDrgMZjuO1Mrtpw9H8Zr250710.shtml)
+
