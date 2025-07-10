@@ -107,3 +107,7 @@
 
 + [Spring Boot 项目中的多数据源配置](https://blog.csdn.net/qq_45572615/article/details/149203563)
 
++ [jenkins+固定agent节点+maven+sonarqube+docker](https://blog.csdn.net/crontab_e/article/details/149227349)
+
++ [从零用java实现 小红书 springboot vue uniapp（13）模仿抖音视频切换](https://blog.csdn.net/qq_35238367/article/details/149232141)
+
