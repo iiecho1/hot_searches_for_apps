@@ -67,3 +67,5 @@
 
 + [【余若】360（Cover Charlixcx）](https://m.acfun.cn/v/?ac=47475306)
 
++ [【奧雷】宝岛导演如何看待中日关系？这部电影可窥见一二！《少林与忍者》](https://m.acfun.cn/v/?ac=47475730)
+
