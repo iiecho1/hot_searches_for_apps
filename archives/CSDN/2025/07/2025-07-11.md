@@ -101,3 +101,9 @@
 
 + [两张图片对比clip功能](https://blog.csdn.net/weixin_43811753/article/details/149230035)
 
++ [【Linux手册】从接口到管理：Linux文件系统的核心操作指南](https://blog.csdn.net/2401_87944878/article/details/149179527)
+
++ [文心一言4.5开源部署指南及文学领域测评](https://blog.csdn.net/qq_61024956/article/details/149150428)
+
++ [Spring Boot 项目中的多数据源配置](https://blog.csdn.net/qq_45572615/article/details/149203563)
+
