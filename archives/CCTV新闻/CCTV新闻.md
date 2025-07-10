@@ -161,3 +161,11 @@
 
 + [特朗普称对普京“很不满意” 威胁对俄追加制裁](https://news.cctv.com/2025/07/09/ARTIc9WCYHBBnUUjgGfCOuGz250709.shtml)
 
++ [巴西总统：将与美国进行关税谈判 若无效将对等反制](https://news.cctv.com/2025/07/11/ARTIDvAdNvcv4yMC0sSdrmAV250711.shtml)
+
++ [消息人士称美国将向乌克兰提供价值3亿美元军事援助](https://news.cctv.com/2025/07/11/ARTIl6RKdDHWIMYaw67le96W250711.shtml)
+
++ [英法领导人召开联合发布会 聚焦非法移民和军事合作](https://news.cctv.com/2025/07/11/ARTIj4CO0euyMERKqnZTcWFl250711.shtml)
+
++ [北半球夏季提前进入“炙烤模式” 会带来哪些经济影响](https://news.cctv.com/2025/07/11/ARTIPluzIIyfNIxy8Y4wFglx250711.shtml)
+

@@ -41,3 +41,11 @@
 
 + [全球最强 AI 模型：马斯克发布 Grok 4，处理学术问题达到博士级别](https://m.ithome.com/html/867110.htm)
 
++ [重庆市原市长黄奇帆：三千万辆中国汽车卖的利润不如丰田](https://m.ithome.com/html/867192.htm)
+
++ [宗申工作人员回应新品取名智界 S300、问界 Q1P：还未批量生产，如果侵权应该无法通过审核](https://m.ithome.com/html/867024.htm)
+
++ [苹果开启 2025 教育优惠返校季活动：购买指定款 Mac / iPad 搭配指定配件省更多，不叠加国补](https://m.ithome.com/html/867021.htm)
+
++ [蔚来乐道 L90 大三排 SUV 预售：27.99 万元起 / 租电方案 19.39 万元起，8 月 1 日交付](https://m.ithome.com/html/867282.htm)
+
