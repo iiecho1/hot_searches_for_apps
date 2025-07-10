@@ -225,3 +225,5 @@
 
 + [英国央行：美国关税战使全球经济面临下行风险](https://news.cctv.com/2025/07/10/ARTIkO1rSxRFo9CldgW1cYhG250710.shtml)
 
++ [蛋价高企谁之过？特朗普政府起诉加州](https://news.cctv.com/2025/07/10/ARTI2Mr5NViiZhGWohvyp7OO250710.shtml)
+
