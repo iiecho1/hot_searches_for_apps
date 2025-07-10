@@ -27,3 +27,27 @@
 
 + [junegunn/fzf](https://github.com/junegunn/fzf)
 
++ [LMCache/LMCache](https://github.com/LMCache/LMCache)
+
++ [forthespada/CS-Books](https://github.com/forthespada/CS-Books)
+
++ [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni)
+
++ [pybind/pybind11](https://github.com/pybind/pybind11)
+
++ [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+
++ [helm/helm](https://github.com/helm/helm)
+
++ [coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass)
+
++ [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
++ [volcengine/verl](https://github.com/volcengine/verl)
+
++ [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
++ [flutter/packages](https://github.com/flutter/packages)
+
