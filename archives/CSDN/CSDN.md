@@ -111,3 +111,17 @@
 
 + [【Linux】权限的概念及理解](https://blog.csdn.net/2401_87116511/article/details/149223159)
 
++ [Spring Batch终极指南：原理、实战与性能优化](https://blog.csdn.net/qq_52077555/article/details/149200790)
+
++ [Java 大视界 -- Java 大数据在智能安防视频监控系统中的视频质量评估与智能修复（337）](https://blog.csdn.net/atgfg/article/details/149184406)
+
++ [【操作系统】进程(二)内存管理、通信](https://blog.csdn.net/2401_86112610/article/details/149178818)
+
++ [【优化】Unity OpenXR渲染模式详解与优化实践：Multi Pass vs Single Pass Instanced](https://blog.csdn.net/qq_41140324/article/details/149170302)
+
++ [网络安全之XSS漏洞：原理、危害与防御实践](https://blog.csdn.net/weixin_47233946/article/details/149182959)
+
++ [DeepSeek 模型技术体系解构：性能优化、接口能力与智能体开发集成视角（文末送书）](https://blog.csdn.net/m0_37482190/article/details/149198444)
+
++ [【计算机网络】第三章：数据链路层（下）](https://blog.csdn.net/realoser/article/details/149183041)
+
