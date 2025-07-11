@@ -125,3 +125,5 @@
 
 + [搭建一款结合传统黄历功能的日历小程序](https://blog.csdn.net/qq_29528701/article/details/149235633)
 
++ [【Arduino 动手做】SLIDE全向轮机器人平台](https://blog.csdn.net/weixin_41659040/article/details/149240908)
+
