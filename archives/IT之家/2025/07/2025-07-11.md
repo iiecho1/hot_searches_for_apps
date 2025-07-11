@@ -71,3 +71,7 @@
 
 + [上汽华为合作尚界汽车首款车型伪装图曝光，搭载“尊界 S800、问界 M9 同款”192 线束激光雷达](https://m.ithome.com/html/867422.htm)
 
++ [闲置已超 4 年，恒大汽车 43.7 万平方米土地被政府收回](https://m.ithome.com/html/867217.htm)
+
++ [小米 16 标准版手机被曝现身 EEC 认证，型号与 GSMA IMEI 数据库吻合](https://m.ithome.com/html/867224.htm)
+
