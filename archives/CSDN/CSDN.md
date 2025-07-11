@@ -147,3 +147,9 @@
 
 + [内网服务器怎么设置公网远程访问？ windows桌面连接和Linux自带SSH外网异地跨网用完整步骤教程](https://blog.csdn.net/csghdn/article/details/149199803)
 
++ [基于svga+uniapp的微信小程序动画组件开发指南](https://blog.csdn.net/wzyleix97/article/details/149226590)
+
++ [Amazon SageMaker 部署 AIGC 应用：训练 - 优化 - 部署 - Web 前端集成应用实践](https://blog.csdn.net/weixin_62765017/article/details/149228692)
+
++ [WWDC 25 风云再起：SwiftUI 7 Charts 心法从 2D 到 3D 的华丽蜕变](https://blog.csdn.net/mydo/article/details/149257065)
+

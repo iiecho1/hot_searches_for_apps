@@ -29,3 +29,7 @@
 
 + [求移动端大佬指教：完美的一码三端方案存在吗？ Android/iOS/Harmony Next，或求 ArkUI-X 开发救场经验](https://www.v2ex.com/t/1144348)
 
++ [新搬的房子有蟑螂，大家给我支支招吧](https://www.v2ex.com/t/1144467)
+
++ [该装服务器了，装 Ubuntu24.04.2 还是 Ubuntu22.04.5](https://www.v2ex.com/t/1144421)
+

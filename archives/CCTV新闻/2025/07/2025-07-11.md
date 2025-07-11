@@ -185,3 +185,7 @@
 
 + [特朗普：下周一将发布有关俄罗斯的“重大声明”](https://news.cctv.com/2025/07/11/ARTI4w8XtStHAaO1ekVGcgeN250711.shtml)
 
++ [日本鹿儿岛县近海近20天震度1以上地震超1800次](https://news.cctv.com/2025/07/11/ARTIcG8QKM6Fff2i4VKwSwOp250711.shtml)
+
++ [世界气象组织：沙尘暴对人类健康和经济造成损失日益增加](https://news.cctv.com/2025/07/11/ARTIFKMUIfb3iTHpRCOCzyEY250711.shtml)
+
