@@ -107,3 +107,21 @@
 
 + [基于svga+uniapp的微信小程序动画组件开发指南](https://blog.csdn.net/wzyleix97/article/details/149226590)
 
++ [Python（31）PyPy生成器优化深度解析：JIT加速下的Python性能革命](https://blog.csdn.net/Dreamy_zsy/article/details/149200612)
+
++ [【Arduino 动手做】Fast Audio 快速音频频谱分析仪](https://blog.csdn.net/weixin_41659040/article/details/149276561)
+
++ [【spring boot】三种日志系统对比：ELK、Loki+Grafana、Docker API](https://blog.csdn.net/ladymorgana/article/details/149257938)
+
++ [在HP小机上跑了1432天的Oracle RAC，能不能重启？](https://blog.csdn.net/weixin_41645135/article/details/149265459)
+
++ [XCZU47DR-2FFVG1517I Xilinx FPGA AMD ZynqUltraScale+ RFSoC](https://blog.csdn.net/2403_90082736/article/details/149258546)
+
++ [FPGA加速HMI实时渲染：复杂图形处理的并行计算方案](https://blog.csdn.net/2401_87844374/article/details/149223860)
+
++ [如何将FPGA设计的验证效率提升1000倍以上(3)](https://blog.csdn.net/mecache2009/article/details/149214627)
+
++ [小程序软装: 组件库开发](https://blog.csdn.net/qq_44746132/article/details/149235068)
+
++ [搭建一款结合传统黄历功能的日历小程序](https://blog.csdn.net/qq_29528701/article/details/149235633)
+
