@@ -189,3 +189,5 @@
 
 + [世界气象组织：沙尘暴对人类健康和经济造成损失日益增加](https://news.cctv.com/2025/07/11/ARTIFKMUIfb3iTHpRCOCzyEY250711.shtml)
 
++ [刚果（金）卫生部长：该国霍乱疫情进入“急性阶段”](https://news.cctv.com/2025/07/11/ARTIiNvnoMLrQxiqiZ6vpqZr250711.shtml)
+
