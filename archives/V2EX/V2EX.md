@@ -19,3 +19,13 @@
 
 + [国产电视哪个品牌的系统最好？](https://www.v2ex.com/t/1144288)
 
++ [公司的开发流程极度不专业，自己又是新人怎么办](https://www.v2ex.com/t/1144323)
+
++ [其实 ai 写代码还有个重要功能, 提供情绪价值](https://www.v2ex.com/t/1144209)
+
++ [老婆过生日 Pocket3 如何](https://www.v2ex.com/t/1144194)
+
++ [每周在公司值班两三天能干啥](https://www.v2ex.com/t/1144439)
+
++ [求移动端大佬指教：完美的一码三端方案存在吗？ Android/iOS/Harmony Next，或求 ArkUI-X 开发救场经验](https://www.v2ex.com/t/1144348)
+

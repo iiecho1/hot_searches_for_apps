@@ -139,3 +139,11 @@
 
 + [AI原生应用领域：开启自动化流程新时代](https://blog.csdn.net/universsky2015/article/details/149257566)
 
++ [CSGO 训练数据集介绍-2,427 张图片 AI 游戏助手 游戏数据分析](https://blog.csdn.net/cver123/article/details/149193909)
+
++ [文心一言4.5开源模型测评：ERNIE-4.5-0.3B超轻量模型部署指南](https://blog.csdn.net/michaelline/article/details/149199084)
+
++ [百度文心ERNIE4.5部署与性能白皮书：FastDeploy加速方案+全系列模型实测数据对比](https://blog.csdn.net/2302_79177254/article/details/149256313)
+
++ [内网服务器怎么设置公网远程访问？ windows桌面连接和Linux自带SSH外网异地跨网用完整步骤教程](https://blog.csdn.net/csghdn/article/details/149199803)
+

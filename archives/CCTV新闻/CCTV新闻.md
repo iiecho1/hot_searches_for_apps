@@ -169,3 +169,19 @@
 
 + [北半球夏季提前进入“炙烤模式” 会带来哪些经济影响](https://news.cctv.com/2025/07/11/ARTIPluzIIyfNIxy8Y4wFglx250711.shtml)
 
++ [特朗普称未收到关税信函的贸易伙伴或也将面临关税](https://news.cctv.com/2025/07/11/ARTIjgSolQ15J5FZMlNpDvf3250711.shtml)
+
++ [美要“路线图”，俄提“新想法”，俄美外长会谈细节披露](https://news.cctv.com/2025/07/11/ARTIcJdbgkwYjXdPzCMmgLLF250711.shtml)
+
++ [大阪世博会迎来中国国家馆日](https://news.cctv.com/2025/07/11/ARTIPGOXCd5zatqtF7lbrOro250711.shtml)
+
++ [3位外国友人讲述践行全球文明倡议故事——大道同行 和合共生](https://news.cctv.com/2025/07/11/ARTIlUNuWoyCkF1ildSJgx3h250711.shtml)
+
++ [专访丨“全球文明倡议意义深远”——访克罗地亚前总统伊沃·约西波维奇](https://news.cctv.com/2025/07/11/ARTI16vb1Hl66sdBjN1GnJxq250711.shtml)
+
++ [深化交流互鉴 共建美美与共的文明百花园——尼山世界文明论坛搭建沟通桥梁](https://news.cctv.com/2025/07/11/ARTITVqFEwaoOxZ4pd3eJUFA250711.shtml)
+
++ [联合国：美国制裁联合国巴勒斯坦问题人权专家“不可接受”](https://news.cctv.com/2025/07/11/ARTIv8KRVChoW4vEDSCIBwzB250711.shtml)
+
++ [特朗普：下周一将发布有关俄罗斯的“重大声明”](https://news.cctv.com/2025/07/11/ARTI4w8XtStHAaO1ekVGcgeN250711.shtml)
+
