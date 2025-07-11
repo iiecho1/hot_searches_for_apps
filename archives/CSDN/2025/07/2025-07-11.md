@@ -167,3 +167,5 @@
 
 + [Prompt提示词的主要类型和核心原则](https://blog.csdn.net/qq_41035650/article/details/149260011)
 
++ [二刷（李宏毅深度学习，醍醐灌顶，长刷长爽）](https://blog.csdn.net/2301_80670411/article/details/149193260)
+
