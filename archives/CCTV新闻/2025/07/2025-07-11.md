@@ -199,3 +199,11 @@
 
 + [再被捕后首次传唤调查 尹锡悦预计不会出席](https://news.cctv.com/2025/07/11/ARTI2yxrGXKH7ssrDbkg11Hz250711.shtml)
 
++ [印度航空空难初步调查聚焦飞行员操作，燃油开关有疑似误触可能](https://news.cctv.com/2025/07/11/ARTIqDG9IVwQY0HXdxY81Wld250711.shtml)
+
++ [俄称逮捕两名从事破坏活动的乌克兰特工](https://news.cctv.com/2025/07/11/ARTIw8pyNTVFyUo0qOgIWvjS250711.shtml)
+
++ [牲畜出口再次被禁 墨西哥总统说美国“反应过度”](https://news.cctv.com/2025/07/11/ARTI9ZPV4L683vi2yTdiHxDS250711.shtml)
+
++ [美国政府将限制非法移民享受学前教育福利](https://news.cctv.com/2025/07/11/ARTIWh5RzopW30yRUQzjxaxH250711.shtml)
+
