@@ -207,3 +207,7 @@
 
 + [美国政府将限制非法移民享受学前教育福利](https://news.cctv.com/2025/07/11/ARTIWh5RzopW30yRUQzjxaxH250711.shtml)
 
++ [漫评美国“大而美”法案：“债务炸弹”](https://news.cctv.com/2025/07/11/ARTILcgbd2a8EuJEOwAKJUdd250711.shtml)
+
++ [巴基斯坦俾路支省客车遭武装分子拦停 9名乘客遇害](https://news.cctv.com/2025/07/11/ARTImqIPdUCjEtlbERvuPwPt250711.shtml)
+

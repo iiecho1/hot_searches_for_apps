@@ -43,3 +43,5 @@
 
 + [V2EX 第 262966 号会员，加入于 2017-10-27 14:40:47 +08:00](https://www.v2ex.com/t/1144478)
 
++ [Mac 端 ssh 原生工具 Nex Terminal 又来送兑换码了](https://www.v2ex.com/t/1144523)
+
