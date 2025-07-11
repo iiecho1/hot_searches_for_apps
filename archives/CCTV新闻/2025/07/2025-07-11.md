@@ -211,3 +211,7 @@
 
 + [巴基斯坦俾路支省客车遭武装分子拦停 9名乘客遇害](https://news.cctv.com/2025/07/11/ARTImqIPdUCjEtlbERvuPwPt250711.shtml)
 
++ [美国“群发”关税通知，施压换不来平等与信任](https://news.cctv.com/2025/07/11/ARTIcQ8ROOyWc9twK09GZ6vX250711.shtml)
+
++ [芬兰正式提交退出《渥太华禁雷公约》文书](https://news.cctv.com/2025/07/11/ARTIwFuNTTxJO4LsVPDK2G8t250711.shtml)
+

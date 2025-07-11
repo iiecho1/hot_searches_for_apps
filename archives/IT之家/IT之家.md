@@ -49,3 +49,25 @@
 
 + [蔚来乐道 L90 大三排 SUV 预售：27.99 万元起 / 租电方案 19.39 万元起，8 月 1 日交付](https://m.ithome.com/html/867282.htm)
 
++ [苹果亲民 MacBook 曝料：A18 Pro 芯片、多彩选择、13 英寸屏幕、16GB 内存，2026 年春季发布](https://m.ithome.com/html/867322.htm)
+
++ [iPhone 17 Pro 机模曝光：相机横向大矩阵，后壳苹果 LOGO 下移](https://m.ithome.com/html/867310.htm)
+
++ [华为余承东：问界 M9 事故率相较行业下降了近 90%，未来还会更低](https://m.ithome.com/html/867283.htm)
+
++ [消息称京东方获批量产 iPhone 17 Pro / Max 屏幕，仅供国内市场](https://m.ithome.com/html/867351.htm)
+
++ [鸿蒙智行“第五界”品牌尚界首款车型预热，华为余承东宣布“今秋敬请期待！智驾好，有蓝灯！”](https://m.ithome.com/html/867333.htm)
+
++ [262 元《文明 VI 白金版》免费送，Epic 下周重磅喜加一](https://m.ithome.com/html/867291.htm)
+
++ [雷蛇炼狱蝰蛇 V4 专业版鼠标上市 1379 元：仅重 56 克、首搭光学滚轮、全新半球形接收器](https://m.ithome.com/html/867293.htm)
+
++ [蔚来李斌回应裁员传闻：CBU 机制下有同事主动或被动离开，内部也很不舍](https://m.ithome.com/html/867383.htm)
+
++ [1099 欧元起华为 Pura80 系列手机进军海外，搭载 EMUI 15 系统](https://m.ithome.com/html/867331.htm)
+
++ [8 年都没修好，俄罗斯考虑放弃唯一现役航母](https://m.ithome.com/html/867460.htm)
+
++ [上汽华为合作尚界汽车首款车型伪装图曝光，搭载“尊界 S800、问界 M9 同款”192 线束激光雷达](https://m.ithome.com/html/867422.htm)
+

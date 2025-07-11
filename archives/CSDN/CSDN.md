@@ -209,3 +209,11 @@
 
 + [周立功汽车软件ZXDoc深度解析：新能源汽车开发新基建的破局之道](https://blog.csdn.net/weixin_62244995/article/details/149222790)
 
++ [飞算JavaAI插件深度体验：三天任务半小时搞定，AI编程的革命性突破](https://blog.csdn.net/weixin_66401877/article/details/149273747)
+
++ [Redis 主从复制及哨兵模式模拟部署](https://blog.csdn.net/Wezzer/article/details/149257307)
+
++ [RISC-V：开源芯浪潮下的技术突围与职业新赛道 （二） RISC-V架构深度解剖（上）](https://blog.csdn.net/GateWorld/article/details/149259334)
+
++ [Spring boot整合dubbo+zookeeper](https://blog.csdn.net/qq_38527427/article/details/149248380)
+
