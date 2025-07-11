@@ -191,3 +191,11 @@
 
 + [刚果（金）卫生部长：该国霍乱疫情进入“急性阶段”](https://news.cctv.com/2025/07/11/ARTIiNvnoMLrQxiqiZ6vpqZr250711.shtml)
 
++ [巴西总统卢拉：没有对美贸易，巴西也能生存](https://news.cctv.com/2025/07/11/ARTIhQ48PmlWSKg9LAGPq5IJ250711.shtml)
+
++ [韩国新一届政府组阁工作基本结束](https://news.cctv.com/2025/07/11/ARTITDp0oBsBc903R6rCo1sO250711.shtml)
+
++ [美日韩举行空中联合演习](https://military.cctv.com/2025/07/11/ARTIk2XWcmCyTlIaVDij8Cs8250711.shtml)
+
++ [再被捕后首次传唤调查 尹锡悦预计不会出席](https://news.cctv.com/2025/07/11/ARTI2yxrGXKH7ssrDbkg11Hz250711.shtml)
+

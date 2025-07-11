@@ -161,3 +161,9 @@
 
 + [微信小程序控制空调之微信小程序篇](https://blog.csdn.net/2301_80596293/article/details/149118386)
 
++ [【2025/07/10】GitHub 今日热门项目](https://blog.csdn.net/AlbertDS/article/details/149260177)
+
++ [[附源码+数据库+毕业论]基于Spring Boot+mysql+vue结合内容推荐算法的学生咨询系统](https://blog.csdn.net/2301_78772942/article/details/149234252)
+
++ [Prompt提示词的主要类型和核心原则](https://blog.csdn.net/qq_41035650/article/details/149260011)
+
