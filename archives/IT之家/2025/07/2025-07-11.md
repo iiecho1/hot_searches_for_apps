@@ -75,3 +75,7 @@
 
 + [小米 16 标准版手机被曝现身 EEC 认证，型号与 GSMA IMEI 数据库吻合](https://m.ithome.com/html/867224.htm)
 
++ [小米 REDMI 品牌总经理王腾出演短剧，下周上线](https://m.ithome.com/html/867516.htm)
+
++ [三星 Galaxy S26 系列手机型号曝光，预示 Plus 机型被 Edge 替代](https://m.ithome.com/html/867347.htm)
+

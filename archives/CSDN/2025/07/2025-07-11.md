@@ -217,3 +217,9 @@
 
 + [Spring boot整合dubbo+zookeeper](https://blog.csdn.net/qq_38527427/article/details/149248380)
 
++ [飞算 JavaAI 深度体验：开启 Java 开发智能化新纪元](https://blog.csdn.net/2301_80543957/article/details/149275809)
+
++ [【养老机器人】核心技术 ](https://blog.csdn.net/m0_74633496/article/details/149260830)
+
++ [GitHub 趋势日报 (2025年07月08日)](https://blog.csdn.net/ShrCheng/article/details/149220373)
+
