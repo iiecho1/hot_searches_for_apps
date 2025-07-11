@@ -187,3 +187,15 @@
 
 + [chatgpt是怎么诞生的，详解GPT1到GPT4的演化之路及相关背景知识](https://blog.csdn.net/m0_59931331/article/details/149260549)
 
++ [老项目重构不用愁：飞算JavaAI“合并项目“+“智能分析“实战测评](https://blog.csdn.net/qq_32682301/article/details/149275366)
+
++ [Redis高可用集群一sentinel哨兵集群概述](https://blog.csdn.net/m0_58259081/article/details/149268952)
+
++ [Linux：多线程---同步&&生产者消费者模型](https://blog.csdn.net/zby2791830200/article/details/149274036)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | DoubleVerticalSlider（双垂直滑块）](https://blog.csdn.net/qq_44808710/article/details/149260915)
+
++ [【三维生成】FlashDreamer：基于扩散模型的单目图像到3D场景](https://blog.csdn.net/qq_45752541/article/details/149242643)
+
++ [计算机网络实验——以太网安全实验](https://blog.csdn.net/m0_74985950/article/details/145472915)
+

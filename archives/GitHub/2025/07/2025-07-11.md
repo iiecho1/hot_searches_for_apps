@@ -29,3 +29,17 @@
 
 + [flutter/packages](https://github.com/flutter/packages)
 
++ [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+
++ [google/googletest](https://github.com/google/googletest)
+
++ [goauthentik/authentik](https://github.com/goauthentik/authentik)
+
++ [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
+
++ [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+
++ [getsentry/sentry](https://github.com/getsentry/sentry)
+
++ [antiwork/flexile](https://github.com/antiwork/flexile)
+
