@@ -45,3 +45,5 @@
 
 + [Mac 端 ssh 原生工具 Nex Terminal 又来送兑换码了](https://www.v2ex.com/t/1144523)
 
++ [1password 免费一年家庭会员又来了](https://www.v2ex.com/t/1144433)
+

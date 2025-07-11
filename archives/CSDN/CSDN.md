@@ -181,3 +181,9 @@
 
 + [Python爬取知乎评论：多线程与异步爬虫的性能优化](https://blog.csdn.net/Z_suger7/article/details/149201206)
 
++ [LabVIEW 数字孪生供热系统](https://blog.csdn.net/bjcyck/article/details/149241520)
+
++ [[架构之美]虚拟机Ubuntu密码重置](https://blog.csdn.net/qq_29709589/article/details/149259631)
+
++ [chatgpt是怎么诞生的，详解GPT1到GPT4的演化之路及相关背景知识](https://blog.csdn.net/m0_59931331/article/details/149260549)
+
