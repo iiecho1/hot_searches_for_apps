@@ -161,3 +161,13 @@
 
 + [智慧、绿色、韧性：上合组织国家代表“取经”中国城市治理之道](https://news.cctv.com/2025/07/09/ARTIRISULKzQucWYOCxLJguh250709.shtml)
 
++ [库尔德工人党开始解除武装 土耳其总统盼“持久和平”](https://news.cctv.com/2025/07/12/ARTIr6NUsFJJkDBclynpcrGf250712.shtml)
+
++ [今夏以来欧洲多国遭遇高温 西欧经历“最热”六月](https://news.cctv.com/2025/07/12/ARTIARop8PMVWCxRZqCIPs4s250712.shtml)
+
++ [美联储官员：美国最新关税威胁可能会推迟降息](https://news.cctv.com/2025/07/12/ARTImy253qTWnpeteVT0CjW8250712.shtml)
+
++ [泽连斯基：美国及欧洲对乌军事援助渠道已全面恢复](https://news.cctv.com/2025/07/12/ARTI6XruZ7Lu1x8R2LsCtFsD250712.shtml)
+
++ [联合国秘书长强烈谴责胡塞武装恢复袭击红海民用船只](https://news.cctv.com/2025/07/12/ARTIoYtv3a6y4QrI9fd5gWxI250712.shtml)
+
