@@ -49,3 +49,9 @@
 
 + [蔚来乐道 L90 大三排 SUV 预售：27.99 万元起 / 租电方案 19.39 万元起，8 月 1 日交付](https://m.ithome.com/html/867282.htm)
 
++ [华为余承东：问界 M9 事故率相较行业下降了近 90%，未来还会更低](https://m.ithome.com/html/867283.htm)
+
++ [闲置已超 4 年，恒大汽车 43.7 万平方米土地被政府收回](https://m.ithome.com/html/867217.htm)
+
++ [小米 16 标准版手机被曝现身 EEC 认证，型号与 GSMA IMEI 数据库吻合](https://m.ithome.com/html/867224.htm)
+
