@@ -25,3 +25,27 @@
 
 + [三星 Galaxy S26 系列手机型号曝光，预示 Plus 机型被 Edge 替代](https://m.ithome.com/html/867347.htm)
 
++ [30 多万就能买玛莎拉蒂，门店销售人员称“2 天卖了 10 多辆”](https://m.ithome.com/html/867202.htm)
+
++ [主推亮蓝色，苹果最薄 iPhone 17 Air 四种颜色曝光](https://m.ithome.com/html/867023.htm)
+
++ [哈工大录取通知书公布，将送 2025 级新生姓名上太空](https://m.ithome.com/html/867069.htm)
+
++ [罗马仕中层曝问题充电宝内幕：有老板深度参与，完全以毛利为导向](https://m.ithome.com/html/867212.htm)
+
++ [比亚迪汽车回应“可实现媲美 L4 级智能泊车”：天神之眼车辆享终身全面兜底权益，不限质保期、不限首任车主](https://m.ithome.com/html/867107.htm)
+
++ [小米汽车首席设计师李田原谈外观设计争议：功能参数可以对标，情绪价值无可替代](https://m.ithome.com/html/867141.htm)
+
++ [宗申就涉嫌侵犯“问界”“智界”“尚界”商标权致歉：已立即整改相关产品命名](https://m.ithome.com/html/867143.htm)
+
++ [全球最强 AI 模型：马斯克发布 Grok 4，处理学术问题达到博士级别](https://m.ithome.com/html/867110.htm)
+
++ [重庆市原市长黄奇帆：三千万辆中国汽车卖的利润不如丰田](https://m.ithome.com/html/867192.htm)
+
++ [宗申工作人员回应新品取名智界 S300、问界 Q1P：还未批量生产，如果侵权应该无法通过审核](https://m.ithome.com/html/867024.htm)
+
++ [苹果开启 2025 教育优惠返校季活动：购买指定款 Mac / iPad 搭配指定配件省更多，不叠加国补](https://m.ithome.com/html/867021.htm)
+
++ [蔚来乐道 L90 大三排 SUV 预售：27.99 万元起 / 租电方案 19.39 万元起，8 月 1 日交付](https://m.ithome.com/html/867282.htm)
+

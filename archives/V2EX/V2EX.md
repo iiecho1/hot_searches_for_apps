@@ -21,3 +21,5 @@
 
 + [Mac 端 ssh 原生工具 Nex Terminal 又来送兑换码了](https://www.v2ex.com/t/1144523)
 
++ [发现一个便宜买 1 年 SSL 证书的地方](https://www.v2ex.com/t/1144542)
+

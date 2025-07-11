@@ -101,3 +101,9 @@
 
 + [【养老机器人】核心技术 ](https://blog.csdn.net/m0_74633496/article/details/149260830)
 
++ [【源力觉醒 创作者计划】文心4.5本地化部署全攻略：基于GitCode的DeepSeek、Qwen3.0性能基准测试](https://blog.csdn.net/IRpickstars/article/details/149263709)
+
++ [TCP-与-UDP-协议详解：原理、区别与应用场景全解析](https://blog.csdn.net/2301_80922247/article/details/149258722)
+
++ [基于svga+uniapp的微信小程序动画组件开发指南](https://blog.csdn.net/wzyleix97/article/details/149226590)
+
