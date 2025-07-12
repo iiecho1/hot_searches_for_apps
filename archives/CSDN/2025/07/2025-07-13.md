@@ -145,3 +145,9 @@
 
 + [森马服饰从 Elasticsearch 到阿里云 SelectDB 的架构演进之路](https://blog.csdn.net/SelectDB_Fly/article/details/149276988)
 
++ [Kafka Connect 是什么？](https://blog.csdn.net/hezuijiudexiaobai/article/details/149279562)
+
++ [【论文阅读】LS-Mixture SFT Eliciting Efficient Reasoning in Large Language Models](https://blog.csdn.net/quintus0505/article/details/149268697)
+
++ [2025亚太中文赛数学建模B题完整论文+代码+数据：疾病的预测与大数据分析](https://blog.csdn.net/2301_81596622/article/details/149289391)
+
