@@ -55,3 +55,21 @@
 
 + [小米 16 标准版手机被曝现身 EEC 认证，型号与 GSMA IMEI 数据库吻合](https://m.ithome.com/html/867224.htm)
 
++ [慢充话费后电话卡被关停，微信提醒警惕卷入诈骗分子的洗钱环节](https://m.ithome.com/html/867582.htm)
+
++ [5699 元起，华为 Pura 80 Pro / Pro + 手机京东限时优惠 800 元](https://m.ithome.com/html/867579.htm)
+
++ [短剧“硬蹭”华为小米已被下架，角色包含“余程冬”“苏柒”等](https://m.ithome.com/html/867570.htm)
+
++ [“京东秒送”在上海率先达成协议：新人骑手月收入不低于 5000 元，提供 5 万顶智能头盔](https://m.ithome.com/html/867581.htm)
+
++ [二审维持原判，特斯拉“车顶维权”事件女一号被判道歉并赔偿](https://m.ithome.com/html/867560.htm)
+
++ [“你的隐私正在快递单上裸奔”登上热搜，菜鸟客服回应](https://m.ithome.com/html/867495.htm)
+
++ [消息称下一代 6.3 英寸小直屏手机至少有 7 台，小米 16、vivo X300 率先登场](https://m.ithome.com/html/867562.htm)
+
++ [“车顶维权”女车主回应向特斯拉赔偿 17 万元： 二审维持原判，不代表刹车不失灵](https://m.ithome.com/html/867575.htm)
+
++ [吉利银河 A7 启动预售：10.38 万-13.38 万元，综合续航超 2100km](https://m.ithome.com/html/867536.htm)
+

@@ -199,3 +199,5 @@
 
 + [特朗普说利比里亚总统“英语好”持续引发非洲民众不满](https://news.cctv.com/2025/07/12/ARTIb7CnXtkEpiBYlZGBCCCo250712.shtml)
 
++ [美国加码“关税施压”策略伤及自身 招致多国强硬回击](https://news.cctv.com/2025/07/12/ARTIFZKfrnPuW14rCckhuSVx250712.shtml)
+
