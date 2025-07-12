@@ -191,3 +191,9 @@
 
 + [联合国：加沙已有近800人在试图领取援助时遇害](https://news.cctv.com/2025/07/12/ARTIce2xXrKY9ls70ZihbO8w250712.shtml)
 
++ [中国驻菲律宾使馆发言人就美国驻菲大使等涉海错误言论答记者问](https://news.cctv.com/2025/07/12/ARTIVGnI2yaxNLQrOezkvmNL250712.shtml)
+
++ [禁止入境美国 美宣布对古巴国家主席进行制裁](https://news.cctv.com/2025/07/12/ARTIvrH3ERCV0COeyorbZtVs250712.shtml)
+
++ [中国驻冰岛大使馆提醒赴冰中国游客注意防范租车风险](https://news.cctv.com/2025/07/12/ARTIVhf4W3PTkiKLPdOQrYBi250712.shtml)
+
