@@ -243,3 +243,5 @@
 
 + [特朗普称对墨西哥、欧盟征收30%关税](https://news.cctv.com/2025/07/12/ARTI4koJ1KJRTU5PbSNJ14RO250712.shtml)
 
++ [欧盟称美征收30%关税损害双方利益 将继续努力达成协议](https://news.cctv.com/2025/07/12/ARTIeDfr33xqLyQRLg2NAEXs250712.shtml)
+
