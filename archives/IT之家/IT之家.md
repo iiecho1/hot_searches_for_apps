@@ -75,3 +75,13 @@
 
 + [粉色换紫色，苹果 iPhone 17/17 Air 共 9 款配色曝光](https://m.ithome.com/html/867564.htm)
 
++ [央视曝光电动自行车非法改装一条龙：时速 100km/h、续航 200 公里，甚至推背感也没问题](https://m.ithome.com/html/867649.htm)
+
++ [小米公关总经理王化回应“雷军称造车做轮毂最难”是断章取义](https://m.ithome.com/html/867615.htm)
+
++ [小米之家开启免费领取雪糕活动：限量 60 万份，7 月 20 日结束](https://m.ithome.com/html/867621.htm)
+
++ [中国载人航天工程副总设计师杨利伟：外籍航天员将在中国接受全方位训练](https://m.ithome.com/html/867576.htm)
+
++ [苹果第 12 代入门 iPad 曝料：明春发布，256GB 存储起步](https://m.ithome.com/html/867600.htm)
+
