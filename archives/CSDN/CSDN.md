@@ -151,3 +151,7 @@
 
 + [2025亚太中文赛数学建模B题完整论文+代码+数据：疾病的预测与大数据分析](https://blog.csdn.net/2301_81596622/article/details/149289391)
 
++ [Windows Edge 播放 H.265 视频指南](https://blog.csdn.net/m0_56659620/article/details/149245021)
+
++ [[论文阅读] 人工智能 | 5C提示词框架的研究](https://blog.csdn.net/zhangjiaoshou_/article/details/149244610)
+
