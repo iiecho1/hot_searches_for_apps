@@ -173,3 +173,9 @@
 
 + [springboot生成pdf方案之dot/html/图片转pdf三种方式](https://blog.csdn.net/huhui806/article/details/149269527)
 
++ [uniapp [安卓苹果App端] - errMsg“: “request:fail abort statusCode:-1 不支持的URL(-1002)Uniapp真机运行APP网络请求报错失败排查](https://blog.csdn.net/weixin_44198965/article/details/149296089)
+
++ [Spring MVC中异常处理](https://blog.csdn.net/iov_a/article/details/149283428)
+
++ [基于kafka的分布式日志收集与实时监控平台（原理，框架）](https://blog.csdn.net/m0_74234518/article/details/149252615)
+

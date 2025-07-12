@@ -237,3 +237,7 @@
 
 + [埃尔多安：库尔德工人党自行解散 土耳其“翻开历史新一页”](https://news.cctv.com/2025/07/12/ARTI14RVF5HiHY7WIIRBkhwC250712.shtml)
 
++ [哈萨克斯坦人民党主席：“一带一路”倡议是连接东西、贯通南北的“文明之桥”](https://news.cctv.com/2025/07/12/ARTI0lhdYJVyEwKq11OSB5Kv250712.shtml)
+
++ [专访丨美国关税威胁将削弱世界对其信任——访埃塞俄比亚政策研究所高级顾问巴鲁·德米西](https://news.cctv.com/2025/07/12/ARTIeE3z0DDSTR9sB9RZ7UAl250712.shtml)
+
