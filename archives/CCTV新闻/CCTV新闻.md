@@ -201,3 +201,9 @@
 
 + [美国加码“关税施压”策略伤及自身 招致多国强硬回击](https://news.cctv.com/2025/07/12/ARTIFZKfrnPuW14rCckhuSVx250712.shtml)
 
++ [特朗普在得州洪水灾区强硬回应批评声音](https://news.cctv.com/2025/07/12/ARTIBN7kuD7KHgXlL1ytDVa1250712.shtml)
+
++ [巴勒斯坦官员：新一轮加沙停火谈判濒临崩溃](https://news.cctv.com/2025/07/12/ARTI5CeLRijlFv91aC8e3KSG250712.shtml)
+
++ [墨西哥总统：墨美双方下周在美国谈判](https://news.cctv.com/2025/07/12/ARTIAc2kfDzXC0NejqvID4To250712.shtml)
+

@@ -151,3 +151,7 @@
 
 + [【Arduino 动手做】基于 ATtiny85 的微型 DIY 游戏机](https://blog.csdn.net/weixin_41659040/article/details/149287916)
 
++ [pytorch 神经网络](https://blog.csdn.net/2401_87862479/article/details/149256880)
+
++ [第35周—————糖尿病预测模型优化探索](https://blog.csdn.net/boooo_hhh/article/details/149259228)
+
