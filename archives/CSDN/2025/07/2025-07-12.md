@@ -139,3 +139,11 @@
 
 + [基于 SpringBoot + Vue 的 IT 技术交流和分享平台的设计与实现 ](https://blog.csdn.net/m0_58147884/article/details/149254949)
 
++ [飞算 JavaAI 体验：重塑 Java 开发的智能新范式](https://blog.csdn.net/atgfg/article/details/149275144)
+
++ [CH9121T电路及配置详解](https://blog.csdn.net/uyoev123abc/article/details/149230662)
+
++ [LVDS系列20：Xilinx 7系ISERDESE2原语（一）](https://blog.csdn.net/weixin_38828382/article/details/149253618)
+
++ [动态物体滤除算法](https://blog.csdn.net/wsl_longwudi/article/details/145487209)
+

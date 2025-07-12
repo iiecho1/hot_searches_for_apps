@@ -171,3 +171,23 @@
 
 + [联合国秘书长强烈谴责胡塞武装恢复袭击红海民用船只](https://news.cctv.com/2025/07/12/ARTIoYtv3a6y4QrI9fd5gWxI250712.shtml)
 
++ [美国务院一日裁员千余人 哪些业务被削弱](https://news.cctv.com/2025/07/12/ARTIzwmJFkUBCHu4DGJYB0Lx250712.shtml)
+
++ [墨西哥澄清贩毒飞机与萨尔瓦多无关 两国外交危机平息](https://news.cctv.com/2025/07/12/ARTISnO8oBu9bEC8hwKgPO4Z250712.shtml)
+
++ [印度航空坠机报告：飞行员对操作存在困惑](https://news.cctv.com/2025/07/12/ARTINPfHfRcWNHDENpkGCJiv250712.shtml)
+
++ [儿基会：苏丹北达尔富尔州严重急性营养不良儿童人数翻倍](https://photo.cctv.com/2025/07/12/PHOAMKeMtY1StbGAOMV9U4py250712.shtml)
+
++ [印航空难首份调查报告：坠机前一刻发动机燃料供应被切断](https://news.cctv.com/2025/07/12/ARTItc053d8rpCa88QPxJU0w250712.shtml)
+
++ [美国对乌援助手段“上新” 俄罗斯：全是生意](https://news.cctv.com/2025/07/12/ARTIngQkbasdCq81cGSqlgfe250712.shtml)
+
++ [中国驻奥地利使馆：对“金色大厅艺术节”活动不知情，未以任何形式参与](https://news.cctv.com/2025/07/12/ARTIrfwfBYJC7ppMeEBg0Rda250712.shtml)
+
++ [白俄罗斯：“斯拉夫巴扎”街头艺术气氛浓](https://photo.cctv.com/2025/07/12/PHOA3zBYNFRyHNsJbIIrSyeQ250712.shtml)
+
++ [美国得州洪灾灾情严重 搜寻工作持续进行](https://photo.cctv.com/2025/07/12/PHOAci73PEWrDCMcyw5nZkDj250712.shtml)
+
++ [联合国：加沙已有近800人在试图领取援助时遇害](https://news.cctv.com/2025/07/12/ARTIce2xXrKY9ls70ZihbO8w250712.shtml)
+
