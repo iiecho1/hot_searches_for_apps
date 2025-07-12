@@ -197,3 +197,5 @@
 
 + [中国驻冰岛大使馆提醒赴冰中国游客注意防范租车风险](https://news.cctv.com/2025/07/12/ARTIVhf4W3PTkiKLPdOQrYBi250712.shtml)
 
++ [特朗普说利比里亚总统“英语好”持续引发非洲民众不满](https://news.cctv.com/2025/07/12/ARTIb7CnXtkEpiBYlZGBCCCo250712.shtml)
+
