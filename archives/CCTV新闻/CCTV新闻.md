@@ -231,3 +231,5 @@
 
 + [欧盟官员：面对保护主义 欧盟加强贸易合作](https://news.cctv.com/2025/07/12/ARTIIixNNqRHMBBq9YAqcpAv250712.shtml)
 
++ [美国大峡谷国家公园附近两处山火失控 周边地区发布疏散令](https://news.cctv.com/2025/07/12/ARTIoCmnqxVIOh9R6Ip2MDaJ250712.shtml)
+
