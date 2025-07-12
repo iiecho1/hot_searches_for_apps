@@ -241,3 +241,5 @@
 
 + [专访丨美国关税威胁将削弱世界对其信任——访埃塞俄比亚政策研究所高级顾问巴鲁·德米西](https://news.cctv.com/2025/07/12/ARTIeE3z0DDSTR9sB9RZ7UAl250712.shtml)
 
++ [特朗普称对墨西哥、欧盟征收30%关税](https://news.cctv.com/2025/07/12/ARTI4koJ1KJRTU5PbSNJ14RO250712.shtml)
+

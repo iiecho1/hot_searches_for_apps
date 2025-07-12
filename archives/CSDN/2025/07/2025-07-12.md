@@ -179,3 +179,21 @@
 
 + [基于kafka的分布式日志收集与实时监控平台（原理，框架）](https://blog.csdn.net/m0_74234518/article/details/149252615)
 
++ [飞算 JavaAI 智能编程助手：颠覆编程旧模式，重构新生态](https://blog.csdn.net/2302_79751907/article/details/149275967)
+
++ [人工智能自动化编程：传统软件开发vs AI驱动开发对比分析](https://blog.csdn.net/IRpickstars/article/details/149295236)
+
++ [汽车嵌入式开发：SDV时代技术人才破局指南](https://blog.csdn.net/weixin_62244995/article/details/149275893)
+
++ [Python七彩花朵](https://blog.csdn.net/m0_68111267/article/details/149285456)
+
++ [【Spring】拦截器详解](https://blog.csdn.net/Yeeear/article/details/148833670)
+
++ [Spring 声明式事务：从原理到实现的完整解析](https://blog.csdn.net/Landcc/article/details/149282603)
+
++ [【SpringBoot】 整合MyBatis+Postgresql](https://blog.csdn.net/qq_39397927/article/details/149282020)
+
++ [FPGA开发一个精确反馈控制算法 实现动态调控电磁反馈，控制流过线圈的电流，产生不同大小不同方向的磁力 电路结构设计PCB版图的绘制](https://blog.csdn.net/zhangfeng1133/article/details/149281818)
+
++ [Linux 下使用 VS Code 远程 GDB 调试 ARM 程序](https://blog.csdn.net/Mr_Orangechen/article/details/149267405)
+
