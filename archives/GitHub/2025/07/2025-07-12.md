@@ -27,3 +27,19 @@
 
 + [antiwork/flexile](https://github.com/antiwork/flexile)
 
++ [getzep/graphiti](https://github.com/getzep/graphiti)
+
++ [pybind/pybind11](https://github.com/pybind/pybind11)
+
++ [gorhill/uBlock](https://github.com/gorhill/uBlock)
+
++ [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+
++ [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+
++ [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+
++ [psf/black](https://github.com/psf/black)
+
++ [odoo/odoo](https://github.com/odoo/odoo)
+

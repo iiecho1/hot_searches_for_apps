@@ -233,3 +233,7 @@
 
 + [美国大峡谷国家公园附近两处山火失控 周边地区发布疏散令](https://news.cctv.com/2025/07/12/ARTIoCmnqxVIOh9R6Ip2MDaJ250712.shtml)
 
++ [巴勒斯坦官员：以色列撤军问题阻碍加沙停火协议达成](https://news.cctv.com/2025/07/12/ARTIN7tjc1tMVsa9sCaqpkbA250712.shtml)
+
++ [埃尔多安：库尔德工人党自行解散 土耳其“翻开历史新一页”](https://news.cctv.com/2025/07/12/ARTI14RVF5HiHY7WIIRBkhwC250712.shtml)
+
