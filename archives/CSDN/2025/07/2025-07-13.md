@@ -133,3 +133,15 @@
 
 + [跨网文件交换？内外网文件交换十大方法构建安全合规的数据传输通道](https://blog.csdn.net/2501_92182754/article/details/149243556)
 
++ [数据仓库：企业数据管理的核心枢纽](https://blog.csdn.net/neweastsun/article/details/149256902)
+
++ [AI原生应用开发：未来5年的技术趋势预测](https://blog.csdn.net/universsky2015/article/details/149297536)
+
++ [【飞算JavaAI】一站式智能开发，驱动Java开发全流程革新](https://blog.csdn.net/Morse_Chen/article/details/149288521)
+
++ [如何在Linux上搭建本地Docker Registry并实现远程连接](https://blog.csdn.net/gulu230220/article/details/149254933)
+
++ [【云原生零信任架构】](https://blog.csdn.net/weixin_49199313/article/details/149246620)
+
++ [森马服饰从 Elasticsearch 到阿里云 SelectDB 的架构演进之路](https://blog.csdn.net/SelectDB_Fly/article/details/149276988)
+
