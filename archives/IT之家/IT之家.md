@@ -73,3 +73,5 @@
 
 + [吉利银河 A7 启动预售：10.38 万-13.38 万元，综合续航超 2100km](https://m.ithome.com/html/867536.htm)
 
++ [粉色换紫色，苹果 iPhone 17/17 Air 共 9 款配色曝光](https://m.ithome.com/html/867564.htm)
+

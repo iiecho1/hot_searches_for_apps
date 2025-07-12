@@ -207,3 +207,27 @@
 
 + [墨西哥总统：墨美双方下周在美国谈判](https://news.cctv.com/2025/07/12/ARTIAc2kfDzXC0NejqvID4To250712.shtml)
 
++ [古巴抨击美国制裁古巴领导人](https://news.cctv.com/2025/07/12/ARTIYqf3OAZ7t9m9zOEOzcsC250712.shtml)
+
++ [专访丨巴西看穿美国政治讹诈本质 因而坚定“说不”——巴西法学教授卡瓦略谈巴美关税问题](https://news.cctv.com/2025/07/12/ARTIHxbiO5hkDSM3y1ylqScI250712.shtml)
+
++ [英国遭遇今夏第三波热浪](https://news.cctv.com/2025/07/12/ARTI97XsmTSroYfnjRuI0rjl250712.shtml)
+
++ [玻利维亚麻疹疫情蔓延 确诊病例数过百](https://news.cctv.com/2025/07/12/ARTIt18B5PTcQY35ehNlXGB9250712.shtml)
+
++ [伊朗最高领袖顾问：伊朗收到美方关于重启伊核谈判的信息](https://news.cctv.com/2025/07/12/ARTIazZWMwwCsojhbca3D0wo250712.shtml)
+
++ [法国就社交媒体平台X涉嫌“外国干涉”展开调查](https://news.cctv.com/2025/07/12/ARTIxAWn959dBuGPhMcw1ek1250712.shtml)
+
++ [热点问答｜库尔德工人党开始解除武装 和平之路能否平坦](https://news.cctv.com/2025/07/12/ARTIQCTMfw205kv5VvlR5AWi250712.shtml)
+
++ [伊朗恰巴哈尔市恐袭导致3名警察死亡](https://news.cctv.com/2025/07/12/ARTIS3y7DV7tXD1oIUJRIQ5Y250712.shtml)
+
++ [俄外长访朝期间警告美及其盟友：勿对俄朝安全构成威胁](https://news.cctv.com/2025/07/12/ARTIwwDTKjUM0PovGiCPv9tS250712.shtml)
+
++ [美法官命令特朗普政府停止在加州洛杉矶及周边县区逮捕移民](https://news.cctv.com/2025/07/12/ARTIxUrLt93qUL9UXZGIvIBY250712.shtml)
+
++ [印度德里一栋楼房倒塌 恐有多人被困](https://news.cctv.com/2025/07/12/ARTIMvF7XKMk4nlXNVnVQe0E250712.shtml)
+
++ [欧盟官员：面对保护主义 欧盟加强贸易合作](https://news.cctv.com/2025/07/12/ARTIIixNNqRHMBBq9YAqcpAv250712.shtml)
+
