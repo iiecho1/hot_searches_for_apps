@@ -129,3 +129,13 @@
 
 + [Spring boot整合dubbo+zookeeper](https://blog.csdn.net/qq_38527427/article/details/149248380)
 
++ [深入探索Kafka Streams：企业级实时数据处理实践指南](https://blog.csdn.net/neweastsun/article/details/149276238)
+
++ [UniHttp中HttpApiProcessor生命周期钩子介绍以及公共参数填充-以百度天气接口为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/149259662)
+
++ [计算机网络实验——以太网安全实验](https://blog.csdn.net/m0_74985950/article/details/145472915)
+
++ [Spring Boot 与 Docker 的完美结合：容器化你的应用](https://blog.csdn.net/2503_92145588/article/details/149247001)
+
++ [基于 SpringBoot + Vue 的 IT 技术交流和分享平台的设计与实现 ](https://blog.csdn.net/m0_58147884/article/details/149254949)
+
