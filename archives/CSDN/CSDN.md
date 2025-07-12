@@ -155,3 +155,7 @@
 
 + [[论文阅读] 人工智能 | 5C提示词框架的研究](https://blog.csdn.net/zhangjiaoshou_/article/details/149244610)
 
++ [配置驱动开发：初探零代码构建嵌入式软件配置工具](https://blog.csdn.net/weixin_45817947/article/details/149300521)
+
++ [二手交易系统|二手物品交易系统|基于Springboot二手物品交易系统的设计与实现](https://blog.csdn.net/weixin_45630258/article/details/149249291)
+
