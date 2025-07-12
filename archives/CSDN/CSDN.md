@@ -101,3 +101,11 @@
 
 + [深入理解区块链 | 去中心化架构与密码学保障](https://blog.csdn.net/SCIS588/article/details/149252481)
 
++ [老项目重构不用愁：飞算JavaAI“合并项目“+“智能分析“实战测评](https://blog.csdn.net/qq_32682301/article/details/149275366)
+
++ [Pandas - Python爬虫数据处理分析神器](https://blog.csdn.net/Tang_is_learning/article/details/149260228)
+
++ [【Spring AOP】什么是AOP？切点、连接点、通知和切面](https://blog.csdn.net/Yeeear/article/details/148935118)
+
++ [【SpringBoot】 整合MyBatis+Postgresql](https://blog.csdn.net/qq_39397927/article/details/149282020)
+
