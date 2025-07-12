@@ -47,3 +47,5 @@
 
 + [你现在的 ai 是？](https://www.v2ex.com/t/1144664)
 
++ [路由器+16T 硬盘](https://www.v2ex.com/t/1144603)
+
