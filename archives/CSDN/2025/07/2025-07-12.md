@@ -163,3 +163,7 @@
 
 + [深入理解区块链 | 去中心化架构与密码学保障](https://blog.csdn.net/SCIS588/article/details/149252481)
 
++ [使用深度学习框架yolov8训练监控视角下非机动车电动车头盔佩戴检测数据集VOC+YOLO格式11999张4类别步骤和流程](https://blog.csdn.net/FL1623863129/article/details/149241975)
+
++ [【八股消消乐】浅尝Kafka性能优化](https://blog.csdn.net/m0_51517236/article/details/149271929)
+
