@@ -171,3 +171,21 @@
 
 + [金正恩会见俄罗斯外长拉夫罗夫](https://news.cctv.com/2025/07/13/ARTIf5YgNbtWVIAlLg2TRdPl250713.shtml)
 
++ [共商合作机遇 共促融合发展（弘扬“上海精神”：上合组织在行动）](https://news.cctv.com/2025/07/13/ARTIuBazT9FoFssvs2FsexRG250713.shtml)
+
++ [增进美中两国间的合作精神](https://news.cctv.com/2025/07/13/ARTIcTDReLOPUGfioB87rJdR250713.shtml)
+
++ [美防长要求加快美军无人机生产](https://news.cctv.com/2025/07/13/ARTIqpMykLOKCOS4HJKjRzYR250713.shtml)
+
++ [圣多美和普林西比庆祝独立50周年](https://news.cctv.com/2025/07/13/ARTID0VjP56lGZt5skOhOnmH250713.shtml)
+
++ [马克龙：强烈反对美国向欧盟征收30%关税](https://news.cctv.com/2025/07/13/ARTIU4K6w3Uar52vwudPx5YZ250713.shtml)
+
++ [软中带硬！欧洲、墨西哥回应特朗普关税威胁](https://news.cctv.com/2025/07/13/ARTIYWN4dFQY3GPFYjIdkERR250713.shtml)
+
++ [综述｜特朗普再次威胁加征关税 欧盟各界呼吁捍卫自身利益](https://news.cctv.com/2025/07/13/ARTIWiYWoT0SKNJ1S7CK2Ktl250713.shtml)
+
++ [民调：超七成以色列民众支持实现加沙全面停火](https://news.cctv.com/2025/07/13/ARTIg1X9JVFX4wgmM3Sy19l2250713.shtml)
+
++ [美国得州洪灾造成至少129人死亡 仍有166人失踪](https://photo.cctv.com/2025/07/13/PHOAiL4cn04d2WwIsufNjbGO250713.shtml)
+
