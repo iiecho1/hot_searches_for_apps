@@ -69,3 +69,5 @@
 
 + [【绝望女神/翻唱】【言叶之庭 Rain】](https://m.acfun.cn/v/?ac=47485247)
 
++ [这游戏胜负就得看团战！快速看完一局韩服王者斗殴局#704 Equinox, naiyou, FIES](https://m.acfun.cn/v/?ac=47485687)
+

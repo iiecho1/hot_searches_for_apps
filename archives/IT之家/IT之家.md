@@ -47,3 +47,5 @@
 
 + [粉色换紫色，苹果 iPhone 17/17 Air 共 9 款配色曝光](https://m.ithome.com/html/867564.htm)
 
++ [中国载人航天工程副总设计师杨利伟：外籍航天员将在中国接受全方位训练](https://m.ithome.com/html/867576.htm)
+

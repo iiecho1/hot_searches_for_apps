@@ -161,3 +161,13 @@
 
 + [得州洪灾之际 美国土安全部长再提撤销联邦救灾机构](https://news.cctv.com/2025/07/10/ARTIyspM42tBFdOU5ocJm7ES250710.shtml)
 
++ [伊朗外长说将继续坚持铀浓缩权利](https://news.cctv.com/2025/07/13/ARTI1DlQVezqUQRmhwPqAeVD250713.shtml)
+
++ [美国向欧盟、墨西哥发出“关税通牒” 盟友强硬回怼](https://news.cctv.com/2025/07/13/ARTIhlzorGlyLPZZs3eYZXk0250713.shtml)
+
++ [叙政权领导人访问阿塞拜疆推动能源合作](https://news.cctv.com/2025/07/13/ARTILHHkBpDJTqAWpNwXZlXp250713.shtml)
+
++ [以媒：加沙停火谈判“未取得重大进展”](https://news.cctv.com/2025/07/13/ARTIBF24vwCohzBNYazLxkSf250713.shtml)
+
++ [金正恩会见俄罗斯外长拉夫罗夫](https://news.cctv.com/2025/07/13/ARTIf5YgNbtWVIAlLg2TRdPl250713.shtml)
+
