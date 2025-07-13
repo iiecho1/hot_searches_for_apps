@@ -243,3 +243,11 @@
 
 + [朝鲜谴责美日韩军演威胁地区和平](https://news.cctv.com/2025/07/13/ARTIsP3gAvhSZPPsJlE5C3gv250713.shtml)
 
++ [俄外交部发言人：美国是乌克兰问题的始作俑者](https://news.cctv.com/2025/07/13/ARTIyAL7Jb2v3ueTRlXxWc0E250713.shtml)
+
++ [国际原子能机构：扎波罗热核电站周围传出武器射击声](https://news.cctv.com/2025/07/13/ARTIpTGcqTMpRiR1u8mRXXLv250713.shtml)
+
++ [伊媒说伊朗总统曾在以色列袭击中受轻伤](https://news.cctv.com/2025/07/13/ARTIQqhLK3ipq4FrIB0UQGG6250713.shtml)
+
++ [北约秘书长将于7月14日至15日访问美国](https://news.cctv.com/2025/07/13/ARTIxKhceWsek0O14gCKBZ5s250713.shtml)
+

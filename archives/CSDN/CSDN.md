@@ -245,3 +245,13 @@
 
 + [Flutter、React Native、Uni-App 的比较与分析](https://blog.csdn.net/u014752325/article/details/149295317)
 
++ [GoWeb必备理论](https://blog.csdn.net/2302_80067378/article/details/149313646)
+
++ [应用层协议 HTTP](https://blog.csdn.net/2302_81171591/article/details/149250995)
+
++ [【LLM-Agent】Qwen-Agent智能体框架使用](https://blog.csdn.net/qq_35812205/article/details/149311352)
+
++ [springboot AOP面向切面编程](https://blog.csdn.net/qq_33697094/article/details/149297130)
+
++ [Redis 实现分布式锁](https://blog.csdn.net/qq_41331466/article/details/149300137)
+
