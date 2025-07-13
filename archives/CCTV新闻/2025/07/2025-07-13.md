@@ -225,3 +225,17 @@
 
 + [巴西农业部长：不接受美国施压 将开拓出口新渠道](https://news.cctv.com/2025/07/13/ARTIwcDn8KxhicBZy7WQZudq250713.shtml)
 
++ [涉美军事活动 俄罗斯公布俄外长与金正恩会见更多细节](https://news.cctv.com/2025/07/13/ARTIIU2cD9OYbCVcvhKyAQ8X250713.shtml)
+
++ [视频丨英国警方逮捕40余名支持巴勒斯坦抗议者](https://news.cctv.com/2025/07/13/ARTIr5getSIiCDi03Jc3Zc58250713.shtml)
+
++ [加强与中国合作为哥伦比亚打开机遇之窗——访哥伦比亚贸易投资旅游局副局长梅希亚](https://news.cctv.com/2025/07/13/ARTI94gjq0qGpPtTdDFCOM4B250713.shtml)
+
++ [巴西农业部长：巴西不会屈服于美国贸易打压](https://news.cctv.com/2025/07/13/ARTIct37vcKCJJBw9VxtPQ1K250713.shtml)
+
++ [抗议“过度旅游” 意大利居民对游客私收门票引争议](https://news.cctv.com/2025/07/13/ARTIwJJA5CMrvDUm3Ua8lxRJ250713.shtml)
+
++ [中国“数字民生”实践为上合国家实现“智慧生活”提供新方案](https://news.cctv.com/2025/07/13/ARTIU9HTkR5guwVjKdRLbA8s250713.shtml)
+
++ [50卡车物资、3000个血袋 约旦与联合国共援加沙](https://news.cctv.com/2025/07/13/ARTIVcenh8tFG0fMtIMTuGgQ250713.shtml)
+

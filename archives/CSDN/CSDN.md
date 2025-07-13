@@ -209,3 +209,9 @@
 
 + [分布式推客系统全栈开发指南：SpringCloud+Neo4j+Redis实战解析](https://blog.csdn.net/wx_nn7334n/article/details/149278203)
 
++ [【Qt开发】Qt的背景介绍（一）](https://blog.csdn.net/weixin_74809706/article/details/149292291)
+
++ [网络通信模型对比：OSI与TCP/IP参考模型解析](https://blog.csdn.net/2301_80232969/article/details/149296863)
+
++ [4万亿英伟达，凭什么？](https://blog.csdn.net/Gabriel100yi/article/details/149285350)
+
