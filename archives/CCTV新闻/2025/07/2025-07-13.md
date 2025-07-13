@@ -203,3 +203,11 @@
 
 + [新研究预计到本世纪末莱茵河年平均水温将显著升高](https://news.cctv.com/2025/07/13/ARTInqB3PAyYprJPyFZXqRLr250713.shtml)
 
++ [美媒：美国务院启动大规模裁员当日，多名被裁员工流泪离开](https://news.cctv.com/2025/07/13/ARTI74WWIohZjFTbPO7IO7Ho250713.shtml)
+
++ [特朗普称“无人关心”爱泼斯坦案 马斯克发帖催进度](https://news.cctv.com/2025/07/13/ARTICzlQMGSPGxIt3pyZKAg8250713.shtml)
+
++ [“尽快驱逐被收押者” 美国计划在五个州复刻“鳄鱼恶魔岛”](https://news.cctv.com/2025/07/13/ARTI3sFwsRnMEg69lcQVX9PR250713.shtml)
+
++ [印尼沉没渡轮残骸在海底被发现 仍有17人失踪](https://news.cctv.com/2025/07/13/ARTI3Sbwxl4HiVgUfYfPYCE0250713.shtml)
+
