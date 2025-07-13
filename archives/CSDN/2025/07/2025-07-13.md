@@ -223,3 +223,13 @@
 
 + [从零实现一个GPT 【React + Express】--- 【3】解析markdown，处理模型记忆](https://blog.csdn.net/weixin_46726346/article/details/149269610)
 
++ [【RRT三维路径规划】基于matlab快速探索随机树算法RRT无人机路径规划（B样条轨迹生成 LP线性规划轨迹优化）【含Matlab源码 13713期】](https://blog.csdn.net/TIQCmatlab/article/details/149312939)
+
++ [程序员的高效编码利器 - 明基RD320U：专为程序员打造的编程屏](https://blog.csdn.net/zhangcongyi420/article/details/149295862)
+
++ [AI原生应用+业务流程自动化=企业效率倍增器](https://blog.csdn.net/universsky2015/article/details/149311436)
+
++ [Kimi K2万亿参数开源模型原理介绍](https://blog.csdn.net/spatial_coder/article/details/149301855)
+
++ [在 Spring Boot 中使用 MyBatis 的 XML 文件编写 SQL 语句详解](https://blog.csdn.net/2503_92145588/article/details/149307800)
+

@@ -39,3 +39,5 @@
 
 + [苹果即将发布国行 esim 手机！](https://www.v2ex.com/t/1144864)
 
++ [unraid 老是因为失联，想切换到 pve 做底层，虚拟机用什么比较好呢?](https://www.v2ex.com/t/1144856)
+
