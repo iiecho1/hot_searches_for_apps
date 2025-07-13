@@ -147,3 +147,13 @@
 
 + [专题：2025云计算与AI技术研究趋势报告|附200+份报告PDF、原数据表汇总下载](https://blog.csdn.net/qq_19600291/article/details/149276623)
 
++ [飞算JavaAI：重塑Java开发的“人机协同“新模式](https://blog.csdn.net/2302_78391795/article/details/149274876)
+
++ [深入探索Kafka Streams：企业级实时数据处理实践指南](https://blog.csdn.net/neweastsun/article/details/149276238)
+
++ [汽车级MCU选型新方向：eVTOL垂桨控制监控芯片的替代选型技术分析](https://blog.csdn.net/ANSILIC/article/details/149275229)
+
++ [php项目源码加密之Zend Guard Loader加密的代码解密可能性很小-优雅草卓伊凡](https://blog.csdn.net/dujiangdu123/article/details/149318894)
+
++ [封装---优化try..catch错误处理方式](https://blog.csdn.net/2301_80211889/article/details/149318144)
+
