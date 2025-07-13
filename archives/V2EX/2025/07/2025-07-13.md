@@ -33,3 +33,5 @@
 
 + [大家今天过的怎样](https://www.v2ex.com/t/1144807)
 
++ [避坑 VGN 鼠标，左键变双击](https://www.v2ex.com/t/1144879)
+

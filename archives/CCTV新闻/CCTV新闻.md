@@ -221,3 +221,7 @@
 
 + [国产24套2000米级“定海神针”启运巴西](https://jingji.cctv.com/2025/07/13/ARTIieDjs8TNpQwY581pO2K0250713.shtml)
 
++ [一名墨西哥男子因美国抓捕非法移民行动丧生](https://news.cctv.com/2025/07/13/ARTIcSuuy9t5eKrFrqfWg1W0250713.shtml)
+
++ [巴西农业部长：不接受美国施压 将开拓出口新渠道](https://news.cctv.com/2025/07/13/ARTIwcDn8KxhicBZy7WQZudq250713.shtml)
+
