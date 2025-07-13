@@ -113,3 +113,37 @@
 
 + [特辑：Ubuntu，前世今生](https://blog.csdn.net/qq_59667626/article/details/149302250)
 
++ [飞算 JavaAI 体验：重塑 Java 开发的智能新范式](https://blog.csdn.net/atgfg/article/details/149275144)
+
++ [机器学习（ML）、深度学习（DL）、强化学习（RL）关系和区别](https://blog.csdn.net/qq_44377709/article/details/149301994)
+
++ [老项目重构不用愁：飞算JavaAI“合并项目“+“智能分析“实战测评](https://blog.csdn.net/qq_32682301/article/details/149275366)
+
++ [AI 时代的分布式多模态数据处理实践：我的 ODPS 实践之旅、思考与展望](https://blog.csdn.net/lwcwam/article/details/149300757)
+
++ [飞算 JavaAI 进阶实战：从代码生成到系统架构优化的全流程指南](https://blog.csdn.net/SDFsoul/article/details/149303018)
+
++ [Spring Cloud Alibaba 搭建流程（环境准备）](https://blog.csdn.net/2501_91334707/article/details/149296722)
+
++ [【搜索引擎】俄罗斯搜索引擎yandex](https://blog.csdn.net/likuoelie/article/details/149305336)
+
++ [边缘计算破局：某电子厂决策延迟从237ms到18ms的架构革命](https://blog.csdn.net/Start_mswin/article/details/149261523)
+
++ [Spring Boot 中使用 Lombok 进行依赖注入的示例](https://blog.csdn.net/lanwp5302/article/details/149302549)
+
++ [【PostgreSQL16源码自动化部署脚本】](https://blog.csdn.net/weixin_48819926/article/details/149318978)
+
++ [销售数据可视化分析项目](https://blog.csdn.net/qq_24330181/article/details/149278418)
+
++ [GIC控制器 （三）](https://blog.csdn.net/m0_58963318/article/details/149249085)
+
++ [【C++小白逆袭】内存管理从崩溃到精通的秘籍](https://blog.csdn.net/2301_79949691/article/details/149302392)
+
++ [【论文阅读（一）】CLIP-IQA: Exploring CLIP for Assessing the Look and Feel of Images](https://blog.csdn.net/weixin_45457604/article/details/149250047)
+
++ [Web组件的SEO优化策略：解决Shadow DOM中的内容可爬性与搜索引擎可见性问题](https://blog.csdn.net/qq_36287830/article/details/149317048)
+
++ [Java领域Spring Cloud的网关安全防护策略](https://blog.csdn.net/2501_91483426/article/details/149262175)
+
++ [专题：2025云计算与AI技术研究趋势报告|附200+份报告PDF、原数据表汇总下载](https://blog.csdn.net/qq_19600291/article/details/149276623)
+
