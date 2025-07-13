@@ -25,3 +25,21 @@
 
 + [《英雄联盟》MSI 2025 决赛：GEN 3:2 战胜 T1 卫冕冠军](https://m.ithome.com/html/867777.htm)
 
++ [央视曝光电动自行车非法改装一条龙：时速 100km/h、续航 200 公里，甚至推背感也没问题](https://m.ithome.com/html/867649.htm)
+
++ [李想称理想 i8 若在北京发布“大概率致敬小米”，雷军回应“相互致敬挺好”](https://m.ithome.com/html/867700.htm)
+
++ [“25 万级最强华为纯电 SUV”全新岚图知音官宣 8 月底登场：搭乾崑智驾 ADS 4、鸿蒙座舱 5](https://m.ithome.com/html/867688.htm)
+
++ [iOS 微信 8.0.61 内测聊天收发实况照片功能，正努力推进安卓 / 鸿蒙相关适配工作](https://m.ithome.com/html/867655.htm)
+
++ [岚图 FREE + 正式上市：华为 ADS 4.0 / 鸿蒙座舱 5 加持，21.99 万-27.99 万元](https://m.ithome.com/html/867679.htm)
+
++ [小米之家深圳南山小米深圳大厦旗舰店 7 月 18 日正式开业](https://m.ithome.com/html/867709.htm)
+
++ [“华系 SUV”岚图 FREE+ 汽车上市 15 分钟大定锁单 11583 台，21.99 万元起](https://m.ithome.com/html/867687.htm)
+
++ [追光动画电影《聊斋：兰若寺》今日上映，总票房破 2000 万](https://m.ithome.com/html/867706.htm)
+
++ [DCU 开山作《超人》上映 2 天总票房破 2000 万，豆瓣开分 6.9](https://m.ithome.com/html/867665.htm)
+

@@ -161,3 +161,9 @@
 
 + [中国驻奥地利使馆：对“金色大厅艺术节”活动不知情，未以任何形式参与](https://news.cctv.com/2025/07/12/ARTIrfwfBYJC7ppMeEBg0Rda250712.shtml)
 
++ [法国将进一步提高国防预算 2027年达640亿欧元](https://news.cctv.com/2025/07/14/ARTIFhZa2j5kXCwiWL0otAZT250714.shtml)
+
++ [秘鲁新开放一处考古遗址 3500多年前古城揭示文明延续](https://news.cctv.com/2025/07/14/ARTI0cX1jwz4bywSnnsPeOR0250714.shtml)
+
++ [英国一小型飞机坠毁 目击者称看到“巨大火球”](https://news.cctv.com/2025/07/14/ARTI5vNXbexaRDoQkLBHmGOG250714.shtml)
+
