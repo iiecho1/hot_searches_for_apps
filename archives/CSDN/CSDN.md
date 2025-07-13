@@ -177,3 +177,9 @@
 
 + [Elasticsearch与量子机器学习结合](https://blog.csdn.net/2501_91930600/article/details/149316688)
 
++ [JetBrains IDE 性能优化指南：idea.vmoptions 核心参数解析与配置建议](https://blog.csdn.net/qq_41684621/article/details/149319047)
+
++ [27.【.NET8 实战--孢子记账--从单体到微服务--转向微服务】--单体转微服务--币种服务（一）](https://blog.csdn.net/gangzhucoll/article/details/149297659)
+
++ [Android音视频探索之旅 | C++层使用OpenGL ES实现视频渲染](https://blog.csdn.net/itTalmud/article/details/149296253)
+
