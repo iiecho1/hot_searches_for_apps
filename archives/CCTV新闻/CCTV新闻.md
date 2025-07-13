@@ -215,3 +215,9 @@
 
 + [伊朗亮明核谈判态度：外交大门敞开 但须确保不演变为战争](https://news.cctv.com/2025/07/13/ARTIjzRIUU2TolyEDEXOfFug250713.shtml)
 
++ [英国最长寿二战老兵辞世 享年110岁](https://news.cctv.com/2025/07/13/ARTIPbDHrZMI45c17zHraT2l250713.shtml)
+
++ [腿部受伤、出口被封 伊媒公布以色列试图暗杀伊朗总统细节](https://news.cctv.com/2025/07/13/ARTIo5CNKoveP4LLGVlZs4GI250713.shtml)
+
++ [国产24套2000米级“定海神针”启运巴西](https://jingji.cctv.com/2025/07/13/ARTIieDjs8TNpQwY581pO2K0250713.shtml)
+
