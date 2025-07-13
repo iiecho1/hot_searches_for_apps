@@ -215,3 +215,11 @@
 
 + [4万亿英伟达，凭什么？](https://blog.csdn.net/Gabriel100yi/article/details/149285350)
 
++ [OpenCV 与深度学习：从图像分类到目标检测技术](https://blog.csdn.net/qq_51272114/article/details/149275606)
+
++ [OpenCV多种图像哈希算法的实现比较](https://blog.csdn.net/jndingxin/article/details/149277904)
+
++ [物联网应用开发技术趋势与实践指南](https://blog.csdn.net/qq_43323589/article/details/149272493)
+
++ [从零实现一个GPT 【React + Express】--- 【3】解析markdown，处理模型记忆](https://blog.csdn.net/weixin_46726346/article/details/149269610)
+

@@ -27,3 +27,19 @@
 
 + [odoo/odoo](https://github.com/odoo/odoo)
 
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [vercel/commerce](https://github.com/vercel/commerce)
+
++ [block/goose](https://github.com/block/goose)
+
++ [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+
++ [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [browserbase/stagehand](https://github.com/browserbase/stagehand)
+
++ [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice)
+
