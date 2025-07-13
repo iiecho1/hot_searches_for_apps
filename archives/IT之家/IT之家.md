@@ -49,3 +49,17 @@
 
 + [中国载人航天工程副总设计师杨利伟：外籍航天员将在中国接受全方位训练](https://m.ithome.com/html/867576.htm)
 
++ [小米之家深圳南山小米深圳大厦旗舰店 7 月 18 日正式开业](https://m.ithome.com/html/867709.htm)
+
++ [“华系 SUV”岚图 FREE+ 汽车上市 15 分钟大定锁单 11583 台，21.99 万元起](https://m.ithome.com/html/867687.htm)
+
++ [追光动画电影《聊斋：兰若寺》今日上映，总票房破 2000 万](https://m.ithome.com/html/867706.htm)
+
++ [Switch 2 玩家因购买二手 Switch 1 游戏被任天堂封禁，自证清白后终获解封](https://m.ithome.com/html/867726.htm)
+
++ [美团：本月周末骑手日收入增长 111%，超 40 万众包骑手日入超 500 元](https://m.ithome.com/html/867735.htm)
+
++ [苹果 iOS 版微信“后悔药”上线：8.0.61 版本新增支持聊天记录误删撤销功能](https://m.ithome.com/html/867754.htm)
+
++ [DCU 开山作《超人》上映 2 天总票房破 2000 万，豆瓣开分 6.9](https://m.ithome.com/html/867665.htm)
+

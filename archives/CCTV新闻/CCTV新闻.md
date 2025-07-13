@@ -189,3 +189,17 @@
 
 + [美国得州洪灾造成至少129人死亡 仍有166人失踪](https://photo.cctv.com/2025/07/13/PHOAiL4cn04d2WwIsufNjbGO250713.shtml)
 
++ [聊天机器人惹祸，马斯克旗下公司致歉](https://news.cctv.com/2025/07/13/ARTIzaGcDQ4ircqgvEcuZIk6250713.shtml)
+
++ [分歧仍存 以色列为加沙停火谈判破裂和军事升级做准备](https://news.cctv.com/2025/07/13/ARTIduTdZzDVK9dPHyUr7Mog250713.shtml)
+
++ [国际足联主席因凡蒂诺：新版世俱杯开启俱乐部足球的“黄金时代”](https://news.cctv.com/2025/07/13/ARTI6vQ42gaQGFhFaxYTbhJS250713.shtml)
+
++ [美国计划建造新的“鳄鱼恶魔岛”](https://news.cctv.com/2025/07/13/ARTIbBG5GpY4qUziN0FYalwl250713.shtml)
+
++ [一艘移民船在多米尼加海域沉没 至少6人死亡](https://news.cctv.com/2025/07/13/ARTI8ag7HIcgiAe7rmj2Dh07250713.shtml)
+
++ [德官员：7月底将向乌交付数百枚德购买的远程导弹](https://news.cctv.com/2025/07/13/ARTIStEXzNAx6EiLKKW1RKL9250713.shtml)
+
++ [新研究预计到本世纪末莱茵河年平均水温将显著升高](https://news.cctv.com/2025/07/13/ARTInqB3PAyYprJPyFZXqRLr250713.shtml)
+
