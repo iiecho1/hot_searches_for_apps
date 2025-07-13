@@ -101,3 +101,15 @@
 
 + [Redis 实现分布式锁](https://blog.csdn.net/qq_41331466/article/details/149300137)
 
++ [【论文复现】在线健康社区重大慢病患者负面评论倾向的关键影响因素分析](https://blog.csdn.net/m0_64336780/article/details/147983163)
+
++ [百度AI的开放新篇章：文心4.5本地化部署指南与未来生态战略展望](https://blog.csdn.net/IRpickstars/article/details/149303704)
+
++ [FPGA通信设计十问](https://blog.csdn.net/m0_67400176/article/details/149274472)
+
++ [Vue 项目打包部署还存在问题？你知道怎么做吧？](https://blog.csdn.net/weixin_56861179/article/details/149301255)
+
++ [让 VSCode 调试器像 PyCharm 一样显示 Tensor Shape、变量形状、变量长度、维度信息](https://blog.csdn.net/weixin_51524504/article/details/149293252)
+
++ [特辑：Ubuntu，前世今生](https://blog.csdn.net/qq_59667626/article/details/149302250)
+
