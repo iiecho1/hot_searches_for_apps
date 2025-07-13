@@ -239,3 +239,7 @@
 
 + [50卡车物资、3000个血袋 约旦与联合国共援加沙](https://news.cctv.com/2025/07/13/ARTIVcenh8tFG0fMtIMTuGgQ250713.shtml)
 
++ [尼日利亚一客机降落时冲出跑道 无人员伤亡](https://news.cctv.com/2025/07/13/ARTIEgTAI4bUv5FiqJinvA2V250713.shtml)
+
++ [朝鲜谴责美日韩军演威胁地区和平](https://news.cctv.com/2025/07/13/ARTIsP3gAvhSZPPsJlE5C3gv250713.shtml)
+
