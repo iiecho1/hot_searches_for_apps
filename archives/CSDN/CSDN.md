@@ -233,3 +233,15 @@
 
 + [在 Spring Boot 中使用 MyBatis 的 XML 文件编写 SQL 语句详解](https://blog.csdn.net/2503_92145588/article/details/149307800)
 
++ [贝叶斯状态空间神经网络：融合概率推理和状态空间实现高精度预测和可解释性](https://blog.csdn.net/m0_46510245/article/details/149307192)
+
++ [Spring Ai Alibaba Gateway 实现存量应用转 MCP 工具](https://blog.csdn.net/mynameisgt/article/details/149300717)
+
++ [探索飞算 JavaAI 进阶：解锁高效Java开发的新维度](https://blog.csdn.net/Dovis5884/article/details/149279988)
+
++ [飞算JavaAI：革新Java开发的智能助手](https://blog.csdn.net/m0_63267251/article/details/149280950)
+
++ [小程序领域的变革者：微信小程序的创新应用](https://blog.csdn.net/2501_91888447/article/details/149303909)
+
++ [Flutter、React Native、Uni-App 的比较与分析](https://blog.csdn.net/u014752325/article/details/149295317)
+

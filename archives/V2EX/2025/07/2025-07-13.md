@@ -41,3 +41,7 @@
 
 + [unraid 老是因为失联，想切换到 pve 做底层，虚拟机用什么比较好呢?](https://www.v2ex.com/t/1144856)
 
++ [各位， vscode 有没有类似 idea 里面的 git 插件？](https://www.v2ex.com/t/1144882)
+
++ [兄弟们吃饭的时候都看点啥？](https://www.v2ex.com/t/1144917)
+

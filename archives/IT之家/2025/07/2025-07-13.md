@@ -63,3 +63,21 @@
 
 + [DCU 开山作《超人》上映 2 天总票房破 2000 万，豆瓣开分 6.9](https://m.ithome.com/html/867665.htm)
 
++ [消息称罗马仕 5 名核心老板已“潜逃”马来西亚](https://m.ithome.com/html/867783.htm)
+
++ [一汽奥迪李凤刚：汽车不是快消品，车规级芯片安全性远高于消费级芯片](https://m.ithome.com/html/867775.htm)
+
++ [中国联通 eSIM 手机商用试验阶段开通页面上线，首次办理该业务的用户需通过线下渠道办理](https://m.ithome.com/html/867758.htm)
+
++ [（更新：平台对此事进行回应）微博 CEO 王高飞回应一批博主被禁言：攻击新能源厂商和企业家](https://m.ithome.com/html/867780.htm)
+
++ [小米 14 手机 16G+1T 版 4999 → 2677 元再降价，配备骁龙 8 Gen3 处理器](https://m.ithome.com/html/867816.htm)
+
++ [阿维塔总裁陈卓谈小米雷军跨界造车：对汽车营销形成降维打击，CMO 可能将失业](https://m.ithome.com/html/867811.htm)
+
++ [美团即时零售订单量创新高，“神抢手”实时订单量近 4000 万单](https://m.ithome.com/html/867720.htm)
+
++ [第三方电商平台为苹果 MacBook 推出“以租代买”计划，每月付 33.28 美元每两年可更换最新款产品](https://m.ithome.com/html/867740.htm)
+
++ [《英雄联盟》MSI 2025 决赛：GEN 3:2 战胜 T1 卫冕冠军](https://m.ithome.com/html/867777.htm)
+
