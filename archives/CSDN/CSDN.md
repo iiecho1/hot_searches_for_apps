@@ -259,3 +259,21 @@
 
 + [华为OD 处理器](https://blog.csdn.net/bdn_nbd/article/details/149318233)
 
++ [Vue - 解决运行时报错 Failed to compile with 1 errors（vue启动报错，可能没有错误信息也可能有错误信息，执行npm启动命令后打不开且报错，详细排查方案及解决教程）](https://blog.csdn.net/weixin_44198965/article/details/149327385)
+
++ [计算机视觉 之 经典模型汇总](https://blog.csdn.net/weixin_74850661/article/details/149289431)
+
++ [深入了解linux系统—— 进程信号的保存](https://blog.csdn.net/LH__1314/article/details/149317720)
+
++ [完整 Spring Boot + Vue 登录系统](https://blog.csdn.net/qq_45572615/article/details/149317267)
+
++ [为什么玩游戏用UDP，看网页用TCP？](https://blog.csdn.net/dandandeshangni/article/details/149310907)
+
++ [Redis技术笔记-从三大缓存问题到高可用集群落地实战](https://blog.csdn.net/m0_65816971/article/details/149194069)
+
++ [Vue 3.6 Alpha 深度解析：Vapor Mode 如何颠覆虚拟 DOM 时代](https://blog.csdn.net/weixin_43073383/article/details/149323346)
+
++ [AWS Lambda Container 方式部署 Flask 应用并通过 API Gateway 提供访问](https://blog.csdn.net/lpwmm/article/details/149313858)
+
++ [Linux的NetworkManager的nmcli配置网桥(bridge) 笔记250712](https://blog.csdn.net/kfepiza/article/details/149301263)
+
