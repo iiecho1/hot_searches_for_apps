@@ -165,3 +165,5 @@
 
 + [特朗普威胁将对俄罗斯征收100%关税](https://news.cctv.com/2025/07/15/ARTILsalAB8hHF1AhQxZ7qrP250714.shtml)
 
++ [越南将禁止在首都市中心驾驶燃油摩托车 应对空气污染](https://news.cctv.com/2025/07/15/ARTIZuvm11GjrktZrbb8Orib250714.shtml)
+
