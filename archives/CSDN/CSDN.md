@@ -213,3 +213,11 @@
 
 + [基于redis的分布式session共享管理之销毁事件不生效问题](https://blog.csdn.net/AikesLs/article/details/149273889)
 
++ [深度体验飞算JavaAI：一场Java开发效率的革命](https://blog.csdn.net/2401_86326742/article/details/149275336)
+
++ [【从零开始学Dify】 Dify + 视觉模型构建文生视频工作流](https://blog.csdn.net/qq_38951259/article/details/149245800)
+
++ [【springcloud】快速搭建一套分布式服务springcloudalibaba（四）](https://blog.csdn.net/lwb_0118/article/details/149300608)
+
++ [Docker(02) Docker-Compose、Dockerfile镜像构建、Portainer](https://blog.csdn.net/m0_56799642/article/details/149312757)
+

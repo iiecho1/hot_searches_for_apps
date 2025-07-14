@@ -187,3 +187,7 @@
 
 + [百米深峡、万年岩画 巴西这一秘境被列为世界自然遗产](https://news.cctv.com/2025/07/14/ARTIxMZU16CvFpLyCXL4lK35250714.shtml)
 
++ [美媒说特朗普将宣布“武装乌克兰”新计划](https://news.cctv.com/2025/07/14/ARTIi9uPsKmqhjy4T65GZTev250714.shtml)
+
++ [第二次以总统身份受邀 特朗普拟9月17日至19日访英](https://news.cctv.com/2025/07/14/ARTIRjgF2ZUQ62rKvmuGN3jr250714.shtml)
+
