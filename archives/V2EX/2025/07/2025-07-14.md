@@ -35,3 +35,7 @@
 
 + [有人试过用 mac 打 PC 游戏吗](https://www.v2ex.com/t/1145007)
 
++ [Manus 彻底撤出中国，社交账号清空同时官网拒绝中国 IP 访问](https://www.v2ex.com/t/1145013)
+
++ [给女同学清理电脑， 6 个管家开机神仙打架， windows 安全中心躲在角落瑟瑟发抖。](https://www.v2ex.com/t/1145023)
+
