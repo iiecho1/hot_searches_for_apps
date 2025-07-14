@@ -101,3 +101,19 @@
 
 + [【搜索引擎】俄罗斯搜索引擎yandex](https://blog.csdn.net/likuoelie/article/details/149305336)
 
++ [锋哥写一套【NLP舆情分析】基于python微博舆情分析可视化系统(flask+pandas+echarts) 视频教程，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/149323945)
+
++ [pytorch深度学习—RNN-循环神经网络](https://blog.csdn.net/m0_63613326/article/details/149299435)
+
++ [基于Leaflet调用天地图在线API的多层级地名检索实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/149300278)
+
++ [使用微信免费的图像处理接口，来开发图片智能裁剪和二维码/条码识别功能，爽歪歪](https://blog.csdn.net/LiuAustin/article/details/149305477)
+
++ [Vue 3.6 Alpha 深度解析：Vapor Mode 如何颠覆虚拟 DOM 时代](https://blog.csdn.net/weixin_43073383/article/details/149323346)
+
++ [【Unity笔记】Unity 音游模板与免费资源：高效构建节奏游戏开发全指南](https://blog.csdn.net/qq_41140324/article/details/149338182)
+
++ [AWS Lambda Container 方式部署 Flask 应用并通过 API Gateway 提供访问](https://blog.csdn.net/lpwmm/article/details/149313858)
+
++ [华为OD 处理器](https://blog.csdn.net/bdn_nbd/article/details/149318233)
+

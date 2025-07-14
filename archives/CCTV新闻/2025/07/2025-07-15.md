@@ -161,3 +161,5 @@
 
 + [欧盟称美征收30%关税损害双方利益 将继续努力达成协议](https://news.cctv.com/2025/07/12/ARTIeDfr33xqLyQRLg2NAEXs250712.shtml)
 
++ [印度民航总局下令检查部分波音飞机燃油开关锁定装置](https://news.cctv.com/2025/07/15/ARTIsFHK0z89X7C8jhNc2ytN250714.shtml)
+

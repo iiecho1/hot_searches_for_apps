@@ -25,3 +25,19 @@
 
 + [小米 REDMI 首部短剧《时空合伙人》定档 7 月 17 日，王腾、胡馨心出演](https://m.ithome.com/html/867921.htm)
 
++ [黄仁勋和雷军在小米 SU7 Ultra 旁合影曝光](https://m.ithome.com/html/867993.htm)
+
++ [英伟达 CEO 黄仁勋今年第三次来华，与小米创始人雷军亲密合影曝光](https://m.ithome.com/html/867968.htm)
+
++ [外卖大战已进阶到“负 4 元购”](https://m.ithome.com/html/868071.htm)
+
++ [电诈再强也怕断网：杭州一老奶奶遇手机“失控”立即关机、拔卡，保住 140 万存款](https://m.ithome.com/html/867972.htm)
+
++ [理想汽车汤靖回应 L7 车型用“HW 电机”：非技术问题，综合价格、质量等维度考虑](https://m.ithome.com/html/867915.htm)
+
++ [首个世界冠军，中国 VKG 战队勇夺 2025 电竞世界杯《Apex 英雄》总冠军](https://m.ithome.com/html/867881.htm)
+
++ [真全面屏新突破，国产屏下 3D 人脸识别被曝实验室进版测试](https://m.ithome.com/html/868042.htm)
+
++ [安卓迭代旗舰新机草图曝光：大圆、方形、大矩阵全都有](https://m.ithome.com/html/867946.htm)
+
