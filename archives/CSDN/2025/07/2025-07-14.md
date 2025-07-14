@@ -223,3 +223,19 @@
 
 + [深入了解linux系统—— 进程信号的产生](https://blog.csdn.net/LH__1314/article/details/149317966)
 
++ [Java 大视界 -- Java 大数据在智能医疗远程手术机器人操作数据记录与分析中的应用（342）](https://blog.csdn.net/atgfg/article/details/149282512)
+
++ [[源力觉醒 创作者计划]_文心大模型4.5开源部署指南：从技术架构到实战落地](https://blog.csdn.net/2302_78391795/article/details/149301251)
+
++ [AI大模型驱动的软件开发革命：从代码生成到自愈系统的全流程重构](https://blog.csdn.net/Dreamy_zsy/article/details/149326205)
+
++ [【C++开源库使用】调用开源库STB中的stbi_load_from_memory加载图片文件，进行灰化处理，然后调用stbi_write_png或stbi_write_jpg将灰化图片保存到文件中](https://blog.csdn.net/chenlycly/article/details/149323571)
+
++ [TensorFlow深度学习实战（25）——变分自编码器详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/144437976)
+
++ [用Python和OpenCV从零搭建一个完整的双目视觉系统（六 最终篇）](https://blog.csdn.net/qq_36497369/article/details/149273756)
+
++ [（8）(8.4) Cheerson CX-OF 光流](https://blog.csdn.net/qq_20016593/article/details/148842674)
+
++ [集成语音感知与云平台的多任务智能楼宇控制系统](https://blog.csdn.net/weixin_46281529/article/details/149289084)
+

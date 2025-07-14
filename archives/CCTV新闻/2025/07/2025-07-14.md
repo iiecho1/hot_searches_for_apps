@@ -195,3 +195,5 @@
 
 + [印度安得拉邦发生卡车翻车事故 致9死10伤](https://news.cctv.com/2025/07/14/ARTI8hFvGQLgBZCn6iRxTcUS250714.shtml)
 
++ [印尼卡伊群岛发生6.6级地震，震源深度70千米](https://news.cctv.com/2025/07/14/ARTIH9ZiKMszb5YTjLJFXATs250714.shtml)
+
