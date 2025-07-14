@@ -167,3 +167,11 @@
 
 + [越南将禁止在首都市中心驾驶燃油摩托车 应对空气污染](https://news.cctv.com/2025/07/15/ARTIZuvm11GjrktZrbb8Orib250714.shtml)
 
++ [以色列空袭叙利亚南部 叙方要求不得“干涉内政”](https://news.cctv.com/2025/07/15/ARTIK0OMqG9lav1M7s5HRSAm250715.shtml)
+
++ [泽连斯基分别与特朗普和吕特通话 讨论对乌军援](https://news.cctv.com/2025/07/15/ARTItQXPXtvnhcWXiE6rvkqF250715.shtml)
+
++ [美国最高法院允许特朗普政府在教育部实施大规模裁员](https://news.cctv.com/2025/07/15/ARTIEqEZ0KqSNXRXtQDf73zV250715.shtml)
+
++ [美国将对墨西哥番茄征收超17%的关税](https://news.cctv.com/2025/07/15/ARTIhbLtur8mOrCIWTgIAys2250715.shtml)
+
