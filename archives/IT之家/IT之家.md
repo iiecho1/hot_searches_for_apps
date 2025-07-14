@@ -41,3 +41,5 @@
 
 + [安卓迭代旗舰新机草图曝光：大圆、方形、大矩阵全都有](https://m.ithome.com/html/867946.htm)
 
++ [英伟达驱动为 RTX 40 系列显卡带来 Smooth Motion 技术，《魔兽世界》帧率翻倍](https://m.ithome.com/html/867876.htm)
+

@@ -117,3 +117,23 @@
 
 + [华为OD 处理器](https://blog.csdn.net/bdn_nbd/article/details/149318233)
 
++ [Spring Boot 安全登录系统：前后端分离实现](https://blog.csdn.net/qq_45572615/article/details/149317231)
+
++ [多模态数据处理新趋势：阿里云ODPS技术栈深度解析与未来展望](https://blog.csdn.net/IRpickstars/article/details/149323076)
+
++ [【Arduino 动手做】认识 TN24，您迷人且可定制的桌面伴侣机器人](https://blog.csdn.net/weixin_41659040/article/details/149288045)
+
++ [深入了解linux系统—— 进程信号的产生](https://blog.csdn.net/LH__1314/article/details/149317966)
+
++ [如何将FPGA设计的验证效率提升1000倍以上(4)](https://blog.csdn.net/mecache2009/article/details/149307423)
+
++ [Spring AOP 是如何生效的（入口源码级解析）?](https://blog.csdn.net/weixin_37848710/article/details/149298795)
+
++ [【Spring AOP】什么是AOP？切点、连接点、通知和切面](https://blog.csdn.net/Yeeear/article/details/148935118)
+
++ [Android音视频探索之旅 | C++层使用OpenGL ES实现视频渲染](https://blog.csdn.net/itTalmud/article/details/149296253)
+
++ [Redis缓存设计与性能优化指南](https://blog.csdn.net/weixin_74024217/article/details/149318722)
+
++ [论安全架构设计（威胁与措施）](https://blog.csdn.net/qq_23412557/article/details/149340371)
+

@@ -163,3 +163,5 @@
 
 + [印度民航总局下令检查部分波音飞机燃油开关锁定装置](https://news.cctv.com/2025/07/15/ARTIsFHK0z89X7C8jhNc2ytN250714.shtml)
 
++ [特朗普威胁将对俄罗斯征收100%关税](https://news.cctv.com/2025/07/15/ARTILsalAB8hHF1AhQxZ7qrP250714.shtml)
+
