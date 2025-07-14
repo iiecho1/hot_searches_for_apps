@@ -277,3 +277,5 @@
 
 + [Linux的NetworkManager的nmcli配置网桥(bridge) 笔记250712](https://blog.csdn.net/kfepiza/article/details/149301263)
 
++ [使用微信免费的图像处理接口，来开发图片智能裁剪和二维码/条码识别功能，爽歪歪](https://blog.csdn.net/LiuAustin/article/details/149305477)
+
