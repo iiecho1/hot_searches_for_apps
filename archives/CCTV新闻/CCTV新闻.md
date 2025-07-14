@@ -167,3 +167,5 @@
 
 + [英国一小型飞机坠毁 目击者称看到“巨大火球”](https://news.cctv.com/2025/07/14/ARTI5vNXbexaRDoQkLBHmGOG250714.shtml)
 
++ [美国肯塔基州枪击事件造成2死3伤 凶手被当场击毙](https://news.cctv.com/2025/07/14/ARTIo07B8yEattUtIlX4SE4l250714.shtml)
+

@@ -183,3 +183,15 @@
 
 + [Android音视频探索之旅 | C++层使用OpenGL ES实现视频渲染](https://blog.csdn.net/itTalmud/article/details/149296253)
 
++ [第三章-提示词-解锁Prompt提示词工程核销逻辑，开启高效AI交互（10/36）](https://blog.csdn.net/beautifulmemory/article/details/149313338)
+
++ [【Linux系列】unzip file 命令](https://blog.csdn.net/qyj19920704/article/details/149273039)
+
++ [【离线数仓项目】——数据模型开发实战](https://blog.csdn.net/weixin_41605937/article/details/149302498)
+
++ [基于Java Web的二手房交易系统开发与实现](https://blog.csdn.net/m0_58847451/article/details/149299975)
+
++ [Spring Boot 安全登录系统：前后端分离实现](https://blog.csdn.net/qq_45572615/article/details/149317231)
+
++ [[论文阅读] 软件工程 | 首个德语软件工程情感分析黄金标准数据集：构建与价值解析](https://blog.csdn.net/zhangjiaoshou_/article/details/149297578)
+
