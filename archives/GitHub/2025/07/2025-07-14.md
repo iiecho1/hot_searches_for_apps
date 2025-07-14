@@ -25,3 +25,19 @@
 
 + [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice)
 
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+
++ [leaningtech/webvm](https://github.com/leaningtech/webvm)
+
++ [OpenPipe/ART](https://github.com/OpenPipe/ART)
+
++ [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle)
+
++ [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+
++ [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
+
++ [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+

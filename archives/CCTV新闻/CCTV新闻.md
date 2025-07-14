@@ -211,3 +211,17 @@
 
 + [缅甸发生4.6级地震，震源深度10千米](https://news.cctv.com/2025/07/14/ARTI8GhDG2OMW96RVDp2zjv3250714.shtml)
 
++ [泰国成立专案组调查前总理佩通坦争议通话事件](https://news.cctv.com/2025/07/14/ARTIgIiIj9UQQMMBGx26vJ5x250714.shtml)
+
++ [欧盟与亚美尼亚重申推进伙伴关系](https://news.cctv.com/2025/07/14/ARTIMazdMbKONoFWi6929JnH250714.shtml)
+
++ [俄总统新闻秘书：美从未中断向乌供武](https://news.cctv.com/2025/07/14/ARTIi7UPTftsfTpk1fNDfeDk250714.shtml)
+
++ [日本防卫省向小学寄送儿童版《防卫白皮书》引担忧](https://news.cctv.com/2025/07/14/ARTIQwubP1zKkn7fJUflWulW250714.shtml)
+
++ [泰国成立专案组调查前总理佩通坦争议通话事件](https://news.cctv.com/2025/07/14/ARTIawfmeYZlKkzjWtcP7Vui250714.shtml)
+
++ [美国得州洪灾仍有超170人下落不明 暴雨再袭致搜救暂停](https://news.cctv.com/2025/07/14/ARTIDAnQlQXBdkgipJPzCd0L250714.shtml)
+
++ [中国服务机器人何以在全球脱颖而出（国际论道）](https://news.cctv.com/2025/07/14/ARTIdbuIB1UrX2N0CZ6FQ8XZ250714.shtml)
+

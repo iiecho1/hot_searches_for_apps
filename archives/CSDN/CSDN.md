@@ -249,3 +249,13 @@
 
 + [文心大模型4.5开源测评：轻量化部署实践与多维度能力验证](https://blog.csdn.net/2301_80863610/article/details/149305396)
 
++ [【飞算JavaAI】一站式智能开发，驱动Java开发全流程革新](https://blog.csdn.net/Morse_Chen/article/details/149288521)
+
++ [通过同态加密实现可编程隐私和链上合规](https://blog.csdn.net/mutourend/article/details/149293491)
+
++ [零售商库存管理工具推荐：2025年提升商品追踪与供应链透明度的五款平台](https://blog.csdn.net/xuanxuan1010/article/details/149329915)
+
++ [【Linux操作系统】简学深悟启示录：Linux权限](https://blog.csdn.net/Zero_VPN/article/details/149235403)
+
++ [华为OD 处理器](https://blog.csdn.net/bdn_nbd/article/details/149318233)
+
