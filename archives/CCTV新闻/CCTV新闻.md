@@ -197,3 +197,11 @@
 
 + [印尼卡伊群岛发生6.6级地震，震源深度70千米](https://news.cctv.com/2025/07/14/ARTIH9ZiKMszb5YTjLJFXATs250714.shtml)
 
++ [新华时评丨以文明对话共绘人类文明新图景](https://news.cctv.com/2025/07/14/ARTIgENQIujDh0St6Scw5UeZ250714.shtml)
+
++ [共话中国经济新机遇｜专访：中国产业链供应链增强跨国企业在华深耕信心——访施耐德电气全球执行副总裁尹正](https://news.cctv.com/2025/07/14/ARTIQK4YNNoLCHHW8CIDyw6l250714.shtml)
+
++ [“涉事飞机无机械问题” 印航空难首份调查报告更多细节披露](https://news.cctv.com/2025/07/14/ARTIAGsZuUDI1jyQ9u6tDyHb250714.shtml)
+
++ [中国驻新加坡使馆提醒中国公民防范冒充使领馆官员骗局](https://news.cctv.com/2025/07/14/ARTIG4acmkujweCrbswORJID250714.shtml)
+

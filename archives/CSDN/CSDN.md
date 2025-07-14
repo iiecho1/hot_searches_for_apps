@@ -239,3 +239,7 @@
 
 + [集成语音感知与云平台的多任务智能楼宇控制系统](https://blog.csdn.net/weixin_46281529/article/details/149289084)
 
++ [六大技术突破：从边缘计算到多云管理的产业重构全景图](https://blog.csdn.net/Start_mswin/article/details/149276199)
+
++ [OpenWrt路由器实现中南大学校园网双网叠加和自动认证](https://blog.csdn.net/weixin_51933594/article/details/149283516)
+
