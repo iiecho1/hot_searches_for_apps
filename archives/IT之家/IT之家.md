@@ -43,3 +43,9 @@
 
 + [DCU 开山作《超人》上映 2 天总票房破 2000 万，豆瓣开分 6.9](https://m.ithome.com/html/867665.htm)
 
++ [4499 → 888 元限今日：三星 AI 泡泡净洗衣机 10 kg 国补 + 官补破冰新低](https://m.ithome.com/html/867830.htm)
+
++ [大众 CEO 奥博穆谈比亚迪竞争：有这样一个对手是好事，可以迫使自己做得更好](https://m.ithome.com/html/867851.htm)
+
++ [连续九年登顶，华为云再获中国虚拟桌面软件市场第一](https://m.ithome.com/html/867751.htm)
+
