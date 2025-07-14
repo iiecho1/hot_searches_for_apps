@@ -243,3 +243,9 @@
 
 + [OpenWrt路由器实现中南大学校园网双网叠加和自动认证](https://blog.csdn.net/weixin_51933594/article/details/149283516)
 
++ [阿里云ODPS多模态数据处理实战：MaxFrame的分布式AI数据管道构建](https://blog.csdn.net/IRpickstars/article/details/149319079)
+
++ [汽车嵌入式开发：如何构建「不可替代」的核心竞争力？](https://blog.csdn.net/weixin_62244995/article/details/149276088)
+
++ [文心大模型4.5开源测评：轻量化部署实践与多维度能力验证](https://blog.csdn.net/2301_80863610/article/details/149305396)
+

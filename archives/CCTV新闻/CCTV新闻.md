@@ -205,3 +205,9 @@
 
 + [中国驻新加坡使馆提醒中国公民防范冒充使领馆官员骗局](https://news.cctv.com/2025/07/14/ARTIG4acmkujweCrbswORJID250714.shtml)
 
++ [泽连斯基提交草案 再延长乌战时状态和总动员令90天](https://news.cctv.com/2025/07/14/ARTI3JYyRRVkiiWACL7UAPTJ250714.shtml)
+
++ [特朗普再提“一周”时间表 加沙停火协议内容曝光](https://news.cctv.com/2025/07/14/ARTIJcgIiOJgWNu0MAPrTGF9250714.shtml)
+
++ [缅甸发生4.6级地震，震源深度10千米](https://news.cctv.com/2025/07/14/ARTI8GhDG2OMW96RVDp2zjv3250714.shtml)
+
