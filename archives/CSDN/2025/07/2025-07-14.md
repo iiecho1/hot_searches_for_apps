@@ -195,3 +195,21 @@
 
 + [[论文阅读] 软件工程 | 首个德语软件工程情感分析黄金标准数据集：构建与价值解析](https://blog.csdn.net/zhangjiaoshou_/article/details/149297578)
 
++ [「源力觉醒 创作者计划」_百度开源文心 4.5 系列开源大模型：ERNIE-4.5-VL-28B-A3B-Paddle vs DeepSeek-R1 多维度测评分析](https://blog.csdn.net/weixin_62765017/article/details/149119561)
+
++ [LabVIEW-Origin 船模数据处理系统](https://blog.csdn.net/bjcyck/article/details/149322612)
+
++ [【Linux | 网络】应用层（HTTP）](https://blog.csdn.net/qq_55401402/article/details/147011390)
+
++ [Kafka Schema Registry：数据契约管理的利器](https://blog.csdn.net/neweastsun/article/details/149300948)
+
++ [Kafka——应该选择哪种Kafka？](https://blog.csdn.net/qq_41478243/article/details/149283569)
+
++ [大模型之Spring AI实战系列（三十三）：Spring Boot + Ollama 实现本地部署AI聊天应用（10分钟搞定）](https://blog.csdn.net/xiaobing259/article/details/149311920)
+
++ [基于kafka的分布式日志收集与实时监控平台（原理，框架）](https://blog.csdn.net/m0_74234518/article/details/149252615)
+
++ [QT控件 使用QtServer系统服务实现搭建Aria2下载后台服务，并使用Http请求访问Json-RPC接口调用下载退出](https://blog.csdn.net/qq_35554617/article/details/149277003)
+
++ [基于redis的分布式session共享管理之销毁事件不生效问题](https://blog.csdn.net/AikesLs/article/details/149273889)
+

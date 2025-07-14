@@ -169,3 +169,21 @@
 
 + [美国肯塔基州枪击事件造成2死3伤 凶手被当场击毙](https://news.cctv.com/2025/07/14/ARTIo07B8yEattUtIlX4SE4l250714.shtml)
 
++ [美报告：特勤局在特朗普遇刺事件中存在“不可接受的失误”](https://news.cctv.com/2025/07/14/ARTIO8p3tWvrHYWCM4s1GXZh250714.shtml)
+
++ [不到一个月地震超2000次 日本气象台呼吁民众注意→](https://news.cctv.com/2025/07/14/ARTIskTWYkODv1v5yBkwFvPT250714.shtml)
+
++ [苏丹西部两地遭空袭 共造成15人死亡23人受伤](https://news.cctv.com/2025/07/14/ARTIjKPvDINPBewyd3dTMtum250714.shtml)
+
++ [关税救财政？美国的伪命题！](https://news.cctv.com/2025/07/14/ARTI5sKDYVr8NLmiQAbxuMLs250714.shtml)
+
++ [“为拉中经贸合作注入更多强劲动力”——访秘鲁国会议员、外贸和旅游部前部长桑切斯](https://news.cctv.com/2025/07/14/ARTItZzKNGRESw3vdxB4g5MA250714.shtml)
+
++ [尹锡悦被捕后 韩国内乱特检组对多部门进行扣押搜查](https://news.cctv.com/2025/07/14/ARTITDEYeLPeqbCMgfQLmRiP250714.shtml)
+
++ [专访丨“全球文明倡议对世界和平发展意义重大”——访柬埔寨资深媒体人兴索万](https://news.cctv.com/2025/07/14/ARTIg6iIgOxn68UcERsKQgrg250714.shtml)
+
++ [国际纵横谈｜搭建文明互鉴之桥 凝聚发展进步合力](https://news.cctv.com/2025/07/14/ARTI04Qa4oB41jl6kEG4dug8250714.shtml)
+
++ [百米深峡、万年岩画 巴西这一秘境被列为世界自然遗产](https://news.cctv.com/2025/07/14/ARTIxMZU16CvFpLyCXL4lK35250714.shtml)
+
