@@ -203,3 +203,7 @@
 
 + [【机器人】REGNav 具身导航 | 跨房间引导 | 图像目标导航 AAAI 2025](https://blog.csdn.net/qq_41204464/article/details/149357431)
 
++ [Spring IOC、AOP 注入方式详解：@Autowired 和 @Resource 的区别与应用](https://blog.csdn.net/2301_80795057/article/details/149352244)
+
++ [【python】基于pygame实现动态粒子爱心](https://blog.csdn.net/qq_62223405/article/details/149324923)
+
