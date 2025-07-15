@@ -71,3 +71,9 @@
 
 + [我不是天才吗？为什么都说我脚臭？](https://m.acfun.cn/v/?ac=47490831)
 
++ [【弱音/MMD】守音人，Teddy Bear](https://m.acfun.cn/v/?ac=47490065)
+
++ [【AC夏日收集计划】苏超宣传片：南通对盐城](https://m.acfun.cn/v/?ac=47491254)
+
++ [【东方/爵士】東方夢幻録 Vol.4 专辑赏析【SOS -Sound of Swing-】](https://m.acfun.cn/v/?ac=47488510)
+
