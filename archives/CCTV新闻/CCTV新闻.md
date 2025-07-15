@@ -185,3 +185,9 @@
 
 + [关税政策反复无常 美建筑行业成本飙升](https://news.cctv.com/2025/07/15/ARTIXJHf6AjKrKOBBQKn3YLo250715.shtml)
 
++ [巴西成立跨部门委员会酝酿对美关税反制措施](https://news.cctv.com/2025/07/15/ARTI9frSzjKmadDhVXcibQbu250715.shtml)
+
++ [联合国报告：仅35%的可持续发展目标细项进展顺利](https://news.cctv.com/2025/07/15/ARTI1ylUs63lYZEviLFXe7Gw250715.shtml)
+
++ [墨西哥多部委联合发声：美对墨番茄征收关税将伤害美国消费者](https://news.cctv.com/2025/07/15/ARTI5zSFx6YXe8MrfzWP5Ylb250715.shtml)
+
