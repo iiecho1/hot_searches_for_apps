@@ -199,3 +199,9 @@
 
 + [特朗普发布“最后通牒” 梅德韦杰夫：俄罗斯不在乎](https://news.cctv.com/2025/07/15/ARTIvt6YnV66dsBViQnLM9S5250715.shtml)
 
++ [美国卫生与公共服务部解雇数千名员工](https://news.cctv.com/2025/07/15/ARTIHji4tESJk7jFWViPOBJD250715.shtml)
+
++ [美要求北约为援乌买单 德国“认购”两套“爱国者”](https://news.cctv.com/2025/07/15/ARTIOefZsFh2tpWHEJ1LMjJa250715.shtml)
+
++ [洛杉矶奥运会首版赛程公布 首金或将出自铁人三项](https://news.cctv.com/2025/07/15/ARTIKMI3BxcbeyGRrXqq0oZ4250715.shtml)
+
