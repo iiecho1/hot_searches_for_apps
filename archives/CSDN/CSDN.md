@@ -111,3 +111,29 @@
 
 + [Redis作缓存时存在的问题及其解决方案](https://blog.csdn.net/jonas80029735/article/details/149341024)
 
++ [同态加密赋能大模型医疗文本分析：可验证延迟压缩的融合之道](https://blog.csdn.net/Liudef06/article/details/149357039)
+
++ [Java 大视界 -- Java 大数据在智能教育学习资源智能分类与标签优化中的应用（346）](https://blog.csdn.net/atgfg/article/details/149317782)
+
++ [docker搭建freeswitch实现点对点视频，多人视频](https://blog.csdn.net/Mrxiao_bo/article/details/149368689)
+
++ [第三章-提示词-解锁Prompt提示词工程核销逻辑，开启高效AI交互（10/36）](https://blog.csdn.net/beautifulmemory/article/details/149313338)
+
++ [【Arduino 动手做】如何使用蓝牙通过 Arduino 微控制器控制无人机](https://blog.csdn.net/weixin_41659040/article/details/149361383)
+
++ [【强化学习】深入理解：PPO（Proximal Policy Optimization） 和 TRPO（Trust Region Policy Optimization） 的本质区别](https://blog.csdn.net/qq_51399582/article/details/149335431)
+
++ [DiffDet4SAR——首次将扩散模型用于SAR图像目标检测，来自2024 GRSL（ESI高被引1%论文）](https://blog.csdn.net/LWK999999/article/details/149335119)
+
++ [飞算 JavaAI 进阶实战：从代码生成到系统架构优化的全流程指南](https://blog.csdn.net/SDFsoul/article/details/149303018)
+
++ [AI Linux 运维笔记](https://blog.csdn.net/m0_61662775/article/details/149265339)
+
++ [AI原生应用开发进阶：混合推理架构设计与实现](https://blog.csdn.net/universsky2015/article/details/149367034)
+
++ [[论文阅读] 人工智能 + 软件工程 | 用大语言模型+排名机制，让代码评论自动更新更靠谱](https://blog.csdn.net/zhangjiaoshou_/article/details/149341595)
+
++ [UART寄存器介绍](https://blog.csdn.net/weixin_58038206/article/details/149333808)
+
++ [深度强化学习 | 图文详细推导深度确定性策略梯度DDPG算法](https://blog.csdn.net/FRIGIDWINTER/article/details/149318448)
+

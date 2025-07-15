@@ -49,3 +49,15 @@
 
 + [补齐最后拼图：鸿蒙智行智界 X 车标焕新亮相，官方称“代表不被定义”](https://m.ithome.com/html/868176.htm)
 
++ [“网络身份证”今起正式启用](https://m.ithome.com/html/868388.htm)
+
++ [荣耀 X70 手机发布：行业首个金标三防认证 + 8300mAh 电池，1399 元起](https://m.ithome.com/html/868370.htm)
+
++ [消息称腾讯、字节跳动申请采购英伟达 H20 芯片](https://m.ithome.com/html/868351.htm)
+
++ [郭明錤称苹果 2026 下半年量产其首款折叠 iPhone：放弃自研，使用三星显示无折痕方案](https://m.ithome.com/html/868228.htm)
+
++ [消息称苹果最薄 iPhone 17 Air 在其系列中独占天空蓝颜色](https://m.ithome.com/html/868165.htm)
+
++ [李想：泄密打乱了理想 i8 发布节奏，低估了潜在用户“求知欲望”](https://m.ithome.com/html/868247.htm)
+
