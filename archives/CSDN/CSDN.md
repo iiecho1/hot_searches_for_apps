@@ -163,3 +163,15 @@
 
 + [封装---优化try..catch错误处理方式](https://blog.csdn.net/2301_80211889/article/details/149318144)
 
++ [Python----OpenCV（图像分割——彩色图像分割，GrabCut算法分割图像）](https://blog.csdn.net/weixin_64110589/article/details/149233327)
+
++ [「深度实战」ERNIE-4.5模型系列全解析：从架构创新到多场景性能测评](https://blog.csdn.net/qq_33681891/article/details/149338023)
+
++ [【NLP舆情分析】基于python微博舆情分析可视化系统(flask+pandas+echarts) 视频教程 - 架构搭建](https://blog.csdn.net/caoli201314/article/details/149325390)
+
++ [AI小白也能快速用五分钟复现的ERNIE-4.5系列模型单卡部署与心理健康机器人实战案例](https://blog.csdn.net/qq_61654952/article/details/149344709)
+
++ [.NET + WPF框架开发聊天、网盘、信息发布、视频播放功能](https://blog.csdn.net/weixin_44064908/article/details/149304784)
+
++ [React useState原理解密：从源码到实战](https://blog.csdn.net/2301_80138104/article/details/149300586)
+
