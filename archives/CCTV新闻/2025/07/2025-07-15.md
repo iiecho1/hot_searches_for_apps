@@ -205,3 +205,7 @@
 
 + [洛杉矶奥运会首版赛程公布 首金或将出自铁人三项](https://news.cctv.com/2025/07/15/ARTIKMI3BxcbeyGRrXqq0oZ4250715.shtml)
 
++ [听见，我们的声音](https://news.cctv.com/2025/07/15/ARTIqOhSsGgbSVRR5whRNoYl250715.shtml)
+
++ [适度引进外劳、扩大入境消费，日本政府新设机构处理外国人问题](https://news.cctv.com/2025/07/15/ARTIXsZOp1UwNb9zsUuJJeBW250715.shtml)
+
