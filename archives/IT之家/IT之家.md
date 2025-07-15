@@ -61,3 +61,5 @@
 
 + [李想：泄密打乱了理想 i8 发布节奏，低估了潜在用户“求知欲望”](https://m.ithome.com/html/868247.htm)
 
++ [8499 元 → 6899 元：华为 Mate70 Pro+ 手机 16+512G 京东直降](https://m.ithome.com/html/868311.htm)
+
