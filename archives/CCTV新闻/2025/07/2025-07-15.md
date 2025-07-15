@@ -197,3 +197,5 @@
 
 + [印度民航局数据：过去五年发生65起航班飞行中发动机关闭事件](https://news.cctv.com/2025/07/15/ARTIiFUaWYaQPMLqy25PX1a4250715.shtml)
 
++ [特朗普发布“最后通牒” 梅德韦杰夫：俄罗斯不在乎](https://news.cctv.com/2025/07/15/ARTIvt6YnV66dsBViQnLM9S5250715.shtml)
+
