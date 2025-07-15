@@ -197,3 +197,7 @@
 
 + [嵌入式硬件篇---晶体管的分类](https://blog.csdn.net/2301_79556402/article/details/149331625)
 
++ [深入浅出 RabbitMQ-核心概念介绍与容器化部署](https://blog.csdn.net/chandfy/article/details/149355518)
+
++ [4.Redis之复制（replica）](https://blog.csdn.net/2302_81141145/article/details/149307721)
+

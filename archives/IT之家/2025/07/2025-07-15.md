@@ -61,3 +61,15 @@
 
 + [苹果 iOS / iPadOS 18.6 开发者预览版 Beta 3 发布](https://m.ithome.com/html/868123.htm)
 
++ [小米庆祝徕卡百年，推出特别版小米 15 Ultra 手机](https://m.ithome.com/html/868274.htm)
+
++ [蒲得宇纠正预测：苹果 iPhone 17 标准版将使用 A19 芯片](https://m.ithome.com/html/868146.htm)
+
++ [新国标要求电子产品应内置一键信息清除功能，手机、平板电脑等需至少覆写 2 次](https://m.ithome.com/html/868101.htm)
+
++ [特斯拉扩大奥斯汀 Robotaxi 服务区域，地图形状似男性生殖器引质疑](https://m.ithome.com/html/868108.htm)
+
++ [补齐最后拼图：鸿蒙智行智界 X 车标焕新亮相，官方称“代表不被定义”](https://m.ithome.com/html/868176.htm)
+
++ [消息称苹果最薄 iPhone 17 Air 在其系列中独占天空蓝颜色](https://m.ithome.com/html/868165.htm)
+

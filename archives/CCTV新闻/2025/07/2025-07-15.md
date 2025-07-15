@@ -211,3 +211,9 @@
 
 + [韩国前总统尹锡悦再次缺席特检组传唤调查](https://news.cctv.com/2025/07/15/ARTI5pBkKYVeEb1mmlsBilA3250715.shtml)
 
++ [美国6月消费者价格指数环比增长0.3%](https://news.cctv.com/2025/07/15/ARTIUpDrdCeuvUgI4S0rBkDp250715.shtml)
+
++ [韩国多地发出疟疾警报](https://news.cctv.com/2025/07/15/ARTIHqthyH8lJWjziFqvikiC250715.shtml)
+
++ [新华时评丨上合“数字纽带”：以包容合作弥合全球数字鸿沟](https://news.cctv.com/2025/07/15/ARTIkHRgXTBjIgJqgHfa4LCr250715.shtml)
+
