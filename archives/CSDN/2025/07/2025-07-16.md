@@ -137,3 +137,9 @@
 
 + [深度强化学习 | 图文详细推导深度确定性策略梯度DDPG算法](https://blog.csdn.net/FRIGIDWINTER/article/details/149318448)
 
++ [文心一言开源版部署及多维度测评实例](https://blog.csdn.net/sixpp/article/details/149372848)
+
++ [完整 Spring Boot + Vue 登录系统](https://blog.csdn.net/qq_45572615/article/details/149317267)
+
++ [TCP心跳机制详解](https://blog.csdn.net/gtl20071123/article/details/149337656)
+
