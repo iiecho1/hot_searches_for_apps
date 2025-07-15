@@ -151,3 +151,15 @@
 
 + [基于Java Web的二手房交易系统开发与实现](https://blog.csdn.net/m0_58847451/article/details/149299975)
 
++ [TensorFlow深度学习实战（26）——生成对抗网络详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/144438038)
+
++ [RNN（循环神经网络）](https://blog.csdn.net/2401_88885149/article/details/149306076)
+
++ [文心大模型4.5开源测评：轻量化部署实践与多维度能力验证](https://blog.csdn.net/2301_80863610/article/details/149305396)
+
++ [手把手教你实现PX4飞控与上位机(Jetson,树莓派)的串口通信连接（Ubuntu18/20/22通用）](https://blog.csdn.net/2401_88185612/article/details/149343816)
+
++ [开源浪潮下的中国力量：文心一言大模型本地部署与应用全攻略](https://blog.csdn.net/weixin_61587867/article/details/149337777)
+
++ [封装---优化try..catch错误处理方式](https://blog.csdn.net/2301_80211889/article/details/149318144)
+

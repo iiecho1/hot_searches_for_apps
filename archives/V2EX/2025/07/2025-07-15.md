@@ -21,3 +21,17 @@
 
 + [现在孩子暑假感觉好像被各种培训班支配了？](https://www.v2ex.com/t/1145044)
 
++ [我去，我的铜币怎么用光了？](https://www.v2ex.com/t/1145199)
+
++ [搞出了一套批量生产 AI 插画的系统，用它接过单，不过客户给价太低没继续做下去。](https://www.v2ex.com/t/1145135)
+
++ [不吐不快，四年小厂开发跳大厂的薪资变化](https://www.v2ex.com/t/1145170)
+
++ [大家是如何存储主密码的?](https://www.v2ex.com/t/1145041)
+
++ [surge 6.0 又来割韭菜](https://www.v2ex.com/t/1145118)
+
++ [出掉了 iMac 2019, 入了 M4 pro Mini，天坑啊！](https://www.v2ex.com/t/1145049)
+
++ [iPhone 17 Pro 国行特供京东方屏，大家如何看待](https://www.v2ex.com/t/1145191)
+

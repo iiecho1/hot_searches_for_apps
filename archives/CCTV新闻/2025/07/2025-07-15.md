@@ -175,3 +175,13 @@
 
 + [美国将对墨西哥番茄征收超17%的关税](https://news.cctv.com/2025/07/15/ARTIhbLtur8mOrCIWTgIAys2250715.shtml)
 
++ [以色列前总理：所谓加沙“人道主义城”就是“集中营”](https://news.cctv.com/2025/07/15/ARTIDTcYPu5uJhLO9FwIbs51250715.shtml)
+
++ [印尼西苏门答腊省海域发生沉船事故 11人失踪](https://news.cctv.com/2025/07/15/ARTImM3YVmdrtUL8EEMPN3Fw250715.shtml)
+
++ [韩国内乱案特检组再次试图强制传唤尹锡悦到案](https://news.cctv.com/2025/07/15/ARTIutCvvyPkXGytKMJ9jtKp250715.shtml)
+
++ [美国得州洪灾已造成至少131人死亡](https://news.cctv.com/2025/07/15/ARTI24uoQwVALraSHGd6boYR250715.shtml)
+
++ [关税政策反复无常 美建筑行业成本飙升](https://news.cctv.com/2025/07/15/ARTIXJHf6AjKrKOBBQKn3YLo250715.shtml)
+

@@ -77,3 +77,5 @@
 
 + [【东方/爵士】東方夢幻録 Vol.4 专辑赏析【SOS -Sound of Swing-】](https://m.acfun.cn/v/?ac=47488510)
 
++ [顶着被烈日被晒爆的风险，我在稻田里修了一个木屋](https://m.acfun.cn/v/?ac=47490400)
+
