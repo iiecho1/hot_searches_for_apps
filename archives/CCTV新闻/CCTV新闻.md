@@ -191,3 +191,5 @@
 
 + [墨西哥多部委联合发声：美对墨番茄征收关税将伤害美国消费者](https://news.cctv.com/2025/07/15/ARTI5zSFx6YXe8MrfzWP5Ylb250715.shtml)
 
++ [加拿大东部多地遭高温和空气污染双重夹击](https://news.cctv.com/2025/07/15/ARTIcnn2mPAoQnBAhIHNK8eM250715.shtml)
+
