@@ -175,3 +175,11 @@
 
 + [React useState原理解密：从源码到实战](https://blog.csdn.net/2301_80138104/article/details/149300586)
 
++ [AutoGPT vs BabyAGI：自主任务执行框架对比与选型深度分析](https://blog.csdn.net/IRpickstars/article/details/149345781)
+
++ [深度强化学习 | 图文详细推导深度确定性策略梯度DDPG算法](https://blog.csdn.net/FRIGIDWINTER/article/details/149318448)
+
++ [Android 获取 UserAgent (UA) 的三种方式深度解析：差异、风险与最佳实践](https://blog.csdn.net/g984160547/article/details/149326179)
+
++ [TCP可靠性设计的核心机制与底层逻辑](https://blog.csdn.net/2302_80105876/article/details/147847312)
+

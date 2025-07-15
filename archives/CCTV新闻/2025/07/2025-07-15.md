@@ -193,3 +193,5 @@
 
 + [加拿大东部多地遭高温和空气污染双重夹击](https://news.cctv.com/2025/07/15/ARTIcnn2mPAoQnBAhIHNK8eM250715.shtml)
 
++ [为省电 印度要把空调制冷温度下限提高3摄氏度](https://news.cctv.com/2025/07/15/ARTI7tfsLYTK56Xwnr61b8TL250715.shtml)
+
