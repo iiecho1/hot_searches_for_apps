@@ -25,3 +25,27 @@
 
 + [安卓迭代旗舰新机草图曝光：大圆、方形、大矩阵全都有](https://m.ithome.com/html/867946.htm)
 
++ [消息称马云要求淘宝闪购“稳定在 8000 万单”：先提升能力再往上冲](https://m.ithome.com/html/868111.htm)
+
++ [上市一月整 6999 → 5499 元：华为 Pura 80 Pro 手机 512G 限地区新低](https://m.ithome.com/html/868105.htm)
+
++ [苹果 iPhone 17 Pro 系列手机全新橙色曝光](https://m.ithome.com/html/868114.htm)
+
++ [国航客机被曝与顺丰货机在俄罗斯上空擦肩而过，相距不到 120 米](https://m.ithome.com/html/868142.htm)
+
++ [黄仁勋宣布美国已批准英伟达 H20 芯片在华销售，称中国市场至关重要](https://m.ithome.com/html/868179.htm)
+
++ [华为穿戴产品发货超两亿只：其中 GT 系列超 5200 万只，官方透露产品设计历程](https://m.ithome.com/html/868085.htm)
+
++ [苹果 iOS / iPadOS 18.6 开发者预览版 Beta 3 发布](https://m.ithome.com/html/868123.htm)
+
++ [小米庆祝徕卡百年，推出特别版小米 15 Ultra 手机](https://m.ithome.com/html/868274.htm)
+
++ [蒲得宇纠正预测：苹果 iPhone 17 标准版将使用 A19 芯片](https://m.ithome.com/html/868146.htm)
+
++ [新国标要求电子产品应内置一键信息清除功能，手机、平板电脑等需至少覆写 2 次](https://m.ithome.com/html/868101.htm)
+
++ [特斯拉扩大奥斯汀 Robotaxi 服务区域，地图形状似男性生殖器引质疑](https://m.ithome.com/html/868108.htm)
+
++ [补齐最后拼图：鸿蒙智行智界 X 车标焕新亮相，官方称“代表不被定义”](https://m.ithome.com/html/868176.htm)
+
