@@ -201,3 +201,5 @@
 
 + [4.Redis之复制（replica）](https://blog.csdn.net/2302_81141145/article/details/149307721)
 
++ [【机器人】REGNav 具身导航 | 跨房间引导 | 图像目标导航 AAAI 2025](https://blog.csdn.net/qq_41204464/article/details/149357431)
+
