@@ -161,3 +161,13 @@
 
 + [腿部受伤、出口被封 伊媒公布以色列试图暗杀伊朗总统细节](https://news.cctv.com/2025/07/13/ARTIo5CNKoveP4LLGVlZs4GI250713.shtml)
 
++ [联合国秘书长强烈谴责叙利亚南部针对平民的暴力行径](https://news.cctv.com/2025/07/16/ARTIT1C7aJRgNJfAuLsQRv1u250716.shtml)
+
++ [发送解雇通知 特朗普政府推进美教育部大规模裁员计划](https://news.cctv.com/2025/07/16/ARTIYJmcAP0FO8pVEWIRHMwy250716.shtml)
+
++ [佩通坦向宪法法院申请延期提交“录音门”案申辩材料](https://news.cctv.com/2025/07/16/ARTIC410npLIyhNY4KX5FDng250716.shtml)
+
++ [世贸组织：一季度全球商品贸易增长超预期](https://jingji.cctv.com/2025/07/16/ARTICvE0RHNyDB6FwVW8I8BH250716.shtml)
+
++ [在美国，番茄会成为“下一个鸡蛋”吗？](https://news.cctv.com/2025/07/16/ARTIntknSF19v79DX196l8nJ250716.shtml)
+
