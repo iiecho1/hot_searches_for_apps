@@ -195,3 +195,5 @@
 
 + [为省电 印度要把空调制冷温度下限提高3摄氏度](https://news.cctv.com/2025/07/15/ARTI7tfsLYTK56Xwnr61b8TL250715.shtml)
 
++ [印度民航局数据：过去五年发生65起航班飞行中发动机关闭事件](https://news.cctv.com/2025/07/15/ARTIiFUaWYaQPMLqy25PX1a4250715.shtml)
+

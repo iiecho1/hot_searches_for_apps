@@ -43,3 +43,21 @@
 
 + [英伟达驱动为 RTX 40 系列显卡带来 Smooth Motion 技术，《魔兽世界》帧率翻倍](https://m.ithome.com/html/867876.htm)
 
++ [消息称马云要求淘宝闪购“稳定在 8000 万单”：先提升能力再往上冲](https://m.ithome.com/html/868111.htm)
+
++ [上市一月整 6999 → 5499 元：华为 Pura 80 Pro 手机 512G 限地区新低](https://m.ithome.com/html/868105.htm)
+
++ [苹果 iPhone 17 Pro 系列手机全新橙色曝光](https://m.ithome.com/html/868114.htm)
+
++ [国航客机被曝与顺丰货机在俄罗斯上空擦肩而过，相距不到 120 米](https://m.ithome.com/html/868142.htm)
+
++ [黄仁勋宣布美国已批准英伟达 H20 芯片在华销售，称中国市场至关重要](https://m.ithome.com/html/868179.htm)
+
++ [小米相册编辑功能更新 2.0.0.2.2 版本：界面大改，新增多项 AI 能力](https://m.ithome.com/html/867982.htm)
+
++ [罗马仕天猫旗舰店重新开放，客服称正在慢慢恢复](https://m.ithome.com/html/868064.htm)
+
++ [华为穿戴产品发货超两亿只：其中 GT 系列超 5200 万只，官方透露产品设计历程](https://m.ithome.com/html/868085.htm)
+
++ [苹果 iOS / iPadOS 18.6 开发者预览版 Beta 3 发布](https://m.ithome.com/html/868123.htm)
+
