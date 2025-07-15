@@ -29,3 +29,15 @@
 
 + [getzep/graphiti](https://github.com/getzep/graphiti)
 
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+
++ [frappe/erpnext](https://github.com/frappe/erpnext)
+
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [browserbase/stagehand](https://github.com/browserbase/stagehand)
+
