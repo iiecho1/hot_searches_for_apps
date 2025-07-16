@@ -195,3 +195,13 @@
 
 + [Ubuntu18.04 系统重装记录](https://blog.csdn.net/reconi/article/details/149369942)
 
++ [【C#】实体类定义的是long和值识别到的是Int64，实体类反射容易出现Object does not match target type](https://blog.csdn.net/lmy_520/article/details/149354078)
+
++ [【数据库】慢SQL优化 - MYSQL](https://blog.csdn.net/qq_45277554/article/details/149336427)
+
++ [深度学习 Pytorch图像分类步骤](https://blog.csdn.net/2301_76654710/article/details/149337219)
+
++ [鸿蒙应用开发： 鸿蒙项目中使用私有 npm 插件的完整流程](https://blog.csdn.net/weixin_54129994/article/details/149323910)
+
++ [从混沌到秩序：数据科学的热力学第二定律破局——线性回归的熵减模型 × 最小二乘的能量最小化 × 梯度下降的负反馈控制系统，用物理定律重构智能算法的统一场论](https://blog.csdn.net/2401_82648291/article/details/149397135)
+
