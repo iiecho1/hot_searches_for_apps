@@ -141,3 +141,13 @@
 
 + [职业院校网络安全攻防对抗实训室解决方案](https://blog.csdn.net/whwzzc/article/details/149345302)
 
++ [图机器学习（10）——监督学习中的图神经网络](https://blog.csdn.net/LOVEmy134611/article/details/148651281)
+
++ [Kmeams聚类算法详解](https://blog.csdn.net/Springfield3006/article/details/149289037)
+
++ [无人机GPS定位系统核心技术解析](https://blog.csdn.net/YUNZHUO666/article/details/149360543)
+
++ [文心一言4.5开源模型测评：ERNIE-4.5-0.3B超轻量模型部署指南](https://blog.csdn.net/michaelline/article/details/149358450)
+
++ [Web3.0 学习方案](https://blog.csdn.net/nndsb/article/details/149363061)
+

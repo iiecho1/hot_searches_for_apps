@@ -51,3 +51,11 @@
 
 + [李想：泄密打乱了理想 i8 发布节奏，低估了潜在用户“求知欲望”](https://m.ithome.com/html/868247.htm)
 
++ [英伟达 CEO 黄仁勋回应大热天穿皮夹克：只有一套西装，没来得及干洗](https://m.ithome.com/html/868395.htm)
+
++ [继英伟达 H20 后，AMD 确认将恢复向中国出口 MI308 芯片](https://m.ithome.com/html/868392.htm)
+
++ [《赛博朋克 2077》苹果 Mac 版 7 月 17 日上线，支持 M 系列芯片但至少需 16GB 内存](https://m.ithome.com/html/868404.htm)
+
++ [索尼发布黑卡 RX1R III 全画幅旗舰相机，售价 33999 元](https://m.ithome.com/html/868406.htm)
+
