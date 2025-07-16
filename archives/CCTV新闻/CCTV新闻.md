@@ -191,3 +191,7 @@
 
 + [波兰边境城市就德国边境管控征集居民签名拟向欧盟申诉](https://news.cctv.com/2025/07/16/ARTIF4IWgpj5W2Jrsw40s9qF250716.shtml)
 
++ [是否继续拘留尹锡悦？韩国法院将于18日上午进行审查](https://news.cctv.com/2025/07/16/ARTIPlQDGkq3dXEN1s29wyyJ250716.shtml)
+
++ [特朗普称关税征收将于8月1日开始 与越南协议基本敲定](https://news.cctv.com/2025/07/16/ARTIL6tkfQJs1SEmHvp7UYJx250716.shtml)
+
