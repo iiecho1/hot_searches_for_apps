@@ -111,3 +111,33 @@
 
 + [AI小白也能快速用五分钟复现的ERNIE-4.5系列模型单卡部署与心理健康机器人实战案例](https://blog.csdn.net/qq_61654952/article/details/149344709)
 
++ [Linux-Prometheus监控系统](https://blog.csdn.net/2301_79249037/article/details/149407798)
+
++ [国产电科金仓数据库：开启新征程，引领数智新时代](https://blog.csdn.net/weixin_43151418/article/details/149351990)
+
++ [Cursor区域限制问题解决方案：AI模型访问技术突破与环境隔离实践](https://blog.csdn.net/yangshuo1281/article/details/149400461)
+
++ [基于UDP/IP网络游戏加速高级拥塞控制算法（示意：一）](https://blog.csdn.net/liulilittle/article/details/149368925)
+
++ [网络安全职业指南：探索网络安全领域的各种角色](https://blog.csdn.net/u013129300/article/details/149372054)
+
++ [Vue 3.6 Alpha 深度解析：Vapor Mode 如何颠覆虚拟 DOM 时代](https://blog.csdn.net/weixin_43073383/article/details/149323346)
+
++ [Retinex视网膜算法（SSR、MSR、MSRCR）](https://blog.csdn.net/weixin_59422604/article/details/149331962)
+
++ [小智完整MCP交互流程（以调节音量为例）](https://blog.csdn.net/qq_18677445/article/details/149349171)
+
++ [【MyBatis】杂谈篇：提升数据库安全与性能的4大实战技巧（防注入/动态SQL/模糊优化/连接池）](https://blog.csdn.net/2301_81073317/article/details/149198618)
+
++ [【从零开始学Dify】 Dify + 视觉模型构建文生视频工作流](https://blog.csdn.net/qq_38951259/article/details/149245800)
+
++ [【深度学习优化算法】06：动量法](https://blog.csdn.net/Morse_Chen/article/details/149340794)
+
++ [微信小程序开发-桌面端和移动端UI表现不一致问题记录](https://blog.csdn.net/qq_34425377/article/details/148871135)
+
++ [什么是私有化部署企业即时通讯？吱吱企业即时通讯安全吗？](https://blog.csdn.net/zhiTechnology/article/details/149353757)
+
++ [11、鸿蒙Harmony Next开发：列表布局 (List)](https://blog.csdn.net/yezuiqingxin/article/details/149299319)
+
++ [职业院校网络安全攻防对抗实训室解决方案](https://blog.csdn.net/whwzzc/article/details/149345302)
+
