@@ -221,3 +221,7 @@
 
 + [乌克兰议会批准什梅加尔辞去总理职务](https://news.cctv.com/2025/07/16/ARTIgpN0wxP74nopPhQwaley250716.shtml)
 
++ [美中贸易全国委员会：中国市场仍是企业维持全球竞争力的关键所在](https://news.cctv.com/2025/07/16/ARTIe1aiVx7uw5XShXkgxZPS250716.shtml)
+
++ [法国计划2026年削减财政开支降低赤字率](https://news.cctv.com/2025/07/16/ARTIOAlwGW7NgZMiOMnUKQ72250716.shtml)
+
