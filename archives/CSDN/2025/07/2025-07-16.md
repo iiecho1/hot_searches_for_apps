@@ -193,3 +193,5 @@
 
 + [运维打铁: Ruby 脚本在运维自动化中的应用探索](https://blog.csdn.net/XiaoRungen/article/details/149386188)
 
++ [Ubuntu18.04 系统重装记录](https://blog.csdn.net/reconi/article/details/149369942)
+
