@@ -173,3 +173,11 @@
 
 + [Spark 和 Hadoop MapReduce 的基本概念及区别](https://blog.csdn.net/2301_76971522/article/details/149323398)
 
++ [【源力觉醒 创作者计划】百度携文心 4.5 入局，开源大模型市场再添一员猛将，与 Qwen3 对比如何？](https://blog.csdn.net/IRpickstars/article/details/149386319)
+
++ [【CV综合实战】基于深度学习的工业压力表智能检测与读数系统【3】使用OpenCV读取分割后的压力表读数](https://blog.csdn.net/qq_42589613/article/details/149248480)
+
++ [游戏框架笔记](https://blog.csdn.net/Jesui/article/details/146048398)
+
++ [进程探秘：从 PCB 到 fork 的核心原理之旅](https://blog.csdn.net/2302_79376097/article/details/149308165)
+

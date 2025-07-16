@@ -189,3 +189,5 @@
 
 + [“锋刃-2025”国际狙击手射击竞赛在新疆开幕](https://photo.cctv.com/2025/07/16/PHOAnWnnONvQobEK8IRCwtmQ250716.shtml)
 
++ [波兰边境城市就德国边境管控征集居民签名拟向欧盟申诉](https://news.cctv.com/2025/07/16/ARTIF4IWgpj5W2Jrsw40s9qF250716.shtml)
+
