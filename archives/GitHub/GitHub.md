@@ -27,3 +27,25 @@
 
 + [browserbase/stagehand](https://github.com/browserbase/stagehand)
 
++ [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)
+
++ [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)
+
++ [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+
++ [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli)
+
++ [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood)
+
++ [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [vanna-ai/vanna](https://github.com/vanna-ai/vanna)
+
++ [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
+
++ [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
+
++ [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
+

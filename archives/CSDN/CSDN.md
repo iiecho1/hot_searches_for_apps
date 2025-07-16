@@ -205,3 +205,13 @@
 
 + [从混沌到秩序：数据科学的热力学第二定律破局——线性回归的熵减模型 × 最小二乘的能量最小化 × 梯度下降的负反馈控制系统，用物理定律重构智能算法的统一场论](https://blog.csdn.net/2401_82648291/article/details/149397135)
 
++ [大模型之Spring AI实战系列（三十五）：Spring Boot + Ollama 实现系统提示词功能](https://blog.csdn.net/xiaobing259/article/details/149332308)
+
++ [SqlServer使用Always On做主从](https://blog.csdn.net/weixin_45315330/article/details/149361211)
+
++ [基于MATLAB的LSTM长短期记忆神经网络的时间序列数据预测方法应用](https://blog.csdn.net/weixin_42163563/article/details/149327205)
+
++ [内网后渗透攻击过程（实验环境）--2、权限提升](https://blog.csdn.net/hj06112/article/details/149309329)
+
++ [效率提升新范式：基于数字孪生的汽车标定技术革命](https://blog.csdn.net/weixin_62244995/article/details/149280140)
+
