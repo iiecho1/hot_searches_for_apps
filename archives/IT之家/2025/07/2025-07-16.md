@@ -73,3 +73,23 @@
 
 + [腾讯广州总部大楼顺利通过竣工联合验收开启运营：高 207 米，共 39 层](https://m.ithome.com/html/868225.htm)
 
++ [李楠提出汽车圈有水军恶意抹黑小米和华为，微博 CEO 王高飞称“不排除有第三方暗中撺掇”](https://m.ithome.com/html/868461.htm)
+
++ [脱下皮衣，英伟达 CEO 黄仁勋身着唐装亮相第三届链博会](https://m.ithome.com/html/868480.htm)
+
++ [特斯拉官宣 Model Y L 秋季见，新车“工信部证件照”首度公开](https://m.ithome.com/html/868645.htm)
+
++ [《赛博朋克 2077》苹果 Mac 版 7 月 17 日上线，支持 M 系列芯片但至少需 16GB 内存](https://m.ithome.com/html/868404.htm)
+
++ [索尼发布黑卡 RX1R III 全画幅旗舰相机，售价 33999 元](https://m.ithome.com/html/868406.htm)
+
++ [英伟达黄仁勋：从我认识雷军的第一天起，就知道他会取得非凡成功](https://m.ithome.com/html/868560.htm)
+
++ [京东外卖投入 20 亿升级全职骑手福利：五险一金 + 防寒暑补贴 + 15 万辆二轮车，达标可得](https://m.ithome.com/html/868468.htm)
+
++ [英伟达黄仁勋：我很想买一辆小米汽车](https://m.ithome.com/html/868544.htm)
+
++ [消息称华为 MatePad 11.5 / Air 12 / Pro 12.2 平板将迎 2025 款迭代，搭载麒麟最新 8 / 9 系列平台](https://m.ithome.com/html/868479.htm)
+
++ [刀法精湛，消息称苹果 iPhone 17 Air 手机 12GB 内存速度不及 Pro 版](https://m.ithome.com/html/868612.htm)
+
