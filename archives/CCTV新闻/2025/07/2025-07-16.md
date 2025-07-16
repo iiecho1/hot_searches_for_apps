@@ -195,3 +195,19 @@
 
 + [特朗普称关税征收将于8月1日开始 与越南协议基本敲定](https://news.cctv.com/2025/07/16/ARTIL6tkfQJs1SEmHvp7UYJx250716.shtml)
 
++ [葡萄牙愿与中国拓展供应链伙伴关系——访葡中工商会秘书长伯纳德](https://news.cctv.com/2025/07/16/ARTIt9M1ndbXlHEO5WzMbjUS250716.shtml)
+
++ [中外专家共商文明交流互鉴与人权事业发展](https://news.cctv.com/2025/07/16/ARTIpTIHJiZpbwJXx0m3MvAG250716.shtml)
+
++ [特朗普关税开始让美国消费者钱包缩水](https://news.cctv.com/2025/07/16/ARTIk0r1jtwLcSWEHTmwyigd250716.shtml)
+
++ [外交部：敦促美方客观理性看待中国和中美关系](https://news.cctv.com/2025/07/16/ARTIBK1O2TAFOkSVh8dKfKp3250716.shtml)
+
++ [美贸易代表办公室宣布对巴西发起“301调查”](https://news.cctv.com/2025/07/16/ARTI942kgtzLCMsLXSOSginy250716.shtml)
+
++ [特朗普：并不急于与伊朗进行对话](https://news.cctv.com/2025/07/16/ARTIM6p3OrTJVaGugATP1dq5250716.shtml)
+
++ [美国及盟友将8月底定为与伊朗达成核协议的最后期限](https://news.cctv.com/2025/07/16/ARTIocaNzac0OW7EhtEpilmg250716.shtml)
+
++ [美政府关税政策开始让美消费者钱包缩水](https://news.cctv.com/2025/07/16/ARTIy2NCguj6cGvGdFq3z1T3250716.shtml)
+
