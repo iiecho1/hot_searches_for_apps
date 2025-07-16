@@ -151,3 +151,13 @@
 
 + [Uniapp动态切换主题与老年模式详解](https://blog.csdn.net/mss359681091/article/details/149349397)
 
++ [基于Ruoyi和PostgreSQL的统一POI分类后台管理实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/149309966)
+
++ [猫头虎 推荐：Chrome MCP Server，让 Chrome 浏览器变成你的 AI 智能助手](https://blog.csdn.net/qq_44866828/article/details/149340682)
+
++ [最新 AGI 暴论：强化学习的「GPT-3 时刻」实现，还需要 1 万年？](https://blog.csdn.net/qq_42055933/article/details/149342613)
+
++ [自动驾驶数据仓库：时间片合并算法。](https://blog.csdn.net/liupenglove/article/details/149321845)
+
++ [封装---优化try..catch错误处理方式](https://blog.csdn.net/2301_80211889/article/details/149318144)
+

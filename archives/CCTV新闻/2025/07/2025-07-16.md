@@ -173,3 +173,19 @@
 
 + [可能失去多数席位 最新民调称日本执政党参院选情告急](https://news.cctv.com/2025/07/16/ARTI6dA6VvgXHeO3rqyNfCDY250716.shtml)
 
++ [国际观察｜关税博弈加剧　多国努力应对](https://news.cctv.com/2025/07/16/ARTI0ERMwAFFy6eW2C9wJI3X250716.shtml)
+
++ [特朗普说将对部分较小国家征收10%以上关税](https://news.cctv.com/2025/07/16/ARTIjAcYTM6RWkAwkxRaQQvM250716.shtml)
+
++ [3次缺席传唤调查 尹锡悦被韩国检方禁见律师及家属以外人员](https://news.cctv.com/2025/07/16/ARTIZ9mUxcLaWXxWtcAhut1f250716.shtml)
+
++ [中方强调安理会红海相关问题决议不应被曲解滥用](https://news.cctv.com/2025/07/16/ARTI4ZZFYMoyRvWTUEedjvHe250716.shtml)
+
++ [美“关税大棒”效应显现 6月消费者价格指数同比上涨2.7%](https://news.cctv.com/2025/07/16/ARTIUcvAsCUJCuCD1vSF8lfG250716.shtml)
+
++ [2026年冬奥会和冬残奥会奖牌发布](https://photo.cctv.com/2025/07/16/PHOAeMSnelhjexgqPlstOtsj250716.shtml)
+
++ [美国高调援乌背后是“卖武器 做生意” “美国优先”欲迫使北约国家消耗资源](https://news.cctv.com/2025/07/16/ARTIQNsdk2MYJ0qCcOmRru08250716.shtml)
+
++ [“锋刃-2025”国际狙击手射击竞赛在新疆开幕](https://photo.cctv.com/2025/07/16/PHOAnWnnONvQobEK8IRCwtmQ250716.shtml)
+
