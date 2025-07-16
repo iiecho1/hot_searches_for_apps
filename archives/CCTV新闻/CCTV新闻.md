@@ -219,3 +219,5 @@
 
 + [欧洲头条丨欧盟“躲无可躲” 半个月后欧美可能撕破脸？](https://news.cctv.com/2025/07/16/ARTIRzPMLROYX8ajuloGZ5rK250716.shtml)
 
++ [乌克兰议会批准什梅加尔辞去总理职务](https://news.cctv.com/2025/07/16/ARTIgpN0wxP74nopPhQwaley250716.shtml)
+
