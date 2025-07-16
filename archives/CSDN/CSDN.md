@@ -151,3 +151,5 @@
 
 + [Web3.0 学习方案](https://blog.csdn.net/nndsb/article/details/149363061)
 
++ [【DataWhale】快乐学习大模型 | 202507，Task01笔记](https://blog.csdn.net/q7238926z/article/details/149341176)
+
