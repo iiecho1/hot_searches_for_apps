@@ -101,3 +101,13 @@
 
 + [Android 获取 UserAgent (UA) 的三种方式深度解析：差异、风险与最佳实践](https://blog.csdn.net/g984160547/article/details/149326179)
 
++ [【AI智能体】Dify 基于知识库搭建智能客服问答应用详解](https://blog.csdn.net/zhangcongyi420/article/details/149102134)
+
++ [用TensorFlow进行逻辑回归(六)](https://blog.csdn.net/lishaoan77/article/details/149344450)
+
++ [Java 大视界 -- Java 大数据机器学习模型在金融风险传染路径分析与防控策略制定中的应用（347）](https://blog.csdn.net/atgfg/article/details/149374066)
+
++ [FPGA高端图像ISP培训课程，提供工程源码+视频教程+FPGA开发板](https://blog.csdn.net/qq_41667729/article/details/149291424)
+
++ [AI小白也能快速用五分钟复现的ERNIE-4.5系列模型单卡部署与心理健康机器人实战案例](https://blog.csdn.net/qq_61654952/article/details/149344709)
+

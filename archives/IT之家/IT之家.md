@@ -25,3 +25,27 @@
 
 + [8499 元 → 6899 元：华为 Mate70 Pro+ 手机 16+512G 京东直降](https://m.ithome.com/html/868311.htm)
 
++ [特斯拉官宣 Model Y L 秋季见，新车“工信部证件照”首度公开](https://m.ithome.com/html/868645.htm)
+
++ [四川长虹方面回应小米自建工厂影响：短期内还是稳定的](https://m.ithome.com/html/868439.htm)
+
++ [李楠提出汽车圈有水军恶意抹黑小米和华为，微博 CEO 王高飞称“不排除有第三方暗中撺掇”](https://m.ithome.com/html/868461.htm)
+
++ [脱下皮衣，英伟达 CEO 黄仁勋身着唐装亮相第三届链博会](https://m.ithome.com/html/868480.htm)
+
++ [英伟达黄仁勋：从我认识雷军的第一天起，就知道他会取得非凡成功](https://m.ithome.com/html/868560.htm)
+
++ [刀法精湛，消息称苹果 iPhone 17 Air 手机 12GB 内存速度不及 Pro 版](https://m.ithome.com/html/868612.htm)
+
++ [京东外卖投入 20 亿升级全职骑手福利：五险一金 + 防寒暑补贴 + 15 万辆二轮车，达标可得](https://m.ithome.com/html/868468.htm)
+
++ [黄仁勋直夸“中国电动车绝了”：感叹在美国买不到小米汽车，称赞比亚迪、理想、蔚来、小鹏](https://m.ithome.com/html/868634.htm)
+
++ [英伟达黄仁勋：我很想买一辆小米汽车](https://m.ithome.com/html/868544.htm)
+
++ [消息称华为 MatePad 11.5 / Air 12 / Pro 12.2 平板将迎 2025 款迭代，搭载麒麟最新 8 / 9 系列平台](https://m.ithome.com/html/868479.htm)
+
++ [因资不抵债，钟薛高被破产立案审查](https://m.ithome.com/html/868610.htm)
+
++ [英伟达首次亮相链博会：黄仁勋说第一次用中文演讲很紧张，夸赞“中国的供应链是奇迹”](https://m.ithome.com/html/868524.htm)
+

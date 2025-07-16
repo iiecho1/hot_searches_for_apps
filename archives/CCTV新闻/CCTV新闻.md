@@ -161,3 +161,7 @@
 
 + [第二次以总统身份受邀 特朗普拟9月17日至19日访英](https://news.cctv.com/2025/07/14/ARTIRjgF2ZUQ62rKvmuGN3jr250714.shtml)
 
++ [英国6月CPI同比上涨3.6%](https://news.cctv.com/2025/07/17/ARTIFE4r7TLa7oap4yRyr5Da250717.shtml)
+
++ [美20个州起诉特朗普政府　要求恢复防灾减灾计划](https://news.cctv.com/2025/07/17/ARTIEsUvXMRhe6N0r0fCIGTD250717.shtml)
+
