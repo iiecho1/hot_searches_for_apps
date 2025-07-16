@@ -169,3 +169,5 @@
 
 + [美国阿拉斯加州南部海域发生7.3级地震](https://news.cctv.com/2025/07/17/ARTIPT7EZdlmFqrlNBM9RwYX250717.shtml)
 
++ [波兰正式召回驻匈牙利大使 降低双边外交关系级别](https://news.cctv.com/2025/07/17/ARTIzuWfnABF9VRJ5bi2Xtch250717.shtml)
+
