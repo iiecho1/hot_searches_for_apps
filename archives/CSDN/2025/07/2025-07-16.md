@@ -215,3 +215,7 @@
 
 + [效率提升新范式：基于数字孪生的汽车标定技术革命](https://blog.csdn.net/weixin_62244995/article/details/149280140)
 
++ [Redis 主从复制](https://blog.csdn.net/L_qingting/article/details/149365754)
+
++ [【跟我学YOLO】（2）YOLO12 环境配置与基本应用](https://blog.csdn.net/youcans/article/details/149356271)
+
