@@ -165,3 +165,7 @@
 
 + [美20个州起诉特朗普政府　要求恢复防灾减灾计划](https://news.cctv.com/2025/07/17/ARTIEsUvXMRhe6N0r0fCIGTD250717.shtml)
 
++ [普京：俄罗斯与国际奥委会的关系正在逐步恢复](https://news.cctv.com/2025/07/17/ARTI3b7LUO7gfHDAaZhssg4J250717.shtml)
+
++ [美国阿拉斯加州南部海域发生7.3级地震](https://news.cctv.com/2025/07/17/ARTIPT7EZdlmFqrlNBM9RwYX250717.shtml)
+
