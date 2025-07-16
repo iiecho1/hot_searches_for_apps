@@ -161,3 +161,13 @@
 
 + [封装---优化try..catch错误处理方式](https://blog.csdn.net/2301_80211889/article/details/149318144)
 
++ [【Qt开发】Qt的背景介绍（二）-＞ 搭建Qt开发环境](https://blog.csdn.net/weixin_74809706/article/details/149295733)
+
++ [AI大模型驱动的软件开发全流程变革：从需求分析到智能运维的技术演进与未来展望](https://blog.csdn.net/Dreamy_zsy/article/details/149329826)
+
++ [使⽤Pytorch构建⼀个神经⽹络](https://blog.csdn.net/qq_28309121/article/details/149339018)
+
++ [新手向:Python数据处理Excel报表自动化生成与分析](https://blog.csdn.net/2302_77626561/article/details/149214476)
+
++ [【深度学习优化算法】06：动量法](https://blog.csdn.net/Morse_Chen/article/details/149340794)
+

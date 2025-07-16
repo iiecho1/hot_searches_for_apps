@@ -63,3 +63,13 @@
 
 + [8499 元 → 6899 元：华为 Mate70 Pro+ 手机 16+512G 京东直降](https://m.ithome.com/html/868311.htm)
 
++ [英伟达 CEO 黄仁勋回应大热天穿皮夹克：只有一套西装，没来得及干洗](https://m.ithome.com/html/868395.htm)
+
++ [继英伟达 H20 后，AMD 确认将恢复向中国出口 MI308 芯片](https://m.ithome.com/html/868392.htm)
+
++ [吉利控股：旗下吉利汽车与极氪科技正式签署合并协议](https://m.ithome.com/html/868359.htm)
+
++ [四川长虹方面回应小米自建工厂影响：短期内还是稳定的](https://m.ithome.com/html/868439.htm)
+
++ [腾讯广州总部大楼顺利通过竣工联合验收开启运营：高 207 米，共 39 层](https://m.ithome.com/html/868225.htm)
+
