@@ -169,3 +169,5 @@
 
 + [“外貌发生明显变化” 以军公布哈马斯军事领导人新照](https://news.cctv.com/2025/07/18/ARTIsVUmweXUZq0YphQGcRSq250717.shtml)
 
++ [德国央行行长：美国关税措施可能令德国经济失去增长前景](https://news.cctv.com/2025/07/18/ARTIIauMLRctHxC9mh8hZApS250718.shtml)
+
