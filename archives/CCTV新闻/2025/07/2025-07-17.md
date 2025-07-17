@@ -235,3 +235,13 @@
 
 + [美联储“褐皮书”显示美国物价普遍上涨](https://news.cctv.com/2025/07/17/ARTIzlTXURgsrjGkXqX8xaiN250717.shtml)
 
++ [断供、停产、发函、讲话……巴西继续“硬刚”美国](https://news.cctv.com/2025/07/17/ARTIjLquMzCdRN1WSNBD0IPq250717.shtml)
+
++ [石破茂支持率大跌 创上台以来最低值](https://news.cctv.com/2025/07/17/ARTIvvyBrStMoby6UTOeENFQ250717.shtml)
+
++ [机长关闭燃油开关致印航空难？印度：美媒一面之词](https://news.cctv.com/2025/07/17/ARTIm4Lsb34kRadvZPzk3JGp250717.shtml)
+
++ [委内瑞拉截获一艘载有超3吨可卡因的运毒“潜艇”](https://news.cctv.com/2025/07/17/ARTIssEmclhUxQD7MBulTcrS250717.shtml)
+
++ [特朗普称可能对150多个次要贸易伙伴统一加征关税](https://news.cctv.com/2025/07/17/ARTI2wWBVAXdemvsDYZqEA2y250717.shtml)
+

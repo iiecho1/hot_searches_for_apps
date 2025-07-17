@@ -199,3 +199,17 @@
 
 + [微信公众号/小程序百万级OpenID自动化获取工具](https://blog.csdn.net/kkiron/article/details/149417592)
 
++ [大模型之Spring AI实战系列（三十六）：Spring Boot + Ollama 实现结构化输出功能](https://blog.csdn.net/xiaobing259/article/details/149332453)
+
++ [PyTorch生成式人工智能（18）——循环神经网络详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/146260390)
+
++ [2025年物流数字化转型：网状生态、数据智能与10＋工具实践](https://blog.csdn.net/2501_92555796/article/details/149392231)
+
++ [什么是数据仓库？数据库与数据仓库有什么关系？](https://blog.csdn.net/yuanziok/article/details/149409169)
+
++ [Spring之核心容器(IoC,DI,基本操作)详解](https://blog.csdn.net/aa_hdkf_vg/article/details/149409605)
+
++ [Kiro 下载及使用指南（含内置 Claude Sonnet 4.0 使用）](https://blog.csdn.net/m0_73812383/article/details/149414719)
+
++ [自学中医笔记（一）](https://blog.csdn.net/qq1170993239/article/details/149409019)
+
