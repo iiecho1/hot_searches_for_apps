@@ -107,3 +107,25 @@
 
 + [文心一言4.5开源模型测评：ERNIE-4.5-0.3B超轻量模型部署指南](https://blog.csdn.net/michaelline/article/details/149358450)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融风险传染路径分析与防控策略制定中的应用（347）](https://blog.csdn.net/atgfg/article/details/149374066)
+
++ [DNA存储阵列纠错编码神经网络解码：数据永生的技术交响曲](https://blog.csdn.net/Liudef06/article/details/149348103)
+
++ [文心一言开源版部署及多维度测评实例](https://blog.csdn.net/sixpp/article/details/149372848)
+
++ [【机器学习【6】】数据理解：数据导入、数据审查与数据可视化方法论](https://blog.csdn.net/hiliang521/article/details/149395492)
+
++ [CrewAI与LangGraph：下一代智能体编排平台深度测评](https://blog.csdn.net/IRpickstars/article/details/149413498)
+
++ [【NLP舆情分析】基于python微博舆情分析可视化系统(flask+pandas+echarts) 视频教程 - 微博类别信息爬取](https://blog.csdn.net/caoli201314/article/details/149385563)
+
++ [基于深度学习yolo11+yolov8-pose关键点实现的的工业压力表智能检测与读数系统设计与实现](https://blog.csdn.net/FL1623863129/article/details/149387052)
+
++ [基于 Docker 环境的 JupyterHub 详细部署手册](https://blog.csdn.net/u013106652/article/details/149407736)
+
++ [2025-07-15通过边缘线检测图像里的主体有没有出血](https://blog.csdn.net/m0_58149406/article/details/149365519)
+
++ [【C#地图显示教程：实现鼠标绘制图形操作】](https://blog.csdn.net/vor234/article/details/149357453)
+
++ [C#.NET BackgroundService 详解](https://blog.csdn.net/tangPHP/article/details/149408259)
+

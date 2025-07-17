@@ -167,3 +167,5 @@
 
 + [俄外交部：强烈抗议日本参与美军在俄边境附近军演](https://news.cctv.com/2025/07/18/ARTI9BR9gshDL4ivdXUUV29h250718.shtml)
 
++ [“外貌发生明显变化” 以军公布哈马斯军事领导人新照](https://news.cctv.com/2025/07/18/ARTIsVUmweXUZq0YphQGcRSq250717.shtml)
+
