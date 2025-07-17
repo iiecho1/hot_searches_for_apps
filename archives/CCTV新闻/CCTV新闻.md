@@ -161,3 +161,9 @@
 
 + [世贸组织：一季度全球商品贸易增长超预期](https://jingji.cctv.com/2025/07/16/ARTICvE0RHNyDB6FwVW8I8BH250716.shtml)
 
++ [匈牙利宣布禁止3名乌克兰军官入境](https://news.cctv.com/2025/07/18/ARTIm4gmUa8xdkqccy1ATfbG250717.shtml)
+
++ [女子马拉松世界纪录保持者遭世界田联禁赛](https://news.cctv.com/2025/07/18/ARTIksPQ8fClkNQ0mXUkMke8250718.shtml)
+
++ [俄外交部：强烈抗议日本参与美军在俄边境附近军演](https://news.cctv.com/2025/07/18/ARTI9BR9gshDL4ivdXUUV29h250718.shtml)
+

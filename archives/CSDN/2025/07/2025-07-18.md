@@ -101,3 +101,9 @@
 
 + [Java后端开发核心笔记：分层架构、注解与面向对象精髓](https://blog.csdn.net/m0_70660627/article/details/149409482)
 
++ [【2025/07/16】GitHub 今日热门项目](https://blog.csdn.net/AlbertDS/article/details/149404396)
+
++ [无人机GPS定位系统核心技术解析](https://blog.csdn.net/YUNZHUO666/article/details/149360543)
+
++ [文心一言4.5开源模型测评：ERNIE-4.5-0.3B超轻量模型部署指南](https://blog.csdn.net/michaelline/article/details/149358450)
+
