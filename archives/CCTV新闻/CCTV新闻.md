@@ -245,3 +245,5 @@
 
 + [特朗普称可能对150多个次要贸易伙伴统一加征关税](https://news.cctv.com/2025/07/17/ARTI2wWBVAXdemvsDYZqEA2y250717.shtml)
 
++ [美芯片行业集体“掉头” AMD将重启对华出口AI芯片](https://news.cctv.com/2025/07/17/ARTI7db3DgmiFtObltiHFzy2250717.shtml)
+

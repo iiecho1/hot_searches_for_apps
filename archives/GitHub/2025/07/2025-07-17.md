@@ -31,3 +31,21 @@
 
 + [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
 
++ [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+
++ [soxoj/maigret](https://github.com/soxoj/maigret)
+
++ [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+
++ [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+
++ [strapi/strapi](https://github.com/strapi/strapi)
+
++ [helix-editor/helix](https://github.com/helix-editor/helix)
+
++ [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
+
++ [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
+

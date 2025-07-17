@@ -213,3 +213,9 @@
 
 + [自学中医笔记（一）](https://blog.csdn.net/qq1170993239/article/details/149409019)
 
++ [企业流程管理利器：年度TOP SOP工具评测与选择攻略](https://blog.csdn.net/2301_80919018/article/details/149421903)
+
++ [Python实现的通用AI模型全方位测试完整方案（10万字）](https://blog.csdn.net/sixpp/article/details/148977231)
+
++ [Golang 并发快速上手](https://blog.csdn.net/K346K346/article/details/149408320)
+
