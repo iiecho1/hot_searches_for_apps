@@ -253,3 +253,5 @@
 
 + [乘风破浪 春华秋实——中国经济持续稳定发展提振全球增长信心](https://news.cctv.com/2025/07/17/ARTIxLKA3YUtHZvgpSIw3tFA250717.shtml)
 
++ [法国结束在塞内加尔军事常驻](https://news.cctv.com/2025/07/17/ARTIUjsAhxhWfl9trfbgKChH250717.shtml)
+
