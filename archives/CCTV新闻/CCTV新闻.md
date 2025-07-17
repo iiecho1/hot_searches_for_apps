@@ -213,3 +213,9 @@
 
 + [莱茵-鲁尔大运会在德国杜伊斯堡开幕](https://news.cctv.com/2025/07/17/ARTItevtdj5nISVrmsn5G1k3250717.shtml)
 
++ [530万美元！地球上已知最大火星陨石拍卖成交](https://news.cctv.com/2025/07/17/ARTI5jO4QTnuNBb260Pi45ED250717.shtml)
+
++ [团结才能共赢 携手方可共进——中国以高水平对外开放为世界经济注入暖流](https://news.cctv.com/2025/07/17/ARTIdsx8dZfTbKhnSDb94Bgl250717.shtml)
+
++ [特朗普要求用“真正的蔗糖”生产可口可乐](https://news.cctv.com/2025/07/17/ARTIbGayBHbEbP95YpQtdlKE250717.shtml)
+
