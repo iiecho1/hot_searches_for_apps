@@ -191,3 +191,11 @@
 
 + [开源浪潮下的中国力量：文心一言大模型本地部署与应用全攻略](https://blog.csdn.net/weixin_61587867/article/details/149337777)
 
++ [大模型Agent应用开发实战：从框架选型到行业落地](https://blog.csdn.net/qq_32682301/article/details/149421547)
+
++ [AI从零开始系列教程03 - Prompt提示语学习与应用](https://blog.csdn.net/2301_81940605/article/details/149277332)
+
++ [迈向灵巧化和具身化机器人操作的发展与挑战：综述](https://blog.csdn.net/sinat_37574187/article/details/149420238)
+
++ [微信公众号/小程序百万级OpenID自动化获取工具](https://blog.csdn.net/kkiron/article/details/149417592)
+

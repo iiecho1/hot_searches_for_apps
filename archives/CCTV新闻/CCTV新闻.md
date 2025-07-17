@@ -229,3 +229,9 @@
 
 + [欧航局将与英企合作开发高超音速飞行器](https://news.cctv.com/2025/07/17/ARTIuVGZJebsIlEArfstfaJ1250717.shtml)
 
++ [特朗普：对日征收25%关税 或很快与印度达成协定](https://news.cctv.com/2025/07/17/ARTIQef4zb2RVqCJSBsVv7jW250717.shtml)
+
++ [“赢得中国市场就赢得了全球市场”韩国船舶设备商来华“淘金”](https://news.cctv.com/2025/07/17/ARTIcmryKlVj3PNj6aFRByh8250717.shtml)
+
++ [美联储“褐皮书”显示美国物价普遍上涨](https://news.cctv.com/2025/07/17/ARTIzlTXURgsrjGkXqX8xaiN250717.shtml)
+
