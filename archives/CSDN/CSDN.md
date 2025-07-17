@@ -235,3 +235,9 @@
 
 + [阿里云-通义灵码：隐私保护机制—为数据安全筑起铜墙铁壁](https://blog.csdn.net/Pocker_Spades_A/article/details/149121348)
 
++ [【华为开发者空间 x DeepSeek】免费领取一台2C4G，Ubuntu22.04系统，支持SSH登录的华为云主机](https://blog.csdn.net/g310773517/article/details/149424863)
+
++ [C++ - 仿 RabbitMQ 实现消息队列--sqlite与gtest快速上手](https://blog.csdn.net/2301_80079840/article/details/149405128)
+
++ [使用YOLOv11实现水果类别检测：从数据到模型训练的全过程](https://blog.csdn.net/lydz1/article/details/149408585)
+
