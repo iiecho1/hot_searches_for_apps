@@ -195,3 +195,21 @@
 
 + [驻哥伦比亚使馆提醒中国公民切勿参与并高度警惕被动卷入毒品犯罪活动](https://news.cctv.com/2025/07/17/ARTIrlpCLf86bOz3Pi0aU3CF250716.shtml)
 
++ [三代人的中国情缘（我和中国的故事）](https://news.cctv.com/2025/07/17/ARTIr8d9F3QWfSqBTZNKQfmB250717.shtml)
+
++ [中国持续为世界经济增长作出贡献](https://news.cctv.com/2025/07/17/ARTItR0dXN7vSypPq5Z4KJQk250717.shtml)
+
++ [共拓数字经济合作新空间（弘扬“上海精神”：上合组织在行动）](https://news.cctv.com/2025/07/17/ARTIERAITnRzYltiqJL4vzLy250717.shtml)
+
++ [特朗普与鲍威尔矛盾升级 解雇争端外再爆一大隐忧](https://news.cctv.com/2025/07/17/ARTIzwlBtnYQ0XVwB8pOOPyW250717.shtml)
+
++ [韩国最高法院维持三星电子会长李在镕无罪判决](https://news.cctv.com/2025/07/17/ARTID7NNZfjZ0Ke1DWSTrD9T250717.shtml)
+
++ [德国总理将正式访问英国 重点深化防务合作](https://news.cctv.com/2025/07/17/ARTIOj3yaz2qUy6X0aKWxgbo250717.shtml)
+
++ [青春破界 连接世界——莱茵-鲁尔大运会开幕式侧记](https://news.cctv.com/2025/07/17/ARTID3ZNyvUe6eUkbTNrTAZ5250717.shtml)
+
++ [华尔街银行高管忧心关税影响：美国经济可能恶化](https://news.cctv.com/2025/07/17/ARTI0gHGch8SG4DfWnbJJad8250717.shtml)
+
++ [莱茵-鲁尔大运会在德国杜伊斯堡开幕](https://news.cctv.com/2025/07/17/ARTItevtdj5nISVrmsn5G1k3250717.shtml)
+
