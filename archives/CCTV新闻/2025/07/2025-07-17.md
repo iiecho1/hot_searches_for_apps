@@ -247,3 +247,7 @@
 
 + [美芯片行业集体“掉头” AMD将重启对华出口AI芯片](https://news.cctv.com/2025/07/17/ARTI7db3DgmiFtObltiHFzy2250717.shtml)
 
++ [俄称自冲突以来乌方使用化学和有毒制剂逾500次](https://news.cctv.com/2025/07/17/ARTIygcsR6DQPguSHHfwqj0x250717.shtml)
+
++ [叙多地遭以空袭，以色列为何强势介入叙南部武装冲突](https://news.cctv.com/2025/07/17/ARTIaILhrgfqXyFLkX8EO275250717.shtml)
+
