@@ -171,3 +171,7 @@
 
 + [波兰正式召回驻匈牙利大使 降低双边外交关系级别](https://news.cctv.com/2025/07/17/ARTIzuWfnABF9VRJ5bi2Xtch250717.shtml)
 
++ [270余人遇难 印航客机黑匣子披露空难直接原因](https://news.cctv.com/2025/07/17/ARTIbW8WrHFVcpNsm7Y3m9tx250717.shtml)
+
++ [比利时著名音乐节场地发生火灾 现场浓烟滚滚](https://news.cctv.com/2025/07/17/ARTIunHX1vxPoksX7h0dzf6B250717.shtml)
+
