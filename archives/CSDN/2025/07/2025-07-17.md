@@ -221,3 +221,17 @@
 
 + [Linux的Ext系列文件系统](https://blog.csdn.net/2302_80310672/article/details/149397295)
 
++ [4G模块 A7680通过MQTT协议连接到腾讯云](https://blog.csdn.net/qq_41954594/article/details/149423316)
+
++ [YOLOv3 技术深度解析：从理论到实践的完整指南](https://blog.csdn.net/weixin_51390582/article/details/149395327)
+
++ [Vue - 解决启动报错 Failed to compile with 1 errors 但是error没有错误信息，vue运行时报错但是没有错误提示日志信息（有报错但是没有错误提示，详细排查解决）](https://blog.csdn.net/weixin_44198965/article/details/149421341)
+
++ [Claude Code深度体验：重新定义AI辅助编程的边界](https://blog.csdn.net/lovely_yoshino/article/details/149152190)
+
++ [B/S 架构通信原理详解](https://blog.csdn.net/weixin_51288065/article/details/149341565)
+
++ [如何在硬件中进行有效地调试](https://blog.csdn.net/leo__520/article/details/149408200)
+
++ [阿里云-通义灵码：隐私保护机制—为数据安全筑起铜墙铁壁](https://blog.csdn.net/Pocker_Spades_A/article/details/149121348)
+
