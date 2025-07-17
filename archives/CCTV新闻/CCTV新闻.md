@@ -171,3 +171,5 @@
 
 + [德国央行行长：美国关税措施可能令德国经济失去增长前景](https://news.cctv.com/2025/07/18/ARTIIauMLRctHxC9mh8hZApS250718.shtml)
 
++ [中东11国联合声明反对外国干涉叙利亚事务](https://news.cctv.com/2025/07/18/ARTI1WLLAIgMdDRYx0NoQaWe250718.shtml)
+

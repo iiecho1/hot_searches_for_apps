@@ -133,3 +133,5 @@
 
 + [数学领域中的难题与解决方案](https://blog.csdn.net/universsky2015/article/details/149410419)
 
++ [图机器学习（10）——监督学习中的图神经网络](https://blog.csdn.net/LOVEmy134611/article/details/148651281)
+
