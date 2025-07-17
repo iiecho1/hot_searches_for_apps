@@ -175,3 +175,23 @@
 
 + [比利时著名音乐节场地发生火灾 现场浓烟滚滚](https://news.cctv.com/2025/07/17/ARTIunHX1vxPoksX7h0dzf6B250717.shtml)
 
++ [美国20个州起诉特朗普政府 民主党指责政府应对洪灾不力](https://news.cctv.com/2025/07/17/ARTIZsp5yU8v7W7xrfTklWVb250717.shtml)
+
++ [美国关税政策开始让美国消费者钱包缩水 经济学家对此发出警告](https://news.cctv.com/2025/07/17/ARTIZWMQWAd4RbtuoyNMUrIx250717.shtml)
+
++ [欧盟公布2万亿欧元七年期预算案 筹资方案引争议](https://news.cctv.com/2025/07/17/ARTImSl3166dZDmISquWLNk5250717.shtml)
+
++ [调查转向机组操作失误 黑匣子录音披露印航空难直接原因](https://news.cctv.com/2025/07/17/ARTIPOQ2RmRRO3gZgE7Y8pCm250717.shtml)
+
++ [以色列空袭叙“总统府”附近等地致1死18伤](https://photo.cctv.com/2025/07/17/PHOAskJkN32Fct0Nm0GPjZtI250717.shtml)
+
++ [特朗普称解雇鲍威尔“可能性极低”](https://news.cctv.com/2025/07/17/ARTIwRATmjN1a8hd9eXxeJUm250717.shtml)
+
++ [在建17年 最终遭“断粮” 特朗普宣布终止加州高铁的联邦资助](https://news.cctv.com/2025/07/17/ARTIOXGAKXP7Y5E64jFwOO1e250717.shtml)
+
++ [中马互免签证协定正式生效！中国护照“含金量”不断上升](https://news.cctv.com/2025/07/17/ARTI0DSarV8FcSj3qFDDr4wD250717.shtml)
+
++ [驻冰岛使馆提醒在冰中国公民及游客注意防范火山喷发危险](https://news.cctv.com/2025/07/17/ARTIz4I9DvNniVUgMJscFQkf250717.shtml)
+
++ [驻哥伦比亚使馆提醒中国公民切勿参与并高度警惕被动卷入毒品犯罪活动](https://news.cctv.com/2025/07/17/ARTIrlpCLf86bOz3Pi0aU3CF250716.shtml)
+
