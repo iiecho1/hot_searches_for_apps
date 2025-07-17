@@ -183,3 +183,11 @@
 
 + [从动态规划到贪心算法&活动选择问题](https://blog.csdn.net/qq_43276566/article/details/148637836)
 
++ [2025-07-15通过边缘线检测图像里的主体有没有出血](https://blog.csdn.net/m0_58149406/article/details/149365519)
+
++ [Java后端开发核心笔记：分层架构、注解与面向对象精髓](https://blog.csdn.net/m0_70660627/article/details/149409482)
+
++ [HTTP性能优化实战指南（含代码/图表/案例）](https://blog.csdn.net/zzywxc787/article/details/149386179)
+
++ [开源浪潮下的中国力量：文心一言大模型本地部署与应用全攻略](https://blog.csdn.net/weixin_61587867/article/details/149337777)
+
