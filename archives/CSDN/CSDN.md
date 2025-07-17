@@ -129,3 +129,7 @@
 
 + [C#.NET BackgroundService 详解](https://blog.csdn.net/tangPHP/article/details/149408259)
 
++ [数据降维方法：PCA](https://blog.csdn.net/2301_81197800/article/details/149408654)
+
++ [数学领域中的难题与解决方案](https://blog.csdn.net/universsky2015/article/details/149410419)
+
