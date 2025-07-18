@@ -173,3 +173,5 @@
 
 + [中东11国联合声明反对外国干涉叙利亚事务](https://news.cctv.com/2025/07/18/ARTI1WLLAIgMdDRYx0NoQaWe250718.shtml)
 
++ [菲律宾以东洋面生成今年第6号台风“韦帕”](https://news.cctv.com/2025/07/18/ARTIjUEim6wFUB4RTpqcfhVF250718.shtml)
+

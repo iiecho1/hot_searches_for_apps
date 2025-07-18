@@ -139,3 +139,7 @@
 
 + [UE5多人MOBA+GAS 25、创建数据表初始化属性，使用MMC计算伤害](https://blog.csdn.net/A99639/article/details/149423759)
 
++ [RabbitMQ第三章（企业级MQ应用方案）](https://blog.csdn.net/Du_XiaoNan/article/details/149345505)
+
++ [【源力觉醒 创作者计划】百度携文心 4.5 入局，开源大模型市场再添一员猛将，与 Qwen3 对比如何？](https://blog.csdn.net/IRpickstars/article/details/149386319)
+

@@ -31,3 +31,9 @@
 
 + [网传比亚迪 CEO 王传福现身小米汽车工厂，雷军亲自陪同](https://m.ithome.com/html/868918.htm)
 
++ [京东回应外卖“0 元购”大战：是严重内卷、恶性竞争，我们完全没参与](https://m.ithome.com/html/868891.htm)
+
++ [7999 元 → 5305 元：苹果 M4 MacBook Air 轻薄本超级 18 国补探底](https://m.ithome.com/html/868923.htm)
+
++ [理想汽车 CEO 李想：希望以后也能没有大小订、发布会，官网直接开卖](https://m.ithome.com/html/868763.htm)
+
