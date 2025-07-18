@@ -109,3 +109,23 @@
 
 + [快速开发汽车充电桩的屏幕驱动与语音提示方案](https://blog.csdn.net/Waytronic_/article/details/149402978)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式存储在云计算数据中心数据管理与调度中的应用（348）](https://blog.csdn.net/atgfg/article/details/149408804)
+
++ [C++完全攻略：从新手到高手的编程进化之路](https://blog.csdn.net/czx_163/article/details/149433632)
+
++ [Spring AI之Prompt开发](https://blog.csdn.net/m0_62943934/article/details/149422903)
+
++ [Python 网络爬虫 —— 提交信息到网页](https://blog.csdn.net/2501_91237346/article/details/149431909)
+
++ [Python实现的通用AI模型全方位测试完整方案（10万字）](https://blog.csdn.net/sixpp/article/details/148977231)
+
++ [当OT遇见IT：Apache IoTDB如何用“时序空间一体化“技术破解工业物联网数据孤岛困局？](https://blog.csdn.net/2401_82648291/article/details/149435895)
+
++ [MyBatis 之配置与映射核心要点解析](https://blog.csdn.net/qq_46987323/article/details/149429870)
+
++ [【源力觉醒 创作者计划】百度文心大模型ERNIE 4.5系列：重塑大模型效能边界的技术革命](https://blog.csdn.net/qq_33681891/article/details/149433083)
+
++ [Lotus-基于大模型的查询引擎 -开源学习整理](https://blog.csdn.net/weixin_65403042/article/details/149431739)
+
++ [ARM+FPGA 伺服驱动：高速双向数据流通信内容](https://blog.csdn.net/leichaohahah/article/details/149410102)
+
