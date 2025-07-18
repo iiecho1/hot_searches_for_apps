@@ -161,3 +161,5 @@
 
 + [美20个州起诉特朗普政府　要求恢复防灾减灾计划](https://news.cctv.com/2025/07/17/ARTIEsUvXMRhe6N0r0fCIGTD250717.shtml)
 
++ [巴西联邦最高法院裁定前总统博索纳罗危害国家主权](https://news.cctv.com/2025/07/19/ARTIViDWc00TtgSysw7hCtws250719.shtml)
+

@@ -133,3 +133,5 @@
 
 + [使用DDR4控制器实现多通道数据读写(二十)](https://blog.csdn.net/weixin_38828382/article/details/149386491)
 
++ [一文读懂循环神经网络—从零实现长短期记忆网络（LSTM）](https://blog.csdn.net/wh1236666/article/details/149384699)
+
