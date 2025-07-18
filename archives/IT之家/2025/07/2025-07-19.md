@@ -49,3 +49,9 @@
 
 + [消息称外卖“疯狂星期六”美团单日补贴 4 亿，淘宝闪购超 12 亿](https://m.ithome.com/html/869093.htm)
 
++ [京东回应外卖“0 元购”大战：是严重内卷、恶性竞争，我们完全没参与](https://m.ithome.com/html/868891.htm)
+
++ [7999 元 → 5305 元：苹果 M4 MacBook Air 轻薄本超级 18 国补探底](https://m.ithome.com/html/868923.htm)
+
++ [理想汽车 CEO 李想：希望以后也能没有大小订、发布会，官网直接开卖](https://m.ithome.com/html/868763.htm)
+
