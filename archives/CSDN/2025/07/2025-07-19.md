@@ -101,3 +101,11 @@
 
 + [IoTDB 深度剖析：物联网数据存储的利器与注册全攻略](https://blog.csdn.net/lrq13965748542/article/details/149419227)
 
++ [基于在线地图的路径规划测评对比-综合对比城区、农村及城乡结合处的导航](https://blog.csdn.net/yelangkingwuzuhu/article/details/149372786)
+
++ [DAY 18 推断聚类后簇的类型](https://blog.csdn.net/weixin_59002083/article/details/149446896)
+
++ [周志华《机器学习导论》第8章 集成学习 Ensemble Learning](https://blog.csdn.net/nju_spy/article/details/149419164)
+
++ [快速开发汽车充电桩的屏幕驱动与语音提示方案](https://blog.csdn.net/Waytronic_/article/details/149402978)
+
