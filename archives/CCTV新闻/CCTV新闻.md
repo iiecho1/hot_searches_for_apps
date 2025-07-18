@@ -175,3 +175,13 @@
 
 + [菲律宾以东洋面生成今年第6号台风“韦帕”](https://news.cctv.com/2025/07/18/ARTIjUEim6wFUB4RTpqcfhVF250718.shtml)
 
++ [特朗普称将就“假新闻”起诉《华尔街日报》](https://news.cctv.com/2025/07/18/ARTIzMXDOU1CAZl4lslqkcvE250718.shtml)
+
++ [苏丹西部遭遇多次袭击 造成数十名平民死亡](https://news.cctv.com/2025/07/18/ARTIutmDtRZO4F1pc5I3HqHF250718.shtml)
+
++ [专访丨金砖合作机制为全球治理改革注入“南方力量”——访英国学者马丁·雅克](https://news.cctv.com/2025/07/18/ARTIN06Oy4jMuLj9cbZWLSo0250718.shtml)
+
++ [尹锡悦抵达首尔中央地方法院 将出席拘留适当性审查](https://news.cctv.com/2025/07/18/ARTIWyFJS2gZlkftIZvTCmw2250718.shtml)
+
++ [特朗普称爱泼斯坦案系炒作 要求公开陪审团全部证词](https://news.cctv.com/2025/07/18/ARTIHDOYL5abKcK9YoD0YnKR250718.shtml)
+

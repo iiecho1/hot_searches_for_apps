@@ -143,3 +143,11 @@
 
 + [【源力觉醒 创作者计划】百度携文心 4.5 入局，开源大模型市场再添一员猛将，与 Qwen3 对比如何？](https://blog.csdn.net/IRpickstars/article/details/149386319)
 
++ [时序数据库选型实战：为什么我们最终选择了 IoTDB？](https://blog.csdn.net/u014727709/article/details/149428684)
+
++ [时序数据库 Apache IoTDB 实战：基于 Kubernetes 的部署运维全指南](https://blog.csdn.net/weixin_62765017/article/details/149428466)
+
++ [Excel工作表保护全攻略：从单表到批量处理的VBA实战指南](https://blog.csdn.net/Start_mswin/article/details/149408067)
+
++ [YOLOv9刀具磨损实时监控：从图像采集到预测维护全栈实现](https://blog.csdn.net/weixin_39815573/article/details/149396203)
+
