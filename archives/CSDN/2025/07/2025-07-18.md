@@ -183,3 +183,11 @@
 
 + [嵌入式时钟系统](https://blog.csdn.net/weixin_73635496/article/details/149413948)
 
++ [人工智能与心理史学：从阿西莫夫的科幻预言到可计算社会模型](https://blog.csdn.net/Liudef06/article/details/149435395)
+
++ [大型语言模型的白日梦循环](https://blog.csdn.net/2301_79342058/article/details/149432971)
+
++ [Redis分布式锁深度剖析：从原理到高可用实践](https://blog.csdn.net/JouJz/article/details/149388471)
+
++ [TASK01【datawhale组队学习】地瓜机器人具身智能概述](https://blog.csdn.net/m0_52024881/article/details/149302663)
+
