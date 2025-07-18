@@ -197,3 +197,9 @@
 
 + [韩国多地遭遇破纪录暴雨 已致4人死亡](https://news.cctv.com/2025/07/18/ARTIk42xQJ6KztyXRyv13o3Q250718.shtml)
 
++ [今起 中老铁路新增昆明至万象第二对国际旅客列车](https://news.cctv.com/2025/07/18/ARTI7RhEwg5qvbIxGzV1pACw250718.shtml)
+
++ [威尼斯国际建筑双年展中国馆展览](https://photo.cctv.com/2025/07/18/PHOA7xCUVWu0c1AqxYvVuzYh250718.shtml)
+
++ [韩特检组提交尹锡悦拘留资料 就其健康状况作说明](https://news.cctv.com/2025/07/18/ARTI3c71zT3lhKr6qVBC2wol250718.shtml)
+
