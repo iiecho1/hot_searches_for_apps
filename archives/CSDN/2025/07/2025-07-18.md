@@ -165,3 +165,5 @@
 
 + [python 基于 httpx 的流式请求](https://blog.csdn.net/cliffordl/article/details/149359900)
 
++ [[源力觉醒 创作者计划]_文心一言 4.5开源深度解析:性能狂飙 + 中文专精](https://blog.csdn.net/2302_79751907/article/details/149363027)
+

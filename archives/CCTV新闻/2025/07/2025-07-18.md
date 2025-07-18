@@ -207,3 +207,5 @@
 
 + [朝鲜谴责日本政府2025年版《防卫白皮书》](https://news.cctv.com/2025/07/18/ARTIKDsqQ4w3B8HYFinn0Lnx250718.shtml)
 
++ [欧盟批准新一轮对俄制裁方案](https://news.cctv.com/2025/07/18/ARTIzZFJYj6YEHFAlXyG8sFj250718.shtml)
+
