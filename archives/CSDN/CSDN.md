@@ -167,3 +167,7 @@
 
 + [[源力觉醒 创作者计划]_文心一言 4.5开源深度解析:性能狂飙 + 中文专精](https://blog.csdn.net/2302_79751907/article/details/149363027)
 
++ [快速开发汽车充电桩的屏幕驱动与语音提示方案](https://blog.csdn.net/Waytronic_/article/details/149402978)
+
++ [基于YOLO与RKNN的模型训练与部署指南 （第二十届全国大学生智能汽车竞赛 渡众车车对抗赛）](https://blog.csdn.net/zhuoqingjoking97298/article/details/149388376)
+
