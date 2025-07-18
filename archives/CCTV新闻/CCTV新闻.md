@@ -185,3 +185,15 @@
 
 + [特朗普称爱泼斯坦案系炒作 要求公开陪审团全部证词](https://news.cctv.com/2025/07/18/ARTIHDOYL5abKcK9YoD0YnKR250718.shtml)
 
++ [美议员举报鲍威尔在美联储翻修项目中“作伪证”](https://news.cctv.com/2025/07/18/ARTICLZY2i4JHkyNh9VRkvwu250718.shtml)
+
++ [强势介入叙南部冲突 以色列为何要“保护德鲁兹人”？](https://news.cctv.com/2025/07/18/ARTIY9CaBiQX8dIgZfpTE50v250718.shtml)
+
++ [小腿出现肿胀，特朗普患上的静脉疾病是什么？](https://news.cctv.com/2025/07/18/ARTIBJztPchd0vJWqRrEwjlV250718.shtml)
+
++ [印尼获美国较低关税 交易式外交达成“不良先例”？](https://news.cctv.com/2025/07/18/ARTI3FXZfn2SZpv1iSp1lJf8250718.shtml)
+
++ [欧盟正准备针对美国服务业的潜在报复清单，包含科技巨头](https://news.cctv.com/2025/07/18/ARTIXtcvkhmw5RvWGdde10xd250718.shtml)
+
++ [韩国多地遭遇破纪录暴雨 已致4人死亡](https://news.cctv.com/2025/07/18/ARTIk42xQJ6KztyXRyv13o3Q250718.shtml)
+
