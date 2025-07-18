@@ -27,3 +27,21 @@
 
 + [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
 
++ [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
+
++ [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+
++ [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+
++ [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
+
++ [influxdata/telegraf](https://github.com/influxdata/telegraf)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
+
++ [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
+
++ [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
+

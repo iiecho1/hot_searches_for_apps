@@ -191,3 +191,5 @@
 
 + [TASK01【datawhale组队学习】地瓜机器人具身智能概述](https://blog.csdn.net/m0_52024881/article/details/149302663)
 
++ [Redis GEO 地理位置功能详解](https://blog.csdn.net/qq_41840843/article/details/148643488)
+
