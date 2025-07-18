@@ -53,3 +53,5 @@
 
 + [最近好多机场被墙了](https://www.v2ex.com/t/1146096)
 
++ [NextDevKit - 终极 Next.js 模板，解决部署难题](https://www.v2ex.com/t/1145981)
+

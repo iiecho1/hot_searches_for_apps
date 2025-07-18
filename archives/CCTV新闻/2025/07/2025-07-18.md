@@ -211,3 +211,13 @@
 
 + [爱泼斯坦案难降温 特朗普反复改口 马斯克直接开喷](https://news.cctv.com/2025/07/18/ARTI4AZByA3OiyCU9zpFpmfA250718.shtml)
 
++ [全球瞭望丨英媒：贸易威胁与高关税冲击美国国际信誉](https://news.cctv.com/2025/07/18/ARTIYy6OCUCmJBrNIJzW2dDp250718.shtml)
+
++ [通讯丨“不要把所有鸡蛋放进一个篮子”——克罗地亚食品出口商感受美关税之痛](https://news.cctv.com/2025/07/18/ARTI4bnDdhDjo3UgzzuwiLYh250718.shtml)
+
++ [共话中国经济新机遇丨专访：供应链韧性的核心是合作 期待进一步融入中国创新生态——访美国安森美公司全球高级副总裁马库斯·克奈费尔](https://news.cctv.com/2025/07/18/ARTI11NznB52LalVQGPZ00FV250718.shtml)
+
++ [伊拉克库区油田等多地遭无人机袭击 国际油价上涨](https://news.cctv.com/2025/07/18/ARTIQGyS4hGcqTzilQPpImrD250718.shtml)
+
++ [欧盟理事会通过修订案 将天然气储备政策延长两年](https://news.cctv.com/2025/07/18/ARTIPhyGjzXt0phpDv8vlAmY250718.shtml)
+

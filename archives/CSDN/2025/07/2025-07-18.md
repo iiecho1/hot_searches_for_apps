@@ -171,3 +171,15 @@
 
 + [基于YOLO与RKNN的模型训练与部署指南 （第二十届全国大学生智能汽车竞赛 渡众车车对抗赛）](https://blog.csdn.net/zhuoqingjoking97298/article/details/149388376)
 
++ [大模型之Spring AI实战系列（三十七）：Spring Boot + Ollama 实现多模态交互功能](https://blog.csdn.net/xiaobing259/article/details/149332656)
+
++ [基于YOLOv11的水面垃圾智能检测系统](https://blog.csdn.net/lydz1/article/details/149431956)
+
++ [C++完全攻略：从新手到高手的编程进化之路](https://blog.csdn.net/czx_163/article/details/149433632)
+
++ [如何学好算法—算法往事：关于计算的那些事【好书推荐】](https://blog.csdn.net/weixin_52908342/article/details/149397109)
+
++ [opencv知识点总结](https://blog.csdn.net/weixin_44965579/article/details/149374448)
+
++ [嵌入式时钟系统](https://blog.csdn.net/weixin_73635496/article/details/149413948)
+
