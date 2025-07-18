@@ -55,3 +55,5 @@
 
 + [NextDevKit - 终极 Next.js 模板，解决部署难题](https://www.v2ex.com/t/1145981)
 
++ [A7C2 or R8? 摄影小白求推荐相机](https://www.v2ex.com/t/1145993)
+

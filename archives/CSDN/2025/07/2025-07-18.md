@@ -193,3 +193,11 @@
 
 + [Redis GEO 地理位置功能详解](https://blog.csdn.net/qq_41840843/article/details/148643488)
 
++ [解锁时序数据库选型密码，为何国产开源时序数据库IoTDB脱颖而出？](https://blog.csdn.net/beautifulmemory/article/details/149442075)
+
++ [神经网络构建](https://blog.csdn.net/2302_77067662/article/details/149427913)
+
++ [Spring Boot 中 META-INF 的作用与功能详解](https://blog.csdn.net/weixin_39970883/article/details/149421445)
+
++ [IoTDB 深度剖析：物联网数据存储的利器与注册全攻略](https://blog.csdn.net/lrq13965748542/article/details/149419227)
+
