@@ -163,3 +163,15 @@
 
 + [巴西联邦最高法院裁定前总统博索纳罗危害国家主权](https://news.cctv.com/2025/07/19/ARTIViDWc00TtgSysw7hCtws250719.shtml)
 
++ [哈马斯：愿达成全面停火协议 但遭到以色列拒绝](https://news.cctv.com/2025/07/19/ARTI9t527hLPWFZKXERhzfAV250719.shtml)
+
++ [苏丹武装部队总司令要求作战部队全面撤出首都地区](https://news.cctv.com/2025/07/19/ARTIg2z1H0krUc7YiapUID4E250719.shtml)
+
++ [以军称拦截也门方向来袭导弹 多地响起防空警报](https://news.cctv.com/2025/07/19/ARTIGZZPHxmxBAKmCaPvnuNN250719.shtml)
+
++ [美国总统特朗普签署稳定币相关法案](https://news.cctv.com/2025/07/19/ARTIutVZNupGR32QYkdehdgy250719.shtml)
+
++ [“鳄鱼恶魔岛”后再出新招 美将利用军事基地关押非法移民](https://news.cctv.com/2025/07/19/ARTIDUHypquELeCv8Hc0z1Y0250719.shtml)
+
++ [爱泼斯坦案持续升温 特朗普起诉传媒大亨默多克和《华尔街日报》记者](https://news.cctv.com/2025/07/19/ARTIaNnysmuUC3V7SzAQXzSs250719.shtml)
+
