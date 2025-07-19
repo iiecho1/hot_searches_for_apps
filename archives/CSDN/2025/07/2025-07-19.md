@@ -191,3 +191,11 @@
 
 + [Ubuntu系统下交叉编译Android的X265库](https://blog.csdn.net/wangyongyao1989/article/details/149421186)
 
++ [时序数据库选型指南：为什么 Apache IoTDB 正在成为工业大数据的首选？](https://blog.csdn.net/liu_chen_yang/article/details/149418800)
+
++ [时序数据库选型终极对决：国产IoTDB凭什么在物联网杀出重围？](https://blog.csdn.net/linshantang/article/details/149462787)
+
++ [图机器学习（13）——图相似性检测](https://blog.csdn.net/LOVEmy134611/article/details/148744727)
+
++ [嵌入式学习-PyTorch（7）-day23](https://blog.csdn.net/liuguangqia/article/details/149430820)
+

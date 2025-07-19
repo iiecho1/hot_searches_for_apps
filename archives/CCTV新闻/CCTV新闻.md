@@ -197,3 +197,11 @@
 
 + [澳大利亚向乌克兰交付首批“艾布拉姆斯”坦克](https://military.cctv.com/2025/07/19/ARTIC9tuuUJcO7QILt5RfK4y250719.shtml)
 
++ [“对印航空难报道不实” 印飞行员联合会向部分美英媒体发律师函](https://news.cctv.com/2025/07/19/ARTIXTisxpRPmdwq8QRsJbXh250719.shtml)
+
++ [刚果（金）政府与“M23运动”就结束冲突签署原则声明](https://news.cctv.com/2025/07/19/ARTIdVVAnFS4I8fmdl9PqiVg250719.shtml)
+
++ [法国艾克斯-马赛大学将迎来31名离美研究人员](https://news.cctv.com/2025/07/19/ARTIIE61BOZuMFeRunYi63uo250719.shtml)
+
++ [刚果（金）政府与反政府武装“M23运动”就结束冲突签署原则宣言](https://news.cctv.com/2025/07/19/ARTIOHWLDH6LAqSAQo2QOV2L250719.shtml)
+
