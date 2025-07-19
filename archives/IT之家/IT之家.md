@@ -29,3 +29,27 @@
 
 + [腾讯 QQ 正式上线鸿蒙电脑版](https://m.ithome.com/html/869216.htm)
 
++ [魅族产品经理张月离职，仅任职 5 个月曾主讲 Note 16 系列手机发布会](https://m.ithome.com/html/869309.htm)
+
++ [华为原“Petal 地图”正式更新为“花瓣地图”](https://m.ithome.com/html/869324.htm)
+
++ [手机形态充电宝？10000mAh 大电池国产中端新机曝光，厚度不到 8.5mm](https://m.ithome.com/html/869336.htm)
+
++ [小米汽车：行驶过程中误操作换挡拨杆，不会对车辆产生影响](https://m.ithome.com/html/869236.htm)
+
++ [苹果 iPhone 17 系列 4 款机型颜色阵容渲染图曝光：多彩选择](https://m.ithome.com/html/869245.htm)
+
++ [消息称小米玄戒 O2 及 5G 基带推进中，全终端覆盖实现 O2 芯片首次上车](https://m.ithome.com/html/869304.htm)
+
++ [消息称华为新机开案 6480mAh / 6600mAh 大电池，预计为中端机](https://m.ithome.com/html/869277.htm)
+
++ [高德地图开放平台“世界地图服务”全新上线：覆盖 200+ 国家和地区，海内外无缝切换](https://m.ithome.com/html/869240.htm)
+
++ [时隔 9 年，美国机场仍告示乘客禁止携带三星 Galaxy Note 7 手机](https://m.ithome.com/html/869299.htm)
+
++ [全新小鹏 P7 紫色款实车曝光，今年三季度发布](https://m.ithome.com/html/869286.htm)
+
++ [Speedtest 全球宽带网速榜：中国三城上榜，北京上海跻身前五并超越美国](https://m.ithome.com/html/869285.htm)
+
++ [京东向一线劳动者捐赠 1000 台空调，美的、格力等品牌参与](https://m.ithome.com/html/869265.htm)
+
