@@ -31,3 +31,17 @@
 
 + [strapi/strapi](https://github.com/strapi/strapi)
 
++ [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+
++ [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+
++ [github/github-mcp-server](https://github.com/github/github-mcp-server)
+
++ [bknd-io/bknd](https://github.com/bknd-io/bknd)
+
++ [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+
++ [actions/runner-images](https://github.com/actions/runner-images)
+
++ [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
+
