@@ -149,3 +149,13 @@
 
 + [验证码绕过：Captcha Solver](https://blog.csdn.net/weixin_44306281/article/details/149442498)
 
++ [Elasticsearch+Logstash+Filebeat+Kibana部署【7.1.1版本】](https://blog.csdn.net/2503_91960863/article/details/149430768)
+
++ [首个直播流扩散(LSD)AI模型：MirageLSD，它可以实时把任意视频流转换成你的自定义服装风格——虚拟换装新体验](https://blog.csdn.net/qq_44866828/article/details/149454694)
+
++ [构建智能客服Agent：从需求分析到生产部署](https://blog.csdn.net/IRpickstars/article/details/149437559)
+
++ [【Qt开发】Qt的背景介绍（三）-＞ 认识Qt Creator](https://blog.csdn.net/weixin_74809706/article/details/149337109)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | GoodCheapFast（Good - Cheap - Fast三选二开关）](https://blog.csdn.net/qq_44808710/article/details/149426512)
+
