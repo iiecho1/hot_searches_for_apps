@@ -33,3 +33,7 @@
 
 + [夏天的周末，在家费电，出门费钱，所以夏天的周末怎么才能不无聊一点](https://www.v2ex.com/t/1146131)
 
++ [[吐槽] 阿里云 ECI 计费「迷雾」：让人血压上升的真实遭遇](https://www.v2ex.com/t/1146128)
+
++ [Homebrew 的 maintainer 真的是有点魔怔了](https://www.v2ex.com/t/1146247)
+

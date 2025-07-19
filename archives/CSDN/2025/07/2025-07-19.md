@@ -159,3 +159,15 @@
 
 + [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | GoodCheapFast（Good - Cheap - Fast三选二开关）](https://blog.csdn.net/qq_44808710/article/details/149426512)
 
++ [Java 大视界 -- Java 大数据在智能医疗电子健康档案数据挖掘与健康服务创新中的应用（350）](https://blog.csdn.net/atgfg/article/details/149447992)
+
++ [卷积神经网络--网络性能提升](https://blog.csdn.net/2201_75762674/article/details/149425198)
+
++ [数据分析智能体：让AI成为你的数据科学家](https://blog.csdn.net/IRpickstars/article/details/149456766)
+
++ [用 Ray 跨节点调用 GPU 部署 DeepSeek 大模型，实现分布式高效推理](https://blog.csdn.net/qq_34200979/article/details/149396902)
+
++ [深入GPU硬件架构及运行机制](https://blog.csdn.net/qq_25978293/article/details/149401216)
+
++ [Zabbix 分布式监控系统架构设计与优化](https://blog.csdn.net/qq_37182070/article/details/149426509)
+
