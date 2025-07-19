@@ -165,3 +165,13 @@
 
 + [受“爱泼斯坦案”影响 特朗普阵营裂痕扩大](https://news.cctv.com/2025/07/20/ARTItwxEIKugJWgo0sb61s2H250719.shtml)
 
++ [泽连斯基说乌方向俄方提议下周举行第三轮谈判](https://news.cctv.com/2025/07/20/ARTISH6LFNytaWkMYbFZKazk250720.shtml)
+
++ [美国加快扩建移民拘留营 计划年底前将床位扩至10万张](https://news.cctv.com/2025/07/20/ARTIbqFf7ns3FBX6vfotNXYv250720.shtml)
+
++ [叙利亚政权称苏韦达市冲突已停止](https://news.cctv.com/2025/07/20/ARTIqZOv1Hh9DUilTJcE1R01250720.shtml)
+
++ [英法德急推欧洲独立核威慑力 学者称此举无法获得持久和平](https://news.cctv.com/2025/07/20/ARTIgzfRrypPsH83ePWAU1zG250720.shtml)
+
++ [日本第27届参议院选举开始投票 执政联盟能否维持过半议席？](https://news.cctv.com/2025/07/20/ARTISlaTlkwxwdPp54cJ8gwi250720.shtml)
+

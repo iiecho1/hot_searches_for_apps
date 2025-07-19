@@ -21,3 +21,5 @@
 
 + [看到 Livid 站长早期研究 Bitcoin 的文章有点感慨](https://www.v2ex.com/t/1146246)
 
++ [Cursor 中国大陆全面封锁了，想换 trae，结果发现支持的国家和地区也没有中国大陆？](https://www.v2ex.com/t/1146314)
+
