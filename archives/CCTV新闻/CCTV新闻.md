@@ -189,3 +189,9 @@
 
 + [中国驻新加坡大使馆发言人就新有关媒体将网络攻击事件与中国相联系发表谈话](https://news.cctv.com/2025/07/19/ARTIcxOils0WYiDIP7OtIzv7250719.shtml)
 
++ [西班牙持续高温两月致逾千人死亡 局地气温可达46摄氏度](https://news.cctv.com/2025/07/19/ARTIN528gBzj5AKLClIJAYxw250719.shtml)
+
++ [美国拒绝接受世卫组织《国际卫生条例》修正案](https://news.cctv.com/2025/07/19/ARTIqG22vm470xihXM8fCcBj250719.shtml)
+
++ [受无人机残骸影响 俄罗斯罗斯托夫州50多列火车延误](https://news.cctv.com/2025/07/19/ARTIFFw9RQ4l5f4tnzyB2L09250719.shtml)
+

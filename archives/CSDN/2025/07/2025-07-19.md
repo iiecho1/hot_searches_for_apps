@@ -177,3 +177,13 @@
 
 + [微信小程序商品结算功能](https://blog.csdn.net/xkxnq/article/details/149442352)
 
++ [为什么IoTDB成为物联网场景的技术优选？](https://blog.csdn.net/weixin_37800531/article/details/149439421)
+
++ [【现有资料整理】灵枢 - 用于医学领域的 SOTA 多模态大语言模型](https://blog.csdn.net/kkiron/article/details/149437496)
+
++ [MyBatis 动态 SQL：让 SQL 语句随条件灵活变化](https://blog.csdn.net/qq_46987323/article/details/149450852)
+
++ [数据挖掘实战-基于逻辑回归算法的结直肠癌生存预测模型](https://blog.csdn.net/m0_64336780/article/details/146132596)
+
++ [python网络爬虫(第一章/共三章：网络爬虫库、robots.txt规则（防止犯法）、查看获取网页源代码)](https://blog.csdn.net/2302_78022640/article/details/149428719)
+
