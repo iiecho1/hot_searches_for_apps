@@ -121,3 +121,9 @@
 
 + [网络安全二次作业](https://blog.csdn.net/2302_81629118/article/details/149417019)
 
++ [Kubernetes（k8s）中命令行查看Pod所属控制器之方法总结](https://blog.csdn.net/lmzf2011/article/details/149433210)
+
++ [4G模块 A7680发送中文短信到手机](https://blog.csdn.net/qq_41954594/article/details/149446381)
+
++ [【密码学】1. 引言](https://blog.csdn.net/m0_72516377/article/details/149454761)
+
