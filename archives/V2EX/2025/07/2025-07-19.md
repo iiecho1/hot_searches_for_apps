@@ -37,3 +37,7 @@
 
 + [Homebrew 的 maintainer 真的是有点魔怔了](https://www.v2ex.com/t/1146247)
 
++ [有在用 eSIM 的老哥来谈谈使用体验，有什么独到优势？真的有网上宣传的那样好吗？](https://www.v2ex.com/t/1146237)
+
++ [Google 有一个可以获取任意网站图标的 API](https://www.v2ex.com/t/1146187)
+
