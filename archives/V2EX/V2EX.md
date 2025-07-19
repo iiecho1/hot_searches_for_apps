@@ -47,3 +47,9 @@
 
 + [有没有体验不错的椅子](https://www.v2ex.com/t/1146211)
 
++ [做了一个搜索 TG 频道网盘资源的网站](https://www.v2ex.com/t/1146272)
+
++ [看到 Livid 站长早期研究 Bitcoin 的文章有点感慨](https://www.v2ex.com/t/1146246)
+
++ [各国的稳定币都出现了，看来 web3 已经无敌了](https://www.v2ex.com/t/1146268)
+

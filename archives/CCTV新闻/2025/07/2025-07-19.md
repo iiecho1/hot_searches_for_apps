@@ -195,3 +195,5 @@
 
 + [受无人机残骸影响 俄罗斯罗斯托夫州50多列火车延误](https://news.cctv.com/2025/07/19/ARTIFFw9RQ4l5f4tnzyB2L09250719.shtml)
 
++ [澳大利亚向乌克兰交付首批“艾布拉姆斯”坦克](https://military.cctv.com/2025/07/19/ARTIC9tuuUJcO7QILt5RfK4y250719.shtml)
+

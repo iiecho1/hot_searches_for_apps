@@ -187,3 +187,7 @@
 
 + [python网络爬虫(第一章/共三章：网络爬虫库、robots.txt规则（防止犯法）、查看获取网页源代码)](https://blog.csdn.net/2302_78022640/article/details/149428719)
 
++ [Elasticsearch 重命名索引](https://blog.csdn.net/UbuntuTouch/article/details/149459222)
+
++ [Ubuntu系统下交叉编译Android的X265库](https://blog.csdn.net/wangyongyao1989/article/details/149421186)
+
