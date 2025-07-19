@@ -213,3 +213,7 @@
 
 + [Excel工作表保护全攻略：从单表到批量处理的VBA实战指南](https://blog.csdn.net/Start_mswin/article/details/149408067)
 
++ [ChatGPT Agent深度解析：告别单纯问答，一个指令搞定复杂任务？](https://blog.csdn.net/qq_51646682/article/details/149466454)
+
++ [Python爱心光波](https://blog.csdn.net/m0_68111267/article/details/149462134)
+

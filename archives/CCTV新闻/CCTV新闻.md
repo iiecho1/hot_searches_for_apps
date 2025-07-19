@@ -207,3 +207,5 @@
 
 + [越南前国家领导人阮春福、武文赏、王庭惠等被解除党内职务](https://news.cctv.com/2025/07/19/ARTIE9EyPjyvmAFWDvDxzL2n250719.shtml)
 
++ [国际观察丨中国新能源汽车“链通”东南亚共赢未来](https://news.cctv.com/2025/07/19/ARTIn8WAdnIb4aIpPV6TsvCR250719.shtml)
+
