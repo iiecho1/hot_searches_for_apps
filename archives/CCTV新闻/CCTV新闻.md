@@ -181,3 +181,5 @@
 
 + [巴基斯坦延长对印度航班关闭领空至8月23日](https://news.cctv.com/2025/07/19/ARTIOQFGoGQsYri4Lz1kLpsM250719.shtml)
 
++ [台风“韦帕”已致菲律宾2人失踪 近10万人受灾](https://news.cctv.com/2025/07/19/ARTI8cX6pFrTtbYX5KrRlCRx250719.shtml)
+
