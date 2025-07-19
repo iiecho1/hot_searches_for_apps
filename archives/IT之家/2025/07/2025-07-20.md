@@ -25,3 +25,7 @@
 
 + [消息称外卖“疯狂星期六”美团单日补贴 4 亿，淘宝闪购超 12 亿](https://m.ithome.com/html/869093.htm)
 
++ [美国首条高铁“烂尾”：耗时 16 年、耗资 150 亿美元，却未铺设一条轨道](https://m.ithome.com/html/869227.htm)
+
++ [腾讯 QQ 正式上线鸿蒙电脑版](https://m.ithome.com/html/869216.htm)
+

@@ -101,3 +101,9 @@
 
 + [ARM+FPGA 伺服驱动：高速双向数据流通信内容](https://blog.csdn.net/leichaohahah/article/details/149410102)
 
++ [【现有资料整理】灵枢 - 用于医学领域的 SOTA 多模态大语言模型](https://blog.csdn.net/kkiron/article/details/149437496)
+
++ [[源力觉醒 创作者计划]_文心一言 4.5开源深度解析:性能狂飙 + 中文专精](https://blog.csdn.net/2302_79751907/article/details/149363027)
+
++ [深入GPU硬件架构及运行机制](https://blog.csdn.net/qq_25978293/article/details/149401216)
+

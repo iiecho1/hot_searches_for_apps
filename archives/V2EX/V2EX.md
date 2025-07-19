@@ -19,3 +19,5 @@
 
 + [突然发现了微波炉热咖啡的必要性](https://www.v2ex.com/t/1146290)
 
++ [看到 Livid 站长早期研究 Bitcoin 的文章有点感慨](https://www.v2ex.com/t/1146246)
+
