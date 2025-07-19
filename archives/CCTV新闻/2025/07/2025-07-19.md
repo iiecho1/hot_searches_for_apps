@@ -175,3 +175,9 @@
 
 + [爱泼斯坦案持续升温 特朗普起诉传媒大亨默多克和《华尔街日报》记者](https://news.cctv.com/2025/07/19/ARTIaNnysmuUC3V7SzAQXzSs250719.shtml)
 
++ [暑期跨境游升温 中老铁路增开国际旅客列车助力出行](https://news.cctv.com/2025/07/19/ARTIGk0yseaSrupGAA4eslOv250719.shtml)
+
++ [特朗普起诉默多克和新闻集团 索赔百亿美元](https://news.cctv.com/2025/07/19/ARTIdou8vXKq8iTWOjvGAIOB250719.shtml)
+
++ [巴基斯坦延长对印度航班关闭领空至8月23日](https://news.cctv.com/2025/07/19/ARTIOQFGoGQsYri4Lz1kLpsM250719.shtml)
+

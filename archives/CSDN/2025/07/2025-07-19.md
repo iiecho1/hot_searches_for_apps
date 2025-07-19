@@ -141,3 +141,11 @@
 
 + [硬件设计学习DAY6——电源BUCK-BOOST电路升降压设计全解析](https://blog.csdn.net/weixin_43260261/article/details/149397002)
 
++ [【Linux手册】缓冲区：深入浅出，从核心概念到实现逻辑](https://blog.csdn.net/2401_87944878/article/details/149277849)
+
++ [深入解析单HTML实现的网页版《我的世界》（附代码下载链接）](https://blog.csdn.net/qq_53544522/article/details/149437162)
+
++ [更适合后端宝宝的前端三件套之HTML](https://blog.csdn.net/2401_82690001/article/details/149318298)
+
++ [验证码绕过：Captcha Solver](https://blog.csdn.net/weixin_44306281/article/details/149442498)
+

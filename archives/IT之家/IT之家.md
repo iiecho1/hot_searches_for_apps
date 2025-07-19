@@ -55,3 +55,7 @@
 
 + [理想汽车 CEO 李想：希望以后也能没有大小订、发布会，官网直接开卖](https://m.ithome.com/html/868763.htm)
 
++ [美国首条高铁“烂尾”：耗时 16 年、耗资 150 亿美元，却未铺设一条轨道](https://m.ithome.com/html/869227.htm)
+
++ [腾讯 QQ 正式上线鸿蒙电脑版](https://m.ithome.com/html/869216.htm)
+
