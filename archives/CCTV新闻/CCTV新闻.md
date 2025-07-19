@@ -205,3 +205,5 @@
 
 + [刚果（金）政府与反政府武装“M23运动”就结束冲突签署原则宣言](https://news.cctv.com/2025/07/19/ARTIOHWLDH6LAqSAQo2QOV2L250719.shtml)
 
++ [越南前国家领导人阮春福、武文赏、王庭惠等被解除党内职务](https://news.cctv.com/2025/07/19/ARTIE9EyPjyvmAFWDvDxzL2n250719.shtml)
+

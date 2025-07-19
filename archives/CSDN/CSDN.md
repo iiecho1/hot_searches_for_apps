@@ -199,3 +199,11 @@
 
 + [嵌入式学习-PyTorch（7）-day23](https://blog.csdn.net/liuguangqia/article/details/149430820)
 
++ [医疗AI与融合数据库的整合：挑战、架构与未来展望（上）](https://blog.csdn.net/kkiron/article/details/149461767)
+
++ [【前沿技术动态】【AI总结】Spring Boot 4.0 预览版深度解析：云原生时代的新里程碑](https://blog.csdn.net/AlienProgrammer/article/details/149427321)
+
++ [Libevent(3)之使用教程(2)创建事件](https://blog.csdn.net/Once_day/article/details/149464764)
+
++ [【理想汽车智驾方案介绍专题 -1】端到端+VLM 方案介绍](https://blog.csdn.net/agorachenyun/article/details/149432768)
+
