@@ -161,3 +161,5 @@
 
 + [美议员举报鲍威尔在美联储翻修项目中“作伪证”](https://news.cctv.com/2025/07/18/ARTICLZY2i4JHkyNh9VRkvwu250718.shtml)
 
++ [日本开发出可预测卵巢功能的AI模型](https://news.cctv.com/2025/07/21/ARTItYZ5NHkZCb2fJkYwmUAn250720.shtml)
+
