@@ -101,3 +101,11 @@
 
 + [数字图像处理（三：图像如果当作矩阵，那加减乘除处理了矩阵，那图像咋变）：从LED冬奥会、奥运会及春晚等等大屏，到手机小屏，快来挖一挖里面都有什么](https://blog.csdn.net/m0_52436398/article/details/149471947)
 
++ [为什么IoTDB成为物联网场景的技术优选？](https://blog.csdn.net/weixin_37800531/article/details/149439421)
+
++ [相似度计算](https://blog.csdn.net/2401_88885149/article/details/149396499)
+
++ [小架构step系列19：请求和响应](https://blog.csdn.net/swingline/article/details/149472419)
+
++ [Pinia 核心知识详解：Vue3 新一代状态管理指南](https://blog.csdn.net/x15514104477/article/details/149488254)
+
