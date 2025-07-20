@@ -137,3 +137,5 @@
 
 + [Linux C 信号操作](https://blog.csdn.net/basketball616/article/details/149450363)
 
++ [python中深度学习的算法，如神经网络和卷积神经网络的使用](https://blog.csdn.net/qq_60079266/article/details/149308962)
+
