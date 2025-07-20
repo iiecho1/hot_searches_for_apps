@@ -239,3 +239,5 @@
 
 + [10万人！特朗普给钱后，美执法机构抢建移民监狱](https://news.cctv.com/2025/07/20/ARTIPTvp9gXX1NAfgEjgqpui250720.shtml)
 
++ [保加利亚在一过境外交车辆中查获近206公斤可卡因](https://news.cctv.com/2025/07/20/ARTIg2kmBPs9V9Dx4Y8Q5bG1250720.shtml)
+
