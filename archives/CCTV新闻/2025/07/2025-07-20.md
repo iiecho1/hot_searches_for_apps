@@ -221,3 +221,11 @@
 
 + [今年季风期极端天气频发致巴基斯坦203人死亡](https://news.cctv.com/2025/07/20/ARTIPVBA6ahTix4NM7rdwPFe250720.shtml)
 
++ [450亿美元充腰包 美国执法机关抢建移民监狱](https://news.cctv.com/2025/07/20/ARTIxHMjvBYzKVdn1hsfu0lB250720.shtml)
+
++ [全都在晃 视频记录下堪察加东岸远海强震瞬间](https://news.cctv.com/2025/07/20/ARTIIUtpsDmVSjlHoAoPK2MM250720.shtml)
+
++ [各国对俄制裁已超3万项 美国占比最高](https://news.cctv.com/2025/07/20/ARTIXBJCpMaoxf9gvqOHkyHG250720.shtml)
+
++ [波斯湾改阿拉伯湾？美国政府在改名上花了多少心思](https://news.cctv.com/2025/07/20/ARTIx6M8z7FztamoYKJigrAi250720.shtml)
+
