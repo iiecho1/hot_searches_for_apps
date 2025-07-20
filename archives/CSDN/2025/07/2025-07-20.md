@@ -187,3 +187,9 @@
 
 + [Spring Boot 与微服务详细总结](https://blog.csdn.net/m0_61261153/article/details/149466166)
 
++ [SpringBoot 整合 Langchain4j 实现会话记忆存储深度解析](https://blog.csdn.net/zhangcongyi420/article/details/149204909)
+
++ [深入理解 Linux 编译流程与动静态库](https://blog.csdn.net/2403_87581574/article/details/149466894)
+
++ [手撕Spring底层系列之：注解驱动的魔力与实现内幕](https://blog.csdn.net/Rqaqedamancy/article/details/149472156)
+

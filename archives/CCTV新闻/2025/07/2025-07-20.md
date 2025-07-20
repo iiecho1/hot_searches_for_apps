@@ -229,3 +229,5 @@
 
 + [波斯湾改阿拉伯湾？美国政府在改名上花了多少心思](https://news.cctv.com/2025/07/20/ARTIx6M8z7FztamoYKJigrAi250720.shtml)
 
++ [因技术原因，中国驻吉尔吉斯斯坦使馆7月24日暂停领事接待](https://news.cctv.com/2025/07/20/ARTIdzY8XBGh2EeRYURi0Z2V250720.shtml)
+

@@ -33,3 +33,19 @@
 
 + [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
 
++ [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+
++ [better-auth/better-auth](https://github.com/better-auth/better-auth)
+
++ [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
+
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
++ [roboflow/supervision](https://github.com/roboflow/supervision)
+
++ [tracel-ai/burn](https://github.com/tracel-ai/burn)
+
++ [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai)
+
++ [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+
