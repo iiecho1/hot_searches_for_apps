@@ -131,3 +131,7 @@
 
 + [大疆 PSDK (Payload SDK) 开发文档](https://blog.csdn.net/WWW12457/article/details/149467480)
 
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_睡眠记录日历示例（CalendarView01_30）](https://blog.csdn.net/qq_33650655/article/details/149476452)
+
++ [【音视频协议篇】RTSP系列](https://blog.csdn.net/jupangMZ/article/details/149465047)
+
