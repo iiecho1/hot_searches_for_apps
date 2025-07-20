@@ -201,3 +201,5 @@
 
 + [韩国连日暴雨已致14人死亡12人失踪](https://news.cctv.com/2025/07/20/ARTIOmYEa8JkLs20ZvCJzmGv250720.shtml)
 
++ [越南游船倾覆事故官方通报：游船实载49人 确认35人死亡4人失踪](https://news.cctv.com/2025/07/20/ARTIIsfWwxdGvS15a7R6aUbq250720.shtml)
+

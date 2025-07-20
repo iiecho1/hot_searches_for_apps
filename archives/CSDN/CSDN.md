@@ -159,3 +159,9 @@
 
 + [29、鸿蒙Harmony Next开发：深浅色适配和应用主题换肤](https://blog.csdn.net/yezuiqingxin/article/details/149440645)
 
++ [国产电科金仓数据库：融合进化，智领未来](https://blog.csdn.net/weixin_66401877/article/details/149461652)
+
++ [LEADTOOLS 使用实时捕获检测和提取队列-WinForms C# .NET 6](https://blog.csdn.net/john_dwh/article/details/149479030)
+
++ [基于 Electron + Vue 3 的桌面小说写作软件架构设计](https://blog.csdn.net/zhongguohaoshaonian/article/details/149425406)
+

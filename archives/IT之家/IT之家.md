@@ -61,3 +61,5 @@
 
 + [央视曝光“万能遥控器”，实测小区学校道闸随便开](https://m.ithome.com/html/869383.htm)
 
++ [零跑 D 系列旗舰 SUV 新车及跨界车 B05 谍照曝光，朱江明曾称分别主打超豪华、智能化](https://m.ithome.com/html/869323.htm)
+
