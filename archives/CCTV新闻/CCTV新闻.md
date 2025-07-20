@@ -203,3 +203,9 @@
 
 + [越南游船倾覆事故官方通报：游船实载49人 确认35人死亡4人失踪](https://news.cctv.com/2025/07/20/ARTIIsfWwxdGvS15a7R6aUbq250720.shtml)
 
++ [现场视频丨船长酒驾撞军舰传巨响 美军退役航母被“找茬”](https://news.cctv.com/2025/07/20/ARTIdpuZoym835kgTPefQWpr250720.shtml)
+
++ [美国力推稳定币暗藏哪些风险？又将如何重塑金融生态格局？一文了解↓](https://news.cctv.com/2025/07/20/ARTIN68jZOGXKACPJQLVmuzA250720.shtml)
+
++ [日本新版《防卫白皮书》暗藏危险图谋 应停止为自身强军扩武寻找借口](https://news.cctv.com/2025/07/20/ARTIeXP2dehcXp8R23kCryI9250720.shtml)
+

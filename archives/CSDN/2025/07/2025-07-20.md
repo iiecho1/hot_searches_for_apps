@@ -165,3 +165,5 @@
 
 + [基于 Electron + Vue 3 的桌面小说写作软件架构设计](https://blog.csdn.net/zhongguohaoshaonian/article/details/149425406)
 
++ [从智能代理到Agentic Web-MCP在去中心化互联网中的理论与代码实战](https://blog.csdn.net/weixin_52908342/article/details/149480061)
+
