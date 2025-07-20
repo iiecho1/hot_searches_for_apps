@@ -199,3 +199,9 @@
 
 + [CSS篇——第一章 六十五项关键技能（上篇）](https://blog.csdn.net/2403_88453964/article/details/149309031)
 
++ [一动一静皆消耗——IC设计之低功耗技术(Low Power Design)](https://blog.csdn.net/LogicYarn/article/details/149467869)
+
++ [从注册登录到对话，5天撸完一个AI对话助手：FastAPI+原生JS的极简实践](https://blog.csdn.net/kaidebaba/article/details/149448526)
+
++ [数字图像处理（三：图像如果当作矩阵，那加减乘除处理了矩阵，那图像咋变）：从LED冬奥会、奥运会及春晚等等大屏，到手机小屏，快来挖一挖里面都有什么](https://blog.csdn.net/m0_52436398/article/details/149471947)
+

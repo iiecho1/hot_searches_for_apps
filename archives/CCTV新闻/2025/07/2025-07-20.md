@@ -231,3 +231,11 @@
 
 + [因技术原因，中国驻吉尔吉斯斯坦使馆7月24日暂停领事接待](https://news.cctv.com/2025/07/20/ARTIdzY8XBGh2EeRYURi0Z2V250720.shtml)
 
++ [韩国连日暴雨已致17人死亡11人失踪](https://news.cctv.com/2025/07/20/ARTIszcaWmHtVjLmN7M6lFXj250720.shtml)
+
++ [出口民调：日本执政联盟预计将难以维持参议院过半席位](https://news.cctv.com/2025/07/20/ARTIKnxFpeOg1HZdGVhieUz9250720.shtml)
+
++ [俄乌第三轮谈判将继续选择伊斯坦布尔作为谈判地](https://news.cctv.com/2025/07/20/ARTIKoZAleU3LE5b4Tqz6N7V250720.shtml)
+
++ [10万人！特朗普给钱后，美执法机构抢建移民监狱](https://news.cctv.com/2025/07/20/ARTIPTvp9gXX1NAfgEjgqpui250720.shtml)
+

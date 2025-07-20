@@ -53,3 +53,7 @@
 
 + [打算油车置换纯电 suv 在纠结三款车 求推荐意见](https://www.v2ex.com/t/1146391)
 
++ [下个月 Debian 13 发布，可以来一波更新](https://www.v2ex.com/t/1146388)
+
++ [广州城中村宽带太气人了](https://www.v2ex.com/t/1146429)
+
