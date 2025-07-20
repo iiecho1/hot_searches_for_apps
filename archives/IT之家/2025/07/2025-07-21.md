@@ -41,3 +41,21 @@
 
 + [V 社回应“Steam 悄悄下架大批极端成人游戏”，系支付渠道 / 卡组织要求](https://m.ithome.com/html/869361.htm)
 
++ [一汽奥迪 A5L 先享礼遇价 25.68 万元起，高配版搭载华为乾崑智驾](https://m.ithome.com/html/869413.htm)
+
++ [华为手机 / 平板 7 月底前陆续升级鸿蒙 HarmonyOS 5.1 系统](https://m.ithome.com/html/869484.htm)
+
++ [网传“高铁不让吃方便面”，中国铁路 12306 回应称“在列车上应尽量选择味道较小的食物”](https://m.ithome.com/html/869480.htm)
+
++ [豪掷 7500 万元，比亚迪将赞助中国足协中国之队](https://m.ithome.com/html/869455.htm)
+
++ [英伟达 GPU 被曝严重漏洞，致模型准确率暴跌 99.9%](https://m.ithome.com/html/869414.htm)
+
++ [极氪：坚决反对“销售 0 公里二手车”等破坏行业秩序的行为，展车销售属于正常商业行为](https://m.ithome.com/html/869445.htm)
+
++ [苹果 M1 / M1 Max / M3 Max / M4 运行《赛博朋克 2077》macOS 版实测：M3 Max 表现最佳](https://m.ithome.com/html/869447.htm)
+
++ [新豪车税今日起执行，部分迈巴赫 S 级轿车 8 月 31 日前经销商全额承担](https://m.ithome.com/html/869423.htm)
+
++ [默认更新为纯文字：小米相册编辑焕新版月底推送底部 Tab 图标优化版本](https://m.ithome.com/html/869393.htm)
+
