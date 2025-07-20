@@ -39,3 +39,7 @@
 
 + [周末上 V2EX 刷贴的是不是都是加班的 v 油](https://www.v2ex.com/t/1146332)
 
++ [稳定币的本质是铸币权下放](https://www.v2ex.com/t/1146398)
+
++ [[送码] 视频播放器 APP 上架了，现在准备干翻 Infuse](https://www.v2ex.com/t/1146394)
+

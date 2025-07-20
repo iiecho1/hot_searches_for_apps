@@ -199,3 +199,5 @@
 
 + [埃塞俄比亚将拓宽咖啡出口市场应对美关税冲击](https://news.cctv.com/2025/07/20/ARTIfJmz8729nO0zL2k6lIcm250720.shtml)
 
++ [韩国连日暴雨已致14人死亡12人失踪](https://news.cctv.com/2025/07/20/ARTIOmYEa8JkLs20ZvCJzmGv250720.shtml)
+
