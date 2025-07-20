@@ -53,3 +53,11 @@
 
 + [京东向一线劳动者捐赠 1000 台空调，美的、格力等品牌参与](https://m.ithome.com/html/869265.htm)
 
++ [万亿投资世界级项目，我国雅鲁藏布江下游水电工程正式开工](https://m.ithome.com/html/869358.htm)
+
++ [2:0 战胜 T1，AG.AL 晋级 2025 EWC 电竞世界杯《英雄联盟》项目总决赛](https://m.ithome.com/html/869353.htm)
+
++ [诺基亚暗示仍有兴趣开放品牌授权给其他制造商生产贴牌手机](https://m.ithome.com/html/869374.htm)
+
++ [央视曝光“万能遥控器”，实测小区学校道闸随便开](https://m.ithome.com/html/869383.htm)
+

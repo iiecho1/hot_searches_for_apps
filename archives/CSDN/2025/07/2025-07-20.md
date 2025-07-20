@@ -149,3 +149,13 @@
 
 + [Java无服务架构新范式：Spring Native与AWS Lambda冷启动深度优化](https://blog.csdn.net/m0_65465065/article/details/149451584)
 
++ [基于STM32单片机车牌识别系统摄像头图像处理设计的论文](https://blog.csdn.net/weixin_112233/article/details/149419693)
+
++ [一、Spark专栏开篇：它从何而来，为何而生，凭何而强？](https://blog.csdn.net/2401_83830408/article/details/149422263)
+
++ [Qt视音频推流/监控推流/自动重连推流/推流同时保存录像文件到本地/网页打开webrtc预览](https://blog.csdn.net/feiyangqingyun/article/details/149477909)
+
++ [YOLOv9物流分拣实战：多目标实时跟踪+机械臂联动（附ROS工程包）](https://blog.csdn.net/weixin_39815573/article/details/149470409)
+
++ [29、鸿蒙Harmony Next开发：深浅色适配和应用主题换肤](https://blog.csdn.net/yezuiqingxin/article/details/149440645)
+

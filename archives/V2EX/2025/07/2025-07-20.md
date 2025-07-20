@@ -35,3 +35,7 @@
 
 + [再来谈一谈国产车机](https://www.v2ex.com/t/1146297)
 
++ [iPhone 是如何实现钱包刷卡公交记录站点信息的](https://www.v2ex.com/t/1146379)
+
++ [周末上 V2EX 刷贴的是不是都是加班的 v 油](https://www.v2ex.com/t/1146332)
+

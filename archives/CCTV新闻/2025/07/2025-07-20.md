@@ -195,3 +195,7 @@
 
 + [暴雨致山体滑坡 韩国京畿道已有1人死亡 3人失踪](https://news.cctv.com/2025/07/20/ARTIhD9Ci83p0TVOvrwcAoPl250720.shtml)
 
++ [白话拆解｜李显龙：无论美国“是否回头” 多边合作都应“继续前行”](https://news.cctv.com/2025/07/20/ARTI7Ijv7VIH4tbY3TllRWd9250720.shtml)
+
++ [埃塞俄比亚将拓宽咖啡出口市场应对美关税冲击](https://news.cctv.com/2025/07/20/ARTIfJmz8729nO0zL2k6lIcm250720.shtml)
+
