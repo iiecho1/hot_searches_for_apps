@@ -209,3 +209,5 @@
 
 + [日本新版《防卫白皮书》暗藏危险图谋 应停止为自身强军扩武寻找借口](https://news.cctv.com/2025/07/20/ARTIeXP2dehcXp8R23kCryI9250720.shtml)
 
++ [自然资源部海啸预警中心：堪察加东岸远海7.2级地震不会对我国沿岸造成影响](https://news.cctv.com/2025/07/20/ARTIpU8ewbbfKYC8VQsqQnEj250720.shtml)
+
