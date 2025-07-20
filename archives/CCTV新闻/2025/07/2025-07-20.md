@@ -211,3 +211,13 @@
 
 + [自然资源部海啸预警中心：堪察加东岸远海7.2级地震不会对我国沿岸造成影响](https://news.cctv.com/2025/07/20/ARTIpU8ewbbfKYC8VQsqQnEj250720.shtml)
 
++ [俄边境防御工事公款侵吞案再指控三人](https://news.cctv.com/2025/07/20/ARTIrPo6PLsd0kYVmHzyQ2cw250720.shtml)
+
++ [黑山首都发生枪击事件 致一死一伤](https://news.cctv.com/2025/07/20/ARTIpsxnhroucOMmYJcbLlXP250720.shtml)
+
++ [聚焦尹锡悦外患罪嫌疑 韩国检方紧急逮捕无人机作战司令部司令](https://news.cctv.com/2025/07/20/ARTIy6W8tXYjg7dz36euGNzx250720.shtml)
+
++ [以军发布撤离警告 将首次在加沙中部代尔拜拉赫展开地面攻势](https://news.cctv.com/2025/07/20/ARTIEzm9iclybXzqkF3yy0b9250720.shtml)
+
++ [今年季风期极端天气频发致巴基斯坦203人死亡](https://news.cctv.com/2025/07/20/ARTIPVBA6ahTix4NM7rdwPFe250720.shtml)
+

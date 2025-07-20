@@ -175,3 +175,11 @@
 
 + [用线性代数推导码分多址（CDMA）](https://blog.csdn.net/qq_68772546/article/details/149451382)
 
++ [生成式人工智能实战 | 自回归模型详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149469066)
+
++ [Redisson RLocalCachedMap 核心参数详解](https://blog.csdn.net/lilinhai548/article/details/149468143)
+
++ [Oracle RU19.28补丁发布，一键升级稳](https://blog.csdn.net/weixin_41645135/article/details/149468814)
+
++ [计算机网络：（十）虚拟专用网 VPN 和网络地址转换 NAT](https://blog.csdn.net/2402_83322742/article/details/149471939)
+
