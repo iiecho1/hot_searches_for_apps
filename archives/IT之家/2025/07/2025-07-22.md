@@ -39,3 +39,23 @@
 
 + [古尔曼：苹果 2025 款 iPad Pro 将配备双前置摄像头，解决竖屏 Face ID 失效问题](https://m.ithome.com/html/869500.htm)
 
++ [现代汽车韩国总部被曝购入小米 SU7，实车现身首尔街头](https://m.ithome.com/html/869682.htm)
+
++ [英伟达 CEO 黄仁勋：总感觉公司快倒闭了，33 年来都在压力中度过](https://m.ithome.com/html/869596.htm)
+
++ [华为官宣 Pura80 数字版手机 7 月 23 日开启预售](https://m.ithome.com/html/869535.htm)
+
++ [小米“昆仑 N3”伪装车谍照曝光，预计今年底或明年初发布](https://m.ithome.com/html/869646.htm)
+
++ [小米全新 100W 充电器入网：向下兼容 67W / 90W，小米 16 系列手机有望配备](https://m.ithome.com/html/869559.htm)
+
++ [攻击抹黑企业、公开反对国家支持的能源方针，博主“Blood 旌旗”被责令予以阶段性禁言处置](https://m.ithome.com/html/869512.htm)
+
++ [华为 Pura80 数字版手机 7 月 23 日预售，消息称其搭载麒麟 9010S 处理器](https://m.ithome.com/html/869617.htm)
+
++ [首家京东自营外卖门店昨日开业，没有预制菜](https://m.ithome.com/html/869721.htm)
+
++ [当贝电视盒子 H5 Pro 发布：杜比全景声、8K 解码、4+64GB 配置，7 月 24 日开售](https://m.ithome.com/html/869577.htm)
+
++ [消息称苹果工程师对折叠屏 iPhone 手机并不满意，因“与市面上已有的设计相同”](https://m.ithome.com/html/869656.htm)
+
