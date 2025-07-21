@@ -175,3 +175,9 @@
 
 + [热浪持续 日本14个地区发布“中暑警报”](https://news.cctv.com/2025/07/21/ARTIsPXB7TnDUVR98mbDbXml250721.shtml)
 
++ [印尼一艘客船发生火灾致至少5人死亡 乘客跳船逃生](https://news.cctv.com/2025/07/21/ARTINPfJhA4cHDhlVsLYCPib250721.shtml)
+
++ [国际观察｜参议院也失守 石破茂面临下台危机？](https://news.cctv.com/2025/07/21/ARTIfYr1EX7OmBML8tfhl302250721.shtml)
+
++ [弘扬“上海精神”，共促经贸合作提质升级](https://news.cctv.com/2025/07/21/ARTISbKYkLrWAgeg9oLv72hQ250721.shtml)
+
