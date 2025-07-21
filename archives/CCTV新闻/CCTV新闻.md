@@ -213,3 +213,9 @@
 
 + [全球文明倡议是中国对世界的宝贵贡献——访秘鲁国会议员弗拉维奥·克鲁斯](https://news.cctv.com/2025/07/21/ARTIMIkQGwYxdAMICqKoy2o4250721.shtml)
 
++ [美国“破坏性贸易政策”正在改变全球供应链和贸易格局](https://news.cctv.com/2025/07/21/ARTIi3LCvx3BqHmPEBENBhEj250721.shtml)
+
++ [韩飞行员协会驳斥济州航空空难调查：“甩锅”飞行员 歪曲事实](https://news.cctv.com/2025/07/21/ARTIQRZsdd77BILjF63nkEyZ250721.shtml)
+
++ [调查称韩国济州航空空难中飞行员关错发动机](https://news.cctv.com/2025/07/21/ARTIVnfL6CY7nEQQBdNg3TT8250721.shtml)
+
