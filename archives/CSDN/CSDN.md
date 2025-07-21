@@ -139,3 +139,7 @@
 
 + [python中深度学习的算法，如神经网络和卷积神经网络的使用](https://blog.csdn.net/qq_60079266/article/details/149308962)
 
++ [面壁者计划：AI如何破解三体式安全困局](https://blog.csdn.net/Liudef06/article/details/149486248)
+
++ [FPGA相关通信问题详解](https://blog.csdn.net/m0_67400176/article/details/149468851)
+

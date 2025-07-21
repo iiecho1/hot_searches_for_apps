@@ -19,3 +19,5 @@
 
 + [iPad Pro 2018 被列入过时产品](https://www.v2ex.com/t/1146439)
 
++ [WSL 中无法访问 registry-1.docker.io/v2/，没法用 docker 拉取 image，试了很多方法都不行，累了](https://www.v2ex.com/t/1146433)
+
