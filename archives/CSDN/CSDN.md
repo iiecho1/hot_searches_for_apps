@@ -191,3 +191,7 @@
 
 + [SpringBoot 3.0 挥别 spring.factories，拥抱云原生新纪元](https://blog.csdn.net/Coolsnow77/article/details/149469045)
 
++ [金仓数据库：融合进化，智领未来——2025年数据库技术革命的深度解析](https://blog.csdn.net/2302_78391795/article/details/149455397)
+
++ [【Linux】权限详解 权限本质、权限属性、su、sudo提权、chmod\chown\chgrp、文件类别](https://blog.csdn.net/2501_90265152/article/details/149469281)
+

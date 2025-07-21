@@ -189,3 +189,19 @@
 
 + [韩国拟允许个人赴朝鲜旅游 官方称正推进对朝政策改善​](https://news.cctv.com/2025/07/21/ARTInORyeW8cmowJudxwMJLb250721.shtml)
 
++ [石破茂说日本将继续推进对美贸易谈判](https://news.cctv.com/2025/07/21/ARTIvGPTix7rKhD7ee0wMpoP250721.shtml)
+
++ [伊朗：25日将同欧洲三国就核问题进行谈判](https://news.cctv.com/2025/07/21/ARTI8EBLgqHeN7404wPOsTLz250721.shtml)
+
++ [罗马尼亚一小型飞机坠毁 机上两人遇难](https://news.cctv.com/2025/07/21/ARTIFM9EhEQO4gNjhdgUPIaO250721.shtml)
+
++ [印尼起火客船实载量远超登记数 火灾已致3死 568人获救](https://news.cctv.com/2025/07/21/ARTIoKp91og8JFTkWmaqzzjg250721.shtml)
+
++ [奥地利阿尔卑斯山区连发德国登山客坠亡事件](https://news.cctv.com/2025/07/21/ARTI1zricnsgxepoTxY4DhE1250721.shtml)
+
++ [越南游船倾覆事故已致36死 仍有3人失踪](https://news.cctv.com/2025/07/21/ARTImfN4etcO2aK3ifANTpjU250721.shtml)
+
++ [联合国警告：以军最新撤离令重创加沙人道生命线](https://news.cctv.com/2025/07/21/ARTI68xXOcP7icnbZI3ifSJr250721.shtml)
+
++ [最高温突破50摄氏度 伊朗经历今年最热一周](https://news.cctv.com/2025/07/21/ARTI2mDQjbhfDU2BjWTowxfg250721.shtml)
+
