@@ -27,3 +27,23 @@
 
 + [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 
++ [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+
++ [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [Lissy93/dashy](https://github.com/Lissy93/dashy)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
+
++ [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+
++ [Worklenz/worklenz](https://github.com/Worklenz/worklenz)
+
++ [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper)
+
++ [Freika/dawarich](https://github.com/Freika/dawarich)
+

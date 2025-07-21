@@ -195,3 +195,15 @@
 
 + [【Linux】权限详解 权限本质、权限属性、su、sudo提权、chmod\chown\chgrp、文件类别](https://blog.csdn.net/2501_90265152/article/details/149469281)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的对话系统多轮交互优化与用户体验提升（351）](https://blog.csdn.net/atgfg/article/details/149472379)
+
++ [电科金仓2025发布会，国产数据库的AI融合进化与智领未来](https://blog.csdn.net/beautifulmemory/article/details/149481261)
+
++ [AI猫娘？让微信接入Deepseek：获得一个AI聊天机器人，喵~](https://blog.csdn.net/Zero_VPN/article/details/149444634)
+
++ [【Web APIs】JavaScript 自定义属性操作 ② ( H5 自定义属性 )](https://blog.csdn.net/han1202012/article/details/147637566)
+
++ [XSS内容总结](https://blog.csdn.net/aalg01/article/details/149491017)
+
++ [xss总结](https://blog.csdn.net/m0_74385608/article/details/149463468)
+
