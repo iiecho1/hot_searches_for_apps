@@ -73,3 +73,5 @@
 
 + [动摇](https://m.acfun.cn/v/?ac=47587430)
 
++ [这游戏枪在教我做事？！更疯更无厘头的科幻FPS《高能人生2 High on Life 2》](https://m.acfun.cn/v/?ac=47589787)
+
