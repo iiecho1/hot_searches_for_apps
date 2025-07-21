@@ -21,3 +21,15 @@
 
 + [WSL 中无法访问 registry-1.docker.io/v2/，没法用 docker 拉取 image，试了很多方法都不行，累了](https://www.v2ex.com/t/1146433)
 
++ [今年的毕业生开始觉悟了，上来就问能不能不缴社保](https://www.v2ex.com/t/1146498)
+
++ [暑假弟弟妹妹来家里玩感觉不是很爽](https://www.v2ex.com/t/1146478)
+
++ [写了个查看 V2EX 金币趋势的插件](https://www.v2ex.com/t/1146494)
+
++ [部门来了个卷王怎么办？](https://www.v2ex.com/t/1146518)
+
++ [小爱音箱是否存在故意&#34;降智&#34;的情况.](https://www.v2ex.com/t/1146472)
+
++ [请问家里有娃的，大家周末有什么成本比较低的娱乐和消遣活动吗？](https://www.v2ex.com/t/1146425)
+

@@ -169,3 +169,9 @@
 
 + [美媒：特朗普政府审查马斯克公司合同](https://news.cctv.com/2025/07/21/ARTIjPxBP1ZPx7VDu0G5koZM250721.shtml)
 
++ [台风“韦帕”致菲律宾5人死亡 超80万人受灾](https://news.cctv.com/2025/07/21/ARTIVpvMJRiVmMpaH2M87OtN250721.shtml)
+
++ [发生枪击事件致10死 厄瓜多尔中部城市进入紧急状态](https://news.cctv.com/2025/07/21/ARTIfTqs6xYrfC7ciK02NzXL250721.shtml)
+
++ [热浪持续 日本14个地区发布“中暑警报”](https://news.cctv.com/2025/07/21/ARTIsPXB7TnDUVR98mbDbXml250721.shtml)
+

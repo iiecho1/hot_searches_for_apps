@@ -143,3 +143,23 @@
 
 + [FPGA相关通信问题详解](https://blog.csdn.net/m0_67400176/article/details/149468851)
 
++ [国产电科金仓数据库金仓KES V9 2025：AI时代的数据库融合标杆](https://blog.csdn.net/2302_79751907/article/details/149468774)
+
++ [轨迹优化 | 基于边界中间值问题(BIVP)的路径平滑求解器(附C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/149473027)
+
++ [DeepSeek-R1：中国AGI破局者的技术全景与生态革命](https://blog.csdn.net/Liudef06/article/details/149453020)
+
++ [Kafka的基本使用](https://blog.csdn.net/qq_63525426/article/details/149436763)
+
++ [大模型之Spring AI实战系列（三十九）：Spring Boot + Ollama 实现向量数据库集成](https://blog.csdn.net/xiaobing259/article/details/149444469)
+
++ [3大能力打造2025超级个体：提示专家+职场高手+编程极客的三维跃迁](https://blog.csdn.net/qq_32682301/article/details/149491869)
+
++ [LLM后训练进化史：从BERT到DeepSeek-R1，AI如何学会思考？](https://blog.csdn.net/qq_42055933/article/details/149473453)
+
++ [深入解析单HTML实现的网页版《我的世界》（附代码下载链接）](https://blog.csdn.net/qq_53544522/article/details/149437162)
+
++ [CS231n-2017 Lecture3线性分类器、最优化笔记](https://blog.csdn.net/Se_ren_di_pity/article/details/149472217)
+
++ [网络原理——TCP](https://blog.csdn.net/Reggie_L/article/details/149472441)
+
