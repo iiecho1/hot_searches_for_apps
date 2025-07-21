@@ -205,3 +205,11 @@
 
 + [最高温突破50摄氏度 伊朗经历今年最热一周](https://news.cctv.com/2025/07/21/ARTI2mDQjbhfDU2BjWTowxfg250721.shtml)
 
++ [为中期选举夺席位 美国两党不约而同想到一个“小动作”](https://news.cctv.com/2025/07/21/ARTIpD7nYztcCaqukjfMcIo6250721.shtml)
+
++ [三重优势持续释放，筑牢中国供应链对美企“磁吸力”](https://news.cctv.com/2025/07/21/ARTI879BwYdnsIsxmD1wKt0g250721.shtml)
+
++ [媒体为凝聚全球南方力量发挥重要作用——访埃塞俄比亚外交部发言人内比亚特·格塔丘](https://news.cctv.com/2025/07/21/ARTIO9UcLMSEXegPjlttN0gE250721.shtml)
+
++ [全球文明倡议是中国对世界的宝贵贡献——访秘鲁国会议员弗拉维奥·克鲁斯](https://news.cctv.com/2025/07/21/ARTIMIkQGwYxdAMICqKoy2o4250721.shtml)
+
