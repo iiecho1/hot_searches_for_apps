@@ -219,3 +219,13 @@
 
 + [调查称韩国济州航空空难中飞行员关错发动机](https://news.cctv.com/2025/07/21/ARTIVnfL6CY7nEQQBdNg3TT8250721.shtml)
 
++ [伊朗试射“卡西德”卫星运载火箭](https://news.cctv.com/2025/07/21/ARTIuhQxwpcZE2LQIVSm78FK250721.shtml)
+
++ [这次失利，对日本执政联盟意味着什么](https://news.cctv.com/2025/07/21/ARTIY1Oi1lCQQHlkkDWMl5A2250721.shtml)
+
++ [“煤炭会被用来制造炸弹” 哥伦比亚重申对以色列出口禁令](https://news.cctv.com/2025/07/21/ARTI0ghUzqB3fPlqp1cRwbxy250721.shtml)
+
++ [孟加拉国空军一教练机坠毁 至少19人死亡](https://news.cctv.com/2025/07/21/ARTI1LWQoEXWIXjE0isGlNH0250721.shtml)
+
++ [缅甸北部一玉石矿区坍塌 1人死亡约20人失踪](https://news.cctv.com/2025/07/21/ARTIjmn7s73nVPjVFdWUneZh250721.shtml)
+
