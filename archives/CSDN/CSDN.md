@@ -167,3 +167,11 @@
 
 + [根据ARM手册，分析ARM架构中，原子操作的软硬件实现的底层原理](https://blog.csdn.net/cgw15019854423/article/details/149469113)
 
++ [智能体性能优化：延迟、吞吐量与成本控制](https://blog.csdn.net/IRpickstars/article/details/149498090)
+
++ [子网划分核心原理 (网络原理1)](https://blog.csdn.net/2302_80105876/article/details/148032470)
+
++ [【数字预失真(DPD)】静态DPD设计扩展为自适应设计及评估两种自适应DPD设计：基于(最小均方)LMS算法、使用递归预测误差方法(RPEM)算法研究（Matlab&Simulink实现）](https://blog.csdn.net/weixin_66436111/article/details/149499752)
+
++ [本地部署 Kimi K2 全指南（llama.cpp、vLLM、Docker 三法）](https://blog.csdn.net/m0_52537869/article/details/149442474)
+
