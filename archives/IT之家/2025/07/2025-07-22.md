@@ -25,3 +25,17 @@
 
 + [默认更新为纯文字：小米相册编辑焕新版月底推送底部 Tab 图标优化版本](https://m.ithome.com/html/869393.htm)
 
++ [余承东自曝：华为 Pura 80 标准版手机 7 月 23 日开启预售](https://m.ithome.com/html/869508.htm)
+
++ [微信 Windows 客户端 3.9 及以下版本曝安全漏洞，黑客可无感执行远程代码](https://m.ithome.com/html/869491.htm)
+
++ [古尔曼：预计苹果 iOS 26 公测版下周推出，iOS 27 开发工作即将启动](https://m.ithome.com/html/869506.htm)
+
++ [民航版“12306”来了，航旅纵横整合 37 家国内航司直销机票资源](https://m.ithome.com/html/869523.htm)
+
++ [国家安全部：境外生产芯片可能故意留“后门”，摄像头被远程开启](https://m.ithome.com/html/869522.htm)
+
++ [古尔曼重申苹果首款折叠屏手机 iPhone Fold 明年发布，起售价不低于 2000 美元](https://m.ithome.com/html/869499.htm)
+
++ [古尔曼：苹果 2025 款 iPad Pro 将配备双前置摄像头，解决竖屏 Face ID 失效问题](https://m.ithome.com/html/869500.htm)
+

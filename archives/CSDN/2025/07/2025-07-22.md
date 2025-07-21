@@ -101,3 +101,11 @@
 
 + [ENSP路由综合实验 + 思科（cisco)/华为（ensp)链路聚合实验](https://blog.csdn.net/tanglilan/article/details/149450826)
 
++ [Kafka深度解析：架构、原理与应用实践](https://blog.csdn.net/JouJz/article/details/149459826)
+
++ [Docker 在 Ubuntu 系统中的详细操作指南](https://blog.csdn.net/yweng18/article/details/149486928)
+
++ [SpringBoot 3.0 挥别 spring.factories，拥抱云原生新纪元](https://blog.csdn.net/Coolsnow77/article/details/149469045)
+
++ [基于卷积傅里叶分析网络 （CFAN）的心电图分类的统一时频方法](https://blog.csdn.net/noboxihong/article/details/149490664)
+
