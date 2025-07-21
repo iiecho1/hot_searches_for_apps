@@ -175,3 +175,9 @@
 
 + [本地部署 Kimi K2 全指南（llama.cpp、vLLM、Docker 三法）](https://blog.csdn.net/m0_52537869/article/details/149442474)
 
++ [电科金仓数据库一体机（云数据库 - AI 版）发布会：AI + 一体机重塑数据底座](https://blog.csdn.net/weixin_43151418/article/details/149452966)
+
++ [【蜂群无人机】时间与角度约束下的协同攻击算法（Matlab实现）](https://blog.csdn.net/weixin_61181717/article/details/149501216)
+
++ [【Linux指南】Linux系统 -权限全面解析](https://blog.csdn.net/2302_78391795/article/details/148368911)
+
