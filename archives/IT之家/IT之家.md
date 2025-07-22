@@ -59,3 +59,17 @@
 
 + [消息称苹果工程师对折叠屏 iPhone 手机并不满意，因“与市面上已有的设计相同”](https://m.ithome.com/html/869656.htm)
 
++ [罗马仕现状曝光：仅剩 20 多人在岗、货值 5000 万元充电宝库存](https://m.ithome.com/html/869776.htm)
+
++ [奥尔特曼：DeepSeek 团队很有才华，但他们没找到比 OpenAI 更高效的方法](https://m.ithome.com/html/869726.htm)
+
++ [苹果 iOS / iPadOS 18.6 RC 发布](https://m.ithome.com/html/869756.htm)
+
++ [小米汽车：YU7 后排顶棚车顶滑轨驻车时最大承重 20kg，行车时最大 1.5kg](https://m.ithome.com/html/869768.htm)
+
++ [鸿蒙智行新款智界 R7 轿跑 SUV“渲染图”曝光：车标上车、前保样式更新](https://m.ithome.com/html/869712.htm)
+
++ [2026 款保时捷 Macan SUV 上市：车漆调整、取消 360 度全景影像选装，57.8 万元起](https://m.ithome.com/html/869751.htm)
+
++ [阿里云通义千问 Qwen 3 旗舰版模型宣布更新：性能全面提升，超越 Kimi、DeepSeek 等行业顶尖水平](https://m.ithome.com/html/869761.htm)
+

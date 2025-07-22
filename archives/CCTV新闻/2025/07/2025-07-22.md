@@ -173,3 +173,9 @@
 
 + [孟加拉国空军教练机坠毁事故死亡人数升至27人](https://news.cctv.com/2025/07/22/ARTIuUFOPjCAzdqtjF7ce0qy250722.shtml)
 
++ [菲律宾多地暴雨成灾 已致6人死亡](https://news.cctv.com/2025/07/22/ARTIawUMRH2JRTgygeyaa09d250722.shtml)
+
++ [美国会预算办公室：“大而美”法案或致美国赤字十年内增加3.4万亿美元](https://news.cctv.com/2025/07/22/ARTImJBEzeLUkxrDNqr5rszW250722.shtml)
+
++ [美国社交媒体平台X否认法国对其涉“外国干涉”指控](https://news.cctv.com/2025/07/22/ARTI0er3dU8YthqWbBKRlMP6250722.shtml)
+
