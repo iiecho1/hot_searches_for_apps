@@ -35,3 +35,17 @@
 
 + [roboflow/supervision](https://github.com/roboflow/supervision)
 
++ [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+
++ [fujiapple852/trippy](https://github.com/fujiapple852/trippy)
+
++ [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird)
+
++ [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
++ [tracel-ai/burn](https://github.com/tracel-ai/burn)
+
++ [ankitects/anki](https://github.com/ankitects/anki)
+
++ [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
+
