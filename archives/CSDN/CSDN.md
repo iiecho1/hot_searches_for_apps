@@ -157,3 +157,9 @@
 
 + [音视频学习（四十一）：H264帧内压缩技术](https://blog.csdn.net/www_dong/article/details/149490368)
 
++ [VLA 论文精读（三十三）A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://blog.csdn.net/nenchoumi3119/article/details/149365417)
+
++ [MCP vs 传统集成方案：REST API、GraphQL、gRPC的终极对比](https://blog.csdn.net/IRpickstars/article/details/149527426)
+
++ [客流分析核心算法 trajectory_event_analyzer数据结构](https://blog.csdn.net/qq_51116518/article/details/149508831)
+
