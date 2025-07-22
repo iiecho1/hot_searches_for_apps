@@ -175,3 +175,7 @@
 
 + [物联网系统中的可视化大屏定义](https://blog.csdn.net/testManger/article/details/149466087)
 
++ [【基于C# + HALCON的工业视系统开发实战】三十、汽车密封条装配完整性检测：基于C# .NET CORE 6与HALCON 24.11的视觉引导系统开发](https://blog.csdn.net/weixin_39815573/article/details/149502783)
+
++ [C++11之右值引用与移动语义（提高效率）重要](https://blog.csdn.net/zzh_Zao/article/details/148954446)
+

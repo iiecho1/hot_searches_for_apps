@@ -183,3 +183,5 @@
 
 + [议员聚集签名 石破茂遭党内“逼宫”：不下台就罢免](https://news.cctv.com/2025/07/22/ARTI5oHGKdfcVkmwfLnJhN8E250722.shtml)
 
++ [美联储主席鲍威尔被指认“在两件事上说谎”](https://news.cctv.com/2025/07/22/ARTIWH8prQKLvjqpcB98TT9L250722.shtml)
+
