@@ -185,3 +185,9 @@
 
 + [美联储主席鲍威尔被指认“在两件事上说谎”](https://news.cctv.com/2025/07/22/ARTIWH8prQKLvjqpcB98TT9L250722.shtml)
 
++ [美关税影响引担忧：暴风雨前的平静，最糟糕的情况尚未到来](https://news.cctv.com/2025/07/22/ARTIiBXWF36UWq5b778X6ilI250722.shtml)
+
++ [中澳商会：澳企对中国市场保持强劲信心，链博会是重要合作平台 | 世界观](https://news.cctv.com/2025/07/22/ARTIyoQFXR46gts5StNeeuqP250722.shtml)
+
++ [第155次中老缅泰湄公河联合巡逻执法行动启动](https://news.cctv.com/2025/07/22/ARTIpt9GoaVrXMN4e1IUp3kC250722.shtml)
+
