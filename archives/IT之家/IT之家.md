@@ -25,3 +25,5 @@
 
 + [阿里云通义千问 Qwen 3 旗舰版模型宣布更新：性能全面提升，超越 Kimi、DeepSeek 等行业顶尖水平](https://m.ithome.com/html/869761.htm)
 
++ [消息称鸿蒙智行上周新增订单破 8000 台、小米汽车破 9000 台、零跑破万](https://m.ithome.com/html/869653.htm)
+

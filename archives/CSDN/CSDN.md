@@ -101,3 +101,13 @@
 
 + [【音视频协议篇】RTMP协议](https://blog.csdn.net/jupangMZ/article/details/149537874)
 
++ [2025年远程桌面软件深度评测：ToDesk、向日葵、TeamViewer全方位对比分析](https://blog.csdn.net/weixin_41793160/article/details/149533679)
+
++ [2000 + 核心系统验证：金仓数据库搞定 Oracle 替代的六大核心难题](https://blog.csdn.net/weixin_43151418/article/details/149530998)
+
++ [Linux下SPI设备驱动开发](https://blog.csdn.net/weixin_64581379/article/details/149438688)
+
++ [【网络安全】DDOS攻击](https://blog.csdn.net/Dalik1018/article/details/149507448)
+
++ [33、鸿蒙Harmony Next开发：使用动画-属性动画](https://blog.csdn.net/yezuiqingxin/article/details/149499546)
+
