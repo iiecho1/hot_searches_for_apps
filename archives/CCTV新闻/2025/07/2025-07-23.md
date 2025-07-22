@@ -165,3 +165,5 @@
 
 + [卡塔尔宣布申办2036年奥运会和残奥会](https://news.cctv.com/2025/07/23/ARTIf8zctgqUagqFVudriGG8250722.shtml)
 
++ [美国第三次宣布退出 联合国教科文组织“深表遗憾”](https://news.cctv.com/2025/07/23/ARTIUH5dIojh6XKajX9y3tJf250723.shtml)
+

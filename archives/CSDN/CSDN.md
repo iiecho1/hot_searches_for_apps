@@ -127,3 +127,5 @@
 
 + [Xilinx FPGA XCKU115‑2FLVA1517I AMD KintexUltraScale](https://blog.csdn.net/2403_90082736/article/details/149517774)
 
++ [2021年国赛植保无人机实现思路](https://blog.csdn.net/2301_80152484/article/details/149546849)
+

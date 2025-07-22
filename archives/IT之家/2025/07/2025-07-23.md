@@ -41,3 +41,21 @@
 
 + [当贝电视盒子 H5 Pro 发布：杜比全景声、8K 解码、4+64GB 配置，7 月 24 日开售](https://m.ithome.com/html/869577.htm)
 
++ [精简套餐、资费透明，中国移动 / 联通 / 电信三大运营商集体表态](https://m.ithome.com/html/869952.htm)
+
++ [上市 2999 元：苹果 11 英寸 iPad（A16）国补后 2197 元近期好价](https://m.ithome.com/html/869818.htm)
+
++ [北京燃油车彻底禁入网约平台](https://m.ithome.com/html/869898.htm)
+
++ [喊“over over”即发出：微信开启“语音转文字内容自动发送”功能灰度内测](https://m.ithome.com/html/869887.htm)
+
++ [首颗 1 英寸 SuperPixGain HDR 全国产 CMOS，思特威 50MP 超高动态范围旗舰手机图像传感器 SC5A5XS 发布](https://m.ithome.com/html/869833.htm)
+
++ [京东宣布 3 年内全国建设 1 万家七鲜小厨：百亿资金建设新供应链，1 道招牌菜保底 100 万元](https://m.ithome.com/html/869795.htm)
+
++ [荣耀 X70 手机首销连续三日全品牌全机型销量第一](https://m.ithome.com/html/869774.htm)
+
++ [消息称华为全新折叠屏手机将微调宽屏比、测试 5500&#177;mAh 电池，预计为 Mate X7](https://m.ithome.com/html/869836.htm)
+
++ [华为天生会画 App 上新动画功能，适配 HarmonyOS 5 及以上版本系统](https://m.ithome.com/html/869786.htm)
+
