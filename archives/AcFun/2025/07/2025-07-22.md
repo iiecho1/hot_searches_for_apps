@@ -75,3 +75,7 @@
 
 + [这游戏枪在教我做事？！更疯更无厘头的科幻FPS《高能人生2 High on Life 2》](https://m.acfun.cn/v/?ac=47589787)
 
++ [Laysha Chocolate Cream](https://m.acfun.cn/v/?ac=47586464)
+
++ [【鬼泣5】维吉尔即兴空连1](https://m.acfun.cn/v/?ac=47591160)
+

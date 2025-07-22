@@ -163,3 +163,7 @@
 
 + [乌克兰遭大规模空袭 俄方击落多架无人机](https://news.cctv.com/2025/07/22/ARTIFNpwnCerRsqrE9MTp4Jy250721.shtml)
 
++ [台风“韦帕”致菲律宾超126万人受灾 多地发布最高级别暴雨预警](https://news.cctv.com/2025/07/22/ARTIuyrEeIVON4hbyxGbvYLT250722.shtml)
+
++ [朝鲜将再建造一艘5000吨级驱逐舰](https://news.cctv.com/2025/07/22/ARTIbXuuF18hBCJXoKljtlgw250722.shtml)
+

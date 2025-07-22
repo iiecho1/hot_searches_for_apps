@@ -139,3 +139,9 @@
 
 + [面壁者计划：AI如何破解三体式安全困局](https://blog.csdn.net/Liudef06/article/details/149486248)
 
++ [【Linux指南】Linux系统 -权限全面解析](https://blog.csdn.net/2302_78391795/article/details/148368911)
+
++ [Spring之AOP面向切面编程详解](https://blog.csdn.net/aa_hdkf_vg/article/details/149490000)
+
++ [.NET依赖注入IOC你了解吗？](https://blog.csdn.net/Maybe_ch/article/details/149513017)
+
