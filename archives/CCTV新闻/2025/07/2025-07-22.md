@@ -167,3 +167,5 @@
 
 + [朝鲜将再建造一艘5000吨级驱逐舰](https://news.cctv.com/2025/07/22/ARTIbXuuF18hBCJXoKljtlgw250722.shtml)
 
++ [堪察加东岸远海发生6.0级地震 震源深度10千米](https://news.cctv.com/2025/07/22/ARTIcQQRTIxOac15xyW7Z4Ov250722.shtml)
+
