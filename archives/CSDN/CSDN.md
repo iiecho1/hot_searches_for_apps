@@ -169,3 +169,9 @@
 
 + [Flutter和Kotlin的对比](https://blog.csdn.net/yikezhuixun/article/details/149496825)
 
++ [2025年远程桌面软件深度评测：ToDesk、向日葵、TeamViewer全方位对比分析](https://blog.csdn.net/weixin_41793160/article/details/149533679)
+
++ [设计师的工具地狱如何破局？Miro+cpolar打造你的数字画布中枢站](https://blog.csdn.net/liu_chen_yang/article/details/149526034)
+
++ [物联网系统中的可视化大屏定义](https://blog.csdn.net/testManger/article/details/149466087)
+
