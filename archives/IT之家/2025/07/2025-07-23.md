@@ -27,3 +27,17 @@
 
 + [消息称鸿蒙智行上周新增订单破 8000 台、小米汽车破 9000 台、零跑破万](https://m.ithome.com/html/869653.htm)
 
++ [民航版“12306”来了，航旅纵横整合 37 家国内航司直销机票资源](https://m.ithome.com/html/869523.htm)
+
++ [国家安全部：境外生产芯片可能故意留“后门”，摄像头被远程开启](https://m.ithome.com/html/869522.htm)
+
++ [英伟达 CEO 黄仁勋：总感觉公司快倒闭了，33 年来都在压力中度过](https://m.ithome.com/html/869596.htm)
+
++ [华为官宣 Pura80 数字版手机 7 月 23 日开启预售](https://m.ithome.com/html/869535.htm)
+
++ [小米全新 100W 充电器入网：向下兼容 67W / 90W，小米 16 系列手机有望配备](https://m.ithome.com/html/869559.htm)
+
++ [攻击抹黑企业、公开反对国家支持的能源方针，博主“Blood 旌旗”被责令予以阶段性禁言处置](https://m.ithome.com/html/869512.htm)
+
++ [当贝电视盒子 H5 Pro 发布：杜比全景声、8K 解码、4+64GB 配置，7 月 24 日开售](https://m.ithome.com/html/869577.htm)
+

@@ -125,3 +125,5 @@
 
 + [【2025/07/21】GitHub 今日热门项目](https://blog.csdn.net/AlbertDS/article/details/149516648)
 
++ [Xilinx FPGA XCKU115‑2FLVA1517I AMD KintexUltraScale](https://blog.csdn.net/2403_90082736/article/details/149517774)
+
