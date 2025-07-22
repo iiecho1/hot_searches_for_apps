@@ -169,3 +169,7 @@
 
 + [堪察加东岸远海发生6.0级地震 震源深度10千米](https://news.cctv.com/2025/07/22/ARTIcQQRTIxOac15xyW7Z4Ov250722.shtml)
 
++ [日媒：多名自民党成员公开要求石破茂辞职](https://news.cctv.com/2025/07/22/ARTIA6tlAgQKE4f9JzgtiUd0250722.shtml)
+
++ [孟加拉国空军教练机坠毁事故死亡人数升至27人](https://news.cctv.com/2025/07/22/ARTIuUFOPjCAzdqtjF7ce0qy250722.shtml)
+

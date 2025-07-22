@@ -145,3 +145,11 @@
 
 + [.NET依赖注入IOC你了解吗？](https://blog.csdn.net/Maybe_ch/article/details/149513017)
 
++ [【Qt开发】Qt的背景介绍（四）](https://blog.csdn.net/weixin_74809706/article/details/149405723)
+
++ [C/C++ 全局变量跨文件真相：一句话实验与底层原理](https://blog.csdn.net/Z_oioihoii/article/details/149512857)
+
++ [华为仓颉编程语言简介与快速实验上手图解](https://blog.csdn.net/cnds123/article/details/149467143)
+
++ [在服务器（ECS）部署 MySQL 操作流程](https://blog.csdn.net/LZD_jay/article/details/149462623)
+
