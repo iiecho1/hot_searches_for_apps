@@ -63,3 +63,7 @@
 
 + [《克苏鲁编年史》盲目痴愚之神 阿撒托斯](https://m.acfun.cn/v/?ac=47629012)
 
++ [大地之母 野蛮生长｜savagedaughter](https://m.acfun.cn/v/?ac=47628206)
+
++ [猫大人 - アイドル](https://m.acfun.cn/v/?ac=47626905)
+

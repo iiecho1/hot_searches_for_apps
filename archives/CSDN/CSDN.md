@@ -111,3 +111,17 @@
 
 + [33、鸿蒙Harmony Next开发：使用动画-属性动画](https://blog.csdn.net/yezuiqingxin/article/details/149499546)
 
++ [Java 大视界 -- Java 大数据在智能医疗医疗设备维护与管理中的应用（358）](https://blog.csdn.net/atgfg/article/details/149541846)
+
++ [WEB ：实战演练——从零实现一个交互轮播图（附源码）](https://blog.csdn.net/2501_90752941/article/details/149546548)
+
++ [【Linux】进程概念](https://blog.csdn.net/2401_87116511/article/details/149546080)
+
++ [前后端分离项目进阶1---前端](https://blog.csdn.net/2201_75999403/article/details/149279868)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_睡眠记录日历示例（CalendarView01_30）](https://blog.csdn.net/qq_33650655/article/details/149476452)
+
++ [IDEA（2024.3.1） 配置 Spring Boot 热部署](https://blog.csdn.net/wsj__WSJ/article/details/149496380)
+
++ [【2025/07/21】GitHub 今日热门项目](https://blog.csdn.net/AlbertDS/article/details/149516648)
+

@@ -163,3 +163,5 @@
 
 + [时隔17年再将核武部署至英国 美国此番加码意欲何为？](https://news.cctv.com/2025/07/23/ARTICEOFHDNevow3afGOyr4u250723.shtml)
 
++ [卡塔尔宣布申办2036年奥运会和残奥会](https://news.cctv.com/2025/07/23/ARTIf8zctgqUagqFVudriGG8250722.shtml)
+
