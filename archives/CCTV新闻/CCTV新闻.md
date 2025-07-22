@@ -191,3 +191,5 @@
 
 + [第155次中老缅泰湄公河联合巡逻执法行动启动](https://news.cctv.com/2025/07/22/ARTIpt9GoaVrXMN4e1IUp3kC250722.shtml)
 
++ [美国称将再次退出联合国教科文组织](https://news.cctv.com/2025/07/22/ARTI90wnYlfnkNvJtgCPrtbw250722.shtml)
+
