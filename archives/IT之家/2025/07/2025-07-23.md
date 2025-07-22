@@ -59,3 +59,9 @@
 
 + [华为天生会画 App 上新动画功能，适配 HarmonyOS 5 及以上版本系统](https://m.ithome.com/html/869786.htm)
 
++ [乐道 L90 大三排 SUV 7 月 31 日上市，预售价 27.99 万元起 / 租电方案 19.39 万元起](https://m.ithome.com/html/869742.htm)
+
++ [“扮猪吃老虎”，宾利全新豪华 SUV 伪装成“保时捷纯电卡宴”在纽北路试](https://m.ithome.com/html/869730.htm)
+
++ [万志强回应魅族 22 系列手机“预热太晚被骂”：踏踏实实准备好再正式预热](https://m.ithome.com/html/869713.htm)
+

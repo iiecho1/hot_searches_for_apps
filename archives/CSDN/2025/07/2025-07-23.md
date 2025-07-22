@@ -129,3 +129,5 @@
 
 + [2021年国赛植保无人机实现思路](https://blog.csdn.net/2301_80152484/article/details/149546849)
 
++ [配置即代码的优化：JSON统一数据层与Jinja2模板引擎的架构重构](https://blog.csdn.net/weixin_45817947/article/details/149518848)
+

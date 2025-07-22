@@ -167,3 +167,11 @@
 
 + [美国第三次宣布退出 联合国教科文组织“深表遗憾”](https://news.cctv.com/2025/07/23/ARTIUH5dIojh6XKajX9y3tJf250723.shtml)
 
++ [“不能再依赖美国人了” 加拿大多地决定新建跨省石油管道](https://news.cctv.com/2025/07/23/ARTIBZ94UhcvzNFryh9caZPh250723.shtml)
+
++ [选举惨败后寻求留任 日本首相计划与多名党内资深人士会谈](https://news.cctv.com/2025/07/23/ARTIvguThI6PWn67YGRbAo2Q250723.shtml)
+
++ [特朗普称美菲达成贸易协议](https://news.cctv.com/2025/07/23/ARTINadr2MjNBfiW5mjMueUq250723.shtml)
+
++ [以防长：不排除再次对伊朗发动袭击的可能性](https://news.cctv.com/2025/07/23/ARTIr5XjuCCA0LfTgkZfGqwN250723.shtml)
+
