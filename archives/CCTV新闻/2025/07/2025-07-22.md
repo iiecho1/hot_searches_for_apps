@@ -179,3 +179,7 @@
 
 + [美国社交媒体平台X否认法国对其涉“外国干涉”指控](https://news.cctv.com/2025/07/22/ARTI0er3dU8YthqWbBKRlMP6250722.shtml)
 
++ [哈佛大学联邦资金案举行听证会 特朗普猛批主审法官](https://news.cctv.com/2025/07/22/ARTIOB1PQoujGIhfPfoaLoxF250722.shtml)
+
++ [议员聚集签名 石破茂遭党内“逼宫”：不下台就罢免](https://news.cctv.com/2025/07/22/ARTI5oHGKdfcVkmwfLnJhN8E250722.shtml)
+
