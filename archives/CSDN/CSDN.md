@@ -163,3 +163,9 @@
 
 + [Qwen3 Coder——最强开源编程模型](https://blog.csdn.net/daiziguizhong/article/details/149558827)
 
++ [金仓数据库搞定 【Oracle】 替代的六大核心壁垒](https://blog.csdn.net/2402_83322742/article/details/149537138)
+
++ [腾讯iOA：企业软件合规与安全的免费守护者](https://blog.csdn.net/Rqaqedamancy/article/details/149561905)
+
++ [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_家庭维护示例（CalendarView01_31）](https://blog.csdn.net/qq_33650655/article/details/149560181)
+

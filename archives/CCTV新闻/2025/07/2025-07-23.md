@@ -187,3 +187,5 @@
 
 + [柬埔寨逮捕数千名涉诈嫌疑人 中使馆发布提醒](https://news.cctv.com/2025/07/23/ARTITBaG9n1iiS6ECsaaNl45250723.shtml)
 
++ [俄海军开始“七月风暴”作战演习](https://news.cctv.com/2025/07/23/ARTI1Hrkqp7aGgqyRELryOgv250723.shtml)
+
