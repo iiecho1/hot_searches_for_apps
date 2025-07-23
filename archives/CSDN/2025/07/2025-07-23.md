@@ -193,3 +193,9 @@
 
 + [Spring 核心知识点梳理 1](https://blog.csdn.net/qq_69304031/article/details/149546860)
 
++ [【AI智能体】Dify 开发与集成MCP服务实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/148664299)
+
++ [Linux 传感器驱动3：IIO子系统框架](https://blog.csdn.net/qq_52763245/article/details/149445655)
+
++ [Baumer工业相机堡盟工业相机如何通过YoloV8深度学习模型实现持械检测（C#代码，UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149548378)
+
