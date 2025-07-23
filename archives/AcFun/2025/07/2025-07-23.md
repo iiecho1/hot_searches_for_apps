@@ -77,3 +77,5 @@
 
 + [巧克力冰淇淋~Chocolate Cream](https://m.acfun.cn/v/?ac=47630239)
 
++ [【东方】魔法少女とチョコレゐト【芙兰朵露 Ver. MMD】](https://m.acfun.cn/v/?ac=47626550)
+

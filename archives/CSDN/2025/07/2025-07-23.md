@@ -145,3 +145,11 @@
 
 + [SpringBoot+Mybatis+MySQL+Vue+ElementUI前后端分离版：权限管理（三）](https://blog.csdn.net/qq_47980550/article/details/149447685)
 
++ [linux信号的产生和保存](https://blog.csdn.net/Qiwaw/article/details/149479456)
+
++ [Java 动态导出 Word 登记表：多人员、分页、动态表格的最佳实践](https://blog.csdn.net/neweastsun/article/details/149547692)
+
++ [西门子 S7-1500分布式 I/O通信 ：PROFINET IO 与 PROFIBUS DP核心技术详解（上）](https://blog.csdn.net/qq_41939260/article/details/149547661)
+
++ [HTTP性能优化：打造极速Web体验的关键策略](https://blog.csdn.net/HappyAcmen/article/details/149511179)
+

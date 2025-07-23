@@ -185,3 +185,5 @@
 
 + [菲律宾多地暴雨成灾 已致7人死亡 超141万人受灾](https://news.cctv.com/2025/07/23/ARTIgBIxxttNoUGCTJCsDZRW250723.shtml)
 
++ [柬埔寨逮捕数千名涉诈嫌疑人 中使馆发布提醒](https://news.cctv.com/2025/07/23/ARTITBaG9n1iiS6ECsaaNl45250723.shtml)
+
