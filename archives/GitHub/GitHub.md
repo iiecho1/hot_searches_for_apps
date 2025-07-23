@@ -35,3 +35,27 @@
 
 + [simstudioai/sim](https://github.com/simstudioai/sim)
 
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [moby/moby](https://github.com/moby/moby)
+
++ [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [frappe/hrms](https://github.com/frappe/hrms)
+
++ [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+
++ [jj-vcs/jj](https://github.com/jj-vcs/jj)
+
++ [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
+
++ [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
+
++ [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+
