@@ -109,3 +109,25 @@
 
 + [学习游戏制作记录（战斗系统简述以及击中效果）7.22](https://blog.csdn.net/2503_90719681/article/details/149548770)
 
++ [MCP与企业数据集成：ERP、CRM、数据仓库的统一接入](https://blog.csdn.net/IRpickstars/article/details/149560462)
+
++ [图机器学习（14）——社交网络分析](https://blog.csdn.net/LOVEmy134611/article/details/149526906)
+
++ [深度学习 ---神经网络以及数据准备](https://blog.csdn.net/m0_73338216/article/details/149513151)
+
++ [Unity UI的未来之路：从UGUI到UI Toolkit的架构演进与特性剖析(1)](https://blog.csdn.net/u010987278/article/details/149544014)
+
++ [【Linux | 网络】应用层（HTTPS）](https://blog.csdn.net/qq_55401402/article/details/147096559)
+
++ [网络原理 HTTP 和 HTTPS](https://blog.csdn.net/Dove_Xxx/article/details/149124190)
+
++ [FPGA自学——存储器模型](https://blog.csdn.net/qq_73050400/article/details/149546234)
+
++ [Spring 核心知识点梳理 1](https://blog.csdn.net/qq_69304031/article/details/149546860)
+
++ [Spring之【Bean工厂后置处理器】](https://blog.csdn.net/weixin_43945238/article/details/149550190)
+
++ [C++11之右值引用与移动语义（提高效率）重要](https://blog.csdn.net/zzh_Zao/article/details/148954446)
+
++ [33、鸿蒙Harmony Next开发：使用动画-属性动画](https://blog.csdn.net/yezuiqingxin/article/details/149499546)
+

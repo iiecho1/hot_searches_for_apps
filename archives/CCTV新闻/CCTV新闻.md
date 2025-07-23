@@ -165,3 +165,5 @@
 
 + [美国政府对哈佛大学发起新一轮签证项目合规调查](https://news.cctv.com/2025/07/24/ARTIDbEDG5jD9jYnsSQ6xxDm250724.shtml)
 
++ [泰国召回驻柬大使 柬埔寨尚未对此回应](https://news.cctv.com/2025/07/24/ARTIZLiSNurv2tMIrf96T9TC250723.shtml)
+

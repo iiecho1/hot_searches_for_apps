@@ -67,3 +67,5 @@
 
 + [日专生唱超甜sweets parade！【AC夏日收集计划】](https://m.acfun.cn/v/?ac=47633602)
 
++ [『一直很安静』“脚步却从来不会为我而停”【双怡翻唱】](https://m.acfun.cn/v/?ac=47635615)
+
