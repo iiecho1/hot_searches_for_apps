@@ -197,3 +197,13 @@
 
 + [从加沙到伊朗，“第六次中东战争”改变了什么？](https://news.cctv.com/2025/07/23/ARTImeTtAfSpRYKJCKkWBaD3250723.shtml)
 
++ [美国关税政策“回旋镖”伤及美企和消费者](https://news.cctv.com/2025/07/23/ARTIMo4FdUQijC1uHYxggQSx250723.shtml)
+
++ [专访丨世界需要中国智慧 携手走向和平共赢——访法国前总理拉法兰](https://news.cctv.com/2025/07/23/ARTIoBQoggd1zIDG7BtHoKln250723.shtml)
+
++ [外企高管：链博会有助于推动全球供应链和制造业可持续发展](https://news.cctv.com/2025/07/23/ARTIoeVQ2l34V8ck7Pb5sPBI250723.shtml)
+
++ [关税冲击叠加税改法案 美国经济忧虑加剧](https://news.cctv.com/2025/07/23/ARTIQxnLwil5VNRyFFxOsJfh250723.shtml)
+
++ [印度7月24日起恢复向中国公民发放旅游签证](https://news.cctv.com/2025/07/23/ARTIiouxJVfRwSRUsPx6SWGU250723.shtml)
+

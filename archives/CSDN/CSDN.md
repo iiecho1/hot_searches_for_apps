@@ -173,3 +173,7 @@
 
 + [电商项目_秒杀_架构及核心](https://blog.csdn.net/qinwenjng120/article/details/149525273)
 
++ [季逸超亲述 Manus 构建之谜，一文读懂 AI 智能体的上下文工程](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/149519384)
+
++ [Spring中的循环依赖：概念、原因与解决方案](https://blog.csdn.net/2301_80795057/article/details/149549047)
+
