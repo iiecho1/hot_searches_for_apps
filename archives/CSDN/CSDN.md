@@ -135,3 +135,13 @@
 
 + [python的pywebview库结合Flask和waitress开发桌面应用程序简介](https://blog.csdn.net/qq_43596960/article/details/149486402)
 
++ [通俗易懂卷积神经网络（CNN）指南](https://blog.csdn.net/weijiayi040512/article/details/149518497)
+
++ [猫头虎推荐｜用 AI 控制硬件设备的 MCP 工具：MCP2MQTT开源项目](https://blog.csdn.net/qq_44866828/article/details/149501668)
+
++ [【NLP舆情分析】基于python微博舆情分析可视化系统(flask+pandas+echarts) 视频教程 - 主页-微博基本信息实现](https://blog.csdn.net/caoli201314/article/details/149538520)
+
++ [漏洞扫描 + 渗透测试：双轮驱动筑牢网络安全防线](https://blog.csdn.net/BEST_yundun/article/details/149511116)
+
++ [SpringBoot+Mybatis+MySQL+Vue+ElementUI前后端分离版：权限管理（三）](https://blog.csdn.net/qq_47980550/article/details/149447685)
+

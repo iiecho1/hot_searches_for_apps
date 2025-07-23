@@ -177,3 +177,11 @@
 
 + [特朗普称美日达成贸易协议](https://news.cctv.com/2025/07/23/ARTIivRMYqdEKSx8EWDKAgmX250723.shtml)
 
++ [日本首相石破茂：将在8月结束前正式表明辞职意向](https://news.cctv.com/2025/07/23/ARTI0PxumxWZUJgfW9WOez6y250723.shtml)
+
++ [专访｜媒体合作为增进相互了解、促进人文交流发挥重要作用——访巴基斯坦联合通讯社副社长伊克巴尔](https://news.cctv.com/2025/07/23/ARTI8wSFOlNncCJMWjCBuoir250723.shtml)
+
++ [特朗普指控奥巴马“叛国” 奥巴马方回怼其“转移视线”](https://news.cctv.com/2025/07/23/ARTIxGD9YGormIxsaAdJUYoM250723.shtml)
+
++ [菲律宾多地暴雨成灾 已致7人死亡 超141万人受灾](https://news.cctv.com/2025/07/23/ARTIgBIxxttNoUGCTJCsDZRW250723.shtml)
+
