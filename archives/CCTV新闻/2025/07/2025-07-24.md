@@ -167,3 +167,7 @@
 
 + [泰国召回驻柬大使 柬埔寨尚未对此回应](https://news.cctv.com/2025/07/24/ARTIZLiSNurv2tMIrf96T9TC250723.shtml)
 
++ [欧盟：如谈判破裂计划对近千亿欧元美国商品加征关税](https://news.cctv.com/2025/07/24/ARTIWectzuGTgwgbUJBzc3XL250724.shtml)
+
++ [俄乌第三轮直接谈判结束 双方同意新一轮换俘](https://news.cctv.com/2025/07/24/ARTIvQ41sITQGeOKTQVlBToM250724.shtml)
+
