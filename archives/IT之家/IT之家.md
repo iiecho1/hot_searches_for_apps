@@ -65,3 +65,25 @@
 
 + [万志强回应魅族 22 系列手机“预热太晚被骂”：踏踏实实准备好再正式预热](https://m.ithome.com/html/869713.htm)
 
++ [苹果 iOS / iPadOS 26 开发者预览版 Beta 4 发布：多项应用“液态玻璃”效果微调、锁屏通知改进](https://m.ithome.com/html/870011.htm)
+
++ [4699 元（国补 4199 元）起华为 Pura 80 数字版开启预售：丝绒直屏 + 红枫原色影像，7 月 30 日正式开售](https://m.ithome.com/html/870044.htm)
+
++ [京东七鲜小厨：首日营业订单爆单，不排除入驻其他平台的可能性](https://m.ithome.com/html/869988.htm)
+
++ [领克 Z20 汽车 430km 后驱 Pro / Plus 版发布：电池电机降级，10.99 万元起](https://m.ithome.com/html/869978.htm)
+
++ [第七代屏下摄像 + 骁龙 8 至尊版：努比亚 Z70 Ultra 16+512G 国补 3399 元新低](https://m.ithome.com/html/870000.htm)
+
++ [小米汽车：YU7 座椅通风采用吸风设计，支持三挡调节](https://m.ithome.com/html/870020.htm)
+
++ [罗马仕充电宝电芯供应商安普瑞斯变更控股股东，原大股东公司已解散](https://m.ithome.com/html/869977.htm)
+
++ [不止 Pura 80：华为鸿蒙 HarmonyOS 系统“防窥保护”功能将适配 Mate 70 系列部分机型](https://m.ithome.com/html/870034.htm)
+
++ [郑州市场监管局约谈饿了么、美团、京东三家外卖平台：限期清理违规商户、禁止内卷式竞争](https://m.ithome.com/html/869993.htm)
+
++ [小米推出无线键鼠套装舒适版：分离式手托 + 非对称鼠标，众筹价 139 元](https://m.ithome.com/html/870070.htm)
+
++ [弱密码引发惨案：158 年历史公司破产，700 多名员工失业](https://m.ithome.com/html/870108.htm)
+

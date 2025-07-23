@@ -179,3 +179,9 @@
 
 + [替代Oracle？金仓数据库用「敢替力」重新定义国产数据库](https://blog.csdn.net/2302_79177254/article/details/149533728)
 
++ [漫画版：细说金仓数据库](https://blog.csdn.net/Pocker_Spades_A/article/details/149533636)
+
++ [CodeBuddy IDE 全面体验测评：AI 驱动的全栈开发新时代](https://blog.csdn.net/qq_33681891/article/details/149559902)
+
++ [Vue 3 响应式系统中的 effectScope、watchEffect、effect 和 watch 详解](https://blog.csdn.net/qq_43487181/article/details/149543780)
+

@@ -207,3 +207,7 @@
 
 + [印度7月24日起恢复向中国公民发放旅游签证](https://news.cctv.com/2025/07/23/ARTIiouxJVfRwSRUsPx6SWGU250723.shtml)
 
++ [美高调宣布多份协议 关税谈判背后有哪些博弈](https://news.cctv.com/2025/07/23/ARTIegSbPEHZyCZy2LBt3jXt250723.shtml)
+
++ [泰国北部遭洪灾 多地启动灾害应急机制](https://news.cctv.com/2025/07/23/ARTIbjiw6JwILVoThHBH29EO250723.shtml)
+
