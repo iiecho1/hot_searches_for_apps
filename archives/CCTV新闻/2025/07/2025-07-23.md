@@ -189,3 +189,11 @@
 
 + [俄海军开始“七月风暴”作战演习](https://news.cctv.com/2025/07/23/ARTI1Hrkqp7aGgqyRELryOgv250723.shtml)
 
++ [韩国华城电池厂火灾涉事企业代表被判处20年有期徒刑](https://news.cctv.com/2025/07/23/ARTI4IYN8gRjYRCUIpzZNb5t250723.shtml)
+
++ [石破茂重申留任意向 称辞职报道不属实](https://news.cctv.com/2025/07/23/ARTIJFseKpKoCOIzWg9HaaFO250723.shtml)
+
++ [新华社快讯：日本首相石破茂重申留任意向](https://news.cctv.com/2025/07/23/ARTIOTV9QWbWOq2hv37AEh2H250723.shtml)
+
++ [从加沙到伊朗，“第六次中东战争”改变了什么？](https://news.cctv.com/2025/07/23/ARTImeTtAfSpRYKJCKkWBaD3250723.shtml)
+

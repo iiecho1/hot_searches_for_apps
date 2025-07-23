@@ -169,3 +169,7 @@
 
 + [DeepSeek 助力 Vue3 开发：打造丝滑的日历(Calendar)，日历_家庭维护示例（CalendarView01_31）](https://blog.csdn.net/qq_33650655/article/details/149560181)
 
++ [【人工智能之深度学习】8. 轻量化网络设计：MobileNet V2倒残差结构全解析与部署实战](https://blog.csdn.net/weixin_39815573/article/details/149539654)
+
++ [电商项目_秒杀_架构及核心](https://blog.csdn.net/qinwenjng120/article/details/149525273)
+
