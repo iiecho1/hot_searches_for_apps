@@ -153,3 +153,13 @@
 
 + [HTTP性能优化：打造极速Web体验的关键策略](https://blog.csdn.net/HappyAcmen/article/details/149511179)
 
++ [「源力觉醒 创作者计划」深度讲解大模型之在百花齐放的大模型时代看百度文心大模型4.5的能力与未来](https://blog.csdn.net/yelangkingwuzuhu/article/details/149518455)
+
++ [深度学习 ---神经网络以及数据准备](https://blog.csdn.net/m0_73338216/article/details/149513151)
+
++ [探索飞算JavaAI：AI赋能Java开发的新范式](https://blog.csdn.net/user340/article/details/149536946)
+
++ [从ZooKeeper到KRaft：Kafka架构演进与无ZooKeeper部署指南](https://blog.csdn.net/neweastsun/article/details/149547972)
+
++ [Qwen3 Coder——最强开源编程模型](https://blog.csdn.net/daiziguizhong/article/details/149558827)
+
