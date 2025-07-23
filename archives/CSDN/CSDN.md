@@ -131,3 +131,7 @@
 
 + [配置即代码的优化：JSON统一数据层与Jinja2模板引擎的架构重构](https://blog.csdn.net/weixin_45817947/article/details/149518848)
 
++ [从零开始：用Python库轻松搭建智能AI代理](https://blog.csdn.net/weixin_44872675/article/details/149516534)
+
++ [python的pywebview库结合Flask和waitress开发桌面应用程序简介](https://blog.csdn.net/qq_43596960/article/details/149486402)
+
