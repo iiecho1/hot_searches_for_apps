@@ -171,3 +171,9 @@
 
 + [俄乌第三轮直接谈判结束 双方同意新一轮换俘](https://news.cctv.com/2025/07/24/ARTIvQ41sITQGeOKTQVlBToM250724.shtml)
 
++ [德法首脑举行会晤 聚焦贸易、安全和外交热点问题](https://news.cctv.com/2025/07/24/ARTIJL0biQZgvkGVcCGu4x0a250724.shtml)
+
++ [特朗普：将对大部分国家征收15%至50%的简单关税](https://news.cctv.com/2025/07/24/ARTIXMrki4TVjH4SIaizXbjb250724.shtml)
+
++ [乌释放停火信号 俄希望接着谈 第三轮谈判不到一小时谈了什么](https://news.cctv.com/2025/07/24/ARTIuM1SF7hqqntGQ2opp6iZ250724.shtml)
+

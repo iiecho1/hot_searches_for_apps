@@ -21,3 +21,5 @@
 
 + [真的服了，这都要封我卡 48 小时](https://www.v2ex.com/t/1147033)
 
++ [阿里发布代码模型 Qwen3-Coder](https://www.v2ex.com/t/1147029)
+
