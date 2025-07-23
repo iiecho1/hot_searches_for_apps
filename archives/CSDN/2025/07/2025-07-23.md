@@ -199,3 +199,5 @@
 
 + [Baumer工业相机堡盟工业相机如何通过YoloV8深度学习模型实现持械检测（C#代码，UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149548378)
 
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | ImageCarousel（图片轮播组件）](https://blog.csdn.net/qq_44808710/article/details/149549387)
+
