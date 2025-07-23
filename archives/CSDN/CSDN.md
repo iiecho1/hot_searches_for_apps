@@ -177,3 +177,5 @@
 
 + [Spring中的循环依赖：概念、原因与解决方案](https://blog.csdn.net/2301_80795057/article/details/149549047)
 
++ [替代Oracle？金仓数据库用「敢替力」重新定义国产数据库](https://blog.csdn.net/2302_79177254/article/details/149533728)
+
