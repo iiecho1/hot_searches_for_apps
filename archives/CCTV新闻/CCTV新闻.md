@@ -161,3 +161,7 @@
 
 + [韩国连日暴雨已致17人死亡11人失踪](https://news.cctv.com/2025/07/20/ARTIszcaWmHtVjLmN7M6lFXj250720.shtml)
 
++ [第8号台风“竹节草”生成 预计登陆菲律宾吕宋岛](https://news.cctv.com/2025/07/24/ARTITwf4klNKOegDwNi0C4Og250724.shtml)
+
++ [美国政府对哈佛大学发起新一轮签证项目合规调查](https://news.cctv.com/2025/07/24/ARTIDbEDG5jD9jYnsSQ6xxDm250724.shtml)
+

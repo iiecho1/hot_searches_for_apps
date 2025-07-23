@@ -101,3 +101,11 @@
 
 + [Baumer工业相机堡盟工业相机如何通过YoloV8深度学习模型实现持械检测（C#代码，UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149548378)
 
++ [从零开始：用Python库轻松搭建智能AI代理](https://blog.csdn.net/weixin_44872675/article/details/149516534)
+
++ [linux-日志服务](https://blog.csdn.net/2501_92004703/article/details/149515521)
+
++ [基于爬虫技术的电影数据可视化系统 Python+Django+Vue.js](https://blog.csdn.net/yangyin1998/article/details/149501341)
+
++ [学习游戏制作记录（战斗系统简述以及击中效果）7.22](https://blog.csdn.net/2503_90719681/article/details/149548770)
+

@@ -25,3 +25,11 @@
 
 + [华为天生会画 App 上新动画功能，适配 HarmonyOS 5 及以上版本系统](https://m.ithome.com/html/869786.htm)
 
++ [罗马仕现状曝光：仅剩 20 多人在岗、货值 5000 万元充电宝库存](https://m.ithome.com/html/869776.htm)
+
++ [小米汽车：YU7 后排顶棚车顶滑轨驻车时最大承重 20kg，行车时最大 1.5kg](https://m.ithome.com/html/869768.htm)
+
++ [阿里云通义千问 Qwen 3 旗舰版模型宣布更新：性能全面提升，超越 Kimi、DeepSeek 等行业顶尖水平](https://m.ithome.com/html/869761.htm)
+
++ [荣耀 X70 手机首销连续三日全品牌全机型销量第一](https://m.ithome.com/html/869774.htm)
+
