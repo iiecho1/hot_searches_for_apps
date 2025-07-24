@@ -103,3 +103,31 @@
 
 + [漏洞生命周期管理：从发现到防护的全流程方案](https://blog.csdn.net/BEST_yundun/article/details/149577049)
 
++ [Linux之网络部分-应用层自定义协议与序列化](https://blog.csdn.net/2302_81120572/article/details/148782871)
+
++ [全面解析MySQL(3)——CRUD进阶&数据库约束](https://blog.csdn.net/2401_89167985/article/details/149580679)
+
++ [回顾 Palantir：八年之旅的反思](https://blog.csdn.net/2301_79342058/article/details/149585268)
+
++ [网络编程---UDP协议与IP协议](https://blog.csdn.net/2301_79695216/article/details/149544939)
+
++ [WEB ：实战演练——从零实现一个交互轮播图（附源码）](https://blog.csdn.net/2501_90752941/article/details/149546548)
+
++ [陈昊说：C#让我变得更优雅](https://blog.csdn.net/sixpp/article/details/149617474)
+
++ [深入解析 Pandas：Python 数据分析的强大工具](https://blog.csdn.net/qq_74732076/article/details/149546353)
+
++ [MCU芯片AS32S601在卫星光纤放大器（EDFA）中的应用探索](https://blog.csdn.net/ANSILIC/article/details/149577905)
+
++ [基于Bright Data 实时监控 Amazon 价格：零代码实操指南](https://blog.csdn.net/2302_78391795/article/details/149500118)
+
++ [进程调度的艺术：从概念本质到 Linux 内核实现](https://blog.csdn.net/2302_79376097/article/details/149407433)
+
++ [使用Imgui和SDL2做的一个弹球小游戏-Bounze](https://blog.csdn.net/ccf19881030/article/details/149584749)
+
++ [征服 Linux 网络：核心服务与实战解析](https://blog.csdn.net/SDFsoul/article/details/149618759)
+
++ [学着学着 我就给这个 HarmonyOS 应用增加了些新技术](https://blog.csdn.net/u013176440/article/details/149612473)
+
++ [技术与情感交织的一生 （十）](https://blog.csdn.net/michaelline/article/details/149169357)
+

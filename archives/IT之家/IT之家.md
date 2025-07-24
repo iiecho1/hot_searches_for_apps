@@ -45,3 +45,9 @@
 
 + [一步到位：华为 nova Flip 小折叠手机 7 月 31 日开启 HarmonyOS 5.1 版本升级](https://m.ithome.com/html/870060.htm)
 
++ [“实力绝尘”，大疆扫地机器人新品官宣定档 8 月 6 日](https://m.ithome.com/html/870261.htm)
+
++ [腾讯客服回应微信实时对讲功能：已下线，暂无重新上线计划](https://m.ithome.com/html/870189.htm)
+
++ [12306 工作人员回应高铁可手机扫码反馈调温：夏季原则上控制在 26-28℃](https://m.ithome.com/html/870168.htm)
+
