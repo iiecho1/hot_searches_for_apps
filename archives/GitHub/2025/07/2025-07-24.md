@@ -35,3 +35,9 @@
 
 + [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
 
++ [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+
++ [minio/minio](https://github.com/minio/minio)
+
++ [BerriAI/litellm](https://github.com/BerriAI/litellm)
+

@@ -227,3 +227,15 @@
 
 + [菲律宾多地持续强降雨已致12人死亡 40个城镇进入灾难状态](https://news.cctv.com/2025/07/24/ARTI3ebhFAcHiQ5fF0OI8nGJ250724.shtml)
 
++ [在俄失事客机上有一名中国公民](https://news.cctv.com/2025/07/24/ARTInYn5RIii3q8398QgPyHy250724.shtml)
+
++ [俄罗斯失事客机上有一名中国公民](https://news.cctv.com/2025/07/24/ARTILOlgegTmqFJNLG9Ep8N1250724.shtml)
+
++ [追忆我的舅舅乔治·何克（我和中国的故事）](https://news.cctv.com/2025/07/24/ARTIM5DgOKVmxjA3MPvMg7km250724.shtml)
+
++ [美媒：关税对美企造成沉重打击 美国人正在为关税买单](https://news.cctv.com/2025/07/24/ARTI04ql1HHIwZj6HJr3b7GU250724.shtml)
+
++ [1.5%的全球减碳从何而来？这篇美媒报道一次说透](https://news.cctv.com/2025/07/24/ARTIeLd73gFoNy74OoUF80dc250724.shtml)
+
++ [泰国代理总理：泰柬边境冲突未蔓延至其他地区 尚未进入战争状态](https://news.cctv.com/2025/07/24/ARTITzPRzbdszqd0KBmKBYof250724.shtml)
+
