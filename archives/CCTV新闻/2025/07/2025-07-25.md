@@ -161,3 +161,5 @@
 
 + [美国称将再次退出联合国教科文组织](https://news.cctv.com/2025/07/22/ARTI90wnYlfnkNvJtgCPrtbw250722.shtml)
 
++ [泰国军方：针对柬方军事目标实施打击](https://news.cctv.com/2025/07/25/ARTIUZk8qYKeogYWn0FPbcJD250725.shtml)
+
