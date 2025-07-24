@@ -147,3 +147,23 @@
 
 + [图机器学习（18）——使用图构建文档主题分类模型](https://blog.csdn.net/LOVEmy134611/article/details/149073318)
 
++ [图机器学习（20）——欺诈交易检测算法](https://blog.csdn.net/LOVEmy134611/article/details/149250703)
+
++ [深度学习暑期科研项目（两个月发EI论文）](https://blog.csdn.net/Magnolia_He/article/details/149511618)
+
++ [计算机视觉领域的AI算法总结——目标检测](https://blog.csdn.net/qq_32205577/article/details/149532273)
+
++ [（四十二）深度解析领域特定语言（DSL）第七章——语法制导翻译方案](https://blog.csdn.net/weixin_46217641/article/details/149559506)
+
++ [Redis管道技术详解：原理、实践与性能优化](https://blog.csdn.net/qq_41840843/article/details/148644429)
+
++ [华为仓颉编程语言实践体验](https://blog.csdn.net/cnds123/article/details/149571007)
+
++ [2025.7.22 测试 总结](https://blog.csdn.net/weixin_75161465/article/details/149548225)
+
++ [【趣味解读】淘宝登录的前后端交互机制：Cookie-Session 如何保障你的账户安全？](https://blog.csdn.net/m0_58097299/article/details/149584620)
+
++ [AJAX 概念与 axios 使用](https://blog.csdn.net/2401_87882101/article/details/149515941)
+
++ [Linux权限管理：从“Permission denied“到系统安全大师](https://blog.csdn.net/2501_90200491/article/details/149545142)
+

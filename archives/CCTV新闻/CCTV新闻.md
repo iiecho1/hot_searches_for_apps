@@ -177,3 +177,15 @@
 
 + [乌释放停火信号 俄希望接着谈 第三轮谈判不到一小时谈了什么](https://news.cctv.com/2025/07/24/ARTIuM1SF7hqqntGQ2opp6iZ250724.shtml)
 
++ [日本多地发布“中暑警报” 驻日本大使馆提醒注意出行安全](https://news.cctv.com/2025/07/24/ARTICXmOPSFHbMJU9CrVnqeX250724.shtml)
+
++ [高呼“日本人优先”，极右翼势力如何撬动日本政局](https://news.cctv.com/2025/07/24/ARTI46X8qG8l2DOkTbJorRu7250724.shtml)
+
++ [金正恩观摩人民军大联合部队炮兵部队射击训练比赛](https://news.cctv.com/2025/07/24/ARTIdF4zKxrOjF7utuz75tfR250724.shtml)
+
++ [美国缘何第三次退出联合国教科文组织](https://news.cctv.com/2025/07/24/ARTI5sLjOjkFDhIDVhV7o7Zt250724.shtml)
+
++ [泰国召回驻柬大使并降级泰柬外交关系 柬方宣布对等回应](https://news.cctv.com/2025/07/24/ARTINMAIGytgzmJF4hF464J4250724.shtml)
+
++ [阿根廷多名政要批驳美国驻阿大使提名人选不当言论](https://news.cctv.com/2025/07/24/ARTIOqt6Q9Lu8ZfKx47vT5V9250724.shtml)
+
