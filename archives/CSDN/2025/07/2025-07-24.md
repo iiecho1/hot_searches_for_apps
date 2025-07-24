@@ -205,3 +205,11 @@
 
 + [【人工智能之深度学习】9. 时序建模基石：LSTM细胞状态与门控机制的数学推导与医疗时序数据实战](https://blog.csdn.net/weixin_39815573/article/details/149563938)
 
++ [C/C++ 全局变量跨文件真相：一句话实验与底层原理](https://blog.csdn.net/Z_oioihoii/article/details/149512857)
+
++ [Docker 应用&数据备份、迁移方案](https://blog.csdn.net/xyz030556/article/details/149585355)
+
++ [Linux异常与信号处理](https://blog.csdn.net/qq_71320435/article/details/149532942)
+
++ [重构数据库未来：金仓数据库，抢占 AI 原生时代先机](https://blog.csdn.net/2302_79751907/article/details/149595433)
+

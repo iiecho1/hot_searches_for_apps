@@ -221,3 +221,9 @@
 
 + [应对美关税大棒 欧盟通过总额930亿欧元的对美关税反制计划](https://news.cctv.com/2025/07/24/ARTIFDyfJBmk7kFObjMyU5ae250724.shtml)
 
++ [泰国教育部下令泰柬边境582所学校停课](https://news.cctv.com/2025/07/24/ARTIxp6PLqchGV523i4FIlPC250724.shtml)
+
++ [泰国外长抵达联合国总部 通报泰柬冲突情况](https://news.cctv.com/2025/07/24/ARTI9ak2pyHLbyRfFwMve6if250724.shtml)
+
++ [菲律宾多地持续强降雨已致12人死亡 40个城镇进入灾难状态](https://news.cctv.com/2025/07/24/ARTI3ebhFAcHiQ5fF0OI8nGJ250724.shtml)
+
