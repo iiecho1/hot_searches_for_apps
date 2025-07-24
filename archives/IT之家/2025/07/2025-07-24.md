@@ -49,3 +49,17 @@
 
 + [弱密码引发惨案：158 年历史公司破产，700 多名员工失业](https://m.ithome.com/html/870108.htm)
 
++ [10999 元 → 6559 元：苹果 M4 MacBook Air 24+512G 国补高考换新再降新低](https://m.ithome.com/html/870267.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta2 新增支持 Mate XT、Pura 70 Pro / X 机型](https://m.ithome.com/html/870200.htm)
+
++ [怀旧 iPhone 6：消息称苹果为 iPhone 17 / Pro 酝酿全新灰色](https://m.ithome.com/html/870283.htm)
+
++ [宝马新款 X5 原型车内饰首曝：全景屏、17.9 英寸中控屏](https://m.ithome.com/html/870093.htm)
+
++ [腾讯：微信实时对讲功能正在灰度上线中，会根据反馈持续调整优化](https://m.ithome.com/html/870212.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta2 发布，Game Service Kit 游戏近场快传支持碰一碰模式传输资源包](https://m.ithome.com/html/870115.htm)
+
++ [一步到位：华为 nova Flip 小折叠手机 7 月 31 日开启 HarmonyOS 5.1 版本升级](https://m.ithome.com/html/870060.htm)
+

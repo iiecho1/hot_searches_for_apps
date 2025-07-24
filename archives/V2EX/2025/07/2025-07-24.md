@@ -23,3 +23,5 @@
 
 + [阿里发布代码模型 Qwen3-Coder](https://www.v2ex.com/t/1147029)
 
++ [家用万兆网络，网线选择 7 类还是超 6 类？](https://www.v2ex.com/t/1147038)
+
