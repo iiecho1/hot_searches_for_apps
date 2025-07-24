@@ -89,3 +89,7 @@
 
 + [微信支付正式接入华为鸿蒙 5 收银台，适用于会员订阅、游戏道具、电子书等数字商品购买场景](https://m.ithome.com/html/870334.htm)
 
++ [新国标电动自行车将不再强制安装脚踏骑行装置](https://m.ithome.com/html/870383.htm)
+
++ [华为 MatePad Pro 12.2 英寸 2025 平板发布：双层 OLED 云晰柔光屏、HarmonyOS 5 系统，3999 元起](https://m.ithome.com/html/870404.htm)
+

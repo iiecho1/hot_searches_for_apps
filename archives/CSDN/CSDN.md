@@ -229,3 +229,7 @@
 
 + [软硬件协同仿真和验证的标准接口协议SCE-MI简介](https://blog.csdn.net/qq_65944532/article/details/149585662)
 
++ [YOLOv4深度解析：革命性的实时目标检测技术](https://blog.csdn.net/weixin_51390582/article/details/149481621)
+
++ [大型语言模型（Large Language Models，LLM）](https://blog.csdn.net/weixin_67868534/article/details/149544091)
+

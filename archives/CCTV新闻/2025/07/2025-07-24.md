@@ -249,3 +249,9 @@
 
 + [泰国军方称再次空袭柬埔寨军事设施 袭击照片公布](https://news.cctv.com/2025/07/24/ARTIZtFjqLEwLJYQdvAGU8Ao250724.shtml)
 
++ [土耳其与英德初步确认“台风”战机订单](https://news.cctv.com/2025/07/24/ARTI61Uz6QgTPzuNCoi63H8I250724.shtml)
+
++ [15%-50% 特朗普政府关税策略有变](https://news.cctv.com/2025/07/24/ARTIueMBKl6PcOVYwQ2fY5NJ250724.shtml)
+
++ [俄失事客机上人员确认全部遇难](https://news.cctv.com/2025/07/24/ARTIdj4GiEmNLFcN7AImYClf250724.shtml)
+
