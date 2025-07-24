@@ -25,3 +25,23 @@
 
 + [微信支付正式接入华为鸿蒙 5 收银台，适用于会员订阅、游戏道具、电子书等数字商品购买场景](https://m.ithome.com/html/870334.htm)
 
++ [4699 元（国补 4199 元）起华为 Pura 80 数字版开启预售：丝绒直屏 + 红枫原色影像，7 月 30 日正式开售](https://m.ithome.com/html/870044.htm)
+
++ [弱密码引发惨案：158 年历史公司破产，700 多名员工失业](https://m.ithome.com/html/870108.htm)
+
++ [小米汽车：YU7 座椅通风采用吸风设计，支持三挡调节](https://m.ithome.com/html/870020.htm)
+
++ [不止 Pura 80：华为鸿蒙 HarmonyOS 系统“防窥保护”功能将适配 Mate 70 系列部分机型](https://m.ithome.com/html/870034.htm)
+
++ [小米推出无线键鼠套装舒适版：分离式手托 + 非对称鼠标，众筹价 139 元](https://m.ithome.com/html/870070.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta2 新增支持 Mate XT、Pura 70 Pro / X 机型](https://m.ithome.com/html/870200.htm)
+
++ [宝马新款 X5 原型车内饰首曝：全景屏、17.9 英寸中控屏](https://m.ithome.com/html/870093.htm)
+
++ [腾讯：微信实时对讲功能正在灰度上线中，会根据反馈持续调整优化](https://m.ithome.com/html/870212.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta2 发布，Game Service Kit 游戏近场快传支持碰一碰模式传输资源包](https://m.ithome.com/html/870115.htm)
+
++ [一步到位：华为 nova Flip 小折叠手机 7 月 31 日开启 HarmonyOS 5.1 版本升级](https://m.ithome.com/html/870060.htm)
+
