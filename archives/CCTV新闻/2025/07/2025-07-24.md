@@ -255,3 +255,9 @@
 
 + [俄失事客机上人员确认全部遇难](https://news.cctv.com/2025/07/24/ARTIdj4GiEmNLFcN7AImYClf250724.shtml)
 
++ [施压升级？特朗普将亲访美联储](https://news.cctv.com/2025/07/24/ARTIHondVgBZxXAQ65MUZSlt250724.shtml)
+
++ [柬埔寨国防部：本次冲突系泰方率先开火 且动用重型武器及战机](https://news.cctv.com/2025/07/24/ARTIe9qkwecvEnM02DJlFprP250724.shtml)
+
++ [首批俄失事客机坠毁现场图片公布](https://news.cctv.com/2025/07/24/ARTIfc2J2ovgvqufmyp3oXz9250724.shtml)
+
