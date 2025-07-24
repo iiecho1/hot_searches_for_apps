@@ -203,3 +203,17 @@
 
 + [一架搭载约50人的客机在俄远东地区失联](https://news.cctv.com/2025/07/24/ARTIRJ2fa2meK3eeDGDLae9e250724.shtml)
 
++ [日本新构型H3运载火箭完成静态点火试验](https://news.cctv.com/2025/07/24/ARTIGjH4qit7Kos28tODqL70250724.shtml)
+
++ [英国上半年汽车产量创下1953年来最低纪录](https://news.cctv.com/2025/07/24/ARTINpP1XWUbYZOurZ2vbc1Y250724.shtml)
+
++ [泰国军方称泰柬边境冲突已致9名泰平民死亡](https://news.cctv.com/2025/07/24/ARTIcjZpw70Y4qY4GIlhLkdU250724.shtml)
+
++ [以色列发生汽车冲撞行人事件 多人受伤](https://news.cctv.com/2025/07/24/ARTIAVEU3KDaQQO9hIiV6sGC250724.shtml)
+
++ [台风“韦帕”已在越南造成3人死亡8人受伤](https://news.cctv.com/2025/07/24/ARTIVbtEcjYXL1iuaANF9Mdy250724.shtml)
+
++ [柬埔寨首相致函联合国安理会 要求就泰柬边境交火进行干预](https://news.cctv.com/2025/07/24/ARTIIpx9Von7DJNakaz1evPj250724.shtml)
+
++ [俄罗斯媒体：初步判断失联客机无人生还](https://news.cctv.com/2025/07/24/ARTIT1hKNVfEnoEHNY8aPwxA250724.shtml)
+

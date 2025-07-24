@@ -199,3 +199,7 @@
 
 + [springcloud环境和工程搭建](https://blog.csdn.net/Reggie_L/article/details/149585270)
 
++ [Java学习---Spring及其衍生（上）](https://blog.csdn.net/shouxifeiwu/article/details/149584876)
+
++ [AI编程革命：自动化代码生成、低代码开发与智能优化实践全景解析](https://blog.csdn.net/2501_92856799/article/details/149594488)
+
