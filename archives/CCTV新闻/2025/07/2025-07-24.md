@@ -193,3 +193,9 @@
 
 + [泰国军方称已出动F-16战机摧毁柬方两处军事设施](https://news.cctv.com/2025/07/24/ARTI3lrv5X6Qkyri51kXN01U250724.shtml)
 
++ [一架搭载46人的俄罗斯客机失联](https://news.cctv.com/2025/07/24/ARTIRJ2fa2meK3eeDGDLae9e250724.shtml)
+
++ [柬埔寨国防部：谴责泰国对柬主权及领土完整的军事侵略](https://news.cctv.com/2025/07/24/ARTIXbrv6y4PFSNpoMRS3hG8250724.shtml)
+
++ [中国驻柬埔寨大使馆提醒靠近柬泰边境的中国公民加强安全防范](https://news.cctv.com/2025/07/24/ARTIM4Jeb5WWAomWOmTu0jDR250724.shtml)
+
