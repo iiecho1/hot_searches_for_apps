@@ -173,3 +173,11 @@
 
 + [西门子 S7-1500分布式 I/O通信 ：PROFINET IO 与 PROFIBUS DP详解（下）](https://blog.csdn.net/qq_41939260/article/details/149549555)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式计算在地球物理勘探数据处理与地质结构建模中的应用（356）](https://blog.csdn.net/atgfg/article/details/149502628)
+
++ [用人工智能证明数学问题：一场静默的革命](https://blog.csdn.net/Liudef06/article/details/149587416)
+
++ [备节点通过 etcd 竞选新的 Leader Key，具体是如何竞选呢](https://blog.csdn.net/hezuijiudexiaobai/article/details/149537483)
+
++ [Zabbix 企业级分布式监控系统深度解析](https://blog.csdn.net/2501_91421610/article/details/149514633)
+
