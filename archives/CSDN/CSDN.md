@@ -203,3 +203,5 @@
 
 + [AI编程革命：自动化代码生成、低代码开发与智能优化实践全景解析](https://blog.csdn.net/2501_92856799/article/details/149594488)
 
++ [【人工智能之深度学习】9. 时序建模基石：LSTM细胞状态与门控机制的数学推导与医疗时序数据实战](https://blog.csdn.net/weixin_39815573/article/details/149563938)
+

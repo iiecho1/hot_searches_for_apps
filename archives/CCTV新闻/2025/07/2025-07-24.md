@@ -217,3 +217,7 @@
 
 + [俄罗斯媒体：初步判断失联客机无人生还](https://news.cctv.com/2025/07/24/ARTIT1hKNVfEnoEHNY8aPwxA250724.shtml)
 
++ [国际观察丨德国对美关税谈判立场为何趋于强硬](https://news.cctv.com/2025/07/24/ARTIAHKhSDKAy4htOAtI9MQv250724.shtml)
+
++ [应对美关税大棒 欧盟通过总额930亿欧元的对美关税反制计划](https://news.cctv.com/2025/07/24/ARTIFDyfJBmk7kFObjMyU5ae250724.shtml)
+
