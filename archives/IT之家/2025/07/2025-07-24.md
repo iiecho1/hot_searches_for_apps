@@ -63,3 +63,15 @@
 
 + [一步到位：华为 nova Flip 小折叠手机 7 月 31 日开启 HarmonyOS 5.1 版本升级](https://m.ithome.com/html/870060.htm)
 
++ [“首款 USB-C iPhone”之父新发明问世：适配旧款 Lightning 机型的自带 C 口保护壳](https://m.ithome.com/html/870275.htm)
+
++ [鸿蒙智行问界 M8 纯电版车型电驱啸叫降至“近乎无感”](https://m.ithome.com/html/870296.htm)
+
++ [小米王腾回应雷军何时举行今年年度演讲：刚忙完 6 月，让雷总缓缓](https://m.ithome.com/html/870277.htm)
+
++ [余承东：问界 M8 纯电版将首发华为自研 DriveONE 高压七合一电驱，业界首次支持双路冗余供电](https://m.ithome.com/html/870242.htm)
+
++ [“实力绝尘”，大疆扫地机器人新品官宣定档 8 月 6 日](https://m.ithome.com/html/870261.htm)
+
++ [腾讯客服回应微信实时对讲功能：已下线，暂无重新上线计划](https://m.ithome.com/html/870189.htm)
+

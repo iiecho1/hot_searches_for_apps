@@ -167,3 +167,9 @@
 
 + [Linux权限管理：从“Permission denied“到系统安全大师](https://blog.csdn.net/2501_90200491/article/details/149545142)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场波动预测与资产配置动态调整中的应用（355）](https://blog.csdn.net/atgfg/article/details/149499088)
+
++ [深入解析 Pandas：Python 数据分析的强大工具](https://blog.csdn.net/qq_74732076/article/details/149546353)
+
++ [西门子 S7-1500分布式 I/O通信 ：PROFINET IO 与 PROFIBUS DP详解（下）](https://blog.csdn.net/qq_41939260/article/details/149549555)
+

@@ -189,3 +189,5 @@
 
 + [阿根廷多名政要批驳美国驻阿大使提名人选不当言论](https://news.cctv.com/2025/07/24/ARTIOqt6Q9Lu8ZfKx47vT5V9250724.shtml)
 
++ [北美观察丨“特朗普名字频现” 爱泼斯坦案触发国会僵局](https://news.cctv.com/2025/07/24/ARTI922bZXnIGuLaZg9ExkcZ250724.shtml)
+
