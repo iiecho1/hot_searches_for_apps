@@ -133,3 +133,5 @@
 
 + [ITIL 4：云计算与微服务对组织架构的影响](https://blog.csdn.net/u013679029/article/details/149561180)
 
++ [基于数据挖掘的短视频点赞影响因素分析【LightGBM、XGBoost、随机森林、smote】](https://blog.csdn.net/weixin_47723732/article/details/149565925)
+
