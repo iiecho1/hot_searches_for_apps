@@ -239,3 +239,13 @@
 
 + [泰国代理总理：泰柬边境冲突未蔓延至其他地区 尚未进入战争状态](https://news.cctv.com/2025/07/24/ARTITzPRzbdszqd0KBmKBYof250724.shtml)
 
++ [国际观察：为全球产业链供应链持续注入韧性与活力](https://news.cctv.com/2025/07/24/ARTIbJxuIpR0Uw2T1oUkHEeZ250724.shtml)
+
++ [全球不稳定性加剧凸显德中合作价值——访德国斯图加特会展中心首席执行官布莱因罗特](https://news.cctv.com/2025/07/24/ARTI74heLn8TAJPeznjPn1oI250724.shtml)
+
++ [公不公开，都是问题——爱泼斯坦案持续搅动华盛顿](https://news.cctv.com/2025/07/24/ARTIdQk0dmusGRuQnl1F6snM250724.shtml)
+
++ [印度与英国签署自由贸易协议](https://news.cctv.com/2025/07/24/ARTIKolMtBHlnQNsHkVsT9xJ250724.shtml)
+
++ [泰国军方称再次空袭柬埔寨军事设施 袭击照片公布](https://news.cctv.com/2025/07/24/ARTIZtFjqLEwLJYQdvAGU8Ao250724.shtml)
+
