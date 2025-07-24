@@ -51,3 +51,7 @@
 
 + [12306 工作人员回应高铁可手机扫码反馈调温：夏季原则上控制在 26-28℃](https://m.ithome.com/html/870168.htm)
 
++ [新国标电动自行车将不再强制安装脚踏骑行装置](https://m.ithome.com/html/870383.htm)
+
++ [华为 MatePad Pro 12.2 英寸 2025 平板发布：双层 OLED 云晰柔光屏、HarmonyOS 5 系统，3999 元起](https://m.ithome.com/html/870404.htm)
+
