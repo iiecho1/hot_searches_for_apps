@@ -199,3 +199,7 @@
 
 + [中国驻柬埔寨大使馆提醒靠近柬泰边境的中国公民加强安全防范](https://news.cctv.com/2025/07/24/ARTIM4Jeb5WWAomWOmTu0jDR250724.shtml)
 
++ [俄失联安-24客机碎片在距机场15公里处被发现](https://news.cctv.com/2025/07/24/ARTIEEnEXklYmyvrp9jrn0yq250724.shtml)
+
++ [一架搭载约50人的客机在俄远东地区失联](https://news.cctv.com/2025/07/24/ARTIRJ2fa2meK3eeDGDLae9e250724.shtml)
+
