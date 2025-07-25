@@ -127,3 +127,5 @@
 
 + [【MyBatis-Plus】核心开发指南：高效CRUD与进阶实践](https://blog.csdn.net/2301_81073317/article/details/149438458)
 
++ [金仓数据库：融合与智能驱动下的革新与未来](https://blog.csdn.net/SDFsoul/article/details/149634988)
+
