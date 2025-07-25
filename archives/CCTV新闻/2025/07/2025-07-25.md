@@ -223,3 +223,5 @@
 
 + [以色列国防军称打死一名哈马斯高级别成员](https://news.cctv.com/2025/07/25/ARTI3jjp5S8h8DklBaxUljrQ250725.shtml)
 
++ [世卫组织警示基孔肯雅热疫情风险 呼吁全球加强防控](https://news.cctv.com/2025/07/25/ARTIP0U6VG55VKdmH0eHwvYb250725.shtml)
+

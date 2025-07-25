@@ -209,3 +209,15 @@
 
 + [使用Claude Code从零到一打造一个现代化的GitHub Star项目管理器](https://blog.csdn.net/q464042566/article/details/149548199)
 
++ [Java 大视界 -- Java 大数据机器学习模型在电商产品销量预测与库存优化管理中的应用（359）](https://blog.csdn.net/atgfg/article/details/149558043)
+
++ [AI大模型各类概念扫盲](https://blog.csdn.net/Sao_E/article/details/149617495)
+
++ [一文吃透 Redis：主从复制 / 哨兵 / 集群模式 + 缓存 + 分布式锁](https://blog.csdn.net/2401_82677021/article/details/149615199)
+
++ [SpringBoot航空订票系统的设计与实现](https://blog.csdn.net/qq_42631286/article/details/149616458)
+
++ [【谷歌安全之代码高塔下的英雄赞gmail篇】](https://blog.csdn.net/qq_43704986/article/details/149612314)
+
++ [腾讯云CodeBuddy+微信小程序：5分钟开发番茄小闹钟](https://blog.csdn.net/2201_75366661/article/details/149642820)
+
