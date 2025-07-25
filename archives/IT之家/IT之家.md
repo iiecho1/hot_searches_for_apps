@@ -25,3 +25,21 @@
 
 + [苹果详解 iOS 18.6 更新：主要是修复问题、提升稳定性](https://m.ithome.com/html/870559.htm)
 
++ [苹果 iOS 26 首个公测版发布：融入“液态玻璃”设计，应用全面升级](https://m.ithome.com/html/870569.htm)
+
++ [小米推出旗下首款 Google TV 流媒体电视棒](https://m.ithome.com/html/870558.htm)
+
++ [零跑全新纯电轿车 B01 上市：8.98 万-11.98 万元，可选激光雷达](https://m.ithome.com/html/870538.htm)
+
++ [马斯克转发懂车帝辅助驾驶测试：特斯拉没有本地训练数据，依旧取得最高成绩](https://m.ithome.com/html/870579.htm)
+
++ [小米汽车：正在抓紧研发家用直流充电桩，充电功率超过 7kW](https://m.ithome.com/html/870557.htm)
+
++ [小鹏汽车法务部：“汽车消费网”发布关于 MONA M03 的不正当贬损性评价，被判公开书面道歉并作出经济赔偿](https://m.ithome.com/html/870562.htm)
+
++ [小米汽车 8 月限时购车权益更新：YU7 取消零重力座椅，SU7 及 Ultra 部分配置下架](https://m.ithome.com/html/870617.htm)
+
++ [鸿蒙智行：已看到某平台所谓“测试”，不予置评](https://m.ithome.com/html/870693.htm)
+
++ [小米 REDMI Pad 2 亮相：2.5K 高亮屏、9000mAh 电池，8 月 1 日开售](https://m.ithome.com/html/870624.htm)
+

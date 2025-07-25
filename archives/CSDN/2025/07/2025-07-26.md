@@ -101,3 +101,7 @@
 
 + [【谷歌安全之代码高塔下的英雄赞gmail篇】](https://blog.csdn.net/qq_43704986/article/details/149612314)
 
++ [【NLP舆情分析】基于python微博舆情分析可视化系统(flask+pandas+echarts) 视频教程 - 主页-微博点赞量Top6实现](https://blog.csdn.net/caoli201314/article/details/149579810)
+
++ [【Linux-云原生-笔记】keepalived相关](https://blog.csdn.net/2301_79850619/article/details/149500244)
+
