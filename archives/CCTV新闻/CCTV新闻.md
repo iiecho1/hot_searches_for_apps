@@ -201,3 +201,7 @@
 
 + [激发上合组织成员国立法机构合作活力](https://news.cctv.com/2025/07/25/ARTInXLPxkaGWhNJmt94fI3z250725.shtml)
 
++ [柬埔寨谴责泰军使用集束炸弹 泰方暂无回应](https://news.cctv.com/2025/07/25/ARTIMvKxVE690O8TACVzjpn1250725.shtml)
+
++ [伊朗外长在与英法德会谈前重申伊朗铀浓缩权利](https://news.cctv.com/2025/07/25/ARTIVjK6uWPWZhpbFECogydj250725.shtml)
+

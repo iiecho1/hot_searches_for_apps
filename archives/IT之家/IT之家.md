@@ -69,3 +69,9 @@
 
 + [小米推出旗下首款 Google TV 流媒体电视棒](https://m.ithome.com/html/870558.htm)
 
++ [苹果 iOS 26 首个公测版发布：融入“液态玻璃”设计，应用全面升级](https://m.ithome.com/html/870569.htm)
+
++ [福耀科技大学今年首届招生 50 人集结完毕：最高 683 分，6 个老师服务 1 个学生](https://m.ithome.com/html/870456.htm)
+
++ [《明末：渊虚之羽》致歉：正紧急联系 Steam 回调正确价格，并尽快推出补丁](https://m.ithome.com/html/870527.htm)
+
