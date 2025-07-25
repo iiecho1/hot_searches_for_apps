@@ -205,3 +205,7 @@
 
 + [伊朗外长在与英法德会谈前重申伊朗铀浓缩权利](https://news.cctv.com/2025/07/25/ARTIVjK6uWPWZhpbFECogydj250725.shtml)
 
++ [美媒称美军缩减F-35战机采购量](https://news.cctv.com/2025/07/25/ARTIIXRZ7Y4LOSt8Z7lMah7J250725.shtml)
+
++ [中国驻韩国使馆提醒来韩团体游客谨防强制消费](https://news.cctv.com/2025/07/25/ARTIbF2nmWA7l401Znf9g5X5250725.shtml)
+

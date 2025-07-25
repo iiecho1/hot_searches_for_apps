@@ -169,3 +169,11 @@
 
 + [火山引擎 MCP 安全架构与实践](https://blog.csdn.net/volcenginetod/article/details/149602789)
 
++ [【深度学习优化算法】09：Adadelta算法](https://blog.csdn.net/Morse_Chen/article/details/149615444)
+
++ [「自然语言驱动生产力」21. 淘汰简历筛选：DeepSeek+ATS实现精准人才挖掘](https://blog.csdn.net/weixin_39815573/article/details/149605454)
+
++ [【NLP舆情分析】基于python微博舆情分析可视化系统(flask+pandas+echarts) 视频教程 - 主页-微博点赞量Top6实现](https://blog.csdn.net/caoli201314/article/details/149579810)
+
++ [linux_服务端与客户端剖析](https://blog.csdn.net/nplplus/article/details/149548845)
+
