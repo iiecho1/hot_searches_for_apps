@@ -163,3 +163,7 @@
 
 + [泰国军方：针对柬方军事目标实施打击](https://news.cctv.com/2025/07/25/ARTIUZk8qYKeogYWn0FPbcJD250725.shtml)
 
++ [在俄远东地区坠毁客机上有一名中国公民 我领馆将开展工作](https://news.cctv.com/2025/07/25/ARTIw9VcMEbdoKp9ZXdCjR9z250725.shtml)
+
++ [中领馆：感谢尼日利亚警方努力侦破中国公民遇害案 愿继续加强交流合作](https://news.cctv.com/2025/07/25/ARTItMxlUQXcViiyLXK3TGRI250725.shtml)
+

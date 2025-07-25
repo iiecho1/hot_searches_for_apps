@@ -55,3 +55,13 @@
 
 + [华为 MatePad Pro 12.2 英寸 2025 平板发布：双层 OLED 云晰柔光屏、HarmonyOS 5 系统，3999 元起](https://m.ithome.com/html/870404.htm)
 
++ [四川机场警方通报网约车在停车场绕行：驾驶员长时间联系不上客人，情绪急躁](https://m.ithome.com/html/870545.htm)
+
++ [懂车帝回应某车型辅助驾驶测评争议：驾驶员未干预方向盘，AEB 介入致功能受限](https://m.ithome.com/html/870531.htm)
+
++ [比亚迪回应网传“天府机场一辆汽车失控”：严重失实，事件与车辆本身无关](https://m.ithome.com/html/870556.htm)
+
++ [配置升级还降 300 元：华为 MatePad Pro 12.2 英寸 2025 款 7 月 30 日开售，3999 元起](https://m.ithome.com/html/870436.htm)
+
++ [苹果详解 iOS 18.6 更新：主要是修复问题、提升稳定性](https://m.ithome.com/html/870559.htm)
+
