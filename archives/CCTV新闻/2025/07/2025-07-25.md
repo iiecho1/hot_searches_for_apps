@@ -211,3 +211,5 @@
 
 + [泰柬边境冲突升级 泰国军方强烈谴责柬军袭击平民](https://news.cctv.com/2025/07/25/ARTIygIt7AgHyE6zGjVHqpnY250725.shtml)
 
++ [柬埔寨称泰方向平民区开枪 泰总理府驳斥：歪曲事实](https://news.cctv.com/2025/07/25/ARTITx8iDSBR9PeUxXrYElyT250725.shtml)
+
