@@ -183,3 +183,15 @@
 
 + [马克龙：法国将于9月承认巴勒斯坦国](https://news.cctv.com/2025/07/25/ARTIz7A14BPOY8sVtHScNnab250725.shtml)
 
++ [多个热带气旋夹击致菲律宾超384万人受灾](https://news.cctv.com/2025/07/25/ARTIUhYid4AVJ2ERJ4TzHKLW250725.shtml)
+
++ [塞浦路斯高温持续 山火致2人死亡](https://news.cctv.com/2025/07/25/ARTIT1gglchTIE0DeR3bIfZ3250725.shtml)
+
++ [泰国军方称边境冲突已致柬方24人死亡](https://news.cctv.com/2025/07/25/ARTIH81xT9kKIASeDWCNqhUN250725.shtml)
+
++ [俄阿穆尔州和哈巴罗夫斯克边疆区宣布为客机失事遇难者哀悼三天](https://news.cctv.com/2025/07/25/ARTIxXMQSriEWn6OlIGiouIP250725.shtml)
+
++ [北美观察丨“叛国门”与“通俄门”对撞 美国陷入情报政治化争议](https://news.cctv.com/2025/07/25/ARTIPsCYmTYyrVXjkXBKo60F250725.shtml)
+
++ [驻墨尔本总领馆提醒领区中国公民加强人身安全防范](https://news.cctv.com/2025/07/25/ARTIH1LM5jGYYpm15YiBbk7W250725.shtml)
+

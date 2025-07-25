@@ -155,3 +155,11 @@
 
 + [Python实战——用 Web Unlocker 构建企业级电商竞品监控系统的终极手册](https://blog.csdn.net/weixin_50804299/article/details/149584737)
 
++ [MCP与企业数据集成：ERP、CRM、数据仓库的统一接入](https://blog.csdn.net/IRpickstars/article/details/149560462)
+
++ [基于Bright Data网页的实时监控BESTBUY（百思买）价格方法——零代码实操指南](https://blog.csdn.net/Pocker_Spades_A/article/details/149615588)
+
++ [基于GeoTools和SpringBoot的省域驾车最快路线生成实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/149617580)
+
++ [CodeBuddy IDE 全面体验测评：AI 驱动的全栈开发新时代](https://blog.csdn.net/qq_33681891/article/details/149559902)
+

@@ -65,3 +65,7 @@
 
 + [苹果详解 iOS 18.6 更新：主要是修复问题、提升稳定性](https://m.ithome.com/html/870559.htm)
 
++ [零跑全新纯电轿车 B01 上市：8.98 万-11.98 万元，可选激光雷达](https://m.ithome.com/html/870538.htm)
+
++ [小米推出旗下首款 Google TV 流媒体电视棒](https://m.ithome.com/html/870558.htm)
+
