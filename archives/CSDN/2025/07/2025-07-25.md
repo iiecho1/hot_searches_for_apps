@@ -201,3 +201,11 @@
 
 + [【学习路线】JavaScript全栈开发攻略：前端到后端的完整征程](https://blog.csdn.net/qq_51335325/article/details/149618628)
 
++ [三、Spark 运行环境部署：全面掌握四种核心模式](https://blog.csdn.net/2401_83830408/article/details/149570349)
+
++ [构建RAG智能体(4)：嵌入模型的概念和应用](https://blog.csdn.net/tilblackout/article/details/149547439)
+
++ [ZABBIX配置自动发现与自动注册，网易邮箱告警和钉钉告警](https://blog.csdn.net/SH11HF/article/details/149612149)
+
++ [使用Claude Code从零到一打造一个现代化的GitHub Star项目管理器](https://blog.csdn.net/q464042566/article/details/149548199)
+

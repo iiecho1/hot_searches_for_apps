@@ -19,3 +19,19 @@
 
 + [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 
++ [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
+
++ [m1k1o/neko](https://github.com/m1k1o/neko)
+
++ [semgrep/semgrep](https://github.com/semgrep/semgrep)
+
++ [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)
+
++ [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+
++ [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
+
++ [moby/moby](https://github.com/moby/moby)
+
++ [twbs/bootstrap](https://github.com/twbs/bootstrap)
+

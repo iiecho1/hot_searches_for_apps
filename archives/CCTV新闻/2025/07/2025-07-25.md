@@ -221,3 +221,5 @@
 
 + [泰国拒绝第三方调停 要求通过双边会谈解决泰柬冲突](https://news.cctv.com/2025/07/25/ARTIF9cp8XqBwSNueOR52XeW250725.shtml)
 
++ [以色列国防军称打死一名哈马斯高级别成员](https://news.cctv.com/2025/07/25/ARTI3jjp5S8h8DklBaxUljrQ250725.shtml)
+
