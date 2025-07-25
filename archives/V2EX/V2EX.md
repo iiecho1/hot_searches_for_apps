@@ -49,3 +49,5 @@
 
 + [有没有长期 Windows 不关机做家庭服务器的？](https://www.v2ex.com/t/1147588)
 
++ [都在空投 sol，那我跟风空投点$V2EX 试试水吧](https://www.v2ex.com/t/1147742)
+

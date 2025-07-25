@@ -225,3 +225,11 @@
 
 + [世卫组织警示基孔肯雅热疫情风险 呼吁全球加强防控](https://news.cctv.com/2025/07/25/ARTIP0U6VG55VKdmH0eHwvYb250725.shtml)
 
++ [白宫与美国多所大学谈判 哈佛或以巨额罚款换取联邦资金](https://news.cctv.com/2025/07/25/ARTIIe62EW3ya3ieiLBvC04o250725.shtml)
+
++ [乌克兰再延长战时状态和总动员令90天](https://news.cctv.com/2025/07/25/ARTIHUivKHCgmujPlrl9aQin250725.shtml)
+
++ [边境冲突调停细节披露！柬指责泰方言而无信 泰称仍愿直接对话](https://news.cctv.com/2025/07/25/ARTI7V1q8yjXKD6hHKHaqH5y250725.shtml)
+
++ [上合国家人士“点赞”中国流行文化](https://news.cctv.com/2025/07/25/ARTIn3IaHWOo9uLRP8p5uNYJ250725.shtml)
+

@@ -221,3 +221,7 @@
 
 + [腾讯云CodeBuddy+微信小程序：5分钟开发番茄小闹钟](https://blog.csdn.net/2201_75366661/article/details/149642820)
 
++ [CodeBuddy IDE发布：编程新时代的颠覆者？](https://blog.csdn.net/xinnian_yyds/article/details/149593721)
+
++ [Linux库——库的制作和原理(1)_回顾动静态库、制作使用库](https://blog.csdn.net/2301_79705195/article/details/149619740)
+
