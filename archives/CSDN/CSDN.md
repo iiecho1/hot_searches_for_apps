@@ -143,3 +143,15 @@
 
 + [【MyBatis-Plus】核心开发指南：高效CRUD与进阶实践](https://blog.csdn.net/2301_81073317/article/details/149438458)
 
++ [在AI深度嵌入企业业务的当下——AI时代的融合数据库](https://blog.csdn.net/qq_42603590/article/details/149584073)
+
++ [Web3介绍（Web 3.0）（一种基于区块链技术的去中心化互联网范式，旨在通过技术手段实现用户对数据的自主权、隐私保护和价值共享）](https://blog.csdn.net/Dontla/article/details/149536708)
+
++ [基于 XGBoost 与 SHAP 的医疗自动化办公与可视化系统（下）](https://blog.csdn.net/kkiron/article/details/149561136)
+
++ [20-ospf技术](https://blog.csdn.net/2303_77705716/article/details/149614162)
+
++ [IPv4枯竭时代：从NAT技术到IPv6的演进之路](https://blog.csdn.net/to_mountain/article/details/149536241)
+
++ [Python实战——用 Web Unlocker 构建企业级电商竞品监控系统的终极手册](https://blog.csdn.net/weixin_50804299/article/details/149584737)
+

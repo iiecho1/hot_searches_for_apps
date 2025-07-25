@@ -69,3 +69,7 @@
 
 + [透视纵深](https://m.acfun.cn/v/?ac=47650533)
 
++ [【柯基】《简单的幸福》](https://m.acfun.cn/v/?ac=47650899)
+
++ [Stellar Marionette 提线木偶](https://m.acfun.cn/v/?ac=47644371)
+

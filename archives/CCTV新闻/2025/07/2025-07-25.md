@@ -167,3 +167,19 @@
 
 + [中领馆：感谢尼日利亚警方努力侦破中国公民遇害案 愿继续加强交流合作](https://news.cctv.com/2025/07/25/ARTItMxlUQXcViiyLXK3TGRI250725.shtml)
 
++ [普京提出俄海军潜艇部队战略发展任务](https://news.cctv.com/2025/07/25/ARTItnttM3eUExaZkiAaqu81250725.shtml)
+
++ [波黑专家：美关税政策可能促使欧洲摆脱对美依赖](https://news.cctv.com/2025/07/25/ARTIGguwhCistlWaJ53WcJLL250725.shtml)
+
++ [“星链”发生大面积中断 目前服务已基本恢复](https://news.cctv.com/2025/07/25/ARTIPknQLZ7t4aZSJLZjsIxh250725.shtml)
+
++ [俄一架安-24客机在阿穆尔州坠毁数十人遇难 普京致哀](https://news.cctv.com/2025/07/25/ARTIriOc4tcHXMinYzmUaYW0250725.shtml)
+
++ [哈马斯：对美国特使指责言论“吃惊” 希望继续停火谈判](https://news.cctv.com/2025/07/25/ARTIm8iYnG4SHtOHVUtm8roc250725.shtml)
+
++ [泰柬边境地区再次发生交火](https://news.cctv.com/2025/07/25/ARTIc1KoflKXnRcsAoco3MIf250725.shtml)
+
++ [越南河静省一台卧铺大巴发生事故 致9人死亡](https://news.cctv.com/2025/07/25/ARTItMgjmPgCcXWHoIzoRu5f250725.shtml)
+
++ [马克龙：法国将于9月承认巴勒斯坦国](https://news.cctv.com/2025/07/25/ARTIz7A14BPOY8sVtHScNnab250725.shtml)
+
