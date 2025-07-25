@@ -57,3 +57,9 @@
 
 + [罗马仕充电宝在口袋里自燃：小伙大腿三度烧伤，产品非召回批次](https://m.ithome.com/html/870804.htm)
 
++ [福耀科技大学今年首届招生 50 人集结完毕：最高 683 分，6 个老师服务 1 个学生](https://m.ithome.com/html/870456.htm)
+
++ [《明末：渊虚之羽》致歉：正紧急联系 Steam 回调正确价格，并尽快推出补丁](https://m.ithome.com/html/870527.htm)
+
++ [工信部：鼓励电动自行车安装后视镜、转向灯](https://m.ithome.com/html/870440.htm)
+

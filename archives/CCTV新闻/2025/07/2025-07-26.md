@@ -161,3 +161,7 @@
 
 + [泰国召回驻柬大使并降级泰柬外交关系 柬方宣布对等回应](https://news.cctv.com/2025/07/24/ARTINMAIGytgzmJF4hF464J4250724.shtml)
 
++ [以色列将允许约旦和阿联酋向加沙空投援助物资](https://news.cctv.com/2025/07/26/ARTI7ja2W3q85yJVGQ9Lqttn250726.shtml)
+
++ [以军袭击加沙地带领取物资民众 造成上百人伤亡](https://news.cctv.com/2025/07/26/ARTI7s8BkBZ8zfqoGEoCEwt8250726.shtml)
+
