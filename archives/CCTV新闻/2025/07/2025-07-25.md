@@ -213,3 +213,11 @@
 
 + [柬埔寨称泰方向平民区开枪 泰总理府驳斥：歪曲事实](https://news.cctv.com/2025/07/25/ARTITx8iDSBR9PeUxXrYElyT250725.shtml)
 
++ [俄坠毁安-24客机黑匣子已找到](https://news.cctv.com/2025/07/25/ARTIvfyAhT4TgDMbBqfdyR8P250725.shtml)
+
++ [印度一学校建筑物倒塌 已致7名儿童死亡](https://news.cctv.com/2025/07/25/ARTIf6YcYAtQE2DAbfzqE2J0250725.shtml)
+
++ [菲律宾最高法院宣布暂停对副总统莎拉·杜特尔特的弹劾程序](https://news.cctv.com/2025/07/25/ARTI4zYnglM9vSb3KISpFnNA250725.shtml)
+
++ [泰国拒绝第三方调停 要求通过双边会谈解决泰柬冲突](https://news.cctv.com/2025/07/25/ARTIF9cp8XqBwSNueOR52XeW250725.shtml)
+

@@ -191,3 +191,9 @@
 
 + [2024年09月17日 Go生态洞察：泛型别名类型深度剖析](https://blog.csdn.net/qq_44866828/article/details/149549759)
 
++ [图机器学习（22）——图机器学习技术应用](https://blog.csdn.net/LOVEmy134611/article/details/149252576)
+
++ [智慧驾驶疲劳检测算法的实时性优化](https://blog.csdn.net/yangbisheng1121/article/details/149619185)
+
++ [Python-初学openCV——图像预处理（二）](https://blog.csdn.net/bright_colo/article/details/149585120)
+
