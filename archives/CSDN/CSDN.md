@@ -163,3 +163,9 @@
 
 + [CodeBuddy IDE 全面体验测评：AI 驱动的全栈开发新时代](https://blog.csdn.net/qq_33681891/article/details/149559902)
 
++ [Spring事务注解详解：确保你的应用数据的一致性](https://blog.csdn.net/2301_80795057/article/details/149580084)
+
++ [飞算 JavaAI：让 Java 开发效率翻倍的秘密武器 #飞算JavaAl炫技赛 #Java开发](https://blog.csdn.net/qq_33650655/article/details/149590283)
+
++ [火山引擎 MCP 安全架构与实践](https://blog.csdn.net/volcenginetod/article/details/149602789)
+
