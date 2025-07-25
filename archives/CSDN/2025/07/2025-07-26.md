@@ -129,3 +129,5 @@
 
 + [金仓数据库：融合与智能驱动下的革新与未来](https://blog.csdn.net/SDFsoul/article/details/149634988)
 
++ [自己动手造轮子：如何创建JAR并通过Maven在Spring Boot中引用](https://blog.csdn.net/qq_42043458/article/details/149599372)
+

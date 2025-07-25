@@ -43,3 +43,17 @@
 
 + [小米 REDMI Pad 2 亮相：2.5K 高亮屏、9000mAh 电池，8 月 1 日开售](https://m.ithome.com/html/870624.htm)
 
++ [外观看齐 M8、M9，鸿蒙智行全新问界 M7 实车曝光](https://m.ithome.com/html/870744.htm)
+
++ [最高法裁决：小米打赢与 GE 公司 HEVC / H.265 视频编解码专利战](https://m.ithome.com/html/870699.htm)
+
++ [理想汽车副总裁刘杰称 i8 遭抹黑，蔚来乐道总裁沈斐建议直接报警](https://m.ithome.com/html/870584.htm)
+
++ [鸿蒙智行 SUV 问界 M8 纯电版开启预订：预售价 37.8 万元起，首发支持双路冗余供电的华为 DriveONE 高压七合一电驱](https://m.ithome.com/html/870633.htm)
+
++ [初探苹果 iPadOS 26 首个公测版：类 Mac 窗口、更强大 Dock 栏、液态玻璃设计](https://m.ithome.com/html/870578.htm)
+
++ [全球第二款量产旗舰三折叠华为 Mate XTs 曝光：9 月前后发布，玄黑、瑞红、皓白、绛紫四色可选](https://m.ithome.com/html/870665.htm)
+
++ [罗马仕充电宝在口袋里自燃：小伙大腿三度烧伤，产品非召回批次](https://m.ithome.com/html/870804.htm)
+
