@@ -225,3 +225,5 @@
 
 + [Linux库——库的制作和原理(1)_回顾动静态库、制作使用库](https://blog.csdn.net/2301_79705195/article/details/149619740)
 
++ [Android Studio中调用USB摄像头](https://blog.csdn.net/2401_88925981/article/details/149573503)
+

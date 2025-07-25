@@ -233,3 +233,5 @@
 
 + [上合国家人士“点赞”中国流行文化](https://news.cctv.com/2025/07/25/ARTIn3IaHWOo9uLRP8p5uNYJ250725.shtml)
 
++ [巴西总统：可以就关税问题与美谈判但拒绝“侮辱与恐吓”](https://news.cctv.com/2025/07/25/ARTITgyFeyXGQIKo4qO4LOAA250725.shtml)
+
