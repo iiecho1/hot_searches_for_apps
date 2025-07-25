@@ -209,3 +209,5 @@
 
 + [中国驻韩国使馆提醒来韩团体游客谨防强制消费](https://news.cctv.com/2025/07/25/ARTIbF2nmWA7l401Znf9g5X5250725.shtml)
 
++ [泰柬边境冲突升级 泰国军方强烈谴责柬军袭击平民](https://news.cctv.com/2025/07/25/ARTIygIt7AgHyE6zGjVHqpnY250725.shtml)
+
