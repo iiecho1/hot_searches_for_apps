@@ -197,3 +197,15 @@
 
 + [【Web安全】逻辑漏洞之URL跳转漏洞：原理、场景与防御](https://blog.csdn.net/qq_40037555/article/details/149629340)
 
++ [【源力觉醒 创作者计划】2025年国产AI模型深度测评：文心大模型4.5、DeepSeek、Qwen3能力大比拼](https://blog.csdn.net/weixin_66401877/article/details/149635669)
+
++ [基于 Claude Code 与 BrowserCat MCP 的浏览器自动化全链路构建实践](https://blog.csdn.net/2301_80863610/article/details/149668538)
+
++ [使用 Amazon Q Developer 构建企业自动化代码审核流程](https://blog.csdn.net/zhangxia_/article/details/149429515)
+
++ [Redis学习：持久化与事务（Transaction）](https://blog.csdn.net/2401_82677021/article/details/149614827)
+
++ [详谈OSI七层模型和TCP/IP四层模型以及tcp与udp为什么是4层，http与https为什么是7层](https://blog.csdn.net/qq_43394776/article/details/149650592)
+
++ [数据可视化](https://blog.csdn.net/weixin_74414860/article/details/149647508)
+

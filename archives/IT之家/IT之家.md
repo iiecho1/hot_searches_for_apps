@@ -71,3 +71,23 @@
 
 + [福耀科技大学 7 位院长亮相，本硕博 8 年制培养](https://m.ithome.com/html/870786.htm)
 
++ [小米汽车回应 SU7 调整部分配置：为进一步优化生产流程，提升交付效率](https://m.ithome.com/html/870838.htm)
+
++ [大连首家苹果 Apple Store 百年城店 8 月 9 日停止营业](https://m.ithome.com/html/870878.htm)
+
++ [小艺输入法成华为鸿蒙 NEXT 系统首个千万安装量 App](https://m.ithome.com/html/870846.htm)
+
++ [国产首款 6nm 显卡 GPU 砺算 7G106/105 亮相：性能赶超 RTX 4060，发布会现场实机演示《黑神话：悟空》](https://m.ithome.com/html/870926.htm)
+
++ [重要进展：清华大学开发出理想的极紫外（EUV）光刻胶材料](https://m.ithome.com/html/870862.htm)
+
++ [“365 天不登录账号或被删”？网易游戏遭大量投诉](https://m.ithome.com/html/870887.htm)
+
++ [中国游戏算法诉讼第一案：青岛律师诉请腾讯公开《王者荣耀》匹配算法，8 月 12 日在深圳南山法院开庭](https://m.ithome.com/html/870886.htm)
+
++ [绿色版苹果 iPhone 17 机模上手视频曝光](https://m.ithome.com/html/870835.htm)
+
++ [北京大学元培学院新生讨论班开设《原神》政治学课程](https://m.ithome.com/html/870855.htm)
+
++ [全球限量 337 辆：盖茨为保时捷 959 汽车，坚持 13 年承担每天 28 美元罚款](https://m.ithome.com/html/870906.htm)
+
