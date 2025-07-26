@@ -193,3 +193,5 @@
 
 + [柬泰边境冲突已造成13名柬埔寨人死亡 泰媒说泰柬军队在边境地区开始交火](https://news.cctv.com/2025/07/26/ARTISjoi7thPgnYMngkSvVsJ250726.shtml)
 
++ [老挝军方称泰柬交火致10枚炮弹落入该国境内](https://news.cctv.com/2025/07/26/ARTISq65xA2s5Nvvoai6GqWh250726.shtml)
+
