@@ -165,3 +165,5 @@
 
 + [以军称在黎南部打死一名黎真主党高级指挥官](https://news.cctv.com/2025/07/27/ARTIkvbTGvZGmPRRmyEiPdKv250727.shtml)
 
++ [特朗普访问苏格兰 英国多地发生抗议活动](https://news.cctv.com/2025/07/27/ARTIQyOMvJoMEeC3PbGAhil5250727.shtml)
+
