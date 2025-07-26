@@ -161,3 +161,5 @@
 
 + [柬埔寨国防部：本次冲突系泰方率先开火 且动用重型武器及战机](https://news.cctv.com/2025/07/24/ARTIe9qkwecvEnM02DJlFprP250724.shtml)
 
++ [泰柬边境交火 我驻泰国大使馆提醒中国公民避免前往有关区域](https://news.cctv.com/2025/07/27/ARTIbvTKFfUs4x2YFRJxyUe2250727.shtml)
+

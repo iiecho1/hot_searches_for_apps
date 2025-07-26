@@ -101,3 +101,13 @@
 
 + [在 Azure 中配置 SMS 与 OTP](https://blog.csdn.net/m0_56699208/article/details/149635437)
 
++ [深度学习（鱼书）day02--神经网络（前三节）](https://blog.csdn.net/weixin_66162442/article/details/149650582)
+
++ [MyBatis 之缓存机制核心解析](https://blog.csdn.net/qq_46987323/article/details/149614795)
+
++ [【13】C# 窗体应用WinForm——.NET Framework、WinForm、工程创建、工具箱简介、窗体属性及创建](https://blog.csdn.net/m0_51233386/article/details/149639205)
+
++ [【Web安全】逻辑漏洞之URL跳转漏洞：原理、场景与防御](https://blog.csdn.net/qq_40037555/article/details/149629340)
+
++ [OneCode3.0 Gallery 组件前后端映射机制：从注解配置到前端渲染的完整链路](https://blog.csdn.net/wenzhangli/article/details/149651640)
+
