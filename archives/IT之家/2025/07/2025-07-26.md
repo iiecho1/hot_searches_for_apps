@@ -63,3 +63,11 @@
 
 + [工信部：鼓励电动自行车安装后视镜、转向灯](https://m.ithome.com/html/870440.htm)
 
++ [卢伟冰：我很有信心小米 16 Ultra 将是移动影像新高度，敬请期待](https://m.ithome.com/html/870821.htm)
+
++ [俄罗斯唯一现役航母考虑报废或售出](https://m.ithome.com/html/870796.htm)
+
++ [摩尔线程 S90 首曝：两年前未能亮出的底牌，游戏性能小胜英伟达 RTX 4060](https://m.ithome.com/html/870603.htm)
+
++ [福耀科技大学 7 位院长亮相，本硕博 8 年制培养](https://m.ithome.com/html/870786.htm)
+
