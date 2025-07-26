@@ -171,3 +171,5 @@
 
 + [文化大集：架起中俄友谊之桥](https://news.cctv.com/2025/07/27/ARTIB2llNLXP83BViKZ2ZkpT250726.shtml)
 
++ [特朗普与柬埔寨和泰国领导人通电话](https://news.cctv.com/2025/07/27/ARTIsPSSXEcjqgmwMJyjJBTE250727.shtml)
+
