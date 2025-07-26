@@ -177,3 +177,5 @@
 
 + [GMP模型](https://blog.csdn.net/2302_80067378/article/details/149648414)
 
++ [40、鸿蒙Harmony Next开发：UI场景化-组件截图（ComponentSnapshot）](https://blog.csdn.net/yezuiqingxin/article/details/149596403)
+
