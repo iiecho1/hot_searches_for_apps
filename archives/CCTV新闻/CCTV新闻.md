@@ -183,3 +183,13 @@
 
 + [韩法院首度认定尹锡悦发动戒严致精神损失 须支付赔偿](https://news.cctv.com/2025/07/26/ARTIj3MUCWe1rgDQxB9Nqbjm250726.shtml)
 
++ [泰军方向26国发函：柬埔寨率先开火并袭击平民](https://news.cctv.com/2025/07/26/ARTIOLoDJWpA8YKX2DfKItBU250726.shtml)
+
++ [卢旺达新内阁宣誓就职](https://news.cctv.com/2025/07/26/ARTI5H7gVikaCP6VcMtHc7gs250726.shtml)
+
++ [韩国重建协商机制以化解医生“辞职潮”](https://news.cctv.com/2025/07/26/ARTIZ0We8N0AZmMbGIQza4Yp250726.shtml)
+
++ [半年万余人 德国加速遣返非法居留者](https://news.cctv.com/2025/07/26/ARTIzQMlqqu4aeuAxq3KSHoQ250726.shtml)
+
++ [柬泰边境冲突已造成13名柬埔寨人死亡 泰媒说泰柬军队在边境地区开始交火](https://news.cctv.com/2025/07/26/ARTISjoi7thPgnYMngkSvVsJ250726.shtml)
+

@@ -139,3 +139,17 @@
 
 + [（8）(8.5) Hex HereFlow 光学流量传感器](https://blog.csdn.net/qq_20016593/article/details/149346590)
 
++ [【源力觉醒 创作者计划】文心大模型 4.5 开源了，和你一起解锁 AI 从封闭到开放的澎湃势能](https://blog.csdn.net/weixin_62782025/article/details/149578451)
+
++ [顺应AI浪潮，电科金仓数据库再创辉煌](https://blog.csdn.net/2302_79376097/article/details/149634878)
+
++ [dify-rookie_text2data工具使用](https://blog.csdn.net/weixin_55781982/article/details/149636154)
+
++ [MCP工具开发实战：打造智能体的“超能力“](https://blog.csdn.net/IRpickstars/article/details/149628564)
+
++ [Linux库——库的制作和原理(1)_回顾动静态库、制作使用库](https://blog.csdn.net/2301_79705195/article/details/149619740)
+
++ [从零到实战：Spring Cloud Alibaba 项目集成 Sentinel，教你限流熔断一把过](https://blog.csdn.net/weixin_43304253/article/details/149640733)
+
++ [云原生 —— K8s 容器编排系统](https://blog.csdn.net/weixin_56631477/article/details/149616591)
+
