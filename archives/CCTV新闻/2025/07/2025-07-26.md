@@ -217,3 +217,13 @@
 
 + [泰柬边境冲突已致泰国20人死亡](https://news.cctv.com/2025/07/26/ARTIyDWvnJuuYb85KLLw2bIP250726.shtml)
 
++ [初步调查显示俄安-24客机坠毁前各系统未失效](https://news.cctv.com/2025/07/26/ARTIvvjDDJ1v1yvQ6bZJU0Oy250726.shtml)
+
++ [泰媒说泰国空军打击柬埔寨军事目标](https://news.cctv.com/2025/07/26/ARTIvLbngGglTnFPzW7Rz78t250726.shtml)
+
++ [伊朗司法机构大楼恐袭事件已致6人死亡 死者多为平民](https://news.cctv.com/2025/07/26/ARTId79SmbyQ22O35LT9XOLb250726.shtml)
+
++ [以军说一枚炮弹从加沙飞入以色列](https://news.cctv.com/2025/07/26/ARTIqOraCpdnaUaSxiZRsKaC250726.shtml)
+
++ [联合国人居署非洲南部次区域办公室落户博茨瓦纳](https://news.cctv.com/2025/07/26/ARTIYpQE7uGOC4WEqH1Nn2ma250726.shtml)
+

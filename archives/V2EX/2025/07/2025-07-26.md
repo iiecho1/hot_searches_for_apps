@@ -63,3 +63,5 @@
 
 + [已然半生，计划再写五年代码，改行是难免的](https://www.v2ex.com/t/1147807)
 
++ [Kazakhstan 哈萨克斯坦中石化项目打工靠谱吗？](https://www.v2ex.com/t/1147811)
+
