@@ -91,3 +91,5 @@
 
 + [全球限量 337 辆：盖茨为保时捷 959 汽车，坚持 13 年承担每天 28 美元罚款](https://m.ithome.com/html/870906.htm)
 
++ [小米 REDMI 15 手机渲染图曝光：高通骁龙 6s Gen 3 芯片，3 种颜色](https://m.ithome.com/html/870877.htm)
+

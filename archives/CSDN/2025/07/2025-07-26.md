@@ -209,3 +209,5 @@
 
 + [数据可视化](https://blog.csdn.net/weixin_74414860/article/details/149647508)
 
++ [深度学习day02--神经网络（前三节）](https://blog.csdn.net/weixin_66162442/article/details/149650582)
+
