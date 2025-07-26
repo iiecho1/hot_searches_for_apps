@@ -183,3 +183,17 @@
 
 + [HTTPS证书体系，证书加密流程（通信体系）](https://blog.csdn.net/2401_88153531/article/details/149579886)
 
++ [华为云DRS实现Oracle到GaussDB数据库迁移的全流程技术方案](https://blog.csdn.net/GaussDB/article/details/149631421)
+
++ [Go、Node.js、Python、PHP、Java五种语言的直播推流RTMP协议技术实施方案和思路-优雅草卓伊凡](https://blog.csdn.net/dujiangdu123/article/details/149649681)
+
++ [Maven Scope标签：解锁Java项目依赖管理的秘密武器](https://blog.csdn.net/qq_36984455/article/details/149597310)
+
++ [linux-开机启动流程](https://blog.csdn.net/2501_92004703/article/details/149551729)
+
++ [在 Azure 中配置 SMS 与 OTP](https://blog.csdn.net/m0_56699208/article/details/149635437)
+
++ [用 Docker 一键部署 Flask + Redis 微服务](https://blog.csdn.net/chen1108____/article/details/149634831)
+
++ [【Web安全】逻辑漏洞之URL跳转漏洞：原理、场景与防御](https://blog.csdn.net/qq_40037555/article/details/149629340)
+
