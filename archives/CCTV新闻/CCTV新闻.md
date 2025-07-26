@@ -203,3 +203,9 @@
 
 + [美国客机又险些撞上战机](https://news.cctv.com/2025/07/26/ARTI7e7nKlpu75GCMl2U60GK250726.shtml)
 
++ [伊朗东南部司法机构大楼发生恐怖袭击事件](https://news.cctv.com/2025/07/26/ARTIhV0XVRB11XBp0at6rXcB250726.shtml)
+
++ [哈萨克斯坦失踪军用直升机碎片被找到](https://news.cctv.com/2025/07/26/ARTInjLlLoSkSEeKlFcN3Ko1250726.shtml)
+
++ [泰国陆军向多国发函 从泰方立场介绍泰柬边境局势](https://news.cctv.com/2025/07/26/ARTIOaxOZGBGmNOb6mbBJ5Dr250726.shtml)
+
