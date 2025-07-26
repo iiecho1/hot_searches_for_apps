@@ -195,3 +195,11 @@
 
 + [老挝军方称泰柬交火致10枚炮弹落入该国境内](https://news.cctv.com/2025/07/26/ARTISq65xA2s5Nvvoai6GqWh250726.shtml)
 
++ [老柬边境爆发武装冲突 老挝军方拘捕10名越境武装人员](https://news.cctv.com/2025/07/26/ARTIYa4vGPqgXt7ocAx6O29b250726.shtml)
+
++ [安理会就泰柬边境冲突召开紧急闭门会议 泰柬各自提出通过和平手段解决争端](https://news.cctv.com/2025/07/26/ARTIeLFIJSj0h6ILVfKZUNwm250726.shtml)
+
++ [柬埔寨驳斥“先入侵泰国”指控：我们才是受害者](https://news.cctv.com/2025/07/26/ARTIhmuHRLwOuYDy7WsaU9Wa250726.shtml)
+
++ [美国客机又险些撞上战机](https://news.cctv.com/2025/07/26/ARTI7e7nKlpu75GCMl2U60GK250726.shtml)
+
