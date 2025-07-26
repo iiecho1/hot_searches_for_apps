@@ -111,3 +111,25 @@
 
 + [OneCode3.0 Gallery 组件前后端映射机制：从注解配置到前端渲染的完整链路](https://blog.csdn.net/wenzhangli/article/details/149651640)
 
++ [AI大模型各类概念扫盲](https://blog.csdn.net/Sao_E/article/details/149617495)
+
++ [【数据库】AI驱动未来：电科金仓新一代数据库一体机如何重构性能边界？](https://blog.csdn.net/qq_38628970/article/details/149634354)
+
++ [图机器学习（20）——欺诈交易检测算法](https://blog.csdn.net/LOVEmy134611/article/details/149250703)
+
++ [顺应AI浪潮，电科金仓数据库再创辉煌](https://blog.csdn.net/2302_79376097/article/details/149634878)
+
++ [【LLM】Kimi-K2模型架构（MuonClip 优化器等）](https://blog.csdn.net/qq_35812205/article/details/149347884)
+
++ [Docker Top 命令深度解析：实时监控容器内进程活动](https://blog.csdn.net/qq_41840843/article/details/149033257)
+
++ [最新免费使用Claude Code指南（Windows & macOS/Linux）](https://blog.csdn.net/qq_34640315/article/details/149597991)
+
++ [系统分析师-计算机系统-操作系统-文件管理&作业与用户界面&国产操作系统](https://blog.csdn.net/g984160547/article/details/149474441)
+
++ [线性代数 上](https://blog.csdn.net/triticale/article/details/149646222)
+
++ [重构 MVC：让经典架构完美适配复杂智能系统的后端业务逻辑层（内附框架示例代码）](https://blog.csdn.net/zzc18247189868/article/details/149290099)
+
++ [还款流程设计测试用例](https://blog.csdn.net/wange6906/article/details/149605791)
+

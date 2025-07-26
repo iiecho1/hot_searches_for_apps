@@ -27,3 +27,23 @@
 
 + [小米 REDMI 15 手机渲染图曝光：高通骁龙 6s Gen 3 芯片，3 种颜色](https://m.ithome.com/html/870877.htm)
 
++ [鸿蒙智行：已看到某平台所谓“测试”，不予置评](https://m.ithome.com/html/870693.htm)
+
++ [外观看齐 M8、M9，鸿蒙智行全新问界 M7 实车曝光](https://m.ithome.com/html/870744.htm)
+
++ [小米汽车 8 月限时购车权益更新：YU7 取消零重力座椅，SU7 及 Ultra 部分配置下架](https://m.ithome.com/html/870617.htm)
+
++ [小米 REDMI Pad 2 亮相：2.5K 高亮屏、9000mAh 电池，8 月 1 日开售](https://m.ithome.com/html/870624.htm)
+
++ [最高法裁决：小米打赢与 GE 公司 HEVC / H.265 视频编解码专利战](https://m.ithome.com/html/870699.htm)
+
++ [鸿蒙智行 SUV 问界 M8 纯电版开启预订：预售价 37.8 万元起，首发支持双路冗余供电的华为 DriveONE 高压七合一电驱](https://m.ithome.com/html/870633.htm)
+
++ [俄罗斯唯一现役航母考虑报废或售出](https://m.ithome.com/html/870796.htm)
+
++ [全球第二款量产旗舰三折叠华为 Mate XTs 曝光：9 月前后发布，玄黑、瑞红、皓白、绛紫四色可选](https://m.ithome.com/html/870665.htm)
+
++ [摩尔线程 S90 首曝：两年前未能亮出的底牌，游戏性能小胜英伟达 RTX 4060](https://m.ithome.com/html/870603.htm)
+
++ [福耀科技大学 7 位院长亮相，本硕博 8 年制培养](https://m.ithome.com/html/870786.htm)
+

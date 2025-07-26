@@ -163,3 +163,5 @@
 
 + [泰柬边境交火 我驻泰国大使馆提醒中国公民避免前往有关区域](https://news.cctv.com/2025/07/27/ARTIbvTKFfUs4x2YFRJxyUe2250727.shtml)
 
++ [以军称在黎南部打死一名黎真主党高级指挥官](https://news.cctv.com/2025/07/27/ARTIkvbTGvZGmPRRmyEiPdKv250727.shtml)
+
