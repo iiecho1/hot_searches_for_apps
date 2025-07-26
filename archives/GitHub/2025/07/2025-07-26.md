@@ -25,3 +25,17 @@
 
 + [twbs/bootstrap](https://github.com/twbs/bootstrap)
 
++ [keycloak/keycloak](https://github.com/keycloak/keycloak)
+
++ [BerriAI/litellm](https://github.com/BerriAI/litellm)
+
++ [Infisical/infisical](https://github.com/Infisical/infisical)
+
++ [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
+
++ [dataease/dataease](https://github.com/dataease/dataease)
+
++ [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+
++ [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
