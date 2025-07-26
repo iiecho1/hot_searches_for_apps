@@ -165,3 +165,21 @@
 
 + [以军袭击加沙地带领取物资民众 造成上百人伤亡](https://news.cctv.com/2025/07/26/ARTI7s8BkBZ8zfqoGEoCEwt8250726.shtml)
 
++ [美国国家航空航天局约20%员工将离职](https://news.cctv.com/2025/07/26/ARTIj0pgX3hF0YevkearLliY250726.shtml)
+
++ [埃及将100万名叙利亚难民驱逐出境？](https://news.cctv.com/2025/07/26/ARTI5WVMSuMWnnBcmQOHi1UH250726.shtml)
+
++ [家族恩怨、民族情绪、军政权斗 多重逻辑缠绕泰柬冲突](https://news.cctv.com/2025/07/26/ARTIv4VdA6fHcWbsIUBmRH6g250726.shtml)
+
++ [柬埔寨国防部：柬泰边境冲突已造成13名柬埔寨人死亡](https://news.cctv.com/2025/07/26/ARTInEdySXzfKvf0gkpQzQN0250726.shtml)
+
++ [美国一架客机起飞后紧急下降 致两名空乘人员受伤](https://news.cctv.com/2025/07/26/ARTIBrQmX2o3jAc5HZUp6Y0q250726.shtml)
+
++ [以美考虑用“替代选项”促成被扣押人员获释](https://news.cctv.com/2025/07/26/ARTIOpm6mWMWIwIacpzAVASL250726.shtml)
+
++ [泰媒说泰柬军队在边境地区开始交火](https://news.cctv.com/2025/07/26/ARTI44NY3LmLSc0OOeh7srjz250726.shtml)
+
++ [秘鲁一长途客车坠下山崖 至少15人死亡](https://news.cctv.com/2025/07/26/ARTI0GkM606VuObcRyfzMHj2250726.shtml)
+
++ [韩法院首度认定尹锡悦发动戒严致精神损失 须支付赔偿](https://news.cctv.com/2025/07/26/ARTIj3MUCWe1rgDQxB9Nqbjm250726.shtml)
+

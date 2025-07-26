@@ -135,3 +135,7 @@
 
 + [RabbitMQ--消费端单线程与多线程](https://blog.csdn.net/m0_57921272/article/details/149560385)
 
++ [Java 大视界 -- Java 大数据在智能家居能源管理与节能优化中的深度应用（361）](https://blog.csdn.net/atgfg/article/details/149600355)
+
++ [（8）(8.5) Hex HereFlow 光学流量传感器](https://blog.csdn.net/qq_20016593/article/details/149346590)
+
