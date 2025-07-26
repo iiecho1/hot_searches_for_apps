@@ -93,3 +93,5 @@
 
 + [小米 REDMI 15 手机渲染图曝光：高通骁龙 6s Gen 3 芯片，3 种颜色](https://m.ithome.com/html/870877.htm)
 
++ [性能比肩 Gemini-2.5 pro、o4-mini：阿里通义千问 Qwen 3 推理模型超级进化，现已开源](https://m.ithome.com/html/870832.htm)
+
