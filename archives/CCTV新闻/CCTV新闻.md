@@ -167,3 +167,7 @@
 
 + [特朗普访问苏格兰 英国多地发生抗议活动](https://news.cctv.com/2025/07/27/ARTIQyOMvJoMEeC3PbGAhil5250727.shtml)
 
++ [伊朗为何与英法德三国开展核问题谈判？专家解读](https://news.cctv.com/2025/07/27/ARTITUPgz1GfiXyC535PSD13250727.shtml)
+
++ [文化大集：架起中俄友谊之桥](https://news.cctv.com/2025/07/27/ARTIB2llNLXP83BViKZ2ZkpT250726.shtml)
+
