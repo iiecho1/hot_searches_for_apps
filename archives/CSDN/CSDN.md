@@ -169,3 +169,5 @@
 
 + [Ollama（5）服务接口压力测试](https://blog.csdn.net/yilvqingtai/article/details/149576828)
 
++ [情感分析预训练模型之multilingual-sentiment-analysis](https://blog.csdn.net/m0_64336780/article/details/148832419)
+

@@ -209,3 +209,11 @@
 
 + [泰国陆军向多国发函 从泰方立场介绍泰柬边境局势](https://news.cctv.com/2025/07/26/ARTIOaxOZGBGmNOb6mbBJ5Dr250726.shtml)
 
++ [柬埔寨教育部：边境地区有536所学校因柬泰冲突关闭](https://news.cctv.com/2025/07/26/ARTI6Amu2ArUVN2chdVyFgO4250726.shtml)
+
++ [伊朗一司法机构大楼发生恐袭 已致5死13伤](https://news.cctv.com/2025/07/26/ARTIjAWKX4QKCgIBwDJOd3cf250726.shtml)
+
++ [柬埔寨禁止民航飞越与泰国冲突区域](https://news.cctv.com/2025/07/26/ARTICcmTd2vV0BA2JVRb5znK250726.shtml)
+
++ [泰柬边境冲突已致泰国20人死亡](https://news.cctv.com/2025/07/26/ARTIyDWvnJuuYb85KLLw2bIP250726.shtml)
+
