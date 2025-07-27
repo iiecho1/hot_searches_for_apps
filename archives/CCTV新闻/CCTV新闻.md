@@ -161,3 +161,5 @@
 
 + [伊朗外长在与英法德会谈前重申伊朗铀浓缩权利](https://news.cctv.com/2025/07/25/ARTIVjK6uWPWZhpbFECogydj250725.shtml)
 
++ [为“喀秋莎”的父母庆生 莫斯科动物园将启动年度“熊猫周”](https://news.cctv.com/2025/07/28/ARTIqsDDGJDw2BGp6GuIYCCc250727.shtml)
+
