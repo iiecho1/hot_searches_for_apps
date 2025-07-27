@@ -199,3 +199,15 @@
 
 + [泰国外交部发言人：泰柬双方将在马来西亚举行会晤](https://news.cctv.com/2025/07/27/ARTIpnlPGkCyULyaGAVx3Vla250727.shtml)
 
++ [美国多家联邦和科研机构向政府提出抗议](https://news.cctv.com/2025/07/27/ARTI7dXGBcV3HXYpqkbU6LHu250727.shtml)
+
++ [刚果（金）东部教堂遭袭 至少43名平民丧生](https://news.cctv.com/2025/07/27/ARTIo8d44ejoptXgguOY2Dz7250727.shtml)
+
++ [印度发生踩踏事故 至少6人丧生超25人受伤](https://news.cctv.com/2025/07/27/ARTI56lPF1UWMCdE2RSIAC9r250727.shtml)
+
++ [希腊多地爆发严重山火 消防力量告急](https://news.cctv.com/2025/07/27/ARTIAOvLutzUBVLWkBvnAK2s250727.shtml)
+
++ [澳大利亚总理：以色列阻止援助物资进入加沙违反国际法](https://news.cctv.com/2025/07/27/ARTITQxB9By7OPkn8kCwt87N250727.shtml)
+
++ [秉持诚意和原则，推动中美经贸相向而行（钟声）](https://news.cctv.com/2025/07/27/ARTIiJb3J4fWMFK3P15E9r5r250727.shtml)
+
