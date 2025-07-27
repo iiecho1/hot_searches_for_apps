@@ -111,3 +111,27 @@
 
 + [【HTML】＜script＞元素中的 defer 和 async 属性详解](https://blog.csdn.net/qq_27579471/article/details/149674178)
 
++ [【MySQL】深入浅出事务：保证数据一致性的核心武器](https://blog.csdn.net/2301_80543957/article/details/149298824)
+
++ [C 与 C++ 的区别：发展、特性及优缺点详解](https://blog.csdn.net/2501_90200491/article/details/149673559)
+
++ [网安-中间件-Redis未授权访问漏洞](https://blog.csdn.net/lemo_qi/article/details/149608111)
+
++ [用 Docker 一键部署 Flask + Redis 微服务](https://blog.csdn.net/chen1108____/article/details/149634831)
+
++ [特产|基于SSM+vue的南阳特产销售平台(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/149672188)
+
++ [NaVid——基于视频的VLM规划「视觉语言导航VLN」的下一步：含VLN-CE、MP3D的详解](https://blog.csdn.net/v_JULY_v/article/details/149672064)
+
++ [计算机网络：（十二）传输层（上）运输层协议概述](https://blog.csdn.net/2402_83322742/article/details/149697936)
+
++ [情感分析预训练模型之multilingual-sentiment-analysis](https://blog.csdn.net/m0_64336780/article/details/148832419)
+
++ [RTSP|RTMP播放器 in Unity：开源不够用？从工程视角重新定义播放器选型](https://blog.csdn.net/renhui1112/article/details/149697120)
+
++ [基于FPGA的SPI控制FLASH读写](https://blog.csdn.net/m0_72364598/article/details/149633810)
+
++ [【Web安全】逻辑漏洞之URL跳转漏洞：原理、场景与防御](https://blog.csdn.net/qq_40037555/article/details/149629340)
+
++ [XCZU4EV-1FBVB900E Xilinx FPGA AMD Zynq UltraScale+ MPSoC EV（Embedded Vision）](https://blog.csdn.net/2403_90082736/article/details/149651937)
+
