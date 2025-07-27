@@ -187,3 +187,9 @@
 
 + [学习游戏制作记录（剑投掷技能）7.26](https://blog.csdn.net/2503_90719681/article/details/149673165)
 
++ [SpringBoot 整合 Langchain4j AIService 深度使用详解](https://blog.csdn.net/zhangcongyi420/article/details/148995160)
+
++ [【花雕学编程】ESP32 DeepSeek 之智能家居语音控制系统](https://blog.csdn.net/weixin_41659040/article/details/149670770)
+
++ [【AJAX】Promise详解](https://blog.csdn.net/2301_80636070/article/details/149608645)
+

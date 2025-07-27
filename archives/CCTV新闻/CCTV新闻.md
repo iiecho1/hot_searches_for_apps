@@ -195,3 +195,7 @@
 
 + [泰媒：泰空军出动战机摧毁柬方两处军事目标](https://military.cctv.com/2025/07/27/ARTIh4UoDyE1UwQXaI0mLnDj250727.shtml)
 
++ [全球首个！这一岛国计划“全体移民”：25年后或被淹](https://news.cctv.com/2025/07/27/ARTIWXUGCTJQ0Lxswi3kBCGu250727.shtml)
+
++ [泰国外交部发言人：泰柬双方将在马来西亚举行会晤](https://news.cctv.com/2025/07/27/ARTIpnlPGkCyULyaGAVx3Vla250727.shtml)
+

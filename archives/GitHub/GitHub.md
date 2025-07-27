@@ -23,3 +23,11 @@
 
 + [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 
++ [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
+
++ [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+
