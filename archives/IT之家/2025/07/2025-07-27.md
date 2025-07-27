@@ -47,3 +47,5 @@
 
 + [福耀科技大学 7 位院长亮相，本硕博 8 年制培养](https://m.ithome.com/html/870786.htm)
 
++ [比亚迪上市以来最大分红，豪掷 120 亿元回报股东](https://m.ithome.com/html/870948.htm)
+

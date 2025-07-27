@@ -173,3 +173,5 @@
 
 + [特朗普与柬埔寨和泰国领导人通电话](https://news.cctv.com/2025/07/27/ARTIsPSSXEcjqgmwMJyjJBTE250727.shtml)
 
++ [俄罗斯总统普京：俄海军战略核力量持续提升](https://news.cctv.com/2025/07/27/ARTIYxTcTIIVYxRTXaJq8WPk250727.shtml)
+
