@@ -185,3 +185,7 @@
 
 + [以军称在加沙三地每日暂停10小时军事行动](https://news.cctv.com/2025/07/27/ARTIv5iUodhYI9A8ARygNqa5250727.shtml)
 
++ [美媒：NASA拟裁减数千名员工，专家警告“或失去最优秀人才”](https://news.cctv.com/2025/07/27/ARTI5RWodaxtiQeQQ2MYpswZ250727.shtml)
+
++ [阿尔及利亚东北部发生交通事故 已致3死41伤](https://news.cctv.com/2025/07/27/ARTIlXQLqdWDwde8ikqWYfFM250727.shtml)
+
