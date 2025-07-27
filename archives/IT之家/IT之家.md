@@ -59,3 +59,5 @@
 
 + [华为首次线下展出昇腾 384 超节点：业界最大规模 384 卡高速总线互联](https://m.ithome.com/html/870922.htm)
 
++ [性能比肩 Gemini-2.5 pro、o4-mini：阿里通义千问 Qwen 3 推理模型超级进化，现已开源](https://m.ithome.com/html/870832.htm)
+
