@@ -195,3 +195,17 @@
 
 + [Mysql中数据表的设计](https://blog.csdn.net/wxy963/article/details/149686872)
 
++ [Libevent(4)之使用教程(3)配置](https://blog.csdn.net/Once_day/article/details/149690983)
+
++ [嵌入式硬件篇---zigbee无线串口通信问题](https://blog.csdn.net/2301_79556402/article/details/149671008)
+
++ [[Coze开源版】studio服务器部署](https://blog.csdn.net/qingfm/article/details/149668346)
+
++ [网络协议HTTP、TCP(草稿)](https://blog.csdn.net/m0_68381723/article/details/149650761)
+
++ [yolov8通道级剪枝讲解（超详细思考版）](https://blog.csdn.net/weixin_44115575/article/details/149642838)
+
++ [深入解析三大Web安全威胁：文件上传漏洞、SQL注入漏洞与WebShell](https://blog.csdn.net/haishiqiguai/article/details/149661677)
+
++ [八股文整理——计算机网络](https://blog.csdn.net/qq_62682600/article/details/149666028)
+

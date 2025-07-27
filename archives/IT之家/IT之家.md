@@ -61,3 +61,25 @@
 
 + [性能比肩 Gemini-2.5 pro、o4-mini：阿里通义千问 Qwen 3 推理模型超级进化，现已开源](https://m.ithome.com/html/870832.htm)
 
++ [华为余承东点赞：问界 M9 汽车实现行业首例卫星救援，保持通话 61 分钟](https://m.ithome.com/html/871016.htm)
+
++ [卢伟冰晒小米空调拆机：2026 年新品竞争力很强](https://m.ithome.com/html/870982.htm)
+
++ [华为 Pura80 Pro / Ultra 手机「港版」搭载麒麟 9020 处理器](https://m.ithome.com/html/871030.htm)
+
++ [消息称苹果 M 系列和英伟达游戏 GPU 考虑英特尔 14A 制程工艺](https://m.ithome.com/html/870965.htm)
+
++ [三天两连发：《明末：渊虚之羽》发布 1.4 版本补丁，优化部分机型性能问题](https://m.ithome.com/html/870970.htm)
+
++ [特斯拉“廉价版 Model Y”车型内饰首曝：取消全景玻璃天幕 / 贯穿灯带、移除后排屏幕](https://m.ithome.com/html/871043.htm)
+
++ [小米 SU7 推送 1.8.4 OTA 更新：辅助驾驶升级为 1000 万 Clips 数据版本](https://m.ithome.com/html/870976.htm)
+
++ [蔚来纯电小车萤火虫完成第 10000 台交付：历时 3 个月，11.98 万-12.58 万元](https://m.ithome.com/html/870964.htm)
+
++ [阿里回应“首款自研 AI 眼镜会比小米便宜吗”：我们是有区别的，小米不带显示](https://m.ithome.com/html/871015.htm)
+
++ [畅玩赛博朋克 2077：苹果 Mac mini M4 国补 + 教育优惠后 2799 元再发车](https://m.ithome.com/html/871053.htm)
+
++ [疑似高山 9 还未完成改装，法拉第未来 FX Super One 车头大彩电被发现视频合成痕迹](https://m.ithome.com/html/871026.htm)
+
