@@ -183,3 +183,5 @@
 
 + [进入第四天 泰柬边境冲突仍在持续](https://news.cctv.com/2025/07/27/ARTIThWXi1Gf86Dz4gPRKAur250727.shtml)
 
++ [以军称在加沙三地每日暂停10小时军事行动](https://news.cctv.com/2025/07/27/ARTIv5iUodhYI9A8ARygNqa5250727.shtml)
+

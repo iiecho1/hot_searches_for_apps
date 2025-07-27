@@ -159,3 +159,11 @@
 
 + [详解：YOLO 系列演进趋势](https://blog.csdn.net/guoguozgw/article/details/149630944)
 
++ [SpringBoot 整合Lock4j 分布式锁深度使用详解](https://blog.csdn.net/congge_study/article/details/149685138)
+
++ [OGG同步Oracle到Kafka不停库,全量加增量](https://blog.csdn.net/weixin_41645135/article/details/149672882)
+
++ [优秀案例：基于python django的智能家居销售数据采集和分析系统设计与实现，使用混合推荐算法和LSTM算法情感分析](https://blog.csdn.net/weixin_49081159/article/details/149647552)
+
++ [九联UNT413AS_晶晨S905L3S芯片_2+8G_安卓9.0_线刷固件包](https://blog.csdn.net/fatiaozhang9527/article/details/149652053)
+
