@@ -175,3 +175,5 @@
 
 + [俄罗斯总统普京：俄海军战略核力量持续提升](https://news.cctv.com/2025/07/27/ARTIYxTcTIIVYxRTXaJq8WPk250727.shtml)
 
++ [越南游船倾覆事件搜救结束 49名船上人员确认39人死亡](https://news.cctv.com/2025/07/27/ARTIG1av62u77NR4L4qqq3SQ250727.shtml)
+

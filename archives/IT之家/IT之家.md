@@ -49,3 +49,13 @@
 
 + [比亚迪上市以来最大分红，豪掷 120 亿元回报股东](https://m.ithome.com/html/870948.htm)
 
++ [砺算科技第一代 TrueGPU 系列国产显卡发布：《黑神话：悟空》1080P 高画质 70 帧，9 月启动量产](https://m.ithome.com/html/870950.htm)
+
++ [英特尔发布第二代 Wi-Fi 7 无线网卡 BE211（5Gig），支持蓝牙 6.0](https://m.ithome.com/html/870942.htm)
+
++ [中兴通讯总部大厦项目 1 号楼封顶，深圳湾超级总部基地新地标](https://m.ithome.com/html/870972.htm)
+
++ [小米：四年与徕卡合作超 20 款机型，销量数千万台，未来也将一直是紧密的合作伙伴](https://m.ithome.com/html/870955.htm)
+
++ [华为首次线下展出昇腾 384 超节点：业界最大规模 384 卡高速总线互联](https://m.ithome.com/html/870922.htm)
+
