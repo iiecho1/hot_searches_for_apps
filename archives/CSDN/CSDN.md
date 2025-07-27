@@ -151,3 +151,11 @@
 
 + [Linux进程信号信号处理](https://blog.csdn.net/2401_83603768/article/details/149651706)
 
++ [AI热点周报（7.20~7.26）：科技巨头们的“AI竞赛“，AI迎来开源化、普及化的浪潮](https://blog.csdn.net/qq_51646682/article/details/149664195)
+
++ [金仓数据库：融合与智能驱动下的革新与未来](https://blog.csdn.net/SDFsoul/article/details/149634988)
+
++ [Baumer工业相机堡盟工业相机如何通过YoloV8深度学习模型实现轮船检测识别（C#代码UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149674428)
+
++ [详解：YOLO 系列演进趋势](https://blog.csdn.net/guoguozgw/article/details/149630944)
+

@@ -177,3 +177,9 @@
 
 + [越南游船倾覆事件搜救结束 49名船上人员确认39人死亡](https://news.cctv.com/2025/07/27/ARTIG1av62u77NR4L4qqq3SQ250727.shtml)
 
++ [中国AI让南非铁路犯罪率下降80%](https://news.cctv.com/2025/07/27/ARTISZRGZoZv4RRxaPWyTkxA250727.shtml)
+
++ [美股正经历前所未有的变化](https://news.cctv.com/2025/07/27/ARTIRLWuStB1OjIHbQuQvRgo250727.shtml)
+
++ [进入第四天 泰柬边境冲突仍在持续](https://news.cctv.com/2025/07/27/ARTIThWXi1Gf86Dz4gPRKAur250727.shtml)
+
