@@ -47,3 +47,7 @@
 
 + [华为云宣布域名注册、企业邮箱等服务正式停售](https://m.ithome.com/html/870977.htm)
 
++ [微信鸿蒙版 App 安装量突破 1000 万](https://m.ithome.com/html/871114.htm)
+
++ [北京火狐发布《关于 Firefox 在中国持续运营但北京火狐关闭及 Firefox 账户服务终止的重要公告》](https://m.ithome.com/html/871110.htm)
+

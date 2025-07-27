@@ -169,3 +169,7 @@
 
 + [柬埔寨因边境冲突推迟全国高中毕业考试](https://news.cctv.com/2025/07/28/ARTIDmXEMSMTv9p0EQ5998ZP250727.shtml)
 
++ [美国与欧盟达成贸易协议](https://news.cctv.com/2025/07/28/ARTIabwjiq2wEFCurISKBZKE250728.shtml)
+
++ [胡塞武装升级海上封锁 将袭击所有与以合作公司船只](https://news.cctv.com/2025/07/28/ARTIaK2vwz6Cjxj63Zr2li4E250728.shtml)
+
