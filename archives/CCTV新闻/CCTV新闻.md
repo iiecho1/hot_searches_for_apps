@@ -189,3 +189,5 @@
 
 + [阿尔及利亚东北部发生交通事故 已致3死41伤](https://news.cctv.com/2025/07/27/ARTIlXQLqdWDwde8ikqWYfFM250727.shtml)
 
++ [谭谈AI: 中国人工智能应用服务优势何在](https://news.cctv.com/2025/07/27/ARTISZRGZoZv4RRxaPWyTkxA250727.shtml)
+
