@@ -173,3 +173,5 @@
 
 + [胡塞武装升级海上封锁 将袭击所有与以合作公司船只](https://news.cctv.com/2025/07/28/ARTIaK2vwz6Cjxj63Zr2li4E250728.shtml)
 
++ [德国南部发生火车脱轨事故致3人死亡 另有多名乘客伤势严重](https://news.cctv.com/2025/07/28/ARTIiqDLqo8Z2CBcRzmZTUyl250728.shtml)
+
