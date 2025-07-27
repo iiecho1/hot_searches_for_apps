@@ -163,3 +163,7 @@
 
 + [为“喀秋莎”的父母庆生 莫斯科动物园将启动年度“熊猫周”](https://news.cctv.com/2025/07/28/ARTIqsDDGJDw2BGp6GuIYCCc250727.shtml)
 
++ [全球连线丨职教出海新模式 “贵匠工坊”创新中国与东盟教育合作](https://news.cctv.com/2025/07/28/ARTI9ohmtoF6DmXq3jPhQxva250728.shtml)
+
++ [日本多地严重缺水 水稻产区面临“新米危机”](https://news.cctv.com/2025/07/28/ARTIb6IZCS0dw31RfM6VMfuV250727.shtml)
+
