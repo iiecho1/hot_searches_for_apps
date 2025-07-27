@@ -191,3 +191,7 @@
 
 + [谭谈AI: 中国人工智能应用服务优势何在](https://news.cctv.com/2025/07/27/ARTISZRGZoZv4RRxaPWyTkxA250727.shtml)
 
++ [超50摄氏度 土耳其一地高温创纪录](https://news.cctv.com/2025/07/27/ARTI8C2aOe1paOiF5gKAyiXg250727.shtml)
+
++ [泰媒：泰空军出动战机摧毁柬方两处军事目标](https://military.cctv.com/2025/07/27/ARTIh4UoDyE1UwQXaI0mLnDj250727.shtml)
+
