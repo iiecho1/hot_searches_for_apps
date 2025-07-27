@@ -167,3 +167,5 @@
 
 + [日本多地严重缺水 水稻产区面临“新米危机”](https://news.cctv.com/2025/07/28/ARTIb6IZCS0dw31RfM6VMfuV250727.shtml)
 
++ [柬埔寨因边境冲突推迟全国高中毕业考试](https://news.cctv.com/2025/07/28/ARTIDmXEMSMTv9p0EQ5998ZP250727.shtml)
+
