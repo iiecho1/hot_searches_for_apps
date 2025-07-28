@@ -163,3 +163,13 @@
 
 + [去中心化时代的通信革命：briefing与cpolar技术融合带来的安全范式革新](https://blog.csdn.net/qq_62662919/article/details/149672514)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式存储在工业互联网数据管理与边缘计算协同中的创新实践（364）](https://blog.csdn.net/atgfg/article/details/149635040)
+
++ [Spring boot Grafana优秀的监控模板](https://blog.csdn.net/wen262856298/article/details/149666679)
+
++ [Linux驱动开发笔记（五）——设备树（中）——节点的标准属性](https://blog.csdn.net/qq_56920196/article/details/149605575)
+
++ [数学建模——灰色关联分析](https://blog.csdn.net/shenghaide_jiahu/article/details/149696379)
+
++ [Vue vuex模块化编码](https://blog.csdn.net/2301_78939167/article/details/149690103)
+

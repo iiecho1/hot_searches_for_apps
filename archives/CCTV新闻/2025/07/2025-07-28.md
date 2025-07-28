@@ -183,3 +183,11 @@
 
 + [韩邀朝出席APEC会议？朝方：做白日梦](https://news.cctv.com/2025/07/28/ARTI9ncu2scemsaLPQzgeDrr250728.shtml)
 
++ [国际观察丨中拉为全球人权治理贡献“南方智慧”](https://news.cctv.com/2025/07/28/ARTInvD79LIz3LjHjGFqqGZQ250728.shtml)
+
++ [坚持同球共济 推动智能向善（和音）](https://news.cctv.com/2025/07/28/ARTI2mUuf09nNNCZuWmApOvc250728.shtml)
+
++ [韩国总统办公室回应朝方表态：将继续为实现和平而努力](https://news.cctv.com/2025/07/28/ARTI2XDivSLRNEUZJGmj3Hkv250728.shtml)
+
++ [国际观察丨英法强化核威慑合作推高地区核风险](https://news.cctv.com/2025/07/28/ARTIinpYHwoptE8Z9n3rwH7O250728.shtml)
+
