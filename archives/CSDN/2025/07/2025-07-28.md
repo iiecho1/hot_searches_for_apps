@@ -141,3 +141,25 @@
 
 + [2025测绘程序设计国赛二轮实战 | GNSS多星多频数据预处理--全新理解](https://blog.csdn.net/2501_92238416/article/details/149459386)
 
++ [编程算法：技术创新的引擎与业务增长的核心驱动力](https://blog.csdn.net/Liudef06/article/details/149631925)
+
++ [【C#工业上位机高级应用】2. C#与三菱PLC通信：二进制直读解析，规避MC协议的帧分割陷阱](https://blog.csdn.net/weixin_39815573/article/details/149689920)
+
++ [线性代数 上](https://blog.csdn.net/triticale/article/details/149646222)
+
++ [拒绝SQL恐惧：用Python+pyqt打造任意Excel数据库查询系统](https://blog.csdn.net/weixin_42041223/article/details/149663141)
+
++ [【花雕学编程】ESP32 DeepSeek 之智能家居 AI 边缘-云端协同计算](https://blog.csdn.net/weixin_41659040/article/details/149705542)
+
++ [房价预测|Pytorch](https://blog.csdn.net/weixin_56766801/article/details/149666306)
+
++ [Spring Boot 3 如何整合 MinIO 实现分布式文件存储？](https://blog.csdn.net/weixin_66592566/article/details/146159632)
+
++ [LabVIEW汽车底盘系统测试](https://blog.csdn.net/bjcyck/article/details/149706045)
+
++ [coze 开源版本地部署及踩过的坑【喂饭级教程】](https://blog.csdn.net/apo0625/article/details/149692709)
+
++ [Flutter开发 BUG 记录 （持续更新）](https://blog.csdn.net/id_EquinoxFlower/article/details/149661515)
+
++ [去中心化时代的通信革命：briefing与cpolar技术融合带来的安全范式革新](https://blog.csdn.net/qq_62662919/article/details/149672514)
+

@@ -51,3 +51,7 @@
 
 + [北京火狐发布《关于 Firefox 在中国持续运营但北京火狐关闭及 Firefox 账户服务终止的重要公告》](https://m.ithome.com/html/871110.htm)
 
++ [苹果 iPhone 17 Pro 相机功能曝光：8 倍光学变焦、专业相机应用及全新控制按键](https://m.ithome.com/html/871123.htm)
+
++ [支持全国政府补贴：希捷银河 7200 RPM 企业级硬盘 129 元 / T 五年只换不修](https://m.ithome.com/html/871106.htm)
+
