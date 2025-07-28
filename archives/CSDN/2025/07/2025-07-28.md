@@ -173,3 +173,13 @@
 
 + [Vue vuex模块化编码](https://blog.csdn.net/2301_78939167/article/details/149690103)
 
++ [数值计算 | 图解基于龙格库塔法的微分方程计算与连续系统离散化(附Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/149697398)
+
++ [【GitHub开源AI精选】Google AI Edge Gallery：谷歌赋能的离线AI模型探索利器](https://blog.csdn.net/xiaobing259/article/details/149574443)
+
++ [顺应AI浪潮，电科金仓数据库再创辉煌](https://blog.csdn.net/2302_79376097/article/details/149634878)
+
++ [【智能协同云图库】智能协同云图库第七弹：基于 Jsoup 爬虫实现以图搜图、颜色搜图、批量操作](https://blog.csdn.net/2402_84916296/article/details/149694593)
+
++ [从fork到exit：剖析Linux进程的诞生、消亡机制](https://blog.csdn.net/2402_84532723/article/details/149469682)
+
