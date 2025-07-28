@@ -191,3 +191,7 @@
 
 + [国际观察丨英法强化核威慑合作推高地区核风险](https://news.cctv.com/2025/07/28/ARTIinpYHwoptE8Z9n3rwH7O250728.shtml)
 
++ [冲突第五日 泰柬领导人将赴马来西亚磋商停火](https://news.cctv.com/2025/07/28/ARTITmUfCY6C1qWv8ZCqGlXw250728.shtml)
+
++ [泰国曼谷一市场发生枪击事件 已致包括凶手在内6人死亡](https://news.cctv.com/2025/07/28/ARTItWsahoOZmiHvR0PsGH1X250728.shtml)
+
