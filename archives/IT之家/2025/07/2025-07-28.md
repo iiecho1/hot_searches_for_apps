@@ -59,3 +59,23 @@
 
 + [“打着诺基亚旗号”也无效：消息称 HMD 推出的功能机市场需求不佳，商家直言“现在学生老人都不用”](https://m.ithome.com/html/871102.htm)
 
++ [华为鸿蒙 HarmonyOS 5.1 各机型逐步推送，Mate 70 系列手机未获色卡功能下放](https://m.ithome.com/html/871195.htm)
+
++ [华为余承东：国民 SUV 问界 M7 是一款从里到外的全新产品，首发珊瑚红新色，更多惊喜 9 月见](https://m.ithome.com/html/871151.htm)
+
++ [博世高管呼吁车企学习特斯拉华为：智驾绝对不能免费，免费会带来灾难](https://m.ithome.com/html/871139.htm)
+
++ [提前更新：华为 Mate 60 系列手机首批推送鸿蒙 HarmonyOS 5.1 版本，新增人像精修等功能](https://m.ithome.com/html/871159.htm)
+
++ [手机 QQ 已支持将钱包余额直接转到微信零钱，0 手续费](https://m.ithome.com/html/871131.htm)
+
++ [理想汽车 CEO 李想：从没说过“臭搞技术的”这五个字](https://m.ithome.com/html/871222.htm)
+
++ [华为重夺第一，Canalys 报告二季度中国大陆智能手机市场同比下滑 4%](https://m.ithome.com/html/871154.htm)
+
++ [全球首个计划整体迁移的国家：太平洋岛国图瓦卢 25 年后面临淹没危机，坐拥 .tv 域名躺着赚钱](https://m.ithome.com/html/871229.htm)
+
++ [鸿蒙智行全新问界 M7 官宣 9 月见，首发珊瑚红新色](https://m.ithome.com/html/871150.htm)
+
++ [华为鸿蒙 HarmonyOS 5 系统实况窗支持应用 / 场景公布，含即时配送、音视频播放等](https://m.ithome.com/html/871315.htm)
+

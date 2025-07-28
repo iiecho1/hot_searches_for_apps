@@ -231,3 +231,9 @@
 
 + [紫光PCIe快速上手指南](https://blog.csdn.net/m0_61846207/article/details/149512289)
 
++ [第二十届全国大学生智能汽车竞赛分赛区场地铺设标准【保密文档→2025年8月1日】](https://blog.csdn.net/zhuoqingjoking97298/article/details/148890641)
+
++ [【数据库】时序数据库选型指南：从大数据视角看IoTDB的核心优势](https://blog.csdn.net/qq_38628970/article/details/149721331)
+
++ [【n8n教程笔记——工作流Workflow】文本课程（第一阶段）——5.5 计算预订订单数量和总金额 (Calculating booked orders)](https://blog.csdn.net/Dontla/article/details/149692164)
+

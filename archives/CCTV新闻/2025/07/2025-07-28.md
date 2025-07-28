@@ -217,3 +217,9 @@
 
 + [民调显示更多澳大利亚人倾向独立于美国的外交安全政策](https://news.cctv.com/2025/07/28/ARTIYWrodmBlxMZ3zd9h17Xd250728.shtml)
 
++ [泽连斯基：自俄乌冲突以来已有超5千名被俘人员返乌](https://news.cctv.com/2025/07/28/ARTI0pp1Sp2bkVl1hb7eJYoG250728.shtml)
+
++ [特朗普：加沙达成停火是可能的](https://news.cctv.com/2025/07/28/ARTIttBAo3GAonrECwj9upcm250728.shtml)
+
++ [以人权组织首次明确指控：以色列在加沙实施“种族灭绝”](https://news.cctv.com/2025/07/28/ARTIoNAfKTsrAaXG6uUmaevv250728.shtml)
+
