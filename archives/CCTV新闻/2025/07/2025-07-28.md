@@ -213,3 +213,7 @@
 
 + [中国对全球科研人才释放“磁吸力”](https://news.cctv.com/2025/07/28/ARTIsAIfanBRVSNoDxallHz1250728.shtml)
 
++ [马来西亚总理说泰柬同意停火](https://news.cctv.com/2025/07/28/ARTIoqnMru2t9FsYhfN1wgL2250728.shtml)
+
++ [民调显示更多澳大利亚人倾向独立于美国的外交安全政策](https://news.cctv.com/2025/07/28/ARTIYWrodmBlxMZ3zd9h17Xd250728.shtml)
+

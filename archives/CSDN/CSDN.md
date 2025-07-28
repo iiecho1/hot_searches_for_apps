@@ -213,3 +213,9 @@
 
 + [3D碰撞检测系统 基于SAT算法+Burst优化(Unity)](https://blog.csdn.net/2302_76776557/article/details/149695449)
 
++ [第二十届全国大学生智能汽车竞赛分赛区竞速比赛成绩与奖项-华东赛区](https://blog.csdn.net/zhuoqingjoking97298/article/details/149686106)
+
++ [AI智能体时代，看华为云AI原生应用引擎2.0——Versatile如何脱颖而出，面向千行万业，打造最佳企业Agent平台](https://blog.csdn.net/devcloud/article/details/149707324)
+
++ [小电流驱动大电流：原理、实现方式与应用前景](https://blog.csdn.net/D1557329860/article/details/149660523)
+
