@@ -203,3 +203,5 @@
 
 + [机器人仿真（2）Ubuntu24.04下RTX5090配置IsaacSim与IsaacLab](https://blog.csdn.net/qq_45709806/article/details/149648493)
 
++ [【n8n教程笔记——工作流Workflow】文本课程（第一阶段）——5.4 计算预订订单数量和总金额 (Calculating booked orders)](https://blog.csdn.net/Dontla/article/details/149692164)
+

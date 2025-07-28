@@ -195,3 +195,15 @@
 
 + [泰国曼谷一市场发生枪击事件 已致包括凶手在内6人死亡](https://news.cctv.com/2025/07/28/ARTItWsahoOZmiHvR0PsGH1X250728.shtml)
 
++ [因信息系统故障 俄航取消42个航班](https://news.cctv.com/2025/07/28/ARTI68t9SrlZtUnPWo9nNPca250728.shtml)
+
++ [多起事件造成人员伤亡 黑山宣布7月28日为全国哀悼日](https://news.cctv.com/2025/07/28/ARTIA8ETrrMyPw6fbDw63Ylz250728.shtml)
+
++ [乌克兰首次通过跨巴尔干通道接收阿塞拜疆天然气](https://news.cctv.com/2025/07/28/ARTIu3bVu26Ba6YaFb9ImUx3250728.shtml)
+
++ [泰国洪灾已致6人死亡 123人受伤](https://news.cctv.com/2025/07/28/ARTIAobymSj39B7b5279i450250728.shtml)
+
++ [德火车脱轨致3死 初步调查显示系暴雨冲毁铁路路基所致](https://news.cctv.com/2025/07/28/ARTIMywqcPbFe6yaWQPsuJJt250728.shtml)
+
++ [法国多位部长称美欧贸易协议“不平衡” 未来几周将进行新一轮谈判](https://news.cctv.com/2025/07/28/ARTIWM1RrlokLvnDWsGHDrfr250728.shtml)
+
