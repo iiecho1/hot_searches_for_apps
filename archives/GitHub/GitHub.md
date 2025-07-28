@@ -15,3 +15,15 @@
 
 + [Infisical/infisical](https://github.com/Infisical/infisical)
 
++ [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+
++ [mikf/gallery-dl](https://github.com/mikf/gallery-dl)
+
++ [outline/outline](https://github.com/outline/outline)
+
++ [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+
++ [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard)
+
++ [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+
