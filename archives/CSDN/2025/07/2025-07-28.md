@@ -137,3 +137,7 @@
 
 + [Kubernetes 与 Docker的爱恨情仇](https://blog.csdn.net/weixin_45631123/article/details/149672638)
 
++ [存内计算：打破冯·诺依曼瓶颈的下一代计算范式](https://blog.csdn.net/Liudef06/article/details/149631925)
+
++ [2025测绘程序设计国赛二轮实战 | GNSS多星多频数据预处理--全新理解](https://blog.csdn.net/2501_92238416/article/details/149459386)
+
