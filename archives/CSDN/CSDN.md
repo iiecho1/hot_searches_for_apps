@@ -127,3 +127,9 @@
 
 + [重生之我在暑假学习微服务第二天《MybatisPlus-下篇》](https://blog.csdn.net/2302_80329073/article/details/149692474)
 
++ [coze开源了，从工具使用到造工具](https://blog.csdn.net/qq_45184435/article/details/149668879)
+
++ [数学建模——灰色关联分析](https://blog.csdn.net/shenghaide_jiahu/article/details/149696379)
+
++ [去中心化时代的通信革命：briefing与cpolar技术融合带来的安全范式革新](https://blog.csdn.net/qq_62662919/article/details/149672514)
+

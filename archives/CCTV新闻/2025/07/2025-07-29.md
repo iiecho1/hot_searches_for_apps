@@ -163,3 +163,5 @@
 
 + [厄瓜多尔一酒馆发生枪击事件致17人死亡](https://news.cctv.com/2025/07/29/ARTI3fzGlKagGbJ9iA09xcAo250729.shtml)
 
++ [特朗普称将考虑缩短俄乌和平协议50天期限](https://news.cctv.com/2025/07/29/ARTI3cBBCfrYdexLkb1IqLTT250729.shtml)
+
