@@ -205,3 +205,7 @@
 
 + [【n8n教程笔记——工作流Workflow】文本课程（第一阶段）——5.4 计算预订订单数量和总金额 (Calculating booked orders)](https://blog.csdn.net/Dontla/article/details/149692164)
 
++ [【LLM】Kimi-K2模型架构（MuonClip 优化器等）](https://blog.csdn.net/qq_35812205/article/details/149347884)
+
++ [Linux 系统网络配置及 IP 地址相关知识汇总](https://blog.csdn.net/Akshsjsjenjd/article/details/149696186)
+

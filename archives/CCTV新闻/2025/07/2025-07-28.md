@@ -207,3 +207,9 @@
 
 + [法国多位部长称美欧贸易协议“不平衡” 未来几周将进行新一轮谈判](https://news.cctv.com/2025/07/28/ARTIWM1RrlokLvnDWsGHDrfr250728.shtml)
 
++ [“携手为世界人权事业发展贡献积极力量”](https://news.cctv.com/2025/07/28/ARTIaeTwTmE2oMVmDTwqi061250728.shtml)
+
++ [解读中国经济稳定增长的密码](https://news.cctv.com/2025/07/28/ARTIm9duGnKOGCwbKn2qXatH250728.shtml)
+
++ [中国对全球科研人才释放“磁吸力”](https://news.cctv.com/2025/07/28/ARTIsAIfanBRVSNoDxallHz1250728.shtml)
+
