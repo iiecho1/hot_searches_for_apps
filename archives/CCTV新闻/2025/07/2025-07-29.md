@@ -161,3 +161,5 @@
 
 + [老挝军方称泰柬交火致10枚炮弹落入该国境内](https://news.cctv.com/2025/07/26/ARTISq65xA2s5Nvvoai6GqWh250726.shtml)
 
++ [厄瓜多尔一酒馆发生枪击事件致17人死亡](https://news.cctv.com/2025/07/29/ARTI3fzGlKagGbJ9iA09xcAo250729.shtml)
+

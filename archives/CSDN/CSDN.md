@@ -107,3 +107,23 @@
 
 + [物联网统一网关：多协议转换与数据处理架构设计](https://blog.csdn.net/testManger/article/details/149669784)
 
++ [全面解析MySQL(4)——三大范式与联合查询实例教程](https://blog.csdn.net/2401_89167985/article/details/149689176)
+
++ [NaVid——基于视频的VLM规划VLN的下一步：仅单目RGB输入，无地图、里程计、深度信息(含VLN发展简史，及VLN-CE、MP3D的详解)](https://blog.csdn.net/v_JULY_v/article/details/149672064)
+
++ [嵌入式硬件篇---驱动板](https://blog.csdn.net/2301_79556402/article/details/149688906)
+
++ [【Python系列】从内存分析到性能剖析](https://blog.csdn.net/qyj19920704/article/details/149695100)
+
++ [Spring Boot日志开发实战手册：集成/输出/级别控制/持久化精要](https://blog.csdn.net/2302_81247414/article/details/149581597)
+
++ [再谈fpga开发（fpga调试方法）](https://blog.csdn.net/feixiaoxing/article/details/149676690)
+
++ [机器人仿真（2）Ubuntu24.04下RTX5090配置IsaacSim与IsaacLab](https://blog.csdn.net/qq_45709806/article/details/149648493)
+
++ [Vue3组件通信方法清单](https://blog.csdn.net/m0_74065758/article/details/149663975)
+
++ [MCP资源管理深度实践：动态数据源集成方案](https://blog.csdn.net/IRpickstars/article/details/149707307)
+
++ [重生之我在暑假学习微服务第二天《MybatisPlus-下篇》](https://blog.csdn.net/2302_80329073/article/details/149692474)
+
