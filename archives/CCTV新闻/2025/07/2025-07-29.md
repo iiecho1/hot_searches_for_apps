@@ -171,3 +171,15 @@
 
 + [美国内华达州发生枪击事件 致多人受伤](https://news.cctv.com/2025/07/29/ARTIRImrwIUC4MDfpqgeqSuP250729.shtml)
 
++ [美俄航天局高层将会晤 聚焦国际空间站与联合任务](https://news.cctv.com/2025/07/29/ARTIIxmxwO06RUulkS3gNmm9250729.shtml)
+
++ [联合国秘书长呼吁谨防饥饿沦为战争武器](https://news.cctv.com/2025/07/29/ARTIfxzKUlCLOYeDmy8JclnS250729.shtml)
+
++ [再度撇清 特朗普称自己拒绝了爱泼斯坦邀请](https://news.cctv.com/2025/07/29/ARTIx3YImFt6vGvOlJkkvwBj250729.shtml)
+
++ [俄罗斯自8月起关闭俄乌之间20个过境口岸](https://news.cctv.com/2025/07/29/ARTIFYUXdwRgqyKJa7RjGzyc250729.shtml)
+
++ [泰国和柬埔寨停火协议正式生效](https://news.cctv.com/2025/07/29/ARTI76UhwJrNbrpAAQCBmnAO250729.shtml)
+
++ [泽连斯基签署法律扩编乌克兰安全局](https://news.cctv.com/2025/07/29/ARTIfsl57Vs9qhRkn5UTq7la250729.shtml)
+
