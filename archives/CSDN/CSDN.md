@@ -183,3 +183,17 @@
 
 + [从fork到exit：剖析Linux进程的诞生、消亡机制](https://blog.csdn.net/2402_84532723/article/details/149469682)
 
++ [Java 大视界 -- Java 大数据在智能安防视频监控系统中的视频语义理解与智能检索进阶（365）](https://blog.csdn.net/atgfg/article/details/149667960)
+
++ [【Rust异步】async和await异步编程实战：高并发任务处理全解析](https://blog.csdn.net/littlefun591/article/details/149633550)
+
++ [【无人机控制】基于matlab LPV方法无人机模型预测控制器【含Matlab源码 13787期】](https://blog.csdn.net/TIQCmatlab/article/details/149711442)
+
++ [【Qt开发】信号与槽（二）-＞ 信号和槽的使用](https://blog.csdn.net/weixin_74809706/article/details/149540470)
+
++ [物联网统一网关：多协议转换与数据处理架构设计](https://blog.csdn.net/testManger/article/details/149669784)
+
++ [「源力觉醒 创作者计划」_文心大模型4.5系列开源模型，意味着什么？对开发者、对行业生态有何影响？](https://blog.csdn.net/qq_33650655/article/details/149620620)
+
++ [OCCT 大饼芝麻算法: 揭露曲面比较本质](https://blog.csdn.net/qq_43689451/article/details/149712314)
+
