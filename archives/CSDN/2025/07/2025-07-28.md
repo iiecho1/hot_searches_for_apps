@@ -219,3 +219,15 @@
 
 + [小电流驱动大电流：原理、实现方式与应用前景](https://blog.csdn.net/D1557329860/article/details/149660523)
 
++ [Linux系统架构核心全景详解](https://blog.csdn.net/Interview_TC/article/details/149665529)
+
++ [多设备学习者的福音：用Koodo和CPolar打造无缝电子书工作流](https://blog.csdn.net/weixin_44976692/article/details/149721656)
+
++ [详解赛灵思SRIO IP并提供一种FIFO封装SRIO的收发控制器仿真验证](https://blog.csdn.net/wqsdqw/article/details/149687031)
+
++ [基于黑马教程——微服务架构解析（一）](https://blog.csdn.net/weixin_45919016/article/details/149697790)
+
++ [记录几个SystemVerilog的语法——时钟块和进程通信](https://blog.csdn.net/W1Z1Q/article/details/149695278)
+
++ [紫光PCIe快速上手指南](https://blog.csdn.net/m0_61846207/article/details/149512289)
+
