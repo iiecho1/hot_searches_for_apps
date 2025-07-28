@@ -169,3 +169,5 @@
 
 + [联合国报告：全球仍有超6亿人面临饥饿](https://news.cctv.com/2025/07/29/ARTIiz6e4AAgTVQrBW8Fntgr250729.shtml)
 
++ [美国内华达州发生枪击事件 致多人受伤](https://news.cctv.com/2025/07/29/ARTIRImrwIUC4MDfpqgeqSuP250729.shtml)
+
