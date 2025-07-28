@@ -137,3 +137,5 @@
 
 + [对标Cursor，腾讯CodeBuddy IDE我赞了](https://blog.csdn.net/m0_57874805/article/details/149727614)
 
++ [RK3568 Linux驱动学习——Linux驱动开发准备工作](https://blog.csdn.net/xhj12138/article/details/149695613)
+

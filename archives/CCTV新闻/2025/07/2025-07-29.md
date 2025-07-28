@@ -165,3 +165,7 @@
 
 + [特朗普称将考虑缩短俄乌和平协议50天期限](https://news.cctv.com/2025/07/29/ARTI3cBBCfrYdexLkb1IqLTT250729.shtml)
 
++ [国际观察｜会谈不到3小时 泰柬为何能迅速达成停火](https://news.cctv.com/2025/07/29/ARTIBY2cP7upeCYbTbdXFqT6250729.shtml)
+
++ [联合国报告：全球仍有超6亿人面临饥饿](https://news.cctv.com/2025/07/29/ARTIiz6e4AAgTVQrBW8Fntgr250729.shtml)
+
