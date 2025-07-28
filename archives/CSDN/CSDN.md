@@ -133,3 +133,7 @@
 
 + [去中心化时代的通信革命：briefing与cpolar技术融合带来的安全范式革新](https://blog.csdn.net/qq_62662919/article/details/149672514)
 
++ [FastGPT本地构建工作流高级编排（最新4.11.0）](https://blog.csdn.net/Justw320/article/details/149720265)
+
++ [对标Cursor，腾讯CodeBuddy IDE我赞了](https://blog.csdn.net/m0_57874805/article/details/149727614)
+
