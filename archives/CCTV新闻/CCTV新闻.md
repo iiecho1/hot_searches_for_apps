@@ -229,3 +229,5 @@
 
 + [“投资中国就是投资长期确定性”——外资企业相关人士看好中国大市场支撑高质量发展向优向新](https://news.cctv.com/2025/07/29/ARTITHQTrsjoAc9RHuJHxaHb250729.shtml)
 
++ [IMF上调全球增长预期 呼吁减少贸易壁垒](https://news.cctv.com/2025/07/29/ARTIJOaKqVvTgbSa932jbkpY250729.shtml)
+
