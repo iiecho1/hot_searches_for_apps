@@ -141,3 +141,9 @@
 
 + [MyBatis的运行原理](https://blog.csdn.net/m0_62605516/article/details/149661057)
 
++ [Linux驱动开发笔记（五）——设备树（中）——节点的标准属性](https://blog.csdn.net/qq_56920196/article/details/149605575)
+
++ [Flutter 生命周期介绍](https://blog.csdn.net/yuantian_shenhai/article/details/149690318)
+
++ [GMP模型](https://blog.csdn.net/2302_80067378/article/details/149648414)
+
