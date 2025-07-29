@@ -205,3 +205,15 @@
 
 + [【网络协议安全】任务15：DHCP与FTP服务全配置](https://blog.csdn.net/2303_76492156/article/details/149694074)
 
++ [游戏分享网站|基于SprinBoot+vue的游戏分享网站系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/149741485)
+
++ [TI 2025全国电赛猜题](https://blog.csdn.net/WuXiaoMuDeBug/article/details/149718609)
+
++ [Mybatis_4](https://blog.csdn.net/CxK6666667/article/details/149713423)
+
++ [【2025/07/28】GitHub 今日热门项目](https://blog.csdn.net/AlbertDS/article/details/149725466)
+
++ [Linux内核驱动开发核心问题全解](https://blog.csdn.net/Interview_TC/article/details/149723205)
+
++ [数学建模——蒙特卡罗法](https://blog.csdn.net/shenghaide_jiahu/article/details/149724133)
+
