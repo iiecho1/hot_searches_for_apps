@@ -169,3 +169,9 @@
 
 + [英国称将于9月承认巴勒斯坦国](https://news.cctv.com/2025/07/30/ARTISfAZpGovIbXMQY86m2jg250730.shtml)
 
++ [特朗普：如结束俄乌冲突无进展 将对俄征收关税](https://news.cctv.com/2025/07/30/ARTITGA22sLKfmwkFmAmwO4E250730.shtml)
+
++ [土耳其航空一架波音777客机因故障紧急降落](https://news.cctv.com/2025/07/30/ARTIR7SX0Pp7sqyXYOwxzI7f250730.shtml)
+
++ [以军称拦截一枚胡塞武装发射的弹道导弹](https://news.cctv.com/2025/07/30/ARTIRaLyHQ1UyfrZH9C7izmG250730.shtml)
+
