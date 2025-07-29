@@ -179,3 +179,5 @@
 
 + [【论文阅读】ON THE ROLE OF ATTENTION HEADS IN LARGE LANGUAGE MODEL SAFETY](https://blog.csdn.net/xianshuiyihui/article/details/149698061)
 
++ [NaVid——基于单目RGB捕获的视频让VLM规划「连续环境中VLN」的下一步：无需地图/里程计/深度信息(含R2R/RxR，及VLN-CE、MP3D的详解)](https://blog.csdn.net/v_JULY_v/article/details/149672064)
+

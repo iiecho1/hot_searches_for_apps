@@ -201,3 +201,9 @@
 
 + [特朗普一句话美以再现分歧 以色列：断电，军事占领加沙](https://news.cctv.com/2025/07/29/ARTIh8WWQHDqpo1VTbYP6FPZ250729.shtml)
 
++ [“羞辱”欧洲 “选择了屈服” 多国批评美欧新贸易协议](https://news.cctv.com/2025/07/29/ARTIo4UVValIJoMydNtmNjio250729.shtml)
+
++ [征收高额港口费以重振造船业？美国政策乱象或加剧航运业动荡](https://news.cctv.com/2025/07/29/ARTIs3KFhntWlE9rpOCWxeBG250729.shtml)
+
++ [泰军称泰柬边境发生冲突 柬方驳斥：军队严格执行停火命令](https://news.cctv.com/2025/07/29/ARTIFGet8TUdJKmnzfNVTrJk250729.shtml)
+

@@ -51,3 +51,21 @@
 
 + [“打着诺基亚旗号”也无效：消息称 HMD 推出的功能机市场需求不佳，商家直言“现在学生老人都不用”](https://m.ithome.com/html/871102.htm)
 
++ [国航、南航、东航齐发公告，“民航版 12306”直销机票来了](https://m.ithome.com/html/871386.htm)
+
++ [酷态科 10 号超级电能充 Mini 官宣：支持小米 120W 澎湃秒充，限时首发价 179 元、31 日开售](https://m.ithome.com/html/871354.htm)
+
++ [苹果 iPhone 17 Pro 原型机户外曝光：横向矩阵设计](https://m.ithome.com/html/871393.htm)
+
++ [微信鸿蒙版 App 获 1.0.9.16 邀测升级：朋友圈功能全面升级](https://m.ithome.com/html/871381.htm)
+
++ [因建模过于逼真，英国玩家用《死亡搁浅》角色面部通过年龄认证](https://m.ithome.com/html/871324.htm)
+
++ [长安“新央企”成立在即，“中国长安汽车集团”官微上线](https://m.ithome.com/html/871288.htm)
+
++ [闷声干大事：消息称微信鸿蒙 App 邀测版支持华为手机弹出小窗回复，升级说明未提及](https://m.ithome.com/html/871402.htm)
+
++ [2C + 1A 支持小米 120W 澎湃秒充，酷态科 10 号 Mini 充电头完整规格参数曝光](https://m.ithome.com/html/871347.htm)
+
++ [小米回应 REDMI K70 系列手机《王者荣耀》音量调节问题：游戏新策略导致，已反馈给开发商](https://m.ithome.com/html/871377.htm)
+
