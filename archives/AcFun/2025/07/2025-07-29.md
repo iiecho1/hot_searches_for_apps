@@ -109,3 +109,11 @@
 
 + [网络上常见的热门短视频集锦  第两千六百零五期](https://m.acfun.cn/v/?ac=47664255)
 
++ [买了个家用咖啡机，真的贼好玩儿](https://m.acfun.cn/v/?ac=47665416)
+
++ [瑞克和莫蒂 第八季 第十集 Rick and Morty Season 8 (2025)](https://m.acfun.cn/v/?ac=47663363)
+
++ [盛-世-容-颜！俄妹美的 高端 大气 上档次 ！](https://m.acfun.cn/v/?ac=47648736)
+
++ [【Realize!】人都没上舞台音乐先放了，脑袋空空跳完](https://m.acfun.cn/v/?ac=47662638)
+

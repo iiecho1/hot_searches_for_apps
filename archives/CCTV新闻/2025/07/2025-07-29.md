@@ -211,3 +211,9 @@
 
 + [泰国公共卫生部：泰柬边境冲突已致15名平民死亡](https://news.cctv.com/2025/07/29/ARTIjzNnGa863PD4PF2qpD2I250729.shtml)
 
++ [欧洲央行官员警惕稳定币 担忧欧元区“美元化”](https://news.cctv.com/2025/07/29/ARTI0OBIwLfFjPQzkiXFAh1n250729.shtml)
+
++ [世界气象组织：强烈热浪正在影响全球许多国家](https://news.cctv.com/2025/07/29/ARTIkYl9jCFcaFc92Ha4gLVe250729.shtml)
+
++ [欧盟拟暂停以色列参与“地平线欧洲”计划](https://news.cctv.com/2025/07/29/ARTI3LJYGVwfJsi12wrNI5jW250729.shtml)
+

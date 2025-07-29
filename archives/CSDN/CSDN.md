@@ -195,3 +195,11 @@
 
 + [AI应用架构师转型指南：从传统架构师到企业AI创新生态圈架构师的学习路径](https://blog.csdn.net/universsky2015/article/details/149674138)
 
++ [搭建专属AI聊天网站：NextChat + 蓝耘MaaS平台完整部署指南](https://blog.csdn.net/weixin_66401877/article/details/149695338)
+
++ [电科金仓 KingbaseES 深度解码：技术突破・行业实践・沙龙邀约 -- 融合数据库的变革之力](https://blog.csdn.net/atgfg/article/details/149695839)
+
++ [【Rust并发集合】如何在多线程中并发安全地使用集合](https://blog.csdn.net/littlefun591/article/details/149737319)
+
++ [HTTPS的基本理解以及加密流程](https://blog.csdn.net/m0_72874409/article/details/149672873)
+
