@@ -169,3 +169,13 @@
 
 + [单元测试、系统测试、集成测试知识详解](https://blog.csdn.net/zhangsiyuan1998/article/details/149666867)
 
++ [智能体安全与可信AI：防护机制与伦理考量](https://blog.csdn.net/IRpickstars/article/details/149738103)
+
++ [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、UnrealBloomPass、OutputPass渲染通道），实现迷人粒子系统](https://blog.csdn.net/qq_28419035/article/details/149742444)
+
++ [Unity中发布Windows平台实现网页打开应用并传参功能](https://blog.csdn.net/weixin_43872129/article/details/149222472)
+
++ [NaVid——基于单目RGB捕获的视频让VLM规划连续环境中VLN的下一步：无需地图/里程计/深度信息(含R2R/RxR，及VLN-CE、MP3D的详解)](https://blog.csdn.net/v_JULY_v/article/details/149672064)
+
++ [【论文阅读】ON THE ROLE OF ATTENTION HEADS IN LARGE LANGUAGE MODEL SAFETY](https://blog.csdn.net/xianshuiyihui/article/details/149698061)
+
