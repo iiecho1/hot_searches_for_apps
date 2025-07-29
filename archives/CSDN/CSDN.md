@@ -157,3 +157,9 @@
 
 + [【iOS】网易云仿写](https://blog.csdn.net/2401_86200358/article/details/149670270)
 
++ [1分钟极速生成简历表单，AI与Flash Table实战让你领先一步](https://blog.csdn.net/null18/article/details/149736984)
+
++ [NaVid——基于单目RGB捕获的视频让VLM规划连续环境中VLN的下一步：无需地图、里程计、深度信息(含VLN发展简史，及VLN-CE、MP3D的详解)](https://blog.csdn.net/v_JULY_v/article/details/149672064)
+
++ [手机秒变PC主控台：ToDesk、AnyDesk、向日葵、网易UU手机远程控制对比](https://blog.csdn.net/2202_75623950/article/details/149706047)
+
