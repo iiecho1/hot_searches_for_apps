@@ -107,3 +107,25 @@
 
 + [若依【（前后端分离版）SpringBoot+Vue3】](https://blog.csdn.net/rej177/article/details/149618492)
 
++ [「源力觉醒 创作者计划」_文心大模型 4.5 多模态实测：开源加速 AI 普惠落地](https://blog.csdn.net/wtyuong/article/details/149756174)
+
++ [【花雕学编程】ESP32 DeepSeek 之设备访问互联网进行API请求](https://blog.csdn.net/weixin_41659040/article/details/149705949)
+
++ [网络爬虫的介绍](https://blog.csdn.net/2501_91113915/article/details/149726892)
+
++ [深度学习与图像处理 | 基于PaddlePaddle的梯度下降算法实现（线性回归投资预测）](https://blog.csdn.net/qq_41640218/article/details/149714185)
+
++ [基于LangGraph Cli的智能数据分析助手](https://blog.csdn.net/yang2330648064/article/details/149727577)
+
++ [网络与信息安全有哪些岗位：（3）安全运维工程师](https://blog.csdn.net/JL54654/article/details/149708132)
+
++ [Go性能优化深度指南：从原理到实战](https://blog.csdn.net/May_as_well/article/details/149724038)
+
++ [图像识别边缘算法](https://blog.csdn.net/Jcrows/article/details/149723515)
+
++ [Web3技术解析：从网络架构到业务创新的范式的变革](https://blog.csdn.net/jacky_zhuyuanlu/article/details/149698311)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | Pokedex（宝可梦图鉴）](https://blog.csdn.net/qq_44808710/article/details/149707579)
+
++ [学习人工智能所需知识体系及路径详解](https://blog.csdn.net/huanfeng_AI/article/details/149728582)
+
