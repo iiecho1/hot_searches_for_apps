@@ -185,3 +185,19 @@
 
 + [金与正：朝鲜拥核国地位不可逆转 朝美接触只是美方“希望”](https://news.cctv.com/2025/07/29/ARTIsnmYl18u2paLF9EhEAJ2250729.shtml)
 
++ [日本政府8月1日召开临时国会 将选举参议院领导层](https://news.cctv.com/2025/07/29/ARTIHhoGta1xV3hS7eSbzljo250729.shtml)
+
++ [综合消息｜泰国陆军称柬方违反停火协议 柬方称边境冲突已结束](https://news.cctv.com/2025/07/29/ARTIhrNbI3FKDPFSrpexzEhZ250729.shtml)
+
++ [自民党内反对呼声渐高 石破茂誓言留任首相](https://news.cctv.com/2025/07/29/ARTIYNd50lXF0teU4BebRYHu250729.shtml)
+
++ [泰国军方：泰柬边境所有地区已经停火](https://news.cctv.com/2025/07/29/ARTIhWe8XwGEnoBfHqP4VlDX250729.shtml)
+
++ [美国教育部宣布对杜克大学展开定向调查](https://news.cctv.com/2025/07/29/ARTILQ0NILGxzhHBBus0Uxa1250729.shtml)
+
++ [英国伦敦发生持刀伤人事件 致2死2伤](https://news.cctv.com/2025/07/29/ARTIruGxo2r6VYmSRBEm0u3f250729.shtml)
+
++ [美国纽约曼哈顿枪击案造成包括枪手在内6人死亡](https://news.cctv.com/2025/07/29/ARTIh8ghsbQTRJor6JyNtmWG250729.shtml)
+
++ [特朗普一句话美以再现分歧 以色列：断电，军事占领加沙](https://news.cctv.com/2025/07/29/ARTIh8WWQHDqpo1VTbYP6FPZ250729.shtml)
+

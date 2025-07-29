@@ -147,3 +147,13 @@
 
 + [GMP模型](https://blog.csdn.net/2302_80067378/article/details/149648414)
 
++ [Transformer实战——BERT模型详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/147836679)
+
++ [【C#工业上位机高级应用】3. C#与西门子PLC高级通信 - S7CommPlus协议深度优化：TPL Dataflow构建流水线](https://blog.csdn.net/weixin_39815573/article/details/149696845)
+
++ [QGIS基于规则的道路分级制图及Leaflet集成展示实例](https://blog.csdn.net/yelangkingwuzuhu/article/details/149698189)
+
++ [2025年04月02日 Go生态洞察：更可预测的基准测试 —— Go 1.24 新特性 testing.B.Loop](https://blog.csdn.net/qq_44866828/article/details/149580457)
+
++ [【iOS】网易云仿写](https://blog.csdn.net/2401_86200358/article/details/149670270)
+
