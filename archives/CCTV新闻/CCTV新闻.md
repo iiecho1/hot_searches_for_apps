@@ -163,3 +163,9 @@
 
 + [莫斯科多家药店疑似遭黑客攻击 系统严重瘫痪](https://news.cctv.com/2025/07/30/ARTIBJZujdrdAwK81gBscnvg250730.shtml)
 
++ [安哥拉出租车司机罢工引发骚乱 4人死亡500余人被捕](https://news.cctv.com/2025/07/30/ARTIM8aUEfwALZpWdhRW82Mr250730.shtml)
+
++ [泰国军方：柬埔寨再次违反停火协议发动袭击](https://news.cctv.com/2025/07/30/ARTIahVMk3ukP269AlkZieV4250730.shtml)
+
++ [英国称将于9月承认巴勒斯坦国](https://news.cctv.com/2025/07/30/ARTISfAZpGovIbXMQY86m2jg250730.shtml)
+

@@ -25,3 +25,21 @@
 
 + [小米回应 REDMI K70 系列手机《王者荣耀》音量调节问题：游戏新策略导致，已反馈给开发商](https://m.ithome.com/html/871377.htm)
 
++ [卫星电话关键时刻能保命：网友被困怀柔村落，全村靠唯一的华为 Pura 70 Pro+ 上报险情、通告平安](https://m.ithome.com/html/871427.htm)
+
++ [美团发文承诺：绝不自营，绝不下场与商家竞争，只做好基础设施建设](https://m.ithome.com/html/871448.htm)
+
++ [小米 SU7 Ultra 汽车被曝现身法拉利工厂，消息称将用于测试及开发下一代纯电平台](https://m.ithome.com/html/871512.htm)
+
++ [腾讯《荒野起源》游戏涉嫌抄袭《地平线》系列，索尼在美国发起版权诉讼](https://m.ithome.com/html/871391.htm)
+
++ [5199 → 4399 元明日正式发售：华为 Pura 80 512G 手机预售直降 300 元](https://m.ithome.com/html/871569.htm)
+
++ [冒充女性求职并编造低俗内容：BOSS 直聘通报“王某香简历事件”，涉事男子被刑拘](https://m.ithome.com/html/871409.htm)
+
++ [售价 32.18 万元起、续航最高 720 公里，理想 i8 六座纯电 SUV 上市](https://m.ithome.com/html/871632.htm)
+
++ [苹果回应首次在中国关停直营店：购物中心内多家零售商都已离开](https://m.ithome.com/html/871510.htm)
+
++ [手机形态充电宝：国产厂商 10000mAh 电池新机进入 NPI，厚度不到 8.5mm](https://m.ithome.com/html/871439.htm)
+
