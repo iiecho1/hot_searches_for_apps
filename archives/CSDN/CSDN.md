@@ -181,3 +181,15 @@
 
 + [NaVid——基于单目RGB捕获的视频让VLM规划「连续环境中VLN」的下一步：无需地图/里程计/深度信息(含R2R/RxR，及VLN-CE、MP3D的详解)](https://blog.csdn.net/v_JULY_v/article/details/149672064)
 
++ [（四十三）深度解析领域特定语言（DSL）第七章——语法分析器组合子（Parser Combinators）](https://blog.csdn.net/weixin_46217641/article/details/149737543)
+
++ [网络数据传输与NAT技术的工作原理](https://blog.csdn.net/2302_80105876/article/details/149504870)
+
++ [vue如何在data里使用this](https://blog.csdn.net/qq_63358859/article/details/149726714)
+
++ [Vue 工程化](https://blog.csdn.net/2303_80688889/article/details/149716127)
+
++ [小白成长之路-Ansible自动化（一）](https://blog.csdn.net/m0_70730767/article/details/149685161)
+
++ [CPU 为什么需要缓存？揭开速度与效率的底层逻辑](https://blog.csdn.net/qq_34999565/article/details/149672245)
+
