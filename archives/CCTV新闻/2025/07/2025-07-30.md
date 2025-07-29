@@ -161,3 +161,5 @@
 
 + [阿尔及利亚东北部发生交通事故 已致3死41伤](https://news.cctv.com/2025/07/27/ARTIlXQLqdWDwde8ikqWYfFM250727.shtml)
 
++ [莫斯科多家药店疑似遭黑客攻击 系统严重瘫痪](https://news.cctv.com/2025/07/30/ARTIBJZujdrdAwK81gBscnvg250730.shtml)
+

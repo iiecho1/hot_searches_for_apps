@@ -101,3 +101,9 @@
 
 + [Baumer工业相机堡盟工业相机如何通过YoloV8深度学习模型实现面部口罩的检测识别（C#代码，UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149718522)
 
++ [Transformer实战——BERT模型详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/147836679)
+
++ [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、UnrealBloomPass、OutputPass渲染通道），实现迷人粒子系统](https://blog.csdn.net/qq_28419035/article/details/149742444)
+
++ [若依【（前后端分离版）SpringBoot+Vue3】](https://blog.csdn.net/rej177/article/details/149618492)
+
