@@ -207,3 +207,7 @@
 
 + [泰军称泰柬边境发生冲突 柬方驳斥：军队严格执行停火命令](https://news.cctv.com/2025/07/29/ARTIFGet8TUdJKmnzfNVTrJk250729.shtml)
 
++ [视频丨西班牙航展现惊险一幕 一战机险些坠入人群中](https://news.cctv.com/2025/07/29/ARTI6a6VnT5EOpTs75ZunSoW250729.shtml)
+
++ [泰国公共卫生部：泰柬边境冲突已致15名平民死亡](https://news.cctv.com/2025/07/29/ARTIjzNnGa863PD4PF2qpD2I250729.shtml)
+

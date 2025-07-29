@@ -193,3 +193,5 @@
 
 + [CPU 为什么需要缓存？揭开速度与效率的底层逻辑](https://blog.csdn.net/qq_34999565/article/details/149672245)
 
++ [AI应用架构师转型指南：从传统架构师到企业AI创新生态圈架构师的学习路径](https://blog.csdn.net/universsky2015/article/details/149674138)
+
