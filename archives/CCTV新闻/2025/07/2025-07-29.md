@@ -217,3 +217,15 @@
 
 + [欧盟拟暂停以色列参与“地平线欧洲”计划](https://news.cctv.com/2025/07/29/ARTI3LJYGVwfJsi12wrNI5jW250729.shtml)
 
++ [共话中国经济新机遇｜专访：中国市场助力跨国企业提升全球竞争力——访德国采埃孚集团董事彼得·霍得曼](https://news.cctv.com/2025/07/29/ARTIWkoDsFfVIuppCpg2UpwV250729.shtml)
+
++ [美媒：美国关税政策破坏全球贸易体系 为自身孤立埋下种子](https://news.cctv.com/2025/07/29/ARTIvR5IGGiGUtGXbyJqsURz250729.shtml)
+
++ [“研发在中国”见证“中国磁吸力”](https://news.cctv.com/2025/07/29/ARTIIfDn4M63TGo3SZT5t2j4250729.shtml)
+
++ [弘扬“上海精神” 共建美好家园（弘扬“上海精神”：上合组织在行动）](https://news.cctv.com/2025/07/29/ARTI2ohJftPEHtjKk0AlwmzB250729.shtml)
+
++ [“以更高站位、更大格局、更宽视野推进合作”——访欧洲丝路智联促进会联合创始人克鲁特](https://news.cctv.com/2025/07/29/ARTIYRvKhlNBLgMaKtEoVKkn250729.shtml)
+
++ [“投资中国就是投资长期确定性”——外资企业相关人士看好中国大市场支撑高质量发展向优向新](https://news.cctv.com/2025/07/29/ARTITHQTrsjoAc9RHuJHxaHb250729.shtml)
+

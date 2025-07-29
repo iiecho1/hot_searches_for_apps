@@ -21,3 +21,17 @@
 
 + [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
 
++ [9001/copyparty](https://github.com/9001/copyparty)
+
++ [cloudwego/eino](https://github.com/cloudwego/eino)
+
++ [n0-computer/iroh](https://github.com/n0-computer/iroh)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [lapce/lapce](https://github.com/lapce/lapce)
+
++ [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+
++ [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+
