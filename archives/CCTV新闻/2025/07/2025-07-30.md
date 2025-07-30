@@ -255,3 +255,5 @@
 
 + [俄罗斯堪察加半岛一火山喷发](https://news.cctv.com/2025/07/30/ARTIbQsEXgv2mgpj5q3WUpEd250730.shtml)
 
++ [智利因俄堪察加半岛附近海域强震发布海啸红色预警](https://news.cctv.com/2025/07/30/ARTIWEkBoN2zpuklYPCE2AHI250730.shtml)
+

@@ -215,3 +215,7 @@
 
 + [jvm冷门知识十讲](https://blog.csdn.net/sunny8zhou/article/details/146049058)
 
++ [MCP提示词工程：上下文注入的艺术与科学](https://blog.csdn.net/IRpickstars/article/details/149768110)
+
++ [python优秀案例：基于机器学习算法的景区旅游评论数据分析与可视化系统，技术使用django+lstm算法+朴素贝叶斯算法+echarts可视化](https://blog.csdn.net/weixin_49081159/article/details/149754641)
+
