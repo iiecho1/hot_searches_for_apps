@@ -43,3 +43,13 @@
 
 + [华为 Pura 80 数字版手机首销：丝绒直屏 + 红枫原色影像，4699 元起](https://m.ithome.com/html/871692.htm)
 
++ [卫星电话关键时刻能保命：网友被困怀柔村落，全村靠唯一的华为 Pura 70 Pro+ 上报险情、通告平安](https://m.ithome.com/html/871427.htm)
+
++ [美团发文承诺：绝不自营，绝不下场与商家竞争，只做好基础设施建设](https://m.ithome.com/html/871448.htm)
+
++ [闷声干大事：消息称微信鸿蒙 App 邀测版支持华为手机弹出小窗回复，升级说明未提及](https://m.ithome.com/html/871402.htm)
+
++ [冒充女性求职并编造低俗内容：BOSS 直聘通报“王某香简历事件”，涉事男子被刑拘](https://m.ithome.com/html/871409.htm)
+
++ [手机形态充电宝：国产厂商 10000mAh 电池新机进入 NPI，厚度不到 8.5mm](https://m.ithome.com/html/871439.htm)
+

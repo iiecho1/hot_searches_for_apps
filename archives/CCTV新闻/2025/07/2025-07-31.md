@@ -165,3 +165,9 @@
 
 + [法国与14国联合呼吁承认巴勒斯坦国](https://news.cctv.com/2025/07/31/ARTIorOX1Lai2VRJsJVjcwjs250731.shtml)
 
++ [国际原子能机构：扎波罗热核电站辐射水平没有增加](https://news.cctv.com/2025/07/31/ARTIBB6jazSuK9FVhGjyALij250731.shtml)
+
++ [美联储连续第五次维持利率不变](https://news.cctv.com/2025/07/31/ARTImvpO44IGUIVXYmbrAhAh250731.shtml)
+
++ [特朗普宣布8月1日起对进口半成品铜等产品征收50%关税](https://news.cctv.com/2025/07/31/ARTIY2r6vi09tqYI4RMlSoqh250731.shtml)
+

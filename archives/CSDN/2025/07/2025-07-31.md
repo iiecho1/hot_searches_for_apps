@@ -133,3 +133,5 @@
 
 + [FastGPT本地构建工作流高级编排（最新4.11.0）](https://blog.csdn.net/Justw320/article/details/149720265)
 
++ [SpringCloud01——项目演变、微服务远程调用三种方式、springcloud介绍、nacos注册中心](https://blog.csdn.net/qq_64392336/article/details/149723590)
+
