@@ -229,3 +229,11 @@
 
 + [泰国中部一烟花厂爆炸 已造成10人伤亡](https://news.cctv.com/2025/07/30/ARTIvGZY7e4MJaZRQ2aTzhUx250730.shtml)
 
++ [特朗普对俄发“最后通牒”：只给10天，今天开始](https://news.cctv.com/2025/07/30/ARTIFXJqocJ2PbMY9BbyRhnp250730.shtml)
+
++ [千岛群岛发生6.0级地震 震源深度10千米](https://news.cctv.com/2025/07/30/ARTIKh2oJfveAQ795I39q85n250730.shtml)
+
++ [堪察加东岸远海强震引发越洋海啸 专家析影响成因](https://news.cctv.com/2025/07/30/ARTI1QUKNrh1hliB4uxdnrZC250730.shtml)
+
++ [澳政府拟禁止16岁以下人群使用优兔](https://news.cctv.com/2025/07/30/ARTIJUXVWP5uFxxRCxJyBW6I250730.shtml)
+

@@ -177,3 +177,13 @@
 
 + [Spark大数据分与实践笔记（第五章 HBase分布式数据库-04）](https://blog.csdn.net/u014727709/article/details/147264031)
 
++ [【基于C# + HALCON的工业视觉系统开发实战】三十五、金属表面划伤检测：强反光场景解决方案](https://blog.csdn.net/weixin_39815573/article/details/149745491)
+
++ [Elasticsearch 8.19.0 和 9.1.0 中 LogsDB 和 TSDS 的性能与存储改进](https://blog.csdn.net/UbuntuTouch/article/details/149768384)
+
++ [SpringBoot之起步依赖](https://blog.csdn.net/aa_hdkf_vg/article/details/149757419)
+
++ [再谈fpga开发（怎么写verilog）](https://blog.csdn.net/feixiaoxing/article/details/149702965)
+
++ [Linux之网络部分-应用层协议 HTTP](https://blog.csdn.net/2302_81120572/article/details/148789435)
+
