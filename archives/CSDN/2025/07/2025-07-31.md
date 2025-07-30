@@ -129,3 +129,7 @@
 
 + [jvm冷门知识十讲](https://blog.csdn.net/sunny8zhou/article/details/146049058)
 
++ [GaussDB调优核心逻辑：分布式架构下的性能挑战](https://blog.csdn.net/GaussDB/article/details/149770996)
+
++ [FastGPT本地构建工作流高级编排（最新4.11.0）](https://blog.csdn.net/Justw320/article/details/149720265)
+
