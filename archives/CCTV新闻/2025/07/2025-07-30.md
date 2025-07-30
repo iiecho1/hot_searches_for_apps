@@ -249,3 +249,7 @@
 
 + [泰国中部发生烟花爆炸事件致9死2伤](https://news.cctv.com/2025/07/30/ARTIh9sDHaPqpqJOvojRnCPF250730.shtml)
 
++ [通讯丨路通茶香远——一条公路拉动肯尼亚“绿色黄金”](https://news.cctv.com/2025/07/30/ARTIPphIzHreRXj8y3zvpczd250730.shtml)
+
++ [全球连线｜以球会友 中美学子激战“云顶碗”](https://news.cctv.com/2025/07/30/ARTI9BKpHoiei04Fm5Q9sLzK250730.shtml)
+
