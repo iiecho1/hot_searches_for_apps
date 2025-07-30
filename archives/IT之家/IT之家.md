@@ -43,3 +43,19 @@
 
 + [手机形态充电宝：国产厂商 10000mAh 电池新机进入 NPI，厚度不到 8.5mm](https://m.ithome.com/html/871439.htm)
 
++ [特斯拉“廉价版 Model Y”车型外观首曝：取消贯穿灯带、匹配 19 英寸倍耐力轮胎](https://m.ithome.com/html/871608.htm)
+
++ [苹果 iOS / iPadOS 18.6 正式版发布：修复中文旁白声音设置错误、“照片”无法分享回忆影片问题](https://m.ithome.com/html/871654.htm)
+
++ [李想再谈理想 MEGA 风波：遭遇汽车史上最大抹黑事件，现在是 50 万以上 MPV 和纯电车销量冠军](https://m.ithome.com/html/871621.htm)
+
++ [李想自嘲第一次看见理想 i8 觉得有点丑，越看越顺眼](https://m.ithome.com/html/871614.htm)
+
++ [2025 款长安马自达 3 昂克赛拉上市：新增云控选装包，售 8.99 万元起](https://m.ithome.com/html/871636.htm)
+
++ [小米汽车：辅助驾驶现阶段不是自动驾驶，请大家正确理解和使用相关功能](https://m.ithome.com/html/871663.htm)
+
++ [问界 M9 车主实战回应懂车帝：展示 NCA 高速上自动降速变道躲避工程车](https://m.ithome.com/html/871680.htm)
+
++ [华为 HarmonyOS 6 开发者预览版 Beta 招募（二期）开启](https://m.ithome.com/html/871624.htm)
+

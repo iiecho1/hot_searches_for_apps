@@ -157,3 +157,15 @@
 
 + [Python----大模型（基于Fastapi+gradio的对话机器人）](https://blog.csdn.net/weixin_64110589/article/details/149545374)
 
++ [PyTorch生成式人工智能（21）——归一化流模型(Normalizing Flow Model)](https://blog.csdn.net/LOVEmy134611/article/details/146261542)
+
++ [【Arduino 动手做】带Arduino的RGB矩阵音频可视化工具](https://blog.csdn.net/weixin_41659040/article/details/149755853)
+
++ [「源力觉醒 创作者计划」文心大模型4.5重塑AI生态与技术普惠【文心4.5开源性能全揭秘】](https://blog.csdn.net/weixin_52908342/article/details/149761254)
+
++ [【模电笔记】—— 波形发生电路（波形振荡器）](https://blog.csdn.net/hero_hexi/article/details/149618244)
+
++ [网络原理--HTTP&HTTPS](https://blog.csdn.net/2301_79995226/article/details/149751483)
+
++ [重生之我在暑假学习微服务第四天《Docker-下篇》](https://blog.csdn.net/2302_80329073/article/details/149752733)
+

@@ -205,3 +205,11 @@
 
 + [堪察加东岸远海发生7.9级地震，震源深度10千米](https://news.cctv.com/2025/07/30/ARTIILJTNGXPuq8LnImijXap250730.shtml)
 
++ [英法均考虑承认巴勒斯坦国，意味着什么？](https://news.cctv.com/2025/07/30/ARTIFb8YAzFcfu1QZOQbsEgf250730.shtml)
+
++ [7月30日7时24分堪察加东岸远海地震震级修订为8.7级](https://news.cctv.com/2025/07/30/ARTIBeQQFCMawGniBdxfR8Dl250730.shtml)
+
++ [俄阿穆尔州客机坠毁事故中遇难中国公民身份已确认](https://news.cctv.com/2025/07/30/ARTIiQDzK0TZ0mDcOyJcFh7J250730.shtml)
+
++ [中国驻日本大使馆提醒在日同胞防范海啸](https://news.cctv.com/2025/07/30/ARTIR7YS1omDEoQCTg1N2fKk250730.shtml)
+
