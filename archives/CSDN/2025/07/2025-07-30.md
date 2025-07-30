@@ -207,3 +207,7 @@
 
 + [【计算机网络】计算机网络中光猫、交换机、路由器、网关、MAC地址是什么？两台电脑是如何联通的？](https://blog.csdn.net/weixin_42960907/article/details/149641316)
 
++ [【深度学习】独热编码（One-Hot Encoding）](https://blog.csdn.net/Zlyzjiabjw547479/article/details/149755025)
+
++ [（8）(8.6) H-流量（光学流量和距离传感器模块）](https://blog.csdn.net/qq_20016593/article/details/149346866)
+

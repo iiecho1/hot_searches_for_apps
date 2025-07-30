@@ -49,3 +49,5 @@
 
 + [马上当爸爸了，如何教孩子学习 Golang，特别是并发编程， Profiling，内存优化， Goroutine 调度](https://www.v2ex.com/t/1148697)
 
++ [买房的你们都亏多少钱了？](https://www.v2ex.com/t/1148756)
+
