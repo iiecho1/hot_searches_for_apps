@@ -171,3 +171,7 @@
 
 + [特朗普宣布8月1日起对进口半成品铜等产品征收50%关税](https://news.cctv.com/2025/07/31/ARTIY2r6vi09tqYI4RMlSoqh250731.shtml)
 
++ [热点问答｜俄堪察加半岛强震影响几何](https://news.cctv.com/2025/07/31/ARTIxy35Y1f8XmuaUjTaDRG7250731.shtml)
+
++ [中俄将举行“海上联合-2025”军事演习](https://news.cctv.com/2025/07/31/ARTISK8qXwFHvJRs0dGo5mzk250731.shtml)
+
