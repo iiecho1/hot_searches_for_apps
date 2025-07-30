@@ -101,3 +101,9 @@
 
 + [再谈fpga开发（怎么写verilog）](https://blog.csdn.net/feixiaoxing/article/details/149702965)
 
++ [RabbitMQ 消息持久化的三大支柱 (With Spring Boot)](https://blog.csdn.net/fouryears_23417/article/details/149755769)
+
++ [如何给电脑换个ip地址？电脑换ip几种方法](https://blog.csdn.net/Regina153/article/details/149720415)
+
++ [Web3技术解析：从网络架构到业务创新的范式的变革](https://blog.csdn.net/jacky_zhuyuanlu/article/details/149698311)
+

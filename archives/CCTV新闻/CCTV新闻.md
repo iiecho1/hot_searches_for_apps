@@ -161,3 +161,7 @@
 
 + [特朗普称将考虑缩短俄乌和平协议50天期限](https://news.cctv.com/2025/07/29/ARTI3cBBCfrYdexLkb1IqLTT250729.shtml)
 
++ [美国今年第二季度经济增长3.0%](https://news.cctv.com/2025/07/31/ARTIzRBsNt1pAKSUqav0dqCf250731.shtml)
+
++ [法国与14国联合呼吁承认巴勒斯坦国](https://news.cctv.com/2025/07/31/ARTIorOX1Lai2VRJsJVjcwjs250731.shtml)
+

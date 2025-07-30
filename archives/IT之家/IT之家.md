@@ -25,3 +25,21 @@
 
 + [华为 HarmonyOS 6 开发者预览版 Beta 招募（二期）开启](https://m.ithome.com/html/871624.htm)
 
++ [消息称华为新机将支持低轨卫星通讯 + eSIM，预计为 Mate 80 系列](https://m.ithome.com/html/871754.htm)
+
++ [50+ 款腾讯系应用适配华为鸿蒙 HarmonyOS 系统，含微信、QQ、王者荣耀等](https://m.ithome.com/html/871731.htm)
+
++ [橙色最抢眼：苹果 iPhone 17 / Pro 系列机模颜色阵容曝光](https://m.ithome.com/html/871724.htm)
+
++ [腾讯客服回应微信好友通过没提示消息：8.0.59 版本后统一优化为灰色小字的系统通知，暂不支持恢复原有样式](https://m.ithome.com/html/871760.htm)
+
++ [橙色 iPhone 17 Pro 上手视频曝光：苹果 Logo 下移，辨识度更高](https://m.ithome.com/html/871705.htm)
+
++ [李想：曾被最信任的伙伴赶出公司，最终选择和解](https://m.ithome.com/html/871746.htm)
+
++ [华为鸿蒙 5 终端数量破 1000 万，余承东亲自致谢](https://m.ithome.com/html/871683.htm)
+
++ [「梦想之车」：全新小鹏 P7 官图发布，8 月 6 日中国首秀](https://m.ithome.com/html/871691.htm)
+
++ [华为 Pura 80 数字版手机首销：丝绒直屏 + 红枫原色影像，4699 元起](https://m.ithome.com/html/871692.htm)
+
