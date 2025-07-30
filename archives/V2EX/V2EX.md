@@ -21,3 +21,5 @@
 
 + [观生育补贴有感](https://www.v2ex.com/t/1148475)
 
++ [使用过 PakePlus 的用户，请赶快删除你的 github api token，否则有被盗的风险](https://www.v2ex.com/t/1148581)
+

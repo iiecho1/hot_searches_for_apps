@@ -175,3 +175,7 @@
 
 + [以军称拦截一枚胡塞武装发射的弹道导弹](https://news.cctv.com/2025/07/30/ARTIRaLyHQ1UyfrZH9C7izmG250730.shtml)
 
++ [不要空投！加沙地带民众呼吁恢复联合国援助模式](https://news.cctv.com/2025/07/30/ARTImwqOqW0ZvXX1IBtRu2GG250730.shtml)
+
++ [英国称若以色列不停火 将于9月承认巴勒斯坦国](https://news.cctv.com/2025/07/30/ARTISfAZpGovIbXMQY86m2jg250730.shtml)
+
