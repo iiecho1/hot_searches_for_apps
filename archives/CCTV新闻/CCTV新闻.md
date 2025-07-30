@@ -179,3 +179,29 @@
 
 + [英国称若以色列不停火 将于9月承认巴勒斯坦国](https://news.cctv.com/2025/07/30/ARTISfAZpGovIbXMQY86m2jg250730.shtml)
 
++ [中美经贸会谈在瑞典斯德哥尔摩举行](https://news.cctv.com/2025/07/30/ARTIKOSI76tSGPMFbrdw94c9250730.shtml)
+
++ [中企“希望农场”在纳米比亚播种振兴“曙光”](https://news.cctv.com/2025/07/30/ARTIcYPUE7ymoML7tgACCo6h250730.shtml)
+
++ [“我们抓住了机会！”非洲村长赞叹中国援非“万村通”项目](https://news.cctv.com/2025/07/30/ARTImuy9oZlddsvd7ooNw4br250730.shtml)
+
++ [俄罗斯“勇士”飞行表演队为航空节准备](https://photo.cctv.com/2025/07/30/PHOAjfvLcoYdWcS2beNieghw250730.shtml)
+
++ [日本气象厅：第一波海啸已抵达北海道根室市](https://news.cctv.com/2025/07/30/ARTIeqJbRUDWghyyBpItuMDG250730.shtml)
+
++ [秘鲁阅兵庆祝独立204周年](https://photo.cctv.com/2025/07/30/PHOAoTtvloa1lix52aAbptD1250730.shtml)
+
++ [中国驻福冈总领事馆紧急提醒领区中国同胞防范海啸风险](https://news.cctv.com/2025/07/30/ARTITFiGTNKSzHTEN6kLXRVe250730.shtml)
+
++ [日本多地发布海啸警报 福岛第一核电站暂停核污染水排海](https://news.cctv.com/2025/07/30/ARTI8X6FhAK1Rejv45WFTrx5250730.shtml)
+
++ [特朗普称可能不会出席二十国集团领导人南非峰会](https://news.cctv.com/2025/07/30/ARTISP2WnBRXv6jeAzvSVX9J250730.shtml)
+
++ [俄罗斯堪察加半岛附近海域强震引发海啸预警](https://news.cctv.com/2025/07/30/ARTI4whtcaA0TIyEEChvhnRR250730.shtml)
+
++ [俄罗斯千岛群岛附近海域发生7.9级地震](https://news.cctv.com/2025/07/30/ARTIZ7u8g7Qs3xMQdYqoJUbv250730.shtml)
+
++ [国家海洋预报台：堪察加附近地震或引发海啸 但不会对我国造成灾害性影响](https://news.cctv.com/2025/07/30/ARTIlGXtoDKZgFzIjKKy0cV5250730.shtml)
+
++ [堪察加东岸远海发生7.9级地震，震源深度10千米](https://news.cctv.com/2025/07/30/ARTIILJTNGXPuq8LnImijXap250730.shtml)
+

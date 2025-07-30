@@ -145,3 +145,15 @@
 
 + [Mybatis_4](https://blog.csdn.net/CxK6666667/article/details/149713423)
 
++ [[源力觉醒 创作者计划]_文心大模型4.5开源：从技术突破到生态共建的国产AI解读与本地部署指南](https://blog.csdn.net/2302_78391795/article/details/149757120)
+
++ [【智能协同云图库】智能协同云图库第八弹：基于阿里云百炼大模型—实现 AI 扩图功能](https://blog.csdn.net/2402_84916296/article/details/149759315)
+
++ [MoR vs MoE架构对比：更少参数、更快推理的大模型新选择](https://blog.csdn.net/m0_46510245/article/details/149753984)
+
++ [腾讯云centos7使用docker部署生产环境中间件](https://blog.csdn.net/kobe_okok/article/details/149723990)
+
++ [轻量级远程开发利器：Code Server与cpolar协同实现安全云端编码](https://blog.csdn.net/qrsds/article/details/149720076)
+
++ [Python----大模型（基于Fastapi+gradio的对话机器人）](https://blog.csdn.net/weixin_64110589/article/details/149545374)
+
