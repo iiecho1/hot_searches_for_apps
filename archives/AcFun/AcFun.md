@@ -65,3 +65,5 @@
 
 + [【东方】紅 Revolution MV【紺碧studio feat.ferret & 美津紀】](https://m.acfun.cn/v/?ac=47666649)
 
++ [这小粉丝，耐力过于逆天了](https://m.acfun.cn/v/?ac=47669986)
+
