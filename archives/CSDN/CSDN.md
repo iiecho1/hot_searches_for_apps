@@ -171,3 +171,9 @@
 
 + [GaussDB调优核心逻辑：分布式架构下的性能挑战](https://blog.csdn.net/GaussDB/article/details/149770996)
 
++ [【Rust多进程】征服CPU的艺术：Rust多进程实战指南](https://blog.csdn.net/littlefun591/article/details/149751421)
+
++ [K8s 中的分布式锁](https://blog.csdn.net/hezuijiudexiaobai/article/details/149771385)
+
++ [Spark大数据分与实践笔记（第五章 HBase分布式数据库-04）](https://blog.csdn.net/u014727709/article/details/147264031)
+

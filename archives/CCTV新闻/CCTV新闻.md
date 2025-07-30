@@ -219,3 +219,13 @@
 
 + [基孔肯雅热疫情蔓延全球，气候变暖驱动热带蚊媒传染病扩散](https://news.cctv.com/2025/07/30/ARTIrqzW4Abg63Lgal1FTIY2250730.shtml)
 
++ [日媒：千叶县沿岸有4头鲸鱼同时搁浅，日本网络上有猜测认为与地震有关](https://news.cctv.com/2025/07/30/ARTIYQUFW8JSHj7Fn20s0y6a250730.shtml)
+
++ [俄萨哈林州北库里尔斯克区实施紧急状态 2700人被疏散](https://news.cctv.com/2025/07/30/ARTISZCCVn88srAedKrOQEcy250730.shtml)
+
++ [埃及红海海域一集装箱船起火 未造成人员伤亡](https://news.cctv.com/2025/07/30/ARTI0AqDJ8lMxJq4scjWzASR250730.shtml)
+
++ [中国驻菲律宾使馆提醒在菲中国公民防范海啸](https://news.cctv.com/2025/07/30/ARTImXFvzuMKtVUBoaOOtpmW250730.shtml)
+
++ [泰国中部一烟花厂爆炸 已造成10人伤亡](https://news.cctv.com/2025/07/30/ARTIvGZY7e4MJaZRQ2aTzhUx250730.shtml)
+
