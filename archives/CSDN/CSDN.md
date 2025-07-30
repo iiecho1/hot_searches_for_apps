@@ -187,3 +187,9 @@
 
 + [Linux之网络部分-应用层协议 HTTP](https://blog.csdn.net/2302_81120572/article/details/148789435)
 
++ [将 YOLOv13 添加到 Ultralytics 框架的方法](https://blog.csdn.net/weixin_43694096/article/details/149775966)
+
++ [【Qt开发】信号与槽（三）-＞ 自定义信号和槽](https://blog.csdn.net/weixin_74809706/article/details/149542573)
+
++ [【从零实践Onvif】01、Onvif详细介绍（从Onvif客户端开发的角度认识Onvif、Web Servies、WSDL、SOAP）](https://blog.csdn.net/wkd_007/article/details/149534698)
+

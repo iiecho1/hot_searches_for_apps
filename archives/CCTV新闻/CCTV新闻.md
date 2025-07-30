@@ -237,3 +237,15 @@
 
 + [澳政府拟禁止16岁以下人群使用优兔](https://news.cctv.com/2025/07/30/ARTIJUXVWP5uFxxRCxJyBW6I250730.shtml)
 
++ [特朗普威胁对印度产品征收20%至25%关税](https://news.cctv.com/2025/07/30/ARTIATcmZ70BuHnLdBPKYG4e250730.shtml)
+
++ [中国—柬埔寨—泰国三方非正式会晤在上海举行](https://news.cctv.com/2025/07/30/ARTI26Cr1cdTRPFJTBjvJJrQ250730.shtml)
+
++ [升级版“澜沧号”发车 中老铁路动车组上新](https://news.cctv.com/2025/07/30/ARTIq55v7ATzOLGrhFtcQah5250730.shtml)
+
++ [17国呼吁：哈马斯放下武器 各方落实“两国方案”](https://news.cctv.com/2025/07/30/ARTIknAYWQZR2BSx3PpbDSDR250730.shtml)
+
++ [日本政府对超过200万人发出海啸避难指示](https://news.cctv.com/2025/07/30/ARTIG80Og8TUChskAlACPzyz250730.shtml)
+
++ [泰国中部发生烟花爆炸事件致9死2伤](https://news.cctv.com/2025/07/30/ARTIh9sDHaPqpqJOvojRnCPF250730.shtml)
+
