@@ -253,3 +253,5 @@
 
 + [全球连线｜以球会友 中美学子激战“云顶碗”](https://news.cctv.com/2025/07/30/ARTI9BKpHoiei04Fm5Q9sLzK250730.shtml)
 
++ [俄罗斯堪察加半岛一火山喷发](https://news.cctv.com/2025/07/30/ARTIbQsEXgv2mgpj5q3WUpEd250730.shtml)
+
