@@ -59,3 +59,9 @@
 
 + [华为 HarmonyOS 6 开发者预览版 Beta 招募（二期）开启](https://m.ithome.com/html/871624.htm)
 
++ [50+ 款腾讯系应用适配华为鸿蒙 HarmonyOS 系统，含微信、QQ、王者荣耀等](https://m.ithome.com/html/871731.htm)
+
++ [消息称华为新机将支持低轨卫星通讯 + eSIM，预计为 Mate 80 系列](https://m.ithome.com/html/871754.htm)
+
++ [橙色最抢眼：苹果 iPhone 17 / Pro 系列机模颜色阵容曝光](https://m.ithome.com/html/871724.htm)
+

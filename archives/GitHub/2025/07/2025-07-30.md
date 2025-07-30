@@ -23,3 +23,13 @@
 
 + [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
 
++ [roboflow/supervision](https://github.com/roboflow/supervision)
+
++ [mikf/gallery-dl](https://github.com/mikf/gallery-dl)
+
++ [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
++ [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard)
+
++ [LMCache/LMCache](https://github.com/LMCache/LMCache)
+

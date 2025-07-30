@@ -197,3 +197,13 @@
 
 + [TCP/IP](https://blog.csdn.net/ALe0721/article/details/149758369)
 
++ [TensorFlow深度学习实战——基于卷积神经网络进行情感分析](https://blog.csdn.net/LOVEmy134611/article/details/144705562)
+
++ [Linux - 权限的理解（深入浅出，详细细微）](https://blog.csdn.net/weixin_66776566/article/details/149749275)
+
++ [Linux Ext文件系统](https://blog.csdn.net/2405_82488515/article/details/149660420)
+
++ [Yolo底层原理学习--（第二篇）](https://blog.csdn.net/2301_80670411/article/details/149666146)
+
++ [【计算机网络】计算机网络中光猫、交换机、路由器、网关、MAC地址是什么？两台电脑是如何联通的？](https://blog.csdn.net/weixin_42960907/article/details/149641316)
+
