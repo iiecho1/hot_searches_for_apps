@@ -195,3 +195,15 @@
 
 + [Shopify Draggable + Vue 3 完整指南：打造现代化拖拽交互体验](https://blog.csdn.net/TWW844475003/article/details/149787809)
 
++ [重生之我在暑假学习微服务第五天《Docker部署项目篇》](https://blog.csdn.net/2302_80329073/article/details/149784184)
+
++ [RabbitMQ 发送方确认的两大工具 (With Spring Boot)](https://blog.csdn.net/fouryears_23417/article/details/149785268)
+
++ [Linux的库制作与原理](https://blog.csdn.net/2302_80310672/article/details/149751974)
+
++ [从零构建三维装箱问题求解器](https://blog.csdn.net/Dongqiyu829/article/details/149748660)
+
++ [前端实现B站视频画中画功能 - 完整代码实现主页面和小窗同步视频控制功能](https://blog.csdn.net/lhmyy521125/article/details/149795850)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | 3dBackgroundBoxes（3D背景盒子组件）](https://blog.csdn.net/qq_44808710/article/details/149778543)
+

@@ -25,3 +25,25 @@
 
 + [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 
++ [stenzek/duckstation](https://github.com/stenzek/duckstation)
+
++ [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)
+
++ [OpenPipe/ART](https://github.com/OpenPipe/ART)
+
++ [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
+
++ [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+
++ [Canner/WrenAI](https://github.com/Canner/WrenAI)
+
++ [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
+
++ [NemProject/nem](https://github.com/NemProject/nem)
+
++ [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
