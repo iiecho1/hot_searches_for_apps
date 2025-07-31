@@ -161,3 +161,5 @@
 
 + [IMF上调全球增长预期 呼吁减少贸易壁垒](https://news.cctv.com/2025/07/29/ARTIJOaKqVvTgbSa932jbkpY250729.shtml)
 
++ [美国拒绝向巴民族权力机构和巴解组织成员发放签证](https://news.cctv.com/2025/08/01/ARTIkZuzIViWuB0e0UCOnztO250801.shtml)
+

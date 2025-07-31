@@ -25,3 +25,7 @@
 
 + [Qt 框架现已支持华为鸿蒙 HarmonyOS 系统，开发者可跨平台开发原生应用](https://m.ithome.com/html/872011.htm)
 
++ [手机一碰就能打饭，中国科学技术大学上线 NFC 校园卡](https://m.ithome.com/html/871923.htm)
+
++ [斯凯奇推出可放入苹果 AirTag 追踪器的童鞋，便于家长追踪子女位置](https://m.ithome.com/html/871924.htm)
+
