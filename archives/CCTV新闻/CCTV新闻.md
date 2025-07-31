@@ -199,3 +199,9 @@
 
 + [积累互信 深化对话 争取双赢（钟声）](https://news.cctv.com/2025/07/31/ARTIpuKVoQDXFMhhGyvRiyBV250731.shtml)
 
++ [相向而行路自宽——评中美瑞典经贸会谈](https://news.cctv.com/2025/07/31/ARTIfY7Mwe10dRzW2QPrznNG250731.shtml)
+
++ [缅甸宣布组建新联邦政府 总理由吴纽梭担任](https://news.cctv.com/2025/07/31/ARTIonxjgGBysRGxtYsCedEl250731.shtml)
+
++ [俄堪察加半岛地震引发日本连锁反应 专家解释强震原因](https://news.cctv.com/2025/07/31/ARTIokPPTD39jvLnbO7PYlKa250731.shtml)
+

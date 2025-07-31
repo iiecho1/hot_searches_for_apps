@@ -61,3 +61,13 @@
 
 + [乘龙卡车回应对撞试验撞不过理想 i8：每辆车都历经严格质检，正在了解情况，积极沟通中](https://m.ithome.com/html/871918.htm)
 
++ [手机一碰就能打饭，中国科学技术大学上线 NFC 校园卡](https://m.ithome.com/html/871923.htm)
+
++ [比亚迪元 UP 301km 领航型上市，售价 7.48 万元](https://m.ithome.com/html/871899.htm)
+
++ [（更新：微博客户端 Bug 导致）苹果中国官方支持账号闹乌龙，竟为三星 Galaxy Z Flip7 做宣传](https://m.ithome.com/html/871805.htm)
+
++ [卢伟冰：小米青年公寓今天正式落成启用，实现“为奋斗者筑家”承诺](https://m.ithome.com/html/871906.htm)
+
++ [李想回应“理想套娃式造车”：iPhone、博朗刮胡刀等世界最好的产品也这样做](https://m.ithome.com/html/871811.htm)
+

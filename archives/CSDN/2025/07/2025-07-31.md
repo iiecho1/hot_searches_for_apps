@@ -163,3 +163,17 @@
 
 + [QT项目 -仿QQ音乐的音乐播放器(第三节)](https://blog.csdn.net/2301_79139273/article/details/149647961)
 
++ [无人船 | 图解基于LQR控制的路径跟踪算法(以欠驱动无人艇Otter为例)](https://blog.csdn.net/FRIGIDWINTER/article/details/149788241)
+
++ [【数据库系列】PostgreSQL 与 MySQL 深度对比](https://blog.csdn.net/qyj19920704/article/details/149727786)
+
++ [超宽带测距+测角+无线通信一体化跟随模组：机械狗、无人车、无人机等跟随](https://blog.csdn.net/moonsims/article/details/149778630)
+
++ [docker docker、swarm 全流程执行](https://blog.csdn.net/skylar2/article/details/149757591)
+
++ [软件测试之功能测试](https://blog.csdn.net/HUACE5400/article/details/149725059)
+
++ [学习游戏制作记录（冻结敌人时间与黑洞技能）7.30](https://blog.csdn.net/2503_90719681/article/details/149787769)
+
++ [【高等数学】第七章 微分方程——第三节 齐次方程](https://blog.csdn.net/weixin_45725295/article/details/149754081)
+
