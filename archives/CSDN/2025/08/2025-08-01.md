@@ -143,3 +143,7 @@
 
 + [「源力觉醒 创作者计划」_文心大模型 4.5 多模态实测：开源加速 AI 普惠落地](https://blog.csdn.net/wtyuong/article/details/149756174)
 
++ [1.深度学习环境配置：Anaconda+CUDA+cudnn+Pytorch+Pycharm+Win11全详解，带你从0配置环境。](https://blog.csdn.net/pengyunfenn/article/details/149818353)
+
++ [从零开始搞定类和对象（上）](https://blog.csdn.net/pusue_the_sun/article/details/149805424)
+
