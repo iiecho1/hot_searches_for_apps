@@ -179,3 +179,9 @@
 
 + [微软OpenAI展开深入谈判](https://blog.csdn.net/2301_79342058/article/details/149789593)
 
++ [Claude Code 实战指南：让AI编程助手发挥最大威力](https://blog.csdn.net/xianyu120/article/details/149803812)
+
++ [k8s搭建nfs共享存储](https://blog.csdn.net/weixin_74812406/article/details/149757139)
+
++ [Nginx HTTP 反向代理负载均衡实验](https://blog.csdn.net/2301_78537542/article/details/149717784)
+

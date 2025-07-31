@@ -209,3 +209,5 @@
 
 + [两名中国人在东京遭不明身份人员袭击受重伤](https://news.cctv.com/2025/07/31/ARTI1TxX9yBXUmL64Is5kBVp250731.shtml)
 
++ [立陶宛总理帕卢茨卡斯宣布辞职](https://news.cctv.com/2025/07/31/ARTIH6jZEW87DQw1ysodqyaM250731.shtml)
+
