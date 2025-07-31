@@ -147,3 +147,5 @@
 
 + [从零开始搞定类和对象（上）](https://blog.csdn.net/pusue_the_sun/article/details/149805424)
 
++ [循环神经网络——动手学深度学习7](https://blog.csdn.net/weixin_47059239/article/details/149563041)
+

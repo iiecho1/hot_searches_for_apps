@@ -171,3 +171,9 @@
 
 + [加拿大5月份国内生产总值下降0.1%](https://news.cctv.com/2025/08/01/ARTItfSpSjyxiOCjGxqz3FOI250801.shtml)
 
++ [俄军七月向乌发射6000余架无人机 超2024年全年总和](https://news.cctv.com/2025/08/01/ARTIw42MP891HZAXSxMaWmGN250801.shtml)
+
++ [世贸组织：2025年第一季度服务贸易增长放缓](https://news.cctv.com/2025/08/01/ARTI7ZFePDCJyQUbhHWnqpXE250801.shtml)
+
++ [俄地震部门：堪察加半岛近海强震后测到约千次余震](https://news.cctv.com/2025/08/01/ARTIOp4UrqdkBTyntjmfqYlf250801.shtml)
+
