@@ -185,3 +185,13 @@
 
 + [Nginx HTTP 反向代理负载均衡实验](https://blog.csdn.net/2301_78537542/article/details/149717784)
 
++ [SQL 怎么学？](https://blog.csdn.net/Pydatas/article/details/149756774)
+
++ [地理空间大揭秘：身份证首位数字的隐藏含义-使用WebGIS进行传统6大区域展示](https://blog.csdn.net/yelangkingwuzuhu/article/details/149788685)
+
++ [K8s Pod调度Pending问题快速定位与资源计算原理](https://blog.csdn.net/hezuijiudexiaobai/article/details/149803664)
+
++ [伪装成华硕游戏辅助软件的ArmouryLoader：突破系统安全防护的恶意代码注入器](https://blog.csdn.net/FreeBuf_/article/details/149770049)
+
++ [Shopify Draggable + Vue 3 完整指南：打造现代化拖拽交互体验](https://blog.csdn.net/TWW844475003/article/details/149787809)
+
