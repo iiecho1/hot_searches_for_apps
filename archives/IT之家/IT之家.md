@@ -53,3 +53,11 @@
 
 + [手机形态充电宝：国产厂商 10000mAh 电池新机进入 NPI，厚度不到 8.5mm](https://m.ithome.com/html/871439.htm)
 
++ [128 / 256G iPhone 官方云上扩容：苹果 iCloud+ 限时至高立省 81.6 元，支持全家共用](https://m.ithome.com/html/871871.htm)
+
++ [手机显示 VIP 专属标识：河北联通与华为在 2025 张北草原音乐节“秀肌肉”，5G-A 下行峰值 4.89Gbps](https://m.ithome.com/html/871919.htm)
+
++ [中保研 2024 年第三次测评车型结果发布：特斯拉 Model 3、乐道 L60、帕萨特 Pro 等 9 款车型，迈腾、萤火虫等四项全优](https://m.ithome.com/html/871796.htm)
+
++ [乘龙卡车回应对撞试验撞不过理想 i8：每辆车都历经严格质检，正在了解情况，积极沟通中](https://m.ithome.com/html/871918.htm)
+

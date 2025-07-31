@@ -149,3 +149,13 @@
 
 + [Springboot+vue智能家居商城的设计与实现](https://blog.csdn.net/qq_42631286/article/details/149756194)
 
++ [Spring AI MCP 技术从使用到项目实战深度解析](https://blog.csdn.net/zhangcongyi420/article/details/149682065)
+
++ [在 Elasticsearch 8.19 和 9.1 中引入更强大、更具弹性和可观测性的 ES|QL](https://blog.csdn.net/UbuntuTouch/article/details/149778417)
+
++ [【探索进程信号】：信号捕捉](https://blog.csdn.net/2401_86275172/article/details/149785932)
+
++ [从结构到交互：HTML5进阶开发全解析——语义化标签、Canvas绘图与表单设计实战](https://blog.csdn.net/lorfu/article/details/149770157)
+
++ [OkHttp vs HttpURLConnection: Java高性能HTTP客户端封装与实战对比](https://blog.csdn.net/weixin_43526443/article/details/149715561)
+

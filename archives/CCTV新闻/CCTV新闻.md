@@ -185,3 +185,13 @@
 
 + [特朗普称与韩国达成贸易协议 将对韩征收15%关税](https://news.cctv.com/2025/07/31/ARTI9l0CZzvkkh25GfGqcOAX250731.shtml)
 
++ [韩国法院对前总统尹锡悦下达拘捕令](https://news.cctv.com/2025/07/31/ARTINPOJ6gtuBr0dfLowuD52250731.shtml)
+
++ [联合国就落实“两国方案”发布宣言](https://news.cctv.com/2025/07/31/ARTIAahpC4gbkNQYoYAkzg7o250731.shtml)
+
++ [“中国抗日战争是世界反法西斯战争的重要组成部分”（伟大胜利·历史贡献）——访日本八路军新四军战友会副会长兼事务局长小林阳吉](https://news.cctv.com/2025/07/31/ARTIE0KGizLQfw1GMLuUfD2O250731.shtml)
+
++ [推动中美经贸关系稳定健康发展](https://news.cctv.com/2025/07/31/ARTItkh0OMOOyNB5kvVDrWcu250731.shtml)
+
++ [为和平发展注入青春力量（弘扬“上海精神”：上合组织在行动）](https://news.cctv.com/2025/07/31/ARTIcVjaKcUBPpwGPUbIKp5R250731.shtml)
+
