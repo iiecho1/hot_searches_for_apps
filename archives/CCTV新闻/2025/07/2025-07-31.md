@@ -215,3 +215,5 @@
 
 + [为什么史上最大地震之一没有引发巨大海啸？](https://news.cctv.com/2025/07/31/ARTI1shMuRg7pIps78k06EIZ250731.shtml)
 
++ [专访意大利前总理、欧盟委员会前主席罗马诺·普罗迪——在开放合作中促进中欧互利共赢（环球热点）](https://news.cctv.com/2025/07/31/ARTI4YsLY5SZNsnQJ6ixXmsq250731.shtml)
+
