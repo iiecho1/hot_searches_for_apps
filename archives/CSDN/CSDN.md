@@ -177,3 +177,5 @@
 
 + [【高等数学】第七章 微分方程——第三节 齐次方程](https://blog.csdn.net/weixin_45725295/article/details/149754081)
 
++ [微软OpenAI展开深入谈判](https://blog.csdn.net/2301_79342058/article/details/149789593)
+

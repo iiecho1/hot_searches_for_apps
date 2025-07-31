@@ -205,3 +205,7 @@
 
 + [俄堪察加半岛地震引发日本连锁反应 专家解释强震原因](https://news.cctv.com/2025/07/31/ARTIokPPTD39jvLnbO7PYlKa250731.shtml)
 
++ [外交部：敦促日方采取有效措施 保障中国公民安全](https://news.cctv.com/2025/07/31/ARTIngf57eFt0FD7PePFD5GJ250731.shtml)
+
++ [两名中国人在东京遭不明身份人员袭击受重伤](https://news.cctv.com/2025/07/31/ARTI1TxX9yBXUmL64Is5kBVp250731.shtml)
+
