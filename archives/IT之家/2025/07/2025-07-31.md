@@ -71,3 +71,19 @@
 
 + [李想回应“理想套娃式造车”：iPhone、博朗刮胡刀等世界最好的产品也这样做](https://m.ithome.com/html/871811.htm)
 
++ [盗版动漫网站“樱花动漫”运营者被判有期徒刑 2 年 3 个月，罚金 1.5 万元](https://m.ithome.com/html/871999.htm)
+
++ [苹果 Shot on iPhone 广告牌被指暗含不雅图案](https://m.ithome.com/html/871936.htm)
+
++ [国家互联网信息办公室就 H20 算力芯片漏洞后门安全风险约谈英伟达公司](https://m.ithome.com/html/872021.htm)
+
++ [同等画质更省存储空间：华为 Pura80 Pro / Pro+ / Ultra 手机新增支持 HEIF 照片格式](https://m.ithome.com/html/871971.htm)
+
++ [我国将“鼠标手”纳入职业病](https://m.ithome.com/html/872067.htm)
+
++ [吉利银河中大型 SUV 新车 M9 售价信息曝光：25 万元级](https://m.ithome.com/html/871910.htm)
+
++ [华为正式开源仓颉编程语言，含运行时、编译器等](https://m.ithome.com/html/871929.htm)
+
++ [斯凯奇推出可放入苹果 AirTag 追踪器的童鞋，便于家长追踪子女位置](https://m.ithome.com/html/871924.htm)
+
