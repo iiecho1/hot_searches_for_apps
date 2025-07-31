@@ -159,3 +159,7 @@
 
 + [OkHttp vs HttpURLConnection: Java高性能HTTP客户端封装与实战对比](https://blog.csdn.net/weixin_43526443/article/details/149715561)
 
++ [Vue3与ES6+的现代化开发实践（AI）](https://blog.csdn.net/m0_60821938/article/details/149751211)
+
++ [QT项目 -仿QQ音乐的音乐播放器(第三节)](https://blog.csdn.net/2301_79139273/article/details/149647961)
+
