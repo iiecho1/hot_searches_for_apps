@@ -141,3 +141,5 @@
 
 + [Visual Studio Code 使用指南 (2025年版)](https://blog.csdn.net/qq_44682523/article/details/149786239)
 
++ [「源力觉醒 创作者计划」_文心大模型 4.5 多模态实测：开源加速 AI 普惠落地](https://blog.csdn.net/wtyuong/article/details/149756174)
+
