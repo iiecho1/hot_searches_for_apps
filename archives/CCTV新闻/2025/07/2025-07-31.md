@@ -175,3 +175,13 @@
 
 + [中俄将举行“海上联合-2025”军事演习](https://news.cctv.com/2025/07/31/ARTISK8qXwFHvJRs0dGo5mzk250731.shtml)
 
++ [加拿大宣布将于9月承认巴勒斯坦国](https://news.cctv.com/2025/07/31/ARTIz485Fv0vAR9hXmmKB1gp250731.shtml)
+
++ [美国对伊朗实施2018年以来最大规模制裁](https://news.cctv.com/2025/07/31/ARTIaCBtryGSC7kqYqshY2mH250731.shtml)
+
++ [堪察加东岸远海发生5.7级地震，震源深度10千米](https://news.cctv.com/2025/07/31/ARTIUglDqKA33fc7gxEmCHlk250731.shtml)
+
++ [李在明证实韩美达成贸易协议：对美投资3500亿美元并设造船专用资金](https://news.cctv.com/2025/07/31/ARTIUKyNUy1dFfYDSzPyFQx5250731.shtml)
+
++ [特朗普称与韩国达成贸易协议 将对韩征收15%关税](https://news.cctv.com/2025/07/31/ARTI9l0CZzvkkh25GfGqcOAX250731.shtml)
+

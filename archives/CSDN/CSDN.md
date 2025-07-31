@@ -137,3 +137,9 @@
 
 + [Python 数据分析：DataFrame，重复值处理。df.drop_duplicates()。全不保留 / 只保留第一条 / 只保留最后一条；单条件 / 多条件](https://blog.csdn.net/libofsdnu/article/details/149747034)
 
++ [基于Spring Boot+Vue的吉他社团系统设计和实现（协同过滤算法）](https://blog.csdn.net/paopaokaka_luck/article/details/149713325)
+
++ [如何通过IT-Tools与CPolar构建无缝开发通道？](https://blog.csdn.net/LT15171009269/article/details/149777021)
+
++ [企业微信API接口发消息实战：从0到1的技术突破之旅](https://blog.csdn.net/beautifulmemory/article/details/149787852)
+
