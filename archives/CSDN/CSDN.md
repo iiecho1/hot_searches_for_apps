@@ -149,3 +149,5 @@
 
 + [循环神经网络——动手学深度学习7](https://blog.csdn.net/weixin_47059239/article/details/149563041)
 
++ [[免费]基于Python的招聘职位信息推荐系统(猎聘网数据分析与可视化)(Django+requests库)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/149805000)
+

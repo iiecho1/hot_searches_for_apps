@@ -177,3 +177,5 @@
 
 + [俄地震部门：堪察加半岛近海强震后测到约千次余震](https://news.cctv.com/2025/08/01/ARTIOp4UrqdkBTyntjmfqYlf250801.shtml)
 
++ [本轮巴以冲突已致加沙地带159人因饥饿和营养不良死亡](https://news.cctv.com/2025/08/01/ARTIN4G2N8nJoni4vKh1E3Li250801.shtml)
+

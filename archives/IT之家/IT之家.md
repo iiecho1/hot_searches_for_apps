@@ -51,3 +51,5 @@
 
 + [李想回应“理想套娃式造车”：iPhone、博朗刮胡刀等世界最好的产品也这样做](https://m.ithome.com/html/871811.htm)
 
++ [吉利银河中大型 SUV 新车 M9 售价信息曝光：25 万元级](https://m.ithome.com/html/871910.htm)
+
