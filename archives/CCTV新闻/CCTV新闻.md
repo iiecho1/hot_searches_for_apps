@@ -163,3 +163,7 @@
 
 + [美国拒绝向巴民族权力机构和巴解组织成员发放签证](https://news.cctv.com/2025/08/01/ARTIkZuzIViWuB0e0UCOnztO250801.shtml)
 
++ [韩国法院发布对前行政安全部长官李祥敏的拘捕令](https://news.cctv.com/2025/08/01/ARTIBK5FVL2ccGDYrtXy0nfl250801.shtml)
+
++ [泰国近期全境禁飞无人机，中国驻泰国大使馆发布提醒](https://news.cctv.com/2025/08/01/ARTIBX5bCf0FbHNloKNE3iib250801.shtml)
+

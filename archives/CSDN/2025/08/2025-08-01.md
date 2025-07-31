@@ -105,3 +105,33 @@
 
 + [Orange的运维学习日记--16.Linux时间管理](https://blog.csdn.net/weixin_46188199/article/details/149743010)
 
++ [「源力觉醒 创作者计划」GitCode深度体验文心4.5【原创开源2款适配文心4.5的UI系统】](https://blog.csdn.net/weixin_52908342/article/details/149812469)
+
++ [ACID原子性：确保数据库操作的可靠性](https://blog.csdn.net/2301_80795057/article/details/149811728)
+
++ [用Playwright MCP让AI帮你完成所有浏览器自动化](https://blog.csdn.net/Mrxiao_bo/article/details/149815073)
+
++ [深度学习（鱼书）day06--神经网络的学习（后两节）](https://blog.csdn.net/weixin_66162442/article/details/149789479)
+
++ [TensorFlow深度学习实战——DeepDream](https://blog.csdn.net/LOVEmy134611/article/details/144705514)
+
++ [「源力觉醒 创作者计划」_文心大模型 4.5 开源 28 天：从车间轴承到山村课堂的 AI 突围](https://blog.csdn.net/atgfg/article/details/149782180)
+
++ [Python奇幻之旅：从零开始的编程冒险](https://blog.csdn.net/2201_76027234/article/details/149783357)
+
++ [【花雕学编程】ESP32 DeepSeek 之边缘 - 云端协同架构](https://blog.csdn.net/weixin_41659040/article/details/149794042)
+
++ [第二十届全国大学生智能汽车竞赛分赛区竞速比赛成绩与奖项-安徽赛区](https://blog.csdn.net/zhuoqingjoking97298/article/details/149686157)
+
++ [[源力觉醒 创作者计划]_文心大模型4.5开源：从技术突破到生态共建的国产AI解读与本地部署指南](https://blog.csdn.net/2302_78391795/article/details/149757120)
+
++ [QT项目 -仿QQ音乐的音乐播放器(第三节)](https://blog.csdn.net/2301_79139273/article/details/149647961)
+
++ [【探索进程信号】：信号捕捉](https://blog.csdn.net/2401_86275172/article/details/149785932)
+
++ [%& Spire.Office for .NET 10.7.0 &%](https://blog.csdn.net/john_dwh/article/details/149810896)
+
++ [【从零实践Onvif】01、Onvif详细介绍（从Onvif客户端开发的角度认识Onvif、Web Servies、WSDL、SOAP）](https://blog.csdn.net/wkd_007/article/details/149534698)
+
++ [专题：2025机器人产业技术图谱与商业化指南|附130+份报告PDF、数据汇总下载](https://blog.csdn.net/qq_19600291/article/details/149778052)
+
