@@ -143,3 +143,9 @@
 
 + [企业微信API接口发消息实战：从0到1的技术突破之旅](https://blog.csdn.net/beautifulmemory/article/details/149787852)
 
++ [模块概述：BinMDataXtd](https://blog.csdn.net/qq_43689451/article/details/149784589)
+
++ [USB HID键盘实现详解：从硬件扫描到USB通信的完整解决方案](https://blog.csdn.net/supershmily/article/details/149790352)
+
++ [Springboot+vue智能家居商城的设计与实现](https://blog.csdn.net/qq_42631286/article/details/149756194)
+

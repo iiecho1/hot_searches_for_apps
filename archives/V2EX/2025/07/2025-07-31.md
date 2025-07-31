@@ -23,3 +23,15 @@
 
 + [马上熬出头了， 97 银币 59 铜币](https://www.v2ex.com/t/1148702)
 
++ [如果同学借钱不还怎么办？](https://www.v2ex.com/t/1148784)
+
++ [感觉这两年 PostgreSQL 明显越来越火了](https://www.v2ex.com/t/1148894)
+
++ [摸鱼网站+1：这 b 班上得值不值](https://www.v2ex.com/t/1148741)
+
++ [[卷晋升 or 去国企] 大龄大厂前端面临人生抉择](https://www.v2ex.com/t/1148794)
+
++ [吐槽下鹏博士，鹏博士宽带无敌了](https://www.v2ex.com/t/1148757)
+
++ [智能门锁，大家有啥推荐么？](https://www.v2ex.com/t/1148780)
+
