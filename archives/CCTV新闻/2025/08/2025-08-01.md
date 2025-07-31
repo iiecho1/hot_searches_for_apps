@@ -167,3 +167,7 @@
 
 + [泰国近期全境禁飞无人机，中国驻泰国大使馆发布提醒](https://news.cctv.com/2025/08/01/ARTIBX5bCf0FbHNloKNE3iib250801.shtml)
 
++ [特朗普称美国与墨西哥的关税协议将延长90天](https://news.cctv.com/2025/08/01/ARTI6sR3fAStpJwHmIuz4AuE250801.shtml)
+
++ [加拿大5月份国内生产总值下降0.1%](https://news.cctv.com/2025/08/01/ARTItfSpSjyxiOCjGxqz3FOI250801.shtml)
+

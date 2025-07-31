@@ -135,3 +135,9 @@
 
 + [专题：2025机器人产业技术图谱与商业化指南|附130+份报告PDF、数据汇总下载](https://blog.csdn.net/qq_19600291/article/details/149778052)
 
++ [「源力觉醒 创作者计划」文心4.5全新开源能力—GitCode深度体验【10类任务实测+独家界面+性能对比】](https://blog.csdn.net/weixin_52908342/article/details/149812101)
+
++ [31.【.NET8 实战--孢子记账--从单体到微服务--转向微服务】--单体转微服务--财务服务--收支分类](https://blog.csdn.net/gangzhucoll/article/details/149745426)
+
++ [Visual Studio Code 使用指南 (2025年版)](https://blog.csdn.net/qq_44682523/article/details/149786239)
+
