@@ -217,3 +217,5 @@
 
 + [专访意大利前总理、欧盟委员会前主席罗马诺·普罗迪——在开放合作中促进中欧互利共赢（环球热点）](https://news.cctv.com/2025/07/31/ARTI4YsLY5SZNsnQJ6ixXmsq250731.shtml)
 
++ [缅甸宣布部分省邦的乡镇进入为期90天紧急状态](https://news.cctv.com/2025/07/31/ARTIGH64R9wKUUvrZOVLsq1y250731.shtml)
+

@@ -223,3 +223,9 @@
 
 + [基于 Amazon Nova Sonic 和 MCP 构建语音交互 Agent](https://blog.csdn.net/zhangxia_/article/details/149683456)
 
++ [智能体安全与可信AI：防护机制与伦理考量](https://blog.csdn.net/IRpickstars/article/details/149738103)
+
++ [破茧 JDBC：MyBatis 在 Spring Boot 中的轻量实践录](https://blog.csdn.net/2302_81247414/article/details/149707405)
+
++ [Jupyter Notebook 中显示图片、音频、视频的方法汇总](https://blog.csdn.net/WSSWWWSSW/article/details/149781850)
+
