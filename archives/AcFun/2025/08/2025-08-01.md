@@ -123,3 +123,11 @@
 
 + [Stellar Marionette 提线木偶](https://m.acfun.cn/v/?ac=47675103)
 
++ [【cos翻唱】进来听普瑞赛斯给你唱英文神曲「Take Me Hand」～温柔空灵女声](https://m.acfun.cn/v/?ac=47676263)
+
++ [当管理和我商量8月的音声内容](https://m.acfun.cn/v/?ac=47676027)
+
++ [摇起来](https://m.acfun.cn/v/?ac=47675811)
+
++ [从侵华间谍到武术大师，「雄霸」千叶真一演绎宗道臣与日本少林寺拳法的诞生](https://m.acfun.cn/v/?ac=47675078)
+

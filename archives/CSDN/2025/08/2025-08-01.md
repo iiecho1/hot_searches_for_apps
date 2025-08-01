@@ -215,3 +215,19 @@
 
 + [【YOLOv1】](https://blog.csdn.net/2302_77326347/article/details/149804217)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融信用评级模型优化与信用风险动态管理中的应用（371）](https://blog.csdn.net/atgfg/article/details/149753118)
+
++ [Redis的持久化策略-AOF和RDB（详细图解）](https://blog.csdn.net/2302_80639556/article/details/148542205)
+
++ [【n8n】如何跟着AI学习n8n【03】：HTTPRequest节点、Webhook节点、SMTP节点、mysql节点](https://blog.csdn.net/2501_90561511/article/details/149783029)
+
++ [Linux网络编程：UDP 的echo server](https://blog.csdn.net/htw250056/article/details/149788197)
+
++ [Linux网络-------3.应⽤层协议HTTP](https://blog.csdn.net/2301_80374809/article/details/149717886)
+
++ [Jupyter Notebook 中显示图片、音频、视频的方法汇总](https://blog.csdn.net/WSSWWWSSW/article/details/149781850)
+
++ [赛博算命之八字测算事业运势的Java实现（四柱、五行、十神、流年、格局详细测算）](https://blog.csdn.net/2401_87533975/article/details/149836829)
+
++ [Spring Boot音乐服务器项目-查询喜欢的音乐模块](https://blog.csdn.net/m0_64056556/article/details/149693751)
+
