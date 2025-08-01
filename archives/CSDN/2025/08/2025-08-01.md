@@ -231,3 +231,9 @@
 
 + [Spring Boot音乐服务器项目-查询喜欢的音乐模块](https://blog.csdn.net/m0_64056556/article/details/149693751)
 
++ [基于深度学习的医学图像分析：使用YOLOv5实现医学图像目标检测](https://blog.csdn.net/qq_74383080/article/details/149804006)
+
++ [Python七彩花朵](https://blog.csdn.net/m0_68111267/article/details/149795843)
+
++ [Ubuntu 下配置 NVIDIA 驱动与 CUDA 环境（适配 RTX 4060Ti）](https://blog.csdn.net/Junseer/article/details/149743983)
+
