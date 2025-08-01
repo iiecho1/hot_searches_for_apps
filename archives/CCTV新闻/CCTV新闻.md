@@ -181,3 +181,5 @@
 
 + [【世贸组织发布服务贸易相关数据】一季度中国带动亚洲服务贸易强劲增长](https://news.cctv.com/2025/08/02/ARTIcwdmNuPajasP4ZJEctKk250802.shtml)
 
++ [特朗普政府冻结美国疾控中心多个公共健康项目资金](https://news.cctv.com/2025/08/02/ARTIAULEZEMbnwqHHkSMSYYM250802.shtml)
+
