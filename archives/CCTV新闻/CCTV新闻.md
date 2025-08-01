@@ -213,3 +213,11 @@
 
 + [美国对部分铜产品加征50%关税扰乱市场预期 专家发出警告](https://news.cctv.com/2025/08/01/ARTIcySVjoFuMoHLbwTqAf3d250801.shtml)
 
++ [10%+40% 美对巴西商品加征巨额关税 巴西：主权不让步](https://news.cctv.com/2025/08/01/ARTIvy0T2tKedzxhJIAriClA250801.shtml)
+
++ [中国驻尼泊尔使馆提醒中国公民务必通过正规渠道办理尼泊尔签证](https://news.cctv.com/2025/08/01/ARTIZ874gCwQn1rpSfFIWsKC250801.shtml)
+
++ [乌称俄新一轮空袭已致基辅28人死亡](https://news.cctv.com/2025/08/01/ARTIS3lJVgDyeA9gH3dc34BP250801.shtml)
+
++ [829公里！世界最长闪电纪录被刷新](https://news.cctv.com/2025/08/01/ARTIKloAr5gHTWSprSyuvS60250801.shtml)
+

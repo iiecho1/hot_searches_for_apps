@@ -51,3 +51,5 @@
 
 + [搞了一个 Claude Code 镜像服务, 搞活动 送 1W 积分](https://www.v2ex.com/t/1149223)
 
++ [小儿豉翘清热颗粒！小小朋友的噩梦，这药咋喂？](https://www.v2ex.com/t/1149217)
+
