@@ -195,3 +195,7 @@
 
 + [Redis线程模型讨论](https://blog.csdn.net/zxlzxcvbnm/article/details/149816053)
 
++ [从0开始跟小甲鱼C语言视频使用linux一步步学习C语言（持续更新）](https://blog.csdn.net/KFCgrandpahhh/article/details/149828369)
+
++ [【旋翼力计算】基于matlab叶片元理论多旋翼无人机旋翼力计算【含Matlab源码 13823期】](https://blog.csdn.net/TIQCmatlab/article/details/149831086)
+

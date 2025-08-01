@@ -223,3 +223,9 @@
 
 + [美公立学校“体测”停了13年 特朗普：现在恢复了](https://news.cctv.com/2025/08/01/ARTIu0ianKhCQh97kMr0a5eN250801.shtml)
 
++ [哥伦比亚2024年被破坏森林面积激增](https://news.cctv.com/2025/08/01/ARTI55zlgjFdLivLqFF3BwJB250801.shtml)
+
++ [俄罗斯设立单独空域级别 规范无人机使用](https://news.cctv.com/2025/08/01/ARTI8R453cGh7JNJCOlhEXhF250801.shtml)
+
++ [英国伦敦希思罗机场公布490亿英镑扩建方案 建第三条跑道](https://news.cctv.com/2025/08/01/ARTIkVPUti8pSzbQRsjGDNJg250801.shtml)
+
