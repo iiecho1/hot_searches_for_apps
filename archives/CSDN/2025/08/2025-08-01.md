@@ -187,3 +187,11 @@
 
 + [【大模型理论篇】混合思考之自适应思维链](https://blog.csdn.net/weixin_65514978/article/details/149815995)
 
++ [【基于C# + HALCON的工业视觉系统开发实战】三十六、PCB焊点缺陷检测：0漏检的局部变形匹配技术](https://blog.csdn.net/weixin_39815573/article/details/149804472)
+
++ [【人工智能-15】OpenCV直方图均衡化，模板匹配，霍夫变换，图像亮度变换，形态学变换](https://blog.csdn.net/m0_64233047/article/details/149725273)
+
++ [SpringBoot中ResponseEntity的使用详解](https://blog.csdn.net/weixin_46146718/article/details/149779498)
+
++ [Redis线程模型讨论](https://blog.csdn.net/zxlzxcvbnm/article/details/149816053)
+

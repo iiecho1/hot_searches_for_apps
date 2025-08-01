@@ -221,3 +221,5 @@
 
 + [829公里！世界最长闪电纪录被刷新](https://news.cctv.com/2025/08/01/ARTIKloAr5gHTWSprSyuvS60250801.shtml)
 
++ [美公立学校“体测”停了13年 特朗普：现在恢复了](https://news.cctv.com/2025/08/01/ARTIu0ianKhCQh97kMr0a5eN250801.shtml)
+
