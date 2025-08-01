@@ -163,3 +163,13 @@
 
 + [泰方组织多国驻泰使节、武官等考察泰柬边境冲突后局势](https://news.cctv.com/2025/08/02/ARTIdg3PWBxK9zSEq09IUIdt250802.shtml)
 
++ [拉夫罗夫：俄方提议成立政治和军事问题工作组 正等乌方回应](https://news.cctv.com/2025/08/02/ARTISYxJ5L3fnGNNK204OWY9250802.shtml)
+
++ [以军：6国向加沙地带空投126包援助物资](https://news.cctv.com/2025/08/02/ARTIY09AYWnVcVXBbaCwFPsd250802.shtml)
+
++ [联合国儿基会：加沙儿童死亡速度“前所未有”](https://news.cctv.com/2025/08/02/ARTIeKRyzVjKTPcXnX4gBtHY250802.shtml)
+
++ [每小时超一名儿童遇害 加沙遇难儿童名单40分钟看不完……](https://news.cctv.com/2025/08/02/ARTI7STiNxMDMY4WWNooJlBy250802.shtml)
+
++ [印尼东努沙登加拉省一火山喷发 火山灰柱达10000米](https://news.cctv.com/2025/08/02/ARTIIeQr8IWaxx4OPNBWCtX9250802.shtml)
+

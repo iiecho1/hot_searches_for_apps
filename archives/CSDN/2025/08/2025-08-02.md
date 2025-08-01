@@ -109,3 +109,21 @@
 
 + [Spring Boot音乐服务器项目-查询喜欢的音乐模块](https://blog.csdn.net/m0_64056556/article/details/149693751)
 
++ [OpenAI放大招：ChatGPT学习模式上线，免费AI智能家教](https://blog.csdn.net/guorui_java/article/details/149770394)
+
++ [PyTorch生成式人工智能（21）——归一化流模型(Normalizing Flow Model)](https://blog.csdn.net/LOVEmy134611/article/details/146261542)
+
++ [机器学习没有最好的模型，只有最合适的选择（模型选择）](https://blog.csdn.net/qq_43276566/article/details/149757240)
+
++ [负载均衡集群HAproxy](https://blog.csdn.net/YY18819395395/article/details/149780799)
+
++ [前端框架Vue3（二）——Vue3核心语法之OptionsAPI与CompositionAPI与setup](https://blog.csdn.net/chancygcx_/article/details/149809563)
+
++ [[源力觉醒 创作者计划]_文心4.5开源测评：国产大模型的技术突破与多维度能力解析](https://blog.csdn.net/2302_78391795/article/details/149785336)
+
++ [新手向:AI IDE+AI 辅助编程](https://blog.csdn.net/2302_77626561/article/details/149780416)
+
++ [H.266 vs H.265/AV1/H.264：从工程落地看下一代视频系统的技术演进](https://blog.csdn.net/renhui1112/article/details/149815931)
+
++ [融媒体中心网络安全应急预案（通用技术框架）](https://blog.csdn.net/weixin_41905135/article/details/149812837)
+
