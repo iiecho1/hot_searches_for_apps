@@ -179,3 +179,17 @@
 
 + [本轮巴以冲突已致加沙地带159人因饥饿和营养不良死亡](https://news.cctv.com/2025/08/01/ARTIN4G2N8nJoni4vKh1E3Li250801.shtml)
 
++ [在这个问题上，美西方国家态度首次发生重大分裂](https://news.cctv.com/2025/08/01/ARTILiXmr2Z3e4JxJxoThCc9250801.shtml)
+
++ [朝中社：日方进入B-52基地 美日进行使用核武器桌上演习](https://news.cctv.com/2025/08/01/ARTIjuFkervEd2HVEre727wj250801.shtml)
+
++ [要求降息未果 特朗普再指鲍威尔是“糟糕的美联储主席”](https://news.cctv.com/2025/08/01/ARTIeSgcJ3NBdQMWRBTJi1jL250801.shtml)
+
++ [与特朗普“决裂”后 马斯克再向共和党阵营捐款千万美元](https://news.cctv.com/2025/08/01/ARTIarRYoypo83wOVyvtsEAm250801.shtml)
+
++ [白宫：特朗普已签署行政令 将对加拿大关税税率上调至35%](https://news.cctv.com/2025/08/01/ARTIepAqmzRgaCFW2ble1Ii3250801.shtml)
+
++ [特朗普签署行政令 确定新“对等关税” 税率自10%至41%不等](https://news.cctv.com/2025/08/01/ARTIqiiBA7GHntKa2921hsss250801.shtml)
+
++ [《湿地公约》第十五届缔约方大会在津巴布韦闭幕](https://news.cctv.com/2025/08/01/ARTIQ5zZwhFkXvGPlQQOgY48250801.shtml)
+

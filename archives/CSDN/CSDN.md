@@ -151,3 +151,11 @@
 
 + [[免费]基于Python的招聘职位信息推荐系统(猎聘网数据分析与可视化)(Django+requests库)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/149805000)
 
++ [C++ Qt网络编程实战：跨平台TCP调试工具开发](https://blog.csdn.net/m0_73443478/article/details/149784995)
+
++ [Qt 嵌入式设备驱动开发](https://blog.csdn.net/weixin_41055260/article/details/149772949)
+
++ [多旋翼物流无人机节能轨迹规划附Python代码](https://blog.csdn.net/matlab_dingdang/article/details/149815853)
+
++ [量子计算解决气候变化：科学家找到了新方法](https://blog.csdn.net/2503_92849275/article/details/149740320)
+
