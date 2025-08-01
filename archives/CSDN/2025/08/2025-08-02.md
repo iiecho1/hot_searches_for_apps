@@ -137,3 +137,7 @@
 
 + [基于成像空间转录组技术的肿瘤亚克隆CNV原位推断方法](https://blog.csdn.net/bio_multiomics/article/details/149787443)
 
++ [YOLOv11改进缝合AirNet | 面对未知损坏图像的高效目标检测方法](https://blog.csdn.net/weixin_52908342/article/details/149844766)
+
++ [【Linux系统】库的制作与原理](https://blog.csdn.net/2402_82670467/article/details/149748735)
+
