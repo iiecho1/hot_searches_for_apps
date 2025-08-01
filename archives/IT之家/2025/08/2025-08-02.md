@@ -55,3 +55,5 @@
 
 + [Qt 框架现已支持华为鸿蒙 HarmonyOS 系统，开发者可跨平台开发原生应用](https://m.ithome.com/html/872011.htm)
 
++ [小米汽车：勿用塑料袋等物品给充电口防水](https://m.ithome.com/html/872179.htm)
+

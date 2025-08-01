@@ -175,3 +175,9 @@
 
 + [巴基斯坦一火车脱轨 至少25人受伤](https://news.cctv.com/2025/08/02/ARTIcIzEb8NpOKWibh5eYkuA250802.shtml)
 
++ [越南北部发生洪灾 至少14人死亡或失踪](https://news.cctv.com/2025/08/02/ARTI86bs9HBDSgPdw5aGBqMh250802.shtml)
+
++ [印尼总统特赦千余人 包括在野党高层与前部长](https://news.cctv.com/2025/08/02/ARTIcBFsbFlzwIPui4GDg9CX250802.shtml)
+
++ [【世贸组织发布服务贸易相关数据】一季度中国带动亚洲服务贸易强劲增长](https://news.cctv.com/2025/08/02/ARTIcwdmNuPajasP4ZJEctKk250802.shtml)
+
