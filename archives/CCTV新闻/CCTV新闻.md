@@ -229,3 +229,11 @@
 
 + [英国伦敦希思罗机场公布490亿英镑扩建方案 建第三条跑道](https://news.cctv.com/2025/08/01/ARTIkVPUti8pSzbQRsjGDNJg250801.shtml)
 
++ [美国关税谈判的“大日子”到了，批评声四起 | 国际识局](https://news.cctv.com/2025/08/01/ARTIJ7q3QrCb1zOscvLTL7NB250801.shtml)
+
++ [特朗普称将对俄罗斯施加新制裁](https://news.cctv.com/2025/08/01/ARTIPM62IxyuXBp2Slq2Pp6N250801.shtml)
+
++ [法国作家、记者马克西姆·维瓦斯：“我愿意为真相发声”（海客话中国·中欧建交50周年）](https://news.cctv.com/2025/08/01/ARTInLXM48pzfx5S4wPjt8J0250801.shtml)
+
++ [美国青少年深入中国西南乡村感受“最炫民族风”](https://news.cctv.com/2025/08/01/ARTIix1StI07IonxF2pKDSCu250801.shtml)
+

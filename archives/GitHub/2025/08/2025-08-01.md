@@ -27,3 +27,19 @@
 
 + [cloudwego/eino](https://github.com/cloudwego/eino)
 
++ [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes)
+
++ [devlikeapro/waha](https://github.com/devlikeapro/waha)
+
++ [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
+
++ [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo)
+
++ [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+
++ [playcanvas/editor](https://github.com/playcanvas/editor)
+
++ [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
+
++ [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
+

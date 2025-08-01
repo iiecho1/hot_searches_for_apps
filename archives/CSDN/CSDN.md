@@ -205,3 +205,13 @@
 
 + [H.266 vs H.265/AV1/H.264：从工程落地看下一代视频系统的技术演进](https://blog.csdn.net/renhui1112/article/details/149815931)
 
++ [【科普】贝叶斯神经网络与分形神经网络](https://blog.csdn.net/m0_46168848/article/details/149812090)
+
++ [【2025/07/31】GitHub 今日热门项目](https://blog.csdn.net/AlbertDS/article/details/149814741)
+
++ [Vue多请求并行处理实战指南](https://blog.csdn.net/HTTP404_CN/article/details/149814085)
+
++ [Linux 服务器性能优化：性能监控，系统性能调优，进程优先级，内核升级全解析](https://blog.csdn.net/Akshsjsjenjd/article/details/149812085)
+
++ [【YOLOv1】](https://blog.csdn.net/2302_77326347/article/details/149804217)
+
