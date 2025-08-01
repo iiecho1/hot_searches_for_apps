@@ -141,3 +141,5 @@
 
 + [【Linux系统】库的制作与原理](https://blog.csdn.net/2402_82670467/article/details/149748735)
 
++ [vue+elementui+vueCropper裁剪上传图片背景颜色为黑色解决方案](https://blog.csdn.net/mayusunshine/article/details/149783255)
+
