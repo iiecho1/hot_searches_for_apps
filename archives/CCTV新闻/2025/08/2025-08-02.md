@@ -161,3 +161,5 @@
 
 + [特朗普对俄发“最后通牒”：只给10天，今天开始](https://news.cctv.com/2025/07/30/ARTIFXJqocJ2PbMY9BbyRhnp250730.shtml)
 
++ [泰方组织多国驻泰使节、武官等考察泰柬边境冲突后局势](https://news.cctv.com/2025/08/02/ARTIdg3PWBxK9zSEq09IUIdt250802.shtml)
+

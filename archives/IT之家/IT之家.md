@@ -25,3 +25,11 @@
 
 + [苹果迄今最受欢迎测试版：库克亲证，用户尝鲜 iOS / iPadOS / macOS 26 热情高涨](https://m.ithome.com/html/872291.htm)
 
++ [2025 年 7 月汽车销量 / 交付汇总：奇瑞集团 224439 辆同比增长 14.7%（实时更新）](https://m.ithome.com/html/872232.htm)
+
++ [Google 获准全面恢复在华服务？内部人士：截图不是来自 Google](https://m.ithome.com/html/872432.htm)
+
++ [惊喜：《哪吒之魔童闹海》网播新增 3 分钟未公开片段，采用 IMAX 转 4K](https://m.ithome.com/html/872348.htm)
+
++ [库克晒苹果第 3 财季在中国市场成绩：iPhone 用户规模创新高、MacBook Air 是最畅销笔记本、Mac mini 是台式机销冠](https://m.ithome.com/html/872227.htm)
+

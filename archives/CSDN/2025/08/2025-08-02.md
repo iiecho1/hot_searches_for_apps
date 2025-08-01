@@ -99,3 +99,13 @@
 
 + [2025年6月个人工作生活总结](https://blog.csdn.net/subfate/article/details/149815051)
 
++ [「源力觉醒 创作者计划」文心4.5全新开源能力—GitCode深度体验【10类任务实测+独家界面+性能对比】](https://blog.csdn.net/weixin_52908342/article/details/149812101)
+
++ [【Rust多进程】征服CPU的艺术：Rust多进程实战指南](https://blog.csdn.net/littlefun591/article/details/149751421)
+
++ [【2025年电赛e题】设计报告：简易自行瞄准装置](https://blog.csdn.net/weixin_62811457/article/details/148661431)
+
++ [【大模型理论篇】混合思考之自适应思维链](https://blog.csdn.net/weixin_65514978/article/details/149815995)
+
++ [Spring Boot音乐服务器项目-查询喜欢的音乐模块](https://blog.csdn.net/m0_64056556/article/details/149693751)
+
