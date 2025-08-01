@@ -199,3 +199,9 @@
 
 + [【旋翼力计算】基于matlab叶片元理论多旋翼无人机旋翼力计算【含Matlab源码 13823期】](https://blog.csdn.net/TIQCmatlab/article/details/149831086)
 
++ [「Spring Boot + MyBatis-Plus + MySQL 一主两从」读写分离实战教程](https://blog.csdn.net/qq_39251691/article/details/149775986)
+
++ [Kubernetes 应用部署实战：为什么需要 Kubernetes？](https://blog.csdn.net/m0_50546016/article/details/149816087)
+
++ [H.266 vs H.265/AV1/H.264：从工程落地看下一代视频系统的技术演进](https://blog.csdn.net/renhui1112/article/details/149815931)
+
