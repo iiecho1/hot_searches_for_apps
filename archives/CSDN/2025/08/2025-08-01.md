@@ -175,3 +175,7 @@
 
 + [vue+elementui+vueCropper裁剪上传图片背景颜色为黑色解决方案](https://blog.csdn.net/mayusunshine/article/details/149783255)
 
++ [【GitHub开源AI精选】VRAG-RL：阿里通义推出的多模态RAG推理框架，助力视觉信息理解与生成](https://blog.csdn.net/xiaobing259/article/details/149772589)
+
++ [JavaWeb 进阶：Vue.js 与 Spring Boot 全栈开发实战（Java 开发者视角）](https://blog.csdn.net/weixin_73962764/article/details/149785312)
+

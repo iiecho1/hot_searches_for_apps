@@ -211,3 +211,5 @@
 
 + [墨西哥总统：墨美将就限制武器和毒品贩运达成安全协议](https://news.cctv.com/2025/08/01/ARTIMJbn9YgExPVJWjTrAssT250801.shtml)
 
++ [美国对部分铜产品加征50%关税扰乱市场预期 专家发出警告](https://news.cctv.com/2025/08/01/ARTIcySVjoFuMoHLbwTqAf3d250801.shtml)
+

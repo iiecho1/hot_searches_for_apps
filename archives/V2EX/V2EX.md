@@ -45,3 +45,9 @@
 
 + [《哪吒 2》将于 8 月 2 日全网上线](https://www.v2ex.com/t/1149162)
 
++ [生活总是得有点期待](https://www.v2ex.com/t/1149209)
+
++ [高速超大车的时候要鸣笛吗？](https://www.v2ex.com/t/1149181)
+
++ [搞了一个 Claude Code 镜像服务, 搞活动 送 1W 积分](https://www.v2ex.com/t/1149223)
+
