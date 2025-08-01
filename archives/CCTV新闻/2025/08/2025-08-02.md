@@ -173,3 +173,5 @@
 
 + [印尼东努沙登加拉省一火山喷发 火山灰柱达10000米](https://news.cctv.com/2025/08/02/ARTIIeQr8IWaxx4OPNBWCtX9250802.shtml)
 
++ [巴基斯坦一火车脱轨 至少25人受伤](https://news.cctv.com/2025/08/02/ARTIcIzEb8NpOKWibh5eYkuA250802.shtml)
+

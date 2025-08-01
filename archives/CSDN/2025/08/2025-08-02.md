@@ -127,3 +127,13 @@
 
 + [融媒体中心网络安全应急预案（通用技术框架）](https://blog.csdn.net/weixin_41905135/article/details/149812837)
 
++ [LOVON——面向足式Open-Vocabulary的VLN导航：LLM做任务分解、YOLO11做目标检测，最后L2MM将指令和视觉映射为动作，且解决动态模糊](https://blog.csdn.net/v_JULY_v/article/details/149811647)
+
++ [网络层概述](https://blog.csdn.net/2302_81171591/article/details/149804579)
+
++ [什么是网络安全?网络安全包括哪几个方面?学完能做一名黑客吗？](https://blog.csdn.net/kalilinuxsafe/article/details/149806779)
+
++ [【车联网kafka】Kafka核心架构与实战经验（第二篇）](https://blog.csdn.net/qq_36038282/article/details/149794965)
+
++ [基于成像空间转录组技术的肿瘤亚克隆CNV原位推断方法](https://blog.csdn.net/bio_multiomics/article/details/149787443)
+
