@@ -193,3 +193,21 @@
 
 + [《湿地公约》第十五届缔约方大会在津巴布韦闭幕](https://news.cctv.com/2025/08/01/ARTIQ5zZwhFkXvGPlQQOgY48250801.shtml)
 
++ [埃及向加沙空投援助物资](https://photo.cctv.com/2025/08/01/PHOAT8vYkGdhV0UaGGSQvLQ5250801.shtml)
+
++ [柬方同意将泰柬边境联合委员会会议改至马来西亚举行](https://news.cctv.com/2025/08/01/ARTI438J4ccO0D51rdxGJLTa250801.shtml)
+
++ [韩国特检组对前总统尹锡悦执行拘捕令失败](https://news.cctv.com/2025/08/01/ARTI96qF2SYPEnwtknRO72jO250801.shtml)
+
++ [韩国今夏已有16人死于高温相关疾病](https://news.cctv.com/2025/08/01/ARTIU1LgSA3jcv0GIVgTCeZ7250801.shtml)
+
++ [自民党议员关口昌一当选日本参议院议长](https://news.cctv.com/2025/08/01/ARTIbrVvS7HhWSZ6f2hPP4lB250801.shtml)
+
++ [缅甸国防和安全委员会宣布在多镇实施紧急状态](https://news.cctv.com/2025/08/01/ARTIgTVC6PH247D8XQQJz1sk250801.shtml)
+
++ [美俄航天局局长举行会晤 重申将继续执行太空任务合作](https://news.cctv.com/2025/08/01/ARTITOnm2YgV8BX1RLXeUBfD250801.shtml)
+
++ [世界黄金协会：二季度全球黄金需求增长](https://news.cctv.com/2025/08/01/ARTI4f2bfSXUxR8VA1DsdR43250801.shtml)
+
++ [墨西哥总统：墨美将就限制武器和毒品贩运达成安全协议](https://news.cctv.com/2025/08/01/ARTIMJbn9YgExPVJWjTrAssT250801.shtml)
+

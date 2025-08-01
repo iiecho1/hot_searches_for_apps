@@ -159,3 +159,19 @@
 
 + [量子计算解决气候变化：科学家找到了新方法](https://blog.csdn.net/2503_92849275/article/details/149740320)
 
++ [福田全球首发，都干了什么？启明星纯电轻卡、爱易科电驱动、卡文乐迪、欧曼银河、祥菱U7、风景T7、边缘计算、旋变软解码、动态载频](https://blog.csdn.net/weixin_62244995/article/details/149753762)
+
++ [「源力觉醒 创作者计划」文心大模型开源：打破封闭桎梏，开启开放生态新篇章](https://blog.csdn.net/qq_57761637/article/details/149672909)
+
++ [【花雕学编程】ESP32 DeepSeek 之情境感知的自动化控制系统](https://blog.csdn.net/weixin_41659040/article/details/149811662)
+
++ [Java 大视界 -- Java 大数据在智能医疗远程健康监测与疾病预防预警中的应用（374）](https://blog.csdn.net/atgfg/article/details/149814369)
+
++ [基于 Amazon Bedrock 与 Anthropic Claude 3 智能文档处理方案：从扫描件提取到数据入库全流程实践](https://blog.csdn.net/weixin_62765017/article/details/149782550)
+
++ [springcloud03-Nacos配置中心](https://blog.csdn.net/Rancemy/article/details/149784234)
+
++ [多旋翼物流无人机节能轨迹规划（Python代码实现）](https://blog.csdn.net/weixin_61181717/article/details/149821727)
+
++ [vue+elementui+vueCropper裁剪上传图片背景颜色为黑色解决方案](https://blog.csdn.net/mayusunshine/article/details/149783255)
+
