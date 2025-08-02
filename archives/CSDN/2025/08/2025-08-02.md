@@ -173,3 +173,7 @@
 
 + [【YOLOv1】](https://blog.csdn.net/2302_77326347/article/details/149804217)
 
++ [Qt结合ffmpeg实现图片参数调节/明亮度对比度饱和度设置/滤镜的使用](https://blog.csdn.net/feiyangqingyun/article/details/149833108)
+
++ [美食商城|美食推荐商城系统|基于SprinBoot+vue美食推荐商城系统(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/149856924)
+

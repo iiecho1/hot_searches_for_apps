@@ -221,3 +221,7 @@
 
 + [中国驻登巴萨总领馆提醒领区中国公民关注勒沃托比火山喷发影响](https://news.cctv.com/2025/08/02/ARTIjTfKp6m2eff2zy1w4Di6250802.shtml)
 
++ [日本半年电诈金额近600亿日元 这类诈骗多年轻人中招！](https://news.cctv.com/2025/08/02/ARTI1LFCjE0SvrMmRfePWqDh250802.shtml)
+
++ [IMF批准向阿根廷提供20亿美元融资](https://news.cctv.com/2025/08/02/ARTInTSZkPinDZPDYudCXO64250802.shtml)
+
