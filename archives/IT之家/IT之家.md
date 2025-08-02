@@ -25,3 +25,27 @@
 
 + [库克给苹果 AI 团队打气：我们不热衷行业首创，iPhone 等产品已证明可做到行业主导](https://m.ithome.com/html/872500.htm)
 
++ [2025 年 7 月汽车销量 / 交付汇总：奇瑞集团 224439 辆同比增长 14.7%（实时更新）](https://m.ithome.com/html/872232.htm)
+
++ [专注澎湃 OS 3，消息称小米已终止澎湃 HyperOS 2 系统的全部开发工作](https://m.ithome.com/html/872386.htm)
+
++ [第四批 690 亿元“国补”资金 10 月下达](https://m.ithome.com/html/872292.htm)
+
++ [360 安全卫士发布情况说明，回应运行时硬盘状态显示“进程 20M/s”](https://m.ithome.com/html/872238.htm)
+
++ [乘龙卡车：安全不是空口无凭的理想](https://m.ithome.com/html/872351.htm)
+
++ [腾讯客服回应微信提现手续费下降：最低下限改为 0.01 元，7 月 25 日全量更新](https://m.ithome.com/html/872280.htm)
+
++ [雷军：小米汽车 7 月交付量超 3 万台](https://m.ithome.com/html/872265.htm)
+
++ [尊湃侵犯华为 Wi-Fi 6 芯片技术商业秘密案一审宣判：创始人张琨获刑 6 年](https://m.ithome.com/html/872388.htm)
+
++ [Google 获准全面恢复在华服务？内部人士：截图不是来自 Google](https://m.ithome.com/html/872432.htm)
+
++ [苹果迄今最受欢迎测试版：库克亲证，用户尝鲜 iOS / iPadOS / macOS 26 热情高涨](https://m.ithome.com/html/872291.htm)
+
++ [惊喜：《哪吒之魔童闹海》网播新增 3 分钟未公开片段，采用 IMAX 转 4K](https://m.ithome.com/html/872348.htm)
+
++ [库克晒苹果第 3 财季在中国市场成绩：iPhone 用户规模创新高、MacBook Air 是最畅销笔记本、Mac mini 是台式机销冠](https://m.ithome.com/html/872227.htm)
+

@@ -101,3 +101,15 @@
 
 + [.NET/JAVA集成GoView低代码可视化大屏完整案例详解【.NET篇】](https://blog.csdn.net/mss359681091/article/details/149858192)
 
++ [机器学习第二课之逻辑回归（二）LogisticRegression](https://blog.csdn.net/m0_74977182/article/details/149840617)
+
++ [深度学习（鱼书）day08--误差反向传播（后三节）](https://blog.csdn.net/weixin_66162442/article/details/149843605)
+
++ [uniapp 开发微信小程序，获取经纬度（uni.getLocation）并且转化详细地址（‌高德地图逆地理编码API、‌腾讯地图逆地理编码）](https://blog.csdn.net/weixin_41549971/article/details/149837996)
+
++ [硬核技术协同：x86 生态、机密计算与云原生等技术如何为产业数字化转型筑底赋能](https://blog.csdn.net/boyedu/article/details/149797338)
+
++ [四、Portainer图形化管理实战与Docker镜像原理](https://blog.csdn.net/2401_83830408/article/details/149834396)
+
++ [OSPF笔记整理](https://blog.csdn.net/2301_80607165/article/details/149842920)
+
