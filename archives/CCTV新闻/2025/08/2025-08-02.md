@@ -225,3 +225,5 @@
 
 + [IMF批准向阿根廷提供20亿美元融资](https://news.cctv.com/2025/08/02/ARTInTSZkPinDZPDYudCXO64250802.shtml)
 
++ [印尼一火山连续两次喷发　我总领馆发布安全提醒](https://news.cctv.com/2025/08/02/ARTIv75NcqlSFDXsTsVxVADB250802.shtml)
+
