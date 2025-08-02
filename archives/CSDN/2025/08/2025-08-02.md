@@ -217,3 +217,5 @@
 
 + [使用 Elasticsearch 和 AI 构建智能重复项检测](https://blog.csdn.net/UbuntuTouch/article/details/149796938)
 
++ [GitHub 趋势日报 (2025年07月30日)](https://blog.csdn.net/ShrCheng/article/details/149809343)
+
