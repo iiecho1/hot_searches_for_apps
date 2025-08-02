@@ -181,3 +181,13 @@
 
 + [Spring Boot微服务性能优化实践指南：从配置到监控](https://blog.csdn.net/qq_35716689/article/details/149836078)
 
++ [SpringBoot统一功能处理](https://blog.csdn.net/CxK6666667/article/details/149840753)
+
++ [【2025/08/01】GitHub 今日热门项目](https://blog.csdn.net/AlbertDS/article/details/149842828)
+
++ [从内部保护你的网络](https://blog.csdn.net/qq_29607687/article/details/149843334)
+
++ [50天50个小项目 (Vue3 + Tailwindcss V4) ✨ | VerifyAccountUi（验证码组件）](https://blog.csdn.net/qq_44808710/article/details/149779252)
+
++ [基于 Amazon Nova Sonic 和 MCP 构建语音交互 Agent](https://blog.csdn.net/zhangxia_/article/details/149683456)
+
