@@ -49,3 +49,11 @@
 
 + [库克晒苹果第 3 财季在中国市场成绩：iPhone 用户规模创新高、MacBook Air 是最畅销笔记本、Mac mini 是台式机销冠](https://m.ithome.com/html/872227.htm)
 
++ [吉利全新博越预售：9.19 万-11.29 万元，标配 Flyme Auto 车机系统](https://m.ithome.com/html/872623.htm)
+
++ [消息称 Polestar 极星汽车上半年在华销量 69 辆，或将于今年底退出中国市场](https://m.ithome.com/html/872584.htm)
+
++ [《中国奇谭》首部动画电影《浪浪山小妖怪》今日上映](https://m.ithome.com/html/872558.htm)
+
++ [2025Q1 全球最畅销安卓手机继任者：三星 Galaxy A17 宣传图和规格曝光](https://m.ithome.com/html/872542.htm)
+
