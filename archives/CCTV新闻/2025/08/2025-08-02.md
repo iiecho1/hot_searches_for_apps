@@ -227,3 +227,7 @@
 
 + [印尼一火山连续两次喷发　我总领馆发布安全提醒](https://news.cctv.com/2025/08/02/ARTIv75NcqlSFDXsTsVxVADB250802.shtml)
 
++ [美国公布对69个贸易伙伴关税税率引发反对和质疑](https://news.cctv.com/2025/08/02/ARTICSXhg4HkQKRBLCAOFoYi250802.shtml)
+
++ [印尼一火山连续两次喷发 我总领馆发布安全提醒](https://news.cctv.com/2025/08/02/ARTIv75NcqlSFDXsTsVxVADB250802.shtml)
+

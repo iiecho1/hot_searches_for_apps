@@ -25,3 +25,19 @@
 
 + [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 
++ [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+
++ [MotiaDev/motia](https://github.com/MotiaDev/motia)
+
++ [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas)
+
++ [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+
++ [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
++ [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
++ [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+
++ [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+

@@ -191,3 +191,13 @@
 
 + [基于 Amazon Nova Sonic 和 MCP 构建语音交互 Agent](https://blog.csdn.net/zhangxia_/article/details/149683456)
 
++ [用 Qt 打造优雅的密码输入框：添加右侧眼睛图标切换显示](https://blog.csdn.net/2401_87117051/article/details/149856951)
+
++ [SpringMVC-拦截器](https://blog.csdn.net/wangmengxxw/article/details/149828774)
+
++ [YOLOv8 目标检测：自定义数据集训练与评估](https://blog.csdn.net/feng1790291543/article/details/144313559)
+
++ [新手小白如何快速检测IP 的好坏？](https://blog.csdn.net/qq_44866828/article/details/149842044)
+
++ [硬核技术协同：x86 生态、机密计算与云原生等技术如何为产业数字化转型筑底赋能](https://blog.csdn.net/boyedu/article/details/149797338)
+
