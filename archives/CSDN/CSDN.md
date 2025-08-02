@@ -143,3 +143,9 @@
 
 + [2025网络安全指南](https://blog.csdn.net/u014674420/article/details/149825673)
 
++ [排查与解决 Oracle CASE 语句执行报错 ORA-12704: 字符集不匹配问题](https://blog.csdn.net/martian665/article/details/149862750)
+
++ [LVQ_在金融市场交易信号识别中的应用(附DeepSeek行业解决方案100+)](https://blog.csdn.net/ashyyyy/article/details/149828372)
+
++ [Baumer工业相机堡盟工业相机如何通过YoloV8深度学习模型实现道路汽车的检测识别（C#代码，UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149829569)
+

@@ -73,3 +73,7 @@
 
 + [结局都一样｜离开我的依赖](https://m.acfun.cn/v/?ac=47679032)
 
++ [れぞんでーとる/存在的理由 covered by 位子](https://m.acfun.cn/v/?ac=47679224)
+
++ [【绝望女神/翻唱】【安魂曲】](https://m.acfun.cn/v/?ac=47679236)
+
