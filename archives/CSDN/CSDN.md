@@ -113,3 +113,27 @@
 
 + [OSPF笔记整理](https://blog.csdn.net/2301_80607165/article/details/149842920)
 
++ [Shapley与SHAP](https://blog.csdn.net/2401_88885149/article/details/149807547)
+
++ [Manual2Skill——让VLM从装配手册中提取装配步骤，随后做姿态估计，最终完成IKEA家具的自动组装(含IKEA-Manuals的详解)](https://blog.csdn.net/v_JULY_v/article/details/149842175)
+
++ [Kafka Streams 并行处理机制深度解析：任务(Task)与流线程(Stream Threads)的协同设计](https://blog.csdn.net/neweastsun/article/details/149829867)
+
++ [STM32 使用 RTC 实现实时时钟功能](https://blog.csdn.net/zhu_xian_gang/article/details/149840893)
+
++ [LabVIEW实现TOF-SIMS控制](https://blog.csdn.net/bjcyck/article/details/149822964)
+
++ [【高等数学】第七章 微分方程——第六节 高阶线性微分方程](https://blog.csdn.net/weixin_45725295/article/details/149843292)
+
++ [八股训练--Spring](https://blog.csdn.net/m0_74815183/article/details/149711462)
+
++ [嵌入式学习之硬件——51单片机 1.0](https://blog.csdn.net/sx243694/article/details/149827650)
+
++ [Linux中Docker Swarm介绍和使用](https://blog.csdn.net/lsh0411/article/details/149805486)
+
++ [网络安全专业知识体系：成为专家需要做的](https://blog.csdn.net/zhangyihu321/article/details/149830830)
+
++ [重生之我在暑假学习微服务第七天《微服务之服务治理篇》](https://blog.csdn.net/2302_80329073/article/details/149841015)
+
++ [XSS-DOM-1](https://blog.csdn.net/fatsheep8_5/article/details/149835111)
+
