@@ -147,3 +147,7 @@
 
 + [【SpringMVC】拦截器，实现小型登录验证](https://blog.csdn.net/qq_44896379/article/details/149812104)
 
++ [Shapley与SHAP](https://blog.csdn.net/2401_88885149/article/details/149807547)
+
++ [Web3：在 VSCode 中基于 Foundry 快速构建 Solidity 智能合约本地开发环境](https://blog.csdn.net/qq_42392981/article/details/149799000)
+

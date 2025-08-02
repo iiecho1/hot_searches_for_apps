@@ -183,3 +183,7 @@
 
 + [特朗普政府冻结美国疾控中心多个公共健康项目资金](https://news.cctv.com/2025/08/02/ARTIAULEZEMbnwqHHkSMSYYM250802.shtml)
 
++ [哥伦比亚前总统乌里韦被一审判处12年居家监禁](https://news.cctv.com/2025/08/02/ARTInYLoXl53Deax1Tj3k30a250802.shtml)
+
++ [也门胡塞武装导弹再袭以色列机场　以军拦截](https://news.cctv.com/2025/08/02/ARTIqIw7rQM6VPLZoJOvttEO250802.shtml)
+
