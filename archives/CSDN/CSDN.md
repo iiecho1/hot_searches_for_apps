@@ -171,3 +171,5 @@
 
 + [LOVON——面向足式Open-Vocabulary的物体导航：LLM做任务分解、YOLO11做目标检测，最后L2MM将指令和视觉映射为动作(且解决动态模糊)](https://blog.csdn.net/v_JULY_v/article/details/149811647)
 
++ [【YOLOv1】](https://blog.csdn.net/2302_77326347/article/details/149804217)
+

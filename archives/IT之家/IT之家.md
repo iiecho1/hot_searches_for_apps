@@ -57,3 +57,17 @@
 
 + [小米汽车：勿用塑料袋等物品给充电口防水](https://m.ithome.com/html/872179.htm)
 
++ [苹果“史上最薄”iPhone 17 Air 电池实物曝光：金属外壳，约 2900mAh](https://m.ithome.com/html/872497.htm)
+
++ [苹果史上任期最长 CEO：蒂姆・库克执掌 5091 天，正式超越史蒂夫・乔布斯](https://m.ithome.com/html/872495.htm)
+
++ [“民航版 12306”航旅纵横机票直销平台被吐槽“比第三方贵”，客服回应“或因航司促销、建议比价”](https://m.ithome.com/html/872480.htm)
+
++ [东风柳汽再度回应理想汽车、乘龙卡车“对撞”：场景、设备与实际交通情况存在极大差异](https://m.ithome.com/html/872463.htm)
+
++ [首发价 25.99-31.39 万元起上汽奥迪 A5L Sportback 车型上市，高配系“全球首款华为乾崑智驾燃油车型”](https://m.ithome.com/html/872471.htm)
+
++ [2025 年 7 月汽车销量 / 交付榜：比亚迪超 34 万辆保持第一，零跑首次突破 5 万辆](https://m.ithome.com/html/872499.htm)
+
++ [理想汽车 7 月交付 30731 辆同比大降近 40%，盘前跌超 3%](https://m.ithome.com/html/872407.htm)
+

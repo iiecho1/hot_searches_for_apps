@@ -219,3 +219,5 @@
 
 + [韩国青瓦台关闭 整修后将再次用作总统府](https://news.cctv.com/2025/08/02/ARTIBxzmKa7TtHIe8AROQOFw250802.shtml)
 
++ [中国驻登巴萨总领馆提醒领区中国公民关注勒沃托比火山喷发影响](https://news.cctv.com/2025/08/02/ARTIjTfKp6m2eff2zy1w4Di6250802.shtml)
+
