@@ -187,3 +187,31 @@
 
 + [也门胡塞武装导弹再袭以色列机场　以军拦截](https://news.cctv.com/2025/08/02/ARTIqIw7rQM6VPLZoJOvttEO250802.shtml)
 
++ [视频丨普京：首批量产型“榛树”导弹已交付俄军](https://news.cctv.com/2025/08/02/ARTIR6NTHfU3aRjnyO52hmqf250802.shtml)
+
++ [援助加沙](https://photo.cctv.com/2025/08/02/PHOASty1Qpup2IPWOjieV9D6250802.shtml)
+
++ [韩媒曝光尹锡悦拒捕细节：脱了囚服躺地上](https://news.cctv.com/2025/08/02/ARTIiE9nmHRwNjqA9Zevm1OK250802.shtml)
+
++ [普京再释和谈意愿 特朗普称将部署两艘核潜艇](https://news.cctv.com/2025/08/02/ARTIbuoUG3ILIWQBfUHAmfVH250802.shtml)
+
++ [中俄“海上联合-2025”联合演习开幕](https://photo.cctv.com/2025/08/02/PHOAu18VwWpfpCxbYOpRlR88250802.shtml)
+
++ [泰国四色菊府：冲突过后](https://photo.cctv.com/2025/08/02/PHOANDBO6lScmikFoV8FGfHb250802.shtml)
+
++ [俄乌释放谈判积极信号 美方当头泼冷水：加紧供武](https://news.cctv.com/2025/08/02/ARTIlLdIXe3FJ9uf8yViC4FR250802.shtml)
+
++ [柬埔寨：冲突撤离人员返回家园](https://photo.cctv.com/2025/08/02/PHOAj9k3Brvbc84ysOq5iCKh250802.shtml)
+
++ [特朗普再次呼吁：鲍威尔应引咎辞职](https://news.cctv.com/2025/08/02/ARTInjqFopE4Z9J3ALwWKXkd250802.shtml)
+
++ [以方消息人士：加沙停火谈判眼下难重启](https://news.cctv.com/2025/08/02/ARTIUKpEgdrq0xoxq0tJfqp4250802.shtml)
+
++ [美国蒙大拿州一商业场所发生多人中枪事件 4人死亡](https://news.cctv.com/2025/08/02/ARTID496pDqkZNgFb2EKEUfl250802.shtml)
+
++ [美持续对俄施压 特朗普称将部署两艘核潜艇](https://news.cctv.com/2025/08/02/ARTICnVMwOkN0E5TK4TUnhYl250802.shtml)
+
++ [千岛群岛发生6.1级地震，震源深度10千米](https://news.cctv.com/2025/08/02/ARTIuTFnDLXWXmRyAQsvGleJ250802.shtml)
+
++ [中国驻日本大使馆再次提醒来日游客务必加强安全防范](https://news.cctv.com/2025/08/02/ARTIM7hxv8IIwbpReX9wbFlm250802.shtml)
+

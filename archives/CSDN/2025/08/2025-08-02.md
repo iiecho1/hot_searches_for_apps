@@ -151,3 +151,15 @@
 
 + [Web3：在 VSCode 中基于 Foundry 快速构建 Solidity 智能合约本地开发环境](https://blog.csdn.net/qq_42392981/article/details/149799000)
 
++ [深入剖析Spring IOC容器——原理、源码与实践全解析](https://blog.csdn.net/m0_74385041/article/details/149834840)
+
++ [机器学习【二】KNN](https://blog.csdn.net/Hismybestlove/article/details/149788636)
+
++ [Elasticsearch 1个索引导出（迁移/复制）到另一个集群](https://blog.csdn.net/hezuijiudexiaobai/article/details/149838673)
+
++ [校园交友|基于SprinBoot+vue的校园交友网站(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/149839581)
+
++ [openai-go v1.12.0版本详解：手动更新API与流式处理重构解析](https://blog.csdn.net/weixin_48502062/article/details/149834848)
+
++ [2025 腾讯广告算法大赛 Baseline 项目解析](https://blog.csdn.net/qq_63585949/article/details/149842144)
+
