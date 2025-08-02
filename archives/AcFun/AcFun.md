@@ -77,3 +77,5 @@
 
 + [【Ado & Jax Jones】神级ED粤语版《Stay Gold》【BEYBLADE X  ED](https://m.acfun.cn/v/?ac=47654208)
 
++ [工地大舞台，有梦你就来！★手机竖屏1595★](https://m.acfun.cn/v/?ac=47676958)
+

@@ -215,3 +215,7 @@
 
 + [中国驻日本大使馆再次提醒来日游客务必加强安全防范](https://news.cctv.com/2025/08/02/ARTIM7hxv8IIwbpReX9wbFlm250802.shtml)
 
++ [东盟临时观察组视察柬泰边境冲突地区](https://news.cctv.com/2025/08/02/ARTI1ZXyz8LoQhJFzjueCmKa250802.shtml)
+
++ [韩国青瓦台关闭 整修后将再次用作总统府](https://news.cctv.com/2025/08/02/ARTIBxzmKa7TtHIe8AROQOFw250802.shtml)
+
