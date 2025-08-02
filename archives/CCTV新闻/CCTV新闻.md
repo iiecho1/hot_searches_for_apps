@@ -163,3 +163,5 @@
 
 + [伊朗民航组织宣布解除该国领空航班运营时间限制](https://news.cctv.com/2025/08/03/ARTIwANvcVscKuq0yyWDhrgr250803.shtml)
 
++ [西班牙一小型飞机坠海 机上人数暂未确定](https://news.cctv.com/2025/08/03/ARTIlFJgcDyf0FqaD1QLUl0t250803.shtml)
+
