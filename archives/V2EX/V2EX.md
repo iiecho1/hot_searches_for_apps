@@ -23,3 +23,5 @@
 
 + [我很难成为职场管理者](https://www.v2ex.com/t/1149436)
 
++ [eSIM 的最新消息](https://www.v2ex.com/t/1149473)
+
