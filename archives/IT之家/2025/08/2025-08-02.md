@@ -71,3 +71,21 @@
 
 + [理想汽车 7 月交付 30731 辆同比大降近 40%，盘前跌超 3%](https://m.ithome.com/html/872407.htm)
 
++ [全新小鹏 P7 外观细节公布：行业首个一体式纯平发光 LOGO，电动升降尾翼](https://m.ithome.com/html/872543.htm)
+
++ [不到四个半小时破亿，2025 年暑期档电影票房刷新单日破亿最快纪录](https://m.ithome.com/html/872538.htm)
+
++ [特斯拉被曝长期拖欠账款：至少已拖垮两家美国小型企业，索赔金额超 1.1 亿美元](https://m.ithome.com/html/872541.htm)
+
++ [169 元小米推出“Xiaomi Life 晴雨伞 闪电黄”：原生适配小米汽车收纳槽、防晒级别 UPF50+](https://m.ithome.com/html/872569.htm)
+
++ [问界发布六大交付承诺：不强制和捆绑销售、新车里程小于 30km 电量高于 80%](https://m.ithome.com/html/872599.htm)
+
++ [829 公里！全球“最长闪电”新纪录诞生](https://m.ithome.com/html/872551.htm)
+
++ [大快人心：广电总局部署开展广播电视虚假宣传医药广告集中整治，年底前见成效](https://m.ithome.com/html/872496.htm)
+
++ [华为宣布腾讯《英雄联盟手游》鸿蒙版 8 月 6 日开启万人抢先体验，账号无缝继承、资产数据互通](https://m.ithome.com/html/872595.htm)
+
++ [库克给苹果 AI 团队打气：我们不热衷行业首创，iPhone 等产品已证明可做到行业主导](https://m.ithome.com/html/872500.htm)
+
