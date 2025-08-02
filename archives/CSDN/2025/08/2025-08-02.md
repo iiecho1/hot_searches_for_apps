@@ -201,3 +201,19 @@
 
 + [硬核技术协同：x86 生态、机密计算与云原生等技术如何为产业数字化转型筑底赋能](https://blog.csdn.net/boyedu/article/details/149797338)
 
++ [Matplotlib - Python图表可视化利器](https://blog.csdn.net/Tang_is_learning/article/details/149857881)
+
++ [Java 大视界 -- Java 大数据在智能交通公交客流预测与线路优化中的深度实践（15 城验证，年省 2.1 亿）(373)](https://blog.csdn.net/atgfg/article/details/149808854)
+
++ [【教程4＞第9章＞第12节】通过FPGA实现RGB图像转换为HSL图像——计算色相(H)和MATLAB辅助验证](https://blog.csdn.net/ccsss22/article/details/149861524)
+
++ [为 iPhone 真机 App 聘请一位 AI 大模型编程大师来排忧解难](https://blog.csdn.net/mydo/article/details/149852279)
+
++ [LLM隐藏层状态： outputs.hidden_states 是 MLP Residual 还是 Layer Norm](https://blog.csdn.net/qq_38998213/article/details/149862134)
+
++ [【Linux】重生之从零开始学习运维之Mysql](https://blog.csdn.net/qq_40427704/article/details/149812681)
+
++ [基于神经机器翻译(NMT)实现：英文到中文翻译（python代码可直接运行）](https://blog.csdn.net/cui_yonghua/article/details/149861595)
+
++ [使用 Elasticsearch 和 AI 构建智能重复项检测](https://blog.csdn.net/UbuntuTouch/article/details/149796938)
+
