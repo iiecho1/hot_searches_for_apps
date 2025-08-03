@@ -203,3 +203,7 @@
 
 + [东盟临时观察团启动对柬泰边境第二轮视察](https://news.cctv.com/2025/08/03/ARTIDfOvHpfq87MNnx7gCDvz250803.shtml)
 
++ [澳大利亚多地举行大规模游行 呼吁结束加沙冲突与饥荒](https://news.cctv.com/2025/08/03/ARTIXoXUiXnC2OYDvxq2P2Cf250803.shtml)
+
++ [以媒：以国家安全部长首次在圣殿山区域公开祈祷](https://news.cctv.com/2025/08/03/ARTIUZY6CjlaxuL26GLPmWlF250803.shtml)
+

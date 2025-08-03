@@ -209,3 +209,21 @@
 
 + [逻辑回归----银行贷款模型优化](https://blog.csdn.net/dlraba/article/details/149840466)
 
++ [MCP革命：Anthropic如何重新定义AI与外部世界的连接标准](https://blog.csdn.net/IRpickstars/article/details/149881049)
+
++ [AI 的工具集专栏：选对工具做对事，高效玩转 AI 时代](https://blog.csdn.net/weixin_43151418/article/details/149877563)
+
++ [Coze 打通飞书多维表格，实现数据增删改查操作实战详解](https://blog.csdn.net/zhangcongyi420/article/details/149150737)
+
++ [SpringBoot+Mybatis+MySQL+Vue+ElementUI前后端分离版：日志管理（四）集成Spring Security](https://blog.csdn.net/qq_47980550/article/details/149749720)
+
++ [进阶向:自动化天气查询工具（API调用）](https://blog.csdn.net/2302_77626561/article/details/149780722)
+
++ [Kafka 重复消费排查操作手册（K8s + Java 版本）](https://blog.csdn.net/hezuijiudexiaobai/article/details/149857992)
+
++ [深入理解 Docker 容器网络：为什么用 host 网络模式能解决连通性问题？](https://blog.csdn.net/guo666688/article/details/149865421)
+
++ [MyBatis与MySQL](https://blog.csdn.net/hqxstudying/article/details/149866315)
+
++ [【Flutter】双路视频播放方案](https://blog.csdn.net/lxjlxj2333/article/details/149812562)
+
