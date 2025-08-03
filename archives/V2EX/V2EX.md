@@ -47,3 +47,9 @@
 
 + [多久没有体会到摩尔定律带来的推背感了？还在用 8700K 和 z370 平台有感。](https://www.v2ex.com/t/1149573)
 
++ [给 Ladybird 浏览器捐赠了 10 美元](https://www.v2ex.com/t/1149550)
+
++ [国产安卓系统，后台会上报科学上网吗？](https://www.v2ex.com/t/1149575)
+
++ [/solana/hello-world](https://www.v2ex.com/t/1149587)
+

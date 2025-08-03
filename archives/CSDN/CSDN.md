@@ -185,3 +185,13 @@
 
 + [【人工智能-17】机器学习：KNN算法、模型选择和调优、朴素贝叶斯分类](https://blog.csdn.net/m0_64233047/article/details/149782039)
 
++ [Libevent(5)之使用教程(4)工具](https://blog.csdn.net/Once_day/article/details/149878841)
+
++ [对话式AI语音合成的跨平台远程协作方案由ChatTTS与cpolar共同解决](https://blog.csdn.net/LT15171009269/article/details/149866475)
+
++ [虚拟卫星的人工智能 （AI） 模型：AlphaEarth Foundations，让行星级10m观测更智能](https://blog.csdn.net/qq_31988139/article/details/149840524)
+
++ [【Linux】磁盘存储+文件系统简介](https://blog.csdn.net/m0_71199350/article/details/149550138)
+
++ [Baumer工业相机堡盟工业相机如何通过YoloV8深度学习模型实现道路车辆事故的检测识别（C#代码UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149865926)
+

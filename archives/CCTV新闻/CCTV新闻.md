@@ -185,3 +185,11 @@
 
 + [第10号台风“白鹿”生成 对我国海域无影响](https://news.cctv.com/2025/08/03/ARTID8fj5M81O4N3JJZETRRI250803.shtml)
 
++ [创新、绿色、共赢——西班牙加泰罗尼亚考察团访华期待深化合作](https://news.cctv.com/2025/08/03/ARTI9Tt4bJAXoURZGA7JZlAc250803.shtml)
+
++ [坦桑尼亚总统：坦中物流合作项目意义重大](https://news.cctv.com/2025/08/03/ARTIcKDkoG4l688KYhahyQv1250803.shtml)
+
++ [一艘移民船在也门海域倾覆 已致20人死亡](https://news.cctv.com/2025/08/03/ARTIf6DxOBbMGF5kHY8Wi9Pz250803.shtml)
+
++ [白宫2亿美金建“顶级”宴会厅 特朗普：我出钱 我擅长](https://news.cctv.com/2025/08/03/ARTIfYNkcUuN6w4Oe1ayqgn2250803.shtml)
+
