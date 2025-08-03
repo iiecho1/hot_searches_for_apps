@@ -231,3 +231,7 @@
 
 + [Linux网络-------4.传输层协议UDP/TCP-----原理](https://blog.csdn.net/2301_80374809/article/details/149832423)
 
++ [imx6ull-驱动开发篇6——Linux 设备树语法](https://blog.csdn.net/m0_62228566/article/details/149810491)
+
++ [Vue3核心语法进阶（computed与监听）](https://blog.csdn.net/2301_78209919/article/details/149865198)
+
