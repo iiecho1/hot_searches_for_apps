@@ -207,3 +207,5 @@
 
 + [以媒：以国家安全部长首次在圣殿山区域公开祈祷](https://news.cctv.com/2025/08/03/ARTIUZY6CjlaxuL26GLPmWlF250803.shtml)
 
++ [韩国男子连续三晚参加公司聚餐饮酒后死亡，法院裁定为工伤](https://news.cctv.com/2025/08/03/ARTI8gXADmgkgQBtYsg482qW250803.shtml)
+
