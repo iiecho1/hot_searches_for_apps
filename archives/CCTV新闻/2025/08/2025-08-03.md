@@ -171,3 +171,7 @@
 
 + [日本连续3年经历最热7月 多地降水量创新低](https://news.cctv.com/2025/08/03/ARTIePyoVwefHa5P7SkGb32S250803.shtml)
 
++ [俄堪察加半岛一座火山600年来首次喷发](https://news.cctv.com/2025/08/03/ARTIctrf1xzNtDy9bCUyt3KF250803.shtml)
+
++ [扎波罗热核电站再遭袭 国际原子能机构呼吁保持克制](https://news.cctv.com/2025/08/03/ARTIEHrcGrKi3qPOwmlfqhgC250803.shtml)
+

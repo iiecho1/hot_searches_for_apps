@@ -177,3 +177,7 @@
 
 + [【GitHub开源AI精选】Salesforce开源项目MAS-Zero：零监督下的多智能体系统设计框架](https://blog.csdn.net/xiaobing259/article/details/149859945)
 
++ [量子计算接口开发：Python vs Rust 的性能对决](https://blog.csdn.net/2503_92849275/article/details/149858190)
+
++ [用于 UBI 的 Elasticsearch 插件：从搜索查询中分析用户行为](https://blog.csdn.net/UbuntuTouch/article/details/149876922)
+
