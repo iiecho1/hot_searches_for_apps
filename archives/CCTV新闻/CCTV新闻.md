@@ -181,3 +181,5 @@
 
 + [非洲动物大迁徙通道遭游客阻塞引担忧](https://news.cctv.com/2025/08/03/ARTIa8HgmeIBH434S7hVeawc250803.shtml)
 
++ [千岛群岛附近海域发生6.7级地震，震源深度40千米](https://news.cctv.com/2025/08/03/ARTIREtrADFLovb5DrLMvueT250803.shtml)
+
