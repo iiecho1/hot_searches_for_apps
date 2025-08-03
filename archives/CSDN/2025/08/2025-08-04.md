@@ -111,3 +111,27 @@
 
 + [小红书hi lab开源多语言文档布局解析模型dots.ocr，1.7B小模型实现SOTA性能](https://blog.csdn.net/jike007gt/article/details/149833417)
 
++ [linux 启动流程？](https://blog.csdn.net/is0815/article/details/149865311)
+
++ [在Windows平台下使用 OpenList+Rclone 进行网盘挂载](https://blog.csdn.net/weixin_64337377/article/details/149887429)
+
++ [Docker Inspect 命令详解：深入探索Docker对象内部信息](https://blog.csdn.net/qq_41840843/article/details/149033179)
+
++ [基于YOLOv8的铁路工人安全作业检测系统｜精准识别反光背心与安全帽](https://blog.csdn.net/weixin_52908342/article/details/149842865)
+
++ [React中的Hooks](https://blog.csdn.net/2301_81253185/article/details/149884197)
+
++ [逻辑回归----银行贷款模型优化](https://blog.csdn.net/dlraba/article/details/149840466)
+
++ [网络层协议IP](https://blog.csdn.net/GOATLong/article/details/149707195)
+
++ [HarmonyOS 开发：基于 ArkUI 实现复杂表单验证的最佳实践](https://blog.csdn.net/m0_74456227/article/details/149864560)
+
++ [【Web3 后端】学习路线](https://blog.csdn.net/weixin_42548337/article/details/149888343)
+
++ [【机器人】VLN-R1 微调 | 增强训练 | 连续导航](https://blog.csdn.net/qq_41204464/article/details/149885900)
+
++ [【HTML 凸透镜像屏中呈，虚实焦点一指见】——筑梦教育网页新视界](https://blog.csdn.net/m0_65128884/article/details/149880760)
+
++ [编程与数学 03-002 计算机网络 17_云计算与网络](https://blog.csdn.net/qq_40071585/article/details/149822540)
+
