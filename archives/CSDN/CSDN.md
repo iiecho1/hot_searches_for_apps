@@ -151,3 +151,7 @@
 
 + [如何从头开始搭建属于自己的家用nas实现内网穿透访问](https://blog.csdn.net/qq_15627655/article/details/149823244)
 
++ [gitlab+jenkins的ci/cd部署](https://blog.csdn.net/qsfhngy/article/details/149829007)
+
++ [OAuth 2.0 的安全升级版授权协议 OAuth 2.1 详解](https://blog.csdn.net/luduoyuan/article/details/149858380)
+
