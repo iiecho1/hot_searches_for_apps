@@ -137,3 +137,11 @@
 
 + [Vue 3.5 defineModel：让组件开发效率提升 10 倍](https://blog.csdn.net/TWW844475003/article/details/149835503)
 
++ [量子计算接口开发：Python vs Rust 的性能对决](https://blog.csdn.net/2503_92849275/article/details/149858190)
+
++ [C++ - 仿 RabbitMQ 实现消息队列--服务端核心模块实现（五）](https://blog.csdn.net/2301_80079840/article/details/149835943)
+
++ [Python之aac-rest-api包语法、参数和实际应用案例](https://blog.csdn.net/shanghaiwren/article/details/149676110)
+
++ [2025 腾讯广告算法大赛 Baseline 项目解析](https://blog.csdn.net/qq_63585949/article/details/149842144)
+
