@@ -175,3 +175,9 @@
 
 + [扎波罗热核电站再遭袭 国际原子能机构呼吁保持克制](https://news.cctv.com/2025/08/03/ARTIEHrcGrKi3qPOwmlfqhgC250803.shtml)
 
++ [不买俄油就降关税？美国这招不好使了 巴西印度接连拒绝](https://news.cctv.com/2025/08/03/ARTIa9CH7c4HtwqVmtRQv3qG250803.shtml)
+
++ [千岛群岛附近海域发生7.0级地震](https://news.cctv.com/2025/08/03/ARTIkQ2HwPiG1SFXbybNylla250803.shtml)
+
++ [非洲动物大迁徙通道遭游客阻塞引担忧](https://news.cctv.com/2025/08/03/ARTIa8HgmeIBH434S7hVeawc250803.shtml)
+
