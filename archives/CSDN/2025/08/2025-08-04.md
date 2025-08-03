@@ -145,3 +145,9 @@
 
 + [2025 腾讯广告算法大赛 Baseline 项目解析](https://blog.csdn.net/qq_63585949/article/details/149842144)
 
++ [Python实现基于CNN-GRU卷积神经网络结合门控循环单元进行多变量时序预测的详细项目实例](https://blog.csdn.net/xiaoxingkongyuxi/article/details/149770894)
+
++ [k8s之DevicePlugin](https://blog.csdn.net/woshihlf/article/details/149833722)
+
++ [如何从头开始搭建属于自己的家用nas实现内网穿透访问](https://blog.csdn.net/qq_15627655/article/details/149823244)
+

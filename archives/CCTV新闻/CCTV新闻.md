@@ -161,3 +161,7 @@
 
 + [缅甸国防和安全委员会宣布在多镇实施紧急状态](https://news.cctv.com/2025/08/01/ARTIgTVC6PH247D8XQQJz1sk250801.shtml)
 
++ [多国谴责以色列官员进入阿克萨清真寺大院公开祈祷](https://news.cctv.com/2025/08/04/ARTIi4LilUkgZacjmBLJK2Sa250803.shtml)
+
++ [美国贸易代表称关税政策将基本维持现状](https://news.cctv.com/2025/08/04/ARTIQK1va0OkW3FdwzwSx6ba250803.shtml)
+
