@@ -31,3 +31,9 @@
 
 + [4khdr 视界跑路了](https://www.v2ex.com/t/1149455)
 
++ [炒币日记 0803-买了 eth 和 sol 的开多合约](https://www.v2ex.com/t/1149544)
+
++ [电子斗蛐蛐之 mihomo vs sing-box 使用体验](https://www.v2ex.com/t/1149486)
+
++ [币圈这么凶险的吗，我的大约 5000 个 $v2ex 被转走了吗？](https://www.v2ex.com/t/1149540)
+

@@ -175,3 +175,5 @@
 
 + [Claude Code 实战指南：让AI编程助手发挥最大威力](https://blog.csdn.net/xianyu120/article/details/149803812)
 
++ [【GitHub开源AI精选】Salesforce开源项目MAS-Zero：零监督下的多智能体系统设计框架](https://blog.csdn.net/xiaobing259/article/details/149859945)
+

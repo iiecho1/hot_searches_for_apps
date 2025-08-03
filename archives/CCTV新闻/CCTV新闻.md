@@ -169,3 +169,5 @@
 
 + [厄瓜多尔经济学家：美国发动关税战损人不利己](https://news.cctv.com/2025/08/03/ARTIuU0bIAXNUuulqDDQPHYK250803.shtml)
 
++ [日本连续3年经历最热7月 多地降水量创新低](https://news.cctv.com/2025/08/03/ARTIePyoVwefHa5P7SkGb32S250803.shtml)
+
