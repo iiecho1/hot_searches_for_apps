@@ -161,3 +161,17 @@
 
 + [Elasticsearch 报错及索引内容查看整理笔记](https://blog.csdn.net/hezuijiudexiaobai/article/details/149861016)
 
++ [高性能MCP服务器架构设计：并发、缓存与监控](https://blog.csdn.net/IRpickstars/article/details/149862166)
+
++ [python：前馈人工神经网络算法之实战篇，以示例带学，弄明白神经网络算法应用的思路、方法与注意事项等](https://blog.csdn.net/hlnzxl/article/details/149834495)
+
++ [Transformer实战——Transformer自编码模型](https://blog.csdn.net/LOVEmy134611/article/details/147836703)
+
++ [备份 PostgreSQL 的归档日志（WAL 日志）](https://blog.csdn.net/hezuijiudexiaobai/article/details/149860272)
+
++ [巴菲特的逆向投资哲学](https://blog.csdn.net/universsky2015/article/details/149865670)
+
++ [SpringMVC的高级特性](https://blog.csdn.net/2302_78288964/article/details/149830374)
+
++ [Claude Code 实战指南：让AI编程助手发挥最大威力](https://blog.csdn.net/xianyu120/article/details/149803812)
+

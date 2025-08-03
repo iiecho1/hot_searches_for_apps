@@ -25,3 +25,9 @@
 
 + [eSIM 的最新消息](https://www.v2ex.com/t/1149473)
 
++ [GV 如今如何保号？](https://www.v2ex.com/t/1149533)
+
++ [台式机硬件问题求助](https://www.v2ex.com/t/1149448)
+
++ [4khdr 视界跑路了](https://www.v2ex.com/t/1149455)
+
