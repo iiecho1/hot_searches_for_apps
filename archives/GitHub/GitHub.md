@@ -23,3 +23,25 @@
 
 + [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 
++ [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+
++ [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo)
+
++ [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+
++ [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [sst/opencode](https://github.com/sst/opencode)
+
++ [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
+
++ [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes)
+
++ [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+
++ [flydelabs/flyde](https://github.com/flydelabs/flyde)
+

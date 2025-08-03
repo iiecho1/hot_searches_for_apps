@@ -197,3 +197,9 @@
 
 + [堪察加火山群近日接连喷发 俄专家：与强震有直接关联](https://news.cctv.com/2025/08/03/ARTI5mcEUTgCT3kP91z2Yd65250803.shtml)
 
++ [澳大利亚山洪致一名中国公民失联](https://news.cctv.com/2025/08/03/ARTIGLACj8ssEC2xDKAMUa51250803.shtml)
+
++ [一艘搭载非洲移民的船只在也门海域倾覆致20多人死亡](https://news.cctv.com/2025/08/03/ARTImYVZ5kt0vfKjW0gVFsAB250803.shtml)
+
++ [东盟临时观察团启动对柬泰边境第二轮视察](https://news.cctv.com/2025/08/03/ARTIDfOvHpfq87MNnx7gCDvz250803.shtml)
+
