@@ -183,3 +183,5 @@
 
 + [千岛群岛附近海域发生6.7级地震，震源深度40千米](https://news.cctv.com/2025/08/03/ARTIREtrADFLovb5DrLMvueT250803.shtml)
 
++ [第10号台风“白鹿”生成 对我国海域无影响](https://news.cctv.com/2025/08/03/ARTID8fj5M81O4N3JJZETRRI250803.shtml)
+

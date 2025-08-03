@@ -181,3 +181,7 @@
 
 + [用于 UBI 的 Elasticsearch 插件：从搜索查询中分析用户行为](https://blog.csdn.net/UbuntuTouch/article/details/149876922)
 
++ [AI Agent 的 10 种应用场景：物联网、RAG 与灾难响应](https://blog.csdn.net/tiancaidddddd/article/details/149807756)
+
++ [【人工智能-17】机器学习：KNN算法、模型选择和调优、朴素贝叶斯分类](https://blog.csdn.net/m0_64233047/article/details/149782039)
+
