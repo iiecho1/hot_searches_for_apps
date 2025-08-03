@@ -101,3 +101,13 @@
 
 + [重生之我在暑假学习微服务第八天《OpenFeign篇》](https://blog.csdn.net/2302_80329073/article/details/149863273)
 
++ [开发者生产力革命：AI 辅助工具如何重构工作流程](https://blog.csdn.net/2503_92849275/article/details/149817607)
+
++ [云原生三剑客：Kubernetes + Docker + Spring Cloud 实战指南与深度整合](https://blog.csdn.net/h356363/article/details/149864845)
+
++ [Manual2Skill——让VLM从装配手册中提取装配步骤，随后做姿态估计，最终完成IKEA家具的自动组装(含IKEA-Manuals的详解)](https://blog.csdn.net/v_JULY_v/article/details/149842175)
+
++ [美食商城|美食推荐商城系统|基于SprinBoot+vue美食推荐商城系统(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/149856924)
+
++ [小红书hi lab开源多语言文档布局解析模型dots.ocr，1.7B小模型实现SOTA性能](https://blog.csdn.net/jike007gt/article/details/149833417)
+
