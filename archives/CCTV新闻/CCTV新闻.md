@@ -193,3 +193,7 @@
 
 + [白宫2亿美金建“顶级”宴会厅 特朗普：我出钱 我擅长](https://news.cctv.com/2025/08/03/ARTIfYNkcUuN6w4Oe1ayqgn2250803.shtml)
 
++ [联合国机构：苏丹西部约64万名儿童面临霍乱感染风险](https://news.cctv.com/2025/08/03/ARTIxxswFUt5VIo9wPs2ReZv250803.shtml)
+
++ [堪察加火山群近日接连喷发 俄专家：与强震有直接关联](https://news.cctv.com/2025/08/03/ARTI5mcEUTgCT3kP91z2Yd65250803.shtml)
+

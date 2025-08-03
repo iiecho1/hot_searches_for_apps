@@ -195,3 +195,7 @@
 
 + [Baumer工业相机堡盟工业相机如何通过YoloV8深度学习模型实现道路车辆事故的检测识别（C#代码UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149865926)
 
++ [Amazon Q Developer：AI 增强编码生产力的未来](https://blog.csdn.net/weixin_62782025/article/details/149859771)
+
++ [【Linux系统】进程间通信：匿名管道](https://blog.csdn.net/2402_82670467/article/details/149860975)
+
