@@ -177,3 +177,9 @@
 
 + [韩国军方今起拆除边境地区对朝扩音广播设施](https://news.cctv.com/2025/08/04/ARTIgvwOueBQq0YxXgTVtzfL250804.shtml)
 
++ [俄罗斯一旅游大巴与货车相撞 已致2死10伤](https://news.cctv.com/2025/08/04/ARTIA1SBv9oG6QIQCVXEmaRB250804.shtml)
+
++ [泰国僧侣性丑闻背后：金钱、特权与结构性腐败](https://news.cctv.com/2025/08/04/ARTI6E4xvjwuAXpSQwnpOQOy250804.shtml)
+
++ [千岛群岛以东海域发生6.2级地震 震源深度10千米](https://news.cctv.com/2025/08/04/ARTIfv8RN3rNwLPhLdhbhmYi250804.shtml)
+
