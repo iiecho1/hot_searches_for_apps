@@ -189,3 +189,5 @@
 
 + [韩国军方开始拆除对朝扩音器：“采取实质性措施缓解韩朝紧张局势”](https://news.cctv.com/2025/08/04/ARTIodLpPfQwH7xNvsStdmqh250804.shtml)
 
++ [柬埔寨国防部称泰军再次派兵侵入柬领土 泰方暂无回应](https://news.cctv.com/2025/08/04/ARTISmtfHKmIPhhLR2g5AOKE250804.shtml)
+
