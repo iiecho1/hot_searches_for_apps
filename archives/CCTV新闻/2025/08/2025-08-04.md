@@ -195,3 +195,9 @@
 
 + [专访｜中欧班列助推土耳其边城打造区域物流枢纽——访土耳其卡尔斯市市长厄蒂肯·申盖尔](https://news.cctv.com/2025/08/04/ARTI3wrUcx25oMIAPO3phunB250804.shtml)
 
++ [莫迪称印度必须保护自身经济利益](https://news.cctv.com/2025/08/04/ARTIXlHKioVu6xBXlhmMUUts250804.shtml)
+
++ [俄总统新闻秘书：不排除普京与美国中东问题特使本周会面可能性](https://news.cctv.com/2025/08/04/ARTI0FtbtcuoMmTk0yR0OEsY250804.shtml)
+
++ [英国发布大风预警 数百万居民将受影响](https://news.cctv.com/2025/08/04/ARTIZhGhlignadgDDZTKOsq8250804.shtml)
+
