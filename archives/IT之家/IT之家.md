@@ -25,3 +25,13 @@
 
 + [微信员工回应“改手机日期可恢复过期文件”：假得有点离谱](https://m.ithome.com/html/872788.htm)
 
++ [苹果 iPhone 17 Pro 电池设计曝光：弃用 L 形结构，中美版本尺寸不同](https://m.ithome.com/html/872650.htm)
+
++ [央视曝光电动自行车智能服务失效问题：2G 基站退网，想用 4G 需花钱升级硬件](https://m.ithome.com/html/872678.htm)
+
++ [我国首艘电磁弹射型航母“福建舰”进入最后攻坚时刻，正在攻克能否兼容从滑跃到弹射起飞的无缝转接](https://m.ithome.com/html/872684.htm)
+
++ [鸿蒙智行全新问界 M7 汽车中控设计曝光：独立三屏、仪表屏和 ARHUD 共存](https://m.ithome.com/html/872680.htm)
+
++ [消息称苹果首款自研 CMOS 传感器有望明后年登 iPhone 18/19 系列手机，应用 LOFIC 技术提供高达 20 挡动态范围](https://m.ithome.com/html/872725.htm)
+
