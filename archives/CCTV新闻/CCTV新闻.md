@@ -165,3 +165,11 @@
 
 + [美国贸易代表称关税政策将基本维持现状](https://news.cctv.com/2025/08/04/ARTIQK1va0OkW3FdwzwSx6ba250803.shtml)
 
++ [武契奇与马克龙通话 讨论双边关系及地区局势](https://news.cctv.com/2025/08/04/ARTIxGLRrGI0kqaX7epdoMHb250804.shtml)
+
++ [联合国自查并承认“文山会海”，古特雷斯：“更少的会议，更精简的报告”](https://news.cctv.com/2025/08/04/ARTILCJ5gfmKgZmNwrpnPRO5250804.shtml)
+
++ [美印关系现裂痕 印度无视特朗普威胁“坚持买俄油”](https://news.cctv.com/2025/08/04/ARTIDVbvw3jh3TvR3830hTYo250804.shtml)
+
++ [内塔尼亚胡重申“消灭”哈马斯](https://news.cctv.com/2025/08/04/ARTIaZL5v7IcnaFt1PIcBaHI250804.shtml)
+

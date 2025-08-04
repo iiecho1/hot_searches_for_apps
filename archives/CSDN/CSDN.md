@@ -155,3 +155,19 @@
 
 + [OAuth 2.0 的安全升级版授权协议 OAuth 2.1 详解](https://blog.csdn.net/luduoyuan/article/details/149858380)
 
++ [SQL 四大语言分类详解：DDL、DML、DCL、DQL](https://blog.csdn.net/2302_78623873/article/details/149862114)
+
++ [SelectDB数据库，新一代实时数据仓库的全面解析与应用](https://blog.csdn.net/beautifulmemory/article/details/149884173)
+
++ [PyTorch生成式人工智能（24）——使用PyTorch构建Transformer模型](https://blog.csdn.net/LOVEmy134611/article/details/146260436)
+
++ [MATLAB实现基于VMD-Transformer变分模态分解（VMD）结合Transformer编码器进行多变量时间序列光伏功率预测的详细项目实例](https://blog.csdn.net/xiaoxingkongyuxi/article/details/149713010)
+
++ [LOVON——面向足式Open-Vocabulary的物体导航：LLM做任务分解、YOLO11做目标检测，最后L2MM将指令和视觉映射为动作(且解决动态模糊)](https://blog.csdn.net/v_JULY_v/article/details/149811647)
+
++ [关于Web前端安全防御之点击劫持的原理及防御措施](https://blog.csdn.net/xyphf/article/details/149865617)
+
++ [动感按钮：如何打造交互感十足的点击动画效果](https://blog.csdn.net/qq_53123067/article/details/149756847)
+
++ [React核心：组件化与虚拟DOM揭秘](https://blog.csdn.net/HTTP404_CN/article/details/149839444)
+

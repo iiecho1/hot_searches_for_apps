@@ -59,3 +59,5 @@
 
 + [微软喊你更新 Office：明年起旧版本不再支持朗读、转录、听写等功能](https://m.ithome.com/html/872644.htm)
 
++ [理想汽车回应 i8 测试争议：东风柳汽乘龙被意外卷入舆情争议，实属无心之举](https://m.ithome.com/html/872767.htm)
+
