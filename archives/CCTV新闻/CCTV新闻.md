@@ -161,3 +161,11 @@
 
 + [泰方组织多国驻泰使节、武官等考察泰柬边境冲突后局势](https://news.cctv.com/2025/08/02/ARTIdg3PWBxK9zSEq09IUIdt250802.shtml)
 
++ [南非政府：美加征关税或致南非3万就业岗位流失](https://news.cctv.com/2025/08/05/ARTI8euIhSI2fyjjBnx18VO1250805.shtml)
+
++ [美国驻海地大使馆附近发生枪击事件 使馆关闭](https://news.cctv.com/2025/08/05/ARTIT4Zkgbaaq16LVsVB1mzb250805.shtml)
+
++ [俄称英情报机构计划制造生态灾难以推动对俄能源制裁](https://news.cctv.com/2025/08/05/ARTI7n8RsrcTSHecAgBO8Xxm250804.shtml)
+
++ [欧盟暂停针对美国关税的两项反制措施6个月](https://news.cctv.com/2025/08/05/ARTInb6fgAS5k4zpzRAyrD8Z250804.shtml)
+
