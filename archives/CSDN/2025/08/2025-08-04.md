@@ -193,3 +193,13 @@
 
 + [【物联网】基于树莓派的物联网开发【21】——MQTT获取树莓派传感器数据广播实战](https://blog.csdn.net/weixin_44504146/article/details/149852199)
 
++ [【GitHub开源AI精选】InftyThink：浙大联合北大打造的无限深度推理范式，突破大模型长推理瓶颈](https://blog.csdn.net/xiaobing259/article/details/149860109)
+
++ [机器翻译的分类：规则式、统计式、神经式MT的核心区别](https://blog.csdn.net/cui_yonghua/article/details/149879479)
+
++ [Spring Security6.3.x使用指南](https://blog.csdn.net/footless_bird/article/details/149898500)
+
++ [Principal Component Analysis (PCA) Application and Exploration](https://blog.csdn.net/JHXL_/article/details/148336912)
+
++ [抖音店铺自研入驻全面指南：利弊深度分析与详细流程解析](https://blog.csdn.net/sixpp/article/details/149857978)
+
