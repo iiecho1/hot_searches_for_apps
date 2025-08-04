@@ -173,3 +173,7 @@
 
 + [内塔尼亚胡重申“消灭”哈马斯](https://news.cctv.com/2025/08/04/ARTIaZL5v7IcnaFt1PIcBaHI250804.shtml)
 
++ [2025成都世运会开幕式烟花秀彩排](https://photo.cctv.com/2025/08/04/PHOAnxsoO6Yw61nduBXqg3jI250804.shtml)
+
++ [韩国军方今起拆除边境地区对朝扩音广播设施](https://news.cctv.com/2025/08/04/ARTIgvwOueBQq0YxXgTVtzfL250804.shtml)
+
