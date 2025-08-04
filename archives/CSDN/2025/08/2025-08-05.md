@@ -137,3 +137,5 @@
 
 + [重生之我在暑假学习微服务第八天《OpenFeign篇》](https://blog.csdn.net/2302_80329073/article/details/149863273)
 
++ [对话式AI语音合成的跨平台远程协作方案由ChatTTS与cpolar共同解决](https://blog.csdn.net/LT15171009269/article/details/149866475)
+

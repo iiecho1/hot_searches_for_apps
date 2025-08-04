@@ -169,3 +169,5 @@
 
 + [欧盟暂停针对美国关税的两项反制措施6个月](https://news.cctv.com/2025/08/05/ARTInb6fgAS5k4zpzRAyrD8Z250804.shtml)
 
++ [英专家：夏季变热或令欧洲用电高峰由冬转夏，今夏热浪“巨大冲击”欧洲能源系统](https://news.cctv.com/2025/08/05/ARTIidAfzOv8DnsqWydHVHIx250805.shtml)
+
