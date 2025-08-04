@@ -183,3 +183,9 @@
 
 + [千岛群岛以东海域发生6.2级地震 震源深度10千米](https://news.cctv.com/2025/08/04/ARTIfv8RN3rNwLPhLdhbhmYi250804.shtml)
 
++ [泰柬边境联合委员会秘书处会议在马来西亚启动](https://news.cctv.com/2025/08/04/ARTI6cZ6IyP6Q1pZpQauTVcB250804.shtml)
+
++ [韩国南部地区迎强降雨 2500多人疏散避险](https://news.cctv.com/2025/08/04/ARTIHUneWHiEDIaIR3cNCNpg250804.shtml)
+
++ [韩国军方开始拆除对朝扩音器：“采取实质性措施缓解韩朝紧张局势”](https://news.cctv.com/2025/08/04/ARTIodLpPfQwH7xNvsStdmqh250804.shtml)
+
