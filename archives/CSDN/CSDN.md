@@ -219,3 +219,13 @@
 
 + [漫画网站|基于SprinBoot+vue的漫画网站(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/149904093)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场情绪分析与投资决策辅助中的应用（379）](https://blog.csdn.net/atgfg/article/details/149886481)
+
++ [Docker Attach 命令：深入理解容器交互机制](https://blog.csdn.net/qq_41840843/article/details/149033302)
+
++ [基于 Spring Boot + Vue 实现人脸采集功能全流程](https://blog.csdn.net/m0_62923286/article/details/149885698)
+
++ [MySQL 索引失效的场景与原因](https://blog.csdn.net/qq_45772447/article/details/149887589)
+
++ [从游戏NPC到手术助手：Agent AI重构多模态交互，具身智能打开AGI新大门](https://blog.csdn.net/weixin_52610848/article/details/149839211)
+

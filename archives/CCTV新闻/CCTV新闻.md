@@ -191,3 +191,7 @@
 
 + [柬埔寨国防部称泰军再次派兵侵入柬领土 泰方暂无回应](https://news.cctv.com/2025/08/04/ARTISmtfHKmIPhhLR2g5AOKE250804.shtml)
 
++ [全球瞭望丨美国学者：亿万富翁左右美国政治](https://news.cctv.com/2025/08/04/ARTI7sgpQmEVevRSgHIV5rQw250804.shtml)
+
++ [专访｜中欧班列助推土耳其边城打造区域物流枢纽——访土耳其卡尔斯市市长厄蒂肯·申盖尔](https://news.cctv.com/2025/08/04/ARTI3wrUcx25oMIAPO3phunB250804.shtml)
+
