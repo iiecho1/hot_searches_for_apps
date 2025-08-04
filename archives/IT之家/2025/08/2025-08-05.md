@@ -49,3 +49,15 @@
 
 + [提前布局市场：Casetify 悄悄上架苹果 iPhone 17 / Air / Pro 系列手机适用保护壳](https://m.ithome.com/html/872753.htm)
 
++ [169 元小米“Xiaomi Life 晴雨伞 闪电黄”首销：原生适配小米汽车收纳槽、防晒级别 UPF50+](https://m.ithome.com/html/872904.htm)
+
++ [网友偶遇荒野求生博主“德爷”送外卖，身穿工服、REDMI 手机抢镜](https://m.ithome.com/html/873003.htm)
+
++ [Linux 之父：我还在用 8 年前的 AMD RX 580 显卡](https://m.ithome.com/html/872822.htm)
+
++ [京东养车回应“震虎价”构成不正当竞争：推 50 亿补贴并重奖征集新名](https://m.ithome.com/html/872979.htm)
+
++ [曝飞牛将启动 NAS“硬件联盟”计划：首款产品基于零刻 ME mini，搭载定制飞牛 OS](https://m.ithome.com/html/872881.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0 (20) Developer Beta2 版本开启推送，相较 Beta1 持续增强能力、改进体验](https://m.ithome.com/html/872997.htm)
+

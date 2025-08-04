@@ -129,3 +129,7 @@
 
 + [Jotai：React轻量级原子化状态管理，告别重渲染困扰](https://blog.csdn.net/TWW844475003/article/details/149862845)
 
++ [AI Agent 重塑产业发展新格局](https://blog.csdn.net/Peter_Changyb/article/details/149883112)
+
++ [渗透高级-----应急响应](https://blog.csdn.net/m0_75008371/article/details/149885148)
+
