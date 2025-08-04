@@ -231,3 +231,15 @@
 
 + [动态置信度调优实战：YOLOv11多目标追踪精度跃迁方案（附完整代码）](https://blog.csdn.net/m0_74385041/article/details/149886614)
 
++ [探访WAIC2025：当AI成为双刃剑，合合信息如何破解真假难题](https://blog.csdn.net/weixin_51390582/article/details/149788311)
+
++ [打造个人数字图书馆：LeaNote+cpolar如何成为你的私有化知识中枢？](https://blog.csdn.net/weixin_62765017/article/details/149910825)
+
++ [飞算 JavaAI 实战：从代码生成到架构优化的全场景应用指南](https://blog.csdn.net/xcshap/article/details/149908621)
+
++ [Java小红书源码1:1还原uniapp_仿小红书源码](https://blog.csdn.net/qq_23996687/article/details/149885818)
+
++ [MySQL 查询四大核心技巧：聚合、分组、联合与子查询详解](https://blog.csdn.net/wxy963/article/details/149809728)
+
++ [【网络安全】日志文件格式](https://blog.csdn.net/qq_41608408/article/details/149887560)
+
