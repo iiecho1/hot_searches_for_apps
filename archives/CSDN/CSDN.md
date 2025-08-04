@@ -105,3 +105,23 @@
 
 + [电商系统定制开发流程：ZKmall开源商城需求分析到上线全程可控](https://blog.csdn.net/zkmall/article/details/149888102)
 
++ [Manual2Skill——让VLM从装配手册中提取装配步骤，随后做姿态估计，最终完成IKEA家具的自动组装(含IKEA-Manuals的详解)](https://blog.csdn.net/v_JULY_v/article/details/149842175)
+
++ [基于Matlab的深度学习智能行人检测与统计系统](https://blog.csdn.net/ZSW1218/article/details/149876446)
+
++ [SpringBoot项目数据脱敏（自定义注解）](https://blog.csdn.net/y_wu794/article/details/149885163)
+
++ [进程生命周期管理：从创建到终止的完整逻辑](https://blog.csdn.net/2302_79376097/article/details/149670919)
+
++ [web前端React和Vue框架与库安全实践](https://blog.csdn.net/xyphf/article/details/149883049)
+
++ [针对大规模数据加载的 Ruoyi TreeTable 优化方案 —— 以 POI 分类集中管理为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/149865804)
+
++ [从HTTP到WebSocket：打造极速实时通讯体验](https://blog.csdn.net/qq_53123067/article/details/149406761)
+
++ [Linux中netstat详细使用指南](https://blog.csdn.net/lmzf2011/article/details/149916117)
+
++ [【物联网】基于树莓派的物联网开发【21】——MQTT获取树莓派传感器数据广播实战](https://blog.csdn.net/weixin_44504146/article/details/149852199)
+
++ [RTSP/RTMP播放器超低延迟实战：无人机远控视觉链路的工程实践](https://blog.csdn.net/renhui1112/article/details/149916767)
+

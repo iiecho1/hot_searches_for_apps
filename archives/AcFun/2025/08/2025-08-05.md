@@ -65,3 +65,5 @@
 
 + [【弱音/MMD】Spit it Out - Dance](https://m.acfun.cn/v/?ac=47682538)
 
++ [【街霸6】2025美国EVO决赛](https://m.acfun.cn/v/?ac=47684330)
+

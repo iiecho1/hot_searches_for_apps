@@ -35,3 +35,17 @@
 
 + [消息称苹果首款自研 CMOS 传感器有望明后年登 iPhone 18/19 系列手机，应用 LOFIC 技术提供高达 20 挡动态范围](https://m.ithome.com/html/872725.htm)
 
++ [华为余承东：尊界 S800 上市 67 天大定突破 10000 台](https://m.ithome.com/html/872827.htm)
+
++ [消息称因销量不佳、库存积压，英伟达 RTX 50 系显卡本月将降价](https://m.ithome.com/html/872802.htm)
+
++ [消息称天玑 9500 处理器 GPU 能效提升超 40%，手机光追有望突破 100 帧](https://m.ithome.com/html/872854.htm)
+
++ [马斯克旗下 xAI 申请注册“Macrohard（巨硬）”商标暗讽微软，有望作为 AI Agent 子公司命名](https://m.ithome.com/html/872758.htm)
+
++ [北汽采购因汛期滞销的 50 亩玉米、5 吨蜂蜜，极狐客户、进店试驾均可获赠](https://m.ithome.com/html/872759.htm)
+
++ [博主“爵爷爱车爱生活”侵权华为被判公开道歉 60 天，赔偿 25 万元](https://m.ithome.com/html/872958.htm)
+
++ [提前布局市场：Casetify 悄悄上架苹果 iPhone 17 / Air / Pro 系列手机适用保护壳](https://m.ithome.com/html/872753.htm)
+
