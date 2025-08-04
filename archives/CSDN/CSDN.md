@@ -183,3 +183,13 @@
 
 + [react 和 react native 的开发过程区别](https://blog.csdn.net/m0_68124243/article/details/149860287)
 
++ [非Docker环境将MicroRos部署到STM32](https://blog.csdn.net/heiheiheiheiheih/article/details/149865879)
+
++ [大模型幻觉的本质：深度=逻辑层次，宽度=组合限制，深度为n的神经网络最多只能处理n层逻辑推理，宽度为w的网络无法区分超过w+1个复杂对象的组合](https://blog.csdn.net/qq_41739364/article/details/149833637)
+
++ [CCF-GESP 等级考试 2025年6月认证C++一级真题解析](https://blog.csdn.net/yuyanjingtao/article/details/149879784)
+
++ [Flutter 事件总线 Event Bus](https://blog.csdn.net/id_EquinoxFlower/article/details/149900363)
+
++ [【物联网】基于树莓派的物联网开发【21】——MQTT获取树莓派传感器数据广播实战](https://blog.csdn.net/weixin_44504146/article/details/149852199)
+
