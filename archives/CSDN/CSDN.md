@@ -229,3 +229,5 @@
 
 + [从游戏NPC到手术助手：Agent AI重构多模态交互，具身智能打开AGI新大门](https://blog.csdn.net/weixin_52610848/article/details/149839211)
 
++ [动态置信度调优实战：YOLOv11多目标追踪精度跃迁方案（附完整代码）](https://blog.csdn.net/m0_74385041/article/details/149886614)
+
