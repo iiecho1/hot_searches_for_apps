@@ -211,3 +211,11 @@
 
 + [【2025/08/03】GitHub 今日热门项目](https://blog.csdn.net/AlbertDS/article/details/149887955)
 
++ [深度学习中的三种Embedding技术详解](https://blog.csdn.net/weixin_41140174/article/details/149882092)
+
++ [如何解决docker拉取镜像报错：Error response from daemon: Get “https://registry-1.docker.io/v2/“: dial tcp镜像拉取超时问](https://blog.csdn.net/qq_44866828/article/details/149878308)
+
++ [在AI时代，如何制定有效的职业规划？AI时代职业规划与产品经理角色](https://blog.csdn.net/weixin_46218781/article/details/149880524)
+
++ [漫画网站|基于SprinBoot+vue的漫画网站(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/149904093)
+
