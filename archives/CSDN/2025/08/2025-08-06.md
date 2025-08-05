@@ -109,3 +109,23 @@
 
 + [网络原理 - TCP/IP](https://blog.csdn.net/liu3290607528/article/details/149859796)
 
++ [AI生成模型革命：从文生图到3D建模，全面重塑工作与产业](https://blog.csdn.net/Liudef06/article/details/149826057)
+
++ [从数据洪流到智能决策：Apache IoTDB如何重塑工业物联网的DB+AI新范式](https://blog.csdn.net/Mrxiao_bo/article/details/149943446)
+
++ [面向千亿级时序数据的选型指南：为什么 Apache IoTDB 正在成为国产替代首选？](https://blog.csdn.net/liu_chen_yang/article/details/149939720)
+
++ [数据可视化发展历程](https://blog.csdn.net/qq_41640218/article/details/149932409)
+
++ [计算机网络：（十三）传输层（中）用户数据报协议 UDP 与 传输控制协议 TCP 概述](https://blog.csdn.net/2402_83322742/article/details/149947743)
+
++ [从物理扇区到路径访问：Linux文件抽象的全景解析](https://blog.csdn.net/2402_84532723/article/details/149639374)
+
++ [AI + 云原生：正在引爆下一代应用的技术革命](https://blog.csdn.net/gptplus/article/details/149886321)
+
++ [服务端⾼并发分布式结构演进之路](https://blog.csdn.net/2301_77509762/article/details/149879296)
+
++ [【目标定位】基于matlab融合车轮里程表和单目摄像头EKF定位【含Matlab源码 13846期】](https://blog.csdn.net/TIQCmatlab/article/details/149935960)
+
++ [漫画网站|基于SprinBoot+vue的漫画网站(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/149904093)
+
