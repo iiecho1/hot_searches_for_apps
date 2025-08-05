@@ -25,3 +25,19 @@
 
 + [比亚迪第五代 DM 技术再进化，NEDC 百公里亏电油耗刷新至 2.6L](https://m.ithome.com/html/873099.htm)
 
++ [比亚迪 App 全新名称投票结束，“成就梦想”当选第一](https://m.ithome.com/html/872817.htm)
+
++ [华为余承东：尊界 S800 上市 67 天大定突破 10000 台](https://m.ithome.com/html/872827.htm)
+
++ [消息称因销量不佳、库存积压，英伟达 RTX 50 系显卡本月将降价](https://m.ithome.com/html/872802.htm)
+
++ [微信员工回应“改手机日期可恢复过期文件”：假得有点离谱](https://m.ithome.com/html/872788.htm)
+
++ [消息称天玑 9500 处理器 GPU 能效提升超 40%，手机光追有望突破 100 帧](https://m.ithome.com/html/872854.htm)
+
++ [169 元小米“Xiaomi Life 晴雨伞 闪电黄”首销：原生适配小米汽车收纳槽、防晒级别 UPF50+](https://m.ithome.com/html/872904.htm)
+
++ [Linux 之父：我还在用 8 年前的 AMD RX 580 显卡](https://m.ithome.com/html/872822.htm)
+
++ [曝飞牛将启动 NAS“硬件联盟”计划：首款产品基于零刻 ME mini，搭载定制飞牛 OS](https://m.ithome.com/html/872881.htm)
+

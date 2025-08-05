@@ -161,3 +161,5 @@
 
 + [伊朗民航组织宣布解除该国领空航班运营时间限制](https://news.cctv.com/2025/08/03/ARTIwANvcVscKuq0yyWDhrgr250803.shtml)
 
++ [印度北部山洪造成至少4人死亡](https://news.cctv.com/2025/08/06/ARTIACyCcfhTkTJ5zYEZzeCc250806.shtml)
+
