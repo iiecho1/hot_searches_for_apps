@@ -163,3 +163,15 @@
 
 + [印度北部山洪造成至少4人死亡](https://news.cctv.com/2025/08/06/ARTIACyCcfhTkTJ5zYEZzeCc250806.shtml)
 
++ [德国报告说外来物种河狸鼠威胁防洪与生态](https://news.cctv.com/2025/08/06/ARTII4JvdXlt8MDXpO9snEGf250806.shtml)
+
++ [巴西将美加征关税行为诉至世贸争端解决机制](https://news.cctv.com/2025/08/06/ARTIjv9NDgWksonOdnDYkjbJ250806.shtml)
+
++ [黎巴嫩真主党：若以色列再发动战争将以武力回应](https://news.cctv.com/2025/08/06/ARTIvqDdUjZ6tLWutaBoRCdQ250806.shtml)
+
++ [法国南部发生森林大火 过火面积达1500公顷](https://news.cctv.com/2025/08/06/ARTIjgHnShkbbywcvlV4cNBi250806.shtml)
+
++ [阿尔及利亚一侦察机在训练时坠毁 致4人死亡](https://news.cctv.com/2025/08/06/ARTISKneLcDo9IPxRszF4CId250806.shtml)
+
++ [以总理决定全面占领加沙 计划将于8月7日提交内阁表决](https://news.cctv.com/2025/08/06/ARTIp3VPYL0QAz2zHlL8r6Bp250806.shtml)
+

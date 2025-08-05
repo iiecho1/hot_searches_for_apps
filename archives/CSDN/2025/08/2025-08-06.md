@@ -131,3 +131,5 @@
 
 + [AI应用架构师助力智能医疗系统架构升级](https://blog.csdn.net/universsky2015/article/details/149951349)
 
++ [PromptPilot AI 肉眼般的视觉感官，又一款工作提效工具](https://blog.csdn.net/m0_57874805/article/details/149898349)
+
