@@ -215,3 +215,5 @@
 
 + [记者手记丨以英伦视角讲述真实中国](https://news.cctv.com/2025/08/05/ARTIb6oHJjts2vwImyE8HwT0250805.shtml)
 
++ [印度一寺庙因过度拥挤引发斗殴致2死](https://news.cctv.com/2025/08/05/ARTI1xVIbcyIejfs5cJqZZsZ250805.shtml)
+

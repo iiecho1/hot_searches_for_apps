@@ -199,3 +199,7 @@
 
 + [【网络安全】不安全的反序列化漏洞](https://blog.csdn.net/Dalik1018/article/details/149910657)
 
++ [AI 对话高效输入指令攻略（四）：AI+Apache ECharts：生成各种专业图表](https://blog.csdn.net/Pocker_Spades_A/article/details/149937054)
+
++ [嵌入式硬件篇---OpenMV存储](https://blog.csdn.net/2301_79556402/article/details/149912925)
+
