@@ -167,3 +167,7 @@
 
 + [豆包新模型+PromptPilot深度评测：提示词工程的智能化突破](https://blog.csdn.net/weixin_66401877/article/details/149899910)
 
++ [安全测试的红线：OWASP Top 10 的 AI 防御方案](https://blog.csdn.net/2503_92849275/article/details/149858450)
+
++ [使用 CodeBuddy IDE + CloudBase 一站式开发卡片翻翻翻游戏](https://blog.csdn.net/qq_33681891/article/details/149934126)
+
