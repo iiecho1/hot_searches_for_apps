@@ -129,3 +129,5 @@
 
 + [漫画网站|基于SprinBoot+vue的漫画网站(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/149904093)
 
++ [AI应用架构师助力智能医疗系统架构升级](https://blog.csdn.net/universsky2015/article/details/149951349)
+
