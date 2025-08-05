@@ -165,3 +165,5 @@
 
 + [从exec到Shell：深度解析Linux进程等待，程序替换与自主Shell实现](https://blog.csdn.net/2402_84532723/article/details/149509950)
 
++ [豆包新模型+PromptPilot深度评测：提示词工程的智能化突破](https://blog.csdn.net/weixin_66401877/article/details/149899910)
+
