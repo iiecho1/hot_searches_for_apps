@@ -173,3 +173,23 @@
 
 + [巴西最高法院下令软禁前总统博索纳罗](https://news.cctv.com/2025/08/05/ARTI4IHEPW0ZCuIwXEwfdz2f250805.shtml)
 
++ [柬泰将举行特别会议 两国围绕领土问题再起争执](https://news.cctv.com/2025/08/05/ARTI1HPieFvdxnh0gRSvFnTG250805.shtml)
+
++ [日本广岛大学再次发现疑似未爆弹](https://news.cctv.com/2025/08/05/ARTIog9YDwcMTFR7YBr9trvb250805.shtml)
+
++ [马赛马拉的生命律动](https://photo.cctv.com/2025/08/05/PHOAdbPEwuG5UIC0MUdsscTr250805.shtml)
+
++ [以媒报道称以总理计划全面占领加沙](https://news.cctv.com/2025/08/05/ARTIvZFECoIlawGuYoFa5Cc2250805.shtml)
+
++ [美将向部分签证申请者收取最高1.5万美元保证金](https://news.cctv.com/2025/08/05/ARTImnSHugOHFXfB18oQYf9p250805.shtml)
+
++ [美得州议会至少51名民主党议员“出走” 共和党籍州长下令逮捕](https://news.cctv.com/2025/08/05/ARTI2e6iuAfxPVJcN7KgrDMR250805.shtml)
+
++ [巴基斯坦暴雨成灾 超300人死亡](https://news.cctv.com/2025/08/05/ARTI6wPfsFrt13AroBANUjON250805.shtml)
+
++ [派遣特使 部署核潜艇 美国能否力压普京会晤泽连斯基](https://news.cctv.com/2025/08/05/ARTIJlvNQ8y7opYVmCquCkWs250805.shtml)
+
++ [莫迪：都来买国货 印媒：这是回应特朗普“死亡经济体”说法](https://news.cctv.com/2025/08/05/ARTIYog76pXJ5UaSGTzjjGT3250805.shtml)
+
++ [柬埔寨发生两起涉中国公民命案 中方敦促柬方严惩凶手](https://news.cctv.com/2025/08/05/ARTIjHlOwRgZ35iUTwvBLdRq250805.shtml)
+

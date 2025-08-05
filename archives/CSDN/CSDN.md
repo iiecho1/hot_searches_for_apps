@@ -143,3 +143,17 @@
 
 + [网页操作自动化解决方案：如何用Browser-Use+CPolar提升企业运营效率](https://blog.csdn.net/YYDsis/article/details/149865222)
 
++ [飞算JavaAI需求转SpringBoot项目沉浸式体验](https://blog.csdn.net/2302_78391795/article/details/149907884)
+
++ [Mysql深入学习：慢sql执行](https://blog.csdn.net/2302_80981029/article/details/149886143)
+
++ [深入浅出 RabbitMQ：工作队列实战（轮训策略VS公平策略）](https://blog.csdn.net/chandfy/article/details/149907223)
+
++ [MATLAB科研数据可视化技术](https://blog.csdn.net/2403_89634305/article/details/149856115)
+
++ [C++ - 基于多设计模式下的同步&异步日志系统（11w字）](https://blog.csdn.net/2301_80863610/article/details/149924592)
+
++ [3 使用 Jenkins 构建镜像：将你的应用打包成镜像](https://blog.csdn.net/unbuntu_luo/article/details/149826989)
+
++ [从功能测试到测试开发：一条心酸却充满意义的转型之路](https://blog.csdn.net/phloveu1/article/details/149914647)
+

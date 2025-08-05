@@ -77,3 +77,5 @@
 
 + [整个AC就我一个安替吗](https://m.acfun.cn/v/?ac=47684308)
 
++ [【东方/爵士】BIRTH OF TWITTER TOHOBU 专辑赏析【ついったー東方部】](https://m.acfun.cn/v/?ac=47663235)
+
