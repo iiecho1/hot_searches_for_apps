@@ -203,3 +203,15 @@
 
 + [卢旺达与美国达成非法移民接收协议](https://news.cctv.com/2025/08/05/ARTIWgAbauIaYtqB5PDRNzIi250805.shtml)
 
++ [美国佛罗里达报告多起生乳相关细菌感染病例](https://news.cctv.com/2025/08/05/ARTI6jeBI0mpnZMlnz7P7OuO250805.shtml)
+
++ [巴西拟就美加征关税提请世贸组织磋商](https://news.cctv.com/2025/08/05/ARTIYpKYNpowEVovfMMqAfMn250805.shtml)
+
++ [以色列防长：以军必须在加沙外围保持永久驻军](https://news.cctv.com/2025/08/05/ARTI5rh8bK9wqoK18C7pilz7250805.shtml)
+
++ [美媒：贸易战恶果显现 美消费者将面临90年来最高平均有效关税](https://news.cctv.com/2025/08/05/ARTIr0o3DstSxQQilAytM1J8250805.shtml)
+
++ [美政府发布关税实施指南 美媒：关税持续带来不确定性](https://news.cctv.com/2025/08/05/ARTIe3YthQmmuWArYUHv7RAb250805.shtml)
+
++ [记者手记丨以英伦视角讲述真实中国](https://news.cctv.com/2025/08/05/ARTIb6oHJjts2vwImyE8HwT0250805.shtml)
+

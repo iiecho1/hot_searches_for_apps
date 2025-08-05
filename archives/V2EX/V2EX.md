@@ -53,3 +53,7 @@
 
 + [20250805 - Cold Wallet 操作说明](https://www.v2ex.com/t/1150107)
 
++ [推荐个博主-王局拍案（王志安）](https://www.v2ex.com/t/1150066)
+
++ [可以给币圈新人回答关闭币圈任何操作上问题](https://www.v2ex.com/t/1149983)
+
