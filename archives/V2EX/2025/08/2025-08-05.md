@@ -51,3 +51,5 @@
 
 + [教程：入场持有社区代币$V2EX](https://www.v2ex.com/t/1149911)
 
++ [20250805 - Cold Wallet 操作说明](https://www.v2ex.com/t/1150107)
+
