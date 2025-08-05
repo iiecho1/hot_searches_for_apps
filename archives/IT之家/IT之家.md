@@ -77,3 +77,11 @@
 
 + [比亚迪第五代 DM 技术再进化，NEDC 百公里亏电油耗刷新至 2.6L](https://m.ithome.com/html/873099.htm)
 
++ [淘宝即将上线大会员体系：打通饿了么飞猪盒马，88VIP 权益全面升级](https://m.ithome.com/html/873179.htm)
+
++ [行业首家支持鸿蒙 HarmonyOS NEXT 换机克隆，荣耀上新“换机克隆”App](https://m.ithome.com/html/873134.htm)
+
++ [库克：从未对苹果的产品规划感到如此兴奋](https://m.ithome.com/html/873045.htm)
+
++ [全新小鹏 P7 内饰亮相：三轴灵动屏、一体式运动座椅](https://m.ithome.com/html/873086.htm)
+
