@@ -193,3 +193,5 @@
 
 + [柬埔寨发生两起涉中国公民命案 中方敦促柬方严惩凶手](https://news.cctv.com/2025/08/05/ARTIjHlOwRgZ35iUTwvBLdRq250805.shtml)
 
++ [日本名古屋市市长：希望与友好城市南京恢复交流](https://news.cctv.com/2025/08/05/ARTI3qUMQVsDo1MLDx3GpkZ6250805.shtml)
+
