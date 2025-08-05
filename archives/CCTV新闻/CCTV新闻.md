@@ -171,3 +171,5 @@
 
 + [英专家：夏季变热或令欧洲用电高峰由冬转夏，今夏热浪“巨大冲击”欧洲能源系统](https://news.cctv.com/2025/08/05/ARTIidAfzOv8DnsqWydHVHIx250805.shtml)
 
++ [巴西最高法院下令软禁前总统博索纳罗](https://news.cctv.com/2025/08/05/ARTI4IHEPW0ZCuIwXEwfdz2f250805.shtml)
+

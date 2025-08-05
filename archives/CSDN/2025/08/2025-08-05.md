@@ -139,3 +139,7 @@
 
 + [对话式AI语音合成的跨平台远程协作方案由ChatTTS与cpolar共同解决](https://blog.csdn.net/LT15171009269/article/details/149866475)
 
++ [Java 大视界 -- Java 大数据在智能教育学习资源个性化推荐与学习路径动态调整中的深度应用（378）](https://blog.csdn.net/atgfg/article/details/149883927)
+
++ [网页操作自动化解决方案：如何用Browser-Use+CPolar提升企业运营效率](https://blog.csdn.net/YYDsis/article/details/149865222)
+
