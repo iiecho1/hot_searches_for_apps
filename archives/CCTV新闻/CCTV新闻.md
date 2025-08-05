@@ -197,3 +197,7 @@
 
 + [俄罗斯克柳切夫火山喷发 火山灰高度达8000米](https://news.cctv.com/2025/08/05/ARTIYyZuLhEow1KN70s5T2nN250805.shtml)
 
++ [俄研究机构：俄堪察加半岛南部因地震向东南移动近2米](https://news.cctv.com/2025/08/05/ARTIMzY4NZHrllPWvdCyKV8c250805.shtml)
+
++ [美国波音军机组装业务面临停工](https://news.cctv.com/2025/08/05/ARTI6cyWZZk0QjZWDSG46YV0250805.shtml)
+

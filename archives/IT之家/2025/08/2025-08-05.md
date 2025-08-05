@@ -61,3 +61,19 @@
 
 + [华为鸿蒙 HarmonyOS 6.0.0 (20) Developer Beta2 版本开启推送，相较 Beta1 持续增强能力、改进体验](https://m.ithome.com/html/872997.htm)
 
++ [33.98 万元：理想 i8 宣布改为统一版本，标配车载冰箱，赠送铂金音响](https://m.ithome.com/html/873122.htm)
+
++ [盒马即将告别 X 会员店，最后一家门店 8 月 31 日停业](https://m.ithome.com/html/873026.htm)
+
++ [华为鸿蒙 HarmonyOS 升级尝鲜指南发布：该功能支持设备更新至测试版系统，活动当前筹备中](https://m.ithome.com/html/873040.htm)
+
++ [Wi-Fi 8 预计 2028 年见：支持无缝漫游、多接入点协调等特性，未来十年有望应用于数十亿终端设备](https://m.ithome.com/html/873043.htm)
+
++ [华为向鸿蒙 HarmonyOS 5.1 版本机型推送系统补丁，新增“升级尝鲜”入口](https://m.ithome.com/html/873033.htm)
+
++ [小米汽车：4K 云台摄像头工作时外壳摸起来热是正常的，不会影响产品安全使用和寿命](https://m.ithome.com/html/873034.htm)
+
++ [苹果“史上最薄”iPhone 17 Air 电池实物再曝：金属外壳、厚 2.49 毫米](https://m.ithome.com/html/873065.htm)
+
++ [比亚迪第五代 DM 技术再进化，NEDC 百公里亏电油耗刷新至 2.6L](https://m.ithome.com/html/873099.htm)
+

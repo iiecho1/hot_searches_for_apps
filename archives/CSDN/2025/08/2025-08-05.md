@@ -171,3 +171,11 @@
 
 + [使用 CodeBuddy IDE + CloudBase 一站式开发卡片翻翻翻游戏](https://blog.csdn.net/qq_33681891/article/details/149934126)
 
++ [【AI大模型前沿】百度飞桨PaddleOCR 3.0开源发布，支持多语言、手写体识别，赋能智能文档处理](https://blog.csdn.net/xiaobing259/article/details/149860266)
+
++ [阿里刚刚开源Qwen-Image，免费版GPT-4o吉卜力，中文最好模型](https://blog.csdn.net/m0_64355285/article/details/149935316)
+
++ [Vue3核心语法进阶（生命周期）](https://blog.csdn.net/2301_78209919/article/details/149865881)
+
++ [电脑忘记开机密码怎么办？【图文详解】5种方法重置/更改/取消/设置开机密码？](https://blog.csdn.net/Chen_Tongsheng/article/details/149913808)
+
