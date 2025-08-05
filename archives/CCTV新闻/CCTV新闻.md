@@ -175,3 +175,5 @@
 
 + [以总理决定全面占领加沙 计划将于8月7日提交内阁表决](https://news.cctv.com/2025/08/06/ARTIp3VPYL0QAz2zHlL8r6Bp250806.shtml)
 
++ [黎政府推动年底前实现国家对武器统一管控](https://news.cctv.com/2025/08/06/ARTITLH5v8voSL0yBlp0RR8F250806.shtml)
+
