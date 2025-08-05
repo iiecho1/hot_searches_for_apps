@@ -157,3 +157,11 @@
 
 + [从功能测试到测试开发：一条心酸却充满意义的转型之路](https://blog.csdn.net/phloveu1/article/details/149914647)
 
++ [【HALCON工业视觉应用探索】1. C# + HALCON柔性电路板（FPC）金箔定位：从0到1实现曲面匹配的工业落地路径](https://blog.csdn.net/weixin_39815573/article/details/149912178)
+
++ [Apache InLong：构建10万亿级数据管道的全场景集成框架](https://blog.csdn.net/2301_79139273/article/details/149914690)
+
++ [百度翻译详解：包括PaddleNLP、百度AI开放平台、接口逆向（包括完整代码）](https://blog.csdn.net/cui_yonghua/article/details/149903069)
+
++ [从exec到Shell：深度解析Linux进程等待，程序替换与自主Shell实现](https://blog.csdn.net/2402_84532723/article/details/149509950)
+
