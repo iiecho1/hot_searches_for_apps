@@ -201,3 +201,5 @@
 
 + [美国波音军机组装业务面临停工](https://news.cctv.com/2025/08/05/ARTI6cyWZZk0QjZWDSG46YV0250805.shtml)
 
++ [卢旺达与美国达成非法移民接收协议](https://news.cctv.com/2025/08/05/ARTIWgAbauIaYtqB5PDRNzIi250805.shtml)
+

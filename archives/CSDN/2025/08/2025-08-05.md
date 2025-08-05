@@ -179,3 +179,11 @@
 
 + [电脑忘记开机密码怎么办？【图文详解】5种方法重置/更改/取消/设置开机密码？](https://blog.csdn.net/Chen_Tongsheng/article/details/149913808)
 
++ [Kubernetes实战：从部署到实用案例](https://blog.csdn.net/qq_44273429/article/details/149935503)
+
++ [【数据迁移】Windows11 下将 Ubuntu 从 C 盘迁移到 D 盘](https://blog.csdn.net/Hisser/article/details/149881051)
+
++ [验证码等待时间技术在酒店自助入住、美容自助与社区场景中的应用必要性研究—仙盟创梦IDE](https://blog.csdn.net/cybersnow/article/details/149916707)
+
++ [2025年信创政策解读：如何应对国产化替代挑战？（附禅道/飞书多维表格/华为云DevCloud实战指南）](https://blog.csdn.net/qq_29893481/article/details/149900952)
+
