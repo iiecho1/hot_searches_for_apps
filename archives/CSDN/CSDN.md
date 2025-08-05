@@ -203,3 +203,7 @@
 
 + [嵌入式硬件篇---OpenMV存储](https://blog.csdn.net/2301_79556402/article/details/149912925)
 
++ [豆包新模型与 PromptPilot 实操体验测评，AI 辅助创作的新范式探索](https://blog.csdn.net/beautifulmemory/article/details/149882342)
+
++ [Nginx服务做负载均衡网关](https://blog.csdn.net/shijin741231/article/details/149905966)
+

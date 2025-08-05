@@ -217,3 +217,9 @@
 
 + [印度一寺庙因过度拥挤引发斗殴致2死](https://news.cctv.com/2025/08/05/ARTI1xVIbcyIejfs5cJqZZsZ250805.shtml)
 
++ [两名中国公民在印尼巴厘岛快艇倾覆事故中遇难](https://news.cctv.com/2025/08/05/ARTI7PZFxITzUHzLF4gXC4sm250805.shtml)
+
++ [欧盟暂停对美关税反制措施 保留重启反制选项](https://news.cctv.com/2025/08/05/ARTIhEeEAxBgoVFLiKDaR1ih250805.shtml)
+
++ [欧盟暂停对美关税反制 多个成员国批评软弱](https://news.cctv.com/2025/08/05/ARTI6WRuvfXyzKOiEF2Gtn0m250805.shtml)
+
