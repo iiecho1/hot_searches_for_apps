@@ -179,3 +179,11 @@
 
 + [Linux网络编程：TCP初体验](https://blog.csdn.net/htw250056/article/details/149904741)
 
++ [Apache IoTDB（3）：时序数据库 IoTDB Docker部署从单机到集群的全场景部署与实践指南](https://blog.csdn.net/Dreamy_zsy/article/details/149901830)
+
++ [体系化AI开发方案：豆包新模型矩阵与PromptPilot自动化调优平台深度解析](https://blog.csdn.net/2301_80863610/article/details/149966791)
+
++ [单元测试、系统测试、集成测试知识详解](https://blog.csdn.net/zhangsiyuan1998/article/details/149905043)
+
++ [重生之我在暑假学习微服务第十天《网关篇》](https://blog.csdn.net/2302_80329073/article/details/149942615)
+

@@ -241,3 +241,11 @@
 
 + [法国森林大火已致1人死亡 过火面积已超1.1万公顷](https://news.cctv.com/2025/08/06/ARTIMe3Gh5zi8cONsMl8OclB250806.shtml)
 
++ [美媒：美拟2030年前在月球建成核反应堆](https://news.cctv.com/2025/08/06/ARTIA0iQLyQPPBDLwkRyRGXg250806.shtml)
+
++ [泽连斯基批准乌国家安全局对俄新作战行动 涉远程打击](https://news.cctv.com/2025/08/06/ARTIRTmKDdAafhs7Cu35GLw9250806.shtml)
+
++ [一援助物资运输车在加沙地带侧翻致20人死亡](https://news.cctv.com/2025/08/06/ARTIP3WJ5pFdLZcLiYklCN7C250806.shtml)
+
++ [波兰当选总统纳夫罗茨基宣誓就职](https://news.cctv.com/2025/08/06/ARTIaoymfuyyLfS7pQPYWPZ8250806.shtml)
+
