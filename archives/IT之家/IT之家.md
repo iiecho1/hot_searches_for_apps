@@ -65,3 +65,15 @@
 
 + [“投华”品牌比想象中更多：零跑汽车被爆正跟华为洽谈合作](https://m.ithome.com/html/873286.htm)
 
++ [消息称苹果 iPhone 17 系列发布会定于 9 月 9 日举行，邀请函或 9 月 2 日发出](https://m.ithome.com/html/873325.htm)
+
++ [英伟达再度深夜发声：我们的芯片不存在后门、终止开关、监控软件](https://m.ithome.com/html/873301.htm)
+
++ [淘宝上线“大会员”体系：打通饿了么、飞猪、菜鸟、高德地图](https://m.ithome.com/html/873328.htm)
+
++ [苹果 iOS 26 新特性：低电量动画上线，焕新隔空投送图标](https://m.ithome.com/html/873298.htm)
+
++ [马斯克的 Grok 可生成名人裸体视频，年龄验证被指形同虚设](https://m.ithome.com/html/873341.htm)
+
++ [苹果焕新 macOS 26 硬盘图标：告别 Macintosh HD，拥抱固态 SSD](https://m.ithome.com/html/873314.htm)
+

@@ -195,3 +195,17 @@
 
 + [微信小程序功能实现：页面导航与跳转](https://blog.csdn.net/learning_tom/article/details/149944878)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场情绪分析与投资决策辅助中的应用（379）](https://blog.csdn.net/atgfg/article/details/149886481)
+
++ [看不见的伪造痕迹：AI时代的鉴伪攻防战](https://blog.csdn.net/master_hunter/article/details/149973879)
+
++ [SpringBoot 整合Langchain4j 对接主流大模型实战详解](https://blog.csdn.net/zhangcongyi420/article/details/148972803)
+
++ [React 表单处理：移动端输入场景下的卡顿问题与防抖优化方案](https://blog.csdn.net/u014727709/article/details/149973254)
+
++ [Baumer相机如何通过YoloV8深度学习模型实现工厂自动化产线牛奶瓶盖实时装配的检测识别（C#代码UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/149930218)
+
++ [学习游戏制作记录（将各种属性应用于战斗以及实体的死亡）8.5](https://blog.csdn.net/2503_90719681/article/details/149948646)
+
++ [电脑忘记开机密码怎么办？【图文详解】5种方法重置/更改/取消/设置开机密码？](https://blog.csdn.net/Chen_Tongsheng/article/details/149913808)
+
