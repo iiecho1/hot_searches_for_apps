@@ -225,3 +225,9 @@
 
 + [韩国9月29日起对中国团队游客实行临时免签政策](https://news.cctv.com/2025/08/06/ARTIxlQzSDQd69pNXrpTTNyo250806.shtml)
 
++ [伊朗处决一名向以色列提供核科学家信息的间谍](https://news.cctv.com/2025/08/06/ARTIJdRmUS6t5JzfkCRJZSuw250806.shtml)
+
++ [关税伤了谁？福特的代价与反击](https://news.cctv.com/2025/08/06/ARTIKmSBWTw2kddgUkvi8Tqx250806.shtml)
+
++ [美国中东问题特使飞抵莫斯科](https://news.cctv.com/2025/08/06/ARTIf7EdggHfp57o8FxnwGmW250806.shtml)
+
