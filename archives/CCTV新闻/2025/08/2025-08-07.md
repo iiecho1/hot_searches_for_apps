@@ -163,3 +163,7 @@
 
 + [美国对巴西关税措施生效 两国财长将于下周通话](https://news.cctv.com/2025/08/07/ARTIXjxTmHS6BRGgawGdsEEv250807.shtml)
 
++ [特朗普称美俄会谈富有成效 白宫官员预计美仍将对俄实施制裁](https://news.cctv.com/2025/08/07/ARTI3tFPm18lmL6JATH9i95X250807.shtml)
+
++ [俄称乌拒绝接收1000名战俘 乌方暂无回应](https://news.cctv.com/2025/08/07/ARTIm79kQafumu0Bn2Tkq0a3250807.shtml)
+

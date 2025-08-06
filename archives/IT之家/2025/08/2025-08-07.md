@@ -51,3 +51,9 @@
 
 + [最年轻华人太空人：波场联合创始人孙宇晨完成亚轨道太空飞行](https://m.ithome.com/html/873052.htm)
 
++ [全新小鹏 P7 开启预售：全系标配 800V 架构 + 5C 电池，零百加速 3.7s](https://m.ithome.com/html/873544.htm)
+
++ [美团：请所有骑手喝奶茶，请奶茶店员按摩](https://m.ithome.com/html/873535.htm)
+
++ [蔚来沈斐怒挂聊天记录：理想 i8 销售截胡乐道 L90，希望伙伴们更努力一些](https://m.ithome.com/html/873487.htm)
+
