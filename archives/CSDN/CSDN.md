@@ -189,3 +189,9 @@
 
 + [基于华为开发者空间的Open WebUI数据分析与可视化实战](https://blog.csdn.net/weixin_41793160/article/details/149935680)
 
++ [【WAIC 2025】AI安全的攻防前线：合合信息AI鉴伪检测技术](https://blog.csdn.net/wtyuong/article/details/149972165)
+
++ [Docker Compose管理新范式：可视化控制台结合cpolar提升容器编排效率？](https://blog.csdn.net/LT15171009269/article/details/149948686)
+
++ [微信小程序功能实现：页面导航与跳转](https://blog.csdn.net/learning_tom/article/details/149944878)
+
