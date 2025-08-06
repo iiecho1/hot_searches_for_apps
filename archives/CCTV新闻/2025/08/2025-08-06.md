@@ -177,3 +177,11 @@
 
 + [黎政府推动年底前实现国家对武器统一管控](https://news.cctv.com/2025/08/06/ARTITLH5v8voSL0yBlp0RR8F250806.shtml)
 
++ [以推动“全面占领”一天致83加沙人死亡！埃总统谴责：种族灭绝](https://news.cctv.com/2025/08/06/ARTIC83ZHCSXUvAA5dSstPB6250806.shtml)
+
++ [赞比亚和马拉维被美列入签证保证金国家名单](https://news.cctv.com/2025/08/06/ARTIAqZXmBElm6lU3R7n0q69250806.shtml)
+
++ [【8点见】印尼巴厘岛快艇事故致中国公民2死6伤](https://news.cctv.com/2025/08/06/ARTIsqHM0fvTNV1AhUZYNfmg250806.shtml)
+
++ [专家分析：以总理推动“占领加沙”将使战事旷日持久](https://news.cctv.com/2025/08/06/ARTIDfXDdtuq6Mcdt4Dfi4oN250806.shtml)
+

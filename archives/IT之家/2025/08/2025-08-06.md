@@ -49,3 +49,13 @@
 
 + [全新小鹏 P7 内饰亮相：三轴灵动屏、一体式运动座椅](https://m.ithome.com/html/873086.htm)
 
++ [李想回应理想 i8 统一配置版本：此前陷入惯性思维，期待后续销量表现](https://m.ithome.com/html/873155.htm)
+
++ [小米 14 手机 16G+1T 版 4999 → 2780 元 24 期免息，配骁龙 8 Gen3 处理器](https://m.ithome.com/html/873252.htm)
+
++ [大众全球最大 SUV：26.99 万元起一汽-大众全新揽境正式上市](https://m.ithome.com/html/873264.htm)
+
++ [最年轻华人太空人：波场联合创始人孙宇晨完成亚轨道太空飞行](https://m.ithome.com/html/873052.htm)
+
++ [消息称本月多家厂商将开启新系统 Beta 内测，小米澎湃 HyperOS 3 等有望到来](https://m.ithome.com/html/873241.htm)
+
