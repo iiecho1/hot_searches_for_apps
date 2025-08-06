@@ -167,3 +167,9 @@
 
 + [俄称乌拒绝接收1000名战俘 乌方暂无回应](https://news.cctv.com/2025/08/07/ARTIm79kQafumu0Bn2Tkq0a3250807.shtml)
 
++ [尼日利亚向该国19个州发布洪灾预警](https://news.cctv.com/2025/08/07/ARTIpXk5fn41HGZGtIM391PH250807.shtml)
+
++ [菲律宾总统下令自9月1日起暂停大米进口60天](https://news.cctv.com/2025/08/07/ARTIwdawDxNdHc683aIRD3TA250807.shtml)
+
++ [中方强调在实现防扩散目标的同时捍卫和平利用权利](https://news.cctv.com/2025/08/07/ARTI501o3HEBzTONaFDsoleO250807.shtml)
+
