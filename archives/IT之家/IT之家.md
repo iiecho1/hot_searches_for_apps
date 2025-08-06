@@ -45,3 +45,9 @@
 
 + [上汽名爵全新 MG4 汽车预售发布：全球首发半固态电池批量上车、OPPO 智行手车互联，7.38 万元起](https://m.ithome.com/html/873253.htm)
 
++ [苹果“史上最薄”iPhone 17 Air 电池实物再曝：金属外壳、厚 2.49 毫米](https://m.ithome.com/html/873065.htm)
+
++ [库克：从未对苹果的产品规划感到如此兴奋](https://m.ithome.com/html/873045.htm)
+
++ [最年轻华人太空人：波场联合创始人孙宇晨完成亚轨道太空飞行](https://m.ithome.com/html/873052.htm)
+

@@ -161,3 +161,5 @@
 
 + [美得州议会至少51名民主党议员“出走” 共和党籍州长下令逮捕](https://news.cctv.com/2025/08/05/ARTI2e6iuAfxPVJcN7KgrDMR250805.shtml)
 
++ [美国对巴西关税措施生效 两国财长将于下周通话](https://news.cctv.com/2025/08/07/ARTIXjxTmHS6BRGgawGdsEEv250807.shtml)
+
