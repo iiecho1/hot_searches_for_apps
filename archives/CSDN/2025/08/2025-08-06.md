@@ -169,3 +169,11 @@
 
 + [各种信号分解、模态分解方法合集【MATLAB实现】](https://blog.csdn.net/2408_88910159/article/details/149913347)
 
++ [【AI大模型前沿】Stream-Omni：多模态交互的黄金三角 - 视觉、语音、文本的完美融合](https://blog.csdn.net/xiaobing259/article/details/149860367)
+
++ [AI 的「成本」，正在把所有人都拖下水](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/149950006)
+
++ [（四十四）深度解析领域特定语言（DSL）第八章——语法分析器组合子思想概述](https://blog.csdn.net/weixin_46217641/article/details/149957353)
+
++ [Maven - 依赖的生命周期详解](https://blog.csdn.net/Tang_is_learning/article/details/149885696)
+

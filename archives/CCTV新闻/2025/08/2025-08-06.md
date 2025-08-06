@@ -217,3 +217,11 @@
 
 + [特朗普首次明确表态：万斯最有可能是“我的接班人”](https://news.cctv.com/2025/08/06/ARTITZxLQ8eUP5Pz3c6oOraT250806.shtml)
 
++ [英国民航局首次向英国公司颁发火箭发射许可证](https://news.cctv.com/2025/08/06/ARTIqcVuqOJHZS5HtsKM5E72250806.shtml)
+
++ [身处“矛盾时期” 以色列一意孤行将引中东更大危机？](https://news.cctv.com/2025/08/06/ARTIdTeoOSiOjM4ANNHeAyzg250806.shtml)
+
++ [为“北约援乌新机制”砸下5亿欧元 荷兰为啥率先出头？](https://news.cctv.com/2025/08/06/ARTIjzuGRNKNthzydOKUPjfB250806.shtml)
+
++ [韩国9月29日起对中国团队游客实行临时免签政策](https://news.cctv.com/2025/08/06/ARTIxlQzSDQd69pNXrpTTNyo250806.shtml)
+
