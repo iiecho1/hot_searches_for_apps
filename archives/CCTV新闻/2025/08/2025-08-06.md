@@ -249,3 +249,5 @@
 
 + [波兰当选总统纳夫罗茨基宣誓就职](https://news.cctv.com/2025/08/06/ARTIaoymfuyyLfS7pQPYWPZ8250806.shtml)
 
++ [广岛核爆80周年 日本民众抗议政府实施军备扩张](https://news.cctv.com/2025/08/06/ARTIlfwLGgAqNz8ZnuwL122z250806.shtml)
+

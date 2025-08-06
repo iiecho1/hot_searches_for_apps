@@ -187,3 +187,5 @@
 
 + [重生之我在暑假学习微服务第十天《网关篇》](https://blog.csdn.net/2302_80329073/article/details/149942615)
 
++ [基于华为开发者空间的Open WebUI数据分析与可视化实战](https://blog.csdn.net/weixin_41793160/article/details/149935680)
+
