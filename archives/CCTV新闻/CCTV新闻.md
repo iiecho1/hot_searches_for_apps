@@ -251,3 +251,5 @@
 
 + [广岛核爆80周年 日本民众抗议政府实施军备扩张](https://news.cctv.com/2025/08/06/ARTIlfwLGgAqNz8ZnuwL122z250806.shtml)
 
++ [近六成德企担忧欧美贸易协议将加重企业负担](https://news.cctv.com/2025/08/06/ARTIUIYhHIQg8YKLJgI0VOUh250806.shtml)
+

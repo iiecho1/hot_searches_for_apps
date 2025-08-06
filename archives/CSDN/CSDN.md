@@ -209,3 +209,11 @@
 
 + [电脑忘记开机密码怎么办？【图文详解】5种方法重置/更改/取消/设置开机密码？](https://blog.csdn.net/Chen_Tongsheng/article/details/149913808)
 
++ [Ubuntu系统VScode实现opencv（c++）图像一维直方图](https://blog.csdn.net/2402_84165995/article/details/149899135)
+
++ [Spark SQL：用SQL玩转大数据](https://blog.csdn.net/Daoyiyun/article/details/149899663)
+
++ [ROS2机器人编程新书推荐-2025-精通ROS 2机器人编程：使用ROS 2进行复杂机器人的设计、构建、仿真与原型开发（第四版）](https://blog.csdn.net/ZhangRelay/article/details/149915260)
+
++ [【Linux系统】进程间通信：命名管道](https://blog.csdn.net/2402_82670467/article/details/149949063)
+
