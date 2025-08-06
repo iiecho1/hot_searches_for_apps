@@ -77,3 +77,11 @@
 
 + [苹果焕新 macOS 26 硬盘图标：告别 Macintosh HD，拥抱固态 SSD](https://m.ithome.com/html/873314.htm)
 
++ [宝马 i 系列汽车设计主管 Kai Langer 宣布加入小米](https://m.ithome.com/html/873496.htm)
+
++ [理想汽车、中国汽研、东风柳汽发布关于理想 i8 碰撞测试相关事件的联合声明](https://m.ithome.com/html/873533.htm)
+
++ [小米磁吸支架充电宝 10000 7.5W 预约开启：33W MAX 快充，169 元](https://m.ithome.com/html/873394.htm)
+
++ [今日起坐电梯用“支付宝碰一下”抢 1 亿元红包](https://m.ithome.com/html/873476.htm)
+
