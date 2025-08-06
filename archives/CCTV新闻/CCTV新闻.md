@@ -231,3 +231,13 @@
 
 + [美国中东问题特使飞抵莫斯科](https://news.cctv.com/2025/08/06/ARTIf7EdggHfp57o8FxnwGmW250806.shtml)
 
++ [多地气温超40℃ 热浪席卷西班牙及葡萄牙](https://news.cctv.com/2025/08/06/ARTI1w8HukyiSk1v5uCt47fT250806.shtml)
+
++ [美考虑对俄“影子舰队”实施新制裁](https://news.cctv.com/2025/08/06/ARTI5VXvB9iClRdR9OdEJqDQ250806.shtml)
+
++ [苏丹卫生部：新一轮霍乱疫情已致2408人死亡](https://news.cctv.com/2025/08/06/ARTITKg7PQSnrYGsFZ4vLgzn250806.shtml)
+
++ [西班牙政府搁置购买美国F-35战斗机计划](https://news.cctv.com/2025/08/06/ARTIi1hZEmzIG2xzBnMh5TVd250806.shtml)
+
++ [法国森林大火已致1人死亡 过火面积已超1.1万公顷](https://news.cctv.com/2025/08/06/ARTIMe3Gh5zi8cONsMl8OclB250806.shtml)
+
