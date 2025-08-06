@@ -123,3 +123,5 @@
 
 + [基于单片机智能鱼缸/水族箱/水产养殖系统设计](https://blog.csdn.net/Holidaylive/article/details/149895628)
 
++ [.NET8 正式发布， C#12 新变化](https://blog.csdn.net/weixin_44064908/article/details/149923080)
+
