@@ -125,3 +125,9 @@
 
 + [.NET8 正式发布， C#12 新变化](https://blog.csdn.net/weixin_44064908/article/details/149923080)
 
++ [Spring Bean 生命周期详解：从创建到销毁的完整旅程](https://blog.csdn.net/m0_62605516/article/details/149836072)
+
++ [TensorFlow深度学习实战（28）——扩散模型（Diffusion Model）](https://blog.csdn.net/LOVEmy134611/article/details/144569256)
+
++ [LVQ_在金融风险评估中的应用(附DeepSeek行业解决方案100+)](https://blog.csdn.net/ashyyyy/article/details/149960350)
+
