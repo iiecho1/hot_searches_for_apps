@@ -137,3 +137,11 @@
 
 + [【分享】拼团交易平台系统，分布式、高并发、微服务](https://blog.csdn.net/Yao__Shun__Yu/article/details/149903284)
 
++ [《Linux编译器：gcc/g++食用指南》](https://blog.csdn.net/2401_86326742/article/details/149945295)
+
++ [八股——Kafka相关](https://blog.csdn.net/wuxuanok/article/details/149886402)
+
++ [站在前端的角度，看鸿蒙页面布局](https://blog.csdn.net/ldc121xy716/article/details/149936712)
+
++ [技术与情感交织的一生 （十一）](https://blog.csdn.net/michaelline/article/details/149571389)
+

@@ -185,3 +185,23 @@
 
 + [专家分析：以总理推动“占领加沙”将使战事旷日持久](https://news.cctv.com/2025/08/06/ARTIDfXDdtuq6Mcdt4Dfi4oN250806.shtml)
 
++ [联邦资助被削减 美国斯坦福大学已裁员360余人](https://news.cctv.com/2025/08/06/ARTIrQNQRpxxsSDpJKULrySx250806.shtml)
+
++ [俄罗斯堪察加半岛克柳切夫火山喷发](https://photo.cctv.com/2025/08/06/PHOAwlA5bIq0YrHMhxQDa6lg250806.shtml)
+
++ [以色列国内多方反对扩大加沙战事](https://news.cctv.com/2025/08/06/ARTItqlXaQSMQeH3nGkeBURO250806.shtml)
+
++ [法国南部森林大火过火面积达1万公顷 9人烧伤](https://news.cctv.com/2025/08/06/ARTIumJUYzrFnrlkYDYMX87x250806.shtml)
+
++ [黎巴嫩政府推动年底前实现国家对武器统一管控](https://news.cctv.com/2025/08/06/ARTI2F3naB7mOmMOLxr3Fy2z250806.shtml)
+
++ [受美国关税政策影响 马自达二季度陷入巨亏](https://news.cctv.com/2025/08/06/ARTImaMay4N202opq03W3h6j250806.shtml)
+
++ [美国一医疗运输飞机坠毁 4人死亡](https://news.cctv.com/2025/08/06/ARTIlBDhlw23wimQeXmL4i0I250806.shtml)
+
++ [墨西哥总统：已与美国就双边安全达成新协议](https://news.cctv.com/2025/08/06/ARTIEbTY2iyxe2bzzS7hzoka250806.shtml)
+
++ [剑指中期选举 特朗普发声挺得州 民主党誓言“以牙还牙”](https://news.cctv.com/2025/08/06/ARTI1deNW4xxDPpq0UM2KXpc250806.shtml)
+
++ [涉多项嫌疑 韩国前总统尹锡悦夫人金建希接受特检组首次调查](https://news.cctv.com/2025/08/06/ARTI1pdb2x6mz0maeGgHVQFg250806.shtml)
+
