@@ -59,3 +59,9 @@
 
 + [消息称本月多家厂商将开启新系统 Beta 内测，小米澎湃 HyperOS 3 等有望到来](https://m.ithome.com/html/873241.htm)
 
++ [苹果 iOS / iPadOS 26 开发者预览版 Beta 5 发布：增强相机、邮件应用等](https://m.ithome.com/html/873293.htm)
+
++ [上汽名爵全新 MG4 汽车预售发布：全球首发半固态电池批量上车、OPPO 智行手车互联，7.38 万元起](https://m.ithome.com/html/873253.htm)
+
++ [“投华”品牌比想象中更多：零跑汽车被爆正跟华为洽谈合作](https://m.ithome.com/html/873286.htm)
+

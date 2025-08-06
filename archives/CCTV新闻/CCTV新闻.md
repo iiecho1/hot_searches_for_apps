@@ -205,3 +205,15 @@
 
 + [涉多项嫌疑 韩国前总统尹锡悦夫人金建希接受特检组首次调查](https://news.cctv.com/2025/08/06/ARTI1pdb2x6mz0maeGgHVQFg250806.shtml)
 
++ [马来西亚媒体：美发起关税战扰乱贸易秩序 全球南方合作向未来](https://news.cctv.com/2025/08/06/ARTI98QTtMVZohahUaVjxK40250806.shtml)
+
++ [关税阴影下，美国零售业之“怪现象”](https://news.cctv.com/2025/08/06/ARTIKL9io950feHioYtcYRAq250806.shtml)
+
++ [非洲国家加快农业数字化转型](https://news.cctv.com/2025/08/06/ARTI25alGusz7jXiCrMvnXMC250806.shtml)
+
++ [“钱凯港既是‘金色’的，也是‘绿色’的”（共建“一带一路”·第一现场）](https://news.cctv.com/2025/08/06/ARTIgZ5athTynsCnUzQDFfTi250806.shtml)
+
++ [成都将举办“我们一生中最棒的世运会”——专访国际世界运动会协会“掌门人”](https://news.cctv.com/2025/08/06/ARTIcTDxYSO8rGtx6JZkIT9v250806.shtml)
+
++ [特朗普首次明确表态：万斯最有可能是“我的接班人”](https://news.cctv.com/2025/08/06/ARTITZxLQ8eUP5Pz3c6oOraT250806.shtml)
+

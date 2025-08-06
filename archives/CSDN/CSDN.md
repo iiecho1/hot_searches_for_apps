@@ -145,3 +145,21 @@
 
 + [技术与情感交织的一生 （十一）](https://blog.csdn.net/michaelline/article/details/149571389)
 
++ [腾讯云CodeBuddy AI IDE+CloudBase AI ToolKit打造理财小助手网页](https://blog.csdn.net/IRpickstars/article/details/149928291)
+
++ [智能领航：豆包新模型 + PromptPilot 在医疗分诊的深度体验](https://blog.csdn.net/weixin_43151418/article/details/149942146)
+
++ [2025年开关电源行业深度解析：从传统应用到新兴赛道的黄金赛道](https://blog.csdn.net/weixin_62244995/article/details/149876441)
+
++ [「PromptPilot 大模型智能提示词平台」—— PromptPilot × 豆包大模型 1.6：客户投诉邮件高效回复智能提示词解决方案](https://blog.csdn.net/weixin_62765017/article/details/149943824)
+
++ [TensorFlow深度学习实战（28）——扩散模型（Diffusion Model）](https://blog.csdn.net/LOVEmy134611/article/details/144569256)
+
++ [深入浅出 RabbitMQ-交换机详解与发布订阅模型实战](https://blog.csdn.net/chandfy/article/details/149932342)
+
++ [Web Transport API在前端实时通信中的性能优化与应用实践](https://blog.csdn.net/qq_36287830/article/details/149915460)
+
++ [imx6ull-驱动开发篇7——如何编写设备树](https://blog.csdn.net/m0_62228566/article/details/149904920)
+
++ [后端研发转型爬虫实战：Scrapy 二开爬虫框架的避坑指南](https://blog.csdn.net/niaonao/article/details/149879422)
+
