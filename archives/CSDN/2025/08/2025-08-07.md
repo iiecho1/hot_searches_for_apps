@@ -101,3 +101,9 @@
 
 + [imx6ull-驱动开发篇7——如何编写设备树](https://blog.csdn.net/m0_62228566/article/details/149904920)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式存储在数字图书馆海量资源存储与管理中的应用（380）](https://blog.csdn.net/atgfg/article/details/149910552)
+
++ [Pytorch实现婴儿哭声检测和识别](https://blog.csdn.net/guyuealian/article/details/149812361)
+
++ [vue和react的框架原理](https://blog.csdn.net/weixin_50166856/article/details/149943356)
+

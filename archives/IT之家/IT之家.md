@@ -25,3 +25,23 @@
 
 + [今日起坐电梯用“支付宝碰一下”抢 1 亿元红包](https://m.ithome.com/html/873476.htm)
 
++ [33.98 万元：理想 i8 宣布改为统一版本，标配车载冰箱，赠送铂金音响](https://m.ithome.com/html/873122.htm)
+
++ [淘宝即将上线大会员体系：打通饿了么飞猪盒马，88VIP 权益全面升级](https://m.ithome.com/html/873179.htm)
+
++ [比亚迪第五代 DM 技术再进化，NEDC 百公里亏电油耗刷新至 2.6L](https://m.ithome.com/html/873099.htm)
+
++ [大众全球最大 SUV：26.99 万元起一汽-大众全新揽境正式上市](https://m.ithome.com/html/873264.htm)
+
++ [行业首家支持鸿蒙 HarmonyOS NEXT 换机克隆，荣耀上新“换机克隆”App](https://m.ithome.com/html/873134.htm)
+
++ [小米 14 手机 16G+1T 版 4999 → 2780 元 24 期免息，配骁龙 8 Gen3 处理器](https://m.ithome.com/html/873252.htm)
+
++ [全新小鹏 P7 内饰亮相：三轴灵动屏、一体式运动座椅](https://m.ithome.com/html/873086.htm)
+
++ [李想回应理想 i8 统一配置版本：此前陷入惯性思维，期待后续销量表现](https://m.ithome.com/html/873155.htm)
+
++ [消息称本月多家厂商将开启新系统 Beta 内测，小米澎湃 HyperOS 3 等有望到来](https://m.ithome.com/html/873241.htm)
+
++ [上汽名爵全新 MG4 汽车预售发布：全球首发半固态电池批量上车、OPPO 智行手车互联，7.38 万元起](https://m.ithome.com/html/873253.htm)
+
