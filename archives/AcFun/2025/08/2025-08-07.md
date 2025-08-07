@@ -87,3 +87,5 @@
 
 + [Brave Girls Rollin](https://m.acfun.cn/v/?ac=47692072)
 
++ [全明星对局，快速看完一局韩服王者斗殴局#711 PerfecT, HamBak, Zeka, Pea](https://m.acfun.cn/v/?ac=47692390)
+
