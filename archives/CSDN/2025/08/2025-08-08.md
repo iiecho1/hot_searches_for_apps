@@ -111,3 +111,13 @@
 
 + [学习游戏制作记录（将各种属性应用于战斗以及实体的死亡）8.5](https://blog.csdn.net/2503_90719681/article/details/149948646)
 
++ [Java 大视界 -- Java 大数据在智能医疗电子病历数据分析与临床决策支持中的应用（382）](https://blog.csdn.net/atgfg/article/details/149942946)
+
++ [《爬虫实战指南：轻松获取店铺详情，开启数据挖掘之旅》](https://blog.csdn.net/wanbangAPI01/article/details/149976362)
+
++ [解密MVCC：如何实现高效的数据库并发](https://blog.csdn.net/2301_80795057/article/details/150018936)
+
++ [FPGA 基本设计思想--乒乓操作、串并转换、流水线](https://blog.csdn.net/wwq8723656/article/details/149926668)
+
++ [ZYNQ实现FFT信号处理项目](https://blog.csdn.net/m0_67400176/article/details/149935256)
+
