@@ -55,3 +55,5 @@
 
 + [V2 怎么输入 emoji，谁教教我，谢谢](https://www.v2ex.com/t/1150623)
 
++ [Solana Name Service](https://www.v2ex.com/t/1150717)
+

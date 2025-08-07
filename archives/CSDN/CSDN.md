@@ -175,3 +175,7 @@
 
 + [行业应用案例：MCP在不同垂直领域的落地实践](https://blog.csdn.net/IRpickstars/article/details/150002937)
 
++ [智能提示词引擎的革新与应用：PromptPilot使用全解析](https://blog.csdn.net/2302_78391795/article/details/149956846)
+
++ [OpenAI深夜开源2个推理模型gpt-oss，o4-mini水平，国内直接使用，笔记本/手机就能跑](https://blog.csdn.net/shi_hong_fei_hei/article/details/149982206)
+
