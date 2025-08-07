@@ -173,3 +173,15 @@
 
 + [中方强调在实现防扩散目标的同时捍卫和平利用权利](https://news.cctv.com/2025/08/07/ARTI501o3HEBzTONaFDsoleO250807.shtml)
 
++ [夏日金字塔](https://photo.cctv.com/2025/08/07/PHOADc3CR0SnQeBZKjig4Ig3250807.shtml)
+
++ [哈萨克斯坦：里海日落](https://photo.cctv.com/2025/08/07/PHOAZ8C7DPXIMKEVZALDNzHN250807.shtml)
+
++ [德国6月工业新订单环比下降1%](https://news.cctv.com/2025/08/07/ARTIM5aO25ClUoVANDOfedwZ250807.shtml)
+
++ [国际观察丨欧美贸易协议难解德国汽车业困境](https://news.cctv.com/2025/08/07/ARTI6exXBRlluMR2ubrqHZ6C250807.shtml)
+
++ [美对印加征关税，总体税率将增至50%！印度：不公平、不公正、不合理](https://news.cctv.com/2025/08/07/ARTIXp5qs0svMekREufuuZSU250807.shtml)
+
++ [民间友好是美中交往的力量源泉（国际论坛）](https://news.cctv.com/2025/08/07/ARTI3zoASPfEl6JLgxkz072L250807.shtml)
+
