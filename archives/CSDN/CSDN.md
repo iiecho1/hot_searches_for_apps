@@ -123,3 +123,5 @@
 
 + [【数据分享】西藏土壤类型数据库](https://blog.csdn.net/qq_39719713/article/details/149971781)
 
++ [在Linux上部署RabbitMQ、Redis、ElasticSearch](https://blog.csdn.net/Shine19/article/details/149935772)
+
