@@ -167,3 +167,9 @@
 
 + [泰柬签署协议敲定停火细则 联合国秘书长赞赏双方努力](https://news.cctv.com/2025/08/08/ARTIP6riQrMSPK486no7KnJX250808.shtml)
 
++ [世卫组织：加沙民众陷入饥饿和疾病 国际社会应持续提供人道援助](https://news.cctv.com/2025/08/08/ARTITceS4LZQjYeSiDBOTEEF250808.shtml)
+
++ [乌克兰总统泽连斯基与欧洲多国领导人讨论俄乌冲突](https://news.cctv.com/2025/08/08/ARTIDWz0H7Mk2z3Y6W0UMNvz250808.shtml)
+
++ [特朗普就美俄元首会晤表态：普京无需同意和泽连斯基会面](https://news.cctv.com/2025/08/08/ARTIi3tALGfXfoPO0tFYaWCj250808.shtml)
+
