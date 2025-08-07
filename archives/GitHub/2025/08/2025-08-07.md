@@ -33,3 +33,19 @@
 
 + [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 
++ [lvgl/lvgl](https://github.com/lvgl/lvgl)
+
++ [vllm-project/vllm](https://github.com/vllm-project/vllm)
+
++ [ollama/ollama](https://github.com/ollama/ollama)
+
++ [netbirdio/netbird](https://github.com/netbirdio/netbird)
+
++ [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+
++ [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
+
++ [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
+
++ [dotnet/efcore](https://github.com/dotnet/efcore)
+

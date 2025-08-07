@@ -57,3 +57,5 @@
 
 + [Solana Name Service](https://www.v2ex.com/t/1150717)
 
++ [表姐家的孩子考了 500 多分报了人工智能专业](https://www.v2ex.com/t/1150509)
+

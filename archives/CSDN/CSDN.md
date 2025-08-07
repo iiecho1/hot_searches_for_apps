@@ -179,3 +179,5 @@
 
 + [OpenAI深夜开源2个推理模型gpt-oss，o4-mini水平，国内直接使用，笔记本/手机就能跑](https://blog.csdn.net/shi_hong_fei_hei/article/details/149982206)
 
++ [【数据分享】西藏土壤类型数据库](https://blog.csdn.net/qq_39719713/article/details/149971781)
+
