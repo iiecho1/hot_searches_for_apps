@@ -185,3 +185,5 @@
 
 + [民间友好是美中交往的力量源泉（国际论坛）](https://news.cctv.com/2025/08/07/ARTI3zoASPfEl6JLgxkz072L250807.shtml)
 
++ [缅甸代总统敏瑞因病逝世](https://news.cctv.com/2025/08/07/ARTIO9V0lVHx68vtWBvMDuX6250807.shtml)
+
