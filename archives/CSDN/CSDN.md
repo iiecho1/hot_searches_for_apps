@@ -181,3 +181,17 @@
 
 + [【数据分享】西藏土壤类型数据库](https://blog.csdn.net/qq_39719713/article/details/149971781)
 
++ [Java 大视界 -- Java 大数据在智能交通智能停车诱导与车位共享优化中的应用（381）](https://blog.csdn.net/atgfg/article/details/149917270)
+
++ [【AI】——SpringAI通过Ollama本地部署的Deepseek模型实现一个对话机器人（二）](https://blog.csdn.net/shsjssnn/article/details/146008910)
+
++ [自动驾驶控制算法——MPC控制算法](https://blog.csdn.net/swaggytiger/article/details/149945494)
+
++ [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、UnrealBloomPass、FilmPass渲染通道），实现交互式 3D blob](https://blog.csdn.net/qq_28419035/article/details/150015048)
+
++ [Vue3 + Univer 的在线表格使用](https://blog.csdn.net/Tigeriper/article/details/150015470)
+
++ [内网穿透原理和部署教程](https://blog.csdn.net/2302_80105876/article/details/150008569)
+
++ [Prometheus 监控平台部署 （云原生环境）](https://blog.csdn.net/2503_91100205/article/details/149934366)
+

@@ -207,3 +207,5 @@
 
 + [俄总统助理：俄美原则上同意近日举行元首会晤](https://news.cctv.com/2025/08/07/ARTI4Da7bCUcQxY5jx2Ahjb4250807.shtml)
 
++ [英国央行宣布下调基准利率25个基点至4%](https://news.cctv.com/2025/08/07/ARTIb8cOIZE9KOnkcPOim1eh250807.shtml)
+
