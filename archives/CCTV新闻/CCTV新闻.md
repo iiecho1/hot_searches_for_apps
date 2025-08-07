@@ -187,3 +187,13 @@
 
 + [缅甸代总统敏瑞因病逝世](https://news.cctv.com/2025/08/07/ARTIO9V0lVHx68vtWBvMDuX6250807.shtml)
 
++ [长期占领加沙：以色列的进退两难和难以收拾的残局](https://news.cctv.com/2025/08/07/ARTIqDXsRGunoe49lWChPhXN250807.shtml)
+
++ [加沙地带：空投物资](https://photo.cctv.com/2025/08/07/PHOAxrqsrQf6uYGbUYpymERF250807.shtml)
+
++ [中国驻登巴萨总领馆：巴厘岛快艇倾覆事故中两名遇难中国游客身份已确认](https://news.cctv.com/2025/08/07/ARTIUtWFjRnDPdPLY2fGpVCj250807.shtml)
+
++ [“最后通牒”将近，特朗普说的美俄乌三方会晤有戏吗](https://news.cctv.com/2025/08/07/ARTI97monI7VSfeDcVAHCmJq250807.shtml)
+
++ [韩国特检组向法院申请拘留金建希](https://news.cctv.com/2025/08/07/ARTI3ZIXE4CwEAYiBhpuSXXt250807.shtml)
+

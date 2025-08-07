@@ -147,3 +147,13 @@
 
 + [如何在没有iCloud的情况下将联系人转移到新iPhone?](https://blog.csdn.net/Digitally/article/details/149905357)
 
++ [进程生命周期管理：从创建到终止的完整逻辑](https://blog.csdn.net/2302_79376097/article/details/149670919)
+
++ [豆包新模型与PromptPilot工具深度测评：AI应用开发的全流程突破](https://blog.csdn.net/Dreamy_zsy/article/details/149945999)
+
++ [SpringCloud学习------Hystrix详解](https://blog.csdn.net/shouxifeiwu/article/details/149946668)
+
++ [Apache InLong：构建10万亿级数据管道的全场景集成框架](https://blog.csdn.net/2301_79139273/article/details/149914690)
+
++ [SSL/TLS协议深度解析](https://blog.csdn.net/Tang_is_learning/article/details/149984890)
+
