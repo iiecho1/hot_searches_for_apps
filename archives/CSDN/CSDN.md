@@ -171,3 +171,7 @@
 
 + [数据可视化发展历程](https://blog.csdn.net/qq_41640218/article/details/149932409)
 
++ [linux-系统性能监控](https://blog.csdn.net/2501_92004703/article/details/149697612)
+
++ [行业应用案例：MCP在不同垂直领域的落地实践](https://blog.csdn.net/IRpickstars/article/details/150002937)
+
