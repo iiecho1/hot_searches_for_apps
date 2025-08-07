@@ -161,3 +161,9 @@
 
 + [印尼巴厘岛快艇事故致中国公民2死6伤](https://news.cctv.com/2025/08/06/ARTID91R20sqMjTvMhdSo7mN250806.shtml)
 
++ [美法官叫停“鳄鱼恶魔岛”移民拘留中心建设](https://news.cctv.com/2025/08/08/ARTILgq6bD2k4JLOEqw8ISQg250808.shtml)
+
++ [法国南部林火得到控制 政府提醒民众暂勿返家](https://news.cctv.com/2025/08/08/ARTItsIC6Up6QRo8NUhBBvx2250808.shtml)
+
++ [泰柬签署协议敲定停火细则 联合国秘书长赞赏双方努力](https://news.cctv.com/2025/08/08/ARTIP6riQrMSPK486no7KnJX250808.shtml)
+
