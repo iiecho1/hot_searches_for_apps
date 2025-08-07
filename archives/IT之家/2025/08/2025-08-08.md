@@ -49,3 +49,15 @@
 
 + [特朗普喊话英特尔 CEO 陈立武：必须立即辞职](https://m.ithome.com/html/873810.htm)
 
++ [全新小鹏 P7 预售 6 分 37 秒，小订突破 1 万台](https://m.ithome.com/html/873559.htm)
+
++ [理想汽车高管曝光水军兼职群：能不能拉我进群， 我一天能发一千条](https://m.ithome.com/html/873460.htm)
+
++ [今日起坐电梯用“支付宝碰一下”抢 1 亿元红包](https://m.ithome.com/html/873476.htm)
+
++ [美团外卖回应霸王茶姬兑换券被“召回”：手一抖提前发了，可到全国外卖门店兑换相应茶饮](https://m.ithome.com/html/873547.htm)
+
++ [第三代蔚来 ES8 实车曝光：外观升级、尺寸增大，下月上市](https://m.ithome.com/html/873446.htm)
+
++ [20:00 速抢至高 8888 元天猫无门槛红包，淘宝大会员正式上线](https://m.ithome.com/html/873492.htm)
+
