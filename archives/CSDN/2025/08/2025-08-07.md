@@ -157,3 +157,15 @@
 
 + [SSL/TLS协议深度解析](https://blog.csdn.net/Tang_is_learning/article/details/149984890)
 
++ [探访WAIC2025：当AI成为双刃剑，合合信息如何破解真假难题](https://blog.csdn.net/weixin_51390582/article/details/149788311)
+
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在工业物联网设备故障预测与智能运维中的应用（384）](https://blog.csdn.net/atgfg/article/details/149975808)
+
++ [掌握C++核心：性能与抽象的艺术](https://blog.csdn.net/W20130306/article/details/149968779)
+
++ [升级 Elasticsearch 到新的 AWS Java SDK](https://blog.csdn.net/UbuntuTouch/article/details/149926434)
+
++ [【Lua】题目小练8](https://blog.csdn.net/weixin_47220117/article/details/149947681)
+
++ [2025最新国内服务器可用docker源仓库地址大全（2025年8月更新） · DockerHub镜像加速全面指南](https://blog.csdn.net/qq_44866828/article/details/150001691)
+

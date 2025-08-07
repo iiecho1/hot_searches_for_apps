@@ -197,3 +197,9 @@
 
 + [韩国特检组向法院申请拘留金建希](https://news.cctv.com/2025/08/07/ARTI3ZIXE4CwEAYiBhpuSXXt250807.shtml)
 
++ [柬埔寨与泰国就停火协议达成共识](https://news.cctv.com/2025/08/07/ARTITxfTuL5wGfmApG8akskg250807.shtml)
+
++ [日本航空自卫队一架F-2战斗机坠毁](https://military.cctv.com/2025/08/07/ARTI70Z2AZEnF3hcLQV3Xi3I250807.shtml)
+
++ [柬埔寨一泰国边界总委员会特别会议在吉隆坡举行](https://news.cctv.com/2025/08/07/ARTI5PiTDOpwByCyAxD3hnyg250807.shtml)
+
