@@ -25,3 +25,27 @@
 
 + [何小鹏：以前是科技第一现在颜值第一，在上海租了两栋楼给造型团队，要啥给啥](https://m.ithome.com/html/873562.htm)
 
++ [微信：从一开始就没有“已读”功能，以后也不会有](https://m.ithome.com/html/873665.htm)
+
++ [小米 16 手机曝光：首发澎湃 OS 3，焦点通知“上岛”](https://m.ithome.com/html/873737.htm)
+
++ [淘宝宣布 88VIP 权益升级：新增盒马、饿了么、飞猪、高德等超 10 项会员权益](https://m.ithome.com/html/873662.htm)
+
++ [苹果 iPhone 17/ Pro 系列官方手机壳曝光，配挂绳孔](https://m.ithome.com/html/873617.htm)
+
++ [华为推出鸿蒙应用开发者激励计划 2025，现金激励超亿元](https://m.ithome.com/html/873624.htm)
+
++ [萝卜快跑无人网约车被曝载客坠入施工沟槽，官方暂无回应](https://m.ithome.com/html/873759.htm)
+
++ [蔚来高管：反对向理想用户泼脏水，有人把祸水往蔚来身上引](https://m.ithome.com/html/873658.htm)
+
++ [小米 SU7 Ultra 车主澄清碳纤维机盖存在“白色棉花状物质”：防雨车衣内部棉絮被划破的残留](https://m.ithome.com/html/873732.htm)
+
++ [中国移动董事长杨杰：携号转网本来是为了改善服务，现在演变成恶性竞争的手段](https://m.ithome.com/html/873795.htm)
+
++ [理想汽车法务部：网络平台集中出现大量针对车主负面评价的误导性信息，正在固定相关证据](https://m.ithome.com/html/873611.htm)
+
++ [今日立秋：风吹一片叶，万物已惊秋](https://m.ithome.com/html/873571.htm)
+
++ [特朗普喊话英特尔 CEO 陈立武：必须立即辞职](https://m.ithome.com/html/873810.htm)
+
