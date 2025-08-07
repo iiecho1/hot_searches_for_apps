@@ -195,3 +195,7 @@
 
 + [Prometheus 监控平台部署 （云原生环境）](https://blog.csdn.net/2503_91100205/article/details/149934366)
 
++ [【HALCON工业视觉应用探索】2. C# + Halcon铸件毛刺机器人打磨引导：点云处理从实验室到工业现场的全流程落地](https://blog.csdn.net/weixin_39815573/article/details/149982096)
+
++ [通义千问视觉革命：Qwen-Image多模态模型深度解析与实战指南](https://blog.csdn.net/Liudef06/article/details/149982965)
+
