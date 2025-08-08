@@ -201,3 +201,5 @@
 
 + [总台记者观察丨以军被曝“接管”加沙城的实质是“占领”](https://news.cctv.com/2025/08/08/ARTI1eqNHqZ5gpF9WJUk46vY250808.shtml)
 
++ [俄罗斯与乌兹别克斯坦两国总统通话 讨论俄乌冲突及双边合作](https://news.cctv.com/2025/08/08/ARTIYAgPaRmeMRKMul7Aq3G9250808.shtml)
+

@@ -163,3 +163,7 @@
 
 + [初始redis](https://blog.csdn.net/2302_81805546/article/details/148977024)
 
++ [前端三大核心要素以及前后端通讯](https://blog.csdn.net/Mr_linsir/article/details/150010342)
+
++ [Linux发行版分类与Centos替代品](https://blog.csdn.net/General_zy/article/details/149980602)
+
