@@ -101,3 +101,9 @@
 
 + [【完整源码+数据集+部署教程】植物病害检测系统源码和数据集：改进yolo11-MultiSEAMHead](https://blog.csdn.net/weixin_43860634/article/details/150071884)
 
++ [嵌入式学习硬件(一)ARM体系架构](https://blog.csdn.net/2202_75781451/article/details/149982186)
+
++ [Gitlab+Jenkins+K8S+Registry 建立 CI/CD 流水线](https://blog.csdn.net/2302_78308374/article/details/149969092)
+
++ [全场景音频工作流实践：Melody如何打造音源管理闭环](https://blog.csdn.net/qq_73017178/article/details/150061384)
+
