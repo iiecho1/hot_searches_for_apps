@@ -29,3 +29,21 @@
 
 + [dotnet/efcore](https://github.com/dotnet/efcore)
 
++ [openai/codex](https://github.com/openai/codex)
+
++ [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)
+
++ [polarsource/polar](https://github.com/polarsource/polar)
+
++ [python-poetry/poetry](https://github.com/python-poetry/poetry)
+
++ [google/adk-python](https://github.com/google/adk-python)
+
++ [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+
++ [backstage/backstage](https://github.com/backstage/backstage)
+
++ [google/adk-samples](https://github.com/google/adk-samples)
+
++ [openai/openai-python](https://github.com/openai/openai-python)
+

@@ -75,3 +75,5 @@
 
 + [OpenAI 的“iPhone 时刻”：奥尔特曼称 GPT-5 是全球最佳写作、编程 AI 模型，免费 ChatGPT 用户也能体验](https://m.ithome.com/html/873830.htm)
 
++ [别克发布“真龙”增程：纯电续航 302km / 百公里油耗 0.5L，至境 L7 首搭](https://m.ithome.com/html/873666.htm)
+
