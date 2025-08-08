@@ -63,3 +63,15 @@
 
 + [iQOO Z10 Turbo+ 手机发布：蓝厂最大 8000mAh 电池、天玑 9400+，售 2199 元起](https://m.ithome.com/html/873779.htm)
 
++ [OpenAI 迄今最智能 AI 模型：“六边形战士”GPT-5 登场，准确性、速度、推理能力等全面突破](https://m.ithome.com/html/873829.htm)
+
++ [何小鹏谈辅助驾驶：视觉上限远超激光雷达，2027 年该争议将消失](https://m.ithome.com/html/873815.htm)
+
++ [OPPO 陈希否认 ColorOS 16 系统采用 3D 玻璃立体风格：图标风格早已确定](https://m.ithome.com/html/873827.htm)
+
++ [iQOO Z10 Turbo+ 销量王炸，首销是 Pro 版的 174%](https://m.ithome.com/html/873828.htm)
+
++ [一汽奥迪 A5L 汽车上市：高配版搭载华为乾崑智驾技术，23.98 万元起](https://m.ithome.com/html/873783.htm)
+
++ [OpenAI 的“iPhone 时刻”：奥尔特曼称 GPT-5 是全球最佳写作、编程 AI 模型，免费 ChatGPT 用户也能体验](https://m.ithome.com/html/873830.htm)
+

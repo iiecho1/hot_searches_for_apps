@@ -145,3 +145,11 @@
 
 + [【Coze搞钱实战】8. 双模型协作工作流实战：GPT生成+Claude审核风险控制](https://blog.csdn.net/weixin_39815573/article/details/150014601)
 
++ [GPT-5 来了：和它改变世界的 982 天](https://blog.csdn.net/JHXL_/article/details/150056702)
+
++ [KafKa 项目 -- GitHub 学习](https://blog.csdn.net/qq_39833005/article/details/149937931)
+
++ [攻击实验（ARP欺骗、MAC攻击、报文洪水攻击、DNS欺骗）](https://blog.csdn.net/Z7676_/article/details/149940354)
+
++ [2025 年华数杯全国大学生数学建模竞赛C 题 可调控生物节律的 LED 光源研究--完整成品、思路、模型、代码、结果分享](https://blog.csdn.net/2403_86854718/article/details/150030623)
+
