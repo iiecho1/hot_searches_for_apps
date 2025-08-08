@@ -175,3 +175,7 @@
 
 + [上海一家机器人IPO核心零部件依赖外购， 募投计划频繁修改引疑](https://blog.csdn.net/MagicIPO/article/details/150031828)
 
++ [Java 大视界 -- Java 大数据机器学习模型在电商用户生命周期价值评估与客户关系精细化管理中的应用（383）](https://blog.csdn.net/atgfg/article/details/149974632)
+
++ [【深度学习计算性能】02：异步计算](https://blog.csdn.net/Morse_Chen/article/details/150025970)
+
