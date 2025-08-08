@@ -173,3 +173,5 @@
 
 + [特朗普就美俄元首会晤表态：普京无需同意和泽连斯基会面](https://news.cctv.com/2025/08/08/ARTIi3tALGfXfoPO0tFYaWCj250808.shtml)
 
++ [建设成本纳入北约军费 意大利准备修建世界最长悬索桥](https://news.cctv.com/2025/08/08/ARTIQ55l1cB32xOB2AXFdQdC250808.shtml)
+

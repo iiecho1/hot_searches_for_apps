@@ -125,3 +125,7 @@
 
 + [在Linux上部署RabbitMQ、Redis、ElasticSearch](https://blog.csdn.net/Shine19/article/details/149935772)
 
++ [【Linux内核系列】：信号（上）](https://blog.csdn.net/2301_80260194/article/details/149974435)
+
++ [Gitlab+Jenkins+K8S+Registry 建立 CI/CD 流水线](https://blog.csdn.net/2302_78308374/article/details/149969092)
+
