@@ -123,3 +123,5 @@
 
 + [嵌入式学习的第四十四天-ARM](https://blog.csdn.net/m0_73820654/article/details/149962710)
 
++ [RWA深度解读专辑（八十一)——朗新科技RWA项目综述：新能源资产代币化的先锋实践](https://blog.csdn.net/yuntongliangda/article/details/149945686)
+
