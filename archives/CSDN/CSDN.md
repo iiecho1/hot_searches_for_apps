@@ -179,3 +179,9 @@
 
 + [【深度学习计算性能】02：异步计算](https://blog.csdn.net/Morse_Chen/article/details/150025970)
 
++ [计算机视觉--opencv(代码详细教程）](https://blog.csdn.net/enlybbq/article/details/150023507)
+
++ [OpenAI 最新开源模型 gpt-oss (Windows + Ollama/ubuntu)本地部署详细教程](https://blog.csdn.net/2401_83830408/article/details/150061537)
+
++ [Redis为什么要引入多线程?](https://blog.csdn.net/m0_73833369/article/details/150027156)
+
