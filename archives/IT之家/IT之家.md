@@ -37,3 +37,19 @@
 
 + [OpenAI 的“iPhone 时刻”：奥尔特曼称 GPT-5 是全球最佳写作、编程 AI 模型，免费 ChatGPT 用户也能体验](https://m.ithome.com/html/873830.htm)
 
++ [李想称知道哪个品牌在黑理想：拿我玩梗可以，但不要恶意诋毁理想车主](https://m.ithome.com/html/873952.htm)
+
++ [董明珠回应格力玫瑰空调争议：可能有一点不那么美，但它创造了世界首台，你敢吗？](https://m.ithome.com/html/873928.htm)
+
++ [消息称华为有望国内首发 eSIM 手机：新款三折叠、Mate 80 系列](https://m.ithome.com/html/873877.htm)
+
++ [广西一比亚迪电车遭 3 次雷击，车主平安无事、三电系统完好无损](https://m.ithome.com/html/873889.htm)
+
++ [续航最强特斯拉登陆工信部：Model 3 新增 830km 版车型，Model Y L 续航 751km](https://m.ithome.com/html/873900.htm)
+
++ [全新问界 M7 国民 SUV 新增 4D 毫米波雷达 + 后向固态激光雷达、升级半隐藏式门把手，9 月见](https://m.ithome.com/html/873883.htm)
+
++ [华为 Mate70 系列推出限时礼遇：标准版优惠 400 元，Pro + 版优惠 1000 元](https://m.ithome.com/html/873848.htm)
+
++ [苹果发布 iOS / iPadOS / macOS 26 第 2 个公测版](https://m.ithome.com/html/873831.htm)
+
