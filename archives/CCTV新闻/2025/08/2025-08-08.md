@@ -175,3 +175,13 @@
 
 + [建设成本纳入北约军费 意大利准备修建世界最长悬索桥](https://news.cctv.com/2025/08/08/ARTIQ55l1cB32xOB2AXFdQdC250808.shtml)
 
++ [哈萨克斯坦阿克套：“里海之滨的明珠”](https://photo.cctv.com/2025/08/08/PHOAHnZe7aqmQBm4dgViFJoU250808.shtml)
+
++ [以政府证实：已批准占领加沙城计划 拟建立加沙新民事政府](https://news.cctv.com/2025/08/08/ARTIFgt7FMywHZPH4wv5vy5m250808.shtml)
+
++ [综述｜印方表示美加征关税将严重扰乱印美贸易](https://news.cctv.com/2025/08/08/ARTIcAXiWwE42DU1N8hVfhgb250808.shtml)
+
++ [国际观察丨美“对等关税”生效 经济讹诈遭各国反对](https://news.cctv.com/2025/08/08/ARTIxbZgBGfN85uTea5CSbCD250808.shtml)
+
++ [世卫组织：苏丹新一轮霍乱疫情已致近10万人感染](https://news.cctv.com/2025/08/08/ARTInAmhfT7auUFWqTxcJVc4250808.shtml)
+

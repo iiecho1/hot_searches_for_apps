@@ -129,3 +129,13 @@
 
 + [Gitlab+Jenkins+K8S+Registry 建立 CI/CD 流水线](https://blog.csdn.net/2302_78308374/article/details/149969092)
 
++ [飞算JavaAI深度解析：Java开发者的智能革命](https://blog.csdn.net/2502_91499791/article/details/149973678)
+
++ [PostgreSQL 高可用与负载均衡](https://blog.csdn.net/Auspicious_air/article/details/149973745)
+
++ [FPGA实战：用PL端串口发送Hello world](https://blog.csdn.net/m0_37816922/article/details/149999580)
+
++ [学习嵌入式之硬件——ARM体系](https://blog.csdn.net/sx243694/article/details/149960636)
+
++ [前端数据库 IndexedDB 详解：构建强大的离线Web应用](https://blog.csdn.net/yuanxifan/article/details/150041036)
+
