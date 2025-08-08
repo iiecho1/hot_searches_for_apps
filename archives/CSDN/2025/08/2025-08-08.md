@@ -155,3 +155,11 @@
 
 + [从配置到远程访问：如何用群晖NAS FTP+ Cpolar搭建稳定文件传输通道](https://blog.csdn.net/ljq_up/article/details/150016613)
 
++ [体系化AI开发方案：豆包新模型矩阵与PromptPilot自动化调优平台深度解析](https://blog.csdn.net/2301_80863610/article/details/149966791)
+
++ [【Java 开发日记】我们来说一说 悲观锁、乐观锁、分布式锁的使用场景和使用技巧](https://blog.csdn.net/2402_87298751/article/details/150013643)
+
++ [如何显示一个 Elasticsearch 索引的字段](https://blog.csdn.net/UbuntuTouch/article/details/149998378)
+
++ [初始redis](https://blog.csdn.net/2302_81805546/article/details/148977024)
+
