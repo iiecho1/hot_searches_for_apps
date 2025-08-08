@@ -187,3 +187,9 @@
 
 + [特朗普政府计划焚烧970万美元避孕产品，欧洲干涉](https://news.cctv.com/2025/08/08/ARTIMzhqtQNHMPNEhGeXEsQE250808.shtml)
 
++ [美国称悬赏5000万美元缉拿委总统马杜罗 委内瑞拉外长：荒谬](https://news.cctv.com/2025/08/08/ARTItgJTPaMXZSJjZbgwPc29250808.shtml)
+
++ [日本首相石破茂再次表明将继续留任](https://news.cctv.com/2025/08/08/ARTIqf3QaLNBYCpv50JKqTfg250808.shtml)
+
++ [韩“金建希特检组”：尹锡悦拘捕令失效 将探讨直接起诉方案](https://news.cctv.com/2025/08/08/ARTIltCjvIffwcFnx3U13exA250808.shtml)
+
