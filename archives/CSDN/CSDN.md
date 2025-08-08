@@ -141,3 +141,7 @@
 
 + [TensorFlow深度学习实战（28）——扩散模型（Diffusion Model）](https://blog.csdn.net/LOVEmy134611/article/details/144569256)
 
++ [协同进化：AIGC、Agent和MCP如何相互促进共同发展](https://blog.csdn.net/IRpickstars/article/details/150055734)
+
++ [【Coze搞钱实战】8. 双模型协作工作流实战：GPT生成+Claude审核风险控制](https://blog.csdn.net/weixin_39815573/article/details/150014601)
+
