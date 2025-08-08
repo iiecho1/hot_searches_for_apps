@@ -21,3 +21,5 @@
 
 + [目前已经有 757.46 V2EX 币了，全靠打赏](https://www.v2ex.com/t/1150892)
 
++ [猜价格 ，空投 1k $v2ex，空投 10k $mb](https://www.v2ex.com/t/1151114)
+

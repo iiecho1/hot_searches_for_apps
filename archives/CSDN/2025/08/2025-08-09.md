@@ -107,3 +107,19 @@
 
 + [全场景音频工作流实践：Melody如何打造音源管理闭环](https://blog.csdn.net/qq_73017178/article/details/150061384)
 
++ [腾讯 iOA 使用指南：全面解析与操作详解](https://blog.csdn.net/qq_33681891/article/details/149976408)
+
++ [基于大数据的美食视频播放数据可视化系统 Python+Django+Vue.js](https://blog.csdn.net/yangyin1998/article/details/150003162)
+
++ [从配置到远程访问：如何用群晖NAS FTP+ Cpolar搭建稳定文件传输通道](https://blog.csdn.net/ljq_up/article/details/150016613)
+
++ [QtC++ 中使用 qtwebsocket 开源库实现基于websocket的本地服务开发详解](https://blog.csdn.net/qianniulaoren/article/details/150020093)
+
++ [重生之我在暑假学习微服务第十一天《配置篇》＋网关篇错误订正](https://blog.csdn.net/2302_80329073/article/details/149981010)
+
++ [[C++20]协程：语义、调度与异步 | Reactor 模式](https://blog.csdn.net/2301_80171004/article/details/150022622)
+
++ [企业级Web框架性能对决：Spring Boot、Django、Node.js与ASP.NET深度测评](https://blog.csdn.net/qq_44742109/article/details/149980297)
+
++ [嵌入式学习的第四十四天-ARM](https://blog.csdn.net/m0_73820654/article/details/149962710)
+
