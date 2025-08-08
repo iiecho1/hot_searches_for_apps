@@ -195,3 +195,7 @@
 
 + [中国驻菲律宾使馆就菲执法部门违规抓扣9名中国公民答记者问](https://news.cctv.com/2025/08/08/ARTIHxsZEknLdlLL4tkqpNRS250808.shtml)
 
++ [舟行千年：威尼斯船文化的传承与蜕变](https://photo.cctv.com/2025/08/08/PHOAHbLxv25VVp47WkA4P7eP250808.shtml)
+
++ [美国近百年来最高关税生效：主要贸易伙伴受打击，应对方式有几种？](https://news.cctv.com/2025/08/08/ARTIrd2HQ1LnujhhOMx8MB0v250808.shtml)
+

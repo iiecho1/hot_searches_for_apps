@@ -153,3 +153,5 @@
 
 + [2025 年华数杯全国大学生数学建模竞赛C 题 可调控生物节律的 LED 光源研究--完整成品、思路、模型、代码、结果分享](https://blog.csdn.net/2403_86854718/article/details/150030623)
 
++ [从配置到远程访问：如何用群晖NAS FTP+ Cpolar搭建稳定文件传输通道](https://blog.csdn.net/ljq_up/article/details/150016613)
+
