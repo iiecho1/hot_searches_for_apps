@@ -161,3 +161,5 @@
 
 + [法国南部森林大火过火面积达1万公顷 9人烧伤](https://news.cctv.com/2025/08/06/ARTIumJUYzrFnrlkYDYMX87x250806.shtml)
 
++ [肯尼亚西部城市一大巴翻车 已致21人死亡](https://news.cctv.com/2025/08/09/ARTIBjYwqSbHUmU8LDOk1Ezw250809.shtml)
+
