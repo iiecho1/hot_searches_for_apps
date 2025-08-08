@@ -77,3 +77,11 @@
 
 + [骑墙的莫迪老仙要来天津啦！【岩论531期】](https://m.acfun.cn/v/?ac=47695844)
 
++ [【PV】机动战士高达铁血的奥尔芬斯 小小挑战者的轨迹](https://m.acfun.cn/v/?ac=47695235)
+
++ [【歌回录像】Sound Horizon 2025-05-28](https://m.acfun.cn/v/?ac=47691683)
+
++ [【东方】Awake My Soul【A-One MV Eurobeat】](https://m.acfun.cn/v/?ac=47692380)
+
++ [【白银莉莉】我的世界已坠入爱河](https://m.acfun.cn/v/?ac=47693794)
+

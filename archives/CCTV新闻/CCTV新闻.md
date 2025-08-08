@@ -185,3 +185,5 @@
 
 + [世卫组织：苏丹新一轮霍乱疫情已致近10万人感染](https://news.cctv.com/2025/08/08/ARTInAmhfT7auUFWqTxcJVc4250808.shtml)
 
++ [特朗普政府计划焚烧970万美元避孕产品，欧洲干涉](https://news.cctv.com/2025/08/08/ARTIMzhqtQNHMPNEhGeXEsQE250808.shtml)
+
