@@ -231,3 +231,5 @@
 
 + [0℃下的艺术 俄运动员成为在北极点完成艺术体操第一人](https://people.cctv.com/2025/08/09/ARTIaYGWa5p9njcUODwMCGBZ250809.shtml)
 
++ [美国纽约时报广场发生枪击事件 3人受伤 17岁嫌犯被捕](https://news.cctv.com/2025/08/09/ARTIjnfGNlqHBPAruOwlTKAw250809.shtml)
+
