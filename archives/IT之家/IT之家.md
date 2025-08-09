@@ -53,3 +53,13 @@
 
 + [苹果发布 iOS / iPadOS / macOS 26 第 2 个公测版](https://m.ithome.com/html/873831.htm)
 
++ [比亚迪：经过内部慎重研讨，App 将继续使用“比亚迪”原名](https://m.ithome.com/html/874109.htm)
+
++ [OPPO 为员工打造近 5000 套海景房公寓，单间不到 1500 元](https://m.ithome.com/html/873920.htm)
+
++ [小米推出米家前置过滤器 Pro：可拦截自来水中泥沙、铁锈、毛发等杂质，券后 769 元](https://m.ithome.com/html/873927.htm)
+
++ [鸿蒙智行智界新款双 7 车型预售 1 小时小订突破 10000 台，25.8 万元起](https://m.ithome.com/html/873919.htm)
+
++ [继 Mate 70 系列后，华为 Pura 80 Pro/Pro+ 手机官方降价 800 元](https://m.ithome.com/html/873964.htm)
+

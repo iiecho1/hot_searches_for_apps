@@ -73,3 +73,5 @@
 
 + [bing bing](https://m.acfun.cn/v/?ac=47698853)
 
++ [【真曈】Cherry Pop (short ver.)【泠振付】](https://m.acfun.cn/v/?ac=47699089)
+

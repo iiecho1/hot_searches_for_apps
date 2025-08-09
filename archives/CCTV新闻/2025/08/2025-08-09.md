@@ -163,3 +163,13 @@
 
 + [肯尼亚西部城市一大巴翻车 已致21人死亡](https://news.cctv.com/2025/08/09/ARTIBjYwqSbHUmU8LDOk1Ezw250809.shtml)
 
++ [美国重金悬赏马杜罗，委内瑞拉称“荒谬”](https://news.cctv.com/2025/08/09/ARTI1IPGLl3G7qmhoIUFgNR9250809.shtml)
+
++ [美俄领导人将于8月15日在美国阿拉斯加州会晤](https://news.cctv.com/2025/08/09/ARTIgfLxa5Pv836T5nXV49f9250809.shtml)
+
++ [苏丹中部北科尔多凡州一村庄遭袭致16名平民死亡](https://news.cctv.com/2025/08/09/ARTIA9JImms9b1IEgoq28lbg250809.shtml)
+
++ [“危险举动”“完全错误的方向”……以色列“接管加沙城”决定被多方谴责](https://news.cctv.com/2025/08/09/ARTIsHb8aQtcCtc3AvD2iE5h250809.shtml)
+
++ [特朗普：美俄在乌克兰问题上已“非常接近”达成协议](https://news.cctv.com/2025/08/09/ARTII6cHCp2uiauuxBK4ebEw250809.shtml)
+
