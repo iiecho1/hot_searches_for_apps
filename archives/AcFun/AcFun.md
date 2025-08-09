@@ -79,3 +79,7 @@
 
 + [我制作了一块稳定木，然后给粉丝制作1号球](https://m.acfun.cn/v/?ac=47698550)
 
++ [Chocolate Cream](https://m.acfun.cn/v/?ac=47698903)
+
++ [【录播】你好！生日快乐！](https://m.acfun.cn/v/?ac=47699365)
+

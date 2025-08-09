@@ -139,3 +139,5 @@
 
 + [上海一家机器人IPO核心零部件依赖外购， 募投计划频繁修改引疑](https://blog.csdn.net/MagicIPO/article/details/150031828)
 
++ [TensorFlow深度学习实战（29）——自监督学习（Self-Supervised Learning）](https://blog.csdn.net/LOVEmy134611/article/details/144547546)
+

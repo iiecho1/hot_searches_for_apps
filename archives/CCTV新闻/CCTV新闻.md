@@ -211,3 +211,7 @@
 
 + [中国驻洛杉矶总领馆再次提醒南加州中国公民注意防范山火灾害](https://news.cctv.com/2025/08/09/ARTIUbvIMPUPllr112iiAkz7250809.shtml)
 
++ [肯尼亚西部一大巴翻车致25死](https://news.cctv.com/2025/08/09/ARTIjSC1SMtexRT1NVUMwLok250809.shtml)
+
++ [日本长崎市举行原子弹爆炸80周年纪念仪式](https://news.cctv.com/2025/08/09/ARTIfna5cLxiqIJqypjFoU1c250809.shtml)
+
