@@ -233,3 +233,11 @@
 
 + [美国纽约时报广场发生枪击事件 3人受伤 17岁嫌犯被捕](https://news.cctv.com/2025/08/09/ARTIjnfGNlqHBPAruOwlTKAw250809.shtml)
 
++ [乌总统签署法令制裁俄国家原子能公司等俄能源企业相关实体](https://news.cctv.com/2025/08/09/ARTI90Fo8EbVhevqkQ4nqXRk250809.shtml)
+
++ [伊朗中央省一海关仓库发生火灾](https://news.cctv.com/2025/08/09/ARTI12iNkgDKPb8b0maVidoj250809.shtml)
+
++ [美乌欧三方代表拟于美俄总统会面前在英会晤](https://news.cctv.com/2025/08/09/ARTI29uOdlaIRJ3W2ENoaT0h250809.shtml)
+
++ [美军或进入墨西哥打击贩毒集团？墨总统：不可能！](https://news.cctv.com/2025/08/09/ARTIf89GfOaXXSv9957rG3vp250809.shtml)
+

@@ -87,3 +87,5 @@
 
 + [鸿蒙智行第五界首车尚界 H5 搭载 32.6kWh 电池，纯电续航 181km](https://m.ithome.com/html/874108.htm)
 
++ [消息称某厂工程机正在测试“全尺寸副屏”：LTPO 高分高刷，预计为小米 16 Pro Max](https://m.ithome.com/html/873962.htm)
+
