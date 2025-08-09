@@ -63,3 +63,5 @@
 
 + [继 Mate 70 系列后，华为 Pura 80 Pro/Pro+ 手机官方降价 800 元](https://m.ithome.com/html/873964.htm)
 
++ [淘宝 88VIP 权益再更新，88 元可开通原价 258 元的盒马 X 会员年卡](https://m.ithome.com/html/873880.htm)
+

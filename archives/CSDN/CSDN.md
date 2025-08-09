@@ -147,3 +147,9 @@
 
 + [国产 Cortex-M4F 内核 MCU 厂家](https://blog.csdn.net/qq_39567970/article/details/150001489)
 
++ [Docker port 命令详解：容器端口映射](https://blog.csdn.net/qq_41840843/article/details/149043934)
+
++ [特征值和特征向量的直觉](https://blog.csdn.net/gongdiwudu/article/details/149815064)
+
++ [基于Python+Vue+Mysql实现（物联网）智能大棚](https://blog.csdn.net/s1t16/article/details/150008019)
+

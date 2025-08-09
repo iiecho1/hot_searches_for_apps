@@ -217,3 +217,9 @@
 
 + [《南京照相馆》加拿大首映 观众深受触动](https://news.cctv.com/2025/08/09/ARTIkAwzdzI5NraNYtTQ1YtB250809.shtml)
 
++ [泰国陆军说3名士兵在泰柬边境巡逻时触雷受伤](https://news.cctv.com/2025/08/09/ARTIcqss3iHSqrzaTAhnYRWC250809.shtml)
+
++ [泰国一列车脱轨 造成多人受伤](https://news.cctv.com/2025/08/09/ARTI3yx6BwH386xEcKQ0M1L7250809.shtml)
+
++ [土耳其野火致达达尼尔海峡航道临时关闭](https://news.cctv.com/2025/08/09/ARTInOQ0nGVzfP9hi3qZCUxN250809.shtml)
+
