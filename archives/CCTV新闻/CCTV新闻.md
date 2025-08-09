@@ -161,3 +161,5 @@
 
 + [德国6月工业新订单环比下降1%](https://news.cctv.com/2025/08/07/ARTIM5aO25ClUoVANDOfedwZ250807.shtml)
 
++ [卢拉与普京通电话 讨论乌克兰局势及国际经济形势](https://news.cctv.com/2025/08/10/ARTIG6SSKtqfpWDBinNE3s58250810.shtml)
+
