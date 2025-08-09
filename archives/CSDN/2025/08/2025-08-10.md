@@ -109,3 +109,19 @@
 
 + [云原生时代的 Linux：容器、虚拟化与分布式的基石](https://blog.csdn.net/2401_88419115/article/details/150069133)
 
++ [数据分析——Pandas库](https://blog.csdn.net/qq1851417332/article/details/149927294)
+
++ [【LLM】Openai之gpt-oss模型和GPT5模型](https://blog.csdn.net/qq_35812205/article/details/149962101)
+
++ [CA证书、SSL加速器、HTTPS、HTTP和域名之间的关系](https://blog.csdn.net/sunhuaqiang1/article/details/149999920)
+
++ [Web 图像捕获革命：ImageCapture API 全面解析与实战指南](https://blog.csdn.net/TWW844475003/article/details/150078328)
+
++ [从零开始构建情绪可视化日记平台 - React + TypeScript + Vite](https://blog.csdn.net/qq_43129878/article/details/150021249)
+
++ [同事把 Spring Boot 的 application.yml 写成这样，启动直接报红，改哪行？](https://blog.csdn.net/2503_92849275/article/details/150079097)
+
++ [用LaTeX优化FPGA开发：结合符号计算与Vivado工具链](https://blog.csdn.net/qq_43810335/article/details/150024217)
+
++ [SQL Server 2019搭建AlwaysOn高可用集群](https://blog.csdn.net/allenwdj/article/details/149911126)
+

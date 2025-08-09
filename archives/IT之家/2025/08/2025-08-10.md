@@ -43,3 +43,5 @@
 
 + [鸿蒙智行全新问界 M7 汽车可选 36 / 52 度电池版本，纯电续航最高 251km](https://m.ithome.com/html/874114.htm)
 
++ [淘宝 88VIP 权益再更新，88 元可开通原价 258 元的盒马 X 会员年卡](https://m.ithome.com/html/873880.htm)
+
