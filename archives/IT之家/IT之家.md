@@ -45,3 +45,9 @@
 
 + [淘宝 88VIP 权益再更新，88 元可开通原价 258 元的盒马 X 会员年卡](https://m.ithome.com/html/873880.htm)
 
++ [苹果折叠 iPhone 渲染图再曝：5.5/7.8 英寸屏幕、4.8/9.5mm 厚，售价恐超 2000 美元](https://m.ithome.com/html/874132.htm)
+
++ [挑战苹果，国产屏下前摄、屏下 3D 人脸识别机型被曝均已进版实验室](https://m.ithome.com/html/874170.htm)
+
++ [鸿蒙智行第五界首车尚界 H5 搭载 32.6kWh 电池，纯电续航 181km](https://m.ithome.com/html/874108.htm)
+

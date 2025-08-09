@@ -125,3 +125,7 @@
 
 + [SQL Server 2019搭建AlwaysOn高可用集群](https://blog.csdn.net/allenwdj/article/details/149911126)
 
++ [WebSocket服务器工作逻辑大纲](https://blog.csdn.net/2401_89847635/article/details/150122021)
+
++ [XC7VX690T-2FFG1927I Xilinx Virtex-7 FPGA AMD](https://blog.csdn.net/2403_90082736/article/details/149991403)
+
