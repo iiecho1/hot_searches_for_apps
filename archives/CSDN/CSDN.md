@@ -129,3 +129,13 @@
 
 + [飞算 Java 开发实战手册：流程拆解・代码示例・深度对比](https://blog.csdn.net/fyy31/article/details/150076027)
 
++ [CA证书、SSL加速器、HTTPS、HTTP和域名之间的关系](https://blog.csdn.net/sunhuaqiang1/article/details/149999920)
+
++ [GeoTools技术驱动：省会与区县城市迂回系数求解实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/149983020)
+
++ [【C#】掌握并发利器：深入理解 .NET 中的 Task.WhenAll](https://blog.csdn.net/songhuangong123/article/details/150067555)
+
++ [XCZU19EG-2FFVB1517I FPGA Xilinx AMD ZynqUltraScale+ MPSoC](https://blog.csdn.net/2403_90082736/article/details/150023583)
+
++ [上海一家机器人IPO核心零部件依赖外购， 募投计划频繁修改引疑](https://blog.csdn.net/MagicIPO/article/details/150031828)
+

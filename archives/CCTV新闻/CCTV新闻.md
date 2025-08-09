@@ -201,3 +201,13 @@
 
 + [美媒：特朗普将撤换国税局长 财长暂时代理](https://news.cctv.com/2025/08/09/ARTIqqyP3CWxIDtXfOAawW0B250809.shtml)
 
++ [高关税拖累全球 世贸组织下调明年货物贸易增长预期](https://news.cctv.com/2025/08/09/ARTIqP3aU5veScWqid0BXw2p250809.shtml)
+
++ [美“龙”飞船载4名宇航员启程返回地球](https://news.cctv.com/2025/08/09/ARTIQ33EB6vKxwwPTzHc7GHv250809.shtml)
+
++ [自民党内辞职呼声再起 石破茂重申留任意向](https://news.cctv.com/2025/08/09/ARTI9YmjrW0wltALOBXqoJcJ250809.shtml)
+
++ [美国加州野火蔓延 数千居民被迫撤离](https://news.cctv.com/2025/08/09/ARTI0kbWGVrg1bjOgN2Guhj7250809.shtml)
+
++ [中国驻洛杉矶总领馆再次提醒南加州中国公民注意防范山火灾害](https://news.cctv.com/2025/08/09/ARTIUbvIMPUPllr112iiAkz7250809.shtml)
+
