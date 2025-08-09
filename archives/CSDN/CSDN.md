@@ -177,3 +177,9 @@
 
 + [Emacs 折腾日记(二十九)—— 打造C++ IDE](https://blog.csdn.net/lanuage/article/details/150057569)
 
++ [Elasticsearch：在向量搜索中使用 Direct IO](https://blog.csdn.net/UbuntuTouch/article/details/150078165)
+
++ [【AI大模型前沿】Kwai Keye-VL：颠覆认知、国产多模态大模型突然发布，视频理解能力堪比人类](https://blog.csdn.net/xiaobing259/article/details/150005208)
+
++ [2.9 插槽](https://blog.csdn.net/chxii/article/details/150056520)
+
