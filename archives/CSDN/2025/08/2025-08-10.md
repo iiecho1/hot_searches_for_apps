@@ -129,3 +129,7 @@
 
 + [XC7VX690T-2FFG1927I Xilinx Virtex-7 FPGA AMD](https://blog.csdn.net/2403_90082736/article/details/149991403)
 
++ [【AI】——SpringAI通过Ollama本地部署的Deepseek模型实现一个对话机器人（二）](https://blog.csdn.net/shsjssnn/article/details/146008910)
+
++ [数据库不停服迁移黑科技 : 百万用户无感知的魔法操作](https://blog.csdn.net/qq_44378083/article/details/149136651)
+
