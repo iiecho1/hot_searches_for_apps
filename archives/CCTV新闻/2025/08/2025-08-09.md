@@ -173,3 +173,31 @@
 
 + [特朗普：美俄在乌克兰问题上已“非常接近”达成协议](https://news.cctv.com/2025/08/09/ARTII6cHCp2uiauuxBK4ebEw250809.shtml)
 
++ [普京特朗普为何在阿拉斯加会面？](https://news.cctv.com/2025/08/09/ARTI9sskMCzy1Tg8y9KvzJ3v250809.shtml)
+
++ [巴西外交部召见美驻巴代办 就最高法院法官遭威胁事件提出交涉](https://news.cctv.com/2025/08/09/ARTIPRQ4oicjSf2jxU1PSruD250809.shtml)
+
++ [委内瑞拉政府延长经济紧急状态法令以应对制裁](https://news.cctv.com/2025/08/09/ARTIkPnaOhA2EL3vNWgowkky250809.shtml)
+
++ [内部曝争吵、外交遭谴责 以“接管加沙城”计划有多危险](https://news.cctv.com/2025/08/09/ARTIXHe4tFTVHNCUXHlj99kV250809.shtml)
+
++ [极端高温影响全球 凸显改善早期预警系统和推动高温健康行动计划重要性](https://news.cctv.com/2025/08/09/ARTIkPqWx6RZ3CcFxF3kQokS250809.shtml)
+
++ [美国关税税率达新高 世界贸易组织下调2026年全球货物贸易增长预期](https://news.cctv.com/2025/08/09/ARTI8c5z29FjwLwpopkh1CgE250809.shtml)
+
++ [俄称实施集群打击 乌称摧毁俄雷达站](https://news.cctv.com/2025/08/09/ARTImvzvpUHkkRVjwm210ePV250809.shtml)
+
++ [特朗普政府再次施压哈佛大学 下令审查其联邦资助科研项目](https://news.cctv.com/2025/08/09/ARTIouKhvTHtZaycYh14erpp250809.shtml)
+
++ [美国多所顶尖大学被诉操纵“提前录取”抬高学费](https://news.cctv.com/2025/08/09/ARTIMaAwsgbpYVAMtCK981ae250809.shtml)
+
++ [美国埃默里大学亚特兰大校区枪击事件一名嫌疑人死亡](https://news.cctv.com/2025/08/09/ARTIspDnqXE7NC6plnBzC4Td250809.shtml)
+
++ [以色列接管加沙城计划暴露困境 欧洲对以发出暂停军售威胁](https://news.cctv.com/2025/08/09/ARTIZRblaAjbAGpzZwWQTkdd250809.shtml)
+
++ [法国强烈谴责以色列接管加沙城计划](https://news.cctv.com/2025/08/09/ARTIVfUiAzI2zZJi8RxVT0if250809.shtml)
+
++ [希腊多地因强风引发大规模野火](https://news.cctv.com/2025/08/09/ARTIvHqGPyRdsMIm1uRPbF99250809.shtml)
+
++ [美媒：特朗普将撤换国税局长 财长暂时代理](https://news.cctv.com/2025/08/09/ARTIqqyP3CWxIDtXfOAawW0B250809.shtml)
+
