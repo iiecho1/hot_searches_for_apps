@@ -169,3 +169,11 @@
 
 + [Agent配置最佳实践：Prompt工程与参数调优](https://blog.csdn.net/IRpickstars/article/details/150055547)
 
++ [GPT-5发布会：AI新纪元的启幕还是旧章的延续？](https://blog.csdn.net/beautifulmemory/article/details/150075236)
+
++ [客户端攻击防御：详解现代浏览器安全措施](https://blog.csdn.net/2301_79518550/article/details/149931044)
+
++ [数学建模——遗传算法](https://blog.csdn.net/shenghaide_jiahu/article/details/150064949)
+
++ [Emacs 折腾日记(二十九)—— 打造C++ IDE](https://blog.csdn.net/lanuage/article/details/150057569)
+
