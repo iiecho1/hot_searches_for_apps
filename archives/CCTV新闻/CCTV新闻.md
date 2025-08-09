@@ -241,3 +241,5 @@
 
 + [美军或进入墨西哥打击贩毒集团？墨总统：不可能！](https://news.cctv.com/2025/08/09/ARTIf89GfOaXXSv9957rG3vp250809.shtml)
 
++ [俄称击落乌克兰苏-27战机](https://news.cctv.com/2025/08/09/ARTIMYNX9qFoc6GoBvBjAA77250809.shtml)
+
