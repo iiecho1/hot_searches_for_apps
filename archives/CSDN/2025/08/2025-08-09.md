@@ -141,3 +141,9 @@
 
 + [TensorFlow深度学习实战（29）——自监督学习（Self-Supervised Learning）](https://blog.csdn.net/LOVEmy134611/article/details/144547546)
 
++ [WebGIS视角下基孔肯雅热流行风险地区分类实战解析](https://blog.csdn.net/yelangkingwuzuhu/article/details/150100805)
+
++ [从零玩转Linux云主机：免费申请、连接终端、命令速查表](https://blog.csdn.net/2302_81247414/article/details/142305047)
+
++ [国产 Cortex-M4F 内核 MCU 厂家](https://blog.csdn.net/qq_39567970/article/details/150001489)
+

@@ -215,3 +215,5 @@
 
 + [日本长崎市举行原子弹爆炸80周年纪念仪式](https://news.cctv.com/2025/08/09/ARTIfna5cLxiqIJqypjFoU1c250809.shtml)
 
++ [《南京照相馆》加拿大首映 观众深受触动](https://news.cctv.com/2025/08/09/ARTIkAwzdzI5NraNYtTQ1YtB250809.shtml)
+
