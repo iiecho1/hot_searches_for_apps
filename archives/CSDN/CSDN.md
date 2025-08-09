@@ -133,3 +133,9 @@
 
 + [数据库不停服迁移黑科技 : 百万用户无感知的魔法操作](https://blog.csdn.net/qq_44378083/article/details/149136651)
 
++ [【深度学习计算性能】02：异步计算](https://blog.csdn.net/Morse_Chen/article/details/150025970)
+
++ [Decoder模型 向量模长表示什么](https://blog.csdn.net/qq_38998213/article/details/150118765)
+
++ [某车企智能质检AI助手架构实践：AI应用架构师的跨部门协作经验](https://blog.csdn.net/universsky2015/article/details/150112118)
+
