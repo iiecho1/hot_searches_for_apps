@@ -163,3 +163,9 @@
 
 + [卢拉与普京通电话 讨论乌克兰局势及国际经济形势](https://news.cctv.com/2025/08/10/ARTIG6SSKtqfpWDBinNE3s58250810.shtml)
 
++ [中国总领馆：在澳遭群殴留学生已脱离生命危险](https://news.cctv.com/2025/08/10/ARTIzM51f4mN9StvttlwFp1U250810.shtml)
+
++ [泰方指责柬方违反《渥太华公约》 柬方驳斥](https://news.cctv.com/2025/08/10/ARTIJOWUAhtGH3ZzA5qxuh0e250810.shtml)
+
++ [四名宇航员搭乘美国“龙”飞船返回地球](https://news.cctv.com/2025/08/10/ARTI6s7SXh2dgxa0glfrAFAS250810.shtml)
+
