@@ -243,3 +243,9 @@
 
 + [俄称击落乌克兰苏-27战机](https://news.cctv.com/2025/08/09/ARTIMYNX9qFoc6GoBvBjAA77250809.shtml)
 
++ [特朗普：华盛顿特区已成为世界最危险城市之一](https://news.cctv.com/2025/08/09/ARTIGHpElxC2Ly64AcguJOhM250809.shtml)
+
++ [美国亚特兰大枪击事件嫌疑人身份已确定](https://news.cctv.com/2025/08/09/ARTIn7KmxTeX1YutaOlLka3v250809.shtml)
+
++ [英美乌等国拟在美俄元首会晤前举行国家安全顾问会议](https://news.cctv.com/2025/08/09/ARTI92UojcEigZPc6Dnt7Rbc250809.shtml)
+
