@@ -65,3 +65,25 @@
 
 + [淘宝 88VIP 权益再更新，88 元可开通原价 258 元的盒马 X 会员年卡](https://m.ithome.com/html/873880.htm)
 
++ [Jon Prosser 无惧苹果起诉，发新视频多角度渲染展示 iPhone 17 Pro / Air](https://m.ithome.com/html/874135.htm)
+
++ [蔚来相关人士回应小米、蔚来通过富国银行茅某某向海外转移资金：假消息](https://m.ithome.com/html/874116.htm)
+
++ [吉利银河 A7 混动家轿上市：Flyme Auto 座舱，8.18 万元起](https://m.ithome.com/html/874081.htm)
+
++ [华为月度 / 季度安全更新机型列表公布，Mate 40、P50 系列离场](https://m.ithome.com/html/874090.htm)
+
++ [中国移动 &amp; 抖音宣布推出动感地带联名卡：59/79 元两档可选](https://m.ithome.com/html/874120.htm)
+
++ [“苹果牌 AI”拥抱 GPT-5，预计下月登陆 iOS / iPadOS / macOS 26](https://m.ithome.com/html/874139.htm)
+
++ [王化：小米集团没有和富国银行以及“茅 XX”开展过任何合作](https://m.ithome.com/html/874076.htm)
+
++ [苹果折叠 iPhone 渲染图再曝：5.5/7.8 英寸屏幕、4.8/9.5mm 厚，售价恐超 2000 美元](https://m.ithome.com/html/874132.htm)
+
++ [鸿蒙智行全新问界 M7 汽车可选 36 / 52 度电池版本，纯电续航最高 251km](https://m.ithome.com/html/874114.htm)
+
++ [挑战苹果，国产屏下前摄、屏下 3D 人脸识别机型被曝均已进版实验室](https://m.ithome.com/html/874170.htm)
+
++ [鸿蒙智行第五界首车尚界 H5 搭载 32.6kWh 电池，纯电续航 181km](https://m.ithome.com/html/874108.htm)
+

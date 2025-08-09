@@ -223,3 +223,11 @@
 
 + [土耳其野火致达达尼尔海峡航道临时关闭](https://news.cctv.com/2025/08/09/ARTInOQ0nGVzfP9hi3qZCUxN250809.shtml)
 
++ [韩军称监测到朝鲜开始拆除对韩扩音广播设施](https://news.cctv.com/2025/08/09/ARTIunLMR7mVuLb20TcNzG6c250809.shtml)
+
++ [现场视频丨泰国一列车脱轨 造成多人受伤](https://news.cctv.com/2025/08/09/ARTIf1KMZs6BnA5iA00K1kp9250809.shtml)
+
++ [泽连斯基回应乌克兰领土相关问题：乌宪法里有答案](https://news.cctv.com/2025/08/09/ARTI1BHeozDYLKGfGQU0t20G250809.shtml)
+
++ [0℃下的艺术 俄运动员成为在北极点完成艺术体操第一人](https://people.cctv.com/2025/08/09/ARTIaYGWa5p9njcUODwMCGBZ250809.shtml)
+

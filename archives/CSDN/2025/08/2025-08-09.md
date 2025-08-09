@@ -153,3 +153,5 @@
 
 + [基于Python+Vue+Mysql实现（物联网）智能大棚](https://blog.csdn.net/s1t16/article/details/150008019)
 
++ [uni-app X能成为下一个Flutter吗？](https://blog.csdn.net/developer_laoliu/article/details/149976335)
+
