@@ -165,3 +165,7 @@
 
 + [5. 缓存-Redis](https://blog.csdn.net/princemilo/article/details/150076653)
 
++ [Java 大视界 -- Java 大数据在智能教育在线课程互动优化与学习体验提升中的应用（386）](https://blog.csdn.net/atgfg/article/details/150027885)
+
++ [Agent配置最佳实践：Prompt工程与参数调优](https://blog.csdn.net/IRpickstars/article/details/150055547)
+
