@@ -169,3 +169,5 @@
 
 + [四名宇航员搭乘美国“龙”飞船返回地球](https://news.cctv.com/2025/08/10/ARTI6s7SXh2dgxa0glfrAFAS250810.shtml)
 
++ [千岛群岛地区发生6.0级地震](https://news.cctv.com/2025/08/10/ARTIbEjdJcsQiD7qOfSNL8eE250810.shtml)
+

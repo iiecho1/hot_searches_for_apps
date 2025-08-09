@@ -139,3 +139,7 @@
 
 + [某车企智能质检AI助手架构实践：AI应用架构师的跨部门协作经验](https://blog.csdn.net/universsky2015/article/details/150112118)
 
++ [如何显示一个 Elasticsearch 索引的字段](https://blog.csdn.net/UbuntuTouch/article/details/149998378)
+
++ [OpenBMC中libgpio架构与驱动交互全解析：从硬件映射到应用控制](https://blog.csdn.net/qq_37037348/article/details/150072663)
+
