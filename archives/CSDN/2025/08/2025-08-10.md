@@ -169,3 +169,9 @@
 
 + [【话题讨论】GPT-5 发布全解读：参数升级、长上下文与多领域能力提升](https://blog.csdn.net/qq_41140324/article/details/150143167)
 
++ [AI热点周报（8.3~8.9）：OpenAI重返开源，Anthropic放大招，Claude4.1、GPT5相继发布](https://blog.csdn.net/qq_51646682/article/details/150104095)
+
++ [使用Python提取PDF大纲（书签）完整指南](https://blog.csdn.net/yqwang75457/article/details/150077572)
+
++ [HTML已死，HTML万岁——重新思考DOM的底层设计理念](https://blog.csdn.net/2301_79342058/article/details/150025361)
+

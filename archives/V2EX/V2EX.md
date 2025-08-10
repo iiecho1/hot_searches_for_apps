@@ -45,3 +45,5 @@
 
 + [升级 Debian trixie 差点把系统搞挂了](https://www.v2ex.com/t/1151325)
 
++ [$v2ex 不同交易方式手续费对比,新人多看看](https://www.v2ex.com/t/1151318)
+
