@@ -173,3 +173,31 @@
 
 + [乍得前总理马斯拉被判20年监禁](https://news.cctv.com/2025/08/10/ARTIU1wQVTSvC6Y4wUZGOLax250810.shtml)
 
++ [美警方：巴尔的摩发生大规模枪击事件](https://news.cctv.com/2025/08/10/ARTIRQUXT2PrwapBMJ5GBNtf250810.shtml)
+
++ [日本新燃岳火山喷发 已发布三级警戒](https://news.cctv.com/2025/08/10/ARTIZ2aQ4wuo9tFGKBZ6ljHb250810.shtml)
+
++ [“抗议支持巴勒斯坦组织被禁”，外媒：英国爆发大规模示威活动，逾466人被捕](https://news.cctv.com/2025/08/10/ARTIj6PPT1l4pKynKVznmBau250810.shtml)
+
++ [缺水断粮 高温加重加沙民众苦难](https://news.cctv.com/2025/08/10/ARTIjtCBE7AHA2tYYciBabAK250810.shtml)
+
++ [多国谴责+民众抗议！以军“接管加沙城”计划内外承压](https://news.cctv.com/2025/08/10/ARTIdQd0jONnVPWZQlm62VvC250810.shtml)
+
++ [美国“龙”飞船载4名宇航员返回地球](https://news.cctv.com/2025/08/10/ARTIfNx0XyDK9EJxXLC7dLbR250810.shtml)
+
++ [埃土重申反对以色列“重新军事占领加沙地带”](https://news.cctv.com/2025/08/10/ARTIf9Tu4qwDJp0ZMecuBbri250810.shtml)
+
++ [“欧洲必须上桌” 俄美元首会晤在即 欧乌美在英国协调立场](https://news.cctv.com/2025/08/10/ARTIozmUbGOL4BGHB2LcP2lB250810.shtml)
+
++ [委内瑞拉议会谴责美国对委干涉企图](https://news.cctv.com/2025/08/10/ARTI1cb0sTBQWDDjQkeNL9s6250810.shtml)
+
++ [土耳其达达尼尔海峡航道重新开放](https://news.cctv.com/2025/08/10/ARTIjLtPnA4Ip8kuDfZhSEBm250810.shtml)
+
++ [日本新燃岳火山喷发 火山灰柱高达3000米](https://news.cctv.com/2025/08/10/ARTIGIf61RS3EFUjcGLTUozl250810.shtml)
+
++ [泽连斯基：乌美保持全天候、多层次接触](https://news.cctv.com/2025/08/10/ARTINyWzhoHggMxa7XrzcMZt250810.shtml)
+
++ [危地马拉沿岸近海发生6.0级地震，震源深度10千米](https://news.cctv.com/2025/08/10/ARTINdikPEdJbS6YUBZQdM3L250810.shtml)
+
++ [留澳学生被五名未成年人殴打致重伤 中国驻墨尔本总领馆通报最新进展](https://news.cctv.com/2025/08/10/ARTIrJnkIOaG4BxfpF5w5JTa250810.shtml)
+
