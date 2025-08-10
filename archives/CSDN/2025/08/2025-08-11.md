@@ -155,3 +155,7 @@
 
 + [《Learning To Count Everything》论文阅读](https://blog.csdn.net/weixin_46425692/article/details/150101758)
 
++ [GPT-5 全面解析与 DeepSeek 实战对比：推理、工具调用、上下文与成本](https://blog.csdn.net/qq_52213943/article/details/150070314)
+
++ [【线性代数】线性方程组与矩阵——（2）矩阵与线性方程组的解](https://blog.csdn.net/weixin_45725295/article/details/150116477)
+
