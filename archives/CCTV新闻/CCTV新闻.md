@@ -229,3 +229,5 @@
 
 + [民调：超半数德国民众支持承认巴勒斯坦国](https://news.cctv.com/2025/08/10/ARTIL71HifqwuYoLfE9hAOBe250810.shtml)
 
++ [俄科米共和国首次遭乌无人机袭击 一市进入警戒状态](https://news.cctv.com/2025/08/10/ARTIOMybSNg2h2xnAwr8BgCT250810.shtml)
+
