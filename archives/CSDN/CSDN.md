@@ -163,3 +163,9 @@
 
 + [TCP服务建立的全流程详解](https://blog.csdn.net/qq_48625029/article/details/150168922)
 
++ [AI Compass前沿速览：Claude Opus 4.1、MiniMax-Speech 2.5、Qwen-Flash、Jules – 谷歌AI编程智能体](https://blog.csdn.net/sinat_39620217/article/details/150027538)
+
++ [【网络安全】CTF——[网鼎杯2018]Unfinish-SQL注入-二次注入](https://blog.csdn.net/2301_79915754/article/details/150016940)
+
++ [AI编程工具 | Trae介绍](https://blog.csdn.net/qq_34660967/article/details/150118803)
+
