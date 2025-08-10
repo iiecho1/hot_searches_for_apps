@@ -215,3 +215,9 @@
 
 + [忧美国关税影响 日本仅三分之一大企业预期经济增长](https://news.cctv.com/2025/08/10/ARTIKlMj6kE4X6GYWhyh8dII250810.shtml)
 
++ [尼日利亚外交部：拒绝接收被美国驱逐的非法移民](https://news.cctv.com/2025/08/10/ARTIRUeCuu7UQ3Y9Kk9SNGzv250810.shtml)
+
++ [综述丨巴西“硬刚”美国关税霸凌：主权与尊严之战](https://news.cctv.com/2025/08/10/ARTINdbLQhCzDwNZv82ZoWi2250810.shtml)
+
++ [中国蔬菜在万象的“一日旅程”](https://news.cctv.com/2025/08/10/ARTICvDBy8qTjwrR6DMIpckT250810.shtml)
+
