@@ -201,3 +201,5 @@
 
 + [留澳学生被五名未成年人殴打致重伤 中国驻墨尔本总领馆通报最新进展](https://news.cctv.com/2025/08/10/ARTIrJnkIOaG4BxfpF5w5JTa250810.shtml)
 
++ [柬埔寨否认在柬泰边境埋设新地雷 要求泰方尊重边界协议](https://news.cctv.com/2025/08/10/ARTIRtYRhKyOa2AzLZ8VMzOn250810.shtml)
+

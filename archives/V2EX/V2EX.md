@@ -35,3 +35,7 @@
 
 + [继续给新人解答币圈任何问题](https://www.v2ex.com/t/1151224)
 
++ [现在做论坛晚吗？有点迷茫！](https://www.v2ex.com/t/1151321)
+
++ [AI 炒股， Stocks AI 诚邀 A 股短线天才交易员前来体验 5](https://www.v2ex.com/t/1151236)
+

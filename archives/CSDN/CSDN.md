@@ -153,3 +153,5 @@
 
 + [InnoDB vs MyISAM: MySQL存储引擎的世纪对决](https://blog.csdn.net/qq_44378083/article/details/149136864)
 
++ [GPT-5 全面解析与 DeepSeek 实战对比：推理、工具调用、上下文与成本](https://blog.csdn.net/qq_52213943/article/details/150070314)
+
