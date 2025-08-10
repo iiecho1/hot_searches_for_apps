@@ -193,3 +193,21 @@
 
 + [ELK+Redis+Nginx多节点部署实战：从日志收集到可视化分析](https://blog.csdn.net/2401_84202965/article/details/150072844)
 
++ [深入剖析Spring MVC核心原理：从请求到响应的魔法解密](https://blog.csdn.net/m0_74385041/article/details/150113675)
+
++ [Vue3 - Element-Plus实现el-menu无限级菜单组件，菜单栏无限多层级分类，导航栏递归动态菜单和动态路由的渲染源码（基于Menu封装左侧菜单栏组件，支持接口获取动态数据、懒加载菜单）](https://blog.csdn.net/weixin_44198965/article/details/150149821)
+
++ [13. 搜索引擎-ElasticSearch](https://blog.csdn.net/princemilo/article/details/150067159)
+
++ [Dify集成 Echarts 实现智能数据报表集成与展示实战详解](https://blog.csdn.net/zhangcongyi420/article/details/150106579)
+
++ [云平台运维工具 —— 阿里云原生工具](https://blog.csdn.net/ececec12/article/details/150060938)
+
++ [Spring Boot + Angular 实现安全登录注册系统：全栈开发指南](https://blog.csdn.net/h356363/article/details/150020680)
+
++ [键盘战士：我的Qwen Coder挑战赛参赛项目](https://blog.csdn.net/qq_40703755/article/details/150143591)
+
++ [HarmonyOS5 源码分析 —— 生命周期与状态管理（2）](https://blog.csdn.net/m0_51748282/article/details/150149741)
+
++ [【完整源码+数据集+部署教程】停车位状态检测系统源码和数据集：改进yolo11-cls](https://blog.csdn.net/weixin_43860634/article/details/150101222)
+

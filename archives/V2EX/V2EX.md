@@ -51,3 +51,5 @@
 
 + [[免费] LazyTyper：用「嘴」写代码，给 Claude Code 发语音（Mac 首发）](https://www.v2ex.com/t/1151314)
 
++ [如何在首发的时候买到日本 iPhone 17 pro max?](https://www.v2ex.com/t/1151311)
+
