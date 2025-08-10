@@ -101,3 +101,13 @@
 
 + [数学建模——遗传算法](https://blog.csdn.net/shenghaide_jiahu/article/details/150064949)
 
++ [【Java生产级避坑指南】序章 CMS GC的Promotion Failed问题解析与生产级优化实践](https://blog.csdn.net/weixin_39815573/article/details/149686282)
+
++ [K-means聚类学习：原理、实践与API解析](https://blog.csdn.net/2201_75607087/article/details/150116293)
+
++ [社区团购springboot+vue的社区团购系统(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/150109847)
+
++ [快速傅里叶变换（fft)————数学与算法的魔术](https://blog.csdn.net/m0_55473582/article/details/150118280)
+
++ [Claude Code 的核心能力与架构解析](https://blog.csdn.net/adcwa/article/details/150112571)
+

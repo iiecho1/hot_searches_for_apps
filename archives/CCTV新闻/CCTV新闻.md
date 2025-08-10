@@ -161,3 +161,5 @@
 
 + [俄罗斯与乌兹别克斯坦两国总统通话 讨论俄乌冲突及双边合作](https://news.cctv.com/2025/08/08/ARTIYAgPaRmeMRKMul7Aq3G9250808.shtml)
 
++ [欧盟高级代表：美俄之间的协议须包含乌克兰和欧盟](https://news.cctv.com/2025/08/11/ARTIKTndeDmVrxLoJWwJtVuU250810.shtml)
+
