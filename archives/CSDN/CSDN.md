@@ -165,3 +165,7 @@
 
 + [数学建模——粒子群算法](https://blog.csdn.net/shenghaide_jiahu/article/details/150014634)
 
++ [【AI大模型前沿】Nanonets-OCR-s：从学术论文到法律合同，智能识别公式、签名、表格与图像](https://blog.csdn.net/xiaobing259/article/details/150006069)
+
++ [【话题讨论】GPT-5 发布全解读：参数升级、长上下文与多领域能力提升](https://blog.csdn.net/qq_41140324/article/details/150143167)
+

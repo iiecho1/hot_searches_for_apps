@@ -43,3 +43,5 @@
 
 + [求助, 楼上空调滴水且不配合整改有解吗](https://www.v2ex.com/t/1151322)
 
++ [升级 Debian trixie 差点把系统搞挂了](https://www.v2ex.com/t/1151325)
+

@@ -205,3 +205,11 @@
 
 + [马里亚纳群岛发生5.9级地震，震源深度10千米](https://news.cctv.com/2025/08/10/ARTI2w7ksvTFGA3ylcMmMnEe250810.shtml)
 
++ [美国巴尔的摩大规模枪击事件致6人受伤](https://news.cctv.com/2025/08/10/ARTIz1oMTFhD7IqNRjSXgHwS250810.shtml)
+
++ [白宫称先按普京要求准备俄美会晤 泽连斯基：和平方案必须与乌共商](https://news.cctv.com/2025/08/10/ARTIfM2adVpl8iXQXU8wmhoa250810.shtml)
+
++ [英军一F-35战机在日本鹿儿岛机场紧急着陆 跑道临时关闭](https://news.cctv.com/2025/08/10/ARTIOce62V6LTaLBLo9oKM9L250810.shtml)
+
++ [印尼杜科诺火山喷发 火山灰柱达800米](https://news.cctv.com/2025/08/10/ARTIiKWMM8agH1uOUjbceXGK250810.shtml)
+
