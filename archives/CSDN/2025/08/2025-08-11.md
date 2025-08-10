@@ -145,3 +145,13 @@
 
 + [java分布式定时任务](https://blog.csdn.net/hqxstudying/article/details/150077765)
 
++ [本科毕业论文怎么引用github里面数据集](https://blog.csdn.net/FL1623863129/article/details/150106479)
+
++ [宝龙地产债务化解解决方案一：基于资产代币化与轻资产转型的战略重构](https://blog.csdn.net/idaretobe/article/details/150072421)
+
++ [组合期权：垂直价差](https://blog.csdn.net/K346K346/article/details/150022911)
+
++ [嵌入式串口通信高阶实战（2/3）——协议设计(简化版+专业版)](https://blog.csdn.net/Dustinthewine/article/details/150155831)
+
++ [《Learning To Count Everything》论文阅读](https://blog.csdn.net/weixin_46425692/article/details/150101758)
+
