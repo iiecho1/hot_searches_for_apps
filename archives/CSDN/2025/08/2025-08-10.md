@@ -143,3 +143,5 @@
 
 + [OpenBMC中libgpio架构与驱动交互全解析：从硬件映射到应用控制](https://blog.csdn.net/qq_37037348/article/details/150072663)
 
++ [Qt/C++开发监控GB28181系统/实时监测设备在线离线/视频预览自动重连/重新点播取流/低延迟](https://blog.csdn.net/feiyangqingyun/article/details/150100710)
+

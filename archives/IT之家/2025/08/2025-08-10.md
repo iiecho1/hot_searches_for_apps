@@ -51,3 +51,25 @@
 
 + [鸿蒙智行第五界首车尚界 H5 搭载 32.6kWh 电池，纯电续航 181km](https://m.ithome.com/html/874108.htm)
 
++ [微信 iOS 版 8.0.62 最新官方正式版下载发布](https://m.ithome.com/html/874176.htm)
+
++ [以蚊治蚊：广州释放“绝育雄蚊”对抗基孔肯雅热，周产 500 万只](https://m.ithome.com/html/874260.htm)
+
++ [阿里云通义千问 Qwen Code 宣布每日可免费运行 2000 次：仅限中国大陆用户，一行命令即可安装](https://m.ithome.com/html/874268.htm)
+
++ [吉利银河 A7 上市 1 天大定突破 1 万台，限时指导价 8.18 万元起](https://m.ithome.com/html/874244.htm)
+
++ [蔚来李斌周末加班中过生日，吹响全新 ES8 冲锋号](https://m.ithome.com/html/874254.htm)
+
++ [2025 腾讯视频动漫预告：《仙剑奇侠传三》《圣墟》《神秘复苏》《火旺》《灵境行者》《十日终焉》《轮洄乐园》《雪中悍刀行》等等](https://m.ithome.com/html/874207.htm)
+
++ [告别“天价施救”：9 月 1 日起江苏省免收高速救援拖车吊车费](https://m.ithome.com/html/874182.htm)
+
++ [1099 元“别墅专用”华为智能门锁 2 系列装饰锁发售：满足双开门对称设计，不具备实际功能](https://m.ithome.com/html/874265.htm)
+
++ [消息称德州仪器在中国创纪录大规模上调价格：涉 60000+ 品类，涨幅 10%~30+%](https://m.ithome.com/html/874239.htm)
+
++ [微软 Edge 浏览器 139 版本新增支持官方定制 Flash Player 拓展插件](https://m.ithome.com/html/874247.htm)
+
++ [吉利银河 M9 将开启首次动态内测，5.2 米大六座旗舰 SUV](https://m.ithome.com/html/874223.htm)
+

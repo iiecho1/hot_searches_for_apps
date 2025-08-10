@@ -171,3 +171,5 @@
 
 + [千岛群岛地区发生6.0级地震](https://news.cctv.com/2025/08/10/ARTIbEjdJcsQiD7qOfSNL8eE250810.shtml)
 
++ [乍得前总理马斯拉被判20年监禁](https://news.cctv.com/2025/08/10/ARTIU1wQVTSvC6Y4wUZGOLax250810.shtml)
+

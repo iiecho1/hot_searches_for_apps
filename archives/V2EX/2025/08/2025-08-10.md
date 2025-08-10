@@ -27,3 +27,7 @@
 
 + [尝试做油管，几乎没播放，好难](https://www.v2ex.com/t/1151278)
 
++ [switch 萌新买了 switch2，港版的，有一些问题想求教各位大佬](https://www.v2ex.com/t/1151263)
+
++ [Google 账户风控新政策，需要原手机号发短信！发短信！](https://www.v2ex.com/t/1151269)
+
