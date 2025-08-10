@@ -53,3 +53,5 @@
 
 + [如何在首发的时候买到日本 iPhone 17 pro max?](https://www.v2ex.com/t/1151311)
 
++ [求推荐好的提醒软件](https://www.v2ex.com/t/1151347)
+

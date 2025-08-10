@@ -225,3 +225,7 @@
 
 + [西班牙莱昂省森林大火威胁世界文化遗产 居民紧急撤离](https://news.cctv.com/2025/08/10/ARTIR0nXxunaBbgwg8QDNQS5250810.shtml)
 
++ [乌克兰敖德萨州附近海域发生两起爆炸 致3人死亡](https://news.cctv.com/2025/08/10/ARTIdzO2ZR15TO9jxcQLRJbT250810.shtml)
+
++ [民调：超半数德国民众支持承认巴勒斯坦国](https://news.cctv.com/2025/08/10/ARTIL71HifqwuYoLfE9hAOBe250810.shtml)
+
