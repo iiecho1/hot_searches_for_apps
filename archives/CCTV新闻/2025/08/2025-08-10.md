@@ -203,3 +203,5 @@
 
 + [柬埔寨否认在柬泰边境埋设新地雷 要求泰方尊重边界协议](https://news.cctv.com/2025/08/10/ARTIRtYRhKyOa2AzLZ8VMzOn250810.shtml)
 
++ [马里亚纳群岛发生5.9级地震，震源深度10千米](https://news.cctv.com/2025/08/10/ARTI2w7ksvTFGA3ylcMmMnEe250810.shtml)
+

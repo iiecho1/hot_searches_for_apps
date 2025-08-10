@@ -155,3 +155,13 @@
 
 + [GPT-5 全面解析与 DeepSeek 实战对比：推理、工具调用、上下文与成本](https://blog.csdn.net/qq_52213943/article/details/150070314)
 
++ [数据库删除术:逻辑删除 vs 物理删除，选错毁所有](https://blog.csdn.net/qq_44378083/article/details/149137040)
+
++ [[科普] AI加速器架构全景图：从GPU到光计算的算力革命](https://blog.csdn.net/jz_ddk/article/details/150076076)
+
++ [可泛化双手操作机器人基准测试：CVPR 2025 MEIS 研讨会 RoboTwin 双臂协作挑战赛](https://blog.csdn.net/yorkhunter/article/details/150115694)
+
++ [从0到1学习微服务项目黑马头条day01-《APP端登录功能实现》](https://blog.csdn.net/2302_80329073/article/details/150021168)
+
++ [数学建模——粒子群算法](https://blog.csdn.net/shenghaide_jiahu/article/details/150014634)
+

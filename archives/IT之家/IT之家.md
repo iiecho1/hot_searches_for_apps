@@ -73,3 +73,9 @@
 
 + [吉利银河 M9 将开启首次动态内测，5.2 米大六座旗舰 SUV](https://m.ithome.com/html/874223.htm)
 
++ [329 元华为移动路由 5 新品发布：4G + Wi-Fi 4 制式，天际通版可选](https://m.ithome.com/html/874264.htm)
+
++ [小米磁吸支架充电宝 10000 7.5W 开售：自带线设计，169 元](https://m.ithome.com/html/874261.htm)
+
++ [你用的“清洁神器”正在污染地球，魔力海绵每克磨损平均释放 650 万根微塑料](https://m.ithome.com/html/874217.htm)
+
