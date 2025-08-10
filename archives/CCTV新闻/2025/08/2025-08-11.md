@@ -163,3 +163,7 @@
 
 + [欧盟高级代表：美俄之间的协议须包含乌克兰和欧盟](https://news.cctv.com/2025/08/11/ARTIKTndeDmVrxLoJWwJtVuU250810.shtml)
 
++ [内塔尼亚胡召开记者会 公布以军最新行动计划](https://news.cctv.com/2025/08/11/ARTIQr9FQYqoM7GwrcCbtpSa250811.shtml)
+
++ [特朗普称将迅速清理无家可归者“夺回首都”](https://news.cctv.com/2025/08/11/ARTIPaQ5LXfjWlA9E7KxnrHp250810.shtml)
+

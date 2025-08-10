@@ -111,3 +111,37 @@
 
 + [Claude Code 的核心能力与架构解析](https://blog.csdn.net/adcwa/article/details/150112571)
 
++ [Agent在游戏行业的应用：NPC智能化与游戏体验提升](https://blog.csdn.net/IRpickstars/article/details/150146684)
+
++ [【架构选择】目前主要软件系统架构有哪几种，举例说明+软件系统架构选择通用流程](https://blog.csdn.net/slty_123/article/details/150161217)
+
++ [Java 大视界 -- Java 大数据在智能医疗手术机器人操作数据记录与性能评估中的应用（390）](https://blog.csdn.net/atgfg/article/details/150118195)
+
++ [计算机网络：（十四）传输层（下）详细讲解TCP报文段的首部格式，TCP 可靠传输的实现与TCP 的流量控制](https://blog.csdn.net/2402_83322742/article/details/150167684)
+
++ [深入剖析Spring MVC核心原理：从请求到响应的魔法解密](https://blog.csdn.net/m0_74385041/article/details/150113675)
+
++ [智能预测系统架构：如何实现高效的模型优化？](https://blog.csdn.net/universsky2015/article/details/150061987)
+
++ [数据仓库知识](https://blog.csdn.net/yyypm/article/details/150067913)
+
++ [SQL约束：数据完整性的守护者](https://blog.csdn.net/HTTP404_CN/article/details/150157651)
+
++ [数据库删除术:逻辑删除 vs 物理删除，选错毁所有](https://blog.csdn.net/qq_44378083/article/details/149137040)
+
++ [SpringMVC（三）](https://blog.csdn.net/await_9/article/details/150004281)
+
++ [Azure Java应用热迁移实战指南](https://blog.csdn.net/z_344791576/article/details/149153137)
+
++ [Rocky Linux 10 部署 Redis 8.2.0 三主三从集群](https://blog.csdn.net/xp15117117622/article/details/150054192)
+
++ [【网络安全】SQL注入——无列名注入](https://blog.csdn.net/2301_79915754/article/details/149431904)
+
++ [重构实战：三步用工厂模式干掉那个300行的if-else](https://blog.csdn.net/qq_45740561/article/details/150146500)
+
++ [Mac 下微调大模型全流程详解（基于LLaMA-Factory ）](https://blog.csdn.net/qq_20042935/article/details/149923909)
+
++ [以海岸线分形理论破太上宇宙本体论不可证伪问题](https://blog.csdn.net/QvQ593520844/article/details/150074452)
+
++ [java分布式定时任务](https://blog.csdn.net/hqxstudying/article/details/150077765)
+
