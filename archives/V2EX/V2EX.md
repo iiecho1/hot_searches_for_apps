@@ -49,3 +49,5 @@
 
 + [问一下，各位都是怎么稳定使用 claude code 的啊？求方法](https://www.v2ex.com/t/1151317)
 
++ [[免费] LazyTyper：用「嘴」写代码，给 Claude Code 发语音（Mac 首发）](https://www.v2ex.com/t/1151314)
+

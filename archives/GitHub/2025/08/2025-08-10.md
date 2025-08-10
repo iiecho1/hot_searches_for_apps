@@ -29,3 +29,19 @@
 
 + [zumerlab/snapdom](https://github.com/zumerlab/snapdom)
 
++ [umami-software/umami](https://github.com/umami-software/umami)
+
++ [menloresearch/jan](https://github.com/menloresearch/jan)
+
++ [RSSNext/Folo](https://github.com/RSSNext/Folo)
+
++ [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
+
++ [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+
++ [idosal/git-mcp](https://github.com/idosal/git-mcp)
+
++ [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
++ [openai/openai-node](https://github.com/openai/openai-node)
+
