@@ -169,3 +169,5 @@
 
 + [AI编程工具 | Trae介绍](https://blog.csdn.net/qq_34660967/article/details/150118803)
 
++ [海康威视摄像头实时推流到阿里云公网服务器（Windows + FFmpeg + nginx-rtmp)](https://blog.csdn.net/DearShaJing/article/details/150112597)
+
