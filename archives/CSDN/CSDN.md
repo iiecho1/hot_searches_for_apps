@@ -183,3 +183,9 @@
 
 + [分享一个基于Spark的眼科疾病临床数据可视化分析与应用研究Hadoop基于Vue和Echarts的眼科疾病统计数据交互式可视化系统的设计与实现](https://blog.csdn.net/m0_72599287/article/details/150111770)
 
++ [Nginx 反向代理与负载均衡架构](https://blog.csdn.net/a_2373179473/article/details/150105725)
+
++ [分布式锁详解及 Spring Boot 实战示例](https://blog.csdn.net/weixin_40356468/article/details/150108262)
+
++ [Caffeine 三种过期策略详解](https://blog.csdn.net/lilinhai548/article/details/150030746)
+

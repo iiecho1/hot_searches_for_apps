@@ -47,3 +47,5 @@
 
 + [$v2ex 不同交易方式手续费对比,新人多看看](https://www.v2ex.com/t/1151318)
 
++ [问一下，各位都是怎么稳定使用 claude code 的啊？求方法](https://www.v2ex.com/t/1151317)
+
