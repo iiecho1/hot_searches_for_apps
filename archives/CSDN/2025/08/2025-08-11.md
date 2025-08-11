@@ -279,3 +279,7 @@
 
 + [基于Python爬虫实战：获取财经股票数据](https://blog.csdn.net/yuan2019035055/article/details/150207982)
 
++ [企业高性能web服务器——Nginx](https://blog.csdn.net/QSYBD/article/details/150164861)
+
++ [内网依赖管理新思路：Nexus与CPolar的协同实践](https://blog.csdn.net/weixin_44976692/article/details/150215806)
+
