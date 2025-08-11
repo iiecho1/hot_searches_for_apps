@@ -161,3 +161,13 @@
 
 + [自民党内辞职呼声再起 石破茂重申留任意向](https://news.cctv.com/2025/08/09/ARTI9YmjrW0wltALOBXqoJcJ250809.shtml)
 
++ [中国代表驳斥美方在巴拿马运河问题上对中国无理指责](https://news.cctv.com/2025/08/12/ARTIGuwPerLRYNBRKgplXEhp250812.shtml)
+
++ [土耳其达达尼尔海峡恢复通航 森林火灾仍在扑救](https://news.cctv.com/2025/08/12/ARTI8COfxfgNaHzT2uQ8ayRJ250812.shtml)
+
++ [美国5000万美元悬赏马杜罗 委内瑞拉谴责：公然违反国际法](https://news.cctv.com/2025/08/12/ARTIPBRGgG9kaBQ4PBZmYBoP250812.shtml)
+
++ [苏丹一难民营遭武装分子袭击 超40人死亡](https://news.cctv.com/2025/08/12/ARTIDuuDpvK1uhpSvwt0cG7U250812.shtml)
+
++ [联合国秘书长强烈谴责以色列空袭造成巴勒斯坦记者遇难](https://news.cctv.com/2025/08/12/ARTIz5sKJXMtJBUDTbMDugKw250812.shtml)
+
