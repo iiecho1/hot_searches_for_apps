@@ -101,3 +101,9 @@
 
 + [Kafka服务端NIO操作原理解析（二）](https://blog.csdn.net/liangsheng_g/article/details/150108893)
 
++ [Cursor 如何配置大模型ChatGPT 5.0](https://blog.csdn.net/shanghaiwren/article/details/150149885)
+
++ [【Java生产级避坑指南】序章 CMS GC的Promotion Failed问题解析与生产级优化实践](https://blog.csdn.net/weixin_39815573/article/details/149686282)
+
++ [数据可视化与人机交互技术](https://blog.csdn.net/qq_41640218/article/details/150204462)
+

@@ -25,3 +25,17 @@
 
 + [续航至高 785 公里：一汽奥迪 A6L e-tron 中大型轿车现身工信部](https://m.ithome.com/html/874347.htm)
 
++ [央视朱广权提前体验 vivo Vision 头显，双指空中捏合“轻松上头”](https://m.ithome.com/html/874406.htm)
+
++ [Linus Torvalds 怒喷谷歌工程师“代码就是垃圾”，并警告不得再迟交](https://m.ithome.com/html/874396.htm)
+
++ [宁德时代江西锂矿被曝暂停生产，且短期内无复产计划](https://m.ithome.com/html/874384.htm)
+
++ [与系统原生电话体验如出一辙，企业微信鸿蒙 HarmonyOS 版现已支持 Call Kit](https://m.ithome.com/html/874452.htm)
+
++ [鸿蒙智行智界 R7 汽车选装配置公布：9 色可选、空悬 / 科技舒享包等变选配](https://m.ithome.com/html/874369.htm)
+
++ [“震虎价”不让用，京东养车 50 亿补贴全网征名后改为“震骨价”](https://m.ithome.com/html/874454.htm)
+
++ [戴尔回应网传“退出中国计划核心时间轴”：谣言，不予置评](https://m.ithome.com/html/874421.htm)
+
