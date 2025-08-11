@@ -267,3 +267,15 @@
 
 + [黑马SpringAI项目-聊天机器人](https://blog.csdn.net/he___H/article/details/149977908)
 
++ [[深度学习] 大模型学习4-RAG技术全景解析](https://blog.csdn.net/LuohenYJ/article/details/150073860)
+
++ [YOLOv6深度解析：实时目标检测的新突破](https://blog.csdn.net/weixin_51390582/article/details/149481831)
+
++ [内网服务远程调试指南：cpolar助力IDEA穿透网络排查JAR异常](https://blog.csdn.net/2301_77485708/article/details/150218095)
+
++ [十、Linux Shell脚本：流程控制语句](https://blog.csdn.net/2401_83830408/article/details/150152749)
+
++ [腾讯 iOA 测评 | 横向移动检测、病毒查杀、外设管控、部署性能](https://blog.csdn.net/wtyuong/article/details/150148589)
+
++ [基于Python爬虫实战：获取财经股票数据](https://blog.csdn.net/yuan2019035055/article/details/150207982)
+
