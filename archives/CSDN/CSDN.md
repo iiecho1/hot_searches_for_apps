@@ -247,3 +247,15 @@
 
 + [YOLOv8模型剪枝与卷积优化实战教程：从小白到精通](https://blog.csdn.net/FJN110/article/details/150151338)
 
++ [新手向:Python实现数据可视化图表生成](https://blog.csdn.net/2302_77626561/article/details/150015679)
+
++ [跨端边云时序数据管理新范式：Apache IoTDB 的 DB+AI 融合之道](https://blog.csdn.net/weixin_74809706/article/details/150169691)
+
++ [Agent用户体验设计：人机交互的最佳实践](https://blog.csdn.net/IRpickstars/article/details/150206406)
+
++ [使用Windbg分析多线程死锁项目实战问题分享](https://blog.csdn.net/chenlycly/article/details/150214999)
+
++ [心理咨询|学生心理咨询评估系统|基于Springboot的学生心理咨询评估系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/150206872)
+
++ [MySQL 数据操作全流程：创建、读取、更新与删除实战](https://blog.csdn.net/2301_80774875/article/details/149490617)
+
