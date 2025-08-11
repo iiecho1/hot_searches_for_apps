@@ -27,3 +27,11 @@
 
 + [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
 
++ [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [midday-ai/midday](https://github.com/midday-ai/midday)
+
++ [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+

@@ -259,3 +259,11 @@
 
 + [MySQL 数据操作全流程：创建、读取、更新与删除实战](https://blog.csdn.net/2301_80774875/article/details/149490617)
 
++ [比亚迪第五代DM技术：AI能耗管理的深度解析与实测验证](https://blog.csdn.net/weixin_62244995/article/details/150112120)
+
++ [物理外键 vs 逻辑外键:数据库关联的两种武功秘籍](https://blog.csdn.net/qq_44378083/article/details/149137207)
+
++ [GaussDB安全配置全景指南：构建企业级数据库防护体系](https://blog.csdn.net/GaussDB/article/details/150214901)
+
++ [黑马SpringAI项目-聊天机器人](https://blog.csdn.net/he___H/article/details/149977908)
+

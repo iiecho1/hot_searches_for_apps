@@ -205,3 +205,5 @@
 
 + [“普特会”倒计时 欧洲担忧成为“历史的注脚”](https://news.cctv.com/2025/08/11/ARTIoxbDZYvkOItlhRPgsk56250811.shtml)
 
++ [回应美国征税 墨西哥设定番茄最低出口价](https://news.cctv.com/2025/08/11/ARTI8xIq5TJWOST2WwND2vAh250811.shtml)
+
