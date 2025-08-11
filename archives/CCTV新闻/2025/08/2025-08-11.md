@@ -187,3 +187,5 @@
 
 + [哥伦比亚总统反对美国以缉毒名义干涉拉美国家主权](https://news.cctv.com/2025/08/11/ARTIQ99n8s7vnAlvKgYUyjM2250811.shtml)
 
++ [澳大利亚宣布将于9月承认巴勒斯坦国](https://news.cctv.com/2025/08/11/ARTIjOMtg60xfa3GyMaZoBik250811.shtml)
+

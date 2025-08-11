@@ -209,3 +209,21 @@
 
 + [全场景音频工作流实践：Melody如何打造音源管理闭环](https://blog.csdn.net/qq_73017178/article/details/150061384)
 
++ [【微信小程序篇-05】深入理解小程序的自定义组件](https://blog.csdn.net/m0_59269218/article/details/150150288)
+
++ [Apache IoTDB 全场景部署：基于 Apache IoTDB 的跨「端-边-云」的时序数据库 DB+AI](https://blog.csdn.net/weixin_62765017/article/details/150152241)
+
++ [运动规划实战案例 | 基于多源流场(Flow Field)的路径规划(附ROS C++/Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/150163264)
+
++ [【深度学习计算性能】03：自动并行](https://blog.csdn.net/Morse_Chen/article/details/150116576)
+
++ [【数据库】如何使用一款轻量级数据库SqlSugar进行批量更新，以及查看最终的Sql操作语句](https://blog.csdn.net/lmy_520/article/details/149751947)
+
++ [时序数据库选型指南：Apache IoTDB为何成为工业物联网首选？](https://blog.csdn.net/hanwangyyds/article/details/150150130)
+
++ [Linux多线程——生产者消费者模型](https://blog.csdn.net/2401_83603768/article/details/150069508)
+
++ [量子计算：叩响金融定价革命的大门——期权定价的范式转移](https://blog.csdn.net/eidolon_foot/article/details/150206645)
+
++ [SQL（结构化查询语言）的四大核心分类](https://blog.csdn.net/Chihiro1002/article/details/150165551)
+
