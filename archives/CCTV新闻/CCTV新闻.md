@@ -169,3 +169,19 @@
 
 + [万斯称美正协调安排普京与泽连斯基会晤 俄乌暂无回应](https://news.cctv.com/2025/08/11/ARTIBkHeq7ftqpMlQeBNTCq1250811.shtml)
 
++ [安理会紧急讨论加沙，中方提四个必须](https://news.cctv.com/2025/08/11/ARTISMtygt7WEsLfI6Jn3BBM250811.shtml)
+
++ [墨西哥沿岸近海发生5.8级地震 震源深度10千米](https://news.cctv.com/2025/08/11/ARTIXgm3bHEUZhycUs0uXpOK250811.shtml)
+
++ [“企图持续掩盖真相” 半岛电视台谴责以军袭击新闻工作者](https://news.cctv.com/2025/08/11/ARTIzZPN943mTx7mwD5kF3nK250811.shtml)
+
++ [美官员：美军拟向华盛顿特区部署数百名国民警卫队士兵](https://news.cctv.com/2025/08/11/ARTInJGO0ayJIkcC8rZYZUVP250811.shtml)
+
++ [全球瞭望丨肯尼亚媒体：中国为世界反法西斯战争胜利作出巨大贡献](https://news.cctv.com/2025/08/11/ARTI4ivddOhL8CBhzpoapwn4250811.shtml)
+
++ [专访丨美国高关税政策是对本国消费者变相征税——访英国经济学家罗思义](https://news.cctv.com/2025/08/11/ARTIGkRm3riY21L7AA52mOFu250811.shtml)
+
++ [朝鲜国防相谴责美韩将举行“乙支自由之盾”军演](https://news.cctv.com/2025/08/11/ARTI5cVb2pzPdoFnqkgzpkC6250811.shtml)
+
++ [以总理称部分国家推动承认巴勒斯坦国不会带来和平](https://news.cctv.com/2025/08/11/ARTIeb1G7qeXb5IJUG5Z5bpi250811.shtml)
+

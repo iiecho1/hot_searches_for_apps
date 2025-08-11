@@ -175,3 +175,37 @@
 
 + [TikTok网页版访问障碍破解：IP限制到高效运营的全流程指南](https://blog.csdn.net/2501_90930635/article/details/150061486)
 
++ [数字化转型利器：6大KM知识管理软件深度评测](https://blog.csdn.net/RebeccaGuan0808/article/details/149941505)
+
++ [前端如何安全存储 API 密钥 —— 两种实用方案](https://blog.csdn.net/2301_81854535/article/details/150108853)
+
++ [【MCP探索实践】ROS MCP Server：自然语言控制机器人，从此告别复杂指令](https://blog.csdn.net/xiaobing259/article/details/150108264)
+
++ [用Java飞算AI打造磁盘大文件搜寻助手，轻松解决C盘爆满难题](https://blog.csdn.net/weixin_66401877/article/details/150112505)
+
++ [谷歌官方性能文档：Android 动态性能框架优化Performance Hint API](https://blog.csdn.net/learnframework/article/details/150105534)
+
++ [12. 消息队列-RabbitMQ](https://blog.csdn.net/princemilo/article/details/150057623)
+
++ [《解锁 C++ 起源与核心：命名空间用法 + 版本演进全知道》](https://blog.csdn.net/2503_91389547/article/details/149689608)
+
++ [LabVIEW声波测井信号处理系统](https://blog.csdn.net/bjcyck/article/details/150204091)
+
++ [AI驱动路由：C#智能路径优化方案](https://blog.csdn.net/z_344791576/article/details/149153553)
+
++ [深入解析Linux信号处理机制](https://blog.csdn.net/2301_80096514/article/details/150013546)
+
++ [数据可视化与人机交互技术](https://blog.csdn.net/qq_41640218/article/details/150204462)
+
++ [DeepSpeed v0.17.4发布：优化序列并行与内存效率的关键更新](https://blog.csdn.net/weixin_48502062/article/details/150148411)
+
++ [基于censium的大疆智图B3DM三维倾斜模型展示](https://blog.csdn.net/weixin_42464154/article/details/150160801)
+
++ [构建响应式在线客服聊天系统的前端实践 Vue3+ElementUI + CSS3](https://blog.csdn.net/adminwolf/article/details/150063177)
+
++ [RabbitMQ详情介绍—七种工作模式](https://blog.csdn.net/2401_83177222/article/details/150056568)
+
++ [Echoes 云探针：轻量级服务器监控/状态探针/自动告警工具（跨平台、无依赖、一键部署）](https://blog.csdn.net/2504_90369923/article/details/150203607)
+
++ [全场景音频工作流实践：Melody如何打造音源管理闭环](https://blog.csdn.net/qq_73017178/article/details/150061384)
+
