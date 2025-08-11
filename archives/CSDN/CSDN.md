@@ -227,3 +227,9 @@
 
 + [SQL（结构化查询语言）的四大核心分类](https://blog.csdn.net/Chihiro1002/article/details/150165551)
 
++ [深入解析Qwen-Image：阿里开源多模态模型的LoRA训练技巧与实战](https://blog.csdn.net/Liudef06/article/details/150207761)
+
++ [[免费]基于Python的网易云音乐热门歌单可视化大屏项目(flask+pandas+echarts+request库)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/150209634)
+
++ [瑞芯微 RK3588 平台驱动开发 学习计划](https://blog.csdn.net/qq_38145502/article/details/150160957)
+

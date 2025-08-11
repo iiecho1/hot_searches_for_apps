@@ -59,3 +59,13 @@
 
 + [乐道汽车：乐道 L90 不会有 60 度电池买断版，正研讨 60 度电池租赁方案](https://m.ithome.com/html/874278.htm)
 
++ [央视朱广权提前体验 vivo Vision 头显，双指空中捏合“轻松上头”](https://m.ithome.com/html/874406.htm)
+
++ [Linus Torvalds 怒喷谷歌工程师“代码就是垃圾”，并警告不得再迟交](https://m.ithome.com/html/874396.htm)
+
++ [宁德时代江西锂矿被曝暂停生产，且短期内无复产计划](https://m.ithome.com/html/874384.htm)
+
++ [与系统原生电话体验如出一辙，企业微信鸿蒙 HarmonyOS 版现已支持 Call Kit](https://m.ithome.com/html/874452.htm)
+
++ [鸿蒙智行智界 R7 汽车选装配置公布：9 色可选、空悬 / 科技舒享包等变选配](https://m.ithome.com/html/874369.htm)
+

@@ -195,3 +195,7 @@
 
 + [土耳其西部发生6.1级地震 已致1死29伤](https://news.cctv.com/2025/08/11/ARTIEVoILDrEilO1m6X4TaIp250811.shtml)
 
++ [法国最后一名街头卖报人将被授予国家功绩勋章](https://news.cctv.com/2025/08/11/ARTIVokIPyiLzLExbYksxrcH250811.shtml)
+
++ [国际原子能机构高级官员将访问伊朗](https://news.cctv.com/2025/08/11/ARTI9E9p2Pj7YT4IWIRN2zs4250811.shtml)
+
