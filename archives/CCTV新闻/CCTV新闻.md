@@ -201,3 +201,7 @@
 
 + [英国经济学家：看好中国经济前景](https://news.cctv.com/2025/08/11/ARTIVd3VkUViFGKAsYTBPQAm250811.shtml)
 
++ [以色列对加沙有何进一步打算？更多细节披露](https://news.cctv.com/2025/08/11/ARTIJueb2PfhodCVUSJ0Xvjg250811.shtml)
+
++ [“普特会”倒计时 欧洲担忧成为“历史的注脚”](https://news.cctv.com/2025/08/11/ARTIoxbDZYvkOItlhRPgsk56250811.shtml)
+

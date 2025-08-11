@@ -241,3 +241,9 @@
 
 + [Redis如何实现一个分布式锁?](https://blog.csdn.net/m0_73833369/article/details/150154994)
 
++ [【AI智能体】Dify集成 Echarts实现数据报表展示实战详解](https://blog.csdn.net/zhangcongyi420/article/details/150106579)
+
++ [从0到1学习微服务项目黑马头条day03-《APP端文章详情功能实现》](https://blog.csdn.net/2302_80329073/article/details/150116330)
+
++ [YOLOv8模型剪枝与卷积优化实战教程：从小白到精通](https://blog.csdn.net/FJN110/article/details/150151338)
+
