@@ -185,3 +185,5 @@
 
 + [以总理称部分国家推动承认巴勒斯坦国不会带来和平](https://news.cctv.com/2025/08/11/ARTIeb1G7qeXb5IJUG5Z5bpi250811.shtml)
 
++ [哥伦比亚总统反对美国以缉毒名义干涉拉美国家主权](https://news.cctv.com/2025/08/11/ARTIQ99n8s7vnAlvKgYUyjM2250811.shtml)
+
