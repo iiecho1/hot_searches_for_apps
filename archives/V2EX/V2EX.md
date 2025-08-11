@@ -43,3 +43,5 @@
 
 + [[踢楼抽奖] EasyLink 云服务器，送 4 台精品 4C4G 一年云服务器](https://www.v2ex.com/t/1151490)
 
++ [合约爆仓，亏了本金 9W+U](https://www.v2ex.com/t/1151517)
+

@@ -189,3 +189,9 @@
 
 + [澳大利亚宣布将于9月承认巴勒斯坦国](https://news.cctv.com/2025/08/11/ARTIjOMtg60xfa3GyMaZoBik250811.shtml)
 
++ [柬埔寨指责泰军方表态违反停火协议](https://news.cctv.com/2025/08/11/ARTImw8CWGDK8rrVOV2nyLq8250811.shtml)
+
++ [韩国法院缺席审判前总统尹锡悦](https://news.cctv.com/2025/08/11/ARTIMXqJi1rKzSN2ex7vB6xz250811.shtml)
+
++ [土耳其西部发生6.1级地震 已致1死29伤](https://news.cctv.com/2025/08/11/ARTIEVoILDrEilO1m6X4TaIp250811.shtml)
+
