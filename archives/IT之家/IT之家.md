@@ -39,3 +39,21 @@
 
 + [戴尔回应网传“退出中国计划核心时间轴”：谣言，不予置评](https://m.ithome.com/html/874421.htm)
 
++ [央媒“玉渊谭天”起底 H20 芯片可能存在的后门，英伟达回应称不存在“后门”](https://m.ithome.com/html/874515.htm)
+
++ [恢复对华出口背后，英媒曝英伟达、AMD 与美政府达成“史无前例”协议](https://m.ithome.com/html/874494.htm)
+
++ [雷军征求小米 YU7 标准版改名意见：很多人误以为是入门或丐版，配置绝不输于竞品 Pro 和 Max 版](https://m.ithome.com/html/874626.htm)
+
++ [网传阿里“扫地僧”蔡景现已离职](https://m.ithome.com/html/874499.htm)
+
++ [17 Air 正面尺寸大过 17 Pro，苹果 iPhone 17 全系列手机膜曝光](https://m.ithome.com/html/874516.htm)
+
++ [车主花 46 万“捡漏”二手特斯拉后发现是“全损”车，法院判“退一赔三”](https://m.ithome.com/html/874519.htm)
+
++ [电影《蛟龙行动（特别版）》定档 8 月 30 日，票房失利后再战院线](https://m.ithome.com/html/874447.htm)
+
++ [小米推出米家洗衣机“迷你洗”洗烘 1.2kg：35℃真丝低温柔烘，到手 1999 元](https://m.ithome.com/html/874451.htm)
+
++ [Canalys 报告 2025Q2 全球主要市场手机出货量：华为中国大陆第一、vivo 印度第一、苹果美国第一](https://m.ithome.com/html/874552.htm)
+
