@@ -67,3 +67,15 @@
 
 + [“秒开”快感：苹果 iOS 26 Beta 6 实现 iPhone 应用极速启动体验](https://m.ithome.com/html/874655.htm)
 
++ [央视曝光车企承诺 60 天支付账期兑现情况，工信部调研一汽、广汽、赛力斯](https://m.ithome.com/html/874675.htm)
+
++ [830 公里续航最强特斯拉车型开卖：Model 3 长续航后轮驱动版 26.95 万元起](https://m.ithome.com/html/874669.htm)
+
++ [荣耀前 CEO 赵明否认加盟智界](https://m.ithome.com/html/874723.htm)
+
++ [小天才榜首、华为第二：今年上半年国内儿童智能手表销量 812 万台同比增长 11.4%](https://m.ithome.com/html/874571.htm)
+
++ [苹果 iOS 26 Beta 6 持续打磨“液态玻璃”：提升锁屏时钟透明度，在某些背景下恐影响可读性](https://m.ithome.com/html/874652.htm)
+
++ [《英雄联盟》游戏官宣将推 WASD 键盘操控模式，让新玩家更快入坑](https://m.ithome.com/html/874729.htm)
+

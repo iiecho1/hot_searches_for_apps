@@ -189,3 +189,9 @@
 
 + [伊拉克反恐部门称在6省逮捕11名恐怖分子](https://news.cctv.com/2025/08/12/ARTISj5XZamfNcniOMs4gH6T250812.shtml)
 
++ [缓解珠峰压力！尼泊尔拟免除97座山峰登山许可费](https://news.cctv.com/2025/08/12/ARTIHTSOf6CHX1UqvBsaCjAr250812.shtml)
+
++ [俄联邦安全局称挫败一起针对国防部高官的恐怖袭击](https://news.cctv.com/2025/08/12/ARTIS0goOfn1TwEtIbh9k92g250812.shtml)
+
++ [会多次感染吗？世卫组织发布关于基孔肯雅热的问与答](https://news.cctv.com/2025/08/12/ARTIxeQsBqnGTsh6hq1vJaJt250812.shtml)
+

@@ -153,3 +153,5 @@
 
 + [分享一个基于Python和Hadoop的的电信客户特征可视化分析平台 基于Spark平台的电信客服数据存储与处理系统源码](https://blog.csdn.net/m0_72599287/article/details/150149496)
 
++ [阿里云ECS的windows server系统如何远程桌面连接](https://blog.csdn.net/lzm12278828/article/details/150268623)
+
