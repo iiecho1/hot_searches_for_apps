@@ -25,3 +25,29 @@
 
 + [idosal/git-mcp](https://github.com/idosal/git-mcp)
 
++ [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+
++ [microsoft/poml](https://github.com/microsoft/poml)
+
++ [denizsafak/abogen](https://github.com/denizsafak/abogen)
+
++ [unslothai/notebooks](https://github.com/unslothai/notebooks)
+
++ [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [apple/embedding-atlas](https://github.com/apple/embedding-atlas)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [conductor-oss/conductor](https://github.com/conductor-oss/conductor)
+
++ [redis/go-redis](https://github.com/redis/go-redis)
+
++ [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
+
++ [actions/checkout](https://github.com/actions/checkout)
+
++ [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+

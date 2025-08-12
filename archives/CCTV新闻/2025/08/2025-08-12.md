@@ -199,3 +199,5 @@
 
 + [已知最大火星陨石在美国拍卖 尼日尔质疑走私启动调查](https://news.cctv.com/2025/08/12/ARTIVS07N930D5Wzc6Gda90f250812.shtml)
 
++ [综合消息丨以军在加沙作战进入“新阶段” 多方强烈谴责以空袭行动](https://military.cctv.com/2025/08/12/ARTIlvOOms73pXU6TcnKCjOe250812.shtml)
+
