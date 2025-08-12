@@ -131,3 +131,5 @@
 
 + [FPGA硬件设计1 最小芯片系统-Altera EP4CE10F17C8、Xilinx xc7a100t](https://blog.csdn.net/qq_39376872/article/details/145049390)
 
++ [HarmonyOS5 源码分析 —— 生命周期与状态管理（2）](https://blog.csdn.net/m0_51748282/article/details/150149741)
+
