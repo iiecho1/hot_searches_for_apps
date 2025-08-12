@@ -161,3 +161,11 @@
 
 + [特朗普：华盛顿特区已成为世界最危险城市之一](https://news.cctv.com/2025/08/09/ARTIGHpElxC2Ly64AcguJOhM250809.shtml)
 
++ [哈马斯代表团抵达开罗进行停火磋商](https://news.cctv.com/2025/08/13/ARTIe1SmQDL42dpfXOuayktC250813.shtml)
+
++ [金建希被拘押 韩国宪政史首次出现“前总统夫妇同时被捕”](https://news.cctv.com/2025/08/13/ARTIAksVsehrCv1yNf3AfhAk250813.shtml)
+
++ [加拿大野火肆虐 过火面积超7.3万平方公里](https://news.cctv.com/2025/08/13/ARTI4r20QSyluXoTUj5jR6K4250813.shtml)
+
++ [俄美外长通电话 讨论两国元首会晤筹备事宜](https://news.cctv.com/2025/08/13/ARTIrIbFZUFSxPNURwH1oAoF250813.shtml)
+
