@@ -179,3 +179,5 @@
 
 + [Java 多来源第三方AI接口合并（模型切换）框架搭建](https://blog.csdn.net/weixin_43184171/article/details/150262955)
 
++ [uniapp [全端兼容] - 实现省市区选择器三四级联动组件，uniapp选择地址自定义省市区三级联动插件，弹框式多级联动选择器区域选择（全平台兼容苹果安卓App、支付宝微信小程序、移动端H5网页）](https://blog.csdn.net/weixin_44198965/article/details/150282679)
+
