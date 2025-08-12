@@ -27,3 +27,15 @@
 
 + [长城汽车魏建军谈理想 i8 对撞乘龙卡车：我们不敢去撞卡车](https://m.ithome.com/html/874783.htm)
 
++ [央媒“玉渊谭天”起底 H20 芯片可能存在的后门，英伟达回应称不存在“后门”](https://m.ithome.com/html/874515.htm)
+
++ [恢复对华出口背后，英媒曝英伟达、AMD 与美政府达成“史无前例”协议](https://m.ithome.com/html/874494.htm)
+
++ [网传阿里“扫地僧”蔡景现已离职](https://m.ithome.com/html/874499.htm)
+
++ [车主花 46 万“捡漏”二手特斯拉后发现是“全损”车，法院判“退一赔三”](https://m.ithome.com/html/874519.htm)
+
++ [17 Air 正面尺寸大过 17 Pro，苹果 iPhone 17 全系列手机膜曝光](https://m.ithome.com/html/874516.htm)
+
++ [Canalys 报告 2025Q2 全球主要市场手机出货量：华为中国大陆第一、vivo 印度第一、苹果美国第一](https://m.ithome.com/html/874552.htm)
+

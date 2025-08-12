@@ -125,3 +125,9 @@
 
 + [敏感性瀑布图在新能源汽车能量流优化策略中的应用](https://blog.csdn.net/weixin_62244995/article/details/150279995)
 
++ [学习观察和行动：机器人操作中任务-觉察的视图规划](https://blog.csdn.net/yorkhunter/article/details/150234906)
+
++ [.NET Core MVC中CSHTML](https://blog.csdn.net/ultramand/article/details/150223210)
+
++ [FPGA硬件设计1 最小芯片系统-Altera EP4CE10F17C8、Xilinx xc7a100t](https://blog.csdn.net/qq_39376872/article/details/145049390)
+
