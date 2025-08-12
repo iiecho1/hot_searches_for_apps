@@ -127,3 +127,5 @@
 
 + [从MySQL到大数据平台：基于Spark的离线分析实战指南](https://blog.csdn.net/wangyantao111/article/details/150147451)
 
++ [【花雕学编程】ESP32 DeepSeek 之多语言教育对话机器人](https://blog.csdn.net/weixin_41659040/article/details/150000225)
+
