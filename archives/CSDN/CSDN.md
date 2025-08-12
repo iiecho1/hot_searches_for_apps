@@ -129,3 +129,15 @@
 
 + [【花雕学编程】ESP32 DeepSeek 之多语言教育对话机器人](https://blog.csdn.net/weixin_41659040/article/details/150000225)
 
++ [飞算JavaAI vs 传统开发：效率与质量的双重突破](https://blog.csdn.net/2302_78391795/article/details/150084534)
+
++ [Docker update 命令：动态调整容器资源的艺术](https://blog.csdn.net/qq_41840843/article/details/149044011)
+
++ [GSON 框架下百度天气 JSON 数据转 JavaBean 的实战攻略](https://blog.csdn.net/yelangkingwuzuhu/article/details/150163989)
+
++ [机器翻译：一文掌握序列到序列（Seq2Seq）模型（包括手写Seq2Seq模型）](https://blog.csdn.net/cui_yonghua/article/details/150224255)
+
++ [NLP学习开始-02逻辑回归](https://blog.csdn.net/Aronup/article/details/149689591)
+
++ [【工创赛2025-塔吊方案开源（2分15秒）】西安理工大学工程训练中心](https://blog.csdn.net/m0_74056439/article/details/150104661)
+

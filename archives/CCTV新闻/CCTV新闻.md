@@ -171,3 +171,5 @@
 
 + [联合国秘书长强烈谴责以色列空袭造成巴勒斯坦记者遇难](https://news.cctv.com/2025/08/12/ARTIz5sKJXMtJBUDTbMDugKw250812.shtml)
 
++ [韩国总统李在明24日至26日将访美并与美总统会谈](https://news.cctv.com/2025/08/12/ARTIzMgSyGYa51H4lfWKSqvd250812.shtml)
+
