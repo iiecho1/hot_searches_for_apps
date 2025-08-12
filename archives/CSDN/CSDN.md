@@ -147,3 +147,7 @@
 
 + [HTML5中华美食网站源码](https://blog.csdn.net/qq_37344688/article/details/150212130)
 
++ [量子计算对计算机视觉的潜在影响](https://blog.csdn.net/weixin_43151418/article/details/149183192)
+
++ [猫头虎AI分享｜开源异步编程工具：Open SWE，它可以从分析代码库、规划方案、写/改代码、创建Pull Request全过程自动化](https://blog.csdn.net/qq_44866828/article/details/150224568)
+

@@ -185,3 +185,5 @@
 
 + [穆迪称美国超半数行业裁员](https://news.cctv.com/2025/08/12/ARTIlfpttOtNytpDTSRJZgw8250812.shtml)
 
++ [阿尔巴尼亚森林火灾持续 超20人因蓄意纵火被捕](https://news.cctv.com/2025/08/12/ARTI1WXC9JbE4gVsy7looKBc250812.shtml)
+
