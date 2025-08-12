@@ -25,3 +25,5 @@
 
 + [《英雄联盟》游戏官宣将推 WASD 键盘操控模式，让新玩家更快入坑](https://m.ithome.com/html/874729.htm)
 
++ [长城汽车魏建军谈理想 i8 对撞乘龙卡车：我们不敢去撞卡车](https://m.ithome.com/html/874783.htm)
+
