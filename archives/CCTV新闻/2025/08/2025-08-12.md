@@ -195,3 +195,7 @@
 
 + [会多次感染吗？世卫组织发布关于基孔肯雅热的问与答](https://news.cctv.com/2025/08/12/ARTIxeQsBqnGTsh6hq1vJaJt250812.shtml)
 
++ [澳联邦法院判决苹果和谷歌公司涉嫌反竞争违法](https://news.cctv.com/2025/08/12/ARTIq7P3quqgEZj7u9F8fHN8250812.shtml)
+
++ [已知最大火星陨石在美国拍卖 尼日尔质疑走私启动调查](https://news.cctv.com/2025/08/12/ARTIVS07N930D5Wzc6Gda90f250812.shtml)
+
