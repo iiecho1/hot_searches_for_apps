@@ -173,3 +173,15 @@
 
 + [韩国总统李在明24日至26日将访美并与美总统会谈](https://news.cctv.com/2025/08/12/ARTIzMgSyGYa51H4lfWKSqvd250812.shtml)
 
++ [发现可疑包裹 新西兰奥克兰市一广场附近人员被疏散](https://news.cctv.com/2025/08/12/ARTIxC5NOBXjC4UPMhNIx6bC250812.shtml)
+
++ [干旱叠加多重因素 古巴供水困难 影响超86万民众](https://news.cctv.com/2025/08/12/ARTIo6QTGdaZWlN7WLLVZ5cp250812.shtml)
+
++ [对于“普特会”，欧洲尽显焦虑与无力](https://news.cctv.com/2025/08/12/ARTIYiKrAwCOIsunVXIAs0gN250812.shtml)
+
++ [特朗普称不会对进口黄金征收关税](https://news.cctv.com/2025/08/12/ARTIzbY3rU9PpHw5KUb4afAR250812.shtml)
+
++ [为携手共建更加美好的世界贡献中国方案（国际论坛·以史为鉴 共护和平）](https://news.cctv.com/2025/08/12/ARTI485pIRrJg31TwEIsOFBY250812.shtml)
+
++ [穆迪称美国超半数行业裁员](https://news.cctv.com/2025/08/12/ARTIlfpttOtNytpDTSRJZgw8250812.shtml)
+
