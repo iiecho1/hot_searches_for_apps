@@ -177,3 +177,5 @@
 
 + [Ajax、Axios、Fetch核心区别](https://blog.csdn.net/teeeeeeemo/article/details/150126202)
 
++ [Java 多来源第三方AI接口合并（模型切换）框架搭建](https://blog.csdn.net/weixin_43184171/article/details/150262955)
+
