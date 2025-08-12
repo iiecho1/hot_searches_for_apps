@@ -57,3 +57,13 @@
 
 + [Canalys 报告 2025Q2 全球主要市场手机出货量：华为中国大陆第一、vivo 印度第一、苹果美国第一](https://m.ithome.com/html/874552.htm)
 
++ [OPPO 刘浩然：一加 15 远比想象的好看，是自己最近几年最爱的设计](https://m.ithome.com/html/874636.htm)
+
++ [淘宝闪购骑手新工装曝光：印满阿里系品牌 logo，成“行走的广告牌”](https://m.ithome.com/html/874650.htm)
+
++ [苹果 iOS / iPadOS 26 开发者预览版 Beta 6 发布：新增 7 款铃声、锁屏“液态玻璃”效果进化](https://m.ithome.com/html/874642.htm)
+
++ [领克 10 EM-P 混动轿车预售：全系四驱 + 激光雷达，19.2 万元起](https://m.ithome.com/html/874601.htm)
+
++ [“秒开”快感：苹果 iOS 26 Beta 6 实现 iPhone 应用极速启动体验](https://m.ithome.com/html/874655.htm)
+
