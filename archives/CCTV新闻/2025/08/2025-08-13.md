@@ -223,3 +223,11 @@
 
 + [印度北部季风极端天气造成240人丧生](https://news.cctv.com/2025/08/13/ARTIGzIRX8zyS84sT4Sx0Vsl250813.shtml)
 
++ [视频丨加沙遭袭身亡记者遗言：这里的孩子没有机会做梦](https://news.cctv.com/2025/08/13/ARTInyKGjFiSIhnylqf7WJxb250813.shtml)
+
++ [俄称乌方尚未正式答复第三轮会谈后组建工作组的提议](https://news.cctv.com/2025/08/13/ARTI5a2GlZ8pC5HteaGgSj0f250813.shtml)
+
++ [威胁“重施制裁” 英法德致函联合国催伊朗恢复核谈判](https://news.cctv.com/2025/08/13/ARTI0MvnmSp49J0E4pFaEKbN250813.shtml)
+
++ [欧盟宣布为乌克兰冬季紧急天然气采购筹集5亿欧元资金](https://news.cctv.com/2025/08/13/ARTIwLyjRfxMegy8bSwPUDDT250813.shtml)
+
