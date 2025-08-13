@@ -209,3 +209,11 @@
 
 + [印度拉贾斯坦邦发生交通事故 造成至少11人死亡](https://news.cctv.com/2025/08/13/ARTIVKX1bH7AobuBMENYiQxP250813.shtml)
 
++ [匈牙利总理欧尔班：不在谈判桌上，就会在菜单里](https://news.cctv.com/2025/08/13/ARTIrX0EdGvF85iQrxEfKXbP250813.shtml)
+
++ [西班牙7月通胀率升至2.7%](https://news.cctv.com/2025/08/13/ARTIRzmSsZ2QLTqd9uDYzmL1250813.shtml)
+
++ [韩国总统李在明23日起将访问日本 并同日本首相举行会谈](https://news.cctv.com/2025/08/13/ARTIH4a9ssqREr2K5hAETlmB250813.shtml)
+
++ [美俄峰会“遇上”美军演 美国要唱“哪一出”？](https://news.cctv.com/2025/08/13/ARTIdUurs9ZqE9VE4cWZUFDN250813.shtml)
+

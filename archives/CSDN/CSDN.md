@@ -171,3 +171,9 @@
 
 + [【技术攻坚】React 虚拟列表在 10 万条工业时序数据中的渲染抖动与滚动锚点优化](https://blog.csdn.net/u014727709/article/details/150337466)
 
++ [药房智能盘库系统的Python编程分析与实现—基于计算机视觉与时间序列预测的智能库存管理方案](https://blog.csdn.net/kkiron/article/details/150339488)
+
++ [【限时分享：Hadoop+Spark+Vue技术栈电信客服数据分析系统完整实现方案](https://blog.csdn.net/2401_86721878/article/details/150290929)
+
++ [系统分析师-数据库系统-并发控制&数据库安全](https://blog.csdn.net/g984160547/article/details/150272219)
+
