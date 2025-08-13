@@ -107,3 +107,23 @@
 
 + [【OSPP 开源之夏】Good First issue 第一步—— openEuler Embedded 计划](https://blog.csdn.net/m0_74037814/article/details/149173482)
 
++ [Qwen-Image：多模态视觉语言模型的全栈训练解密](https://blog.csdn.net/Liudef06/article/details/150218990)
+
++ [Java 大视界 -- Java 大数据在智能安防视频监控系统中的多目标跟踪与行为分析优化（393）](https://blog.csdn.net/atgfg/article/details/150231067)
+
++ [[论文阅读] (41)JISA24 物联网环境下基于少样本学习的攻击流量分类](https://blog.csdn.net/Eastmount/article/details/150263457)
+
++ [SpringBoot 整合 Langchain4j 系统提示词与用户提示词实战详解](https://blog.csdn.net/zhangcongyi420/article/details/149311185)
+
++ [Wireshark专家模式定位网络故障：14种TCP异常深度解剖](https://blog.csdn.net/m0_74075744/article/details/150273608)
+
++ [＜一图读懂＞ ： MySQL 快照读的读取版本策略](https://blog.csdn.net/SDFsoul/article/details/150215608)
+
++ [Redis应⽤-缓存与分布式锁](https://blog.csdn.net/weixin_50776420/article/details/150118699)
+
++ [物联网、大数据与云计算持续发展，楼宇自控系统应用日益广泛](https://blog.csdn.net/ctrlworks/article/details/150274929)
+
++ [雪花算法snowflake分布式id生成原理详解，以及对解决时钟回拨问题几种方案讨论](https://blog.csdn.net/weixin_49562509/article/details/150278888)
+
++ [【华数杯】2025年华数杯数学建模竞赛B题通关指南](https://blog.csdn.net/xiaoyingxixi1989/article/details/150149205)
+

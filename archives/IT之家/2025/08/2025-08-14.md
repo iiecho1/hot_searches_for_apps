@@ -25,3 +25,21 @@
 
 + [“闺蜜机”上新 3999 元小米智能家庭屏 Max 27 上架，官方预热 Xiaomi 家庭屏 8 云台版即将推出](https://m.ithome.com/html/874792.htm)
 
++ [一汽丰田高管称小米汽车 YU7“轮轴比”算错数，车企跟风“抄错答案”](https://m.ithome.com/html/874970.htm)
+
++ [玩家起诉《王者荣耀》案开庭：连胜后匹配菜鸡队友，要求公开匹配机制](https://m.ithome.com/html/874942.htm)
+
++ [财政部等三部门：对单笔 5 万元及以上家用汽车等消费贷款给予财政贴息](https://m.ithome.com/html/874987.htm)
+
++ [接近 DeepSeek 人士确认：R2 模型本月内并无发布计划](https://m.ithome.com/html/874997.htm)
+
++ [微信“分付”灰度上线“借款”功能，日利率 0.045%](https://m.ithome.com/html/874933.htm)
+
++ [C / AC 清除键归来：苹果 iOS 26 修复 iPhone 用户最不满的计算器改动](https://m.ithome.com/html/874921.htm)
+
++ [“董明珠健康家”公众号改名“格力好物指南”，一年多更名三次](https://m.ithome.com/html/875108.htm)
+
++ [李想感谢掏了近 40 万真金白银投票的 i8 车主，称一定要持续服务好“最可爱的理想用户”](https://m.ithome.com/html/875105.htm)
+
++ [华为 Pura80 Ultra 手机以 175 分斩获 DXOMARK 第六版影像第一，拍照子项创新高](https://m.ithome.com/html/875047.htm)
+
