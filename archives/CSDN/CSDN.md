@@ -183,3 +183,7 @@
 
 + [长篇音频制作（小说自动配音）完整教程](https://blog.csdn.net/u010634066/article/details/150337154)
 
++ [RK3568 Linux驱动学习——Linux LED驱动开发](https://blog.csdn.net/xhj12138/article/details/150282406)
+
++ [【Coze搞钱实战】13. 私域流量自动化：企业微信+Coze无缝对接指南（附合规方案与实测代码）](https://blog.csdn.net/weixin_39815573/article/details/150288263)
+
