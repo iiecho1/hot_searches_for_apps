@@ -101,3 +101,9 @@
 
 + [【技术攻坚】React 虚拟列表在 10 万条工业时序数据中的渲染抖动与滚动锚点优化](https://blog.csdn.net/u014727709/article/details/150337466)
 
++ [2025年全国大学电子设计大赛赛题](https://blog.csdn.net/zhuoqingjoking97298/article/details/150345694)
+
++ [【后端】Spring @Resource和@Autowired的用法和区别](https://blog.csdn.net/qq_45974648/article/details/150290512)
+
++ [【OSPP 开源之夏】Good First issue 第一步—— openEuler Embedded 计划](https://blog.csdn.net/m0_74037814/article/details/149173482)
+

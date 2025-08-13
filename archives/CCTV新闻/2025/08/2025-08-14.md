@@ -161,3 +161,7 @@
 
 + [万斯称美正协调安排普京与泽连斯基会晤 俄乌暂无回应](https://news.cctv.com/2025/08/11/ARTIBkHeq7ftqpMlQeBNTCq1250811.shtml)
 
++ [国际能源署：今明两年全球石油供应增速远超需求](https://news.cctv.com/2025/08/14/ARTISZ2YXdnOj8jn8DX0ehkY250814.shtml)
+
++ [美财长：若美俄会晤不顺利 将加大对俄制裁](https://news.cctv.com/2025/08/14/ARTIAdZx2mehJHUBjZ3Xul3T250813.shtml)
+
