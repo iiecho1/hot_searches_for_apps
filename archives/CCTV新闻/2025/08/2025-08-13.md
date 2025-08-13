@@ -203,3 +203,7 @@
 
 + [韩国检方将于14日对前第一夫人金建希进行传唤调查](https://news.cctv.com/2025/08/13/ARTIe0znSYJg3BiiyGdEEQif250813.shtml)
 
++ [印度总理莫迪或将9月同特朗普会晤](https://news.cctv.com/2025/08/13/ARTIeyCG07ZeZTs706rmjWSA250813.shtml)
+
++ [习语丨习近平为何强调“坚持正确二战史观”？](https://news.cctv.com/2025/08/13/ARTI0a8afSFOXVMWidwpqrIk250813.shtml)
+
