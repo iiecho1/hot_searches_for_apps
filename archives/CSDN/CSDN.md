@@ -161,3 +161,13 @@
 
 + [js异步操作 Promise ：fetch API 带来的网络请求变革—仙盟创梦IDE](https://blog.csdn.net/cybersnow/article/details/150222595)
 
++ [【Unity笔记】视频播放控制器全攻略：支持延迟播放、事件回调与多视频管理的完整实现](https://blog.csdn.net/qq_41140324/article/details/150224155)
+
++ [【花雕学编程】ESP32 DeepSeek 之智能家居语音助手（支持上下文记忆）](https://blog.csdn.net/weixin_41659040/article/details/150258642)
+
++ [ChatGPT-5 深度测评：是真神还是虚火？实测代码、推理等多领域表现](https://blog.csdn.net/weixin_43151418/article/details/150206196)
+
++ [嵌入式硬件——ARM](https://blog.csdn.net/m0_62835291/article/details/150206208)
+
++ [【技术攻坚】React 虚拟列表在 10 万条工业时序数据中的渲染抖动与滚动锚点优化](https://blog.csdn.net/u014727709/article/details/150337466)
+

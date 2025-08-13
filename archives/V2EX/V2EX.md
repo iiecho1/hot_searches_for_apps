@@ -47,3 +47,7 @@
 
 + [chrome 还是 edge？](https://www.v2ex.com/t/1152029)
 
++ [$V2EX 突然跌破 $0.013 大家有赶上车吗？](https://www.v2ex.com/t/1151965)
+
++ [问一个冷门问题，大家可以接受给自己在玩的游戏氪多少钱？](https://www.v2ex.com/t/1152076)
+
