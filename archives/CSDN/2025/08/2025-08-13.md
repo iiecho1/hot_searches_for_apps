@@ -177,3 +177,9 @@
 
 + [系统分析师-数据库系统-并发控制&数据库安全](https://blog.csdn.net/g984160547/article/details/150272219)
 
++ [PyTorch生成式人工智能——基于Transformer实现文本转语音](https://blog.csdn.net/LOVEmy134611/article/details/146261279)
+
++ [【完整源码+数据集+部署教程】军事伪装目标分割系统源码和数据集：改进yolo11-EMSC](https://blog.csdn.net/weixin_43860634/article/details/150342113)
+
++ [长篇音频制作（小说自动配音）完整教程](https://blog.csdn.net/u010634066/article/details/150337154)
+

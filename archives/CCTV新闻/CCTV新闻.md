@@ -217,3 +217,5 @@
 
 + [美俄峰会“遇上”美军演 美国要唱“哪一出”？](https://news.cctv.com/2025/08/13/ARTIdUurs9ZqE9VE4cWZUFDN250813.shtml)
 
++ [日本百日咳持续蔓延 今年累计病例数超6万例](https://news.cctv.com/2025/08/13/ARTInW5IUfji6CCtYNBEbYV5250813.shtml)
+
