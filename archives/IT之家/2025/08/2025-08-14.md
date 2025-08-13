@@ -43,3 +43,9 @@
 
 + [华为 Pura80 Ultra 手机以 175 分斩获 DXOMARK 第六版影像第一，拍照子项创新高](https://m.ithome.com/html/875047.htm)
 
++ [限领 1 次过期作废：电动自行车 500 元补贴发放，45 公里电动车 399 元起](https://m.ithome.com/html/874870.htm)
+
++ [18.18 万元起上汽大众途观 L 出众款“最便宜车型”上市：降级 8 英寸液晶仪表、取消可开启式全景天窗](https://m.ithome.com/html/874880.htm)
+
++ [华为 nova 14 Ultra 手机获鸿蒙 HarmonyOS 5.1.0.128 升级，小艺导航条可快捷开启定向拾音等功能](https://m.ithome.com/html/874869.htm)
+
