@@ -231,3 +231,9 @@
 
 + [欧盟宣布为乌克兰冬季紧急天然气采购筹集5亿欧元资金](https://news.cctv.com/2025/08/13/ARTIwLyjRfxMegy8bSwPUDDT250813.shtml)
 
++ [哈马斯赴埃及讨论加沙停火 以军批准加沙未来作战框架](https://news.cctv.com/2025/08/13/ARTIhRV9TrUSZBDKbo2QDyQk250813.shtml)
+
++ [中国向联合国近东救济工程处捐款](https://news.cctv.com/2025/08/13/ARTISLH8Vui25WjZ6H7WJ1uq250813.shtml)
+
++ [柬埔寨称泰国在柬边境村庄布设铁丝网](https://news.cctv.com/2025/08/13/ARTIbp9Wa3zMndrDL46QkC88250813.shtml)
+
