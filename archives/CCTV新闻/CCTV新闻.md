@@ -193,3 +193,13 @@
 
 + [美国7月份通胀压力持续](https://news.cctv.com/2025/08/13/ARTIt1aRpNMK1hIqbO6PfTjn250813.shtml)
 
++ [买过这款无印良品铜锣烧的消费者注意 可能混有异物](https://news.cctv.com/2025/08/13/ARTIPSiSQpUNE4mHXLPO8NAt250813.shtml)
+
++ [美国国债总额首次超过37万亿美元](https://news.cctv.com/2025/08/13/ARTIvfjR1hsDfQsLmmFiMRAq250813.shtml)
+
++ [特朗普将与泽连斯基和欧洲盟友举行线上会议](https://news.cctv.com/2025/08/13/ARTISDLKjg1OF5ppD478YzVg250813.shtml)
+
++ [拒绝配合特朗普政府清理行动的华盛顿特区无家可归者可能面临监禁](https://news.cctv.com/2025/08/13/ARTIU7DUambFiJZewSn4uWOq250813.shtml)
+
++ [韩国检方将于14日对前第一夫人金建希进行传唤调查](https://news.cctv.com/2025/08/13/ARTIe0znSYJg3BiiyGdEEQif250813.shtml)
+
