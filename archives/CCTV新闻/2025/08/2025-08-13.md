@@ -219,3 +219,7 @@
 
 + [日本百日咳持续蔓延 今年累计病例数超6万例](https://news.cctv.com/2025/08/13/ARTInW5IUfji6CCtYNBEbYV5250813.shtml)
 
++ [西班牙山火蔓延致2人遇难 数千人撤离 火势难控形势严峻](https://news.cctv.com/2025/08/13/ARTIvKisylLq57Ys4naGKki2250813.shtml)
+
++ [印度北部季风极端天气造成240人丧生](https://news.cctv.com/2025/08/13/ARTIGzIRX8zyS84sT4Sx0Vsl250813.shtml)
+

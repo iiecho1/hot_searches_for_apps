@@ -65,3 +65,17 @@
 
 + [“闺蜜机”上新 3999 元小米智能家庭屏 Max 27 上架，官方预热 Xiaomi 家庭屏 8 云台版即将推出](https://m.ithome.com/html/874792.htm)
 
++ [一汽丰田高管称小米汽车 YU7“轮轴比”算错数，车企跟风“抄错答案”](https://m.ithome.com/html/874970.htm)
+
++ [玩家起诉《王者荣耀》案开庭：连胜后匹配菜鸡队友，要求公开匹配机制](https://m.ithome.com/html/874942.htm)
+
++ [财政部等三部门：对单笔 5 万元及以上家用汽车等消费贷款给予财政贴息](https://m.ithome.com/html/874987.htm)
+
++ [限领 1 次过期作废：电动自行车 500 元补贴发放，45 公里电动车 399 元起](https://m.ithome.com/html/874870.htm)
+
++ [接近 DeepSeek 人士确认：R2 模型本月内并无发布计划](https://m.ithome.com/html/874997.htm)
+
++ [18.18 万元起上汽大众途观 L 出众款“最便宜车型”上市：降级 8 英寸液晶仪表、取消可开启式全景天窗](https://m.ithome.com/html/874880.htm)
+
++ [华为 nova 14 Ultra 手机获鸿蒙 HarmonyOS 5.1.0.128 升级，小艺导航条可快捷开启定向拾音等功能](https://m.ithome.com/html/874869.htm)
+

@@ -187,3 +187,9 @@
 
 + [【Coze搞钱实战】13. 私域流量自动化：企业微信+Coze无缝对接指南（附合规方案与实测代码）](https://blog.csdn.net/weixin_39815573/article/details/150288263)
 
++ [飞算 JavaAI -智慧城市项目实践：从交通协同到应急响应的全链路技术革新](https://blog.csdn.net/Pocker_Spades_A/article/details/150273839)
+
++ [大语言模型（LLM）核心概念与应用技术全解析：从Prompt设计到向量检索](https://blog.csdn.net/qq_51831335/article/details/150208401)
+
++ [云原生环境Prometheus企业级监控](https://blog.csdn.net/h3309869136/article/details/150231388)
+

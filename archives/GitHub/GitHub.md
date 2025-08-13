@@ -37,3 +37,17 @@
 
 + [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
 
++ [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
+
++ [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
+
++ [menloresearch/jan](https://github.com/menloresearch/jan)
+
++ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
++ [filamentphp/filament](https://github.com/filamentphp/filament)
+
++ [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+
++ [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
