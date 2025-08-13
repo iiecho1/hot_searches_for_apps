@@ -169,3 +169,25 @@
 
 + [俄美外长通电话 讨论两国元首会晤筹备事宜](https://news.cctv.com/2025/08/13/ARTIrIbFZUFSxPNURwH1oAoF250813.shtml)
 
++ [日本大分县附近海域两船相撞 其中一艘游艇或已沉没](https://news.cctv.com/2025/08/13/ARTIuuiJsHRd4CVRx6QXdeq2250813.shtml)
+
++ [强风和高温引发希腊全国野火肆虐](https://news.cctv.com/2025/08/13/ARTIWCx53izRD9TsKrfNYbqm250813.shtml)
+
++ [美媒：美俄会晤或将在阿拉斯加军事基地举行](https://news.cctv.com/2025/08/13/ARTI7exKWnZOfYu48SOCYULt250813.shtml)
+
++ [央视记者探访丨美宾州一工厂爆炸致2死 此前有多次事故记录](https://news.cctv.com/2025/08/13/ARTIOZW4qCKkC2HLwVBBd5aw250813.shtml)
+
++ [墨西哥向美国移交26名贩毒集团头目](https://news.cctv.com/2025/08/13/ARTInarPrMV8g2mM8v4Pykdi250813.shtml)
+
++ [“特普会”细节公布 泽连斯基：不接受没有乌方参与的决定](https://news.cctv.com/2025/08/13/ARTINQT6Ul1w5vKdH0E0Cuu9250813.shtml)
+
++ [内塔尼亚胡称加沙停火谈判“已成过去时”](https://news.cctv.com/2025/08/13/ARTIbwn67yhBigNkMIg4P5ne250813.shtml)
+
++ [南非公布五大举措 直面美方贸易霸凌](https://news.cctv.com/2025/08/13/ARTIVBVR7R0h09skPZ1BjoQg250813.shtml)
+
++ [法国多地气温超过42摄氏度 突破历史同期高温纪录](https://news.cctv.com/2025/08/13/ARTIlUzAOAeZs8lgTycDWFFT250813.shtml)
+
++ [印度拉贾斯坦邦发生交通事故 已致至少10人死亡](https://news.cctv.com/2025/08/13/ARTILw7aMHGN82seLr5HKPMe250813.shtml)
+
++ [缅甸勃固省的大象营地](https://photo.cctv.com/2025/08/13/PHOA9c52hho0i2MuYpKxYke3250813.shtml)
+

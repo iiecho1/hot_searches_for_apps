@@ -39,3 +39,11 @@
 
 + [Canalys 报告 2025Q2 全球主要市场手机出货量：华为中国大陆第一、vivo 印度第一、苹果美国第一](https://m.ithome.com/html/874552.htm)
 
++ [黄仁勋子女成长路径曝光：一个学烘焙一个开酒吧，均为英伟达高管](https://m.ithome.com/html/874745.htm)
+
++ [山寨 iPhone 17 Pro 现身：运行安卓系统，界面模仿苹果 iOS](https://m.ithome.com/html/874651.htm)
+
++ [小米汽车回应“未收车先结清尾款”：仅针对部分有特殊情况准车主](https://m.ithome.com/html/874764.htm)
+
++ [特朗普：考虑允许英伟达对华销售 Blackwell 芯片](https://m.ithome.com/html/874678.htm)
+

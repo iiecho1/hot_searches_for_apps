@@ -141,3 +141,9 @@
 
 + [从 Kotlin ViewModel 到 Flutter：完整迁移指南与状态管理实践](https://blog.csdn.net/tangweiguo03051987/article/details/150205109)
 
++ [飞算AI：企业智能化转型的新引擎](https://blog.csdn.net/czx_163/article/details/150277578)
+
++ [超越相似名称：Elasticsearch semantic text 如何在简洁、高效、集成方面超越 OpenSearch semantic 字段](https://blog.csdn.net/UbuntuTouch/article/details/150334894)
+
++ [Spring 配置文件实用技巧：让你的配置更简洁高效](https://blog.csdn.net/2401_82690001/article/details/149864652)
+
