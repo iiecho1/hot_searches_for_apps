@@ -49,3 +49,9 @@
 
 + [华为 nova 14 Ultra 手机获鸿蒙 HarmonyOS 5.1.0.128 升级，小艺导航条可快捷开启定向拾音等功能](https://m.ithome.com/html/874869.htm)
 
++ [最便宜华为乾崑智驾车型：2026 款深蓝 L07 上市，首发价 13.59 万元起](https://m.ithome.com/html/875139.htm)
+
++ [小米 REDMI Note 15 Pro 手机将“不卷挡子弹、压路机”，雷军在线征集抗摔场景](https://m.ithome.com/html/875038.htm)
+
++ [工信部等两部门：企业不得暗示消费者可将辅助驾驶视为自动驾驶，未经备案不得 OTA 升级](https://m.ithome.com/html/875135.htm)
+

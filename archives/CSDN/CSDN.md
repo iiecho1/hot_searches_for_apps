@@ -127,3 +127,7 @@
 
 + [【华数杯】2025年华数杯数学建模竞赛B题通关指南](https://blog.csdn.net/xiaoyingxixi1989/article/details/150149205)
 
++ [【工创赛2025-塔吊方案视觉开源（2分15秒）】西安理工大学工程训练中心](https://blog.csdn.net/2303_80277100/article/details/150211965)
+
++ [机器学习——10 支持向量机SVM](https://blog.csdn.net/kongbaidemumu/article/details/150141624)
+
