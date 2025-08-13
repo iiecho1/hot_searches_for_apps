@@ -147,3 +147,11 @@
 
 + [Spring 配置文件实用技巧：让你的配置更简洁高效](https://blog.csdn.net/2401_82690001/article/details/149864652)
 
++ [语义解析革命：飞算JavaAI三层架构重塑企业级代码生成链路](https://blog.csdn.net/m0_74385041/article/details/150289635)
+
++ [秋天的第一个项目，飞算JavaAI一小时拿下~](https://blog.csdn.net/2401_87533975/article/details/150264863)
+
++ [新人该如何将不同的HTML、CSS、Javascript等文件转化为Vue3文件架构](https://blog.csdn.net/2201_75876277/article/details/150220984)
+
++ [物联网通讯协议-MQTT、Modbus、OPC](https://blog.csdn.net/dingshulin1996/article/details/150219507)
+

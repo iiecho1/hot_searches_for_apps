@@ -191,3 +191,5 @@
 
 + [缅甸勃固省的大象营地](https://photo.cctv.com/2025/08/13/PHOA9c52hho0i2MuYpKxYke3250813.shtml)
 
++ [美国7月份通胀压力持续](https://news.cctv.com/2025/08/13/ARTIt1aRpNMK1hIqbO6PfTjn250813.shtml)
+
