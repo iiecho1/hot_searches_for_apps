@@ -237,3 +237,11 @@
 
 + [以色列要把部分加沙居民迁至南苏丹？南苏丹否认](https://news.cctv.com/2025/08/14/ARTIchxO7HszCGuM9st7FCsR250814.shtml)
 
++ [约1400人死亡 联合国：叙利亚年初暴力事件或涉战争罪](https://news.cctv.com/2025/08/14/ARTIMMEURj0eMXjj6MDL2FNa250814.shtml)
+
++ [巴西学者：加强多边合作应对美关税危害](https://news.cctv.com/2025/08/14/ARTIXQu0nJSoaj8lfKBHIUty250814.shtml)
+
++ [西班牙山火已致三人遇难 多地火势失控](https://news.cctv.com/2025/08/14/ARTIsnoxaNOnZ5rK8DN2qKjF250814.shtml)
+
++ [英国10岁女孩成为国际象棋最年轻女子国际大师](https://people.cctv.com/2025/08/14/ARTIxNx97nZA5Dh54cZhMvRL250814.shtml)
+

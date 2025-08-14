@@ -67,3 +67,7 @@
 
 + [苹果 iPad 维修政策被曝重大调整：首次支持到店维修，收费更透明](https://m.ithome.com/html/875172.htm)
 
++ [“对决”传音：小米任命多位非洲市场高管，雷军称要加大投入](https://m.ithome.com/html/874963.htm)
+
++ [小米智能摄像机 4 变焦版上架：4K 超清 + 9 倍混合变焦，众筹价 399 元](https://m.ithome.com/html/875011.htm)
+
