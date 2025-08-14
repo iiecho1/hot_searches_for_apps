@@ -161,3 +161,5 @@
 
 + [央视记者探访丨美宾州一工厂爆炸致2死 此前有多次事故记录](https://news.cctv.com/2025/08/13/ARTIOZW4qCKkC2HLwVBBd5aw250813.shtml)
 
++ [国际奥委会：关于黄思绵委员涉嫌腐败的指控毫无依据](https://news.cctv.com/2025/08/15/ARTIV1kDae49kYu2F04PzXf9250815.shtml)
+

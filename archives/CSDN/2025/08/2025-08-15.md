@@ -101,3 +101,7 @@
 
 + [shell脚本02 |批量打包镜像到/opt/docker-test-images |批量传输服务器a镜像tar包到远程服务器b | 批量从本地指定目录解压镜像tar包到服务器 |显示当前镜像列表](https://blog.csdn.net/qq_61414097/article/details/150352510)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融资产配置优化与风险收益平衡中的应用（395）](https://blog.csdn.net/atgfg/article/details/150363455)
+
++ [Cloud Computing（云计算）和Sky Computing（天空计算）](https://blog.csdn.net/ttyy1112/article/details/150266447)
+
