@@ -165,3 +165,5 @@
 
 + [俄罗斯一新型护卫舰下水](https://news.cctv.com/2025/08/15/ARTIMj5jTd0r4sTtFHVp2NsL250815.shtml)
 
++ [无国界医生组织：霍乱一周内致苏丹达尔富尔地区40人死亡](https://news.cctv.com/2025/08/15/ARTIHGKvq1mVpYHn05GEZEtj250815.shtml)
+

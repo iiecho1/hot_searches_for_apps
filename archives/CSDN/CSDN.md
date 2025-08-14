@@ -119,3 +119,5 @@
 
 + [破解测试数据困境：5招兼顾安全与真实性](https://blog.csdn.net/CoCode888/article/details/150351300)
 
++ [k8s资源管理](https://blog.csdn.net/2403_86763298/article/details/150351774)
+

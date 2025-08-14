@@ -49,3 +49,7 @@
 
 + [小米汽车副总裁李肖爽回应“轮轴比”概念讨论：术业有专攻，学习了](https://m.ithome.com/html/875398.htm)
 
++ [华为鸿蒙 HarmonyOS 5 应用市场新增 App 内购项目显示，支持跳转购买会员](https://m.ithome.com/html/875165.htm)
+
++ [苹果 iPad 维修政策被曝重大调整：首次支持到店维修，收费更透明](https://m.ithome.com/html/875172.htm)
+
