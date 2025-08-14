@@ -167,3 +167,11 @@
 
 + [两艘非法移民船在意大利海域沉没 已致20人死亡](https://news.cctv.com/2025/08/14/ARTI3FwwM8RQHKdM59SvO4Pe250814.shtml)
 
++ [安理会拒绝接受苏丹快速支援部队成立“平行政府”](https://news.cctv.com/2025/08/14/ARTIROvakxgsRWdapzYYPixB250814.shtml)
+
++ [两艘非法移民船在意大利南部海域倾覆 至少27人死亡](https://news.cctv.com/2025/08/14/ARTICGQQIyLZPuzWQkY5D6Ig250814.shtml)
+
++ [波兰斥资38亿美元升级全部F-16战斗机](https://news.cctv.com/2025/08/14/ARTI0Lf4vpzAVuNbCVobX2XI250814.shtml)
+
++ [野火蔓延 加拿大艾伯尼港进入紧急状态](https://news.cctv.com/2025/08/14/ARTIBldYVyxTzQUPjGNgpTOj250814.shtml)
+
