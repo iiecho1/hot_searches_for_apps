@@ -105,3 +105,17 @@
 
 + [Cloud Computing（云计算）和Sky Computing（天空计算）](https://blog.csdn.net/ttyy1112/article/details/150266447)
 
++ [飞算JavaAI：革新Java开发体验的智能助手](https://blog.csdn.net/2301_76341691/article/details/150388841)
+
++ [Netty线程模型:1个工人如何管理100条流水线？](https://blog.csdn.net/qq_44378083/article/details/149138752)
+
++ [【车联网kafka】Kafka核心架构与实战经验（第四篇）](https://blog.csdn.net/qq_36038282/article/details/150349824)
+
++ [深入解析 Python 环境中的 ImportError: cannot import name ContextualZipFile 及解决方案](https://blog.csdn.net/eidolon_foot/article/details/149442090)
+
++ [用 Spring 思维快速上手 DDD——以 Kratos 为例的分层解读](https://blog.csdn.net/weixin_48471044/article/details/150288335)
+
++ [深入理解 Cookie 与 Session —— Web 状态保持详解与实战](https://blog.csdn.net/2302_79797878/article/details/150355682)
+
++ [破解测试数据困境：5招兼顾安全与真实性](https://blog.csdn.net/CoCode888/article/details/150351300)
+
