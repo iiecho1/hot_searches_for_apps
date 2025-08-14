@@ -229,3 +229,11 @@
 
 + [爆料：美国秘密在芯片货物中安了追踪器](https://news.cctv.com/2025/08/14/ARTIqtDT9A4VYp6WRh6iQazU250814.shtml)
 
++ [德国宣布向乌克兰提供5亿美元军事援助](https://news.cctv.com/2025/08/14/ARTIeAVk3WLKxy1JwNyQl26o250814.shtml)
+
++ [各方密集发声 “普特会”更多信息披露](https://news.cctv.com/2025/08/14/ARTILLAeOpsXG2nZYiWQUPw5250814.shtml)
+
++ [俄罗斯罗斯托夫市中心发生强烈爆炸](https://news.cctv.com/2025/08/14/ARTI6jin19S8YLYSbobnBQ8Q250814.shtml)
+
++ [以色列要把部分加沙居民迁至南苏丹？南苏丹否认](https://news.cctv.com/2025/08/14/ARTIchxO7HszCGuM9st7FCsR250814.shtml)
+
