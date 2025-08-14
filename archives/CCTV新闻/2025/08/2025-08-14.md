@@ -245,3 +245,9 @@
 
 + [英国10岁女孩成为国际象棋最年轻女子国际大师](https://people.cctv.com/2025/08/14/ARTIxNx97nZA5Dh54cZhMvRL250814.shtml)
 
++ [高盛预测美联储今年降息三次](https://news.cctv.com/2025/08/14/ARTIWDBuyg366tKrtx0giYA3250814.shtml)
+
++ [具体时间定了！俄方通报“特普会”最新细节](https://news.cctv.com/2025/08/14/ARTI25eR23dySz1JiqpmsF3n250814.shtml)
+
++ [墨西哥城遇70多年来最强降雨 地标广场被淹 机场瘫痪](https://news.cctv.com/2025/08/14/ARTIb8O95ns7I1nPyRaCKjA7250814.shtml)
+

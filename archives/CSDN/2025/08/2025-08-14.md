@@ -193,3 +193,7 @@
 
 + [实现一个二维码让 iOS 和 Android 用户自动跳转到对应下载链接](https://blog.csdn.net/seabirdssss/article/details/150283867)
 
++ [Trae x Figma MCP一键将设计稿转化为精美网页](https://blog.csdn.net/2301_80863610/article/details/150388244)
+
++ [用 Spring 思维快速上手 DDD——以 Kratos 为例的分层解读](https://blog.csdn.net/weixin_48471044/article/details/150288335)
+
