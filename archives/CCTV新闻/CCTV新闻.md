@@ -205,3 +205,11 @@
 
 + [民调：多数瑞士人反对在关税问题上对美让步](https://news.cctv.com/2025/08/14/ARTIptmAomr3GCNkWQlST78H250814.shtml)
 
++ [非法移民船在意大利海域沉没 至少27人死亡](https://news.cctv.com/2025/08/14/ARTIQ07TWypEkiSSWnyRFfJe250814.shtml)
+
++ [巴基斯坦宣布成立陆军火箭部队司令部](https://news.cctv.com/2025/08/14/ARTIBlozykIkqXz2IDjdihBC250814.shtml)
+
++ [北美观察｜阿拉斯加峰会前夜 乌克兰与欧洲联合锁定红线](https://news.cctv.com/2025/08/14/ARTIJ22sDjqAobpa7F3hgFZ8250814.shtml)
+
++ [从威胁起诉到名单曝光 特朗普对美联储“双线施压”](https://news.cctv.com/2025/08/14/ARTImpBuBxIOC020NsQIAY0U250814.shtml)
+
