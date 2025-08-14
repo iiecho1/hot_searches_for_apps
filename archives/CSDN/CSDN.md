@@ -131,3 +131,13 @@
 
 + [机器学习——10 支持向量机SVM](https://blog.csdn.net/kongbaidemumu/article/details/150141624)
 
++ [PyTorch生成式人工智能——基于Transformer实现文本转语音](https://blog.csdn.net/LOVEmy134611/article/details/146261279)
+
++ [基于 MybatisPlus 将百度天气数据存储至 PostgreSQL 数据库的实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/150356393)
+
++ [【08】华汉伟业——华汉伟业 嵌入式 C笔试，校招，题目记录及解析](https://blog.csdn.net/m0_51233386/article/details/150216923)
+
++ [【Kafka系列】第三篇｜ 在哪些场景下会选择使用 Kafka？](https://blog.csdn.net/qq_21267357/article/details/150224397)
+
++ [【Web 服务的铁三角架构】Flask、Nginx 与 Docker 的分工与协作](https://blog.csdn.net/weixin_73350076/article/details/150215670)
+

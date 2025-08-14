@@ -175,3 +175,25 @@
 
 + [野火蔓延 加拿大艾伯尼港进入紧急状态](https://news.cctv.com/2025/08/14/ARTIBldYVyxTzQUPjGNgpTOj250814.shtml)
 
++ [俄称控制两个定居点 乌称打击俄军输油站](https://news.cctv.com/2025/08/14/ARTILAw18h4dnCjAs7CtBlWU250814.shtml)
+
++ [中非共和国庆祝独立65周年](https://photo.cctv.com/2025/08/14/PHOAVOOjxWheTaSBjUOvyku9250814.shtml)
+
++ [中欧班列（西安）累计开行突破30000列](https://photo.cctv.com/2025/08/14/PHOANaTCKVNW1Yzq6GngJmr7250814.shtml)
+
++ [美国弗吉尼亚州发生枪击事件 多名执法人员中弹](https://news.cctv.com/2025/08/14/ARTIdZ43uBE84jAl6Dm9e6L5250814.shtml)
+
++ [以财长：计划批准在耶路撒冷以东新建3000多套定居点住房](https://news.cctv.com/2025/08/14/ARTIp1dqDX0z2cgcBUNqOCzj250814.shtml)
+
++ [“特普会”在即 欧美乌通气确定对俄立场](https://news.cctv.com/2025/08/14/ARTI46yZaEhx4zajt8DxhLTq250814.shtml)
+
++ [金与正：朝方从未也无意拆除朝韩边境地区的扩音器](https://news.cctv.com/2025/08/14/ARTIL3peab0JCDKKzOkIIgUv250814.shtml)
+
++ [消息人士：“特普会”将聚焦停火 不谈领土划分](https://news.cctv.com/2025/08/14/ARTI2j6rI2B422vfxJWhfT2a250814.shtml)
+
++ [H-1B随机抽签时代终结？美政府推进“高薪优先”](https://news.cctv.com/2025/08/14/ARTIZUAcprdvN453wHoLOEsg250814.shtml)
+
++ [巴西推出“巴西主权计划”应对美国关税影响](https://news.cctv.com/2025/08/14/ARTIF9GEuWPfDL4OjBdUg6Nz250814.shtml)
+
++ [金建希接受韩国特检组传唤调查](https://news.cctv.com/2025/08/14/ARTI1wrmQgzn25xZvHcb36en250814.shtml)
+
