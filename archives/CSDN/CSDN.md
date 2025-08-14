@@ -159,3 +159,15 @@
 
 + [游戏中角色持枪：玩家操控角色，角色转向时枪也要转向](https://blog.csdn.net/qiy_icbc/article/details/150292771)
 
++ [【MCP探索实践】MiniMax MCP Server：多模态生成服务器，让AI同时玩转视频/语音/图像生成](https://blog.csdn.net/xiaobing259/article/details/150156709)
+
++ [人工智能芯片的整体构架设计](https://blog.csdn.net/ccsss22/article/details/150282917)
+
++ [【智能协同云图库】智能协同云图库第十二弹：基于腾讯云服务器 + 宝塔 linux 面板 + Nginx 部署云图库项目](https://blog.csdn.net/2402_84916296/article/details/150383724)
+
++ [GaussDB 权限管理的系统性技术解析与实践指南](https://blog.csdn.net/GaussDB/article/details/150350241)
+
++ [用 Python 的 selenium 自动抢演唱会门票，成功率 90%](https://blog.csdn.net/2503_92849275/article/details/150226617)
+
++ [FPGA+护理：跨学科发展的探索（三）](https://blog.csdn.net/qq_43810335/article/details/150281389)
+
