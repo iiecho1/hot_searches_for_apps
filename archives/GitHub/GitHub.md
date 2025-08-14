@@ -35,3 +35,21 @@
 
 + [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 
++ [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+
++ [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
+
++ [redis/go-redis](https://github.com/redis/go-redis)
+
++ [colmap/colmap](https://github.com/colmap/colmap)
+
++ [angular/components](https://github.com/angular/components)
+
++ [midday-ai/midday](https://github.com/midday-ai/midday)
+
++ [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
++ [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
+
++ [oop7/YTSage](https://github.com/oop7/YTSage)
+
