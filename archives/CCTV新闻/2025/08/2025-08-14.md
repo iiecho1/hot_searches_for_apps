@@ -255,3 +255,5 @@
 
 + [5亿美元债务压顶 美国百年影像巨头柯达担心“撑不住”](https://news.cctv.com/2025/08/14/ARTIgrWoLQI7p2yKz2huMXD2250814.shtml)
 
++ [专访丨中国已成为全球绿色转型的领跑者——访埃及气候与环境专家阿拉姆](https://news.cctv.com/2025/08/14/ARTIU5BtSnGB1MjIdMrFQBz6250814.shtml)
+

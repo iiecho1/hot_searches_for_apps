@@ -71,3 +71,15 @@
 
 + [小米智能摄像机 4 变焦版上架：4K 超清 + 9 倍混合变焦，众筹价 399 元](https://m.ithome.com/html/875011.htm)
 
++ [苹果新 iPhone 17 Air 机模上手：天蓝色 + 超薄设计](https://m.ithome.com/html/875267.htm)
+
++ [尚界：已收到超 1500 家经销商报名，有保时捷、沃尔沃等豪华品牌 4S 店转投加盟](https://m.ithome.com/html/875272.htm)
+
++ [苹果 iPhone 17 系列发布会邀请函曝光，显示北京时间 9 月 10 日 1 点召开](https://m.ithome.com/html/875389.htm)
+
++ [终结“Ultra 不如 Series”争议，苹果 Apple Watch Ultra 3 智能手表前瞻](https://m.ithome.com/html/875212.htm)
+
++ [苹果新 iPad Pro 曝料：系统体验向 Mac 靠拢、M5 芯片首发独占期缩短](https://m.ithome.com/html/875215.htm)
+
++ [苹果 S11 芯片细节流出，Apple Watch Series 11 / Ultra 3 / SE 3 手表性能恐“原地踏步”](https://m.ithome.com/html/875228.htm)
+
