@@ -167,3 +167,5 @@
 
 + [无国界医生组织：霍乱一周内致苏丹达尔富尔地区40人死亡](https://news.cctv.com/2025/08/15/ARTIHGKvq1mVpYHn05GEZEtj250815.shtml)
 
++ [英国二季度经济增长明显放缓](https://news.cctv.com/2025/08/15/ARTIWJ7NVS1hCjMS6VaM17oi250815.shtml)
+
