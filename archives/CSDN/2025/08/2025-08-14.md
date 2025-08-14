@@ -175,3 +175,13 @@
 
 + [（四十五）深度解析领域特定语言（DSL）第八章——语法分析器组合子：案例实现（Part1）](https://blog.csdn.net/weixin_46217641/article/details/150380102)
 
++ [开源vs闭源AI工具大比较：成本、性能、生态的全方位对比](https://blog.csdn.net/IRpickstars/article/details/150381271)
+
++ [PHP伪协议详解：网络安全中的利用与防御](https://blog.csdn.net/weixin_41905135/article/details/150259740)
+
++ [中国网络安全处罚综合研究报告（2020-2025）](https://blog.csdn.net/huluang/article/details/150269816)
+
++ [疾病防控|基于SprinBoot+vue疾病防控综合系统系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/150381554)
+
++ [【完整源码+数据集+部署教程】火柴实例分割系统源码和数据集：改进yolo11-rmt](https://blog.csdn.net/weixin_43860634/article/details/150345753)
+

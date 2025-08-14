@@ -213,3 +213,19 @@
 
 + [从威胁起诉到名单曝光 特朗普对美联储“双线施压”](https://news.cctv.com/2025/08/14/ARTImpBuBxIOC020NsQIAY0U250814.shtml)
 
++ [哈马斯提出停火要求 承诺将撤离并保证被扣押人员安全](https://news.cctv.com/2025/08/14/ARTISf0XmCrdYFP9Sre0yQ3q250814.shtml)
+
++ [《南京照相馆》洛杉矶首映式举行 好莱坞电影人观后哽咽](https://news.cctv.com/2025/08/14/ARTIXtPBit3i3iMxpRXQHTz0250814.shtml)
+
++ [穆迪首席经济学家发出警告：美国经济处于衰退边缘](https://news.cctv.com/2025/08/14/ARTIQENxxoDR374LCjr5rFaq250814.shtml)
+
++ [南非：美国所发“国别人权报告”存在“严重缺陷”](https://news.cctv.com/2025/08/14/ARTIiEEwTnfrqs5deDUpZzU3250814.shtml)
+
++ [法国报告21例污染奶酪所致李斯特菌病病例](https://news.cctv.com/2025/08/14/ARTIEE10xyZQQZoc9nxQEo2H250814.shtml)
+
++ [美国务院对巴西等国政府官员实施签证限制](https://news.cctv.com/2025/08/14/ARTIVdAuS5dpWqLtWI769cWx250814.shtml)
+
++ [韩国特检组：将于18日再次传唤调查金建希](https://news.cctv.com/2025/08/14/ARTIxv8LVChcmmt8BWOFw9xu250814.shtml)
+
++ [爆料：美国秘密在芯片货物中安了追踪器](https://news.cctv.com/2025/08/14/ARTIqtDT9A4VYp6WRh6iQazU250814.shtml)
+
