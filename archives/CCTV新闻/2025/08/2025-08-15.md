@@ -169,3 +169,5 @@
 
 + [英国二季度经济增长明显放缓](https://news.cctv.com/2025/08/15/ARTIWJ7NVS1hCjMS6VaM17oi250815.shtml)
 
++ [巴基斯坦参议院副主席：坚定支持中巴经济走廊“升级版”建设](https://news.cctv.com/2025/08/15/ARTIxC1yigu6L8MNm2PYIqZa250815.shtml)
+
