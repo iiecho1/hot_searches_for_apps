@@ -55,3 +55,15 @@
 
 + [工信部等两部门：企业不得暗示消费者可将辅助驾驶视为自动驾驶，未经备案不得 OTA 升级](https://m.ithome.com/html/875135.htm)
 
++ [iPhone 17 Pro 同款芯片：新 iPad mini 将配 A19 Pro，苹果将打造最强小尺寸平板](https://m.ithome.com/html/875198.htm)
+
++ [比亚迪汉百万车主画像公布：年轻人占比超 64%，近 4 成未婚](https://m.ithome.com/html/875196.htm)
+
++ [沪指突破 3674 点创 2021 年 12 月以来新高：支付宝宣布“理财”内容消费用户破 3 亿，近一年 95 后 00 后用户增长 4 倍](https://m.ithome.com/html/875120.htm)
+
++ [小鹏汽车：全新 P7 的 24 小时耐力测试因突发恶劣天气决定暂停，今早合适时间重新出发](https://m.ithome.com/html/875182.htm)
+
++ [华为鸿蒙 HarmonyOS 5 应用市场新增 App 内购项目显示，支持跳转购买会员](https://m.ithome.com/html/875165.htm)
+
++ [苹果 iPad 维修政策被曝重大调整：首次支持到店维修，收费更透明](https://m.ithome.com/html/875172.htm)
+
