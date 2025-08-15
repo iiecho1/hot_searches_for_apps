@@ -101,3 +101,17 @@
 
 + [【工创赛2025-塔吊方案视觉开源（2分15秒）】西安理工大学工程训练中心](https://blog.csdn.net/2303_80277100/article/details/150211965)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融资产配置优化与风险收益平衡中的应用（395）](https://blog.csdn.net/atgfg/article/details/150363455)
+
++ [医疗AI问答系统实战：知识图谱+大模型的融合应用开发](https://blog.csdn.net/IRpickstars/article/details/150381227)
+
++ [分享一个基于Hadoop+spark的超市销售数据分析与可视化系统，超市顾客消费行为分析系统的设计与实现](https://blog.csdn.net/m0_72599287/article/details/150400420)
+
++ [Java研学-RabbitMQ(六)](https://blog.csdn.net/zhlyxx/article/details/149647209)
+
++ [企业级远程协助与安全防护的整合实践——以腾讯 iOA 为例](https://blog.csdn.net/weixin_52908342/article/details/150319816)
+
++ [k8s资源管理](https://blog.csdn.net/2403_86763298/article/details/150351774)
+
++ [【完整源码+数据集+部署教程】肾脏病变实例分割系统源码和数据集：改进yolo11-CARAFE](https://blog.csdn.net/weixin_43860634/article/details/150387510)
+
