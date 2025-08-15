@@ -149,3 +149,15 @@
 
 + [前端框架选择之争：jQuery与Vue在现代Web开发中的真实地位-优雅草卓伊凡](https://blog.csdn.net/dujiangdu123/article/details/150404282)
 
++ [飞算 JavaAI -智慧城市项目实践：从交通协同到应急响应的全链路技术革新](https://blog.csdn.net/Pocker_Spades_A/article/details/150273839)
+
++ [Java 大视界 -- Java 大数据在智能教育学习效果评估指标体系构建与精准评估中的应用（394）](https://blog.csdn.net/atgfg/article/details/150296487)
+
++ [AI知识管理革命：智能搜索与问答新突破](https://blog.csdn.net/RebeccaGuan0808/article/details/149805134)
+
++ [流处理、实时分析与RAG驱动的Python ETL框架：构建智能数据管道(上)](https://blog.csdn.net/kkiron/article/details/150411825)
+
++ [Seata深度剖析：微服务分布式事务解决方案](https://blog.csdn.net/qq_39126115/article/details/150274054)
+
++ [【Unity开发】Unity核心学习（一）](https://blog.csdn.net/weixin_45972052/article/details/149643010)
+
