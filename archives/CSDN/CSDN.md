@@ -169,3 +169,9 @@
 
 + [【个人项目】跑者天地—测试用例](https://blog.csdn.net/2301_78583687/article/details/150315160)
 
++ [跨网络 SSH 访问：借助 cpolar 内网穿透服务实现手机远程管理 Linux](https://blog.csdn.net/Tiam_cr/article/details/150414392)
+
++ [备战国赛算法讲解——马尔科夫链，2025国赛数学建模B题详细思路模型更新](https://blog.csdn.net/weixin_45499067/article/details/150287821)
+
++ [随身 Linux 开发环境：使用 cpolar 内网穿透服务实现 VSCode 远程访问](https://blog.csdn.net/leng_yong/article/details/150392712)
+

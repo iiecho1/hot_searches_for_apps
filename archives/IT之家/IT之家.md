@@ -71,3 +71,11 @@
 
 + [“对齐”安卓 / iOS 版本：微信鸿蒙版 App 获 1.0.9.37 版本邀测升级，一些已知问题的修复](https://m.ithome.com/html/875464.htm)
 
++ [超过小米 YU7 的 3944km，何小鹏宣布全新小鹏 P7 在 24 小时测试中跑了 3961km](https://m.ithome.com/html/875557.htm)
+
++ [苹果发布 iOS / iPadOS 26 第 3 个公测版：融合“液态玻璃”设计，增强 Apple 智能](https://m.ithome.com/html/875478.htm)
+
++ [9.7 分神作《毛骗》主创团队打造：国产真人互动影游《极速营救》发售，首发 33.3 元](https://m.ithome.com/html/875422.htm)
+
++ [微信新增聊天引用部分文字功能](https://m.ithome.com/html/875296.htm)
+
