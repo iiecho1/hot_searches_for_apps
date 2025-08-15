@@ -123,3 +123,9 @@
 
 + [Linux性能分析教程：top, htop, iotop命令使用详解 (服务器慢/卡顿排查)](https://blog.csdn.net/Clownseven/article/details/150340893)
 
++ [Python爱心光波](https://blog.csdn.net/m0_68111267/article/details/150335457)
+
++ [VUE的8个生命周期](https://blog.csdn.net/Panlingfan/article/details/150283944)
+
++ [【完整源码+数据集+部署教程】肾脏病变实例分割系统源码和数据集：改进yolo11-CARAFE](https://blog.csdn.net/weixin_43860634/article/details/150387510)
+
