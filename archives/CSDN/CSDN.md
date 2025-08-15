@@ -139,3 +139,13 @@
 
 + [flutter 开发 鸿蒙 App](https://blog.csdn.net/nicepainkiller/article/details/150390063)
 
++ [浅层神经网络](https://blog.csdn.net/qq_71681039/article/details/150354205)
+
++ [Docker commit 命令：容器快照的艺术](https://blog.csdn.net/qq_41840843/article/details/149044082)
+
++ [【HALCON工业视觉应用探索】04. C# + Halcon工业视觉条码识别系统：从开发到部署全流程实战](https://blog.csdn.net/weixin_39815573/article/details/150387199)
+
++ [从负载均衡到配置中心，Nacos内置功能一次讲清？](https://blog.csdn.net/2302_81247414/article/details/150265384)
+
++ [前端框架选择之争：jQuery与Vue在现代Web开发中的真实地位-优雅草卓伊凡](https://blog.csdn.net/dujiangdu123/article/details/150404282)
+

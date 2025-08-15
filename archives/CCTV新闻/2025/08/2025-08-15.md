@@ -177,3 +177,5 @@
 
 + [马里宣布挫败“颠覆阴谋” 逮捕一名法国情报人员](https://news.cctv.com/2025/08/15/ARTIIhFHAcwwDgNFF6YtcVzF250815.shtml)
 
++ [美国新关税税率落地一星期：普通消费者的餐桌、账单与饭碗](https://news.cctv.com/2025/08/15/ARTIQKO9kGqHCO89Y7yA81qy250815.shtml)
+

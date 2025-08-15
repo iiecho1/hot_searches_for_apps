@@ -33,3 +33,7 @@
 
 + [大家爬墙是用软路由，还是客户端？](https://www.v2ex.com/t/1152540)
 
++ [你们在设计 restful api 时会用 put 和 delete 吗？](https://www.v2ex.com/t/1152509)
+
++ [我今天要网暴一下自己](https://www.v2ex.com/t/1152536)
+
