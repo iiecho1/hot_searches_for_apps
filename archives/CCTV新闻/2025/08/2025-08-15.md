@@ -179,3 +179,5 @@
 
 + [美国新关税税率落地一星期：普通消费者的餐桌、账单与饭碗](https://news.cctv.com/2025/08/15/ARTIQKO9kGqHCO89Y7yA81qy250815.shtml)
 
++ [洛杉矶奥运会将首次出售部分场馆冠名权](https://news.cctv.com/2025/08/15/ARTI6NGmu4VuXMvRLl5j1Ntz250815.shtml)
+
