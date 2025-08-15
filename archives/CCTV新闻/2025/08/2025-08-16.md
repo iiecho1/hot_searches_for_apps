@@ -167,3 +167,9 @@
 
 + [黎真主党领导人谴责政府决定 重申不会放弃武器](https://news.cctv.com/2025/08/16/ARTIqPBz74PJTwiWKJUwkMzb250816.shtml)
 
++ [哥伦比亚陆军遭反政府武装无人机袭击 造成1死7伤](https://news.cctv.com/2025/08/16/ARTId5FIRCo1rTBzlolU1ZTH250816.shtml)
+
++ [以色列国家安全部长进入牢房威胁法塔赫高级成员](https://news.cctv.com/2025/08/16/ARTI59k8UuhMEuB2SGc1r4zy250816.shtml)
+
++ [阿尔及利亚北部发生交通事故 造成18人死亡](https://news.cctv.com/2025/08/16/ARTIMmAiSaEBl8E188UIzRvC250816.shtml)
+
