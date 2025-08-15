@@ -139,3 +139,5 @@
 
 + [Qt TCP 客户端对象生命周期与连接断开问题解析](https://blog.csdn.net/qq_35803412/article/details/150404121)
 
++ [【网络安全测试】手机APP安全测试工具NowSecure 使用指导手册（有关必回）](https://blog.csdn.net/2501_92897788/article/details/150401647)
+
