@@ -199,3 +199,7 @@
 
 + [【Linux学习|黑马笔记|Day4】IP地址、主机名、网络请求、下载、端口、进程管理、主机状态监控、环境变量、文件的上传和下载、压缩和解压](https://blog.csdn.net/2401_87144364/article/details/150400390)
 
++ [Elasticsearch：如何使用 Qwen3 来做向量搜索](https://blog.csdn.net/UbuntuTouch/article/details/150397604)
+
++ [《多级缓存架构设计与实现全解析》](https://blog.csdn.net/2302_78623873/article/details/150399613)
+
