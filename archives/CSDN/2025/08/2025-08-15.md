@@ -185,3 +185,9 @@
 
 + [内容聚合远程访问：使用 cpolar 内网穿透服务构建 RssHub 私有系统](https://blog.csdn.net/weixin_58070962/article/details/150411542)
 
++ [【MCP探索实践】Bright Data MCP：实时、安全、智能，网络数据抓取的三剑客来袭](https://blog.csdn.net/xiaobing259/article/details/150157049)
+
++ [Claude Opus 4.1深度解析：抢先GPT5发布，AI编程之王主动出击？](https://blog.csdn.net/qq_51646682/article/details/150404127)
+
++ [零代码生成 3D 游戏：基于 Amazon Q Developer CLI 和 Three.js 的实践](https://blog.csdn.net/zhangxia_/article/details/150108244)
+

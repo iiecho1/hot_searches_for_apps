@@ -187,3 +187,7 @@
 
 + [韩国总统李在明呼吁韩朝恢复信任与对话](https://news.cctv.com/2025/08/15/ARTI9x7b5ce13OxkcTKJ7qto250815.shtml)
 
++ [致命爆炸之后 北美最大焦化厂周边空气监测升级](https://news.cctv.com/2025/08/15/ARTI8SHbQV1oeIs31FdiGdwo250815.shtml)
+
++ [华盛顿居民不满特朗普调兵“夺回”首都行动](https://news.cctv.com/2025/08/15/ARTIlxuwvXuT4swfjCKiGwmx250815.shtml)
+
