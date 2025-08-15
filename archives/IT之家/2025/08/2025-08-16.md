@@ -25,3 +25,21 @@
 
 + [小米 REDMI 显示器 A27U Type-C 版 2026 预售：4K 屏 + 青山护眼，到手 1399 元](https://m.ithome.com/html/875536.htm)
 
++ [苹果新 iPhone 17 Air 机模上手：天蓝色 + 超薄设计](https://m.ithome.com/html/875267.htm)
+
++ [苹果 iPhone 17 系列发布会邀请函曝光，显示北京时间 9 月 10 日 1 点召开](https://m.ithome.com/html/875389.htm)
+
++ [尚界：已收到超 1500 家经销商报名，有保时捷、沃尔沃等豪华品牌 4S 店转投加盟](https://m.ithome.com/html/875272.htm)
+
++ [吉利汽车桂生悦：向所有吉利旗下品牌曾经有背刺感觉的用户致歉](https://m.ithome.com/html/875453.htm)
+
++ [小米汽车副总裁李肖爽回应“轮轴比”概念讨论：术业有专攻，学习了](https://m.ithome.com/html/875398.htm)
+
++ [小米：8 月 16 日起在全国小米之家免费送贵州黔东南扶贫茶园“幸福茶礼”](https://m.ithome.com/html/875287.htm)
+
++ [一汽奥迪开启全新“融合直售”模式，全国统一定价](https://m.ithome.com/html/875438.htm)
+
++ [问界 M7 产品负责人解释为什么做舱内激光：不带“犄角”更美观](https://m.ithome.com/html/875421.htm)
+
++ [酷态科 10 号超级电能充 Ultra 首次 OTA 推送开启：新增多端口、多协议控制](https://m.ithome.com/html/875269.htm)
+
