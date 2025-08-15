@@ -59,3 +59,15 @@
 
 + [C / AC 清除键归来：苹果 iOS 26 修复 iPhone 用户最不满的计算器改动](https://m.ithome.com/html/874921.htm)
 
++ [《浪浪山小妖怪》累计票房已超 7.56 亿，正冲击影史二维动画电影冠军](https://m.ithome.com/html/875468.htm)
+
++ [吉利汽车桂生悦：向所有吉利旗下品牌曾经有背刺感觉的用户致歉](https://m.ithome.com/html/875453.htm)
+
++ [一汽奥迪开启全新“融合直售”模式，全国统一定价](https://m.ithome.com/html/875438.htm)
+
++ [问界 M7 产品负责人解释为什么做舱内激光：不带“犄角”更美观](https://m.ithome.com/html/875421.htm)
+
++ [韩国星巴克：请勿带台式电脑和打印机等大型设备进店](https://m.ithome.com/html/875466.htm)
+
++ [“对齐”安卓 / iOS 版本：微信鸿蒙版 App 获 1.0.9.37 版本邀测升级，一些已知问题的修复](https://m.ithome.com/html/875464.htm)
+
