@@ -191,3 +191,5 @@
 
 + [华盛顿居民不满特朗普调兵“夺回”首都行动](https://news.cctv.com/2025/08/15/ARTIlxuwvXuT4swfjCKiGwmx250815.shtml)
 
++ [俄罗斯梁赞州一工厂火药车间发生爆炸 已致3死20伤](https://news.cctv.com/2025/08/15/ARTIvovPOZB92FP9MMHQWPoz250815.shtml)
+

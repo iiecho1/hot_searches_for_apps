@@ -29,3 +29,25 @@
 
 + [oop7/YTSage](https://github.com/oop7/YTSage)
 
++ [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
+
++ [budtmo/docker-android](https://github.com/budtmo/docker-android)
+
++ [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM)
+
++ [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
+
++ [datalab-to/marker](https://github.com/datalab-to/marker)
+
++ [qarmin/czkawka](https://github.com/qarmin/czkawka)
+
++ [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum)
+
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
+
++ [dotnet/maui](https://github.com/dotnet/maui)
+
++ [google/wire](https://github.com/google/wire)
+

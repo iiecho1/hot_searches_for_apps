@@ -191,3 +191,7 @@
 
 + [零代码生成 3D 游戏：基于 Amazon Q Developer CLI 和 Three.js 的实践](https://blog.csdn.net/zhangxia_/article/details/150108244)
 
++ [前端Vite介绍（现代化前端构建工具，由尤雨溪开发，旨在显著提升开发体验和构建效率）ES模块（ESM）、与传统Webpack对比、Rollup打包](https://blog.csdn.net/Dontla/article/details/150392487)
+
++ [4.1vue3的setup() ](https://blog.csdn.net/chxii/article/details/150395095)
+
