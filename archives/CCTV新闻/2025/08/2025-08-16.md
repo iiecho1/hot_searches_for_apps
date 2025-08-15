@@ -163,3 +163,5 @@
 
 + [俄美总统面对面会晤引关注 能在乌克兰问题上达成多大共识？](https://news.cctv.com/2025/08/16/ARTI7X85wBDyb0Moh80mON9e250815.shtml)
 
++ [美媒称美欧去年与俄进行了大规模贸易](https://news.cctv.com/2025/08/16/ARTIGBTEIQZCi55kiiKqkWJz250815.shtml)
+
