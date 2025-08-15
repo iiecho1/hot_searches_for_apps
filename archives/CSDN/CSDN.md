@@ -175,3 +175,13 @@
 
 + [随身 Linux 开发环境：使用 cpolar 内网穿透服务实现 VSCode 远程访问](https://blog.csdn.net/leng_yong/article/details/150392712)
 
++ [AI 加持：Amazon VPC Direct Connect 路由监控系统构建实践](https://blog.csdn.net/weixin_62782025/article/details/150419321)
+
++ [AI 编程实践：用 Trae 快速开发 HTML 贪吃蛇游戏](https://blog.csdn.net/qq_53544522/article/details/150391969)
+
++ [Java研学-RabbitMQ(六)](https://blog.csdn.net/zhlyxx/article/details/149647209)
+
++ [2025最新小红书笔记推流机制：3步掌握算法逻辑，快速打造百万爆款](https://blog.csdn.net/jzldata/article/details/150274231)
+
++ [内容聚合远程访问：使用 cpolar 内网穿透服务构建 RssHub 私有系统](https://blog.csdn.net/weixin_58070962/article/details/150411542)
+
