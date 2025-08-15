@@ -203,3 +203,11 @@
 
 + [《多级缓存架构设计与实现全解析》](https://blog.csdn.net/2302_78623873/article/details/150399613)
 
++ [机器翻译：Hugging Face库详解](https://blog.csdn.net/cui_yonghua/article/details/150399436)
+
++ [python基于Hadoop的超市数据分析系统](https://blog.csdn.net/Q_Q1963288475/article/details/150345021)
+
++ [深入解析 Spring IOC 容器在 Web 环境中的启动机制](https://blog.csdn.net/2501_92882546/article/details/150402043)
+
++ [Http、Websocket、TCP、UDP对比](https://blog.csdn.net/qq_40588441/article/details/150402830)
+

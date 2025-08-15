@@ -79,3 +79,17 @@
 
 + [微信新增聊天引用部分文字功能](https://m.ithome.com/html/875296.htm)
 
++ [橙色 iPhone 17 Pro 机模再曝：苹果色彩突破内敛风格，为 Pro 系列注入新活力](https://m.ithome.com/html/875502.htm)
+
++ [路虎揽胜极光 L 限时官降 20.6 万，现售 23.98 万-26.98 万元](https://m.ithome.com/html/875606.htm)
+
++ [华为 Pura80 系列手机推送 217 版本更新，时隔多年再次显示麒麟处理器型号](https://m.ithome.com/html/875728.htm)
+
++ [iPhone 17 Pro 铝制机身曝光：消息称苹果时隔近 10 年重启金属背板](https://m.ithome.com/html/875665.htm)
+
++ [雷军祝贺全新小鹏 P7 取得纯电车 24 小时耐力挑战新纪录，邀请更多厂商参与](https://m.ithome.com/html/875570.htm)
+
++ [华为 MatePad Air 2025 款开启预售：到手价 2999 元起](https://m.ithome.com/html/875535.htm)
+
++ [小米 REDMI 显示器 A27U Type-C 版 2026 预售：4K 屏 + 青山护眼，到手 1399 元](https://m.ithome.com/html/875536.htm)
+
