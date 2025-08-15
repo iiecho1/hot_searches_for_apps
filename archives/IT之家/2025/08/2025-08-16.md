@@ -43,3 +43,9 @@
 
 + [酷态科 10 号超级电能充 Ultra 首次 OTA 推送开启：新增多端口、多协议控制](https://m.ithome.com/html/875269.htm)
 
++ [小米 REDMI Note 15 Pro 系列手机官宣下周见，定位“新一代小金刚”](https://m.ithome.com/html/875494.htm)
+
++ [产品经理谈问界 M8 纯电版售价：我只能说定价逻辑变了，绝对有诚意](https://m.ithome.com/html/875577.htm)
+
++ [可指定用户更新版本，8 月 30 日起鸿蒙 NEXT 应用分阶段发布策略将升级](https://m.ithome.com/html/875534.htm)
+
