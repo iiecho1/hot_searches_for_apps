@@ -49,3 +49,7 @@
 
 + [可指定用户更新版本，8 月 30 日起鸿蒙 NEXT 应用分阶段发布策略将升级](https://m.ithome.com/html/875534.htm)
 
++ [9.7 分神作《毛骗》主创团队打造：国产真人互动影游《极速营救》发售，首发 33.3 元](https://m.ithome.com/html/875422.htm)
+
++ [微信新增聊天引用部分文字功能](https://m.ithome.com/html/875296.htm)
+
