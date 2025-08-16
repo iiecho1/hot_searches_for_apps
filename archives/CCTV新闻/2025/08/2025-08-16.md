@@ -185,3 +185,5 @@
 
 + [专访｜中国生态文明建设带来范式转变——访美国经济趋势基金会主席杰里米·里夫金](https://news.cctv.com/2025/08/16/ARTIxZDtjGxt4ouZkp5jE8ES250816.shtml)
 
++ [冯德莱恩就美俄总统会晤发声：强有力的安全保障对乌欧至关重要](https://news.cctv.com/2025/08/16/ARTIZt5Hzk8OYSIp1ZsOMC41250816.shtml)
+
