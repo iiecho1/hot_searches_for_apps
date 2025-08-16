@@ -25,3 +25,19 @@
 
 + [华为余承东：鸿蒙 5.0 已度过生死线，其实我“遥遥领先”这种话讲得非常少](https://m.ithome.com/html/875896.htm)
 
++ [华为 Pura80 系列手机推送 217 版本更新，时隔多年再次显示麒麟处理器型号](https://m.ithome.com/html/875728.htm)
+
++ [路虎揽胜极光 L 限时官降 20.6 万，现售 23.98 万-26.98 万元](https://m.ithome.com/html/875606.htm)
+
++ [iPhone 17 Pro 铝制机身曝光：消息称苹果时隔近 10 年重启金属背板](https://m.ithome.com/html/875665.htm)
+
++ [苹果 iPhone 17 Pro 被曝仍会在部分地区保留实体 SIM 卡槽，为 eSIM 推广受阻留后路](https://m.ithome.com/html/875751.htm)
+
++ [新一代智己 LS6 开启预售：纯电版 20.99/27.99 万元，增程版 21.49/23.99 万元](https://m.ithome.com/html/875742.htm)
+
++ [影石就向员工“撒钱”致歉，会以更好的方式激励团队](https://m.ithome.com/html/875721.htm)
+
++ [虚假摆拍、挑动情绪、造谣牟利，网红外卖骑手“苏星颜”被行政处罚](https://m.ithome.com/html/875674.htm)
+
++ [特斯拉 Model Y L 被曝已发运，新车预计 9 月上市](https://m.ithome.com/html/875703.htm)
+
