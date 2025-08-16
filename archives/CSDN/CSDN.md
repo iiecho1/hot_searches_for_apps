@@ -127,3 +127,5 @@
 
 + [4.4 vue3生命周期函数](https://blog.csdn.net/chxii/article/details/150422944)
 
++ [从0开始跟小甲鱼C语言视频使用linux一步步学习C语言（持续更新）8.14](https://blog.csdn.net/KFCgrandpahhh/article/details/150400405)
+
