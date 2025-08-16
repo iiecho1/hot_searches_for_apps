@@ -71,3 +71,7 @@
 
 + [特斯拉 Model Y L 被曝已发运，新车预计 9 月上市](https://m.ithome.com/html/875703.htm)
 
++ [微信 Windows 和 Mac 版 4.1.0 更新发布，可同时打开多张图片、引用部分文字](https://m.ithome.com/html/875440.htm)
+
++ [飞牛 PC 同步上线：国产 NAS 系统 fnOS 更新 v0.9.21，实现 Win、Mac 全覆盖](https://m.ithome.com/html/875427.htm)
+

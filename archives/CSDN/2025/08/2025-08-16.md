@@ -179,3 +179,9 @@
 
 + [【SpringBoot】三大统一功能处理：拦截器、数据返回、异常捕获详解](https://blog.csdn.net/2301_81073317/article/details/150440821)
 
++ [机器学习概述（一）](https://blog.csdn.net/2301_82191992/article/details/150389431)
+
++ [机器翻译：模型微调（Fine-tuning）与调优详解](https://blog.csdn.net/cui_yonghua/article/details/150429191)
+
++ [物联网应用层协议 MQTT、HTTP/HTTPS、DDS等这些区别？](https://blog.csdn.net/weixin_41646716/article/details/150381896)
+

@@ -27,3 +27,27 @@
 
 + [google/wire](https://github.com/google/wire)
 
++ [coleam00/Archon](https://github.com/coleam00/Archon)
+
++ [microsoft/poml](https://github.com/microsoft/poml)
+
++ [LMCache/LMCache](https://github.com/LMCache/LMCache)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+
++ [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
++ [tsoding/nob.h](https://github.com/tsoding/nob.h)
+
++ [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)
+
++ [emcie-co/parlant](https://github.com/emcie-co/parlant)
+
++ [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [dtyq/magic](https://github.com/dtyq/magic)
+
