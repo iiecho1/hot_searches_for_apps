@@ -201,3 +201,11 @@
 
 + [从前端框架到GIS开发系列课程（26）在mapbox中实现地球自转效果，并添加点击事件增强地图交互性](https://blog.csdn.net/yaogis888/article/details/150417055)
 
++ [Claude Sonnet 4：最新开放100 万 Token 上下文窗口，长上下文 AI 的生产力跃迁五倍效率](https://blog.csdn.net/qq_44866828/article/details/150379436)
+
++ [2025全国大学生智能汽车竞赛公告板](https://blog.csdn.net/zhuoqingjoking97298/article/details/150397175)
+
++ [Horse3D游戏引擎研发笔记（六）：在QtOpenGL环境下，仿Unity的材质管理Shader绘制四边形](https://blog.csdn.net/2503_92624912/article/details/150451239)
+
++ [【完整源码+数据集+部署教程】孔洞检测系统源码和数据集：改进yolo11-RetBlock](https://blog.csdn.net/2301_78772942/article/details/150424305)
+
