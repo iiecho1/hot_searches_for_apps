@@ -103,3 +103,23 @@
 
 + [腾讯位置商业授权微信小程序逆地址解析(坐标位置描述)](https://blog.csdn.net/qcloud0755_/article/details/150429918)
 
++ [Java 大视界 -- Java 大数据在智能家居能耗监测与节能优化中的应用探索（396）](https://blog.csdn.net/atgfg/article/details/150398269)
+
++ [一篇文章读懂.Net的依赖注入](https://blog.csdn.net/sixpp/article/details/150393475)
+
++ [【C#】PNG 和 JPG、JPEG的应用以及三种格式的区别？](https://blog.csdn.net/wangnaisheng/article/details/150005016)
+
++ [前端开发中基于WebGPU的实时流体模拟性能优化与实现策略](https://blog.csdn.net/qq_36287830/article/details/150410358)
+
++ [PyTorch生成式人工智能——使用MusicGen生成音乐](https://blog.csdn.net/LOVEmy134611/article/details/146261412)
+
++ [【深度学习计算性能】05：多GPU训练](https://blog.csdn.net/Morse_Chen/article/details/150401950)
+
++ [PyCharm 2025.2：面向工程师的 AI 工具](https://blog.csdn.net/powertoolsteam/article/details/150389953)
+
++ [【花雕动手做】Kitronik 可编程开发板制作的 ARCADE MakeCode 机器人吃电池游戏](https://blog.csdn.net/weixin_41659040/article/details/150383722)
+
++ [解决Maven编译时JAVA_HOME配置错误问题：从报错到根治的完整方案](https://blog.csdn.net/2301_81476211/article/details/150383807)
+
++ [嵌入式学习的第四十九天-时钟+EPIT+GPT定时器](https://blog.csdn.net/m0_73820654/article/details/150337234)
+
