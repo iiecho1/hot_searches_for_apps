@@ -189,3 +189,7 @@
 
 + [以色列要把加沙居民迁至南苏丹？巴勒斯坦总统敦促“别答应”](https://news.cctv.com/2025/08/16/ARTINGtJfBSPqDsvgM9rQhKd250816.shtml)
 
++ [专访丨中国持续为世界生态保护贡献智慧和力量 ——访巴西里约热内卢联邦农村大学教授鲁维亚·韦格纳](https://news.cctv.com/2025/08/16/ARTIj5bUJ8l0XTmiafz2B1E7250816.shtml)
+
++ [德国巴伐利亚州副州长：美国关税政策干扰全球产业链稳定、阻碍技术进步](https://news.cctv.com/2025/08/16/ARTIj9smOvA97O6O591f9xVt250816.shtml)
+
