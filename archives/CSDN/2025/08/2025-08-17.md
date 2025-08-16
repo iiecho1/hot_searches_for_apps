@@ -123,3 +123,7 @@
 
 + [嵌入式学习的第四十九天-时钟+EPIT+GPT定时器](https://blog.csdn.net/m0_73820654/article/details/150337234)
 
++ [KingbaseES高可用架构深度解析——从读写分离到异地灾备的全方位守护](https://blog.csdn.net/2302_78391795/article/details/150441513)
+
++ [4.4 vue3生命周期函数](https://blog.csdn.net/chxii/article/details/150422944)
+
