@@ -65,3 +65,7 @@
 
 + [闲聊一个话题， v1.0.0，各位公司对版本号有没什么好的管理方式，还是每次新版就增加上去？](https://www.v2ex.com/t/1152788)
 
++ [宝塔又被抄袭了？ GMSSH？](https://www.v2ex.com/t/1152822)
+
++ [有没有 MacBook Air 品质的 Linux 笔记本？](https://www.v2ex.com/t/1152760)
+
