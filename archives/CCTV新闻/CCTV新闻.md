@@ -167,3 +167,11 @@
 
 + [柬泰军方：将保持沟通并避免冲突](https://news.cctv.com/2025/08/17/ARTIwioacpwRndvKXT3v7UDr250817.shtml)
 
++ [土乌外长通电话 强调推动包容性和平进程](https://news.cctv.com/2025/08/17/ARTIp0whd1JlKUp8p5EwnnXp250817.shtml)
+
++ [苏丹西部一难民营遭炮击 造成31人死亡](https://news.cctv.com/2025/08/17/ARTIpypA2yGhyqpOMN1t61wZ250817.shtml)
+
++ [以总理办公室：一次性释放所有被扣押人员是停火前提](https://news.cctv.com/2025/08/17/ARTIbqNPVcxxhiImHOxSqHqa250817.shtml)
+
++ [应对飓风“埃林”来袭 波多黎各关闭港口取消航班](https://news.cctv.com/2025/08/17/ARTIF83IybyQ0Wxw8HqrflTD250817.shtml)
+
