@@ -149,3 +149,13 @@
 
 + [基于CodeBuddy的2D游戏开发实践：炫酷大便超人核心机制解析](https://blog.csdn.net/2401_82648291/article/details/150355753)
 
++ [Nginx蜘蛛请求智能分流：精准识别爬虫并转发SEO渲染服务](https://blog.csdn.net/lilinhai548/article/details/150432019)
+
++ [VLMs开发——基于Qwen2.5-VL 实现视觉语言模型在目标检测中的层级结构与实现方法](https://blog.csdn.net/matt45m/article/details/150392157)
+
++ [Linux的进程信号](https://blog.csdn.net/2302_80310672/article/details/150225626)
+
++ [企业级Spring事务管理：从单体应用到微服务分布式事务完整方案](https://blog.csdn.net/m0_74385041/article/details/150429866)
+
++ [库的制作与原理](https://blog.csdn.net/zoelinkailuo/article/details/150438722)
+
