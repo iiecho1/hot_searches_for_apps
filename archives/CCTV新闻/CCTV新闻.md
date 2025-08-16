@@ -173,3 +173,5 @@
 
 + [阿尔及利亚北部发生交通事故 造成18人死亡](https://news.cctv.com/2025/08/16/ARTIMmAiSaEBl8E188UIzRvC250816.shtml)
 
++ [特朗普评价美俄总统阿拉斯加会晤：打10分](https://news.cctv.com/2025/08/16/ARTIngHmHutXA8eMqAGcg2e1250816.shtml)
+
