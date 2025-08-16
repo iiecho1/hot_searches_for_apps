@@ -165,3 +165,5 @@
 
 + [泽连斯基：俄必须立即停止战事 乌领土问题应有乌参与讨论](https://news.cctv.com/2025/08/17/ARTICgSdxFoLevMr6oi1hlGD250816.shtml)
 
++ [柬泰军方：将保持沟通并避免冲突](https://news.cctv.com/2025/08/17/ARTIwioacpwRndvKXT3v7UDr250817.shtml)
+

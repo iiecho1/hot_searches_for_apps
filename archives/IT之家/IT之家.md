@@ -41,3 +41,5 @@
 
 + [特斯拉 Model Y L 被曝已发运，新车预计 9 月上市](https://m.ithome.com/html/875703.htm)
 
++ [新一代智己 LS6 汽车 30 分钟小订突破 10000 台，20.99 万元起](https://m.ithome.com/html/875758.htm)
+
