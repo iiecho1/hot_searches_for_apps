@@ -49,3 +49,9 @@
 
 + [AI 写代码太爽了，但也太烧钱了。最近一个月花了好几千用 AI，有啥省钱方案吗？](https://www.v2ex.com/t/1152721)
 
++ [酒店泳池边半小时代码，小红书 22 万围观 - 我的又一个 Vibe Coding 记录](https://www.v2ex.com/t/1152677)
+
++ [Apple 是真有很多拥趸](https://www.v2ex.com/t/1152797)
+
++ [关于三金和五金的敏感话题](https://www.v2ex.com/t/1152701)
+
