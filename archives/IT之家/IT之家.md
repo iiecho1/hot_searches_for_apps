@@ -53,3 +53,21 @@
 
 + [微信新增聊天引用部分文字功能](https://m.ithome.com/html/875296.htm)
 
++ [美团已致歉：外卖员送错餐强行要求孩子开门签收，被拒后摔餐砸门离开](https://m.ithome.com/html/875766.htm)
+
++ [苹果最强旗舰 iPhone 17 Pro Max 曝料：4800 万长焦、电池首破 5000mAh](https://m.ithome.com/html/875767.htm)
+
++ [苹果 iPhone 17 Pro 被曝仍会在部分地区保留实体 SIM 卡槽，为 eSIM 推广受阻留后路](https://m.ithome.com/html/875751.htm)
+
++ [今天是小米手机诞生 14 周年，雷军宣布送出 2000 份玄戒 O1 旗舰处理器纪念版](https://m.ithome.com/html/875791.htm)
+
++ [新一代智己 LS6 开启预售：纯电版 20.99/27.99 万元，增程版 21.49/23.99 万元](https://m.ithome.com/html/875742.htm)
+
++ [小米手机 14 周年：许斐称自己最喜欢小米 MIX，觉得小米 9 最遗憾](https://m.ithome.com/html/875803.htm)
+
++ [影石就向员工“撒钱”致歉，会以更好的方式激励团队](https://m.ithome.com/html/875721.htm)
+
++ [虚假摆拍、挑动情绪、造谣牟利，网红外卖骑手“苏星颜”被行政处罚](https://m.ithome.com/html/875674.htm)
+
++ [特斯拉 Model Y L 被曝已发运，新车预计 9 月上市](https://m.ithome.com/html/875703.htm)
+
