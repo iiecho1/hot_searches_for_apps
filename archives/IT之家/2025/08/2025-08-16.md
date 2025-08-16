@@ -75,3 +75,5 @@
 
 + [飞牛 PC 同步上线：国产 NAS 系统 fnOS 更新 v0.9.21，实现 Win、Mac 全覆盖](https://m.ithome.com/html/875427.htm)
 
++ [新一代智己 LS6 汽车 30 分钟小订突破 10000 台，20.99 万元起](https://m.ithome.com/html/875758.htm)
+
