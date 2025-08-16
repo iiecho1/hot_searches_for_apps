@@ -55,3 +55,7 @@
 
 + [关于三金和五金的敏感话题](https://www.v2ex.com/t/1152701)
 
++ [回馈 V 友们找我代充过 ChatGPT Plus，随机空投 8 份 100 个$v2ex 代币](https://www.v2ex.com/t/1152838)
+
++ [似乎绷不住了](https://www.v2ex.com/t/1152699)
+

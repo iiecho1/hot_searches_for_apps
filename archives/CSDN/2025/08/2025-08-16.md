@@ -161,3 +161,5 @@
 
 + [Docker login/logout 命令：安全认证与镜像仓库管理](https://blog.csdn.net/qq_41840843/article/details/149044252)
 
++ [数据挖掘实战-基于GBDT梯度提升决策树算法的肥胖预测模型](https://blog.csdn.net/m0_64336780/article/details/146291677)
+
