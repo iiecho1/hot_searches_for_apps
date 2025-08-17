@@ -213,3 +213,7 @@
 
 + [因安全局势严峻 俄别尔哥罗德市大型商超今日暂停营业](https://news.cctv.com/2025/08/17/ARTIky4zTktff6gqrNgoTsYQ250817.shtml)
 
++ [冯德莱恩：18日将赴美参与美乌欧领导人会晤](https://news.cctv.com/2025/08/17/ARTII7gvuxJ6bBskyfEcrq6X250817.shtml)
+
++ [“以更密切的老中合作造福两国人民”——访老挝副总理吉乔](https://news.cctv.com/2025/08/17/ARTIxeHSUKc7UdZXDu0Gzmpv250817.shtml)
+

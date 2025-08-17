@@ -167,3 +167,5 @@
 
 + [猫头虎AI分享｜一款Coze、Dify类开源AI应用超级智能体Agent快速构建工具：FastbuildAI](https://blog.csdn.net/qq_44866828/article/details/150464838)
 
++ [KingbaseES：一体化架构与多层防护，支撑业务的持续稳定运行与扩展](https://blog.csdn.net/lrq13965748542/article/details/150465862)
+

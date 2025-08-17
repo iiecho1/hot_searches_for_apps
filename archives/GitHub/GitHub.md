@@ -25,3 +25,15 @@
 
 + [dtyq/magic](https://github.com/dtyq/magic)
 
++ [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+
++ [colmap/colmap](https://github.com/colmap/colmap)
+
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
++ [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
++ [MotiaDev/motia](https://github.com/MotiaDev/motia)
+
