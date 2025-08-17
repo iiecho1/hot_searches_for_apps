@@ -157,3 +157,9 @@
 
 + [从0到1掌握 Spring Security（第三篇）：三种认证方式，按配置一键切换](https://blog.csdn.net/Mrxiao_bo/article/details/150447592)
 
++ [Redis 远程管理：借助 cpolar 内网穿透服务实现 Docker 化缓存访问](https://blog.csdn.net/2301_77485708/article/details/150393249)
+
++ [公考学习|基于SprinBoot+vue的公考学习平台(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/150443764)
+
++ [【完整源码+数据集+部署教程】胃部病变检测系统源码和数据集：改进yolo11-LSKNet](https://blog.csdn.net/weixin_43860634/article/details/150459075)
+

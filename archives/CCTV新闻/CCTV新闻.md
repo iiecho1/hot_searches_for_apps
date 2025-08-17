@@ -193,3 +193,13 @@
 
 + [争吵半年后泽连斯基再赴白宫，这次怎么见？](https://news.cctv.com/2025/08/17/ARTIO5HooAPyc8TIQLGyG9Ly250817.shtml)
 
++ [也门胡塞武装：以色列轰炸也门首都一发电站](https://news.cctv.com/2025/08/17/ARTIfRhKsaEBnODg7RJ8AVK2250817.shtml)
+
++ [美国三个州将向华盛顿特区派遣国民警卫队](https://news.cctv.com/2025/08/17/ARTIlwhaAq9LmxWFT4J93RaE250817.shtml)
+
++ [印度总理莫迪独立日演讲强调“新印度” 自力更生成为发展战略关键词](https://news.cctv.com/2025/08/17/ARTIW7Umt0zEx5uPff7dsTLV250817.shtml)
+
++ [关税成本压力正加速向下游传导 美国中小企业可能出现倒闭潮](https://news.cctv.com/2025/08/17/ARTIyptMlTXjYBflcHoPv56G250817.shtml)
+
++ [没有协议的“普特会”释放出哪些信号？各方博弈能否迎来转折？](https://news.cctv.com/2025/08/17/ARTIKAOl7Vkr54GcLd7HSHwa250817.shtml)
+
