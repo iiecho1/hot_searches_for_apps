@@ -39,3 +39,7 @@
 
 + [分享一些资源网站](https://www.v2ex.com/t/1152949)
 
++ [solana 功能求解](https://www.v2ex.com/t/1152901)
+
++ [已经有域名想免费建个博客](https://www.v2ex.com/t/1152920)
+
