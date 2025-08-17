@@ -49,3 +49,11 @@
 
 + [AI 创业公司还得看米国和法国，东大只是打 AI 工的多](https://www.v2ex.com/t/1152951)
 
++ [腾讯大王卡又开始背刺福利二选一了吗](https://www.v2ex.com/t/1152928)
+
++ [程序员应该怎么跟别人吵架？](https://www.v2ex.com/t/1152915)
+
++ [求教大佬们 N1 的 openwrt 的 clash 有时刷不出部分小红书 app 的图片](https://www.v2ex.com/t/1152905)
+
++ [如何制作 Linux live cd](https://www.v2ex.com/t/1152913)
+
