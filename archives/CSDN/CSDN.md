@@ -121,3 +121,11 @@
 
 + [Unity_数据持久化_Json](https://blog.csdn.net/2503_90324697/article/details/150428122)
 
++ [容器化部署：用Docker封装机器翻译模型与服务详解](https://blog.csdn.net/cui_yonghua/article/details/150449897)
+
++ [GIMP：功能强大的跨平台图像处理软件](https://blog.csdn.net/2501_90839605/article/details/150441612)
+
++ [【控制】基于Koopman算子理论对软机器人的数据驱动控制附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/150414241)
+
++ [spleeter 人声分离笔记](https://blog.csdn.net/jacke121/article/details/150476686)
+

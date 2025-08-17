@@ -45,3 +45,15 @@
 
 + [全新小鹏 P7 鹏翼门实车首次线下亮相，拥有哑光银配色和专属配置](https://m.ithome.com/html/875847.htm)
 
++ [今天是小米手机诞生 14 周年，雷军宣布送出 2000 份玄戒 O1 旗舰处理器纪念版](https://m.ithome.com/html/875791.htm)
+
++ [苹果最强旗舰 iPhone 17 Pro Max 曝料：4800 万长焦、电池首破 5000mAh](https://m.ithome.com/html/875767.htm)
+
++ [小米手机 14 周年：许斐称自己最喜欢小米 MIX，觉得小米 9 最遗憾](https://m.ithome.com/html/875803.htm)
+
++ [G15 沈海高速出现“严禁使用辅助驾驶”路牌，交警称系基于安全考量](https://m.ithome.com/html/875796.htm)
+
++ [开业礼保温杯被炒到 300 元：苹果 Apple Store 深圳前海壹方城新店今日开业](https://m.ithome.com/html/875806.htm)
+
++ [安卓首家：OPPO ColorOS 流体云及小布建议现已支持铁路 12306，一眼知行程](https://m.ithome.com/html/875769.htm)
+
