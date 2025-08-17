@@ -129,3 +129,7 @@
 
 + [spleeter 人声分离笔记](https://blog.csdn.net/jacke121/article/details/150476686)
 
++ [大数据领域数据价值的挖掘与提升](https://blog.csdn.net/universsky2015/article/details/150415679)
+
++ [如何利用gemini-cli快速了解一个项目以及学习新的组件？](https://blog.csdn.net/fouryears_23417/article/details/150474924)
+
