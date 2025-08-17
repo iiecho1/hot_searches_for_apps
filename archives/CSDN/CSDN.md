@@ -187,3 +187,9 @@
 
 + [IT资讯 | VMware ESXi高危漏洞影响国内服务器](https://blog.csdn.net/yangbao888/article/details/150428514)
 
++ [机器学习总结（持续更新）](https://blog.csdn.net/2501_91113915/article/details/150431044)
+
++ [Windows 结合最新版 ComfyUI 部署图像大模型详细步骤（含Web和本地）](https://blog.csdn.net/2301_76341691/article/details/150425668)
+
++ [uniapp [安卓苹果App端] - 实现获取手机麦克风权限+允许使用麦克风和音频输入设备+录制音频+播放功能保存音频或上传到后端服务器，检测手机麦克风权限是否开启并引导用户同意授权（详细示例代码）](https://blog.csdn.net/weixin_44198965/article/details/150470255)
+
