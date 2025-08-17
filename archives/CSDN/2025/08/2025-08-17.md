@@ -163,3 +163,7 @@
 
 + [【完整源码+数据集+部署教程】胃部病变检测系统源码和数据集：改进yolo11-LSKNet](https://blog.csdn.net/weixin_43860634/article/details/150459075)
 
++ [▲pi/4-QPSK调制解调+LDPC编译码+FFT频偏估计同步通信系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/150453952)
+
++ [猫头虎AI分享｜一款Coze、Dify类开源AI应用超级智能体Agent快速构建工具：FastbuildAI](https://blog.csdn.net/qq_44866828/article/details/150464838)
+
