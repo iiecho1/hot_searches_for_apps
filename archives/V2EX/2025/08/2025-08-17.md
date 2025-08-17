@@ -29,3 +29,11 @@
 
 + [26 到现在更新了什么](https://www.v2ex.com/t/1152827)
 
++ [韩立结婴成功！ bgm 响起那一刻真的有点震撼](https://www.v2ex.com/t/1152836)
+
++ [CoinGecko 正式收录了 $V2EX](https://www.v2ex.com/t/1152856)
+
++ [你会让你的孩子未来从事你的行业么？](https://www.v2ex.com/t/1152855)
+
++ [现在路由器端有没有支持按 wifi 名称分流的代理插件？比如可以设置一个 wifi 走代理，另一个不走？](https://www.v2ex.com/t/1152857)
+
