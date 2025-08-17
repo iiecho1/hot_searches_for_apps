@@ -185,3 +185,9 @@
 
 + [加勒比海飓风“艾琳”增强为最强等级 威胁多地](https://news.cctv.com/2025/08/17/ARTIXO1XGvPQ15hrsJALlcQS250817.shtml)
 
++ [国际观察丨昂贵的跨大西洋贸易](https://news.cctv.com/2025/08/17/ARTIMBgRA2Txu3sPbf7FBkzj250817.shtml)
+
++ [卢旺达资深媒体人：中国发展成就为非洲国家提供宝贵经验](https://news.cctv.com/2025/08/17/ARTIecqAlHECN8Xh6ZcPMk1L250817.shtml)
+
++ [韩国首尔公寓发生火灾，致2人死亡](https://news.cctv.com/2025/08/17/ARTIkd5pLvPqNeOv5zkHhJll250817.shtml)
+
