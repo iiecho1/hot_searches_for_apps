@@ -217,3 +217,5 @@
 
 + [“以更密切的老中合作造福两国人民”——访老挝副总理吉乔](https://news.cctv.com/2025/08/17/ARTIxeHSUKc7UdZXDu0Gzmpv250817.shtml)
 
++ [德、法、英、意、芬及北约和欧盟领导人将赴华盛顿参加美乌峰会](https://news.cctv.com/2025/08/17/ARTIckKSa1A04x6qJfullr5p250817.shtml)
+

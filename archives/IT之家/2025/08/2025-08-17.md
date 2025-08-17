@@ -47,3 +47,15 @@
 
 + [华为余承东：鸿蒙应用预计到 9 月底就能跟苹果 iOS 安卓功能完备度拉齐](https://m.ithome.com/html/875897.htm)
 
++ [央视曝光机场拦截充电宝回流市场，在二手平台上大肆售卖](https://m.ithome.com/html/875903.htm)
+
++ [华为余承东：未来全中国甚至全世界的终端都能跑鸿蒙，实现三分天下必有其一](https://m.ithome.com/html/875900.htm)
+
++ [乘客吐槽高铁邻座 400 斤男子致拥挤，国铁 12306 回应“旅客可联系工作人员协商换座”](https://m.ithome.com/html/875938.htm)
+
++ [无伪装谍照曝光：特斯拉 Model Y L 门店展车已发运](https://m.ithome.com/html/875856.htm)
+
++ [SU7 出国自驾充电需 2 天 2 夜？小米汽车副总裁李肖爽发文驳斥](https://m.ithome.com/html/875911.htm)
+
++ [全新小鹏 P7 鹏翼门实车首次线下亮相，拥有哑光银配色和专属配置](https://m.ithome.com/html/875847.htm)
+

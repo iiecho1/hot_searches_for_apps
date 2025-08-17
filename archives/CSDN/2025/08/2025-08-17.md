@@ -169,3 +169,13 @@
 
 + [KingbaseES：一体化架构与多层防护，支撑业务的持续稳定运行与扩展](https://blog.csdn.net/lrq13965748542/article/details/150465862)
 
++ [【AI智能体】Dify 搭建发票识别助手操作实战详解](https://blog.csdn.net/zhangcongyi420/article/details/150356677)
+
++ [GIMP：功能强大的跨平台图像处理软件](https://blog.csdn.net/2501_90839605/article/details/150441612)
+
++ [SpringBoot项目集成讯飞星火大模型实现微信小程序对话功能](https://blog.csdn.net/weixin_43304253/article/details/150467432)
+
++ [内容聚合远程访问：使用 cpolar 内网穿透服务构建 RssHub 私有系统](https://blog.csdn.net/weixin_58070962/article/details/150411542)
+
++ [fpga高速接口汇总整理](https://blog.csdn.net/qq_15267341/article/details/150427968)
+
