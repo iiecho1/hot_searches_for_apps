@@ -27,3 +27,5 @@
 
 + [AWS Kiro 付费订阅已经上线](https://www.v2ex.com/t/1152789)
 
++ [26 到现在更新了什么](https://www.v2ex.com/t/1152827)
+

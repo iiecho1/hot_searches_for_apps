@@ -129,3 +129,11 @@
 
 + [从0开始跟小甲鱼C语言视频使用linux一步步学习C语言（持续更新）8.14](https://blog.csdn.net/KFCgrandpahhh/article/details/150400405)
 
++ [Manus AI与多语言手写识别的技术突破与行业变革](https://blog.csdn.net/2301_80491316/article/details/150451658)
+
++ [Docker Compose Restart 命令：服务重启的完整指南](https://blog.csdn.net/qq_41840843/article/details/149115575)
+
++ [【设计模式大揭秘】Netty高并发的九大内功心法](https://blog.csdn.net/qq_44378083/article/details/149139646)
+
++ [大数据领域数据价值的挖掘与提升](https://blog.csdn.net/universsky2015/article/details/150415679)
+
