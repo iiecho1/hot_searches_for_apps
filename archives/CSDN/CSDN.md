@@ -133,3 +133,7 @@
 
 + [如何利用gemini-cli快速了解一个项目以及学习新的组件？](https://blog.csdn.net/fouryears_23417/article/details/150474924)
 
++ [Manus AI 与多语言手写识别：如何突破全球语言的笔迹壁垒？](https://blog.csdn.net/2501_92531713/article/details/149158519)
+
++ [Flutter 以模块化方案 适配 HarmonyOS 的实现方法](https://blog.csdn.net/qq_32136827/article/details/150416740)
+
