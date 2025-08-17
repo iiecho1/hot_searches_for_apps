@@ -25,3 +25,23 @@
 
 + [一特斯拉 Model 3 行驶 41 万公里后，电池健康度仍达 90% 左右](https://m.ithome.com/html/875937.htm)
 
++ [余承东：华为几亿存量用户将陆续开放升级鸿蒙 5.0，微信共享位置很快上线](https://m.ithome.com/html/875901.htm)
+
++ [上月小米空调线上销量首度超越格力排行全国第二：卢伟冰回应“将持续努力”、王化感叹“新时代来了”](https://m.ithome.com/html/875867.htm)
+
++ [华为余承东：鸿蒙 5.0 已度过生死线，其实我“遥遥领先”这种话讲得非常少](https://m.ithome.com/html/875896.htm)
+
++ [央视曝光机场拦截充电宝回流市场，在二手平台上大肆售卖](https://m.ithome.com/html/875903.htm)
+
++ [华为余承东：鸿蒙应用预计到 9 月底就能跟苹果 iOS 安卓功能完备度拉齐](https://m.ithome.com/html/875897.htm)
+
++ [央企专业化整合：康佳集团宣布彻底更换领导层，正式改姓“华润”](https://m.ithome.com/html/875883.htm)
+
++ [国产电影新片头亮相：中央广播电视总台电影台标发布，背景音乐含《歌唱祖国》和传统编钟等元素](https://m.ithome.com/html/875880.htm)
+
++ [华为余承东：未来全中国甚至全世界的终端都能跑鸿蒙，实现三分天下必有其一](https://m.ithome.com/html/875900.htm)
+
++ [无伪装谍照曝光：特斯拉 Model Y L 门店展车已发运](https://m.ithome.com/html/875856.htm)
+
++ [全新小鹏 P7 鹏翼门实车首次线下亮相，拥有哑光银配色和专属配置](https://m.ithome.com/html/875847.htm)
+

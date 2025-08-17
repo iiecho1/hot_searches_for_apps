@@ -101,3 +101,7 @@
 
 + [内容聚合远程访问：使用 cpolar 内网穿透服务构建 RssHub 私有系统](https://blog.csdn.net/weixin_58070962/article/details/150411542)
 
++ [fpga高速接口汇总整理](https://blog.csdn.net/qq_15267341/article/details/150427968)
+
++ [Horse3D游戏引擎研发笔记（六）：在QtOpenGL环境下，仿Unity的材质管理Shader绘制四边形](https://blog.csdn.net/2503_92624912/article/details/150451239)
+
