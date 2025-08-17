@@ -163,3 +163,5 @@
 
 + [以军总参谋长：将很快在加沙城启动下一阶段行动](https://news.cctv.com/2025/08/18/ARTIaAGL7ewi2kLf8S4MSrlZ250818.shtml)
 
++ [俄军空袭乌军部署点 乌方袭击俄物流枢纽](https://news.cctv.com/2025/08/18/ARTIZaK8fAvi4tBXBmlwIDRF250818.shtml)
+

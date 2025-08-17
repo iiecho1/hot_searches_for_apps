@@ -57,3 +57,7 @@
 
 + [安卓首家：OPPO ColorOS 流体云及小布建议现已支持铁路 12306，一眼知行程](https://m.ithome.com/html/875769.htm)
 
++ [曝苹果 iPhone 18 数字基础款推迟发布，下半年仅 Air、Pro / Max 及折叠屏四款高端旗舰](https://m.ithome.com/html/876021.htm)
+
++ [吉利全新一代博越 SUV 上市：Flyme Auto 座舱，限时 7.89 万元起](https://m.ithome.com/html/876026.htm)
+
