@@ -89,3 +89,11 @@
 
 + [网络上常见的热门短视频集锦   第两千六百四十二期](https://m.acfun.cn/v/?ac=47723092)
 
++ [【余若】瞳（Cover KIAH）](https://m.acfun.cn/v/?ac=47723033)
+
++ [5号USB充电锂离子电池能否让你实现电池自由？](https://m.acfun.cn/v/?ac=47723919)
+
++ [锐评《2025歌王之战》独唱篇：我的断层第一是她](https://m.acfun.cn/v/?ac=47722885)
+
++ [【绝望女神/翻唱】【K-ON ED Don t say lazy】](https://m.acfun.cn/v/?ac=47722571)
+

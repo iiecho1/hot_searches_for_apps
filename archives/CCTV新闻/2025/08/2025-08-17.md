@@ -211,3 +211,5 @@
 
 + [以军将审查占领加沙城计划 数周内或在加沙城开展军事演习](https://news.cctv.com/2025/08/17/ARTIkdSlNPUtYYWnw4c02tU9250817.shtml)
 
++ [因安全局势严峻 俄别尔哥罗德市大型商超今日暂停营业](https://news.cctv.com/2025/08/17/ARTIky4zTktff6gqrNgoTsYQ250817.shtml)
+
