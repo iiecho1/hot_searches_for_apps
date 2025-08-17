@@ -219,3 +219,11 @@
 
 + [德、法、英、意、芬及北约和欧盟领导人将赴华盛顿参加美乌峰会](https://news.cctv.com/2025/08/17/ARTIckKSa1A04x6qJfullr5p250817.shtml)
 
++ [伊朗伊斯兰革命卫队称摧毁两个恐怖分子团伙](https://news.cctv.com/2025/08/17/ARTI7u1XUFVaEhm2ZZVBPrI5250817.shtml)
+
++ [首都“争夺战” 共和党主政多州将向华盛顿派国民警卫队](https://news.cctv.com/2025/08/17/ARTIbAizquWY2Xl8Dyz4r1Ov250817.shtml)
+
++ [以军称将启动“基甸战车”行动下一阶段 加大加沙城军事行动力度](https://news.cctv.com/2025/08/17/ARTIU9Syl5PG3TR1b4NkJ1f7250817.shtml)
+
++ [巴基斯坦洪灾已致313人死亡](https://news.cctv.com/2025/08/17/ARTIaAZl3ORH7FscJCnmRCYj250817.shtml)
+
