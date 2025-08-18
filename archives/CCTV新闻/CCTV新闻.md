@@ -165,3 +165,5 @@
 
 + [日本两名陆上自卫队队员在训练中身亡](https://news.cctv.com/2025/08/19/ARTIMopVP2rj6jLG61rQSA2w250819.shtml)
 
++ [普京向多国领导人通报“普特会”结果](https://news.cctv.com/2025/08/19/ARTImH4URt0Jo9f8Nj8veFUA250819.shtml)
+

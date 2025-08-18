@@ -121,3 +121,5 @@
 
 + [嵌入式硬件篇---电源电路](https://blog.csdn.net/2301_79556402/article/details/150449116)
 
++ [深入解析 Spring Caffeine：揭秘 W-TinyLFU 缓存淘汰策略的高命中率秘密](https://blog.csdn.net/weixin_47762494/article/details/150445509)
+

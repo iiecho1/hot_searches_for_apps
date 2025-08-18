@@ -35,3 +35,23 @@
 
 + [5999 元机械革命星耀 14 冰晶蓝上市：AMD AI 9 H 365 处理器、2.8K 120Hz OLED 屏，国补 4799.2 元](https://m.ithome.com/html/876025.htm)
 
++ [乘客吐槽高铁邻座 400 斤男子致拥挤，国铁 12306 回应“旅客可联系工作人员协商换座”](https://m.ithome.com/html/875938.htm)
+
++ [当当网创始人李国庆大婚：新娘为北大校友张丹红，张朝阳、俞敏洪等名人到场祝福](https://m.ithome.com/html/875993.htm)
+
++ [6499 → 4914 元：华为 Pura 80 Pro 手机上市两月国补新低（限地区）](https://m.ithome.com/html/876004.htm)
+
++ [没有自主系统 = 被卡脖子：上海交通大学教授夏虞斌指出国际形势倒逼中国做出自己的操作系统](https://m.ithome.com/html/875947.htm)
+
++ [卢伟冰超前预热小米最新一代数字系列：产品定位和定义变化非常大，很快跟大家见面](https://m.ithome.com/html/875959.htm)
+
++ [SU7 出国自驾充电需 2 天 2 夜？小米汽车副总裁李肖爽发文驳斥](https://m.ithome.com/html/875911.htm)
+
++ [余承东谈鸿蒙折叠电脑：希望出货量更多之后成本降低，大家能以更优惠的价格买到](https://m.ithome.com/html/875923.htm)
+
++ [曝苹果 iPhone 18 数字基础款推迟发布，下半年仅 Air、Pro / Max 及折叠屏四款高端旗舰](https://m.ithome.com/html/876021.htm)
+
++ [小米 14 手机 16G+1T 版 4999 → 2549 元再降价，配骁龙 8 Gen3 处理器](https://m.ithome.com/html/875987.htm)
+
++ [罗永浩曝董宇辉独立后年收入二三十亿，与辉同行官方否认](https://m.ithome.com/html/876001.htm)
+
