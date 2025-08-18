@@ -101,3 +101,7 @@
 
 + [【网络安全】Webshell的绕过——绕过动态检测引擎WAF-缓存绕过（Hash碰撞）](https://blog.csdn.net/2301_79915754/article/details/150017609)
 
++ [跨平台笔记协作：cpolar 提升 Obsidian 知识库共享效率方案](https://blog.csdn.net/Ceylan__/article/details/150492698)
+
++ [【完整源码+数据集+部署教程】胃部病变检测系统源码和数据集：改进yolo11-LSKNet](https://blog.csdn.net/weixin_43860634/article/details/150459075)
+

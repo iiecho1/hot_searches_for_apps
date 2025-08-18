@@ -161,3 +161,5 @@
 
 + [德国巴伐利亚州副州长：美国关税政策干扰全球产业链稳定、阻碍技术进步](https://news.cctv.com/2025/08/16/ARTIj9smOvA97O6O591f9xVt250816.shtml)
 
++ [迫于以军攻势 数千名巴勒斯坦人离开加沙城东部](https://news.cctv.com/2025/08/19/ARTIO2HAsQNbmCMYmrCClrYI250819.shtml)
+
