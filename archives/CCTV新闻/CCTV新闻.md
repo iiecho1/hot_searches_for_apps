@@ -231,3 +231,7 @@
 
 + [南非媒体：美关税政策是将贸易当作胁迫工具](https://news.cctv.com/2025/08/18/ARTIEVdQbRWrZzMkPHAoyCMF250818.shtml)
 
++ [以色列取消澳大利亚驻巴勒斯坦代表签证](https://news.cctv.com/2025/08/18/ARTIjo73uKRuGKYt0RShrnHN250818.shtml)
+
++ [乌克兰扎波罗热遭俄导弹袭击3人死亡、20人受伤](https://news.cctv.com/2025/08/18/ARTIjZaUC5MxL3MNUKzj0bUU250818.shtml)
+

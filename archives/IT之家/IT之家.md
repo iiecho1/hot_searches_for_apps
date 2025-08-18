@@ -73,3 +73,21 @@
 
 + [多亲：私刷非官方系统后手机脱保，失去官方质保资格](https://m.ithome.com/html/876049.htm)
 
++ [最便宜 iPhone：苹果 iPhone 17e 手机被曝搭载 A19 平台，16 同款“灵动岛”+ 60Hz 屏](https://m.ithome.com/html/876150.htm)
+
++ [我国医生极限挑战救回“身首离断”患者，首创“卫星钢板”固定技术](https://m.ithome.com/html/876095.htm)
+
++ [理想汽车 CEO 李想请卡车师傅吃饭，称对撞乘龙有冒失但无意冒犯、现实中就不碰了](https://m.ithome.com/html/876200.htm)
+
++ [美团份额降至 45%，喜茶全量上线淘宝闪购](https://m.ithome.com/html/876209.htm)
+
++ [小米公布 REDMI Note 15 Pro + 首批官图：“迄今最好看”Note 小金刚](https://m.ithome.com/html/876083.htm)
+
++ [陈睿卸任B站两家关联公司法定代表人，由黄声声接任](https://m.ithome.com/html/876118.htm)
+
++ [网友提问格力能否接入小米米家 App，卢伟冰回应“技术上没问题”](https://m.ithome.com/html/876258.htm)
+
++ [京东折扣超市全国首店开业：面积 5000 平，超 5000 款商品、天天低价](https://m.ithome.com/html/876059.htm)
+
++ [小米 15 Ultra 手机澎湃 HyperOS 2.0.212.0 版本取景框不显示滤镜效果问题优化，升级后续版本可验证](https://m.ithome.com/html/876041.htm)
+

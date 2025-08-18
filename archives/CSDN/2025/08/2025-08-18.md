@@ -205,3 +205,11 @@
 
 + [AI 对话高效输入指令攻略（五）：AI+PicDoc文生图表工具：解锁高效图表创作新范式](https://blog.csdn.net/Pocker_Spades_A/article/details/150348949)
 
++ [母猪姿态转换行为识别：计算机视觉与行为识别模型调优指南](https://blog.csdn.net/max500600/article/details/150471634)
+
++ [uniapp [全端兼容] - 实现全景图Vr 720°全景效果查看预览功能，3D全景图流畅不卡顿渲染+手势拖拽+悬浮工具按钮，uniAPP实现vr看720度全景效果示例代码（H5小程序APP全兼容）](https://blog.csdn.net/weixin_44198965/article/details/150496111)
+
++ [学习游戏制作记录（玩家掉落系统，删除物品功能和独特物品）8.17](https://blog.csdn.net/2503_90719681/article/details/150474315)
+
++ [腾讯位置商业授权微信小程序逆地址解析(坐标位置描述)](https://blog.csdn.net/qcloud0755_/article/details/150429918)
+
