@@ -213,3 +213,11 @@
 
 + [西非国家贝宁发生大巴坠河致1死44失踪](https://news.cctv.com/2025/08/18/ARTItjX7gzV2Cyycepr7kDQQ250818.shtml)
 
++ [俄称阻止一起针对克里米亚大桥的炸弹袭击](https://news.cctv.com/2025/08/18/ARTIvjqUq211LyKEFIhOhQ8a250818.shtml)
+
++ [欧洲领导人“组团”访美 特朗普要先和泽连斯基“单聊”](https://news.cctv.com/2025/08/18/ARTIfc6jXMct3slZif94Wa3F250818.shtml)
+
++ [韩国特检组将于20日再次传唤调查金建希](https://news.cctv.com/2025/08/18/ARTIHOHbHGa84PLsFEGHsNoU250818.shtml)
+
++ [再创新低，韩国总统李在明支持率滑坡](https://news.cctv.com/2025/08/18/ARTIFcGjuPbsaiS8TgLkvP6B250818.shtml)
+

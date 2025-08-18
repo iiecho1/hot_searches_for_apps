@@ -193,3 +193,11 @@
 
 + [AI热点周报（8.10~8.16）：AI界“冰火两重天“，GPT-5陷入热议，DeepSeek R2模型训练受阻？](https://blog.csdn.net/qq_51646682/article/details/150447179)
 
++ [Java 大视界 -- Java 大数据分布式计算在基因测序数据分析与精准医疗中的应用（400）](https://blog.csdn.net/atgfg/article/details/150468407)
+
++ [时序数据库 Apache IoTDB：从边缘到云端Apache IoTDB 全链路数据管理能力、部署流程与安全特性解读](https://blog.csdn.net/weixin_62765017/article/details/150489500)
+
++ [【YOLOv11工业级实战】06. YOLOv11农业实战：病虫害叶片识别（微信小程序+云平台实时监测｜轻量化部署）](https://blog.csdn.net/weixin_39815573/article/details/150423360)
+
++ [大数据时代时序数据库选型指南：深度解析与 Apache IoTDB 实践](https://blog.csdn.net/weixin_37800531/article/details/150487760)
+
