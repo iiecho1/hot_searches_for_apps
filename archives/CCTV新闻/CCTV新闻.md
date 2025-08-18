@@ -243,3 +243,7 @@
 
 + [心相近丨“看到一个新的中国”——追寻乔治·何克的足迹](https://news.cctv.com/2025/08/18/ARTIW5C60820XvcvsgO6N9qt250818.shtml)
 
++ [德国一波音客机起飞后发动机喷火 无人员伤亡](https://news.cctv.com/2025/08/18/ARTIurlPXwhMEyvpbrMamtoN250818.shtml)
+
++ [韩国万余名民众就戒严事件集体起诉尹锡悦夫妇](https://news.cctv.com/2025/08/18/ARTIIqNfKRTVs3HbsJ0wqm1T250818.shtml)
+
