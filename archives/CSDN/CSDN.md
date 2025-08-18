@@ -203,3 +203,5 @@
 
 + [低代码也能很丝滑？我在 Oinone 上的前端二开实践](https://blog.csdn.net/aji_02141204/article/details/150481812)
 
++ [AI 对话高效输入指令攻略（五）：AI+PicDoc文生图表工具：解锁高效图表创作新范式](https://blog.csdn.net/Pocker_Spades_A/article/details/150348949)
+

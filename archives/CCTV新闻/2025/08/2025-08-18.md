@@ -223,3 +223,11 @@
 
 + [高温持续 西班牙多地山火肆虐 活跃火点超40处](https://news.cctv.com/2025/08/18/ARTIR1Cy7AIAvRBVS9EkpFXz250818.shtml)
 
++ [俄侦委会：乌无人机试图袭击俄核电站 乌方暂无回应](https://news.cctv.com/2025/08/18/ARTIwqfvH2OYgZ3lbVjxOGWo250818.shtml)
+
++ [韩国前总统尹锡悦妻子对追加调查行使拒绝陈述权](https://news.cctv.com/2025/08/18/ARTIQdwZtH4yLIUPHRRO57rD250818.shtml)
+
++ [美关税政策重创日本汽车产业](https://news.cctv.com/2025/08/18/ARTIgPrqIBC3VKr57bQv9V5F250818.shtml)
+
++ [南非媒体：美关税政策是将贸易当作胁迫工具](https://news.cctv.com/2025/08/18/ARTIEVdQbRWrZzMkPHAoyCMF250818.shtml)
+

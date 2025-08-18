@@ -27,3 +27,13 @@
 
 + [MotiaDev/motia](https://github.com/MotiaDev/motia)
 
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
+
++ [immich-app/immich](https://github.com/immich-app/immich)
+
++ [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
+
++ [mfts/papermark](https://github.com/mfts/papermark)
+
