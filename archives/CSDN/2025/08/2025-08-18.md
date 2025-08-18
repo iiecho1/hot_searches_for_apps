@@ -139,3 +139,13 @@
 
 + [IT资讯 | VMware ESXi高危漏洞影响国内服务器](https://blog.csdn.net/yangbao888/article/details/150428514)
 
++ [【花雕动手做】Scratch Arcade 创客版 ESP32S3 可编程游戏机开发板](https://blog.csdn.net/weixin_41659040/article/details/150430371)
+
++ [【Linux | 网络】高级IO](https://blog.csdn.net/qq_55401402/article/details/148819538)
+
++ [人工智能芯片开发——位宽自适应MAC技术详解](https://blog.csdn.net/ccsss22/article/details/150454904)
+
++ [Flutter InheritedWidget 详解：从生命周期到数据流动的完整解析](https://blog.csdn.net/fouryears_23417/article/details/150451221)
+
++ [学习嵌入式之硬件——I2C](https://blog.csdn.net/sx243694/article/details/150413738)
+
