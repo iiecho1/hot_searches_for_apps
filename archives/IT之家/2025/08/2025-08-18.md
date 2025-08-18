@@ -61,3 +61,15 @@
 
 + [吉利全新一代博越 SUV 上市：Flyme Auto 座舱，限时 7.89 万元起](https://m.ithome.com/html/876026.htm)
 
++ [曝明年苹果 iPhone 18 数字基础款将推迟发布，下半年仅 Air、Pro / Max 及折叠屏四款高端旗舰](https://m.ithome.com/html/876021.htm)
+
++ [消息称鸿蒙智行尚界 H5 汽车官方价格指引 18~23 万元，实际可能更低](https://m.ithome.com/html/875994.htm)
+
++ [消息称多家迭代新系统优化“灵动岛”交互，接入多个大模型](https://m.ithome.com/html/876039.htm)
+
++ [徕芬 CEO 叶洪新怼前员工潘坚“收钱办事没良心”，后者回应“有人用部分事实带节奏”](https://m.ithome.com/html/875996.htm)
+
++ [饿了么 &#215; 淘宝闪购宣布骑手升级为“城市骑士”：推出全新制服、提供更多保障方案](https://m.ithome.com/html/875973.htm)
+
++ [多亲：私刷非官方系统后手机脱保，失去官方质保资格](https://m.ithome.com/html/876049.htm)
+

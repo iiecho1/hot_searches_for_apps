@@ -203,3 +203,7 @@
 
 + [厄瓜多尔西北部枪击事件致7人死亡](https://news.cctv.com/2025/08/18/ARTI15YtDIueB2OahPR7N6mB250818.shtml)
 
++ [缅甸将于12月28日开始举行大选](https://news.cctv.com/2025/08/18/ARTIpf60nT4tGSdQDW6qI8Tr250818.shtml)
+
++ [俄罗斯梁赞州一工厂爆炸起火 已致20死134伤](https://news.cctv.com/2025/08/18/ARTIBtwZRvtH33YfSqWK6Ep6250818.shtml)
+

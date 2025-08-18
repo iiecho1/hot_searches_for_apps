@@ -173,3 +173,11 @@
 
 + [赋能 Gulp 构建流：使用腾讯云 EdgeOne 为 Pug 博客注入全球 CDN 与安全防护能力](https://blog.csdn.net/2301_80863610/article/details/150425370)
 
++ [分享一个大数据的源码实现 基于Hadoop的二手车市场数据分析与可视化 基于Spark的懂车帝二手车交易数据可视化分析系统](https://blog.csdn.net/m0_72599287/article/details/150448130)
+
++ [私有化部署全攻略：开源模型本地化改造的性能与安全评测](https://blog.csdn.net/IRpickstars/article/details/150455312)
+
++ [《双解码器VAE：Qwen-Image如何用单编码器兼容图像/视频生成？》](https://blog.csdn.net/Liudef06/article/details/150487471)
+
++ [基于Python3.10.6与jieba库的中文分词模型接口在Windows Server 2022上的实现与部署教程](https://blog.csdn.net/lzm12278828/article/details/150445769)
+
