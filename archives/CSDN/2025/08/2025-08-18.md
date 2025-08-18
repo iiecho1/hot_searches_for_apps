@@ -153,3 +153,7 @@
 
 + [【P14 3-6 】OpenCV Python——视频加载、摄像头调用、视频基本信息获取（宽、高、帧率、总帧数），视频保存在指定位置](https://blog.csdn.net/m0_51233386/article/details/150453088)
 
++ [【MCP探索实践】Redis官方MCP Server：用自然语言驱动Redis的AI原生存储引擎](https://blog.csdn.net/xiaobing259/article/details/150424348)
+
++ [uniapp：微信小程序使用Canvas 和Canvas 2D绘制图形](https://blog.csdn.net/ChinaDragon10/article/details/150396781)
+

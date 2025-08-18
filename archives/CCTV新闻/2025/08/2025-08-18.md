@@ -189,3 +189,13 @@
 
 + [佩通坦呼吁恢复其总理职务 本人或亲自出庭作证](https://news.cctv.com/2025/08/18/ARTImxhZIFm8hsuUnPTPlvUo250818.shtml)
 
++ [“通往东京之路漫长而血腥……”——美国国家二战博物馆纪念二战结束80周年](https://news.cctv.com/2025/08/18/ARTI3d5DwkxAATrgDAqZpy4d250818.shtml)
+
++ [“中国为全球可持续发展作出了重要贡献”](https://news.cctv.com/2025/08/18/ARTIyUn1XQ1K15bM6PIqITlr250818.shtml)
+
++ [中国始终是促进非洲大陆发展的真诚朋友](https://news.cctv.com/2025/08/18/ARTIKwJxGCHONgt6nlTgh9c6250818.shtml)
+
++ [塞尔维亚总统：将采取措施恢复国家和平与秩序](https://news.cctv.com/2025/08/18/ARTIcDm8QjEJrGeQq7jFnPqT250818.shtml)
+
++ [印尼勒沃托比火山喷发 灰柱高达8000米](https://news.cctv.com/2025/08/18/ARTIwgRuRs6SLrAl9nwe1V5y250818.shtml)
+
