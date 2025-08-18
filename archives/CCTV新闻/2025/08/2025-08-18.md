@@ -167,3 +167,25 @@
 
 + [上调中国全年经济增长预期——国际机构对中国经济投下“信任票”](https://jingji.cctv.com/2025/08/18/ARTIEvekODCzOl9ZqAInJOoe250818.shtml)
 
++ [泽连斯基抵达华盛顿 将与特朗普会晤](https://news.cctv.com/2025/08/18/ARTI7TthDYr822DVoiEpF1Ya250818.shtml)
+
++ [土耳其达达尼尔海峡一侧再起山火 5座村庄居民被疏散](https://news.cctv.com/2025/08/18/ARTIERAqXlw2OrgA8PCtlUxY250818.shtml)
+
++ [韩国总统：准备分阶段履行现有韩朝协议可行部分](https://news.cctv.com/2025/08/18/ARTICv94NSIhbZ7kUE1p7vAp250818.shtml)
+
++ [特朗普喊话泽连斯基：放弃克里米亚和加入北约可“立即结束冲突”](https://news.cctv.com/2025/08/18/ARTItf3HqYWdwUZgO41rIOEG250818.shtml)
+
++ [韩国法院再次缺席审判前总统尹锡悦](https://news.cctv.com/2025/08/18/ARTI6gG5IEqy8sXzrADYs0LN250818.shtml)
+
++ [金建希再次接受韩国特检组传唤调查](https://news.cctv.com/2025/08/18/ARTIDbIg7UttCRJY2ON0HYfl250818.shtml)
+
++ [中国驻日本大使馆再次提醒来日游客及在日同胞注意安全](https://news.cctv.com/2025/08/18/ARTI2WX6vbziVH2BAUYdbcpG250818.shtml)
+
++ [以军称将启动加沙城下一阶段行动 数十万民众抗议](https://news.cctv.com/2025/08/18/ARTIxjYNLyws2shsGSs18gKJ250818.shtml)
+
++ [玻利维亚将举行第二轮总统选举](https://news.cctv.com/2025/08/18/ARTIdVCjuVHdL7ciPw8QsSDk250818.shtml)
+
++ [埃及总理：反对任何驱逐巴勒斯坦人的企图](https://news.cctv.com/2025/08/18/ARTI8eKu26zXvMCC3XTl7UdL250818.shtml)
+
++ [佩通坦呼吁恢复其总理职务 本人或亲自出庭作证](https://news.cctv.com/2025/08/18/ARTImxhZIFm8hsuUnPTPlvUo250818.shtml)
+

@@ -149,3 +149,7 @@
 
 + [学习嵌入式之硬件——I2C](https://blog.csdn.net/sx243694/article/details/150413738)
 
++ [【开发语言】Groovy语言：Java生态中的动态力量](https://blog.csdn.net/qyj19920704/article/details/150406325)
+
++ [【P14 3-6 】OpenCV Python——视频加载、摄像头调用、视频基本信息获取（宽、高、帧率、总帧数），视频保存在指定位置](https://blog.csdn.net/m0_51233386/article/details/150453088)
+
