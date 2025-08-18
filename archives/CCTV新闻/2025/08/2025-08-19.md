@@ -163,3 +163,5 @@
 
 + [迫于以军攻势 数千名巴勒斯坦人离开加沙城东部](https://news.cctv.com/2025/08/19/ARTIO2HAsQNbmCMYmrCClrYI250819.shtml)
 
++ [日本两名陆上自卫队队员在训练中身亡](https://news.cctv.com/2025/08/19/ARTIMopVP2rj6jLG61rQSA2w250819.shtml)
+
