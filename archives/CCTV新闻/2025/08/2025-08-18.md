@@ -221,3 +221,5 @@
 
 + [再创新低，韩国总统李在明支持率滑坡](https://news.cctv.com/2025/08/18/ARTIFcGjuPbsaiS8TgLkvP6B250818.shtml)
 
++ [高温持续 西班牙多地山火肆虐 活跃火点超40处](https://news.cctv.com/2025/08/18/ARTIR1Cy7AIAvRBVS9EkpFXz250818.shtml)
+
