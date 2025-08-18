@@ -199,3 +199,7 @@
 
 + [印尼勒沃托比火山喷发 灰柱高达8000米](https://news.cctv.com/2025/08/18/ARTIwgRuRs6SLrAl9nwe1V5y250818.shtml)
 
++ [韩美“乙支自由护盾”联合军演正式启动](https://news.cctv.com/2025/08/18/ARTI1L3oAr0gOUJ53iyvJVkt250818.shtml)
+
++ [厄瓜多尔西北部枪击事件致7人死亡](https://news.cctv.com/2025/08/18/ARTI15YtDIueB2OahPR7N6mB250818.shtml)
+
