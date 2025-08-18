@@ -167,3 +167,7 @@
 
 + [普京向多国领导人通报“普特会”结果](https://news.cctv.com/2025/08/19/ARTImH4URt0Jo9f8Nj8veFUA250819.shtml)
 
++ [视频丨特朗普与欧洲领导人举行多边会晤](https://news.cctv.com/2025/08/19/ARTIxP2KdcyNuaBrZEvv9nAO250819.shtml)
+
++ [以媒：以方收到哈马斯最新停火提议](https://news.cctv.com/2025/08/19/ARTIt0Gpddp06ldbJp6tb7dp250819.shtml)
+
