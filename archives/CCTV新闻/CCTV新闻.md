@@ -235,3 +235,11 @@
 
 + [乌克兰扎波罗热遭俄导弹袭击3人死亡、20人受伤](https://news.cctv.com/2025/08/18/ARTIjZaUC5MxL3MNUKzj0bUU250818.shtml)
 
++ [波黑塞族共和国总理拉多万·维什科维奇宣布辞职](https://news.cctv.com/2025/08/18/ARTIdOOWFO5X7yQTK7mAIsO1250818.shtml)
+
++ [日本拟批准发行日元稳定币](https://news.cctv.com/2025/08/18/ARTIJ6KNLGFVEqVUQ0lC97un250818.shtml)
+
++ [泽连斯基指责俄军蓄意发动“示威”袭击](https://news.cctv.com/2025/08/18/ARTIekCNT9LwmWXpgUJtoeqg250818.shtml)
+
++ [心相近丨“看到一个新的中国”——追寻乔治·何克的足迹](https://news.cctv.com/2025/08/18/ARTIW5C60820XvcvsgO6N9qt250818.shtml)
+

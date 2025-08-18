@@ -91,3 +91,5 @@
 
 + [小米 15 Ultra 手机澎湃 HyperOS 2.0.212.0 版本取景框不显示滤镜效果问题优化，升级后续版本可验证](https://m.ithome.com/html/876041.htm)
 
++ [5999 元机械革命星耀 14 冰晶蓝上市：AMD AI 9 H 365 处理器、2.8K 120Hz OLED 屏，国补 4799.2 元](https://m.ithome.com/html/876025.htm)
+

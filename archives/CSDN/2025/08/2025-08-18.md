@@ -213,3 +213,13 @@
 
 + [腾讯位置商业授权微信小程序逆地址解析(坐标位置描述)](https://blog.csdn.net/qcloud0755_/article/details/150429918)
 
++ [计算机视觉（一）：nvidia与cuda介绍](https://blog.csdn.net/www_dong/article/details/150474131)
+
++ [容器化 Android 开发效率：cpolar 内网穿透服务优化远程协作流程](https://blog.csdn.net/qyj19920704/article/details/150493946)
+
++ [【MySQL学习|黑马笔记|Day7】触发器和锁（全局锁、表级锁、行级锁、）](https://blog.csdn.net/2401_87144364/article/details/150472671)
+
++ [Nextcloud 私有云部署：cpolar 内网穿透服务实现安全远程文件访问](https://blog.csdn.net/weixin_74888502/article/details/150491284)
+
++ [【YOLOv11工业级实战】10. YOLOv11医疗影像进阶：病理切片癌细胞识别（千兆像素处理｜云平台部署）](https://blog.csdn.net/weixin_39815573/article/details/150426809)
+
