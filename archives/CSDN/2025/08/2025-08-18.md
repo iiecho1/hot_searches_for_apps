@@ -181,3 +181,15 @@
 
 + [基于Python3.10.6与jieba库的中文分词模型接口在Windows Server 2022上的实现与部署教程](https://blog.csdn.net/lzm12278828/article/details/150445769)
 
++ [实战测试：多模态AI在文档解析、图表分析中的准确率对比](https://blog.csdn.net/IRpickstars/article/details/150483277)
+
++ [【前端】使用Vue3过程中遇到加载无效设置点击方法提示不存在的情况，原来是少加了一个属性](https://blog.csdn.net/lmy_520/article/details/149910519)
+
++ [从零开始：SpringBoot与KingbaseES的完美融合实践](https://blog.csdn.net/weixin_44976692/article/details/150472313)
+
++ [Python小工具实战：文件批量重命名工具（正则匹配模式）](https://blog.csdn.net/weixin_43151418/article/details/150451448)
+
++ [高并发网络编程实战：深入理解epoll客户端的事件驱动模型](https://blog.csdn.net/eidolon_foot/article/details/150426219)
+
++ [AI热点周报（8.10~8.16）：AI界“冰火两重天“，GPT-5陷入热议，DeepSeek R2模型训练受阻？](https://blog.csdn.net/qq_51646682/article/details/150447179)
+
