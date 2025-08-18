@@ -207,3 +207,7 @@
 
 + [俄罗斯梁赞州一工厂爆炸起火 已致20死134伤](https://news.cctv.com/2025/08/18/ARTIBtwZRvtH33YfSqWK6Ep6250818.shtml)
 
++ [俄罗斯一架安-24客机起飞时滑出跑道 无人员伤亡](https://news.cctv.com/2025/08/18/ARTIHzmlG7vRYY8nv9b170FO250818.shtml)
+
++ [尼日利亚一船只倾覆致40余人失踪](https://news.cctv.com/2025/08/18/ARTIQsTQeEncQsBwby961Zj8250818.shtml)
+
