@@ -55,3 +55,7 @@
 
 + [罗永浩曝董宇辉独立后年收入二三十亿，与辉同行官方否认](https://m.ithome.com/html/876001.htm)
 
++ [23.59 万元起上汽奥迪 AUDI 品牌首款车型 E5 Sportback 预售：全系 800V 架构](https://m.ithome.com/html/876293.htm)
+
++ [格力朱磊回应“空调线上销量被小米超越”：公开数据与截图不符，7 月仍然保持领先](https://m.ithome.com/html/876281.htm)
+
