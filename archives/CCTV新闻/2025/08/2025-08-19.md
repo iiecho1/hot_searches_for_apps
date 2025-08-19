@@ -183,3 +183,9 @@
 
 + [默茨称普京同意在未来两周内会晤泽连斯基](https://news.cctv.com/2025/08/19/ARTIZW8Q0ibWYGXQrMiTIWfW250819.shtml)
 
++ [泰国代理总理：将对柬埔寨首相和参议院主席提起诉讼](https://news.cctv.com/2025/08/19/ARTIPKf2yuY1NgSBgdX7QpZb250819.shtml)
+
++ [阿富汗发生5.1级地震，震源深度230千米](https://news.cctv.com/2025/08/19/ARTInmdLYmCMSddbh4AHCm5z250819.shtml)
+
++ [美乌欧领导人白宫会晤后 三个问题值得关注](https://news.cctv.com/2025/08/19/ARTI2LfueosoVd7sZmEaX4PJ250819.shtml)
+
