@@ -181,3 +181,11 @@
 
 + [网络原理与编程实战：从 TCP/IP 到 HTTP/HTTPS](https://blog.csdn.net/xiepinan/article/details/150469794)
 
++ [云电脑 vs 传统PC：ToDesk、青椒云等3A游戏与AI训练的成本与性能对比](https://blog.csdn.net/qq_57761637/article/details/150518119)
+
++ [【电路笔记 通信】AXI4-Lite协议 FPGA实现 & Valid-Ready Handshake 握手协议（VIVADO & ZYNQ）](https://blog.csdn.net/ResumeProject/article/details/150448059)
+
++ [扫地机器人（2025蓝桥杯省A组 H题）](https://blog.csdn.net/li_peixiansang/article/details/150453659)
+
++ [元宇宙娱乐：重构数字时代的沉浸式体验](https://blog.csdn.net/lv_soso/article/details/150379560)
+

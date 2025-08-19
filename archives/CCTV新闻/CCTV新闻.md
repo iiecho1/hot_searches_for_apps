@@ -189,3 +189,7 @@
 
 + [美乌欧领导人白宫会晤后 三个问题值得关注](https://news.cctv.com/2025/08/19/ARTI2LfueosoVd7sZmEaX4PJ250819.shtml)
 
++ [俄罗斯梁赞州工厂火灾已致25人遇难](https://news.cctv.com/2025/08/19/ARTILUm4P1L8d2xgQBCasBun250819.shtml)
+
++ [韩国特检组将于21日再次对金建希进行传唤调查](https://news.cctv.com/2025/08/19/ARTI1tcfr3i5XmoUnBmtr5jE250819.shtml)
+
