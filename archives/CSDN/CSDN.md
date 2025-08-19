@@ -191,3 +191,11 @@
 
 + [Vue2篇——第六章 Vue 路由（VueRouter）全解析](https://blog.csdn.net/2403_88453964/article/details/150497066)
 
++ [项目实战：ansible 一键部署个人博客-角色版-开发手册](https://blog.csdn.net/mage16196/article/details/150521529)
+
++ [AI 智能编码工具：重塑开发效率的革命，从 GitHub Copilot 到国产新秀的全面解析](https://blog.csdn.net/2301_80543957/article/details/150450762)
+
++ [SpringAI集成MCP](https://blog.csdn.net/m0_62943934/article/details/150503270)
+
++ [从零到精通：Semantic Kernel Prompt工程实战全攻略](https://blog.csdn.net/2401_88677290/article/details/149485969)
+

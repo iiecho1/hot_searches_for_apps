@@ -203,3 +203,5 @@
 
 + [贩毒暴力活动猖獗 法国一市再次延长对未成年人宵禁](https://news.cctv.com/2025/08/19/ARTIKmFDnSqcFgemISafUnZP250819.shtml)
 
++ [联合国谴责反政府武装袭击刚果（金）平民](https://news.cctv.com/2025/08/19/ARTIZluvu3gSdK2Xn3lo6UbZ250819.shtml)
+
