@@ -131,3 +131,27 @@
 
 + [Docker pull 命令：镜像下载的艺术与科学](https://blog.csdn.net/qq_41840843/article/details/149044299)
 
++ [【Linux系统】动静态库的制作](https://blog.csdn.net/huangyuchi/article/details/150442598)
+
++ [Redis集群揭秘:分布式存储与高可用实战指南](https://blog.csdn.net/qq_44378083/article/details/149141259)
+
++ [KingbaseES高可用架构深度解析——从读写分离到异地灾备的全方位守护](https://blog.csdn.net/2302_78391795/article/details/150441513)
+
++ [如何解决机器翻译的“幻觉“问题（Hallucination）？](https://blog.csdn.net/cui_yonghua/article/details/150487678)
+
++ [[免费]基于Python的全国气象数据采集及可视化大屏系统(Flask+request库)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/150490806)
+
++ [中国省份简称与车牌编码全景解析：历史渊源与现代应用](https://blog.csdn.net/hezuijiudexiaobai/article/details/150501037)
+
++ [《左宗棠传》读书笔记](https://blog.csdn.net/Peter_Changyb/article/details/150444738)
+
++ [【Elasticsearch】全文搜索与精确匹配：match与term查询](https://blog.csdn.net/a1657054242/article/details/150486040)
+
++ [从折角到完美光影：深入理解几何连续性G0、G1、G2](https://blog.csdn.net/qq_43689451/article/details/150483733)
+
++ [一文通透Qwen LLM系列——从Qwen、Qwen1.5、Qwen2、Qwen2.5到Qwen3(融合了chat和推理)、Qwen3 MoE](https://blog.csdn.net/v_JULY_v/article/details/150444999)
+
++ [IOPaint 远程修图：cpolar 内网穿透服务实现跨设备图片编辑](https://blog.csdn.net/ljq_up/article/details/150491704)
+
++ [人工智能芯片开发——位宽自适应MAC技术详解](https://blog.csdn.net/ccsss22/article/details/150454904)
+
