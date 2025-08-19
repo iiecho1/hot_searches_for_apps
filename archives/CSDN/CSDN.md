@@ -165,3 +165,15 @@
 
 + [Redis实战指南:从缓存到高并发，10大应用场景全解析](https://blog.csdn.net/qq_44378083/article/details/149141321)
 
++ [Docker学习--认识Docker](https://blog.csdn.net/newbie5277/article/details/150470316)
+
++ [Flutter Provider 模式实现：基于 InheritedWidget 的状态管理实现](https://blog.csdn.net/fouryears_23417/article/details/150451170)
+
++ [数学建模：智能优化算法](https://blog.csdn.net/2402_89326161/article/details/149917362)
+
++ [Git+Jenkins 基本使用](https://blog.csdn.net/2301_81259717/article/details/150484674)
+
++ [AI编程工具对决：Kilo vs Augment 开发Flutter俄罗斯方块游戏实战对比](https://blog.csdn.net/yangshuo1281/article/details/150499756)
+
++ [MATLAB建模与可视化技术文档：从二维到三维](https://blog.csdn.net/RL2698853114/article/details/150498213)
+
