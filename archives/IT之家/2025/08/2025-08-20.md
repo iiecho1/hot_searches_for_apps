@@ -49,3 +49,7 @@
 
 + [曝某厂迭代小屏样机正测试 6300mAh&#177; 电池：大 R 角极窄 LIPO、潜望镜等，预计为小米 16 Pro](https://m.ithome.com/html/876432.htm)
 
++ [23.59 万元起上汽奥迪 AUDI 品牌首款车型 E5 Sportback 预售：全系 800V 架构](https://m.ithome.com/html/876293.htm)
+
++ [格力朱磊回应“空调线上销量被小米超越”：公开数据与截图不符，7 月仍然保持领先](https://m.ithome.com/html/876281.htm)
+

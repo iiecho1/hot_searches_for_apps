@@ -163,3 +163,5 @@
 
 + [俄乌再次移交阵亡军人遗体](https://news.cctv.com/2025/08/20/ARTIjWnAeRRO29gM8HRriJ9h250819.shtml)
 
++ [旅俄大熊猫“喀秋莎”收到生日礼物啦 快来围观→](https://news.cctv.com/2025/08/20/ARTIq4RtcxU3BEvUTvdSYsGx250819.shtml)
+
