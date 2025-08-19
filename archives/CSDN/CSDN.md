@@ -133,3 +133,7 @@
 
 + [ Less (CSS 预处理器)](https://blog.csdn.net/2401_87008233/article/details/150500274)
 
++ [论文阅读系列（一）Qwen-Image Technical Report](https://blog.csdn.net/qq_38915354/article/details/150530555)
+
++ [猫头虎AI分享｜一款智能量化交易系统：QuantCell，从数据收集到策略执行全流程自动化](https://blog.csdn.net/qq_44866828/article/details/150503527)
+

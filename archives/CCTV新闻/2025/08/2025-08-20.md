@@ -167,3 +167,7 @@
 
 + [苏丹武装冲突已致超120名人道主义工作者遇难](https://news.cctv.com/2025/08/20/ARTINiILsk0JdyX959CwX0S3250819.shtml)
 
++ [重达672吨！瑞典百年大教堂上演“搬家记”，通过滑轮装置缓慢“平移”](https://news.cctv.com/2025/08/20/ARTIjoRs0kRO26dZTBWl8Bbs250820.shtml)
+
++ [欧盟称将于9月出台针对俄罗斯的新一轮制裁方案](https://news.cctv.com/2025/08/20/ARTIwsKduSu0VfMoiV2GKxaa250820.shtml)
+

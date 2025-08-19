@@ -25,3 +25,5 @@
 
 + [awslabs/mcp](https://github.com/awslabs/mcp)
 
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
