@@ -173,3 +173,7 @@
 
 + [美乌欧白宫系列会晤：泽连斯基放软身段，美欧分歧凸显](https://news.cctv.com/2025/08/19/ARTIXnd1FL7JNGz62Wwl7C1j250819.shtml)
 
++ [伊拉克军方：国际联盟将撤军 伊有能力维护国家安全](https://military.cctv.com/2025/08/19/ARTIbiS4wsvnAJYfE88q9Hg8250819.shtml)
+
++ [受美关税影响 德国汉堡港对美集装箱吞吐量下降近20%](https://news.cctv.com/2025/08/19/ARTIQGjSN7Gn3CEqttxI9rKi250819.shtml)
+

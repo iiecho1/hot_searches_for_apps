@@ -155,3 +155,11 @@
 
 + [人工智能芯片开发——位宽自适应MAC技术详解](https://blog.csdn.net/ccsss22/article/details/150454904)
 
++ [基于深度学习的老照片修复系统](https://blog.csdn.net/weixin_44873868/article/details/150445968)
+
++ [【Linux指南】gcc/g++编译器：从源码到可执行文件的全流程解析](https://blog.csdn.net/2302_78391795/article/details/149369002)
+
++ [【C++知识杂记1】智能指针及其分类](https://blog.csdn.net/qq_45976653/article/details/150474225)
+
++ [【完整源码+数据集+部署教程】织物缺陷检测系统源码和数据集：改进yolo11-RevCol](https://blog.csdn.net/weixin_43860634/article/details/150497680)
+
