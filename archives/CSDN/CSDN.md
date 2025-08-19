@@ -215,3 +215,7 @@
 
 + [前端vue3+后端spring boot导出数据](https://blog.csdn.net/leftfist/article/details/149427519)
 
++ [【深度学习计算性能】06：多GPU的简洁实现](https://blog.csdn.net/Morse_Chen/article/details/150502508)
+
++ [Trae 辅助下的 uni-app 跨端小程序工程化开发实践分享](https://blog.csdn.net/qq_31647491/article/details/150464008)
+

@@ -79,3 +79,11 @@
 
 + [OPPO / vivo / 小米 / 荣耀 / 联想联合推出隐私权限体系，宣称数据访问双轨并行](https://m.ithome.com/html/876299.htm)
 
++ [蔚来 100kWh 长续航电池包价格调整：从 12.8 万元下调至 10.8 万元](https://m.ithome.com/html/876420.htm)
+
++ [前 Flyme 负责人杨颜喊话魅族科技：下周一我们表演一个撕逼给大家看你觉得好不好](https://m.ithome.com/html/876379.htm)
+
++ [小米首款 400% 大音量模式手机：REDMI Note 15 Pro 系列搭载旗舰 1115 对称双扬声器，响度 82.5dB](https://m.ithome.com/html/876467.htm)
+
++ [曝某厂迭代小屏样机正测试 6300mAh&#177; 电池：大 R 角极窄 LIPO、潜望镜等，预计为小米 16 Pro](https://m.ithome.com/html/876432.htm)
+
