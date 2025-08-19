@@ -219,3 +219,11 @@
 
 + [Trae 辅助下的 uni-app 跨端小程序工程化开发实践分享](https://blog.csdn.net/qq_31647491/article/details/150464008)
 
++ [大模型微调实战指南：从原理到工业级落地](https://blog.csdn.net/2301_80543957/article/details/150462798)
+
++ [YOLO多模态改进系列 | YOLOFuse：多模态融合的 Slim-Neck 改进](https://blog.csdn.net/weixin_43694096/article/details/150532706)
+
++ [VS Code Copilot 完整使用教程（含图解）](https://blog.csdn.net/Z_oioihoii/article/details/150499468)
+
++ [Linux容器基石：LXC核心概念与实践指南](https://blog.csdn.net/2302_80105876/article/details/150417338)
+
