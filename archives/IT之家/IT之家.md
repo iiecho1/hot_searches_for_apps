@@ -63,3 +63,19 @@
 
 + [小米 15 Ultra 手机澎湃 HyperOS 2.0.212.0 版本取景框不显示滤镜效果问题优化，升级后续版本可验证](https://m.ithome.com/html/876041.htm)
 
++ [特斯拉 Model Y L 正式上市：六座布局、续航 751 公里，33.9 万元起](https://m.ithome.com/html/876344.htm)
+
++ [快手网红主播辛巴宣布退网：每天要吃很多药，再不注意肺的寿命只有 8-10 年](https://m.ithome.com/html/876331.htm)
+
++ [特斯拉 Model 3 汽车现已标配转向灯拨杆，老车主可花 2499 元改装](https://m.ithome.com/html/876354.htm)
+
++ [华为鸿蒙 HarmonyOS 5.1.0.150 版本“悄悄”下放 Pura80 系列手机新版智能遥控 App](https://m.ithome.com/html/876317.htm)
+
++ [华为 Mate 60 / 70 系列等机型获鸿蒙 HarmonyOS 5.1.0.150 升级，图库支持相册排序、图片二维码识别功能](https://m.ithome.com/html/876315.htm)
+
++ [委内瑞拉总统马杜罗“大秀”华为 Mate X6，并称它是目前世界上最先进的手机](https://m.ithome.com/html/876422.htm)
+
++ [京东：外卖全职骑手突破 15 万人，全部缴纳五险一金且承担所有费用，每人每月平均缴纳约 2000 元](https://m.ithome.com/html/876370.htm)
+
++ [OPPO / vivo / 小米 / 荣耀 / 联想联合推出隐私权限体系，宣称数据访问双轨并行](https://m.ithome.com/html/876299.htm)
+
