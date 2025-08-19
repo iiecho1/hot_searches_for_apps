@@ -59,3 +59,7 @@
 
 + [格力朱磊回应“空调线上销量被小米超越”：公开数据与截图不符，7 月仍然保持领先](https://m.ithome.com/html/876281.htm)
 
++ [美团份额降至 45%，喜茶全量上线淘宝闪购](https://m.ithome.com/html/876209.htm)
+
++ [小米 15 Ultra 手机澎湃 HyperOS 2.0.212.0 版本取景框不显示滤镜效果问题优化，升级后续版本可验证](https://m.ithome.com/html/876041.htm)
+

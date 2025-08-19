@@ -205,3 +205,9 @@
 
 + [联合国谴责反政府武装袭击刚果（金）平民](https://news.cctv.com/2025/08/19/ARTIZluvu3gSdK2Xn3lo6UbZ250819.shtml)
 
++ [国际观察｜美关税政策加剧德国经济复苏之困](https://news.cctv.com/2025/08/19/ARTIFeasndfSuUfUV8djosL4250819.shtml)
+
++ [与特朗普会晤后 泽连斯基：已着手制定具体安保方案](https://news.cctv.com/2025/08/19/ARTIhukSNB0sHVLMQh08Aedg250819.shtml)
+
++ [联合国：本轮巴以冲突已致超500名人道主义工作者遇难](https://news.cctv.com/2025/08/19/ARTIRifqmHhULfTn1qDJpAAx250819.shtml)
+

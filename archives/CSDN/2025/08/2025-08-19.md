@@ -199,3 +199,7 @@
 
 + [从零到精通：Semantic Kernel Prompt工程实战全攻略](https://blog.csdn.net/2401_88677290/article/details/149485969)
 
++ [私有化部署全攻略：开源模型本地化改造的性能与安全评测](https://blog.csdn.net/IRpickstars/article/details/150455312)
+
++ [【Linux操作系统】简学深悟启示录：进程状态&&优先级](https://blog.csdn.net/Zero_VPN/article/details/150270058)
+
