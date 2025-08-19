@@ -193,3 +193,13 @@
 
 + [韩国特检组将于21日再次对金建希进行传唤调查](https://news.cctv.com/2025/08/19/ARTI1tcfr3i5XmoUnBmtr5jE250819.shtml)
 
++ [法国被污染奶酪所致李斯特菌病波及欧洲多国](https://news.cctv.com/2025/08/19/ARTIaIP1p6w7LP1NpQ8YrYeM250819.shtml)
+
++ [爱泼斯坦案有新突破？美国会共和党人称司法部将提供相关文件](https://news.cctv.com/2025/08/19/ARTItLwVYAlkMbEZBrF9c1wN250819.shtml)
+
++ [以军称将在以色列南部红海海域举行军事演习](https://military.cctv.com/2025/08/19/ARTIYHTCNQEnmss82FlMaNkI250819.shtml)
+
++ [加拿大经历有记录以来“第二严重”野火季](https://news.cctv.com/2025/08/19/ARTIwsXaZYrpQqib64x3AUf8250819.shtml)
+
++ [贩毒暴力活动猖獗 法国一市再次延长对未成年人宵禁](https://news.cctv.com/2025/08/19/ARTIKmFDnSqcFgemISafUnZP250819.shtml)
+
