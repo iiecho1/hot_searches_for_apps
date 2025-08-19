@@ -211,3 +211,5 @@
 
 + [联合国：本轮巴以冲突已致超500名人道主义工作者遇难](https://news.cctv.com/2025/08/19/ARTIRifqmHhULfTn1qDJpAAx250819.shtml)
 
++ [中国驻马尔代夫使馆提醒在马中国公民警惕新型诈骗](https://news.cctv.com/2025/08/19/ARTIS61G52U9fllA7tNI2z8S250819.shtml)
+

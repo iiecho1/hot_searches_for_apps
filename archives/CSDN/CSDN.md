@@ -203,3 +203,13 @@
 
 + [【Linux操作系统】简学深悟启示录：进程状态&&优先级](https://blog.csdn.net/Zero_VPN/article/details/150270058)
 
++ [TensorFlow深度学习实战——使用深度Q学习进行Atari游戏](https://blog.csdn.net/LOVEmy134611/article/details/144593850)
+
++ [电子元器件-电容终篇：基本原理、参数解读、电路作用、分类及区别、应用场景、选型、降频及实战案例](https://blog.csdn.net/qq_60226558/article/details/150452974)
+
++ [Apache IoTDB：大数据时代时序数据库选型的技术突围与实践指南](https://blog.csdn.net/beautifulmemory/article/details/150499714)
+
++ [博客项目 Spring + Redis + Mysql](https://blog.csdn.net/weixin_74066883/article/details/150266777)
+
++ [Horse3D游戏引擎研发笔记（六）：在QtOpenGL环境下，仿Unity的材质管理Shader绘制四边形](https://blog.csdn.net/2503_92624912/article/details/150451239)
+

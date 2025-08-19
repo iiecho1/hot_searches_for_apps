@@ -25,3 +25,13 @@
 
 + [mfts/papermark](https://github.com/mfts/papermark)
 
++ [LMCache/LMCache](https://github.com/LMCache/LMCache)
+
++ [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
+
++ [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+
++ [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
++ [awslabs/mcp](https://github.com/awslabs/mcp)
+
