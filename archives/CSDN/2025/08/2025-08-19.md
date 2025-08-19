@@ -227,3 +227,9 @@
 
 + [Linux容器基石：LXC核心概念与实践指南](https://blog.csdn.net/2302_80105876/article/details/150417338)
 
++ [深度学习-计算机视觉-微调 Fine-tune](https://blog.csdn.net/weixin_74126320/article/details/150501117)
+
++ [44.【.NET8 实战--孢子记账--从单体到微服务--转向微服务】--扩展功能--集成网关--网关集成认证（三）](https://blog.csdn.net/gangzhucoll/article/details/150466206)
+
++ [HTTP协议-4-浏览器是怎么抉择HTTP版本的？](https://blog.csdn.net/qq_34207422/article/details/150503525)
+
