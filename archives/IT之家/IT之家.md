@@ -25,3 +25,27 @@
 
 + [鸿蒙智行首款旅行车享界 S9T 预订 1 小时小订突破 1 万台，32.8 万元起](https://m.ithome.com/html/876142.htm)
 
++ [特斯拉 Model Y L 正式上市：六座布局、续航 751 公里，33.9 万元起](https://m.ithome.com/html/876344.htm)
+
++ [快手网红主播辛巴宣布退网：每天要吃很多药，再不注意肺的寿命只有 8-10 年](https://m.ithome.com/html/876331.htm)
+
++ [特斯拉 Model 3 汽车现已标配转向灯拨杆，老车主可花 2499 元改装](https://m.ithome.com/html/876354.htm)
+
++ [京东：外卖全职骑手突破 15 万人，全部缴纳五险一金且承担所有费用，每人每月平均缴纳约 2000 元](https://m.ithome.com/html/876370.htm)
+
++ [华为鸿蒙 HarmonyOS 5.1.0.150 版本“悄悄”下放 Pura80 系列手机新版智能遥控 App](https://m.ithome.com/html/876317.htm)
+
++ [委内瑞拉总统马杜罗“大秀”华为 Mate X6，并称它是目前世界上最先进的手机](https://m.ithome.com/html/876422.htm)
+
++ [华为 Mate 60 / 70 系列等机型获鸿蒙 HarmonyOS 5.1.0.150 升级，图库支持相册排序、图片二维码识别功能](https://m.ithome.com/html/876315.htm)
+
++ [蔚来 100kWh 长续航电池包价格调整：从 12.8 万元下调至 10.8 万元](https://m.ithome.com/html/876420.htm)
+
++ [前 Flyme 负责人杨颜喊话魅族科技：下周一我们表演一个撕逼给大家看你觉得好不好](https://m.ithome.com/html/876379.htm)
+
++ [OPPO / vivo / 小米 / 荣耀 / 联想联合推出隐私权限体系，宣称数据访问双轨并行](https://m.ithome.com/html/876299.htm)
+
++ [小米首款 400% 大音量模式手机：REDMI Note 15 Pro 系列搭载旗舰 1115 对称双扬声器，响度 82.5dB](https://m.ithome.com/html/876467.htm)
+
++ [曝某厂迭代小屏样机正测试 6300mAh&#177; 电池：大 R 角极窄 LIPO、潜望镜等，预计为小米 16 Pro](https://m.ithome.com/html/876432.htm)
+
