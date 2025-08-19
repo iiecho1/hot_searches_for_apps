@@ -179,3 +179,7 @@
 
 + [以媒：以官员称仍致力于达成加沙“全面”停火协议](https://news.cctv.com/2025/08/19/ARTIIfBFZsEZRsAuzs2kxFvw250819.shtml)
 
++ [韩国庆尚北道列车撞人事故已致2人死亡](https://news.cctv.com/2025/08/19/ARTIwLRrMZDGpG9B9ugZSidn250819.shtml)
+
++ [默茨称普京同意在未来两周内会晤泽连斯基](https://news.cctv.com/2025/08/19/ARTIZW8Q0ibWYGXQrMiTIWfW250819.shtml)
+
