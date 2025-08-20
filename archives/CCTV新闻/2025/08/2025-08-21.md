@@ -169,3 +169,5 @@
 
 + [加关税、抓移民、派士兵 美政府“三板斧”砍伤华盛顿餐饮业](https://news.cctv.com/2025/08/21/ARTIPXihQyhq9IBc0Dlqx2Fe250820.shtml)
 
++ [林火蔓延威胁自然保护区 玻利维亚进入国家紧急状态](https://news.cctv.com/2025/08/21/ARTIbeXam2FNuzTMVmn4t4om250821.shtml)
+
