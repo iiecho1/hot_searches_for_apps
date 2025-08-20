@@ -41,3 +41,7 @@
 
 + [公司最近要买国产 CPU 服务器，求推荐](https://www.v2ex.com/t/1153597)
 
++ [真的会有中国人站队 maddot 的观点吗？](https://www.v2ex.com/t/1153616)
+
++ [想问问，我这姐夫这种是装杯吗](https://www.v2ex.com/t/1153650)
+
