@@ -147,3 +147,9 @@
 
 + [Windows 结合最新版 ComfyUI 部署图像大模型详细步骤（含Web和本地）](https://blog.csdn.net/2301_76341691/article/details/150425668)
 
++ [【Linux】文件系统](https://blog.csdn.net/2401_87116511/article/details/150495837)
+
++ [一道同分排名的SQL题](https://blog.csdn.net/swingline/article/details/150503944)
+
++ [【完整源码+数据集+部署教程】太阳能板表面损伤检测图像分割系统源码和数据集：改进yolo11-DynamicHGNetV2](https://blog.csdn.net/weixin_43860634/article/details/150521199)
+
