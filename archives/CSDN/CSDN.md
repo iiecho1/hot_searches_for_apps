@@ -203,3 +203,5 @@
 
 + [flutter 鸿蒙 插件填坑](https://blog.csdn.net/nicepainkiller/article/details/150484655)
 
++ [星图云开发者平台新功能速递 | 微服务管理器：无缝整合异构服务，释放云原生开发潜能](https://blog.csdn.net/DevMate/article/details/150528362)
+
