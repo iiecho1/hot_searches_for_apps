@@ -205,3 +205,5 @@
 
 + [星图云开发者平台新功能速递 | 微服务管理器：无缝整合异构服务，释放云原生开发潜能](https://blog.csdn.net/DevMate/article/details/150528362)
 
++ [SpringBoot 整合 Langchain4j RAG 技术深度使用解析](https://blog.csdn.net/zhangcongyi420/article/details/149668933)
+

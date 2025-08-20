@@ -87,3 +87,11 @@
 
 + [新作《钟馗》官宣后，《黑神话：悟空》官方账号更名为“黑神话”](https://m.ithome.com/html/876748.htm)
 
++ [群联就微软 Win11 更新导致硬盘故障问题发声：正协同合作伙伴进行调查](https://m.ithome.com/html/876587.htm)
+
++ [Air / Pro Max 夹击：苹果 iPhone 17 Pro 遇冷预警，恐成本世代最尴尬机型](https://m.ithome.com/html/876813.htm)
+
++ [曝某厂小屏手机配百瓦超大电池、容量领先同期同档竞品 500mAh++，预计为小米 16 标准版](https://m.ithome.com/html/876758.htm)
+
++ [消息称中国一汽拟收购零跑汽车 10% 左右股份，成为其战略股东](https://m.ithome.com/html/876705.htm)
+
