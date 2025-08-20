@@ -153,3 +153,11 @@
 
 + [【完整源码+数据集+部署教程】太阳能板表面损伤检测图像分割系统源码和数据集：改进yolo11-DynamicHGNetV2](https://blog.csdn.net/weixin_43860634/article/details/150521199)
 
++ [AI 在金融领域的落地案例](https://blog.csdn.net/2301_80543957/article/details/150500001)
+
++ [Spring Boot携手Leaflet：开启省域迂回可视化实战之旅](https://blog.csdn.net/yelangkingwuzuhu/article/details/150536552)
+
++ [【运维实战】系统全链路监测方案~架构到实践](https://blog.csdn.net/wnm23/article/details/150468085)
+
++ [学习threejs，打造宇宙星云背景](https://blog.csdn.net/qq_28419035/article/details/150546180)
+
