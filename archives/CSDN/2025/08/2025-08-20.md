@@ -161,3 +161,7 @@
 
 + [学习threejs，打造宇宙星云背景](https://blog.csdn.net/qq_28419035/article/details/150546180)
 
++ [大数据时代时序数据库选型指南：深度解析与 Apache IoTDB 实践](https://blog.csdn.net/weixin_37800531/article/details/150487760)
+
++ [使用 uv管理 Python 虚拟环境：比conda更快、更轻量的现代方案](https://blog.csdn.net/uncle_ll/article/details/150499357)
+

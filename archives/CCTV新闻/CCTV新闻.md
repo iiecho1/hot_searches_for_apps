@@ -181,3 +181,9 @@
 
 + [2024年全球共383名人道援助人员遇害 创历史新高](https://news.cctv.com/2025/08/20/ARTIOxJSTWTUeIcntNGEX6R5250820.shtml)
 
++ [俄罗斯发布解密文件揭示731部队人体实验罪行](https://news.cctv.com/2025/08/20/ARTINRkAfbQjFtKhGNHjh55l250820.shtml)
+
++ [一场飓风导致新西兰发生超80万次滑坡](https://news.cctv.com/2025/08/20/ARTInydYukj2WRXMpm3ChYNi250820.shtml)
+
++ [阿富汗西部一大巴车发生交通事故起火 已致76人死亡](https://news.cctv.com/2025/08/20/ARTIRELJ88UzZjJLK2BRw5Td250820.shtml)
+
