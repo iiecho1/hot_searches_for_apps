@@ -187,3 +187,9 @@
 
 + [阿富汗西部一大巴车发生交通事故起火 已致76人死亡](https://news.cctv.com/2025/08/20/ARTIRELJ88UzZjJLK2BRw5Td250820.shtml)
 
++ [美国扩大钢铝关税清单范围 企业忧成本飙升](https://news.cctv.com/2025/08/20/ARTISKfF9arx8Z76bH4uYfa2250820.shtml)
+
++ [白俄罗斯总统会见伊朗总统 讨论两国双边关系](https://news.cctv.com/2025/08/20/ARTIjY1HXqfPXTWspoHyG7Ox250820.shtml)
+
++ [阿富汗西部交通事故遇难人数升至79人](https://news.cctv.com/2025/08/20/ARTIfnLaX3H8AfX7TCKFCBPQ250820.shtml)
+

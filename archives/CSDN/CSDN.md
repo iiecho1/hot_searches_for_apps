@@ -171,3 +171,9 @@
 
 + [微信原生小程序的一次gulp构建](https://blog.csdn.net/weixin_37600778/article/details/150429800)
 
++ [Linux I/O 多路复用实战：Select/Poll 编程指南](https://blog.csdn.net/2302_80105876/article/details/150489563)
+
++ [模型量化大揭秘：INT8、INT4量化对推理速度和精度的影响测试](https://blog.csdn.net/IRpickstars/article/details/150544606)
+
++ [【HTML】3D动态凯旋门](https://blog.csdn.net/qq_62223405/article/details/150361860)
+
