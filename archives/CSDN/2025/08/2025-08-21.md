@@ -125,3 +125,5 @@
 
 + [Elasticsearch全文检索中文分词：IK分词器详解与Docker环境集成](https://blog.csdn.net/asialee_bird/article/details/149970265)
 
++ [跟踪不稳定目标：基于外观引导的运动建模实现无人机视频中的鲁棒多目标跟踪](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/150510261)
+
