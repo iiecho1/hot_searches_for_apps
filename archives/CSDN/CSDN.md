@@ -179,3 +179,11 @@
 
 + [实战指南：Amazon SageMaker 部署 AIGC 应用全流程解析](https://blog.csdn.net/ztt123654/article/details/150544447)
 
++ [【AI智能体】Dify 搭建发票识别助手操作实战详解](https://blog.csdn.net/zhangcongyi420/article/details/150356677)
+
++ [开源游戏引擎Bevy 和 Godot](https://blog.csdn.net/scoone/article/details/150524363)
+
++ [C#项目集成海康SDK指南：从搭建环境到实现视频预览、录制、截屏](https://blog.csdn.net/weixin_41863029/article/details/150533390)
+
++ [Baumer高防护相机如何通过YoloV8深度学习模型实现手势识别和指尖检测识别（C#代码UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/150496046)
+
