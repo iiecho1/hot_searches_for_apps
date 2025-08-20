@@ -171,3 +171,9 @@
 
 + [欧盟称将于9月出台针对俄罗斯的新一轮制裁方案](https://news.cctv.com/2025/08/20/ARTIwsKduSu0VfMoiV2GKxaa250820.shtml)
 
++ [拉美观察丨美50%关税大棒落下 巴西对内纾困对外开拓市场](https://news.cctv.com/2025/08/20/ARTIHRWof0f0ihlx8pAJLPDj250820.shtml)
+
++ [欧洲多国山火肆虐 欧盟启动跨国援助](https://news.cctv.com/2025/08/20/ARTIxotAictB8I0OB7E4kbMP250820.shtml)
+
++ [韩国内乱特检组拟于22日再对前国务总理韩德洙进行传唤调查](https://news.cctv.com/2025/08/20/ARTIaxhBSg9kFiltd23w0f06250820.shtml)
+
