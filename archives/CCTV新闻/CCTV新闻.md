@@ -193,3 +193,11 @@
 
 + [阿富汗西部交通事故遇难人数升至79人](https://news.cctv.com/2025/08/20/ARTIfnLaX3H8AfX7TCKFCBPQ250820.shtml)
 
++ [以军在加沙城郊区恢复作战 警告当地平民向南撤离](https://news.cctv.com/2025/08/20/ARTIy9OIWCdAF1bPPVv09irL250820.shtml)
+
++ [视频丨南非一小飞机特技表演时失控坠海 飞行员至今下落不明](https://news.cctv.com/2025/08/20/ARTIU8sKi4LTsCtmDmDB6vJe250820.shtml)
+
++ [波兰军方：该国东部发现的不明物体可能是旧发动机部件](https://news.cctv.com/2025/08/20/ARTIK89dTTGZS29ti0StT44H250820.shtml)
+
++ [英国7月通胀率升至3.8% 为19个月以来最高](https://news.cctv.com/2025/08/20/ARTIgcziwXmm0Zv5PsB2dhFD250820.shtml)
+

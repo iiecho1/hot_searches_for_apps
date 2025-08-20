@@ -177,3 +177,5 @@
 
 + [【HTML】3D动态凯旋门](https://blog.csdn.net/qq_62223405/article/details/150361860)
 
++ [实战指南：Amazon SageMaker 部署 AIGC 应用全流程解析](https://blog.csdn.net/ztt123654/article/details/150544447)
+
