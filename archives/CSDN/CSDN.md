@@ -101,3 +101,11 @@
 
 + [开源游戏引擎Bevy 和 Godot](https://blog.csdn.net/scoone/article/details/150524363)
 
++ [项目实战：ansible 一键部署个人博客-角色版-开发手册](https://blog.csdn.net/mage16196/article/details/150521529)
+
++ [【自动驾驶】自动驾驶概述 ③ ( V2X 简介 | V2X 在自动驾驶中的生态位 | 自动驾驶技术发展方向 - 单车智能主导、V2X 补充 | C-V2X 通信协议 LTE-V2X、5G-V2X )](https://blog.csdn.net/han1202012/article/details/150516513)
+
++ [猫头虎AI分享｜一款智能量化交易系统：QuantCell，从数据收集到策略执行全流程自动化](https://blog.csdn.net/qq_44866828/article/details/150503527)
+
++ [Wireshark捕获电脑与路由器通信数据，绘制波形观察](https://blog.csdn.net/qq_48873240/article/details/150544366)
+

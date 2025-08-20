@@ -25,3 +25,11 @@
 
 + [消息称中国一汽拟收购零跑汽车 10% 左右股份，成为其战略股东](https://m.ithome.com/html/876705.htm)
 
++ [小米推出 139 元自带线超薄充电宝 5000mAh 22.5W 新品：11.8mm + 110g，适配华为苹果等各品牌机型](https://m.ithome.com/html/876571.htm)
+
++ [网传陕西西安实行全面暂停网约车“一口价”“特惠单”，官方回应称“属实”](https://m.ithome.com/html/876573.htm)
+
++ [高通第四代骁龙 7s 移动平台正式推出：4 纳米制程、CPU 性能提升 7%](https://m.ithome.com/html/876567.htm)
+
++ [DeepSeek 通知线上模型版本升级至 V3.1，上下文长度拓展至 128k](https://m.ithome.com/html/876555.htm)
+
