@@ -57,3 +57,9 @@
 
 + [小米集团 2025 年第二季度营收 1160 亿元同比增长 30.5%：交付 81302 辆新车再创历史新高，智能手机出货量在 60 个国家地区排前三](https://m.ithome.com/html/876518.htm)
 
++ [华为智慧屏 MateTV 发布：搭载灵犀悬浮触控技术，实现电视多指操控](https://m.ithome.com/html/876774.htm)
+
++ [零刻、飞牛首款联名私有云 NAS 上架售 1299 元起：赠五年 FN Connect 高级会员、英特尔 N150 + 12G](https://m.ithome.com/html/876814.htm)
+
++ [前 Flyme 负责人杨颜喊话魅族“下周一表演撕逼”后续：删博并称“不是营销”](https://m.ithome.com/html/876761.htm)
+
