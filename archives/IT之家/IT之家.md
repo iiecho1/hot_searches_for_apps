@@ -63,3 +63,7 @@
 
 + [前 Flyme 负责人杨颜喊话魅族“下周一表演撕逼”后续：删博并称“不是营销”](https://m.ithome.com/html/876761.htm)
 
++ [全系取消实体 SIM 卡：谷歌 Pixel 10 系列手机被曝拥抱双 eSIM 时代](https://m.ithome.com/html/876609.htm)
+
++ [iPhone 会有桌面模式吗？8.3 英寸 iPad mini 实测苹果 iPadOS 26，可运行 8 个应用窗口](https://m.ithome.com/html/876653.htm)
+
