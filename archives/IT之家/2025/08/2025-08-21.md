@@ -33,3 +33,27 @@
 
 + [DeepSeek 通知线上模型版本升级至 V3.1，上下文长度拓展至 128k](https://m.ithome.com/html/876555.htm)
 
++ [特斯拉 Model Y L 正式上市：六座布局、续航 751 公里，33.9 万元起](https://m.ithome.com/html/876344.htm)
+
++ [快手网红主播辛巴宣布退网：每天要吃很多药，再不注意肺的寿命只有 8-10 年](https://m.ithome.com/html/876331.htm)
+
++ [特斯拉 Model 3 汽车现已标配转向灯拨杆，老车主可花 2499 元改装](https://m.ithome.com/html/876354.htm)
+
++ [京东：外卖全职骑手突破 15 万人，全部缴纳五险一金且承担所有费用，每人每月平均缴纳约 2000 元](https://m.ithome.com/html/876370.htm)
+
++ [委内瑞拉总统马杜罗“大秀”华为 Mate X6，并称它是目前世界上最先进的手机](https://m.ithome.com/html/876422.htm)
+
++ [蔚来 100kWh 长续航电池包价格调整：从 12.8 万元下调至 10.8 万元](https://m.ithome.com/html/876420.htm)
+
++ [前 Flyme 负责人杨颜喊话魅族科技：下周一我们表演一个撕逼给大家看你觉得好不好](https://m.ithome.com/html/876379.htm)
+
++ [小米首款 400% 大音量模式手机：REDMI Note 15 Pro 系列搭载旗舰 1115 对称双扬声器，响度 82.5dB](https://m.ithome.com/html/876467.htm)
+
++ [华为余承东提醒鸿蒙智行车主：只要车上带空气悬架，在发出“升高底盘”指令后会自动调至需要的高度](https://m.ithome.com/html/876544.htm)
+
++ [曝某厂迭代小屏样机正测试 6300mAh&#177; 电池：大 R 角极窄 LIPO、潜望镜等，预计为小米 16 Pro](https://m.ithome.com/html/876432.htm)
+
++ [鸿蒙智行“第五界”首车尚界 H5 内饰曝光：怀档设计、悬浮式中控屏，价格指引 18~23 万元](https://m.ithome.com/html/876491.htm)
+
++ [小米集团 2025 年第二季度营收 1160 亿元同比增长 30.5%：交付 81302 辆新车再创历史新高，智能手机出货量在 60 个国家地区排前三](https://m.ithome.com/html/876518.htm)
+

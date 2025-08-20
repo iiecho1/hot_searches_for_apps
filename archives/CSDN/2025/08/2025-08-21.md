@@ -109,3 +109,19 @@
 
 + [Wireshark捕获电脑与路由器通信数据，绘制波形观察](https://blog.csdn.net/qq_48873240/article/details/150544366)
 
++ [【AI】算法环境-显卡、GPU、Cuda、NVCC和cuDNN的区别与联系](https://blog.csdn.net/zt15732625878/article/details/149690966)
+
++ [AI 对话高效输入指令攻略（五）：AI+PicDoc文生图表工具：解锁高效图表创作新范式](https://blog.csdn.net/Pocker_Spades_A/article/details/150348949)
+
++ [Redis单线程之谜:6.0为何“背叛“初心引入多线程？](https://blog.csdn.net/qq_44378083/article/details/149143516)
+
++ [Python 爬虫实战：玩转 Playwright 跨浏览器自动化（Chromium/Firefox/WebKit 全支持）](https://blog.csdn.net/weixin_57166266/article/details/150485276)
+
++ [2-4〔O҉S҉C҉P҉ ◈ 研记〕❘ 漏洞扫描▸AWVS（WEB扫描）](https://blog.csdn.net/weixin_42115157/article/details/150394289)
+
++ [FPGA实现ETH接口](https://blog.csdn.net/whm128/article/details/150485092)
+
++ [Spring Cloud 微服务架构：Eureka 与 ZooKeeper 服务发现原理与实战指南 NO.1](https://blog.csdn.net/2501_90415399/article/details/150529655)
+
++ [Elasticsearch全文检索中文分词：IK分词器详解与Docker环境集成](https://blog.csdn.net/asialee_bird/article/details/149970265)
+
