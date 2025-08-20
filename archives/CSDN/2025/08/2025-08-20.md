@@ -141,3 +141,9 @@
 
 + [Docker pull 命令：镜像下载的艺术与科学](https://blog.csdn.net/qq_41840843/article/details/149044299)
 
++ [【案例分享】AI使用分享｜如何运用 GPT完成小任务并提升效率 —— Prompt 与案例整理](https://blog.csdn.net/qq_41140324/article/details/150489316)
+
++ [MySQL新手教学](https://blog.csdn.net/m0_75133745/article/details/150499133)
+
++ [Windows 结合最新版 ComfyUI 部署图像大模型详细步骤（含Web和本地）](https://blog.csdn.net/2301_76341691/article/details/150425668)
+

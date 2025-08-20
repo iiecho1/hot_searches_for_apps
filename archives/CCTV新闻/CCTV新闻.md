@@ -177,3 +177,7 @@
 
 + [韩国内乱特检组拟于22日再对前国务总理韩德洙进行传唤调查](https://news.cctv.com/2025/08/20/ARTIaxhBSg9kFiltd23w0f06250820.shtml)
 
++ [美洲玻利瓦尔联盟谴责美国威胁拉丁美洲和加勒比地区和平](https://news.cctv.com/2025/08/20/ARTIKgzYcnNHK4HDOFvHABB1250820.shtml)
+
++ [2024年全球共383名人道援助人员遇害 创历史新高](https://news.cctv.com/2025/08/20/ARTIOxJSTWTUeIcntNGEX6R5250820.shtml)
+
