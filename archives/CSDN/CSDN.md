@@ -187,3 +187,11 @@
 
 + [Baumer高防护相机如何通过YoloV8深度学习模型实现手势识别和指尖检测识别（C#代码UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/150496046)
 
++ [医疗AI与医院数据仓库的智能化升级：异构采集、精准评估与高效交互的融合方向(上)](https://blog.csdn.net/kkiron/article/details/150543703)
+
++ [Spring AI 集成阿里云百炼平台](https://blog.csdn.net/qq_38527427/article/details/150469396)
+
++ [FPGA 在情绪识别领域的护理应用（一）](https://blog.csdn.net/qq_43810335/article/details/150534677)
+
++ [基于VLM 的机器人操作视觉-语言-动作模型：综述 2](https://blog.csdn.net/yorkhunter/article/details/150523582)
+
