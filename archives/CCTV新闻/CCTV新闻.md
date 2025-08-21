@@ -217,3 +217,5 @@
 
 + [美国一波音客机飞行途中机翼“掉了一块” 乘客视频记录全程](https://news.cctv.com/2025/08/21/ARTI1F84RSZtUNdIpPoKXHJT250821.shtml)
 
++ [韩国特检组将于23日再次传唤调查金建希](https://news.cctv.com/2025/08/21/ARTIbRbe3PaIy1yrGpsaersZ250821.shtml)
+

@@ -29,3 +29,19 @@
 
 + [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
++ [google/googletest](https://github.com/google/googletest)
+
++ [Budibase/budibase](https://github.com/Budibase/budibase)
+
++ [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+
++ [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+
++ [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
+
++ [plait-board/drawnix](https://github.com/plait-board/drawnix)
+
++ [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
++ [skills/introduction-to-github](https://github.com/skills/introduction-to-github)
+

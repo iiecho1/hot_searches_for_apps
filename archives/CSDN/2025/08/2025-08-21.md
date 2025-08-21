@@ -187,3 +187,13 @@
 
 + [在完全没有无线网络（Wi-Fi）和移动网络（蜂窝数据）的环境下，使用安卓平板，通过USB数据线（而不是Wi-Fi）来控制电脑（版本2）](https://blog.csdn.net/weixin_45178128/article/details/150564495)
 
++ [计算机视觉(二)------OpenCV图像视频操作进阶：从原理到实战](https://blog.csdn.net/Sunhen_Qiletian/article/details/150563326)
+
++ [AI时代项目管理工具TOP5：2025年度权威评测](https://blog.csdn.net/RebeccaGuan0808/article/details/150519592)
+
++ [KingbaseES数据库增删改查操作分享](https://blog.csdn.net/weixin_44976692/article/details/150582171)
+
++ [从异构计算视角审视ARM与FPGA：架构融合驱动智能时代计算范式革新](https://blog.csdn.net/chaosweet/article/details/150547464)
+
++ [计算机网络--HTTP协议](https://blog.csdn.net/SHGXO183/article/details/150563873)
+
