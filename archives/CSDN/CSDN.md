@@ -129,3 +129,7 @@
 
 + [Win10、Win11全中招，微软直接把用户SSD整「挂了」](https://blog.csdn.net/meiyimin/article/details/150530195)
 
++ [Java 大视界 -- Java 大数据在智能医疗远程会诊数据管理与协同诊断优化中的应用（402）](https://blog.csdn.net/atgfg/article/details/150561493)
+
++ [Vue2篇——第六章 Vue 路由（VueRouter）全解析](https://blog.csdn.net/2403_88453964/article/details/150497066)
+
