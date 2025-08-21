@@ -45,3 +45,13 @@
 
 + [京东通信将免费为所有在网用户陆续升级 5G 网别](https://m.ithome.com/html/877051.htm)
 
++ [九三阅兵最新发布会：今年阅兵首次亮相武器装备占比非常高](https://m.ithome.com/html/876664.htm)
+
++ [马云时隔六年再次探访蚂蚁森林，和树比高](https://m.ithome.com/html/876638.htm)
+
++ [iPhone 相机控制键淘汰？消息称苹果停止订购元件，iPhone 17 系列将成最后支持机型](https://m.ithome.com/html/876651.htm)
+
++ [全系取消实体 SIM 卡：谷歌 Pixel 10 系列手机被曝拥抱双 eSIM 时代](https://m.ithome.com/html/876609.htm)
+
++ [iPhone 会有桌面模式吗？8.3 英寸 iPad mini 实测苹果 iPadOS 26，可运行 8 个应用窗口](https://m.ithome.com/html/876653.htm)
+
