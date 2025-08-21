@@ -197,3 +197,15 @@
 
 + [计算机网络--HTTP协议](https://blog.csdn.net/SHGXO183/article/details/150563873)
 
++ [金仓KingbaseES V009版本发布：Oracle兼容性再升级，平滑迁移新纪元已至](https://blog.csdn.net/weixin_44976692/article/details/150575921)
+
++ [从KingbaseES到全栈信创：引领医疗行业数字化转型新路径](https://blog.csdn.net/hanwangyyds/article/details/150581669)
+
++ [【MCP探索实践】mcp-installer：一键部署MCP服务器的高效工具](https://blog.csdn.net/xiaobing259/article/details/150441565)
+
++ [RK3566-OS11自动更新时区](https://blog.csdn.net/qq_60264777/article/details/150583812)
+
++ [imx6ull-驱动开发篇31——Linux异步通知](https://blog.csdn.net/m0_62228566/article/details/150559091)
+
++ [当 GitHub 宕机时，我们如何协作？](https://blog.csdn.net/hfd1990/article/details/150563695)
+
