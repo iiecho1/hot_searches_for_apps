@@ -111,3 +111,29 @@
 
 + [FPGA 在情绪识别领域的护理应用（二）](https://blog.csdn.net/qq_43810335/article/details/150555408)
 
++ [通义万相2.2与DeepSeek协同创作：AI生成高质量长视频的完整指南](https://blog.csdn.net/Liudef06/article/details/150563583)
+
++ [从KingbaseES到全栈信创：引领医疗行业数字化转型新路径](https://blog.csdn.net/hanwangyyds/article/details/150581669)
+
++ [金仓KingbaseES V009版本发布：Oracle兼容性再升级，平滑迁移新纪元已至](https://blog.csdn.net/weixin_44976692/article/details/150575921)
+
++ [【机器学习&深度学习】Ollama、vLLM、LMDeploy对比：选择适合你的 LLM 推理框架](https://blog.csdn.net/qq_62223405/article/details/150563763)
+
++ [人工智能学派简介](https://blog.csdn.net/u013669912/article/details/150474289)
+
++ [Spring Boot 实战：从项目搭建到部署优化](https://blog.csdn.net/ankleless/article/details/150563749)
+
++ [Spring Boot 全局异常处理](https://blog.csdn.net/qq_45572615/article/details/150534784)
+
++ [.net core web程序如何设置redis预热？](https://blog.csdn.net/guigenyi/article/details/150532829)
+
++ [Redis-缓存-击穿-分布式锁](https://blog.csdn.net/weixin_43143532/article/details/150518069)
+
++ [Linux中Docker k8s介绍以及应用](https://blog.csdn.net/lsh0411/article/details/150151194)
+
++ [通用物联网接口调用完整解决方案(第二版)](https://blog.csdn.net/lgf228/article/details/150557729)
+
++ [【项目复盘】【四轴飞行器设计】驱动开发部分](https://blog.csdn.net/m0_75114363/article/details/150547785)
+
++ [【密码学实战】X86、ARM、RISC-V 全量指令集与密码加速技术全景解析](https://blog.csdn.net/openHiTLS/article/details/150547572)
+

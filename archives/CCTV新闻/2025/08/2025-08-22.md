@@ -163,3 +163,5 @@
 
 + [伊朗海军举行导弹演习](https://news.cctv.com/2025/08/22/ARTIg2qaUYnAucGv2yucSiHH250822.shtml)
 
++ [以军要求加沙北部医疗机构为加沙城居民南撤作准备](https://news.cctv.com/2025/08/22/ARTIzL2bMSnohY0ytBDXmUWo250822.shtml)
+

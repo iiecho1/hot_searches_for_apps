@@ -43,3 +43,5 @@
 
 + [Win11 八月更新导致硬盘“失联”、部分 SSD 变砖，微软紧急调查](https://m.ithome.com/html/876929.htm)
 
++ [京东通信将免费为所有在网用户陆续升级 5G 网别](https://m.ithome.com/html/877051.htm)
+
