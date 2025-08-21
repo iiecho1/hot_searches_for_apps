@@ -149,3 +149,13 @@
 
 + [工业相机基本知识解读：像元、帧率、数据接口等](https://blog.csdn.net/ZQ51camera/article/details/150530655)
 
++ [Node.js 在 Windows Server 上的离线部署方案](https://blog.csdn.net/weixin_50233496/article/details/150528311)
+
++ [【C++】C++ 的护身符：解锁 try-catch 异常处理](https://blog.csdn.net/2302_79177254/article/details/148044492)
+
++ [计算机网络技术学习-day3《交换机配置》](https://blog.csdn.net/ershi2002/article/details/150501672)
+
++ [CTFshow系列——命令执行web34-37](https://blog.csdn.net/m0_73812072/article/details/150534998)
+
++ [数字政务安全实战：等保2.0下OA系统的身份认证与数据防护](https://blog.csdn.net/2401_85596708/article/details/150516131)
+
