@@ -133,3 +133,9 @@
 
 + [Vue2篇——第六章 Vue 路由（VueRouter）全解析](https://blog.csdn.net/2403_88453964/article/details/150497066)
 
++ [大数据MapReduce架构：分布式计算的经典范式](https://blog.csdn.net/m0_74385041/article/details/150533216)
+
++ [【YOLOv11工业级实战】20. YOLOv11仓储物流实战：包裹分拣（复杂堆叠场景｜机械臂协同系统）](https://blog.csdn.net/weixin_39815573/article/details/150497737)
+
++ [用 C++ 构建高性能测试框架：从原型到生产实战指南](https://blog.csdn.net/qq_29111047/article/details/150535007)
+
