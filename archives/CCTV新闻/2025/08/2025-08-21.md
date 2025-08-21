@@ -181,3 +181,11 @@
 
 + [中国驻新西兰使馆发言人就新安全情报局再次散布涉华虚假信息发表谈话](https://news.cctv.com/2025/08/21/ARTIiBeIUcHepso0lrf46zC1250821.shtml)
 
++ [泰国被停职总理佩通坦就是否违宪一案出庭作证](https://news.cctv.com/2025/08/21/ARTIAA2Ix8xWvgD2bZ5SZqcM250821.shtml)
+
++ [日本34家污水处理厂污泥中检出有机氟化合物](https://news.cctv.com/2025/08/21/ARTI2H5Sjlunshna7UUIVYJJ250821.shtml)
+
++ [美上诉法院允许特朗普政府终止约6万名移民临时保护身份](https://news.cctv.com/2025/08/21/ARTIMtgxjZR5inopPyLPGSru250821.shtml)
+
++ [尼日利亚清真寺袭击事件已致至少50人丧生](https://news.cctv.com/2025/08/21/ARTIQUmXUbLvm8JrVvYWuchZ250821.shtml)
+
