@@ -161,3 +161,5 @@
 
 + [伊拉克军方：国际联盟将撤军 伊有能力维护国家安全](https://military.cctv.com/2025/08/19/ARTIbiS4wsvnAJYfE88q9Hg8250819.shtml)
 
++ [伊朗海军举行导弹演习](https://news.cctv.com/2025/08/22/ARTIg2qaUYnAucGv2yucSiHH250822.shtml)
+

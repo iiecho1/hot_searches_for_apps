@@ -101,3 +101,13 @@
 
 + [CTFshow系列——命令执行web34-37](https://blog.csdn.net/m0_73812072/article/details/150534998)
 
++ [Java 大视界 -- Java 大数据在智能医疗远程会诊数据管理与协同诊断优化中的应用（402）](https://blog.csdn.net/atgfg/article/details/150561493)
+
++ [JWT通俗易懂讲解](https://blog.csdn.net/weixin_45653328/article/details/150514194)
+
++ [如何保障内部网络安全前提下，实现与外部互联网之间的文件传输？](https://blog.csdn.net/2501_92182754/article/details/150548676)
+
++ [【论文阅读】Multi-metrics adaptively identifies backdoors in Federated Learning](https://blog.csdn.net/qq_55675216/article/details/150561818)
+
++ [FPGA 在情绪识别领域的护理应用（二）](https://blog.csdn.net/qq_43810335/article/details/150555408)
+
