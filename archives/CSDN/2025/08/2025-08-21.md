@@ -209,3 +209,7 @@
 
 + [当 GitHub 宕机时，我们如何协作？](https://blog.csdn.net/hfd1990/article/details/150563695)
 
++ [基于FPGA的实时图像处理系统（2）——VGA显示彩条和图片](https://blog.csdn.net/m0_72364598/article/details/150449004)
+
++ [Zynq开发实践（开篇）](https://blog.csdn.net/feixiaoxing/article/details/150509185)
+

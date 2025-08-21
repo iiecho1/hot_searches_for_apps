@@ -223,3 +223,19 @@
 
 + [南非体育部长因发表种族歧视言论接受调查](https://news.cctv.com/2025/08/21/ARTIifBN0velSonTj2ylfHKV250821.shtml)
 
++ [泽连斯基才说“不现实” 匈牙利抛来橄榄枝](https://news.cctv.com/2025/08/21/ARTIgsuE7ta9yNQ0oU0kFXtF250821.shtml)
+
++ [漫评美债突破37万亿美元：“烫手山芋”](https://news.cctv.com/2025/08/21/ARTIUU1Z9fJwombHAuUtq825250821.shtml)
+
++ [美智库专家：关税蚕食自身利益，美国并未开启贸易新秩序](https://news.cctv.com/2025/08/21/ARTIRK79LjYza8Cf9BUrmXPL250821.shtml)
+
++ [美媒：涨价带来冲击 关税政策正在伤害美国工薪阶层](https://news.cctv.com/2025/08/21/ARTIiwEJIh4bGeCXwMeyxUUw250821.shtml)
+
++ [涉嫌破坏“北溪”管道 一乌克兰籍男子被捕 德国检方披露作案细节](https://news.cctv.com/2025/08/21/ARTIwoQDZgxArIsM5q2rrNpY250821.shtml)
+
++ [红十字国际委员会：以色列接管加沙城计划“难以容忍”](https://news.cctv.com/2025/08/21/ARTIpoXioY97czhc4C7fBT2V250821.shtml)
+
++ [美国与欧盟发表联合声明 双方已就贸易协定框架达成一致](https://news.cctv.com/2025/08/21/ARTIBkt4S07zQmY2sQtxjBLx250821.shtml)
+
++ [俄“安加拉-1.2”运载火箭搭载多颗军用卫星发射升空](https://news.cctv.com/2025/08/21/ARTIJmARHYNMpkQNCHHAXT63250821.shtml)
+
