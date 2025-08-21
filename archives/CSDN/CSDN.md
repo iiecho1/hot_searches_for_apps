@@ -167,3 +167,13 @@
 
 + [【MCP探索实践】MCP-Shield：守护MCP服务器安全的利器](https://blog.csdn.net/xiaobing259/article/details/150441868)
 
++ [KingbaseES数据库操作与医疗信创的深度融合案例分析](https://blog.csdn.net/g310773517/article/details/150581320)
+
++ [FIFO通讯速率＞ 30MB/s，CH346保障FPGA与PC的高速通道稳定高效](https://blog.csdn.net/Amateur6/article/details/150529932)
+
++ [【大学生数学建模竞赛】2024年数模竞赛C题通关指南](https://blog.csdn.net/xiaoyingxixi1989/article/details/150580661)
+
++ [Highcharts for Flutter 正式发布](https://blog.csdn.net/Aaroncoo/article/details/150498177)
+
++ [WEB安全篇：浏览器攻击原理及防护](https://blog.csdn.net/qq_52869537/article/details/150556275)
+
