@@ -193,3 +193,15 @@
 
 + [伊朗军队宣布举行导弹演习 将使用新研发防御武器](https://news.cctv.com/2025/08/21/ARTIpAyiP8fK6xOaH9wQBFXb250821.shtml)
 
++ [美国向委内瑞拉附近海域部署两栖部队](https://news.cctv.com/2025/08/21/ARTIcjL15xx1TXxr9TShRE2F250821.shtml)
+
++ [带来广泛不确定性 美国关税政策反复无常、伤人害己、得不偿失](https://news.cctv.com/2025/08/21/ARTIsueKPnkbKcGCNaNROSHO250821.shtml)
+
++ [记者观察：刚果（金）和平进程迟滞 美国交易式调解遭质疑](https://news.cctv.com/2025/08/21/ARTIUUrllLpXqfgK0wOT69hl250821.shtml)
+
++ [拉加德：美国关税政策拖累欧元区经济增长](https://news.cctv.com/2025/08/21/ARTIUBMUnuChl6nOrJo8cph8250821.shtml)
+
++ [国际观察｜高关税难解美国高债务困局](https://news.cctv.com/2025/08/21/ARTIoari9Zw4PUfiDfhKhDl0250821.shtml)
+
++ [泰国被停职总理佩通坦就其涉嫌违宪案出庭作证](https://news.cctv.com/2025/08/21/ARTIgCrelK5sx163ga2dFFQu250821.shtml)
+
