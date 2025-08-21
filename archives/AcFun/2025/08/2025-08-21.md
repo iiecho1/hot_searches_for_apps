@@ -117,3 +117,5 @@
 
 + [看2025街霸6EWC比赛（更新3p](https://m.acfun.cn/v/?ac=47737218)
 
++ [STARDOM 5★STAR GP in KORAKUEN  第十二日 2025.08.20](https://m.acfun.cn/v/?ac=47736356)
+

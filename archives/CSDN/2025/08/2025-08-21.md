@@ -177,3 +177,13 @@
 
 + [WEB安全篇：浏览器攻击原理及防护](https://blog.csdn.net/qq_52869537/article/details/150556275)
 
++ [常德二院全栈国产化实践：KingbaseES 数据库的关键作用](https://blog.csdn.net/2301_80350265/article/details/150534378)
+
++ [人工智能学派简介](https://blog.csdn.net/u013669912/article/details/150474289)
+
++ [健康常识查询系统|基于java和小程序的健康常识查询系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/150581038)
+
++ [【完整源码+数据集+部署教程】遥感森林砍伐检测系统源码和数据集：改进yolo11-SWC](https://blog.csdn.net/weixin_43860634/article/details/150570277)
+
++ [在完全没有无线网络（Wi-Fi）和移动网络（蜂窝数据）的环境下，使用安卓平板，通过USB数据线（而不是Wi-Fi）来控制电脑（版本2）](https://blog.csdn.net/weixin_45178128/article/details/150564495)
+
