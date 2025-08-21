@@ -55,3 +55,9 @@
 
 + [iPhone 会有桌面模式吗？8.3 英寸 iPad mini 实测苹果 iPadOS 26，可运行 8 个应用窗口](https://m.ithome.com/html/876653.htm)
 
++ [小米 REDMI Note 15 标准版手机发布：第三代骁龙 6 处理器、5800mAh 电池，999 元起](https://m.ithome.com/html/877108.htm)
+
++ [小米 REDMI Note 15 Pro+ 手机发布：首发第四代骁龙 7s、主打“真抗摔、真防水、长续航”，首发 1899 元起](https://m.ithome.com/html/877103.htm)
+
++ [中国市场尺寸最大纯电 SUV：全新蔚来 ES8 预售，41.68 万 / 租电 30.88 万元起](https://m.ithome.com/html/877141.htm)
+

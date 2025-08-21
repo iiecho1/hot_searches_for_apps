@@ -147,3 +147,5 @@
 
 + [Web 安全之延迟攻击（Delay Attack）详解](https://blog.csdn.net/luduoyuan/article/details/150563409)
 
++ [在完全没有无线网络（Wi-Fi）和移动网络（蜂窝数据）的环境下，使用安卓平板，通过USB数据线（而不是Wi-Fi）来控制电脑（版本2）](https://blog.csdn.net/weixin_45178128/article/details/150564495)
+
