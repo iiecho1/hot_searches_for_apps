@@ -67,3 +67,13 @@
 
 + [iPhone 会有桌面模式吗？8.3 英寸 iPad mini 实测苹果 iPadOS 26，可运行 8 个应用窗口](https://m.ithome.com/html/876653.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.0 (20) Beta3 发布，新增应用预加载机制、AI 超帧等功能](https://m.ithome.com/html/876865.htm)
+
++ [39 元 → 17 元：小米双肩背包京东发车，再赠 1 年 1 号会员店年卡](https://m.ithome.com/html/876850.htm)
+
++ [799 美元起谷歌 Pixel 10 / Pro / Fold 系列手机发布：首发搭载 Tensor G5 处理器，全新无齿轮铰链设计](https://m.ithome.com/html/876866.htm)
+
++ [苹果推送 iOS / iPadOS 18.6.2，预估是 iOS / iPadOS 26 前最后一轮小幅更新](https://m.ithome.com/html/876879.htm)
+
++ [北京市率先开展居民电动自行车健康评估，高风险电池将被赋“红码”](https://m.ithome.com/html/876830.htm)
+
