@@ -163,3 +163,7 @@
 
 + [电影购票+票房预测系统 - 后端项目介绍（附源码）](https://blog.csdn.net/qq_59708493/article/details/150536857)
 
++ [GitHub 热榜项目 - 日榜(2025-08-21)](https://blog.csdn.net/u014390502/article/details/150574314)
+
++ [【MCP探索实践】MCP-Shield：守护MCP服务器安全的利器](https://blog.csdn.net/xiaobing259/article/details/150441868)
+

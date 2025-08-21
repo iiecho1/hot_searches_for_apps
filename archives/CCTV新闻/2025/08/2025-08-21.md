@@ -189,3 +189,7 @@
 
 + [尼日利亚清真寺袭击事件已致至少50人丧生](https://news.cctv.com/2025/08/21/ARTIQUmXUbLvm8JrVvYWuchZ250821.shtml)
 
++ [韩国前总统夫人金建希被拘留后第三次接受特检组传唤调查](https://news.cctv.com/2025/08/21/ARTIlvgvTTjHvt0Blur9dCYo250821.shtml)
+
++ [伊朗军队宣布举行导弹演习 将使用新研发防御武器](https://news.cctv.com/2025/08/21/ARTIpAyiP8fK6xOaH9wQBFXb250821.shtml)
+
