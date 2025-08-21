@@ -213,3 +213,7 @@
 
 + [Zynq开发实践（开篇）](https://blog.csdn.net/feixiaoxing/article/details/150509185)
 
++ [猫头虎开源AI分享｜基于大模型和RAG的一款智能text2sql问答系统：SQLBot（SQL-RAG-QABot），可以帮你用自然语言查询数据库](https://blog.csdn.net/qq_44866828/article/details/150562769)
+
++ [【论文阅读】Multi-metrics adaptively identifies backdoors in Federated Learning](https://blog.csdn.net/qq_55675216/article/details/150561818)
+

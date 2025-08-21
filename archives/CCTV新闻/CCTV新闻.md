@@ -239,3 +239,5 @@
 
 + [俄“安加拉-1.2”运载火箭搭载多颗军用卫星发射升空](https://news.cctv.com/2025/08/21/ARTIJmARHYNMpkQNCHHAXT63250821.shtml)
 
++ [美选区重划：得州共和党得手 加州民主党拟反击](https://news.cctv.com/2025/08/21/ARTIOrWkcttN1OsvZofSX0UF250821.shtml)
+
