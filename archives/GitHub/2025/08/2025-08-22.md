@@ -25,3 +25,17 @@
 
 + [skills/introduction-to-github](https://github.com/skills/introduction-to-github)
 
++ [dataease/SQLBot](https://github.com/dataease/SQLBot)
+
++ [dream-num/univer](https://github.com/dream-num/univer)
+
++ [puckeditor/puck](https://github.com/puckeditor/puck)
+
++ [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+
++ [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)
+
++ [microsoft/BitNet](https://github.com/microsoft/BitNet)
+
++ [Leantime/leantime](https://github.com/Leantime/leantime)
+

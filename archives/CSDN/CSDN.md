@@ -213,3 +213,11 @@
 
 + [Linux驱动开发笔记（五）——设备树（再下）——设备树点灯](https://blog.csdn.net/qq_56920196/article/details/149707994)
 
++ [【图像算法 - 20】慧眼识病：基于深度学习与OpenCV的植物叶子疾病智能识别系统](https://blog.csdn.net/qq_42910179/article/details/150591604)
+
++ [PyTorch生成式人工智能——ACGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/150565038)
+
++ [计算机视觉（opencv）实战六——图像形态学（腐蚀、膨胀、开运算、闭运算、梯度、顶帽、黑帽）](https://blog.csdn.net/2302_78022640/article/details/150590934)
+
++ [跟踪不稳定目标：基于外观引导的运动建模实现无人机视频中的鲁棒多目标跟踪](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/150510261)
+
