@@ -159,3 +159,13 @@
 
 + [什么是Qoder？如何下载？如何体验？Qoder和其他 AI IDE 什么区别？](https://blog.csdn.net/lyzybbs/article/details/150593498)
 
++ [刚刚，阿里悄悄发布了他们全新 AI IDE，名字叫Qoder（谐音Coder）](https://blog.csdn.net/zzling2024/article/details/150595357)
+
++ [TensorFlow深度学习实战（33）——深度确定性策略梯度](https://blog.csdn.net/LOVEmy134611/article/details/144593894)
+
++ [全国首个地方三级医院全栈信创落地：常德二院以国产数据库筑牢医疗新质生产力根基](https://blog.csdn.net/weixin_62765017/article/details/150581896)
+
++ [Redis vs Memcached：缓存双雄的终极对决](https://blog.csdn.net/qq_44378083/article/details/149144179)
+
++ [夜宵的 5 种吃法——扣子空间详解](https://blog.csdn.net/2301_76341691/article/details/150584742)
+
