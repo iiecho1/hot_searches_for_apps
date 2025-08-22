@@ -177,3 +177,9 @@
 
 + [【2025终极指南】电脑怎么连接打印机：从USB有线、WiFi无线到共享打印机的全方位教程](https://blog.csdn.net/2401_89926894/article/details/150529898)
 
++ [大模型 + 垂直场景：搜索/推荐/营销/客服领域开发新范式与技术实践](https://blog.csdn.net/2301_80491316/article/details/150520094)
+
++ [【CS创世SD NAND征文】存储芯片在工业电表中的应用与技术演进](https://blog.csdn.net/lmy_520/article/details/148703619)
+
++ [（10）用于无GPS导航的 Pozyx](https://blog.csdn.net/qq_20016593/article/details/149775720)
+

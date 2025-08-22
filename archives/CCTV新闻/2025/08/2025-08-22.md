@@ -181,3 +181,13 @@
 
 + [预期悲观、订单量疲弱 美国领先经济指数7月份继续下跌](https://news.cctv.com/2025/08/22/ARTISKRoVubm8dS7vokMCMvB250822.shtml)
 
++ [欧盟今年已有超100万公顷土地遭山火侵袭](https://news.cctv.com/2025/08/22/ARTIVoyxO9yxlmFmA81vTlMZ250822.shtml)
+
++ [联合国：不到10天 加沙地带新增超1.68万流离失所者](https://news.cctv.com/2025/08/22/ARTIWL5HO1ApdcNNWJgN8cfS250822.shtml)
+
++ [台风“玲玲”致日本多地强降雨 部分地区超300毫米](https://news.cctv.com/2025/08/22/ARTIoIioz0alyWxTcGuFrmb9250822.shtml)
+
++ [“直到快100岁才放弃开车” 在世最长寿老人迎来116岁生日](https://news.cctv.com/2025/08/22/ARTIzAAo9orrsL3RthPhBkmz250822.shtml)
+
++ [视频丨泰国刑事法庭驳回前总理他信涉嫌冒犯君主罪案指控](https://news.cctv.com/2025/08/22/ARTITnlHqEJJLnzJqniJSRvJ250822.shtml)
+
