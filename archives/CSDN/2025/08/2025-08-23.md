@@ -111,3 +111,15 @@
 
 + [Google Chrome扩展不受信任 - 不受支持的清单版本 解决方案 -- Chrome扩展插件无法加载 扩展程序无法使用 解决方案](https://blog.csdn.net/cory010/article/details/150558279)
 
++ [打造医疗新质生产力](https://blog.csdn.net/2302_78391795/article/details/150582440)
+
++ [Kafka如何保证「消息不丢失」，「顺序传输」，「不重复消费」，以及为什么会发生重平衡（reblanace）](https://blog.csdn.net/qq_35165000/article/details/149930812)
+
++ [健康常识查询系统|基于java和小程序的健康常识查询系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/150581038)
+
++ [Spring Boot 日志体系详解：配置与实战](https://blog.csdn.net/weixin_43905826/article/details/150547076)
+
++ [WEB安全篇：浏览器攻击原理及防护](https://blog.csdn.net/qq_52869537/article/details/150556275)
+
++ [Https之(二)TLS的DH密钥协商算法](https://blog.csdn.net/shanshui911587154/article/details/150533909)
+

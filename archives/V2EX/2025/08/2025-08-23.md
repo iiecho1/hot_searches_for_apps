@@ -23,3 +23,5 @@
 
 + [双钻用户，签到有惊喜](https://www.v2ex.com/t/1154118)
 
++ [关于 All In Boom 到底是 Boom 在哪里？](https://www.v2ex.com/t/1154262)
+
