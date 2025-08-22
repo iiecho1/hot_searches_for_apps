@@ -101,3 +101,13 @@
 
 + [网络与信息安全有哪些岗位：（6）安全开发工程师](https://blog.csdn.net/JL54654/article/details/150580969)
 
++ [Java 大视界 -- Java 大数据在智能医疗远程会诊数据管理与协同诊断优化中的应用（402）](https://blog.csdn.net/atgfg/article/details/150561493)
+
++ [python的校园研招网系统](https://blog.csdn.net/2501_91488339/article/details/150451115)
+
++ [Java项目:基于SpringBoot和VUE的在线拍卖系统(源码+数据库+文档)](https://blog.csdn.net/qq_36595761/article/details/150593531)
+
++ [【TrOCR】模型预训练权重各个文件解读](https://blog.csdn.net/BigGod139/article/details/150593108)
+
++ [Google Chrome扩展不受信任 - 不受支持的清单版本 解决方案 -- Chrome扩展插件无法加载 扩展程序无法使用 解决方案](https://blog.csdn.net/cory010/article/details/150558279)
+
