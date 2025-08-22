@@ -217,3 +217,19 @@
 
 + [加沙超110万人濒临断粮 世卫组织警告饥荒将持续蔓延](https://news.cctv.com/2025/08/22/ARTIh49WbBHM7Xg2nDarTya1250822.shtml)
 
++ [乌克兰公开“火烈鸟”远程巡航导弹试射画面](https://news.cctv.com/2025/08/22/ARTIiy29FyButa6OxDckZoZx250822.shtml)
+
++ [澳大利亚矿企计划在南非开采新的地下金矿](https://news.cctv.com/2025/08/22/ARTIVuKfXhIPn10sEzF3kynd250822.shtml)
+
++ [加沙地带超50万人正陷入饥荒 中东首次被正式确认发生饥荒](https://news.cctv.com/2025/08/22/ARTIreeUNDxloyNasX5cZ0L3250822.shtml)
+
++ [马斯克曾邀扎克伯格助其收购OpenAI](https://news.cctv.com/2025/08/22/ARTIR2z0sX03kjAILHmz03EY250822.shtml)
+
++ [消息人士：普京向特朗普提出俄乌停火四项条件 含反对西方在乌驻军](https://news.cctv.com/2025/08/22/ARTIhvqejLna4GfVNdsDC9TK250822.shtml)
+
++ [美国两党开打“重划选区大战” 民众批“吃相难看”](https://news.cctv.com/2025/08/22/ARTIEhIJ4la1YeozoaOck7Sj250822.shtml)
+
++ [一辆尼日尔客车在贝宁坠河 造成43人死亡](https://news.cctv.com/2025/08/22/ARTIxLhtte0tQvD0Rz9Egrs7250822.shtml)
+
++ [旅德大熊猫双胞胎“梦好”“梦甜”一岁啦！](https://news.cctv.com/2025/08/22/ARTIw95lr5RDBPtA1OfTH99j250822.shtml)
+
