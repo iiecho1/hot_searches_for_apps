@@ -161,3 +161,5 @@
 
 + [以军在加沙城郊区恢复作战 警告当地平民向南撤离](https://news.cctv.com/2025/08/20/ARTIy9OIWCdAF1bPPVv09irL250820.shtml)
 
++ [加拿大宣布取消多项针对美国商品的报复性关税](https://news.cctv.com/2025/08/23/ARTIPbj0kFG20zLHWeg8fZfk250823.shtml)
+
