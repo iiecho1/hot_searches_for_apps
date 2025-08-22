@@ -233,3 +233,7 @@
 
 + [电脑芯片其实更偏向MPU不是CPU，GPU CPU NPU MPU MCU的区别](https://blog.csdn.net/2301_80317247/article/details/150592009)
 
++ [虚竹哥与机械工业出版社免费送AI书活动第七期《DeepSeek高效辅助论文写作》](https://blog.csdn.net/shi_hong_fei_hei/article/details/150586644)
+
++ [落霞归雁思维框架:把 《脑机接口工程》「意念」编译成 2025「Neuro-DevOps」数字孪生引擎](https://blog.csdn.net/debuk/article/details/150608844)
+
