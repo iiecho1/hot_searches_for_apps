@@ -205,3 +205,11 @@
 
 + [Java项目:基于SpringBoot和VUE的在线拍卖系统(源码+数据库+文档)](https://blog.csdn.net/qq_36595761/article/details/150593531)
 
++ [从虚拟化基石到云原生架构的降维打击：用dd/mkfs玩转namespace隔离，解锁Docker/K8S资源密码，看透物理机到云服务器的进化之路](https://blog.csdn.net/2401_82648291/article/details/150558511)
+
++ [如何快速上手【Spring AOP】？从动态代理到源码剖析（下篇）](https://blog.csdn.net/2301_81073317/article/details/150584652)
+
++ [Java 大视界 -- Java 大数据在智能安防人脸识别系统中的活体检测与防伪技术应用](https://blog.csdn.net/atgfg/article/details/150592438)
+
++ [Linux驱动开发笔记（五）——设备树（再下）——设备树点灯](https://blog.csdn.net/qq_56920196/article/details/149707994)
+

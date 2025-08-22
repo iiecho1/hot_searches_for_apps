@@ -197,3 +197,15 @@
 
 + [“共享中国经济高质量发展机遇”——访澳大利亚福德士河集团首席财务官梁婉心](https://news.cctv.com/2025/08/22/ARTIsXCMjfpBdRMqPuEHVBQc250822.shtml)
 
++ [阿尔及利亚东北部发生交通事故 造成3死12伤](https://news.cctv.com/2025/08/22/ARTI3GiLr9vjtY9i6pvIEkdP250822.shtml)
+
++ [因炸弹威胁 波黑塞族共和国国民议会特别会议推迟举行](https://news.cctv.com/2025/08/22/ARTIU8hclrdDl5KakaZ5Q67A250822.shtml)
+
++ [以色列一意孤行批准新建定居点住房 22国和欧盟发声谴责](https://news.cctv.com/2025/08/22/ARTIlOlq37AAGDmBiW137IFZ250822.shtml)
+
++ [澳大利亚多处海滩出现大量不明成分球状垃圾](https://news.cctv.com/2025/08/22/ARTIdR5rHm1noGxOY0UIwtA5250822.shtml)
+
++ [健康状况不佳 金建希拒绝出席23日特检组传唤调查](https://news.cctv.com/2025/08/22/ARTIajrRreBYXmckmzxQyyM6250822.shtml)
+
++ [俄发布月球探测新时间表：“月球-26”将于2028年发射](https://news.cctv.com/2025/08/22/ARTICnIafux5H5bkfIUlsqrx250822.shtml)
+
