@@ -43,3 +43,7 @@
 
 + [群联回应泄漏文件称 Win11 SSD 故障致永久数据丢失：系伪造，已法律追责](https://m.ithome.com/html/877253.htm)
 
++ [脑瘫司机靠特斯拉 FSD 开网约车养家，置换升级却遇价格困境](https://m.ithome.com/html/877383.htm)
+
++ [消息称各手机厂商下代新机对苹果生态兼容性会加深，UI 界面和 ID 设计会不同程度致敬](https://m.ithome.com/html/877382.htm)
+
