@@ -157,3 +157,5 @@
 
 + [Linux + arm 内存属性](https://blog.csdn.net/qq_38145502/article/details/150543605)
 
++ [什么是Qoder？如何下载？如何体验？Qoder和其他 AI IDE 什么区别？](https://blog.csdn.net/lyzybbs/article/details/150593498)
+

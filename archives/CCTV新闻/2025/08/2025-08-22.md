@@ -171,3 +171,11 @@
 
 + [中国驻黎巴嫩使馆提醒：勿在敏感地点场所拍照或使用无人机](https://news.cctv.com/2025/08/22/ARTIKuhlIDn1SB8y4AS4guvx250822.shtml)
 
++ [美联储公布7月货币政策会议纪要  通胀和就业面临风险](https://news.cctv.com/2025/08/22/ARTI3m90ZhHd8Dg1kTUynd6K250822.shtml)
+
++ [英法澳等国和欧盟谴责以色列批准新建定居点住房计划](https://news.cctv.com/2025/08/22/ARTIIK0Yp0REfFCy8QcIqNkU250822.shtml)
+
++ [马来西亚一战机起飞时坠毁 两名飞行员弹射逃生](https://news.cctv.com/2025/08/22/ARTIkHtIkTSjkFnf4XYjiUUF250822.shtml)
+
++ [袭击事件频发致十余人死亡 哥伦比亚所有部队进入一级戒备](https://news.cctv.com/2025/08/22/ARTIkAIVnqK8nRXydNpsD60N250822.shtml)
+
