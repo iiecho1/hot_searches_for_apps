@@ -169,3 +169,11 @@
 
 + [夜宵的 5 种吃法——扣子空间详解](https://blog.csdn.net/2301_76341691/article/details/150584742)
 
++ [Docker search 命令：高效发现容器镜像的艺术](https://blog.csdn.net/qq_41840843/article/details/149044545)
+
++ [【MCP探索实践】Google GenAI Toolbox：Google开源的企业级AI数据库中间件、5分钟搞定LLM-SQL安全互联](https://blog.csdn.net/xiaobing259/article/details/150442032)
+
++ [Hangfire定时部署（.NET 8 + SQL Server）](https://blog.csdn.net/weixin_51803498/article/details/150552312)
+
++ [【2025终极指南】电脑怎么连接打印机：从USB有线、WiFi无线到共享打印机的全方位教程](https://blog.csdn.net/2401_89926894/article/details/150529898)
+

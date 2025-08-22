@@ -179,3 +179,5 @@
 
 + [袭击事件频发致十余人死亡 哥伦比亚所有部队进入一级戒备](https://news.cctv.com/2025/08/22/ARTIkAIVnqK8nRXydNpsD60N250822.shtml)
 
++ [预期悲观、订单量疲弱 美国领先经济指数7月份继续下跌](https://news.cctv.com/2025/08/22/ARTISKRoVubm8dS7vokMCMvB250822.shtml)
+
