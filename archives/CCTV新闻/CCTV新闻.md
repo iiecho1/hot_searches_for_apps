@@ -163,3 +163,9 @@
 
 + [加拿大宣布取消多项针对美国商品的报复性关税](https://news.cctv.com/2025/08/23/ARTIPbj0kFG20zLHWeg8fZfk250823.shtml)
 
++ [荷兰外交大臣因内阁对以色列政策分歧辞职](https://news.cctv.com/2025/08/23/ARTI8rZZrjgMguaYZ6gFB1dV250823.shtml)
+
++ [矛盾再升级 特朗普发出“联邦彻底接管华盛顿”威胁](https://news.cctv.com/2025/08/23/ARTIE1kJRWlOPIrHxY3sxk7f250823.shtml)
+
++ [伊朗东南部发生武装分子袭警事件致5人死亡](https://news.cctv.com/2025/08/23/ARTId90MYZJ02C4fbJ8zmsKY250823.shtml)
+
