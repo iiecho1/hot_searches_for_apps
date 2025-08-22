@@ -61,3 +61,17 @@
 
 + [中国市场尺寸最大纯电 SUV：全新蔚来 ES8 预售，41.68 万 / 租电 30.88 万元起](https://m.ithome.com/html/877141.htm)
 
++ [OPPO 陈希：有厂商因不能及时上 12306 服务被用户差评去闹，不让我们提首发](https://m.ithome.com/html/877158.htm)
+
++ [罗永浩进军泡面赛道：推出康师傅特别特 TBT 鲜泡面限定版，约 10 元一碗](https://m.ithome.com/html/877150.htm)
+
++ [上市两月至高立减 1620 元：华为 Pura 80 Pro / Pro+ / Ultra 手机国补新低](https://m.ithome.com/html/877123.htm)
+
++ [“广电 21 条”来了！取消电视剧 40 集上限、支持优秀微短剧进入电视播出等](https://m.ithome.com/html/877168.htm)
+
++ [东方神秘力量“太神奇了”：联合国秘书长发言人迪雅里克被中国智造的“一抓一放”隔空传送技术种草](https://m.ithome.com/html/877144.htm)
+
++ [魅族 22 宣布再度跳票至 9 月：对不起，接受大家所有的批评，事不过三](https://m.ithome.com/html/877203.htm)
+
++ [小米 REDMI Note 15 Pro 手机发布：天玑 7400 Ultra、Pro+ 同款龙晶玻璃，首发 1399 元起](https://m.ithome.com/html/877104.htm)
+

@@ -191,3 +191,5 @@
 
 + [视频丨泰国刑事法庭驳回前总理他信涉嫌冒犯君主罪案指控](https://news.cctv.com/2025/08/22/ARTITnlHqEJJLnzJqniJSRvJ250822.shtml)
 
++ [美欧讨论乌克兰安全保障方案 欧洲部队由美国指挥？](https://news.cctv.com/2025/08/22/ARTIv6LrD2vw876ycO6rNhrb250822.shtml)
+
