@@ -165,3 +165,5 @@
 
 + [意大利邮政宣布暂停向美国寄送包裹](https://news.cctv.com/2025/08/24/ARTIaEupdx4bGuuMGciwLP4N250823.shtml)
 
++ [深观察丨这是“协议”还是欧盟的“损失控制文件”？](https://news.cctv.com/2025/08/24/ARTIfd9tu99QRTOEIwrupdwM250824.shtml)
+

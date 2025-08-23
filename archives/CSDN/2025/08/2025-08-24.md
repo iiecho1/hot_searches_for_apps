@@ -137,3 +137,7 @@
 
 + [【完整源码+数据集+部署教程】缺陷检测系统源码和数据集：改进yolo11-OREPA](https://blog.csdn.net/2301_78772942/article/details/150570322)
 
++ [JVM 新特性深度解读：紧跟技术前沿33](https://blog.csdn.net/yunsteel/article/details/150642489)
+
++ [unity中实现机械臂自主运动](https://blog.csdn.net/m0_58502269/article/details/150589814)
+
