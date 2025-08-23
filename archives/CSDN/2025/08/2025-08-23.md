@@ -131,3 +131,11 @@
 
 + [全栈开发：从LAMP到云原生的技术革命](https://blog.csdn.net/2301_79139273/article/details/150617129)
 
++ [VSCode中cline使用百炼平台，调用DeepSeek模型报错：API Streaming Failed 400＜400＞InternalError.Algo...如何解决？| 提供多种解决方案](https://blog.csdn.net/weixin_43970743/article/details/150606270)
+
++ [手写MyBatis第28弹：告别代理，直击本质：手写MyBatis SqlSession的增删改查奥秘](https://blog.csdn.net/weixin_67874152/article/details/150592558)
+
++ [如何将数学方法中的模糊综合评价模块化形成代码](https://blog.csdn.net/wheeldown/article/details/150619949)
+
++ [3-2〔OSCP ◈ 研记〕❘ WEB应用攻击▸WEB安全防护体系](https://blog.csdn.net/weixin_42115157/article/details/150520666)
+
