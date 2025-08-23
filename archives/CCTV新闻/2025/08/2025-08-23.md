@@ -173,3 +173,9 @@
 
 + [加沙超50万人陷入饥荒 以军或9月中旬攻加沙城](https://news.cctv.com/2025/08/23/ARTIwZrGekTD9DA8Ogbj2hbG250823.shtml)
 
++ [荷兰政府新社会契约党大臣集体辞职 内阁裂痕加剧](https://news.cctv.com/2025/08/23/ARTIDD3NfqFgk1ystOe89elo250823.shtml)
+
++ [美国袭警事件持续恶化 过去七年枪击警察案增加60%](https://news.cctv.com/2025/08/23/ARTIIV9pcGEo9LGfumQmvslF250823.shtml)
+
++ [美法官裁定特朗普政府不得因“庇护城市”政策拒绝拨款](https://news.cctv.com/2025/08/23/ARTI6GmxZw068GCVb0alfZtR250823.shtml)
+
