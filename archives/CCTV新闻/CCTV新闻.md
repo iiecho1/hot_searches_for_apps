@@ -213,3 +213,9 @@
 
 + [印度将继续对巴基斯坦航班关闭领空至9月24日](https://news.cctv.com/2025/08/23/ARTIjL5vKt0N7QaACBmuZKes250823.shtml)
 
++ [日本首相与到访的韩国总统举行会谈 讨论双边关系等问题](https://news.cctv.com/2025/08/23/ARTIZw5TrC3IvkcWpzGlQnxY250823.shtml)
+
++ [特朗普新任命38岁驻印度大使 向莫迪释放重要信号](https://news.cctv.com/2025/08/23/ARTI9HeD97AkaaClUSgMgA1w250823.shtml)
+
++ [热点问答丨加沙饥荒有多严重？外来援助管用了吗？](https://news.cctv.com/2025/08/23/ARTIMPE6x4lJ2Kir7UVK2Mda250823.shtml)
+
