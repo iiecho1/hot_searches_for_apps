@@ -179,3 +179,11 @@
 
 + [美法官裁定特朗普政府不得因“庇护城市”政策拒绝拨款](https://news.cctv.com/2025/08/23/ARTI6GmxZw068GCVb0alfZtR250823.shtml)
 
++ [通讯丨从印尼自贸区到中国自贸港——新航线为中印尼经贸合作再添新通道](https://news.cctv.com/2025/08/23/ARTIea2gGzkeJCoAiXkAbWRT250823.shtml)
+
++ [我领馆：纽约州大巴侧翻致6名中国公民受伤 其中1人重伤](https://news.cctv.com/2025/08/23/ARTIBrmrOHpxvKFcVXRRWc0b250823.shtml)
+
++ [美国一联邦法官叫停扩建“鳄鱼恶魔岛”](https://news.cctv.com/2025/08/23/ARTIHmNG6e1YbDHPcpErKZgC250823.shtml)
+
++ [朝鲜军方谴责美韩联合军演](https://news.cctv.com/2025/08/23/ARTIsgvs2aeL8AgVCkwNXQH8250823.shtml)
+
