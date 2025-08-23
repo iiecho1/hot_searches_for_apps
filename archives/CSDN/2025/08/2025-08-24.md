@@ -147,3 +147,5 @@
 
 + [k8s中的微服务](https://blog.csdn.net/2302_78529530/article/details/150618058)
 
++ [DeepSeek-V3.1 与 DeepSeek-R1 全面对比测评：架构革新与性能突破](https://blog.csdn.net/Liudef06/article/details/150584665)
+
