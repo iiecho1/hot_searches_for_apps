@@ -147,3 +147,19 @@
 
 + [FPGA 在情绪识别领域的护理应用（三）](https://blog.csdn.net/qq_43810335/article/details/150591152)
 
++ [Docker tag 命令：镜像标签管理的艺术](https://blog.csdn.net/qq_41840843/article/details/149112167)
+
++ [入校申请|基于SprinBoot+vue的入校申报审批系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/150636240)
+
++ [留守儿童|基于SprinBoot+vue的留守儿童爱心网站(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/150638380)
+
++ [SpringBoot中的条件注解](https://blog.csdn.net/weixin_73739493/article/details/150620527)
+
++ [（二十一）深入了解AVFoundation-编辑：导出视频与格式转换的全流程](https://blog.csdn.net/weixin_39339407/article/details/150265625)
+
++ [C++智能指针详解：告别内存泄漏，拥抱安全高效](https://blog.csdn.net/Zhihuiguoz/article/details/150517665)
+
++ [情感分析预训练模型之c2-roberta-base-finetuned-dianping-chinese](https://blog.csdn.net/m0_64336780/article/details/149150277)
+
++ [【完整源码+数据集+部署教程】缺陷检测系统源码和数据集：改进yolo11-OREPA](https://blog.csdn.net/2301_78772942/article/details/150570322)
+

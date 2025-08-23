@@ -189,3 +189,13 @@
 
 + [俄要求安理会就“北溪”管道爆炸事件召开紧急会议](https://news.cctv.com/2025/08/23/ARTINajYvGMxq9FYsplZaslu250823.shtml)
 
++ [日本东京一餐饮楼内发生喷洒催泪喷雾事件 多人受伤](https://news.cctv.com/2025/08/23/ARTItjwv6N1C8LcD3S82HUlT250823.shtml)
+
++ [马杜罗谴责美国企图颠覆委内瑞拉政权](https://news.cctv.com/2025/08/23/ARTIbHYhCQ2CUBz5MwUyQI6a250823.shtml)
+
++ [泽连斯基会晤北约秘书长 要求提供“真正有效”安全保障](https://news.cctv.com/2025/08/23/ARTIO0hjg7Kvczvz8eLYwXuy250823.shtml)
+
++ [北美观察丨阿拉斯加会后无果 特朗普再启两周“计时器”](https://news.cctv.com/2025/08/23/ARTIxp6zqFxtr0xpe4wuSj7e250823.shtml)
+
++ [乌克兰空军一架米格-29战斗机失事 飞行员死亡](https://news.cctv.com/2025/08/23/ARTIfaSxNVG4zyhxg8YoWZIo250823.shtml)
+
