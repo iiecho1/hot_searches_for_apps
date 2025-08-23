@@ -161,3 +161,7 @@
 
 + [土耳其对以色列相关船只实施全面限制措施](https://news.cctv.com/2025/08/21/ARTI39uBvjwYFnDsUarRHnS1250821.shtml)
 
++ [受美关税政策影响 印度将暂停向美国寄送包裹](https://news.cctv.com/2025/08/24/ARTIGDhTkCaipia3DJuKK8Gg250823.shtml)
+
++ [意大利邮政宣布暂停向美国寄送包裹](https://news.cctv.com/2025/08/24/ARTIaEupdx4bGuuMGciwLP4N250823.shtml)
+

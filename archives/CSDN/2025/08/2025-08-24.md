@@ -109,3 +109,31 @@
 
 + [全栈开发：从LAMP到云原生的技术革命](https://blog.csdn.net/2301_79139273/article/details/150617129)
 
++ [【图像算法 - 21】慧眼识虫：基于深度学习与OpenCV的农田害虫智能识别系统](https://blog.csdn.net/qq_42910179/article/details/150618004)
+
++ [opencv学习：图像边缘检测](https://blog.csdn.net/2302_76756558/article/details/150590350)
+
++ [Coze用户退出登录流程分析-后端源码](https://blog.csdn.net/lypzcgf/article/details/150657464)
+
++ [金融风控AI引擎：实时反欺诈系统的架构设计与实现](https://blog.csdn.net/IRpickstars/article/details/150613924)
+
++ [【MCP探索实践】Google GenAI Toolbox：Google开源的企业级AI数据库中间件、5分钟搞定LLM-SQL安全互联](https://blog.csdn.net/xiaobing259/article/details/150442032)
+
++ [Qt/C++开发监控GB28181系统/图像抓拍/报警自动抓拍图像/警情订阅通知/抓拍多张图像](https://blog.csdn.net/feiyangqingyun/article/details/150572176)
+
++ [【Linux | 网络】多路转接IO之select](https://blog.csdn.net/qq_55401402/article/details/149618669)
+
++ [【Java后端】 Spring Boot 集成 Redis 全攻略](https://blog.csdn.net/qq_41688840/article/details/150620780)
+
++ [健康常识查询系统|基于java和小程序的健康常识查询系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/150581038)
+
++ [MiniOB环境部署开发(使用Docker)](https://blog.csdn.net/weixin_52282409/article/details/150616851)
+
++ [那些关于Linear Regression的时光1](https://blog.csdn.net/nuglifejcx/article/details/150655380)
+
++ [在WSL2 Ubuntu中部署FastDFS服务的完整指南](https://blog.csdn.net/u012855229/article/details/150648974)
+
++ [深度解析游戏引擎中的相机：视图矩阵](https://blog.csdn.net/2503_92624912/article/details/150591762)
+
++ [【完整源码+数据集+部署教程】缺陷检测系统源码和数据集：改进yolo11-OREPA](https://blog.csdn.net/2301_78772942/article/details/150570322)
+

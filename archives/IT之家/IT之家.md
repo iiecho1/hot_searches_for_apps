@@ -49,3 +49,9 @@
 
 + [消息称小米将推出 LTE 智能手表：内置独立 eUICC 芯片 eSIM、搭载 930 毫安时电池强调续航](https://m.ithome.com/html/877492.htm)
 
++ [OPPO Find X9 Pro 完整规格曝光：7500mAh 大电池 + 全新三摄系统](https://m.ithome.com/html/877401.htm)
+
++ [鸿蒙智行智界品牌还有“惊喜”未公布，产品总监称团队依然没有放弃“那件事”](https://m.ithome.com/html/877433.htm)
+
++ [小米 REDMI Note 15R 官方上架：8+256GB 版本 1499 元，高通骁龙 6s Gen3 处理器 + 7000mAh 金沙江电池](https://m.ithome.com/html/877428.htm)
+
