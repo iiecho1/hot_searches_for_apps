@@ -189,3 +189,5 @@
 
 + [常德二院全栈国产化实践：KingbaseES 数据库的关键作用](https://blog.csdn.net/2301_80350265/article/details/150534378)
 
++ [教育场景下禁用html5播放器拖动进度条的例子](https://blog.csdn.net/ffffffff8/article/details/150589119)
+

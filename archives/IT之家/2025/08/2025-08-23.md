@@ -51,3 +51,21 @@
 
 + [OPPO Find X9 Pro 完整规格曝光：7500mAh 大电池 + 全新三摄系统](https://m.ithome.com/html/877401.htm)
 
++ [一代“国民车”复活在即，全新奇瑞 QQ 将亮相 2025 成都车展](https://m.ithome.com/html/877460.htm)
+
++ [历史性协议：美国政府 89 亿美元入股英特尔，占股 9.9%](https://m.ithome.com/html/877440.htm)
+
++ [小米 YU7 遭逆行水泥罐车撞击：行车记录仪第一视角曝光，车主平安无事感谢小米关怀](https://m.ithome.com/html/877507.htm)
+
++ [鸿蒙智行智界品牌还有“惊喜”未公布，产品总监称团队依然没有放弃“那件事”](https://m.ithome.com/html/877433.htm)
+
++ [小米 REDMI Note 15R 官方上架：8+256GB 版本 1499 元，高通骁龙 6s Gen3 处理器 + 7000mAh 金沙江电池](https://m.ithome.com/html/877428.htm)
+
++ [《黑神话：悟空》因游戏 DLC“未能如期推出”遭玩家差评轰炸，Steam 过去 30 天好评率降至 93%](https://m.ithome.com/html/877510.htm)
+
++ [豆瓣 8.6 分：电影《青蛇》4K 加长版今日上映，32 年后传奇再现大银幕](https://m.ithome.com/html/877487.htm)
+
++ [华为 9 月 19 日将在巴黎举行全球发布会，WATCH GT 6、手机平板新品登场](https://m.ithome.com/html/877473.htm)
+
++ [北京：轨道交通列车最高运行速度将提升至每小时 120 公里](https://m.ithome.com/html/877479.htm)
+
