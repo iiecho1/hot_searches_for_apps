@@ -181,3 +181,11 @@
 
 + [Vue2+Vue3前端开发_Day5](https://blog.csdn.net/weixin_40483399/article/details/150593653)
 
++ [DeepSeek R2难产：近期 DeepSeek-V3.1 发布，迈向 Agent 时代的第一步](https://blog.csdn.net/qq_44866828/article/details/150590832)
+
++ [微信小程序- 云开发上传并部署云函数时报错ResourceNotFound.Function, 未找到函数版本，请创建后再试。（小程序上传部署云函数提示错误，开发控制台中的云函数没有删除，详细排查）](https://blog.csdn.net/weixin_44198965/article/details/150638772)
+
++ [【Java后端】【可直接落地的 Redis 分布式锁实现】](https://blog.csdn.net/qq_41688840/article/details/150620820)
+
++ [常德二院全栈国产化实践：KingbaseES 数据库的关键作用](https://blog.csdn.net/2301_80350265/article/details/150534378)
+
