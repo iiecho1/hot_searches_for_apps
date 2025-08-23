@@ -187,3 +187,5 @@
 
 + [朝鲜军方谴责美韩联合军演](https://news.cctv.com/2025/08/23/ARTIsgvs2aeL8AgVCkwNXQH8250823.shtml)
 
++ [俄要求安理会就“北溪”管道爆炸事件召开紧急会议](https://news.cctv.com/2025/08/23/ARTINajYvGMxq9FYsplZaslu250823.shtml)
+
