@@ -125,3 +125,9 @@
 
 + [FPGA DP1.4 With DSC解决方案](https://blog.csdn.net/m0400220334/article/details/150590441)
 
++ [【深度学习计算性能】07：参数服务器](https://blog.csdn.net/Morse_Chen/article/details/150592450)
+
++ [金融风控AI引擎：实时反欺诈系统的架构设计与实现](https://blog.csdn.net/IRpickstars/article/details/150613924)
+
++ [全栈开发：从LAMP到云原生的技术革命](https://blog.csdn.net/2301_79139273/article/details/150617129)
+
