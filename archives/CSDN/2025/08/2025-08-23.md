@@ -163,3 +163,7 @@
 
 + [【完整源码+数据集+部署教程】缺陷检测系统源码和数据集：改进yolo11-OREPA](https://blog.csdn.net/2301_78772942/article/details/150570322)
 
++ [2025机器学习全栈指南：从核心算法到量子AI实践](https://blog.csdn.net/2201_76054814/article/details/150636524)
+
++ [学生考勤系统|基于Springboot的大学生考勤系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/150636358)
+

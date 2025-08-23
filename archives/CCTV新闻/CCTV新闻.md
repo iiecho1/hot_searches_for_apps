@@ -199,3 +199,5 @@
 
 + [乌克兰空军一架米格-29战斗机失事 飞行员死亡](https://news.cctv.com/2025/08/23/ARTIfaSxNVG4zyhxg8YoWZIo250823.shtml)
 
++ [法国邮政宣布暂停向美国寄送包裹](https://news.cctv.com/2025/08/23/ARTIECGefz7AkoVAVbXrh56u250823.shtml)
+

@@ -47,3 +47,7 @@
 
 + [消息称各手机厂商下代新机对苹果生态兼容性会加深，UI 界面和 ID 设计会不同程度致敬](https://m.ithome.com/html/877382.htm)
 
++ [消息称苹果 iPhone 18 系列没有取消拍照按键，改用纯压感方案](https://m.ithome.com/html/877357.htm)
+
++ [OPPO Find X9 Pro 完整规格曝光：7500mAh 大电池 + 全新三摄系统](https://m.ithome.com/html/877401.htm)
+
