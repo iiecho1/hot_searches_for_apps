@@ -191,3 +191,13 @@
 
 + [教育场景下禁用html5播放器拖动进度条的例子](https://blog.csdn.net/ffffffff8/article/details/150589119)
 
++ [实现自己的AI视频监控系统-第一章-视频拉流与解码4（重点）](https://blog.csdn.net/soulproficiency/article/details/150616174)
+
++ [（纯新手教学）计算机视觉（opencv）实战六——图像形态学（腐蚀、膨胀、开运算、闭运算、梯度、顶帽、黑帽）](https://blog.csdn.net/2302_78022640/article/details/150590934)
+
++ [在 CentOS 7 上搭建 OpenTenBase 集群：从源码到生产环境的全流程指南](https://blog.csdn.net/2301_76341691/article/details/150647283)
+
++ [Spring 框架深度解析：从核心原理到实战应用](https://blog.csdn.net/ankleless/article/details/150618317)
+
++ [微信小程序：云函数报错errCode: -404011 cloud function execution error | errMsg: cloud.callFunction:fail request](https://blog.csdn.net/weixin_50545213/article/details/150643930)
+
