@@ -149,3 +149,5 @@
 
 + [DeepSeek-V3.1 与 DeepSeek-R1 全面对比测评：架构革新与性能突破](https://blog.csdn.net/Liudef06/article/details/150584665)
 
++ [通俗讲解LLM原理：Transformer架构（深度好文）](https://blog.csdn.net/Peter_Changyb/article/details/150639146)
+
