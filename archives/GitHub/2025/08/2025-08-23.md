@@ -27,3 +27,25 @@
 
 + [Leantime/leantime](https://github.com/Leantime/leantime)
 
++ [plait-board/drawnix](https://github.com/plait-board/drawnix)
+
++ [Budibase/budibase](https://github.com/Budibase/budibase)
+
++ [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
++ [zigtools/zls](https://github.com/zigtools/zls)
+
++ [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
+
++ [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app)
+
++ [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+
++ [google/highway](https://github.com/google/highway)
+
++ [chartdb/chartdb](https://github.com/chartdb/chartdb)
+
++ [pestphp/pest](https://github.com/pestphp/pest)
+
++ [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
+

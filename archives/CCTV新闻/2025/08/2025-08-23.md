@@ -219,3 +219,7 @@
 
 + [热点问答丨加沙饥荒有多严重？外来援助管用了吗？](https://news.cctv.com/2025/08/23/ARTIMPE6x4lJ2Kir7UVK2Mda250823.shtml)
 
++ [日韩领导人召开联合记者会 双方同意加强合作](https://news.cctv.com/2025/08/23/ARTIigWz1WTe0C4AwwCo6SrV250823.shtml)
+
++ [关联犯罪！南非一安保公司被查缴226支AK-47步枪](https://news.cctv.com/2025/08/23/ARTIbxCon635I0rzyqRmtlXW250823.shtml)
+
