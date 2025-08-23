@@ -201,3 +201,9 @@
 
 + [法国邮政宣布暂停向美国寄送包裹](https://news.cctv.com/2025/08/23/ARTIECGefz7AkoVAVbXrh56u250823.shtml)
 
++ [乌克兰基辅传出爆炸声 防空系统正在工作](https://news.cctv.com/2025/08/23/ARTIinjoJRoTLHMkp8ZqX0F9250823.shtml)
+
++ [新研究提示孕期慎用止痛退烧药对乙酰氨基酚](https://news.cctv.com/2025/08/23/ARTI8icOmVF3Cz6z2lgrO2Vy250823.shtml)
+
++ [“北溪”管道被毁细节曝光 遭至少4枚定时炸弹引爆](https://news.cctv.com/2025/08/23/ARTIprRnSkoNqWImffrbAXsw250823.shtml)
+

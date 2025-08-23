@@ -167,3 +167,7 @@
 
 + [学生考勤系统|基于Springboot的大学生考勤系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/150636358)
 
++ [【数据库系列】PostgreSQL 连接池](https://blog.csdn.net/qyj19920704/article/details/150538710)
+
++ [Redis过期数据清理大揭秘:双剑合璧的惰性与定期删除策略](https://blog.csdn.net/qq_44378083/article/details/149149418)
+
