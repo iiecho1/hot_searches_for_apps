@@ -193,3 +193,15 @@
 
 + [C++ 单例模式学习](https://blog.csdn.net/qq_33728095/article/details/150587626)
 
++ [Apache IoTDB：国产时序数据库的崛起与工业物联网的未来](https://blog.csdn.net/qq_57761637/article/details/150699606)
+
++ [Java霸主未逝：不可撼动的生态与新特性的革命潜力](https://blog.csdn.net/lilinhai548/article/details/150699267)
+
++ [Vue3+Spring Boot技术栈，前端提交混合表单数据（普通字段+文件字段），上传文件，后端插入数据，将文件保存到数据库](https://blog.csdn.net/BillKu/article/details/150589191)
+
++ [2025年8月新算法—云漂移优化算法（Cloud Drift Optimization Algorithm, CDO）](https://blog.csdn.net/m0_58857684/article/details/150590189)
+
++ [【GM3568JHF】FPGA+ARM异构开发板 测试命令](https://blog.csdn.net/ShiMetaPi/article/details/150609068)
+
++ [⸢ 零 ⸥ ⤳ 安全体系构建内容结构](https://blog.csdn.net/weixin_42115157/article/details/149926695)
+
