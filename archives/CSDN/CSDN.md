@@ -103,3 +103,41 @@
 
 + [【GaussDB】全密态等值查询功能测试及全密态技术介绍](https://blog.csdn.net/wwwwwwgame/article/details/150619105)
 
++ [基于Java、GeoTools与PostGIS的对跖点求解研究](https://blog.csdn.net/yelangkingwuzuhu/article/details/150714201)
+
++ [AI 客服困境分析：数据库云平台视角下的 Dify 与 Claude Code 应用优化](https://blog.csdn.net/hezuijiudexiaobai/article/details/150705666)
+
++ [耗时一周巨作——全面解析Coze工作流，实例搭建热门AI Agent](https://blog.csdn.net/2401_87533975/article/details/150620128)
+
++ [在 CentOS 7 上搭建 OpenTenBase 集群：从源码到生产环境的全流程指南](https://blog.csdn.net/2301_76341691/article/details/150647283)
+
++ [【GM3568JHF】FPGA+ARM异构开发板 测试命令](https://blog.csdn.net/ShiMetaPi/article/details/150609068)
+
++ [k8s中的微服务](https://blog.csdn.net/2302_78529530/article/details/150618058)
+
++ [基于Spark的热门旅游景点数据分析系统的设计-django+spider](https://blog.csdn.net/shmp54/article/details/150657808)
+
++ [Docker 容器（一）](https://blog.csdn.net/2301_80103998/article/details/150656350)
+
++ [社区服务|基于SSM的智能社区服务小程序的系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/150636887)
+
++ [机器人爆发、汽车换代，速腾聚创开始讲新故事](https://blog.csdn.net/GZZN2019/article/details/150619139)
+
++ [线性回归学习](https://blog.csdn.net/2301_78439434/article/details/150616442)
+
++ [AI实现超级客户端打印 支持APP 网页 小程序 调用本地客户端打印](https://blog.csdn.net/luck332/article/details/150654826)
+
++ [【小程序-慕尚花坊02】网络请求封装和注意事项](https://blog.csdn.net/m0_59269218/article/details/150726050)
+
++ [epoll 内核原理深度剖析与高效使用指南 —— 一文吃透 epoll 的魔鬼细节](https://blog.csdn.net/2302_80105876/article/details/150534312)
+
++ [⸢ 零 ⸥ ⤳ 安全体系构建内容结构](https://blog.csdn.net/weixin_42115157/article/details/149926695)
+
++ [CS 创世 SD NAND 助力 T-BOX：破解智能汽车数字中枢的存储密码](https://blog.csdn.net/weixin_37800531/article/details/150619099)
+
++ [论文阅读：VACE: All-in-One Video Creation and Editing](https://blog.csdn.net/a486259/article/details/150720248)
+
++ [基于SpringBoot+Vue框架的高校论坛系统 博客论坛系统 论坛小程序](https://blog.csdn.net/lybysj668/article/details/150507705)
+
++ [logback-spring.xml 文件](https://blog.csdn.net/m0_46433333/article/details/150608091)
+

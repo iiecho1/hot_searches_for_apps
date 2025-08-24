@@ -161,3 +161,7 @@
 
 + [澳大利亚多处海滩出现大量不明成分球状垃圾](https://news.cctv.com/2025/08/22/ARTIdR5rHm1noGxOY0UIwtA5250822.shtml)
 
++ [多国宣布暂停向美国寄送包裹将带来哪些影响？](https://news.cctv.com/2025/08/25/ARTIgsXuarNgx8z0YiBXePXk250824.shtml)
+
++ [“喀秋莎”两岁啦 莫斯科动物园为首只在俄出生大熊猫庆生](https://news.cctv.com/2025/08/25/ARTIg1hFmT3zV8chy8AnCPhL250824.shtml)
+
