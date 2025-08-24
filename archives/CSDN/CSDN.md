@@ -219,3 +219,7 @@
 
 + [KingbaseES数据库：KDTS迁移工具使用指南](https://blog.csdn.net/weixin_43151418/article/details/150502453)
 
++ [K8s 服务暴露路径 (metallb + cilium LB) 和 连接存活机制](https://blog.csdn.net/hezuijiudexiaobai/article/details/150707062)
+
++ [全国网络安全知识竞赛有哪些](https://blog.csdn.net/tinzoom/article/details/150642722)
+

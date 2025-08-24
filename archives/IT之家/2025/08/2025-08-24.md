@@ -55,3 +55,25 @@
 
 + [小米 REDMI Note 15R 官方上架：8+256GB 版本 1499 元，高通骁龙 6s Gen3 处理器 + 7000mAh 金沙江电池](https://m.ithome.com/html/877428.htm)
 
++ [华为靳玉志谈辅助驾驶收费：世界上没有免费的东西，羊毛出在羊身上](https://m.ithome.com/html/877572.htm)
+
++ [小米神秘伪装车现身街头，有望为长轴距 SU7L 车型](https://m.ithome.com/html/877598.htm)
+
++ [保时捷、兰博基尼等近年来首次集体缺席，2025 成都车展不见豪车馆](https://m.ithome.com/html/877573.htm)
+
++ [OPPO 回应被苹果起诉员工窃密：并未侵犯其商业秘密，相信公正的司法审理能够澄清事实](https://m.ithome.com/html/877574.htm)
+
++ [网传奇瑞应届生员工发邮件反对周六培训开会，当事人发帖称“已离职”](https://m.ithome.com/html/877612.htm)
+
++ [再度登顶！“小孩”曾卓君夺得 2025 电竞世界杯《街头霸王 6》冠军](https://m.ithome.com/html/877579.htm)
+
++ [苹果 iOS 26 将为 iPhone 16 系列带来 Qi2.2 无线充电支持，最高功率 25W](https://m.ithome.com/html/877580.htm)
+
++ [3.69 万元续航加量不加价，2025 款奇瑞 QQ 冰淇淋 205 圣代版纯电小车上市](https://m.ithome.com/html/877557.htm)
+
++ [微信步数判断好友是否已读消息方法登上热搜，网友锐评“闲的蛋疼”](https://m.ithome.com/html/877641.htm)
+
++ [4K 超高清频道年内将落地湖南、东方、江苏、浙江、山东、四川 6 家卫视](https://m.ithome.com/html/877569.htm)
+
++ [百度网盘更新惹争议：悄悄安装“智能看图”插件，接管 Windows 图片默认打开方式](https://m.ithome.com/html/877643.htm)
+
