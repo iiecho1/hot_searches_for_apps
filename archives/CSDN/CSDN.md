@@ -205,3 +205,9 @@
 
 + [⸢ 零 ⸥ ⤳ 安全体系构建内容结构](https://blog.csdn.net/weixin_42115157/article/details/149926695)
 
++ [重塑创意边界：通义万相2.2+DeepSeek+Qwen-Image多模态视频生成实战](https://blog.csdn.net/Liudef06/article/details/150563907)
+
++ [高并发AI服务部署方案：vLLM、TGI、FastChat性能压测报告](https://blog.csdn.net/IRpickstars/article/details/150700715)
+
++ [深入剖析Spring Boot应用启动全流程](https://blog.csdn.net/cyf123__/article/details/150649275)
+

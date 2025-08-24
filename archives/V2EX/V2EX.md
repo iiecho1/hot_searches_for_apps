@@ -61,3 +61,5 @@
 
 + [网上传美团退款显示到账实际上并没有到账，大家怎么看待？](https://www.v2ex.com/t/1154526)
 
++ [代申请 telegram API（appid）](https://www.v2ex.com/t/1154528)
+

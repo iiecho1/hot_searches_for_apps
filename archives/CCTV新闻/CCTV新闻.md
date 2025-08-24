@@ -207,3 +207,11 @@
 
 + [乌称袭击俄波罗的海地区最大海运枢纽](https://news.cctv.com/2025/08/24/ARTIgaz2Q6rLZBr0wPuDfVqy250824.shtml)
 
++ [加沙地带已有289人因饥荒和营养不良死亡](https://news.cctv.com/2025/08/24/ARTIFZ7PwrPlQKua1Mv6gozk250824.shtml)
+
++ [俄罗斯莫斯科市中心一儿童商店发生燃气爆炸](https://news.cctv.com/2025/08/24/ARTIrJXNcBTyTIArFQ5Zcs1X250824.shtml)
+
++ [尾部喷出火花 马来西亚空军F-18战机坠毁视频公布](https://news.cctv.com/2025/08/24/ARTIeKBKtlfH0GEjj706RQ2T250824.shtml)
+
++ [涉嫌作伪证等 韩检方对前国务总理韩德洙提出拘留申请](https://news.cctv.com/2025/08/24/ARTIv3tyJ7mg6WK36jLZ77on250824.shtml)
+
