@@ -149,3 +149,7 @@
 
 + [yolov13资料](https://blog.csdn.net/m0_64661770/article/details/150614281)
 
++ [Elasticsearch：什么是神经网络？](https://blog.csdn.net/UbuntuTouch/article/details/150634162)
+
++ [2025年高教社杯全国大学生数学建模竞赛题目代码和思路预定](https://blog.csdn.net/qq_59747472/article/details/150605616)
+

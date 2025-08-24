@@ -47,3 +47,15 @@
 
 + [上汽名爵全新 MG4 纯电小车预售订单 3 万台：7.38 万元起，8 月 29 日上市](https://m.ithome.com/html/877466.htm)
 
++ [魅族 22 手机「建筑长焦暗光」拍摄样张公布，vivo、华为、OPPO、小米最新旗舰作陪](https://m.ithome.com/html/877648.htm)
+
++ [62 岁大国工匠单手焊坦克，工作 40 多年来交出的全是 100% 合格产品](https://m.ithome.com/html/877633.htm)
+
++ [鸿蒙智行尚界 H5 陶瓷白车色官图公布，明日开启预订](https://m.ithome.com/html/877666.htm)
+
++ [华为鸿蒙 HarmonyOS 4.X 系统“全新小艺”获 12.2.6.402 众测升级，支持 NEXT 同款 UI / 智能体](https://m.ithome.com/html/877620.htm)
+
++ [美团“团购过期自动退”曝实际订单退款未到账，官方回应“若遇情况可提供其他银行账户进行退款”](https://m.ithome.com/html/877619.htm)
+
++ [15000mAh！真我海外预热超大电池容量手机](https://m.ithome.com/html/877602.htm)
+
