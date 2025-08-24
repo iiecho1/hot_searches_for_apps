@@ -65,3 +65,5 @@
 
 + [Moto Edge 国行系统强行追加 114 DNS 的探究](https://www.v2ex.com/t/1154563)
 
++ [看完小孩 2025 EWC 街霸六 卫冕冠军，很有感触](https://www.v2ex.com/t/1154540)
+

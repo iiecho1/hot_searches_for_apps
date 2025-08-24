@@ -217,3 +217,5 @@
 
 + [本轮巴以冲突已致加沙地带62686人死亡](https://news.cctv.com/2025/08/24/ARTICL47OWcYOpUNGxDKDSEi250824.shtml)
 
++ [加拿大总理：9月将向乌克兰移交超10亿美元武器装备](https://news.cctv.com/2025/08/24/ARTIF70GRPNfmaTV4UX8Km2W250824.shtml)
+
