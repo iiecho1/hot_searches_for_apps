@@ -223,3 +223,19 @@
 
 + [全国网络安全知识竞赛有哪些](https://blog.csdn.net/tinzoom/article/details/150642722)
 
++ [用 Bright Data MCP Server 构建实时数据驱动的 AI 情报系统：从市场调研到技术追踪的自动化实战](https://blog.csdn.net/2301_80863610/article/details/150708641)
+
++ [【花雕动手做】Scratch Arcade 创客版 ESP32S3 游戏机开发板之反弹的球](https://blog.csdn.net/weixin_41659040/article/details/150698047)
+
++ [【产品经理修炼之道】-在线教育平台系统体系构建](https://blog.csdn.net/xiaoli8748/article/details/150712634)
+
++ [Bright Data MCP：突破AI数据获取限制的革命性工具](https://blog.csdn.net/2302_79177254/article/details/150706331)
+
++ [【Linux系列】macOS（MacBook）上获取 MAC 地址](https://blog.csdn.net/qyj19920704/article/details/150538743)
+
++ [MySQL數據庫開發教學(二) 核心概念、重要指令](https://blog.csdn.net/2501_92376690/article/details/150704691)
+
++ [react相关知识](https://blog.csdn.net/qq_53414785/article/details/150619586)
+
++ [Python学习 -- MySQL数据库的查询及案例](https://blog.csdn.net/m0_59691930/article/details/150591439)
+
