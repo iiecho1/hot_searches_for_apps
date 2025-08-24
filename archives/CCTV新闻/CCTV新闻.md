@@ -193,3 +193,15 @@
 
 + [第四批援所罗门群岛中国医疗队首次开展外岛义诊](https://news.cctv.com/2025/08/24/ARTIZsNuepmtaVGBmDmqo6rj250824.shtml)
 
++ [夏威夷基拉韦火山近8个月来第31次喷发](https://news.cctv.com/2025/08/24/ARTInVE7cBhBRKpgo43xfxaS250824.shtml)
+
++ [联合国：也门1800万人将面临更严峻粮食危机](https://news.cctv.com/2025/08/24/ARTIv7z0aI8vj7LDwieRDYEk250824.shtml)
+
++ [挪威向乌克兰提供约7亿美元以加强防空系统](https://news.cctv.com/2025/08/24/ARTImAiGgWD8DcJS2stRC3nZ250824.shtml)
+
++ [上合组织天津峰会｜专访：上合组织为维护地区和平、促进世界发展提供务实典范——访柬埔寨皇家科学院国际关系研究所所长金平](https://news.cctv.com/2025/08/24/ARTI8KjLpTOq4T2vg6NkuMQv250824.shtml)
+
++ [五角大楼被曝“悄悄阻止”乌克兰使用远程导弹打击俄罗斯](https://military.cctv.com/2025/08/24/ARTIlbu36F0D1uJ6SAQCi7Jz250824.shtml)
+
++ [特朗普的俄乌和谈计划迅速搁浅？](https://news.cctv.com/2025/08/24/ARTIPXDb72oxEv97g2pKo4It250824.shtml)
+
