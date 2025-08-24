@@ -47,3 +47,7 @@
 
 + [读研 or 工作，听听大家的意见](https://www.v2ex.com/t/1154503)
 
++ [有哪些性能稳定覆盖大的 mesh 路由器推荐？](https://www.v2ex.com/t/1154447)
+
++ [sing-box mixed 模式下的 DNS 解析问题](https://www.v2ex.com/t/1154461)
+

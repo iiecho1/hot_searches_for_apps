@@ -183,3 +183,7 @@
 
 + [美加州北部山火蔓延 过火面积近4700英亩](https://news.cctv.com/2025/08/24/ARTI1FSk0oo7RpL6MT5DyUlo250824.shtml)
 
++ [新技术可对废塑料进行无害化处理](https://news.cctv.com/2025/08/24/ARTIkqZUhmY6j1tqwJwd2ODf250824.shtml)
+
++ [印度进行综合防空武器系统首次飞行测试](https://news.cctv.com/2025/08/24/ARTIqRPq6jhkAaFyTdsLSsbp250824.shtml)
+
