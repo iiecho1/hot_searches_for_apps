@@ -151,3 +151,5 @@
 
 + [通俗讲解LLM原理：Transformer架构（深度好文）](https://blog.csdn.net/Peter_Changyb/article/details/150639146)
 
++ [PyTorch生成式人工智能——ACGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/150565038)
+
