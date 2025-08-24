@@ -169,3 +169,11 @@
 
 + [枪声响起 朝韩发生了什么？是谁在“挑衅”或“侵犯”？](https://news.cctv.com/2025/08/24/ARTIQF9OAtQcRGHOqu2TVD55250824.shtml)
 
++ [厄瓜多尔西部发生枪击事件致5人死亡](https://news.cctv.com/2025/08/24/ARTIwr9Y8BhuTIx0qc7pRbJ4250824.shtml)
+
++ [朝鲜试射两种新型防空导弹](https://news.cctv.com/2025/08/24/ARTISex8Fq5HFylxuMX4ewjv250824.shtml)
+
++ [“北溪”爆炸事件一重要嫌疑人落网 疑为破坏行动主要负责人](https://news.cctv.com/2025/08/24/ARTIXuUUbo9NBI2cy2c6b1zH250824.shtml)
+
++ [俄库尔斯克核电站外围变压器组发生火情](https://news.cctv.com/2025/08/24/ARTI0HlSqtks0mxYZjKineuK250824.shtml)
+
