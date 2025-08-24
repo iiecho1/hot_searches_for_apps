@@ -165,3 +165,5 @@
 
 + [“喀秋莎”两岁啦 莫斯科动物园为首只在俄出生大熊猫庆生](https://news.cctv.com/2025/08/25/ARTIg1hFmT3zV8chy8AnCPhL250824.shtml)
 
++ [文莱“中国美食之夜”展现中华传统饮食文化魅力](https://news.cctv.com/2025/08/25/ARTIRruBiecXu8nVeT6QkfkB250824.shtml)
+
