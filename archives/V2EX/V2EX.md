@@ -37,3 +37,9 @@
 
 + [请教一下浴室水压太小，买那种增压泵有没有用](https://www.v2ex.com/t/1154422)
 
++ [chatgpt 是不是不把免费用户当用户了？](https://www.v2ex.com/t/1154470)
+
++ [nstr - number → string, but looks good](https://www.v2ex.com/t/1154410)
+
++ [市场上益生菌品牌太多，求推荐实际使用效果优异的品牌](https://www.v2ex.com/t/1154416)
+
