@@ -69,3 +69,5 @@
 
 + [So Cool](https://m.acfun.cn/v/?ac=47750963)
 
++ [陈奕迅2025年Fnds纪录片 WEB-DL 2160P H265](https://m.acfun.cn/v/?ac=47749341)
+
