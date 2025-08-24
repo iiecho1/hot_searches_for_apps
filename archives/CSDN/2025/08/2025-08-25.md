@@ -153,3 +153,5 @@
 
 + [2025年高教社杯全国大学生数学建模竞赛题目代码和思路预定](https://blog.csdn.net/qq_59747472/article/details/150605616)
 
++ [HTTP接口鉴权方式](https://blog.csdn.net/jveqi/article/details/150606962)
+
