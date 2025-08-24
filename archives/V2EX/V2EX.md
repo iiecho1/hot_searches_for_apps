@@ -21,3 +21,5 @@
 
 + [小米笔记本莫名卡顿问题](https://www.v2ex.com/t/1154559)
 
++ [AirPods Pro 3 新特性都很棒啊，九月份能发布？](https://www.v2ex.com/t/1154574)
+

@@ -25,3 +25,25 @@
 
 + [百度网盘更新惹争议：悄悄安装“智能看图”插件，接管 Windows 图片默认打开方式](https://m.ithome.com/html/877643.htm)
 
++ [小米 YU7 遭逆行水泥罐车撞击：行车记录仪第一视角曝光，车主平安无事感谢小米关怀](https://m.ithome.com/html/877507.htm)
+
++ [小米 16 系列手机被曝面板黑边最窄仅 1mm，领先苹果 iPhone 16 系列](https://m.ithome.com/html/877534.htm)
+
++ [《黑神话：悟空》因游戏 DLC“未能如期推出”遭玩家差评轰炸，Steam 过去 30 天好评率降至 93%](https://m.ithome.com/html/877510.htm)
+
++ [一代“国民车”复活在即，全新奇瑞 QQ 将亮相 2025 成都车展](https://m.ithome.com/html/877460.htm)
+
++ [尾号“9999999”手机号 100 万元起拍，0 人报名流拍](https://m.ithome.com/html/877537.htm)
+
++ [历史性协议：美国政府 89 亿美元入股英特尔，占股 9.9%](https://m.ithome.com/html/877440.htm)
+
++ [豆瓣 8.6 分：电影《青蛇》4K 加长版今日上映，32 年后传奇再现大银幕](https://m.ithome.com/html/877487.htm)
+
++ [华为 9 月 19 日将在巴黎举行全球发布会，WATCH GT 6、手机平板新品登场](https://m.ithome.com/html/877473.htm)
+
++ [北京：轨道交通列车最高运行速度将提升至每小时 120 公里](https://m.ithome.com/html/877479.htm)
+
++ [消息称小米将推出 LTE 智能手表：内置独立 eUICC 芯片 eSIM、搭载 930 毫安时电池强调续航](https://m.ithome.com/html/877492.htm)
+
++ [上汽名爵全新 MG4 纯电小车预售订单 3 万台：7.38 万元起，8 月 29 日上市](https://m.ithome.com/html/877466.htm)
+

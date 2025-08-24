@@ -101,3 +101,5 @@
 
 + [全国网络安全知识竞赛有哪些](https://blog.csdn.net/tinzoom/article/details/150642722)
 
++ [【GaussDB】全密态等值查询功能测试及全密态技术介绍](https://blog.csdn.net/wwwwwwgame/article/details/150619105)
+
