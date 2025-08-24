@@ -167,3 +167,5 @@
 
 + [文莱“中国美食之夜”展现中华传统饮食文化魅力](https://news.cctv.com/2025/08/25/ARTIRruBiecXu8nVeT6QkfkB250824.shtml)
 
++ [朝中社刊文谴责韩方将半岛和地区和平安全当做交易筹码](https://news.cctv.com/2025/08/25/ARTIrhOQDTk6VAtscmJtSG80250825.shtml)
+

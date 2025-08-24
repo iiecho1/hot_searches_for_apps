@@ -155,3 +155,7 @@
 
 + [HTTP接口鉴权方式](https://blog.csdn.net/jveqi/article/details/150606962)
 
++ [KingBase数据库迁移利器：KDTS工具深度解析与实战指南](https://blog.csdn.net/Dreamy_zsy/article/details/150700268)
+
++ [【论文阅读 | arXiv 2025 | WaveMamba：面向RGB-红外目标检测的小波驱动Mamba融合方法】](https://blog.csdn.net/berling00/article/details/150706742)
+
