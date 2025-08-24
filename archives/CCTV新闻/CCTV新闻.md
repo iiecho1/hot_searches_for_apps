@@ -219,3 +219,7 @@
 
 + [加拿大总理：9月将向乌克兰移交超10亿美元武器装备](https://news.cctv.com/2025/08/24/ARTIF70GRPNfmaTV4UX8Km2W250824.shtml)
 
++ [“一带一路”再添“绿意”——探访在建阿塞拜疆最大光伏电站项目](https://news.cctv.com/2025/08/24/ARTIKJ0KHY1m6Dm3opI8w7Wg250824.shtml)
+
++ [莫斯科市中心一儿童商店爆炸致多人伤亡](https://news.cctv.com/2025/08/24/ARTIIiy5m7uhbgBWzDJ4UgVb250824.shtml)
+
