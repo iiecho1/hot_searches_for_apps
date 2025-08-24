@@ -187,3 +187,9 @@
 
 + [印度进行综合防空武器系统首次飞行测试](https://news.cctv.com/2025/08/24/ARTIqRPq6jhkAaFyTdsLSsbp250824.shtml)
 
++ [美媒称五角大楼正计划军事部署芝加哥 协助治理犯罪](https://news.cctv.com/2025/08/24/ARTIfn42PRwVpFhcbepJdCJ1250824.shtml)
+
++ [北美观察丨华盛顿之后点名芝加哥和纽约 美政府盯上民主党主政的大城市](https://news.cctv.com/2025/08/24/ARTIxG7fYSAw3cPq3WrbT7Ou250824.shtml)
+
++ [第四批援所罗门群岛中国医疗队首次开展外岛义诊](https://news.cctv.com/2025/08/24/ARTIZsNuepmtaVGBmDmqo6rj250824.shtml)
+
