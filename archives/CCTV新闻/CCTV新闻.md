@@ -215,3 +215,5 @@
 
 + [涉嫌作伪证等 韩检方对前国务总理韩德洙提出拘留申请](https://news.cctv.com/2025/08/24/ARTIv3tyJ7mg6WK36jLZ77on250824.shtml)
 
++ [本轮巴以冲突已致加沙地带62686人死亡](https://news.cctv.com/2025/08/24/ARTICL47OWcYOpUNGxDKDSEi250824.shtml)
+

@@ -39,3 +39,23 @@
 
 + [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
 
++ [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [midday-ai/midday](https://github.com/midday-ai/midday)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [django/django](https://github.com/django/django)
+
++ [nunchaku-tech/ComfyUI-nunchaku](https://github.com/nunchaku-tech/ComfyUI-nunchaku)
+
++ [Klipper3d/klipper](https://github.com/Klipper3d/klipper)
+
++ [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+
++ [RSSNext/Folo](https://github.com/RSSNext/Folo)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+
