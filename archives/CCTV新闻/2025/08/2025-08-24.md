@@ -177,3 +177,9 @@
 
 + [俄库尔斯克核电站外围变压器组发生火情](https://news.cctv.com/2025/08/24/ARTI0HlSqtks0mxYZjKineuK250824.shtml)
 
++ [追查二战日军东南亚细菌战：“可怕、肮脏、有毒”](https://news.cctv.com/2025/08/24/ARTIKqG7MKQzSYpAJIaYMUMr250824.shtml)
+
++ [从150克长到21公斤 旅德大熊猫“梦好”“梦甜”喜迎周岁生日](https://news.cctv.com/2025/08/24/ARTIc4yHox56CzlXb7zVpGwB250824.shtml)
+
++ [美加州北部山火蔓延 过火面积近4700英亩](https://news.cctv.com/2025/08/24/ARTI1FSk0oo7RpL6MT5DyUlo250824.shtml)
+

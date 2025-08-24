@@ -163,3 +163,15 @@
 
 + [【无人机】采用NOMA的节能多无人机多接入边缘计算（Matlab代码实现）](https://blog.csdn.net/weixin_66436111/article/details/150687044)
 
++ [打造医疗新质生产力](https://blog.csdn.net/2302_78391795/article/details/150582440)
+
++ [快速了解神经网络](https://blog.csdn.net/wzdzgdf/article/details/150617842)
+
++ [GitHub 热榜项目 - 日榜(2025-08-22)](https://blog.csdn.net/u014390502/article/details/150600750)
+
++ [Redis Lua脚本终极指南:原子操作+性能翻倍的秘密武器](https://blog.csdn.net/qq_44378083/article/details/149149475)
+
++ [【AGI使用教程】GPT-OSS 本地部署（1）](https://blog.csdn.net/youcans/article/details/145403110)
+
++ [Web3 的发展挑战：技术、监管与生态的多重困境](https://blog.csdn.net/2401_82363370/article/details/150589117)
+
