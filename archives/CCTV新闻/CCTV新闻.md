@@ -209,3 +209,7 @@
 
 + [加沙地带已有300人因饥荒和营养不良而死亡](https://news.cctv.com/2025/08/25/ARTIEy0TlkOD5RFSRHaxC6tf250825.shtml)
 
++ [泽连斯基宣布乌美将举行会谈 讨论俄乌和谈可能性](https://news.cctv.com/2025/08/25/ARTI90lSgwooGemjluOOZm8e250825.shtml)
+
++ [回应“泽连斯基不具合法性”质疑 乌外长：毫无根据](https://news.cctv.com/2025/08/25/ARTI8fL1hQPcTLk2qVu9Ofif250825.shtml)
+

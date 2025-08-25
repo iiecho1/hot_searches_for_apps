@@ -41,3 +41,17 @@
 
 + [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 
++ [willccbb/verifiers](https://github.com/willccbb/verifiers)
+
++ [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)
+
++ [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
++ [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+
++ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
++ [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
+

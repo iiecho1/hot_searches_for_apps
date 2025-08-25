@@ -217,3 +217,7 @@
 
 + [Zynq开发实践（Verilog、仿真、FPGA和芯片设计）](https://blog.csdn.net/feixiaoxing/article/details/150708741)
 
++ [Windows 环境下金仓 KingbaseES数据库部署指南：从硬件适配到组件运维的专业范式](https://blog.csdn.net/qq_57761637/article/details/150704195)
+
++ [鸿蒙中Snapshot分析](https://blog.csdn.net/ldc121xy716/article/details/150635459)
+
