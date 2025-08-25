@@ -225,3 +225,9 @@
 
 + [万斯：停火进展起伏不定 但俄方首次“显著让步”](https://news.cctv.com/2025/08/25/ARTIaNWgmEiDU9YHryzGeaP3250825.shtml)
 
++ [“剑鱼”在越南登陆 海南解除台风三级预警、终止防汛防风Ⅲ级应急响应](https://news.cctv.com/2025/08/25/ARTIdenfeEphgkDFZlwYlFVR250825.shtml)
+
++ [伊朗与英法德将于26日开启新一轮会谈](https://news.cctv.com/2025/08/25/ARTI3teh9DfUcZ75QGM3hdFE250825.shtml)
+
++ [西班牙一酒店发生大规模沙门氏菌感染事件](https://news.cctv.com/2025/08/25/ARTI28xzkuDM21oSk4ZLwg1f250825.shtml)
+

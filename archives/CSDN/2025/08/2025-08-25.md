@@ -233,3 +233,7 @@
 
 + [YOLOv7：重新定义实时目标检测的技术突破](https://blog.csdn.net/weixin_51390582/article/details/149534193)
 
++ [Horse3D游戏引擎研发笔记（八）：在QtOpenGL环境下，按需加载彩虹四边形的顶点属性 （Unity、Unreal Engine、Three.js与Godot）](https://blog.csdn.net/2503_92624912/article/details/150774956)
+
++ [个人搭建小网站教程（云服务器Ubuntu版本）](https://blog.csdn.net/partJava/article/details/150613649)
+
