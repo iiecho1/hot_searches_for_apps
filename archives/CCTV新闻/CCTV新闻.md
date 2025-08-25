@@ -181,3 +181,7 @@
 
 + [韩国内乱特检组对法务部和大检察厅进行扣押搜查](https://news.cctv.com/2025/08/25/ARTIX8YW079y9FPxjeutcRZC250825.shtml)
 
++ [西班牙遭遇有记录以来“最猛烈热浪”](https://news.cctv.com/2025/08/25/ARTITiENwovquUSLewGlfhcN250825.shtml)
+
++ [美国：SpaceX星舰第10次测试飞行推迟](https://photo.cctv.com/2025/08/25/PHOAdvwGp3FvvnC4tF8A6Nrt250825.shtml)
+
