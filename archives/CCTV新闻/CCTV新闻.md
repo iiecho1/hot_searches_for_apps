@@ -191,3 +191,15 @@
 
 + [继“火烈鸟”后 乌克兰再“秀肌肉”公开新型远程“海王星”导弹](https://news.cctv.com/2025/08/25/ARTIivw3rrOSpG18UQlHF0Up250825.shtml)
 
++ [细节里的“和合与共”](https://news.cctv.com/2025/08/25/ARTIhGQ0UYVvQgy22f2Y818T250825.shtml)
+
++ [构建中非命运共同体 携手实现发展权](https://news.cctv.com/2025/08/25/ARTIwtGBh8YtSxIWne7AG7qz250825.shtml)
+
++ [新闻调查｜“可怕、肮脏、有毒”——追查二战日军东南亚细菌战](https://news.cctv.com/2025/08/25/ARTIM6bLQAkMyFuTS0dAGdn4250825.shtml)
+
++ [在科隆国际游戏展看中国游戏走向世界](https://news.cctv.com/2025/08/25/ARTIMwpyUCllwgp4gnElsU5B250825.shtml)
+
++ [调查显示日本多地国道存在地下空洞 总数近五千处](https://news.cctv.com/2025/08/25/ARTIiGAQg6keQb4UKtSA7JxO250825.shtml)
+
++ [伊朗外长：“大以色列”幻想对国际和平安全构成威胁](https://news.cctv.com/2025/08/25/ARTIbMOvlV4LlNPfGj8BUhe6250825.shtml)
+
