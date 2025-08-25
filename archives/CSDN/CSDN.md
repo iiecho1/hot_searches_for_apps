@@ -101,3 +101,11 @@
 
 + [react相关知识](https://blog.csdn.net/qq_53414785/article/details/150619586)
 
++ [Apache IoTDB：国产时序数据库的崛起与工业物联网的未来](https://blog.csdn.net/qq_57761637/article/details/150699606)
+
++ [鸿蒙中Snapshot分析](https://blog.csdn.net/ldc121xy716/article/details/150635459)
+
++ [深入理解HTTPS：从概念到实战优化](https://blog.csdn.net/weixin_73059914/article/details/150661112)
+
++ [从 Unity UGUI 到 Unreal UMG 的交互与高效实践：UI 事件、坐标系适配与性能优化](https://blog.csdn.net/qq_46348216/article/details/150699204)
+
