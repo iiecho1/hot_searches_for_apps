@@ -185,3 +185,11 @@
 
 + [Flutter性能优化完全指南：构建流畅应用的实用策略](https://blog.csdn.net/tangweiguo03051987/article/details/150731912)
 
++ [Spring Boot 集成 Eclipse Mosquitto](https://blog.csdn.net/footless_bird/article/details/150763447)
+
++ [用 Python 调用 Bright Data MCP Server：在 VS Code 中实现实时网页数据抓取](https://blog.csdn.net/weixin_43151418/article/details/150499639)
+
++ [11k Star，一款能免费商用的SpringBoot+Vue开源商城系统](https://blog.csdn.net/caoli201314/article/details/150760767)
+
++ [【完整源码+数据集+部署教程】鸡蛋胚胎发育异常检测系统源码和数据集：改进yolo11-repvit](https://blog.csdn.net/weixin_43860634/article/details/150760746)
+

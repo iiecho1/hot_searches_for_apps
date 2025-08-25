@@ -185,3 +185,7 @@
 
 + [美国：SpaceX星舰第10次测试飞行推迟](https://photo.cctv.com/2025/08/25/PHOAdvwGp3FvvnC4tF8A6Nrt250825.shtml)
 
++ [美政府拟对芝加哥派兵 伊利诺伊州州长：特朗普“滥用职权”](https://news.cctv.com/2025/08/25/ARTINgJSwUMeU15fwZkJ78L1250825.shtml)
+
++ [伊朗驻俄大使：伊朗希望在近期接收俄罗斯天然气](https://news.cctv.com/2025/08/25/ARTImv7FTEWUztaXkxYjXx2F250825.shtml)
+
