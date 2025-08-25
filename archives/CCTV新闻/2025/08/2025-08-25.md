@@ -203,3 +203,9 @@
 
 + [伊朗外长：“大以色列”幻想对国际和平安全构成威胁](https://news.cctv.com/2025/08/25/ARTIbMOvlV4LlNPfGj8BUhe6250825.shtml)
 
++ [加沙医院遭以军连续袭击 视频记录救援人员施救遭袭瞬间](https://news.cctv.com/2025/08/25/ARTIlbhpBoYPET1Ncs9gjuu0250825.shtml)
+
++ [韩国特检组计划本周内对金建希提出起诉](https://news.cctv.com/2025/08/25/ARTIuhEeXE9gpvqdlI45aPLu250825.shtml)
+
++ [加沙地带已有300人因饥荒和营养不良而死亡](https://news.cctv.com/2025/08/25/ARTIEy0TlkOD5RFSRHaxC6tf250825.shtml)
+

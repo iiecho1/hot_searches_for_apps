@@ -211,3 +211,9 @@
 
 + [用 Docker 的 restart 指令重启容器，加个 --time 参数，优雅关闭不丢数据](https://blog.csdn.net/2503_92849275/article/details/150147907)
 
++ [融合DeepSeek-V3.1、Qwen-Image与腾讯混元3D：AI大语言模型驱动3D打印的革命性工作流](https://blog.csdn.net/Liudef06/article/details/150763550)
+
++ [YOLO --- YOLO11模型以及项目详解](https://blog.csdn.net/m0_73338216/article/details/150589882)
+
++ [Zynq开发实践（Verilog、仿真、FPGA和芯片设计）](https://blog.csdn.net/feixiaoxing/article/details/150708741)
+
