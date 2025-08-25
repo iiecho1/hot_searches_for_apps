@@ -169,3 +169,15 @@
 
 + [朝中社刊文谴责韩方将半岛和地区和平安全当做交易筹码](https://news.cctv.com/2025/08/25/ARTIrhOQDTk6VAtscmJtSG80250825.shtml)
 
++ [现场视频丨天空变为橙红色 美国加州北部大火已持续4天](https://news.cctv.com/2025/08/25/ARTIe3t8pFNEp2ZBRDVNuzw4250825.shtml)
+
++ [哈萨克斯坦“粉湖”湖区再度开放](https://photo.cctv.com/2025/08/25/PHOAkj6Fmj4QXXlE1coiOXZp250825.shtml)
+
++ [韩总统李在明：将与特朗普讨论安保、国防预算及关税等议题](https://news.cctv.com/2025/08/25/ARTIikQx9QtByQtEQX7RR352250825.shtml)
+
++ [外媒：印法将联合开发用于印度本土第五代战机的发动机](https://news.cctv.com/2025/08/25/ARTIgZ83Y5Wb8AREyRSR96ZB250825.shtml)
+
++ [因地面系统问题 “星舰”取消24日的第十次试飞](https://news.cctv.com/2025/08/25/ARTI1GbMYRPFbQfjo0sihKCn250825.shtml)
+
++ [韩国内乱特检组对法务部和大检察厅进行扣押搜查](https://news.cctv.com/2025/08/25/ARTIX8YW079y9FPxjeutcRZC250825.shtml)
+

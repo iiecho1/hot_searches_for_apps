@@ -161,3 +161,11 @@
 
 + [GPT-5：天变了吗？还是风停了？](https://blog.csdn.net/weixin_53004531/article/details/150642088)
 
++ [图像边缘检测](https://blog.csdn.net/weixin_72931638/article/details/150590279)
+
++ [Qoder初体验：从下载到运行OneCode-RAD的完整实战指南](https://blog.csdn.net/wenzhangli/article/details/150700179)
+
++ [【YOLOv11工业级实战】24. YOLOv11PCB缺陷检测实战——Focal Loss解决工业缺陷样本不平衡](https://blog.csdn.net/weixin_39815573/article/details/150545478)
+
++ [KingbaseES数据库：KDTS迁移工具使用指南](https://blog.csdn.net/weixin_43151418/article/details/150502453)
+
