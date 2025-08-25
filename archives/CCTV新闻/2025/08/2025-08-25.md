@@ -189,3 +189,5 @@
 
 + [伊朗驻俄大使：伊朗希望在近期接收俄罗斯天然气](https://news.cctv.com/2025/08/25/ARTImv7FTEWUztaXkxYjXx2F250825.shtml)
 
++ [继“火烈鸟”后 乌克兰再“秀肌肉”公开新型远程“海王星”导弹](https://news.cctv.com/2025/08/25/ARTIivw3rrOSpG18UQlHF0Up250825.shtml)
+
