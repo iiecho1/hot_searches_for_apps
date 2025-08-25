@@ -163,3 +163,11 @@
 
 + [特朗普称不介意就美韩贸易协议进行重新谈判](https://news.cctv.com/2025/08/26/ARTIbsmHGmoxMO1mchKcQtCi250826.shtml)
 
++ [古特雷斯强烈谴责以色列袭击加沙地带医院](https://news.cctv.com/2025/08/26/ARTIkipXzwuQv2vBX6BoRC35250826.shtml)
+
++ [特朗普：即使州长没有要求 也准备下令向城市派遣军队](https://news.cctv.com/2025/08/26/ARTIoSLo5bFO18zj8YqzQPNN250826.shtml)
+
++ [以军袭击加沙医院导致包括5名记者在内至少20人死亡](https://news.cctv.com/2025/08/26/ARTItoQPB2YErWR7ixjXyhAa250826.shtml)
+
++ [特朗普签署多项行政令 亵渎美国国旗将被起诉](https://news.cctv.com/2025/08/26/ARTIumz11Gbz0VLPeyhA1BEf250826.shtml)
+
