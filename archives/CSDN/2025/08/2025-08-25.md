@@ -159,3 +159,5 @@
 
 + [【论文阅读 | arXiv 2025 | WaveMamba：面向RGB-红外目标检测的小波驱动Mamba融合方法】](https://blog.csdn.net/berling00/article/details/150706742)
 
++ [GPT-5：天变了吗？还是风停了？](https://blog.csdn.net/weixin_53004531/article/details/150642088)
+
