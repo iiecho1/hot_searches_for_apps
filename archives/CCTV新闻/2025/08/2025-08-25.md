@@ -213,3 +213,7 @@
 
 + [回应“泽连斯基不具合法性”质疑 乌外长：毫无根据](https://news.cctv.com/2025/08/25/ARTI8fL1hQPcTLk2qVu9Ofif250825.shtml)
 
++ [视频丨一架轻型飞机在波兰坠毁 机上两人遇难](https://news.cctv.com/2025/08/25/ARTIhKwqvpPJrX5iovGPapAX250825.shtml)
+
++ [加沙地带医院遭袭致多名记者死亡 以军回应：遗憾 并非专门针对记者](https://news.cctv.com/2025/08/25/ARTIMEaoRXCXBULZltYYHKN5250825.shtml)
+
