@@ -59,3 +59,27 @@
 
 + [15000mAh！真我海外预热超大电池容量手机](https://m.ithome.com/html/877602.htm)
 
++ [8499 → 6626 元：华为 Mate70 Pro + 京东 9 折国补新低，支持 7 天价保](https://m.ithome.com/html/877705.htm)
+
++ [苹果首款折叠 iPhone 曝料：配自研 C2 基带芯片、调整屏幕方案减少折痕、Touch ID 指纹识别、无 SIM 卡槽](https://m.ithome.com/html/877720.htm)
+
++ [苹果 iPhone 17 Pro 系列爆料汇总：橙色新配色、铝金属机身、A19 Pro 芯片等](https://m.ithome.com/html/877708.htm)
+
++ [16.98 万元起：“最便宜鸿蒙智行”尚界 H5 预售，上市即搭载华为 ADS 4](https://m.ithome.com/html/877898.htm)
+
++ [网约车扫码 3 元才开空调，江苏省消保委提醒平台不该将经营压力转嫁给司机和消费者](https://m.ithome.com/html/877751.htm)
+
++ [尘埃落定：中国移动 2025 全新组织架构公布](https://m.ithome.com/html/877704.htm)
+
++ [古尔曼：苹果明年 iPhone 折叠屏手机拟全面采用 eSIM、Touch ID 而非 Face ID](https://m.ithome.com/html/877697.htm)
+
++ [美团揭露“骑手带患病子女跑单”套路：摆拍、导流、带货，手法愈发直接](https://m.ithome.com/html/877811.htm)
+
++ [22.98 万元起鸿蒙智行新款智界 S7 车型正式上市：标配华为 192 线激光雷达及 HUAWEI ADS 4 辅助驾驶](https://m.ithome.com/html/877859.htm)
+
++ [24.98 万元起全新鸿蒙智行智界 R7 车型正式上市：外观焕新首发“极光绿”车色、智驾音响传感器升级](https://m.ithome.com/html/877858.htm)
+
++ [古尔曼称 iPhone 17 系列将拉开苹果 3 年革新周期帷幕，每年都有创新产品在等你](https://m.ithome.com/html/877709.htm)
+
++ [比亚迪：极端天气不建议开启辅助驾驶，高快领航方向盘偶尔抖动是正常现象](https://m.ithome.com/html/877700.htm)
+

@@ -231,3 +231,5 @@
 
 + [高速CANFD收发器ASM1042在割草机器人轮毂电机通信系统中的适配性研究](https://blog.csdn.net/ANSILIC/article/details/150638219)
 
++ [YOLOv7：重新定义实时目标检测的技术突破](https://blog.csdn.net/weixin_51390582/article/details/149534193)
+
