@@ -221,3 +221,7 @@
 
 + [波兰总理：不打算在俄乌冲突结束后向乌克兰派兵](https://news.cctv.com/2025/08/25/ARTIpD6OtDR7lDkIDAP5gb8Y250825.shtml)
 
++ [通讯丨大熊猫“喀秋莎”两周岁 莫斯科动物园送祝福](https://news.cctv.com/2025/08/25/ARTI0k28UNd1qFqp86oAwFVq250825.shtml)
+
++ [万斯：停火进展起伏不定 但俄方首次“显著让步”](https://news.cctv.com/2025/08/25/ARTIaNWgmEiDU9YHryzGeaP3250825.shtml)
+
