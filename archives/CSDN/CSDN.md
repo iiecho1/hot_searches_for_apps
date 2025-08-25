@@ -123,3 +123,5 @@
 
 + [学生考勤系统|基于Springboot的大学生考勤系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/150636358)
 
++ [【无人机设计与控制】改进型粒子群优化算法（IPSO）的无人机三维路径规划](https://blog.csdn.net/qq_59747472/article/details/150788348)
+
