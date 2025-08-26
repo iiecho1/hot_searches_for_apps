@@ -129,3 +129,9 @@
 
 + [留守儿童|基于SprinBoot+vue的留守儿童爱心网站(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/150638380)
 
++ [TensorFlow深度学习实战（34）——TensorFlow Probability](https://blog.csdn.net/LOVEmy134611/article/details/144600078)
+
++ [【系统分析师】高分论文：论软件需求验证方法及应用](https://blog.csdn.net/cui_yonghua/article/details/150780406)
+
++ [【MySQL】基本查询](https://blog.csdn.net/qinjh_/article/details/149242934)
+

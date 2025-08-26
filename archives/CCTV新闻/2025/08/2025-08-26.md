@@ -171,3 +171,9 @@
 
 + [特朗普签署多项行政令 亵渎美国国旗将被起诉](https://news.cctv.com/2025/08/26/ARTIumz11Gbz0VLPeyhA1BEf250826.shtml)
 
++ [特朗普政府拟对印度商品征收50%关税](https://news.cctv.com/2025/08/26/ARTIziDFvYdHkizspNZcW7Oz250826.shtml)
+
++ [中国驻哥德堡总领馆提醒：切勿违法拍摄](https://news.cctv.com/2025/08/26/ARTIGnd1YDMOmw8RZJUS2mP7250826.shtml)
+
++ [德国汉堡港一仓库起火爆炸 致多人受伤](https://news.cctv.com/2025/08/26/ARTIk1FMEIv7Eow9C0hkgsRP250826.shtml)
+
