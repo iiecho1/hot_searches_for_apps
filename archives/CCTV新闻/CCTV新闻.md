@@ -213,3 +213,9 @@
 
 + [斯里兰卡前总统维克拉马辛哈被批准保释](https://news.cctv.com/2025/08/26/ARTIbKekWrofN0fqxalIhT6b250826.shtml)
 
++ [马斯克旗下公司起诉苹果和OpenAI“合谋”垄断](https://news.cctv.com/2025/08/26/ARTIxdOdn1fhdOpV1Mu0zmM5250826.shtml)
+
++ [美媒：特朗普或将“国防部”改回“战争部”](https://news.cctv.com/2025/08/26/ARTI4kvOt6sPZQr1YVzteumZ250826.shtml)
+
++ [乌称俄军炮击致矿井停电 148名矿工被困井下](https://news.cctv.com/2025/08/26/ARTIED6cuvzUl2Szz6jJuxSV250826.shtml)
+

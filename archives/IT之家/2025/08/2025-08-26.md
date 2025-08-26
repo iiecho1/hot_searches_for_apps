@@ -63,3 +63,25 @@
 
 + [奔驰 AMG GT XX 概念车刷新纯电车 24 小时耐力赛成绩，小米雷军发文祝贺“太强了”](https://m.ithome.com/html/877964.htm)
 
++ [何小鹏：很多人劝我给小鹏汽车改名，称改名销量就能翻倍](https://m.ithome.com/html/878084.htm)
+
++ [苹果 iOS / iPadOS 26 Beta 8 发布，预估是其最后 1 个开发者预览版](https://m.ithome.com/html/877980.htm)
+
++ [小米 15T 系列手机外观曝光：古铜色机身 + 徕卡标、天玑旗舰芯片](https://m.ithome.com/html/878054.htm)
+
++ [钉钉十周年宣布重做：AI 钉钉 1.0 发布，所有功能简化、五个全新产品](https://m.ithome.com/html/878010.htm)
+
++ [微信鸿蒙版 App 获 1.0.10.18 版本邀测升级：支持在系统桌面或锁屏界面接听语音通话](https://m.ithome.com/html/878070.htm)
+
++ [新一代中国操作系统银河麒麟 V11 正式发布](https://m.ithome.com/html/878059.htm)
+
++ [华为鸿蒙 HarmonyOS 6 开发者预览版 Beta 招募（三期）开启](https://m.ithome.com/html/877967.htm)
+
++ [罗永浩自曝锤子手机命名内幕：并非故意叫“锤子”](https://m.ithome.com/html/878095.htm)
+
++ [何小鹏谈重回一线完成人事大调整：大部分人主动退休，今年上半年成长 200%](https://m.ithome.com/html/878087.htm)
+
++ [蔚来重返千亿市值，销售负责人称好久没打过这么富裕的仗、不允许拉踩和诋毁竞品](https://m.ithome.com/html/878041.htm)
+
++ [预估为正式发布前的最后一版公测：苹果发布 iOS / iPadOS / macOS 26 第 5 个公测版](https://m.ithome.com/html/877984.htm)
+

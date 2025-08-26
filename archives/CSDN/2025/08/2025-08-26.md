@@ -195,3 +195,5 @@
 
 + [亚马逊云科技免费套餐新政解析与实战：数据分析与可视化平台](https://blog.csdn.net/master_hunter/article/details/150858412)
 
++ [数据可视化——matplotlib库](https://blog.csdn.net/qq1851417332/article/details/150723729)
+
