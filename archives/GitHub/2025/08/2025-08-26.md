@@ -27,3 +27,19 @@
 
 + [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
 
++ [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+
++ [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+
++ [tw93/Pake](https://github.com/tw93/Pake)
+
++ [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)
+
++ [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)
+
++ [opf/openproject](https://github.com/opf/openproject)
+
++ [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
+
++ [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+

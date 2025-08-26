@@ -207,3 +207,5 @@
 
 + [韩国首尔新增日间无人驾驶公交车线路](https://news.cctv.com/2025/08/26/ARTIj8xJVXmgV1NO0Zph2dOO250826.shtml)
 
++ [海外人士谈抗战｜专访：中国共产党是全民族抗战的中流砥柱——访古巴学者何塞·罗瓦伊纳](https://news.cctv.com/2025/08/26/ARTI9Xv5xLDlMAviF7zzamOT250826.shtml)
+

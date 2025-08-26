@@ -187,3 +187,5 @@
 
 + [Baumer高防护相机如何通过Tiny-YOLO单类模型实现人体跌倒检测与跟踪（C#代码UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/150658939)
 
++ [Kubernetes 构建高可用、高性能 Redis 集群](https://blog.csdn.net/ashina_01/article/details/150720178)
+
