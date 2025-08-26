@@ -85,3 +85,7 @@
 
 + [预估为正式发布前的最后一版公测：苹果发布 iOS / iPadOS / macOS 26 第 5 个公测版](https://m.ithome.com/html/877984.htm)
 
++ [马斯克：激光雷达会让辅助驾驶更危险，摄像头才是王道](https://m.ithome.com/html/878033.htm)
+
++ [百年来首次出现一线劳动者，淘宝闪购骑士登上《福布斯》封面](https://m.ithome.com/html/878174.htm)
+
