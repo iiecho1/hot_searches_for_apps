@@ -187,3 +187,7 @@
 
 + [乌拉圭举行宣告独立200周年纪念活动](https://photo.cctv.com/2025/08/26/PHOAPc8c3s5py9l50zHSyB86250826.shtml)
 
++ [为全球绿色发展作出“上合贡献”](https://news.cctv.com/2025/08/26/ARTIXXVxjPcpqiVhWr8VEpBC250826.shtml)
+
++ [“将先辈用生命结下的情谊传承下去”——访苏联援华航空队指挥官布拉戈维申斯基之侄诺索夫](https://news.cctv.com/2025/08/26/ARTIBgBtwVnqTPHyGLx1DiGW250826.shtml)
+

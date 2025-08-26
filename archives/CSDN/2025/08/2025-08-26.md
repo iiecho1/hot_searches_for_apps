@@ -139,3 +139,23 @@
 
 + [【Linux | 网络】多路转接IO之poll](https://blog.csdn.net/qq_55401402/article/details/149618647)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场趋势预测与投资组合优化中的应用](https://blog.csdn.net/atgfg/article/details/150638223)
+
++ [Redis ZSET 深度剖析：从命令、原理到实战](https://blog.csdn.net/2301_80863610/article/details/150783685)
+
++ [大语言模型的自动驾驶 LMDrive/DriveVLM-Dual](https://blog.csdn.net/qq_35661896/article/details/150701300)
+
++ [鸿蒙中应用闪屏解决方案](https://blog.csdn.net/ldc121xy716/article/details/150703783)
+
++ [FRP 内网穿透全流程部署指南 (Windows/Linux)](https://blog.csdn.net/y_wu794/article/details/150637146)
+
++ [AIGC智能编程：大模型代码助手巧学巧用](https://blog.csdn.net/weixin_43178406/article/details/150760521)
+
++ [【性能测试】Jmeter工具快速上手-搭建压力测试脚本](https://blog.csdn.net/2302_79806056/article/details/150497035)
+
++ [Wireshark笔记-DHCP流程与数据包解析](https://blog.csdn.net/qq78442761/article/details/150768010)
+
++ [Redis RDB快照揭秘:边拍照边服务，高并发下的零阻塞艺术](https://blog.csdn.net/qq_44378083/article/details/149149917)
+
++ [信号处理的核心机制：从保存、处理到可重入性与volatile](https://blog.csdn.net/2402_84532723/article/details/150285848)
+

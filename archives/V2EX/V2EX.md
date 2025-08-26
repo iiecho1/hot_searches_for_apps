@@ -33,3 +33,11 @@
 
 + [谷歌 Pixel 10 快出了, 三年 iPhone 13 用户换到 Pixel 9 Pro, 来扒下 Google Pixel 手机的底裤!](https://www.v2ex.com/t/1154845)
 
++ [大家有啥精简做饭的技巧吗？](https://www.v2ex.com/t/1154894)
+
++ [房子该不该卖了](https://www.v2ex.com/t/1154878)
+
++ [[v2ex 批量空投]vibe 了一个周, 总算是搞出来了, 期间很是曲折, 会另开一个新帖介绍](https://www.v2ex.com/t/1154854)
+
++ [Office365 订阅 2 元/年竟然没有人分享？](https://www.v2ex.com/t/1154816)
+
