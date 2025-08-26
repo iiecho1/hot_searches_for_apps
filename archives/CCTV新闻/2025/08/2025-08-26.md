@@ -199,3 +199,11 @@
 
 + [坦桑尼亚桑给巴尔总统向中国援桑医疗队授勋](https://news.cctv.com/2025/08/26/ARTI9TiZV9etoSEJTcS6NP6k250826.shtml)
 
++ [过火面积逾6万公顷 葡萄牙有记录以来最大林火受控](https://news.cctv.com/2025/08/26/ARTIcC85dTNqkpANuhcMOATE250826.shtml)
+
++ [时间已定！8月27日零时起，美国将对印度征50%关税](https://news.cctv.com/2025/08/26/ARTIZZ9LRsbmjeJDkNzlNPv6250826.shtml)
+
++ [失去动力 故障邮轮终抵达意大利那不勒斯港](https://news.cctv.com/2025/08/26/ARTInXhE2Z6M0gObX2iHz0SZ250826.shtml)
+
++ [韩国首尔新增日间无人驾驶公交车线路](https://news.cctv.com/2025/08/26/ARTIj8xJVXmgV1NO0Zph2dOO250826.shtml)
+

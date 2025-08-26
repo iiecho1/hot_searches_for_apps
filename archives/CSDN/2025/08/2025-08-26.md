@@ -175,3 +175,5 @@
 
 + [从MySQL到OpenTenBase：电商平台分布式数据库架构升级实战](https://blog.csdn.net/IRpickstars/article/details/150845506)
 
++ [鸿蒙中CPU活动分析：CPU分析](https://blog.csdn.net/ldc121xy716/article/details/150658708)
+

@@ -45,3 +45,5 @@
 
 + [推荐一些适合中年男子下班到家玩的游戏？](https://www.v2ex.com/t/1155009)
 
++ [Ansible 用起来好爽😄](https://www.v2ex.com/t/1154933)
+
