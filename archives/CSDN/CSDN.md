@@ -173,3 +173,5 @@
 
 + [云原生高级——K8S总概](https://blog.csdn.net/2301_80916871/article/details/150636495)
 
++ [从MySQL到OpenTenBase：电商平台分布式数据库架构升级实战](https://blog.csdn.net/IRpickstars/article/details/150845506)
+
