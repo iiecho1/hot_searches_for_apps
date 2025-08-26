@@ -159,3 +159,7 @@
 
 + [信号处理的核心机制：从保存、处理到可重入性与volatile](https://blog.csdn.net/2402_84532723/article/details/150285848)
 
++ [【AI大模型前沿】蚂蚁开源Ring-lite：边缘计算新选择，2.75B激活参数、小模型大智慧](https://blog.csdn.net/xiaobing259/article/details/150636871)
+
++ [苍穹外卖项目实战（日记十）-记录实战教程及问题的解决方法-（day3-2）新增菜品功能完整版](https://blog.csdn.net/weixin_75170714/article/details/150733178)
+

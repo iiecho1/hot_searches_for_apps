@@ -191,3 +191,5 @@
 
 + [“将先辈用生命结下的情谊传承下去”——访苏联援华航空队指挥官布拉戈维申斯基之侄诺索夫](https://news.cctv.com/2025/08/26/ARTIBgBtwVnqTPHyGLx1DiGW250826.shtml)
 
++ [金建希以身体不适拒绝出席检方27日传唤调查](https://news.cctv.com/2025/08/26/ARTIYy1qailnCjkzTrHogUCU250826.shtml)
+
