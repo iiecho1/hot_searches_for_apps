@@ -177,3 +177,13 @@
 
 + [鸿蒙中CPU活动分析：CPU分析](https://blog.csdn.net/ldc121xy716/article/details/150658708)
 
++ [【图像算法 - 23】工业应用：基于深度学习YOLO12与OpenCV的仪器仪表智能识别系统](https://blog.csdn.net/qq_42910179/article/details/150786889)
+
++ [GitHub 热榜项目 - 日榜(2025-08-26)](https://blog.csdn.net/u014390502/article/details/150853541)
+
++ [前端 vs 后端请求：核心差异与实战对比](https://blog.csdn.net/2301_80138104/article/details/150722541)
+
++ [【强化学习】区分理解： 时序差分（TD）、蒙特卡洛（MC）、动态规划（DP）](https://blog.csdn.net/qq_51399582/article/details/150850206)
+
++ [Baumer高防护相机如何通过Tiny-YOLO单类模型实现人体跌倒检测与跟踪（C#代码UI界面版）](https://blog.csdn.net/xianzuzhicai/article/details/150658939)
+

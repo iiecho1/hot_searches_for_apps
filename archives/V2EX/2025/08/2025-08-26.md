@@ -47,3 +47,5 @@
 
 + [Ansible 用起来好爽😄](https://www.v2ex.com/t/1154933)
 
++ [和合租室友一起做饭看电影，是不是有点越界了？](https://www.v2ex.com/t/1155061)
+
