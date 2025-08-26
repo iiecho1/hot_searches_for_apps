@@ -123,3 +123,5 @@
 
 + [VMware centos磁盘容量扩容教程](https://blog.csdn.net/qq_38673558/article/details/150704447)
 
++ [技术与情感交织的一生 （十二）](https://blog.csdn.net/michaelline/article/details/149969069)
+
