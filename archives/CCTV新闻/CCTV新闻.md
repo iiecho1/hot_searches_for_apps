@@ -177,3 +177,13 @@
 
 + [德国汉堡港一仓库起火爆炸 致多人受伤](https://news.cctv.com/2025/08/26/ARTIk1FMEIv7Eow9C0hkgsRP250826.shtml)
 
++ [因网络安全事件 美国内华达州政府办公室关闭](https://news.cctv.com/2025/08/26/ARTIrpS92x3SavXLrXnU0kCR250826.shtml)
+
++ [驻埃及使馆提醒中国公民注意遵守埃及入出境规定](https://news.cctv.com/2025/08/26/ARTIm4P20Eqd9GzjzszU51AU250826.shtml)
+
++ [朝鲜军方再批美韩联合军演](https://news.cctv.com/2025/08/26/ARTIIEKw1L5Vs5z2S32atchC250826.shtml)
+
++ [委内瑞拉征兵应对美军逼近 玻利维亚总统点破真相](https://news.cctv.com/2025/08/26/ARTI0y51HwzGfNJl0tbQvQG2250826.shtml)
+
++ [乌拉圭举行宣告独立200周年纪念活动](https://photo.cctv.com/2025/08/26/PHOAPc8c3s5py9l50zHSyB86250826.shtml)
+
