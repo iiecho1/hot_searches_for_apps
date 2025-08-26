@@ -193,3 +193,9 @@
 
 + [金建希以身体不适拒绝出席检方27日传唤调查](https://news.cctv.com/2025/08/26/ARTIYy1qailnCjkzTrHogUCU250826.shtml)
 
++ [关联巴以局势 挪威主权财富基金从一批美以企业撤资](https://news.cctv.com/2025/08/26/ARTIhaXrj4wcjCx6oNPSCPqM250826.shtml)
+
++ [特朗普开始对美联储下手](https://news.cctv.com/2025/08/26/ARTI60uGteLeLRyNZn4PLP5Z250826.shtml)
+
++ [坦桑尼亚桑给巴尔总统向中国援桑医疗队授勋](https://news.cctv.com/2025/08/26/ARTI9TiZV9etoSEJTcS6NP6k250826.shtml)
+
