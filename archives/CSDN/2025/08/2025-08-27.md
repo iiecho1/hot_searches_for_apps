@@ -101,3 +101,11 @@
 
 + [11k Star，一款能免费商用的SpringBoot+Vue开源商城系统](https://blog.csdn.net/caoli201314/article/details/150760767)
 
++ [大语言模型的自动驾驶 LMDrive/DriveVLM-Dual](https://blog.csdn.net/qq_35661896/article/details/150701300)
+
++ [DeepSeek与Kimi强强联手，解锁AI新境界](https://blog.csdn.net/beautifulmemory/article/details/150700375)
+
++ [使用 Python + Bright Data MCP 实时抓取 Google 搜索结果：完整实战教程（含自动化与集成）](https://blog.csdn.net/2302_78391795/article/details/150619723)
+
++ [论文阅读（四）| 软件运行时配置研究综述](https://blog.csdn.net/Pocker_Spades_A/article/details/150871721)
+
