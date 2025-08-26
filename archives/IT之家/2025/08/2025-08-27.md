@@ -49,3 +49,7 @@
 
 + [预估为正式发布前的最后一版公测：苹果发布 iOS / iPadOS / macOS 26 第 5 个公测版](https://m.ithome.com/html/877984.htm)
 
++ [奔驰 AMG GT XX 概念车刷新纯电车 24 小时耐力赛成绩，小米雷军发文祝贺“太强了”](https://m.ithome.com/html/877964.htm)
+
++ [华为鸿蒙 HarmonyOS 6 开发者预览版 Beta 招募（三期）开启](https://m.ithome.com/html/877967.htm)
+

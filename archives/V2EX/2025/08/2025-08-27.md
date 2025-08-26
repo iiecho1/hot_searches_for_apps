@@ -23,3 +23,5 @@
 
 + [国庆川西自驾真的有网上说的那么堵吗](https://www.v2ex.com/t/1154923)
 
++ [Ansible 用起来好爽😄](https://www.v2ex.com/t/1154933)
+

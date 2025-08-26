@@ -167,3 +167,5 @@
 
 + [中企签约智利铁路项目](https://news.cctv.com/2025/08/27/ARTIcWrOYJf68sLZPiclSJJ8250827.shtml)
 
++ [35万以色列民众游行示威 敦促政府尽快结束冲突](https://news.cctv.com/2025/08/27/ARTIhiUuoL7uPXkmRZUzMjDq250827.shtml)
+
