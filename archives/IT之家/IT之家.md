@@ -57,3 +57,9 @@
 
 + [格力朱磊再回应“空调线上销量被小米超越” ：数据可以转发，口碑没法 P 图](https://m.ithome.com/html/877862.htm)
 
++ [“最便宜鸿蒙智行”尚界 H5 选配页面公开，华为 ADS 4 辅助驾驶系统高阶版车型最低 18.98 万元起](https://m.ithome.com/html/877922.htm)
+
++ [头顶激光雷达，比亚迪 2026 款海豹 07 DM-i 官宣 8 月 29 日成都车展亮相](https://m.ithome.com/html/877764.htm)
+
++ [奔驰 AMG GT XX 概念车刷新纯电车 24 小时耐力赛成绩，小米雷军发文祝贺“太强了”](https://m.ithome.com/html/877964.htm)
+

@@ -209,3 +209,7 @@
 
 + [海外人士谈抗战｜专访：中国共产党是全民族抗战的中流砥柱——访古巴学者何塞·罗瓦伊纳](https://news.cctv.com/2025/08/26/ARTI9Xv5xLDlMAviF7zzamOT250826.shtml)
 
++ [卡塔尔外交部：以色列尚未回应加沙停火方案最新提议](https://news.cctv.com/2025/08/26/ARTI5SgEFFSXsxAgXURf3NPm250826.shtml)
+
++ [斯里兰卡前总统维克拉马辛哈被批准保释](https://news.cctv.com/2025/08/26/ARTIbKekWrofN0fqxalIhT6b250826.shtml)
+

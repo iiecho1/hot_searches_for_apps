@@ -189,3 +189,9 @@
 
 + [Kubernetes 构建高可用、高性能 Redis 集群](https://blog.csdn.net/ashina_01/article/details/150720178)
 
++ [第二十届全国大学生智能汽车竞赛百度智慧交通预选赛成绩与奖项](https://blog.csdn.net/zhuoqingjoking97298/article/details/150846218)
+
++ [神经网络与梯度算法：深度学习的底层逻辑与实战解析](https://blog.csdn.net/2302_76568160/article/details/150795814)
+
++ [亚马逊云科技免费套餐新政解析与实战：数据分析与可视化平台](https://blog.csdn.net/master_hunter/article/details/150858412)
+
