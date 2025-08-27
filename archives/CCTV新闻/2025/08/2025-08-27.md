@@ -181,3 +181,5 @@
 
 + [“中国在世界反法西斯战争中发挥了重要作用”——访约翰·拉贝之孙托马斯·拉贝](https://news.cctv.com/2025/08/27/ARTIksWLPlWQwojPNSOxGKVG250827.shtml)
 
++ [美政府再次取消对加州高铁项目拨款](https://news.cctv.com/2025/08/27/ARTIqlGODQ09g9OJNLIhmgIw250827.shtml)
+
