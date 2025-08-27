@@ -161,3 +161,5 @@
 
 + [现场视频丨天空变为橙红色 美国加州北部大火已持续4天](https://news.cctv.com/2025/08/25/ARTIe3t8pFNEp2ZBRDVNuzw4250825.shtml)
 
++ [美国西南部遭遇强沙尘暴 “沙墙”遮天蔽日](https://news.cctv.com/2025/08/28/ARTI33jeddJYPNNsF8z5juzD250828.shtml)
+

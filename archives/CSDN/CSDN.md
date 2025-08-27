@@ -121,3 +121,5 @@
 
 + [技术与情感交织的一生 （十二）](https://blog.csdn.net/michaelline/article/details/149969069)
 
++ [Ubuntu操作系统下使用mysql、mongodb、redis](https://blog.csdn.net/m0_75133745/article/details/150867623)
+
