@@ -171,3 +171,15 @@
 
 + [Ubuntu操作系统下MySQL、MongoDB、Redis](https://blog.csdn.net/2402_82428361/article/details/150870336)
 
++ [医疗AI时代的生物医学Go编程：高性能计算与精准医疗的案例分析(一)](https://blog.csdn.net/kkiron/article/details/150850318)
+
++ [JDK 8 → JDK 17 升级说明书（面向 Spring Boot / Spring Cloud / Spring ）](https://blog.csdn.net/h2878638979/article/details/150866817)
+
++ [基于OpenCv做照片分析（Java）](https://blog.csdn.net/zwrlj527/article/details/150843518)
+
++ [WebSocket vs RabbitMQ：聊天室技术选型分析](https://blog.csdn.net/sixpp/article/details/150809442)
+
++ [Redis集群脑裂全解析:裂脑惊魂+数据拯救指南](https://blog.csdn.net/qq_44378083/article/details/149150099)
+
++ [流水线通用脚本-shell形式，直接改几个参数，可以拿到Jenkins，github和 gitee和 gitlab等直接调用（主要是Jenkins，改的参数比较少）](https://blog.csdn.net/qq_61414097/article/details/150930191)
+

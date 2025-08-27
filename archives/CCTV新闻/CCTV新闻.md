@@ -191,3 +191,7 @@
 
 + [记者观察：资源丰富 “微缩版非洲”喀麦隆在挑战中寻新机](https://news.cctv.com/2025/08/27/ARTIiipadgpnJnugiPdZi0Rh250827.shtml)
 
++ [万国邮联：美国关税政策冲击全球邮政运营商](https://news.cctv.com/2025/08/27/ARTI3lE7MMCBPnT3UU2ziw67250827.shtml)
+
++ [美国8月消费者信心指数下滑 就业疲软、关税政策与高物价成主因](https://news.cctv.com/2025/08/27/ARTI33ouufWJXCIZmQI75Nes250827.shtml)
+
