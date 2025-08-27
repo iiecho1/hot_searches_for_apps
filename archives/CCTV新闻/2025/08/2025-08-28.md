@@ -165,3 +165,9 @@
 
 + [欧洲规模最大弹药生产基地在德国投产](https://news.cctv.com/2025/08/28/ARTIk35y7qjZF6acFmpGNU9P250828.shtml)
 
++ [中方敦促以色列立即停止加沙军事行动](https://news.cctv.com/2025/08/28/ARTIk0GreQDeu3D6gXQZRGl9250828.shtml)
+
++ [安理会14国呼吁立即应对加沙饥荒](https://news.cctv.com/2025/08/28/ARTIzWsmkZKG96lkcXMdqTPU250828.shtml)
+
++ [美国明尼阿波利斯校园枪击事件致20人死伤 枪手动机不明](https://news.cctv.com/2025/08/28/ARTILZrQNPSWeMxkcyvIybXy250828.shtml)
+
