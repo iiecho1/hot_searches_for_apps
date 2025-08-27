@@ -173,3 +173,5 @@
 
 + [美关税新规带来不确定性 25国宣布暂停对美寄送包裹](https://news.cctv.com/2025/08/27/ARTIL5K7OVeOcu5gwwdwZJ94250827.shtml)
 
++ [委内瑞拉部署1.5万名士兵打击贩毒团伙](https://news.cctv.com/2025/08/27/ARTIIu2515hbGNRjgSpZeHvV250827.shtml)
+
