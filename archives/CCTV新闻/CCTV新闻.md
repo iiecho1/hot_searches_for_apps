@@ -185,3 +185,9 @@
 
 + [美联储理事库克将提起诉讼阻止特朗普解雇](https://news.cctv.com/2025/08/27/ARTIkpDOwVf5jedLvrw5Qdvn250827.shtml)
 
++ [“中国为世界反法西斯战争胜利发挥了至关重要的作用”](https://news.cctv.com/2025/08/27/ARTI9V9TQZlBuzNNLKxVpQbg250827.shtml)
+
++ [美媒：美关税政策引发“隐形式”通胀 正逐渐掏空消费者钱包](https://news.cctv.com/2025/08/27/ARTIwI8qKmUQ6h1R7bU2j80w250827.shtml)
+
++ [记者观察：资源丰富 “微缩版非洲”喀麦隆在挑战中寻新机](https://news.cctv.com/2025/08/27/ARTIiipadgpnJnugiPdZi0Rh250827.shtml)
+

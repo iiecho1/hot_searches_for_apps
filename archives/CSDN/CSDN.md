@@ -165,3 +165,7 @@
 
 + [Redis--2](https://blog.csdn.net/SHGXO183/article/details/150871783)
 
++ [新手向:从零开始理解GIF压缩](https://blog.csdn.net/2302_77626561/article/details/150769216)
+
++ [DeepSeek 图解：大模型是怎样构建的（含代码示例）](https://blog.csdn.net/qq_44273429/article/details/150924269)
+
