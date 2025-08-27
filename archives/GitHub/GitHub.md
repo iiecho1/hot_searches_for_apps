@@ -29,3 +29,21 @@
 
 + [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships)
 
++ [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
+
++ [microsoft/terminal](https://github.com/microsoft/terminal)
+
++ [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+
++ [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+
++ [santinic/audiblez](https://github.com/santinic/audiblez)
+
++ [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
+
++ [OpenPipe/ART](https://github.com/OpenPipe/ART)
+
++ [twbs/bootstrap](https://github.com/twbs/bootstrap)
+
++ [spf13/cobra](https://github.com/spf13/cobra)
+

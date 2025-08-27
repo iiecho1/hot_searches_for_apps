@@ -169,3 +169,5 @@
 
 + [DeepSeek 图解：大模型是怎样构建的（含代码示例）](https://blog.csdn.net/qq_44273429/article/details/150924269)
 
++ [Ubuntu操作系统下MySQL、MongoDB、Redis](https://blog.csdn.net/2402_82428361/article/details/150870336)
+
