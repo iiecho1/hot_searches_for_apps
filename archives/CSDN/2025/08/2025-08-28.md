@@ -123,3 +123,5 @@
 
 + [Ubuntu操作系统下使用mysql、mongodb、redis](https://blog.csdn.net/m0_75133745/article/details/150867623)
 
++ [深度学习——神经网络（PyTorch 实现 MNIST 手写数字识别案例）](https://blog.csdn.net/2302_78022640/article/details/150781035)
+

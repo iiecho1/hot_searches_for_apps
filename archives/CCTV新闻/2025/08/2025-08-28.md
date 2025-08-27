@@ -163,3 +163,5 @@
 
 + [美国西南部遭遇强沙尘暴 “沙墙”遮天蔽日](https://news.cctv.com/2025/08/28/ARTI33jeddJYPNNsF8z5juzD250828.shtml)
 
++ [欧洲规模最大弹药生产基地在德国投产](https://news.cctv.com/2025/08/28/ARTIk35y7qjZF6acFmpGNU9P250828.shtml)
+
