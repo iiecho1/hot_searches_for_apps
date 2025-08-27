@@ -183,3 +183,5 @@
 
 + [美政府再次取消对加州高铁项目拨款](https://news.cctv.com/2025/08/27/ARTIqlGODQ09g9OJNLIhmgIw250827.shtml)
 
++ [美联储理事库克将提起诉讼阻止特朗普解雇](https://news.cctv.com/2025/08/27/ARTIkpDOwVf5jedLvrw5Qdvn250827.shtml)
+
