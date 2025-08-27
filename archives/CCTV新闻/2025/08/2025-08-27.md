@@ -175,3 +175,9 @@
 
 + [委内瑞拉部署1.5万名士兵打击贩毒团伙](https://news.cctv.com/2025/08/27/ARTIIu2515hbGNRjgSpZeHvV250827.shtml)
 
++ [上合组织是全球南方团结合作的重要平台](https://news.cctv.com/2025/08/27/ARTIKVmk0WUr0SqTfgjJ60c8250827.shtml)
+
++ [加强减贫合作 共促繁荣发展](https://news.cctv.com/2025/08/27/ARTIaQB1jbPh5VaWYajZ2w3A250827.shtml)
+
++ [“中国在世界反法西斯战争中发挥了重要作用”——访约翰·拉贝之孙托马斯·拉贝](https://news.cctv.com/2025/08/27/ARTIksWLPlWQwojPNSOxGKVG250827.shtml)
+

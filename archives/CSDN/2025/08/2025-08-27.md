@@ -133,3 +133,13 @@
 
 + [CI/CD持续集成及持续交付详解](https://blog.csdn.net/2302_81635282/article/details/150719492)
 
++ [CloudBase云开发MCP + CodeBuddy IDE：打造智能化全栈理财助手的完整实践](https://blog.csdn.net/IRpickstars/article/details/150759067)
+
++ [迷你版Shell：源码详解与行为解析](https://blog.csdn.net/2302_79376097/article/details/150871776)
+
++ [ LabVIEW 与 TestStand 的自动测试系统](https://blog.csdn.net/bjcyck/article/details/150915925)
+
++ [设计一个完整可用的 Spring Boot Starter](https://blog.csdn.net/weixin_56693899/article/details/150782464)
+
++ [基于图像特征提取和SVM分类器的相机型号识别算法matlab仿真](https://blog.csdn.net/ccsss22/article/details/150815365)
+
