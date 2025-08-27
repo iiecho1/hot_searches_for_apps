@@ -101,3 +101,23 @@
 
 + [iOS 26 正式版即将发布，Flutter 完成全新 devicectl + lldb 的 Debug JIT 运行支持](https://blog.csdn.net/ZuoYueLiang/article/details/150853192)
 
++ [【微服务】SpringBoot 整合 Easy-Es 实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/149468292)
+
++ [Redis集群脑裂全解析:裂脑惊魂+数据拯救指南](https://blog.csdn.net/qq_44378083/article/details/149150099)
+
++ [贴片式TE卡 +北京君正+Rk瑞芯微的应用](https://blog.csdn.net/sixpp/article/details/150937359)
+
++ [PostgreSQL 待归档 WAL 日志告警分析](https://blog.csdn.net/hezuijiudexiaobai/article/details/150920652)
+
++ [Docker save 命令：镜像打包与分发的艺术](https://blog.csdn.net/qq_41840843/article/details/149113060)
+
++ [【强化学习】区分理解： 时序差分（TD）、蒙特卡洛（MC）、动态规划（DP）](https://blog.csdn.net/qq_51399582/article/details/150850206)
+
++ [Bright Data 代理 + MCP ：解决 Google 搜索反爬的完整方案](https://blog.csdn.net/Cayyyy/article/details/150772064)
+
++ [【完整源码+数据集+部署教程】鸡蛋胚胎发育异常检测系统源码和数据集：改进yolo11-repvit](https://blog.csdn.net/weixin_43860634/article/details/150760746)
+
++ [dapo：开源大规模llm强化学习系统的突破与实现](https://blog.csdn.net/daqianai/article/details/150873327)
+
++ [技术与情感交织的一生 （十二）](https://blog.csdn.net/michaelline/article/details/149969069)
+
