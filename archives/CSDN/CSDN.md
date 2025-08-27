@@ -183,3 +183,7 @@
 
 + [流水线通用脚本-shell形式，直接改几个参数，可以拿到Jenkins，github和 gitee和 gitlab等直接调用（主要是Jenkins，改的参数比较少）](https://blog.csdn.net/qq_61414097/article/details/150930191)
 
++ [Python secrets模块：安全随机数生成的最佳实践](https://blog.csdn.net/ltm1410010510/article/details/150765383)
+
++ [学习嵌入式的第三十八天](https://blog.csdn.net/2401_89205293/article/details/150865356)
+

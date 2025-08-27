@@ -195,3 +195,5 @@
 
 + [美国8月消费者信心指数下滑 就业疲软、关税政策与高物价成主因](https://news.cctv.com/2025/08/27/ARTI33ouufWJXCIZmQI75Nes250827.shtml)
 
++ [国际人士期待上合组织天津峰会凝聚共识 推动构建更加紧密命运共同体](https://news.cctv.com/2025/08/27/ARTILS8YCKWUNB0sWdQIOJbh250827.shtml)
+
