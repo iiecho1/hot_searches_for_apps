@@ -187,3 +187,5 @@
 
 + [学习嵌入式的第三十八天](https://blog.csdn.net/2401_89205293/article/details/150865356)
 
++ [瑞芯微与君正平台下Linux系统中使用工业级SD NAND FLASH的经验分享](https://blog.csdn.net/g310773517/article/details/150933016)
+

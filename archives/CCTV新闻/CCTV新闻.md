@@ -197,3 +197,7 @@
 
 + [国际人士期待上合组织天津峰会凝聚共识 推动构建更加紧密命运共同体](https://news.cctv.com/2025/08/27/ARTILS8YCKWUNB0sWdQIOJbh250827.shtml)
 
++ [韩国法院驳回前国务总理韩德洙的拘捕申请](https://news.cctv.com/2025/08/27/ARTI86IrCUsHXw66yoyvY3OX250827.shtml)
+
++ [阿富汗发生5.3级地震，震源深度150千米](https://news.cctv.com/2025/08/27/ARTIqRynn23XMR8p2NReSrL9250827.shtml)
+
