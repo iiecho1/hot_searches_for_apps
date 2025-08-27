@@ -53,3 +53,7 @@
 
 + [华为鸿蒙 HarmonyOS 6 开发者预览版 Beta 招募（三期）开启](https://m.ithome.com/html/877967.htm)
 
++ [iPhone 17 / Pro 系列 9 月 10 日见，苹果 2025 秋季新品发布会邀请函正式公布](https://m.ithome.com/html/878248.htm)
+
++ [小米汽车副总裁李肖爽回应 YU7 准车主被要求车辆下线 7 天内付尾款：会认真对待，核实情况](https://m.ithome.com/html/878243.htm)
+

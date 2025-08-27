@@ -127,3 +127,9 @@
 
 + [云原生俱乐部-RH294知识点归纳（3）](https://blog.csdn.net/2301_80892630/article/details/150603434)
 
++ [飞算JavaAI：Java开发新时代的破晓之光](https://blog.csdn.net/hanwangyyds/article/details/150587977)
+
++ [远程团队的协作神器：cpolar让Nextcloud文件共享更安全](https://blog.csdn.net/weixin_62782025/article/details/150771410)
+
++ [CI/CD持续集成及持续交付详解](https://blog.csdn.net/2302_81635282/article/details/150719492)
+

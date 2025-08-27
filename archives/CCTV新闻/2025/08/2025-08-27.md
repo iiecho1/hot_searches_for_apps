@@ -169,3 +169,7 @@
 
 + [35万以色列民众游行示威 敦促政府尽快结束冲突](https://news.cctv.com/2025/08/27/ARTIhiUuoL7uPXkmRZUzMjDq250827.shtml)
 
++ [巴西最高法院宣布对前总统博索纳罗实施24小时监控](https://news.cctv.com/2025/08/27/ARTIuzE8PwdssynLvbjRutN8250827.shtml)
+
++ [美关税新规带来不确定性 25国宣布暂停对美寄送包裹](https://news.cctv.com/2025/08/27/ARTIL5K7OVeOcu5gwwdwZJ94250827.shtml)
+
