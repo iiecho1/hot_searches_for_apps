@@ -183,3 +183,7 @@
 
 + [外交部领事司提醒中国学生学者注意赴美安全风险](https://news.cctv.com/2025/08/28/ARTI8qnSBjV2UfAOSZ7xO3Fz250828.shtml)
 
++ [白宫解除美国地面运输委员会一名董事会成员的职务](https://news.cctv.com/2025/08/28/ARTImoNHDV5hGxPZhIdd0v4p250828.shtml)
+
++ [冯德莱恩：欧洲将把乌克兰变成“钢铁豪猪” 确保其自卫能力](https://news.cctv.com/2025/08/28/ARTIDK2iYybHnkMSm3XgMDF4250828.shtml)
+
