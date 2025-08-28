@@ -163,3 +163,11 @@
 
 + [探索量子计算的新前沿](https://blog.csdn.net/qq_44742109/article/details/150778391)
 
++ [Spring Boot 启动失败：循环依赖排查到懒加载配置的坑](https://blog.csdn.net/IRpickstars/article/details/150916430)
+
++ [2014-2024高教社杯全国大学生数学建模竞赛赛题汇总预览分析](https://blog.csdn.net/master_hunter/article/details/150857245)
+
++ [数据挖掘 6.1 其他降维方法（不是很重要）](https://blog.csdn.net/moranxiao199/article/details/150781293)
+
++ [《拉康精神分析学中的欲望辩证法：能指的拓扑学与主体的解构性重构》](https://blog.csdn.net/GEO_YScsn/article/details/150776671)
+
