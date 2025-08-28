@@ -171,3 +171,19 @@
 
 + [《拉康精神分析学中的欲望辩证法：能指的拓扑学与主体的解构性重构》](https://blog.csdn.net/GEO_YScsn/article/details/150776671)
 
++ [【SpringAI】快速上手，详解项目快速集成主流大模型DeepSeek,ChatGPT](https://blog.csdn.net/2302_79806056/article/details/150531226)
+
++ [基于ModelScope API构建下一代AI图像生成HTML应用](https://blog.csdn.net/Liudef06/article/details/150855706)
+
++ [【2025华为OD机考真题】- 数据分类(B卷-100分)（JS版）](https://blog.csdn.net/weixin_43970743/article/details/150933866)
+
++ [GitHub 热榜项目 - 日榜(2025-08-28)](https://blog.csdn.net/u014390502/article/details/150943873)
+
++ [【PZ-ZU7EV-KFB】璞致fpga开发板 ZYNQ UltraScale+ MPSOCPZ-ZU7EV 核心板与开发板用户手册](https://blog.csdn.net/hongying321/article/details/150767382)
+
++ [Spark云原生流处理实战与风控应用](https://blog.csdn.net/Daoyiyun/article/details/150847217)
+
++ [数字IC前端设计——前仿篇(VCS,DVE,Verdi)](https://blog.csdn.net/weixin_51116586/article/details/150861642)
+
++ [破解豆瓣Ajax动态加载：Python爬取完整长评论和短评](https://blog.csdn.net/Z_suger7/article/details/150861346)
+
