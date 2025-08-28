@@ -171,3 +171,7 @@
 
 + [联合国报告：委内瑞拉不再被认定为通往美欧毒品主要走私路线](https://news.cctv.com/2025/08/29/ARTIP1lglT7l81PXhS5N46nz250829.shtml)
 
++ [时隔多月任命高级专员 加拿大与印度关系缓和](https://news.cctv.com/2025/08/29/ARTIrzUSwycrwIb2vhTy9I6G250829.shtml)
+
++ [埃及央行宣布降息200个基点](https://news.cctv.com/2025/08/29/ARTIdbothaKQbicIH0gvpkL2250829.shtml)
+
