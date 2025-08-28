@@ -181,3 +181,5 @@
 
 + [驻日美军基地周边水体检出高浓度化学物 冲绳县设立专门委员会研究对策](https://news.cctv.com/2025/08/28/ARTIB6t4T20GWfL2jFEpLEoN250828.shtml)
 
++ [外交部领事司提醒中国学生学者注意赴美安全风险](https://news.cctv.com/2025/08/28/ARTI8qnSBjV2UfAOSZ7xO3Fz250828.shtml)
+

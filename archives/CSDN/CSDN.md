@@ -197,3 +197,15 @@
 
 + [论文阅读——雷达中的空间分集：模型与检测性能](https://blog.csdn.net/qq_44648285/article/details/150800939)
 
++ [工业级TF卡NAND + 北京君正 + Rk瑞芯微的应用](https://blog.csdn.net/weixin_44976692/article/details/150949821)
+
++ [Scikit-learn Python机器学习 - 什么是机器学习](https://blog.csdn.net/caoli201314/article/details/150944801)
+
++ [将 agents 连接到 Elasticsearch 使用模型上下文协议 - docker](https://blog.csdn.net/UbuntuTouch/article/details/150951617)
+
++ [寄存器的原理](https://blog.csdn.net/sinat_31608641/article/details/150936275)
+
++ [【网络安全】XSS漏洞——PortSwigger靶场-DOM破坏](https://blog.csdn.net/2301_79915754/article/details/150417514)
+
++ [为什么软解码依然重要？深入理解视频播放与开发应用(视频解码)](https://blog.csdn.net/qq_41140324/article/details/150780667)
+
