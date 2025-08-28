@@ -35,3 +35,13 @@
 
 + [第三批国补下达，首次纳入智能灯、学习桌椅、学习机等品类](https://m.ithome.com/html/878325.htm)
 
++ [iPhone 17 / Pro 系列发布后，预计苹果将停售七款产品](https://m.ithome.com/html/878258.htm)
+
++ [钉钉 CEO 称硬件员工每天睡觉不超 5 小时，四五十人用四个月做出首款 AI 硬件 DingTalk A1](https://m.ithome.com/html/878454.htm)
+
++ [暗示 iPhone 17 新颜色？苹果官网为 2025 秋季新品发布会上线可交互 Apple 标志](https://m.ithome.com/html/878254.htm)
+
++ [华为 Mate XTs 非凡大师及全场景新品发布会官宣 9 月 4 日举办，将发布新款三折叠手机](https://m.ithome.com/html/878283.htm)
+
++ [吉利银河新车星耀 6 官宣：长超 4.8 米、轴距 2.75 米，号称“只为颠覆”](https://m.ithome.com/html/878284.htm)
+

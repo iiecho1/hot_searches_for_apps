@@ -107,3 +107,29 @@
 
 + [Vue代码生成器 - 纯HTML实现方案](https://blog.csdn.net/zzywxc787/article/details/150847244)
 
++ [.NET + Vue 基于 WebSocket 的聊天室全面实现](https://blog.csdn.net/sixpp/article/details/150810389)
+
++ [ffmpeg+opencv交叉编译](https://blog.csdn.net/xingtianyao/article/details/150917054)
+
++ [SpringBoot集成 DeepSeek 对话补全功能](https://blog.csdn.net/qq_42043458/article/details/150931209)
+
++ [大模型安全概述、LlamaFirewall](https://blog.csdn.net/lonelymanontheway/article/details/150867018)
+
++ [微服务-30.配置管理-动态路由](https://blog.csdn.net/qq_45055856/article/details/150932813)
+
++ [springcloud篇5-微服务保护(Sentinel)](https://blog.csdn.net/qq_51476492/article/details/150578646)
+
++ [工业网络安全：保护制造系统和数据](https://blog.csdn.net/qq_29607687/article/details/150930389)
+
++ [让ai写一个类github首页](https://blog.csdn.net/2501_91812691/article/details/150936419)
+
++ [手机冻结技术发展时间轴](https://blog.csdn.net/su749520/article/details/150922707)
+
++ [网络安全监控中心](https://blog.csdn.net/2302_76384361/article/details/150922171)
+
++ [C# .NET Framework 4.0 网络编程完全指南](https://blog.csdn.net/weixin_45690427/article/details/150807091)
+
++ [性能测试-jmeter实战6](https://blog.csdn.net/DW_101/article/details/149614860)
+
++ [8.26网络编程——Modbus TCP](https://blog.csdn.net/2303_78618914/article/details/150869104)
+
