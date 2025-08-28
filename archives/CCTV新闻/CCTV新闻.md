@@ -163,3 +163,7 @@
 
 + [欧盟委员会提出立法提案 拟取消部分美国商品关税](https://news.cctv.com/2025/08/29/ARTI3K9k1T7RpYhBCFgrn5Kg250829.shtml)
 
++ [伊朗坚决反对并强烈谴责德法英启动“快速恢复制裁”机制](https://news.cctv.com/2025/08/29/ARTIiDlv8JdcXYY6m7naGyQs250829.shtml)
+
++ [西班牙一烟花厂发生爆炸 致1人死亡](https://news.cctv.com/2025/08/29/ARTI2ghFg4lnGsVzIWwwCFLB250829.shtml)
+

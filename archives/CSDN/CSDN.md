@@ -133,3 +133,15 @@
 
 + [8.26网络编程——Modbus TCP](https://blog.csdn.net/2303_78618914/article/details/150869104)
 
++ [贴片式TF卡 +北京君正+Rk瑞芯微的应用](https://blog.csdn.net/sixpp/article/details/150937359)
+
++ [Docker Info 命令：全面掌握 Docker 环境信息](https://blog.csdn.net/qq_41840843/article/details/149114761)
+
++ [GitHub 宕机自救指南：保障开发工作连续性](https://blog.csdn.net/2501_93010404/article/details/150934096)
+
++ [6 种无需 iTunes 将照片从 iPhone 传输到电脑](https://blog.csdn.net/Digitally/article/details/150926189)
+
++ [网络安全等级保护（等保2.0）](https://blog.csdn.net/2401_87259519/article/details/150926627)
+
++ [Linux应用软件编程---网络编程（TCP并发服务器构建：[ 多进程、多线程、select ]）](https://blog.csdn.net/2403_89873515/article/details/150932612)
+
