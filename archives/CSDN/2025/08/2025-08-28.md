@@ -231,3 +231,7 @@
 
 + [阿里云——应用交付与负载均衡](https://blog.csdn.net/chenglin016/article/details/150937297)
 
++ [本地windows电脑部署html网页到互联网：html+node.js+ngrok/natapp](https://blog.csdn.net/qq_43323677/article/details/150921424)
+
++ [R-Zero：通过自博弈机制让大语言模型无需外部数据实现自我进化训练](https://blog.csdn.net/m0_46510245/article/details/150934719)
+
