@@ -143,3 +143,23 @@
 
 + [CORS解决跨域问题的多个方案 - nginx站点配置 / thinkphp框架内置中间件 / 纯前端vue、vite的server.proxy代理](https://blog.csdn.net/qq285744011/article/details/150765483)
 
++ [机器学习-大语言模型Finetuning vs. Prompting](https://blog.csdn.net/JXL1860/article/details/150762099)
+
++ [腾讯开源OpenTenBase深度实践：企业级分布式HTAP数据库部署全攻略](https://blog.csdn.net/IRpickstars/article/details/150845419)
+
++ [Redis发布订阅:实时消息系统的极简解决方案](https://blog.csdn.net/qq_44378083/article/details/149150211)
+
++ [Docker load 命令：镜像恢复与迁移的完整指南](https://blog.csdn.net/qq_41840843/article/details/149114544)
+
++ [求职|基于Springboot的校园求职招聘系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/150920814)
+
++ [从文本到二进制：HTTP/2不止于性能，更是对HTTP/1核心语义的传承与革新](https://blog.csdn.net/github_34302010/article/details/150938736)
+
++ [基于MATLAB的运动模糊图像修复方法研究（LW+源码+讲解+部署）](https://blog.csdn.net/weixin_41269910/article/details/150858734)
+
++ [LabVIEW温采监控系统](https://blog.csdn.net/bjcyck/article/details/150942856)
+
++ [k8s各资源介绍应用部署 ](https://blog.csdn.net/Wezzer/article/details/150516446)
+
++ [探索量子计算的新前沿](https://blog.csdn.net/qq_44742109/article/details/150778391)
+

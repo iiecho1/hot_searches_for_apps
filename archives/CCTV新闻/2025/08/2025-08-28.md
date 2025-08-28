@@ -171,3 +171,5 @@
 
 + [美国明尼阿波利斯校园枪击事件致20人死伤 枪手动机不明](https://news.cctv.com/2025/08/28/ARTILZrQNPSWeMxkcyvIybXy250828.shtml)
 
++ [美关税政策正在引发“隐形”通胀：美企生产成本趋升 消费者钱包逐渐被掏空](https://news.cctv.com/2025/08/28/ARTIpLW9BDPkMTSeBXNdC54B250828.shtml)
+

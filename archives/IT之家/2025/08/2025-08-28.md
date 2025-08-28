@@ -61,3 +61,13 @@
 
 + [全新小鹏 P7 汽车 7 分钟大定突破 10000 台，21.98 万-30.18 万元起](https://m.ithome.com/html/878513.htm)
 
++ [比亚迪“大唐”路试车曝光，王朝系列向更高端旗舰 SUV 市场冲击](https://m.ithome.com/html/878508.htm)
+
++ [行业首款华为小米双生态车型，广汽丰田铂智 7 搭载鸿蒙座舱、接入小米智能生态](https://m.ithome.com/html/878486.htm)
+
++ [realme 真我 15000mAh 电池新机亮相：经典横向双摄设计 + 6.7 英寸屏幕、搭载天玑 7300 处理器](https://m.ithome.com/html/878429.htm)
+
++ [苹果 iOS 26 焕新应用图标：五款变化最大，你能认出来吗？](https://m.ithome.com/html/878535.htm)
+
++ [零跑晒旗下车型“大合照”，多款未官宣全新产品曝光](https://m.ithome.com/html/878350.htm)
+
