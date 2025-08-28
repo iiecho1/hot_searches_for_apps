@@ -209,3 +209,13 @@
 
 + [为什么软解码依然重要？深入理解视频播放与开发应用(视频解码)](https://blog.csdn.net/qq_41140324/article/details/150780667)
 
++ [SQL报文优化：提升KingbaseES数据库性能的关键策略](https://blog.csdn.net/qq_57761637/article/details/150948809)
+
++ [JVM线上调优参数配置指南](https://blog.csdn.net/qq_39126115/article/details/150872982)
+
++ [Gemini 2.5 Flash-Lite 与 GPT-5-mini：高性能低成本模型，如何选择？](https://blog.csdn.net/AIbase2024/article/details/150774389)
+
++ [告别繁琐运维，拥抱自动化：EKS Auto Mode 实战指南](https://blog.csdn.net/2201_75366661/article/details/150853671)
+
++ [聊一聊 单体分布式 和 微服务分布式](https://blog.csdn.net/2402_84438596/article/details/150935225)
+
