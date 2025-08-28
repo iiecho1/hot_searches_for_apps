@@ -71,3 +71,7 @@
 
 + [零跑晒旗下车型“大合照”，多款未官宣全新产品曝光](https://m.ithome.com/html/878350.htm)
 
++ [小米预告澎湃 OS 3 新增功能：相册布局自定义、倒班闹钟等](https://m.ithome.com/html/878584.htm)
+
++ [追觅官宣跨界造车：首款超豪华纯电产品对标布加迪威龙，后年见](https://m.ithome.com/html/878603.htm)
+

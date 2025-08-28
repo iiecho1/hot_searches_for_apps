@@ -173,3 +173,7 @@
 
 + [美关税政策正在引发“隐形”通胀：美企生产成本趋升 消费者钱包逐渐被掏空](https://news.cctv.com/2025/08/28/ARTIpLW9BDPkMTSeBXNdC54B250828.shtml)
 
++ [纪念抗战胜利80周年研讨会在土耳其伊斯坦布尔举行](https://news.cctv.com/2025/08/28/ARTIKnIboNUVT1yVAeTBGSF6250828.shtml)
+
++ [中国与新西兰两国央行续签双边本币互换协议](https://news.cctv.com/2025/08/28/ARTIazJF7OfjJeVA2OJWFicW250828.shtml)
+

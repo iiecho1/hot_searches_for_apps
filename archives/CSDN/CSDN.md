@@ -187,3 +187,7 @@
 
 + [破解豆瓣Ajax动态加载：Python爬取完整长评论和短评](https://blog.csdn.net/Z_suger7/article/details/150861346)
 
++ [零后端、零配置：用 AI 编程工具「Cursor」15 分钟上线「Vue3 留言墙」](https://blog.csdn.net/u014727709/article/details/150921249)
+
++ [【Spring Cloud 微服务】5.架构的智慧枢纽：深度剖析 Nacos 注册中心](https://blog.csdn.net/weixin_44385781/article/details/150937209)
+
