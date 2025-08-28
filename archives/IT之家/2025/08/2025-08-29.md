@@ -25,3 +25,13 @@
 
 + [零跑晒旗下车型“大合照”，多款未官宣全新产品曝光](https://m.ithome.com/html/878350.htm)
 
++ [小米澎湃 OS 3 发布会官宣 8 月 28 日举行，卢伟冰称目标是把系统做“顺”](https://m.ithome.com/html/878306.htm)
+
++ [小米 15 全系、REDMI K80 Pro / 至尊版首批尝鲜，澎湃 OS 3 Beta 版开启招募](https://m.ithome.com/html/878329.htm)
+
++ [余承东展示华为 Mate XTs 非凡大师三折叠手机真机：支持手写笔，新增白色](https://m.ithome.com/html/878298.htm)
+
++ [苹果 iPhone 17 Pro Max 手机壳曝光：贴合前代但不支持互换](https://m.ithome.com/html/878322.htm)
+
++ [第三批国补下达，首次纳入智能灯、学习桌椅、学习机等品类](https://m.ithome.com/html/878325.htm)
+

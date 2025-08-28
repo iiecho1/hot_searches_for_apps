@@ -101,3 +101,9 @@
 
 + [【C++标准库】＜ios＞详解基于流的 I/O](https://blog.csdn.net/qq_39281631/article/details/144201271)
 
++ [CPLD和FPGA的区别](https://blog.csdn.net/qlexcel/article/details/150920993)
+
++ [入行IC | 数字IC设计和FPGA哪个好？](https://blog.csdn.net/billgateslove/article/details/150927334)
+
++ [Vue代码生成器 - 纯HTML实现方案](https://blog.csdn.net/zzywxc787/article/details/150847244)
+
