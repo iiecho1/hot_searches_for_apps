@@ -137,3 +137,9 @@
 
 + [Docker中如何记录非交互式连接ssh用户操作的所有命令记录？](https://blog.csdn.net/qq_36478920/article/details/150872323)
 
++ [【系统分析师】高分论文：论信息系统开发方法及应用](https://blog.csdn.net/cui_yonghua/article/details/150934319)
+
++ [流水线用到的Dockerfile和构建脚本build.sh](https://blog.csdn.net/qq_61414097/article/details/150934406)
+
++ [CORS解决跨域问题的多个方案 - nginx站点配置 / thinkphp框架内置中间件 / 纯前端vue、vite的server.proxy代理](https://blog.csdn.net/qq285744011/article/details/150765483)
+

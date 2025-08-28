@@ -51,3 +51,13 @@
 
 + [第一视角视频公布，比亚迪仰望 U9 工程测试车创造 472.41km/h 全球电车极速新纪录](https://m.ithome.com/html/878144.htm)
 
++ [钉钉 CEO 陈航称硬件员工每天睡觉不超 5 小时，四五十人用四个月做出首款 AI 硬件 DingTalk A1](https://m.ithome.com/html/878454.htm)
+
++ [尊湃侵犯华为海思芯片技术商业秘密案一审判决生效，14 名离职技术人员非法获取技术信息估值超 3 亿元](https://m.ithome.com/html/878396.htm)
+
++ [第三批国补下达，首次纳入智能灯、学习桌椅、学习机等品类](https://m.ithome.com/html/878325.htm)
+
++ [小米王乐：澎湃 HyperOS 3 系统 Beta 版招募不设门槛、不设上限](https://m.ithome.com/html/878441.htm)
+
++ [全新小鹏 P7 汽车 7 分钟大定突破 10000 台，21.98 万-30.18 万元起](https://m.ithome.com/html/878513.htm)
+
