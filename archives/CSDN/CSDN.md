@@ -127,3 +127,13 @@
 
 + [计算机网络的发展演进历程](https://blog.csdn.net/2302_80871796/article/details/150644930)
 
++ [Transformer实战（15）——使用PyTorch微调Transformer语言模型](https://blog.csdn.net/LOVEmy134611/article/details/147875736)
+
++ [Java 大视界 -- Java 大数据机器学习模型在电商推荐系统冷启动问题解决与推荐效果提升中的应用（403）](https://blog.csdn.net/atgfg/article/details/150933878)
+
++ [什么是AI+？什么是人工智能+？](https://blog.csdn.net/qq_44866828/article/details/150928765)
+
++ [金仓数据库索引探秘：优化查询性能的利器](https://blog.csdn.net/weixin_44976692/article/details/150918289)
+
++ [Docker中如何记录非交互式连接ssh用户操作的所有命令记录？](https://blog.csdn.net/qq_36478920/article/details/150872323)
+
