@@ -175,3 +175,7 @@
 
 + [埃及央行宣布降息200个基点](https://news.cctv.com/2025/08/29/ARTIdbothaKQbicIH0gvpkL2250829.shtml)
 
++ [日本经济再生大臣访美关税磋商行程取消](https://news.cctv.com/2025/08/29/ARTI7mpGb4E3Pvtntslm3xao250829.shtml)
+
++ [美国批准向乌克兰出售价值8.25亿美元的空投弹药及相关装备](https://news.cctv.com/2025/08/29/ARTIVaWB7IgI0SSZJzqj8Mlr250829.shtml)
+
