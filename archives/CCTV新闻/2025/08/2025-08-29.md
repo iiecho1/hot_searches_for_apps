@@ -167,3 +167,7 @@
 
 + [西班牙一烟花厂发生爆炸 致1人死亡](https://news.cctv.com/2025/08/29/ARTI2ghFg4lnGsVzIWwwCFLB250829.shtml)
 
++ [联合国安理会通过决议 将在2026年底结束联黎部队任务](https://news.cctv.com/2025/08/29/ARTIlhjLmzoIyJXZLFO92BiD250829.shtml)
+
++ [联合国报告：委内瑞拉不再被认定为通往美欧毒品主要走私路线](https://news.cctv.com/2025/08/29/ARTIP1lglT7l81PXhS5N46nz250829.shtml)
+
