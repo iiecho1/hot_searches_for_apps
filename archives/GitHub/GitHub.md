@@ -27,3 +27,11 @@
 
 + [spf13/cobra](https://github.com/spf13/cobra)
 
++ [Canner/WrenAI](https://github.com/Canner/WrenAI)
+
++ [chroma-core/chroma](https://github.com/chroma-core/chroma)
+
++ [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
++ [opf/openproject](https://github.com/opf/openproject)
+

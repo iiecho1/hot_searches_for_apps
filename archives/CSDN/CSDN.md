@@ -219,3 +219,9 @@
 
 + [聊一聊 单体分布式 和 微服务分布式](https://blog.csdn.net/2402_84438596/article/details/150935225)
 
++ [从串口到屏幕：如何用C#构建一个军工级数据实时监控](https://blog.csdn.net/2301_78884150/article/details/150861058)
+
++ [uniapp - 实现集成调用zebra斑马打印机+打印标签+打印二维码详细实例代码，通过蓝牙连接打印机打印与通过打印机IP和端口两种方式适配斑马打印机（全平台兼容H5、微信小程序、苹果安卓App）](https://blog.csdn.net/weixin_44198965/article/details/150952433)
+
++ [imx6ull-驱动开发篇42——Linux I2C 驱动框架简介](https://blog.csdn.net/m0_62228566/article/details/150776373)
+
