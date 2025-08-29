@@ -187,3 +187,5 @@
 
 + [美军12亿美元合同建得州最大移民拘留营 引发质疑](https://news.cctv.com/2025/08/29/ARTIEvtVlyUIhuoKM9W7AAVN250829.shtml)
 
++ [韩国特检组对前第一夫人金建希提出起诉](https://news.cctv.com/2025/08/29/ARTIO43Bu0zzo403y83KQppj250829.shtml)
+

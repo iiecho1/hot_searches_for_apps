@@ -163,3 +163,17 @@
 
 + [Web安全：深入理解User-Agent报头注入与防御](https://blog.csdn.net/haishiqiguai/article/details/150930294)
 
++ [KingbaseES数据库：KingbaseES 面向应用程序的 SQL 开发教程](https://blog.csdn.net/weixin_43151418/article/details/150649048)
+
++ [深入浅出：贴片式eMMC存储与国产芯（君正/瑞芯微）的协同设计指南](https://blog.csdn.net/Z_oioihoii/article/details/150949913)
+
++ [量子计算：从抽象算法到物理实现的跨学科革命](https://blog.csdn.net/eidolon_foot/article/details/150947501)
+
++ [linux下的网络编程（2）](https://blog.csdn.net/weixin_45428992/article/details/150762018)
+
++ [上海控安：WiFi网络安全攻击](https://blog.csdn.net/TICPSH/article/details/150950608)
+
++ [微服务14-Java服务负载均衡：使用Ribbon与Spring Cloud LoadBalancer](https://blog.csdn.net/qq_41187124/article/details/150775709)
+
++ [Unity VS UE：移动端优化策略](https://blog.csdn.net/qq_46348216/article/details/150810747)
+
