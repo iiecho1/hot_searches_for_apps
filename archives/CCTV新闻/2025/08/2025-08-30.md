@@ -161,3 +161,7 @@
 
 + [“将先辈用生命结下的情谊传承下去”——访苏联援华航空队指挥官布拉戈维申斯基之侄诺索夫](https://news.cctv.com/2025/08/26/ARTIBgBtwVnqTPHyGLx1DiGW250826.shtml)
 
++ [欧盟防长会召开 未就第19轮对俄制裁达成一致](https://news.cctv.com/2025/08/30/ARTIknIQ3dQn5UbDSk5TAjeB250830.shtml)
+
++ [土耳其对以色列关闭港口、领空 全面中断与以经贸往来](https://news.cctv.com/2025/08/30/ARTImVDpPQhjXAgN7R5Kfm46250830.shtml)
+

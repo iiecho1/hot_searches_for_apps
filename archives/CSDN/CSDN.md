@@ -101,3 +101,23 @@
 
 + [【Web安全】反序列化安全漏洞全解析：从原理到实战测试指南](https://blog.csdn.net/qq_40037555/article/details/150958591)
 
++ [Docker Compose Run 命令：精准控制服务执行](https://blog.csdn.net/qq_41840843/article/details/149114897)
+
++ [瑞芯微RK3568与君正X2600e平台Linux系统CS创世SD NAND应用全解析与驱动架构详解](https://blog.csdn.net/EterNity_TiMe_/article/details/150947857)
+
++ [Mybatis 与 Springboot 集成过程详解](https://blog.csdn.net/weixin_42176639/article/details/150963626)
+
++ [HTML5七夕节网站源码](https://blog.csdn.net/qq_37344688/article/details/150942233)
+
++ [NetCoreKevin-DDD-微服务-WebApi-AI智能体、AISemanticKernel集成、MCP协议服务、SignalR、Quartz 框架-12-核心模块](https://blog.csdn.net/weixin_42629287/article/details/150992076)
+
++ [【论文阅读】CLIP: 从自然语言监督中学习可迁移的视觉模型](https://blog.csdn.net/W_zyth/article/details/150965486)
+
++ [入行IC | 数字IC设计和FPGA哪个好？](https://blog.csdn.net/billgateslove/article/details/150927334)
+
++ [Komo Searc-AI驱动的搜索引擎](https://blog.csdn.net/qq_27346503/article/details/150965216)
+
++ [性能测试-jmeter实战6](https://blog.csdn.net/DW_101/article/details/149614860)
+
++ [Java线程池深度解析：从原理到实战的完整指南](https://blog.csdn.net/m0_74385041/article/details/150959648)
+

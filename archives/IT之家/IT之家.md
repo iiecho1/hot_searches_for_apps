@@ -25,3 +25,9 @@
 
 + [全新问界 M7“幸福旗舰”座舱公布：主驾零重力座椅、后排娱乐屏全都有](https://m.ithome.com/html/878618.htm)
 
++ [搞起：小米澎湃 OS 3 系统将支持 NFC 刷卡上岛](https://m.ithome.com/html/878812.htm)
+
++ [华为 Mate 60 / 70 / X6 等系列手机获鸿蒙 HarmonyOS 5.1.0.150 SP7 升级，优化大图浏览亮度、清晰度体验](https://m.ithome.com/html/878826.htm)
+
++ [华为 Mate XTs 非凡大师三折叠手机上架官网：黑 / 白 / 紫 / 红 4 色可选、最高 16GB+1TB 规格版本](https://m.ithome.com/html/878810.htm)
+
