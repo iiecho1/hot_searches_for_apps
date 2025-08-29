@@ -211,3 +211,11 @@
 
 + [从协作机器人到智能协作机器人：工业革命的下一跳](https://blog.csdn.net/z609932088/article/details/150960702)
 
++ [深度学习——卷积神经网络（PyTorch 实现 MNIST 手写数字识别案例）](https://blog.csdn.net/2302_78022640/article/details/150960539)
+
++ [探索 Vertex AI 与 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/150942935)
+
++ [QT 概述（背景介绍、搭建开发环境、Qt Creator、程序、项目文件解析、编程注意事项）](https://blog.csdn.net/puppy_1mo/article/details/150964714)
+
++ [KubeBlocks For MySQL 云原生设计分享](https://blog.csdn.net/baidu_41642080/article/details/150955097)
+
