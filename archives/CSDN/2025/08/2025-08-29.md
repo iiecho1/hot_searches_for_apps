@@ -187,3 +187,13 @@
 
 + [【架构师干货】软件工程](https://blog.csdn.net/ChiXueZhiHun/article/details/150938409)
 
++ [医疗AI时代的生物医学Go编程：高性能计算与精准医疗的案例分析(五)](https://blog.csdn.net/kkiron/article/details/150972116)
+
++ [Vibe Coding到底是什么：什么是 Vibe Coding？AI编程？](https://blog.csdn.net/qq_44866828/article/details/150965037)
+
++ [【AI大模型前沿】清华实验室开源MOSS-TTSD：口语对话语音生成的突破](https://blog.csdn.net/xiaobing259/article/details/150773665)
+
++ [当 AI 嚼碎数据吐模块，人类开发者的创意还能留几行？—— 老码农的反编译式安心剂](https://blog.csdn.net/qq_33650655/article/details/150940447)
+
++ [一文读懂 C++ 主流编译器：特性、场景与选择指南](https://blog.csdn.net/2503_91389547/article/details/150951042)
+

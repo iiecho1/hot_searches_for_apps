@@ -73,3 +73,5 @@
 
 + [华为 Mate XTs 非凡大师三折叠手机上架官网：黑 / 白 / 紫 / 红 4 色可选、最高 16GB+1TB 规格版本](https://m.ithome.com/html/878810.htm)
 
++ [realme 真我 15000mAh 概念手机发布，整机厚度不到 9mm](https://m.ithome.com/html/878654.htm)
+
