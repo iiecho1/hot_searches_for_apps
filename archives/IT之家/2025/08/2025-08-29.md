@@ -75,3 +75,17 @@
 
 + [realme 真我 15000mAh 概念手机发布，整机厚度不到 9mm](https://m.ithome.com/html/878654.htm)
 
++ [一汽奥迪删除“四环相扣，才是奥迪”文章](https://m.ithome.com/html/878904.htm)
+
++ [华为 MatePad Mini 平板官宣：“超强超 Mini”，9 月 4 日见](https://m.ithome.com/html/878890.htm)
+
++ [苹果“跨肩背带”首曝：iPhone 17 系列专属配件，磁吸设计](https://m.ithome.com/html/878829.htm)
+
++ [小米澎湃 OS 3 首批 Beta 版正式推送，8 款机型可升级](https://m.ithome.com/html/878886.htm)
+
++ [一日两更：微信鸿蒙版 App 获 1.0.10.33 版本邀测升级，支持 Callkit 系统级通话提醒](https://m.ithome.com/html/878815.htm)
+
++ [鸿蒙智行全新问界 M7 汽车内饰细节公布：后排娱乐屏支持与前排联动、配备 7.3L 压缩机冷暖箱](https://m.ithome.com/html/878828.htm)
+
++ [微软 35 岁员工深夜加班在公司死亡，被曝经常熬夜工作](https://m.ithome.com/html/878860.htm)
+
