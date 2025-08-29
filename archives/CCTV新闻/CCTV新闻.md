@@ -193,3 +193,7 @@
 
 + [高关税令美印关系紧张 印度多行业受冲击](https://news.cctv.com/2025/08/29/ARTIO8VPIxWwzhpIfqzQNJba250829.shtml)
 
++ [调查显示日本9月将有逾1400种食品涨价](https://news.cctv.com/2025/08/29/ARTIo2muEmmXibM2DEe0ZEu0250829.shtml)
+
++ [阿根廷向北部边境部署武装部队](https://news.cctv.com/2025/08/29/ARTISPGwnUgDCo1IhB0i9BP8250829.shtml)
+
