@@ -213,3 +213,5 @@
 
 + [中阿博览会有助于拓展双方投资与合作新空间——访沙中商务理事会理事玛莎勒](https://news.cctv.com/2025/08/29/ARTImuR0zerIm0XyZe0ACbWo250829.shtml)
 
++ [日本2026财年防卫预算申请额创新高](https://news.cctv.com/2025/08/29/ARTI1h9LGhipWWzxSI3y8LRZ250829.shtml)
+

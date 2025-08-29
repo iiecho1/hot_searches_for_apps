@@ -223,3 +223,9 @@
 
 + [迷你版Shell：源码详解与行为解析](https://blog.csdn.net/2302_79376097/article/details/150871776)
 
++ [告别 Linux 操作痛点：打包压缩 / 远程传输 / 权限修改实操攻略，新手也能少走弯路](https://blog.csdn.net/wheeldown/article/details/150921216)
+
++ [linux 100个问答（持续更新）](https://blog.csdn.net/2501_91384465/article/details/150933576)
+
++ [【Web安全】反序列化安全漏洞全解析：从原理到实战测试指南](https://blog.csdn.net/qq_40037555/article/details/150958591)
+
