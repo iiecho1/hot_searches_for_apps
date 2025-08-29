@@ -197,3 +197,15 @@
 
 + [阿根廷向北部边境部署武装部队](https://news.cctv.com/2025/08/29/ARTISPGwnUgDCo1IhB0i9BP8250829.shtml)
 
++ [佩通坦被解除泰国总理职务](https://news.cctv.com/2025/08/29/ARTIVqpdqfiL6BUtQrV3WEFY250829.shtml)
+
++ [外媒聚焦九三阅兵：中国为反法西斯作出巨大贡献](https://news.cctv.com/2025/08/29/ARTIbjtJwg2n2NBGeTujtk7T250829.shtml)
+
++ [携手建设上合组织共同家园（国际论坛）](https://news.cctv.com/2025/08/29/ARTImQXNEI1KxJOlJ77nRCv5250829.shtml)
+
++ [乌兹别克斯坦学者：上合在全球多边机制中具有独特价值](https://news.cctv.com/2025/08/29/ARTIuuggdlzZSsU2CeqP8fLv250829.shtml)
+
++ [专访埃及汉学家阿齐兹：从书海中读懂“上合主张”](https://news.cctv.com/2025/08/29/ARTIclUEnJ0NAG4HA9nDbyYB250829.shtml)
+
++ [中阿经贸合作提质升级动能强劲](https://news.cctv.com/2025/08/29/ARTIV4twzl9edG0iNu4ZoUKj250829.shtml)
+

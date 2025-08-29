@@ -63,3 +63,9 @@
 
 + [有没有什么输出型爱好可以培养一下的？](https://www.v2ex.com/t/1155694)
 
++ [清仓 A 股所有资产](https://www.v2ex.com/t/1155795)
+
++ [推荐 Linux 新手入门的不是 debian,不是 arch,也不是 ubuntu](https://www.v2ex.com/t/1155752)
+
++ [请教一下，如何决定当前的人是否可以结婚呢？](https://www.v2ex.com/t/1155810)
+
