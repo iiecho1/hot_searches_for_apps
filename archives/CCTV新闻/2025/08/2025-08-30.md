@@ -165,3 +165,5 @@
 
 + [土耳其对以色列关闭港口、领空 全面中断与以经贸往来](https://news.cctv.com/2025/08/30/ARTImVDpPQhjXAgN7R5Kfm46250830.shtml)
 
++ [南非邮政宣布暂停向美寄送包裹](https://news.cctv.com/2025/08/30/ARTILN4Fk5QxnJgCg5AXWKfs250830.shtml)
+

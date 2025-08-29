@@ -121,3 +121,9 @@
 
 + [Java线程池深度解析：从原理到实战的完整指南](https://blog.csdn.net/m0_74385041/article/details/150959648)
 
++ [Docker 详解+示例(Kafka镜像容器）](https://blog.csdn.net/2401_84926677/article/details/150926648)
+
++ [Python DELL Logo](https://blog.csdn.net/m0_68111267/article/details/150965079)
+
++ [【花雕动手做】Kitronik 可编程开发板 ARCADE MakeCode 的吃披萨小游戏](https://blog.csdn.net/weixin_41659040/article/details/150942458)
+
