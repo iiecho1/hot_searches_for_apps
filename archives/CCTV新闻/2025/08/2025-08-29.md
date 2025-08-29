@@ -181,3 +181,9 @@
 
 + [视频丨一架F-16战斗机在波兰坠毁 飞行员遇难](https://news.cctv.com/2025/08/29/ARTIYFKjfsPTVkIltzXEzda0250829.shtml)
 
++ [哥伦比亚遭绑架士兵在谈判后全部获释](https://news.cctv.com/2025/08/29/ARTIetsY1cMvINcXDvQksqNX250829.shtml)
+
++ [韩国内乱特检组对前国务总理韩德洙提出起诉](https://news.cctv.com/2025/08/29/ARTILJUAmxqJOZVLkW7FGgIy250829.shtml)
+
++ [美军12亿美元合同建得州最大移民拘留营 引发质疑](https://news.cctv.com/2025/08/29/ARTIEvtVlyUIhuoKM9W7AAVN250829.shtml)
+
