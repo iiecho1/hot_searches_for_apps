@@ -189,3 +189,5 @@
 
 + [韩国特检组对前第一夫人金建希提出起诉](https://news.cctv.com/2025/08/29/ARTIO43Bu0zzo403y83KQppj250829.shtml)
 
++ [日企又被曝在测试中存在“不当行为” 这次是潜艇发动机](https://news.cctv.com/2025/08/29/ARTIugAnz1c2kofpmbbonYMX250829.shtml)
+
