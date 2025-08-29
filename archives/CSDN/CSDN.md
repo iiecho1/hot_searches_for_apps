@@ -229,3 +229,7 @@
 
 + [【Web安全】反序列化安全漏洞全解析：从原理到实战测试指南](https://blog.csdn.net/qq_40037555/article/details/150958591)
 
++ [从枯燥C++到趣味音乐：我的Windows系统底层探索之旅](https://blog.csdn.net/Wins_calculator/article/details/150965364)
+
++ [万字详解架构设计：业务架构、应用架构、数据架构、技术架构、单体、分布式、微服务都是什么？](https://blog.csdn.net/kangbin825/article/details/150950307)
+
