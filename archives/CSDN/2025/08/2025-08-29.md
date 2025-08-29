@@ -145,3 +145,13 @@
 
 + [Linux应用软件编程---网络编程（TCP并发服务器构建：[ 多进程、多线程、select ]）](https://blog.csdn.net/2403_89873515/article/details/150932612)
 
++ [KingBase数据库迁移利器：KDTS工具 MySQL数据迁移到KingbaseES实战](https://blog.csdn.net/Dreamy_zsy/article/details/150701313)
+
++ [瑞芯微RK3568与君正X2600e平台Linux系统CS创世SD NAND应用全解析与驱动架构详解](https://blog.csdn.net/EterNity_TiMe_/article/details/150947857)
+
++ [[n8n] 全文检索(FTS)集成 | Mermaid图表生成](https://blog.csdn.net/2301_80171004/article/details/150949411)
+
++ [Python音频分析与线性回归：探索声音中的数学之美](https://blog.csdn.net/weixin_32759777/article/details/150935049)
+
++ [嵌入式Linux（Exynos 4412）笔记](https://blog.csdn.net/weixin_58619060/article/details/150919240)
+

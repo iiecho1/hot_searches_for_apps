@@ -179,3 +179,5 @@
 
 + [美国批准向乌克兰出售价值8.25亿美元的空投弹药及相关装备](https://news.cctv.com/2025/08/29/ARTIVaWB7IgI0SSZJzqj8Mlr250829.shtml)
 
++ [视频丨一架F-16战斗机在波兰坠毁 飞行员遇难](https://news.cctv.com/2025/08/29/ARTIYFKjfsPTVkIltzXEzda0250829.shtml)
+
