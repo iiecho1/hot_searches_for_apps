@@ -181,3 +181,9 @@
 
 + [汽车盲点检测系统的网络安全分析和设计](https://blog.csdn.net/NewCarRen/article/details/150924291)
 
++ [Spring Boot + KingbaseES 连接池实战](https://blog.csdn.net/weixin_66401877/article/details/150962440)
+
++ [大脑的藏宝图——神经科学如何为自然语言处理（NLP）的深度语义理解绘制新航线](https://blog.csdn.net/2401_88801724/article/details/150937029)
+
++ [【架构师干货】软件工程](https://blog.csdn.net/ChiXueZhiHun/article/details/150938409)
+
