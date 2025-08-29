@@ -137,3 +137,9 @@
 
 + [微服务-30.配置管理-动态路由](https://blog.csdn.net/qq_45055856/article/details/150932813)
 
++ [将 agents 连接到 Elasticsearch 使用模型上下文协议 - docker](https://blog.csdn.net/UbuntuTouch/article/details/150951617)
+
++ [手机冻结技术发展时间轴](https://blog.csdn.net/su749520/article/details/150922707)
+
++ [Linux应用软件编程---网络编程（TCP并发服务器构建：[ 多进程、多线程、select ]）](https://blog.csdn.net/2403_89873515/article/details/150932612)
+

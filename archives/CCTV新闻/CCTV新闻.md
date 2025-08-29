@@ -167,3 +167,9 @@
 
 + [南非邮政宣布暂停向美寄送包裹](https://news.cctv.com/2025/08/30/ARTILN4Fk5QxnJgCg5AXWKfs250830.shtml)
 
++ [佩通坦被解职 新总理人选浮出 一文了解泰国政坛新动向→](https://news.cctv.com/2025/08/30/ARTIrE5aao17XVuXCjRekiJO250830.shtml)
+
++ [美上诉法院裁定美政府大部分全球关税政策非法](https://news.cctv.com/2025/08/30/ARTII3jKzMy6tg7baaKxHPRK250830.shtml)
+
++ [土耳其议会通过动议谴责以色列实施种族灭绝](https://news.cctv.com/2025/08/30/ARTIdWh92bbD4rrc6o7NgMyR250830.shtml)
+
