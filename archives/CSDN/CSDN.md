@@ -127,3 +127,7 @@
 
 + [【花雕动手做】Kitronik 可编程开发板 ARCADE MakeCode 的吃披萨小游戏](https://blog.csdn.net/weixin_41659040/article/details/150942458)
 
++ [探索 Vertex AI 与 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/150942935)
+
++ [基于栅格地图的无人机三维路径规划算法研究（Matlab代码实现）](https://blog.csdn.net/weixin_66436111/article/details/151001966)
+
