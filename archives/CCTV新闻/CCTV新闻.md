@@ -217,3 +217,5 @@
 
 + [巴西启动反制相关程序 卢拉说仍愿与美国谈判](https://news.cctv.com/2025/08/30/ARTIZAfODiNeEMoVyvySNJ7K250830.shtml)
 
++ [高端访谈｜铭记共同历史　携手为实现俄中繁荣昌盛而奋斗——访俄罗斯总统普京](https://news.cctv.com/2025/08/30/ARTIShcC73fMvuiCBxp2yeUS250830.shtml)
+

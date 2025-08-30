@@ -191,3 +191,13 @@
 
 + [【重磅发布】flutter_chen_updater-版本升级更新](https://blog.csdn.net/weijia1234567/article/details/150948305)
 
++ [Vue - Error: Cannot call .tap() on a plugin that has not yet been defined. Call plugin(‘html‘).use(＜](https://blog.csdn.net/weixin_44198965/article/details/151013413)
+
++ [YARN架构解析：深入理解Hadoop资源管理核心](https://blog.csdn.net/m0_74385041/article/details/150998859)
+
++ [⸢ 叁 ⸥ ⤳ 默认安全：概述与建设思路](https://blog.csdn.net/weixin_42115157/article/details/150014212)
+
++ [组合期权：鹰式策略](https://blog.csdn.net/K346K346/article/details/151012111)
+
++ [【架构师干货】软件工程](https://blog.csdn.net/ChiXueZhiHun/article/details/150938409)
+

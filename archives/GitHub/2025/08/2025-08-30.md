@@ -35,3 +35,25 @@
 
 + [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 
++ [inventree/InvenTree](https://github.com/inventree/InvenTree)
+
++ [activepieces/activepieces](https://github.com/activepieces/activepieces)
+
++ [elixir-lang/expert](https://github.com/elixir-lang/expert)
+
++ [laramies/theHarvester](https://github.com/laramies/theHarvester)
+
++ [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
++ [dockur/windows](https://github.com/dockur/windows)
+
++ [bin456789/reinstall](https://github.com/bin456789/reinstall)
+
++ [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+
++ [chroma-core/chroma](https://github.com/chroma-core/chroma)
+
++ [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+
++ [JetBrains/koog](https://github.com/JetBrains/koog)
+
