@@ -143,3 +143,29 @@
 
 + [无懈可击的 TCP AIMD](https://blog.csdn.net/dog250/article/details/150997641)
 
++ [自动驾驶中的传感器技术36——Lidar（11）](https://blog.csdn.net/Godspeed_zwh/article/details/150999030)
+
++ [探索 Vertex AI 与 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/150942935)
+
++ [从枯燥C++到趣味音乐：我的Windows系统底层探索之旅](https://blog.csdn.net/Wins_calculator/article/details/150965364)
+
++ [【MLLM】多模态理解Ovis2.5模型架构和训练流程](https://blog.csdn.net/qq_35812205/article/details/151027616)
+
++ [Vue3 + GeoScene 地图点击事件系统设计](https://blog.csdn.net/weixin_67093879/article/details/151027210)
+
++ [【微信小程序】基于微信小程序的研学旅游服务小程序](https://blog.csdn.net/m0_64148096/article/details/151027623)
+
++ [简易TCP网络程序](https://blog.csdn.net/2401_83603768/article/details/151022264)
+
++ [什么是策略模式？策略模式能带来什么？——策略模式深度解析：从概念本质到Java实战的全维度指南](https://blog.csdn.net/Ckkkkky/article/details/150998884)
+
++ [FastGPT 工作流自动化工具, 并与 Al Agent 进行集成工作流](https://blog.csdn.net/2503_93205046/article/details/150993354)
+
++ [Java Web 电影院订票选座系统系统源码-SpringBoot2+微信小程序+MyBatis+MySQL8【含文档】](https://blog.csdn.net/2501_92839909/article/details/151025400)
+
++ [科技守护古树魂：古树制茶行业的数字化转型之路](https://blog.csdn.net/jiuhebaobao/article/details/150944641)
+
++ [【创新未发表】基于吕佩尔狐算法RFO复杂城市地形无人机避障三维航迹规划研究（Matlab代码实现）](https://blog.csdn.net/Matlab88888/article/details/151005880)
+
++ [Kotlin Android 水印功能实现指南：使用 Watermark 库](https://blog.csdn.net/tangweiguo03051987/article/details/151027724)
+
