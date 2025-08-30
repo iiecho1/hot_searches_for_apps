@@ -219,3 +219,5 @@
 
 + [高端访谈｜铭记共同历史　携手为实现俄中繁荣昌盛而奋斗——访俄罗斯总统普京](https://news.cctv.com/2025/08/30/ARTIShcC73fMvuiCBxp2yeUS250830.shtml)
 
++ [泰国内阁批准任命普坦继续担任代理总理](https://news.cctv.com/2025/08/30/ARTIU1SecZHCVPC9ac9qT0lA250830.shtml)
+

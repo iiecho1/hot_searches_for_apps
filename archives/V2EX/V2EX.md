@@ -65,3 +65,5 @@
 
 + [idea 的 git 为什么这么慢](https://www.v2ex.com/t/1155869)
 
++ [月底了， V 友们来找我 ChatGPT Plus 续费代充吧！](https://www.v2ex.com/t/1155916)
+
