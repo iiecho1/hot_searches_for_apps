@@ -191,3 +191,7 @@
 
 + [德政党领导人：乌克兰政府“深度参与”“北溪”爆炸案 应作出解释](https://news.cctv.com/2025/08/30/ARTIRY40Zkkx3Y73qdFD7Jql250830.shtml)
 
++ [委内瑞拉再发警告：美军事行动严重威胁拉丁美洲稳定](https://news.cctv.com/2025/08/30/ARTI1aS2gLLbhuVKlCq1eKRh250830.shtml)
+
++ [越南将对13920名囚犯实施国庆特赦](https://news.cctv.com/2025/08/30/ARTID02K9BLNATlLvySB1T1q250830.shtml)
+
