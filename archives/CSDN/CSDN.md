@@ -153,3 +153,7 @@
 
 + [自我隔离式深度学习：实现多领域知识探索的全面指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/150949141)
 
++ [Qwen3-Coder+高德MCP打造情侣十一假期四日游武汉攻略](https://blog.csdn.net/IRpickstars/article/details/150963661)
+
++ [小程序版碰一碰发视频：源码搭建与定制化开发的源头技术解析](https://blog.csdn.net/2503_92596371/article/details/150980702)
+

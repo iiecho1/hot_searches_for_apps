@@ -21,3 +21,9 @@
 
 + [润是一条越走越孤单的路](https://www.v2ex.com/t/1155849)
 
++ [移动端技术选型，军师们有啥建议？](https://www.v2ex.com/t/1155817)
+
++ [2025 年了，感觉 podman 已经比 docker 好用太多了，就差一个杀手级的 GUI 配置了](https://www.v2ex.com/t/1155756)
+
++ [舔狗七夕应该送什么？](https://www.v2ex.com/t/1155741)
+

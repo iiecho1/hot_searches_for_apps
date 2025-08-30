@@ -183,3 +183,11 @@
 
 + [美国联邦巡回上诉法院裁定特朗普对多国征收关税违法](https://news.cctv.com/2025/08/30/ARTI0OTmPewsaaYPcZgTrSqp250830.shtml)
 
++ [韩国多地中学遭遇“诈弹”威胁](https://news.cctv.com/2025/08/30/ARTIZF1NHT7wma14eD4oIQrV250830.shtml)
+
++ [俄外交部：西方对乌安全保障带有“遏制俄罗斯的盘算”](https://news.cctv.com/2025/08/30/ARTIYvRZPQdZ19PWuYejSHN6250830.shtml)
+
++ [美国联邦巡回上诉法院裁定特朗普政府大部分加征关税措施非法](https://news.cctv.com/2025/08/30/ARTIhYewu6I1ulJ1VrIqowd0250830.shtml)
+
++ [德政党领导人：乌克兰政府“深度参与”“北溪”爆炸案 应作出解释](https://news.cctv.com/2025/08/30/ARTIRY40Zkkx3Y73qdFD7Jql250830.shtml)
+
