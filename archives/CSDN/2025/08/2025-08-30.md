@@ -209,3 +209,7 @@
 
 + [【云原生】Docker 搭建Kafka服务两种方式实战操作详解](https://blog.csdn.net/congge_study/article/details/150870393)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在智能电网分布式电源接入与电力系统稳定性维护中的应用（404）](https://blog.csdn.net/atgfg/article/details/150964176)
+
++ [【Big Data】Presto db 一种语言、一个接口搭建可靠、高效数据湖仓](https://blog.csdn.net/weixin_39671271/article/details/150941387)
+
