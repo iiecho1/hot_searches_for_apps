@@ -33,3 +33,27 @@
 
 + [realme 真我 15000mAh 概念手机发布，整机厚度不到 9mm](https://m.ithome.com/html/878654.htm)
 
++ [小米宣布主动召回 PB2030MI 型号部分充电宝，总计 146891 台](https://m.ithome.com/html/879063.htm)
+
++ [华为 MatePad Mini 平板官宣：“超强超 Mini”，9 月 4 日见](https://m.ithome.com/html/878890.htm)
+
++ [一汽奥迪删除“四环相扣，才是奥迪”文章](https://m.ithome.com/html/878904.htm)
+
++ [消息称小米向安普瑞斯启动经济追偿，对电芯问题导致的损失进行追责](https://m.ithome.com/html/879077.htm)
+
++ [小米澎湃 OS 3 首批 Beta 版正式推送，8 款机型可升级](https://m.ithome.com/html/878886.htm)
+
++ [微软 35 岁员工深夜加班在公司死亡，被曝经常熬夜工作](https://m.ithome.com/html/878860.htm)
+
++ [华为今年上半年营收达 4270 亿元，同比增长 3.94%](https://m.ithome.com/html/879043.htm)
+
++ [七夕节限定：微信开放 520 元大额红包，仅限今天](https://m.ithome.com/html/878854.htm)
+
++ [澎湃 OS 3 Beta 推送计划公布：小米 14 及 REDMI K70 系列不晚于 9 月 30 日](https://m.ithome.com/html/878955.htm)
+
++ [上汽奥迪隔空回怼一汽奥迪：116 年前奥迪创立之初用的就是“AUDI”logo](https://m.ithome.com/html/879060.htm)
+
++ [新款特斯拉 Model Y 高性能版发布：3.5 秒破百，WLTP 续航 580 公里](https://m.ithome.com/html/878973.htm)
+
++ [预售价 47.99 万元起，极氪 9X 旗舰 SUV 预售 1 小时订单达 42667 台](https://m.ithome.com/html/878949.htm)
+

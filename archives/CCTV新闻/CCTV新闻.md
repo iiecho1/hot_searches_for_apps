@@ -195,3 +195,9 @@
 
 + [越南将对13920名囚犯实施国庆特赦](https://news.cctv.com/2025/08/30/ARTID02K9BLNATlLvySB1T1q250830.shtml)
 
++ [毛里塔尼亚驳斥“人权观察”组织关于毛移民问题的报告](https://news.cctv.com/2025/08/30/ARTIdywH6W3NNL8XsEwz9Oj8250830.shtml)
+
++ [世卫报告：全球霍乱疫情持续恶化](https://news.cctv.com/2025/08/30/ARTIRQsnswcwQqaafTQtXRZs250830.shtml)
+
++ [日媒：日本少子化进程加速](https://news.cctv.com/2025/08/30/ARTInUNqhw1PT7F5fB8qrxIF250830.shtml)
+

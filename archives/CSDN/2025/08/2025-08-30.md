@@ -157,3 +157,7 @@
 
 + [小程序版碰一碰发视频：源码搭建与定制化开发的源头技术解析](https://blog.csdn.net/2503_92596371/article/details/150980702)
 
++ [YOLOv8-SMOT：一种高效鲁棒的实时小目标跟踪框架：基于切片辅助训练与自适应关联](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/150584053)
+
++ [【web3】十分钟了解web3是什么？](https://blog.csdn.net/weixin_38997187/article/details/150998275)
+
