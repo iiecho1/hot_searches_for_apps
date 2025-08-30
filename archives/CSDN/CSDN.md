@@ -183,3 +183,11 @@
 
 + [MySQL用户管理与安全实践](https://blog.csdn.net/gaosw0521/article/details/150946810)
 
++ [MySQL 8 与 PostgreSQL 17 对比分析及迁移指南](https://blog.csdn.net/ITzaibadong/article/details/150934935)
+
++ [论文阅读——基于汽车雷达传感器的行人识别研究](https://blog.csdn.net/qq_44648285/article/details/150963770)
+
++ [WiFi指纹定位发论文求生指南——浅论WiFi指纹定位的前世今生与毕业困境](https://blog.csdn.net/qq_53860947/article/details/150995354)
+
++ [【重磅发布】flutter_chen_updater-版本升级更新](https://blog.csdn.net/weijia1234567/article/details/150948305)
+
