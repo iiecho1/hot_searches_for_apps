@@ -215,3 +215,5 @@
 
 + [美国批准向丹麦、乌克兰出售武器](https://news.cctv.com/2025/08/30/ARTIzzvZWFJHN8JPXWo6atpD250830.shtml)
 
++ [巴西启动反制相关程序 卢拉说仍愿与美国谈判](https://news.cctv.com/2025/08/30/ARTIZAfODiNeEMoVyvySNJ7K250830.shtml)
+

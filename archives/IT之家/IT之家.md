@@ -73,3 +73,7 @@
 
 + [苹果“跨肩背带”首曝：iPhone 17 系列专属配件，磁吸设计](https://m.ithome.com/html/878829.htm)
 
++ [一日两更：微信鸿蒙版 App 获 1.0.10.33 版本邀测升级，支持 Callkit 系统级通话提醒](https://m.ithome.com/html/878815.htm)
+
++ [鸿蒙智行全新问界 M7 汽车内饰细节公布：后排娱乐屏支持与前排联动、配备 7.3L 压缩机冷暖箱](https://m.ithome.com/html/878828.htm)
+
