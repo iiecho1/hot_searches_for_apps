@@ -183,3 +183,13 @@
 
 + [产品经理操作手册（8）——业务需求文档(BRD)](https://blog.csdn.net/liululun/article/details/150924631)
 
++ [【小程序-慕尚花坊05】项目中网络请求封装](https://blog.csdn.net/m0_59269218/article/details/151030396)
+
++ [我爱导航系统(52DH Pro) v1.1.1发布：开源免费的网址导航系统](https://blog.csdn.net/bbos2004/article/details/151028800)
+
++ [【无人机协同】基于遗传算法GA的同构异构无人机UAV协同搜索研究（Matlab代码实现）](https://blog.csdn.net/Ke_Yan_She/article/details/151028592)
+
++ [51c视觉~3D~合集5](https://blog.csdn.net/weixin_49587977/article/details/151031486)
+
++ [任务型Agent：工具详细设计](https://blog.csdn.net/zhuqiuhui/article/details/151029587)
+

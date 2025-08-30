@@ -165,3 +165,5 @@
 
 + [联合国近东救济工程处：加沙66万名儿童已连续三年失学](https://news.cctv.com/2025/08/31/ARTIqLCKwRXCei7C422QEiCw250831.shtml)
 
++ [匈牙利外长称欧盟委员会已成“乌克兰委员会”](https://news.cctv.com/2025/08/31/ARTI59yjFayiSSz3cnXpRV4k250831.shtml)
+
