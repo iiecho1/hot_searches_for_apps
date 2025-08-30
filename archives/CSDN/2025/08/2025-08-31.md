@@ -195,3 +195,5 @@
 
 + [网格纹理采样算法](https://blog.csdn.net/puss0/article/details/151025557)
 
++ [如何在矩池云上使用Jupyter-ai功能](https://blog.csdn.net/weixin_48344945/article/details/150974446)
+

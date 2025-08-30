@@ -167,3 +167,7 @@
 
 + [匈牙利外长称欧盟委员会已成“乌克兰委员会”](https://news.cctv.com/2025/08/31/ARTI59yjFayiSSz3cnXpRV4k250831.shtml)
 
++ [多名要员遭以色列空袭身亡 也门胡塞武装誓言复仇](https://news.cctv.com/2025/08/31/ARTIHBqbx5LxlzZ3Okw9cfqc250831.shtml)
+
++ [欧盟敦促美国重新考虑拒签巴勒斯坦官员决定](https://news.cctv.com/2025/08/31/ARTIBg9J0759HeNXKFCylReL250831.shtml)
+
