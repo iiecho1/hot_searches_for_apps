@@ -113,3 +113,33 @@
 
 + [Vue 项目首屏加载速度优化](https://blog.csdn.net/2401_86243549/article/details/150988400)
 
++ [【花雕学编程】Arduino BLDC 之基于负载识别的自适应PID控制（AGV物流机器人驱动轮）](https://blog.csdn.net/weixin_41659040/article/details/151007728)
+
++ [PostgreSQL 流复制 和 Oracle ADG 关于归档的要求对比](https://blog.csdn.net/hezuijiudexiaobai/article/details/151024999)
+
++ [将 agents 连接到 Elasticsearch 使用模型上下文协议 - docker](https://blog.csdn.net/UbuntuTouch/article/details/150951617)
+
++ [RLDG——RL知识蒸馏通用体：先基于精密任务训练RL策略，后让其自动生成数据，最后微调VLA，效果超越人类演示数据](https://blog.csdn.net/v_JULY_v/article/details/150998847)
+
++ [工业级TF卡NAND + 北京君正 + Rk瑞芯微的应用](https://blog.csdn.net/weixin_44976692/article/details/150949821)
+
++ [基于栅格地图的无人机三维路径规划算法研究（Matlab代码实现）](https://blog.csdn.net/weixin_66436111/article/details/151001966)
+
++ [Rust 项目实战：异步多线程 Web 服务器](https://blog.csdn.net/ProgramNovice/article/details/150846509)
+
++ [基于博客系统的自动化测试项目](https://blog.csdn.net/2301_79479763/article/details/150949472)
+
++ [上海市赛/磐石行动2025决赛awd web2-python 4个漏洞详解](https://blog.csdn.net/dhgogogogogogo/article/details/150997955)
+
++ [【网络安全领域】边界安全是什么？目前的发展及应用场景](https://blog.csdn.net/JL54654/article/details/150975539)
+
++ [PDF转图片工具实现](https://blog.csdn.net/xiaoxionglove/article/details/150998740)
+
++ [【无人机协同】基于APSO PSO CS-PSO MP_PSO A-PSO GA多种算法实现无人机路径协同规划研究（Matlab代码复现）](https://blog.csdn.net/weixin_67304359/article/details/150980262)
+
++ [SpringCloud OpenFeign 远程调用（RPC）（三）](https://blog.csdn.net/2302_79847831/article/details/150956735)
+
++ [当 GitHub 宕机时，我们如何协作？](https://blog.csdn.net/hfd1990/article/details/150981361)
+
++ [无懈可击的 TCP AIMD](https://blog.csdn.net/dog250/article/details/150997641)
+

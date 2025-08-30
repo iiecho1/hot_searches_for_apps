@@ -161,3 +161,5 @@
 
 + [“中国为世界反法西斯战争胜利发挥了至关重要的作用”](https://news.cctv.com/2025/08/27/ARTI9V9TQZlBuzNNLKxVpQbg250827.shtml)
 
++ [美拒签巴勒斯坦代表赴联大参会 欧盟敦促美重新考虑](https://news.cctv.com/2025/08/31/ARTIYv5WRDN8TqFtyPAT9TYL250831.shtml)
+

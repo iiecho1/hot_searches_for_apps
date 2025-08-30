@@ -49,3 +49,13 @@
 
 + [百亿级项目流产：上海梧升半导体正式宣告破产](https://m.ithome.com/html/879147.htm)
 
++ [京东在江苏宿迁为 66 对客服新人举办集体婚礼](https://m.ithome.com/html/879096.htm)
+
++ [苹果官宣入驻抖音商城开通 Apple Store 官方旗舰店：店铺带有专属 Logo、支持 12 期免息分期](https://m.ithome.com/html/879006.htm)
+
++ [无人机疑似拍摄九三阅兵军机训练，国家安全部通报提醒](https://m.ithome.com/html/879028.htm)
+
++ [售 1 万元：魅族推出七夕手机套装，含 6 台手机，涵盖 Note 16 Pro、Note 16、Lucky 08](https://m.ithome.com/html/879048.htm)
+
++ [OPPO 陈希：今年下半年流畅切换新战场，ColorOS 16 将有负一屏打断动画](https://m.ithome.com/html/879091.htm)
+
