@@ -67,3 +67,5 @@
 
 + [月底了， V 友们来找我 ChatGPT Plus 续费代充吧！](https://www.v2ex.com/t/1155916)
 
++ [求 IBKR 开户邀请链接，邀请费对半分](https://www.v2ex.com/t/1155903)
+

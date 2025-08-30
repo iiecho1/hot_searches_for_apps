@@ -201,3 +201,11 @@
 
 + [【架构师干货】软件工程](https://blog.csdn.net/ChiXueZhiHun/article/details/150938409)
 
++ [MySQL數據庫開發教學(四) 後端與數據庫的交互](https://blog.csdn.net/2501_92376690/article/details/150994115)
+
++ [C#连接SQL-Server数据库超详细讲解以及防SQL注入](https://blog.csdn.net/gtl20071123/article/details/150994846)
+
++ [uniapp：百度地图实时渲染车辆移动+轨迹路径，支持多辆小车的实时移动渲染轨迹及定时刷新车辆位置功能+轨迹回放示例源码，支持百度地图车辆实时长链接服务器端（移动端H5网页/小程序/安卓苹果APP端）](https://blog.csdn.net/weixin_50545213/article/details/151019330)
+
++ [【云原生】Docker 搭建Kafka服务两种方式实战操作详解](https://blog.csdn.net/congge_study/article/details/150870393)
+
