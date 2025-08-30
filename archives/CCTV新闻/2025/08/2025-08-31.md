@@ -163,3 +163,5 @@
 
 + [美拒签巴勒斯坦代表赴联大参会 欧盟敦促美重新考虑](https://news.cctv.com/2025/08/31/ARTIYv5WRDN8TqFtyPAT9TYL250831.shtml)
 
++ [联合国近东救济工程处：加沙66万名儿童已连续三年失学](https://news.cctv.com/2025/08/31/ARTIqLCKwRXCei7C422QEiCw250831.shtml)
+

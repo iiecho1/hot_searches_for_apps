@@ -169,3 +169,17 @@
 
 + [Kotlin Android 水印功能实现指南：使用 Watermark 库](https://blog.csdn.net/tangweiguo03051987/article/details/151027724)
 
++ [基于图像形态学处理和GRNN广义回归神经网络的人员密度检测matlab仿真](https://blog.csdn.net/ccsss22/article/details/151030615)
+
++ [虚假 TradingView Facebook 广告在全球传播 Android 间谍软件](https://blog.csdn.net/qq_29607687/article/details/151025265)
+
++ [开发送水小程序平台功能方案，业务闭环，完整方案](https://blog.csdn.net/u011085154/article/details/150954483)
+
++ [第12章：推荐算法与实践](https://blog.csdn.net/liangxh2010/article/details/151025905)
+
++ [WebGPU在实时生物信息学基因组数据可视化中的性能优化与交互体验提升实践](https://blog.csdn.net/qq_36287830/article/details/151027965)
+
++ [【微信小程序】微信小程序基于双token的API请求封装与无感刷新实现方案](https://blog.csdn.net/Arabys/article/details/150952313)
+
++ [产品经理操作手册（8）——业务需求文档(BRD)](https://blog.csdn.net/liululun/article/details/150924631)
+
