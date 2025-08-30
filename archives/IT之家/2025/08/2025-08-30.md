@@ -71,3 +71,5 @@
 
 + [零跑 B01 纯电轿车上市 37 天交付破万：8.98 万起，可选激光雷达](https://m.ithome.com/html/879127.htm)
 
++ [苹果“跨肩背带”首曝：iPhone 17 系列专属配件，磁吸设计](https://m.ithome.com/html/878829.htm)
+

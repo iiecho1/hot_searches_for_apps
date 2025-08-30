@@ -201,3 +201,17 @@
 
 + [日媒：日本少子化进程加速](https://news.cctv.com/2025/08/30/ARTInUNqhw1PT7F5fB8qrxIF250830.shtml)
 
++ [49亿美元对外援助被叫停 特朗普单方面行动激化两党对立](https://news.cctv.com/2025/08/30/ARTIBA7zfEL1uRJXapgEqTwd250830.shtml)
+
++ [南非成功实施首例机器人辅助供体肾脏切除手术](https://news.cctv.com/2025/08/30/ARTICsqHAPoxDmxCQrRiY6v7250830.shtml)
+
++ [英国：不邀以色列政府代表团出席伦敦武器装备展](https://news.cctv.com/2025/08/30/ARTIAS68DFsRbzlBKQuPzRTz250830.shtml)
+
++ [墨西哥总统将会见美国国务卿 寻求就安全事务等议题达成合作](https://news.cctv.com/2025/08/30/ARTI84cjbVWGDs7m1k4EIlqy250830.shtml)
+
++ [美官员：巴勒斯坦总统和80名巴方官员美国签证被吊销](https://news.cctv.com/2025/08/30/ARTIVJTf48QDX0PgvGtDRMUQ250830.shtml)
+
++ [又一州 美国密苏里州州长下令重划国会选区](https://news.cctv.com/2025/08/30/ARTIr0JiFbffdxjdSWsP7Kzm250830.shtml)
+
++ [美国批准向丹麦、乌克兰出售武器](https://news.cctv.com/2025/08/30/ARTIzzvZWFJHN8JPXWo6atpD250830.shtml)
+
