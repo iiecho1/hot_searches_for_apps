@@ -171,3 +171,5 @@
 
 + [一文读懂 Java 主流编译器：特性、场景与选择指南](https://blog.csdn.net/2503_91389547/article/details/150951709)
 
++ [OpenCV计算机视觉实战（22）——图像拼接详解](https://blog.csdn.net/qq_30167691/article/details/148212925)
+
