@@ -173,3 +173,7 @@
 
 + [土耳其议会通过动议谴责以色列实施种族灭绝](https://news.cctv.com/2025/08/30/ARTIdWh92bbD4rrc6o7NgMyR250830.shtml)
 
++ [联合国秘书长呼吁苏丹武装冲突各方在法希尔立即停火](https://news.cctv.com/2025/08/30/ARTIAqAKilWzF5OUirs2nq2x250830.shtml)
+
++ [法德将就核威慑问题启动高级别战略对话](https://news.cctv.com/2025/08/30/ARTILkxFhBbKlv2AVvXaR0Z9250830.shtml)
+
