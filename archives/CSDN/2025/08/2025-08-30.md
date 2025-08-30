@@ -151,3 +151,5 @@
 
 + [Unity、Unreal Engine与Godot中纹理元数据管理的比较分析](https://blog.csdn.net/2503_92624912/article/details/150989703)
 
++ [自我隔离式深度学习：实现多领域知识探索的全面指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/150949141)
+

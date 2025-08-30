@@ -177,3 +177,9 @@
 
 + [法德将就核威慑问题启动高级别战略对话](https://news.cctv.com/2025/08/30/ARTILkxFhBbKlv2AVvXaR0Z9250830.shtml)
 
++ [法德联手捍卫欧盟数字主权 马克龙：不允许他国替欧盟做决定](https://news.cctv.com/2025/08/30/ARTI5LTzk85wJsQE5y0Ah4Sm250830.shtml)
+
++ [美上诉法院裁定政府大部分全球关税政策违法 特朗普回应](https://news.cctv.com/2025/08/30/ARTItysR84UxBmYR8TIp2Ocp250830.shtml)
+
++ [美国联邦巡回上诉法院裁定特朗普对多国征收关税违法](https://news.cctv.com/2025/08/30/ARTI0OTmPewsaaYPcZgTrSqp250830.shtml)
+
