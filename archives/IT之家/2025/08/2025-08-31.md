@@ -25,3 +25,27 @@
 
 + [预售价 47.99 万元起，极氪 9X 旗舰 SUV 预售 1 小时订单达 42667 台](https://m.ithome.com/html/878949.htm)
 
++ [华为任正非、DeepSeek 梁文锋、宇树王兴兴入选《时代》TIME100 AI 2025 全球百大人物“领导者”榜单](https://m.ithome.com/html/879131.htm)
+
++ [消息称小米 16 系列手机将原生支持诺基亚 OZO Audio 音频技术](https://m.ithome.com/html/879179.htm)
+
++ [周意保晒 OPPO 滨海湾员工公寓：50m&#178; 一室一厅海景房，拎包入住每月租金 1550 元](https://m.ithome.com/html/879176.htm)
+
++ [高通骁龙 8 Elite Gen 5 旗舰芯片曝光：主频 4.61GHz，安兔兔跑分 400W+、性能提升约 50%](https://m.ithome.com/html/879175.htm)
+
++ [零跑 B01 纯电轿车上市 37 天交付破万：8.98 万起，可选激光雷达](https://m.ithome.com/html/879127.htm)
+
++ [杀入 25 万元内：凯迪拉克推出新款 XT5，限时售 22.99-32.09 万元](https://m.ithome.com/html/879140.htm)
+
++ [鸿蒙智行公布全新问界 M7 六款车身配色：灵感来自“24 小时色彩”](https://m.ithome.com/html/879167.htm)
+
++ [支付宝：部分商家“恶意营销”引发消费纠纷，对其终止支付服务](https://m.ithome.com/html/879116.htm)
+
++ [刘强东现身江苏宿迁，京东折扣超市今日在当地“四店同开”](https://m.ithome.com/html/879148.htm)
+
++ [英特尔承认 Arrow Lake 桌面处理器缺乏竞争力，相信下一代 Nova Lake 将扭转局面](https://m.ithome.com/html/879126.htm)
+
++ [李斌：用户不买蔚来车 30%-40% 因担心倒闭，四季度盈利成关键](https://m.ithome.com/html/879228.htm)
+
++ [百亿级项目流产：上海梧升半导体正式宣告破产](https://m.ithome.com/html/879147.htm)
+
