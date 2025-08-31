@@ -59,3 +59,15 @@
 
 + [OPPO 陈希：今年下半年流畅切换新战场，ColorOS 16 将有负一屏打断动画](https://m.ithome.com/html/879091.htm)
 
++ [教育局回应上海斥资 1.4 亿元给学生配运动手环：免费发，项目正招标中](https://m.ithome.com/html/879248.htm)
+
++ [《亮剑》播出 20 周年，9 月 2 日全弹幕回归B站](https://m.ithome.com/html/879222.htm)
+
++ [华为余承东谈尚界 H5：鸿蒙智行以往产品主要在 25 万元以上，卖 20 万以下都是亏的](https://m.ithome.com/html/879265.htm)
+
++ [华为轮值董事长徐直军：鸿蒙生态根基已立，互联网头部应用已适配](https://m.ithome.com/html/879237.htm)
+
++ [小米卢伟冰：澎湃 OS 3 Beta 版发布后，首批用户反馈还不错](https://m.ithome.com/html/879273.htm)
+
++ [何小鹏：全新 P7 定价低了，汽车行业竞争可能才刚刚开始](https://m.ithome.com/html/879262.htm)
+

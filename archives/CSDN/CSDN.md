@@ -207,3 +207,15 @@
 
 + [个性化导航新体验：cpolar让Dashy支持语音控制](https://blog.csdn.net/2201_75743654/article/details/151018514)
 
++ [Redis vs Elasticsearch：核心区别深度解析](https://blog.csdn.net/HTTP404_CN/article/details/150992405)
+
++ [KNN算法（K近邻算法）](https://blog.csdn.net/pan13360344415/article/details/150996033)
+
++ [pdf 转图片工具实现](https://blog.csdn.net/xiaoxionglove/article/details/150998740)
+
++ [Coze源码分析-大模型配置文件的加载](https://blog.csdn.net/lypzcgf/article/details/151037140)
+
++ [计算机是如何运行的](https://blog.csdn.net/2301_81080732/article/details/150953292)
+
++ [GitHub 热榜项目 - 日榜(2025-08-29)](https://blog.csdn.net/u014390502/article/details/150973616)
+
