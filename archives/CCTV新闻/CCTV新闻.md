@@ -175,3 +175,11 @@
 
 + [巴勒斯坦总统府敦促美政府撤销对巴总统拒签决定](https://news.cctv.com/2025/08/31/ARTIkakfRMgaNAHHyKb5PixQ250831.shtml)
 
++ [迈向和平与正义的共同之路](https://news.cctv.com/2025/08/31/ARTINTZBcTHVwqSbE4fzESq1250831.shtml)
+
++ [携手共筑友谊与合作之路](https://news.cctv.com/2025/08/31/ARTI4IYdRDWGLkoEUUgxK9lX250831.shtml)
+
++ [上合组织天津峰会｜弘扬“上海精神” 凝聚“上合力量”——多国人士热切期待2025年上海合作组织峰会举行](https://news.cctv.com/2025/08/31/ARTIov6iJigfPGnqCDS0tZk4250831.shtml)
+
++ [乌克兰前议长遭枪击身亡 泽连斯基下令彻查](https://news.cctv.com/2025/08/31/ARTItq3563s6SyXsp3z6uDPp250831.shtml)
+

@@ -219,3 +219,7 @@
 
 + [GitHub 热榜项目 - 日榜(2025-08-29)](https://blog.csdn.net/u014390502/article/details/150973616)
 
++ [当 AI 嚼碎数据吐模块，人类开发者的创意还能留几行？—— 老码农的反编译式安心剂](https://blog.csdn.net/qq_33650655/article/details/150940447)
+
++ [基于YOLO8的垃圾识别检测系统（数据集+源码+文章）](https://blog.csdn.net/qq_42681787/article/details/151026227)
+
