@@ -257,3 +257,11 @@
 
 + [腾讯位置商业授权微信小程序距离计算](https://blog.csdn.net/qcloud0755_/article/details/150990111)
 
++ [Nginx 502 Bad Gateway：从 upstream 日志到 FastCGI 超时复盘](https://blog.csdn.net/IRpickstars/article/details/151046110)
+
++ [微信小程序 - 强力解决wx.getLocation定位不准的问题，如何修正微信小程序wx.getLocation获取用户位置信息不准确解决办法（高精度定位还是不够精准，定位不准有偏差，彻底消除误差）](https://blog.csdn.net/weixin_44198965/article/details/151042974)
+
++ [基于导航变量的多目标螳螂搜索算法（Multi-objective Mantis Search Algorithm ，MOMSA）求解无人机三维路径规划附MATLAB代码](https://blog.csdn.net/matlab_dingdang/article/details/151044798)
+
++ [机器人视觉检测](https://blog.csdn.net/unicrom/article/details/150984648)
+
