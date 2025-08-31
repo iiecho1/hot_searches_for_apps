@@ -197,3 +197,9 @@
 
 + [如何在矩池云上使用Jupyter-ai功能](https://blog.csdn.net/weixin_48344945/article/details/150974446)
 
++ [Java中使用Spring Boot+Ollama实现本地AI的MCP接入](https://blog.csdn.net/makerjack001/article/details/150934805)
+
++ [Vue 3 响应式 API 深度拆解：ref 与 reactive 到底差在哪？](https://blog.csdn.net/m0_74916313/article/details/151027363)
+
++ [模型汇总-数学建模](https://blog.csdn.net/peiye500238/article/details/150961340)
+

@@ -25,3 +25,5 @@
 
 + [有没有 V 友抽电子烟的](https://www.v2ex.com/t/1155938)
 
++ [最近在多个渠道听到 Vibe Coding 这个概念，对于行业走向会产生什么影响](https://www.v2ex.com/t/1155985)
+

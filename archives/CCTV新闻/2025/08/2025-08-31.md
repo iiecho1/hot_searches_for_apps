@@ -171,3 +171,5 @@
 
 + [欧盟敦促美国重新考虑拒签巴勒斯坦官员决定](https://news.cctv.com/2025/08/31/ARTIBg9J0759HeNXKFCylReL250831.shtml)
 
++ [埃及一列车脱轨已致3死85伤](https://news.cctv.com/2025/08/31/ARTIFeJfrnaXVOn2PTSR3joJ250831.shtml)
+
