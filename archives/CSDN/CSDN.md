@@ -161,3 +161,13 @@
 
 + [2025.8.31基于UDP的网络聊天室项目](https://blog.csdn.net/S666668888/article/details/151053141)
 
++ [MySQL之事务隔离级别与锁机制浅析](https://blog.csdn.net/qq_44784918/article/details/151047090)
+
++ [Scikit-learn Python机器学习 - 类别特征提取- OneHotEncoder](https://blog.csdn.net/caoli201314/article/details/151045565)
+
++ [Spring AI开发指导-对话客户端](https://blog.csdn.net/uesowys/article/details/151054491)
+
++ [FOC开环控制代码解读](https://blog.csdn.net/m0_57249200/article/details/151026656)
+
++ [构建企业级监控系统：Prometheus 负责数据采集与告警，Grafana 负责数据可视化](https://blog.csdn.net/chenby186119/article/details/150866077)
+
