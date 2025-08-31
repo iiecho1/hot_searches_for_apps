@@ -31,3 +31,17 @@
 
 + [JetBrains/koog](https://github.com/JetBrains/koog)
 
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
++ [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc)
+
++ [bevyengine/bevy](https://github.com/bevyengine/bevy)
+
++ [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+
++ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+

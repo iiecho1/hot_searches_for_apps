@@ -191,3 +191,5 @@
 
 + [巴基斯坦学者：上合组织在维护区域稳定、促进共同发展方面成果丰硕](https://news.cctv.com/2025/08/31/ARTIwF0bVO15N6KzE5B9nPUm250831.shtml)
 
++ [苏丹西部城市法希尔遭炮击 造成78人伤亡](https://news.cctv.com/2025/08/31/ARTIYJUldaOfDcRDALJZSWTd250831.shtml)
+
