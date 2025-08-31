@@ -151,3 +151,13 @@
 
 + [复变函数 | 基本知识 / 解析理论](https://blog.csdn.net/u013669912/article/details/151045990)
 
++ [AlexNet：点燃深度学习革命的「卷积神经网络之王」](https://blog.csdn.net/qiutesting/article/details/150947597)
+
++ [计算机网络：（十六）TCP 的运输连接管理](https://blog.csdn.net/2402_83322742/article/details/151052848)
+
++ [基于牛优化（ OX Optimizer，OX）算法的多个无人机协同路径规划（可以自定义无人机数量及起始点）附MATLAB代码](https://blog.csdn.net/matlab_dingdang/article/details/151050273)
+
++ [ZArchiver解压器：强大的安卓解压缩工具](https://blog.csdn.net/2501_90259289/article/details/150979409)
+
++ [2025.8.31基于UDP的网络聊天室项目](https://blog.csdn.net/S666668888/article/details/151053141)
+
