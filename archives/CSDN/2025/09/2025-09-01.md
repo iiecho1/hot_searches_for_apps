@@ -171,3 +171,9 @@
 
 + [构建企业级监控系统：Prometheus 负责数据采集与告警，Grafana 负责数据可视化](https://blog.csdn.net/chenby186119/article/details/150866077)
 
++ [异步共识是什么？（一）](https://blog.csdn.net/cjwdjjw/article/details/151049452)
+
++ [Vibe Coding、AI IDE/插件](https://blog.csdn.net/lonelymanontheway/article/details/150887324)
+
++ [电影交流|基于SprinBoot+vue的电影交流平台小程序系统(源码+数据库+文档)](https://blog.csdn.net/JIngJaneIL/article/details/150980332)
+
