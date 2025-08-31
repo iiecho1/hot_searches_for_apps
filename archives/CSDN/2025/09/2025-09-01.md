@@ -101,3 +101,15 @@
 
 + [腾讯位置商业授权微信小程序距离计算](https://blog.csdn.net/qcloud0755_/article/details/150990111)
 
++ [【MYSQL】从混乱到清晰：联合查询帮你打通数据孤岛](https://blog.csdn.net/2301_80350265/article/details/149945532)
+
++ [Java 大视界 -- Java 大数据在智能安防入侵检测系统中的多模态数据融合与检测精度提升（405）](https://blog.csdn.net/atgfg/article/details/150994474)
+
++ [AI大模型实战解析-RAG知识库+LangChain项目实战](https://blog.csdn.net/AI19970205/article/details/151045447)
+
++ [CICD实战(1) - 使用Arbess+GitPuk+Docker快速实现项目打包构建、docker部署](https://blog.csdn.net/zhangzh1978/article/details/151049566)
+
++ [Pycharm打包PaddleOCR过程及问题解决方法](https://blog.csdn.net/woolnil/article/details/150987954)
+
++ [【微信小程序开发】基于微信小程序的在线教育辅助系统](https://blog.csdn.net/m0_64148096/article/details/151043402)
+
