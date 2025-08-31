@@ -23,3 +23,5 @@
 
 + [问下各位：到底是电车好还是油车好？](https://www.v2ex.com/t/1156084)
 
++ [20250831 - Cold Wallet 操作说明](https://www.v2ex.com/t/1156103)
+
