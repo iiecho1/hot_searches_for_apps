@@ -113,3 +113,41 @@
 
 + [【微信小程序开发】基于微信小程序的在线教育辅助系统](https://blog.csdn.net/m0_64148096/article/details/151043402)
 
++ [opencv实现轮廓绘制和选择](https://blog.csdn.net/weixin_73958875/article/details/151025776)
+
++ [精简版UDP网络编程：Socket套接字应用](https://blog.csdn.net/2401_83603768/article/details/151018046)
+
++ [线程池、锁策略](https://blog.csdn.net/z141042/article/details/150721622)
+
++ [机器学习 - Kaggle项目实践（6）Dogs vs. Cats Redux: Kernels Edition 猫狗二分类](https://blog.csdn.net/nju_spy/article/details/150947338)
+
++ [CUDA 高级开发者学习路线图](https://blog.csdn.net/u012133341/article/details/151022671)
+
++ [Redis vs Elasticsearch：核心区别深度解析](https://blog.csdn.net/HTTP404_CN/article/details/150992405)
+
++ [三百元DIY无人机4K直播链路：从源码编译多链路聚合4G驱动到B站/抖音多平台实战](https://blog.csdn.net/BigYozen/article/details/151050501)
+
++ [MySQL數據庫開發教學(四) 後端與數據庫的交互](https://blog.csdn.net/2501_92376690/article/details/150994115)
+
++ [Unity抖音小游戏代码分包](https://blog.csdn.net/NRatel/article/details/151054021)
+
++ [第六章：透明度-Transparency《Unity Shaders and Effets Cookbook》](https://blog.csdn.net/m0_56734636/article/details/146126110)
+
++ [网格纹理采样算法](https://blog.csdn.net/puss0/article/details/151025557)
+
++ [【序列晋升】21 Spring Cloud Gateway 云原生网关演进之路](https://blog.csdn.net/weixin_39671271/article/details/150981755)
+
++ [微服务19-Java服务安全：使用OAuth2与JWT构建身份认证与授权体系](https://blog.csdn.net/qq_41187124/article/details/151009405)
+
++ [Citrix 零日漏洞自五月起遭积极利用](https://blog.csdn.net/qq_29607687/article/details/151025169)
+
++ [R3：适用于 .NET 的新一代响应式扩展库，事件订阅流](https://blog.csdn.net/u013628121/article/details/151052736)
+
++ [USB虚拟化应用5:VirtualFIDO2 虚拟硬件安全密钥，智能卡，yubico，支持X，FB，GITHUB等各种网站双重认证，让你的账户登录绝对安全](https://blog.csdn.net/weixin_45546384/article/details/151044102)
+
++ [FTP - 学习/实践](https://blog.csdn.net/william_n/article/details/151050267)
+
++ [Unity学习----【数据持久化】二进制存储（一）](https://blog.csdn.net/misco43/article/details/150995134)
+
++ [复变函数 | 基本知识 / 解析理论](https://blog.csdn.net/u013669912/article/details/151045990)
+
