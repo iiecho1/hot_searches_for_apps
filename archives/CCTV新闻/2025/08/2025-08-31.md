@@ -187,3 +187,7 @@
 
 + [特朗普要向芝加哥派兵 市长拒绝配合](https://news.cctv.com/2025/08/31/ARTIve7A48B3GIV8EHT71KQc250831.shtml)
 
++ [外媒：上合峰会展现合作范式 为地区和平发展贡献力量](https://news.cctv.com/2025/08/31/ARTIFztMhBRoso7YMZFIzjDJ250831.shtml)
+
++ [巴基斯坦学者：上合组织在维护区域稳定、促进共同发展方面成果丰硕](https://news.cctv.com/2025/08/31/ARTIwF0bVO15N6KzE5B9nPUm250831.shtml)
+

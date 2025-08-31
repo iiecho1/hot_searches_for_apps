@@ -39,3 +39,5 @@
 
 + [强烈推荐：我用过最丝滑的 Claude Code 手机客户端](https://www.v2ex.com/t/1156040)
 
++ [东京两周生活初印象：缺点篇](https://www.v2ex.com/t/1156053)
+
