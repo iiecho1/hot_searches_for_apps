@@ -203,3 +203,7 @@
 
 + [模型汇总-数学建模](https://blog.csdn.net/peiye500238/article/details/150961340)
 
++ [现代软件系统架构：前端、后端、数据库、部署、算法与AI学习的结构与交互分析](https://blog.csdn.net/He_CSDN2025/article/details/151036320)
+
++ [个性化导航新体验：cpolar让Dashy支持语音控制](https://blog.csdn.net/2201_75743654/article/details/151018514)
+
