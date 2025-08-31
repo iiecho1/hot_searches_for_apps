@@ -183,3 +183,5 @@
 
 + [乌克兰前议长遭枪击身亡 泽连斯基下令彻查](https://news.cctv.com/2025/08/31/ARTItq3563s6SyXsp3z6uDPp250831.shtml)
 
++ [上合组织天津峰会｜高端访谈：上合组织正稳步成为全球外交舞台的重要力量——访白俄罗斯总统卢卡申科](https://news.cctv.com/2025/08/31/ARTIkgzJTZZtTgzgz2iBRTlB250831.shtml)
+

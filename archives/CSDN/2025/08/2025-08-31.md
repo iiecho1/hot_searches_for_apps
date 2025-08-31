@@ -223,3 +223,17 @@
 
 + [基于YOLO8的垃圾识别检测系统（数据集+源码+文章）](https://blog.csdn.net/qq_42681787/article/details/151026227)
 
++ [Redis缓存与数据库一致性终极指南:从延迟双删到分布式事务](https://blog.csdn.net/qq_44378083/article/details/149150887)
+
++ [LabVIEW电力系统自动化仿真实验教学系统](https://blog.csdn.net/bjcyck/article/details/151040088)
+
++ [《穿越苍穹的隧道》：一位金融大师在1927年预见的未来战争与科技奇迹](https://blog.csdn.net/eidolon_foot/article/details/150970107)
+
++ [【嵌入式DIY实例】-空中鼠标](https://blog.csdn.net/wujuxKkoolerter/article/details/151035996)
+
++ [基于阿里云百炼API大模型VITSGPT语音和达摩实时交互AILive2Dweb图形 ](https://blog.csdn.net/m0_67479857/article/details/151026255)
+
++ [【完整源码+数据集+部署教程】胚胎发育阶段检测系统源码和数据集：改进yolo11-SCConv](https://blog.csdn.net/weixin_43860634/article/details/150997776)
+
++ [【微信小程序开发】基于微信小程序的在线教育辅助系统](https://blog.csdn.net/m0_64148096/article/details/151043402)
+

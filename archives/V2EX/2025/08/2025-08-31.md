@@ -37,3 +37,5 @@
 
 + [长期喝瓶装这习惯好吗？](https://www.v2ex.com/t/1156024)
 
++ [强烈推荐：我用过最丝滑的 Claude Code 手机客户端](https://www.v2ex.com/t/1156040)
+
