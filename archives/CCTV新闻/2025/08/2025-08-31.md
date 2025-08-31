@@ -173,3 +173,5 @@
 
 + [埃及一列车脱轨已致3死85伤](https://news.cctv.com/2025/08/31/ARTIFeJfrnaXVOn2PTSR3joJ250831.shtml)
 
++ [巴勒斯坦总统府敦促美政府撤销对巴总统拒签决定](https://news.cctv.com/2025/08/31/ARTIkakfRMgaNAHHyKb5PixQ250831.shtml)
+
