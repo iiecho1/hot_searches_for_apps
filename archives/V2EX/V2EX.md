@@ -47,3 +47,5 @@
 
 + [忠心建议：不要生孩子](https://www.v2ex.com/t/1156075)
 
++ [给内网电脑开 SSH 的方案](https://www.v2ex.com/t/1156013)
+

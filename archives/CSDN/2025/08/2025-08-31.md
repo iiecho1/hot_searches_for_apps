@@ -267,3 +267,11 @@
 
 + [MySQL-事务（下）-MySQL事务隔离级别与MVCC](https://blog.csdn.net/nplplus/article/details/151020485)
 
++ [AI热点周报（8.24~8.30）：Grok 2.5开源，OpenAI Realtime正式商用，Meta或与OpenAI或Google合作？](https://blog.csdn.net/qq_51646682/article/details/151046642)
+
++ [Web 聊天室消息加解密方案详解](https://blog.csdn.net/sixpp/article/details/151027808)
+
++ [uniapp：实现APP端下载文件保存到手机本地功能，详解下载各种文档音视频等文件并保存到手机文件夹本地存储，uniApp实现苹果ios端和安卓端的文件下载多文件并指定下载位置与管理（安卓苹果app）](https://blog.csdn.net/weixin_50545213/article/details/151047356)
+
++ [AI大模型实战解析-RAG知识库+LangChain项目实战](https://blog.csdn.net/AI19970205/article/details/151045447)
+

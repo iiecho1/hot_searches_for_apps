@@ -193,3 +193,11 @@
 
 + [苏丹西部城市法希尔遭炮击 造成78人伤亡](https://news.cctv.com/2025/08/31/ARTIYJUldaOfDcRDALJZSWTd250831.shtml)
 
++ [上合峰会世界观｜阿塞拜疆总统外事助理：“上海精神”体现可持续发展、对进步与繁荣的追求](https://news.cctv.com/2025/08/31/ARTIvX2hWRlgtfxfiHV1AIhY250831.shtml)
+
++ [乌克兰前议长遭当街枪杀 凶手身份成疑，俄乌双双发声](https://news.cctv.com/2025/08/31/ARTIKzGZjCwmvQSbQk6eVHVV250831.shtml)
+
++ [近50年来首次！特朗普砍掉49亿美元对外援助](https://news.cctv.com/2025/08/31/ARTIHEPaFZdBxRF4RtzsBh1G250831.shtml)
+
++ [日本首相石破茂因“腿部肿胀”前往医院就诊](https://news.cctv.com/2025/08/31/ARTIXJg5ABHSa4RrjGxRAYGD250831.shtml)
+
