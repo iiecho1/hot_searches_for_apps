@@ -55,3 +55,5 @@
 
 + [家里有两台红米 AC2100，能不能实现全屋一个 wifi 信号？](https://www.v2ex.com/t/1156015)
 
++ [家用 nas（待机功耗 15w 左右）ups 推荐](https://www.v2ex.com/t/1156059)
+
