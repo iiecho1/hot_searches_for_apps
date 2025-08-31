@@ -281,3 +281,7 @@
 
 + [Linux-搭建DNS服务器](https://blog.csdn.net/2501_92004703/article/details/150850222)
 
++ [【MLLM】多模态理解Ovis2.5模型和训练流程（更新中）](https://blog.csdn.net/qq_35812205/article/details/151027616)
+
++ [人大金仓KingbaseES V9 License管理操作笔记](https://blog.csdn.net/hezuijiudexiaobai/article/details/151046111)
+
