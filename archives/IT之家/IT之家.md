@@ -69,3 +69,7 @@
 
 + [9 秒开机 + 2 秒唤醒：联想开天 X1 Carbon 信创笔电刷新国产 PC 开机速度纪录，搭载飞腾腾锐 D3000M + 银河麒麟 V11](https://m.ithome.com/html/879426.htm)
 
++ [2025 年 8 月汽车销量 / 交付汇总：北京越野 13219 辆创新高，同比增长 43%（实时更新）](https://m.ithome.com/html/879447.htm)
+
++ [华为 MatePad Mini 小平板真机曝光：打孔摄像头 + 极窄边框全面屏设计，顶部有听筒开口](https://m.ithome.com/html/879479.htm)
+
