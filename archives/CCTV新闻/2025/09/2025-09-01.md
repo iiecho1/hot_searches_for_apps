@@ -177,3 +177,13 @@
 
 + [中国驻韩国大使馆提醒在（来）韩中国公民谨慎携带攻击性器具](https://news.cctv.com/2025/09/01/ARTI5pZhtHK2ZDj7O7Vyo0Ev250901.shtml)
 
++ [上合组织天津峰会丨专访：上合组织天津峰会将带来稳定发展新动能——访亚美尼亚奥尔别利中心专家梅利基扬](https://news.cctv.com/2025/09/01/ARTIItrTwxpGNQA6ZnoGJ73X250901.shtml)
+
++ [外媒关注2025年上海合作组织峰会——海河之滨聚首，上合再启新程](https://news.cctv.com/2025/09/01/ARTIHhLEI7YKw6UHyqCjtFvx250901.shtml)
+
++ [阿富汗东部地震已致250死500伤](https://news.cctv.com/2025/09/01/ARTI2GCRd8IpSxySzj4JOs7l250901.shtml)
+
++ [美国扩大对巴勒斯坦签证限制](https://news.cctv.com/2025/09/01/ARTIWGr2r1YLqzRkR4KO8nVU250901.shtml)
+
++ [中国驻韩国大使馆为在（来）韩中国公民发布提醒](https://news.cctv.com/2025/09/01/ARTI5pZhtHK2ZDj7O7Vyo0Ev250901.shtml)
+

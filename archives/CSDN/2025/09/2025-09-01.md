@@ -205,3 +205,9 @@
 
 + [【物联网】BLE 系统架构全景图](https://blog.csdn.net/weixin_44174312/article/details/151020849)
 
++ [【AI大模型前沿】昆仑万维开源Skywork-R1V3：38B多模态推理模型，高考数学142分刷新开源SOTA](https://blog.csdn.net/xiaobing259/article/details/151050269)
+
++ [基于Ultralytics YOLO通用目标检测与PyTorch EfficientNet的(迁移学习)图像分类实现](https://blog.csdn.net/m0_69402477/article/details/151017936)
+
++ [Nessus 是一款免费功能强大的漏洞扫描工具，广泛用于网络安全评估。](https://blog.csdn.net/MRzhangshuang/article/details/150977235)
+
