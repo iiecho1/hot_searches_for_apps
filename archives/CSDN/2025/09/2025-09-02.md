@@ -113,3 +113,21 @@
 
 + [【安全学习】DVWA 靶场 SQL 注入漏洞原理分析与防御策略（教育用途）](https://blog.csdn.net/tsz520eee/article/details/151047318)
 
++ [学习大模型，还有必要学习机器学习，深度学习和数学吗](https://blog.csdn.net/qq_42535394/article/details/151011983)
+
++ [【Big Data】AI赋能的ClickHouse 2.0：从JIT编译到LLM查询优化，下一代OLAP引擎进化路径](https://blog.csdn.net/weixin_39671271/article/details/151023112)
+
++ [一文读懂 Java 主流编译器：特性、场景与选择指南](https://blog.csdn.net/2503_91389547/article/details/150951709)
+
++ [解决IDEA 2025.2升级报错：Scannning Files to Index卡住问题分析与修复](https://blog.csdn.net/qq_44866828/article/details/151040237)
+
++ [在win服务器部署vue+springboot + Maven前端后端流程详解，含ip端口讲解](https://blog.csdn.net/2401_87092242/article/details/151048916)
+
++ [微服务搭建（SpringBoot + Dubbo + Nacos）](https://blog.csdn.net/xiaoye3708/article/details/151026572)
+
++ [【系统分析师】高分论文：论信息系统的安全与保密设计](https://blog.csdn.net/cui_yonghua/article/details/151037402)
+
++ [个性化导航新体验：cpolar让Dashy支持语音控制](https://blog.csdn.net/2201_75743654/article/details/151018514)
+
++ [网络：相比于HTTP，HTTPS协议到底安全在哪？](https://blog.csdn.net/2301_80194476/article/details/151051415)
+
