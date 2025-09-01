@@ -101,3 +101,15 @@
 
 + [华为研发投资与管理实践（IPD）读书笔记](https://blog.csdn.net/Peter_Changyb/article/details/151041128)
 
++ [InsCodeAI全解：人工智能如何重塑软件开发范式与开发者未来](https://blog.csdn.net/2401_89899187/article/details/151017942)
+
++ [Spring Task快速上手](https://blog.csdn.net/myGodxx/article/details/151050864)
+
++ [【MLLM】多模态理解Ovis2.5模型和训练流程（更新中）](https://blog.csdn.net/qq_35812205/article/details/151027616)
+
++ [【序列晋升】21 Spring Cloud Gateway 云原生网关演进之路](https://blog.csdn.net/weixin_39671271/article/details/150981755)
+
++ [时间轴组件开发：实现灵活的时间范围选择](https://blog.csdn.net/Shids_/article/details/147320821)
+
++ [【安全学习】DVWA 靶场 SQL 注入漏洞原理分析与防御策略（教育用途）](https://blog.csdn.net/tsz520eee/article/details/151047318)
+

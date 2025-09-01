@@ -25,3 +25,13 @@
 
 + [大疆 DJI Osmo Pocket 4 云台相机曝光，引入双摄系统](https://m.ithome.com/html/879399.htm)
 
++ [2025 年 8 月汽车销量 / 交付汇总：北京越野 13219 辆创新高，同比增长 43%（实时更新）](https://m.ithome.com/html/879447.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0 系统被曝星闪 / 蓝牙功能入口合并](https://m.ithome.com/html/879450.htm)
+
++ [万万没想到：苹果已停售的 MagSafe 外接电池可直接用于谷歌 Pixel 10 Pro](https://m.ithome.com/html/879423.htm)
+
++ [华为 MatePad Mini 小平板真机曝光：打孔摄像头 + 极窄边框全面屏设计，顶部有听筒开口](https://m.ithome.com/html/879479.htm)
+
++ [鸿蒙智行全新问界 M7 汽车配置细节公布：搭载途灵底盘、17.3 英寸后排吸顶屏，无百万投影大灯选装](https://m.ithome.com/html/879406.htm)
+
