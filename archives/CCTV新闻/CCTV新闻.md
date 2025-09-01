@@ -167,3 +167,13 @@
 
 + [韩媒：韩国2026财年预算总额创新高，AI成发力重点](https://news.cctv.com/2025/09/01/ARTISiMXLuPn6gWbEWcEWizc250901.shtml)
 
++ [外交部领事保护中心提醒中国留学生注意开学季有关事项](https://news.cctv.com/2025/09/01/ARTIGINoGZJ7QoPTgyCZsDxK250901.shtml)
+
++ [委内瑞拉防长：准备抗击美军“任何侵略”](https://news.cctv.com/2025/09/01/ARTIV5XcBhNlqQuAwvOmmg48250901.shtml)
+
++ [法国外长谴责干涉格陵兰岛的行为](https://news.cctv.com/2025/09/01/ARTIeyMJjQzHN49S6nWF3bxK250901.shtml)
+
++ [尹锡悦缺席涉内乱案庭审 韩国法院进行缺席审判](https://news.cctv.com/2025/09/01/ARTImZqeyp56wMqG4zywOESb250901.shtml)
+
++ [中国驻韩国大使馆提醒在（来）韩中国公民谨慎携带攻击性器具](https://news.cctv.com/2025/09/01/ARTI5pZhtHK2ZDj7O7Vyo0Ev250901.shtml)
+

@@ -25,3 +25,13 @@
 
 + [20250831 - Cold Wallet 操作说明](https://www.v2ex.com/t/1156103)
 
++ [你们做开发都是用什么电脑？](https://www.v2ex.com/t/1156151)
+
++ [装机清单求点评](https://www.v2ex.com/t/1156133)
+
++ [怎么才算是活着](https://www.v2ex.com/t/1156159)
+
++ [日本两年生活印象（纯主观）](https://www.v2ex.com/t/1156144)
+
++ [东京两周生活初印象：优点篇（纯主观）](https://www.v2ex.com/t/1156114)
+
