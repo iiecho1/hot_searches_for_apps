@@ -81,3 +81,17 @@
 
 + [篡改电动自行车电池的人这下消停了，央视详解新国标防“鬼火少年”手段](https://m.ithome.com/html/879459.htm)
 
++ [2025 年 8 月汽车销量 / 交付汇总：深蓝汽车交付 28235 辆，同比增长 40%（实时更新）](https://m.ithome.com/html/879447.htm)
+
++ [郑州富士康加班生产苹果 iPhone 17：员工 3 个月最高可拿 2.2 万](https://m.ithome.com/html/879520.htm)
+
++ [众筹价 1999 元：小米发布智能中控屏 Max，支持微信语音 / 视频双向通话、内置 Mesh2.0 网关](https://m.ithome.com/html/879505.htm)
+
++ [首降 1 万元，续航最强特斯拉 Model 3 长续航后轮驱动版发布不到一个月降价至 25.95 万元起](https://m.ithome.com/html/879453.htm)
+
++ [普及 eSIM，更多迹象表明苹果 iPhone 17 系列将在更多国家和地区取消 SIM 卡槽](https://m.ithome.com/html/879440.htm)
+
++ [华为官宣刘德华担任 Mate XTs 非凡大师品牌大使，新品 9 月 4 日发布](https://m.ithome.com/html/879550.htm)
+
++ [华为 MatePad Mini 小平板外观公布，9 月 4 日发布](https://m.ithome.com/html/879472.htm)
+
