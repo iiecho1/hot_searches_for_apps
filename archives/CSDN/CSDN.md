@@ -251,3 +251,7 @@
 
 + [KingbaseES数据库：V8R3 迁移至 V9 全流程学习教程](https://blog.csdn.net/weixin_43151418/article/details/150561684)
 
++ [医疗AI时代的生物医学Go编程：高性能计算与精准医疗的案例分析(八)](https://blog.csdn.net/kkiron/article/details/151009975)
+
++ [基于 Linux 4.19 内核的 TCP Fast Open 深度解析与网闸环境私有化改造](https://blog.csdn.net/eidolon_foot/article/details/151034745)
+
