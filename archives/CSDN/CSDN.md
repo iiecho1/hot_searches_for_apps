@@ -137,3 +137,7 @@
 
 + [不用公网IP也能？cpolar实现Web-Check远程安全检测(1)](https://blog.csdn.net/YYDsis/article/details/151023404)
 
++ [GD32VW553-IOT + CH340G + PrinterShare APP 实现 Wi-Fi 无线打印（未完成，集思广益）](https://blog.csdn.net/weixin_44628659/article/details/151050391)
+
++ [论文阅读——FFTW3的设计与实现：深度解析](https://blog.csdn.net/qq_44648285/article/details/151053611)
+

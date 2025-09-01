@@ -163,3 +163,13 @@
 
 + [特朗普拟“调兵”多座城市 两党持续交锋](https://news.cctv.com/2025/09/02/ARTINV1WTpO1bEwdvis5ZkDc250902.shtml)
 
++ [马杜罗：已有820万委内瑞拉人自愿加入民兵组织](https://news.cctv.com/2025/09/02/ARTINF0qJwH1FLnIr39r63TV250902.shtml)
+
++ [不确定性上升 多国释放信号减少对美元资产依赖](https://news.cctv.com/2025/09/02/ARTIPC3xSH6cRDDkymKZKww0250902.shtml)
+
++ [马杜罗：美国企图通过军事手段对委内瑞拉“极限施压”](https://news.cctv.com/2025/09/02/ARTICbzt7PzVNUxPEVmPvSBd250902.shtml)
+
++ [古特雷斯：对阿富汗地震造成重大人员伤亡深表悲痛](https://news.cctv.com/2025/09/02/ARTIj31tqONetU7vbiC53xvf250902.shtml)
+
++ [美国科罗拉多州两架小型飞机空中相撞 致1死3伤](https://news.cctv.com/2025/09/02/ARTIWuvx3sKgqhrEwFxjw09E250902.shtml)
+
