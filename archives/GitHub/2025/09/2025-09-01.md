@@ -31,3 +31,15 @@
 
 + [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
++ [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+
++ [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
+
++ [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+
++ [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load)
+
++ [denizsafak/abogen](https://github.com/denizsafak/abogen)
+

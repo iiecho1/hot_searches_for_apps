@@ -245,3 +245,9 @@
 
 + [五种最新优化算法（MSO、AE、DOA、GOA、OX）求解多个无人机协同路径规划（可以自定义无人机数量及起始点）附MATLAB代码](https://blog.csdn.net/m0_60703264/article/details/151065231)
 
++ [Transformer架构三大核心：位置编码（PE）、前馈网络（FFN）和多头注意力（MHA）。](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/151040855)
+
++ [SERL——针对真机高效采样的RL系统：基于图像观测和RLPD算法等，开启少量演示下的RL精密插拔之路(含插入基准FMB的详解)](https://blog.csdn.net/v_JULY_v/article/details/151065525)
+
++ [KingbaseES数据库：V8R3 迁移至 V9 全流程学习教程](https://blog.csdn.net/weixin_43151418/article/details/150561684)
+
