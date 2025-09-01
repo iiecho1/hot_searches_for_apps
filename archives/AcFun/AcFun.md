@@ -95,3 +95,7 @@
 
 + [♪ 你想去看看大海吗 牵着我的手走吧 ♪《Dehors》翻唱【原创pv】](https://m.acfun.cn/v/?ac=47775425)
 
++ [夏日の小碎片](https://m.acfun.cn/v/?ac=47777031)
+
++ [2023 KOVAS (코리아 베이프 쇼) ASPIRE 모델 김지나, 강하빈](https://m.acfun.cn/v/?ac=47775233)
+
