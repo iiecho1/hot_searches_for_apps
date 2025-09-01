@@ -229,3 +229,11 @@
 
 + [基于脚手架微服务的视频点播系统界面布局部分(一):首页及播放界面布局](https://blog.csdn.net/xiuwoaiailixiya/article/details/150855365)
 
++ [通义万相2.2-S2V-14B全解：AI视频生成的革命性突破与实践指南](https://blog.csdn.net/Liudef06/article/details/151069816)
+
++ [SERL——针对真机高效采样的RL系统：结合图像观测、RLPD算法、奖励设定、重置机制、控制器，开启少量演示下的RL精密插拔之路](https://blog.csdn.net/v_JULY_v/article/details/151065525)
+
++ [Redis 核心概念解析：从渐进式遍历、数据库管理到客户端通信协议](https://blog.csdn.net/2301_80863610/article/details/151061674)
+
++ [Vue2 与 Vue3 路由钩子的区别及用法详解](https://blog.csdn.net/2301_80270696/article/details/151053295)
+

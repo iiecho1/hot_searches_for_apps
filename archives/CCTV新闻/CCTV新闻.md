@@ -197,3 +197,5 @@
 
 + [阿富汗东部地震死亡人数增至500人](https://news.cctv.com/2025/09/01/ARTIziBbxc6ZVHMXgp9mCN0v250901.shtml)
 
++ [阿富汗东部地震死亡人数升至622人](https://news.cctv.com/2025/09/01/ARTI6fBmiqYx934M1ElKTbOS250901.shtml)
+
