@@ -205,3 +205,7 @@
 
 + [阿富汗东北部地震已致812人死亡](https://news.cctv.com/2025/09/01/ARTIJoukjl6jsnuaNkTlvU1H250901.shtml)
 
++ [上合峰会世界观｜外媒：中国在上海合作组织中发挥驱动作用](https://news.cctv.com/2025/09/01/ARTIa1MUXPQs54zaqK2C5tKr250901.shtml)
+
++ [埃及学者：中国抗战是二战胜利的东方基石](https://news.cctv.com/2025/09/01/ARTIHAxDaThjy3CxWSgoFxIT250901.shtml)
+

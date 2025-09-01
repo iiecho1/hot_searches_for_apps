@@ -255,3 +255,17 @@
 
 + [基于 Linux 4.19 内核的 TCP Fast Open 深度解析与网闸环境私有化改造](https://blog.csdn.net/eidolon_foot/article/details/151034745)
 
++ [基于OpenCv做照片分析应用一（Java）](https://blog.csdn.net/zwrlj527/article/details/151051042)
+
++ [2025年8月个人工作生活总结](https://blog.csdn.net/subfate/article/details/151053311)
+
++ [使用SQLBot实现Text-2-SQL本地部署教程](https://blog.csdn.net/Kanen001/article/details/151077297)
+
++ [MySQL 慢查询 debug：索引没生效的三重陷阱](https://blog.csdn.net/IRpickstars/article/details/151064813)
+
++ [一文读懂 Java 主流编译器：特性、场景与选择指南](https://blog.csdn.net/2503_91389547/article/details/150951709)
+
++ [【Docker/Redis】服务端高并发分布式结构演进之路](https://blog.csdn.net/2401_82610555/article/details/150952475)
+
++ [uniapp：获取视频帧率、帧数、帧速率、总比特率、视频总时长、视频宽高、码率、文件格式，uniApp项目中前端获取视频文件的各种详细信息，支持主流视频格式（移动端H5网页/小程序/安卓苹果APP端）](https://blog.csdn.net/weixin_50545213/article/details/151072847)
+
