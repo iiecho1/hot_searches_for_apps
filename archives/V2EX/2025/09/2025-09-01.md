@@ -47,3 +47,5 @@
 
 + [红包来了——共同创建 V2EX 的 web3 社区！](https://www.v2ex.com/t/1156270)
 
++ [OKX 对话 V2EX 创始人 Livid：从 60 块钱比特币说起，「他」和「他们」的十四年](https://www.v2ex.com/t/1156319)
+

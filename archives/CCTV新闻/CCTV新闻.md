@@ -199,3 +199,9 @@
 
 + [阿富汗东部地震死亡人数升至622人](https://news.cctv.com/2025/09/01/ARTI6fBmiqYx934M1ElKTbOS250901.shtml)
 
++ [二季度日本制造业经常利润下滑11.5%](https://news.cctv.com/2025/09/01/ARTIngWMogGJrYId0eG1cGUF250901.shtml)
+
++ [胡塞武装公布遭袭死亡高级官员名单 共12人](https://news.cctv.com/2025/09/01/ARTIA4IxIZsAJxdai522Ltg7250901.shtml)
+
++ [阿富汗东北部地震已致812人死亡](https://news.cctv.com/2025/09/01/ARTIJoukjl6jsnuaNkTlvU1H250901.shtml)
+
