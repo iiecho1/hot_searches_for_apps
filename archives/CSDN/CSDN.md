@@ -219,3 +219,9 @@
 
 + [数据挖掘实战-基于随机森林算法的糖尿病分类预测模型](https://blog.csdn.net/m0_64336780/article/details/149804567)
 
++ [运动规划实战案例 | 基于行人社交模型的移动机器人动态避障(附ROS C++仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/151051312)
+
++ [uniapp [安卓苹果App端] - 实现判断并开启消息通知/提示权限，监测通知权限未开启时弹框提示用户并引导用户跳转至设置界面，uniApp检查通知权限+提示是否打开+点击跳转设置（详细示例代码）](https://blog.csdn.net/weixin_44198965/article/details/151063053)
+
++ [【安全学习】DVWA 靶场 SQL 注入漏洞原理分析与防御策略（教育用途）](https://blog.csdn.net/tsz520eee/article/details/151047318)
+

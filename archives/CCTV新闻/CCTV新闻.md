@@ -195,3 +195,5 @@
 
 + [泽连斯基：已抓获枪杀乌前议长的嫌疑人](https://news.cctv.com/2025/09/01/ARTIQgR7rXI6WPohVyXACD1O250901.shtml)
 
++ [阿富汗东部地震死亡人数增至500人](https://news.cctv.com/2025/09/01/ARTIziBbxc6ZVHMXgp9mCN0v250901.shtml)
+
