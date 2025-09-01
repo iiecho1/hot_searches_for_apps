@@ -165,3 +165,5 @@
 
 + [冯德莱恩：欧洲正在制定向乌克兰派兵具体方案](https://news.cctv.com/2025/09/01/ARTIXIwszStp05xg58w7KsqK250901.shtml)
 
++ [韩媒：韩国2026财年预算总额创新高，AI成发力重点](https://news.cctv.com/2025/09/01/ARTISiMXLuPn6gWbEWcEWizc250901.shtml)
+

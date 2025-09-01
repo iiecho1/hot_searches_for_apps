@@ -69,3 +69,5 @@
 
 + [【玉置浩二 - 遠雷】Cover by 叫ぶ獣](https://m.acfun.cn/v/?ac=47775880)
 
++ [千本響](https://m.acfun.cn/v/?ac=47774366)
+

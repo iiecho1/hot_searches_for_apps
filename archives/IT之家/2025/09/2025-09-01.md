@@ -37,3 +37,19 @@
 
 + [电动自行车“新国标”明日起实施：具备北斗定位，不再强制要求安装脚踏](https://m.ithome.com/html/879308.htm)
 
++ [经典苹果 iPhone / iPad 管理工具“91 助手”将于 9 月 28 日全面停止服务，VIP 会员可获退费](https://m.ithome.com/html/879343.htm)
+
++ [12249 → 8849 元：苹果 MacBook Pro 16G+512G 国补 7 折京东直降](https://m.ithome.com/html/879374.htm)
+
++ [吉利银河星耀 6 车型 9 月 5 日亮相，搭新一代雷神 AI 电混 2.0 技术](https://m.ithome.com/html/879309.htm)
+
++ [华为小艺智慧助手更新 11.3.7.300 版本，Mate 70 / Pura X / nova 14 系列等上线“小艺看世界”功能](https://m.ithome.com/html/879288.htm)
+
++ [消息理想 i6 汽车售价有望低于 23 万元，内部销量预期 3 万台 / 月](https://m.ithome.com/html/879355.htm)
+
++ [新一代逆超线程？英特尔 SDC“超级核心”专利公布：多个小核齐心协力提升单线程性能](https://m.ithome.com/html/879281.htm)
+
++ [长城创始人魏建军肯定“普通车”价值：不是非得提供高级产品](https://m.ithome.com/html/879322.htm)
+
++ [博主曝光汽车行业“小订过万”数据造假，部分广告公司策划虚假内容误导消费者](https://m.ithome.com/html/879380.htm)
+
