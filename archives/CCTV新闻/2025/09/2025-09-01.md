@@ -187,3 +187,7 @@
 
 + [中国驻韩国大使馆为在（来）韩中国公民发布提醒](https://news.cctv.com/2025/09/01/ARTI5pZhtHK2ZDj7O7Vyo0Ev250901.shtml)
 
++ [俄罗斯各界看好上合组织前景](https://news.cctv.com/2025/09/01/ARTIpXOzScteHE4T1xAYKQtz250901.shtml)
+
++ [上合组织天津峰会丨播撒丰收希望 同绘“禾合”之美——中国助力上合组织现代农业发展](https://news.cctv.com/2025/09/01/ARTI2wtDQnmMILvlpJS447lK250901.shtml)
+

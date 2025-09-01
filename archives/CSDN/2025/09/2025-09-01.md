@@ -211,3 +211,9 @@
 
 + [Nessus 是一款免费功能强大的漏洞扫描工具，广泛用于网络安全评估。](https://blog.csdn.net/MRzhangshuang/article/details/150977235)
 
++ [PyTorch生成式人工智能（29）——基于Transformer生成音乐](https://blog.csdn.net/LOVEmy134611/article/details/146260568)
+
++ [【Linux】动静态库的制作与原理](https://blog.csdn.net/2401_87116511/article/details/150559807)
+
++ [Redission 实现消息队列、延迟队列 (生产可用)](https://blog.csdn.net/bbj12345678/article/details/151014956)
+

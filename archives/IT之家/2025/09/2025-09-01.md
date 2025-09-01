@@ -53,3 +53,19 @@
 
 + [博主曝光汽车行业“小订过万”数据造假，部分广告公司策划虚假内容误导消费者](https://m.ithome.com/html/879380.htm)
 
++ [24+512G MacBook Air 仅 5451 元：苹果轻薄本京东自营直降新低](https://m.ithome.com/html/879428.htm)
+
++ [今晚结束：小米手环 10 政府补贴 + 平台补贴 7 折直降，配备四等边屏幕](https://m.ithome.com/html/879409.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0 系统被曝星闪 / 蓝牙功能入口合并](https://m.ithome.com/html/879450.htm)
+
++ [万万没想到：苹果已停售的 MagSafe 外接电池可直接用于谷歌 Pixel 10 Pro](https://m.ithome.com/html/879423.htm)
+
++ [2025 年 8 月汽车销量 / 交付汇总：一汽丰田 70125 辆，环比增长 103%（实时更新）](https://m.ithome.com/html/879447.htm)
+
++ [大疆 DJI Osmo Pocket 4 云台相机曝光，引入双摄系统](https://m.ithome.com/html/879399.htm)
+
++ [鸿蒙智行全新问界 M7 汽车配置细节公布：搭载途灵底盘、17.3 英寸后排吸顶屏，无百万投影大灯选装](https://m.ithome.com/html/879406.htm)
+
++ [9 秒开机 + 2 秒唤醒：联想开天 X1 Carbon 信创笔电刷新国产 PC 开机速度纪录，搭载飞腾腾锐 D3000M + 银河麒麟 V11](https://m.ithome.com/html/879426.htm)
+

@@ -79,3 +79,7 @@
 
 + [赏心悦目！！！★手机竖屏1625★](https://m.acfun.cn/v/?ac=47776003)
 
++ [Energy《传说中勇者的传说》（翻唱）](https://m.acfun.cn/v/?ac=47777197)
+
++ [【初音未来18周年】✪Darling Dance✪](https://m.acfun.cn/v/?ac=47775948)
+
