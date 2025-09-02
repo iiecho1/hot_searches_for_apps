@@ -25,3 +25,11 @@
 
 + [pixel 10 怎么样，可以买吗？](https://www.v2ex.com/t/1156154)
 
++ [陌生人祝我一声生日快乐吧](https://www.v2ex.com/t/1156452)
+
++ [出狱求一份开发工作](https://www.v2ex.com/t/1156429)
+
++ [2025 年， Windows 的开发体验已经赶上 Mac 了](https://www.v2ex.com/t/1156421)
+
++ [关于 [国家网络身份认证] 的疑惑](https://www.v2ex.com/t/1156211)
+

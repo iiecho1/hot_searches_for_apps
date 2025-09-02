@@ -175,3 +175,9 @@
 
 + [法国政府面临垮台风险 欧洲央行行长发出警告](https://news.cctv.com/2025/09/02/ARTI1dC0cRFwTX5igZzPR1Rs250902.shtml)
 
++ [欧盟回应美方施压：将继续执行数字相关立法](https://news.cctv.com/2025/09/02/ARTIOCbt6itriPHAnYaxCLom250902.shtml)
+
++ [比利时将于9月联大期间正式宣布承认巴勒斯坦国](https://news.cctv.com/2025/09/02/ARTIQSkFDPVi12lvIVYb3kEs250902.shtml)
+
++ [全球两百多家媒体参与悼念加沙遇难记者](https://news.cctv.com/2025/09/02/ARTIXZeQsfFo3bIXgyAaw67v250902.shtml)
+
