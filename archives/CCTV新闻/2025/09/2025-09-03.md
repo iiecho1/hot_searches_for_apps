@@ -161,3 +161,5 @@
 
 + [世卫报告：全球霍乱疫情持续恶化](https://news.cctv.com/2025/08/30/ARTIRQsnswcwQqaafTQtXRZs250830.shtml)
 
++ [尼泊尔秋季登山季逾200名登山者已获许可](https://news.cctv.com/2025/09/03/ARTIKkWImdXhtXfSdxmu57UU250903.shtml)
+
