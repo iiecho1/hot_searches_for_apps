@@ -181,3 +181,11 @@
 
 + [全球两百多家媒体参与悼念加沙遇难记者](https://news.cctv.com/2025/09/02/ARTIXZeQsfFo3bIXgyAaw67v250902.shtml)
 
++ [尼加拉瓜宣布加入“全球治理倡议”](https://news.cctv.com/2025/09/02/ARTICJxrtrCdd9jDKhotsDhO250902.shtml)
+
++ [南非拟扩大国内疫苗生产以遏制口蹄疫蔓延](https://news.cctv.com/2025/09/02/ARTIi72aFAWlP1RM01himY6R250902.shtml)
+
++ [12名高官遭以军“斩首” 胡塞动手报复 红海危机再升级](https://news.cctv.com/2025/09/02/ARTI8eQZh1HARgk4aRXbLDbE250902.shtml)
+
++ [伊朗外交部：伊朗不会屈服于西方的“非法”要求](https://news.cctv.com/2025/09/02/ARTIXWf6jNTuGRUN0Hnxqf0y250902.shtml)
+
