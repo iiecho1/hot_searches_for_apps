@@ -209,3 +209,5 @@
 
 + [赴美旅游凉了？这些原因劝退外国游客](https://news.cctv.com/2025/09/02/ARTIbakjm2H6owk9zdUTcrEY250902.shtml)
 
++ [加沙九成校舍被毁 逾66万儿童无法接受教育](https://news.cctv.com/2025/09/02/ARTIuODRbXvuMuECDnfD2H1r250902.shtml)
+

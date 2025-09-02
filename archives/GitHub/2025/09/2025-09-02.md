@@ -31,3 +31,17 @@
 
 + [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
++ [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+
++ [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+
++ [LukeGus/Termix](https://github.com/LukeGus/Termix)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
+
++ [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
+
++ [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+
