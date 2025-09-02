@@ -197,3 +197,5 @@
 
 + [英国气象局确认今夏为有记录以来最热夏季](https://news.cctv.com/2025/09/02/ARTIxmRlj8qYIk9gqLyrGwJa250902.shtml)
 
++ [多名美疾控中心前负责人集体发声 批评政府公共卫生政策](https://news.cctv.com/2025/09/02/ARTIpNIIJs4chics8A7onbRU250902.shtml)
+

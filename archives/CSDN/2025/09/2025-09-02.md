@@ -185,3 +185,13 @@
 
 + [shell的原理和Linux的指令效果演示](https://blog.csdn.net/m0_73693552/article/details/151052851)
 
++ [探索 UniHttp：解锁 Xml 及 JavaBean 序列化的多种方式](https://blog.csdn.net/yelangkingwuzuhu/article/details/151086985)
+
++ [从零开始在Ubuntu上快速部署Docker和Dify：结合 Dify + 蓝耘 MaaS平台打造 AI 应用实战指南](https://blog.csdn.net/2301_76341691/article/details/151078946)
+
++ [从全球视角到K8s落地的Apache IoTDB实战](https://blog.csdn.net/liu_chen_yang/article/details/151106898)
+
++ [微信小程序 - 完美解决“code“:“NO_AUTH“,“message“:“商户号该产品权限未开通，请前往商户平台＞产品中心检查后重试“（微信小程序报错问题排查解决）](https://blog.csdn.net/weixin_44198965/article/details/151104333)
+
++ [Spring Cloud ------ Gateway](https://blog.csdn.net/mr_yuanshen/article/details/151081597)
+
