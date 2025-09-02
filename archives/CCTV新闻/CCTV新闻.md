@@ -173,3 +173,5 @@
 
 + [美国科罗拉多州两架小型飞机空中相撞 致1死3伤](https://news.cctv.com/2025/09/02/ARTIWuvx3sKgqhrEwFxjw09E250902.shtml)
 
++ [法国政府面临垮台风险 欧洲央行行长发出警告](https://news.cctv.com/2025/09/02/ARTI1dC0cRFwTX5igZzPR1Rs250902.shtml)
+
