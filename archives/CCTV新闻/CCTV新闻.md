@@ -203,3 +203,9 @@
 
 + [“中国联合展台”亮相非洲电视节](https://photo.cctv.com/2025/09/02/PHOAx2WxHup4XUGxVkLygOn4250902.shtml)
 
++ [重压之下 美国劳动力市场流失逾120万移民](https://news.cctv.com/2025/09/02/ARTIJdvnwL9S4Gc78efN1PWY250902.shtml)
+
++ [英、日、韩经历有记录以来“最热夏天”](https://news.cctv.com/2025/09/02/ARTIlwIhuTIN8G3gX4RhTzPG250902.shtml)
+
++ [赴美旅游凉了？这些原因劝退外国游客](https://news.cctv.com/2025/09/02/ARTIbakjm2H6owk9zdUTcrEY250902.shtml)
+

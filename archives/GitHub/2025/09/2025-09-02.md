@@ -29,3 +29,5 @@
 
 + [bevyengine/bevy](https://github.com/bevyengine/bevy)
 
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+

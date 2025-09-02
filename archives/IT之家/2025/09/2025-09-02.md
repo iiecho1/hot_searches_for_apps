@@ -81,3 +81,7 @@
 
 + [小米澎湃 OS 3 Beta 超级岛功能详解及适配进度公布，更多应用持续打磨中](https://m.ithome.com/html/879779.htm)
 
++ [全球 6G 无线通信标准化工作启动：华为 / 海思聚焦 7-24GHz 频段协议适配，小米、苹果等厂商提出各自思路](https://m.ithome.com/html/879791.htm)
+
++ [透明手机壳“不透明”？苹果 iPhone 17 Pro 官方壳被曝背部有大面积白色](https://m.ithome.com/html/879708.htm)
+
