@@ -29,3 +29,19 @@
 
 + [OPPO Find X9 系列无缘 24GB+2TB 版本：周意保称 2TB 硬件目前还不成熟，未来肯定会登场](https://m.ithome.com/html/879595.htm)
 
++ [疑似苹果 iPhone 17 Pro Max 量产机泄露，后盖设计大变](https://m.ithome.com/html/879949.htm)
+
++ [OriginOS 6 系统 UI 细节设计首曝：全新光影效果、vivo X300 系列手机首发](https://m.ithome.com/html/879834.htm)
+
++ [携程内部通知：9 月 1 号起居家办公无需直属领导审批，提交即视为自动通过](https://m.ithome.com/html/879853.htm)
+
++ [消息称苹果 iPhone 17 标准版 / Pro Max 不涨价，Pro 涨价 100 美元起步 256GB 存储](https://m.ithome.com/html/879976.htm)
+
++ [小米 16 系列手机规格曝光：标准版 / Pro 版 6.3 英寸 1.5K 屏，首发骁龙 8 Elite Gen5 芯片](https://m.ithome.com/html/879830.htm)
+
++ [网购 7 万公里二手车实为“18 万公里调表”，女子 25 万元买车获 49.8 万元“退一赔一”](https://m.ithome.com/html/879922.htm)
+
++ [九三阅兵首次规模化搭建国产 8K 超高清转播系统，创两个历史之最](https://m.ithome.com/html/879957.htm)
+
++ [小米澎湃 HyperOS 3 系统支持全新水印能力，基于最新 Android W 底层架构进行开发](https://m.ithome.com/html/879911.htm)
+

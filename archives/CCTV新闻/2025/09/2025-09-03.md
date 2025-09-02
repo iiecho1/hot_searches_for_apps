@@ -163,3 +163,7 @@
 
 + [尼泊尔秋季登山季逾200名登山者已获许可](https://news.cctv.com/2025/09/03/ARTIKkWImdXhtXfSdxmu57UU250903.shtml)
 
++ [以色列总理：以军正在为进攻加沙城做准备](https://news.cctv.com/2025/09/03/ARTIXuIYVuhNluVNflOTm9F5250903.shtml)
+
++ [为运送救援物资 苏丹延长西部一口岸开放期限至年底](https://news.cctv.com/2025/09/03/ARTIOb9PmECi0dVKklAchrMm250903.shtml)
+

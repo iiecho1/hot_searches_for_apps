@@ -121,3 +121,13 @@
 
 + [基于三维反投影矫正拼接视频](https://blog.csdn.net/qianbo042311/article/details/151043548)
 
++ [AI热点周报（8.24~8.30）：Grok 2.5开源，OpenAI Realtime正式商用，Meta或与OpenAI或Google合作？](https://blog.csdn.net/qq_51646682/article/details/151046642)
+
++ [【AI大模型前沿】昆仑万维开源Skywork-R1V3：38B多模态推理模型，高考数学142分刷新开源SOTA](https://blog.csdn.net/xiaobing259/article/details/151050269)
+
++ [电科金仓KingbaseES V9数据库：国产数据库的自主创新与行业实践深度解析](https://blog.csdn.net/Dreamy_zsy/article/details/151045928)
+
++ [《架构师手记：SpringCloud整合Nacos实战·一》](https://blog.csdn.net/Yu_luoluo/article/details/151085403)
+
++ [Uncaught TypeError: Cannot read properties of undefined (reading ‘xxx‘)：从报错根源到根治方案（前端/后端通用）](https://blog.csdn.net/m0_74313397/article/details/151000225)
+
