@@ -159,3 +159,13 @@
 
 + [【网络安全】WAF Bypass——长亭雷池、安全狗下的SQL绕过](https://blog.csdn.net/2301_79915754/article/details/150400081)
 
++ [飞算JavaAI炫技赛：电商系统商品管理模块设计与实现](https://blog.csdn.net/IRpickstars/article/details/151087985)
+
++ [SQLSugar 封装原理详解：从架构到核心模块的底层实现](https://blog.csdn.net/sixpp/article/details/151017440)
+
++ [深入Linux内核：IPC资源管理揭秘](https://blog.csdn.net/2402_84532723/article/details/150533752)
+
++ [基于单片机老人防丢失防摔倒系统/老人健康状态检测系统](https://blog.csdn.net/Holidaylive/article/details/151052418)
+
++ [策略模式：模拟八路军的抗日策略](https://blog.csdn.net/2503_92624912/article/details/151039542)
+

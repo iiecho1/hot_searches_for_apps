@@ -193,3 +193,7 @@
 
 + [日本气象厅：日本经历有记录以来“最热夏天”](https://news.cctv.com/2025/09/02/ARTI47VIf7ceR6Ods2H8FeRA250902.shtml)
 
++ [比利时大肠杆菌感染事件造成8人死亡 尚无法确定污染源](https://news.cctv.com/2025/09/02/ARTIsdP5WN6CLdylOLqAZhiz250902.shtml)
+
++ [英国气象局确认今夏为有记录以来最热夏季](https://news.cctv.com/2025/09/02/ARTIxmRlj8qYIk9gqLyrGwJa250902.shtml)
+
