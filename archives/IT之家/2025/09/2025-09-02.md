@@ -79,3 +79,5 @@
 
 + [OPPO Find X9 系列无缘 24GB+2TB 版本：周意保称 2TB 硬件目前还不成熟，未来肯定会登场](https://m.ithome.com/html/879595.htm)
 
++ [小米澎湃 OS 3 Beta 超级岛功能详解及适配进度公布，更多应用持续打磨中](https://m.ithome.com/html/879779.htm)
+

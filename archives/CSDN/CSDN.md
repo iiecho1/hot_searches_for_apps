@@ -179,3 +179,9 @@
 
 + [.NET 微服务日志系统：Serilog + Loki + Grafana 实践指南](https://blog.csdn.net/temp0504/article/details/151060446)
 
++ [Trae + MCP : 一键生成专业封面](https://blog.csdn.net/Pocker_Spades_A/article/details/150964354)
+
++ [OpenCV-CUDA 图像处理](https://blog.csdn.net/m0_46967529/article/details/151069253)
+
++ [shell的原理和Linux的指令效果演示](https://blog.csdn.net/m0_73693552/article/details/151052851)
+
