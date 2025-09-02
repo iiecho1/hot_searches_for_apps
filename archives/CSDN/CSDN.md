@@ -169,3 +169,13 @@
 
 + [策略模式：模拟八路军的抗日策略](https://blog.csdn.net/2503_92624912/article/details/151039542)
 
++ [机器学习之生成对抗网络（GAN）](https://blog.csdn.net/Pocker_Spades_A/article/details/150964354)
+
++ [高校毕业生就业信息小程序|基于微信小程序的高校毕业生就业信息的设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/151107176)
+
++ [大话 IOT 技术(1) -- 架构篇](https://blog.csdn.net/weixin_43719312/article/details/151007394)
+
++ [镜像压缩：离线、零依赖的 Docker/OCI 镜像层合并工具 oci-squash](https://blog.csdn.net/doinv/article/details/151030333)
+
++ [.NET 微服务日志系统：Serilog + Loki + Grafana 实践指南](https://blog.csdn.net/temp0504/article/details/151060446)
+
