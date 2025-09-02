@@ -189,3 +189,7 @@
 
 + [伊朗外交部：伊朗不会屈服于西方的“非法”要求](https://news.cctv.com/2025/09/02/ARTIXWf6jNTuGRUN0Hnxqf0y250902.shtml)
 
++ [世贸组织总干事呼吁加强全球贸易基础](https://news.cctv.com/2025/09/02/ARTIozXKRRZVVK0jCKl2iXDg250902.shtml)
+
++ [日本气象厅：日本经历有记录以来“最热夏天”](https://news.cctv.com/2025/09/02/ARTI47VIf7ceR6Ods2H8FeRA250902.shtml)
+
