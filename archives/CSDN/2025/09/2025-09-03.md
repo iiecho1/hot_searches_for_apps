@@ -101,3 +101,11 @@
 
 + [从电脑底层到进程创建：一篇看懂冯诺依曼、OS和进程](https://blog.csdn.net/wheeldown/article/details/151109661)
 
++ [k8s--etcd ](https://blog.csdn.net/weixin_60047971/article/details/151079987)
+
++ [Oracle ADG 和 PostgreSQL 流复制机制差异](https://blog.csdn.net/hezuijiudexiaobai/article/details/151115016)
+
++ [HTML5国庆网站源码](https://blog.csdn.net/qq_37344688/article/details/151037591)
+
++ [【网络安全】WAF Bypass——长亭雷池、安全狗下的SQL绕过](https://blog.csdn.net/2301_79915754/article/details/150400081)
+

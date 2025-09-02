@@ -25,3 +25,7 @@
 
 + [透明手机壳“不透明”？苹果 iPhone 17 Pro 官方壳被曝背部有大面积白色](https://m.ithome.com/html/879708.htm)
 
++ [华为官宣刘德华担任 Mate XTs 非凡大师品牌大使，新品 9 月 4 日发布](https://m.ithome.com/html/879550.htm)
+
++ [OPPO Find X9 系列无缘 24GB+2TB 版本：周意保称 2TB 硬件目前还不成熟，未来肯定会登场](https://m.ithome.com/html/879595.htm)
+
