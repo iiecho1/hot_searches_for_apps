@@ -167,3 +167,5 @@
 
 + [为运送救援物资 苏丹延长西部一口岸开放期限至年底](https://news.cctv.com/2025/09/03/ARTIOb9PmECi0dVKklAchrMm250903.shtml)
 
++ [斯洛文尼亚向联合国近东救济工程处资助400万欧元](https://news.cctv.com/2025/09/03/ARTIEH9FlGdxpw5oHA0KvpWW250903.shtml)
+

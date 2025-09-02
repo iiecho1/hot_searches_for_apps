@@ -131,3 +131,9 @@
 
 + [Uncaught TypeError: Cannot read properties of undefined (reading ‘xxx‘)：从报错根源到根治方案（前端/后端通用）](https://blog.csdn.net/m0_74313397/article/details/151000225)
 
++ [编程语言、自然语言、AI语言与IT产业、人类群体〈65亿+〉——（去除命令）普及运用](https://blog.csdn.net/2501_93232459/article/details/151102653)
+
++ [aws上创建jenkins](https://blog.csdn.net/fyihdg/article/details/151074848)
+
++ [.NET 微服务日志系统：Serilog + Loki + Grafana 实践指南](https://blog.csdn.net/temp0504/article/details/151060446)
+
