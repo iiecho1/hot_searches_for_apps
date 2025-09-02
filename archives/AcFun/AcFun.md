@@ -65,3 +65,5 @@
 
 + [『你爱上的我（cover：张智成）』，深夜emo神曲！](https://m.acfun.cn/v/?ac=47782151)
 
++ [提线木偶](https://m.acfun.cn/v/?ac=47782003)
+

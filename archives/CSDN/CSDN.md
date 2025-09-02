@@ -109,3 +109,15 @@
 
 + [【网络安全】WAF Bypass——长亭雷池、安全狗下的SQL绕过](https://blog.csdn.net/2301_79915754/article/details/150400081)
 
++ [数据挖掘实战-基于随机森林算法的糖尿病分类预测模型](https://blog.csdn.net/m0_64336780/article/details/149804567)
+
++ [深入浅出 RabbitMQ-TTL+死信队列+延迟队列](https://blog.csdn.net/chandfy/article/details/151106249)
+
++ [基于SpringBoot的运动服装销售系统【2026最新】](https://blog.csdn.net/2301_78335941/article/details/151085075)
+
++ [支持向量机（SVM）](https://blog.csdn.net/xiaoyuting999/article/details/151046589)
+
++ [站在巨人的肩膀上：gRPC通过HTTP/2构建云原生时代的通信标准](https://blog.csdn.net/github_34302010/article/details/151053860)
+
++ [基于三维反投影矫正拼接视频](https://blog.csdn.net/qianbo042311/article/details/151043548)
+
