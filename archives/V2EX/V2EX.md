@@ -21,3 +21,5 @@
 
 + [推荐一本对你来说最获益匪浅的书籍吧](https://www.v2ex.com/t/1156471)
 
++ [cursor 是越来越不行了](https://www.v2ex.com/t/1156470)
+
