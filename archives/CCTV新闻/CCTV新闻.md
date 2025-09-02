@@ -199,3 +199,7 @@
 
 + [多名美疾控中心前负责人集体发声 批评政府公共卫生政策](https://news.cctv.com/2025/09/02/ARTIpNIIJs4chics8A7onbRU250902.shtml)
 
++ [“中国之友”辛德贝格家属：情谊世代传 历史永铭记](https://news.cctv.com/2025/09/02/ARTIRkeqSw2qRuUe2aKZicxs250902.shtml)
+
++ [“中国联合展台”亮相非洲电视节](https://photo.cctv.com/2025/09/02/PHOAx2WxHup4XUGxVkLygOn4250902.shtml)
+

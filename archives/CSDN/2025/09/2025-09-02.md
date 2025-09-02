@@ -195,3 +195,11 @@
 
 + [Spring Cloud ------ Gateway](https://blog.csdn.net/mr_yuanshen/article/details/151081597)
 
++ [智能化企业级CRM系统开发实战：飞算JavaAI全流程体验](https://blog.csdn.net/weixin_66401877/article/details/151105171)
+
++ [【Java后端】Spring Boot 全局域名替换](https://blog.csdn.net/qq_41688840/article/details/151087564)
+
++ [Docker Network 命令：容器网络管理的完整指南](https://blog.csdn.net/qq_41840843/article/details/149115713)
+
++ [基于三维反投影矫正拼接视频](https://blog.csdn.net/qianbo042311/article/details/151043548)
+
