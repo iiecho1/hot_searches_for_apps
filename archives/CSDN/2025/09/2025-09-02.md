@@ -219,3 +219,7 @@
 
 + [Uncaught TypeError: Cannot read properties of undefined (reading ‘xxx‘)：从报错根源到根治方案（前端/后端通用）](https://blog.csdn.net/m0_74313397/article/details/151000225)
 
++ [【Spring AI】第一弹：在 A‏I 应用平台上创建‏智能体应用、工作流‏应用和使用 SDK 、HTTP、Spring AI 、LangChain4j 四种方式接入阿里云百炼灵积大模型](https://blog.csdn.net/2402_84916296/article/details/151113935)
+
++ [Redis 7.0 高性能缓存架构设计与优化](https://blog.csdn.net/2301_79139273/article/details/151052578)
+
