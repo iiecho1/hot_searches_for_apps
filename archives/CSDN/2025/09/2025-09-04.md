@@ -121,3 +121,7 @@
 
 + [【完整源码+数据集+部署教程】PHC桩实例分割系统源码和数据集：改进yolo11-Faster-EMA](https://blog.csdn.net/weixin_43860634/article/details/151118949)
 
++ [云原生数据库核心能力复刻：本地数据中心构建媲美公有云 RDS 的技术实践](https://blog.csdn.net/hezuijiudexiaobai/article/details/151157732)
+
++ [【完整源码+数据集+部署教程】肺炎类型检测系统源码和数据集：改进yolo11-CSP-EDLAN](https://blog.csdn.net/2301_78772942/article/details/151119106)
+
