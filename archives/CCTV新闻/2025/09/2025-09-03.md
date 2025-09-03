@@ -193,3 +193,5 @@
 
 + [向洛杉矶派兵被判违法后 特朗普又瞄准芝加哥](https://news.cctv.com/2025/09/03/ARTIN6et2dH0Dgm87Bh0Mrx6250903.shtml)
 
++ [特朗普宣布将搬迁美国太空司令部 耗资或达数亿美元](https://news.cctv.com/2025/09/03/ARTIAt3k8UfdxrAY9oM9N5Wb250903.shtml)
+

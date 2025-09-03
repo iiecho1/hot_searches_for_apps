@@ -193,3 +193,7 @@
 
 + [传统大数据 Hadoop 和 云原生湖仓 Databend 对比](https://blog.csdn.net/Databend/article/details/151118865)
 
++ [基于RS-485接口的芯片的FPGA驱动程序](https://blog.csdn.net/m0_69500424/article/details/151062652)
+
++ [【硬件测试】基于FPGA的16PSK+卷积编码Viterbi译码硬件片内测试,包含帧同步,信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/151121185)
+
