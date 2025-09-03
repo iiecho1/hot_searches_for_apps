@@ -25,3 +25,17 @@
 
 + [网购 7 万公里二手车实为“18 万公里调表”，女子 25 万元买车获 49.8 万元“退一赔一”](https://m.ithome.com/html/879922.htm)
 
++ [我国新一代 191 式自动步枪将亮相九三阅兵：被誉为“枪界变形金刚”，高可靠、高精度、轻重量完美统一](https://m.ithome.com/html/879772.htm)
+
++ [全球 6G 无线通信标准化工作启动：华为 / 海思聚焦 7-24GHz 频段协议适配，小米、苹果等厂商提出各自思路](https://m.ithome.com/html/879791.htm)
+
++ [小米澎湃 OS 3 Beta 超级岛功能详解及适配进度公布，更多应用持续打磨中](https://m.ithome.com/html/879779.htm)
+
++ [消息称苹果 iPhone 17 标准版 / Pro Max 不涨价，Pro 涨价 100 美元起步 256GB 存储](https://m.ithome.com/html/879976.htm)
+
++ [小米 16 系列手机规格曝光：标准版 / Pro 版 6.3 英寸 1.5K 屏，首发骁龙 8 Elite Gen5 芯片](https://m.ithome.com/html/879830.htm)
+
++ [透明手机壳“不透明”？苹果 iPhone 17 Pro 官方壳被曝背部有大面积白色](https://m.ithome.com/html/879708.htm)
+
++ [小米澎湃 HyperOS 3 系统支持全新水印能力，基于最新 Android W 底层架构进行开发](https://m.ithome.com/html/879911.htm)
+

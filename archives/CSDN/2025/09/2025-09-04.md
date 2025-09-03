@@ -101,3 +101,9 @@
 
 + [aws上创建jenkins](https://blog.csdn.net/fyihdg/article/details/151074848)
 
++ [运动规划实战案例 | 基于行人社交模型的移动机器人动态避障(附ROS C++仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/151051312)
+
++ [基于RS-485接口的芯片的FPGA驱动程序](https://blog.csdn.net/m0_69500424/article/details/151062652)
+
++ [解锁WebRTC在数字人领域的无限潜能](https://blog.csdn.net/beautifulmemory/article/details/151088956)
+
