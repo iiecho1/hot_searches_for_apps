@@ -59,3 +59,7 @@
 
 + [我国舰载激光武器亮相九三阅兵：精准毁伤、持续打击，打造海战攻防新规则](https://m.ithome.com/html/880031.htm)
 
++ [中国联通被曝已发布通知，为苹果 iPhone 17 系列 eSIM 提供业务支撑](https://m.ithome.com/html/880068.htm)
+
++ [整装待发：九三阅兵轰炸机列队完成，均为轰六家族主力机型](https://m.ithome.com/html/880001.htm)
+

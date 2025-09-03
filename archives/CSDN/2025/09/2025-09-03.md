@@ -197,3 +197,9 @@
 
 + [【硬件测试】基于FPGA的16PSK+卷积编码Viterbi译码硬件片内测试,包含帧同步,信道,误码统计,可设置SNR](https://blog.csdn.net/hlayumi1234567/article/details/151121185)
 
++ [Java 大视界 --Java 大数据在智能教育学习资源整合与知识图谱构建中的深度应用（406）](https://blog.csdn.net/atgfg/article/details/151120941)
+
++ [【Linux我做主】进程退出和终止详解](https://blog.csdn.net/2301_80064645/article/details/150526116)
+
++ [网络原理——TCP/UDP/IP](https://blog.csdn.net/phltxy/article/details/151010982)
+
