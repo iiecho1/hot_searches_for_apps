@@ -163,3 +163,7 @@
 
 + [里斯本旅游缆车侧翻出轨造成1死多伤](https://news.cctv.com/2025/09/04/ARTIwBA7P5nF2IYgJ8xgW4l2250904.shtml)
 
++ [苏丹卫生部否认喀土穆州存在化武污染](https://news.cctv.com/2025/09/04/ARTIWFrtk1ErNQLaLX6Qr9jq250904.shtml)
+
++ [美联储“褐皮书”：美国物价普遍上涨 与加征关税相关](https://news.cctv.com/2025/09/04/ARTISh6LemzgePgFnT716qPQ250904.shtml)
+
