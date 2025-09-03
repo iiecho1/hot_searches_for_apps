@@ -171,3 +171,7 @@
 
 + [美法官裁决特朗普向洛杉矶派兵违法](https://news.cctv.com/2025/09/03/ARTI3XTh310tlhnG3czDGzZm250903.shtml)
 
++ [中国驻阿富汗使馆向阿方转交抗震救灾善款](https://news.cctv.com/2025/09/03/ARTI512HPDUI07wUFyGjCbY4250903.shtml)
+
++ [中国医疗队在科摩罗开展义诊活动](https://news.cctv.com/2025/09/03/ARTIPXaZfYOxOZkqwESuHySU250903.shtml)
+

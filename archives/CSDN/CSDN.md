@@ -169,3 +169,9 @@
 
 + [第六章：透明度-Transparency《Unity Shaders and Effets Cookbook》](https://blog.csdn.net/m0_56734636/article/details/146126110)
 
++ [Nginx 502 Bad Gateway：从 upstream 日志到 FastCGI 超时复盘](https://blog.csdn.net/IRpickstars/article/details/151046110)
+
++ [基于大数据的网络舆情管理与可视化平台设计与实现(精品源码+精品论文+数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/151135313)
+
++ [GitHub 热榜项目 - 日榜(2025-09-02)](https://blog.csdn.net/u014390502/article/details/151101275)
+
