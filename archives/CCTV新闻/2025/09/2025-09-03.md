@@ -169,3 +169,5 @@
 
 + [斯洛文尼亚向联合国近东救济工程处资助400万欧元](https://news.cctv.com/2025/09/03/ARTIEH9FlGdxpw5oHA0KvpWW250903.shtml)
 
++ [美法官裁决特朗普向洛杉矶派兵违法](https://news.cctv.com/2025/09/03/ARTI3XTh310tlhnG3czDGzZm250903.shtml)
+

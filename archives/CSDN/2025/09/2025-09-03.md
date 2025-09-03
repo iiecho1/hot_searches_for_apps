@@ -143,3 +143,9 @@
 
 + [Linux《进程信号（上）》](https://blog.csdn.net/2303_81098358/article/details/151013869)
 
++ [极客学院-从零开始学架构](https://blog.csdn.net/qq_43350524/article/details/151046736)
+
++ [▲基于16QAM调制软解调+LDPC编译码+FFT频偏估计同步通信系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/151123367)
+
++ [Docker镜像指南：从核心命令到离线迁移实战](https://blog.csdn.net/2302_80105876/article/details/151068979)
+
