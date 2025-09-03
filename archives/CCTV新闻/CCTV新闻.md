@@ -191,3 +191,5 @@
 
 + [法国气象局：今夏为该国有记录以来第三热夏季](https://news.cctv.com/2025/09/03/ARTIdroxapyxONvMpKDzTmFQ250903.shtml)
 
++ [向洛杉矶派兵被判违法后 特朗普又瞄准芝加哥](https://news.cctv.com/2025/09/03/ARTIN6et2dH0Dgm87Bh0Mrx6250903.shtml)
+

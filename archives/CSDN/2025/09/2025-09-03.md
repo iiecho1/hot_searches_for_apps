@@ -183,3 +183,13 @@
 
 + [网络编程 socket——TCP](https://blog.csdn.net/jingfeng514/article/details/151121393)
 
++ [从静态到智能：用函数式接口替代传统工具类](https://blog.csdn.net/u010398771/article/details/150272109)
+
++ [【花雕动手做】Kitronik 可编程开发板基于 ARCADE MakeCode 之随机箭头小游戏](https://blog.csdn.net/weixin_41659040/article/details/151064191)
+
++ [（11）用于无GPS导航的制图师SLAM（二）](https://blog.csdn.net/qq_20016593/article/details/149776297)
+
++ [深入理解 HTTP 与 HTTPS：区别以及 HTTPS 加密原理](https://blog.csdn.net/m0_73884648/article/details/151069352)
+
++ [传统大数据 Hadoop 和 云原生湖仓 Databend 对比](https://blog.csdn.net/Databend/article/details/151118865)
+
