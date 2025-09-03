@@ -175,3 +175,19 @@
 
 + [中国医疗队在科摩罗开展义诊活动](https://news.cctv.com/2025/09/03/ARTIPXaZfYOxOZkqwESuHySU250903.shtml)
 
++ [高端访谈丨塞内加尔总理：中国人民珍视历史、传承记忆的方式令人触动](https://news.cctv.com/2025/09/03/ARTIK2c6mmKz51vzfYk1tU18250903.shtml)
+
++ [高端访谈丨80年前的胜利为何仍需铭记？上合秘书长引用这句中国古语作答](https://news.cctv.com/2025/09/03/ARTIfgIFvL3IroT4HLQQNPCI250903.shtml)
+
++ [“天津峰会推动上合组织进入发展新阶段”——访沙特阿拉伯科研与知识交流中心主席叶海亚·本·朱奈德](https://news.cctv.com/2025/09/03/ARTIZmid82nk6SBuXDOKh70m250903.shtml)
+
++ [外媒热议上合峰会《天津宣言》：历史性里程碑和面向未来的蓝图](https://news.cctv.com/2025/09/03/ARTI9xG306OZpM8CtyjKJu9s250903.shtml)
+
++ [哈萨克斯坦学者：上合组织赋能哈中合作高质量发展](https://news.cctv.com/2025/09/03/ARTI0Mh2FfICrCNI48WAJDFj250903.shtml)
+
++ [“好莱坞式叙事无人信服” 委总统怒斥美编造谎言派军挑衅](https://news.cctv.com/2025/09/03/ARTInomIKn4KMSUCBaeLgDUY250903.shtml)
+
++ [涉嫌非法收集儿童数据 迪士尼公司认罚1000万美元](https://news.cctv.com/2025/09/03/ARTIiBhaQcwGmqWfRP8vhT2q250903.shtml)
+
++ [法国气象局：今夏为该国有记录以来第三热夏季](https://news.cctv.com/2025/09/03/ARTIdroxapyxONvMpKDzTmFQ250903.shtml)
+
