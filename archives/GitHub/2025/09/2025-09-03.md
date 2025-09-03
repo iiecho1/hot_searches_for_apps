@@ -27,3 +27,33 @@
 
 + [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
 
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
+
++ [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+
++ [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit)
+
++ [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+
++ [dotnet/eShop](https://github.com/dotnet/eShop)
+
++ [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
+
++ [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+
++ [oraios/serena](https://github.com/oraios/serena)
+
++ [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
++ [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
+
++ [activepieces/activepieces](https://github.com/activepieces/activepieces)
+
++ [kestra-io/kestra](https://github.com/kestra-io/kestra)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [carthage-software/mago](https://github.com/carthage-software/mago)
+
