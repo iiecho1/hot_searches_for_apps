@@ -161,3 +161,5 @@
 
 + [乌克兰前议长遭枪击身亡 泽连斯基下令彻查](https://news.cctv.com/2025/08/31/ARTItq3563s6SyXsp3z6uDPp250831.shtml)
 
++ [里斯本旅游缆车侧翻出轨造成1死多伤](https://news.cctv.com/2025/09/04/ARTIwBA7P5nF2IYgJ8xgW4l2250904.shtml)
+

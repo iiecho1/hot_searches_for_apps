@@ -125,3 +125,5 @@
 
 + [【完整源码+数据集+部署教程】肺炎类型检测系统源码和数据集：改进yolo11-CSP-EDLAN](https://blog.csdn.net/2301_78772942/article/details/151119106)
 
++ [【完整源码+数据集+部署教程】粘土石实例分割系统源码和数据集：改进yolo11-LVMB](https://blog.csdn.net/weixin_43860634/article/details/151118906)
+
