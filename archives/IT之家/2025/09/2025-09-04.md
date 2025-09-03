@@ -39,3 +39,9 @@
 
 + [小米澎湃 HyperOS 3 系统支持全新水印能力，基于最新 Android W 底层架构进行开发](https://m.ithome.com/html/879911.htm)
 
++ [中国联通被曝已发布通知，为苹果 iPhone 17 系列 eSIM 提供业务支撑](https://m.ithome.com/html/880068.htm)
+
++ [整装待发：九三阅兵轰炸机列队完成，均为轰六家族主力机型](https://m.ithome.com/html/880001.htm)
+
++ [天天降夜夜降：iPad Air M3 版 4799 → 3099 元 12 期免息](https://m.ithome.com/html/879969.htm)
+
