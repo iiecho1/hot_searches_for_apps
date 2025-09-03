@@ -45,3 +45,17 @@
 
 + [小米澎湃 HyperOS 3 系统支持全新水印能力，基于最新 Android W 底层架构进行开发](https://m.ithome.com/html/879911.htm)
 
++ [东风 61、东风-5C、巨浪 3、惊雷 1 导弹等先进装备亮相九三阅兵，均为国产现役主战装备](https://m.ithome.com/html/880027.htm)
+
++ [打击范围覆盖全球：“东风-5C”液体洲际战略核导弹亮相九三阅兵，全时戒备、有效威慑](https://m.ithome.com/html/880039.htm)
+
++ [消息称苹果 iPhone 17 标准版 / Pro Max 不涨价，Pro 涨价 100 美元但起步 256GB 存储](https://m.ithome.com/html/879976.htm)
+
++ [小米雷军、360 周鸿祎等人受邀参加观礼，自称凌晨 3 点多动身奔赴九三阅兵观礼台](https://m.ithome.com/html/880064.htm)
+
++ [云端亮剑：歼-20、歼-35 等震撼亮相九三阅兵，多款新型隐身战斗机列装](https://m.ithome.com/html/880036.htm)
+
++ [九三阅兵采用“中华人民共和国迎宾礼炮”：环保技术应用，鸣放后无固态外抛物、环境零污染](https://m.ithome.com/html/879997.htm)
+
++ [我国舰载激光武器亮相九三阅兵：精准毁伤、持续打击，打造海战攻防新规则](https://m.ithome.com/html/880031.htm)
+

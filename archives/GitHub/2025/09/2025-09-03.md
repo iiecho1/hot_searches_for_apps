@@ -25,3 +25,5 @@
 
 + [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
 
++ [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
+
