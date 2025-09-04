@@ -185,3 +185,11 @@
 
 + [俄外交部：美国批准对乌军售损害和平进程](https://news.cctv.com/2025/09/04/ARTIzauyz3DVadxSZNfsrbd0250904.shtml)
 
++ [阿富汗东部地震死亡人数升至2200余人](https://news.cctv.com/2025/09/04/ARTIVgSWJ4kH53aS5TDQWVrO250904.shtml)
+
++ [委内瑞拉敦促美国国会调查在加勒比海派兵目的](https://news.cctv.com/2025/09/04/ARTIiXGt7PQZUADsczme8bQZ250904.shtml)
+
++ [多国领导人在巴黎举行会议 讨论对乌安全保障](https://news.cctv.com/2025/09/04/ARTI6af1fAMTTyVyug2erFGl250904.shtml)
+
++ [中国向阿富汗提供地震救灾紧急人道主义援助](https://news.cctv.com/2025/09/04/ARTIMofJmw0YX0BnjqWJqFoy250904.shtml)
+

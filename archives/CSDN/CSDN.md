@@ -211,3 +211,5 @@
 
 + [深入Linux内核：IPC资源管理揭秘](https://blog.csdn.net/2402_84532723/article/details/150533752)
 
++ [[免费]基于Python的Django+Vue图书借阅推荐系统【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/151186521)
+
