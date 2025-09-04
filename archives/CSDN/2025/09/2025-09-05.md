@@ -115,3 +115,21 @@
 
 + [Spring Boot 全局字段处理最佳实践](https://blog.csdn.net/dandandeshangni/article/details/151121931)
 
++ [深度学习——卷积神经网络](https://blog.csdn.net/qq1851417332/article/details/151157444)
+
++ [【滚雪球学数学建模】第8节·聚类与分类](https://blog.csdn.net/weixin_43970743/article/details/151153944)
+
++ [新手向:AI IDE+AI 辅助编程](https://blog.csdn.net/2302_77626561/article/details/151047883)
+
++ [【Spring AI】第一弹：在 A‏I 应用平台上创建‏智能体应用、工作流‏应用和使用 SDK 、HTTP、Spring AI 、LangChain4j 四种方式接入阿里云百炼灵积大模型](https://blog.csdn.net/2402_84916296/article/details/151113935)
+
++ [2025高教社杯全国大学生数学建模竞赛（A题）深度剖析| 烟幕干扰弹的投放 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/151195073)
+
++ [学习日记-SpringMVC-day48-9.2](https://blog.csdn.net/qq_59714927/article/details/151106233)
+
++ [uniapp+vue3 微信小程序全屏广告组件功能](https://blog.csdn.net/yalywq/article/details/151158586)
+
++ [Flutter 真 3D 游戏引擎来了，flame_3d 了解一下](https://blog.csdn.net/ZuoYueLiang/article/details/151151446)
+
++ [嵌入式系统与51单片机全解析](https://blog.csdn.net/m0_75040666/article/details/151117659)
+
