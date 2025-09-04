@@ -127,3 +127,13 @@
 
 + [【完整源码+数据集+部署教程】粘土石实例分割系统源码和数据集：改进yolo11-LVMB](https://blog.csdn.net/weixin_43860634/article/details/151118906)
 
++ [Docker Compose Up 命令：容器编排的核心操作](https://blog.csdn.net/qq_41840843/article/details/149115335)
+
++ [数据挖掘实战-基于随机森林算法的糖尿病分类预测模型](https://blog.csdn.net/m0_64336780/article/details/149804567)
+
++ [时序数据库选型指南：为何Apache IoTDB成为工业物联网首选](https://blog.csdn.net/2302_78391795/article/details/151144359)
+
++ [Python 爬虫案例：爬取豆瓣电影 Top250 数据](https://blog.csdn.net/enlybbq/article/details/151082343)
+
++ [新手向:JavaScript性能优化实战](https://blog.csdn.net/2302_77626561/article/details/151047847)
+
