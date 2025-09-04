@@ -197,3 +197,11 @@
 
 + [论文阅读——Ka波段FMCW雷达前端自适应泄漏消除技术](https://blog.csdn.net/qq_44648285/article/details/151173295)
 
++ [GitHub 热榜项目 - 日榜(2025-09-02)](https://blog.csdn.net/u014390502/article/details/151101275)
+
++ [【推荐系统】推荐召回算法（一）：双塔召回模型训练与推理（Dual Tower Model and Faiss Retrieval）](https://blog.csdn.net/weixin_48007632/article/details/151156027)
+
++ [如何评价2025年数学建模国赛？](https://blog.csdn.net/qq_52590045/article/details/151159039)
+
++ [Horse3D游戏引擎研发笔记（九）：使用现代图形引擎的元数据管理纹理创建过程（类Unity、Unreal Engine与Godot）](https://blog.csdn.net/2503_92624912/article/details/151160306)
+
