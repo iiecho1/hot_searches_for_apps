@@ -45,3 +45,5 @@
 
 + [全新 Parallels Desktop 26 登场！](https://www.v2ex.com/t/1156958)
 
++ [看热闹，燕郊 [首尔甜城] 4 万跌到 7 千， [永清国瑞生态城] 两万跌到两千](https://www.v2ex.com/t/1156975)
+
