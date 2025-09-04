@@ -133,3 +133,11 @@
 
 + [嵌入式系统与51单片机全解析](https://blog.csdn.net/m0_75040666/article/details/151117659)
 
++ [Cursor 辅助开发：快速搭建 Flask + Vue 全栈 Demo 的实战记录](https://blog.csdn.net/IRpickstars/article/details/151173792)
+
++ [为什么神经网络网络算法比机器学习模型算法更加强大？](https://blog.csdn.net/GUPAOAI/article/details/151117653)
+
++ [五种最新优化算法（ALA、AE、DOA、GOA、OX）求解多个无人机协同路径规划（可以自定义无人机数量及起始点）MATLAB代码](https://blog.csdn.net/matlab_dingdang/article/details/151114257)
+
++ [硬件：51单片机](https://blog.csdn.net/m0_74317917/article/details/151102340)
+
