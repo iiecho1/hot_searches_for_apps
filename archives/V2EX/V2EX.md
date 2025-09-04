@@ -27,3 +27,7 @@
 
 + [多少人是因为刘海，还没换 MacbookPro 的](https://www.v2ex.com/t/1156754)
 
++ [昨天去了红娘会所，有一些信息分享给各位](https://www.v2ex.com/t/1156960)
+
++ [资本家真该死啊](https://www.v2ex.com/t/1156917)
+

@@ -169,3 +169,9 @@
 
 + [里斯本著名景点缆车事故造成15死18伤](https://news.cctv.com/2025/09/04/ARTI144quwVvXIxibZkk9iqv250904.shtml)
 
++ [普京评价访华取得积极成果 称中国是世界经济发展引擎](https://news.cctv.com/2025/09/04/ARTIaSlsX89hjDB1oRyjfGto250904.shtml)
+
++ [（抗战胜利80周年）国际人士参加纪念大会：铭记历史教训 维护世界和平](https://news.cctv.com/2025/09/04/ARTIsTf4woNvSCCyRTn2pP4m250904.shtml)
+
++ [“上海精神”历久弥新（评论员观察）](https://news.cctv.com/2025/09/04/ARTIyaoPlsOv8YZoslqrdmBN250904.shtml)
+

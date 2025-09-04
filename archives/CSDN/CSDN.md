@@ -137,3 +137,21 @@
 
 + [新手向:JavaScript性能优化实战](https://blog.csdn.net/2302_77626561/article/details/151047847)
 
++ [二、Scala流程控制：分支与循环](https://blog.csdn.net/2401_83830408/article/details/151148853)
+
++ [计算机网络：（十七）应用层（上）应用层基本概念](https://blog.csdn.net/2402_83322742/article/details/151158054)
+
++ [鸿蒙HarmonyOS应用开发者认证：抢占万物智联时代先机](https://blog.csdn.net/2302_78391795/article/details/151121932)
+
++ [云电脑是什么？与普通电脑的区别在哪里？——天翼云电脑体验推荐](https://blog.csdn.net/JHXL_/article/details/151082046)
+
++ [FPGA AD7606串行驱动与并行驱动](https://blog.csdn.net/K_ZhJ18/article/details/151117457)
+
++ [前端安全防护深度实践：从XSS到CSRF的完整安全解决方案](https://blog.csdn.net/qq_39632646/article/details/151068928)
+
++ [嵌入式 - 硬件：51单片机](https://blog.csdn.net/m0_74911141/article/details/151101676)
+
++ [Day33 网络编程：OSI/TCP/IP模型、协议族与UDP编程](https://blog.csdn.net/oareen/article/details/151121110)
+
++ [ARM - GPIO 标准库开发](https://blog.csdn.net/2301_81501694/article/details/151119412)
+
