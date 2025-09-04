@@ -41,3 +41,21 @@
 
 + [carthage-software/mago](https://github.com/carthage-software/mago)
 
++ [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+
++ [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+
++ [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
++ [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+
++ [weaviate/elysia](https://github.com/weaviate/elysia)
+
++ [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)
+
++ [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)
+

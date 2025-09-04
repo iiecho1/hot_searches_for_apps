@@ -205,3 +205,9 @@
 
 + [Horse3D游戏引擎研发笔记（九）：使用现代图形引擎的元数据管理纹理创建过程（类Unity、Unreal Engine与Godot）](https://blog.csdn.net/2503_92624912/article/details/151160306)
 
++ [当Python遇见高德：基于PyQt与JS API构建桌面三维地形图应用实战](https://blog.csdn.net/2301_80863610/article/details/151181323)
+
++ [Vue 3 WebSocket通信方案：从原理到实践](https://blog.csdn.net/overFlowzy/article/details/151156100)
+
++ [深入Linux内核：IPC资源管理揭秘](https://blog.csdn.net/2402_84532723/article/details/150533752)
+
