@@ -167,3 +167,9 @@
 
 + [特朗普政府就关税违法裁决向美最高法院提出上诉](https://news.cctv.com/2025/09/05/ARTICP6S2FewtzYOSKuMbR8Z250904.shtml)
 
++ [美国首都起诉特朗普政府“非法部署”国民警卫队](https://news.cctv.com/2025/09/05/ARTIDcgCPEjfAbnaE0TDj9au250905.shtml)
+
++ [马克龙：26国将“在停火或和平协议框架下”向乌克兰部署军队](https://news.cctv.com/2025/09/05/ARTI6vku9jOAiAEuxfXTnOK7250905.shtml)
+
++ [特朗普签署行政命令 正式实施美日贸易协议](https://news.cctv.com/2025/09/05/ARTIa42dMI14sdmoy7XtcvAg250905.shtml)
+
