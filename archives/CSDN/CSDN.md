@@ -221,3 +221,11 @@
 
 + [【序列晋升】25 Spring Cloud Open Service Broker 如何为云原生「服务市集」架桥铺路？](https://blog.csdn.net/weixin_39671271/article/details/151121416)
 
++ [Spring Boot 实现数据库表变更监听的 Redis 消息队列方案](https://blog.csdn.net/zhaodecang/article/details/151154510)
+
++ [（B题｜碳化硅外延层厚度的确定）2025年高教杯全国大学生数学建模国赛解题思路|完整代码论文集合（B题｜碳化硅外延层厚度的确定）2025年高教杯全国大学生数学建模国赛解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/151193688)
+
++ [【滚雪球学数学建模】第2节·建模思维训练](https://blog.csdn.net/weixin_43970743/article/details/151142278)
+
++ [服务器监控不用盯屏幕：Ward+Cpolar让异常告警主动找到你](https://blog.csdn.net/qyj19920704/article/details/151186547)
+
