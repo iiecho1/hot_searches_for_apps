@@ -185,3 +185,11 @@
 
 + [uniapp - 鸿蒙报错hvigor ERROR: Invalid project path.，Detail: Please move the project to a valid path打包失败](https://blog.csdn.net/weixin_44198965/article/details/151178099)
 
++ [深度学习三大框架对比评测：PaddlePaddle、PyTorch 与 TensorFlow](https://blog.csdn.net/qq233325332/article/details/151148232)
+
++ [如何正确使用ChatGPT做数学建模比赛——数学建模AI使用技巧](https://blog.csdn.net/BigGod139/article/details/151082014)
+
++ [Spring Boot 事务失效的八大原因及解决方案详解](https://blog.csdn.net/qq_45110186/article/details/151154525)
+
++ [GitHub 热榜项目 - 日榜(2025-09-04)](https://blog.csdn.net/u014390502/article/details/151173626)
+
