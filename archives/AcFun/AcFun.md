@@ -61,3 +61,5 @@
 
 + [仁美さん 名古屋オートトレンド2021 NAGOYA AUTO TREND 2021（NAT）](https://m.acfun.cn/v/?ac=47784739)
 
++ [殴打、电击、窒息、喝X……他用300小时受虐直播杀死自己](https://m.acfun.cn/v/?ac=47787645)
+

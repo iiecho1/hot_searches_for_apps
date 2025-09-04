@@ -25,3 +25,9 @@
 
 + [疑似理想 i9 汽车谍照曝光，定位旗舰纯电 SUV](https://m.ithome.com/html/880200.htm)
 
++ [华为 MatePad Mini 小平板发布：8.8 英寸屏、可插卡打电话，3299 元起](https://m.ithome.com/html/880418.htm)
+
++ [华为首款 MateTV 售价 8999 起](https://m.ithome.com/html/880403.htm)
+
++ [消息称华为公布芯片型号代表国产芯片供应链已实现全链路自主可控](https://m.ithome.com/html/880394.htm)
+
