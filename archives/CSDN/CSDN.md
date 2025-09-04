@@ -181,3 +181,7 @@
 
 + [吴恩达机器学习补充：决策树和随机森林](https://blog.csdn.net/2401_86179035/article/details/151087037)
 
++ [为什么神经网络网络算法比机器学习模型算法更加强大？](https://blog.csdn.net/GUPAOAI/article/details/151117653)
+
++ [uniapp - 鸿蒙报错hvigor ERROR: Invalid project path.，Detail: Please move the project to a valid path打包失败](https://blog.csdn.net/weixin_44198965/article/details/151178099)
+
