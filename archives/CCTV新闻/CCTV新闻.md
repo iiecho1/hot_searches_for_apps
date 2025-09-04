@@ -175,3 +175,11 @@
 
 + [“上海精神”历久弥新（评论员观察）](https://news.cctv.com/2025/09/04/ARTIyaoPlsOv8YZoslqrdmBN250904.shtml)
 
++ [美法官裁定特朗普政府冻结哈佛大学经费违宪](https://news.cctv.com/2025/09/04/ARTImvbGatdILWF7t1KtEYmP250904.shtml)
+
++ [G20举办“黑客马拉松” 聚焦灾害风险管理](https://news.cctv.com/2025/09/04/ARTImlrUN7w7NebBQUzJxKeK250904.shtml)
+
++ [2026美加墨世界杯首轮售票将于9月10日开启](https://news.cctv.com/2025/09/04/ARTIMpp1IWJFJZOrFW5yAmGM250904.shtml)
+
++ [马克龙：欧洲已准备好向乌克兰提供安全保障](https://news.cctv.com/2025/09/04/ARTISE59NPHEJfDTtuvufynS250904.shtml)
+
