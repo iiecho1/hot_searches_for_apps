@@ -183,3 +183,5 @@
 
 + [马克龙：欧洲已准备好向乌克兰提供安全保障](https://news.cctv.com/2025/09/04/ARTISE59NPHEJfDTtuvufynS250904.shtml)
 
++ [俄外交部：美国批准对乌军售损害和平进程](https://news.cctv.com/2025/09/04/ARTIzauyz3DVadxSZNfsrbd0250904.shtml)
+

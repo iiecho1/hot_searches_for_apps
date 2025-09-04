@@ -43,3 +43,5 @@
 
 + [兄弟们当前是否应该买车以及意向车型，求兄弟们给点意见](https://www.v2ex.com/t/1156864)
 
++ [全新 Parallels Desktop 26 登场！](https://www.v2ex.com/t/1156958)
+

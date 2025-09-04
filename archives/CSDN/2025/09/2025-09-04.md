@@ -169,3 +169,11 @@
 
 + [【论文阅读】DeepSeek-LV2：用于高级多模态理解的专家混合视觉语言模型](https://blog.csdn.net/W_zyth/article/details/151122944)
 
++ [用 PyTorch 实现食品图像分类：从数据预处理到模型训练与预测](https://blog.csdn.net/dlraba/article/details/151119529)
+
++ [学习日记-SpringMVC-day48-9.2](https://blog.csdn.net/qq_59714927/article/details/151106233)
+
++ [Spring Boot 全局字段处理最佳实践](https://blog.csdn.net/dandandeshangni/article/details/151121931)
+
++ [（四十七）深度解析领域特定语言（DSL）第八章——语法分析器组合子：案例实现（Part3）](https://blog.csdn.net/weixin_46217641/article/details/151171360)
+
