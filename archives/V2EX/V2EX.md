@@ -31,3 +31,11 @@
 
 + [资本家真该死啊](https://www.v2ex.com/t/1156917)
 
++ [老婆疯了，我不知道该怎么办](https://www.v2ex.com/t/1156983)
+
++ [做个调查：你认为现在结婚一定要买房吗](https://www.v2ex.com/t/1156950)
+
++ [iPhone17，要发布，联通的 esim 的规格也出来了](https://www.v2ex.com/t/1156774)
+
++ [分享| mac 端的适合业余摄影爱好者的 ai 相册管理软件 送码~](https://www.v2ex.com/t/1156930)
+

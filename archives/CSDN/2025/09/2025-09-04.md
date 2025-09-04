@@ -155,3 +155,17 @@
 
 + [ARM - GPIO 标准库开发](https://blog.csdn.net/2301_81501694/article/details/151119412)
 
++ [Transformer实战（16）——微调Transformer语言模型用于多类别文本分类](https://blog.csdn.net/LOVEmy134611/article/details/147876208)
+
++ [Nano Banana 的 100 种用法 - AI 图像生成完整提示词宝典](https://blog.csdn.net/xianyu120/article/details/151152602)
+
++ [【Linux操作系统】简学深悟启示录：进程控制](https://blog.csdn.net/Zero_VPN/article/details/151044119)
+
++ [SQL分类详解：掌握DQL、DML、DDL等数据库语言类型](https://blog.csdn.net/gofordata/article/details/151119086)
+
++ [基于FPGA的UDP网络通信](https://blog.csdn.net/ccsss22/article/details/151147542)
+
++ [阿里云OSS架构示意图与流程](https://blog.csdn.net/m0_67906358/article/details/151066452)
+
++ [【论文阅读】DeepSeek-LV2：用于高级多模态理解的专家混合视觉语言模型](https://blog.csdn.net/W_zyth/article/details/151122944)
+
