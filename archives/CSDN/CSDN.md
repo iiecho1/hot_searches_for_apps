@@ -167,3 +167,7 @@
 
 + [【AI大模型前沿】阿里通义千问 Qwen3-Coder：开启智能代码生成与代理式编程新时代](https://blog.csdn.net/xiaobing259/article/details/151155213)
 
++ [【华为Mate XTs 非凡大师】麒麟芯片回归：Mate XTs搭载麒麟9020，鸿蒙5.1体验新境界](https://blog.csdn.net/Morse_Chen/article/details/151194504)
+
++ [【渗透测试】使用 UV 简化 Python 工具和脚本管理](https://blog.csdn.net/2301_79518550/article/details/150958215)
+
