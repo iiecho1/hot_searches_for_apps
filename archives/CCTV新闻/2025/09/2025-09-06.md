@@ -165,3 +165,13 @@
 
 + [以副外长：以色列有计划关闭法国驻耶路撒冷总领馆](https://news.cctv.com/2025/09/06/ARTInIWrk8jCp9eq8ETZpJ31250905.shtml)
 
++ [最大党派“有条件”支持 泰国两年来选出第三位总理](https://news.cctv.com/2025/09/06/ARTITFgtJCNa1oeuBhhWEs5k250906.shtml)
+
++ [特朗普签署行政令 允许美“国防部”使用“战争部”称号](https://news.cctv.com/2025/09/06/ARTIYrUY2BAEpNnHHLKfIWLp250906.shtml)
+
++ [英国首相斯塔默大幅改组内阁 涉及十余名内阁成员](https://news.cctv.com/2025/09/06/ARTIceNN5h5fvpIfGeJ0FqiN250906.shtml)
+
++ [世卫组织：非洲猴痘疫情不再构成“国际关注的突发公共卫生事件”](https://news.cctv.com/2025/09/06/ARTIou37UyAPiAv0dNWkpTI5250906.shtml)
+
++ [联合国大会通过加强与上合组织合作的决议](https://news.cctv.com/2025/09/06/ARTIoVbRsfOjtAHQhXMAMkLp250906.shtml)
+

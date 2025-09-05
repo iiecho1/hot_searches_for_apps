@@ -31,3 +31,19 @@
 
 + [Epic 喜加一：《纪念碑谷》免费领取，下周送出《纪念碑谷 2》等三款游戏](https://m.ithome.com/html/880532.htm)
 
++ [麒麟芯片时隔四年正式回归，华为 Mate XTs 三折叠手机官宣搭载麒麟 9020](https://m.ithome.com/html/880360.htm)
+
++ [仅限周四周五：华为 MatePad Mini 平板 3999 → 3099 元赠 199 元皮套](https://m.ithome.com/html/880430.htm)
+
++ [17999 元起华为 Mate XTs 非凡大师三折叠手机发布：搭载麒麟 9020 处理器、支持手写笔](https://m.ithome.com/html/880388.htm)
+
++ [华为 MatePad Mini 小平板发布：8.8 英寸屏、可插卡打电话，3299 元起](https://m.ithome.com/html/880418.htm)
+
++ [华为 100W 充电宝又一次打破充电宝的能量密度和功率密度世界纪录，支持双口同时快充输出](https://m.ithome.com/html/880456.htm)
+
++ [消息称华为公布芯片型号代表国产芯片供应链已实现全链路自主可控](https://m.ithome.com/html/880394.htm)
+
++ [华为首款 MateTV 售价 8999 起](https://m.ithome.com/html/880403.htm)
+
++ [18:08 开抢：华为 Mate XTs 非凡大师三折叠手机 17999 元预售](https://m.ithome.com/html/880451.htm)
+

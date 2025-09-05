@@ -143,3 +143,5 @@
 
 + [GitHub 热榜项目 - 日榜(2025-09-05)](https://blog.csdn.net/u014390502/article/details/151212966)
 
++ [Python：AI开发第一语言的全面剖析](https://blog.csdn.net/sixpp/article/details/151147221)
+
