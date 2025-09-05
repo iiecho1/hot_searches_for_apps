@@ -179,3 +179,11 @@
 
 + [2025年高教社杯全国大学生数学建模竞赛B题思路（2025数学建模国赛B题思路）](https://blog.csdn.net/m0_52537869/article/details/151191236)
 
++ [Cursor Pair Programming：在前端项目里用 AI 快速迭代 UI 组件](https://blog.csdn.net/IRpickstars/article/details/151213053)
+
++ [【自动驾驶】自动驾驶概述 ④ ( 自动驾驶 整体架构 | 车端系统架构 | 云端系统架构 | 自动驾驶硬件概述 | 前视、侧视、环视摄像头 | 激光、毫米波、超声波雷达 )](https://blog.csdn.net/han1202012/article/details/150558222)
+
++ [LabVIEW汽车发动机振动测试](https://blog.csdn.net/bjcyck/article/details/151211433)
+
++ [2025国赛数学建模B题 完整matlab代码 碳化硅外延层厚度的确定](https://blog.csdn.net/m0_52343631/article/details/151212456)
+
