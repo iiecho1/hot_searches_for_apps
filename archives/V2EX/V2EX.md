@@ -47,3 +47,7 @@
 
 + [Offer 选择：拓竹、虾皮、夸克](https://www.v2ex.com/t/1157233)
 
++ [IT 的工作感觉没有什么意义](https://www.v2ex.com/t/1157260)
+
++ [七月半做了奇怪的梦](https://www.v2ex.com/t/1157219)
+

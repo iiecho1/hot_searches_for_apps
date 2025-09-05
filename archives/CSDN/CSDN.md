@@ -189,3 +189,9 @@
 
 + [2025高教社杯全国大学生数学建模竞赛（B题）深度剖析| 碳化硅外延层厚度 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/151195782)
 
++ [ZooKeeper架构深度解析：分布式协调服务的核心设计与实现](https://blog.csdn.net/m0_74385041/article/details/151193655)
+
++ [uniapp [全端兼容] - 实现连接蓝牙电子秤+监听数据转换并实时返回示例代码，uniApp实现BLE蓝牙连接多个电子秤设备、蓝牙通讯协议对接详细教程（全平台兼容H5、微信小程序、苹果安卓App）](https://blog.csdn.net/weixin_44198965/article/details/151215969)
+
++ [zookeeper 实现分布式锁](https://blog.csdn.net/2301_76161469/article/details/151192625)
+

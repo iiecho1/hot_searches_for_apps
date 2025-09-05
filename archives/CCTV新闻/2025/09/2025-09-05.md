@@ -191,3 +191,11 @@
 
 + [世界最大冰山解体 研究人员预计或在几周内变小到无法辨识](https://news.cctv.com/2025/09/05/ARTIbX1eN4T38Tu4BKLNil2L250905.shtml)
 
++ [阿努廷当选泰国新总理](https://news.cctv.com/2025/09/05/ARTImy0dzqe7qZv3YbjdFlBL250905.shtml)
+
++ [泰国自豪泰党党首阿努廷在国会下议院投票中获得过半数支持，将出任新任总理](https://news.cctv.com/2025/09/05/ARTIknyuaKtlC12QGviIJtA8250905.shtml)
+
++ [外国嘉宾寄语2025全球南方媒体智库高端论坛](https://news.cctv.com/2025/09/05/ARTIqHW6cyqBDIMmSI5593lA250905.shtml)
+
++ [记者手记｜美关税政策给土耳其汽车业带来多重风险](https://news.cctv.com/2025/09/05/ARTIvB4LKLMFcHC9CsSjBaRH250905.shtml)
+
