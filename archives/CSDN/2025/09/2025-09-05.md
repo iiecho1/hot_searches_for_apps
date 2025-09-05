@@ -207,3 +207,5 @@
 
 + [Unity Hub 创建支持 Android & iOS 的项目教程](https://blog.csdn.net/g984160547/article/details/151186546)
 
++ [2025年数学建模B题-碳化硅外延层厚度的确定 | 详细思路+建模过程+代码实现参考（问题一）](https://blog.csdn.net/weixin_52908342/article/details/151221816)
+

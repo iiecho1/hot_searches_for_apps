@@ -81,3 +81,9 @@
 
 + [Steam 被冲爆：愿望单榜首《空洞骑士：丝之歌》正式发售 76 元，游戏商店崩溃报错](https://m.ithome.com/html/880524.htm)
 
++ [华为余承东：新问界 M7 卖爆了，43 分钟突破 10 万台](https://m.ithome.com/html/880710.htm)
+
++ [小米 16 正式确认提档，消息称 9 月华为小米前后夹击苹果](https://m.ithome.com/html/880756.htm)
+
++ [Epic 喜加一：《纪念碑谷》免费领取，下周送出《纪念碑谷 2》等三款游戏](https://m.ithome.com/html/880532.htm)
+

@@ -209,3 +209,5 @@
 
 + [泰国自豪泰党党首阿努廷获国会过半数支持 将出任新总理](https://news.cctv.com/2025/09/05/ARTIOHhSRYXmiZXvzX7xKZir250905.shtml)
 
++ [派兵乌克兰？德国表示“先看美国怎么做”](https://news.cctv.com/2025/09/05/ARTIUSi6heUSCsg2dHh8zWvF250905.shtml)
+
