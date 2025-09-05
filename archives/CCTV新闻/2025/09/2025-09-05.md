@@ -173,3 +173,7 @@
 
 + [特朗普签署行政命令 正式实施美日贸易协议](https://news.cctv.com/2025/09/05/ARTIa42dMI14sdmoy7XtcvAg250905.shtml)
 
++ [伤亡近40人，脱轨原因仍在排查，葡萄牙为缆车事故遇难者全国哀悼](https://news.cctv.com/2025/09/05/ARTIi6bbkgmFFPjrP7dbcpBK250905.shtml)
+
++ [泰国国会5日投票选总理，自豪泰党提名的阿努廷被认为可能性最大](https://news.cctv.com/2025/09/05/ARTIyRI010RlYh7b36SDRFxX250905.shtml)
+

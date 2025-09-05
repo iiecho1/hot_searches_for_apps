@@ -143,3 +143,13 @@
 
 + [网络编程 socket——TCP](https://blog.csdn.net/jingfeng514/article/details/151121393)
 
++ [SpringBoot中 Gzip 压缩的两种开启方式：GeoJSON 瘦身实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/151157617)
+
++ [阅兵背后的科技：战场上的目标检测与无人机巡检](https://blog.csdn.net/GUPAOAI/article/details/151144465)
+
++ [高校毕业生就业信息小程序|基于微信小程序的高校毕业生就业信息的设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/151107176)
+
++ [SuperSocket 动态协议服务端开发全解析](https://blog.csdn.net/songhuangong123/article/details/151192286)
+
++ [用Logseq与cpolar：构建开源笔记的分布式协作系统](https://blog.csdn.net/qq_48652579/article/details/151186613)
+
