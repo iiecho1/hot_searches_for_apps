@@ -63,3 +63,7 @@
 
 + [BEG Abracadabra](https://m.acfun.cn/v/?ac=47791585)
 
++ [AOA Confused 动摇 路演](https://m.acfun.cn/v/?ac=47790761)
+
++ [【cos】海边的拉克丝](https://m.acfun.cn/v/?ac=47789783)
+

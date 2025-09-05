@@ -113,3 +113,23 @@
 
 + [《网络安全实战：CC攻击（应用层）与DDoS攻击（网络层）的底层逻辑与防御体系》​](https://blog.csdn.net/qq_33525062/article/details/151155552)
 
++ [【滚雪球学数学建模】第12节·交通与物流](https://blog.csdn.net/weixin_43970743/article/details/151172911)
+
++ [【已更新文章+代码】2025数学建模国赛A题思路代码文章高教社杯全国大学生数学建模-烟幕干扰弹的投放策略](https://blog.csdn.net/xb459149247/article/details/151196039)
+
++ [计算机网络：（十七）应用层（上）应用层基本概念](https://blog.csdn.net/2402_83322742/article/details/151158054)
+
++ [不用服务器也能监控网络：MyIP+cpolar让中小企业告别昂贵方案](https://blog.csdn.net/m0_75215937/article/details/151191261)
+
++ [2025 数学建模高教社杯 国赛（A题）| 无人机干扰弹 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/151218375)
+
++ [Spring WebFlux 流式数据拉取与推送的实现](https://blog.csdn.net/qq_45938780/article/details/151195147)
+
++ [Horse3D游戏引擎研发笔记（九）：使用现代图形引擎的元数据管理纹理创建过程（类Unity、Unreal Engine与Godot）](https://blog.csdn.net/2503_92624912/article/details/151160306)
+
++ [IDEA终极配置指南：打造你的极速开发利器](https://blog.csdn.net/qq_42737644/article/details/151194621)
+
++ [2025数学建模国赛高教社杯B题思路代码文章助攻](https://blog.csdn.net/excnies/article/details/151196353)
+
++ [前端路由切换不再白屏：React/Vue 实战优化全攻略（含可运行 Demo）](https://blog.csdn.net/m0_74456227/article/details/151195833)
+
