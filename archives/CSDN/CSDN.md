@@ -209,3 +209,7 @@
 
 + [2025年数学建模B题-碳化硅外延层厚度的确定 | 详细思路+建模过程+代码实现参考（问题一）](https://blog.csdn.net/weixin_52908342/article/details/151221816)
 
++ [GMT——用于人形全身控制的通用运动跟踪：两阶段师生训练框架下，全身基于单一策略，且自适应采样、MoE架构](https://blog.csdn.net/v_JULY_v/article/details/151220292)
+
++ [【Linux我做主】细说进程等待](https://blog.csdn.net/2301_80064645/article/details/150856271)
+
