@@ -179,3 +179,7 @@
 
 + [今年第15号台风“琵琶”再次登陆日本](https://news.cctv.com/2025/09/05/ARTIfVbCaY1roWEuItn6jarJ250905.shtml)
 
++ [“为什么让非洲人来？”日本在“人口断崖”边的焦虑与两难](https://news.cctv.com/2025/09/05/ARTI1sejDYrvW5ponw87M2yY250905.shtml)
+
++ [普京：将对中国试行免签政策进行回应](https://news.cctv.com/2025/09/05/ARTIOYNwEvNhBPPkXt7KEFc7250905.shtml)
+

@@ -31,3 +31,23 @@
 
 + [消息称华为公布芯片型号代表国产芯片供应链已实现全链路自主可控](https://m.ithome.com/html/880394.htm)
 
++ [小米雷军、360 周鸿祎等人受邀参加观礼，自称凌晨 3 点多动身奔赴九三阅兵观礼台](https://m.ithome.com/html/880064.htm)
+
++ [中国联通被曝已发布通知，为苹果 iPhone 17 系列 eSIM 提供业务支撑](https://m.ithome.com/html/880068.htm)
+
++ [澎湃 OS 3 图标被吐槽像苹果 iOS，小米称可切换至“经典”版本](https://m.ithome.com/html/880142.htm)
+
++ [小米 YU7 遭逆行水泥罐车撞击事故责任已认定：后者全责，且无证驾驶、无保险](https://m.ithome.com/html/880129.htm)
+
++ [前 Flyme 负责人杨颜与魅族反目：放话“要让魅族 22 一台都卖不掉”](https://m.ithome.com/html/880123.htm)
+
++ [我国新一代 100 坦克、100 支援战车亮相九三阅兵，配 360 影像、驾驶员可视化头盔](https://m.ithome.com/html/880116.htm)
+
++ [《流浪地球》系列导演郭帆九三阅兵“观后感”：改改剧本又何妨](https://m.ithome.com/html/880082.htm)
+
++ [国家广电总局：九三阅兵全国电视大屏直播收视 1.6 亿户次，网络视听平台直播收视逾 19.2 亿人次](https://m.ithome.com/html/880104.htm)
+
++ [真“大手机”：华为 MatePad Mini 平板包装盒显示产品定位“数字移动电话机”](https://m.ithome.com/html/880136.htm)
+
++ [我国海上作战奇兵利器亮相九三阅兵，多型海上无人作战装备受阅](https://m.ithome.com/html/880062.htm)
+
