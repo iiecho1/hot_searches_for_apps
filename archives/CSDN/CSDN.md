@@ -213,3 +213,5 @@
 
 + [【Linux我做主】细说进程等待](https://blog.csdn.net/2301_80064645/article/details/150856271)
 
++ [2025 数学建模高教社杯 国赛（C题）| 婴儿染色体异常检测 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/151222664)
+
