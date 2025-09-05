@@ -187,3 +187,5 @@
 
 + [2025国赛数学建模B题 完整matlab代码 碳化硅外延层厚度的确定](https://blog.csdn.net/m0_52343631/article/details/151212456)
 
++ [2025高教社杯全国大学生数学建模竞赛（B题）深度剖析| 碳化硅外延层厚度 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/151195782)
+

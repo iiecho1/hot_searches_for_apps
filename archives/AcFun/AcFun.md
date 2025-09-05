@@ -105,3 +105,5 @@
 
 + [《丝之歌》还没玩？来试试这10款 Steam 类银河恶魔城神作](https://m.acfun.cn/v/?ac=47787332)
 
++ [【全网首发】在东京与美少女制作人们做Galgame《LetsGal》测试版全流程EP9——樱花前线](https://m.acfun.cn/v/?ac=47765244)
+
