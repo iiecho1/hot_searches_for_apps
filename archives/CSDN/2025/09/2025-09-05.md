@@ -153,3 +153,7 @@
 
 + [用Logseq与cpolar：构建开源笔记的分布式协作系统](https://blog.csdn.net/qq_48652579/article/details/151186613)
 
++ [Trae x 图片素描MCP一键将普通图片转换为多风格素描效果](https://blog.csdn.net/2302_78391795/article/details/151146279)
+
++ [Redis主从复制拓扑全解析：从单点备份到跨地域容灾，一文掌握高可用架构](https://blog.csdn.net/qq_44378083/article/details/149154502)
+

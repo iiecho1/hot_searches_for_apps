@@ -177,3 +177,5 @@
 
 + [泰国国会5日投票选总理，自豪泰党提名的阿努廷被认为可能性最大](https://news.cctv.com/2025/09/05/ARTIyRI010RlYh7b36SDRFxX250905.shtml)
 
++ [今年第15号台风“琵琶”再次登陆日本](https://news.cctv.com/2025/09/05/ARTIfVbCaY1roWEuItn6jarJ250905.shtml)
+
