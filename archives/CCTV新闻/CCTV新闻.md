@@ -161,3 +161,7 @@
 
 + [比利时将于9月联大期间正式宣布承认巴勒斯坦国](https://news.cctv.com/2025/09/02/ARTIQSkFDPVi12lvIVYb3kEs250902.shtml)
 
++ [特朗普再次敦促鲍威尔降息 批评其“行动太迟”](https://news.cctv.com/2025/09/06/ARTIbob7kCRCkRNaF82jaPnS250905.shtml)
+
++ [以副外长：以色列有计划关闭法国驻耶路撒冷总领馆](https://news.cctv.com/2025/09/06/ARTInIWrk8jCp9eq8ETZpJ31250905.shtml)
+
