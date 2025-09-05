@@ -211,3 +211,7 @@
 
 + [派兵乌克兰？德国表示“先看美国怎么做”](https://news.cctv.com/2025/09/05/ARTIUSi6heUSCsg2dHh8zWvF250905.shtml)
 
++ [综述丨美国关税重压下 意大利酒商或调整出口策略](https://news.cctv.com/2025/09/05/ARTICzNDcqooj3OfRnlLFAzd250905.shtml)
+
++ [专访丨非洲应推动贸易多元化应对美关税冲击——访喀麦隆经济学家塔韦](https://news.cctv.com/2025/09/05/ARTIWc26Zlv7gxZhAY9EWOlb250905.shtml)
+
