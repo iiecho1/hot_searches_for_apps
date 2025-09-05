@@ -195,3 +195,7 @@
 
 + [zookeeper 实现分布式锁](https://blog.csdn.net/2301_76161469/article/details/151192625)
 
++ [HTTP 协议详解](https://blog.csdn.net/2401_83603768/article/details/151195406)
+
++ [关于嵌入式学习——嵌入式硬件3](https://blog.csdn.net/m0_57137282/article/details/151174013)
+

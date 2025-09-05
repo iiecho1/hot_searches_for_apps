@@ -199,3 +199,13 @@
 
 + [记者手记｜美关税政策给土耳其汽车业带来多重风险](https://news.cctv.com/2025/09/05/ARTIvB4LKLMFcHC9CsSjBaRH250905.shtml)
 
++ [我驻日本大使馆提醒中国公民谨慎参与高风险户外活动](https://news.cctv.com/2025/09/05/ARTIAN0VlsiuUt43RVTDWj5e250905.shtml)
+
++ [韩国担忧美日贸易协议冲击本国汽车业](https://news.cctv.com/2025/09/05/ARTIsjp7d0PDIJrfDkYp5IQw250905.shtml)
+
++ [俄罗斯国产SJ-100中程客机在俄远东试飞](https://news.cctv.com/2025/09/05/ARTI9uXbrUvbCZpWdm5iyNod250905.shtml)
+
++ [普京与特朗普新一轮会谈何时进行？俄方回应：可能是近期](https://news.cctv.com/2025/09/05/ARTIvPMC7spRBgi4xThIyM3Q250905.shtml)
+
++ [泰国自豪泰党党首阿努廷获国会过半数支持 将出任新总理](https://news.cctv.com/2025/09/05/ARTIOHhSRYXmiZXvzX7xKZir250905.shtml)
+
