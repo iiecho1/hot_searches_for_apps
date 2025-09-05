@@ -133,3 +133,11 @@
 
 + [前端路由切换不再白屏：React/Vue 实战优化全攻略（含可运行 Demo）](https://blog.csdn.net/m0_74456227/article/details/151195833)
 
++ [【粉丝福利社】SQL Server运维之道](https://blog.csdn.net/aa2528877987/article/details/151231181)
+
++ [路径交叉：几何分析与分类讨论解法](https://blog.csdn.net/qq_41840843/article/details/149662966)
+
++ [【滚雪球学数学建模】第10节·随机模型与仿真](https://blog.csdn.net/weixin_43970743/article/details/151154116)
+
++ [Node.js轻松生成动态二维码](https://blog.csdn.net/apowers/article/details/151185507)
+
