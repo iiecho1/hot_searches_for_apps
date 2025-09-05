@@ -31,3 +31,7 @@
 
 + [消费降级了，准备降宽带](https://www.v2ex.com/t/1157137)
 
++ [Claude 针对敌对国家中国的新声明](https://www.v2ex.com/t/1157268)
+
++ [你们还能维持住心中的那份正义吗](https://www.v2ex.com/t/1157250)
+

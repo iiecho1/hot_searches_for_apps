@@ -51,3 +51,13 @@
 
 + [我国海上作战奇兵利器亮相九三阅兵，多型海上无人作战装备受阅](https://m.ithome.com/html/880062.htm)
 
++ [仅限周四周五：华为 MatePad Mini 平板 3999 → 3099 元赠 199 元皮套](https://m.ithome.com/html/880430.htm)
+
++ [华为 100W 充电宝又一次打破充电宝的能量密度和功率密度世界纪录，支持双口同时快充输出](https://m.ithome.com/html/880456.htm)
+
++ [18:08 开抢：华为 Mate XTs 非凡大师三折叠手机 17999 元预售](https://m.ithome.com/html/880451.htm)
+
++ [雷军：今年小米集团 7000 名应届生已全部报到](https://m.ithome.com/html/880474.htm)
+
++ [苹果 iPhone 17 相机按钮曝光：粉、绿、蓝、黄四种颜色](https://m.ithome.com/html/880518.htm)
+
