@@ -183,3 +183,7 @@
 
 + [普京：将对中国试行免签政策进行回应](https://news.cctv.com/2025/09/05/ARTIOYNwEvNhBPPkXt7KEFc7250905.shtml)
 
++ [委内瑞拉将启动首轮民兵组织动员工作](https://news.cctv.com/2025/09/05/ARTIXAeY3ctOqsvt3KAdUg1M250905.shtml)
+
++ [俄罗斯将开发跨北极走廊 连接圣彼得堡和符拉迪沃斯托克](https://news.cctv.com/2025/09/05/ARTI4dae34G8SnesjSs6xD7C250905.shtml)
+

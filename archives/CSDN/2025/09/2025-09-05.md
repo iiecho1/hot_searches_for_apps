@@ -171,3 +171,11 @@
 
 + [【渗透测试】使用 UV 简化 Python 工具和脚本管理](https://blog.csdn.net/2301_79518550/article/details/150958215)
 
++ [2025国赛数学建模C题 完整Python代码 NIPT 的时点选择与胎儿的异常判定](https://blog.csdn.net/m0_52343631/article/details/151213004)
+
++ [Docker 容器核心指令与数据库容器化实践](https://blog.csdn.net/2302_80105876/article/details/151148310)
+
++ [03_网关ip和端口映射（路由器转发）操作和原理](https://blog.csdn.net/qq_40681630/article/details/151121283)
+
++ [2025年高教社杯全国大学生数学建模竞赛B题思路（2025数学建模国赛B题思路）](https://blog.csdn.net/m0_52537869/article/details/151191236)
+
