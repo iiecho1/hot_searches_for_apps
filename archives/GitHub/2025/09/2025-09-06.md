@@ -31,3 +31,15 @@
 
 + [wazuh/wazuh](https://github.com/wazuh/wazuh)
 
++ [zama-ai/fhevm](https://github.com/zama-ai/fhevm)
+
++ [rails/rails](https://github.com/rails/rails)
+
++ [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+
++ [apple/embedding-atlas](https://github.com/apple/embedding-atlas)
+
++ [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft)
+
++ [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+

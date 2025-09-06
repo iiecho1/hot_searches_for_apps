@@ -213,3 +213,11 @@
 
 + [特朗普称美联储主席候选人名单缩小至三人](https://news.cctv.com/2025/09/06/ARTIXezzFQSUbfhOXtlou4E3250906.shtml)
 
++ [肯尼亚媒体：上合组织天津峰会是中国全球领导力的有力证明](https://news.cctv.com/2025/09/06/ARTIlNdOqQcFDUzvC1EWHhZh250906.shtml)
+
++ [海外人士谈抗战丨专访：中国对世界反法西斯战争的贡献被西方严重低估——访英国“里斯本丸”纪念协会主席安东尼·琼斯](https://news.cctv.com/2025/09/06/ARTIWjh1LqWZlvpoTnNu40kr250906.shtml)
+
++ [海外人士谈抗战丨专访：中国抗战是“整个二战中最重大的事件之一”——访美国军事史学家理查德·弗兰克](https://news.cctv.com/2025/09/06/ARTIbrF0zfkr6qkDRjw1ERiN250906.shtml)
+
++ [泰国新当选总理阿努廷公布多名内阁部长人选](https://news.cctv.com/2025/09/06/ARTIW9q8fTjJapzdw8qeT0wN250906.shtml)
+

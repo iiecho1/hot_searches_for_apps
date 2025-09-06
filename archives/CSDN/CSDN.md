@@ -193,3 +193,11 @@
 
 + [asyncio.Runner在Python 3.11中如何简化异步代码的同步上下文管理？](https://blog.csdn.net/gzdvh20942/article/details/151222336)
 
++ [AI热点周报（8.31~9.6）： Qwen3‑Max‑Preview上线、GLM-4.5提供一键迁移、Gemini for Home，AI风向何在？](https://blog.csdn.net/qq_51646682/article/details/151251792)
+
++ [【序列晋升】28 云原生时代的消息驱动架构 Spring Cloud Stream的未来可能性](https://blog.csdn.net/weixin_39671271/article/details/151159380)
+
++ [从单体到微服务：SpringBoot容器化部署与Docker实战](https://blog.csdn.net/ashyyyy/article/details/151213290)
+
++ [C# 阿里云 OSS 图片上传步骤及浏览器查看方法](https://blog.csdn.net/and_thengood/article/details/151232962)
+
