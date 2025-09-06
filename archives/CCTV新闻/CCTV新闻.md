@@ -221,3 +221,5 @@
 
 + [泰国新当选总理阿努廷公布多名内阁部长人选](https://news.cctv.com/2025/09/06/ARTIW9q8fTjJapzdw8qeT0wN250906.shtml)
 
++ [视频丨力挺上合组织 多国代表在联大会议上发声](https://news.cctv.com/2025/09/06/ARTIV5tNL2yABMXu9sB4m8Xu250906.shtml)
+
