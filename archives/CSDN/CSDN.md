@@ -185,3 +185,7 @@
 
 + [【yolo】YOLOv8 训练模型参数与多机环境差异总结](https://blog.csdn.net/songhuangong123/article/details/151225036)
 
++ [Android13 系统源码核心目录解析](https://blog.csdn.net/wenzhi20102321/article/details/151213767)
+
++ [技术重构人力管理 —— 打造人力资源流程自动化、智能化专业服务方案](https://blog.csdn.net/qq_35063663/article/details/151151489)
+
