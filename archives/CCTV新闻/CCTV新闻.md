@@ -175,3 +175,5 @@
 
 + [联合国大会通过加强与上合组织合作的决议](https://news.cctv.com/2025/09/06/ARTIoVbRsfOjtAHQhXMAMkLp250906.shtml)
 
++ [联合国将恢复举行落实“两国方案”高级别国际会议](https://news.cctv.com/2025/09/06/ARTICOi71WNct53TtAld5EME250906.shtml)
+

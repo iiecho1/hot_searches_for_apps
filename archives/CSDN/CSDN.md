@@ -145,3 +145,9 @@
 
 + [Python：AI开发第一语言的全面剖析](https://blog.csdn.net/sixpp/article/details/151147221)
 
++ [Redis核心揭秘：内存提速原理×六大特性×实战指令×过期策略，一键解锁高性能缓存](https://blog.csdn.net/2401_82648291/article/details/150459835)
+
++ [【Linux手册】动静态库：从原理到制作](https://blog.csdn.net/2401_87944878/article/details/150397268)
+
++ [天翼云主机从零到一完整部署指南](https://blog.csdn.net/qq_33681891/article/details/151184906)
+
