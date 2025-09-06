@@ -203,3 +203,11 @@
 
 + [信号：Linux系统中那些你不知道的“暗号“与“机关“](https://blog.csdn.net/2401_83431652/article/details/148307478)
 
++ [飞算JavaAI炫技赛：电商系统开发全流程实战解析](https://blog.csdn.net/2301_81073317/article/details/151195071)
+
++ [25高教社杯数模国赛【B题国一拆解思路+问题分析】第二弹](https://blog.csdn.net/kstt20230206/article/details/151217294)
+
++ [【完整源码+数据集+部署教程】乡村道路植物与障碍物识别图像分割系统源码和数据集：改进yolo11-OREPA](https://blog.csdn.net/2301_78772942/article/details/151228245)
+
++ [Boost搜索引擎 网络库与前端(4)](https://blog.csdn.net/2301_80392199/article/details/151230595)
+
