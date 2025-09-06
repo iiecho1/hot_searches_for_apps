@@ -175,3 +175,5 @@
 
 + [【Web安全】命令注入与代码注入漏洞解析及安全测试指南](https://blog.csdn.net/qq_40037555/article/details/151212588)
 
++ [PyTorch生成式人工智能——深度分层变分自编码器（NVAE）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/151196045)
+
