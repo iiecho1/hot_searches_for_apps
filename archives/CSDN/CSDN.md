@@ -189,3 +189,7 @@
 
 + [技术重构人力管理 —— 打造人力资源流程自动化、智能化专业服务方案](https://blog.csdn.net/qq_35063663/article/details/151151489)
 
++ [三、Scala方法与函数](https://blog.csdn.net/2401_83830408/article/details/151157840)
+
++ [asyncio.Runner在Python 3.11中如何简化异步代码的同步上下文管理？](https://blog.csdn.net/gzdvh20942/article/details/151222336)
+

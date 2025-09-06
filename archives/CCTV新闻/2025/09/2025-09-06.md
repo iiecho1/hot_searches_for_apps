@@ -211,3 +211,5 @@
 
 + [美政府被曝讨论军事打击委内瑞拉境内贩毒组织举措 包括实施跨境袭击](https://news.cctv.com/2025/09/06/ARTIEppokuOPkPDnP0KPznAY250906.shtml)
 
++ [特朗普称美联储主席候选人名单缩小至三人](https://news.cctv.com/2025/09/06/ARTIXezzFQSUbfhOXtlou4E3250906.shtml)
+

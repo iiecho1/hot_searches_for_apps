@@ -69,3 +69,5 @@
 
 + [神秘手机渲染图曝光：大 R 角、窄边框、小打孔，预估为小米 16](https://m.ithome.com/html/880862.htm)
 
++ [华为 Watch GT 6 系列智能手表抢先看：41/46mm 表壳、最长续航 21 天，起价 249 欧元](https://m.ithome.com/html/880540.htm)
+
