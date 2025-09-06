@@ -43,3 +43,5 @@
 
 + [预售价 28.8 万元起，鸿蒙智行全新问界 M7 车型 24 小时小订突破 15 万台](https://m.ithome.com/html/880877.htm)
 
++ [消息称苹果 iPhone 17 Air 首发暂无国行，需等 eSIM 政策落地](https://m.ithome.com/html/880902.htm)
+
