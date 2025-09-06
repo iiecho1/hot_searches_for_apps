@@ -163,3 +163,15 @@
 
 + [【AI编程工具实测】用 Cursor + GPT-4 在 30 分钟内撸出一个「Vue3 在线答题系统」 ——从 0 到部署的完整实录](https://blog.csdn.net/2501_92531713/article/details/151208875)
 
++ [Oracle到金仓数据库信创改造迁移实施规划方案（上篇）](https://blog.csdn.net/qq_32682301/article/details/151240746)
+
++ [基于飞算 JavaAI 高效开发电商系统核心功能模块实战指南](https://blog.csdn.net/xcshap/article/details/151231080)
+
++ [Redis队列与栈实战指南：5分钟构建百万级消息系统](https://blog.csdn.net/qq_44378083/article/details/149154667)
+
++ [基于网络原理——HTTP/HTTPS的Web服务搭建与核心技术实践](https://blog.csdn.net/2501_92808859/article/details/151191878)
+
++ [什么是PCB工艺边？猎板给您分享设计要点](https://blog.csdn.net/2501_90980646/article/details/151176508)
+
++ [【Web安全】命令注入与代码注入漏洞解析及安全测试指南](https://blog.csdn.net/qq_40037555/article/details/151212588)
+

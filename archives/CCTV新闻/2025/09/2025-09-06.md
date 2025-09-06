@@ -197,3 +197,5 @@
 
 + [世卫组织：猴痘疫情不再构成“国际关注的突发公共卫生事件”](https://news.cctv.com/2025/09/06/ARTIcvuSshc7kiCqgZ9tYu4Q250906.shtml)
 
++ [中国是维护国际秩序的重要支柱](https://news.cctv.com/2025/09/06/ARTI0cUV4s7O8G8JaWg2wvyv250906.shtml)
+
