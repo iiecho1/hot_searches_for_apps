@@ -181,3 +181,19 @@
 
 + [“这是向全美发出警告”美国8月份失业率升至4.3% 创近四年新高](https://news.cctv.com/2025/09/06/ARTISFaezKRlgZEuOpEbf9IX250906.shtml)
 
++ [肯尼亚首批“2+2”联合培养中文教育专业奖学金生赴华学习](https://news.cctv.com/2025/09/06/ARTIYipTGTgBHVUowkGPEsf0250906.shtml)
+
++ [2025年柏林国际消费电子展开幕](https://news.cctv.com/2025/09/06/ARTIaLO8HD7ZhePPiszGKmhQ250906.shtml)
+
++ [乌总统称将与多国讨论安全保障具体细节](https://news.cctv.com/2025/09/06/ARTImtNjoVopx8dY9BOw0hZ8250906.shtml)
+
++ [全球经济恢复力度有所增强 8月份全球制造业采购经理指数公布](https://news.cctv.com/2025/09/06/ARTICQwtwFpqaN2zuzjRlHl9250906.shtml)
+
++ [特朗普签署行政令 调整关税政策生效范围](https://news.cctv.com/2025/09/06/ARTIGBNoiKKRuNR2nNT59vOX250906.shtml)
+
++ [关闭领馆 没收财产 多国欲承认巴勒斯坦国遭美以威胁](https://news.cctv.com/2025/09/06/ARTIJbX59kbu4OTB9vch346Q250906.shtml)
+
++ [美国移民执法部门在佐治亚州抓捕475人 大多来自韩国](https://news.cctv.com/2025/09/06/ARTIqUQlcWo0fdxmkKCrjWtD250906.shtml)
+
++ [世卫组织：猴痘疫情不再构成“国际关注的突发公共卫生事件”](https://news.cctv.com/2025/09/06/ARTIcvuSshc7kiCqgZ9tYu4Q250906.shtml)
+

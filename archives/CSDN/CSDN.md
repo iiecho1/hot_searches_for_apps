@@ -157,3 +157,9 @@
 
 + [鸿蒙NEXT交互机制解析：从输入设备到手势响应的全面指南](https://blog.csdn.net/feathersong/article/details/151194194)
 
++ [如何将华为手机数据转移到OPPO手机](https://blog.csdn.net/Digitally/article/details/151152247)
+
++ [【完整源码+数据集+部署教程】骰子点数识别图像实例分割系统源码和数据集：改进yolo11-DCNV2](https://blog.csdn.net/weixin_43860634/article/details/151227753)
+
++ [【AI编程工具实测】用 Cursor + GPT-4 在 30 分钟内撸出一个「Vue3 在线答题系统」 ——从 0 到部署的完整实录](https://blog.csdn.net/2501_92531713/article/details/151208875)
+
