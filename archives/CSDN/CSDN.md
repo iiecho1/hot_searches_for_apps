@@ -181,3 +181,7 @@
 
 + [Dify × 蓝耘MaaS：零代码构建智能文件翻译系统](https://blog.csdn.net/weixin_66401877/article/details/151226596)
 
++ [GitHub 热榜项目 - 日榜(2025-09-04)](https://blog.csdn.net/u014390502/article/details/151173626)
+
++ [【yolo】YOLOv8 训练模型参数与多机环境差异总结](https://blog.csdn.net/songhuangong123/article/details/151225036)
+

@@ -203,3 +203,11 @@
 
 + [泰国新总理选举当日 前总理他信发声：正前往迪拜](https://news.cctv.com/2025/09/06/ARTIJJwjhMkGVRXs7lOt4eaq250906.shtml)
 
++ [英副首相漏税辞职迫斯塔默内阁洗牌 新兴在野党步步紧逼](https://news.cctv.com/2025/09/06/ARTIqJ0FjMWqcttguDdJTFa1250906.shtml)
+
++ [中国驻菲律宾使馆发言人就菲律宾防长涉华言论答记者问](https://news.cctv.com/2025/09/06/ARTIxe69jjukweKP04vl7za2250906.shtml)
+
++ [巴西总统再批美国关税立场并称特朗普无意对话](https://news.cctv.com/2025/09/06/ARTI7hR9rsYbXSZQMPcz0mQS250906.shtml)
+
++ [美政府被曝讨论军事打击委内瑞拉境内贩毒组织举措 包括实施跨境袭击](https://news.cctv.com/2025/09/06/ARTIEppokuOPkPDnP0KPznAY250906.shtml)
+
