@@ -109,3 +109,27 @@
 
 + [Horse3D游戏引擎研发笔记（九）：使用现代图形引擎的元数据管理纹理创建过程（类Unity、Unreal Engine与Godot）](https://blog.csdn.net/2503_92624912/article/details/151160306)
 
++ [新手向:Python制作贪吃蛇游戏（Pygame）](https://blog.csdn.net/2302_77626561/article/details/151047918)
+
++ [（B题｜碳化硅外延层厚度的确定）2025年高教杯全国大学生数学建模国赛解题思路|完整代码论文集合（B题｜碳化硅外延层厚度的确定）2025年高教杯全国大学生数学建模国赛解题思路|完整代码论文集合](https://blog.csdn.net/Tina_math/article/details/151193688)
+
++ [【yolo】YOLOv8 训练模型参数与多机环境差异总结](https://blog.csdn.net/songhuangong123/article/details/151225036)
+
++ [2025高教社国赛数学建模C题参考论文（含模型和代码）](https://blog.csdn.net/2301_79944593/article/details/151253528)
+
++ [Unity Hub 创建支持 Android & iOS 的项目教程](https://blog.csdn.net/g984160547/article/details/151186546)
+
++ [GitHub 热榜项目 - 日榜(2025-09-04)](https://blog.csdn.net/u014390502/article/details/151173626)
+
++ [商城源码后端性能优化：JVM 参数调优与内存泄漏排查实战](https://blog.csdn.net/qq_27560407/article/details/151184808)
+
++ [【PZ-AU15P】璞致fpga开发板 Aritx UltraScalePlus PZ-AU15P 核心板与开发板用户手册](https://blog.csdn.net/hongying321/article/details/151185814)
+
++ [安全运维-云计算系统安全](https://blog.csdn.net/LinJian42/article/details/151216299)
+
++ [【全部更新完毕】2025数学建模国赛C题思路代码文章高教社杯全国大学生数学建模-NIPT 的时点选择与胎儿的异常判定](https://blog.csdn.net/xb459149247/article/details/151214154)
+
++ [【AI编程工具实测】用 Cursor + GPT-4 在 30 分钟内撸出一个「Vue3 在线答题系统」 ——从 0 到部署的完整实录](https://blog.csdn.net/2501_92531713/article/details/151208875)
+
++ [Vue 与 React 全面功能对比](https://blog.csdn.net/Climbman/article/details/151196401)
+
