@@ -45,3 +45,5 @@
 
 + [消息称苹果 iPhone 17 Air 首发暂无国行，需等 eSIM 政策落地](https://m.ithome.com/html/880902.htm)
 
++ [小米卢伟冰发文征集澎湃 OS3 建议，回应网友适配超级岛应用等需求](https://m.ithome.com/html/880948.htm)
+
