@@ -135,3 +135,5 @@
 
 + [算法（keep learning）](https://blog.csdn.net/qq_56799520/article/details/151231240)
 
++ [【完整源码+数据集+部署教程】乡村道路植物与障碍物识别图像分割系统源码和数据集：改进yolo11-OREPA](https://blog.csdn.net/2301_78772942/article/details/151228245)
+
