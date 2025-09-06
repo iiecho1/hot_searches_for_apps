@@ -63,3 +63,9 @@
 
 + [苹果 iPhone 17 Pro 相机将迎史上最大升级：4800 万长焦、8x 光学变焦，2400 万前摄](https://m.ithome.com/html/880831.htm)
 
++ [一天净赚近 1.5 亿元，美的集团称“公司估值被低估了”](https://m.ithome.com/html/880816.htm)
+
++ [明晰每格电消耗：初探苹果 iOS 26 电池设置，全面提升 iPhone 续航和耗电透明度](https://m.ithome.com/html/880841.htm)
+
++ [神秘手机渲染图曝光：大 R 角、窄边框、小打孔，预估为小米 16](https://m.ithome.com/html/880862.htm)
+

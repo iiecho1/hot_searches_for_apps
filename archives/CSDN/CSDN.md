@@ -177,3 +177,7 @@
 
 + [PyTorch生成式人工智能——深度分层变分自编码器（NVAE）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/151196045)
 
++ [LabVIEW无线预警喷淋系统](https://blog.csdn.net/bjcyck/article/details/151247134)
+
++ [Dify × 蓝耘MaaS：零代码构建智能文件翻译系统](https://blog.csdn.net/weixin_66401877/article/details/151226596)
+

@@ -199,3 +199,7 @@
 
 + [中国是维护国际秩序的重要支柱](https://news.cctv.com/2025/09/06/ARTI0cUV4s7O8G8JaWg2wvyv250906.shtml)
 
++ [特朗普将美国防部更名为“战争部” 彻底更名需国会批准](https://news.cctv.com/2025/09/06/ARTIFG74UL8c7K2YX9sZ11LE250906.shtml)
+
++ [泰国新总理选举当日 前总理他信发声：正前往迪拜](https://news.cctv.com/2025/09/06/ARTIJJwjhMkGVRXs7lOt4eaq250906.shtml)
+
