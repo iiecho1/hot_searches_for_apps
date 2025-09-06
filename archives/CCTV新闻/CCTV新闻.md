@@ -163,3 +163,5 @@
 
 + [西班牙一酒吧发生枪击 致2人死亡](https://news.cctv.com/2025/09/07/ARTIv32MvExYQxqk0ves1VJt250907.shtml)
 
++ [巴以冲突已致加沙地带超6.4万人死亡](https://news.cctv.com/2025/09/07/ARTIG7VTCReJE7nJRpj5XpXN250907.shtml)
+
