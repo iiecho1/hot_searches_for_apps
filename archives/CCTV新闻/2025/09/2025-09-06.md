@@ -179,3 +179,5 @@
 
 + [巴以冲突已持续700天 以军行动致加沙6.4万人死亡](https://photo.cctv.com/2025/09/06/PHOAnaaARn5uigOu7KqnhNi7250906.shtml)
 
++ [“这是向全美发出警告”美国8月份失业率升至4.3% 创近四年新高](https://news.cctv.com/2025/09/06/ARTISFaezKRlgZEuOpEbf9IX250906.shtml)
+

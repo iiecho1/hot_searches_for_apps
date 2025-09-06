@@ -47,3 +47,19 @@
 
 + [18:08 开抢：华为 Mate XTs 非凡大师三折叠手机 17999 元预售](https://m.ithome.com/html/880451.htm)
 
++ [字节实习生一天领 13 份餐被通报，连续多日清空茶水间零食](https://m.ithome.com/html/880825.htm)
+
++ [我国正规划对一颗小行星实施撞击，验证小行星防御方案可行性](https://m.ithome.com/html/880798.htm)
+
++ [小米王化回应“30 万小时手机测试”：行业标准说法，同时用几千台测试机模拟使用场景的累计总时长](https://m.ithome.com/html/880780.htm)
+
++ [发售即遭破解，盗版玩家纷纷呼吁购买正版《空洞骑士：丝之歌》](https://m.ithome.com/html/880648.htm)
+
++ [小米 SU7 Ultra 广告现身北京首都国际机场，雷军回应称“让更多传统豪车用户看到小米汽车非常重要”](https://m.ithome.com/html/880788.htm)
+
++ [vivo 公布 OriginOS 6 性能亮点：重构安卓底层架构，连开 52 个应用零卡顿](https://m.ithome.com/html/880753.htm)
+
++ [长度缩短 25%：苹果 iPhone 17 Pro 灵动岛长度被曝缩至 1.5cm](https://m.ithome.com/html/880826.htm)
+
++ [苹果 iPhone 17 Pro 相机将迎史上最大升级：4800 万长焦、8x 光学变焦，2400 万前摄](https://m.ithome.com/html/880831.htm)
+
