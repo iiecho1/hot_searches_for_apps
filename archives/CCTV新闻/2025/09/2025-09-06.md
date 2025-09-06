@@ -177,3 +177,5 @@
 
 + [联合国将恢复举行落实“两国方案”高级别国际会议](https://news.cctv.com/2025/09/06/ARTICOi71WNct53TtAld5EME250906.shtml)
 
++ [巴以冲突已持续700天 以军行动致加沙6.4万人死亡](https://photo.cctv.com/2025/09/06/PHOAnaaARn5uigOu7KqnhNi7250906.shtml)
+

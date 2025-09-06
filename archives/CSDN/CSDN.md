@@ -151,3 +151,5 @@
 
 + [天翼云主机从零到一完整部署指南](https://blog.csdn.net/qq_33681891/article/details/151184906)
 
++ [SpringBoot实现国际化(多语言)配置](https://blog.csdn.net/weixin_46425661/article/details/150561739)
+

@@ -23,3 +23,9 @@
 
 + [有写 Java 的么，你们的 jdk 还是用 1.8 么](https://www.v2ex.com/t/1157327)
 
++ [大模型吐 JSON](https://www.v2ex.com/t/1157251)
+
++ [聊聊金融和定投](https://www.v2ex.com/t/1157307)
+
++ [关于&#34;麻了麻了，广州的房价跌麻了&#34;帖子一楼回复声明](https://www.v2ex.com/t/1157244)
+
