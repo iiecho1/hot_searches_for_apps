@@ -199,3 +199,11 @@
 
 + [新闻人物丨葡萄牙总理蒙特内格罗](https://news.cctv.com/2025/09/07/ARTImgwxoiPt26NBqB5Yxguu250907.shtml)
 
++ [石破茂决意辞职前曾与菅义伟、小泉进次郎会谈两小时 细节公布](https://news.cctv.com/2025/09/07/ARTIjc15Sz4wBGPmVEUNeUQH250907.shtml)
+
++ [特朗普威胁要让芝加哥见识“战争部”的厉害](https://news.cctv.com/2025/09/07/ARTIBCcEeEr5DBYgZPWscD92250907.shtml)
+
++ [乌称俄以“创纪录数量”的无人机和导弹发动袭击](https://news.cctv.com/2025/09/07/ARTIWnx7uusLuwnvFS0WCt2n250907.shtml)
+
++ [超300名韩国人在美被拘 韩称与美协商完毕拟派包机接回](https://news.cctv.com/2025/09/07/ARTIFFvs8wHuSunZyepYPGUw250907.shtml)
+

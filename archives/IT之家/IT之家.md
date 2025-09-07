@@ -47,3 +47,19 @@
 
 + [小米卢伟冰发文征集澎湃 OS3 建议，回应网友适配超级岛应用等需求](https://m.ithome.com/html/880948.htm)
 
++ [花旗：苹果 iPhone 17 Air 存储供应商扩展至五家，闪迪、铠侠加入 NAND 闪存供应体系](https://m.ithome.com/html/880929.htm)
+
++ [华为 P60、Mate 50 系列机型鸿蒙 HarmonyOS 5 系统“努力开发中”](https://m.ithome.com/html/880976.htm)
+
++ [努比亚 nubia Air 超薄手机发布：5.9mm 厚度、5000 毫安时电池、IP69K 认证，279 美元起](https://m.ithome.com/html/880908.htm)
+
++ [奥海推出苹果 iPhone 17 手机适用“非牛顿流体 P4U 磁吸防摔壳”，298 元](https://m.ithome.com/html/880953.htm)
+
++ [央视起底多地机械车位遭闲置：新车太大无法停放，工作人员“不会用”](https://m.ithome.com/html/880985.htm)
+
++ [小米米家 App 内测 11.0.513 版：设计风格焕新，新增“场景”页面](https://m.ithome.com/html/880973.htm)
+
++ [消息称威马汽车温州基地已开始复产，已下线十几台车“用于铺市场”](https://m.ithome.com/html/880961.htm)
+
++ [李小龙回应“用华为充电宝充大疆 Pocket 3 会充爆”：用起来没任何问题](https://m.ithome.com/html/880983.htm)
+
