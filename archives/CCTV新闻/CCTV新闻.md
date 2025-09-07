@@ -169,3 +169,13 @@
 
 + [法国北部发生汽车冲撞行人事故致1人死亡](https://news.cctv.com/2025/09/07/ARTIq7xZrdoUEn9xBtPACIgp250907.shtml)
 
++ [以色列民众再次大规模示威要求加沙停火](https://news.cctv.com/2025/09/07/ARTIwspwPuJTU13uRVmjYnCH250907.shtml)
+
++ [乌克兰正组建多国部队司令部 目标是阻止“潜在袭击”](https://news.cctv.com/2025/09/07/ARTIawaTgeeMkmAuHv49tqBp250907.shtml)
+
++ [美国前总统拜登将在特拉华州建立总统图书馆](https://news.cctv.com/2025/09/07/ARTIWcOITCdTEOQxHo3yLYRz250907.shtml)
+
++ [中国政府援助阿富汗首批地震救灾紧急人道主义物资启运](https://news.cctv.com/2025/09/07/ARTIHD7D96MSja0GaIXTn1nt250907.shtml)
+
++ [超300名韩国人在美被抓 两国各执一词 一文梳理韩美“罗生门”](https://news.cctv.com/2025/09/07/ARTIcBbiFfOI8n0n7TYXsTri250907.shtml)
+
