@@ -215,3 +215,5 @@
 
 + [日本首相石破茂宣布辞去自民党总裁职务](https://news.cctv.com/2025/09/07/ARTI1okaoQop6XgQLAdF0tBS250907.shtml)
 
++ [再威胁“派兵” 特朗普称要让芝加哥见识“战争部”的厉害](https://news.cctv.com/2025/09/07/ARTI0WUTHmUHsKZIC7jw9kQq250907.shtml)
+

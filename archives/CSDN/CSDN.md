@@ -193,3 +193,11 @@
 
 + [.Net程序员就业现状以及学习路线图（四）](https://blog.csdn.net/2501_92622794/article/details/151229467)
 
++ [一文掌握工业缺陷检测项目实战（Pytorch算法训练、部署、C++ DLL制作、Qt集成）](https://blog.csdn.net/qianbin3200896/article/details/151224909)
+
++ [Spring AI Tool 实现自然语言操作MySql数据库操作详解](https://blog.csdn.net/zhangcongyi420/article/details/150634584)
+
++ [小白AIGC短视频生成的第一课之混元AI视频](https://blog.csdn.net/qq_41035650/article/details/151286366)
+
++ [全国大学生数学建模B题分析-碳化硅外延层厚度的确定](https://blog.csdn.net/qingfengxd1/article/details/151252233)
+
