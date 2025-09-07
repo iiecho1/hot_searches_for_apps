@@ -195,3 +195,7 @@
 
 + [泰国国王批准阿努廷·参威拉军出任总理](https://news.cctv.com/2025/09/07/ARTIXo9zZrwzvm8NpYAdMRM6250907.shtml)
 
++ [美媒称特朗普欲在委境内“动武” 委方：愿对话](https://news.cctv.com/2025/09/07/ARTIeC037l9jESf25faKxy0p250907.shtml)
+
++ [新闻人物丨葡萄牙总理蒙特内格罗](https://news.cctv.com/2025/09/07/ARTImgwxoiPt26NBqB5Yxguu250907.shtml)
+
