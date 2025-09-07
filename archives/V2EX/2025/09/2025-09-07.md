@@ -41,3 +41,5 @@
 
 + [试用 codex 感想：不说 You are absolutely right 是 GPT-5 最好的编程特性之一](https://www.v2ex.com/t/1157529)
 
++ [我爸冠心病，一个月后要放支架，请问现在买什么保险能享受报销？](https://www.v2ex.com/t/1157560)
+

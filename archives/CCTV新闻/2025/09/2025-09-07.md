@@ -183,3 +183,5 @@
 
 + [葡萄牙公布景点缆车事故原因：钢缆断裂 安装不到一年](https://news.cctv.com/2025/09/07/ARTIFtZT0hQSYEI90czK8Bjo250907.shtml)
 
++ [乌总理证实乌政府大楼首次遭俄军袭击受损](https://news.cctv.com/2025/09/07/ARTIovIoELGRoXy8oeetjecL250907.shtml)
+
