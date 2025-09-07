@@ -179,3 +179,7 @@
 
 + [超300名韩国人在美被抓 两国各执一词 一文梳理韩美“罗生门”](https://news.cctv.com/2025/09/07/ARTIcBbiFfOI8n0n7TYXsTri250907.shtml)
 
++ [美国洛杉矶警察局停止对前副总统哈里斯提供保护](https://news.cctv.com/2025/09/07/ARTIJwy8lMNWU0Zz9RCmNnjm250907.shtml)
+
++ [葡萄牙公布景点缆车事故原因：钢缆断裂 安装不到一年](https://news.cctv.com/2025/09/07/ARTIFtZT0hQSYEI90czK8Bjo250907.shtml)
+
