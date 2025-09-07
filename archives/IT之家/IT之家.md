@@ -25,3 +25,27 @@
 
 + [小米卢伟冰发文征集澎湃 OS3 建议，回应网友适配超级岛应用等需求](https://m.ithome.com/html/880948.htm)
 
++ [iPad Air M3 版 4799 → 2899 元 12 期免息，周日再降 200 元](https://m.ithome.com/html/881046.htm)
+
++ [央视起底多地机械车位遭闲置：新车太大无法停放，工作人员“不会用”](https://m.ithome.com/html/880985.htm)
+
++ [华为 P60、Mate 50 系列机型鸿蒙 HarmonyOS 5 系统“努力开发中”](https://m.ithome.com/html/880976.htm)
+
++ [李小龙回应“用华为充电宝充大疆 Pocket 3 会充爆”：用起来没任何问题](https://m.ithome.com/html/880983.htm)
+
++ [小米米家 App 内测 11.0.513 版：设计风格焕新，新增“场景”页面](https://m.ithome.com/html/880973.htm)
+
++ [血月奇观：我国今年境内唯一全程肉眼可见的月全食明日凌晨“上演”，地球把月亮染红 82 分钟](https://m.ithome.com/html/881082.htm)
+
++ [李肖爽回应小米 YU7“测试车”静电贴残留问题：用湿毛巾可清除，已改良](https://m.ithome.com/html/881067.htm)
+
++ [比亚迪 9000 吨大压铸生产线曝光：设备国产，模具自制](https://m.ithome.com/html/880998.htm)
+
++ [华为 WiFi 7+ 自研芯片级协同技术支持机型公布，含 Pura80、Mate XTs 等](https://m.ithome.com/html/881038.htm)
+
++ [中国坦克目标不是抗衡是打掉：央视 AI 视频回顾第三代主战坦克 99 式坦克总设计师祝榆生的生平](https://m.ithome.com/html/881003.htm)
+
++ [骁龙 8 Elite 版 1999 元起：AYANEO 攻氪品牌首款新品 KONKR Pocket FIT 发布，号称“安卓掌机性价比之王”](https://m.ithome.com/html/880989.htm)
+
++ [微软 Win11 更新搞坏 SSD？消息称背后原因是固态硬盘使用了工程版固件](https://m.ithome.com/html/881060.htm)
+

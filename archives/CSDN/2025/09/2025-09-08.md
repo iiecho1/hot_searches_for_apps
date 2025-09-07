@@ -101,3 +101,13 @@
 
 + [小白AIGC短视频生成的第一课之混元AI视频](https://blog.csdn.net/qq_41035650/article/details/151286366)
 
++ [MySQL数据库约束和设计](https://blog.csdn.net/2401_89019969/article/details/150714080)
+
++ [Ubuntu系统下Python连接国产KingbaseES数据库实现增删改查](https://blog.csdn.net/beautifulmemory/article/details/151283703)
+
++ [HTTP 协议详解](https://blog.csdn.net/2401_83603768/article/details/151195406)
+
++ [2025国赛C题 题目思路和模型讲解](https://blog.csdn.net/weixin_46211269/article/details/151195807)
+
++ [GCC编译器深度解剖：从源码到可执行文件的全面探索](https://blog.csdn.net/2401_89899187/article/details/151221818)
+
