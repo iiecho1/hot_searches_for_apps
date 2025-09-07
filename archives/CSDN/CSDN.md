@@ -139,3 +139,5 @@
 
 + [linux Nginx服务配置介绍，和配置流程](https://blog.csdn.net/fuyongliang123/article/details/151228924)
 
++ [任务型Agent：prompt工程实践](https://blog.csdn.net/zhuqiuhui/article/details/151234749)
+
