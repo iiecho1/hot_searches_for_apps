@@ -37,3 +37,7 @@
 
 + [基于 google 免费模型做了一个最近比较火的照片转手办的网站](https://www.v2ex.com/t/1157458)
 
++ [我的塑料盒子机箱](https://www.v2ex.com/t/1157509)
+
++ [试用 codex 感想：不说 You are absolutely right 是 GPT-5 最好的编程特性之一](https://www.v2ex.com/t/1157529)
+
