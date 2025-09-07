@@ -167,3 +167,5 @@
 
 + [主要产油国10月将继续增产](https://news.cctv.com/2025/09/08/ARTIGDO6Gvy3lfIxp9sHG7H7250908.shtml)
 
++ [内塔尼亚胡称约10万巴勒斯坦平民已离开加沙城](https://news.cctv.com/2025/09/08/ARTIHsKKimK9SevgBvkS3kI2250908.shtml)
+

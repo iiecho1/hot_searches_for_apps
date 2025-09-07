@@ -61,3 +61,5 @@
 
 + [小米自带线超薄充电宝 5000 22.5W 上架：充电线也可当挂绳，149 元](https://m.ithome.com/html/880947.htm)
 
++ [古尔曼：苹果计划年底前在中国推出 Apple Intelligence](https://m.ithome.com/html/881099.htm)
+
