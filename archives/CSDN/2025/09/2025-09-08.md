@@ -111,3 +111,25 @@
 
 + [GCC编译器深度解剖：从源码到可执行文件的全面探索](https://blog.csdn.net/2401_89899187/article/details/151221818)
 
++ [基于LLM的月全食时空建模与智能预测：从天文现象到深度学习融合](https://blog.csdn.net/Liudef06/article/details/151296594)
+
++ [OpenRouter：一站式 AI 模型调用平台，免费畅享千问、DeepSeek 等顶级模型](https://blog.csdn.net/Mrxiao_bo/article/details/151255064)
+
++ [Java 开发者如何搞定百度地图 SN 权限签名实践-以搜索2.0接口为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/151289695)
+
++ [微信小程序收藏交互实战：点击星星变黄的完整实现（前端展示 + 后端持久化）](https://blog.csdn.net/weixin_43304253/article/details/151296139)
+
++ [【滚雪球学数学建模】第12节·交通与物流](https://blog.csdn.net/weixin_43970743/article/details/151172911)
+
++ [论文阅读——μNAS：面向微控制器的约束神经架构搜索](https://blog.csdn.net/qq_44648285/article/details/151269297)
+
++ [C++中的Reactor和Proactor模型进行系统性解析](https://blog.csdn.net/weixin_42108533/article/details/151231786)
+
++ [Windows权限提升（二）](https://blog.csdn.net/2301_81242582/article/details/151256754)
+
++ [全国大学生数学建模B题分析-碳化硅外延层厚度的确定](https://blog.csdn.net/qingfengxd1/article/details/151252233)
+
++ [2025高教社杯全国大学生数学建模竞赛（E题）深度剖析| 立定跳远运动 |数学建模完整代码+建模过程全解全析](https://blog.csdn.net/qq_25834913/article/details/151218458)
+
++ [react+umi项目如何添加electron的功能](https://blog.csdn.net/yalywq/article/details/151228742)
+

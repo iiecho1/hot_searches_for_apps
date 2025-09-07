@@ -161,3 +161,7 @@
 
 + [世界最大冰山解体 研究人员预计或在几周内变小到无法辨识](https://news.cctv.com/2025/09/05/ARTIbX1eN4T38Tu4BKLNil2L250905.shtml)
 
++ [热点问答｜石破茂后，谁接任日本首相](https://news.cctv.com/2025/09/08/ARTIHVk2AUVUZbwulZDnNG4X250908.shtml)
+
++ [国际观察｜石破茂“体面”辞职 日政坛“一地鸡毛”](https://news.cctv.com/2025/09/08/ARTIF3vE8LOdqnbfgGKDoO1h250908.shtml)
+

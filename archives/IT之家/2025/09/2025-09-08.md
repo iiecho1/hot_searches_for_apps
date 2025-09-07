@@ -49,3 +49,11 @@
 
 + [微软 Win11 更新搞坏 SSD？消息称背后原因是固态硬盘使用了工程版固件](https://m.ithome.com/html/881060.htm)
 
++ [花旗：苹果 iPhone 17 Air 存储供应商扩展至五家，闪迪、铠侠加入 NAND 闪存供应体系](https://m.ithome.com/html/880929.htm)
+
++ [努比亚 nubia Air 超薄手机发布：5.9mm 厚度、5000 毫安时电池、IP69K 认证，279 美元起](https://m.ithome.com/html/880908.htm)
+
++ [奥海推出苹果 iPhone 17 手机适用“非牛顿流体 P4U 磁吸防摔壳”，298 元](https://m.ithome.com/html/880953.htm)
+
++ [消息称威马汽车温州基地已开始复产，已下线十几台车“用于铺市场”](https://m.ithome.com/html/880961.htm)
+
