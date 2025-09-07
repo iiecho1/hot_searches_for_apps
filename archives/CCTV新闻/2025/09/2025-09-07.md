@@ -207,3 +207,11 @@
 
 + [超300名韩国人在美被拘 韩称与美协商完毕拟派包机接回](https://news.cctv.com/2025/09/07/ARTIFFvs8wHuSunZyepYPGUw250907.shtml)
 
++ [中国生态文明建设为世界提供范例——访联合国环境规划署气候和清洁空气联盟秘书处负责人马丁娜·奥托](https://news.cctv.com/2025/09/07/ARTIQ1vBDkfYc2Z0JfdFiqRs250907.shtml)
+
++ [俄总统新闻秘书：全球治理倡议是“一项非常重要的倡议”](https://news.cctv.com/2025/09/07/ARTIIDk2mXWksRz86VnxgG2r250907.shtml)
+
++ [全球发展倡议：惠及各国民众的公共思想产品](https://news.cctv.com/2025/09/07/ARTIURLnws32QcU4yhyck1ya250907.shtml)
+
++ [日本首相石破茂宣布辞去自民党总裁职务](https://news.cctv.com/2025/09/07/ARTI1okaoQop6XgQLAdF0tBS250907.shtml)
+

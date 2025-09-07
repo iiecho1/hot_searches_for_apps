@@ -171,3 +171,13 @@
 
 + [GCC编译器深度解剖：从源码到可执行文件的全面探索](https://blog.csdn.net/2401_89899187/article/details/151221818)
 
++ [AI 驱动的软件开发新范式](https://blog.csdn.net/zzywxc787/article/details/151188008)
+
++ [OceanBase ：LSM-Tree 存储引擎验证 | RootService 功能探索](https://blog.csdn.net/hezuijiudexiaobai/article/details/151259713)
+
++ [【医学影像 AI】YoloCurvSeg：仅需标注一个带噪骨架即可实现血管状曲线结构分割](https://blog.csdn.net/youcans/article/details/151262171)
+
++ [用 Cursor AI 快速开发你的第一个编程小程序](https://blog.csdn.net/luwei42768/article/details/151232798)
+
++ [微信小程序（uniapp）实现连接蓝牙](https://blog.csdn.net/Rocky_Time/article/details/151250215)
+
