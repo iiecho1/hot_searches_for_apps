@@ -211,3 +211,11 @@
 
 + [【混元AIGC+腾讯云智能体+首创Coze核心流思维导图MCP】：打造一个文思通-智能写作助手Agent](https://blog.csdn.net/lwcwam/article/details/151248165)
 
++ [Linux 之从硬件硬盘到文件系统的全面过渡](https://blog.csdn.net/2302_79376097/article/details/151153638)
+
++ [【Linux手册】管道通信：从内核底层原理到使用方法](https://blog.csdn.net/2401_87944878/article/details/150429323)
+
++ [从零构建WebSocket实时聊天室: 原理剖析与代码实战](https://blog.csdn.net/2301_81253185/article/details/151292341)
+
++ [【Web安全】命令注入与代码注入漏洞解析及安全测试指南](https://blog.csdn.net/qq_40037555/article/details/151212588)
+

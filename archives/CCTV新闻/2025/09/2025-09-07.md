@@ -219,3 +219,15 @@
 
 + [科特迪瓦西南部一独木舟倾覆致11人失踪](https://news.cctv.com/2025/09/07/ARTIrBNl4Npmcs5JL0DTnOGw250907.shtml)
 
++ [联合国警告以色列撤离令或致加沙饥荒蔓延 呼吁停火救援](https://news.cctv.com/2025/09/07/ARTIww8uxRUVqt5X4AYidtrx250907.shtml)
+
++ [英国伦敦警方已逮捕超800名支持巴勒斯坦抗议者](https://news.cctv.com/2025/09/07/ARTIqHFfCD8Myg3aAjzgNcPs250907.shtml)
+
++ [美民调：特朗普支持率为43% 通胀处理认可度低](https://news.cctv.com/2025/09/07/ARTIUf8ZXy1K3pw4tbVINzE8250907.shtml)
+
++ [视频丨以色列拉蒙机场遭胡塞武装无人机袭击](https://news.cctv.com/2025/09/07/ARTInxhh9VckHo8C7T8I7ttR250907.shtml)
+
++ [内塔尼亚胡：以色列正在外交和国际舆论场上“付出代价”](https://news.cctv.com/2025/09/07/ARTIM796OcjXHNOL9tlHcggB250907.shtml)
+
++ [韩国调整政府组织架构 检察厅将被废除](https://news.cctv.com/2025/09/07/ARTIdiWKkXDbtaLq5Klcr7tp250907.shtml)
+
