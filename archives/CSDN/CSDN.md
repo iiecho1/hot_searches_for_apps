@@ -181,3 +181,9 @@
 
 + [微信小程序（uniapp）实现连接蓝牙](https://blog.csdn.net/Rocky_Time/article/details/151250215)
 
++ [ 传统神经网络实现-----手写数字识别（MNIST）项目](https://blog.csdn.net/2301_79749195/article/details/151230344)
+
++ [uniapp [全端兼容] - 实现百度地图API获取用户的地理位置+IP属地+定位详细地址省市区县乡镇，uniApp百度地图获取精准定位经纬度数据+逆地理编码城市名称（兼容H5、微信小程序、App）](https://blog.csdn.net/weixin_44198965/article/details/151282769)
+
++ [DevOps实战(2) - 使用Arbess+GitPuk+Docker实现Java项目自动化部署](https://blog.csdn.net/tiklab2021/article/details/150926672)
+
