@@ -165,3 +165,7 @@
 
 + [巴以冲突已致加沙地带超6.4万人死亡](https://news.cctv.com/2025/09/07/ARTIG7VTCReJE7nJRpj5XpXN250907.shtml)
 
++ [特朗普新政冲击 全球寄美包裹骤减八成](https://news.cctv.com/2025/09/07/ARTIqPSONKljjMWcequmB4y3250907.shtml)
+
++ [法国北部发生汽车冲撞行人事故致1人死亡](https://news.cctv.com/2025/09/07/ARTIq7xZrdoUEn9xBtPACIgp250907.shtml)
+

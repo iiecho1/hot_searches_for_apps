@@ -137,3 +137,7 @@
 
 + [【完整源码+数据集+部署教程】乡村道路植物与障碍物识别图像分割系统源码和数据集：改进yolo11-OREPA](https://blog.csdn.net/2301_78772942/article/details/151228245)
 
++ [当Python遇见高德：基于PyQt与JS API构建桌面三维地形图应用实战](https://blog.csdn.net/2301_80863610/article/details/151181323)
+
++ [RPC 和 HTTP 的区别](https://blog.csdn.net/qq_56158663/article/details/151259717)
+
