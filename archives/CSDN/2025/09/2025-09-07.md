@@ -187,3 +187,9 @@
 
 + [DevOps实战(2) - 使用Arbess+GitPuk+Docker实现Java项目自动化部署](https://blog.csdn.net/tiklab2021/article/details/150926672)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场风险评估与投资组合优化中的应用（407）](https://blog.csdn.net/atgfg/article/details/151290335)
+
++ [uniapp(移动端H5网页)：获取麦克风权限+点击录音+录制完毕后在线播放功能，检测申请网页端麦克风录制权限及用户拒绝后弹框提示引导，Uniapp实现H5页面麦克风权限获取与录音功能（详细示例源码）](https://blog.csdn.net/weixin_50545213/article/details/151290233)
+
++ [.Net程序员就业现状以及学习路线图（四）](https://blog.csdn.net/2501_92622794/article/details/151229467)
+

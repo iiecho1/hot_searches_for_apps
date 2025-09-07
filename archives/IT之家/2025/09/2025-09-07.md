@@ -63,3 +63,7 @@
 
 + [李小龙回应“用华为充电宝充大疆 Pocket 3 会充爆”：用起来没任何问题](https://m.ithome.com/html/880983.htm)
 
++ [马斯克夸下海口却无法兑现，特斯拉 FSD 系统不再承诺“无监督”](https://m.ithome.com/html/880920.htm)
+
++ [小米自带线超薄充电宝 5000 22.5W 上架：充电线也可当挂绳，149 元](https://m.ithome.com/html/880947.htm)
+
