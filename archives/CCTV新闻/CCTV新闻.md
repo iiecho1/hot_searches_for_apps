@@ -185,3 +185,13 @@
 
 + [乌总理证实乌政府大楼首次遭俄军袭击受损](https://news.cctv.com/2025/09/07/ARTIovIoELGRoXy8oeetjecL250907.shtml)
 
++ [日本首相石破茂决定辞职](https://news.cctv.com/2025/09/07/ARTIvNJsw6q42QBGv8LGCFRY250907.shtml)
+
++ [万国邮联：美国暂停小额包裹免税后寄美包裹量骤减](https://news.cctv.com/2025/09/07/ARTIhDYll9D9E48YoRrChuVx250907.shtml)
+
++ [“推动上合组织构建命运共同体的关键一步”](https://news.cctv.com/2025/09/07/ARTIfK5vfMSmntibG2KxkDO8250907.shtml)
+
++ [“书写了人类历史上的重要一页”——访阿尔及利亚老战士部部长拉比加](https://news.cctv.com/2025/09/07/ARTIlTPqatbzufe8qgOGSJmw250907.shtml)
+
++ [泰国国王批准阿努廷·参威拉军出任总理](https://news.cctv.com/2025/09/07/ARTIXo9zZrwzvm8NpYAdMRM6250907.shtml)
+
