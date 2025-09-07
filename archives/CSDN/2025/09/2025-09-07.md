@@ -201,3 +201,13 @@
 
 + [全国大学生数学建模B题分析-碳化硅外延层厚度的确定](https://blog.csdn.net/qingfengxd1/article/details/151252233)
 
++ [2025国赛C题 题目思路和模型讲解](https://blog.csdn.net/weixin_46211269/article/details/151195807)
+
++ [linux——自定义协议](https://blog.csdn.net/2401_83603768/article/details/151154240)
+
++ [【Linux指南】动静态库与链接机制：从原理到实践](https://blog.csdn.net/2302_78391795/article/details/149369569)
+
++ [MQTT 与 Java 框架集成：Spring Boot 实战（一）](https://blog.csdn.net/qq_42190530/article/details/151231799)
+
++ [【混元AIGC+腾讯云智能体+首创Coze核心流思维导图MCP】：打造一个文思通-智能写作助手Agent](https://blog.csdn.net/lwcwam/article/details/151248165)
+

@@ -217,3 +217,5 @@
 
 + [再威胁“派兵” 特朗普称要让芝加哥见识“战争部”的厉害](https://news.cctv.com/2025/09/07/ARTI0WUTHmUHsKZIC7jw9kQq250907.shtml)
 
++ [科特迪瓦西南部一独木舟倾覆致11人失踪](https://news.cctv.com/2025/09/07/ARTIrBNl4Npmcs5JL0DTnOGw250907.shtml)
+
