@@ -107,3 +107,23 @@
 
 + [VuePress 与 VitePress 深度对比：特性、差异与选型指南](https://blog.csdn.net/qq_29768197/article/details/151286738)
 
++ [AI热点周报（8.31~9.6）： Qwen3‑Max‑Preview上线、GLM-4.5提供一键迁移、Gemini for Home，AI风向何在？](https://blog.csdn.net/qq_51646682/article/details/151251792)
+
++ [计算机视觉（九）：图像轮廓](https://blog.csdn.net/www_dong/article/details/151256180)
+
++ [Redis高可用终极对决：Cluster vs Sentinel，十亿级流量下的架构选型指南](https://blog.csdn.net/qq_44378083/article/details/149155029)
+
++ [国内外最新AI语言模型行情分析2025年9月最新内容](https://blog.csdn.net/nmdbbzcl/article/details/151292396)
+
++ [Spring八股文](https://blog.csdn.net/2301_76854264/article/details/151295974)
+
++ [2025算法八股——机器学习——SVM损失函数](https://blog.csdn.net/Zssss12/article/details/151290243)
+
++ [OceanBase 4.2.5.6分布式架构下存储预占空间与目录结构详解](https://blog.csdn.net/hezuijiudexiaobai/article/details/151331316)
+
++ [一文掌握工业缺陷检测项目实战（Pytorch算法训练、部署、C++ DLL制作、Qt集成）](https://blog.csdn.net/qianbin3200896/article/details/151224909)
+
++ [【Redis】--持久化机制](https://blog.csdn.net/2201_75743716/article/details/151196840)
+
++ [机器学习-决策树](https://blog.csdn.net/qq_64232275/article/details/151261363)
+
