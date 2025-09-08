@@ -63,3 +63,15 @@
 
 + [古尔曼：苹果计划年底前在中国推出 Apple Intelligence](https://m.ithome.com/html/881099.htm)
 
++ [“上海地铁最忙线路”9 号线拆座位引热议，官方回应称“仅改一组列车，可提升高峰期运输能力”](https://m.ithome.com/html/881093.htm)
+
++ [播放视频前“80 秒广告”实为 84 秒：消息称优酷 / 芒果等平台“前贴片广告”播放时间实际长于倒计时](https://m.ithome.com/html/881073.htm)
+
++ [阿维塔全新概念车全球首秀，设计极具未来感](https://m.ithome.com/html/881088.htm)
+
++ [史上最强 911：2026 款保时捷 911 Turbo S 发布，混动系统加持、272.8 万元起](https://m.ithome.com/html/881094.htm)
+
++ [俄罗斯：已准备好向中国供应宽体飞机零部件，包括复合材料机翼和重型发动机](https://m.ithome.com/html/881055.htm)
+
++ [“红月亮”刷屏朋友圈，央视晒全国多地月全食高清大图](https://m.ithome.com/html/881119.htm)
+

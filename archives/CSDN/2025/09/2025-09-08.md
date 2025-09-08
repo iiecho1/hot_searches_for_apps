@@ -171,3 +171,9 @@
 
 + [CentOS系统停服，系统迁移Ubuntu LTS](https://blog.csdn.net/jayjaydream/article/details/151263197)
 
++ [应用层自定义协议与序列化](https://blog.csdn.net/jingfeng514/article/details/151184958)
+
++ [【Big Data】Apache Kafka 分布式流处理平台的实时处理实践与洞察](https://blog.csdn.net/weixin_39671271/article/details/151232148)
+
++ [k8s网络原理](https://blog.csdn.net/ggaofengg/article/details/151264033)
+
