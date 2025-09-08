@@ -157,3 +157,17 @@
 
 + [Android13 系统源码核心目录解析](https://blog.csdn.net/wenzhi20102321/article/details/151213767)
 
++ [【C++详解】C++ 智能指针：使用场景、实现原理与内存泄漏防治](https://blog.csdn.net/2501_90265152/article/details/151212397)
+
++ [【数学建模】用代码搞定无人机烟幕：怎么挡导弹最久？](https://blog.csdn.net/wheeldown/article/details/151309312)
+
++ [LabVIEW分割条使用](https://blog.csdn.net/bjcyck/article/details/151310059)
+
++ [Dockerfile解析器指令（Parser Directive）指定语法版本，如：# syntax=docker/dockerfile:1](https://blog.csdn.net/Dontla/article/details/151294554)
+
++ [纯软件实现电脑屏幕录制/存储到硬盘录像机/onvif模拟器/onvif虚拟监控/绿色版双击开箱即用](https://blog.csdn.net/feiyangqingyun/article/details/151308897)
+
++ [Curator 如何实现分布式锁](https://blog.csdn.net/2301_76161469/article/details/151218796)
+
++ [CentOS系统停服，系统迁移Ubuntu LTS](https://blog.csdn.net/jayjaydream/article/details/151263197)
+

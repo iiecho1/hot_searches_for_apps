@@ -175,3 +175,7 @@
 
 + [尹锡悦连续第八次缺席涉内乱案庭审](https://news.cctv.com/2025/09/08/ARTI2nmLZN4hJlfIR4XCzPzS250908.shtml)
 
++ [全球多地天宇上演壮观月全食](https://photo.cctv.com/2025/09/08/PHOADKChD55S8MC0kMfRkvHG250908.shtml)
+
++ [石破茂黯然下台 自民党“双少数”困局谁来破？](https://news.cctv.com/2025/09/08/ARTIuApOVWKDFg8JVq1cCnIQ250908.shtml)
+

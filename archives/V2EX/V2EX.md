@@ -39,3 +39,9 @@
 
 + [M3 Ultra or M4 Max 能正常服役接下来 10 年么](https://www.v2ex.com/t/1157665)
 
++ [普通人如何做出正确选择而翻身？](https://www.v2ex.com/t/1157703)
+
++ [感觉上司干不掉我。。。](https://www.v2ex.com/t/1157697)
+
++ [旁边一同事一直吸鼻涕，如何礼貌提醒？](https://www.v2ex.com/t/1157717)
+
