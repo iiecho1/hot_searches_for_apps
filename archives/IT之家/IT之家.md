@@ -47,3 +47,5 @@
 
 + [俄罗斯：已准备好向中国供应宽体飞机零部件，包括复合材料机翼和重型发动机](https://m.ithome.com/html/881055.htm)
 
++ [iPad Air M3 版 4799 → 2899 元 12 期免息，周一再补 200 元券](https://m.ithome.com/html/881046.htm)
+
