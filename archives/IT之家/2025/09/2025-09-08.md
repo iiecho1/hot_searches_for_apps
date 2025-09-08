@@ -75,3 +75,7 @@
 
 + [“红月亮”刷屏朋友圈，央视晒全国多地月全食高清大图](https://m.ithome.com/html/881119.htm)
 
++ [iPad Air M3 版 4799 → 2899 元 12 期免息，周一再补 200 元券](https://m.ithome.com/html/881046.htm)
+
++ [麒麟 8000 及以上可玩：米哈游《原神》鸿蒙版 9 月 10 日版本更新后正式支持 HarmonyOS 5 及以上系统设备](https://m.ithome.com/html/881183.htm)
+

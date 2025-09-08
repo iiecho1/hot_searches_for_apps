@@ -203,3 +203,7 @@
 
 + [俄总统新闻秘书：任何制裁都无法使俄改变一贯立场](https://news.cctv.com/2025/09/08/ARTIPAktCtzHhDj2tC40uAxP250908.shtml)
 
++ [耶路撒冷枪击案已致6死20伤 以安全部门逮捕一名涉案者](https://news.cctv.com/2025/09/08/ARTIka48GfHvRg1GNRShQ4S0250908.shtml)
+
++ [国际媒体聚焦：九三阅兵彰显中国实力，传递和平强音](https://news.cctv.com/2025/09/08/ARTIk1KeDPntPcsAIhE0K6f5250908.shtml)
+

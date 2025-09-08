@@ -209,3 +209,5 @@
 
 + [跳转原生系统设置插件 支持安卓/iOS/鸿蒙UTS组件](https://blog.csdn.net/qq_35195386/article/details/151291738)
 
++ [The Xilinx 7 series FPGAs 设计PCB 该选择绑定哪个bank引脚，约束引脚时如何定义引脚电平标准？](https://blog.csdn.net/m0_69500424/article/details/151150413)
+
