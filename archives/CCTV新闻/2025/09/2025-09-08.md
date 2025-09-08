@@ -189,3 +189,13 @@
 
 + [用手铐欢迎投资？美方抓捕韩企数百人背后的制度荒诞](https://news.cctv.com/2025/09/08/ARTI4yIzrAmf8F7phwSFExiH250908.shtml)
 
++ [美国制造商：关税是糟糕的政策，最终会反噬我们自身](https://news.cctv.com/2025/09/08/ARTIe6pvNb6NdWTzBYHXKzxf250908.shtml)
+
++ [【中国那些事儿】国际人士：中国抗战的贡献不只是胜利，更为世界创造了和平发展的机遇](https://news.cctv.com/2025/09/08/ARTIPEB0uYlckb1SkYBUgWAf250908.shtml)
+
++ [视频丨耶路撒冷发生枪击事件 已致多人伤亡](https://news.cctv.com/2025/09/08/ARTIXeU5vXYYChvIhRCLHNMc250908.shtml)
+
++ [泰国前总理他信返回曼谷 将于9日听取法院裁决](https://news.cctv.com/2025/09/08/ARTIdG4OzjHxU3sR7gyRiIXP250908.shtml)
+
++ [5年5任首相 日本民众担忧频繁更迭影响国家稳定](https://news.cctv.com/2025/09/08/ARTIwjj5o0cH6MJUhCNU3MGc250908.shtml)
+
