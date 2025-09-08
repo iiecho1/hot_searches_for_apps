@@ -199,3 +199,7 @@
 
 + [5年5任首相 日本民众担忧频繁更迭影响国家稳定](https://news.cctv.com/2025/09/08/ARTIwjj5o0cH6MJUhCNU3MGc250908.shtml)
 
++ [韩国多个市民团体举行集会 要求美方释放被捕公民](https://news.cctv.com/2025/09/08/ARTIy2sUfx1DK8i48JOLhbwS250908.shtml)
+
++ [俄总统新闻秘书：任何制裁都无法使俄改变一贯立场](https://news.cctv.com/2025/09/08/ARTIPAktCtzHhDj2tC40uAxP250908.shtml)
+
