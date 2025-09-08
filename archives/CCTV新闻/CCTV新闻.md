@@ -165,3 +165,9 @@
 
 + [未通过议会信任投票 法国总理贝鲁将辞职](https://news.cctv.com/2025/09/09/ARTI6OtpJTQZCJcVsNXrBdaJ250909.shtml)
 
++ [特朗普称准备启动“第二阶段”对俄制裁 俄方回应](https://news.cctv.com/2025/09/09/ARTIHl1kUku3wbcEeP0PhPbF250909.shtml)
+
++ [加强拘留遣返力度，“五眼联盟”部长级会议聚焦非法移民](https://news.cctv.com/2025/09/09/ARTIqzFKeUVVfEvcYduxCHOF250909.shtml)
+
++ [以总理称以军部队正在集结 准备进入加沙城展开地面行动](https://news.cctv.com/2025/09/09/ARTI3yGCaGFsf5nGkCTuEX6y250909.shtml)
+
