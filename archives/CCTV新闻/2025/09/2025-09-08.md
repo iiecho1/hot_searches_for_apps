@@ -169,3 +169,5 @@
 
 + [内塔尼亚胡称约10万巴勒斯坦平民已离开加沙城](https://news.cctv.com/2025/09/08/ARTIHsKKimK9SevgBvkS3kI2250908.shtml)
 
++ [日本专家：参选下任自民党总裁者或将变少](https://news.cctv.com/2025/09/08/ARTIgB8LCy4xefkXB13Q9qrl250908.shtml)
+

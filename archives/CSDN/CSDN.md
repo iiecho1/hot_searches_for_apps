@@ -141,3 +141,11 @@
 
 + [任务型Agent：prompt工程实践](https://blog.csdn.net/zhuqiuhui/article/details/151234749)
 
++ [【Spring AI】第二弹：Prompt 优化技巧、AI 应用开发、实战 Spring AI 特性 (自定义Advisor、结构化输出、对话记忆持久化、PromptTemplate模板、多模态)](https://blog.csdn.net/2402_84916296/article/details/151297212)
+
++ [PyTorch 中的循环神经网络 (RNN/LSTM)：时序数据处理实战指南](https://blog.csdn.net/vvilkim/article/details/148535435)
+
++ [小鹏图灵芯片 硬件架构](https://blog.csdn.net/luoganttcc/article/details/151249306)
+
++ [硬件开发_基于物联网的老人跌倒监测报警系统](https://blog.csdn.net/weixin_45732499/article/details/151263346)
+
