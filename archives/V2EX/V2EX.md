@@ -21,3 +21,5 @@
 
 + [M3 Ultra or M4 Max 能正常服役接下来 10 年么](https://www.v2ex.com/t/1157665)
 
++ [V2 上能不能出个纯英文节点，发出中文用 AI 自动转成英文](https://www.v2ex.com/t/1157732)
+

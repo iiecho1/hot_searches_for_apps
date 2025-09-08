@@ -101,3 +101,9 @@
 
 + [从零构建WebSocket实时聊天室: 原理剖析与代码实战](https://blog.csdn.net/2301_81253185/article/details/151292341)
 
++ [HarmonyOS应用开发：三层工程架构](https://blog.csdn.net/2401_88174794/article/details/151286391)
+
++ [性能优化——首屏优化](https://blog.csdn.net/XiugongHao/article/details/151293250)
+
++ [VuePress 与 VitePress 深度对比：特性、差异与选型指南](https://blog.csdn.net/qq_29768197/article/details/151286738)
+

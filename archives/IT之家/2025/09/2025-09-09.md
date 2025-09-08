@@ -25,3 +25,25 @@
 
 + [苹果 iPhone 17 系列手机官配“斜挎肩带”曝光：磁吸接口、可配 TechWoven 保护壳](https://m.ithome.com/html/881267.htm)
 
++ [iPad Air M3 版 4799 → 2899 元 12 期免息，周日再降 200 元](https://m.ithome.com/html/881046.htm)
+
++ [血月奇观：我国今年境内唯一全程肉眼可见的月全食明日凌晨“上演”，地球把月亮染红 82 分钟](https://m.ithome.com/html/881082.htm)
+
++ [古尔曼：苹果计划年底前在中国推出 Apple Intelligence](https://m.ithome.com/html/881099.htm)
+
++ [李肖爽回应小米 YU7“测试车”静电贴残留问题：用湿毛巾可清除，已改良](https://m.ithome.com/html/881067.htm)
+
++ [“上海地铁最忙线路”9 号线拆座位引热议，官方回应称“仅改一组列车，可提升高峰期运输能力”](https://m.ithome.com/html/881093.htm)
+
++ [华为 WiFi 7+ 自研芯片级协同技术支持机型公布，含 Pura80、Mate XTs 等](https://m.ithome.com/html/881038.htm)
+
++ [播放视频前“80 秒广告”实为 84 秒：消息称优酷 / 芒果等平台“前贴片广告”播放时间实际长于倒计时](https://m.ithome.com/html/881073.htm)
+
++ [微软 Win11 更新搞坏 SSD？消息称背后原因是固态硬盘使用了工程版固件](https://m.ithome.com/html/881060.htm)
+
++ [阿维塔全新概念车全球首秀，设计极具未来感](https://m.ithome.com/html/881088.htm)
+
++ [史上最强 911：2026 款保时捷 911 Turbo S 发布，混动系统加持、272.8 万元起](https://m.ithome.com/html/881094.htm)
+
++ [俄罗斯：已准备好向中国供应宽体飞机零部件，包括复合材料机翼和重型发动机](https://m.ithome.com/html/881055.htm)
+
