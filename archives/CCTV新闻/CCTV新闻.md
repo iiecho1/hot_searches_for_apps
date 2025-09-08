@@ -179,3 +179,5 @@
 
 + [石破茂黯然下台 自民党“双少数”困局谁来破？](https://news.cctv.com/2025/09/08/ARTIuApOVWKDFg8JVq1cCnIQ250908.shtml)
 
++ [俄国防部：俄武装力量卫星集群实现24小时通信](https://news.cctv.com/2025/09/08/ARTIuNcRuLcUqcv7Cl757H1F250908.shtml)
+
