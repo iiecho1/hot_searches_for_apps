@@ -51,3 +51,5 @@
 
 + [clash 之后，是不是后继无人了](https://www.v2ex.com/t/1157714)
 
++ [亏了 50W 了，怎么办](https://www.v2ex.com/t/1157737)
+

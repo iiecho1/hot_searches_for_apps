@@ -177,3 +177,11 @@
 
 + [k8s网络原理](https://blog.csdn.net/ggaofengg/article/details/151264033)
 
++ [Vue3 - 实现内网使用天地图离线地图，详解项目加载天地图的离线地图服务器部署与使用教程示例源码，vue3如何实现天地图的离线加载部署在内网访问（天地图资源下载/瓦片等流程教学，实现天地图各种功能）](https://blog.csdn.net/weixin_44198965/article/details/151313630)
+
++ [【数据库】时序数据库科学选型，以IoTDB构筑大数据时代的时序数据底座](https://blog.csdn.net/qq_38628970/article/details/151314867)
+
++ [理财系统|基于java+vue的家庭理财系统小程序(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/151252350)
+
++ [2025 数学建模高教社杯 国赛（C题）| 婴儿染色体异常检测 | 建模秘籍&文章代码思路大全](https://blog.csdn.net/Mmmath_secret/article/details/151222664)
+
