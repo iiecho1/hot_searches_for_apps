@@ -33,3 +33,17 @@
 
 + [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
++ [11cafe/jaaz](https://github.com/11cafe/jaaz)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+
++ [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
+
