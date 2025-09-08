@@ -161,3 +161,7 @@
 
 + [世卫组织：猴痘疫情不再构成“国际关注的突发公共卫生事件”](https://news.cctv.com/2025/09/06/ARTIcvuSshc7kiCqgZ9tYu4Q250906.shtml)
 
++ [石破茂辞职 日本经济直面哪些挑战？](https://news.cctv.com/2025/09/09/ARTI8U5R5SqgIojnH906mrXz250908.shtml)
+
++ [未通过议会信任投票 法国总理贝鲁将辞职](https://news.cctv.com/2025/09/09/ARTI6OtpJTQZCJcVsNXrBdaJ250909.shtml)
+

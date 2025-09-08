@@ -49,3 +49,5 @@
 
 + [iPad Air M3 版 4799 → 2899 元 12 期免息，周一再补 200 元券](https://m.ithome.com/html/881046.htm)
 
++ [红海两条海底光缆断裂，微软紧急调整 Azure 云服务流量](https://m.ithome.com/html/881102.htm)
+
