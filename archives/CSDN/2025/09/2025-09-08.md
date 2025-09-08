@@ -149,3 +149,11 @@
 
 + [硬件开发_基于物联网的老人跌倒监测报警系统](https://blog.csdn.net/weixin_45732499/article/details/151263346)
 
++ [Oracle到金仓数据库信创改造迁移实施规划方案（下篇）](https://blog.csdn.net/qq_32682301/article/details/151294423)
+
++ [飞算JavaAI全链路实战：智能构建高可用电商系统核心架构](https://blog.csdn.net/czx_163/article/details/151297761)
+
++ [Linux —— 虚拟进程地址空间](https://blog.csdn.net/2401_87692970/article/details/151295162)
+
++ [Android13 系统源码核心目录解析](https://blog.csdn.net/wenzhi20102321/article/details/151213767)
+

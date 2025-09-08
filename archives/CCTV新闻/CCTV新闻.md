@@ -171,3 +171,7 @@
 
 + [日本专家：参选下任自民党总裁者或将变少](https://news.cctv.com/2025/09/08/ARTIgB8LCy4xefkXB13Q9qrl250908.shtml)
 
++ [石破茂辞任 日本自民党最快明天公布总裁选举日程](https://news.cctv.com/2025/09/08/ARTIc50WPQ6MVbAoCtn6NBKr250908.shtml)
+
++ [尹锡悦连续第八次缺席涉内乱案庭审](https://news.cctv.com/2025/09/08/ARTI2nmLZN4hJlfIR4XCzPzS250908.shtml)
+
