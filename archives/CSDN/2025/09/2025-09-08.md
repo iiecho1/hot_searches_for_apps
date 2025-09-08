@@ -189,3 +189,9 @@
 
 + [Spring MVC 处理请求的流程](https://blog.csdn.net/gybshen/article/details/151262308)
 
++ [TensorFlow深度学习实战（37）——深度学习的数学原理](https://blog.csdn.net/LOVEmy134611/article/details/144547566)
+
++ [【AI大模型前沿】Qwen3-SmVL：基于阿里通义千问3和SmolVLM拼接打造1 GB显存可跑的中文超小多模态大模型](https://blog.csdn.net/xiaobing259/article/details/151155378)
+
++ [Redis高可用终极对决：Cluster vs Sentinel，十亿级流量下的架构选型指南](https://blog.csdn.net/qq_44378083/article/details/149155029)
+

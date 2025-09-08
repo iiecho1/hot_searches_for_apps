@@ -181,3 +181,9 @@
 
 + [俄国防部：俄武装力量卫星集群实现24小时通信](https://news.cctv.com/2025/09/08/ARTIuNcRuLcUqcv7Cl757H1F250908.shtml)
 
++ [韩国政府将接回在美国遭扣押工人](https://news.cctv.com/2025/09/08/ARTIgv1SkQGJHFenpmrxLUXj250908.shtml)
+
++ [西班牙将批准对以色列实施武器禁运的法令](https://news.cctv.com/2025/09/08/ARTIC0GlLyv4HQz09Aph6eWD250908.shtml)
+
++ [西班牙：斗牛](https://photo.cctv.com/2025/09/08/PHOAgCfCahii8assnz6AH0KX250908.shtml)
+
