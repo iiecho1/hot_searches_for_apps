@@ -171,3 +171,5 @@
 
 + [以总理称以军部队正在集结 准备进入加沙城展开地面行动](https://news.cctv.com/2025/09/09/ARTI3yGCaGFsf5nGkCTuEX6y250909.shtml)
 
++ [联合国人权事务高级专员谴责以色列高官种族灭绝言论](https://news.cctv.com/2025/09/09/ARTIc3Y6EEAMMblLjLPVKkz0250909.shtml)
+
