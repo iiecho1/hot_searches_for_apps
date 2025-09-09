@@ -185,3 +185,9 @@
 
 + [以军向加沙城所有居民发撤离通知：将发动大规模地面攻势](https://news.cctv.com/2025/09/09/ARTIv3MdDFITKkXlsStA6RuQ250909.shtml)
 
++ [委内瑞拉防长：委人民对美国军事威胁无所畏惧](https://news.cctv.com/2025/09/09/ARTIkxEtAUlUcWzTBaZoc7w0250909.shtml)
+
++ [挪威议会选举初步结果公布 工党继续保持第一大党地位](https://news.cctv.com/2025/09/09/ARTIJBmqiajchDfLdb7VFJqq250909.shtml)
+
++ [加沙地带卫生部门呼吁保护医院和医务人员安全](https://news.cctv.com/2025/09/09/ARTIqt9OYIOXrakCYt1OmroS250909.shtml)
+

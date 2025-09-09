@@ -47,3 +47,5 @@
 
 + [到底要不要买 Lululemon？](https://www.v2ex.com/t/1157917)
 
++ [你们和 AI 交流的时候，会用上很多的礼貌性用语吗？](https://www.v2ex.com/t/1157925)
+

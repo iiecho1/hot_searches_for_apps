@@ -167,3 +167,15 @@
 
 + [ARM -- 汇编语言](https://blog.csdn.net/cui__OaO/article/details/151329122)
 
++ [ChatGPT 协作调优：把 SQL 查询从 5s 优化到 300ms 的全过程](https://blog.csdn.net/IRpickstars/article/details/151311813)
+
++ [OpenCV 银行卡号识别](https://blog.csdn.net/2201_75607087/article/details/151334846)
+
++ [卷积神经网络（CNN）：从图像识别原理到实战应用的深度解析](https://blog.csdn.net/2302_78391795/article/details/150961665)
+
++ [VMware虚拟机CentOS磁盘扩容完整指南（解决growpart报错 & LVM扩容）](https://blog.csdn.net/mss359681091/article/details/151356538)
+
++ [深入了解linux系统—— 日志](https://blog.csdn.net/LH__1314/article/details/150871439)
+
++ [【.Net技术栈梳理】03-核心框架与运行时（异常处理）](https://blog.csdn.net/Tiger_shl/article/details/151297624)
+
