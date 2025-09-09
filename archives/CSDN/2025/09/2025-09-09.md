@@ -131,3 +131,5 @@
 
 + [【系统分析师】第12章-关键技术：软件架构设计（核心总结）](https://blog.csdn.net/cui_yonghua/article/details/151284694)
 
++ [【系统分析师】第17章-关键技术：嵌入式系统分析与设计（核心总结）](https://blog.csdn.net/cui_yonghua/article/details/151331260)
+
