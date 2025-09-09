@@ -207,3 +207,13 @@
 
 + [刚果（金）东部村庄遭袭击 已致约80人遇难](https://news.cctv.com/2025/09/09/ARTI4Mjw0PMlL6CN6j9HDLOP250909.shtml)
 
++ [西班牙宣布禁止两名以色列部长入境](https://news.cctv.com/2025/09/09/ARTI9Ov7RGagJXGHOPDNHg7y250909.shtml)
+
++ [中国驻尼泊尔使馆再次提醒在尼中国公民和机构加强安全防范](https://news.cctv.com/2025/09/09/ARTI1qXq7ua1so6Fei37FcN9250909.shtml)
+
++ [法国总理贝鲁抵达爱丽舍宫向总统马克龙递交辞呈](https://news.cctv.com/2025/09/09/ARTIZcVZAIVZ2UMbFEMa3fZD250909.shtml)
+
++ [尼泊尔总理辞职 总统已接受辞呈](https://news.cctv.com/2025/09/09/ARTIvJgVz2RuzgmbA7S3JN8Y250909.shtml)
+
++ [火药味升级！美防长上军舰搞动员 委方称不惧美方威胁](https://news.cctv.com/2025/09/09/ARTILCwKbiOJArOO16raKhlw250909.shtml)
+
