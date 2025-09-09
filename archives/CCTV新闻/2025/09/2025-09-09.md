@@ -181,3 +181,5 @@
 
 + [日本自民党有意于10月4日举行党总裁选举](https://news.cctv.com/2025/09/09/ARTIjW70vpSBEWabiDeRP055250909.shtml)
 
++ [泰国最高法院裁定 前总理他信在涉规避服刑案中有罪](https://news.cctv.com/2025/09/09/ARTIIhg6N05ywzrNuy0xsDyp250909.shtml)
+
