@@ -161,3 +161,13 @@
 
 + [乌克兰正组建多国部队司令部 目标是阻止“潜在袭击”](https://news.cctv.com/2025/09/07/ARTIawaTgeeMkmAuHv49tqBp250907.shtml)
 
++ [欧盟宣布1500亿欧元防务贷款初步分配方案](https://news.cctv.com/2025/09/10/ARTIHi1HbPNmptJOiwchdX3M250910.shtml)
+
++ [马克龙任命防长勒科尔尼担任法国总理](https://news.cctv.com/2025/09/10/ARTIgjYa2BUTcIaUWetF8WRs250910.shtml)
+
++ [构建合作新框架 伊朗与国际原子能机构达成协议](https://news.cctv.com/2025/09/10/ARTIERAXHw5XmQa9WRdzZEQE250910.shtml)
+
++ [特朗普：印美正继续谈判以解决两国间贸易壁垒](https://news.cctv.com/2025/09/10/ARTIL9Pnhz5OP0lZrRVKh8yb250910.shtml)
+
++ [哈马斯高级官员：哈马斯领导层在以色列袭击中幸存](https://news.cctv.com/2025/09/10/ARTIvwaFxxy9T4dkwq2V07d5250910.shtml)
+

@@ -139,3 +139,5 @@
 
 + [人工智能-python-深度学习-经典神经网络AlexNet](https://blog.csdn.net/x112xxds/article/details/151325225)
 
++ [redis主从复制之实现主从同步及主从切换](https://blog.csdn.net/2302_77439219/article/details/151284191)
+
