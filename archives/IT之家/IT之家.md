@@ -51,3 +51,15 @@
 
 + [红海两条海底光缆断裂，微软紧急调整 Azure 云服务流量](https://m.ithome.com/html/881102.htm)
 
++ [王腾发微博回应被小米辞退：过去犯了一些错误，接受该有的代价](https://m.ithome.com/html/881375.htm)
+
++ [王腾辟谣关于自己离职小米的谣言：没有窃取机密出售、没有收人钱财；有失职，深刻反省中](https://m.ithome.com/html/881418.htm)
+
++ [知情人士否认王腾被辞退是因为向外部机构提供小米汽车定价策略](https://m.ithome.com/html/881398.htm)
+
++ [小米 13 手机突发爆炸致 3 岁男童受伤，客服回应需专业检测确定自燃原因](https://m.ithome.com/html/881422.htm)
+
++ [比亚迪起诉长城坦克 CEO 常尧侵权，后者已失联两个月](https://m.ithome.com/html/881305.htm)
+
++ [堪比尼区远低土区：苹果 iCloud+ 国区限时 8.5 折，iPhone 17 系列官方云上扩容](https://m.ithome.com/html/881242.htm)
+
