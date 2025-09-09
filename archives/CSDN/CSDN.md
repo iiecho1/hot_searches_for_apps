@@ -137,3 +137,5 @@
 
 + [推荐算法之召回](https://blog.csdn.net/ChaneMo/article/details/147505999)
 
++ [人工智能-python-深度学习-经典神经网络AlexNet](https://blog.csdn.net/x112xxds/article/details/151325225)
+
