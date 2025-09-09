@@ -69,3 +69,5 @@
 
 + [【翻唱】「亮闪闪小夜曲」/きらきらセレナーデ](https://m.acfun.cn/v/?ac=47804849)
 
++ [又酷又飒~SO COOL](https://m.acfun.cn/v/?ac=47803557)
+
