@@ -201,3 +201,7 @@
 
 + [外媒观察丨美国内部分歧加剧 六成民众不认可美国关税政策](https://news.cctv.com/2025/09/09/ARTIvi5EsQu4UbbnBfOP6raj250909.shtml)
 
++ [美防长突访“扫毒前线” 委内瑞拉批美方“定位错误”](https://news.cctv.com/2025/09/09/ARTInfJbxg2tvbBlr6COJwFV250909.shtml)
+
++ [尼泊尔总理奥利辞职](https://news.cctv.com/2025/09/09/ARTIClcamdZ6b1NatfjSmg1V250909.shtml)
+
