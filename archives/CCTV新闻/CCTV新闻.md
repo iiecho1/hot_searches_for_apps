@@ -205,3 +205,5 @@
 
 + [尼泊尔总理奥利辞职](https://news.cctv.com/2025/09/09/ARTIClcamdZ6b1NatfjSmg1V250909.shtml)
 
++ [刚果（金）东部村庄遭袭击 已致约80人遇难](https://news.cctv.com/2025/09/09/ARTI4Mjw0PMlL6CN6j9HDLOP250909.shtml)
+
