@@ -105,3 +105,31 @@
 
 + [C/C++大雪纷飞①](https://blog.csdn.net/m0_68111267/article/details/151331599)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融市场风险评估与投资组合优化中的应用（407）](https://blog.csdn.net/atgfg/article/details/151290335)
+
++ [第二十届全国大学生智能汽车竞赛技术报告](https://blog.csdn.net/zhuoqingjoking97298/article/details/151355375)
+
++ [【Linux手册】管道通信：从内核底层原理到使用方法](https://blog.csdn.net/2401_87944878/article/details/150429323)
+
++ [Linux 之从硬件硬盘到文件系统的全面过渡](https://blog.csdn.net/2302_79376097/article/details/151153638)
+
++ [前端开发中WebAssembly与Web Storage API的集成优化实践](https://blog.csdn.net/qq_36287830/article/details/151283980)
+
++ [vue集成高德地图API工具类封装](https://blog.csdn.net/weixin_51326478/article/details/151326713)
+
++ [运维安全02，PAM介绍及其使用](https://blog.csdn.net/yyz13862243/article/details/151248133)
+
++ [最后一公里文件传输难题Localsend+cpolar破解](https://blog.csdn.net/Pocker_Spades_A/article/details/151358193)
+
++ [flutter鸿蒙：使用flutter_local_notifications实现本地通知](https://blog.csdn.net/2501_91974903/article/details/151328137)
+
++ [微信开放平台第三方平台，可以管理多个微信小程序](https://blog.csdn.net/LiuAustin/article/details/151323175)
+
++ [对计算机网络模型的理解](https://blog.csdn.net/2401_85973273/article/details/151323120)
+
++ [TCP/IP、HTTP 和 HTTPS简介](https://blog.csdn.net/m0_56508437/article/details/151330725)
+
++ [CSS rem单位](https://blog.csdn.net/wscfan/article/details/151323662)
+
++ [Vue的计算属性](https://blog.csdn.net/Mr_linsir/article/details/151321747)
+

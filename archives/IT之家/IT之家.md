@@ -25,3 +25,13 @@
 
 + [消息称阿里明日发布两个重磅业务：重启“口碑网”，高德上线自营团购](https://m.ithome.com/html/881519.htm)
 
++ [消息称小米内部通报：王腾因泄密被辞退（更新：本人已证实属实）](https://m.ithome.com/html/881373.htm)
+
++ [王腾发微博回应被小米辞退：过去犯了一些错误，接受该有的代价](https://m.ithome.com/html/881375.htm)
+
++ [OPPO 产品经理 Monica 宣布离职，曾贡献“高跟鞋踩手机”名场面](https://m.ithome.com/html/881343.htm)
+
++ [23.99 万元起长安全新深蓝 S09 车型上市：全新松木棕配色内饰、标配华为乾崑 ADS 4](https://m.ithome.com/html/881337.htm)
+
++ [消息称阿里将发布重磅业务，知情人士称与高德有关](https://m.ithome.com/html/881457.htm)
+
