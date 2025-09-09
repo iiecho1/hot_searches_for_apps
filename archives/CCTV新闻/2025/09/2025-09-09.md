@@ -197,3 +197,7 @@
 
 + [民主党人公开“特朗普致爱泼斯坦署名信” 白宫回应：假的！](https://news.cctv.com/2025/09/09/ARTIg98zRnu5imaDizUy2Wfd250909.shtml)
 
++ [外媒：美关税重创欧洲最大经济体 德国对美出口降至新低](https://news.cctv.com/2025/09/09/ARTIcvCcuBLU2mUYrBoeqtIl250909.shtml)
+
++ [外媒观察丨美国内部分歧加剧 六成民众不认可美国关税政策](https://news.cctv.com/2025/09/09/ARTIvi5EsQu4UbbnBfOP6raj250909.shtml)
+
