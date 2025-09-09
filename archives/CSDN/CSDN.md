@@ -209,3 +209,7 @@
 
 + [计算机网络学习（六、应用层）](https://blog.csdn.net/qq_62737390/article/details/151294443)
 
++ [虚竹哥与机械工业出版社免费送AI书活动第八期《AI驱动开发：企业级机器学习与自动化编程实战》](https://blog.csdn.net/shi_hong_fei_hei/article/details/151334825)
+
++ [微信小程序 - 解决报错 {“errcode“:41002,“errmsg“:“appid missing, rid: X“} 微信报错错误码errcode“:41002问题分析及解决教程（详细排查）](https://blog.csdn.net/weixin_44198965/article/details/151369421)
+

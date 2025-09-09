@@ -63,3 +63,17 @@
 
 + [堪比尼区远低土区：苹果 iCloud+ 国区限时 8.5 折，iPhone 17 系列官方云上扩容](https://m.ithome.com/html/881242.htm)
 
++ [苹果明日将发布 AirPods Pro 3 耳机：重点升级心率监测，降噪 / 音质改进不大](https://m.ithome.com/html/881393.htm)
+
++ [疑似小米 16 系列手机实机谍照曝光，消息称王腾被辞退“或与之有关”](https://m.ithome.com/html/881555.htm)
+
++ [消息称苹果明日发布 M5 iPad Pro，恰逢其十周年纪念](https://m.ithome.com/html/881385.htm)
+
++ [23.99 万元起长安全新深蓝 S09 车型上市：全新松木棕配色内饰、标配华为乾崑 ADS 4](https://m.ithome.com/html/881337.htm)
+
++ [再探苹果首款自研 5G 基带 C1 芯片：国内下载中位数 190.32 Mbps，弱信号下更稳](https://m.ithome.com/html/881382.htm)
+
++ [中国联通 eSIM 公众号“我的 eSIM”更名“联通 eSIM”，重新认证为“中国联通 eSIM 业务官方认证账号”](https://m.ithome.com/html/881533.htm)
+
++ [消息称阿里将发布重磅业务，知情人士称与高德有关](https://m.ithome.com/html/881457.htm)
+
