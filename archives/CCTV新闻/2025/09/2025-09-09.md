@@ -173,3 +173,11 @@
 
 + [联合国人权事务高级专员谴责以色列高官种族灭绝言论](https://news.cctv.com/2025/09/09/ARTIc3Y6EEAMMblLjLPVKkz0250909.shtml)
 
++ [欧尔班致信欧盟委员会 要求欧盟偿还匈牙利保护边境费用](https://news.cctv.com/2025/09/09/ARTIUouUKxGHhwqNW3PlGYQP250909.shtml)
+
++ [国际刑事法院推迟杜特尔特案听证会](https://news.cctv.com/2025/09/09/ARTIJp32QWlJrLQVBrCcZqvJ250909.shtml)
+
++ [美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点](https://news.cctv.com/2025/09/09/ARTI921hhajgTHvsg9EYIt4Y250909.shtml)
+
++ [日本自民党有意于10月4日举行党总裁选举](https://news.cctv.com/2025/09/09/ARTIjW70vpSBEWabiDeRP055250909.shtml)
+

@@ -137,3 +137,19 @@
 
 + [万字详解网络编程之socket](https://blog.csdn.net/hsjkdhs/article/details/151292753)
 
++ [2025算法八股——深度学习——优化器小结](https://blog.csdn.net/Zssss12/article/details/151290921)
+
++ [【RabbitMQ】----RabbitMQ 的7种工作模式](https://blog.csdn.net/mr_yuanshen/article/details/151309113)
+
++ [SpringBoot 数据脱敏实战： 构建企业级敏感信息保护体系](https://blog.csdn.net/jam_yin/article/details/151295743)
+
++ [【Linux指南】动静态库与链接机制：从原理到实践](https://blog.csdn.net/2302_78391795/article/details/149369569)
+
++ [Linux内核TCP协议深度解析：TIME-WAIT状态与连接管理](https://blog.csdn.net/eidolon_foot/article/details/151186924)
+
++ [Horse3D游戏引擎研发笔记（十）：在QtOpenGL环境下，摄像机带你正式进入三维世界（类Unity、Unreal Engine与Godot、Three.js）](https://blog.csdn.net/2503_92624912/article/details/151290425)
+
++ [Stirling PDF与cpolar：居家办公的云端PDF处理解决方案](https://blog.csdn.net/ks_wyf/article/details/151349854)
+
++ [Sentinel微服务保护](https://blog.csdn.net/qq_38673558/article/details/151218294)
+
