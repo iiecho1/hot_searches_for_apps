@@ -191,3 +191,9 @@
 
 + [加沙地带卫生部门呼吁保护医院和医务人员安全](https://news.cctv.com/2025/09/09/ARTIqt9OYIOXrakCYt1OmroS250909.shtml)
 
++ [美最高法院支持特朗普政府在加州的移民突袭执法政策](https://news.cctv.com/2025/09/09/ARTIKEA19StDLTje2bqbJY3G250909.shtml)
+
++ [德国将向乌克兰提供反无人机武器](https://news.cctv.com/2025/09/09/ARTIhRyTbPJnObcfiPCtm2Af250909.shtml)
+
++ [民主党人公开“特朗普致爱泼斯坦署名信” 白宫回应：假的！](https://news.cctv.com/2025/09/09/ARTIg98zRnu5imaDizUy2Wfd250909.shtml)
+
