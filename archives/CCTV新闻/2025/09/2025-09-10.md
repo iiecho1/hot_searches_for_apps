@@ -195,3 +195,9 @@
 
 + [波兰军方称无人机侵犯波领空为“侵略行为”](https://news.cctv.com/2025/09/10/ARTIeVVqU4oXEvtyd4ralsBf250910.shtml)
 
++ [英美资源与特克资源两大矿企同意合并](https://news.cctv.com/2025/09/10/ARTI6xsvIPKhXK0t2cNaLGEi250910.shtml)
+
++ [西班牙政府计划在部分露天区域禁烟](https://news.cctv.com/2025/09/10/ARTIsRRL70M2xTxsIkSUfzvM250910.shtml)
+
++ [南非总统：南非在对美贸易谈判中绝不会“卑躬屈膝”](https://news.cctv.com/2025/09/10/ARTIVT6wd08H8MPHnk28DTDY250910.shtml)
+

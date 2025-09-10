@@ -175,3 +175,5 @@
 
 + [所有微服务部署都使用一个git地址，并且通过docker部署各个服务的情况下，如何编写mvn指令来处理各个服务。](https://blog.csdn.net/TOOZOOY/article/details/151334839)
 
++ [AI 帮我写单测：pytest 覆盖率提升 40% 的协作日志](https://blog.csdn.net/IRpickstars/article/details/151394492)
+
