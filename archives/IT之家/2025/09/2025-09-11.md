@@ -37,3 +37,7 @@
 
 + [消息称苹果明日发布 M5 iPad Pro，恰逢其十周年纪念](https://m.ithome.com/html/881385.htm)
 
++ [（更新：中国移动也已支持）中国电信回应苹果 iPhone Air 仅支持 eSIM：eSIM 手机业务已全面准备就绪，将很快向用户开放](https://m.ithome.com/html/881791.htm)
+
++ [苹果 iPhone 17 / Air / Pro / Pro Max 上架京东，最低 5999 元支持国补](https://m.ithome.com/html/881747.htm)
+

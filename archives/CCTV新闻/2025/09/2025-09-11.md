@@ -163,3 +163,5 @@
 
 + [全球基金会：艾滋病、结核病和疟疾防治成效显著 未来面临新挑战](https://news.cctv.com/2025/09/11/ARTImiSLDJ53dlRF6lQbfK85250910.shtml)
 
++ [古巴再次全国大停电](https://news.cctv.com/2025/09/11/ARTIKsw5Q3NTTgmusmR1Yrlt250910.shtml)
+
