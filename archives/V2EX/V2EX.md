@@ -43,3 +43,5 @@
 
 + [17Air 的 esim「在中国大陆仅支持激活型号 A3518」](https://www.v2ex.com/t/1158132)
 
++ [1000 V2EX 征名](https://www.v2ex.com/t/1158222)
+
