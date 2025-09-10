@@ -167,3 +167,5 @@
 
 + [特朗普再次敦促美联储大幅降息：“美国没有通胀”](https://news.cctv.com/2025/09/11/ARTI65O3AjFQwVqIXjVS9hHT250910.shtml)
 
++ [柬泰两国表示坚定致力于和平解决边界问题](https://news.cctv.com/2025/09/11/ARTIOWcBsH25Ch6V32vzbYI8250910.shtml)
+
