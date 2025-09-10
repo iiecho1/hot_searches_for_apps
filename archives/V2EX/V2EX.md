@@ -47,3 +47,7 @@
 
 + [看了一下外版 iPhone 很多都取消 sim 卡槽了，那么老外来中国怎么办手机卡？](https://www.v2ex.com/t/1158156)
 
++ [原来所谓的 AI 代码生成就是这么个玩意?](https://www.v2ex.com/t/1158250)
+
++ [为什么我觉得国行 iPhone air 反而更实用](https://www.v2ex.com/t/1158168)
+
