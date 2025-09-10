@@ -161,3 +161,5 @@
 
 + [国际观察｜石破茂“体面”辞职 日政坛“一地鸡毛”](https://news.cctv.com/2025/09/08/ARTIF3vE8LOdqnbfgGKDoO1h250908.shtml)
 
++ [全球基金会：艾滋病、结核病和疟疾防治成效显著 未来面临新挑战](https://news.cctv.com/2025/09/11/ARTImiSLDJ53dlRF6lQbfK85250910.shtml)
+

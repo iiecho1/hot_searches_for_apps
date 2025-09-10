@@ -113,3 +113,25 @@
 
 + [Linux学习——管理网络安全（二十一） ](https://blog.csdn.net/m0_74197017/article/details/151366728)
 
++ [【深度学习计算机视觉】03：目标检测和边界框](https://blog.csdn.net/Morse_Chen/article/details/151333927)
+
++ [车牌模拟生成器：Python3.8+Opencv代码实现与商业应用前景（C#、python 开发包SDK）](https://blog.csdn.net/qyy864875866/article/details/151152717)
+
++ [计算机视觉(opencv)——基于模板匹配的身份证号识别系统](https://blog.csdn.net/2302_78022640/article/details/151352234)
+
++ [人工智能-python-深度学习-经典神经网络AlexNet](https://blog.csdn.net/x112xxds/article/details/151325225)
+
++ [Cursor 编辑器：面向 AI 编程的新一代 IDE](https://blog.csdn.net/yetyongjin/article/details/151368018)
+
++ [【花雕动手做】Kitronik 可编程开发板基于 ARCADE MakeCode 之星际战舰](https://blog.csdn.net/weixin_41659040/article/details/151407905)
+
++ [构建企业级Selenium爬虫：基于隧道代理的IP管理架构](https://blog.csdn.net/Z_suger7/article/details/151365568)
+
++ [GitHub高星标项目：基于大数据的心理健康分析系统Hadoop+Spark完整实现](https://blog.csdn.net/2401_86677951/article/details/151308694)
+
++ [并发编程的守护者：信号量与日志策略模式解析](https://blog.csdn.net/2402_84532723/article/details/150590589)
+
++ [【Linux】进程概念(一)：从冯诺依曼体系到 PCB 的进程核心解析](https://blog.csdn.net/2501_90265152/article/details/151293279)
+
++ [ARM -- 汇编语言](https://blog.csdn.net/cui__OaO/article/details/151329122)
+

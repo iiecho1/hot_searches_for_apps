@@ -21,3 +21,5 @@
 
 + [为什么我觉得国行 iPhone air 反而更实用](https://www.v2ex.com/t/1158168)
 
++ [港版的 iPhone 才是最优解（价格便宜，支持 SIM 卡，支持 esim 卡）](https://www.v2ex.com/t/1158204)
+
