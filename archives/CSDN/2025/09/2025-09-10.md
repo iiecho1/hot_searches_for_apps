@@ -177,3 +177,5 @@
 
 + [AI 帮我写单测：pytest 覆盖率提升 40% 的协作日志](https://blog.csdn.net/IRpickstars/article/details/151394492)
 
++ [微信群机器人-备份文件发送通知](https://blog.csdn.net/kevin_cat/article/details/151320241)
+
