@@ -207,3 +207,5 @@
 
 + [波兰总理称已正式提请启动《北大西洋公约》第四条](https://news.cctv.com/2025/09/10/ARTIhLNgTobnzZlxNVWDCB42250910.shtml)
 
++ [德国索林根持刀袭击案凶手被判处终身监禁](https://news.cctv.com/2025/09/10/ARTI2gavwg4N7SrOa0F4W59K250910.shtml)
+

@@ -31,3 +31,23 @@
 
 + [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent)
 
++ [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+
++ [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
+
++ [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+
++ [huggingface/aisheets](https://github.com/huggingface/aisheets)
+
++ [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
+
++ [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+
++ [microsoft/terminal](https://github.com/microsoft/terminal)
+
