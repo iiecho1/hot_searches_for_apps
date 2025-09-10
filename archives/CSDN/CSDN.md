@@ -151,3 +151,15 @@
 
 + [厨艺交流平台|基于Java+vue的厨艺交流平台系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/151363647)
 
++ [Transformer实战（17）——微调Transformer语言模型进行多标签文本分类](https://blog.csdn.net/LOVEmy134611/article/details/147875648)
+
++ [Matlab机器人工具箱使用2 DH建模与加载模型](https://blog.csdn.net/2301_80226956/article/details/151279907)
+
++ [【VR音游】音符轨道系统开发实录与原理解析（OpenXR手势交互）](https://blog.csdn.net/qq_41140324/article/details/151369119)
+
++ [Nginx 实战系列（六）—— Nginx 性能优化与防盗链配置指南](https://blog.csdn.net/qq_41978931/article/details/151351618)
+
++ [Flutter 官方 LLM 动态 UI 库 flutter_genui 发布，让 App UI 自己生成 UI](https://blog.csdn.net/ZuoYueLiang/article/details/151356364)
+
++ [Sentinel微服务保护](https://blog.csdn.net/qq_38673558/article/details/151218294)
+

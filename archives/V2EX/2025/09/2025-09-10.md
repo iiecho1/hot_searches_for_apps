@@ -39,3 +39,7 @@
 
 + [阿里这次要干死美团？](https://www.v2ex.com/t/1158052)
 
++ [Airpods Pro3 发布了，降噪提升至 2 倍，续航提升至 8 小时，感觉很值得换？](https://www.v2ex.com/t/1158128)
+
++ [17Air 的 esim「在中国大陆仅支持激活型号 A3518」](https://www.v2ex.com/t/1158132)
+
