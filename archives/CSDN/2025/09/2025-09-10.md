@@ -147,3 +147,7 @@
 
 + [网络原理——传输层协议UDP](https://blog.csdn.net/2301_79705195/article/details/151363309)
 
++ [【SpringAI Alibaba】快速搭建带对话记忆与历史追溯的 智能客服聊天机器人](https://blog.csdn.net/2302_79806056/article/details/150859880)
+
++ [厨艺交流平台|基于Java+vue的厨艺交流平台系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/151363647)
+

@@ -173,3 +173,13 @@
 
 + [南非总统：G20峰会将致力于推动全球南方发展议程](https://news.cctv.com/2025/09/10/ARTItkBW3xkUo5bgWb53lkqU250910.shtml)
 
++ [加沙民众 向南撤离](https://photo.cctv.com/2025/09/10/PHOAaHDzv3KQGymOAH16okCg250910.shtml)
+
++ [因“计划外军事行动” 波兰4个主要机场临时关闭](https://news.cctv.com/2025/09/10/ARTI6PlVtRA0DpAr5kIirnb6250910.shtml)
+
++ [特朗普：对以色列袭击卡塔尔“并不感到高兴”](https://news.cctv.com/2025/09/10/ARTIAypLGDLTuKKU4lkHK6FK250910.shtml)
+
++ [以色列在卡塔尔突袭细节曝光 美国试图撇清关系](https://news.cctv.com/2025/09/10/ARTIDVSxi1qs9vCwKdkglKzD250910.shtml)
+
++ [10枚导弹只打一处 以军筹划数月越境袭击哈马斯高层 中东局势再升级](https://news.cctv.com/2025/09/10/ARTIsiKYsnUwufxlty7mGwA0250910.shtml)
+
