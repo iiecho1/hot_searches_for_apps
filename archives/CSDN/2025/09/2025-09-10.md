@@ -193,3 +193,15 @@
 
 + [EasyExcel：快速读写Excel的工具类](https://blog.csdn.net/qq_66250368/article/details/151373843)
 
++ [SpringMVC 程序开发](https://blog.csdn.net/phltxy/article/details/151319782)
+
++ [【花雕动手做】Kitronik 可编程开发板基于 ARCADE MakeCode 之星际战舰](https://blog.csdn.net/weixin_41659040/article/details/151407905)
+
++ [VMware与cpolar：虚拟机跨网络协作的无缝解决方案](https://blog.csdn.net/qq_58286439/article/details/151372074)
+
++ [基于Python的旅游数据分析可视化系统【2026最新】](https://blog.csdn.net/2301_78335941/article/details/151372963)
+
++ [uniapp微信小程序：腾讯地图路线规划+导航(起点/重点)+路程距离+路程所需时间等，uniapp腾讯地图实现路线规划，导航，获取路程距离及时间（线路规划，导航及距离计算，自定义展示数据，详细源码）](https://blog.csdn.net/weixin_50545213/article/details/151403324)
+
++ [【Linux系统】日志与策略模式](https://blog.csdn.net/2402_82670467/article/details/151407251)
+

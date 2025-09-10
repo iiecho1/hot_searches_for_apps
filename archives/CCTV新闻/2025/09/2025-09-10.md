@@ -209,3 +209,7 @@
 
 + [德国索林根持刀袭击案凶手被判处终身监禁](https://news.cctv.com/2025/09/10/ARTI2gavwg4N7SrOa0F4W59K250910.shtml)
 
++ [时习之丨团结合作 砥砺前行 习近平推动“大金砖合作”开新局](https://news.cctv.com/2025/09/10/ARTIAneIlN6YCHDfGQsbJF1L250910.shtml)
+
++ [有人动武有人“浇油” 欧洲剑指俄罗斯](https://news.cctv.com/2025/09/10/ARTIQOW1rCWxhix4yASXfrBR250910.shtml)
+
