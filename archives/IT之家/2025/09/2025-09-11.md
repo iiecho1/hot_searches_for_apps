@@ -25,3 +25,15 @@
 
 + [疑似苹果 iPhone 17 Air 国行包装盒物料曝光，系列机型有望直接叫“iPhone Air”](https://m.ithome.com/html/881634.htm)
 
++ [苹果明日将发布 AirPods Pro 3 耳机：重点升级心率监测，降噪 / 音质改进不大](https://m.ithome.com/html/881393.htm)
+
++ [王腾辟谣关于自己离职小米的谣言：没有窃取机密出售、没有收人钱财；有失职，深刻反省中](https://m.ithome.com/html/881418.htm)
+
++ [5999 元起苹果 iPhone 17 / Air / Pro / Pro Max 国行价格公布，标准版支持国补](https://m.ithome.com/html/881683.htm)
+
++ [知情人士否认王腾被辞退是因为向外部机构提供小米汽车定价策略](https://m.ithome.com/html/881398.htm)
+
++ [iPhone 17 系列发布会前夕，苹果 Apple Store 线上商店、天猫官方旗舰店开始维护](https://m.ithome.com/html/881615.htm)
+
++ [消息称苹果明日发布 M5 iPad Pro，恰逢其十周年纪念](https://m.ithome.com/html/881385.htm)
+

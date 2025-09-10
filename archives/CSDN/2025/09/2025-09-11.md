@@ -101,3 +101,15 @@
 
 + [智慧养老平台|基于SprinBoot+vue的智慧养老平台系统](https://blog.csdn.net/m0_51868342/article/details/151407468)
 
++ [中国天文大模型创新：FALCO时域光变、天一大模型与多模态突破](https://blog.csdn.net/Liudef06/article/details/151356083)
+
++ [【数据库】时序数据库科学选型，以IoTDB构筑大数据时代的时序数据底座](https://blog.csdn.net/qq_38628970/article/details/151314867)
+
++ [第二十届全国大学生智能汽车竞赛技术报告](https://blog.csdn.net/zhuoqingjoking97298/article/details/151355375)
+
++ [Matlab机器人工具箱使用2 DH建模与加载模型](https://blog.csdn.net/2301_80226956/article/details/151279907)
+
++ [SpringMVC 程序开发](https://blog.csdn.net/phltxy/article/details/151319782)
+
++ [Linux学习——管理网络安全（二十一） ](https://blog.csdn.net/m0_74197017/article/details/151366728)
+
