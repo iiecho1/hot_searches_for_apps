@@ -171,3 +171,11 @@
 
 + [联合国秘书长欢迎伊朗与国际原子能机构达成新合作协议](https://news.cctv.com/2025/09/11/ARTIRsdgwIRd3W1JDPBFzOIq250911.shtml)
 
++ [法国多地发生大规模示威 抗议削减财政支出](https://news.cctv.com/2025/09/11/ARTIxQ4iZ4b98tI93lQ4yfoR250911.shtml)
+
++ [欧洲议会第三大党团提出针对冯德莱恩的不信任动议](https://news.cctv.com/2025/09/11/ARTI7ZAND2hW58RRnlq8A57G250911.shtml)
+
++ [特朗普政治盟友演讲时遭枪击身亡](https://news.cctv.com/2025/09/11/ARTIyMGF4G3TG4Old0wCLVVv250911.shtml)
+
++ [以色列总统与英国首相举行“激烈”会谈 双方分歧凸显](https://news.cctv.com/2025/09/11/ARTIqVhyO1TS1KyLUpUqElMp250911.shtml)
+

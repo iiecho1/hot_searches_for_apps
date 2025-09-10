@@ -41,3 +41,7 @@
 
 + [苹果 iPhone 17 / Air / Pro / Pro Max 上架京东，最低 5999 元支持国补](https://m.ithome.com/html/881747.htm)
 
++ [苹果 iPhone 17 系列快充性能升级：搭配 40W 充电器可 20 分钟充至 50% 电量，但 Air 仍保持 iPhone 16 级速率](https://m.ithome.com/html/881733.htm)
+
++ [苹果的特殊照顾：iPhone Air 韩国官网没有捏合手势动画](https://m.ithome.com/html/881810.htm)
+
