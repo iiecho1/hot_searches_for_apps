@@ -165,3 +165,5 @@
 
 + [古巴再次全国大停电](https://news.cctv.com/2025/09/11/ARTIKsw5Q3NTTgmusmR1Yrlt250910.shtml)
 
++ [特朗普再次敦促美联储大幅降息：“美国没有通胀”](https://news.cctv.com/2025/09/11/ARTI65O3AjFQwVqIXjVS9hHT250910.shtml)
+
