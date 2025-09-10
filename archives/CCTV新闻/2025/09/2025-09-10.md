@@ -201,3 +201,9 @@
 
 + [南非总统：南非在对美贸易谈判中绝不会“卑躬屈膝”](https://news.cctv.com/2025/09/10/ARTIVT6wd08H8MPHnk28DTDY250910.shtml)
 
++ [推进“大金砖合作” 携手构建人类命运共同体——习近平主席重要讲话为金砖国家共创美好未来指明方向](https://news.cctv.com/2025/09/10/ARTIfnJZJy81KwCrfUOLtDCQ250910.shtml)
+
++ [德国再次援乌两套“爱国者” 首批发射车已交付](https://news.cctv.com/2025/09/10/ARTIrGIpIt1LOw1z71S2h7xD250910.shtml)
+
++ [波兰总理称已正式提请启动《北大西洋公约》第四条](https://news.cctv.com/2025/09/10/ARTIhLNgTobnzZlxNVWDCB42250910.shtml)
+
