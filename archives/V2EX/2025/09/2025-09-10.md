@@ -45,3 +45,5 @@
 
 + [1000 V2EX 征名](https://www.v2ex.com/t/1158222)
 
++ [看了一下外版 iPhone 很多都取消 sim 卡槽了，那么老外来中国怎么办手机卡？](https://www.v2ex.com/t/1158156)
+

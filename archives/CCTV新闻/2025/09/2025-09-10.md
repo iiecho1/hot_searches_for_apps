@@ -187,3 +187,11 @@
 
 + [波兰军方称动用武力击落侵犯其领空无人机及飞行物](https://news.cctv.com/2025/09/10/ARTIwauNLLoXG4M0LoNtRc6u250910.shtml)
 
++ [不能忘却！300余件文物见证国际友人跨越山海并肩抗战](https://news.cctv.com/2025/09/10/ARTIdFijpoHPM3DULO00O8uk250910.shtml)
+
++ [俄“进步MS-30”货运飞船结束任务坠入太平洋](https://news.cctv.com/2025/09/10/ARTImvFwxcw4NwiLFwLntZB5250910.shtml)
+
++ [中东战地手记丨爆炸声中的多哈](https://news.cctv.com/2025/09/10/ARTIgUl5QWZkCrD3FrkQg4ZV250910.shtml)
+
++ [波兰军方称无人机侵犯波领空为“侵略行为”](https://news.cctv.com/2025/09/10/ARTIeVVqU4oXEvtyd4ralsBf250910.shtml)
+

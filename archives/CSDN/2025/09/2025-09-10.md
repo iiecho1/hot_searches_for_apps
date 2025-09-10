@@ -167,3 +167,7 @@
 
 + [Vue框架技术详解——项目驱动概念理解【前端】【Vue】](https://blog.csdn.net/amazing2024/article/details/151226467)
 
++ [Atlassian 官宣将全面停售jira/Confluence Data Center 版，政策深度解读](https://blog.csdn.net/weixin_44280696/article/details/151365622)
+
++ [【 ​​SQL注入漏洞靶场】第二关文件读写](https://blog.csdn.net/2302_80252080/article/details/151325838)
+

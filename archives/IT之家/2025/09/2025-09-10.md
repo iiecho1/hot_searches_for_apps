@@ -63,3 +63,21 @@
 
 + [堪比尼区远低土区：苹果 iCloud+ 国区限时 8.5 折，iPhone 17 系列官方云上扩容](https://m.ithome.com/html/881242.htm)
 
++ [苹果 2025 秋季新品发布会一文汇总：iPhone 17 系列登场、手表耳机焕新](https://m.ithome.com/html/881721.htm)
+
++ [7999 元起苹果“史上最薄”iPhone Air 手机发布：5.6mm 厚度钛金属中框、eSIM + A19 Pro + C1X 自研调制解调器](https://m.ithome.com/html/881678.htm)
+
++ [小米卢伟冰认为“绝对是 iPhone 变化最大的一年”：17 标准版牙膏挤爆，Air 非常惊艳](https://m.ithome.com/html/881724.htm)
+
++ [苹果 iPhone 17 Pro / Pro Max 手机发布：全新 48MP 三摄、VC 均热板、可选 2TB，售价 8999 元起](https://m.ithome.com/html/881682.htm)
+
++ [苹果 iPhone 17 系列内存确认：标准版保留 8GB，Air / Pro / Pro Max 升级 12GB](https://m.ithome.com/html/881714.htm)
+
++ [5999 元起：苹果 iPhone 17 上手，6.3 英寸 120Hz 屏幕、256GB 起步](https://m.ithome.com/html/881709.htm)
+
++ [8999 元起：苹果 iPhone 17 Pro / Pro Max 上手，双拼背板、橙色吸睛](https://m.ithome.com/html/881710.htm)
+
++ [史诗级更新：苹果 iPhone 17 标准版首次配备 120Hz ProMotion 刷新率 6.3 英寸面板、3000 尼特峰值亮度](https://m.ithome.com/html/881671.htm)
+
++ [苹果 iPhone 17 / Air / Pro / Pro Max 上架京东，最低 5999 元支持国补](https://m.ithome.com/html/881747.htm)
+
