@@ -95,3 +95,7 @@
 
 + [快速看完一局韩服王者斗殴局#720 Rookie, GALA,DDoiV, Haetae, Assu](https://m.acfun.cn/v/?ac=47805436)
 
++ [阴间砍王传奇11：不输织姬和乱菊的雷神空鹤！流魂街的烟火师](https://m.acfun.cn/v/?ac=47804290)
+
++ [从设计到成品自己全搞定，一位宅男造出的数码产品吉祥机](https://m.acfun.cn/v/?ac=47806780)
+
