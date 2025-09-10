@@ -139,3 +139,5 @@
 
 + [Vue3+Node.js 实现大文件上传：断点续传、秒传、分片上传完整教程（含源码）](https://blog.csdn.net/qq_42696432/article/details/151365239)
 
++ [【AI智能体】Dify 搭建个人专属简历诊断助手实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/150447835)
+

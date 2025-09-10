@@ -169,3 +169,5 @@
 
 + [柬泰两国表示坚定致力于和平解决边界问题](https://news.cctv.com/2025/09/11/ARTIOWcBsH25Ch6V32vzbYI8250910.shtml)
 
++ [联合国秘书长欢迎伊朗与国际原子能机构达成新合作协议](https://news.cctv.com/2025/09/11/ARTIRsdgwIRd3W1JDPBFzOIq250911.shtml)
+
