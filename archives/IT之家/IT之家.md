@@ -57,3 +57,9 @@
 
 + [央视军事：赤道周长约为 4 万公里，理论上洲际导弹射程达 2 万公里就能覆盖全球](https://m.ithome.com/html/881274.htm)
 
++ [小米 13 手机突发爆炸致 3 岁男童受伤，客服回应需专业检测确定自燃原因](https://m.ithome.com/html/881422.htm)
+
++ [比亚迪起诉长城坦克 CEO 常尧侵权，后者已失联两个月](https://m.ithome.com/html/881305.htm)
+
++ [堪比尼区远低土区：苹果 iCloud+ 国区限时 8.5 折，iPhone 17 系列官方云上扩容](https://m.ithome.com/html/881242.htm)
+
