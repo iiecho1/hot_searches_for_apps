@@ -219,3 +219,5 @@
 
 + [希腊两个月报告75例西尼罗病毒感染病例 5人死亡](https://news.cctv.com/2025/09/11/ARTINxMTs6LiEZihHaQN2U28250911.shtml)
 
++ [“封锁法国”示威席卷法兰西 新总理上台碰上全国抗议](https://news.cctv.com/2025/09/11/ARTIdMqrJbGQNUxyPYm1HaHi250911.shtml)
+

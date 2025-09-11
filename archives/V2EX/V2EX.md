@@ -57,3 +57,5 @@
 
 + [[送码]做了一个媲美 Reeder，并支持 AI 指令和 TTS,Podcast 的 RSS 阅读器，并上架了 AppStore 和 Google Play](https://www.v2ex.com/t/1158494)
 
++ [感觉跟自己的对象无法交流是怎么回事 0-0](https://www.v2ex.com/t/1158528)
+
