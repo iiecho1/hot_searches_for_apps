@@ -33,3 +33,23 @@
 
 + [microsoft/terminal](https://github.com/microsoft/terminal)
 
++ [google/material-design-icons](https://github.com/google/material-design-icons)
+
++ [ccfos/nightingale](https://github.com/ccfos/nightingale)
+
++ [mxrch/GHunt](https://github.com/mxrch/GHunt)
+
++ [agno-agi/agno](https://github.com/agno-agi/agno)
+
++ [MotiaDev/motia](https://github.com/MotiaDev/motia)
+
++ [epfml/ML_course](https://github.com/epfml/ML_course)
+
++ [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
++ [supabase/supabase](https://github.com/supabase/supabase)
+
++ [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+

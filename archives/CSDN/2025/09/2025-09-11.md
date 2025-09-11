@@ -193,3 +193,9 @@
 
 + [WhatWeb-网站安全扫描指纹识别](https://blog.csdn.net/m0_67906358/article/details/151576143)
 
++ [Horse3D游戏引擎研发笔记（十）：在QtOpenGL环境下，视图矩阵与投影矩阵（摄像机）带你正式进入三维世界（类Unity、Unreal Engine与Godot、Three.js）](https://blog.csdn.net/2503_92624912/article/details/151290425)
+
++ [健康综合咨询问诊平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/151561940)
+
++ [Maven多环境配置指南：用Profile实现开发/测试/生产环境无缝切换](https://blog.csdn.net/Tang_is_learning/article/details/151456083)
+
