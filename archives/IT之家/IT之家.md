@@ -63,3 +63,13 @@
 
 + [工信部发布苹果 iOS / iPadOS / macOS 高危漏洞风险提示，呼吁用户及时更新系统](https://m.ithome.com/html/881868.htm)
 
++ [苹果 iPhone 17 Pro / Max GPU 跑分曝光：A19 Pro 较 A18 Pro 最多提升 40.83%](https://m.ithome.com/html/882048.htm)
+
++ [华为乾崑回应“哨兵增强模式为何单独收费”：属于增值业务，会占用与消耗云端存储空间与计算资源](https://m.ithome.com/html/882006.htm)
+
++ [追觅汽车首款车型渲染图公布：神似布加迪，样车年底 CES 2026 首发](https://m.ithome.com/html/881896.htm)
+
++ [299 元起，苹果官网上架全新精织斜纹材质 Magsafe 卡包、AirTag 钥匙扣](https://m.ithome.com/html/881966.htm)
+
++ [小米 16 手机规格曝光：6.3 英寸 120Hz 屏幕、骁龙 8 Elite Gen 5 芯片、7000mAh 电池](https://m.ithome.com/html/882092.htm)
+

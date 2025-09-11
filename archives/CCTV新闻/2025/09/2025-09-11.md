@@ -221,3 +221,7 @@
 
 + [“封锁法国”示威席卷法兰西 新总理上台碰上全国抗议](https://news.cctv.com/2025/09/11/ARTIdMqrJbGQNUxyPYm1HaHi250911.shtml)
 
++ [受武装冲突影响 苏丹约1300万儿童失学](https://news.cctv.com/2025/09/11/ARTIgFqb8xjbKTKwvDpySqeC250911.shtml)
+
++ [日本前经济安全保障担当大臣小林鹰之有意参加自民党总裁选举](https://news.cctv.com/2025/09/11/ARTIpnUVFibhSAftS4SUDoYJ250911.shtml)
+
