@@ -187,3 +187,9 @@
 
 + [uniapp - 解决在线预览PDF文件空白打不开的问题，无论是后端下载二进制文件流pdf还是本地插件或JS预览查看打开白屏不显示，详细排查解决（适用于移动端H5网页、安卓/苹果app、微信小程序）](https://blog.csdn.net/weixin_44198965/article/details/151574564)
 
++ [【linux仓库】徒手造轮子：从零设计一个迷你libc，揭秘C库函数的系统调用封装艺术(附源码)](https://blog.csdn.net/egoist2023/article/details/151575997)
+
++ [（九）Spring Cloud Alibaba 2023.x：微服务接口文档统一管理与聚合](https://blog.csdn.net/qq_39818325/article/details/151577348)
+
++ [WhatWeb-网站安全扫描指纹识别](https://blog.csdn.net/m0_67906358/article/details/151576143)
+
