@@ -233,3 +233,7 @@
 
 + [李在明：美国“抓人”事件或影响韩企对美投资](https://news.cctv.com/2025/09/11/ARTIG98sDIad3ffU9uuuoYn6250911.shtml)
 
++ [英国驻美大使因与爱泼斯坦关系密切被解职](https://news.cctv.com/2025/09/11/ARTIFYppwzshVg8G1cRsnze2250911.shtml)
+
++ [欧洲议会通过决议 呼吁欧盟成员国考虑承认巴勒斯坦国](https://news.cctv.com/2025/09/11/ARTIwaZiCUrvok9tzdRD7U7N250911.shtml)
+

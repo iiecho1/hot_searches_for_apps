@@ -73,3 +73,21 @@
 
 + [小米 16 手机规格曝光：6.3 英寸 120Hz 屏幕、骁龙 8 Elite Gen 5 芯片、7000mAh 电池](https://m.ithome.com/html/882092.htm)
 
++ [连 17 标准版都不如：苹果 iPhone Air 的 USB-C 接口缺失“DisplayPort”功能](https://m.ithome.com/html/882116.htm)
+
++ [小米金凡终于上号：直言澎湃 OS 3 远没到“开香槟”的时候，会继续闭关努力打磨产品](https://m.ithome.com/html/882120.htm)
+
++ [京东回应“王腾将入职小米采销岗”：目前没有相关安排和计划](https://m.ithome.com/html/882138.htm)
+
++ [苹果 CEO 库克谈 iPhone Air，拿在手中轻得像要“飘走”](https://m.ithome.com/html/882086.htm)
+
++ [苹果 iPhone 17 系列手机京东预约量破 584.1 万人，天猫预约量较上一代增近 3 倍](https://m.ithome.com/html/882278.htm)
+
++ [网信部门依法查处小红书平台破坏网络生态案件](https://m.ithome.com/html/882119.htm)
+
++ [OPPO 陈希“锐评”iPhone 17「诚意满满」：安卓和苹果之间的差距在逐年减小，不然不会逼的苹果挤爆牙膏和让出价格](https://m.ithome.com/html/882149.htm)
+
++ [华为鸿蒙 HarmonyOS 6 开发者版本体验招募（一期）开启，支持 Mate 70、Pura X 等 11 款机型](https://m.ithome.com/html/882019.htm)
+
++ [甲骨文股价暴涨 41%，创 1992 年以来最大盘中涨幅](https://m.ithome.com/html/882014.htm)
+
