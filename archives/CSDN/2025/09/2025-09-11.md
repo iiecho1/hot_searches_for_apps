@@ -141,3 +141,7 @@
 
 + [【AI智能体】Dify 搭建个人专属简历诊断助手实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/150447835)
 
++ [C++的诗行：一文读懂C++的继承机制](https://blog.csdn.net/yue_2899799318/article/details/144723188)
+
++ [我的创作纪念日 程序控设备，分享筑匠心：一位 PLC 自动化创作者的成长之路](https://blog.csdn.net/qq_41939260/article/details/151426663)
+
