@@ -237,3 +237,5 @@
 
 + [欧洲议会通过决议 呼吁欧盟成员国考虑承认巴勒斯坦国](https://news.cctv.com/2025/09/11/ARTIwaZiCUrvok9tzdRD7U7N250911.shtml)
 
++ [日本关东地区遭遇“创纪录短时强降雨”](https://news.cctv.com/2025/09/11/ARTI12CJaRKvZ4ptKfZZZysj250911.shtml)
+

@@ -217,3 +217,9 @@
 
 + [六级第一关——下楼梯](https://blog.csdn.net/bettyly/article/details/151330965)
 
++ [【花雕动手做】Kitronik 可编程开发板基于 ARCADE MakeCode 之公主披萨游戏](https://blog.csdn.net/weixin_41659040/article/details/151584327)
+
++ [SpringBoot和mybatis-plus配置问题报错：Error starting ApplicationContext. To display the condition ev...如何解决？](https://blog.csdn.net/weixin_43970743/article/details/151575825)
+
++ [k8s+jenkins+harbor构建Devops平台](https://blog.csdn.net/Javaxsing/article/details/151324991)
+
