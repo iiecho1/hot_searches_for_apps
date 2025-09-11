@@ -203,3 +203,7 @@
 
 + [特朗普盟友演讲时遭枪击身亡 现场视频曝光](https://news.cctv.com/2025/09/11/ARTI85DtL0gSVDDQ3CTaKts3250911.shtml)
 
++ [驻日美军性暴力事件频发 美国国防部启动调查](https://news.cctv.com/2025/09/11/ARTIx1f224T6vQjefzWUIm0O250911.shtml)
+
++ [英国伦敦地铁罢工持续 市长呼吁骑车出行](https://news.cctv.com/2025/09/11/ARTI82iaa9Y98vT7AnxrQHvE250911.shtml)
+
