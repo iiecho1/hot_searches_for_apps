@@ -207,3 +207,9 @@
 
 + [英国伦敦地铁罢工持续 市长呼吁骑车出行](https://news.cctv.com/2025/09/11/ARTI82iaa9Y98vT7AnxrQHvE250911.shtml)
 
++ [比预期更糟 美国大幅下调年度就业增长数据](https://news.cctv.com/2025/09/11/ARTIFIl0RREPNTux2RgsKGVd250911.shtml)
+
++ [苏丹武装冲突已致该国经济损失约7710亿美元](https://news.cctv.com/2025/09/11/ARTIri3rHmfzVX0bARWVxmWC250911.shtml)
+
++ [被解雇FBI官员起诉特朗普政府 称“遭报复”](https://news.cctv.com/2025/09/11/ARTICpnG0FTNwejcJtG50RdH250911.shtml)
+

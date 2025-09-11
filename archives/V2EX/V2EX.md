@@ -51,3 +51,5 @@
 
 + [大家汽车都加啥玻璃水？](https://www.v2ex.com/t/1158493)
 
++ [今天更新了 Chrome，现在完全用不了 manifest v2 了，有没有 ublock origin 的替代品](https://www.v2ex.com/t/1158399)
+
