@@ -227,3 +227,9 @@
 
 + [与西班牙“掐架”后 以色列又跟英国吵起来了](https://news.cctv.com/2025/09/11/ARTIYMlNSqTXasjLtJNxqcoC250911.shtml)
 
++ [英国将为乌克兰生产拦截型无人机 首批交付1000架](https://news.cctv.com/2025/09/11/ARTIUhoLsRZhkHm3QPcRAWfG250911.shtml)
+
++ [日本在野党递交书面文件 要求尽早召开临时国会](https://news.cctv.com/2025/09/11/ARTIhE6fGYxA1mJZ3rp3PRq7250911.shtml)
+
++ [李在明：美国“抓人”事件或影响韩企对美投资](https://news.cctv.com/2025/09/11/ARTIG98sDIad3ffU9uuuoYn6250911.shtml)
+
