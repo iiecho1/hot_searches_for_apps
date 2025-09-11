@@ -59,3 +59,17 @@
 
 + [荣耀郭锐：iPhone 17 外观设计确实亮眼，但 AI 功能在国内还没真正落地](https://m.ithome.com/html/882047.htm)
 
++ [256G 仅 5499 元 + 24 期免息：苹果 iPhone 17 全系京东换新至高立减 2100 元](https://m.ithome.com/html/881879.htm)
+
++ [苹果 iPhone 17 Pro 手机 A19 Pro 芯片跑分出炉：单核性能较 A18 Pro 提升 13%](https://m.ithome.com/html/881886.htm)
+
++ [首发即国补：苹果 AirPods Pro 3 无线耳机 1614 元 12 期免息（限地区）](https://m.ithome.com/html/881859.htm)
+
++ [苹果 iPhone 17 系列发布后三星开启嘲讽模式：没折叠、噱头大、48MP 三镜头不等于 200MP](https://m.ithome.com/html/881931.htm)
+
++ [苹果 17 系列发布后 iPhone 16 Pro / Max 已下架，16 / Plus 降价 600/1000 元](https://m.ithome.com/html/881833.htm)
+
++ [工信部发布苹果 iOS / iPadOS / macOS 高危漏洞风险提示，呼吁用户及时更新系统](https://m.ithome.com/html/881868.htm)
+
++ [追觅汽车首款车型渲染图公布：神似布加迪，样车年底 CES 2026 首发](https://m.ithome.com/html/881896.htm)
+

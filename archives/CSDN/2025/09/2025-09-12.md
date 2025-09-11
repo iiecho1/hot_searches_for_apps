@@ -123,3 +123,5 @@
 
 + [Blender来设计一个机器宠物-完整的3D建模流程](https://blog.csdn.net/ITzaibadong/article/details/151374459)
 
++ [专题：2025人形机器人、工业机器人、智能焊接机器人、扫地机器人产业洞察报告 | 附158+份报告PDF、数据仪表盘汇总下载](https://blog.csdn.net/qq_19600291/article/details/151366314)
+
