@@ -161,3 +161,5 @@
 
 + [外媒观察丨美国内部分歧加剧 六成民众不认可美国关税政策](https://news.cctv.com/2025/09/09/ARTIvi5EsQu4UbbnBfOP6raj250909.shtml)
 
++ [马杜罗：委内瑞拉将在全国284个“前线”地点部署防御力量](https://news.cctv.com/2025/09/12/ARTINUG5Md8uXLCwYA3sgIJP250911.shtml)
+

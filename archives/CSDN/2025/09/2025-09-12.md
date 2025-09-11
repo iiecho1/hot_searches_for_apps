@@ -107,3 +107,19 @@
 
 + [Android 系统通知内部工作原理揭秘](https://blog.csdn.net/vitaviva/article/details/151254325)
 
++ [【SpringAI Alibaba】快速搭建带对话记忆与历史追溯的 智能客服聊天机器人](https://blog.csdn.net/2302_79806056/article/details/150859880)
+
++ [性能测试-jmeter10-分布式测试](https://blog.csdn.net/DW_101/article/details/151431824)
+
++ [【Linux】老板给你画的大饼起源于虚拟空间地址](https://blog.csdn.net/wheeldown/article/details/151573363)
+
++ [WhatWeb-网站安全扫描指纹识别](https://blog.csdn.net/m0_67906358/article/details/151576143)
+
++ [鸿蒙（HarmonyOS) 历史](https://blog.csdn.net/hemoparrot/article/details/151373006)
+
++ [Java Web 应用中的 SQL 注入与 XSS 攻击防御方法研究](https://blog.csdn.net/weixin_52908342/article/details/151588863)
+
++ [【三维重建】3R-GS：优化相机位姿的3DGS最佳实践](https://blog.csdn.net/qq_45752541/article/details/151353872)
+
++ [Blender来设计一个机器宠物-完整的3D建模流程](https://blog.csdn.net/ITzaibadong/article/details/151374459)
+

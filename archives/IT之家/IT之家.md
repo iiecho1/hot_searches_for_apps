@@ -49,3 +49,13 @@
 
 + [苹果的特殊照顾：iPhone Air 韩国官网没有捏合手势动画](https://m.ithome.com/html/881810.htm)
 
++ [苹果 iPhone 17 系列手机京东预约量破 584.1 万人，天猫预约量较上一代增近 3 倍](https://m.ithome.com/html/882278.htm)
+
++ [OPPO 陈希“锐评”iPhone 17「诚意满满」：安卓和苹果之间的差距在逐年减小，不然不会逼的苹果挤爆牙膏和让出价格](https://m.ithome.com/html/882149.htm)
+
++ [小红书回应被网信办约谈：已第一时间成立整改专项工作小组，推进热搜榜单生态专项治理](https://m.ithome.com/html/882239.htm)
+
++ [19.79 万元起，新一代智己 LS6 车型上市 27 分钟大定破万台](https://m.ithome.com/html/882045.htm)
+
++ [荣耀郭锐：iPhone 17 外观设计确实亮眼，但 AI 功能在国内还没真正落地](https://m.ithome.com/html/882047.htm)
+
