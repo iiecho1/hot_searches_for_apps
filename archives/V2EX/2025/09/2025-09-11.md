@@ -53,3 +53,7 @@
 
 + [今天更新了 Chrome，现在完全用不了 manifest v2 了，有没有 ublock origin 的替代品](https://www.v2ex.com/t/1158399)
 
++ [花个 10 万办个婚礼有必要吗](https://www.v2ex.com/t/1158523)
+
++ [[送码]做了一个媲美 Reeder，并支持 AI 指令和 TTS,Podcast 的 RSS 阅读器，并上架了 AppStore 和 Google Play](https://www.v2ex.com/t/1158494)
+
