@@ -159,3 +159,9 @@
 
 + [ARM 汇编学习](https://blog.csdn.net/m0_66592645/article/details/151370554)
 
++ [从架构师到技术总监的转变](https://blog.csdn.net/lilinhai548/article/details/151555094)
+
++ [《嵌入式硬件（六）：ARM汇编核心内容总结》](https://blog.csdn.net/weixin_72612809/article/details/151425455)
+
++ [RISC-V体系架构](https://blog.csdn.net/qq_36115224/article/details/151357869)
+
