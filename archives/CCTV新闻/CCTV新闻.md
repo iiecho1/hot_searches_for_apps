@@ -199,3 +199,7 @@
 
 + [俄外交部重申俄方愿就无人机事件与波兰磋商](https://news.cctv.com/2025/09/11/ARTIXrlYHW5saC7cYkSYoNYf250911.shtml)
 
++ [墨西哥城液化石油气槽罐车爆炸事故致3死70伤](https://news.cctv.com/2025/09/11/ARTI6iKXVwemsz2AKMRIvQEg250911.shtml)
+
++ [特朗普盟友演讲时遭枪击身亡 现场视频曝光](https://news.cctv.com/2025/09/11/ARTI85DtL0gSVDDQ3CTaKts3250911.shtml)
+

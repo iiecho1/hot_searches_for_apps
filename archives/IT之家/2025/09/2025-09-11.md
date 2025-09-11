@@ -45,3 +45,21 @@
 
 + [苹果的特殊照顾：iPhone Air 韩国官网没有捏合手势动画](https://m.ithome.com/html/881810.htm)
 
++ [256G 仅 5499 元 + 24 期免息：苹果 iPhone 17 全系京东换新至高立减 2100 元](https://m.ithome.com/html/881879.htm)
+
++ [首发即国补：苹果 AirPods Pro 3 无线耳机 1614 元 12 期免息（限地区）](https://m.ithome.com/html/881859.htm)
+
++ [苹果 iPhone 17 Pro 手机 A19 Pro 芯片跑分出炉：单核性能较 A18 Pro 提升 13%](https://m.ithome.com/html/881886.htm)
+
++ [苹果 iPhone 17 系列发布后三星开启嘲讽模式：没折叠、噱头大、48MP 三镜头不等于 200MP](https://m.ithome.com/html/881931.htm)
+
++ [北京电信已具备 eSIM 开通能力，9 月 19 日苹果 iPhone Air 开售即可办理](https://m.ithome.com/html/882025.htm)
+
++ [苹果 17 系列发布后 iPhone 16 Pro / Max 已下架，16 / Plus 降价 600/1000 元](https://m.ithome.com/html/881833.htm)
+
++ [连续加码，苹果为 iPhone 14/15 系列手机用户延长 1 年免费卫星通信功能](https://m.ithome.com/html/881785.htm)
+
++ [苹果 iPhone 17 / Pro 系列产线接近满产，郑州富士康近 20 万人两班倒赶工](https://m.ithome.com/html/881789.htm)
+
++ [工信部发布苹果 iOS / iPadOS / macOS 高危漏洞风险提示，呼吁用户及时更新系统](https://m.ithome.com/html/881868.htm)
+

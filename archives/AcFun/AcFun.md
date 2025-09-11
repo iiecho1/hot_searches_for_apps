@@ -67,3 +67,5 @@
 
 + [EXID Every Night 每夜 路演](https://m.acfun.cn/v/?ac=47807252)
 
++ [一下子就对味了！！！★手机竖屏1635★](https://m.acfun.cn/v/?ac=47808587)
+
