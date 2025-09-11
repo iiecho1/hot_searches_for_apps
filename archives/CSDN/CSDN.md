@@ -205,3 +205,9 @@
 
 + [第1章：操作系统和计算机网络](https://blog.csdn.net/guslegend/article/details/151444238)
 
++ [从0101到ChatGPT：182年编程史如何被AI一夜改写？](https://blog.csdn.net/qq_32682301/article/details/151580771)
+
++ [【花雕动手做】Kitronik 可编程开发板基于 ARCADE MakeCode 之吃水果游戏](https://blog.csdn.net/weixin_41659040/article/details/151284490)
+
++ [【Spring Boot 报错已解决】org.springframework.web.bind.annotation.RestController 类找不到问题](https://blog.csdn.net/2301_80026901/article/details/151563199)
+
