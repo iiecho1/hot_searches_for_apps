@@ -163,3 +163,7 @@
 
 + [马杜罗：委内瑞拉将在全国284个“前线”地点部署防御力量](https://news.cctv.com/2025/09/12/ARTINUG5Md8uXLCwYA3sgIJP250911.shtml)
 
++ [中国和泰国、柬埔寨、马来西亚就柬泰边境冲突交换意见](https://news.cctv.com/2025/09/12/ARTI0xQSqbFkt70E37MaZnhr250912.shtml)
+
++ [美财政部宣布对胡塞武装发动“最大规模”制裁](https://news.cctv.com/2025/09/12/ARTIhbJ20d2p8xF2LEnodGSh250912.shtml)
+
