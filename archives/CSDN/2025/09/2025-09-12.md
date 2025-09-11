@@ -127,3 +127,5 @@
 
 + [最后一公里文件传输难题Localsend+cpolar破解](https://blog.csdn.net/Pocker_Spades_A/article/details/151358193)
 
++ [【AI大模型前沿】Intern-S1：上海AI Lab打造的科学多模态大模型，助力科研智能化](https://blog.csdn.net/xiaobing259/article/details/151315262)
+
