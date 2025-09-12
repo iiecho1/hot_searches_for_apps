@@ -215,3 +215,11 @@
 
 + [Linux服务器的系统安全强化超详细教程](https://blog.csdn.net/YOKEhn/article/details/151409071)
 
++ [Python：OpenCV 教程](https://blog.csdn.net/u010542987/article/details/151589586)
+
++ [Kafka架构：构建高吞吐量分布式消息系统的艺术](https://blog.csdn.net/m0_74385041/article/details/151622678)
+
++ [Amazon DocumentDB Serverless 技术深度解析：架构特性、弹性扩缩容机制与实操指南](https://blog.csdn.net/weixin_62765017/article/details/151625729)
+
++ [C++11到C++23语法学习源码推荐](https://blog.csdn.net/2401_82413779/article/details/151375450)
+
