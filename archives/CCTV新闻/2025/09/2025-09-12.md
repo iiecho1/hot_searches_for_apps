@@ -171,3 +171,5 @@
 
 + [300余名获释韩国公民乘包机离美返韩](https://news.cctv.com/2025/09/12/ARTIpwk4tTNSW7HAZyJQKD4O250912.shtml)
 
++ [美国海军学院发生枪击致1人受伤](https://news.cctv.com/2025/09/12/ARTIGZypy3hLqQx1ztm2BMOK250912.shtml)
+

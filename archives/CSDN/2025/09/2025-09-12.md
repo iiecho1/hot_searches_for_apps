@@ -131,3 +131,9 @@
 
 + [Day04_苍穹外卖——套餐管理（实战）](https://blog.csdn.net/m0_57075290/article/details/150946771)
 
++ [【花雕动手做】Kitronik 可编程开发板基于 ARCADE MakeCode 之弹跳汉堡游戏](https://blog.csdn.net/weixin_41659040/article/details/151585317)
+
++ [基于Python的旅游数据分析可视化系统【2026最新】](https://blog.csdn.net/2301_78335941/article/details/151372963)
+
++ [SQL 笔记](https://blog.csdn.net/TEST_ID_KING/article/details/151365285)
+
