@@ -51,3 +51,5 @@
 
 + [iPhone Air 因 eSIM 设计在华发售延期](https://www.v2ex.com/t/1158686)
 
++ [iPhone 上有什么通用的方式，可以不安装某个软件，同时正常使用这个软件？](https://www.v2ex.com/t/1158719)
+

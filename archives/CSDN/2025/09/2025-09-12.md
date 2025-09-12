@@ -185,3 +185,9 @@
 
 + [大湾区杯wp](https://blog.csdn.net/2302_78903258/article/details/151393184)
 
++ [天一大模型：AI与天文学交汇的宇宙级智能革命](https://blog.csdn.net/Liudef06/article/details/151323716)
+
++ [论文精读（五）：面向链接预测的知识图谱表示学习方法综述](https://blog.csdn.net/Pocker_Spades_A/article/details/151358347)
+
++ [Java 大视界 -- 基于 Java 的大数据分布式存储在数字图书馆海量资源存储与管理中的应用](https://blog.csdn.net/atgfg/article/details/151449863)
+
