@@ -137,3 +137,13 @@
 
 + [SQL 笔记](https://blog.csdn.net/TEST_ID_KING/article/details/151365285)
 
++ [神经网络稀疏化设计构架——网络剪枝](https://blog.csdn.net/ccsss22/article/details/151405442)
+
++ [消息三剑客华山论剑：Kafka vs RabbitMQ vs RocketMQ](https://blog.csdn.net/yezi1238/article/details/151373139)
+
++ [Linux内核TCP上层协议（ULP）可插拔机制解析](https://blog.csdn.net/eidolon_foot/article/details/151194116)
+
++ [计算机网络---网络体系结构](https://blog.csdn.net/2401_84420653/article/details/151322166)
+
++ [【TCP/IP】【测试】如何使用wireshark进行远程抓包](https://blog.csdn.net/qxhgd/article/details/150411603)
+

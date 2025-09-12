@@ -173,3 +173,5 @@
 
 + [美国海军学院发生枪击致1人受伤](https://news.cctv.com/2025/09/12/ARTIGZypy3hLqQx1ztm2BMOK250912.shtml)
 
++ [报告：关税政策或使美增加近百万贫困人口](https://news.cctv.com/2025/09/12/ARTI1PHNFyDcLJsXpX3RDRl0250912.shtml)
+

@@ -27,3 +27,9 @@
 
 + [失业 3 年，越来越迷茫](https://www.v2ex.com/t/1158503)
 
++ [真的有邻居会用震楼器的，活了这么久也终于是让我碰到了](https://www.v2ex.com/t/1158687)
+
++ [被 Code Review 折磨疯的组员](https://www.v2ex.com/t/1158605)
+
++ [现在的社区医院真恶心](https://www.v2ex.com/t/1158683)
+
