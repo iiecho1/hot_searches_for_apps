@@ -101,3 +101,19 @@
 
 + [网络原理——传输层协议TCP基本认识](https://blog.csdn.net/2301_79705195/article/details/151372180)
 
++ [机器学习的基本流程：从数据到模型](https://blog.csdn.net/2302_79376097/article/details/151429175)
+
++ [CMake 全流程开发实战：从零开始掌握C++项目构建、测试到一键分发的完整解决方案​](https://blog.csdn.net/2401_82648291/article/details/151409877)
+
++ [构建跨平台数据库管理隐形通道：用DbGate+cpolar](https://blog.csdn.net/weixin_43151418/article/details/151615735)
+
++ [跟做springboot尚品甄选项目（二）](https://blog.csdn.net/Wang3317866410/article/details/151591171)
+
++ [突破机器人通讯架构瓶颈，CAN/FD、高速485、EtherCAT，哪种总线才是最优解？](https://blog.csdn.net/2401_84369443/article/details/151572384)
+
++ [Zynq开发实践（FPGA之spi实现）](https://blog.csdn.net/feixiaoxing/article/details/151392093)
+
++ [快速搭建B/S架构HTML演示页：从工具选择到实战落地](https://blog.csdn.net/weixin_41544125/article/details/151613912)
+
++ [利用JSONCrack与cpolar提升数据可视化及跨团队协作效率](https://blog.csdn.net/qq_25749749/article/details/151583620)
+
