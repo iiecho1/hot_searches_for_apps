@@ -73,3 +73,7 @@
 
 + [追觅汽车首款车型渲染图公布：神似布加迪，样车年底 CES 2026 首发](https://m.ithome.com/html/881896.htm)
 
++ [连续加码，苹果为 iPhone 14/15 系列手机用户延长 1 年免费卫星通信功能](https://m.ithome.com/html/881785.htm)
+
++ [苹果 iPhone 17 / Pro 系列产线接近满产，郑州富士康近 20 万人两班倒赶工](https://m.ithome.com/html/881789.htm)
+

@@ -129,3 +129,5 @@
 
 + [【AI大模型前沿】Intern-S1：上海AI Lab打造的科学多模态大模型，助力科研智能化](https://blog.csdn.net/xiaobing259/article/details/151315262)
 
++ [Day04_苍穹外卖——套餐管理（实战）](https://blog.csdn.net/m0_57075290/article/details/150946771)
+
