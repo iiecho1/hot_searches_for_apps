@@ -143,3 +143,11 @@
 
 + [前沿探索：RISC-V 架构 MCU 在航天级辐射环境下的可靠性测试](https://blog.csdn.net/ANSILIC/article/details/151584420)
 
++ [XB_F.1_MIX：开源文生图模型的革命性突破](https://blog.csdn.net/Liudef06/article/details/151613999)
+
++ [完美解决：应用版本更新，增加字段导致 Redis 旧数据反序列化报错](https://blog.csdn.net/Qzibidog/article/details/151588842)
+
++ [如何给电脑设置自动关机？电脑定时关机这样设置 windows关机 非常好用](https://blog.csdn.net/2509_93304145/article/details/151403874)
+
++ [路由 下一跳 网关 两个不同网段的ip如何通过路由器互通](https://blog.csdn.net/weixin_63966922/article/details/151400887)
+
