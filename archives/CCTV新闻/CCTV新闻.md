@@ -161,3 +161,13 @@
 
 + [南非总统：G20峰会将致力于推动全球南方发展议程](https://news.cctv.com/2025/09/10/ARTItkBW3xkUo5bgWb53lkqU250910.shtml)
 
++ [巴西前总统博索纳罗律师团称将向国际法庭提出上诉](https://news.cctv.com/2025/09/13/ARTIKsexQcz7WnXxsoToxdQB250913.shtml)
+
++ [美国移民与海关执法局官员开枪打死一名拒捕男子](https://news.cctv.com/2025/09/13/ARTIGbkZQEbe2rcp8VxD9EfZ250913.shtml)
+
++ [南苏丹民众遭洪灾、冲突双重危机 联合国呼吁国际援助](https://news.cctv.com/2025/09/13/ARTIyjaa67iRZ1710WUYyAor250913.shtml)
+
++ [法德英发表联合声明 呼吁以色列立即停止在加沙城军事行动](https://news.cctv.com/2025/09/13/ARTIOyJfPu8H09vT6z6S9HNP250913.shtml)
+
++ [刚果（金）一船只失火倾覆 至少107人遇难](https://news.cctv.com/2025/09/13/ARTIxXr7MoTGMrRvAfiK5gPt250913.shtml)
+
