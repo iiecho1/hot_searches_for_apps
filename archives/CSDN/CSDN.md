@@ -171,3 +171,11 @@
 
 + [六级第二关———坐地铁（1）](https://blog.csdn.net/bettyly/article/details/151369948)
 
++ [基于Matlab不同作战类型下兵力动力学模型的构建与稳定性分析](https://blog.csdn.net/ZSW1218/article/details/151397048)
+
++ [基于Spring Boot + Vue 3的社区养老系统设计与实现](https://blog.csdn.net/qq_35827191/article/details/151400404)
+
++ [深入浅出 C++20：新特性与实践](https://blog.csdn.net/2503_92624912/article/details/151591841)
+
++ [arm启动代码总结](https://blog.csdn.net/2501_91498265/article/details/151366394)
+
