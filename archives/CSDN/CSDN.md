@@ -151,3 +151,9 @@
 
 + [医疗行业面临的网络安全挑战及应对策略](https://blog.csdn.net/weixin_42493507/article/details/151404303)
 
++ [人工智能如何重塑现代天文学：从数据挖掘到宇宙发现](https://blog.csdn.net/Liudef06/article/details/151356945)
+
++ [089：vue+mapbox 碳中和交互模拟](https://blog.csdn.net/cuclife/article/details/151611487)
+
++ [uniapp [全端兼容] - 实现纯前端OCR识别身份证信息功能，用户上传身份证图片（正反面/人像面+国徽面）文字识别后将数据填充到表单，uniApp扫描身份证获取信息详细源码（可免费不依赖第三方）](https://blog.csdn.net/weixin_44198965/article/details/151612041)
+
