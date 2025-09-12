@@ -157,3 +157,17 @@
 
 + [uniapp [全端兼容] - 实现纯前端OCR识别身份证信息功能，用户上传身份证图片（正反面/人像面+国徽面）文字识别后将数据填充到表单，uniApp扫描身份证获取信息详细源码（可免费不依赖第三方）](https://blog.csdn.net/weixin_44198965/article/details/151612041)
 
++ [具身智能望远镜：AI如何重塑天文观测与自主科学发现](https://blog.csdn.net/Liudef06/article/details/151363665)
+
++ [C 语言实现 I.MX6ULL 点灯（续上一篇）、SDK、deep及bsp工程管理](https://blog.csdn.net/m0_74317917/article/details/151586318)
+
++ [利用JSONCrack与cpolar提升数据可视化及跨团队协作效率](https://blog.csdn.net/qq_25749749/article/details/151583620)
+
++ [网络原理——传输层协议TCP基本认识](https://blog.csdn.net/2301_79705195/article/details/151372180)
+
++ [openEuler系统远程管理方案：cpolar实现安全高效运维](https://blog.csdn.net/m0_73879806/article/details/151587137)
+
++ [老梁聊全栈系列：(阶段一)从单体到云原生的演进脉络](https://blog.csdn.net/liangjinhu/article/details/151280958)
+
++ [六级第二关———坐地铁（1）](https://blog.csdn.net/bettyly/article/details/151369948)
+

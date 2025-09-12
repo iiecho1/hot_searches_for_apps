@@ -183,3 +183,5 @@
 
 + [印尼巴厘岛洪灾遇难人数升至16人](https://news.cctv.com/2025/09/12/ARTIS3P5xJIirxpqAWU5kaUN250912.shtml)
 
++ [美国多所主要招收非洲裔学生的高校因遭威胁停课](https://news.cctv.com/2025/09/12/ARTInjmBDHCgtoKvpQxNMmAz250912.shtml)
+

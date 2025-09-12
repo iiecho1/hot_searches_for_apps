@@ -43,3 +43,7 @@
 
 + [让人困惑的 esim，居然还没实体卡方便](https://www.v2ex.com/t/1158701)
 
++ [今天得知大学同学进了字节](https://www.v2ex.com/t/1158658)
+
++ [苹果 app 开发真是痛苦啊](https://www.v2ex.com/t/1158601)
+
