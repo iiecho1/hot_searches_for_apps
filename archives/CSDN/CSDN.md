@@ -117,3 +117,29 @@
 
 + [利用JSONCrack与cpolar提升数据可视化及跨团队协作效率](https://blog.csdn.net/qq_25749749/article/details/151583620)
 
++ [卷积神经网络CNN-part5-NiN](https://blog.csdn.net/mahuliang321/article/details/151589682)
+
++ [Spring框架1—Spring的IOC核心技术1](https://blog.csdn.net/2401_84284464/article/details/151334376)
+
++ [终端之外：解锁Linux命令行的魔法与力量](https://blog.csdn.net/2401_87855195/article/details/151619141)
+
++ [Spring Boot Actuator自定义指标与监控实践指南](https://blog.csdn.net/qq_35716689/article/details/151400933)
+
++ [Qt加载百度地图详细流程（附带报错解决方法）](https://blog.csdn.net/qq_60018273/article/details/151573383)
+
++ [URL签名机制深度解析：原理、实现与安全实践](https://blog.csdn.net/qq_26664043/article/details/151261802)
+
++ [GRASP 实验室研究 论文解读 | 机器人交互：基于神经网络引导变分推理的快速失配估计](https://blog.csdn.net/Hinyeung2021/article/details/151578680)
+
++ [论文阅读——EdgeShard：通过协作边缘计算实现高效的大语言模型推理](https://blog.csdn.net/qq_44648285/article/details/151591847)
+
++ [Pomian语言处理器研发笔记（四）：计算机就是这样识别出你程序中的if语句的](https://blog.csdn.net/2503_92624912/article/details/151626545)
+
++ [.Net程序员就业现状以及学习路线图（五）](https://blog.csdn.net/2501_92622794/article/details/151410072)
+
++ [【Linux系统】日志与策略模式](https://blog.csdn.net/2402_82670467/article/details/151407251)
+
++ [MCP模型上下文协议以及交互流程](https://blog.csdn.net/python_136/article/details/151582834)
+
++ [前沿探索：RISC-V 架构 MCU 在航天级辐射环境下的可靠性测试](https://blog.csdn.net/ANSILIC/article/details/151584420)
+
