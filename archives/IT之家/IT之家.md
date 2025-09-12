@@ -27,3 +27,21 @@
 
 + [广汽丰田 D 级纯电轿车铂智 7 官图发布：中国团队主导研发，华为电驱 + 鸿蒙座舱 + 小米生态](https://m.ithome.com/html/882307.htm)
 
++ [苹果官方确认：中国移动、电信、联通将为 iPhone Air 提供 eSIM 支持](https://m.ithome.com/html/882457.htm)
+
++ [苹果 iPhone 17 / Pro 预售首发秒罄，全系排至 10 月发货](https://m.ithome.com/html/882579.htm)
+
++ [京东：苹果 iPhone 17 系列一分钟成交量超去年全天，256GB 标准版成最受欢迎机型](https://m.ithome.com/html/882596.htm)
+
++ [5999 元起，苹果 iPhone 17 / Pro / Max 开启预购](https://m.ithome.com/html/882572.htm)
+
++ [周意保评价 iPhone 17 系列：尊重苹果，但 OPPO 只做最强、不做平替](https://m.ithome.com/html/882526.htm)
+
++ [超雪团队展示苹果 iPhone Air / 17 系列“无线化 SIM 卡”方案，号称“手机不开孔、不换电芯”](https://m.ithome.com/html/882575.htm)
+
++ [极限精简 Win11：脚本 nano11 发布，安装镜像缩至 1/3.5、装机空间 2.8GB](https://m.ithome.com/html/882390.htm)
+
++ [小米澎湃 OS 3 Beta 版第二批机型招募开启，含 REDMI K80 等](https://m.ithome.com/html/882386.htm)
+
++ [打造最 Pro 的 iPhone：苹果高管谈 iPhone 17 Pro / Max 设计调整，钛 → 铝、引入星宇橙颜色](https://m.ithome.com/html/882316.htm)
+

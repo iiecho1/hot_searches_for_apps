@@ -153,3 +153,5 @@
 
 + [基于java和小程序的社区互助养老系统小程序设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/151612386)
 
++ [机器学习vs人类学习：人类学习如何借鉴机器学习方法？](https://blog.csdn.net/qq_40036519/article/details/151590070)
+
