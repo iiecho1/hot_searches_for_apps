@@ -47,3 +47,7 @@
 
 + [苹果 app 开发真是痛苦啊](https://www.v2ex.com/t/1158601)
 
++ [新能源车明年要收购置税了](https://www.v2ex.com/t/1158733)
+
++ [iPhone Air 因 eSIM 设计在华发售延期](https://www.v2ex.com/t/1158686)
+

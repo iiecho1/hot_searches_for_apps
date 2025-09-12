@@ -185,3 +185,5 @@
 
 + [美国多所主要招收非洲裔学生的高校因遭威胁停课](https://news.cctv.com/2025/09/12/ARTInjmBDHCgtoKvpQxNMmAz250912.shtml)
 
++ [时隔60年 巴基斯坦首都与伊朗首都恢复直航](https://news.cctv.com/2025/09/12/ARTIW2z2i9yonEYraV8SzKKn250912.shtml)
+
