@@ -175,3 +175,9 @@
 
 + [报告：关税政策或使美增加近百万贫困人口](https://news.cctv.com/2025/09/12/ARTI1PHNFyDcLJsXpX3RDRl0250912.shtml)
 
++ [加拿大推出大规模基建项目以提振经济](https://news.cctv.com/2025/09/12/ARTI2uJb7YbTJd9kE42iQhzM250912.shtml)
+
++ [欧洲头条丨欧美数字主权之争加深跨大西洋裂痕](https://news.cctv.com/2025/09/12/ARTIs0JyTAjDQ3Rjyc5PYWe4250912.shtml)
+
++ [环境压抑 狱中或被“安排工作” 媒体曝光他信服刑细节](https://news.cctv.com/2025/09/12/ARTI8xiBSZC2AJlT0eVbVvLj250912.shtml)
+

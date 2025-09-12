@@ -77,3 +77,19 @@
 
 + [苹果 iPhone 17 / Pro 系列产线接近满产，郑州富士康近 20 万人两班倒赶工](https://m.ithome.com/html/881789.htm)
 
++ [（更新）iPhone Air 发售推迟：苹果回应称正与监管机构紧密合作，力争尽快在中国推出](https://m.ithome.com/html/882317.htm)
+
++ [苹果 iPhone Air 超薄设计的秘密武器：3D 打印钛金属 USB-C 接口](https://m.ithome.com/html/882306.htm)
+
++ [OPPO 陈希：在早期安卓时代，和苹果的体验有比较大的差距，总有人想为安卓用户打上思想钢印来形成意识上的优越性](https://m.ithome.com/html/882203.htm)
+
++ [799 元：苹果 iPhone Air 专用 MagSafe 电池上手，3149mAh、几乎不兼容其它 iPhone](https://m.ithome.com/html/882319.htm)
+
++ [罗永浩悬赏 10 万征集西贝预制菜证据，称只为消费者知情权](https://m.ithome.com/html/882355.htm)
+
++ [哪吒汽车管理人回应车联网服务停机：联想懂的单方面终止了服务](https://m.ithome.com/html/882287.htm)
+
++ [杭州萧山推出线下消费补贴：18-40 岁青年购 3C 数码产品最高可补 1000 元](https://m.ithome.com/html/882220.htm)
+
++ [极狐全新纯电小车 T1 上市：续航 320-425km，6.28 万-8.78 万元](https://m.ithome.com/html/882290.htm)
+
