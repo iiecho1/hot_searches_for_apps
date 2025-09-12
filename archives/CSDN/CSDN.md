@@ -203,3 +203,13 @@
 
 + [GPT 系列论文1-2 两阶段半监督 + zero-shot prompt](https://blog.csdn.net/nju_spy/article/details/151410486)
 
++ [机器学习的基本流程：从数据到模型](https://blog.csdn.net/2302_79376097/article/details/151429175)
+
++ [粒子群优化（PSO）算法详解：从鸟群行为到强大优化工具](https://blog.csdn.net/daqianai/article/details/151591472)
+
++ [开源商城 Shoptnt 的搜索引擎之心：基于 Elasticsearch 的高性能商品搜索实现](https://blog.csdn.net/qq_25093429/article/details/151393153)
+
++ [Android 14 servicemanager的前世今生1](https://blog.csdn.net/lvyaer_1122/article/details/151370125)
+
++ [Proxmox VE远程管理虚拟化隐形入口用cpolar实现](https://blog.csdn.net/2301_80840905/article/details/151615547)
+
