@@ -137,3 +137,9 @@
 
 + [Stellar Sting 刺痛](https://m.acfun.cn/v/?ac=47814498)
 
++ [超帅地唱了『シャンティ（SHANTI）』](https://m.acfun.cn/v/?ac=47812304)
+
++ [AOA Miniskirt 短裙](https://m.acfun.cn/v/?ac=47814611)
+
++ [超元气！穿连衣裙跳舞给你看](https://m.acfun.cn/v/?ac=47814913)
+
