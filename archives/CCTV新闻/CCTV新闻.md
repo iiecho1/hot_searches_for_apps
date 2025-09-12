@@ -187,3 +187,7 @@
 
 + [时隔60年 巴基斯坦首都与伊朗首都恢复直航](https://news.cctv.com/2025/09/12/ARTIW2z2i9yonEYraV8SzKKn250912.shtml)
 
++ [俄称斯摩棱斯克核电站建筑遭无人机袭击](https://news.cctv.com/2025/09/12/ARTI5i2Y0h9OwTgw1b4FIRPK250912.shtml)
+
++ [波兰总理驳斥特朗普：无人机袭击不是失误](https://news.cctv.com/2025/09/12/ARTIpbAf16GsNNeADbjheUQX250912.shtml)
+

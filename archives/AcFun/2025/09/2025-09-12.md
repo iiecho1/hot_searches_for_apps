@@ -125,3 +125,7 @@
 
 + [在保时捷面前，你们还会选小姐姐吗？](https://m.acfun.cn/v/?ac=47810532)
 
++ [【纪念逝去的音乐人01】Buck-Tick「ドレス」翻唱【Cover by 叫ぶ獣】](https://m.acfun.cn/v/?ac=47805366)
+
++ [够不够俗，雅我不会。](https://m.acfun.cn/v/?ac=47812295)
+

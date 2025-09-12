@@ -93,3 +93,15 @@
 
 + [极狐全新纯电小车 T1 上市：续航 320-425km，6.28 万-8.78 万元](https://m.ithome.com/html/882290.htm)
 
++ [苹果官方确认：中国移动、电信、联通将为 iPhone Air 提供 eSIM 支持](https://m.ithome.com/html/882457.htm)
+
++ [广汽丰田 D 级纯电轿车铂智 7 官图发布：中国团队主导研发，华为电驱 + 鸿蒙座舱 + 小米生态](https://m.ithome.com/html/882307.htm)
+
++ [打造最 Pro 的 iPhone：苹果高管谈 iPhone 17 Pro / Max 设计调整，钛 → 铝、引入星宇橙颜色](https://m.ithome.com/html/882316.htm)
+
++ [极限精简 Win11：脚本 nano11 发布，安装镜像缩至 1/3.5、装机空间 2.8GB](https://m.ithome.com/html/882390.htm)
+
++ [小米澎湃 OS 3 Beta 版第二批机型招募开启，含 REDMI K80 等](https://m.ithome.com/html/882386.htm)
+
++ [延续乔布斯梦想：iPhone Air 是苹果迈向“全玻璃”愿景的又一步](https://m.ithome.com/html/882329.htm)
+

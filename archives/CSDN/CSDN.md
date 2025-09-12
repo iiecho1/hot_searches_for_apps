@@ -197,3 +197,9 @@
 
 + [PYcharm——pyqt音乐播放器](https://blog.csdn.net/qq_45812950/article/details/149279470)
 
++ [GitHub Copilot实战教程：AI编程助手的完整使用指南](https://blog.csdn.net/dulgao/article/details/151393006)
+
++ [GitHub 镜像站点](https://blog.csdn.net/BillKu/article/details/151400552)
+
++ [GPT 系列论文1-2 两阶段半监督 + zero-shot prompt](https://blog.csdn.net/nju_spy/article/details/151410486)
+
