@@ -171,3 +171,9 @@
 
 + [刚果（金）一船只失火倾覆 至少107人遇难](https://news.cctv.com/2025/09/13/ARTIxXr7MoTGMrRvAfiK5gPt250913.shtml)
 
++ [卡尔基就任临时政府总理 尼泊尔首都局势趋稳](https://news.cctv.com/2025/09/13/ARTIX6LMk1CJy9jfzUQQuTRx250913.shtml)
+
++ [以军称“基甸战车2”行动进入下一阶段](https://news.cctv.com/2025/09/13/ARTI3Dc9yQSf1ekaYVyunkFb250913.shtml)
+
++ [卡塔尔首相与美副总统举行会谈 强调将采取一切措施保护主权](https://news.cctv.com/2025/09/13/ARTIt9CvhKMOpIQpevhFm2RR250913.shtml)
+

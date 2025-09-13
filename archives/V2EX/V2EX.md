@@ -27,3 +27,15 @@
 
 + [四川国补领到了，晚上准备下单 17 了](https://www.v2ex.com/t/1158715)
 
++ [外版 esim 的 iPhone 不是支持国内运营商的 esim 吗？](https://www.v2ex.com/t/1158901)
+
++ [一次 XML 上传导致域名被封的经历复盘（腾讯网址安全中心是不是只剩下机器人了）](https://www.v2ex.com/t/1158792)
+
++ [为啥苹果文案很糟糕](https://www.v2ex.com/t/1158769)
+
++ [炒股破防贴！](https://www.v2ex.com/t/1158788)
+
++ [宽带真是办理容易，注销难](https://www.v2ex.com/t/1158793)
+
++ [真搞不懂倒提笔记本人的心里状态](https://www.v2ex.com/t/1158805)
+
