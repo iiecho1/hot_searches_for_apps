@@ -177,3 +177,11 @@
 
 + [利用conda打包/复刻生信环境](https://blog.csdn.net/weixin_47195452/article/details/151578913)
 
++ [AI 赋能云端运维：基于 MCP 协议深度集成 Codebuddy CLI 与腾讯云 Lighthouse 的实战全解](https://blog.csdn.net/2301_80863610/article/details/151616058)
+
++ [论文阅读——跟踪先于解模糊：低信噪比下的多普勒模糊解算](https://blog.csdn.net/qq_44648285/article/details/151628265)
+
++ [技术与情感交织的一生 （十三）](https://blog.csdn.net/michaelline/article/details/150859858)
+
++ [前端网络性能优化实践：从 HTTP 请求到 HTTPS 与 HTTP/2 升级](https://blog.csdn.net/weixin_43837268/article/details/151587047)
+

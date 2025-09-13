@@ -179,3 +179,9 @@
 
 + [惠誉下调法国主权信用评级](https://news.cctv.com/2025/09/13/ARTIrevv61jEaA8zZulrzzPx250913.shtml)
 
++ [多国人士盛赞服贸会：为全球服务贸易合作铺路架桥](https://news.cctv.com/2025/09/13/ARTIXYoUnsfSu7CpDqDAMBvv250913.shtml)
+
++ [心相近｜“共同的宝贵财富”——美国史迪威家族传承跨越太平洋的友谊](https://people.cctv.com/2025/09/13/ARTIEMwpFWIzVfxtcMxQUI24250913.shtml)
+
++ [“共同构建和合共生的美好世界”——访日本历史学家石田隆至](https://news.cctv.com/2025/09/13/ARTI6F83Wd3syG4AUGS5usmn250913.shtml)
+
