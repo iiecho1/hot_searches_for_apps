@@ -227,3 +227,7 @@
 
 + [音视频demo](https://blog.csdn.net/mix39/article/details/151589491)
 
++ [手写Spring底层机制的实现【初始化IOC容器+依赖注入+BeanPostProcesson机制+AOP】](https://blog.csdn.net/2301_79724394/article/details/151458209)
+
++ [字节跳动Redis变种Abase：无主多写架构如何解决高可用难题](https://blog.csdn.net/lifallen/article/details/151358992)
+
