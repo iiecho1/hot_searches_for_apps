@@ -135,3 +135,5 @@
 
 + [Guava：Google开源的Java工具库，太强大了](https://blog.csdn.net/lilinhai548/article/details/151660202)
 
++ [微信小程序 -开发邮箱注册验证功能](https://blog.csdn.net/weixin_44077556/article/details/151626992)
+
