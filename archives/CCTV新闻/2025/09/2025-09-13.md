@@ -187,3 +187,5 @@
 
 + [胡塞武装称使用高超音速导弹袭击以色列](https://news.cctv.com/2025/09/13/ARTIiMXg62sJRCy0VO7QJYoI250913.shtml)
 
++ [中国驻尼泊尔使馆提醒在尼中国公民和机构继续做好安全防范](https://news.cctv.com/2025/09/13/ARTI5HhaJU3IIp8DDBkC5I3J250913.shtml)
+
