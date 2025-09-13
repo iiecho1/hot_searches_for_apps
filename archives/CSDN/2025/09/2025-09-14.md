@@ -133,3 +133,5 @@
 
 + [消息队列-kafka完结](https://blog.csdn.net/2301_79808660/article/details/151587717)
 
++ [Guava：Google开源的Java工具库，太强大了](https://blog.csdn.net/lilinhai548/article/details/151660202)
+

@@ -67,3 +67,5 @@
 
 + [something](https://m.acfun.cn/v/?ac=47819395)
 
++ [简中翻译只是丝之歌最小的问题 樱桃组谁教你这么做游戏的？](https://m.acfun.cn/v/?ac=47819740)
+
