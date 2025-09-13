@@ -177,3 +177,5 @@
 
 + [卡塔尔首相与美副总统举行会谈 强调将采取一切措施保护主权](https://news.cctv.com/2025/09/13/ARTIt9CvhKMOpIQpevhFm2RR250913.shtml)
 
++ [惠誉下调法国主权信用评级](https://news.cctv.com/2025/09/13/ARTIrevv61jEaA8zZulrzzPx250913.shtml)
+

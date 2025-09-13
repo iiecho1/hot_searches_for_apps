@@ -171,3 +171,9 @@
 
 + [在 CentOS 系统上实现定时执行 Python 邮件发送任务](https://blog.csdn.net/sixpp/article/details/151406704)
 
++ [GitHub 热榜项目 - 日榜(2025-09-12)](https://blog.csdn.net/u014390502/article/details/151609460)
+
++ [微服务基石：SpringBoot+Docker+K8S云原生部署方案](https://blog.csdn.net/ashyyyy/article/details/151611090)
+
++ [利用conda打包/复刻生信环境](https://blog.csdn.net/weixin_47195452/article/details/151578913)
+
