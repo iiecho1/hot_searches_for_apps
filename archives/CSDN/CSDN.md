@@ -231,3 +231,7 @@
 
 + [字节跳动Redis变种Abase：无主多写架构如何解决高可用难题](https://blog.csdn.net/lifallen/article/details/151358992)
 
++ [科技信息差（9.12）](https://blog.csdn.net/eqwaak0/article/details/151625510)
+
++ [【VPX637】基于XCKU115 FPGA+ZU15EG MPSOC的6U VPX双FMC接口通用信号处理平台](https://blog.csdn.net/beijingqingyikeji/article/details/151621570)
+
