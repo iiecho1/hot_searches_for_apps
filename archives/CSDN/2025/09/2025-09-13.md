@@ -161,3 +161,5 @@
 
 + [基于FPGA的图像中值滤波算法Verilog开发与开发板硬件测试](https://blog.csdn.net/aycd1234/article/details/151587840)
 
++ [【译】Visual Studio 八月更新已发布 —— 更智能的人工智能、更出色的调试功能以及更多控制权](https://blog.csdn.net/weixin_42055277/article/details/151361984)
+
