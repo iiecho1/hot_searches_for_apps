@@ -49,3 +49,5 @@
 
 + [苹果首款：iPhone Air 单摄也能用人像模式拍美食、植物等](https://m.ithome.com/html/882642.htm)
 
++ [微软 Visual Studio 2026 推荐 64GB 内存和 16 核 CPU 引热议，架构师解释称方便程序员申请更好的电脑](https://m.ithome.com/html/882693.htm)
+
