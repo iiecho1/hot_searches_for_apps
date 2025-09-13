@@ -191,3 +191,7 @@
 
 + [【中国那些事儿】非洲学者点赞全球治理倡议：塑造多边主义新时代](https://news.cctv.com/2025/09/13/ARTIN7Lpa2Nq55EXVrWoUZ2M250913.shtml)
 
++ [波音因安全违规面临美监管机构310万美元罚款](https://news.cctv.com/2025/09/13/ARTIhcZf1y3d3YHnJOnTGv84250913.shtml)
+
++ [莫斯科交易所暂停股票交易](https://news.cctv.com/2025/09/13/ARTItuJCCP5W6y7U8iSoybph250913.shtml)
+
