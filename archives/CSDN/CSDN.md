@@ -111,3 +111,17 @@
 
 + [新手向:如何高效使用AI技术](https://blog.csdn.net/2302_77626561/article/details/151256797)
 
++ [python+springboot+uniapp微信小程序题库系统 在线答题 题目分类 错题本管理 学习记录查询系统](https://blog.csdn.net/Q_Q1963288475/article/details/151625662)
+
++ [URL签名机制深度解析：原理、实现与安全实践](https://blog.csdn.net/qq_26664043/article/details/151261802)
+
++ [TA-VLA——将关节力矩感知融入VLA中：无需外部力传感器，即可完成汽车充电器插入](https://blog.csdn.net/v_JULY_v/article/details/151658751)
+
++ [音视频demo](https://blog.csdn.net/mix39/article/details/151589491)
+
++ [Linux网络：应用层协议http](https://blog.csdn.net/htw250056/article/details/151659350)
+
++ [构建实时消息应用：Spring Boot + Vue 与 WebSocket 的有机融合](https://blog.csdn.net/lssjzmn/article/details/151555827)
+
++ [【.Net技术栈梳理】10-.NET Core 程序的执行](https://blog.csdn.net/Tiger_shl/article/details/151361440)
+
