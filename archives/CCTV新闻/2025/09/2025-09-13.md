@@ -197,3 +197,5 @@
 
 + [巴西总统卢拉：美施压不会改变巴西司法系统独立性](https://news.cctv.com/2025/09/13/ARTIUeCOSUefjDZ1SMLSTyAt250913.shtml)
 
++ [联大批准《纽约宣言》有何重要意义？专家解读→](https://news.cctv.com/2025/09/13/ARTIWx8Tf80M9JFYaiypwktX250913.shtml)
+

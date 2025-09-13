@@ -35,3 +35,19 @@
 
 + [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
 
++ [MotiaDev/motia](https://github.com/MotiaDev/motia)
+
++ [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+
++ [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+
++ [facebook/folly](https://github.com/facebook/folly)
+
++ [huggingface/transformers](https://github.com/huggingface/transformers)
+
++ [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
+
++ [simdjson/simdjson](https://github.com/simdjson/simdjson)
+
++ [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention)
+
