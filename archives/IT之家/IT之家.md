@@ -25,3 +25,27 @@
 
 + [打造最 Pro 的 iPhone：苹果高管谈 iPhone 17 Pro / Max 设计调整，钛 → 铝、引入星宇橙颜色](https://m.ithome.com/html/882316.htm)
 
++ [4019 分！苹果 iPhone 最强芯片，A19 Pro 刷新 A 系列单核 GeekBench 跑分纪录](https://m.ithome.com/html/882690.htm)
+
++ [罗永浩 x 西贝大战后续：餐厅使用预制菜要强制明示，消息称国标草案已过审](https://m.ithome.com/html/882702.htm)
+
++ [苹果 iOS 26 中 Apple Store 等应用换装“液态玻璃”风格](https://m.ithome.com/html/882622.htm)
+
++ [雷军回应“汽车黑公关”：小米法务部今年已取证数百个账号、发起诉讼数十起，正等待逐一开庭](https://m.ithome.com/html/882654.htm)
+
++ [消息称华为“年度旗舰”电池基本确定超 6000mAh，“7 开头”电池已在开发](https://m.ithome.com/html/882738.htm)
+
++ [苹果公布 iPhone Air 维修预估费用：换屏 2698 元、换电池 969 元](https://m.ithome.com/html/882609.htm)
+
++ [无限“弹药”光速打击：央视详解我国激光武器，让无人机有来无回](https://m.ithome.com/html/882709.htm)
+
++ [库克力挺 2025 款 iPhone：Air 续航出色、17 Pro 星宇橙成“杀手级颜色”](https://m.ithome.com/html/882615.htm)
+
++ [18 → 24 小时：苹果 Apple Watch Series 11 续航“提升 33.3%”背后细节，主要归因于测试场景调整](https://m.ithome.com/html/882632.htm)
+
++ [华为鸿蒙生态政务领域“里程碑式”突破，近 400 款民生应用实现覆盖](https://m.ithome.com/html/882633.htm)
+
++ [5G 毫米波专网牌照，意义何在？](https://m.ithome.com/html/882658.htm)
+
++ [苹果首款：iPhone Air 单摄也能用人像模式拍美食、植物等](https://m.ithome.com/html/882642.htm)
+
