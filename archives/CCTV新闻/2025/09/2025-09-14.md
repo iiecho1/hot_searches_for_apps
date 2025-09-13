@@ -161,3 +161,13 @@
 
 + [有人动武有人“浇油” 欧洲剑指俄罗斯](https://news.cctv.com/2025/09/10/ARTIQOW1rCWxhix4yASXfrBR250910.shtml)
 
++ [俄白联合军演继续 俄战机载弹飞行](https://military.cctv.com/2025/09/14/ARTIH8iRz5zf0OBoUUzFwnma250914.shtml)
+
++ [内塔尼亚胡暗示将继续“清除”哈马斯领导层](https://news.cctv.com/2025/09/14/ARTIymi3VTYTnADnXOBM6H73250914.shtml)
+
++ [美法官延长暂停驱逐危地马拉无陪伴未成年人期限](https://news.cctv.com/2025/09/14/ARTIxeCkspl7XpGtdeKNIllq250914.shtml)
+
++ [厄瓜多尔西北部发生枪击事件 至少7人死亡](https://news.cctv.com/2025/09/14/ARTIJvBBgocCSmOGr3da8HcU250914.shtml)
+
++ [俄罗斯巴什科尔托斯坦共和国一石油企业遭乌无人机袭击](https://news.cctv.com/2025/09/14/ARTIRb4x0hY7RoYONgdwAjIf250914.shtml)
+

@@ -137,3 +137,7 @@
 
 + [微信小程序 -开发邮箱注册验证功能](https://blog.csdn.net/weixin_44077556/article/details/151626992)
 
++ [从0101到ChatGPT：182年编程史如何被AI一夜改写？](https://blog.csdn.net/qq_32682301/article/details/151580771)
+
++ [【AI大模型前沿】Qwen-Image：免费开源、写段文案→直接出图→还能继续精修，全程不用PS](https://blog.csdn.net/xiaobing259/article/details/151316426)
+
