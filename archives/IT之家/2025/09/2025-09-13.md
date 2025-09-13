@@ -45,3 +45,15 @@
 
 + [打造最 Pro 的 iPhone：苹果高管谈 iPhone 17 Pro / Max 设计调整，钛 → 铝、引入星宇橙颜色](https://m.ithome.com/html/882316.htm)
 
++ [海思麒麟 9000X 处理器曝光，通过安全可靠等级 II 级（最高级）认证](https://m.ithome.com/html/882568.htm)
+
++ [一批虚假汽车测评博主被抓，央视起底新能源汽车黑公关](https://m.ithome.com/html/882606.htm)
+
++ [小鹏主动召回 47490 辆 P7 + 汽车，免费更换转向机总成](https://m.ithome.com/html/882507.htm)
+
++ [西贝发公开信称罗永浩“预制菜”指责不实，向全社会开放后厨参观](https://m.ithome.com/html/882520.htm)
+
++ [苹果 iPhone 17 / Pro / Max 默认仍只能拍摄 1080P 30FPS 空间视频](https://m.ithome.com/html/882569.htm)
+
++ [苹果官网 Apple Store 商店开始维护，iPhone 17 / Pro 系列今晚预售](https://m.ithome.com/html/882474.htm)
+

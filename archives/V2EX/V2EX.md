@@ -45,3 +45,5 @@
 
 + [被裁员了，五味杂陈](https://www.v2ex.com/t/1158814)
 
++ [由 iphone17 卖爆现象，顺便说说安卓](https://www.v2ex.com/t/1158934)
+

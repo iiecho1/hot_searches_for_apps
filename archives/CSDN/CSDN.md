@@ -185,3 +185,9 @@
 
 + [前端网络性能优化实践：从 HTTP 请求到 HTTPS 与 HTTP/2 升级](https://blog.csdn.net/weixin_43837268/article/details/151587047)
 
++ [​​Docker 容器化部署核心实战：从镜像仓库管理、容器多参数运行到 Nginx 服务配置与正反向代理原理解析​](https://blog.csdn.net/2401_82648291/article/details/150632606)
+
++ [微信小程序 - 强力解决播放视频卡顿问题，小程序使用video组件播放视频或第三方视频插件，会出现卡顿或者无法播放的各种奇怪问题（微信小程序苹果ios/安卓播放视频很卡不流畅、视频太长或文件大等情况）](https://blog.csdn.net/weixin_44198965/article/details/151647326)
+
++ [阿里云ECS vs 腾讯云CVM：2核4G服务器性能实测对比 (2025)](https://blog.csdn.net/Clownseven/article/details/151568965)
+
