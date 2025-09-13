@@ -195,3 +195,5 @@
 
 + [莫斯科交易所暂停股票交易](https://news.cctv.com/2025/09/13/ARTItuJCCP5W6y7U8iSoybph250913.shtml)
 
++ [巴西总统卢拉：美施压不会改变巴西司法系统独立性](https://news.cctv.com/2025/09/13/ARTIUeCOSUefjDZ1SMLSTyAt250913.shtml)
+
