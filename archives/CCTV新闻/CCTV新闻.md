@@ -189,3 +189,5 @@
 
 + [中国驻尼泊尔使馆提醒在尼中国公民和机构继续做好安全防范](https://news.cctv.com/2025/09/13/ARTI5HhaJU3IIp8DDBkC5I3J250913.shtml)
 
++ [【中国那些事儿】非洲学者点赞全球治理倡议：塑造多边主义新时代](https://news.cctv.com/2025/09/13/ARTIN7Lpa2Nq55EXVrWoUZ2M250913.shtml)
+
