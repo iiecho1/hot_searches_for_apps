@@ -173,3 +173,9 @@
 
 + [mobx-miniprogram小程序的数据传输](https://blog.csdn.net/eastWind1101/article/details/151368081)
 
++ [GPT 系列论文 gpt3-4 175B参数 + few-shot + 多模态输入 + RLHF + system](https://blog.csdn.net/nju_spy/article/details/151571036)
+
++ [Zynq开发实践（FPGA之第一个vivado工程）](https://blog.csdn.net/feixiaoxing/article/details/151607073)
+
++ [图神经网络分享系列-SDNE(Structural Deep Network Embedding) （三）](https://blog.csdn.net/flying_1314/article/details/151291959)
+

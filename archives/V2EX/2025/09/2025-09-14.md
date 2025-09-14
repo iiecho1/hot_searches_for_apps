@@ -49,3 +49,5 @@
 
 + [项目倒排，工期严重不足，准备跑路了](https://www.v2ex.com/t/1159075)
 
++ [听说以后海外版 iPhone 都不能在大陆地区写 ESIM 卡了？](https://www.v2ex.com/t/1159058)
+
