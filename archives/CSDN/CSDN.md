@@ -179,3 +179,9 @@
 
 + [图神经网络分享系列-SDNE(Structural Deep Network Embedding) （三）](https://blog.csdn.net/flying_1314/article/details/151291959)
 
++ [AI热点周报（9.7~9.13）：阿里Qwen3-Next震撼发布、Claude 增强记忆与服务抖动、OpenAI 聚焦模型规范化...](https://blog.csdn.net/qq_51646682/article/details/151650942)
+
++ [区块链web3项目实战-Truffle petshop](https://blog.csdn.net/m0_46421522/article/details/151652754)
+
++ [使用Python创建本地Http服务实现与外部系统数据对接](https://blog.csdn.net/yuanpan/article/details/151654680)
+
