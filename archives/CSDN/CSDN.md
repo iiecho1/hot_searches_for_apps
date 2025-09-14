@@ -127,3 +127,5 @@
 
 + [AI 赋能云端运维：基于 MCP 协议深度集成 Codebuddy CLI 与腾讯云 Lighthouse 的实战全解](https://blog.csdn.net/2301_80863610/article/details/151616058)
 
++ [玩转ClaudeCode：用Database-MCP实现自然语言操作数据库](https://blog.csdn.net/weixin_41793160/article/details/151686576)
+
