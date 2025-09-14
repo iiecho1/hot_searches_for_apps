@@ -171,3 +171,17 @@
 
 + [俄罗斯巴什科尔托斯坦共和国一石油企业遭乌无人机袭击](https://news.cctv.com/2025/09/14/ARTIRb4x0hY7RoYONgdwAjIf250914.shtml)
 
++ [内塔尼亚胡暗示继续“清除”行动 家属团体：你是破坏者](https://news.cctv.com/2025/09/14/ARTIVFY7Rk5t9JoUqHiFFLUg250914.shtml)
+
++ [美国会预算办公室下调美国今年经济增长预测 上调通货膨胀和失业率预测](https://news.cctv.com/2025/09/14/ARTIbM8dEkGydpwfUGdZdbHP250914.shtml)
+
++ [委内瑞拉指责美国驱逐舰非法扣押委渔船](https://news.cctv.com/2025/09/14/ARTIcxymOOZllHvCF3YLCsNf250914.shtml)
+
++ [法国新总理：将放弃上届政府减少公共假日计划](https://news.cctv.com/2025/09/14/ARTIbJhgMEfPl1HAoZvrPmXW250914.shtml)
+
++ [美方不清楚 俄称波兰也不确定 波领空无人机事件依旧扑朔迷离](https://news.cctv.com/2025/09/14/ARTIsWipJU0V5cPEL6M70uJH250914.shtml)
+
++ [金与正：美日韩在朝鲜周边大秀肌肉选错了地方](https://news.cctv.com/2025/09/14/ARTIGruRqIO3Qow7oog2n0ze250914.shtml)
+
++ [厄瓜多尔政府机关临时迁出首都](https://news.cctv.com/2025/09/14/ARTIhtIAXyo2M0S5iQap2Qpn250914.shtml)
+
