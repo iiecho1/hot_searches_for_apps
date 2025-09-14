@@ -185,3 +185,9 @@
 
 + [厄瓜多尔政府机关临时迁出首都](https://news.cctv.com/2025/09/14/ARTIhtIAXyo2M0S5iQap2Qpn250914.shtml)
 
++ [西班牙首都一酒吧天然气爆炸至少25人受伤](https://photo.cctv.com/2025/09/14/PHOAXE4CTFLiZ0YVkEo1Xxfg250914.shtml)
+
++ [委内瑞拉继续开展民兵训练](https://photo.cctv.com/2025/09/14/PHOAwjlY8Jub22HtVE6yxoZd250914.shtml)
+
++ [莫斯科纪念建城878周年](https://photo.cctv.com/2025/09/14/PHOAEVTf9yTfKZS2DZibggPR250914.shtml)
+
