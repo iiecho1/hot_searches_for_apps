@@ -69,3 +69,17 @@
 
 + [鸿蒙智行全新问界 M7 汽车 8 天小订突破 19 万台，预售价 28.8 万元起](https://m.ithome.com/html/882598.htm)
 
++ [消息称华为老机型更新鸿蒙 HarmonyOS 6.0 后，内置 eSIM 应用](https://m.ithome.com/html/882763.htm)
+
++ [库克谈 iPhone 17 Pro/Max 首次引入 VC 均热板设计：我认为这算是苹果专属发明创新，或许只有苹果才能做到](https://m.ithome.com/html/882784.htm)
+
++ [网图成真：唐国强上手华为 Mate XTs 非凡大师三折叠手机，直言“批起来更有感觉了”](https://m.ithome.com/html/882777.htm)
+
++ [苹果 iPhone 17 系列首搭自研 N1 芯片：Wi-Fi 7 带宽仍限制 160 MHz，未达 320 MHz 标准](https://m.ithome.com/html/882776.htm)
+
++ [周周 996、顿顿预制餐：美国 AI 界 00 后卷疯了，住「棺材房」一周工作 92 小时](https://m.ithome.com/html/882758.htm)
+
++ [万事达卡在中国境内出现盗刷，官方回应称已启动应急调查](https://m.ithome.com/html/882737.htm)
+
++ [《中华人民共和国原子能法》自 2026 年 1 月 15 日起正式施行](https://m.ithome.com/html/882745.htm)
+

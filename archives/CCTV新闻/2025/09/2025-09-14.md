@@ -195,3 +195,9 @@
 
 + [英媒：超10万人参加伦敦右翼反移民抗议活动 马斯克“意外现身”](https://news.cctv.com/2025/09/14/ARTIjoOnfkuF1tTpnkSXyUba250914.shtml)
 
++ [墨西哥城油罐车爆炸事故死亡人数上升至13人](https://news.cctv.com/2025/09/14/ARTIQGHxozd4QbHSKhym1oal250914.shtml)
+
++ [委内瑞拉举行大规模民兵军事训练](https://news.cctv.com/2025/09/14/ARTI2Pnrkg60p4LNtV7x5BHq250914.shtml)
+
++ [以军空袭卡塔尔后 美国国务卿鲁比奥到访以色列](https://news.cctv.com/2025/09/14/ARTIhDgKCiT8pnrgrbJTDC3y250914.shtml)
+
