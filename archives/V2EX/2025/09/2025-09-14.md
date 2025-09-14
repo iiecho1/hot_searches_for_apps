@@ -41,3 +41,7 @@
 
 + [足矣让普通人逆袭的一本书](https://www.v2ex.com/t/1159060)
 
++ [20250913 - 主题打赏功能及 Priority Fee 设置功能上线](https://www.v2ex.com/t/1159042)
+
++ [airpods pro 3 国行和外版有区别吗](https://www.v2ex.com/t/1158987)
+

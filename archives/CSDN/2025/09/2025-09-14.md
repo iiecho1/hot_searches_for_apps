@@ -165,3 +165,7 @@
 
 + [Less is More : Adaptive Program Repair with Bug Localization and Preference Learning](https://blog.csdn.net/qq_41200212/article/details/151193569)
 
++ [TA-VLA——将关节力矩反馈融入VLA中：无需外部力传感器，即可完成汽车充电器插入(且可多次自主尝试)](https://blog.csdn.net/v_JULY_v/article/details/151658751)
+
++ [计算机网络概述](https://blog.csdn.net/pusue_the_sun/article/details/151659967)
+
