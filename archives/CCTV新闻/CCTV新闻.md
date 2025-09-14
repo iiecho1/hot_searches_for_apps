@@ -191,3 +191,7 @@
 
 + [莫斯科纪念建城878周年](https://photo.cctv.com/2025/09/14/PHOAEVTf9yTfKZS2DZibggPR250914.shtml)
 
++ [墨西哥东南部发生交通事故 至少15人死亡](https://news.cctv.com/2025/09/14/ARTIfypkVRvcRUtIDaTIPzXm250914.shtml)
+
++ [英媒：超10万人参加伦敦右翼反移民抗议活动 马斯克“意外现身”](https://news.cctv.com/2025/09/14/ARTIjoOnfkuF1tTpnkSXyUba250914.shtml)
+

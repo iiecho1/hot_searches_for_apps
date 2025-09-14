@@ -153,3 +153,15 @@
 
 + [【华为OD】来自异国的客人](https://blog.csdn.net/weixin_66401877/article/details/151661094)
 
++ [编程范式对决：C、C++与C#深度解析](https://blog.csdn.net/The_weeknd__/article/details/151578205)
+
++ [CarMaker 汽车动力学仿真软件介绍](https://blog.csdn.net/weixin_45913774/article/details/151620372)
+
++ [vcpkg：面向C/C++的跨平台库管理工具软件配置笔记经验教程](https://blog.csdn.net/weixin_49337111/article/details/151652451)
+
++ [TENGJUN-USB TYPE-C 24PIN测插双贴连接器（H14.3，4脚插板带柱）：USB4.0高速传输时代的精密连接方案解析](https://blog.csdn.net/2501_92822734/article/details/151655256)
+
++ [C++使用拉玛努金公式计算π的值](https://blog.csdn.net/pollybird/article/details/151655396)
+
++ [Less is More : Adaptive Program Repair with Bug Localization and Preference Learning](https://blog.csdn.net/qq_41200212/article/details/151193569)
+
