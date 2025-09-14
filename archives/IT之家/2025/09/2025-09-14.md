@@ -83,3 +83,17 @@
 
 + [《中华人民共和国原子能法》自 2026 年 1 月 15 日起正式施行](https://m.ithome.com/html/882745.htm)
 
++ [中国核电催更《流浪地球 3》，称“再不拍完我们就要亮家伙了”](https://m.ithome.com/html/882826.htm)
+
++ [关于 eSIM，看这一篇就够啦](https://m.ithome.com/html/882799.htm)
+
++ [华为、小米、比亚迪、英伟达、阿里巴巴、游戏科学、DeepSeek、宇树科技等入选 MIT 科技评论 2025 年度“50 家聪明公司”](https://m.ithome.com/html/882793.htm)
+
++ [《原神》新角色着装暴露遭举报，米哈游回应称已收到玩家反馈并记录](https://m.ithome.com/html/882779.htm)
+
++ [央视实验证明燃气灶聚能环“厨房神器”不节能，还暗藏爆炸、中毒等风险](https://m.ithome.com/html/882811.htm)
+
++ [华为 Pura80 Ultra 港版机型推送 EMUI 15.0.0.140 升级，新增支持卫星通信](https://m.ithome.com/html/882803.htm)
+
++ [苹果“40W 动态电源适配器（最高 60W）”充电头实测：兼容 PD 60W 输入协议，提供约 18 分钟峰值功率](https://m.ithome.com/html/882880.htm)
+
