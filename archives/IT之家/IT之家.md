@@ -49,3 +49,5 @@
 
 + [华为 Pura80 Ultra 港版机型推送 EMUI 15.0.0.140 升级，新增支持卫星通信](https://m.ithome.com/html/882803.htm)
 
++ [周周 996、顿顿预制餐：美国 AI 界 00 后卷疯了，住「棺材房」一周工作 92 小时](https://m.ithome.com/html/882758.htm)
+

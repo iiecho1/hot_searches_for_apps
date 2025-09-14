@@ -125,3 +125,5 @@
 
 + [JVM 核心知识全解析：从类加载到垃圾回收的深度认知](https://blog.csdn.net/weixin_45793745/article/details/151683648)
 
++ [AI 赋能云端运维：基于 MCP 协议深度集成 Codebuddy CLI 与腾讯云 Lighthouse 的实战全解](https://blog.csdn.net/2301_80863610/article/details/151616058)
+
