@@ -27,3 +27,5 @@
 
 + [退移动宽带有多恶心](https://www.v2ex.com/t/1158957)
 
++ [iPhone 17 Air 国行版 eSIM 限制](https://www.v2ex.com/t/1159036)
+
