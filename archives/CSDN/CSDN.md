@@ -185,3 +185,9 @@
 
 + [使用Python创建本地Http服务实现与外部系统数据对接](https://blog.csdn.net/yuanpan/article/details/151654680)
 
++ [硬件开发_基于物联网的仓鼠饲养监测系统](https://blog.csdn.net/weixin_45732499/article/details/151679301)
+
++ [Serdes专题(1)Serdes综述](https://blog.csdn.net/weixin_40615338/article/details/151618060)
+
++ [单体到微服务拆分方案](https://blog.csdn.net/weixin_45653328/article/details/151659856)
+

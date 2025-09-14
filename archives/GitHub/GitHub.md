@@ -29,3 +29,25 @@
 
 + [NVIDIA/garak](https://github.com/NVIDIA/garak)
 
++ [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
+
++ [ccxt/ccxt](https://github.com/ccxt/ccxt)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
++ [midday-ai/midday](https://github.com/midday-ai/midday)
+
++ [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+
++ [docker/mcp-gateway](https://github.com/docker/mcp-gateway)
+
++ [firebase/genkit](https://github.com/firebase/genkit)
+
++ [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm)
+
