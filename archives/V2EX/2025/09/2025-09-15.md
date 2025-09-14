@@ -25,3 +25,5 @@
 
 + [eSIM 比实体 SIM 更麻烦吗？](https://www.v2ex.com/t/1159087)
 
++ [冲啊 XG 决赛日！](https://www.v2ex.com/t/1159063)
+

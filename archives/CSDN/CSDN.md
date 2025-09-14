@@ -129,3 +129,5 @@
 
 + [玩转ClaudeCode：用Database-MCP实现自然语言操作数据库](https://blog.csdn.net/weixin_41793160/article/details/151686576)
 
++ [【Linux】深入Linux多线程架构与高性能编程](https://blog.csdn.net/2401_83431652/article/details/151184547)
+
