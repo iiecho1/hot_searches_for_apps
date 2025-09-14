@@ -209,3 +209,7 @@
 
 + [柯克被杀案“缉凶”闹乌龙 美FBI局长陷舆论漩涡](https://news.cctv.com/2025/09/14/ARTIWtSknVdY3KDWtUsGxm8D250914.shtml)
 
++ [视频丨美国务卿：以色列空袭多哈不会改变美以两国的牢固关系](https://news.cctv.com/2025/09/14/ARTIVvb2JnbQI5qDix3DTg4d250914.shtml)
+
++ [南非约翰内斯堡多区断水 供水系统每日14小时限流](https://news.cctv.com/2025/09/14/ARTIbA9iX5InGLyLy5mbL0SN250914.shtml)
+

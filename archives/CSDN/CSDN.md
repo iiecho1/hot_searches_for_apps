@@ -191,3 +191,11 @@
 
 + [单体到微服务拆分方案](https://blog.csdn.net/weixin_45653328/article/details/151659856)
 
++ [【微服务】SpringBoot 整合Kafka 项目实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/150996034)
+
++ [【Linux手册】共享内存：零拷贝实现共享的优势与实操指南](https://blog.csdn.net/2401_87944878/article/details/150450448)
+
++ [C++ 类型推导（第一部分）](https://blog.csdn.net/ypy9323/article/details/151658304)
+
++ [FPGA日益增益的依赖与商业应用](https://blog.csdn.net/ccsss22/article/details/151684793)
+
