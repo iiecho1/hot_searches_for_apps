@@ -101,3 +101,7 @@
 
 + [微信小程序 -开发邮箱注册验证功能](https://blog.csdn.net/weixin_44077556/article/details/151626992)
 
++ [企业客户信息反馈|基于SprinBoot+vue的企业客户信息反馈(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/151644246)
+
++ [阿里云OSS vs 腾讯云COS vs AWS S3：对象存储价格与性能深度对比](https://blog.csdn.net/Clownseven/article/details/151610918)
+
