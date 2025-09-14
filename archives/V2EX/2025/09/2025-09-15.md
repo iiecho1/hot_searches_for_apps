@@ -23,3 +23,5 @@
 
 + [相关人员是如何知道你在翻墙的](https://www.v2ex.com/t/1159127)
 
++ [eSIM 比实体 SIM 更麻烦吗？](https://www.v2ex.com/t/1159087)
+

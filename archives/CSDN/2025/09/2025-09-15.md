@@ -105,3 +105,23 @@
 
 + [阿里云OSS vs 腾讯云COS vs AWS S3：对象存储价格与性能深度对比](https://blog.csdn.net/Clownseven/article/details/151610918)
 
++ [Java连接电科金仓数据库（KingbaseES）实战指南](https://blog.csdn.net/beautifulmemory/article/details/151675960)
+
++ [Qt/C++开发监控GB28181系统/公网对讲/代码实现28181语音对讲/采集本地麦克风数据/支持udp和tcp模式](https://blog.csdn.net/feiyangqingyun/article/details/151674077)
+
++ [求同存异：工作与生活中的尊重理解与合作共赢指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/151684650)
+
++ [篮球论坛|基于SprinBoot+vue的篮球论坛系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/151648164)
+
++ [鸿蒙NEXT Web组件与JavaScript交互：打通原生与前端的桥梁](https://blog.csdn.net/feathersong/article/details/151626502)
+
++ [【序列晋升】33 Spring Data Neo4j 告别 Cypher 冗余编码，让图数据库开发回归业务本质](https://blog.csdn.net/weixin_39671271/article/details/151442946)
+
++ [学习Python是一个循序渐进的过程，结合系统学习、持续实践和项目驱动，](https://blog.csdn.net/weixin_60830013/article/details/151580206)
+
++ [SpringBoot4与Spring7发布：云原生深度进化](https://blog.csdn.net/cfy_banq/article/details/151614532)
+
++ [IDEA使用Maven和MyBatis简化数据库连接（配置篇）](https://blog.csdn.net/2501_90864902/article/details/151656558)
+
++ [JVM 核心知识全解析：从类加载到垃圾回收的深度认知](https://blog.csdn.net/weixin_45793745/article/details/151683648)
+
