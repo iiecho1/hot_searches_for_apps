@@ -199,3 +199,5 @@
 
 + [FPGA日益增益的依赖与商业应用](https://blog.csdn.net/ccsss22/article/details/151684793)
 
++ [C 语言实现 I.MX6ULL 点灯（续上一篇）、SDK、deep及bsp工程管理](https://blog.csdn.net/m0_74317917/article/details/151586318)
+

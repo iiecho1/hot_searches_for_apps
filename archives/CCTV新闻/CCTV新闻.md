@@ -213,3 +213,7 @@
 
 + [南非约翰内斯堡多区断水 供水系统每日14小时限流](https://news.cctv.com/2025/09/14/ARTIbA9iX5InGLyLy5mbL0SN250914.shtml)
 
++ [秉持平等态度 争取双赢结果——写在中美马德里会谈之前](https://news.cctv.com/2025/09/14/ARTIQLNZIEeULvNDTlQtGNUJ250914.shtml)
+
++ [印度发生5.5级地震，震源深度20千米](https://news.cctv.com/2025/09/14/ARTIk6clguVLJxmAoNNkPA5N250914.shtml)
+
