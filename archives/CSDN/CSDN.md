@@ -201,3 +201,7 @@
 
 + [C 语言实现 I.MX6ULL 点灯（续上一篇）、SDK、deep及bsp工程管理](https://blog.csdn.net/m0_74317917/article/details/151586318)
 
++ [Matplotlib：绘制你的第一张折线图与散点图](https://blog.csdn.net/qq_37956697/article/details/151659873)
+
++ [63_基于深度学习的草莓病害检测识别系统（yolo11、yolov8、yolov5+UI界面+Python项目源码+模型+标注好的数据集）](https://blog.csdn.net/qq_28949847/article/details/151612627)
+
