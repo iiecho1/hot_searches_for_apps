@@ -49,3 +49,7 @@
 
 + [华为 Pura80 Ultra 港版机型推送 EMUI 15.0.0.140 升级，新增支持卫星通信](https://m.ithome.com/html/882803.htm)
 
++ [TI 重返中国，Valve 宣布 2026 年《DOTA2》国际邀请赛（TI15）将在上海举办](https://m.ithome.com/html/882885.htm)
+
++ [199 → 150 元：酷态科 10 号超级电能充 Ultra 直降，1.57 英寸屏 + 120W 澎湃秒充](https://m.ithome.com/html/882884.htm)
+

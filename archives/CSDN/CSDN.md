@@ -105,3 +105,27 @@
 
 + [Qt/C++，windows多进程demo](https://blog.csdn.net/bikong7/article/details/151657691)
 
++ [PyTorch实战——基于LSTM的情感分析模型](https://blog.csdn.net/LOVEmy134611/article/details/150269830)
+
++ [MySQL联合查询](https://blog.csdn.net/2401_89019969/article/details/151070568)
+
++ [前端引入的JS加载失败页面功能无法使用？JS加载失败的终极解决方案](https://blog.csdn.net/lhmyy521125/article/details/151628199)
+
++ [AI热点周报（9.7~9.13）：阿里Qwen3-Next震撼发布、Claude 增强记忆与服务抖动、OpenAI 聚焦模型规范化...](https://blog.csdn.net/qq_51646682/article/details/151650942)
+
++ [《嵌入式硬件（十二）：基于IMX6ULL的时钟操作》](https://blog.csdn.net/weixin_72612809/article/details/151690382)
+
++ [网络安全渗透测试第一步信息收集](https://blog.csdn.net/lubiii_/article/details/151651480)
+
++ [TA-VLA——将关节力矩反馈融入VLA中：无需外部力传感器，即可完成汽车充电器插入(且可多次自主尝试)](https://blog.csdn.net/v_JULY_v/article/details/151658751)
+
++ [计算机网络概述](https://blog.csdn.net/2301_79609207/article/details/151621748)
+
++ [计算机网络概述](https://blog.csdn.net/pusue_the_sun/article/details/151659967)
+
++ [GitHub 热榜项目 - 日榜(2025-09-15)](https://blog.csdn.net/u014390502/article/details/151704640)
+
++ [嵌入式ARM SOC开发中文专题分享一：ARM SOC外围资源介绍](https://blog.csdn.net/zjz271674605/article/details/151084335)
+
++ [SwiftUI 7 布局革命：新容器与动态约束如何重塑 UI 开发范式](https://blog.csdn.net/qq_41187124/article/details/151722464)
+
