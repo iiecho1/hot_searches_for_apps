@@ -197,3 +197,9 @@
 
 + [美“天鹅座”飞船为国际空间站送货](https://news.cctv.com/2025/09/15/ARTIPqnw56ve9tqvvLTMbD2Z250915.shtml)
 
++ [伊朗总统：地区国家应团结并与以色列断绝关系](https://news.cctv.com/2025/09/15/ARTIGupgwcfvpMNf5UmlteVp250915.shtml)
+
++ [马来西亚沙巴州发生山体滑坡 1人死亡 至少6人被埋](https://news.cctv.com/2025/09/15/ARTImnkhFaTEfjq7Y7ZEwmLv250915.shtml)
+
++ [刚果（金）启动埃博拉疫苗接种 地区防控面临挑战](https://news.cctv.com/2025/09/15/ARTIzqdlK9hcDIX4b1hv7K5G250915.shtml)
+
