@@ -191,3 +191,17 @@
 
 + [Zynq开发实践（FPGA之选择开发板）](https://blog.csdn.net/feixiaoxing/article/details/151647139)
 
++ [【C#】.net core 8.0 MVC在一次偶然间发现控制器方法整个Model实体类对象值为null，猛然发现原来是](https://blog.csdn.net/lmy_520/article/details/148742469)
+
++ [微信小程序 - 实现人脸识别对比+人脸相似度数据，用户从相册选择或拍照上传两张图片进行人脸对比得到人脸相似度及判断是否是同一个人，微信小程序检测人脸相似度（免费纯前端方案+调用第三方API接口方案）](https://blog.csdn.net/weixin_44198965/article/details/151710421)
+
++ [05.【Linux系统编程】进程（冯诺依曼体系结构、进程概念、进程状态（注意僵尸和孤儿）、进程优先级、进程切换和调度）](https://blog.csdn.net/qq_54652195/article/details/151584989)
+
++ [《Python Web部署应知应会》No3：Flask网站的性能优化和实时监测深度实战](https://blog.csdn.net/yweng18/article/details/146709848)
+
++ [服装定制|基于SSM＋vue的服装定制系统的设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/151648244)
+
++ [网络安全渗透测试第一步信息收集](https://blog.csdn.net/lubiii_/article/details/151651480)
+
++ [嵌入式ARM SOC开发中文专题分享一：ARM SOC外围资源介绍](https://blog.csdn.net/zjz271674605/article/details/151084335)
+

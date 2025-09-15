@@ -57,3 +57,23 @@
 
 + [商务部：就美国对华集成电路领域相关措施发起反歧视立案调查](https://m.ithome.com/html/882740.htm)
 
++ [小米 17 / Pro / Pro Max 旗舰手机官宣本月发布：全球首发第五代骁龙 8 至尊版，系列史上最重大跃迁](https://m.ithome.com/html/882950.htm)
+
++ [雷军：小米 17 系列全面对标 iPhone，正面迎战](https://m.ithome.com/html/882966.htm)
+
++ [TI 重返中国，Valve 宣布 2026 年《DOTA2》国际邀请赛（TI15）将在上海举办](https://m.ithome.com/html/882885.htm)
+
++ [罗永浩邀请西贝贾国龙直播当面对话：你说我是网络黑社会，我认为你是诬蔑诽谤](https://m.ithome.com/html/882916.htm)
+
++ [苹果 iPhone Air、iPhone 17 / Pro 系列真机包装盒曝光：简洁风格、橙色亮眼](https://m.ithome.com/html/882902.htm)
+
++ [高通第五代骁龙 8 至尊版处理器官宣，官方解答为何叫“第五代”](https://m.ithome.com/html/882933.htm)
+
++ [西贝连夜召开“1.8 万名伙伴跟罗永浩之战”全员大会，向一线员工发 500 元补贴](https://m.ithome.com/html/882970.htm)
+
++ [199 → 150 元：酷态科 10 号超级电能充 Ultra 直降，1.57 英寸屏 + 120W 澎湃秒充](https://m.ithome.com/html/882884.htm)
+
++ [技术冲突成主因，苹果 iPhone 17 Pro / Max 无缘反向无线充电](https://m.ithome.com/html/882938.htm)
+
++ [西贝致歉：生产工艺与顾客的期望有较大差异，10 月 1 日前完成 9 大调整](https://m.ithome.com/html/883011.htm)
+
