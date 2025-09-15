@@ -131,3 +131,13 @@
 
 + [【Linux】深入Linux多线程架构与高性能编程](https://blog.csdn.net/2401_83431652/article/details/151184547)
 
++ [【愚公系列】《人工智能70年》018-语音识别的历史性突破（剑桥语音的黄金十年）](https://blog.csdn.net/aa2528877987/article/details/151675752)
+
++ [.NET依赖注入终极指南：5个高级模式揭秘，为何90%的开发者忽视服务生命周期管理？](https://blog.csdn.net/z_344791576/article/details/150447919)
+
++ [前端vue使用canvas封装图片标注功能，鼠标画矩形框，标注文字 包含下载标注之后的图片](https://blog.csdn.net/m0_71835253/article/details/151658546)
+
++ [冯诺依曼体系：现代计算机的基石与未来展望](https://blog.csdn.net/m0_70933482/article/details/151660274)
+
++ [Zynq开发实践（FPGA之第一个vivado工程）](https://blog.csdn.net/feixiaoxing/article/details/151607073)
+
