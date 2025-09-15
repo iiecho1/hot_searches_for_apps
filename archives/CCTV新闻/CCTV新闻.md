@@ -161,3 +161,7 @@
 
 + [美国多所主要招收非洲裔学生的高校因遭威胁停课](https://news.cctv.com/2025/09/12/ARTInjmBDHCgtoKvpQxNMmAz250912.shtml)
 
++ [阿拉伯-伊斯兰紧急峰会谴责以色列袭击卡塔尔](https://news.cctv.com/2025/09/16/ARTIdAVaKdYiYUBn5F0pLv6R250916.shtml)
+
++ [巴西官员尚未获得赴美参加联合国大会的签证](https://news.cctv.com/2025/09/16/ARTIYiVYcSanbkMg20XRQW39250916.shtml)
+
