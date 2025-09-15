@@ -245,3 +245,7 @@
 
 + [6【鸿蒙/OpenHarmony/NDK】多线程调用 JS 总崩溃？用 napi_create_threadsafe_function 搞定线程安全交互](https://blog.csdn.net/C2681595858/article/details/151686202)
 
++ [Python：OpenCV 教程——从传统视觉到深度学习：YOLOv8 与 OpenCV DNN 模块协同实现工业缺陷检测](https://blog.csdn.net/2501_92796370/article/details/151649126)
+
++ [精通 Redis list：使用 redis-plus-plus 的现代 C++ 实践深度解析](https://blog.csdn.net/2301_80863610/article/details/151724340)
+
