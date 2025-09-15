@@ -241,3 +241,7 @@
 
 + [微信小程序精品项目-基于spring boot的校园二手交易平台系统小程序(源码+LW+部署文档+全bao+远程调试+代码讲解等)](https://blog.csdn.net/v_xmb738/article/details/151687679)
 
++ [【Linux】你真的了解操作系统吗？怀疑中](https://blog.csdn.net/2403_84958571/article/details/149969845)
+
++ [6【鸿蒙/OpenHarmony/NDK】多线程调用 JS 总崩溃？用 napi_create_threadsafe_function 搞定线程安全交互](https://blog.csdn.net/C2681595858/article/details/151686202)
+
