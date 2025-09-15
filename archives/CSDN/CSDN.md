@@ -101,3 +101,7 @@
 
 + [IDEA使用Maven和MyBatis简化数据库连接（配置篇）](https://blog.csdn.net/2501_90864902/article/details/151656558)
 
++ [【Linux】你真的了解操作系统吗？怀疑中](https://blog.csdn.net/2403_84958571/article/details/149969845)
+
++ [Qt/C++，windows多进程demo](https://blog.csdn.net/bikong7/article/details/151657691)
+

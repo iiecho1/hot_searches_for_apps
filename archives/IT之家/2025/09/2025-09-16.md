@@ -25,3 +25,27 @@
 
 + [万志强解释魅族 22 手机为何用高通骁龙 8s Gen4 芯片：选 8 Elite Gen5 要加 1300 元、延期半年](https://m.ithome.com/html/883121.htm)
 
++ [库克谈 iPhone 17 Pro/Max 首次引入 VC 均热板设计：我认为这算是苹果专属发明创新，或许只有苹果才能做到](https://m.ithome.com/html/882784.htm)
+
++ [消息称华为老机型更新鸿蒙 HarmonyOS 6.0 后，内置 eSIM 应用](https://m.ithome.com/html/882763.htm)
+
++ [网图成真：唐国强上手华为 Mate XTs 非凡大师三折叠手机，直言“批起来更有感觉了”](https://m.ithome.com/html/882777.htm)
+
++ [苹果 iPhone 17 系列首搭自研 N1 芯片：Wi-Fi 7 带宽仍限制 160 MHz，未达 320 MHz 标准](https://m.ithome.com/html/882776.htm)
+
++ [中国核电催更《流浪地球 3》，称“再不拍完我们就要亮家伙了”](https://m.ithome.com/html/882826.htm)
+
++ [关于 eSIM，看这一篇就够啦](https://m.ithome.com/html/882799.htm)
+
++ [苹果近期产品规划曝光：iPhone 17 发布会后仍有 10 款新品，半数年底前推出](https://m.ithome.com/html/882890.htm)
+
++ [华为、小米、比亚迪、英伟达、阿里巴巴、游戏科学、DeepSeek、宇树科技等入选 MIT 科技评论 2025 年度“50 家聪明公司”](https://m.ithome.com/html/882793.htm)
+
++ [苹果“40W 动态电源适配器（最高 60W）”充电头实测：兼容 PD 60W 输入协议，提供约 18 分钟峰值功率](https://m.ithome.com/html/882880.htm)
+
++ [《原神》新角色着装暴露遭举报，米哈游回应称已收到玩家反馈并记录](https://m.ithome.com/html/882779.htm)
+
++ [央视实验证明燃气灶聚能环“厨房神器”不节能，还暗藏爆炸、中毒等风险](https://m.ithome.com/html/882811.htm)
+
++ [华为 Pura80 Ultra 港版机型推送 EMUI 15.0.0.140 升级，新增支持卫星通信](https://m.ithome.com/html/882803.htm)
+
