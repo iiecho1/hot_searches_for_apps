@@ -181,3 +181,9 @@
 
 + [美国务卿抵达以色列 卡塔尔愿继续斡旋 加沙局势是否迎来转机？](https://news.cctv.com/2025/09/15/ARTItCfqin6vAGKPsib65MMG250915.shtml)
 
++ [遇暴雨 波兰一客机降落时冲出跑道](https://news.cctv.com/2025/09/15/ARTIoqiOwmhAWhr7xiXXCj5t250915.shtml)
+
++ [卢拉在《纽约时报》撰文 强调巴西民主与主权不容谈判](https://news.cctv.com/2025/09/15/ARTIGnMNIe41zdiHKApnYmTT250915.shtml)
+
++ [美国会最新报告预测美今年经济数据将“全面变糟”](https://news.cctv.com/2025/09/15/ARTI5VbvnLlGhVFHavVR5Gid250915.shtml)
+
