@@ -165,3 +165,9 @@
 
 + [springboot集成websocket](https://blog.csdn.net/weixin_49990593/article/details/151651977)
 
++ [Java调用UniHttp接口请求失败？一次开源的深入实践-百度SN签名认证场景下参数乱序问题的三种解决策略](https://blog.csdn.net/yelangkingwuzuhu/article/details/151653062)
+
++ [LabVIEW 中的振动分析与信号处理](https://blog.csdn.net/bjcyck/article/details/151678804)
+
++ [科技信息差（9.12）](https://blog.csdn.net/eqwaak0/article/details/151625510)
+
