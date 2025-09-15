@@ -217,3 +217,27 @@
 
 + [基于SpringBoot的实验室排课系统微信小程序(程序+文档+讲解)](https://blog.csdn.net/ML15252729822/article/details/151709203)
 
++ [LSTM 深度解析：从门控机制到实际应用](https://blog.csdn.net/2401_88885149/article/details/151027208)
+
++ [金仓数据库与Java整合Activiti工作流实战：从兼容性到SpringBoot配置](https://blog.csdn.net/weixin_44976692/article/details/151709983)
+
++ [机器学习周报十三](https://blog.csdn.net/weixin_60864619/article/details/151682580)
+
++ [【医疗 AI】Baichuan-M2 医疗大模型：技术解读与使用方法](https://blog.csdn.net/youcans/article/details/151677184)
+
++ [【Docker+Nginx+Ollama】前后端分离式项目部署（传统打包方式）](https://blog.csdn.net/2401_84926677/article/details/151659844)
+
++ [Linux内核中IPv4传输模式的封装实现剖析](https://blog.csdn.net/eidolon_foot/article/details/151195844)
+
++ [深入理解MySQL主从架构中的Seconds_Behind_Master指标](https://blog.csdn.net/weixin_46215617/article/details/151688128)
+
++ [docker-webtop+cpolar：无感远程Linux桌面方案](https://blog.csdn.net/qyj19920704/article/details/151718645)
+
++ [[免费]基于Python的Django商品二手交易平台【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/151712201)
+
++ [KingbaseES读写分离集群架构解析](https://blog.csdn.net/weixin_66401877/article/details/151661859)
+
++ [MicroNAS：面向MCU的零样本神经架构搜索——论文阅读](https://blog.csdn.net/qq_44648285/article/details/151686386)
+
++ [微信小程序精品项目-基于spring boot的校园二手交易平台系统小程序(源码+LW+部署文档+全bao+远程调试+代码讲解等)](https://blog.csdn.net/v_xmb738/article/details/151687679)
+
