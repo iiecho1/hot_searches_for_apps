@@ -171,3 +171,13 @@
 
 + [科技信息差（9.12）](https://blog.csdn.net/eqwaak0/article/details/151625510)
 
++ [4.2-中间件之MySQL](https://blog.csdn.net/jc0620/article/details/151360351)
+
++ [学习threejs，使用自定义GLSL 着色器，实现水面、粒子特效](https://blog.csdn.net/qq_28419035/article/details/151710076)
+
++ [OpenTenBase分布式HTAP实战：从Oracle迁移到云原生数据库的完整指南](https://blog.csdn.net/Rqaqedamancy/article/details/151688794)
+
++ [《嵌入式硬件（十二）：基于IMX6ULL的时钟操作》](https://blog.csdn.net/weixin_72612809/article/details/151690382)
+
++ [RK3588系列核心板规格参数：八核异构、6TOPS NPU、8K显示](https://blog.csdn.net/xwzn_Signway/article/details/151624037)
+
