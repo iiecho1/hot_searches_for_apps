@@ -209,3 +209,11 @@
 
 + [【C#工业上位机高级应用】10. 工业图形渲染优化：WPF高性能可视化与实时曲线绘制实战指南](https://blog.csdn.net/weixin_39815573/article/details/151687740)
 
++ [基于LazyLLM多Agent大模型应用的开发框架，搭建本地大模型AI工具，你贴身的写作、论文小助手](https://blog.csdn.net/weixin_43151418/article/details/151709006)
+
++ [SwiftUI 7 布局革命：新容器与动态约束如何重塑 UI 开发范式](https://blog.csdn.net/qq_41187124/article/details/151722464)
+
++ [前后端分离微信昆明地区宠物领养平台系统|SpringBoot+微信小程序+MyBatis+MySQL完整源码+部署教程](https://blog.csdn.net/2201_76027915/article/details/151717413)
+
++ [基于SpringBoot的实验室排课系统微信小程序(程序+文档+讲解)](https://blog.csdn.net/ML15252729822/article/details/151709203)
+
