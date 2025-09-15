@@ -33,3 +33,19 @@
 
 + [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm)
 
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
++ [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+
++ [sst/opencode](https://github.com/sst/opencode)
+
++ [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
+
++ [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+
++ [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
+

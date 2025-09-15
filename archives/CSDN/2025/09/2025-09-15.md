@@ -205,3 +205,7 @@
 
 + [嵌入式ARM SOC开发中文专题分享一：ARM SOC外围资源介绍](https://blog.csdn.net/zjz271674605/article/details/151084335)
 
++ [《基于国产Linux的机房终端安全重构方案》](https://blog.csdn.net/Herryfyh/article/details/151681531)
+
++ [【C#工业上位机高级应用】10. 工业图形渲染优化：WPF高性能可视化与实时曲线绘制实战指南](https://blog.csdn.net/weixin_39815573/article/details/151687740)
+
