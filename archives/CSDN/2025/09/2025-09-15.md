@@ -181,3 +181,13 @@
 
 + [RK3588系列核心板规格参数：八核异构、6TOPS NPU、8K显示](https://blog.csdn.net/xwzn_Signway/article/details/151624037)
 
++ [大数据如何捕捉你的爱好？如何实现跨站用户行为分析？](https://blog.csdn.net/RenGJ010617/article/details/150499177)
+
++ [【深度学习计算机视觉】05：多尺度目标检测](https://blog.csdn.net/Morse_Chen/article/details/151678179)
+
++ [Go 并发模型学习：从 goroutine 到 channel 的最佳实践](https://blog.csdn.net/IRpickstars/article/details/151705908)
+
++ [前端WebSocket实时通信实现](https://blog.csdn.net/qq_43403486/article/details/151620846)
+
++ [Zynq开发实践（FPGA之选择开发板）](https://blog.csdn.net/feixiaoxing/article/details/151647139)
+
