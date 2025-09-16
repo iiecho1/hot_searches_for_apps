@@ -161,3 +161,11 @@
 
 + [C++：穿越时空的编程巨人——从历史演进到现代应用与学习指南](https://blog.csdn.net/2502_91499791/article/details/151714436)
 
++ [AI Compass前沿速览：IndexTTS2–B站、HuMo、Stand-In视觉生成框架、Youtu-GraphRAG、MobileLLM-R1–Meta、PP-OCRv5](https://blog.csdn.net/mr_yuanshen/article/details/151728486)
+
++ [.NET驾驭Word之力：理解Word对象模型核心 (Application, Document, Range)](https://blog.csdn.net/xlqdml/article/details/151716063)
+
++ [Vue 3 前端工程化规范](https://blog.csdn.net/weixin_42288219/article/details/151727170)
+
++ [基于FPGA实现LeNet-5（经典CNN识别手写数字）推理](https://blog.csdn.net/CSDN_ChengJing/article/details/151679382)
+
