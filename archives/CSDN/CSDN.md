@@ -171,3 +171,37 @@
 
 + [使用 Matplotlib 让排序算法动起来：可视化算法执行过程的技术详解](https://blog.csdn.net/eqwaak0/article/details/151688285)
 
++ [挣脱网络桎梏：CapsWriter-Offline+cpolar，让高效输入不受网络牵绊](https://blog.csdn.net/2301_80350265/article/details/151754195)
+
++ [Python TensorFlow的CNN-LSTM-GRU集成模型在边缘物联网数据IoT电动汽车充电站入侵检测应用](https://blog.csdn.net/qq_19600291/article/details/151720408)
+
++ [Spark专题-第一部分：Spark 核心概述（1）-Spark 是什么？](https://blog.csdn.net/weixin_44999258/article/details/151690292)
+
++ [【Java后端】Spring Boot 集成雪花算法唯一 ID ](https://blog.csdn.net/qq_41688840/article/details/151689475)
+
++ [Vue3 响应式失效 debug：Proxy 陷阱导致数据更新异常的深度排查](https://blog.csdn.net/Rqaqedamancy/article/details/151688702)
+
++ [自动化测试的概念](https://blog.csdn.net/codezhu/article/details/151672172)
+
++ [uniapp - 强力解决H5网页浏览器跨域问题，如何解决uniapp请求接口在浏览器跨域问题，UniApp H5 跨域代理配置详细教程完美解决所有uniapp跨域（调用第三方接口或服务器api跨域）](https://blog.csdn.net/weixin_44198965/article/details/151757078)
+
++ [JAVASCRIPT 前端数据库-V9--仙盟数据库架构-—仙盟创梦IDE](https://blog.csdn.net/cybersnow/article/details/151725098)
+
++ [GitHub 热榜项目 - 日榜(2025-09-16)](https://blog.csdn.net/u014390502/article/details/151747943)
+
++ [支持向量机：从理论到实践](https://blog.csdn.net/m0_62895602/article/details/151675795)
+
++ [【开源工具】智能视频压缩工具：融合现代UI与FFmpeg的强大解决方案](https://blog.csdn.net/Clay_K/article/details/151753952)
+
++ [PPTist+cpolar：开源演示文稿的远程创作方案](https://blog.csdn.net/Tiam_cr/article/details/151754363)
+
++ [uniapp(微信小程序)：实现PDF在线预览+在线预览pdf文件完整示例源码，支持文件来源：服务器pdf外链URL预览、调用后端API接口获取PDF文件流二进制下载及解析打开、上传本地PDF文件预览](https://blog.csdn.net/weixin_50545213/article/details/151758074)
+
++ [从go语言出发,搭建多语言云原生场景下全链路观测体系](https://blog.csdn.net/qq_35323137/article/details/151724273)
+
++ [基于YOLO8的打架斗殴行为检测系统【源码+数据集+文章】](https://blog.csdn.net/qq_42681787/article/details/151726548)
+
++ [Kafka消息队列进阶：发送策略与分区算法优化指南](https://blog.csdn.net/m0_74385041/article/details/151726916)
+
++ [【完整源码+数据集+部署教程】俯视视角交通场景图像分割系统： yolov8-seg-FocalModulation](https://blog.csdn.net/weixin_43860634/article/details/151708963)
+
