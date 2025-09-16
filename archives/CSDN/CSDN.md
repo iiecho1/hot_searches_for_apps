@@ -149,3 +149,9 @@
 
 + [LabVIEW 中的振动分析与信号处理](https://blog.csdn.net/bjcyck/article/details/151678804)
 
++ [深度学习-计算机视觉-目标检测三大算法-R-CNN、SSD、YOLO](https://blog.csdn.net/weixin_74126320/article/details/151684241)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在城市交通拥堵治理与出行效率提升中的应用](https://blog.csdn.net/atgfg/article/details/151691337)
+
++ [【花雕动手做】Kitronik 可编程游戏开发板基于 ARCADE MakeCode 之方块落体](https://blog.csdn.net/weixin_41659040/article/details/151752814)
+
