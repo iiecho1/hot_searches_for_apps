@@ -133,3 +133,7 @@
 
 + [在线图书借阅平台的设计与实现 —— 基于飞算JavaAI的实战开发全流程与优化实践](https://blog.csdn.net/2401_86326742/article/details/151727543)
 
++ [【IoTDB】时序数据库选型指南：工业大数据场景下的技术突围](https://blog.csdn.net/hanwangyyds/article/details/151727681)
+
++ [跨网络JVM调试新范式：一个方案实现远程代码诊断](https://blog.csdn.net/2301_77485708/article/details/151724654)
+

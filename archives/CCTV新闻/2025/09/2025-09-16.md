@@ -165,3 +165,9 @@
 
 + [巴西官员尚未获得赴美参加联合国大会的签证](https://news.cctv.com/2025/09/16/ARTIYiVYcSanbkMg20XRQW39250916.shtml)
 
++ [美媒曝特朗普提前知晓多哈袭击 美以急否认](https://news.cctv.com/2025/09/16/ARTIOjB6yLG9nTPVuYmnxCti250916.shtml)
+
++ [世贸组织《渔业补贴协定》正式生效](https://news.cctv.com/2025/09/16/ARTIeBWCNE3Gi8Q2J8REnZs6250916.shtml)
+
++ [美国重新解读军控协议 以放宽军用无人机出口](https://news.cctv.com/2025/09/16/ARTIoiRSOiWGyCjShRyFeHIA250916.shtml)
+

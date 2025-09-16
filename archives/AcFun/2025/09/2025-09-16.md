@@ -75,3 +75,5 @@
 
 + [珂莱塔~Nice Body](https://m.acfun.cn/v/?ac=47825682)
 
++ [Brave Girls Rollin 路演](https://m.acfun.cn/v/?ac=47823485)
+
