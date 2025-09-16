@@ -173,3 +173,7 @@
 
 + [FBI：枪杀柯克的嫌疑人曾发“预告”](https://news.cctv.com/2025/09/16/ARTIjMmDCXKJqeK8F7z7JjAl250916.shtml)
 
++ [欧盟暂时取消讨论新一轮对俄制裁措施草案](https://news.cctv.com/2025/09/16/ARTIAacQ4IoJHH2On1VzVVQo250916.shtml)
+
++ [专访｜中国市场与供应链助力奥迪电动化转型——访奥迪全球首席执行官格诺特·德尔纳](https://news.cctv.com/2025/09/16/ARTIZ5XfXgE0BryYeeFvmk32250916.shtml)
+
