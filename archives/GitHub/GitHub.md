@@ -31,3 +31,17 @@
 
 + [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
 
++ [dataease/SQLBot](https://github.com/dataease/SQLBot)
+
++ [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
+
++ [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
++ [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc)
+
++ [BasedHardware/omi](https://github.com/BasedHardware/omi)
+
++ [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush)
+
++ [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
