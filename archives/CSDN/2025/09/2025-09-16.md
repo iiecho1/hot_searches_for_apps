@@ -137,3 +137,5 @@
 
 + [跨网络JVM调试新范式：一个方案实现远程代码诊断](https://blog.csdn.net/2301_77485708/article/details/151724654)
 
++ [机器人逆运动学进阶：李代数、矩阵指数与旋转流形计算](https://blog.csdn.net/m0_46510245/article/details/151688352)
+
