@@ -143,3 +143,9 @@
 
 + [C/C++:看简介吧=￣ω￣=(2)](https://blog.csdn.net/fengbizhe/article/details/150868654)
 
++ [PyTorch生成式人工智能（30）——扩散模型（Diffusion Model）](https://blog.csdn.net/LOVEmy134611/article/details/146260730)
+
++ [极速掌控Docker全链路：容器操控+Nginx主页改造+BusyBox工具实践+腾讯云仓库部署​](https://blog.csdn.net/2401_82648291/article/details/150693061)
+
++ [LabVIEW 中的振动分析与信号处理](https://blog.csdn.net/bjcyck/article/details/151678804)
+
