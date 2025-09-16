@@ -65,3 +65,5 @@
 
 + [前往Ave Mujica的世界『天球のMúsica』超燃女声翻唱](https://m.acfun.cn/v/?ac=47829205)
 
++ [禁止成人游戏抢先体验？G胖伟大|steam历史前十在线引热议，博德3不如香蕉？](https://m.acfun.cn/v/?ac=47828098)
+
