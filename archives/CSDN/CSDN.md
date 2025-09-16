@@ -101,3 +101,13 @@
 
 + [SwiftUI 7 布局革命：新容器与动态约束如何重塑 UI 开发范式](https://blog.csdn.net/qq_41187124/article/details/151722464)
 
++ [四、Scala深入面向对象：类、对象与伴生关系](https://blog.csdn.net/2401_83830408/article/details/151687015)
+
++ [Kafka消息队列进阶：发送策略与分区算法优化指南](https://blog.csdn.net/m0_74385041/article/details/151726916)
+
++ [从go语言出发,搭建多语言云原生场景下全链路观测体系](https://blog.csdn.net/qq_35323137/article/details/151724273)
+
++ [基于YOLO8的打架斗殴行为检测系统【源码+数据集+文章】](https://blog.csdn.net/qq_42681787/article/details/151726548)
+
++ [ARM Cortex-M 中的 I-CODE 总线、D-CODE 总线和系统总线](https://blog.csdn.net/guigenyi/article/details/151681594)
+
