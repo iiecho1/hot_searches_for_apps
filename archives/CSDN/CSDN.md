@@ -139,3 +139,7 @@
 
 + [机器人逆运动学进阶：李代数、矩阵指数与旋转流形计算](https://blog.csdn.net/m0_46510245/article/details/151688352)
 
++ [Java 大视界 -- Java 大数据在智能家居场景联动与用户行为模式挖掘中的应用](https://blog.csdn.net/atgfg/article/details/151649678)
+
++ [C/C++:看简介吧=￣ω￣=(2)](https://blog.csdn.net/fengbizhe/article/details/150868654)
+
