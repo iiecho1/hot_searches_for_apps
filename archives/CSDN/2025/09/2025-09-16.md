@@ -169,3 +169,5 @@
 
 + [基于FPGA实现LeNet-5（经典CNN识别手写数字）推理](https://blog.csdn.net/CSDN_ChengJing/article/details/151679382)
 
++ [使用 Matplotlib 让排序算法动起来：可视化算法执行过程的技术详解](https://blog.csdn.net/eqwaak0/article/details/151688285)
+
