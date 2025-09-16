@@ -127,3 +127,9 @@
 
 + [使用HTTPS 服务在浏览器端使用摄像头的方式解析](https://blog.csdn.net/weixin_45690427/article/details/151688955)
 
++ [OpenTenBase分布式HTAP实战：从Oracle迁移到云原生数据库的完整指南](https://blog.csdn.net/Rqaqedamancy/article/details/151688794)
+
++ [中小企业监控方案：cpolar让OpenObserve配置更轻松](https://blog.csdn.net/liu_chen_yang/article/details/151749203)
+
++ [《基于国产Linux的机房终端安全重构方案》](https://blog.csdn.net/Herryfyh/article/details/151681531)
+

@@ -47,3 +47,17 @@
 
 + [荣耀郭锐：安卓用两年就卡的标签应该被撕掉了，即将发布的 MagicOS10 会带来重大优化](https://m.ithome.com/html/883296.htm)
 
++ [消息称小米 17 Pro 手机将搭 5000 万像素徕卡超大底三摄：主摄 f/1.67、长焦 f/3.0](https://m.ithome.com/html/883322.htm)
+
++ [迄今最大规模 iPad 系统更新：苹果 iPadOS 26 发布，液态玻璃焕新界面、全面提升生产力](https://m.ithome.com/html/883240.htm)
+
++ [iOS 26 新增“自适应电源”功能，苹果 iPhone 17/Air/Pro 系列默认启用](https://m.ithome.com/html/883202.htm)
+
++ [华为鸿蒙 HarmonyOS 5.1.0 (18) 及以上版本系统支持 eSIM 卡管理](https://m.ithome.com/html/883302.htm)
+
++ [苹果 AirPods 4 / Pro 2 耳机推送 8A356 固件，新增实时翻译等 7 项功能](https://m.ithome.com/html/883203.htm)
+
++ [微信客服回应聊天可发 LivePhoto 实况照片：暂仅支持苹果 iOS，安卓 / 鸿蒙客户端适配中](https://m.ithome.com/html/883437.htm)
+
++ [理想 i6 新形态五座 SUV 官宣 9 月 26 日上市：车长 4.95 米、低风阻造型设计](https://m.ithome.com/html/883280.htm)
+
