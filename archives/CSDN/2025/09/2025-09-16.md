@@ -155,3 +155,9 @@
 
 + [【花雕动手做】Kitronik 可编程游戏开发板基于 ARCADE MakeCode 之方块落体](https://blog.csdn.net/weixin_41659040/article/details/151752814)
 
++ [Docker 镜像瘦身实战：从 1.2GB 压缩到 200MB 的优化过程](https://blog.csdn.net/IRpickstars/article/details/151748681)
+
++ [Apache IoTDB（5）：深度解析时序数据库 IoTDB 在 AINode 模式单机和集群的部署与实践](https://blog.csdn.net/Dreamy_zsy/article/details/151217513)
+
++ [C++：穿越时空的编程巨人——从历史演进到现代应用与学习指南](https://blog.csdn.net/2502_91499791/article/details/151714436)
+
