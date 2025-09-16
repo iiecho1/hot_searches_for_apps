@@ -131,3 +131,5 @@
 
 + [【Nginx开荒攻略】Nginx主配置文件结构与核心模块详解：从0到1掌握nginx.conf：](https://blog.csdn.net/qq_43715111/article/details/151688669)
 
++ [在线图书借阅平台的设计与实现 —— 基于飞算JavaAI的实战开发全流程与优化实践](https://blog.csdn.net/2401_86326742/article/details/151727543)
+

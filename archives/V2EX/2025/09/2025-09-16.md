@@ -21,3 +21,5 @@
 
 + [[送码] Percento 5.0 全新适配 iOS 26，新增「自动记」功能](https://www.v2ex.com/t/1159180)
 
++ [Apifox 体验良好且免费，但为什么团队中抛弃 Postman 依旧困难？](https://www.v2ex.com/t/1159283)
+
