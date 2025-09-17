@@ -199,3 +199,5 @@
 
 + [英国8月通胀率维持3.8%不变 食品价格加速上涨](https://news.cctv.com/2025/09/17/ARTIlLAj5Q8FedXlAbVqVq3v250917.shtml)
 
++ [专访丨中国高水平对外开放为东盟国家提供发展机遇——访东盟-中国经济贸易发展促进会秘书长潘荣德](https://news.cctv.com/2025/09/17/ARTINbM2dbdcDPzndSNLsde4250917.shtml)
+
