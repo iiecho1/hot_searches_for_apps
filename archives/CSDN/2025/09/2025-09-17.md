@@ -133,3 +133,9 @@
 
 + [《基于国产Linux的机房终端安全重构方案》](https://blog.csdn.net/Herryfyh/article/details/151681531)
 
++ [答题卡识别改分项目](https://blog.csdn.net/2302_76756558/article/details/151726594)
+
++ [Java 大视界 -- Java 大数据在智能安防视频监控系统中的视频内容理解与智能预警升级](https://blog.csdn.net/atgfg/article/details/151766874)
+
++ [Linux的生产者消费者模型](https://blog.csdn.net/2302_80310672/article/details/151657644)
+

@@ -169,3 +169,7 @@
 
 + [委外交部：国际报告认证委内瑞拉为无毒品走私地区](https://news.cctv.com/2025/09/17/ARTIeiTmuY4eLXBJcS55qsHA250917.shtml)
 
++ [巴西前总统博索纳罗因种族歧视言论受罚](https://news.cctv.com/2025/09/17/ARTInGZ0g1X9vuJ8NVmAwq9f250917.shtml)
+
++ [以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统](https://news.cctv.com/2025/09/17/ARTIbq5SzafDgLSb9Bd3ZbJh250917.shtml)
+
