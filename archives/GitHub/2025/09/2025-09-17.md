@@ -29,3 +29,25 @@
 
 + [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
++ [WebKit/WebKit](https://github.com/WebKit/WebKit)
+
++ [openai/codex](https://github.com/openai/codex)
+
++ [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
++ [google-research/timesfm](https://github.com/google-research/timesfm)
+
++ [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+
++ [sst/opencode](https://github.com/sst/opencode)
+
++ [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)
+
++ [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
+
++ [flutter/flutter](https://github.com/flutter/flutter)
+
++ [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
+
++ [curl/curl](https://github.com/curl/curl)
+
