@@ -201,3 +201,9 @@
 
 + [滤波器的三重境界：从信号处理到自动驾驶测试的基石](https://blog.csdn.net/qq_41854291/article/details/151756740)
 
++ [玩转ClaudeCode：用Database-MCP实现自然语言操作数据库](https://blog.csdn.net/weixin_41793160/article/details/151686576)
+
++ [C++之基于正倒排索引的Boost搜索引擎项目数据清洗代码及详解（下）](https://blog.csdn.net/fyy31/article/details/151334817)
+
++ [（用Maven）整合SpringBoot，SpringMVC，MyBatis](https://blog.csdn.net/2303_79101629/article/details/151683464)
+

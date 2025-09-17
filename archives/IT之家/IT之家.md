@@ -61,3 +61,25 @@
 
 + [理想 i6 新形态五座 SUV 官宣 9 月 26 日上市：车长 4.95 米、低风阻造型设计](https://m.ithome.com/html/883280.htm)
 
++ [京东刘强东喊话美团王兴：我们不应该变成仇人，兴哥我很尊重](https://m.ithome.com/html/883465.htm)
+
++ [苹果 iOS / iPadOS / macOS / watchOS / visionOS 26 正式版推送，一文汇总更新亮点](https://m.ithome.com/html/883461.htm)
+
++ [小米 17 Pro 系列手机全新「妙享背屏」个性化外观公布，本月见](https://m.ithome.com/html/883548.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.100 开发者 / 用户尝鲜版本开启推送，含 nova 14、Mate 70 系列等机型](https://m.ithome.com/html/883491.htm)
+
++ [消息称苹果 iPhone 18 Pro 系列手机已打样：工程机后盖拼接玻璃透明设计、含不锈钢 VC 均热](https://m.ithome.com/html/883530.htm)
+
++ [苹果 iOS 26 内置选项可削弱液态玻璃效果，界面更像 iOS 18](https://m.ithome.com/html/883513.htm)
+
++ [IT之家客户端 iOS / iPadOS 版 9.10 上线：适配苹果 iOS 26 “液态玻璃”！](https://m.ithome.com/html/883427.htm)
+
++ [投票：苹果 iOS 26 正式版更新推送，你升级了吗？还满意吗？](https://m.ithome.com/html/883493.htm)
+
++ [小米 17 Pro 现身 Geekbench：首发搭载高通骁龙 8 Elite Gen 5、安卓 16 系统](https://m.ithome.com/html/883536.htm)
+
++ [鸿蒙智行首款旅行车享界 S9T 正式上市：搭载华为乾崑智驾 ADS 4，30.98 万元起](https://m.ithome.com/html/883460.htm)
+
++ [华为 Mate 70、Pura X 系列等机型升级 HarmonyOS 6 开发者版本后支持 AI 防窥保护](https://m.ithome.com/html/883575.htm)
+
