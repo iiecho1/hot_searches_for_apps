@@ -135,3 +135,5 @@
 
 + [【Linux指南】Makefile进阶：通用化语法与实战技巧](https://blog.csdn.net/2302_78391795/article/details/149370289)
 
++ [一文吃透 MapReduce Shuffle 过程：从原理到优化​](https://blog.csdn.net/qq_69240397/article/details/151727233)
+

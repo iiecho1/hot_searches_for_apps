@@ -47,3 +47,17 @@
 
 + [理想 i6 新形态五座 SUV 官宣 9 月 26 日上市：车长 4.95 米、低风阻造型设计](https://m.ithome.com/html/883280.htm)
 
++ [京东自营 5999 → 5099 元：苹果 iPhone 17 256G 国补换新至高 24 期免息](https://m.ithome.com/html/883666.htm)
+
++ [小米 17 系列手机跑分曝光：骁龙 8 Elite Gen5 多核成绩超越苹果 A19 Pro](https://m.ithome.com/html/883694.htm)
+
++ [鸿蒙感恩回馈季开启：华为 Mate X6、Pura 80 系列等机型至高 2000 元优惠](https://m.ithome.com/html/883505.htm)
+
++ [职工医保个人账户余额可以转账了，还能跨省转给家人](https://m.ithome.com/html/883741.htm)
+
++ [小米平板 8 系列亮相：11.2 英寸经典尺寸、首发澎湃 OS3，本月发布](https://m.ithome.com/html/883572.htm)
+
++ [华为余承东：在公路和城市开车不能轻易去漂移，安全才是最重要的](https://m.ithome.com/html/883511.htm)
+
++ [苹果 iPhone 17 系列快充细节：20 分钟充 50% 需搭配 40W 动态电源适配器](https://m.ithome.com/html/883608.htm)
+
