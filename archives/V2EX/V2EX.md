@@ -25,3 +25,9 @@
 
 + [性格决定命运，以我爸为例](https://www.v2ex.com/t/1159583)
 
++ [小城市一次性交 9 万，每个月领 1200，以后可以一直领，这个靠谱吗？](https://www.v2ex.com/t/1159752)
+
++ [你心目中的理想城市是哪里？](https://www.v2ex.com/t/1159536)
+
++ [V2Explorer：基于 iOS 26 + SwiftUI 的 V2EX 第三方客户端， TestFlight 公测中](https://www.v2ex.com/t/1159571)
+

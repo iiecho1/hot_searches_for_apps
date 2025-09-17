@@ -139,3 +139,9 @@
 
 + [Linux的生产者消费者模型](https://blog.csdn.net/2302_80310672/article/details/151657644)
 
++ [六、Scala特质](https://blog.csdn.net/2401_83830408/article/details/151706994)
+
++ [2025年09月15日Github流行趋势](https://blog.csdn.net/zkw54334/article/details/151721823)
+
++ [DDAC工作流的PyCharm项目前置准备清单](https://blog.csdn.net/lushanglou/article/details/151721049)
+
