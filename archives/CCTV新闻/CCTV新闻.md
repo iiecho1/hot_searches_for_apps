@@ -187,3 +187,5 @@
 
 + [西班牙气象局：今夏“史上最热”](https://news.cctv.com/2025/09/17/ARTIuSPsv9oLW5mcjUy1KB98250917.shtml)
 
++ [美军代表受邀观摩俄白联合军演](https://news.cctv.com/2025/09/17/ARTIt9MrnfNcPM6hgWm4K1Q2250917.shtml)
+

@@ -49,3 +49,7 @@
 
 + [Monorepo 就是个大坑](https://www.v2ex.com/t/1159728)
 
++ [伙计们慎重脱产提升学历](https://www.v2ex.com/t/1159825)
+
++ [电视端有什么办法看 B 站直播？](https://www.v2ex.com/t/1159799)
+

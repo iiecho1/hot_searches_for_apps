@@ -171,3 +171,11 @@
 
 + [【Kubernetes】（三） NameSpace](https://blog.csdn.net/lxyydh88888888/article/details/151362659)
 
++ [Docker多容器编排：Compose 实战教程](https://blog.csdn.net/2302_80105876/article/details/151714145)
+
++ [O3.4 opencv摄像头跟踪](https://blog.csdn.net/2501_91237346/article/details/151728143)
+
++ [深度学习之PyTorch基本使用（一）](https://blog.csdn.net/wwwwwjjnsnns/article/details/151724529)
+
++ [ActiveMQ RocketMQ RabbitMQ Kafka选型及应用场景](https://blog.csdn.net/boonya/article/details/151728945)
+
