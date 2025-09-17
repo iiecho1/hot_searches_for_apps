@@ -65,3 +65,5 @@
 
 + [Brave Girls.Rollin 路演](https://m.acfun.cn/v/?ac=47831579)
 
++ [我不想关心丝之歌是不是好游戏，我只想关心你](https://m.acfun.cn/v/?ac=47831525)
+
