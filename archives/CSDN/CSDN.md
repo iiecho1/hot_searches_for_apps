@@ -207,3 +207,13 @@
 
 + [（用Maven）整合SpringBoot，SpringMVC，MyBatis](https://blog.csdn.net/2303_79101629/article/details/151683464)
 
++ [实测AI Ping，一个大模型服务选型的实用工具](https://blog.csdn.net/beautifulmemory/article/details/151792506)
+
++ [【K8S系列】Kubernetes 调度与资源管理深度剖析：Requests、Limits、QoS 与 OOM](https://blog.csdn.net/weixin_36755535/article/details/151786093)
+
++ [【技术架构】从单机到微服务：Java 后端架构演进与技术选型核心方案](https://blog.csdn.net/2302_79806056/article/details/151361712)
+
++ [LabVIEW风洞测试系统稳定性措施](https://blog.csdn.net/bjcyck/article/details/151786930)
+
++ [基于SpringBoot+Uniapp的儿童疫苗接种预约小程序（qq邮箱、二维码识别）](https://blog.csdn.net/paopaokaka_luck/article/details/151709734)
+
