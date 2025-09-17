@@ -177,3 +177,13 @@
 
 + [“国事访问2.0”：这一次，特朗普能如英国所愿吗？](https://news.cctv.com/2025/09/17/ARTIMSKUpNUlL04QNLzs1iII250917.shtml)
 
++ [柯克遇刺案嫌疑人首次出庭视频公开 检方寻求死刑判决](https://news.cctv.com/2025/09/17/ARTIYzMcv8sgnrY1TG7WyNj4250917.shtml)
+
++ [新华时评｜理性对话符合中美两国利益](https://news.cctv.com/2025/09/17/ARTIsebDca0IEWStXrHvrQxf250917.shtml)
+
++ [热点问答丨特朗普访英能否弥合美英分歧](https://news.cctv.com/2025/09/17/ARTIR9uD8xJtNAQkSBvr8oVr250917.shtml)
+
++ [民调：逾七成美国人认同“美国社会已破裂”](https://news.cctv.com/2025/09/17/ARTIgu3GKWOBdfmskPmVRDT0250917.shtml)
+
++ [西班牙气象局：今夏“史上最热”](https://news.cctv.com/2025/09/17/ARTIuSPsv9oLW5mcjUy1KB98250917.shtml)
+
