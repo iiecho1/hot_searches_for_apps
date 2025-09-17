@@ -191,3 +191,9 @@
 
 + [不顾当地反对 驻日美军时隔25年重启舰载机起降训练](https://news.cctv.com/2025/09/17/ARTIw8fsU6XwbfMRbAv29mor250917.shtml)
 
++ [【讲习所·中国与世界】中国四大倡议为全球治理提供“中国钥匙”](https://news.cctv.com/2025/09/17/ARTIvC6sYDDLxhhOBeDJEIo1250917.shtml)
+
++ [非洲官员赞叹：这本书中有“世界路线图”](https://news.cctv.com/2025/09/17/ARTIKhF1Vfkjg2KlVF3tROAy250917.shtml)
+
++ [以军称已向加沙城中心发起密集军事行动](https://news.cctv.com/2025/09/17/ARTInWGUN03TIe97AZxB9Uxo250917.shtml)
+
