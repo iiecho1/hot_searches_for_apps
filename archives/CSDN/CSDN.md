@@ -179,3 +179,5 @@
 
 + [ActiveMQ RocketMQ RabbitMQ Kafka选型及应用场景](https://blog.csdn.net/boonya/article/details/151728945)
 
++ [【深度学习计算机视觉】05：多尺度目标检测——从理论到YOLOv5实践](https://blog.csdn.net/2501_92808859/article/details/151761356)
+

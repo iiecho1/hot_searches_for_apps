@@ -189,3 +189,5 @@
 
 + [美军代表受邀观摩俄白联合军演](https://news.cctv.com/2025/09/17/ARTIt9MrnfNcPM6hgWm4K1Q2250917.shtml)
 
++ [不顾当地反对 驻日美军时隔25年重启舰载机起降训练](https://news.cctv.com/2025/09/17/ARTIw8fsU6XwbfMRbAv29mor250917.shtml)
+
