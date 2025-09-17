@@ -45,3 +45,7 @@
 
 + [[投票]升级 IOS 26 的扣 1，不打算升的扣 0，观望的扣 2](https://www.v2ex.com/t/1159756)
 
++ [这周五打算去爬黄山释压，求老司机带带路](https://www.v2ex.com/t/1159622)
+
++ [Monorepo 就是个大坑](https://www.v2ex.com/t/1159728)
+
