@@ -61,3 +61,7 @@
 
 + [日常一乐#77（功夫少女！！！）](https://m.acfun.cn/v/?ac=47832214)
 
++ [音乐人的事怎么能叫抄呢（第100期）](https://m.acfun.cn/v/?ac=47832815)
+
++ [Brave Girls.Rollin 路演](https://m.acfun.cn/v/?ac=47831579)
+

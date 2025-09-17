@@ -25,3 +25,25 @@
 
 + [华为 Mate 70、Pura X 系列等机型升级 HarmonyOS 6 开发者版本后支持 AI 防窥保护](https://m.ithome.com/html/883575.htm)
 
++ [小米 17 Pro 与 17 Pro Max 官宣搭载全新「妙享背屏」](https://m.ithome.com/html/883252.htm)
+
++ [苹果回应更新 iOS 26 后 iPhone 掉电快、发热等原因，称通常几天内恢复正常](https://m.ithome.com/html/883204.htm)
+
++ [“王腾因泄密小米 16 改名小米 17 被辞退”系谣言](https://m.ithome.com/html/883212.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0 系统开启首次尝鲜用户升级报名，支持 Pura80 系列、nova Flip 等机型](https://m.ithome.com/html/883213.htm)
+
++ [荣耀郭锐：安卓用两年就卡的标签应该被撕掉了，即将发布的 MagicOS10 会带来重大优化](https://m.ithome.com/html/883296.htm)
+
++ [消息称小米 17 Pro 手机将搭 5000 万像素徕卡超大底三摄：主摄 f/1.67、长焦 f/3.0](https://m.ithome.com/html/883322.htm)
+
++ [迄今最大规模 iPad 系统更新：苹果 iPadOS 26 发布，液态玻璃焕新界面、全面提升生产力](https://m.ithome.com/html/883240.htm)
+
++ [iOS 26 新增“自适应电源”功能，苹果 iPhone 17/Air/Pro 系列默认启用](https://m.ithome.com/html/883202.htm)
+
++ [华为鸿蒙 HarmonyOS 5.1.0 (18) 及以上版本系统支持 eSIM 卡管理](https://m.ithome.com/html/883302.htm)
+
++ [苹果 AirPods 4 / Pro 2 耳机推送 8A356 固件，新增实时翻译等 7 项功能](https://m.ithome.com/html/883203.htm)
+
++ [理想 i6 新形态五座 SUV 官宣 9 月 26 日上市：车长 4.95 米、低风阻造型设计](https://m.ithome.com/html/883280.htm)
+
