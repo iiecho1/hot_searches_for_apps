@@ -161,3 +161,7 @@
 
 + [法国新总理：将放弃上届政府减少公共假日计划](https://news.cctv.com/2025/09/14/ARTIbJhgMEfPl1HAoZvrPmXW250914.shtml)
 
++ [世贸组织报告：人工智能有望显著推动全球贸易增长](https://jingji.cctv.com/2025/09/18/ARTIZ45RYHiMHN6QRY6NRsFv250918.shtml)
+
++ [德国总理呼吁民众做好迎接改革的准备](https://news.cctv.com/2025/09/18/ARTIRXdnFH5bjbAgQhVHImSL250918.shtml)
+

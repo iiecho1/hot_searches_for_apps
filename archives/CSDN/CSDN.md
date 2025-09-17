@@ -133,3 +133,5 @@
 
 + [【完整源码+数据集+部署教程】传统韩文化元素分割系统： yolov8-seg-GFPN](https://blog.csdn.net/weixin_43860634/article/details/151787434)
 
++ [【Linux指南】Makefile进阶：通用化语法与实战技巧](https://blog.csdn.net/2302_78391795/article/details/149370289)
+
