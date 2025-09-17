@@ -181,3 +181,11 @@
 
 + [【深度学习计算机视觉】05：多尺度目标检测——从理论到YOLOv5实践](https://blog.csdn.net/2501_92808859/article/details/151761356)
 
++ [想存储传感器数据？先了解IoTDB：为物联网量身打造的时序数据库](https://blog.csdn.net/2401_82648291/article/details/151752924)
+
++ [无界智能客服：基于大模型的自助式AI对话系统构建与应用](https://blog.csdn.net/lilinhai548/article/details/151792239)
+
++ [SpringAI框架接入Deepseek和豆包实现智能聊天](https://blog.csdn.net/2301_76781991/article/details/151720357)
+
++ [国内可用 Docker 镜像源 - 长期维护更新 | 解决 Docker Hub 拉取慢/失败](https://blog.csdn.net/weixin_43680407/article/details/151710906)
+

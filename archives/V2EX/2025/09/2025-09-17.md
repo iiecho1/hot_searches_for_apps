@@ -59,3 +59,5 @@
 
 + [iOS26 海外评价真的好，自动翻译](https://www.v2ex.com/t/1159763)
 
++ [为什么电脑硬件速度翻了无数倍， Windows 却没更流畅？](https://www.v2ex.com/t/1159930)
+
