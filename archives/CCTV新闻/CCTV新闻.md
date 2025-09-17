@@ -165,3 +165,13 @@
 
 + [德国总理呼吁民众做好迎接改革的准备](https://news.cctv.com/2025/09/18/ARTIRXdnFH5bjbAgQhVHImSL250918.shtml)
 
++ [一非法移民船在利比亚附近海域起火 至少50人丧生](https://news.cctv.com/2025/09/18/ARTILTqcubumQZiutfz8ySpm250918.shtml)
+
++ [波兰官员称本国防空导弹在击落无人机时误中民宅](https://news.cctv.com/2025/09/18/ARTIqkljpOFuyc0rNpZJFYRQ250918.shtml)
+
++ [联大主席呼吁各国以“团队精神”支持联合国改革](https://news.cctv.com/2025/09/18/ARTImEE4QQXojuXk2UNgfbTW250918.shtml)
+
++ [美联储宣布降息25个基点](https://news.cctv.com/2025/09/18/ARTIC0BHGx0IfZR4qHtDCOBD250918.shtml)
+
++ [回应美国“威胁” 委内瑞拉举行“主权加勒比200”军事演习](https://news.cctv.com/2025/09/18/ARTIpDyRL8J1gU7xj38lp612250918.shtml)
+
