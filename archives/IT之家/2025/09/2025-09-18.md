@@ -69,3 +69,23 @@
 
 + [小米 YU7 衍生版伪装车现身纽北赛道，有望为 YU7 GT](https://m.ithome.com/html/883725.htm)
 
++ [《731》今日上映，超过《哪吒 2》成为中国影史单日场次冠军](https://m.ithome.com/html/883845.htm)
+
++ [追觅 CEO 俞浩内部“放狠话”：造车 PK 理想，手机跟华为小米“三分天下”](https://m.ithome.com/html/883808.htm)
+
++ [苹果承认 iPhone 17 系列、iPhone Air 拍照偶现黑色方块，承诺尽快修复](https://m.ithome.com/html/883790.htm)
+
++ [华为鸿蒙 HarmonyOS 6 系统名称被曝取消“NEXT”后缀](https://m.ithome.com/html/883791.htm)
+
++ [苹果 iPhone 17 全系支持 40W 有线充电，但实际体验存在差异](https://m.ithome.com/html/883823.htm)
+
++ [苹果 iPhone 17 / Pro 系列首批预售新机已发货，明日正式发售](https://m.ithome.com/html/883914.htm)
+
++ [连续视频播放测试：苹果 iPhone Air 续航成绩 6 小时 43 分，比 17 标准版少 12 分钟](https://m.ithome.com/html/883798.htm)
+
++ [华为昇腾 950 芯片架构公布，明年推出](https://m.ithome.com/html/883839.htm)
+
++ [消息称马云已“强势回归”，阿里巴巴暂无回应](https://m.ithome.com/html/883874.htm)
+
++ [《731》制片方郑重声明：电影为重大历史题材作品，任何未经许可的滥用、恶搞、篡改或商业化利用均为法律所禁止](https://m.ithome.com/html/883942.htm)
+
