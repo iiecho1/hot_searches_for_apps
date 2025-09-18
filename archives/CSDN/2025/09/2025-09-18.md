@@ -179,3 +179,9 @@
 
 + [应用层协议——HTTP](https://blog.csdn.net/jingfeng514/article/details/151315040)
 
++ [uniapp - 实现H5支付宝扫码支付功能+生成支付宝付款二维码展示，用户扫描支付宝二维码实现支付收款完整流程及示例代码，Uniapp接入支付宝跳转到收银台或唤起支付宝APP（Java、PHP后端）](https://blog.csdn.net/weixin_44198965/article/details/151819333)
+
++ [Vue 项目主题切换功能实现：两种方案详解与选型分析](https://blog.csdn.net/m0_65292523/article/details/151794333)
+
++ [Unity休闲游戏性能checklist](https://blog.csdn.net/NRatel/article/details/151767050)
+
