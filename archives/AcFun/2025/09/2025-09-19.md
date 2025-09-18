@@ -67,3 +67,5 @@
 
 + [Sanctum (Original Mix) 神枪:张响他去哪里，鬼子部队的川骑和片岗在猎户屋](https://m.acfun.cn/v/?ac=47834074)
 
++ [吉他弹唱-王菲《旋木》（cover）](https://m.acfun.cn/v/?ac=47834215)
+
