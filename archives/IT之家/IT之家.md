@@ -61,3 +61,11 @@
 
 + [苹果 iPhone 17 系列快充细节：20 分钟充 50% 需搭配 40W 动态电源适配器](https://m.ithome.com/html/883608.htm)
 
++ [5.2 米长的大型 SUV 杀入 20 万内：吉利银河 M9 上市，限时指导价 17.38 万-23.88 万元](https://m.ithome.com/html/883750.htm)
+
++ [京东 S 级月中狂促今晚 20:00 开始：超级国补继续，iPhone 17 国补换新 5099 元](https://m.ithome.com/html/883730.htm)
+
++ [卢伟冰官宣 9 月 19 日开播：回答关于小米 17 系列的 17 个问题](https://m.ithome.com/html/883640.htm)
+
++ [小米 YU7 衍生版伪装车现身纽北赛道，有望为 YU7 GT](https://m.ithome.com/html/883725.htm)
+
