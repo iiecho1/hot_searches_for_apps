@@ -211,3 +211,5 @@
 
 + [物联网智能网关核心功能实现：解析西门子1500 PLC的MQTT通信配置全流程](https://blog.csdn.net/2501_90840544/article/details/151798970)
 
++ [Mysql数据库事务全解析：概念、操作与隔离级别](https://blog.csdn.net/2301_80774875/article/details/149753010)
+
