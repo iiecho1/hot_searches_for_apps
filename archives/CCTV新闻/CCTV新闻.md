@@ -165,3 +165,7 @@
 
 + [以军称对黎巴嫩真主党目标发动新一轮空袭](https://news.cctv.com/2025/09/19/ARTIWE1akQq5pE554yt3RNbY250919.shtml)
 
++ [美媒：美军“尼米兹”号航母被追踪到正在驶近伊朗](https://news.cctv.com/2025/09/19/ARTIEyIK03BLuAjQuE2aLRX1250919.shtml)
+
++ [特朗普反对英国承认巴勒斯坦国计划](https://news.cctv.com/2025/09/19/ARTIsxEw16zRSfTxwv1B1UhN250919.shtml)
+
