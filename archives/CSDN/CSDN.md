@@ -221,3 +221,7 @@
 
 + [超越RGB：移动设备多光谱成像的真实世界数据集](https://blog.csdn.net/ADICDFHL/article/details/151761187)
 
++ [Node.js后端工程师需了解的前端技术：HTML5、JavaScript、CSS、工具（Axios、EJS、 Chart.js）及资源CDN和MDN](https://blog.csdn.net/qiy_icbc/article/details/151785327)
+
++ [论文阅读——I-ViT: 用于高效视觉Transformer推理的纯整数量化](https://blog.csdn.net/qq_44648285/article/details/151805122)
+
