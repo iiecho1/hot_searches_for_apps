@@ -117,3 +117,23 @@
 
 + [超越RGB：移动设备多光谱成像的真实世界数据集](https://blog.csdn.net/ADICDFHL/article/details/151761187)
 
++ [【K8S系列】Kubernetes 调度与资源管理深度剖析：Requests、Limits、QoS 与 OOM](https://blog.csdn.net/weixin_36755535/article/details/151786093)
+
++ [【C/C++】不允许你不知道C/C++可以编写前端，JAVA 面临挑战](https://blog.csdn.net/2403_84958571/article/details/151705403)
+
++ [系统分析师-软件工程-软件生命周期&瀑布模型&螺旋模型&V模型&RUP&敏捷方法](https://blog.csdn.net/g984160547/article/details/151593656)
+
++ [消息队列kafka](https://blog.csdn.net/jupiter_888/article/details/151748798)
+
++ [【Web安全】XXE 漏洞总结解析：从解析器安全到防御实践](https://blog.csdn.net/qq_40037555/article/details/151747072)
+
++ [MyBatis中#{}与${}传参对比](https://blog.csdn.net/kiku20231213/article/details/151803327)
+
++ [【完整源码+数据集+部署教程】传统韩文化元素分割系统： yolov8-seg-GFPN](https://blog.csdn.net/weixin_43860634/article/details/151787434)
+
++ [从技术视角解析加密货币/虚拟货币/稳定币的设计与演进](https://blog.csdn.net/sendohlib/article/details/151766966)
+
++ [FPGA硬件设计5 ZYNQ外围-USB、SD、EMMC、FLASH、JTAG](https://blog.csdn.net/qq_39376872/article/details/145193106)
+
++ [Blender 了解与学习](https://blog.csdn.net/qq_17280559/article/details/151760904)
+
