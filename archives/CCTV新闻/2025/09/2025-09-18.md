@@ -191,3 +191,5 @@
 
 + [美国封锁加剧 古巴经济一年损失超75亿美元](https://news.cctv.com/2025/09/18/ARTIDQraMy3a2Z2HAk6I6CgR250918.shtml)
 
++ [密克罗尼西亚联邦附近海域一艘二战时期沉船发生燃油泄漏](https://news.cctv.com/2025/09/18/ARTIqtaoTsoJiKQWTCT1b20S250918.shtml)
+

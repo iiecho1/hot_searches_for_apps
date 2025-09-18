@@ -163,3 +163,9 @@
 
 + [Spring Boot日志](https://blog.csdn.net/kiku20231213/article/details/151362272)
 
++ [企业级图像AIGC技术观察：Seedream 4.0 模型能力与应用场景分析](https://blog.csdn.net/2301_80863610/article/details/151814474)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在企业供应链风险管理与应急响应中的应用（412）](https://blog.csdn.net/atgfg/article/details/151766651)
+
++ [深入解析Channel：数据流动的秘密通道](https://blog.csdn.net/qq_44378083/article/details/149182609)
+
