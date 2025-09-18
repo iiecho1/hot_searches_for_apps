@@ -139,3 +139,9 @@
 
 + [[论文阅读] 人工智能 + 软件工程 | 告别冗余HTML与高算力消耗：EfficientUICoder如何破解UI2Code的token难题](https://blog.csdn.net/zhangjiaoshou_/article/details/151764977)
 
++ [计算机网络实验（Wireshark 抓包工具使用、WinPcap 编程、协议分析&流量统计程序的编写）](https://blog.csdn.net/s1t16/article/details/151712225)
+
++ [新手向:IDM下载失败排查](https://blog.csdn.net/2302_77626561/article/details/151645651)
+
++ [用住宿楼模型彻底理解Kubernetes架构（运行原理视角）](https://blog.csdn.net/qq_33525062/article/details/151765048)
+
