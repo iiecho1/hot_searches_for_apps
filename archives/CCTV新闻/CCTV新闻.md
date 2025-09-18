@@ -209,3 +209,17 @@
 
 + [全球治理倡议是当前世界中的“稳定器” 丨世界观](https://news.cctv.com/2025/09/18/ARTIKENA7TDIL8wNKCPVWVoD250918.shtml)
 
++ [美联储宣布降息 分析人士称美国经济面临多重不确定性](https://news.cctv.com/2025/09/18/ARTIOHDZnDGYLNfQMLzYlFuJ250918.shtml)
+
++ [俄乌双方完成一次阵亡人员遗体交换](https://news.cctv.com/2025/09/18/ARTI1Bz2Gnqm1yaxkadhOwDd250918.shtml)
+
++ [美完成“金穹”导弹防御系统设计](https://news.cctv.com/2025/09/18/ARTIcZ0WXCe860zloSsFC4NZ250918.shtml)
+
++ [13年来首次 土耳其与埃及将举行海上联合军演](https://news.cctv.com/2025/09/18/ARTIsczSVGKT2X1cn1rDQ9wb250918.shtml)
+
++ [克宫证实：俄总统办公厅副主任德米特里·科扎克已递交辞呈](https://news.cctv.com/2025/09/18/ARTIHbZCyRqtaSQaL9LvcsQD250918.shtml)
+
++ [一盏茶：中国-东盟茶香交融酿合作新韵](https://news.cctv.com/2025/09/18/ARTI0t1uGgZasbBI7nbNGBY5250918.shtml)
+
++ [从“榴莲和燕窝”到“AI机器人”，外媒热议东博会](https://news.cctv.com/2025/09/18/ARTIXVgp5HNzpZ4sjOJS9U6F250918.shtml)
+
