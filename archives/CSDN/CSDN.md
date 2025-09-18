@@ -169,3 +169,7 @@
 
 + [深入解析Channel：数据流动的秘密通道](https://blog.csdn.net/qq_44378083/article/details/149182609)
 
++ [微软发布高危漏洞更新，涉及 Windows、Office、SQL Server 等多款产品](https://blog.csdn.net/SplashtopLoki/article/details/151708665)
+
++ [【Linux网络】网络传输基本流程](https://blog.csdn.net/2402_82670467/article/details/151724471)
+
