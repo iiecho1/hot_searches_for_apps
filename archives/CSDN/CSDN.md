@@ -185,3 +185,9 @@
 
 + [Unity休闲游戏性能checklist](https://blog.csdn.net/NRatel/article/details/151767050)
 
++ [【AI编程】Qoder AI 编程工具从部署到深度使用实战详解](https://blog.csdn.net/zhangcongyi420/article/details/151653518)
+
++ [Java 大视界 -- Java 大数据在智能家居设备联动与场景化节能中的应用拓展（413）](https://blog.csdn.net/atgfg/article/details/151804093)
+
++ [为什么ClickHouse比传统数据库快100倍？](https://blog.csdn.net/superdangbo/article/details/151823558)
+
