@@ -31,3 +31,23 @@
 
 + [curl/curl](https://github.com/curl/curl)
 
++ [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
++ [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [BasedHardware/omi](https://github.com/BasedHardware/omi)
+
++ [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
+
++ [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush)
+
++ [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
++ [unslothai/unsloth](https://github.com/unslothai/unsloth)
+
++ [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)
+
++ [cypress-io/cypress](https://github.com/cypress-io/cypress)
+

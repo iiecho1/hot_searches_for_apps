@@ -205,3 +205,7 @@
 
 + [东盟多国领导人：东博会将促进东盟与中国实现包容性与可持续增长](https://news.cctv.com/2025/09/18/ARTIsL1YwkGFnhA5zA66AFAc250918.shtml)
 
++ [加沙地带北部医院濒临崩溃 世卫：人道灾难必须立即结束](https://news.cctv.com/2025/09/18/ARTIr4eWjCbGXZvUcBtV9mI6250918.shtml)
+
++ [全球治理倡议是当前世界中的“稳定器” 丨世界观](https://news.cctv.com/2025/09/18/ARTIKENA7TDIL8wNKCPVWVoD250918.shtml)
+

@@ -203,3 +203,11 @@
 
 + [【源码集锦】基于Java+SpringBoot+Uniapp+Mysql的租房小程序技术搭建](https://blog.csdn.net/juzige03/article/details/151802974)
 
++ [节约99%的运营压力？影刀RPA助我实现自动化运营](https://blog.csdn.net/IRpickstars/article/details/151818308)
+
++ [uniapp H5 - 实现微信支付生成二维码+实时监听用户扫码完成付款支付，移动端h5网页给用户展示付款二维码及扫码微信支付流程及示例源码，实现点击微信支付弹框显示微信支付二维码（Java、PHP）](https://blog.csdn.net/weixin_44198965/article/details/151821246)
+
++ [极速掌控Docker全链路：容器操控+Nginx主页改造+BusyBox工具实践+腾讯云仓库部署​](https://blog.csdn.net/2401_82648291/article/details/150693061)
+
++ [物联网智能网关核心功能实现：解析西门子1500 PLC的MQTT通信配置全流程](https://blog.csdn.net/2501_90840544/article/details/151798970)
+
