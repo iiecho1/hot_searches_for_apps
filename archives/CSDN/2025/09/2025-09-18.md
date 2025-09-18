@@ -145,3 +145,15 @@
 
 + [用住宿楼模型彻底理解Kubernetes架构（运行原理视角）](https://blog.csdn.net/qq_33525062/article/details/151765048)
 
++ [从零开始手写机器学习框架：我的深度学习之旅](https://blog.csdn.net/weixin_40362204/article/details/151759956)
+
++ [Vue3 + Three.js 实战：自定义 3D 模型加载与交互全流程](https://blog.csdn.net/m0_72065108/article/details/151710994)
+
++ [【花雕动手做】Kitronik 可编程游戏开发板基于 ARCADE MakeCode 之动画沙子游戏](https://blog.csdn.net/weixin_41659040/article/details/151796854)
+
++ [SpringBoot MySQL ElasticSearch](https://blog.csdn.net/qq_34814092/article/details/151766619)
+
++ [FPGA硬件设计5 ZYNQ外围-USB、SD、EMMC、FLASH、JTAG](https://blog.csdn.net/qq_39376872/article/details/145193106)
+
++ [ChatGPT 辅助重构：老旧 jQuery 项目迁移到 React 的协作日志](https://blog.csdn.net/Rqaqedamancy/article/details/151766712)
+
