@@ -193,3 +193,7 @@
 
 + [密克罗尼西亚联邦附近海域一艘二战时期沉船发生燃油泄漏](https://news.cctv.com/2025/09/18/ARTIqtaoTsoJiKQWTCT1b20S250918.shtml)
 
++ [视频丨联合国发言人说加沙没有人“自愿”迁移](https://news.cctv.com/2025/09/18/ARTIR2IFp9v6ANf0Q5a7tOW8250918.shtml)
+
++ [日本内阁官房长官林芳正宣布参选自民党总裁](https://news.cctv.com/2025/09/18/ARTIZhl1oroQ4AJvbtRQzJOU250918.shtml)
+

@@ -173,3 +173,9 @@
 
 + [【Linux网络】网络传输基本流程](https://blog.csdn.net/2402_82670467/article/details/151724471)
 
++ [AI 精准绘图专栏：豆包・图像创作模型 Seedream 4.0 全面测评与创意玩法解析](https://blog.csdn.net/weixin_43151418/article/details/151686726)
+
++ [【通义万相】蓝耘元生代 | 文生视频新跃迁：通义万相2.1部署与应用](https://blog.csdn.net/Morse_Chen/article/details/151753331)
+
++ [应用层协议——HTTP](https://blog.csdn.net/jingfeng514/article/details/151315040)
+
