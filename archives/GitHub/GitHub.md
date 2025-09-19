@@ -35,3 +35,27 @@
 
 + [cypress-io/cypress](https://github.com/cypress-io/cypress)
 
++ [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+
++ [basecamp/omarchy](https://github.com/basecamp/omarchy)
+
++ [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
+
++ [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
++ [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
+
++ [fmtlib/fmt](https://github.com/fmtlib/fmt)
+
++ [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+
++ [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
++ [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [bitnami/containers](https://github.com/bitnami/containers)
+
++ [google-research/timesfm](https://github.com/google-research/timesfm)
+
++ [bitnami/charts](https://github.com/bitnami/charts)
+

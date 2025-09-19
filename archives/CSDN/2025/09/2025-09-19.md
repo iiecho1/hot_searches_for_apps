@@ -243,3 +243,11 @@
 
 + [Vue3 - Vite解决报错ReferenceError: module is not defined in ES module scope（vue3+vite项目编译运行或打包报错，详细排查解决）](https://blog.csdn.net/weixin_44198965/article/details/151864655)
 
++ [实测AI Ping，一个大模型服务选型的实用工具](https://blog.csdn.net/beautifulmemory/article/details/151792506)
+
++ [理解长短期记忆神经网络（LSTM）](https://blog.csdn.net/qq_62234605/article/details/151832763)
+
++ [迁移学习与计算机视觉：AI架构师的5个方案，提升图像识别效果](https://blog.csdn.net/weixin_51960949/article/details/151835673)
+
++ [【花雕动手做】Kitronik 可编程游戏开发板基于 ARCADE MakeCode 之箭雨之战游戏](https://blog.csdn.net/weixin_41659040/article/details/151838738)
+
