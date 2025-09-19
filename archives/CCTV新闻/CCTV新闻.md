@@ -185,3 +185,9 @@
 
 + [日本航空自卫队一飞机着陆时冲出跑道](https://news.cctv.com/2025/09/19/ARTINfDQiufmztbjhYoRzQav250919.shtml)
 
++ [美国会民主党人首次推动美国承认巴勒斯坦国](https://news.cctv.com/2025/09/19/ARTIfyehVlVMKiFIf4zzT99V250919.shtml)
+
++ [期待东盟与中国实现共赢发展——访马来西亚思特雅大学学者乌马特维](https://news.cctv.com/2025/09/19/ARTIMyaUV3GWPDnysiXOOyd0250919.shtml)
+
++ [第22届东博会在南宁举行——促进中国东盟往来 深化区域发展合作](https://news.cctv.com/2025/09/19/ARTIi2V8aGc738LrvgFVgZjr250919.shtml)
+

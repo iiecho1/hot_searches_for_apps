@@ -59,3 +59,19 @@
 
 + [小米 YU7 衍生版伪装车现身纽北赛道，有望为 YU7 GT](https://m.ithome.com/html/883725.htm)
 
++ [苹果 iPhone 17 Pro 原应有黑色？消息称不明原因被砍](https://m.ithome.com/html/883987.htm)
+
++ [全国首辆小米 SU7 出租车投入运营，司机被同行举报“太卷了”](https://m.ithome.com/html/884016.htm)
+
++ [单日票房破 3 亿，电影《731》刷新两项中国影史纪录](https://m.ithome.com/html/884018.htm)
+
++ [首批苹果 iPhone 17 / Pro 系列已送达用户，部分网友已晒出开箱图](https://m.ithome.com/html/884055.htm)
+
++ [苹果 iPhone 17 / Pro 系列手机正式发售，5999 元 / 8999 元起](https://m.ithome.com/html/884054.htm)
+
++ [iPhone 磁吸同时支持自带线清凉快充，酷态科充电宝 129 → 68 元限今日](https://m.ithome.com/html/883963.htm)
+
++ [英伟达向英特尔投资 50 亿美元，将共同推出“Intel X86 with RTX”芯片](https://m.ithome.com/html/884004.htm)
+
++ [消息称苹果计划在中国台湾地区试产折叠屏 iPhone，手机明年推出](https://m.ithome.com/html/884009.htm)
+

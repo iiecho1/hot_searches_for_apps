@@ -229,3 +229,11 @@
 
 + [云原生-K8S](https://blog.csdn.net/2403_89445694/article/details/151711139)
 
++ [从零开始手写机器学习框架：我的深度学习之旅——核心原理解密与手写实现](https://blog.csdn.net/2501_92808811/article/details/151839364)
+
++ [深入解析TCP/IP协议分层与通信原理](https://blog.csdn.net/2302_77889990/article/details/151863974)
+
++ [Docker+cpolar 实战：打造灵活可控的远程办公系统](https://blog.csdn.net/2301_80350265/article/details/151862862)
+
++ [Dify + Bright Data MCP：从实时影音数据到可落地的智能体生产线](https://blog.csdn.net/yelangkingwuzuhu/article/details/151765543)
+
