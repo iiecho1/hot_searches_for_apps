@@ -179,3 +179,7 @@
 
 + [特朗普称美方正试图收回阿富汗巴格拉姆空军基地](https://news.cctv.com/2025/09/19/ARTIZGFNnsodsEkZVhHLhvRA250919.shtml)
 
++ [泰国国王批准新政府内阁成员名单](https://news.cctv.com/2025/09/19/ARTIIqx0h4Qv83QpFElv5tOI250919.shtml)
+
++ [免签效应持续显现 俄最大搜索引擎本月初涉华查询量翻倍](https://news.cctv.com/2025/09/19/ARTIWqbbsgJpRpjhcajd7XRW250919.shtml)
+

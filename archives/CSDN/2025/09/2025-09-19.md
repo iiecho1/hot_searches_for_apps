@@ -185,3 +185,5 @@
 
 + [IPD驱动下的电源技术革命：华为数字能源模块化复用与降本增效实践](https://blog.csdn.net/wisdom_19860320/article/details/151797981)
 
++ [从Win到鸿蒙：ToDesk/Splashtop/TeamViewer/向日葵，跨平台远控谁更强？](https://blog.csdn.net/a1657054242/article/details/151839864)
+
