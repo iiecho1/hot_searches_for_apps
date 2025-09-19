@@ -155,3 +155,13 @@
 
 + [【深度学习计算机视觉】05：多尺度目标检测之FPN架构详解与PyTorch实战](https://blog.csdn.net/2501_92796370/article/details/151761404)
 
++ [AI 协作排查：Vue 项目性能瓶颈定位与解决日志](https://blog.csdn.net/Rqaqedamancy/article/details/151843588)
+
++ [AI报告撰写实战指南：从提示词工程到全流程优化](https://blog.csdn.net/Liudef06/article/details/151798681)
+
++ [微服务的适用边界：从金融科技到量子计算的架构哲学](https://blog.csdn.net/eidolon_foot/article/details/151252474)
+
++ [CI/CD 实战：GitHub Actions 自动化部署 Spring Boot 项目](https://blog.csdn.net/IRpickstars/article/details/151783460)
+
++ [GitHub 热榜项目 - 日榜(2025-09-18)](https://blog.csdn.net/u014390502/article/details/151817007)
+

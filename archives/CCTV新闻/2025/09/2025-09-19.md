@@ -177,3 +177,5 @@
 
 + [美国参议院一次性批准48名特朗普提名官员人选](https://news.cctv.com/2025/09/19/ARTI7Csq0FJB3u9Lpnc2pVYC250919.shtml)
 
++ [特朗普称美方正试图收回阿富汗巴格拉姆空军基地](https://news.cctv.com/2025/09/19/ARTIZGFNnsodsEkZVhHLhvRA250919.shtml)
+
