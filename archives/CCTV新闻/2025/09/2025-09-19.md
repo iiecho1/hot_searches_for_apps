@@ -171,3 +171,9 @@
 
 + [美“天鹅座”货运飞船与国际空间站对接](https://news.cctv.com/2025/09/19/ARTICQxCS0IuhVyIHimVBxbQ250919.shtml)
 
++ [法国发生多行业罢工 旨在反对政府财政紧缩计划](https://news.cctv.com/2025/09/19/ARTIny9NkLNgQKhrkEFE07x9250919.shtml)
+
++ [美国再次在联合国安理会否决加沙问题决议草案](https://news.cctv.com/2025/09/19/ARTI3jEV4XMq4GS2ofk40qNN250919.shtml)
+
++ [美国参议院一次性批准48名特朗普提名官员人选](https://news.cctv.com/2025/09/19/ARTI7Csq0FJB3u9Lpnc2pVYC250919.shtml)
+
