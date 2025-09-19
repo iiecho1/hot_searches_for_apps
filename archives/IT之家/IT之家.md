@@ -29,3 +29,25 @@
 
 + [华为鸿蒙 HarmonyOS 6 系统名称被曝取消“NEXT”后缀](https://m.ithome.com/html/883791.htm)
 
++ [小米汽车回应“超 11 万辆 SU7 标准版 OTA 召回”：意在进一步提升辅助驾驶功能的可靠性，不需要物理更换任何零件](https://m.ithome.com/html/884143.htm)
+
++ [首批苹果 iPhone 17 / Pro 系列已送达用户，部分网友已晒出开箱图](https://m.ithome.com/html/884055.htm)
+
++ [根本不缺货：苹果 iPhone 17 Pro 发售首日被黄牛拒收，而橙色 Pro Max 最高加价 1500 元](https://m.ithome.com/html/884164.htm)
+
++ [苹果 iPhone 17 / Pro 系列手机正式发售，5999 元 / 8999 元起](https://m.ithome.com/html/884054.htm)
+
++ [苹果 iPhone 17 Pro 发售首日，Apple Store 铝合金机身遇“划痕”危机](https://m.ithome.com/html/884209.htm)
+
++ [WePhone 创始人苏享茂自杀事件新进展：翟某某一审获刑 12 年](https://m.ithome.com/html/884144.htm)
+
++ [南孚电池就争议高铁广告语致歉：已撤除争议内容](https://m.ithome.com/html/884170.htm)
+
++ [京东：开卖 4 小时，全国已有超 3 万人签收苹果 iPhone 17](https://m.ithome.com/html/884215.htm)
+
++ [L2 辅助驾驶极端场景应对不足：小米汽车 OTA 召回超 11 万辆 SU7 标准版，已推送最新澎湃 OS 1.10.0 版本](https://m.ithome.com/html/884089.htm)
+
++ [iPhone 17 系列发售日 Air 仍延期，三大运营商将提供 eSIM 支持](https://m.ithome.com/html/884065.htm)
+
++ [卢伟冰首发对比小米 17 Pro 和苹果 iPhone 17 Pro 真机，回应外观相似质疑](https://m.ithome.com/html/884318.htm)
+

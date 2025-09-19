@@ -137,3 +137,9 @@
 
 + [微算法科技(NASDAQ：MLGO)研究分布式量子计算，释放量子计算潜能](https://blog.csdn.net/MicroTech2025/article/details/151797276)
 
++ [数据库云平台售后团队能力提升方案](https://blog.csdn.net/hezuijiudexiaobai/article/details/151826296)
+
++ [MyBatis中#{}与${}传参对比](https://blog.csdn.net/kiku20231213/article/details/151803327)
+
++ [无人机避障——卡内基梅隆大学（CMU）CERLAB 无人机自主框架复现](https://blog.csdn.net/weixin_45390670/article/details/151827423)
+
