@@ -169,3 +169,5 @@
 
 + [特朗普反对英国承认巴勒斯坦国计划](https://news.cctv.com/2025/09/19/ARTIsxEw16zRSfTxwv1B1UhN250919.shtml)
 
++ [美“天鹅座”货运飞船与国际空间站对接](https://news.cctv.com/2025/09/19/ARTICQxCS0IuhVyIHimVBxbQ250919.shtml)
+

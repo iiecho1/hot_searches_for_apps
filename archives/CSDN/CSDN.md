@@ -143,3 +143,7 @@
 
 + [从浏览器到网页：HTTP请求全流程揭秘](https://blog.csdn.net/2302_77889990/article/details/151826957)
 
++ [为 Elasticsearch Ruby Client 引入 ES|QL 查询生成器](https://blog.csdn.net/UbuntuTouch/article/details/151839942)
+
++ [当算力遇上情感：用RTX 4090复现B站IndexTTS2声音魔法](https://blog.csdn.net/2401_83830408/article/details/151801482)
+

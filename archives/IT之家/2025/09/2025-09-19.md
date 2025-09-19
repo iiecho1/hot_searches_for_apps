@@ -53,3 +53,9 @@
 
 + [微信员工解释“微信（迅速去重瘦身）Python 代码”：对解决存储占用没啥用，可能导致原来消息打不开](https://m.ithome.com/html/883928.htm)
 
++ [京东 S 级月中狂促今晚 20:00 开始：超级国补继续，iPhone 17 国补换新 5099 元](https://m.ithome.com/html/883730.htm)
+
++ [卢伟冰官宣 9 月 19 日开播：回答关于小米 17 系列的 17 个问题](https://m.ithome.com/html/883640.htm)
+
++ [小米 YU7 衍生版伪装车现身纽北赛道，有望为 YU7 GT](https://m.ithome.com/html/883725.htm)
+
