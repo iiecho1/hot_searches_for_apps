@@ -61,3 +61,5 @@
 
 + [关于闪电贷优惠](https://www.v2ex.com/t/1160386)
 
++ [飞机上敲代码，跟 OpenAI 副总裁聊嗨了](https://www.v2ex.com/t/1160548)
+
