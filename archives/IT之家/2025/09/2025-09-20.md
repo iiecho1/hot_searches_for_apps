@@ -25,3 +25,7 @@
 
 + [单日票房破 3 亿，电影《731》刷新两项中国影史纪录](https://m.ithome.com/html/884018.htm)
 
++ [苹果承认 iPhone 17 系列、iPhone Air 拍照偶现黑色方块，承诺尽快修复](https://m.ithome.com/html/883790.htm)
+
++ [华为鸿蒙 HarmonyOS 6 系统名称被曝取消“NEXT”后缀](https://m.ithome.com/html/883791.htm)
+

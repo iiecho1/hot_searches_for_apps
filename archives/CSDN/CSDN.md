@@ -101,3 +101,15 @@
 
 + [Kafka事务：构建可靠的分布式消息处理系统](https://blog.csdn.net/m0_74385041/article/details/151838631)
 
++ [图像处理：simd快速灰度化](https://blog.csdn.net/weixin_44969144/article/details/151832289)
+
++ [TensorFlow 深度学习：构建可扩展的神经网络](https://blog.csdn.net/qq_37956697/article/details/151834251)
+
++ [《Linux 指令实战进阶：从终端新手到 shell 驾驭者的技术跃迁（第三篇）》](https://blog.csdn.net/Dovis5884/article/details/151434672)
+
++ [【花雕动手做】Kitronik 可编程游戏开发板基于 ARCADE MakeCode 之箭雨之战游戏](https://blog.csdn.net/weixin_41659040/article/details/151838738)
+
++ [Dify + Bright Data MCP：从实时影音数据到可落地的智能体生产线](https://blog.csdn.net/yelangkingwuzuhu/article/details/151765543)
+
++ [CI/CD 实战：GitHub Actions 自动化部署 Spring Boot 项目](https://blog.csdn.net/IRpickstars/article/details/151783460)
+
