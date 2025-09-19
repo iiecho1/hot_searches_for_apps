@@ -199,3 +199,7 @@
 
 + [以军称将以“前所未有的力量”在加沙城展开军事行动](https://news.cctv.com/2025/09/19/ARTIXEWkMX048cr1DuUPAGcw250919.shtml)
 
++ [联合国安理会未通过伊核制裁豁免](https://news.cctv.com/2025/09/19/ARTITWWzLLWsaDk1Nu3s1fwY250919.shtml)
+
++ [联大通过决议 允许巴勒斯坦官员在联大期间视频参会](https://news.cctv.com/2025/09/19/ARTINnme9GrBhEQ8AxkoXepN250919.shtml)
+

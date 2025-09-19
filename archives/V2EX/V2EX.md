@@ -63,3 +63,5 @@
 
 + [飞机上敲代码，跟 OpenAI 副总裁聊嗨了](https://www.v2ex.com/t/1160548)
 
++ [Swoole 下的 Hyeprf 框架，现在的维护计划怎么样？](https://www.v2ex.com/t/1160488)
+
