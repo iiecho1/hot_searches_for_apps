@@ -51,3 +51,11 @@
 
 + [卢伟冰首发对比小米 17 Pro 和苹果 iPhone 17 Pro 真机，回应外观相似质疑](https://m.ithome.com/html/884318.htm)
 
++ [苹果 iPhone 17 Pro 原应有黑色？消息称不明原因被砍](https://m.ithome.com/html/883987.htm)
+
++ [全国首辆小米 SU7 出租车投入运营，司机被同行举报“太卷了”](https://m.ithome.com/html/884016.htm)
+
++ [iPhone 磁吸同时支持自带线清凉快充，酷态科充电宝 129 → 68 元限今日](https://m.ithome.com/html/883963.htm)
+
++ [英伟达向英特尔投资 50 亿美元，将共同推出“Intel X86 with RTX”芯片](https://m.ithome.com/html/884004.htm)
+
