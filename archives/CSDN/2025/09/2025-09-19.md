@@ -221,3 +221,11 @@
 
 + [C++,C#,Rust,Go,Java,Python,JavaScript的性能对比](https://blog.csdn.net/pangzimin/article/details/151823179)
 
++ [Java LLM开发框架全面解析：从Spring AI到Agents-Flex](https://blog.csdn.net/lilinhai548/article/details/151800728)
+
++ [【论文阅读】Masked Conditional Variational Autoencoders for Chromosome Straightening](https://blog.csdn.net/weixin_57974242/article/details/151832218)
+
++ [LabVIEW比例阀性能测试](https://blog.csdn.net/bjcyck/article/details/151855147)
+
++ [云原生-K8S](https://blog.csdn.net/2403_89445694/article/details/151711139)
+
