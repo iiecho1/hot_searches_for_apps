@@ -237,3 +237,5 @@
 
 + [Dify + Bright Data MCP：从实时影音数据到可落地的智能体生产线](https://blog.csdn.net/yelangkingwuzuhu/article/details/151765543)
 
++ [花瓶测试用例10条（基于质量模型）](https://blog.csdn.net/Dontla/article/details/151836833)
+
