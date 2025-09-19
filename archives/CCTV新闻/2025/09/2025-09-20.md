@@ -167,3 +167,7 @@
 
 + [国际奥委会允许俄罗斯、白俄罗斯运动员以中立个人身份参加米兰冬奥会](https://news.cctv.com/2025/09/20/ARTIpZIU3aKPaVoI6dsTu82Q250920.shtml)
 
++ [冯德莱恩提交欧盟第19轮对俄制裁措施](https://news.cctv.com/2025/09/20/ARTITwaKbpeMUQnIiQjOIc27250919.shtml)
+
++ [美政府与塔利班正就重返阿富汗巴格拉姆空军基地展开谈判](https://news.cctv.com/2025/09/20/ARTIxbdTyP0bvq0FwGtUQN6v250920.shtml)
+
