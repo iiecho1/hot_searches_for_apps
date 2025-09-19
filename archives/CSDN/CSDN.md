@@ -239,3 +239,7 @@
 
 + [花瓶测试用例10条（基于质量模型）](https://blog.csdn.net/Dontla/article/details/151836833)
 
++ [OpenCV与深度神经网络的风格迁移](https://blog.csdn.net/cpluspluszz/article/details/151803375)
+
++ [Vue3 - Vite解决报错ReferenceError: module is not defined in ES module scope（vue3+vite项目编译运行或打包报错，详细排查解决）](https://blog.csdn.net/weixin_44198965/article/details/151864655)
+
