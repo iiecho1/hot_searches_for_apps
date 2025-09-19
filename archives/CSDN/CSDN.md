@@ -251,3 +251,5 @@
 
 + [【花雕动手做】Kitronik 可编程游戏开发板基于 ARCADE MakeCode 之箭雨之战游戏](https://blog.csdn.net/weixin_41659040/article/details/151838738)
 
++ [图像处理：simd快速灰度化](https://blog.csdn.net/weixin_44969144/article/details/151832289)
+

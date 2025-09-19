@@ -191,3 +191,9 @@
 
 + [第22届东博会在南宁举行——促进中国东盟往来 深化区域发展合作](https://news.cctv.com/2025/09/19/ARTIi2V8aGc738LrvgFVgZjr250919.shtml)
 
++ [俄代表：俄外长与美国务卿计划在联合国大会期间举行会晤](https://news.cctv.com/2025/09/19/ARTINlOuRXYioTHK1q6HBheR250919.shtml)
+
++ [日本央行维持利率不变 将出售资产缩减宽松规模](https://news.cctv.com/2025/09/19/ARTITqhWSr6NVYRKpgLENa8E250919.shtml)
+
++ [美一票否决安理会加沙决议草案 对中东局势有何影响？](https://news.cctv.com/2025/09/19/ARTIGalD64vO1RY4tuvWKDG7250919.shtml)
+
