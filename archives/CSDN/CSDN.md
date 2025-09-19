@@ -165,3 +165,23 @@
 
 + [GitHub 热榜项目 - 日榜(2025-09-18)](https://blog.csdn.net/u014390502/article/details/151817007)
 
++ [计算机视觉（opencv）实战二十四——扫描答题卡打分](https://blog.csdn.net/2302_78022640/article/details/151756934)
+
++ [搜索百科（1）：Lucene —— 打开现代搜索世界的第一扇门](https://blog.csdn.net/infinilabs/article/details/151805165)
+
++ [第三篇：C++的进化之旅：从C with Class到C++20](https://blog.csdn.net/yongche_shi/article/details/151825088)
+
++ [【GitHub开源AI精选】KlicStudio：极简 AI 视频翻译配音工具，让跨平台内容本地化效率翻倍，GitHub狂揽7.9k星](https://blog.csdn.net/xiaobing259/article/details/151644045)
+
++ [Ubuntu自定义软路由—SoftRouting](https://blog.csdn.net/m0_74367891/article/details/151804079)
+
++ [C++开发者如何开发自己的第一个mac应用（xcode + XIB + Objective-C && C++）](https://blog.csdn.net/qq_33191599/article/details/151795753)
+
++ [基于Docker与Parasoft C/C++test的代码分析与单元测试实践](https://blog.csdn.net/2501_91602431/article/details/151824028)
+
++ [【开源工具】智能视频压缩工具：融合现代UI与FFmpeg的强大解决方案](https://blog.csdn.net/Clay_K/article/details/151753952)
+
++ [边界值分析法的测试用例数量：一般边界值分析（4n+1）和健壮性测试（6n+1）计算依据](https://blog.csdn.net/Dontla/article/details/151839156)
+
++ [IPD驱动下的电源技术革命：华为数字能源模块化复用与降本增效实践](https://blog.csdn.net/wisdom_19860320/article/details/151797981)
+
