@@ -171,3 +171,7 @@
 
 + [美政府与塔利班正就重返阿富汗巴格拉姆空军基地展开谈判](https://news.cctv.com/2025/09/20/ARTIxbdTyP0bvq0FwGtUQN6v250920.shtml)
 
++ [高端访谈丨专访伊朗总统佩泽希齐扬](https://news.cctv.com/2025/09/20/ARTI8iddg822k7Sphk681nVk250920.shtml)
+
++ [以军多方向推进 加沙城居民遭“夹击”](https://news.cctv.com/2025/09/20/ARTIaYcoCrnpbTFSBtUtBLOw250920.shtml)
+
