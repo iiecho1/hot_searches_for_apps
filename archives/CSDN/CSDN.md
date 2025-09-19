@@ -113,3 +113,27 @@
 
 + [CI/CD 实战：GitHub Actions 自动化部署 Spring Boot 项目](https://blog.csdn.net/IRpickstars/article/details/151783460)
 
++ [亮数据MCP结合Dify：构建自动化视频数据抓取与智能分析工作流的深度实践](https://blog.csdn.net/2301_80863610/article/details/151851752)
+
++ [Linux网络：socket网络套接字](https://blog.csdn.net/zby2791830200/article/details/151873645)
+
++ [深度学习-神经网络(上篇)](https://blog.csdn.net/qq_64232275/article/details/151836744)
+
++ [AI破解藏文密码：深度学习赋能古老文字](https://blog.csdn.net/dlf283870550/article/details/151836365)
+
++ [实习智能家居网关项目总结（MQTT与云端连接通信）](https://blog.csdn.net/weixin_47208848/article/details/151783305)
+
++ [内存释放更安全：free_s () 函数深度解析与 free () 全方位对比](https://blog.csdn.net/weixin_37800531/article/details/151802855)
+
++ [智能家居中的传感器创新应用：重塑未来居家体验](https://blog.csdn.net/m0_57847742/article/details/151796773)
+
++ [数据库云平台运维中的清醒之道：配置正确与双人复核机制优化](https://blog.csdn.net/hezuijiudexiaobai/article/details/151838774)
+
++ [从比特币到Web3：数字资产犯罪的演进史](https://blog.csdn.net/gpsjls/article/details/151828281)
+
++ [云原生-K8S](https://blog.csdn.net/2403_89445694/article/details/151711139)
+
++ [Web3 区块链就业方向、转行路径与钱景解析](https://blog.csdn.net/2504_93408817/article/details/151785986)
+
++ [微算法科技(NASDAQ：MLGO)研究分布式量子计算，释放量子计算潜能](https://blog.csdn.net/MicroTech2025/article/details/151797276)
+
