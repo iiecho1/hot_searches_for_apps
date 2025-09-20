@@ -149,3 +149,5 @@
 
 + [Java LLM开发框架全面解析：从Spring AI到Agents-Flex](https://blog.csdn.net/lilinhai548/article/details/151800728)
 
++ [深入解析Channel：数据流动的秘密通道](https://blog.csdn.net/qq_44378083/article/details/149182609)
+

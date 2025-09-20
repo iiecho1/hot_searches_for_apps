@@ -189,3 +189,7 @@
 
 + [委内瑞拉：美国对委内瑞拉不宣而战 联合国应开展调查](https://news.cctv.com/2025/09/20/ARTIMvW2Af2gkT2rW1NlNyLY250920.shtml)
 
++ [国际奥委会批准洛杉矶奥运会举重比赛增加两个级别](https://news.cctv.com/2025/09/20/ARTIe4CYgi6m5qLNZ36XDdwA250920.shtml)
+
++ [智利举行陆军节阅兵式](https://photo.cctv.com/2025/09/20/PHOADN7Yj2D9uRFIMpA193aq250920.shtml)
+

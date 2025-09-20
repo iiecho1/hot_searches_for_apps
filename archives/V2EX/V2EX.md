@@ -43,3 +43,5 @@
 
 + [Swoole 正在准备一个大招 PHP AOT,让任意 PHP 代码直接生成二进制，比如 WordPress ，直接一个命令行 aot ./wordpress -o wd 生成二进制，可以拷贝到任何地方直接./wd 运行](https://www.v2ex.com/t/1160502)
 
++ [擅长的 vs 赚钱的，该如何取舍？](https://www.v2ex.com/t/1160519)
+
