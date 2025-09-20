@@ -195,3 +195,7 @@
 
 + [俄外交部：联合国安理会无力阻止在加沙的大屠杀令人遗憾](https://news.cctv.com/2025/09/20/ARTIGStEDFFdpaMsJQ3sVRWK250920.shtml)
 
++ [扎波罗热核电站培训中心大楼遭无人机袭击](https://news.cctv.com/2025/09/20/ARTIQTTs7EQ3pnMoauQ0dv4u250920.shtml)
+
++ [墨西哥政府称该国公民在美“鳄鱼恶魔岛”遭虐待](https://news.cctv.com/2025/09/20/ARTIxoewkdT5qmuj0EoetCMV250920.shtml)
+
