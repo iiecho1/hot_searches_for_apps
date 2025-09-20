@@ -151,3 +151,21 @@
 
 + [深入解析Channel：数据流动的秘密通道](https://blog.csdn.net/qq_44378083/article/details/149182609)
 
++ [机器学习 - Kaggle项目实践（7）CV计算机视觉 - Cassava Leaf Disease Classification 木薯叶疾病分类 残差网络Res-Net50](https://blog.csdn.net/nju_spy/article/details/151249593)
+
++ [基于SpringBoot及PostgreSQL的国家减肥食谱管理项目（上）：区域与省份配置搭建](https://blog.csdn.net/yelangkingwuzuhu/article/details/151875322)
+
++ [C++聊天系统从零到一：brpc RPC框架篇](https://blog.csdn.net/2301_76657443/article/details/151831940)
+
++ [基于A星算法的无人机三维路径规划算法研究附Matlab代码](https://blog.csdn.net/qq_72962865/article/details/151830008)
+
++ [【序列晋升】35 Spring Data Envers 轻量级集成数据审计](https://blog.csdn.net/weixin_39671271/article/details/151800699)
+
++ [【Spring AI】Ollama大模型-智能对话实现+项目实战(Spring Boot + Vue)](https://blog.csdn.net/2401_84926677/article/details/151406783)
+
++ [gozero使用gRPC-gateway生成http网关](https://blog.csdn.net/qq_33028267/article/details/151834243)
+
++ [Spring AOP](https://blog.csdn.net/2301_81261819/article/details/151798185)
+
++ [数据库造神计划第十四天---联合查询（1）](https://blog.csdn.net/2402_83476639/article/details/151801722)
+

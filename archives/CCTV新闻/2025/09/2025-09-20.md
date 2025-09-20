@@ -193,3 +193,5 @@
 
 + [智利举行陆军节阅兵式](https://photo.cctv.com/2025/09/20/PHOADN7Yj2D9uRFIMpA193aq250920.shtml)
 
++ [俄外交部：联合国安理会无力阻止在加沙的大屠杀令人遗憾](https://news.cctv.com/2025/09/20/ARTIGStEDFFdpaMsJQ3sVRWK250920.shtml)
+
