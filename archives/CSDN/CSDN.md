@@ -173,3 +173,51 @@
 
 + [GitHub 热榜项目 - 日榜(2025-09-18)](https://blog.csdn.net/u014390502/article/details/151817007)
 
++ [交互式生成对抗网络（iGAN）](https://blog.csdn.net/LOVEmy134611/article/details/151835355)
+
++ [RTX 4090助力深度学习：从PyTorch到生产环境的完整实践指南](https://blog.csdn.net/IRpickstars/article/details/151854347)
+
++ [Python开发者脑洞防蒸发指南：当AI涮用户数据像涮火锅时](https://blog.csdn.net/qq_33650655/article/details/151686007)
+
++ [【AI编程】Qoder AI 编程工具从部署到深度使用实战详解](https://blog.csdn.net/zhangcongyi420/article/details/151653518)
+
++ [【愚公系列】《人工智能70年》031-机器翻译拆除语言樊篱（科技巨头的竞技场）](https://blog.csdn.net/aa2528877987/article/details/151681881)
+
++ [【Linux】进程概念(三)：深入剖析操作系统学科的进程状态理论体系与 Linux 系统下的浅度睡眠、深度睡眠、停止、僵尸、死亡等具体进程状态](https://blog.csdn.net/2501_90265152/article/details/151720963)
+
++ [Linux 冯诺依曼体系结构与进程理解](https://blog.csdn.net/2301_79976271/article/details/151869901)
+
++ [【Linux网络】Socket编程预备](https://blog.csdn.net/2402_82670467/article/details/151804560)
+
++ [uniapp - 实现APP后台持续定位+手机息屏后能持续上传位置信息数据，详解后台保活持续运行+手机锁屏保证后台持续/实时定位的解决方案及示例源码（完美兼容安卓android与苹果ios系统手机）](https://blog.csdn.net/weixin_44198965/article/details/151894922)
+
++ [C++之基于正倒排索引的Boost搜索引擎项目数据清洗代码及详解（下）](https://blog.csdn.net/fyy31/article/details/151334817)
+
++ [【技术架构】从单机到微服务：Java 后端架构演进与技术选型核心方案](https://blog.csdn.net/2302_79806056/article/details/151361712)
+
++ [当算力遇上情感：用RTX 4090复现B站IndexTTS2声音魔法](https://blog.csdn.net/2401_83830408/article/details/151801482)
+
++ [【完整源码+数据集+部署教程】 人脸特征图像分割系统： yolov8-seg-C2f-ODConv](https://blog.csdn.net/weixin_43860634/article/details/151887657)
+
++ [深入浅出：栈的原理与实现](https://blog.csdn.net/2402_83622972/article/details/151350504)
+
++ [【Spring生态】MyBatis-Plus](https://blog.csdn.net/2301_81305165/article/details/151837806)
+
++ [【线性代数：从基向量理解线性变换与矩阵】附Python代码](https://blog.csdn.net/Kratzdisteln/article/details/151839617)
+
++ [【通义万相】蓝耘元生代 | 文生视频新跃迁：通义万相2.1部署与应用](https://blog.csdn.net/Morse_Chen/article/details/151753331)
+
++ [用影刀小红书低粉爆款关键词笔记采集](https://blog.csdn.net/lwcwam/article/details/151824886)
+
++ [ip地址在哪里查看？怎样查询自己电脑ip？如何找到使用内网ip，判断看本地有无公网ip？内网ip怎么给外网访问？](https://blog.csdn.net/csghdn/article/details/151835626)
+
++ [SELinux安全上下文](https://blog.csdn.net/IT_mingY/article/details/151837519)
+
++ [论文阅读——I-ViT: 用于高效视觉Transformer推理的纯整数量化](https://blog.csdn.net/qq_44648285/article/details/151805122)
+
++ [CentOS 7.9 离线部署 KVM + WebVirtMgr，通过WebVirtMgr创建虚拟机教程](https://blog.csdn.net/linhua_111/article/details/151756121)
+
++ [深度拆解 TCP 首部：那些决定可靠传输的关键字段](https://blog.csdn.net/Cayyyy/article/details/151876347)
+
++ [金融工程vs金融数学：谁更贴近量化交易？](https://blog.csdn.net/XIAOYU672013/article/details/151801128)
+

@@ -199,3 +199,5 @@
 
 + [墨西哥政府称该国公民在美“鳄鱼恶魔岛”遭虐待](https://news.cctv.com/2025/09/20/ARTIxoewkdT5qmuj0EoetCMV250920.shtml)
 
++ [印尼勒沃托比火山喷发 火山灰柱达2500米](https://news.cctv.com/2025/09/20/ARTI6hkVlloLmRIE1thq0Ojc250920.shtml)
+
