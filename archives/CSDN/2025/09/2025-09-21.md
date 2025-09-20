@@ -147,3 +147,5 @@
 
 + [【linux】进程信号（一）信号的产生，signal，kill，raise，abort，alarm，core dump功能](https://blog.csdn.net/2301_80751958/article/details/151855709)
 
++ [华为全联接大会 2025：跃升行业智能化](https://blog.csdn.net/Peter_Changyb/article/details/151903737)
+

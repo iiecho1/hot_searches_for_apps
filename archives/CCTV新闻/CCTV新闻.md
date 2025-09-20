@@ -165,3 +165,15 @@
 
 + [美国防部被曝暂停部分对欧洲军售 以保自身库存](https://news.cctv.com/2025/09/21/ARTIkQbrwAoJq4U4wEJDOa7l250921.shtml)
 
++ [不结盟运动协调局呼吁维护拉美和加勒比地区和平](https://news.cctv.com/2025/09/21/ARTISN21VrQOxi9wKQtn64YT250921.shtml)
+
++ [美国土安全部再发警告 要求加州等配合移民局工作](https://news.cctv.com/2025/09/21/ARTIyr6JikRbcog0CgXhzOMJ250921.shtml)
+
++ [卡塔尔正式投诉以色列：公然侵犯主权 违反国际公约](https://news.cctv.com/2025/09/21/ARTIY8klbxfGwEUTfaNkxGgh250921.shtml)
+
++ [塞尔维亚举行“团结的力量”阅兵式](https://news.cctv.com/2025/09/21/ARTI1KNKemLiF6F1XxPuepQD250921.shtml)
+
++ [为加强欧洲安全 英国战机开始在波兰上空巡逻](https://news.cctv.com/2025/09/21/ARTIz2EqgtA7Hs8AeLkFctbj250921.shtml)
+
++ [伊朗将暂停与国际原子能机构合作](https://news.cctv.com/2025/09/21/ARTIXqXDUeSHJrvL3TiTTnQC250921.shtml)
+
