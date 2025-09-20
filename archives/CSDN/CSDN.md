@@ -221,3 +221,13 @@
 
 + [金融工程vs金融数学：谁更贴近量化交易？](https://blog.csdn.net/XIAOYU672013/article/details/151801128)
 
++ [Lingma IDE（通义灵码IDE）实现连接wsl的2个方法，Trae、Cursor、CodeBuddy、Baidu Comate、Qoder等其它基于vscode的AI IDE都可以参考使用](https://blog.csdn.net/g310773517/article/details/151894990)
+
++ [FunASR：开启语音识别新世界的开源宝藏](https://blog.csdn.net/beautifulmemory/article/details/151840800)
+
++ [【序列晋升】34 Spring Data JPA 极简Java持久化开发的利器](https://blog.csdn.net/weixin_39671271/article/details/151801043)
+
++ [TCP 协议全解析：握手、挥手、重传与流控的深度剖析](https://blog.csdn.net/jingfeng514/article/details/151819230)
+
++ [为什么 MSSQL（SQL Server）要预占内存，以及 预占之后业务是如何使用/分配的。](https://blog.csdn.net/hezuijiudexiaobai/article/details/151873114)
+

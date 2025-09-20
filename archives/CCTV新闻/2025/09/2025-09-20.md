@@ -201,3 +201,11 @@
 
 + [印尼勒沃托比火山喷发 火山灰柱达2500米](https://news.cctv.com/2025/09/20/ARTI6hkVlloLmRIE1thq0Ojc250920.shtml)
 
++ [习言道｜中美完全可以相互成就、共同繁荣，造福两国、惠及世界](https://news.cctv.com/2025/09/20/ARTIx5xTFFWtHCn8dfoA4jmv250920.shtml)
+
++ [智利举行国庆庆祝活动和阅兵仪式](https://news.cctv.com/2025/09/20/ARTI0zKCufznEdXnDPxs45ZJ250920.shtml)
+
++ [特稿丨更快、更稳、更实——从东博会感受中国-东盟命运共同体的建设步伐](https://news.cctv.com/2025/09/20/ARTIF1gbpwgcuu261PTClwCO250920.shtml)
+
++ [热点问答丨恢复制裁“箭在弦上” 伊核问题走向何方](https://news.cctv.com/2025/09/20/ARTILJz6GMzpiTFR1q7YL1mH250920.shtml)
+

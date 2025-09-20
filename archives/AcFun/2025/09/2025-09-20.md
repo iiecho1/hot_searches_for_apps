@@ -87,3 +87,11 @@
 
 + [【初音ミク】Self-Destructive Girl ](https://m.acfun.cn/v/?ac=47838884)
 
++ [这样过一生或许也不错【路边的藤井01】](https://m.acfun.cn/v/?ac=47839848)
+
++ [“你相信光吗？”女声粤语版《奇迹再现》『迪迦奥特曼主题曲』](https://m.acfun.cn/v/?ac=47839054)
+
++ [“我不素傻几！”](https://m.acfun.cn/v/?ac=47838192)
+
++ [我的悲伤是水做的](https://m.acfun.cn/v/?ac=47836331)
+
