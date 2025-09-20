@@ -147,3 +147,5 @@
 
 + [企业大数据查询MCP推荐（使用指南+工具介绍）](https://blog.csdn.net/2501_93187084/article/details/151821990)
 
++ [Java LLM开发框架全面解析：从Spring AI到Agents-Flex](https://blog.csdn.net/lilinhai548/article/details/151800728)
+

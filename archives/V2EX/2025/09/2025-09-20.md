@@ -35,3 +35,11 @@
 
 + [大家怎么看小米 SU7 召回的问题](https://www.v2ex.com/t/1160415)
 
++ [看隔壁舅舅送礼物 想开个话题, 是不是舅舅都要比叔叔亲,](https://www.v2ex.com/t/1160539)
+
++ [如何优雅的在个人服务器部署静态博客？](https://www.v2ex.com/t/1160486)
+
++ [被威联通恶心坏了，求推荐 nas](https://www.v2ex.com/t/1160572)
+
++ [Swoole 正在准备一个大招 PHP AOT,让任意 PHP 代码直接生成二进制，比如 WordPress ，直接一个命令行 aot ./wordpress -o wd 生成二进制，可以拷贝到任何地方直接./wd 运行](https://www.v2ex.com/t/1160502)
+

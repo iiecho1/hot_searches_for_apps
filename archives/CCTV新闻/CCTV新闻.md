@@ -175,3 +175,17 @@
 
 + [以军多方向推进 加沙城居民遭“夹击”](https://news.cctv.com/2025/09/20/ARTIaYcoCrnpbTFSBtUtBLOw250920.shtml)
 
++ [巴西卫生部长因美国签证限制取消访美](https://news.cctv.com/2025/09/20/ARTIS9emOZbY6JMwcG5P66SE250920.shtml)
+
++ [特稿丨进入共赢新领域 中国-东盟人工智能合作全面提速](https://news.cctv.com/2025/09/20/ARTIXvwezj7EiFG2DSMl7JZG250920.shtml)
+
++ [小泉进次郎正式宣布参选日本自民党总裁](https://news.cctv.com/2025/09/20/ARTIpZ8Lhln5n1pareyBzCu5250920.shtml)
+
++ [联合国专家：驻日美军基地造成的污染问题“极其严重”](https://news.cctv.com/2025/09/20/ARTIHETYSmRh2SpYhed3uJ1x250920.shtml)
+
++ [特朗普签署公告将H-1B签证费用升至10万美元](https://news.cctv.com/2025/09/20/ARTIGQ3BieSPqJEeDUTf6NaN250920.shtml)
+
++ [总台记者探访丨巴黎圣母院塔楼重开 缮后细节抢先看](https://news.cctv.com/2025/09/20/ARTIvvYqUxzRP4XCh84Cupfd250920.shtml)
+
++ [委内瑞拉：美国对委内瑞拉不宣而战 联合国应开展调查](https://news.cctv.com/2025/09/20/ARTIMvW2Af2gkT2rW1NlNyLY250920.shtml)
+
