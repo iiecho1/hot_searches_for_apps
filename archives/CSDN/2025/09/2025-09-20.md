@@ -253,3 +253,39 @@
 
 + [uniapp：实现APP获取陀螺仪数据、加速传感器、线性加速传感器，uniApp实时监听陀螺仪【XYZ】数据及停止监听与资源释放等功能示例源码，根据需求做功能（完美兼容Android安卓、苹果ios）](https://blog.csdn.net/weixin_50545213/article/details/151900463)
 
++ [【脑电分析系列】第20篇：深度学习方法（二）：循环神经网络（RNN/LSTM/GRU）在EEG时间序列分析中的优势](https://blog.csdn.net/qq_32516809/article/details/151855287)
+
++ [灰度图的作用：图像处理与计算机视觉的基石](https://blog.csdn.net/m0_74670510/article/details/151723046)
+
++ [LSTM 预测 AirPassengers 数据集](https://blog.csdn.net/m0_68308653/article/details/151875550)
+
++ [机器学习-深度学习-NLP/DL-B-专题-CNN.md](https://blog.csdn.net/xiaoshun007/article/details/135263581)
+
++ [CICD工具选型，Jenkins VS Arbess哪一款更好用？](https://blog.csdn.net/tiklab2021/article/details/150991135)
+
++ [企业级容器技术Docker 20250919总结](https://blog.csdn.net/2501_91384465/article/details/151873335)
+
++ [Ubuntu25.04通过Docker编译Sunshine记录](https://blog.csdn.net/u010160146/article/details/151869254)
+
++ [Kubernetes 高级运维：监控升级、ETCD 备份与 Kustomize 配置管理](https://blog.csdn.net/llllllllzl/article/details/151874170)
+
++ [kind部署K8S集群并将“修仙业务“部署到kind集群](https://blog.csdn.net/qq_52174380/article/details/151872666)
+
++ [【C++项目】微服务即时通讯系统：服务端](https://blog.csdn.net/weixin_50776420/article/details/149439500)
+
++ [K8s学习----HPA：自动调优 Pod 数量](https://blog.csdn.net/Chihiro1002/article/details/151825716)
+
++ [【笔记】Docker使用](https://blog.csdn.net/Word_And_Me_/article/details/151865224)
+
++ [聊聊AI家族（人工智能AI、机器学习ML、深度学习DL、神经网络NN、LLM、Agent）的那些事儿](https://blog.csdn.net/weixin_38526314/article/details/151815190)
+
++ [C++与WebAssembly集成](https://blog.csdn.net/yydty89725/article/details/151876356)
+
++ [关于C++中协程coroutine的学习研究](https://blog.csdn.net/yu1222/article/details/151861100)
+
++ [【MySQL】使用C/C++链接mysql数据库](https://blog.csdn.net/liuty0125/article/details/151873234)
+
++ [C++中的职责链模式实战](https://blog.csdn.net/auqdm67768/article/details/151831591)
+
++ [C++符号混淆技术](https://blog.csdn.net/gfhcn48420/article/details/151831107)
+

@@ -215,3 +215,7 @@
 
 + [“数”联山海 “智”造未来——从东博会看中国—东盟人工智能合作新机遇](https://news.cctv.com/2025/09/20/ARTIifWWqShb1fhukvuojwht250920.shtml)
 
++ [钟声：中美完全可以相互成就、共同繁荣](https://news.cctv.com/2025/09/20/ARTIvX12ZUYTq0Yf7TrnBiWi250920.shtml)
+
++ [壹视界·任平文章解读|从四大全球倡议看和平与发展](https://news.cctv.com/2025/09/20/ARTINLBmhsA3XCFTzpmWSrqd250920.shtml)
+
