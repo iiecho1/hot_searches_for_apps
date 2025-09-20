@@ -289,3 +289,29 @@
 
 + [C++符号混淆技术](https://blog.csdn.net/gfhcn48420/article/details/151831107)
 
++ [深度学习中的卷积神经网络](https://blog.csdn.net/2302_77370299/article/details/151859897)
+
++ [智能硬件与IT产品的网络安全合规：主流认证体系解析与开发注意事项](https://blog.csdn.net/tech3ogic/article/details/150945124)
+
++ [FormCreate——基于Vue的低代码可视化表单设计器，实现管理端集成设计器功能](https://blog.csdn.net/m0_49262795/article/details/151833523)
+
++ [CppCon 2021 学习: Compile-Time Compression and Resource Generation with C++20](https://blog.csdn.net/TM1695648164/article/details/151863298)
+
++ [智能梯控系统在AGV/AMR机器人跨楼层输送中的技术方案：系统通过梯控主板、状态采集器及交互设备实现电梯智能控制，支持ModbusTCP/HTTP通信协议，具备人机隔离、语音提示、LED显示等功能](https://blog.csdn.net/FDFDGFD/article/details/151875664)
+
++ [【一天一个Web3概念】区块链挖矿：原理、演进与风险全面解析](https://blog.csdn.net/alex100/article/details/151875497)
+
++ [从零开始，低代码快速搭建设备报修小程序：需求、设计与原型全解析](https://blog.csdn.net/u012877217/article/details/151858022)
+
++ [智元机器人比赛排坑记录](https://blog.csdn.net/qq_42556934/article/details/151678796)
+
++ [抗辐照MCU在核电站巡检机器人摄像头模组中的应用探讨](https://blog.csdn.net/ANSILIC/article/details/151869652)
+
++ [论文解读 | Franka 机器人的 CRISP-ROS2 集成实践：适配学习型操作策略与遥操作](https://blog.csdn.net/Hinyeung2021/article/details/151861582)
+
++ [C++23新特性前瞻](https://blog.csdn.net/rnrcf83548/article/details/151864304)
+
++ [认识海康机器人——工业相机和镜头](https://blog.csdn.net/qq_42711010/article/details/151831886)
+
++ [低代码开发，如何成为企业信息化建设的得力助手](https://blog.csdn.net/LiuZhiYun_01/article/details/151855426)
+
