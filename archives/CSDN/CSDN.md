@@ -239,3 +239,9 @@
 
 + [深入理解Buffer：数据世界的“蓄水池“](https://blog.csdn.net/qq_44378083/article/details/149182852)
 
++ [基于C++11手撸前端Promise](https://blog.csdn.net/2503_92624912/article/details/151896346)
+
++ [基于人工智能AI大模型+Python大数据爬虫+的民宿旅游消费分析平台(精品源码+精品论文+数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/151895527)
+
++ [Selector:I/O多路复用的核心引擎](https://blog.csdn.net/qq_44378083/article/details/149183023)
+
