@@ -47,3 +47,9 @@
 
 + [1438 元起，华为 WATCH GT 6 智能手表国行版预售](https://m.ithome.com/html/884359.htm)
 
++ [小米汽车回应“超 11 万辆 SU7 标准版 OTA 召回”：意在进一步提升辅助驾驶功能的可靠性，不需要物理更换任何零件](https://m.ithome.com/html/884143.htm)
+
++ [WePhone 创始人苏享茂自杀事件新进展：翟某某一审获刑 12 年](https://m.ithome.com/html/884144.htm)
+
++ [L2 辅助驾驶极端场景应对不足：小米汽车 OTA 召回超 11 万辆 SU7 标准版，已推送最新澎湃 OS 1.10.0 版本](https://m.ithome.com/html/884089.htm)
+

@@ -111,3 +111,29 @@
 
 + [关于C++中协程coroutine的学习研究](https://blog.csdn.net/yu1222/article/details/151861100)
 
++ [更详细的图像处理与算法实现：OpenCVSharp、PCL.NET集成及TSV检测](https://blog.csdn.net/zhxup606/article/details/151872377)
+
++ [神经网络动态图嵌入方法——离散动态图](https://blog.csdn.net/qq_41824788/article/details/151834796)
+
++ [微服务-网关gateway理论与实战](https://blog.csdn.net/2301_79808660/article/details/151867037)
+
++ [一文读懂云原生(Cloud Native)：微服务、容器与Kubernetes核心思想](https://blog.csdn.net/Clownseven/article/details/151857609)
+
++ [边界值分析法的测试用例数量：一般边界值分析（4n+1）和健壮性测试（6n+1）计算依据](https://blog.csdn.net/Dontla/article/details/151839156)
+
++ [Elasticsearch 的 ES|QL 编辑器体验 vs. OpenSearch 的 PPL 事件分析器](https://blog.csdn.net/UbuntuTouch/article/details/151851492)
+
++ [【Linux网络】Socket编程预备](https://blog.csdn.net/2402_82670467/article/details/151804560)
+
++ [千问大模型部署笔记](https://blog.csdn.net/jacke121/article/details/151818109)
+
++ [Redis三种服务架构](https://blog.csdn.net/ysw0618/article/details/151874271)
+
++ [亮数据MCP结合Dify：构建自动化视频数据抓取与智能分析工作流的深度实践](https://blog.csdn.net/2301_80863610/article/details/151851752)
+
++ [【通义万相】蓝耘元生代 | 文生视频新跃迁：通义万相2.1部署与应用](https://blog.csdn.net/Morse_Chen/article/details/151753331)
+
++ [系统分析师-软件工程-软件生命周期&瀑布模型&螺旋模型&V模型&RUP&敏捷方法](https://blog.csdn.net/g984160547/article/details/151593656)
+
++ [【Spring生态】MyBatis-Plus](https://blog.csdn.net/2301_81305165/article/details/151837806)
+
