@@ -143,3 +143,5 @@
 
 + [【完整源码+数据集+部署教程】 人脸特征图像分割系统： yolov8-seg-C2f-ODConv](https://blog.csdn.net/weixin_43860634/article/details/151887657)
 
++ [数据传输中的三大难题，ETL 平台是如何解决的？](https://blog.csdn.net/RestCloud/article/details/151835192)
+
