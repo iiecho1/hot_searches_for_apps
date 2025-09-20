@@ -143,3 +143,7 @@
 
 + [无人机避障——卡内基梅隆大学（CMU）CERLAB 无人机自主框架复现](https://blog.csdn.net/weixin_45390670/article/details/151827423)
 
++ [IPD驱动下的电源技术革命：华为数字能源模块化复用与降本增效实践](https://blog.csdn.net/wisdom_19860320/article/details/151797981)
+
++ [企业大数据查询MCP推荐（使用指南+工具介绍）](https://blog.csdn.net/2501_93187084/article/details/151821990)
+

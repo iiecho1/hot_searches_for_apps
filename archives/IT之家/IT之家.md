@@ -59,3 +59,11 @@
 
 + [英伟达向英特尔投资 50 亿美元，将共同推出“Intel X86 with RTX”芯片](https://m.ithome.com/html/884004.htm)
 
++ [卢伟冰解释小米 17 命名：不是“蹭苹果热度”而是“跳变”，7 好像“幸运数字”](https://m.ithome.com/html/884317.htm)
+
++ [小米 17 Pro 系列手机用上 L 型电池，背屏斥资 10 个亿打造](https://m.ithome.com/html/884365.htm)
+
++ [卢伟冰：小米 17 系列手机依然有 Ultra 版](https://m.ithome.com/html/884346.htm)
+
++ [卢伟冰：国庆期间大家就能拿到小米 17 系列手机，标准版加量不加价、Pro 系列再上探](https://m.ithome.com/html/884327.htm)
+

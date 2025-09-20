@@ -23,3 +23,15 @@
 
 + [关于闪电贷优惠](https://www.v2ex.com/t/1160386)
 
++ [做空 SOL 触发止损，回归$V2EX 的怀抱](https://www.v2ex.com/t/1160436)
+
++ [我想订阅 vscode copilot，有什么订阅渠道或者虚拟信用卡推荐？](https://www.v2ex.com/t/1160452)
+
++ [本 4 offer 选择](https://www.v2ex.com/t/1160423)
+
++ [17pm 橙色丑爆了](https://www.v2ex.com/t/1160526)
+
++ [FZ 真是太、太、太恶心了](https://www.v2ex.com/t/1160489)
+
++ [大家怎么看小米 SU7 召回的问题](https://www.v2ex.com/t/1160415)
+
