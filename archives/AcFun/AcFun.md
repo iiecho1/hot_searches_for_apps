@@ -143,3 +143,7 @@
 
 + [校园异常？！如果你在学校上课时，遇到他们，赶紧跑！模拟恐怖短篇解说](https://m.acfun.cn/v/?ac=47839085)
 
++ [Deja Vu～](https://m.acfun.cn/v/?ac=47841644)
+
++ [【绝望女神/翻唱】【信徒 Believer】](https://m.acfun.cn/v/?ac=47841416)
+
