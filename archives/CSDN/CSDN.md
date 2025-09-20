@@ -137,3 +137,9 @@
 
 + [【Spring生态】MyBatis-Plus](https://blog.csdn.net/2301_81305165/article/details/151837806)
 
++ [【网络系列】HSTS](https://blog.csdn.net/qyj19920704/article/details/151753788)
+
++ [【Haddop】Hive的离线分析与Sqoop的数据集成](https://blog.csdn.net/D2005_10_25/article/details/151838743)
+
++ [【完整源码+数据集+部署教程】 人脸特征图像分割系统： yolov8-seg-C2f-ODConv](https://blog.csdn.net/weixin_43860634/article/details/151887657)
+
