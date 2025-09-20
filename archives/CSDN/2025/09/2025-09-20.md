@@ -231,3 +231,11 @@
 
 + [为什么 MSSQL（SQL Server）要预占内存，以及 预占之后业务是如何使用/分配的。](https://blog.csdn.net/hezuijiudexiaobai/article/details/151873114)
 
++ [AI 精准绘图专栏：豆包・图像创作模型 Seedream 4.0 全面测评与创意玩法解析](https://blog.csdn.net/weixin_43151418/article/details/151686726)
+
++ [Transformer实战（19）——微调Transformer语言模型进行词元分类](https://blog.csdn.net/LOVEmy134611/article/details/147880383)
+
++ [【Spring Boot 报错已解决】Spring Boot 模糊映射（Ambiguous mapping）报错解决指南](https://blog.csdn.net/2301_80026901/article/details/151851016)
+
++ [深入理解Buffer：数据世界的“蓄水池“](https://blog.csdn.net/qq_44378083/article/details/149182852)
+
