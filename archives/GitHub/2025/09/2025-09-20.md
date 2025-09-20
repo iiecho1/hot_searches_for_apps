@@ -33,3 +33,23 @@
 
 + [bitnami/charts](https://github.com/bitnami/charts)
 
++ [winfunc/opcode](https://github.com/winfunc/opcode)
+
++ [tldraw/tldraw](https://github.com/tldraw/tldraw)
+
++ [grafana/loki](https://github.com/grafana/loki)
+
++ [OpenMind/OM1](https://github.com/OpenMind/OM1)
+
++ [9001/copyparty](https://github.com/9001/copyparty)
+
++ [knownsec/aipyapp](https://github.com/knownsec/aipyapp)
+
++ [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
++ [unslothai/unsloth](https://github.com/unslothai/unsloth)
+
++ [odoo/odoo](https://github.com/odoo/odoo)
+
++ [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat)
+

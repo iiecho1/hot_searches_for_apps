@@ -245,3 +245,11 @@
 
 + [Selector:I/O多路复用的核心引擎](https://blog.csdn.net/qq_44378083/article/details/149183023)
 
++ [蓝耘智算与DeepSeekR1：低成本高能AI模型](https://blog.csdn.net/2401_86275172/article/details/151819469)
+
++ [基于C# winform实现PP-HumanSeg人像分割替换背景色更换背景色](https://blog.csdn.net/FL1623863129/article/details/151893167)
+
++ [Redis三种服务架构](https://blog.csdn.net/ysw0618/article/details/151874271)
+
++ [uniapp：实现APP获取陀螺仪数据、加速传感器、线性加速传感器，uniApp实时监听陀螺仪【XYZ】数据及停止监听与资源释放等功能示例源码，根据需求做功能（完美兼容Android安卓、苹果ios）](https://blog.csdn.net/weixin_50545213/article/details/151900463)
+
