@@ -101,3 +101,13 @@
 
 + [基于人工智能AI大模型+Python大数据爬虫+的民宿旅游消费分析平台(精品源码+精品论文+数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/151895527)
 
++ [AI 精准绘图专栏：豆包・图像创作模型 Seedream 4.0 全面测评与创意玩法解析](https://blog.csdn.net/weixin_43151418/article/details/151686726)
+
++ [Java 大视界 -- Java 大数据在智慧文旅旅游景区游客情感分析与服务改进中的应用实践](https://blog.csdn.net/atgfg/article/details/151840141)
+
++ [基于C# winform实现PP-HumanSeg人像分割替换背景色更换背景色](https://blog.csdn.net/FL1623863129/article/details/151893167)
+
++ [适合海外业务的云原生数据库有哪些？精选架构领先的五款深度评测](https://blog.csdn.net/tangtianxia/article/details/151872726)
+
++ [关于C++中协程coroutine的学习研究](https://blog.csdn.net/yu1222/article/details/151861100)
+

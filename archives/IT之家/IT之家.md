@@ -25,3 +25,25 @@
 
 + [小米公布澎湃 OS 3 正式版推送计划：15 系列不晚于 10 月 15 日，14 系列不晚于 11 月 15 日](https://m.ithome.com/html/884324.htm)
 
++ [小米 17 系列手机电池规格曝光：6300mAh—7500mAh](https://m.ithome.com/html/884386.htm)
+
++ [苹果 iPhone 17 Pro Max 拆解，确认采用高通骁龙 X80 5G 调制解调器](https://m.ithome.com/html/884381.htm)
+
++ [苹果 iPhone 17 Pro / Max 遇划痕危机，深蓝色版尤为明显](https://m.ithome.com/html/884378.htm)
+
++ [王乐：小米 18 Pro 系列手机“背屏绝对不会取消”](https://m.ithome.com/html/884470.htm)
+
++ [预售爆火：消息称 iPhone 17 标准版紧急增产，苹果要求日产量提高 40%](https://m.ithome.com/html/884374.htm)
+
++ [格力朱磊“寄语”小米：十年免费包修是承诺，十年不用修才是实力](https://m.ithome.com/html/884364.htm)
+
++ [三星 Galaxy S26 Edge 手机壳渲染图曝光，后摄模组设计类似苹果 iPhone 17 Pro](https://m.ithome.com/html/884410.htm)
+
++ [苹果 CEO 库克：iPhone 17 系列价格上涨与关税无关](https://m.ithome.com/html/884393.htm)
+
++ [网友解锁苹果 iPhone 17 系列“吐舌头刷抖音”新玩法](https://m.ithome.com/html/884462.htm)
+
++ [小米 YU7 锁单等待用户关怀活动上线，3 个月未交付有机会领取惊喜礼品](https://m.ithome.com/html/884372.htm)
+
++ [1438 元起，华为 WATCH GT 6 智能手表国行版预售](https://m.ithome.com/html/884359.htm)
+

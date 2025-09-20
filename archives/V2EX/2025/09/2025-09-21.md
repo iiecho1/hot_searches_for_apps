@@ -21,3 +21,5 @@
 
 + [vibe coding 是砒霜还是良药？中美文化对比](https://www.v2ex.com/t/1160697)
 
++ [深圳有没有靠谱的 iPhone 换电池商家？想当场换](https://www.v2ex.com/t/1160642)
+
