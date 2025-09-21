@@ -41,3 +41,5 @@
 
 + [从 Android 换 iPhone , 没有边缘左右滑动返回上一面功能, 太难受了](https://www.v2ex.com/t/1160803)
 
++ [劣币驱逐良币是不是真的无解。](https://www.v2ex.com/t/1160816)
+

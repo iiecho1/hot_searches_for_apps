@@ -177,3 +177,7 @@
 
 + [OpenAPI 规范：构建高效 RESTful API 指南](https://blog.csdn.net/qq_21418361/article/details/151839382)
 
++ [2025华为杯研究生数学建模竞赛通关教程——赛题思路合集及赛程规划](https://blog.csdn.net/luozhenghao/article/details/151922191)
+
++ [【Linux】网络——HTTP协议，HTTPS加密](https://blog.csdn.net/tan_run/article/details/150955112)
+
