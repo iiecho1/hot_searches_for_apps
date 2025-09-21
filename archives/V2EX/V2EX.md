@@ -57,3 +57,7 @@
 
 + [ohmyzsh 和 nvm 仍然是必选项吗？](https://www.v2ex.com/t/1160755)
 
++ [穷病是终生不可治疗的吗？](https://www.v2ex.com/t/1160882)
+
++ [搜狗输入法在偷偷改浏览器主页了](https://www.v2ex.com/t/1160772)
+
