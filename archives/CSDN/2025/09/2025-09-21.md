@@ -149,3 +149,7 @@
 
 + [华为全联接大会 2025：跃升行业智能化](https://blog.csdn.net/Peter_Changyb/article/details/151903737)
 
++ [深度解析：基于 ODBC连接 KingbaseES 数据库的完整操作与实践](https://blog.csdn.net/Dreamy_zsy/article/details/151901154)
+
++ [AIGC发展：从GPT-1到GPT-4的技术演进与行业革新](https://blog.csdn.net/m290345792/article/details/151904250)
+
