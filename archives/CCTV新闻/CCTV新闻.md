@@ -213,3 +213,5 @@
 
 + [专访丨期待泰中深化绿色金融与数字经济领域合作——访泰国开泰银行执行副总裁郑卓文](https://news.cctv.com/2025/09/21/ARTIMEPVUrZhcVfxDmIOlGez250921.shtml)
 
++ [澳大利亚、加拿大、英国宣布承认巴勒斯坦国](https://news.cctv.com/2025/09/21/ARTIoZsEz5d0kreGhBgCRjXn250921.shtml)
+

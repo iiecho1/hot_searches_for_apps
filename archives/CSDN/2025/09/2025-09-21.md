@@ -197,3 +197,17 @@
 
 + [2025年目标检测还有什么方向好发论文？](https://blog.csdn.net/weixin_42645636/article/details/151870587)
 
++ [【AI智能体】Dify 搭建数据分析应用实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/151332175)
+
++ [深度学习中的卷积神经网络](https://blog.csdn.net/2302_77370299/article/details/151859897)
+
++ [使用 Docker 快速部署 KingbaseES 国产数据库：亲测全过程分享](https://blog.csdn.net/beautifulmemory/article/details/151926623)
+
++ [python小游戏实战：打造一款视觉精美的贪吃蛇小游戏](https://blog.csdn.net/weixin_43151418/article/details/151929157)
+
++ [Qwen3-Next深度解析：阿里开源“最强性价比“AI模型，如何用3%参数超越全参数模型？](https://blog.csdn.net/qq_51646682/article/details/151874264)
+
++ [【Linux】进程概念(四)：Linux进程优先级与进程调度的核心逻辑](https://blog.csdn.net/2501_90265152/article/details/151864520)
+
++ [用html5写一个时区时间查询器](https://blog.csdn.net/2501_91812691/article/details/151874844)
+
