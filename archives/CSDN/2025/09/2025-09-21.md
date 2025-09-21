@@ -181,3 +181,5 @@
 
 + [【Linux】网络——HTTP协议，HTTPS加密](https://blog.csdn.net/tan_run/article/details/150955112)
 
++ [企业级AI落地：MCP平台的最佳实践路径图](https://blog.csdn.net/qq_41187124/article/details/151833853)
+
