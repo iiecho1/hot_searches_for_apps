@@ -187,3 +187,5 @@
 
 + [【2025华为杯E题】全国研究生数学建模竞赛E题高速列车轴承智能故障诊断问题思路+代码+论文](https://blog.csdn.net/TIQCmatlab/article/details/151924462)
 
++ [HarmonyOS开源项目分享：识笺——高效学习的卡片应用](https://blog.csdn.net/qq8864/article/details/151863323)
+
