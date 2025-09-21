@@ -183,3 +183,7 @@
 
 + [企业级AI落地：MCP平台的最佳实践路径图](https://blog.csdn.net/qq_41187124/article/details/151833853)
 
++ [2025年华为杯中国研究生数学建模竞赛C题 围岩裂隙精准识别与三维模型重构 思路+代码](https://blog.csdn.net/m0_52343631/article/details/151920759)
+
++ [【2025华为杯E题】全国研究生数学建模竞赛E题高速列车轴承智能故障诊断问题思路+代码+论文](https://blog.csdn.net/TIQCmatlab/article/details/151924462)
+

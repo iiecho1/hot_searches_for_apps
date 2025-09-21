@@ -69,3 +69,11 @@
 
 + [华为 Mate 70 等机型推送鸿蒙 HarmonyOS 6.0.0.100 SP6 开发版更新](https://m.ithome.com/html/884411.htm)
 
++ [21.99 万元起 2026 款阿维塔 07 车型上市：首发搭载华为乾崑 ADS 4 / 鸿蒙座舱 HarmonySpace 5](https://m.ithome.com/html/884518.htm)
+
++ [比亚迪仰望 U9 Xtreme 开放预订：全球限量 30 台，纽北赛道成绩 6:59.157](https://m.ithome.com/html/884530.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0 版本被曝预埋节日限时水印功能](https://m.ithome.com/html/884509.htm)
+
++ [华为：鸿蒙 HarmonyOS 5 终端数量突破 1700 万](https://m.ithome.com/html/884453.htm)
+
