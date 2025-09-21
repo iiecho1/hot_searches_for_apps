@@ -139,3 +139,5 @@
 
 + [深度学习在计算机视觉中的最新进展：范式转变与前沿探索](https://blog.csdn.net/2301_80863610/article/details/151920363)
 
++ [Zookeeper脑裂是什么原因导致的？](https://blog.csdn.net/caoli201314/article/details/151854098)
+

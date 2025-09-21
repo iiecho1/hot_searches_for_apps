@@ -33,3 +33,23 @@
 
 + [华为：鸿蒙 HarmonyOS 5 终端数量突破 1700 万](https://m.ithome.com/html/884453.htm)
 
++ [消息称苹果 iPhone Air 国行下月上市：仅以合约机形式在营业厅销售、不提供全网通版本](https://m.ithome.com/html/884599.htm)
+
++ [苹果 iPhone 17 系列手机刚开售，消息称第三方已成功将存储扩容至 2TB](https://m.ithome.com/html/884615.htm)
+
++ [电影《731》票房破 10 亿，超《碟中谍 6》成为中国影史 9 月票房冠军](https://m.ithome.com/html/884561.htm)
+
++ [小米汽车与苹果深度合作，系统级整合 Apple Music 实现账号永久同步](https://m.ithome.com/html/884600.htm)
+
++ [5.6 万购买 FSD 仅能跟车变道，国内多名车主起诉特斯拉欺诈获立案](https://m.ithome.com/html/884543.htm)
+
++ [央视揭秘“世界上的另一个她”：一女子微信、抖音账号被盗图搬运数年，甚至与他人网恋](https://m.ithome.com/html/884576.htm)
+
++ [苹果 iPhone 17 系列 / Air 电池续航实测，Pro Max 机型表现亮眼](https://m.ithome.com/html/884656.htm)
+
++ [小米 17 系列手机发布会开启粉丝招募，9 月 23 日将正式公布入选名单](https://m.ithome.com/html/884644.htm)
+
++ [小米澎湃 OS 3 系统 8 款首批适配机型明日结束 Beta 版招募，正式版 10 月 15 日分批次推送](https://m.ithome.com/html/884571.htm)
+
++ [BE10000 Pro？神秘路由器现身小米之家：4 个 2.5G 网口 + 双万兆网口](https://m.ithome.com/html/884564.htm)
+
