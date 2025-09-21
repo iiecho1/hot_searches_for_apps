@@ -53,3 +53,19 @@
 
 + [L2 辅助驾驶极端场景应对不足：小米汽车 OTA 召回超 11 万辆 SU7 标准版，已推送最新澎湃 OS 1.10.0 版本](https://m.ithome.com/html/884089.htm)
 
++ [火绒安全：搜狗输入法云控下发模块，“暗中”篡改浏览器配置](https://m.ithome.com/html/884426.htm)
+
++ [苹果最薄 iPhone Air 海外发售首日，部分用户反馈镜头内出现水雾](https://m.ithome.com/html/884465.htm)
+
++ [比亚迪仰望 U9 Xtreme 超跑官宣：极速 496.22km/h 世界第一](https://m.ithome.com/html/884524.htm)
+
++ [小米平板 8 / Pro 展示机上架全国多家小米之家，本月正式发布](https://m.ithome.com/html/884477.htm)
+
++ [网传 TP-LINK 普联技术芯片部门全员解散，知情人士称“并非公司本身，相关主体应为早前关联公司”](https://m.ithome.com/html/884529.htm)
+
++ [全新蔚来 ES8 正式上市：40.68 万-44.68 万元，租电方案 29.88 万-33.88 万元](https://m.ithome.com/html/884522.htm)
+
++ [小米手机新旗舰通过 SRRC 无线电核准：支持 UWB 技术，预计为 17 Ultra](https://m.ithome.com/html/884397.htm)
+
++ [华为 Mate 70 等机型推送鸿蒙 HarmonyOS 6.0.0.100 SP6 开发版更新](https://m.ithome.com/html/884411.htm)
+

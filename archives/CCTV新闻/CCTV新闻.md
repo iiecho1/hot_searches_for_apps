@@ -191,3 +191,9 @@
 
 + [又有多国将承认巴勒斯坦国 美以国际孤立加剧](https://news.cctv.com/2025/09/21/ARTIH7rOkf3UQUvhYIbCgJTg250921.shtml)
 
++ [美媒曝美国因库存短缺暂停部分对欧洲军售](https://news.cctv.com/2025/09/21/ARTIJBtVbLOf8P0cJH1bAPs0250921.shtml)
+
++ [美新罕布什尔州俱乐部枪击事件枪手为1人 已被捕](https://news.cctv.com/2025/09/21/ARTITSK3Yd7pFP32aGMQXETm250921.shtml)
+
++ [特朗普为重占阿富汗空军基地发出威胁](https://news.cctv.com/2025/09/21/ARTIltEXWef0ioBAEV4M9oq8250921.shtml)
+

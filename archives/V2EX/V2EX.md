@@ -31,3 +31,7 @@
 
 + [官网买的 AirPods Pro3 降噪还不如 Pro2](https://www.v2ex.com/t/1160668)
 
++ [感觉简历已经完全毁了](https://www.v2ex.com/t/1160712)
+
++ [各位，你们升级 26 的原因是啥？](https://www.v2ex.com/t/1160746)
+
