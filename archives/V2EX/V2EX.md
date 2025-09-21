@@ -39,3 +39,5 @@
 
 + [你们去游泳馆游泳都穿泳衣吗](https://www.v2ex.com/t/1160796)
 
++ [从 Android 换 iPhone , 没有边缘左右滑动返回上一面功能, 太难受了](https://www.v2ex.com/t/1160803)
+

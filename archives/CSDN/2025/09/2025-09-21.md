@@ -171,3 +171,9 @@
 
 + [深入解析TCP/IP协议分层与通信原理](https://blog.csdn.net/2302_77889990/article/details/151863974)
 
++ [2025年华为杯中国研究生数学建模竞赛A题 通用神经网络处理器下的核内调度问题 思路+代码](https://blog.csdn.net/m0_52343631/article/details/151920393)
+
++ [【C++】类和对象—(下) 收官之战](https://blog.csdn.net/2403_86779341/article/details/151872479)
+
++ [OpenAPI 规范：构建高效 RESTful API 指南](https://blog.csdn.net/qq_21418361/article/details/151839382)
+
