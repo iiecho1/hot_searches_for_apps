@@ -27,3 +27,7 @@
 
 + [为啥我听不出来无损音乐和普通的区别？](https://www.v2ex.com/t/1160737)
 
++ [拿到雅思 8，接下来一步怎么走？](https://www.v2ex.com/t/1160762)
+
++ [官网买的 AirPods Pro3 降噪还不如 Pro2](https://www.v2ex.com/t/1160668)
+

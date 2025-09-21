@@ -153,3 +153,5 @@
 
 + [AIGC发展：从GPT-1到GPT-4的技术演进与行业革新](https://blog.csdn.net/m290345792/article/details/151904250)
 
++ [ip地址在哪里查看？怎样查询自己电脑ip？如何找到使用内网ip，判断看本地有无公网ip？内网ip怎么给外网访问？](https://blog.csdn.net/csghdn/article/details/151835626)
+

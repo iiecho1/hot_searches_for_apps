@@ -179,3 +179,15 @@
 
 + [全美首例 加州禁止大部分执法人员行动中佩戴面罩](https://news.cctv.com/2025/09/21/ARTIBvVwedtQ70nVkw0qAsK3250921.shtml)
 
++ [专访｜“全球治理倡议秉持多边主义原则，符合联合国宪章宗旨”——访联合国副秘书长李军华](https://news.cctv.com/2025/09/21/ARTImlfnmNlNaD6cZz3LWZVg250921.shtml)
+
++ [“为世界多极化发展提供了新思路”——访埃及贝尼苏韦夫大学政治学教授纳迪娅](https://news.cctv.com/2025/09/21/ARTI2J2umrZiCdsmYioVMz9c250921.shtml)
+
++ [专访｜“近处经商远胜远处”——柬埔寨官员看好柬中合作前景](https://news.cctv.com/2025/09/21/ARTICdP2gmfE6z09BhdKYroj250921.shtml)
+
++ [因欧洲国家“不当行动” 伊朗将暂停这一合作](https://news.cctv.com/2025/09/21/ARTIJe1MCqIaWkEf3ivjGVIP250921.shtml)
+
++ [美国一俱乐部发生枪击事件 多人中枪 一枪手仍在逃](https://news.cctv.com/2025/09/21/ARTI4tIy240KHtW4Jp3tfILW250921.shtml)
+
++ [又有多国将承认巴勒斯坦国 美以国际孤立加剧](https://news.cctv.com/2025/09/21/ARTIH7rOkf3UQUvhYIbCgJTg250921.shtml)
+
