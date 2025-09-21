@@ -55,3 +55,5 @@
 
 + [充电器还是老老实实选传统功能单一的](https://www.v2ex.com/t/1160835)
 
++ [ohmyzsh 和 nvm 仍然是必选项吗？](https://www.v2ex.com/t/1160755)
+

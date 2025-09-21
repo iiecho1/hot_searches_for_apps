@@ -195,3 +195,5 @@
 
 + [机器学习-深度学习-NLP/DL-B-专题-CNN.md](https://blog.csdn.net/xiaoshun007/article/details/135263581)
 
++ [2025年目标检测还有什么方向好发论文？](https://blog.csdn.net/weixin_42645636/article/details/151870587)
+
