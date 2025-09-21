@@ -101,3 +101,9 @@
 
 + [AR技术赋能高风险作业：重塑安全与效率](https://blog.csdn.net/Teamhelper_AR/article/details/151856574)
 
++ [【2025华为杯C题】全国研究生数学建模竞赛C题围岩裂隙精准识别与三维模型重构思路+代码+论文](https://blog.csdn.net/TIQCmatlab/article/details/151924380)
+
++ [Lingma IDE（通义灵码IDE）实现连接wsl的2个方法，Trae、Cursor、CodeBuddy、Baidu Comate、Qoder等其它基于vscode的AI IDE都可以参考使用](https://blog.csdn.net/g310773517/article/details/151894990)
+
++ [数据隐私保护双引擎：同态加密&可搜索加密技术解析及落地应用](https://blog.csdn.net/openHiTLS/article/details/151869983)
+
