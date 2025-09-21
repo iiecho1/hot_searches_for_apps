@@ -211,3 +211,31 @@
 
 + [用html5写一个时区时间查询器](https://blog.csdn.net/2501_91812691/article/details/151874844)
 
++ [动手学深度学习（pytorch版）：第八章节—循环神经网络（4）循环神经网络](https://blog.csdn.net/weixin_70217160/article/details/151903256)
+
++ [【2025年华为杯A题】通用神经网络处理器下的核内调度问题 思路、Matlab代码、论文](https://blog.csdn.net/m0_60703264/article/details/151922413)
+
++ [Redis三种服务架构详解：主从复制、哨兵模式与Cluster集群](https://blog.csdn.net/m0_48123357/article/details/151868241)
+
++ [2025华为杯E题数学建模研赛E题研究生数学建模思路代码文章成品:高速列车轴承智能故障诊断问题](https://blog.csdn.net/xb459149247/article/details/151923711)
+
++ [Trillium Engineering-无人机万向节有效负载 - 用于战术 UAS 的 EO 和 EO/IR 无人机相机万向节](https://blog.csdn.net/moonsims/article/details/151866612)
+
++ [论文阅读——智能轨道交通中的毫米波和太赫兹移动无线信道研究](https://blog.csdn.net/qq_44648285/article/details/151876755)
+
++ [矩阵、线性代数](https://blog.csdn.net/Daisy_0818/article/details/151904949)
+
++ [Linux网络：应用层http](https://blog.csdn.net/2402_86037826/article/details/151801304)
+
++ [2 IP地址规划与设计案例分析](https://blog.csdn.net/njxiejing/article/details/151905851)
+
++ [工业现场实战：如何利用智能网关实现西门子PLC与库卡机器人的无缝连接](https://blog.csdn.net/2501_90840544/article/details/151900730)
+
++ [Web3艺术品交易应用方案](https://blog.csdn.net/suny8/article/details/151906113)
+
++ [ARM不同层次开发](https://blog.csdn.net/weixin_55949063/article/details/151871379)
+
++ [AR技术赋能高风险作业：重塑安全与效率](https://blog.csdn.net/Teamhelper_AR/article/details/151856574)
+
++ [车联网网络安全：技术演进与守护智能出行](https://blog.csdn.net/IOT5570/article/details/151898135)
+
