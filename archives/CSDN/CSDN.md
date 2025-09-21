@@ -135,3 +135,7 @@
 
 + [ARM不同层次开发](https://blog.csdn.net/weixin_55949063/article/details/151871379)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融衍生品复杂风险建模与评估中的应用](https://blog.csdn.net/atgfg/article/details/151906393)
+
++ [深度学习在计算机视觉中的最新进展：范式转变与前沿探索](https://blog.csdn.net/2301_80863610/article/details/151920363)
+
