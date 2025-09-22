@@ -39,3 +39,29 @@
 
 + [9001/copyparty](https://github.com/9001/copyparty)
 
++ [bevyengine/bevy](https://github.com/bevyengine/bevy)
+
++ [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+
++ [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+
++ [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft)
+
++ [eslint/eslint](https://github.com/eslint/eslint)
+
++ [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
++ [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
++ [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [ziglang/zig](https://github.com/ziglang/zig)
+
++ [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+
++ [winfunc/opcode](https://github.com/winfunc/opcode)
+

@@ -211,3 +211,7 @@
 
 + [一个vlan一个物理连接，单臂路由，三层交换](https://blog.csdn.net/2301_80889827/article/details/151958210)
 
++ [FunASR开源项目实战：解锁语音识别新姿势](https://blog.csdn.net/beautifulmemory/article/details/151905262)
+
++ [七、Scala 包、样例类与样例对象](https://blog.csdn.net/2401_83830408/article/details/151922445)
+
