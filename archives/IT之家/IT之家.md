@@ -47,3 +47,7 @@
 
 + [卸载了也能玩：腾讯《王者荣耀》小游戏上线，3V3、5V5 部分玩法保留，数据与正式版不通用](https://m.ithome.com/html/884587.htm)
 
++ [53.8 万元起，2026 款莲花 EMEYA 上市](https://m.ithome.com/html/884643.htm)
+
++ [一加 15 真机曝光，设计风格延续一加 13T](https://m.ithome.com/html/884658.htm)
+

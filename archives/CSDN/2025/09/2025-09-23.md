@@ -131,3 +131,9 @@
 
 + [RabbitMQ Java 解决消息丢失、重复和积压问题](https://blog.csdn.net/weixin_44512485/article/details/151925917)
 
++ [从零到一：Vue3 + Spring Boot + MySQL 全栈项目部署到阿里云服务器完整教程](https://blog.csdn.net/2401_83708850/article/details/151935143)
+
++ [【Unity笔记】Unity 模型渲染优化：从 Batching 到 GI 设置的完整指南](https://blog.csdn.net/qq_41140324/article/details/151973269)
+
++ [亲历 2025 机器人大赛：科技碰撞的震撼与启迪](https://blog.csdn.net/weixin_73527660/article/details/151934409)
+

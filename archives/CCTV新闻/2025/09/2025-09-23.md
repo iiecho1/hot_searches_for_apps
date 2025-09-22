@@ -161,3 +161,5 @@
 
 + [俄代表：俄外长与美国务卿计划在联合国大会期间举行会晤](https://news.cctv.com/2025/09/19/ARTINlOuRXYioTHK1q6HBheR250919.shtml)
 
++ [中东战地手记丨检查站、“绿线”和“两国方案”——为了不被忘却的巴勒斯坦](https://news.cctv.com/2025/09/23/ARTIoReYP2vIvpTD0G39DuHe250923.shtml)
+
