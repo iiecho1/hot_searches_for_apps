@@ -183,3 +183,7 @@
 
 + [菲律宾解除对以色列和美国南达科他州禽类进口禁令](https://news.cctv.com/2025/09/22/ARTIvmclsErskwS8iI0v6pcR250922.shtml)
 
++ [俄今年春季征兵共16万人入伍 秋季征兵定于10月启动](https://news.cctv.com/2025/09/22/ARTISPB0uKIO9xlTJnyyDltO250922.shtml)
+
++ [旅法大熊猫“欢欢”“圆仔”将于11月回国](https://news.cctv.com/2025/09/22/ARTIOSlAf6xxPXjmnh3ak1VF250922.shtml)
+

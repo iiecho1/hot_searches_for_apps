@@ -223,3 +223,9 @@
 
 + [【完整源码+数据集+部署教程】水母图像分割系统： yolov8-seg-rtdetr](https://blog.csdn.net/weixin_43860634/article/details/151962552)
 
++ [时序数据库选型深度解析：Apache IoTDB凭什么成工业物联网首选？](https://blog.csdn.net/g310773517/article/details/151969428)
+
++ [【2025年华为杯C题】围岩裂隙精准识别与三维模型重构 思路、Matlab代码、论文](https://blog.csdn.net/m0_60703264/article/details/151921821)
+
++ [uniapp：解决APP手机开启定位权限后仍然无法定位问题，明明已取得定位权限但手机依然定位失败的原因，uni-app手机端定位问题获取不到用户位置信息（或打包发布上线后定位失败，支持各种第三方地图）](https://blog.csdn.net/weixin_50545213/article/details/151964600)
+
