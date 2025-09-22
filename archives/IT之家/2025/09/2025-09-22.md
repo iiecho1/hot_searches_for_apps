@@ -53,3 +53,15 @@
 
 + [BE10000 Pro？神秘路由器现身小米之家：4 个 2.5G 网口 + 双万兆网口](https://m.ithome.com/html/884564.htm)
 
++ [苹果折叠屏 iPhone Fold 细节曝光：超薄钛合金机身，售价超 2000 美元](https://m.ithome.com/html/884665.htm)
+
++ [巴菲特清仓比亚迪，持股 17 年期间股价涨超 38 倍](https://m.ithome.com/html/884669.htm)
+
++ [BLG 3:2 TES！《英雄联盟》2025 LPL 年度总冠军诞生](https://m.ithome.com/html/884664.htm)
+
++ [新手机导入微信聊天记录却显示空间不足？微信员工称代码存在 Bug，将很快修复](https://m.ithome.com/html/884662.htm)
+
++ [京东刘强东“年薪 1 元无奖金”，十年之约已到期](https://m.ithome.com/html/884684.htm)
+
++ [卸载了也能玩：腾讯《王者荣耀》小游戏上线，3V3、5V5 部分玩法保留，数据与正式版不通用](https://m.ithome.com/html/884587.htm)
+

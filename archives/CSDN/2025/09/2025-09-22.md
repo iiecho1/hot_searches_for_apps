@@ -153,3 +153,19 @@
 
 + [AAC 详解](https://blog.csdn.net/lianghudream/article/details/151906468)
 
++ [RTX 4090重塑数字内容创作：4K视频剪辑与3D渲染的效率革命](https://blog.csdn.net/IRpickstars/article/details/151894502)
+
++ [使用jina embedding API时出现RuntimeError: Failed to encode some text inputs.解决方案](https://blog.csdn.net/weixin_43178406/article/details/151859583)
+
++ [Android13 命令启用WLAN详细日志分析](https://blog.csdn.net/wenzhi20102321/article/details/151860143)
+
++ [无界智能客服：一个主动问候的智能体正重塑客服体验](https://blog.csdn.net/lilinhai548/article/details/151896578)
+
++ [【序列晋升】38 Spring Data MongoDB 的统一数据访问范式与实践](https://blog.csdn.net/weixin_39671271/article/details/151900653)
+
++ [K8s LoadBalancer服务深度解析](https://blog.csdn.net/m0_75050314/article/details/151865807)
+
++ [大话计算机网络（上）](https://blog.csdn.net/2302_80314137/article/details/151902714)
+
++ [Windows 系统开发 iOS 与安卓应用全流程指南，附 PC 前端工具链](https://blog.csdn.net/weixin_65025412/article/details/151828236)
+

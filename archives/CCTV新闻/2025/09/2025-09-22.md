@@ -171,3 +171,5 @@
 
 + [他们，正式承认巴勒斯坦国](https://news.cctv.com/2025/09/22/ARTIC8LDj8iWJYPvi0YZHHbf250922.shtml)
 
++ [“只会制造恐惧” 特朗普政府停止美国年度饥饿调查](https://news.cctv.com/2025/09/22/ARTIm8Iic4LuWUIp29wEqa7f250922.shtml)
+
