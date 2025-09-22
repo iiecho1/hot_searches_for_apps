@@ -175,3 +175,5 @@
 
 + [已有8国遭以色列袭击 俄媒：美式保护给中东上了一课](https://news.cctv.com/2025/09/22/ARTIfCJN5Q8iXFUg2y8Jq3RS250922.shtml)
 
++ [视频丨从白宫到联合国总部 美官员泄密代价只是改换门庭](https://news.cctv.com/2025/09/22/ARTIp6QeMmI8kLMyr4fJIdXI250922.shtml)
+
