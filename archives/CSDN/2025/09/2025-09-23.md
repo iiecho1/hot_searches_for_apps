@@ -101,3 +101,11 @@
 
 + [AAC 详解](https://blog.csdn.net/lianghudream/article/details/151906468)
 
++ [【深度学习计算机视觉】06：目标检测数据集](https://blog.csdn.net/Morse_Chen/article/details/151956722)
+
++ [SpringCloudOAuth2+JWT：微服务统⼀认证方案](https://blog.csdn.net/xike1024/article/details/151932081)
+
++ [【Chrome谷歌浏览器】官方下载方式？【图文详解】电脑版下载？正版安全下载？最新版下载？](https://blog.csdn.net/Chen_Tongsheng/article/details/151935431)
+
++ [六边形箱图 (Hexbin Plot)：使用 Matplotlib 处理大规模散点数据](https://blog.csdn.net/qq_37956697/article/details/151933598)
+
