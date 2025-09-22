@@ -107,3 +107,9 @@
 
 + [你让我去打泰森？这可能是任天堂史上最难的游戏【受难日26】](https://m.acfun.cn/v/?ac=47846175)
 
++ [【冠歌】《深蓝》靠近我 温暖我 完整我。噔噔冠](https://m.acfun.cn/v/?ac=47834277)
+
++ [AOA Excuse Me 路演](https://m.acfun.cn/v/?ac=47845160)
+
++ [Aye Captain！【今天有什么好笑的 #2156】](https://m.acfun.cn/v/?ac=47846461)
+
