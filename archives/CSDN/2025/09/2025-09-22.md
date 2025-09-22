@@ -181,3 +181,17 @@
 
 + [黑盒测试：测试用例设计之场景法（流程图法）（模拟用户实际使用软件的场景来设计测试用例，适用于业务流程复杂的系统测试）基本流、备选流](https://blog.csdn.net/Dontla/article/details/151873690)
 
++ [IPoIB驱动深度解析：在InfiniBand上实现IP网络的高性能桥梁](https://blog.csdn.net/eidolon_foot/article/details/151293148)
+
++ [JavaScript 闭包(Closure)深度讲解](https://blog.csdn.net/2301_81253185/article/details/151932979)
+
++ [2025华为杯C题数学建模研赛C题研究生数学建模思路代码文章成品:围岩裂隙精准识别与三维模型重构](https://blog.csdn.net/xb459149247/article/details/151923750)
+
++ [【MySQL】约束类型](https://blog.csdn.net/2401_87022967/article/details/151827473)
+
++ [【Hadoop】HBase：构建于HDFS之上的分布式列式NoSQL数据库](https://blog.csdn.net/D2005_10_25/article/details/151839062)
+
++ [当4090成为标配：算力平权如何重塑下一个数字文明](https://blog.csdn.net/qq_41187124/article/details/151932728)
+
++ [GitHub 热榜项目 - 日榜(2025-09-22)](https://blog.csdn.net/u014390502/article/details/151954136)
+

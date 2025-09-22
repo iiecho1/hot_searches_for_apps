@@ -69,3 +69,7 @@
 
 + [小米 17 系列手机官宣 9 月 25 日发布：全球首发第五代骁龙 8 至尊版，搭载澎湃 OS3](https://m.ithome.com/html/884720.htm)
 
++ [53.8 万元起，2026 款莲花 EMEYA 上市](https://m.ithome.com/html/884643.htm)
+
++ [一加 15 真机曝光，设计风格延续一加 13T](https://m.ithome.com/html/884658.htm)
+
