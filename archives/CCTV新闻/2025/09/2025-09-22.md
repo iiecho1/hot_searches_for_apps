@@ -167,3 +167,7 @@
 
 + [中国赴黎维和部队圆满完成“天使救援-2025”联合演习](https://news.cctv.com/2025/09/22/ARTIhqX54GAuhHvE2CzODc9g250922.shtml)
 
++ [5人竞选格局已定 日本自民党10月4日将选举党总裁](https://news.cctv.com/2025/09/22/ARTI2Wd4u8gbg4KiSlQwFbo4250922.shtml)
+
++ [他们，正式承认巴勒斯坦国](https://news.cctv.com/2025/09/22/ARTIC8LDj8iWJYPvi0YZHHbf250922.shtml)
+

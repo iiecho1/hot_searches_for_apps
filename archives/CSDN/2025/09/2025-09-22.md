@@ -147,3 +147,9 @@
 
 + [Nature封面+中国团队+29万美元：DeepSeek-R1如何改写AI推理规则？](https://blog.csdn.net/superdangbo/article/details/151868431)
 
++ [论文阅读——隧道中毫米波MIMO信道特性的实验研究](https://blog.csdn.net/qq_44648285/article/details/151936644)
+
++ [GO实战项目:基于 `HTML/CSS/JS + Gin + Gorm + 文心一言API`AI 备忘录应用](https://blog.csdn.net/King_model/article/details/151890194)
+
++ [AAC 详解](https://blog.csdn.net/lianghudream/article/details/151906468)
+
