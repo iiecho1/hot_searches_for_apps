@@ -169,3 +169,9 @@
 
 + [Windows 系统开发 iOS 与安卓应用全流程指南，附 PC 前端工具链](https://blog.csdn.net/weixin_65025412/article/details/151828236)
 
++ [从 0 到 1 精通 Spring Boot 3.x：自定义 Starter 开发与企业级实践（附完整源码）](https://blog.csdn.net/2503_91057718/article/details/151934847)
+
++ [通过提示词工程(Prompt Engineering)方法重新生成从Ollama下载的模型](https://blog.csdn.net/fengbingchun/article/details/151902070)
+
++ [微服务-sentinel的理论与集成springcloud](https://blog.csdn.net/2301_79808660/article/details/151867090)
+

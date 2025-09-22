@@ -173,3 +173,5 @@
 
 + [“只会制造恐惧” 特朗普政府停止美国年度饥饿调查](https://news.cctv.com/2025/09/22/ARTIm8Iic4LuWUIp29wEqa7f250922.shtml)
 
++ [已有8国遭以色列袭击 俄媒：美式保护给中东上了一课](https://news.cctv.com/2025/09/22/ARTIfCJN5Q8iXFUg2y8Jq3RS250922.shtml)
+

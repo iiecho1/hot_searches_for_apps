@@ -37,3 +37,9 @@
 
 + [这次桦加沙台风会停工吗](https://www.v2ex.com/t/1160932)
 
++ [预算 3000 左右的 NAS 选择](https://www.v2ex.com/t/1160927)
+
++ [蟑螂药有推荐吗？](https://www.v2ex.com/t/1160923)
+
++ [对于 Apple 推出的 26 系统，涵盖 iOS， mac 等，大家体验下来如何？](https://www.v2ex.com/t/1160911)
+
