@@ -137,3 +137,5 @@
 
 + [亲历 2025 机器人大赛：科技碰撞的震撼与启迪](https://blog.csdn.net/weixin_73527660/article/details/151934409)
 
++ [通过提示词工程(Prompt Engineering)方法重新生成从Ollama下载的模型](https://blog.csdn.net/fengbingchun/article/details/151902070)
+
