@@ -239,3 +239,9 @@
 
 + [【Chrome谷歌浏览器】官方下载方式？【图文详解】电脑版下载？正版安全下载？最新版下载？](https://blog.csdn.net/Chen_Tongsheng/article/details/151935431)
 
++ [使用C++编写的一款射击五彩敌人的游戏](https://blog.csdn.net/ccf19881030/article/details/151934943)
+
++ [VSCode+WSL+cpolar：打造跨平台的随身Linux开发舱](https://blog.csdn.net/qq_73017178/article/details/151970828)
+
++ [XC7K325T-2FBG676I Xilinx AMD Kintex-7 FPGA ](https://blog.csdn.net/2403_90082736/article/details/151874535)
+
