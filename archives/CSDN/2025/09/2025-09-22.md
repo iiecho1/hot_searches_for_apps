@@ -205,3 +205,9 @@
 
 + [CI/CD到底是什么？](https://blog.csdn.net/2301_80488152/article/details/151872871)
 
++ [阿里万相2.1：蓝耘MaaS平台部署 vs 官网在线使用：万字实测对比与深度技术解析](https://blog.csdn.net/2302_78391795/article/details/151962774)
+
++ [【深度学习计算机视觉】06：目标检测数据集](https://blog.csdn.net/Morse_Chen/article/details/151956722)
+
++ [一个vlan一个物理连接，单臂路由，三层交换](https://blog.csdn.net/2301_80889827/article/details/151958210)
+

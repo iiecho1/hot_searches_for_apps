@@ -179,3 +179,7 @@
 
 + [比利时发生连续持刀袭击 已致3人死亡](https://news.cctv.com/2025/09/22/ARTI1u9IHksZxVNG5blP2VXS250922.shtml)
 
++ [李在明赴美出席联大会议前评美韩贸易协议：有争议 没实施](https://news.cctv.com/2025/09/22/ARTInwxXCdJXbs9d26bpSQvm250922.shtml)
+
++ [菲律宾解除对以色列和美国南达科他州禽类进口禁令](https://news.cctv.com/2025/09/22/ARTIvmclsErskwS8iI0v6pcR250922.shtml)
+
