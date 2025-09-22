@@ -143,3 +143,7 @@
 
 + [Java 大视界 -- Java 大数据在智能教育学习效果评估与教学质量改进中的深度应用（414）](https://blog.csdn.net/atgfg/article/details/151927265)
 
++ [华为 ai 机考 编程题解答](https://blog.csdn.net/weixin_73557167/article/details/151754473)
+
++ [Nature封面+中国团队+29万美元：DeepSeek-R1如何改写AI推理规则？](https://blog.csdn.net/superdangbo/article/details/151868431)
+

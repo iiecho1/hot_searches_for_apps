@@ -161,3 +161,9 @@
 
 + [以军称对黎巴嫩真主党目标发动新一轮空袭](https://news.cctv.com/2025/09/19/ARTIWE1akQq5pE554yt3RNbY250919.shtml)
 
++ [查理·柯克追悼会举行 特朗普暗示“激进左翼”应对刺杀负责](https://news.cctv.com/2025/09/22/ARTIe7yPOg6mqBQnapy4Ul2I250922.shtml)
+
++ [委内瑞拉公布致美总统信函内容：澄清该国不存在非法毒品活动](https://news.cctv.com/2025/09/22/ARTIV577wnEmBnFER6k1Vx0Z250922.shtml)
+
++ [中国赴黎维和部队圆满完成“天使救援-2025”联合演习](https://news.cctv.com/2025/09/22/ARTIhqX54GAuhHvE2CzODc9g250922.shtml)
+
