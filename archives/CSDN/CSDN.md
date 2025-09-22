@@ -215,3 +215,11 @@
 
 + [七、Scala 包、样例类与样例对象](https://blog.csdn.net/2401_83830408/article/details/151922445)
 
++ [Nature论文解读DeepSeek R1：重新定义高效推理的革命性MoE架构](https://blog.csdn.net/Liudef06/article/details/151865987)
+
++ [从零到一：Vue3 + Spring Boot + MySQL 全栈项目部署到阿里云服务器完整教程](https://blog.csdn.net/2401_83708850/article/details/151935143)
+
++ [Doubao Seedream4.0：助力打造你的个人社交账号IP](https://blog.csdn.net/qq_61024956/article/details/151801155)
+
++ [【完整源码+数据集+部署教程】水母图像分割系统： yolov8-seg-rtdetr](https://blog.csdn.net/weixin_43860634/article/details/151962552)
+
