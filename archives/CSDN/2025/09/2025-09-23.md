@@ -109,3 +109,25 @@
 
 + [六边形箱图 (Hexbin Plot)：使用 Matplotlib 处理大规模散点数据](https://blog.csdn.net/qq_37956697/article/details/151933598)
 
++ [Java 大视界 —— Java 大数据在智能农业病虫害精准识别与绿色防控中的创新应用](https://blog.csdn.net/atgfg/article/details/151901589)
+
++ [C++八股 —— 编译过程](https://blog.csdn.net/m0_46329175/article/details/151906009)
+
++ [人人都是Prompt工程师”的时代已来？我在火山引擎PromptPilot的实操中找到了答案](https://blog.csdn.net/2301_80863610/article/details/151962854)
+
++ [【愚公系列】《人工智能70年》036-计算机视觉大放异彩（走上快车道）](https://blog.csdn.net/aa2528877987/article/details/151876959)
+
++ [【序列晋升】39 Spring Data REST 的优雅实践，让数据交互更符合 REST 规范](https://blog.csdn.net/weixin_39671271/article/details/151901383)
+
++ [【Linux】Linux文件系统详解：从磁盘到文件的奥秘](https://blog.csdn.net/wheeldown/article/details/151972370)
+
++ [Cpolar内网穿透实战：从零搭建远程访问服务](https://blog.csdn.net/Dreamy_zsy/article/details/151900538)
+
++ [HarmonyOS动画：属性动画、显示动画、转场动画](https://blog.csdn.net/2401_88174794/article/details/151932071)
+
++ [UniScene 统一驾驶场景 | 生成语义占据 | 生成多视角视频 | 生成激光点云 CVPR2025](https://blog.csdn.net/qq_41204464/article/details/151931806)
+
++ [使用Python一站式提取Word、Excel、PDF 和PPT文档内容v1.0](https://blog.csdn.net/qq_57187936/article/details/151933683)
+
++ [RabbitMQ Java 解决消息丢失、重复和积压问题](https://blog.csdn.net/weixin_44512485/article/details/151925917)
+
