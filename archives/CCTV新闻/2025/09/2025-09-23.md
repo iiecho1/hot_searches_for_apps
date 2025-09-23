@@ -197,3 +197,9 @@
 
 + [阿根廷宣布暂时取消农产品出口预扣税](https://news.cctv.com/2025/09/23/ARTIOZouBsdR2JvE0Fx0vWsL250923.shtml)
 
++ [伊朗外长将会晤英法德外长 就伊核问题展开“最后关头”磋商](https://news.cctv.com/2025/09/23/ARTIDT8wSKPvDgLOHHUPsn8L250923.shtml)
+
++ [刚果（金）总统称不会向美国“拍卖矿产资源”](https://news.cctv.com/2025/09/23/ARTIsyuCb5ht9PT3Wo52lE9D250923.shtml)
+
++ [能源价格上涨 德国居民今年取暖费用大幅增加](https://news.cctv.com/2025/09/23/ARTIZGXJvgAzf8zgRxpyaeFr250923.shtml)
+
