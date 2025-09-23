@@ -133,3 +133,5 @@
 
 + [【Axios 】web异步请求](https://blog.csdn.net/2301_78540522/article/details/151935091)
 
++ [python+django/flask的吉安红色旅游平台 红色教育景区展示+图文资讯发布+评论互动功能系统java+nodejs](https://blog.csdn.net/Q_Q1963288475/article/details/151963871)
+

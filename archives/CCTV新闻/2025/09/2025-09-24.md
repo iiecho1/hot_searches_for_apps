@@ -165,3 +165,5 @@
 
 + [中东战地手记丨和平才是真正的“救命药”](https://news.cctv.com/2025/09/24/ARTI4qOckvwAuifA8oUAnkry250923.shtml)
 
++ [热点问答丨“承认潮”对巴以“两国方案”意味着什么](https://news.cctv.com/2025/09/24/ARTIZaqOcxtGRRvKUZddI9Br250924.shtml)
+
