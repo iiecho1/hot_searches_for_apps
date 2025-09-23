@@ -43,3 +43,7 @@
 
 + [苹果 iPhone 17 Pro 系列手机划痕问题被夸大？华尔街分析师称不影响销量](https://m.ithome.com/html/884840.htm)
 
++ [安卓首个无缝架构：OPPO ColorOS 16 全新极光引擎亮相，应用点击响应流畅度提升 40%](https://m.ithome.com/html/884762.htm)
+
++ [OPPO 刘浩然谈不喜背屏的原因：徒增功耗、影像未来可能产生冲突](https://m.ithome.com/html/884776.htm)
+

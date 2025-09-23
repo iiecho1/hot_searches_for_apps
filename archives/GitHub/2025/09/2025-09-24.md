@@ -37,3 +37,29 @@
 
 + [winfunc/opcode](https://github.com/winfunc/opcode)
 
++ [gin-gonic/gin](https://github.com/gin-gonic/gin)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [gofiber/fiber](https://github.com/gofiber/fiber)
+
++ [fmtlib/fmt](https://github.com/fmtlib/fmt)
+
++ [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+
++ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
++ [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
++ [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)
+
++ [foundry-rs/foundry](https://github.com/foundry-rs/foundry)
+
++ [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+
++ [helm/helm](https://github.com/helm/helm)
+
++ [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink)
+
++ [Kludex/uvicorn](https://github.com/Kludex/uvicorn)
+
