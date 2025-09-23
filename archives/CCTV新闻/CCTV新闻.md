@@ -183,3 +183,7 @@
 
 + [以色列称将阻止人道援助船队抵达加沙地带](https://news.cctv.com/2025/09/23/ARTIoxDT2AzCfoANdbhUMAT2250923.shtml)
 
++ [布基纳法索、马里和尼日尔退出《国际刑事法院罗马规约》](https://news.cctv.com/2025/09/23/ARTIQsnoDFn2lvL2LbjkS3YM250923.shtml)
+
++ [视频丨以色列代表：不会再谈“两国方案”](https://news.cctv.com/2025/09/23/ARTIht9kZsdPg5Omcpyp0htB250923.shtml)
+

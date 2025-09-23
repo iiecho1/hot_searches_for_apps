@@ -155,3 +155,7 @@
 
 + [云计算与虚拟化技术详解](https://blog.csdn.net/m0_58259081/article/details/151836585)
 
++ [自动语音识别--Zipformer ASR模型](https://blog.csdn.net/ikkkkkkkl/article/details/151902150)
+
++ [分布式锁-Redis实现](https://blog.csdn.net/qq_59093178/article/details/151902269)
+
