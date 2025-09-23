@@ -25,3 +25,7 @@
 
 + [CounterPoint 报告中国手机系统份额：华为鸿蒙连续 6 个季度超苹果 iOS 稳居第二](https://m.ithome.com/html/884956.htm)
 
++ [理想汽车 CEO 李想谈苹果 iPhone 17 系列手机：今年不会再买 Pro Max 了，实在太丑了](https://m.ithome.com/html/885169.htm)
+
++ [卢伟冰公布小米 17 Pro Max 全新显示技术「超级像素」实际效果](https://m.ithome.com/html/885077.htm)
+

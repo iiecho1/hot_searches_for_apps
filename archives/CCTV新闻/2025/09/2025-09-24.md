@@ -161,3 +161,5 @@
 
 + [智利举行国庆庆祝活动和阅兵仪式](https://news.cctv.com/2025/09/20/ARTI0zKCufznEdXnDPxs45ZJ250920.shtml)
 
++ [落实“两国方案”高级别国际会议举行](https://news.cctv.com/2025/09/24/ARTIPoz8tBvPnZvzBHDgO6AJ250924.shtml)
+

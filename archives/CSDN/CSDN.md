@@ -101,3 +101,9 @@
 
 + [【完整源码+数据集+部署教程】指纹图像分割系统： yolov8-seg](https://blog.csdn.net/weixin_43860634/article/details/151992427)
 
++ [七、Scala 包、样例类与样例对象](https://blog.csdn.net/2401_83830408/article/details/151922445)
+
++ [Zotero中进行文献翻译【Windows11】【新版，目前没发现bug】](https://blog.csdn.net/qq_42294351/article/details/151964938)
+
++ [目标检测数据集 第031期-基于yolo标注格式的恶劣天气车辆检测数据集(含免费分享)](https://blog.csdn.net/weixin_39588099/article/details/151819110)
+
