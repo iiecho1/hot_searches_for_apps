@@ -147,3 +147,11 @@
 
 + [Python10-逻辑回归-决策树](https://blog.csdn.net/2302_79981885/article/details/151900937)
 
++ [RTX 4090 vs RTX 3090Ti：新一代Ada Lovelace架构的性能飞跃](https://blog.csdn.net/Rqaqedamancy/article/details/151978597)
+
++ [《 Linux 点滴漫谈： 一 》开源之路：Linux 的历史、演进与未来趋势](https://blog.csdn.net/mmlhbjk/article/details/151954290)
+
++ [[已更新]2025华为杯B题数学建模研赛B题研究生数学建模思路代码文章成品:无线通信系统链路速率建模](https://blog.csdn.net/xb459149247/article/details/151936137)
+
++ [云计算与虚拟化技术详解](https://blog.csdn.net/m0_58259081/article/details/151836585)
+
