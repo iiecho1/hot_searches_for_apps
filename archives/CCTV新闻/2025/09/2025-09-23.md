@@ -189,3 +189,5 @@
 
 + [记者手记丨面对美国兵锋，委内瑞拉现在什么样](https://news.cctv.com/2025/09/23/ARTIxljyI3VQhSqyWDJ3bTYk250923.shtml)
 
++ [8000多人中选出10人 美国新一批宇航员亮相](https://news.cctv.com/2025/09/23/ARTIvd4G8TNpuYlloFfx0KUx250923.shtml)
+
