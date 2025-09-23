@@ -213,3 +213,5 @@
 
 + [致17名中国公民遇难 韩国华城电池厂火灾涉事企业代表一审获刑15年](https://news.cctv.com/2025/09/23/ARTIK2KU5OTYGmm2IUyY1y2w250923.shtml)
 
++ [特朗普下令将美国“反法西斯运动”列为恐怖组织](https://news.cctv.com/2025/09/23/ARTIbHSf7LsIEXgP8i0dCczh250923.shtml)
+

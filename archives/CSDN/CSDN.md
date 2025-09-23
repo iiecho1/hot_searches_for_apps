@@ -205,3 +205,15 @@
 
 + [捷豹路虎网络安全事件（2025.8.31）分析与建议](https://blog.csdn.net/gavinxiong/article/details/151956147)
 
++ [Java 大视界 -- Java 大数据在智能教育学习效果评估与教学质量改进中的深度应用（414）](https://blog.csdn.net/atgfg/article/details/151927265)
+
++ [【Linux系列】Linux 世界的通行证与守卫者：一文读懂权限的奥秘](https://blog.csdn.net/2302_80177460/article/details/151968962)
+
++ [计算机视觉（opencv）实战三十二——CascadeClassifier 人脸微笑检测（摄像头）](https://blog.csdn.net/2302_78022640/article/details/151971999)
+
++ [Citus 分布式 PostgreSQL 实战指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/151969662)
+
++ [Linux服务器运维必备：Netdata+cpolar 实时监控实战方案，轻量部署+实时洞察+内网穿透的运维实用组合](https://blog.csdn.net/2401_82648291/article/details/151995377)
+
++ [微信小程序：解决wx.chooseMessageFile在PC端小程序失效解决方法，微信小程序PC端选择文件无法使用wx.chooseMessageFile问题（电脑端小程序上面调用此API没有反应）](https://blog.csdn.net/weixin_50545213/article/details/151998973)
+
