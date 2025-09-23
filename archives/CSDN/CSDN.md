@@ -199,3 +199,9 @@
 
 + [【OpenGL】shader 着色器](https://blog.csdn.net/Antonio915/article/details/151905590)
 
++ [PyTorch 神经网络工具箱学习总结](https://blog.csdn.net/2201_76007872/article/details/151964789)
+
++ [大数据数据建模工具教程：用ER_Studio设计企业级数据模型（附视频）](https://blog.csdn.net/universsky2015/article/details/152001564)
+
++ [捷豹路虎网络安全事件（2025.8.31）分析与建议](https://blog.csdn.net/gavinxiong/article/details/151956147)
+

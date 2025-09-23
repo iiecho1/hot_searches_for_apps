@@ -205,3 +205,11 @@
 
 + [又有多国承认巴勒斯坦国 欧洲多地民众声援：来得太晚了](https://news.cctv.com/2025/09/23/ARTIwaUjKJiXp59j0Ajq0YAY250923.shtml)
 
++ [波兰将重新开放与白俄罗斯的边境口岸](https://news.cctv.com/2025/09/23/ARTI1mVuv5kqPF6I127V4qjW250923.shtml)
+
++ [西班牙政府批准对以色列实施“全面武器禁运”](https://news.cctv.com/2025/09/23/ARTIcdYWawjWY8DlXMC770jh250923.shtml)
+
++ [美财长：美国已准备好为阿根廷提供金融支持](https://news.cctv.com/2025/09/23/ARTI8n9g18jT1oI00oB15cue250923.shtml)
+
++ [致17名中国公民遇难 韩国华城电池厂火灾涉事企业代表一审获刑15年](https://news.cctv.com/2025/09/23/ARTIK2KU5OTYGmm2IUyY1y2w250923.shtml)
+
