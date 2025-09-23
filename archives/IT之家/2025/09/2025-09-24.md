@@ -29,3 +29,17 @@
 
 + [卢伟冰公布小米 17 Pro Max 全新显示技术「超级像素」实际效果](https://m.ithome.com/html/885077.htm)
 
++ [全新小米 17“最美标准版旗舰”质感升级：6.3″大 R 角直屏、19.6:9 屏幕比例，9 月 25 日发布](https://m.ithome.com/html/884786.htm)
+
++ [中国航母重大突破！福建舰电磁弹射现场图公布，三型舰载机成功完成起降训练](https://m.ithome.com/html/884890.htm)
+
++ [小米 17 Pro / Pro Max 手机外观公布，全新配色森野绿、冷烟紫亮相](https://m.ithome.com/html/884814.htm)
+
++ [卢伟冰上手小米 17 系列三款真机：全系直屏 + 超椭圆曲线大 R 角设计](https://m.ithome.com/html/884859.htm)
+
++ [安卓史上首次：联发科天玑 9500 旗舰芯片单核跑分超 4000，比肩苹果 A19 Pro](https://m.ithome.com/html/884799.htm)
+
++ [联发科天玑 9500 旗舰处理器发布：300 亿 + 晶体管、第三代 3nm 制程，单核性能首次比肩苹果当代旗舰](https://m.ithome.com/html/884818.htm)
+
++ [苹果 iPhone 17 Pro 系列手机划痕问题被夸大？华尔街分析师称不影响销量](https://m.ithome.com/html/884840.htm)
+
