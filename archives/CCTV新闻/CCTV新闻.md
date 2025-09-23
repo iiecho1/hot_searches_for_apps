@@ -171,3 +171,7 @@
 
 + [普京：俄将在《新削减战略武器条约》到期后一年内继续遵守条约核心限制](https://news.cctv.com/2025/09/23/ARTIrvMXQjSeF2WJAACF146F250923.shtml)
 
++ [多边主义潮流不可逆 全球南方合作正当时](https://news.cctv.com/2025/09/23/ARTIloH03z65a2GLEfoNDqia250923.shtml)
+
++ [连遭不信任动议，冯德莱恩为何左右不讨好](https://news.cctv.com/2025/09/23/ARTIsd9WBE9FotOJgSHLEGq5250923.shtml)
+

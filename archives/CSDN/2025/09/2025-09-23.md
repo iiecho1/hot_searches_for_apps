@@ -139,3 +139,7 @@
 
 + [通过提示词工程(Prompt Engineering)方法重新生成从Ollama下载的模型](https://blog.csdn.net/fengbingchun/article/details/151902070)
 
++ [【C++】类和对象—(下) 收官之战](https://blog.csdn.net/2403_86779341/article/details/151872479)
+
++ [RTX4090：AI与深度学习应用实践的革命性推动者](https://blog.csdn.net/m0_74385041/article/details/151932492)
+
