@@ -167,3 +167,5 @@
 
 + [热点问答丨“承认潮”对巴以“两国方案”意味着什么](https://news.cctv.com/2025/09/24/ARTIZaqOcxtGRRvKUZddI9Br250924.shtml)
 
++ [巴勒斯坦民众庆祝多国承认巴勒斯坦国](https://news.cctv.com/2025/09/24/ARTIbxxzbLRfIBYAiqNkEDn7250923.shtml)
+
