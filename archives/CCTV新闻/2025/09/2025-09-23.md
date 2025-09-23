@@ -187,3 +187,5 @@
 
 + [视频丨以色列代表：不会再谈“两国方案”](https://news.cctv.com/2025/09/23/ARTIht9kZsdPg5Omcpyp0htB250923.shtml)
 
++ [记者手记丨面对美国兵锋，委内瑞拉现在什么样](https://news.cctv.com/2025/09/23/ARTIxljyI3VQhSqyWDJ3bTYk250923.shtml)
+

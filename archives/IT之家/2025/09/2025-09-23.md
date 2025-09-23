@@ -51,3 +51,15 @@
 
 + [一加 15 真机曝光，设计风格延续一加 13T](https://m.ithome.com/html/884658.htm)
 
++ [OPPO 刘浩然谈苹果“玻璃视觉”：技术难度＞设计美感，背后是极大的算力才能搞定](https://m.ithome.com/html/884970.htm)
+
++ [联发科天玑 9500 旗舰处理器发布：300 亿 + 晶体管、第三代 3nm 制程，单核性能首次比肩苹果当代旗舰](https://m.ithome.com/html/884818.htm)
+
++ [苹果 iPhone 17 Pro 系列手机划痕问题被夸大？华尔街分析师称不影响销量](https://m.ithome.com/html/884840.htm)
+
++ [iPhone 17 系列 / Air 搭载自研 N1 无线联网芯片，苹果高管详解其独特优势](https://m.ithome.com/html/884944.htm)
+
++ [OPPO 刘浩然谈不喜背屏的原因：徒增功耗、影像未来可能产生冲突](https://m.ithome.com/html/884776.htm)
+
++ [系统比人还老几十岁：英国数十家银行仍在运行上世纪 60 年代的代码](https://m.ithome.com/html/884926.htm)
+
