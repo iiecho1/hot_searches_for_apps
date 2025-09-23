@@ -191,3 +191,9 @@
 
 + [8000多人中选出10人 美国新一批宇航员亮相](https://news.cctv.com/2025/09/23/ARTIvd4G8TNpuYlloFfx0KUx250923.shtml)
 
++ [中国驻伊尔库茨克总领馆提醒中国公民切勿违规携带和使用无人机](https://news.cctv.com/2025/09/23/ARTIZK5eDATTcaxIXQm8kTTU250923.shtml)
+
++ [菲律宾北部一渔船倾覆 已致1人死亡](https://news.cctv.com/2025/09/23/ARTI0nOoD3NAUC2xxedFT6nX250923.shtml)
+
++ [阿根廷宣布暂时取消农产品出口预扣税](https://news.cctv.com/2025/09/23/ARTIOZouBsdR2JvE0Fx0vWsL250923.shtml)
+
