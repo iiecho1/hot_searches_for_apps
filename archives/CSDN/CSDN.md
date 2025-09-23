@@ -143,3 +143,7 @@
 
 + [RTX4090：AI与深度学习应用实践的革命性推动者](https://blog.csdn.net/m0_74385041/article/details/151932492)
 
++ [火山PromptPilot ，支持api sdk构建AI应用开发](https://blog.csdn.net/m0_57874805/article/details/151964172)
+
++ [Python10-逻辑回归-决策树](https://blog.csdn.net/2302_79981885/article/details/151900937)
+

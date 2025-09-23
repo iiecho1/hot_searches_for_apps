@@ -179,3 +179,5 @@
 
 + [2天10国承认巴勒斯坦国 美以未出席会议凸显孤立窘境](https://news.cctv.com/2025/09/23/ARTIucxzTOfljQ8PhI1JmlnO250923.shtml)
 
++ [古特雷斯呼吁加大努力实现可持续发展目标](https://news.cctv.com/2025/09/23/ARTIpzecWIixMtLTPPQjAptf250923.shtml)
+
