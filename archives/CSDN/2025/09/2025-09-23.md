@@ -187,3 +187,15 @@
 
 + [时序数据库选型指南：Apache IoTDB引领数字化转型新时代](https://blog.csdn.net/m0_55394328/article/details/151993868)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融衍生品定价与风险管理中的应用（415）](https://blog.csdn.net/atgfg/article/details/151970571)
+
++ [为什么人工智能用Python？](https://blog.csdn.net/2404_82622750/article/details/151975066)
+
++ [MySQL 数据库核心知识点详解](https://blog.csdn.net/2202_75407589/article/details/151974408)
+
++ [Ubuntu上Hadoop从单namenode改进为HadoopHA搭建过程](https://blog.csdn.net/z253255/article/details/151902101)
+
++ [Python10-决策树](https://blog.csdn.net/2302_79981885/article/details/151900937)
+
++ [【OpenGL】shader 着色器](https://blog.csdn.net/Antonio915/article/details/151905590)
+
