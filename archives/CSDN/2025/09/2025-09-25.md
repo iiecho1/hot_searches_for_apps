@@ -147,3 +147,5 @@
 
 + [【机器人】CogNav 目标导航 | 认知过程建模 | LLM大模型 ](https://blog.csdn.net/qq_41204464/article/details/152052798)
 
++ [MySQL 数据库核心知识点详解](https://blog.csdn.net/2202_75407589/article/details/151974408)
+
