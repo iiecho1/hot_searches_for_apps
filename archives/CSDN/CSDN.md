@@ -155,3 +155,5 @@
 
 + [支持向量机深度解析：从数学原理到工程实践的完整指南](https://blog.csdn.net/2301_79139273/article/details/151936163)
 
++ [构建硅基流动embedding模型API兼容langchain接口的实战代码](https://blog.csdn.net/herosunly/article/details/152030029)
+
