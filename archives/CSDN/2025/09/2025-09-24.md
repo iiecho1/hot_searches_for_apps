@@ -175,3 +175,7 @@
 
 + [GitHub 热榜项目 - 日榜(2025-09-24)](https://blog.csdn.net/u014390502/article/details/152026266)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融衍生品定价与风险管理中的应用（415）](https://blog.csdn.net/atgfg/article/details/151970571)
+
++ [虚拟线程的隐形陷阱：Redisson订阅锁超时异常深度剖析](https://blog.csdn.net/lilinhai548/article/details/152032518)
+

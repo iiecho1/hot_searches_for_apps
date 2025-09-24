@@ -189,3 +189,11 @@
 
 + [韩国总统：要终结朝鲜半岛敌对与对抗时代](https://news.cctv.com/2025/09/24/ARTIwZsQqkC1hNni8VON0kIX250924.shtml)
 
++ [扎波罗热核电站切断最后一条外部供电线路](https://news.cctv.com/2025/09/24/ARTIhdknDRiE3lDMoDAxsP3W250924.shtml)
+
++ [巴西财长：美国加征关税只会自食其果](https://news.cctv.com/2025/09/24/ARTIAMmFpFgXdFJmaBbdI8Rm250924.shtml)
+
++ [中国与乌干达开展农业合作——助力“高原水乡”农业提质升级（共创繁荣发展新时代）](https://news.cctv.com/2025/09/24/ARTI4sZBSext89U1giDSpk62250924.shtml)
+
++ [巴基斯坦参议院主席：全球治理倡议描绘人类实现共同进步与世界和谐的美好愿景](https://news.cctv.com/2025/09/24/ARTIpdcckouRnHy6y1YElxrt250924.shtml)
+
