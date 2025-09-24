@@ -187,3 +187,5 @@
 
 + [阿尔及利亚第一所孔子学院举行揭牌仪式](https://news.cctv.com/2025/09/24/ARTI16RPtcKkm9dH4bKL10wY250924.shtml)
 
++ [韩国总统：要终结朝鲜半岛敌对与对抗时代](https://news.cctv.com/2025/09/24/ARTIwZsQqkC1hNni8VON0kIX250924.shtml)
+
