@@ -185,3 +185,21 @@
 
 + [深度学习学习路线图：从MNIST到MobileNetV4，从理论到实践的完整指南](https://blog.csdn.net/qq_32682301/article/details/152043419)
 
++ [本地AI部署成趋势：LocalAl+cpolar安全指南](https://blog.csdn.net/2301_76341691/article/details/151995322)
+
++ [实战：基于 BRPC+Etcd 打造轻量级 RPC 服务 —— 从注册到调用的完整实现](https://blog.csdn.net/zrt123456i/article/details/152047977)
+
++ [华清远见携STM32全矩阵产品及创新机器狗亮相2025 STM32研讨会，共启嵌入式技术探索新程](https://blog.csdn.net/u014170843/article/details/151997803)
+
++ [BLE功耗建模：精确计算广播、扫描、连接、休眠状态能耗](https://blog.csdn.net/weixin_37800531/article/details/151923586)
+
++ [LinuxC++项目开发日志——基于正倒排索引的boost搜索引擎（3——通过cppjieba库建立索引模块）](https://blog.csdn.net/qq_34434522/article/details/152010856)
+
++ [【完整源码+数据集+部署教程】停车位图像分割系统： yolov8-seg-HGNetV2](https://blog.csdn.net/weixin_43860634/article/details/151998080)
+
++ [云原生可观测性体系：从监控到智能运维的全链路实践](https://blog.csdn.net/2503_91057718/article/details/152012443)
+
++ [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、ShaderPass、UnrealBloomPass渲染通道），打造动态线框艺术](https://blog.csdn.net/qq_28419035/article/details/152032131)
+
++ [从50ms到30ms：YOLOv10部署中图像预处理的性能优化实践](https://blog.csdn.net/JackLang/article/details/151974087)
+
