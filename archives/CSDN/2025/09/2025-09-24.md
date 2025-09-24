@@ -153,3 +153,5 @@
 
 + [Spark大数据分析与实战笔记（第五章 HBase分布式数据库-05）](https://blog.csdn.net/u014727709/article/details/152024580)
 
++ [支持向量机深度解析：从数学原理到工程实践的完整指南](https://blog.csdn.net/2301_79139273/article/details/151936163)
+
