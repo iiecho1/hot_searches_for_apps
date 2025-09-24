@@ -47,3 +47,21 @@
 
 + [OPPO 刘浩然谈不喜背屏的原因：徒增功耗、影像未来可能产生冲突](https://m.ithome.com/html/884776.htm)
 
++ [小米澎湃秒充协议向行业全面免费开放，最高 120W 有线、80W 无线](https://m.ithome.com/html/885249.htm)
+
++ [15.98 万元起，“最便宜鸿蒙智行”尚界 H5 车型上市](https://m.ithome.com/html/885234.htm)
+
++ [今年第 18 号超强台风“桦加沙”逼近广东，腾讯总部为 QQ 企鹅雕像上拴绳](https://m.ithome.com/html/885218.htm)
+
++ [支持 iPhone 17 全系快充：酷态科 10 号超级电能充 Ultra 199 → 141 元直降](https://m.ithome.com/html/885079.htm)
+
++ [15.98 万元起“最便宜鸿蒙智行”：尚界 H5 上市 1 小时大定突破 1 万台，9 月底陆续开始交付](https://m.ithome.com/html/885258.htm)
+
++ [雷军：造车和重启造芯几乎是同时做的决策，把小米前十年攒下的家底全押上了](https://m.ithome.com/html/885276.htm)
+
++ [显微镜下的苹果 iPhone 17 Pro Max：为何容易出现划痕和凹痕](https://m.ithome.com/html/885095.htm)
+
++ [经典模式回归：腾讯 QQ 发布 Windows 9.9.22、macOS 6.9.81 版本更新，支持合并独立聊天窗口](https://m.ithome.com/html/885281.htm)
+
++ [售 27.98 万元起鸿蒙智行全新问界 M7 上市，提供增程 / 纯电动力](https://m.ithome.com/html/885226.htm)
+
