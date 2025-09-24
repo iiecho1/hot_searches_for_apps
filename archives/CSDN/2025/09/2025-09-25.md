@@ -145,3 +145,5 @@
 
 + [2025年最新开源Nano Banana Plus商业化系统本地搭建教程](https://blog.csdn.net/lyztyycode/article/details/152012199)
 
++ [【机器人】CogNav 目标导航 | 认知过程建模 | LLM大模型 ](https://blog.csdn.net/qq_41204464/article/details/152052798)
+
