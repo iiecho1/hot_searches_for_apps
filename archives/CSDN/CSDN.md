@@ -135,3 +135,7 @@
 
 + [EdgeMark：嵌入式人工智能工具的自动化与基准测试系统——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152047192)
 
++ [从零搭建MCP服务器：让你的AI助手秒变全能工具箱](https://blog.csdn.net/Rqaqedamancy/article/details/152012684)
+
++ [默会之墙：机器人教学困境中的认知迷雾与破晓之光](https://blog.csdn.net/ZhangRelay/article/details/152051045)
+
