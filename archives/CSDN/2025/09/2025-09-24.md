@@ -157,3 +157,13 @@
 
 + [构建硅基流动embedding模型API兼容langchain接口的实战代码](https://blog.csdn.net/herosunly/article/details/152030029)
 
++ [JDK 24里程碑：虚拟线程重大升级，要用虚拟线程请务必用JDK24](https://blog.csdn.net/lilinhai548/article/details/152028560)
+
++ [技术赋能求职——基于Bright Data与DeepSeek构建LinkedInAI助手，实现职位智能匹配与打分](https://blog.csdn.net/m0_64336780/article/details/151865966)
+
++ [[免费]基于Python的深度学习音乐推荐系统(后端Django)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/151964366)
+
++ [ETL详解：从核心流程到典型应用场景](https://blog.csdn.net/oOBubbleX/article/details/151936192)
+
++ [【HarmonyOS】HMRouter关键原理-动态import](https://blog.csdn.net/2302_79763237/article/details/151929831)
+

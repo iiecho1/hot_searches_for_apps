@@ -179,3 +179,11 @@
 
 + [美公布“最强”第六代战机最新画面遭群嘲：高中PPT水平](https://news.cctv.com/2025/09/24/ARTIPbu5gR9BZHc7dAV3ptlw250924.shtml)
 
++ [13年来首次 埃及与土耳其进行海军联合演习](https://news.cctv.com/2025/09/24/ARTIzocvpEcdTGhVxCrKhfQm250924.shtml)
+
++ [特朗普支持率下滑 经济民生和极端化成“槽点”](https://news.cctv.com/2025/09/24/ARTIavLAm8oHbat564zk4bD7250924.shtml)
+
++ [美联储主席：美国经济面临通胀上升与就业下行“双向风险”](https://news.cctv.com/2025/09/24/ARTIh7Koi41zlMiX5SmFhGLO250924.shtml)
+
++ [阿尔及利亚第一所孔子学院举行揭牌仪式](https://news.cctv.com/2025/09/24/ARTI16RPtcKkm9dH4bKL10wY250924.shtml)
+
