@@ -25,3 +25,17 @@
 
 + [限时 9.37 万元起，吉利全新星瑞 / 星越 L・东方曜汽车上市](https://m.ithome.com/html/885246.htm)
 
++ [雷军分享小米 17 Pro 系列手机拍摄样张，称新机“逆光抓拍非常强”](https://m.ithome.com/html/885357.htm)
+
++ [比亚迪汽车官微发文“祝小米 17 发布成功”，雷军致谢](https://m.ithome.com/html/885507.htm)
+
++ [iPhone 17 Pro Max 1T 13999 元：京东 3C 数码 9 月上新季开启，新品首购至低 75 折](https://m.ithome.com/html/885401.htm)
+
++ [小米 17 系列手机全系搭载“光学镀膜大满贯”，挑战移动影像最纯净光学系统](https://m.ithome.com/html/885426.htm)
+
++ [小米汽车副总裁李肖爽回应“被网暴小米车主胜诉”：团队会坚定的与用户站在一起，全力做每一位车主的后盾](https://m.ithome.com/html/885267.htm)
+
++ [腾讯 QQ 辟谣企鹅雕像上身被风吹走：假的，保安哥还给鹅加固了石头，安全 Buff 已叠满](https://m.ithome.com/html/885366.htm)
+
++ [限地区再降价：苹果 Mac mini M4 国补 + 教育优惠后 2679 元京东 12 期免息](https://m.ithome.com/html/885390.htm)
+
