@@ -39,3 +39,11 @@
 
 + [限地区再降价：苹果 Mac mini M4 国补 + 教育优惠后 2679 元京东 12 期免息](https://m.ithome.com/html/885390.htm)
 
++ [史诗级更新：小米 17 系列手机全面兼容 100W PPS 通用充电协议](https://m.ithome.com/html/885144.htm)
+
++ [支持 iPhone 17 全系快充：酷态科 10 号超级电能充 Ultra 199 → 141 元直降](https://m.ithome.com/html/885079.htm)
+
++ [卢伟冰公布小米 17 Pro Max 全新显示技术「超级像素」实际效果](https://m.ithome.com/html/885077.htm)
+
++ [显微镜下的苹果 iPhone 17 Pro Max：为何容易出现划痕和凹痕](https://m.ithome.com/html/885095.htm)
+

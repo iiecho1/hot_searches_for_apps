@@ -113,3 +113,25 @@
 
 + [ReactNative性能优化实践方案](https://blog.csdn.net/wayne214/article/details/151965302)
 
++ [【HarmonyOS】HMRouter关键原理-动态import](https://blog.csdn.net/2302_79763237/article/details/151929831)
+
++ [HTTP协议工作原理与生产环境服务器搭建实战](https://blog.csdn.net/2302_80105876/article/details/151109890)
+
++ [【网络编程】UDP 编程实战：从套接字到聊天室多场景项目构建](https://blog.csdn.net/2401_87944878/article/details/150857747)
+
++ [LazyLLM端到端实战：用RAG+Agent实现自动出题与学习计划的个性化学习助手智能体](https://blog.csdn.net/g310773517/article/details/152030881)
+
++ [【愚公系列】《人工智能70年》040-数据科学崛起（AI眼中的历史与未来）](https://blog.csdn.net/aa2528877987/article/details/151897165)
+
++ [【Linux系统】深入理解线程同步，实现生产消费模型](https://blog.csdn.net/huangyuchi/article/details/151864779)
+
++ [【黑洞优化算法】增强的FOPID控制器加速的黑洞优化算法，用于全轮驱动机器人机器人系统附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/152052602)
+
++ [贪心算法之会议安排问题](https://blog.csdn.net/acsdnrb/article/details/151997185)
+
++ [HTTPS 请求抓包实战，从请求捕获到解密分析的逐步流程与工具组合（https 请求抓包、iOS 真机、SSL Pinning 排查）](https://blog.csdn.net/2501_91591841/article/details/152003236)
+
++ [Halcon学习--（3）图像阈值处理](https://blog.csdn.net/weixin_45114627/article/details/152002469)
+
++ [EdgeMark：嵌入式人工智能工具的自动化与基准测试系统——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152047192)
+
