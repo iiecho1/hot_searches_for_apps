@@ -181,3 +181,7 @@
 
 + [系统分析师-软件工程-信息系统开发方法&&面向对象&原型化方法&面向服务&快速应用开发](https://blog.csdn.net/g984160547/article/details/151977106)
 
++ [【Linux】如何通过uptime查看系统负载是否过高？](https://blog.csdn.net/liu_chen_yang/article/details/151367344)
+
++ [深度学习学习路线图：从MNIST到MobileNetV4，从理论到实践的完整指南](https://blog.csdn.net/qq_32682301/article/details/152043419)
+
