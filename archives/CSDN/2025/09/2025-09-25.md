@@ -215,3 +215,7 @@
 
 + [FPGA时序约束分析4——Reg2Reg路径的建立时间与保持时间分析](https://blog.csdn.net/ccsss22/article/details/152051386)
 
++ [当AI变成“需求读心术大师“：Python开发者如何用“脑洞算法“破解预测困局？](https://blog.csdn.net/qq_33650655/article/details/152011195)
+
++ [让数据触手可及采用Chat2DB+cpolar重构数据库操作体验](https://blog.csdn.net/qyj19920704/article/details/152089439)
+
