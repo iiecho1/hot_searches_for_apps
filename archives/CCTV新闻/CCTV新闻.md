@@ -171,3 +171,7 @@
 
 + [泽连斯基动作不断 特朗普突然转向 意欲何为？](https://news.cctv.com/2025/09/25/ARTIyYNKtZRUaIXsJPJJfaxt250925.shtml)
 
++ [墨西哥总统谴责美暴力执法致移民死亡](https://news.cctv.com/2025/09/25/ARTI7fGgwXnK7u2fVGVoGABr250925.shtml)
+
++ [联合国召开首届可持续、包容和有韧性全球经济峰会](https://news.cctv.com/2025/09/25/ARTI6nCmymOMhbXyKVb9lG2E250925.shtml)
+

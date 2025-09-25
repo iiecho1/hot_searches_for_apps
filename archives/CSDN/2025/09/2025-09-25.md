@@ -175,3 +175,7 @@
 
 + [线性代数 · SVD | 奇异值分解的早期历史（一）](https://blog.csdn.net/u013669912/article/details/151964576)
 
++ [【自动驾驶】自动驾驶概述 ⑤ ( 自动驾驶硬件概述 | 车载计算单元 IPC | 车辆线控系统 )](https://blog.csdn.net/han1202012/article/details/151312681)
+
++ [生成式强化学习在广告自动出价场景的技术实践](https://blog.csdn.net/kuaishoutech/article/details/152031347)
+
