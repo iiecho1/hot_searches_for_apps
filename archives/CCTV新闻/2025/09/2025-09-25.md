@@ -179,3 +179,5 @@
 
 + [世贸组织总干事：中国不寻求新的特殊和差别待遇发出支持世贸组织改革强有力信号](https://news.cctv.com/2025/09/25/ARTInIK9WIlq0DLb02Ohdl6K250925.shtml)
 
++ [特朗普称联大演说遭“三重破坏” 美国特勤局介入调查](https://news.cctv.com/2025/09/25/ARTIN6drC38s3cKzkDgC1TYC250925.shtml)
+

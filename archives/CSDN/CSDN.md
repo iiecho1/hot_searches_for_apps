@@ -203,3 +203,7 @@
 
 + [四大金刚之计算机网络](https://blog.csdn.net/weixin_51008312/article/details/151968278)
 
++ [AI人物|00后数学天才洪乐潼：3年MIT双学位，0产品估值5亿美金，她如何用数学颠覆AI？](https://blog.csdn.net/superdangbo/article/details/152081042)
+
++ [【Linux】拆解 Linux 容器化核心：Namespace 隔离 + cgroups 资源控制，附 LXC 容器生命周期实战](https://blog.csdn.net/2302_79806056/article/details/151373581)
+
