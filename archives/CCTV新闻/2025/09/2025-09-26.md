@@ -165,3 +165,9 @@
 
 + [特朗普有关乌克兰最新表态究竟是态度转向还是另有意图？](https://news.cctv.com/2025/09/26/ARTI2I8d19iRRsOFHvhLeSQJ250925.shtml)
 
++ [马达加斯加首都实施宵禁 我使馆发布安全提醒](https://news.cctv.com/2025/09/26/ARTIBA6LO1qnandQmMNYig8B250926.shtml)
+
++ [欧洲理事会主席：“两国方案”是通向巴以和平唯一途径](https://news.cctv.com/2025/09/26/ARTIKbBcLajubYGjYFkOtym9250926.shtml)
+
++ [伊拉克总理宣布中央政府接收库区原油并恢复出口](https://news.cctv.com/2025/09/26/ARTI64iBzEjlRARV67EeuYp6250926.shtml)
+
