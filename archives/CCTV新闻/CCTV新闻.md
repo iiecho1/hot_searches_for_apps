@@ -163,3 +163,11 @@
 
 + [美国正式公告：实施美欧贸易协议 征收欧盟汽车15%关税](https://news.cctv.com/2025/09/25/ARTIajwZ9em4vasLpzuQd29Z250925.shtml)
 
++ [乌克兰与叙利亚恢复外交关系](https://news.cctv.com/2025/09/25/ARTId6DH9YGHsJfJEhnJCASD250925.shtml)
+
++ [屡次推迟的登月计划可能提前 NASA哪来的自信？](https://news.cctv.com/2025/09/25/ARTItycsgtWsMYHIAFzvzIG7250925.shtml)
+
++ [委内瑞拉西北部发生6.3级地震 首都震感明显](https://news.cctv.com/2025/09/25/ARTIds2Zo8xV3ddmMLd3yLcm250925.shtml)
+
++ [泽连斯基动作不断 特朗普突然转向 意欲何为？](https://news.cctv.com/2025/09/25/ARTIyYNKtZRUaIXsJPJJfaxt250925.shtml)
+

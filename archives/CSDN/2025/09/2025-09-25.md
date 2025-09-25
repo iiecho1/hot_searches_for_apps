@@ -149,3 +149,7 @@
 
 + [MySQL 数据库核心知识点详解](https://blog.csdn.net/2202_75407589/article/details/151974408)
 
++ [SpringBoot结合PostGIS在省级旅游口号管理中的应用实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/152052316)
+
++ [人工智能作为中小企业战略增长催化剂——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152048370)
+
