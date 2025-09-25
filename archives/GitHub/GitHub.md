@@ -61,3 +61,21 @@
 
 + [exo-explore/exo](https://github.com/exo-explore/exo)
 
++ [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
++ [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
+
++ [Olow304/memvid](https://github.com/Olow304/memvid)
+
++ [TanStack/router](https://github.com/TanStack/router)
+
++ [coinbase/x402](https://github.com/coinbase/x402)
+
++ [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
+
++ [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+
