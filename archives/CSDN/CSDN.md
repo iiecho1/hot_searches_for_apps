@@ -153,3 +153,13 @@
 
 + [人工智能作为中小企业战略增长催化剂——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152048370)
 
++ [PyTorch生成式人工智能——生成式多模态人工智能](https://blog.csdn.net/LOVEmy134611/article/details/146261259)
+
++ [【花雕学编程】Arduino BLDC 之360°扫描建图机器人](https://blog.csdn.net/weixin_41659040/article/details/152071400)
+
++ [Phi-4 技术报告深度解读——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152049428)
+
++ [推荐 6 个本周 yyds 的 GitHub 项目。](https://blog.csdn.net/weixin_47654730/article/details/151966415)
+
++ [k8s 跟 nacos 关于服务注册以及服务发现](https://blog.csdn.net/weixin_71031526/article/details/152005424)
+
