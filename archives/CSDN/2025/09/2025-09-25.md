@@ -179,3 +179,15 @@
 
 + [生成式强化学习在广告自动出价场景的技术实践](https://blog.csdn.net/kuaishoutech/article/details/152031347)
 
++ [【征文计划】深度剖析 Rokid SLAM 算法：从传感器融合到空间重建的完整技术链路](https://blog.csdn.net/IRpickstars/article/details/152072765)
+
++ [【序列晋升】42 Spring Data Apache Cassandra 简化分布式NoSQL数据库的Spring应用开发](https://blog.csdn.net/weixin_39671271/article/details/151933878)
+
++ [《C++进阶之C++11》【移动语义 + 完美转发】](https://blog.csdn.net/2301_80221951/article/details/152052283)
+
++ [微信小程序云开发 - errCode: -502001 database request fail | errMsg: [ResourceUnavailable.ResourceOverdue] Re](https://blog.csdn.net/weixin_44198965/article/details/152076736)
+
++ [【mysql】内部技术架构](https://blog.csdn.net/2201_75743716/article/details/151975148)
+
++ [HDMI——搬运箱子，不在话下：宏观上从人类RGB视频中学习全身交互控制，微观上暂依赖动捕数据，且暂一项技能一套策略](https://blog.csdn.net/v_JULY_v/article/details/152053454)
+

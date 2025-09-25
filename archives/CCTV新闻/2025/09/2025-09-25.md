@@ -175,3 +175,5 @@
 
 + [联合国召开首届可持续、包容和有韧性全球经济峰会](https://news.cctv.com/2025/09/25/ARTI6nCmymOMhbXyKVb9lG2E250925.shtml)
 
++ [台风“桦加沙”正逐渐影响越南 我使领馆提醒在越中国公民提高防范意识](https://news.cctv.com/2025/09/25/ARTIIpswT5qQfgQpDhAkxcKR250925.shtml)
+
