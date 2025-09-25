@@ -25,3 +25,21 @@
 
 + [卢伟冰：小米做到了“真首发当日达”，上午高通发布处理器，晚上小米就发布手机](https://m.ithome.com/html/885638.htm)
 
++ [小米 17 手机正式发布：首发第五代骁龙 8 至尊版、7000mAh 电池，4499 元起](https://m.ithome.com/html/885831.htm)
+
++ [小米 17 Pro Max 手机发布：搭载全新徕卡光影大师影像系统，5999 元起](https://m.ithome.com/html/885835.htm)
+
++ [小米 17 Pro 手机发布：搭载妙享背屏、首发第五代骁龙 8 至尊版，4999 元起](https://m.ithome.com/html/885833.htm)
+
++ [小米雷军谈松果澎湃芯片失败：自研手机 SoC 只有做最高端才有一线生机，苹果和华为都是](https://m.ithome.com/html/885820.htm)
+
++ [299 元完美兼容苹果 iPhone 17 系列：小米金沙江充电宝发布，5000mAh 超薄磁吸](https://m.ithome.com/html/885837.htm)
+
++ [18:00 结束：小米 17 / Pro / Max 新机 24 期免息，加 1 元赠爱奇艺季卡 + 钛保温杯](https://m.ithome.com/html/885744.htm)
+
++ [雷军：小米 YU7 砍掉了 620km 版本，内部激烈争论决定不走“冰箱彩电大沙发”路线](https://m.ithome.com/html/885828.htm)
+
++ [2199 元起小米平板 8 / Pro 发布：11.2 英寸 3.2K 可选柔光版、搭骁龙 8s Gen 4 / 骁龙 8 至尊版](https://m.ithome.com/html/885838.htm)
+
++ [微信鸿蒙版 App 获 1.0.11.32 邀测升级，支持 QQ 邮箱回复和写邮件](https://m.ithome.com/html/885586.htm)
+
