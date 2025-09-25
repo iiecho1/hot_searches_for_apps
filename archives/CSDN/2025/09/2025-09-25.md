@@ -171,3 +171,7 @@
 
 + [python小游戏实战：打造一款视觉精美的飞机大战](https://blog.csdn.net/weixin_43151418/article/details/151931456)
 
++ [rust使用sqlx示例](https://blog.csdn.net/qq_42455262/article/details/151964744)
+
++ [线性代数 · SVD | 奇异值分解的早期历史（一）](https://blog.csdn.net/u013669912/article/details/151964576)
+

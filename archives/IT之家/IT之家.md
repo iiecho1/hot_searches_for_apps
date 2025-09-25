@@ -47,3 +47,7 @@
 
 + [显微镜下的苹果 iPhone 17 Pro Max：为何容易出现划痕和凹痕](https://m.ithome.com/html/885095.htm)
 
++ [售 27.98 万元起，鸿蒙智行全新问界 M7 一小时大定破 3 万台](https://m.ithome.com/html/885245.htm)
+
++ [vivo OriginOS 6 更新有望全球首秀，海外取代 Funtouch OS](https://m.ithome.com/html/885251.htm)
+
