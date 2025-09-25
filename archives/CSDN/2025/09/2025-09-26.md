@@ -131,3 +131,5 @@
 
 + [博客SEO优化实战：从Google到百度，一套可复制的排名增长SOP](https://blog.csdn.net/2501_92531713/article/details/152024691)
 
++ [同城配送系统：基于 Spring Boot+Redis+RabbitMQ 构建](https://blog.csdn.net/2501_93276925/article/details/152029387)
+
