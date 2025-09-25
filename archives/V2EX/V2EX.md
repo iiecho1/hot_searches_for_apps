@@ -51,3 +51,7 @@
 
 + [突然找不到人生的意义了](https://www.v2ex.com/t/1161738)
 
++ [从今天起，我终于进入全系 Type-C 大家庭了](https://www.v2ex.com/t/1161739)
+
++ [真有人能抢到 8099 的 iPhone17 Pro 吗？](https://www.v2ex.com/t/1161730)
+
