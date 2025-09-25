@@ -37,3 +37,7 @@
 
 + [请问大家夫妻之间是怎么管钱的或者打算以后怎么管钱](https://www.v2ex.com/t/1161525)
 
++ [阿里 Qwen coder 的底层是 claude 吗？](https://www.v2ex.com/t/1161668)
+
++ [像我这种塞尔达打人马都费劲的玩家适合《艾尔登法环》么？](https://www.v2ex.com/t/1161654)
+

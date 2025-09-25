@@ -163,3 +163,11 @@
 
 + [k8s 跟 nacos 关于服务注册以及服务发现](https://blog.csdn.net/weixin_71031526/article/details/152005424)
 
++ [虚竹哥与北京大学出版社免费送AI书活动第一期](https://blog.csdn.net/shi_hong_fei_hei/article/details/152009044)
+
++ [【Redis】：从应用了解Redis](https://blog.csdn.net/jerryhe_com/article/details/151971905)
+
++ [基于Qt和FFmpeg的安卓监控模拟器/手机摄像头模拟成onvif和28181设备](https://blog.csdn.net/feiyangqingyun/article/details/152071862)
+
++ [python小游戏实战：打造一款视觉精美的飞机大战](https://blog.csdn.net/weixin_43151418/article/details/151931456)
+
