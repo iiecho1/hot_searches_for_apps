@@ -51,3 +51,15 @@
 
 + [vivo OriginOS 6 更新有望全球首秀，海外取代 Funtouch OS](https://m.ithome.com/html/885251.htm)
 
++ [“全球最快手机芯片”：高通发布第五代骁龙 8 至尊版，CPU 性能提升 20%、小米 17 系列首发](https://m.ithome.com/html/885555.htm)
+
++ [理想汽车被指未经授权用歼-20 战机做宣传海报，中航工业发声](https://m.ithome.com/html/885551.htm)
+
++ [长安、东风、理想、智己等车企送祝福，预祝小米 17 系列手机发布成功](https://m.ithome.com/html/885514.htm)
+
++ [苹果回应 iPhone 17 Pro / Max 划痕争议，实为老旧 MagSafe 支架材料转移](https://m.ithome.com/html/885573.htm)
+
++ [消息称零跑、小米等将推 80 度大电量增程车，宁德时代趁势“复活”高镍电池](https://m.ithome.com/html/885545.htm)
+
++ [卢伟冰：小米做到了“真首发当日达”，上午高通发布处理器，晚上小米就发布手机](https://m.ithome.com/html/885638.htm)
+

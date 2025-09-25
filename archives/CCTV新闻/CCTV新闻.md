@@ -177,3 +177,5 @@
 
 + [台风“桦加沙”正逐渐影响越南 我使领馆提醒在越中国公民提高防范意识](https://news.cctv.com/2025/09/25/ARTIIpswT5qQfgQpDhAkxcKR250925.shtml)
 
++ [世贸组织总干事：中国不寻求新的特殊和差别待遇发出支持世贸组织改革强有力信号](https://news.cctv.com/2025/09/25/ARTInIK9WIlq0DLb02Ohdl6K250925.shtml)
+
