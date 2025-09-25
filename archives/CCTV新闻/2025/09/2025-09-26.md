@@ -161,3 +161,7 @@
 
 + [美国叫停反映家庭饥饿状况的年度报告 批评者：粉饰！](https://news.cctv.com/2025/09/21/ARTI3ZPXCgYM534p0fZnDQRH250921.shtml)
 
++ [俄战略轰炸机在巴伦支海和鄂霍次克海中立水域完成计划性飞行](https://news.cctv.com/2025/09/26/ARTIxDHabmW3auhCCNEGyznd250925.shtml)
+
++ [特朗普有关乌克兰最新表态究竟是态度转向还是另有意图？](https://news.cctv.com/2025/09/26/ARTI2I8d19iRRsOFHvhLeSQJ250925.shtml)
+

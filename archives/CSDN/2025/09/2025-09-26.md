@@ -109,3 +109,25 @@
 
 + [什么是TCP/UDP/HTTP？它们如何影响你的内网穿透体验？](https://blog.csdn.net/2501_91573548/article/details/151995245)
 
++ [从 0 开始理解 Spring 的核心思想 —— IoC 和 DI(2)](https://blog.csdn.net/cjejwe/article/details/152092798)
+
++ [基于Python的二手房价格数据分析预测系统](https://blog.csdn.net/Candy5204/article/details/152009829)
+
++ [技术赋能求职——基于Bright Data与DeepSeek构建LinkedInAI助手，实现职位智能匹配与打分](https://blog.csdn.net/m0_64336780/article/details/151865966)
+
++ [Dlib、OpenCV 关键点定位 原理及案例解析](https://blog.csdn.net/2302_76756558/article/details/152092867)
+
++ [HTML5介绍（HTML5特性、HTML5功能）](https://blog.csdn.net/Dontla/article/details/152003970)
+
++ [生成式强化学习在广告自动出价场景的技术实践](https://blog.csdn.net/kuaishoutech/article/details/152031347)
+
++ [在 Windows GPU 机器上运行 Linux CUDA](https://blog.csdn.net/Jmilk/article/details/151940255)
+
++ [使用 Elasticsearch 构建 AI Agentic 工作流](https://blog.csdn.net/UbuntuTouch/article/details/152024448)
+
++ [麒麟 Linux｜深入解析 Linux 文件系统架构：理念、结构与工作机制](https://blog.csdn.net/2403_87251975/article/details/151995295)
+
++ [线性代数 · SVD | 多维度协同过滤](https://blog.csdn.net/u013669912/article/details/151995214)
+
++ [博客SEO优化实战：从Google到百度，一套可复制的排名增长SOP](https://blog.csdn.net/2501_92531713/article/details/152024691)
+

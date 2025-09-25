@@ -43,3 +43,11 @@
 
 + [微信鸿蒙版 App 获 1.0.11.32 邀测升级，支持 QQ 邮箱回复和写邮件](https://m.ithome.com/html/885586.htm)
 
++ [首款 5GHz Arm 芯片：高通骁龙 X2 Elite / Elite Extreme 发布，“性能最强、能效最高 Windows PC 处理器”](https://m.ithome.com/html/885556.htm)
+
++ [麒麟 9010 首次在设备端现身！华为 MatePad Mini 小平板推送鸿蒙 HarmonyOS 5.1.0.225 SP6 升级](https://m.ithome.com/html/885574.htm)
+
++ [雷军称高通第五代骁龙 8 至尊版处理器“确实强”，由小米 17 系列全球首发](https://m.ithome.com/html/885600.htm)
+
++ [小米王化回应“雷军年度演讲”话题阅读量 116.3 亿截图：这个话题已经存在五年多了](https://m.ithome.com/html/885509.htm)
+
