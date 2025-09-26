@@ -111,3 +111,21 @@
 
 + [线性代数 · SVD | 多维度协同过滤](https://blog.csdn.net/u013669912/article/details/151995214)
 
++ [2025年AI开发实战指南：从API调用到工程落地的避坑全攻略](https://blog.csdn.net/user340/article/details/152092838)
+
++ [远程录制新体验：Bililive-go与cpolar的无缝协作](https://blog.csdn.net/2301_80026901/article/details/152119006)
+
++ [Linux网络：使用UDP实现网络通信（服务端&&客户端）](https://blog.csdn.net/zby2791830200/article/details/152135010)
+
++ [金仓数据库：破解电子证照国产化难题，开启政务效能新篇](https://blog.csdn.net/hanwangyyds/article/details/152125763)
+
++ [默会之墙：机器人教学困境中的认知迷雾与破晓之光](https://blog.csdn.net/ZhangRelay/article/details/152051045)
+
++ [LabVIEW 音频采集与音阶识别](https://blog.csdn.net/bjcyck/article/details/152073012)
+
++ [远程软件横评：UU远程、ToDesk、向日葵](https://blog.csdn.net/czx_163/article/details/152129443)
+
++ [React资源合集](https://blog.csdn.net/weixin_53721706/article/details/152047434)
+
++ [Maven 依赖管理与版本优化](https://blog.csdn.net/qq_33181292/article/details/152008982)
+
