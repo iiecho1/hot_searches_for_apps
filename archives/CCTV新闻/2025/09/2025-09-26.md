@@ -193,3 +193,5 @@
 
 + [以总理内塔尼亚胡赴美航线首次改变 航迹视频公布](https://news.cctv.com/2025/09/26/ARTIaaoWfE3DNmMddjmWpRMD250926.shtml)
 
++ [美签证新政无异于“搬起石头砸了自己的脚” 美国经济将受到哪些冲击？](https://news.cctv.com/2025/09/26/ARTI51FmNRSBLyIyB9tsVxQ7250926.shtml)
+

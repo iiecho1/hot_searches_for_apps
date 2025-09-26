@@ -157,3 +157,11 @@
 
 + [LabVIEW 流量检测](https://blog.csdn.net/bjcyck/article/details/152114778)
 
++ [短视频流量|基于SprinBoot+vue的短视频流量数据分析系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/152117547)
+
++ [【MySQL数据库】彻底搞懂 MySQL 表的约束：约束、主键、外键等核心概念一网打尽](https://blog.csdn.net/2401_87944878/article/details/151901166)
+
++ [网络通信协议全解析：HTTP/UDP/TCP核心要点](https://blog.csdn.net/2302_77889990/article/details/152079989)
+
++ [前端开发利器：nvm、npm与pnpm全面解析与TypeScript/JavaScript选择指南](https://blog.csdn.net/qq_44623314/article/details/151726643)
+

@@ -41,3 +41,9 @@
 
 + [后续： ios26 正式版发布了](https://www.v2ex.com/t/1161911)
 
++ [很急，这个 offer 能拿么？](https://www.v2ex.com/t/1161908)
+
++ [能否分享下你们周末假期都是如何度过的？](https://www.v2ex.com/t/1161900)
+
++ [吐嘈一下華為雲](https://www.v2ex.com/t/1161906)
+
