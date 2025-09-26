@@ -175,3 +175,9 @@
 
 + [俄战略轰炸机巡航白令海 美方拦截但不视为威胁](https://news.cctv.com/2025/09/26/ARTIoE1zUS5xMuRBCfE8u1oq250926.shtml)
 
++ [韩国前总统尹锡悦出席其涉嫌滥用职权等案件首次庭审](https://news.cctv.com/2025/09/26/ARTIFEzLfLMdLszv9g58mHba250926.shtml)
+
++ [也门胡塞武装：以军空袭萨那造成150人死伤](https://photo.cctv.com/2025/09/26/PHOAZOGHcK2bgaa5OqL9Si4A250926.shtml)
+
++ [因非法接受卡扎菲资助 法国前总统萨科齐被判五年监禁](https://photo.cctv.com/2025/09/26/PHOAkfYy28xbshNHPKPVS9cV250926.shtml)
+

@@ -137,3 +137,7 @@
 
 + [系统分析师-软件工程-信息系统开发方法&面向对象&原型化方法&面向服务&快速应用开发](https://blog.csdn.net/g984160547/article/details/151977106)
 
++ [Scikit-learn Python机器学习 - 回归分析算法 - Lasso 回归 (Lasso Regression)](https://blog.csdn.net/caoli201314/article/details/152026636)
+
++ [Pytorch框架笔记](https://blog.csdn.net/weixin_53515170/article/details/151994156)
+
