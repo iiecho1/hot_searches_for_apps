@@ -51,3 +51,5 @@
 
 + [小米王化回应“雷军年度演讲”话题阅读量 116.3 亿截图：这个话题已经存在五年多了](https://m.ithome.com/html/885509.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.0 (20) 开发者版本今日正式 Release，不涉及新增特性](https://m.ithome.com/html/885856.htm)
+

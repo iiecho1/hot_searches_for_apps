@@ -187,3 +187,9 @@
 
 + [联合国儿基会驻苏丹一办公楼遇袭 造成至少7人死亡](https://news.cctv.com/2025/09/26/ARTI9sX2zTsSM8xZhJWYrajg250926.shtml)
 
++ [墨西哥央行再度下调基准利率至7.50%](https://news.cctv.com/2025/09/26/ARTIKHNtZjMluWc0GvDixTZr250926.shtml)
+
++ [台风“博罗依”二次登陆菲律宾 已致4人死亡](https://news.cctv.com/2025/09/26/ARTIfAciIeKbiPKnb0H61qNX250926.shtml)
+
++ [以总理内塔尼亚胡赴美航线首次改变 航迹视频公布](https://news.cctv.com/2025/09/26/ARTIaaoWfE3DNmMddjmWpRMD250926.shtml)
+
