@@ -195,3 +195,17 @@
 
 + [美签证新政无异于“搬起石头砸了自己的脚” 美国经济将受到哪些冲击？](https://news.cctv.com/2025/09/26/ARTI51FmNRSBLyIyB9tsVxQ7250926.shtml)
 
++ [土耳其学者: 民族团结共绘新疆辉煌新篇章](https://news.cctv.com/2025/09/26/ARTIy6OyUJdt6VurkKBQGn8G250926.shtml)
+
++ [伊朗批评美国“虚伪荒谬”](https://news.cctv.com/2025/09/26/ARTIJQ54m4Y4DixtayR0q5Nq250926.shtml)
+
++ [全球瞭望丨彭博社：美国从联合国创立者变为“破坏者”](https://news.cctv.com/2025/09/26/ARTIZGRlsRpj3aO4EvlbzRK2250926.shtml)
+
++ [阿根廷汉学家：现代化新疆展示中国促进各民族共同繁荣发展的生动实践](https://news.cctv.com/2025/09/26/ARTIbqMV3T6MLZ4okJovnnf1250926.shtml)
+
++ [全球气候治理关键时刻的“中国动力”](https://news.cctv.com/2025/09/26/ARTIF0KTw3BGVbE5y1FcCd4f250926.shtml)
+
++ [坚持共同发展才能破解时代难题（和音）](https://news.cctv.com/2025/09/26/ARTIUkQARlUfPtvhXH2hpYqi250926.shtml)
+
++ [视频丨涉嫌滥用职权等案首次庭审结束 韩国前总统尹锡悦否认所有指控](https://news.cctv.com/2025/09/26/ARTIqTV9pM2jBGnA66n8YNOe250926.shtml)
+

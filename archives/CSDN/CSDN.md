@@ -173,3 +173,7 @@
 
 + [《嵌入式驱动（二）：驱动开发基本概念》](https://blog.csdn.net/weixin_72612809/article/details/152007549)
 
++ [微信小程序 - cloud.callFunction:fail Error: errCode: -504002 functions execute fail | errMsg: 145 code ex](https://blog.csdn.net/weixin_44198965/article/details/152116871)
+
++ [通算时代开启，国产ARM身影渐去](https://blog.csdn.net/yellowzf3/article/details/152004238)
+

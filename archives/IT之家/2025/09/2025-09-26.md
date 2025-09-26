@@ -53,3 +53,9 @@
 
 + [华为鸿蒙 HarmonyOS 6.0.0 (20) 开发者版本今日正式 Release，不涉及新增特性](https://m.ithome.com/html/885856.htm)
 
++ [雷军：小米 17 非常炸裂，有很多超越苹果 iPhone 17 的地方](https://m.ithome.com/html/885870.htm)
+
++ [1999 元小米史上最高端音箱 Xiaomi Sound 2 Max 蓝牙音箱发布：包豪斯设计、深度定制三分频喇叭](https://m.ithome.com/html/885847.htm)
+
++ [299 元，小米 17 Pro / Pro Max 手机复古掌机保护壳发售](https://m.ithome.com/html/885857.htm)
+
