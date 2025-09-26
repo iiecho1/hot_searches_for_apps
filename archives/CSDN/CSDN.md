@@ -129,3 +129,9 @@
 
 + [Maven 依赖管理与版本优化](https://blog.csdn.net/qq_33181292/article/details/152008982)
 
++ [网络通信协议全解析：HTTP/UDP/TCP核心要点](https://blog.csdn.net/2302_77889990/article/details/152079989)
+
++ [Pytest+requests进行接口自动化测试6.0（Jenkins）](https://blog.csdn.net/know__ledge/article/details/152033091)
+
++ [【Linux】进程概念(六)：进程地址空间深度解析：虚拟地址与内存管理的奥秘](https://blog.csdn.net/2501_90265152/article/details/152024201)
+
