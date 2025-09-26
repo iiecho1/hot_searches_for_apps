@@ -217,3 +217,11 @@
 
 + [德国防长：未来5年斥资350亿欧元加强太空安全](https://news.cctv.com/2025/09/26/ARTI9Vvy4lSImsTc9FOQaoSz250926.shtml)
 
++ [习近平向马拉维当选总统穆塔里卡致贺电](https://news.cctv.com/2025/09/26/ARTIuhFKxLHRygNQyqrghL1g250926.shtml)
+
++ [美关税冲击加剧 约旦出口行业困则思变](https://news.cctv.com/2025/09/26/ARTIt1AN8p3DSGZS25G3KRQ0250926.shtml)
+
++ [“晋江经验”为什么能历久弥新？外交官探寻晋江发展密码](https://news.cctv.com/2025/09/26/ARTIEYpe7wNDh0dOhZMnmOvi250926.shtml)
+
++ [“在小小棉花里找到通向幸福的路”——中塔农业合作造福当地百姓](https://news.cctv.com/2025/09/26/ARTIsSVIh53xqVGHT73GfcHz250926.shtml)
+

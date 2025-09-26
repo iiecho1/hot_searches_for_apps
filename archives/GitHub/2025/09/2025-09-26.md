@@ -31,3 +31,25 @@
 
 + [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
++ [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+
++ [basecamp/omarchy](https://github.com/basecamp/omarchy)
+
++ [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)
+
++ [netdata/netdata](https://github.com/netdata/netdata)
+
++ [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
++ [bytedance/Dolphin](https://github.com/bytedance/Dolphin)
+
++ [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+
++ [exo-explore/exo](https://github.com/exo-explore/exo)
+
++ [is-a-dev/register](https://github.com/is-a-dev/register)
+
++ [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
+
++ [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+
