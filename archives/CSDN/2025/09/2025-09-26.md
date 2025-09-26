@@ -197,3 +197,11 @@
 
 + [深入了解linux网络—— UDP网络通信](https://blog.csdn.net/LH__1314/article/details/151429536)
 
++ [Java 大视界 -- Java 大数据在智能公交调度优化与准点率提升中的应用实践（416）](https://blog.csdn.net/atgfg/article/details/152093933)
+
++ [当AI成为“需求预言家“：Python开发者如何用“混沌工程“思维打破预测宿命论？](https://blog.csdn.net/qq_33650655/article/details/152091606)
+
++ [优选算法的寻踪契合：字符串专题](https://blog.csdn.net/2401_85198927/article/details/151934940)
+
++ [多级缓存架构：性能与数据一致性的平衡处理（原理及优势详解+项目实战）](https://blog.csdn.net/ze15829163918/article/details/152094583)
+
