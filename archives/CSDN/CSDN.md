@@ -195,3 +195,5 @@
 
 + [uniapp：解决APP手机锁屏后台熄屏后定时任务不起作用解决教程，手机息屏导致定时器setTimeout、setInterval时间不准问题（app挂到后台以后会导致定时任务延缓不对或直接根本无效）](https://blog.csdn.net/weixin_50545213/article/details/152126755)
 
++ [深入了解linux网络—— UDP网络通信](https://blog.csdn.net/LH__1314/article/details/151429536)
+
