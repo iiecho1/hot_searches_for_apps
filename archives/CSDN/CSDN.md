@@ -141,3 +141,15 @@
 
 + [Pytorch框架笔记](https://blog.csdn.net/weixin_53515170/article/details/151994156)
 
++ [【C++】如何搞定 C++ 内存管理？](https://blog.csdn.net/2403_86779341/article/details/152074935)
+
++ [【愚公系列】《人工智能70年》044-数据科学崛起（安全与隐私，硬币的另一面）](https://blog.csdn.net/aa2528877987/article/details/151897454)
+
++ [历史自觉与创新自强：论正义事业的生命力源泉](https://blog.csdn.net/eidolon_foot/article/details/151689425)
+
++ [【项目实战 Day7】springboot + vue 苍穹外卖系统（微信小程序 + 微信登录模块 完结）](https://blog.csdn.net/weixin_61639349/article/details/152046780)
+
++ [Kafka选举机制深度解析：分布式系统中的民主与效率](https://blog.csdn.net/m0_74385041/article/details/152093291)
+
++ [HDMI——搬运箱子，不在话下：宏观上从人类RGB视频中学习全身交互控制，微观上暂依赖动捕数据，且暂一项技能一套策略](https://blog.csdn.net/v_JULY_v/article/details/152053454)
+
