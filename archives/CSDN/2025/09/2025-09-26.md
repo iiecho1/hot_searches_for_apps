@@ -181,3 +181,7 @@
 
 + [【序列晋升】44 Spring Data Couchbase：云原生架构中的文档数据库集成新思路](https://blog.csdn.net/weixin_39671271/article/details/152006222)
 
++ [论文精读（六）：微服务系统服务依赖发现技术综述](https://blog.csdn.net/Pocker_Spades_A/article/details/152008987)
+
++ [使用Windbg分析dmp文件的方法以及实战分析实例分享](https://blog.csdn.net/chenlycly/article/details/152115653)
+
