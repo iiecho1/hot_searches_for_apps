@@ -165,3 +165,11 @@
 
 + [前端开发利器：nvm、npm与pnpm全面解析与TypeScript/JavaScript选择指南](https://blog.csdn.net/qq_44623314/article/details/151726643)
 
++ [决策树(Decision Tree)](https://blog.csdn.net/qq_62234605/article/details/152044209)
+
++ [DeepSeek-V3.1-Terminus：蓝耘API+CherryStudio实测国产最新开源模型，推理能力竟让我后背发凉](https://blog.csdn.net/2301_76341691/article/details/152078241)
+
++ [在Unity中使用SQLite(Sqlite-net-pcl)](https://blog.csdn.net/R3333355726856/article/details/151997552)
+
++ [《嵌入式驱动（二）：驱动开发基本概念》](https://blog.csdn.net/weixin_72612809/article/details/152007549)
+
