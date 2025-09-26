@@ -101,3 +101,13 @@
 
 + [uniapp：解决APP手机锁屏后台熄屏后定时任务不起作用解决教程，手机息屏导致定时器setTimeout、setInterval时间不准问题（app挂到后台以后会导致定时任务延缓不对或直接根本无效）](https://blog.csdn.net/weixin_50545213/article/details/152126755)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融风险传染路径分析与防控策略制定中的应用](https://blog.csdn.net/atgfg/article/details/152052147)
+
++ [人脸图像识别实战：使用 LFW 数据集对比四种机器学习模型（SVM、逻辑回归、随机森林、MLP）](https://blog.csdn.net/xchenhao/article/details/152046531)
+
++ [优选算法的寻踪契合：字符串专题](https://blog.csdn.net/2401_85198927/article/details/151934940)
+
++ [博客SEO优化实战：从Google到百度，一套可复制的排名增长SOP](https://blog.csdn.net/2501_92531713/article/details/152024691)
+
++ [线性代数 · SVD | 多维度协同过滤](https://blog.csdn.net/u013669912/article/details/151995214)
+
