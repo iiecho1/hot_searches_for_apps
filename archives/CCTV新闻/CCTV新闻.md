@@ -209,3 +209,11 @@
 
 + [视频丨涉嫌滥用职权等案首次庭审结束 韩国前总统尹锡悦否认所有指控](https://news.cctv.com/2025/09/26/ARTIqTV9pM2jBGnA66n8YNOe250926.shtml)
 
++ [匈牙利总理：没有俄罗斯能源 匈牙利经济将损失4%](https://news.cctv.com/2025/09/26/ARTId0W8IBqgIQ9wtLKmfuMK250926.shtml)
+
++ [比利时首相：坚决拒绝动用被冻结俄资产援助乌克兰](https://news.cctv.com/2025/09/26/ARTIPRq8qjkpJXYaB9kkwNWi250926.shtml)
+
++ [强热带风暴“博罗依”致菲律宾43万人被紧急疏散](https://news.cctv.com/2025/09/26/ARTIV2752626ErrxSAisrdk2250926.shtml)
+
++ [德国防长：未来5年斥资350亿欧元加强太空安全](https://news.cctv.com/2025/09/26/ARTI9Vvy4lSImsTc9FOQaoSz250926.shtml)
+
