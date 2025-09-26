@@ -225,3 +225,13 @@
 
 + [“在小小棉花里找到通向幸福的路”——中塔农业合作造福当地百姓](https://news.cctv.com/2025/09/26/ARTIsSVIh53xqVGHT73GfcHz250926.shtml)
 
++ [埃及西部省一服装厂发生火灾 致7死30伤](https://news.cctv.com/2025/09/26/ARTIcaxjGSONwuRmOXVEuisW250926.shtml)
+
++ [俄罗斯与伊朗签署价值250亿美元协议 将在伊建设4座核电机组](https://news.cctv.com/2025/09/26/ARTIl6hJDPCUQBnjHaCbSWzL250926.shtml)
+
++ [荷兰将向印尼归还一批重要考古藏品](https://news.cctv.com/2025/09/26/ARTIr4rGlVuLigs7TlK7bsYt250926.shtml)
+
++ [乌克兰禁止三名匈牙利高级军官入境 以回应匈相关举措](https://news.cctv.com/2025/09/26/ARTItQPbGukRrfGMyTkfTHS6250926.shtml)
+
++ [网络攻击影响一周仍未消除 德国柏林机场恢复时间尚不确定](https://news.cctv.com/2025/09/26/ARTIqzr9nYdHhT0vsPyduYC8250926.shtml)
+

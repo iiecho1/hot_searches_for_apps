@@ -191,3 +191,7 @@
 
 + [金仓数据库：破解电子证照国产化难题，开启政务效能新篇](https://blog.csdn.net/hanwangyyds/article/details/152125763)
 
++ [K8S （使用步骤）](https://blog.csdn.net/qq_56938412/article/details/152007489)
+
++ [uniapp：解决APP手机锁屏后台熄屏后定时任务不起作用解决教程，手机息屏导致定时器setTimeout、setInterval时间不准问题（app挂到后台以后会导致定时任务延缓不对或直接根本无效）](https://blog.csdn.net/weixin_50545213/article/details/152126755)
+
