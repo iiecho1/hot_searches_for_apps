@@ -153,3 +153,7 @@
 
 + [HDMI——搬运箱子，不在话下：宏观上从人类RGB视频中学习全身交互控制，微观上暂依赖动捕数据，且暂一项技能一套策略](https://blog.csdn.net/v_JULY_v/article/details/152053454)
 
++ [【跟我学YOLO】YOLO26：YOLO Vision 2025 最新发布的端到端视觉 AI 新突破](https://blog.csdn.net/youcans/article/details/151679487)
+
++ [LabVIEW 流量检测](https://blog.csdn.net/bjcyck/article/details/152114778)
+
