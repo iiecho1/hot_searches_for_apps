@@ -133,3 +133,7 @@
 
 + [同城配送系统：基于 Spring Boot+Redis+RabbitMQ 构建](https://blog.csdn.net/2501_93276925/article/details/152029387)
 
++ [从零搭建MCP服务器：让你的AI助手秒变全能工具箱](https://blog.csdn.net/Rqaqedamancy/article/details/152012684)
+
++ [系统分析师-软件工程-信息系统开发方法&面向对象&原型化方法&面向服务&快速应用开发](https://blog.csdn.net/g984160547/article/details/151977106)
+
