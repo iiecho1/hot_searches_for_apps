@@ -163,3 +163,7 @@
 
 + [日本首相将访韩国 推动两国“穿梭外交”](https://news.cctv.com/2025/09/27/ARTIQPVwasjNMmjWUKKJbKjf250926.shtml)
 
++ [特朗普“关税大棒”砸向建材家具，业内人士称美国消费者将为此买单](https://news.cctv.com/2025/09/27/ARTIi9j0QBSM8pGQLoOwIMux250927.shtml)
+
++ [外媒：伊朗与俄罗斯签署价值250亿美元协议，将在伊朗建造4座核电机组](https://news.cctv.com/2025/09/27/ARTIfhVV6z6IAMkSUOGfoL1N250927.shtml)
+
