@@ -141,3 +141,5 @@
 
 + [系统分析师-软件工程-软件开发环境与工具&CMM&CMMI&软件重用和再工程](https://blog.csdn.net/g984160547/article/details/151841430)
 
++ [无人机追逃博弈，个人感悟](https://blog.csdn.net/2401_84444731/article/details/151958355)
+
