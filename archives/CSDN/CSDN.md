@@ -177,3 +177,5 @@
 
 + [面向古籍版面数字化识别应用研究—基于HisDoc-DETR模型深入剖析](https://blog.csdn.net/weixin_52908342/article/details/152089400)
 
++ [uniapp 支付宝小程序 扩展组件 component 节点的class不生效](https://blog.csdn.net/qq_42822849/article/details/152088316)
+

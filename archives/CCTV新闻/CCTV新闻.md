@@ -199,3 +199,7 @@
 
 + [国际残奥委会决定全面恢复俄罗斯会员资格](https://news.cctv.com/2025/09/27/ARTI7KDaOemB0ATFLqlMDjTK250927.shtml)
 
++ [柬参议院主席洪森：中国为地区乃至全球经济增长作出重大贡献](https://news.cctv.com/2025/09/27/ARTIj3lZuIzygNNjKLFZrMCr250927.shtml)
+
++ [吉尔吉斯斯坦副总理：全球治理倡议与联合国宪章宗旨原则相契合](https://news.cctv.com/2025/09/27/ARTIQ4ikjhrU0zbD0ixAHxvS250927.shtml)
+
