@@ -175,3 +175,5 @@
 
 + [政务系统国产化的“教科书级“实践：MongoDB平滑迁移成功案例解析](https://blog.csdn.net/weixin_66401877/article/details/152125935)
 
++ [面向古籍版面数字化识别应用研究—基于HisDoc-DETR模型深入剖析](https://blog.csdn.net/weixin_52908342/article/details/152089400)
+
