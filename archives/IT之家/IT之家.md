@@ -59,3 +59,7 @@
 
 + [高通第六代骁龙 8 至尊版芯片踪迹曝光：代号 SM8950，小米 18 系列手机首发](https://m.ithome.com/html/886192.htm)
 
++ [6.68 万元起，五菱缤果 S 纯电小车正式上市](https://m.ithome.com/html/886281.htm)
+
++ [李开复：如果十年后回顾 DeepSeek 如何让中国未落后美国，答案是开源](https://m.ithome.com/html/886217.htm)
+

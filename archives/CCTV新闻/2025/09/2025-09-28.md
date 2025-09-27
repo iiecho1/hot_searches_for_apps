@@ -161,3 +161,7 @@
 
 + [泽连斯基动作不断 特朗普突然转向 意欲何为？](https://news.cctv.com/2025/09/25/ARTIyYNKtZRUaIXsJPJJfaxt250925.shtml)
 
++ [特朗普：国会山骚乱中FBI秘密派遣274名特工混入人群](https://news.cctv.com/2025/09/28/ARTIwXhfIhmIyVMdry7hTDv4250928.shtml)
+
++ [印度南部发生踩踏事件至少36人死亡 莫迪发文哀悼](https://news.cctv.com/2025/09/28/ARTIXeCc4e27A2I4vHCuHi5q250928.shtml)
+
