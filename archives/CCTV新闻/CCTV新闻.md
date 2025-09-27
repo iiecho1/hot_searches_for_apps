@@ -203,3 +203,5 @@
 
 + [吉尔吉斯斯坦副总理：全球治理倡议与联合国宪章宗旨原则相契合](https://news.cctv.com/2025/09/27/ARTIQ4ikjhrU0zbD0ixAHxvS250927.shtml)
 
++ [无人机事件搅动欧洲 欧盟欲打造“无人机墙”](https://news.cctv.com/2025/09/27/ARTIVLyZ56ltGYMXUiPGOMNX250927.shtml)
+
