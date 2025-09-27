@@ -137,3 +137,5 @@
 
 + [工具武器库 | 网络安全相关工具和文章链接总结](https://blog.csdn.net/weixin_44309905/article/details/152028502)
 
++ [Transformer模型/注意力机制/目标检测/语义分割/图神经网络/强化学习/生成式模型/自监督学习/物理信息神经网络等](https://blog.csdn.net/WangYan2022/article/details/152083748)
+

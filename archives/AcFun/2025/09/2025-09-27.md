@@ -69,3 +69,5 @@
 
 + [Gentlemen](https://m.acfun.cn/v/?ac=47860869)
 
++ [粤语翻唱「诀爱」【《苍兰诀》电视剧燃爱主题曲】](https://m.acfun.cn/v/?ac=47839080)
+
