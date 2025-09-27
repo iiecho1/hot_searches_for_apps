@@ -173,3 +173,9 @@
 
 + [高端访谈丨专访古巴国家主席迪亚斯-卡内尔](https://people.cctv.com/2025/09/27/ARTIxw8JhQPCIY30ICvo2rR9250927.shtml)
 
++ [美政府要求最高法院审查废除“出生公民权”行政令的合宪性](https://news.cctv.com/2025/09/27/ARTIttm4P7vti6yw1Qm6eW3O250927.shtml)
+
++ [金正恩会见核部门科技人员 指导有关核武器生产协议会](https://news.cctv.com/2025/09/27/ARTIQ37dKu0LMJw1skTnrp34250927.shtml)
+
++ [也门萨那：空袭过后](https://photo.cctv.com/2025/09/27/PHOAV7I5jH2Zqa4QqOYPL7l2250927.shtml)
+

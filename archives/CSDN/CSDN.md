@@ -139,3 +139,9 @@
 
 + [Transformer模型/注意力机制/目标检测/语义分割/图神经网络/强化学习/生成式模型/自监督学习/物理信息神经网络等](https://blog.csdn.net/WangYan2022/article/details/152083748)
 
++ [一文读懂AI语言模型](https://blog.csdn.net/sixpp/article/details/152149101)
+
++ [FastAPI+Vue前后端分离架构指南](https://blog.csdn.net/qq_60943902/article/details/152092290)
+
++ [男子68页PPT曝妻子出轨华南理工博士（附下载链接）](https://blog.csdn.net/zdoeo/article/details/152131843)
+
