@@ -33,3 +33,13 @@
 
 + [《愤怒的小鸟》重返中国市场：登上小米 17 发布会，金山世游拿下授权](https://m.ithome.com/html/886165.htm)
 
++ [小米 17 全系开售 5 分钟，刷新 2025 年国产手机全价位段新机系列首销全天销量 / 销额纪录](https://m.ithome.com/html/886205.htm)
+
++ [微信 iOS 版 8.0.64 最新官方正式版下载发布](https://m.ithome.com/html/886048.htm)
+
++ [苹果 iPhone 17 标准版充电测试：原厂 40W 适配器半小时可充 70%，比 iPhone 16 最高提速 23%](https://m.ithome.com/html/886171.htm)
+
++ [4499 元起，小米 17 / Pro / Max 系列手机首销](https://m.ithome.com/html/886197.htm)
+
++ [腾讯 QQ 音乐推出“网赚畅听包”会员，付费后每天看广告获取听歌权益](https://m.ithome.com/html/886025.htm)
+
