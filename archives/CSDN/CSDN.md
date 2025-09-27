@@ -179,3 +179,15 @@
 
 + [uniapp 支付宝小程序 扩展组件 component 节点的class不生效](https://blog.csdn.net/qq_42822849/article/details/152088316)
 
++ [基于大数据hive的银行信用卡用户的数仓系统的设计与实现_django](https://blog.csdn.net/shmp54/article/details/152163730)
+
++ [金仓数据库替代MongoDB：电子证照系统国产化改造实战](https://blog.csdn.net/weixin_74809706/article/details/152125775)
+
++ [【有源码】基于Hadoop+Spark的AI就业影响数据分析与可视化系统-AI驱动下的就业市场变迁数据分析与可视化研究-基于大数据的AI就业趋势分析可视化平台](https://blog.csdn.net/IT_YQG_/article/details/152136704)
+
++ [浏览器发起http，到得到网页的整个过程](https://blog.csdn.net/jingfeng514/article/details/152128943)
+
++ [SDN 控制器深度剖析：架构、对比与实践部署](https://blog.csdn.net/2503_91057718/article/details/152118751)
+
++ [Socket 编程 TCP(准备阶段)](https://blog.csdn.net/sqm_C/article/details/151754815)
+
