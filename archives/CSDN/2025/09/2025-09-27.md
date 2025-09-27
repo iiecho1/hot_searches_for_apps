@@ -195,3 +195,7 @@
 
 + [GauGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/151835372)
 
++ [R²D²深度解析：NVIDIA三大神经网络突破如何变革机器人学习](https://blog.csdn.net/kunhe0512/article/details/152123276)
+
++ [【AI编程】Claude Code 最强AI 编程利器项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/151889236)
+

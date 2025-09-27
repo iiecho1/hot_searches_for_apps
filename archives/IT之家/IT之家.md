@@ -69,3 +69,19 @@
 
 + [蔡磊回应外界关切：现在五体瘫软无法言语，宁可与渐冻症战死，不会面对绝症屈辱等死](https://m.ithome.com/html/885935.htm)
 
++ [苹果官网及天猫旗舰店发布 2025 国庆中秋发货及售后调整通知，部分日期 iPhone 17 等新品暂停发货](https://m.ithome.com/html/886223.htm)
+
++ [小米 17 Pro Max 机型推送澎湃 OS 3.0.9.0.WPBCNXM 升级，含小米超级岛、超级小爱等](https://m.ithome.com/html/886232.htm)
+
++ [支付宝客服回应“健康码行程码记得解绑”：平台不会泄露用户信息](https://m.ithome.com/html/886189.htm)
+
++ [小米 17 Fold 折叠手机曝光：2 亿主摄、第五代骁龙 8 至尊版芯片，有望 2026 年 2 月发布](https://m.ithome.com/html/886196.htm)
+
++ [顺丰总裁王卫豪掷 1.2 亿感谢 10 万老员工，每人最高获 3000 元红包](https://m.ithome.com/html/886179.htm)
+
++ [小米开始向 YU7 锁单等待超 3 个月的用户“送礼”，赠送车主 129 元合金车模](https://m.ithome.com/html/886274.htm)
+
++ [零跑汽车关联公司拖欠 361 万元成失信被执行人，创始人朱江明被限消](https://m.ithome.com/html/886187.htm)
+
++ [高通第六代骁龙 8 至尊版芯片踪迹曝光：代号 SM8950，小米 18 系列手机首发](https://m.ithome.com/html/886192.htm)
+

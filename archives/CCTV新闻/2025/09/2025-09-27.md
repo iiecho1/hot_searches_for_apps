@@ -209,3 +209,11 @@
 
 + [以总理联大发言 多国代表退场 专家称不满将出现在更多领域](https://news.cctv.com/2025/09/27/ARTI7LIUDZlhxIMEzanFmH8k250927.shtml)
 
++ [国际观察｜阿根廷经济改革路在何方](https://news.cctv.com/2025/09/27/ARTInbrtsMrDFv6PFOfNfaJT250927.shtml)
+
++ [熊出没！北极熊“占领”俄罗斯一废弃气象站](https://news.cctv.com/2025/09/27/ARTIHyDd3oCwwP6zm6PBsvST250927.shtml)
+
++ [遭美撤销签证 哥伦比亚总统回应称“我不需要”](https://news.cctv.com/2025/09/27/ARTI96RRQYQWR755Qb5aQgvg250927.shtml)
+
++ [高度关注！中国首部8K太空纪录电影《窗外是蓝星》宣传片在朝鲜精彩亮相](https://news.cctv.com/2025/09/27/ARTIDmtAT5Vwlr1FOQcVnepQ250927.shtml)
+
