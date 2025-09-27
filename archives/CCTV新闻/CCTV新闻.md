@@ -195,3 +195,7 @@
 
 + [中方对联合国安理会未能延长伊核协议深表遗憾](https://news.cctv.com/2025/09/27/ARTIVwbKZKFkncsRhXMJz5Ub250927.shtml)
 
++ [泰国军方最新声明称对柬方开火进行回击 柬方暂无回应](https://news.cctv.com/2025/09/27/ARTIgffxjKKgf3LgP7LPAi5P250927.shtml)
+
++ [国际残奥委会决定全面恢复俄罗斯会员资格](https://news.cctv.com/2025/09/27/ARTI7KDaOemB0ATFLqlMDjTK250927.shtml)
+
