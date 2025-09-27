@@ -185,3 +185,13 @@
 
 + [意难平！特朗普连发四帖攻击FBI前局长科米](https://news.cctv.com/2025/09/27/ARTIYpbvGbA3Ajs98CM3X2Gs250927.shtml)
 
++ [通胀和失业担忧导致美国9月消费者信心指数下降](https://news.cctv.com/2025/09/27/ARTId8FaNQ9I83PiLreVBTqj250927.shtml)
+
++ [促和平、反霸权、倡多边——联合国大会上的“全球南方强音”](https://news.cctv.com/2025/09/27/ARTIJA1bocGQt06LodeyDHb6250927.shtml)
+
++ [全球治理倡议有助于推动构建更加公正的世界秩序——访埃及本哈大学哲学教授艾哈迈德](https://news.cctv.com/2025/09/27/ARTImvKvuTgjgyIacTDnBNYb250927.shtml)
+
++ [中国担当提振推进全球气候治理的信心（和音）](https://news.cctv.com/2025/09/27/ARTIBIj3vxhyp2AIQWHrWH9P250927.shtml)
+
++ [中方对联合国安理会未能延长伊核协议深表遗憾](https://news.cctv.com/2025/09/27/ARTIVwbKZKFkncsRhXMJz5Ub250927.shtml)
+
