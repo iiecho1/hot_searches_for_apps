@@ -69,3 +69,5 @@
 
 + [【推しの子】アイドル/YOASOBI　【MAD/AMV】【高画質】](https://m.acfun.cn/v/?ac=47817404)
 
++ [日常一乐#78（瑜伽伸展！！！）](https://m.acfun.cn/v/?ac=47864671)
+
