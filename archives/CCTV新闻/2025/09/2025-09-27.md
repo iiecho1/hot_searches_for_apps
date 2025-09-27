@@ -179,3 +179,5 @@
 
 + [也门萨那：空袭过后](https://photo.cctv.com/2025/09/27/PHOAV7I5jH2Zqa4QqOYPL7l2250927.shtml)
 
++ [印度最后一批米格-21战斗机退役](https://news.cctv.com/2025/09/27/ARTIS9JQbLTDFdkvay9S2eW0250927.shtml)
+

@@ -151,3 +151,5 @@
 
 + [MyBatis 完整教程（电商项目实战）](https://blog.csdn.net/qq_24330181/article/details/152137227)
 
++ [【序列晋升】44 Spring Data Couchbase：云原生架构中的文档数据库集成新思路](https://blog.csdn.net/weixin_39671271/article/details/152006222)
+
