@@ -101,3 +101,23 @@
 
 + [无人机表演行业二手设备市场与性价比分析](https://blog.csdn.net/wan5555/article/details/152130380)
 
++ [Java 大视界 -- Java 大数据在智能公交调度优化与准点率提升中的应用实践（416）](https://blog.csdn.net/atgfg/article/details/152093933)
+
++ [AI+Decodo：构建智能电商价格监控系统的完整实战指南](https://blog.csdn.net/weixin_51390582/article/details/152046094)
+
++ [历史自觉与创新自强：论正义事业的生命力源泉](https://blog.csdn.net/eidolon_foot/article/details/151689425)
+
++ [Spring Boot 3.x + Security + OpenFeign：如何避免内部服务调用被重复拦截？](https://blog.csdn.net/qq_36478920/article/details/152138505)
+
++ [使用Windbg分析dmp文件的方法以及实战分析实例分享](https://blog.csdn.net/chenlycly/article/details/152115653)
+
++ [【有源码】基于Hadoop+Spark的AI就业影响数据分析与可视化系统-AI驱动下的就业市场变迁数据分析与可视化研究-基于大数据的AI就业趋势分析可视化平台](https://blog.csdn.net/IT_YQG_/article/details/152136704)
+
++ [事件委托（事件代理）：原理、应用与实践](https://blog.csdn.net/weixin_42554191/article/details/151894961)
+
++ [解析前端框架 Axios 的设计理念与源码](https://blog.csdn.net/2503_92624912/article/details/152074517)
+
++ [基于YOLO8+flask+layui的行人跌倒行为检测系统【源码+模型+数据集】](https://blog.csdn.net/qq_42681787/article/details/152120619)
+
++ [废品回收小程序：从 “扔垃圾“ 到 “变资源“ 的体验革命](https://blog.csdn.net/wangzhencici/article/details/152118799)
+
