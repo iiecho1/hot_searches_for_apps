@@ -67,3 +67,5 @@
 
 + [4499 元起，小米 17 / Pro / Max 系列手机首销](https://m.ithome.com/html/886197.htm)
 
++ [蔡磊回应外界关切：现在五体瘫软无法言语，宁可与渐冻症战死，不会面对绝症屈辱等死](https://m.ithome.com/html/885935.htm)
+

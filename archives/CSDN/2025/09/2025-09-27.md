@@ -191,3 +191,7 @@
 
 + [Socket 编程 TCP(准备阶段)](https://blog.csdn.net/sqm_C/article/details/151754815)
 
++ [Pillow高级实战案例：图像处理的进阶应用](https://blog.csdn.net/eqwaak0/article/details/152133654)
+
++ [GauGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/151835372)
+

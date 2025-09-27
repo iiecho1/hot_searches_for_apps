@@ -205,3 +205,7 @@
 
 + [无人机事件搅动欧洲 欧盟欲打造“无人机墙”](https://news.cctv.com/2025/09/27/ARTIVLyZ56ltGYMXUiPGOMNX250927.shtml)
 
++ [帕森斯连任国际残奥委会主席](https://news.cctv.com/2025/09/27/ARTIlYqAcXQHqY4gB2YdRNQl250927.shtml)
+
++ [以总理联大发言 多国代表退场 专家称不满将出现在更多领域](https://news.cctv.com/2025/09/27/ARTI7LIUDZlhxIMEzanFmH8k250927.shtml)
+
