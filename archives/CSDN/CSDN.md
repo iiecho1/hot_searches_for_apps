@@ -121,3 +121,23 @@
 
 + [废品回收小程序：从 “扔垃圾“ 到 “变资源“ 的体验革命](https://blog.csdn.net/wangzhencici/article/details/152118799)
 
++ [Pillow高级实战案例：图像处理的进阶应用](https://blog.csdn.net/eqwaak0/article/details/152133654)
+
++ [Spring Boot携手Leaflet，点亮省级旅游口号WebGIS可视化之路](https://blog.csdn.net/yelangkingwuzuhu/article/details/152094933)
+
++ [基于Hadoop的美妆产品网络评价的数据采集与分析-django+spider](https://blog.csdn.net/shmp54xmu/article/details/152164562)
+
++ [Python 图像处理技巧指南 ](https://blog.csdn.net/2501_92505055/article/details/152127638)
+
++ [FPGA时序约束分析6——时钟约束](https://blog.csdn.net/ccsss22/article/details/152182065)
+
++ [Java分布式缓存的负载均衡与扩展性：构建高可用系统的隐形支柱](https://blog.csdn.net/2401_88677290/article/details/150644273)
+
++ [Pytest+requests进行接口自动化测试6.0（Jenkins）](https://blog.csdn.net/know__ledge/article/details/152033091)
+
++ [Spring Boot三层架构核心注解全解析：Mapper_Service_Controller](https://blog.csdn.net/weixin_45793745/article/details/152115561)
+
++ [2025GUI项目实践：Unity编辑模式下GUI运行](https://blog.csdn.net/MY_future_/article/details/152113882)
+
++ [系统分析师-软件工程-软件开发环境与工具&CMM&CMMI&软件重用和再工程](https://blog.csdn.net/g984160547/article/details/151841430)
+
