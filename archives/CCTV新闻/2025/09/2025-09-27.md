@@ -181,3 +181,5 @@
 
 + [印度最后一批米格-21战斗机退役](https://news.cctv.com/2025/09/27/ARTIS9JQbLTDFdkvay9S2eW0250927.shtml)
 
++ [韩国网络中心机房火灾 600多个政府业务系统停转](https://news.cctv.com/2025/09/27/ARTIReigGiLSLRtMdNB2rc49250927.shtml)
+
