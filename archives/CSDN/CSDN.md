@@ -141,3 +141,5 @@
 
 + [Qt结合ffmpeg代码实现udp推流/组播推流/rtp推流/监控GB28181推流/onvif推流](https://blog.csdn.net/feiyangqingyun/article/details/152206563)
 
++ [Claude、ChatGPT、Cursor三剑客：构建我的AI辅助开发工作流](https://blog.csdn.net/Rqaqedamancy/article/details/152207362)
+
