@@ -209,3 +209,9 @@
 
 + [Claude、ChatGPT、Cursor三剑客：构建我的AI辅助开发工作流](https://blog.csdn.net/Rqaqedamancy/article/details/152207362)
 
++ [MCP vs LangChain：下一代AI工具编排谁更胜一筹？](https://blog.csdn.net/Rqaqedamancy/article/details/152098446)
+
++ [Kafka索引黑科技：百万消息毫秒定位的底层原理](https://blog.csdn.net/qq_44378083/article/details/149339414)
+
++ [如何从头开始开发 Linux 驱动程序](https://blog.csdn.net/2501_93209230/article/details/151835251)
+

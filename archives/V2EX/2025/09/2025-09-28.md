@@ -47,3 +47,5 @@
 
 + [小米汽车还有希望吗？](https://www.v2ex.com/t/1162383)
 
++ [Python 真的和 c 一样么](https://www.v2ex.com/t/1162294)
+
