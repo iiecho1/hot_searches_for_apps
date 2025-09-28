@@ -117,3 +117,25 @@
 
 + [无界智能客服：新一代「智能体+人工」客服系统整体解决方案](https://blog.csdn.net/lilinhai548/article/details/151926833)
 
++ [平替MongoDB：金仓多模数据库助力电子证照国产化实践](https://blog.csdn.net/u014727709/article/details/152128481)
+
++ [精打细算：Todesk、向日葵、UU远程，哪款免费远程软件最好用且限制最少？](https://blog.csdn.net/IRpickstars/article/details/152224019)
+
++ [【Linux系列】并发世界的基石：透彻理解 Linux 进程 — 理解操作系统](https://blog.csdn.net/2302_80177460/article/details/152177716)
+
++ [基于大数据hive的银行信用卡用户的数仓系统的设计与实现_django](https://blog.csdn.net/shmp54/article/details/152163730)
+
++ [详解 Python 装饰器：从语法糖到架构设计](https://blog.csdn.net/2503_91057718/article/details/152163515)
+
++ [从零构建短视频推荐系统：双塔算法架构解析与代码实现](https://blog.csdn.net/m0_46510245/article/details/152230357)
+
++ [spring boot拦截器获取requestBody的巨坑](https://blog.csdn.net/shenyunsese/article/details/152163374)
+
++ [金仓数据库：破解电子证照国产化难题，开启政务效能新篇](https://blog.csdn.net/hanwangyyds/article/details/152125763)
+
++ [系统分析师-软件工程-软件开发环境与工具&CMM&CMMI&软件重用和再工程](https://blog.csdn.net/g984160547/article/details/151841430)
+
++ [连接事件(Connection Event)内功耗优化：缩短RX/TX时间、快速睡眠策略](https://blog.csdn.net/weixin_37800531/article/details/152092504)
+
++ [【qml-11】Quick3D实现机器人欧拉旋转、拖动视角](https://blog.csdn.net/u012999461/article/details/152172934)
+
