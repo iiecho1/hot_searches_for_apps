@@ -153,3 +153,7 @@
 
 + [一键配置国内镜像源，让pip下载速度飞起来](https://blog.csdn.net/Tang_is_learning/article/details/152161948)
 
++ [社区互助养老系统|基于java和小程序的社区互助养老系统小程序设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/152161852)
+
++ [计算机视觉 - 物体检测 开山鼻祖 R-CNN系列：Fast R-CNN、Faster R-CNN、Mask R-CNN](https://blog.csdn.net/nju_spy/article/details/151974414)
+

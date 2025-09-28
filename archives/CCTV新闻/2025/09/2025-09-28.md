@@ -169,3 +169,13 @@
 
 + [对伊制裁自动恢复 伊朗谴责西方政治打压 一文了解后续影响](https://news.cctv.com/2025/09/28/ARTIUpvCkxjxUabhEviynEMi250928.shtml)
 
++ [印度南部集会踩踏事件已致39人死亡40余人受伤](https://news.cctv.com/2025/09/28/ARTIhV7Mwt8pQmvJYiJeA5ci250928.shtml)
+
++ [时隔两年半　伊拉克恢复从库尔德自治区向土耳其出口原油](https://news.cctv.com/2025/09/28/ARTI3ssb6YTPF7FPrXNtdhIQ250928.shtml)
+
++ [再向民主党任市长城市派兵 特朗普被批滥用职权](https://news.cctv.com/2025/09/28/ARTI6xdYK5MrWaLioCpdtC14250928.shtml)
+
++ [阿玛尔巴伊斯格楞当选蒙古人民党主席](https://news.cctv.com/2025/09/28/ARTI6AeRr7Tq0wqoq2eDhIt3250928.shtml)
+
++ [中国游客户外登山徒步突遭极端天气不幸身亡 中国驻墨尔本总领事馆发布安全提醒](https://news.cctv.com/2025/09/28/ARTIC7Puuz8Hi4S8tl4M90EB250928.shtml)
+

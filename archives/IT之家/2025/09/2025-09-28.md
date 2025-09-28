@@ -63,3 +63,13 @@
 
 + [李开复：如果十年后回顾 DeepSeek 如何让中国未落后美国，答案是开源](https://m.ithome.com/html/886217.htm)
 
++ [超越 PC 处理器：苹果 iPhone 17 A19 单核性能登顶 PassMark，功耗仅 4W](https://m.ithome.com/html/886292.htm)
+
++ [价格战开打：消息称三星 2nm 晶圆每片报价 2 万美元，比台积电便宜 33%](https://m.ithome.com/html/886242.htm)
+
++ [央视盘点新能源汽车“隐藏式门把手”：暗藏安全隐患，应回归安全设计本质](https://m.ithome.com/html/886252.htm)
+
++ [老人手机被远程控制 26 万元存款险被骗，民警急智用牙签取出 SIM 卡成功阻断](https://m.ithome.com/html/886279.htm)
+
++ [小米 SU7 Ultra 首次亮相日本，未来也将在当地手机门店同步销售](https://m.ithome.com/html/886277.htm)
+
