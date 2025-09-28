@@ -73,3 +73,17 @@
 
 + [小米 SU7 Ultra 首次亮相日本，未来也将在当地手机门店同步销售](https://m.ithome.com/html/886277.htm)
 
++ [消息称除了华为 Mate 80 系列，其它家暂时没有「可变光圈」新机](https://m.ithome.com/html/886325.htm)
+
++ [雷军：小米 17 Pro Max 手机多门店已缺货，推荐大家试试 17 Pro](https://m.ithome.com/html/886364.htm)
+
++ [卢伟冰现身北京小米之家为小米 17 首批用户交付新机，透露 Pro Max 机型需求远超预期已安排提产](https://m.ithome.com/html/886297.htm)
+
++ [江苏省宣布 9 月 28 日 24 时起暂停实施汽车置换更新补贴政策](https://m.ithome.com/html/886293.htm)
+
++ [24.98 万元起理想 i6 正式开启交付：定位新形态五座 SUV，CLTC 续航 720km](https://m.ithome.com/html/886273.htm)
+
++ [消息称追觅汽车获超 150 亿元订单，中东及中亚经销商反馈热烈](https://m.ithome.com/html/886305.htm)
+
++ [iG 3:1 战胜 JDG 时隔六年再次代表 LPL 出征世界赛：S15 入围赛将对阵 T1](https://m.ithome.com/html/886288.htm)
+

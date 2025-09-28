@@ -203,3 +203,5 @@
 
 + [Python 2025：云原生与容器化技术的新浪潮](https://blog.csdn.net/qq_65622609/article/details/152182083)
 
++ [基于KingbaseES集群管理实战：从部署运维到高可用架构深度解析](https://blog.csdn.net/lrq13965748542/article/details/152166823)
+
