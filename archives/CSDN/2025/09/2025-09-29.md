@@ -143,3 +143,5 @@
 
 + [Claude、ChatGPT、Cursor三剑客：构建我的AI辅助开发工作流](https://blog.csdn.net/Rqaqedamancy/article/details/152207362)
 
++ [【序列晋升】45 Spring Data Elasticsearch 实战：3 个核心方案破解索引管理与复杂查询痛点，告别低效开发](https://blog.csdn.net/weixin_39671271/article/details/152129052)
+
