@@ -165,3 +165,7 @@
 
 + [印度南部发生踩踏事件至少36人死亡 莫迪发文哀悼](https://news.cctv.com/2025/09/28/ARTIXeCc4e27A2I4vHCuHi5q250928.shtml)
 
++ [德国柏林数万人举行巴以冲突相关示威活动](https://news.cctv.com/2025/09/28/ARTI0jVS6rUr2hVNziULxARH250928.shtml)
+
++ [对伊制裁自动恢复 伊朗谴责西方政治打压 一文了解后续影响](https://news.cctv.com/2025/09/28/ARTIUpvCkxjxUabhEviynEMi250928.shtml)
+

@@ -143,3 +143,13 @@
 
 + [无人机追逃博弈，个人感悟](https://blog.csdn.net/2401_84444731/article/details/151958355)
 
++ [kafka-日志收集平台部署项目](https://blog.csdn.net/dalianwawatou/article/details/151972184)
+
++ [DevOps 工具链：CI/CD 概念解析 + Git 版本控制 + GitLab 仓库 + Jenkins 自动化全教程](https://blog.csdn.net/Rinleren/article/details/150636258)
+
++ [【MySQL数据库】彻底搞懂 MySQL 表的约束：约束、主键、外键等核心概念一网打尽](https://blog.csdn.net/2401_87944878/article/details/151901166)
+
++ [开源的容器化平台：Docker](https://blog.csdn.net/weixin_72487594/article/details/152125201)
+
++ [一键配置国内镜像源，让pip下载速度飞起来](https://blog.csdn.net/Tang_is_learning/article/details/152161948)
+
