@@ -101,3 +101,19 @@
 
 + [React Ref揭秘：直接操作DOM的“秘密通道“](https://blog.csdn.net/qq_48652579/article/details/152206862)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融产品创新与客户需求匹配中的实战应用（417）](https://blog.csdn.net/atgfg/article/details/152183014)
+
++ [大语言模型LLM解决AI幻觉方法的深度分析](https://blog.csdn.net/superdangbo/article/details/152209747)
+
++ [【花雕动手做】HUSKYLENS 2 AI 相机视觉传感器 ( 二哈识图 2) 之颜色识别参数设置](https://blog.csdn.net/weixin_41659040/article/details/152223852)
+
++ [用Spark+Django打造食物营养数据可视化分析系统](https://blog.csdn.net/2401_86677951/article/details/152179363)
+
++ [kafka-日志收集平台部署项目](https://blog.csdn.net/dalianwawatou/article/details/151972184)
+
++ [作为 PHP 开发者，我第一次用 Go 写了个桌面应用](https://blog.csdn.net/2504_91076356/article/details/152136625)
+
++ [【Python】交互式文件分类整理工具：可视化引导与智能归档实现](https://blog.csdn.net/weixin_53197693/article/details/152165256)
+
++ [无界智能客服：新一代「智能体+人工」客服系统整体解决方案](https://blog.csdn.net/lilinhai548/article/details/151926833)
+
