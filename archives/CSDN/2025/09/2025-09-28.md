@@ -227,3 +227,7 @@
 
 + [无界智能客服：新一代「智能体+人工」客服系统整体解决方案](https://blog.csdn.net/lilinhai548/article/details/151926833)
 
++ [【花雕动手做】HUSKYLENS 2 AI 相机视觉传感器 ( 二哈识图 2) 之颜色识别参数设置](https://blog.csdn.net/weixin_41659040/article/details/152223852)
+
++ [PyTorch实战（8）——图像描述生成](https://blog.csdn.net/LOVEmy134611/article/details/150269956)
+
