@@ -41,3 +41,21 @@
 
 + [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
++ [commaai/openpilot](https://github.com/commaai/openpilot)
+
++ [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [typst/typst](https://github.com/typst/typst)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [sst/opencode](https://github.com/sst/opencode)
+
++ [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
