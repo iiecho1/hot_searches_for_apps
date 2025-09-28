@@ -215,3 +215,13 @@
 
 + [如何从头开始开发 Linux 驱动程序](https://blog.csdn.net/2501_93209230/article/details/151835251)
 
++ [从MongoDB到金仓：电子证照系统国产化改造的实践与经验](https://blog.csdn.net/Mrxiao_bo/article/details/152128284)
+
++ [大语言模型LLM解决AI幻觉方法的深度分析](https://blog.csdn.net/superdangbo/article/details/152209747)
+
++ [Nginx平滑升级](https://blog.csdn.net/Empty_777/article/details/152227292)
+
++ [清华大学提出控制系统的状态熵理论，为系统智能性的定量化分析提供全新视角](https://blog.csdn.net/XtZh0/article/details/152222536)
+
++ [基于微信小程序的智能在线预约挂号系统【2026最新】](https://blog.csdn.net/2301_78335941/article/details/152174997)
+
