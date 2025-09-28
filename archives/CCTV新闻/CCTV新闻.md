@@ -191,3 +191,7 @@
 
 + [专访丨与中国开展经济合作项目恰逢其时——访俄罗斯乌德穆尔特共和国经济部长斯卢金娜](https://news.cctv.com/2025/09/28/ARTI9luHyNmm8XspFd9Ze2ap250928.shtml)
 
++ [哥伦比亚抗议美国吊销该国总统签证](https://news.cctv.com/2025/09/28/ARTI4q2OzPY3ZdVSvCJNnSIa250928.shtml)
+
++ [俄乌战场“飞出”的无人机，为何让欧洲如此忧惧](https://news.cctv.com/2025/09/28/ARTIKR0oCi8LGQ6jxGByf2p4250928.shtml)
+
