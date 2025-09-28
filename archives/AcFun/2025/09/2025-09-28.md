@@ -79,3 +79,9 @@
 
 + [数码宝贝第八部1期：大冒号重启开篇！奥米加兽！](https://m.acfun.cn/v/?ac=47864608)
 
++ [【绝望女神/翻唱】【ReawakeR】](https://m.acfun.cn/v/?ac=47864534)
+
++ [【动物迷城】斑斑的直播录像（更新1p](https://m.acfun.cn/v/?ac=47865346)
+
++ [ 老番画风 ](https://m.acfun.cn/v/?ac=47865169)
+

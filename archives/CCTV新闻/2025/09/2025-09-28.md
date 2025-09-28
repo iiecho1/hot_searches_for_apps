@@ -179,3 +179,5 @@
 
 + [中国游客户外登山徒步突遭极端天气不幸身亡 中国驻墨尔本总领事馆发布安全提醒](https://news.cctv.com/2025/09/28/ARTIC7Puuz8Hi4S8tl4M90EB250928.shtml)
 
++ [美国俄勒冈州州长：特朗普向当地派军是滥用职权](https://news.cctv.com/2025/09/28/ARTIoYgiLyS0IRwN6Ry4mOLv250928.shtml)
+

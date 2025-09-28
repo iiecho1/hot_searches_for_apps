@@ -157,3 +157,15 @@
 
 + [计算机视觉 - 物体检测 开山鼻祖 R-CNN系列：Fast R-CNN、Faster R-CNN、Mask R-CNN](https://blog.csdn.net/nju_spy/article/details/151974414)
 
++ [AI人物|00后数学天才洪乐潼：3年MIT双学位，0产品估值5亿美金，她如何用数学颠覆AI？](https://blog.csdn.net/superdangbo/article/details/152081042)
+
++ [基于机器学习的智能贫血分析预测系统](https://blog.csdn.net/andrew_extra/article/details/152133738)
+
++ [《C++：从代码到机器》：vector 的坑只有 C++ 党懂？介绍使用 + 深度剖析 + 模拟实现，帮你全避开](https://blog.csdn.net/2403_88424194/article/details/152176418)
+
++ [LabVIEW多通道电源 PID 精准控制](https://blog.csdn.net/bjcyck/article/details/152181027)
+
++ [【2025具身智能大模型·系列17】阿里达摩院开源RynnVLA-001：视觉-语言-动作模型助力机器人智能操控](https://blog.csdn.net/xiaobing259/article/details/152044706)
+
++ [Java工具26-Redis：Redisson 客户端实现分布式计数器](https://blog.csdn.net/qq_41187124/article/details/152134783)
+
