@@ -197,3 +197,17 @@
 
 + [10艘援助船驶向加沙 将加入“全球坚韧船队”](https://news.cctv.com/2025/09/28/ARTI1HIra0CRaBWqLDsjrCfh250928.shtml)
 
++ [佩斯科夫：普京邀请特朗普访问莫斯科的提议依然有效](https://news.cctv.com/2025/09/28/ARTI2exH6JNyBiDDoYK73lP6250928.shtml)
+
++ [俄媒：俄外长证实，普京将于12月访问印度](https://news.cctv.com/2025/09/28/ARTIHiFHR5MLfVQkYQp1l2LZ250928.shtml)
+
++ [外媒：国际残奥委会恢复俄罗斯、白俄罗斯会员资格](https://news.cctv.com/2025/09/28/ARTIg7VOYoNawkq9v7i4FZZU250928.shtml)
+
++ [这些尼罗河边上的石柱，曾撑起古埃及的“CBD”](https://news.cctv.com/2025/09/28/ARTIQQns7Xuc8jAQE2jv2qpQ250928.shtml)
+
++ [十一次到访新疆的埃及专家：持续开放发展的新疆让人民幸福感不断提升](https://news.cctv.com/2025/09/28/ARTIgjbFfzxwtTq9ks4aqhD0250928.shtml)
+
++ [为“大金砖合作”高质量发展注入新动能](https://news.cctv.com/2025/09/28/ARTIiaiAlPQGEZWqG9YFUg22250928.shtml)
+
++ [刚果（金）媒体：全球治理倡议为动荡变革中的世界指明方向](https://news.cctv.com/2025/09/28/ARTIU3QxyA0QZFnkmLzKecOP250928.shtml)
+
