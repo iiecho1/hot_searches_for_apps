@@ -169,3 +169,5 @@
 
 + [美国密歇根州枪击事件已致2死8伤 嫌疑人更多信息披露](https://news.cctv.com/2025/09/29/ARTIyOP0kEgOTp26x2rlXRK6250929.shtml)
 
++ [韩国国家网络中心火灾致多项线上政府服务中断，李在明道歉](https://news.cctv.com/2025/09/29/ARTI3P2m5E9jQQTTmFoSTroB250929.shtml)
+
