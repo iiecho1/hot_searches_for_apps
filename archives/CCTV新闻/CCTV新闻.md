@@ -195,3 +195,5 @@
 
 + [俄乌战场“飞出”的无人机，为何让欧洲如此忧惧](https://news.cctv.com/2025/09/28/ARTIKR0oCi8LGQ6jxGByf2p4250928.shtml)
 
++ [10艘援助船驶向加沙 将加入“全球坚韧船队”](https://news.cctv.com/2025/09/28/ARTI1HIra0CRaBWqLDsjrCfh250928.shtml)
+

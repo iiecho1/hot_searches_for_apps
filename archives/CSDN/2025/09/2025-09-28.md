@@ -185,3 +185,21 @@
 
 + [用Spark+Django打造食物营养数据可视化分析系统](https://blog.csdn.net/2401_86677951/article/details/152179363)
 
++ [时序数据库选型指南：为什么IoTDB成为国内企业的优先选择？](https://blog.csdn.net/weixin_44976692/article/details/152209413)
+
++ [【愚公系列】《人工智能70年》048-生成式Al的辉煌与难题（人人都有大模型）](https://blog.csdn.net/aa2528877987/article/details/151897672)
+
++ [Boosting Over Bagging：利用梯度提升回归器提高预测精度](https://blog.csdn.net/2301_77485708/article/details/152179696)
+
++ [KingbaseES数据库SSL安全传输与数据完整性保护技术详解](https://blog.csdn.net/weixin_66401877/article/details/152209876)
+
++ [【完整源码+数据集+部署教程】辅助设备图像分割系统： yolov8-seg-rtdetr](https://blog.csdn.net/weixin_43860634/article/details/152206878)
+
++ [React Ref揭秘：直接操作DOM的“秘密通道“](https://blog.csdn.net/qq_48652579/article/details/152206862)
+
++ [【FPGA+DSP系列】——（1）CCS创建工程+LED点亮](https://blog.csdn.net/g_125487/article/details/152132909)
+
++ [【Day 68】Zabbix-自动监控-Web检测-分布式监控](https://blog.csdn.net/2301_81654480/article/details/152160224)
+
++ [Python 2025：云原生与容器化技术的新浪潮](https://blog.csdn.net/qq_65622609/article/details/152182083)
+
