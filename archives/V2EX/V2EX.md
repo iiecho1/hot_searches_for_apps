@@ -49,3 +49,5 @@
 
 + [Python 真的和 c 一样么](https://www.v2ex.com/t/1162294)
 
++ [apple care 服务值得购买吗？](https://www.v2ex.com/t/1162273)
+
