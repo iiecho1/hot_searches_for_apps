@@ -43,3 +43,15 @@
 
 + [安克推出 45W 带屏充电头：小方块造型带折叠插脚、支持连接苹果 iPhone / iPad 智能显示型号](https://m.ithome.com/html/886309.htm)
 
++ [微信鸿蒙版 App 开启 1.0.11.34 尝鲜升级，支持共享实时位置等功能](https://m.ithome.com/html/886474.htm)
+
++ [小米 17 系列手机「超级月亮」模式变聪明了：自动触发、支持直出高清月亮图](https://m.ithome.com/html/886470.htm)
+
++ [没有大下巴：一加 15 手机正面做到 1.15mm 超窄四等边](https://m.ithome.com/html/886424.htm)
+
++ [微信鸿蒙版 App 安装量突破 1800 万，已支持基础通讯、社交、支付等](https://m.ithome.com/html/886437.htm)
+
++ [苹果 iPhone Air 成功扩容 512GB 闪存，实测无法兼容市面上绝大多数 NAND](https://m.ithome.com/html/886485.htm)
+
++ [挑战 ASML，俄罗斯公布国产极紫外光刻设备长期路线图](https://m.ithome.com/html/886384.htm)
+

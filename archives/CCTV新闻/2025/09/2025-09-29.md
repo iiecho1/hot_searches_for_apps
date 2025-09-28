@@ -165,3 +165,7 @@
 
 + [无人机“疑云”笼罩欧洲多国 专家分析](https://news.cctv.com/2025/09/29/ARTIFn4nvD63E2Lttk0waY46250928.shtml)
 
++ [台风“博罗依”登陆越南河静省一带 部分地区断电断网](https://news.cctv.com/2025/09/29/ARTItInn8rdsxwGjUAzpG6BF250929.shtml)
+
++ [美国密歇根州枪击事件已致2死8伤 嫌疑人更多信息披露](https://news.cctv.com/2025/09/29/ARTIyOP0kEgOTp26x2rlXRK6250929.shtml)
+
