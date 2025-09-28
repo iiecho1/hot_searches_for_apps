@@ -181,3 +181,13 @@
 
 + [美国俄勒冈州州长：特朗普向当地派军是滥用职权](https://news.cctv.com/2025/09/28/ARTIoYgiLyS0IRwN6Ry4mOLv250928.shtml)
 
++ [扎波罗热核电站：已连续多日启用备用电源 电站情况可控](https://news.cctv.com/2025/09/28/ARTIVOnjfELEqRw2w7eTeW3T250928.shtml)
+
++ [北美观察丨72小时倒计时：两党僵持 美政府关门危机升级](https://news.cctv.com/2025/09/28/ARTIB0kMrqYFlnT0587Fy0h3250928.shtml)
+
++ [德国制药业批美滥施关税造成负面影响](https://news.cctv.com/2025/09/28/ARTIpM4gYlY82dFouzMrZJBO250928.shtml)
+
++ [通讯丨“这些倡议与我们心意相通”——记“大道同行——中国倡议与全球贡献”图片展](https://news.cctv.com/2025/09/28/ARTIDg5dpos5rwh85iKJ0fPt250928.shtml)
+
++ [专访丨与中国开展经济合作项目恰逢其时——访俄罗斯乌德穆尔特共和国经济部长斯卢金娜](https://news.cctv.com/2025/09/28/ARTI9luHyNmm8XspFd9Ze2ap250928.shtml)
+

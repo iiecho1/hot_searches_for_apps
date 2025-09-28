@@ -181,3 +181,7 @@
 
 + [Redis 解锁：C++ 实战深度探索 Set 数据类型](https://blog.csdn.net/2301_80863610/article/details/152178781)
 
++ [微信小程序 - 实现根据用户当前定位查询附近商家+在内置腾讯地图上标记点及信息展示完整示例源码，获取授权用户地理位置信息后，自定义展示位置附近的商圈/美食/店铺等并在地图上标记（地图展示标记自由灵活）](https://blog.csdn.net/weixin_44198965/article/details/152208430)
+
++ [用Spark+Django打造食物营养数据可视化分析系统](https://blog.csdn.net/2401_86677951/article/details/152179363)
+
