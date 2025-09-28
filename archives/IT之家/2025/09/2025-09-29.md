@@ -39,3 +39,7 @@
 
 + [iG 3:1 战胜 JDG 时隔六年再次代表 LPL 出征世界赛：S15 入围赛将对阵 T1](https://m.ithome.com/html/886288.htm)
 
++ [昔日苹果 iOS 必备的“越狱神器”，91 助手今日全面停止服务](https://m.ithome.com/html/886320.htm)
+
++ [安克推出 45W 带屏充电头：小方块造型带折叠插脚、支持连接苹果 iPhone / iPad 智能显示型号](https://m.ithome.com/html/886309.htm)
+
