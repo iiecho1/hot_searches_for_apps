@@ -181,3 +181,11 @@
 
 + [[免费]基于Python的在线音乐网站系统(后端Django)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/152257402)
 
++ [DooTask非营利性组织优惠：让高效协作触手可及](https://blog.csdn.net/weixin_43151418/article/details/152228526)
+
++ [金仓数据库替代MongoDB：电子证照系统国产化改造实战](https://blog.csdn.net/weixin_74809706/article/details/152125775)
+
++ [抖音小程序：解决获取手机号报错 getPhoneNumber:fail auth deny，登录注册时需要获取用户手机号，getPhoneNumber一直提示错误（Uniapp抖音小程序报错也能解决）](https://blog.csdn.net/weixin_50545213/article/details/152260051)
+
++ [学习：uniapp全栈微信小程序vue3后台（28）](https://blog.csdn.net/Nan_Shu_614/article/details/152034419)
+
