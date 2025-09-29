@@ -177,3 +177,7 @@
 
 + [Oracle与Kingbase深度兼容体验：从连接配置到性能优化全解析](https://blog.csdn.net/Dreamy_zsy/article/details/152180312)
 
++ [微信小程序 - 解决web-view嵌套H5网页白屏问题，将h5网页嵌套在webview页面出现无法加载一片空白，详解微信小程序＜web-view＞页面跳转出现白屏情况（无论本地还是线上H5都能解决）](https://blog.csdn.net/weixin_44198965/article/details/152255478)
+
++ [[免费]基于Python的在线音乐网站系统(后端Django)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/152257402)
+

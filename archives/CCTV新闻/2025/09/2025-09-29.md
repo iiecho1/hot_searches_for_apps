@@ -181,3 +181,9 @@
 
 + [美航一飞机起落架舱内发现偷渡者遗体](https://news.cctv.com/2025/09/29/ARTIXTheK76Dm7oQYQPMz5ga250929.shtml)
 
++ [孟加拉国今年以来已有192人死于登革热](https://news.cctv.com/2025/09/29/ARTIRVz24bcCbLYYkt18dpy7250929.shtml)
+
++ [摩尔多瓦执政党赢得议会选举](https://news.cctv.com/2025/09/29/ARTIFY2aqt3gftYCB859W1qa250929.shtml)
+
++ [万斯：美国正考虑向乌克兰提供“战斧”巡航导弹](https://news.cctv.com/2025/09/29/ARTIP2zDMnGIEXR03RElQBgN250929.shtml)
+
