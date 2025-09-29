@@ -47,3 +47,7 @@
 
 + [AMD Zen 6 处理器被曝将转向全新 D2D 互连设计，实现能效与延迟双突破](https://m.ithome.com/html/886509.htm)
 
++ [消息称 2025 年京东 11.11 双十一促销活动 10 月 9 日开启，主打“官方直降低至 1 折”](https://m.ithome.com/html/886525.htm)
+
++ [华为余承东：鸿蒙 5 终端设备已突破 2000 万](https://m.ithome.com/html/886543.htm)
+

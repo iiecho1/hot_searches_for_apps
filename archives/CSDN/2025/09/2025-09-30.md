@@ -133,3 +133,5 @@
 
 + [阿里云ECS服务器网站配置HTTPS连接](https://blog.csdn.net/duke_ding2/article/details/151965904)
 
++ [FPGA强化-简易频率计](https://blog.csdn.net/qq_64995796/article/details/152217578)
+
