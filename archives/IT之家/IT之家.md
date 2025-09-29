@@ -25,3 +25,17 @@
 
 + [苹果 iOS 版微信官宣：聊天支持发送实况图、误删对话记录 5 秒内可撤销](https://m.ithome.com/html/886550.htm)
 
++ [消息称除了华为 Mate 80 系列，其它家暂时没有「可变光圈」新机](https://m.ithome.com/html/886325.htm)
+
++ [雷军：小米 17 Pro Max 手机多门店已缺货，推荐大家试试 17 Pro](https://m.ithome.com/html/886364.htm)
+
++ [卢伟冰现身北京小米之家为小米 17 首批用户交付新机，透露 Pro Max 机型需求远超预期已安排提产](https://m.ithome.com/html/886297.htm)
+
++ [昔日苹果 iOS 必备的“越狱神器”，91 助手今日全面停止服务](https://m.ithome.com/html/886320.htm)
+
++ [消息称追觅汽车获超 150 亿元订单，中东及中亚经销商反馈热烈](https://m.ithome.com/html/886305.htm)
+
++ [安克推出 45W 带屏充电头：小方块造型带折叠插脚、支持连接苹果 iPhone / iPad 智能显示型号](https://m.ithome.com/html/886309.htm)
+
++ [挑战 ASML，俄罗斯公布国产极紫外光刻设备长期路线图](https://m.ithome.com/html/886384.htm)
+

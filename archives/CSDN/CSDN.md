@@ -101,3 +101,13 @@
 
 + [开源BI系统](https://blog.csdn.net/lonelymanontheway/article/details/151682930)
 
++ [【愚公系列】《人工智能70年》050-生成式Al的辉煌与难题（ChatGPT惹来风波）](https://blog.csdn.net/aa2528877987/article/details/151897748)
+
++ [【Linux 实战】从0到1手搓日志系统：附完整代码](https://blog.csdn.net/huangyuchi/article/details/152127594)
+
++ [基于Hadoop的美妆产品网络评价的数据采集与分析-django+spider](https://blog.csdn.net/shmp54xmu/article/details/152164562)
+
++ [简易分析慢 SQL 的流程和方法](https://blog.csdn.net/gyqailxj/article/details/152231487)
+
++ [【FPGA 开发分享】如何在 Vivado 中使用 PLL IP 核生成多路时钟](https://blog.csdn.net/m0_53439615/article/details/152219404)
+

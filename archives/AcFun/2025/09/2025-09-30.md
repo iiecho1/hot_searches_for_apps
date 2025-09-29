@@ -61,3 +61,9 @@
 
 + [Girls Day Expectation 期待 路演](https://m.acfun.cn/v/?ac=47869789)
 
++ [在我以为这次又没有视频时候万万没想到有个意料之外掌舵小姐姐的视角｜煮一壶生死悲欢祭少年郎～](https://m.acfun.cn/v/?ac=47871616)
+
++ [《EXID-Up&Down》 小艾](https://m.acfun.cn/v/?ac=47864914)
+
++ [辣晕了吧？！ 权恩妃-《Crazy in Love》直拍](https://m.acfun.cn/v/?ac=47871381)
+
