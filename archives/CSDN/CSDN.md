@@ -127,3 +127,9 @@
 
 + [【FPGA+DSP系列】——（2）DSP最小核心板进行ADC采样实验（采集电位器输出电压）](https://blog.csdn.net/g_125487/article/details/152217531)
 
++ [Apache IoTDB：为工业物联网数据打造的专属“智慧中枢](https://blog.csdn.net/qyj19920704/article/details/152208840)
+
++ [MySQL查询性能优化核心知识点总结](https://blog.csdn.net/2301_79840250/article/details/152224837)
+
++ [阿里云ECS服务器网站配置HTTPS连接](https://blog.csdn.net/duke_ding2/article/details/151965904)
+
