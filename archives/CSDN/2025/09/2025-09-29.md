@@ -169,3 +169,11 @@
 
 + [Spring Boot 启动时将数据库数据预加载到 Redis 缓存](https://blog.csdn.net/xiongwenhao6/article/details/152220541)
 
++ [【人金仓数据库产品体验官】深入解析金仓KingbaseES的Oracle兼容内核：一场无需迁移的深度对话](https://blog.csdn.net/weixin_44976692/article/details/152221672)
+
++ [【AI大模型前沿】DINOv3：Meta开源的自监督视觉模型，卫星/医疗/自拍全通杀，性能吊打CLIP全家桶](https://blog.csdn.net/xiaobing259/article/details/152045642)
+
++ [Elasticsearch 知识点详细总结](https://blog.csdn.net/weixin_62906774/article/details/152114132)
+
++ [Oracle与Kingbase深度兼容体验：从连接配置到性能优化全解析](https://blog.csdn.net/Dreamy_zsy/article/details/152180312)
+
