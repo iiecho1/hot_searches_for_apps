@@ -33,3 +33,17 @@
 
 + [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
++ [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
+
++ [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks)
+
++ [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+
++ [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+
++ [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber)
+
