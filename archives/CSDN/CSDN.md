@@ -151,3 +151,13 @@
 
 + [解决 Vite + React 项目部署 GitHub Pages 的完整指南：从 404 到成功部署](https://blog.csdn.net/wangyantao111/article/details/152175958)
 
++ [SQL 优化实战案例：从慢查询到高性能的完整指南](https://blog.csdn.net/qq_43414012/article/details/152088423)
+
++ [【深度学习计算机视觉】07：单发多框检测（SSD）](https://blog.csdn.net/Morse_Chen/article/details/152076846)
+
++ [Transformer实战（20）——微调Transformer语言模型进行问答任务](https://blog.csdn.net/LOVEmy134611/article/details/147880666)
+
++ [实践经验：统一需求入口的重要性](https://blog.csdn.net/weixin_46916369/article/details/152206859)
+
++ [2025Unity超详细《坦克大战3D》项目实战案例（上篇）——UI搭建并使用和数据持久化（附资源和源代码）](https://blog.csdn.net/MY_future_/article/details/152134576)
+

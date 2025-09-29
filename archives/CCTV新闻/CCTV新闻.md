@@ -177,3 +177,7 @@
 
 + [美国俄勒冈州和波特兰市起诉特朗普政府](https://news.cctv.com/2025/09/29/ARTICZEyAiA0EHWwDB4vT6Up250929.shtml)
 
++ [美俄勒冈州起诉特朗普政府“非法部署”国民警卫队](https://news.cctv.com/2025/09/29/ARTIaZiUVTkYShO9nQ1hEx17250929.shtml)
+
++ [美航一飞机起落架舱内发现偷渡者遗体](https://news.cctv.com/2025/09/29/ARTIXTheK76Dm7oQYQPMz5ga250929.shtml)
+
