@@ -145,3 +145,13 @@
 
 + [ya](https://m.acfun.cn/v/?ac=47868992)
 
++ [【A站首发】垃圾佬每月硬件排行榜之全新CPU价格性能排行榜【2025年10月】](https://m.acfun.cn/v/?ac=47871799)
+
++ [叮～雪山小精灵苏醒了【踏雪归集·昭昭】](https://m.acfun.cn/v/?ac=47870416)
+
++ [巨蛇王朝&新蛇类的黎明](https://m.acfun.cn/v/?ac=47871271)
+
++ [Girls Day Expectation 期待 路演](https://m.acfun.cn/v/?ac=47869789)
+
++ [依神女苑cos存档](https://m.acfun.cn/v/?ac=47868790)
+
