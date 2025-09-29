@@ -39,3 +39,11 @@
 
 + [挑战 ASML，俄罗斯公布国产极紫外光刻设备长期路线图](https://m.ithome.com/html/886384.htm)
 
++ [WPS PC 版（12.9.0）开启苹果 iPad 测试，网友称功能非常齐全、运作很流畅](https://m.ithome.com/html/886504.htm)
+
++ [OPPO Find X9 系列手机影像技术提前解锁：LUMO 超像素引擎、哈苏 2 亿超清镜头等](https://m.ithome.com/html/886524.htm)
+
++ [别克至境 L7 车型 16.99-21.59 万元正式上市 ：首发高通 8775 芯片、Momenta R6 飞轮大模型](https://m.ithome.com/html/886487.htm)
+
++ [AMD Zen 6 处理器被曝将转向全新 D2D 互连设计，实现能效与延迟双突破](https://m.ithome.com/html/886509.htm)
+

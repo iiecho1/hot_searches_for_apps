@@ -161,3 +161,9 @@
 
 + [埃及西部省一服装厂发生火灾 致7死30伤](https://news.cctv.com/2025/09/26/ARTIcaxjGSONwuRmOXVEuisW250926.shtml)
 
++ [德国考虑禁止16岁以下人群使用社交媒体](https://news.cctv.com/2025/09/30/ARTIsnjUrEPjf6jXidH1vDO6250930.shtml)
+
++ [美政府“停摆”危机逼近　两党“极限拉扯”恐遭政治反噬](https://news.cctv.com/2025/09/30/ARTIkScNYsg8Z9SeJYG9qCkf250929.shtml)
+
++ [内塔尼亚胡就袭击卡塔尔事件向卡方道歉](https://news.cctv.com/2025/09/30/ARTI7v4TEQ8U5ymWoFv8QT4x250930.shtml)
+

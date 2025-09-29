@@ -111,3 +111,19 @@
 
 + [【FPGA 开发分享】如何在 Vivado 中使用 PLL IP 核生成多路时钟](https://blog.csdn.net/m0_53439615/article/details/152219404)
 
++ [Apache Apache IoTDB 全场景部署指南：从环境配置到单机 / 集群实战（基于 Docker 与原生部署）](https://blog.csdn.net/weixin_43151418/article/details/152176989)
+
++ [深度学习（十三）：向量化与矩阵化](https://blog.csdn.net/www_dong/article/details/152231854)
+
++ [Elasticsearch 插件用于 UBI：在 Kibana 中分析用户数据](https://blog.csdn.net/UbuntuTouch/article/details/152159534)
+
++ [SpringAI工具调用原理解析](https://blog.csdn.net/Candy___i/article/details/152230380)
+
++ [基于微信小程序的智能在线预约挂号系统【2026最新】](https://blog.csdn.net/2301_78335941/article/details/152174997)
+
++ [XC7A100T-2CSG324I 赛灵思 Xilinx AMD Artix-7 FPGA](https://blog.csdn.net/2403_90082736/article/details/152185620)
+
++ [ACP（十二）构建坚不可摧的AI应用：安全与合规](https://blog.csdn.net/weixin_44730244/article/details/152092012)
+
++ [【FPGA+DSP系列】——（2）DSP最小核心板进行ADC采样实验（采集电位器输出电压）](https://blog.csdn.net/g_125487/article/details/152217531)
+
