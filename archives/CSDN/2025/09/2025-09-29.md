@@ -193,3 +193,11 @@
 
 + [使用Pandas自动化数据清洗流程](https://blog.csdn.net/2301_77485708/article/details/152257237)
 
++ [Transformer模型：深度解析自然语言处理的革命性架构](https://blog.csdn.net/2301_80863610/article/details/152256419)
+
++ [Qwen3-VL-235B-A22B-Instruct：阿里开源最强视觉语言模型详解](https://blog.csdn.net/Liudef06/article/details/152127317)
+
++ [用deepseek部署全自动的机器人--bytebot](https://blog.csdn.net/ahe168/article/details/152232015)
+
++ [Unity 单元测试框架用法](https://blog.csdn.net/2402_83411382/article/details/152233766)
+

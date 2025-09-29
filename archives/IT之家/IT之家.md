@@ -63,3 +63,17 @@
 
 + [一加 15 手机开启预约：首发“航天级纳米瓷金属”中框，第五代骁龙 8 至尊版 + 165Hz 高刷屏](https://m.ithome.com/html/886369.htm)
 
++ [WPS PC 版（12.9.0）开启苹果 iPad 测试，网友称功能非常齐全、运作很流畅](https://m.ithome.com/html/886504.htm)
+
++ [鸿蒙 5 终端设备数量破 2000 万：华为推出“鸿蒙有礼特别版”致谢用户，覆盖吃喝玩乐等专属权益](https://m.ithome.com/html/886546.htm)
+
++ [苹果零售店采取措施，解决 iPhone 17 系列展示机刮痕问题](https://m.ithome.com/html/886517.htm)
+
++ [苹果 iOS 版微信官宣：聊天支持发送实况图、误删对话记录 5 秒内可撤销](https://m.ithome.com/html/886550.htm)
+
++ [OPPO Find X9 系列手机影像技术提前解锁：LUMO 超像素引擎、哈苏 2 亿超清镜头等](https://m.ithome.com/html/886524.htm)
+
++ [别克至境 L7 车型 16.99-21.59 万元正式上市 ：首发高通 8775 芯片、Momenta R6 飞轮大模型](https://m.ithome.com/html/886487.htm)
+
++ [AMD Zen 6 处理器被曝将转向全新 D2D 互连设计，实现能效与延迟双突破](https://m.ithome.com/html/886509.htm)
+

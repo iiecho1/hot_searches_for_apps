@@ -191,3 +191,9 @@
 
 + [马耳他举行国际航展](https://photo.cctv.com/2025/09/29/PHOAM1K2OmAeejqBneh4Ydpz250929.shtml)
 
++ [埃及北部发生一起交通事故 致8死14伤](https://news.cctv.com/2025/09/29/ARTIcIop9yUAvxJ5QIUAsemh250929.shtml)
+
++ [美国对加沙停火表示“乐观” 以色列猛攻未停](https://news.cctv.com/2025/09/29/ARTIjtc90xokTX5hizfnnoSq250929.shtml)
+
++ [欧盟重启对伊朗制裁措施](https://news.cctv.com/2025/09/29/ARTIgst7vWdPK8rG33zvtSUp250929.shtml)
+
