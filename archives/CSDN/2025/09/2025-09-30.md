@@ -135,3 +135,9 @@
 
 + [FPGA强化-简易频率计](https://blog.csdn.net/qq_64995796/article/details/152217578)
 
++ [2025年开源AI项目智能体工作流框架和应用平台推荐](https://blog.csdn.net/hardworkman/article/details/152161314)
+
++ [深度学习激活函数：从 Sigmoid 到 GELU 的演变历程](https://blog.csdn.net/2401_88885149/article/details/151011284)
+
++ [2025年的 Crate 安全：工具与技术 (RustConf China 2025系列精选)](https://blog.csdn.net/techdashen/article/details/152165897)
+

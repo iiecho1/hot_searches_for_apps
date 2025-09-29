@@ -51,3 +51,15 @@
 
 + [华为余承东：鸿蒙 5 终端设备已突破 2000 万](https://m.ithome.com/html/886543.htm)
 
++ [小米 17 Pro / Max 手机维修备件价格公布：电池 199 元，显示屏 990 元起](https://m.ithome.com/html/886692.htm)
+
++ [消息称苹果 iPhone 17e 手机将“挤牙膏”：搭 60Hz 灵动岛屏幕、48MP 单摄](https://m.ithome.com/html/886741.htm)
+
++ [DeepSeek-V3.2-Exp 模型正式发布并开源，API 大幅降价](https://m.ithome.com/html/886710.htm)
+
++ [11 人被判死刑，缅北“明家”电信诈骗犯罪集团案一审宣判](https://m.ithome.com/html/886681.htm)
+
++ [王化称小米 17 系列目前没有任何削减订单的计划，产品的结构配比会发生改变](https://m.ithome.com/html/886667.htm)
+
++ [手机厂商海报小字引发热议，魅族万志强称都是为了遵循法规、产品观中包含价值观](https://m.ithome.com/html/886654.htm)
+
