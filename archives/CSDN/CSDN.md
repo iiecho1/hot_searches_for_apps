@@ -213,3 +213,9 @@
 
 + [Go 和云原生 的现状和发展前景](https://blog.csdn.net/come11234/article/details/152227015)
 
++ [【征文计划】从掌心到像素：深度解析Rokid UXR 2.0的手势识别与自定义交互实战](https://blog.csdn.net/weixin_44976692/article/details/152272385)
+
++ [爬虫逆向——RPC技术](https://blog.csdn.net/ningmengjing_/article/details/151831859)
+
++ [开源BI系统](https://blog.csdn.net/lonelymanontheway/article/details/151682930)
+
