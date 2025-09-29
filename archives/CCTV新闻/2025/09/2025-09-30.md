@@ -167,3 +167,7 @@
 
 + [内塔尼亚胡就袭击卡塔尔事件向卡方道歉](https://news.cctv.com/2025/09/30/ARTI7v4TEQ8U5ymWoFv8QT4x250930.shtml)
 
++ [第80届联合国大会一般性辩论闭幕](https://news.cctv.com/2025/09/30/ARTImR37MX7w91JJHLzeOPLV250930.shtml)
+
++ [欧盟委员会拟提出“防务备战路线图”](https://news.cctv.com/2025/09/30/ARTI5pKPiSB9nWIqa4Nw7pQc250930.shtml)
+
