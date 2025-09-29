@@ -23,3 +23,5 @@
 
 + [ColorOS 系统短信漏洞，以及用户自救方案](https://www.v2ex.com/t/1162349)
 
++ [都在骂小米抄袭，我想问下当初 oppo 有人骂吗](https://www.v2ex.com/t/1162447)
+

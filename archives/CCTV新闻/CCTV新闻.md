@@ -171,3 +171,5 @@
 
 + [韩国国家网络中心火灾致多项线上政府服务中断，李在明道歉](https://news.cctv.com/2025/09/29/ARTI3P2m5E9jQQTTmFoSTroB250929.shtml)
 
++ [韩国面向中国团体游客免签入境政策今起试行](https://news.cctv.com/2025/09/29/ARTISKwsIbfS5aIU65sHTQaQ250929.shtml)
+
