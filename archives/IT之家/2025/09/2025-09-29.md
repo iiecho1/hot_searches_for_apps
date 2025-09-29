@@ -55,3 +55,11 @@
 
 + [挑战 ASML，俄罗斯公布国产极紫外光刻设备长期路线图](https://m.ithome.com/html/886384.htm)
 
++ [东方卫视、江苏卫视、浙江卫视、山东卫视、湖南卫视、四川卫视 4K 超高清频道正式开播](https://m.ithome.com/html/886494.htm)
+
++ [苹果 iPad 开启 WPS PC 版（12.9.0）测试，网友称功能非常齐全、运作很流畅](https://m.ithome.com/html/886504.htm)
+
++ [古尔曼：苹果首批 M5 款 MacBook Pro / Air 及两款全新显示器接近量产，iPhone 17e 与新 iPad 明年上半年登场](https://m.ithome.com/html/886502.htm)
+
++ [一加 15 手机开启预约：首发“航天级纳米瓷金属”中框，第五代骁龙 8 至尊版 + 165Hz 高刷屏](https://m.ithome.com/html/886369.htm)
+

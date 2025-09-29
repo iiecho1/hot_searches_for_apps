@@ -173,3 +173,7 @@
 
 + [韩国面向中国团体游客免签入境政策今起试行](https://news.cctv.com/2025/09/29/ARTISKwsIbfS5aIU65sHTQaQ250929.shtml)
 
++ [韩国647项政府行政信息服务因火灾中断 目前已恢复46项](https://news.cctv.com/2025/09/29/ARTISr4aQB5wA1FYuWCC3kKF250929.shtml)
+
++ [美国俄勒冈州和波特兰市起诉特朗普政府](https://news.cctv.com/2025/09/29/ARTICZEyAiA0EHWwDB4vT6Up250929.shtml)
+

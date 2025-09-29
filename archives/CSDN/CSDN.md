@@ -149,3 +149,5 @@
 
 + [基于微信小程序的智能在线预约挂号系统【2026最新】](https://blog.csdn.net/2301_78335941/article/details/152174997)
 
++ [解决 Vite + React 项目部署 GitHub Pages 的完整指南：从 404 到成功部署](https://blog.csdn.net/wangyantao111/article/details/152175958)
+
