@@ -219,3 +219,15 @@
 
 + [开源BI系统](https://blog.csdn.net/lonelymanontheway/article/details/151682930)
 
++ [QAxios研发笔记（一）：在Qt环境下,构建Promise风格的Get请求接口](https://blog.csdn.net/2503_92624912/article/details/152266061)
+
++ [汽车雷达在多径存在下的幽灵目标检测——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152167816)
+
++ [C++之基于正倒排索引的Boost搜索引擎项目usuallytool部分代码及详解](https://blog.csdn.net/fyy31/article/details/152272353)
+
++ [二阶可降阶微分方程的求解方法总结](https://blog.csdn.net/qiantianye/article/details/152231841)
+
++ [告别内网困局：cpolar破解Websocket远程访问难题](https://blog.csdn.net/weixin_62782025/article/details/152272892)
+
++ [React 和 Vue 如何选择？（2026 年）](https://blog.csdn.net/weixin_42335036/article/details/148480322)
+
