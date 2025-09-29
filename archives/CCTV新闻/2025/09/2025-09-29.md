@@ -197,3 +197,7 @@
 
 + [欧盟重启对伊朗制裁措施](https://news.cctv.com/2025/09/29/ARTIgst7vWdPK8rG33zvtSUp250929.shtml)
 
++ [南非北部发生交通事故 造成13人死亡](https://news.cctv.com/2025/09/29/ARTIjRSw9AhXAELRMEA496CH250929.shtml)
+
++ [伊朗外交部发言人回应欧美恢复对伊制裁：毫无正当性且非法](https://news.cctv.com/2025/09/29/ARTIyjxwkjkdOIxb5v3wjIVO250929.shtml)
+

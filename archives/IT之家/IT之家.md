@@ -77,3 +77,5 @@
 
 + [AMD Zen 6 处理器被曝将转向全新 D2D 互连设计，实现能效与延迟双突破](https://m.ithome.com/html/886509.htm)
 
++ [零跑汽车创始人朱江明回应被“限高”：今天已解除，风波暴露团队不足](https://m.ithome.com/html/886413.htm)
+

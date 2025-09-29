@@ -201,3 +201,9 @@
 
 + [Unity 单元测试框架用法](https://blog.csdn.net/2402_83411382/article/details/152233766)
 
++ [Java外功精要(2)——Spring IoC&DI](https://blog.csdn.net/2401_89167985/article/details/152145330)
+
++ [基于蓝耘元生代MaaS平台调用DeepSeek-V3.1-Terminus模型的HTML实战Demo](https://blog.csdn.net/Liudef06/article/details/152259340)
+
++ [【Linux操作系统】简学深悟启示录：动静态库](https://blog.csdn.net/Zero_VPN/article/details/152165278)
+
