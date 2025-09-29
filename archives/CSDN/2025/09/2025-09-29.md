@@ -161,3 +161,11 @@
 
 + [2025Unity超详细《坦克大战3D》项目实战案例（上篇）——UI搭建并使用和数据持久化（附资源和源代码）](https://blog.csdn.net/MY_future_/article/details/152134576)
 
++ [【愚公系列】《人工智能70年》050-生成式Al的辉煌与难题（ChatGPT惹来风波）](https://blog.csdn.net/aa2528877987/article/details/151897748)
+
++ [Kafka抛弃Zookeeper的内幕：从依赖到自立的技术革命](https://blog.csdn.net/qq_44378083/article/details/149339588)
+
++ [Mermaid图表浏览器兼容性实战：从Edge到猎豹的降级解决方案](https://blog.csdn.net/eidolon_foot/article/details/151991733)
+
++ [Spring Boot 启动时将数据库数据预加载到 Redis 缓存](https://blog.csdn.net/xiongwenhao6/article/details/152220541)
+
