@@ -197,3 +197,7 @@
 
 + [数据显示日本10月将有逾3000种食品涨价](https://news.cctv.com/2025/09/30/ARTIMKvZcjpFtZBuoOEWfvwj250930.shtml)
 
++ [“在中国待得时间越久，我就越热爱中国”——访突尼斯中文翻译柯仁睦](https://news.cctv.com/2025/09/30/ARTIyR4yt7GYUeAVk2N3J17t250930.shtml)
+
++ [多国领导人盛赞中国非凡发展成就 期待携手共创繁荣未来](https://news.cctv.com/2025/09/30/ARTIwVYXFUBRARBznvvfrUVJ250930.shtml)
+
