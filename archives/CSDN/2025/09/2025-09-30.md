@@ -205,3 +205,5 @@
 
 + [Oracle与Kingbase深度兼容体验：从连接配置到性能优化全解析](https://blog.csdn.net/Dreamy_zsy/article/details/152180312)
 
++ [金融AI智能体投资决策的低代码搭建：架构师的实操指南](https://blog.csdn.net/universsky2015/article/details/152325318)
+
