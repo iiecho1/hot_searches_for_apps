@@ -177,3 +177,5 @@
 
 + [GitHub 热榜项目 - 日榜(2025-09-28)](https://blog.csdn.net/u014390502/article/details/152206366)
 
++ [如何用 Claude Code 搭建安全、可测、可自动化的 GitHub CI 流程？](https://blog.csdn.net/chaofan980/article/details/152272203)
+

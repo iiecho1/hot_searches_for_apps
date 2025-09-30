@@ -105,3 +105,7 @@
 
 + [网络上常见的热门短视频集锦   第两千七百三十期](https://m.acfun.cn/v/?ac=47872238)
 
++ [【Justin Bieber】Heartbreaker](https://m.acfun.cn/v/?ac=47841570)
+
++ [一横一竖，都是中国功夫！](https://m.acfun.cn/v/?ac=47871649)
+
