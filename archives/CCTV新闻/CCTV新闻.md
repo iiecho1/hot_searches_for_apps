@@ -171,3 +171,7 @@
 
 + [欧盟委员会拟提出“防务备战路线图”](https://news.cctv.com/2025/09/30/ARTI5pKPiSB9nWIqa4Nw7pQc250930.shtml)
 
++ [特朗普宣布以色列同意加沙“20点计划” 内容曝光](https://news.cctv.com/2025/09/30/ARTImTzFrOy5ShOixOjWTQ2c250930.shtml)
+
++ [警惕！韩媒：美军证实在韩国正式部署MQ-9“死神”无人机](https://news.cctv.com/2025/09/30/ARTItzgQWDHPNTuEWttDD3A2250930.shtml)
+
