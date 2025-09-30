@@ -131,3 +131,5 @@
 
 + [手势检测（充满科技感）](https://blog.csdn.net/weixin_73958875/article/details/152281518)
 
++ [AI 自动化测试：接口测试全流程自动化的实现方法](https://blog.csdn.net/qq_41187124/article/details/152272902)
+
