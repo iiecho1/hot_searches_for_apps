@@ -167,3 +167,13 @@
 
 + [鸿蒙（HarmonyOS）应用开发技能栈](https://blog.csdn.net/u011732210/article/details/152234038)
 
++ [《C++：从代码到机器》：vector 的坑只有 C++ 党懂？介绍使用 + 深度剖析 + 模拟实现，帮你全避开](https://blog.csdn.net/2403_88424194/article/details/152176418)
+
++ [RabbitMQ的“死信“快递站：无法路由的消息去哪了](https://blog.csdn.net/qq_44378083/article/details/149339731)
+
++ [Nacos 3.1.0 正式发布，支持A2A注册中心与MCP注册协议增强](https://blog.csdn.net/lilinhai548/article/details/152267037)
+
++ [基于KingbaseES的迁移与高并发优化方案](https://blog.csdn.net/mrdeam/article/details/152265508)
+
++ [GitHub 热榜项目 - 日榜(2025-09-28)](https://blog.csdn.net/u014390502/article/details/152206366)
+
