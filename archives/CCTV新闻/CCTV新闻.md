@@ -175,3 +175,5 @@
 
 + [警惕！韩媒：美军证实在韩国正式部署MQ-9“死神”无人机](https://news.cctv.com/2025/09/30/ARTItzgQWDHPNTuEWttDD3A2250930.shtml)
 
++ [数据中心火灾致大量业务停摆 李在明下令彻查韩政府数据系统缺陷](https://news.cctv.com/2025/09/30/ARTIKVlojlYbu3LmpTLC5Z0G250930.shtml)
+
