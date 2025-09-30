@@ -207,3 +207,9 @@
 
 + [金融AI智能体投资决策的低代码搭建：架构师的实操指南](https://blog.csdn.net/universsky2015/article/details/152325318)
 
++ [深度学习：池化（Pooling）](https://blog.csdn.net/qq_34941290/article/details/152280262)
+
++ [【AI大模型前沿】VibeVoice：微软开源7B模型，跨语言、多说话人、长文本一次到位](https://blog.csdn.net/xiaobing259/article/details/152230213)
+
++ [【Linux】进程的概念和状态](https://blog.csdn.net/2401_85054434/article/details/152207626)
+
