@@ -197,3 +197,11 @@
 
 + [ETL调度最佳实践：避免高峰期任务冲突与资源争抢](https://blog.csdn.net/RestCloud/article/details/152227244)
 
++ [【花雕动手做】HUSKYLENS 2 AI 相机视觉传感器 ( 二哈识图 2) 之车牌识别](https://blog.csdn.net/weixin_41659040/article/details/152306852)
+
++ [Elasticsearch 6.8.23 集群高IO问题排查与优化指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/152323162)
+
++ [FPGA强化-DDS信号发生器](https://blog.csdn.net/qq_64995796/article/details/152276249)
+
++ [Oracle与Kingbase深度兼容体验：从连接配置到性能优化全解析](https://blog.csdn.net/Dreamy_zsy/article/details/152180312)
+

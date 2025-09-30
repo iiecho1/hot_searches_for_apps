@@ -77,3 +77,13 @@
 
 + [卢伟冰透露小米 17 系列目标在 6K+ 超高端起量，称有信心销量会比上代小米 15 系列更多](https://m.ithome.com/html/886663.htm)
 
++ [【IT之家评测室】小米 17 Pro / Pro Max 手机体验：高端体验全面进化，兼具差异化和辨识度](https://m.ithome.com/html/886844.htm)
+
++ [46.59 万元起极氪 9X 豪华旗舰 SUV 上市：16 项全球首发、零百加速 3 秒级、纯电续航 380km](https://m.ithome.com/html/886736.htm)
+
++ [三星 Galaxy Ring 智能戒指突发电池鼓包，用户手指被卡住紧急送医](https://m.ithome.com/html/886840.htm)
+
++ [115 亿元，赛力斯已向华为支付完毕购买引望 10% 股权的全部对价](https://m.ithome.com/html/886737.htm)
+
++ [消息称华为将推出超薄手机：搭 eSIM 匹配全新麒麟芯片、提供 2TB 版本](https://m.ithome.com/html/886914.htm)
+
