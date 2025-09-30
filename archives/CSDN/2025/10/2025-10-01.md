@@ -101,3 +101,13 @@
 
 + [鸿蒙（HarmonyOS）应用开发技能栈](https://blog.csdn.net/u011732210/article/details/152234038)
 
++ [【愚公系列】《人工智能70年》051-生成式Al的辉煌与难题（大模型的幻觉与偏见）](https://blog.csdn.net/aa2528877987/article/details/151897773)
+
++ [瑞芯微 | RK3568设备树文件整理](https://blog.csdn.net/daocaokafei/article/details/151763300)
+
++ [S7-200 SMART 开放式用户通信（OUC）深度指南：TCP/ISO-on-TCP（上）](https://blog.csdn.net/qq_41939260/article/details/152009029)
+
++ [Oracle数据库移植到KingbaseES实战指南：从准备到落地的全流程解析](https://blog.csdn.net/qq_57761637/article/details/152274752)
+
++ [【金仓数据库产品体验官】Oracle兼容性深度体验：从SQL到PL/SQL，金仓KingbaseES如何无缝平替Oracle？](https://blog.csdn.net/beautifulmemory/article/details/152185338)
+

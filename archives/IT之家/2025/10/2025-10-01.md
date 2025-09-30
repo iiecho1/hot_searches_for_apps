@@ -25,3 +25,13 @@
 
 + [消息称华为将推出超薄手机：搭 eSIM 匹配全新麒麟芯片、提供 2TB 版本](https://m.ithome.com/html/886914.htm)
 
++ [小米 17 Pro / Max 手机维修备件价格公布：电池 199 元，显示屏 990 元起](https://m.ithome.com/html/886692.htm)
+
++ [11 人被判死刑，缅北“明家”电信诈骗犯罪集团案一审宣判](https://m.ithome.com/html/886681.htm)
+
++ [手机厂商海报小字引发热议，魅族万志强称都是为了遵循法规、产品观中包含价值观](https://m.ithome.com/html/886654.htm)
+
++ [王化称小米 17 系列目前没有任何削减订单的计划，产品的结构配比会发生改变](https://m.ithome.com/html/886667.htm)
+
++ [卢伟冰透露小米 17 系列目标在 6K+ 超高端起量，称有信心销量会比上代小米 15 系列更多](https://m.ithome.com/html/886663.htm)
+
