@@ -183,3 +183,9 @@
 
 + [精读C++20设计模式——结构型设计模式：代理模式](https://blog.csdn.net/charlie114514191/article/details/152267055)
 
++ [MGR是什么？MYSQL集群方案有哪些？MySQL Group Replication分布式一致性架构实战解析](https://blog.csdn.net/qq_42055933/article/details/152226236)
+
++ [如何在 vscode 里配置 MCP 并连接到 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/150492245)
+
++ [Python 2025：网络安全与智能防御新范式](https://blog.csdn.net/qq_65622609/article/details/152217891)
+

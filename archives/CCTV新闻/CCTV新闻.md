@@ -181,3 +181,19 @@
 
 + [医院运营基本恢复 韩国拟下调医疗系统危机级别](https://news.cctv.com/2025/09/30/ARTI1vmxN3og4G73Aq5DQ1iV250930.shtml)
 
++ [中国展台精彩亮相巴黎国际旅游专业展——“多彩中国，值得探索”](https://news.cctv.com/2025/09/30/ARTIBP9ixrWTNOPznk44foHi250930.shtml)
+
++ [欧盟将向乌克兰支付20亿欧元用于无人机生产](https://news.cctv.com/2025/09/30/ARTIUT8TFleSrtJR3NTLZ8jW250930.shtml)
+
++ [法国、德国、瑞典将向丹麦派遣军事人员协助安保](https://news.cctv.com/2025/09/30/ARTIjMJTCYBXHsC1Kc3Z9hg4250930.shtml)
+
++ [印尼一学校建筑倒塌 已致3人死亡38人失踪](https://news.cctv.com/2025/09/30/ARTICgfPt6Xc99QzAW2DPPgl250930.shtml)
+
++ [阿富汗全国网络通信服务大面积中断 进出航班暂停](https://news.cctv.com/2025/09/30/ARTI2ET6fvArnJrf2JuTckMN250930.shtml)
+
++ [泽连斯基称已从“乌克兰优先需求清单”机制筹集20亿美元](https://news.cctv.com/2025/09/30/ARTIFvBdplc95jj8frmzO0UX250930.shtml)
+
++ [一货船出现故障 土耳其博斯普鲁斯海峡双向停航](https://news.cctv.com/2025/09/30/ARTICTkf3dR4EvVabrrVwbw4250930.shtml)
+
++ [数据显示日本10月将有逾3000种食品涨价](https://news.cctv.com/2025/09/30/ARTIMKvZcjpFtZBuoOEWfvwj250930.shtml)
+
