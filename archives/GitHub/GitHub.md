@@ -33,3 +33,25 @@
 
 + [sst/opencode](https://github.com/sst/opencode)
 
++ [nextcloud/server](https://github.com/nextcloud/server)
+
++ [typst/typst](https://github.com/typst/typst)
+
++ [fastapi/fastapi](https://github.com/fastapi/fastapi)
+
++ [juliangarnier/anime](https://github.com/juliangarnier/anime)
+
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+
++ [cjpais/Handy](https://github.com/cjpais/Handy)
+
++ [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)
+
