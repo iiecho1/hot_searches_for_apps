@@ -49,3 +49,9 @@
 
 + [小米 REDMI K90 手机跑分曝光：高通骁龙 8 至尊版芯片、16GB 内存](https://m.ithome.com/html/886865.htm)
 
++ [鸿蒙 5 终端设备数量破 2000 万：华为推出“鸿蒙有礼特别版”致谢用户，覆盖吃喝玩乐等专属权益](https://m.ithome.com/html/886546.htm)
+
++ [苹果 iOS 版微信官宣：聊天支持发送实况图、误删对话记录 5 秒内可撤销](https://m.ithome.com/html/886550.htm)
+
++ [华为余承东：鸿蒙 5 终端设备已突破 2000 万](https://m.ithome.com/html/886543.htm)
+
