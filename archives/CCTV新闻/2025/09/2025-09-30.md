@@ -177,3 +177,7 @@
 
 + [数据中心火灾致大量业务停摆 李在明下令彻查韩政府数据系统缺陷](https://news.cctv.com/2025/09/30/ARTIKVlojlYbu3LmpTLC5Z0G250930.shtml)
 
++ [印尼一学校建筑物倒塌至少1人死亡](https://news.cctv.com/2025/09/30/ARTIlrpAPJ3gdKZdswAV3TQo250930.shtml)
+
++ [医院运营基本恢复 韩国拟下调医疗系统危机级别](https://news.cctv.com/2025/09/30/ARTI1vmxN3og4G73Aq5DQ1iV250930.shtml)
+
