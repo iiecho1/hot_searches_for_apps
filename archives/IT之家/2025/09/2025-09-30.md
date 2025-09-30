@@ -65,3 +65,15 @@
 
 + [一加 15 手机开启预约：首发“航天级纳米瓷金属”中框，第五代骁龙 8 至尊版 + 165Hz 高刷屏](https://m.ithome.com/html/886369.htm)
 
++ [苹果 iOS / iPadOS 26.0.1 发布，修复 iPhone 17 系列无线偶尔断连等故障](https://m.ithome.com/html/886762.htm)
+
++ [163 页苹果 iPhone 16e 机密设计原理图泄露，CPU、GPU“全盘托出”](https://m.ithome.com/html/886770.htm)
+
++ [550 亿美元行业巨震！美国游戏巨头 EA 被沙特基金、特朗普女婿等财团收购](https://m.ithome.com/html/886739.htm)
+
++ [腾讯客服回应朋友圈照片变清晰：近期在界面显示方面进行了多项优化](https://m.ithome.com/html/886724.htm)
+
++ [长城汽车魏建军再谈“车圈恒大”：被资本裹挟，现在大家事实上都是亏着钱卖](https://m.ithome.com/html/886701.htm)
+
++ [卢伟冰透露小米 17 系列目标在 6K+ 超高端起量，称有信心销量会比上代小米 15 系列更多](https://m.ithome.com/html/886663.htm)
+
