@@ -147,3 +147,11 @@
 
 + [路由对决：Vue Router vs React Router，谁是你的菜？](https://blog.csdn.net/qq_48652579/article/details/152252802)
 
++ [文件扩展名.js .jsx .ts .tsx区别（JavaScript扩展名、React扩展名、TypeScript扩展名）](https://blog.csdn.net/Dontla/article/details/152283814)
+
++ [Socket 编程 TCP(准备阶段)](https://blog.csdn.net/sqm_C/article/details/151754815)
+
++ [【金仓数据库产品体验官】Oracle兼容性深度体验：从SQL到PL/SQL，金仓KingbaseES如何无缝平替Oracle？](https://blog.csdn.net/beautifulmemory/article/details/152185338)
+
++ [S7-200 SMART 开放式用户通信（OUC）深度指南：TCP/ISO-on-TCP编程（下）](https://blog.csdn.net/qq_41939260/article/details/152283015)
+

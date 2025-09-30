@@ -81,3 +81,7 @@
 
 + [2025年9月末，俄罗斯装甲机械公司推出新型轻型装甲车“军团”](https://m.acfun.cn/v/?ac=47869981)
 
++ [外热内齁型 ](https://m.acfun.cn/v/?ac=47872528)
+
++ [Dal★Shabet Joker 路演](https://m.acfun.cn/v/?ac=47869725)
+
