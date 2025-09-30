@@ -35,3 +35,17 @@
 
 + [卢伟冰透露小米 17 系列目标在 6K+ 超高端起量，称有信心销量会比上代小米 15 系列更多](https://m.ithome.com/html/886663.htm)
 
++ [华为发布鸿蒙智选 Logo：由缩写 HS（HarmonyOS Select）演变而来，用圆环勾勒出象征鸿蒙生态的包容万象](https://m.ithome.com/html/886988.htm)
+
++ [小米汽车回应超强钢小字标注为“项目名称”：行业通行做法，不影响本身性能](https://m.ithome.com/html/886984.htm)
+
++ [今年第四批 690 亿元“国补”资金下达，支持消费品以旧换新](https://m.ithome.com/html/886944.htm)
+
++ [华为“鸿蒙有礼特别版”今日上线，活动期间每天可领 10 元优惠券](https://m.ithome.com/html/886948.htm)
+
++ [原型机曝光：苹果曾计划推出 8GB 存储平价 iPad](https://m.ithome.com/html/886784.htm)
+
++ [公安部网安局公布一起非法“刷机”案：涉案人员为大量非法来源手机提供系统重装、解锁等服务](https://m.ithome.com/html/886812.htm)
+
++ [小米 REDMI K90 手机跑分曝光：高通骁龙 8 至尊版芯片、16GB 内存](https://m.ithome.com/html/886865.htm)
+

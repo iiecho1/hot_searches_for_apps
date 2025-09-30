@@ -111,3 +111,21 @@
 
 + [【金仓数据库产品体验官】Oracle兼容性深度体验：从SQL到PL/SQL，金仓KingbaseES如何无缝平替Oracle？](https://blog.csdn.net/beautifulmemory/article/details/152185338)
 
++ [我的第一个开源项目：柳墨丹青——为魔搭社区打造的移动友好AI图像生成WebUI](https://blog.csdn.net/Liudef06/article/details/152322558)
+
++ [Java 大视界 -- Java 大数据机器学习模型在电商产品销量预测与库存优化管理中的应用](https://blog.csdn.net/atgfg/article/details/152216101)
+
++ [Spring Boot](https://blog.csdn.net/qq_68254825/article/details/152225949)
+
++ [什么是神经网络？](https://blog.csdn.net/2302_80742310/article/details/152280041)
+
++ [2025.8.10-学习C++（一）](https://blog.csdn.net/weixin_51652691/article/details/150163940)
+
++ [GitHub 热榜项目 - 日榜(2025-09-28)](https://blog.csdn.net/u014390502/article/details/152206366)
+
++ [支持向量机（SVM）](https://blog.csdn.net/qq_62234605/article/details/152274638)
+
++ [玳瑁的嵌入式日记---0929（ARM--ADC）](https://blog.csdn.net/m0_74596314/article/details/152279307)
+
++ [SQL 性能优化：为什么少用函数在 WHERE 条件中？](https://blog.csdn.net/weixin_44118965/article/details/152210573)
+
