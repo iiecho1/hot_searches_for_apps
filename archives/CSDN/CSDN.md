@@ -135,3 +135,7 @@
 
 + [Qt结合ffmpeg代码实现udp推流/组播推流/rtp推流/监控GB28181推流/onvif推流](https://blog.csdn.net/feiyangqingyun/article/details/152206563)
 
++ [【花雕动手做】HUSKYLENS 2 AI 相机视觉传感器 ( 二哈识图 2) 之二维码识别参数设置](https://blog.csdn.net/weixin_41659040/article/details/152304725)
+
++ [k8s-pod的启动](https://blog.csdn.net/2501_92004703/article/details/152218062)
+

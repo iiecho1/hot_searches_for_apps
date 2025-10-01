@@ -161,3 +161,19 @@
 
 + [促和平、反霸权、倡多边——联合国大会上的“全球南方强音”](https://news.cctv.com/2025/09/27/ARTIJA1bocGQt06LodeyDHb6250927.shtml)
 
++ [菲律宾官员称地震已造成至少22人死亡](https://news.cctv.com/2025/10/01/ARTIx2A60k1qzs6qQam1dnlg251001.shtml)
+
++ [美政府面临“停摆” 多个部门将受影响](https://news.cctv.com/2025/10/01/ARTIJZsf9MDHK1oBshyOAM5Y251001.shtml)
+
++ [美参议院否决民主党版本拨款法案 联邦政府或将停摆](https://news.cctv.com/2025/10/01/ARTIC3wXmDFWWXcLSTqWzB7P251001.shtml)
+
++ [哥伦比亚一地发生氯气泄漏事故 致37人中毒](https://news.cctv.com/2025/10/01/ARTIN9yvlt56a9hznpWl7MCa251001.shtml)
+
++ [阿富汗通讯网络完全中断](https://news.cctv.com/2025/10/01/ARTIUJhd3lQDK0qI4Jqp4NKn251001.shtml)
+
++ [卡塔尔首相：将与土埃和哈马斯就美方“20点计划”进行讨论](https://news.cctv.com/2025/10/01/ARTIdDVOEKCfz4Lj6Uy5wEjV251001.shtml)
+
++ [丹麦称美国将向其提供反无人机支持](https://news.cctv.com/2025/10/01/ARTIr7e0dUnbrPAZp7y0rGyO251001.shtml)
+
++ [美国消费者信心指数创4月以来最低水平](https://news.cctv.com/2025/10/01/ARTI6aLFEnBGFUdsokXIwNg3251001.shtml)
+

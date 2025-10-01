@@ -27,3 +27,7 @@
 
 + [罗技 MX Master4 发布了](https://www.v2ex.com/t/1162808)
 
++ [开个脑洞：如何在陌生设备上证明『我是我』](https://www.v2ex.com/t/1162804)
+
++ [B 站的躺平博主们都被禁止关注了！](https://www.v2ex.com/t/1162913)
+
