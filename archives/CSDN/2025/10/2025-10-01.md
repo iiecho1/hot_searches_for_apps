@@ -157,3 +157,9 @@
 
 + [JupyterLab+PyTorch：LoRA+4-bit量化+SFT微调Llama 4医疗推理应用|附代码数据](https://blog.csdn.net/qq_19600291/article/details/152272164)
 
++ [攻击链是怎么做出来的，以及攻击链可视化都包含些什么](https://blog.csdn.net/xixixi7777/article/details/152277543)
+
++ [【何志丹】蹉跎半生，不知道是否能过45岁的坎](https://blog.csdn.net/he_zhidan/article/details/152133477)
+
++ [AI 超级智能体全栈项目阶段二：Prompt 优化技巧与学术分析 AI 应用开发实现上下文联系多轮对话](https://blog.csdn.net/weixin_45793745/article/details/152231949)
+

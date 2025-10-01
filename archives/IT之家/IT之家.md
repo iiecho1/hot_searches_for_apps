@@ -55,3 +55,9 @@
 
 + [华为余承东：鸿蒙 5 终端设备已突破 2000 万](https://m.ithome.com/html/886543.htm)
 
++ [中国联通开启 eSIM 业务预约，可在 App 和自有营业厅办理](https://m.ithome.com/html/886982.htm)
+
++ [华为靳玉志谈车主酒后使用辅助驾驶：一方面说明我们的系统非常好，但现在还是提醒大家一定要代驾](https://m.ithome.com/html/886896.htm)
+
++ [OPPO Find X9 系列手机发布会 10 月 16 日举行，OPPO Pad 5、OPPO Watch S 同步亮相](https://m.ithome.com/html/886818.htm)
+

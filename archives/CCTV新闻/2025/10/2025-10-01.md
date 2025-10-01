@@ -197,3 +197,7 @@
 
 + [3至4天内回应“20点计划” 美以极限施压哈马斯](https://news.cctv.com/2025/10/01/ARTIRz1ZY1mHSp2dEv2bOXKG251001.shtml)
 
++ [近7年来首次 美国联邦政府正式“关门”](https://news.cctv.com/2025/10/01/ARTI0nkPSvXqWqCyxnuPFQfU251001.shtml)
+
++ [逾15万美国联邦雇员9月底离职 专家：人才流失难以逆转](https://news.cctv.com/2025/10/01/ARTIXCuhlxs6LmqL6Abq801J251001.shtml)
+
