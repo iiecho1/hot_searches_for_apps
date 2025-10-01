@@ -201,3 +201,5 @@
 
 + [逾15万美国联邦雇员9月底离职 专家：人才流失难以逆转](https://news.cctv.com/2025/10/01/ARTIXCuhlxs6LmqL6Abq801J251001.shtml)
 
++ [阿根廷政府发布法令允许美军入境与阿军举行演习](https://military.cctv.com/2025/10/01/ARTIxpHzNYmEyuz2u7Slrx1H251001.shtml)
+

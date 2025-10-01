@@ -171,3 +171,13 @@
 
 + [GitHub 热榜项目 - 日榜(2025-10-01)](https://blog.csdn.net/u014390502/article/details/152357867)
 
++ [深入理解 SPI：从定义到 Spring Boot 实践](https://blog.csdn.net/weixin_44289947/article/details/152274911)
+
++ [Kali Linux 2025.3 正式发布：更贴近前沿的安全平台](https://blog.csdn.net/jayjaydream/article/details/152278218)
+
++ [智慧工地系统：建筑行业数字化转型的核心趋势，集成云计算、物联网、大数据等技术，构建覆盖施工全周期的智能化管理体系。](https://blog.csdn.net/zmm201453/article/details/152273244)
+
++ [2025三掌柜赠书活动第三十五期 AI辅助React Web应用开发实践：基于React 19和GitHub Copilot](https://blog.csdn.net/CC1991_/article/details/152275575)
+
++ [【区块链】Fiat24 深度解读（含 Flutter 集成与 SDK 骨架）](https://blog.csdn.net/u014220518/article/details/152327359)
+
