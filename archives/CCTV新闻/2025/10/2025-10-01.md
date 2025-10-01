@@ -221,3 +221,9 @@
 
 + [欧亚国家驻华使节西藏行 见证发展新气象](https://news.cctv.com/2025/10/01/ARTIppHA90x5T4t7r8ynsWWo251001.shtml)
 
++ [和平、发展、进步的中国力量——解读中国全球好感度持续提升](https://news.cctv.com/2025/10/01/ARTIdJIbF0RCt7FgfOkuJRei251001.shtml)
+
++ [多国政要祝愿中国更加繁荣昌盛 盼携手深化友谊合作](https://news.cctv.com/2025/10/01/ARTIHYab6S3QaiIiDCqk1PAL251001.shtml)
+
++ [国际原子能机构呼吁尽快恢复扎波罗热核电站供电](https://news.cctv.com/2025/10/01/ARTIH6cj2paUlAwRSLSSeLxn251001.shtml)
+

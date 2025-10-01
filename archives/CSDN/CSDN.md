@@ -189,3 +189,9 @@
 
 + [CSS媒体查询（Media Queries）介绍（允许根据设备特性（屏幕宽度、高度、方向、分辨率等）动态应用不同的CSS样式）CSS响应式设计、@media、媒体类型、媒体特性、CSS断点](https://blog.csdn.net/Dontla/article/details/152328173)
 
++ [[linux仓库]深入解析Linux动态链接与动态库加载：理解背后的原理与技巧](https://blog.csdn.net/egoist2023/article/details/152362060)
+
++ [【Unity笔记】Unity XR 模式下 Point Light 不生效的原因与解决方法](https://blog.csdn.net/qq_41140324/article/details/152367575)
+
++ [脑机接口（BCI）：从信号到交互的工程实践](https://blog.csdn.net/2301_79139273/article/details/152332484)
+
