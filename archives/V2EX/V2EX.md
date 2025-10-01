@@ -83,3 +83,5 @@
 
 + [唐库全自动写小说系统 1.0 发布，可生成逻辑自洽、连贯到连 Gemini 都找不出 bug 的长篇小说](https://www.v2ex.com/t/1163009)
 
++ [JetBrains All Products Pack 累计十年续费达成～](https://www.v2ex.com/t/1162980)
+

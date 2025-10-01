@@ -33,3 +33,19 @@
 
 + [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)
 
++ [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
++ [github/awesome-copilot](https://github.com/github/awesome-copilot)
+
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
++ [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
+
++ [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
+
++ [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+

@@ -227,3 +227,13 @@
 
 + [国际原子能机构呼吁尽快恢复扎波罗热核电站供电](https://news.cctv.com/2025/10/01/ARTIH6cj2paUlAwRSLSSeLxn251001.shtml)
 
++ [印尼学校建筑倒塌事故死亡人数升至4人](https://news.cctv.com/2025/10/01/ARTIzMfcNoXPwfv0vWAdZ60R251001.shtml)
+
++ [俄副外长：新一轮俄美谈判将于秋季结束前举行](https://news.cctv.com/2025/10/01/ARTIZzfxYmjv8S371zR6ytwR251001.shtml)
+
++ [以色列防长称已“接近”包围加沙城](https://news.cctv.com/2025/10/01/ARTIc3Hleqy06fZgl17Rr7IR251001.shtml)
+
++ [欧盟再援乌40亿欧元 半数用于采购无人机](https://news.cctv.com/2025/10/01/ARTIZrZAoUPDfb7EJM6ZmPh0251001.shtml)
+
++ [俄外长：美国施压印度停购俄石油是为了推销自家能源](https://news.cctv.com/2025/10/01/ARTIYeeEiyoddU4BjoT9trVB251001.shtml)
+
