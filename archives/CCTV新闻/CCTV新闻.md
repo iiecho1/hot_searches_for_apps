@@ -161,3 +161,13 @@
 
 + [联合国对伊朗制裁重新生效 伊核问题何去何从？](https://news.cctv.com/2025/09/29/ARTICVyoNnD7kK1bZS7nEwVn250928.shtml)
 
++ [著名灵长类动物学家珍·古道尔去世 终年91岁](https://news.cctv.com/2025/10/02/ARTIfeehSrDnU0HgigtZ0YsP251002.shtml)
+
++ [纽约州拒掏钱 自由女神像火炬或因政府停摆而“熄火”](https://news.cctv.com/2025/10/02/ARTIlseRx3ck76Wk3cbYhb6f251002.shtml)
+
++ [德国政府欲建造世界首座核聚变发电站](https://news.cctv.com/2025/10/02/ARTIyXUj6gw9BjTkhKFWgXGR251002.shtml)
+
++ [荷兰呼吁欧盟将也门胡塞武装列为恐怖组织](https://news.cctv.com/2025/10/02/ARTIRjLTQistLS3dGH7GE8E1251002.shtml)
+
++ [美参议院再次否决临时拨款法案 政府停摆持续](https://news.cctv.com/2025/10/02/ARTIb3gG2HjFGb6HEVLpiurZ251002.shtml)
+

@@ -57,3 +57,7 @@
 
 + [OPPO Find X9 系列手机发布会 10 月 16 日举行，OPPO Pad 5、OPPO Watch S 同步亮相](https://m.ithome.com/html/886818.htm)
 
++ [2025 年 9 月汽车销量 / 交付汇总：极氪 51159 辆，小米超 40000 辆（实时更新）](https://m.ithome.com/html/887048.htm)
+
++ [微软推送 Win11 25H2 正式版更新：更新快、无重要新功能](https://m.ithome.com/html/887043.htm)
+
