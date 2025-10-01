@@ -209,3 +209,7 @@
 
 + [【央国企数据安全专辑｜观察篇（三）】前端限制的幻象：按钮置灰不等于安全](https://blog.csdn.net/lgf228/article/details/152183885)
 
++ [【AI大模型前沿】Waver 1.0：字节跳动推出的AI视频生成模型，支持文本/图像到高清视频的创作](https://blog.csdn.net/xiaobing259/article/details/152323805)
+
++ [JuiceSSH+cpolar：手机如何轻松远程连接内网虚拟机？](https://blog.csdn.net/qq_43289447/article/details/152270037)
+
