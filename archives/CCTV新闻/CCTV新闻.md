@@ -203,3 +203,13 @@
 
 + [阿根廷政府发布法令允许美军入境与阿军举行演习](https://military.cctv.com/2025/10/01/ARTIxpHzNYmEyuz2u7Slrx1H251001.shtml)
 
++ [菲律宾强震后已发生795次余震](https://news.cctv.com/2025/10/01/ARTI9UCXnLjvwcRQ2EPwTIqk251001.shtml)
+
++ [国际大科学工程中的中国贡献——实地探访平方公里阵列射电望远镜南非台址](https://news.cctv.com/2025/10/01/ARTIGcqta2MtOeGA6g7943ye250930.shtml)
+
++ [印尼学校建筑物倒塌事故致3人死亡、91人被埋](https://news.cctv.com/2025/10/01/ARTISmgrdMcmsFK74qtmhieD251001.shtml)
+
++ [为何关门？影响多大？何时结束？一文看懂美政府再“关门”闹剧](https://news.cctv.com/2025/10/01/ARTIS56JOtvi6ogi3rhsZkGW251001.shtml)
+
++ [菲律宾强震已致至少60人死亡](https://news.cctv.com/2025/10/01/ARTIokyrHODTI8sjisDXQpeq251001.shtml)
+
