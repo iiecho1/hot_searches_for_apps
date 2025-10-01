@@ -71,3 +71,11 @@
 
 + [腾讯云的网络质量太差了](https://www.v2ex.com/t/1162912)
 
++ [感觉不少前端框架 版本升级似乎很不喜欢搞兼容?](https://www.v2ex.com/t/1162990)
+
++ [Unifi 路由器下 IPv6 SLAAC 配置不定时断流问题](https://www.v2ex.com/t/1162970)
+
++ [国庆还有哪些兄弟能坚持签到？](https://www.v2ex.com/t/1162996)
+
++ [币圈真的太惨烈了](https://www.v2ex.com/t/1163025)
+
