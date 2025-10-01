@@ -79,3 +79,5 @@
 
 + [币圈真的太惨烈了](https://www.v2ex.com/t/1163025)
 
++ [现在通过在 iPhone 的邮件账户里添加第二个 appleID 的形式实现更新 app 的方式还安全吗](https://www.v2ex.com/t/1163028)
+

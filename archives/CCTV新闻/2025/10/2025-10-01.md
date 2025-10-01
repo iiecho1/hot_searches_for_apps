@@ -213,3 +213,7 @@
 
 + [菲律宾强震已致至少60人死亡](https://news.cctv.com/2025/10/01/ARTIokyrHODTI8sjisDXQpeq251001.shtml)
 
++ [“这是投降而非和平方案”——加沙民众质疑美国“20点计划”](https://news.cctv.com/2025/10/01/ARTIUBgonIqyc154p9w9iVRz251001.shtml)
+
++ [仅次于前两年 今年南极海冰范围冬季峰值为第三低](https://news.cctv.com/2025/10/01/ARTISCx5HXXVDkQ7rcyIKAED251001.shtml)
+
