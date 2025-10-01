@@ -177,3 +177,11 @@
 
 + [美国消费者信心指数创4月以来最低水平](https://news.cctv.com/2025/10/01/ARTI6aLFEnBGFUdsokXIwNg3251001.shtml)
 
++ [联合国安理会决定将多国安全支助团转化为镇压海地黑帮部队](https://news.cctv.com/2025/10/01/ARTIXVaCJWrYkEYHQSqvwnuJ251001.shtml)
+
++ [刚果（金）军事法庭判处前总统卡比拉死刑](https://news.cctv.com/2025/10/01/ARTIah3WFG0MJmgYXn0Rl26Q251001.shtml)
+
++ [中国驻菲律宾使馆提醒我在菲公民注意防范地震灾害](https://news.cctv.com/2025/10/01/ARTIhtkIgL4zzC1R43UtWTRb251001.shtml)
+
++ [中国正式成为安第斯共同体观察员国](https://news.cctv.com/2025/10/01/ARTIdeVftS7NIAd9rnGMbz0f251001.shtml)
+
