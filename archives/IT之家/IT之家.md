@@ -39,3 +39,21 @@
 
 + [小米十月服务周开启：手机电池换新 79.2 元起，家电清洁一口价 99 元](https://m.ithome.com/html/887103.htm)
 
++ [消息称华为将推出超薄手机：搭 eSIM 匹配全新麒麟芯片、提供 2TB 版本](https://m.ithome.com/html/886914.htm)
+
++ [华为“鸿蒙有礼特别版”今日上线，活动期间每天可领 10 元优惠券](https://m.ithome.com/html/886948.htm)
+
++ [今年第四批 690 亿元“国补”资金下达，支持消费品以旧换新](https://m.ithome.com/html/886944.htm)
+
++ [【IT之家评测室】小米 17 Pro / Pro Max 手机体验：高端体验全面进化，兼具差异化和辨识度](https://m.ithome.com/html/886844.htm)
+
++ [三星 Galaxy Ring 智能戒指突发电池鼓包，用户手指被卡住紧急送医](https://m.ithome.com/html/886840.htm)
+
++ [公安部网安局公布一起非法“刷机”案：涉案人员为大量非法来源手机提供系统重装、解锁等服务](https://m.ithome.com/html/886812.htm)
+
++ [小米 REDMI K90 手机跑分曝光：高通骁龙 8 至尊版芯片、16GB 内存](https://m.ithome.com/html/886865.htm)
+
++ [华为靳玉志谈车主酒后使用辅助驾驶：一方面说明我们的系统非常好，但现在还是提醒大家一定要代驾](https://m.ithome.com/html/886896.htm)
+
++ [OPPO Find X9 系列手机发布会 10 月 16 日举行，OPPO Pad 5、OPPO Watch S 同步亮相](https://m.ithome.com/html/886818.htm)
+
