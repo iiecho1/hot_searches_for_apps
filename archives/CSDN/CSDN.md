@@ -205,3 +205,7 @@
 
 + [Rokid手势识别技术深度剖析](https://blog.csdn.net/weixin_74809706/article/details/152334933)
 
++ [Java 大视界 -- Java 大数据在智能家居能源管理与节能优化中的深度应用](https://blog.csdn.net/atgfg/article/details/152268390)
+
++ [【央国企数据安全专辑｜观察篇（三）】前端限制的幻象：按钮置灰不等于安全](https://blog.csdn.net/lgf228/article/details/152183885)
+
