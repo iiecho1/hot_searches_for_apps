@@ -185,3 +185,15 @@
 
 + [中国正式成为安第斯共同体观察员国](https://news.cctv.com/2025/10/01/ARTIdeVftS7NIAd9rnGMbz0f251001.shtml)
 
++ [特朗普：将与哈佛大学达成协议](https://news.cctv.com/2025/10/01/ARTI3sJczWQ0QMjpYzVsFJgN251001.shtml)
+
++ [两党仍互相“甩锅” 美联邦政府“停摆”将拖累美国经济](https://news.cctv.com/2025/10/01/ARTIatDo5R1lCRtejzA6Uqai251001.shtml)
+
++ [菲律宾中部6.9级地震已致至少26人死亡](https://news.cctv.com/2025/10/01/ARTIFX2diqgC2LE0NPqy8Rca251001.shtml)
+
++ [美参议院先后否决两党拨款法案 联邦政府或将停摆](https://news.cctv.com/2025/10/01/ARTIm6XY6cedAJ1fMAVf1wp0251001.shtml)
+
++ [美军将领大会召开，防长讲了这些内容……](https://news.cctv.com/2025/10/01/ARTITcDCKUuhj0zgChrTYjYx251001.shtml)
+
++ [3至4天内回应“20点计划” 美以极限施压哈马斯](https://news.cctv.com/2025/10/01/ARTIRz1ZY1mHSp2dEv2bOXKG251001.shtml)
+

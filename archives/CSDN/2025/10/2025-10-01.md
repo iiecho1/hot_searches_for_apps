@@ -147,3 +147,13 @@
 
 + [无人机开源项目](https://blog.csdn.net/kingdom_java/article/details/152274351)
 
++ [【花雕动手做】HUSKYLENS 2 AI 相机视觉传感器 ( 二哈识图 2) 之手势识别参数设置](https://blog.csdn.net/weixin_41659040/article/details/152279744)
+
++ [【MySQL】Oracle与MySQL，跨库数据转储](https://blog.csdn.net/youcheng_ge/article/details/152274142)
+
++ [Redis：高性能内存数据库的六大核心优势](https://blog.csdn.net/Laydya/article/details/152283439)
+
++ [苍穹外卖-菜品新增、删除](https://blog.csdn.net/Sexycake/article/details/152279173)
+
++ [JupyterLab+PyTorch：LoRA+4-bit量化+SFT微调Llama 4医疗推理应用|附代码数据](https://blog.csdn.net/qq_19600291/article/details/152272164)
+
