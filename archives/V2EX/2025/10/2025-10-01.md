@@ -81,3 +81,5 @@
 
 + [现在通过在 iPhone 的邮件账户里添加第二个 appleID 的形式实现更新 app 的方式还安全吗](https://www.v2ex.com/t/1163028)
 
++ [唐库全自动写小说系统 1.0 发布，可生成逻辑自洽、连贯到连 Gemini 都找不出 bug 的长篇小说](https://www.v2ex.com/t/1163009)
+

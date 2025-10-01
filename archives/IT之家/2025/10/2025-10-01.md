@@ -61,3 +61,21 @@
 
 + [OPPO Find X9 系列手机发布会 10 月 16 日举行，OPPO Pad 5、OPPO Watch S 同步亮相](https://m.ithome.com/html/886818.htm)
 
++ [2025 年 9 月汽车销量 / 交付汇总：一汽-大众 14.6 万辆，上汽大众 9.13 万辆（实时更新）](https://m.ithome.com/html/887048.htm)
+
++ [苹果 M5 iPad Pro 开箱视频流出，GPU 性能大幅提升](https://m.ithome.com/html/887034.htm)
+
++ [微软推送 Win11 25H2 正式版更新：体积小、无重要新功能](https://m.ithome.com/html/887043.htm)
+
++ [苹果 iPhone 11 Pro Max 和 Apple Watch Series 3 系列被列入过时产品名单](https://m.ithome.com/html/887035.htm)
+
++ [特朗普移动 T1 手机发售延期，此前已不再标榜“美国制造”](https://m.ithome.com/html/887065.htm)
+
++ [用 iPhone / iPad 即可剪片：苹果 iOS 版 Adobe Premiere 正式发布，基础功能免费 / AI 功能收费](https://m.ithome.com/html/887012.htm)
+
++ [Win11 25H2 更新推送数小时后出现多个问题，微软已着手修复](https://m.ithome.com/html/887050.htm)
+
++ [苹果  iOS / iPadOS 18.7.1 正式版更新发布，修复字体库漏洞](https://m.ithome.com/html/886989.htm)
+
++ [小米手环 9 Pro 新版本 10 月推送，将新增心率广播、运动 Vlog 投屏拍摄等功能](https://m.ithome.com/html/887029.htm)
+

@@ -217,3 +217,7 @@
 
 + [仅次于前两年 今年南极海冰范围冬季峰值为第三低](https://news.cctv.com/2025/10/01/ARTISCx5HXXVDkQ7rcyIKAED251001.shtml)
 
++ [波兰再次延长与德国和立陶宛的边境临时管控措施](https://news.cctv.com/2025/10/01/ARTIjg5tjNgaN0FElhbNqMRg251001.shtml)
+
++ [欧亚国家驻华使节西藏行 见证发展新气象](https://news.cctv.com/2025/10/01/ARTIppHA90x5T4t7r8ynsWWo251001.shtml)
+
