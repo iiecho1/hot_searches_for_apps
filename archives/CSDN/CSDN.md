@@ -197,3 +197,11 @@
 
 + [大数据Spark（六十四）：Spark算子介绍](https://blog.csdn.net/xiaoweite1/article/details/152336175)
 
++ [SpringBoot 整合Jasypt 实现配置文件加密读取操作详解](https://blog.csdn.net/zhangcongyi420/article/details/150962030)
+
++ [Java坐标转换的多元实现路径：在线调用、百度与高德地图API集成及纯Java代码实现](https://blog.csdn.net/yelangkingwuzuhu/article/details/152284269)
+
++ [【SpringAI】第四弹：深入解析 Rag 检索增强工作流程、最佳实践和调优](https://blog.csdn.net/2402_84916296/article/details/152370503)
+
++ [Rokid手势识别技术深度剖析](https://blog.csdn.net/weixin_74809706/article/details/152334933)
+
