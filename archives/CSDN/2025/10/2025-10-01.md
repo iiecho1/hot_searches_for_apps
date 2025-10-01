@@ -163,3 +163,11 @@
 
 + [AI 超级智能体全栈项目阶段二：Prompt 优化技巧与学术分析 AI 应用开发实现上下文联系多轮对话](https://blog.csdn.net/weixin_45793745/article/details/152231949)
 
++ [AI 代码辅助产品安利「飞算 JavaAI」，智能引导 + 协同交互驱动全流程提效：重塑 Java 开发模式的 AI 编码利器](https://blog.csdn.net/weixin_62765017/article/details/150402423)
+
++ [Python开发者的创意免疫系统：当AI入侵数据时如何防御](https://blog.csdn.net/qq_33650655/article/details/152136147)
+
++ [AMQP协议深度解析：消息队列背后的通信魔法](https://blog.csdn.net/qq_44378083/article/details/149724934)
+
++ [GitHub 热榜项目 - 日榜(2025-10-01)](https://blog.csdn.net/u014390502/article/details/152357867)
+
