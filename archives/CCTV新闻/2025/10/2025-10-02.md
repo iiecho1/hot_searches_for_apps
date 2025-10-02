@@ -177,3 +177,11 @@
 
 + [特朗普“20点计划”坑太多？哈马斯可能会“有条件接受”](https://news.cctv.com/2025/10/02/ARTIynYVbUbC6RNcr39tBKWt251002.shtml)
 
++ [美国关上了印度的门](https://news.cctv.com/2025/10/02/ARTIbGsYkD2TZpb4GRB8L9lP251002.shtml)
+
++ [马斯克身价突破5000亿美元！成全球首位“半万亿富翁”](https://news.cctv.com/2025/10/02/ARTIr4b8WytNNPbvkvRofJS2251002.shtml)
+
++ [哥伦比亚宣布驱逐以色列全部外交人员](https://news.cctv.com/2025/10/02/ARTIFTQn0yid9lC9mmTRrLu8251002.shtml)
+
++ [加拿大一咖啡店发生枪击事件 致1人死亡](https://news.cctv.com/2025/10/02/ARTI1zsbxQ7tYf8asf663bfw251002.shtml)
+

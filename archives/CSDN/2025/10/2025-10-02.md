@@ -163,3 +163,7 @@
 
 + [Qwen-Image：开源图像生成新突破 —— 聚焦复杂文本渲染与精准图像编辑](https://blog.csdn.net/XXQuagmireXX/article/details/152318654)
 
++ [【愚公系列】《人工智能70年》053-生成式Al的辉煌与难题（算力与能源的问题）](https://blog.csdn.net/aa2528877987/article/details/151897849)
+
++ [Flutter Release 打包后插件失效问题排查与解决（实战分享）](https://blog.csdn.net/wuhanwhite/article/details/152360700)
+
