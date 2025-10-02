@@ -87,3 +87,11 @@
 
 + [外观内饰减配细节曝光，低价版特斯拉 Model Y 现身官网源代码](https://m.ithome.com/html/887203.htm)
 
++ [德国确认全球最大锂矿藏之一，已探明规模达 4300 万吨碳酸锂当量](https://m.ithome.com/html/887194.htm)
+
++ [马斯克成为有史以来首位个人财富达 5000 亿美元的人](https://m.ithome.com/html/887159.htm)
+
++ [韩国政府云存储 G-Drive 因火灾损毁，8 年工作资料全丢失](https://m.ithome.com/html/887219.htm)
+
++ [酷态科 10 号超级车充「伸缩线」预售：2C + 1A、100W 充电功率，首发价 99 元](https://m.ithome.com/html/887186.htm)
+

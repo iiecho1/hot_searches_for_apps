@@ -65,3 +65,5 @@
 
 + [连夜肝出 Sora2，给大家品鉴一下， Nanobanana + Sora2 一站式体验](https://www.v2ex.com/t/1163099)
 
++ [问下大家， m1 有更新 macos26 的吗，可以讲下使用体验吗](https://www.v2ex.com/t/1163173)
+
