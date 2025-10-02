@@ -161,3 +161,5 @@
 
 + [警惕！韩媒：美军证实在韩国正式部署MQ-9“死神”无人机](https://news.cctv.com/2025/09/30/ARTItzgQWDHPNTuEWttDD3A2250930.shtml)
 
++ [伊朗谴责七国集团涉伊核问题声明 称其“虚伪并歪曲事实”](https://news.cctv.com/2025/10/03/ARTIXEokdt3Y2xwQTaQ86odq251002.shtml)
+
