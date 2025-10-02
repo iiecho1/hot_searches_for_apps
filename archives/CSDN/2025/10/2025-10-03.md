@@ -101,3 +101,9 @@
 
 + [Rokid手势识别技术深度剖析](https://blog.csdn.net/weixin_74809706/article/details/152334933)
 
++ [IDEA+SpringBoot实现远程DEBUG到本机](https://blog.csdn.net/xc9711/article/details/152251943)
+
++ [情感分析预训练模型之distilbert-base-multilingual-cased-sentiments-student](https://blog.csdn.net/m0_64336780/article/details/149155997)
+
++ [IPFS技术介绍：探索去中心化存储的未来](https://blog.csdn.net/2301_79518550/article/details/149944879)
+
