@@ -207,3 +207,7 @@
 
 + [热点问答｜美国为何要在拉美加强军事布局](https://news.cctv.com/2025/10/02/ARTIbqDKURLw5rcqcpGU6sV1251002.shtml)
 
++ [佩斯科夫：普京将以某种合适方式出席2025年二十国集团峰会](https://news.cctv.com/2025/10/02/ARTIAYnav4nkVxHws0pj2sdA251002.shtml)
+
++ [英国曼彻斯特发生袭击事件致2死3伤](https://news.cctv.com/2025/10/02/ARTITtYBilWKt4zeKcu8P63K251002.shtml)
+
