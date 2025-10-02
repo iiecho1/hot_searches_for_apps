@@ -57,3 +57,7 @@
 
 + [上海联通十月双节套餐加送流量通话 9929 限量办理](https://www.v2ex.com/t/1163053)
 
++ [家里打算给大院装个摄像头，求推荐](https://www.v2ex.com/t/1163121)
+
++ [[内购限免] Affinity for iPad 内购限免（3 件套）](https://www.v2ex.com/t/1163129)
+

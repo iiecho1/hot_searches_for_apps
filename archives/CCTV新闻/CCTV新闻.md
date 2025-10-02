@@ -201,3 +201,5 @@
 
 + [杠上美以，哥伦比亚总统对以色列外交官下逐客令](https://news.cctv.com/2025/10/02/ARTI4NIVT4JkZQPfK8k6FLtw251002.shtml)
 
++ [美国政府“停摆”首日：数十万雇员停薪，游客吃“闭门羹”](https://news.cctv.com/2025/10/02/ARTI5jGjuAnMfjeFwH4Ap5a8251002.shtml)
+
