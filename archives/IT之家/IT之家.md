@@ -25,3 +25,7 @@
 
 + [外观内饰减配细节曝光，低价版特斯拉 Model Y 现身官网源代码](https://m.ithome.com/html/887203.htm)
 
++ [比亚迪年内首跌：9 月新能源汽车销量 396270 辆，同比下滑 5.5%](https://m.ithome.com/html/887129.htm)
+
++ [投资财团 550 亿美元收购 EA 后，沙特王子 Steam 改名“我买下了 EA”引热议](https://m.ithome.com/html/887125.htm)
+

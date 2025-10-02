@@ -119,3 +119,5 @@
 
 + [从0开始学vue：vue和react的比较](https://blog.csdn.net/zhangzehai2234/article/details/152336166)
 
++ [微服务核心组件解析：注册中心与负载均衡（Eureka/Nacos/Ribbon）](https://blog.csdn.net/lijingxiaov5/article/details/152336351)
+
