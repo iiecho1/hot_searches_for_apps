@@ -61,3 +61,5 @@
 
 + [[内购限免] Affinity for iPad 内购限免（3 件套）](https://www.v2ex.com/t/1163129)
 
++ [升级 iOS26.1 版本后，微信发视频会卡死，全部是“通话中断”](https://www.v2ex.com/t/1163113)
+

@@ -31,3 +31,37 @@
 
 + [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
 
++ [google/tunix](https://github.com/google/tunix)
+
++ [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+
++ [cjpais/Handy](https://github.com/cjpais/Handy)
+
++ [atuinsh/desktop](https://github.com/atuinsh/desktop)
+
++ [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
+
++ [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [immich-app/immich](https://github.com/immich-app/immich)
+
++ [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
+
++ [actions/runner-images](https://github.com/actions/runner-images)
+
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
++ [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor)
+
++ [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+
++ [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
+
++ [kestra-io/kestra](https://github.com/kestra-io/kestra)
+
++ [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+

@@ -205,3 +205,5 @@
 
 + [泽连斯基称已与特朗普讨论援乌远程武器相关议题](https://news.cctv.com/2025/10/02/ARTIIm2PAkxvSPl3hdWJM1GX251002.shtml)
 
++ [热点问答｜美国为何要在拉美加强军事布局](https://news.cctv.com/2025/10/02/ARTIbqDKURLw5rcqcpGU6sV1251002.shtml)
+

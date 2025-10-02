@@ -75,3 +75,11 @@
 
 + [首日票房已达 5875 万：国产特效大片《刺杀小说家 2》今日上映](https://m.ithome.com/html/887133.htm)
 
++ [华为 Mate 80 / Pro 系列手机爆料：最高 100W 快充，居中大圆摄像头设计](https://m.ithome.com/html/887205.htm)
+
++ [苹果又遭“剧透”：俄罗斯博主提前开箱 M5 iPad Pro，越南工厂疑为泄密源头](https://m.ithome.com/html/887232.htm)
+
++ [投资财团 550 亿美元收购 EA 后，沙特王子 Steam 改名“我买下了 EA”引热议](https://m.ithome.com/html/887125.htm)
+
++ [Epic 对苹果 iOS 18.6 新安装流程予以好评：减少了六成用户流失率](https://m.ithome.com/html/887209.htm)
+
