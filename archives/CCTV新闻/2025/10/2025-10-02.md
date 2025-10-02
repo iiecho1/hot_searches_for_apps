@@ -171,3 +171,9 @@
 
 + [美参议院再次否决临时拨款法案 政府停摆持续](https://news.cctv.com/2025/10/02/ARTIb3gG2HjFGb6HEVLpiurZ251002.shtml)
 
++ [台风“博罗依”在越南造成34人死亡](https://news.cctv.com/2025/10/02/ARTIYS8aP5RAU5R7PAdIapZM251002.shtml)
+
++ [美政府“停摆”致超400处景点服务受限](https://news.cctv.com/2025/10/02/ARTIGLqBoMk6aY2kGXRx5A8Q251002.shtml)
+
++ [特朗普“20点计划”坑太多？哈马斯可能会“有条件接受”](https://news.cctv.com/2025/10/02/ARTIynYVbUbC6RNcr39tBKWt251002.shtml)
+
