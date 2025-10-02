@@ -29,3 +29,15 @@
 
 + [投资财团 550 亿美元收购 EA 后，沙特王子 Steam 改名“我买下了 EA”引热议](https://m.ithome.com/html/887125.htm)
 
++ [王腾被小米辞退后多平台账号变动：小红书注销、快手被封禁、抖音已私密、微信视频号清空内容](https://m.ithome.com/html/887113.htm)
+
++ [特朗普移动 T1 手机发售延期，此前已不再标榜“美国制造”](https://m.ithome.com/html/887065.htm)
+
++ [“蔚小理”2025 年 9 月汽车交付数据出炉：小鹏、蔚来创新高，理想同比大跌 36%](https://m.ithome.com/html/887102.htm)
+
++ [小米澎湃 OS 超级岛接入“航旅纵横”：航班进度实时可见、无需打开 App 即可知座位信息](https://m.ithome.com/html/887109.htm)
+
++ [小米十月服务周开启：手机电池换新 79.2 元起，家电清洁一口价 99 元](https://m.ithome.com/html/887103.htm)
+
++ [小米 YU7 Max 汽车定制“紫水晶”配色实车亮相北京三里屯，展出至 10 月 3 日](https://m.ithome.com/html/887095.htm)
+
