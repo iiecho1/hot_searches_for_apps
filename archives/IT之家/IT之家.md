@@ -73,3 +73,5 @@
 
 + [免费畅听 3 个月，Apple Music 订阅会员限时优惠公布](https://m.ithome.com/html/887158.htm)
 
++ [首日票房已达 5875 万：国产特效大片《刺杀小说家 2》今日上映](https://m.ithome.com/html/887133.htm)
+

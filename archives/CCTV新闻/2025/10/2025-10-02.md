@@ -193,3 +193,11 @@
 
 + [印尼一炼油厂发生火灾 事故原因正在调查](https://news.cctv.com/2025/10/02/ARTIGOllV60UbLRqRB1FEugC251002.shtml)
 
++ [印尼学校倒塌事故现场未再探测到生命迹象](https://news.cctv.com/2025/10/02/ARTILADmncN9zh8yvXQdd94Y251002.shtml)
+
++ [国际观察丨与俄罗斯的这道“墙”，欧洲打算怎么建](https://news.cctv.com/2025/10/02/ARTIV7ste7yIXpoInKNwmfEJ251002.shtml)
+
++ [欧盟称将继续推进“无人机墙”建设](https://news.cctv.com/2025/10/02/ARTIaqnzF85yqkmt2sCY3yEQ251002.shtml)
+
++ [杠上美以，哥伦比亚总统对以色列外交官下逐客令](https://news.cctv.com/2025/10/02/ARTI4NIVT4JkZQPfK8k6FLtw251002.shtml)
+
