@@ -203,3 +203,7 @@
 
 + [【完整源码+数据集+部署教程】 运动员动作分割系统： yolov8-seg-GFPN](https://blog.csdn.net/weixin_43860634/article/details/152379459)
 
++ [RabbitMQ事务机制深度剖析：消息零丢失的终极武器](https://blog.csdn.net/qq_44378083/article/details/149725091)
+
++ [HTTPS协议原理](https://blog.csdn.net/htw250056/article/details/152312846)
+

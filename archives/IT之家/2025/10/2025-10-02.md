@@ -83,3 +83,7 @@
 
 + [Epic 对苹果 iOS 18.6 新安装流程予以好评：减少了六成用户流失率](https://m.ithome.com/html/887209.htm)
 
++ [三星 One UI 8.5 全新 3D 效果桌面 App 图标曝光](https://m.ithome.com/html/887238.htm)
+
++ [外观内饰减配细节曝光，低价版特斯拉 Model Y 现身官网源代码](https://m.ithome.com/html/887203.htm)
+
