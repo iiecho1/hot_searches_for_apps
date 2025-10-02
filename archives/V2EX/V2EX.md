@@ -49,3 +49,7 @@
 
 + [使用 stun 暴露飞牛影视到公网](https://www.v2ex.com/t/1163050)
 
++ [今年国庆档还有人去看电影吗？](https://www.v2ex.com/t/1163132)
+
++ [避雷 V 站站内推广的云雾 API , 已经把我坑死了 .](https://www.v2ex.com/t/1163131)
+

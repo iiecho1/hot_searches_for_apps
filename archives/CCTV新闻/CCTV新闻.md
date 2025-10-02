@@ -191,3 +191,5 @@
 
 + [韩国法院驳回尹锡悦保释申请 继续拘押](https://news.cctv.com/2025/10/02/ARTIVQKac8fKluPCDSO2yufE251002.shtml)
 
++ [印尼一炼油厂发生火灾 事故原因正在调查](https://news.cctv.com/2025/10/02/ARTIGOllV60UbLRqRB1FEugC251002.shtml)
+
