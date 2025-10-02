@@ -163,3 +163,5 @@
 
 + [伊朗谴责七国集团涉伊核问题声明 称其“虚伪并歪曲事实”](https://news.cctv.com/2025/10/03/ARTIXEokdt3Y2xwQTaQ86odq251002.shtml)
 
++ [南非总统敦促以色列释放其扣押的多国活动人士](https://news.cctv.com/2025/10/03/ARTIuzQnvCxIybNMqYaRuybp251002.shtml)
+
