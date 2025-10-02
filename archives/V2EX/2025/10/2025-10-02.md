@@ -43,3 +43,9 @@
 
 + [vivo 有点奇葩](https://www.v2ex.com/t/1163075)
 
++ [现在感觉没有生孩子的必要了，有同感的吗](https://www.v2ex.com/t/1163097)
+
++ [ibkr 关门了， 港卡入金加密货币的无损渠道还有么？](https://www.v2ex.com/t/1163052)
+
++ [使用 stun 暴露飞牛影视到公网](https://www.v2ex.com/t/1163050)
+

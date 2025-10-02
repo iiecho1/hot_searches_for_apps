@@ -169,3 +169,9 @@
 
 + [Redis线上操作最佳实践有哪些?](https://blog.csdn.net/caoli201314/article/details/152361892)
 
++ [RabbitMQ核心概念全景图：从零开始掌握消息队列五大组件](https://blog.csdn.net/qq_44378083/article/details/149725132)
+
++ [《C++ string类深度解析：核心接口全方位精讲与掌握》](https://blog.csdn.net/2201_75335534/article/details/152131682)
+
++ [卡尔曼滤波](https://blog.csdn.net/2401_88885149/article/details/151586149)
+

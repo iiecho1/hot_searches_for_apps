@@ -189,3 +189,5 @@
 
 + [总台现场直击丨菲律宾地震超17万人受灾 53个市镇进入灾难状态](https://news.cctv.com/2025/10/02/ARTItnY1nmc7SJPbzzIGqk0Y251002.shtml)
 
++ [韩国法院驳回尹锡悦保释申请 继续拘押](https://news.cctv.com/2025/10/02/ARTIVQKac8fKluPCDSO2yufE251002.shtml)
+
