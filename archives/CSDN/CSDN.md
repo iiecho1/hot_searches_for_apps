@@ -179,3 +179,9 @@
 
 + [【有源码】基于Hadoop+Spark的豆瓣电影数据分析与可视化系统-基于大数据的电影评分趋势分析与可视化系统](https://blog.csdn.net/IT_YQG_/article/details/152329681)
 
++ [Drawio 在软件开发中的应用实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/152376990)
+
++ [操作系统内核架构深度解析：从单内核、微内核到鸿蒙分布式设计](https://blog.csdn.net/eidolon_foot/article/details/152307955)
+
++ [AI 超级智能体全栈项目阶段四：学术分析 AI 项目 RAG 落地指南：基于 Spring AI 的本地与阿里云知识库实践](https://blog.csdn.net/weixin_45793745/article/details/152375707)
+
