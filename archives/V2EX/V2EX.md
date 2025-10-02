@@ -63,3 +63,5 @@
 
 + [升级 iOS26.1 版本后，微信发视频会卡死，全部是“通话中断”](https://www.v2ex.com/t/1163113)
 
++ [连夜肝出 Sora2，给大家品鉴一下， Nanobanana + Sora2 一站式体验](https://www.v2ex.com/t/1163099)
+
