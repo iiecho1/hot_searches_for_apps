@@ -165,3 +165,19 @@
 
 + [南非总统敦促以色列释放其扣押的多国活动人士](https://news.cctv.com/2025/10/03/ARTIuzQnvCxIybNMqYaRuybp251002.shtml)
 
++ [美能源部宣布终止近80亿美元新能源项目](https://news.cctv.com/2025/10/03/ARTIUZcIDMpU4uroCaLGTwcH251003.shtml)
+
++ [以色列将驱逐被扣400多名“全球坚韧船队”人员](https://news.cctv.com/2025/10/03/ARTIIgbhWQ7xP2LL7LcPPnq4251003.shtml)
+
++ [加纳一非法金矿矿坑坍塌 至少7人死亡](https://news.cctv.com/2025/10/03/ARTI7eWeXJa4zSA1lzl4P5xe251003.shtml)
+
++ [以色列警方：被扣押的加沙援助船队志愿者将被驱逐出境](https://news.cctv.com/2025/10/03/ARTIIV1Gmq6QgwTvnDSY1VZf251003.shtml)
+
++ [普京：恢复与美国的全面关系符合俄罗斯国家利益](https://news.cctv.com/2025/10/03/ARTIYnenmMfGo54dtZP7qoOm251003.shtml)
+
++ [普京：美供乌“战斧”将引发局势升级 但不会改变战场局势](https://news.cctv.com/2025/10/03/ARTIoVN6cV9x3mzpyqK4f4R7251003.shtml)
+
++ [伊朗防长：伊朗军队时刻备战 应对一切威胁](https://news.cctv.com/2025/10/03/ARTIhLDliuHymj8vnUorJrCp251003.shtml)
+
++ [英国警方公布曼彻斯特恐袭案嫌疑人身份](https://news.cctv.com/2025/10/03/ARTI8KYnA3ugXN7nkaRb3eRJ251003.shtml)
+
