@@ -203,3 +203,5 @@
 
 + [美国政府“停摆”首日：数十万雇员停薪，游客吃“闭门羹”](https://news.cctv.com/2025/10/02/ARTI5jGjuAnMfjeFwH4Ap5a8251002.shtml)
 
++ [泽连斯基称已与特朗普讨论援乌远程武器相关议题](https://news.cctv.com/2025/10/02/ARTIIm2PAkxvSPl3hdWJM1GX251002.shtml)
+
