@@ -185,3 +185,7 @@
 
 + [加拿大一咖啡店发生枪击事件 致1人死亡](https://news.cctv.com/2025/10/02/ARTI1zsbxQ7tYf8asf663bfw251002.shtml)
 
++ [波兰对乌克兰籍“北溪”爆炸嫌疑人实施7天拘留](https://news.cctv.com/2025/10/02/ARTIyxgpPo0V5h0kKbLH6Ktt251002.shtml)
+
++ [总台现场直击丨菲律宾地震超17万人受灾 53个市镇进入灾难状态](https://news.cctv.com/2025/10/02/ARTItnY1nmc7SJPbzzIGqk0Y251002.shtml)
+

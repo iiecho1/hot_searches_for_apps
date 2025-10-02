@@ -61,3 +61,15 @@
 
 + [微软推送 Win11 25H2 正式版更新：更新快、无重要新功能](https://m.ithome.com/html/887043.htm)
 
++ [卢伟冰：小米 17 系列销量目前确实已超 100 万台，比往代机型速度更快](https://m.ithome.com/html/887181.htm)
+
++ [2025 国庆中秋假期首日，消息称全国多地高速服务区充电桩出现“排队叫号”](https://m.ithome.com/html/887131.htm)
+
++ [边打边合作：消息称高通旗舰芯片重回 Arm v9 新架构，与苹果、联发科竞争加剧](https://m.ithome.com/html/887142.htm)
+
++ [2025 年 9 月汽车销量 / 交付榜：比亚迪 39.6 万辆年内首跌，零跑首破 6 万辆再创新高](https://m.ithome.com/html/887150.htm)
+
++ [小米 YU7 Max 汽车定制“紫水晶”配色实车亮相北京三里屯，展出至 10 月 3 日](https://m.ithome.com/html/887095.htm)
+
++ [免费畅听 3 个月，Apple Music 订阅会员限时优惠公布](https://m.ithome.com/html/887158.htm)
+

@@ -41,3 +41,5 @@
 
 + [半夜刷户子的切片睡不着，起来 BB 两句](https://www.v2ex.com/t/1163102)
 
++ [vivo 有点奇葩](https://www.v2ex.com/t/1163075)
+
