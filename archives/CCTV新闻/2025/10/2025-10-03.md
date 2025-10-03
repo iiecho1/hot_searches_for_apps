@@ -181,3 +181,11 @@
 
 + [英国警方公布曼彻斯特恐袭案嫌疑人身份](https://news.cctv.com/2025/10/03/ARTI8KYnA3ugXN7nkaRb3eRJ251003.shtml)
 
++ [美媒：特朗普政府要求大学签协议以优先获得联邦资金](https://news.cctv.com/2025/10/03/ARTIzmpGchMav6UVK6XjaXoS251003.shtml)
+
++ [观察｜裂痕加剧，德法六代机项目将走向何方？](https://news.cctv.com/2025/10/03/ARTIogk63oSTIn1Q7vogcU1P251003.shtml)
+
++ [法国再度发生多行业罢工 抗议政府财政紧缩计划](https://news.cctv.com/2025/10/03/ARTIpHz5a4CeYVqGRgcvomJt251003.shtml)
+
++ [俄称美尚未回应俄有关《新削减战略武器条约》延期提议](https://news.cctv.com/2025/10/03/ARTIPFstNBWDLJSq7qmkDA5L251003.shtml)
+

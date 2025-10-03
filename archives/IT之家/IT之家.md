@@ -41,3 +41,15 @@
 
 + [小米 YU7 Max 汽车定制“紫水晶”配色实车亮相北京三里屯，展出至 10 月 3 日](https://m.ithome.com/html/887095.htm)
 
++ [摩根士丹利称苹果 iPhone 17 / Pro 系列手机需求高于预期，iPhone Air 成例外](https://m.ithome.com/html/887290.htm)
+
++ [德国确认全球最大锂矿藏之一，已探明规模达 4300 万吨碳酸锂当量](https://m.ithome.com/html/887194.htm)
+
++ [苹果 iPad 端图像编辑工具 Affinity 2 三件套内购限免，许可 0 元购永久激活](https://m.ithome.com/html/887283.htm)
+
++ [韩国政府云存储 G-Drive 因火灾损毁，8 年工作资料全丢失](https://m.ithome.com/html/887219.htm)
+
++ [有线传大文件、视频更快，vivo X300 系列手机全系标配 USB 3.2 接口](https://m.ithome.com/html/887251.htm)
+
++ [骑行状态实时显示、一点即可还车，小米澎湃 OS“超级岛”接入哈啰单车](https://m.ithome.com/html/887230.htm)
+

@@ -29,3 +29,11 @@
 
 + [移动电信双卡用 iPhone 有什么好办法吗？](https://www.v2ex.com/t/1163177)
 
++ [安卓 7.1.1 的旧手机，还能装些什么软件吗](https://www.v2ex.com/t/1163191)
+
++ [人真是一个矛盾的存在](https://www.v2ex.com/t/1163127)
+
++ [用了半个月 Claude code 200max ，突然全款给我退了，这是为什么？](https://www.v2ex.com/t/1163161)
+
++ [openrouter 国内访问稳定吗](https://www.v2ex.com/t/1163133)
+
