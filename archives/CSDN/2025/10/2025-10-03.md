@@ -145,3 +145,9 @@
 
 + [vue中如何实现异步加载组件](https://blog.csdn.net/qq_45530512/article/details/152376458)
 
++ [【愚公系列】《人工智能70年》058-形形色色的机器人（服务机器人大合唱）](https://blog.csdn.net/aa2528877987/article/details/151897973)
+
++ [【Linux系列】并发世界的基石：透彻理解 Linux 进程 — 进程概念](https://blog.csdn.net/2302_80177460/article/details/152274211)
+
++ [机电公司管理小程序|基于微信小程序的机电公司管理小程序设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_66413741/article/details/152374084)
+

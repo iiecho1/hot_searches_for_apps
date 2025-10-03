@@ -197,3 +197,9 @@
 
 + [乌克兰宣布与尼加拉瓜断交](https://news.cctv.com/2025/10/03/ARTIiTOIbAFRKiR743NyAhPA251003.shtml)
 
++ [土耳其逮捕一名涉嫌为以色列摩萨德工作的男子](https://news.cctv.com/2025/10/03/ARTIY33fEIzjGqQHl9VYORsQ251003.shtml)
+
++ [以色列警方：“全球坚韧船队”中470名活动人士将被驱逐出境](https://news.cctv.com/2025/10/03/ARTI0E3YCc8TpjGLN4MKtT6g251003.shtml)
+
++ [韩总统：将尽全力改善朝韩关系 努力促成离散家属尽快会面](https://news.cctv.com/2025/10/03/ARTI3dtHhwnfIZYUpaeiSZxs251003.shtml)
+
