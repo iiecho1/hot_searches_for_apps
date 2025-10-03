@@ -191,3 +191,13 @@
 
 + [Linux网络--4、应用层协议Http](https://blog.csdn.net/lhxcc_fly/article/details/152319979)
 
++ [操作系统全解析：Windows、macOS与Linux的深度对比与选择指南（AI）](https://blog.csdn.net/ZhangRelay/article/details/152401535)
+
++ [大数据Spark（六十五）：Transformation转换算子groupByKey和filter](https://blog.csdn.net/xiaoweite1/article/details/152378932)
+
++ [Elasticsearch MCP 服务器：与你的 Index 聊天](https://blog.csdn.net/UbuntuTouch/article/details/150608020)
+
++ [从机延迟(Slave Latency)机制：平衡功耗与响应时间的黄金法则](https://blog.csdn.net/weixin_37800531/article/details/152230294)
+
++ [「Python笔记19」Matplotlib数据可视化](https://blog.csdn.net/weixin_38291577/article/details/152442099)
+

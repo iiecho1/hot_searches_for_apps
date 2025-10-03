@@ -57,3 +57,5 @@
 
 + [开源极简导航单页](https://www.v2ex.com/t/1163208)
 
++ [iPhone 17 pro max 充电还挺快的，洗个澡就差不多了](https://www.v2ex.com/t/1163238)
+
