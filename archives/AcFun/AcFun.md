@@ -61,3 +61,5 @@
 
 + [AOA Miniskirt 短裙](https://m.acfun.cn/v/?ac=47881026)
 
++ [[4K] 서울모빌리티쇼 Seoul Mobility Show 2025](https://m.acfun.cn/v/?ac=47880468)
+
