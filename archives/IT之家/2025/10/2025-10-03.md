@@ -63,3 +63,5 @@
 
 + [新品三连发：消息称大疆 Neo 2 无人机、Mic 3 Pro 麦克风、OM8 稳定器 11 月来袭](https://m.ithome.com/html/887265.htm)
 
++ [新一代智己 LS6 汽车跨年购置税补贴方案公布，至高 1.5 万元](https://m.ithome.com/html/887271.htm)
+

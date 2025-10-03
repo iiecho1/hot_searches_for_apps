@@ -221,3 +221,7 @@
 
 + [拒绝白宫索要藏品，总统图书馆馆长“被辞职”](https://news.cctv.com/2025/10/03/ARTIhTPq9l1KdCRy7H7yM2EL251003.shtml)
 
++ [特朗普：俄罗斯是“纸老虎” 普京：那北约又算什么？](https://news.cctv.com/2025/10/03/ARTISXq9g53AP2BRDOczVs5T251003.shtml)
+
++ [印尼学校倒塌事故中涉事建筑未获扩建许可](https://news.cctv.com/2025/10/03/ARTIzeIwKaaTjyNMuk2Av7Ns251003.shtml)
+
