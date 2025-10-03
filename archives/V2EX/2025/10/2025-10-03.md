@@ -25,3 +25,7 @@
 
 + [有可以玩游戏的虚拟机程序吗？](https://www.v2ex.com/t/1163149)
 
++ [如果你的电脑有前置摄像头，这里有一个有趣的头部追踪 tech demo](https://www.v2ex.com/t/1163175)
+
++ [移动电信双卡用 iPhone 有什么好办法吗？](https://www.v2ex.com/t/1163177)
+
