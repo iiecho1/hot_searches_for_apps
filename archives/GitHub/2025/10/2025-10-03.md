@@ -41,3 +41,23 @@
 
 + [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
 
++ [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
+
++ [emcie-co/parlant](https://github.com/emcie-co/parlant)
+
++ [Infisical/infisical](https://github.com/Infisical/infisical)
+
++ [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+
++ [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
+
++ [meshery/meshery](https://github.com/meshery/meshery)
+
++ [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [symfony/symfony](https://github.com/symfony/symfony)
+
++ [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
+
++ [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)
+
