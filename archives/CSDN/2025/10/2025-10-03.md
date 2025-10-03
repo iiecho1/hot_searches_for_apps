@@ -165,3 +165,11 @@
 
 + [Vue Router路由](https://blog.csdn.net/sniper_fandc/article/details/152087780)
 
++ [微信小程序 - 真机调试请求异常 Provisional headers are shown，微信小程序开发者工具调试没问题就真机测试时出现请求报错（微信小程序请求接口提示Provisional h）](https://blog.csdn.net/weixin_44198965/article/details/152449228)
+
++ [从零起步学习Redis || 第五章：利用Redis构造分布式全局唯一ID](https://blog.csdn.net/ze15829163918/article/details/152415404)
+
++ [我的世界动画使用blender mcprep插件无法打开jmc2obj软件问题解决方案](https://blog.csdn.net/yjj009049/article/details/152418101)
+
++ [网络原理-HTTPS](https://blog.csdn.net/slank_noob/article/details/152415471)
+

@@ -225,3 +225,9 @@
 
 + [印尼学校倒塌事故中涉事建筑未获扩建许可](https://news.cctv.com/2025/10/03/ARTIzeIwKaaTjyNMuk2Av7Ns251003.shtml)
 
++ [乌克兰多地能源设施遭袭 部分区域实施用电限制](https://news.cctv.com/2025/10/03/ARTI3b4UMGmkwigSEeKGvRA2251003.shtml)
+
++ [欲突破以色列封锁 又一支船队正驶向加沙地带](https://news.cctv.com/2025/10/03/ARTIyxgheZgSodwuxQQwXOAq251003.shtml)
+
++ [日本自民党总裁选举有何看点？最新选情如何？](https://news.cctv.com/2025/10/03/ARTI3zK1zvvOvGpJIRRb1gXt251003.shtml)
+
