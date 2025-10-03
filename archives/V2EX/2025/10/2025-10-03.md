@@ -37,3 +37,11 @@
 
 + [openrouter 国内访问稳定吗](https://www.v2ex.com/t/1163133)
 
++ [记女朋友分手后续（她爸死活不同意）](https://www.v2ex.com/t/1163215)
+
++ [靓仔们， DataGrip 非商用免费了](https://www.v2ex.com/t/1163202)
+
++ [可以自己更换光猫吗](https://www.v2ex.com/t/1163205)
+
++ [Claude 4.5 (feat: claude desktop), 一款最像人的 AI： In a bad way](https://www.v2ex.com/t/1163138)
+
