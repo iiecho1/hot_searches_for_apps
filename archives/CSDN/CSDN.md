@@ -155,3 +155,7 @@
 
 + [百度电商MultiAgent视频生成系统](https://blog.csdn.net/lihui49/article/details/152328851)
 
++ [分布式专题——24 Kafka功能扩展](https://blog.csdn.net/kongbaidemumu/article/details/152367603)
+
++ [OSPF协议详解2：链路状态通告（LSA）与邻居关系建立](https://blog.csdn.net/brain_07/article/details/152419149)
+

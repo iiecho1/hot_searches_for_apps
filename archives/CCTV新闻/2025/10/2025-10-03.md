@@ -205,3 +205,19 @@
 
 + [联合国经社文权利知识中心线上平台正式启动](https://news.cctv.com/2025/10/03/ARTI4qOMwoEaDEpyEiSOBNZ6251003.shtml)
 
++ [视频丨美国加州一炼油厂爆炸起火](https://news.cctv.com/2025/10/03/ARTIMo3eY6URKXg7Z7MamJ8P251003.shtml)
+
++ [日本自民党总裁选举定于明日举行](https://news.cctv.com/2025/10/03/ARTI3kSiKW1wYfsitAPNfSf0251003.shtml)
+
++ [天津峰会是上合组织发展的重要里程碑（国际论坛）](https://news.cctv.com/2025/10/03/ARTIsGlvn3bckjEQIgVKmBi8251003.shtml)
+
++ [“双节”长假跨境游升温 海外华人旅游业者接待忙](https://news.cctv.com/2025/10/03/ARTIJXKcKb9jXUZutlj3UVyD251003.shtml)
+
++ [普京：主张通过协议解决乌克兰危机 有条件支持美结束加沙冲突建议](https://news.cctv.com/2025/10/03/ARTIfO2FmWVP2dUwqZehj8la251003.shtml)
+
++ [伊朗总统再谈“迁都”：缺水危机加剧，别无选择](https://news.cctv.com/2025/10/03/ARTIzfYQ8g55W5RBuyFwFXut251003.shtml)
+
++ [韩媒：一名负责恢复政府业务系统的韩国官员疑似跳楼轻生，韩政府发声](https://news.cctv.com/2025/10/03/ARTIH0Qsa5OnAu1fLuTgeriJ251003.shtml)
+
++ [拒绝白宫索要藏品，总统图书馆馆长“被辞职”](https://news.cctv.com/2025/10/03/ARTIhTPq9l1KdCRy7H7yM2EL251003.shtml)
+
