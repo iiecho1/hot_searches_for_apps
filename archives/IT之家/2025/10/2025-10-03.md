@@ -65,3 +65,19 @@
 
 + [新一代智己 LS6 汽车跨年购置税补贴方案公布，至高 1.5 万元](https://m.ithome.com/html/887271.htm)
 
++ [网红挑战用特斯拉 FSD 自驾横跨美国，但只跑了 93km 就发生车祸](https://m.ithome.com/html/887336.htm)
+
++ [微信时间能切换显示方式，隐藏功能引网友热议](https://m.ithome.com/html/887372.htm)
+
++ [在欧盟吃官司后，苹果弱化 Apple Watch Series 11 / Ultra 3 和 M4 Mac mini “碳中和”卖点](https://m.ithome.com/html/887299.htm)
+
++ [不打开 App 就能看车牌号、到达时间：小米澎湃 OS 系统“超级岛”已支持高德打车，支持拖拽分享信息](https://m.ithome.com/html/887360.htm)
+
++ [微软全新 OneDrive 应用曝光：界面完全重新设计，Win11 专属](https://m.ithome.com/html/887325.htm)
+
++ [微软 Office 图标迎 2018 年来首次更新，设计更精致、更加现代化](https://m.ithome.com/html/887363.htm)
+
++ [特斯拉 Model Y“廉价版”车型无伪装谍照曝光：取消贯穿灯带，预计 3.5 万美元起](https://m.ithome.com/html/887367.htm)
+
++ [电梯、地铁等场景自动打开防偷窥，三星 Galaxy S26 Ultra 手机全新隐私防护功能曝光](https://m.ithome.com/html/887284.htm)
+
