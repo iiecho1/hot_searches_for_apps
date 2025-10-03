@@ -163,3 +163,15 @@
 
 + [“周日晚六点前接受协议” 特朗普向哈马斯发出最后通牒](https://news.cctv.com/2025/10/04/ARTI0vL6faqC1C3V31Yn05A8251003.shtml)
 
++ [联黎部队谴责以军漠视维和人员安全](https://news.cctv.com/2025/10/04/ARTIuxWrICKPVmw3WVB3Kbfc251004.shtml)
+
++ [德国内政部长宣布多项措施应对无人机威胁](https://news.cctv.com/2025/10/04/ARTI3A2z8uhfZVi9HLwLfy6a251004.shtml)
+
++ [伊朗救援直升机坠毁事件死亡人数升至2人](https://news.cctv.com/2025/10/04/ARTICZvTeA9D0WwTMhb5xavz251004.shtml)
+
++ [中断48小时后阿富汗通讯网络逐步恢复](https://news.cctv.com/2025/10/04/ARTI4LQLd7TnSPJRVMawBIQ6251004.shtml)
+
++ [美参议院否决两党临时拨款法案 政府停摆持续](https://news.cctv.com/2025/10/04/ARTIcPyHdCYTFMDmsRmTSQj9251004.shtml)
+
++ [释放人质 移交加沙地带管理权 哈马斯提交对特朗普“20点计划”回应](https://news.cctv.com/2025/10/04/ARTI0xdnoW0hyNvYJnAxQkr5251004.shtml)
+
