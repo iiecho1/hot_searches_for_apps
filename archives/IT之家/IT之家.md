@@ -37,3 +37,5 @@
 
 + [电梯、地铁等场景自动打开防偷窥，三星 Galaxy S26 Ultra 手机全新隐私防护功能曝光](https://m.ithome.com/html/887284.htm)
 
++ [新品三连发：消息称大疆 Neo 2 无人机、Mic 3 Pro 麦克风、OM8 稳定器 11 月来袭](https://m.ithome.com/html/887265.htm)
+

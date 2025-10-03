@@ -159,3 +159,5 @@
 
 + [WebGL学习及项目实战（第02期：绘制一个点）](https://blog.csdn.net/qf2005100102/article/details/152417700)
 
++ [深入解析Prompt缓存机制：技术原理与实现方法](https://blog.csdn.net/qq_19024759/article/details/152469642)
+
