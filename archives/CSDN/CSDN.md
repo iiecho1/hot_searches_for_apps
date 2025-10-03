@@ -111,3 +111,33 @@
 
 + [MATLAB线性代数函数完全指南](https://blog.csdn.net/agilearchitect/article/details/152405294)
 
++ [大数据Spark（六十五）：Transformation转换算子groupByKey和filter](https://blog.csdn.net/xiaoweite1/article/details/152378932)
+
++ [RabbitMQ消息顺序性终极指南：打破乱序魔咒的架构艺术](https://blog.csdn.net/qq_44378083/article/details/149725395)
+
++ [RAG核心特性：ETL](https://blog.csdn.net/2301_77599076/article/details/152375105)
+
++ [KingbaseES 的 SQL Server 兼容性测试](https://blog.csdn.net/weixin_66401877/article/details/152373585)
+
++ [FPGA时序约束分析10——‘-combinational’约束分析](https://blog.csdn.net/ccsss22/article/details/152466386)
+
++ [计算机网络第四章(4)——网络层《IPV6》](https://blog.csdn.net/m0_73991249/article/details/149466406)
+
++ [Elasticsearch MCP 服务器：与你的 Index 聊天](https://blog.csdn.net/UbuntuTouch/article/details/150608020)
+
++ [web十大漏洞之RCE漏洞](https://blog.csdn.net/2401_89723786/article/details/151929887)
+
++ [DreamControl——结合扩散模型和RL的全身人形控制：利用在人体运动数据上训练得到的扩散先验，随后在仿真中引导RL策略完成特定任务](https://blog.csdn.net/v_JULY_v/article/details/152464823)
+
++ [SNN论文阅读——In the Blink of an Eye: Event-based Emotion Recognition](https://blog.csdn.net/qq_66878808/article/details/152448731)
+
++ [[论文阅读] AI+软件工程 | AI供应链信任革命：TAIBOM如何破解AI系统“可信难题“](https://blog.csdn.net/zhangjiaoshou_/article/details/152456827)
+
++ [安卓手机Android玩电脑游戏 Winlator模拟器附带使用视频](https://blog.csdn.net/u010093380/article/details/152419599)
+
++ [基于SpringBoot+Vue的退休人员再就业平台系统微信小程序(源码+LW+调试文档+讲解)](https://blog.csdn.net/kkkkkfffd/article/details/152461189)
+
++ [vue Router总结](https://blog.csdn.net/m0_50511175/article/details/152415982)
+
++ [【iOS安全】iPhone X iOS 16.7.11 (20H360) Palera1n MacOS版 越狱教程](https://blog.csdn.net/qq_39441603/article/details/152417521)
+

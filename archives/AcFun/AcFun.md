@@ -63,3 +63,5 @@
 
 + [[4K] 서울모빌리티쇼 Seoul Mobility Show 2025](https://m.acfun.cn/v/?ac=47880468)
 
++ [【绝望女神/中秋国庆八天乐翻唱】【猎魔女团 Golden】](https://m.acfun.cn/v/?ac=47882154)
+

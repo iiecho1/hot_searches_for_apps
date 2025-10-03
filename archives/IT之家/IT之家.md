@@ -35,3 +35,5 @@
 
 + [放假回微信不算加班？法院判决付出实质性劳动、必须依法支付报酬](https://m.ithome.com/html/887401.htm)
 
++ [电梯、地铁等场景自动打开防偷窥，三星 Galaxy S26 Ultra 手机全新隐私防护功能曝光](https://m.ithome.com/html/887284.htm)
+
