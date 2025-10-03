@@ -141,3 +141,15 @@
 
 + [【iOS安全】iPhone X iOS 16.7.11 (20H360) Palera1n MacOS版 越狱教程](https://blog.csdn.net/qq_39441603/article/details/152417521)
 
++ [基于全阿里RAG技术栈，实现企业内部PDF格式规章制度内容的查询](https://blog.csdn.net/coding2008/article/details/152465931)
+
++ [ASP.NET Core Web API 中控制器操作的返回类型及Swagger](https://blog.csdn.net/mlw519/article/details/152460320)
+
++ [5G MIB / SIB in a Nutshell](https://blog.csdn.net/m0_51143578/article/details/152409292)
+
++ [跨平台框架性能评估：Flutter与Uni-App在零售小程序中的实践](https://blog.csdn.net/baidu_29894695/article/details/152462740)
+
++ [Kubernetes HTTPS迁移：Ingress到GatewayAPI实战](https://blog.csdn.net/2303_78660565/article/details/152376921)
+
++ [gitlab-runner 再次实践中理解和学习](https://blog.csdn.net/qq_31362767/article/details/152413662)
+
