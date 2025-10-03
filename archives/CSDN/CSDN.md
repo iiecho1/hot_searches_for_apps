@@ -151,3 +151,7 @@
 
 + [机电公司管理小程序|基于微信小程序的机电公司管理小程序设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_66413741/article/details/152374084)
 
++ [【深度学习计算机视觉】09：语义分割和数据集](https://blog.csdn.net/Morse_Chen/article/details/152417245)
+
++ [百度电商MultiAgent视频生成系统](https://blog.csdn.net/lihui49/article/details/152328851)
+
