@@ -45,3 +45,5 @@
 
 + [Claude 4.5 (feat: claude desktop), 一款最像人的 AI： In a bad way](https://www.v2ex.com/t/1163138)
 
++ [黄仁勋：蓝领工作是年轻人的未来](https://www.v2ex.com/t/1163211)
+

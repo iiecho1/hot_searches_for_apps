@@ -191,3 +191,9 @@
 
 + [欧洲头条丨一堵“看不见的墙”为何让欧盟吵成一团？](https://news.cctv.com/2025/10/03/ARTIVKfUyg0hGKybYaugKrpC251003.shtml)
 
++ [视频丨宝石、金币、银币 三百年前西班牙舰队海底遗物重见天日](https://news.cctv.com/2025/10/03/ARTI8Nz9Q5eRZpUmHLXqoznD251003.shtml)
+
++ [白宫称将为加沙“20点计划”设最后期限](https://news.cctv.com/2025/10/03/ARTIQjUoreT6QqvsjN63G4oY251003.shtml)
+
++ [乌克兰宣布与尼加拉瓜断交](https://news.cctv.com/2025/10/03/ARTIiTOIbAFRKiR743NyAhPA251003.shtml)
+

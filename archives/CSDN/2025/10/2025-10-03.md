@@ -137,3 +137,5 @@
 
 + [【花雕学编程】Arduino BLDC 之无人机姿态稳定控制](https://blog.csdn.net/weixin_41659040/article/details/152441024)
 
++ [大模型原理与实践：第二章 Transformer架构_第1部分-注意力机制（Self-Attention、Masked Self-Attention、Multi-Head Attention）](https://blog.csdn.net/xuebinding/article/details/152397783)
+
