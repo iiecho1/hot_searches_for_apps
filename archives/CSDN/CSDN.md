@@ -161,3 +161,11 @@
 
 + [深入解析Prompt缓存机制：技术原理与实现方法](https://blog.csdn.net/qq_19024759/article/details/152469642)
 
++ [GG3M : The Trinity Reconstruction of Civilization OS,Cognitive Revolution, and Geopolitical Game](https://blog.csdn.net/SmartTony/article/details/152473517)
+
++ [OpenAI API音频与语音功能技术详解](https://blog.csdn.net/2503_93520142/article/details/152473599)
+
++ [[Dify] 使用 Embedding 模型优化知识召回效果](https://blog.csdn.net/sheepForTest/article/details/152473444)
+
++ [《Istio故障溯源：从流量劫持异常到服务网格的底层博弈》](https://blog.csdn.net/ewwer3/article/details/152477496)
+

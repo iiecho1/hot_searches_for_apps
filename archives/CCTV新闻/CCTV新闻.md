@@ -161,3 +161,5 @@
 
 + [菲律宾强震已致至少60人死亡](https://news.cctv.com/2025/10/01/ARTIokyrHODTI8sjisDXQpeq251001.shtml)
 
++ [“周日晚六点前接受协议” 特朗普向哈马斯发出最后通牒](https://news.cctv.com/2025/10/04/ARTI0vL6faqC1C3V31Yn05A8251003.shtml)
+
