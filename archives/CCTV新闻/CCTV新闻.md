@@ -231,3 +231,7 @@
 
 + [日本自民党总裁选举有何看点？最新选情如何？](https://news.cctv.com/2025/10/03/ARTI3zK1zvvOvGpJIRRb1gXt251003.shtml)
 
++ [国庆中秋“双节”相遇，外媒：中国旅游业蓬勃发展，民众热情出游](https://news.cctv.com/2025/10/03/ARTINrNyClTVYguKzBTdErZ1251003.shtml)
+
++ [通讯丨吉尔吉斯斯坦“中文热”背后的驱动力](https://news.cctv.com/2025/10/03/ARTIBzkoPYxLe5TVgewNLmof251003.shtml)
+
