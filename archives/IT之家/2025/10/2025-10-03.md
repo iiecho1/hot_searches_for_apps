@@ -53,3 +53,13 @@
 
 + [骑行状态实时显示、一点即可还车，小米澎湃 OS“超级岛”接入哈啰单车](https://m.ithome.com/html/887230.htm)
 
++ [理想智能焕新版 L6 / L7 / L8 / L9 系列限时官方置换补贴 1.5 万元](https://m.ithome.com/html/887287.htm)
+
++ [爱玛电动车广东车业工厂停产，产能转移至广西和重庆](https://m.ithome.com/html/887235.htm)
+
++ [米哈游正制作虚幻引擎 5 开放世界游戏：电影级叙事体验，引入 AI 元素](https://m.ithome.com/html/887269.htm)
+
++ [在欧盟吃官司后，苹果不再标榜 Apple Watch Series 11 / Ultra 3 和 M4 Mac mini “碳中和”](https://m.ithome.com/html/887299.htm)
+
++ [新品三连发：消息称大疆 Neo 2 无人机、Mic 3 Pro 麦克风、OM8 稳定器 11 月来袭](https://m.ithome.com/html/887265.htm)
+
