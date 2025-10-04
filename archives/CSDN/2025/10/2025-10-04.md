@@ -213,3 +213,13 @@
 
 + [通过SSH在国内上传到GitHub（网络故障+端口错误解决方法](https://blog.csdn.net/2301_80391850/article/details/152508692)
 
++ [Spring Boot 与数据访问全解析：MyBatis、Thymeleaf、拦截器实战](https://blog.csdn.net/2201_75941872/article/details/152321772)
+
++ [基于python+django的Boss直聘数据可视化分析预测系统 预测算法 爬虫 可视化](https://blog.csdn.net/qq_35928134/article/details/152411769)
+
++ [Maven学习](https://blog.csdn.net/qq_47896523/article/details/150854320)
+
++ [PDF中表格的处理 （OCR)](https://blog.csdn.net/LC_Liangchao/article/details/152452582)
+
++ [目标检测数据集 第048期-基于yolo标注格式的水果质量检测数据集(含免费分享)](https://blog.csdn.net/weixin_39588099/article/details/152333267)
+

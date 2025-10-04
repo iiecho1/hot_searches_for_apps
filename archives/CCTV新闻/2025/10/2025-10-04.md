@@ -207,3 +207,11 @@
 
 + [日本自民党总裁选举第一轮结束：高市早苗、小泉进次郎进入决胜轮](https://news.cctv.com/2025/10/04/ARTIyGujljTzSbizDg3wTeda251004.shtml)
 
++ [印尼学校建筑物倒塌事故死亡人数升至14人](https://news.cctv.com/2025/10/04/ARTIJXVIFuhcqtyxp4f2EJ46251004.shtml)
+
++ [匈塞铁路塞尔维亚段全线通车 武契奇当天乘车体验“中国速度”](https://news.cctv.com/2025/10/04/ARTI68iILvhgKzZvgy2ngZcN251004.shtml)
+
++ [美法院裁定特朗普政府“出生公民权”限制令违宪](https://news.cctv.com/2025/10/04/ARTI9XnGzIhFcnwu7rL6UmrM251004.shtml)
+
++ [哈马斯回应“20点计划” 各方能否抓住机会结束加沙冲突？](https://news.cctv.com/2025/10/04/ARTIa0UYMlrClL3ShDUe9fMX251004.shtml)
+
