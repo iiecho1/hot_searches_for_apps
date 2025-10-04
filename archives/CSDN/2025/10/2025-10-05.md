@@ -151,3 +151,25 @@
 
 + [基于密集型复杂城市场景下求解无人机三维路径规划的Q-learning 算法研究（Matlab代码实现）](https://blog.csdn.net/woshilaiwade/article/details/152438501)
 
++ [C++20 协程：在 AI 推理引擎中的深度应用](https://blog.csdn.net/htw250056/article/details/152418584)
+
++ [Self-Attention GAN（SAGAN）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/151835424)
+
++ [Rokid JSAR 技术开发全指南+实战演练](https://blog.csdn.net/2302_79376097/article/details/152519347)
+
++ [配置即权限：从传统开源 RBAC 框架到 SPARK 的六层数据护盾，告别改权限就要改代码的魔咒](https://blog.csdn.net/lgf228/article/details/152522893)
+
++ [Task Schemas: 基于前沿认知的复杂推理任务架构](https://blog.csdn.net/cxr828/article/details/152506269)
+
++ [LabVIEW继电保护检测](https://blog.csdn.net/bjcyck/article/details/152441446)
+
++ [网络协议分层与Socket编程详解](https://blog.csdn.net/2401_86275172/article/details/152464930)
+
++ [网络请求完整指南：从零开始理解前端数据交互](https://blog.csdn.net/2501_92822955/article/details/152522419)
+
++ [鸽姆智库对西方舆论战的影响：战略解构、认知反击与范式重构](https://blog.csdn.net/SmartTony/article/details/152522328)
+
++ [计算机网络物理层](https://blog.csdn.net/2301_79609207/article/details/152170462)
+
++ [构建工具webpack](https://blog.csdn.net/weixin_43992658/article/details/152459849)
+
