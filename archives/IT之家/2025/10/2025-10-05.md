@@ -25,3 +25,9 @@
 
 + [小米超级岛已支持百度地图打车，支持进度全程跟随、随手拖拽分享](https://m.ithome.com/html/887461.htm)
 
++ [小米公司发言人回应网传“小米汽车突然自己开走”：收到手机泊车辅助指令，排除车辆质量问题](https://m.ithome.com/html/887408.htm)
+
++ [放假回微信不算加班？法院判决付出实质性劳动、必须依法支付报酬](https://m.ithome.com/html/887401.htm)
+
++ [苹果 Apple Watch Ultra 手表上浮警报功能救潜水员一命](https://m.ithome.com/html/887402.htm)
+

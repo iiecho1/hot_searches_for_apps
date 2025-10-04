@@ -109,3 +109,45 @@
 
 + [论文阅读：《A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning》](https://blog.csdn.net/2301_79789283/article/details/152082673)
 
++ [依托Java和百度地图实现长沙市热门道路与景点实时路况检索的实践探索](https://blog.csdn.net/yelangkingwuzuhu/article/details/152502290)
+
++ [爬虫与自动化技术深度解析：从数据采集到智能运维的完整实战指南](https://blog.csdn.net/2301_79139273/article/details/152463653)
+
++ [【Linux】你知道你的电脑为你做了哪些事吗？——进程](https://blog.csdn.net/2403_84958571/article/details/151689421)
+
++ [Spark Shuffle：分布式计算的数据重分布艺术](https://blog.csdn.net/m0_74385041/article/details/152515863)
+
++ [【计算机视觉】分水岭实现医学诊断](https://blog.csdn.net/2401_84149564/article/details/152522705)
+
++ [C/C++跳动的爱心①](https://blog.csdn.net/m0_68111267/article/details/152419195)
+
++ [RabbitMQ消息发送全流程拆解：从生产者到消费者的数据快递之旅](https://blog.csdn.net/qq_44378083/article/details/149725563)
+
++ [【跟我学YOLO】YOLO26（2）实时目标检测的关键架构改进与性能基准测试](https://blog.csdn.net/youcans/article/details/152270625)
+
++ [Redis 主从复制](https://blog.csdn.net/2301_79184547/article/details/152517349)
+
++ [Gateway-过滤器](https://blog.csdn.net/m0_70128309/article/details/152463421)
+
++ [LabVIEW超声换能器成像](https://blog.csdn.net/bjcyck/article/details/152503874)
+
++ [安卓平板如何实现windows级别的生产力？](https://blog.csdn.net/a1320657572/article/details/152419183)
+
++ [通过HTML演示JVM的垃圾回收-新生代与老年代](https://blog.csdn.net/lfeishumomol/article/details/152449199)
+
++ [第一次项目复盘](https://blog.csdn.net/2401_87312686/article/details/152522857)
+
++ [Vue3 + Three.js 实现 3D 汽车个性化定制及展示](https://blog.csdn.net/Demon_chen_/article/details/152462591)
+
++ [论文阅读：《SeBot: Structural Entropy Guided Multi-View Contrastive Learning for Social Bot Detection》](https://blog.csdn.net/2301_79789283/article/details/152124969)
+
++ [【完整源码+数据集+部署教程】 小麦病害分割系统： yolov8-seg-dyhead](https://blog.csdn.net/weixin_43860634/article/details/152465728)
+
++ [如何使用unity制作游戏](https://blog.csdn.net/KARRAS/article/details/152460299)
+
++ [中级前端进阶方向 框架篇 三十三) SourceMap、打包优化.Webpack vs Vite 打包优化对比](https://blog.csdn.net/DeppBing/article/details/151794482)
+
++ [Docusaurus v3+ 集成 Giscus 评论系统实战：打造基于 GitHub Discussions 的文档评论区](https://blog.csdn.net/hdheh554694/article/details/152517427)
+
++ [基于密集型复杂城市场景下求解无人机三维路径规划的Q-learning 算法研究（Matlab代码实现）](https://blog.csdn.net/woshilaiwade/article/details/152438501)
+

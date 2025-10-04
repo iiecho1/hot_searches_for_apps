@@ -161,3 +161,11 @@
 
 + [佩斯科夫：普京将以某种合适方式出席2025年二十国集团峰会](https://news.cctv.com/2025/10/02/ARTIAYnav4nkVxHws0pj2sdA251002.shtml)
 
++ [美国得州一卡车停靠站发生枪击 致两儿童死亡](https://news.cctv.com/2025/10/05/ARTIafEtZxAOfGgNxkKx0ZcG251005.shtml)
+
++ [索马里“青年党”袭击首都一监狱引发爆炸](https://news.cctv.com/2025/10/05/ARTIbAqcoSHzUteU9IBpQmL6251005.shtml)
+
++ [以色列和哈马斯代表团将于5日在埃及举行间接会晤](https://news.cctv.com/2025/10/05/ARTIIaq59ncyKmJZrO5GabOL251005.shtml)
+
++ [泽连斯基签署多项针对俄罗斯制裁令](https://news.cctv.com/2025/10/05/ARTI0of76SygcbJuoKlaBgIK251005.shtml)
+
