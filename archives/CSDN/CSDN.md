@@ -241,3 +241,9 @@
 
 + [MongoDB GEO 项目场景 ms-scope 实战](https://blog.csdn.net/2401_82540083/article/details/152455432)
 
++ [【花雕动手做】HUSKYLENS 2 AI 相机视觉传感器 ( 二哈识图 2) 之姿态识别参数设置](https://blog.csdn.net/weixin_41659040/article/details/152501968)
+
++ [深入了解linux网络—— 基于UDP实现翻译和聊天功能](https://blog.csdn.net/LH__1314/article/details/151430368)
+
++ [【LLM】基于ms-Swift大模型SFT和RL的训练实践](https://blog.csdn.net/qq_35812205/article/details/152457702)
+

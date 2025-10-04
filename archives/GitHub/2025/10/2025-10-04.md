@@ -37,3 +37,27 @@
 
 + [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)
 
++ [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
+
++ [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+
++ [paaatrick/playball](https://github.com/paaatrick/playball)
+
++ [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+
++ [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+
++ [microsoft/BitNet](https://github.com/microsoft/BitNet)
+
++ [signalapp/libsignal](https://github.com/signalapp/libsignal)
+
++ [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor)
+
++ [glide-browser/glide](https://github.com/glide-browser/glide)
+
++ [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
+
++ [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
+
++ [MotiaDev/motia](https://github.com/MotiaDev/motia)
+

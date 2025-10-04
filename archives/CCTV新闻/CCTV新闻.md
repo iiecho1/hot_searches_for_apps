@@ -225,3 +225,11 @@
 
 + [“把这片土地上的故事，讲给更多人听”（外国博主眼中的中国）](https://news.cctv.com/2025/10/04/ARTIWR9gjgskZy0tr1g8youK251004.shtml)
 
++ [以方称加沙地带停火谈判预计于5日在埃及举行](https://news.cctv.com/2025/10/04/ARTIKMcPoCje9Usz5AyRqOOg251004.shtml)
+
++ [高市早苗当选自民党总裁后首个记者会：强调改变与恢复信任](https://news.cctv.com/2025/10/04/ARTIHfdJ3fCyvgRGBoGtFxBS251004.shtml)
+
++ [穆塔里卡宣誓就职马拉维总统](https://news.cctv.com/2025/10/04/ARTINTM9XYU0w0ZEjpgc3fjz251004.shtml)
+
++ [印尼学校建筑物倒塌事故遇难人数升至15人](https://news.cctv.com/2025/10/04/ARTI0W4NqcrqTloajPKCBSSb251004.shtml)
+
