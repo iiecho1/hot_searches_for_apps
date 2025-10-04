@@ -193,3 +193,5 @@
 
 + [堪察加东岸附近海域发生6.1级地震，震源深度30千米](https://news.cctv.com/2025/10/04/ARTIlHUK36wJDoXJazEUB4ld251004.shtml)
 
++ [加沙医疗濒临崩溃 冲突已致上千名婴儿丧生](https://news.cctv.com/2025/10/04/ARTIFYTklRn17MTLuodUrUb8251004.shtml)
+

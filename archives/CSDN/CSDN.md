@@ -187,3 +187,9 @@
 
 + [vue3父组件和子组件之间传递数据](https://blog.csdn.net/silent_missile/article/details/152464347)
 
++ [C++20 协程：在 AI 推理引擎中的深度应用](https://blog.csdn.net/htw250056/article/details/152418584)
+
++ [SpringBoot+Vue医院预约挂号系统 附带详细运行指导视频](https://blog.csdn.net/dgfdhgghd/article/details/152416717)
+
++ [基于Java springboot体育赛事直播平台系统（源码+文档+运行视频+讲解视频）](https://blog.csdn.net/2401_84908299/article/details/152460442)
+
