@@ -233,3 +233,7 @@
 
 + [印尼学校建筑物倒塌事故遇难人数升至15人](https://news.cctv.com/2025/10/04/ARTI0W4NqcrqTloajPKCBSSb251004.shtml)
 
++ [从厨房到小巷，新加坡与中国游客同迎黄金周](https://news.cctv.com/2025/10/04/ARTIkhwDvlPwo4IazE13zqjL251004.shtml)
+
++ [记者手记｜多线布局促中哈物流合作稳步向前](https://news.cctv.com/2025/10/04/ARTIHsxqH5CVjFg0t7sBedpV251004.shtml)
+
