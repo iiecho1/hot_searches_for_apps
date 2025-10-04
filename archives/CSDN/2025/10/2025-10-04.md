@@ -247,3 +247,9 @@
 
 + [【LLM】基于ms-Swift大模型SFT和RL的训练实践](https://blog.csdn.net/qq_35812205/article/details/152457702)
 
++ [视频生成技术Deepfake](https://blog.csdn.net/LOVEmy134611/article/details/151835485)
+
++ [【机器人】WMNav 将VLM融入世界模型 | 零样本目标导航 | IROS‘25](https://blog.csdn.net/qq_41204464/article/details/152464387)
+
++ [论文阅读：《A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning》](https://blog.csdn.net/2301_79789283/article/details/152082673)
+
