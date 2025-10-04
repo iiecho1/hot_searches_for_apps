@@ -203,3 +203,9 @@
 
 + [排序算法的并行加速实现](https://blog.csdn.net/linjing_zyq/article/details/152358478)
 
++ [【计算机视觉】霍夫变换检测](https://blog.csdn.net/2401_84149564/article/details/152463924)
+
++ [【LLM】基于ms-Swift大模型SFT和RL训练](https://blog.csdn.net/qq_35812205/article/details/152457702)
+
++ [【论文阅读】-《Sparse and Imperceivable Adversarial Attacks》](https://blog.csdn.net/2303_80022567/article/details/152463518)
+

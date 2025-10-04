@@ -197,3 +197,7 @@
 
 + [篡改教育部员工自动回复邮件 特朗普政府遭美工会起诉](https://news.cctv.com/2025/10/04/ARTIGhwHu3OGEGxAwp62Rljk251004.shtml)
 
++ [菲律宾地震已致45万人受灾 上万座房屋受损](https://news.cctv.com/2025/10/04/ARTIqkuDPThf8ZTQdeAyEIss251004.shtml)
+
++ [日本自民党总裁选举国会议员投票开始](https://news.cctv.com/2025/10/04/ARTIwfdaeYpNuxXTRd1jSraY251004.shtml)
+
