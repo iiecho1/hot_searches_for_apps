@@ -267,3 +267,7 @@
 
 + [【论文笔记】Vision-based 3D occupancy prediction in autonomous driving: a review and outlook](https://blog.csdn.net/weixin_45657478/article/details/152226290)
 
++ [人工智能赋能传统医疗设施设备改造：路径、挑战与未来展望](https://blog.csdn.net/kkiron/article/details/152514653)
+
++ [Flink 项目配置从 0 到可部署](https://blog.csdn.net/weixin_43114209/article/details/152446741)
+
