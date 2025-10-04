@@ -201,3 +201,9 @@
 
 + [日本自民党总裁选举国会议员投票开始](https://news.cctv.com/2025/10/04/ARTIwfdaeYpNuxXTRd1jSraY251004.shtml)
 
++ [高市早苗当选自民党总裁 预计将接任日本首相](https://news.cctv.com/2025/10/04/ARTIreWXEsps2rLYIlCoEm9E251004.shtml)
+
++ [委内瑞拉强烈谴责美国 美国“军事骚扰”严重威胁“国家安全”](https://news.cctv.com/2025/10/04/ARTIZOtLfUfDTiLwZwFvgb18251004.shtml)
+
++ [日本自民党总裁选举第一轮结束：高市早苗、小泉进次郎进入决胜轮](https://news.cctv.com/2025/10/04/ARTIyGujljTzSbizDg3wTeda251004.shtml)
+
