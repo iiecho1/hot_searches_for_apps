@@ -177,3 +177,13 @@
 
 + [Nature 正刊：美国麻省理工学院团队开发了多模态机器人平台加速多元素催化剂的发现与优化](https://blog.csdn.net/weixin_44887311/article/details/152363984)
 
++ [Java 大视界 -- Java 大数据在智能安防视频监控系统中的视频语义理解与智能检索进阶](https://blog.csdn.net/atgfg/article/details/152376930)
+
++ [如何在 AWS Marketplace 上部署 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/152501699)
+
++ [探索 Docker/K8s 部署 MySQL 的创新实践与优化技巧](https://blog.csdn.net/weixin_42300449/article/details/152371521)
+
++ [Java Web综合项目实战 - 西蒙购物网](https://blog.csdn.net/howard2005/article/details/152408228)
+
++ [vue3父组件和子组件之间传递数据](https://blog.csdn.net/silent_missile/article/details/152464347)
+

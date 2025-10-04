@@ -175,3 +175,21 @@
 
 + [释放人质 移交加沙地带管理权 哈马斯提交对特朗普“20点计划”回应](https://news.cctv.com/2025/10/04/ARTI0xdnoW0hyNvYJnAxQkr5251004.shtml)
 
++ [美抗议者与执法人员在芝加哥发生冲突](https://news.cctv.com/2025/10/04/ARTIm4XBgkjugNpgasvGck7D251004.shtml)
+
++ [选情“三足鼎立” 日本自民党新总裁今日将揭晓](https://news.cctv.com/2025/10/04/ARTImhv9KG3kOdNqZqkANKvq251004.shtml)
+
++ [卡塔尔欢迎哈马斯就美国“20点计划”提交正式回应](https://news.cctv.com/2025/10/04/ARTIrIpcRTWHkWjYYBgPS722251004.shtml)
+
++ [临时拨款法案在参院再度受阻 美政府“停摆”将继续](https://news.cctv.com/2025/10/04/ARTI4Bxf71YbRLe4g59zCXLC251004.shtml)
+
++ [美联邦政府“停摆”致重要经济数据暂停发布](https://news.cctv.com/2025/10/04/ARTIPJ6SU0lWYGVQZADhveZn251004.shtml)
+
++ [特朗普：相信哈马斯已准备好实现持久和平](https://news.cctv.com/2025/10/04/ARTI46evZbh4753dYLVLdx0o251004.shtml)
+
++ [哈马斯就美国“20点计划”提交正式回应](https://news.cctv.com/2025/10/04/ARTIttxCst31fYFljvRMPrcp251004.shtml)
+
++ [哈马斯回应后 以方称准备立即启动加沙“20点计划”第一阶段](https://news.cctv.com/2025/10/04/ARTIetYGgtPyWfHFHNPvQmLl251004.shtml)
+
++ [堪察加东岸附近海域发生6.1级地震，震源深度30千米](https://news.cctv.com/2025/10/04/ARTIlHUK36wJDoXJazEUB4ld251004.shtml)
+

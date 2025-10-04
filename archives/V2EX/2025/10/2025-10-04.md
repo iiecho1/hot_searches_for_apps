@@ -27,3 +27,9 @@
 
 + [推荐个安卓机，用来备用的](https://www.v2ex.com/t/1163250)
 
++ [YouTube Premium 新政策，如何防止被停？](https://www.v2ex.com/t/1163228)
+
++ [最近有 v 友成功在苹果官网买礼品卡成功了吗？求指导](https://www.v2ex.com/t/1163295)
+
++ [还是准备用 Air 做主力机了](https://www.v2ex.com/t/1163219)
+
