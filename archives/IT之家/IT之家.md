@@ -45,3 +45,15 @@
 
 + [苹果 Apple Watch Ultra 手表上浮警报功能救潜水员一命](https://m.ithome.com/html/887402.htm)
 
++ [问界系列部分车型 ADS 4 升级版本没有推送，产品总监致歉并解释称是因为未通过相关审批](https://m.ithome.com/html/887432.htm)
+
++ [消息称问界 M9 汽车华为 ADS 小蓝灯升级方案限时优惠价 7500 元，含前格栅灯带和后大灯灯组总成 + 装饰总成](https://m.ithome.com/html/887428.htm)
+
++ [网传“小米汽车突然自己开走”当事车主发声：小米公司发言人提供的信息属实](https://m.ithome.com/html/887486.htm)
+
++ [中国首款隐身战机歼-20 首飞珍贵画面首次公开，试飞员李刚称没过瘾就下来了](https://m.ithome.com/html/887450.htm)
+
++ [荣耀 Magic8 Pro 手机 15 秒手持流光快门样张公布，罗巍称“都是随手拍”](https://m.ithome.com/html/887425.htm)
+
++ [2025 国庆中秋假期汽车托运火了，“落地自驾”模式成旅游新宠](https://m.ithome.com/html/887403.htm)
+

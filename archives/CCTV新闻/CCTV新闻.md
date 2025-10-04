@@ -221,3 +221,7 @@
 
 + [加沙地带目前仍有超八千名巴勒斯坦人失踪](https://news.cctv.com/2025/10/04/ARTIvRH1Ly9h4i4UvMwjjB5B251004.shtml)
 
++ [“我看到了一个崭新的、快速发展的中国”——访孟加拉国沙贾拉尔科技大学政治学系教授沙哈布尔](https://news.cctv.com/2025/10/04/ARTILVQnxH2aImpk2yopOgm1251004.shtml)
+
++ [“把这片土地上的故事，讲给更多人听”（外国博主眼中的中国）](https://news.cctv.com/2025/10/04/ARTIWR9gjgskZy0tr1g8youK251004.shtml)
+
