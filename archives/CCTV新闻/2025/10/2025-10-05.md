@@ -177,3 +177,9 @@
 
 + [俄总统助理：俄须加速发展海军力量以遏制西方挑衅](https://news.cctv.com/2025/10/05/ARTI0hgyCxUV4mH7iforlW87251005.shtml)
 
++ [以媒：美国特使将加入加沙停火放人谈判](https://news.cctv.com/2025/10/05/ARTIPil1oCPQ5wo8LMZA6Ern251005.shtml)
+
++ [埃及外交部：将于6日主持以色列和哈马斯代表团间会议](https://news.cctv.com/2025/10/05/ARTICwK2bNCiMDda7d2a7T9A251005.shtml)
+
++ [意大利官员：美针对意面食的反倾销关税既无必要也无道理](https://news.cctv.com/2025/10/05/ARTI4UXKMAytP6teA9GvFGOr251005.shtml)
+
