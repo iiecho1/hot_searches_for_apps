@@ -21,3 +21,5 @@
 
 + [期待更轻薄的 Macbook Air](https://www.v2ex.com/t/1163357)
 
++ [2025 年底了， iPhone 还不支持 VOLTE 视频通话功能吗](https://www.v2ex.com/t/1163361)
+
