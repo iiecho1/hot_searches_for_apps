@@ -171,3 +171,9 @@
 
 + [关于“20点计划”，哈马斯到底回应了什么](https://news.cctv.com/2025/10/05/ARTISNdBowuAFmgNRzrSkGs9251005.shtml)
 
++ [南非警方派工作组赴法国调查大使死亡事件](https://news.cctv.com/2025/10/05/ARTIqCQIJcJf4Zaz7nLIyFbl251005.shtml)
+
++ [热点问答｜高市早苗当选日本自民党总裁三问](https://news.cctv.com/2025/10/05/ARTI2TnIpPnAwJvUwfCEPTKf251005.shtml)
+
++ [俄总统助理：俄须加速发展海军力量以遏制西方挑衅](https://news.cctv.com/2025/10/05/ARTI0hgyCxUV4mH7iforlW87251005.shtml)
+
