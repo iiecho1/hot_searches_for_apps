@@ -215,3 +215,7 @@
 
 + [哈马斯回应“20点计划” 各方能否抓住机会结束加沙冲突？](https://news.cctv.com/2025/10/04/ARTIa0UYMlrClL3ShDUe9fMX251004.shtml)
 
++ [欧洲最大乐高积木展在华沙开幕](https://photo.cctv.com/2025/10/04/PHOATmvy1jOSCf4UvQDnGyin251004.shtml)
+
++ [自民党选出首位女总裁 11天后日本或产生首位女首相](https://news.cctv.com/2025/10/04/ARTI60sP4AFBD7KzWKUhWkz0251004.shtml)
+

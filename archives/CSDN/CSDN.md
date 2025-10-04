@@ -223,3 +223,11 @@
 
 + [目标检测数据集 第048期-基于yolo标注格式的水果质量检测数据集(含免费分享)](https://blog.csdn.net/weixin_39588099/article/details/152333267)
 
++ [uniapp微信小程序 - [获取文件失败] 以下文件已被配置忽略打包上传，模拟器无法获取（Uniapp微信小程序分包报错，微信小程序优化指南-获取文件失败，忽略打包上传问题解决方案，详细解决教程）](https://blog.csdn.net/weixin_44198965/article/details/152508977)
+
++ [Python 2025：嵌入式系统与物联网（IoT）开发新趋势](https://blog.csdn.net/qq_65622609/article/details/152367188)
+
++ [【深入理解计算机网络03】计算机网络的分层结构，OSI模型与TCP/IP模型](https://blog.csdn.net/Muyu1uz/article/details/152461318)
+
++ [手写MyBatis第89弹：动态SQL解析与执行时机深度剖析](https://blog.csdn.net/weixin_67874152/article/details/152464372)
+
