@@ -39,3 +39,9 @@
 
 + [新品三连发：消息称大疆 Neo 2 无人机、Mic 3 Pro 麦克风、OM8 稳定器 11 月来袭](https://m.ithome.com/html/887265.htm)
 
++ [苹果 10 月新品前瞻：M5 iPad Pro、改款 Vision Pro 领衔，A17 Pro Apple TV、新 HomePod mini 有望亮相](https://m.ithome.com/html/887418.htm)
+
++ [导演詹姆斯・卡梅隆确认《阿凡达：火与烬》电影时长超 3 小时，红色巨龙托鲁克回归](https://m.ithome.com/html/887394.htm)
+
++ [苹果 Apple Watch Ultra 手表上浮警报功能救潜水员一命](https://m.ithome.com/html/887402.htm)
+

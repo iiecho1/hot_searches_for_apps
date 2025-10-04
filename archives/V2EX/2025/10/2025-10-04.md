@@ -47,3 +47,7 @@
 
 + [有没有觉得 iOS 现在删除 App 好繁琐](https://www.v2ex.com/t/1163272)
 
++ [做了个 sora 2 生成网站，有需要的朋友可以过来体验](https://www.v2ex.com/t/1163283)
+
++ [想让国内抖音 ip 固定在漂亮国](https://www.v2ex.com/t/1163327)
+

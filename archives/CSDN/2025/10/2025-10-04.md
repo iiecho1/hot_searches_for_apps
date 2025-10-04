@@ -231,3 +231,9 @@
 
 + [手写MyBatis第89弹：动态SQL解析与执行时机深度剖析](https://blog.csdn.net/weixin_67874152/article/details/152464372)
 
++ [OSPF协议详解3：网络类型、SPF算法、路由选择与特殊区域](https://blog.csdn.net/brain_07/article/details/152463126)
+
++ [springboot多功能智能手机阅读APP设计与实现（代码+数据库+LW）](https://blog.csdn.net/weixin_66784080/article/details/152462208)
+
++ [【LangChain】P10 LangChain 提示词模板深度解析（一）：Prompt Template](https://blog.csdn.net/weixin_43098506/article/details/152448552)
+

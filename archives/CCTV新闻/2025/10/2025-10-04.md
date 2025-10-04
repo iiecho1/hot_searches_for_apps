@@ -219,3 +219,5 @@
 
 + [自民党选出首位女总裁 11天后日本或产生首位女首相](https://news.cctv.com/2025/10/04/ARTI60sP4AFBD7KzWKUhWkz0251004.shtml)
 
++ [加沙地带目前仍有超八千名巴勒斯坦人失踪](https://news.cctv.com/2025/10/04/ARTIvRH1Ly9h4i4UvMwjjB5B251004.shtml)
+
