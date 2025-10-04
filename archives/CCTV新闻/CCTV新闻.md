@@ -183,3 +183,5 @@
 
 + [意大利官员：美针对意面食的反倾销关税既无必要也无道理](https://news.cctv.com/2025/10/05/ARTI4UXKMAytP6teA9GvFGOr251005.shtml)
 
++ [哈马斯宣布接受“20点计划”部分内容](https://news.cctv.com/2025/10/05/ARTIP2mbamp6bEJdfvURcdbB251005.shtml)
+

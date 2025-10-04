@@ -199,3 +199,9 @@
 
 + [提示工程架构师揭秘：提示质量度量背后的数学模型与推导过程](https://blog.csdn.net/2405_88636357/article/details/152450283)
 
++ [嵌入式硬件——基于IMX6ULL的GPT（通用定时器）实现](https://blog.csdn.net/weixin_69590097/article/details/152515389)
+
++ [电机控制-PMSM无感FOC控制（五）相电流检测及重构 — 单电阻采样](https://blog.csdn.net/zhuxinmingde/article/details/152515247)
+
++ [数据可视化的陷阱：颜色、坐标轴、双轴图的误导性案例](https://blog.csdn.net/long1973m/article/details/152508912)
+
