@@ -195,3 +195,5 @@
 
 + [加沙医疗濒临崩溃 冲突已致上千名婴儿丧生](https://news.cctv.com/2025/10/04/ARTIFYTklRn17MTLuodUrUb8251004.shtml)
 
++ [篡改教育部员工自动回复邮件 特朗普政府遭美工会起诉](https://news.cctv.com/2025/10/04/ARTIGhwHu3OGEGxAwp62Rljk251004.shtml)
+

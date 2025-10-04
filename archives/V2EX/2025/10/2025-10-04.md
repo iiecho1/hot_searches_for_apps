@@ -39,3 +39,7 @@
 
 + [跟父亲的关系，可能如风筝一样](https://www.v2ex.com/t/1163258)
 
++ [写了一个 Mac 清理工具 Mole，看看你能清理出多少 GB？](https://www.v2ex.com/t/1163304)
+
++ [2025 年了 iPhone 照片还有什么非 iCloud 的备份方案吗？](https://www.v2ex.com/t/1163301)
+

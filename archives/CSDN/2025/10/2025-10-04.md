@@ -193,3 +193,13 @@
 
 + [基于Java springboot体育赛事直播平台系统（源码+文档+运行视频+讲解视频）](https://blog.csdn.net/2401_84908299/article/details/152460442)
 
++ [GitHub 热榜项目 - 日榜(2025-10-03)](https://blog.csdn.net/u014390502/article/details/152448670)
+
++ [AI 提效：利用 AI 从前端 快速转型为UI/UX设计师和产品](https://blog.csdn.net/tomxjc/article/details/152360931)
+
++ [RabbitMQ C++ 客户端封装与实战](https://blog.csdn.net/zrt123456i/article/details/152464932)
+
++ [Vue 与 React 深度对比：技术差异、选型建议与未来趋势](https://blog.csdn.net/weixin_45793745/article/details/152418168)
+
++ [排序算法的并行加速实现](https://blog.csdn.net/linjing_zyq/article/details/152358478)
+
