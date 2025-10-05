@@ -251,3 +251,11 @@
 
 + [轻量级、高性能的RPC框架——Dubbo](https://blog.csdn.net/weixin_73739493/article/details/152522645)
 
++ [软件系统架构师的核心图谱：构建卓越系统的六维架构体系](https://blog.csdn.net/eidolon_foot/article/details/152464883)
+
++ [在 AI 盛行时代保持人类判断与学习能力的全面指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/152515524)
+
++ [【Bluedroid】A2dp Source播放流程源码分析(14)：AAC音频编码与传输机制深度解析(a2dp_aac_send_frames)](https://blog.csdn.net/weixin_37800531/article/details/152333526)
+
++ [心脏病监测数据可视化分析](https://blog.csdn.net/m0_70466650/article/details/152519217)
+

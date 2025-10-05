@@ -233,3 +233,11 @@
 
 + [尼泊尔持续降雨引发山体滑坡和洪水 已致39人死亡](https://news.cctv.com/2025/10/05/ARTIBZfJ2C1JSdmYeLuKh2ni251005.shtml)
 
++ [全球治理倡议是迈向建立更加公平国际体系的重要一步——访土耳其国际经济专家阿克布卢特](https://news.cctv.com/2025/10/05/ARTIQckWXt9AucFag2TZ4S2u251005.shtml)
+
++ [“中国制造”工艺品“焕新”亮相智利](https://news.cctv.com/2025/10/05/ARTIQR7d2irNSDY2L19VFQq8251005.shtml)
+
++ [记者手记丨“这条铁路就像是我的孩子一样”](https://news.cctv.com/2025/10/05/ARTIyDcnt8ZHG1jq0zl0Ic5O251005.shtml)
+
++ [以色列与哈马斯将会谈 加沙停火希望有多大](https://news.cctv.com/2025/10/05/ARTINzAetdgHFkxQUDxLgOFs251005.shtml)
+
