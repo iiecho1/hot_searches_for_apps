@@ -275,3 +275,5 @@
 
 + [一个学校随机点名系统（代excel 自定义导入名字，+随机点名）](https://blog.csdn.net/tomxjc/article/details/152555430)
 
++ [提示工程架构师：应对AI幻觉问题的全新思路](https://blog.csdn.net/universsky2015/article/details/152561164)
+

@@ -253,3 +253,7 @@
 
 + [印度东部山体滑坡造成至少14人死亡](https://news.cctv.com/2025/10/05/ARTITYYcNxSyqhg6KcXIIiaj251005.shtml)
 
++ [伊朗外长：上月与国际原子能机构达成的协议不再有效](https://news.cctv.com/2025/10/05/ARTIqbNRrCDRlN9eCJxNXCUp251005.shtml)
+
++ [八国外长重申将共同努力立即结束加沙战争](https://news.cctv.com/2025/10/05/ARTIi7ekLrj7ewYdeKL2HC4a251005.shtml)
+

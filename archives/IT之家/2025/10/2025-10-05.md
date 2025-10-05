@@ -37,3 +37,27 @@
 
 + [2025 国庆中秋假期汽车托运火了，“落地自驾”模式成旅游新宠](https://m.ithome.com/html/887403.htm)
 
++ [苹果 iPhone 17 Pro 系列被吐槽闪光灯离镜头太远，拍视频有影子](https://m.ithome.com/html/887549.htm)
+
++ [小车司机雨天开辅助驾驶撞上半挂车：负全责](https://m.ithome.com/html/887565.htm)
+
++ [车评人陈震向事故白车比亚迪司机家属致歉，称会全力配合有关部门、做好后续工作以及补偿对其造成的损失](https://m.ithome.com/html/887619.htm)
+
++ [小米 17 手机 16GB+1TB 版本今日开售：第五代骁龙 8 至尊版、7000mAh 电池，5299 元](https://m.ithome.com/html/887573.htm)
+
++ [15 年老牌 IPv6 连接测试网站宣布关闭，创始人“为爱发电”终结](https://m.ithome.com/html/887546.htm)
+
++ [卢伟冰：小米 17 全系列销量比往代同期增超 20%，Pro 系列大幅超出预期](https://m.ithome.com/html/887593.htm)
+
++ [消息称某厂手机刚刚激活量达百万，预计为小米 17 系列](https://m.ithome.com/html/887639.htm)
+
++ [国内显卡厂商风魄推 RTX 3080 20GB“拼好卡”：2988 元起，性能超 RTX 5060 Ti 16GB](https://m.ithome.com/html/887540.htm)
+
++ [歼-35 与歼-35A 机库首度公开，未涂装机身首次亮相](https://m.ithome.com/html/887572.htm)
+
++ [中国地震局：正在积极对接相关市场主体，推进地震预警信息接入苹果 iOS 系统功能](https://m.ithome.com/html/887608.htm)
+
++ [小米之家 10 月 5 日-6 日免费送 30 万份月饼](https://m.ithome.com/html/887577.htm)
+
++ [小米路由器 BE6500 Pro 发布第 5 次固件更新：新增专属网络、无线接入节点选择等功能](https://m.ithome.com/html/887555.htm)
+
