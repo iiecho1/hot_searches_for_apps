@@ -101,3 +101,9 @@
 
 + [Flutter技术栈深度解析：从架构设计到性能优化](https://blog.csdn.net/amxwsl/article/details/152403903)
 
++ [机器学习——SVM支持向量机详解](https://blog.csdn.net/m0_74069207/article/details/152455798)
+
++ [配置即权限：从传统开源 RBAC 框架到 SPARK 的六层数据护盾，告别改权限就要改代码的魔咒](https://blog.csdn.net/lgf228/article/details/152522893)
+
++ [Vue 3 项目集成 Element Plus + Tailwind CSS 详细教程](https://blog.csdn.net/weixin_40841797/article/details/152437561)
+
