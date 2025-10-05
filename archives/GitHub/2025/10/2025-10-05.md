@@ -43,3 +43,21 @@
 
 + [MotiaDev/motia](https://github.com/MotiaDev/motia)
 
++ [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+
++ [meshtastic/firmware](https://github.com/meshtastic/firmware)
+
++ [YaLTeR/niri](https://github.com/YaLTeR/niri)
+
++ [audacity/audacity](https://github.com/audacity/audacity)
+
++ [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+
++ [evcc-io/evcc](https://github.com/evcc-io/evcc)
+
++ [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader)
+
++ [expressjs/express](https://github.com/expressjs/express)
+
++ [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
+
