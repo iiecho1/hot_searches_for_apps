@@ -267,3 +267,11 @@
 
 + [Flutter技术栈深度解析：从架构设计到性能优化](https://blog.csdn.net/amxwsl/article/details/152403903)
 
++ [【AI大模型前沿】Step-Audio 2 mini：阶跃星辰开源的端到端语音大模型，听得清楚、想得明白、说得自然](https://blog.csdn.net/xiaobing259/article/details/152415437)
+
++ [小杰深度学习（five）——正则化、神经网络的过拟合解决方案](https://blog.csdn.net/2501_92101354/article/details/152132218)
+
++ [【Flutter】APP的数据安全（基于Flutter 交易所APP的总结）](https://blog.csdn.net/u014220518/article/details/152555056)
+
++ [一个学校随机点名系统（代excel 自定义导入名字，+随机点名）](https://blog.csdn.net/tomxjc/article/details/152555430)
+

@@ -251,3 +251,5 @@
 
 + [尼泊尔持续降雨已致43人死亡](https://news.cctv.com/2025/10/05/ARTIhHtl4dBTKAHktQgQgyRC251005.shtml)
 
++ [印度东部山体滑坡造成至少14人死亡](https://news.cctv.com/2025/10/05/ARTITYYcNxSyqhg6KcXIIiaj251005.shtml)
+
