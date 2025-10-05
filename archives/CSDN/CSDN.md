@@ -231,3 +231,9 @@
 
 + [嵌入式硬件——基于IMX6ULL的I2C实现](https://blog.csdn.net/weixin_69590097/article/details/152522737)
 
++ [[论文阅读] (42)ASC25 基于大语言模型的未知Web攻击威胁检测](https://blog.csdn.net/Eastmount/article/details/152550546)
+
++ [RaC——挂衬衫且打包外卖盒：如果机器人将失败，则人类让其先回退后纠正，以减缓IL中的误差累积(让数据的增长对任务促进的效率更高)](https://blog.csdn.net/v_JULY_v/article/details/152522861)
+
++ [基于信息论的OTFS雷达波形设计——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152510026)
+

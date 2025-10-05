@@ -199,3 +199,19 @@
 
 + [一古埃及法老陵墓首次向游客开放](https://news.cctv.com/2025/10/05/ARTIYsmZRzqmwE7E3dqF5tBs251005.shtml)
 
++ [美国政府“停摆”持续 多重负面影响显现](https://news.cctv.com/2025/10/05/ARTIXLWT2S50SfiAbXKmN7ny251005.shtml)
+
++ [“同中国伙伴打交道就像朋友一样亲切”](https://news.cctv.com/2025/10/05/ARTIFrxodXGNNkEP5tecLFcl251005.shtml)
+
++ [中国正在筑起一道“绿色长城”](https://news.cctv.com/2025/10/05/ARTIqKcbYZdGjyUUAlkbaczb251005.shtml)
+
++ [全球治理倡议对小岛屿发展中国家具有深远意义](https://news.cctv.com/2025/10/05/ARTIf0qThx0k6o32ARMC3VQi251005.shtml)
+
++ [“发现真实中国的立体、多元、美好”（外国博主眼中的中国）](https://news.cctv.com/2025/10/05/ARTIqBOrOxaKRjbrdJ7jPjkf251005.shtml)
+
++ [美称又击沉一艘“毒船” 区域国家指控谋杀](https://news.cctv.com/2025/10/05/ARTIPRPs2aOplhZ7OBMr1Q1p251005.shtml)
+
++ [泰国强降雨及洪水已致该国多地12人死亡 数十万人受灾](https://news.cctv.com/2025/10/05/ARTIKECAvyX2XHUgsaHEPeHM251005.shtml)
+
++ [谈判在即 以总理威胁军事手段解除哈马斯武装](https://news.cctv.com/2025/10/05/ARTId1aMU0NGthKMbZBJaTl1251005.shtml)
+

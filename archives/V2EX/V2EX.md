@@ -31,3 +31,5 @@
 
 + [48+512 不是一个合理的配置](https://www.v2ex.com/t/1163378)
 
++ [大家有用 vps 当 nas 用的吗？](https://www.v2ex.com/t/1163377)
+
