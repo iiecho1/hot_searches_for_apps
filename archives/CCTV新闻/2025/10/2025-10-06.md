@@ -167,3 +167,5 @@
 
 + [以军总参谋长：以军要随时准备恢复战斗行动](https://news.cctv.com/2025/10/06/ARTITG52fYDTzI6HAhMVNLsj251006.shtml)
 
++ [以方扣押“全球坚韧船队”后 多国船员被驱逐遣返](https://news.cctv.com/2025/10/06/ARTI9QrHHbStnIts9Rke3Ybf251006.shtml)
+
