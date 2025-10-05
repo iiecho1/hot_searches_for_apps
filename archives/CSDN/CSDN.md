@@ -245,3 +245,5 @@
 
 + [大数据工程师认证项目：汽车之家数据分析系统，Hadoop分布式存储+Spark计算引擎](https://blog.csdn.net/2501_92990528/article/details/152521852)
 
++ [在云服务器搭建部署私人饥荒联机版游戏服务器 [2025.10.3][ubuntu 24.04][腾讯云2核2G服务器]](https://blog.csdn.net/qq_72715438/article/details/152462201)
+
