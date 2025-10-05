@@ -47,3 +47,5 @@
 
 + [14900K 水冷服务器 安装 Linux 系统装不上 Debian ubuntu 都是 但是 win 就没问题什么情况](https://www.v2ex.com/t/1163395)
 
++ [用微信 收发乱码消息 是否会触发 AI 的关注](https://www.v2ex.com/t/1163389)
+

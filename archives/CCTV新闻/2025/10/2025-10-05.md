@@ -241,3 +241,13 @@
 
 + [以色列与哈马斯将会谈 加沙停火希望有多大](https://news.cctv.com/2025/10/05/ARTINzAetdgHFkxQUDxLgOFs251005.shtml)
 
++ [不懈努力打造“中国名片”——记奋战在刚果（布）和刚果（金）工地上的中国建设者](https://news.cctv.com/2025/10/05/ARTIRRz25GftptdlCclV1L1O251005.shtml)
+
++ [记者手记丨意大利月光下的中国味道](https://news.cctv.com/2025/10/05/ARTIa3OpsLpHAKPBs6JUblW6251005.shtml)
+
++ [让开放的阳光温暖世界经济——从国际展会看中国机遇](https://news.cctv.com/2025/10/05/ARTIgig8dKG91w7dejG2J6il251005.shtml)
+
++ [“铁杆友谊”写在钢轨上——塞尔维亚总统武契奇高度评价匈塞铁路](https://news.cctv.com/2025/10/05/ARTIGt4GU5EDnvyqp0116nH7251005.shtml)
+
++ [尼泊尔持续降雨已致43人死亡](https://news.cctv.com/2025/10/05/ARTIhHtl4dBTKAHktQgQgyRC251005.shtml)
+
