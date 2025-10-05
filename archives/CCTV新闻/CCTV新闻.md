@@ -257,3 +257,7 @@
 
 + [八国外长重申将共同努力立即结束加沙战争](https://news.cctv.com/2025/10/05/ARTIi7ekLrj7ewYdeKL2HC4a251005.shtml)
 
++ [洪水袭击泰国16个府致12人死亡](https://news.cctv.com/2025/10/05/ARTIujeQLVk4WS9S5iIYj8DW251005.shtml)
+
++ [尼泊尔伊拉姆山体滑坡已致34人死亡](https://news.cctv.com/2025/10/05/ARTInfaM1n59uhjhyvHm2rLG251005.shtml)
+
