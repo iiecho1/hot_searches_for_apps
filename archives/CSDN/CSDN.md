@@ -153,3 +153,7 @@
 
 + [AG-UI vs MCP vs A2A：AI 代理通信协议全解析，开发者如何选择？](https://blog.csdn.net/neweastsun/article/details/152456809)
 
++ [【aigc】chrome-devtools-mcp怎么玩？](https://blog.csdn.net/lineuman/article/details/152457653)
+
++ [【LangChain】P10 LangChain 提示词模板深度解析（一）：Prompt Template](https://blog.csdn.net/weixin_43098506/article/details/152448552)
+
