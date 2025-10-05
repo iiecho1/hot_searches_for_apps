@@ -223,3 +223,7 @@
 
 + [特朗普：以色列同意初步撤军路线 哈马斯确认后加沙将立即停火](https://news.cctv.com/2025/10/05/ARTIjg5bqUaRQWihvJgqaMBW251005.shtml)
 
++ [尼泊尔东部山体滑坡已致23人死亡](https://news.cctv.com/2025/10/05/ARTIZARJYc3LPHSKw9HYZU9P251005.shtml)
+
++ [经济热点问答丨高市早苗将给日本经济带来什么影响](https://news.cctv.com/2025/10/05/ARTIikD8axxnElk5FPcdtW3k251005.shtml)
+
