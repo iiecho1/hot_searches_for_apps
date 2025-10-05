@@ -247,3 +247,7 @@
 
 + [在云服务器搭建部署私人饥荒联机版游戏服务器 [2025.10.3][ubuntu 24.04][腾讯云2核2G服务器]](https://blog.csdn.net/qq_72715438/article/details/152462201)
 
++ [【SpringAI】第五弹：基于 Spring AI ToolCallback Function 实现文件操作、联网搜索、网页抓取、终端操作、资源下载、PDF生成等工具的开发与调用、核心特性解析](https://blog.csdn.net/2402_84916296/article/details/152553966)
+
++ [轻量级、高性能的RPC框架——Dubbo](https://blog.csdn.net/weixin_73739493/article/details/152522645)
+

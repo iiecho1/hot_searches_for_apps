@@ -229,3 +229,7 @@
 
 + [乌称俄军对扎波罗热发动大规模攻击 俄暂无回应](https://news.cctv.com/2025/10/05/ARTIyZAV9bWnssdWWTotrLOe251005.shtml)
 
++ [胡塞武装称使用导弹袭击耶路撒冷多处目标](https://news.cctv.com/2025/10/05/ARTIrUfJqva6F4hIPhOwRYkI251005.shtml)
+
++ [尼泊尔持续降雨引发山体滑坡和洪水 已致39人死亡](https://news.cctv.com/2025/10/05/ARTIBZfJ2C1JSdmYeLuKh2ni251005.shtml)
+
