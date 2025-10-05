@@ -161,3 +161,9 @@
 
 + [篡改教育部员工自动回复邮件 特朗普政府遭美工会起诉](https://news.cctv.com/2025/10/04/ARTIGhwHu3OGEGxAwp62Rljk251004.shtml)
 
++ [法国总理勒科尔尼正式组阁 内阁成员名单公布](https://news.cctv.com/2025/10/06/ARTIWsi41e8rhJsjqS1V06II251006.shtml)
+
++ [被指虐待“全球坚韧船队”成员 以色列否认](https://news.cctv.com/2025/10/06/ARTINL2NHfPXxZK1nyFTkONl251006.shtml)
+
++ [以军总参谋长：以军要随时准备恢复战斗行动](https://news.cctv.com/2025/10/06/ARTITG52fYDTzI6HAhMVNLsj251006.shtml)
+

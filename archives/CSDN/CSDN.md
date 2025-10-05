@@ -127,3 +127,15 @@
 
 + [C++学习：C++11介绍及其新特性学习](https://blog.csdn.net/2401_89119815/article/details/151874282)
 
++ [Java 大视界 -- Java 大数据在智能教育学习社区知识图谱构建与知识传播分析中的应用](https://blog.csdn.net/atgfg/article/details/152449432)
+
++ [LLM Agent 动态 API 调用与多模态推理技术详解](https://blog.csdn.net/qq_16242613/article/details/152520805)
+
++ [【Linux】IP](https://blog.csdn.net/tan_run/article/details/151335547)
+
++ [大数据工程师认证项目：汽车之家数据分析系统，Hadoop分布式存储+Spark计算引擎](https://blog.csdn.net/2501_92990528/article/details/152521852)
+
++ [从传输层协议到 UDP：轻量高效的传输选择](https://blog.csdn.net/htw250056/article/details/152455922)
+
++ [Vue 3 Hooks：组合式API实践](https://blog.csdn.net/m0_72755177/article/details/152565197)
+
