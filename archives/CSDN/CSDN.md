@@ -237,3 +237,11 @@
 
 + [基于信息论的OTFS雷达波形设计——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152510026)
 
++ [Vue3 - 实现营业执照识别功能，用户上传营业执照图片后进行OCR文字识别获取数据或填充到表单，vue3扫描新版营业执照电子版图像并获取字段示例源码（纯前端免费ocr识别方案、第三方百度ocr识别）](https://blog.csdn.net/weixin_44198965/article/details/152550577)
+
++ [【Linux】Linux管道与进程池深度解析：从原理到实战](https://blog.csdn.net/wheeldown/article/details/152520503)
+
++ [Google开源Tunix：JAX生态的LLM微调方案来了](https://blog.csdn.net/m0_46510245/article/details/152518826)
+
++ [大数据工程师认证项目：汽车之家数据分析系统，Hadoop分布式存储+Spark计算引擎](https://blog.csdn.net/2501_92990528/article/details/152521852)
+

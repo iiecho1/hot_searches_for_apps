@@ -215,3 +215,11 @@
 
 + [谈判在即 以总理威胁军事手段解除哈马斯武装](https://news.cctv.com/2025/10/05/ARTId1aMU0NGthKMbZBJaTl1251005.shtml)
 
++ [立陶宛首都机场因热气球飞临一度关闭](https://news.cctv.com/2025/10/05/ARTIHbouPpSBO89X7M9Lbwkj251005.shtml)
+
++ [白宫：特朗普决定向芝加哥部署国民警卫队](https://news.cctv.com/2025/10/05/ARTIt3XtRz6GXaFDwc5dldxq251005.shtml)
+
++ [印尼学校建筑物倒塌事故遇难人数升至37人](https://news.cctv.com/2025/10/05/ARTIVrR0SNCV3FjOGl4FbYGq251005.shtml)
+
++ [特朗普：以色列同意初步撤军路线 哈马斯确认后加沙将立即停火](https://news.cctv.com/2025/10/05/ARTIjg5bqUaRQWihvJgqaMBW251005.shtml)
+
