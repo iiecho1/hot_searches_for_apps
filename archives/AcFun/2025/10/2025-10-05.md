@@ -71,3 +71,5 @@
 
 + [卡祖笛版《我会自己上厕所》](https://m.acfun.cn/v/?ac=47884713)
 
++ [EKU哟](https://m.acfun.cn/v/?ac=47882662)
+

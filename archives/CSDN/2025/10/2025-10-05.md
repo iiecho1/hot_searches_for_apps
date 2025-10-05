@@ -205,3 +205,11 @@
 
 + [数据可视化的陷阱：颜色、坐标轴、双轴图的误导性案例](https://blog.csdn.net/long1973m/article/details/152508912)
 
++ [玩转ClaudeCode：通过Chrome DevTools MCP实现页面抓取和调试](https://blog.csdn.net/weixin_41793160/article/details/152534930)
+
++ [LLM Agent 动态 API 调用与多模态推理技术详解](https://blog.csdn.net/qq_16242613/article/details/152520805)
+
++ [python评估算法性能](https://blog.csdn.net/qq_57226859/article/details/152465828)
+
++ [【aigc】chrome-devtools-mcp怎么玩？](https://blog.csdn.net/lineuman/article/details/152457653)
+

@@ -185,3 +185,5 @@
 
 + [哈马斯宣布接受“20点计划”部分内容](https://news.cctv.com/2025/10/05/ARTIP2mbamp6bEJdfvURcdbB251005.shtml)
 
++ [不满谈判 以色列极右翼部长向内塔尼亚胡发难](https://news.cctv.com/2025/10/05/ARTI0y151m50nHUqZHuNrpUk251005.shtml)
+
