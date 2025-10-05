@@ -169,3 +169,7 @@
 
 + [以方扣押“全球坚韧船队”后 多国船员被驱逐遣返](https://news.cctv.com/2025/10/06/ARTI9QrHHbStnIts9Rke3Ybf251006.shtml)
 
++ [法国公布新一届政府首批成员名单](https://news.cctv.com/2025/10/06/ARTIYMJDqbyVeuDdZND4alz0251006.shtml)
+
++ [印尼学校建筑物倒塌事故遇难人数升至53人](https://news.cctv.com/2025/10/06/ARTIiljdW7lv29wQP2ATiRDB251006.shtml)
+

@@ -151,3 +151,5 @@
 
 + [基于时间的ACL](https://blog.csdn.net/fuhao0748/article/details/152573622)
 
++ [AG-UI vs MCP vs A2A：AI 代理通信协议全解析，开发者如何选择？](https://blog.csdn.net/neweastsun/article/details/152456809)
+
