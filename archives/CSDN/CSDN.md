@@ -139,3 +139,11 @@
 
 + [Vue 3 Hooks：组合式API实践](https://blog.csdn.net/m0_72755177/article/details/152565197)
 
++ [Prompt Programming - 用文字重构AI智能体系](https://blog.csdn.net/cxr828/article/details/152452278)
+
++ [hive、spark任务报错或者异常怎么排查以及定位哪段sql](https://blog.csdn.net/qq_56799520/article/details/152456659)
+
++ [Spark专题-第三部分：性能监控与实战优化（3）-数据倾斜优化](https://blog.csdn.net/weixin_44999258/article/details/152446713)
+
++ [通过HTML演示JVM的垃圾回收-新生代与老年代](https://blog.csdn.net/lfeishumomol/article/details/152449199)
+
