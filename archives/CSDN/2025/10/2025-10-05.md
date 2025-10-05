@@ -213,3 +213,11 @@
 
 + [【aigc】chrome-devtools-mcp怎么玩？](https://blog.csdn.net/lineuman/article/details/152457653)
 
++ [RTX 4090 加速国产 AIGC 视频生成：腾讯混元与阿里千问开源模型](https://blog.csdn.net/2401_83830408/article/details/152516744)
+
++ [AutoOps：简化自管理 Elasticsearch 的旅程](https://blog.csdn.net/UbuntuTouch/article/details/152439878)
+
++ [从堆到TopK：一文吃透核心原理与实战应用](https://blog.csdn.net/Vect__/article/details/152517741)
+
++ [BEV query 式图片点云视觉特征融合](https://blog.csdn.net/Listennnn/article/details/152412599)
+

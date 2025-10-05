@@ -31,3 +31,9 @@
 
 + [苹果 Apple Watch Ultra 手表上浮警报功能救潜水员一命](https://m.ithome.com/html/887402.htm)
 
++ [沪昆高速一车辆被曝车尾装黄色远光灯长时间闪后车，交警称已进行相应处罚](https://m.ithome.com/html/887392.htm)
+
++ [导演詹姆斯・卡梅隆确认《阿凡达：火与烬》电影时长超 3 小时，红色巨龙托鲁克回归](https://m.ithome.com/html/887394.htm)
+
++ [2025 国庆中秋假期汽车托运火了，“落地自驾”模式成旅游新宠](https://m.ithome.com/html/887403.htm)
+

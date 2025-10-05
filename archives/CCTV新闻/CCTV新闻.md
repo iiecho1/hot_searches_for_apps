@@ -187,3 +187,15 @@
 
 + [不满谈判 以色列极右翼部长向内塔尼亚胡发难](https://news.cctv.com/2025/10/05/ARTI0y151m50nHUqZHuNrpUk251005.shtml)
 
++ [美联邦法官暂禁特朗普向波特兰部署国民警卫队](https://news.cctv.com/2025/10/05/ARTIu1HtEp5beaTiBb9y1O3a251005.shtml)
+
++ [委内瑞拉举行全国特别军事演习](https://news.cctv.com/2025/10/05/ARTI5v6MaZnGSzs0Ioxjp1Ax251005.shtml)
+
++ [金正恩：若美国无视地区诸国安全忧虑 朝鲜将采取军事技术措施](https://news.cctv.com/2025/10/05/ARTI3NUq7Bi7Vo6P6nKQ4f5J251005.shtml)
+
++ [捷克在野党赢得众议院选举 巴比什有望再次出任总理](https://news.cctv.com/2025/10/05/ARTIMZb9J4ZpnMTgVHwyjzsn251005.shtml)
+
++ [谈判在即 以色列发动近百次袭击 加沙停火面临三重挑战](https://news.cctv.com/2025/10/05/ARTIqGoPgpD8wzb8B6OW1tM6251005.shtml)
+
++ [一古埃及法老陵墓首次向游客开放](https://news.cctv.com/2025/10/05/ARTIYsmZRzqmwE7E3dqF5tBs251005.shtml)
+
