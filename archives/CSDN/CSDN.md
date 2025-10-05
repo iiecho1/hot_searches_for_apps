@@ -221,3 +221,13 @@
 
 + [BEV query 式图片点云视觉特征融合](https://blog.csdn.net/Listennnn/article/details/152412599)
 
++ [机器学习、数据科学、深度学习、神经网络的区别与联系](https://blog.csdn.net/weixin_44931681/article/details/152443471)
+
++ [gitlab-runner 再次实践中理解和学习](https://blog.csdn.net/qq_31362767/article/details/152413662)
+
++ [机器学习——SVM支持向量机详解](https://blog.csdn.net/m0_74069207/article/details/152455798)
+
++ [环球游：迈阿密](https://blog.csdn.net/hezuijiudexiaobai/article/details/152517811)
+
++ [嵌入式硬件——基于IMX6ULL的I2C实现](https://blog.csdn.net/weixin_69590097/article/details/152522737)
+
