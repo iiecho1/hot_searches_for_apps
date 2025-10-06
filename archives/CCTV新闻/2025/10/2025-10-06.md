@@ -195,3 +195,5 @@
 
 + [派遣国民警卫队再受阻 特朗普被叫停向俄勒冈州派兵](https://news.cctv.com/2025/10/06/ARTI6urL4NripRcggejTr88F251006.shtml)
 
++ [全球最大冰山正在加速解体](https://news.cctv.com/2025/10/06/ARTI6h4ddbdy3IsSr3LvYt3R251006.shtml)
+
