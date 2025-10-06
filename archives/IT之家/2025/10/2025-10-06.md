@@ -47,3 +47,15 @@
 
 + [六六大顺：中国铁路 G6666 次列车上线，限时开行](https://m.ithome.com/html/887485.htm)
 
++ [华为手机 / 平板升级 HarmonyOS 6 开发者版本控制中心星闪、蓝牙开关合一，支持功能快捷开启](https://m.ithome.com/html/887658.htm)
+
++ [消息称赛力斯一直在推进 2024 款问界 M9 汽车的硬件升级，工厂已完成第一批内部车型改造](https://m.ithome.com/html/887665.htm)
+
++ [雷军确认：小米 17 系列手机开售 5 天销量破 100 万台](https://m.ithome.com/html/887682.htm)
+
++ [小米 17 Pro 系列手机中秋限定背屏壁纸上线，6 款可选](https://m.ithome.com/html/887597.htm)
+
++ [库克 65 岁在即，苹果硬件主管 John Ternus 成 CEO 最大热门接班人选](https://m.ithome.com/html/887676.htm)
+
++ [消息称一加 15 手机配备 7300mAh 电池，支持 120W+50W 快充组合](https://m.ithome.com/html/887651.htm)
+
