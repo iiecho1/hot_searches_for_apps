@@ -129,3 +129,11 @@
 
 + [Vue 学习与实践大纲（后端视角）](https://blog.csdn.net/Sky960722/article/details/152557982)
 
++ [【Linux网络】网络命令](https://blog.csdn.net/2402_82670467/article/details/152281748)
+
++ [人工智能赋能传统医疗设施设备改造：路径、挑战与未来展望](https://blog.csdn.net/kkiron/article/details/152514653)
+
++ [【机器人】WMNav 将VLM融入世界模型 | 零样本目标导航 | IROS‘25](https://blog.csdn.net/qq_41204464/article/details/152464387)
+
++ [C++分布式语音识别服务实践](https://blog.csdn.net/zrt123456i/article/details/152617608)
+
