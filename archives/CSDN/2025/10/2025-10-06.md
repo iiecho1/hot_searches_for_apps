@@ -169,3 +169,13 @@
 
 + [使用雨云云服务器+AstrBot+NapCat搭建QQ个人机器人【非官方】（简易版）](https://blog.csdn.net/2402_82403485/article/details/152551352)
 
++ [《掰开揉碎讲编程-短篇》 2025 汉化idea控制台出现乱码解决方案 看完这篇解决不了乱码也是神人了](https://blog.csdn.net/qq_61654952/article/details/152599957)
+
++ [【自动驾驶】自动驾驶概述 ⑥ ( 自动驾驶软件系统概述 | RTOS 操作系统 和 Framework 框架 | Autoware Universe 和 Apollo Cyber RT 开发框架 )](https://blog.csdn.net/han1202012/article/details/152046779)
+
++ [第四章：BI的应用场景](https://blog.csdn.net/martian665/article/details/149911352)
+
++ [LLM 只会生成文本？用 ReAct 模式手搓一个简易 Claude Code Agent](https://blog.csdn.net/tianjindong0804/article/details/152565147)
+
++ [Sora引爆AI原生应用新战场 产品定义模型 创业者迎来要么做大要么出局的时代](https://blog.csdn.net/yuntongliangda/article/details/152553100)
+
