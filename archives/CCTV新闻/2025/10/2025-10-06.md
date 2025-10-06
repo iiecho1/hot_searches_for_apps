@@ -173,3 +173,5 @@
 
 + [印尼学校建筑物倒塌事故遇难人数升至53人](https://news.cctv.com/2025/10/06/ARTIiljdW7lv29wQP2ATiRDB251006.shtml)
 
++ [多国举办丰富多彩的庆中秋活动](https://news.cctv.com/2025/10/06/ARTIGLfVT0QO5aecdMz0nD4V251006.shtml)
+

@@ -157,3 +157,9 @@
 
 + [【LangChain】P10 LangChain 提示词模板深度解析（一）：Prompt Template](https://blog.csdn.net/weixin_43098506/article/details/152448552)
 
++ [使用 Docker 部署 Nginx 教程](https://blog.csdn.net/java_logo/article/details/152521035)
+
++ [3步实现Java WebSocket推送：实时数据流 vs 传统HTTP轮询？](https://blog.csdn.net/z_344791576/article/details/150698191)
+
++ [deepseek 的对话json导出成word和pdf](https://blog.csdn.net/qq_49758204/article/details/152520820)
+
