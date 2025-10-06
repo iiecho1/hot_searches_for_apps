@@ -197,3 +197,11 @@
 
 + [全球最大冰山正在加速解体](https://news.cctv.com/2025/10/06/ARTI6h4ddbdy3IsSr3LvYt3R251006.shtml)
 
++ [法国总理勒科尔尼递交辞呈](https://news.cctv.com/2025/10/06/ARTIThFmd62WOoxKgaP36eTx251006.shtml)
+
++ [梅德韦杰夫将率俄代表团访问朝鲜](https://news.cctv.com/2025/10/06/ARTIzeKhjMmeQ0J9bhriS1Qd251006.shtml)
+
++ [中企承建圭亚那新德梅拉拉河大桥正式通车](https://news.cctv.com/2025/10/06/ARTIm3oMgTswWkxJiKpEjNPX251006.shtml)
+
++ [联合国机构：今年以来以军对约旦河西岸发动近7500次袭击](https://news.cctv.com/2025/10/06/ARTIKFPeqLnhb0D3C2dd1dHs251006.shtml)
+

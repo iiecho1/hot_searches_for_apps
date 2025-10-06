@@ -39,3 +39,7 @@
 
 + [几乎完全不懂融资，想找一个融资合伙人](https://www.v2ex.com/t/1163419)
 
++ [智本技研株式会社(Chihon Tech Research Co., Ltd.) 这个公司有了解的兄弟吗？](https://www.v2ex.com/t/1163451)
+
++ [未备案域名解析到国内云服务器，火狐提示“建立安全连接失败“是被阻断了吗？](https://www.v2ex.com/t/1163455)
+
