@@ -189,3 +189,9 @@
 
 + [计算机网络第四章(5)——网络层《路由协议+路由协议》](https://blog.csdn.net/m0_73991249/article/details/150985217)
 
++ [中秋特别篇：使用QtOpenGL和着色器绘制星空与满月](https://blog.csdn.net/2503_92624912/article/details/152603512)
+
++ [《 Linux 点滴漫谈： 三 》Linux 的骨架：文件系统与目录结构的完整图谱](https://blog.csdn.net/mmlhbjk/article/details/152597423)
+
++ [在运行中的 Kafka 集群渐进式启用安全零停机实战手册（KRaft/Broker 通用）](https://blog.csdn.net/weixin_43114209/article/details/152560870)
+

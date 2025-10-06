@@ -205,3 +205,9 @@
 
 + [联合国机构：今年以来以军对约旦河西岸发动近7500次袭击](https://news.cctv.com/2025/10/06/ARTIKFPeqLnhb0D3C2dd1dHs251006.shtml)
 
++ [格鲁吉亚执政党在地方选举中获胜](https://news.cctv.com/2025/10/06/ARTI8RkespPYfDHi1CAU4x2l251006.shtml)
+
++ [法国总理勒科尔尼向马克龙递交辞呈](https://news.cctv.com/2025/10/06/ARTICn2DLzAVjELGqNtB1JiB251006.shtml)
+
++ [专访丨马中跨境游驶入发展“快车道”——访马来西亚国家旅游局副局长李泰康](https://news.cctv.com/2025/10/06/ARTI1TgQCjmsVfnCZEKSAYVS251006.shtml)
+
