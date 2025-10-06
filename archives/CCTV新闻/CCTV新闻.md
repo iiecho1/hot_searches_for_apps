@@ -181,3 +181,11 @@
 
 + [亚洲制造业保持稳定扩张 9月全球制造业采购经理指数公布](https://news.cctv.com/2025/10/06/ARTIJ3I6uUkfIvfBGT959fSm251006.shtml)
 
++ [俄外长：严重关切美在加勒比海行动升级 全面支持委人民立场](https://news.cctv.com/2025/10/06/ARTIU9VPpS5LnDwV4mxm3AsY251006.shtml)
+
++ [“欧中合作具有广阔空间”](https://news.cctv.com/2025/10/06/ARTI5W5adFlU0CSsZ7LJHOnW251006.shtml)
+
++ [厚植合作沃土 共筑发展之路（国际论坛）](https://news.cctv.com/2025/10/06/ARTIoffj0V5eXlb6jQTn3hF2251006.shtml)
+
++ [澳大利亚悉尼发生无差别枪击事件 至少20人受伤](https://news.cctv.com/2025/10/06/ARTIFk8q0R2OfyGCflkuxgVO251006.shtml)
+

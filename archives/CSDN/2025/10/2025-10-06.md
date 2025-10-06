@@ -165,3 +165,7 @@
 
 + [9. Pandas 数据统计与汇总分析](https://blog.csdn.net/MoRanzhi1203/article/details/152565281)
 
++ [Spring Boot 实现邮件发送功能：整合 JavaMailSender 与 FreeMarker 模板](https://blog.csdn.net/m0_68705118/article/details/152463883)
+
++ [使用雨云云服务器+AstrBot+NapCat搭建QQ个人机器人【非官方】（简易版）](https://blog.csdn.net/2402_82403485/article/details/152551352)
+
