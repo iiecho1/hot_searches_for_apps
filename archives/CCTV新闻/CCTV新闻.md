@@ -221,3 +221,5 @@
 
 + [法国总理勒科尔尼辞职后发表讲话：执政条件尚未具备](https://news.cctv.com/2025/10/06/ARTIU2DtOlevBFzdHN90RRtx251006.shtml)
 
++ [全球多地举行中秋节活动 体验中国传统文化魅力](https://news.cctv.com/2025/10/06/ARTIPDZx6mxO4Tguk6X6KY2B251006.shtml)
+

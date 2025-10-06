@@ -215,3 +215,9 @@
 
 + [网络安全设备 防火墙](https://blog.csdn.net/weixin_69023088/article/details/152519724)
 
++ [云原生新手别慌：本地调试容器应用的 4 个实用技巧](https://blog.csdn.net/qq_41187124/article/details/152405615)
+
++ [嵌入式硬件——基于IMX6ULL的UART（通用异步收发传输器）](https://blog.csdn.net/weixin_69590097/article/details/152515584)
+
++ [WGCLOUD一款优秀的运维监控软件](https://blog.csdn.net/2501_92059875/article/details/152605302)
+
