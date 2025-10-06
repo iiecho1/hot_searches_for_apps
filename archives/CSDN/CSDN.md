@@ -207,3 +207,11 @@
 
 + [Linux网络编程——UdpServer](https://blog.csdn.net/m0_74515566/article/details/140535846)
 
++ [【AI智能体】Coze 打造AI数字人视频生成智能体实战详解](https://blog.csdn.net/zhangcongyi420/article/details/152601878)
+
++ [一文速览Eagle、Eagle 2、Eagle 2.5——英伟达开源的VLM：用于人形VLA GR00T N1和N1.5中](https://blog.csdn.net/v_JULY_v/article/details/152602544)
+
++ [poll 函数原理与 TCP 服务器实现详解](https://blog.csdn.net/2401_83603768/article/details/152469913)
+
++ [网络安全设备 防火墙](https://blog.csdn.net/weixin_69023088/article/details/152519724)
+
