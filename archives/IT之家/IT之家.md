@@ -25,3 +25,23 @@
 
 + [彭博：小米挑战保时捷定制业务，能否抓住高利润风口？](https://m.ithome.com/html/887714.htm)
 
++ [车评人陈震向事故白车比亚迪司机家属致歉](https://m.ithome.com/html/887619.htm)
+
++ [消息称某厂手机刚刚激活量达百万，预计为小米 17 系列](https://m.ithome.com/html/887639.htm)
+
++ [中国地震局：正在积极对接相关市场主体，推进地震预警信息接入苹果 iOS 系统功能](https://m.ithome.com/html/887608.htm)
+
++ [“整活手机”努比驼 Z80 Ultra 发布，努比亚总裁倪飞称没有律师函但有“真”Z80 Ultra 发布会邀请函](https://m.ithome.com/html/887633.htm)
+
++ [卢伟冰：小米 17 全系列销量比往代同期增超 20%，Pro 系列大幅超出预期](https://m.ithome.com/html/887593.htm)
+
++ [小米 REDMI K90 系列手机将至，产品经理胡馨心透露下周“多少爆一些”](https://m.ithome.com/html/887622.htm)
+
++ [华为手机 / 平板升级 HarmonyOS 6 开发者版本控制中心星闪、蓝牙开关合一，支持功能快捷开启](https://m.ithome.com/html/887658.htm)
+
++ [消息称赛力斯一直在推进 2024 款问界 M9 汽车的硬件升级，工厂已完成第一批内部车型改造](https://m.ithome.com/html/887665.htm)
+
++ [小米 17 Pro 系列手机中秋限定背屏壁纸上线，6 款可选](https://m.ithome.com/html/887597.htm)
+
++ [消息称一加 15 手机配备 7300mAh 电池，支持 120W+50W 快充组合](https://m.ithome.com/html/887651.htm)
+
