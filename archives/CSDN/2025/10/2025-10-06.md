@@ -195,3 +195,9 @@
 
 + [在运行中的 Kafka 集群渐进式启用安全零停机实战手册（KRaft/Broker 通用）](https://blog.csdn.net/weixin_43114209/article/details/152560870)
 
++ [C++之基于正倒排索引的Boost搜索引擎项目searcher部分代码及详解](https://blog.csdn.net/fyy31/article/details/152319144)
+
++ [【中秋节+AI】三款AI产品让我的中秋节不再无趣](https://blog.csdn.net/wheeldown/article/details/152600491)
+
++ [RabbitMQ消息路由终极指南：精准配送背后的技术内幕](https://blog.csdn.net/qq_44378083/article/details/149726329)
+

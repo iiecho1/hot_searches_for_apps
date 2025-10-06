@@ -211,3 +211,5 @@
 
 + [专访丨马中跨境游驶入发展“快车道”——访马来西亚国家旅游局副局长李泰康](https://news.cctv.com/2025/10/06/ARTI1TgQCjmsVfnCZEKSAYVS251006.shtml)
 
++ [2025年诺贝尔生理学或医学奖揭晓](https://news.cctv.com/2025/10/06/ARTIBF0JHz5gXX9zrsb6xTbb251006.shtml)
+
