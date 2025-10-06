@@ -175,3 +175,9 @@
 
 + [多国举办丰富多彩的庆中秋活动](https://news.cctv.com/2025/10/06/ARTIGLfVT0QO5aecdMz0nD4V251006.shtml)
 
++ [以色列与哈马斯谈判在即 欧洲数十万民众声援巴勒斯坦](https://news.cctv.com/2025/10/06/ARTIKZmWhYeIOJ4I3Fl9PWQt251006.shtml)
+
++ [特朗普强行派兵 芝加哥市民：这里“不是战区”](https://news.cctv.com/2025/10/06/ARTIi7HrGSXys0sJZeWuyAgn251006.shtml)
+
++ [亚洲制造业保持稳定扩张 9月全球制造业采购经理指数公布](https://news.cctv.com/2025/10/06/ARTIJ3I6uUkfIvfBGT959fSm251006.shtml)
+
