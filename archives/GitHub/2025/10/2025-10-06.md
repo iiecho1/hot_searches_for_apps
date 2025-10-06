@@ -39,3 +39,27 @@
 
 + [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
++ [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [openemr/openemr](https://github.com/openemr/openemr)
+
++ [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+
++ [zama-ai/fhevm](https://github.com/zama-ai/fhevm)
+
++ [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
++ [htr-tech/zphisher](https://github.com/htr-tech/zphisher)
+
++ [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [google/osv.dev](https://github.com/google/osv.dev)
+
++ [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
++ [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+
++ [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+

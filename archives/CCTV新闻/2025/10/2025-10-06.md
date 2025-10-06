@@ -213,3 +213,11 @@
 
 + [2025年诺贝尔生理学或医学奖揭晓](https://news.cctv.com/2025/10/06/ARTIBF0JHz5gXX9zrsb6xTbb251006.shtml)
 
++ [欧尔班：匈牙利不打算加入欧元区](https://news.cctv.com/2025/10/06/ARTIrldkixU3BxLYTcO9Nbmb251006.shtml)
+
++ [菲律宾一桥梁垮塌](https://news.cctv.com/2025/10/06/ARTIywmqVoWqKsnGH5tPdAiu251006.shtml)
+
++ [伊朗称暂无新一轮谈判计划 将和国际原子能机构保持对话](https://news.cctv.com/2025/10/06/ARTIUgdUsR3EfPZ5KWSZS4qs251006.shtml)
+
++ [法国总理勒科尔尼辞职后发表讲话：执政条件尚未具备](https://news.cctv.com/2025/10/06/ARTIU2DtOlevBFzdHN90RRtx251006.shtml)
+
