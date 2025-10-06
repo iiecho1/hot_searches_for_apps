@@ -57,3 +57,7 @@
 
 + [iPhone17PM，感觉随便开几个软件手机就有点温温热，这是正常的么？空调房里面不咋热，正常室温就有点温热](https://www.v2ex.com/t/1163493)
 
++ [高德地图报了前方限速之后，怎么知道何时出了限速区域](https://www.v2ex.com/t/1163541)
+
++ [AI 工程师勇闯 WEB3 Remote (应届+2 年实习经验) AI+Fullstack/Backend Engineer](https://www.v2ex.com/t/1163517)
+
