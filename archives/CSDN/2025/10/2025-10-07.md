@@ -111,3 +111,21 @@
 
 + [项目---网络通信组件JsonRpc](https://blog.csdn.net/2301_81454749/article/details/149198364)
 
++ [视频生成技术Deepfake](https://blog.csdn.net/LOVEmy134611/article/details/151835485)
+
++ [提示工程架构师：应对AI幻觉问题的全新思路](https://blog.csdn.net/universsky2015/article/details/152561164)
+
++ [[论文阅读] (42)ASC25 基于大语言模型的未知Web攻击威胁检测](https://blog.csdn.net/Eastmount/article/details/152550546)
+
++ [【论文笔记】2025年图像处理顶会论文](https://blog.csdn.net/m0_62969865/article/details/152516539)
+
++ [Rokid JSAR 技术开发全指南+实战演练](https://blog.csdn.net/2302_79376097/article/details/152519347)
+
++ [用 Maven 配置 Flink 从初始化到可部署的完整实践](https://blog.csdn.net/weixin_43114209/article/details/152511985)
+
++ [GG3M : The Trinity Reconstruction of Civilization OS,Cognitive Revolution, and Geopolitical Game](https://blog.csdn.net/SmartTony/article/details/152473517)
+
++ [权限管理混乱微服务安全架构：OAuth2.0+JWT无感刷新方案非法请求拦截率](https://blog.csdn.net/2510_93652218/article/details/152602311)
+
++ [Vue 学习与实践大纲（后端视角）](https://blog.csdn.net/Sky960722/article/details/152557982)
+
