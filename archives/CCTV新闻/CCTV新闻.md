@@ -189,3 +189,9 @@
 
 + [澳大利亚悉尼发生无差别枪击事件 至少20人受伤](https://news.cctv.com/2025/10/06/ARTIFk8q0R2OfyGCflkuxgVO251006.shtml)
 
++ [中东战地手记｜两年战火，“家”已成为加沙人遥不可及的奢望](https://news.cctv.com/2025/10/06/ARTIJNWAfyqoir69WISfJvTP251006.shtml)
+
++ [中国公民在澳徒步登山身亡 驻墨尔本总领馆发布旅游安全提醒](https://news.cctv.com/2025/10/06/ARTIvKUCXOXQaLQfv40Oo9kx251006.shtml)
+
++ [派遣国民警卫队再受阻 特朗普被叫停向俄勒冈州派兵](https://news.cctv.com/2025/10/06/ARTI6urL4NripRcggejTr88F251006.shtml)
+

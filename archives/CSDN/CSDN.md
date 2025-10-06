@@ -179,3 +179,9 @@
 
 + [Sora引爆AI原生应用新战场 产品定义模型 创业者迎来要么做大要么出局的时代](https://blog.csdn.net/yuntongliangda/article/details/152553100)
 
++ [Apache IoTDB 部署全指南：AINode 独立部署与 Kubernetes 集群部署](https://blog.csdn.net/weixin_43151418/article/details/152177492)
+
++ [Turbopack介绍（由Vercel开发的基于Rust的高性能前端构建工具，用于挑战传统构建工具Webpack、vite地位）Next.js推荐构建工具](https://blog.csdn.net/Dontla/article/details/152514188)
+
++ [数字婵娟：一部关于中秋节的计算主义宣言](https://blog.csdn.net/2301_80863610/article/details/152598887)
+
