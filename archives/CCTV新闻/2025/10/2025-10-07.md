@@ -185,3 +185,5 @@
 
 + [又有9名联合国人员遭胡塞武装扣押 古特雷斯强烈谴责](https://news.cctv.com/2025/10/07/ARTIZh1XLq1vs0c44h2OqJMg251007.shtml)
 
++ [特朗普：已就向乌克兰提供“战斧”导弹作出“某种决定”](https://news.cctv.com/2025/10/07/ARTIDsK0tV6tVNXBMTqltjfY251007.shtml)
+

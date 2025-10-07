@@ -155,3 +155,9 @@
 
 + [【SpringCloud（2）】微服务注册中心：Eureka、Zookeeper；CAP分析；服务注册与服务发现；单机/集群部署Eureka；连接注册中心](https://blog.csdn.net/ZunXin_2580/article/details/152555738)
 
++ [DBSCAN 密度聚类算法](https://blog.csdn.net/2401_88885149/article/details/152079943)
+
++ [基于selenium库的爬虫实战：京东手机数据爬取](https://blog.csdn.net/2202_75369126/article/details/152281841)
+
++ [计算机网络第四章(10)——网络层《路由算法+路由协议》](https://blog.csdn.net/m0_73991249/article/details/150985217)
+
