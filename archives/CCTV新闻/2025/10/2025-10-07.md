@@ -197,3 +197,15 @@
 
 + [日本自民党高层新人事安排出炉](https://news.cctv.com/2025/10/07/ARTIDQNY4WXmSXg5LLDkzfbB251007.shtml)
 
++ [马克龙的第一任政府总理呼吁提前进行法国总统选举](https://news.cctv.com/2025/10/07/ARTIO13iqwjoCc2UQSj53XvX251007.shtml)
+
++ [美启动应急措施防螺旋蝇蛆病入侵](https://news.cctv.com/2025/10/07/ARTIsW4Tq7r2gkLOuMrolR6u251007.shtml)
+
++ [记者手记丨被阻塞的创新之路——美国精酿啤酒业眼中的关税冲击](https://news.cctv.com/2025/10/07/ARTI50aEtcXZOE3LhWZsM9le251007.shtml)
+
++ [日本正式启动滨冈核电站1号机组反应堆拆除作业](https://news.cctv.com/2025/10/07/ARTI6hn4PCSsX7PvOYm41yc8251007.shtml)
+
++ [以色列和哈马斯新一轮停火谈判7日将继续](https://news.cctv.com/2025/10/07/ARTIQH4Be7owS97ZD8Wwovn4251007.shtml)
+
++ [自民党高层人事安排出炉 日媒：高市早苗论功行赏](https://news.cctv.com/2025/10/07/ARTIEJySyZ7E2xQFLyOTUnL9251007.shtml)
+
