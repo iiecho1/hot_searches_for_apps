@@ -149,3 +149,5 @@
 
 + [领码方案｜微服务与SOA的世纪对话（4）：迁移与避坑——从 SOA 到微服务的演进路线图](https://blog.csdn.net/lgf228/article/details/152359741)
 
++ [大模型开发 - 04 QuickStart_DeepSeek 模型调用流程源码解析：从 Prompt 到远程请求](https://blog.csdn.net/yangshangwei/article/details/152616477)
+

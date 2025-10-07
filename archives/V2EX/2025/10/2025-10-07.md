@@ -21,3 +21,11 @@
 
 + [心梗自己用药](https://www.v2ex.com/t/1163542)
 
++ [TCL 电视会自行添加额外的 DNS 服务器](https://www.v2ex.com/t/1163535)
+
++ [🖥️ 求各位 V 友推荐个稳定的 macOS 版本！](https://www.v2ex.com/t/1163489)
+
++ [AI 工程师勇闯 WEB3 Remote (应届+2 年实习经验) AI+Fullstack/Backend Engineer](https://www.v2ex.com/t/1163517)
+
++ [手持 iPhone 15pm，有必要升级到 17PM 吗？](https://www.v2ex.com/t/1163551)
+

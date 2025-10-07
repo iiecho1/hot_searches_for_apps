@@ -173,3 +173,11 @@
 
 + [与以总理通话 普京称支持基于国际法调解巴勒斯坦问题](https://news.cctv.com/2025/10/07/ARTIT7i5IJa0PMuoz6cUuN3E251007.shtml)
 
++ [国际原子能机构：扎波罗热核电站核安全风险加剧](https://news.cctv.com/2025/10/07/ARTISveCvjpAFKwXMaB3qbK3251007.shtml)
+
++ [史上首次！刚刚，国际金价触及4000美元/盎司](https://jingji.cctv.com/2025/10/07/ARTIeoUpX4UdIjoJtZzD48vX251007.shtml)
+
++ [中国代表就消除恐怖主义提出三点主张](https://news.cctv.com/2025/10/07/ARTITOmLT7t49dQMiQbEM9sl251007.shtml)
+
++ [任法国总理不满四周，勒科尔尼缘何辞职？](https://news.cctv.com/2025/10/07/ARTIZaeFl6rckGikvslqbg7w251007.shtml)
+
