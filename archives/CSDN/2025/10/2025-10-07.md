@@ -151,3 +151,7 @@
 
 + [大模型开发 - 04 QuickStart_DeepSeek 模型调用流程源码解析：从 Prompt 到远程请求](https://blog.csdn.net/yangshangwei/article/details/152616477)
 
++ [深入了解linux网络—— TCP网络通信（上）](https://blog.csdn.net/LH__1314/article/details/151896432)
+
++ [【SpringCloud（2）】微服务注册中心：Eureka、Zookeeper；CAP分析；服务注册与服务发现；单机/集群部署Eureka；连接注册中心](https://blog.csdn.net/ZunXin_2580/article/details/152555738)
+

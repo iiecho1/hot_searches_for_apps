@@ -181,3 +181,7 @@
 
 + [任法国总理不满四周，勒科尔尼缘何辞职？](https://news.cctv.com/2025/10/07/ARTIZaeFl6rckGikvslqbg7w251007.shtml)
 
++ [美政府“停摆”马上第七天 特朗普“松口”后又改口](https://news.cctv.com/2025/10/07/ARTIRMi0vjJUZuccPb5TGhJ1251007.shtml)
+
++ [又有9名联合国人员遭胡塞武装扣押 古特雷斯强烈谴责](https://news.cctv.com/2025/10/07/ARTIZh1XLq1vs0c44h2OqJMg251007.shtml)
+
