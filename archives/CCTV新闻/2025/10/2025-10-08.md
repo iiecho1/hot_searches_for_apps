@@ -161,3 +161,19 @@
 
 + [以色列与哈马斯将会谈 加沙停火希望有多大](https://news.cctv.com/2025/10/05/ARTINzAetdgHFkxQUDxLgOFs251005.shtml)
 
++ [政府停摆致人手紧张 美多个城市航班大面积延误](https://news.cctv.com/2025/10/08/ARTIZzn4Tl1rLTsjVQb4PCbd251008.shtml)
+
++ [乍得霍乱疫情已致近150人死亡 联合国增加拨款应对](https://news.cctv.com/2025/10/08/ARTIwAHKuTiqZAkuFmtiP357251008.shtml)
+
++ [苏丹军方宣布夺回法希尔市两处军事重地](https://news.cctv.com/2025/10/08/ARTIiYcMIDGnoRpytV230XRc251008.shtml)
+
++ [厄瓜多尔总统专车遇袭受损 警方已逮捕5人](https://news.cctv.com/2025/10/08/ARTIMc04X1OdZJOdC6b1MOSB251008.shtml)
+
++ [西班牙马德里一酒店坍塌 已致2人死亡](https://news.cctv.com/2025/10/08/ARTIRlYt9Dt1QHVsSHKctDHF251008.shtml)
+
++ [普京：必须确保特别军事行动设定的所有目标都无条件实现](https://news.cctv.com/2025/10/08/ARTI6Hgu6oH8LJF3jaLiZGKN251008.shtml)
+
++ [哈马斯：希望得到以方不再重启冲突的切实承诺](https://news.cctv.com/2025/10/08/ARTIN5fmWKbSvNi3xye5FI4Q251008.shtml)
+
++ [波兰总理反对引渡乌克兰籍“北溪”爆炸案嫌疑人](https://news.cctv.com/2025/10/08/ARTIaZpQZqZHK9uPPFfZt8N8251008.shtml)
+
