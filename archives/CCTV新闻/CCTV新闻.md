@@ -209,3 +209,9 @@
 
 + [自民党高层人事安排出炉 日媒：高市早苗论功行赏](https://news.cctv.com/2025/10/07/ARTIEJySyZ7E2xQFLyOTUnL9251007.shtml)
 
++ [卡塔尔外交部：谈论新一轮加沙停火谈判结果为时尚早](https://news.cctv.com/2025/10/07/ARTIRWtnDK1ZGzCpn1v76gUd251007.shtml)
+
++ [印尼学校建筑物坍塌事故致67人死亡 搜救工作结束](https://news.cctv.com/2025/10/07/ARTIOZH0NQI5BfnjAlQrhbtq251007.shtml)
+
++ [主办方确认2025迪拜航展将不会有以色列公司参展](https://news.cctv.com/2025/10/07/ARTIySSMPkJ337cy2k6CDNLd251007.shtml)
+

@@ -189,3 +189,17 @@
 
 + [深度剖析边缘计算提示系统架构的弹性设计，提示工程架构师学习](https://blog.csdn.net/universsky2015/article/details/152615659)
 
++ [Spark 核心角色深度剖析：Driver, Executor, Master, Worker 全解析](https://blog.csdn.net/2401_83830408/article/details/152448099)
+
++ [机器学习周报十六](https://blog.csdn.net/weixin_60864619/article/details/152335479)
+
++ [Windows+Docker+AI开发板打造智能终端助手](https://blog.csdn.net/2501_91235197/article/details/152609428)
+
++ [【大前端】Vue 和 React 的区别详解 —— 两大前端框架深度对比](https://blog.csdn.net/qq_41688840/article/details/152608732)
+
++ [解读DeepSeek-V3.2-Exp：基于MLA架构的Lightning Index如何重塑长上下文效率](https://blog.csdn.net/Bug_makerACE/article/details/152522990)
+
++ [分布式系统相关概念（单体、集群、分布式、分布式集群、微服务）](https://blog.csdn.net/m0_74363339/article/details/152600301)
+
++ [【小沐学WebGIS】基于Three.JS绘制飞行轨迹Flight Tracker（Three.JS/ vue / react / WebGL）](https://blog.csdn.net/hhy321/article/details/152600856)
+
