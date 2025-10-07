@@ -161,3 +161,15 @@
 
 + [热点问答｜高市早苗当选日本自民党总裁三问](https://news.cctv.com/2025/10/05/ARTI2TnIpPnAwJvUwfCEPTKf251005.shtml)
 
++ [美参议院未通过两党所提拨款法案 政府“关门”持续](https://news.cctv.com/2025/10/07/ARTIODnS5t93T0P6jKupKxED251007.shtml)
+
++ [马克龙要求已辞职总理与法国各党派进行最终谈判](https://news.cctv.com/2025/10/07/ARTI2Avy1WLTraO7ySgVbtxr251007.shtml)
+
++ [多国举行庆中秋活动 感受中华文化魅力](https://news.cctv.com/2025/10/07/ARTIbuvCzpAZRQFjC1IgCrgv251007.shtml)
+
++ [巴以冲突两周年之际 联合国秘书长敦促各方立即停止敌对行动](https://news.cctv.com/2025/10/07/ARTIHHJ2ngslvgyVfIPQQrAd251007.shtml)
+
++ [委内瑞拉首都举行游行活动 捍卫主权呼声高涨](https://news.cctv.com/2025/10/07/ARTIsrqC5gE1GCy48p7ZR14l251007.shtml)
+
++ [与以总理通话 普京称支持基于国际法调解巴勒斯坦问题](https://news.cctv.com/2025/10/07/ARTIT7i5IJa0PMuoz6cUuN3E251007.shtml)
+

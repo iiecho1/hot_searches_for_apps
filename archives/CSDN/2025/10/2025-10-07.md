@@ -143,3 +143,9 @@
 
 + [Google开源Tunix：JAX生态的LLM微调方案来了](https://blog.csdn.net/m0_46510245/article/details/152518826)
 
++ [光伏功率预测 | DNN多变量单步光伏功率预测（Matlab完整源码和数据）](https://blog.csdn.net/m0_57702748/article/details/152562605)
+
++ [读扩散、写扩散（推拉模式）详解 及 混合模式（实际场景分析及相关问题）](https://blog.csdn.net/qq_47831505/article/details/151296989)
+
++ [领码方案｜微服务与SOA的世纪对话（4）：迁移与避坑——从 SOA 到微服务的演进路线图](https://blog.csdn.net/lgf228/article/details/152359741)
+
