@@ -31,3 +31,5 @@
 
 + [华为鸿蒙 HarmonyOS 6.0.0.107 SP2 Developer 版本新特性曝光，含双击桌面空白处锁屏等](https://m.ithome.com/html/887910.htm)
 
++ [远离尘嚣：今年首位诺奖得主徒步断网中，至今未能取得联系](https://m.ithome.com/html/887895.htm)
+

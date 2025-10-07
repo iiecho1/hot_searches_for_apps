@@ -111,3 +111,31 @@
 
 + [访问文件后出现的 ~$ 文件是什么？它和缓冲机制、数据丢失有什么关系？](https://blog.csdn.net/htw250056/article/details/152553142)
 
++ [Java 大视界 -- Java 大数据在智能教育在线考试系统中的考试结果分析与教学反馈优化中的应用（420）](https://blog.csdn.net/atgfg/article/details/152551504)
+
++ [k8s学习（二）——kubernetes整体架构及组件解析](https://blog.csdn.net/m0_74197017/article/details/152562749)
+
++ [【SpringAI】第五弹：基于 Spring AI ToolCallback Function 实现文件操作、联网搜索、网页抓取、终端操作、资源下载、PDF生成等工具的开发与调用、核心特性解析](https://blog.csdn.net/2402_84916296/article/details/152553966)
+
++ [【深度学习01】快速上手 PyTorch：环境 + IDE+Dataset](https://blog.csdn.net/2502_90283908/article/details/152551497)
+
++ [poll 函数原理与 TCP 服务器实现详解](https://blog.csdn.net/2401_83603768/article/details/152469913)
+
++ [【Linux】线程同步和生产者消费者模型](https://blog.csdn.net/2402_82757055/article/details/152475646)
+
++ [具有良好非周期相关特性的多相码（Polyphase Codes，亦称 Frank Codes）——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152661604)
+
++ [深入了解linux网络—— TCP网络通信（下）](https://blog.csdn.net/LH__1314/article/details/151896484)
+
++ [分布式系统实战：电商平台架构演进](https://blog.csdn.net/2302_77650959/article/details/152617936)
+
++ [sr mpls te隧道配置案例](https://blog.csdn.net/ydaxia110/article/details/152553048)
+
++ [基于LINUX平台使用C语言实现MQTT协议连接华为云平台（IOT）（网络编程）](https://blog.csdn.net/m0_73932536/article/details/152531652)
+
++ [Uni-App 实现多身份动态切换 TabBar 指南](https://blog.csdn.net/csdn_silent/article/details/152609022)
+
++ [搭建一个vscode+uniapp+vue3+ts+unocss+unocss icons通用项目模板（全记录）](https://blog.csdn.net/ou5157/article/details/152552961)
+
++ [Web 服务器 UserDir（~username）功能解析：从原理到安全实践](https://blog.csdn.net/2301_79518550/article/details/152522533)
+
