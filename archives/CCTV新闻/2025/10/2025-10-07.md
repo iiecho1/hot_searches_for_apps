@@ -187,3 +187,7 @@
 
 + [特朗普：已就向乌克兰提供“战斧”导弹作出“某种决定”](https://news.cctv.com/2025/10/07/ARTIDsK0tV6tVNXBMTqltjfY251007.shtml)
 
++ [委内瑞拉总统说挫败袭击美国驻委使馆的“假旗”图谋](https://news.cctv.com/2025/10/07/ARTImKmP43uLrsNM2IrijTub251007.shtml)
+
++ [卢拉同特朗普通话 要求美方取消加征关税](https://news.cctv.com/2025/10/07/ARTIVFkp3HUQz4LszZPlIJGz251007.shtml)
+

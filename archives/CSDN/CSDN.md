@@ -165,3 +165,11 @@
 
 + [Spring Security 完整使用指南](https://blog.csdn.net/2301_79536841/article/details/152565020)
 
++ [Ruoyi 赋能，百度天气不止当下：打造面向未来的预报实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/152647980)
+
++ [FFmpeg开发笔记（十二）：ffmpeg音频处理、采集麦克风音频录音为WAV](https://blog.csdn.net/qq21497936/article/details/152651085)
+
++ [微信小程序 - 解决video视频播放黑屏只有声音没有画面问题，使用Video标签无法播放视频失败只有声音、黑屏视频播放不了，安卓手机/苹果ios视频只有声音却没有画面（uniapp微信小程序也适用）](https://blog.csdn.net/weixin_44198965/article/details/152652882)
+
++ [RabbitMQ高可用架构全揭秘:99.99%可靠性的实现之道](https://blog.csdn.net/qq_44378083/article/details/149726754)
+
