@@ -25,3 +25,9 @@
 
 + [网友问荣耀 Magic8 Pro 影像能否超过小米 15 Ultra？罗巍回应“别鸡蛋碰石头，拿最新的”](https://m.ithome.com/html/887861.htm)
 
++ [苹果 iOS 26 液态玻璃全面铺开，TestFlight 与 Apple Support 应用跟进](https://m.ithome.com/html/887816.htm)
+
++ [iOS 测试版 Excel、Word 和 PowerPoint 等微软 Office 应用启用新图标，移除 X / W / P 等字母标识](https://m.ithome.com/html/887818.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.107 SP2 Developer 版本新特性曝光，含双击桌面空白处锁屏等](https://m.ithome.com/html/887910.htm)
+
