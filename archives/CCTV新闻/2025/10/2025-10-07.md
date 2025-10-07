@@ -215,3 +215,9 @@
 
 + [主办方确认2025迪拜航展将不会有以色列公司参展](https://news.cctv.com/2025/10/07/ARTIySSMPkJ337cy2k6CDNLd251007.shtml)
 
++ [世卫组织发布烟草趋势报告 强调应加强监管电子烟](https://news.cctv.com/2025/10/07/ARTIZoFBbfXOIBGi0C8Pwp7u251007.shtml)
+
++ [专访丨全球治理倡议展现大国远见与担当——访多中友协主席阿博](https://news.cctv.com/2025/10/07/ARTILBr8AuJf5CnjFOJ5wGE9251007.shtml)
+
++ [天涯共此时 全球多地举行活动同庆中秋佳节](https://news.cctv.com/2025/10/07/ARTIAFU1t068AKuAbIwhXrlR251007.shtml)
+

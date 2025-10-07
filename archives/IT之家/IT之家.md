@@ -45,3 +45,27 @@
 
 + [消息称一加 15 手机配备 7300mAh 电池，支持 120W+50W 快充组合](https://m.ithome.com/html/887651.htm)
 
++ [小米产品总监、MIUI 体验总负责人金凡微博显示“暂无内容”](https://m.ithome.com/html/887800.htm)
+
++ [苹果 iPad mini 8 前瞻：iPhone Air 同款 A19 Pro 芯片，8.7 英寸 OLED 屏幕，起价 499 美元](https://m.ithome.com/html/887814.htm)
+
++ [7 日 10 点蹲点抢：小米 5000mAh 金沙江充电宝 299 元，完美兼容 iPhone 17 系列](https://m.ithome.com/html/887787.htm)
+
++ [灭霸长焦：vivo X300 Pro 手机全新蔡司 2 亿 APO 超级长焦中秋圆月样张公布](https://m.ithome.com/html/887772.htm)
+
++ [雷军：小米 17 系列首销成绩远超预期，首销购机权益将延续至 10 月 31 日](https://m.ithome.com/html/887848.htm)
+
++ [苹果 iOS / iPadOS 26.1 开发者预览版 Beta 2 发布：闹钟新手势防误关、Slide Over 多任务处理回归](https://m.ithome.com/html/887791.htm)
+
++ [Win11 装机将告别离线：不登录微软账户无法安装，现有变通方式均失效](https://m.ithome.com/html/887801.htm)
+
++ [北汽集团声明：发生翻车的 212 汽车与北汽集团旗下品牌北京越野无关](https://m.ithome.com/html/887790.htm)
+
++ [老外也“稀奇”：俄罗斯游客在上海一人豪掷 12 万连买 6 台华为折叠电脑](https://m.ithome.com/html/887880.htm)
+
++ [4G 退网倒计时：美国 T-Mobile 将逐步关闭 LTE 网络，为 5G 重分配频谱](https://m.ithome.com/html/887788.htm)
+
++ [苹果 iOS 26 液态玻璃全面铺开，TestFlight 与 Apple Support 应用跟进](https://m.ithome.com/html/887816.htm)
+
++ [网友问荣耀 Magic8 Pro 影像能否超过小米 15 Ultra？罗巍回应“别鸡蛋碰石头，拿最新的”](https://m.ithome.com/html/887861.htm)
+
