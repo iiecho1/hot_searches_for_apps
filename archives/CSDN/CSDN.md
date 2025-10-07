@@ -139,3 +139,13 @@
 
 + [Web 服务器 UserDir（~username）功能解析：从原理到安全实践](https://blog.csdn.net/2301_79518550/article/details/152522533)
 
++ [【征文计划】CXR-M SDK：轻松构建手机与AR眼镜的协同应用](https://blog.csdn.net/qq_33681891/article/details/152668534)
+
++ [Maven项目管理与构建自动化完全指南](https://blog.csdn.net/2301_79139273/article/details/152566408)
+
++ [[carplay] MFI iAP2在bluez中的实现，实现carplay蓝牙握手](https://blog.csdn.net/XiaoXiaoPengBo/article/details/152511751)
+
++ [RabbitMQ高可用架构全揭秘:99.99%可靠性的实现之道](https://blog.csdn.net/qq_44378083/article/details/149726754)
+
++ [框架--SpringBoot](https://blog.csdn.net/2401_89707442/article/details/152603841)
+
