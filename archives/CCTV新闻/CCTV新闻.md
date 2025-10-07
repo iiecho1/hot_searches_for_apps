@@ -191,3 +191,9 @@
 
 + [卢拉同特朗普通话 要求美方取消加征关税](https://news.cctv.com/2025/10/07/ARTIVFkp3HUQz4LszZPlIJGz251007.shtml)
 
++ [政府“停摆”致空管无薪上岗 美国多地航班延误](https://news.cctv.com/2025/10/07/ARTInV6xUoY8mp0J41GOCdqQ251007.shtml)
+
++ [特朗普称波特兰发生“叛乱” 或派遣军队](https://news.cctv.com/2025/10/07/ARTIHIXbL7XfnqSAghC4IjAw251007.shtml)
+
++ [日本自民党高层新人事安排出炉](https://news.cctv.com/2025/10/07/ARTIDQNY4WXmSXg5LLDkzfbB251007.shtml)
+

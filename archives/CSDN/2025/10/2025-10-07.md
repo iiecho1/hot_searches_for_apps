@@ -173,3 +173,11 @@
 
 + [RabbitMQ高可用架构全揭秘:99.99%可靠性的实现之道](https://blog.csdn.net/qq_44378083/article/details/149726754)
 
++ [【花雕动手做】从人体感知数量级看 AI 语音识别与AI视觉识别的差异与优势](https://blog.csdn.net/weixin_41659040/article/details/152648517)
+
++ [【Linux】给自己 fork 一个孩子，无痛当爹—— fork万字斩](https://blog.csdn.net/2403_84958571/article/details/152548696)
+
++ [面向多目标探测汽车雷达应用的77 GHz多频移键控（MFSK）调制波形发生器——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152609505)
+
++ [GitHub 热榜项目 - 日榜(2025-10-07)](https://blog.csdn.net/u014390502/article/details/152651485)
+
