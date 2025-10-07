@@ -183,3 +183,7 @@
 
 + [募投绘蓝图-昂瑞微的成长密码与未来布局](https://blog.csdn.net/FIN6668/article/details/152655622)
 
++ [【AI大模型前沿】Apertus：瑞士首个开源大模型，多语言支持，合规训练，高效性能](https://blog.csdn.net/xiaobing259/article/details/152505137)
+
++ [大数据Spark（六十七）：Transformation转换算子distinct和mapValues](https://blog.csdn.net/xiaoweite1/article/details/152659943)
+
