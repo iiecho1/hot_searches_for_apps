@@ -187,3 +187,5 @@
 
 + [大数据Spark（六十七）：Transformation转换算子distinct和mapValues](https://blog.csdn.net/xiaoweite1/article/details/152659943)
 
++ [深度剖析边缘计算提示系统架构的弹性设计，提示工程架构师学习](https://blog.csdn.net/universsky2015/article/details/152615659)
+

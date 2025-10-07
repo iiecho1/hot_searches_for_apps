@@ -43,3 +43,17 @@
 
 + [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 
++ [trycua/cua](https://github.com/trycua/cua)
+
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
++ [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+
++ [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+
++ [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+
++ [Morganamilo/paru](https://github.com/Morganamilo/paru)
+
++ [is-a-dev/register](https://github.com/is-a-dev/register)
+
