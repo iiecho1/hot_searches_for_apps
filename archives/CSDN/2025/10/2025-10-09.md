@@ -125,3 +125,17 @@
 
 + [致远OA配置HTTPS访问避坑帖](https://blog.csdn.net/waxyy002/article/details/152652567)
 
++ [【C++】继承—C++的秘密武器，get父类的智慧](https://blog.csdn.net/2401_86326742/article/details/152665577)
+
++ [【AI大模型】WPS 接入DeepSeek 实战项目详解](https://blog.csdn.net/congge_study/article/details/152706145)
+
++ [【中秋节+AI】三款AI产品让我的中秋节不再无趣](https://blog.csdn.net/wheeldown/article/details/152600491)
+
++ [云原生新手别慌：本地调试容器应用的 4 个实用技巧](https://blog.csdn.net/qq_41187124/article/details/152405615)
+
++ [《掰开揉碎讲编程-短篇》 2025 汉化idea控制台出现乱码解决方案 看完这篇解决不了乱码也是神人了](https://blog.csdn.net/qq_61654952/article/details/152599957)
+
++ [AI Agent竞争进入下半场：模型只是入场券，系统架构决定胜负](https://blog.csdn.net/lifetragedy/article/details/152660221)
+
++ [【大前端】Vue 和 React 的区别详解 —— 两大前端框架深度对比](https://blog.csdn.net/qq_41688840/article/details/152608732)
+

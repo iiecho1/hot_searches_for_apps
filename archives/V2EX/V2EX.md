@@ -21,3 +21,5 @@
 
 + [在 Claude Code 中使用 GLM 4.6 的体验](https://www.v2ex.com/t/1163704)
 
++ [马上上班了 Codex/Claude 对 V 友开 3000 积分大概 1000 万 token](https://www.v2ex.com/t/1163760)
+

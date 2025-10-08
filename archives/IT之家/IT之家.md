@@ -49,3 +49,5 @@
 
 + [特斯拉 Model 3 / Y 标准版 Autopilot 遭“阉割”：不支持“自动辅助转向”功能](https://m.ithome.com/html/887972.htm)
 
++ [比亚迪汉智驾领航加推版车型被曝 10 月 11 日上市：DM-i 纯电续航 245km + 3.49L 超低油耗](https://m.ithome.com/html/888013.htm)
+
