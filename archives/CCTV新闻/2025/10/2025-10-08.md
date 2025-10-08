@@ -205,3 +205,11 @@
 
 + [普京称俄军将实现特别军事行动所有目标](https://news.cctv.com/2025/10/08/ARTI6B5VIkWDPYSpDhrFD6pQ251008.shtml)
 
++ [美国两年向以色列提供217亿美元军事援助](https://news.cctv.com/2025/10/08/ARTIepCdC18xGOV6XFmn5zi9251008.shtml)
+
++ [两年近24万死伤 数字说不尽加沙的苦难](https://news.cctv.com/2025/10/08/ARTIFFX2QYYfyJHh1u9PuUAq251008.shtml)
+
++ [意大利总理自称被举报到国际刑事法院，理由是涉嫌“参与加沙种族灭绝”](https://news.cctv.com/2025/10/08/ARTIwK5uPKUf6mV8HwjB3ZbN251008.shtml)
+
++ [加总理刚说：最重要的是…… 特朗普接话：加美合并](https://news.cctv.com/2025/10/08/ARTIyZTOvxHKUq5ar3hOH4DW251008.shtml)
+

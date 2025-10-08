@@ -173,3 +173,5 @@
 
 + [Vue3+html2canvas - 网页中的图片无法显示的问题，强力解决html2canvas生成图片空白或缺失问题，无论是本地图片、网络URL图像链接、SVG出现图片丢失（Uniapp H5也适用](https://blog.csdn.net/weixin_44198965/article/details/152716647)
 
++ [GitHub 热榜项目 - 日榜(2025-10-08)](https://blog.csdn.net/u014390502/article/details/152711679)
+
