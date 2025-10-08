@@ -169,3 +169,7 @@
 
 + [HTTPS 真的牢不可破吗？—— 中间人攻击与安全机制解析](https://blog.csdn.net/weixin_62043600/article/details/152652627)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在工业物联网设备故障预测与智能运维中的应用](https://blog.csdn.net/atgfg/article/details/152608514)
+
++ [Vue3+html2canvas - 网页中的图片无法显示的问题，强力解决html2canvas生成图片空白或缺失问题，无论是本地图片、网络URL图像链接、SVG出现图片丢失（Uniapp H5也适用](https://blog.csdn.net/weixin_44198965/article/details/152716647)
+

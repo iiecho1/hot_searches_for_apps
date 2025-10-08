@@ -199,3 +199,9 @@
 
 + [调查显示日本今年4月至9月破产企业数量超5000家](https://news.cctv.com/2025/10/08/ARTINLq3mvmA4kXGmlzXhNrn251008.shtml)
 
++ [俄外长：绝不接受域外国家在阿富汗部署军事设施](https://news.cctv.com/2025/10/08/ARTIWU4Z2KWOCT3v5PsEmrKx251008.shtml)
+
++ [美政府停摆进入第二周 给多少人造成了多少损失？](https://news.cctv.com/2025/10/08/ARTIyWHW5dK1zaKrAqe9Ohs5251008.shtml)
+
++ [普京称俄军将实现特别军事行动所有目标](https://news.cctv.com/2025/10/08/ARTI6B5VIkWDPYSpDhrFD6pQ251008.shtml)
+
