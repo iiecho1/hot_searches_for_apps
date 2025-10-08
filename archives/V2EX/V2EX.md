@@ -53,3 +53,5 @@
 
 + [在 Claude Code 中使用 GLM 4.6 的体验](https://www.v2ex.com/t/1163704)
 
++ [想要个新论坛](https://www.v2ex.com/t/1163745)
+

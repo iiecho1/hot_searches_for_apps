@@ -231,3 +231,9 @@
 
 + [国际金价缘何再创历史新高](https://jingji.cctv.com/2025/10/08/ARTIk7vFHz43QtUXynaUkgir251008.shtml)
 
++ [埃尔多安：哈马斯表现出比以色列更具建设性的立场](https://news.cctv.com/2025/10/08/ARTIwKehQRzIvUtxsh3Bm1KJ251008.shtml)
+
++ [IMF总裁：今明两年全球增长略有放缓 关税走向成关键不确定因素](https://news.cctv.com/2025/10/08/ARTIy2qZd9bksYqwsYyTYvIY251008.shtml)
+
++ [俄三防部队司令遇袭身亡案调查结束 更多细节公布](https://news.cctv.com/2025/10/08/ARTIggnnZOJ3y7Bz2lxow5iO251008.shtml)
+

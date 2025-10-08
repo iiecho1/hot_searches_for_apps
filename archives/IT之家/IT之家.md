@@ -71,3 +71,9 @@
 
 + [已故名人遭 Sora 2“复活”引争议，OpenAI 称允许生成历史人物](https://m.ithome.com/html/887996.htm)
 
++ [2026 款吉利星愿车型 10 月 10 日上市，张柏芝代言](https://m.ithome.com/html/888025.htm)
+
++ [用分子造房子：2025 诺贝尔化学奖授予三位科学家，以表彰其对 MOF 材料的突破性贡献](https://m.ithome.com/html/888034.htm)
+
++ [特斯拉 Model 3 / Y 标准版 Autopilot 遭“阉割”：不支持“自动辅助转向”功能](https://m.ithome.com/html/887972.htm)
+
