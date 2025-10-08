@@ -187,3 +187,11 @@
 
 + [Java SpringBoot --- 下载Spring相关插件，创建一个Spring项目，创建项目出现的问题](https://blog.csdn.net/2301_79722622/article/details/152230837)
 
++ [【金仓数据库】ksql 指南（二） —— 创建与管理本地数据库](https://blog.csdn.net/2302_78391795/article/details/152729239)
+
++ [Go语言：给AI开发装上高性能引擎](https://blog.csdn.net/weixin_58163355/article/details/152562261)
+
++ [Java/PHP：微信支付v3显示 “商户证书序列号有误。请使用签名私钥匹配的证书序列号。“（Spring Boot、thinkPHP微信支付失败返回错误，例如退款、企业付款到零钱等各种微信支付业务）](https://blog.csdn.net/weixin_50545213/article/details/152714393)
+
++ [IP 协议的相关特性](https://blog.csdn.net/2302_77459644/article/details/152306647)
+

@@ -227,3 +227,5 @@
 
 + [“有中国朋友的地方，就有希望的田野”（新时代中非合作）](https://news.cctv.com/2025/10/08/ARTImd4dZDM6VJPQqVxEJRA3251008.shtml)
 
++ [澳大利亚悉尼发生枪击事件 死者身份不明](https://news.cctv.com/2025/10/08/ARTIVXnvwvCuilCUZG6ATvii251008.shtml)
+
