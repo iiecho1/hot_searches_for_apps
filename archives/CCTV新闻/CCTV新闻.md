@@ -229,3 +229,5 @@
 
 + [澳大利亚悉尼发生枪击事件 死者身份不明](https://news.cctv.com/2025/10/08/ARTIVXnvwvCuilCUZG6ATvii251008.shtml)
 
++ [国际金价缘何再创历史新高](https://jingji.cctv.com/2025/10/08/ARTIk7vFHz43QtUXynaUkgir251008.shtml)
+

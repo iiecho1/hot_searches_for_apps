@@ -49,3 +49,25 @@
 
 + [歼-10C 总设计师王海峰首次披露歼-10CE 为何能一战成名](https://m.ithome.com/html/887743.htm)
 
++ [特斯拉最便宜车型：Model 3 标准版亮相，起价 3.7 万美元](https://m.ithome.com/html/887927.htm)
+
++ [一女子将车停在充电车位不充电被收 80 元占位费引争议，管理方最终让步退款](https://m.ithome.com/html/887911.htm)
+
++ [7500mAh vs 4823mAh：TechDroider 测试小米和苹果的“17 Pro Max”手机续航](https://m.ithome.com/html/887969.htm)
+
++ [消息称鸿蒙座舱等着原生鸿蒙大换代](https://m.ithome.com/html/887917.htm)
+
++ [特斯拉 Model Y 标准版在美国上市：织物座椅、封天窗、续航 517 公里，起价跌破 4 万美元](https://m.ithome.com/html/887925.htm)
+
++ [苹果 iPhone 17 Pro Max 被魔改外挂 SSD 散热器，4K 视频录制不再降频](https://m.ithome.com/html/887961.htm)
+
++ [英伟达 CEO 黄仁勋宣布将继续承担员工 H-1B 签证，每份新证 10 万美元](https://m.ithome.com/html/887924.htm)
+
++ [三星被曝拿下独家大单，为苹果首款折叠 iPhone 初期供应全部 OLED 屏](https://m.ithome.com/html/887971.htm)
+
++ [全球首发：vivo X300 Pro 手机搭载 LYT-828 云台级主摄](https://m.ithome.com/html/887959.htm)
+
++ [荣耀 Magic8 Pro 手机白色款实拍图曝光：纯色背板、AiMAGE 影像](https://m.ithome.com/html/887904.htm)
+
++ [已故名人遭 Sora 2“复活”引争议，OpenAI 称允许生成历史人物](https://m.ithome.com/html/887996.htm)
+

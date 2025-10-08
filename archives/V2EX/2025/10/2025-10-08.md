@@ -51,3 +51,5 @@
 
 + [怎样开车把事故率降到最低（别说不开车）](https://www.v2ex.com/t/1163725)
 
++ [在 Claude Code 中使用 GLM 4.6 的体验](https://www.v2ex.com/t/1163704)
+

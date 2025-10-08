@@ -195,3 +195,7 @@
 
 + [IP 协议的相关特性](https://blog.csdn.net/2302_77459644/article/details/152306647)
 
++ [CentOS 7.6 系统源码部署 HivisionIDPhotos](https://blog.csdn.net/LuoZheng4698729/article/details/152667719)
+
++ [技术与情感交织的一生 （十四）](https://blog.csdn.net/michaelline/article/details/151683193)
+
