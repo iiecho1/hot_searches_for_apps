@@ -187,3 +187,7 @@
 
 + [哈马斯提明确要求 特朗普称未来48小时至关重要](https://news.cctv.com/2025/10/08/ARTI7UMQR7fA9kc64I4g0gAD251008.shtml)
 
++ [谈美政府大幅削减科研预算等措施，诺奖得主克拉克：是“极其严重”的问题](https://news.cctv.com/2025/10/08/ARTILBP3FSBfDSGBPl0Ohfl4251008.shtml)
+
++ [再创历史新高 现货黄金突破每盎司4000美元](https://jingji.cctv.com/2025/10/08/ARTIiBHCcgUVHvCPFfQbqoDd251008.shtml)
+

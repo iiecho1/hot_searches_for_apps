@@ -29,3 +29,7 @@
 
 + [对我没有生理性喜欢](https://www.v2ex.com/t/1163666)
 
++ [我发现.You 域名后缀出来了 love.you 和 peng.you 都被大佬拿下](https://www.v2ex.com/t/1163664)
+
++ [总是控制不住的反刍、自责。有人帮忙给点建议吗？](https://www.v2ex.com/t/1163656)
+
