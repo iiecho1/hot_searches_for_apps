@@ -177,3 +177,13 @@
 
 + [波兰总理反对引渡乌克兰籍“北溪”爆炸案嫌疑人](https://news.cctv.com/2025/10/08/ARTIaZpQZqZHK9uPPFfZt8N8251008.shtml)
 
++ [新西兰央行下调官方现金利率50个基点](https://news.cctv.com/2025/10/08/ARTIq7cDyRFcDr7FnvrpCeYj251008.shtml)
+
++ [因“停摆”被迫休假 美联邦雇员工资“没着落”](https://news.cctv.com/2025/10/08/ARTIEPAv40wuAfKHzddevg1c251008.shtml)
+
++ [美国会参议院8日将第六次表决短期拨款法案](https://news.cctv.com/2025/10/08/ARTIIJxFsXmMQkM8iswT6KQC251008.shtml)
+
++ [金正恩会见通伦 讨论加强朝老两国合作](https://news.cctv.com/2025/10/08/ARTIeOotHUvZE7ijab63TqBu251008.shtml)
+
++ [哈马斯提明确要求 特朗普称未来48小时至关重要](https://news.cctv.com/2025/10/08/ARTI7UMQR7fA9kc64I4g0gAD251008.shtml)
+
