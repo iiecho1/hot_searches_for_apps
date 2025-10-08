@@ -191,3 +191,5 @@
 
 + [再创历史新高 现货黄金突破每盎司4000美元](https://jingji.cctv.com/2025/10/08/ARTIiBHCcgUVHvCPFfQbqoDd251008.shtml)
 
++ [委内瑞拉在联合国会议呼吁加强禁毒国际合作](https://news.cctv.com/2025/10/08/ARTI0pSRAO0tGZFQggeeScGz251008.shtml)
+
