@@ -171,3 +171,7 @@
 
 + [厄瓜多尔防长：袭击总统车队具有“明显暗杀企图”](https://news.cctv.com/2025/10/09/ARTI5iL0dDxRsc97taSSescW251009.shtml)
 
++ [勒科尔尼：“使命已结束” 马克龙或在48小时内任命新总理](https://news.cctv.com/2025/10/09/ARTIzL9meRq4bC0TkZlZcslT251009.shtml)
+
++ [美参议院再次否决两党拨款法案 联邦政府继续停摆](https://news.cctv.com/2025/10/09/ARTIQZpkkXVbNFMgjH8rBgNB251009.shtml)
+
