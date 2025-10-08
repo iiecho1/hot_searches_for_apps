@@ -161,3 +161,7 @@
 
 + [法国总理勒科尔尼向马克龙递交辞呈](https://news.cctv.com/2025/10/06/ARTICn2DLzAVjELGqNtB1JiB251006.shtml)
 
++ [乌克兰基辅市一住宅楼发生爆炸 致1死1伤](https://news.cctv.com/2025/10/09/ARTIQlz83jDSTC7JQaeEv4y4251009.shtml)
+
++ [土耳其议会一致通过动议 谴责以色列袭击援助加沙船队](https://news.cctv.com/2025/10/09/ARTIXs0GYrnaOZwBBfh2jVHU251009.shtml)
+

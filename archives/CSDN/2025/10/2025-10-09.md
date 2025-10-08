@@ -101,3 +101,27 @@
 
 + [技术与情感交织的一生 （十四）](https://blog.csdn.net/michaelline/article/details/151683193)
 
++ [能量密度的革命：穿透电池从实验室到工厂的迷雾，窥见固态电池的终极未来](https://blog.csdn.net/weixin_45817947/article/details/152743209)
+
++ [【LLM】大模型vibe coding（cursor、copilot、comate）](https://blog.csdn.net/qq_35812205/article/details/142741800)
+
++ [Java实战篇18-消息推送系统（Spring Boot+WebSocket）](https://blog.csdn.net/qq_41187124/article/details/152178097)
+
++ [【Bluedroid】A2DP Source 断开流程源码分析(1): 主动断开 Sink 设备的实现与流程分析(src_disconnect_sink)](https://blog.csdn.net/weixin_37800531/article/details/152613316)
+
++ [深度剖析边缘计算提示系统架构的弹性设计，提示工程架构师学习](https://blog.csdn.net/universsky2015/article/details/152615659)
+
++ [什么是Maven？关于 Maven 的坐标、依赖管理与 Web 项目构建](https://blog.csdn.net/m0_73341242/article/details/152515561)
+
++ [4.1 ＞ Linux 文件/目录权限管理【理论】](https://blog.csdn.net/qq_55902573/article/details/152625409)
+
++ [无人机系统耗电，低功耗管理问题解决方法（腾讯元宝）](https://blog.csdn.net/m0_57249200/article/details/152663780)
+
++ [React Native：快速熟悉react 语法和企业级开发](https://blog.csdn.net/shunzi2016/article/details/152665806)
+
++ [【Linux】给自己 fork 一个孩子，无痛当爹—— fork万字斩](https://blog.csdn.net/2403_84958571/article/details/152548696)
+
++ [多目标识别YOLO :YOLOV3 原理](https://blog.csdn.net/m0_74993985/article/details/151712882)
+
++ [致远OA配置HTTPS访问避坑帖](https://blog.csdn.net/waxyy002/article/details/152652567)
+
