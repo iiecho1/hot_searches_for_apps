@@ -213,3 +213,5 @@
 
 + [加总理刚说：最重要的是…… 特朗普接话：加美合并](https://news.cctv.com/2025/10/08/ARTIyZTOvxHKUq5ar3hOH4DW251008.shtml)
 
++ [派兵是否合法？美国多州与联邦政府打起司法攻防战](https://news.cctv.com/2025/10/08/ARTIMQfFX0Wq1XE3FdgT91j8251008.shtml)
+

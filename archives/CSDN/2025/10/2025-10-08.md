@@ -175,3 +175,5 @@
 
 + [GitHub 热榜项目 - 日榜(2025-10-08)](https://blog.csdn.net/u014390502/article/details/152711679)
 
++ [基于GitHub Copilot的自动化测试流水线](https://blog.csdn.net/elikai/article/details/152559859)
+

@@ -99,3 +99,5 @@
 
 + [AOA Like a Cat 猫步轻俏](https://m.acfun.cn/v/?ac=47892245)
 
++ [【AI动画/通义万相 Wan2.2】魔法禁书目录 人物 初春饰利 ](https://m.acfun.cn/v/?ac=47891075)
+
