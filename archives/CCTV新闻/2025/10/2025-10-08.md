@@ -193,3 +193,9 @@
 
 + [委内瑞拉在联合国会议呼吁加强禁毒国际合作](https://news.cctv.com/2025/10/08/ARTI0pSRAO0tGZFQggeeScGz251008.shtml)
 
++ [美国农民陷入困境 政府拟投入至少100亿美元提供支持](https://news.cctv.com/2025/10/08/ARTINEqeatKjYEJV6gj3ulY5251008.shtml)
+
++ [世贸组织发布最新《全球贸易展望报告》大幅上调2025年全球货物贸易增长预期](https://news.cctv.com/2025/10/08/ARTIlnniK48M2VdllLKidvQ6251008.shtml)
+
++ [调查显示日本今年4月至9月破产企业数量超5000家](https://news.cctv.com/2025/10/08/ARTINLq3mvmA4kXGmlzXhNrn251008.shtml)
+
