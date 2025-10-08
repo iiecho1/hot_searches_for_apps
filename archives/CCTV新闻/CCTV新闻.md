@@ -217,3 +217,13 @@
 
 + [俄表示若乌装备“战斧”导弹将致事态严重升级](https://news.cctv.com/2025/10/08/ARTI3RJ20bzQkyBU6tUJD2y0251008.shtml)
 
++ [谈判第三日 哈马斯与以色列交换待释放被扣押人员名单](https://news.cctv.com/2025/10/08/ARTI5GerdIgwnqH5VxIgOFol251008.shtml)
+
++ [因金属有机骨架化合物领域贡献 3人获2025年诺贝尔化学奖](https://news.cctv.com/2025/10/08/ARTICK8YhHw9Xbo4zcYQvcRw251008.shtml)
+
++ [“为孟加拉国打开互联互通的大门”（共建“一带一路”·第一现场）](https://news.cctv.com/2025/10/08/ARTIgbMbPg1dbO1nzS8PIkON251008.shtml)
+
++ [“在互学互鉴中赓续文明薪火”——访纳米比亚前总统姆本巴](https://news.cctv.com/2025/10/08/ARTIlVMnXe4IFPsFFyvcv6X5251008.shtml)
+
++ [“有中国朋友的地方，就有希望的田野”（新时代中非合作）](https://news.cctv.com/2025/10/08/ARTImd4dZDM6VJPQqVxEJRA3251008.shtml)
+

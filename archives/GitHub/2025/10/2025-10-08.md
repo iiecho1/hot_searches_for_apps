@@ -33,3 +33,11 @@
 
 + [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 
++ [browserbase/stagehand](https://github.com/browserbase/stagehand)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+
++ [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+
