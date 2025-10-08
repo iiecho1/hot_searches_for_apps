@@ -35,3 +35,17 @@
 
 + [灭霸长焦：vivo X300 Pro 手机全新蔡司 2 亿 APO 超级长焦中秋圆月样张公布](https://m.ithome.com/html/887772.htm)
 
++ [ZDNet 实测苹果“最佳 iPhone 充电法”近 18 个月：501 次循环后最大容量 89%，结论“得不偿失”](https://m.ithome.com/html/887740.htm)
+
++ [陈震再次回应劳斯莱斯车祸：第一时间打电话过去道歉，会全力支付所应该负担的赔偿](https://m.ithome.com/html/887745.htm)
+
++ [2025 年总台中秋晚会节目单发布：三个篇章、30 余个节目，今晚 8 点播出](https://m.ithome.com/html/887755.htm)
+
++ [2025 诺贝尔生理学或医学奖授予三学者：揭示“外周免疫耐受”机制，奠定免疫调控理论基础](https://m.ithome.com/html/887751.htm)
+
++ [小米澎湃 OS 3 系统 OTA 逻辑改进：采用优先手动检测和随机放量融合的灰度策略](https://m.ithome.com/html/887763.htm)
+
++ [小米 17 Pro 系列手机获澎湃 OS 3.0.17.0 升级，支持在背屏展示 12306 火车行程提醒](https://m.ithome.com/html/887746.htm)
+
++ [歼-10C 总设计师王海峰首次披露歼-10CE 为何能一战成名](https://m.ithome.com/html/887743.htm)
+
