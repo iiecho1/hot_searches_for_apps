@@ -139,3 +139,5 @@
 
 + [【大前端】Vue 和 React 的区别详解 —— 两大前端框架深度对比](https://blog.csdn.net/qq_41688840/article/details/152608732)
 
++ [【完整源码+数据集+部署教程】 病毒病害图像分割系统： yolov8-seg-GFPN](https://blog.csdn.net/weixin_43860634/article/details/152668327)
+

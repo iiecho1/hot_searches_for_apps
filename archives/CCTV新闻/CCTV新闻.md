@@ -165,3 +165,9 @@
 
 + [土耳其议会一致通过动议 谴责以色列袭击援助加沙船队](https://news.cctv.com/2025/10/09/ARTIXs0GYrnaOZwBBfh2jVHU251009.shtml)
 
++ [苏丹法希尔市一医院遭炮击致12人死亡](https://news.cctv.com/2025/10/09/ARTImq7jNFLnH705SgR2ulFy251009.shtml)
+
++ [俄副外长：俄美元首会晤推力已基本耗尽 “战斧”导弹可致局势本质变化](https://news.cctv.com/2025/10/09/ARTITPNW3JafYS2QvEUoSKc7251009.shtml)
+
++ [厄瓜多尔防长：袭击总统车队具有“明显暗杀企图”](https://news.cctv.com/2025/10/09/ARTI5iL0dDxRsc97taSSescW251009.shtml)
+
