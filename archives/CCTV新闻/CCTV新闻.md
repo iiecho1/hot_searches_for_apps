@@ -175,3 +175,15 @@
 
 + [美参议院再次否决两党拨款法案 联邦政府继续停摆](https://news.cctv.com/2025/10/09/ARTIQZpkkXVbNFMgjH8rBgNB251009.shtml)
 
++ [刚果（金）政府称继续坚持和平进程 多哈对话将重启](https://news.cctv.com/2025/10/09/ARTIjCY7Jx2WdWiOXcjAqU0u251009.shtml)
+
++ [以色列总理称将召集内阁批准停火协议](https://news.cctv.com/2025/10/09/ARTIvhzBhuUbLeUQYzDqm8tI251009.shtml)
+
++ [阿根廷众议院通过限制总统令法案](https://news.cctv.com/2025/10/09/ARTI5PccCOnLnS3H4HZBSc9J251009.shtml)
+
++ [联合国因资金短缺将削减全球四分之一维和人员](https://news.cctv.com/2025/10/09/ARTIr3UtB2mMuRY0axJdOyKn251009.shtml)
+
++ [法国总统府证实马克龙将在48小时内任命新总理](https://news.cctv.com/2025/10/09/ARTI02OHRCgmfxLkztKnmTkC251009.shtml)
+
++ [三年前暗杀阿根廷时任副总统未遂男子获刑14年](https://news.cctv.com/2025/10/09/ARTI6ZF9zt39O12FrjBDm4gH251009.shtml)
+

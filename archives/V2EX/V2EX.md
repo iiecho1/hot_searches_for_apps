@@ -23,3 +23,5 @@
 
 + [马上上班了 Codex/Claude 对 V 友开 3000 积分大概 1000 万 token](https://www.v2ex.com/t/1163760)
 
++ [要不要每天更新电脑软件？](https://www.v2ex.com/t/1163700)
+

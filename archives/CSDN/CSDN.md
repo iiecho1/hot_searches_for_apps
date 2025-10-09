@@ -143,3 +143,7 @@
 
 + [Docker 完整教程(5,6) | 容器编译与编排](https://blog.csdn.net/qq_39517117/article/details/152638809)
 
++ [中秋特别篇：使用QtOpenGL和着色器绘制星空与满月](https://blog.csdn.net/2503_92624912/article/details/152603512)
+
++ [【愚公系列】《人工智能70年》069-无人机的广阔天地（无人机的未来）](https://blog.csdn.net/aa2528877987/article/details/152372608)
+
