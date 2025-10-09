@@ -147,3 +147,19 @@
 
 + [【愚公系列】《人工智能70年》069-无人机的广阔天地（无人机的未来）](https://blog.csdn.net/aa2528877987/article/details/152372608)
 
++ [计算机视觉（opencv）——疲劳检测](https://blog.csdn.net/2302_78022640/article/details/152662217)
+
++ [深度学习之神经网络2(Neural Network)](https://blog.csdn.net/A5522000/article/details/152666498)
+
++ [GitHub 热榜项目 - 日榜(2025-10-07)](https://blog.csdn.net/u014390502/article/details/152651485)
+
++ [中秋节与 Spring Boot 的思考：一场开箱即用的团圆盛宴](https://blog.csdn.net/apple_67445472/article/details/152605243)
+
++ [从零开始学Flink：实时流处理实战](https://blog.csdn.net/jackelee90/article/details/152664629)
+
++ [Linux 线程概念与虚拟地址空间深度解析](https://blog.csdn.net/zoelinkailuo/article/details/152732804)
+
++ [Vue 与 React 深度对比：底层原理、开发体验与实际性能](https://blog.csdn.net/csdn_silent/article/details/152646397)
+
++ [高效学习方法——知识关联性](https://blog.csdn.net/CoFFee________/article/details/152666459)
+

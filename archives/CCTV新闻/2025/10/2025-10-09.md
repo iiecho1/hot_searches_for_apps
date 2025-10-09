@@ -187,3 +187,21 @@
 
 + [三年前暗杀阿根廷时任副总统未遂男子获刑14年](https://news.cctv.com/2025/10/09/ARTI6ZF9zt39O12FrjBDm4gH251009.shtml)
 
++ [美联储公布9月会议纪要 大多委员同意降息25个基点](https://news.cctv.com/2025/10/09/ARTIqM8H4SA2tSPlhUrC5vdw251009.shtml)
+
++ [欧洲汽车制造商协会：欧盟如削减钢铁进口配额将加剧通胀](https://news.cctv.com/2025/10/09/ARTIrYcBSRLj7e43t0eKvmzO251009.shtml)
+
++ [美联邦政府继续停摆 国税局近半员工被迫休假](https://news.cctv.com/2025/10/09/ARTION0TCyVg5bgJrb262cbI251009.shtml)
+
++ [刺杀阿根廷时任副总统未遂 嫌疑人被判刑](https://news.cctv.com/2025/10/09/ARTI9Wqxn1vbBMJOfhBUCLtG251009.shtml)
+
++ [今年8月赴美国际学生数量同比下降19%](https://news.cctv.com/2025/10/09/ARTI6efVcss51gyGjmtH0ULg251009.shtml)
+
++ [斡旋方说第一阶段加沙停火协议最终版本正在起草](https://news.cctv.com/2025/10/09/ARTIV9xewNSAPO78jQ7ETOZ6251009.shtml)
+
++ [哈马斯证实达成加沙停火协议](https://news.cctv.com/2025/10/09/ARTIxmdw8n47ZnLpCZZgdes4251009.shtml)
+
++ [特朗普称以色列和哈马斯达成协议 本周末可能前往中东](https://news.cctv.com/2025/10/09/ARTI4q67uH0LQ6HaYtEJThjc251009.shtml)
+
++ [“首阶段协议已签署” 特朗普拟周末赴中东 加沙停火谈判迎来重大进展→](https://news.cctv.com/2025/10/09/ARTIVTAw3yZEGKK2DyYerXSw251009.shtml)
+
