@@ -223,3 +223,7 @@
 
 + [巴西今年大豆出口总量创新高](https://news.cctv.com/2025/10/09/ARTIifK2IuscAwEaYhtMTCRS251009.shtml)
 
++ [爱因斯坦用过的小提琴拍卖价超百万英镑](https://news.cctv.com/2025/10/09/ARTIMrMHjdOYyJRaa6ZDGZ0T251009.shtml)
+
++ [IMF总裁：全球经济好于预期 但真正的考验即将到来](https://news.cctv.com/2025/10/09/ARTI2zeuYYbUWJUW9uWCcQYT251009.shtml)
+
