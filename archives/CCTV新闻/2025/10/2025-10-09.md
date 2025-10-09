@@ -205,3 +205,13 @@
 
 + [“首阶段协议已签署” 特朗普拟周末赴中东 加沙停火谈判迎来重大进展→](https://news.cctv.com/2025/10/09/ARTIVTAw3yZEGKK2DyYerXSw251009.shtml)
 
++ [美国休斯敦地区发生系列枪击案 4人死亡](https://news.cctv.com/2025/10/09/ARTIKfY68bHvZL2tv5xL8FCI251009.shtml)
+
++ [丹麦首相提议禁止15岁以下人群使用社交媒体](https://news.cctv.com/2025/10/09/ARTIxTL7zT2xWlk77IZAszUB251009.shtml)
+
++ [印度“毒糖浆”已致17名儿童死亡 多家药企被查出违规](https://news.cctv.com/2025/10/09/ARTIGek9GhPaTPvuNSXAnP28251009.shtml)
+
++ [哈马斯就停火协议发声 称释放巴被囚人员是核心优先事项](https://news.cctv.com/2025/10/09/ARTIOZfPT7d6TmUE1pn31v6m251009.shtml)
+
++ [鼓励学生深造 日本拟设大学本硕“五年一贯制”](https://news.cctv.com/2025/10/09/ARTI77z7aIfQ4eDiqDHImruQ251009.shtml)
+

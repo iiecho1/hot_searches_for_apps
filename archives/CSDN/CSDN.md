@@ -163,3 +163,15 @@
 
 + [高效学习方法——知识关联性](https://blog.csdn.net/CoFFee________/article/details/152666459)
 
++ [中秋满月皆十六圆？Java实证求解后的真相](https://blog.csdn.net/yelangkingwuzuhu/article/details/152717752)
+
++ [AI编程时代，为什么你的Cursor/Claude还是写不出想要的代码？](https://blog.csdn.net/No_1_is_me/article/details/152670588)
+
++ [【Security】利用 SSRF 访问 Chef、Docker、AWS 和 MongoDB 实例](https://blog.csdn.net/2301_77485708/article/details/152726636)
+
++ [CodeBuddy Code + 腾讯混元打造“AI识菜通“](https://blog.csdn.net/IRpickstars/article/details/152666745)
+
++ [玩转ClaudeCode：通过Excel-MCP实现数据清洗并写入Excel](https://blog.csdn.net/weixin_41793160/article/details/152671732)
+
++ [Docker Compose 搭建 LNMP 环境并部署 WordPress 论坛](https://blog.csdn.net/zcz1607127821/article/details/152615145)
+
