@@ -227,3 +227,5 @@
 
 + [IMF总裁：全球经济好于预期 但真正的考验即将到来](https://news.cctv.com/2025/10/09/ARTI2zeuYYbUWJUW9uWCcQYT251009.shtml)
 
++ [金正恩参观建党史迹馆 称10年内要实现“新的巨变”](https://news.cctv.com/2025/10/09/ARTIWbHBkgN75Mu4ySGfsb6k251009.shtml)
+

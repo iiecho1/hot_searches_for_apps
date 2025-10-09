@@ -193,3 +193,5 @@
 
 + [项目---网络通信组件JsonRpc](https://blog.csdn.net/2301_81454749/article/details/149198364)
 
++ [【DINOv3】（2）DINOv3 技术报告](https://blog.csdn.net/youcans/article/details/152609548)
+
