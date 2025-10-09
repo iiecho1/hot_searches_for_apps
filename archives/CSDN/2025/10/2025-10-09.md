@@ -205,3 +205,13 @@
 
 + [【STM32项目开源】基于STM32的智能厨房火灾燃气监控](https://blog.csdn.net/qq_42936232/article/details/152721016)
 
++ [Transformer实战（21）——文本表示（Text Representation）](https://blog.csdn.net/LOVEmy134611/article/details/147880402)
+
++ [uniApp微信小程序：error: 60001 request:fail errcode:-101 cronet error code:-101error_msg:net::ERR CONNECTI](https://blog.csdn.net/weixin_50545213/article/details/152803865)
+
++ [微信小程序 - 实现身份证OCR识别人像面与国徽面并提取字段信息，详解从手机相册选取或打开摄像头拍照上传身份证正反面图片ocr文字识别数据填充表单（提供免费纯前端ocr识别插件+百度OCR识别API）](https://blog.csdn.net/weixin_44198965/article/details/152800053)
+
++ [nginx反向代理与缓存功能](https://blog.csdn.net/Justin_19/article/details/152650827)
+
++ [Nginx 反向代理与负载均衡](https://blog.csdn.net/2301_80232969/article/details/152731660)
+

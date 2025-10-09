@@ -51,3 +51,5 @@
 
 + [比亚迪汉智驾领航加推版车型被曝 10 月 11 日上市：DM-i 纯电续航 245km + 3.49L 超低油耗](https://m.ithome.com/html/888013.htm)
 
++ [消息称鸿蒙座舱等着原生鸿蒙大换代](https://m.ithome.com/html/887917.htm)
+

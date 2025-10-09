@@ -125,3 +125,11 @@
 
 + [岂不是显得我不解风情【今天有什么好笑的 #2173】](https://m.acfun.cn/v/?ac=47896447)
 
++ [【歌回录像】五周年特别3d歌回（2025-08-27）](https://m.acfun.cn/v/?ac=47893248)
+
++ [回到假期第一天](https://m.acfun.cn/v/?ac=47896893)
+
++ [用完全相反的语气配音《我要退出crychic》，但是东北话](https://m.acfun.cn/v/?ac=47896964)
+
++ [呐~Doki DOKI了嘛!!Cherry Pop](https://m.acfun.cn/v/?ac=47894816)
+

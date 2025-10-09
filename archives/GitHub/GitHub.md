@@ -23,3 +23,17 @@
 
 + [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 
++ [TibixDev/winboat](https://github.com/TibixDev/winboat)
+
++ [timelinize/timelinize](https://github.com/timelinize/timelinize)
+
++ [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt)
+
++ [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz)
+
++ [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+
