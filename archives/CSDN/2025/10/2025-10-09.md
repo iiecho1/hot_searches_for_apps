@@ -179,3 +179,7 @@
 
 + [MATLAB学习文档（二十三）](https://blog.csdn.net/2401_83227843/article/details/152649469)
 
++ [JVM + 微服务：构建永不崩溃的高可用系统的黄金法则](https://blog.csdn.net/yunsteel/article/details/152721445)
+
++ [资产信息收集与指纹识别：HTTPX联动工具实战指南](https://blog.csdn.net/qq_40037555/article/details/152598000)
+
