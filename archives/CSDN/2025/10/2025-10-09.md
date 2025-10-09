@@ -195,3 +195,7 @@
 
 + [【DINOv3】（2）DINOv3 技术报告](https://blog.csdn.net/youcans/article/details/152609548)
 
++ [vue-router（vue 路由）基本使用指南（二）](https://blog.csdn.net/footless_bird/article/details/152799027)
+
++ [3D坐标旋转公式](https://blog.csdn.net/qq_36892712/article/details/152743298)
+

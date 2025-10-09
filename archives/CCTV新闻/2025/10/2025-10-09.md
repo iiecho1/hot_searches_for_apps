@@ -229,3 +229,17 @@
 
 + [金正恩参观建党史迹馆 称10年内要实现“新的巨变”](https://news.cctv.com/2025/10/09/ARTIWbHBkgN75Mu4ySGfsb6k251009.shtml)
 
++ [德国议会废除“三年快速入籍”法律](https://news.cctv.com/2025/10/09/ARTIgswwPx5ihEeGE9wO1aWp251009.shtml)
+
++ [以军已停止在加沙地带军事行动](https://news.cctv.com/2025/10/09/ARTIomCdxHyCfx3ePn6QzeyZ251009.shtml)
+
++ [中外网红博主拍摄幽默风趣的短视频：把高铁故事讲给世界听](https://news.cctv.com/2025/10/09/ARTIHDMtv0n2vyzUeZ9FfWWK251009.shtml)
+
++ [美政府“停摆”进入第二周 国税局近半员工被迫休假](https://news.cctv.com/2025/10/09/ARTIP8B36Yc6z4osF5gwON5u251009.shtml)
+
++ [2025年美国会奖旅游展开幕 中国展台备受瞩目](https://news.cctv.com/2025/10/09/ARTI72iE7ZJD6Kcx9oZP8cYJ251009.shtml)
+
++ [外媒关注国庆中秋假期：文旅消费提振经济，文化输出辐射全球](https://news.cctv.com/2025/10/09/ARTIgZaRi9ai4khzZMhN8We9251009.shtml)
+
++ [第一阶段加沙停火协议正式生效](https://news.cctv.com/2025/10/09/ARTI1dI4AuXpO1VeMlGQs1o2251009.shtml)
+
