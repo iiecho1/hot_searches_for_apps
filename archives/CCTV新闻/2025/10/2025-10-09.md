@@ -217,3 +217,9 @@
 
 + [欧盟机构：全球经历了有记录以来第三热的9月](https://news.cctv.com/2025/10/09/ARTIkM0GxAEAUiCspcVILJ2m251009.shtml)
 
++ [委内瑞拉启动“独立200”一体化激活演练](https://news.cctv.com/2025/10/09/ARTIZIebrryvuomuljBiTkWe251009.shtml)
+
++ [IMF总裁：全球经济的真正考验可能即将到来](https://news.cctv.com/2025/10/09/ARTIW5nz7Mp2LEKTnjC36Tn2251009.shtml)
+
++ [巴西今年大豆出口总量创新高](https://news.cctv.com/2025/10/09/ARTIifK2IuscAwEaYhtMTCRS251009.shtml)
+
