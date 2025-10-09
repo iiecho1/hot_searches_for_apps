@@ -215,3 +215,5 @@
 
 + [鼓励学生深造 日本拟设大学本硕“五年一贯制”](https://news.cctv.com/2025/10/09/ARTI77z7aIfQ4eDiqDHImruQ251009.shtml)
 
++ [欧盟机构：全球经历了有记录以来第三热的9月](https://news.cctv.com/2025/10/09/ARTIkM0GxAEAUiCspcVILJ2m251009.shtml)
+
