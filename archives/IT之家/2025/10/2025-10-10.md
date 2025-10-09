@@ -55,3 +55,5 @@
 
 + [三星 Galaxy S26 Ultra 手机机模曝光：银、橙、金三款配色亮相](https://m.ithome.com/html/887952.htm)
 
++ [2025 年诺贝尔文学奖揭晓：匈牙利作家拉斯洛・克拉斯纳霍尔凯获奖](https://m.ithome.com/html/888290.htm)
+

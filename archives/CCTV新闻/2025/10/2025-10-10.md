@@ -173,3 +173,9 @@
 
 + [美参议院再次否决民主党版本临时拨款法案](https://news.cctv.com/2025/10/10/ARTI2ttvdp7gT8OaMsH5f61T251010.shtml)
 
++ [以军空袭加沙城 加沙民防部门称约40人被困废墟](https://news.cctv.com/2025/10/10/ARTIkJFIwjxZED626aKCBMsY251010.shtml)
+
++ [斯洛伐克一架小型飞机坠毁 飞行员丧生](https://news.cctv.com/2025/10/10/ARTIfQwqonY6Kg5QZsbSgtMD251010.shtml)
+
++ [中方就坚持国际法治加强全球治理提出六点主张](https://news.cctv.com/2025/10/10/ARTIqHoDdEi4CYVYwGiiBT52251010.shtml)
+
