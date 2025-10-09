@@ -119,3 +119,7 @@
 
 + [【STM32项目开源】基于STM32的智能厨房火灾燃气监控](https://blog.csdn.net/qq_42936232/article/details/152721016)
 
++ [嵌入式Linux：线程中信号处理](https://blog.csdn.net/m0_38106923/article/details/142826207)
+
++ [具有良好非周期相关特性的多相码（Polyphase Codes，亦称 Frank Codes）——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152661604)
+

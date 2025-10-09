@@ -161,3 +161,15 @@
 
 + [委内瑞拉在联合国会议呼吁加强禁毒国际合作](https://news.cctv.com/2025/10/08/ARTI0pSRAO0tGZFQggeeScGz251008.shtml)
 
++ [美参议院再次否决两党拨款法案 特朗普威胁削减民主党项目](https://news.cctv.com/2025/10/10/ARTIOkR1LAqFvPogPhPBjfGB251010.shtml)
+
++ [以外长：以色列致力于停火协议 无意“重启战争”](https://news.cctv.com/2025/10/10/ARTIyW8IPRmiSpEPiogF1fUZ251010.shtml)
+
++ [伊朗重申支持巴勒斯坦人民 呼吁追究以色列战争罪行](https://news.cctv.com/2025/10/10/ARTIFEvDGlheWHta6g3lMyWD251010.shtml)
+
++ [普京谈阿塞拜疆客机失事原因 说俄方愿意赔偿](https://news.cctv.com/2025/10/10/ARTIDvjXDlDzT0Va5jGdtbWl251010.shtml)
+
++ [联合国宣布加沙停火后人道主义行动计划](https://news.cctv.com/2025/10/10/ARTIZHAWTpyCITxvXUbHjMDj251010.shtml)
+
++ [美参议院再次否决民主党版本临时拨款法案](https://news.cctv.com/2025/10/10/ARTI2ttvdp7gT8OaMsH5f61T251010.shtml)
+
