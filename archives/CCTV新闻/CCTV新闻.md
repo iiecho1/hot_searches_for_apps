@@ -243,3 +243,9 @@
 
 + [第一阶段加沙停火协议正式生效](https://news.cctv.com/2025/10/09/ARTI1dI4AuXpO1VeMlGQs1o2251009.shtml)
 
++ [美欧能源协议因何备受非议](https://news.cctv.com/2025/10/09/ARTIK6b9VywBmRIEwssYOCa4251009.shtml)
+
++ [美政府“停摆”进入第二周 临时预算案再被否决](https://news.cctv.com/2025/10/09/ARTIGqr93YKJHzHHvBILw8G4251009.shtml)
+
++ [中国游客是新加坡旅游经济发展的重要推动力——访新加坡旅游业分析师巴特](https://news.cctv.com/2025/10/09/ARTIiNNf5HhANYUcxZC36E3t251009.shtml)
+
