@@ -101,3 +101,21 @@
 
 + [JVM + 微服务：构建永不崩溃的高可用系统的黄金法则](https://blog.csdn.net/yunsteel/article/details/152721445)
 
++ [时序数据库选型指南：为什么越来越多企业选择IoTDB](https://blog.csdn.net/Mrxiao_bo/article/details/152825954)
+
++ [0.6 卷积神经网络](https://blog.csdn.net/qq_34047402/article/details/152666266)
+
++ [【花雕动手做】AI 视觉传感器 HUSKYLENS 2 之统计条形码总数输出指定条形码的数据](https://blog.csdn.net/weixin_41659040/article/details/152792304)
+
++ [【小程序】微信开发者工具上调用api接口可以，到了线上调用发现提示wx.request调用报错，原来是https协议问题](https://blog.csdn.net/lmy_520/article/details/152816221)
+
++ [Docker 镜像结构与相关核心知识总结](https://blog.csdn.net/2502_92562214/article/details/152743239)
+
++ [【GPT5系列】ChatGPT5 提示词工程指南](https://blog.csdn.net/weixin_42475060/article/details/152798243)
+
++ [Java实战篇22-日志收集系统（Logback+ELK）](https://blog.csdn.net/qq_41187124/article/details/152178768)
+
++ [浏览器事件循环与内存管理可视化](https://blog.csdn.net/QQ2861104332/article/details/152732572)
+
++ [【STM32项目开源】基于STM32的智能厨房火灾燃气监控](https://blog.csdn.net/qq_42936232/article/details/152721016)
+

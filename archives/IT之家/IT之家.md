@@ -25,3 +25,27 @@
 
 + [每次按击都有“黑莓”感：MetaKey 键盘手机壳登场，苹果 iPhone 16/17 Pro Max 最佳输入伴侣](https://m.ithome.com/html/888155.htm)
 
++ [特斯拉最便宜车型：Model 3 标准版亮相，起价 3.7 万美元](https://m.ithome.com/html/887927.htm)
+
++ [7500mAh vs 4823mAh：TechDroider 测试小米和苹果的“17 Pro Max”手机续航](https://m.ithome.com/html/887969.htm)
+
++ [特斯拉 Model Y 标准版在美国上市：织物座椅、封天窗、续航 517 公里，起价跌破 4 万美元](https://m.ithome.com/html/887925.htm)
+
++ [2026 款吉利星愿车型 10 月 10 日上市，张柏芝代言](https://m.ithome.com/html/888025.htm)
+
++ [苹果 iPhone 17 Pro Max 被魔改外挂 SSD 散热器，4K 视频录制不再降频](https://m.ithome.com/html/887961.htm)
+
++ [三星被曝拿下独家大单，为苹果首款折叠 iPhone 初期供应全部 OLED 屏](https://m.ithome.com/html/887971.htm)
+
++ [全球首发：vivo X300 Pro 手机搭载 LYT-828 云台级主摄](https://m.ithome.com/html/887959.htm)
+
++ [已故名人遭 Sora 2“复活”引争议，OpenAI 称允许生成历史人物](https://m.ithome.com/html/887996.htm)
+
++ [英伟达 CEO 黄仁勋宣布将继续承担员工 H-1B 签证，每份新证 10 万美元](https://m.ithome.com/html/887924.htm)
+
++ [用分子造房子：2025 诺贝尔化学奖授予三位科学家，以表彰其对 MOF 材料的突破性贡献](https://m.ithome.com/html/888034.htm)
+
++ [腾讯《三角洲行动》紧急更新引玩家不满，官方致歉并公布补偿措施](https://m.ithome.com/html/888039.htm)
+
++ [特斯拉 Model 3 / Y 标准版 Autopilot 遭“阉割”：不支持“自动辅助转向”功能](https://m.ithome.com/html/887972.htm)
+
