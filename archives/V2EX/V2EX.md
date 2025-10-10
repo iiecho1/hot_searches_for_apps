@@ -43,3 +43,9 @@
 
 + [放在家里稳定运行的 Linux 小主机有啥推荐没？](https://www.v2ex.com/t/1164108)
 
++ [电脑只升级显卡可以吗？](https://www.v2ex.com/t/1164098)
+
++ [宋 plus23 冠军想要换车，感觉动力不足](https://www.v2ex.com/t/1164076)
+
++ [15pro 用了两年，电池循环 1161 次](https://www.v2ex.com/t/1163987)
+

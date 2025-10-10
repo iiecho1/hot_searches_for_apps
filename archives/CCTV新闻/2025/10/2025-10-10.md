@@ -233,3 +233,7 @@
 
 + [菲律宾强震后发生多次余震 造成人员伤亡](https://news.cctv.com/2025/10/10/ARTITMagtBFrfZWturfpVW6X251010.shtml)
 
++ [加沙停火协议人道主义附录首次公开](https://news.cctv.com/2025/10/10/ARTICOy3N83P99ePEVyWQDa0251010.shtml)
+
++ [机组人员吸入烟气后不适 英航一客机备降罗马尼亚](https://news.cctv.com/2025/10/10/ARTIAJynEYwJNGTMeakXDtvs251010.shtml)
+

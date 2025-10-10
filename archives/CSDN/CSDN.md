@@ -155,3 +155,7 @@
 
 + [云原生 + 大数据：Spark on K8s 部署实战](https://blog.csdn.net/qq_41187124/article/details/152551258)
 
++ [缓存雪崩、击穿、穿透是什么与解决方案](https://blog.csdn.net/cjejwe/article/details/152176991)
+
++ [权限管理混乱微服务安全架构：OAuth2.0+JWT无感刷新方案非法请求拦截率](https://blog.csdn.net/qq_34857807/article/details/152661779)
+
