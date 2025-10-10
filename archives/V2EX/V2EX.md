@@ -21,3 +21,5 @@
 
 + [成都、西安选择那里比较好？](https://www.v2ex.com/t/1164189)
 
++ [Windows，账户密码忘记了，求助](https://www.v2ex.com/t/1164053)
+

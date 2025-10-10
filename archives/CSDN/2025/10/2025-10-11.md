@@ -101,3 +101,39 @@
 
 + [ASP.NET Core Web API 发布到 IIS 服务器](https://blog.csdn.net/qq_38693757/article/details/152801741)
 
++ [智能监控项目：Python 多目标检测系统 目标检测 目标跟踪（YOLOv8+ByteTrack 监控/交通 源码+文档）✅](https://blog.csdn.net/q_2917219673/article/details/152842819)
+
++ [Global AI Large Model KWI Ranking (October 2025) [Grok Version]](https://blog.csdn.net/SmartTony/article/details/152695068)
+
++ [Redis（二）——Redis协议与异步方式](https://blog.csdn.net/2301_80345648/article/details/152728045)
+
++ [unity 事件、委托](https://blog.csdn.net/liveRTL/article/details/152012769)
+
++ [Uni-App 实现多身份动态切换 TabBar 指南](https://blog.csdn.net/csdn_silent/article/details/152609022)
+
++ [【Security】盲 XSS 揭露黑色产业链：Steam 饰品欺诈调查](https://blog.csdn.net/2301_77485708/article/details/152896021)
+
++ [如何查看局域网内IP冲突问题？如何查看局域网IP环绕问题？arp -a命令如何使用？](https://blog.csdn.net/qq_44866828/article/details/152952192)
+
++ [今日八股——JVM篇](https://blog.csdn.net/2301_79903357/article/details/152735215)
+
++ [解决MySQL8.0及其更高版本的两个安全问题——及其配置MySQL实现SSL/TLS加密通信、caching_sha2_password通信](https://blog.csdn.net/xiaochenXIHUA/article/details/152812136)
+
++ [从误检率30%到99.7%：YOLOv8/v9工业零件缺陷检测实战（附产线部署全流程与参数调优秘籍）](https://blog.csdn.net/shanwei_spider/article/details/152664857)
+
++ [混合动力汽车MATLAB建模实现方案](https://blog.csdn.net/ytttr873/article/details/152806489)
+
++ [【web网页项目】哆啦 A 梦（附完整源码）](https://blog.csdn.net/2503_91057718/article/details/152847222)
+
++ [SMOTE 算法详解：解决不平衡数据问题的有效工具](https://blog.csdn.net/2401_88885149/article/details/152080859)
+
++ [互补序列 (Complementary Series)——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152743392)
+
++ [高并发内存池（七）：大块内存的申请释放问题以及配合定长内存池脱离使用new](https://blog.csdn.net/yue_2899799318/article/details/152774013)
+
++ [【调研】加密货币/BTC/区块链的发展历史(2025)](https://blog.csdn.net/weixin_44191845/article/details/152731226)
+
++ [创世理论达成 量子海时空泡融合成宇宙时空](https://blog.csdn.net/qq_36719620/article/details/152765290)
+
++ [虚幻 5 游戏体验提升指南（四）](https://blog.csdn.net/wizardforcel/article/details/152747605)
+
