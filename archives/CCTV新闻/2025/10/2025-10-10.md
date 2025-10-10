@@ -179,3 +179,47 @@
 
 + [中方就坚持国际法治加强全球治理提出六点主张](https://news.cctv.com/2025/10/10/ARTIqHoDdEi4CYVYwGiiBT52251010.shtml)
 
++ [中国驻福冈总领事馆：提醒冲绳、奄美及九州东南部中国同胞注意防范23号台风](https://news.cctv.com/2025/10/10/ARTIogEBIgXUxa0xdKFkuyr9251010.shtml)
+
++ [秘鲁总统博鲁阿尔特遭国会弹劾](https://news.cctv.com/2025/10/10/ARTIJGZcd2G9onsN8lX6jvwz251010.shtml)
+
++ [庆祝朝鲜劳动党成立80周年大会在平壤举行](https://news.cctv.com/2025/10/10/ARTIkxC0Q72owP2thSCk4X3r251010.shtml)
+
++ [外媒：数字中国建设成就令人印象深刻](https://news.cctv.com/2025/10/10/ARTIkTSuU23napm5m73mvkYO251010.shtml)
+
++ [外媒：中国已成为全球工业机器人领域的领导者](https://news.cctv.com/2025/10/10/ARTIEiwYDsdCLl3ZldUvpCdw251010.shtml)
+
++ [美国政府“停摆”持续 航空运输混乱挨批](https://news.cctv.com/2025/10/10/ARTIYOp1UQmGdkJMRM4amXjX251010.shtml)
+
++ [秘鲁国会同意审议弹劾总统动议](https://news.cctv.com/2025/10/10/ARTI0uAzFZlLnlpvIWaKIZM0251010.shtml)
+
++ [北美观察丨芝加哥之“战”：撕开美国社会新裂口](https://news.cctv.com/2025/10/10/ARTIqupbq2PxX7OFDvjaoRie251010.shtml)
+
++ [中国驻菲律宾使领馆提醒在菲中国公民防范地震海啸灾害](https://news.cctv.com/2025/10/10/ARTIdo9JvMJdJhTuwMEHncDT251010.shtml)
+
++ [美国纽约州总检察长詹姆斯遭起诉](https://news.cctv.com/2025/10/10/ARTImz4ivsgh5EsSB7jbjUjF251010.shtml)
+
++ [总台记者观察丨三个月两次信任危机 冯德莱恩遭欧盟内部“猛烈批评”](https://news.cctv.com/2025/10/10/ARTI6g4qwxp6TTV6X5puDCPa251010.shtml)
+
++ [俄罗斯－阿拉伯峰会延期举行](https://news.cctv.com/2025/10/10/ARTIhhOrztGRp7MNsMiqHf5T251010.shtml)
+
++ [菲律宾南部海域发生7.6级地震 已触发海啸预警](https://news.cctv.com/2025/10/10/ARTIPkqAx5Y9LgzmC4Zpz1tt251010.shtml)
+
++ [欧洲头条丨总理闪电辞职 组阁前景不明 法国政局再度陷入僵局](https://news.cctv.com/2025/10/10/ARTIISaklibA5JpyGp26C0lP251010.shtml)
+
++ [柏林：璀璨灯光节](https://photo.cctv.com/2025/10/10/PHOAmDEzqeZovKEZDBVsz5nA251010.shtml)
+
++ [菲律宾群岛地区发生7.4级地震，震源深度50千米](https://news.cctv.com/2025/10/10/ARTIhOeBpo6ie4l0ftkIppMb251010.shtml)
+
++ [巴勒斯坦民众庆祝加沙停火协议](https://photo.cctv.com/2025/10/10/PHOA8pxy2sVrj04U3dkobGtq251010.shtml)
+
++ [塞内加尔裂谷热疫情已致17人死亡](https://news.cctv.com/2025/10/10/ARTIw3utZPVDaCWJQGSvTtHQ251010.shtml)
+
++ [菲律宾棉兰老岛附近发生7.3级左右地震](https://news.cctv.com/2025/10/10/ARTIyBvxzTmp3ltOlcEwIQny251010.shtml)
+
++ [以色列批准加沙停火协议 联合国将加大人道援助](https://news.cctv.com/2025/10/10/ARTIc3PRWUU8IvUQHZIAwlko251010.shtml)
+
++ [以媒公布停火协议文本 以军撤军72小时后所有人质将被释放](https://news.cctv.com/2025/10/10/ARTIqx3u1fdz4CZb0tYACinD251010.shtml)
+
++ [俄军一架米格-31战机坠毁 飞行员弹射逃生](https://news.cctv.com/2025/10/10/ARTIxjWYaVWAkobSMGaeAKZC251010.shtml)
+

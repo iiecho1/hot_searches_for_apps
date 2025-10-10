@@ -123,3 +123,25 @@
 
 + [具有良好非周期相关特性的多相码（Polyphase Codes，亦称 Frank Codes）——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152661604)
 
++ [【深入理解计算机网路07】详解局域网：以太网、VLAN与无线局域网](https://blog.csdn.net/Muyu1uz/article/details/152788077)
+
++ [能量密度的革命：穿透电池从实验室到工厂的迷雾，窥见固态电池的终极未来](https://blog.csdn.net/weixin_45817947/article/details/152743209)
+
++ [Electron - 实现企业微信扫码登录完整流程及示例源码，用户使用企业微信扫描二维码后授权登录并获取用户信息数据+实时检测登陆状态，企业微信授权第三方应用登录教程（支持弹框式窗口展现或新开一页面）](https://blog.csdn.net/weixin_44198965/article/details/152900422)
+
++ [FPGA实现直流电机转速、电压、电流测量系统（基于EP4CE6F17C8 + INA226）](https://blog.csdn.net/JJ_KING123/article/details/152668776)
+
++ [【MySQL】从零开始了解数据库开发 --- 数据表的约束](https://blog.csdn.net/JLX_1/article/details/152782382)
+
++ [【GaussDB】使用MySQL客户端连接到GaussDB的M-Compatibility数据库](https://blog.csdn.net/GaussDB/article/details/152901881)
+
++ [反向代理和负载均衡](https://blog.csdn.net/qq_61507096/article/details/152711957)
+
++ [四大名著智能可视化推演平台](https://blog.csdn.net/2302_77626561/article/details/152785374)
+
++ [测试用例设计万能公式：功能到安全](https://blog.csdn.net/2302_80871796/article/details/152518979)
+
++ [Linux系统性能监控与故障定位实战：CPU/内存/I/O/网络](https://blog.csdn.net/2401_82619496/article/details/152847147)
+
++ [鸿蒙路上的那些事：从初学者到资源创作者](https://blog.csdn.net/m0_55394328/article/details/152844697)
+
