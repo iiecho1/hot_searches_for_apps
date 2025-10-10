@@ -55,3 +55,5 @@
 
 + [Windows，账户密码忘记了，求助](https://www.v2ex.com/t/1164053)
 
++ [很好奇日本真的是大部分民众都反华吗](https://www.v2ex.com/t/1164210)
+

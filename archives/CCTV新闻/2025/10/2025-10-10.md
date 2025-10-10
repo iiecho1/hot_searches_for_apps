@@ -253,3 +253,11 @@
 
 + [菲律宾南部地震已致3人死亡 海啸警报解除](https://news.cctv.com/2025/10/10/ARTI2DjiApuXL6RUBOnNHxAz251010.shtml)
 
++ [货币互换规模达200亿美元 美国对阿根廷这项措施引争议](https://news.cctv.com/2025/10/10/ARTIuBBYlUDpj8qeBCn2Kjy0251010.shtml)
+
++ [美国宣布将从芬兰采购11艘破冰船](https://news.cctv.com/2025/10/10/ARTIg00bIHfbTMg8xDpFCpoq251010.shtml)
+
++ [菲律宾南部海域发生6.9级地震 再次触发海啸预警](https://news.cctv.com/2025/10/10/ARTIui0sBsY6nfFgZcHeBSqA251010.shtml)
+
++ [菲律宾群岛地区发生6.7级地震，震源深度50千米](https://news.cctv.com/2025/10/10/ARTIseKd9NI1eELG8kYmvxhH251010.shtml)
+
