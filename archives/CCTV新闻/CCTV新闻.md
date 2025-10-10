@@ -223,3 +223,13 @@
 
 + [俄军一架米格-31战机坠毁 飞行员弹射逃生](https://news.cctv.com/2025/10/10/ARTIxjWYaVWAkobSMGaeAKZC251010.shtml)
 
++ [日本公明党决定退出与自民党的执政联盟](https://news.cctv.com/2025/10/10/ARTI12vfIx4tIryQzpwgBQuS251010.shtml)
+
++ [塞内加尔裂谷热疫情持续蔓延 已致17人死亡](https://news.cctv.com/2025/10/10/ARTITPmigXge8m1JdDWGB1rv251010.shtml)
+
++ [热点问答｜加沙停火第一阶段协议前景如何](https://news.cctv.com/2025/10/10/ARTIErFqVjWXriiif837eAzE251010.shtml)
+
++ [秘鲁国会主席何塞·耶里宣誓就任新总统](https://news.cctv.com/2025/10/10/ARTIy33IKUp36ujstDfXpAX5251010.shtml)
+
++ [菲律宾强震后发生多次余震 造成人员伤亡](https://news.cctv.com/2025/10/10/ARTITMagtBFrfZWturfpVW6X251010.shtml)
+

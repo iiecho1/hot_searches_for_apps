@@ -145,3 +145,13 @@
 
 + [鸿蒙路上的那些事：从初学者到资源创作者](https://blog.csdn.net/m0_55394328/article/details/152844697)
 
++ [Docker镜像构建指南：Dockerfile语法与docker build命令全解析](https://blog.csdn.net/2302_80105876/article/details/152264913)
+
++ [Apache IoTDB 架构特性与 Prometheus+Grafana 监控体系部署实践](https://blog.csdn.net/weixin_62765017/article/details/152795284)
+
++ [把 IoTDB 写进大数据底座：一份能跑代码的工业时序数据库选型指南](https://blog.csdn.net/liu_chen_yang/article/details/152790776)
+
++ [DooTask升级指南：解锁全新功能，提升协作与效率](https://blog.csdn.net/weixin_43151418/article/details/152809537)
+
++ [云原生 + 大数据：Spark on K8s 部署实战](https://blog.csdn.net/qq_41187124/article/details/152551258)
+

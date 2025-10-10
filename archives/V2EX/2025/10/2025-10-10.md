@@ -41,3 +41,5 @@
 
 + [昨天的一些反馈 - 继续对 v 友赠送 codex 2000 积分](https://www.v2ex.com/t/1164095)
 
++ [放在家里稳定运行的 Linux 小主机有啥推荐没？](https://www.v2ex.com/t/1164108)
+
