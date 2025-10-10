@@ -49,3 +49,11 @@
 
 + [vivo OriginOS 6 升级全新“动态透彩”材质，主打系统界面“通透感”](https://m.ithome.com/html/888414.htm)
 
++ [李楠：当年高通对压根没有使用他们芯片的魅族瞎收费，公正虽迟但到](https://m.ithome.com/html/888544.htm)
+
++ [限时权益价 6.58 万元起，2026 款吉利星愿纯电小车上市](https://m.ithome.com/html/888553.htm)
+
++ [消息称微软上海新一轮裁员补偿 N+4，可调动到澳大利亚](https://m.ithome.com/html/888535.htm)
+
++ [8000mAh 电池、天玑 9400+：iQOO Z10 Turbo+ 手机国补后 1656 元](https://m.ithome.com/html/888461.htm)
+

@@ -147,3 +147,11 @@
 
 + [虚幻 5 游戏体验提升指南（一）](https://blog.csdn.net/wizardforcel/article/details/152746963)
 
++ [智慧交通项目：Python+YOLOv8 实时交通标志系统 深度学习实战（TT100K+PySide6 源码+文档）✅](https://blog.csdn.net/q_2917219673/article/details/152843042)
+
++ [OpenAI 与 AMD 达成巨额计算合作协议，AI 热潮进入新阶段](https://blog.csdn.net/2301_79342058/article/details/152668424)
+
++ [Python中的鸭子类型：理解动态类型的力量](https://blog.csdn.net/2503_92624912/article/details/152969172)
+
++ [手机模块化升级的挑战与未来](https://blog.csdn.net/weixin_42236099/article/details/152712312)
+
