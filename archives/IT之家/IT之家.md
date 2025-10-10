@@ -25,3 +25,27 @@
 
 + [OPPO Find X9 系列手机“特别色”官宣：追光红](https://m.ithome.com/html/888113.htm)
 
++ [全新一汽奥迪 A6L 车型完成工信部申报，外观设计大变](https://m.ithome.com/html/888322.htm)
+
++ [华为 Pura 80 Ultra 手机、WATCH GT 6 Pro 手表双双入选《时代》杂志 2025 最佳发明](https://m.ithome.com/html/888444.htm)
+
++ [vivo OriginOS 6 系统正式发布：全新动态透彩材质、行业首发“蓝河流畅引擎”引入三大流畅底层技术](https://m.ithome.com/html/888424.htm)
+
++ [英特尔公布酷睿 Ultra 300 系列“Panther Lake”处理器架构细节](https://m.ithome.com/html/888337.htm)
+
++ [字节跳动创始人张一鸣近年首次公开亮相](https://m.ithome.com/html/888474.htm)
+
++ [高通公司涉嫌违反反垄断法，市场监管总局依法决定立案调查](https://m.ithome.com/html/888519.htm)
+
++ [极氪 CBO 关海涛宣布离职：感恩这个时代，希望大家继续支持极氪、支持吉利](https://m.ithome.com/html/888457.htm)
+
++ [大疆 10 月 14 日发布新品，宣称“云集本地，现在”](https://m.ithome.com/html/888334.htm)
+
++ [任务管理器之父揭秘微软 WinXP 万能激活密钥 FCKGW：不是破解，是泄露](https://m.ithome.com/html/888391.htm)
+
++ [荣耀 Magic8 Pro 手机演唱会样张公布，罗巍称“不需要啥增距镜”](https://m.ithome.com/html/888321.htm)
+
++ [华为鸿蒙 HarmonyOS 6 开发者版本体验招募（三期）开启，新增 MateBook Pro / Fold PC 产品](https://m.ithome.com/html/888439.htm)
+
++ [vivo OriginOS 6 升级全新“动态透彩”材质，主打系统界面“通透感”](https://m.ithome.com/html/888414.htm)
+
