@@ -237,3 +237,17 @@
 
 + [机组人员吸入烟气后不适 英航一客机备降罗马尼亚](https://news.cctv.com/2025/10/10/ARTIAJynEYwJNGTMeakXDtvs251010.shtml)
 
++ [日本或于10月20日举行首相指名选举](https://news.cctv.com/2025/10/10/ARTIFgwgGewjeACfahU1t90u251010.shtml)
+
++ [美政府“停摆”继续 本周超2万航班延误](https://news.cctv.com/2025/10/10/ARTI9q6X56TYko1CpPzM6VF8251010.shtml)
+
++ [出海记丨“中国标准的国际影响力与日俱增”](https://news.cctv.com/2025/10/10/ARTIazOo5KQc3LxFPo7KEo3L251010.shtml)
+
++ [外媒观察丨全球贸易变局：亚洲与“全球南方”崛起，美国单边主义反噬自身](https://news.cctv.com/2025/10/10/ARTIse4NxFVcsdCLxgeeBOaV251010.shtml)
+
++ [【世界说】英媒评美国保护主义政策——“短视且不聪明的行径”](https://news.cctv.com/2025/10/10/ARTIeZuvOjNtwj0qJH4fHEzw251010.shtml)
+
++ [专访｜期待全球妇女峰会推动弘扬新时代“女性力量”——访塞尔维亚负责性别平等事务部长马楚拉](https://news.cctv.com/2025/10/10/ARTICR0zwyFM0Qzxes28uY5f251010.shtml)
+
++ [菲律宾强震已致3人死亡 一所学院化学物品泄漏](https://news.cctv.com/2025/10/10/ARTI4hajusyS9dzgaTpErkf9251010.shtml)
+

@@ -159,3 +159,13 @@
 
 + [权限管理混乱微服务安全架构：OAuth2.0+JWT无感刷新方案非法请求拦截率](https://blog.csdn.net/qq_34857807/article/details/152661779)
 
++ [Apache James-postgres-3.9.0 专属域名邮箱部署详情：从配置到安全防护](https://blog.csdn.net/lilinhai548/article/details/152898510)
+
++ [人工智能时代下的全栈开发：整合AI、大数据与云原生的实践策略](https://blog.csdn.net/2503_93358589/article/details/152839974)
+
++ [学习threejs，实现粒子化交互文字](https://blog.csdn.net/qq_28419035/article/details/152895398)
+
++ [Redis 重大远程代码执行漏洞（CVE-2025-49844），CVSS 评分 10 分](https://blog.csdn.net/weixin_45581780/article/details/152735500)
+
++ [GitHub 热榜项目 - 日榜(2025-10-10)](https://blog.csdn.net/u014390502/article/details/152895825)
+
