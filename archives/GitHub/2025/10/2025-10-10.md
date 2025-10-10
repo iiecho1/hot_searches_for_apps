@@ -21,3 +21,17 @@
 
 + [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
++ [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+
++ [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+
++ [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop)
+
++ [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+
++ [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)
+

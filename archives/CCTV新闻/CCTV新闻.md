@@ -251,3 +251,5 @@
 
 + [菲律宾强震已致3人死亡 一所学院化学物品泄漏](https://news.cctv.com/2025/10/10/ARTI4hajusyS9dzgaTpErkf9251010.shtml)
 
++ [菲律宾南部地震已致3人死亡 海啸警报解除](https://news.cctv.com/2025/10/10/ARTI2DjiApuXL6RUBOnNHxAz251010.shtml)
+
