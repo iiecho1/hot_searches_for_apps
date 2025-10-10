@@ -261,3 +261,9 @@
 
 + [菲律宾群岛地区发生6.7级地震，震源深度50千米](https://news.cctv.com/2025/10/10/ARTIseKd9NI1eELG8kYmvxhH251010.shtml)
 
++ [美政府“停摆”将延长至下周 两党互相指责僵局难破](https://news.cctv.com/2025/10/10/ARTIN44Y40WXGI1gDY59LOdk251010.shtml)
+
++ [“全球治理倡议为建立更加公正合理的国际秩序指明方向”——访伊拉克前总理阿卜杜勒-迈赫迪](https://news.cctv.com/2025/10/10/ARTIv89OhiyRGIeUI2QTWqnQ251010.shtml)
+
++ [菲律宾南部海域发生6.8级地震 再次触发海啸预警](https://news.cctv.com/2025/10/10/ARTIui0sBsY6nfFgZcHeBSqA251010.shtml)
+

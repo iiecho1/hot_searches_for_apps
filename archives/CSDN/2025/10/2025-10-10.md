@@ -175,3 +175,19 @@
 
 + [ASP4644芯片在雷达FPGA供电系统中的适配与性能分析](https://blog.csdn.net/ANSILIC/article/details/152809927)
 
++ [Trae Solo+豆包Version1.6+Seedream4.0打造“AI识菜通“](https://blog.csdn.net/IRpickstars/article/details/152893509)
+
++ [Java 大视界 -- Java 大数据在智慧交通自动驾驶仿真与测试数据处理中的应用](https://blog.csdn.net/atgfg/article/details/152844524)
+
++ [七、Docker核心技术：深入理解网络模式 (Bridge, Host, None, Container)](https://blog.csdn.net/2401_83830408/article/details/152799189)
+
++ [网络TCP解析](https://blog.csdn.net/2401_87151064/article/details/152825971)
+
++ [基于FireBeetle 2 ESP32-C5的智能植物光照系统——物联网农业实践](https://blog.csdn.net/weixin_52182640/article/details/152804998)
+
++ [六轴工业机器人可视化模拟平台 (Vue + Three.js + Blender)](https://blog.csdn.net/rf2501918976/article/details/152839485)
+
++ [ASP.NET Core Web API 发布到 IIS 服务器](https://blog.csdn.net/qq_38693757/article/details/152801741)
+
++ [H3C网络设备 实验三： 搭建两个局域网，使两个局域网相互通信（路由器，自动分配ip，DHCP协议）](https://blog.csdn.net/CSTGYinZong/article/details/152815685)
+
