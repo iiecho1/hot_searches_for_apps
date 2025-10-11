@@ -191,3 +191,7 @@
 
 + [【鸿蒙心迹】参加ICT大赛对我的影响和帮助](https://blog.csdn.net/hajai/article/details/152828148)
 
++ [【征文计划】AR健身教练：形随心动 - 基于Rokid CXR-M SDK的实践落地](https://blog.csdn.net/Rqaqedamancy/article/details/152972892)
+
++ [数据驱动的爆款密码：我用Python和10万条小红书笔记数据集，解构了爆款笔记的终极公式](https://blog.csdn.net/2503_93011896/article/details/152799632)
+

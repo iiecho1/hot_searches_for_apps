@@ -191,3 +191,5 @@
 
 + [为全球妇女事业发展贡献中国力量](https://news.cctv.com/2025/10/11/ARTIxT3vLcLSNlsvI7zBp2bp251011.shtml)
 
++ [刚辞职4天又获任命 法国总理为何还是他？](https://news.cctv.com/2025/10/11/ARTICq8W8UK9kveOxql94AhT251011.shtml)
+
