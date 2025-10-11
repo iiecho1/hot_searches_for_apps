@@ -175,3 +175,19 @@
 
 + [哈马斯等巴派别发表声明 拒绝外国监管机构接管加沙](https://news.cctv.com/2025/10/11/ARTIhXRmM4BLJuV2212EpqOx251011.shtml)
 
++ [撞船事故8个月后，美受损航母或再等12个月才能维修](https://news.cctv.com/2025/10/11/ARTIX02HPwEyhTIt3M3lEqoz251011.shtml)
+
++ [朝鲜举行大规模阅兵式 金正恩出席并发表讲话](https://news.cctv.com/2025/10/11/ARTI5ZF6cno6Q1QE9PHiXvuc251011.shtml)
+
++ [澳研究：新生儿足跟血基因测序有助于疾病早发现](https://news.cctv.com/2025/10/11/ARTIN5Pk3yDdaCKFqWmDS80o251011.shtml)
+
++ [俄罗斯亮出“绝杀”，美制F-35或遭遇劲敌](https://news.cctv.com/2025/10/11/ARTIhL4UZVqYmIKvGMnk10bY251011.shtml)
+
++ [朝鲜举行盛大阅兵式](https://photo.cctv.com/2025/10/11/PHOAx4ZWRnaH5cVQQv36Gc1z251011.shtml)
+
++ [热点问答｜法国总理刚辞职为何又获任命](https://news.cctv.com/2025/10/11/ARTIpnvPXXyTJh5n9pTW5SYs251011.shtml)
+
++ [以色列下令关闭半岛电视台约旦河西岸办事处60天](https://news.cctv.com/2025/10/11/ARTIn5a8kwZuZw3UonV3Dp56251011.shtml)
+
++ [为全球妇女事业发展贡献中国力量](https://news.cctv.com/2025/10/11/ARTIxT3vLcLSNlsvI7zBp2bp251011.shtml)
+
