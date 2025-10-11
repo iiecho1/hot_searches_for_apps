@@ -101,3 +101,17 @@
 
 + [SMOTE 算法详解：解决不平衡数据问题的有效工具](https://blog.csdn.net/2401_88885149/article/details/152080859)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在智能电网分布式电源接入与电力系统稳定性维护中的应用](https://blog.csdn.net/atgfg/article/details/152772355)
+
++ [Jenkins Pipeline post指令详解：掌握构建后处理的艺术](https://blog.csdn.net/weixin_44976692/article/details/152942555)
+
++ [【花雕学编程】Arduino BLDC 之多传感器融合的智能导航机器人](https://blog.csdn.net/weixin_41659040/article/details/153046162)
+
++ [【Linux系列】Linux 环境变量详解与实战：让你的命令行如虎添翼](https://blog.csdn.net/2302_80177460/article/details/152446360)
+
++ [【GaussDB】使用MySQL客户端连接到GaussDB的M-Compatibility数据库](https://blog.csdn.net/GaussDB/article/details/152901881)
+
++ [黑马商城微服务项目准备工作并了解什么是微服务、SpringCloud](https://blog.csdn.net/Le1Yu/article/details/152891654)
+
++ [前端框架深度解析：Vue.js 3 从 Composition API 到生态升级，解锁企业级开发新能力](https://blog.csdn.net/2402_87628679/article/details/152952259)
+
