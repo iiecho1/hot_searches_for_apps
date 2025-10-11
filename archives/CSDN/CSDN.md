@@ -209,3 +209,13 @@
 
 + [推荐算法之粗排](https://blog.csdn.net/ChaneMo/article/details/147506008)
 
++ [编程语言的选择策略：从C语言的OOP到AI与GUI开发的全方位对比](https://blog.csdn.net/eidolon_foot/article/details/153044348)
+
++ [计算机视觉：基于 YOLO 的轻量级目标检测与自定义目标跟踪原理与代码框架实现](https://blog.csdn.net/XXQuagmireXX/article/details/152795494)
+
++ [基于springboot的在线商城系统设计与开发](https://blog.csdn.net/qq_35473114/article/details/152815069)
+
++ [介绍终身机器人学习的数据集LIBERO](https://blog.csdn.net/weixin_43935696/article/details/153038945)
+
++ [K8S（二）—— K8S 1.28 集群部署指南（kubeadm 方式）](https://blog.csdn.net/qq_41978931/article/details/152792070)
+

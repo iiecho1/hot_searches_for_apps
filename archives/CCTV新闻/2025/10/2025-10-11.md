@@ -201,3 +201,9 @@
 
 + [阿根廷人士期待全球妇女峰会成为妇女进步事业新的里程碑](https://news.cctv.com/2025/10/11/ARTI6SsSl6iOqltdalsgxMKI251011.shtml)
 
++ [博茨瓦纳人眼中的真实中国是怎样的？](https://news.cctv.com/2025/10/11/ARTIvbXs8t1u6Ng54BfO2lAm251011.shtml)
+
++ [全球妇女峰会·专访｜《北京宣言》和《行动纲领》影响深远持久——访乌拉圭知名社会活动家露西·加里多](https://news.cctv.com/2025/10/11/ARTIVR8iS8lSwYjGnJA3scIo251011.shtml)
+
++ [全球瞭望｜肯尼亚媒体：全球妇女峰会彰显中国在全球推进妇女权利的坚定承诺](https://news.cctv.com/2025/10/11/ARTIozk0n9gEdyJPrdQQH7xz251011.shtml)
+

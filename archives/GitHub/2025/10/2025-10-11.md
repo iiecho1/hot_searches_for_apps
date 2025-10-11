@@ -25,3 +25,13 @@
 
 + [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)
 
++ [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+
++ [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+
++ [timelinize/timelinize](https://github.com/timelinize/timelinize)
+
++ [dataease/SQLBot](https://github.com/dataease/SQLBot)
+
++ [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
