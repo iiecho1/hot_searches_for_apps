@@ -155,3 +155,5 @@
 
 + [手机模块化升级的挑战与未来](https://blog.csdn.net/weixin_42236099/article/details/152712312)
 
++ [多字节串口收发IP设计(三)串口发送模块设计及仿真（含源码）](https://blog.csdn.net/hutx0924/article/details/152807397)
+

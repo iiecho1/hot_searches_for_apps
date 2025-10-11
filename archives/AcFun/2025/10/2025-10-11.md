@@ -67,3 +67,5 @@
 
 + [Miniskirt](https://m.acfun.cn/v/?ac=47901226)
 
++ [【东方】Night of Nights x Encounters【SNES Remix】](https://m.acfun.cn/v/?ac=47898229)
+

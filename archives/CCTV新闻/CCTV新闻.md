@@ -161,3 +161,11 @@
 
 + [美国休斯敦地区发生系列枪击案 4人死亡](https://news.cctv.com/2025/10/09/ARTIKfY68bHvZL2tv5xL8FCI251009.shtml)
 
++ [西班牙财政大臣：西班牙已遵守北约要求的国防开支](https://news.cctv.com/2025/10/11/ARTIiwrsmhLYoJUOZV3LqVEs251011.shtml)
+
++ [万国邮联：寄往美国的国际邮政包裹量持续大幅下降](https://news.cctv.com/2025/10/11/ARTIdrGjzL0XFPVxxIbYfmEh251011.shtml)
+
++ [停火协议生效以来 约20万人返回加沙北部地区](https://news.cctv.com/2025/10/11/ARTInFVXFj5nKzV9ViQYlcVq251011.shtml)
+
++ [美国田纳西州一军用炸药厂爆炸 19人失踪恐遇难](https://news.cctv.com/2025/10/11/ARTI0tHYVffaNFTcivYxI7CG251011.shtml)
+
