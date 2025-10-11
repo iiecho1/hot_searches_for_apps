@@ -157,3 +157,17 @@
 
 + [多字节串口收发IP设计(三)串口发送模块设计及仿真（含源码）](https://blog.csdn.net/hutx0924/article/details/152807397)
 
++ [【AI大模型前沿】VoxCPM：OpenBMB 推出的无分词器 TTS 模型](https://blog.csdn.net/xiaobing259/article/details/152715360)
+
++ [如何对标国际，指导具身智能标准体系构建？](https://blog.csdn.net/weixin_43178406/article/details/152933140)
+
++ [基于多普勒频率和距离变化率联合测量的增强型速度估计方法——论文阅读](https://blog.csdn.net/qq_44648285/article/details/152956385)
+
++ [.NET驾驭Word之力：基于规则自动生成及排版Word文档](https://blog.csdn.net/xlqdml/article/details/152792597)
+
++ [RSA加密从原理到实践：Java后端与Vue前端全栈案例解析](https://blog.csdn.net/beautifulmemory/article/details/152927132)
+
++ [基于Spring Boot + Vue 3的乡村振兴综合服务平台](https://blog.csdn.net/2401_86651646/article/details/152959851)
+
++ [如何将Vue 项目转换为 Android App（使用Capacitor）](https://blog.csdn.net/fouryears_23417/article/details/152970395)
+

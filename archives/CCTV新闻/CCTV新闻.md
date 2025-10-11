@@ -169,3 +169,7 @@
 
 + [美国田纳西州一军用炸药厂爆炸 19人失踪恐遇难](https://news.cctv.com/2025/10/11/ARTI0tHYVffaNFTcivYxI7CG251011.shtml)
 
++ [北美观察丨试飞倒计时 政府关门持续 马斯克能否如期完成星舰“毕业考”？](https://news.cctv.com/2025/10/11/ARTIATFlVdYxZ2vXAo4jdncz251011.shtml)
+
++ [菲律宾发布强震报告：已致7人死亡近万人受灾 记录800余次余震](https://news.cctv.com/2025/10/11/ARTIJZ3S6ALGWhH8pCs06IFR251011.shtml)
+
