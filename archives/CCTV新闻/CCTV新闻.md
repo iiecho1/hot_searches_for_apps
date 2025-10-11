@@ -173,3 +173,5 @@
 
 + [菲律宾发布强震报告：已致7人死亡近万人受灾 记录800余次余震](https://news.cctv.com/2025/10/11/ARTIJZ3S6ALGWhH8pCs06IFR251011.shtml)
 
++ [哈马斯等巴派别发表声明 拒绝外国监管机构接管加沙](https://news.cctv.com/2025/10/11/ARTIhXRmM4BLJuV2212EpqOx251011.shtml)
+

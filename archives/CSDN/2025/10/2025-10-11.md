@@ -171,3 +171,11 @@
 
 + [如何将Vue 项目转换为 Android App（使用Capacitor）](https://blog.csdn.net/fouryears_23417/article/details/152970395)
 
++ [Flink 有状态编程从 Keyed State 到 TTL 与 Operator State 全面掌握](https://blog.csdn.net/weixin_43114209/article/details/152651931)
+
++ [基于阿里云调用Deepseek：企业级AI应用开发实战指南](https://blog.csdn.net/Liudef06/article/details/152802612)
+
++ [微信小程序加载PDF方案与加载慢问题优化](https://blog.csdn.net/csdn_silent/article/details/152889775)
+
++ [iBizModel 全文检索体系（PSSYSSEARCHSCHEME）模型详解](https://blog.csdn.net/weixin_49504018/article/details/152819914)
+
