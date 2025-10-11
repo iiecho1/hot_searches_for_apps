@@ -193,3 +193,11 @@
 
 + [刚辞职4天又获任命 法国总理为何还是他？](https://news.cctv.com/2025/10/11/ARTICq8W8UK9kveOxql94AhT251011.shtml)
 
++ [深度解读丨美国政府“关门”难解 为何这次不同寻常](https://news.cctv.com/2025/10/11/ARTImgLXorspy9DH3J0hbqZ8251011.shtml)
+
++ [心相近丨赋能“她力量”，中国在行动](https://news.cctv.com/2025/10/11/ARTISKA2xlXiN9wOu2tDBjCM251011.shtml)
+
++ [为何中国学研究离不开跨文化对话？](https://news.cctv.com/2025/10/11/ARTILSob2xKKMXVeeSwGodoI251011.shtml)
+
++ [阿根廷人士期待全球妇女峰会成为妇女进步事业新的里程碑](https://news.cctv.com/2025/10/11/ARTI6SsSl6iOqltdalsgxMKI251011.shtml)
+

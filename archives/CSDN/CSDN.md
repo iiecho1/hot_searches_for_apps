@@ -195,3 +195,17 @@
 
 + [数据驱动的爆款密码：我用Python和10万条小红书笔记数据集，解构了爆款笔记的终极公式](https://blog.csdn.net/2503_93011896/article/details/152799632)
 
++ [Java 大视界 -- 基于 Java 的大数据可视化在城市水资源管理与节水策略制定中的应用（422）](https://blog.csdn.net/atgfg/article/details/152923530)
+
++ [c# 使用yolov5模型](https://blog.csdn.net/2302_76790436/article/details/152890203)
+
++ [【花雕学编程】Arduino BLDC 之教育机器人多轴轨迹演示](https://blog.csdn.net/weixin_41659040/article/details/153008080)
+
++ [网站开发中的前端与后端技术解析](https://blog.csdn.net/sTaylor/article/details/152730603)
+
++ [解构自我：能力的三维、天性与养成，选择怎样的生活](https://blog.csdn.net/qq_42257666/article/details/152843271)
+
++ [vue啊哈哈哈哈哈哈哈哈](https://blog.csdn.net/qing_fengcss/article/details/152841954)
+
++ [推荐算法之粗排](https://blog.csdn.net/ChaneMo/article/details/147506008)
+
