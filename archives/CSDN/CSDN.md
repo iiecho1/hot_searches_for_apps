@@ -101,3 +101,15 @@
 
 + [微服务——SpringBoot使用归纳——Spring Boot中使用拦截器——拦截器的快速使用](https://blog.csdn.net/wangshifan116/article/details/152926980)
 
++ [面向大数据架构的演进：为何 Apache IoTDB 是与生态无缝融合的理想之选？](https://blog.csdn.net/2302_78391795/article/details/152928710)
+
++ [计算机视觉（opencv）——基于 OpenCV DNN 的实时人脸检测 + 年龄与性别识别](https://blog.csdn.net/2302_78022640/article/details/152952336)
+
++ [【2025最新】【win10】vs2026+qt6.9+opencv（cmake编译opencv_contrib拓展模块）](https://blog.csdn.net/ZJQSDSA/article/details/152922000)
+
++ [虚竹哥与北京大学出版社免费送AI书活动第二期](https://blog.csdn.net/shi_hong_fei_hei/article/details/152857413)
+
++ [MongoDB源码delete分析oplog：从删除链路到核心函数实现](https://blog.csdn.net/calmkey/article/details/149114025)
+
++ [个人项目开发（1）：使用Spring Secruity实现用户登录](https://blog.csdn.net/2303_78315474/article/details/153074983)
+
