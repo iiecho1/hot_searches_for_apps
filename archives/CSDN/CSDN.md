@@ -113,3 +113,23 @@
 
 + [个人项目开发（1）：使用Spring Secruity实现用户登录](https://blog.csdn.net/2303_78315474/article/details/153074983)
 
++ [Java 大视界 -- Java 大数据机器学习模型的对抗攻击与防御技术研究](https://blog.csdn.net/atgfg/article/details/152896726)
+
++ [【Linux】数据链路层 and 其他知识](https://blog.csdn.net/tan_run/article/details/151611551)
+
++ [什么是AIGC？AI&AIGC&AGI什么区别？](https://blog.csdn.net/qq_44866828/article/details/153143400)
+
++ [python——人脸关键点检测](https://blog.csdn.net/qq1851417332/article/details/152956532)
+
++ [设计模式六大原则 — 列举反例详解各个原则的核心思想和意义](https://blog.csdn.net/csdn_silent/article/details/152838562)
+
++ [基于Rokid CXR-M SDK实现智能眼镜实时翻译应用：从零到一的完整实践](https://blog.csdn.net/Mrxiao_bo/article/details/153134356)
+
++ [Flutter中的动效实现方式](https://blog.csdn.net/weixin_41559503/article/details/153049069)
+
++ [【完整源码+数据集+部署教程】 航拍杂草检测与分类系统源码和数据集：改进yolo11-RVB-EMA](https://blog.csdn.net/weixin_43860634/article/details/153119246)
+
++ [TCP/IP 协议族—理论与实践（一）](https://blog.csdn.net/2501_93209230/article/details/153069992)
+
++ [灵活可控的侧边栏](https://blog.csdn.net/2301_81026736/article/details/153143182)
+
