@@ -173,3 +173,17 @@
 
 + [TensorFlow深度学习实战——图分类](https://blog.csdn.net/LOVEmy134611/article/details/144689458)
 
++ [【AI编程】腾讯AI编程神器 CodeBuddy从使用到项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/152176019)
+
++ [大数据Spark（六十八）：Transformation转换算子所有Join操作和union](https://blog.csdn.net/xiaoweite1/article/details/153121525)
+
++ [SaaS 安全架构](https://blog.csdn.net/u014674420/article/details/153033390)
+
++ [2025 项目管理工具横评榜单发布：10 款主流系统深度解析，附选型避坑指南](https://blog.csdn.net/RebeccaGuan0808/article/details/152898105)
+
++ [线性代数 · 矩阵 | SVD 与 PCA 应用区别](https://blog.csdn.net/u013669912/article/details/152095805)
+
++ [前端框架深度解析：Angular 从架构到实战，掌握企业级开发标准](https://blog.csdn.net/2402_87628679/article/details/152952184)
+
++ [从数据库直连到缓存预热：城市列表查询的性能优化全流程](https://blog.csdn.net/2301_81073317/article/details/153076174)
+

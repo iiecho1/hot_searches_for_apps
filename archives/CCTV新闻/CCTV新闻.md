@@ -211,3 +211,17 @@
 
 + [消息人士称哈马斯不会参与战后加沙治理](https://news.cctv.com/2025/10/12/ARTIHl6gRlWBEkd2O3a4WXug251012.shtml)
 
++ [以方称以军已撤离至“黄线” 以被扣押人员预计于13日凌晨获释](https://news.cctv.com/2025/10/12/ARTIQdJ0KgJ4RI1fcChMc48j251012.shtml)
+
++ [泽连斯基同特朗普通电话 继续讨论加强乌防空系统](https://news.cctv.com/2025/10/12/ARTIXPyVHIWyWYFqyRsjLf9Y251012.shtml)
+
++ [以色列代表将不会出席在埃及举行的和平峰会](https://news.cctv.com/2025/10/12/ARTI09j5E2BkxITqzsAoRmyC251012.shtml)
+
++ [大阪世博会中国馆获本届世博会大型自建馆展示类金奖](https://news.cctv.com/2025/10/12/ARTI8aGEIn0s54zVHb1GDYG2251012.shtml)
+
++ [巴基斯坦与阿富汗在边境地区交火](https://news.cctv.com/2025/10/12/ARTIKYzXT7CTWXMTzuPa0wBH251012.shtml)
+
++ [全球妇女峰会·专访｜“我对中国女性取得的成就深表钦佩”——访秘鲁前国会主席玛尔塔·查韦斯](https://news.cctv.com/2025/10/12/ARTIUYpjmiftVlVEhHvnpelI251012.shtml)
+
++ [喀麦隆举行总统选举](https://news.cctv.com/2025/10/12/ARTIa0Tjnv8wnVGlcPe63wqe251012.shtml)
+
