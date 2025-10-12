@@ -133,3 +133,7 @@
 
 + [灵活可控的侧边栏](https://blog.csdn.net/2301_81026736/article/details/153143182)
 
++ [【Linux系列】Linux 环境变量详解与实战：让你的命令行如虎添翼](https://blog.csdn.net/2302_80177460/article/details/152446360)
+
++ [python脚本加密之pyarmor](https://blog.csdn.net/perfect2011/article/details/152934520)
+
