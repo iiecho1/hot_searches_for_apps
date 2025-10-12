@@ -193,3 +193,7 @@
 
 + [6死多伤 美国密西西比州一夜发生两起校园枪击案](https://news.cctv.com/2025/10/12/ARTIh1Pqw9nD58X7vpSLDArj251012.shtml)
 
++ [拜登接受癌症放射治疗](https://news.cctv.com/2025/10/12/ARTIA74Mlw3BQ0FQCHvs7dpZ251012.shtml)
+
++ [俄称打击乌能源设施 乌称袭击俄炼油厂](https://news.cctv.com/2025/10/12/ARTIqW2nlx30Th0b7nWxe3EA251012.shtml)
+
