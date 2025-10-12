@@ -25,3 +25,27 @@
 
 + [vivo OriginOS 6 升级全新“动态透彩”材质，主打系统界面“通透感”](https://m.ithome.com/html/888414.htm)
 
++ [消息称苹果 iPhone 17 / Pro / Max 销售 16 天累计激活 269.5 万台，小米 17 全系首销 9 天激活 107.6 万台](https://m.ithome.com/html/888685.htm)
+
++ [中国联通 eSIM 预约正式开启：预约人数已突破 3.9 万人、支持 App / 自有营业厅办理](https://m.ithome.com/html/888603.htm)
+
++ [消息称小米 17 全系手机累计激活 107.6 万台，Pro 机型“杀进单品 Top 3”](https://m.ithome.com/html/888596.htm)
+
++ [比亚迪 2026 款海豹 05 DM-i 上市，128km 豪华型 7.98 万元](https://m.ithome.com/html/888641.htm)
+
++ [小米员工赛道圈速排名雷军位列第 15 名，不敌金凡、许斐、李肖爽等](https://m.ithome.com/html/888756.htm)
+
++ [享专属播报 / 加速通道：苹果 iOS 版“地震预警”App 新增 SVIP 会员订阅](https://m.ithome.com/html/888649.htm)
+
++ [网易云音乐回应有人意外登上李玟账号：运营商二次放号所致](https://m.ithome.com/html/888760.htm)
+
++ [消息称苹果最快下周一启动“3 天新品狂欢”：M5 MacBook Pro / iPad Pro / Vision Pro 领衔](https://m.ithome.com/html/888590.htm)
+
++ [苹果 2025~2026 年 Mac 路线图曝光：M5 芯片年底首秀，M6 蓄势待发](https://m.ithome.com/html/888584.htm)
+
++ [26.98 万元起焕新极氪 001 猎装车上市：标配 900V 架构、全球首创浩瀚星空顶](https://m.ithome.com/html/888763.htm)
+
++ [今起中国东方航空所有宽体机“空中快线”国内航班提供经济舱全舱位免费 Wi-Fi](https://m.ithome.com/html/888662.htm)
+
++ [vivo 产品副总裁黄韬亲自爆料新机 X300：完全按 Pro 级性能和体验设计](https://m.ithome.com/html/888626.htm)
+

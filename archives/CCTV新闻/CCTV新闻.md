@@ -161,3 +161,35 @@
 
 + [哈马斯称将讨论停火协议和未来规划相关细节](https://news.cctv.com/2025/10/10/ARTIr2Zu5aZKC9FWpg4q1rta251010.shtml)
 
++ [荷兰自由党领导人称因恐袭威胁暂停竞选活动](https://news.cctv.com/2025/10/12/ARTIqrZasWXaVPbKEngbLlvf251012.shtml)
+
++ [美国警方：田纳西州军用炸药厂爆炸事件致16人死亡](https://news.cctv.com/2025/10/12/ARTItn9EZOwYronI76N7BTOo251012.shtml)
+
++ [“停摆”11日，特朗普要求确保发军饷](https://news.cctv.com/2025/10/12/ARTIJFg9NaeWaPO81DHhq6nw251012.shtml)
+
++ [美国卫生与公共服务部超千人被解雇](https://news.cctv.com/2025/10/12/ARTIrPpAQnhQItG0xUcnEYCH251012.shtml)
+
++ [美法院驳回特朗普政府在芝加哥地区部署国民警卫队请求](https://news.cctv.com/2025/10/12/ARTIMw6NcbXsw8evDEEepXIX251012.shtml)
+
++ [帕特里克·赫米尼耶当选塞舌尔第六任总统](https://news.cctv.com/2025/10/12/ARTIcd3rzyswIox7cGJyfci8251012.shtml)
+
++ [加沙停火进入第二天 巴以准备互释对方人员 多方发声筹划维稳](https://news.cctv.com/2025/10/12/ARTI8KdP9bzUkb1dVdvwTHzh251012.shtml)
+
++ [伊朗军官：是否封锁霍尔木兹海峡取决于外部对伊施压程度](https://news.cctv.com/2025/10/12/ARTI0WLZVtukjtd0J2na9z3Q251012.shtml)
+
++ [伊朗外长：俄方已转达以色列“无意再战”信息](https://news.cctv.com/2025/10/12/ARTILe76xPwp2zXsbZVduPho251012.shtml)
+
++ [参加加沙停火谈判的卡塔尔代表团遭遇车祸 已致3死3伤](https://news.cctv.com/2025/10/12/ARTIPcmzKyplukduw9oIGqB5251012.shtml)
+
++ [黎巴嫩总统谴责以色列袭击黎南部地区](https://photo.cctv.com/2025/10/12/PHOAPo5BccmCN0uFO9tDLpNU251012.shtml)
+
++ [看好中国效率 国际巨头20年增资10次](https://news.cctv.com/2025/10/12/ARTI5kx8hQmuTKTMT4zQHi3T251012.shtml)
+
++ [美国田纳西州军用炸药厂爆炸事件尚未发现幸存者](https://news.cctv.com/2025/10/12/ARTIhhUSk520gbLr6iZuqKLN251012.shtml)
+
++ [委内瑞拉东部三州启动“独立200”演练](https://news.cctv.com/2025/10/12/ARTIKGQd2jgoGdntCROBYPWV251012.shtml)
+
++ [哈马斯高级官员称将于13日开始释放以方被扣押人员](https://news.cctv.com/2025/10/12/ARTI40XaGKYVOt3y0wm9ONut251012.shtml)
+
++ [6死多伤 美国密西西比州一夜发生两起校园枪击案](https://news.cctv.com/2025/10/12/ARTIh1Pqw9nD58X7vpSLDArj251012.shtml)
+
