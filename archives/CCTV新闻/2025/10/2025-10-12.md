@@ -209,3 +209,5 @@
 
 + [以防长：已指示以军准备摧毁哈马斯在加沙的所有隧道](https://news.cctv.com/2025/10/12/ARTI8nciLYRMww6tlWZKh4g6251012.shtml)
 
++ [消息人士称哈马斯不会参与战后加沙治理](https://news.cctv.com/2025/10/12/ARTIHl6gRlWBEkd2O3a4WXug251012.shtml)
+
