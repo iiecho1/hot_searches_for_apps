@@ -197,3 +197,15 @@
 
 + [俄称打击乌能源设施 乌称袭击俄炼油厂](https://news.cctv.com/2025/10/12/ARTIqW2nlx30Th0b7nWxe3EA251012.shtml)
 
++ [全球妇女峰会·高端访谈｜中国是推动妇女事业发展的全球领导者——专访斯里兰卡总理阿马拉苏里亚](https://news.cctv.com/2025/10/12/ARTIoIUWwh9pme5BkIaIcPxD251012.shtml)
+
++ [高端访谈｜全球妇女峰会将是“塑造未来的战略性机遇”——访金砖国家新开发银行行长罗塞芙](https://news.cctv.com/2025/10/12/ARTIhqFR52vWkmgkghkJ08en251012.shtml)
+
++ [哈马斯就卡塔尔代表团车祸事故发表声明](https://news.cctv.com/2025/10/12/ARTIgAriuOD1ZEHysv2rJ8zC251012.shtml)
+
++ [澳航承认570万客户隐私数据遭泄露](https://news.cctv.com/2025/10/12/ARTIh26Bm4rhIAWhBieNBRcG251012.shtml)
+
++ [澳航系统被“黑” 数百万客户数据遭泄露](https://news.cctv.com/2025/10/12/ARTIFRgtJMNcEzgdKnFIQ1a1251012.shtml)
+
++ [以防长：已指示以军准备摧毁哈马斯在加沙的所有隧道](https://news.cctv.com/2025/10/12/ARTI8nciLYRMww6tlWZKh4g6251012.shtml)
+
