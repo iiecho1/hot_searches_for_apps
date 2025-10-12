@@ -161,3 +161,9 @@
 
 + [外媒：数字中国建设成就令人印象深刻](https://news.cctv.com/2025/10/10/ARTIkTSuU23napm5m73mvkYO251010.shtml)
 
++ [苏丹军方称击毙100余名快速支援部队成员](https://news.cctv.com/2025/10/13/ARTIFlXhoRs9Co2DTXXwf9rJ251013.shtml)
+
++ [“殖民手段的重演” 委内瑞拉再批美在加勒比地区军事部署](https://news.cctv.com/2025/10/13/ARTIADIJSIJYElDtHebkDixq251013.shtml)
+
++ [菲律宾发生5.7级地震](https://news.cctv.com/2025/10/13/ARTIiwnsSNrqWWRtIHywy70I251013.shtml)
+
