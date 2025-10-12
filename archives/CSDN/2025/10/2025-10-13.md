@@ -145,3 +145,5 @@
 
 + [三种深度学习模型（BiLSTM、CNN-BiLSTM、贝叶斯优化的CNN-BiLSTM/BO-CNN-BiLSTM）对北半球光伏数据进行时间序列预测](https://blog.csdn.net/m0_60703264/article/details/153132416)
 
++ [10-支持向量机（SVM）：讲解基于最大间隔原则的分类算法](https://blog.csdn.net/rengang66/article/details/152883200)
+
