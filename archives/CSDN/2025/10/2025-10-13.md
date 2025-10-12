@@ -137,3 +137,9 @@
 
 + [python脚本加密之pyarmor](https://blog.csdn.net/perfect2011/article/details/152934520)
 
++ [AI学习日记——卷积神经网络（CNN）：完整实现与可视化分析](https://blog.csdn.net/2301_76925430/article/details/153078794)
+
++ [2025年Web3技术白皮书：Layer3、RWA与量子安全的十大发展预测](https://blog.csdn.net/m0_38141444/article/details/152775914)
+
++ [领码课堂 | BFF 系列（5）：BFF vs GraphQL vs API Gateway，架构抉择指南](https://blog.csdn.net/lgf228/article/details/152722660)
+

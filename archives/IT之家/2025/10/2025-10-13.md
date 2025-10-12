@@ -25,3 +25,27 @@
 
 + [vivo 产品副总裁黄韬亲自爆料新机 X300：完全按 Pro 级性能和体验设计](https://m.ithome.com/html/888626.htm)
 
++ [雷军亲赴新疆测试？小米第三款车 YU9 多张实车谍照曝光](https://m.ithome.com/html/888822.htm)
+
++ [“商务部公告附件首次改为 wps 格式”登上热搜，此前多为 doc 或 pdf](https://m.ithome.com/html/888863.htm)
+
++ [《黑神话：悟空》即将迎来更新，PS5 平台补丁高达 93.5GB](https://m.ithome.com/html/888816.htm)
+
++ [美团回应“外卖骑手能屏蔽顾客”：设置后 365 天内不会接到相应用户订单、后续将进一步推广](https://m.ithome.com/html/888804.htm)
+
++ [2025 国庆中秋假期间一轿车高速上定速巡航失灵“狂飙 2 小时”，湖北湖南交警合力引导化解危机](https://m.ithome.com/html/888814.htm)
+
++ [荣耀 Magic8 Pro 手机配置曝光：1.5K 四曲屏 + 7200mAh 电池 + 200MP 潜望镜头](https://m.ithome.com/html/888827.htm)
+
++ [实测 100W PPS 充电协议非小米 17 系列独有，老机型仅需 Root 执行两行代码即可解锁](https://m.ithome.com/html/888853.htm)
+
++ [苹果 2025 款 M5 iPad Pro 现身 AT&amp;T 官网，即将开启预购](https://m.ithome.com/html/888871.htm)
+
++ [OPPO Find X9 / Pro 手机参数汇总：天玑 9500 芯片，10 月 16 日发布](https://m.ithome.com/html/888864.htm)
+
++ [央视揭秘网络直播间 AI 生成“李鬼”产品：一张照片就能生成一段带货视频，消费者难辨真伪](https://m.ithome.com/html/888837.htm)
+
++ [OPPO 官宣 Find X9 系列搭载超 7000mAh 电池，五年健康程度 80% 以上](https://m.ithome.com/html/888859.htm)
+
++ [vivo X300 / Pro 手机核心参数汇总：首发天玑 9500 芯片，明日发布](https://m.ithome.com/html/888846.htm)
+
