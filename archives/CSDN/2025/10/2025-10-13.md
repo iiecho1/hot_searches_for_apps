@@ -143,3 +143,5 @@
 
 + [领码课堂 | BFF 系列（5）：BFF vs GraphQL vs API Gateway，架构抉择指南](https://blog.csdn.net/lgf228/article/details/152722660)
 
++ [三种深度学习模型（BiLSTM、CNN-BiLSTM、贝叶斯优化的CNN-BiLSTM/BO-CNN-BiLSTM）对北半球光伏数据进行时间序列预测](https://blog.csdn.net/m0_60703264/article/details/153132416)
+
