@@ -217,3 +217,7 @@
 
 + [介绍终身机器人学习的数据集LIBERO](https://blog.csdn.net/weixin_43935696/article/details/153038945)
 
++ [FFmpeg开发笔记（十三）：ffmpeg采集麦克风音频pcm重采样为aac录音为AAC文件](https://blog.csdn.net/qq21497936/article/details/153191535)
+
++ [基于 WebSocket 协议的实时弹幕通信机制分析-抖音](https://blog.csdn.net/2401_87946050/article/details/153136422)
+
