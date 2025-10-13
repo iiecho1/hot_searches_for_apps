@@ -211,3 +211,7 @@
 
 + [以色列开始释放巴勒斯坦被扣押人员](https://news.cctv.com/2025/10/13/ARTIE5b4JcYXdzpeevhsqOW6251013.shtml)
 
++ [马克龙回应辞职要求：将继续履行总统职责，以确保国家稳定](https://news.cctv.com/2025/10/13/ARTIQISKHPgohssww0XPcXV3251013.shtml)
+
++ [南非长途客车坠崖 致至少40人遇难](https://news.cctv.com/2025/10/13/ARTINDO9KrXKa7P6qJlzNl1F251013.shtml)
+

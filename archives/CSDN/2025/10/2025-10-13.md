@@ -203,3 +203,5 @@
 
 + [Simple MCP Client - 连接到 Elasticsearch MCP 并进行自然语言搜索](https://blog.csdn.net/UbuntuTouch/article/details/153110379)
 
++ [爬虫+卷积神经网络项目实战解析——对图像狗的识别分类](https://blog.csdn.net/h860818/article/details/153137612)
+
