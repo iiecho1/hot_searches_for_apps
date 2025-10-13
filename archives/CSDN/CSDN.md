@@ -109,3 +109,23 @@
 
 + [DVWA靶场之十八：API 安全（API Security）](https://blog.csdn.net/YoungLime/article/details/153040823)
 
++ [还在机房熬夜？ProxmoxVE+cpolar让我实现躺平式运维](https://blog.csdn.net/liu_chen_yang/article/details/153197027)
+
++ [【Linux】应用层自定义协议与序列化](https://blog.csdn.net/2401_86449430/article/details/152799467)
+
++ [LabVIEW激光点图像处理](https://blog.csdn.net/bjcyck/article/details/153177643)
+
++ [【MySQL】用户管理](https://blog.csdn.net/qinjh_/article/details/149469086)
+
++ [Simple MCP Client - 连接到 Elasticsearch MCP 并进行自然语言搜索](https://blog.csdn.net/UbuntuTouch/article/details/153110379)
+
++ [WebSocket —— 在线聊天室](https://blog.csdn.net/wuxuanok/article/details/153045933)
+
++ [5Gvs4G，不仅仅是速度的比拼。](https://blog.csdn.net/2501_93732003/article/details/153054411)
+
++ [第五十五章 ESP32S3 基于MQTT协议连接OneNet物联网开放平台](https://blog.csdn.net/weixin_44226552/article/details/152851140)
+
++ [Koa.js 完全指南：下一代 Node.js Web 框架](https://blog.csdn.net/qf2005100102/article/details/153043115)
+
++ [微信小程序学习（五）](https://blog.csdn.net/m0_64047101/article/details/152922410)
+

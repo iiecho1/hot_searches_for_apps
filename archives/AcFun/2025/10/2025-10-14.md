@@ -65,3 +65,7 @@
 
 + [最近在玩拓麻歌子](https://m.acfun.cn/v/?ac=47911230)
 
++ [Sistar So Cool](https://m.acfun.cn/v/?ac=47909815)
+
++ [Sistar Touch my Body 路演](https://m.acfun.cn/v/?ac=47909901)
+
