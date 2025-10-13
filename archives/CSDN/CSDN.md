@@ -161,3 +161,19 @@
 
 + [深度学习之YOLO系列了解基本知识](https://blog.csdn.net/m0_74977182/article/details/152948636)
 
++ [历劫波，明真我——Debug Commune](https://blog.csdn.net/qq_61654952/article/details/153176996)
+
++ [【超音速专利 CN119863376A】一种基于自适应权重多图像融合算法的图像处理方法](https://blog.csdn.net/he_zhidan/article/details/153122991)
+
++ [【愚公系列】《人工智能70年》076-自动驾驶的梦想与现实（自动驾驶芯片战场）](https://blog.csdn.net/aa2528877987/article/details/152372922)
+
++ [Spark大数据分析与实战笔记（第六章 Kafka分布式发布订阅消息系统-01）](https://blog.csdn.net/u014727709/article/details/144043043)
+
++ [【深入理解计算机网络09】路由算法与路由协议](https://blog.csdn.net/Muyu1uz/article/details/153125202)
+
++ [大麦网抢票：基于Wireshark协议分析](https://blog.csdn.net/q2642346535/article/details/153076465)
+
++ [GitHub 热榜项目 - 日榜(2025-10-11)](https://blog.csdn.net/u014390502/article/details/153018413)
+
++ [1.2、网络安全攻防实验室搭建指南：VMware + Kali Linux + Win10 全流程](https://blog.csdn.net/gavinxiong/article/details/153054433)
+

@@ -169,3 +169,27 @@
 
 + [加沙：返乡](https://photo.cctv.com/2025/10/13/PHOAYrcw3AekJx9vWkh6Fg6h251013.shtml)
 
++ [20名以色列被扣押人员将于今日分两批获释](https://news.cctv.com/2025/10/13/ARTIOUwqAUr08R2GJ1nzrBEy251013.shtml)
+
++ [法国总理勒科尔尼二次组阁主要成员揭晓](https://news.cctv.com/2025/10/13/ARTI0UvPCS4iSsLRxYQCZioA251013.shtml)
+
++ [特朗普称“战争已经结束” 以色列准备接收被扣押人员](https://news.cctv.com/2025/10/13/ARTIWS8pTOz3ivlCrHo1fYXR251013.shtml)
+
++ [全球街采｜这场重要峰会前，我们和世界聊了聊“她”](https://news.cctv.com/2025/10/13/ARTIoLJEYvHxQ8I6g8q7bdby251013.shtml)
+
++ [伊朗外交部发言人强烈谴责以军袭击黎巴嫩](https://news.cctv.com/2025/10/13/ARTIw2kT3njDJrH8wZrcZ1Wg251013.shtml)
+
++ [中国经验为全球南方妇女事业发展带来启示](https://news.cctv.com/2025/10/13/ARTInputt8ujViWCHcQY5hot251013.shtml)
+
++ [进一步凸显加强团结、共担责任的重要性](https://news.cctv.com/2025/10/13/ARTIECdavLQza5rXHzdVA0Og251013.shtml)
+
++ [哈以人员交换突生波折 加沙“和平峰会”今日“卡点”举行](https://news.cctv.com/2025/10/13/ARTIcT0ecovAscJM5eEH0Kmi251013.shtml)
+
++ [共同谱写全球妇女事业发展新篇章](https://news.cctv.com/2025/10/13/ARTIQzrGNDLpggFYKmW3p4Zj251013.shtml)
+
++ [特朗普：若俄乌冲突无法解决 可能会供乌“战斧”](https://news.cctv.com/2025/10/13/ARTIk6QtfbemhDrfGqOzr9Js251013.shtml)
+
++ [肯尼亚：探访世界仅存的两头北方白犀牛](https://photo.cctv.com/2025/10/13/PHOAfst1eiNLO08UVSJcsgpU251013.shtml)
+
++ [从北京到北京——中国携手联合国续写世界妇女事业新篇](https://news.cctv.com/2025/10/13/ARTI85jCUjU8CPYSxZlsHqpy251013.shtml)
+
