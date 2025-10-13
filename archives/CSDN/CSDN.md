@@ -147,3 +147,13 @@
 
 + [10-支持向量机（SVM）：讲解基于最大间隔原则的分类算法](https://blog.csdn.net/rengang66/article/details/152883200)
 
++ [Java 大视界 -- Java 大数据在智能医疗临床路径优化与医疗资源合理利用中的应用（424）](https://blog.csdn.net/atgfg/article/details/153136573)
+
++ [生成对抗网络（Generative Adversarial Network，GAN）](https://blog.csdn.net/LOVEmy134611/article/details/152899137)
+
++ [用一颗MCU跑通7B大模型：RISC-V+SRAM极致量化实战](https://blog.csdn.net/qq_74383080/article/details/152916634)
+
++ [crawl4ai智能爬虫(一)：playwright爬虫框架详解](https://blog.csdn.net/qq_40036519/article/details/153135397)
+
++ [手写MyBatis第102弹：MapperBuilder与MapperAnnotationBuilder的双重解析机制深度剖析](https://blog.csdn.net/weixin_67874152/article/details/153079842)
+
