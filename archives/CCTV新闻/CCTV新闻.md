@@ -193,3 +193,5 @@
 
 + [从北京到北京——中国携手联合国续写世界妇女事业新篇](https://news.cctv.com/2025/10/13/ARTI85jCUjU8CPYSxZlsHqpy251013.shtml)
 
++ [全球媒体聚焦 | 特朗普中东“一日行”能重塑中东格局吗？](https://news.cctv.com/2025/10/13/ARTI3o6B8z7kFCTLBLCEwIts251013.shtml)
+
