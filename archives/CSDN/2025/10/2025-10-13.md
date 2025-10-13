@@ -183,3 +183,7 @@
 
 + [Arbess CICD实战(10) - 使用Arbess+GitLab实现PHP项目自动化部署](https://blog.csdn.net/zhangzh0910/article/details/153133509)
 
++ [深度强化学习 | 基于SAC算法的动态避障(ROS C++仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/153143534)
+
++ [GitHub 热榜项目 - 日榜(2025-10-13)](https://blog.csdn.net/u014390502/article/details/153179352)
+
