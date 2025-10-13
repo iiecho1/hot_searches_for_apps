@@ -211,3 +211,9 @@
 
 + [【完整源码+数据集+部署教程】饮料品牌瓶盖识别系统源码和数据集：改进yolo11-RVB-EMA](https://blog.csdn.net/weixin_43860634/article/details/153184115)
 
++ [OpenCV(八)：NumPy](https://blog.csdn.net/www_dong/article/details/153137647)
+
++ [数据分析：Python懂车帝汽车数据分析可视化系统 爬虫（Django+Vue+销量分析 源码+文档）✅](https://blog.csdn.net/q_3456621138/article/details/153113386)
+
++ [介绍终身机器人学习的数据集LIBERO](https://blog.csdn.net/weixin_43935696/article/details/153038945)
+

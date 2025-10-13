@@ -217,3 +217,5 @@
 
 + [扎波罗热核电站失去外部供电近三周 俄乌各有说法](https://news.cctv.com/2025/10/13/ARTIxbosXOPpQwImVaCTewtJ251013.shtml)
 
++ [2025年诺贝尔经济学奖揭晓](https://jingji.cctv.com/2025/10/13/ARTIrU3HMKzxhPn2q4h7Rj4T251013.shtml)
+
