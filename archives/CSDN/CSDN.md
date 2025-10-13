@@ -133,3 +133,5 @@
 
 + [6. 从0到上线：.NET 8 + ML.NET LTR 智能类目匹配实战--渐进式学习闭环：从反馈到再训练](https://blog.csdn.net/gangzhucoll/article/details/153139068)
 
++ [免费远程新标杆：UU远程对比ToDesk、向日葵，个人体验更优](https://blog.csdn.net/Rqaqedamancy/article/details/153116793)
+
