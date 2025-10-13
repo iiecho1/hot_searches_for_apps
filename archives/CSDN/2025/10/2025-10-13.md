@@ -197,3 +197,9 @@
 
 + [汽车角雷达波形设计与速度模糊解决方法研究——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153143454)
 
++ [KingbaseES数据库KDTS迁移工具实战指南：从部署到数据迁移全流程](https://blog.csdn.net/qq_57761637/article/details/152557282)
+
++ [Flutter 仿网易云音乐播放器：唱片旋转 + 歌词滚动实现记录](https://blog.csdn.net/panghaha12138/article/details/153059984)
+
++ [Simple MCP Client - 连接到 Elasticsearch MCP 并进行自然语言搜索](https://blog.csdn.net/UbuntuTouch/article/details/153110379)
+

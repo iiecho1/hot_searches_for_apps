@@ -207,3 +207,7 @@
 
 + [大阪世博会闭幕，石破茂“历史首次”为吉祥物颁发“首相感谢状”](https://news.cctv.com/2025/10/13/ARTIz4xyJohY8LTlWBYHlaQN251013.shtml)
 
++ [特朗普称“加沙战争已结束”](https://news.cctv.com/2025/10/13/ARTIkitmpKcPvUAbVzCmy826251013.shtml)
+
++ [以色列开始释放巴勒斯坦被扣押人员](https://news.cctv.com/2025/10/13/ARTIE5b4JcYXdzpeevhsqOW6251013.shtml)
+
