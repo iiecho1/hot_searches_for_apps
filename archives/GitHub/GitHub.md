@@ -41,3 +41,21 @@
 
 + [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 
++ [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
++ [coleam00/Archon](https://github.com/coleam00/Archon)
+
++ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
++ [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+
++ [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
++ [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
++ [nitrojs/nitro](https://github.com/nitrojs/nitro)
+

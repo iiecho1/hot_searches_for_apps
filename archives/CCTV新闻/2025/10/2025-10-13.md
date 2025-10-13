@@ -215,3 +215,5 @@
 
 + [南非长途客车坠崖 致至少40人遇难](https://news.cctv.com/2025/10/13/ARTINDO9KrXKa7P6qJlzNl1F251013.shtml)
 
++ [扎波罗热核电站失去外部供电近三周 俄乌各有说法](https://news.cctv.com/2025/10/13/ARTIxbosXOPpQwImVaCTewtJ251013.shtml)
+

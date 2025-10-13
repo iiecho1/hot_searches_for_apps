@@ -61,3 +61,15 @@
 
 + [撞船事故 8 个月后，美国受损航母“杜鲁门”号预计还要再等 12 个月才能修](https://m.ithome.com/html/888752.htm)
 
++ [网友晒小米 6 换小米 17 手机，卢伟冰调侃“还有钉子户”](https://m.ithome.com/html/888912.htm)
+
++ [古尔曼：苹果已开始研发 H3 芯片和 AirPods 5 耳机，M5 款 iPad Pro、新 Vision Pro 等 10 月新品即将到来](https://m.ithome.com/html/888896.htm)
+
++ [微软 Win10 即将退场，苹果列举五大理由邀请中小企业转向 Mac 生态](https://m.ithome.com/html/888903.htm)
+
++ [小米新机通过工信部无线电核准，预计为 REDMI Turbo 5](https://m.ithome.com/html/888870.htm)
+
++ [闻泰科技谴责荷兰政府干预安世半导体运营，称外籍管理层借政治压力夺权](https://m.ithome.com/html/888891.htm)
+
++ [LineageOS 23 正式发布：适配 Android 16 更新节奏，应用与功能全面升级](https://m.ithome.com/html/888887.htm)
+

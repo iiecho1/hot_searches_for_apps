@@ -205,3 +205,9 @@
 
 + [爬虫+卷积神经网络项目实战解析——对图像狗的识别分类](https://blog.csdn.net/h860818/article/details/153137612)
 
++ [Flink 状态模式演进（State Schema Evolution）从原理到落地的一站式指南](https://blog.csdn.net/weixin_43114209/article/details/153037075)
+
++ [SAM-SAM2-SAM3系列(三)：Segment Anything 3（SAM 3）技术详解，以及SAM3对 SAM2的升级点](https://blog.csdn.net/m0_38097087/article/details/153057529)
+
++ [【完整源码+数据集+部署教程】饮料品牌瓶盖识别系统源码和数据集：改进yolo11-RVB-EMA](https://blog.csdn.net/weixin_43860634/article/details/153184115)
+
