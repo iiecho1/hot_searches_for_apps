@@ -163,3 +163,11 @@
 
 + [世卫组织：抗生素耐药性问题对全球健康构成威胁](https://news.cctv.com/2025/10/14/ARTIBr49pGGiItjb3iygsivC251013.shtml)
 
++ [委内瑞拉关闭驻挪威和澳大利亚大使馆](https://news.cctv.com/2025/10/14/ARTIBxxw2HC9YspqCoQLUauR251014.shtml)
+
++ [非盟召开紧急会议 商讨马达加斯加局势](https://news.cctv.com/2025/10/14/ARTI07oEaj6Awokl4uZxjUkU251014.shtml)
+
++ [法国前总统萨科齐将于21日入狱服刑](https://news.cctv.com/2025/10/14/ARTIlra4ezW7T685iwMtAJbd251014.shtml)
+
++ [中方：消除殖民主义思维是完善全球治理不可或缺的组成部分](https://news.cctv.com/2025/10/14/ARTI6t4MgnEUv7Id5enCMgML251014.shtml)
+
