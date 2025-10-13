@@ -101,3 +101,11 @@
 
 + [学习threejs，打造交互式花卉生成器](https://blog.csdn.net/qq_28419035/article/details/153179794)
 
++ [Java 大视界 -- Java 大数据在智能家居设备联动与场景自动化中的应用](https://blog.csdn.net/atgfg/article/details/153041199)
+
++ [基于 WebSocket 协议的实时弹幕通信机制分析-抖音](https://blog.csdn.net/2401_87946050/article/details/153136422)
+
++ [Vue 3 原生应用开发新纪元：NativeScript-Vue 深度解析与实践指南](https://blog.csdn.net/weixin_54447959/article/details/153180238)
+
++ [DVWA靶场之十八：API 安全（API Security）](https://blog.csdn.net/YoungLime/article/details/153040823)
+
