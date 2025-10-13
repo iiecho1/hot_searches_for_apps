@@ -201,3 +201,9 @@
 
 + [以军接收7名获释被扣押人员](https://news.cctv.com/2025/10/13/ARTImuyX6TgxwB7rFO5O3UZ8251013.shtml)
 
++ [哈马斯已释放全部以方在世被扣押人员](https://news.cctv.com/2025/10/13/ARTIFNQvLmvpvT3xgQiZMQlo251013.shtml)
+
++ [菲律宾宿务省地震死亡人数上升至75人](https://news.cctv.com/2025/10/13/ARTIlWKaAs1HXun0XNng9X3m251013.shtml)
+
++ [大阪世博会闭幕，石破茂“历史首次”为吉祥物颁发“首相感谢状”](https://news.cctv.com/2025/10/13/ARTIz4xyJohY8LTlWBYHlaQN251013.shtml)
+
