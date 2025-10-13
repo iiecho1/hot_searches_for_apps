@@ -167,3 +167,5 @@
 
 + [菲律宾发生5.7级地震](https://news.cctv.com/2025/10/13/ARTIiwnsSNrqWWRtIHywy70I251013.shtml)
 
++ [加沙：返乡](https://photo.cctv.com/2025/10/13/PHOAYrcw3AekJx9vWkh6Fg6h251013.shtml)
+
