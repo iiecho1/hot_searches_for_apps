@@ -49,3 +49,15 @@
 
 + [vivo X300 / Pro 手机核心参数汇总：首发天玑 9500 芯片，明日发布](https://m.ithome.com/html/888846.htm)
 
++ [消息称国内苹果 iPhone 17 / Pro / Max 销售 16 天累计激活 269.5 万台，小米 17 全系首销 9 天激活 107.6 万台](https://m.ithome.com/html/888685.htm)
+
++ [15.98 万元起比亚迪汉 DM-i / EV 智驾版领航加推上市](https://m.ithome.com/html/888764.htm)
+
++ [苹果官网出现“错别字”上热搜，AirPods 拼成“ArPods”](https://m.ithome.com/html/888782.htm)
+
++ [16999~18999 元三星心系天下 W26 折叠屏手机发布：基于 Galaxy Z Fold 7 打造，支持天通卫星通信](https://m.ithome.com/html/888734.htm)
+
++ [一加 15 发布在即：全球首块 165Hz 高分屏幕，京东方柔性 OLED 新品发布会定档 10 月 14 日](https://m.ithome.com/html/888784.htm)
+
++ [撞船事故 8 个月后，美国受损航母“杜鲁门”号预计还要再等 12 个月才能修](https://m.ithome.com/html/888752.htm)
+
