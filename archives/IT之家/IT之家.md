@@ -49,3 +49,5 @@
 
 + [vivo X300“全家桶生态破壁”亮相：互联苹果 iPhone、iPad、Mac、Apple Watch、AirPods](https://m.ithome.com/html/889144.htm)
 
++ [中国电信 eSIM 手机业务全国开售，三大运营商全面落地](https://m.ithome.com/html/889158.htm)
+
