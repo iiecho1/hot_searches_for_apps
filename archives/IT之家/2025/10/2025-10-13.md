@@ -73,3 +73,19 @@
 
 + [LineageOS 23 正式发布：适配 Android 16 更新节奏，应用与功能全面升级](https://m.ithome.com/html/888887.htm)
 
++ [成都交警通报天府大道“小米 SU7 碰撞后爆燃”：酒驾事故，致 1 人死亡](https://m.ithome.com/html/889070.htm)
+
++ [95 的车错加了 92 汽油能否兑点 98？央视发文称别这样做](https://m.ithome.com/html/889001.htm)
+
++ [小米客服回应“SU7 碰撞后无法拉开把手”：车辆碰撞且收到碰撞信号时会解锁，最终以警方调查为准](https://m.ithome.com/html/889127.htm)
+
++ [焕新极氪 001 开启全国首批车主交付：26.98 万元起，标配 900V 架构](https://m.ithome.com/html/888902.htm)
+
++ [沃尔沃 V90 正式停产：暂无继任车型规划，国内仍在售](https://m.ithome.com/html/888907.htm)
+
++ [追觅推出多款空调新品：1.5 匹旗舰型号搭载双机械臂 AI 驭风系统，国补价 4159.2 元](https://m.ithome.com/html/888906.htm)
+
++ [众泰汽车百万年薪副总裁尹雪峰被免职，公司称整车研发进度严重落后市场](https://m.ithome.com/html/888915.htm)
+
++ [起拍价 154.4 万元：车牌 99999 劳斯莱斯幻影汽车被法拍，但不带车牌](https://m.ithome.com/html/888939.htm)
+

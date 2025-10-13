@@ -223,3 +223,7 @@
 
 + [三位经济学家获2025年诺贝尔经济学奖](https://news.cctv.com/2025/10/13/ARTILk0yYepOlux9Xzt1UBRq251013.shtml)
 
++ [20名以色列被扣押人员已全部被送往医院](https://news.cctv.com/2025/10/13/ARTIqtANsjBaPCqRx0Vny8q5251013.shtml)
+
++ [法国检方传唤前总统萨科齐并通知其服刑安排](https://news.cctv.com/2025/10/13/ARTIwqU68UT3cME9okMTCzcb251013.shtml)
+
