@@ -129,3 +129,7 @@
 
 + [微信小程序学习（五）](https://blog.csdn.net/m0_64047101/article/details/152922410)
 
++ [Arbess CICD实战(10) - 使用Arbess+GitLab实现PHP项目自动化部署](https://blog.csdn.net/zhangzh0910/article/details/153133509)
+
++ [6. 从0到上线：.NET 8 + ML.NET LTR 智能类目匹配实战--渐进式学习闭环：从反馈到再训练](https://blog.csdn.net/gangzhucoll/article/details/153139068)
+
