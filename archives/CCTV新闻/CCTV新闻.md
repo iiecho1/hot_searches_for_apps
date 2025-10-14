@@ -165,3 +165,15 @@
 
 + [委内瑞拉启动三处综合防卫区 加强大西洋和加勒比海域防御](https://news.cctv.com/2025/10/15/ARTIvPthoDkIEPQeYn8yabkK251014.shtml)
 
++ [《习近平谈治国理政》第五卷英文版推介会在法兰克福举行](https://news.cctv.com/2025/10/15/ARTIrrTisueMkYrRfNLL3QhB251015.shtml)
+
++ [美军击沉委内瑞拉附近海域“贩毒船” 船上6人死亡](https://news.cctv.com/2025/10/15/ARTIjEGFCv6N6yiXg4cFZubv251015.shtml)
+
++ [马达加斯加军方宣布接管国家政权](https://news.cctv.com/2025/10/15/ARTIuDHIJb2LGVkcu3YsNa22251015.shtml)
+
++ [印度拉贾斯坦邦巴士起火已致至少19人死亡](https://news.cctv.com/2025/10/15/ARTIw3GZjhCnypk6Gxhfay2M251015.shtml)
+
++ [多家美媒拒绝接受五角大楼新规 美防长不以为然](https://news.cctv.com/2025/10/15/ARTIMJjGJ2GepwgvFdtnrvNt251015.shtml)
+
++ [公器私用？英国前首相约翰逊被曝从军火商处获百万英镑](https://news.cctv.com/2025/10/15/ARTI09hsQHlws6cJeuEbU5qR251015.shtml)
+
