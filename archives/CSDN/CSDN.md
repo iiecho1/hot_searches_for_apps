@@ -155,3 +155,9 @@
 
 + [大麦网抢票：基于Wireshark协议分析](https://blog.csdn.net/q2642346535/article/details/153076465)
 
++ [Flink 受管状态的自定义序列化原理、实践与可演进设计](https://blog.csdn.net/weixin_43114209/article/details/153181325)
+
++ [HarmonyOS项目结构深度解析：从AppScope到oh_modules](https://blog.csdn.net/ifeng0918/article/details/153043991)
+
++ [SAM-SAM2-SAM3系列(三)：Segment Anything 3（SAM 3）技术详解，以及SAM3对 SAM2的升级点](https://blog.csdn.net/m0_38097087/article/details/153057529)
+

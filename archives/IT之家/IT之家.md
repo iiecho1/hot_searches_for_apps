@@ -61,3 +61,5 @@
 
 + [LineageOS 23 正式发布：适配 Android 16 更新节奏，应用与功能全面升级](https://m.ithome.com/html/888887.htm)
 
++ [闻泰科技：2024 年营收 147 亿元的安世半导体被荷兰冻结，公司股票 13 日起复牌](https://m.ithome.com/html/888856.htm)
+
