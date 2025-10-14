@@ -183,3 +183,5 @@
 
 + [北约秘书长呼吁各成员国提高国防投入](https://news.cctv.com/2025/10/14/ARTIoMYjspfSfMwhHOVCCrk0251014.shtml)
 
++ [委内瑞拉将关闭驻挪威和澳大利亚使馆](https://news.cctv.com/2025/10/14/ARTIYtRJEVkbTp4RURcqJZxl251014.shtml)
+

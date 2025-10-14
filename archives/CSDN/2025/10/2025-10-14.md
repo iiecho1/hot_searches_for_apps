@@ -179,3 +179,5 @@
 
 + [从封闭生态到开源自由:Fiora+CPolar打造你的专属社交平台](https://blog.csdn.net/2301_76341691/article/details/153253200)
 
++ [【愚公系列】《人工智能70年》078-AI塑造新人生（教育史上的“一场数字海啸“）](https://blog.csdn.net/aa2528877987/article/details/152506023)
+
