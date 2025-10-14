@@ -197,3 +197,11 @@
 
 + [网络层：从 IP 协议到路由转发](https://blog.csdn.net/zrt123456i/article/details/153117253)
 
++ [【数据库】时序数据库选型指南：在大数据与工业4.0时代，为何 Apache IoTDB 成为智慧之选？](https://blog.csdn.net/qq_38628970/article/details/153268238)
+
++ [AI 推理服务云原生：LLM 推理服务弹性伸缩配置](https://blog.csdn.net/qq_41187124/article/details/152551372)
+
++ [操作【GM3568JHF】FPGA+ARM异构开发板 使用指南：音频接口](https://blog.csdn.net/ShiMetaPi/article/details/150858748)
+
++ [【完整源码+数据集+部署教程】白芍成熟度检测系统源码和数据集：改进yolo11-GhostHGNetV2](https://blog.csdn.net/weixin_43860634/article/details/153261394)
+

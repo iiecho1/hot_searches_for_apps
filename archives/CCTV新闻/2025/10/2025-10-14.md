@@ -191,3 +191,5 @@
 
 + [特朗普要见泽连斯基 提供“战斧”极限施压？](https://news.cctv.com/2025/10/14/ARTIf1KNil7PeudwXCkvBbAB251014.shtml)
 
++ [又有一州拟重划选区 美两党“抢位大战”愈演愈烈](https://news.cctv.com/2025/10/14/ARTIw94jPGgLrtRk7mSrcgHz251014.shtml)
+
