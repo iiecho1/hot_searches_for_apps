@@ -185,3 +185,7 @@
 
 + [【深入理解计算机网络10】UDP协议详解](https://blog.csdn.net/Muyu1uz/article/details/153183536)
 
++ [ChatGPT替代品？LocalAI+CPolar打造你的隐私保护AI实验室](https://blog.csdn.net/weixin_66401877/article/details/153251547)
+
++ [# Pandas 与 Spark 数据操作完整教程](https://blog.csdn.net/weixin_45690427/article/details/153216725)
+
