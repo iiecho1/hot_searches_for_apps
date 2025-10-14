@@ -177,3 +177,7 @@
 
 + [美“星舰”第11次试飞成功着陆 完成关键回收测试](https://news.cctv.com/2025/10/14/ARTI8s3dtwkdxKSaCii3JqOg251014.shtml)
 
++ [菲律宾东达沃省以东海域发生两次5级以上地震](https://news.cctv.com/2025/10/14/ARTI293PkSwrK7oSjj2gpgRC251014.shtml)
+
++ [特朗普称将于本周在白宫会见泽连斯基](https://news.cctv.com/2025/10/14/ARTIoeR44eOscxgMoMw6CZs5251014.shtml)
+
