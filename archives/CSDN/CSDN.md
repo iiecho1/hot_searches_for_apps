@@ -161,3 +161,13 @@
 
 + [SAM-SAM2-SAM3系列(三)：Segment Anything 3（SAM 3）技术详解，以及SAM3对 SAM2的升级点](https://blog.csdn.net/m0_38097087/article/details/153057529)
 
++ [【Linux指南】Linux命令行进度条实现原理解析](https://blog.csdn.net/2302_78391795/article/details/149574269)
+
++ [基于Spring Boot + Vue 3的乡村振兴综合服务平台架构设计与实现](https://blog.csdn.net/2501_92796370/article/details/153124198)
+
++ [iOS 推送证书 P8 介绍及生成流程](https://blog.csdn.net/weixin_39339407/article/details/152260275)
+
++ [瓦力机器人-舵机控制（基于树莓派5）](https://blog.csdn.net/lianyinghhh/article/details/153125465)
+
++ [【双节征文】获奖名单公示](https://blog.csdn.net/blogdevteam/article/details/153199955)
+
