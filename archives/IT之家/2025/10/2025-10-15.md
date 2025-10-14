@@ -25,3 +25,15 @@
 
 + [7999 元苹果 iPhone Air 天猫双 11 首发，Apple Store 官方店率先开启预约](https://m.ithome.com/html/889175.htm)
 
++ [小米客服回应“SU7 碰撞后无法拉开把手”：车辆碰撞且收到碰撞信号时会解锁，最终以警方调查为准](https://m.ithome.com/html/889127.htm)
+
++ [成都交警通报天府大道“小米 SU7 碰撞后爆燃”：酒驾事故，致 1 人死亡](https://m.ithome.com/html/889070.htm)
+
++ [网友晒小米 6 换小米 17 手机，卢伟冰调侃“还有钉子户”](https://m.ithome.com/html/888912.htm)
+
++ [95 的车错加了 92 汽油能否兑点 98？央视发文称别这样做](https://m.ithome.com/html/889001.htm)
+
++ [苹果 CEO 库克又来中国：获赠限定 Labubu，玩偶手持橙色 iPhone 17 Pro](https://m.ithome.com/html/889116.htm)
+
++ [网红博主质疑闲鱼仅退款机制不合理：因未回消息 800 元商品被判免费送](https://m.ithome.com/html/889129.htm)
+

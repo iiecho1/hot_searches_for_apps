@@ -101,3 +101,15 @@
 
 + [Vue 3 原生应用开发新纪元：NativeScript-Vue 深度解析与实践指南](https://blog.csdn.net/weixin_54447959/article/details/153180238)
 
++ [LabVIEW激光点图像处理](https://blog.csdn.net/bjcyck/article/details/153177643)
+
++ [【愚公系列】《人工智能70年》078-AI塑造新人生（教育史上的“一场数字海啸“）](https://blog.csdn.net/aa2528877987/article/details/152506023)
+
++ [【双节征文】获奖名单公示](https://blog.csdn.net/blogdevteam/article/details/153199955)
+
++ [【完整源码+数据集+部署教程】白芍成熟度检测系统源码和数据集：改进yolo11-GhostHGNetV2](https://blog.csdn.net/weixin_43860634/article/details/153261394)
+
++ [学习threejs，打造交互式花卉生成器](https://blog.csdn.net/qq_28419035/article/details/153179794)
+
++ [深入理解 Flutter 的 PlatformView 如何在鸿蒙平台实现混合开发](https://blog.csdn.net/ZuoYueLiang/article/details/153178711)
+
