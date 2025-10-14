@@ -141,3 +141,11 @@
 
 + [crawl4ai智能爬虫(一)：playwright爬虫框架详解](https://blog.csdn.net/qq_40036519/article/details/153135397)
 
++ [【Linux】数据链路层 and 其他知识](https://blog.csdn.net/tan_run/article/details/151611551)
+
++ [Paper2Agent：将科研论文转化为可交互的AI智能体工具项目](https://blog.csdn.net/qq_44866828/article/details/153141387)
+
++ [KingbaseES SQL Server模式扩展属性管理：三大存储过程实战指南](https://blog.csdn.net/weixin_66401877/article/details/153134561)
+
++ [Java外功精要(3)——Spring配置文件和mybatis](https://blog.csdn.net/2401_89167985/article/details/152804543)
+

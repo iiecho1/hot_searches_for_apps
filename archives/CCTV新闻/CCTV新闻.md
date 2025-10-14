@@ -171,3 +171,9 @@
 
 + [中方：消除殖民主义思维是完善全球治理不可或缺的组成部分](https://news.cctv.com/2025/10/14/ARTI6t4MgnEUv7Id5enCMgML251014.shtml)
 
++ [阿迪昂连任瑙鲁总统](https://news.cctv.com/2025/10/14/ARTIcMJMi4YpUqxV6tLZsiaE251014.shtml)
+
++ [南非MeerKAT射电望远镜探测到距地超40亿光年的“宇宙呼吸声”](https://news.cctv.com/2025/10/14/ARTId74yEYSWZmQQZQD430yr251014.shtml)
+
++ [美“星舰”第11次试飞成功着陆 完成关键回收测试](https://news.cctv.com/2025/10/14/ARTI8s3dtwkdxKSaCii3JqOg251014.shtml)
+

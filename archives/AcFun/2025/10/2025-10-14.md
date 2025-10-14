@@ -73,3 +73,5 @@
 
 + [Sistar So Cool 路演](https://m.acfun.cn/v/?ac=47909791)
 
++ [把98时索尼影院带回家玩游戏是什么体验？](https://m.acfun.cn/v/?ac=47910911)
+
