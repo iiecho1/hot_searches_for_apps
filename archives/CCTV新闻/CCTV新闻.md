@@ -185,3 +185,7 @@
 
 + [委内瑞拉将关闭驻挪威和澳大利亚使馆](https://news.cctv.com/2025/10/14/ARTIYtRJEVkbTp4RURcqJZxl251014.shtml)
 
++ [美国新车均价首次突破5万美元](https://news.cctv.com/2025/10/14/ARTIdhVT0fJBx5RZmPb2Ppt7251014.shtml)
+
++ [“民众成真正输家，勒紧裤腰带过日子”：美政府“停摆”苦果显现](https://news.cctv.com/2025/10/14/ARTIIc5w1VpifrudnM6wKY6s251014.shtml)
+

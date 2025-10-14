@@ -181,3 +181,7 @@
 
 + [【愚公系列】《人工智能70年》078-AI塑造新人生（教育史上的“一场数字海啸“）](https://blog.csdn.net/aa2528877987/article/details/152506023)
 
++ [基于Echarts+HTML5可视化数据大屏展示-突发预警平台数据实时监控](https://blog.csdn.net/qq_36595761/article/details/153082066)
+
++ [【深入理解计算机网络10】UDP协议详解](https://blog.csdn.net/Muyu1uz/article/details/153183536)
+
