@@ -137,3 +137,7 @@
 
 + [【电脑操作】如何快速去掉win11操作系统下默认的鼠标右键菜单的显示更多选项](https://blog.csdn.net/lmy_520/article/details/153212086)
 
++ [基于 Rokid CXR-M SDK 构建 AR 远程专家协作系统：从零实现眼镜端自定义 UI 与实时交互](https://blog.csdn.net/m0_64336780/article/details/153208215)
+
++ [crawl4ai智能爬虫(一)：playwright爬虫框架详解](https://blog.csdn.net/qq_40036519/article/details/153135397)
+

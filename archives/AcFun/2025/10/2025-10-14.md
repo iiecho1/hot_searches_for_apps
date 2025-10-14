@@ -71,3 +71,5 @@
 
 + [川普笑着认怂，中国这次好硬啊！【岩论546期】](https://m.acfun.cn/v/?ac=47911484)
 
++ [Sistar So Cool 路演](https://m.acfun.cn/v/?ac=47909791)
+
