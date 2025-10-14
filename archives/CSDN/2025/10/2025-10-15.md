@@ -113,3 +113,31 @@
 
 + [深入理解 Flutter 的 PlatformView 如何在鸿蒙平台实现混合开发](https://blog.csdn.net/ZuoYueLiang/article/details/153178711)
 
++ [【AI视频】从单模型，到AI Agent工作流](https://blog.csdn.net/wtyuong/article/details/153212733)
+
++ [从监听风险到绝对隐私：Zoom偷听门后，Briefing+CPolar重新定义远程会议安全标准](https://blog.csdn.net/2401_82648291/article/details/153253335)
+
++ [KingbaseES SQL Server模式扩展属性管理：三大存储过程实战指南](https://blog.csdn.net/weixin_66401877/article/details/153134561)
+
++ [机器学习周报十七](https://blog.csdn.net/weixin_60864619/article/details/153128059)
+
++ [深度学习进阶（一）——从 LeNet 到 Transformer：卷积的荣光与注意力的崛起](https://blog.csdn.net/htw250056/article/details/153257033)
+
++ [超越CNN：GCN如何重塑图像处理](https://blog.csdn.net/xian0710830114/article/details/153041691)
+
++ [C++之基于正倒排索引的Boost搜索引擎项目日志+server代码及详解](https://blog.csdn.net/fyy31/article/details/152565849)
+
++ [AI 推理服务云原生：LLM 推理服务弹性伸缩配置](https://blog.csdn.net/qq_41187124/article/details/152551372)
+
++ [【网络编程】从数据链路层帧头到代理服务器：解析路由表、MTU/MSS、ARP、NAT 等网络核心技术](https://blog.csdn.net/2401_87944878/article/details/151415660)
+
++ [重塑办公自由：网易UU远程控制如何以“无感“流畅，解锁你的生产力新边界？](https://blog.csdn.net/lrq13965748542/article/details/153249901)
+
++ [【HarmonyOS】原生 Markdown 渲染解决方案 —— @luvi/lv-markdown-in](https://blog.csdn.net/weixin_44640245/article/details/153220959)
+
++ [FPGA强化-串口RS485](https://blog.csdn.net/qq_64995796/article/details/153203942)
+
++ [网络安全超详细系统教程、渗透测试与学习路线（2025年最新版）](https://blog.csdn.net/2301_76427295/article/details/153196572)
+
++ [10.9 鸿蒙创建和运行项目](https://blog.csdn.net/2503_92841156/article/details/153215412)
+
