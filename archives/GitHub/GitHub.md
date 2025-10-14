@@ -31,3 +31,19 @@
 
 + [nitrojs/nitro](https://github.com/nitrojs/nitro)
 
++ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
++ [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+
++ [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+
++ [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
+
++ [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+
++ [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga)
+
++ [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
+
