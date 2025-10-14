@@ -143,3 +143,5 @@
 
 + [Nginx终极配置指南：负载均衡、限流、反向代理、IP白名单、SSL、云原生、DNS解析、缓存加速全都有](https://blog.csdn.net/qq_26664043/article/details/149691004)
 
++ [网络安全等级测评师能力评估样卷及答案](https://blog.csdn.net/huluang/article/details/153199773)
+

@@ -37,3 +37,19 @@
 
 + [网红博主质疑闲鱼仅退款机制不合理：因未回消息 800 元商品被判免费送](https://m.ithome.com/html/889129.htm)
 
++ [“京东的第一台车”双 11 发布：买车像买手机一样方便，联合宁德时代、广汽打造](https://m.ithome.com/html/889367.htm)
+
++ [华为无线鼠标优享版开售：支持星闪技术，售价 59 元](https://m.ithome.com/html/889271.htm)
+
++ [车评人陈震透露劳斯莱斯逆行事故原因：用了辅助驾驶](https://m.ithome.com/html/889234.htm)
+
++ [工信部批复：eSIM 手机业务全网开通，暂不支持线上方式](https://m.ithome.com/html/889239.htm)
+
++ [苹果 iPhone 突现大量新机无法激活，客服称服务器正在修复](https://m.ithome.com/html/889257.htm)
+
++ [紧急时刻咋开门？华为余承东介绍鸿蒙智行车锁四重安全设计，称“安全是最大的豪华”](https://m.ithome.com/html/889302.htm)
+
++ [2026 国考年龄首次放宽至 38 岁，打破 35 岁门槛](https://m.ithome.com/html/889280.htm)
+
++ [小米澎湃 OS 3 正式版开启首批存量机型推送，含 Xiaomi 15 系列、REDMI K80 Pro 等](https://m.ithome.com/html/889436.htm)
+

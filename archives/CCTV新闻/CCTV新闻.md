@@ -163,3 +163,5 @@
 
 + [澳大利亚总理私人电话号码遭美国网站泄露](https://news.cctv.com/2025/10/15/ARTIIiHeGAPKFO9gkKh1Ltu2251014.shtml)
 
++ [委内瑞拉启动三处综合防卫区 加强大西洋和加勒比海域防御](https://news.cctv.com/2025/10/15/ARTIvPthoDkIEPQeYn8yabkK251014.shtml)
+
