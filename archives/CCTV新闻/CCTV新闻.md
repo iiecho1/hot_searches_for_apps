@@ -193,3 +193,5 @@
 
 + [又有一州拟重划选区 美两党“抢位大战”愈演愈烈](https://news.cctv.com/2025/10/14/ARTIw94jPGgLrtRk7mSrcgHz251014.shtml)
 
++ [德国9月通胀率升至2.4%](https://news.cctv.com/2025/10/14/ARTIbRsjdLSDlizTvzI1Qv4m251014.shtml)
+
