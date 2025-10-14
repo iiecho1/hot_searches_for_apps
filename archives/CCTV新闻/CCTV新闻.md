@@ -181,3 +181,5 @@
 
 + [特朗普称将于本周在白宫会见泽连斯基](https://news.cctv.com/2025/10/14/ARTIoeR44eOscxgMoMw6CZs5251014.shtml)
 
++ [北约秘书长呼吁各成员国提高国防投入](https://news.cctv.com/2025/10/14/ARTIoMYjspfSfMwhHOVCCrk0251014.shtml)
+
