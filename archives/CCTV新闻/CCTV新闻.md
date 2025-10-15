@@ -185,3 +185,9 @@
 
 + [美国没交够钱 联合国维和特派团规模将缩减](https://news.cctv.com/2025/10/15/ARTI7I6SuZLgmv0sMXsdXff3251015.shtml)
 
++ [巴基斯坦军方说与阿富汗武装人员等在边境地区交火](https://news.cctv.com/2025/10/15/ARTIZ65mAdoZgN3LGTlHcPG3251015.shtml)
+
++ [“既无必要，也无正当理由”，多家主流美媒拒签五角大楼新规](https://news.cctv.com/2025/10/15/ARTINkAdVdS2hOPaUYA3ivlU251015.shtml)
+
++ [采菌子成德国生活新风尚，黑森林山脉、阿尔卑斯山成为热门打卡地](https://news.cctv.com/2025/10/15/ARTIA2esHmJUv0EevxbsTgUW251015.shtml)
+
