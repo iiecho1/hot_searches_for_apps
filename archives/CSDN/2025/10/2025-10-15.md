@@ -175,3 +175,5 @@
 
 + [使用C#写微信小程序后端——电商微信小程序](https://blog.csdn.net/LZYself/article/details/153258837)
 
++ [时序数据库选型革命：深入解析Apache IoTDB的架构智慧与实战指南](https://blog.csdn.net/lrq13965748542/article/details/153274207)
+
