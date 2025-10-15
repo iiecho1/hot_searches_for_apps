@@ -195,3 +195,7 @@
 
 + [微信小程序学习（六）--多媒体操作](https://blog.csdn.net/m0_64047101/article/details/153198357)
 
++ [推荐系统实战：python新能源汽车智能推荐（两种协同过滤+Django 全栈项目 源码）计算机专业✅](https://blog.csdn.net/q_3456621138/article/details/153214486)
+
++ [Flutter鸿蒙开发](https://blog.csdn.net/ldc121xy716/article/details/153208267)
+
