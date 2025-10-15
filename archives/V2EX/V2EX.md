@@ -25,3 +25,11 @@
 
 + [iPhone13，用了 3 年，电池 79%，除了官方换电池，还有什么靠谱的路子或者电池品牌推荐？](https://www.v2ex.com/t/1165157)
 
++ [小米狠狠的羡慕 VIVO 用户了](https://www.v2ex.com/t/1165207)
+
++ [微软的 Edge 也挺好用的，但有哪个瞬间，让你想切换回 Chrome？](https://www.v2ex.com/t/1165132)
+
++ [产品上线 google play, 找一些测试用户，送终身 VIP 会员](https://www.v2ex.com/t/1165082)
+
++ [结合昨天 SU7 无法开门的新闻，这种纯电控门把手会召回吗](https://www.v2ex.com/t/1165156)
+

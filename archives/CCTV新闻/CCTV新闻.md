@@ -177,3 +177,7 @@
 
 + [公器私用？英国前首相约翰逊被曝从军火商处获百万英镑](https://news.cctv.com/2025/10/15/ARTI09hsQHlws6cJeuEbU5qR251015.shtml)
 
++ [印度西部一客车起火致20人死亡](https://news.cctv.com/2025/10/15/ARTI5QtmSlLuB2IvK9gP1H0z251015.shtml)
+
++ [韩国前总统尹锡悦出席内乱特检组传唤调查](https://news.cctv.com/2025/10/15/ARTIyD1DRa6PTUAa3cXO9Riu251015.shtml)
+
