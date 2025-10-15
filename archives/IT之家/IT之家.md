@@ -49,3 +49,15 @@
 
 + [iPhone 芯装进 MacBook：初探苹果“性价比武器”体验，驾驭日常办公游刃有余](https://m.ithome.com/html/889501.htm)
 
++ [首发 M5 芯片：苹果全新 14 英寸 MacBook Pro、iPad Pro 发布](https://m.ithome.com/html/889742.htm)
+
++ [苹果全新 M5 芯片发布：AI 性能较 M4 提升超四倍，内存带宽及整体图形性能提升近 30%](https://m.ithome.com/html/889747.htm)
+
++ [5699 元起：荣耀发布 Magic 8 Pro 手机，搭载第五代骁龙 8 至尊版芯片 + 7200mAh 电池](https://m.ithome.com/html/889748.htm)
+
++ [29999 元起 2025 款苹果 Vision&#160;Pro 头显发布：首发 M5 芯片，升级全新双圈编织头带](https://m.ithome.com/html/889745.htm)
+
++ [消息称苹果首次为 iPhone 18 Pro 系列手机引入可变光圈，由立讯精密、舜宇光学供应部件](https://m.ithome.com/html/889721.htm)
+
++ [4499 元起：荣耀发布 Magic 8 标准版手机，搭第五代骁龙 8 至尊版、MagicOS 10 系统](https://m.ithome.com/html/889744.htm)
+

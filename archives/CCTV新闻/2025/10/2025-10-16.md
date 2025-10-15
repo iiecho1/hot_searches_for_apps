@@ -165,3 +165,13 @@
 
 + [巴基斯坦与阿富汗已实施停火](https://news.cctv.com/2025/10/16/ARTIdxqFQKZBn30vFZWi8OE4251016.shtml)
 
++ [中国代表就联合国架构改革提三点初步建议](https://news.cctv.com/2025/10/16/ARTIWfRgEaHezqi4owXVBRgB251016.shtml)
+
++ [特朗普称泽连斯基将在访美期间阐述对俄“进攻”理由](https://news.cctv.com/2025/10/16/ARTI55FFVOAoXumoht2xqXcp251016.shtml)
+
++ [世界气象组织：2024年大气中二氧化碳水平创历史新高](https://news.cctv.com/2025/10/16/ARTIWiBNEsjkQZkaFhUsKarQ251016.shtml)
+
++ [欧盟计划2027年底前建成“无人机墙” 德欲投资100亿](https://news.cctv.com/2025/10/16/ARTIuPcp6XSIqTCuiF5jnpaZ251016.shtml)
+
++ [美国共和党临时拨款法案再次未能在参议院获得推进](https://news.cctv.com/2025/10/16/ARTIp9eC5syEh8RHV7gZyn4f251016.shtml)
+
