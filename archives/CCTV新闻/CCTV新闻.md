@@ -203,3 +203,7 @@
 
 + [“中方提出的举措和倡议具有全球意义”——访塞尔维亚负责性别平等事务部部长马楚拉](https://news.cctv.com/2025/10/15/ARTI4FYPWcFrakeEPRcxGkPf251015.shtml)
 
++ [“停摆”或成美国历史第二长 特朗普趁机砍“民主党项目”](https://news.cctv.com/2025/10/15/ARTICjFGKOwgKOXimvcRTGnw251015.shtml)
+
++ [欧元区8月工业生产值环比下降1.2%](https://news.cctv.com/2025/10/15/ARTIJYKephJGGrKxKC1Ys8dl251015.shtml)
+
