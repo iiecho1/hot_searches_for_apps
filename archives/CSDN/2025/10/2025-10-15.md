@@ -167,3 +167,5 @@
 
 + [10.9 了解鸿蒙生态](https://blog.csdn.net/2503_92841156/article/details/153214294)
 
++ [AI+大数据时代：如何从架构到生态重构时序数据库的价值？](https://blog.csdn.net/linshantang/article/details/153269236)
+
