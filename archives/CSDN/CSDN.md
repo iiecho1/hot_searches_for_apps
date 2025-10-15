@@ -173,3 +173,5 @@
 
 + [Linux 云计算核心技术：原理、组件与 K8s 实战部署](https://blog.csdn.net/IT99_/article/details/153193411)
 
++ [使用C#写微信小程序后端——电商微信小程序](https://blog.csdn.net/LZYself/article/details/153258837)
+
