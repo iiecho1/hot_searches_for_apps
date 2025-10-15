@@ -187,3 +187,11 @@
 
 + [【运维实践】深入理解 rsync+inotify：实时文件同步技术的原理与实践](https://blog.csdn.net/wnm23/article/details/153281021)
 
++ [ControlNet 实战指南：在 Stable Diffusion 中实现高可控图像生成](https://blog.csdn.net/2301_77485708/article/details/153315754)
+
++ [Docker 通信核心：docker.sock 完全指南](https://blog.csdn.net/2401_82619496/article/details/153272168)
+
++ [[linux仓库]调试Segmentation fault的利器：手把手教你开启和使用Core Dump[进程信号·叁]](https://blog.csdn.net/egoist2023/article/details/153327925)
+
++ [微信小程序学习（六）--多媒体操作](https://blog.csdn.net/m0_64047101/article/details/153198357)
+

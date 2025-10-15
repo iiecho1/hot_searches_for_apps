@@ -53,3 +53,21 @@
 
 + [小米澎湃 OS 3 正式版开启首批存量机型推送，含 Xiaomi 15 系列、REDMI K80 Pro 等](https://m.ithome.com/html/889436.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.0.107 SP7 / SP5 Developer 版本发布，覆盖手机、平板产品](https://m.ithome.com/html/889462.htm)
+
++ [再次起诉，大疆“硬刚”美国国防部](https://m.ithome.com/html/889352.htm)
+
++ [首发立减 50 元：华为 FreeClip 2 耳夹耳机 1249 元预售，赠 99 元 HUAWEI Care+](https://m.ithome.com/html/889316.htm)
+
++ [知情人士称“京东的第一台车”是广汽埃安 UT 换电版](https://m.ithome.com/html/889407.htm)
+
++ [华为手机双 11 放价：覆盖 Mate / Pura / nova 系列机型、至高 1500 元券，今日 0 点生效](https://m.ithome.com/html/889472.htm)
+
++ [京东回应下场造车称“宁德时代、广汽联合推出，不直接涉及制造”，预测为埃安的巧克力换电车型](https://m.ithome.com/html/889384.htm)
+
++ [卢伟冰宣布明晚返场直播，再聊聊小米 17 系列](https://m.ithome.com/html/889330.htm)
+
++ [华为鸿蒙 HarmonyOS 5 应用市场 App 适配设备新增支持显示智慧屏类别](https://m.ithome.com/html/889444.htm)
+
++ [老用户可再薅羊毛：华为“鸿蒙有礼”首上平板，含最高 100 元随机现金红包等](https://m.ithome.com/html/889378.htm)
+
