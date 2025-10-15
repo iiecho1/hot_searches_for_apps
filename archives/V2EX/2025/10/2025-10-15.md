@@ -53,3 +53,5 @@
 
 + [RustDesk 即将突破 100K stars](https://www.v2ex.com/t/1165782)
 
++ [有必要买相机吗](https://www.v2ex.com/t/1165366)
+

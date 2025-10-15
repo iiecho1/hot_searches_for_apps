@@ -199,3 +199,17 @@
 
 + [Flutter鸿蒙开发](https://blog.csdn.net/ldc121xy716/article/details/153208267)
 
++ [​HTTPS是如何确保安全的](https://blog.csdn.net/iov_a/article/details/153340929)
+
++ [【微服务】SpringBoot 整合 FastExcel 实现导入导出操作详解](https://blog.csdn.net/zhangcongyi420/article/details/152724267)
+
++ [LabVIEW中通过编程移动ROI](https://blog.csdn.net/bjcyck/article/details/153310121)
+
++ [【Linux内核】Linux内核裁剪完全指南：从理论到实战的系统优化](https://blog.csdn.net/u012790503/article/details/153273705)
+
++ [x86、arm、rsc-v指令集架构，指令集、OS、应用3者的关系](https://blog.csdn.net/roshy/article/details/153194695)
+
++ [【仿真测试】基于FPGA的完整DQPSK通信链路实现,含频偏锁定,帧同步,定时点,Viterbi译码,信道,误码统计](https://blog.csdn.net/hlayumi1234567/article/details/153178770)
+
++ [论文阅读---CARLA：用于时间序列异常检测的自监督对比表示学习方法](https://blog.csdn.net/qq_25368751/article/details/137269408)
+
