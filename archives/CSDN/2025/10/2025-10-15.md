@@ -151,3 +151,11 @@
 
 + [《探秘 Linux 进程控制：驾驭系统运行的核心之力》](https://blog.csdn.net/Dovis5884/article/details/152464204)
 
++ [【自动驾驶】自动驾驶概述 ⑨ ( 自动驾驶软件系统概述 | 预测系统 | 决策规划 | 控制系统 )](https://blog.csdn.net/han1202012/article/details/153131601)
+
++ [在线宠物用品|基于springboot+vue的在线宠物用品交易网站(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/153266538)
+
++ [原生多模态AI架构：统一训练与跨模态推理的系统实现与性能优化](https://blog.csdn.net/Rqaqedamancy/article/details/153281023)
+
++ [汽车角雷达波形设计与速度模糊解决方法研究——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153143454)
+

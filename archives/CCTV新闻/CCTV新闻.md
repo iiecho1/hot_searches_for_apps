@@ -181,3 +181,7 @@
 
 + [韩国前总统尹锡悦出席内乱特检组传唤调查](https://news.cctv.com/2025/10/15/ARTIyD1DRa6PTUAa3cXO9Riu251015.shtml)
 
++ [联合国大会选出14个人权理事会成员](https://news.cctv.com/2025/10/15/ARTI7JIo5FnFbEbqjl6syvdV251015.shtml)
+
++ [美国没交够钱 联合国维和特派团规模将缩减](https://news.cctv.com/2025/10/15/ARTI7I6SuZLgmv0sMXsdXff3251015.shtml)
+
