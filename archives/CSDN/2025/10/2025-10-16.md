@@ -101,3 +101,5 @@
 
 + [网络安全之揭秘APT Discord C2 以及如何取证](https://blog.csdn.net/zkaqlaoniao/article/details/153264492)
 
++ [从分词器构建到强化学习：nanochat开源项目下载与部署全流程教程，教你一步步训练ChatGPT语言模型](https://blog.csdn.net/qq_44866828/article/details/153325561)
+
