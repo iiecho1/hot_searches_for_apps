@@ -25,3 +25,27 @@
 
 + [小米澎湃 OS 3 正式版开启首批存量机型推送，含 Xiaomi 15 系列、REDMI K80 Pro 等](https://m.ithome.com/html/889436.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.0.107 SP7 / SP5 Developer 版本发布，覆盖手机、平板产品](https://m.ithome.com/html/889462.htm)
+
++ [华为手机双 11 放价：覆盖 Mate / Pura / nova 系列机型、至高 1500 元券，今日 0 点生效](https://m.ithome.com/html/889472.htm)
+
++ [OPPO ColorOS 16 发布：首发三大流畅技术、全新光场设计，AI 代聊“一秒 5 喷”](https://m.ithome.com/html/889567.htm)
+
++ [日照金山，余承东晒华为新品“猜猜这是啥？”](https://m.ithome.com/html/889602.htm)
+
++ [苹果 CEO 库克现身北京，同开发者散步聊天](https://m.ithome.com/html/889570.htm)
+
++ [水平全国第一、全球第二，新凯来子公司万里眼推出新一代超高速实时示波器](https://m.ithome.com/html/889548.htm)
+
++ [可支撑 3nm 先进制程研发检测！新凯来子公司万里眼新一代超高速实时示波器硬刚国外高端产品](https://m.ithome.com/html/889598.htm)
+
++ [华为鸿蒙 HarmonyOS 5 应用市场 App 适配设备新增支持显示智慧屏类别](https://m.ithome.com/html/889444.htm)
+
++ [小米推出“围观短剧”App：主打“无广告海量短剧免费看”](https://m.ithome.com/html/889464.htm)
+
++ [工信部部长李乐成会见苹果 CEO 蒂姆・库克](https://m.ithome.com/html/889596.htm)
+
++ [“星宇橙”变“玫瑰金”，曝苹果 iPhone 17 Pro Max 手机存后盖氧化褪色问题](https://m.ithome.com/html/889658.htm)
+
++ [iPhone 芯装进 MacBook：初探苹果“性价比武器”体验，驾驭日常办公游刃有余](https://m.ithome.com/html/889501.htm)
+

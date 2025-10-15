@@ -163,3 +163,5 @@
 
 + [以色列官员否认已开始加沙停火协议第二阶段谈判](https://news.cctv.com/2025/10/16/ARTI0rTGCI05lwUttBTBqQhD251015.shtml)
 
++ [巴基斯坦与阿富汗已实施停火](https://news.cctv.com/2025/10/16/ARTIdxqFQKZBn30vFZWi8OE4251016.shtml)
+
