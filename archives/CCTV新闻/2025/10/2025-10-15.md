@@ -195,3 +195,11 @@
 
 + [拉法口岸重新开放 600辆救援卡车将进入加沙地带](https://news.cctv.com/2025/10/15/ARTI4JWIbhfY2ryubdMQsgll251015.shtml)
 
++ [吕特称北约和欧盟正在合作建设“无人机墙”](https://news.cctv.com/2025/10/15/ARTIkfduslM0u9zZrjzhDDG3251015.shtml)
+
++ [美国高盛集团等研究报告显示——关税政策对美国消费者影响日渐凸显](https://news.cctv.com/2025/10/15/ARTIjyuxKIFcgdBpy5tgXu6g251015.shtml)
+
++ [“全球妇女峰会振奋人心 中国方案引领未来”——访所罗门群岛官员尼禄·凡科莎](https://news.cctv.com/2025/10/15/ARTIQVQBxZCbZyjEskeIfdIP251015.shtml)
+
++ [“中方提出的举措和倡议具有全球意义”——访塞尔维亚负责性别平等事务部部长马楚拉](https://news.cctv.com/2025/10/15/ARTI4FYPWcFrakeEPRcxGkPf251015.shtml)
+
