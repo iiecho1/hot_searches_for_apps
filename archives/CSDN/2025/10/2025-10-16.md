@@ -103,3 +103,29 @@
 
 + [从分词器构建到强化学习：nanochat开源项目下载与部署全流程教程，教你一步步训练ChatGPT语言模型](https://blog.csdn.net/qq_44866828/article/details/153325561)
 
++ [Qoder上线提示词增强功能，将开发者从 “提示词“ 的负担中解放出来](https://blog.csdn.net/weixin_62765017/article/details/153264264)
+
++ [基于 Rokid CXR-M SDK 构建 AR 远程专家协作系统：从零实现眼镜端自定义 UI 与实时交互](https://blog.csdn.net/m0_64336780/article/details/153208215)
+
++ [MySQL数据库精研之旅第十九期：存储过程，数据处理的全能工具箱(二)](https://blog.csdn.net/2401_85198927/article/details/153137764)
+
++ [C# 预处理指令 (# 指令) 详解](https://blog.csdn.net/Tiger_shl/article/details/153269737)
+
++ [C#之雷赛控制板卡-单轴相对点位运动](https://blog.csdn.net/qq_41375318/article/details/153328523)
+
++ [美食推荐商城|SprinBoot+vue美食推荐商城系统(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/153268309)
+
++ [校园资讯平台系统|基于java和小程序的校园资讯平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/153270174)
+
++ [月球矩阵日志：Swift 6.2 主线程隔离抉择（上）](https://blog.csdn.net/mydo/article/details/153324218)
+
++ [【GitHub项目推荐--OpenCode：终端AI编程助手】](https://blog.csdn.net/j8267643/article/details/153342924)
+
++ [Vue 3 原生应用开发新纪元：NativeScript-Vue 深度解析与实践指南](https://blog.csdn.net/weixin_54447959/article/details/153180238)
+
++ [【完整源码+数据集+部署教程】酒类产品识别系统源码和数据集：改进yolo11-DySnakeConv](https://blog.csdn.net/weixin_43860634/article/details/153319021)
+
++ [【仿真测试】基于FPGA的完整DQPSK通信链路实现,含频偏锁定,帧同步,定时点,Viterbi译码,信道,误码统计](https://blog.csdn.net/hlayumi1234567/article/details/153178770)
+
++ [Vue3+echarts 3d饼图](https://blog.csdn.net/qq_66390045/article/details/153327474)
+
