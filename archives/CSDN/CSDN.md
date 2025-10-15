@@ -177,3 +177,13 @@
 
 + [时序数据库选型革命：深入解析Apache IoTDB的架构智慧与实战指南](https://blog.csdn.net/lrq13965748542/article/details/153274207)
 
++ [从零构建大模型 Build a large language model from scratch by Sebastian Raschka 阅读笔记](https://blog.csdn.net/seamoon201314/article/details/153277918)
+
++ [Redis 缓存](https://blog.csdn.net/2401_87046050/article/details/153277900)
+
++ [【征文计划】码上分享：基于 Rokid CXR-M SDK 构建「AI远程协作助手」实战全记录](https://blog.csdn.net/weixin_44976692/article/details/153324632)
+
++ [MySQL数据库精研之旅第十九期：存储过程，数据处理的全能工具箱(二)](https://blog.csdn.net/2401_85198927/article/details/153137764)
+
++ [【运维实践】深入理解 rsync+inotify：实时文件同步技术的原理与实践](https://blog.csdn.net/wnm23/article/details/153281021)
+

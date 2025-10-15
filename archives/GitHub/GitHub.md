@@ -31,3 +31,27 @@
 
 + [volcengine/MineContext](https://github.com/volcengine/MineContext)
 
++ [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+
++ [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)
+
++ [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+
++ [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
+
++ [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
+
++ [devlikeapro/waha](https://github.com/devlikeapro/waha)
+
++ [enactic/openarm](https://github.com/enactic/openarm)
+
++ [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+
++ [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates)
+
++ [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)
+
++ [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
++ [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
+
