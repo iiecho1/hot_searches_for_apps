@@ -191,3 +191,7 @@
 
 + [采菌子成德国生活新风尚，黑森林山脉、阿尔卑斯山成为热门打卡地](https://news.cctv.com/2025/10/15/ARTIA2esHmJUv0EevxbsTgUW251015.shtml)
 
++ [中国驻美大使呼吁美方回归理性 停止极限施压](https://news.cctv.com/2025/10/15/ARTILwCiOe7rfwTQVwUiJ0hF251015.shtml)
+
++ [拉法口岸重新开放 600辆救援卡车将进入加沙地带](https://news.cctv.com/2025/10/15/ARTI4JWIbhfY2ryubdMQsgll251015.shtml)
+
