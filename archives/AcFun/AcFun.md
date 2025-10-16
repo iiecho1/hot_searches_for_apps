@@ -65,3 +65,7 @@
 
 + [EXID DDD 抖抖抖](https://m.acfun.cn/v/?ac=47919470)
 
++ [【火影忍者疾风传】Do you know NARUTO ？粤语版OP20《カラノココロ（空虚心灵）》](https://m.acfun.cn/v/?ac=47920964)
+
++ [f(x) 4 Walls](https://m.acfun.cn/v/?ac=47919610)
+

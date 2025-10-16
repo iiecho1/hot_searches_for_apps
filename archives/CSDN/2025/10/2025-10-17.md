@@ -109,3 +109,15 @@
 
 + [html案例：制作一个图片水印生成器，防止复印件被滥用](https://blog.csdn.net/qq_29001539/article/details/153345642)
 
++ [基于深度学习的卫星图像分类（Kaggle比赛实战）](https://blog.csdn.net/2301_79139273/article/details/153406032)
+
++ [C# 软件加密方法，有使用时间限制，同时要防止拷贝](https://blog.csdn.net/gy0124/article/details/153260726)
+
++ [Linux 服务器NFS文件共享](https://blog.csdn.net/luostudent/article/details/153331990)
+
++ [【Linux运维】 Prometheus + Grafana + Alertmanager 监控系统部署指南（CentOS & Ubuntu 通用版）](https://blog.csdn.net/weixin_39372311/article/details/153326473)
+
++ [工程记录：使用tello edu无人机进行计算机视觉工作（手势识别,yolo3搭载）](https://blog.csdn.net/weixin_74277223/article/details/153260383)
+
++ [debug - MDK - arm-none-eabi - 将MDK工程编译过程的所有命令行参数找出来](https://blog.csdn.net/LostSpeed/article/details/153340960)
+
