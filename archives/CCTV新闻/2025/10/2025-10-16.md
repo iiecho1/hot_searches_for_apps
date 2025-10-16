@@ -175,3 +175,11 @@
 
 + [美国共和党临时拨款法案再次未能在参议院获得推进](https://news.cctv.com/2025/10/16/ARTIp9eC5syEh8RHV7gZyn4f251016.shtml)
 
++ [美国联邦政府“停摆”导致多行业受冲击 研发经费被证实用来发放军饷](https://news.cctv.com/2025/10/16/ARTI5o4gh4EflcyZiblwyhPo251016.shtml)
+
++ [美联储“褐皮书”：美国消费支出小幅下降 劳动力需求普遍低迷](https://news.cctv.com/2025/10/16/ARTINad9WHGNXUtS3LC8PRdf251016.shtml)
+
++ [普京批准俄罗斯与古巴军事合作协议](https://news.cctv.com/2025/10/16/ARTIGrBeLI2uPr97iY2IIYux251016.shtml)
+
++ [特朗普证实已授权中情局在委内瑞拉开展行动](https://news.cctv.com/2025/10/16/ARTITXFU8v55TKXXvzXicAyy251016.shtml)
+
