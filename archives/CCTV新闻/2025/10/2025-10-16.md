@@ -203,3 +203,9 @@
 
 + [美防长敦促盟国增购美制武器以加强对乌军援](https://news.cctv.com/2025/10/16/ARTIrywB6BTth7F2bG2Nnju9251016.shtml)
 
++ [巴基斯坦西北部一高速公路发生车祸 已致15人死亡](https://news.cctv.com/2025/10/16/ARTIJsI3ociafY75TN7lQtEc251016.shtml)
+
++ [韩国前总统卢泰愚之子被任命为驻华大使](https://news.cctv.com/2025/10/16/ARTInbqs0QAkbnZYWb9feGOr251016.shtml)
+
++ [中老越三国开展跨境重点传染病联合应急演练](https://news.cctv.com/2025/10/16/ARTIZQC2fOFnlpv9smmoOgRK251016.shtml)
+

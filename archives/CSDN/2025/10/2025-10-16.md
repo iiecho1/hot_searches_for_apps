@@ -169,3 +169,7 @@
 
 + [InfoGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/153192889)
 
++ [HTTP 协议](https://blog.csdn.net/m0_60915009/article/details/153392905)
+
++ [【AI大模型前沿】IndexTTS2：B站开源的零样本语音合成模型，实现情感与时长精准控制](https://blog.csdn.net/xiaobing259/article/details/153040671)
+
