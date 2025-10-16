@@ -217,3 +217,7 @@
 
 + [漫评美国政府停摆：“暂停营业”](https://news.cctv.com/2025/10/16/ARTIhWpTEBOCU6eamDegVKNS251016.shtml)
 
++ [柬埔寨警方：将于17日遣返59名韩国公民](https://news.cctv.com/2025/10/16/ARTIljFlcG6ZYsc4JILVpEit251016.shtml)
+
++ [欧盟委员会公布防务准备路线图](https://news.cctv.com/2025/10/16/ARTIkpsLbe7O74jFTFiD2OMb251016.shtml)
+

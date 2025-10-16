@@ -225,3 +225,15 @@
 
 + [Python学习-----小游戏之人生重开模拟器（普通版）](https://blog.csdn.net/qqsq321/article/details/152274992)
 
++ [Linux信号](https://blog.csdn.net/2401_84068287/article/details/153349051)
+
++ [从0到1：打造专业级AI教学助手的完整开发实录](https://blog.csdn.net/IRpickstars/article/details/153316569)
+
++ [ElasticSearch 实战：全文检索与数据聚合分析的完整指南​](https://blog.csdn.net/yzyyishi/article/details/153261695)
+
++ [PhysHSI——搬运箱子，不在话下：仿真中AMP训练，现实中结合内置的LiDAR和头部的外置相机做视觉感知、定位](https://blog.csdn.net/v_JULY_v/article/details/153319617)
+
++ [Spring 中使用的设计模式](https://blog.csdn.net/longool/article/details/153345095)
+
++ [TikTok推荐算法快速解析](https://blog.csdn.net/dd8989089/article/details/153273835)
+
