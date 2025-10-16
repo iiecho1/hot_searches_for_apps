@@ -215,3 +215,5 @@
 
 + [特朗普授权中情局在委秘密行动](https://news.cctv.com/2025/10/16/ARTIDnI2R1yYVCmxsLaxhfa8251016.shtml)
 
++ [漫评美国政府停摆：“暂停营业”](https://news.cctv.com/2025/10/16/ARTIhWpTEBOCU6eamDegVKNS251016.shtml)
+

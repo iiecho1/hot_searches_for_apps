@@ -221,3 +221,7 @@
 
 + [超级码力的第一次小组项目----2048之合成坤坤](https://blog.csdn.net/2501_93392484/article/details/153404464)
 
++ [企业微信+DeepSeek大模型自动发消息给微信用户](https://blog.csdn.net/beautifulmemory/article/details/153214328)
+
++ [Python学习-----小游戏之人生重开模拟器（普通版）](https://blog.csdn.net/qqsq321/article/details/152274992)
+
