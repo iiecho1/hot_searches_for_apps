@@ -161,3 +161,7 @@
 
 + [马克龙回应辞职要求：将继续履行总统职责，以确保国家稳定](https://news.cctv.com/2025/10/13/ARTIQISKHPgohssww0XPcXV3251013.shtml)
 
++ [德国央行最新报告：德经济在第三季度也不会复苏](https://news.cctv.com/2025/10/17/ARTIuK580zGoiPAebpV0GbmJ251017.shtml)
+
++ [美国总统特朗普：目前正与俄总统普京通话 将持续很久](https://news.cctv.com/2025/10/17/ARTImhDslv1ckO74Xq8iMWpw251017.shtml)
+

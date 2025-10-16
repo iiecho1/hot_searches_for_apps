@@ -61,3 +61,7 @@
 
 + [【S15赛事速看】瑞士轮 Day1](https://m.acfun.cn/v/?ac=47918053)
 
++ [粉色战衣~](https://m.acfun.cn/v/?ac=47919935)
+
++ [EXID DDD 抖抖抖](https://m.acfun.cn/v/?ac=47919470)
+

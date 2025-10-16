@@ -101,3 +101,11 @@
 
 + [【深入理解计算机网络11】应用层详解：DNS，WWW，HTTP](https://blog.csdn.net/Muyu1uz/article/details/153330078)
 
++ [C# 实现高保真 Excel 转 PDF（无需 Office 环境）](https://blog.csdn.net/SunnyDays1011/article/details/153332160)
+
++ [Python Web框架对比与模型部署](https://blog.csdn.net/qq1851417332/article/details/153356416)
+
++ [ElasticSearch 实战：全文检索与数据聚合分析的完整指南​](https://blog.csdn.net/yzyyishi/article/details/153261695)
+
++ [html案例：制作一个图片水印生成器，防止复印件被滥用](https://blog.csdn.net/qq_29001539/article/details/153345642)
+
