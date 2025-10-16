@@ -27,3 +27,27 @@
 
 + [消息称苹果首次为 iPhone 18 Pro 系列手机引入可变光圈，由立讯精密、舜宇光学供应部件](https://m.ithome.com/html/889721.htm)
 
++ [4399/5299 元起 OPPO Find X9 / Pro 正式发布：搭载联发科天玑 9500，卫星通信版支持&#160;eSIM](https://m.ithome.com/html/890054.htm)
+
++ [OPPO 首款 eSIM 手机今晚发布， Find X9 系列官宣提供 eSIM 版本](https://m.ithome.com/html/889859.htm)
+
++ [小米 AI 新论文，雷军千万年薪要挖的 DeepSeek 罗福莉署名](https://m.ithome.com/html/889899.htm)
+
++ [支付宝芝麻信用推出全新子品牌“芝麻 800”，高信用分用户专享 15 项服务](https://m.ithome.com/html/889988.htm)
+
++ [卢伟冰：REDMI K90 系列手机“明天见”，不排斥和小米“直接竞争”](https://m.ithome.com/html/889837.htm)
+
++ [微软公布 Office 新版图标“废案”：采用渐变色，形态更大胆](https://m.ithome.com/html/889802.htm)
+
++ [一加 15 / Ace6“双舰齐发”，新机发布定档 10 月 17 日](https://m.ithome.com/html/889863.htm)
+
++ [小米雷军称智能网联汽车发展不是零和博弈，呼吁共同抵制网络水军、黑公关](https://m.ithome.com/html/890002.htm)
+
++ [小米卢伟冰：我相信 REDMI K90 Pro Max 一定会通杀 4000 元 + 这个价格段](https://m.ithome.com/html/889825.htm)
+
++ [美国铸币局官宣：苹果联合创始人乔布斯将登上美国创新一美元硬币](https://m.ithome.com/html/889780.htm)
+
++ [奇瑞捷途纵横 G700 宣称成为首款成功横渡长江的越野车，10 月 19 日上市](https://m.ithome.com/html/889893.htm)
+
++ [苹果 M5 版 iPad Pro 支持 120Hz 外接显示器，新 Studio Display 呼之欲出](https://m.ithome.com/html/889784.htm)
+
