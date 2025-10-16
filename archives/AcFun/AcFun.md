@@ -69,3 +69,5 @@
 
 + [年少不知姐姐好Ma Boy舞蹈翻跳【羽毛xSunny】](https://m.acfun.cn/v/?ac=47915166)
 
++ [【东方】豊姫，回不到月球了【二ノ瀬泰徳 手书动画】](https://m.acfun.cn/v/?ac=47909642)
+

@@ -61,3 +61,5 @@
 
 + [4499 元起：荣耀发布 Magic 8 标准版手机，搭第五代骁龙 8 至尊版、MagicOS 10 系统](https://m.ithome.com/html/889744.htm)
 
++ [卢伟冰透露有大量 iPhone 用户换机小米 17，Pro 系列销量大概是上代三倍](https://m.ithome.com/html/889733.htm)
+
