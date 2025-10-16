@@ -121,3 +121,7 @@
 
 + [debug - MDK - arm-none-eabi - 将MDK工程编译过程的所有命令行参数找出来](https://blog.csdn.net/LostSpeed/article/details/153340960)
 
++ [ 修电脑日志--换网卡](https://blog.csdn.net/2401_88061610/article/details/153204084)
+
++ [JSAR 开发环境配置与项目初始化全流程指南](https://blog.csdn.net/a1657054242/article/details/153259040)
+
