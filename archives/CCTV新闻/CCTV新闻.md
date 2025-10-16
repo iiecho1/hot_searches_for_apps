@@ -211,3 +211,7 @@
 
 + [美国关键通胀数据因政府“停摆”推迟发布](https://news.cctv.com/2025/10/16/ARTIBYM8EZRYttsm9X8FecND251016.shtml)
 
++ [不满五角大楼采访新规 记者集体打包走人](https://news.cctv.com/2025/10/16/ARTIvEyQKVgDLVWU5Ho6e14m251016.shtml)
+
++ [特朗普授权中情局在委秘密行动](https://news.cctv.com/2025/10/16/ARTIDnI2R1yYVCmxsLaxhfa8251016.shtml)
+
