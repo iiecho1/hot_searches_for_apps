@@ -63,3 +63,13 @@
 
 + [卢伟冰透露有大量 iPhone 用户换机小米 17，Pro 系列销量大概是上代三倍](https://m.ithome.com/html/889733.htm)
 
++ [小米卢伟冰官宣 REDMI K90 Pro Max 手机本月发布](https://m.ithome.com/html/889750.htm)
+
++ [OPPO 首款 eSIM 手机今晚发布， Find X9 系列官宣提供 eSIM 版本](https://m.ithome.com/html/889859.htm)
+
++ [荣耀 Magic8 AI 概念版手机亮相](https://m.ithome.com/html/889746.htm)
+
++ [原价次日达：iPhone 17 Pro 系列京东大面积补货，iPhone 17 依旧缺货严重](https://m.ithome.com/html/889704.htm)
+
++ [小米下一代手机确认继续使用背屏设计，17 系列 10 月底将迎系列有趣更新](https://m.ithome.com/html/889737.htm)
+

@@ -35,3 +35,23 @@
 
 + [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
 
++ [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+
++ [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+
++ [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+
++ [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
+
++ [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+
++ [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)
+
++ [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
+
++ [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent)
+
++ [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+
++ [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+
