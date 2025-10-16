@@ -213,3 +213,11 @@
 
 + [内网攻防实战图谱：从红队视角构建安全对抗体系 ](https://blog.csdn.net/epubit17/article/details/153311426)
 
++ [Java 大视界 -- Java 大数据在智能政务数字身份认证与数据安全共享中的应用](https://blog.csdn.net/atgfg/article/details/153345996)
+
++ [Sora文生视频技术拆解：Diffusion Transformer架构与时空建模原理](https://blog.csdn.net/Rqaqedamancy/article/details/153356365)
+
++ [如何使用 Synonyms UI 上传和管理 Elasticsearch 同义词 - 9.1](https://blog.csdn.net/UbuntuTouch/article/details/153310683)
+
++ [超级码力的第一次小组项目----2048之合成坤坤](https://blog.csdn.net/2501_93392484/article/details/153404464)
+
