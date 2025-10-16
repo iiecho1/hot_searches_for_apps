@@ -151,3 +151,9 @@
 
 + [【深入理解计算机网络11】应用层详解：DNS，WWW，HTTP](https://blog.csdn.net/Muyu1uz/article/details/153330078)
 
++ [.NET 8/9异步新特性：99%的开发者都在用错，你中招没？](https://blog.csdn.net/z_344791576/article/details/151931740)
+
++ [零成本搭建企业知识库：Wiki.js+cpolar让文档共享不再受限于局域网](https://blog.csdn.net/ljq_up/article/details/153196167)
+
++ [10.5 傅里叶级数：用线性代数研究函数](https://blog.csdn.net/passxgx/article/details/152736795)
+

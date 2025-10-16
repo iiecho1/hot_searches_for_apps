@@ -183,3 +183,23 @@
 
 + [特朗普证实已授权中情局在委内瑞拉开展行动](https://news.cctv.com/2025/10/16/ARTITXFU8v55TKXXvzXicAyy251016.shtml)
 
++ [普京与叙政权领导人会谈 叙方：望“重新定义”两国关系](https://news.cctv.com/2025/10/16/ARTIEjcguKZEdHkfklgTUACF251016.shtml)
+
++ [菲律宾宿务省地震死亡人数上升至76人](https://news.cctv.com/2025/10/16/ARTIyZcxfAxI479pLqpPcNc1251016.shtml)
+
++ [推进世界中国学研究 丰富人类文明百花园](https://news.cctv.com/2025/10/16/ARTI3ZVwGpBltThc1ZFwlpEO251016.shtml)
+
++ [美国联邦政府“停摆”进入第三周（国际视点）](https://news.cctv.com/2025/10/16/ARTIV3PTDSiqMzXOrhOIdouS251016.shtml)
+
++ [海内外学者共寻何为中国、何以中国](https://news.cctv.com/2025/10/16/ARTIonKh6Stb6DTHFoTenx8r251016.shtml)
+
++ [中国为全球妇女创造的又一个团结时刻](https://news.cctv.com/2025/10/16/ARTIoVmxVWgEFPKLHaLI3Gki251016.shtml)
+
++ [尹锡悦主动接受特检组讯问 全程行使沉默权](https://news.cctv.com/2025/10/16/ARTIlyZCthqLtd8Q32nTxtkd251016.shtml)
+
++ [世粮署：援助资金减少致近1400万人极度饥饿](https://news.cctv.com/2025/10/16/ARTIXq6blcqq4IqR8pyhGNGz251016.shtml)
+
++ [合建“无人机墙” 威胁西班牙增军费 这次北约防长会“热闹”多](https://news.cctv.com/2025/10/16/ARTIwlXuEEn3M9FnRpouaX59251016.shtml)
+
++ [美防长敦促盟国增购美制武器以加强对乌军援](https://news.cctv.com/2025/10/16/ARTIrywB6BTth7F2bG2Nnju9251016.shtml)
+
