@@ -199,3 +199,13 @@
 
 + [百度天气：空气质量WebGIS可视化的创新实践 —— 以湖南省为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/153347964)
 
++ [Spring AI 1.0 GA 深度解析：Java生态的AI革命已来](https://blog.csdn.net/mr_yuanshen/article/details/153403301)
+
++ [AI 在数据库操作中的各类应用场景、方案与实践指南](https://blog.csdn.net/csdn_silent/article/details/153271167)
+
++ [突破AR视觉交互边界：Unity赋能Rokid AR眼镜实现高精度图像识别与实时跟踪](https://blog.csdn.net/CC1991_/article/details/153261471)
+
++ [电脑没法ping通某个网段的ip](https://blog.csdn.net/zwh1zwh/article/details/153350610)
+
++ [基于单片机的PID调节脉动真空灭菌器上位机远程监控设计](https://blog.csdn.net/diandengxiaoming/article/details/153274247)
+
