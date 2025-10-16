@@ -25,3 +25,5 @@
 
 + [4499 元起：荣耀发布 Magic 8 标准版手机，搭第五代骁龙 8 至尊版、MagicOS 10 系统](https://m.ithome.com/html/889744.htm)
 
++ [消息称苹果首次为 iPhone 18 Pro 系列手机引入可变光圈，由立讯精密、舜宇光学供应部件](https://m.ithome.com/html/889721.htm)
+
