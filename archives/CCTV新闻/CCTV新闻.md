@@ -167,3 +167,9 @@
 
 + [以色列移交又一批巴勒斯坦被扣押人员遗体](https://news.cctv.com/2025/10/17/ARTI0Dekty9AUM1yxXDn8yx2251017.shtml)
 
++ [“和谐” 2026年米兰-科尔蒂纳冬奥会开幕式主题揭晓](https://news.cctv.com/2025/10/17/ARTI0wunRN5OKSl7PfKAXpTg251017.shtml)
+
++ [俄方发起、时长2.5小时 俄美总统时隔近两月再通话细节公布](https://news.cctv.com/2025/10/17/ARTIt803ubsLG9diTCJUH5Mo251017.shtml)
+
++ [14辆满载燃料和天然气的卡车进入加沙地带](https://news.cctv.com/2025/10/17/ARTIHOO1a5ehFtGchm0rQQGo251017.shtml)
+
