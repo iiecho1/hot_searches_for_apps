@@ -173,3 +173,13 @@
 
 + [【AI大模型前沿】IndexTTS2：B站开源的零样本语音合成模型，实现情感与时长精准控制](https://blog.csdn.net/xiaobing259/article/details/153040671)
 
++ [改变世界的数学—智能时代的算法文明【改变世界的数学】](https://blog.csdn.net/weixin_52908342/article/details/153353972)
+
++ [【MySQL】事务](https://blog.csdn.net/yj20040627/article/details/152907178)
+
++ [【完整源码+数据集+部署教程】起重机与载荷检测定位系统源码和数据集：改进yolo11-AFPN-P345](https://blog.csdn.net/weixin_43860634/article/details/153319566)
+
++ [ 修电脑日志--换网卡](https://blog.csdn.net/2401_88061610/article/details/153204084)
+
++ [通过一个typescript的小游戏，使用单元测试实战（二）](https://blog.csdn.net/sincejuly1995/article/details/153275629)
+

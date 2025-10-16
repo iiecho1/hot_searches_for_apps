@@ -209,3 +209,5 @@
 
 + [中老越三国开展跨境重点传染病联合应急演练](https://news.cctv.com/2025/10/16/ARTIZQC2fOFnlpv9smmoOgRK251016.shtml)
 
++ [美国关键通胀数据因政府“停摆”推迟发布](https://news.cctv.com/2025/10/16/ARTIBYM8EZRYttsm9X8FecND251016.shtml)
+
