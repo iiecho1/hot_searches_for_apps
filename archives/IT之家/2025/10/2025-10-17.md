@@ -51,3 +51,9 @@
 
 + [苹果 M5 版 iPad Pro 支持 120Hz 外接显示器，新 Studio Display 呼之欲出](https://m.ithome.com/html/889784.htm)
 
++ [零跑 D19 豪华旗舰 SUV 亮相：增程版纯电续航 500km，纯电版搭载 115kWh 电池](https://m.ithome.com/html/890049.htm)
+
++ [商务部部长王文涛会见苹果公司 CEO 库克：欢迎继续深化对华合作，加大在华投入](https://m.ithome.com/html/890070.htm)
+
++ [OPPO 首席产品官刘作虎：Find X9 全球首发全焦段哈苏 8K 超清照片、4K 超清实况](https://m.ithome.com/html/890036.htm)
+
