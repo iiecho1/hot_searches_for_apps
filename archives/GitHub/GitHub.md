@@ -35,3 +35,23 @@
 
 + [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
++ [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
++ [dockur/windows](https://github.com/dockur/windows)
+
++ [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
++ [stamparm/maltrail](https://github.com/stamparm/maltrail)
+
++ [keycloak/keycloak](https://github.com/keycloak/keycloak)
+
++ [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
++ [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
+
