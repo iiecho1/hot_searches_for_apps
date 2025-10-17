@@ -187,3 +187,11 @@
 
 + [泽连斯基访美谈“战斧”前一日 俄美总统“卡点”通话再约会面](https://news.cctv.com/2025/10/17/ARTI5bYuHS5GXbQMGR6mn7Jr251017.shtml)
 
++ [日本临时国会会期确定 或将于21日进行首相指名选举](https://news.cctv.com/2025/10/17/ARTI0Hi3m5PJEMYzfJDx6keP251017.shtml)
+
++ [菲律宾宿务省地震死亡人数上升至79人](https://news.cctv.com/2025/10/17/ARTIO136o5UpMfONsEFxBViW251017.shtml)
+
++ [海军83舰编队抵达泰国进行友好访问](https://photo.cctv.com/2025/10/17/PHOALnLaL4Xz0fvCPDNP2Yfj251017.shtml)
+
++ [涉嫌不当处理机密信息 曾任特朗普助理的博尔顿遭起诉](https://news.cctv.com/2025/10/17/ARTIiHLiTYXPcQoT1pNPjVA1251017.shtml)
+

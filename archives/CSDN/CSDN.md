@@ -133,3 +133,9 @@
 
 + [小小 Postgres，何以替代 Redis、MongoDB 甚至 ES？](https://blog.csdn.net/Alisen39/article/details/153332968)
 
++ [Qoder上线提示词增强功能，将开发者从 “提示词“ 的负担中解放出来](https://blog.csdn.net/weixin_62765017/article/details/153264264)
+
++ [【角色架构分析】燕洵：一个名字之下的双重设计模式与悲剧性内存泄漏](https://blog.csdn.net/eidolon_foot/article/details/153276756)
+
++ [JAVA校园跑腿校园外卖源码校园外卖小程序校园代买帮忙外卖源码社区外卖源码小程序+公众号+h5](https://blog.csdn.net/2401_89037213/article/details/153256097)
+
