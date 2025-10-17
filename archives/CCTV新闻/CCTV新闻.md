@@ -173,3 +173,17 @@
 
 + [14辆满载燃料和天然气的卡车进入加沙地带](https://news.cctv.com/2025/10/17/ARTIHOO1a5ehFtGchm0rQQGo251017.shtml)
 
++ [IMF总裁：全球经济好于预期 不确定性成新常态](https://news.cctv.com/2025/10/17/ARTImXxjkiFkFLTYCMKzdQO1251017.shtml)
+
++ [摩尔多瓦宪法法院确认执政党赢得议会选举](https://news.cctv.com/2025/10/17/ARTIJuDqFh8MGkSpaNtFt8x6251017.shtml)
+
++ [阿富汗和巴基斯坦或在多哈举行会谈](https://news.cctv.com/2025/10/17/ARTIswSB5sGu2FvohB5MTmGB251017.shtml)
+
++ [墨西哥强降雨已致70人死亡 另有72人失踪](https://news.cctv.com/2025/10/17/ARTIsSXRb9kyR5bFUCimE6q9251017.shtml)
+
++ [美政府“停摆”已超半月 孕育“新历史纪录” 两党却还斗得火热](https://news.cctv.com/2025/10/17/ARTIHGhRUKLkRQvUAhuAYU6a251017.shtml)
+
++ [匈牙利：正筹备美俄领导人会晤](https://news.cctv.com/2025/10/17/ARTImDsmIhFXc9zf1Y7OOIwL251017.shtml)
+
++ [泽连斯基访美谈“战斧”前一日 俄美总统“卡点”通话再约会面](https://news.cctv.com/2025/10/17/ARTI5bYuHS5GXbQMGR6mn7Jr251017.shtml)
+
