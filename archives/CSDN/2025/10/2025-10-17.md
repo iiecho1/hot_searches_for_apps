@@ -209,3 +209,7 @@
 
 + [Vue Router 路由元信息（meta）详解](https://blog.csdn.net/2401_87008233/article/details/153415892)
 
++ [实测PaddleOCR-VL：文心4.5最强衍生模型如何重构文档处理效率](https://blog.csdn.net/g310773517/article/details/153473953)
+
++ [【Node.js】为什么擅长处理 I/O 密集型应用？](https://blog.csdn.net/XiugongHao/article/details/153410146)
+
