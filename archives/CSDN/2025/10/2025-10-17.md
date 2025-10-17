@@ -141,3 +141,11 @@
 
 + [CCF-GESP 等级考试 2025年9月认证C++一级真题解析](https://blog.csdn.net/yuyanjingtao/article/details/153329251)
 
++ [数码论坛|基于SprinBoot+vue的数码论坛系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/153403721)
+
++ [基于大数据爬虫+hadoop+Echarts的茶叶电商销售数据分析平台设计和实现(精品源码+精品论文+数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/151215564)
+
++ [GitHub 热榜项目 - 日榜(2025-10-17)](https://blog.csdn.net/u014390502/article/details/153459849)
+
++ [KingbaseES数据库：MongoDB 的优质平替选择，轻松解决迁移痛点](https://blog.csdn.net/weixin_43151418/article/details/153410783)
+

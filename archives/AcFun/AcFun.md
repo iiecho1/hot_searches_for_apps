@@ -87,3 +87,5 @@
 
 + [【绝望女神/庆生翻唱】【love the way you lie】](https://m.acfun.cn/v/?ac=47921461)
 
++ [《嗜血法医》解说第14期，黑暗中的微光！当恶魔成为守护神！](https://m.acfun.cn/v/?ac=47919571)
+

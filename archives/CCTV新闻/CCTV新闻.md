@@ -201,3 +201,11 @@
 
 + [日本前首相村山富市去世](https://news.cctv.com/2025/10/17/ARTItSps6X4H5DLk35XsKTXE251017.shtml)
 
++ [应对禽流感风险 荷兰发布全国“封闭养鸡令”](https://news.cctv.com/2025/10/17/ARTIG7PegRIVFqmiZXfeU8Mf251017.shtml)
+
++ [蒙古国总理赞丹沙塔尔被解职](https://news.cctv.com/2025/10/17/ARTI9qN6DNuitM7KqsKMVfjb251017.shtml)
+
++ [全球妇女峰会对世界妇女事业发展至关重要——访俄科学院东方学研究所著名专家别拉娅](https://news.cctv.com/2025/10/17/ARTIdCx1lUitX4cJponEsKDa251017.shtml)
+
++ [美疾控中心前官员：大幅裁员恐影响疾控中心核心职能](https://news.cctv.com/2025/10/17/ARTInSCVfyjuphqCftIINAOO251017.shtml)
+
