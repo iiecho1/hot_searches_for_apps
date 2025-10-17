@@ -83,3 +83,7 @@
 
 + [大哥挺开心啊！★手机竖屏1671★](https://m.acfun.cn/v/?ac=47921235)
 
++ [【余若】世末歌者](https://m.acfun.cn/v/?ac=47921340)
+
++ [【绝望女神/庆生翻唱】【love the way you lie】](https://m.acfun.cn/v/?ac=47921461)
+

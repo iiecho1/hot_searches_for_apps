@@ -195,3 +195,9 @@
 
 + [涉嫌不当处理机密信息 曾任特朗普助理的博尔顿遭起诉](https://news.cctv.com/2025/10/17/ARTIiHLiTYXPcQoT1pNPjVA1251017.shtml)
 
++ [视频丨菲律宾发生6.0级地震 监控画面记录强震瞬间](https://news.cctv.com/2025/10/17/ARTITxaMamGgjxSrcPKL75Vz251017.shtml)
+
++ [美中情局在委内瑞拉开展“秘密行动” 拉美多方发声谴责](https://news.cctv.com/2025/10/17/ARTIfiaPGZwGlcEGFAJw8sjP251017.shtml)
+
++ [日本前首相村山富市去世](https://news.cctv.com/2025/10/17/ARTItSps6X4H5DLk35XsKTXE251017.shtml)
+
