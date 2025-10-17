@@ -211,3 +211,11 @@
 
 + [金价今晨再创新高 一度触及4380美元/盎司](https://jingji.cctv.com/2025/10/17/ARTISnN2v6nttDRQm8HQgxWA251017.shtml)
 
++ [乌克兰多地实施紧急断电 全国工业用户遭限电](https://news.cctv.com/2025/10/17/ARTIjgpgMhQCEIwar1NHYsak251017.shtml)
+
++ [俄宇航员完成今年首次太空行走](https://news.cctv.com/2025/10/17/ARTIfoaIvyIz4WlzegC93bzZ251017.shtml)
+
++ [空袭船只 炫耀武力 美委紧张关系继续升级](https://news.cctv.com/2025/10/17/ARTI3EKTC3OKJILCYXsPSL9O251017.shtml)
+
++ [欧盟就实施防务工业计划达成协议 加速摆脱对美武器依赖](https://news.cctv.com/2025/10/17/ARTIJ2ajnvfYLuLNIHDRe9u8251017.shtml)
+

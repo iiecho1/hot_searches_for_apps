@@ -157,3 +157,17 @@
 
 + [SpringBoot 启动时执行某些操作的 8 种方式](https://blog.csdn.net/qq_26629277/article/details/153422947)
 
++ [AI修图革命：IOPaint+cpolar让废片拯救触手可及](https://blog.csdn.net/2302_78391795/article/details/153466262)
+
++ [学术翻译神器：Docker+cpolar构建你的跨语言数学文档翻译中枢](https://blog.csdn.net/2301_80863610/article/details/153467237)
+
++ [Elasticsearch 推理 API 增加了开放的可定制服务](https://blog.csdn.net/UbuntuTouch/article/details/153458203)
+
++ [Java外功实战(4)——SpringBoot登录认证全栈实现：Session、统一结果封装、MD5加密与拦截器](https://blog.csdn.net/2401_89167985/article/details/153261457)
+
++ [代码调试新纪元：OpenHands+cpolar让AI编程助手随身可用](https://blog.csdn.net/Zero_VPN/article/details/153466920)
+
++ [033_预言机安全详解：从Chainlink到2025年去中心化预言机网络，构建智能合约的可信数据源](https://blog.csdn.net/lxcxjxhx/article/details/153274791)
+
++ [Cloud IDE vs 本地IDE：AI编程时代的“降维打击“](https://blog.csdn.net/weixin_44592002/article/details/153414455)
+
