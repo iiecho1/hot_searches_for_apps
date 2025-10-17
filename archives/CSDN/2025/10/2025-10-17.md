@@ -149,3 +149,7 @@
 
 + [KingbaseES数据库：MongoDB 的优质平替选择，轻松解决迁移痛点](https://blog.csdn.net/weixin_43151418/article/details/153410783)
 
++ [TensorFlow深度学习实战——节点分类](https://blog.csdn.net/LOVEmy134611/article/details/144689426)
+
++ [MySQL 数据库核心操作全解析：从创建到备份与连接管理](https://blog.csdn.net/2401_83603768/article/details/153408690)
+

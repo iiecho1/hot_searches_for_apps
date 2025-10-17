@@ -39,3 +39,7 @@
 
 + [感谢华为打钱，准备拿钱买个 iphone17 512g](https://www.v2ex.com/t/1166341)
 
++ [大师们，有没有什么过来人的建议？](https://www.v2ex.com/t/1166280)
+
++ [我惊了， esim 不能异地办理](https://www.v2ex.com/t/1166205)
+
