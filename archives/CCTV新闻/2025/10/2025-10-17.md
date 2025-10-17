@@ -219,3 +219,9 @@
 
 + [欧盟就实施防务工业计划达成协议 加速摆脱对美武器依赖](https://news.cctv.com/2025/10/17/ARTIJ2ajnvfYLuLNIHDRe9u8251017.shtml)
 
++ [马达加斯加军方领导人宣誓就任临时总统](https://news.cctv.com/2025/10/17/ARTIzV0nyRnHJTFqYdcStxz5251017.shtml)
+
++ [日本自民党与维新会磋商取得“大幅进展”](https://news.cctv.com/2025/10/17/ARTIH3q53oQ5Fw29r5FUJlqP251017.shtml)
+
++ [IMF总裁警示人工智能或扩大发展差距](https://news.cctv.com/2025/10/17/ARTIpMoV28Wb9nDOwSVk9yOe251017.shtml)
+
