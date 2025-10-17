@@ -195,3 +195,17 @@
 
 + [BFF层架构演进：GraphQL网关在微前端与微服务协同中的实践](https://blog.csdn.net/a1057477693/article/details/153270541)
 
++ [基于深度学习YOLOv12的麻将识别检测系统（YOLOv12+YOLO数据集+UI界面+登录注册界面+Python项目源码+模型）](https://blog.csdn.net/m0_68036862/article/details/153470247)
+
++ [K8s 核心架构是什么？组件怎么协同工作的？](https://blog.csdn.net/IT99_/article/details/153412405)
+
++ [无人机编队飞行原理与Python仿真实现完整指南](https://blog.csdn.net/xxzhaoming/article/details/153419337)
+
++ [【Linux】Linux 进程通信：System V 共享内存（最快方案）C++ 封装实战 + 通信案例，4 类经典 Bug 快速修复](https://blog.csdn.net/wheeldown/article/details/153474463)
+
++ [Vibe Coding：数据库 / 云数据库平台](https://blog.csdn.net/hezuijiudexiaobai/article/details/153474229)
+
++ [2025吉比特-游戏引擎开发-一面复盘](https://blog.csdn.net/liupang14159/article/details/153414475)
+
++ [Vue Router 路由元信息（meta）详解](https://blog.csdn.net/2401_87008233/article/details/153415892)
+

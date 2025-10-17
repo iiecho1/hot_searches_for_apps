@@ -231,3 +231,5 @@
 
 + [石破茂向靖国神社献祭品](https://news.cctv.com/2025/10/17/ARTI9XeONUzJkAVlu3SaRyEt251017.shtml)
 
++ [国际观察｜美国政府“停摆”还要多久](https://news.cctv.com/2025/10/17/ARTIHDY3FHhDHTDjRzkyivBC251017.shtml)
+
