@@ -29,3 +29,9 @@
 
 + [微软详解 Win11 25H2 全新体验：Copilot 全面升级、文件资源管理器引入“AI 操作”智能体、预装 Edit 编辑器](https://m.ithome.com/html/890076.htm)
 
++ [微软公布 Office 新版图标“废案”：采用渐变色，形态更大胆](https://m.ithome.com/html/889802.htm)
+
++ [美国铸币局官宣：苹果联合创始人乔布斯将登上美国创新一美元硬币](https://m.ithome.com/html/889780.htm)
+
++ [苹果 M5 版 iPad Pro 支持 120Hz 外接显示器，新 Studio Display 呼之欲出](https://m.ithome.com/html/889784.htm)
+
