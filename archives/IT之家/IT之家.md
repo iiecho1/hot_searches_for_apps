@@ -25,3 +25,7 @@
 
 + [OPPO 首席产品官刘作虎：Find X9 全球首发全焦段哈苏 8K 超清照片、4K 超清实况](https://m.ithome.com/html/890036.htm)
 
++ [印尼确认将采购中国歼-10 战斗机，提升空军现代化作战能力](https://m.ithome.com/html/890077.htm)
+
++ [微软详解 Win11 25H2 全新体验：Copilot 全面升级、文件资源管理器引入“AI 操作”智能体、预装 Edit 编辑器](https://m.ithome.com/html/890076.htm)
+

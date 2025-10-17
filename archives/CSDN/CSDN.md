@@ -133,3 +133,7 @@
 
 + [想让设计团队创意实时碰撞？用 Penpot+cpolar 实现无边界协作](https://blog.csdn.net/2301_80350265/article/details/153466723)
 
++ [漏洞扫描POC和web漏洞扫描工具](https://blog.csdn.net/yang2330648064/article/details/153403387)
+
++ [【完整源码+数据集+部署教程】飞机构件识别图像分割系统源码＆数据集分享 [yolov8-seg-p2等50+全套改进创新点发刊_一键训练教程_Web前端展示]](https://blog.csdn.net/weixin_43860634/article/details/153410239)
+

@@ -161,3 +161,5 @@
 
 + [“既无必要，也无正当理由”，多家主流美媒拒签五角大楼新规](https://news.cctv.com/2025/10/15/ARTINkAdVdS2hOPaUYA3ivlU251015.shtml)
 
++ [一艘移民船在希腊附近海域沉没致2死10伤](https://news.cctv.com/2025/10/18/ARTIpkew7bO8jarhEfLYzDIP251017.shtml)
+

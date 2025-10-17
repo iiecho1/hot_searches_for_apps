@@ -35,3 +35,5 @@
 
 + [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
++ [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)
+
