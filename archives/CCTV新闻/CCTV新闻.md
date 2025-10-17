@@ -209,3 +209,5 @@
 
 + [美疾控中心前官员：大幅裁员恐影响疾控中心核心职能](https://news.cctv.com/2025/10/17/ARTInSCVfyjuphqCftIINAOO251017.shtml)
 
++ [金价今晨再创新高 一度触及4380美元/盎司](https://jingji.cctv.com/2025/10/17/ARTISnN2v6nttDRQm8HQgxWA251017.shtml)
+

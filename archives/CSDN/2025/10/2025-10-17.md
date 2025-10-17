@@ -153,3 +153,7 @@
 
 + [MySQL 数据库核心操作全解析：从创建到备份与连接管理](https://blog.csdn.net/2401_83603768/article/details/153408690)
 
++ [计算机视觉（opencv）——基于 MediaPipe 的实时面部表情识别](https://blog.csdn.net/2302_78022640/article/details/153390535)
+
++ [SpringBoot 启动时执行某些操作的 8 种方式](https://blog.csdn.net/qq_26629277/article/details/153422947)
+
