@@ -101,3 +101,11 @@
 
 + [qData 数据中台在 ARM 架构与信创环境下的兼容性与适配研究](https://blog.csdn.net/qiantongkeji/article/details/153415167)
 
++ [无人机编队飞行原理与Python仿真实现完整指南](https://blog.csdn.net/xxzhaoming/article/details/153419337)
+
++ [Spring Boot + Kafka 全面实战案例](https://blog.csdn.net/qq_39251691/article/details/153405912)
+
++ [《智能体搭建：博查 （Web Search）MCP+Trae 插件调用全流程拆解》](https://blog.csdn.net/Dovis5884/article/details/153416959)
+
++ [HTTP 协议](https://blog.csdn.net/m0_60915009/article/details/153392905)
+

@@ -33,3 +33,5 @@
 
 + [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 
++ [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
