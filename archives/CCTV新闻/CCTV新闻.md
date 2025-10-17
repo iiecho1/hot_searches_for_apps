@@ -163,3 +163,9 @@
 
 + [一艘移民船在希腊附近海域沉没致2死10伤](https://news.cctv.com/2025/10/18/ARTIpkew7bO8jarhEfLYzDIP251017.shtml)
 
++ [英国安德鲁王子放弃王室头衔](https://news.cctv.com/2025/10/18/ARTIJQicWO1vzUCJriORfEgS251018.shtml)
+
++ [泽连斯基称愿意接受双边或三边会谈 特朗普称俄乌冲突应结束](https://news.cctv.com/2025/10/18/ARTIAsgg8TUdFC8wEc53RCZL251018.shtml)
+
++ [古特雷斯提议将2026年联合国人员编制削减18.8%](https://news.cctv.com/2025/10/18/ARTIXyhJOrGfEsnQmm2z1NPu251018.shtml)
+
