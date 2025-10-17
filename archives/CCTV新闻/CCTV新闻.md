@@ -225,3 +225,9 @@
 
 + [IMF总裁警示人工智能或扩大发展差距](https://news.cctv.com/2025/10/17/ARTIpMoV28Wb9nDOwSVk9yOe251017.shtml)
 
++ [民调：美国政府“停摆”是“大事”　多数人认为两党都有责任](https://news.cctv.com/2025/10/17/ARTIVH7sixNt63pQxH5JzLqV251017.shtml)
+
++ [国际观察丨从光伏应用看中非绿色合作赋能发展](https://news.cctv.com/2025/10/17/ARTIPUT79AK9IqD3lq89IpGA251017.shtml)
+
++ [石破茂向靖国神社献祭品](https://news.cctv.com/2025/10/17/ARTI9XeONUzJkAVlu3SaRyEt251017.shtml)
+

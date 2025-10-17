@@ -185,3 +185,13 @@
 
 + [qData 数据中台在 ARM 架构与信创环境下的兼容性与适配研究](https://blog.csdn.net/qiantongkeji/article/details/153415167)
 
++ [计算机视觉（opencv）——实时颜色检测](https://blog.csdn.net/2302_78022640/article/details/153390780)
+
++ [【计算机网络】HTTP协议核心知识梳理](https://blog.csdn.net/Arabys/article/details/153213997)
+
++ [漏洞扫描POC和web漏洞扫描工具](https://blog.csdn.net/yang2330648064/article/details/153403387)
+
++ [【论文学习】医学图像分割论文](https://blog.csdn.net/m0_62969865/article/details/153411586)
+
++ [BFF层架构演进：GraphQL网关在微前端与微服务协同中的实践](https://blog.csdn.net/a1057477693/article/details/153270541)
+
