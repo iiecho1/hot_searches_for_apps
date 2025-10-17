@@ -109,3 +109,27 @@
 
 + [HTTP 协议](https://blog.csdn.net/m0_60915009/article/details/153392905)
 
++ [AI 在数据库操作中的各类应用场景、方案与实践指南](https://blog.csdn.net/csdn_silent/article/details/153271167)
+
++ [基于大数据爬虫+hadoop+Echarts的茶叶电商销售数据分析平台设计和实现(精品源码+精品论文+数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/151215564)
+
++ [C++基于opencv实现的暗通道的先验图像去雾](https://blog.csdn.net/FL1623863129/article/details/153307243)
+
++ [【MySQL】数据库表的CURD(二)](https://blog.csdn.net/2301_81670477/article/details/153276951)
+
++ [大数据背景下时序数据库选型指南：国产开源技术的突破与实践](https://blog.csdn.net/beautifulmemory/article/details/153330128)
+
++ [【论文学习】医学图像分割论文](https://blog.csdn.net/m0_62969865/article/details/153411586)
+
++ [《扫雷：病毒蔓延》- 颠覆传统的动态扫雷游戏【附源码】](https://blog.csdn.net/qq_27362017/article/details/153334660)
+
++ [Vue+mockjs+Axios 案例实践](https://blog.csdn.net/niuguobao/article/details/153419373)
+
++ [中科大少年班记（2025年10月）](https://blog.csdn.net/tanjunming2020/article/details/153273236)
+
++ [【论文阅读】Knowledge Circuits in Pretrained Transformers](https://blog.csdn.net/xianshuiyihui/article/details/153410894)
+
++ [Linux操作系统-教你如何正确认识：命令行参数及环境变量](https://blog.csdn.net/2301_80236968/article/details/153274401)
+
++ [想让设计团队创意实时碰撞？用 Penpot+cpolar 实现无边界协作](https://blog.csdn.net/2301_80350265/article/details/153466723)
+
