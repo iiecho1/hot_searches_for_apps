@@ -67,3 +67,5 @@
 
 + [三呆跑刀竞速](https://m.acfun.cn/v/?ac=47927389)
 
++ [EXID DDD 抖抖抖](https://m.acfun.cn/v/?ac=47926998)
+
