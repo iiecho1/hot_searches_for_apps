@@ -37,3 +37,9 @@
 
 + [5 号电池你们一般会选择干电池还是充电的电池？](https://www.v2ex.com/t/1166418)
 
++ [Windows 的 “更新并关机” 并不会关机](https://www.v2ex.com/t/1166429)
+
++ [国行  iPhone  Air 最多只能写入 2 张 eSIM，包括国内外运营商](https://www.v2ex.com/t/1166391)
+
++ [家里想放一台台式机 Mac，选 iMac 还是 Mac mini](https://www.v2ex.com/t/1166409)
+

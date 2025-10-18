@@ -71,3 +71,5 @@
 
 + [《大家一起oiiaioiiiiai》](https://m.acfun.cn/v/?ac=47924581)
 
++ [【销量破3000万却连续2月新史低，更有2部经典大作1折打包入手！】STEAM本周高评价史低游戏大推](https://m.acfun.cn/v/?ac=47923790)
+

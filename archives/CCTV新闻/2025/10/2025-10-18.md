@@ -175,3 +175,5 @@
 
 + [消息人士称美乌总统闭门会谈气氛“紧张、尴尬”](https://news.cctv.com/2025/10/18/ARTIxDpty314zZLSMF4s85D3251018.shtml)
 
++ [印度民众购买节庆物品庆祝排灯节](https://photo.cctv.com/2025/10/18/PHOANFm8RatuGZk3HaJh0LHh251018.shtml)
+
