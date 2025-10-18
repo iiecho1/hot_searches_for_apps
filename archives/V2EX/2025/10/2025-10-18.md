@@ -79,3 +79,5 @@
 
 + [就杨振宁逝世这件事，想跟大家延伸讨论下](https://www.v2ex.com/t/1166618)
 
++ [iPhone 17 杀后台太严重了，还是买 iPhone 17 Pro 吧](https://www.v2ex.com/t/1166610)
+
