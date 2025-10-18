@@ -189,3 +189,11 @@
 
 + [美国联邦政府“停摆”影响扩大 核安局、法院大量员工被迫休假](https://news.cctv.com/2025/10/18/ARTIvGUwePolUslyKQrBDrnI251018.shtml)
 
++ [专访丨中国减贫成就为全球妇女赋权提供绝佳范本——访联合国妇女署阿拉伯国家区域主任杜赖德](https://news.cctv.com/2025/10/18/ARTIC5WU93A0XSlCWK2y44Ie251018.shtml)
+
++ [共话中国经济新机遇｜专访：只要走进中国，就能切身体会到这个国家的巨大发展成就——访葡萄牙经济兼国土融合部长阿尔梅达](https://news.cctv.com/2025/10/18/ARTIIVpsZYpNjLI8ePZujJKR251018.shtml)
+
++ [全球产供链安全稳定需要共同维护（钟声）](https://news.cctv.com/2025/10/18/ARTI2RNkOfWqEfTsSFfV2I9l251018.shtml)
+
++ [特稿丨迎风搏浪 勇毅前行——推动世界经济不断前行的“中国引擎”](https://news.cctv.com/2025/10/18/ARTIwNgnewHHX3GFd7SGaBDY251018.shtml)
+
