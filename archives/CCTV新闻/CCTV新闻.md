@@ -177,3 +177,5 @@
 
 + [印度民众购买节庆物品庆祝排灯节](https://photo.cctv.com/2025/10/18/PHOANFm8RatuGZk3HaJh0LHh251018.shtml)
 
++ [柬埔寨遣返64名韩国网络诈骗嫌疑人](https://news.cctv.com/2025/10/18/ARTIBM18oG48hAaZ7Y3w8BjJ251018.shtml)
+

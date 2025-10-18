@@ -43,3 +43,7 @@
 
 + [家里想放一台台式机 Mac，选 iMac 还是 Mac mini](https://www.v2ex.com/t/1166409)
 
++ [Linux 桌面没调好的，别怀疑，一定是技术没学到位](https://www.v2ex.com/t/1166535)
+
++ [一人一车沿海自驾两个月](https://www.v2ex.com/t/1166414)
+
