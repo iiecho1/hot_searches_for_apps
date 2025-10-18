@@ -23,3 +23,7 @@
 
 + [避雷 aicodemirror](https://www.v2ex.com/t/1166447)
 
++ [大家的电子设备，一般多久换一次？](https://www.v2ex.com/t/1166283)
+
++ [S6 想换 S11，哪里可以蹲到好价](https://www.v2ex.com/t/1166289)
+

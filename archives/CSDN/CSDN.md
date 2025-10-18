@@ -139,3 +139,9 @@
 
 + [Linux 进程信号机制详解](https://blog.csdn.net/cccyi7/article/details/153419574)
 
++ [宽依赖的代价：Spark 与 MapReduce Shuffle 的数据重分布对比](https://blog.csdn.net/m0_74385041/article/details/153421876)
+
++ [《简易制作 Linux Shell：详细分析原理、设计与实践》](https://blog.csdn.net/Dovis5884/article/details/152663334)
+
++ [大模型开发 - 24 Embeddings Model API：深入解析 Spring AI Embeddings Model API_构建语义理解的基石](https://blog.csdn.net/yangshangwei/article/details/153136167)
+
