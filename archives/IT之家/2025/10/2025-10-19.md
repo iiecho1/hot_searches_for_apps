@@ -35,3 +35,13 @@
 
 + [王腾离开小米后首次回应下一步计划：在考虑些创业的项目，尝试点新挑战](https://m.ithome.com/html/890271.htm)
 
++ [我国著名物理学家、诺贝尔物理学奖得主杨振宁逝世，享年 103 岁](https://m.ithome.com/html/890444.htm)
+
++ [华为 Mate 80 Pro 样机备案颜色曝光，消息称包含紫、青等一共 6 款](https://m.ithome.com/html/890415.htm)
+
++ [科技昨夜今晨 1018：华为鸿蒙 HarmonyOS 6 官宣 10 月 22 日发布；小米车主受网络攻击进展公布；“史上最薄”首批国行苹果 iPhone Air 售罄...](https://m.ithome.com/html/890397.htm)
+
++ [部分苹果 iPhone 17 Pro / Max 用户反馈机身褪色，主要影响星宇橙、深蓝色](https://m.ithome.com/html/890404.htm)
+
++ [奇瑞尹同跃与任正非在深圳华为总部会晤，智界产品总监暗示 9 系新车将至](https://m.ithome.com/html/890273.htm)
+

@@ -163,3 +163,15 @@
 
 + [高市早苗能否当选？日本首相指名选举三种可能结果→](https://news.cctv.com/2025/10/19/ARTIVw9VFLyYHxrjddNn7qTQ251019.shtml)
 
++ [胡塞武装扣押数名联合国工作人员](https://news.cctv.com/2025/10/19/ARTIi0M9xsJJS6JoFPspZlcL251019.shtml)
+
++ [特朗普称美军摧毁一艘“载有毒品”的大型潜艇](https://news.cctv.com/2025/10/19/ARTIVUt26DGUUtPhNeVyxoVA251019.shtml)
+
++ [以色列总理办公室：拉法口岸将暂时不开放](https://news.cctv.com/2025/10/19/ARTIUj487DbMSLlxuWjhVVQY251019.shtml)
+
++ [巴基斯坦和阿富汗在多哈举行会谈 讨论延长停火等议题](https://news.cctv.com/2025/10/19/ARTIKKRmImCPaVAQTdMoYt24251019.shtml)
+
++ [美国驻哥伦比亚大使馆外发生抗议 4名哥警察受伤](https://news.cctv.com/2025/10/19/ARTIHU95JyQpksZVHZAffttP251019.shtml)
+
++ [巴西东北部大巴翻车事故已致17人死亡](https://news.cctv.com/2025/10/19/ARTIpZsKIBQNNQiIAF1zp3Bh251019.shtml)
+
