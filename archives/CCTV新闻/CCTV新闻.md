@@ -185,3 +185,5 @@
 
 + [日本维新会退出在野党阵营共选首相的协商](https://news.cctv.com/2025/10/18/ARTIjqsuVl8NBRyDCTM1Np33251018.shtml)
 
++ [停工四周后 扎波罗热核电站外部受损电路修复工作重启](https://news.cctv.com/2025/10/18/ARTIVXAaTGX4izQ0xQhFf7Oy251018.shtml)
+

@@ -37,3 +37,25 @@
 
 + [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)
 
++ [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+
++ [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+
++ [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+
++ [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat)
+
++ [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+
++ [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
++ [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+
++ [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
++ [storybookjs/storybook](https://github.com/storybookjs/storybook)
+
++ [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
++ [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+
