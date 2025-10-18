@@ -187,3 +187,5 @@
 
 + [停工四周后 扎波罗热核电站外部受损电路修复工作重启](https://news.cctv.com/2025/10/18/ARTIVXAaTGX4izQ0xQhFf7Oy251018.shtml)
 
++ [美国联邦政府“停摆”影响扩大 核安局、法院大量员工被迫休假](https://news.cctv.com/2025/10/18/ARTIvGUwePolUslyKQrBDrnI251018.shtml)
+
