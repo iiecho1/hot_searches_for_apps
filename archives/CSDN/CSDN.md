@@ -145,3 +145,7 @@
 
 + [大模型开发 - 24 Embeddings Model API：深入解析 Spring AI Embeddings Model API_构建语义理解的基石](https://blog.csdn.net/yangshangwei/article/details/153136167)
 
++ [记录一个自动学习的脚本开发过程](https://blog.csdn.net/hbqjzx/article/details/153419678)
+
++ [HBuilder实现uniapp微信小程序项目到发布（超级详细）](https://blog.csdn.net/m0_62626838/article/details/153246534)
+

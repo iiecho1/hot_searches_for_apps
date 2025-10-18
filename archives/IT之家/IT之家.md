@@ -35,3 +35,27 @@
 
 + [苹果 M5 版 iPad Pro 支持 120Hz 外接显示器，新 Studio Display 呼之欲出](https://m.ithome.com/html/889784.htm)
 
++ [小米 REDMI K90 Pro Max 手机官图公布：流金白配色，“Sound by Bose”扬声器加持](https://m.ithome.com/html/890185.htm)
+
++ [华为 Mate 80 发布？央视《鸿蒙星光盛典》定档 11 月 28 日](https://m.ithome.com/html/890124.htm)
+
++ [Mate 80 发布会？华为鸿蒙操作系统 HarmonyOS 6 官宣 10 月 22 日特别发布](https://m.ithome.com/html/890148.htm)
+
++ [小米 REDMI 史上首款 Pro Max，REDMI K90 Pro Max 定档 10 月 23 日发布](https://m.ithome.com/html/890123.htm)
+
++ [小米 REDMI K90 Pro Max 真机图曝光，10 月 23 日发布](https://m.ithome.com/html/890332.htm)
+
++ [魏思琪接替王腾，出任小米中国区市场部总经理](https://m.ithome.com/html/890360.htm)
+
++ [消息称中国联通 / 电信暂不支持办理跨省 eSIM 转换业务，苹果 iPhone Air 首发用户需回号码归属地操作](https://m.ithome.com/html/890172.htm)
+
++ [“史上最薄”首批国行苹果 iPhone Air 售罄，10 月 22 日首发当天零售店已无现货可取](https://m.ithome.com/html/890157.htm)
+
++ [小米车主受到网络攻击新进展：480 人提供相关证据信息，初步判断 23 位车主可诉](https://m.ithome.com/html/890206.htm)
+
++ [消息称苹果 iPhone Air 国行最多只能写入 2 张 eSIM，包括内地及海外运营商](https://m.ithome.com/html/890245.htm)
+
++ [华为鸿蒙 HarmonyOS 5.1.0.150 SP15 版本今起推送，覆盖手机、平板系列产品](https://m.ithome.com/html/890379.htm)
+
++ [零跑汽车高级副总裁曹力：公司产品不会搭载华为乾崑智驾](https://m.ithome.com/html/890170.htm)
+

@@ -171,3 +171,7 @@
 
 + [特朗普见泽连斯基 排除美俄乌三方会](https://news.cctv.com/2025/10/18/ARTIrkVtkCLE15pzsdBvpFtM251018.shtml)
 
++ [中国代表在格利永人权对话会呼吁落实全球妇女峰会成果](https://news.cctv.com/2025/10/18/ARTIizTAeaUYyEhsmVGCbK3V251018.shtml)
+
++ [消息人士称美乌总统闭门会谈气氛“紧张、尴尬”](https://news.cctv.com/2025/10/18/ARTIxDpty314zZLSMF4s85D3251018.shtml)
+
