@@ -79,3 +79,5 @@
 
 + [这合理吗？](https://m.acfun.cn/v/?ac=47925682)
 
++ [玩归玩，闹归闹，KTV里别拍照](https://m.acfun.cn/v/?ac=47925687)
+

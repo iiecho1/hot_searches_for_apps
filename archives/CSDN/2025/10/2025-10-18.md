@@ -169,3 +169,5 @@
 
 + [Python爬虫数据可视化：深度分析贝壳成交价格趋势与分布](https://blog.csdn.net/Z_suger7/article/details/153331787)
 
++ [【深度学习计算机视觉】13：实战Kaggle比赛：图像分类 (CIFAR-10)](https://blog.csdn.net/Morse_Chen/article/details/153421219)
+

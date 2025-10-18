@@ -183,3 +183,5 @@
 
 + [延长停火在谈，巴阿边境又传爆炸声](https://news.cctv.com/2025/10/18/ARTIXoN58rkuoIVvBUrqeTOL251018.shtml)
 
++ [日本维新会退出在野党阵营共选首相的协商](https://news.cctv.com/2025/10/18/ARTIjqsuVl8NBRyDCTM1Np33251018.shtml)
+
