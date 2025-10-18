@@ -179,3 +179,7 @@
 
 + [柬埔寨遣返64名韩国网络诈骗嫌疑人](https://news.cctv.com/2025/10/18/ARTIBM18oG48hAaZ7Y3w8BjJ251018.shtml)
 
++ [特朗普军事施压委内瑞拉 美议员强调战争须经国会授权](https://news.cctv.com/2025/10/18/ARTI4Mfhonh33R2950BXJB7w251018.shtml)
+
++ [延长停火在谈，巴阿边境又传爆炸声](https://news.cctv.com/2025/10/18/ARTIXoN58rkuoIVvBUrqeTOL251018.shtml)
+

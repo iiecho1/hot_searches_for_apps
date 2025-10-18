@@ -163,3 +163,9 @@
 
 + [家庭相册私有化:Immich+cpolar构建你的数字记忆堡垒](https://blog.csdn.net/2301_76341691/article/details/153466128)
 
++ [探索 MaynorAI：你的一站式 AI 服务平台](https://blog.csdn.net/xianyu120/article/details/153478994)
+
++ [在Linux服务器上使用Jenkins和Poetry实现Python项目自动化](https://blog.csdn.net/weixin_30777913/article/details/153410470)
+
++ [Python爬虫数据可视化：深度分析贝壳成交价格趋势与分布](https://blog.csdn.net/Z_suger7/article/details/153331787)
+
