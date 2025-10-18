@@ -171,3 +171,9 @@
 
 + [【深度学习计算机视觉】13：实战Kaggle比赛：图像分类 (CIFAR-10)](https://blog.csdn.net/Morse_Chen/article/details/153421219)
 
++ [AI搜索自由：Perplexica+cpolar构建你的私人知识引擎](https://blog.csdn.net/Pocker_Spades_A/article/details/153515768)
+
++ [MongoDB分片(Sharding)全面解析：从原理到实战](https://blog.csdn.net/qq_41840843/article/details/149283432)
+
++ [从监听风险到绝对隐私：Briefing+CPolar构建远程会议安全生态的实践与演进](https://blog.csdn.net/2501_92796370/article/details/153328158)
+
