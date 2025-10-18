@@ -181,3 +181,5 @@
 
 + [【Linux系列】掌控 Linux 的脉搏：深入理解进程控制](https://blog.csdn.net/2302_80177460/article/details/152522710)
 
++ [【案例实战】鸿蒙智能家居控制中心实战：从架构设计到性能优化的全流程实践](https://blog.csdn.net/zzywxc787/article/details/153473701)
+
