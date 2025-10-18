@@ -107,3 +107,19 @@
 
 + [【角色架构分析】燕洵：一个名字之下的双重设计模式与悲剧性内存泄漏](https://blog.csdn.net/eidolon_foot/article/details/153276756)
 
++ [消息中间件选型的艺术：如何在RocketMQ、Kafka、RabbitMQ中做出正确决策](https://blog.csdn.net/qq_42055933/article/details/153475408)
+
++ [大数据Spark（六十九）：Transformation转换算子intersection和subtract使用案例](https://blog.csdn.net/xiaoweite1/article/details/153482738)
+
++ [方法论：从社会契约到公司流程制度](https://blog.csdn.net/qq_40036519/article/details/153534868)
+
++ [AI越狱攻防战：揭秘大模型安全威胁](https://blog.csdn.net/m0_62396717/article/details/153483974)
+
++ [Vue 3 完全指南：响应式原理、组合式 API 与实战优化](https://blog.csdn.net/qq_46123200/article/details/153479778)
+
++ [重生之我在大学自学鸿蒙开发第九天-《分布式流转》](https://blog.csdn.net/2302_80329073/article/details/153472162)
+
++ [Three.js光照技术详解：为3D场景注入灵魂](https://blog.csdn.net/2503_92624912/article/details/153534885)
+
++ [.NET 10深度解析：性能革新与开发生态的全新篇章](https://blog.csdn.net/weixin_52473844/article/details/153406189)
+
