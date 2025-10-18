@@ -25,3 +25,13 @@
 
 + [零跑汽车高级副总裁曹力：公司产品不会搭载华为乾崑智驾](https://m.ithome.com/html/890170.htm)
 
++ [浙江宣传部部长赵承：去年《黑神话：悟空》全球销售量超 2800 万，销售额达 90 亿元](https://m.ithome.com/html/890333.htm)
+
++ [消息称苹果 iPhone 17 系列截止 10 月 12 日激活近 400 万，上周全系包揽单品 TOP3](https://m.ithome.com/html/890361.htm)
+
++ [小米 REDMI K90 Pro Max 丹宁色机身亮相：牛仔蓝 + 第三代科技纳米皮](https://m.ithome.com/html/890233.htm)
+
++ [一加氧 OS 16 系统发布：液态玻璃 UI、增强 AI 写作等，支持互联“苹果生态”](https://m.ithome.com/html/890366.htm)
+
++ [王腾离开小米后首次回应下一步计划：在考虑些创业的项目，尝试点新挑战](https://m.ithome.com/html/890271.htm)
+

@@ -101,3 +101,9 @@
 
 + [Linux操作系统-教你如何正确认识：命令行参数及环境变量](https://blog.csdn.net/2301_80236968/article/details/153274401)
 
++ [Navicat Premium 与金仓数据库融合实践：高效管理国产数据库新方案](https://blog.csdn.net/2302_78391795/article/details/153351899)
+
++ [计算机视觉（opencv）——实时颜色检测](https://blog.csdn.net/2302_78022640/article/details/153390780)
+
++ [【角色架构分析】燕洵：一个名字之下的双重设计模式与悲剧性内存泄漏](https://blog.csdn.net/eidolon_foot/article/details/153276756)
+

@@ -21,3 +21,7 @@
 
 + [iPhone 17 杀后台太严重了，还是买 iPhone 17 Pro 吧](https://www.v2ex.com/t/1166610)
 
++ [20 号晚 8 点，大家购物车里放了啥](https://www.v2ex.com/t/1166570)
+
++ [炒币日记 1018 - 抄底川普币！](https://www.v2ex.com/t/1166631)
+
