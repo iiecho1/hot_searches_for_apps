@@ -163,3 +163,7 @@
 
 + [金仓多模数据库平替 MongoDB：电子证照国产化的技术实操与价值突破](https://blog.csdn.net/2302_78391795/article/details/153519845)
 
++ [基于大数据爬虫+hadoop+Echarts的茶叶电商销售数据分析平台设计和实现(精品源码+精品论文+数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/151215564)
+
++ [【多智能体控制】基于matlab分布式线性二次离散时间博弈方法多智能体避免碰撞【含Matlab源码 14363期】](https://blog.csdn.net/TIQCmatlab/article/details/153562847)
+
