@@ -185,3 +185,7 @@
 
 + [美方“缉毒”行动被批侵犯主权 委内瑞拉：对美防御就绪](https://news.cctv.com/2025/10/19/ARTINT5uZTKjoEQmRJ0m87ks251019.shtml)
 
++ [恶劣天气袭击美国阿拉斯加州 部分灾民18个月内无法返家](https://news.cctv.com/2025/10/19/ARTIKV5PKRF13BDfFSYRo29Y251019.shtml)
+
++ [10月上半月印度进口的俄罗斯石油量增加](https://news.cctv.com/2025/10/19/ARTICA7JigkIoVwvYzPZNnKl251019.shtml)
+
