@@ -183,3 +183,5 @@
 
 + [以军将进行为期5天大规模军事演习](https://news.cctv.com/2025/10/19/ARTIoDkdzq6TirRRXfBm4UR7251019.shtml)
 
++ [美方“缉毒”行动被批侵犯主权 委内瑞拉：对美防御就绪](https://news.cctv.com/2025/10/19/ARTINT5uZTKjoEQmRJ0m87ks251019.shtml)
+
