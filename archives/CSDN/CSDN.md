@@ -127,3 +127,5 @@
 
 + [远程办公自由:rdesktop+cpolar让Windows桌面随身而行](https://blog.csdn.net/2302_79177254/article/details/153514918)
 
++ [基于SpringBoot及PostgreSQL的国家减肥食谱管理项目（中）：食谱与菜单配置搭建](https://blog.csdn.net/yelangkingwuzuhu/article/details/153535310)
+
