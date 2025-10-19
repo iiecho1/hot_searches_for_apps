@@ -165,3 +165,5 @@
 
 + [总台记者观察丨法国两月连遭三起博物馆盗窃案 警方全力追捕卢浮宫大盗](https://news.cctv.com/2025/10/20/ARTIDJQ2pQTi2AvOeqbCUjdL251020.shtml)
 
++ [内塔尼亚胡已指示在加沙地带采取强硬行动](https://news.cctv.com/2025/10/20/ARTIpkAgywfjcQVws2T8ms1d251020.shtml)
+
