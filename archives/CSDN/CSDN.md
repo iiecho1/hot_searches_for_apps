@@ -141,3 +141,9 @@
 
 + [Lubanno7UniverSheet：选择命令式，为了真正的跨框架通用](https://blog.csdn.net/xiaolubankeaia/article/details/153476209)
 
++ [如何将一加手机的数据传输到笔记本电脑](https://blog.csdn.net/Digitally/article/details/153470260)
+
++ [129.FPGA绑定管脚时差分管脚只绑_p是不行的，tx与rx只绑一个也不行](https://blog.csdn.net/weixin_47881377/article/details/153461713)
+
++ [YOLO家族进化史：从V1到V3的跨越](https://blog.csdn.net/2401_83690033/article/details/153470999)
+
