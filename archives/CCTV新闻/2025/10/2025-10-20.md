@@ -163,3 +163,5 @@
 
 + [世界周刊｜“白宫关门”之后](https://news.cctv.com/2025/10/20/ARTIvbfqPi4xUcEC2AlTVLaR251019.shtml)
 
++ [总台记者观察丨法国两月连遭三起博物馆盗窃案 警方全力追捕卢浮宫大盗](https://news.cctv.com/2025/10/20/ARTIDJQ2pQTi2AvOeqbCUjdL251020.shtml)
+
