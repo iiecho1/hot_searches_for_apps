@@ -179,3 +179,7 @@
 
 + [韩国将调查64名遭柬埔寨遣返网络诈骗嫌疑人](https://news.cctv.com/2025/10/19/ARTIuh85rVNCwfPXuLfZ5H0w251019.shtml)
 
++ [孟加拉国达卡国际机场航班恢复正常](https://news.cctv.com/2025/10/19/ARTIWnzNrpu8CV34zhhFcRZS251019.shtml)
+
++ [以军将进行为期5天大规模军事演习](https://news.cctv.com/2025/10/19/ARTIoDkdzq6TirRRXfBm4UR7251019.shtml)
+
