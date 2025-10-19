@@ -167,3 +167,13 @@
 
 + [内塔尼亚胡已指示在加沙地带采取强硬行动](https://news.cctv.com/2025/10/20/ARTIpkAgywfjcQVws2T8ms1d251020.shtml)
 
++ [哈马斯代表团已抵达埃及 跟进加沙停火协议执行情况](https://news.cctv.com/2025/10/20/ARTIKMbgh3cayIFKIP5cG5z9251020.shtml)
+
++ [强降雨已造成洪都拉斯16人死亡 超34000人受灾](https://news.cctv.com/2025/10/20/ARTIm4ZMOTPxXq8QxkNiz3U9251020.shtml)
+
++ [美国马里兰州发生汽车冲撞人群事件 致1死13伤](https://news.cctv.com/2025/10/20/ARTIDzKpXib3XpDaT8YK6WEF251020.shtml)
+
++ [法国卢浮宫8件失窃藏品清单公布](https://news.cctv.com/2025/10/20/ARTImS7IJT5FmHIdsQViFU8W251020.shtml)
+
++ [泽连斯基：愿意参加特朗普与普京在匈牙利的会晤](https://news.cctv.com/2025/10/20/ARTImXOLmAzTmCjFHI5Ozyw4251020.shtml)
+
