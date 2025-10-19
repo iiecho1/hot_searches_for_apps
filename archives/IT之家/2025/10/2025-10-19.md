@@ -69,3 +69,15 @@
 
 + [消息称国行版苹果 iPhone Air 支持境内使用海外 eSIM 漫游](https://m.ithome.com/html/890431.htm)
 
++ [时间偏差 1 纳秒都将致手机无法通话和上网，央媒“玉渊谭天”揭秘美方为何攻击我国授时中心](https://m.ithome.com/html/890576.htm)
+
++ [小米 REDMI K90 Pro Max 手机配备后置扬声器：不影响防尘防水、可实现音频振动清灰](https://m.ithome.com/html/890559.htm)
+
++ [1Kg 重量：联想预热来酷 Air 16 轻薄本将于本月发布](https://m.ithome.com/html/890496.htm)
+
++ [阿维塔 12 四激光版车型今启预售：搭载华为乾崑智驾 ADS 4 + 鸿蒙座舱，10 月 28 日上市](https://m.ithome.com/html/890505.htm)
+
++ [微软 Win10 终止支持后，日本秋叶原电脑店意外现内置蓝光光驱缺货潮](https://m.ithome.com/html/890527.htm)
+
++ [苹果 M5 MacBook Pro 现身 Geekbench 6，多核跑分 18024 分接近 2022 年 M1 Ultra](https://m.ithome.com/html/890561.htm)
+

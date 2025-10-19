@@ -189,3 +189,7 @@
 
 + [10月上半月印度进口的俄罗斯石油量增加](https://news.cctv.com/2025/10/19/ARTICA7JigkIoVwvYzPZNnKl251019.shtml)
 
++ [法国卢浮宫多件藏品被盗](https://news.cctv.com/2025/10/19/ARTIHSKb2biuA6zedQHkonhc251019.shtml)
+
++ [法国卢浮宫发生持械抢劫事件 暂停对外开放](https://news.cctv.com/2025/10/19/ARTI8NJTrDoy21R2TwXgTg7h251019.shtml)
+

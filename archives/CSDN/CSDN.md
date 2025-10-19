@@ -167,3 +167,9 @@
 
 + [【多智能体控制】基于matlab分布式线性二次离散时间博弈方法多智能体避免碰撞【含Matlab源码 14363期】](https://blog.csdn.net/TIQCmatlab/article/details/153562847)
 
++ [Spring AI 核心概念](https://blog.csdn.net/mr_yuanshen/article/details/153529207)
+
++ [【天体学】基于matlab单相混合差分动力规划应用于低推力日地L1晕到L2晕轨道转移【含Matlab源码 14367期】](https://blog.csdn.net/TIQCmatlab/article/details/153563006)
+
++ [【多智能体控制】分布式线性二次离散时间博弈方法多智能体避免碰撞【含Matlab源码 14363期】](https://blog.csdn.net/weixin_63266434/article/details/153562888)
+
