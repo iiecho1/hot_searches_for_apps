@@ -45,3 +45,25 @@
 
 + [奇瑞尹同跃与任正非在深圳华为总部会晤，智界产品总监暗示 9 系新车将至](https://m.ithome.com/html/890273.htm)
 
++ [我国著名物理学家、诺贝尔物理学奖得主杨振宁逝世，清华大学发文悼念](https://m.ithome.com/html/890450.htm)
+
++ [苹果 CEO 库克现身上海：称自己更担心人像电脑一样思考，Apple Intelligence 正努力入华](https://m.ithome.com/html/890451.htm)
+
++ [消息称小米 17 系列手机截止 10 月 12 日累计激活量 137 万台左右](https://m.ithome.com/html/890511.htm)
+
++ [消息称苹果 iOS 26.0.1 使用 Apple Music 播放陈奕迅歌曲《孤勇者》出现闪退现象](https://m.ithome.com/html/890443.htm)
+
++ [中国国际航空回应 CA139 航班行李架起火：旅客手提行李内锂电池自燃，未出现人员受伤](https://m.ithome.com/html/890476.htm)
+
++ [华为 nova Flip S / nova 14 活力版手机出厂搭载 HarmonyOS 5.1，不支持变更为 4.x 及以下系统](https://m.ithome.com/html/890515.htm)
+
++ [华为 nova 14 活力版机型确认全系采用 12GB 运存](https://m.ithome.com/html/890530.htm)
+
++ [双 11 会员合集：bilibili x 京东 PLUS 联合会员终发车，爱优腾 WPS 夸克百度网盘 QQ 音乐全系会员年度探底](https://m.ithome.com/html/890468.htm)
+
++ [英伟达 GPU 用量削减 82%！阿里云打造“AI 性能压榨魔鬼”，213 张卡干 1192 张卡的活](https://m.ithome.com/html/890485.htm)
+
++ [60 分钟还原杨振宁的传奇人生路，纪录片《杨振宁：百年科学之路》完整版](https://m.ithome.com/html/890504.htm)
+
++ [红魔 11 Pro 系列手机京东首发战绩“爆表”：全天安卓销量 TOP 1、全网声量破 6 亿](https://m.ithome.com/html/890526.htm)
+

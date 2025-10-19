@@ -137,3 +137,15 @@
 
 + [《UDP网络编程完全指南：从套接字到高并发聊天室实战》](https://blog.csdn.net/2401_83431652/article/details/152319367)
 
++ [2025年全国大学生智能汽车竞赛秋季研讨会胜利召开](https://blog.csdn.net/zhuoqingjoking97298/article/details/153540034)
+
++ [GitHub 热榜项目 - 日榜(2025-10-18)](https://blog.csdn.net/u014390502/article/details/153517555)
+
++ [2025电脑价格数据集/构建电脑价格预测模型/数据量为 10 万行](https://blog.csdn.net/2401_87245171/article/details/153407357)
+
++ [WebSocket实时通信：Socket.io](https://blog.csdn.net/pangzimin/article/details/153403497)
+
++ [云原生时代的数据库字段加密：在微服务与 Kubernetes 中实现合规与敏捷的统一](https://blog.csdn.net/m0_61703951/article/details/153461390)
+
++ [一键式搜索引擎Hacking工具](https://blog.csdn.net/weixin_44309905/article/details/153464087)
+
