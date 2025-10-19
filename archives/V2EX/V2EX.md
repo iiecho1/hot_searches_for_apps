@@ -27,3 +27,11 @@
 
 + [忘了今年是 5G 出来的第几年了，用 5G 的时间应该加起来不到一个月](https://www.v2ex.com/t/1166653)
 
++ [公司给研发从 i5 台式机换到 Mac mini 但内存配置让我有点无语 / 你们配的是什么电脑？](https://www.v2ex.com/t/1166639)
+
++ [AI Coding 其实也挺累的](https://www.v2ex.com/t/1166628)
+
++ [2025 年 node 项目，乱成一锅粥的 typescript ESM import 写法该怎么选？](https://www.v2ex.com/t/1166656)
+
++ [MacBook Pro 放手提袋会坏吗？](https://www.v2ex.com/t/1166583)
+

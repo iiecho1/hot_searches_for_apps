@@ -129,3 +129,11 @@
 
 + [基于SpringBoot及PostgreSQL的国家减肥食谱管理项目（中）：食谱与菜单配置搭建](https://blog.csdn.net/yelangkingwuzuhu/article/details/153535310)
 
++ [三勾软件| 用SpringBoot+Element-UI+UniApp+Redis+MySQL打造的点餐连锁系统](https://blog.csdn.net/Javashop_jjj/article/details/153473226)
+
++ [云原生进化论：加速构建 AI 应用](https://blog.csdn.net/alisystemsoftware/article/details/153471937)
+
++ [python+uniapp基于微信小程序的助眠小程序](https://blog.csdn.net/Q_Q1963288475/article/details/153463534)
+
++ [《UDP网络编程完全指南：从套接字到高并发聊天室实战》](https://blog.csdn.net/2401_83431652/article/details/152319367)
+
