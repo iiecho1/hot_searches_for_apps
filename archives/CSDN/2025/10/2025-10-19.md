@@ -175,3 +175,7 @@
 
 + [金仓数据库KingbaseES实现MongoDB平滑迁移全攻略：从架构适配到性能调优的完整实践](https://blog.csdn.net/Dreamy_zsy/article/details/153562124)
 
++ [基于AI Agent 多智能体协同架构的科研自动化系统设计与实现](https://blog.csdn.net/weixin_52908342/article/details/153566124)
+
++ [YOLOv3 目标检测算法核心技术](https://blog.csdn.net/2301_77510406/article/details/153473640)
+

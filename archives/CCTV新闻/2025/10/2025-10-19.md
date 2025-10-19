@@ -197,3 +197,9 @@
 
 + [以美联手施压哈马斯 加沙停火协议脆弱性凸显](https://news.cctv.com/2025/10/19/ARTINsaSpAHcuqICKmDDeu6p251019.shtml)
 
++ [专访丨长远规划在推动中国各领域发展方面发挥重要作用——访埃及《消息报》副总编辑阿米尔·塔马姆](https://news.cctv.com/2025/10/19/ARTIvKuRKnL8TyU1HPVkdjbN251019.shtml)
+
++ [通讯丨“加纳视中国为重要合作伙伴”——中国经验助力加纳发展进程](https://news.cctv.com/2025/10/19/ARTIjxitzHxl60Hwr9Llwm1M251019.shtml)
+
++ [法官员证实卢浮宫遭抢劫：7分钟9件拿破仑时期珠宝被盗](https://news.cctv.com/2025/10/19/ARTIHSKb2biuA6zedQHkonhc251019.shtml)
+

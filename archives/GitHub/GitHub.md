@@ -37,3 +37,27 @@
 
 + [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
++ [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
++ [atuinsh/desktop](https://github.com/atuinsh/desktop)
+
++ [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
+
++ [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
+
++ [microsoft/terminal](https://github.com/microsoft/terminal)
+
++ [karpathy/micrograd](https://github.com/karpathy/micrograd)
+
++ [huggingface/chat-ui](https://github.com/huggingface/chat-ui)
+
++ [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+
++ [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+
++ [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
+
++ [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
+
