@@ -193,3 +193,7 @@
 
 + [法国卢浮宫发生持械抢劫事件 暂停对外开放](https://news.cctv.com/2025/10/19/ARTI8NJTrDoy21R2TwXgTg7h251019.shtml)
 
++ [金价涨了 印度人节日买金习惯变了](https://news.cctv.com/2025/10/19/ARTIN7Tv2G1xZGoULkXQNHbb251019.shtml)
+
++ [以美联手施压哈马斯 加沙停火协议脆弱性凸显](https://news.cctv.com/2025/10/19/ARTINsaSpAHcuqICKmDDeu6p251019.shtml)
+
