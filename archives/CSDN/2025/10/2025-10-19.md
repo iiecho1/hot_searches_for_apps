@@ -179,3 +179,13 @@
 
 + [YOLOv3 目标检测算法核心技术](https://blog.csdn.net/2301_77510406/article/details/153473640)
 
++ [【AI智能体】Coze 提取对标账号短视频生成视频文案实战详解](https://blog.csdn.net/zhangcongyi420/article/details/152653479)
+
++ [基于ArcGIS的生态敏感性分析案例 | 绿水青山就是金山银山](https://blog.csdn.net/2501_92238416/article/details/153339055)
+
++ [实验室安全准入考试答案](https://blog.csdn.net/weixin_67016521/article/details/153535262)
+
++ [企业微信聚合应用系统，ipad协议接口](https://blog.csdn.net/qq_41604544/article/details/153531368)
+
++ [想让设计团队创意实时碰撞？用 Penpot+cpolar 实现无边界协作](https://blog.csdn.net/2301_80350265/article/details/153466723)
+
