@@ -133,3 +133,11 @@
 
 + [未来的 AI 操作系统（二）——世界即界面：自然语言成为新的人机交互协议](https://blog.csdn.net/htw250056/article/details/153563168)
 
++ [什么是4A架构：业务架构、数据架构、应用架构、技术架构](https://blog.csdn.net/qq_26664043/article/details/153486226)
+
++ [【Spring】Spring事务和事务传播机制](https://blog.csdn.net/2403_87459748/article/details/153588912)
+
++ [【物理应用】基于matlab多级裂缝水平井半解析试井模型（考虑了复杂裂缝）【含Matlab源码 14352期】](https://blog.csdn.net/TIQCmatlab/article/details/153468111)
+
++ [Lubanno7UniverSheet：选择命令式，为了真正的跨框架通用](https://blog.csdn.net/xiaolubankeaia/article/details/153476209)
+

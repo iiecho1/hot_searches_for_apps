@@ -67,3 +67,5 @@
 
 + [卡芙卡~Psycho](https://m.acfun.cn/v/?ac=47929618)
 
++ [韭菜怎样炒的翠绿水嫩？韭菜炒蛋超详细教程](https://m.acfun.cn/v/?ac=47928985)
+
