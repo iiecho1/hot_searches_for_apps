@@ -115,3 +115,21 @@
 
 + [【51单片机】【protues仿真】基于51单片机智能窗帘系统](https://blog.csdn.net/qq215138327/article/details/153515648)
 
++ [Java 大视界 -- 基于 Java 的大数据可视化在城市规划决策支持中的交互设计与应用案例](https://blog.csdn.net/atgfg/article/details/153466716)
+
++ [即时通讯系统核心模块实现](https://blog.csdn.net/zrt123456i/article/details/153585433)
+
++ [在Spring Boot开发中，HEAD、OPTIONS和 TRACE这些HTTP方法各有其特定的应用场景和实现方式](https://blog.csdn.net/TOOZOOY/article/details/153460966)
+
++ [Linux-网络安全私房菜(二)](https://blog.csdn.net/weixin_60521036/article/details/153529826)
+
++ [【大模型微调】LLaMA Factory 微调 LLMs & VLMs](https://blog.csdn.net/qq_41204464/article/details/153583868)
+
++ [基于大数据爬虫+hadoop+Echarts的茶叶电商销售数据分析平台设计和实现(精品源码+精品论文+数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/151215564)
+
++ [学术翻译神器：Docker+cpolar构建你的跨语言数学文档翻译中枢](https://blog.csdn.net/2301_80863610/article/details/153467237)
+
++ [【硬件片内测试】基于FPGA的完整DQPSK链路测试,含频偏锁定,帧同步,定时点,Viterbi译码,信道,误码统计](https://blog.csdn.net/hlayumi1234567/article/details/153463289)
+
++ [未来的 AI 操作系统（二）——世界即界面：自然语言成为新的人机交互协议](https://blog.csdn.net/htw250056/article/details/153563168)
+

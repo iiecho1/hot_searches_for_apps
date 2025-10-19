@@ -161,3 +161,5 @@
 
 + [柬埔寨警方：将于17日遣返59名韩国公民](https://news.cctv.com/2025/10/16/ARTIljFlcG6ZYsc4JILVpEit251016.shtml)
 
++ [世界周刊｜“白宫关门”之后](https://news.cctv.com/2025/10/20/ARTIvbfqPi4xUcEC2AlTVLaR251019.shtml)
+

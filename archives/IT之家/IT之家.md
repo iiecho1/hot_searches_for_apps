@@ -25,3 +25,11 @@
 
 + [1Kg 重量：联想预热来酷 Air 16 轻薄本将于本月发布](https://m.ithome.com/html/890496.htm)
 
++ [我国著名物理学家、诺贝尔物理学奖得主杨振宁逝世，享年 103 岁](https://m.ithome.com/html/890444.htm)
+
++ [我国著名物理学家、诺贝尔物理学奖得主杨振宁逝世，清华大学发文悼念](https://m.ithome.com/html/890450.htm)
+
++ [消息称苹果 iOS 26.0.1 使用 Apple Music 播放陈奕迅歌曲《孤勇者》出现闪退现象](https://m.ithome.com/html/890443.htm)
+
++ [消息称国行版苹果 iPhone Air 支持境内使用海外 eSIM 漫游](https://m.ithome.com/html/890431.htm)
+
