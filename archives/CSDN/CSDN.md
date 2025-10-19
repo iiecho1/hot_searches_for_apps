@@ -189,3 +189,7 @@
 
 + [想让设计团队创意实时碰撞？用 Penpot+cpolar 实现无边界协作](https://blog.csdn.net/2301_80350265/article/details/153466723)
 
++ [Java 大视界 -- Java 大数据在智能农业无人机植保作业路径规划与药效评估中的应用](https://blog.csdn.net/atgfg/article/details/153521776)
+
++ [《七把钥匙开启C++大门：从hello world开始》](https://blog.csdn.net/2501_92795260/article/details/153416670)
+
