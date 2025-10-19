@@ -39,3 +39,5 @@
 
 + [vivo x200pro 换 x300pro 的简单总结](https://www.v2ex.com/t/1166612)
 
++ [拿了个深圳两年前端降薪 offer，南山 7k ，接吗](https://www.v2ex.com/t/1166704)
+

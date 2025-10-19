@@ -67,3 +67,5 @@
 
 + [红魔 11 Pro 系列手机京东首发战绩“爆表”：全天安卓销量 TOP 1、全网声量破 6 亿](https://m.ithome.com/html/890526.htm)
 
++ [消息称国行版苹果 iPhone Air 支持境内使用海外 eSIM 漫游](https://m.ithome.com/html/890431.htm)
+

@@ -175,3 +175,7 @@
 
 + [巴西东北部大巴翻车事故已致17人死亡](https://news.cctv.com/2025/10/19/ARTIpZsKIBQNNQiIAF1zp3Bh251019.shtml)
 
++ [多国合作、寻找月球水，嫦娥探月还担负哪些使命？](https://news.cctv.com/2025/10/19/ARTIAVwYGPIVZVoLtmaPgyCk251019.shtml)
+
++ [韩国将调查64名遭柬埔寨遣返网络诈骗嫌疑人](https://news.cctv.com/2025/10/19/ARTIuh85rVNCwfPXuLfZ5H0w251019.shtml)
+
