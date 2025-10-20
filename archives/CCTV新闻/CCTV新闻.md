@@ -161,3 +161,5 @@
 
 + [国际观察丨从光伏应用看中非绿色合作赋能发展](https://news.cctv.com/2025/10/17/ARTIPUT79AK9IqD3lq89IpGA251017.shtml)
 
++ [法国卢浮宫大劫案 暴露哪些安保漏洞？](https://news.cctv.com/2025/10/21/ARTI8fOXjTs5mNpFYKvhVoiq251021.shtml)
+

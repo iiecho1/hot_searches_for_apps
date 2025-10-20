@@ -101,3 +101,7 @@
 
 + [【Linux系列】掌控 Linux 的脉搏：深入理解进程控制](https://blog.csdn.net/2302_80177460/article/details/152522710)
 
++ [（第一篇）破冰篇：Spring AI 到底是什么？核心亮点拆解与实战指南](https://blog.csdn.net/qq_40303030/article/details/153525366)
+
++ [全球云服务震荡：Amazon Web Services (AWS) 出现大规模故障 多项线上服务受冲击](https://blog.csdn.net/m0_37609579/article/details/153634535)
+
