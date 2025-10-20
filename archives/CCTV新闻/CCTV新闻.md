@@ -217,3 +217,5 @@
 
 + [号称要连任，内塔尼亚胡还能用加沙冲突“续命”吗](https://news.cctv.com/2025/10/20/ARTIxNSqdlYu3KSRKfIczPEV251020.shtml)
 
++ [日本自民党与维新会签署联合执政文件](https://news.cctv.com/2025/10/20/ARTI0qSjG4iZ71saClDhzAjP251020.shtml)
+

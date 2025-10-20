@@ -215,3 +215,9 @@
 
 + [python+uniapp基于微信小程序的助眠小程序](https://blog.csdn.net/Q_Q1963288475/article/details/153463534)
 
++ [我用 TRAE 做了一个不一样的 MySQL MCP](https://blog.csdn.net/Mrxiao_bo/article/details/153627603)
+
++ [【Linux】应用层协议http](https://blog.csdn.net/2401_86449430/article/details/153331060)
+
++ [【论文写作】-我的第二篇学术论文形成记(研究周期、课题来源及背景、理论计算学习、研究思维、论文写作、投稿周期)](https://blog.csdn.net/qq_40481843/article/details/153327012)
+
