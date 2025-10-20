@@ -233,3 +233,5 @@
 
 + [美联邦政府“停摆”持续 核部门受影响](https://news.cctv.com/2025/10/20/ARTIdCyxg4a2JZsc6DDR9kwy251020.shtml)
 
++ [特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使](https://news.cctv.com/2025/10/20/ARTI7cQJ80rWfRZGkyPR1GqA251020.shtml)
+

@@ -241,3 +241,7 @@
 
 + [Socket编程核心概念详解：IP、端口、TCP/UDP与网络字节序](https://blog.csdn.net/2402_84532723/article/details/151904885)
 
++ [【基于STFT-CNN-LSTM的故障诊断】基于短时傅里叶变换（STFT）、卷积神经网络（CNN）与长短期记忆网络（LSTM）的混合故障诊断模型（STFT-CNN-LSTM）研究（Matlab代码实现](https://blog.csdn.net/weixin_61181717/article/details/153628509)
+
++ [Linux InfiniBand代理模块深度解析：管理数据包的高效处理引擎](https://blog.csdn.net/eidolon_foot/article/details/153644104)
+
