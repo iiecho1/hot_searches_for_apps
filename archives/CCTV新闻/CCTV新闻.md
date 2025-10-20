@@ -165,3 +165,5 @@
 
 + [侵吞资金超5亿卢布 俄侦委会就军事项目欺诈案立案](https://news.cctv.com/2025/10/21/ARTILfW6CR4sfDUo3AUUT3eI251021.shtml)
 
++ [温和派“黑马”缘何当选玻利维亚新总统](https://news.cctv.com/2025/10/21/ARTIb6jTRSnVH6R1GAmQsGzn251021.shtml)
+
