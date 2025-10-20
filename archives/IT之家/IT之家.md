@@ -31,3 +31,7 @@
 
 + [全球最大轮胎在吉林玲珑成功下线：直径超 4 米，单胎重量逾 6 吨](https://m.ithome.com/html/890639.htm)
 
++ [小米 REDMI K Pad 全新配色“流金白”预热，10 月 23 日与 K90 Pro Max 机型同场发布](https://m.ithome.com/html/890578.htm)
+
++ [核心能力比肩航母：央视详解我国“万吨大驱”055 型驱逐舰多项突破](https://m.ithome.com/html/890588.htm)
+
