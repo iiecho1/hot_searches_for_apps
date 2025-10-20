@@ -205,3 +205,7 @@
 
 + [【完整源码+数据集+部署教程】太阳能板表面缺陷裂缝等识别系统源码＆数据集分享 [yolov8-seg-HGNetV2＆yolov8-seg-C2f-Faster等50+全套改进创新点发刊_一键训练教](https://blog.csdn.net/weixin_43860634/article/details/153625941)
 
++ [AI大事记12:Transformer 架构——重塑 NLP 的革命性技术（下）](https://blog.csdn.net/2401_86980916/article/details/153585654)
+
++ [基于华为开发者空间云开发环境部署Claude Code + KAT-Coder实现AI编程助手](https://blog.csdn.net/devcloud/article/details/153620175)
+

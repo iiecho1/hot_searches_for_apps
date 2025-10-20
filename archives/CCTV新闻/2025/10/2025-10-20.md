@@ -203,3 +203,11 @@
 
 + [案发点离《蒙娜丽莎》250米 卢浮宫为何发生“大劫案”](https://news.cctv.com/2025/10/20/ARTIuEdsyP2FsVkWN3VOIXqF251020.shtml)
 
++ [遭勒索软件攻击 日本知名线上零售企业暂停接单](https://news.cctv.com/2025/10/20/ARTIBNOVkK5rKBamav7d74zS251020.shtml)
+
++ [韩国警方申请逮捕59名柬埔寨遣返网络诈骗嫌疑人](https://news.cctv.com/2025/10/20/ARTIIpFcAf0HfiFxGGrHOKkB251020.shtml)
+
++ [日本维新会将在首相指名选举中投票给高市早苗](https://news.cctv.com/2025/10/20/ARTIGjR4kAvgcCrmGBe9UyI9251020.shtml)
+
++ [特朗普称俄乌应按当前战线“割裂”顿巴斯地区](https://news.cctv.com/2025/10/20/ARTImSLMWqpWTLT0bXd33zn6251020.shtml)
+
