@@ -185,3 +185,13 @@
 
 + [【成长纪实】HarmonyOS中ArkTS与Flutter数据类型对比详解](https://blog.csdn.net/ldc121xy716/article/details/153526117)
 
++ [【Docker】Docker Image（镜像）](https://blog.csdn.net/2401_82610555/article/details/153463839)
+
++ [【深度学习计算机视觉】14：实战Kaggle比赛：狗的品种识别（ImageNet Dogs）](https://blog.csdn.net/Morse_Chen/article/details/153619177)
+
++ [AI驱动软件测试全流程自动化：从理论到实践的深度探索](https://blog.csdn.net/qq_42055933/article/details/153475255)
+
++ [外贸行业|基于SprinBoot+vue贸易行业crm系统(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/153527954)
+
++ [多径效应对汽车MIMO雷达DOA估计的MCRB性能界定——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153565868)
+

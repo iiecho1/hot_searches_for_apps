@@ -65,3 +65,7 @@
 
 + [苹果确认未来将在中国大陆推出 eSIM 快速转换功能，国行 iPhone Air 换机无须再跑营业厅](https://m.ithome.com/html/890686.htm)
 
++ [国家互联网应急中心发布关于国家授时中心遭受美国国家安全局网络攻击事件的技术分析报告](https://m.ithome.com/html/890633.htm)
+
++ [华为 Mate 80 系列标准版？爆料称新机备案 11 月，还有二合一平板电脑](https://m.ithome.com/html/890698.htm)
+

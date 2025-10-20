@@ -183,3 +183,7 @@
 
 + [日本自民党与维新会基本确立联合执政 今日将签署协议](https://news.cctv.com/2025/10/20/ARTImkGmvSP7NjKetw6btlZi251020.shtml)
 
++ [万斯称尚未决定向乌提供“战斧” 先保美国自己安全](https://news.cctv.com/2025/10/20/ARTIX2119zkknb10CzZI4YtW251020.shtml)
+
++ [美国一大学宿舍发生枪击 或因派对上“意见不合”](https://news.cctv.com/2025/10/20/ARTIb8s2UuYr8QJu1D0ntElx251020.shtml)
+
