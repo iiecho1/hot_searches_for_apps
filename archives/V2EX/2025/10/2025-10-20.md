@@ -27,3 +27,7 @@
 
 + [150 亿美元的比特币被没收，比特币还安全吗](https://www.v2ex.com/t/1166772)
 
++ [预算有限，想入一台 MacBookPro 做开发， M1pro 2025 年还能再战几年？](https://www.v2ex.com/t/1166804)
+
++ [为什么喜欢跑马拉松？](https://www.v2ex.com/t/1166822)
+

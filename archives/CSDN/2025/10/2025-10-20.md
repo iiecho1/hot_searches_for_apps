@@ -147,3 +147,15 @@
 
 + [YOLO家族进化史：从V1到V3的跨越](https://blog.csdn.net/2401_83690033/article/details/153470999)
 
++ [MySQL——桥梁JDBC](https://blog.csdn.net/weixin_74163692/article/details/153525650)
+
++ [【有源码】基于Python与Spark的火锅店数据可视化分析系统-基于机器学习的火锅店综合竞争力评估与可视化分析-基于用户画像聚类的火锅店市场细分与可视化研究](https://blog.csdn.net/IT_YQG_/article/details/153529861)
+
++ [TensorFlow2 Python深度学习 - 循环神经网络（LSTM）示例](https://blog.csdn.net/caoli201314/article/details/153514620)
+
++ [智慧养老平台|基于SprinBoot+vue的智慧养老平台系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/153528536)
+
++ [Vue 3 多实例 + 缓存复用：理念及实践](https://blog.csdn.net/nanchen_J/article/details/153470201)
+
++ [校园交友|基于SprinBoot+vue的校园交友网站(源码+数据库+文档)](https://blog.csdn.net/weixin_66413741/article/details/153528002)
+
