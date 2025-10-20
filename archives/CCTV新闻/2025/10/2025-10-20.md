@@ -229,3 +229,7 @@
 
 + [佩斯科夫：俄美首脑布达佩斯会面筹备工作尚未启动](https://news.cctv.com/2025/10/20/ARTIAojYuI9hUdSexYuhLwiO251020.shtml)
 
++ [在柬参与电诈的韩国人数量或远超韩国政府统计](https://news.cctv.com/2025/10/20/ARTIAHRztJPwiRDfYR7862nk251020.shtml)
+
++ [美联邦政府“停摆”持续 核部门受影响](https://news.cctv.com/2025/10/20/ARTIdCyxg4a2JZsc6DDR9kwy251020.shtml)
+
