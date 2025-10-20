@@ -209,3 +209,9 @@
 
 + [基于华为开发者空间云开发环境部署Claude Code + KAT-Coder实现AI编程助手](https://blog.csdn.net/devcloud/article/details/153620175)
 
++ [C/C++大雪纷飞①](https://blog.csdn.net/m0_68111267/article/details/153629052)
+
++ [【超音速专利 CN119863376A】一种适用于极片产品前工序的毛刺检测方法、系统及平台](https://blog.csdn.net/he_zhidan/article/details/153567732)
+
++ [python+uniapp基于微信小程序的助眠小程序](https://blog.csdn.net/Q_Q1963288475/article/details/153463534)
+

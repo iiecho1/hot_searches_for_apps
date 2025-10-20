@@ -211,3 +211,9 @@
 
 + [特朗普称俄乌应按当前战线“割裂”顿巴斯地区](https://news.cctv.com/2025/10/20/ARTImSLMWqpWTLT0bXd33zn6251020.shtml)
 
++ [风劲帆满启新程——国际社会瞩目中国绘制发展奋进新蓝图](https://news.cctv.com/2025/10/20/ARTIPKkM36O03Yci4LEHbABA251020.shtml)
+
++ [卢浮宫博物馆宣布20日继续闭馆](https://news.cctv.com/2025/10/20/ARTIgQ1VtY8wwaQU9cE0ACBp251020.shtml)
+
++ [号称要连任，内塔尼亚胡还能用加沙冲突“续命”吗](https://news.cctv.com/2025/10/20/ARTIxNSqdlYu3KSRKfIczPEV251020.shtml)
+
