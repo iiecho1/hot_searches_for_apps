@@ -187,3 +187,19 @@
 
 + [美国一大学宿舍发生枪击 或因派对上“意见不合”](https://news.cctv.com/2025/10/20/ARTIb8s2UuYr8QJu1D0ntElx251020.shtml)
 
++ [“向公众讲述一个真实的西藏”——访卢森堡西藏问题学者阿尔伯特·艾廷格](https://news.cctv.com/2025/10/20/ARTIYHOepRr5ACptNz3ZPx3V251020.shtml)
+
++ [中国式安全，赢得国际信任票](https://news.cctv.com/2025/10/20/ARTIff2yLLyyIvJneWRalVe3251020.shtml)
+
++ [谱写全球妇女事业发展新篇章](https://news.cctv.com/2025/10/20/ARTIBVBiQFmmNDL9sfMMVUHf251020.shtml)
+
++ [“开放的中国为世界经济发展带来巨大机遇”（国际人士看中国“十四五”成就）](https://news.cctv.com/2025/10/20/ARTI7SkYmHo9lk1MRxyTPaa9251020.shtml)
+
++ [美国多地举行示威抗议 反对政府多项政策](https://news.cctv.com/2025/10/20/ARTItcWZvJH4y9tJAxwXEsz4251020.shtml)
+
++ [加拿大专家点赞中国生态与创新发展 期待更多合作成功案例](https://news.cctv.com/2025/10/20/ARTIbEc6hOAYxdVaklkeQr0Z251020.shtml)
+
++ [火灾后近一个月 韩国政务系统修复过半](https://news.cctv.com/2025/10/20/ARTIuDolCQF4mlfY6oiiqcut251020.shtml)
+
++ [案发点离《蒙娜丽莎》250米 卢浮宫为何发生“大劫案”](https://news.cctv.com/2025/10/20/ARTIuEdsyP2FsVkWN3VOIXqF251020.shtml)
+

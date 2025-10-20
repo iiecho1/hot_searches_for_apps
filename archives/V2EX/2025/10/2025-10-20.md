@@ -45,3 +45,7 @@
 
 + [[纯吐槽] 500 块接了个 AI 小项目，周末 vibecoding 连搞 2 天， cursor 额度烧没了也没搞出来](https://www.v2ex.com/t/1166887)
 
++ [关于计算机在读的小舅子的就业问题](https://www.v2ex.com/t/1166930)
+
++ [现在学 Java 算 49 年入国军吗](https://www.v2ex.com/t/1166867)
+

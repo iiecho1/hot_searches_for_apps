@@ -195,3 +195,13 @@
 
 + [多径效应对汽车MIMO雷达DOA估计的MCRB性能界定——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153565868)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在工业物联网设备状态监测中的应用与挑战](https://blog.csdn.net/atgfg/article/details/153593476)
+
++ [【愚公系列】《人工智能70年》089-科学家拿起来新武器（科学智能概念的提出）](https://blog.csdn.net/aa2528877987/article/details/152508223)
+
++ [PyTorch实战（9）——从零开始实现Transformer](https://blog.csdn.net/LOVEmy134611/article/details/153389027)
+
++ [【任务调度】DolphinScheduler钉钉告警消息格式修改](https://blog.csdn.net/qq_35995514/article/details/153581644)
+
++ [【完整源码+数据集+部署教程】太阳能板表面缺陷裂缝等识别系统源码＆数据集分享 [yolov8-seg-HGNetV2＆yolov8-seg-C2f-Faster等50+全套改进创新点发刊_一键训练教](https://blog.csdn.net/weixin_43860634/article/details/153625941)
+

@@ -69,3 +69,7 @@
 
 + [华为 Mate 80 系列标准版？爆料称新机备案 11 月，还有二合一平板电脑](https://m.ithome.com/html/890698.htm)
 
++ [努比亚 Z80 Ultra 手机主要参数公布：6.85 英寸全面屏、第五代骁龙 8 至尊版，10 月 22 日发布](https://m.ithome.com/html/890647.htm)
+
++ [中国选手“小孩”曾卓君夺得 SCS 2025《饿狼传说：群狼之城》年度总冠军](https://m.ithome.com/html/890643.htm)
+
