@@ -177,3 +177,7 @@
 
 + [泽连斯基：愿意参加特朗普与普京在匈牙利的会晤](https://news.cctv.com/2025/10/20/ARTImXOLmAzTmCjFHI5Ozyw4251020.shtml)
 
++ [美副总统安保车遭军演炮弹碎片击中 未造成人员伤亡](https://news.cctv.com/2025/10/20/ARTI6fAmFQuEz6InmDr87CzR251020.shtml)
+
++ [特朗普：美方向以施压 加沙停火协议仍然有效](https://news.cctv.com/2025/10/20/ARTI45Ri0TJi6MCDv3XZ1Qd2251020.shtml)
+
