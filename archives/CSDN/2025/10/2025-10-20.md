@@ -223,3 +223,19 @@
 
 + [接口测试 | 使用Postman实际场景化测试](https://blog.csdn.net/HG0724/article/details/153482400)
 
++ [【Java 进阶】重生之我要吃透 Spring 事务管理](https://blog.csdn.net/weixin_63944437/article/details/153634279)
+
++ [Vue 概述以及基本使用](https://blog.csdn.net/footless_bird/article/details/153632025)
+
++ [机器学习周报十八](https://blog.csdn.net/weixin_60864619/article/details/153581667)
+
++ [超市购物|基于SprinBoot+vue的超市购物系统(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/153528462)
+
++ [【前端高级特效】使用 CSS 实现毛玻璃模糊背景效果（含完整源码讲解）](https://blog.csdn.net/weixin_42285486/article/details/153518810)
+
++ [k8s（十）Helm详解](https://blog.csdn.net/qq_55656748/article/details/153584986)
+
++ [Socket编程学习记录](https://blog.csdn.net/qscfgjn/article/details/153578993)
+
++ [全球云服务震荡：Amazon Web Services (AWS) 出现大规模故障 多项线上服务受冲击](https://blog.csdn.net/m0_37609579/article/details/153634535)
+

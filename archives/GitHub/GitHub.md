@@ -41,3 +41,19 @@
 
 + [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
 
++ [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [huggingface/lerobot](https://github.com/huggingface/lerobot)
+
++ [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
+
++ [basecamp/omarchy](https://github.com/basecamp/omarchy)
+
++ [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+
++ [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+
++ [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+
