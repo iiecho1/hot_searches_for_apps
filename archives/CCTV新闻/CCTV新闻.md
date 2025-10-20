@@ -219,3 +219,9 @@
 
 + [日本自民党与维新会签署联合执政文件](https://news.cctv.com/2025/10/20/ARTI0qSjG4iZ71saClDhzAjP251020.shtml)
 
++ [泽连斯基称乌美正准备签订“爱国者”导弹系统供应合同](https://news.cctv.com/2025/10/20/ARTIVIGsdk33OwUl7P8hI5MX251020.shtml)
+
++ [英国拟授权军队当场击落“威胁军事基地”的无人机](https://news.cctv.com/2025/10/20/ARTIiDp8gHuMneMooi5pHsOw251020.shtml)
+
++ [20名联合国雇员被也门胡塞武装继续扣押](https://news.cctv.com/2025/10/20/ARTIujcHPeVLBYxGYXCzgUjb251020.shtml)
+
