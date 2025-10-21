@@ -135,3 +135,9 @@
 
 + [【Linux】查看系统版本的 3 种方法：cat /etc/os-release 最实用](https://blog.csdn.net/2401_86326742/article/details/153648592)
 
++ [时序数据库选型指南：从大数据视角看IoTDB的核心优势](https://blog.csdn.net/hanwangyyds/article/details/153642987)
+
++ [选高考700分还是700亿？如何用700分因果律武器为人类创造最大价值？](https://blog.csdn.net/RenGJ010617/article/details/149741553)
+
++ [【数据可视化-126】宏村旅游景点客流数据深度分析：高级可视化大屏展示](https://blog.csdn.net/qq_38614074/article/details/153628446)
+

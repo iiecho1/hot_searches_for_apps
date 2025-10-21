@@ -167,3 +167,5 @@
 
 + [温和派“黑马”缘何当选玻利维亚新总统](https://news.cctv.com/2025/10/21/ARTIb6jTRSnVH6R1GAmQsGzn251021.shtml)
 
++ [卢浮宫窃贼作案视频泄露 法国司法部长直言：我们败了](https://news.cctv.com/2025/10/21/ARTIXJ3v9xXObrUWdpkEbvny251021.shtml)
+
