@@ -195,3 +195,7 @@
 
 + [三度叩门 终掌相印 64岁高市早苗成日本首位女首相](https://news.cctv.com/2025/10/21/ARTI52IUW5y2Mlv0efm3DTof251021.shtml)
 
++ [卡塔尔埃米尔强烈谴责以色列持续违反加沙停火协议](https://news.cctv.com/2025/10/21/ARTI0acNEwm7g1xLlThtNFv7251021.shtml)
+
++ [“中国绿色创新既造福本国，也惠及世界”（国际人士看中国“十四五”成就）](https://news.cctv.com/2025/10/21/ARTIRI6OTIdBW4UnZuY0Zq35251021.shtml)
+

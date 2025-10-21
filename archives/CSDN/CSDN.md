@@ -175,3 +175,7 @@
 
 + [VTK开发笔记（七）：示例Cone4，一数据源多演员模式，在Qt窗口中详解复现对应的Demo](https://blog.csdn.net/qq21497936/article/details/153647096)
 
++ [【机器学习05】神经网络、模型表示、前向传播、TensorFlow实现](https://blog.csdn.net/2502_90283908/article/details/153649146)
+
++ [MongoDB Limit与Skip方法深度解析：高效分页与数据分批处理指南](https://blog.csdn.net/qq_41840843/article/details/149283136)
+
