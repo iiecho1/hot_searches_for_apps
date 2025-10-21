@@ -209,3 +209,5 @@
 
 + [俄外长：“立即停火”方案违背俄美此前达成的共识](https://news.cctv.com/2025/10/21/ARTIEgtQXmH3mdG4aK2bYH5e251021.shtml)
 
++ [高市早苗内阁完成认证 正式成立](https://news.cctv.com/2025/10/21/ARTIBcwUBuwut5W67HIBgNwv251021.shtml)
+

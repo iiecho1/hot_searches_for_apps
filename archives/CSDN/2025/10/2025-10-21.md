@@ -203,3 +203,5 @@
 
 + [HTTPS 与 Node.js，从部署到抓包调试的工程实战指南](https://blog.csdn.net/2501_91591841/article/details/153631577)
 
++ [【Part 4 未来趋势与技术展望】第二节｜多模态交互体验：手势、语音与眼动控制的集成应用](https://blog.csdn.net/qq_41140324/article/details/153560292)
+
