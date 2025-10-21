@@ -161,3 +161,5 @@
 
 + [多国合作、寻找月球水，嫦娥探月还担负哪些使命？](https://news.cctv.com/2025/10/19/ARTIAVwYGPIVZVoLtmaPgyCk251019.shtml)
 
++ [国乒五位主力退出WTT蒙彼利埃冠军赛](https://news.cctv.com/2025/10/22/ARTI4j3mbwjQIzvDSNk5GXpk251022.shtml)
+

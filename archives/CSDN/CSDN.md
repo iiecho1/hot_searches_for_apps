@@ -137,3 +137,5 @@
 
 + [【Python】绘制椭圆眼睛跟随鼠标交互算法配图详解](https://blog.csdn.net/Kratzdisteln/article/details/153627210)
 
++ [【案例实战】多维度视角：鸿蒙2048游戏开发的深度分析与感悟](https://blog.csdn.net/laozhangguzhang/article/details/153656532)
+
