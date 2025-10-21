@@ -113,3 +113,21 @@
 
 + [C++智能指针全面解析：原理、使用场景与最佳实践](https://blog.csdn.net/2301_80491316/article/details/153536606)
 
++ [sql特训](https://blog.csdn.net/m0_74847145/article/details/153637266)
+
++ [跨域生成对抗网络](https://blog.csdn.net/LOVEmy134611/article/details/153267798)
+
++ [即时通讯系统核心模块实现](https://blog.csdn.net/zrt123456i/article/details/153585433)
+
++ [用 Python 写一个自动化办公小助手](https://blog.csdn.net/2409_88939367/article/details/153563645)
+
++ [.NetFramework平台，C# Onnx Yolov8 Detect ，怎么推理啊，尝试了几次好像结果都不对](https://blog.csdn.net/weixin_43970743/article/details/150952714)
+
++ [【Devops-Jenkins自动将Java Maven工程编译成jar、并打成Docker镜像，并上传Harbor】](https://blog.csdn.net/dyj095/article/details/153624730)
+
++ [文本分类预训练模型之RoBERTa-Chinese-Med-Inquiry-Intention-Recognition-base](https://blog.csdn.net/m0_64336780/article/details/149252248)
+
++ [用仓颉语言做鸿蒙性能优化：这 5 个技巧让应用启动速度快 2 倍](https://blog.csdn.net/qq_41187124/article/details/153656938)
+
++ [与deepseek用英语聊天的第一天](https://blog.csdn.net/weixin_44638453/article/details/153654888)
+

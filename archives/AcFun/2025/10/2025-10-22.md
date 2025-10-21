@@ -65,3 +65,5 @@
 
 + [포켓걸스 하빈/Pocket Girls Habin/스튜디오 촬영회/세로직캠](https://m.acfun.cn/v/?ac=47931907)
 
++ [美澳稀土合作，目标直指中国。【岩论548期】](https://m.acfun.cn/v/?ac=47936843)
+
