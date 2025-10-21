@@ -189,3 +189,9 @@
 
 + [高市早苗将确定出任日本首相](https://news.cctv.com/2025/10/21/ARTI3EMs8bOVotoxpCvNdrBh251021.shtml)
 
++ [特朗普提议俄乌“在当前战线停火”，克宫表态](https://news.cctv.com/2025/10/21/ARTIbDn2W0Ev480GwARoymEO251021.shtml)
+
++ [高市早苗当选日本第104任首相](https://news.cctv.com/2025/10/21/ARTIcd2Zvf8JdY5u8gqGFqJy251021.shtml)
+
++ [三度叩门 终掌相印 64岁高市早苗成日本首位女首相](https://news.cctv.com/2025/10/21/ARTI52IUW5y2Mlv0efm3DTof251021.shtml)
+

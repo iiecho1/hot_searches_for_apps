@@ -169,3 +169,9 @@
 
 + [服务器炸了才知道？Ward+cpolar让异常无处藏](https://blog.csdn.net/weixin_66401877/article/details/153683359)
 
++ [腾讯混元Hunyuan3D-Part：重新定义3D部件生成的革命性架构](https://blog.csdn.net/Liudef06/article/details/152927695)
+
++ [GitHub 热榜项目 - 日榜(2025-10-21)](https://blog.csdn.net/u014390502/article/details/153677434)
+
++ [VTK开发笔记（七）：示例Cone4，一数据源多演员模式，在Qt窗口中详解复现对应的Demo](https://blog.csdn.net/qq21497936/article/details/153647096)
+
