@@ -133,3 +133,7 @@
 
 + [【GitHub开源AI精选】开源AI桌面助手Glass：实时屏幕捕捉与音频识别，助力高效办公](https://blog.csdn.net/xiaobing259/article/details/153582011)
 
++ [【Redis】哨兵与对脑裂的情况分析](https://blog.csdn.net/Steve_Albini/article/details/153515416)
+
++ [【Python】绘制椭圆眼睛跟随鼠标交互算法配图详解](https://blog.csdn.net/Kratzdisteln/article/details/153627210)
+
