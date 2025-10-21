@@ -169,3 +169,11 @@
 
 + [卢浮宫窃贼作案视频泄露 法国司法部长直言：我们败了](https://news.cctv.com/2025/10/21/ARTIXJ3v9xXObrUWdpkEbvny251021.shtml)
 
++ [伊朗最高领袖拒绝美国重启伊核谈判提议](https://news.cctv.com/2025/10/21/ARTILhBSFOcoBHd2u4vjB27a251021.shtml)
+
++ [南欧九国呼吁确保人道主义援助进入加沙不受阻](https://news.cctv.com/2025/10/21/ARTIesYOw6gNhjgWRf57xnrL251021.shtml)
+
++ [匈牙利一炼油厂发生火灾 暂无人员伤亡情况](https://news.cctv.com/2025/10/21/ARTIKh1UA6H0WapxLUrQihNS251021.shtml)
+
++ [日本政府召开内阁会议 石破内阁集体辞职](https://news.cctv.com/2025/10/21/ARTI3Fxl98EodvWzP0sXcm1P251021.shtml)
+
