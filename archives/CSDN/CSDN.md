@@ -101,3 +101,15 @@
 
 + [OCR文字识别前沿：PaddleOCR/DBNet++的端到端文本检测与识别](https://blog.csdn.net/Rqaqedamancy/article/details/153576003)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在工业物联网设备状态监测中的应用与挑战](https://blog.csdn.net/atgfg/article/details/153593476)
+
++ [MongoDB迁移到KES实战全纪录（上）：迁移准备与实施指南](https://blog.csdn.net/qq_32682301/article/details/153551250)
+
++ [未来之窗昭和仙君(二十七)智能硬件交互功——东方仙盟筑基期](https://blog.csdn.net/cybersnow/article/details/153660877)
+
++ [Fiddler抓包+Postman实战之--客户关系管理软件自动化测试](https://blog.csdn.net/taobaty/article/details/153560397)
+
++ [多径效应对汽车MIMO雷达DOA估计的MCRB性能界定——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153565868)
+
++ [C++智能指针全面解析：原理、使用场景与最佳实践](https://blog.csdn.net/2301_80491316/article/details/153536606)
+
