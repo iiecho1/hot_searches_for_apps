@@ -163,3 +163,7 @@
 
 + [国乒五位主力退出WTT蒙彼利埃冠军赛](https://news.cctv.com/2025/10/22/ARTI4j3mbwjQIzvDSNk5GXpk251022.shtml)
 
++ [特朗普称尚未就与普京的会晤做出决定](https://news.cctv.com/2025/10/22/ARTIeMzUNcPFivimCFtyg8Sx251022.shtml)
+
++ [加拿大总理称“若内塔尼亚胡入境，将对其进行逮捕”，以色列政府回应](https://news.cctv.com/2025/10/22/ARTIAAIV54SbHdbnAhBA75wW251022.shtml)
+
