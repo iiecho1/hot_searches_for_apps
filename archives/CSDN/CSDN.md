@@ -161,3 +161,11 @@
 
 + [实验室安全准入考试答案](https://blog.csdn.net/weixin_67016521/article/details/153535262)
 
++ [用户选剧情，AI写故事：Trae Solo+GLM-4.6实现沉浸式小说创作体验](https://blog.csdn.net/IRpickstars/article/details/153681448)
+
++ [【Linux操作系统】简学深悟启示录：进程间通信](https://blog.csdn.net/Zero_VPN/article/details/153115092)
+
++ [从比特币的24小时交易到去中心化股市：一场金融交易的范式革命](https://blog.csdn.net/eidolon_foot/article/details/153649350)
+
++ [服务器炸了才知道？Ward+cpolar让异常无处藏](https://blog.csdn.net/weixin_66401877/article/details/153683359)
+

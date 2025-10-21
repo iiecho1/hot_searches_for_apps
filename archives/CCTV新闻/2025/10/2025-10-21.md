@@ -187,3 +187,5 @@
 
 + [日本国会众议院首相指名选举投票开始](https://news.cctv.com/2025/10/21/ARTIodrVyNSb8j15ORBXmflf251021.shtml)
 
++ [高市早苗将确定出任日本首相](https://news.cctv.com/2025/10/21/ARTI3EMs8bOVotoxpCvNdrBh251021.shtml)
+
