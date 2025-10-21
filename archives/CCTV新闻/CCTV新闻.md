@@ -211,3 +211,11 @@
 
 + [高市早苗内阁完成认证 正式成立](https://news.cctv.com/2025/10/21/ARTIBcwUBuwut5W67HIBgNwv251021.shtml)
 
++ [卢浮宫数件珍宝光天化日下被盗 文明殿堂为何频频失守？](https://news.cctv.com/2025/10/21/ARTI9CKUazbSf9wqTAkm5WbW251021.shtml)
+
++ [法国前总统萨科齐入狱服刑](https://news.cctv.com/2025/10/21/ARTIgtg1UF5JsdaHYiZiWuRn251021.shtml)
+
++ [斯洛伐克法院判处总理菲佐遭枪击案凶手21年监禁](https://news.cctv.com/2025/10/21/ARTIWh2owX31HjM1wI84wTzP251021.shtml)
+
++ [美航天局：SpaceX 研发月球着陆器进度滞后 拟重新开放竞标](https://news.cctv.com/2025/10/21/ARTIju5uZsrN2HIwuJj4fUbB251021.shtml)
+
