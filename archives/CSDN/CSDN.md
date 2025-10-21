@@ -131,3 +131,5 @@
 
 + [与deepseek用英语聊天的第一天](https://blog.csdn.net/weixin_44638453/article/details/153654888)
 
++ [【GitHub开源AI精选】开源AI桌面助手Glass：实时屏幕捕捉与音频识别，助力高效办公](https://blog.csdn.net/xiaobing259/article/details/153582011)
+
