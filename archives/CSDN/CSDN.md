@@ -205,3 +205,5 @@
 
 + [【Part 4 未来趋势与技术展望】第二节｜多模态交互体验：手势、语音与眼动控制的集成应用](https://blog.csdn.net/qq_41140324/article/details/153560292)
 
++ [HTML应用指南：利用GET请求获取全国沃尔沃门店位置信息](https://blog.csdn.net/weixin_45812624/article/details/153465315)
+
