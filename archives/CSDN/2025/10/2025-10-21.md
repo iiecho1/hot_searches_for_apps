@@ -183,3 +183,11 @@
 
 + [在昇腾NPU上跑Llama大模型：从零开始的真实测试之旅](https://blog.csdn.net/Mrxiao_bo/article/details/153685207)
 
++ [一个浏览器多人用？Docker+Neko+cpolar实现跨网共享](https://blog.csdn.net/weixin_44976692/article/details/153686775)
+
++ [《 Linux 点滴漫谈： 三 》掌控终端：让 Shell 成为你的系统魔杖](https://blog.csdn.net/mmlhbjk/article/details/153638415)
+
++ [Fiddler抓包+Postman实战之--客户关系管理软件自动化测试](https://blog.csdn.net/taobaty/article/details/153560397)
+
++ [OCR文字识别前沿：PaddleOCR/DBNet++的端到端文本检测与识别](https://blog.csdn.net/Rqaqedamancy/article/details/153576003)
+
