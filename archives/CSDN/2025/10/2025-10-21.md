@@ -179,3 +179,7 @@
 
 + [MongoDB Limit与Skip方法深度解析：高效分页与数据分批处理指南](https://blog.csdn.net/qq_41840843/article/details/149283136)
 
++ [【C + +】异常处理：深度解析与实战](https://blog.csdn.net/tangsl1552/article/details/147401301)
+
++ [在昇腾NPU上跑Llama大模型：从零开始的真实测试之旅](https://blog.csdn.net/Mrxiao_bo/article/details/153685207)
+

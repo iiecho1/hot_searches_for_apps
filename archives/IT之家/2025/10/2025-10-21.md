@@ -63,3 +63,9 @@
 
 + [双手脱离方向盘大吃大喝，男子买新车晒“智驾”被交警找上门](https://m.ithome.com/html/890998.htm)
 
++ [网传格力再向员工发手机：魅族设计生产、不能刷 Flyme](https://m.ithome.com/html/891027.htm)
+
++ [余承东公布华为路由 X3 Pro，下月正式上市](https://m.ithome.com/html/891011.htm)
+
++ [iQOO 15 手机上市创品牌历史销量纪录，开售 30 分钟超上代首日全天](https://m.ithome.com/html/890969.htm)
+
