@@ -181,3 +181,5 @@
 
 + [驻日美军岩国基地附近水体检出“永久性化学物”](https://news.cctv.com/2025/10/21/ARTINFRHXbJdhuNYPDVEBCTR251021.shtml)
 
++ [韩国外长：柬方又逮捕10余名涉电诈韩国公民](https://news.cctv.com/2025/10/21/ARTIcvBEu9P8SGV8UgErkS4y251021.shtml)
+
