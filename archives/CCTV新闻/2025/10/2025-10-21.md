@@ -183,3 +183,7 @@
 
 + [韩国外长：柬方又逮捕10余名涉电诈韩国公民](https://news.cctv.com/2025/10/21/ARTIcvBEu9P8SGV8UgErkS4y251021.shtml)
 
++ [高市早苗当选日本首相](https://news.cctv.com/2025/10/21/ARTI3EMs8bOVotoxpCvNdrBh251021.shtml)
+
++ [日本国会众议院首相指名选举投票开始](https://news.cctv.com/2025/10/21/ARTIodrVyNSb8j15ORBXmflf251021.shtml)
+
