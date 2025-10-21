@@ -145,3 +145,11 @@
 
 + [Java MyBatis（二）--- 多表查询，# 和 $的区别，SQL注入，数据库连接池，动态SQL](https://blog.csdn.net/2301_79722622/article/details/153526080)
 
++ [跨域生成对抗网络](https://blog.csdn.net/LOVEmy134611/article/details/153267798)
+
++ [【愚公系列】《人工智能70年》092-Al的未来（OpenAl宫斗与向人类对齐）](https://blog.csdn.net/aa2528877987/article/details/152508307)
+
++ [单元测试、系统测试、集成测试知识总结](https://blog.csdn.net/zhangsiyuan1998/article/details/153525234)
+
++ [SpringMVC初始](https://blog.csdn.net/weixin_40290845/article/details/153587046)
+
