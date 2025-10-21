@@ -201,3 +201,7 @@
 
 + [苏丹首都喀土穆遭大规模空袭](https://news.cctv.com/2025/10/21/ARTIQjd5Iv0dzdfRdtjjxgzO251021.shtml)
 
++ [里斯本缆车事故初步调查报告：多项违规操作酿大祸](https://news.cctv.com/2025/10/21/ARTIwrL9JLydLrwHh3oZJ2tL251021.shtml)
+
++ [外媒聚焦四中全会：彰显中国发展信心和战略定力](https://news.cctv.com/2025/10/21/ARTI1ICPxt95rxVpAaN7FlMt251021.shtml)
+

@@ -191,3 +191,5 @@
 
 + [OCR文字识别前沿：PaddleOCR/DBNet++的端到端文本检测与识别](https://blog.csdn.net/Rqaqedamancy/article/details/153576003)
 
++ [HTML5 功能介绍，使用场景，对应功能点完整使用示例](https://blog.csdn.net/bsklhao/article/details/153633173)
+

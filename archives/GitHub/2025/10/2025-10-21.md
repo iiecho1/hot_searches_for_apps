@@ -41,3 +41,21 @@
 
 + [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 
++ [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
++ [sharkdp/bat](https://github.com/sharkdp/bat)
+
++ [oceanbase/miniob](https://github.com/oceanbase/miniob)
+
++ [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
++ [servo/servo](https://github.com/servo/servo)
+
++ [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+
++ [is-a-dev/register](https://github.com/is-a-dev/register)
+
++ [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
++ [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
