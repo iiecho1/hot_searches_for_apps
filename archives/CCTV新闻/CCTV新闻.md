@@ -205,3 +205,7 @@
 
 + [外媒聚焦四中全会：彰显中国发展信心和战略定力](https://news.cctv.com/2025/10/21/ARTI1ICPxt95rxVpAaN7FlMt251021.shtml)
 
++ [耗资数亿美元 白宫进行“100多年以来最大规模扩建”](https://news.cctv.com/2025/10/21/ARTIb2RZvQ2TypCSWjG3RFez251021.shtml)
+
++ [俄外长：“立即停火”方案违背俄美此前达成的共识](https://news.cctv.com/2025/10/21/ARTIEgtQXmH3mdG4aK2bYH5e251021.shtml)
+

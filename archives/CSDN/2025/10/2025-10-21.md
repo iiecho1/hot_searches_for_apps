@@ -193,3 +193,13 @@
 
 + [HTML5 功能介绍，使用场景，对应功能点完整使用示例](https://blog.csdn.net/bsklhao/article/details/153633173)
 
++ [从 LLM 到 Agentic AI：构建下一代智能系统的全栈路径](https://blog.csdn.net/CSDNUser_zh/article/details/153676787)
+
++ [C#驱动斑马打印机实现包装自动打印](https://blog.csdn.net/yong9990/article/details/153635072)
+
++ [AIOT定义Web3健康新纪元：从智能硬件到健康金融](https://blog.csdn.net/weixin_59649127/article/details/153638649)
+
++ [芯谷科技--I²C 串行实时时钟，为系统提供持久、精准的时间基准D1307](https://blog.csdn.net/Silicore_Emma/article/details/153625768)
+
++ [HTTPS 与 Node.js，从部署到抓包调试的工程实战指南](https://blog.csdn.net/2501_91591841/article/details/153631577)
+
