@@ -191,3 +191,5 @@
 
 + [AI研究-110 DeepSeek-OCR 原理剖析｜上下文光学压缩、Gundam 动态分辨率与并发预期 附代码](https://blog.csdn.net/w776341482/article/details/153722514)
 
++ [1024--一起来聊YOLO——革命性的实时目标检测技术](https://blog.csdn.net/weixin_51390582/article/details/153739449)
+
