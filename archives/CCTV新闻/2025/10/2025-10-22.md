@@ -171,3 +171,5 @@
 
 + [秘鲁总统宣布利马与卡亚俄进入30天紧急状态](https://news.cctv.com/2025/10/22/ARTI2nI3yDz5bpWLX2cqPMDx251022.shtml)
 
++ [俄罗斯导弹夜袭基辅 乌克兰大规模打击俄化工厂](https://news.cctv.com/2025/10/22/ARTIeIXLvI0aXytY2kfcy3hr251022.shtml)
+
