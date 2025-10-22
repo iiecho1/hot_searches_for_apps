@@ -185,3 +185,5 @@
 
 + [【51单片机】【protues仿真】基于51单片机火灾报警控制系统](https://blog.csdn.net/qq215138327/article/details/153677430)
 
++ [【IO多路转接】高并发服务器实战：Reactor 框架与 Epoll 机制的封装与设计逻辑](https://blog.csdn.net/2401_87944878/article/details/151627937)
+

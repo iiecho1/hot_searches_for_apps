@@ -65,3 +65,9 @@
 
 + [华为鸿蒙 HarmonyOS 6 正式发布：“智慧光感”设计，实况窗、小艺、碰一碰全面升级](https://m.ithome.com/html/891428.htm)
 
++ [王自如入职雷鸟创新，将参与 10 月 23 日 RayNeo Air 4 新品 AR 眼镜发布会](https://m.ithome.com/html/891085.htm)
+
++ [卢伟冰宣布陈奕迅成为 REDMI 声学大使，K90 Pro Max 手机搭载 2.1 立体声系统](https://m.ithome.com/html/891094.htm)
+
++ [2026 款比亚迪宋 L、宋 Pro、秦 L 三款 DM-i 车型 10 月 23 日发布上市](https://m.ithome.com/html/891096.htm)
+

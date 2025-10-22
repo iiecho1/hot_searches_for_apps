@@ -207,3 +207,9 @@
 
 + [今冬会更冷吗？国家气候中心：北方或出现阶段性低温雨雪天气](https://news.cctv.com/2025/10/22/ARTI8z8Jdz41qWImmLw6WBzs251022.shtml)
 
++ [美政府“停摆”三周整 食品救济摊位前排起长队](https://news.cctv.com/2025/10/22/ARTIF6Si7J854YmeN0orMOuK251022.shtml)
+
++ [惊险！印度总统直升机降落时遇险 直升机坪地面突然下陷](https://news.cctv.com/2025/10/22/ARTI2G0VykJGx5ymRBFR4x8L251022.shtml)
+
++ [外媒聚焦中国战略布局：“十五五”规划涵盖未来五年发展蓝图](https://news.cctv.com/2025/10/22/ARTIaCLEC4LfQhMYU4Edj3KY251022.shtml)
+
