@@ -179,3 +179,5 @@
 
 + [全球气候行动拉响“红色警报”：45项关键指标全部“偏离轨道”](https://news.cctv.com/2025/10/22/ARTIBnHoQByO7SvbY1ELpmwy251022.shtml)
 
++ [便捷实惠新体验 中老铁路开行普惠型国际旅游列车](https://news.cctv.com/2025/10/22/ARTIpaaMzrpvqjYMr24YIiVj251022.shtml)
+

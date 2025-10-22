@@ -169,3 +169,9 @@
 
 + [蓝牙PAN精讲[2]：构建个人区域网络的三大场景与核心架构](https://blog.csdn.net/weixin_37800531/article/details/153529550)
 
++ [合合信息亮相PRCV：多模态文本智能与内容安全双擎驱动新突破](https://blog.csdn.net/FRIGIDWINTER/article/details/153533950)
+
++ [【DeepSeek论文精读】13. DeepSeek-OCR：上下文光学压缩](https://blog.csdn.net/youcans/article/details/153677086)
+
++ [TrajBooster——通过轨迹中心学习提升人形全身操作能力的VLA：把智元轮式数据Agibot-World迁移到宇树G1上，最后微调10分钟即可](https://blog.csdn.net/v_JULY_v/article/details/153633373)
+

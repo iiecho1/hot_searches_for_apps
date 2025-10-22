@@ -47,3 +47,5 @@
 
 + [有没有从当前文件夹快速打开终端的方法，不限 mac/win](https://www.v2ex.com/t/1167454)
 
++ [VScode, Cursor, Kiro, Windsurf， Zed 作为 AI 编辑器只留一个留哪个](https://www.v2ex.com/t/1167490)
+
