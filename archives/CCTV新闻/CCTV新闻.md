@@ -169,3 +169,5 @@
 
 + [欧洲19国领导人呼吁欧盟开展制度性改革提升竞争力](https://news.cctv.com/2025/10/23/ARTIreq5XGDaGz08mMPBaisx251023.shtml)
 
++ [在也门被扣押的12名联合国外籍雇员离开萨那](https://news.cctv.com/2025/10/23/ARTIwzvzQj2RZ9SY8LDU6pae251023.shtml)
+
