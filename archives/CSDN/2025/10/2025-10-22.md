@@ -139,3 +139,7 @@
 
 + [【案例实战】多维度视角：鸿蒙2048游戏开发的深度分析与感悟](https://blog.csdn.net/laozhangguzhang/article/details/153656532)
 
++ [C++ int 类型深度解析：从底层实现到实战应用](https://blog.csdn.net/2501_90415399/article/details/153643720)
+
++ [【花雕学编程】Arduino BLDC 之室内自主移动机器人](https://blog.csdn.net/weixin_41659040/article/details/153677345)
+
