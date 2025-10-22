@@ -107,3 +107,25 @@
 
 + [纯CSS实现多种背景图案：渐变条纹、蓝图网格、波点与棋盘效果全解析（附 Sass Mixin 封装）](https://blog.csdn.net/weixin_42285486/article/details/153686379)
 
++ [Java 大视界 -- Java 大数据在智慧文旅虚拟场景构建与沉浸式体验增强中的技术支撑](https://blog.csdn.net/atgfg/article/details/153652383)
+
++ [【深度学习计算机视觉】14：实战Kaggle比赛：狗的品种识别（ImageNet Dogs）](https://blog.csdn.net/Morse_Chen/article/details/153619177)
+
++ [【C++：继承】面向对象编程精要：C++继承机制深度解析与最佳实践](https://blog.csdn.net/2401_89899187/article/details/153706038)
+
++ [MongoDB文档删除全面指南：方法与最佳实践](https://blog.csdn.net/qq_41840843/article/details/149282694)
+
++ [使用CNN构建VAE](https://blog.csdn.net/LOVEmy134611/article/details/153410549)
+
++ [LangGraph 记忆系统实战：反馈循环 + 动态 Prompt 让 AI 持续学习](https://blog.csdn.net/m0_46510245/article/details/153650636)
+
++ [【Linux系统编程】权限的概念](https://blog.csdn.net/2402_89035880/article/details/153696909)
+
++ [选高考700分还是700亿？如何用700分因果律武器为人类创造最大价值？](https://blog.csdn.net/RenGJ010617/article/details/149741553)
+
++ [【成长纪实】三个月的鸿蒙成长之路：大学生从0开始的鸿蒙心得与体会](https://blog.csdn.net/2302_80329073/article/details/153729470)
+
++ [基于MIMO FMCW雷达的二维角度分析多径抑制技术——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153661070)
+
++ [前端三驾马车（HTML/CSS/JS）核心概念深度解析](https://blog.csdn.net/qq_46123200/article/details/153684818)
+

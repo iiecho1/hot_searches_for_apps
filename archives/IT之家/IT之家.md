@@ -37,3 +37,5 @@
 
 + [2026 款比亚迪宋 L、宋 Pro、秦 L 三款 DM-i 车型 10 月 23 日发布上市](https://m.ithome.com/html/891096.htm)
 
++ [华为鸿蒙 HarmonyOS 6 系统升级计划公布](https://m.ithome.com/html/891430.htm)
+
