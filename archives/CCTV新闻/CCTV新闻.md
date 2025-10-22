@@ -181,3 +181,17 @@
 
 + [便捷实惠新体验 中老铁路开行普惠型国际旅游列车](https://news.cctv.com/2025/10/22/ARTIpaaMzrpvqjYMr24YIiVj251022.shtml)
 
++ [加拿大称对以总理“入境即逮捕” 以方要求其改变立场](https://news.cctv.com/2025/10/22/ARTIGtbz0ZJUpVrT8BmloGPZ251022.shtml)
+
++ [美联航客机巡航途中风挡破裂 或因撞上气象气球](https://news.cctv.com/2025/10/22/ARTIjvDwxa5i8Dm6B4h4g8dp251022.shtml)
+
++ [尼日利亚油罐车爆炸已致38人死亡 46人受伤](https://news.cctv.com/2025/10/22/ARTI5UwYozHeGed1rFdsAxhM251022.shtml)
+
++ [佩通坦为何此时“辞职”？](https://news.cctv.com/2025/10/22/ARTIdxuc0sG5tDUVWthRjTq9251022.shtml)
+
++ [抢劫事件后 法国卢浮宫重新开门](https://news.cctv.com/2025/10/22/ARTIPXvEHBZ2mAUUGTsjxl6G251022.shtml)
+
++ [或陷史上最长政府“停摆” 美国人在经历着怎样的阵痛？](https://news.cctv.com/2025/10/22/ARTIz93U5Unrq9R71e5rtdDE251022.shtml)
+
++ [乌干达发生严重车祸 致63人死亡](https://news.cctv.com/2025/10/22/ARTI0MD1VQmeQ5IUiBt5Rl3H251022.shtml)
+

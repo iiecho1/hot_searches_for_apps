@@ -175,3 +175,9 @@
 
 + [TrajBooster——通过轨迹中心学习提升人形全身操作能力的VLA：把智元轮式数据Agibot-World迁移到宇树G1上，最后微调10分钟即可](https://blog.csdn.net/v_JULY_v/article/details/153633373)
 
++ [MongoDB文档删除全面指南：方法与最佳实践](https://blog.csdn.net/qq_41840843/article/details/149282694)
+
++ [【机器学习06】神经网络的实现、训练与向量化](https://blog.csdn.net/2502_90283908/article/details/153698762)
+
++ [MySQL数据库管理、DDL、DQL、DML、DCL等总结](https://blog.csdn.net/m0_72892640/article/details/153560194)
+
