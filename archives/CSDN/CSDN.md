@@ -193,3 +193,9 @@
 
 + [1024--一起来聊YOLO——革命性的实时目标检测技术](https://blog.csdn.net/weixin_51390582/article/details/153739449)
 
++ [TensorFlow2 Python深度学习 - 生成对抗网络（GAN）实例](https://blog.csdn.net/caoli201314/article/details/153629174)
+
++ [Android 14.0 Launcher3禁止改变density等系统密度导致布局变化hotseat靠右边显示功能实现](https://blog.csdn.net/baidu_41666295/article/details/153721015)
+
++ [探讨一下java将来未来两年内的就业以及发展](https://blog.csdn.net/2401_88503486/article/details/153701911)
+
