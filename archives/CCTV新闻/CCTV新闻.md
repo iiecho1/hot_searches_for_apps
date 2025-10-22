@@ -215,3 +215,7 @@
 
 + [乌干达车祸遇难人数修正为46人](https://news.cctv.com/2025/10/22/ARTIojlVw7pZxAOPIlG3fh20251022.shtml)
 
++ [塞尔维亚首都发生枪击和纵火事件 武契奇发表讲话](https://news.cctv.com/2025/10/22/ARTIqoVRdVJFyOxFC8wUeRrV251022.shtml)
+
++ [冰岛首次在野外发现蚊子](https://news.cctv.com/2025/10/22/ARTItCKhgK52pppAHsOJX1fZ251022.shtml)
+
