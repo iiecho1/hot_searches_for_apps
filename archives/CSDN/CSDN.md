@@ -181,3 +181,7 @@
 
 + [MySQL数据库管理、DDL、DQL、DML、DCL等总结](https://blog.csdn.net/m0_72892640/article/details/153560194)
 
++ [DeepSeek刚刚开源了一个3B的 OCR模型：什么是DeepSeek-OCR？单张A100-40G每天可以处理20万+页文档](https://blog.csdn.net/qq_44866828/article/details/153705342)
+
++ [【51单片机】【protues仿真】基于51单片机火灾报警控制系统](https://blog.csdn.net/qq215138327/article/details/153677430)
+

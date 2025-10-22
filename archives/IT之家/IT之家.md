@@ -59,3 +59,9 @@
 
 + [小米 REDMI K90 标准版手机预热：6.59 英寸“黄金中尺寸”单手易用](https://m.ithome.com/html/891321.htm)
 
++ [华为鸿蒙 HarmonyOS 6 系统公测版升级入口开放](https://m.ithome.com/html/891403.htm)
+
++ [华为鸿蒙 HarmonyOS 6 支持与苹果 iOS / iPadOS / macOS 互传体验](https://m.ithome.com/html/891412.htm)
+
++ [华为鸿蒙 HarmonyOS 6 正式发布：“智慧光感”设计，实况窗、小艺、碰一碰全面升级](https://m.ithome.com/html/891428.htm)
+

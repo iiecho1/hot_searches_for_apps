@@ -195,3 +195,15 @@
 
 + [乌干达发生严重车祸 致63人死亡](https://news.cctv.com/2025/10/22/ARTI0MD1VQmeQ5IUiBt5Rl3H251022.shtml)
 
++ [匈牙利总理：布达佩斯峰会的筹备工作仍在继续](https://news.cctv.com/2025/10/22/ARTI41agBgR2dpPQQULHZgfC251022.shtml)
+
++ [航空安全事故频发 美参议院一委员会通过空域管控法案](https://news.cctv.com/2025/10/22/ARTI5RyOUFmcXZBpmwCnPUsq251022.shtml)
+
++ [研究人员首次在冰岛自然环境中发现蚊子](https://news.cctv.com/2025/10/22/ARTIC3qoV0TknuQEMXuCQbuo251022.shtml)
+
++ [卢浮宫遭抢文物未投保 分析称追回可能性低](https://news.cctv.com/2025/10/22/ARTI68ScL5GRFPpEtRSgV76I251022.shtml)
+
++ [乌总统签署法律 允许战时向土耳其和英国派遣武装力量](https://news.cctv.com/2025/10/22/ARTISjsGwtfGn8K2LXUWyoek251022.shtml)
+
++ [今冬会更冷吗？国家气候中心：北方或出现阶段性低温雨雪天气](https://news.cctv.com/2025/10/22/ARTI8z8Jdz41qWImmLw6WBzs251022.shtml)
+

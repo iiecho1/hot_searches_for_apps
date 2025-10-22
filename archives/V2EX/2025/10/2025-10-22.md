@@ -49,3 +49,7 @@
 
 + [VScode, Cursor, Kiro, Windsurf， Zed 作为 AI 编辑器只留一个留哪个](https://www.v2ex.com/t/1167490)
 
++ [🎁送码｜球搭子 App，WATCH 挥拍运动记录，支持网球、羽毛球、乒乓球、匹克球！](https://www.v2ex.com/t/1167472)
+
++ [黄金大家多少价位进的？慌不慌？](https://www.v2ex.com/t/1167471)
+
