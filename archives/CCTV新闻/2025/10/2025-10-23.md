@@ -171,3 +171,11 @@
 
 + [在也门被扣押的12名联合国外籍雇员离开萨那](https://news.cctv.com/2025/10/23/ARTIwzvzQj2RZ9SY8LDU6pae251023.shtml)
 
++ [泰国官员：泰国推出多项举措保障中国游客安全](https://news.cctv.com/2025/10/23/ARTIlDmIDQL4xAiqp5l90wiL251023.shtml)
+
++ [米兰冬奥会和冬残奥会官方主题海报正式发布](https://news.cctv.com/2025/10/23/ARTIyeUBTWEpRfa2dfLVCCP9251023.shtml)
+
++ [特朗普称即日起停止所有向哥伦比亚的付款](https://news.cctv.com/2025/10/23/ARTID8hXrsEiGX5O9Z4FZVI5251023.shtml)
+
++ [美国国债总额首次超过38万亿美元](https://news.cctv.com/2025/10/23/ARTIYE2aqCLcXffZynX4WsLc251023.shtml)
+

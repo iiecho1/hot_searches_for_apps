@@ -135,3 +135,5 @@
 
 + [Vue图片压缩方案](https://blog.csdn.net/han2434/article/details/153691933)
 
++ [Qt和ffmpeg结合打造gb28181推流/支持udp和tcp被动以及tcp主动三种方式](https://blog.csdn.net/feiyangqingyun/article/details/153675421)
+
