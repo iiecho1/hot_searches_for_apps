@@ -167,3 +167,7 @@
 
 + [加拿大总理称“若内塔尼亚胡入境，将对其进行逮捕”，以色列政府回应](https://news.cctv.com/2025/10/22/ARTIAAIV54SbHdbnAhBA75wW251022.shtml)
 
++ [佩通坦辞去为泰党党首职务](https://news.cctv.com/2025/10/22/ARTIjSOYUXNzowIbLDEer0p4251022.shtml)
+
++ [秘鲁总统宣布利马与卡亚俄进入30天紧急状态](https://news.cctv.com/2025/10/22/ARTI2nI3yDz5bpWLX2cqPMDx251022.shtml)
+

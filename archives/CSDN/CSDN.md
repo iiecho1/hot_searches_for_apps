@@ -143,3 +143,11 @@
 
 + [【花雕学编程】Arduino BLDC 之室内自主移动机器人](https://blog.csdn.net/weixin_41659040/article/details/153677345)
 
++ [Spring AI与DeepSeek实战：打造企业级智能体](https://blog.csdn.net/mr_yuanshen/article/details/153653306)
+
++ [矩阵的奇异值分解（SVD）及其在计算机图形学中的应用](https://blog.csdn.net/2503_92624912/article/details/153656847)
+
++ [C/C++大雪纷飞①](https://blog.csdn.net/m0_68111267/article/details/153629052)
+
++ [分布式事务原理深度解析](https://blog.csdn.net/lilinhai548/article/details/153643472)
+
