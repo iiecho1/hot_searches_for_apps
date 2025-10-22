@@ -165,3 +165,7 @@
 
 + [卢浮宫馆长出席听证会 承认未及时察觉窃贼行踪](https://news.cctv.com/2025/10/23/ARTIKicraQHLejpkkylyhGqB251023.shtml)
 
++ [历经两年多战火 苏丹喀土穆国际机场恢复运营](https://news.cctv.com/2025/10/23/ARTIS7jBIEuMVh91v9nmtDzZ251023.shtml)
+
++ [欧洲19国领导人呼吁欧盟开展制度性改革提升竞争力](https://news.cctv.com/2025/10/23/ARTIreq5XGDaGz08mMPBaisx251023.shtml)
+
