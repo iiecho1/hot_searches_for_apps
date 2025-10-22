@@ -177,3 +177,5 @@
 
 + [哥斯达黎加沿岸远海发生5.5级地震，震源深度30千米](https://news.cctv.com/2025/10/22/ARTI1TDHtEJSahSRmJTTHpFG251022.shtml)
 
++ [全球气候行动拉响“红色警报”：45项关键指标全部“偏离轨道”](https://news.cctv.com/2025/10/22/ARTIBnHoQByO7SvbY1ELpmwy251022.shtml)
+

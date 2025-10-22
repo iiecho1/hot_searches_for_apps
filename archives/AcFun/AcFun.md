@@ -77,3 +77,7 @@
 
 + [短发也挺好看的！★手机竖屏1676★](https://m.acfun.cn/v/?ac=47936622)
 
++ [Historic X-over NJPW×STARDOM in 广州 2025.10.05](https://m.acfun.cn/v/?ac=47937508)
+
++ [【翻唱】文艺复兴燃起来了！《六兆年と一夜物語》](https://m.acfun.cn/v/?ac=47937996)
+

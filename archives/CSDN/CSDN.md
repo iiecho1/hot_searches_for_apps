@@ -165,3 +165,7 @@
 
 + [USB2.0协议深入理解——从零开始学习USB2.0协议（三）](https://blog.csdn.net/weixin_43083491/article/details/153634016)
 
++ [Qt和ffmpeg结合打造gb28181推流/支持udp和tcp被动以及tcp主动三种方式](https://blog.csdn.net/feiyangqingyun/article/details/153675421)
+
++ [蓝牙PAN精讲[2]：构建个人区域网络的三大场景与核心架构](https://blog.csdn.net/weixin_37800531/article/details/153529550)
+
