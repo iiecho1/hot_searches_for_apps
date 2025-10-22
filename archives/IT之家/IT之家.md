@@ -25,3 +25,15 @@
 
 + [小米 REDMI K90 标准版手机预热：6.59 英寸“黄金中尺寸”单手易用](https://m.ithome.com/html/891321.htm)
 
++ [王自如入职雷鸟创新，将参与 10 月 23 日 RayNeo Air 4 新品 AR 眼镜发布会](https://m.ithome.com/html/891085.htm)
+
++ [政府平台双补贴：苹果 iPhone 17 Pro Max 手机 9292 元再降价（非百亿补贴）](https://m.ithome.com/html/891126.htm)
+
++ [3999 元起 realme 真我 GT8 Pro 手机发布：行业首创机械拼装设计、理光 GR 合作影像、第五代骁龙 8 至尊版](https://m.ithome.com/html/891148.htm)
+
++ [卢伟冰宣布陈奕迅成为 REDMI 声学大使，K90 Pro Max 手机搭载 2.1 立体声系统](https://m.ithome.com/html/891094.htm)
+
++ [2899 元起 realme 真我 GT8 标准版手机发布：骁龙 8 至尊版、理光 GR 影像系统](https://m.ithome.com/html/891150.htm)
+
++ [2026 款比亚迪宋 L、宋 Pro、秦 L 三款 DM-i 车型 10 月 23 日发布上市](https://m.ithome.com/html/891096.htm)
+

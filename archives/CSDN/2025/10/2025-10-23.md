@@ -101,3 +101,9 @@
 
 + [Vue 概述以及基本使用](https://blog.csdn.net/footless_bird/article/details/153632025)
 
++ [Java 大视界 -- Java 大数据在智慧交通停车场智能管理与车位预测中的应用实践](https://blog.csdn.net/atgfg/article/details/153704513)
+
++ [牛客网 AI题​（一）机器学习 + 深度学习](https://blog.csdn.net/nju_spy/article/details/153359151)
+
++ [纯CSS实现多种背景图案：渐变条纹、蓝图网格、波点与棋盘效果全解析（附 Sass Mixin 封装）](https://blog.csdn.net/weixin_42285486/article/details/153686379)
+

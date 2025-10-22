@@ -161,3 +161,7 @@
 
 + [谱写全球妇女事业发展新篇章](https://news.cctv.com/2025/10/20/ARTIBVBiQFmmNDL9sfMMVUHf251020.shtml)
 
++ [印度恢复驻阿富汗大使馆](https://news.cctv.com/2025/10/23/ARTIRr2sEj1xc2T8x3hWToeS251022.shtml)
+
++ [卢浮宫馆长出席听证会 承认未及时察觉窃贼行踪](https://news.cctv.com/2025/10/23/ARTIKicraQHLejpkkylyhGqB251023.shtml)
+
