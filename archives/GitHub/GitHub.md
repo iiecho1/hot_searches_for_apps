@@ -39,3 +39,19 @@
 
 + [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
++ [emcie-co/parlant](https://github.com/emcie-co/parlant)
+
++ [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)
+
++ [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+
++ [rossant/awesome-math](https://github.com/rossant/awesome-math)
+
++ [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+
++ [zyronon/TypeWords](https://github.com/zyronon/TypeWords)
+
++ [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+
++ [remix-run/react-router](https://github.com/remix-run/react-router)
+
