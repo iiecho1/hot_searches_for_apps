@@ -207,3 +207,9 @@
 
 + [首次公开展出新型巡航导弹，乌克兰导弹改进局限性明显](https://news.cctv.com/2025/10/23/ARTIEL7tq8ft5hF0YPMjSwFQ251023.shtml)
 
++ [国际视角看四中全会：开放创新赋能世界发展 未来五年备受期待](https://news.cctv.com/2025/10/23/ARTIimWvyWCkFA1CXMMAOM71251023.shtml)
+
++ [印度卖不出，美国吃不上](https://news.cctv.com/2025/10/23/ARTIpLbZLkMnyLUYqfSp6yb7251023.shtml)
+
++ [外媒聚焦中国“十四五”非凡成就 期待“十五五”再为全球经济发展注入新动能](https://news.cctv.com/2025/10/23/ARTI1zYJxQgVgBSbUdHIgZdu251023.shtml)
+

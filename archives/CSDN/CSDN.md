@@ -191,3 +191,7 @@
 
 + [[linux仓库]信号处理[进程信号·伍]](https://blog.csdn.net/egoist2023/article/details/153779679)
 
++ [Java 注解与反射实战：手把手实现自定义日志与参数校验注解](https://blog.csdn.net/qq_40303030/article/details/152257151)
+
++ [【论文笔记】LTX-Video极致速度的视频生成模型](https://blog.csdn.net/xian0710830114/article/details/153741278)
+
