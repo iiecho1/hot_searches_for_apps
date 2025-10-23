@@ -69,3 +69,5 @@
 
 + [布晴山考察报告](https://m.acfun.cn/v/?ac=47943296)
 
++ [Bodycam这款游戏的确太过真实，就像真实枪战现场](https://m.acfun.cn/v/?ac=47940466)
+

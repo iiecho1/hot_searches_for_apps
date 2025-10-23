@@ -57,3 +57,5 @@
 
 + [卢伟冰：小米 17 系列手机大获成功，Pro 版本销量占比超 80%](https://m.ithome.com/html/891869.htm)
 
++ [小米发布澎湃 OS 超级岛开发、接入指南，助力开发者轻松接入](https://m.ithome.com/html/891730.htm)
+
