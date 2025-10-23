@@ -167,3 +167,9 @@
 
 + [瑞典首相称暂不向乌克兰提供老式“鹰狮”战机](https://news.cctv.com/2025/10/24/ARTIbCVxpXh3yFnLN6qzDgR7251023.shtml)
 
++ [调查显示德国工业企业持续受困于关税冲击](https://news.cctv.com/2025/10/24/ARTIjWLWdoSWyieZ4Af7CZIZ251024.shtml)
+
++ [乌克兰总统与德国总理举行会晤 讨论乌能源供应](https://news.cctv.com/2025/10/24/ARTIARxxGcDvfshKQDwS744c251023.shtml)
+
++ [英吉利海峡偷渡抵英人数创历史第二高](https://news.cctv.com/2025/10/24/ARTIT2ZC9VCd0z07LFPczpjf251023.shtml)
+
