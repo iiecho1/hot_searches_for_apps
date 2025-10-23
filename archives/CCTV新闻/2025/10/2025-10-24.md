@@ -163,3 +163,7 @@
 
 + [俄外交部发言人：美欧对俄新制裁不会产生预期效果](https://news.cctv.com/2025/10/24/ARTI9bKyca73nG1e2VHO5pQ7251024.shtml)
 
++ [国际残奥委会：俄罗斯运动员无法参加2026年冬残奥会](https://news.cctv.com/2025/10/24/ARTI8u8Uc0U8YeB9FqSAhhYe251024.shtml)
+
++ [瑞典首相称暂不向乌克兰提供老式“鹰狮”战机](https://news.cctv.com/2025/10/24/ARTIbCVxpXh3yFnLN6qzDgR7251023.shtml)
+

@@ -109,3 +109,19 @@
 
 + [支付警告与中年危机](https://blog.csdn.net/michaelline/article/details/153718642)
 
++ [MongoDB迁移到KES实战全纪录（下）：性能优化与实践总结](https://blog.csdn.net/qq_32682301/article/details/153792266)
+
++ [昇腾NPU实战进阶：Llama模型升级测评（2.0→3.1性能+4.3%，huggingface-cli工具链详解）](https://blog.csdn.net/Mrxiao_bo/article/details/153777748)
+
++ [【探寻C++之旅】C++11 深度解析：重塑现代 C++ 的关键特性](https://blog.csdn.net/2302_80243065/article/details/153796046)
+
++ [Linux操作系统-父进程的等待：一个关于回收与终结的故事](https://blog.csdn.net/2301_80236968/article/details/153695763)
+
++ [C++微服务实战中好友管理子服务的全面解析](https://blog.csdn.net/zrt123456i/article/details/153791436)
+
++ [OMSDK WebView Display 接入步骤](https://blog.csdn.net/g984160547/article/details/153773076)
+
++ [服务器炸了才知道？Ward+cpolar让异常无处藏](https://blog.csdn.net/weixin_66401877/article/details/153683359)
+
++ [【Linux】教你在 Linux 上搭建 Web 服务器，步骤清晰无门槛](https://blog.csdn.net/2401_86326742/article/details/153741842)
+
