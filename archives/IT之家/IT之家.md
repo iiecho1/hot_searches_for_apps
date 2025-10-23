@@ -75,3 +75,7 @@
 
 + [99 秒换电、续航 500km，京东国民好车“埃安 UT super”名称官宣](https://m.ithome.com/html/891695.htm)
 
++ [小米 REDMI K90 系列手机参数汇总：骁龙 8 至尊版 / 第五代骁龙 8 至尊版，今晚发布](https://m.ithome.com/html/891747.htm)
+
++ [“K 系列最完美标准版”小米 REDMI K90 手机发布：骁龙 8 至尊版、7100mAh 电池，2599 元起](https://m.ithome.com/html/891873.htm)
+

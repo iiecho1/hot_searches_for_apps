@@ -35,3 +35,23 @@
 
 + [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
++ [minio/minio](https://github.com/minio/minio)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
++ [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [meta-pytorch/torchforge](https://github.com/meta-pytorch/torchforge)
+
++ [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)
+
++ [guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt)
+
++ [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
