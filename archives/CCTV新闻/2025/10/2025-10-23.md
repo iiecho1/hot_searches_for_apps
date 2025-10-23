@@ -181,3 +181,15 @@
 
 + [从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？](https://news.cctv.com/2025/10/23/ARTIkbtURIHglbAWAKCaq3mq251023.shtml)
 
++ [诺奖得主：政策不确定性让美国经济“比看上去更糟”](https://news.cctv.com/2025/10/23/ARTIt6Wmp9Y2cS65aHHJLrL3251023.shtml)
+
++ [记者手记｜美政府“停摆”三周 联邦雇员排队领食品救济](https://news.cctv.com/2025/10/23/ARTI51YF11r4aLCA01aIO2me251023.shtml)
+
++ [国际观察｜韧性、活力、信心——海外人士解读中国经济“三季报”](https://news.cctv.com/2025/10/23/ARTIMn4JoeUzDuw8wvSy3UV1251023.shtml)
+
++ [“全过程人民民主实践融入中国民众生活日常”（国际人士看中国“十四五”成就）](https://news.cctv.com/2025/10/23/ARTIaJwX97NXUzQCe7eS3h6d251023.shtml)
+
++ [一图看懂｜挖掘机忙个不停，特朗普对白宫做了哪些改造？](https://news.cctv.com/2025/10/23/ARTIzNpjKlpvDc6JyniV59YJ251023.shtml)
+
++ [朝鲜测试新型武器系统 试射两枚“高超音速飞行体”](https://news.cctv.com/2025/10/23/ARTI40FtE99BhDfp7X3oT8m9251023.shtml)
+
