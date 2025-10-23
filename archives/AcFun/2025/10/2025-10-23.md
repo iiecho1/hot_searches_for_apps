@@ -83,3 +83,7 @@
 
 + [【重音テトSV】ドゥーマー（Doomer）3小时循环版](https://m.acfun.cn/v/?ac=47940175)
 
++ [【绝望女神/翻唱】【烦死了】](https://m.acfun.cn/v/?ac=47939647)
+
++ [为什么晚上总是有星星](https://m.acfun.cn/v/?ac=47936929)
+

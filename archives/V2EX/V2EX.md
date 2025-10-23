@@ -45,3 +45,5 @@
 
 + [果不其然， iPhone Air 扑街了](https://www.v2ex.com/t/1167722)
 
++ [双十一，从苹果人变成安卓人](https://www.v2ex.com/t/1167757)
+

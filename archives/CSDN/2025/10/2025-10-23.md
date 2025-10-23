@@ -155,3 +155,13 @@
 
 + [Spring Cloud微服务架构深度实战：从单体到分布式的完整演进之路](https://blog.csdn.net/2401_85023633/article/details/153686289)
 
++ [即刻创作：用 Trickle + GLM-4.6 API 构建互动小说创作工具](https://blog.csdn.net/Rqaqedamancy/article/details/153752847)
+
++ [在昇腾NPU上跑Llama 2模型：一次完整的性能测试与实战通关指南](https://blog.csdn.net/weixin_44976692/article/details/153740256)
+
++ [【案例实战】鸿蒙分布式智能办公应用的架构设计与性能优化](https://blog.csdn.net/ailuloo/article/details/153621435)
+
++ [Java 大视界 -- Java 大数据在智能教育学习社区互动模式创新与用户活跃度提升中的应用（426）](https://blog.csdn.net/atgfg/article/details/153737990)
+
++ [基于频率分集阵列的MIMO雷达联合距离角度估计——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153752528)
+

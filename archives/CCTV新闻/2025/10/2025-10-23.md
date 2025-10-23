@@ -193,3 +193,9 @@
 
 + [朝鲜测试新型武器系统 试射两枚“高超音速飞行体”](https://news.cctv.com/2025/10/23/ARTI40FtE99BhDfp7X3oT8m9251023.shtml)
 
++ [2026年米兰冬奥会、冬残奥会主题海报亮相](https://news.cctv.com/2025/10/23/ARTIxRy6Vje8tvuIGbbEXlp6251023.shtml)
+
++ [美经济学家：美国经济“比看上去更糟”](https://news.cctv.com/2025/10/23/ARTIZC6FYWz9OwUDGatz1Twk251023.shtml)
+
++ [NASA急踢SpaceX，谁能“接盘”美国登月计划？](https://news.cctv.com/2025/10/23/ARTIQADFulHYyz3DJG8xfBHJ251023.shtml)
+
