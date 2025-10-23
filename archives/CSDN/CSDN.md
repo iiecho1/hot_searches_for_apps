@@ -165,3 +165,9 @@
 
 + [基于频率分集阵列的MIMO雷达联合距离角度估计——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153752528)
 
++ [基于MATLAB的证件照片背景换色实例](https://blog.csdn.net/xrgs_shz/article/details/153685173)
+
++ [AI工具赋能Python开发者：项目开发中的创意守护与效率革命](https://blog.csdn.net/qq_33650655/article/details/153514573)
+
++ [微信小程序 - 详解百度API车牌识别+同时识别图像中的多张车牌+实时车牌检测功能示例代码，用户手机拍照或相册选取图片后调用百度api+车牌提取+OCR图像识别，可做实时扫描车牌并录入（完整流程源码）](https://blog.csdn.net/weixin_44198965/article/details/153773493)
+
