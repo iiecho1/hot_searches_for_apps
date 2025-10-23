@@ -45,3 +45,15 @@
 
 + [99 秒换电、续航 500km，京东国民好车“埃安 UT super”名称官宣](https://m.ithome.com/html/891695.htm)
 
++ [“K 系列最完美标准版”小米 REDMI K90 手机发布：骁龙 8 至尊版、7100mAh 电池，2599 元起](https://m.ithome.com/html/891873.htm)
+
++ [3999 元起小米 REDMI K90 Pro Max 手机发布：第五代骁龙 8 至尊版、Bose 调音，首搭 5X 潜望长焦](https://m.ithome.com/html/891876.htm)
+
++ [小米 REDMI K90 系列手机参数汇总：骁龙 8 至尊版 / 第五代骁龙 8 至尊版，今晚发布](https://m.ithome.com/html/891747.htm)
+
++ [小米 REDMI K90 Pro Max 冠军版手机发布：兰博基尼 SQUADRA CORSE 定制元素设计，5499 元](https://m.ithome.com/html/891882.htm)
+
++ [京东汽车回应 001 号“国民好车”拍出 7819 万元天价：向竞拍出价最接近车辆最终发布价格的用户送一辆车](https://m.ithome.com/html/891771.htm)
+
++ [卢伟冰：小米 17 系列手机大获成功，Pro 版本销量占比超 80%](https://m.ithome.com/html/891869.htm)
+
