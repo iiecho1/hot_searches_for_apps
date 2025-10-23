@@ -199,3 +199,13 @@
 
 + [Spring MVC 拦截器interceptor](https://blog.csdn.net/qq_33181292/article/details/153565803)
 
++ [PRCV 2025：文本何以成为 AGI 的必经之路？](https://blog.csdn.net/weixin_51390582/article/details/153778727)
+
++ [031：vue+threeJS 实体颜色换装，点击按钮切换色值](https://blog.csdn.net/cuclife/article/details/153782819)
+
++ [【Docker项目实战】使用Docker部署OmniTools在线工具箱](https://blog.csdn.net/jks212454/article/details/148818989)
+
++ [为什么AI会改变单片机的未来？](https://blog.csdn.net/AI_zhuli/article/details/153706905)
+
++ [【RabbitMQ】简介](https://blog.csdn.net/yj20040627/article/details/153730801)
+

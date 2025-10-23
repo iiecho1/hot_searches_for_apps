@@ -213,3 +213,11 @@
 
 + [外媒聚焦中国“十四五”非凡成就 期待“十五五”再为全球经济发展注入新动能](https://news.cctv.com/2025/10/23/ARTI1zYJxQgVgBSbUdHIgZdu251023.shtml)
 
++ [【世界说】枪支令美国社会充斥消极氛围：对安全焦虑、对枪暴麻木](https://news.cctv.com/2025/10/23/ARTItkrg3nKptvOl1eJ1rZte251023.shtml)
+
++ [关税影响显现：美国玩具制造商重塑供应链 损失数亿美元利润](https://news.cctv.com/2025/10/23/ARTIhnvMmJWBOI88ydliINdv251023.shtml)
+
++ [外媒聚焦“十四五”成就：推动高质量发展，为世界贡献中国智慧](https://news.cctv.com/2025/10/23/ARTIa5XKZHTQnSyKBxFhbaIE251023.shtml)
+
++ [【世界说】美国GDP的虚拟泡沫：繁荣背后的经济“虚胖”幻象](https://news.cctv.com/2025/10/23/ARTIq4Qmm0lnr34oY6iktoYM251023.shtml)
+
