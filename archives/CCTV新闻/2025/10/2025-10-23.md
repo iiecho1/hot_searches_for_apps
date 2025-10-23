@@ -201,3 +201,9 @@
 
 + [欧盟正式通过对俄罗斯第19轮制裁](https://news.cctv.com/2025/10/23/ARTICwfUgCaExsy1lwVmsqcQ251023.shtml)
 
++ [日本自民党多名涉“黑金”丑闻议员任新内阁要职](https://news.cctv.com/2025/10/23/ARTIQwEZO2PikBL6QrVUG0xx251023.shtml)
+
++ [卢浮宫劫案之后 法国另一家博物馆失窃](https://news.cctv.com/2025/10/23/ARTIXsKEPbFwO3Pg2UeOxEXX251023.shtml)
+
++ [首次公开展出新型巡航导弹，乌克兰导弹改进局限性明显](https://news.cctv.com/2025/10/23/ARTIEL7tq8ft5hF0YPMjSwFQ251023.shtml)
+

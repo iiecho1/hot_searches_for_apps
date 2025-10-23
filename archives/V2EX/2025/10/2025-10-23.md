@@ -49,3 +49,7 @@
 
 + [关于新来的技术 leader 准备用 Claude code 升级现有项目](https://www.v2ex.com/t/1167789)
 
++ [打算买车，求推荐](https://www.v2ex.com/t/1167766)
+
++ [程序员到中年, 怎么保护头发](https://www.v2ex.com/t/1167744)
+
