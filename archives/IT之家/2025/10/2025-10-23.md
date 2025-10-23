@@ -69,3 +69,9 @@
 
 + [郭明錤：苹果 iPhone Air 需求不及预期，供应链产能将缩减超 80%](https://m.ithome.com/html/891593.htm)
 
++ [增幅约 86.67%：苹果 iPhone 18 系列 A20 芯片首发台积电 2nm 工艺，单颗成本预估 280 美元](https://m.ithome.com/html/891598.htm)
+
++ [用 Mac 打游戏：2025 款苹果 MacBook Pro 运行《赛博朋克 2077》帧率大幅提升，M5 对比 M4 光追模式下最高领先 190%](https://m.ithome.com/html/891557.htm)
+
++ [99 秒换电、续航 500km，京东国民好车“埃安 UT super”名称官宣](https://m.ithome.com/html/891695.htm)
+
