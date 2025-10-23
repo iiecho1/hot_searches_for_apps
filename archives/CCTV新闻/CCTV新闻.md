@@ -175,3 +175,5 @@
 
 + [委内瑞拉沿海五州启动“独立海岸200”防御演习](https://news.cctv.com/2025/10/24/ARTISLGDJFEJgjvKM1xJvj6l251024.shtml)
 
++ [俄罗斯总统普京：布达佩斯会晤更像是改期而非取消](https://news.cctv.com/2025/10/24/ARTIP5kk77MpBgd7WkWynCqZ251024.shtml)
+
