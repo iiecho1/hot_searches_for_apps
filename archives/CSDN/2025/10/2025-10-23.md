@@ -137,3 +137,13 @@
 
 + [Qt和ffmpeg结合打造gb28181推流/支持udp和tcp被动以及tcp主动三种方式](https://blog.csdn.net/feiyangqingyun/article/details/153675421)
 
++ [Llama-2-7b在昇腾NPU上的六大核心场景性能基准报告](https://blog.csdn.net/2301_80863610/article/details/153744914)
+
++ [机器学习之生成对抗网络（GAN）](https://blog.csdn.net/Pocker_Spades_A/article/details/153753379)
+
++ [分布式事务原理深度解析](https://blog.csdn.net/lilinhai548/article/details/153643472)
+
++ [2025年如何高效安全地在软件外包平台上接单](https://blog.csdn.net/festaw/article/details/153696663)
+
++ [我的第一个开源项目【IOT-Tree Server】](https://blog.csdn.net/qq_40065619/article/details/153686047)
+
