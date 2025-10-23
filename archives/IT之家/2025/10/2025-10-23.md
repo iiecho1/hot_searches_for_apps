@@ -39,3 +39,19 @@
 
 + [华为鸿蒙 HarmonyOS 6 系统升级计划公布](https://m.ithome.com/html/891430.htm)
 
++ [华为 Mate 60 系列手机升级鸿蒙 HarmonyOS 6 公测版支持防窥保护](https://m.ithome.com/html/891444.htm)
+
++ [王自如自曝负债 1 个亿，出差只能坐绿皮火车](https://m.ithome.com/html/891511.htm)
+
++ [卢伟冰谈小米 11 失败：做得非常薄，又赶上了骁龙 888，本质还是能力不太够](https://m.ithome.com/html/891521.htm)
+
++ [小米卢伟冰：未来手机品牌分成两类，有自研芯片和没有自研芯片](https://m.ithome.com/html/891526.htm)
+
++ [跳过 19，消息称 2027 年苹果新机将被命名为 iPhone 20 系列](https://m.ithome.com/html/891643.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.108 SP6 版本开推，新增艺术签名、AI 一键成片等功能](https://m.ithome.com/html/891405.htm)
+
++ [京东“国民好车”001 号特别版 1 元起拍，最终价超 7800 万元](https://m.ithome.com/html/891528.htm)
+
++ [前 iQOO 产品经理宋紫薇创业 AI 硬件，首款产品曝光](https://m.ithome.com/html/891569.htm)
+

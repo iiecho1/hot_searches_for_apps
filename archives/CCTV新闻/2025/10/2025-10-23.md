@@ -199,3 +199,5 @@
 
 + [NASA急踢SpaceX，谁能“接盘”美国登月计划？](https://news.cctv.com/2025/10/23/ARTIQADFulHYyz3DJG8xfBHJ251023.shtml)
 
++ [欧盟正式通过对俄罗斯第19轮制裁](https://news.cctv.com/2025/10/23/ARTICwfUgCaExsy1lwVmsqcQ251023.shtml)
+
