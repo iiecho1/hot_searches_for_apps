@@ -47,3 +47,5 @@
 
 + [双十一，从苹果人变成安卓人](https://www.v2ex.com/t/1167757)
 
++ [关于新来的技术 leader 准备用 Claude code 升级现有项目](https://www.v2ex.com/t/1167789)
+

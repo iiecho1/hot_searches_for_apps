@@ -171,3 +171,7 @@
 
 + [微信小程序 - 详解百度API车牌识别+同时识别图像中的多张车牌+实时车牌检测功能示例代码，用户手机拍照或相册选取图片后调用百度api+车牌提取+OCR图像识别，可做实时扫描车牌并录入（完整流程源码）](https://blog.csdn.net/weixin_44198965/article/details/153773493)
 
++ [K8S 二进制集群搭建（一主两从）](https://blog.csdn.net/liu_chen_yang/article/details/151709127)
+
++ [LabVIEW优化显微镜自动对焦的稳定性](https://blog.csdn.net/bjcyck/article/details/153772318)
+
