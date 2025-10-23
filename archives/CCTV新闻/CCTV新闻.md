@@ -161,3 +161,5 @@
 
 + [高市早苗将确定出任日本首相](https://news.cctv.com/2025/10/21/ARTI3EMs8bOVotoxpCvNdrBh251021.shtml)
 
++ [俄外交部发言人：美欧对俄新制裁不会产生预期效果](https://news.cctv.com/2025/10/24/ARTI9bKyca73nG1e2VHO5pQ7251024.shtml)
+
