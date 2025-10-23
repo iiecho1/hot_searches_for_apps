@@ -25,3 +25,23 @@
 
 + [前 iQOO 产品经理宋紫薇创业 AI 硬件，首款产品曝光](https://m.ithome.com/html/891569.htm)
 
++ [李肖爽辟谣“小米汽车 SOS 1 秒接通不含排队时间”等相关内容：完全失实](https://m.ithome.com/html/891589.htm)
+
++ [新增 14 键键盘布局、优化语音输入，华为小艺输入法鸿蒙版 1.1.9.207 上线尝鲜](https://m.ithome.com/html/891696.htm)
+
++ [小米卢伟冰时隔两年再讲 REDMI 发布会，明天 K90 系列见](https://m.ithome.com/html/891541.htm)
+
++ [闲鱼客服回应平台出现法国巴黎卢浮宫被盗珠宝：大数据多维度监测中，如果看到建议举报](https://m.ithome.com/html/891579.htm)
+
++ [NFC 技术迎来重大升级：读取距离从 5 毫米提升至 20 毫米](https://m.ithome.com/html/891604.htm)
+
++ [郭明錤：苹果 iPhone Air 需求不及预期，供应链产能将缩减超 80%](https://m.ithome.com/html/891593.htm)
+
++ [增幅约 86.67%：苹果 iPhone 18 系列 A20 芯片首发台积电 2nm 工艺，单颗成本预估 280 美元](https://m.ithome.com/html/891598.htm)
+
++ [28.99 万元起凯迪拉克新 CT6 正式上市：搭载磁浮底盘与 2.0T 可变缸发动机](https://m.ithome.com/html/891539.htm)
+
++ [用 Mac 打游戏：2025 款苹果 MacBook Pro 运行《赛博朋克 2077》帧率大幅提升，M5 对比 M4 光追模式下最高领先 190%](https://m.ithome.com/html/891557.htm)
+
++ [99 秒换电、续航 500km，京东国民好车“埃安 UT super”名称官宣](https://m.ithome.com/html/891695.htm)
+

@@ -173,3 +173,5 @@
 
 + [英吉利海峡偷渡抵英人数创历史第二高](https://news.cctv.com/2025/10/24/ARTIT2ZC9VCd0z07LFPczpjf251023.shtml)
 
++ [委内瑞拉沿海五州启动“独立海岸200”防御演习](https://news.cctv.com/2025/10/24/ARTISLGDJFEJgjvKM1xJvj6l251024.shtml)
+
