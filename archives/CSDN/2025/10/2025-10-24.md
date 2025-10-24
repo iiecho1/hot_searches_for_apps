@@ -141,3 +141,9 @@
 
 + [从被动防御到主动防护：雷池WAF+cpolar的安全实践](https://blog.csdn.net/weixin_74888502/article/details/153792517)
 
++ [Python 小工具实战：图片水印批量添加工具](https://blog.csdn.net/weixin_43151418/article/details/153735719)
+
++ [亚马逊商品信息速查：IPIDEA企业级HTTP服务驱动的可视化采集工具](https://blog.csdn.net/m0_63947499/article/details/153791839)
+
++ [蓝牙PAN精讲[3]：用户界面解析，安全与可发现性的艺术](https://blog.csdn.net/weixin_37800531/article/details/153793825)
+
