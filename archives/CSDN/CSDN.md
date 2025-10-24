@@ -173,3 +173,7 @@
 
 + [【FFmpeg】FLV 格式分析 ④ ( 解析 FLV 视频文件 - 代码示例 )](https://blog.csdn.net/han1202012/article/details/145478719)
 
++ [用 AI 科技赋能健康领域，从个人到家庭的全方位守护，这就是水滴健康管家](https://blog.csdn.net/weixin_44953658/article/details/153794786)
+
++ [居民健康监测小程序|基于微信小程序的居民健康监测小程序设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/153816043)
+
