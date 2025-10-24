@@ -181,3 +181,9 @@
 
 + [哈萨克斯坦：飞阅卡因德湖倒立森林](https://photo.cctv.com/2025/10/24/PHOAxxSZDAUp75QrWBCfswSc251024.shtml)
 
++ [民调显示85%美民众认为美国政治暴力正在上升](https://news.cctv.com/2025/10/24/ARTInddG0E8wZFbPwSzz8rgt251024.shtml)
+
++ [文莱发布航空新规 正式认可中国民航局适航标准](https://news.cctv.com/2025/10/24/ARTIEhbYfTZ23BuNaMdENAsV251024.shtml)
+
++ [日本首相高市早苗发表施政演说 将推进政治改革](https://news.cctv.com/2025/10/24/ARTIma1Rxf9UqMTkMgDZXWdF251024.shtml)
+
