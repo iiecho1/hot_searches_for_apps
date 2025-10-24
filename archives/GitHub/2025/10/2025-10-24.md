@@ -31,3 +31,27 @@
 
 + [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
++ [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+
++ [emcie-co/parlant](https://github.com/emcie-co/parlant)
+
++ [zyronon/TypeWords](https://github.com/zyronon/TypeWords)
+
++ [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+
++ [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
+
++ [OpenMind/OM1](https://github.com/OpenMind/OM1)
+
++ [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim)
+
++ [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+
++ [rustfs/rustfs](https://github.com/rustfs/rustfs)
+
++ [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+
++ [directus/directus](https://github.com/directus/directus)
+
++ [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+

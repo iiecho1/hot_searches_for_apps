@@ -77,3 +77,7 @@
 
 + [2026 款比亚迪宋 L DM-i 上市：13.98 万元起，百公里亏电油耗 3.4L、综合续航 1630km](https://m.ithome.com/html/891880.htm)
 
++ [小米汽车公布跨年购置税补贴方案：11 月底前锁单且明年交付可享，最高不超 1.5 万元](https://m.ithome.com/html/892026.htm)
+
++ [5999 元起：华为 MatePad Mini 典藏版开售，寰宇红配色 + 云晰柔光屏](https://m.ithome.com/html/892021.htm)
+
