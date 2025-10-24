@@ -147,3 +147,15 @@
 
 + [蓝牙PAN精讲[3]：用户界面解析，安全与可发现性的艺术](https://blog.csdn.net/weixin_37800531/article/details/153793825)
 
++ [Java 大视界 -- 基于 Java 的大数据机器学习模型在图像识别中的迁移学习与模型优化](https://blog.csdn.net/atgfg/article/details/153699935)
+
++ [未来的 AI 操作系统（八）——灵知之门：当智能系统开始理解存在](https://blog.csdn.net/htw250056/article/details/153739528)
+
++ [C/C++小宇宙](https://blog.csdn.net/m0_68111267/article/details/153629509)
+
++ [Rust 性能优化实战：从 unsafe 使用到 SIMD 指令，让服务端响应快 2 倍](https://blog.csdn.net/qq_41187124/article/details/153695549)
+
++ [《剖析 Linux 文件系统：架构、原理与实战操作指南》](https://blog.csdn.net/Dovis5884/article/details/153772677)
+
++ [腾讯混元Hunyuan3D-Part：重新定义3D部件生成的革命性架构](https://blog.csdn.net/Liudef06/article/details/152927695)
+
