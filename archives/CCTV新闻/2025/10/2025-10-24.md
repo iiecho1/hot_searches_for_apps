@@ -199,3 +199,13 @@
 
 + [“涉嫌向以色列出售军用钢材” 西班牙企业高管遭起诉](https://news.cctv.com/2025/10/24/ARTISJPVIlT396fz4UcsNckw251024.shtml)
 
++ [美国的单边主义严重破坏全球贸易体系——访南方中心执行主任科雷亚](https://news.cctv.com/2025/10/24/ARTItQHAPccLBAD4k0SDTJHJ251024.shtml)
+
++ [【国际漫评】新“薪”酬](https://news.cctv.com/2025/10/24/ARTIpC57vssL2uRXTKjYljb9251024.shtml)
+
++ [外媒关注“十五五”规划建议：新蓝图持续推动高质量发展](https://news.cctv.com/2025/10/24/ARTIaHWDD08I96KV0Lqiy8Hj251024.shtml)
+
++ [外媒关注四中全会公报：科技自立自强成未来五年关键词](https://news.cctv.com/2025/10/24/ARTIUxWNBSVTAT9hTb4ITpl0251024.shtml)
+
++ [外媒：中国“十五五”规划为未来五年发展擘画蓝图](https://news.cctv.com/2025/10/24/ARTInQ4SjVPZFYXULJeG6AIg251024.shtml)
+
