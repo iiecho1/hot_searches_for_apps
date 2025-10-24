@@ -177,3 +177,7 @@
 
 + [俄罗斯总统普京：布达佩斯会晤更像是改期而非取消](https://news.cctv.com/2025/10/24/ARTIP5kk77MpBgd7WkWynCqZ251024.shtml)
 
++ [韩国政府公布梨泰院踩踏事件监察结果](https://news.cctv.com/2025/10/24/ARTIN6FJFpHXnbR81qX5Qg0P251024.shtml)
+
++ [哈萨克斯坦：飞阅卡因德湖倒立森林](https://photo.cctv.com/2025/10/24/PHOAxxSZDAUp75QrWBCfswSc251024.shtml)
+
