@@ -159,3 +159,11 @@
 
 + [腾讯混元Hunyuan3D-Part：重新定义3D部件生成的革命性架构](https://blog.csdn.net/Liudef06/article/details/152927695)
 
++ [虚竹哥与机械工业出版社免费送AI书活动第十期《Gradio大模型实战：打造交互式AI应用全流程》](https://blog.csdn.net/shi_hong_fei_hei/article/details/153786644)
+
++ [Rust语言特性深度解析：所有权、生命周期与模式匹配之我见](https://blog.csdn.net/ailuloo/article/details/153681798)
+
++ [【语音识别】语音识别的发展历程](https://blog.csdn.net/2401_84149564/article/details/153794033)
+
++ [服务器内存排查：free、vmstat、sar命令实战精要](https://blog.csdn.net/qq_26664043/article/details/153578098)
+
