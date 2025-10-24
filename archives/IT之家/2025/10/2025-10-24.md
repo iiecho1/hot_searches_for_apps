@@ -61,3 +61,19 @@
 
 + [对话“苹果税”举报人：美国都免佣了，为何还收中国 30%？](https://m.ithome.com/html/891517.htm)
 
++ [消息称苹果已彻查 iPhone 17 Pro / Max 褪色事件，专家预估问题出在“封孔”工艺](https://m.ithome.com/html/891946.htm)
+
++ [小米 REDMI K90 标准版调价：“12G + 512G”首销月直降 300 元，到手 2899 元](https://m.ithome.com/html/891959.htm)
+
++ [拼多多十周年给员工发黄金，入职满 10 年可得 100 克“金鸡”](https://m.ithome.com/html/891905.htm)
+
++ [2026 款比亚迪秦 L DM-i 上市：限时 9.28 万元起，综合续航 2148km、百公里亏电油耗 2.79L](https://m.ithome.com/html/891878.htm)
+
++ [安世半导体中国：荷兰总部相关决定在中国境内不具备法律效力](https://m.ithome.com/html/891886.htm)
+
++ [首销 2999 元起：小米 REDMI K Pad 上新“流金白”配色，搭载天玑 9400 + 芯片、3K 165Hz LCD 屏](https://m.ithome.com/html/891885.htm)
+
++ [2026 款比亚迪宋 Pro DM-i 上市：限时 9.98 万元起，百公里亏电油耗 3.2L、综合续航 1508km](https://m.ithome.com/html/891883.htm)
+
++ [2026 款比亚迪宋 L DM-i 上市：13.98 万元起，百公里亏电油耗 3.4L、综合续航 1630km](https://m.ithome.com/html/891880.htm)
+

@@ -187,3 +187,5 @@
 
 + [Vue3 - 接入百度API车牌识别+利用OCR识别车牌号码+车牌实时扫描识别功能示例，用户手机拍照或相册选取图片后调用百度api+车牌提取+OCR图像识别，可做实时扫描车牌并录入（详细流程示例代码）](https://blog.csdn.net/weixin_44198965/article/details/153817160)
 
++ [反爬克星还是效率神器？Browser-Use+cpolar重构Web自动化逻辑](https://blog.csdn.net/lrq13965748542/article/details/153823011)
+
