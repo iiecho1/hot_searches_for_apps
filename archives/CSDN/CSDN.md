@@ -189,3 +189,7 @@
 
 + [反爬克星还是效率神器？Browser-Use+cpolar重构Web自动化逻辑](https://blog.csdn.net/lrq13965748542/article/details/153823011)
 
++ [【自然语言处理】预训练01：词嵌入（word2vec）](https://blog.csdn.net/Morse_Chen/article/details/153796866)
+
++ [Linux网络的应用层协议HTTP](https://blog.csdn.net/2302_80310672/article/details/153833153)
+

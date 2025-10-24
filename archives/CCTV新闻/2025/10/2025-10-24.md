@@ -193,3 +193,9 @@
 
 + [听劝 特朗普叫停向旧金山“派兵”](https://news.cctv.com/2025/10/24/ARTIAjr7Q1vLdqTWbjk4yxCO251024.shtml)
 
++ [美政府停摆影响经济数据发布，美联储或“无米下炊”](https://news.cctv.com/2025/10/24/ARTIwIryDPJuaxp2rEaksnRl251024.shtml)
+
++ [出海记丨中国海外产业园区：对外经济合作的闪亮名片](https://news.cctv.com/2025/10/24/ARTIvYbywucu9alwpqEQIhRm251024.shtml)
+
++ [“涉嫌向以色列出售军用钢材” 西班牙企业高管遭起诉](https://news.cctv.com/2025/10/24/ARTISJPVIlT396fz4UcsNckw251024.shtml)
+
