@@ -167,3 +167,5 @@
 
 + [美军第十次打击“贩毒船” 造成6人死亡](https://news.cctv.com/2025/10/25/ARTIB5GPy1P5yvFvbvzMTQZ3251025.shtml)
 
++ [高端访谈丨专访联合国环境规划署执行主任英格·安德森](https://people.cctv.com/2025/10/25/ARTIqmC7bKOD555kZxaZcZoL251025.shtml)
+
