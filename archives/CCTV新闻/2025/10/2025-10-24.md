@@ -209,3 +209,9 @@
 
 + [外媒：中国“十五五”规划为未来五年发展擘画蓝图](https://news.cctv.com/2025/10/24/ARTInQ4SjVPZFYXULJeG6AIg251024.shtml)
 
++ [高市早苗发表首次施政演讲 “鹰派”方针引广泛担忧](https://news.cctv.com/2025/10/24/ARTIsclFHfipkJPH3idQHHj8251024.shtml)
+
++ [欧盟初步认定元宇宙公司违反《数字服务法》或处以高额罚款](https://news.cctv.com/2025/10/24/ARTIwXb6inbtSBW8RCA1zWcm251024.shtml)
+
++ [佩斯科夫：俄将对西方新制裁作出回应](https://news.cctv.com/2025/10/24/ARTIPxqPPdNZVMuHlo5rLkLw251024.shtml)
+
