@@ -65,3 +65,5 @@
 
 + [【G胖限时免费！4款特别好评游戏1折打包入库！】STEAM高评史低游戏推荐（10月24日-10月31](https://m.acfun.cn/v/?ac=47946295)
 
++ [Stellar Marionette 提线木偶 路演](https://m.acfun.cn/v/?ac=47945707)
+
