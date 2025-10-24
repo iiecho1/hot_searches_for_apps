@@ -197,3 +197,7 @@
 
 + [若依(RuoYi)低代码框架全面分析](https://blog.csdn.net/sixpp/article/details/153744768)
 
++ [机器学习概念，算法原理及应用](https://blog.csdn.net/weixin_45556264/article/details/151794523)
+
++ [Vue组件化开发](https://blog.csdn.net/aasd23/article/details/134630580)
+
