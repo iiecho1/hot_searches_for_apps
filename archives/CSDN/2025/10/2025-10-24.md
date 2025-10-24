@@ -177,3 +177,5 @@
 
 + [居民健康监测小程序|基于微信小程序的居民健康监测小程序设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/153816043)
 
++ [IT运维干货：lnav开源日志分析工具详解与CentOS实战部署](https://blog.csdn.net/xishining/article/details/153720834)
+
