@@ -25,3 +25,23 @@
 
 + [初代 iPhone 玻璃屏诞生内幕，康宁 CEO 首度披露乔布斯的“大师级”施压](https://m.ithome.com/html/891941.htm)
 
++ [“K 系列最完美标准版”小米 REDMI K90 手机发布：骁龙 8 至尊版、7100mAh 电池，2599 元起](https://m.ithome.com/html/891873.htm)
+
++ [3999 元起小米 REDMI K90 Pro Max 手机发布：第五代骁龙 8 至尊版、Bose 调音，首搭 5X 潜望长焦](https://m.ithome.com/html/891876.htm)
+
++ [拼多多十周年给员工发黄金，入职满 10 年可得 100 克“金鸡”](https://m.ithome.com/html/891905.htm)
+
++ [2026 款比亚迪秦 L DM-i 上市：限时 9.28 万元起，综合续航 2148km、百公里亏电油耗 2.79L](https://m.ithome.com/html/891878.htm)
+
++ [安世半导体中国：荷兰总部相关决定在中国境内不具备法律效力](https://m.ithome.com/html/891886.htm)
+
++ [小米 REDMI K90 Pro Max 冠军版手机发布：兰博基尼 SQUADRA CORSE 定制元素设计，5499 元](https://m.ithome.com/html/891882.htm)
+
++ [卢伟冰：小米 17 系列手机大获成功，Pro 版本销量占比超 80%](https://m.ithome.com/html/891869.htm)
+
++ [首销 2999 元起：小米 REDMI K Pad 上新“流金白”配色，搭载天玑 9400 + 芯片、3K 165Hz LCD 屏](https://m.ithome.com/html/891885.htm)
+
++ [2026 款比亚迪宋 Pro DM-i 上市：限时 9.98 万元起，百公里亏电油耗 3.2L、综合续航 1508km](https://m.ithome.com/html/891883.htm)
+
++ [2026 款比亚迪宋 L DM-i 上市：13.98 万元起，百公里亏电油耗 3.4L、综合续航 1630km](https://m.ithome.com/html/891880.htm)
+
