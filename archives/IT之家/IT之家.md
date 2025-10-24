@@ -45,3 +45,19 @@
 
 + [2026 款比亚迪宋 L DM-i 上市：13.98 万元起，百公里亏电油耗 3.4L、综合续航 1630km](https://m.ithome.com/html/891880.htm)
 
++ [跳过 19，消息称 2027 年苹果新机将被命名为 iPhone 20 系列](https://m.ithome.com/html/891643.htm)
+
++ [新增 14 键键盘布局、优化语音输入，华为小艺输入法鸿蒙版 1.1.9.207 上线尝鲜](https://m.ithome.com/html/891696.htm)
+
++ [NFC 技术迎来重大升级：读取距离从 5 毫米提升至 20 毫米](https://m.ithome.com/html/891604.htm)
+
++ [小米 REDMI K90 系列手机参数汇总：骁龙 8 至尊版 / 第五代骁龙 8 至尊版，今晚发布](https://m.ithome.com/html/891747.htm)
+
++ [99 秒换电、续航 500km，京东国民好车“埃安 UT super”名称官宣](https://m.ithome.com/html/891695.htm)
+
++ [增幅约 86.67%：苹果 iPhone 18 系列 A20 芯片首发台积电 2nm 工艺，单颗成本预估 280 美元](https://m.ithome.com/html/891598.htm)
+
++ [郭明錤：苹果 iPhone Air 需求不及预期，供应链产能将缩减超 80%](https://m.ithome.com/html/891593.htm)
+
++ [京东汽车回应 001 号“国民好车”拍出 7819 万元天价：向竞拍出价最接近车辆最终发布价格的用户送一辆车](https://m.ithome.com/html/891771.htm)
+

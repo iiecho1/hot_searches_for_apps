@@ -107,3 +107,19 @@
 
 + [【微信小程序 + 消息订阅 + 授权】 微信小程序实现消息订阅流程介绍，代码示例（仅前端）](https://blog.csdn.net/qq_45954390/article/details/153737868)
 
++ [技术引领场景革新｜合合信息PRCV论坛聚焦多模态文本智能前沿实践](https://blog.csdn.net/IRpickstars/article/details/153817181)
+
++ [为什么AI会改变单片机的未来？](https://blog.csdn.net/AI_zhuli/article/details/153706905)
+
++ [【花雕学编程】Arduino BLDC 之机器人路径点导航与传感器融合](https://blog.csdn.net/weixin_41659040/article/details/153814549)
+
++ [打破机房围墙：VMware+cpolar构建跨网络虚拟实验室](https://blog.csdn.net/weixin_43151418/article/details/153815521)
+
++ [【论文笔记】LTX-Video极致速度的视频生成模型](https://blog.csdn.net/xian0710830114/article/details/153741278)
+
++ [浙人医创新开新篇——用KingbaseES数据库开创首个多院区异构多活容灾架构](https://blog.csdn.net/2302_79376097/article/details/153833848)
+
++ [华工科技（000988）2025年4月22日—10月22日](https://blog.csdn.net/wudonglianga/article/details/153754019)
+
++ [网络 UDP 和 TCP / IP详细介绍](https://blog.csdn.net/2401_89019969/article/details/153263211)
+
