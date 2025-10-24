@@ -179,3 +179,11 @@
 
 + [IT运维干货：lnav开源日志分析工具详解与CentOS实战部署](https://blog.csdn.net/xishining/article/details/153720834)
 
++ [Opencv(一): 用Opencv了解图像](https://blog.csdn.net/Mrliu__/article/details/153791256)
+
++ [Spring AOP：注解配置与XML配置双实战](https://blog.csdn.net/weixin_62043600/article/details/153821750)
+
++ [Spring AI与DeepSeek实战：打造企业级知识库+系统API调用](https://blog.csdn.net/2401_88326089/article/details/153824307)
+
++ [Vue3 - 接入百度API车牌识别+利用OCR识别车牌号码+车牌实时扫描识别功能示例，用户手机拍照或相册选取图片后调用百度api+车牌提取+OCR图像识别，可做实时扫描车牌并录入（详细流程示例代码）](https://blog.csdn.net/weixin_44198965/article/details/153817160)
+

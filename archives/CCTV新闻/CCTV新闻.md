@@ -187,3 +187,7 @@
 
 + [日本首相高市早苗发表施政演说 将推进政治改革](https://news.cctv.com/2025/10/24/ARTIma1Rxf9UqMTkMgDZXWdF251024.shtml)
 
++ [诺奖得主警告：美国经济“表强实危”，人工智能繁荣难掩整体停滞](https://news.cctv.com/2025/10/24/ARTIGLfV6FbZvkwNtzFHDrzn251024.shtml)
+
++ [外媒：中国经济稳步增长，多领域展现韧性](https://news.cctv.com/2025/10/24/ARTIfh38OQjeu0Bw7nMNqGHW251024.shtml)
+
