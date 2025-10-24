@@ -161,3 +161,9 @@
 
 + [全球气候行动拉响“红色警报”：45项关键指标全部“偏离轨道”](https://news.cctv.com/2025/10/22/ARTIBnHoQByO7SvbY1ELpmwy251022.shtml)
 
++ [为“打击贩毒” 美军调派“福特”号航母至加勒比海](https://news.cctv.com/2025/10/25/ARTIUGyAbIepZGskP7hoPJga251025.shtml)
+
++ [超半数以公民反对内塔尼亚胡参加2026年议会选举](https://news.cctv.com/2025/10/25/ARTIJEa4AViZyKuLbcW8VU9q251025.shtml)
+
++ [美军第十次打击“贩毒船” 造成6人死亡](https://news.cctv.com/2025/10/25/ARTIB5GPy1P5yvFvbvzMTQZ3251025.shtml)
+
