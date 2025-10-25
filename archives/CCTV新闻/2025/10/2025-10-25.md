@@ -177,3 +177,5 @@
 
 + [美国部署航母打击群并发动制裁 哥伦比亚和委内瑞拉强烈谴责](https://news.cctv.com/2025/10/25/ARTI4c5pwzrsdAdSpJCqs5ty251025.shtml)
 
++ [被也门胡塞武装扣押联合国人员增至55人](https://news.cctv.com/2025/10/25/ARTIJOwso0Y70I7t8Aod3lMx251025.shtml)
+
