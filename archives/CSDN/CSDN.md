@@ -141,3 +141,5 @@
 
 + [【Docker项目实战】使用Docker部署OmniTools在线工具箱](https://blog.csdn.net/jks212454/article/details/148818989)
 
++ [小程序文件在线显示（支持word，图片，视频等）](https://blog.csdn.net/weixin_45853881/article/details/153836076)
+
