@@ -137,3 +137,7 @@
 
 + [华工科技（000988）2025年4月22日—10月22日](https://blog.csdn.net/wudonglianga/article/details/153754019)
 
++ [Java 大视界 -- Java 大数据机器学习模型在智能客服多轮对话系统中的优化策略](https://blog.csdn.net/atgfg/article/details/153800332)
+
++ [【Docker项目实战】使用Docker部署OmniTools在线工具箱](https://blog.csdn.net/jks212454/article/details/148818989)
+
