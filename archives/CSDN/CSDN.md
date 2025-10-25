@@ -159,3 +159,9 @@
 
 + [Hive数据仓库：架构原理与实践指南](https://blog.csdn.net/m0_74385041/article/details/153841671)
 
++ [Willow × Quantum Echoes：可验证量子优势的实锤来了（含面向工程师的读懂指南）](https://blog.csdn.net/qq_44866828/article/details/153846280)
+
++ [Spark微博舆情分析系统 情感分析 爬虫 Hadoop和Hive 贴吧数据 双平台 讲解视频 大数据 Hadoop ✅](https://blog.csdn.net/q_3456621138/article/details/153851513)
+
++ [【网络安全】未授权漏洞](https://blog.csdn.net/Dalik1018/article/details/153777338)
+
