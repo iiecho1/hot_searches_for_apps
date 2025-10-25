@@ -163,3 +163,9 @@
 
 + [委内瑞拉总统：美编造谎言试图制造战争](https://news.cctv.com/2025/10/26/ARTI41e2ayuAsAherJ3dmuXR251026.shtml)
 
++ [外媒：泽连斯基呼吁欧洲暂时“借给”乌克兰“爱国者”防空导弹系统](https://news.cctv.com/2025/10/26/ARTInCmas5F2iJzVCdqsWTvA251026.shtml)
+
++ [凯瑟琳·康诺利当选爱尔兰总统](https://news.cctv.com/2025/10/26/ARTImVKWirCT0BGQRXgmYGfQ251026.shtml)
+
++ [美国总统特朗普启程访问亚洲三国](https://news.cctv.com/2025/10/26/ARTI5KbGO1qET8r6us03BDsz251026.shtml)
+
