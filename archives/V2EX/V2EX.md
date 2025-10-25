@@ -67,3 +67,7 @@
 
 + [2025 订阅 lightroom 的最优方案是啥](https://www.v2ex.com/t/1168242)
 
++ [途观 L 插混、星愿、MEGA 同一天烧的](https://www.v2ex.com/t/1168271)
+
++ [有些 APP 根据当前 App Store 帐号验证订阅，换号就掉订阅，有没有办法？](https://www.v2ex.com/t/1168268)
+

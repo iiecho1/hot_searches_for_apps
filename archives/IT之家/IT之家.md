@@ -65,3 +65,25 @@
 
 + [理想汽车回应 MEGA 行驶中起火：驾乘人员全部安全离车，积极配合消防部门调查](https://m.ithome.com/html/892095.htm)
 
++ [（更新：官方已删除文档信息）消息称华为 Mate 80 全系支持 3D 人脸](https://m.ithome.com/html/892252.htm)
+
++ [小米 SU7 Ultra 汽车“碳纤维双风道前舱盖”选配车主可获“空气动力学免费升级服务”](https://m.ithome.com/html/892273.htm)
+
++ [原道推出全新入耳式耳机“泪”：首发价 99 元，号称旗舰声学下放](https://m.ithome.com/html/892231.htm)
+
++ [买家网购苹果手机仅退款不退货遭商家维权，法官调解后支付货款](https://m.ithome.com/html/892223.htm)
+
++ [小米 YU7 GT 征战纽北：“SUV 猛兽”再曝，有望超 1500 马力成新一代“圈速收割机”](https://m.ithome.com/html/892232.htm)
+
++ [备战 iPhone 18 系列，苹果被曝已向三星下单 1300 万颗 10nm LPDDR5X 内存芯片](https://m.ithome.com/html/892201.htm)
+
++ [小米神秘穿戴设备入网，支持 UWB 技术](https://m.ithome.com/html/892191.htm)
+
++ [一加 15 官方磁吸手机壳公布：镂空散热、芳纶纤维、砂岩质感，10 月 27 日发布](https://m.ithome.com/html/892210.htm)
+
++ [消息称小米 17 Air 手机正评估中：eSIM + 超薄机身 + 2 亿像素主摄、明年发布](https://m.ithome.com/html/892319.htm)
+
++ [龙芯 + 华为工业鸿蒙操作系统：“华龙体系”已在航空 / 汽车 / 装备制造等多个关键行业落地](https://m.ithome.com/html/892228.htm)
+
++ [iPhone 17 Pro Max 摸底：苹果 iOS 26.1 液态玻璃“色调”模式对提升续航影响有限](https://m.ithome.com/html/892236.htm)
+

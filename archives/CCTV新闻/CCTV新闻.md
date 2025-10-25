@@ -185,3 +185,9 @@
 
 + [南非欢迎全球监管机构将其移出特别审查名单](https://news.cctv.com/2025/10/25/ARTIoBciWCpQ8to9rFXYBqJj251025.shtml)
 
++ [诺奖得主：美国经济处于反常状态 关键领域发展受阻](https://news.cctv.com/2025/10/25/ARTId9HC0pWCihlOVpBob7J6251025.shtml)
+
++ [与世界各国共享机遇共同发展——国际社会热议中共二十届四中全会擘画“十五五”发展蓝图](https://news.cctv.com/2025/10/25/ARTIpD2SewomlajLKK65vRdw251025.shtml)
+
++ [国际媒体热议四中全会公报：“中国把人民放在核心位置”](https://news.cctv.com/2025/10/25/ARTIiG91V1aJWuLTtiBJDWjX251025.shtml)
+
