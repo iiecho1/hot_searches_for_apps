@@ -79,3 +79,5 @@
 
 + [热烈又明媚！️Rollin～](https://m.acfun.cn/v/?ac=47932786)
 
++ [【赤也】ファンファーレ——FROZEN QUALZA](https://m.acfun.cn/v/?ac=47946982)
+
