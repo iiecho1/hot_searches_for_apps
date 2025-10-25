@@ -141,3 +141,11 @@
 
 + [ip -6 a show dev eth0](https://blog.csdn.net/hezuijiudexiaobai/article/details/153831512)
 
++ [【数据库】浙人医携手金仓数据库，打造全国首个多院区异构多活容灾架构](https://blog.csdn.net/lmy_520/article/details/153837137)
+
++ [依托金仓数据库的医疗信创多院区实践与 KingbaseES 操作详解](https://blog.csdn.net/hanwangyyds/article/details/153850554)
+
++ [ESP32使用笔记(基于ESP-IDF):组件注册表介绍与使用详解](https://blog.csdn.net/qq8864/article/details/153850844)
+
++ [浙人医首创多院区异构多活LIS信创样板：KingbaseES支撑6级容灾，RTO≤10分钟](https://blog.csdn.net/liu_chen_yang/article/details/153834138)
+
