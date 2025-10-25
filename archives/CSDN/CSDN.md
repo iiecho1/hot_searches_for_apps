@@ -113,3 +113,27 @@
 
 + [MyBatis 与 Spring Data JPA 核心对比：选型指南与最佳实践](https://blog.csdn.net/csdn_silent/article/details/153832184)
 
++ [Docker Rename 命令：原理、实践与陷阱规避](https://blog.csdn.net/qq_41840843/article/details/149033080)
+
++ [【机器学习】k近邻法](https://blog.csdn.net/2401_84149564/article/details/153850407)
+
++ [基于KingbaseES的医疗多中心数据同步与业务连续性保障机制研究](https://blog.csdn.net/weixin_52908342/article/details/153839532)
+
++ [大数据Spark（七十）：Transformation转换算子cogroup和zip使用案例](https://blog.csdn.net/xiaoweite1/article/details/153851304)
+
++ [打破机房围墙：VMware+cpolar构建跨网络虚拟实验室](https://blog.csdn.net/weixin_43151418/article/details/153815521)
+
++ [亚马逊商品信息速查：IPIDEA企业级HTTP服务驱动的可视化采集工具](https://blog.csdn.net/m0_63947499/article/details/153791839)
+
++ [企业数据仓库](https://blog.csdn.net/ThinkWon/article/details/153851072)
+
++ [FreeP2W：一个PDF转Word的CLI工具](https://blog.csdn.net/qq1198768105/article/details/153899053)
+
++ [C++微服务实战中好友管理子服务的全面解析](https://blog.csdn.net/zrt123456i/article/details/153791436)
+
++ [基于单片机的故障检测自动保护智能防夹自动门设计及LCD状态显示系统](https://blog.csdn.net/xuezhang666666/article/details/153838759)
+
++ [Linux网络的应用层协议HTTP](https://blog.csdn.net/2302_80310672/article/details/153833153)
+
++ [华工科技（000988）2025年4月22日—10月22日](https://blog.csdn.net/wudonglianga/article/details/153754019)
+

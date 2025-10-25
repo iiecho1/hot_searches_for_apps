@@ -49,3 +49,9 @@
 
 + [理想汽车回应 MEGA 行驶中起火：驾乘人员全部安全离车，积极配合消防部门调查](https://m.ithome.com/html/892095.htm)
 
++ [备战 iPhone 18 系列，苹果被曝已向三星下单 1300 万颗 10nm LPDDR5X 内存芯片](https://m.ithome.com/html/892201.htm)
+
++ [小米神秘穿戴设备入网，支持 UWB 技术](https://m.ithome.com/html/892191.htm)
+
++ [一加 15 官方磁吸手机壳公布：镂空散热、芳纶纤维、砂岩质感，10 月 27 日发布](https://m.ithome.com/html/892210.htm)
+

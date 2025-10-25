@@ -161,3 +161,5 @@
 
 + [卢浮宫馆长出席听证会 承认未及时察觉窃贼行踪](https://news.cctv.com/2025/10/23/ARTIKicraQHLejpkkylyhGqB251023.shtml)
 
++ [委内瑞拉总统：美编造谎言试图制造战争](https://news.cctv.com/2025/10/26/ARTI41e2ayuAsAherJ3dmuXR251026.shtml)
+

@@ -21,3 +21,5 @@
 
 + [途观 L 插混、星愿、MEGA 同一天烧的](https://www.v2ex.com/t/1168271)
 
++ [独立开发者有点难啊](https://www.v2ex.com/t/1168262)
+
