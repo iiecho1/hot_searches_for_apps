@@ -135,3 +135,5 @@
 
 + [GitHub 热榜项目 - 日榜(2025-10-23)](https://blog.csdn.net/u014390502/article/details/153772168)
 
++ [未来的 AI 操作系统（八）——灵知之门：当智能系统开始理解存在](https://blog.csdn.net/htw250056/article/details/153739528)
+

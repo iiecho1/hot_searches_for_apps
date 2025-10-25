@@ -169,3 +169,11 @@
 
 + [高端访谈丨专访联合国环境规划署执行主任英格·安德森](https://people.cctv.com/2025/10/25/ARTIqmC7bKOD555kZxaZcZoL251025.shtml)
 
++ [泰国王太后诗丽吉逝世](https://news.cctv.com/2025/10/25/ARTI4uXAqkISX84TRet654LN251025.shtml)
+
++ [美国部署航母打击群并发动制裁 哥伦比亚和委内瑞拉强烈谴责](https://news.cctv.com/2025/10/25/ARTId9uI65UAuIUyMahaRCp1251025.shtml)
+
++ [美上诉法院再次阻止国民警卫队在波特兰部署](https://news.cctv.com/2025/10/25/ARTIEzukza7jZJc2iHZPM5Xs251025.shtml)
+
++ [美国部署航母打击群并发动制裁 哥伦比亚和委内瑞拉强烈谴责](https://news.cctv.com/2025/10/25/ARTI4c5pwzrsdAdSpJCqs5ty251025.shtml)
+
