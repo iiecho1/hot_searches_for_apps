@@ -149,3 +149,7 @@
 
 + [浙人医首创多院区异构多活LIS信创样板：KingbaseES支撑6级容灾，RTO≤10分钟](https://blog.csdn.net/liu_chen_yang/article/details/153834138)
 
++ [大模型训练中的关键技术与挑战：数据采集、微调与资源优化](https://blog.csdn.net/qq_44866828/article/details/153817468)
+
++ [python高效爬虫：使用Tornado构建异步网络爬虫详解](https://blog.csdn.net/cui_yonghua/article/details/153867923)
+

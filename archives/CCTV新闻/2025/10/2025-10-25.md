@@ -181,3 +181,5 @@
 
 + [日本北海道附近海域发生5.8级地震，震源深度20千米](https://news.cctv.com/2025/10/25/ARTIbszVGnKws5NE2ePRs4bV251025.shtml)
 
++ [马杜罗：将竭力阻止美国“制造”战争](https://news.cctv.com/2025/10/25/ARTI8foUlbsJcWdVYOJNVonC251025.shtml)
+
