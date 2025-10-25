@@ -195,3 +195,13 @@
 
 + [巴基斯坦与阿富汗在土耳其举行停火议题第二轮会谈](https://news.cctv.com/2025/10/25/ARTIPE9r0GJwgZ1LeGYLhch0251025.shtml)
 
++ [科特迪瓦举行总统选举](https://news.cctv.com/2025/10/25/ARTIzRW8wvyoNiPirTINoT95251025.shtml)
+
++ [英国工党选出新任副党首](https://news.cctv.com/2025/10/25/ARTIgipAXLCK0zjqpxGODFXR251025.shtml)
+
++ [巴拿马举行“插旗仪式” 纪念反美爱国行动](https://news.cctv.com/2025/10/25/ARTIv7xECYBpPct6X4juA6bg251025.shtml)
+
++ [面对美国制裁 一日内两国总统齐发声](https://news.cctv.com/2025/10/25/ARTIqOIbT0ixd3zLXQzviKJU251025.shtml)
+
++ [巴西总统：一个国家不能无视他国主权实施侵犯行为](https://news.cctv.com/2025/10/25/ARTIkiBI18aRHLfLKYgLCh9r251025.shtml)
+
