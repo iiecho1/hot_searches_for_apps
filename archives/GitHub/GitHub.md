@@ -37,3 +37,19 @@
 
 + [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
++ [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+
++ [coinbase/x402](https://github.com/coinbase/x402)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+
++ [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
++ [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
++ [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
++ [cjpais/Handy](https://github.com/cjpais/Handy)
+

@@ -191,3 +191,7 @@
 
 + [国际媒体热议四中全会公报：“中国把人民放在核心位置”](https://news.cctv.com/2025/10/25/ARTIiG91V1aJWuLTtiBJDWjX251025.shtml)
 
++ [绑架中国公民的3名嫌犯被南非警方击毙](https://news.cctv.com/2025/10/25/ARTIwB6ge0LIQbgt0nMkuM5f251025.shtml)
+
++ [巴基斯坦与阿富汗在土耳其举行停火议题第二轮会谈](https://news.cctv.com/2025/10/25/ARTIPE9r0GJwgZ1LeGYLhch0251025.shtml)
+
