@@ -101,3 +101,15 @@
 
 + [苍穹外卖是如何从0搭建一个标准的 Maven 多模块项目​​的？](https://blog.csdn.net/2301_80082921/article/details/153773956)
 
++ [Spring AI与DeepSeek实战：打造企业级知识库+系统API调用](https://blog.csdn.net/2401_88326089/article/details/153824307)
+
++ [未来的 AI 操作系统（十）——终极形态：当智能系统超越意识](https://blog.csdn.net/htw250056/article/details/153791525)
+
++ [【探寻C++之旅】C++11 深度解析：重塑现代 C++ 的关键特性](https://blog.csdn.net/2302_80243065/article/details/153796046)
+
++ [当AI工具赋能Java开发者：项目开发中的效率革命与创意守护](https://blog.csdn.net/qq_33650655/article/details/153579980)
+
++ [VLAN 是什么？如何用 VLAN 提高网络安全与效率？](https://blog.csdn.net/weixin_46654114/article/details/153772511)
+
++ [MyBatis 与 Spring Data JPA 核心对比：选型指南与最佳实践](https://blog.csdn.net/csdn_silent/article/details/153832184)
+
