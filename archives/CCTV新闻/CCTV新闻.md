@@ -179,3 +179,5 @@
 
 + [被也门胡塞武装扣押联合国人员增至55人](https://news.cctv.com/2025/10/25/ARTIJOwso0Y70I7t8Aod3lMx251025.shtml)
 
++ [日本北海道附近海域发生5.8级地震，震源深度20千米](https://news.cctv.com/2025/10/25/ARTIbszVGnKws5NE2ePRs4bV251025.shtml)
+

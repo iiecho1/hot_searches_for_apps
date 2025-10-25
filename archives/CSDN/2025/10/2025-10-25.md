@@ -137,3 +137,7 @@
 
 + [未来的 AI 操作系统（八）——灵知之门：当智能系统开始理解存在](https://blog.csdn.net/htw250056/article/details/153739528)
 
++ [仓颉语言服务端开发实战：搭建高并发接口，适配鸿蒙多终端调用](https://blog.csdn.net/qq_41187124/article/details/153785915)
+
++ [ip -6 a show dev eth0](https://blog.csdn.net/hezuijiudexiaobai/article/details/153831512)
+
