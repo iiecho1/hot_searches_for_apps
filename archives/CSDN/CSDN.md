@@ -189,3 +189,7 @@
 
 + [音视频处理（二）： 一文讲清楚音频处理流程：采样、压缩和播放](https://blog.csdn.net/qq_40036519/article/details/153927788)
 
++ [巡检机器人户外视觉识别困境剖析与自动优化模式构建](https://blog.csdn.net/Wnq10072/article/details/153895179)
+
++ [智能信创新范式：浙江省人民医院的全栈国产化与智能数据底座实践](https://blog.csdn.net/weixin_52258054/article/details/153872820)
+
