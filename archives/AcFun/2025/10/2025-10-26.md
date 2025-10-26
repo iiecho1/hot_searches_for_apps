@@ -91,3 +91,7 @@
 
 + [厨师长分享:有食欲的菜“拌土鸡”，一看就想吃啊太巴适了](https://m.acfun.cn/v/?ac=47948778)
 
++ [除了学习什么都会【今天有什么好笑的 #2189】](https://m.acfun.cn/v/?ac=47950664)
+
++ [【纪念逝去的音乐人SP1】Guilt Machine - Twisted Coil【叫ぶ獣】](https://m.acfun.cn/v/?ac=47949778)
+

@@ -171,3 +171,7 @@
 
 + [【Linux进阶系列】：信号（下）](https://blog.csdn.net/2301_80260194/article/details/153899481)
 
++ [KingbaseES数据库：平替MongoDB | 金仓多模数据库助力电子证照国产化实践](https://blog.csdn.net/weixin_43151418/article/details/153827893)
+
++ [KingbaseES V9R1C10数据库开发规范与实战经验](https://blog.csdn.net/g310773517/article/details/153881000)
+
