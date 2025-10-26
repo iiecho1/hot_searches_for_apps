@@ -151,3 +151,7 @@
 
 + [Spring Boot微服务健康检测：保障系统稳定性的关键实践](https://blog.csdn.net/u012012134/article/details/153775747)
 
++ [GitHub 热榜项目 - 日榜(2025-10-25)](https://blog.csdn.net/u014390502/article/details/153872724)
+
++ [每天学习一个新注解——@SafeVarargs](https://blog.csdn.net/qq_24992377/article/details/153886013)
+

@@ -187,3 +187,7 @@
 
 + [美载人绕月任务飞船完成与火箭对接](https://news.cctv.com/2025/10/26/ARTIJqAff23EfxLKGGwMOACZ251026.shtml)
 
++ [美国威胁再加征关税引发加拿大不满](https://news.cctv.com/2025/10/26/ARTI5D6zruac6QjE7QwlRLKS251026.shtml)
+
++ [美国一大学发生枪击事件 多人中枪](https://news.cctv.com/2025/10/26/ARTIqXBgUl3mUhuIOC4ws0iw251026.shtml)
+
