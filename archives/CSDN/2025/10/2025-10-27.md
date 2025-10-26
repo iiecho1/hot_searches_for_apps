@@ -113,3 +113,23 @@
 
 + [Drogon: 一个开源的C++高性能Web框架](https://blog.csdn.net/haokan123456789/article/details/153882518)
 
++ [树莓派的YOLO智能AI识别系统，识别ESP32还是STM32](https://blog.csdn.net/qq_41954594/article/details/153871939)
+
++ [云台和雷达标定方法](https://blog.csdn.net/knighthood2001/article/details/153926684)
+
++ [CodeBuddy助力开发：从想法到落地的全流程体验](https://blog.csdn.net/Mrxiao_bo/article/details/153932987)
+
++ [▲64QAM调制+软解调+FFT频偏估计+VV(Viterbi-Viterbi)相位同步通信系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/153935072)
+
++ [浙人医创新开新篇——用KingbaseES数据库开创首个多院区异构多活容灾架构](https://blog.csdn.net/2302_79376097/article/details/153833848)
+
++ [GitCode 昇腾 NPU 实测：免费算力跑通 LLaMA 7B，大模型推理性能全面评测](https://blog.csdn.net/m0_68089732/article/details/153874154)
+
++ [使用稀疏采样方法减轻汽车雷达干扰——论文阅读](https://blog.csdn.net/qq_44648285/article/details/153942538)
+
++ [《深入剖析TCP Socket API：从连接到断开的全链路解读》](https://blog.csdn.net/2401_83431652/article/details/153631057)
+
++ [异构多活数据架构支持下的医疗业务高可用实践——全栈信创样本分析](https://blog.csdn.net/weixin_52258054/article/details/153839864)
+
++ [从零开始：C++ TCP 服务器实战教程](https://blog.csdn.net/2301_80541270/article/details/153877080)
+

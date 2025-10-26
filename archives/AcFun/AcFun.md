@@ -63,3 +63,5 @@
 
 + [포켓걸스 하빈/Pocket Girls Habin/스튜디오 촬영회/세로직캠](https://m.acfun.cn/v/?ac=47945607)
 
++ [So Crazy](https://m.acfun.cn/v/?ac=47951340)
+
