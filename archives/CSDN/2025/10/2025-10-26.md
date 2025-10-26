@@ -193,3 +193,11 @@
 
 + [智能信创新范式：浙江省人民医院的全栈国产化与智能数据底座实践](https://blog.csdn.net/weixin_52258054/article/details/153872820)
 
++ [破茧成蝶：全方位解析Java学习难点与征服之路](https://blog.csdn.net/sixpp/article/details/153884727)
+
++ [docker新手教程](https://blog.csdn.net/xzp19841203xzp/article/details/153892588)
+
++ [【IO多路转接】IO 多路复用之 select：从接口解析到服务器实战](https://blog.csdn.net/2401_87944878/article/details/151436016)
+
++ [基于YOLOv8/v10/v11/v12与SpringBoot的前后端分离火灾检测Web系统（DeepSeek智能分析）](https://blog.csdn.net/m0_68036862/article/details/153893334)
+

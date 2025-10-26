@@ -51,3 +51,9 @@
 
 + [现在用 86 手机号注册登录 TG 风险大吗](https://www.v2ex.com/t/1168461)
 
++ [桂林旅游遭遇导游推销](https://www.v2ex.com/t/1168432)
+
++ [27 岁中登的生活记录](https://www.v2ex.com/t/1168455)
+
++ [如何让一套妙控键盘和妙控板方便地在两台 MacBookPro 之间进行切换](https://www.v2ex.com/t/1168384)
+
