@@ -165,3 +165,5 @@
 
 + [乌称一制药企业遭俄导弹袭击 初步损失超1亿美元](https://news.cctv.com/2025/10/27/ARTIR7JR6TPgbRtlO8PJ3ejp251026.shtml)
 
++ [阿根廷举行国会中期选举 改选部分参众议员席位](https://news.cctv.com/2025/10/27/ARTIsEPgFl37uKJQLP7CIhxx251027.shtml)
+
