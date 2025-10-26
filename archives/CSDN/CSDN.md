@@ -133,3 +133,7 @@
 
 + [从零开始：C++ TCP 服务器实战教程](https://blog.csdn.net/2301_80541270/article/details/153877080)
 
++ [【在昇腾NPU上部署Llama-2-7B：从环境配置到性能测试的完整实战】](https://blog.csdn.net/m0_68089732/article/details/153815940)
+
++ [医疗信创标杆实践：浙人医 LIS 系统异构多活容灾架构深度解析（附 KingbaseES 实战）](https://blog.csdn.net/weixin_37800531/article/details/153841194)
+
