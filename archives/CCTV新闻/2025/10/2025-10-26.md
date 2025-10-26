@@ -207,3 +207,5 @@
 
 + [卢浮宫抢劫案两名涉案嫌疑人已被捕](https://news.cctv.com/2025/10/26/ARTIbNPu6yYiUTLx3xsdfWcR251026.shtml)
 
++ [中国驻南非使馆：赞赏南警方击毙涉我绑架案嫌犯](https://news.cctv.com/2025/10/26/ARTIss1AT283Ot66PIi6iesN251026.shtml)
+

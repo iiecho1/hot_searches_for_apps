@@ -83,3 +83,9 @@
 
 + [11.11 会员低至 2 折：夸克迅雷爱奇艺 8 元起 / 月低过去年双 11，百度 QQ 音乐京东 PLUS 年内探底](https://m.ithome.com/html/892336.htm)
 
++ [华为鸿蒙系统与 Android 系统数据互通推进中，预计不久也会支持](https://m.ithome.com/html/892447.htm)
+
++ [华为鸿蒙 HarmonyOS 6 与 iOS 数据互通（传输）功能预计 2025 年 12 月上线](https://m.ithome.com/html/892435.htm)
+
++ [小米 REDMI 产品经理笋寸称 Turbo 将逐步接棒 K 系列，在性能＆性价比上给大家惊喜](https://m.ithome.com/html/892442.htm)
+

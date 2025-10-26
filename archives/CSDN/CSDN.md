@@ -175,3 +175,13 @@
 
 + [KingbaseES V9R1C10数据库开发规范与实战经验](https://blog.csdn.net/g310773517/article/details/153881000)
 
++ [【AI智能体】Coze 打造励志图文智能体应用实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/152597647)
+
++ [【数据库】KingbaseES数据库：首个多院区异构多活容灾架构，浙人医创新开新篇](https://blog.csdn.net/qq_38628970/article/details/153833604)
+
++ [平替 MongoDB 实践指南 | 金仓多模数据库助力电子证照系统国产化改造](https://blog.csdn.net/weixin_62765017/article/details/153848807)
+
++ [星光不负 码向未来｜我的HarmonyOS学习之路与社区成长故事](https://blog.csdn.net/qq_22695001/article/details/153851559)
+
++ [怎么看电脑的主板BIOS型号](https://blog.csdn.net/atian1/article/details/153792755)
+

@@ -31,3 +31,19 @@
 
 + [cjpais/Handy](https://github.com/cjpais/Handy)
 
++ [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
+
++ [2dust/v2rayN](https://github.com/2dust/v2rayN)
+
++ [chartdb/chartdb](https://github.com/chartdb/chartdb)
+
++ [go-gitea/gitea](https://github.com/go-gitea/gitea)
+
