@@ -181,3 +181,9 @@
 
 + [所罗门群岛发生5.9级地震，震源深度60千米](https://news.cctv.com/2025/10/26/ARTI4hymHiXj2LsQlP6C4hgY251026.shtml)
 
++ [日本发射新一代货运飞船为国际空间站送货](https://news.cctv.com/2025/10/26/ARTIfW8PH3pap0byE82mAxO2251026.shtml)
+
++ [日本发生4.7级地震 东京震感明显](https://news.cctv.com/2025/10/26/ARTIny2yAJhc4EXn9VoXezfx251026.shtml)
+
++ [美载人绕月任务飞船完成与火箭对接](https://news.cctv.com/2025/10/26/ARTIJqAff23EfxLKGGwMOACZ251026.shtml)
+
