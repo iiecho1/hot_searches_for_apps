@@ -169,3 +169,5 @@
 
 + [美国总统特朗普启程访问亚洲三国](https://news.cctv.com/2025/10/26/ARTI5KbGO1qET8r6us03BDsz251026.shtml)
 
++ [传言一中国女子被绑架？中国驻柬埔寨大使馆：不属实](https://news.cctv.com/2025/10/26/ARTIfOR1C2IHanwl0JEncxOT251026.shtml)
+
