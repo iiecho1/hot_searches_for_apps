@@ -101,3 +101,15 @@
 
 + [小程序文件在线显示（支持word，图片，视频等）](https://blog.csdn.net/weixin_45853881/article/details/153836076)
 
++ [【AI系列】nvidia-smi介绍与使用](https://blog.csdn.net/qyj19920704/article/details/153855365)
+
++ [KingbaseES数据库：平替MongoDB | 金仓多模数据库助力电子证照国产化实践](https://blog.csdn.net/weixin_43151418/article/details/153827893)
+
++ [网络安全编程——TCP客户端以及服务端Python实现](https://blog.csdn.net/m0_73812072/article/details/153875059)
+
++ [智能信创新范式：浙江省人民医院的全栈国产化与智能数据底座实践](https://blog.csdn.net/weixin_52258054/article/details/153872820)
+
++ [【完整源码+数据集+部署教程】【后勤＆运输集装箱】集装箱字符识别系统源码＆数据集全套：改进yolo11-ASF-DySample](https://blog.csdn.net/weixin_43860634/article/details/153821544)
+
++ [Drogon: 一个开源的C++高性能Web框架](https://blog.csdn.net/haokan123456789/article/details/153882518)
+

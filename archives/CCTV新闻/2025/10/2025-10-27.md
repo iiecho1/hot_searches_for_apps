@@ -161,3 +161,7 @@
 
 + [【世界说】美国GDP的虚拟泡沫：繁荣背后的经济“虚胖”幻象](https://news.cctv.com/2025/10/23/ARTIq4Qmm0lnr34oY6iktoYM251023.shtml)
 
++ [东盟二十余年来首次扩员 释放哪些信号？专家解读](https://news.cctv.com/2025/10/27/ARTIDs30sL1OcfJQchX4nR4A251026.shtml)
+
++ [乌称一制药企业遭俄导弹袭击 初步损失超1亿美元](https://news.cctv.com/2025/10/27/ARTIR7JR6TPgbRtlO8PJ3ejp251026.shtml)
+
