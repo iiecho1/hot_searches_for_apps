@@ -137,3 +137,5 @@
 
 + [医疗信创标杆实践：浙人医 LIS 系统异构多活容灾架构深度解析（附 KingbaseES 实战）](https://blog.csdn.net/weixin_37800531/article/details/153841194)
 
++ [【Linux】 进程管理进阶：从 ps 到 pidstat，高手都在用的监控技巧](https://blog.csdn.net/2401_86326742/article/details/153919194)
+
