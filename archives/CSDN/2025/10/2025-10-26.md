@@ -163,3 +163,11 @@
 
 + [医疗信创标杆实践：浙人医 LIS 系统异构多活容灾架构深度解析（附 KingbaseES 实战）](https://blog.csdn.net/weixin_37800531/article/details/153841194)
 
++ [【参赛心得】HarmonyOS创新赛获奖秘籍：如何用Stage模型和声明式UI打造高分作品](https://blog.csdn.net/IRpickstars/article/details/153881737)
+
++ [并行编程实战——CUDA编程的Warp](https://blog.csdn.net/fpcc/article/details/153914729)
+
++ [【花雕动手做】CanMV K230 视觉识别模块之搭建开发环境 CanMV IDE for K230](https://blog.csdn.net/weixin_41659040/article/details/153877615)
+
++ [【Linux进阶系列】：信号（下）](https://blog.csdn.net/2301_80260194/article/details/153899481)
+

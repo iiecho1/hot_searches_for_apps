@@ -65,3 +65,21 @@
 
 + [腾讯《王者荣耀》十周年庆：部分玩家可能出现登录异常、充值到账延迟的问题，正在处理中](https://m.ithome.com/html/892335.htm)
 
++ [央视《鸿蒙星光盛典》第一波主持人阵容揭晓，含撒贝宁、谢娜、黄晓明、王冰冰](https://m.ithome.com/html/892426.htm)
+
++ [新能源车企倒闭潮下“烂尾堆料车”意外催生市场，原价七八折“抄底”受年轻人青睐](https://m.ithome.com/html/892405.htm)
+
++ [告别核能时代：德国爆破国内最强大核电站](https://m.ithome.com/html/892407.htm)
+
++ [红魔姜超透露今年几乎没厂商用 24GB+1TB 配置原因：成本很高、10700 速率版本产能甚少](https://m.ithome.com/html/892400.htm)
+
++ [歌手郑智化吐槽深圳宝安机场无障碍设施不友好，官方回应称“将试点启用登机连接装置”](https://m.ithome.com/html/892390.htm)
+
++ [苹果 iPhone Air 开售遇冷破发，此前被曝供应链产能将缩减超 80%](https://m.ithome.com/html/892430.htm)
+
++ [8GB 型号有价无市：消息称英伟达已针对 RTX 5060 Ti 显卡供货数量及价格进行管控](https://m.ithome.com/html/892364.htm)
+
++ [安徽一女子用 AI 合成“流浪汉进家门”整蛊丈夫，警方提醒此类行为可被追究法律责任](https://m.ithome.com/html/892387.htm)
+
++ [11.11 会员低至 2 折：夸克迅雷爱奇艺 8 元起 / 月低过去年双 11，百度 QQ 音乐京东 PLUS 年内探底](https://m.ithome.com/html/892336.htm)
+

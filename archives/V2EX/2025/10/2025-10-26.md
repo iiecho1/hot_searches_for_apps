@@ -37,3 +37,7 @@
 
 + [尝试自媒体一周年总结](https://www.v2ex.com/t/1168333)
 
++ [IOS 苦摇一摇广告久矣](https://www.v2ex.com/t/1168406)
+
++ [美区已经无法下载工行、建行、兴业等银行 APP](https://www.v2ex.com/t/1168383)
+

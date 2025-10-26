@@ -193,3 +193,13 @@
 
 + [泰国和柬埔寨就两国边界和平问题签署联合声明](https://news.cctv.com/2025/10/26/ARTIpWrjbX5XrCW7ndLGcTfb251026.shtml)
 
++ [改建争议持续，美媒曝光：白宫东翼拆除后残骸被用作“高尔夫球场填料”](https://news.cctv.com/2025/10/26/ARTIKpyPk0668gephjVRdorz251026.shtml)
+
++ [美国国家飓风研究中心：“梅丽莎”已升级为三级飓风](https://news.cctv.com/2025/10/26/ARTIKPSMsyIHmUJvriF1fJ3v251026.shtml)
+
++ [卢浮宫将部分珠宝转存法国央行金库](https://news.cctv.com/2025/10/26/ARTIczDJWqyBE3Uxqh3saoV1251026.shtml)
+
++ [埃塞俄比亚发生4.9级地震 首都震感明显](https://news.cctv.com/2025/10/26/ARTIDFHWrUMAg78yX2VwT3lq251026.shtml)
+
++ [卢浮宫将部分珠宝转存法国央行金库](https://news.cctv.com/2025/10/26/ARTIiL3adC0wi9aQzDCmlYXb251026.shtml)
+
