@@ -209,3 +209,7 @@
 
 + [中国驻南非使馆：赞赏南警方击毙涉我绑架案嫌犯](https://news.cctv.com/2025/10/26/ARTIss1AT283Ot66PIi6iesN251026.shtml)
 
++ [李成钢：中美就稳妥解决多项重要经贸议题形成初步共识](https://news.cctv.com/2025/10/26/ARTIlGMkwHIHXG6a7QSsz5oS251026.shtml)
+
++ [国际人士表示中国“十五五”擘画发展蓝图 与世界各国共享机遇](https://news.cctv.com/2025/10/26/ARTIHhR3nsrjzUyLUVouVClR251026.shtml)
+

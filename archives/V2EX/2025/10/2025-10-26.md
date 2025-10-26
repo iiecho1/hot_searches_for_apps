@@ -49,3 +49,5 @@
 
 + [v2rayN 在小米手机无法安装](https://www.v2ex.com/t/1168426)
 
++ [现在用 86 手机号注册登录 TG 风险大吗](https://www.v2ex.com/t/1168461)
+
