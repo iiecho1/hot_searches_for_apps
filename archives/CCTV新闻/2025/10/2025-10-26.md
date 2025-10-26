@@ -191,3 +191,5 @@
 
 + [美国一大学发生枪击事件 多人中枪](https://news.cctv.com/2025/10/26/ARTIqXBgUl3mUhuIOC4ws0iw251026.shtml)
 
++ [泰国和柬埔寨就两国边界和平问题签署联合声明](https://news.cctv.com/2025/10/26/ARTIpWrjbX5XrCW7ndLGcTfb251026.shtml)
+

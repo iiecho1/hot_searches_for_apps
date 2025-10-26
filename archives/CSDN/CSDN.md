@@ -155,3 +155,11 @@
 
 + [每天学习一个新注解——@SafeVarargs](https://blog.csdn.net/qq_24992377/article/details/153886013)
 
++ [HTTP和HTTPS终极解析：从明文到加密，web安全的核心防线](https://blog.csdn.net/q17735269514/article/details/153881655)
+
++ [使用 Diffusers 库进行 Stable Diffusion 图像修复与扩展](https://blog.csdn.net/2301_77485708/article/details/153918216)
+
++ [【机器学习】15.深度聚类（Deep Clustering）原理讲解与实战](https://blog.csdn.net/weixin_50804299/article/details/153817177)
+
++ [医疗信创标杆实践：浙人医 LIS 系统异构多活容灾架构深度解析（附 KingbaseES 实战）](https://blog.csdn.net/weixin_37800531/article/details/153841194)
+
