@@ -171,3 +171,13 @@
 
 + [传言一中国女子被绑架？中国驻柬埔寨大使馆：不属实](https://news.cctv.com/2025/10/26/ARTIfOR1C2IHanwl0JEncxOT251026.shtml)
 
++ [厄瓜多尔西部发生袭击事件 8人死亡](https://news.cctv.com/2025/10/26/ARTIe4IqJXEwG2e91X9sFolg251026.shtml)
+
++ [特朗普即将访日 美驻日使馆附近发生持刀袭警事件](https://news.cctv.com/2025/10/26/ARTI9dble8qck9ZIXjFY1MGA251026.shtml)
+
++ [东帝汶正式成为东盟第11个成员国](https://news.cctv.com/2025/10/26/ARTIuhHwlYo8fAStTIGV3Bhb251026.shtml)
+
++ [特朗普称“国际部队”不久将进驻加沙 以军打死杰哈德成员](https://news.cctv.com/2025/10/26/ARTIFhjVukKQxCGMqxWD77mn251026.shtml)
+
++ [所罗门群岛发生5.9级地震，震源深度60千米](https://news.cctv.com/2025/10/26/ARTI4hymHiXj2LsQlP6C4hgY251026.shtml)
+

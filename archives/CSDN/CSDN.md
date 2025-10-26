@@ -147,3 +147,7 @@
 
 + [【Linux网络】定制协议](https://blog.csdn.net/2402_82670467/article/details/153750907)
 
++ [K8S 二进制集群搭建（一主两从）](https://blog.csdn.net/liu_chen_yang/article/details/151709127)
+
++ [Spring Boot微服务健康检测：保障系统稳定性的关键实践](https://blog.csdn.net/u012012134/article/details/153775747)
+
