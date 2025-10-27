@@ -41,3 +41,21 @@
 
 + [鸿蒙智行新款享界 S9 实车曝光：家族式前脸设计、车标上车](https://m.ithome.com/html/892470.htm)
 
++ [小米再向 YU7 锁单等待超 3 个月的用户“送礼”：99 元不锈钢直饮杯](https://m.ithome.com/html/892556.htm)
+
++ [华为 Mate 80？消息称某年度旗舰有望全系 3D 人脸，采用国产方案](https://m.ithome.com/html/892573.htm)
+
++ [古尔曼：苹果原计划 2028 年推出的 18 英寸可折叠 iPad 项目陷入停滞，或将借鉴华为 MateBook Fold 经验](https://m.ithome.com/html/892506.htm)
+
++ [古尔曼：苹果正努力为 iOS 带来更多广告，地图 App 中的搜索广告最快明年上线](https://m.ithome.com/html/892503.htm)
+
++ [华为 nova 14 Pro / Ultra 手机预计今年 12 月 HOTA 支持 AI 辅助构图功能](https://m.ithome.com/html/892469.htm)
+
++ [四川成都一男子未拔充电器致线缆短路引发火灾，客厅“被烧光”损失十余万元](https://m.ithome.com/html/892524.htm)
+
++ [长城灵魂巡航摩托车 S2000C 上市：18.98 万元起，水平对置 8 缸发动机](https://m.ithome.com/html/892507.htm)
+
++ [豪掷 5354 万港元，阿里巴巴前 CEO 张勇买下香港半山豪宅](https://m.ithome.com/html/892539.htm)
+
++ [三星 S25 Ultra 手机 9699 → 7158 元 11.11 开启，学生再减 400 元](https://m.ithome.com/html/892516.htm)
+

@@ -193,3 +193,7 @@
 
 + [深度强化学习 | 详解从信赖域策略优化(TRPO)到近端策略优化(PPO)算法原理](https://blog.csdn.net/FRIGIDWINTER/article/details/151689994)
 
++ [【Linux】文件归属与迁移：chown修改拥有者、chgrp调整所属组，解决团队协作中的权限交接问题](https://blog.csdn.net/2402_87731470/article/details/153967176)
+
++ [【案例实战】HarmonyOS SDK新体验：利用近场能力打造无缝的跨设备文件传输功能](https://blog.csdn.net/IRpickstars/article/details/153881491)
+
