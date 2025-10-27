@@ -113,3 +113,29 @@
 
 + [HTTP和HTTPS终极解析：从明文到加密，web安全的核心防线](https://blog.csdn.net/q17735269514/article/details/153881655)
 
++ [计算机视觉：python车牌识别检测系统 YOLOv8 深度学习pytorch技术 LPRNet车牌识别算法 CCPD2020数据集 ✅](https://blog.csdn.net/q_3456621138/article/details/153851738)
+
++ [Java 大视界 -- Java 大数据机器学习模型在舆情分析中的情感倾向判断与话题追踪](https://blog.csdn.net/atgfg/article/details/153882172)
+
++ [【参赛心得】HarmonyOS创新赛获奖秘籍：如何用Stage模型和声明式UI打造高分作品](https://blog.csdn.net/IRpickstars/article/details/153881737)
+
++ [Docker 应该如何学习 分四个阶段](https://blog.csdn.net/xzp19841203xzp/article/details/153938600)
+
++ [SpringAI5-智能聊天机器⼈](https://blog.csdn.net/2302_79981885/article/details/153899603)
+
++ [医疗信创标杆实践：浙人医 LIS 系统异构多活容灾架构深度解析（附 KingbaseES 实战）](https://blog.csdn.net/weixin_37800531/article/details/153841194)
+
++ [[MySQL]索引&事务](https://blog.csdn.net/2401_88599502/article/details/153970378)
+
++ [Flowable工作流引擎：核心表结构概述](https://blog.csdn.net/qq_26664043/article/details/153581049)
+
++ [【SpringBoot】详解Maven的操作与配置](https://blog.csdn.net/2503_90322569/article/details/153927529)
+
++ [【SpringCloud】Ribbon（LoadBalancer ） 和 Feign](https://blog.csdn.net/qq_44896379/article/details/153879398)
+
++ [MQTT 与 HTTP 协议对比](https://blog.csdn.net/yournameplease/article/details/153938912)
+
++ [百度天气：区县预警一键掌握](https://blog.csdn.net/yelangkingwuzuhu/article/details/153940124)
+
++ [项目实战复盘：基于仓颉语言的鸿蒙智能导航助手（HarmonyNav）](https://blog.csdn.net/cooldream2009/article/details/153913690)
+

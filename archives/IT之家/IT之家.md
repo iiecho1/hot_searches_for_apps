@@ -47,3 +47,13 @@
 
 + [鸿蒙智行新款享界 S9 实车曝光：家族式前脸设计、车标上车](https://m.ithome.com/html/892470.htm)
 
++ [（更新：原博主发文澄清）消息称国区苹果账号疑似开始小规模测试 Apple 智能，支持外版 iPhone 设备](https://m.ithome.com/html/892625.htm)
+
++ [一加 15 手机发布：全球首发 165Hz 极速高刷、第五代骁龙 8 至尊版，3999 元起](https://m.ithome.com/html/892730.htm)
+
++ [2599 元起一加 Ace 6 手机发布，骁龙 8 至尊版、同档唯一 165Hz 高刷](https://m.ithome.com/html/892735.htm)
+
++ [华为余承东详解汽车“续航杀手”：车速跑到 120km/h，风阻消耗的能量可占总能耗 70% 以上](https://m.ithome.com/html/892696.htm)
+
++ [摆拍“某大型科技公司前首席女技术黑客卖力直播无人问津”，涉案企业被查](https://m.ithome.com/html/892555.htm)
+
