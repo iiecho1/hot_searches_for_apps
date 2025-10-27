@@ -191,3 +191,5 @@
 
 + [从IP查询到全链路监控：MyIP+cpolar实现公网访问实战](https://blog.csdn.net/ljq_up/article/details/153866843)
 
++ [深度强化学习 | 详解从信赖域策略优化(TRPO)到近端策略优化(PPO)算法原理](https://blog.csdn.net/FRIGIDWINTER/article/details/151689994)
+

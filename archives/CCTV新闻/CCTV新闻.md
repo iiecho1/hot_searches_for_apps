@@ -181,3 +181,11 @@
 
 + [2架美军机在南海相继坠毁](https://news.cctv.com/2025/10/27/ARTIKR0iDWhIE8VhZtILiEmJ251027.shtml)
 
++ [“贫穷是我们共同的敌人！”非洲10国媒体人热议中非减贫合作](https://news.cctv.com/2025/10/27/ARTI4d9svQg7nXdwkLvNQis5251027.shtml)
+
++ [专访｜以开放联通的多边主义促进亚太发展繁荣——访澳大利亚经济学家彼得·德赖斯代尔](https://news.cctv.com/2025/10/27/ARTIA30knEVEK1zsBxErnvdO251027.shtml)
+
++ [法国专家称赞“十五五”规划建议给不确定的全球经济注入确定性](https://news.cctv.com/2025/10/27/ARTIqDdSc0dOJUOkIKBM8lnC251027.shtml)
+
++ [禽流感在德国快速蔓延 已扑杀约40万只禽类](https://news.cctv.com/2025/10/27/ARTIK1QXR91FTqGHIszAIVUE251027.shtml)
+
