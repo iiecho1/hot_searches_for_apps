@@ -101,3 +101,15 @@
 
 + [【面板数据】中国青年学者离世数据（2010-2025年）](https://blog.csdn.net/T0620514/article/details/153917613)
 
++ [Java 大视界 -- Java 大数据在智能农业温室环境调控与作物生长模型构建中的应用](https://blog.csdn.net/atgfg/article/details/153912460)
+
++ [国产数据库替代MongoDB的技术实践：金仓数据库赋能浙江省人民医院信息化建设新展望](https://blog.csdn.net/sixpp/article/details/153854453)
+
++ [【金仓数据库】ksql 指南（三） —— 创建与管理表空间和模式](https://blog.csdn.net/2302_78391795/article/details/153932631)
+
++ [Http学习](https://blog.csdn.net/2301_80355452/article/details/151424360)
+
++ [面向智慧农业的自主移动果蔬采摘机器人：融合视觉识别与自动驾驶的智能化农作系统研究](https://blog.csdn.net/CHEESEFAIRY_P/article/details/153877866)
+
++ [HTTP和HTTPS终极解析：从明文到加密，web安全的核心防线](https://blog.csdn.net/q17735269514/article/details/153881655)
+
