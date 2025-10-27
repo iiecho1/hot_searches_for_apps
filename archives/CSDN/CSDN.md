@@ -197,3 +197,15 @@
 
 + [【案例实战】HarmonyOS SDK新体验：利用近场能力打造无缝的跨设备文件传输功能](https://blog.csdn.net/IRpickstars/article/details/153881491)
 
++ [为什么工业物联网项目偏爱 Apache IoTDB？时序数据管理视角](https://blog.csdn.net/qq_57761637/article/details/153968443)
+
++ [Python连接KingbaseES全攻略：Ksycopg2实战指南](https://blog.csdn.net/weixin_44976692/article/details/153961757)
+
++ [GPT-OSS-20B昇腾NPU实战：从模型转换到42.85 tokens/s性能突破](https://blog.csdn.net/2301_76341691/article/details/153967006)
+
++ [贪心算法 with Gemini](https://blog.csdn.net/weixin_52561095/article/details/153876046)
+
++ [Linux：进程信号](https://blog.csdn.net/2302_79860961/article/details/153927646)
+
++ [linux的文件系统](https://blog.csdn.net/MXZSL/article/details/153530017)
+
