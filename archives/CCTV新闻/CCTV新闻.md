@@ -189,3 +189,15 @@
 
 + [禽流感在德国快速蔓延 已扑杀约40万只禽类](https://news.cctv.com/2025/10/27/ARTIK1QXR91FTqGHIszAIVUE251027.shtml)
 
++ [高端访谈 | 联合国前秘书长潘基文：APEC应坚守多边主义引领亚太合作](https://people.cctv.com/2025/10/27/ARTIyNidx3rt9f2oUMgjaeku251027.shtml)
+
++ [“停摆”之下 美国联邦食品救济将暂停](https://news.cctv.com/2025/10/27/ARTIgj1Pyt01mHvAPWG875zy251027.shtml)
+
++ [专访｜中国创新生态稳步发展——访世界知识产权组织首席经济学家卡斯滕·芬克](https://news.cctv.com/2025/10/27/ARTIjaRABGFwmZniqN4y8ybR251027.shtml)
+
++ [专访丨全球治理倡议有助于弥合南北发展差距——访埃及新闻总署副署长娜什瓦·阿卜杜勒－哈米德](https://news.cctv.com/2025/10/27/ARTII075ZQdxWMB01UxrAsvB251027.shtml)
+
++ [特稿｜中非合作共绘发展新图景](https://news.cctv.com/2025/10/27/ARTI9FAW969dxxphvejPwuyX251027.shtml)
+
++ [英国专家：期待“十五五”规划助力全球稳定与共赢发展 开拓英中合作新机遇](https://news.cctv.com/2025/10/27/ARTImCIgGY1pdmuaenK1pRw8251027.shtml)
+

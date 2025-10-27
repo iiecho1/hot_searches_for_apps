@@ -217,3 +217,7 @@
 
 + [【超音速专利 CN119515970A】一种适用于电池极片的边缘点距离处理方法、系统及平台](https://blog.csdn.net/he_zhidan/article/details/153866564)
 
++ [Flink 程序打包与分布式执行从 IDE 到集群的一条龙指南](https://blog.csdn.net/weixin_43114209/article/details/153967184)
+
++ [记一次 Spring Boot 项目中 Redis 工具类的重构实践](https://blog.csdn.net/wenxuankeji/article/details/153927806)
+
