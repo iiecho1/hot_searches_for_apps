@@ -169,3 +169,7 @@
 
 + [英王室丑闻持续发酵，安德鲁王子被要求搬离温莎庄园](https://news.cctv.com/2025/10/27/ARTIKPYKJSii7ETsew8U3kVw251027.shtml)
 
++ [台湾光复80周年纪念活动在全球多地举行](https://news.cctv.com/2025/10/27/ARTIYKkgkGbgq1Wgi5wvdNbg251027.shtml)
+
++ [印中恢复直航航班](https://news.cctv.com/2025/10/27/ARTIXBIwIKaJ8tneK7bufXpT251027.shtml)
+

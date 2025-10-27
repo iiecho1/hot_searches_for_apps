@@ -155,3 +155,17 @@
 
 + [GitHub 热榜项目 - 日榜(2025-10-25)](https://blog.csdn.net/u014390502/article/details/153872724)
 
++ [【IoTDB】时序数据库选型迷茫？Apache IoTDB 为何成工业场景优选？](https://blog.csdn.net/Morse_Chen/article/details/153938704)
+
++ [自然语言处理实战——英法机器翻译](https://blog.csdn.net/2401_84149564/article/details/153931824)
+
++ [Java Spring原理 --- Bean的作用域，Bean的生命周期，Spring自动配置](https://blog.csdn.net/2301_79722622/article/details/153881864)
+
++ [【金仓数据库】ksql 指南（三） —— 创建与管理表空间和模式](https://blog.csdn.net/2302_78391795/article/details/153932631)
+
++ [MongoDB 数据库创建与管理详解](https://blog.csdn.net/qq_41840843/article/details/149280918)
+
++ [TCP三次握手与四次挥手通俗理解](https://blog.csdn.net/weixin_46491509/article/details/153924395)
+
++ [压缩与缓存调优实战指南：从0到1根治性能瓶颈（六）](https://blog.csdn.net/sinat_41617212/article/details/153821636)
+
