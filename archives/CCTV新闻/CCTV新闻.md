@@ -175,3 +175,5 @@
 
 + [卢浮宫抢劫案后续：两名嫌疑人被捕、失窃珠宝仍未被追回](https://news.cctv.com/2025/10/27/ARTIP4yOdtbA3BmyajUd4Whd251027.shtml)
 
++ [朝鲜《劳动新闻》刊文纪念中国人民志愿军抗美援朝出国作战75周年](https://news.cctv.com/2025/10/27/ARTII7jmwN7ukFl062fCAKKp251027.shtml)
+

@@ -175,3 +175,13 @@
 
 + [maven打jar包，将依赖的jar提取出来](https://blog.csdn.net/weibkreuz/article/details/153832685)
 
++ [Opencv(二): 灰度化](https://blog.csdn.net/Mrliu__/article/details/153841249)
+
++ [【数据库】KingbaseES数据库：首个多院区异构多活容灾架构，浙人医创新开新篇](https://blog.csdn.net/qq_38628970/article/details/153833604)
+
++ [从零学习 Agentic RL（四）—— 超越 ReAct 的线性束缚：深入解析 Tree-of-Thoughts (ToT)](https://blog.csdn.net/weixin_51908696/article/details/153962680)
+
++ [KingbaseES与MongoDB全面对比：一篇从理论到实战的国产化迁移指南](https://blog.csdn.net/beautifulmemory/article/details/153946822)
+
++ [Transformer实战（23）——使用SBERT进行文本聚类与语义搜索](https://blog.csdn.net/LOVEmy134611/article/details/147907242)
+
