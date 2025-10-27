@@ -59,3 +59,9 @@
 
 + [三星 S25 Ultra 手机 9699 → 7158 元 11.11 开启，学生再减 400 元](https://m.ithome.com/html/892516.htm)
 
++ [消息称国区苹果账号疑似开始小规模测试 Apple 智能，支持外版 iPhone 设备](https://m.ithome.com/html/892625.htm)
+
++ [中国快充方案成为全球标准：中国信通院牵头，联合华为、vivo、OPPO 撰写](https://m.ithome.com/html/892622.htm)
+
++ [华为余承东官宣鸿蒙智行“压轴新品”：新款享界 S9 11 月上市](https://m.ithome.com/html/892549.htm)
+

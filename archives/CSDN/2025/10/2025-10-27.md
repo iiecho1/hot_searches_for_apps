@@ -213,3 +213,7 @@
 
 + [从零开始：C++ 线程池 TCP 服务器实战（续篇）](https://blog.csdn.net/2301_80541270/article/details/153926937)
 
++ [微信小程序 - vant weapp使用van-uploader上传组件点击无反应问题解决，本地测试或真机运行调试安卓手机或苹果ios系统点击上传没有唤起文件选择（Uploader文件上传点击无效）](https://blog.csdn.net/weixin_44198965/article/details/153976106)
+
++ [【超音速专利 CN119515970A】一种适用于电池极片的边缘点距离处理方法、系统及平台](https://blog.csdn.net/he_zhidan/article/details/153866564)
+

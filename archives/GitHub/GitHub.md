@@ -27,3 +27,17 @@
 
 + [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 
++ [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+
++ [bol-van/zapret](https://github.com/bol-van/zapret)
+
++ [block/goose](https://github.com/block/goose)
+
++ [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
+
