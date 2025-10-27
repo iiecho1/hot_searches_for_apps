@@ -173,3 +173,5 @@
 
 + [印中恢复直航航班](https://news.cctv.com/2025/10/27/ARTIXBIwIKaJ8tneK7bufXpT251027.shtml)
 
++ [卢浮宫抢劫案后续：两名嫌疑人被捕、失窃珠宝仍未被追回](https://news.cctv.com/2025/10/27/ARTIP4yOdtbA3BmyajUd4Whd251027.shtml)
+

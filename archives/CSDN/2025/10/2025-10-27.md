@@ -169,3 +169,5 @@
 
 + [压缩与缓存调优实战指南：从0到1根治性能瓶颈（六）](https://blog.csdn.net/sinat_41617212/article/details/153821636)
 
++ [面向智慧农业的自主移动果蔬采摘机器人：融合视觉识别与自动驾驶的智能化农作系统研究](https://blog.csdn.net/CHEESEFAIRY_P/article/details/153877866)
+
