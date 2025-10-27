@@ -185,3 +185,9 @@
 
 + [Transformer实战（23）——使用SBERT进行文本聚类与语义搜索](https://blog.csdn.net/LOVEmy134611/article/details/147907242)
 
++ [用Python手写一个能识花的感知器模型——Iris分类实战详解](https://blog.csdn.net/m0_74456227/article/details/153940879)
+
++ [昇腾NPU赋能海外主流大模型 | Llama-2-7b深度测评与部署方案](https://blog.csdn.net/weixin_52908342/article/details/153962164)
+
++ [从IP查询到全链路监控：MyIP+cpolar实现公网访问实战](https://blog.csdn.net/ljq_up/article/details/153866843)
+

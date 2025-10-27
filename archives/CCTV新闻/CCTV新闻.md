@@ -177,3 +177,7 @@
 
 + [朝鲜《劳动新闻》刊文纪念中国人民志愿军抗美援朝出国作战75周年](https://news.cctv.com/2025/10/27/ARTII7jmwN7ukFl062fCAKKp251027.shtml)
 
++ [印尼东努沙登加拉省附近海域发生6.3级地震](https://news.cctv.com/2025/10/27/ARTIkVEpUF8d0xH6Stq1L76Q251027.shtml)
+
++ [2架美军机在南海相继坠毁](https://news.cctv.com/2025/10/27/ARTIKR0iDWhIE8VhZtILiEmJ251027.shtml)
+
