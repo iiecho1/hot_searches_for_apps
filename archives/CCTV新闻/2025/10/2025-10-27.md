@@ -167,3 +167,5 @@
 
 + [阿根廷举行国会中期选举 改选部分参众议员席位](https://news.cctv.com/2025/10/27/ARTIsEPgFl37uKJQLP7CIhxx251027.shtml)
 
++ [英王室丑闻持续发酵，安德鲁王子被要求搬离温莎庄园](https://news.cctv.com/2025/10/27/ARTIKPYKJSii7ETsew8U3kVw251027.shtml)
+

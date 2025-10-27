@@ -139,3 +139,19 @@
 
 + [【Linux】 进程管理进阶：从 ps 到 pidstat，高手都在用的监控技巧](https://blog.csdn.net/2401_86326742/article/details/153919194)
 
++ [AI 应用层革命（一）——软件的终结与智能体的崛起](https://blog.csdn.net/htw250056/article/details/153930124)
+
++ [茶叶商城购物|茶文化|基于SprinBoot+vue的茶叶商城系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/153913506)
+
++ [解决反爬难题：Bright Data爬虫API的无痛爬虫实践](https://blog.csdn.net/m0_64336780/article/details/153933838)
+
++ [从 Transformer 理论到文本分类：BERT 微调实战总结](https://blog.csdn.net/Ellenjing/article/details/153893321)
+
++ [Java 跨域28-Java 与微服务配置中心（Apollo）跨环境](https://blog.csdn.net/qq_41187124/article/details/152667308)
+
++ [Http学习](https://blog.csdn.net/2301_80355452/article/details/151424360)
+
++ [【Linux】操作系统&进程概念](https://blog.csdn.net/2403_87862225/article/details/153886026)
+
++ [GitHub 热榜项目 - 日榜(2025-10-25)](https://blog.csdn.net/u014390502/article/details/153872724)
+

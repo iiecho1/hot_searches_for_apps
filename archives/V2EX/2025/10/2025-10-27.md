@@ -21,3 +21,7 @@
 
 + [不建议在 7999 的价位开仓 iPhone air](https://www.v2ex.com/t/1168452)
 
++ [分享几个童年阴影，看看有没有同款。](https://www.v2ex.com/t/1168469)
+
++ [开源视频下载器 VidBee，下载数千网站的视频](https://www.v2ex.com/t/1168398)
+
