@@ -139,3 +139,9 @@
 
 + [项目实战复盘：基于仓颉语言的鸿蒙智能导航助手（HarmonyNav）](https://blog.csdn.net/cooldream2009/article/details/153913690)
 
++ [【成长纪实】HarmonyOS Next学习地图：新手避坑指南与核心知识点拆解](https://blog.csdn.net/IRpickstars/article/details/153879995)
+
++ [学习threejs，打造交互式泡泡、粒子特效与科幻氛围​​](https://blog.csdn.net/qq_28419035/article/details/153964725)
+
++ [Flask 学习路线图](https://blog.csdn.net/weixin_44123412/article/details/153894274)
+
