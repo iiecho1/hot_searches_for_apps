@@ -203,3 +203,15 @@
 
 + [Skill Seeker——一站式自动化将文档网站、GitHub 仓库和 PDF 文件转换为可部署 AI 技能的深度解析](https://blog.csdn.net/cxr828/article/details/153989293)
 
++ [非线性笔记革命：Trilium+cpolar如何让知识管理突破时空限制？](https://blog.csdn.net/weixin_44976692/article/details/154013426)
+
++ [034：vue+threeJS 实体球绕着中心点旋转，可以更改半径方向](https://blog.csdn.net/cuclife/article/details/153963058)
+
++ [【数据库】异构多活+双轨并行：浙人医基于金仓KFS实现数据库信创平滑升级](https://blog.csdn.net/lmy_520/article/details/154021614)
+
++ [从零搭建群晖私有影音库：NasTool自动化追剧全流程拆解与远程访问协议优化实践](https://blog.csdn.net/2401_82648291/article/details/154013962)
+
++ [一键部署 Deepseek网页聊天系统（基于 Spring Boot + HTML 的本地对话系统）](https://blog.csdn.net/MTQ851/article/details/153973735)
+
++ [基于大数据+爬虫的B站短视频热门趋势分析与创作作者测量研究系统的设计与实现(精品源码+精品论文+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/154017009)
+

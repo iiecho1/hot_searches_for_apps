@@ -27,3 +27,17 @@
 
 + [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
++ [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
+
++ [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+
++ [juanfont/headscale](https://github.com/juanfont/headscale)
+
++ [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [cjpais/Handy](https://github.com/cjpais/Handy)
+
++ [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+

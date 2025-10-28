@@ -201,3 +201,7 @@
 
 + [俄外交部发言人：美关税政策可致全球经济衰退](https://news.cctv.com/2025/10/28/ARTIWySSJeEFA6zirpe42joD251028.shtml)
 
++ [俄通过实行全年征兵制法案 将于2026年正式实施](https://news.cctv.com/2025/10/28/ARTIxpJBPKuAMTfj0wAIpbko251028.shtml)
+
++ [佩斯科夫：目前俄方无法评估重启俄乌谈判的前景](https://news.cctv.com/2025/10/28/ARTIOu7aFnVrDlV5uZ70vGqT251028.shtml)
+
