@@ -195,3 +195,11 @@
 
 + [【完整源码+数据集+部署教程】【损害和风险评估＆裂缝】裂缝检测系统源码＆数据集全套：改进yolo11-EfficientHead](https://blog.csdn.net/weixin_43860634/article/details/154005430)
 
++ [C++ 编译器优化级别详解：O1、O2 和 O3](https://blog.csdn.net/ljq_2029/article/details/154007577)
+
++ [uniapp - 运行启动或打包报错 FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory](https://blog.csdn.net/weixin_44198965/article/details/154009838)
+
++ [【Linux】Ubuntu 与 CentOS 选择指南：两大主流 Linux 发行版的优劣势对比](https://blog.csdn.net/2401_86326742/article/details/153978190)
+
++ [Skill Seeker——一站式自动化将文档网站、GitHub 仓库和 PDF 文件转换为可部署 AI 技能的深度解析](https://blog.csdn.net/cxr828/article/details/153989293)
+
