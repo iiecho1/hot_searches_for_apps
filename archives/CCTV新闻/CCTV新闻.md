@@ -173,3 +173,9 @@
 
 + [推动战略合作伙伴关系不断向前发展——韩国各界对习近平主席国事访问充满热切期待](https://news.cctv.com/2025/10/28/ARTImpmxO82NMtYgK7GmRZIc251028.shtml)
 
++ [玻利维亚发生巴士坠崖事故 致16死30伤](https://news.cctv.com/2025/10/28/ARTILjMB7j5ISWqMdhLJnC8b251028.shtml)
+
++ [委内瑞拉宣布立即暂停与特立尼达和多巴哥的能源协议](https://news.cctv.com/2025/10/28/ARTIAi6frnof0SKCX4xQBi1Z251028.shtml)
+
++ [日本鸡蛋价格逼近历史最高值 变身“高级食材”](https://news.cctv.com/2025/10/28/ARTIkghyzRNWvGD6oQgF2Xtz251028.shtml)
+
