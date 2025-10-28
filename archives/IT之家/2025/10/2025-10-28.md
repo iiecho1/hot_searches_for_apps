@@ -61,3 +61,27 @@
 
 + [华为 nova 14 Pro / Ultra 手机预计今年 12 月 HOTA 支持 AI 辅助构图功能](https://m.ithome.com/html/892469.htm)
 
++ [内存价格“失控狂飙”：LPDDR5X 交付需等 26~39 周，国产手机供应链告急](https://m.ithome.com/html/892793.htm)
+
++ [华强北发力：超雪团队 eSIM 小程序上线，称“目标让苹果 iPhone 有锁机等所有手机支持原生 eSIM”](https://m.ithome.com/html/892811.htm)
+
++ [雷军带队，消息称小米汽车成立架构部](https://m.ithome.com/html/892944.htm)
+
++ [上证终破 4000 点！创十年新高！科技，科技，科技！](https://m.ithome.com/html/892844.htm)
+
++ [新传闻：“半固态电池”统一命名为“固液电池”](https://m.ithome.com/html/892797.htm)
+
++ [小鹏动力总成高级总监力挺磷酸铁锂电池：小鹏 99% 的新车已采用，保持零自燃的安全纪录](https://m.ithome.com/html/892770.htm)
+
++ [小米澎湃 OS 3 正式版推送给更多设备，含 MIX Flip 2 等](https://m.ithome.com/html/892841.htm)
+
++ [一加 15 手机蜂窝网络配置公布：搭载 AI 通信芯片 R100，支持 n79 中高频专用频段](https://m.ithome.com/html/892779.htm)
+
++ [深圳地铁回应印度人在车上吃手抓饭：禁止列车内饮食，一视同仁](https://m.ithome.com/html/893008.htm)
+
++ [酷态科 10 号超级磁吸电能卡发布：TFT 彩屏、无线 15W / 有线 55W，10000mAh 售 199 元](https://m.ithome.com/html/892856.htm)
+
++ [小米首座智能家电工厂今日正式投产，6.5 秒下线一台高端空调](https://m.ithome.com/html/892893.htm)
+
++ [大疆 Pocket 4 云台相机被曝已开始量产：机身减重 35%，新增两个神秘按钮](https://m.ithome.com/html/892867.htm)
+

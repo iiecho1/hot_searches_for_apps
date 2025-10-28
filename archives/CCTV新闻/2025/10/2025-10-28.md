@@ -207,3 +207,11 @@
 
 + [从互降关税到共建规则——中国-东盟经贸合作持续升级为区域经济注入动能和信心](https://news.cctv.com/2025/10/28/ARTIEGm6KuWEh4VlPJr7eGEd251028.shtml)
 
++ [法国参议院官员：卢浮宫安保措施不合规范](https://news.cctv.com/2025/10/28/ARTI54DITIrPpfd9CeMMvKrZ251028.shtml)
+
++ [哈马斯：将继续履行协议 避免以方破坏停火与谈判进程](https://news.cctv.com/2025/10/28/ARTIzPLOeE4hxFs0qNYo5Uru251028.shtml)
+
++ [特朗普再批美联储主席鲍威尔 称数月内将更换人选](https://news.cctv.com/2025/10/28/ARTIRi68rRHUOxrIKAjsfwLm251028.shtml)
+
++ [英国一评论员因批以言论在美被吊销签证并逮捕](https://news.cctv.com/2025/10/28/ARTIQ8Jaezly0eWNFVTlQxQZ251028.shtml)
+
