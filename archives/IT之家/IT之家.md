@@ -57,3 +57,7 @@
 
 + [消息称苹果 iPhone 17e 明年上半年发布，复用 60Hz 灵动岛屏幕](https://m.ithome.com/html/892680.htm)
 
++ [小鹏动力总成高级总监力挺磷酸铁锂电池：小鹏 99% 的新车已采用，保持零自燃的安全纪录](https://m.ithome.com/html/892770.htm)
+
++ [一加 15 手机蜂窝网络配置公布：搭载 AI 通信芯片 R100，支持 n79 中高频专用频段](https://m.ithome.com/html/892779.htm)
+
