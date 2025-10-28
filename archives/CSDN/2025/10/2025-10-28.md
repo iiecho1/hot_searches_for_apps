@@ -189,3 +189,9 @@
 
 + [【安全函数】三角函数标准化安全防护的实现与实践](https://blog.csdn.net/weixin_37800531/article/details/153887974)
 
++ [Opencv(三): 二值化](https://blog.csdn.net/Mrliu__/article/details/153973686)
+
++ [汽车销售|汽车推荐|基于SprinBoot+vue的新能源汽车个性化推荐系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/154008268)
+
++ [【完整源码+数据集+部署教程】【损害和风险评估＆裂缝】裂缝检测系统源码＆数据集全套：改进yolo11-EfficientHead](https://blog.csdn.net/weixin_43860634/article/details/154005430)
+

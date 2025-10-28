@@ -185,3 +185,17 @@
 
 + [视频丨沙特航空一客机起飞时与候鸟相撞 安全抵达目的地](https://news.cctv.com/2025/10/28/ARTIsfyD1IXyKBucw0cwDmRH251028.shtml)
 
++ [极速掠影｜60秒带你看APEC会议举办地庆州](https://news.cctv.com/2025/10/28/ARTIRHkNJxYO2xvREbYWTGJd251028.shtml)
+
++ [为“亚太引擎”注入中国动力](https://news.cctv.com/2025/10/28/ARTICNPb8mRNFTHFrxRyZYld251028.shtml)
+
++ [开创携手前行、共同发展新局面——国际社会热议“十五五”发展蓝图的世界意义](https://news.cctv.com/2025/10/28/ARTIVZOuoqfmRQHA890cTKNQ251028.shtml)
+
++ [“为亚太区域合作持续注入动力”](https://news.cctv.com/2025/10/28/ARTIgx2sXlq1neg95SrMuLqg251028.shtml)
+
++ [让国际社会坚持一个中国原则的基本格局更加巩固——海外人士积极评价设立台湾光复纪念日](https://news.cctv.com/2025/10/28/ARTIphDGH93HdaGGBpkAIIZi251028.shtml)
+
++ [中国为亚太经合组织发展作出重大贡献——访亚太经合组织秘书处执行主任爱德华多·佩德罗萨](https://news.cctv.com/2025/10/28/ARTIICHJlTThGWL2p6HUMvyY251028.shtml)
+
++ [美国以“打击贩毒”为名频繁展示武力 拉美地区局势趋于紧张](https://news.cctv.com/2025/10/28/ARTInAKEhIbDtWiVHFdeJQFl251028.shtml)
+
