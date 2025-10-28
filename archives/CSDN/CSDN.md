@@ -101,3 +101,15 @@
 
 + [基于 STM32 的智能语音唤醒与关键词识别系统设计 —— 从硬件集成到算法实现](https://blog.csdn.net/weixin_42300449/article/details/153963789)
 
++ [Python、Java与Go：AI大模型时代的语言抉择](https://blog.csdn.net/sixpp/article/details/153969209)
+
++ [【JAVA 进阶】Mybatis-Plus 实战使用与最佳实践](https://blog.csdn.net/weixin_63944437/article/details/154011423)
+
++ [浙人医基于金仓 KFS 工具信创落地：多数据库协同难题解决方案详讲](https://blog.csdn.net/weixin_42878111/article/details/154021721)
+
++ [学习和掌握RabbitMQ及其与springboot的整合实践（篇一）](https://blog.csdn.net/qq_38673558/article/details/153528692)
+
++ [微纳-纳米机器人、医疗机器人设计方案大合集](https://blog.csdn.net/ashyyyy/article/details/153960387)
+
++ [【FPGA】时序逻辑计数器——Verilog实现](https://blog.csdn.net/Dec06_Sgr_Liu/article/details/153939174)
+

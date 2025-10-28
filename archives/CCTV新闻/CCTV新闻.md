@@ -161,3 +161,5 @@
 
 + [巴西总统：一个国家不能无视他国主权实施侵犯行为](https://news.cctv.com/2025/10/25/ARTIkiBI18aRHLfLKYgLCh9r251025.shtml)
 
++ [中国驻墨西哥使领馆提醒中国公民注意墨境内多州数条公路被抗议者封堵](https://news.cctv.com/2025/10/29/ARTIyH6b1AGH9oiuzW4Ksair251029.shtml)
+
