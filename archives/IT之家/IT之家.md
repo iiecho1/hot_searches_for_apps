@@ -49,3 +49,11 @@
 
 + [90 后中国数学家王虹连夺两大“菲尔兹奖”风向标：韦神都来听她讲课，陶哲轩盛赞](https://m.ithome.com/html/892896.htm)
 
++ [还不如前代 Plus：苹果 iPhone Air 被曝首销激活量远低于预期](https://m.ithome.com/html/892710.htm)
+
++ [92 号重回 6 元时代：今晚国内成品油价格降低，加满一箱油将少花 10.5 元左右](https://m.ithome.com/html/892681.htm)
+
++ [目标人类首个聚变发电装置：中国“人造太阳”BEST 预计 2027 年竣工](https://m.ithome.com/html/892605.htm)
+
++ [消息称苹果 iPhone 17e 明年上半年发布，复用 60Hz 灵动岛屏幕](https://m.ithome.com/html/892680.htm)
+

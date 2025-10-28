@@ -113,3 +113,37 @@
 
 + [【FPGA】时序逻辑计数器——Verilog实现](https://blog.csdn.net/Dec06_Sgr_Liu/article/details/153939174)
 
++ [从异构多活到全链路信创：电科金仓助力浙人医实现LIS系统国产化升级](https://blog.csdn.net/weixin_52908342/article/details/154031898)
+
++ [平滑过渡，破解多库并存：浙人医基于金仓KFS的医疗信创实战解析](https://blog.csdn.net/weixin_44976692/article/details/154022134)
+
++ [【超音速专利 CN119515970A】一种适用于电池极片的边缘点距离处理方法、系统及平台](https://blog.csdn.net/he_zhidan/article/details/153866564)
+
++ [Transformer实战（23）——使用SBERT进行文本聚类与语义搜索](https://blog.csdn.net/LOVEmy134611/article/details/147907242)
+
++ [深度强化学习 | 详解从信赖域策略优化(TRPO)到近端策略优化(PPO)算法原理](https://blog.csdn.net/FRIGIDWINTER/article/details/151689994)
+
++ [远程软件测评：关键维度评分与同类工具对比分析](https://blog.csdn.net/qq_32682301/article/details/153940020)
+
++ [大模型请求/响应参数完全拆解：每个字段都是什么意思？](https://blog.csdn.net/qq_61654952/article/details/153958088)
+
++ [【IO多路转接】IO 多路复用之 select：从接口解析到服务器实战](https://blog.csdn.net/2401_87944878/article/details/151436016)
+
++ [自监督 YOLO：利用对比学习实现标签高效的目标检测](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/153968743)
+
++ [知识掘金者：API+Dify工作流，开启「深度思考」的搜索革命](https://blog.csdn.net/2301_76341691/article/details/154013899)
+
++ [【Linux篇】ELF文件与程序加载：理解链接过程中的静态库，动态库及目标文件](https://blog.csdn.net/2301_81290732/article/details/152050971)
+
++ [智谱GLM-4.6/4.5深度解析：ARC三位一体的技术革命与国产模型崛起](https://blog.csdn.net/beautifulmemory/article/details/153964833)
+
++ [我如何基于AlphaArena开发AI量化平台赚取200美元](https://blog.csdn.net/xianyu120/article/details/153980324)
+
++ [「用Python来学微积分」18. 微分](https://blog.csdn.net/weixin_38291577/article/details/153957665)
+
++ [自定义协议、序列化与守护进程：构建可靠后端服务](https://blog.csdn.net/2402_84532723/article/details/152212340)
+
++ [基于金仓KFS工具，破解多数据并存，浙人医改造实战医疗信创](https://blog.csdn.net/2302_79376097/article/details/154026420)
+
++ [【c++知识铺子】不可或缺的数据容器-vector](https://blog.csdn.net/2301_80127108/article/details/153969499)
+
