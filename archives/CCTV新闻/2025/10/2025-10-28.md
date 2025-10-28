@@ -163,3 +163,11 @@
 
 + [意大利法院批准将“北溪”爆炸事件一嫌疑人引渡至德国](https://news.cctv.com/2025/10/28/ARTIw0Gm95WmC4Oqwmc2QdcW251027.shtml)
 
++ [事关2028年总统大选，纽森、哈里斯表态](https://news.cctv.com/2025/10/28/ARTIgTvxlG0fWTKr89tKabbd251028.shtml)
+
++ [土耳其与英国签署“台风”战机采购协议](https://news.cctv.com/2025/10/28/ARTIdIPqsj9z6YIOOuX4yKPD251028.shtml)
+
++ [白俄罗斯抗议立陶宛单方面关闭两国边境](https://news.cctv.com/2025/10/28/ARTIyyEw33cRB10UpWJO2Wqw251028.shtml)
+
++ [巴勒斯坦红新月会：加沙地带人道主义需求依然迫切](https://news.cctv.com/2025/10/28/ARTIg4SW6yNpTcjoU3Bf6Zyz251028.shtml)
+
