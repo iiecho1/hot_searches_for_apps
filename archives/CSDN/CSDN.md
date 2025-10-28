@@ -217,3 +217,13 @@
 
 + [双Token的致命漏洞，你的系统安全吗？](https://blog.csdn.net/2302_80067378/article/details/154023425)
 
++ [Java 大视界 -- Java 大数据在智慧养老服务需求分析与个性化服务匹配中的应用](https://blog.csdn.net/atgfg/article/details/153886837)
+
++ [我如何基于AlphaArena开发AI量化平台赚取200美元](https://blog.csdn.net/xianyu120/article/details/153980324)
+
++ [基于springboot的民宿在线预定平台开发与设计](https://blog.csdn.net/qq_35473114/article/details/153981658)
+
++ [如何当一个合格的项目经理：从技术骨干到管理者的蜕变之路](https://blog.csdn.net/hanwb2010/article/details/154012799)
+
++ [Lumi 具神智能机器人 SDK说明和ACT算法中的学习与推理](https://blog.csdn.net/kalvin_y_liu/article/details/153986826)
+
