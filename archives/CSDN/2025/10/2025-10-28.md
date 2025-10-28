@@ -177,3 +177,9 @@
 
 + [中国启用WPS格式进行国际交流：政策分析与影响评估](https://blog.csdn.net/wan5555/article/details/153873152)
 
++ [一篇文章详解Kafka Broker](https://blog.csdn.net/Muyu1uz/article/details/153980744)
+
++ [使用uniapp——实现微信小程序的拖拽排序（vue3+ts）](https://blog.csdn.net/2302_80130544/article/details/153924548)
+
++ [【大模型应用开发 6.LangChain多任务应用开发】](https://blog.csdn.net/m0_73983707/article/details/150986452)
+
