@@ -183,3 +183,9 @@
 
 + [【大模型应用开发 6.LangChain多任务应用开发】](https://blog.csdn.net/m0_73983707/article/details/150986452)
 
++ [作为网易 UU 远程 macOS 版（内测版本 4.6.101）用户，我实测了这份完整指南](https://blog.csdn.net/qq_46123200/article/details/154010171)
+
++ [神经网络进化史：从理论到变革](https://blog.csdn.net/2501_91109084/article/details/153973532)
+
++ [【安全函数】三角函数标准化安全防护的实现与实践](https://blog.csdn.net/weixin_37800531/article/details/153887974)
+
