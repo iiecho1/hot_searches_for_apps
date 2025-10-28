@@ -157,3 +157,11 @@
 
 + [KingbaseES赋能多院区医院信创转型：浙江省人民医院异构多活数据底座实践解析](https://blog.csdn.net/2301_80350265/article/details/153850476)
 
++ [python如何做声音识别](https://blog.csdn.net/Dxy1239310216/article/details/153934359)
+
++ [[linux仓库]线程与进程的较量：资源划分与内核实现的全景解析[线程·贰]](https://blog.csdn.net/egoist2023/article/details/153986721)
+
++ [开源AI智能体全栈项目：《软件设计师备考AI智能平台》](https://blog.csdn.net/weixin_45793745/article/details/153981328)
+
++ [Vue 模板语法深度解析：从文本插值到 HTML 渲染的核心逻辑](https://blog.csdn.net/qq_40303030/article/details/153248881)
+

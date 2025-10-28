@@ -171,3 +171,5 @@
 
 + [巴勒斯坦红新月会：加沙地带人道主义需求依然迫切](https://news.cctv.com/2025/10/28/ARTIg4SW6yNpTcjoU3Bf6Zyz251028.shtml)
 
++ [推动战略合作伙伴关系不断向前发展——韩国各界对习近平主席国事访问充满热切期待](https://news.cctv.com/2025/10/28/ARTImpmxO82NMtYgK7GmRZIc251028.shtml)
+
