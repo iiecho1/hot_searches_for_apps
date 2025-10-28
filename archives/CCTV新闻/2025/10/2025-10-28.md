@@ -199,3 +199,5 @@
 
 + [美国以“打击贩毒”为名频繁展示武力 拉美地区局势趋于紧张](https://news.cctv.com/2025/10/28/ARTInAKEhIbDtWiVHFdeJQFl251028.shtml)
 
++ [俄外交部发言人：美关税政策可致全球经济衰退](https://news.cctv.com/2025/10/28/ARTIWySSJeEFA6zirpe42joD251028.shtml)
+
