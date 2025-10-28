@@ -227,3 +227,13 @@
 
 + [Lumi 具神智能机器人 SDK说明和ACT算法中的学习与推理](https://blog.csdn.net/kalvin_y_liu/article/details/153986826)
 
++ [Linux 开发学习第一站-白嫖阿里云服务器](https://blog.csdn.net/2401_83543829/article/details/154018688)
+
++ [什么是Nginx？：掌握高性能 Web 服务器核心技术](https://blog.csdn.net/Toroto5/article/details/153921178)
+
++ [AI - 自动化代码生成实战：给电商项目写订单模块，AI 生成 70% 代码，我只做 3 件事](https://blog.csdn.net/qq_41187124/article/details/153972468)
+
++ [Nacos配置中心实战进阶：多场景动态刷新全解析](https://blog.csdn.net/sinat_41617212/article/details/154023668)
+
++ [基于 STM32 的智能语音唤醒与关键词识别系统设计 —— 从硬件集成到算法实现](https://blog.csdn.net/weixin_42300449/article/details/153963789)
+
