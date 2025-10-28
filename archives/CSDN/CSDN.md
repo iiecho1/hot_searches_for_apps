@@ -159,3 +159,5 @@
 
 + [【普中Hi3861开发攻略--基于鸿蒙OS】-- 第 28 章 WIFI 实验-UDP 通信](https://blog.csdn.net/2501_92850798/article/details/153960350)
 
++ [大模型开发 - 07 ChatClient：（02）如何在Spring AI中配置多个LLM](https://blog.csdn.net/yangshangwei/article/details/153827982)
+
