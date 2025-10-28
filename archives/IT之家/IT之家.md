@@ -59,3 +59,5 @@
 
 + [三星 S25 Ultra 手机 9699 → 7158 元 11.11 开启，学生再减 400 元](https://m.ithome.com/html/892516.htm)
 
++ [华为 nova 14 Pro / Ultra 手机预计今年 12 月 HOTA 支持 AI 辅助构图功能](https://m.ithome.com/html/892469.htm)
+

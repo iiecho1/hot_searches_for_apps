@@ -179,3 +179,9 @@
 
 + [日本鸡蛋价格逼近历史最高值 变身“高级食材”](https://news.cctv.com/2025/10/28/ARTIkghyzRNWvGD6oQgF2Xtz251028.shtml)
 
++ [匈牙利外长说不会让乌克兰加入欧盟谈判启动](https://news.cctv.com/2025/10/28/ARTIspxs3bqto8RPYyT1iBWD251028.shtml)
+
++ [第二架俄罗斯国产化MS-21验证机试飞成功](https://news.cctv.com/2025/10/28/ARTI4695NC7kOgPtreeTneW1251028.shtml)
+
++ [视频丨沙特航空一客机起飞时与候鸟相撞 安全抵达目的地](https://news.cctv.com/2025/10/28/ARTIsfyD1IXyKBucw0cwDmRH251028.shtml)
+

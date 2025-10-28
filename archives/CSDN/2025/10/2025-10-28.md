@@ -171,3 +171,9 @@
 
 + [微纳-纳米机器人、医疗机器人设计方案大合集](https://blog.csdn.net/ashyyyy/article/details/153960387)
 
++ [还在为PDF公式翻译发愁？PDFMathTranslate学术文档跨语言无障碍](https://blog.csdn.net/2301_77485708/article/details/153974253)
+
++ [分布式计算深度解析：从理论到实践的技术探索](https://blog.csdn.net/2301_79139273/article/details/153992661)
+
++ [中国启用WPS格式进行国际交流：政策分析与影响评估](https://blog.csdn.net/wan5555/article/details/153873152)
+
