@@ -165,3 +165,5 @@
 
 + [在FPGA中实现DDS方案详解（频率，幅度，波形可调）](https://blog.csdn.net/Topplyz/article/details/153960363)
 
++ [基于Echarts+HTML5可视化数据大屏展示-工厂信息监控台](https://blog.csdn.net/qq_36595761/article/details/153934027)
+

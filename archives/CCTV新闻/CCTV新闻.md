@@ -169,3 +169,11 @@
 
 + [世卫组织：6名苏丹医务人员被武装分子绑架](https://news.cctv.com/2025/10/29/ARTIE3UX4akv6Lc04MOLlUW7251029.shtml)
 
++ [日本民众连日抗议日美首脑会谈](https://news.cctv.com/2025/10/29/ARTIVJsRqCoL0Il0P2XkBfrg251029.shtml)
+
++ [走进伊斯坦布尔地下水宫](https://photo.cctv.com/2025/10/29/PHOAEHe0SOufqR4oBD9O6K86251029.shtml)
+
++ [培育绿色创新的亚太增长动能](https://news.cctv.com/2025/10/29/ARTIh8Re01b2WwLBzE1nmlJC251029.shtml)
+
++ [专访｜期待中日韩以创新合作引领亚太新增长——访中日韩合作秘书处秘书长李熙燮](https://news.cctv.com/2025/10/29/ARTIjLcnqOWHZ20AEOtxYxHK251029.shtml)
+
