@@ -25,3 +25,17 @@
 
 + [焕新极氪 7X 汽车上市：22.98 万元起，升级 900V 架构、标配英伟达 Thor-U、限时送“冰箱彩电大沙发”](https://m.ithome.com/html/892990.htm)
 
++ [iPhone 17 标准版“加量不加价”背后：UBI 称屏幕成本较 Pro Max 低约 42%](https://m.ithome.com/html/893231.htm)
+
++ [红米“干翻”小米：REDMI K90 Pro Max 手机采用「按键防晃动结构」设计](https://m.ithome.com/html/893281.htm)
+
++ [微信鸿蒙版 App 获 8.0.12.16 邀测升级，新增红包封面功能](https://m.ithome.com/html/893088.htm)
+
++ [苹果市值首次突破 4 万亿美元，仅次于英伟达、微软](https://m.ithome.com/html/893074.htm)
+
++ [影石创始人刘靖康称大疆董事长汪滔垄断：前无古人，后无来者](https://m.ithome.com/html/893244.htm)
+
++ [宝宝巴士就 App 出现不良广告发布致歉整改声明：严处审核负责人，研发广告强制拦截功能](https://m.ithome.com/html/893214.htm)
+
++ [泡澡时放心刷剧：消息称苹果 2026 款 iPad mini 防水将看齐 iPhone](https://m.ithome.com/html/893138.htm)
+

@@ -101,3 +101,7 @@
 
 + [开源AI智能体全栈项目：《软件设计师备考AI智能平台》](https://blog.csdn.net/weixin_45793745/article/details/153981328)
 
++ [HarmonyOS实战项目：开发一个分布式新闻阅读客户端](https://blog.csdn.net/ifeng0918/article/details/154012322)
+
++ [Docker 部署 CentOS 全流程指南](https://blog.csdn.net/java_logo/article/details/153962638)
+

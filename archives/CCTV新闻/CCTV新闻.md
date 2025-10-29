@@ -161,3 +161,5 @@
 
 + [日本发生4.7级地震 东京震感明显](https://news.cctv.com/2025/10/26/ARTIny2yAJhc4EXn9VoXezfx251026.shtml)
 
++ [受政府“停摆”影响 美众议院员工工资将暂停发放](https://news.cctv.com/2025/10/30/ARTIT4xdGSvYZCNLPUaYxrsl251030.shtml)
+
