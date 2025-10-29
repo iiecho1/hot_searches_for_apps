@@ -133,3 +133,5 @@
 
 + [在FPGA中实现DDS方案详解（频率，幅度，波形可调）](https://blog.csdn.net/Topplyz/article/details/153960363)
 
++ [PostgreSQL 自增序列SERIAL：从原理到实战](https://blog.csdn.net/qq_41840843/article/details/149271739)
+
