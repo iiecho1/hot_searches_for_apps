@@ -135,3 +135,7 @@
 
 + [PostgreSQL 自增序列SERIAL：从原理到实战](https://blog.csdn.net/qq_41840843/article/details/149271739)
 
++ [【IoTDB】时序数据库选型迷茫？Apache IoTDB 为何成工业场景优选？](https://blog.csdn.net/Morse_Chen/article/details/153938704)
+
++ [Unity[法线贴图]原理与实践](https://blog.csdn.net/xdpcxq/article/details/153979835)
+

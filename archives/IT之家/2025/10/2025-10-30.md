@@ -45,3 +45,5 @@
 
 + [苹果自研 5G 芯片 C2 曝光：iPhone 18 全系搭载、支持 mmWave 毫米波，沿用台积电 N4 工艺](https://m.ithome.com/html/893225.htm)
 
++ [3D 版的家：小米米家 App“3D 家居视图”功能曝光，苹果 iOS 端正小范围内测](https://m.ithome.com/html/893296.htm)
+
