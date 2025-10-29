@@ -205,3 +205,7 @@
 
 + [海鲜商城购物|基于SprinBoot+vue的海鲜商城系统(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/154059216)
 
++ [浙人医信创实践：电科金仓异构多活架构破解集团化医院转型难题](https://blog.csdn.net/weixin_74809706/article/details/154021410)
+
++ [Linux修炼：库制作与原理（一）](https://blog.csdn.net/2401_87995839/article/details/153047919)
+
