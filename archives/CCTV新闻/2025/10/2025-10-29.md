@@ -167,3 +167,5 @@
 
 + [达成停火18天后战火再起 以总理下令袭击加沙](https://news.cctv.com/2025/10/29/ARTICaJQagXRGXq8vZnDkJ91251029.shtml)
 
++ [世卫组织：6名苏丹医务人员被武装分子绑架](https://news.cctv.com/2025/10/29/ARTIE3UX4akv6Lc04MOLlUW7251029.shtml)
+

@@ -161,3 +161,7 @@
 
 + [大模型开发 - 07 ChatClient：（02）如何在Spring AI中配置多个LLM](https://blog.csdn.net/yangshangwei/article/details/153827982)
 
++ [TCP与UDP深度理解](https://blog.csdn.net/kevien_G1/article/details/153917205)
+
++ [在FPGA中实现DDS方案详解（频率，幅度，波形可调）](https://blog.csdn.net/Topplyz/article/details/153960363)
+

@@ -21,3 +21,7 @@
 
 + [大家现在用的都是哪些 RSS 工具](https://www.v2ex.com/t/1168787)
 
++ [两个月重度使用 AI Code Agent：普通一线程序员的思考和感想](https://www.v2ex.com/t/1168880)
+
++ [大家的 ActionButton 设置的是什么？](https://www.v2ex.com/t/1168851)
+
