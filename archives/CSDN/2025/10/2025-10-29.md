@@ -189,3 +189,11 @@
 
 + [【启发式算法】狼群算法（WPA）与灰狼算法（GWO）轻解](https://blog.csdn.net/qq_51399582/article/details/154017998)
 
++ [Java Spring原理 --- Bean的作用域，Bean的生命周期，Spring自动配置](https://blog.csdn.net/2301_79722622/article/details/153881864)
+
++ [k8s中的微服务](https://blog.csdn.net/weixin_75072370/article/details/153980365)
+
++ [DB-GPT 0.7.4 版本更新｜开源蚂蚁集团Text2SQL数据集：Falcon、支持GLM-4.5大模型](https://blog.csdn.net/DB_GPT/article/details/153962262)
+
++ [【Web安全】OAuth2.0框架高频安全漏洞分析总结](https://blog.csdn.net/qq_40037555/article/details/153969399)
+

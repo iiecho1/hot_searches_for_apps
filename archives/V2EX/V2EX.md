@@ -35,3 +35,9 @@
 
 + [抵触小米的原因思考](https://www.v2ex.com/t/1169098)
 
++ [误入包养圈，陷入了人生的大思考。](https://www.v2ex.com/t/1169124)
+
++ [“尾巴”是读 yǐ还是 wěi？](https://www.v2ex.com/t/1169109)
+
++ [Linux Do 为何发展得如此之快？](https://www.v2ex.com/t/1169086)
+

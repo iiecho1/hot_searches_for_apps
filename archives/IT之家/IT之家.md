@@ -61,3 +61,21 @@
 
 + [一加 15 手机蜂窝网络配置公布：搭载 AI 通信芯片 R100，支持 n79 中高频专用频段](https://m.ithome.com/html/892779.htm)
 
++ [华为鸿蒙 HarmonyOS 6.1 版本首曝，天气 App 将支持强提醒能力](https://m.ithome.com/html/893103.htm)
+
++ [史上最薄 Mate：华为 Mate 70 Air 手机海报曝光，口号“不止于薄”](https://m.ithome.com/html/893149.htm)
+
++ [中国联通董事长陈忠岳调任中国移动董事长](https://m.ithome.com/html/893038.htm)
+
++ [消息称苹果 iPhone 手机固态按键方案完成功能验证，2027 年发布的 iPhone 20 系列有望量产](https://m.ithome.com/html/893065.htm)
+
++ [苹果 iOS / iPadOS 26.1 RC 发布：可切换液态玻璃透明度、禁用锁屏滑动启动相机](https://m.ithome.com/html/893104.htm)
+
++ [华为路由 12 月升级 HarmonyOS 6 系统：支持 AI 绿色上网 2.0，不良网站拦截率 90%+](https://m.ithome.com/html/893084.htm)
+
++ [小米 17 Pro 系列手机妙享背屏「对话翻译」新功能上线：正屏中文输入、背屏即显译文](https://m.ithome.com/html/892949.htm)
+
++ [史上最畅销汽车焕新：丰田全新一代卡罗拉概念车首秀，油、电、混都有](https://m.ithome.com/html/893184.htm)
+
++ [焕新极氪 7X 汽车上市：22.98 万元起，升级 900V 架构、标配英伟达 Thor-U、限时送“冰箱彩电大沙发”](https://m.ithome.com/html/892990.htm)
+
