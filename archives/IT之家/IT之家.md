@@ -39,3 +39,9 @@
 
 + [泡澡时放心刷剧：消息称苹果 2026 款 iPad mini 防水将看齐 iPhone](https://m.ithome.com/html/893138.htm)
 
++ [国内首例特大假冒进口芯片案细节公布](https://m.ithome.com/html/893202.htm)
+
++ [长鑫存储宣布已量产 LPDDR5X 产品：最高速率 10667Mbps，达国际主流水平](https://m.ithome.com/html/893250.htm)
+
++ [苹果自研 5G 芯片 C2 曝光：iPhone 18 全系搭载、支持 mmWave 毫米波，沿用台积电 N4 工艺](https://m.ithome.com/html/893225.htm)
+

@@ -105,3 +105,31 @@
 
 + [Docker 部署 CentOS 全流程指南](https://blog.csdn.net/java_logo/article/details/153962638)
 
++ [商城推荐系统|基于SprinBoot+vue的商城推荐系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154007190)
+
++ [SQL之表的增删](https://blog.csdn.net/fyy31/article/details/153790335)
+
++ [从零搭建群晖私有影音库：NasTool自动化追剧全流程拆解与远程访问协议优化实践](https://blog.csdn.net/2401_82648291/article/details/154013962)
+
++ [GPT、DeepSeek等大语言模型应用](https://blog.csdn.net/2403_89666119/article/details/154010716)
+
++ [MQTT协议：物联网时代的通信革命](https://blog.csdn.net/Quectel/article/details/154005665)
+
++ [国产MCU芯片在船舶压力传感器中的应用探索与实践](https://blog.csdn.net/ANSILIC/article/details/154036222)
+
++ [【k8s】配置文件详解](https://blog.csdn.net/Joker_ZJN/article/details/153481405)
+
++ [网络安全：zoomeye.org ，Quake.360.cn](https://blog.csdn.net/belldeep/article/details/154031022)
+
++ [我回来了，依然关注新能源汽车研发测试，](https://blog.csdn.net/weixin_62244995/article/details/154026229)
+
++ [Linux网络的HTTPS](https://blog.csdn.net/2302_80310672/article/details/153970213)
+
++ [GitHub 热榜项目 - 日榜(2025-10-29)](https://blog.csdn.net/u014390502/article/details/154058928)
+
++ [网络安全相关知识](https://blog.csdn.net/wuhenzhangxing/article/details/154022335)
+
++ [大模型请求/响应参数完全拆解：每个字段都是什么意思？](https://blog.csdn.net/qq_61654952/article/details/153958088)
+
++ [在FPGA中实现DDS方案详解（频率，幅度，波形可调）](https://blog.csdn.net/Topplyz/article/details/153960363)
+
