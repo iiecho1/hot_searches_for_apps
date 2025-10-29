@@ -177,3 +177,5 @@
 
 + [专访｜期待中日韩以创新合作引领亚太新增长——访中日韩合作秘书处秘书长李熙燮](https://news.cctv.com/2025/10/29/ARTIjLcnqOWHZ20AEOtxYxHK251029.shtml)
 
++ [巴基斯坦：与阿富汗的新一轮对话“未能达成可行的解决方案”](https://news.cctv.com/2025/10/29/ARTIFskKgYAAa9WSGOxrAhv3251029.shtml)
+
