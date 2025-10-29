@@ -179,3 +179,5 @@
 
 + [巴基斯坦：与阿富汗的新一轮对话“未能达成可行的解决方案”](https://news.cctv.com/2025/10/29/ARTIFskKgYAAa9WSGOxrAhv3251029.shtml)
 
++ [苏丹西部一医院遭袭 逾460名患者遇害](https://news.cctv.com/2025/10/29/ARTIEu2oxNL9cpz00HcsGgIb251029.shtml)
+

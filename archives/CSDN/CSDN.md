@@ -211,3 +211,9 @@
 
 + [快递比价寄件系统技术解析：基于PHP+Vue+小程序的高效聚合配送解决方案](https://blog.csdn.net/dubiaopei/article/details/154039493)
 
++ [Java 大视界 -- Java 大数据在智能金融理财产品风险评估与个性化配置中的应用](https://blog.csdn.net/atgfg/article/details/154038845)
+
++ [【花雕动手做】CanMV K230 AI 视觉识别模块之实现串口通信](https://blog.csdn.net/weixin_41659040/article/details/154025532)
+
++ [vue3 实现贪吃蛇 电脑版01](https://blog.csdn.net/AnalogElectronic/article/details/154038930)
+
