@@ -185,3 +185,9 @@
 
 + [文心致远，延续中韩古城千年情缘](https://news.cctv.com/2025/10/29/ARTIuWuBRRVtjKTRXEF7UIay251029.shtml)
 
++ [普京：俄罗斯试射“波塞冬”无人潜航系统](https://news.cctv.com/2025/10/29/ARTIG1kGHSBODv5RhkqYj2tF251029.shtml)
+
++ [遭遇极端天气 越南顺化录得全球第二大单日降雨量](https://news.cctv.com/2025/10/29/ARTI8ct29wbtA2S9W37Smd54251029.shtml)
+
++ [韩美总统会晤 讨论巩固同盟关系](https://news.cctv.com/2025/10/29/ARTI5FLbLwwum4gk8nr65y3Q251029.shtml)
+
