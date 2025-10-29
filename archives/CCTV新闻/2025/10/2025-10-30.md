@@ -163,3 +163,7 @@
 
 + [受政府“停摆”影响 美众议院员工工资将暂停发放](https://news.cctv.com/2025/10/30/ARTIT4xdGSvYZCNLPUaYxrsl251030.shtml)
 
++ [美联储再次降息25个基点](https://news.cctv.com/2025/10/30/ARTIBbZedtvPeK7bUMzVGcfh251030.shtml)
+
++ [法国检方称卢浮宫抢劫案出现重大进展](https://news.cctv.com/2025/10/30/ARTIXOq5aRBaHFxJ3Kli7S7Q251030.shtml)
+
