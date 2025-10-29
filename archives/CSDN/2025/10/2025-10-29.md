@@ -225,3 +225,11 @@
 
 + [探秘Rust：从语言特性到实战应用的深度之旅——解锁系统级编程的安全与性能双螺旋密码](https://blog.csdn.net/2401_82648291/article/details/153927978)
 
++ [SQL必知必会：巧用AI教你快速精通SQL](https://blog.csdn.net/qq_44273429/article/details/154073967)
+
++ [Docker 部署 CentOS 全流程指南](https://blog.csdn.net/java_logo/article/details/153962638)
+
++ [如何用通义灵码成功开发一个微信小程序](https://blog.csdn.net/xiuweiyin/article/details/154077483)
+
++ [HarmonyOS 性能优化与安全开发：打造高效且安全的智能应用](https://blog.csdn.net/2302_80853925/article/details/154021842)
+

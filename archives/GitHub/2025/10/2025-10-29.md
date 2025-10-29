@@ -29,3 +29,19 @@
 
 + [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink)
+
++ [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+
++ [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
++ [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+
++ [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)
+
++ [block/goose](https://github.com/block/goose)
+
++ [allenai/olmocr](https://github.com/allenai/olmocr)
+
++ [dotnet/eShop](https://github.com/dotnet/eShop)
+

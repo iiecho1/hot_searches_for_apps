@@ -181,3 +181,5 @@
 
 + [苏丹西部一医院遭袭 逾460名患者遇害](https://news.cctv.com/2025/10/29/ARTIEu2oxNL9cpz00HcsGgIb251029.shtml)
 
++ [学习手记｜中韩是搬不走的近邻](https://news.cctv.com/2025/10/29/ARTISQ6EkSkjJ4pJhwDwSkEO251029.shtml)
+
