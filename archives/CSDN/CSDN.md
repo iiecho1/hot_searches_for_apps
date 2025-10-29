@@ -179,3 +179,13 @@
 
 + [【项目】基于多设计模式的同步&异步日志系统](https://blog.csdn.net/2401_83647349/article/details/153931477)
 
++ [2026蓝桥杯](https://blog.csdn.net/2402_88491560/article/details/153931717)
+
++ [SpringBoot+MybatisPlus+自定义注解+切面实现水平数据隔离功能(附代码下载)](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/154022418)
+
++ [构建有记忆的 AI Agent：SQLite 存储 + 向量检索完整方案示例](https://blog.csdn.net/m0_46510245/article/details/154028233)
+
++ [Springboot 局域网部署https解除安全警告](https://blog.csdn.net/a497785609/article/details/153979707)
+
++ [【启发式算法】狼群算法（WPA）与灰狼算法（GWO）轻解](https://blog.csdn.net/qq_51399582/article/details/154017998)
+
