@@ -235,3 +235,7 @@
 
 + [网络安全：zoomeye.org ，Quake.360.cn](https://blog.csdn.net/belldeep/article/details/154031022)
 
++ [基于昇腾NPU910B部署测评gpt-oss-20b实战推理优化指南](https://blog.csdn.net/weixin_52908342/article/details/153992729)
+
++ [【Linux】库制作与原理 从生成使用到 ELF 文件与链接原理解析](https://blog.csdn.net/2501_90265152/article/details/153789956)
+
