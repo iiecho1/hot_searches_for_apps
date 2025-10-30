@@ -151,3 +151,7 @@
 
 + [.Net Core基于EasyCore.EventBus实现事件总线](https://blog.csdn.net/m0_59178355/article/details/154071043)
 
++ [让IOT版说话](https://blog.csdn.net/2401_84168288/article/details/153971978)
+
++ [Linux如何远程控制Windows？rdesktop让跨系统操作像本地一样流畅](https://blog.csdn.net/Tiam_cr/article/details/154085816)
+

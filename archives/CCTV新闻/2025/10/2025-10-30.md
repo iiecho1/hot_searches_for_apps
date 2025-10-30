@@ -171,3 +171,7 @@
 
 + [美联储再降息 鲍威尔称政府“停摆”将影响经济活动](https://news.cctv.com/2025/10/30/ARTIwJq7kmEFtDEBSDrzw2tw251030.shtml)
 
++ [携手合作，增强亚太经济韧性](https://news.cctv.com/2025/10/30/ARTI85QSXhpjxlifEt1s4BV9251030.shtml)
+
++ [共同构筑亚太繁荣发展的美好未来（国际论坛）](https://news.cctv.com/2025/10/30/ARTIiWfid6F0cFJQADpiyLcb251030.shtml)
+
