@@ -181,3 +181,5 @@
 
 + [独家视频丨习近平同美国总统特朗普在釜山会晤](https://news.cctv.com/2025/10/30/ARTI2FlrKpko8hXFIlaIch7j251030.shtml)
 
++ [壹视界·微视频｜携手创造新的“亚太奇迹”](https://news.cctv.com/2025/10/30/ARTI78jIjJsoyepMxZVeba5Z251030.shtml)
+

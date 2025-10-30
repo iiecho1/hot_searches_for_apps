@@ -77,3 +77,7 @@
 
 + [这个也是真心喜欢！★手机竖屏1684★](https://m.acfun.cn/v/?ac=47961287)
 
++ [【东方】Crimson Belvedere-Eastern Dream【8-bits Remix】](https://m.acfun.cn/v/?ac=47952755)
+
++ [【绝望女神】【独立恐怖游戏 独眼利霍】](https://m.acfun.cn/v/?ac=47960932)
+
