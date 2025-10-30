@@ -189,3 +189,17 @@
 
 + [低空经济网络安全风险](https://blog.csdn.net/trusfort/article/details/154010052)
 
++ [从零读懂仓颉标准库：cj.std.io 源码拆解与异步IO实现原理](https://blog.csdn.net/Rqaqedamancy/article/details/154097596)
+
++ [Java 大视界 -- Java 大数据机器学习模型在游戏用户行为分析与游戏平衡优化中的应用](https://blog.csdn.net/atgfg/article/details/153979859)
+
++ [【c++知识铺子】超高效级的容器-List](https://blog.csdn.net/2301_80127108/article/details/154023784)
+
++ [【启发式算法】狼群算法（Wolf Pack Algorithm, WPA）算法详细介绍（Python）](https://blog.csdn.net/qq_51399582/article/details/154074199)
+
++ [Opencv(四):自适应二值化](https://blog.csdn.net/Mrliu__/article/details/154084613)
+
++ [GitHub 热榜项目 - 日榜(2025-10-30)](https://blog.csdn.net/u014390502/article/details/154113411)
+
++ [【Agentic RL专题】一、LLM agent 与 agentic RL](https://blog.csdn.net/weixin_51908696/article/details/154115948)
+
