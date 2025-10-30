@@ -25,3 +25,25 @@
 
 + [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
 
++ [helm/helm](https://github.com/helm/helm)
+
++ [storybookjs/storybook](https://github.com/storybookjs/storybook)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
+
++ [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI)
+
++ [janhq/jan](https://github.com/janhq/jan)
+
++ [mem0ai/mem0](https://github.com/mem0ai/mem0)
+
++ [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+
++ [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
++ [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+
++ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+

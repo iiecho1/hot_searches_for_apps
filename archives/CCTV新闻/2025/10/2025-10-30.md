@@ -195,3 +195,9 @@
 
 + [巴基斯坦军方消息人士称同意恢复与阿富汗会谈](https://news.cctv.com/2025/10/30/ARTIoa4SmnWJ0XLkfZt2nnEg251030.shtml)
 
++ [习近平抵达韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问](https://news.cctv.com/2025/10/30/ARTI7L6W8PEFvWz7PItfsLfV251030.shtml)
+
++ [习近平离京赴韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问](https://news.cctv.com/2025/10/30/ARTIOoJsheLkSsPAkKyUsdgz251030.shtml)
+
++ [国际奥委会宣布终止与沙特在电竞奥运会项目的合作](https://news.cctv.com/2025/10/30/ARTIdepw9yz99hCo0T54eGEh251030.shtml)
+
