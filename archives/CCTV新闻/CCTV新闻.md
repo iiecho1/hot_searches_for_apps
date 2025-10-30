@@ -183,3 +183,5 @@
 
 + [壹视界·微视频｜携手创造新的“亚太奇迹”](https://news.cctv.com/2025/10/30/ARTI78jIjJsoyepMxZVeba5Z251030.shtml)
 
++ [南非果商积极备货向中国出口优质核果](https://photo.cctv.com/2025/10/30/PHOAkJhUM1VSOfJS5Dkk6Woh251030.shtml)
+
