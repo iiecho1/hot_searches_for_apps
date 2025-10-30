@@ -155,3 +155,19 @@
 
 + [Linux如何远程控制Windows？rdesktop让跨系统操作像本地一样流畅](https://blog.csdn.net/Tiam_cr/article/details/154085816)
 
++ [远程操作怕“泄密“？深度解析ToDesk/向日葵/Splashtop/AnyDesk安全隐私防护力](https://blog.csdn.net/weixin_62765017/article/details/154096804)
+
++ [Rust——Trait 定义与实现：从抽象到实践的深度解析](https://blog.csdn.net/weixin_46491509/article/details/154074468)
+
++ [MySQL至KingbaseES迁移最佳实践（上篇）：迁移准备与实施规划](https://blog.csdn.net/qq_32682301/article/details/154099938)
+
++ [Opencv(二): 灰度化](https://blog.csdn.net/Mrliu__/article/details/153841249)
+
++ [深入掌握 Pandas：用 Pivot 与 Merge 构建灵活的数据分析流程](https://blog.csdn.net/2301_77485708/article/details/154080141)
+
++ [利用IPIDEA采集电商数据训练AI Agent客服智能体](https://blog.csdn.net/weixin_51484460/article/details/154094765)
+
++ [【完整源码+数据集+部署教程】【天线＆水】无人机视角水面漂浮物体检测系统源码＆数据集全套：改进yolo11-REPVGGOREPA](https://blog.csdn.net/weixin_43860634/article/details/154065986)
+
++ [k8s中的微服务](https://blog.csdn.net/weixin_75072370/article/details/153980365)
+

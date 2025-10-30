@@ -175,3 +175,5 @@
 
 + [共同构筑亚太繁荣发展的美好未来（国际论坛）](https://news.cctv.com/2025/10/30/ARTIiWfid6F0cFJQADpiyLcb251030.shtml)
 
++ [独家视频丨习近平同特朗普握手合影](https://news.cctv.com/2025/10/30/ARTIxL4FCSDkUumLhvs5UJj2251030.shtml)
+
