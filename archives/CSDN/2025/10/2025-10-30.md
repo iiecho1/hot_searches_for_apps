@@ -213,3 +213,13 @@
 
 + [Diffusion Model与视频超分(2)：解读字节开源视频增强模型SeedVR2](https://blog.csdn.net/qq_41895747/article/details/151905654)
 
++ [TensorFlow深度学习实战——自定义图数据集](https://blog.csdn.net/LOVEmy134611/article/details/144689403)
+
++ [【程序员副业指南】KwaiKAT AI制作小红薯卡片MCP](https://blog.csdn.net/lwcwam/article/details/154121205)
+
++ [【案例实战】初探鸿蒙开放能力：从好奇到实战的技术发现之旅](https://blog.csdn.net/weixin_63944437/article/details/154127773)
+
++ [MCU寄存器配置深度解析：从原理到实践](https://blog.csdn.net/u014750971/article/details/154088600)
+
++ [Rust 零拷贝技术：从所有权到系统调用的性能优化之道](https://blog.csdn.net/m0_55394328/article/details/154097783)
+
