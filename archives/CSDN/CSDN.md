@@ -241,3 +241,9 @@
 
 + [蚂蚁集团已在香港申请「ANTCOIN」等 Web3 相关商标](https://blog.csdn.net/TechubNews/article/details/154011424)
 
++ [AI大模型-深度学习相关概念](https://blog.csdn.net/xiaofanguan/article/details/154005655)
+
++ [Prometheus 详解：从原理到实战，打造企业级云原生监控体系](https://blog.csdn.net/lxyydh88888888/article/details/154094965)
+
++ [【Unity每日一记】Unity物理引擎：刚体与碰撞体详解](https://blog.csdn.net/2302_80294550/article/details/153248680)
+
