@@ -185,3 +185,9 @@
 
 + [南非果商积极备货向中国出口优质核果](https://photo.cctv.com/2025/10/30/PHOAkJhUM1VSOfJS5Dkk6Woh251030.shtml)
 
++ [此行间·习近平同特朗普会晤：让中美关系这艘大船平稳前行](https://news.cctv.com/2025/10/30/ARTIkbElKjcLq5CxddH19JZR251030.shtml)
+
++ [习言道｜一图读懂：APEC到底是什么？](https://news.cctv.com/2025/10/30/ARTIFHzx1AscseyN4Be1dWr4251030.shtml)
+
++ [卢浮宫抢劫案第三名嫌疑人被捕](https://news.cctv.com/2025/10/30/ARTIpEraCQ8BlDI58GzYig3X251030.shtml)
+

@@ -203,3 +203,7 @@
 
 + [【Agentic RL专题】一、LLM agent 与 agentic RL](https://blog.csdn.net/weixin_51908696/article/details/154115948)
 
++ [AI辅助数学建模有哪些优势？](https://blog.csdn.net/master_hunter/article/details/154066383)
+
++ [密码学与人工智能的深度融合：玄知大模型开启安全智能新纪元](https://blog.csdn.net/openHiTLS/article/details/154005682)
+

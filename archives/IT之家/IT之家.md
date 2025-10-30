@@ -47,3 +47,23 @@
 
 + [3D 版的家：小米米家 App“3D 家居视图”功能曝光，苹果 iOS 端正小范围内测](https://m.ithome.com/html/893296.htm)
 
++ [单联瑜回应小米“巨省电”空调的命名](https://m.ithome.com/html/893430.htm)
+
++ [Mate X7？华为旗舰大折叠配置曝光，麒麟 9030、排期暂定 11 月](https://m.ithome.com/html/893396.htm)
+
++ [小米雷军成 2025 中国财富“增长王”，胡润调侃称他弯腰捡一万块的时间还要亏一万块](https://m.ithome.com/html/893475.htm)
+
++ [“办个 eSIM 怎么这么难”：三大运营商回应开通 eSIM 后遇高风险提醒](https://m.ithome.com/html/893477.htm)
+
++ [小米 REDMI 回应 K90 Pro Max 扬声器是否容易进灰：两层防护、整机通过 IP68 防尘防水测试](https://m.ithome.com/html/893340.htm)
+
++ [《黑神话：悟空》联名：699 元 Anker 如意棒充电宝面世，220W Max 三口快充 + 20000mAh 可上飞机](https://m.ithome.com/html/893361.htm)
+
++ [华为推出智慧音频 App：安卓 / iOS 双端同步，支持头动控制、查找设备等功能](https://m.ithome.com/html/893288.htm)
+
++ [小米 17 Pro 系列手机背屏玩法上新，含 5 款动态壁纸、2 款掌机游戏等](https://m.ithome.com/html/893345.htm)
+
++ [让屏幕唱歌：初探苹果 iPad mini 8 无孔扬声器方案](https://m.ithome.com/html/893381.htm)
+
++ [华为路由 X3 Pro 开启预约：有望支持星闪网关、Wi-Fi 7 等，下月上市](https://m.ithome.com/html/893272.htm)
+
