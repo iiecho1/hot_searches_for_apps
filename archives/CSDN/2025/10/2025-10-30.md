@@ -207,3 +207,9 @@
 
 + [密码学与人工智能的深度融合：玄知大模型开启安全智能新纪元](https://blog.csdn.net/openHiTLS/article/details/154005682)
 
++ [SmartMediaKit 在检测机器人中的视频链路重构：从播放(RTSP)到二次水印编码再推流(RTSP|RTMP)](https://blog.csdn.net/renhui1112/article/details/154042975)
+
++ [Kafka Consumer 详解API，分区分配策略以及消费offset](https://blog.csdn.net/Muyu1uz/article/details/154063397)
+
++ [Diffusion Model与视频超分(2)：解读字节开源视频增强模型SeedVR2](https://blog.csdn.net/qq_41895747/article/details/151905654)
+

@@ -191,3 +191,7 @@
 
 + [卢浮宫抢劫案第三名嫌疑人被捕](https://news.cctv.com/2025/10/30/ARTIpEraCQ8BlDI58GzYig3X251030.shtml)
 
++ [高端访谈｜愿推动韩中互惠合作 打造两国民众切身可感的成果——访韩国总统李在明](https://news.cctv.com/2025/10/30/ARTI0Pwl33SwfENQyroBVTbx251030.shtml)
+
++ [巴基斯坦军方消息人士称同意恢复与阿富汗会谈](https://news.cctv.com/2025/10/30/ARTIoa4SmnWJ0XLkfZt2nnEg251030.shtml)
+
