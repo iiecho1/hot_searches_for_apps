@@ -47,3 +47,11 @@
 
 + [华为路由 X3 Pro 开启预约：有望支持星闪网关、Wi-Fi 7 等，下月上市](https://m.ithome.com/html/893272.htm)
 
++ [“最佳苹果开发者”：微软 iOS 26 版 Office App 焕新液态玻璃设计，启用新图标、优化模板查找](https://m.ithome.com/html/893444.htm)
+
++ [一经升级无法回退：华为 WATCH 5 系列手表推 HarmonyOS 6.0.0.109 SP11 更新](https://m.ithome.com/html/893354.htm)
+
++ [抖音电商内部人士回应“京东否认二选一”：所谓辟谣反而实锤，期待有关部门对此事件予以核实](https://m.ithome.com/html/893363.htm)
+
++ [高通骁龙 8 Gen5 处理器技术规格曝光，CPU 性能基本持平骁龙 8 至尊版](https://m.ithome.com/html/893521.htm)
+

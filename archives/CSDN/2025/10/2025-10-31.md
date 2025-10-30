@@ -133,3 +133,7 @@
 
 + [Spring Boot 项目开启 HTTPS 完整指南：从原理到实践](https://blog.csdn.net/weixin_54501932/article/details/154069261)
 
++ [当AI开始写代码，你该如何学习Python？](https://blog.csdn.net/sjw890821sjw/article/details/154057497)
+
++ [bugku合集3](https://blog.csdn.net/xtrws/article/details/154016532)
+

@@ -163,3 +163,5 @@
 
 + [坦桑尼亚爆发游行示威 全境网络中断](https://news.cctv.com/2025/10/31/ARTIhRkbb9mauoQ2IaEVDU7r251031.shtml)
 
++ [美国政府“停摆”：众议院员工工资将停发 食物分发点承压](https://news.cctv.com/2025/10/31/ARTIUA61SIdVpxvVOUfCTMU3251031.shtml)
+
