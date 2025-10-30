@@ -143,3 +143,11 @@
 
 + [【Web安全】OAuth2.0框架高频安全漏洞分析总结](https://blog.csdn.net/qq_40037555/article/details/153969399)
 
++ [【花雕动手做】CanMV K230 AI 视觉识别模块之使用draw_circle方法绘制圆形](https://blog.csdn.net/weixin_41659040/article/details/154065093)
+
++ [SpringBoot日志体系全攻略：Log4j2与ELK集成方案](https://blog.csdn.net/ashyyyy/article/details/154058649)
+
++ [手机App上的轮播图是如何实现的—探究安卓轮播图](https://blog.csdn.net/2401_86909484/article/details/154030655)
+
++ [.Net Core基于EasyCore.EventBus实现事件总线](https://blog.csdn.net/m0_59178355/article/details/154071043)
+

@@ -169,3 +169,5 @@
 
 + [加沙停火又生变数 冲突双方或有“两手准备”](https://news.cctv.com/2025/10/30/ARTIjmnc1DMeHYx3CqZT3vSH251030.shtml)
 
++ [美联储再降息 鲍威尔称政府“停摆”将影响经济活动](https://news.cctv.com/2025/10/30/ARTIwJq7kmEFtDEBSDrzw2tw251030.shtml)
+
