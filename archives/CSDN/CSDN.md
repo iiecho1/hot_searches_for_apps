@@ -171,3 +171,13 @@
 
 + [k8s中的微服务](https://blog.csdn.net/weixin_75072370/article/details/153980365)
 
++ [深入 Actix-web 源码：解密 Rust Web 框架的高性能内核](https://blog.csdn.net/IRpickstars/article/details/154025555)
+
++ [口腔健康系统|口腔医疗|基于java和小程序的口腔健康系统小程序设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154057941)
+
++ [基于微信小程序的奶茶店点餐平台【2026最新】](https://blog.csdn.net/2301_78335941/article/details/153944859)
+
++ [ESP32 + MCP over MQTT：实现智能设备语音交互](https://blog.csdn.net/emqx_broker/article/details/154005646)
+
++ [【仿真测试】基于FPGA的完整BPSK通信链路实现,含频偏锁定,帧同步,定时点,Viterbi译码,信道,误码统计](https://blog.csdn.net/hlayumi1234567/article/details/154009604)
+

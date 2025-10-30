@@ -177,3 +177,7 @@
 
 + [独家视频丨习近平同特朗普握手合影](https://news.cctv.com/2025/10/30/ARTIxL4FCSDkUumLhvs5UJj2251030.shtml)
 
++ [近镜头｜习近平抵达韩国受到热烈欢迎](https://news.cctv.com/2025/10/30/ARTItX0cYJCkiQLDJDkdwetn251030.shtml)
+
++ [独家视频丨习近平同美国总统特朗普在釜山会晤](https://news.cctv.com/2025/10/30/ARTI2FlrKpko8hXFIlaIch7j251030.shtml)
+
