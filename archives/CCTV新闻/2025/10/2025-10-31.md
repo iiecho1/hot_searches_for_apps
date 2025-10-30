@@ -161,3 +161,5 @@
 
 + [印尼东努沙登加拉省附近海域发生6.3级地震](https://news.cctv.com/2025/10/27/ARTIkVEpUF8d0xH6Stq1L76Q251027.shtml)
 
++ [坦桑尼亚爆发游行示威 全境网络中断](https://news.cctv.com/2025/10/31/ARTIhRkbb9mauoQ2IaEVDU7r251031.shtml)
+
