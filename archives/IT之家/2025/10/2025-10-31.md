@@ -55,3 +55,13 @@
 
 + [高通骁龙 8 Gen5 处理器技术规格曝光，CPU 性能基本持平骁龙 8 至尊版](https://m.ithome.com/html/893521.htm)
 
++ [2021 年来首次重大改版：初探微软 Win11 新开始菜单，四大核心变化一览](https://m.ithome.com/html/893367.htm)
+
++ [消息称华为 Mate 80 系列备案颜色“巨多”：曜石黑、雪域白、晨曦金等](https://m.ithome.com/html/893588.htm)
+
++ [东哥请客，刘强东请京东外卖全职骑手吃肯德基](https://m.ithome.com/html/893494.htm)
+
++ [2599 元起 iQOO Neo11 手机发布，骁龙 8 至尊版 + 6.82 英寸 2K 屏](https://m.ithome.com/html/893627.htm)
+
++ [京东 11.11 开门红 20:00 正式开抢：iPhone 17 Pro 系列换新立减 1000 元](https://m.ithome.com/html/893621.htm)
+
