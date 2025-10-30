@@ -201,3 +201,9 @@
 
 + [国际奥委会宣布终止与沙特在电竞奥运会项目的合作](https://news.cctv.com/2025/10/30/ARTIdepw9yz99hCo0T54eGEh251030.shtml)
 
++ [中美元首釜山会晤，习近平这些话掷地有声](https://news.cctv.com/2025/10/30/ARTIwMWKEAuNnOZzeVQDwdIq251030.shtml)
+
++ [壹视界｜习主席的“亚太主张”：开放与创新，一个都不能少](https://news.cctv.com/2025/10/30/ARTItJQ0oCj15F0RrzNghQzZ251030.shtml)
+
++ [时习之丨以“地瓜”为喻，习近平生动诠释亚太合作](https://news.cctv.com/2025/10/30/ARTIcYMdDAq9Mm6JaxjxDdv2251030.shtml)
+

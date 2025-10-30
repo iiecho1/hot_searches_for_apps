@@ -235,3 +235,5 @@
 
 + [从局域网工具到全球传输：FastSend的无服务器共享革命](https://blog.csdn.net/bushibrnxiaohaij/article/details/154133405)
 
++ [Python 实战：Web 漏洞 Python POC 代码及原理详解（2）](https://blog.csdn.net/hj06112/article/details/154096785)
+

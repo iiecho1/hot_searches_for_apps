@@ -67,3 +67,5 @@
 
 + [华为路由 X3 Pro 开启预约：有望支持星闪网关、Wi-Fi 7 等，下月上市](https://m.ithome.com/html/893272.htm)
 
++ [微信员工：鸿蒙新版本正常推进内测，图片提取文字功能逐步放量中](https://m.ithome.com/html/893362.htm)
+
