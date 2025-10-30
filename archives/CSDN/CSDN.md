@@ -137,3 +137,5 @@
 
 + [bugku合集3](https://blog.csdn.net/xtrws/article/details/154016532)
 
++ [YOLO-World: Real-Time Open-Vocabulary Object Detection论文阅读](https://blog.csdn.net/m0_56093217/article/details/154064709)
+

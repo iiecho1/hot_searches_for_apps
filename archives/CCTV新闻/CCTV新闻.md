@@ -165,3 +165,9 @@
 
 + [美国政府“停摆”：众议院员工工资将停发 食物分发点承压](https://news.cctv.com/2025/10/31/ARTIUA61SIdVpxvVOUfCTMU3251031.shtml)
 
++ [巴基斯坦和阿富汗同意继续停火 将于11月继续会谈](https://news.cctv.com/2025/10/31/ARTI7X3UbzgPZx4e51NAZAaH251031.shtml)
+
++ [印媒：英国高校扎堆在印度开分校，谁最受益？](https://news.cctv.com/2025/10/31/ARTIQprFMY4h2IVFEtxADJon251031.shtml)
+
++ [英国安德鲁王子被剥夺头衔及王室住所](https://news.cctv.com/2025/10/31/ARTItUWeWAOaD4wdVZfZ918W251031.shtml)
+
