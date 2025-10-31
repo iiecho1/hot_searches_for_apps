@@ -49,3 +49,5 @@
 
 + [京东 11.11 开门红 20:00 正式开抢：iPhone 17 Pro 系列换新立减 1000 元](https://m.ithome.com/html/893621.htm)
 
++ [市场认可度不够？消息称国内某厂轻薄 Air 手机项目已暂停，原定明年上半年上市](https://m.ithome.com/html/893907.htm)
+
