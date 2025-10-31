@@ -47,3 +47,5 @@
 
 + [好奇大家用 Apple TV 干什么？](https://www.v2ex.com/t/1169518)
 
++ [假如大家财富自由后，还会选择工作吗](https://www.v2ex.com/t/1169585)
+
