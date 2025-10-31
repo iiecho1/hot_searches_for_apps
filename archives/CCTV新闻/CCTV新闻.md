@@ -165,3 +165,5 @@
 
 + [第158次中老缅泰湄公河联合巡逻执法行动圆满结束](https://news.cctv.com/2025/11/01/ARTICdW1CG3n7VZyvXkvAwkk251031.shtml)
 
++ [俄南极东方站西瓜“丰收” 明年计划种草莓](https://news.cctv.com/2025/11/01/ARTIw9YU6omgSM3CFqe0k5BB251101.shtml)
+
