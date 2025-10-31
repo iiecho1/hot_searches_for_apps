@@ -165,3 +165,11 @@
 
 + [KingbaseES数据库SQL优化手段全解析：从索引到并行查询的实战指南](https://blog.csdn.net/qq_57761637/article/details/154161174)
 
++ [PostgreSQL WHERE 子句详解](https://blog.csdn.net/qq_41840843/article/details/154170716)
+
++ [昇腾NPU加持下的Llama 3.2：开源大模型推理性能1B英文原版与3B中文微调模型实测对比](https://blog.csdn.net/weixin_52908342/article/details/154156894)
+
++ [从被动查询到主动贡献：Answer的知识社区进化论](https://blog.csdn.net/qyj19920704/article/details/154155789)
+
++ [系统分析师-信息安全-信息系统安全体系&数据安全与保密](https://blog.csdn.net/g984160547/article/details/154042547)
+
