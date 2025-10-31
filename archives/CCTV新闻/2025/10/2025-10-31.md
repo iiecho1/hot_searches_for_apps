@@ -171,3 +171,27 @@
 
 + [英国安德鲁王子被剥夺头衔及王室住所](https://news.cctv.com/2025/10/31/ARTItUWeWAOaD4wdVZfZ918W251031.shtml)
 
++ [新华时评｜为中美关系把握好方向、驾驭住大局](https://news.cctv.com/2025/10/31/ARTIdTEx7Ip8NzVt58CjwUhz251031.shtml)
+
++ [微视频｜潮起太平洋](https://news.cctv.com/2025/10/31/ARTIr3YqSEx6v320mLg9lBUa251031.shtml)
+
++ [习语｜“亚太是我们的共同家园”](https://news.cctv.com/2025/10/31/ARTI6SxixFdFReJk8HWbkSfP251031.shtml)
+
++ [第一观察｜“大船”之喻饱含深意](https://news.cctv.com/2025/10/31/ARTIQOUzCPAsqErASGQsaAby251031.shtml)
+
++ [此行间·中美元首釜山会晤，5个关键词看中方传递的稳定信号](https://news.cctv.com/2025/10/31/ARTIcZvKvjGrJgkbKmXJxzkm251031.shtml)
+
++ [美参议院通过终止特朗普全面关税政策决议](https://news.cctv.com/2025/10/31/ARTIGApsfRjIhaJhZFAKlQx9251031.shtml)
+
++ [专机加油遭美企拒绝 哥伦比亚总统：终止与其合作](https://news.cctv.com/2025/10/31/ARTIFHTk0l39W2TCHSgkNBAJ251031.shtml)
+
++ [捷蓝航空一航班紧急降落至佛罗里达 多名乘客受伤](https://news.cctv.com/2025/10/31/ARTIyjKOQtNtxWr8GIHJvOYD251031.shtml)
+
++ [时政新闻眼丨中美元首釜山会晤，这些重点值得关注](https://news.cctv.com/2025/10/31/ARTIFmAlIsml5nO2JjEWf9M9251031.shtml)
+
++ [美国马里兰州宣布进入紧急状态 应对政府“停摆”](https://news.cctv.com/2025/10/31/ARTIOETj5tYL7zpugbXRT0Fr251031.shtml)
+
++ [从“海燕”到“波塞冬” 俄密集官宣捷报有何考量？](https://news.cctv.com/2025/10/31/ARTI5Q1dFdmXa6Szjby3tM9S251031.shtml)
+
++ [国家主席习近平出席亚太经合组织第三十二次领导人非正式会议第一阶段会议](https://news.cctv.com/2025/10/31/ARTI9DgMYQ0LtE93LUImBZey251031.shtml)
+

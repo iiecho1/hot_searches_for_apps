@@ -147,3 +147,13 @@
 
 + [前端性能优化实战指南：从首屏加载到用户体验的全面提升](https://blog.csdn.net/qq_46123200/article/details/154020498)
 
++ [从SQL Server到KingbaseES：一步到位的跨平台迁移与性能优化指南](https://blog.csdn.net/beautifulmemory/article/details/154141261)
+
++ [仓颉内存分配优化：从语言特性到工程实践的完整指南](https://blog.csdn.net/2401_89538720/article/details/154068103)
+
++ [MySQL 复合查询全解析：从单表到多表的实战进阶](https://blog.csdn.net/2401_83603768/article/details/153791623)
+
++ [《程序员AI之路：从Python起步》完全学习导航](https://blog.csdn.net/weixin_38291577/article/details/154061997)
+
++ [CPU 架构（CPU Architecture）](https://blog.csdn.net/weixin_40566713/article/details/154074149)
+
