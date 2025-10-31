@@ -215,3 +215,11 @@
 
 + [保友 Pofit 2代人体工学椅，新一代智能坐享体验，从此开启](https://blog.csdn.net/guorui_java/article/details/154060225)
 
++ [036：vue+threeJS 点击选中物体，用白色轮廓线标识](https://blog.csdn.net/cuclife/article/details/154184314)
+
++ [GitHub 热榜项目 - 日榜(2025-10-31)](https://blog.csdn.net/u014390502/article/details/154170910)
+
++ [今天我们学习Linux架构keepalived实现LVS代理双击热备](https://blog.csdn.net/Lynnxiaowen/article/details/154136271)
+
++ [让数据库“听懂“人话：Text2Sql.Net 深度技术解析](https://blog.csdn.net/u012094427/article/details/154153023)
+

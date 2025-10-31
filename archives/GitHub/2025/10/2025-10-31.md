@@ -33,3 +33,17 @@
 
 + [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 
++ [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
+
++ [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+
++ [fmtlib/fmt](https://github.com/fmtlib/fmt)
+
++ [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
+
++ [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
++ [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink)
+
++ [dotnet/eShop](https://github.com/dotnet/eShop)
+
