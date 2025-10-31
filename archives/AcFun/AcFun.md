@@ -69,3 +69,5 @@
 
 + [조용한 오후, 유은의 감성 한 스푼🤎 | Velvet Slip Dress | Yu Eun](https://m.acfun.cn/v/?ac=47962263)
 
++ [【重音テトSV×東方Vocal】魔理沙は大変なものを盗んでいきました【SynthVカバー】 ](https://m.acfun.cn/v/?ac=47964707)
+

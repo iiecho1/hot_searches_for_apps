@@ -139,3 +139,11 @@
 
 + [YOLO-World: Real-Time Open-Vocabulary Object Detection论文阅读](https://blog.csdn.net/m0_56093217/article/details/154064709)
 
++ [【花雕动手做】CanMV K230 AI 视觉识别模块之使用draw_circle方法绘制圆形](https://blog.csdn.net/weixin_41659040/article/details/154065093)
+
++ [【Rust探索之旅】构建安全、高效的本地待办事项工具 TodoLite（系列三）](https://blog.csdn.net/Mr_Roki/article/details/154135758)
+
++ [3个致命错误：Java微服务契约测试为何总在“接口不匹配“边缘摇摇欲坠？](https://blog.csdn.net/z_344791576/article/details/151679247)
+
++ [前端性能优化实战指南：从首屏加载到用户体验的全面提升](https://blog.csdn.net/qq_46123200/article/details/154020498)
+
