@@ -217,3 +217,9 @@
 
 + [习近平出席亚太经合组织第三十二次领导人非正式会议并发表重要讲话](https://news.cctv.com/2025/10/31/ARTIEwplNVB4VP7IaC6Lhiwt251031.shtml)
 
++ [中美两国完全可以相互成就、共同繁荣（钟声）](https://news.cctv.com/2025/10/31/ARTIWOJaSdS9j9BunbHXuzpQ251031.shtml)
+
++ [记者观察｜在APEC会议举办地触摸亚太合作发展新脉动](https://news.cctv.com/2025/10/31/ARTInTnRe8OzPWFBt5Raw8WZ251031.shtml)
+
++ [南非共产党总书记：中国是全球公平合作的典范](https://news.cctv.com/2025/10/31/ARTIxTOvfcVlTMttIWxUmMLV251031.shtml)
+
