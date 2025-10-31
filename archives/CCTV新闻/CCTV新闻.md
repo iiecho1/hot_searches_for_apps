@@ -201,3 +201,11 @@
 
 + [特写｜“中美两国可以相互成就、共同繁荣”](https://news.cctv.com/2025/10/31/ARTIleqTWTqan30khhxfzCtO251031.shtml)
 
++ [习近平会见日本首相高市早苗](https://news.cctv.com/2025/10/31/ARTIpEXhmKlM9GaFGH9DWdzq251031.shtml)
+
++ [学习快评｜让中美关系这艘大船平稳前行](https://news.cctv.com/2025/10/31/ARTIifO5txb3ZKKv1WYNbFdW251031.shtml)
+
++ [习近平会见泰国总理阿努廷](https://news.cctv.com/2025/10/31/ARTIAZ1TAiURdzQPjLLCpybi251031.shtml)
+
++ [习近平会见加拿大总理卡尼](https://news.cctv.com/2025/10/31/ARTINamKx2VWRmFmwBW6fLVB251031.shtml)
+

@@ -65,3 +65,21 @@
 
 + [京东 11.11 开门红 20:00 正式开抢：iPhone 17 Pro 系列换新立减 1000 元](https://m.ithome.com/html/893621.htm)
 
++ [HPV 疫苗正式纳入国家免疫规划，11 月 10 日起满 13 岁女生免费接种](https://m.ithome.com/html/893652.htm)
+
++ [小米 20000mAh 充电宝“PB2165”上市：自带 6A 编织数据线、165W 双口组合输出，首发 269 元](https://m.ithome.com/html/893606.htm)
+
++ [微信推出多条消息一次性撤回、群聊选择性接收重要通知功能](https://m.ithome.com/html/893561.htm)
+
++ [李斌：老被问蔚来什么时候倒闭也挺烦，公司混的不好用户也没面子](https://m.ithome.com/html/893764.htm)
+
++ [微信鸿蒙版 App 获 8.0.12.33 邀测升级，部分搜索合成表情支持显示相关专辑来源](https://m.ithome.com/html/893673.htm)
+
++ [吉利银河星耀 6“国民家轿”上市：全新雷神 AI 电混 2.0 技术、千里浩瀚 H3 辅助驾驶，限时 6.88 万元起](https://m.ithome.com/html/893639.htm)
+
++ [四菜一汤还带水果饮料，阿维塔推出“塔式中餐厅”免费服务](https://m.ithome.com/html/893622.htm)
+
++ [华为手机星闪车钥匙在 HarmonyOS 6 落地，适配尊界 S800、享界 S9T、问界 M9 等车型](https://m.ithome.com/html/893670.htm)
+
++ [iPad Air M3 256G 版 5299 → 3599 元 12 期免息，京东自营再降价](https://m.ithome.com/html/893617.htm)
+

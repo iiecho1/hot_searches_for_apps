@@ -185,3 +185,11 @@
 
 + [今天我们学习Linux架构keepalived实现nginx代理双击热备](https://blog.csdn.net/Lynnxiaowen/article/details/154071826)
 
++ [【Rust编程】ORM框架Diesel](https://blog.csdn.net/EscaRC/article/details/154146291)
+
++ [Rust闭包的魔法：从捕获机制到所有权的完美交响曲](https://blog.csdn.net/supdriver/article/details/154126651)
+
++ [Nof1.ai 的开源复刻版：让 AI 成为你的量化交易员（附提示词模板）](https://blog.csdn.net/qq_44866828/article/details/154076114)
+
++ [Docker 容器命令深度解析：从docker run到docker ps的精通之路](https://blog.csdn.net/2301_80863610/article/details/154122686)
+
