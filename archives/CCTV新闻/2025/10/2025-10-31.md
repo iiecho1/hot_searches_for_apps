@@ -215,3 +215,5 @@
 
 + [习近平向亚太经合组织工商领导人峰会发表书面演讲](https://news.cctv.com/2025/10/31/ARTI8d6st2KL7AsFCZQltc1P251031.shtml)
 
++ [习近平出席亚太经合组织第三十二次领导人非正式会议并发表重要讲话](https://news.cctv.com/2025/10/31/ARTIEwplNVB4VP7IaC6Lhiwt251031.shtml)
+
