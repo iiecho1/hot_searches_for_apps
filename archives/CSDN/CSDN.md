@@ -157,3 +157,11 @@
 
 + [CPU 架构（CPU Architecture）](https://blog.csdn.net/weixin_40566713/article/details/154074149)
 
++ [【自然语言处理】预训练02：近似训练](https://blog.csdn.net/Morse_Chen/article/details/154097036)
+
++ [深入探究 Vue 中 keep-alive 的实现原理](https://blog.csdn.net/weixin_42554191/article/details/153870755)
+
++ [基于百度地铁 API 的长沙地铁站点详情查询与路线导航实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/154149712)
+
++ [KingbaseES数据库SQL优化手段全解析：从索引到并行查询的实战指南](https://blog.csdn.net/qq_57761637/article/details/154161174)
+
