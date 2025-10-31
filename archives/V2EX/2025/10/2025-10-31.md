@@ -41,3 +41,9 @@
 
 + [大家除了逛 v2ex，一般还逛什么社区或论坛](https://www.v2ex.com/t/1169584)
 
++ [华为奖励以入袋， iphone17 已买](https://www.v2ex.com/t/1169592)
+
++ [为什么现在的开发者都不愿意写文档了？是真的没时间还是懒？](https://www.v2ex.com/t/1169550)
+
++ [好奇大家用 Apple TV 干什么？](https://www.v2ex.com/t/1169518)
+
