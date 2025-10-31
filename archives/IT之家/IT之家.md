@@ -25,3 +25,27 @@
 
 + [库克回避“iPhone Air 减产”提问，暗示该机型未达苹果预期](https://m.ithome.com/html/893681.htm)
 
++ [“办个 eSIM 怎么这么难”：三大运营商回应开通 eSIM 后遇高风险提醒](https://m.ithome.com/html/893477.htm)
+
++ [小米雷军成 2025 中国财富“增长王”，胡润调侃称他弯腰捡一万块的时间还要亏一万块](https://m.ithome.com/html/893475.htm)
+
++ [单联瑜回应小米“巨省电”空调的命名](https://m.ithome.com/html/893430.htm)
+
++ [Mate X7？华为旗舰大折叠配置曝光，麒麟 9030、排期暂定 11 月](https://m.ithome.com/html/893396.htm)
+
++ [让屏幕唱歌：初探苹果 iPad mini 8 无孔扬声器方案](https://m.ithome.com/html/893381.htm)
+
++ [高通骁龙 8 Gen5 处理器技术规格曝光，CPU 性能基本持平骁龙 8 至尊版](https://m.ithome.com/html/893521.htm)
+
++ [“最佳苹果开发者”：微软 iOS 26 版 Office App 焕新液态玻璃设计，启用新图标、优化模板查找](https://m.ithome.com/html/893444.htm)
+
++ [2021 年来首次重大改版：初探微软 Win11 新开始菜单，四大核心变化一览](https://m.ithome.com/html/893367.htm)
+
++ [消息称华为 Mate 80 系列备案颜色“巨多”：曜石黑、雪域白、晨曦金等](https://m.ithome.com/html/893588.htm)
+
++ [东哥请客，刘强东请京东外卖全职骑手吃肯德基](https://m.ithome.com/html/893494.htm)
+
++ [2599 元起 iQOO Neo11 手机发布，骁龙 8 至尊版 + 6.82 英寸 2K 屏](https://m.ithome.com/html/893627.htm)
+
++ [京东 11.11 开门红 20:00 正式开抢：iPhone 17 Pro 系列换新立减 1000 元](https://m.ithome.com/html/893621.htm)
+

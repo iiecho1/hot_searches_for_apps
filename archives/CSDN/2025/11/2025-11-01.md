@@ -101,3 +101,9 @@
 
 + [Linux网络的HTTPS](https://blog.csdn.net/2302_80310672/article/details/153970213)
 
++ [黑客：网络世界的攻防者与守护者 —— 从定义、职责到未来价值的深度解析](https://blog.csdn.net/2401_84149564/article/details/154156945)
+
++ [从零开发AI（不依赖任何模型）](https://blog.csdn.net/2401_85592408/article/details/154082032)
+
++ [MySQL 复合查询全解析：从单表到多表的实战进阶](https://blog.csdn.net/2401_83603768/article/details/153791623)
+
