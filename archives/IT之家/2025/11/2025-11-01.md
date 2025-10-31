@@ -51,3 +51,15 @@
 
 + [市场认可度不够？消息称国内某厂轻薄 Air 手机项目已暂停，原定明年上半年上市](https://m.ithome.com/html/893907.htm)
 
++ [HPV 疫苗正式纳入国家免疫规划，11 月 10 日起满 13 岁女生免费接种](https://m.ithome.com/html/893652.htm)
+
++ [小米 20000mAh 充电宝“PB2165”上市：自带 6A 编织数据线、165W 双口组合输出，首发 269 元](https://m.ithome.com/html/893606.htm)
+
++ [吉利银河星耀 6“国民家轿”上市：全新雷神 AI 电混 2.0 技术、千里浩瀚 H3 辅助驾驶，限时 6.88 万元起](https://m.ithome.com/html/893639.htm)
+
++ [四菜一汤还带水果饮料，阿维塔推出“塔式中餐厅”免费服务](https://m.ithome.com/html/893622.htm)
+
++ [华为手机星闪车钥匙在 HarmonyOS 6 落地，适配尊界 S800、享界 S9T、问界 M9 等车型](https://m.ithome.com/html/893670.htm)
+
++ [iPad Air M3 256G 版 5299 → 3599 元 12 期免息，京东自营再降价](https://m.ithome.com/html/893617.htm)
+

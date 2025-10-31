@@ -167,3 +167,5 @@
 
 + [俄南极东方站西瓜“丰收” 明年计划种草莓](https://news.cctv.com/2025/11/01/ARTIw9YU6omgSM3CFqe0k5BB251101.shtml)
 
++ [倒计时一周年 2026年达喀尔青奥会官方吉祥物发布](https://news.cctv.com/2025/11/01/ARTIHfztg2xAMmg2TwQfAoNM251101.shtml)
+
