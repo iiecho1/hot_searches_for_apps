@@ -209,3 +209,9 @@
 
 + [习近平会见加拿大总理卡尼](https://news.cctv.com/2025/10/31/ARTINamKx2VWRmFmwBW6fLVB251031.shtml)
 
++ [拾光纪·共谋亚太发展大计，习近平给出5点建议](https://news.cctv.com/2025/10/31/ARTIi7SEH9mTycZj3EVHf8iX251031.shtml)
+
++ [习近平在亚太经合组织工商领导人峰会上的书面演讲（全文）](https://news.cctv.com/2025/10/31/ARTI1su7uFskjdvmJTCuRXvW251031.shtml)
+
++ [习近平向亚太经合组织工商领导人峰会发表书面演讲](https://news.cctv.com/2025/10/31/ARTI8d6st2KL7AsFCZQltc1P251031.shtml)
+

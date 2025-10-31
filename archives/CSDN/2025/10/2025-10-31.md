@@ -193,3 +193,17 @@
 
 + [Docker 容器命令深度解析：从docker run到docker ps的精通之路](https://blog.csdn.net/2301_80863610/article/details/154122686)
 
++ [复杂系统预测的技术栈迭代：以2025年10月足球比赛AI应用winner12为例的多智能体AI框架研究](https://blog.csdn.net/qq_35856353/article/details/154099783)
+
++ [Nacos配置中心实战进阶：多场景动态刷新全解析](https://blog.csdn.net/sinat_41617212/article/details/154023668)
+
++ [手绘笔记远程化实战：Excalidraw + cpolar 让远程团队一起瞎画出灵感——零门槛搭建云端手绘协作空间](https://blog.csdn.net/2401_82648291/article/details/154177130)
+
++ [TRAE SOLO:基于React 18+与蓝耘MaaS的多语言智能翻译平台设计与实现](https://blog.csdn.net/2301_76341691/article/details/154182262)
+
++ [深入JVM：让Java性能起飞的核心原理与优化策略](https://blog.csdn.net/m0_74823131/article/details/154156232)
+
++ [网络安全等级保护测评高风险判定实施指引（试行）--2020与2025版对比](https://blog.csdn.net/jayjaydream/article/details/154076810)
+
++ [从本地存储到全球访问：1Panel的家庭服务器革命](https://blog.csdn.net/qq_73017178/article/details/154179515)
+
