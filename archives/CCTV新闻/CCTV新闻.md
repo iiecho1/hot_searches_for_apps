@@ -185,3 +185,15 @@
 
 + [推动中韩战略合作伙伴关系向更高水平迈进](https://news.cctv.com/2025/11/01/ARTIcA4ODoVl3ODEWFpG7xRm251101.shtml)
 
++ [伊朗一架超轻型飞机降落时失控 飞行员弹射逃生](https://news.cctv.com/2025/11/01/ARTI7pMpj0hmc5dQbd3yRP10251101.shtml)
+
++ [国际人士：中国践行多边主义 推动各国共同发展、共享繁荣](https://news.cctv.com/2025/11/01/ARTIsKF6ZnEFu9NaebOn1YOP251101.shtml)
+
++ [共担时代责任 共促世界繁荣](https://news.cctv.com/2025/11/01/ARTIHOTv7yNcFb9O9KryxPmq251101.shtml)
+
++ [美国联邦政府“停摆”满月：僵局难破 危机显现](https://news.cctv.com/2025/11/01/ARTI654CzUPh0j86Oa77FZvR251101.shtml)
+
++ [人工智能驱动 绿色低碳领航——第八届进博会将成为观察全球产业升级新窗口](https://news.cctv.com/2025/11/01/ARTINbliG2F4vSpw1Ja3bFK0251101.shtml)
+
++ [携手构建亚太共同体——国际社会热切期待APEC“中国时间”](https://news.cctv.com/2025/11/01/ARTIcxNlbLENRdcNowfhfZFK251101.shtml)
+

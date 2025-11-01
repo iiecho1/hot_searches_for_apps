@@ -67,3 +67,11 @@
 
 + [今天终于登上了 telegram](https://www.v2ex.com/t/1169848)
 
++ [你，能不能，不要钱](https://www.v2ex.com/t/1169877)
+
++ [程序员转行去干啥好？有转行成功的吗？](https://www.v2ex.com/t/1169865)
+
++ [看到身边挺多人还在用 frp，我真想推荐下我开发的代替品 gonc(点对点，不用服务器中转)](https://www.v2ex.com/t/1169787)
+
++ [还有没升级 macos 26 的朋友吗](https://www.v2ex.com/t/1169857)
+
