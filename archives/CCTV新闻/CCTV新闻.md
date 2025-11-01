@@ -177,3 +177,7 @@
 
 + [德国法兰克福一购物中心传出巨响 疑似发生枪击事件](https://news.cctv.com/2025/11/02/ARTIyq0qCHonAw44LTt1fEov251102.shtml)
 
++ [伊朗设拉子一液化石油气加注车间发生爆炸](https://news.cctv.com/2025/11/02/ARTIi7Ce4S4c0CicF8aO3HK6251102.shtml)
+
++ [达成停火22天内 仅有商定数量24%的卡车进入加沙](https://news.cctv.com/2025/11/02/ARTI2isqXjIUFQJKf7hBiUDL251102.shtml)
+
