@@ -207,3 +207,11 @@
 
 + [GitHub 热榜项目 - 日榜(2025-11-01)](https://blog.csdn.net/u014390502/article/details/154231926)
 
++ [Magic API：低代码接口开发平台完全指南](https://blog.csdn.net/m0_74385041/article/details/154156929)
+
++ [【计算机网络】IO复用方法（二）——Select](https://blog.csdn.net/2302_76793428/article/details/154095971)
+
++ [Docker化你的Python应用：从开发到生产](https://blog.csdn.net/qq_42568323/article/details/154213541)
+
++ [YOLO python 实现多种物体识别（时钟，水杯，小熊，路人，车辆）](https://blog.csdn.net/2501_92729044/article/details/154215159)
+
