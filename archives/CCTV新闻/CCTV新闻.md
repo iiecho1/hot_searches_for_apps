@@ -169,3 +169,7 @@
 
 + [倒计时一周年 2026年达喀尔青奥会官方吉祥物发布](https://news.cctv.com/2025/11/01/ARTIHfztg2xAMmg2TwQfAoNM251101.shtml)
 
++ [特朗普称尚未决定是否袭击委内瑞拉境内目标](https://news.cctv.com/2025/11/01/ARTIf2kMsqSiWyq8sGHHLkeo251101.shtml)
+
++ [政府“停摆”一个月 美国错过了多少“截止日期”？](https://news.cctv.com/2025/11/01/ARTI32dB5wXJiWHGp6EANzYa251101.shtml)
+

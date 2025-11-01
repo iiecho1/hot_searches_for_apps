@@ -135,3 +135,5 @@
 
 + [《程序员AI之路：从Python起步》完全学习导航](https://blog.csdn.net/weixin_38291577/article/details/154061997)
 
++ [仓颉三方库开发实战：身份证解析库 idcard 的设计与实现](https://blog.csdn.net/feng8403000/article/details/154193722)
+
