@@ -173,3 +173,5 @@
 
 + [政府“停摆”一个月 美国错过了多少“截止日期”？](https://news.cctv.com/2025/11/01/ARTI32dB5wXJiWHGp6EANzYa251101.shtml)
 
++ [俄称击落6架飞往莫斯科无人机](https://news.cctv.com/2025/11/01/ARTIKi1pvGvm7bXUxPS9CDti251101.shtml)
+
