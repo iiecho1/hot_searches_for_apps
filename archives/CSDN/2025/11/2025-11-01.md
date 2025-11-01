@@ -171,3 +171,15 @@
 
 + [《静态库与动态库：从编译原理到实战调用，一篇文章讲透》](https://blog.csdn.net/Dovis5884/article/details/153516112)
 
++ [Linux 权限实战：从概念到命令，搞定文件访问控制的核心逻辑](https://blog.csdn.net/2503_91389547/article/details/153752671)
+
++ [【Rust】路由匹配与参数提取：从 match 语句到 axum 的类型魔法](https://blog.csdn.net/2401_86326742/article/details/154141839)
+
++ [Nof1.ai 的开源复刻版：让 AI 成为你的量化交易员（附提示词模板）](https://blog.csdn.net/qq_44866828/article/details/154076114)
+
++ [AI 图像生成技术发展时间脉络：从 GAN 到多模态大模型的知名模型概略解析](https://blog.csdn.net/weixin_44153630/article/details/154128521)
+
++ [虚拟机的未来：云计算与边缘计算的核心引擎（一）](https://blog.csdn.net/jiushun_suanli/article/details/154127830)
+
++ [【花雕学编程】Arduino BLDC 之仿生双足机器人步态控制](https://blog.csdn.net/weixin_41659040/article/details/154196547)
+

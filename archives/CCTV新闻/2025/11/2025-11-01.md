@@ -181,3 +181,5 @@
 
 + [南非已为举办二十国集团领导人约堡峰会“做好准备”](https://news.cctv.com/2025/11/01/ARTIbvoMW3oiYBpr4vuzRz2D251101.shtml)
 
++ [李在明回答总台记者提问：致力于加强与中国合作](https://news.cctv.com/2025/11/01/ARTIAkp848EnGWAiFV1Pbybh251101.shtml)
+

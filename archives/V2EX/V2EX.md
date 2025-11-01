@@ -43,3 +43,7 @@
 
 + [下午 AL 能赢 T1 吗](https://www.v2ex.com/t/1169720)
 
++ [新手 javaer 咨询几个问题](https://www.v2ex.com/t/1169693)
+
++ [nas 的影音工具你们用的什么](https://www.v2ex.com/t/1169749)
+
