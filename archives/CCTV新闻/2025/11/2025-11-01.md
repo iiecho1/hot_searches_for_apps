@@ -183,3 +183,5 @@
 
 + [李在明回答总台记者提问：致力于加强与中国合作](https://news.cctv.com/2025/11/01/ARTIAkp848EnGWAiFV1Pbybh251101.shtml)
 
++ [推动中韩战略合作伙伴关系向更高水平迈进](https://news.cctv.com/2025/11/01/ARTIcA4ODoVl3ODEWFpG7xRm251101.shtml)
+

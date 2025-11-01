@@ -187,3 +187,9 @@
 
 + [TCP/IP 四层模型：网络协议的分工与协作](https://blog.csdn.net/2301_79840250/article/details/154150096)
 
++ [深入Rust：Vec的内存布局与扩容策略解析](https://blog.csdn.net/chandfy/article/details/154084136)
+
++ [Rust——Trait 定义与实现：从抽象到实践的深度解析](https://blog.csdn.net/weixin_46491509/article/details/154074468)
+
++ [HDD·鸿蒙极客沙龙：走进华为练秋湖；解码文化战略内核](https://blog.csdn.net/weixin_62280685/article/details/154211758)
+
