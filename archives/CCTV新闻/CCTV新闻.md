@@ -197,3 +197,9 @@
 
 + [携手构建亚太共同体——国际社会热切期待APEC“中国时间”](https://news.cctv.com/2025/11/01/ARTIcxNlbLENRdcNowfhfZFK251101.shtml)
 
++ [韩国专家：亚太各方应携手共建可持续未来](https://news.cctv.com/2025/11/01/ARTIChZsCrOTplTdMZAUhGEl251101.shtml)
+
++ [外媒热议APEC：中国提倡普惠包容，助力打造亚太可持续的未来](https://news.cctv.com/2025/11/01/ARTI0kDtob4X6ki4tDLPhUNw251101.shtml)
+
++ [为中美和世界经济注入更多确定性](https://news.cctv.com/2025/11/01/ARTIGU5RqQXx60RlSC5XB5r1251101.shtml)
+
