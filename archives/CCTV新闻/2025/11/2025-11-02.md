@@ -161,3 +161,13 @@
 
 + [美联储再次降息25个基点](https://news.cctv.com/2025/10/30/ARTIBbZedtvPeK7bUMzVGcfh251030.shtml)
 
++ [俄罗斯将驱逐2700名违法外国人](https://news.cctv.com/2025/11/02/ARTIFb4gBLeJENew65yeQFyD251102.shtml)
+
++ [涉嫌参与有组织团伙盗窃 一卢浮宫抢劫案嫌疑人被起诉](https://news.cctv.com/2025/11/02/ARTIZ3a5SJPK6DJZVRlydxWR251102.shtml)
+
++ [加沙大面积区域无法居住 急需重型设备与排爆专家](https://news.cctv.com/2025/11/02/ARTINq5jGzMLJdU84ngK2Q98251102.shtml)
+
++ [加沙地带卫生部门：以方移交巴人员遗体有遭虐待痕迹](https://news.cctv.com/2025/11/02/ARTIUNGTQuA6GqafPFMmkLlu251102.shtml)
+
++ [特立尼达和多巴哥延长全国 “公共紧急状态”三个月](https://news.cctv.com/2025/11/02/ARTIiNLig7BvwMgQLi1RWex0251102.shtml)
+
