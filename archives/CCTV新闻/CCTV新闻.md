@@ -175,3 +175,9 @@
 
 + [俄称击落6架飞往莫斯科无人机](https://news.cctv.com/2025/11/01/ARTIKi1pvGvm7bXUxPS9CDti251101.shtml)
 
++ [特朗普呼吁废除参议院“拖延战术”议事规则 遭共和党内部反对](https://news.cctv.com/2025/11/01/ARTI5bv4VgDeXsyyjZIJGxmz251101.shtml)
+
++ [美国白宫宣布限制记者进入新规定](https://news.cctv.com/2025/11/01/ARTIRHV48pnqVwuiUasKibIg251101.shtml)
+
++ [南非已为举办二十国集团领导人约堡峰会“做好准备”](https://news.cctv.com/2025/11/01/ARTIbvoMW3oiYBpr4vuzRz2D251101.shtml)
+

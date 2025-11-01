@@ -163,3 +163,11 @@
 
 + [房屋租赁|房屋出租|房屋租赁系统|基于Springboot的房屋租赁系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/154178024)
 
++ [“你的密码真的安全嘛？“](https://blog.csdn.net/Cyyyy_g/article/details/154218640)
+
++ [【未发表】黑翅鸢算法BKA优化集成学习的核极限学习机KELM-Adaboost风电数据预测【含Matlab源码 10581期】](https://blog.csdn.net/weixin_63266434/article/details/154112622)
+
++ [AI辅助数学建模有哪些优势？](https://blog.csdn.net/master_hunter/article/details/154066383)
+
++ [《静态库与动态库：从编译原理到实战调用，一篇文章讲透》](https://blog.csdn.net/Dovis5884/article/details/153516112)
+
