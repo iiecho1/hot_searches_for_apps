@@ -131,3 +131,5 @@
 
 + [主流数据分析工具全景对比：Excel / Python / R / Power BI / Tableau / Qlik / Snowflake](https://blog.csdn.net/Jessica_Shao/article/details/154144774)
 
++ [gateway配置自定义转发](https://blog.csdn.net/yesewubian000/article/details/154208667)
+
