@@ -31,3 +31,27 @@
 
 + [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
++ [get-convex/chef](https://github.com/get-convex/chef)
+
++ [suitenumerique/docs](https://github.com/suitenumerique/docs)
+
++ [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
++ [janhq/jan](https://github.com/janhq/jan)
+
++ [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+
++ [github/copilot-cli](https://github.com/github/copilot-cli)
+
++ [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+
++ [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)
+
++ [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
+
++ [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+
++ [ossu/computer-science](https://github.com/ossu/computer-science)
+

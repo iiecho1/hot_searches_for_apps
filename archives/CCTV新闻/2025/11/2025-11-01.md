@@ -203,3 +203,9 @@
 
 + [为中美和世界经济注入更多确定性](https://news.cctv.com/2025/11/01/ARTIGU5RqQXx60RlSC5XB5r1251101.shtml)
 
++ [政府“停摆”致空管人员严重短缺 全美约6000架次航班受影响](https://news.cctv.com/2025/11/01/ARTIoPNUhXl5c1NhLbUkmUPg251101.shtml)
+
++ [摩尔多瓦新政府宣誓就职](https://news.cctv.com/2025/11/01/ARTIdHrEQXfVvx0gMwlLPRM0251101.shtml)
+
++ [被盗风险“长期遭低估” 法国卢浮宫将配防入侵装置](https://news.cctv.com/2025/11/01/ARTIjMPs9nvj0TRW2dxEXIJD251101.shtml)
+
