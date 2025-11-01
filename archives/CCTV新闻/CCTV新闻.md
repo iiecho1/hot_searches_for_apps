@@ -171,3 +171,9 @@
 
 + [特立尼达和多巴哥延长全国 “公共紧急状态”三个月](https://news.cctv.com/2025/11/02/ARTIiNLig7BvwMgQLi1RWex0251102.shtml)
 
++ [馆藏文物超10万件 大埃及博物馆正式对外开放](https://news.cctv.com/2025/11/02/ARTIeKusDer7Me6uKYJzvYzY251102.shtml)
+
++ [可搭载“波塞冬”核动力无人潜航器 俄新一艘核潜艇出坞](https://news.cctv.com/2025/11/02/ARTINvvwqXzcNRtexX4SpMUX251102.shtml)
+
++ [德国法兰克福一购物中心传出巨响 疑似发生枪击事件](https://news.cctv.com/2025/11/02/ARTIyq0qCHonAw44LTt1fEov251102.shtml)
+
