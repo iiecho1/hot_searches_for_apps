@@ -219,3 +219,23 @@
 
 + [开源：面向低延时，点对点、远程音视频与信号控制的4G遥控车系统](https://blog.csdn.net/weixin_44124824/article/details/154139900)
 
++ [外卖骑手的Python转型指南：从送餐到编程的实战路径](https://blog.csdn.net/AI_5678/article/details/154214892)
+
++ [Flowable工作流引擎：核心表结构介绍](https://blog.csdn.net/qq_26664043/article/details/153580414)
+
++ [【花雕学编程】Arduino BLDC 之多传感器融合的A*避障](https://blog.csdn.net/weixin_41659040/article/details/154201165)
+
++ [ksycopg2实战：Python连接KingbaseES数据库的完整指南](https://blog.csdn.net/beautifulmemory/article/details/154146983)
+
++ [性能超越Transformer的Mamba到底是什么](https://blog.csdn.net/xian0710830114/article/details/154019658)
+
++ [C++ 三大函数神器：lambda、bind、function 实战详解](https://blog.csdn.net/2503_91101239/article/details/154243110)
+
++ [Win10开机自启动怎么设置？关闭开机启动6大方法](https://blog.csdn.net/qq_29508575/article/details/154198273)
+
++ [使用仓颉语言实现 nanoid：一个安全的唯一 ID 生成器](https://blog.csdn.net/shi_hong_fei_hei/article/details/154234215)
+
++ [ArkTS 第一课：从零开始学鸿蒙应用开发](https://blog.csdn.net/ailuloo/article/details/154183755)
+
++ [打造自己的 Claude Code：LangGraph + MCP 搭建一个极简的 AI 编码助手](https://blog.csdn.net/m0_46510245/article/details/154202073)
+
