@@ -63,3 +63,11 @@
 
 + [iPad Air M3 256G 版 5299 → 3599 元 12 期免息，京东自营再降价](https://m.ithome.com/html/893617.htm)
 
++ [全网 11.11 开门红仅限今日：AirPods 全国补贴回归，iPhone 17 Pro 系列换新立减 1000 元](https://m.ithome.com/html/893911.htm)
+
++ [小米车主受网络攻击援助进展：819 人提供证据，448 人获诉讼支持](https://m.ithome.com/html/893981.htm)
+
++ [央视曝光盗版影视 App：千万级资源藏身伪装文件，最终因服务器流量激增而暴露](https://m.ithome.com/html/893922.htm)
+
++ [极限精简！69MB 版 Win7 系统登场，但几乎无法运行任何程序](https://m.ithome.com/html/893991.htm)
+

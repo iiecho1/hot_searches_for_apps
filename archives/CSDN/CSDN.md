@@ -141,3 +141,17 @@
 
 + [Java交易所冷钱包签名失败：90%的开发者都忽略的3个关键点](https://blog.csdn.net/z_344791576/article/details/151674910)
 
++ [【成长纪实】HarmonyOS分布式软总线原理剖析：从理论到实践的完整指南](https://blog.csdn.net/Rqaqedamancy/article/details/154157005)
+
++ [深入解析 MybatisPlus 中实现一对多查询的方法：以食谱餐别与菜单详情为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/154208323)
+
++ [Python打造美观的桌面温馨提醒弹窗](https://blog.csdn.net/liupang14159/article/details/154091025)
+
++ [【源码+数据集+训练教程】基于YOLOv8+Flask+Layui的智能垃圾分类检测系统](https://blog.csdn.net/qq_42681787/article/details/154155838)
+
++ [【Linux】信号机制详解：进程间通信的核心](https://blog.csdn.net/2401_86326742/article/details/154172563)
+
++ [物联网蜂窝模组与流量管理：技术解析与应用指南](https://blog.csdn.net/AAAAA9240/article/details/154115670)
+
++ [【安全函数】sinh_s()、cosh_s()、tanh_s()实战](https://blog.csdn.net/weixin_37800531/article/details/154025522)
+
