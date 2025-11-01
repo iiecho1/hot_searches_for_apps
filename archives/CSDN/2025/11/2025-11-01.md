@@ -215,3 +215,7 @@
 
 + [YOLO python 实现多种物体识别（时钟，水杯，小熊，路人，车辆）](https://blog.csdn.net/2501_92729044/article/details/154215159)
 
++ [【Linux】自动化构建工具make和Makefile和第一个系统程序—进度条](https://blog.csdn.net/2301_79601095/article/details/154097900)
+
++ [开源：面向低延时，点对点、远程音视频与信号控制的4G遥控车系统](https://blog.csdn.net/weixin_44124824/article/details/154139900)
+
