@@ -41,3 +41,5 @@
 
 + [支付宝碰一下可以领 6 元](https://www.v2ex.com/t/1169699)
 
++ [下午 AL 能赢 T1 吗](https://www.v2ex.com/t/1169720)
+
