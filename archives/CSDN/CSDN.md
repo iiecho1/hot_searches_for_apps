@@ -105,3 +105,23 @@
 
 + [【技术选型】前端框架：Vue vs React - 组合式API与Hooks的哲学之争](https://blog.csdn.net/lonewolf521125/article/details/154187973)
 
++ [虚竹哥与机械工业出版社免费送AI书活动第十一期《MCP/A2A协议:多Agent系统全链路开发》](https://blog.csdn.net/shi_hong_fei_hei/article/details/154233581)
+
++ [吃透 Rust 迭代器：Iterator trait 核心方法 + 企业级日志处理案例](https://blog.csdn.net/atgfg/article/details/154143753)
+
++ [Python基于PyTorch实现多输入多输出进行BP神经网络回归预测项目实战](https://blog.csdn.net/weixin_42163563/article/details/154127299)
+
++ [【IO多路转接】深入解析 poll：从接口到服务器实现](https://blog.csdn.net/2401_87944878/article/details/151573151)
+
++ [Java 程序员的 Vue 指南 - Vue 万字速览（01）](https://blog.csdn.net/qwerdcds/article/details/154143076)
+
++ [Vue 数据绑定深入浅出：从 v-bind 到 v-model 的实战指南](https://blog.csdn.net/qq_40303030/article/details/153398417)
+
++ [小米铁蛋电机1代驱动开发](https://blog.csdn.net/qq_48211392/article/details/152609668)
+
++ [Web安全深度实战：从漏洞挖掘到安全防护](https://blog.csdn.net/2401_84466225/article/details/154125701)
+
++ [新能源硬件架构设计前沿：DFX思维如何平衡可靠性、成本与可维护性](https://blog.csdn.net/wisdom_19860320/article/details/154189813)
+
++ [《嵌入式硬件（十九）：基于IMX6ULL的SPI操作》](https://blog.csdn.net/weixin_72612809/article/details/154142711)
+

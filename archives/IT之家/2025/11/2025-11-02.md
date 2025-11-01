@@ -25,3 +25,27 @@
 
 + [市场认可度不够？消息称国内某厂轻薄 Air 手机项目已暂停，原定明年上半年上市](https://m.ithome.com/html/893907.htm)
 
++ [2025 年 10 月汽车销量 / 交付汇总：鸿蒙智行&#160;68216&#160;台创单月交付历史新高（实时更新）](https://m.ithome.com/html/894045.htm)
+
++ [王腾离开小米后新动向：想跟手机行业说声再见，11 月准备尝试新的赛道](https://m.ithome.com/html/894123.htm)
+
++ [为什么不买 iPhone Air？](https://m.ithome.com/html/894080.htm)
+
++ [成绩惨淡：消息称苹果 iPhone Air 首销周激活量 5 万 +](https://m.ithome.com/html/894013.htm)
+
++ [消息称某厂子系 9000mAh 电池 + 100W 闪充方案已搞定，预计为小米 REDMI Turbo 5 系列](https://m.ithome.com/html/894063.htm)
+
++ [低至 7599 元：苹果 iPhone Air 加入全国京东国补，覆盖 256G-1TB 机型](https://m.ithome.com/html/894040.htm)
+
++ [何小鹏谈和雷军竞争：如果将来只有 5 家车企，我更愿意是兄弟的公司](https://m.ithome.com/html/894056.htm)
+
++ [消息称小米汽车交付周期再次缩短，YU7 车型有望较原定提前 10 周](https://m.ithome.com/html/894084.htm)
+
++ [比亚迪：10 月汽车销量 441706 辆，创年内新高](https://m.ithome.com/html/894143.htm)
+
++ [小米 11.11 服务周开启：99 款手机电池换新 79.2 元起，家电清洁一口价 99 元](https://m.ithome.com/html/894066.htm)
+
++ [小米汽车 10 月交付量超过 40000 台](https://m.ithome.com/html/894051.htm)
+
++ [上市 1 年直降两千：荣耀 Magic 7 手机 16+512G 京东 3002 元，搭载骁龙 8 至尊](https://m.ithome.com/html/894137.htm)
+
