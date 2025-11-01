@@ -199,3 +199,11 @@
 
 + [U-net 系列算法总结](https://blog.csdn.net/2402_89793413/article/details/154188497)
 
++ [【JAVA全栈项目】弧图图-智能图床 SpringBoot+Vue3 ：[框架开荒：一文全步骤打通前后端项目全流程]](https://blog.csdn.net/weixin_45793745/article/details/154182796)
+
++ [Java 大视界 -- Java 大数据机器学习模型在遥感图像土地利用分类中的优化与应用](https://blog.csdn.net/atgfg/article/details/154203762)
+
++ [深入ASP.NET MVC 领域模型：从数据库表到代码世界的 “翻译官“](https://blog.csdn.net/William_cl/article/details/154210018)
+
++ [GitHub 热榜项目 - 日榜(2025-11-01)](https://blog.csdn.net/u014390502/article/details/154231926)
+
