@@ -167,3 +167,9 @@
 
 + [如何把ChatGPT嵌入到自己的应用中？](https://blog.csdn.net/xuebinding/article/details/154130260)
 
++ [选 Redis Stream 还是传统 MQ？队列选型全攻略（适用场景、优缺点与实践建议）](https://blog.csdn.net/weixin_62043600/article/details/154255670)
+
++ [【愚公系列】《MCP协议与AI Agent开发》006-MCP的基本原理（MCP概述）](https://blog.csdn.net/aa2528877987/article/details/154282363)
+
++ [LabVIEW工业零件尺寸测量](https://blog.csdn.net/bjcyck/article/details/154280217)
+

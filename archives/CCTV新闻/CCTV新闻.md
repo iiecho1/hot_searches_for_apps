@@ -205,3 +205,7 @@
 
 + [柏林：博物馆里的科学“校园”](https://news.cctv.com/2025/11/02/ARTI2nsDBc5zctxrg81WbOVP251102.shtml)
 
++ [美称再次打击加勒比地区“贩毒船” 3人死亡](https://news.cctv.com/2025/11/02/ARTISJr8uFNDkK8as8jVeZET251102.shtml)
+
++ [外媒关注庆州APEC会议：传递合作信息 应对未来挑战](https://news.cctv.com/2025/11/02/ARTIOdFKyqWH56IKzAndcZ4C251102.shtml)
+
