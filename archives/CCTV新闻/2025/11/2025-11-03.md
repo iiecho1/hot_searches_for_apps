@@ -173,3 +173,5 @@
 
 + [印度拉贾斯坦邦两车相撞 造成至少18人死亡](https://news.cctv.com/2025/11/03/ARTIRW3KrvyjdlZIayeQQUjo251103.shtml)
 
++ [墨西哥米却肯州发生枪击事件 当地一市长遇袭身亡](https://news.cctv.com/2025/11/03/ARTIFxeLdedm4JZpLBlwWj9a251103.shtml)
+
