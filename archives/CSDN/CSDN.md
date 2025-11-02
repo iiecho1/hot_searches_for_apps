@@ -155,3 +155,13 @@
 
 + [固态电池五大核心设备全解析](https://blog.csdn.net/weixin_38570076/article/details/154212620)
 
++ [TensorFlow深度学习实战——自定义图神经网络层](https://blog.csdn.net/LOVEmy134611/article/details/144707804)
+
++ [PostgreSQL 模式(SCHEMA)详解：数据库对象的命名空间管理](https://blog.csdn.net/qq_41840843/article/details/154277893)
+
++ [从局域网工具到全球传输：FastSend的无服务器共享革命](https://blog.csdn.net/bushibrnxiaohaij/article/details/154133405)
+
++ [【完整源码+数据集+部署教程】 工业缺陷图像分割系统源码＆数据集分享 [yolov8-seg-vanillanet＆yolov8-seg-dyhead-DCNV3等50+全套改进创新点发刊_一键训练](https://blog.csdn.net/weixin_43860634/article/details/154260879)
+
++ [Flowable工作流引擎：核心表结构介绍](https://blog.csdn.net/qq_26664043/article/details/153580414)
+
