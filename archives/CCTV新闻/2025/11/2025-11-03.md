@@ -167,3 +167,9 @@
 
 + [视频丨美移民执法人员“碰瓷”式抓人遭围堵](https://news.cctv.com/2025/11/03/ARTIo6948LWYsJBrOD9FzYQR251103.shtml)
 
++ [俄总统新闻秘书：不仓促组织“普特会”](https://news.cctv.com/2025/11/03/ARTIe28eenvKbIB4J8Gp7E6b251103.shtml)
+
++ [俄罗斯总理签署命令 终止与芬兰能源协议部分条款](https://news.cctv.com/2025/11/03/ARTIIllvelAKGLHemUrzMZSe251103.shtml)
+
++ [印度拉贾斯坦邦两车相撞 造成至少18人死亡](https://news.cctv.com/2025/11/03/ARTIRW3KrvyjdlZIayeQQUjo251103.shtml)
+

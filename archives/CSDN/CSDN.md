@@ -143,3 +143,7 @@
 
 + [PySide6集成yolo v8实现图片人物检测、视频人物检测以及摄像头人物检测](https://blog.csdn.net/yao_hou/article/details/154250277)
 
++ [2025年折叠屏手机性价比考量及代表性机型分析](https://blog.csdn.net/2401_83170154/article/details/154238213)
+
++ [Spring AI + DeepSeek：让数据库听懂人话查数据实战案例](https://blog.csdn.net/l1028386804/article/details/154322499)
+
