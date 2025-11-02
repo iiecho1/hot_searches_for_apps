@@ -209,3 +209,11 @@
 
 + [外媒关注庆州APEC会议：传递合作信息 应对未来挑战](https://news.cctv.com/2025/11/02/ARTIOdFKyqWH56IKzAndcZ4C251102.shtml)
 
++ [拉美观察丨美国对委极限施压“破坏地区和平”](https://news.cctv.com/2025/11/02/ARTICjHAbtWHxwjlMEHlw6b6251102.shtml)
+
++ [英国火车袭击事件致数人重伤 反恐警察介入调查](https://news.cctv.com/2025/11/02/ARTITTDteGYIfB5DII9OVJ52251102.shtml)
+
++ [中美就扩大农产品贸易达成共识 美国豆农如释重负](https://news.cctv.com/2025/11/02/ARTIr1Zp8hxY2ZjVcoA6Gs0f251102.shtml)
+
++ [美国会议员要求英国王之弟安德鲁“自证清白”](https://news.cctv.com/2025/11/02/ARTIxl351a0g8pAkztksyFg7251102.shtml)
+
