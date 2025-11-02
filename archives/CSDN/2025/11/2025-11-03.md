@@ -147,3 +147,5 @@
 
 + [Spring AI + DeepSeek：让数据库听懂人话查数据实战案例](https://blog.csdn.net/l1028386804/article/details/154322499)
 
++ [仓颉三方库开发实战：身份证解析库 idcard 的设计与实现](https://blog.csdn.net/feng8403000/article/details/154193722)
+
