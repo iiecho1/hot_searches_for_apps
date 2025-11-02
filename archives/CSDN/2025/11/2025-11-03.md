@@ -133,3 +133,11 @@
 
 + [用Python来学微积分23-微分中值定理](https://blog.csdn.net/weixin_38291577/article/details/154183307)
 
++ [在 Elasticsearch 中使用 Mistral Chat completions 进行上下文工程](https://blog.csdn.net/UbuntuTouch/article/details/154170474)
+
++ [内网穿透方案-nps](https://blog.csdn.net/u012902367/article/details/154253513)
+
++ [分布式文件存储服务设计与实现优化](https://blog.csdn.net/zrt123456i/article/details/154315759)
+
++ [基于AS32A601型MCU芯片的屏幕驱动IC方案的技术研究](https://blog.csdn.net/ANSILIC/article/details/154186936)
+

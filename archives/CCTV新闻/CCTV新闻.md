@@ -161,3 +161,9 @@
 
 + [第一观察｜“大船”之喻饱含深意](https://news.cctv.com/2025/10/31/ARTIQOUzCPAsqErASGQsaAby251031.shtml)
 
++ [泽连斯基称德国已向乌交付“爱国者”防空导弹系统](https://news.cctv.com/2025/11/03/ARTI4CSGNmcJpffz31XLsSn5251103.shtml)
+
++ [卢浮宫抢劫案嫌疑人多为惯犯 两人曾共同犯案](https://news.cctv.com/2025/11/03/ARTIeil9D22jaAaVpKhVe021251103.shtml)
+
++ [视频丨美移民执法人员“碰瓷”式抓人遭围堵](https://news.cctv.com/2025/11/03/ARTIo6948LWYsJBrOD9FzYQR251103.shtml)
+
