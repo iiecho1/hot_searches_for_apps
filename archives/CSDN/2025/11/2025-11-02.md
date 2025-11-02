@@ -203,3 +203,5 @@
 
 + [从零打造 Telegram 中文生态：界面汉化 + 中文Bot + @letstgbot 搜索引擎整合实战](https://blog.csdn.net/2501_92964550/article/details/154176184)
 
++ [【自然语言处理】生成式语言模型GPT复现详细技术方案](https://blog.csdn.net/2401_84149564/article/details/154282274)
+
