@@ -183,3 +183,7 @@
 
 + [未来之窗昭和仙君(四十八)开发商品进销存修仙版——东方仙盟筑基期](https://blog.csdn.net/cybersnow/article/details/154206421)
 
++ [【Docker】P5 Docker Compose 实战指南：一键部署 WordPress + MySQL](https://blog.csdn.net/weixin_43098506/article/details/154231412)
+
++ [2025年10月个人工作生活总结](https://blog.csdn.net/subfate/article/details/154201414)
+

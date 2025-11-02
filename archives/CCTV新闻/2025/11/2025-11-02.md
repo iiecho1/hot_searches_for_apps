@@ -217,3 +217,11 @@
 
 + [美国会议员要求英国王之弟安德鲁“自证清白”](https://news.cctv.com/2025/11/02/ARTIxl351a0g8pAkztksyFg7251102.shtml)
 
++ [美国粮食券发放危机持续 政府停摆殃及4200万人餐桌](https://news.cctv.com/2025/11/02/ARTINiAZ26RC27w9BkgJ5fcP251102.shtml)
+
++ [跨国企业高管谈进博会：为世界带来巨大机遇](https://news.cctv.com/2025/11/02/ARTI5JxygIjuHoQIhY6onw5i251102.shtml)
+
++ [立足APEC，六大维度梳理中国如何成为亚太增长引擎](https://news.cctv.com/2025/11/02/ARTIBvgRhOeDVXfl5hG9IShp251102.shtml)
+
++ [伊朗总统：伊朗将重建核设施 但不寻求制造核武器](https://news.cctv.com/2025/11/02/ARTIFhp5ywMHgzhOxiTgQhGm251102.shtml)
+

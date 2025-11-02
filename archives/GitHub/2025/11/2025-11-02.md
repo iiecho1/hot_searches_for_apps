@@ -31,3 +31,25 @@
 
 + [ossu/computer-science](https://github.com/ossu/computer-science)
 
++ [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
+
++ [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+
++ [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
+
++ [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+
++ [sst/opencode](https://github.com/sst/opencode)
+
++ [charmbracelet/glow](https://github.com/charmbracelet/glow)
+
++ [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+
++ [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)
+
++ [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
+
++ [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
++ [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+
