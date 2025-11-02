@@ -201,3 +201,7 @@
 
 + [马尔代夫实施“世代禁烟令” 外国游客也需遵守](https://news.cctv.com/2025/11/02/ARTILL8qYZ9oecAhFWnbI7rr251102.shtml)
 
++ [美国哈佛大学医学院发生爆炸 警方公布嫌疑人图像](https://news.cctv.com/2025/11/02/ARTIGbdumnE5XYTcXNBHyRJc251102.shtml)
+
++ [柏林：博物馆里的科学“校园”](https://news.cctv.com/2025/11/02/ARTI2nsDBc5zctxrg81WbOVP251102.shtml)
+

@@ -165,3 +165,5 @@
 
 + [Flowable工作流引擎：核心表结构介绍](https://blog.csdn.net/qq_26664043/article/details/153580414)
 
++ [如何把ChatGPT嵌入到自己的应用中？](https://blog.csdn.net/xuebinding/article/details/154130260)
+

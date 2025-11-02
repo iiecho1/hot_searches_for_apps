@@ -85,3 +85,5 @@
 
 + [自制东北熏酱熟食来了，想吃的来直播间吧](https://m.acfun.cn/v/?ac=47970477)
 
++ [【绝望女神/万圣节翻唱】【万圣节快乐 Happy Halloween】](https://m.acfun.cn/v/?ac=47969973)
+
