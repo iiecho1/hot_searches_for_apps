@@ -141,3 +141,5 @@
 
 + [基于AS32A601型MCU芯片的屏幕驱动IC方案的技术研究](https://blog.csdn.net/ANSILIC/article/details/154186936)
 
++ [PySide6集成yolo v8实现图片人物检测、视频人物检测以及摄像头人物检测](https://blog.csdn.net/yao_hou/article/details/154250277)
+
