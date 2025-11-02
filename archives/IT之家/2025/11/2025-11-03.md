@@ -25,3 +25,27 @@
 
 + [平台补贴再降价：苹果 iPhone 17 Pro 手机 8489 元 11.11 天猫新低](https://m.ithome.com/html/894310.htm)
 
++ [2025 年 10 月汽车销量 / 交付汇总：鸿蒙智行&#160;68216&#160;台创单月交付历史新高（实时更新）](https://m.ithome.com/html/894045.htm)
+
++ [王腾离开小米后新动向：想跟手机行业说声再见，11 月准备尝试新的赛道](https://m.ithome.com/html/894123.htm)
+
++ [为什么不买 iPhone Air？](https://m.ithome.com/html/894080.htm)
+
++ [消息称某厂子系 9000mAh 电池 + 100W 闪充方案已搞定，预计为小米 REDMI Turbo 5 系列](https://m.ithome.com/html/894063.htm)
+
++ [何小鹏谈和雷军竞争：如果将来只有 5 家车企，我更愿意是兄弟的公司](https://m.ithome.com/html/894056.htm)
+
++ [比亚迪：10 月汽车销量 441706 辆，创年内新高](https://m.ithome.com/html/894143.htm)
+
++ [消息称小米汽车交付周期再次缩短，YU7 车型有望较原定提前 10 周](https://m.ithome.com/html/894084.htm)
+
++ [小米 11.11 服务周开启：99 款手机电池换新 79.2 元起，家电清洁一口价 99 元](https://m.ithome.com/html/894066.htm)
+
++ [上市 1 年直降两千：荣耀 Magic 7 手机 16+512G 京东 3002 元，搭载骁龙 8 至尊](https://m.ithome.com/html/894137.htm)
+
++ [小米汽车 10 月交付量超过 40000 台](https://m.ithome.com/html/894051.htm)
+
++ [小米双 11 战报：截至 10 月 31 日 23:59，11.11 全渠道累计支付金额破 182 亿元](https://m.ithome.com/html/894049.htm)
+
++ [段永平向江西水利电力大学捐赠市值 1500 万元贵州茅台股票](https://m.ithome.com/html/894106.htm)
+

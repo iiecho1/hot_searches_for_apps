@@ -101,3 +101,19 @@
 
 + [【网络】小白能懂的 HTTP：核心概念解析](https://blog.csdn.net/qq_64597821/article/details/153921189)
 
++ [【Qt开发】布局管理器（二）-＞ QHBoxLayout水平布局](https://blog.csdn.net/weixin_74809706/article/details/154068506)
+
++ [Spring AI Alibaba 框架使用示例总体介绍](https://blog.csdn.net/rengang66/article/details/154242180)
+
++ [拆解ASP.NET MVC 视图模型：为 View 量身定制的 “数据小票“](https://blog.csdn.net/William_cl/article/details/154212630)
+
++ [Linux : 进程概念](https://blog.csdn.net/Z1768508165/article/details/152371327)
+
++ [货拉拉用户画像基于 Apache Doris 的数据模型设计与实践](https://blog.csdn.net/SelectDB_Fly/article/details/154196522)
+
++ [PWA渐进式Web应用简洁开发指南](https://blog.csdn.net/qq_46123200/article/details/154284725)
+
++ [AVB(Android Verified Boot)中vbmeta结构浅析](https://blog.csdn.net/2509_93873983/article/details/154218423)
+
++ [俄罗斯全面禁止汽油出口对俄、欧、中能源市场的多维影响分析](https://blog.csdn.net/dafenqi_science/article/details/154260435)
+
