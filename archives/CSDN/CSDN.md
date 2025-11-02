@@ -133,3 +133,9 @@
 
 + [gateway配置自定义转发](https://blog.csdn.net/yesewubian000/article/details/154208667)
 
++ [Java 大视界 -- Java 大数据在智能家居能源消耗模式分析与节能策略制定中的应用](https://blog.csdn.net/atgfg/article/details/154203543)
+
++ [农产品销售系统|农产品电商|基于SprinBoot+vue的农产品销售系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154240564)
+
++ [AOI在人形机器人制造领域的应用](https://blog.csdn.net/xianzuzhicai/article/details/154260576)
+

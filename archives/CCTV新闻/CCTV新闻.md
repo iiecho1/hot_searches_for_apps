@@ -181,3 +181,9 @@
 
 + [达成停火22天内 仅有商定数量24%的卡车进入加沙](https://news.cctv.com/2025/11/02/ARTI2isqXjIUFQJKf7hBiUDL251102.shtml)
 
++ [哈马斯向土耳其递交备忘录 内容涉及以方违反停火协议](https://news.cctv.com/2025/11/02/ARTI0pyZAo0qGItkpyaObHbN251102.shtml)
+
++ [德国法兰克福购物中心巨响疑似因燃放烟花引发](https://news.cctv.com/2025/11/02/ARTIqCfhwcMSJI5W7xisl8Yc251102.shtml)
+
++ [英国一火车发生持刀行凶事件 已有2人被捕](https://news.cctv.com/2025/11/02/ARTITrPecDUtTSGuEwQ1Iv6g251102.shtml)
+
