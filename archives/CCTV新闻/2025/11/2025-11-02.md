@@ -225,3 +225,5 @@
 
 + [伊朗总统：伊朗将重建核设施 但不寻求制造核武器](https://news.cctv.com/2025/11/02/ARTIFhp5ywMHgzhOxiTgQhGm251102.shtml)
 
++ [“停摆”危机逼近“临界点” 吃饭和看病问题沦为美党争筹码](https://news.cctv.com/2025/11/02/ARTIvC9owDTnNRbCjt80ZoCj251102.shtml)
+

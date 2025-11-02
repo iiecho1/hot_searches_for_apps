@@ -187,3 +187,13 @@
 
 + [2025年10月个人工作生活总结](https://blog.csdn.net/subfate/article/details/154201414)
 
++ [论文精读（七）：结合大语言模型和领域知识库的证券规则规约方法](https://blog.csdn.net/Pocker_Spades_A/article/details/154214786)
+
++ [【网络】小白能懂的 HTTP：核心概念解析](https://blog.csdn.net/qq_64597821/article/details/153921189)
+
++ [Verilog和FPGA的自学笔记9——呼吸灯](https://blog.csdn.net/bnsarocket/article/details/154231024)
+
++ [docker部署harbor私有镜像仓库-写给某个笨蛋的教程](https://blog.csdn.net/mxm553/article/details/154234002)
+
++ [俄罗斯全面禁止汽油出口对俄、欧、中能源市场的多维影响分析](https://blog.csdn.net/dafenqi_science/article/details/154260435)
+
