@@ -175,3 +175,9 @@
 
 + [打造属于你的 Telegram 中文版：汉化方案 + @letstgbot 搜索引擎整合教程](https://blog.csdn.net/2501_92964550/article/details/154130250)
 
++ [【AI智能体】Docker 部署 Coze应用服务实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/153271688)
+
++ [【花雕动手做】CanMV K230 AI视觉识别模块之使用draw_cross()方法绘制十字准心](https://blog.csdn.net/weixin_41659040/article/details/154202774)
+
++ [日志系统的介绍及前置技术](https://blog.csdn.net/2302_80310672/article/details/154084823)
+
