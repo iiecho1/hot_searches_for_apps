@@ -21,3 +21,5 @@
 
 + [重新把 2.4g 和 5g 合成一个 ssid 了](https://www.v2ex.com/t/1169998)
 
++ [今天碰到的咸鱼乐子](https://www.v2ex.com/t/1170003)
+
