@@ -139,3 +139,7 @@
 
 + [AOI在人形机器人制造领域的应用](https://blog.csdn.net/xianzuzhicai/article/details/154260576)
 
++ [软件开发模式架构选择](https://blog.csdn.net/qq_24992377/article/details/154201608)
+
++ [计算机网络：Socket编程预备](https://blog.csdn.net/2405_82488515/article/details/154119566)
+

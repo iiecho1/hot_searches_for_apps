@@ -187,3 +187,11 @@
 
 + [英国一火车发生持刀行凶事件 已有2人被捕](https://news.cctv.com/2025/11/02/ARTITrPecDUtTSGuEwQ1Iv6g251102.shtml)
 
++ [俄罗斯对乌克兰总理及财长等多名官员实施制裁](https://news.cctv.com/2025/11/02/ARTIMqL9ikMViqBs6wtwZdqn251102.shtml)
+
++ [还有3天追平最长纪录 美政府“停摆”仍在持续](https://news.cctv.com/2025/11/02/ARTIWDLpEaENLdP41YUVCZHx251102.shtml)
+
++ [俄外交部发言人：向乌提供“战斧”导弹无助于解决冲突](https://news.cctv.com/2025/11/02/ARTIP9C9Ufz3YYmr1ylJLCVB251102.shtml)
+
++ [英国火车持刀行凶事件致大量列车停运](https://news.cctv.com/2025/11/02/ARTIqP0fZkXLtYPPsIbmVwoq251102.shtml)
+
