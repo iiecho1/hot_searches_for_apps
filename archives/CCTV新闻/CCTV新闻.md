@@ -195,3 +195,9 @@
 
 + [英国火车持刀行凶事件致大量列车停运](https://news.cctv.com/2025/11/02/ARTIqP0fZkXLtYPPsIbmVwoq251102.shtml)
 
++ [供暖补助停发、救济项目暂停 美国政府“停摆”致民生问题凸显](https://news.cctv.com/2025/11/02/ARTIg7PCn19liCHu9tBDlJVf251102.shtml)
+
++ [美法院下令政府限期提交食品援助金支付计划](https://news.cctv.com/2025/11/02/ARTI30c5KcqG87WoJe0ax2O6251102.shtml)
+
++ [马尔代夫实施“世代禁烟令” 外国游客也需遵守](https://news.cctv.com/2025/11/02/ARTILL8qYZ9oecAhFWnbI7rr251102.shtml)
+

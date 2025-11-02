@@ -61,3 +61,15 @@
 
 + [2025 年 10 月汽车销量 / 交付汇总：比亚迪 441706 台、蔚来单月首破 4 万台（实时更新）](https://m.ithome.com/html/894045.htm)
 
++ [消息称华为的 3D 人脸识别和侧边指纹都是自研算法，不用公版方案](https://m.ithome.com/html/894196.htm)
+
++ [马斯克回怼奥尔特曼“特斯拉 Roadster 跑车退订金失败”：24 小时内就退给你了怎么不提？](https://m.ithome.com/html/894188.htm)
+
++ [段永平向江西水利电力大学捐赠市值 1500 万元贵州茅台股票](https://m.ithome.com/html/894106.htm)
+
++ [全新宝马 M3 旅行版上市：94.39 万元，530 马力 3.0T 双涡轮“六缸机皇”加持](https://m.ithome.com/html/894171.htm)
+
++ [硅谷今夜学中文！Cursor 被曝「套壳」国产，AI 顶级人才全是华人](https://m.ithome.com/html/894133.htm)
+
++ [百度文小言（原文心一言）5.0 版本再次更名为“文心”，升级魔法漫画、全形式 AI 搜索等功能](https://m.ithome.com/html/894189.htm)
+

@@ -143,3 +143,15 @@
 
 + [计算机网络：Socket编程预备](https://blog.csdn.net/2405_82488515/article/details/154119566)
 
++ [ksycopg2实战：Python连接KingbaseES数据库的完整指南](https://blog.csdn.net/beautifulmemory/article/details/154146983)
+
++ [3个工具，1个原则：MyBatis如何做到“零SQL冗余“？](https://blog.csdn.net/z_344791576/article/details/151677015)
+
++ [Langchain4j 实战 【AI代码生成平台】：接入deepseek，开发AI服务并实现结构化输出](https://blog.csdn.net/Muyu1uz/article/details/154238082)
+
++ [【愚公系列】《MCP协议与AI Agent开发》004-大模型原理及MCP开发基础（LLM 在应用中的典型接口模式）](https://blog.csdn.net/aa2528877987/article/details/154262662)
+
++ [深度学习参数优化](https://blog.csdn.net/2302_81416402/article/details/154202637)
+
++ [固态电池五大核心设备全解析](https://blog.csdn.net/weixin_38570076/article/details/154212620)
+
