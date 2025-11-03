@@ -207,3 +207,7 @@
 
 + [以方确认哈马斯移交的三具被扣押人员遗体身份](https://news.cctv.com/2025/11/03/ARTIOoTBZyxDgSnNZE2HDfOc251103.shtml)
 
++ [英国王之弟安德鲁仅剩的荣誉军衔将被剥夺](https://news.cctv.com/2025/11/03/ARTIwdDgr5SXO1h15abvwuVY251103.shtml)
+
++ [堪察加东岸远海发生6.3级地震，震源深度20千米](https://news.cctv.com/2025/11/03/ARTIyRrGmgJza7p1lmGuVa4K251103.shtml)
+
