@@ -175,3 +175,7 @@
 
 + [墨西哥米却肯州发生枪击事件 当地一市长遇袭身亡](https://news.cctv.com/2025/11/03/ARTIFxeLdedm4JZpLBlwWj9a251103.shtml)
 
++ [新华时评｜接棒APEC2026 领航亚太合作新征程](https://news.cctv.com/2025/11/03/ARTIWctVAETPshBmm0exvVyF251103.shtml)
+
++ [中国公民持有效澳大利亚签证今起可免签入境新西兰](https://news.cctv.com/2025/11/03/ARTIBbeQM5o6AtrInki6WZ0r251103.shtml)
+
