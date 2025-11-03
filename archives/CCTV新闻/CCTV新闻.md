@@ -211,3 +211,9 @@
 
 + [堪察加东岸远海发生6.3级地震，震源深度20千米](https://news.cctv.com/2025/11/03/ARTIyRrGmgJza7p1lmGuVa4K251103.shtml)
 
++ [记者手记丨在延伸向未来的铁轨上](https://news.cctv.com/2025/11/03/ARTILazhCGrURbkiuea32x6C251103.shtml)
+
++ [国际社会热议“十五五”规划建议 埃及学者：中国为不确定的世界经济注入确定性](https://news.cctv.com/2025/11/03/ARTI1TXzUNESnvRDIbjEx1UY251103.shtml)
+
++ [引航亚太开放合作 展现大国责任担当——国际人士高度评价习近平主席在亚太经合组织会议期间提出的重大主张](https://news.cctv.com/2025/11/03/ARTIjqOwflhlvkLi3jpng7xR251103.shtml)
+

@@ -51,3 +51,5 @@
 
 + [疑似被盒马 APP 拉黑了](https://www.v2ex.com/t/1170178)
 
++ [2025 年了， select *是否仍然禁止使用？](https://www.v2ex.com/t/1170138)
+
