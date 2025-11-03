@@ -183,3 +183,7 @@
 
 + [【完整源码+数据集+部署教程】 室内外场景物体分割系统源码＆数据集分享 [yolov8-seg-C2f-EMBC＆yolov8-seg-efficientViT等50+全套改进创新点发刊_一键训练教](https://blog.csdn.net/weixin_43860634/article/details/154314827)
 
++ [用Python来学微积分28-泰勒公式](https://blog.csdn.net/weixin_38291577/article/details/154335303)
+
++ [ProtoBuf语法揭秘：探秘编译魔法与性能优化策略，解锁多层级选项配置的底层奥秘](https://blog.csdn.net/2401_82648291/article/details/151953171)
+
