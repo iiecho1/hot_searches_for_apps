@@ -137,3 +137,5 @@
 
 + [智能体落地没方向？ModelEngine 全流程指南：从知识库生成到部署调试](https://blog.csdn.net/qq_41187124/article/details/154229491)
 
++ [从零到一：用MiniMax写一个基于MiniMax API构建企业级智能对话助手](https://blog.csdn.net/Liudef06/article/details/154127107)
+

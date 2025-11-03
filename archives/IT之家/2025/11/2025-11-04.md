@@ -51,3 +51,11 @@
 
 + [国产 AI App，我觉得这个好](https://m.ithome.com/html/894592.htm)
 
++ [华为 HarmonyOS 6.0 预计 12 月支持苹果 iOS 互传文件功能，iPhone、iPad、Mac 需下载“鸿蒙星河互联”App](https://m.ithome.com/html/894353.htm)
+
++ [平台补贴再降价：苹果 iPhone 17 Pro 手机 8489 元 11.11 天猫新低](https://m.ithome.com/html/894310.htm)
+
++ [研究显示人眼最高可辨像素 94 ppd，多数情况下 8K 显示器的提升感知不强](https://m.ithome.com/html/894336.htm)
+
++ [英伟达疯狂一周：市值暴增 2.8 万亿，黄仁勋出尽风头](https://m.ithome.com/html/894355.htm)
+
