@@ -161,3 +161,11 @@
 
 + [特朗普呼吁废除参议院“拖延战术”议事规则 遭共和党内部反对](https://news.cctv.com/2025/11/01/ARTI5bv4VgDeXsyyjZIJGxmz251101.shtml)
 
++ [冯德莱恩：欧盟将向乌克兰提供紧急能源援助](https://news.cctv.com/2025/11/04/ARTITe2bEAg407WXrbsodsKt251104.shtml)
+
++ [英国西北部列车脱轨事故致相关线路交通中断](https://news.cctv.com/2025/11/04/ARTIHFoOMkVzFtcfohfqWJ4i251104.shtml)
+
++ [美农业部将动用应急资金 部分支付食品援助福利金](https://news.cctv.com/2025/11/04/ARTIFogwrSuJr2wG9IwdhGoh251104.shtml)
+
++ [联合国：苏丹超2100万人处于严重粮食不安全状态](https://news.cctv.com/2025/11/04/ARTICVoY2FTRFlyJVxKFINwJ251104.shtml)
+
