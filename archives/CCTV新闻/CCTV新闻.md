@@ -191,3 +191,5 @@
 
 + [开放中国为世界经济提供“稳定锚”（和音）](https://news.cctv.com/2025/11/03/ARTIzJrqVC75nR1D0pnUSYNx251103.shtml)
 
++ [批准公开虐囚视频的以军检察官被捕](https://news.cctv.com/2025/11/03/ARTIDPegck4OLUAAShyaDLo0251103.shtml)
+

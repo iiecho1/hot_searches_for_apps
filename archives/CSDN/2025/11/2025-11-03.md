@@ -165,3 +165,15 @@
 
 + [基于 Verl 前端与 Atlas A3 集群的 DeepSeek-R1 模型 RL 训练优化实践：Cann-recipes-train 仓库技术深度解读](https://blog.csdn.net/weixin_62765017/article/details/154214233)
 
++ [OpenAI首个GPT-5找Bug智能体：全自动读代码找漏洞写修复](https://blog.csdn.net/techforward/article/details/154186243)
+
++ [【超音速专利 CN118134841A】一种光伏产品缺陷检测AI深度学习算法](https://blog.csdn.net/he_zhidan/article/details/154291395)
+
++ [【愚公系列】《MCP协议与AI Agent开发》007-MCP的基本原理（MCP上下文结构与层级划分）](https://blog.csdn.net/aa2528877987/article/details/154321359)
+
++ [matlab设计滤波器详解](https://blog.csdn.net/m0_69500424/article/details/154140303)
+
++ [从10分钟到1秒：MyBatis到EF Core的“闪电战“](https://blog.csdn.net/z_344791576/article/details/151686246)
+
++ [HTML CSS八股](https://blog.csdn.net/k_5412528/article/details/154176564)
+
