@@ -149,3 +149,7 @@
 
 + [仓颉三方库开发实战：身份证解析库 idcard 的设计与实现](https://blog.csdn.net/feng8403000/article/details/154193722)
 
++ [TypeScript 与 ArkTS 全面对比：鸿蒙生态下的语言演进](https://blog.csdn.net/csdn_silent/article/details/154112862)
+
++ [计算机网络经典问题透视：当路由器需要同时连接以太网和ATM网络时，需要添加什么硬件？](https://blog.csdn.net/qq_74326393/article/details/154254995)
+
