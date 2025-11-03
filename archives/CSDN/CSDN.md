@@ -241,3 +241,13 @@
 
 + [2025数证杯wp](https://blog.csdn.net/xcellencw/article/details/154254103)
 
++ [Multi-Stride Predictive RNG：革命性的可控随机数生成算法](https://blog.csdn.net/weixin_56334307/article/details/154358990)
+
++ [KingbaseES数据库：从 MySQL 到金仓数据库，权限隔离与安全增强的进阶之路](https://blog.csdn.net/weixin_43151418/article/details/154349382)
+
++ [从权限混沌到安全有序：金仓数据库的权限隔离如何超越MySQL](https://blog.csdn.net/weixin_44976692/article/details/154353579)
+
++ [基于YOLOv8/v10/v11/v12与SpringBoot的前后端分离杂草识别检测系统（DeepSeek智能分析+web交互界面）](https://blog.csdn.net/m0_68036862/article/details/154335159)
+
++ [.NET周刊【10月第3期 2025-10-19】](https://blog.csdn.net/qq_27441069/article/details/154288084)
+

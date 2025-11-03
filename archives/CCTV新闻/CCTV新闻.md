@@ -217,3 +217,5 @@
 
 + [引航亚太开放合作 展现大国责任担当——国际人士高度评价习近平主席在亚太经合组织会议期间提出的重大主张](https://news.cctv.com/2025/11/03/ARTIjqOwflhlvkLi3jpng7xR251103.shtml)
 
++ [中国驻马尔代夫使馆提醒来马中国游客注意涉水安全](https://news.cctv.com/2025/11/03/ARTIbxiJ1uFcgd1bRIyeXFHw251103.shtml)
+
