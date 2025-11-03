@@ -199,3 +199,11 @@
 
 + [记者观察：美国“出兵”拉美的四大疑问](https://news.cctv.com/2025/11/03/ARTIQeXmbUqDDyw2Fva4bPax251103.shtml)
 
++ [英国西北部一列车脱轨 当地进入“重大事故”应急状态](https://news.cctv.com/2025/11/03/ARTIbUILdyFl4ciyjSRsAlRf251103.shtml)
+
++ [阿富汗北部发生6.3级地震已致约200人死伤](https://news.cctv.com/2025/11/03/ARTIdCUEEw8L5GcWqwrttyp0251103.shtml)
+
++ [特朗普下令重启核试验 美官员称暂不含核爆炸](https://news.cctv.com/2025/11/03/ARTIEuORPw64jYjBTjZfBZtp251103.shtml)
+
++ [以方确认哈马斯移交的三具被扣押人员遗体身份](https://news.cctv.com/2025/11/03/ARTIOoTBZyxDgSnNZE2HDfOc251103.shtml)
+

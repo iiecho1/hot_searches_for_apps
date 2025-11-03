@@ -205,3 +205,11 @@
 
 + [计算机操作系统：用户层的I/O软件](https://blog.csdn.net/m0_62617719/article/details/153686003)
 
++ [用 Flink CDC 将 MySQL 实时同步到 StarRocks](https://blog.csdn.net/weixin_43114209/article/details/154299646)
+
++ [前端没有3D知识，如何写一个性能不差的3D看房功能](https://blog.csdn.net/weixin_63443072/article/details/154189727)
+
++ [2025数证杯](https://blog.csdn.net/xcellencw/article/details/154254103)
+
++ [安路FPGA_LED闪烁](https://blog.csdn.net/xing414736597/article/details/154239028)
+
