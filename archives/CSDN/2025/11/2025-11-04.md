@@ -135,3 +135,5 @@
 
 + [⽬前 主流的开源模型体系 有哪些？](https://blog.csdn.net/weixin_48502062/article/details/154237839)
 
++ [智能体落地没方向？ModelEngine 全流程指南：从知识库生成到部署调试](https://blog.csdn.net/qq_41187124/article/details/154229491)
+

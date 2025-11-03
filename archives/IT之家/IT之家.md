@@ -49,3 +49,5 @@
 
 + [段永平回应捐赠市值 1500 万元茅台股票：他们每年花分红就好，市值只是暂时的](https://m.ithome.com/html/894222.htm)
 
++ [国产 AI App，我觉得这个好](https://m.ithome.com/html/894592.htm)
+
