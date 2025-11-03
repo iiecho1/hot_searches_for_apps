@@ -201,3 +201,7 @@
 
 + [微信小程序开发案例 | 音乐播放器小程序（下）](https://blog.csdn.net/qq_41640218/article/details/154339755)
 
++ [【启发式算法】灰狼优化算法（Grey Wolf Optimizer, GWO）详细介绍（Python）](https://blog.csdn.net/qq_51399582/article/details/154117956)
+
++ [计算机操作系统：用户层的I/O软件](https://blog.csdn.net/m0_62617719/article/details/153686003)
+

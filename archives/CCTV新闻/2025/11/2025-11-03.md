@@ -195,3 +195,7 @@
 
 + [第一观察丨携手推动中韩战略合作伙伴关系行稳致远](https://news.cctv.com/2025/11/03/ARTIiwOI00A3e4PyNP8gmmFn251103.shtml)
 
++ [亚投行宣布计划在香港设立办事处](https://jingji.cctv.com/2025/11/03/ARTIz7FPGciQ0iXMW9Ie4UCw251103.shtml)
+
++ [记者观察：美国“出兵”拉美的四大疑问](https://news.cctv.com/2025/11/03/ARTIQeXmbUqDDyw2Fva4bPax251103.shtml)
+

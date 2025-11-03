@@ -43,3 +43,7 @@
 
 + [小红书的实名认证真牛逼。](https://www.v2ex.com/t/1170063)
 
++ [脑残设计，只要将 bilibili 特定用户拉黑， B 站就不会有广告了](https://www.v2ex.com/t/1170167)
+
++ [大家开发都用什么电脑](https://www.v2ex.com/t/1170131)
+
