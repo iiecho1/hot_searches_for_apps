@@ -27,3 +27,21 @@
 
 + [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
++ [get-convex/chef](https://github.com/get-convex/chef)
+
++ [pytorch/pytorch](https://github.com/pytorch/pytorch)
+
++ [mudler/LocalAI](https://github.com/mudler/LocalAI)
+
++ [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)
+
++ [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+
++ [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+
++ [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [sst/opentui](https://github.com/sst/opentui)
+
++ [DearVa/Everywhere](https://github.com/DearVa/Everywhere)
+
