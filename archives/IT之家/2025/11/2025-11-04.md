@@ -25,3 +25,27 @@
 
 + [只有半个女生手掌大小：酷态科 10 号超级电能棒 Mini 京东 159 → 110 元无需国补新低](https://m.ithome.com/html/894500.htm)
 
++ [广州地铁回应“乘车码”跳转广告：不是每个人都不喜欢看广告](https://m.ithome.com/html/894343.htm)
+
++ [消息称华为的 3D 人脸识别和侧边指纹都是自研算法，不用公版方案](https://m.ithome.com/html/894196.htm)
+
++ [理想汽车汤靖详解“MEGA 2024 款起火事件”：事故发生前 4 个多小时，云端就报了电池绝缘故障并联系司机](https://m.ithome.com/html/894234.htm)
+
++ [小米 REDMI 产品经理笋寸：RGB 一定是屏幕趋势](https://m.ithome.com/html/894256.htm)
+
++ [时隔八年 LCK 再于中国会师决赛：T1 零封 TES 登顶《英雄联盟》S15 巅峰舞台，Faker 世界赛 BO5 面对 LPL 战队未逢一败剑指六冠王朝](https://m.ithome.com/html/894317.htm)
+
++ [黑黑的酷酷的：酷态科 15000mAh 超级电能棒 219 → 129 元，支持小米 120W 快充](https://m.ithome.com/html/894268.htm)
+
++ [2840 元：vivo X200 Pro mini 手机再降价，天玑 9400 + 5700mAh 电池](https://m.ithome.com/html/894320.htm)
+
++ [平台外卖店“门头环境好人气旺”，实为 AI 生成假门面](https://m.ithome.com/html/894193.htm)
+
++ [小米 YU7 内置 ETC 现支持免费开通，已激活车主可获 500 积分补偿](https://m.ithome.com/html/894289.htm)
+
++ [古尔曼谈“苹果牌 AI”Apple Intelligence 何时进入中国：下一个目标是 iOS 26.4，但具体没人说得清](https://m.ithome.com/html/894349.htm)
+
++ [武汉一出租车司机故意碰瓷“萝卜快跑”无人驾驶网约车：罚 2000 元、扣证 3 个月](https://m.ithome.com/html/894265.htm)
+
++ [段永平回应捐赠市值 1500 万元茅台股票：他们每年花分红就好，市值只是暂时的](https://m.ithome.com/html/894222.htm)
+
