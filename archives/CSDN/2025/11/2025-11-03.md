@@ -161,3 +161,7 @@
 
 + [YOLOv10实战项目：火焰烟雾识别系统【数据集+源码+UI界面】](https://blog.csdn.net/BQAIT/article/details/154303877)
 
++ [【Linux】从内存布局到信号屏蔽：Linux 内核态与用户态交互核心知识点汇总](https://blog.csdn.net/wheeldown/article/details/154334092)
+
++ [基于 Verl 前端与 Atlas A3 集群的 DeepSeek-R1 模型 RL 训练优化实践：Cann-recipes-train 仓库技术深度解读](https://blog.csdn.net/weixin_62765017/article/details/154214233)
+

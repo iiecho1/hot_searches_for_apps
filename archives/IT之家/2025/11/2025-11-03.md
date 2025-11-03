@@ -55,3 +55,11 @@
 
 + [2025 年 10 月汽车销量 / 交付榜：比亚迪破 44 万、零跑破 7 万、蔚来破 4 万，多家车企续创新高](https://m.ithome.com/html/894191.htm)
 
++ [古尔曼谈“苹果牌 AI”Apple Intelligence 何时进入中国：下一个目标是 iOS 26.4，但具体没人说得清](https://m.ithome.com/html/894349.htm)
+
++ [华为 HarmonyOS 6.0 预计 12 月支持苹果 iOS 互传文件功能，iPhone、iPad、Mac 需下载“鸿蒙星河互联”App](https://m.ithome.com/html/894353.htm)
+
++ [研究显示人眼最高可辨像素 94 ppd，多数情况下 8K 显示器的提升感知不强](https://m.ithome.com/html/894336.htm)
+
++ [英伟达疯狂一周：市值暴增 2.8 万亿，黄仁勋出尽风头](https://m.ithome.com/html/894355.htm)
+

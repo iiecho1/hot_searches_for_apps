@@ -179,3 +179,15 @@
 
 + [中国公民持有效澳大利亚签证今起可免签入境新西兰](https://news.cctv.com/2025/11/03/ARTIBbeQM5o6AtrInki6WZ0r251103.shtml)
 
++ [主要产油国宣布12月保持增产节奏 明年初暂停增产](https://news.cctv.com/2025/11/03/ARTIIxJNmMGVy3QFoj5YTJJp251103.shtml)
+
++ [肯尼亚山体滑坡遇难人数升至26人 另有20余人失踪](https://news.cctv.com/2025/11/03/ARTIdtYkiLQ7RgvQGpmmLp8v251103.shtml)
+
++ [卢浮宫劫案嫌疑人多为惯犯 两人曾共同犯案](https://news.cctv.com/2025/11/03/ARTIjbpqaBYZ7hgzRJeghwOv251103.shtml)
+
++ [墨西哥一市长身中至少6枪身亡！墨总统谴责：卑劣的暗杀](https://news.cctv.com/2025/11/03/ARTIwPwL7Ci5hK9rsms8WNIX251103.shtml)
+
++ [“亚太地区保持长期繁荣的重要保障”——访秘鲁国立圣马科斯大学亚洲问题研究中心主任卡洛斯·阿基诺](https://news.cctv.com/2025/11/03/ARTI8eC2OCoikbeLRWs45RzM251103.shtml)
+
++ [开放中国为世界经济提供“稳定锚”（和音）](https://news.cctv.com/2025/11/03/ARTIzJrqVC75nR1D0pnUSYNx251103.shtml)
+
