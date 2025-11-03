@@ -131,3 +131,7 @@
 
 + [仿生机器人、生物机器人、微机器人设计大合集](https://blog.csdn.net/ashyyyy/article/details/154339723)
 
++ [机器学习周报二十](https://blog.csdn.net/weixin_60864619/article/details/154294966)
+
++ [⽬前 主流的开源模型体系 有哪些？](https://blog.csdn.net/weixin_48502062/article/details/154237839)
+
