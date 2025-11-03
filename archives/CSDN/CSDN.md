@@ -251,3 +251,5 @@
 
 + [.NET周刊【10月第3期 2025-10-19】](https://blog.csdn.net/qq_27441069/article/details/154288084)
 
++ [《Linux 进程间通信（IPC）全解析：从管道到共享内存，一步步掌握多进程协作核心（初篇）》](https://blog.csdn.net/Dovis5884/article/details/153681508)
+
