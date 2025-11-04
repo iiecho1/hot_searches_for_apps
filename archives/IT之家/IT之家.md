@@ -27,3 +27,15 @@
 
 + [iPadOS 26.1 稳定版推送：增强“苹果牌 AI”、回归“悬浮分屏”功能](https://m.ithome.com/html/894646.htm)
 
++ [春节假期共 9 天！2026 年放假安排来了](https://m.ithome.com/html/894829.htm)
+
++ [山姆 App 更新后被指变得像盒马，官方回应称会持续改进](https://m.ithome.com/html/894675.htm)
+
++ [299 → 29.9 元：华为官网 Pura 系列微泵液冷壳新低，配件 1 折清仓再加码](https://m.ithome.com/html/894758.htm)
+
++ [苹果牌 AI 明年将迎双重“暴击式”更新，iOS 26.4 与 iOS 27 接力升级](https://m.ithome.com/html/894657.htm)
+
++ [缅北果敢白家犯罪集团案一审宣判，白所成等 5 人被判死刑](https://m.ithome.com/html/894734.htm)
+
++ [网页版 App Store 完全体悄悄上线，苹果客服回应](https://m.ithome.com/html/894824.htm)
+
