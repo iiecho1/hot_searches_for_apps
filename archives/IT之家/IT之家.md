@@ -39,3 +39,9 @@
 
 + [网页版 App Store 完全体悄悄上线，苹果客服回应](https://m.ithome.com/html/894824.htm)
 
++ [华为 Mate 70 Air 真机曝光：居中单孔等深四曲屏、后置大圆镜头模组](https://m.ithome.com/html/894460.htm)
+
++ [《今日说法》主持人李晓东被骗 1000 元买茶叶，自嘲“法制节目主持人也会上当、希望大家以自己为戒”](https://m.ithome.com/html/894481.htm)
+
++ [广州地铁回应“‘摇一摇’广告影响扫码乘车”：当即关闭，将完善交互形式](https://m.ithome.com/html/894459.htm)
+
