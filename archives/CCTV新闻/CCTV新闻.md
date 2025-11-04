@@ -203,3 +203,7 @@
 
 + [菲律宾军方：坠毁直升机上载有5名空军人员](https://news.cctv.com/2025/11/04/ARTI41xh60FN9JS1UVynGu4x251104.shtml)
 
++ [台风“海鸥”已致菲律宾26人死亡](https://news.cctv.com/2025/11/04/ARTIocqNv896dr3VyQhcrBg3251104.shtml)
+
++ [欧盟理事会通过决议 援助乌克兰超18亿欧元](https://news.cctv.com/2025/11/04/ARTIy6uYwjHMtBSMReDls3CW251104.shtml)
+
