@@ -207,3 +207,5 @@
 
 + [欧盟理事会通过决议 援助乌克兰超18亿欧元](https://news.cctv.com/2025/11/04/ARTIy6uYwjHMtBSMReDls3CW251104.shtml)
 
++ [《联合国气候变化框架公约》秘书处执行秘书表示中国宣布新一轮国家自主贡献是应对气候变化重要时刻](https://news.cctv.com/2025/11/04/ARTIkJe2U7zaL5zdyVFI6nhH251104.shtml)
+

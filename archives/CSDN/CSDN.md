@@ -201,3 +201,9 @@
 
 + [Vue2 和 Vue3 生命周期的理解与对比](https://blog.csdn.net/2302_80412007/article/details/154361977)
 
++ [AI时代的新SEO玩法：使用SERP API构建排名追踪系统](https://blog.csdn.net/qq_38951259/article/details/154383337)
+
++ [爬虫数据清洗可视化链家房源](https://blog.csdn.net/2302_80243887/article/details/153934330)
+
++ [HTML应用指南：利用POST请求获取全国爱回收门店位置信息](https://blog.csdn.net/weixin_45812624/article/details/154190746)
+
