@@ -201,3 +201,5 @@
 
 + [国际社会热议“十五五”规划建议 欧洲多家智库：为欧中绿色合作指明方向](https://news.cctv.com/2025/11/04/ARTIbn7jL99Ug05mv2AELn5k251104.shtml)
 
++ [菲律宾军方：坠毁直升机上载有5名空军人员](https://news.cctv.com/2025/11/04/ARTI41xh60FN9JS1UVynGu4x251104.shtml)
+

@@ -31,3 +31,21 @@
 
 + [DearVa/Everywhere](https://github.com/DearVa/Everywhere)
 
++ [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+
++ [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
++ [mudler/edgevpn](https://github.com/mudler/edgevpn)
+
++ [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+
++ [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents)
+
++ [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+
++ [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
++ [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+
++ [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
+
