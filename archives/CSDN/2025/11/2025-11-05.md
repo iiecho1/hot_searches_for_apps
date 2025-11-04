@@ -133,3 +133,7 @@
 
 + [笔记跨设备无缝切换?Joplin+cpolar让多设备同步更自由](https://blog.csdn.net/2301_76341691/article/details/154396593)
 
++ [纯前端打造个人成长网站：零后端、零部署、零服务器的实践分享](https://blog.csdn.net/qq_21106275/article/details/154312043)
+
++ [为什么TCP必须存在？IP层的致命缺陷与分层设计的智慧](https://blog.csdn.net/qq_44378083/article/details/150641410)
+
