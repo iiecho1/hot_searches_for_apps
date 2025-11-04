@@ -169,3 +169,17 @@
 
 + [联合国：苏丹超2100万人处于严重粮食不安全状态](https://news.cctv.com/2025/11/04/ARTICVoY2FTRFlyJVxKFINwJ251104.shtml)
 
++ [美政府“停摆”将平纪录 食品救济金“减半”](https://news.cctv.com/2025/11/04/ARTIaPAV1drl41LxcALmD9IX251104.shtml)
+
++ [国际观察丨美联邦政府“停摆”近纪录　民众“伤不起”](https://news.cctv.com/2025/11/04/ARTI1pCWR6YFiVJH020re56C251104.shtml)
+
++ [新华时评｜引领亚太开放合作 续写共同发展新篇](https://news.cctv.com/2025/11/04/ARTIsu4Clc2rzYy1wZm3nFyd251104.shtml)
+
++ [美旅游协会警告：政府“停摆”或引发节日出行混乱](https://news.cctv.com/2025/11/04/ARTIN6SxXNbdU89u1N1gvATO251104.shtml)
+
++ [土耳其、沙特等七国外长一致同意维护加沙停火协议](https://news.cctv.com/2025/11/04/ARTIGcynPinujtH8Tc38Nz1r251104.shtml)
+
++ [德国明年起将为能源密集型产业提供补贴电价](https://news.cctv.com/2025/11/04/ARTIYtaKJVxpvl6giBagXXy2251104.shtml)
+
++ [秘鲁外长宣布秘鲁与墨西哥断交](https://news.cctv.com/2025/11/04/ARTIRjWoO5QsfoL8UxLW1L5r251104.shtml)
+

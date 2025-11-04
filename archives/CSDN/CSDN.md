@@ -141,3 +141,7 @@
 
 + [pycharm运行后出现报错：libpng warning: iCCP: known incorrect sRGB profile...如何解决？](https://blog.csdn.net/weixin_43970743/article/details/151627636)
 
++ [修炼与陪伴：从文班亚马与杨瀚森的休赛期选择看职业运动员的发展之道](https://blog.csdn.net/eidolon_foot/article/details/154338477)
+
++ [【Linux】进程概念（二）](https://blog.csdn.net/Shengmc/article/details/153980442)
+
