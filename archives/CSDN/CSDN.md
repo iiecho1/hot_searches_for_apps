@@ -129,3 +129,7 @@
 
 + [【GitHub开源AI精选】DeepDoc：开源本地知识库深度研究工具，多格式文档解析与智能报告生成](https://blog.csdn.net/xiaobing259/article/details/154233874)
 
++ [SpringBoot】Spring Boot 项目的打包配置](https://blog.csdn.net/bangke1991/article/details/154350622)
+
++ [笔记跨设备无缝切换?Joplin+cpolar让多设备同步更自由](https://blog.csdn.net/2301_76341691/article/details/154396593)
+
