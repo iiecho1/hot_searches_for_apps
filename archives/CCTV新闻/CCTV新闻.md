@@ -161,3 +161,11 @@
 
 + [达成停火22天内 仅有商定数量24%的卡车进入加沙](https://news.cctv.com/2025/11/02/ARTI2isqXjIUFQJKf7hBiUDL251102.shtml)
 
++ [涉欺诈银行和洗钱 印度富豪逾8亿美元企业资产遭查封](https://news.cctv.com/2025/11/05/ARTId298v38RMrD3reuvqVvR251105.shtml)
+
++ [佩斯科夫：目前未向美方提供俄乌最新战场局势图](https://news.cctv.com/2025/11/05/ARTI3l8PwCAr0X5LLSJwu2rc251105.shtml)
+
++ [航班遭炸弹威胁 美国罗纳德·里根国家机场暂停运作](https://news.cctv.com/2025/11/05/ARTIx0ar7hnL7TS3WBneWj2x251105.shtml)
+
++ [巴西首都将临时迁至第30届联合国气候变化大会举办地贝伦](https://news.cctv.com/2025/11/05/ARTIFkYNdcrcLksDNmoEWFNU251105.shtml)
+
