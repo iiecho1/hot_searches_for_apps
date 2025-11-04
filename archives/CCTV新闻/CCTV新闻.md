@@ -193,3 +193,5 @@
 
 + [美国政府“停摆”进入第35天 追平史上最长纪录](https://news.cctv.com/2025/11/04/ARTIseO91MVvyrEEyj7Z2OMw251104.shtml)
 
++ [韩国高校招生新政 拒收“校园霸凌生”](https://news.cctv.com/2025/11/04/ARTIPWK6Z4F0698ZIwJ5KTT1251104.shtml)
+

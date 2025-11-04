@@ -169,3 +169,7 @@
 
 + [从零开始的云原生之旅（九）：云原生的核心优势：自动弹性伸缩实战](https://blog.csdn.net/2301_80027247/article/details/154293032)
 
++ [【自然语言处理】预训练04：预训练word2vec](https://blog.csdn.net/Morse_Chen/article/details/154364029)
+
++ [突破局域网限制，Websocket 服务远程访问cpolar新方案](https://blog.csdn.net/Tiam_cr/article/details/154351092)
+

@@ -61,3 +61,17 @@
 
 + [华为鸿蒙 HarmonyOS 6.0 小艺修图智能体预计 11 月完成推送，支持用户自由创作编辑、连续实时修图](https://m.ithome.com/html/894357.htm)
 
++ [苹果 iOS / iPadOS 26.1 正式版发布：AirPods 实时翻译支持简体中文，新增液态玻璃透明度调节、滑动关闭闹钟等功能更新](https://m.ithome.com/html/894629.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.110 SP8 全面推送，小艺任务 / 帮帮忙等功能上线](https://m.ithome.com/html/894628.htm)
+
++ [小米马志宇警告存储涨价：明年最新的成本预估“有点惊悚”](https://m.ithome.com/html/894690.htm)
+
++ [iPhone 17 Pro 等用户反馈升级苹果 iOS 26.1 后续航增加约 30 分钟](https://m.ithome.com/html/894710.htm)
+
++ [1 分钟速读 11 月 4 日 11.11 攻略：酷态科充电宝全系破价，全国可用贵州 8 折补贴 → 牛奶 / 鞋服破冰新低，一件保价速速走起](https://m.ithome.com/html/894591.htm)
+
++ [iOS 26.1 修复近 50 个漏洞：字节团队贡献 4 个，苹果敦促 iPhone 11 及后续机型立即更新](https://m.ithome.com/html/894665.htm)
+
++ [杭州格力回应校招辱骂女大学生：非公司员工，招聘信息出入较大](https://m.ithome.com/html/894704.htm)
+
