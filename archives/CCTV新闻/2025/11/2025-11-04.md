@@ -197,3 +197,7 @@
 
 + [一见·从这些历史瞬间，看习主席韩国之行](https://news.cctv.com/2025/11/04/ARTIuOdTA8XsC2KSvO9oLVAk251104.shtml)
 
++ [“为世界经济注入宝贵的‘亚太信心’”——访韩国外国语大学国际地区战略学特聘教授朴汉真](https://news.cctv.com/2025/11/04/ARTIRj6wjcpbjElZK7lZtLwN251104.shtml)
+
++ [国际社会热议“十五五”规划建议 欧洲多家智库：为欧中绿色合作指明方向](https://news.cctv.com/2025/11/04/ARTIbn7jL99Ug05mv2AELn5k251104.shtml)
+
