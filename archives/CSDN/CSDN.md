@@ -167,3 +167,5 @@
 
 + [【JVM】详解 线程与协程](https://blog.csdn.net/Muyu1uz/article/details/154339831)
 
++ [从零开始的云原生之旅（九）：云原生的核心优势：自动弹性伸缩实战](https://blog.csdn.net/2301_80027247/article/details/154293032)
+

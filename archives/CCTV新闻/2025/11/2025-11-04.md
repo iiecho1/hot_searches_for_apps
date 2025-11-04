@@ -191,3 +191,5 @@
 
 + [新研究：格陵兰岛面积“缩水”且缓慢向西北漂移](https://news.cctv.com/2025/11/04/ARTILPKTav7AjHElJQEgpzLr251104.shtml)
 
++ [美国政府“停摆”进入第35天 追平史上最长纪录](https://news.cctv.com/2025/11/04/ARTIseO91MVvyrEEyj7Z2OMw251104.shtml)
+

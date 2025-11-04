@@ -59,3 +59,5 @@
 
 + [英伟达疯狂一周：市值暴增 2.8 万亿，黄仁勋出尽风头](https://m.ithome.com/html/894355.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0 小艺修图智能体预计 11 月完成推送，支持用户自由创作编辑、连续实时修图](https://m.ithome.com/html/894357.htm)
+

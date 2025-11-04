@@ -41,3 +41,5 @@
 
 + [华为 MatePad Mini 好棒，我真是脱离国内产品线好久了](https://www.v2ex.com/t/1170337)
 
++ [ios26 短信跟电话，简直就是反人类设计](https://www.v2ex.com/t/1170332)
+
