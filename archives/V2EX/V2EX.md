@@ -39,3 +39,5 @@
 
 + [请问一加的氧 os 有没有内置国家反诈？](https://www.v2ex.com/t/1170305)
 
++ [华为 MatePad Mini 好棒，我真是脱离国内产品线好久了](https://www.v2ex.com/t/1170337)
+

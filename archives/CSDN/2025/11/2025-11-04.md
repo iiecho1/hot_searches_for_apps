@@ -157,3 +157,13 @@
 
 + [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的对抗训练与鲁棒性提升](https://blog.csdn.net/atgfg/article/details/154367855)
 
++ [AWS Bedrock + DeepSeek-R1：开启企业级 AI 开发的新篇章](https://blog.csdn.net/CC1991_/article/details/154341572)
+
++ [从零开始的Qt开发指南：（二）使用Qt Creator构建项目与Qt底层机制的深度解析](https://blog.csdn.net/2301_79248256/article/details/154352373)
+
++ [【网络】小白能懂的 HTTP：核心概念解析](https://blog.csdn.net/qq_64597821/article/details/153921189)
+
++ [Linux “ 编译 “实战：动态链接库让代码动起来的核心原理](https://blog.csdn.net/Miun123/article/details/154130892)
+
++ [【JVM】详解 线程与协程](https://blog.csdn.net/Muyu1uz/article/details/154339831)
+
