@@ -189,3 +189,5 @@
 
 + [意大利一中世纪塔楼部分坍塌致4人受伤](https://photo.cctv.com/2025/11/04/PHOA3BsGaISpT4lblKIO5FAx251104.shtml)
 
++ [新研究：格陵兰岛面积“缩水”且缓慢向西北漂移](https://news.cctv.com/2025/11/04/ARTILPKTav7AjHElJQEgpzLr251104.shtml)
+

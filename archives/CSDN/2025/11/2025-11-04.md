@@ -153,3 +153,7 @@
 
 + [【完整源码+数据集+部署教程】城市交通场景分割系统源码＆数据集分享 [yolov8-seg-GFPN＆yolov8-seg-C2f-FocusedLinearAttention等50+全套改进创新点](https://blog.csdn.net/weixin_43860634/article/details/154349139)
 
++ [Linux 权限管理进阶：从 umask 到粘滞位的深度解析](https://blog.csdn.net/2503_91389547/article/details/154116282)
+
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的对抗训练与鲁棒性提升](https://blog.csdn.net/atgfg/article/details/154367855)
+
