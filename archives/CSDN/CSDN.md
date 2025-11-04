@@ -101,3 +101,11 @@
 
 + [【MySQL数据库】被问了 1000 次的 MySQL 索引，我把它写成带目录的「全景长文」了](https://blog.csdn.net/2401_87944878/article/details/151929976)
 
++ [PINN求解一维亥姆霍兹方程，以声学问题为例，使用L-BFGS优化器，将传统物理建模与现代深度学习相结合，为解决科学计算问题提供了新的范式，MATLAB代码](https://blog.csdn.net/kjm13182345320/article/details/154365056)
+
++ [医疗保健|医疗养老|基于Java+vue的医疗保健系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154356833)
+
++ [爬虫数据清洗可视化链家房源](https://blog.csdn.net/2302_80243887/article/details/153934330)
+
++ [《嵌入式硬件（二十一）：基于IMX6ULL的脉冲宽度调制（PWM）操作》](https://blog.csdn.net/weixin_72612809/article/details/154357404)
+
