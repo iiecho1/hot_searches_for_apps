@@ -183,3 +183,9 @@
 
 + [秘鲁外长宣布秘鲁与墨西哥断交](https://news.cctv.com/2025/11/04/ARTIRjWoO5QsfoL8UxLW1L5r251104.shtml)
 
++ [乌媒：泽连斯基否认欧乌间存在具体“和平计划”，称任何方案都必须有美国参与](https://news.cctv.com/2025/11/04/ARTITBAygDifIsbBEtYFJC4U251104.shtml)
+
++ [朝鲜将为最高人民会议常委会前委员长金永南举行国葬](https://news.cctv.com/2025/11/04/ARTIcQF4TpcFB33WRqRqLX1z251104.shtml)
+
++ [意大利一中世纪塔楼部分坍塌致4人受伤](https://photo.cctv.com/2025/11/04/PHOA3BsGaISpT4lblKIO5FAx251104.shtml)
+
