@@ -139,3 +139,5 @@
 
 + [从零到一：用MiniMax写一个基于MiniMax API构建企业级智能对话助手](https://blog.csdn.net/Liudef06/article/details/154127107)
 
++ [pycharm运行后出现报错：libpng warning: iCCP: known incorrect sRGB profile...如何解决？](https://blog.csdn.net/weixin_43970743/article/details/151627636)
+
