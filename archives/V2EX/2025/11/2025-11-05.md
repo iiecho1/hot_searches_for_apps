@@ -53,3 +53,9 @@
 
 + [你有多久没听音乐了](https://www.v2ex.com/t/1170595)
 
++ [code review 把国外的同事气到吐血](https://www.v2ex.com/t/1170635)
+
++ [日经吐槽：现在的 Java 语言真的有点令人恶心](https://www.v2ex.com/t/1170596)
+
++ [我愿称之为 iOS 26.1 史诗级更新](https://www.v2ex.com/t/1170573)
+

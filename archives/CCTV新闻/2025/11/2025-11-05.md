@@ -191,3 +191,5 @@
 
 + [匈牙利总理重申不支持乌克兰加入欧盟](https://news.cctv.com/2025/11/05/ARTIH1fmMeOrwmyiT6uwlW04251105.shtml)
 
++ [“停摆”追平纪录 美交通部长警告“大规模混乱”即将来临](https://news.cctv.com/2025/11/05/ARTIjhewXXYoSvaWmy66EA9j251105.shtml)
+
