@@ -173,3 +173,11 @@
 
 + [新闻分析丨秘鲁缘何与墨西哥断交](https://news.cctv.com/2025/11/06/ARTIuLhL3SzcxKviR5HUTVln251106.shtml)
 
++ [美货机坠毁细节披露：飞机起飞时左翼起火 引擎脱落](https://news.cctv.com/2025/11/06/ARTIbbwZbhNMX1IJABhm550m251106.shtml)
+
++ [特朗普提议美国会参议院结束“冗长辩论”遭共和党人拒绝](https://news.cctv.com/2025/11/06/ARTIya0olaL9ld4jhzGHO8QY251106.shtml)
+
++ [瑞典议会通过议案 明年1月1日解禁铀矿开采](https://news.cctv.com/2025/11/06/ARTI0yVEGas5LK3HDD0MeUxI251106.shtml)
+
++ [埃尔多安：土耳其与库尔德工人党和平进程进入“决定性阶段”](https://news.cctv.com/2025/11/06/ARTIBHNo0yjkoZAmVaUkvPSa251106.shtml)
+
