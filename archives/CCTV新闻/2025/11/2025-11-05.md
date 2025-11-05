@@ -175,3 +175,11 @@
 
 + [堪察加东岸远海发生5.9级地震，震源深度20千米](https://news.cctv.com/2025/11/05/ARTIOT5Tnd32jvnLicc42xj9251105.shtml)
 
++ [第八届进博会｜专访：“进博会将带给我们更大的平台和机遇”——访首次亮相进博会的德国巧克力展商](https://news.cctv.com/2025/11/05/ARTIxEZCdVoGMydkrqtjb0XR251105.shtml)
+
++ [美联邦政府“停摆”时间平历史纪录 大量家庭陷多重困境](https://news.cctv.com/2025/11/05/ARTIJ3BRxh310J0NHi0wm1yP251105.shtml)
+
++ [印度恰蒂斯加尔邦发生火车相撞事故 已致11人死亡](https://news.cctv.com/2025/11/05/ARTIt2wmwktOKtwuVBzDnH7a251105.shtml)
+
++ [台风“海鸥”已致菲律宾66人死亡 26人失踪](https://news.cctv.com/2025/11/05/ARTIeBMVcJSG3tyj8vVT2yU0251105.shtml)
+

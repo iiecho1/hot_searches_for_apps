@@ -143,3 +143,15 @@
 
 + [SpringBoot 项目基于责任链模式实现复杂接口的解耦和动态编排](https://blog.csdn.net/weixin_48321993/article/details/154356302)
 
++ [HTML炫酷烟花⑨](https://blog.csdn.net/m0_68111267/article/details/154406336)
+
++ [LabVIEW是否适合商业化软件开发](https://blog.csdn.net/bjcyck/article/details/154384130)
+
++ [Java配置管理：3个高级策略，2个致命陷阱，1个让产品经理不再半夜发“在吗“的秘诀](https://blog.csdn.net/z_344791576/article/details/151686221)
+
++ [计算机网络R2025秋(TYUT)【计算机网络】第5章 运输层](https://blog.csdn.net/lcy57__/article/details/154350465)
+
++ [TCP初始序列号ISN：网络世界的随机出生证号](https://blog.csdn.net/qq_44378083/article/details/150641564)
+
++ [Memos：一款不打扰的笔记工具，使用cpolar远程后体验再升级](https://blog.csdn.net/weixin_74888502/article/details/154347343)
+
