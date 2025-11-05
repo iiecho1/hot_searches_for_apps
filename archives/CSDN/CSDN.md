@@ -101,3 +101,15 @@
 
 + [SpringBoot】Spring Boot 项目的打包配置](https://blog.csdn.net/bangke1991/article/details/154350622)
 
++ [AWS Bedrock + DeepSeek-R1：开启企业级 AI 开发的新篇章](https://blog.csdn.net/CC1991_/article/details/154341572)
+
++ [Rustt 异步调试：tracing 与 tokio-console 的可观测性](https://blog.csdn.net/sinat_41617212/article/details/154369428)
+
++ [[手机AI开发sdk] 安卓上的Linux环境](https://blog.csdn.net/2301_80171004/article/details/154363412)
+
++ [开源GPU创新生态赛赛题三 | mcTileLang 算子任务文档（按 Level 分级）](https://blog.csdn.net/2501_93830067/article/details/154347977)
+
++ [笔记跨设备无缝切换?Joplin+cpolar让多设备同步更自由](https://blog.csdn.net/2301_76341691/article/details/154396593)
+
++ [【完整源码+数据集+部署教程】动物虹膜图像分割系统源码＆数据集分享 [yolov8-seg-EfficientRepBiPAN＆yolov8-seg-C2f-DLKA等50+全套改进创新点发刊_一键](https://blog.csdn.net/weixin_43860634/article/details/154402423)
+

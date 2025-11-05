@@ -61,3 +61,9 @@
 
 + [美国功德箱](https://m.acfun.cn/v/?ac=47981907)
 
++ [【东方】EYE LOVE YOU, YOU LOVE ME【京田スズカ Eurobeat】](https://m.acfun.cn/v/?ac=47973499)
+
++ [So Cool](https://m.acfun.cn/v/?ac=47982479)
+
++ [超直观，看了停不下来，这些常见的金属加工你知道吗](https://m.acfun.cn/v/?ac=47981943)
+
