@@ -35,3 +35,5 @@
 
 + [iphone17pm 这个瑕疵，是换货还是要补偿](https://www.v2ex.com/t/1170442)
 
++ [如何看待 Rust？](https://www.v2ex.com/t/1170459)
+
