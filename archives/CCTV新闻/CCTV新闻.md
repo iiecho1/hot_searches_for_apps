@@ -197,3 +197,7 @@
 
 + [俄副外长：目前不具备组织俄美元首会晤的条件](https://news.cctv.com/2025/11/05/ARTIiu5AQPl0axmJEfBHMUjg251105.shtml)
 
++ [境外采购商点赞“中国第一展”](https://news.cctv.com/2025/11/05/ARTIJVug8OZQnpwKOqAtmjnO251105.shtml)
+
++ [“极不光彩的纪录！”——美国停不下来的联邦政府“停摆”](https://news.cctv.com/2025/11/05/ARTIsOPmmMtdg42cKGeqeprq251105.shtml)
+
