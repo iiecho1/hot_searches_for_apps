@@ -203,3 +203,9 @@
 
 + [html5中canvas图形变换transform、setTransform原理（变换矩阵）](https://blog.csdn.net/weixin_45575944/article/details/154381005)
 
++ [流浪动物救助|流浪猫狗救助|基于Springboot+vue的流浪猫狗救助平台设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154427287)
+
++ [视觉Transformer实战——Vision Transformer（ViT）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149032544)
+
++ [springcloud：理解springsecurity安全架构与认证链路（一）](https://blog.csdn.net/qq_34319145/article/details/154383467)
+
