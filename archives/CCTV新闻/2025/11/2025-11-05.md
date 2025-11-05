@@ -187,3 +187,7 @@
 
 + [特朗普要向墨西哥派兵扫毒？ 墨总统：不会发生！](https://news.cctv.com/2025/11/05/ARTIhBjEEQOc7VV3nzXZNv3p251105.shtml)
 
++ [防“熊害” 日本将派自卫队协助捕熊](https://news.cctv.com/2025/11/05/ARTIpMKFj9j4KoKm3vTuYgmx251105.shtml)
+
++ [匈牙利总理重申不支持乌克兰加入欧盟](https://news.cctv.com/2025/11/05/ARTIH1fmMeOrwmyiT6uwlW04251105.shtml)
+
