@@ -49,3 +49,11 @@
 
 + [重大发现：全球 80% 海域发现“吃塑料”细菌，已进化出降解能力](https://m.ithome.com/html/895063.htm)
 
++ [“金牌客服”李小龙：华为历史上充电宝从没召回过，新品自带线移动电源电芯发货近 1 亿只](https://m.ithome.com/html/895145.htm)
+
++ [小米 17 Pro 系列手机新增“隐身模式”，背屏一键关闭麦克风、摄像头等权限](https://m.ithome.com/html/894974.htm)
+
++ [小米智能中控屏新品发布：内置 Mesh 2.0 网关，众筹价 369 元](https://m.ithome.com/html/895010.htm)
+
++ [iPhone 17 Pro Max 1T 京东 13629 元再补货，无需激活月末即可到手](https://m.ithome.com/html/895058.htm)
+
