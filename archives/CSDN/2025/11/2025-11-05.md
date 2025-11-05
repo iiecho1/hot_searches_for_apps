@@ -191,3 +191,7 @@
 
 + [学习Linux——网络——网卡](https://blog.csdn.net/kblj5555/article/details/154408013)
 
++ [Linux 进阶权限管理核心：权限掩码umask与粘滞位的深度解析](https://blog.csdn.net/yhrxh_ymq/article/details/154425752)
+
++ [Linux网络诊断工具：ping、traceroute等命令实战（附示例）](https://blog.csdn.net/qq_41803278/article/details/154293404)
+

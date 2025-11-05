@@ -37,3 +37,23 @@
 
 + [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 
++ [nocobase/nocobase](https://github.com/nocobase/nocobase)
+
++ [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+
++ [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)
+
++ [GoogleCloudPlatform/vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
+
++ [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+
++ [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+
++ [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader)
+
++ [sst/opencode](https://github.com/sst/opencode)
+
++ [localstack/localstack](https://github.com/localstack/localstack)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
