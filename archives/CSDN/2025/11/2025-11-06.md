@@ -113,3 +113,23 @@
 
 + [【完整源码+数据集+部署教程】动物虹膜图像分割系统源码＆数据集分享 [yolov8-seg-EfficientRepBiPAN＆yolov8-seg-C2f-DLKA等50+全套改进创新点发刊_一键](https://blog.csdn.net/weixin_43860634/article/details/154402423)
 
++ [医疗保健|医疗养老|基于Java+vue的医疗保健系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154356833)
+
++ [NAS 状态难监控？用 DashDot+cpolar，手机随时看硬盘温度、带宽占用](https://blog.csdn.net/weixin_43151418/article/details/154395787)
+
++ [Opencv(八) :ROI 切割](https://blog.csdn.net/Mrliu__/article/details/154401415)
+
++ [【微服务】SpringBoot 4.0 新特性整合项目实战应用详解](https://blog.csdn.net/zhangcongyi420/article/details/153120799)
+
++ [机器学习-聚类](https://blog.csdn.net/lin__ying/article/details/154085156)
+
++ [如何使用AI快速编程实现标注ROS2中sensor_msgs/msg/Image图像色彩webots2025a](https://blog.csdn.net/ZhangRelay/article/details/154401186)
+
++ [基于python的天气预报系统设计和可视化数据分析源码+报告](https://blog.csdn.net/2403_88102872/article/details/154382237)
+
++ [Apache IoTDB 进阶实战：设备时序数据管理与分布式部署优化](https://blog.csdn.net/g310773517/article/details/154453560)
+
++ [ Spring Boot 中，内嵌的 Servlet 容器（也称为嵌入式 Web 服务器）](https://blog.csdn.net/chxii/article/details/154392552)
+
++ [Docker 可视化管理还不够？加个 cpolar，异地操作也能丝滑流畅](https://blog.csdn.net/Pocker_Spades_A/article/details/154448617)
+

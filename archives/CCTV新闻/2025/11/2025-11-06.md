@@ -161,3 +161,15 @@
 
 + [视频丨美移民执法人员“碰瓷”式抓人遭围堵](https://news.cctv.com/2025/11/03/ARTIo6948LWYsJBrOD9FzYQR251103.shtml)
 
++ [佩斯科夫：美方发射“民兵3”洲际弹道导弹前 已告知俄方](https://news.cctv.com/2025/11/06/ARTIASuhzLIImWDpZau4KRPu251106.shtml)
+
++ [美国肯塔基州因货机坠毁事故进入紧急状态](https://news.cctv.com/2025/11/06/ARTImuYivnpO6AkGESsMhh8d251106.shtml)
+
++ [美最高法院就政府关税政策合法性展开辩论](https://news.cctv.com/2025/11/06/ARTI7D1pqR7Bo64Dg9XuUWPc251106.shtml)
+
++ [美休斯敦大规模移民执法行动已致超1500人被捕](https://news.cctv.com/2025/11/06/ARTIbarxQqTPwGoTqr5jSZ5w251106.shtml)
+
++ [美军试射未携带弹头的“民兵3”洲际弹道导弹](https://news.cctv.com/2025/11/06/ARTIGAnjrU1Lrb8hJXflsSvz251106.shtml)
+
++ [新闻分析丨秘鲁缘何与墨西哥断交](https://news.cctv.com/2025/11/06/ARTIuLhL3SzcxKviR5HUTVln251106.shtml)
+
