@@ -171,3 +171,7 @@
 
 + [耗不起、飞不动、谈不拢！美政府“停摆”时间追平纪录](https://news.cctv.com/2025/11/05/ARTISlrEGGzXnRzsqG75MVl3251105.shtml)
 
++ [印尼托米尼湾发生5.9级地震，震源深度110千米](https://news.cctv.com/2025/11/05/ARTI2Ypd8s6xGWdVvptqrdXC251105.shtml)
+
++ [堪察加东岸远海发生5.9级地震，震源深度20千米](https://news.cctv.com/2025/11/05/ARTIOT5Tnd32jvnLicc42xj9251105.shtml)
+
