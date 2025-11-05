@@ -159,3 +159,13 @@
 
 + [贪心算法：IPO](https://blog.csdn.net/m0_61358347/article/details/154283678)
 
++ [AWS Bedrock + DeepSeek-R1：开启企业级 AI 开发的新篇章](https://blog.csdn.net/CC1991_/article/details/154341572)
+
++ [开源力量：GitCode+昇腾NPU 部署Mistral-7B-Instruct-v0.2模型的技术探索与经验总结](https://blog.csdn.net/IRpickstars/article/details/154427304)
+
++ [2025 年 11 月最新 Docker 镜像源加速列表与使用指南](https://blog.csdn.net/java_logo/article/details/154281860)
+
++ [GitHub 热榜项目 - 日榜(2025-11-04)](https://blog.csdn.net/u014390502/article/details/154383074)
+
++ [CSS 中 `data-status` 的使用详解](https://blog.csdn.net/csdn_silent/article/details/154339124)
+

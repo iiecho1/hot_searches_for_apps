@@ -37,3 +37,7 @@
 
 + [如何看待 Rust？](https://www.v2ex.com/t/1170459)
 
++ [[回复抽红包] [上海|长春|合肥|Remote+海外出差] Agentic 研发工程师](https://www.v2ex.com/t/1170530)
+
++ [想了解下大家每个月在 Vibe Coding 工具上的成本支出](https://www.v2ex.com/t/1170441)
+
