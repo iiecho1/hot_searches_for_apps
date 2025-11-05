@@ -169,3 +169,5 @@
 
 + [巴西首都将临时迁至第30届联合国气候变化大会举办地贝伦](https://news.cctv.com/2025/11/05/ARTIFkYNdcrcLksDNmoEWFNU251105.shtml)
 
++ [耗不起、飞不动、谈不拢！美政府“停摆”时间追平纪录](https://news.cctv.com/2025/11/05/ARTISlrEGGzXnRzsqG75MVl3251105.shtml)
+
