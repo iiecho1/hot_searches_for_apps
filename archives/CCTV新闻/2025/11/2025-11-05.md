@@ -201,3 +201,9 @@
 
 + [“极不光彩的纪录！”——美国停不下来的联邦政府“停摆”](https://news.cctv.com/2025/11/05/ARTIsOPmmMtdg42cKGeqeprq251105.shtml)
 
++ [美国肯塔基州坠机事故已致9人死亡](https://news.cctv.com/2025/11/05/ARTI1JH1TCw3I0m4RkfeTKIY251105.shtml)
+
++ [土耳其首都安卡拉一所大学突发爆炸 暂无人员伤亡](https://news.cctv.com/2025/11/05/ARTIyzzrJA5i89nSgIoV4I3g251105.shtml)
+
++ [德国警方破获一起大规模网络诈骗洗钱案 超400万人受影响](https://news.cctv.com/2025/11/05/ARTIIjARlEa6NbDESJRUweOv251105.shtml)
+

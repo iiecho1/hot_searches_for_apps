@@ -209,3 +209,11 @@
 
 + [springcloud：理解springsecurity安全架构与认证链路（一）](https://blog.csdn.net/qq_34319145/article/details/154383467)
 
++ [exdark数据集用yolov11训练map只有0.5几，是出了什么问题，别人都0.7，0.8...如何优化？](https://blog.csdn.net/weixin_43970743/article/details/154426355)
+
++ [系统分析师-案例分析-数据库系统&数据仓库&反规范化技术&NoSQL&内存数据库](https://blog.csdn.net/g984160547/article/details/154450082)
+
++ [Spring MVC 响应处理：页面、数据与状态配置详解](https://blog.csdn.net/2301_80543957/article/details/150555157)
+
++ [【完整源码+数据集+部署教程】动物虹膜图像分割系统源码＆数据集分享 [yolov8-seg-EfficientRepBiPAN＆yolov8-seg-C2f-DLKA等50+全套改进创新点发刊_一键](https://blog.csdn.net/weixin_43860634/article/details/154402423)
+
