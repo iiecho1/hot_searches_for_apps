@@ -133,3 +133,7 @@
 
 + [Docker 可视化管理还不够？加个 cpolar，异地操作也能丝滑流畅](https://blog.csdn.net/Pocker_Spades_A/article/details/154448617)
 
++ [SpringBoot日志架构剖析：Logback与ELK整合实现智能日志分析](https://blog.csdn.net/ashyyyy/article/details/154430385)
+
++ [【浏览器CORS问题解决方案】SpringBoot+Vue3前后端全覆盖：浏览器跨域问题的多样化解决方案](https://blog.csdn.net/weixin_45793745/article/details/154455187)
+
