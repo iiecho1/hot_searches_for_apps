@@ -183,3 +183,11 @@
 
 + [攻防世界-cat_cat_new（任意文件读取、Linux敏感文件、flask-session伪造）](https://blog.csdn.net/m0_67212501/article/details/154337369)
 
++ [Spring AI](https://blog.csdn.net/2301_76161469/article/details/154354762)
+
++ [深入理解 Spring 原理：IOC、AOP 与事务管理](https://blog.csdn.net/CSDNUser_zh/article/details/154440194)
+
++ [【GitHub开源AI精选】AI-Video-Transcriber：开源AI视频转录与摘要工具，支持30+平台，赋能高效内容处理](https://blog.csdn.net/xiaobing259/article/details/154233580)
+
++ [学习Linux——网络——网卡](https://blog.csdn.net/kblj5555/article/details/154408013)
+

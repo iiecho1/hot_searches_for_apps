@@ -193,3 +193,7 @@
 
 + [“停摆”追平纪录 美交通部长警告“大规模混乱”即将来临](https://news.cctv.com/2025/11/05/ARTIjhewXXYoSvaWmy66EA9j251105.shtml)
 
++ [欧航局成功发射“哨兵-1D”卫星](https://news.cctv.com/2025/11/05/ARTIvCFPLKAYGHhtYNym9XWU251105.shtml)
+
++ [俄副外长：目前不具备组织俄美元首会晤的条件](https://news.cctv.com/2025/11/05/ARTIiu5AQPl0axmJEfBHMUjg251105.shtml)
+
