@@ -183,3 +183,7 @@
 
 + [台风“海鸥”已致菲律宾66人死亡 26人失踪](https://news.cctv.com/2025/11/05/ARTIeBMVcJSG3tyj8vVT2yU0251105.shtml)
 
++ [台风“海鸥”在菲律宾造成66人死亡](https://news.cctv.com/2025/11/05/ARTIDiJB5JTwCGtqCoX1fRYP251105.shtml)
+
++ [特朗普要向墨西哥派兵扫毒？ 墨总统：不会发生！](https://news.cctv.com/2025/11/05/ARTIhBjEEQOc7VV3nzXZNv3p251105.shtml)
+
