@@ -135,3 +135,5 @@
 
 + [使用GLM-4.6开发Spring Boot项目脚手架：从零到一的AI辅助开发实践](https://blog.csdn.net/Liudef06/article/details/154389205)
 
++ [数控直流电流源设计指南：基于MCU+FPGA的精密控制与低功耗优化](https://blog.csdn.net/wisdom_19860320/article/details/154448092)
+

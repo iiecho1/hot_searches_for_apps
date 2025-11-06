@@ -173,3 +173,5 @@
 
 + [空管人员短缺 美国多地再次出现航班延误](https://news.cctv.com/2025/11/07/ARTIgOdIaF6krfwywrCCBYhy251107.shtml)
 
++ [日本北海道一高中60余名学生食物中毒](https://news.cctv.com/2025/11/07/ARTIOCRDRKRbHofGmWX6sHIA251107.shtml)
+
