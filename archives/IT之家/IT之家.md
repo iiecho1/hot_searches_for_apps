@@ -25,3 +25,27 @@
 
 + [iPhone 17 Pro Max 1T 京东 13629 元再补货，无需激活月末即可到手](https://m.ithome.com/html/895058.htm)
 
++ [4199 元起史上最薄 Mate：华为 Mate 70 Air 官宣搭载麒麟 9020A / B](https://m.ithome.com/html/895233.htm)
+
++ [华为 Mate70 Air 首次可选 CPU：麒麟 9020A 和 B 有何区别，官方客服回应](https://m.ithome.com/html/895274.htm)
+
++ [网友吐槽手机信号栏被塞广告，中国移动客服回应](https://m.ithome.com/html/895290.htm)
+
++ [小红书拿下支付牌照](https://m.ithome.com/html/895287.htm)
+
++ [3699 元双卡双扬多摄大电池：华为 Mate 70 Air 首发即国补](https://m.ithome.com/html/895347.htm)
+
++ [华为 Mate 70 Air 手机命名规则揭晓：2025 年 11 月发布、外观延续 Mate 70 系列](https://m.ithome.com/html/895296.htm)
+
++ [信号强度提升：HUAWEI Mate 70 Air 手机支持华为 Wi-Fi 7+ 自研芯片级协同技术](https://m.ithome.com/html/895377.htm)
+
++ [史上最薄 Mate：华为 Mate 70 Air 新机今日 10:08 开启预售](https://m.ithome.com/html/895214.htm)
+
++ [华为 Mate 70 Air 手机中框采用高分子与金属复合材料一体成型工艺 + 天线隐藏设计](https://m.ithome.com/html/895285.htm)
+
++ [王化回应小米通话将停服：历史使命已经完成，并非手机不能打电话](https://m.ithome.com/html/895304.htm)
+
++ [苹果首款折叠 iPhone 曝料：2400 万像素屏下自拍摄像头，未配 Face ID](https://m.ithome.com/html/895257.htm)
+
++ [消息称苹果 iPhone 18 Air 迭代状态正常：设计不变，考虑新增 48Mp 超广角镜头](https://m.ithome.com/html/895329.htm)
+
