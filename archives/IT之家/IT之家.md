@@ -63,3 +63,15 @@
 
 + [库克刚刚年满 65 岁，谁将接棒苹果 CEO 之位引猜测](https://m.ithome.com/html/894879.htm)
 
++ [4199 元起史上最薄 Mate：华为 Mate 70 Air 官宣搭载麒麟 9020A / B](https://m.ithome.com/html/895233.htm)
+
++ [国产科幻片《流浪地球 3》吴京宇航服隐藏细节被看穿，有望支持更大外骨骼机械臂](https://m.ithome.com/html/895180.htm)
+
++ [史上最薄 Mate：华为 Mate 70 Air 新机今日 10:08 开启预售](https://m.ithome.com/html/895214.htm)
+
++ [华为 Mate70 Air 首次可选 CPU：麒麟 9020A 和 B 有何区别，官方客服回应](https://m.ithome.com/html/895274.htm)
+
++ [消息称某厂 Air 新机配备 7 英寸大屏 + 超 6000mAh 电池，预计是华为 Mate 70 Air](https://m.ithome.com/html/895168.htm)
+
++ [英国农业部斥资 3.12 亿英镑升级 Win10 系统，恰逢微软终止支持](https://m.ithome.com/html/895150.htm)
+
