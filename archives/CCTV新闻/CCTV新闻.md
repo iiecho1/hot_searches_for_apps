@@ -207,3 +207,7 @@
 
 + [特朗普再次指责南非 并重申不会出席G20峰会](https://news.cctv.com/2025/11/06/ARTIriZihvzcQTrBVqKYElJ6251106.shtml)
 
++ [朝鲜为金永南举行国葬](https://news.cctv.com/2025/11/06/ARTIBNmGblotQ506z35QiVbf251106.shtml)
+
++ [视频丨《南京照相馆》在韩国首映 观众深受触动](https://news.cctv.com/2025/11/06/ARTIQdtJNn5pJHUlJM6sBgeZ251106.shtml)
+

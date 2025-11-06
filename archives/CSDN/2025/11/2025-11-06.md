@@ -175,3 +175,13 @@
 
 + [基于深度学习的无人机红外检测系统（车辆行人检测）（YOLOv10+YOLO数据集+UI界面+Python项目源码+模型）](https://blog.csdn.net/BQAIT/article/details/154441075)
 
++ [MySQL SQL注入防御全攻略：原理、攻击与防护实践](https://blog.csdn.net/qq_41840843/article/details/154475332)
+
++ [时序数据库选型指南：从大数据视角切入，聚焦 Apache IoTDB](https://blog.csdn.net/liu_chen_yang/article/details/154475436)
+
++ [【花雕动手做】CanMV K230 AI视觉识别模块之使用摄像头显示](https://blog.csdn.net/weixin_41659040/article/details/154402733)
+
++ [构建高可靠 OpenEuler 运维体系：从虚拟化部署到 Systemd 自动化核心实践](https://blog.csdn.net/2301_80863610/article/details/154480787)
+
++ [Python爬虫实战：深入解析BitTorrent种子文件与DHT网络爬取技术](https://blog.csdn.net/2201_76125261/article/details/154477514)
+
