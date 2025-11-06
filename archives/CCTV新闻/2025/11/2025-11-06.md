@@ -193,3 +193,7 @@
 
 + [美坠毁货机两个“黑匣子”已成功回收](https://news.cctv.com/2025/11/06/ARTI91Xk7OZkNzlzVebaQBlc251106.shtml)
 
++ [美国肯塔基州货机坠毁遇难人数升至12人](https://news.cctv.com/2025/11/06/ARTIP8myQjWcYerYL4JXxRFF251106.shtml)
+
++ [俄核动力武器“海燕”“波塞冬”接连亮相 美再试射“民兵3”](https://news.cctv.com/2025/11/06/ARTIQlTqoh8Hx6fAEa3YY2nO251106.shtml)
+
