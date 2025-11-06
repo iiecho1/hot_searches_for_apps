@@ -191,3 +191,9 @@
 
 + [面向 Spring Boot 的 JVM 深度解析](https://blog.csdn.net/EscaRC/article/details/154455780)
 
++ [C++ 如何支撑 LLM 与系统底座：高性能计算的基石](https://blog.csdn.net/Liudef06/article/details/154475687)
+
++ [嵌入式项目：韦东山驱动开发第六篇 项目总结——显示系统（framebuffer编程）](https://blog.csdn.net/qq_52803642/article/details/154427232)
+
++ [Vue 指令系统深度解析：条件渲染的艺术（v-if/v-else-if/v-else 与 v-show 的实战指南）](https://blog.csdn.net/qq_40303030/article/details/153620222)
+
