@@ -211,3 +211,7 @@
 
 + [视频丨《南京照相馆》在韩国首映 观众深受触动](https://news.cctv.com/2025/11/06/ARTIQdtJNn5pJHUlJM6sBgeZ251106.shtml)
 
++ [美国：破纪录的日子 不光彩的一天](https://news.cctv.com/2025/11/06/ARTI71B20KTRyVBEww0WjOAd251106.shtml)
+
++ [漫评美国政府停摆：“开门难”](https://news.cctv.com/2025/11/06/ARTIvpl5YvedovJGT5zmVqf6251106.shtml)
+
