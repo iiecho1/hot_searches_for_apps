@@ -197,3 +197,5 @@
 
 + [俄核动力武器“海燕”“波塞冬”接连亮相 美再试射“民兵3”](https://news.cctv.com/2025/11/06/ARTIQlTqoh8Hx6fAEa3YY2nO251106.shtml)
 
++ [菲律宾宣布进入国家灾难状态](https://news.cctv.com/2025/11/06/ARTIo4jrUKuGUAq0v1igCLFz251106.shtml)
+
