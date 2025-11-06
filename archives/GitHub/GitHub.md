@@ -37,3 +37,15 @@
 
 + [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
++ [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk)
+
++ [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon)
+
++ [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+
++ [ggml-org/ggml](https://github.com/ggml-org/ggml)
+
++ [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)
+
++ [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+
