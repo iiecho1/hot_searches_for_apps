@@ -167,3 +167,9 @@
 
 + [喀麦隆当选总统保罗·比亚宣誓就职](https://news.cctv.com/2025/11/07/ARTIRHsCp9iMfiGVsGRLgiXm251107.shtml)
 
++ [苏丹快速支援部队宣布同意实行人道主义停火](https://news.cctv.com/2025/11/07/ARTINS89GsYiDEiA4cceNwLu251107.shtml)
+
++ [玻利维亚前临时总统获释出狱](https://news.cctv.com/2025/11/07/ARTI9qKgJelv7ox0M97AE4zN251107.shtml)
+
++ [空管人员短缺 美国多地再次出现航班延误](https://news.cctv.com/2025/11/07/ARTIgOdIaF6krfwywrCCBYhy251107.shtml)
+
