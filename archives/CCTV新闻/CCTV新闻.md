@@ -199,3 +199,7 @@
 
 + [菲律宾宣布进入国家灾难状态](https://news.cctv.com/2025/11/06/ARTIo4jrUKuGUAq0v1igCLFz251106.shtml)
 
++ [美国联邦政府“停摆”创纪录](https://photo.cctv.com/2025/11/06/PHOAYWvumlp9dLYKIJGTyawq251106.shtml)
+
++ [第八届进博会｜多国领导人和国际组织负责人：期待共享中国超大规模市场机遇](https://news.cctv.com/2025/11/06/ARTIYW6HQyDFCWSiDN6lKMw0251106.shtml)
+
