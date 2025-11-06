@@ -161,3 +161,9 @@
 
 + [中国驻马尔代夫使馆提醒来马中国游客注意涉水安全](https://news.cctv.com/2025/11/03/ARTIbxiJ1uFcgd1bRIyeXFHw251103.shtml)
 
++ [视频丨美参议员提议：政府不“开门”国会议员就停薪](https://news.cctv.com/2025/11/07/ARTILiE2FZMKmKtD9Ug0wkge251107.shtml)
+
++ [埃及从美国追回36件文物](https://news.cctv.com/2025/11/07/ARTI5XwQ76nQ34KjNRK96hd0251107.shtml)
+
++ [喀麦隆当选总统保罗·比亚宣誓就职](https://news.cctv.com/2025/11/07/ARTIRHsCp9iMfiGVsGRLgiXm251107.shtml)
+

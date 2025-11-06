@@ -61,3 +61,5 @@
 
 + [[직캠] 22오토살롱위크 레이싱모델 송주아](https://m.acfun.cn/v/?ac=47981683)
 
++ [发布会上疯狂Diss友商，华为Mate70 Air不止余薄](https://m.acfun.cn/v/?ac=47985676)
+

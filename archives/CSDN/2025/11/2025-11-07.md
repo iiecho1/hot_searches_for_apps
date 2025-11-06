@@ -101,3 +101,13 @@
 
 + [安卓16提前发布能否改写移动生态格局](https://blog.csdn.net/sunhf_csdn/article/details/154458216)
 
++ [WSL+openEuler云原生实践：Docker全流程部署与多容器编排深度评测 ](https://blog.csdn.net/weixin_37800531/article/details/154487218)
+
++ [面向 Spring Boot 的 JVM 深度解析](https://blog.csdn.net/EscaRC/article/details/154455780)
+
++ [从Java后端到Python大模型：我的学习转型与规划](https://blog.csdn.net/2401_86509639/article/details/154457789)
+
++ [MySQL慢查询优化实战：从日志分析到SQL重构全流程](https://blog.csdn.net/xu11410/article/details/154449035)
+
++ [开源力量：GitCode+昇腾NPU 部署Mistral-7B-Instruct-v0.2模型的技术探索与经验总结](https://blog.csdn.net/IRpickstars/article/details/154427304)
+
