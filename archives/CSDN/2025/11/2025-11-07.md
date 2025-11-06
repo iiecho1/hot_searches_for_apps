@@ -111,3 +111,21 @@
 
 + [开源力量：GitCode+昇腾NPU 部署Mistral-7B-Instruct-v0.2模型的技术探索与经验总结](https://blog.csdn.net/IRpickstars/article/details/154427304)
 
++ [Java 大视界 -- Java 大数据在智能教育学习效果评估与教学质量改进实战](https://blog.csdn.net/atgfg/article/details/154382103)
+
++ [MySQL与Redis缓存一致性问题详解及解决方案](https://blog.csdn.net/qq_26664043/article/details/154434698)
+
++ [搭建AI资讯早报：AiOnly全球大模型服务+N8N自动化工作流实战](https://blog.csdn.net/weixin_66401877/article/details/154403025)
+
++ [从0到1打造RISC-V智能家居中控：硬件+固件+通信全链路实战](https://blog.csdn.net/qq_41187124/article/details/154458114)
+
++ [Java Spring Boot 项目 Docker 容器化部署教程](https://blog.csdn.net/qq_34707272/article/details/154454882)
+
++ [cursor和传统idea的区别是什么？](https://blog.csdn.net/2503_91960030/article/details/154458873)
+
++ [深度解析C++类与对象操作(1)](https://blog.csdn.net/2401_86523238/article/details/151931408)
+
++ [基于Vue的学分预警系统98k51（程序 + 源码 + 数据库 + 调试部署 + 开发环境配置），配套论文文档字数达万字以上，文末可获取，系统界面展示置于文末](https://blog.csdn.net/2509_93101891/article/details/154450257)
+
++ [Linux信号（下）：信号保存和信号处理](https://blog.csdn.net/Surplus886/article/details/154349681)
+
