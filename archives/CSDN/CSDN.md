@@ -141,3 +141,11 @@
 
 + [湖南首条免费高速轨迹呈现：借助 Leaflet -Trackplayer 实现 WebGIS 可视化](https://blog.csdn.net/yelangkingwuzuhu/article/details/154457048)
 
++ [基于 LangChain4j 的文件名 AI 翻译助手：从设计到实现的全流程指南](https://blog.csdn.net/weixin_73273374/article/details/154441800)
+
++ [GitHub 热榜项目 - 日榜(2025-11-04)](https://blog.csdn.net/u014390502/article/details/154383074)
+
++ [Nginx高可用配置实战：负载均衡 + 健康检查 + 动态扩展](https://blog.csdn.net/xu11410/article/details/154427167)
+
++ [Elasticsearch - Elasticsearch 过滤查询（filter）与普通查询的差异](https://blog.csdn.net/qq_41187124/article/details/154153883)
+

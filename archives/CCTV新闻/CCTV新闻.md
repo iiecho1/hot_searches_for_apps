@@ -181,3 +181,15 @@
 
 + [埃尔多安：土耳其与库尔德工人党和平进程进入“决定性阶段”](https://news.cctv.com/2025/11/06/ARTIBHNo0yjkoZAmVaUkvPSa251106.shtml)
 
++ [台风“海鸥”已致菲律宾114人死亡 127人失踪](https://news.cctv.com/2025/11/06/ARTIoe0o0hOzx2wSwndXTfv8251106.shtml)
+
++ [中方呼吁国际社会稳妥推进阿卜耶伊政治进程](https://news.cctv.com/2025/11/06/ARTIQVaM7xWxyLWf9HOeXYXh251106.shtml)
+
++ [玻利维亚最高法院下令释放前临时总统](https://news.cctv.com/2025/11/06/ARTIc8fSo2dsZ0xSDJPSDzTc251106.shtml)
+
++ [美货机坠毁事故死亡人数升至11人](https://news.cctv.com/2025/11/06/ARTIf428m8r8FEgiDknlzPFi251106.shtml)
+
++ [波黑将全国悼念养老院火灾遇难者](https://news.cctv.com/2025/11/06/ARTIPjqrOBcaRh21gi2nHAed251106.shtml)
+
++ [美坠毁货机两个“黑匣子”已成功回收](https://news.cctv.com/2025/11/06/ARTI91Xk7OZkNzlzVebaQBlc251106.shtml)
+
