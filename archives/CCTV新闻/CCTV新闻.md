@@ -175,3 +175,7 @@
 
 + [日本北海道一高中60余名学生食物中毒](https://news.cctv.com/2025/11/07/ARTIOCRDRKRbHofGmWX6sHIA251107.shtml)
 
++ [秘鲁宣布墨西哥总统为“不受欢迎的人”](https://news.cctv.com/2025/11/07/ARTIEu5O5wlJH2Tip99q9Unv251107.shtml)
+
++ [英国国王签署诏书 正式剥夺安德鲁王子头衔](https://news.cctv.com/2025/11/07/ARTI9ud4Tza6BJQLaQ3K8hbU251107.shtml)
+
