@@ -171,3 +171,7 @@
 
 + [Spring AI ： 探秘 SpringAI 架构解析](https://blog.csdn.net/yangshangwei/article/details/154261918)
 
++ [【仓颉开发HarmonyOS系列】仓颉网络请求功能封装](https://blog.csdn.net/sjw890821sjw/article/details/154410170)
+
++ [基于深度学习的无人机红外检测系统（车辆行人检测）（YOLOv10+YOLO数据集+UI界面+Python项目源码+模型）](https://blog.csdn.net/BQAIT/article/details/154441075)
+
