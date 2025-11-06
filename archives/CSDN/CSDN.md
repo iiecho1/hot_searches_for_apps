@@ -169,3 +169,5 @@
 
 + [如何使用网站批量发布工具高效运营博客](https://blog.csdn.net/lxcxjxhx/article/details/154474927)
 
++ [Spring AI ： 探秘 SpringAI 架构解析](https://blog.csdn.net/yangshangwei/article/details/154261918)
+

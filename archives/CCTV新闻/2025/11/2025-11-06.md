@@ -203,3 +203,7 @@
 
 + [第八届进博会｜多国领导人和国际组织负责人：期待共享中国超大规模市场机遇](https://news.cctv.com/2025/11/06/ARTIYW6HQyDFCWSiDN6lKMw0251106.shtml)
 
++ [联合国教科文组织通过首个神经技术伦理建议书](https://news.cctv.com/2025/11/06/ARTIqH1wPqSkfeAIJPTQGuT1251106.shtml)
+
++ [特朗普再次指责南非 并重申不会出席G20峰会](https://news.cctv.com/2025/11/06/ARTIriZihvzcQTrBVqKYElJ6251106.shtml)
+
