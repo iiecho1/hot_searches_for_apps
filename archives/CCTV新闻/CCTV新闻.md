@@ -179,3 +179,7 @@
 
 + [英国国王签署诏书 正式剥夺安德鲁王子头衔](https://news.cctv.com/2025/11/07/ARTI9ud4Tza6BJQLaQ3K8hbU251107.shtml)
 
++ [不到一年 美国政府吊销8万份非移民签证](https://news.cctv.com/2025/11/07/ARTIIHUYgs4U988n6QY2eygd251107.shtml)
+
++ [美政府通报海上“扫毒”进展 议员“需要更多答案”](https://news.cctv.com/2025/11/07/ARTIiIHA6nv1Az2NaGBHGqh5251107.shtml)
+

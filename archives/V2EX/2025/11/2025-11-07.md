@@ -25,3 +25,11 @@
 
 + [如果你也有搞副业的想法，欢迎加入副业搭子群！](https://www.v2ex.com/t/1170996)
 
++ [对于 Java 开发人员来说，如果想做一款 app 同时应用在 Android 和 IOS，推荐什么编程语言？](https://www.v2ex.com/t/1170994)
+
++ [机场最近到期了，有推荐的吗](https://www.v2ex.com/t/1171108)
+
++ [你们使用的是波轮洗衣机还是滚筒洗衣机，觉得哪种好？](https://www.v2ex.com/t/1170958)
+
++ [Apple TV 第七代到货了，好开心啊！](https://www.v2ex.com/t/1171020)
+
