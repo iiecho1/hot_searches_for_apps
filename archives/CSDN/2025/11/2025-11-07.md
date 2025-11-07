@@ -137,3 +137,7 @@
 
 + [数控直流电流源设计指南：基于MCU+FPGA的精密控制与低功耗优化](https://blog.csdn.net/wisdom_19860320/article/details/154448092)
 
++ [LangChain完整教程：六大组件+分层设计+完整项目实战](https://blog.csdn.net/2301_77705369/article/details/154491844)
+
++ [HarmonyOS开发-系统AI能力-语音转文字](https://blog.csdn.net/aftvc_xwq/article/details/154492643)
+
