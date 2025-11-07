@@ -209,3 +209,9 @@
 
 + [【咨询】Android Studio 第三方手机模拟器对比【202511】](https://blog.csdn.net/2501_90561511/article/details/154448485)
 
++ [机器学习、深度学习、大模型 是什么关系？](https://blog.csdn.net/qq_25547755/article/details/154487823)
+
++ [用 Focalboard 搭私有看板？加个cpolar，异地协作也顺手](https://blog.csdn.net/weixin_44976692/article/details/154529929)
+
++ [FPGA核心约束类型与语法](https://blog.csdn.net/GateWorld/article/details/154502864)
+
