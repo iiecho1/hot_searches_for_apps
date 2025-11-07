@@ -101,3 +101,13 @@
 
 + [EventOS：面向MCU的事件驱动框架](https://blog.csdn.net/qq_39543984/article/details/154498119)
 
++ [vue3 + vite + element-plus 前端项目实战](https://blog.csdn.net/Bugs_6/article/details/154493200)
+
++ [GitHub 热榜项目 - 日榜(2025-11-06)](https://blog.csdn.net/u014390502/article/details/154474999)
+
++ [FPGA核心约束类型与语法](https://blog.csdn.net/GateWorld/article/details/154502864)
+
++ [智能决策算法的核心原理是什么？](https://blog.csdn.net/shanshuinfo/article/details/154500879)
+
++ [开源力量：GitCode+昇腾NPU 部署Mistral-7B-Instruct-v0.2模型的技术探索与经验总结](https://blog.csdn.net/IRpickstars/article/details/154427304)
+
