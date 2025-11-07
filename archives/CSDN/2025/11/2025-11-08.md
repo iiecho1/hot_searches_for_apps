@@ -111,3 +111,13 @@
 
 + [开源力量：GitCode+昇腾NPU 部署Mistral-7B-Instruct-v0.2模型的技术探索与经验总结](https://blog.csdn.net/IRpickstars/article/details/154427304)
 
++ [从Python到仓颉：核心项目内容迁移实践](https://blog.csdn.net/qq_52354698/article/details/154502287)
+
++ [从成本到战略：金仓 KingbaseES 的多维度优势与企业数据库选型的核心考量](https://blog.csdn.net/lrq13965748542/article/details/154455287)
+
++ [微服务之OpenFeign、hystrix熔断降级、loadbalancer负载均衡](https://blog.csdn.net/weixin_71219171/article/details/154336028)
+
++ [实时将大模型的解决方案转换为随机应变的机器人指令](https://blog.csdn.net/diannao720/article/details/154492058)
+
++ [iOS 抓不到包怎么办？工程化排查与替代抓包方案（抓包/HTTPS/Charles代理/tcpdump）](https://blog.csdn.net/2501_91592143/article/details/154447781)
+
