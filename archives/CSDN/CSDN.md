@@ -167,3 +167,17 @@
 
 + [【Linux工具链】从跨平台适配到一键部署：yum多架构支持+Vim远程编辑+gcc交叉编译，解决多场景开发效率瓶颈](https://blog.csdn.net/2402_87731470/article/details/154518463)
 
++ [Rust开发之如何使用智能指针管理堆上数据（Box＜T＞）](https://blog.csdn.net/xiongfeng_ge/article/details/154522875)
+
++ [智慧党建|党务学习|基于SprinBoot+vue的智慧党建学习平台(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154521825)
+
++ [VSCode+Cline部署本地爬虫fetch-mcp实战](https://blog.csdn.net/m0_74385041/article/details/154244835)
+
++ [【花雕动手做】CanMV K230 AI视觉识别模块之使用照相机](https://blog.csdn.net/weixin_41659040/article/details/154481944)
+
++ [示波器验证LabVIEW采集波形](https://blog.csdn.net/bjcyck/article/details/154520120)
+
++ [不用服务器也能远程控 Linux？docker-webtop+cpolar 实测有效](https://blog.csdn.net/Zero_VPN/article/details/154396853)
+
++ [基于Hadoop+数据可视化+网络爬虫+机器学习随机森林预测算法+智能AI大模型+协同过滤推荐算法的招聘岗位信息推荐系统荐系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/154522864)
+
