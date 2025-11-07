@@ -145,3 +145,17 @@
 
 + [计算机图形中的法线矩阵：深入理解与应用](https://blog.csdn.net/2503_92624912/article/details/154315691)
 
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在能源行业设备状态监测与故障预测中的应用](https://blog.csdn.net/atgfg/article/details/154446664)
+
++ [技术面：SpringBoot（springboot的类加载和传统的双亲委派有什么区别、如何按顺序实例化Bean）](https://blog.csdn.net/qq_35165000/article/details/154392613)
+
++ [GitHub 热榜项目 - 日榜(2025-11-06)](https://blog.csdn.net/u014390502/article/details/154474999)
+
++ [[linux仓库]多线程数据竞争？一文搞定互斥锁与原子操作[线程·伍]](https://blog.csdn.net/egoist2023/article/details/154499397)
+
++ [ref 和 reactive的区别与用法](https://blog.csdn.net/2301_81440348/article/details/154399977)
+
++ [借助 Kiro：实现《晚间手机免打扰》应用，破解深夜刷屏困境](https://blog.csdn.net/CC1991_/article/details/154458859)
+
++ [ 乐鑫ESP32-C2小尺寸高性价比，物联网应用的理想无线连接方案](https://blog.csdn.net/m0_59195407/article/details/154385790)
+

@@ -183,3 +183,13 @@
 
 + [美政府通报海上“扫毒”进展 议员“需要更多答案”](https://news.cctv.com/2025/11/07/ARTIiIHA6nv1Az2NaGBHGqh5251107.shtml)
 
++ [秘鲁国会宣布墨西哥总统为“不受欢迎的人”](https://news.cctv.com/2025/11/07/ARTIFTX6IDz9ELp8TuFLVfBi251107.shtml)
+
++ [2032年才能完成！法国审计法院批卢浮宫安保升级缓慢](https://news.cctv.com/2025/11/07/ARTI1tjt3WlCI33UT9237aO4251107.shtml)
+
++ [2032年才能完成！法国审计法院批卢浮宫安保升级缓慢](https://news.cctv.com/2025/11/07/ARTIvyabjlWFyDuEvblty3I4251107.shtml)
+
++ [通讯｜青春搭桥　情谊续航——“Z世代”为中国－中亚合作注入新动力](https://news.cctv.com/2025/11/07/ARTIVzX4ENx3Qr1EzXdKIO9a251107.shtml)
+
++ [第八届进博会丨彰显开放姿态 共享发展机遇——海外媒体聚焦第八届进博会](https://news.cctv.com/2025/11/07/ARTItBLYhG6Wv6XG6wt2uF5r251107.shtml)
+
