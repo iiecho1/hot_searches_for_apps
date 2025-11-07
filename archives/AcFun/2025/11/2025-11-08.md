@@ -65,3 +65,5 @@
 
 + [【4K MMD】夕阳！制服！少女！ YYB式初音ミク「夕日坂」](https://m.acfun.cn/v/?ac=47988380)
 
++ [青春疼痛文学](https://m.acfun.cn/v/?ac=47989559)
+
