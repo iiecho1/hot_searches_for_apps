@@ -197,3 +197,7 @@
 
 + [北美观察丨日进2亿美元？马斯克天价薪酬如何影响特斯拉？](https://news.cctv.com/2025/11/07/ARTIFT63khCSXzI5CjtS53Kj251107.shtml)
 
++ [专访：进博会充分展示中国持续扩大开放的诚意——访卢旺达驻华大使](https://news.cctv.com/2025/11/07/ARTIz7Oh49pAA9D5kBMe9GrQ251107.shtml)
+
++ [美政府“停摆” 超3万名联邦雇员持续申领失业救济](https://news.cctv.com/2025/11/07/ARTI9lEaDElIQyZip53mTY2Y251107.shtml)
+

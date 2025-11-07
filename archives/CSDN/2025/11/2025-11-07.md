@@ -191,3 +191,9 @@
 
 + [【论文学习】基于 Transformer 的图像分割模型](https://blog.csdn.net/m0_62969865/article/details/154455186)
 
++ [Python高效数据采集实战：基于IPIDEA代理的全方位教程](https://blog.csdn.net/weixin_43151418/article/details/154397564)
+
++ [跨地域传文件太麻烦？Nginx+cpolar 让本地服务直接公网访问](https://blog.csdn.net/2301_80350265/article/details/154528767)
+
++ [EventOS：面向MCU的事件驱动框架](https://blog.csdn.net/qq_39543984/article/details/154498119)
+
