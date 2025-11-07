@@ -181,3 +181,13 @@
 
 + [基于Hadoop+数据可视化+网络爬虫+机器学习随机森林预测算法+智能AI大模型+协同过滤推荐算法的招聘岗位信息推荐系统荐系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/154522864)
 
++ [【花雕动手做】CanMV K230 AI 视觉识别模块之线段检测](https://blog.csdn.net/weixin_41659040/article/details/154486939)
+
++ [Transformer实战（24）——通过数据增强提升Transformer模型性能](https://blog.csdn.net/LOVEmy134611/article/details/147934628)
+
++ [和平精英java 游戏程序](https://blog.csdn.net/2501_92985495/article/details/154502886)
+
++ [从普通屏到 明基RD320U：一台显示器如何提升我的编码效率？](https://blog.csdn.net/Rqaqedamancy/article/details/154525478)
+
++ [【论文学习】基于 Transformer 的图像分割模型](https://blog.csdn.net/m0_62969865/article/details/154455186)
+
