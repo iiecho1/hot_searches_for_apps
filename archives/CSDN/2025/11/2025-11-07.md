@@ -197,3 +197,9 @@
 
 + [EventOS：面向MCU的事件驱动框架](https://blog.csdn.net/qq_39543984/article/details/154498119)
 
++ [语义分割详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/154402534)
+
++ [《Linux 进阶必备：命名管道与日志制作：原理、实操、优化全流程（中篇）》](https://blog.csdn.net/Dovis5884/article/details/153930029)
+
++ [无人机远距离无线通信模块：突破空中通信的未来之钥](https://blog.csdn.net/veally/article/details/154401025)
+
