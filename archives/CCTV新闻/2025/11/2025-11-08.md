@@ -161,3 +161,9 @@
 
 + [台风“海鸥”已致菲律宾26人死亡](https://news.cctv.com/2025/11/04/ARTIocqNv896dr3VyQhcrBg3251104.shtml)
 
++ [国际原子能机构：扎波罗热核电站周边实施局部停火](https://news.cctv.com/2025/11/08/ARTIo4WxZqC8OBJHRVXugWZ8251108.shtml)
+
++ [世粮署：刚果（金）东部300万人陷饥荒](https://news.cctv.com/2025/11/08/ARTIqVh9JxVkL82CIVLzpnpw251108.shtml)
+
++ [美防长称将对五角大楼武器采购流程进行系统改革](https://news.cctv.com/2025/11/08/ARTIbhp7HUfAvBVJIcAlVrxW251108.shtml)
+
