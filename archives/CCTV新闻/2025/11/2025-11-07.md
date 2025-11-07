@@ -201,3 +201,7 @@
 
 + [美政府“停摆” 超3万名联邦雇员持续申领失业救济](https://news.cctv.com/2025/11/07/ARTI9lEaDElIQyZip53mTY2Y251107.shtml)
 
++ [卢浮宫馆长称在劫案中受损的皇冠将修复重展](https://news.cctv.com/2025/11/07/ARTIr3L74WnuyhdtypqkhNe9251107.shtml)
+
++ [俄称进入波克罗夫斯克“逐屋战斗” 俄乌战局会就此扭转吗？](https://news.cctv.com/2025/11/07/ARTI6V0INnKlsOuTH2FfvYhS251107.shtml)
+
