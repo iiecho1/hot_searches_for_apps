@@ -193,3 +193,5 @@
 
 + [第八届进博会丨彰显开放姿态 共享发展机遇——海外媒体聚焦第八届进博会](https://news.cctv.com/2025/11/07/ARTItBLYhG6Wv6XG6wt2uF5r251107.shtml)
 
++ [日韩通报朝鲜发射弹道导弹 朝方暂无回应](https://news.cctv.com/2025/11/07/ARTILCxvJUOXciZEI7riIMCY251107.shtml)
+

@@ -163,3 +163,5 @@
 
 + [Vue3 KeepAlive（缓存组件实例）](https://blog.csdn.net/qq_39055970/article/details/154451756)
 
++ [从零到上线：Spring Boot 3 + Spring Cloud Alibaba + Vue 3 构建高可用 RBAC 微服务系统（超详细实战）](https://blog.csdn.net/weixin_52208686/article/details/154430100)
+
