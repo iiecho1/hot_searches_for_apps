@@ -27,3 +27,33 @@
 
 + [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
++ [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
++ [lima-vm/lima](https://github.com/lima-vm/lima)
+
++ [awslabs/mcp](https://github.com/awslabs/mcp)
+
++ [usestrix/strix](https://github.com/usestrix/strix)
+
++ [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+
++ [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [GoogleCloudPlatform/vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
+
++ [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)
+
++ [antiwork/gumroad](https://github.com/antiwork/gumroad)
+
++ [coder/code-server](https://github.com/coder/code-server)
+
++ [remix-run/react-router](https://github.com/remix-run/react-router)
+
++ [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
+

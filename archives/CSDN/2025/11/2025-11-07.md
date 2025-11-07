@@ -215,3 +215,11 @@
 
 + [FPGA核心约束类型与语法](https://blog.csdn.net/GateWorld/article/details/154502864)
 
++ [Ubuntu 22.04.5系统使用k8s v1.33.4部署若依微服务（ruoyi-cloud）运行容器使用containerd 1.7.13](https://blog.csdn.net/2401_87457212/article/details/154530844)
+
++ [【AI系列】Milvus向量数据库引擎](https://blog.csdn.net/qyj19920704/article/details/154458531)
+
++ [智能决策算法的核心原理是什么？](https://blog.csdn.net/shanshuinfo/article/details/154500879)
+
++ [RK3588 安全体系全解析：Secure Boot 与 OP-TEE 深度解析（对比 Jetson 平台）](https://blog.csdn.net/Interview_TC/article/details/154534802)
+
