@@ -165,3 +165,5 @@
 
 + [从零到上线：Spring Boot 3 + Spring Cloud Alibaba + Vue 3 构建高可用 RBAC 微服务系统（超详细实战）](https://blog.csdn.net/weixin_52208686/article/details/154430100)
 
++ [【Linux工具链】从跨平台适配到一键部署：yum多架构支持+Vim远程编辑+gcc交叉编译，解决多场景开发效率瓶颈](https://blog.csdn.net/2402_87731470/article/details/154518463)
+

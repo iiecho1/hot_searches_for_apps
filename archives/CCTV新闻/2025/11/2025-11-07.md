@@ -195,3 +195,5 @@
 
 + [日韩通报朝鲜发射弹道导弹 朝方暂无回应](https://news.cctv.com/2025/11/07/ARTILCxvJUOXciZEI7riIMCY251107.shtml)
 
++ [北美观察丨日进2亿美元？马斯克天价薪酬如何影响特斯拉？](https://news.cctv.com/2025/11/07/ARTIFT63khCSXzI5CjtS53Kj251107.shtml)
+
