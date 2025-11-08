@@ -193,3 +193,9 @@
 
 + [第八届进博会丨专访：期待进博会推动斯中企业建立长期合作伙伴关系——访斯洛文尼亚国民委员会主席洛特里奇](https://news.cctv.com/2025/11/08/ARTIsrvSDq2Dvk5CDfSJWBv4251108.shtml)
 
++ [石破茂谈卸任：能随时去吃拉面，很开心](https://news.cctv.com/2025/11/08/ARTI2npfiLzckVY60E6w9vrd251108.shtml)
+
++ [荷兰一养殖场暴发禽流感 扑杀12万只家禽](https://news.cctv.com/2025/11/08/ARTIhfiwglgNzLq1qnz9gfaD251108.shtml)
+
++ [南非被任命为南共体临时主席国](https://news.cctv.com/2025/11/08/ARTIOhBljgFbVEpna1jR6oSu251108.shtml)
+
