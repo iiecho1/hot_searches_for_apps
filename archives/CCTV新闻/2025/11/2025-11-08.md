@@ -183,3 +183,9 @@
 
 + [美最高法院发布紧急命令暂停全额发放食品救济金](https://news.cctv.com/2025/11/08/ARTIiEgquSMnUIzJ7jAECCN0251108.shtml)
 
++ [印尼雅加达学校爆炸事件已致96人受伤 警方锁定一名嫌疑人](https://news.cctv.com/2025/11/08/ARTIoi9ndNOOhzy9m0zUJ4hn251108.shtml)
+
++ [探访雅加达爆炸高中现场：警方锁定嫌疑人 校园周边恢复平静](https://news.cctv.com/2025/11/08/ARTINnyWmaHMZFmgv5cTbtWL251108.shtml)
+
++ [加拿大总理称加美经济关系已结束，减少对美依赖才是繁荣基石](https://news.cctv.com/2025/11/08/ARTIUNqLWR0HfcBkZ7BRBIVg251108.shtml)
+

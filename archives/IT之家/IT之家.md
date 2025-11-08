@@ -65,3 +65,13 @@
 
 + [微信 iOS 版 8.0.65 最新官方正式版下载发布](https://m.ithome.com/html/895692.htm)
 
++ [荷兰将归还安世半导体控制权，关键汽车芯片恢复供应](https://m.ithome.com/html/895841.htm)
+
++ [API 21 登场：华为鸿蒙 HarmonyOS 6.0.1 (21) Beta 版本说明发布](https://m.ithome.com/html/895739.htm)
+
++ [苹果美国官网闹乌龙，4 件装 AirTag 与单个装同价仅 29 美元](https://m.ithome.com/html/895788.htm)
+
++ [特斯拉 Model Y 长续航后轮驱动版上市：28.85 万元，CLTC 续航 821km](https://m.ithome.com/html/895814.htm)
+
++ [小米澎湃 OS 3 相机全新运动水印全量推送](https://m.ithome.com/html/895761.htm)
+
