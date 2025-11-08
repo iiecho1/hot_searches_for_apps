@@ -161,3 +161,11 @@
 
 + [欧航局成功发射“哨兵-1D”卫星](https://news.cctv.com/2025/11/05/ARTIvCFPLKAYGHhtYNym9XWU251105.shtml)
 
++ [坠机致死14人 全球两大货运公司停飞麦道11型货机](https://news.cctv.com/2025/11/09/ARTIq1jbvnZhJUcbU87OJnVa251109.shtml)
+
++ [扎波罗热核电站两条外部供电线路均已完成修复](https://news.cctv.com/2025/11/09/ARTI10HhAu5CVMNJQoGPspaY251109.shtml)
+
++ [哥伦比亚挫败一起针对军方设施的未遂袭击](https://news.cctv.com/2025/11/09/ARTIqKC91kQdoblmzbUVCoBV251109.shtml)
+
++ [美国得州圣安东尼奥发生枪击 包括嫌犯在内4人死亡](https://news.cctv.com/2025/11/09/ARTIKXhhxE6MmJPqp5OvqTuU251109.shtml)
+
