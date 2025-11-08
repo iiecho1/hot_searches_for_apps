@@ -139,3 +139,13 @@
 
 + [【花雕学编程】Arduino BLDC 之双轮差速机器人轨迹绘图](https://blog.csdn.net/weixin_41659040/article/details/154557408)
 
++ [技术融合创新：Trae+KAT-Coder+GLM-4.6打造医疗报告翻译官](https://blog.csdn.net/IRpickstars/article/details/154551215)
+
++ [计算机网络：基于TCP协议的自定义协议实现网络计算器功能](https://blog.csdn.net/2405_82488515/article/details/154337141)
+
++ [【HarmonyOS-App发布】](https://blog.csdn.net/sinat_23896491/article/details/154499816)
+
++ [人工神经网络（2025年秋）：第三次作业](https://blog.csdn.net/zhuoqingjoking97298/article/details/154560385)
+
++ [Vue 3 emit 参数数量不匹配问题深度解析与最佳实践](https://blog.csdn.net/csdn_silent/article/details/154455081)
+

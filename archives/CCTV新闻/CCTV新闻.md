@@ -175,3 +175,5 @@
 
 + [联合国秘书长：美国在加勒比和东太平洋空袭违反国际人道法](https://news.cctv.com/2025/11/08/ARTIL2oGXXHr5CPnyxt31CSD251108.shtml)
 
++ [四川阿坝州：九寨沟景区迎彩林最佳观赏期](https://photo.cctv.com/2025/11/08/PHOABpJ2gxxBF3pt9l5wQA1k251108.shtml)
+

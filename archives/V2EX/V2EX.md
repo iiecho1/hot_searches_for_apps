@@ -45,3 +45,7 @@
 
 + [magic keyboard 带触控 id 的那款键盘怎么样？](https://www.v2ex.com/t/1171215)
 
++ [怎么应付给老婆拍照这种历史难题？](https://www.v2ex.com/t/1171311)
+
++ [给威联通装了飞牛系统，才算真正有了个 NAS](https://www.v2ex.com/t/1171297)
+
