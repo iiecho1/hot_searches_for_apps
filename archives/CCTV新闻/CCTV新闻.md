@@ -177,3 +177,5 @@
 
 + [四川阿坝州：九寨沟景区迎彩林最佳观赏期](https://photo.cctv.com/2025/11/08/PHOABpJ2gxxBF3pt9l5wQA1k251108.shtml)
 
++ [日本流感疫情扩散 新确诊病例数翻番](https://news.cctv.com/2025/11/08/ARTIGrnwG8si0IKBt8lmSvEy251108.shtml)
+

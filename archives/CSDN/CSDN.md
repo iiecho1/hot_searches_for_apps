@@ -149,3 +149,7 @@
 
 + [Vue 3 emit 参数数量不匹配问题深度解析与最佳实践](https://blog.csdn.net/csdn_silent/article/details/154455081)
 
++ [Spring Boot 项目 GitLab CI/CD 自动构建并推送到 Harbor 教程](https://blog.csdn.net/qq_34707272/article/details/154455000)
+
++ [【数据集+完整源码】水稻病害数据集，yolov8水稻病害检测数据集 6715 张，目标检测水稻识别算法实战训推教程](https://blog.csdn.net/kyriehan/article/details/154474908)
+

@@ -49,3 +49,9 @@
 
 + [给威联通装了飞牛系统，才算真正有了个 NAS](https://www.v2ex.com/t/1171297)
 
++ [一位高级工程师的 GIT 需要熟悉到什么程度？](https://www.v2ex.com/t/1171324)
+
++ [慎用京东云，被 DDOS=清退](https://www.v2ex.com/t/1171214)
+
++ [用了 4 年的 M1 pro MBP，电池已经明显不耐用了，直营店检测电池容量 81% 拒绝 ac+质保](https://www.v2ex.com/t/1171283)
+
