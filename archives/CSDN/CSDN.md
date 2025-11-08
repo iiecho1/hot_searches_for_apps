@@ -111,3 +111,23 @@
 
 + [Vue3.4 Effect 作用域 API 与 React Server Components 实战解析](https://blog.csdn.net/qq_46123200/article/details/154545585)
 
++ [2025 年的热门 AI 编程工具评测：Cursor、Claude Code、Codex、Lovable、v0 等](https://blog.csdn.net/weixin_43829633/article/details/154401153)
+
++ [【RabbitMQ】工作模式实现](https://blog.csdn.net/yj20040627/article/details/153693175)
+
++ [【通用视觉框架】基于C#+VisionPro开发的视觉框架软件，全套源码，开箱即用](https://blog.csdn.net/m0_37302966/article/details/154402415)
+
++ [超时重传 vs 快速重传：TCP双保险如何拯救网络丢包？](https://blog.csdn.net/qq_44378083/article/details/150641940)
+
++ [Docker 加载镜像时报 no space left on device 的彻底解决方案](https://blog.csdn.net/qq_46548855/article/details/154539067)
+
++ [[linux仓库]多线程数据竞争？一文搞定互斥锁与原子操作[线程·伍]](https://blog.csdn.net/egoist2023/article/details/154499397)
+
++ [学习Linux——文件管理](https://blog.csdn.net/kblj5555/article/details/154545369)
+
++ [可编程逻辑器件学习(day3)：FPGA设计方法、开发流程与基于FPGA的SOC设计详解](https://blog.csdn.net/weixin_43260261/article/details/154433970)
+
++ [Maven高级](https://blog.csdn.net/2401_82484471/article/details/154544519)
+
++ [七家咨询公司的PPT标准配色模版（macos+Office LTSC Standard for Mac 2024）](https://blog.csdn.net/lixiaomie01/article/details/154534074)
+
