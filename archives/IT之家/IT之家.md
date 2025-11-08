@@ -47,3 +47,19 @@
 
 + [苹果喊话 iPhone 13 Pro / 14 Pro 钉子户，不如现在就换 17 Pro 吧](https://m.ithome.com/html/895489.htm)
 
++ [双卡双扬多摄大电池：华为 Mate 70 Air 国补后 3699 元再补货](https://m.ithome.com/html/895923.htm)
+
++ [“双 11”期间淘宝霸屏广告频现，杭州市监部门称已展开调查](https://m.ithome.com/html/895943.htm)
+
++ [支付宝推出“悠哟哟全球漫游一卡通”出境游 SIM 卡：内测价 9.9 元，支持 150 + 地区漫游服务](https://m.ithome.com/html/895877.htm)
+
++ [苹果低价版 MacBook 前瞻：LCD 屏幕略小于 13 英寸，A18 Pro 芯片、单 USB-C 接口](https://m.ithome.com/html/895889.htm)
+
++ [人形机器人，你看中了哪个？](https://m.ithome.com/html/895852.htm)
+
++ [中国电信 Apple Watch 一号双终端 eSIM 业务复通：需 iOS 26.1 设备，其他品牌智能手表后续恢复](https://m.ithome.com/html/895804.htm)
+
++ [消息称苹果直板 iPhone 手机屏下摄像头规划 2027 年上线，拥有 3D 屏下人脸](https://m.ithome.com/html/895896.htm)
+
++ [26H1 正式登场：微软推送 Win11 28000 预览版，预估专注优化骁龙 Arm 设备](https://m.ithome.com/html/895810.htm)
+
