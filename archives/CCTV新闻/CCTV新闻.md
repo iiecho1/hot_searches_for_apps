@@ -179,3 +179,7 @@
 
 + [日本流感疫情扩散 新确诊病例数翻番](https://news.cctv.com/2025/11/08/ARTIGrnwG8si0IKBt8lmSvEy251108.shtml)
 
++ [朝鲜国防相谴责美国近期军事行动](https://news.cctv.com/2025/11/08/ARTIHqW6sR4VFoQrPEMTKbjk251108.shtml)
+
++ [美最高法院发布紧急命令暂停全额发放食品救济金](https://news.cctv.com/2025/11/08/ARTIiEgquSMnUIzJ7jAECCN0251108.shtml)
+

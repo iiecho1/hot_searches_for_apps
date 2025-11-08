@@ -153,3 +153,9 @@
 
 + [【数据集+完整源码】水稻病害数据集，yolov8水稻病害检测数据集 6715 张，目标检测水稻识别算法实战训推教程](https://blog.csdn.net/kyriehan/article/details/154474908)
 
++ [C++ 方向 Web 自动化测试实战：以博客系统为例，从用例到报告全流程解析](https://blog.csdn.net/2503_91389547/article/details/152929131)
+
++ [PPOCRLabel完全指南：开源高效的OCR数据标注工具](https://blog.csdn.net/eidolon_foot/article/details/154458256)
+
++ [异常的回声——C++异常机制的堆栈回滚与性能真相](https://blog.csdn.net/htw250056/article/details/154538605)
+
