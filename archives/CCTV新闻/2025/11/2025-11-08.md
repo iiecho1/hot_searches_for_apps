@@ -167,3 +167,5 @@
 
 + [美防长称将对五角大楼武器采购流程进行系统改革](https://news.cctv.com/2025/11/08/ARTIbhp7HUfAvBVJIcAlVrxW251108.shtml)
 
++ [美航空公司宣布大规模航班削减计划](https://news.cctv.com/2025/11/08/ARTI81NfgUOGcfAdcWJT5MNO251108.shtml)
+
