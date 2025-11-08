@@ -131,3 +131,9 @@
 
 + [七家咨询公司的PPT标准配色模版（macos+Office LTSC Standard for Mac 2024）](https://blog.csdn.net/lixiaomie01/article/details/154534074)
 
++ [C++ 如何支撑 LLM 与系统底座：高性能计算的基石](https://blog.csdn.net/Liudef06/article/details/154475687)
+
++ [2025年09月26日 Go生态洞察：Go 1.25中的Flight Recorder：革命性的诊断工具](https://blog.csdn.net/qq_44866828/article/details/154502251)
+
++ [K8s从Docker到Containerd的迁移全流程实践](https://blog.csdn.net/yangyin007/article/details/154482607)
+
