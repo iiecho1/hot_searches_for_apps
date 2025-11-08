@@ -189,3 +189,11 @@
 
 + [金仓KingbaseES数据库：迁移、运维与成本优化的全面解析](https://blog.csdn.net/beautifulmemory/article/details/154456161)
 
++ [Vibe Coding - 免费使用claude code 、gpt-5、grok-code-fast-1进行氛围编程](https://blog.csdn.net/yangshangwei/article/details/154536204)
+
++ [音视频处理（三）：hls协议和m3u8详解和视频下载爬虫实战](https://blog.csdn.net/qq_40036519/article/details/154545090)
+
++ [HTML5 与前端开发要点](https://blog.csdn.net/qq_43032338/article/details/154491949)
+
++ [2025高校网络安全管理运维赛--电子取证分析师赛道-决赛WriteUp](https://blog.csdn.net/Aluxian_/article/details/154530699)
+
