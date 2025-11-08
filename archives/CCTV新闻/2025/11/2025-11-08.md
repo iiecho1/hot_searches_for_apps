@@ -169,3 +169,9 @@
 
 + [美航空公司宣布大规模航班削减计划](https://news.cctv.com/2025/11/08/ARTI81NfgUOGcfAdcWJT5MNO251108.shtml)
 
++ [美国消费者信心指数11月继续下滑](https://news.cctv.com/2025/11/08/ARTIPQqeBC9hEH6UVj5PGbr0251108.shtml)
+
++ [尹锡悦夫妇同日同法院受审 系韩国宪政史首次](https://news.cctv.com/2025/11/08/ARTIBX6N5XkvcOK8DVVZp9Zs251108.shtml)
+
++ [联合国秘书长：美国在加勒比和东太平洋空袭违反国际人道法](https://news.cctv.com/2025/11/08/ARTIL2oGXXHr5CPnyxt31CSD251108.shtml)
+

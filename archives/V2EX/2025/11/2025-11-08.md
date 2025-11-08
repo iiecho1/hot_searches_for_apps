@@ -37,3 +37,11 @@
 
 + [ChatGPT,Gemini,Claude 最佳付费方式是什么？](https://www.v2ex.com/t/1171184)
 
++ [关于购买车位的心路历程（最后没有买）](https://www.v2ex.com/t/1171256)
+
++ [香港中银和渣打的银联卡绑不了支付宝了吗](https://www.v2ex.com/t/1171282)
+
++ [有在用 flutter 的朋友吗，官方为何连这样基础的功能都不支持？](https://www.v2ex.com/t/1171228)
+
++ [magic keyboard 带触控 id 的那款键盘怎么样？](https://www.v2ex.com/t/1171215)
+
