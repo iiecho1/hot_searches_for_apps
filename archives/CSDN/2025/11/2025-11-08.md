@@ -167,3 +167,9 @@
 
 + [Vue3.4 Effect 作用域 API 与 React Server Components 实战解析](https://blog.csdn.net/qq_46123200/article/details/154545585)
 
++ [基于微服务脚手架的视频点播系统 (仿B站) [客户端] -1](https://blog.csdn.net/m0_74173186/article/details/154528197)
+
++ [用Python来学微积分34-定积分的基本性质及其应用](https://blog.csdn.net/weixin_38291577/article/details/154483419)
+
++ [现代C++的AI革命：C++20/C++23核心特性解析与实战应用](https://blog.csdn.net/qq_41640218/article/details/154564407)
+
