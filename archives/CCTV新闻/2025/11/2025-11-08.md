@@ -189,3 +189,7 @@
 
 + [加拿大总理称加美经济关系已结束，减少对美依赖才是繁荣基石](https://news.cctv.com/2025/11/08/ARTIUNqLWR0HfcBkZ7BRBIVg251108.shtml)
 
++ [美国单日上千航班取消 政府“停摆”或致航空运力削减20%](https://news.cctv.com/2025/11/08/ARTIiKBbP0eK6cSPY5VYzv0o251108.shtml)
+
++ [第八届进博会丨专访：期待进博会推动斯中企业建立长期合作伙伴关系——访斯洛文尼亚国民委员会主席洛特里奇](https://news.cctv.com/2025/11/08/ARTIsrvSDq2Dvk5CDfSJWBv4251108.shtml)
+
