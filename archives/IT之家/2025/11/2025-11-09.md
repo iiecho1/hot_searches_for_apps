@@ -25,3 +25,23 @@
 
 + [马斯克评价小鹏 IRON“身材不错”：整个机器人市场将由特斯拉和中国主导](https://m.ithome.com/html/895701.htm)
 
++ [荷兰将归还安世半导体控制权，关键汽车芯片恢复供应](https://m.ithome.com/html/895841.htm)
+
++ [零跑 Lafa 5 纯电运动两厢轿跑预售，10.58 万-13.18 万元](https://m.ithome.com/html/895757.htm)
+
++ [API 21 登场：华为鸿蒙 HarmonyOS 6.0.1 (21) Beta 版本说明发布](https://m.ithome.com/html/895739.htm)
+
++ [苹果美国官网闹乌龙，4 件装 AirTag 与单个装同价仅 29 美元](https://m.ithome.com/html/895788.htm)
+
++ [特斯拉 Model Y 长续航后轮驱动版上市：28.85 万元，CLTC 续航 821km](https://m.ithome.com/html/895814.htm)
+
++ [小米澎湃 OS 3 相机全新运动水印全量推送](https://m.ithome.com/html/895761.htm)
+
++ [消息称高通骁龙 8 Gen5 芯片暂定 11 月底发布](https://m.ithome.com/html/895847.htm)
+
++ [光刻机巨头 ASML 中国区总裁沈波：员工数已超 2000 人，同比去年增长约 10%](https://m.ithome.com/html/895777.htm)
+
++ [DeepSeek 研究员陈德里：AI 未来五至十年或取代部分人类工作，从业者须正视潜在风险](https://m.ithome.com/html/895790.htm)
+
++ [8499 → 5995 元：华为 Mate70 Pro + 手机终破六千，支持 12 期免息](https://m.ithome.com/html/895890.htm)
+

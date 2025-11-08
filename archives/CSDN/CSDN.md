@@ -101,3 +101,13 @@
 
 + [微服务之OpenFeign、hystrix熔断降级、loadbalancer负载均衡](https://blog.csdn.net/weixin_71219171/article/details/154336028)
 
++ [大数据Spark（七十二）：Transformation转换算子repartition和coalesce使用案例](https://blog.csdn.net/xiaoweite1/article/details/154562882)
+
++ [【数据集+完整源码】水稻病害数据集，yolov8水稻病害检测数据集 6715 张，目标检测水稻识别算法实战训推教程](https://blog.csdn.net/kyriehan/article/details/154474908)
+
++ [【linux】网络套接字编程（二）UDP服务器与客户端的实现，recvfrom，sendto，inet_addr，bzero](https://blog.csdn.net/2301_80751958/article/details/154427453)
+
++ [详解【限流算法】：令牌桶、漏桶、计算器算法及Java实现](https://blog.csdn.net/Muyu1uz/article/details/154572832)
+
++ [Vue3.4 Effect 作用域 API 与 React Server Components 实战解析](https://blog.csdn.net/qq_46123200/article/details/154545585)
+
