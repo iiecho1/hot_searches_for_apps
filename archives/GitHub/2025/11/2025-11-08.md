@@ -41,3 +41,19 @@
 
 + [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
 
++ [umami-software/umami](https://github.com/umami-software/umami)
+
++ [nocobase/nocobase](https://github.com/nocobase/nocobase)
+
++ [localstack/localstack](https://github.com/localstack/localstack)
+
++ [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
+
++ [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico)
+
++ [penpot/penpot](https://github.com/penpot/penpot)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)
+
