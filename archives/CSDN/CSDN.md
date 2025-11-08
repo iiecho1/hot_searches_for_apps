@@ -197,3 +197,9 @@
 
 + [2025高校网络安全管理运维赛--电子取证分析师赛道-决赛WriteUp](https://blog.csdn.net/Aluxian_/article/details/154530699)
 
++ [CANN 算子开发实战：从学习到实践的探索之路](https://blog.csdn.net/wudu_123456/article/details/154577854)
+
++ [【Linux网络】应用层协议HTTP](https://blog.csdn.net/2402_82670467/article/details/154454555)
+
++ [【Linux】Linux 地址空间 + 页表映射的概念解析](https://blog.csdn.net/wheeldown/article/details/154576918)
+
