@@ -143,3 +143,11 @@
 
 + [KingbaseES：从MySQL兼容到权限隔离与安全增强的跨越](https://blog.csdn.net/beautifulmemory/article/details/154566239)
 
++ [Opencv(九) : 图像旋转](https://blog.csdn.net/Mrliu__/article/details/154497025)
+
++ [Elasticsearch：相关性在 AI 代理上下文工程中的影响](https://blog.csdn.net/UbuntuTouch/article/details/154476908)
+
++ [WebSocket 完全指南：从原理到实战，搭建实时通信桥梁](https://blog.csdn.net/duduanwang/article/details/154544078)
+
++ [Python应用开发学习： Pygame 中实现数字水平靠右对齐和垂直靠底对齐](https://blog.csdn.net/bahamutj/article/details/154543640)
+
