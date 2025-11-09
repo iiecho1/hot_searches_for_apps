@@ -37,3 +37,25 @@
 
 + [微信 Windows / macOS 4.1.4 正式版发布：朋友圈评论可发表情和图片](https://m.ithome.com/html/895906.htm)
 
++ [消息称苹果 iPhone 17 系列国内激活销量超 825 万，本月预计可破 1000 万](https://m.ithome.com/html/896011.htm)
+
++ [T1 史无前例 S 赛三连冠，Faker 六冠加冕再铸《英雄联盟》魔王传奇](https://m.ithome.com/html/896102.htm)
+
++ [荣耀前 CEO 赵明回忆华为遭遇制裁：选择把钱留在公司共存亡，与团队并肩作战更重要](https://m.ithome.com/html/896012.htm)
+
++ [京东 11.11 狂促正式开启：1 分钟速读巅峰 52 小时攻略，3C 数码国补全国可领可用，至高加补 1000 元](https://m.ithome.com/html/896081.htm)
+
++ [荣耀前 CEO 赵明谈公司独立初期：谁愿意给我们芯片就用谁，轮不到挑挑拣拣](https://m.ithome.com/html/896036.htm)
+
++ [Model Y 高速发生事故：20 年驾龄车主质疑车有问题，特斯拉回应称涉事车辆不存在问题](https://m.ithome.com/html/896048.htm)
+
++ [小米推出新款 45W GaN 小布丁充电器 USB-C：不含数据线 54.9 元，兼容苹果 iPhone 快充](https://m.ithome.com/html/896034.htm)
+
++ [租电购买价 4.99 万元起，京东“国民好车”埃安 UT super 上市](https://m.ithome.com/html/896101.htm)
+
++ [多屏协同将回归：华为 HarmonyOS 6 / 5 平板预计今年 12 月支持鸿蒙 / Windows PC 扩展屏功能](https://m.ithome.com/html/896095.htm)
+
++ [部分地区国补回归：苹果 M4 MacBook Air 7999 → 4899 元 12 期免息手慢无](https://m.ithome.com/html/896104.htm)
+
++ [华为李小龙晒 X3 Pro 日照金山路由开箱全家福，称 PLC“今非昔比”轻松达到千兆以上](https://m.ithome.com/html/896030.htm)
+
