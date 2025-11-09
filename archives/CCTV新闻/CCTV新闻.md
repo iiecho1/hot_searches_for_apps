@@ -189,3 +189,7 @@
 
 + [一偷渡船在马泰之间海域沉没](https://news.cctv.com/2025/11/09/ARTIrrMkKAmVj7y4GTLjln7Y251109.shtml)
 
++ [新西兰国家公园林火肆虐 过火面积超过千顷](https://news.cctv.com/2025/11/09/ARTILHjUMx4GvhdA8iqXKnRT251109.shtml)
+
++ [美国佛州一车辆高速冲撞行人 已致4死11伤](https://news.cctv.com/2025/11/09/ARTIUxWyHwoywcYeZcfbpsc7251109.shtml)
+
