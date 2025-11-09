@@ -187,3 +187,11 @@
 
 + [金仓数据库用户权限隔离：从功能兼容到安全增强的技术演进](https://blog.csdn.net/lrq13965748542/article/details/154577499)
 
++ [第10章 错误处理](https://blog.csdn.net/sixpp/article/details/154562299)
+
++ [将linux操作系统装入U盘20251107](https://blog.csdn.net/Qq19122427/article/details/154541488)
+
++ [Jenkins自动部署CI/CD](https://blog.csdn.net/weixin_43587900/article/details/154492577)
+
++ [用html5写一个打巴掌大赛](https://blog.csdn.net/2501_91812691/article/details/154564652)
+
