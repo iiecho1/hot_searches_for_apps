@@ -153,3 +153,13 @@
 
 + [FPGA教程系列-Vivado中串行FIR设计（非FIR核）](https://blog.csdn.net/fantasygwh2015/article/details/154540343)
 
++ [基于 YOLO11+PyQt6+OpenCV 的智能水果检测系统设计与实现](https://blog.csdn.net/ykhZuojava/article/details/154522097)
+
++ [我阅毕的小学、初中、高中及大学数理衔接书籍汇总（长期更新）](https://blog.csdn.net/weixin_46959681/article/details/154494104)
+
++ [Flutter 加固方案对比与实战，多工具组合的跨平台安全体系（Flutter App 加固/IPA 成品混淆/Ipa Guard CLI/自动化安全流程）](https://blog.csdn.net/2501_91591841/article/details/154533082)
+
++ [视频孪生与空间智能：重构物理世界的时空认知范式](https://blog.csdn.net/asiafinance/article/details/154493375)
+
++ [网络层和数据链路层](https://blog.csdn.net/2401_89481773/article/details/154382905)
+

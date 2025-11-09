@@ -171,3 +171,15 @@
 
 + [胡塞武装称打掉一隶属于美以沙三方的间谍网络](https://news.cctv.com/2025/11/09/ARTIInBZ18pE3nL5odQBWHZ0251109.shtml)
 
++ [韩国全罗南道附近海域一中国渔船倾覆 2人死亡](https://news.cctv.com/2025/11/09/ARTIoJLowfDwodTpXgEuL07b251109.shtml)
+
++ [玻利维亚宣布与美国全面恢复外交关系](https://news.cctv.com/2025/11/09/ARTIm3dTp7Ofb7gGLq7kDncE251109.shtml)
+
++ [一中国渔船在韩国附近公海倾覆 中韩海警搜寻3名失踪船员](https://news.cctv.com/2025/11/09/ARTIBzOOBPWEhyGgeTsr0gSD251109.shtml)
+
++ [俄达吉斯坦共和国直升机事故致多位航空技术人员死亡](https://news.cctv.com/2025/11/09/ARTIYUoh9U2fIbJRLJ5C1i6D251109.shtml)
+
++ [政府“停摆”39天 美国民众焦头烂额](https://news.cctv.com/2025/11/09/ARTIDzZsnnHcnof3IJnxlCgE251109.shtml)
+
++ [美国“元”公司被曝靠海量诈骗广告赚取巨额利润](https://news.cctv.com/2025/11/09/ARTIJdBkisvbvILn7hP7J9Hk251109.shtml)
+
