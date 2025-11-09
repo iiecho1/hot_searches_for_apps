@@ -203,3 +203,7 @@
 
 + [俄外长：俄美双边对话仍在继续 进展速度不及预期](https://news.cctv.com/2025/11/09/ARTIQDF4SV53d3vPquE82Epu251109.shtml)
 
++ [超强台风“凤凰”在菲律宾奥罗拉省登陆](https://news.cctv.com/2025/11/09/ARTIBB2wWkUsstgHTU6fNxAG251109.shtml)
+
++ [政府“停摆”持续 美国8日数千架次航班延误](https://news.cctv.com/2025/11/09/ARTIzkvm5fQSmHUw4jS2EW7z251109.shtml)
+
