@@ -47,3 +47,7 @@
 
 + [11 月 8 号软考 系统架构设计师吐槽](https://www.v2ex.com/t/1171406)
 
++ [iPhone Air 国行 eSIM 策略实测及分析 (2025 年 11 月 8 日， iOS 26.1)](https://www.v2ex.com/t/1171440)
+
++ [大家追最新动漫，一般是什么路子](https://www.v2ex.com/t/1171426)
+

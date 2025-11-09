@@ -195,3 +195,11 @@
 
 + [用html5写一个打巴掌大赛](https://blog.csdn.net/2501_91812691/article/details/154564652)
 
++ [【三轴涂胶软件】基于C#+WPF开发的三轴涂胶软件，已在客户现场正常生产，全套源码，开箱即用](https://blog.csdn.net/m0_37302966/article/details/154491661)
+
++ [异构数据库迁移必备工具KReplay全流程自动化验证](https://blog.csdn.net/mrdeam/article/details/154532315)
+
++ [【Linux网络】Socket编程TCP-实现Echo Server（上）](https://blog.csdn.net/2402_82757055/article/details/154367478)
+
++ [关于Flutter与Qt for python 的一些技术、开源、商用等问题](https://blog.csdn.net/weixin_72637522/article/details/154579793)
+

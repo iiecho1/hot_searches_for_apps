@@ -195,3 +195,7 @@
 
 + [“诈弹”虚惊 韩国首尔乐天百货商店紧急闭店](https://news.cctv.com/2025/11/09/ARTImzJdzw4mNjGPgEIBHNIs251109.shtml)
 
++ [日本本州东部远海发生6.8级地震，震源深度10千米](https://news.cctv.com/2025/11/09/ARTITjAvQmsKAjlkvvG7BvcR251109.shtml)
+
++ [遇见进博会｜普惠贸易的生动注脚](https://news.cctv.com/2025/11/09/ARTIJXHAkOxqc701dPYfgYpa251109.shtml)
+
