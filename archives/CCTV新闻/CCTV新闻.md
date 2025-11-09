@@ -161,3 +161,5 @@
 
 + [玻利维亚最高法院下令释放前临时总统](https://news.cctv.com/2025/11/06/ARTIc8fSo2dsZ0xSDJPSDzTc251106.shtml)
 
++ [伊朗将启动货币改革 删除面值末四个零](https://news.cctv.com/2025/11/10/ARTIJAXzLTO2a6ANIX5Kx683251110.shtml)
+

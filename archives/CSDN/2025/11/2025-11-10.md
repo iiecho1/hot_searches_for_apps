@@ -109,3 +109,21 @@
 
 + [Dockerfile镜像构建](https://blog.csdn.net/2401_84284464/article/details/154502921)
 
++ [14.大语言模型微调语料构建](https://blog.csdn.net/A5522000/article/details/154616323)
+
++ [将linux操作系统装入U盘20251107](https://blog.csdn.net/Qq19122427/article/details/154541488)
+
++ [【自然语言处理】预训练05：全局向量的词嵌入（GloVe）](https://blog.csdn.net/Morse_Chen/article/details/154502272)
+
++ [【花雕动手做】CanMV K230 AI 视觉识别模块之圆形检测](https://blog.csdn.net/weixin_41659040/article/details/154498060)
+
++ [【GitHub开源AI精选】FireRedChat：小红书开源的全双工语音交互系统，开启智能语音新时代](https://blog.csdn.net/xiaobing259/article/details/154405574)
+
++ [【HOPE】Goole最新持续学习大模型算法Nested Learning The Illusion of Deep Learning Architectures](https://blog.csdn.net/weixin_43935696/article/details/154617215)
+
++ [【linux】网络套接字编程（二）UDP服务器与客户端的实现，recvfrom，sendto，inet_addr，bzero](https://blog.csdn.net/2301_80751958/article/details/154427453)
+
++ [线代强化NO1|行列式及矩阵](https://blog.csdn.net/CoderZzz6310/article/details/154575283)
+
++ [GitHub 热榜项目 - 日榜(2025-11-09)](https://blog.csdn.net/u014390502/article/details/154600222)
+
