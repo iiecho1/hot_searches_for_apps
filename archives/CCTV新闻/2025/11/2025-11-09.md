@@ -199,3 +199,7 @@
 
 + [遇见进博会｜普惠贸易的生动注脚](https://news.cctv.com/2025/11/09/ARTIJXHAkOxqc701dPYfgYpa251109.shtml)
 
++ [日本本州东部远海发生6.4级地震 震源深度10千米](https://news.cctv.com/2025/11/09/ARTIUxwkbY9ygGXevKZSYzE6251109.shtml)
+
++ [俄外长：俄美双边对话仍在继续 进展速度不及预期](https://news.cctv.com/2025/11/09/ARTIQDF4SV53d3vPquE82Epu251109.shtml)
+

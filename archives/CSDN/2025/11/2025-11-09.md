@@ -203,3 +203,7 @@
 
 + [关于Flutter与Qt for python 的一些技术、开源、商用等问题](https://blog.csdn.net/weixin_72637522/article/details/154579793)
 
++ [锗二极管的伏安特性：2AP9](https://blog.csdn.net/zhuoqingjoking97298/article/details/154576069)
+
++ [KingbaseES权限隔离深度解析：从MySQL的遗憾到安全增强的革新之路](https://blog.csdn.net/Dreamy_zsy/article/details/154607223)
+
