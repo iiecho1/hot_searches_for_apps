@@ -171,3 +171,11 @@
 
 + [2025高校网络安全管理运维赛--电子取证分析师赛道-决赛WriteUp](https://blog.csdn.net/Aluxian_/article/details/154530699)
 
++ [10个关键指标：Python vs C#，数值计算谁更胜一筹？](https://blog.csdn.net/z_344791576/article/details/151686411)
+
++ [使用 Python 和 HuggingFace Transformers 进行对象检测](https://blog.csdn.net/gongdiwudu/article/details/154580071)
+
++ [PDF工具箱/合并拆分pdf/提取图片](https://blog.csdn.net/dubiaopei/article/details/154539135)
+
++ [跨平台笔记协作：cpolar 提升 Obsidian 知识库共享效率方案](https://blog.csdn.net/qq_62662919/article/details/154571195)
+
