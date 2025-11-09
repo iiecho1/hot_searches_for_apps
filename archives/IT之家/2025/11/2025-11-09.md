@@ -69,3 +69,25 @@
 
 + [苹果就 App Store 前端代码泄露问题向微软 GitHub 发通知函，清理 8270 个仓库](https://m.ithome.com/html/895930.htm)
 
++ [宇树王兴兴首次回应“硕士论文被挖出”：2013 年想到的方案，2009 年就做过小的人形机器人](https://m.ithome.com/html/895969.htm)
+
++ [消息称苹果 iPhone 17 系列国内激活销量超 825 万，本月预计可破 1000 万](https://m.ithome.com/html/896011.htm)
+
++ [荣耀前 CEO 赵明回忆华为遭遇制裁：选择把钱留在公司共存亡，与团队并肩作战更重要](https://m.ithome.com/html/896012.htm)
+
++ [荣耀前 CEO 赵明谈公司独立初期：谁愿意给我们芯片就用谁，轮不到挑挑拣拣](https://m.ithome.com/html/896036.htm)
+
++ [Model Y 高速发生事故：20 年驾龄车主质疑车有问题，特斯拉回应称涉事车辆不存在问题](https://m.ithome.com/html/896048.htm)
+
++ [小米推出新款 45W GaN 小布丁充电器 USB-C：不含数据线 54.9 元，兼容苹果 iPhone 快充](https://m.ithome.com/html/896034.htm)
+
++ [华为李小龙晒 X3 Pro 日照金山路由开箱全家福，称 PLC“今非昔比”轻松达到千兆以上](https://m.ithome.com/html/896030.htm)
+
++ [AI 六巨头罕见同台！李飞飞激辩 LeCun，黄仁勋却说“你们都错了”](https://m.ithome.com/html/895951.htm)
+
++ [T1 史无前例 S 赛三连冠，Faker 六冠再铸魔王传奇](https://m.ithome.com/html/896102.htm)
+
++ [网购电动自行车电池起火 15 人遇难，央视披露南京“2・23”火灾现场视频](https://m.ithome.com/html/896001.htm)
+
++ [前微软工程师普拉默建议 Windows 推出“硬核模式”，让用户能禁用花哨功能](https://m.ithome.com/html/895968.htm)
+

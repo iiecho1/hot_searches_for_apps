@@ -35,3 +35,25 @@
 
 + [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)
 
++ [mui/material-ui](https://github.com/mui/material-ui)
+
++ [google/adk-go](https://github.com/google/adk-go)
+
++ [axios/axios](https://github.com/axios/axios)
+
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
++ [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE)
+
++ [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [librespot-org/librespot](https://github.com/librespot-org/librespot)
+
++ [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
+
++ [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+
++ [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
++ [ziglang/zig](https://github.com/ziglang/zig)
+
