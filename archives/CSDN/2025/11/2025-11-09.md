@@ -211,3 +211,7 @@
 
 + [线代强化NO1|行列式及矩阵](https://blog.csdn.net/CoderZzz6310/article/details/154575283)
 
++ [【强化学习】可证明安全强化学习（Provably Safe RL）算法详细介绍](https://blog.csdn.net/qq_51399582/article/details/154609535)
+
++ [从 HTTP 到 HTTPS：揭秘 Web 安全传输，附 Nginx 配置实战指南](https://blog.csdn.net/xingyue_ming/article/details/154565750)
+
