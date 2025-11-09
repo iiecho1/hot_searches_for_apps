@@ -185,3 +185,7 @@
 
 + [台风“海鸥”已致菲律宾224人死亡](https://news.cctv.com/2025/11/09/ARTI0ZktoPtNmPFHnaILoD5H251109.shtml)
 
++ [日本再发生熊伤人事件 3人受伤](https://news.cctv.com/2025/11/09/ARTI41VvBdgOvqzCybjvK26g251109.shtml)
+
++ [一偷渡船在马泰之间海域沉没](https://news.cctv.com/2025/11/09/ARTIrrMkKAmVj7y4GTLjln7Y251109.shtml)
+
