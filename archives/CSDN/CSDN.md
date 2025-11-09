@@ -133,3 +133,5 @@
 
 + [【ZeroRange WebRTC】WebRTC 在 IPC（网络摄像头）中的应用：架构、实现与实践（深入指南）](https://blog.csdn.net/love131452098/article/details/154582410)
 
++ [【完整源码+数据集】草莓数据集，yolov8草莓成熟度检测数据集 3207 张，草莓成熟度数据集，目标检测草莓识别算法系统实战教程](https://blog.csdn.net/kyriehan/article/details/154567623)
+
