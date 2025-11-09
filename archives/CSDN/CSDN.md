@@ -151,3 +151,5 @@
 
 + [Python应用开发学习： Pygame 中实现数字水平靠右对齐和垂直靠底对齐](https://blog.csdn.net/bahamutj/article/details/154543640)
 
++ [FPGA教程系列-Vivado中串行FIR设计（非FIR核）](https://blog.csdn.net/fantasygwh2015/article/details/154540343)
+

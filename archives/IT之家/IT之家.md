@@ -63,3 +63,9 @@
 
 + [26H1 正式登场：微软推送 Win11 28000 预览版，预估专注优化骁龙 Arm 设备](https://m.ithome.com/html/895810.htm)
 
++ [曝三星 Galaxy S27 Ultra 手机主摄规格由苹果 iPhone 18 Pro Max 决定，“绝不在硬件上多花一分钱”](https://m.ithome.com/html/895967.htm)
+
++ [6999 → 4829 元：小米 15 Ultra 手机 24 期免息随时结束](https://m.ithome.com/html/895871.htm)
+
++ [苹果就 App Store 前端代码泄露问题向微软 GitHub 发通知函，清理 8270 个仓库](https://m.ithome.com/html/895930.htm)
+
