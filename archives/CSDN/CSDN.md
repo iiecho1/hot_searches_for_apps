@@ -129,3 +129,5 @@
 
 + [智能运维×低资源占用：金仓数据库助力能源企业降本增效与国产化替换实践](https://blog.csdn.net/weixin_62765017/article/details/154646983)
 
++ [Sora2 邀请码自助领取系统 - 让AI视频创作触手可及](https://blog.csdn.net/xianyu120/article/details/154620213)
+
