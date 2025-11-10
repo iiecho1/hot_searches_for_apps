@@ -189,3 +189,13 @@
 
 + [网络层和数据链路层](https://blog.csdn.net/2401_89481773/article/details/154382905)
 
++ [无人船 | 图解基于MPC控制的路径跟踪算法(以全驱动无人艇WAMV为例)](https://blog.csdn.net/FRIGIDWINTER/article/details/154619731)
+
++ [《场景化落地：用 Linux 共享内存解决进程间高效数据传输问题（终篇）》](https://blog.csdn.net/Dovis5884/article/details/154019851)
+
++ [Transformer实战（25）——自动超参数优化提升Transformer模型性能](https://blog.csdn.net/LOVEmy134611/article/details/147908446)
+
++ [读书之《架构师的自我修炼》_个人笔记](https://blog.csdn.net/yun6853992/article/details/154620709)
+
++ [Supabase 开源 BaaS 平台的技术内核与实践指南](https://blog.csdn.net/qq_44608856/article/details/154638820)
+

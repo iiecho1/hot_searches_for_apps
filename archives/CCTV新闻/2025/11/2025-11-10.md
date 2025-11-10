@@ -205,3 +205,15 @@
 
 + [美国会参议院推进临时拨款法案](https://news.cctv.com/2025/11/10/ARTIiKsCLuEubaAq8IGaKf8P251110.shtml)
 
++ [斯洛伐克火车相撞事故已致79人送医治疗](https://news.cctv.com/2025/11/10/ARTIOOPQclhk5ySYHmvgiMGD251110.shtml)
+
++ [泰国称将暂停执行与柬埔寨的边境和战俘协议](https://news.cctv.com/2025/11/10/ARTI7ljPdIQVSUlgUhqCrYVN251110.shtml)
+
++ [哈马斯高级领导人：准备撤出“黄线”以内武装人员](https://news.cctv.com/2025/11/10/ARTIFxWEhdpF9jqCWvK7qJHV251110.shtml)
+
++ [一天五人遭熊袭 日本红叶季旅游业受创](https://news.cctv.com/2025/11/10/ARTIUf8XDoDx7PrUWydYXamu251110.shtml)
+
++ [林火肆虐 新西兰国家公园过火面积达2800公顷](https://news.cctv.com/2025/11/10/ARTIun3pjVe7oOYczYkn19Fl251110.shtml)
+
++ [日本本州东部远海发生6.3级地震，震源深度10千米](https://news.cctv.com/2025/11/10/ARTIkBRTYC4v9gTlnbYHCGRF251110.shtml)
+
