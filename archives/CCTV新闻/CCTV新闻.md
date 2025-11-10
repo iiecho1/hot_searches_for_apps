@@ -223,3 +223,7 @@
 
 + [共创共赢！进博会成全球创新“入海口”](https://news.cctv.com/2025/11/10/ARTITuET6yWtvLzavjMnz4DR251110.shtml)
 
++ [埃及众议院选举第一阶段投票开始](https://news.cctv.com/2025/11/10/ARTIwpbqWlcxaVYGlwSRBRNl251110.shtml)
+
++ [俄称对政治外交途径解决乌克兰问题持开放态度](https://news.cctv.com/2025/11/10/ARTIpZEvZs45srWzRluWDtF6251110.shtml)
+

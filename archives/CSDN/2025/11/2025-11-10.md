@@ -209,3 +209,5 @@
 
 + [10.7 密码学中的线性代数](https://blog.csdn.net/passxgx/article/details/154312684)
 
++ [深入浅出 Ascend C：新一代算子开发接口 Aclnn 原理解析、实战与生态构建](https://blog.csdn.net/sinat_41617212/article/details/154621323)
+
