@@ -205,3 +205,7 @@
 
 + [测试自动化新突破：金仓KReplay助力金融核心系统迁移周期缩减三周](https://blog.csdn.net/weixin_74809706/article/details/154645532)
 
++ [Electron 如何判断运行平台是鸿蒙系统（OpenHarmony）](https://blog.csdn.net/weixin_45822171/article/details/154613118)
+
++ [10.7 密码学中的线性代数](https://blog.csdn.net/passxgx/article/details/154312684)
+
