@@ -163,3 +163,5 @@
 
 + [伊朗将启动货币改革 删除面值末四个零](https://news.cctv.com/2025/11/10/ARTIJAXzLTO2a6ANIX5Kx683251110.shtml)
 
++ [乌总统签署新一轮对俄制裁决定 涉及多名俄官员](https://news.cctv.com/2025/11/10/ARTIZ1SN8mrF7QFBmAsJklAy251109.shtml)
+
