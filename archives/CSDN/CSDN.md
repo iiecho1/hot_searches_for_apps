@@ -131,3 +131,5 @@
 
 + [Sora2 邀请码自助领取系统 - 让AI视频创作触手可及](https://blog.csdn.net/xianyu120/article/details/154620213)
 
++ [【愚公系列】《MCP协议与AI Agent开发》008-MCP的基本原理（MCP的状态管理与中间态控制）](https://blog.csdn.net/aa2528877987/article/details/154599520)
+
