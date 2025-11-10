@@ -179,3 +179,19 @@
 
 + [美政府“停摆”40天 共和党称“已有协议”拟今日表决](https://news.cctv.com/2025/11/10/ARTI4CtlbQAsLlX48iMqqvBE251110.shtml)
 
++ [进博日记 | 他们不仅带来了产品，还有故事](https://news.cctv.com/2025/11/10/ARTIbXEOajgVy7c5Wlx1TFeA251110.shtml)
+
++ [进博日记 | 打卡主宾国，让世界紧密相连](https://news.cctv.com/2025/11/10/ARTIiW8dp4CXWWVnWNYQgK31251110.shtml)
+
++ [总台记者直击丨台风登陆菲律宾 当地交通受阻](https://news.cctv.com/2025/11/10/ARTIcS8YCYmR1BWAK78110TM251110.shtml)
+
++ [声动进博：从文化之声感受美美与共](https://news.cctv.com/2025/11/10/ARTIGf1CKFqsNkrrsSFbeF7x251110.shtml)
+
++ [“进博会是开放合作、互利共赢的重要平台”](https://news.cctv.com/2025/11/10/ARTIHzW75tjzXXIexV9M6Hgp251110.shtml)
+
++ [在开放的大舞台上相向而行、相互成就](https://news.cctv.com/2025/11/10/ARTICMGsOLdYjLWJ1m1VS9vZ251110.shtml)
+
++ [美国旧金山发生枪击事件 致5人受伤](https://news.cctv.com/2025/11/10/ARTIN1wDjS7V7PzROGmX21me251110.shtml)
+
++ [美政府“停摆”进入第40天 多位美官员密集表态唱衰经济](https://news.cctv.com/2025/11/10/ARTIMzdJOYaKnVMmuB9AbSdl251110.shtml)
+
