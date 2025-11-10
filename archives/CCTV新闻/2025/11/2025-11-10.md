@@ -165,3 +165,17 @@
 
 + [乌总统签署新一轮对俄制裁决定 涉及多名俄官员](https://news.cctv.com/2025/11/10/ARTIZ1SN8mrF7QFBmAsJklAy251109.shtml)
 
++ [韩国特检组追加起诉前总统尹锡悦](https://news.cctv.com/2025/11/10/ARTIiEyqbN7qm47s1W1OtUVK251110.shtml)
+
++ [超强台风“凤凰”已致菲律宾2人死亡](https://news.cctv.com/2025/11/10/ARTIi83mmcVnLVB0rsAssdBz251110.shtml)
+
++ [我领馆证实：一中国渔船在韩国附近海域倾覆 2人获救9人失踪](https://news.cctv.com/2025/11/10/ARTIgoEDseXu5OcTV5dexIyQ251110.shtml)
+
++ [厄瓜多尔一监狱发生骚乱 已致31人死亡](https://news.cctv.com/2025/11/10/ARTIOajjTYVzvc95IdUs31DE251110.shtml)
+
++ [特朗普称美政府“停摆”接近结束](https://news.cctv.com/2025/11/10/ARTIacN4dXHzb9daT4LW2OsS251110.shtml)
+
++ [美国政府指示各州收回已全额发放的11月食品援助金](https://news.cctv.com/2025/11/10/ARTIzhsWC3djCYYlVOXRyPRQ251110.shtml)
+
++ [美政府“停摆”40天 共和党称“已有协议”拟今日表决](https://news.cctv.com/2025/11/10/ARTI4CtlbQAsLlX48iMqqvBE251110.shtml)
+

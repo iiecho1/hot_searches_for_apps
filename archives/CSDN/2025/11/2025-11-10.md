@@ -145,3 +145,21 @@
 
 + [iOS 上架要求全解析，App Store 审核标准、开发者准备事项与开心上架（Appuploader）跨平台免 Mac 实战指南](https://blog.csdn.net/2501_91380052/article/details/154532978)
 
++ [MapTalks：国产轻量化二三维一体化GIS引擎](https://blog.csdn.net/yelangkingwuzuhu/article/details/154616091)
+
++ [DeepSeek源码解构：从MoE架构到MLA的工程化实现](https://blog.csdn.net/qq_32682301/article/details/154621340)
+
++ [Sora2 邀请码自助领取系统 - 让AI视频创作触手可及](https://blog.csdn.net/xianyu120/article/details/154620213)
+
++ [【愚公系列】《MCP协议与AI Agent开发》008-MCP的基本原理（MCP的状态管理与中间态控制）](https://blog.csdn.net/aa2528877987/article/details/154599520)
+
++ [猫狗识别数据集：34,441张高质量标注图像，深度学习二分类任务训练数据集，计算机视觉算法研发，CNN模型训练，图像识别分类，机器学习实践项目完整数据资](https://blog.csdn.net/2503_93011896/article/details/154561661)
+
++ [Transformer实战——指令微调嵌入模型](https://blog.csdn.net/LOVEmy134611/article/details/147928194)
+
++ [蓝牙PAN精讲[6]：IP支持](https://blog.csdn.net/weixin_37800531/article/details/154611790)
+
++ [【GitHub开源AI精选】OpenLens AI：清华推出的医学研究全自主AI助手，开启科研新纪元](https://blog.csdn.net/xiaobing259/article/details/154405656)
+
++ [用ai来写一个CO2传感器检测](https://blog.csdn.net/fengyu09/article/details/154562238)
+
