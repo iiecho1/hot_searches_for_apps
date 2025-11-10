@@ -227,3 +227,5 @@
 
 + [俄称对政治外交途径解决乌克兰问题持开放态度](https://news.cctv.com/2025/11/10/ARTIpZEvZs45srWzRluWDtF6251110.shtml)
 
++ [白俄罗斯：因边境关闭滞留的立陶宛卡车或被没收](https://news.cctv.com/2025/11/10/ARTIrd1YhORuXvx5hmlKb9U6251110.shtml)
+

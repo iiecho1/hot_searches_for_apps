@@ -211,3 +211,7 @@
 
 + [深入浅出 Ascend C：新一代算子开发接口 Aclnn 原理解析、实战与生态构建](https://blog.csdn.net/sinat_41617212/article/details/154621323)
 
++ [Java 大视界 -- Java 大数据在智能教育虚拟学习环境构建与用户体验优化中的应用](https://blog.csdn.net/atgfg/article/details/154616254)
+
++ [【自然语言处理】预训练06：子词嵌入](https://blog.csdn.net/Morse_Chen/article/details/154619412)
+
