@@ -199,3 +199,9 @@
 
 + [Supabase 开源 BaaS 平台的技术内核与实践指南](https://blog.csdn.net/qq_44608856/article/details/154638820)
 
++ [10秒 vs 10分钟：.NET GC如何像“清洁工“一样工作？](https://blog.csdn.net/z_344791576/article/details/151676993)
+
++ [【农业无人机】农业喷洒无人机仿真（PID vs LQR）【含Matlab源码 XYPX006期】](https://blog.csdn.net/weixin_63266434/article/details/154646148)
+
++ [测试自动化新突破：金仓KReplay助力金融核心系统迁移周期缩减三周](https://blog.csdn.net/weixin_74809706/article/details/154645532)
+

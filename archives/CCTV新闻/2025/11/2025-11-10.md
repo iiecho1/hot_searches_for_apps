@@ -217,3 +217,7 @@
 
 + [日本本州东部远海发生6.3级地震，震源深度10千米](https://news.cctv.com/2025/11/10/ARTIkBRTYC4v9gTlnbYHCGRF251110.shtml)
 
++ [美国多州报告婴儿肉毒杆菌中毒事件](https://news.cctv.com/2025/11/10/ARTINfuRpHAZ3uiJYd5Gm2F5251110.shtml)
+
++ [视频丨美议员因“停摆”险误为结束“停摆”投票](https://news.cctv.com/2025/11/10/ARTIRFhZ5v7cAqt9Sm1Sv4nR251110.shtml)
+
