@@ -161,3 +161,5 @@
 
 + [中国驻菲使馆提醒在菲同胞注意防范台风暴雨等灾害](https://news.cctv.com/2025/11/07/ARTI4LhvnK1wT8Kwic00dflw251107.shtml)
 
++ [印度新德里汽车爆炸事件已致10人死亡](https://news.cctv.com/2025/11/11/ARTIXSmq0HivcQAMuVlSEuUZ251111.shtml)
+

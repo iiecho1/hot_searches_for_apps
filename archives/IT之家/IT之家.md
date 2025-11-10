@@ -25,3 +25,25 @@
 
 + [2868 元 24 期免息：小米 15 手机 16+512GB 京东自营再降价](https://m.ithome.com/html/896103.htm)
 
++ [致态 TiPlus 7100s 固态硬盘发布：长江存储新一代颗粒，659 元起](https://m.ithome.com/html/896184.htm)
+
++ [长沙地铁回应“女生衣服自燃”：系充电宝自燃，火已扑灭](https://m.ithome.com/html/896215.htm)
+
++ [小米汽车 10 月零售销量 48654 辆，YU7 单月 33662 辆已超特斯拉 Model Y](https://m.ithome.com/html/896396.htm)
+
++ [喜剧电影《年会不能停！2》发布首张概念海报，张若昀、白客主演](https://m.ithome.com/html/896192.htm)
+
++ [教育部发布中小学教师减负 8 条措施：严格管理面向教师的政务应用程序，严禁强制打卡、积分排名等](https://m.ithome.com/html/896267.htm)
+
++ [莲花集团 CEO 冯擎峰：车规诞生目的是为了安全，讨论车规是一种历史的倒退](https://m.ithome.com/html/896151.htm)
+
++ [蔚来李斌：萤火虫以后肯定有大电池包，不会接入宁德时代巧克力换电](https://m.ithome.com/html/896216.htm)
+
++ [API 21：华为鸿蒙 HarmonyOS 6.0.0.110 SP97 开发者版本推送](https://m.ithome.com/html/896293.htm)
+
++ [侵害用户权益，39 款 App 及 SDK 被工信部通报](https://m.ithome.com/html/896338.htm)
+
++ [“神车”五菱宏光家族焕新：燃油、增程、纯电三动力，5.48 万元起](https://m.ithome.com/html/896183.htm)
+
++ [终于等到 11.11：iPad Air M3 版 4799 → 2804 元 12 期免息新低](https://m.ithome.com/html/896400.htm)
+
