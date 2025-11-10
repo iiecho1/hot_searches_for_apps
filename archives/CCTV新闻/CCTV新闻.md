@@ -229,3 +229,7 @@
 
 + [白俄罗斯：因边境关闭滞留的立陶宛卡车或被没收](https://news.cctv.com/2025/11/10/ARTIrd1YhORuXvx5hmlKb9U6251110.shtml)
 
++ [日本民众要求撤走美国“堤丰”中导系统](https://news.cctv.com/2025/11/10/ARTIzPicBDbdc8qgEcRg0ROH251110.shtml)
+
++ [巴黎上诉法院批准萨科齐临时释放](https://news.cctv.com/2025/11/10/ARTI2Gd4CcPP73IHhiIeI6R9251110.shtml)
+
