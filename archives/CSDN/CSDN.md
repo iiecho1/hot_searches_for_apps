@@ -169,3 +169,9 @@
 
 + [全屋智能家居定制小程序](https://blog.csdn.net/tktw1998/article/details/154532581)
 
++ [PHP文档保卫战：AI自动生成下的创意守护与反制指南](https://blog.csdn.net/qq_33650655/article/details/154579994)
+
++ [【超音速专利 CN 118447008 A】一种光伏板缺陷检测系统](https://blog.csdn.net/he_zhidan/article/details/154617872)
+
++ [【Linux笔记】网络部分——数据链路层mac-arp](https://blog.csdn.net/feng_qi0325/article/details/154561915)
+
