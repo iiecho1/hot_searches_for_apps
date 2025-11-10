@@ -199,3 +199,9 @@
 
 + [美国超2700个航班取消 另有上万航班延误](https://news.cctv.com/2025/11/10/ARTIqVO9kOm9iOJRVmG1coFB251110.shtml)
 
++ [马泰边境偷渡船倾覆事件已致11人死亡](https://news.cctv.com/2025/11/10/ARTIum14YPgM6JPxi6h28U5c251110.shtml)
+
++ [韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试](https://news.cctv.com/2025/11/10/ARTIhXmHb3qfx6ZLQPTyBosu251110.shtml)
+
++ [美国会参议院推进临时拨款法案](https://news.cctv.com/2025/11/10/ARTIiKsCLuEubaAq8IGaKf8P251110.shtml)
+
