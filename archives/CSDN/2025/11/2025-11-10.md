@@ -215,3 +215,13 @@
 
 + [【自然语言处理】预训练06：子词嵌入](https://blog.csdn.net/Morse_Chen/article/details/154619412)
 
++ [NAS 只在局域网能用？加上cpolar这样设置让文件访问不受限](https://blog.csdn.net/qyj19920704/article/details/154650309)
+
++ [将你的旧手机变成监控摄像头（Python + OpenCV）](https://blog.csdn.net/qq_42568323/article/details/154617447)
+
++ [基于VMware与CentOS 7的Hadoop集群部署全景指南](https://blog.csdn.net/2301_80863610/article/details/154653505)
+
++ [彻底卸载Microsoft Edge浏览器：全流程详细指南（含WebView清理）](https://blog.csdn.net/ashyyyy/article/details/154570923)
+
++ [权限维持：操作系统后门技术分析与防护](https://blog.csdn.net/weixin_41905135/article/details/154619449)
+

@@ -37,3 +37,19 @@
 
 + [ziglang/zig](https://github.com/ziglang/zig)
 
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
++ [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
+
++ [YaLTeR/niri](https://github.com/YaLTeR/niri)
+
++ [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
+
++ [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+
++ [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
+
++ [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+
