@@ -163,3 +163,9 @@
 
 + [用ai来写一个CO2传感器检测](https://blog.csdn.net/fengyu09/article/details/154562238)
 
++ [爬虫中Cookies模拟浏览器登录技术详解](https://blog.csdn.net/2301_79139273/article/details/154623619)
+
++ [【项目】pyqt5基于python的照片整蛊项目](https://blog.csdn.net/2503_92010587/article/details/154576997)
+
++ [全屋智能家居定制小程序](https://blog.csdn.net/tktw1998/article/details/154532581)
+
