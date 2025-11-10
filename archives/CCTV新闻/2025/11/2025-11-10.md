@@ -233,3 +233,5 @@
 
 + [巴黎上诉法院批准萨科齐临时释放](https://news.cctv.com/2025/11/10/ARTI2Gd4CcPP73IHhiIeI6R9251110.shtml)
 
++ [印度首都新德里发生汽车爆炸事件 伤亡情况不明](https://news.cctv.com/2025/11/10/ARTIgCGbiQljVYmA0jgmxZHW251110.shtml)
+
