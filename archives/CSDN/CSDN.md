@@ -109,3 +109,23 @@
 
 + [蓝牙PAN精讲[6]：IP支持](https://blog.csdn.net/weixin_37800531/article/details/154611790)
 
++ [基于生产负载回放的数据库迁移验证实践：从模拟测试到真实预演【金仓数据库】](https://blog.csdn.net/weixin_52908342/article/details/154654664)
+
++ [Java 大视界 --Java 大数据在智能医疗远程手术机器人控制与数据传输中的技术支持](https://blog.csdn.net/atgfg/article/details/154576975)
+
++ [【JAVA 进阶】SpringBoot自动配置原理深度解析与实战应用](https://blog.csdn.net/weixin_63944437/article/details/154648115)
+
++ [基于连续随机变量互信息最大化的无监督学习](https://blog.csdn.net/LOVEmy134611/article/details/154402587)
+
++ [如何在Nginx中实现动态封禁IP？三种主流方案](https://blog.csdn.net/qq_26664043/article/details/154568389)
+
++ [【Linux】Linux 地址空间 + 页表映射的概念解析](https://blog.csdn.net/wheeldown/article/details/154576918)
+
++ [【超音速专利 CN 118447008 A】一种光伏板缺陷检测系统](https://blog.csdn.net/he_zhidan/article/details/154617872)
+
++ [Webpack 打包体积优化：让应用更轻量、更高效](https://blog.csdn.net/weixin_42554191/article/details/154618444)
+
++ [技术融合创新：Trae+KAT-Coder+GLM-4.6打造医疗报告翻译官](https://blog.csdn.net/IRpickstars/article/details/154551215)
+
++ [智能运维×低资源占用：金仓数据库助力能源企业降本增效与国产化替换实践](https://blog.csdn.net/weixin_62765017/article/details/154646983)
+

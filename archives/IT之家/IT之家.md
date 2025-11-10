@@ -47,3 +47,7 @@
 
 + [终于等到 11.11：iPad Air M3 版 4799 → 2804 元 12 期免息新低](https://m.ithome.com/html/896400.htm)
 
++ [消息称苹果 iPhone 17 系列国内激活销量超 825 万，本月预计可破 1000 万](https://m.ithome.com/html/896011.htm)
+
++ [荣耀前 CEO 赵明回忆华为遭遇制裁：选择把钱留在公司共存亡，与团队并肩作战更重要](https://m.ithome.com/html/896012.htm)
+
