@@ -195,3 +195,5 @@
 
 + [巴基斯坦首都一法院附近发生爆炸 已致11人死亡](https://news.cctv.com/2025/11/11/ARTIfLS8IOIWY0qQj46YBFxo251111.shtml)
 
++ [特稿｜希望圣诞节不要“被偷走”——美国商户期待中国商品进口回正轨](https://news.cctv.com/2025/11/11/ARTIv05zZ1PcRTQqgEzWLlGY251111.shtml)
+

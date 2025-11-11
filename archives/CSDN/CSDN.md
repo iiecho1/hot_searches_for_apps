@@ -201,3 +201,7 @@
 
 + [【教程4＞第9章＞第22节】通过FPGA实现HSL图像转换回RGB图像——基准值t1和t2的计算模块](https://blog.csdn.net/ccsss22/article/details/154692450)
 
++ [2025年11月11日全球AI前沿动态](https://blog.csdn.net/ld326/article/details/154665688)
+
++ [计算机网络概述](https://blog.csdn.net/2401_87910242/article/details/154620701)
+
