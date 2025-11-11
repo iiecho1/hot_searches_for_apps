@@ -195,3 +195,5 @@
 
 + [七种基于大语言模型嵌入的高级文本特征工程技巧：从语义表示到跨模态融合](https://blog.csdn.net/2301_77485708/article/details/154648265)
 
++ [个人博客|博客app|基于Springboot+微信小程序的个人博客app系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154636612)
+
