@@ -161,3 +161,5 @@
 
 + [docsify 本地部署完整配置模板 || 将md文件放到网页上展示](https://blog.csdn.net/weixin_53197693/article/details/154647989)
 
++ [【完整源码+数据集+部署教程】 台球球体分割系统源码＆数据集分享 [yolov8-seg-dyhead＆yolov8-seg-CSwinTransformer等50+全套改进创新点发刊_一键训练教程](https://blog.csdn.net/weixin_43860634/article/details/154662694)
+

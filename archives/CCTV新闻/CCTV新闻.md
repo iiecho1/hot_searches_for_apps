@@ -177,3 +177,5 @@
 
 + [美国参议院已获得足够票数通过临时拨款法案](https://news.cctv.com/2025/11/11/ARTIbmsKB8M9P8ugADmjbcx5251111.shtml)
 
++ [新闻分析｜日本今年为何频繁“熊出没”](https://news.cctv.com/2025/11/11/ARTIm73kfS75VgRos5wFEy0A251111.shtml)
+
