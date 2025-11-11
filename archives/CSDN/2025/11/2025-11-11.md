@@ -185,3 +185,7 @@
 
 + [【粉丝福利社】全程软件自动化测试：开源实战](https://blog.csdn.net/aa2528877987/article/details/154682827)
 
++ [庖丁解牛：深入拆解Linux静态库与动态库——从制作到使用的核心技巧讲解](https://blog.csdn.net/2301_80236968/article/details/154612910)
+
++ [.NET周刊【11月第1期 2025-11-02】](https://blog.csdn.net/qq_27441069/article/details/154662395)
+

@@ -187,3 +187,7 @@
 
 + [激怒特朗普 BBC身陷数十年来“最严重危机”](https://news.cctv.com/2025/11/11/ARTIAAWvHHyQF8W1kSayUEY6251111.shtml)
 
++ [BBC搞“拼接”激怒特朗普 俄方指BBC惯于造假](https://news.cctv.com/2025/11/11/ARTIbJCJuj9mmiNqZUzrJMmv251111.shtml)
+
++ [巴基斯坦一地区法院外发生汽车爆炸事故](https://news.cctv.com/2025/11/11/ARTIV13xopua1tU4cTpcP2Cv251111.shtml)
+
