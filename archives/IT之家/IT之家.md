@@ -35,3 +35,21 @@
 
 + [中兴 F50 Pro 随身 Wi-Fi 开售：NFC 一碰连、64GB 共享网盘，首发 399 元](https://m.ithome.com/html/896422.htm)
 
++ [腾讯 27 周年：官方晒首间办公室照片，确认马化腾当过客服](https://m.ithome.com/html/896508.htm)
+
++ [小米汽车挖孔机盖外观专利获授权，此前 SU7 Ultra 陷争议](https://m.ithome.com/html/896556.htm)
+
++ [苹果新配件 iPhone Pocket 亮相：将手机“随身穿戴”，1299 元起售](https://m.ithome.com/html/896645.htm)
+
++ [马斯克：未来钱将不再存在，或者将变为瓦特来衡量](https://m.ithome.com/html/896522.htm)
+
++ [终破三千：小米 15 Pro 16+512G 京东 5799 → 2999 元近腰斩](https://m.ithome.com/html/896683.htm)
+
++ [我国人民空军 76 岁生日：攻击-11 无人机霸气亮相，和战斗机协同画面首次公布](https://m.ithome.com/html/896558.htm)
+
++ [马云妻子张瑛 1950 万英镑买下伦敦豪宅跻身 2024 年最贵 0.4% 房产交易之列：曾用作意大利大使馆，现为二级保护历史建筑](https://m.ithome.com/html/896611.htm)
+
++ [国产手机进入万级大电池竞争时代：消息称某走量中端机 10000mAh&#177; 电池顺利试模，预计为小米新机](https://m.ithome.com/html/896491.htm)
+
++ [国内 70 万以上超豪华轿车 10 月销量出炉，尊界 S800 稳定近 2000 辆位列第一](https://m.ithome.com/html/896602.htm)
+
