@@ -163,3 +163,9 @@
 
 + [【完整源码+数据集+部署教程】 台球球体分割系统源码＆数据集分享 [yolov8-seg-dyhead＆yolov8-seg-CSwinTransformer等50+全套改进创新点发刊_一键训练教程](https://blog.csdn.net/weixin_43860634/article/details/154662694)
 
++ [京东后端架构技术，Pipline 设计 解决复杂查询逻辑](https://blog.csdn.net/m0_57874805/article/details/154681670)
+
++ [【Linux】进程间通信（二）命名管道（FIFO）实战指南：从指令操作到面向对象封装的进程间通信实现](https://blog.csdn.net/2501_90265152/article/details/154405778)
+
++ [基于深度学习的车载视角路面病害检测系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/154608607)
+

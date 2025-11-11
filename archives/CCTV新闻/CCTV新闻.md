@@ -179,3 +179,7 @@
 
 + [新闻分析｜日本今年为何频繁“熊出没”](https://news.cctv.com/2025/11/11/ARTIm73kfS75VgRos5wFEy0A251111.shtml)
 
++ [马泰之间海域沉船事件遇难人数升至21人](https://news.cctv.com/2025/11/11/ARTIhi23WvltEi4LqSe6H3eG251111.shtml)
+
++ [台风“凤凰”已致菲律宾18人死亡 超240万人受灾](https://news.cctv.com/2025/11/11/ARTIUb6VGfDHTTvDzo0TnqjH251111.shtml)
+
