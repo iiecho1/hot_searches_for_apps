@@ -197,3 +197,7 @@
 
 + [个人博客|博客app|基于Springboot+微信小程序的个人博客app系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154636612)
 
++ [基于Hadoop+数据可视化+网络爬虫+协同过滤推荐算法+智能AI大模型的高校毕业生职位推荐系统设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/154602351)
+
++ [【教程4＞第9章＞第22节】通过FPGA实现HSL图像转换回RGB图像——基准值t1和t2的计算模块](https://blog.csdn.net/ccsss22/article/details/154692450)
+
