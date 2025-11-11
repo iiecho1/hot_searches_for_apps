@@ -213,3 +213,5 @@
 
 + [LoRa 与 LoRaWAN 技术解析：物理层原理、网络架构与典型物联网应用场景](https://blog.csdn.net/LoRaWAN_Explorer/article/details/154656176)
 
++ [【讨论】VR + 具身智能 + 人形机器人：通往现实世界的智能接口](https://blog.csdn.net/qq_41140324/article/details/154701887)
+
