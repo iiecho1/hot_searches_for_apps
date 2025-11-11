@@ -169,3 +169,9 @@
 
 + [基于深度学习的车载视角路面病害检测系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/154608607)
 
++ [C++程序如何通过代码打开Windows系统中的一些窗口【选择打开程序对话框 | 照片查看器 | 设备管理器窗口 | 系统扬声器设备窗口 | 系统麦克风设备窗口】（附C++源码）](https://blog.csdn.net/chenlycly/article/details/150855165)
+
++ [Kubernetes部署Dashboard服务](https://blog.csdn.net/liu_chen_yang/article/details/153053905)
+
++ [2025 年 AI、机器学习与数据工程趋势报告](https://blog.csdn.net/qq_33589510/article/details/154639770)
+
