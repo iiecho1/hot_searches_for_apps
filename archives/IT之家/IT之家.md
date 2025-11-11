@@ -53,3 +53,7 @@
 
 + [新能源车迎消费高峰，购置税明年起将从“全免”调为“减半”](https://m.ithome.com/html/895989.htm)
 
++ [纯 eSIM 版苹果 iPhone 17 Pro / Max 电池更大，综合续航长出实体 SIM 卡槽版约 49 分钟](https://m.ithome.com/html/896458.htm)
+
++ [全网 11.11 狂促 20:00 正式开启：1 分钟速读巅峰 4 小时攻略，3C 数码国补全国可领，iPhone 17 Pro 换新 7904 元起](https://m.ithome.com/html/896398.htm)
+

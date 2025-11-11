@@ -173,3 +173,7 @@
 
 + [美参议院投票通过临时拨款法案](https://news.cctv.com/2025/11/11/ARTIeTkoB40aFrm18C5XDwuk251111.shtml)
 
++ [印度警方依据反恐法调查首都汽车爆炸案](https://news.cctv.com/2025/11/11/ARTI0CtcBwvGUfm7Cvg5IN5k251111.shtml)
+
++ [美国参议院已获得足够票数通过临时拨款法案](https://news.cctv.com/2025/11/11/ARTIbmsKB8M9P8ugADmjbcx5251111.shtml)
+
