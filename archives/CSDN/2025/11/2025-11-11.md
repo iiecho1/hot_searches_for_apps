@@ -189,3 +189,9 @@
 
 + [.NET周刊【11月第1期 2025-11-02】](https://blog.csdn.net/qq_27441069/article/details/154662395)
 
++ [JuiceSSH+cpolar解锁手机远程Linux新姿势，无需公网IP，固定地址稳定用](https://blog.csdn.net/2401_82648291/article/details/154687619)
+
++ [测试自动化Replay：金仓将迁移周期缩短3周的技术实践](https://blog.csdn.net/Mrxiao_bo/article/details/154646350)
+
++ [七种基于大语言模型嵌入的高级文本特征工程技巧：从语义表示到跨模态融合](https://blog.csdn.net/2301_77485708/article/details/154648265)
+

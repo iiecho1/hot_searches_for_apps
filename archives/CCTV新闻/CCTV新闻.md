@@ -191,3 +191,7 @@
 
 + [巴基斯坦一地区法院外发生汽车爆炸事故](https://news.cctv.com/2025/11/11/ARTIV13xopua1tU4cTpcP2Cv251111.shtml)
 
++ [刚果（金）发生一起交通事故 致11人死亡](https://news.cctv.com/2025/11/11/ARTILOElU7NbRwgo8qghjf1G251111.shtml)
+
++ [巴基斯坦首都一法院附近发生爆炸 已致11人死亡](https://news.cctv.com/2025/11/11/ARTIfLS8IOIWY0qQj46YBFxo251111.shtml)
+
