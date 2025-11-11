@@ -133,3 +133,7 @@
 
 + [【愚公系列】《MCP协议与AI Agent开发》008-MCP的基本原理（MCP的状态管理与中间态控制）](https://blog.csdn.net/aa2528877987/article/details/154599520)
 
++ [C# 使用扣子API 实现附带文件上传的AI对话功能](https://blog.csdn.net/michaelline/article/details/154641629)
+
++ [11.8  脚本网页 星际逃生](https://blog.csdn.net/2503_93413701/article/details/154575801)
+

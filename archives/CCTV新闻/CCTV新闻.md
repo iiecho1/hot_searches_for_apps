@@ -163,3 +163,7 @@
 
 + [印度新德里汽车爆炸事件已致10人死亡](https://news.cctv.com/2025/11/11/ARTIXSmq0HivcQAMuVlSEuUZ251111.shtml)
 
++ [中国援古巴家用太阳能设备项目举行物资交付仪式](https://news.cctv.com/2025/11/11/ARTIwdrdvzG8eVQfzjFZoGmK251111.shtml)
+
++ [加拿大失去“麻疹消除国”地位](https://news.cctv.com/2025/11/11/ARTIFKP8pPYDOmwImZZiqBhZ251111.shtml)
+
