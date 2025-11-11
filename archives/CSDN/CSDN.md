@@ -101,3 +101,25 @@
 
 + [AI开发革命：PyCharm科学计算模式重塑TensorFlow调试体验](https://blog.csdn.net/AI_5678/article/details/154646115)
 
++ [[免费]基于Python的农产品可视化系统(Django+echarts)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/154652152)
+
++ [JWT超全解析：一文学懂“数字身份证“的奥秘](https://blog.csdn.net/qq_44378083/article/details/150642739)
+
++ [2025年11月11日全球AI前沿动态](https://blog.csdn.net/ld326/article/details/154665688)
+
++ [▲QPSK调制解调+FFT频偏估计+VV(Viterbi-Viterbi)相位同步+LDPC编译码通信系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/154687862)
+
++ [无人船 | 图解基于MPC控制的路径跟踪算法(以全驱动无人艇WAMV为例)](https://blog.csdn.net/FRIGIDWINTER/article/details/154619731)
+
++ [【无人机控制】三维动力学模型下多场景的集群无人机编队控制仿真【含Matlab源码 XYPX005期】](https://blog.csdn.net/weixin_63266434/article/details/154645954)
+
++ [科技时代的人类寿命：与2500年前预言的神奇交汇与深层启示](https://blog.csdn.net/eidolon_foot/article/details/154579545)
+
++ [C# ASP.NET MVC 数据验证实战：View 层双保险（Html.ValidationMessageFor + jQuery Validate）](https://blog.csdn.net/William_cl/article/details/154660824)
+
++ [【Linux网络】Socket编程TCP-实现Echo Server（下）](https://blog.csdn.net/2402_82757055/article/details/154580844)
+
++ [基于华为昇腾CANN的自定义算子开发](https://blog.csdn.net/qq_38951259/article/details/154656706)
+
++ [C#/.NET/.NET Core技术前沿周刊 | 第  期（年.-.）](https://blog.csdn.net/shanxicai/article/details/154650660)
+

@@ -25,3 +25,13 @@
 
 + [API 21：华为鸿蒙 HarmonyOS 6.0.0.110 SP97 开发者版本推送](https://m.ithome.com/html/896293.htm)
 
++ [年卡 98.45 元手慢无：QQ 音乐豪华绿钻 8.2 元 / 月限时再发车](https://m.ithome.com/html/896277.htm)
+
++ [苹果 iPhone Air 2 被曝大幅推迟：富士康已拆除大部分生产线，仍保留 2027 年发布的希望](https://m.ithome.com/html/896449.htm)
+
++ [6.6mm 史上最薄 Mate：4199 元起华为 Mate 70 Air 今日正式开售，搭载麒麟 9020B](https://m.ithome.com/html/896480.htm)
+
++ [大疆 Osmo Pocket 4 云台相机再度现身：豪威 OV50R40 传感器、略长于前代产品，有望下月发布](https://m.ithome.com/html/896433.htm)
+
++ [中兴 F50 Pro 随身 Wi-Fi 开售：NFC 一碰连、64GB 共享网盘，首发 399 元](https://m.ithome.com/html/896422.htm)
+
