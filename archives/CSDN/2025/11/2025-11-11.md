@@ -205,3 +205,11 @@
 
 + [计算机网络概述](https://blog.csdn.net/2401_87910242/article/details/154620701)
 
++ [TensorFlow深度学习实战——胶囊网络](https://blog.csdn.net/LOVEmy134611/article/details/144705585)
+
++ [JWT超全解析：一文学懂“数字身份证“的奥秘](https://blog.csdn.net/qq_44378083/article/details/150642739)
+
++ [AI开发革命：PyCharm科学计算模式重塑TensorFlow调试体验](https://blog.csdn.net/AI_5678/article/details/154646115)
+
++ [LoRa 与 LoRaWAN 技术解析：物理层原理、网络架构与典型物联网应用场景](https://blog.csdn.net/LoRaWAN_Explorer/article/details/154656176)
+
