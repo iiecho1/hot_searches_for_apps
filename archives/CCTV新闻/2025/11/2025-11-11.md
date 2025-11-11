@@ -183,3 +183,7 @@
 
 + [台风“凤凰”已致菲律宾18人死亡 超240万人受灾](https://news.cctv.com/2025/11/11/ARTIUb6VGfDHTTvDzo0TnqjH251111.shtml)
 
++ [泰柬和平联合声明执行受阻 柬方：坚决否认埋新雷](https://news.cctv.com/2025/11/11/ARTItgKOa1T9GzCIJrfILOVq251111.shtml)
+
++ [激怒特朗普 BBC身陷数十年来“最严重危机”](https://news.cctv.com/2025/11/11/ARTIAAWvHHyQF8W1kSayUEY6251111.shtml)
+

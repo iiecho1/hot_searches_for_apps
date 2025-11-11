@@ -175,3 +175,13 @@
 
 + [2025 年 AI、机器学习与数据工程趋势报告](https://blog.csdn.net/qq_33589510/article/details/154639770)
 
++ [《Linux系统编程之系统导论》【冯诺依曼体系结构 + 操作系统基本概述】](https://blog.csdn.net/2301_80221951/article/details/154663952)
+
++ [远程写代码太麻烦?Jupyter+Docker+cpolar 打破地域限制](https://blog.csdn.net/2302_79177254/article/details/154688049)
+
++ [基于Hadoop+数据可视化+网络爬虫+机器学习预测算法的微信小程序的直播带货商品数据分析系统设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/154678727)
+
++ [学习threejs，打造虹彩编织球体](https://blog.csdn.net/qq_28419035/article/details/154690667)
+
++ [【粉丝福利社】全程软件自动化测试：开源实战](https://blog.csdn.net/aa2528877987/article/details/154682827)
+
