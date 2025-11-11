@@ -167,3 +167,9 @@
 
 + [加拿大失去“麻疹消除国”地位](https://news.cctv.com/2025/11/11/ARTIFKP8pPYDOmwImZZiqBhZ251111.shtml)
 
++ [美国联邦政府“停摆”刷新纪录（深度观察）](https://news.cctv.com/2025/11/11/ARTItRWYXh7OCev0lhmAtYWL251111.shtml)
+
++ [叙利亚政权领导人到访白宫会晤特朗普](https://news.cctv.com/2025/11/11/ARTIl6X1Ac7KP28ielSWm9Ev251111.shtml)
+
++ [美参议院投票通过临时拨款法案](https://news.cctv.com/2025/11/11/ARTIeTkoB40aFrm18C5XDwuk251111.shtml)
+

@@ -145,3 +145,15 @@
 
 + [【小程序】详细比较微信小程序的 onLoad 和 onShow](https://blog.csdn.net/henryhu712/article/details/154561279)
 
++ [基于深度学习CsiNet的信道状态反馈网络模型研究](https://blog.csdn.net/ccsss22/article/details/154644505)
+
++ [科技时代的人类寿命：与2500年前预言的神奇交汇与深层启示](https://blog.csdn.net/eidolon_foot/article/details/154579545)
+
++ [前端状态管理，为什么要状态管理？（React状态管理、zustand）](https://blog.csdn.net/Dontla/article/details/154659274)
+
++ [# SL-YOLO：一种更强更轻量的无人机目标检测模型](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/154675104)
+
++ [基于瑞萨 RA6M5 开发板的声源定位系统设计与实现](https://blog.csdn.net/2301_79248256/article/details/154647913)
+
++ [【Linux网络】Socket编程TCP-实现Echo Server（上）](https://blog.csdn.net/2402_82757055/article/details/154367478)
+
