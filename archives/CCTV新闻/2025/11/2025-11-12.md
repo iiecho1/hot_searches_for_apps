@@ -161,3 +161,15 @@
 
 + [荷兰一养殖场暴发禽流感 扑杀12万只家禽](https://news.cctv.com/2025/11/08/ARTIhfiwglgNzLq1qnz9gfaD251108.shtml)
 
++ [印军已保持高度戒备，巴方称“处于战争状态”，首都爆炸案加剧印巴紧张](https://news.cctv.com/2025/11/12/ARTIYfeyQvUJxlOq3RxjNKL1251112.shtml)
+
++ [法国总统会见巴勒斯坦总统 重申支持“两国方案”](https://news.cctv.com/2025/11/12/ARTI0cN7iWPOnEOfua3sE80h251112.shtml)
+
++ [回应日本对俄制裁 俄罗斯禁止30名日本公民入境](https://news.cctv.com/2025/11/12/ARTI7FOvbAovQNCjrWBIItar251112.shtml)
+
++ [G7外长会在加拿大举行 将讨论全球安全议题](https://news.cctv.com/2025/11/12/ARTIsVCFsR3v75YKHiC2vUCR251112.shtml)
+
++ [以色列战略事务部长向内塔尼亚胡递交辞呈](https://news.cctv.com/2025/11/12/ARTIU71qrblv55Nj3nlVi2kv251112.shtml)
+
++ [黎真主党领导人重申绝不会放弃武器](https://news.cctv.com/2025/11/12/ARTIVo32RwFIlwXgemyEcd3H251112.shtml)
+
