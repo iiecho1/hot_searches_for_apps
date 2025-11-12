@@ -203,3 +203,11 @@
 
 + [幽冥大陆(十七)手机摄像头注册到电脑——东方仙盟炼气期](https://blog.csdn.net/cybersnow/article/details/154700242)
 
++ [GitHub 热榜项目 - 日榜(2025-11-12)](https://blog.csdn.net/u014390502/article/details/154724997)
+
++ [YOLOv2算法详解（下篇）：细节打磨与性能突破的终极密码](https://blog.csdn.net/Sunhen_Qiletian/article/details/154702920)
+
++ [基于librespot的定制化Spotify客户端开发：开源替代方案的技术实践与优化](https://blog.csdn.net/kuyxerp/article/details/154677993)
+
++ [深度测评解析 CANN：从 ACL 到自定义算子，解锁昇腾计算的全部潜能](https://blog.csdn.net/weixin_62765017/article/details/154663564)
+
