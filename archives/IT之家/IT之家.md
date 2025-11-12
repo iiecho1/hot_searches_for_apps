@@ -29,3 +29,9 @@
 
 + [摆动摄影术看穿苹果 iPhone 17 Pro，屏幕原来是“3D”的](https://m.ithome.com/html/896565.htm)
 
++ [腾讯 27 周年：官方晒首间办公室照片，确认马化腾当过客服](https://m.ithome.com/html/896508.htm)
+
++ [6.6mm 史上最薄 Mate：4199 元起华为 Mate 70 Air 今日正式开售，搭载麒麟 9020B](https://m.ithome.com/html/896480.htm)
+
++ [国产手机进入万级大电池竞争时代：消息称某走量中端机 10000mAh&#177; 电池顺利试模，预计为小米新机](https://m.ithome.com/html/896491.htm)
+

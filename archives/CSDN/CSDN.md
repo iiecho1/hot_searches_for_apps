@@ -135,3 +135,11 @@
 
 + [MQTT协议详解：构建高效物联网通信的基石](https://blog.csdn.net/qq_36128330/article/details/154680394)
 
++ [Java 大视界 -- 基于 Java 的大数据实时数据处理在工业互联网设备协同制造中的应用与挑战](https://blog.csdn.net/atgfg/article/details/154620093)
+
++ [【AI智能体】Coze 基于关键词生成古诗词 + 配图智能体操作详解](https://blog.csdn.net/zhangcongyi420/article/details/153516870)
+
++ [物联网工控一体机操作系统选型：安卓、Ubuntu、Debian 场景化决策指南](https://blog.csdn.net/He_CSDN2025/article/details/154703429)
+
++ [【Linux网络】Socket编程TCP-实现Echo Server（下）](https://blog.csdn.net/2402_82757055/article/details/154580844)
+
