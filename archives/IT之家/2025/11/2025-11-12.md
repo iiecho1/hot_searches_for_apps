@@ -65,3 +65,9 @@
 
 + [苹果 M5 芯片家族将全线登陆 Mac，桌面 Studio / mini 锁定 2026 年中发布](https://m.ithome.com/html/896453.htm)
 
++ [小米澎湃 OS 3 系统新增文件夹打断动画，消息称能升级的机型“都有”](https://m.ithome.com/html/896687.htm)
+
++ [摆动摄影术看穿苹果 iPhone 17 Pro，屏幕原来是“3D”的](https://m.ithome.com/html/896565.htm)
+
++ [华为高精度定位服务“连续包月”11 月底正式下线，将停止自动订阅](https://m.ithome.com/html/896738.htm)
+

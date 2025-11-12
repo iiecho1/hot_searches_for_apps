@@ -161,3 +161,7 @@
 
 + [【JAVA进阶】SpringBoot启动流程深度解析：从main方法到应用就绪的完整旅程](https://blog.csdn.net/weixin_63944437/article/details/154695597)
 
++ [基于SpringBoot和PostGIS的城市道路里程信息转换-以湖南省OSM数据为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/154663130)
+
++ [CANN 特性能力解析-简化 AI 开发与提升计算效率](https://blog.csdn.net/weixin_52908342/article/details/154729269)
+
