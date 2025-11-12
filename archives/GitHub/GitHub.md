@@ -35,3 +35,27 @@
 
 + [WICG/email-verification-protocol](https://github.com/WICG/email-verification-protocol)
 
++ [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
+
++ [traefik/traefik](https://github.com/traefik/traefik)
+
++ [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
+
++ [volcengine/verl](https://github.com/volcengine/verl)
+
++ [GibsonAI/Memori](https://github.com/GibsonAI/Memori)
+
++ [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)
+
++ [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)
+
++ [playcanvas/engine](https://github.com/playcanvas/engine)
+
++ [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
++ [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
+
++ [milvus-io/milvus](https://github.com/milvus-io/milvus)
+
++ [wolfpld/tracy](https://github.com/wolfpld/tracy)
+
