@@ -57,3 +57,7 @@
 
 + [莲花集团 CEO 冯擎峰：车规诞生目的是为了安全，讨论车规是一种历史的倒退](https://m.ithome.com/html/896151.htm)
 
++ [贾跃亭：小米在我们面前根本没有还手之力，当年的乐视所向披靡](https://m.ithome.com/html/896735.htm)
+
++ [消息称国内某厂原计划的 Air 项目已叫停：iPhone Air 同款 ID + 5 开头电池和 5 开头厚度](https://m.ithome.com/html/896736.htm)
+

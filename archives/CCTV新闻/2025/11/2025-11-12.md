@@ -173,3 +173,5 @@
 
 + [黎真主党领导人重申绝不会放弃武器](https://news.cctv.com/2025/11/12/ARTIVo32RwFIlwXgemyEcd3H251112.shtml)
 
++ [美军“福特”号航母进入加勒比海地区](https://news.cctv.com/2025/11/12/ARTIPsk9ACzexiDxnaTPNnSc251112.shtml)
+
