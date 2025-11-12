@@ -27,3 +27,9 @@
 
 + [外包公司很挣钱](https://www.v2ex.com/t/1171922)
 
++ [骂醒此龟！](https://www.v2ex.com/t/1172194)
+
++ [每天上班都陷入巨大的内耗，何解？](https://www.v2ex.com/t/1172167)
+
++ [火绒 niubility，撕开鲁大师为首系列企业流量劫持黑幕](https://www.v2ex.com/t/1172169)
+

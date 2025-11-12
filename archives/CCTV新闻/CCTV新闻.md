@@ -177,3 +177,9 @@
 
 + [中国驻墨西哥使领馆提醒旅墨中国公民注意随身携带有效身份证件](https://news.cctv.com/2025/11/12/ARTI1EbhrjF1CEbZtvlmLf9f251112.shtml)
 
++ [中国构建了有效的创新体系（国际论坛·读懂中国·读懂中国式现代化）](https://news.cctv.com/2025/11/12/ARTI8RYCuSmdixUFnVviGeup251112.shtml)
+
++ [应对美威胁 委内瑞拉总统签署《整体防御指挥法》](https://news.cctv.com/2025/11/12/ARTIENGqb6ICdZvLyByNgg1k251112.shtml)
+
++ [外国媒体热议中共二十届四中全会——中国是全球进步的重要贡献者](https://news.cctv.com/2025/11/12/ARTI6Myv3vraQDVm4Mkq2jVB251112.shtml)
+

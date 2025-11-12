@@ -139,3 +139,19 @@
 
 + [Android 底部导航栏 (BottomNavigationView) 制作教程](https://blog.csdn.net/weixin_66708577/article/details/154658994)
 
++ [Java 大视界 -- Java 大数据在智能教育虚拟学习环境构建与用户体验优化中的应用](https://blog.csdn.net/atgfg/article/details/154616254)
+
++ [DooTask升级指南：解锁AI新功能，一键办公](https://blog.csdn.net/weixin_43151418/article/details/154691338)
+
++ [CANN图像批处理创新实战：让OpenCV加速28倍的秘密](https://blog.csdn.net/Mrxiao_bo/article/details/154722808)
+
++ [全面解析 OpenCV HOG：从特征提取到行人检测实战](https://blog.csdn.net/2301_77485708/article/details/154687564)
+
++ [GitHub 热榜项目 - 日榜(2025-11-11)](https://blog.csdn.net/u014390502/article/details/154679880)
+
++ [数据库迁移革命：金仓KReplay如何用真实负载回放技术缩短3周测试周期](https://blog.csdn.net/weixin_37800531/article/details/154640090)
+
++ [【完整源码+数据集+部署教程】外国钞票面值检测系统源码 [一条龙教学YOLOV8标注好的数据集一键训练_70+全套改进创新点发刊_Web前端展示]](https://blog.csdn.net/weixin_43860634/article/details/154686455)
+
++ [昇腾CANN训练营 学习（day4）Ascend C算子开发全流程深度解析：从环境准备到异构计算部署](https://blog.csdn.net/weixin_43260261/article/details/154691184)
+
