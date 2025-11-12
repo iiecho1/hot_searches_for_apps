@@ -171,3 +171,13 @@
 
 + [「腾讯云NoSQL」技术之Redis篇：精准围剿rehash时延毛刺实践方案揭秘](https://blog.csdn.net/weixin_43872058/article/details/154701780)
 
++ [TensorFlow深度学习实战（43）——TensorFlow.js](https://blog.csdn.net/LOVEmy134611/article/details/144698342)
+
++ [【昇腾CANN工程实践】BERT情感分析API性能优化实录：从CPU到NPU的15倍加速](https://blog.csdn.net/2301_80863610/article/details/154724557)
+
++ [论文解读 - 大型多模态模型中现实世界个性化基准测试](https://blog.csdn.net/INTSIG/article/details/154684137)
+
++ [LLM预训练的数据准备：从原始文本到向量的全过程](https://blog.csdn.net/better517/article/details/154735260)
+
++ [uni-app微信小程序相机组件二次拍照白屏问题的排查与解决](https://blog.csdn.net/orangutan92/article/details/154685228)
+
