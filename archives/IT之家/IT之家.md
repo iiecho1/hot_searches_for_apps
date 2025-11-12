@@ -61,3 +61,7 @@
 
 + [消息称国内某厂原计划的 Air 项目已叫停：iPhone Air 同款 ID + 5 开头电池和 5 开头厚度](https://m.ithome.com/html/896736.htm)
 
++ [全网 11.11 狂促倒数 10 小时：1 分钟速读巅峰 4 小时攻略，3C 数码国补全国可领，iPhone 17 Pro 换新 7904 元起](https://m.ithome.com/html/896398.htm)
+
++ [苹果 M5 芯片家族将全线登陆 Mac，桌面 Studio / mini 锁定 2026 年中发布](https://m.ithome.com/html/896453.htm)
+

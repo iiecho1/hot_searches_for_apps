@@ -175,3 +175,5 @@
 
 + [美军“福特”号航母进入加勒比海地区](https://news.cctv.com/2025/11/12/ARTIPsk9ACzexiDxnaTPNnSc251112.shtml)
 
++ [中国驻墨西哥使领馆提醒旅墨中国公民注意随身携带有效身份证件](https://news.cctv.com/2025/11/12/ARTI1EbhrjF1CEbZtvlmLf9f251112.shtml)
+
