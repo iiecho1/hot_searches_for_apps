@@ -161,3 +161,15 @@
 
 + [新西兰国家公园林火肆虐 过火面积超过千顷](https://news.cctv.com/2025/11/09/ARTILHjUMx4GvhdA8iqXKnRT251109.shtml)
 
++ [俄外交部：乌方停止与俄谈判说明其缺乏达成和平意愿](https://news.cctv.com/2025/11/13/ARTIJUaXuuxesY6ol3xFjTFP251113.shtml)
+
++ [印度政府谴责新德里汽车爆炸是“恐怖事件”](https://news.cctv.com/2025/11/13/ARTIaLnJMEIHlVernAANbdlE251113.shtml)
+
++ [乌克兰曝战时腐败窝案 两名部长下台](https://news.cctv.com/2025/11/13/ARTIKld97QTQ8RxqTjCpLVvp251113.shtml)
+
++ [“福特”号开进加勒比海 委内瑞拉开展大规模动员应对美航母逼近](https://news.cctv.com/2025/11/13/ARTI7T2YWlsvXWuRUEKmq3pg251113.shtml)
+
++ [米兰冬奥会与冬残奥会官方制服发布](https://news.cctv.com/2025/11/13/ARTIvU2mbyszukF2L6RCgfxx251113.shtml)
+
++ [政府“停摆”持续 美国12日当天已取消890趟航班](https://news.cctv.com/2025/11/13/ARTIDhTelDD8T1IG6nMFrAr8251113.shtml)
+
