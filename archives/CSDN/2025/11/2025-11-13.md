@@ -143,3 +143,7 @@
 
 + [【Linux网络】Socket编程TCP-实现Echo Server（下）](https://blog.csdn.net/2402_82757055/article/details/154580844)
 
++ [探索 CANN 的创新使用方式与性能优化-创新算子与高效计算](https://blog.csdn.net/weixin_52908342/article/details/154727825)
+
++ [DeepSeek-OCR——上下文视觉压缩：同等长度下，通过更少的视觉token解决长上下文处理难题](https://blog.csdn.net/v_JULY_v/article/details/154699042)
+
