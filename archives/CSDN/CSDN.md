@@ -211,3 +211,13 @@
 
 + [深度测评解析 CANN：从 ACL 到自定义算子，解锁昇腾计算的全部潜能](https://blog.csdn.net/weixin_62765017/article/details/154663564)
 
++ [深度学习（2）—— 神经网络与训练](https://blog.csdn.net/m0_61990598/article/details/154680870)
+
++ [【Linux】进程间通信（三）System V 共享内存完全指南：原理、系统调用与 C++ 封装实现](https://blog.csdn.net/2501_90265152/article/details/154659113)
+
++ [HTTP和HTTPS工作原理、安全漏洞及防护措施全面解析](https://blog.csdn.net/2501_91591841/article/details/154655251)
+
++ [4G+5G RF静态射频共享的介绍](https://blog.csdn.net/qq_39543984/article/details/154698345)
+
++ [O2OA（翱途）开发平台 v9.5 前端框架设计｜开放 · 安全 · 可控 · 信创优选](https://blog.csdn.net/liyi_hz2008/article/details/154653651)
+
