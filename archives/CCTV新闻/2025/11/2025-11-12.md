@@ -193,3 +193,5 @@
 
 + [泽连斯基：乌军在波克罗夫斯克“艰难”战斗](https://military.cctv.com/2025/11/12/ARTIICqT8wxaBieoAtRZhXIt251112.shtml)
 
++ [中领馆提醒中国公民留意泰国《酒精饮料管制法》修订](https://news.cctv.com/2025/11/12/ARTIIbA9a7AHhmXoSnXXQG46251112.shtml)
+

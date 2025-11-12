@@ -197,3 +197,9 @@
 
 + [AJAX学习 ---- axios体验 ](https://blog.csdn.net/m0_63178019/article/details/154494427)
 
++ [基于Qwen3-VL-8B-Instruct构建AI互动游戏（二）：高级游戏机制与多模态交互深入](https://blog.csdn.net/Liudef06/article/details/154647675)
+
++ [购物商城|基于SprinBoot+vue的网上购物商城系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/154741357)
+
++ [幽冥大陆(十七)手机摄像头注册到电脑——东方仙盟炼气期](https://blog.csdn.net/cybersnow/article/details/154700242)
+
