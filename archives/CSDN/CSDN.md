@@ -107,3 +107,29 @@
 
 + [智能家居中控：嵌入式开发全流程实战](https://blog.csdn.net/m0_62475782/article/details/154667365)
 
++ [基于MiniMax M2构建下一代自动化测试接口工具：完全指南](https://blog.csdn.net/Liudef06/article/details/154647480)
+
++ [MySQL 四种隔离级别：从脏读到幻读的全过程](https://blog.csdn.net/dividividiv/article/details/154676956)
+
++ [C/C++内存管理：代码稳健运行的密钥](https://blog.csdn.net/2501_91715541/article/details/154694407)
+
++ [《第三章》TS的类型系统与系统层级](https://blog.csdn.net/weixin_67448099/article/details/154680171)
+
++ [AI智能体落地：Agent-Assist vs 全自动化完整决策指南](https://blog.csdn.net/m0_46510245/article/details/154704885)
+
++ [DNS大揭秘：互联网的“导航系统“是如何工作的](https://blog.csdn.net/qq_44378083/article/details/150643291)
+
++ [2025 年 AI、机器学习与数据工程趋势报告](https://blog.csdn.net/qq_33589510/article/details/154639770)
+
++ [【Linux篇】信号机制深度剖析：从信号捕捉到SIGCHLD信号处理](https://blog.csdn.net/2301_81290732/article/details/148133393)
+
++ [[论文阅读] 生成式人工智能嵌入对公众职业安全感冲击的影响机理及防范对策](https://blog.csdn.net/zhangjiaoshou_/article/details/154709786)
+
++ [无人船 | 图解基于MPC控制的路径跟踪算法(以全驱动无人艇WAMV为例)](https://blog.csdn.net/FRIGIDWINTER/article/details/154619731)
+
++ [揭秘网络安全基石：对称加密、非对称加密、中间人攻击、数字证书与数字签名深度解析](https://blog.csdn.net/weixin_46491509/article/details/154750982)
+
++ [前端状态管理，为什么要状态管理？（React状态管理、zustand）](https://blog.csdn.net/Dontla/article/details/154659274)
+
++ [Android 主线程性能优化实战：从 90% 降至 13%](https://blog.csdn.net/qq_26225663/article/details/154698454)
+
