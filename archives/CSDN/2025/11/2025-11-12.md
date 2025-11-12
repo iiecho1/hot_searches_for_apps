@@ -165,3 +165,9 @@
 
 + [CANN 特性能力解析-简化 AI 开发与提升计算效率](https://blog.csdn.net/weixin_52908342/article/details/154729269)
 
++ [CANN赋能昇腾AI算力平台实践-架构解读与创新应用实际操作](https://blog.csdn.net/weixin_42878111/article/details/154724257)
+
++ [Supabase 开源 BaaS 平台的技术内核与实践指南](https://blog.csdn.net/qq_44608856/article/details/154638820)
+
++ [「腾讯云NoSQL」技术之Redis篇：精准围剿rehash时延毛刺实践方案揭秘](https://blog.csdn.net/weixin_43872058/article/details/154701780)
+
