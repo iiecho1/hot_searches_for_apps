@@ -183,3 +183,5 @@
 
 + [外国媒体热议中共二十届四中全会——中国是全球进步的重要贡献者](https://news.cctv.com/2025/11/12/ARTI6Myv3vraQDVm4Mkq2jVB251112.shtml)
 
++ [俄罗斯禁止30名日本公民入境 回应日方制裁](https://news.cctv.com/2025/11/12/ARTIHggkMlh0n5S6lCUgTRBh251112.shtml)
+

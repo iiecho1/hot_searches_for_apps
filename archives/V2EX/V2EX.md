@@ -33,3 +33,7 @@
 
 + [火绒 niubility，撕开鲁大师为首系列企业流量劫持黑幕](https://www.v2ex.com/t/1172169)
 
++ [双 11 部分商品先涨价再降价](https://www.v2ex.com/t/1171978)
+
++ [今年双 11 你们买了什么](https://www.v2ex.com/t/1172164)
+

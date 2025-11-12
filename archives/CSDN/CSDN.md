@@ -155,3 +155,9 @@
 
 + [昇腾CANN训练营 学习（day4）Ascend C算子开发全流程深度解析：从环境准备到异构计算部署](https://blog.csdn.net/weixin_43260261/article/details/154691184)
 
++ [【大场景重建】SkyfallGS：从卫星图像中合成沉浸式3D城市场景](https://blog.csdn.net/qq_45752541/article/details/154534630)
+
++ [DeepSeek与Kimi强强联手，PPT自动生成很省时间](https://blog.csdn.net/beautifulmemory/article/details/154617466)
+
++ [【JAVA进阶】SpringBoot启动流程深度解析：从main方法到应用就绪的完整旅程](https://blog.csdn.net/weixin_63944437/article/details/154695597)
+
