@@ -191,3 +191,9 @@
 
 + [从C++到仓颉：一个小型项目的迁移实践与深度思考](https://blog.csdn.net/lrq13965748542/article/details/154703648)
 
++ [社区养老保障|智慧养老|基于springboot+小程序社区养老保障系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154738524)
+
++ [助农惠农服务平台|助农服务系统|基于SprinBoot+vue的助农服务系统(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/154737895)
+
++ [AJAX学习 ---- axios体验 ](https://blog.csdn.net/m0_63178019/article/details/154494427)
+
