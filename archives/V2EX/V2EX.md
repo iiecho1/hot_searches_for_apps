@@ -49,3 +49,5 @@
 
 + [对于男人来说，难道结婚就没有一点好处吗？](https://www.v2ex.com/t/1172235)
 
++ [[限时永久免费] 做了一个软件，让 Windows 也能像 Mac 一样，通过 Apple Watch / iPhone 靠近解锁](https://www.v2ex.com/t/1172240)
+

@@ -191,3 +191,5 @@
 
 + [儿基会说以色列阻止儿童注射疫苗用物品进入加沙](https://news.cctv.com/2025/11/12/ARTIGA1TpmHp9i9p9Vfyh9pp251112.shtml)
 
++ [泽连斯基：乌军在波克罗夫斯克“艰难”战斗](https://military.cctv.com/2025/11/12/ARTIICqT8wxaBieoAtRZhXIt251112.shtml)
+

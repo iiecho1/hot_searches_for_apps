@@ -187,3 +187,7 @@
 
 + [大模型调用完全指南（含免费资源汇总）](https://blog.csdn.net/weixin_70530563/article/details/154660799)
 
++ [046：vue+threeJS实现物体自由落体运动](https://blog.csdn.net/cuclife/article/details/154397852)
+
++ [从C++到仓颉：一个小型项目的迁移实践与深度思考](https://blog.csdn.net/lrq13965748542/article/details/154703648)
+
