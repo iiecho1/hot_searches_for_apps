@@ -185,3 +185,9 @@
 
 + [俄罗斯禁止30名日本公民入境 回应日方制裁](https://news.cctv.com/2025/11/12/ARTIHggkMlh0n5S6lCUgTRBh251112.shtml)
 
++ [180万件！2024年中国专利申请量蝉联全球第一](https://news.cctv.com/2025/11/12/ARTI34GmUU0KbVeErRBZvGfU251112.shtml)
+
++ [韩国国情院前院长赵太庸被逮捕](https://news.cctv.com/2025/11/12/ARTIXeRCJBFDpxJUUry9Z1l0251112.shtml)
+
++ [儿基会说以色列阻止儿童注射疫苗用物品进入加沙](https://news.cctv.com/2025/11/12/ARTIGA1TpmHp9i9p9Vfyh9pp251112.shtml)
+

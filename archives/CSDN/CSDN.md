@@ -181,3 +181,9 @@
 
 + [uni-app微信小程序相机组件二次拍照白屏问题的排查与解决](https://blog.csdn.net/orangutan92/article/details/154685228)
 
++ [《理解数据在内存中的存储 --- 解密数据在计算机底层的存储秘密》](https://blog.csdn.net/2401_87342824/article/details/154688906)
+
++ [DNS大揭秘：互联网的“导航系统“是如何工作的](https://blog.csdn.net/qq_44378083/article/details/150643291)
+
++ [大模型调用完全指南（含免费资源汇总）](https://blog.csdn.net/weixin_70530563/article/details/154660799)
+
