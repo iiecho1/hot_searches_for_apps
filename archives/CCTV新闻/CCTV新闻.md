@@ -227,3 +227,9 @@
 
 + [埃及外交部长呼吁维护加沙停火协议](https://news.cctv.com/2025/11/13/ARTI7Z09XfQC9lFiLzv0rTTV251113.shtml)
 
++ [欧盟向乌克兰提供41亿欧元贷款](https://news.cctv.com/2025/11/13/ARTI4Cd3iRkxz2UTk8JJAGb4251113.shtml)
+
++ [G7外长会达成共识 欲加码对俄施压](https://news.cctv.com/2025/11/13/ARTIpstPPjs9EnGAvxsQwweZ251113.shtml)
+
++ [驻华使节看“十五五”规划建议：中国新蓝图 世界新机遇](https://news.cctv.com/2025/11/13/ARTICQNLHPA8Ow2F6lxJi6mt251113.shtml)
+

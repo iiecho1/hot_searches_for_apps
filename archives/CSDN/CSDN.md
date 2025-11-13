@@ -205,3 +205,9 @@
 
 + [Linux 虚拟机设置静态 IP 地址指南](https://blog.csdn.net/dfsdcvbhjnj/article/details/154753309)
 
++ [信息安全的容灾与业务持续&安全管理的措施](https://blog.csdn.net/g984160547/article/details/154697137)
+
++ [Vue3 - 获取浏览器麦克风列表并切换麦克风功能，用户选择麦克风后可采集音频录制声音+可随时结束录音+记录时长+在线播放试听或下载MP3或上传服务器，支持播放采集音频和采集音量大小（兼容任意浏览器）](https://blog.csdn.net/weixin_44198965/article/details/154791486)
+
++ [GPU 发展简史：图形处理到通用计算的蜕变](https://blog.csdn.net/qq_40767468/article/details/154755942)
+
