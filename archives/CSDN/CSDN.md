@@ -185,3 +185,7 @@
 
 + [深度测评解析 CANN：从 ACL 到自定义算子，解锁昇腾计算的全部潜能](https://blog.csdn.net/weixin_62765017/article/details/154663564)
 
++ [开源新势力：openGauss 在数字时代企业级开源库选型核心的竞争力](https://blog.csdn.net/qq_57761637/article/details/154773285)
+
++ [用 Doris 托底实时明细与聚合Flink CDC Pipeline 的 Doris Sink 实战](https://blog.csdn.net/weixin_43114209/article/details/154776024)
+
