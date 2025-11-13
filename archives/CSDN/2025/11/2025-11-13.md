@@ -169,3 +169,13 @@
 
 + [如何搭建IoT机器视觉](https://blog.csdn.net/2401_84168288/article/details/154758174)
 
++ [第21届智能车竞赛飞檐走壁组比赛赛道制作说明](https://blog.csdn.net/zhuoqingjoking97298/article/details/154690986)
+
++ [Java 大视界 -- Java 大数据机器学习模型在生物信息学基因功能预测中的优化与应用](https://blog.csdn.net/atgfg/article/details/154660850)
+
++ [MySQL JOIN ：多表连接的艺术](https://blog.csdn.net/qq_41840843/article/details/154735926)
+
++ [【linux】网络套接字编程（三）UDP服务器与客户端实现：跨主机执行命令程序，windows与linux通信执行命令程序，多人在线聊天程序，inet_ntop](https://blog.csdn.net/2301_80751958/article/details/154562052)
+
++ [【数据集分享】汽车价格预测数据集](https://blog.csdn.net/weixin_53197693/article/details/154733716)
+

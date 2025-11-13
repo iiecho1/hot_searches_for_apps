@@ -195,3 +195,11 @@
 
 + [极端天气频发 全球葡萄酒连续三年“低产”](https://news.cctv.com/2025/11/13/ARTIE39coe1BiViMfcwEacDO251113.shtml)
 
++ [视频丨美国政府终于“开门” 但这些损害确定无法恢复](https://news.cctv.com/2025/11/13/ARTIG6Y60TCGCp3geqYtWjGj251113.shtml)
+
++ [缺乏透明度、令人“不寒而栗”……多方批评美方在加勒比地区行为违反国际法](https://news.cctv.com/2025/11/13/ARTIsglDdlmIJ1ziUs4pClCj251113.shtml)
+
++ [美国联邦政府遭遇史上最长“停摆” 民众不得不承担“否决政治”代价](https://news.cctv.com/2025/11/13/ARTIj1ADX7WMFkcLmL9zi4gj251113.shtml)
+
++ [特朗普签署临时拨款法案 美政府结束“停摆”](https://news.cctv.com/2025/11/13/ARTI30dDxOoCL4Su8Xj9bri7251113.shtml)
+

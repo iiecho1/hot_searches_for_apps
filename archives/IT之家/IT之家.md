@@ -57,3 +57,9 @@
 
 + [华为 Mate 70 / 70 Pro 手机星闪车钥匙功能失效，预计今年 12 月底优化](https://m.ithome.com/html/897034.htm)
 
++ [奇瑞汽车就“天门山测试意外”致歉：防护绳脱落致车辆撞击护栏，将全力修复并承担赔偿责任](https://m.ithome.com/html/897040.htm)
+
++ [小米米家 App 安卓端推送 11.1.505.302 体验版，3D 家居视图上线](https://m.ithome.com/html/896993.htm)
+
++ [电脑账单手机付：华为鸿蒙 HarmonyOS 系统“隔空支付”功能曝光](https://m.ithome.com/html/896988.htm)
+
