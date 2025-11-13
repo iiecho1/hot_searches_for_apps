@@ -161,3 +161,9 @@
 
 + [日本民众要求撤走美国“堤丰”中导系统](https://news.cctv.com/2025/11/10/ARTIzPicBDbdc8qgEcRg0ROH251110.shtml)
 
++ [俄军一苏-30战机训练飞行时坠毁 机组人员全部遇难](https://news.cctv.com/2025/11/14/ARTIcdDmliN2l2FNQINg5Rj3251114.shtml)
+
++ [南非宣布有意申办2036年或2040年奥运会](https://news.cctv.com/2025/11/14/ARTIzLIypwBJCuecAupounzO251114.shtml)
+
++ [德国执政联盟就志愿兵役制改革达成一致](https://news.cctv.com/2025/11/14/ARTIBHLUAVyMr8o5djMBWbfR251114.shtml)
+
