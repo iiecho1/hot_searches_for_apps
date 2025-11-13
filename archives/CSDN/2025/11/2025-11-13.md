@@ -189,3 +189,5 @@
 
 + [用 Doris 托底实时明细与聚合Flink CDC Pipeline 的 Doris Sink 实战](https://blog.csdn.net/weixin_43114209/article/details/154776024)
 
++ [多站点价格监控与数据采集方案：基于 IPIDEA 的全流程实践](https://blog.csdn.net/a1657054242/article/details/154783346)
+

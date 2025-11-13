@@ -213,3 +213,11 @@
 
 + [韩国高考逾55万考生应考 创近七年新高](https://news.cctv.com/2025/11/13/ARTIkRR8mHrqQ7wdfKigqCuI251113.shtml)
 
++ [韩国一货车冲撞人群致2人死亡 涉事司机已被逮捕](https://news.cctv.com/2025/11/13/ARTIjkx7zdSmKhCwtXcwa0tw251113.shtml)
+
++ [日本开始允许警察使用步枪驱熊](https://news.cctv.com/2025/11/13/ARTIiy1k58HyfXdnpmiY9TWz251113.shtml)
+
++ [加拿大首次对俄罗斯网络基础设施供应商实施制裁](https://news.cctv.com/2025/11/13/ARTIZh0pEKr3p443cf08nc2s251113.shtml)
+
++ [法国大幅增加太空国防预算以应对新安全挑战](https://news.cctv.com/2025/11/13/ARTIHLEXHK0CuzYMSo8ZgdTw251113.shtml)
+
