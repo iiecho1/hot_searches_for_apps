@@ -191,3 +191,5 @@
 
 + [多站点价格监控与数据采集方案：基于 IPIDEA 的全流程实践](https://blog.csdn.net/a1657054242/article/details/154783346)
 
++ [使用大语言模型分析GB级运维日志：从数据预处理到智能洞察](https://blog.csdn.net/Liudef06/article/details/154750963)
+

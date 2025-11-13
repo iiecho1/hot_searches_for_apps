@@ -221,3 +221,7 @@
 
 + [法国大幅增加太空国防预算以应对新安全挑战](https://news.cctv.com/2025/11/13/ARTIHLEXHK0CuzYMSo8ZgdTw251113.shtml)
 
++ [印度政府：新德里爆炸案是“骇人听闻的恐怖事件”](https://news.cctv.com/2025/11/13/ARTIfkY8sNjryOZ0XPMK8wX1251113.shtml)
+
++ [联合国：数百万人面临饥荒 资金短缺影响救援](https://news.cctv.com/2025/11/13/ARTIBOsebD4RlDFZKTKgQVkU251113.shtml)
+
