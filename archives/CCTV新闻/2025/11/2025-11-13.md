@@ -233,3 +233,11 @@
 
 + [驻华使节看“十五五”规划建议：中国新蓝图 世界新机遇](https://news.cctv.com/2025/11/13/ARTICQNLHPA8Ow2F6lxJi6mt251113.shtml)
 
++ [巴黎恐袭事件十周年 法国举行悼念活动](https://news.cctv.com/2025/11/13/ARTIjoNTv7RG4GODviimH680251113.shtml)
+
++ [佩斯科夫：若美国开展核试验 俄将被迫采取相应行动](https://news.cctv.com/2025/11/13/ARTIUjGWk9UyVRxlEGOfwzxp251113.shtml)
+
++ [乌总统签署命令对腐败窝案中涉案人员实施制裁](https://news.cctv.com/2025/11/13/ARTIXIrXmLUa9ZO0z4s5WMa0251113.shtml)
+
++ [白宫称10月经济数据或“断供” 美联储面临“失明”](https://news.cctv.com/2025/11/13/ARTIAwfH7NubKqverbwBEKic251113.shtml)
+
