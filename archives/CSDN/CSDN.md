@@ -153,3 +153,9 @@
 
 + [GitHub 热榜项目 - 日榜(2025-11-11)](https://blog.csdn.net/u014390502/article/details/154679880)
 
++ [C#桌面框架与Qt对比及选型（国产操作系统开发视角）](https://blog.csdn.net/haohaoganhuo/article/details/154690410)
+
++ [基于Hadoop+数据可视化+机器学习随机森林预测算法+智能AI大模型+协同过滤推荐算法的青少年饮食习惯数据分析与可视化平台的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/154639477)
+
++ [IDEA源码阅读神器-Diagram工具](https://blog.csdn.net/u011305680/article/details/154650844)
+

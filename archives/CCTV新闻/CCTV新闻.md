@@ -175,3 +175,11 @@
 
 + [关于临时拨款法案 美众议院通过关键程序性投票](https://news.cctv.com/2025/11/13/ARTIYY2JCfy7awdPCGHeCU99251113.shtml)
 
++ [委内瑞拉军方称击落一架非法入境飞行器](https://news.cctv.com/2025/11/13/ARTIf2nbqR6mW9XvW973t2gC251113.shtml)
+
++ [法国财长：欧盟已就利用俄被冻结资产援乌达成共识](https://news.cctv.com/2025/11/13/ARTIsAVdWIRoUxGWHoGoc75Y251113.shtml)
+
++ [美众议院通过临时拨款法案 距结束政府“停摆”只差一步](https://news.cctv.com/2025/11/13/ARTIMGDrSuFq3zIytQA29ENC251113.shtml)
+
++ [历史最长“停摆”将结束，美国“坏账”继续](https://news.cctv.com/2025/11/13/ARTIApieHgu3T8Fac13uI2md251113.shtml)
+
