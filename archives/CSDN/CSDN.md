@@ -111,3 +111,13 @@
 
 + [四大主流浏览器Chrome、Edge、Safari、Firefox内核检测免费工具评测](https://blog.csdn.net/ToDetect/article/details/154743569)
 
++ [【数据库】Apache IoTDB数据库在大数据场景下的时序数据模型与建模方案](https://blog.csdn.net/qq_38628970/article/details/154795330)
+
++ [3个框架，10倍性能差距：C#移动应用跨平台性能大揭秘](https://blog.csdn.net/z_344791576/article/details/151686073)
+
++ [SpringBoot+openGauss DataVec构建高效RAG知识库实践](https://blog.csdn.net/m0_58847451/article/details/154771032)
+
++ [私有化部署DeepSeek并SpringBoot集成使用（附UI界面使用教程-支持语音、图片）](https://blog.csdn.net/2509_94005029/article/details/154754192)
+
++ [学习threejs，打造虹彩编织球体](https://blog.csdn.net/qq_28419035/article/details/154690667)
+
