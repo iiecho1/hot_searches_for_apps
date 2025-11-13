@@ -159,3 +159,13 @@
 
 + [IDEA源码阅读神器-Diagram工具](https://blog.csdn.net/u011305680/article/details/154650844)
 
++ [【自然语言处理】基于深度学习基的句子边界检测算法](https://blog.csdn.net/2401_84149564/article/details/154752632)
+
++ [【JAVA 进阶】Spring Boot 自动配置原理与自定义 Starter 实战](https://blog.csdn.net/weixin_63944437/article/details/154766289)
+
++ [2025 最新 AI 应用：Copilot 编码 / AI 影像 / 智能种药（附实操代码）](https://blog.csdn.net/qq_56999332/article/details/154736813)
+
++ [【强烈收藏】揭秘大语言模型的四大核心技术架构Transformer、循环神经网络、注意力机制和扩散模型](https://blog.csdn.net/2401_85154887/article/details/154685736)
+
++ [如何搭建IoT机器视觉](https://blog.csdn.net/2401_84168288/article/details/154758174)
+

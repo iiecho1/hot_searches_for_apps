@@ -183,3 +183,15 @@
 
 + [历史最长“停摆”将结束，美国“坏账”继续](https://news.cctv.com/2025/11/13/ARTIApieHgu3T8Fac13uI2md251113.shtml)
 
++ [韩国京畿道一货车冲入市场 致10人受伤](https://news.cctv.com/2025/11/13/ARTIHCGeJHI5AKRKZBbTkkam251113.shtml)
+
++ [黎巴嫩学者：中国积极扩大自主开放对世界各国意味着巨大机遇](https://news.cctv.com/2025/11/13/ARTI7880LWMHoMfcUjL6QXPE251113.shtml)
+
++ [中国为世界经济增长提供强大动力](https://news.cctv.com/2025/11/13/ARTIdY1kbqzMyzF0cDVwynXz251113.shtml)
+
++ [秘鲁一客车坠谷已致37人死亡](https://news.cctv.com/2025/11/13/ARTIXtIZTxsWCRAH7tODZtJB251113.shtml)
+
++ [航母压境 盟友避嫌 美为打击委内瑞拉做准备](https://news.cctv.com/2025/11/13/ARTI6DQ0AoiopU4S3JN6Y38k251113.shtml)
+
++ [极端天气频发 全球葡萄酒连续三年“低产”](https://news.cctv.com/2025/11/13/ARTIE39coe1BiViMfcwEacDO251113.shtml)
+
