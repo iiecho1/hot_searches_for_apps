@@ -63,3 +63,5 @@
 
 + [电脑账单手机付：华为鸿蒙 HarmonyOS 系统“隔空支付”功能曝光](https://m.ithome.com/html/896988.htm)
 
++ [陈震驾驶小鹏 X9 复刻劳斯莱斯闪灵事故，小鹏员工发文回应](https://m.ithome.com/html/897084.htm)
+

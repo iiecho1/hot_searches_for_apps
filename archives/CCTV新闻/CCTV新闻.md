@@ -203,3 +203,13 @@
 
 + [特朗普签署临时拨款法案 美政府结束“停摆”](https://news.cctv.com/2025/11/13/ARTI30dDxOoCL4Su8Xj9bri7251113.shtml)
 
++ [韩国一货车冲入市场致2人死亡](https://news.cctv.com/2025/11/13/ARTILNSFynaf6WUypXwV8uEF251113.shtml)
+
++ [特朗普：美国政府“停摆”损失了1.5万亿美元](https://news.cctv.com/2025/11/13/ARTImPShq8d5Cz5zWPnEpcAU251113.shtml)
+
++ [韩国京畿道一货车冲入市场 致20人受伤](https://news.cctv.com/2025/11/13/ARTI8XNysa5h1gN4eccy3AV5251113.shtml)
+
++ [印尼东加里曼丹省一船只沉没 致8人死亡](https://news.cctv.com/2025/11/13/ARTIV3ftlRIJZ4J0shtbjl5x251113.shtml)
+
++ [韩国高考逾55万考生应考 创近七年新高](https://news.cctv.com/2025/11/13/ARTIkRR8mHrqQ7wdfKigqCuI251113.shtml)
+
