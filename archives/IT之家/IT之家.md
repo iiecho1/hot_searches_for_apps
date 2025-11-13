@@ -25,3 +25,5 @@
 
 + [电脑账单手机付：华为鸿蒙 HarmonyOS 系统“隔空支付”功能曝光](https://m.ithome.com/html/896988.htm)
 
++ [微软史上销量最惨淡产品：仅售出 11 套，还被退回 8 套](https://m.ithome.com/html/896830.htm)
+

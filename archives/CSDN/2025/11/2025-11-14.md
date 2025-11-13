@@ -101,3 +101,13 @@
 
 + [【数据集分享】汽车价格预测数据集](https://blog.csdn.net/weixin_53197693/article/details/154733716)
 
++ [从 WAL 到 Fluss-＞Flink CDC Postgres Connector 端到端同步实战](https://blog.csdn.net/weixin_43114209/article/details/154732072)
+
++ [【CANN】开启AI开发新纪元，释放极致计算效率](https://blog.csdn.net/Morse_Chen/article/details/154618276)
+
++ [Spring Boot 日志实战：级别、持久化与 SLF4J 配置全指南](https://blog.csdn.net/2301_80543957/article/details/154454734)
+
++ [JuiceSSH+cpolar解锁手机远程Linux新姿势，无需公网IP，固定地址稳定用](https://blog.csdn.net/2401_82648291/article/details/154687619)
+
++ [四大主流浏览器Chrome、Edge、Safari、Firefox内核检测免费工具评测](https://blog.csdn.net/ToDetect/article/details/154743569)
+
