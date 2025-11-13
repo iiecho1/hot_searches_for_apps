@@ -35,3 +35,23 @@
 
 + [国产手机进入万级大电池竞争时代：消息称某走量中端机 10000mAh&#177; 电池顺利试模，预计为小米新机](https://m.ithome.com/html/896491.htm)
 
++ [“雷军千万年薪要挖”的 DeepSeek 罗福莉官宣加入小米 Xiaomi MiMo 大模型团队](https://m.ithome.com/html/896855.htm)
+
++ [微信公布视频通话 3 个隐藏功能：一键秒 CALL、上下分屏、自动接通](https://m.ithome.com/html/896810.htm)
+
++ [乘用车刚启动时默认零百加速不小于 5 秒、所有货车配 AEB，公安部汽车安全新国标公开征求意见](https://m.ithome.com/html/896949.htm)
+
++ [安卓 PC 首发配置曝光：硬件落后一代，性能恐成短板](https://m.ithome.com/html/896868.htm)
+
++ [因“多次泄密”，消息称字节跳动开除 Seed 研究员任赜宇](https://m.ithome.com/html/896873.htm)
+
++ [段永平回应为何不买特斯拉称不喜欢马斯克品行：做投资实际上就是在跟他做朋友，就算给钱我也不想跟他做朋友，但是我认识到他确实是厉害](https://m.ithome.com/html/896778.htm)
+
++ [小米双 11 收官：卢伟冰透露小米手机连续 3 年斩获国产手机销量第一](https://m.ithome.com/html/896918.htm)
+
++ [消息称手机内存涨价状态至少到明年上半年，已有厂商准备拆库存机内存给新机用](https://m.ithome.com/html/896937.htm)
+
++ [微软史上销量最惨淡产品：仅售出 11 套，还被退回 8 套](https://m.ithome.com/html/896830.htm)
+
++ [买了无限流量每月却只用 5GB，研究显示美国消费者普遍对手机网络资费缺乏了解](https://m.ithome.com/html/896977.htm)
+

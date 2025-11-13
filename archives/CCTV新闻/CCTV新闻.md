@@ -173,3 +173,5 @@
 
 + [政府“停摆”持续 美国12日当天已取消890趟航班](https://news.cctv.com/2025/11/13/ARTIDhTelDD8T1IG6nMFrAr8251113.shtml)
 
++ [关于临时拨款法案 美众议院通过关键程序性投票](https://news.cctv.com/2025/11/13/ARTIYY2JCfy7awdPCGHeCU99251113.shtml)
+
