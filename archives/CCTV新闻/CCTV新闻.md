@@ -225,3 +225,5 @@
 
 + [联合国：数百万人面临饥荒 资金短缺影响救援](https://news.cctv.com/2025/11/13/ARTIBOsebD4RlDFZKTKgQVkU251113.shtml)
 
++ [埃及外交部长呼吁维护加沙停火协议](https://news.cctv.com/2025/11/13/ARTI7Z09XfQC9lFiLzv0rTTV251113.shtml)
+
