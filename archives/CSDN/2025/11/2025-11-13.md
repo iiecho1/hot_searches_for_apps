@@ -225,3 +225,5 @@
 
 + [医疗小程序05完善就诊人信息](https://blog.csdn.net/u012877217/article/details/154678985)
 
++ [Qoder：一杯咖啡的诚意，开启AI编程新纪元](https://blog.csdn.net/2301_76341691/article/details/154738739)
+
