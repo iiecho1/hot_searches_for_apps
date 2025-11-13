@@ -27,3 +27,23 @@
 
 + [微软史上销量最惨淡产品：仅售出 11 套，还被退回 8 套](https://m.ithome.com/html/896830.htm)
 
++ [消息称小米 SU7 改款车型在路上](https://m.ithome.com/html/897149.htm)
+
++ [苹果 iOS 26.2 Beta 2 更新汇总：UI 动画更 Q 弹、拓展液体玻璃设计](https://m.ithome.com/html/897046.htm)
+
++ [Steam Machine 游戏主机正式亮相：Steam Deck 掌机 6 倍性能、支持光追，明年初开售](https://m.ithome.com/html/897043.htm)
+
++ [消息称腾讯与苹果达成协议：后者处理微信小程序支付事宜，并抽成 15%](https://m.ithome.com/html/897265.htm)
+
++ [澎湃 OS 3 正式版第三批机型开始推送，覆盖小米 14 系列、REDMI K70 系列等](https://m.ithome.com/html/897139.htm)
+
++ [华强北再发力：超雪团队成功实现苹果 iPhone Air 改实体 SIM 卡](https://m.ithome.com/html/897293.htm)
+
++ [王自如被恢复执行 1.94 亿，“回应”称没有对赌协议、3-5 年还清回购款](https://m.ithome.com/html/897154.htm)
+
++ [消息称苹果从微信小程序消费中抽取 15% 分成，腾讯回应](https://m.ithome.com/html/897285.htm)
+
++ [“HUAWEL”假冒“HUAWEI”：法院判三家公司连带赔偿华为经济损失 300 万元](https://m.ithome.com/html/897189.htm)
+
++ [打磨近 3000 个图层：设计师推苹果 iPhone 17 Pro / Max 全新“透视”壁纸，9 种色调](https://m.ithome.com/html/897061.htm)
+
