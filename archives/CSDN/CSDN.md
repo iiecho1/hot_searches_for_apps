@@ -129,3 +129,5 @@
 
 + [UDP网络编程：从客户端封装到服务端绑定的深度实践](https://blog.csdn.net/2302_80871796/article/details/154732780)
 
++ [Qt for HarmonyOS 跑马灯标签组件开发实战](https://blog.csdn.net/hahjee/article/details/154779430)
+

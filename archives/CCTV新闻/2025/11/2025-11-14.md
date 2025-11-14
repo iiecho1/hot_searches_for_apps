@@ -169,3 +169,9 @@
 
 + [“新格伦”火箭搭载火星探测器升空 第一级首次成功回收](https://news.cctv.com/2025/11/14/ARTIBR9eQIf8WMJt4CHGj7dq251114.shtml)
 
++ [印尼中爪哇省发生山体滑坡 2人死亡多人失踪](https://news.cctv.com/2025/11/14/ARTI1BW0CVW72hAEj9yZGbU7251114.shtml)
+
++ [伊朗展示自研导弹与无人机](https://photo.cctv.com/2025/11/14/PHOAqSp5WkEWJ53WcFUHl2JH251114.shtml)
+
++ [巴西一建筑发生火灾 已致2人受伤](https://news.cctv.com/2025/11/14/ARTIkYG9wxqgIRbAqAkgsHQK251114.shtml)
+

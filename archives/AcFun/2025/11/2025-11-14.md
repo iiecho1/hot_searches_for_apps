@@ -77,3 +77,7 @@
 
 + [[직캠] 23 오토살롱위크 남소라](https://m.acfun.cn/v/?ac=48004660)
 
++ [KOREA VAPE SHOW 2023 레이싱모델 민채윤 for s23 ultar 인물모드](https://m.acfun.cn/v/?ac=48005447)
+
++ [泫雅 Freaky 摆尾](https://m.acfun.cn/v/?ac=48007570)
+
