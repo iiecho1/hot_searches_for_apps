@@ -35,3 +35,5 @@
 
 + [中汽中心公开明确：将电池分为固态电池、固液混合电池、液态电池三大类](https://m.ithome.com/html/897141.htm)
 
++ [1299 元买个“被剪开的袜子”，苹果新款 iPhone Pocket 配件发布后即遭群嘲](https://m.ithome.com/html/897404.htm)
+
