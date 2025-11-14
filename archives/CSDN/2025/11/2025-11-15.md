@@ -107,3 +107,15 @@
 
 + [Java+Leaflet:湖南省道路长度WebGIS的构建与实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/154801607)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言生成中的可控性研究与应用实战](https://blog.csdn.net/atgfg/article/details/154742887)
+
++ [TensorFlow深度学习实战（43）——TensorFlow.js](https://blog.csdn.net/LOVEmy134611/article/details/144698342)
+
++ [医疗保健|医疗养老|基于Java+vue的医疗保健系统(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/154827162)
+
++ [Linux网络--Socket 编程 TCP](https://blog.csdn.net/2302_79606537/article/details/154705125)
+
++ [Prompt提示词工程概述](https://blog.csdn.net/qq_64232275/article/details/154799305)
+
++ [Android16 EDLA 开机向导的锁屏设置页面，HDMI out 鼠标不显示问题分析解决](https://blog.csdn.net/wenzhi20102321/article/details/154801555)
+

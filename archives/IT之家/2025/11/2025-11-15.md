@@ -25,3 +25,13 @@
 
 + [欢迎回家：神舟二十号航天员乘组将乘坐二十一号飞船，今日返回东风着陆场](https://m.ithome.com/html/897336.htm)
 
++ [消息称小米 SU7 改款车型在路上](https://m.ithome.com/html/897149.htm)
+
++ [澎湃 OS 3 正式版第三批机型开始推送，覆盖小米 14 系列、REDMI K70 系列等](https://m.ithome.com/html/897139.htm)
+
++ [王自如被恢复执行 1.94 亿，“回应”称没有对赌协议、3-5 年还清回购款](https://m.ithome.com/html/897154.htm)
+
++ [骑自行车和电动车也查酒驾，北京最高罚款 50 元](https://m.ithome.com/html/897113.htm)
+
++ [中汽中心公开明确：将电池分为固态电池、固液混合电池、液态电池三大类](https://m.ithome.com/html/897141.htm)
+
