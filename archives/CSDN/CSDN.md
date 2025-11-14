@@ -199,3 +199,9 @@
 
 + [【FPGA+DSP系列】——PWM电平光耦转换电路实验分析----电路原理分析，器件选型](https://blog.csdn.net/g_125487/article/details/154774096)
 
++ [OpenAI与百度同日竞速，文心5.0以原生全模态重新定义AI理解力](https://blog.csdn.net/weixin_51390582/article/details/154838589)
+
++ [MySQL JOIN ：多表连接的艺术](https://blog.csdn.net/qq_41840843/article/details/154735926)
+
++ [Spring Boot 应用的云原生 Docker 化部署实践指南](https://blog.csdn.net/haohaizi_liu/article/details/154773297)
+
