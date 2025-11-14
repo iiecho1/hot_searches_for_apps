@@ -131,3 +131,7 @@
 
 + [Qt for HarmonyOS 跑马灯标签组件开发实战](https://blog.csdn.net/hahjee/article/details/154779430)
 
++ [JSON Crack+cpolar：让数据协作跳出局域网的局限](https://blog.csdn.net/2301_77485708/article/details/154793206)
+
++ [Dubbo线程模型全解析：提升微服务性能的底层逻辑](https://blog.csdn.net/qq_44378083/article/details/154799388)
+

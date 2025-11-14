@@ -175,3 +175,7 @@
 
 + [巴西一建筑发生火灾 已致2人受伤](https://news.cctv.com/2025/11/14/ARTIkYG9wxqgIRbAqAkgsHQK251114.shtml)
 
++ [开放发展的中国，世界的机遇和信心](https://news.cctv.com/2025/11/14/ARTI0QAhPNqpAnFJP6NzE5D8251114.shtml)
+
++ [美国最大电信运营商拟裁员约1.5万人](https://news.cctv.com/2025/11/14/ARTI0h9mT2aiYq3L1jfwMeIb251114.shtml)
+
