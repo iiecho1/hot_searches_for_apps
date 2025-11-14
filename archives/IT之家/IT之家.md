@@ -37,3 +37,7 @@
 
 + [1299 元买个“被剪开的袜子”，苹果新款 iPhone Pocket 配件发布后即遭群嘲](https://m.ithome.com/html/897404.htm)
 
++ [陈震驾驶小鹏 X9 复刻劳斯莱斯闪灵事故，小鹏员工发文回应](https://m.ithome.com/html/897084.htm)
+
++ [打磨近 3000 个图层：设计师推苹果 iPhone 17 Pro / Max 全新“透视”壁纸，9 种色调](https://m.ithome.com/html/897061.htm)
+
