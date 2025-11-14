@@ -183,3 +183,7 @@
 
 + [政府“重启”党争未停 美媒称“华盛顿用43天的混乱换来短暂的两个月喘息”](https://news.cctv.com/2025/11/14/ARTIG1EgbQ2P6afRzgU5ywCQ251114.shtml)
 
++ [“停摆”影响不断扩大 美政府留下难以挽回的经济民生“坏账”](https://news.cctv.com/2025/11/14/ARTI0QcvczFXKo5YuURXqJyV251114.shtml)
+
++ [心相近｜中埃携手，书写文明互鉴新佳话](https://news.cctv.com/2025/11/14/ARTI9Wwg12l6hEpfJLSsTrwV251114.shtml)
+
