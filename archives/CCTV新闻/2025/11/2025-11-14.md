@@ -181,3 +181,5 @@
 
 + [委内瑞拉议会主席：美国“缉毒”真正目的是掠夺石油](https://news.cctv.com/2025/11/14/ARTIcrqaDJRvfIlTKFqyCY9L251114.shtml)
 
++ [政府“重启”党争未停 美媒称“华盛顿用43天的混乱换来短暂的两个月喘息”](https://news.cctv.com/2025/11/14/ARTIG1EgbQ2P6afRzgU5ywCQ251114.shtml)
+
