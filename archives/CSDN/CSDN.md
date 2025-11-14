@@ -173,3 +173,9 @@
 
 + [蓝牙PAN精讲[7]：构建无线个人网络的安全堡垒](https://blog.csdn.net/weixin_37800531/article/details/154757444)
 
++ [Java 大视界 -- Java 大数据在智能物流仓储货位优化与库存周转率提升中的应用实战](https://blog.csdn.net/atgfg/article/details/154803638)
+
++ [Java+Leaflet:湖南省道路长度WebGIS的构建与实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/154801607)
+
++ [Rust 从零到精通：构建一个专业级命令行工具 greprs](https://blog.csdn.net/2301_80863610/article/details/154833790)
+
