@@ -199,3 +199,5 @@
 
 + [我领馆证实巴厘岛交通事故致中国公民5死8伤](https://news.cctv.com/2025/11/14/ARTIw08XJX29riMIN5LJygS9251114.shtml)
 
++ [欧洲议会批准欧盟2040年减排目标](https://news.cctv.com/2025/11/14/ARTIA7cfxT34Aq9gyUvkgxtT251114.shtml)
+
