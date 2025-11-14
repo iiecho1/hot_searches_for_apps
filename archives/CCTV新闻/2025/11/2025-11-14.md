@@ -187,3 +187,9 @@
 
 + [心相近｜中埃携手，书写文明互鉴新佳话](https://news.cctv.com/2025/11/14/ARTI9Wwg12l6hEpfJLSsTrwV251114.shtml)
 
++ [马克龙：法国10年来挫败85起恐袭图谋](https://news.cctv.com/2025/11/14/ARTIwRNhXgDl2hiEnIADed7k251114.shtml)
+
++ [巴基斯坦总统签署批准第27次宪法修正案](https://news.cctv.com/2025/11/14/ARTIB1csQUZqRtjNDbSSJ9Hw251114.shtml)
+
++ [韩美签署韩对美3500亿美元投资协议](https://news.cctv.com/2025/11/14/ARTIaOqThjxLvxO1B4LQZNmb251114.shtml)
+

@@ -165,3 +165,11 @@
 
 + [Docker 缓存优化：通过 cpolar 内网穿透服务远程管理 Redis](https://blog.csdn.net/weixin_66401877/article/details/154832651)
 
++ [探索 CANN 的创新使用方式：从算子优化到新形态 AI 应用的可能性](https://blog.csdn.net/weixin_52258054/article/details/154730786)
+
++ [Nextcloud容器化部署新范式：Docker与Cpolar如何重塑私有云远程访问能力](https://blog.csdn.net/2301_80840905/article/details/154831432)
+
++ [Java灰度发布：Azure的AB测试如何让线上事故减少90%？](https://blog.csdn.net/z_344791576/article/details/151688891)
+
++ [蓝牙PAN精讲[7]：构建无线个人网络的安全堡垒](https://blog.csdn.net/weixin_37800531/article/details/154757444)
+
