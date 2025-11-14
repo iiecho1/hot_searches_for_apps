@@ -135,3 +135,13 @@
 
 + [Dubbo线程模型全解析：提升微服务性能的底层逻辑](https://blog.csdn.net/qq_44378083/article/details/154799388)
 
++ [Java 大视界 -- Java 大数据在智能医疗影像数据压缩与传输优化中的技术应用](https://blog.csdn.net/atgfg/article/details/154701831)
+
++ [【强烈收藏】揭秘大语言模型的四大核心技术架构Transformer、循环神经网络、注意力机制和扩散模型](https://blog.csdn.net/2401_85154887/article/details/154685736)
+
++ [MySQL不停机迁移完全指南](https://blog.csdn.net/weixin_52236586/article/details/154753264)
+
++ [C++备忘录模式：优雅实现对象状态保存与恢复](https://blog.csdn.net/2503_92624912/article/details/154804166)
+
++ [深入理解电流传感器相位补偿：原理、方法与典型应用](https://blog.csdn.net/weixin_62244995/article/details/154699059)
+

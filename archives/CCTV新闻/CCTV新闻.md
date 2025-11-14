@@ -179,3 +179,5 @@
 
 + [美国最大电信运营商拟裁员约1.5万人](https://news.cctv.com/2025/11/14/ARTI0h9mT2aiYq3L1jfwMeIb251114.shtml)
 
++ [委内瑞拉议会主席：美国“缉毒”真正目的是掠夺石油](https://news.cctv.com/2025/11/14/ARTIcrqaDJRvfIlTKFqyCY9L251114.shtml)
+
