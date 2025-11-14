@@ -41,3 +41,19 @@
 
 + [打磨近 3000 个图层：设计师推苹果 iPhone 17 Pro / Max 全新“透视”壁纸，9 种色调](https://m.ithome.com/html/897061.htm)
 
++ [消息称苹果 iPhone 17 系列本周完成中国市场激活 1000W+ 里程碑，发售不到两个月](https://m.ithome.com/html/897425.htm)
+
++ [B站 CEO 陈睿：《逃离鸭科夫》可能冲击“国产单机历史第二”，手游项目已启动](https://m.ithome.com/html/897366.htm)
+
++ [美团外卖上线“致敬蓝朋友”专场，“隔空喊话饿了么”感谢 12 年相伴](https://m.ithome.com/html/897436.htm)
+
++ [理想汽车发布两起质量事故处理公告，一共 18 名员工被问责](https://m.ithome.com/html/897479.htm)
+
++ [多家手机厂商被曝暂缓采购存储芯片，小米、OPPO、vivo 库存普遍低于两个月](https://m.ithome.com/html/897552.htm)
+
++ [小米汽车公布车辆超速提示专利](https://m.ithome.com/html/897426.htm)
+
++ [比亚迪海豹 06 DM-i 超享版上市：CLTC 纯电续航 128km，售 9.69 万元起](https://m.ithome.com/html/897427.htm)
+
++ [鸿蒙智行问界 M9L 加长版谍照曝光，有望为“非凡大师”特别车型](https://m.ithome.com/html/897369.htm)
+

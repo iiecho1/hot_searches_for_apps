@@ -121,3 +121,5 @@
 
 + [基于SpringBoot与Vue的海外理财系统设计与实现](https://blog.csdn.net/dubiaopei/article/details/154803651)
 
++ [【前端学习】仿Deepseek官网AI聊天网站React](https://blog.csdn.net/m0_62969865/article/details/154800400)
+

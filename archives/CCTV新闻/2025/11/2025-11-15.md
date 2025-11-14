@@ -161,3 +161,11 @@
 
 + [黎真主党领导人重申绝不会放弃武器](https://news.cctv.com/2025/11/12/ARTIVo32RwFIlwXgemyEcd3H251112.shtml)
 
++ [波黑养老院火灾事故原因公布：由电线短路引发](https://news.cctv.com/2025/11/15/ARTIkMqkLWbBFUidsQPmwJdV251115.shtml)
+
++ [波兰将于17日重启与白俄罗斯两个陆路边境口岸](https://news.cctv.com/2025/11/15/ARTIAsHSBtRqG7WG06YqJOuT251115.shtml)
+
++ [美政府将部分农产品移出“对等关税”清单](https://news.cctv.com/2025/11/15/ARTIX6HrvuPBw12Ka9ueOryl251115.shtml)
+
++ [中国南极考察队成功救援1名俄南极考察站病员](https://news.cctv.com/2025/11/15/ARTI8pwqpHqwaiVmqE9SjtCi251115.shtml)
+
