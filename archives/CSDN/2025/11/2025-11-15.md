@@ -101,3 +101,9 @@
 
 + [【FPGA+DSP系列】——PWM电平光耦转换电路实验分析----电路原理分析，器件选型](https://blog.csdn.net/g_125487/article/details/154774096)
 
++ [OpenAI与百度同日竞速，文心5.0以原生全模态重新定义AI理解力](https://blog.csdn.net/weixin_51390582/article/details/154838589)
+
++ [Rust 从零到精通：构建一个专业级命令行工具 greprs](https://blog.csdn.net/2301_80863610/article/details/154833790)
+
++ [Java+Leaflet:湖南省道路长度WebGIS的构建与实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/154801607)
+
