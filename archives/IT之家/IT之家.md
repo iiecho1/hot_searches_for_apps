@@ -59,3 +59,11 @@
 
 + [2998 元起：大疆 Osmo Action 6 运动相机发布，首搭 f/2.0-4.0 可变光圈、1/1.1 英寸方形传感器](https://m.ithome.com/html/897273.htm)
 
++ [Mate 80？华为年底新旗舰被曝 20GB 大内存国产定制方案，搭配麒麟 9030](https://m.ithome.com/html/897379.htm)
+
++ [微信小程序官宣将在 iOS 端支持接入虚拟支付，苹果抽成 15%](https://m.ithome.com/html/897349.htm)
+
++ [消息称某厂“大大杯”工程机采用物理双长焦方案：Sensor 原生 50Mp+50Mp，预计属华为 Mate 80 系列](https://m.ithome.com/html/897243.htm)
+
++ [欢迎回家：神舟二十号航天员乘组将乘坐二十一号飞船，今日返回东风着陆场](https://m.ithome.com/html/897336.htm)
+
