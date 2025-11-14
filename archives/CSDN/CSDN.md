@@ -181,3 +181,9 @@
 
 + [Answer 开源平台搭建：cpolar 内网穿透服务助力全球用户社区构建](https://blog.csdn.net/2302_78391795/article/details/154832720)
 
++ [虚竹哥与机械工业出版社免费送AI书活动第十二期《DeepSeek高效辅助论文写作》](https://blog.csdn.net/shi_hong_fei_hei/article/details/154796147)
+
++ [实战｜SpringBoot+Vue3 医院智能预约挂号系统（含 AI 助手）](https://blog.csdn.net/qq_43013173/article/details/154802856)
+
++ [Copilot、Codeium 软件开发领域的代表性工具背后的技术](https://blog.csdn.net/m0_57874805/article/details/154839718)
+
