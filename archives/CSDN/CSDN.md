@@ -119,3 +119,5 @@
 
 + [Android16 EDLA 开机向导的锁屏设置页面，HDMI out 鼠标不显示问题分析解决](https://blog.csdn.net/wenzhi20102321/article/details/154801555)
 
++ [基于SpringBoot与Vue的海外理财系统设计与实现](https://blog.csdn.net/dubiaopei/article/details/154803651)
+
