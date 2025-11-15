@@ -123,3 +123,7 @@
 
 + [【前端学习】仿Deepseek官网AI聊天网站React](https://blog.csdn.net/m0_62969865/article/details/154800400)
 
++ [大话Rust的前生今世](https://blog.csdn.net/sixpp/article/details/154849330)
+
++ [遥感论文学习](https://blog.csdn.net/2401_88477587/article/details/154663301)
+

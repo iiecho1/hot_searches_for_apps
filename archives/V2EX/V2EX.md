@@ -21,3 +21,5 @@
 
 + [今天生日，简单记录下](https://www.v2ex.com/t/1172728)
 
++ [微软免费的 Microsoft 365 E3 全局账号注册---免费使用 OFFICE、5TB Onedrive 以及微软企业邮局](https://www.v2ex.com/t/1172827)
+

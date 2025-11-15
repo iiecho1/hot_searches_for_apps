@@ -169,3 +169,5 @@
 
 + [中国南极考察队成功救援1名俄南极考察站病员](https://news.cctv.com/2025/11/15/ARTI8pwqpHqwaiVmqE9SjtCi251115.shtml)
 
++ [苏丹领导人称不会与快速支援部队达成停火或和平协议](https://news.cctv.com/2025/11/15/ARTIQ3Gc2MUTJRGQzDeqNyNJ251115.shtml)
+
