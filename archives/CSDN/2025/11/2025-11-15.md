@@ -143,3 +143,9 @@
 
 + [信息安全的容灾与业务持续&安全管理的措施](https://blog.csdn.net/g984160547/article/details/154697137)
 
++ [【JAVA 进阶】Spring Boot 注解体系与工程实践](https://blog.csdn.net/weixin_63944437/article/details/154848266)
+
++ [【愚公系列】《MCP协议与AI Agent开发》011-MCP协议标准与规范体系（交互协议与状态码体系）](https://blog.csdn.net/aa2528877987/article/details/154838607)
+
++ [图像分割技术全解析：从传统算法到深度学习的视觉分割革命](https://blog.csdn.net/nnn__nnn/article/details/154778143)
+
