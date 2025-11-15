@@ -149,3 +149,9 @@
 
 + [图像分割技术全解析：从传统算法到深度学习的视觉分割革命](https://blog.csdn.net/nnn__nnn/article/details/154778143)
 
++ [MySQL USE 语句：数据库选择方法与实践](https://blog.csdn.net/qq_41840843/article/details/154771492)
+
++ [PyTorch实战（10）——从零开始实现GPT模型](https://blog.csdn.net/LOVEmy134611/article/details/150394047)
+
++ [【Linux】冯诺依曼体系结构和操作系统的理解](https://blog.csdn.net/qq_64597821/article/details/153878505)
+
