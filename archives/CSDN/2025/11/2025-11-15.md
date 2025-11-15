@@ -169,3 +169,11 @@
 
 + [c++（斗罗大陆3）](https://blog.csdn.net/2302_76761070/article/details/154800248)
 
++ [Java 大视界 -- Java 大数据在智能教育个性化学习资源推荐中的冷启动解决方案](https://blog.csdn.net/atgfg/article/details/154759109)
+
++ [黑马Python+AI大模型开发课程笔记(个人记录、仅供参考)](https://blog.csdn.net/2301_80558092/article/details/154690288)
+
++ [sward V2.1.5 版本发布，支持文档导出为html\PDF，社区版新增多种账号集成与认证](https://blog.csdn.net/tiklab2020/article/details/154839972)
+
++ [【ZeroRange WebRTC】Amazon Kinesis Video Streams WebRTC SDK 音视频传输技术分析](https://blog.csdn.net/love131452098/article/details/154850469)
+
