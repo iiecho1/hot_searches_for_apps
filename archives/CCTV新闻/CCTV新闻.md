@@ -195,3 +195,7 @@
 
 + [响应全球治理需求 顺应时代共同呼声——共建“新型全球领导力”智库报告引发非洲各界人士共鸣](https://news.cctv.com/2025/11/15/ARTIs0raio6yVNnjkgVz9R4M251115.shtml)
 
++ [中国驻琅勃拉邦总领事馆：领区一中国公民不幸遇害，总领馆启动领事保护应急机制](https://news.cctv.com/2025/11/15/ARTIPZTbyC67KcCNSIwRwrL7251115.shtml)
+
++ [印尼中爪哇省山体滑坡遇难人数升至6人](https://news.cctv.com/2025/11/15/ARTIKYT5NlNmZuw9wumbagVy251115.shtml)
+
