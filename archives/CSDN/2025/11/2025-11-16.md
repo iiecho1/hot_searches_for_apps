@@ -113,3 +113,31 @@
 
 + [基于Unity YooAsset自动化资源管理框架，附源代码](https://blog.csdn.net/li491093957/article/details/153631659)
 
++ [校园墙|校园社区|基于Java+vue的校园墙小程序系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154820784)
+
++ [数据库 - SQL ](https://blog.csdn.net/2301_79715645/article/details/154778960)
+
++ [认识Linux -- 进程概念](https://blog.csdn.net/2301_79875009/article/details/153525574)
+
++ [信息安全的容灾与业务持续&安全管理的措施](https://blog.csdn.net/g984160547/article/details/154697137)
+
++ [基于大数据Hadoop+网络爬虫+数据可视化+深度学习预测算法森林股票预测系统设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/154884714)
+
++ [「腾讯云NoSQL」技术之向量数据库篇:腾讯云向量数据库如何实现召回不变，成本减半?](https://blog.csdn.net/weixin_43872058/article/details/154776623)
+
++ [Docker 部署 DeepSeek-OCR 和WebUI](https://blog.csdn.net/weimeilayer/article/details/154795511)
+
++ [2025年数维杯数学建模挑战赛（秋季赛）D题超详细解题思路+数据集分享](https://blog.csdn.net/qq_33690821/article/details/154833810)
+
++ [苍穹外卖 —— Spring Task和WebSocket的运用以及订单统一处理、订单的提醒和催单功能的实现](https://blog.csdn.net/Rookiebird829/article/details/154788948)
+
++ [linux： udp服务器与客户端 CS 基于ipv4的地址结构体](https://blog.csdn.net/xuandonggo/article/details/154750919)
+
++ [仓颉迁移实战：将 Node.js 微服务移植到 Cangjie 的工程化评测](https://blog.csdn.net/wtyuong/article/details/154833279)
+
++ [draw.io桌面版下载与使用指南](https://blog.csdn.net/jjj_web/article/details/154764780)
+
++ [Pig4Cloud微服务分布式ID生成：Snowflake算法深度集成指南](https://blog.csdn.net/LocalHost_1/article/details/154785907)
+
++ [VMware ESXi 8.0U3g macOS Unlocker & OEM BIOS 2.7 集成 Realtek 网卡驱动版](https://blog.csdn.net/sysinside/article/details/154785444)
+
