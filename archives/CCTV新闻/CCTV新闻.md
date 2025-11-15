@@ -181,3 +181,9 @@
 
 + [不寻常！叙利亚首都遭火箭弹袭击](https://news.cctv.com/2025/11/15/ARTI0tbYjavOBngbO9y4oazV251115.shtml)
 
++ [塞尔维亚东南部村镇发生枪击事件 致2死1伤](https://news.cctv.com/2025/11/15/ARTIU3XVbBiF4JWpQP0J1fvB251115.shtml)
+
++ [北美观察丨航母逼近 白宫议战 美委高压态势会否升级为区域战争？](https://news.cctv.com/2025/11/15/ARTI0W0OVu9Z9giIHIOtfT5I251115.shtml)
+
++ [美联储官员：美国通胀水平呈上行趋势 不支持12月降息](https://news.cctv.com/2025/11/15/ARTIbItLUvzLLGlVlKh8aprY251115.shtml)
+

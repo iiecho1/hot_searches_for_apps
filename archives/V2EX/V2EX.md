@@ -47,3 +47,11 @@
 
 + [为什么结婚是两个家庭的事](https://www.v2ex.com/t/1172846)
 
++ [为什么安卓互传联盟不开放接口协议？](https://www.v2ex.com/t/1172937)
+
++ [健身房锻炼时的一个思考](https://www.v2ex.com/t/1172944)
+
++ [兄弟们，感情问题要不要听 AI 的？](https://www.v2ex.com/t/1172874)
+
++ [没有人讨论 steam machine 吗？](https://www.v2ex.com/t/1172893)
+

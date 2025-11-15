@@ -73,3 +73,11 @@
 
 + [苹果“二号人物”Jeff Williams 正式退休离职，库克称没他就没现在的 Apple 公司](https://m.ithome.com/html/897588.htm)
 
++ [华为 Mate 80 系列再曝，消息称还有 3D 人脸大直屏新机](https://m.ithome.com/html/897640.htm)
+
++ [消息称华为 Mate 80 系列同期还有高端“二合一平板电脑”，麒麟 9 系性能平台](https://m.ithome.com/html/897628.htm)
+
++ [CounterPoint 称苹果 iPhone Air 成“鲶鱼”，倒逼华为、OPPO、vivo 等中国手机企业紧跟 eSIM](https://m.ithome.com/html/897600.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.112 版本首曝，支持电脑投平板](https://m.ithome.com/html/897612.htm)
+
