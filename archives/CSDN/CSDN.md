@@ -163,3 +163,7 @@
 
 + [TCP/IP 协议栈 ](https://blog.csdn.net/EGZYQY/article/details/154725146)
 
++ [bcal 适配 HarmonyOS 构建指南](https://blog.csdn.net/feng8403000/article/details/154874145)
+
++ [智慧党建|党务学习|基于SprinBoot+vue的智慧党建学习平台(源码+数据库+文档)](https://blog.csdn.net/m0_66468899/article/details/154832802)
+

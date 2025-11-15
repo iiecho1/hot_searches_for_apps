@@ -81,3 +81,7 @@
 
 + [华为鸿蒙 HarmonyOS 6.0.0.112 版本首曝，支持电脑投平板](https://m.ithome.com/html/897612.htm)
 
++ [1000 万达成：统信 UOS 成为首个软硬件生态适配数破千万的中国操作系统](https://m.ithome.com/html/897537.htm)
+
++ [官方回应“领克 900 事故致乘客九级伤残”：未系安全带](https://m.ithome.com/html/897652.htm)
+

@@ -55,3 +55,7 @@
 
 + [没有人讨论 steam machine 吗？](https://www.v2ex.com/t/1172893)
 
++ [有没有一款可以在被子上稳定使用的鼠标](https://www.v2ex.com/t/1172956)
+
++ [经常跟对面的同事在桌子下面碰腿，怎么避免这种尴尬？](https://www.v2ex.com/t/1172958)
+

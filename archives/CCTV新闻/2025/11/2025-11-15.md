@@ -187,3 +187,11 @@
 
 + [美联储官员：美国通胀水平呈上行趋势 不支持12月降息](https://news.cctv.com/2025/11/15/ARTIbItLUvzLLGlVlKh8aprY251115.shtml)
 
++ [综述｜日本多方人士批评高市早苗涉台错误言论](https://news.cctv.com/2025/11/15/ARTIJNlhx3nIbtwpjUakE8PD251115.shtml)
+
++ [专家：高市妄言种种 必将反噬自身](https://news.cctv.com/2025/11/15/ARTIUqrNp3hAaCmkbsEOCz2z251115.shtml)
+
++ [就高市涉华错误言行 中方：严正交涉！强烈抗议！](https://news.cctv.com/2025/11/15/ARTI9atopW3vp2O7WFo2SZU7251115.shtml)
+
++ [响应全球治理需求 顺应时代共同呼声——共建“新型全球领导力”智库报告引发非洲各界人士共鸣](https://news.cctv.com/2025/11/15/ARTIs0raio6yVNnjkgVz9R4M251115.shtml)
+
