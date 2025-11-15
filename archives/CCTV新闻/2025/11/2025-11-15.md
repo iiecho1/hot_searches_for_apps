@@ -177,3 +177,7 @@
 
 + [高市的“存亡危机事态”](https://news.cctv.com/2025/11/15/ARTIRTdVB0iL7KArenXuzRG8251115.shtml)
 
++ [日本米价再创新高 民众感叹成“奢侈品”](https://news.cctv.com/2025/11/15/ARTIsXL4oUJidCujrefa3QfS251115.shtml)
+
++ [不寻常！叙利亚首都遭火箭弹袭击](https://news.cctv.com/2025/11/15/ARTI0tbYjavOBngbO9y4oazV251115.shtml)
+
