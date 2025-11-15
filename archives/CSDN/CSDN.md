@@ -189,3 +189,11 @@
 
 + [2025数维杯C题第一弹【透彻建模+无盲点解析】](https://blog.csdn.net/kstt20230206/article/details/154836567)
 
++ [第3版•系统集成项目管理工程师（中级） │ 第2章 信息技术发展](https://blog.csdn.net/qq_41840843/article/details/154873585)
+
++ [openGauss：多核时代企业级数据库的性能与高可用新标杆](https://blog.csdn.net/JHXL_/article/details/154878815)
+
++ [【Linux】冯诺依曼体系结构与操作系统概述](https://blog.csdn.net/2402_86350387/article/details/154818712)
+
++ [深入解析IP, ICMP, OSPF, BGP四大核心网络协议](https://blog.csdn.net/weixin_43227193/article/details/154842525)
+
