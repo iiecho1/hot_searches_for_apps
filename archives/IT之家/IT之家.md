@@ -85,3 +85,5 @@
 
 + [官方回应“领克 900 事故致乘客九级伤残”：未系安全带](https://m.ithome.com/html/897652.htm)
 
++ [英特尔酷睿 Ultra X7 358H 首批 PassMark 跑分曝光，性能有待提升](https://m.ithome.com/html/897585.htm)
+
