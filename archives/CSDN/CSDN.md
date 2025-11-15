@@ -149,3 +149,5 @@
 
 + [tcp_sever:c++实现](https://blog.csdn.net/algorithmlltu/article/details/154837679)
 
++ [Azure OpenAI 通过 API Management 调用时出现 404 错误的排查与解决](https://blog.csdn.net/u012172506/article/details/154852262)
+
