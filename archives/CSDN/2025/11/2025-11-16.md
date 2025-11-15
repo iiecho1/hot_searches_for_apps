@@ -101,3 +101,15 @@
 
 + [openEuler 全场景操作系统下 cpolar 内网穿透的价值深挖与协同优化](https://blog.csdn.net/2301_80350265/article/details/154833865)
 
++ [软件工程（速成笔记）](https://blog.csdn.net/2302_80250169/article/details/154784316)
+
++ [自蒸馏学习方法](https://blog.csdn.net/Prayer41/article/details/154795798)
+
++ [体育商品推荐|体育商城|基于SprinBoot+vue的协同过滤算法体育商品推荐系统(源码+数据库+文档)](https://blog.csdn.net/JIngJaneIL/article/details/154838756)
+
++ [2025年数维杯数学建模挑战赛（秋季赛）赛题-中文翻译版本](https://blog.csdn.net/qq_33690821/article/details/154825067)
+
++ [ROS 中的回调与 Spinning 全家桶（一文弄懂 ros::Rate、ros::spin、ros::spinOnce 与多线程 Spinner）](https://blog.csdn.net/m0_58954356/article/details/154878881)
+
++ [基于Unity YooAsset自动化资源管理框架，附源代码](https://blog.csdn.net/li491093957/article/details/153631659)
+

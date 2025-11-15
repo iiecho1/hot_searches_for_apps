@@ -21,3 +21,5 @@
 
 + [今天周六，还有多少上班的呢？](https://www.v2ex.com/t/1172978)
 
++ [OneClip——Mac 粘贴板应用｜进入稳定版，欢迎体验！](https://www.v2ex.com/t/1173017)
+
