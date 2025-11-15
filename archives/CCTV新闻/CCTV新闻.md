@@ -175,3 +175,5 @@
 
 + [加强经验交流 续写友谊新篇——习近平总书记向第二十次中越两党理论研讨会致贺信引发两国人士热烈反响](https://news.cctv.com/2025/11/15/ARTIJPg1MOrh6OJUh8ow7Chd251115.shtml)
 
++ [高市的“存亡危机事态”](https://news.cctv.com/2025/11/15/ARTIRTdVB0iL7KArenXuzRG8251115.shtml)
+

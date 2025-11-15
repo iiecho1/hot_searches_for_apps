@@ -133,3 +133,7 @@
 
 + [论文解读 - 大型多模态模型中现实世界个性化基准测试](https://blog.csdn.net/INTSIG/article/details/154684137)
 
++ [WebSocket 通俗讲解](https://blog.csdn.net/qq_43657722/article/details/154791915)
+
++ [24 小时知识导航：使用 cpolar 内网穿透服务访问 Perplexica](https://blog.csdn.net/Pocker_Spades_A/article/details/154843249)
+
