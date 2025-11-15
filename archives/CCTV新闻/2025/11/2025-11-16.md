@@ -163,3 +163,15 @@
 
 + [多名日本国会议员要求高市早苗撤回涉台错误言论](https://news.cctv.com/2025/11/16/ARTIM9Ubyybid5ir04v3DzlN251115.shtml)
 
++ [德国基尔拆除二战遗留航弹 1700余名居民被疏散](https://news.cctv.com/2025/11/16/ARTITVrliXRgFx871poHy6tn251116.shtml)
+
++ [黎巴嫩将就以色列越界“建墙”向联合国安理会申诉](https://news.cctv.com/2025/11/16/ARTIHr5OtG7owJ4fhuEdlTd9251116.shtml)
+
++ [美国副总统万斯所在车队发生交通事故 一警员重伤](https://news.cctv.com/2025/11/16/ARTILjN73a5fV9qPtx4sa8JY251116.shtml)
+
++ [总台记者观察丨安世半导体事件令荷兰国际形象受损](https://news.cctv.com/2025/11/16/ARTIsUxc1tDhKTrimqhdlulu251116.shtml)
+
++ [乌称1200名乌被俘人员将获释 俄方暂无回应](https://news.cctv.com/2025/11/16/ARTILaJe1siqNxD7Z2Osf644251116.shtml)
+
++ [政府重新“开门”后  美国航班削减幅度降至3%](https://news.cctv.com/2025/11/16/ARTIklOhYu0DWuWr5AvwUkac251116.shtml)
+

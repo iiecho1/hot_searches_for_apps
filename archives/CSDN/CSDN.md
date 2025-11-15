@@ -151,3 +151,5 @@
 
 + [Azure OpenAI 通过 API Management 调用时出现 404 错误的排查与解决](https://blog.csdn.net/u012172506/article/details/154852262)
 
++ [【论文阅读17】-结合大模型与小模型的类脑认知驱动模型工厂在工业物联网故障诊断中的应用](https://blog.csdn.net/Ma040713/article/details/154789861)
+
