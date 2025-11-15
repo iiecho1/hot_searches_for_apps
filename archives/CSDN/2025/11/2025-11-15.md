@@ -181,3 +181,11 @@
 
 + [构建高可用Redis：哨兵模式深度解析与Nacos微服务适配实践](https://blog.csdn.net/2401_83649605/article/details/154848685)
 
++ [新能源汽车动力系统在环（HIL）半实物仿真测试台架深度解析](https://blog.csdn.net/weixin_62244995/article/details/154878803)
+
++ [大数据Spark（七十三）：Transformation转换算子glom和foldByKey使用案例](https://blog.csdn.net/xiaoweite1/article/details/154875714)
+
++ [多站点价格监控与数据采集方案：基于 IPIDEA 的全流程实践](https://blog.csdn.net/a1657054242/article/details/154783346)
+
++ [2025数维杯C题第一弹【透彻建模+无盲点解析】](https://blog.csdn.net/kstt20230206/article/details/154836567)
+
