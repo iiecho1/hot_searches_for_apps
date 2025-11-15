@@ -23,3 +23,13 @@
 
 + [微软免费的 Microsoft 365 E3 全局账号注册---免费使用 OFFICE、5TB Onedrive 以及微软企业邮局](https://www.v2ex.com/t/1172827)
 
++ [怎样让老婆给丈母娘降薪](https://www.v2ex.com/t/1172871)
+
++ [来兑现 Claude 月卡承诺 继续送新和抽](https://www.v2ex.com/t/1172780)
+
++ [现在 ssd 价格也太贵了吧。。](https://www.v2ex.com/t/1172717)
+
++ [私人 dns 去广告效果真可以啊](https://www.v2ex.com/t/1172718)
+
++ [35+劳动合同续签了](https://www.v2ex.com/t/1172813)
+

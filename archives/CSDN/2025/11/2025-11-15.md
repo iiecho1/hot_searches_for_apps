@@ -127,3 +127,9 @@
 
 + [遥感论文学习](https://blog.csdn.net/2401_88477587/article/details/154663301)
 
++ [内存、性能、并发、生态：Rust 凭什么与主流语言同台竞技？ ](https://blog.csdn.net/weixin_37800531/article/details/154840672)
+
++ [Elasticsearch 的结构化文档配置 - 递归分块实践](https://blog.csdn.net/UbuntuTouch/article/details/154725678)
+
++ [论文解读 - 大型多模态模型中现实世界个性化基准测试](https://blog.csdn.net/INTSIG/article/details/154684137)
+

@@ -171,3 +171,7 @@
 
 + [苏丹领导人称不会与快速支援部队达成停火或和平协议](https://news.cctv.com/2025/11/15/ARTIQ3Gc2MUTJRGQzDeqNyNJ251115.shtml)
 
++ [阿根廷坠机事故已致20人受伤](https://news.cctv.com/2025/11/15/ARTIUuJjvfOqZm7iml7F8Bux251115.shtml)
+
++ [加强经验交流 续写友谊新篇——习近平总书记向第二十次中越两党理论研讨会致贺信引发两国人士热烈反响](https://news.cctv.com/2025/11/15/ARTIJPg1MOrh6OJUh8ow7Chd251115.shtml)
+
