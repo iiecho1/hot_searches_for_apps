@@ -175,3 +175,15 @@
 
 + [逻辑推理之溯因推理介绍](https://blog.csdn.net/cnds123/article/details/154738601)
 
++ [【AI 学习】AI Agent 开发进阶：架构、规划、记忆与工具编排](https://blog.csdn.net/weixin_63944437/article/details/154906176)
+
++ [Rust实战：使用Axum和SQLx构建高性能RESTful API](https://blog.csdn.net/2302_78391795/article/details/154835970)
+
++ [全面解析 MySQL 连接方式：从命令行到图形化工具](https://blog.csdn.net/qq_41840843/article/details/149206866)
+
++ [网络安全：SQL 注入：SQLmap](https://blog.csdn.net/belldeep/article/details/154880531)
+
++ [arm架构上搭建第一个区块链网络FISCO BCOS](https://blog.csdn.net/weixin_61426225/article/details/154839230)
+
++ [NanoVLA：面向Nano-大小通才机器人策略的解耦视觉-语言理解路由](https://blog.csdn.net/yorkhunter/article/details/154317931)
+
