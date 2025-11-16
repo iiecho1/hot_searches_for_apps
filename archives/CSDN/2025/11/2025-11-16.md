@@ -209,3 +209,7 @@
 
 + [蓝桥杯嵌入式赛道—-软件篇（GPIO输出模式配置）](https://blog.csdn.net/aldrich_131/article/details/154843595)
 
++ [五分钟理解Rust的核心概念：所有权Rust](https://blog.csdn.net/2302_79177254/article/details/154854113)
+
++ [FFmpeg解码音频数据AudioTrack/OpenSL播放](https://blog.csdn.net/wangyongyao1989/article/details/154878184)
+
