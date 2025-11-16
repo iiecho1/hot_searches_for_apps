@@ -159,3 +159,13 @@
 
 + [前端使用TensorFlow.js reactjs调用本地模型 实现图像、文本、音频/声音、视频相关识别](https://blog.csdn.net/u010843503/article/details/154876473)
 
++ [Java 大视界 -- Java 大数据在智能物流仓储货位优化与库存周转率提升中的应用实战](https://blog.csdn.net/atgfg/article/details/154803638)
+
++ [游戏助手|游戏攻略|基于SprinBoot+vue的游戏攻略系统小程序(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/154786717)
+
++ [AI Agent 之工具使用：从函数定义到实际应用](https://blog.csdn.net/qq_40303030/article/details/154183529)
+
++ [如何在 Azure AKS 上自动部署 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/154900954)
+
++ [【3ds Max动画】烟花：超级喷射粒子，荧光粒子效果](https://blog.csdn.net/A_Raspberry/article/details/154796212)
+

@@ -45,3 +45,21 @@
 
 + [官方回应“领克 900 事故致乘客九级伤残”：未系安全带](https://m.ithome.com/html/897652.htm)
 
++ [涉日本机票可免费退改，国航、南航、东航、海航、川航、厦航等航空公司相继发布通知](https://m.ithome.com/html/897707.htm)
+
++ [我国“准航母”四川舰锋芒初试：排水量超 4 万吨，双舰岛设计 + 电磁弹射](https://m.ithome.com/html/897680.htm)
+
++ [B站官宣 2025-2026 年 40 部国创动画：《仙剑四》《镇魂街 5》《时光代理人 3》《凡人修仙传年番》等，《中国奇谭 2》定档 2026 元旦](https://m.ithome.com/html/897712.htm)
+
++ [华为 MatePad Mini 小平板获鸿蒙 HarmonyOS 5.1.0.265 SP3 升级，多设备通信共享优化](https://m.ithome.com/html/897705.htm)
+
++ [全量推送：小米相机徕卡水印上新 4 款，数字 15 / 14 / 13 系列、Civi 5 / 4 Pro 等机型可用](https://m.ithome.com/html/897688.htm)
+
++ [小米：未来会在 6G 关键技术研究和标准化工作方面持续加大投入](https://m.ithome.com/html/897647.htm)
+
++ [安卓 / iOS / Windows 互通：联想超级互联 App 适配三端，支持文件管理、传输等功能](https://m.ithome.com/html/897702.htm)
+
++ [vivo S50 系列新机“官方首爆”：史上旗舰配置最多的 S，采用高通骁龙 8 Gen5 芯片](https://m.ithome.com/html/897703.htm)
+
++ [百度输入法回应荣耀版无法正常使用：版本更新可恢复](https://m.ithome.com/html/897690.htm)
+

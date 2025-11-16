@@ -37,3 +37,9 @@
 
 + [老人独居风险高 今天差点火灾](https://www.v2ex.com/t/1172975)
 
++ [推荐用 WPS 阅读外文 PDF](https://www.v2ex.com/t/1173043)
+
++ [VPS 持续高带宽下载却无法定位进程](https://www.v2ex.com/t/1172982)
+
++ [使用移动宽带和阿里 DNS，大陆有服务器的 Google 域名被解析到境外的服务器](https://www.v2ex.com/t/1172992)
+

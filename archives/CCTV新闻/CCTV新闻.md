@@ -183,3 +183,5 @@
 
 + [高市早苗被喊“下台”](https://news.cctv.com/2025/11/16/ARTIjkxHI3fTSD7LNpch40u7251116.shtml)
 
++ [加拿大伯纳比市就歧视华裔历史道歉](https://news.cctv.com/2025/11/16/ARTIYfqDXcZgnQSmhcTnNyGb251116.shtml)
+
