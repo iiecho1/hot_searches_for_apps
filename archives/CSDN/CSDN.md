@@ -127,3 +127,7 @@
 
 + [三种硬盘检测工具推荐CrytalDiskMark ，DiskGenius，AS SSD Benchmark](https://blog.csdn.net/xiaoyans528/article/details/154881838)
 
++ [redis实战篇--商品缓存模块](https://blog.csdn.net/2503_90584665/article/details/154833095)
+
++ [EgoZero：机器人通过智能眼镜学习](https://blog.csdn.net/yorkhunter/article/details/154486677)
+

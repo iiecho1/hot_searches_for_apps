@@ -163,3 +163,15 @@
 
 + [以总理称以色列反对建立巴勒斯坦国](https://news.cctv.com/2025/11/17/ARTIFihUKe7AyP6BGgWmmD4O251116.shtml)
 
++ [乌克兰大部分地区17日将实施轮换停电](https://news.cctv.com/2025/11/17/ARTIzu6IU8YTOXMNQoGdvAZl251117.shtml)
+
++ [英媒：限制车辆超车骑行者，英国拟缩小车道宽度](https://news.cctv.com/2025/11/17/ARTI97myRFmulqK9gyCJ3suk251117.shtml)
+
++ [美军称在东太平洋打击“贩毒船”致3人死亡](https://news.cctv.com/2025/11/17/ARTIzsNXISaRvt3xwPhz0DMz251117.shtml)
+
++ [美国纽约一橄榄球运动员遭枪击 伤势严重](https://news.cctv.com/2025/11/17/ARTISVVZ3SNj04DUOjEPaEGH251117.shtml)
+
++ [黎军方谴责以色列向联黎部队巡逻队开火](https://news.cctv.com/2025/11/17/ARTIeMCgD5QboVUxv63RLCUa251117.shtml)
+
++ [俄方警告欧盟不得动用或没收其主权资产](https://news.cctv.com/2025/11/17/ARTIV68b2croZgTalj490Cep251117.shtml)
+

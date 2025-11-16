@@ -35,3 +35,19 @@
 
 + [小米：未来会在 6G 关键技术研究和标准化工作方面持续加大投入](https://m.ithome.com/html/897647.htm)
 
++ [消息称华为 Mate 80 系列新机将采用磁吸环 + 外置磁吸壳设计，月底就能上手](https://m.ithome.com/html/897850.htm)
+
++ [九阳股份撇清“哈基米”概念：公司所属小家电行业，不涉及食品、饮料等业务](https://m.ithome.com/html/897829.htm)
+
++ [跨省“BL 解锁”诈骗案告破：冒充官方售后骗手机，横跨全国数十个省份](https://m.ithome.com/html/897789.htm)
+
++ [紫光展锐 T9300 5G 发布：A78 大核 2.4GHz，安兔兔 V10 跑分 55 万](https://m.ithome.com/html/897802.htm)
+
++ [全球首个鸿蒙座舱燃油车，东风日产全新天籁 11 月 21 日广州车展上市](https://m.ithome.com/html/897796.htm)
+
++ [小米澎湃 OS 3 水印最多机型揭晓：Civi 4 Pro 联名定制版以 33 款样式超旗舰 15 Ultra 暂列第一](https://m.ithome.com/html/897820.htm)
+
++ [小米之家重返法国巴黎，首店开启试营业](https://m.ithome.com/html/897758.htm)
+
++ [八年回归之作：国漫《十万个冷笑话》剧场版第三部官宣“开始做了”，由卢恒宇和李姝洁工作室提供](https://m.ithome.com/html/897732.htm)
+
