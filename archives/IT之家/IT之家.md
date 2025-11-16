@@ -65,3 +65,13 @@
 
 + [英特尔酷睿 Ultra X7 358H 首批 PassMark 跑分曝光，性能有待提升](https://m.ithome.com/html/897585.htm)
 
++ [有用户反馈苹果 iPhone 17 Pro Max 用湿巾清洁后机身涂层被擦除](https://m.ithome.com/html/897765.htm)
+
++ [苹果 2026 iPad 路线图曝光：三款新品齐发，mini 迎来史诗级升级](https://m.ithome.com/html/897735.htm)
+
++ [雷军重申安全是小米汽车基础和前提：“好看”和“安全”并不矛盾，网上有人断章取义、歪曲抹黑](https://m.ithome.com/html/897794.htm)
+
++ [越狱新曙光：iOS 26.2 Beta 1 以下版本关键漏洞公开，iPhone 17 Pro Max 可运行苹果 iPadOS](https://m.ithome.com/html/897733.htm)
+
++ [奇瑞风云 A9L 光辉四座、四驱版车型上市：18.19 万元起](https://m.ithome.com/html/897709.htm)
+

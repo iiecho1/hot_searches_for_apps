@@ -185,3 +185,7 @@
 
 + [加拿大伯纳比市就歧视华裔历史道歉](https://news.cctv.com/2025/11/16/ARTIYfqDXcZgnQSmhcTnNyGb251116.shtml)
 
++ [美国取消对韩军售部分费用豁免](https://news.cctv.com/2025/11/16/ARTIZxfqZ3n5cs3UFEGQtH11251116.shtml)
+
++ [中国驻阿富汗使馆再次提醒在阿中国公民和机构加强安全防范](https://news.cctv.com/2025/11/16/ARTIL66T87prCW6ripyMWDse251116.shtml)
+

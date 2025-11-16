@@ -199,3 +199,5 @@
 
 + [Ajax 数据请求：从 XMLHttpRequest 到现代前端数据交互的演进](https://blog.csdn.net/2401_88920300/article/details/154881729)
 
++ [HTTP/2：重塑 Web 性能的下一代通信协议](https://blog.csdn.net/weixin_42554191/article/details/154872902)
+
