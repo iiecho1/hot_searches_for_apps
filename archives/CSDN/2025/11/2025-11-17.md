@@ -125,3 +125,5 @@
 
 + [第四章深度解析：智能体经典范式实战指南——从ReAct到Reflection的全流程拆解](https://blog.csdn.net/qq_51229257/article/details/154847554)
 
++ [三种硬盘检测工具推荐CrytalDiskMark ，DiskGenius，AS SSD Benchmark](https://blog.csdn.net/xiaoyans528/article/details/154881838)
+
