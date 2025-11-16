@@ -63,3 +63,5 @@
 
 + [百度输入法回应荣耀版无法正常使用：版本更新可恢复](https://m.ithome.com/html/897690.htm)
 
++ [英特尔酷睿 Ultra X7 358H 首批 PassMark 跑分曝光，性能有待提升](https://m.ithome.com/html/897585.htm)
+
