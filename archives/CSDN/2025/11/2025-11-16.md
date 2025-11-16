@@ -153,3 +153,7 @@
 
 + [【论文阅读17】-结合大模型与小模型的类脑认知驱动模型工厂在工业物联网故障诊断中的应用](https://blog.csdn.net/Ma040713/article/details/154789861)
 
++ [openGauss：多核时代企业级数据库的性能与高可用新标杆](https://blog.csdn.net/JHXL_/article/details/154878815)
+
++ [Python与大数据：使用PySpark处理海量数据](https://blog.csdn.net/qq_42568323/article/details/154850811)
+
