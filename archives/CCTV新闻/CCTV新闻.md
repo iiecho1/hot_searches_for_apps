@@ -177,3 +177,9 @@
 
 + [新闻周刊丨高市之“祸”：撕裂中日关系的“天崩开局”](https://news.cctv.com/2025/11/16/ARTImFtxnthFO3CHKcWMYJKg251116.shtml)
 
++ [高市早苗涉台错误言论引广泛批评和担忧](https://news.cctv.com/2025/11/16/ARTIlqhWhWIgly6sKjCpRPww251116.shtml)
+
++ [【讲习所·中国与世界】习近平：“让两国人民从中泰合作中获得更多实利”](https://news.cctv.com/2025/11/16/ARTIL55prfOnctluIAfYtq6w251116.shtml)
+
++ [高市早苗被喊“下台”](https://news.cctv.com/2025/11/16/ARTIjkxHI3fTSD7LNpch40u7251116.shtml)
+

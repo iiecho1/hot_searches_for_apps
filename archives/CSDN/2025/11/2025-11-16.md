@@ -157,3 +157,5 @@
 
 + [Python与大数据：使用PySpark处理海量数据](https://blog.csdn.net/qq_42568323/article/details/154850811)
 
++ [前端使用TensorFlow.js reactjs调用本地模型 实现图像、文本、音频/声音、视频相关识别](https://blog.csdn.net/u010843503/article/details/154876473)
+

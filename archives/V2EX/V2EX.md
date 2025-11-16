@@ -27,3 +27,13 @@
 
 + [吐槽：今天擦 mac 的时候发现了屏幕上的键盘印](https://www.v2ex.com/t/1172952)
 
++ [国内 CDN 询价](https://www.v2ex.com/t/1172960)
+
++ [n5105 如何调整待机功耗](https://www.v2ex.com/t/1172979)
+
++ [如何联系运营商将 NAT 类型改为「NAT 1」](https://www.v2ex.com/t/1173005)
+
++ [最近取消订阅了多家厂商的包月 token 服务,现在纯按 token 量消费, 因为它们都有降智问题。](https://www.v2ex.com/t/1172970)
+
++ [老人独居风险高 今天差点火灾](https://www.v2ex.com/t/1172975)
+
