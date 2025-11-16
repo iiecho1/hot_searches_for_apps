@@ -189,3 +189,7 @@
 
 + [中国驻阿富汗使馆再次提醒在阿中国公民和机构加强安全防范](https://news.cctv.com/2025/11/16/ARTIL66T87prCW6ripyMWDse251116.shtml)
 
++ [匈牙利延长对中国有关商务人士签证便利化安排](https://news.cctv.com/2025/11/16/ARTIbc02DuOerx8CKbq4NAGr251116.shtml)
+
++ [阿根廷学者：日本领导人应保持理性 中国坚定回应完全正当](https://news.cctv.com/2025/11/16/ARTILzv6SRlvUrPWVIrevCqO251116.shtml)
+

@@ -213,3 +213,13 @@
 
 + [FFmpeg解码音频数据AudioTrack/OpenSL播放](https://blog.csdn.net/wangyongyao1989/article/details/154878184)
 
++ [【高并发架构】从 0 到亿，从单机部署到 K8s 编排：高并发架构的 8 级演进之路](https://blog.csdn.net/2401_87944878/article/details/152667361)
+
++ [小程序地图导航，怎样实现用户体验更好](https://blog.csdn.net/2301_81253185/article/details/154912631)
+
++ [IoTSharp前端VUE采用npm run build编译提示require() of ES Module 出错](https://blog.csdn.net/zzlyx99/article/details/154879774)
+
++ [GPT‑OSS‑20B MoE 在昇腾 NPU 上的部署与性能实测：开发者视角的多精度推理优化实践](https://blog.csdn.net/weixin_62765017/article/details/154908096)
+
++ [底层视觉及图像增强-项目实践理论补充（十六-0-（13）：HDR技术全链路解析：从原理到LED显示工程实践）：从奥运大屏，到手机小屏，快来挖一挖里面都有什么](https://blog.csdn.net/m0_52436398/article/details/154885429)
+
