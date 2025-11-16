@@ -161,3 +161,5 @@
 
 + [印尼东加里曼丹省一船只沉没 致8人死亡](https://news.cctv.com/2025/11/13/ARTIV3ftlRIJZ4J0shtbjl5x251113.shtml)
 
++ [以总理称以色列反对建立巴勒斯坦国](https://news.cctv.com/2025/11/17/ARTIFihUKe7AyP6BGgWmmD4O251116.shtml)
+

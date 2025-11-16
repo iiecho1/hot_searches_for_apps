@@ -107,3 +107,21 @@
 
 + [Java+EasyExcel 打造学习平台视频学习时长统计系统](https://blog.csdn.net/jam_yin/article/details/154834110)
 
++ [Protocol Buffers (Protobuf) 详解](https://blog.csdn.net/csdn_silent/article/details/154695205)
+
++ [【RL-LLM】Self-Rewarding Language Models](https://blog.csdn.net/qq_35812205/article/details/154918475)
+
++ [神经网络基本概念](https://blog.csdn.net/weixin_46041161/article/details/154872016)
+
++ [基于TCP/IP和UDP组播的Qt网络直播间项目](https://blog.csdn.net/2503_92753964/article/details/154805903)
+
++ [Postman+Newman接口自动化测试：一键生成精美HTML测试报告完整教程](https://blog.csdn.net/weixin_54787369/article/details/147830187)
+
++ [FFmpeg解码音频数据AudioTrack/OpenSL播放](https://blog.csdn.net/wangyongyao1989/article/details/154878184)
+
++ [【JUnit实战3_33】第二十章：用 JUnit 5 进行测试驱动开发（TDD）（下）——TDD 项目的重构过程及新功能的开发实战](https://blog.csdn.net/frgod/article/details/154810986)
+
++ [NanoVLA：面向Nano-大小通才机器人策略的解耦视觉-语言理解路由](https://blog.csdn.net/yorkhunter/article/details/154317931)
+
++ [第四章深度解析：智能体经典范式实战指南——从ReAct到Reflection的全流程拆解](https://blog.csdn.net/qq_51229257/article/details/154847554)
+

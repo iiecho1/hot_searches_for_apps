@@ -25,3 +25,13 @@
 
 + [奇瑞风云 A9L 光辉四座、四驱版车型上市：18.19 万元起](https://m.ithome.com/html/897709.htm)
 
++ [华为 Mate 80 系列再曝，消息称还有 3D 人脸大直屏新机](https://m.ithome.com/html/897640.htm)
+
++ [消息称华为 Mate 80 系列同期还有高端“二合一平板电脑”，麒麟 9 系性能平台](https://m.ithome.com/html/897628.htm)
+
++ [官方回应“领克 900 事故致乘客九级伤残”：未系安全带](https://m.ithome.com/html/897652.htm)
+
++ [我国“准航母”四川舰锋芒初试：排水量超 4 万吨，双舰岛设计 + 电磁弹射](https://m.ithome.com/html/897680.htm)
+
++ [小米：未来会在 6G 关键技术研究和标准化工作方面持续加大投入](https://m.ithome.com/html/897647.htm)
+
