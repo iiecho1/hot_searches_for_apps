@@ -207,3 +207,5 @@
 
 + [字节最新开源模型 DA3（Depth Anything 3）使用教程（一）从任意视角恢复视觉空间](https://blog.csdn.net/2506_90492529/article/details/154868785)
 
++ [蓝桥杯嵌入式赛道—-软件篇（GPIO输出模式配置）](https://blog.csdn.net/aldrich_131/article/details/154843595)
+
