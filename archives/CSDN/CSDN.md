@@ -101,3 +101,9 @@
 
 + [Ajax 数据请求：从 XMLHttpRequest 到现代前端数据交互的演进](https://blog.csdn.net/2401_88920300/article/details/154881729)
 
++ [Java 大视界 -- 基于 Java 的大数据联邦学习在跨行业数据协同创新中的实践突破](https://blog.csdn.net/atgfg/article/details/154803918)
+
++ [openGauss 企业级开源数据库架构深度解析](https://blog.csdn.net/weixin_74809706/article/details/154874156)
+
++ [Java+EasyExcel 打造学习平台视频学习时长统计系统](https://blog.csdn.net/jam_yin/article/details/154834110)
+
