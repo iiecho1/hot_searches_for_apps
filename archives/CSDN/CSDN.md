@@ -135,3 +135,7 @@
 
 + [Vue Router 3 升级 4：写法、坑点、兼容一次讲透](https://blog.csdn.net/ZZZxxA123/article/details/154876454)
 
++ [[免费]基于python的Flask+Vue医疗疾病数据分析大屏可视化系统（机器学习随机森林算法+requests）【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/154904681)
+
++ [AI5 - 告别重复劳动：GitHub Copilot如何让我每天多出2小时](https://blog.csdn.net/qq_41187124/article/details/154832702)
+

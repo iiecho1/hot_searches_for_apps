@@ -51,3 +51,7 @@
 
 + [八年回归之作：国漫《十万个冷笑话》剧场版第三部官宣“开始做了”，由卢恒宇和李姝洁工作室提供](https://m.ithome.com/html/897732.htm)
 
++ [古尔曼：苹果 iPhone 正经历史上最大变革，iPhone 18/Pro 分开发布](https://m.ithome.com/html/897871.htm)
+
++ [古尔曼：苹果基本已放弃了 Mac Pro，M4 Ultra 芯片也已被砍](https://m.ithome.com/html/897867.htm)
+

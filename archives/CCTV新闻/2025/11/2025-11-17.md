@@ -175,3 +175,11 @@
 
 + [俄方警告欧盟不得动用或没收其主权资产](https://news.cctv.com/2025/11/17/ARTIV68b2croZgTalj490Cep251117.shtml)
 
++ [刚果（金）一矿区简易桥梁坍塌致至少32人遇难](https://news.cctv.com/2025/11/17/ARTIGAKhz4BvDH22AQ7ByetD251117.shtml)
+
++ [美联邦航空管理局宣布终止航班削减紧急令](https://news.cctv.com/2025/11/17/ARTImXIfoAkU8EuTBtsrQC90251117.shtml)
+
++ [厄瓜多尔中部一巴士坠入峡谷 至少13人死亡](https://news.cctv.com/2025/11/17/ARTIJCeMx9VFOBnVLXzyviyi251117.shtml)
+
++ [安理会将表决加沙问题草案 美以在关键问题上有分歧](https://news.cctv.com/2025/11/17/ARTIggHXrvrcqZQs2hHX5t8n251117.shtml)
+
