@@ -195,3 +195,15 @@
 
 + [2025年数维杯数学建模挑战赛（秋季赛）【ABCD题】论文首发+百种模型组合+代码分享](https://blog.csdn.net/qq_52590045/article/details/154874155)
 
++ [为何最终我放弃了 Go 的 sync.Pool](https://blog.csdn.net/2302_80067378/article/details/154940566)
+
++ [贪心算法（局部最优实现全局最优）第一篇](https://blog.csdn.net/fyy31/article/details/154577145)
+
++ [基于Python+大数据Hadoop+数据可视化+网络爬虫+智能AI大模型的气温数据分析与可视化系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/154952543)
+
++ [网络安全 | 深入了解OAuth 2.0原理](https://blog.csdn.net/Andya_net/article/details/154913190)
+
++ [自主智能搜索引擎在大规模信息生态中实现高效关联与语义优化的研究](https://blog.csdn.net/2509_93814221/article/details/154849671)
+
++ [计算机网络经典问题透视：当面向连接的TCP遭遇无连接的IP——协议差异深度解析](https://blog.csdn.net/qq_74326393/article/details/154837240)
+

@@ -61,3 +61,17 @@
 
 + [华为 Mate 80 系列 / Mate X7 及全场景新品发布会定档 11 月 25 日](https://m.ithome.com/html/897902.htm)
 
++ [华为 Mate 80 / Pro / Pro Max 手机全系配色公布，标准版有望首搭 3D 人脸识别](https://m.ithome.com/html/897967.htm)
+
++ [华为 Mate 80 系列手机今日 12:08 开启预订，官方海报发布](https://m.ithome.com/html/897948.htm)
+
++ [卢伟冰：越来越多的 Pro Max 来了，6000 档更强的是小米 17 Pro Max](https://m.ithome.com/html/897955.htm)
+
++ [华为 Mate 80 RS 非凡大师版外观公布： 玄黑、皓白、槿紫三款配色，独享 20GB 内存](https://m.ithome.com/html/897960.htm)
+
++ [消息称华为 Mate 80 系列内置风扇版本机型未成功落地，设计方案相当精密](https://m.ithome.com/html/898008.htm)
+
++ [玛莎拉蒂再现“骨折式”降价：经销商裸车 35.88 万元起，对标小米、理想等新势力品牌](https://m.ithome.com/html/897975.htm)
+
++ [业界首款攻克全金属与信号共存难题手机？华为 Mate 80 系列侧面外观图公布](https://m.ithome.com/html/897949.htm)
+

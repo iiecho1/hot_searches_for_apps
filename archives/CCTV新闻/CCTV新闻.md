@@ -223,3 +223,9 @@
 
 + [“剧情”再反转 特朗普表态支持公开爱泼斯坦案文件](https://news.cctv.com/2025/11/17/ARTIboNBkZdqZdmeczmCYVEk251117.shtml)
 
++ [波兰重新开放两处与白俄罗斯的边境口岸](https://news.cctv.com/2025/11/17/ARTIVYSmSLxgoZTJF4FKIOxy251117.shtml)
+
++ [苏丹武装部队宣布重新控制该国中部重要城市巴拉](https://news.cctv.com/2025/11/17/ARTIhDUvqqxGkfqJQoFFNl6O251117.shtml)
+
++ [印尼官员：印尼拟对出口黄金征税7.5%至15%](https://news.cctv.com/2025/11/17/ARTIjBBNNrRsi1OV7IcYsjrG251117.shtml)
+
