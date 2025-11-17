@@ -169,3 +169,13 @@
 
 + [前端CSS架构模式，BEM与ITCSS](https://blog.csdn.net/2509_93945728/article/details/154873364)
 
++ [系统分析师：信息安全的系统可靠性、冗余技术和软件容错技术](https://blog.csdn.net/g984160547/article/details/154730308)
+
++ [轨迹优化 | 基于最优控制的运动学约束路径平滑与粗轨迹生成(附ROS C++/Python实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/154918906)
+
++ [【自然语言处理】预训练07：词的相似性和类比任务](https://blog.csdn.net/Morse_Chen/article/details/154797433)
+
++ [简单小程序地图导航](https://blog.csdn.net/2301_81253185/article/details/154912631)
+
++ [31、【Ubuntu】【远程开发】内网穿透：反向隧道建立（三）](https://blog.csdn.net/nobigdeal00/article/details/154767147)
+
