@@ -189,3 +189,9 @@
 
 + [电压基准芯片详解：从原理到选型，附 TLV431 应用解析](https://blog.csdn.net/weixin_51551858/article/details/154915649)
 
++ [基于卷积神经网络的手写数字识别](https://blog.csdn.net/2301_81869658/article/details/154867852)
+
++ [深度学习周报（11.10~11.16）](https://blog.csdn.net/m0_57788739/article/details/154850853)
+
++ [2025年数维杯数学建模挑战赛（秋季赛）【ABCD题】论文首发+百种模型组合+代码分享](https://blog.csdn.net/qq_52590045/article/details/154874155)
+
