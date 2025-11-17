@@ -161,3 +161,5 @@
 
 + [欧洲议会批准欧盟2040年减排目标](https://news.cctv.com/2025/11/14/ARTIA7cfxT34Aq9gyUvkgxtT251114.shtml)
 
++ [日本各界批评高市早苗错误言行](https://news.cctv.com/2025/11/18/ARTICAGo6fg5HPaqZhY70ugo251118.shtml)
+
