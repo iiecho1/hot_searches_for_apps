@@ -43,3 +43,5 @@
 
 + [小米澎湃 OS 3 水印最多机型揭晓：Civi 4 Pro 联名定制版以 33 款样式超旗舰 15 Ultra 暂列第一](https://m.ithome.com/html/897820.htm)
 
++ [麒麟 9030 Pro 处理器！华为 Mate 80 Pro 手机包装盒曝光](https://m.ithome.com/html/898115.htm)
+

@@ -139,3 +139,7 @@
 
 + [Protocol Buffers (Protobuf) 详解](https://blog.csdn.net/csdn_silent/article/details/154695205)
 
++ [Linux 平台下 I2C 传感器数据读取程序的代码梳理及 LSM6DS3 传感器的适配修改](https://blog.csdn.net/m0_74312902/article/details/154954426)
+
++ [LLM - User Prompt与System Prompt原理、方法与实战](https://blog.csdn.net/yangshangwei/article/details/154863849)
+
