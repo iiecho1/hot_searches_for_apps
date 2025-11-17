@@ -229,3 +229,7 @@
 
 + [印尼官员：印尼拟对出口黄金征税7.5%至15%](https://news.cctv.com/2025/11/17/ARTIjBBNNrRsi1OV7IcYsjrG251117.shtml)
 
++ [德国政府解除对以色列武器出口限制](https://news.cctv.com/2025/11/17/ARTI0JAQKe8kUAFRGOSaPhG7251117.shtml)
+
++ [欧委会警告：用冻结俄资产对乌贷款或引发金融风险](https://news.cctv.com/2025/11/17/ARTI4KkIrzDt6BD21gS0ihN2251117.shtml)
+
