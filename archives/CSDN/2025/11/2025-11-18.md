@@ -109,3 +109,19 @@
 
 + [【Linux】应用层协议HTTP](https://blog.csdn.net/weixin_58252863/article/details/153691884)
 
++ [CANN技术创新应用实践：解锁AI开发的高效路径](https://blog.csdn.net/2301_77509762/article/details/154954483)
+
++ [【花雕动手做】HUSKYLENS 2 AI视觉传感器之识别条形码输出相关数据](https://blog.csdn.net/weixin_41659040/article/details/154915819)
+
++ [MoE算法深度解析：从理论架构到行业实践](https://blog.csdn.net/2401_84149564/article/details/154913099)
+
++ [第3版•系统集成项目管理工程师（中级） │ 第3章 信息技术服务](https://blog.csdn.net/qq_41840843/article/details/154937227)
+
++ [Kratos微服务轻松对接EFK日志系统](https://blog.csdn.net/tx7do/article/details/154850966)
+
++ [VLM经典论文阅读：【ViT】An image is worth 16X16 words: transformers for image recognition at scale](https://blog.csdn.net/qq_60587145/article/details/154880992)
+
++ [2025年数维杯数学建模挑战赛（秋季赛）【ABCD题】论文首发+百种模型组合+代码分享](https://blog.csdn.net/qq_52590045/article/details/154874155)
+
++ [Ajax 数据请求：从 XMLHttpRequest 到现代前端数据交互的演进](https://blog.csdn.net/2401_88920300/article/details/154881729)
+
