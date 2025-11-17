@@ -163,3 +163,5 @@
 
 + [日本各界批评高市早苗错误言行](https://news.cctv.com/2025/11/18/ARTICAGo6fg5HPaqZhY70ugo251118.shtml)
 
++ [日本冲绳、长崎两县知事反对高市早苗修订“无核三原则”](https://news.cctv.com/2025/11/18/ARTIhIaMVyy8Jll3SeQ3twxF251118.shtml)
+
