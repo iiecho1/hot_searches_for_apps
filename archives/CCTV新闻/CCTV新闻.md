@@ -193,3 +193,17 @@
 
 + [巴各派别警告美加沙提案危险性 以总理再表态反对巴建国](https://news.cctv.com/2025/11/17/ARTIQbglt6s1gnkhChK705VL251117.shtml)
 
++ [警惕日本战略走向的危险转向（钟声）](https://news.cctv.com/2025/11/17/ARTIYk5PTf9vbzCxLqmdpK88251117.shtml)
+
++ [错判时与势，注定撞南墙](https://news.cctv.com/2025/11/17/ARTIM2KjO2gRrSAB6ZdZZYBA251117.shtml)
+
++ [误导安全政策方向 加剧日中关系紧张 日本各界人士批评高市早苗错误言论](https://news.cctv.com/2025/11/17/ARTIPdda3r8iqDKDQWZqM55s251117.shtml)
+
++ [高市涉台荒唐言论“影响恶劣”——访日本冲绳大学地域研究所特别研究员泉川友树](https://news.cctv.com/2025/11/17/ARTItUQH0kLhyv1cRsWkLZA6251117.shtml)
+
++ [日本最大在野党批高市早苗“言论越界”“认知不足”](https://news.cctv.com/2025/11/17/ARTIJLx1BZ9dOCOBBk04nmm7251117.shtml)
+
++ [国际观察｜“日本被首相拖入国家危机”——起底高市早苗之“祸”](https://news.cctv.com/2025/11/17/ARTIpAtjU5FzHEZtRBQjQFE1251117.shtml)
+
++ [印度与美国签署220万吨液化石油气采购协议](https://news.cctv.com/2025/11/17/ARTIAKj0aAmCYvTRpdBEiIG4251117.shtml)
+
