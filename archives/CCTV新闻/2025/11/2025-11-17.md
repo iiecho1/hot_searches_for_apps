@@ -215,3 +215,9 @@
 
 + [印度多名朝觐者在沙特遭遇车祸死亡](https://news.cctv.com/2025/11/17/ARTIaDwDtJWSgiiyBtYjLoDk251117.shtml)
 
++ [视频丨美陆军部长：随时准备对委内瑞拉采取行动](https://news.cctv.com/2025/11/17/ARTIZCnDmyCILazKLSezUJF9251117.shtml)
+
++ [内塔尼亚胡贪腐案听证会因“安全事务”取消](https://news.cctv.com/2025/11/17/ARTIuPxnR5tSbnzR7eogV96B251117.shtml)
+
++ [韩国提议举行朝韩军事会谈 讨论军事分界线基准线设定](https://news.cctv.com/2025/11/17/ARTIXqZjCcY1c6YKkK2XpOCV251117.shtml)
+
