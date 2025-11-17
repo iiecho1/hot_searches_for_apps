@@ -191,3 +191,5 @@
 
 + [越南一公路山体滑坡致大巴被掩埋 造成6死19伤](https://news.cctv.com/2025/11/17/ARTItuqN2Z6kMSH7JYZhz11O251117.shtml)
 
++ [巴各派别警告美加沙提案危险性 以总理再表态反对巴建国](https://news.cctv.com/2025/11/17/ARTIQbglt6s1gnkhChK705VL251117.shtml)
+

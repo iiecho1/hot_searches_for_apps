@@ -157,3 +157,5 @@
 
 + [可编程逻辑器件学习(day22)：“让ARM穿上FPGA的马甲“：赛灵思Zynq的命名哲学与技术革命](https://blog.csdn.net/weixin_43260261/article/details/154936060)
 
++ [软件架构趋势：云原生与大模型的融合与重塑](https://blog.csdn.net/dinofish/article/details/154917589)
+
