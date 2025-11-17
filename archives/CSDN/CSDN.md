@@ -179,3 +179,9 @@
 
 + [31、【Ubuntu】【远程开发】内网穿透：反向隧道建立（三）](https://blog.csdn.net/nobigdeal00/article/details/154767147)
 
++ [人工智能、机器学习、深度学习：技术革命的深度解析](https://blog.csdn.net/beautifulmemory/article/details/154917869)
+
++ [Docker实战深度解析：从Nginx部署到私有镜像仓库管理](https://blog.csdn.net/2301_80863610/article/details/154910463)
+
++ [excel设置下拉框选项？【图文详解】excel怎么设置下拉框选项？数据验证？下拉框选项格式？](https://blog.csdn.net/2401_87766320/article/details/154761918)
+

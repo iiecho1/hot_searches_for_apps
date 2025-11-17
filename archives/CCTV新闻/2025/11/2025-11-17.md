@@ -207,3 +207,11 @@
 
 + [印度与美国签署220万吨液化石油气采购协议](https://news.cctv.com/2025/11/17/ARTIAKj0aAmCYvTRpdBEiIG4251117.shtml)
 
++ [俄逮捕一名涉嫌向乌武装部队提供资金支持的人员](https://news.cctv.com/2025/11/17/ARTI7EmtjQxcYPs1hiNl15IA251117.shtml)
+
++ [印尼中爪哇省芝拉扎县山体滑坡遇难人数升至16人](https://news.cctv.com/2025/11/17/ARTIkH1OJF9I2DOIpVFYlaEL251117.shtml)
+
++ [韩国海军暂停与日本海上自卫队举行联合搜救演习](https://news.cctv.com/2025/11/17/ARTId5FNHFCgLPiyLn6oyG3X251117.shtml)
+
++ [印度多名朝觐者在沙特遭遇车祸死亡](https://news.cctv.com/2025/11/17/ARTIaDwDtJWSgiiyBtYjLoDk251117.shtml)
+
