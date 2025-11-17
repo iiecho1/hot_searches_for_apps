@@ -183,3 +183,5 @@
 
 + [安理会将表决加沙问题草案 美以在关键问题上有分歧](https://news.cctv.com/2025/11/17/ARTIggHXrvrcqZQs2hHX5t8n251117.shtml)
 
++ [厄瓜多尔公投反对设立外国军事基地 总统称尊重人民选择](https://news.cctv.com/2025/11/17/ARTIcqwuuvHZ4CsSlCTjU7rz251117.shtml)
+

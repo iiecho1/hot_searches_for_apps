@@ -139,3 +139,7 @@
 
 + [AI5 - 告别重复劳动：GitHub Copilot如何让我每天多出2小时](https://blog.csdn.net/qq_41187124/article/details/154832702)
 
++ [Transformer实战（26）——通过领域适应提升Transformer模型性能](https://blog.csdn.net/LOVEmy134611/article/details/147934669)
+
++ [通过手机远程操控电脑，一步步学习便捷方法](https://blog.csdn.net/aa657271/article/details/154844754)
+

@@ -55,3 +55,9 @@
 
 + [古尔曼：苹果基本已放弃了 Mac Pro，M4 Ultra 芯片也已被砍](https://m.ithome.com/html/897867.htm)
 
++ [余承东首秀华为 Mate 80 系列真机，双圆环设计亮眼](https://m.ithome.com/html/897915.htm)
+
++ [余承东首次展示华为 Mate 80 Pro Max 手机“小尾巴”：它，来了](https://m.ithome.com/html/897904.htm)
+
++ [华为 Mate 80 系列 / Mate X7 及全场景新品发布会定档 11 月 25 日](https://m.ithome.com/html/897902.htm)
+
