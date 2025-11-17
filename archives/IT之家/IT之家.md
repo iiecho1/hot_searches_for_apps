@@ -25,3 +25,7 @@
 
 + [消息称华为 Mate 80 系列手机磁吸外露核心是金属材质问题，非凡大师因独立设计无双环元素](https://m.ithome.com/html/898094.htm)
 
++ [古尔曼：苹果 iPhone 正经历史上最大变革，iPhone 18/Pro 分开发布](https://m.ithome.com/html/897871.htm)
+
++ [古尔曼：苹果基本已放弃了 Mac Pro，M4 Ultra 芯片也已被砍](https://m.ithome.com/html/897867.htm)
+

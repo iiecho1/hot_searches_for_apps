@@ -101,3 +101,11 @@
 
 + [编辑器和笔记软件汇总（三）：NotebookLM、note-gen、MiaoYan、LetsMarkdown、DocFlow](https://blog.csdn.net/lonelymanontheway/article/details/145443230)
 
++ [【AI智能体】Coze 打造专属定制国风图片智能体实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/154277724)
+
++ [AI5 - 告别重复劳动：GitHub Copilot如何让我每天多出2小时](https://blog.csdn.net/qq_41187124/article/details/154832702)
+
++ [基于视频识别的大模型项目实战心得](https://blog.csdn.net/m0_59806124/article/details/154918357)
+
++ [【Linux】应用层协议HTTP](https://blog.csdn.net/weixin_58252863/article/details/153691884)
+
