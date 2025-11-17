@@ -29,3 +29,17 @@
 
 + [古尔曼：苹果基本已放弃了 Mac Pro，M4 Ultra 芯片也已被砍](https://m.ithome.com/html/897867.htm)
 
++ [雷军重申安全是小米汽车基础和前提：“好看”和“安全”并不矛盾，网上有人断章取义、歪曲抹黑](https://m.ithome.com/html/897794.htm)
+
++ [消息称华为 Mate 80 系列新机将采用磁吸环 + 外置磁吸壳设计，月底就能上手](https://m.ithome.com/html/897850.htm)
+
++ [九阳股份撇清“哈基米”概念：公司所属小家电行业，不涉及食品、饮料等业务](https://m.ithome.com/html/897829.htm)
+
++ [全球首个鸿蒙座舱燃油车，东风日产全新天籁 11 月 21 日广州车展上市](https://m.ithome.com/html/897796.htm)
+
++ [紫光展锐 T9300 5G 发布：A78 大核 2.4GHz，安兔兔 V10 跑分 55 万](https://m.ithome.com/html/897802.htm)
+
++ [跨省“BL 解锁”诈骗案告破：冒充官方售后骗手机，横跨全国数十个省份](https://m.ithome.com/html/897789.htm)
+
++ [小米澎湃 OS 3 水印最多机型揭晓：Civi 4 Pro 联名定制版以 33 款样式超旗舰 15 Ultra 暂列第一](https://m.ithome.com/html/897820.htm)
+
