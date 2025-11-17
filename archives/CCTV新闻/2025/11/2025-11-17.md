@@ -185,3 +185,9 @@
 
 + [厄瓜多尔公投反对设立外国军事基地 总统称尊重人民选择](https://news.cctv.com/2025/11/17/ARTIcqwuuvHZ4CsSlCTjU7rz251117.shtml)
 
++ [厄瓜多尔最大犯罪组织头目在西班牙被捕](https://news.cctv.com/2025/11/17/ARTIDC1pzvtpluelABnD9Mda251117.shtml)
+
++ [今年4月至10月 日本遭熊袭击人数创近年同期新高](https://news.cctv.com/2025/11/17/ARTICe1WB7FyM7VAod9pvEKG251117.shtml)
+
++ [越南一公路山体滑坡致大巴被掩埋 造成6死19伤](https://news.cctv.com/2025/11/17/ARTItuqN2Z6kMSH7JYZhz11O251117.shtml)
+

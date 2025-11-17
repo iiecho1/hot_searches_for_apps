@@ -143,3 +143,17 @@
 
 + [通过手机远程操控电脑，一步步学习便捷方法](https://blog.csdn.net/aa657271/article/details/154844754)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的少样本学习与迁移学习融合](https://blog.csdn.net/atgfg/article/details/154918385)
+
++ [Spring Boot 进阶：application.properties 与 application.yml 的全方位对比与最佳实践](https://blog.csdn.net/qq_61654952/article/details/154936663)
+
++ [DeepSeek 2025 全景报告：从技术巅峰到产业革命](https://blog.csdn.net/qq_56999332/article/details/154939235)
+
++ [OpenAI与百度同日竞速，文心5.0以原生全模态重新定义AI理解力](https://blog.csdn.net/weixin_51390582/article/details/154838589)
+
++ [网络访问流程：HTTPS + TCP + IP](https://blog.csdn.net/xike1024/article/details/154906492)
+
++ [24 小时知识导航：使用 cpolar 内网穿透服务访问 Perplexica](https://blog.csdn.net/Pocker_Spades_A/article/details/154843249)
+
++ [可编程逻辑器件学习(day22)：“让ARM穿上FPGA的马甲“：赛灵思Zynq的命名哲学与技术革命](https://blog.csdn.net/weixin_43260261/article/details/154936060)
+
