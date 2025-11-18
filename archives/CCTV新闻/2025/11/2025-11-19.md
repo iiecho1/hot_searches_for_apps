@@ -161,3 +161,5 @@
 
 + [黎巴嫩将就以色列越界“建墙”向联合国安理会申诉](https://news.cctv.com/2025/11/16/ARTIHr5OtG7owJ4fhuEdlTd9251116.shtml)
 
++ [首次！2025迪拜航展：阿联酋飞行表演队换装中国教练机](https://news.cctv.com/2025/11/19/ARTIrcQaBs5rK4qshEcxgo16251119.shtml)
+
