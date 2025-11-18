@@ -181,3 +181,13 @@
 
 + [特朗普称计划向沙特出售F-35战机](https://news.cctv.com/2025/11/18/ARTINpgmEQm6l6depHw2M1KI251118.shtml)
 
++ [中方敦促以色列加入核不扩散条约](https://news.cctv.com/2025/11/18/ARTINlac9iqEkQhidygAvsdY251118.shtml)
+
++ [哈萨克斯坦南部一房屋起火 致12人死亡](https://news.cctv.com/2025/11/18/ARTI1b0OetDjPxyknkqZvzfU251118.shtml)
+
++ [视频丨俄鄂木斯克州天然气管道泄漏 现场火光冲天](https://news.cctv.com/2025/11/18/ARTI6bJfC7QxTQCh58q6FVQe251118.shtml)
+
++ [越南近期强降雨和山体滑坡已致7死多伤](https://news.cctv.com/2025/11/18/ARTIJ7G2RAmEK4SQL6oXpzD4251118.shtml)
+
++ [东京股市日经股指一度跌超3%](https://news.cctv.com/2025/11/18/ARTIHHb48NLzLht6iqfRho5x251118.shtml)
+

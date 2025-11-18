@@ -61,3 +61,9 @@
 
 + [华为 Mate 80 影像首秀：金鸡开幕短片《奔赴光影》由系列新机拍摄，致敬中国电影诞生 120 周年](https://m.ithome.com/html/898004.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.0.112 SP22 更新日志曝光，App 可收纳至应用中心](https://m.ithome.com/html/898090.htm)
+
++ [全系 8000mAh：荣耀 500 系列手机电池容量确认](https://m.ithome.com/html/898053.htm)
+
++ [京东 PLUS 会员反映权益受限：“近期未消费”无法兑换服务，官方建议“养成良好购物习惯后再来”](https://m.ithome.com/html/898234.htm)
+
