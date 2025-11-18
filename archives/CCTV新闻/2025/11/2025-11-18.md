@@ -177,3 +177,7 @@
 
 + [莫斯科城市掠影](https://photo.cctv.com/2025/11/18/PHOAzQyDcwLjcGbvxqJJ3gsV251118.shtml)
 
++ [德国柏林约20所学校遭袭击威胁 警方发起调查](https://news.cctv.com/2025/11/18/ARTIIjxGOdf6XZ4qF1JEY8Rn251118.shtml)
+
++ [特朗普称计划向沙特出售F-35战机](https://news.cctv.com/2025/11/18/ARTINpgmEQm6l6depHw2M1KI251118.shtml)
+
