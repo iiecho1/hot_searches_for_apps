@@ -143,3 +143,7 @@
 
 + [LLM - User Prompt与System Prompt原理、方法与实战](https://blog.csdn.net/yangshangwei/article/details/154863849)
 
++ [KingbaseES数据库：用 ksql 实现本地库创建 / 查看 / 切换 / 删除（附避坑技巧）](https://blog.csdn.net/weixin_43151418/article/details/154060886)
+
++ [【自动驾驶】ROS 机器人操作系统框架 ① ( ROS 简介 | ROS 点对点设计 | ROS 与 自动驾驶 适配 | ROS 节点间消息传递方式 | 发布 / 订阅 模型 )](https://blog.csdn.net/han1202012/article/details/154011637)
+
