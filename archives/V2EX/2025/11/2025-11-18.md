@@ -61,3 +61,5 @@
 
 + [Mac Mini 硬盘买小了 现在用两天就要清数据, 怎么破](https://www.v2ex.com/t/1173460)
 
++ [已经 8.9W 了 不管了 买了一个 BTC](https://www.v2ex.com/t/1173487)
+
