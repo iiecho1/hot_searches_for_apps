@@ -205,3 +205,7 @@
 
 + [实证分析：数据驱动决策的技术实践指南](https://blog.csdn.net/2301_79139273/article/details/154955859)
 
++ [【ComfyUI】Wan2.2 Smooth Mix 首尾帧图像电影质感视频生成](https://blog.csdn.net/qq_20288327/article/details/154440537)
+
++ [【指南】为你的开源Python项目编写完善的文档（Sphinx）](https://blog.csdn.net/qq_42568323/article/details/154958222)
+
