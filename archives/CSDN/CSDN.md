@@ -107,3 +107,23 @@
 
 + [electron打包后查询使用的包版本信息](https://blog.csdn.net/zhchfsky/article/details/154946245)
 
++ [Spring Boot 进阶：application.properties 与 application.yml 的全方位对比与最佳实践](https://blog.csdn.net/qq_61654952/article/details/154936663)
+
++ [CANN特性能力解析：释放硬件潜能，简化AI开发](https://blog.csdn.net/m0_63947499/article/details/154954342)
+
++ [为何最终我放弃了 Go 的 sync.Pool](https://blog.csdn.net/2302_80067378/article/details/154940566)
+
++ [分布式中间件 消息队列Rocketmq 详解](https://blog.csdn.net/qq_30500575/article/details/154956866)
+
++ [Rust Web：Rocket过滤器链(FromRequest)的源码实现与责任链模式应用](https://blog.csdn.net/IRpickstars/article/details/154887048)
+
++ [使用Rust构建一个完整的DeepSeekWeb聊天应用](https://blog.csdn.net/2302_79177254/article/details/154912758)
+
++ [Redis五种用途](https://blog.csdn.net/2509_94088974/article/details/154962546)
+
++ [【update 更新数据语法合集】.NET开源ORM框架 SqlSugar 系列](https://blog.csdn.net/2509_94088022/article/details/154913364)
+
++ [死循环逻辑检测](https://blog.csdn.net/weixin_41640959/article/details/154948866)
+
++ [Elasticsearch - Elasticsearch 与 Lucene 的关系 底层交互细节](https://blog.csdn.net/qq_41187124/article/details/154615629)
+

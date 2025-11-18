@@ -25,3 +25,17 @@
 
 + [三个月暴涨超 3 倍：三星 16GB DDR5 内存价格在韩国失控](https://m.ithome.com/html/898226.htm)
 
++ [刘强东宣布：京东外卖独立 App 上线](https://m.ithome.com/html/898092.htm)
+
++ [消息称华为 Mate 80 系列手机磁吸外露核心是金属材质问题，非凡大师因独立设计无双环元素](https://m.ithome.com/html/898094.htm)
+
++ [消息称华为 Mate 80 系列内置风扇版本机型未成功落地，设计方案相当精密](https://m.ithome.com/html/898008.htm)
+
++ [京东正式推出“七鲜咖啡”：宣称“只用鲜奶”，已上线外卖店](https://m.ithome.com/html/898088.htm)
+
++ [国内多所高校开始压缩学分，淘汰水课](https://m.ithome.com/html/898036.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.112 SP22 更新日志曝光，App 可收纳至应用中心](https://m.ithome.com/html/898090.htm)
+
++ [华为 Mate 80 影像首秀：金鸡开幕短片《奔赴光影》由系列新机拍摄，致敬中国电影诞生 120 周年](https://m.ithome.com/html/898004.htm)
+
