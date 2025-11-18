@@ -127,3 +127,9 @@
 
 + [Elasticsearch - Elasticsearch 与 Lucene 的关系 底层交互细节](https://blog.csdn.net/qq_41187124/article/details/154615629)
 
++ [openGauss 7.0 数据库实战指南：从部署到应用，教你轻松上手无压力](https://blog.csdn.net/qq_57761637/article/details/154985244)
+
++ [《华为数据之道》发行五周年暨《数据空间探索与实践》新书发布会召开，共探AI时代数据治理新路径](https://blog.csdn.net/liu_chen_yang/article/details/154979769)
+
++ [MySQL事务全攻略：ACID特性、隔离级别与并发控制](https://blog.csdn.net/2302_80105876/article/details/154910353)
+

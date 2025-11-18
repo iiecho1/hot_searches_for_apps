@@ -163,3 +163,5 @@
 
 + [首次！2025迪拜航展：阿联酋飞行表演队换装中国教练机](https://news.cctv.com/2025/11/19/ARTIrcQaBs5rK4qshEcxgo16251119.shtml)
 
++ [墨西哥重申绝不容许美对墨军事干预](https://news.cctv.com/2025/11/19/ARTI6GXirRdiNAh4PECJ5YHh251119.shtml)
+
