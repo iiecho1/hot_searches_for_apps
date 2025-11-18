@@ -193,3 +193,9 @@
 
 + [计算机网络——应用层](https://blog.csdn.net/2301_79929304/article/details/154904613)
 
++ [通义千问全面对标 ChatGPT：一场 AI 体验革命](https://blog.csdn.net/fenglovemu/article/details/154962729)
+
++ [Unet实现脑肿瘤分割检测](https://blog.csdn.net/2401_84444731/article/details/154954397)
+
++ [网络安全 | 深入解析XSS攻击与防御实战](https://blog.csdn.net/Andya_net/article/details/154910911)
+
