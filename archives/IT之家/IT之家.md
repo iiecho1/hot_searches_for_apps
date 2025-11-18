@@ -55,3 +55,15 @@
 
 + [玛莎拉蒂再现“骨折式”降价：经销商裸车 35.88 万元起，对标小米、理想等新势力品牌](https://m.ithome.com/html/897975.htm)
 
++ [Cloudflare 突发全球故障，众多网站无法访问（更新：已修复）](https://m.ithome.com/html/898382.htm)
+
++ [卢伟冰：小米 17 系列手机销量已破 200 万，是双十一期间唯一能对抗苹果 iPhone 的产品](https://m.ithome.com/html/898375.htm)
+
++ [小米卢伟冰：已签 2026 年内存供应协议，可能通过涨价应对成本上升](https://m.ithome.com/html/898390.htm)
+
++ [2019 年老机型也有更新：华为 Mate 30 系列 / P30 Pro 获鸿蒙 4.2 / 4.0 新版本升级，优化使用体验](https://m.ithome.com/html/898372.htm)
+
++ [IT之家再入“新榜 2025 中国微信 500 强”，连续 6 年！](https://m.ithome.com/html/898269.htm)
+
++ [苹果 iPhone Air 主设计师 Abidur Chowdhury 离职，跳槽 AI 初创公司](https://m.ithome.com/html/898157.htm)
+
