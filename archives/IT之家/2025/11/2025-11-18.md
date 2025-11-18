@@ -67,3 +67,15 @@
 
 + [京东 PLUS 会员反映权益受限：“近期未消费”无法兑换服务，官方建议“养成良好购物习惯后再来”](https://m.ithome.com/html/898234.htm)
 
++ [华为 Mate 80 系列手机线下备货比例曝光：标准版最多、 Pro 最少](https://m.ithome.com/html/898309.htm)
+
++ [大多数地区下单立减：苹果 iPhone 17 256G 京东 5499 元 12 期免息](https://m.ithome.com/html/898320.htm)
+
++ [蔚来官宣丁真成为 ET5T 车主，川西环线换电路线明日正式贯通](https://m.ithome.com/html/898113.htm)
+
++ [限时 8.88 万元起、两种前脸可选，上汽大众朗逸 Pro 上市](https://m.ithome.com/html/898103.htm)
+
++ [消息称华为 Mate X7 折叠屏手机提供 12GB / 16GB / 20GB 规格，三摄系统接近 Mate 80 Pro](https://m.ithome.com/html/898285.htm)
+
++ [三个月暴涨超 3 倍：三星 16GB DDR5 内存价格在韩国失控](https://m.ithome.com/html/898226.htm)
+
