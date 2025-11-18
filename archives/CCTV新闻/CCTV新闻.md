@@ -191,3 +191,7 @@
 
 + [东京股市日经股指一度跌超3%](https://news.cctv.com/2025/11/18/ARTIHHb48NLzLht6iqfRho5x251118.shtml)
 
++ [自10月底以来超10万平民逃离苏丹西部法希尔市](https://news.cctv.com/2025/11/18/ARTIhLgEezgBJcPrQrroZ0zG251118.shtml)
+
++ [就高市早苗涉台错误言论 联合国最新回应](https://news.cctv.com/2025/11/18/ARTIvIuWvtdyjhn6oTryvjqz251118.shtml)
+

@@ -183,3 +183,9 @@
 
 + [electron打包后查询使用的包版本信息](https://blog.csdn.net/zhchfsky/article/details/154946245)
 
++ [机器学习-决策树多种生成方法讲解及实战代码讲解(C++/Python实现)](https://blog.csdn.net/saojiakre/article/details/154910592)
+
++ [Streaming ELT with Flink CDC · Sources 一文看懂 Flink CDC 源端连接器](https://blog.csdn.net/weixin_43114209/article/details/154910170)
+
++ [TWIST2——全身VR遥操控制：采集人形全身数据后，可训练视觉base的自主策略(基于视觉观测预测全身关节位置)](https://blog.csdn.net/v_JULY_v/article/details/154915490)
+
