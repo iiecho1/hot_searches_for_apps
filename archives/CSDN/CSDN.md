@@ -147,3 +147,11 @@
 
 + [【自动驾驶】ROS 机器人操作系统框架 ① ( ROS 简介 | ROS 点对点设计 | ROS 与 自动驾驶 适配 | ROS 节点间消息传递方式 | 发布 / 订阅 模型 )](https://blog.csdn.net/han1202012/article/details/154011637)
 
++ [运用Java及SunriseSunsetCalculator，探寻长沙市的理论日照时长](https://blog.csdn.net/yelangkingwuzuhu/article/details/154958642)
+
++ [使用Rust构建一个完整的DeepSeekWeb聊天应用](https://blog.csdn.net/2302_79177254/article/details/154912758)
+
++ [节能与新能源汽车技术路线图3.0：产业总体技术路线图深度解析](https://blog.csdn.net/weixin_62244995/article/details/154954956)
+
++ [soular实战教程系列(6) - soular+kanass+sward+postin实现sso单点登录](https://blog.csdn.net/tiklab2020/article/details/154951212)
+

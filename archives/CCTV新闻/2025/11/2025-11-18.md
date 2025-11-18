@@ -167,3 +167,13 @@
 
 + [四问“搞事”的高市早苗](https://news.cctv.com/2025/11/18/ARTIljOYI9r1aGWBlzxoqXBe251118.shtml)
 
++ [坦桑尼亚总统宣布新一届内阁名单](https://news.cctv.com/2025/11/18/ARTInIVOFS3qOer0Zcasagay251118.shtml)
+
++ [玻利维亚遭遇强降雨 已造成至少6人失踪](https://news.cctv.com/2025/11/18/ARTIU9qyFcPctWwWpFR3UJeV251118.shtml)
+
++ [高市早苗，又惹恼韩国](https://news.cctv.com/2025/11/18/ARTIvNRI9sVMYauCj9YvQqHO251118.shtml)
+
++ [贝伦掠影](https://photo.cctv.com/2025/11/18/PHOA05l5sgcsf9P2U2stSwTE251118.shtml)
+
++ [莫斯科城市掠影](https://photo.cctv.com/2025/11/18/PHOAzQyDcwLjcGbvxqJJ3gsV251118.shtml)
+
