@@ -45,3 +45,19 @@
 
 + [麒麟 9030 Pro 处理器！华为 Mate 80 Pro 手机包装盒曝光](https://m.ithome.com/html/898115.htm)
 
++ [消息称华为 Mate 80 Pro 手机尺寸很友好，与 70 标准版相近](https://m.ithome.com/html/898129.htm)
+
++ [（更新：再次涨价）刚发布一周的致态 TiPlus 7100s 固态硬盘悄悄涨价 30~100 元](https://m.ithome.com/html/897986.htm)
+
++ [京东正式推出“七鲜咖啡”：宣称“只用鲜奶”，已上线外卖店](https://m.ithome.com/html/898088.htm)
+
++ [国内多所高校开始压缩学分，淘汰水课](https://m.ithome.com/html/898036.htm)
+
++ [鸿蒙最强折叠屏旗舰：余承东公布华为 Mate X7 真机视频，11 月 25 日正式发布](https://m.ithome.com/html/898168.htm)
+
++ [OPPO Reno15 Pro 手机发布：“为直播而生”，售价 3699 元起](https://m.ithome.com/html/898101.htm)
+
++ [小米汽车：所有已提车车主可免费领取 3 个月网易云音乐车机版会员](https://m.ithome.com/html/898108.htm)
+
++ [华为 Mate 80 影像首秀：金鸡开幕短片《奔赴光影》由系列新机拍摄，致敬中国电影诞生 120 周年](https://m.ithome.com/html/898004.htm)
+
