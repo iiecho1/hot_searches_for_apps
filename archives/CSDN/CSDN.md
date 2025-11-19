@@ -131,3 +131,7 @@
 
 + [Linux网络编程—应用层自定义协议与序列化](https://blog.csdn.net/Awkwardx/article/details/155001916)
 
++ [从零开始的Qt开发指南：（四）Qt 信号与槽拓展：从自定义到连接方式，带你彻底掌握信号与槽的本质](https://blog.csdn.net/2301_79248256/article/details/154993512)
+
++ [在vue2中主页面怎么给子页面传递数据](https://blog.csdn.net/2301_77170676/article/details/154941099)
+

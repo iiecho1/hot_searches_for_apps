@@ -35,3 +35,15 @@
 
 + [限时 13.29 万元起、搭载磁流变悬架系统，深蓝 L06 上市](https://m.ithome.com/html/898386.htm)
 
++ [华为 Mate 80 系列手机线下备货比例曝光：标准版最多、 Pro 最少](https://m.ithome.com/html/898309.htm)
+
++ [大多数地区下单立减：苹果 iPhone 17 256G 京东 5499 元 12 期免息](https://m.ithome.com/html/898320.htm)
+
++ [IT之家再入“新榜 2025 中国微信 500 强”，连续 6 年！](https://m.ithome.com/html/898269.htm)
+
++ [总裁今天午饭有着落了：塔斯汀双堡 / 瑞幸两杯 9.9 元京东送到家，支持 24 期分期](https://m.ithome.com/html/898303.htm)
+
++ [消息称华为 Mate X7 折叠屏手机提供 12GB / 16GB / 20GB 规格，三摄系统接近 Mate 80 Pro](https://m.ithome.com/html/898285.htm)
+
++ [小米集团 2025 年第三季度经调整净利润 113 亿元同比增长 80.9%，创历史新高](https://m.ithome.com/html/898335.htm)
+
