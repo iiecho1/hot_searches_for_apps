@@ -193,3 +193,5 @@
 
 + [荷兰政府宣布暂停对安世半导体的行政令](https://news.cctv.com/2025/11/19/ARTIsoWePmMCKYxY5JMXZ1Xm251119.shtml)
 
++ [外交部：如日方拒不撤回涉台错误言论，一切后果由日方承担](https://news.cctv.com/2025/11/19/ARTIjak2HtYI3rYbUDLi2Sq1251119.shtml)
+

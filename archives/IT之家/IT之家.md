@@ -91,3 +91,13 @@
 
 + [华为鸿蒙 HarmonyOS 6.0.0.112 版本推送，首批覆盖 Pura 80、Mate 70 等系列机型](https://m.ithome.com/html/898404.htm)
 
++ [女子网购玩偶发现疑似摄像头，平台回应称已下架涉事商品](https://m.ithome.com/html/898446.htm)
+
++ [董明珠再回应 3.2 万元玫瑰空调：在格力之前没有人将空调打造成艺术品，企业应带动上下游共同发展](https://m.ithome.com/html/898437.htm)
+
++ [华为 Mate X7 折叠屏手机全系配色公布，最高 16GB+1TB 典藏版](https://m.ithome.com/html/898508.htm)
+
++ [谷歌最强 AI 模型 Gemini 3 正式登场：发布即登顶 LMArena，号称迄今最智能](https://m.ithome.com/html/898436.htm)
+
++ [华为 Mate X7 旗舰机升级“全新超可靠折叠玄武架构”，支持 IP58 和 IP59 防护](https://m.ithome.com/html/898414.htm)
+
