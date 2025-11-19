@@ -193,3 +193,13 @@
 
 + [【2025最新】Flutter 编译开发 鸿蒙HarmonyOS 6 项目教程（Windows）](https://blog.csdn.net/2301_80035882/article/details/155001657)
 
++ [从 Binlog 到实时数仓Flink MySQL CDC Connector 全面实战指南](https://blog.csdn.net/weixin_43114209/article/details/154911334)
+
++ [学习threejs，添加ECharts图表](https://blog.csdn.net/qq_28419035/article/details/154995394)
+
++ [π∗0.6——RL全程微调VLA：先基于演示数据做离线RL预训练，再在线RL后训练，即在与环境自主交互中从经验数据中学习，且必要时人工干预](https://blog.csdn.net/v_JULY_v/article/details/154989166)
+
++ [用 Excalidraw 画架构图超顺手？本地部署 + cpolar远程访问攻略来了](https://blog.csdn.net/Mrxiao_bo/article/details/155002391)
+
++ [基于Linux平台的openGauss一主两备高可用集群部署与运维实践研究](https://blog.csdn.net/weixin_62765017/article/details/154986815)
+
