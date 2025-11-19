@@ -29,3 +29,13 @@
 
 + [众安银行的 root 检测无敌了](https://www.v2ex.com/t/1173502)
 
++ [谷歌发布了自己的 IDE --Antigravity，我用谷歌账号登录不上，咋回事](https://www.v2ex.com/t/1173634)
+
++ [安卓有什么手机和苹果一样流畅](https://www.v2ex.com/t/1173605)
+
++ [「Cubence」一个小而美的中转站，支持 cc 和 cx，熬夜适配 Gemini3，抽奖余额！](https://www.v2ex.com/t/1173675)
+
++ [从 0 到 1，独立完整的做一个产品并上线，这个能力在程序员中普遍吗？](https://www.v2ex.com/t/1173527)
+
++ [关于蔡司镜片值不值得买的问题](https://www.v2ex.com/t/1173651)
+
