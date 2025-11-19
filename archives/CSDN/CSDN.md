@@ -171,3 +171,13 @@
 
 + [【Linux工具链】编译效率革命：条件编译优化+动静态库管理+Makefile自动化，解决多场景开发痛点](https://blog.csdn.net/2402_87731470/article/details/154914723)
 
++ [C++11（上）：重塑 C++ 的现代革命](https://blog.csdn.net/yhrxh_ymq/article/details/154997868)
+
++ [Dubbo链路追踪全解析：构建微服务可观测性体系](https://blog.csdn.net/qq_44378083/article/details/154959472)
+
++ [第3版•系统集成项目管理工程师（中级） │ 第4章 信息系统架构](https://blog.csdn.net/qq_41840843/article/details/155013180)
+
++ [认识 TRAE：你的 10x AI 工程师（Pycharm也可以装插件）](https://blog.csdn.net/weixin_42636075/article/details/155016035)
+
++ [AI保险顾问系统：基于LangChain4j的智能保险咨询实践](https://blog.csdn.net/u010398771/article/details/155002460)
+

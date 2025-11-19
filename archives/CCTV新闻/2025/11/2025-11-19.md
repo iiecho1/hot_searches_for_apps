@@ -175,3 +175,7 @@
 
 + [美国政府继续推进拆解教育部计划](https://news.cctv.com/2025/11/19/ARTIvgnAEQ8THvVk5moxGqo5251119.shtml)
 
++ [通讯丨坦赞铁路见证中非友谊新征程](https://news.cctv.com/2025/11/19/ARTI8z9gqapYqAZQMBc6R4j5251119.shtml)
+
++ [专访丨中国减贫的宝贵经验值得借鉴——访印尼人口流动部部长伊夫提塔赫](https://news.cctv.com/2025/11/19/ARTIUXCBPDunt4mL0mT97Dff251119.shtml)
+
