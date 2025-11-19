@@ -101,3 +101,9 @@
 
 + [全文检索ElasticSearch实战](https://blog.csdn.net/gongjian0321/article/details/154948789)
 
++ [Java 大视界 -- Java 大数据机器学习模型在遥感图像目标检测与语义分割中的应用与改进](https://blog.csdn.net/atgfg/article/details/154918651)
+
++ [CANN特性能力解析：释放硬件潜能，简化AI开发](https://blog.csdn.net/m0_63947499/article/details/154954342)
+
++ [Boost搜索引擎](https://blog.csdn.net/2302_79860961/article/details/154735080)
+
