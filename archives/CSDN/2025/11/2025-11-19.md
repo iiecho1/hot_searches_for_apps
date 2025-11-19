@@ -203,3 +203,15 @@
 
 + [基于Linux平台的openGauss一主两备高可用集群部署与运维实践研究](https://blog.csdn.net/weixin_62765017/article/details/154986815)
 
++ [Flink Oracle CDC Connector 实战指南](https://blog.csdn.net/weixin_43114209/article/details/154913754)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在企业供应链碳足迹分析与可持续发展决策中的应用](https://blog.csdn.net/atgfg/article/details/154957711)
+
++ [从零到精通 OpenCV：计算机视觉与机器学习全面指南](https://blog.csdn.net/2301_77485708/article/details/154954008)
+
++ [π∗0.6——RL全程微调VLA：先基于演示数据做离线RL预训练，再在线RL后训练，即与环境自主交互，从经验数据中学习，且必要时人工干预](https://blog.csdn.net/v_JULY_v/article/details/154989166)
+
++ [CANN在昇腾NPU上的落地实践与图像分类加速应用](https://blog.csdn.net/weixin_52908342/article/details/154954203)
+
++ [【安全函数】文件打开与关闭的系列安全函数深度解析](https://blog.csdn.net/weixin_37800531/article/details/154917281)
+

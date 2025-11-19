@@ -79,3 +79,15 @@
 
 + [首款鸿蒙二合一平板电脑：余承东官宣华为 MatePad Edge](https://m.ithome.com/html/898451.htm)
 
++ [华为官宣 MatePad Edge 二合一平板电脑](https://m.ithome.com/html/898459.htm)
+
++ [何刚公布华为 Mate 80 系列机型拍摄样张](https://m.ithome.com/html/898492.htm)
+
++ [限时 13.29 万元起、搭载磁流变悬架系统，深蓝 L06 上市](https://m.ithome.com/html/898386.htm)
+
++ [首款鸿蒙二合一平板华为 MatePad Edge 配置爆料：PC 级麒麟 9 芯片、14.2 英寸柔光屏](https://m.ithome.com/html/898497.htm)
+
++ [华为鸿蒙 HarmonyOS 6 最新适配机型公布，nova 14 活力版、WATCH FIT 4 等开放花粉 Beta 尝鲜](https://m.ithome.com/html/898418.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.112 版本推送，首批覆盖 Pura 80、Mate 70 等系列机型](https://m.ithome.com/html/898404.htm)
+
