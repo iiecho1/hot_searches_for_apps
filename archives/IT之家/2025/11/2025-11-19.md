@@ -67,3 +67,7 @@
 
 + [苹果 iPhone Air 主设计师 Abidur Chowdhury 离职，跳槽 AI 初创公司](https://m.ithome.com/html/898157.htm)
 
++ [金士顿推出双接口便携式固态硬盘：U 盘型外观，SSD 级性能](https://m.ithome.com/html/898132.htm)
+
++ [苹果 M1 芯片发布五周年，高管盛赞 Mac 从未如此强大](https://m.ithome.com/html/898156.htm)
+

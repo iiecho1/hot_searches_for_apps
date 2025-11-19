@@ -169,3 +169,5 @@
 
 + [第四批中欧班列全程时刻表发布 新增7条线路](https://news.cctv.com/2025/11/19/ARTImlobyUIfryBSMJ7gsbQL251119.shtml)
 
++ [中国代表：日本根本没有资格要求成为安理会常任理事国](https://news.cctv.com/2025/11/19/ARTI2CuoCFVIG5r06rde7xUH251119.shtml)
+

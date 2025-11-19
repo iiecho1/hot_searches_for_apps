@@ -133,3 +133,15 @@
 
 + [MySQL事务全攻略：ACID特性、隔离级别与并发控制](https://blog.csdn.net/2302_80105876/article/details/154910353)
 
++ [[免费]基于python的Flask+Vue医疗疾病数据分析大屏可视化系统（机器学习随机森林算法+requests）【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/154904681)
+
++ [【c++知识铺子】模板的小知识](https://blog.csdn.net/2301_80127108/article/details/154951094)
+
++ [使用 Spring Boot + Vue.js 组合开发多商户商城（B2B2C平台）是一种高效的全栈技术方案](https://blog.csdn.net/qq_27560407/article/details/154950913)
+
++ [【自然语言处理】预训练07：词的相似性和类比任务](https://blog.csdn.net/Morse_Chen/article/details/154797433)
+
++ [医疗数据的安全长城：金仓数据库如何重塑智慧医疗新生态](https://blog.csdn.net/weixin_44976692/article/details/154994446)
+
++ [Kubernetes 资源清单](https://blog.csdn.net/qq_38626043/article/details/154958440)
+
