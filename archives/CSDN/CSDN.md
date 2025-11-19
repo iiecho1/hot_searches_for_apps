@@ -181,3 +181,7 @@
 
 + [AI保险顾问系统：基于LangChain4j的智能保险咨询实践](https://blog.csdn.net/u010398771/article/details/155002460)
 
++ [C# 使用豆包 AI 模型实现首尾帧模式的视频生成](https://blog.csdn.net/michaelline/article/details/154995421)
+
++ [Elasticsearch - 底层存储原理 Elasticsearch 如何与文件系统交互](https://blog.csdn.net/qq_41187124/article/details/154663026)
+
