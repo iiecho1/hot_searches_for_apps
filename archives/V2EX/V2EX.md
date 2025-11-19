@@ -21,3 +21,11 @@
 
 + [元旦 8 天假期，想出去走走，又不知道去哪](https://www.v2ex.com/t/1173444)
 
++ [Mac Mini 硬盘买小了 现在用两天就要清数据, 怎么破](https://www.v2ex.com/t/1173460)
+
++ [如何评价昨天的 Cloudflare 故障，对你有什么影响吗](https://www.v2ex.com/t/1173630)
+
++ [这次 cloudflare 宕机是什么原因造成的？](https://www.v2ex.com/t/1173600)
+
++ [众安银行的 root 检测无敌了](https://www.v2ex.com/t/1173502)
+

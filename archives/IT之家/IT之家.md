@@ -71,3 +71,7 @@
 
 + [苹果 M1 芯片发布五周年，高管盛赞 Mac 从未如此强大](https://m.ithome.com/html/898156.htm)
 
++ [华为 Mate 40 系列手机今年再获新版本升级，距上次更新约 4 个月时间](https://m.ithome.com/html/898392.htm)
+
++ [小米集团 2025 年第三季度经调整净利润 113 亿元同比增长 80.9%，创历史新高](https://m.ithome.com/html/898335.htm)
+
