@@ -161,3 +161,5 @@
 
 + [乌克兰大部分地区17日将实施轮换停电](https://news.cctv.com/2025/11/17/ARTIzu6IU8YTOXMNQoGdvAZl251117.shtml)
 
++ [卢浮宫将安装100个监控摄像头并设置警察岗亭](https://news.cctv.com/2025/11/20/ARTIP3LnTmIOYrHuH5IBDu8J251119.shtml)
+

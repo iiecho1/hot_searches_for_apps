@@ -107,3 +107,25 @@
 
 + [Boost搜索引擎](https://blog.csdn.net/2302_79860961/article/details/154735080)
 
++ [基于深度卷积神经网络与迁移学习的动物图像分类](https://blog.csdn.net/weixin_43425950/article/details/154951122)
+
++ [运用Java及SunriseSunsetCalculator，探寻长沙市的理论日照时长](https://blog.csdn.net/yelangkingwuzuhu/article/details/154958642)
+
++ [AI Agent 实战指南：LangChain/LangGraph 框架深度解析与项目落地](https://blog.csdn.net/qq_40303030/article/details/154532990)
+
++ [Docker底层工作原理](https://blog.csdn.net/weixin_41312759/article/details/154952517)
+
++ [微信小程序登录与手机号绑定全栈实现：Java + Vue深度实践](https://blog.csdn.net/beautifulmemory/article/details/154920238)
+
++ [电商系统中ES检索技术设计和运用](https://blog.csdn.net/xj80231314/article/details/154940212)
+
++ [【Vue 渲染流程揭秘】](https://blog.csdn.net/beilingxiaogu/article/details/154498417)
+
++ [【Linux】进程信号（一）信号原理、产生方式、调试技巧（含代码示例）](https://blog.csdn.net/2501_90265152/article/details/154835117)
+
++ [Vue中的provide与inject](https://blog.csdn.net/fmk1023/article/details/154949685)
+
++ [AI保险顾问系统：基于LangChain4j的智能保险咨询实践](https://blog.csdn.net/u010398771/article/details/155002460)
+
++ [就业|高校就业|基于ssm+vue的高校就业信息系统的设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/155019336)
+

@@ -25,3 +25,13 @@
 
 + [华为 Mate X7 旗舰机升级“全新超可靠折叠玄武架构”，支持 IP58 和 IP59 防护](https://m.ithome.com/html/898414.htm)
 
++ [Cloudflare 突发全球故障，众多网站无法访问（更新：已修复）](https://m.ithome.com/html/898382.htm)
+
++ [小米卢伟冰：已签 2026 年内存供应协议，可能通过涨价应对成本上升](https://m.ithome.com/html/898390.htm)
+
++ [卢伟冰：小米 17 系列手机销量已破 200 万，是双十一期间唯一能对抗苹果 iPhone 的产品](https://m.ithome.com/html/898375.htm)
+
++ [2019 年老机型也有更新：华为 Mate 30 系列 / P30 Pro 获鸿蒙 4.2 / 4.0 新版本升级，优化使用体验](https://m.ithome.com/html/898372.htm)
+
++ [限时 13.29 万元起、搭载磁流变悬架系统，深蓝 L06 上市](https://m.ithome.com/html/898386.htm)
+
