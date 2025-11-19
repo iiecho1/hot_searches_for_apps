@@ -171,3 +171,7 @@
 
 + [中国代表：日本根本没有资格要求成为安理会常任理事国](https://news.cctv.com/2025/11/19/ARTI2CuoCFVIG5r06rde7xUH251119.shtml)
 
++ [“中国在全球治理体系中的作用至关重要”——访联合国驻华协调员常启德](https://news.cctv.com/2025/11/19/ARTI4oWKLr0AE6Ls9rIz0BQ8251119.shtml)
+
++ [美国政府继续推进拆解教育部计划](https://news.cctv.com/2025/11/19/ARTIvgnAEQ8THvVk5moxGqo5251119.shtml)
+

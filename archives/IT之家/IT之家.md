@@ -75,3 +75,7 @@
 
 + [小米集团 2025 年第三季度经调整净利润 113 亿元同比增长 80.9%，创历史新高](https://m.ithome.com/html/898335.htm)
 
++ [总裁今天午饭有着落了：塔斯汀双堡 / 瑞幸两杯 9.9 元京东送到家，支持 24 期分期](https://m.ithome.com/html/898303.htm)
+
++ [首款鸿蒙二合一平板电脑：余承东官宣华为 MatePad Edge](https://m.ithome.com/html/898451.htm)
+
