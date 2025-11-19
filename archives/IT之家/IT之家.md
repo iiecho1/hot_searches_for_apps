@@ -47,3 +47,11 @@
 
 + [小米集团 2025 年第三季度经调整净利润 113 亿元同比增长 80.9%，创历史新高](https://m.ithome.com/html/898335.htm)
 
++ [重磅！荷兰宣布暂停干预安世半导体，控制权归还闻泰科技](https://m.ithome.com/html/898675.htm)
+
++ [限时价 9.58 万元起：2026 款吉利银河星舰 7 EM-i 上市，入门款纯电续航 130km](https://m.ithome.com/html/898672.htm)
+
++ [首款鸿蒙二合一平板电脑华为 MatePad Edge 开启预售：深空灰 / 皓月银双配色、最高 32GB+2TB 规格](https://m.ithome.com/html/898604.htm)
+
++ [华为 Mate X7 折叠屏手机今日开启预订：第二代红枫影像，有望首发麒麟 9030](https://m.ithome.com/html/898483.htm)
+
