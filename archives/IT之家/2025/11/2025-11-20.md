@@ -59,3 +59,21 @@
 
 + [三个月暴涨超 3 倍：三星 16GB DDR5 内存价格在韩国失控](https://m.ithome.com/html/898226.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.0.112 再曝新特性：手机 Dock 栏“扩容”且不影响任务接续](https://m.ithome.com/html/898715.htm)
+
++ [华为朱懂东：鸿蒙电脑实现全链路自主可控](https://m.ithome.com/html/898687.htm)
+
++ [华为 Mate 80 系列手机官宣首发户外探索模式：14 天“极限续航”](https://m.ithome.com/html/898757.htm)
+
++ [理想汽车被曝“大反思”：承认产品节奏变慢，后续产品有望不再“套娃”](https://m.ithome.com/html/898727.htm)
+
++ [苹果揭晓 2025 年 App Store Awards 中国大陆入围作品](https://m.ithome.com/html/898700.htm)
+
++ [华为擎云 HM740 鸿蒙电脑官宣“即将发布”：基于 HarmonyOS 6 底座打造，支持开箱即用](https://m.ithome.com/html/898709.htm)
+
++ [【视频】首款鸿蒙二合一平板，华为MatePad Edge 首发体验](https://m.ithome.com/html/898659.htm)
+
++ [短片《食物交响曲》发布：华为 Mate 80 Pro Max / RS 非凡大师手机官宣支持「长焦微距慢动作」](https://m.ithome.com/html/898597.htm)
+
++ [迄今尺寸最大华为平板：MatePad Edge 配备 14.2 英寸超大屏、屏占比 94%](https://m.ithome.com/html/898642.htm)
+

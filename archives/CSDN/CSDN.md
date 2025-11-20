@@ -173,3 +173,7 @@
 
 + [设计模式（三）抽象工厂模式 — 一次性创建一整套相关对象的终极工厂](https://blog.csdn.net/CSDNUser_zh/article/details/155040069)
 
++ [【JAVA 进阶】Spring Cloud 微服务全栈实践：从认知到落地](https://blog.csdn.net/weixin_63944437/article/details/155054315)
+
++ [【论文笔记】真正看得懂图像的Qwen3-VL](https://blog.csdn.net/xian0710830114/article/details/154917996)
+
