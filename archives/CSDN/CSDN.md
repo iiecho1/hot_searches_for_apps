@@ -213,3 +213,9 @@
 
 + [用动漫形象制作虚拟主播并合成唱歌视频](https://blog.csdn.net/2301_76273976/article/details/155037614)
 
++ [Spring AI：Java 生态的 AI 赋能革命，企业级智能应用新标杆](https://blog.csdn.net/2402_88700528/article/details/155036477)
+
++ [计算机网络重要知识点](https://blog.csdn.net/weixin_43943624/article/details/155026068)
+
++ [让电竞数据实时跳动：Spring Boot 后端 + Vue 前端的完美融合实践](https://blog.csdn.net/marzdata/article/details/155015445)
+
