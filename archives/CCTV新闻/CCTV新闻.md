@@ -177,3 +177,13 @@
 
 + [繁华的伊斯坦布尔独立大街](https://photo.cctv.com/2025/11/20/PHOA83NRLvdUnTmQkX3RSqzj251120.shtml)
 
++ [专访｜“这是背叛外交信义的卑劣之举”——韩国专家批高市早苗涉台错误言论](https://news.cctv.com/2025/11/20/ARTIBlVY3HiiBZkbyUDqG125251120.shtml)
+
++ [新华时评丨高市开历史倒车必将失败](https://news.cctv.com/2025/11/20/ARTIWUUxDuhB3KotOGxMyjCc251120.shtml)
+
++ [印尼塞兰岛附近海域发生5.8级地震，震源深度140千米](https://news.cctv.com/2025/11/20/ARTIleHlzytk0xyHRv3HMBLZ251120.shtml)
+
++ [美航天局公布“星际访客”彗星最新图像](https://news.cctv.com/2025/11/20/ARTIrLhT0onWyWmsE81hOBNA251120.shtml)
+
++ [中国驻白俄罗斯使馆提醒在白中国公民注意消防安全](https://news.cctv.com/2025/11/20/ARTIFpLL5P1fIUvmkD2N32Ry251120.shtml)
+

@@ -177,3 +177,11 @@
 
 + [【论文笔记】真正看得懂图像的Qwen3-VL](https://blog.csdn.net/xian0710830114/article/details/154917996)
 
++ [模拟退火算法求解聚类问题python代码示例](https://blog.csdn.net/weixin_46846685/article/details/154959172)
+
++ [基于大数据Hadoop+数据可视化的酒店能耗大数据可视化系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155056411)
+
++ [[已更新]2025亚太杯B题亚太赛B题 APMCM大学生数学建模详细教学分析](https://blog.csdn.net/xb459149247/article/details/155049211)
+
++ [UU远程控制：重新定义流畅办公与高效工作](https://blog.csdn.net/a1657054242/article/details/155022791)
+
