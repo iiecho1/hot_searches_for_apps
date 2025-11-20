@@ -191,3 +191,7 @@
 
 + [哥伦比亚获批加入 亚投行成员总数增至111个](https://news.cctv.com/2025/11/20/ARTIqdXbju8QnfZh6u3KKOwZ251120.shtml)
 
++ [南非央行下调基准利率25个基点至6.75%](https://news.cctv.com/2025/11/20/ARTICxQ9OROcoxi4BlGjRfrT251120.shtml)
+
++ [秘鲁政府延长首都及邻省紧急状态30天](https://news.cctv.com/2025/11/20/ARTICccFleSv2D1O7GxQk84E251120.shtml)
+
