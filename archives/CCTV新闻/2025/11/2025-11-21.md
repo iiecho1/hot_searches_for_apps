@@ -167,3 +167,5 @@
 
 + [汤加举行议会选举](https://news.cctv.com/2025/11/21/ARTIc40nyfybx0WA0GD3hC9o251121.shtml)
 
++ [以色列宣布征用约旦河西岸土地开发考古遗址](https://news.cctv.com/2025/11/21/ARTIl5WEBU0HvjIQz8VsT9OK251121.shtml)
+
