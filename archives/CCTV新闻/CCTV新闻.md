@@ -169,3 +169,7 @@
 
 + [以色列宣布征用约旦河西岸土地开发考古遗址](https://news.cctv.com/2025/11/21/ARTIl5WEBU0HvjIQz8VsT9OK251121.shtml)
 
++ [伊朗外长：与国际原子能机构签署的开罗协议正式终止](https://news.cctv.com/2025/11/21/ARTIEaJSpIAFvYsJDACxqR5X251121.shtml)
+
++ [美总统特朗普修改对巴西商品关税范围](https://news.cctv.com/2025/11/21/ARTIyP3ezsISpuN14wSqCB7f251121.shtml)
+
