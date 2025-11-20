@@ -187,3 +187,7 @@
 
 + [中国驻白俄罗斯使馆提醒在白中国公民注意消防安全](https://news.cctv.com/2025/11/20/ARTIFpLL5P1fIUvmkD2N32Ry251120.shtml)
 
++ [中国驻中非大使馆发布重要提醒：中国公民在中非从事黄金采掘业面临重大安全风险](https://news.cctv.com/2025/11/20/ARTI3GkNonVKpLOije32NRVu251120.shtml)
+
++ [哥伦比亚获批加入 亚投行成员总数增至111个](https://news.cctv.com/2025/11/20/ARTIqdXbju8QnfZh6u3KKOwZ251120.shtml)
+
