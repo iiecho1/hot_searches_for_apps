@@ -109,3 +109,31 @@
 
 + [样式穿透问题](https://blog.csdn.net/m0_54241235/article/details/155040029)
 
++ [C++进阶：（十三）C++11深度解析（中）：类型分类、引用折叠、完美转发与可变参数模板深度解析](https://blog.csdn.net/2301_79248256/article/details/155040271)
+
++ [从局域网到全球访问：GoLand+cpolar 让开发协作无距离](https://blog.csdn.net/2301_77485708/article/details/155066435)
+
++ [pytorch 卷积操作](https://blog.csdn.net/weixin_45672157/article/details/154706703)
+
++ [KingbaseES数据库：KingbaseES+SqlSugar 为医疗用户排忧解难](https://blog.csdn.net/weixin_43151418/article/details/154991191)
+
++ [【鸿蒙星光分享】HarmonyOS 语音朗读功能同步教程](https://blog.csdn.net/ldc121xy716/article/details/155015827)
+
++ [【MySQL】备份与恢复](https://blog.csdn.net/Steve_Albini/article/details/155038686)
+
++ [量子计算：开启计算革命的新时代](https://blog.csdn.net/2501_94187981/article/details/155076069)
+
++ [缓存穿透，击穿，雪崩](https://blog.csdn.net/2301_79989083/article/details/155037539)
+
++ [基于离散拉普拉斯-贝尔特拉米算子(Discrete Laplace-Beltrami Operator, DLBO)的三维人脸面部贴图算法的MATLAB仿真](https://blog.csdn.net/ccsss22/article/details/155077983)
+
++ [【探索实战】Kurator分布式云原生治理平台：从实战到未来的全栈解析](https://blog.csdn.net/feng1790291543/article/details/155069580)
+
++ [2025亚太杯C题亚太赛C题 APMCM大学生数学建模详细教学分析附Matlab代码](https://blog.csdn.net/m0_57702748/article/details/155076027)
+
++ [JVM性能监控与故障诊断——从命令行利器到图形化洞察](https://blog.csdn.net/sinat_41617212/article/details/155073141)
+
++ [2025亚太杯C题亚太赛C题 APMCM大学生数学建模详细教学分析附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/155076028)
+
++ [JMeter 自动化测试 + 飞书通知完整指南](https://blog.csdn.net/qq_45351273/article/details/155031398)
+

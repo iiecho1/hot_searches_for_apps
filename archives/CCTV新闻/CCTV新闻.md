@@ -163,3 +163,7 @@
 
 + [俄罗斯呼吁铭记纽伦堡审判历史意义](https://news.cctv.com/2025/11/21/ARTIE4tCqU3dLUPLDo1jlMvK251121.shtml)
 
++ [以国防部签署合同增产“铁穹”弹药 资金主要来自美国军援](https://news.cctv.com/2025/11/21/ARTILiwfazoRyK9UzlVcRRec251121.shtml)
+
++ [汤加举行议会选举](https://news.cctv.com/2025/11/21/ARTIc40nyfybx0WA0GD3hC9o251121.shtml)
+
