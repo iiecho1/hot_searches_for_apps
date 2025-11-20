@@ -175,3 +175,5 @@
 
 + [国际足联最新排名：国足列第93位 前四不变 意大利跌出前十](https://news.cctv.com/2025/11/20/ARTISz9dV458ODdAShgarDRa251120.shtml)
 
++ [繁华的伊斯坦布尔独立大街](https://photo.cctv.com/2025/11/20/PHOA83NRLvdUnTmQkX3RSqzj251120.shtml)
+

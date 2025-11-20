@@ -155,3 +155,17 @@
 
 + [【完整源码+数据集+部署教程】自然场景文本定位检测系统源码 [一条龙教学YOLOV8标注好的数据集一键训练_70+全套改进创新点发刊_Web前端展示]](https://blog.csdn.net/weixin_43860634/article/details/155015007)
 
++ [掌握提问驱动AI：速通大模型提示工程](https://blog.csdn.net/weixin_43178406/article/details/155037297)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在企业供应链碳足迹分析与可持续发展决策中的应用](https://blog.csdn.net/atgfg/article/details/154957711)
+
++ [借力AI，DooTask重塑项目管理效率新标杆](https://blog.csdn.net/weixin_43151418/article/details/155016579)
+
++ [为何最终我放弃了 Go 的 sync.Pool](https://blog.csdn.net/2302_80067378/article/details/154940566)
+
++ [Opencv(十四) : 图像噪点消除](https://blog.csdn.net/Mrliu__/article/details/155000128)
+
++ [【A2DP】规范精讲[6]:深入解析A2DP中的MPEG-1,2 Audio编解码器](https://blog.csdn.net/weixin_37800531/article/details/155026610)
+
++ [Kubernetes K8s](https://blog.csdn.net/qq_38626043/article/details/154958372)
+
