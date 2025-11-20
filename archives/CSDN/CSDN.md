@@ -187,3 +187,11 @@
 
 + [金山PDF定制版](https://blog.csdn.net/SJjiemo/article/details/154959655)
 
++ [华为CANN异构计算架构技术分析报告：架构、优势与应用实践](https://blog.csdn.net/2301_76341691/article/details/155064872)
+
++ [几何分布：首次成功事件建模（2-1）](https://blog.csdn.net/gongdiwudu/article/details/155003682)
+
++ [实证分析：数据驱动决策的技术实践指南](https://blog.csdn.net/2301_79139273/article/details/154955859)
+
++ [点餐|智能点餐系统|基于java+ Springboot的动端的点餐系统小程序(源码+数据库+文档)](https://blog.csdn.net/weixin_66413741/article/details/154991440)
+
