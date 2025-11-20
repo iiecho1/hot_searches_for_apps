@@ -195,3 +195,11 @@
 
 + [点餐|智能点餐系统|基于java+ Springboot的动端的点餐系统小程序(源码+数据库+文档)](https://blog.csdn.net/weixin_66413741/article/details/154991440)
 
++ [CodeWave 智能开发实战之AI 驱动的记账应用快速开发指南](https://blog.csdn.net/qq_33681891/article/details/155054810)
+
++ [华为盘古 Ultra-MoE-718B-V1.1 正式开源：Pangu 超大稀疏架构的价值解码与技术剖析](https://blog.csdn.net/weixin_62765017/article/details/155005440)
+
++ [基于 IPIDEA 的 SERP 结构化数据抽取与趋势监控的工程化实践](https://blog.csdn.net/qq_44273429/article/details/155064030)
+
++ [前端脚本（AJAX/fetch/axios等）跨域](https://blog.csdn.net/Aoutlaw/article/details/155038868)
+
