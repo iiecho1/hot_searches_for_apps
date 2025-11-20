@@ -37,3 +37,11 @@
 
 + [有人打算买 V 社三款新硬件（Steam Frame、Steam Machine、Steam Controller）的吗](https://www.v2ex.com/t/1173744)
 
++ [早上被帽子警告了](https://www.v2ex.com/t/1173887)
+
++ [求程序员装逼指南？](https://www.v2ex.com/t/1173852)
+
++ [四博 AI 小黄鸭周周做活动 50 元一个，大家都可以体验下性价比高的 AI 产品](https://www.v2ex.com/t/1173800)
+
++ [作为一个小三的孩子，如何处理与原配家庭的关系](https://www.v2ex.com/t/1173719)
+

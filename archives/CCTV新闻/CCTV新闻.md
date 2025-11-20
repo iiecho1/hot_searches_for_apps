@@ -171,3 +171,7 @@
 
 + [特朗普签署法案 批准公布爱泼斯坦案档案](https://news.cctv.com/2025/11/20/ARTIlMBVFiS7kGDF6wB2pZbv251120.shtml)
 
++ [中国驻法使馆提醒赴法中国游客防范出租车盗刷银行卡](https://news.cctv.com/2025/11/20/ARTIujN16ov5fXqfjBPvUT3j251120.shtml)
+
++ [国际足联最新排名：国足列第93位 前四不变 意大利跌出前十](https://news.cctv.com/2025/11/20/ARTISz9dV458ODdAShgarDRa251120.shtml)
+
