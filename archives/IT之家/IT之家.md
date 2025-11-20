@@ -43,3 +43,5 @@
 
 + [雷军：今年小米汽车将交付超 40 万辆](https://m.ithome.com/html/898793.htm)
 
++ [小米拿出 2937 万股奖励员工及供应商，总价值 11.4 亿港元](https://m.ithome.com/html/898780.htm)
+
