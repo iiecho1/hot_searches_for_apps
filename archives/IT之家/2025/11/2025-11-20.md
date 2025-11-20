@@ -55,3 +55,7 @@
 
 + [华为 Mate X7 折叠屏手机今日开启预订：第二代红枫影像，有望首发麒麟 9030](https://m.ithome.com/html/898483.htm)
 
++ [京东 PLUS 会员反映权益受限：“近期未消费”无法兑换服务，官方建议“养成良好购物习惯后再来”](https://m.ithome.com/html/898234.htm)
+
++ [三个月暴涨超 3 倍：三星 16GB DDR5 内存价格在韩国失控](https://m.ithome.com/html/898226.htm)
+
