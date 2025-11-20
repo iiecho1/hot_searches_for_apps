@@ -25,3 +25,15 @@
 
 + [没工作了，要找领导要，还是等安排](https://www.v2ex.com/t/1173647)
 
++ [有得过反流性食管炎的兄弟的不,太难受了.](https://www.v2ex.com/t/1173767)
+
++ [招行超大羊毛](https://www.v2ex.com/t/1173768)
+
++ [折腾了一晚上大模型，索然无味](https://www.v2ex.com/t/1173840)
+
++ [5w 美金回国，哪个银行管理最松？](https://www.v2ex.com/t/1173715)
+
++ [小米的股票你们亏了多少？还能救起来么？](https://www.v2ex.com/t/1173871)
+
++ [有人打算买 V 社三款新硬件（Steam Frame、Steam Machine、Steam Controller）的吗](https://www.v2ex.com/t/1173744)
+
