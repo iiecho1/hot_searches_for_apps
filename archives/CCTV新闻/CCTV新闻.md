@@ -161,3 +161,5 @@
 
 + [韩国海军暂停与日本海上自卫队举行联合搜救演习](https://news.cctv.com/2025/11/17/ARTId5FNHFCgLPiyLn6oyG3X251117.shtml)
 
++ [俄罗斯呼吁铭记纽伦堡审判历史意义](https://news.cctv.com/2025/11/21/ARTIE4tCqU3dLUPLDo1jlMvK251121.shtml)
+

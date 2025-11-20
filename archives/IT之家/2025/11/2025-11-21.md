@@ -25,3 +25,21 @@
 
 + [迄今尺寸最大华为平板：MatePad Edge 配备 14.2 英寸超大屏、屏占比 94%](https://m.ithome.com/html/898642.htm)
 
++ [小米汽车庆祝 50 万台整车下线，免费送 6 万个合金车模](https://m.ithome.com/html/898830.htm)
+
++ [用时仅 1 年零 7 个多月，小米汽车第 50 万辆整车正式下线](https://m.ithome.com/html/898778.htm)
+
++ [上海国补再来：苹果 M4 MacBook Air 7999 → 4859 元 12 期免息手慢无](https://m.ithome.com/html/898872.htm)
+
++ [苹果第 12 代 iPad 被曝加量不加价：A18 芯片，首次拥抱 AI、支持 Wi-Fi 7](https://m.ithome.com/html/898762.htm)
+
++ [魅族总部大楼疑似挂牌出售，标价 2.5 亿元](https://m.ithome.com/html/898880.htm)
+
++ [自己拍的照片被指侵权，摄影师戴建峰起诉视觉中国案历时两年终迎一审判决](https://m.ithome.com/html/898946.htm)
+
++ [小米汽车第 50 万辆整车正式下线，雷军发文感谢用户、供应商、团队等](https://m.ithome.com/html/898805.htm)
+
++ [2026 款宝马 X5 上市：59.8 万-74.8 万元，标配智能驾驶辅助系统 Pro](https://m.ithome.com/html/898807.htm)
+
++ [雷军：今年小米汽车将交付超 40 万辆](https://m.ithome.com/html/898793.htm)
+
