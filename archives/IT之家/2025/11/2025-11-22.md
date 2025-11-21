@@ -45,3 +45,11 @@
 
 + [美的被曝要求服务商“二选一”，停止小米、格力空调售后业务](https://m.ithome.com/html/899092.htm)
 
++ [1899 元华为畅享 70X 尊享版手机发售：搭载麒麟 8000 芯片、6100mAh 电池 + 40W 有线充电，支持一键北斗卫星图片消息及鸿蒙智慧通信](https://m.ithome.com/html/899126.htm)
+
++ [彻底变砖，苹果远程锁机俄罗斯博主提前偷跑的 M5 版 iPad Pro](https://m.ithome.com/html/899214.htm)
+
++ [美的回应要求售后停止小米格力业务：无强制排他性行为](https://m.ithome.com/html/899132.htm)
+
++ [华为 WATCH D2“悄悄吃上”鸿蒙 6，微信手表版上线](https://m.ithome.com/html/899018.htm)
+
