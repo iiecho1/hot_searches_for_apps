@@ -185,3 +185,5 @@
 
 + [哥伦比亚向美洲国家组织投诉美国在加勒比海域行动](https://news.cctv.com/2025/11/21/ARTIPEIA9hnVcH3rD21nPocB251121.shtml)
 
++ [巴基斯坦旁遮普省一化工厂爆炸 已致12人死亡](https://news.cctv.com/2025/11/21/ARTI1ARFcuIMEGywhTE4shus251121.shtml)
+
