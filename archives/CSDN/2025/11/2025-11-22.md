@@ -101,3 +101,9 @@
 
 + [智能网联汽车信息安全深度解析：从UN-R155与GB44495标准到OBD/UDS技术实践](https://blog.csdn.net/weixin_62244995/article/details/155102025)
 
++ [华为盘古 Ultra-MoE-718B-V1.1 正式开源：Pangu 超大稀疏架构的价值解码与技术剖析](https://blog.csdn.net/weixin_62765017/article/details/155005440)
+
++ [Oracle：完整笔记 — 授予/检查 `DBA` 与权限管理（含检查项、查询、最佳实践）](https://blog.csdn.net/hezuijiudexiaobai/article/details/155105312)
+
++ [CANN 特性能力解析-以 ACLNN 为核心的算子性能优化之道](https://blog.csdn.net/weixin_52258054/article/details/155094970)
+

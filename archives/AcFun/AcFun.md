@@ -61,3 +61,7 @@
 
 + [【猪肝来也】double take](https://m.acfun.cn/v/?ac=48031923)
 
++ [【东方】CRIMSON REWAKE (Ex.POP Edit)【MABOYORU】](https://m.acfun.cn/v/?ac=48028288)
+
++ [爬几十米，就为摘这野果](https://m.acfun.cn/v/?ac=48033846)
+

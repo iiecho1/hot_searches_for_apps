@@ -25,3 +25,19 @@
 
 + [鸿蒙智行新款享界 S9 发布：纯电 / 增程都有，30.98 万-36.98 万元](https://m.ithome.com/html/898870.htm)
 
++ [华为 Mate 80 系列手机官宣首发户外探索模式：14 天“极限续航”](https://m.ithome.com/html/898757.htm)
+
++ [理想汽车被曝“大反思”：承认产品节奏变慢，后续产品有望不再“套娃”](https://m.ithome.com/html/898727.htm)
+
++ [用时仅 1 年零 7 个多月，小米汽车第 50 万辆整车正式下线](https://m.ithome.com/html/898778.htm)
+
++ [苹果第 12 代 iPad 被曝加量不加价：A18 芯片，首次拥抱 AI、支持 Wi-Fi 7](https://m.ithome.com/html/898762.htm)
+
++ [小米汽车第 50 万辆整车正式下线，雷军发文感谢用户、供应商、团队等](https://m.ithome.com/html/898805.htm)
+
++ [2026 款宝马 X5 上市：59.8 万-74.8 万元，标配智能驾驶辅助系统 Pro](https://m.ithome.com/html/898807.htm)
+
++ [雷军：今年小米汽车将交付超 40 万辆](https://m.ithome.com/html/898793.htm)
+
++ [小米拿出 2937 万股奖励员工及供应商，总价值 11.4 亿港元](https://m.ithome.com/html/898780.htm)
+
