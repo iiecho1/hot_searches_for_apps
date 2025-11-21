@@ -197,3 +197,13 @@
 
 + [订单大量取消 日本旅游业日子“很难过”](https://news.cctv.com/2025/11/21/ARTITeRVZyV8cFDwelEqiMlv251121.shtml)
 
++ [尼日利亚西北部一学校52名学生遭武装分子绑架](https://news.cctv.com/2025/11/21/ARTIUbvUKT6V2YyU1UKkO815251121.shtml)
+
++ [巴基斯坦东部一化工厂锅炉爆炸已致17人死亡](https://news.cctv.com/2025/11/21/ARTITQKnMvPjXbIoVFAgjbRr251121.shtml)
+
++ [热点追踪｜第二十次G20峰会](https://news.cctv.com/2025/11/21/ARTIoh5ds78gKqtbWBegvNV6251121.shtml)
+
++ [智利“车厘子快线”启程 见证中国市场全球机遇](https://news.cctv.com/2025/11/21/ARTItP286lyquMiQd2v3ydPX251121.shtml)
+
++ [美国留下的三把“空椅子”](https://news.cctv.com/2025/11/21/ARTI0TTrac5nNN9cYeD8tnzH251121.shtml)
+
