@@ -207,3 +207,11 @@
 
 + [美国留下的三把“空椅子”](https://news.cctv.com/2025/11/21/ARTI0TTrac5nNN9cYeD8tnzH251121.shtml)
 
++ [澳大利亚公民党全国主席：高市早苗错误言论极具破坏性](https://news.cctv.com/2025/11/21/ARTIrx3vClQ1Z59w5iwFgoVf251121.shtml)
+
++ [G20“非洲时刻”彰显全球南方力量](https://news.cctv.com/2025/11/21/ARTIVYU30hxnyk8HQ6w4cGeB251121.shtml)
+
++ [保加利亚破获跨国文物走私案 35名涉案人员被捕](https://news.cctv.com/2025/11/21/ARTI2pn58OKkdIhOJVZ7L0mu251121.shtml)
+
++ [印尼中爪哇省发生山体滑坡 已致10人死亡](https://news.cctv.com/2025/11/21/ARTIDf46AAQtCosOWjoH8xpz251121.shtml)
+

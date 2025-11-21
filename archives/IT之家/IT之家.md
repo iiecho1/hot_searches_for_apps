@@ -63,3 +63,7 @@
 
 + [鸿蒙智行新款享界 S9 发布：纯电 / 增程都有，30.98 万-36.98 万元](https://m.ithome.com/html/898870.htm)
 
++ [小米回应 Watch S4 Sport 不能潜水：完全失实，客服录音被移花接木](https://m.ithome.com/html/899062.htm)
+
++ [美的被曝要求服务商“二选一”，停止小米、格力空调售后业务](https://m.ithome.com/html/899092.htm)
+

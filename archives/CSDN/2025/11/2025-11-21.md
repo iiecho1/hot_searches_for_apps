@@ -189,3 +189,15 @@
 
 + [CANN 特性能力解析-以 ACLNN 为核心的算子性能优化之道](https://blog.csdn.net/weixin_52258054/article/details/155094970)
 
++ [视觉Transformer实战 | Token-to-Token Vision Transformer（T2T-ViT）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149082074)
+
++ [第3版•系统集成项目管理工程师（中级） │ 第5章 软件工程](https://blog.csdn.net/qq_41840843/article/details/155093661)
+
++ [【网络安全】Wireshark 抓包过滤：源 / 目的 IP 过滤 + 命令大全](https://blog.csdn.net/2401_84760527/article/details/155068889)
+
++ [Flume架构深度解析：构建高可用大数据采集系统](https://blog.csdn.net/m0_74385041/article/details/155067963)
+
++ [Oracle：完整笔记 — 授予/检查 `DBA` 与权限管理（含检查项、查询、最佳实践）](https://blog.csdn.net/hezuijiudexiaobai/article/details/155105312)
+
++ [【ip 扫描html小工具】](https://blog.csdn.net/qq_39749966/article/details/155065810)
+
