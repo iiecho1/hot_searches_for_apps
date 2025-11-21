@@ -163,3 +163,7 @@
 
 + [美法官阻止美政府在首都部署国民警卫队](https://news.cctv.com/2025/11/22/ARTInvHcp1SaiRjYY8zxdqwY251122.shtml)
 
++ [第十九届迪拜航展正式闭幕 多方签署大额订单](https://news.cctv.com/2025/11/22/ARTI6EjSFDToqwlVEuGWRieI251122.shtml)
+
++ [东京数百民众在首相官邸前抗议高市涉台言论](https://news.cctv.com/2025/11/22/ARTIntW5n9XQF0MaGbYSDnb6251122.shtml)
+
