@@ -169,3 +169,13 @@
 
 + [【Linux之旅】深入 Linux Ext 系列文件系统：从磁盘物理结构到软硬链接的底层逻辑](https://blog.csdn.net/2302_80243065/article/details/155099347)
 
++ [MySQL与PostgreSQL深度对比](https://blog.csdn.net/zsjdxc251/article/details/155031008)
+
++ [自建项目管理工具不香吗？Focalboard+cpolar 实现团队随时协作](https://blog.csdn.net/weixin_44976692/article/details/155101191)
+
++ [π∗0.6——RL微调流式VLA π0.6：先基于演示数据做离线RL预训练，再在线RL后训练(与环境自主交互，从经验数据中学习，且必要时人工干预)](https://blog.csdn.net/v_JULY_v/article/details/154989166)
+
++ [就业|高校就业|基于ssm+vue的高校就业信息系统的设计与实现(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/155094585)
+
++ [【Linux】进程深度剖析：从概念到 fork 函数应用](https://blog.csdn.net/2402_86350387/article/details/154996936)
+
