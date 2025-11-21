@@ -41,3 +41,7 @@
 
 + [小米拿出 2937 万股奖励员工及供应商，总价值 11.4 亿港元](https://m.ithome.com/html/898780.htm)
 
++ [小米回应 Watch S4 Sport 不能潜水：完全失实，客服录音被移花接木](https://m.ithome.com/html/899062.htm)
+
++ [美的被曝要求服务商“二选一”，停止小米、格力空调售后业务](https://m.ithome.com/html/899092.htm)
+
