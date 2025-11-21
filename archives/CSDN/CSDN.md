@@ -139,3 +139,13 @@
 
 + [TLS协议深度解析：新一代网络安全传输标准](https://blog.csdn.net/m0_73589512/article/details/154953667)
 
++ [【花雕动手做】HUSKYLENS 2 AI视觉传感器之识别车牌输出相关数据](https://blog.csdn.net/weixin_41659040/article/details/155072198)
+
++ [【操作系统原理】Linux 进程控制](https://blog.csdn.net/m0_68617301/article/details/155034685)
+
++ [Python高级编程技术深度解析与实战指南](https://blog.csdn.net/2503_92624912/article/details/155074453)
+
++ [MySQL 数据库进阶：SQL 查询语句全解析](https://blog.csdn.net/2503_93734861/article/details/155039510)
+
++ [FastAPI项目：可视化排序算法演示系统](https://blog.csdn.net/cui_yonghua/article/details/155066741)
+

@@ -173,3 +173,7 @@
 
 + [美总统特朗普修改对巴西商品关税范围](https://news.cctv.com/2025/11/21/ARTIyP3ezsISpuN14wSqCB7f251121.shtml)
 
++ [韩国首尔一公寓楼起火 50人因吸入浓烟送医](https://news.cctv.com/2025/11/21/ARTIlKw29fDTyAdWBT0xpOsw251121.shtml)
+
++ [巴西贝伦COP30会场在火灾后重新开放](https://news.cctv.com/2025/11/21/ARTIwVkzHxBAMlvC1fY7Vo0C251121.shtml)
+

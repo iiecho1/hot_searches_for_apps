@@ -25,3 +25,9 @@
 
 + [小米，被极少数人看见的未来](https://www.v2ex.com/t/1174021)
 
++ [未来属于 PHP](https://www.v2ex.com/t/1174079)
+
++ [现在有多少大学生是知道 bitwarden 的？](https://www.v2ex.com/t/1174074)
+
++ [不谈论学历和工作，你打算如何向别人介绍自己](https://www.v2ex.com/t/1173944)
+
