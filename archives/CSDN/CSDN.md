@@ -183,3 +183,9 @@
 
 + [北电数智打造AIGC视听新范式，助力产业智能化转型](https://blog.csdn.net/surprise9527/article/details/155066078)
 
++ [国之重器：金仓数据库如何成为央企数字化转型的核心引擎](https://blog.csdn.net/weixin_44976692/article/details/155105327)
+
++ [不用公网 IP 也能远程管 MongoDB？本地部署 + cpolar实用方案](https://blog.csdn.net/lrq13965748542/article/details/155106904)
+
++ [CANN 特性能力解析-以 ACLNN 为核心的算子性能优化之道](https://blog.csdn.net/weixin_52258054/article/details/155094970)
+
