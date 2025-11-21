@@ -135,3 +135,5 @@
 
 + [SpringBoot（整合MyBatis + MyBatis-Plus + MyBatisX插件使用）](https://blog.csdn.net/2509_94088177/article/details/155075151)
 
++ [Flink CDC 用 PolarDB-X CDC 实时同步数据到 Elasticsearch](https://blog.csdn.net/weixin_43114209/article/details/155092725)
+

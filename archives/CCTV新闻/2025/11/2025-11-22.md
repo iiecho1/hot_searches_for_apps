@@ -167,3 +167,13 @@
 
 + [东京数百民众在首相官邸前抗议高市涉台言论](https://news.cctv.com/2025/11/22/ARTIntW5n9XQF0MaGbYSDnb6251122.shtml)
 
++ [泽连斯基：乌克兰面临艰难选择](https://news.cctv.com/2025/11/22/ARTIsnO0UL4IHQ4Q8EnZauB4251122.shtml)
+
++ [美共和党高官批乌克兰和平计划：对俄过于有利](https://news.cctv.com/2025/11/22/ARTIjwCFEtn45wBnaBPYqrxT251122.shtml)
+
++ [特朗普：泽连斯基必须同意美国支持的和平计划](https://news.cctv.com/2025/11/22/ARTI1pH4s66Wo5Jln7lj8GN6251122.shtml)
+
++ [西班牙北部一处煤矿发生坍塌事故 已致2人死亡](https://news.cctv.com/2025/11/22/ARTIJ4GeKNkE4MFgdJgYYhIa251122.shtml)
+
++ [巴西副总统：仍有部分出口商品被美征收高额关税](https://news.cctv.com/2025/11/22/ARTIvJ00mNQrYRtsZbXMZFPb251122.shtml)
+

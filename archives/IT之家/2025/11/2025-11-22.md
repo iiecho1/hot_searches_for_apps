@@ -53,3 +53,7 @@
 
 + [华为 WATCH D2“悄悄吃上”鸿蒙 6，微信手表版上线](https://m.ithome.com/html/899018.htm)
 
++ [消息称华为 Mate 70 全系激活已超 885 万台，生命周期有望破千万](https://m.ithome.com/html/899219.htm)
+
++ [中美合拍动画片《我的哪吒与变形金刚》定档 12 月开播](https://m.ithome.com/html/899216.htm)
+
