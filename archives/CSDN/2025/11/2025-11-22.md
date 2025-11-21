@@ -107,3 +107,25 @@
 
 + [CANN 特性能力解析-以 ACLNN 为核心的算子性能优化之道](https://blog.csdn.net/weixin_52258054/article/details/155094970)
 
++ [C# ASP.NET Controller 核心：ViewResult 实战指南（return View (model) 全解析）](https://blog.csdn.net/William_cl/article/details/155075203)
+
++ [第3版•系统集成项目管理工程师（中级） │ 第4章 信息系统架构](https://blog.csdn.net/qq_41840843/article/details/155013180)
+
++ [PyTorch实战（11）——随机连接神经网络（RandWireNN）](https://blog.csdn.net/LOVEmy134611/article/details/150352481)
+
++ [从局域网到全球访问：GoLand+cpolar 让开发协作无距离](https://blog.csdn.net/2301_77485708/article/details/155066435)
+
++ [Flink CDC 用 SqlServer CDC 实时同步数据到 Elasticsearch](https://blog.csdn.net/weixin_43114209/article/details/155100935)
+
++ [基于大数据Hadoop+数据可视化的酒店能耗大数据可视化系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155056411)
+
++ [【Linux】进程信号（一）信号原理、产生方式、调试技巧（含代码示例）](https://blog.csdn.net/2501_90265152/article/details/154835117)
+
++ [【ip 扫描html小工具】](https://blog.csdn.net/qq_39749966/article/details/155065810)
+
++ [【论文笔记】Video-RAG：开源视频理解模型也能媲美GPT-4o](https://blog.csdn.net/xian0710830114/article/details/155065125)
+
++ [【完整源码+数据集】中药材数据集，yolov8中药分类检测数据集 9709 张，中药材分类识别数据集，中药材识别系统实战教程](https://blog.csdn.net/kyriehan/article/details/155037238)
+
++ [openGauss数据库：从传统OLTP到AI原生的技术演进实践](https://blog.csdn.net/m0_58618795/article/details/155035912)
+
