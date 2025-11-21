@@ -161,3 +161,5 @@
 
 + [视频丨俄鄂木斯克州天然气管道泄漏 现场火光冲天](https://news.cctv.com/2025/11/18/ARTI6bJfC7QxTQCh58q6FVQe251118.shtml)
 
++ [美法官阻止美政府在首都部署国民警卫队](https://news.cctv.com/2025/11/22/ARTInvHcp1SaiRjYY8zxdqwY251122.shtml)
+
