@@ -187,3 +187,9 @@
 
 + [巴基斯坦旁遮普省一化工厂爆炸 已致12人死亡](https://news.cctv.com/2025/11/21/ARTI1ARFcuIMEGywhTE4shus251121.shtml)
 
++ [这7个问题，日方必须说清楚](https://news.cctv.com/2025/11/21/ARTIz058BMGuXLTMdt775oUX251121.shtml)
+
++ [夜色中的博斯普鲁斯海峡](https://photo.cctv.com/2025/11/21/PHOAEXvxCxsztRxsffxUsA4c251121.shtml)
+
++ [英国启动50年来最大移民制度改革](https://news.cctv.com/2025/11/21/ARTIXDZHAPhriFgIFJs7UgC4251121.shtml)
+

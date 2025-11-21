@@ -165,3 +165,5 @@
 
 + [【Windows压力测试工具】 - 使用微软官方工具进行压测 cpu、内存](https://blog.csdn.net/liu_chen_yang/article/details/155017294)
 
++ [Spring Boot 配置文件高级实战指南 热更新/动态配置/安全加密/分布式同步/环境变量注入](https://blog.csdn.net/qq_61654952/article/details/155098818)
+
