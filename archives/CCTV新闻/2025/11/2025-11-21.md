@@ -193,3 +193,7 @@
 
 + [英国启动50年来最大移民制度改革](https://news.cctv.com/2025/11/21/ARTIXDZHAPhriFgIFJs7UgC4251121.shtml)
 
++ [日本政坛右倾漩涡正加速旋转](https://news.cctv.com/2025/11/21/ARTIAQVQAEt35xA9E2Mkr7QT251121.shtml)
+
++ [订单大量取消 日本旅游业日子“很难过”](https://news.cctv.com/2025/11/21/ARTITeRVZyV8cFDwelEqiMlv251121.shtml)
+

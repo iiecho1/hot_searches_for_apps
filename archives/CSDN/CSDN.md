@@ -179,3 +179,7 @@
 
 + [【Linux】进程深度剖析：从概念到 fork 函数应用](https://blog.csdn.net/2402_86350387/article/details/154996936)
 
++ [在LabVIEW字节序对数据存储和处理的影响](https://blog.csdn.net/bjcyck/article/details/155076820)
+
++ [北电数智打造AIGC视听新范式，助力产业智能化转型](https://blog.csdn.net/surprise9527/article/details/155066078)
+
