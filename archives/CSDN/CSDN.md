@@ -149,3 +149,5 @@
 
 + [FastAPI项目：可视化排序算法演示系统](https://blog.csdn.net/cui_yonghua/article/details/155066741)
 
++ [redis 8.4.0 发布：全新功能与性能提升详解](https://blog.csdn.net/weixin_48502062/article/details/155033003)
+

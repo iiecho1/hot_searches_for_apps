@@ -177,3 +177,7 @@
 
 + [巴西贝伦COP30会场在火灾后重新开放](https://news.cctv.com/2025/11/21/ARTIwVkzHxBAMlvC1fY7Vo0C251121.shtml)
 
++ [委内瑞拉副总统指责美企图将委变成该国“第51个州”](https://news.cctv.com/2025/11/21/ARTIK4yymWNHdMg3WFpenckM251121.shtml)
+
++ [白宫称已与乌克兰讨论和平计划](https://news.cctv.com/2025/11/21/ARTInop7HLbh2cMb602JriDo251121.shtml)
+

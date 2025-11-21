@@ -31,3 +31,9 @@
 
 + [不谈论学历和工作，你打算如何向别人介绍自己](https://www.v2ex.com/t/1173944)
 
++ [鸿蒙座舱 L3](https://www.v2ex.com/t/1174106)
+
++ [现在的零零后工作方式都这样吗？我感觉自己真老了](https://www.v2ex.com/t/1174121)
+
++ [终于登进 Google Antigravity 了，提供给大家参考](https://www.v2ex.com/t/1173975)
+
