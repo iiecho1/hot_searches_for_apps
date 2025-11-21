@@ -37,3 +37,7 @@
 
 + [终于登进 Google Antigravity 了，提供给大家参考](https://www.v2ex.com/t/1173975)
 
++ [你这一辈子，悟出一个最大的道理是什么?](https://www.v2ex.com/t/1174140)
+
++ [吃了个饭，头盔被偷了](https://www.v2ex.com/t/1174115)
+

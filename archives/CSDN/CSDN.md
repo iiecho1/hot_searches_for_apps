@@ -151,3 +151,7 @@
 
 + [redis 8.4.0 发布：全新功能与性能提升详解](https://blog.csdn.net/weixin_48502062/article/details/155033003)
 
++ [【自动驾驶】ROS 机器人操作系统框架 ② ( ROS 编译系统 | ROS 编译相关概念 | Package 包 | Catkin 工作空间 | ROS 运行相关概念 )](https://blog.csdn.net/han1202012/article/details/154958666)
+
++ [前端可视化家庭账单：用 ECharts 实现支出统计与趋势分析](https://blog.csdn.net/qq_46123200/article/details/155077126)
+

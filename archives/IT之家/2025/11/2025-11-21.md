@@ -47,3 +47,19 @@
 
 + [一天一更：微信鸿蒙版 App 获 8.0.12.48 邀测升级](https://m.ithome.com/html/898698.htm)
 
++ [世纪破冰！苹果 iPhone 和安卓手机实现跨平台互通，原生文件互传再无壁垒](https://m.ithome.com/html/899025.htm)
+
++ [豆包输入法正式版上线：内置情境感知引擎，支持中英文混合滑行输入](https://m.ithome.com/html/899020.htm)
+
++ [华为苹果“联上了”：鸿蒙星河互联 App 首登 App Store，支持文件等互传](https://m.ithome.com/html/899008.htm)
+
++ [小米公司发言人：小米汽车长沙一门店展厅物业中央空调出现明火，未发生产品损失](https://m.ithome.com/html/899031.htm)
+
++ [华为靳玉志：鸿蒙座舱率先进入 L3 时代](https://m.ithome.com/html/898977.htm)
+
++ [华为乾崑智驾 ADS 高速 L3 解决方案将启商用，专属人机交互页面公开](https://m.ithome.com/html/898976.htm)
+
++ [魅族科技确认不搬新总部：魅族科技大楼租期还很长，会一直陪着大家](https://m.ithome.com/html/898885.htm)
+
++ [鸿蒙智行新款享界 S9 发布：纯电 / 增程都有，30.98 万-36.98 万元](https://m.ithome.com/html/898870.htm)
+
