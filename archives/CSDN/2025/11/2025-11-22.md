@@ -159,3 +159,9 @@
 
 + [2025年APMCM亚太数学建模C题超详细解题思路](https://blog.csdn.net/qq_33690821/article/details/155064242)
 
++ [openGauss：面向数字时代的下一代企业级开源关系型数据库](https://blog.csdn.net/weixin_74809706/article/details/155109332)
+
++ [还在为 openEuler 远程运维发愁？用 CPolar 轻松搞定跨网连接](https://blog.csdn.net/2301_80840905/article/details/155098981)
+
++ [2025APMCM亚太杯数学建模B题思路分享](https://blog.csdn.net/Serein5941D/article/details/155069000)
+
