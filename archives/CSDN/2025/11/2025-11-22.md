@@ -171,3 +171,5 @@
 
 + [Doubao-Seed-Code 深度解析：原生视觉 × 强化学习驱动的下一代 Agentic 编程](https://blog.csdn.net/weixin_62765017/article/details/155132482)
 
++ [服务注册与发现——Eureka](https://blog.csdn.net/2301_76161469/article/details/154951315)
+
