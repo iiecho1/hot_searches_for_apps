@@ -165,3 +165,5 @@
 
 + [2025APMCM亚太杯数学建模B题思路分享](https://blog.csdn.net/Serein5941D/article/details/155069000)
 
++ [2025APMCM亚太杯数学建模A题思路分享](https://blog.csdn.net/2501_90256046/article/details/155109910)
+

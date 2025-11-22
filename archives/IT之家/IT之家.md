@@ -71,3 +71,11 @@
 
 + [比亚迪汉 L、唐 L 两款全新配色公布，限时超级置换补贴 1.5 万元](https://m.ithome.com/html/899130.htm)
 
++ [全网实测 Nano Banana Pro，网友直呼“这模型里到底装了什么东西”](https://m.ithome.com/html/899329.htm)
+
++ [印空军成立委员会，调查“光辉”战机迪拜航展飞行表演坠毁原因](https://m.ithome.com/html/899293.htm)
+
++ [2026 款苹果 iPad Air 前瞻：M4、N1、C1X 芯片，支持 Wi-Fi 7](https://m.ithome.com/html/899337.htm)
+
++ [API 21 Release 发布，华为鸿蒙 HarmonyOS 6.0.1 现身开发者官网](https://m.ithome.com/html/899294.htm)
+
