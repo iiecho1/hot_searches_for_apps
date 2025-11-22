@@ -215,3 +215,5 @@
 
 + [白俄罗斯赦免31名在白境内的乌克兰公民](https://news.cctv.com/2025/11/22/ARTIYIzszvmKnmFhauNhIa8V251122.shtml)
 
++ [学者：G20“非洲时刻”见证全球南方崛起](https://news.cctv.com/2025/11/22/ARTI3tAaMuldJWITQD3GNiuo251122.shtml)
+
