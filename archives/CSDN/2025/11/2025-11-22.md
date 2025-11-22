@@ -151,3 +151,11 @@
 
 + [从想象到实现：网易CodeWave智能生成应用的全新体验](https://blog.csdn.net/2301_80026901/article/details/155107285)
 
++ [【AI 解析】Gemini 3 全面解析：从认知到落地](https://blog.csdn.net/weixin_63944437/article/details/155094566)
+
++ [电影管理|电影院管理|基于springboot+vue的电影院管理网站(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/155094728)
+
++ [Atomgit-河北工业职业技术大学校园AI应用大赛-参与演示博客](https://blog.csdn.net/feng8403000/article/details/155077712)
+
++ [2025年APMCM亚太数学建模C题超详细解题思路](https://blog.csdn.net/qq_33690821/article/details/155064242)
+

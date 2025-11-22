@@ -197,3 +197,5 @@
 
 + [秘鲁法院下令逮捕前总理贝特西·查韦斯](https://news.cctv.com/2025/11/22/ARTIzDdqQgLTya9MRX83vzvC251122.shtml)
 
++ [美国洛杉矶港一船只起火 超百名消防员前往现场](https://news.cctv.com/2025/11/22/ARTIX2AeMOqZBPVossd1mvzF251122.shtml)
+
