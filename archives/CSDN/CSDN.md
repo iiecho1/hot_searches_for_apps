@@ -105,3 +105,25 @@
 
 + [【Linux】一篇博客教懂你：库的制作](https://blog.csdn.net/2403_84958571/article/details/154978465)
 
++ [Doubao-Seed-Code深度测评:一张设计稿生成完整网站,视觉理解编程模型全流程实战](https://blog.csdn.net/Mrxiao_bo/article/details/155133936)
+
++ [SpringCloud 微服务框架](https://blog.csdn.net/2509_94088555/article/details/155075200)
+
++ [征服 C 语言文件 I/O：透视数据流、FILE* 核心机制与高效实践全指南](https://blog.csdn.net/2501_93679849/article/details/155109797)
+
++ [[已更新]2025亚太杯C题亚太赛C题 APMCM大学生数学建模详细教学分析](https://blog.csdn.net/xb459149247/article/details/155049359)
+
++ [Springboot项目中线程池使用整理](https://blog.csdn.net/2509_94088139/article/details/155111290)
+
++ [[学习日记:Day 2] OpenHarmony--基于Flutter环境的HelloWorld多页面跳转实操](https://blog.csdn.net/IGwhat/article/details/155127517)
+
++ [深度学习实战-基于ResNet50的面部情绪识别模型](https://blog.csdn.net/m0_64336780/article/details/153699262)
+
++ [【机器人】复现 DualMap 具身导航 | 动态场景 | 双地图机制](https://blog.csdn.net/qq_41204464/article/details/154916584)
+
++ [服务注册与发现——Eureka](https://blog.csdn.net/2301_76161469/article/details/154951315)
+
++ [React 性能优化教程：useMemo 和 useCallback 的正确使用方式](https://blog.csdn.net/weixin_45293422/article/details/155105239)
+
++ [基于SpringBoot2+Vue2的宠物健康医疗论坛系统](https://blog.csdn.net/qq_32079585/article/details/155111111)
+
