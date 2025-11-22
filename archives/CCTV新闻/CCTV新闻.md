@@ -223,3 +223,7 @@
 
 + [巴勒斯坦谴责以色列定居者在约旦河西岸实施暴力行为](https://news.cctv.com/2025/11/22/ARTIe6jLnysjnoe1qsfmO6TP251122.shtml)
 
++ [越南近期洪水与山体滑坡已致72人死亡](https://news.cctv.com/2025/11/22/ARTILC19aP6MX5RbORqc7KDY251122.shtml)
+
++ [巴西联邦警察预防性逮捕前总统博索纳罗](https://news.cctv.com/2025/11/22/ARTIA0FnLrlZsRnpvtd231mu251122.shtml)
+
