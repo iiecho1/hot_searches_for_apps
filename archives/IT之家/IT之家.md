@@ -57,3 +57,17 @@
 
 + [中美合拍动画片《我的哪吒与变形金刚》定档 12 月开播](https://m.ithome.com/html/899216.htm)
 
++ [苹果 iPhone 17e 曝料：配 A19、N1 芯片、主打出色续航](https://m.ithome.com/html/899287.htm)
+
++ [一架印度国产“光辉”战机在迪拜航展飞行表演中坠毁，飞行员死亡](https://m.ithome.com/html/899284.htm)
+
++ [小米集团公关部总经理王化确认转岗，前往武汉总部任职](https://m.ithome.com/html/899238.htm)
+
++ [小米王化“接替者”确认：雷军特别助理徐洁云再次兼任公关部总经理](https://m.ithome.com/html/899248.htm)
+
++ [全球首个鸿蒙座舱燃油车，12.99 万元起东风日产天籁・鸿蒙座舱正式上市](https://m.ithome.com/html/899192.htm)
+
++ [广汽丰田旗舰 D 级纯电轿车铂智 7 发布：华为电机 + 鸿蒙座舱 + 小米生态](https://m.ithome.com/html/899119.htm)
+
++ [比亚迪汉 L、唐 L 两款全新配色公布，限时超级置换补贴 1.5 万元](https://m.ithome.com/html/899130.htm)
+
