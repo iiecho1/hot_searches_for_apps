@@ -127,3 +127,9 @@
 
 + [基于SpringBoot2+Vue2的宠物健康医疗论坛系统](https://blog.csdn.net/qq_32079585/article/details/155111111)
 
++ [水果识别系统【最新版】Python+TensorFlow+Vue3+Django+人工智能+深度学习+卷积神经网络算法](https://blog.csdn.net/2301_78372746/article/details/155106147)
+
++ [Guava：Google开源的Java工具库，太强大了](https://blog.csdn.net/lilinhai548/article/details/155141095)
+
++ [大模型应用：基于本地大模型的中文命名实体识别技术实践与应用](https://blog.csdn.net/minhuan/article/details/155109840)
+
