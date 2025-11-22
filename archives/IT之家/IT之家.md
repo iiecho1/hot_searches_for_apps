@@ -25,3 +25,25 @@
 
 + [API 21 Release 发布，华为鸿蒙 HarmonyOS 6.0.1 现身开发者官网](https://m.ithome.com/html/899294.htm)
 
++ [《哪吒 2》不参评 2026 年第 98 届奥斯卡最佳动画长片奖](https://m.ithome.com/html/899382.htm)
+
++ [紫龙游戏澄清与“员工出差抽中显卡要上交”事件无关：公司遭网暴，已报警](https://m.ithome.com/html/899416.htm)
+
++ [用户首发购入苹果 M5 MacBook Pro 后出现合盖噪音，Apple Store 拒绝换货](https://m.ithome.com/html/899434.htm)
+
++ [凯迪拉克 CT5 飓风哑光灰新车色亮相，同步推出红色性能选装包](https://m.ithome.com/html/899371.htm)
+
++ [罗永浩：当年如果不做 TNT，锤子科技有可能多撑几年](https://m.ithome.com/html/899472.htm)
+
++ [华为乾崑 App 发布：支持远控功能与数字钥匙，满足基本用车需求](https://m.ithome.com/html/899361.htm)
+
++ [国内首家高校，北大 NFC 校园卡适配鸿蒙 HarmonyOS 5 及以上版本](https://m.ithome.com/html/899394.htm)
+
++ [继北京、南京之后，小米武汉青年公寓计划明年中竣工](https://m.ithome.com/html/899345.htm)
+
++ [雷军：小米组合辅助驾驶系统第 4 版“HAD 增强版”将于数日内推送](https://m.ithome.com/html/899395.htm)
+
++ [酷比魔方掌玩 mini 新品预告：5G 全网通 LCD 小平板，明年 1 月见](https://m.ithome.com/html/899349.htm)
+
++ [首位“80 后”中国科学院院士刘若川，来自北大数院](https://m.ithome.com/html/899396.htm)
+

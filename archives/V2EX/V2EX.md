@@ -21,3 +21,7 @@
 
 + [pixel 选哪代？](https://www.v2ex.com/t/1174335)
 
++ [google 云盘审查政治类书籍](https://www.v2ex.com/t/1174407)
+
++ [群晖用 ext4 和 btrfs 哪个更靠谱？（无 RAID）](https://www.v2ex.com/t/1174345)
+
