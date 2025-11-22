@@ -177,3 +177,5 @@
 
 + [巴西副总统：仍有部分出口商品被美征收高额关税](https://news.cctv.com/2025/11/22/ARTIvJ00mNQrYRtsZbXMZFPb251122.shtml)
 
++ [学习·知行丨各国共同发展才是真发展 习近平阐释大国担当](https://news.cctv.com/2025/11/22/ARTIBNSw7TXhZ567ztzOy78j251122.shtml)
+
