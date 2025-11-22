@@ -139,3 +139,9 @@
 
 + [【地狱客栈/中文填词】忏悔之徒 Sera s Confession](https://m.acfun.cn/v/?ac=48035770)
 
++ [【地狱客栈/中文填词】满盘皆输 Losin  Streak](https://m.acfun.cn/v/?ac=48035764)
+
++ [海盗这么难混？都兼职女仆了！？](https://m.acfun.cn/v/?ac=48034353)
+
++ [【绝望女神/配音】【米塔 Miside 袖珍米塔】](https://m.acfun.cn/v/?ac=48035598)
+

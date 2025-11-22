@@ -81,3 +81,13 @@
 
 + [一正在充电新能源小客车被盗，上海警方发布通报](https://m.ithome.com/html/899153.htm)
 
++ [《哪吒 2》不参评 2026 年第 98 届奥斯卡最佳动画长片奖](https://m.ithome.com/html/899382.htm)
+
++ [消息称苹果低价版 MacBook 屏幕尺寸小于 13.6 英寸，有望 2026 年第一季度上市](https://m.ithome.com/html/899307.htm)
+
++ [苹果出手，从系统层面修复 macOS 26 系统 Electron 架构应用卡顿问题](https://m.ithome.com/html/899318.htm)
+
++ [京东方 A 回应“被某大客户取消 LTPO 面板订单”：对韩媒基于不实信息的报道不予置评](https://m.ithome.com/html/899312.htm)
+
++ [“风投女王”徐新出手：拿下字节跳动 4800 亿美元估值部分股权，成为张一鸣“新股东”](https://m.ithome.com/html/899281.htm)
+
