@@ -145,3 +145,7 @@
 
 + [MyBatis的TypeHandler ：优雅地实现数据加密与解密](https://blog.csdn.net/kiku20231213/article/details/155109537)
 
++ [CANN在智能安防场景中的落地实践：释放硬件潜能，简化AI开发](https://blog.csdn.net/m0_63947499/article/details/155109072)
+
++ [在家搭个私人影院?LibreTV+cpolar，随时随地看片自由](https://blog.csdn.net/2302_79177254/article/details/155099726)
+

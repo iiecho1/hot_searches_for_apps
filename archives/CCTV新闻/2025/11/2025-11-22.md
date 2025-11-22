@@ -191,3 +191,9 @@
 
 + [印度战机坠毁可能因控制系统问题或操作失误](https://news.cctv.com/2025/11/22/ARTI2Oq72LwME59N1KExEwqs251122.shtml)
 
++ [巴基斯坦东部化工厂锅炉爆炸事件已致20人死亡](https://news.cctv.com/2025/11/22/ARTITMO4JYQna5cctxTgkhTp251122.shtml)
+
++ [中国代表致函联合国秘书长就高市涉华错误言行阐明立场](https://news.cctv.com/2025/11/22/ARTIr6oLeX4jx6D79P9xfWZ1251122.shtml)
+
++ [秘鲁法院下令逮捕前总理贝特西·查韦斯](https://news.cctv.com/2025/11/22/ARTIzDdqQgLTya9MRX83vzvC251122.shtml)
+
