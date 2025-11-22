@@ -167,3 +167,7 @@
 
 + [2025APMCM亚太杯数学建模A题思路分享](https://blog.csdn.net/2501_90256046/article/details/155109910)
 
++ [健身达人小程序|基于java+vue健身达人小程序的系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/155129429)
+
++ [Doubao-Seed-Code 深度解析：原生视觉 × 强化学习驱动的下一代 Agentic 编程](https://blog.csdn.net/weixin_62765017/article/details/155132482)
+

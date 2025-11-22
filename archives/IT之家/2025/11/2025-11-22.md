@@ -79,3 +79,5 @@
 
 + [API 21 Release 发布，华为鸿蒙 HarmonyOS 6.0.1 现身开发者官网](https://m.ithome.com/html/899294.htm)
 
++ [一正在充电新能源小客车被盗，上海警方发布通报](https://m.ithome.com/html/899153.htm)
+

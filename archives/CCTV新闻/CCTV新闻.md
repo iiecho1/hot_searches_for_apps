@@ -203,3 +203,13 @@
 
 + [美国联邦法官下令禁止国税局与移民局共享纳税人信息](https://news.cctv.com/2025/11/22/ARTIHLxEXkyHmhK2qV9rmxus251122.shtml)
 
++ [俄罗斯库尔斯克州变电站遭袭 约3000户断电](https://news.cctv.com/2025/11/22/ARTI9rIk2KjQM6CLwbwHKuTW251122.shtml)
+
++ [尼日利亚连发绑架事件 总统取消出访](https://news.cctv.com/2025/11/22/ARTIu9BgEUpxmHzgtMYnD1eU251122.shtml)
+
++ [尼日利亚一学校200多名师生被绑架](https://news.cctv.com/2025/11/22/ARTIkjH3wewPPfImOuIZAGVA251122.shtml)
+
++ [“共同追求更可持续的未来”（外媒看中国）——国际舆论积极评价中国引领全球气候治理](https://news.cctv.com/2025/11/22/ARTI4gZrvJTQxyLYcnalwpcu251122.shtml)
+
++ [肯尼亚国际关系学者：中国的五年规划勾勒全球南方繁荣蓝图](https://news.cctv.com/2025/11/22/ARTIVeZub7J9xcaQGBrr2P7b251122.shtml)
+
