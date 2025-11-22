@@ -133,3 +133,5 @@
 
 + [大模型应用：基于本地大模型的中文命名实体识别技术实践与应用](https://blog.csdn.net/minhuan/article/details/155109840)
 
++ [openGauss 快速上手：CentOS 环境下单机部署完整指南](https://blog.csdn.net/IRpickstars/article/details/155133743)
+

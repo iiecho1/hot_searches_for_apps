@@ -165,3 +165,5 @@
 
 + [本轮巴以冲突已致加沙地带69733人死亡](https://news.cctv.com/2025/11/23/ARTIXoSo3SR9aXycLT2dP23c251123.shtml)
 
++ [日本纪录片揭批右翼篡改教科书歪曲历史](https://news.cctv.com/2025/11/23/ARTIgNAe6NfiO3l5sx9vI8EZ251123.shtml)
+
