@@ -189,3 +189,5 @@
 
 + [美联邦航空局对委内瑞拉空域发布安全警告](https://news.cctv.com/2025/11/22/ARTI2m62vgIgwsvmkG5GyPj3251122.shtml)
 
++ [印度战机坠毁可能因控制系统问题或操作失误](https://news.cctv.com/2025/11/22/ARTI2Oq72LwME59N1KExEwqs251122.shtml)
+
