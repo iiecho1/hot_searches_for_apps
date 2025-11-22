@@ -217,3 +217,9 @@
 
 + [学者：G20“非洲时刻”见证全球南方崛起](https://news.cctv.com/2025/11/22/ARTI3tAaMuldJWITQD3GNiuo251122.shtml)
 
++ [宇宙级美景 从国际空间站看绚丽北极光](https://news.cctv.com/2025/11/22/ARTIWQ6TbONz3LT6tciMvEKt251122.shtml)
+
++ [升级版“星舰”火箭助推器在测试中发生爆炸](https://news.cctv.com/2025/11/22/ARTITqiD8E1bJ8HT2iS1phyU251122.shtml)
+
++ [巴勒斯坦谴责以色列定居者在约旦河西岸实施暴力行为](https://news.cctv.com/2025/11/22/ARTIe6jLnysjnoe1qsfmO6TP251122.shtml)
+
