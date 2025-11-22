@@ -189,3 +189,7 @@
 
 + [手搓代码成过去式？字节放出Doubao-Seed-Code，视觉编程时代来了](https://blog.csdn.net/2301_76341691/article/details/155133382)
 
++ [基于Python+大数据Hadoop+网络爬虫+智能AI大模型+协同过滤推荐算法的京东家电销售大数据处理与分析平台的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155128939)
+
++ [个人博客|博客app|基于Springboot+微信小程序的个人博客app系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/155104586)
+

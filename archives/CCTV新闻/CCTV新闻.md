@@ -227,3 +227,9 @@
 
 + [巴西联邦警察预防性逮捕前总统博索纳罗](https://news.cctv.com/2025/11/22/ARTIA0FnLrlZsRnpvtd231mu251122.shtml)
 
++ [俄副外长：俄美领导人下轮接触已提上日程](https://news.cctv.com/2025/11/22/ARTIm8lHBStYAwxpoGuvqu3b251122.shtml)
+
++ [G20峰会在南非开幕 拉马福萨强调多边合作应对全球挑战](https://news.cctv.com/2025/11/22/ARTI4vYS7PnVEN9HAizRksb1251122.shtml)
+
++ [美乌将在瑞士举行会谈](https://news.cctv.com/2025/11/22/ARTINdNPJNuLC9lcn7IyhTYa251122.shtml)
+
