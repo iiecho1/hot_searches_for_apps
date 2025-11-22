@@ -167,3 +167,5 @@
 
 + [日本纪录片揭批右翼篡改教科书歪曲历史](https://news.cctv.com/2025/11/23/ARTIgNAe6NfiO3l5sx9vI8EZ251123.shtml)
 
++ [也门胡塞武装以“间谍罪”判处18人死刑](https://news.cctv.com/2025/11/23/ARTI6h7ygo07OTUwlytYgZm0251123.shtml)
+
