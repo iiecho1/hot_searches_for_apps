@@ -179,3 +179,13 @@
 
 + [学习·知行丨各国共同发展才是真发展 习近平阐释大国担当](https://news.cctv.com/2025/11/22/ARTIBNSw7TXhZ567ztzOy78j251122.shtml)
 
++ [苏丹快速支援部队称“全面认真”回应促和努力](https://news.cctv.com/2025/11/22/ARTIwDOHfRBfD81MI21LgtbF251122.shtml)
+
++ [红十字国际委员会将被迫裁员](https://news.cctv.com/2025/11/22/ARTIZgT1hwLFpifDpD97VE46251122.shtml)
+
++ [一架印度产“光辉”战机在迪拜航展坠毁](https://photo.cctv.com/2025/11/22/PHOAXhsdKqUifTZ2Jc1tHyjA251122.shtml)
+
++ [哥伦比亚查获13.8吨可卡因](https://news.cctv.com/2025/11/22/ARTIyYQxGeWgJUWefKbH24rI251122.shtml)
+
++ [美联邦航空局对委内瑞拉空域发布安全警告](https://news.cctv.com/2025/11/22/ARTI2m62vgIgwsvmkG5GyPj3251122.shtml)
+
