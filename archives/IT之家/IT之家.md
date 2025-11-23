@@ -49,3 +49,11 @@
 
 + [一正在充电新能源小客车被盗，上海警方发布通报](https://m.ithome.com/html/899153.htm)
 
++ [小米举办小米 17 系列和澎湃 OS 3 庆功会，卢伟冰晒菜单](https://m.ithome.com/html/899486.htm)
+
++ [视觉中国就摄影师戴建峰起诉侵权一案发布致歉声明：系第三方盗图上传，涉案作品已于诉讼发生后下架](https://m.ithome.com/html/899469.htm)
+
++ [“超小容量存储卡大赛”落幕：0.5MB 卡夺冠，2KB 卡因规则遗憾出局](https://m.ithome.com/html/899461.htm)
+
++ [防误删：华为鸿蒙 HarmonyOS 6.0.0.112 再添新特性，卸载微信可保留应用本地数据](https://m.ithome.com/html/899496.htm)
+

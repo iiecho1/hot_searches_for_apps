@@ -171,3 +171,11 @@
 
 + [顶住美国压力 G20约堡峰会通过联合宣言](https://news.cctv.com/2025/11/23/ARTIzDTRUruKWetMioX6GoBx251123.shtml)
 
++ [尼日利亚一学校300余名师生被不明身份武装人员绑架](https://news.cctv.com/2025/11/23/ARTIKPZzZ0H3967VHbMVGffo251123.shtml)
+
++ [越南近期洪水与山体滑坡已致90人死亡](https://news.cctv.com/2025/11/23/ARTIW4VMfCu92J54mq9WxzEp251123.shtml)
+
++ [以色列空袭加沙致上百人死伤 哈马斯连发声明谴责](https://news.cctv.com/2025/11/23/ARTIbnrh7M9H9VdKcgVwx0rG251123.shtml)
+
++ [马来西亚警方拘留14名日本籍诈骗嫌犯](https://news.cctv.com/2025/11/23/ARTI3q7ecgBVP7wYHkYFhfii251123.shtml)
+

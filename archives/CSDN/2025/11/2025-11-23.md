@@ -139,3 +139,7 @@
 
 + [Agentic Coding新纪元：Doubao-Seed-Code全维度测评与编程范式变革研究](https://blog.csdn.net/weixin_43151418/article/details/155132646)
 
++ [GitHub 热榜项目 - 日榜(2025-11-20)](https://blog.csdn.net/u014390502/article/details/155053522)
+
++ [人工智能与大数据：智慧医疗的未来探索与挑战](https://blog.csdn.net/2501_94179873/article/details/155111678)
+
