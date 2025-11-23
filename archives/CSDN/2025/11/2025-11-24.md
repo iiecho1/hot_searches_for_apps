@@ -129,3 +129,5 @@
 
 + [从30秒故障切换到99.999%可用性：金仓数据库如何重构央企系统韧性？](https://blog.csdn.net/qq_32682301/article/details/155170409)
 
++ [智能车竞赛中的飞控还是不要放开了吧](https://blog.csdn.net/zhuoqingjoking97298/article/details/155165497)
+

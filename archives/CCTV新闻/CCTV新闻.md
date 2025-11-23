@@ -169,3 +169,7 @@
 
 + [以官员称黎真主党高级领导人在以军袭击中身亡](https://news.cctv.com/2025/11/24/ARTIyyu0jDAXy8jIgjr9d6KB251124.shtml)
 
++ [黎巴嫩真主党证实其高级领导人遭以军空袭身亡](https://news.cctv.com/2025/11/24/ARTICHHlfwxtZSPUvD8gcKDs251124.shtml)
+
++ [欧洲提交修改版和平计划 涵盖乌克兰安全保障方式](https://news.cctv.com/2025/11/24/ARTIHC4zPYrilq6QobAc9Z6p251124.shtml)
+
