@@ -187,3 +187,9 @@
 
 + [COP30大会闭幕 各方就多个议题达成共识](https://news.cctv.com/2025/11/23/ARTI42mJR2SAfycGIerIv8v1251123.shtml)
 
++ [石破茂再批高市错误言论：不能过一时嘴瘾](https://news.cctv.com/2025/11/23/ARTI9aNrIPH84dL03Xu1bsE8251123.shtml)
+
++ [英国确认将于2027年主办G20峰会](https://news.cctv.com/2025/11/23/ARTIT22Eu8IF5Tlb6FGt5y2t251123.shtml)
+
++ [美乌瑞士会谈在即 各方立场分歧明显](https://news.cctv.com/2025/11/23/ARTI273xqhymnqWjMXCF8fEi251123.shtml)
+
