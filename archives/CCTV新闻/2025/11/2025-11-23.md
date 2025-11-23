@@ -185,3 +185,5 @@
 
 + [加沙地带媒体办公室：停火以来以军违反协议497次](https://news.cctv.com/2025/11/23/ARTI8ugXjgie9rQwIM6b1X6s251123.shtml)
 
++ [COP30大会闭幕 各方就多个议题达成共识](https://news.cctv.com/2025/11/23/ARTI42mJR2SAfycGIerIv8v1251123.shtml)
+

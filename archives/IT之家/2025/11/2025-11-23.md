@@ -57,3 +57,11 @@
 
 + [防误删：华为鸿蒙 HarmonyOS 6.0.0.112 再添新特性，卸载微信可保留应用本地数据](https://m.ithome.com/html/899496.htm)
 
++ [苹果出手，从系统层面修复 macOS 26 系统 Electron 架构应用卡顿问题](https://m.ithome.com/html/899318.htm)
+
++ [京东方 A 回应“被某大客户取消 LTPO 面板订单”：对韩媒基于不实信息的报道不予置评](https://m.ithome.com/html/899312.htm)
+
++ [美团宣布在全国建设“骑手公寓”：提供租房补贴，拎包入住](https://m.ithome.com/html/899321.htm)
+
++ [2026 款长城炮皮卡焕新上市：乘用炮、商用炮、越野炮，9.98 万元起](https://m.ithome.com/html/899322.htm)
+
