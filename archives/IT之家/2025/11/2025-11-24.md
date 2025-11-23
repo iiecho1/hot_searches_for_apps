@@ -33,3 +33,15 @@
 
 + [小米员工：REDMI K90 Pro Max 手机音量问题已修复](https://m.ithome.com/html/899564.htm)
 
++ [《哪吒 2》不参评 2026 年第 98 届奥斯卡最佳动画长片奖](https://m.ithome.com/html/899382.htm)
+
++ [紫龙游戏澄清与“员工出差抽中显卡要上交”事件无关：公司遭网暴，已报警](https://m.ithome.com/html/899416.htm)
+
++ [凯迪拉克 CT5 飓风哑光灰新车色亮相，同步推出红色性能选装包](https://m.ithome.com/html/899371.htm)
+
++ [国内首家高校，北大 NFC 校园卡适配鸿蒙 HarmonyOS 5 及以上版本](https://m.ithome.com/html/899394.htm)
+
++ [雷军：小米组合辅助驾驶系统第 4 版“HAD 增强版”将于数日内推送](https://m.ithome.com/html/899395.htm)
+
++ [首位“80 后”中国科学院院士刘若川，来自北大数院](https://m.ithome.com/html/899396.htm)
+
