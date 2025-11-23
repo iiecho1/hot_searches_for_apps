@@ -215,3 +215,17 @@
 
 + [【2025版 OpenHarmony】GitCode 口袋工具 v1.0.1 更新发布：Flutter + HarmonyOS 封装导航栏进行跳转](https://blog.csdn.net/2301_80035882/article/details/155135274)
 
++ [高可靠微服务消息设计：Outbox模式、延迟队列与Watermill集成实践](https://blog.csdn.net/2302_80067378/article/details/155104007)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在企业生产全流程监控与质量追溯中的应用](https://blog.csdn.net/atgfg/article/details/155139533)
+
++ [Oracle数据库核心操作完全手册：运维、开发与调优必备](https://blog.csdn.net/qq_36936192/article/details/155165261)
+
++ [Spring IoC容器源码解析（二）：依赖注入（DI）、循环依赖的解决](https://blog.csdn.net/sinat_41617212/article/details/155164931)
+
++ [【教程4＞第9章＞第29节】基于FPGA的瓶盖色泽质量检测系统实现——理论分析与MATLAB仿真](https://blog.csdn.net/ccsss22/article/details/155162528)
+
++ [Linux网络负载均衡（从零开始搭建高可用服务架构）](https://blog.csdn.net/weixin_50810166/article/details/155139550)
+
++ [ollama v0.13.0 发布：DeepSeek-OCR、Cogito-V2.1 全新支持，性能工具 Bench 正式上线](https://blog.csdn.net/weixin_48502062/article/details/155107352)
+
