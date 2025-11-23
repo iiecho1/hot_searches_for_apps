@@ -147,3 +147,21 @@
 
 + [零碎的知识点（二十）：3D 高斯为什么是椭球](https://blog.csdn.net/xzs1210652636/article/details/155112086)
 
++ [基于 Spring Boot 的 Web 三大核心交互案例精讲](https://blog.csdn.net/weixin_46491509/article/details/155143756)
+
++ [CANN特性能力深度解析：释放AI计算潜能](https://blog.csdn.net/2301_77509762/article/details/155135310)
+
++ [基于 IPIDEA 的 SERP 结构化数据抽取与趋势监控的工程化实践](https://blog.csdn.net/qq_44273429/article/details/155064030)
+
++ [从0到1学AlexNet：用经典网络搞定花分类任务](https://blog.csdn.net/ztx22555/article/details/132272399)
+
++ [【论文笔记】视频RAG-Vgent：基于图结构的视频检索推理框架](https://blog.csdn.net/xian0710830114/article/details/155095921)
+
++ [还在为 openEuler 远程运维发愁？用 CPolar 轻松搞定跨网连接](https://blog.csdn.net/2301_80840905/article/details/155098981)
+
++ [SpringBoot（整合MyBatis + MyBatis-Plus + MyBatisX插件使用）](https://blog.csdn.net/2509_94088939/article/details/155111380)
+
++ [Spring Boot接收参数的19种方式](https://blog.csdn.net/2509_94083550/article/details/155073048)
+
++ [HTTPS + WSS(WebSockets) 完整请求流程架构说明及本地开启HTTPS](https://blog.csdn.net/qkdgz/article/details/155098477)
+

@@ -181,3 +181,5 @@
 
 + [俄副外长：俄美元首再次会晤“仍在议程中”](https://news.cctv.com/2025/11/23/ARTI2at9GauZWVX67FbHGKrG251123.shtml)
 
++ [美国报告H5N5型禽流感致人死亡病例 据信为全球首例](https://news.cctv.com/2025/11/23/ARTIVpL9t1QQ2Yvet2faNyEt251123.shtml)
+
