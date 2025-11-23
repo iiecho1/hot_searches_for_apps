@@ -101,3 +101,11 @@
 
 + [服务注册与发现——Eureka](https://blog.csdn.net/2301_76161469/article/details/154951315)
 
++ [openGauss进阶：使用DBeaver可视化管理与实战](https://blog.csdn.net/2302_78391795/article/details/155104732)
+
++ [【SpringBoot】Spring Boot 项目的打包配置](https://blog.csdn.net/2509_94088106/article/details/155140049)
+
++ [量子计算：从理论到应用的未来之路](https://blog.csdn.net/2501_94180726/article/details/155111106)
+
++ [底层视觉及图像增强-项目实践理论补充（十六-0-（26）：Onnx---》底层视觉及图像增强）：从奥运大屏到手机小屏，快来挖一挖里面都有什么](https://blog.csdn.net/m0_52436398/article/details/155140873)
+

@@ -161,3 +161,7 @@
 
 + [以国防部签署合同增产“铁穹”弹药 资金主要来自美国军援](https://news.cctv.com/2025/11/21/ARTILiwfazoRyK9UzlVcRRec251121.shtml)
 
++ [尼日利亚50名被绑架学生成功逃脱](https://news.cctv.com/2025/11/24/ARTIy0WbJeB1rhKDaDJoTOQx251123.shtml)
+
++ [美国要对委“动手”？多家航司停飞委内瑞拉航班](https://news.cctv.com/2025/11/24/ARTIf9xPPyi691mOvjhPqclS251123.shtml)
+
