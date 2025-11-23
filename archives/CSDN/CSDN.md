@@ -127,3 +127,5 @@
 
 + [5G与物联网：连接未来的数字生态](https://blog.csdn.net/2501_94122568/article/details/155106894)
 
++ [从30秒故障切换到99.999%可用性：金仓数据库如何重构央企系统韧性？](https://blog.csdn.net/qq_32682301/article/details/155170409)
+
