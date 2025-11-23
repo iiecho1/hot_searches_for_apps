@@ -137,3 +137,5 @@
 
 + [Spring Boot 经典九设计模式全览](https://blog.csdn.net/2509_94082461/article/details/155109415)
 
++ [Agentic Coding新纪元：Doubao-Seed-Code全维度测评与编程范式变革研究](https://blog.csdn.net/weixin_43151418/article/details/155132646)
+

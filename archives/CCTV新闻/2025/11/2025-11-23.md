@@ -169,3 +169,5 @@
 
 + [也门胡塞武装以“间谍罪”判处18人死刑](https://news.cctv.com/2025/11/23/ARTI6h7ygo07OTUwlytYgZm0251123.shtml)
 
++ [顶住美国压力 G20约堡峰会通过联合宣言](https://news.cctv.com/2025/11/23/ARTIzDTRUruKWetMioX6GoBx251123.shtml)
+
