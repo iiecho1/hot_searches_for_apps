@@ -185,3 +185,9 @@
 
 + [【Linux】进程信号](https://blog.csdn.net/x_2023_713/article/details/155111129)
 
++ [【AI智能体】n8n AI自动化流程编排平台从部署到使用实战详解](https://blog.csdn.net/zhangcongyi420/article/details/154450605)
+
++ [《ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs》——论文阅读](https://blog.csdn.net/2301_77039628/article/details/155105306)
+
++ [基于SpringBoot+微信小程序诊所预约挂号系统【附源码】](https://blog.csdn.net/2402_84112588/article/details/155133801)
+
