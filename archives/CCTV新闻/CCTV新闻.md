@@ -197,3 +197,5 @@
 
 + [美国反对无效，压倒性通过！](https://news.cctv.com/2025/11/23/ARTIPQwreRKWz8CFFC5NfQ5P251123.shtml)
 
++ [焦点访谈｜公然挑衅，执意玩火！高市早苗挑衅言论会造成什么样的恶果？](https://news.cctv.com/2025/11/23/ARTIjS8diJ3gtEqHFGd6b9KL251123.shtml)
+
