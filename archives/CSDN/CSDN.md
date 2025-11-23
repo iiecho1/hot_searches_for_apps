@@ -125,3 +125,5 @@
 
 + [基于可以生成obj或者其他3d文件的本地部署ai来输出图像，用户可以在网页上与AI交互，最好是能够生成一些化学图像...如何实现？](https://blog.csdn.net/weixin_43970743/article/details/152509284)
 
++ [5G与物联网：连接未来的数字生态](https://blog.csdn.net/2501_94122568/article/details/155106894)
+

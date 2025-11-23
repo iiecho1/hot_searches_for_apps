@@ -165,3 +165,5 @@
 
 + [美国要对委“动手”？多家航司停飞委内瑞拉航班](https://news.cctv.com/2025/11/24/ARTIf9xPPyi691mOvjhPqclS251123.shtml)
 
++ [闪评 | 美乌瑞士会谈 “28点新计划”有多少可修改空间？](https://news.cctv.com/2025/11/24/ARTIpmPPdPrSBzHdPTbka7SD251124.shtml)
+

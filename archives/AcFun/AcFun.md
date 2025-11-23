@@ -73,3 +73,5 @@
 
 + [【怜兔x大车】AKB48「Oh my pumpkin!」贝贝南瓜翻跳](https://m.acfun.cn/v/?ac=48037610)
 
++ [嘉贝莉娜~Short Hair](https://m.acfun.cn/v/?ac=48037571)
+

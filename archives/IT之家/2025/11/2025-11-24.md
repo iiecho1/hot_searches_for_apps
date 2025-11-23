@@ -25,3 +25,11 @@
 
 + [微信鸿蒙版 App 公众号推送流灰度更新，列表显示变更为图文卡片模式](https://m.ithome.com/html/899509.htm)
 
++ [高中毕业生伪造履历当上博导，江苏科技大学通报称已解除劳动合同、向警方报案](https://m.ithome.com/html/899562.htm)
+
++ [长鑫存储发布全新 DDR5 内存新品：最高速率 8000 MT/s，最高颗粒容量 24Gb](https://m.ithome.com/html/899584.htm)
+
++ [月消 59 元及以上移动用户专享：苹果 iPhone 17 京东自营 5299 元限时补贴](https://m.ithome.com/html/899543.htm)
+
++ [小米员工：REDMI K90 Pro Max 手机音量问题已修复](https://m.ithome.com/html/899564.htm)
+
