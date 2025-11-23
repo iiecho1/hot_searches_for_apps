@@ -143,3 +143,7 @@
 
 + [人工智能与大数据：智慧医疗的未来探索与挑战](https://blog.csdn.net/2501_94179873/article/details/155111678)
 
++ [探索高性能伺服驱动：基于Verilog的FPGA实现之旅](https://blog.csdn.net/2503_94130034/article/details/155109364)
+
++ [零碎的知识点（二十）：3D 高斯为什么是椭球](https://blog.csdn.net/xzs1210652636/article/details/155112086)
+
