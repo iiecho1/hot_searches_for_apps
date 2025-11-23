@@ -199,3 +199,13 @@
 
 + [10. Linux 系统启动原理](https://blog.csdn.net/qq_63526229/article/details/155074794)
 
++ [大数据时代时序数据库选型指南：Apache IoTDB为何成为首选？](https://blog.csdn.net/qq_57761637/article/details/155163787)
+
++ [基于微信小程序的驾校预约平台](https://blog.csdn.net/kangcool_sn/article/details/155105011)
+
++ [从设计图到网页：Doubao-Seed-Code 模型 + Claude Code 完整实战指南](https://blog.csdn.net/qq_44273429/article/details/155158741)
+
++ [底层视觉及图像增强-项目实践理论补充（十六-0-（26）：Onnx---》底层视觉及图像增强）：从奥运大屏到手机小屏，快来挖一挖里面都有什么](https://blog.csdn.net/m0_52436398/article/details/155140873)
+
++ [Pycharm 接入 Deepseek API完整版教程](https://blog.csdn.net/qq_40741909/article/details/155133462)
+
