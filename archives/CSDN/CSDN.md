@@ -129,3 +129,5 @@
 
 + [Python在微服务高并发异步数据处理与分布式任务调度架构中的实战](https://blog.csdn.net/2501_94186637/article/details/155170579)
 
++ [openGauss 的 AI 特性深度解析：从自运维到库内AI的全面进化](https://blog.csdn.net/a1657054242/article/details/155132392)
+
