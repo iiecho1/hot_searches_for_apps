@@ -101,3 +101,9 @@
 
 + [量子计算与人工智能：未来科技的融合](https://blog.csdn.net/2501_94181083/article/details/155107684)
 
++ [openGauss进阶：使用DBeaver可视化管理与实战](https://blog.csdn.net/2302_79177254/article/details/155137712)
+
++ [基于大数据Hadoop+智能AI大模型+农作物病害数据集及可视化平台的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155190328)
+
++ [为什么要学习Python Web？以及主流框架Django、Flask、FastAPI如何选择？](https://blog.csdn.net/cui_yonghua/article/details/155204371)
+

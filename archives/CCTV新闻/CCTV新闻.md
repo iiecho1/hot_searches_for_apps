@@ -161,3 +161,5 @@
 
 + [西班牙北部一处煤矿发生坍塌事故 已致2人死亡](https://news.cctv.com/2025/11/22/ARTIJ4GeKNkE4MFgdJgYYhIa251122.shtml)
 
++ [希腊紧急采集2026年冬奥会备用火种](https://news.cctv.com/2025/11/25/ARTI2l8TYj8uk2k4y7GOvrH8251124.shtml)
+
