@@ -173,3 +173,9 @@
 
 + [欧洲提交修改版和平计划 涵盖乌克兰安全保障方式](https://news.cctv.com/2025/11/24/ARTIHC4zPYrilq6QobAc9Z6p251124.shtml)
 
++ [苏丹领导人拒绝接受四方机制提出的停火方案](https://news.cctv.com/2025/11/24/ARTICsIYL4O8UIxRMWt0l8bf251124.shtml)
+
++ [美乌会谈结束：鲁比奥称“富有成果” 乌方代表未现身](https://news.cctv.com/2025/11/24/ARTI0e9gjzlnk60eBdjzGQcI251124.shtml)
+
++ [美国“政府效率部”确认已提前解散](https://news.cctv.com/2025/11/24/ARTIomPIc9su5WVk5TaAMoAE251124.shtml)
+

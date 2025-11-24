@@ -131,3 +131,25 @@
 
 + [智能车竞赛中的飞控还是不要放开了吧](https://blog.csdn.net/zhuoqingjoking97298/article/details/155165497)
 
++ [电科金仓自主创新数据库KingbaseES在医疗行业的创新实践与深度应用](https://blog.csdn.net/beautifulmemory/article/details/155159418)
+
++ [Atomgit-河北工业职业技术大学校园AI应用大赛-参与演示博客](https://blog.csdn.net/feng8403000/article/details/155077712)
+
++ [用VSCode打造高效AI开发环境：从配置到实战](https://blog.csdn.net/2501_91109084/article/details/155094435)
+
++ [全场景教育 AI 助手诞生，Web + 小程序 + 实时同步，随时随地想用就用](https://blog.csdn.net/2302_80262940/article/details/155156028)
+
++ [从海量时序数据到无人值守：数据库在新能源集控系统中的架构实践](https://blog.csdn.net/2302_78391795/article/details/155163319)
+
++ [MongoDB 插入操作机制详解：insert() 与 nInserted 的行为剖析](https://blog.csdn.net/csdn_silent/article/details/155094399)
+
++ [C/C++跳动的爱心①](https://blog.csdn.net/m0_68111267/article/details/155185547)
+
++ [2025年11月21日最热门的开源项目(Github)](https://blog.csdn.net/yao1500/article/details/155123384)
+
++ [SQL 注入与 Redis 缓存问题总结](https://blog.csdn.net/2504_93605592/article/details/155137806)
+
++ [IPIDEA动态长效ISP代理：为大规模数据采集提供稳定支撑](https://blog.csdn.net/m0_55394328/article/details/155072421)
+
++ [无人机遥控器CPU技术要点解析](https://blog.csdn.net/YUNZHUO666/article/details/155107893)
+
