@@ -209,3 +209,7 @@
 
 + [石破茂再批高市涉台错误言论：不是“过一时嘴瘾”的话题](https://news.cctv.com/2025/11/24/ARTIpigdyEBONtt4t1d9e3eD251124.shtml)
 
++ [日本东京发生车辆冲撞行人事件致11人死伤](https://news.cctv.com/2025/11/24/ARTI1YNLLRLsJpNhTJU7jouv251124.shtml)
+
++ [欧盟理事会批准欧盟2026年年度预算](https://news.cctv.com/2025/11/24/ARTI6k3XkKz6a0kYqgKJJYAB251124.shtml)
+
