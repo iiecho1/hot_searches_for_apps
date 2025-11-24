@@ -167,3 +167,7 @@
 
 + [中国外长对高市早苗言论的表态 传递了什么信息？](https://news.cctv.com/2025/11/25/ARTIxJdYyMzrFBrWIaoDUplG251125.shtml)
 
++ [特朗普签署行政令 启动人工智能“创世纪计划”](https://news.cctv.com/2025/11/25/ARTIKLLtPB5Mbd8QfGe0tqvc251125.shtml)
+
++ [欧盟理事会批准2026年欧盟预算](https://news.cctv.com/2025/11/25/ARTI6xaJcWtjD3hXxaDRC2KJ251125.shtml)
+

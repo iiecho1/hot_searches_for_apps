@@ -131,3 +131,5 @@
 
 + [openGauss 的 AI 特性深度解析：从自运维到库内AI的全面进化](https://blog.csdn.net/a1657054242/article/details/155132392)
 
++ [ollama v0.13.0 发布：DeepSeek-OCR、Cogito-V2.1 全新支持，性能工具 Bench 正式上线](https://blog.csdn.net/weixin_48502062/article/details/155107352)
+
