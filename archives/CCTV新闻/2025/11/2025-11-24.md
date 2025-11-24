@@ -199,3 +199,13 @@
 
 + [韩国济州发生车辆冲撞行人事件 3人心脏骤停](https://news.cctv.com/2025/11/24/ARTIdk226rnc0cYiBMhU15Oz251124.shtml)
 
++ [着陆时螺旋桨等接触跑道 日本海上保安厅无人机发生“重大事故”](https://news.cctv.com/2025/11/24/ARTI3sDHAqNt52tTsPyjEyiY251124.shtml)
+
++ [巴基斯坦联邦警察部队总部遇袭致3死5伤](https://news.cctv.com/2025/11/24/ARTIOCiUvuhbGdXXPrfe4kwj251124.shtml)
+
++ [印加关系回暖 同意重启贸易谈判](https://news.cctv.com/2025/11/24/ARTIAJLhJa1zUTtRtzjxdB2z251124.shtml)
+
++ [日本社民党党首发文抗议高市早苗错误言论](https://news.cctv.com/2025/11/24/ARTImpgUhixg2wlnSECvKija251124.shtml)
+
++ [石破茂再批高市涉台错误言论：不是“过一时嘴瘾”的话题](https://news.cctv.com/2025/11/24/ARTIpigdyEBONtt4t1d9e3eD251124.shtml)
+

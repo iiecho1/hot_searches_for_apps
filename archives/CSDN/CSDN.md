@@ -193,3 +193,7 @@
 
 + [【自动驾驶】Autoware 三大版本 ( Autoware.AI | Autoware.Auto | Autoware Core/Universe )](https://blog.csdn.net/han1202012/article/details/155091805)
 
++ [基于cann-recipes-infer的Kimi-K2-Thinking仓库技术解读：大模型推理优化的昇腾案例分析](https://blog.csdn.net/weixin_52908342/article/details/155108281)
+
++ [Kubectl命令大全参数详解及示例【超全】](https://blog.csdn.net/liu_chen_yang/article/details/153253626)
+
