@@ -161,3 +161,17 @@
 
 + [C# winform部署rf-detr目标检测的onnx模型](https://blog.csdn.net/FL1623863129/article/details/155166838)
 
++ [Apache IoTDB 触发器完全指南：从原理到实战的全方位解析](https://blog.csdn.net/weixin_43151418/article/details/153878164)
+
++ [金仓数据库：国产自主核心力量，赋能央企关键系统技术革新](https://blog.csdn.net/lrq13965748542/article/details/155168750)
+
++ [Transformer实战（27）——参数高效微调（Parameter Efficient Fine-Tuning，PEFT）](https://blog.csdn.net/LOVEmy134611/article/details/147934731)
+
++ [海量时序数据难管理？Apache IoTDB带你突破写入、存储与查询瓶颈，破解大数据时代时序数据管理难题](https://blog.csdn.net/2401_82648291/article/details/155159939)
+
++ [锋哥写一套基于Python深度学习的车辆车牌识别系统（PyTorch2卷积神经网络CNN+OpenCV4实现）视频教程，帅呆了~~](https://blog.csdn.net/caoli201314/article/details/155186098)
+
++ [CANN在智能安防场景中的落地实践：释放硬件潜能，简化AI开发](https://blog.csdn.net/m0_63947499/article/details/155109072)
+
++ [基于大数据Hadoop+智能AI大模型+农作物病害数据集及可视化平台的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155190328)
+

@@ -55,3 +55,7 @@
 
 + [限地区立减 10%：小米 17 Pro Max 京东 5999 → 5399 元 24 期免息](https://m.ithome.com/html/899615.htm)
 
++ [华为确认：Mate 80/X7 系列机型 11 月 25 日线上发布](https://m.ithome.com/html/899653.htm)
+
++ [上海地铁回应设计无座站票车厢：为应对大客流，仅在 9 号线一节车厢试行](https://m.ithome.com/html/899572.htm)
+
