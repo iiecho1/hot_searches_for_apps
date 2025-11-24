@@ -197,3 +197,7 @@
 
 + [Kubectl命令大全参数详解及示例【超全】](https://blog.csdn.net/liu_chen_yang/article/details/153253626)
 
++ [Java 大视界 -- 基于 Java 的大数据可视化在城市地下管网管理与风险预警中的应用](https://blog.csdn.net/atgfg/article/details/155096493)
+
++ [Windows中获取用户鼠标键盘闲置时间，以自动设置用户的离开状态以及处理离开状态下的自动消息回复（以QQ为例进行讲解，附源码）](https://blog.csdn.net/chenlycly/article/details/155193729)
+
