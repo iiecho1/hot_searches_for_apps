@@ -201,3 +201,9 @@
 
 + [Windows中获取用户鼠标键盘闲置时间，以自动设置用户的离开状态以及处理离开状态下的自动消息回复（以QQ为例进行讲解，附源码）](https://blog.csdn.net/chenlycly/article/details/155193729)
 
++ [【JAVA 进阶】深入探索Spring AOP：从原理到实战](https://blog.csdn.net/weixin_63944437/article/details/155195732)
+
++ [【IoTDB】从InfluxDB到IoTDB：工业时序数据处理的技术演进与选型逻辑](https://blog.csdn.net/Morse_Chen/article/details/155169369)
+
++ [量子计算与人工智能：未来科技的融合](https://blog.csdn.net/2501_94181083/article/details/155107684)
+
