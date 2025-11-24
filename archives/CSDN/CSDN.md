@@ -175,3 +175,17 @@
 
 + [基于大数据Hadoop+智能AI大模型+农作物病害数据集及可视化平台的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155190328)
 
++ [5种防盗链方案大比拼：SpringBoot如何让资源不被偷？](https://blog.csdn.net/z_344791576/article/details/151689181)
+
++ [深入理解Dubbo的Filter机制：全方位解析与实战指南](https://blog.csdn.net/qq_44378083/article/details/155132292)
+
++ [从原理到落地：Agent AI 技术拆解与工程实践指南](https://blog.csdn.net/user340/article/details/155168936)
+
++ [《枕边算法书》阅读笔记：一场从热爱到实践的算法启蒙之旅](https://blog.csdn.net/2502_91523773/article/details/155168396)
+
++ [QT-系统（网络）](https://blog.csdn.net/nplplus/article/details/155140473)
+
++ [web和Nginx的搭建](https://blog.csdn.net/2503_93990865/article/details/155138309)
+
++ [Python在微服务高并发异步流量控制与动态限流熔断架构中的实践](https://blog.csdn.net/2501_94187981/article/details/155170650)
+
