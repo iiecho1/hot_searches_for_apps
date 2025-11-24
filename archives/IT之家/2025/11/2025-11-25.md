@@ -49,3 +49,13 @@
 
 + [小米公司发言人澄清“小米汽车工厂内电池产线起火”相关谣言](https://m.ithome.com/html/899512.htm)
 
++ [【已结束】限地区立减 10%：小米 17 Pro Max 京东 5999 → 5399 元 24 期免息](https://m.ithome.com/html/899615.htm)
+
++ [陶哲轩亲测谷歌 Gemini 3：十分钟搞定百年数学难题](https://m.ithome.com/html/899621.htm)
+
++ [2026 款沃尔沃 XC90 车型上市，44.99-64.99 万元](https://m.ithome.com/html/899622.htm)
+
++ [比亚迪 2.0T 水平对置发动机全网首拆：为易四方平台量身打造](https://m.ithome.com/html/899617.htm)
+
++ [网络叫卖数万元手搓飞机？央视起底三无飞机：靠阴阳合同逃避监管](https://m.ithome.com/html/899619.htm)
+
