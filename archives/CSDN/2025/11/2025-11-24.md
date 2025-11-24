@@ -219,3 +219,5 @@
 
 + [AI Compass前沿速览：Nano Banana Pro、Gemini 3 、 HunyuanVideo 1.5 、Meta SAM 3D生成](https://blog.csdn.net/sinat_39620217/article/details/155135338)
 
++ [卷积神经网络（卷积+池化+全连接）](https://blog.csdn.net/qq_71681039/article/details/155166771)
+
