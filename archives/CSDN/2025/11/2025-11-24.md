@@ -221,3 +221,7 @@
 
 + [卷积神经网络（卷积+池化+全连接）](https://blog.csdn.net/qq_71681039/article/details/155166771)
 
++ [基于ModelEngine快速搭建AI智能体，打造你的专属旅行顾问](https://blog.csdn.net/herosunly/article/details/155199298)
+
++ [Python Scrapy高并发分布式爬虫设计与实战经验分享：沈阳电商数据采集与实时价格监控落地](https://blog.csdn.net/2501_94186563/article/details/155170332)
+
