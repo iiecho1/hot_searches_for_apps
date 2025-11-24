@@ -211,3 +211,11 @@
 
 + [【AI工具】使用 Doubao-Seed-Code 优化 Unity 编辑器插件：从功能实现到界面美化的完整实践](https://blog.csdn.net/qq_41140324/article/details/155165517)
 
++ [机器学习23：对抗攻击（adversarial attack）（上）](https://blog.csdn.net/Master_oid/article/details/155164228)
+
++ [▲QPSK调制解调+扩频解扩+V&V相位同步系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/155197256)
+
++ [可编程逻辑器件学习(day34)：半导体编年史：从法拉第的意外发现到塑造现代文明的硅基浪潮](https://blog.csdn.net/weixin_43260261/article/details/155198880)
+
++ [AI Compass前沿速览：Nano Banana Pro、Gemini 3 、 HunyuanVideo 1.5 、Meta SAM 3D生成](https://blog.csdn.net/sinat_39620217/article/details/155135338)
+

@@ -213,3 +213,7 @@
 
 + [欧盟理事会批准欧盟2026年年度预算](https://news.cctv.com/2025/11/24/ARTI6k3XkKz6a0kYqgKJJYAB251124.shtml)
 
++ [错误言论暗藏三大意图，高市早苗打的什么“算盘”？｜ 国际识局](https://news.cctv.com/2025/11/24/ARTIF5433z2aGWwuZq729bed251124.shtml)
+
++ [全球媒体聚焦 | 英媒：美国的制度性选择让贫困人口不断增加](https://news.cctv.com/2025/11/24/ARTIHJgh3d47FWQ5zD8jitMO251124.shtml)
+
