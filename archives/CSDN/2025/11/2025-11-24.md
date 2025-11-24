@@ -153,3 +153,11 @@
 
 + [无人机遥控器CPU技术要点解析](https://blog.csdn.net/YUNZHUO666/article/details/155107893)
 
++ [Spring Boot 机制一： 自动配置原理源码级深度讲解](https://blog.csdn.net/qq_61654952/article/details/155185034)
+
++ [绿色引擎：金仓数据库如何驱动新能源产业数字化转型](https://blog.csdn.net/weixin_44976692/article/details/155168457)
+
++ [C++ 波澜壮阔 50 年：从 C with Classes 到现代 C++ 的进化史诗](https://blog.csdn.net/2501_91617454/article/details/155110006)
+
++ [C# winform部署rf-detr目标检测的onnx模型](https://blog.csdn.net/FL1623863129/article/details/155166838)
+

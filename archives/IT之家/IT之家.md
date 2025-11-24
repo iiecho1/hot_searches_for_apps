@@ -45,3 +45,13 @@
 
 + [首位“80 后”中国科学院院士刘若川，来自北大数院](https://m.ithome.com/html/899396.htm)
 
++ [国补后立打 5.9 折：华为 Pura 70 手机 512G 版 3559 元再降价](https://m.ithome.com/html/899618.htm)
+
++ [iOS 26 问题频出，古尔曼称苹果 iOS 27 将在保持“无新增功能”基调的同时优化系统稳定性及 AI 能力](https://m.ithome.com/html/899611.htm)
+
++ [小米汽车副总裁李肖爽回应“小乔地铁站车祸致 8 人死亡”：与小米完全无关，网传信息为谣言](https://m.ithome.com/html/899630.htm)
+
++ [网传上海、广州将试点“老头乐”C7 驾照，多地交管辟谣](https://m.ithome.com/html/899593.htm)
+
++ [限地区立减 10%：小米 17 Pro Max 京东 5999 → 5399 元 24 期免息](https://m.ithome.com/html/899615.htm)
+

@@ -179,3 +179,9 @@
 
 + [美国“政府效率部”确认已提前解散](https://news.cctv.com/2025/11/24/ARTIomPIc9su5WVk5TaAMoAE251124.shtml)
 
++ [“政府效率部”歇了？美国主管官员：非实情](https://news.cctv.com/2025/11/24/ARTISUTUPJZPAtfZ2zJlCGJX251124.shtml)
+
++ [日本前首相批评高市错误言论 称应阐明日方官方立场](https://news.cctv.com/2025/11/24/ARTI8P7tcTpvgVhPqOhOmdqf251124.shtml)
+
++ [英媒：伦敦预计将对过夜游客开征旅游税，每年最高可增收2.4亿英镑](https://news.cctv.com/2025/11/24/ARTIJmCTxNtWDQLqs99MCOfR251124.shtml)
+
