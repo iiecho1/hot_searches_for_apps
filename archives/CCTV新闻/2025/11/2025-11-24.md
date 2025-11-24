@@ -193,3 +193,9 @@
 
 + [巴基斯坦一警察部队总部遭自杀式爆炸袭击](https://news.cctv.com/2025/11/24/ARTIIvB3arINUmKUeDKffdra251124.shtml)
 
++ [旅比大熊猫“守护者”埃里克·董博：打开感知中国之门](https://news.cctv.com/2025/11/24/ARTI5wN4rM2EhWTC7GHZs4PQ251124.shtml)
+
++ [二十国集团领导人峰会闭幕 强调多边合作与共同发展](https://news.cctv.com/2025/11/24/ARTI91VaTS1LUUfMKsG2YU4f251124.shtml)
+
++ [韩国济州发生车辆冲撞行人事件 3人心脏骤停](https://news.cctv.com/2025/11/24/ARTIdk226rnc0cYiBMhU15Oz251124.shtml)
+
