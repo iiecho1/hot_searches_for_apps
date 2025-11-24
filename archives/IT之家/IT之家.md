@@ -25,3 +25,23 @@
 
 + [上海地铁回应设计无座站票车厢：为应对大客流，仅在 9 号线一节车厢试行](https://m.ithome.com/html/899572.htm)
 
++ [华为 Mate 80 Pro Max 手机官宣搭载全金属玄武架构](https://m.ithome.com/html/899688.htm)
+
++ [华为 Mate 80 系列新机明天发布，Pro 及以上版本发货时间排至明年 1 月](https://m.ithome.com/html/899838.htm)
+
++ [消息称华为 Mate 80 Pro Max / RS 独享新一代超透亮灵珑屏，双层 OLED](https://m.ithome.com/html/899698.htm)
+
++ [缅甸妙瓦底 KK 电诈园区被爆破拆除](https://m.ithome.com/html/899815.htm)
+
++ [2699 元起：荣耀 500/500 Pro 手机发布，搭载第四代骁龙 8s / 骁龙 8 至尊版芯片](https://m.ithome.com/html/899868.htm)
+
++ [业界首款：消息称苹果 iPhone Fold 折叠屏手机已实现无折痕设计](https://m.ithome.com/html/899864.htm)
+
++ [雷军斥资超 1 亿港元增持小米集团 260 万股，持股比例增加至 23.26%](https://m.ithome.com/html/899858.htm)
+
++ [华为 Mate 80 系列新机影像预热，支持电影风格拍摄、长焦微距视频等](https://m.ithome.com/html/899771.htm)
+
++ [零跑 Lafa 5 Ultra 实车亮相，曹力大赞“操控非常棒，颜值很抗打”](https://m.ithome.com/html/899802.htm)
+
++ [小米澎湃 OS 3 十一月升级汇总：超级小爱随心修图上线，更多应用接入超级岛](https://m.ithome.com/html/899701.htm)
+

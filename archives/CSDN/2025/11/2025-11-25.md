@@ -107,3 +107,19 @@
 
 + [为什么要学习Python Web？以及主流框架Django、Flask、FastAPI如何选择？](https://blog.csdn.net/cui_yonghua/article/details/155204371)
 
++ [定时关机怎么设置？【图文详解】电脑怎么设置定时关机？定时关机命令？定时开关机？](https://blog.csdn.net/2401_87766320/article/details/155112807)
+
++ [Doubao-Seed-Code VS Kimi K2 VS DeepSeek评测：国内首个支持视觉理解能力的编程模型，专为 Agentic Coding 任务深度优化的全新代码模型](https://blog.csdn.net/qq_44866828/article/details/155133747)
+
++ [【论文笔记】大型语言模型的知识蒸馏与数据集蒸馏](https://blog.csdn.net/xian0710830114/article/details/155105636)
+
++ [2025年多家海外代理IP实战案例横向测评，挑选适合自己的](https://blog.csdn.net/zhangay1998/article/details/155134971)
+
++ [开始使用 Elastic Agent Builder 和 Microsoft Agent Framework](https://blog.csdn.net/UbuntuTouch/article/details/155162911)
+
++ [使用Linux命名管道(FIFO)实现无血缘关系进程间通信](https://blog.csdn.net/2503_92624912/article/details/155182039)
+
++ [动漫《游戏成真，我继承天帝账号修为》(合集/大结局/完整版)【长篇合集完整版】免费大结局一口气看完＃虾仁动漫#动漫短剧#完整版#大结局#一口气看完](https://blog.csdn.net/2502_94393532/article/details/155162414)
+
++ [个人博客|博客app|基于Springboot+微信小程序的个人博客app系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/155104586)
+
