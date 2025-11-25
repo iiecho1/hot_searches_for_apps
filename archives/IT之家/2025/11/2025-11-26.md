@@ -25,3 +25,23 @@
 
 + [消息称 OPPO / vivo / 小米“可能”在 2027-2028 年推出 3D 人脸机型](https://m.ithome.com/html/899861.htm)
 
++ [4699 元起华为 Mate 80/Pro 正式发布：首发鸿蒙 Harmony OS 6.0，海思麒麟 9030/Pro 性能提升 35~42%](https://m.ithome.com/html/900075.htm)
+
++ [华为 Mate 80 Pro Max 手机发布：5A 速度、首发双层 OLED 架构灵珑屏，7999 元起](https://m.ithome.com/html/900077.htm)
+
++ [“史上最严”充电宝安全标准曝光：3C 认证全面失效，强制配备屏幕或联网 App](https://m.ithome.com/html/899971.htm)
+
++ [华为 Mate 80 / Pro / Pro Max 系列手机相比上一代性能最高提升 42%](https://m.ithome.com/html/900062.htm)
+
++ [麒麟 9030 标准版 / Pro 处理器官网首曝：华为 Mate 80 Pro 系列新机首发，性能最高提升 42%](https://m.ithome.com/html/900099.htm)
+
++ [华为 Mate 80 标准版手机全系搭载麒麟 9020 处理器](https://m.ithome.com/html/900110.htm)
+
++ [华为 Mate80 RS 非凡大师手机发布：独享 20GB 内存，11999-12999 元](https://m.ithome.com/html/900080.htm)
+
++ [华为 Mate X7 折叠屏手机发布：12999 元起，全新玄武架构、首次比肩直板旗舰影像](https://m.ithome.com/html/900094.htm)
+
++ [无 G 时代结束：华为 Mate 80 系列手机 5A 速度“转正”，信号栏可见](https://m.ithome.com/html/900146.htm)
+
++ [华为 Pura 80 系列、Mate 70 Air、XTs 将 OTA 支持星闪音频，但体验略逊于 Mate 80、X7 系列](https://m.ithome.com/html/899923.htm)
+
