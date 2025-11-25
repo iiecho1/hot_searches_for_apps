@@ -177,3 +177,15 @@
 
 + [261人受害 韩国网络性剥削大案主犯被判终身监禁](https://news.cctv.com/2025/11/25/ARTIFowWBLJp35zCnborRRoZ251125.shtml)
 
++ [美国俄勒冈州宣布进入紧急状态 确保燃料供应](https://news.cctv.com/2025/11/25/ARTIfs30bmi0Qb45BwkfNgEP251125.shtml)
+
++ [践诺于行，共同应对气候治理“行动赤字”](https://news.cctv.com/2025/11/25/ARTIfjSrWwhzrEx8eEwJLXrB251125.shtml)
+
++ [特朗普在孟菲斯成立的特别工作组已逮捕数千人](https://news.cctv.com/2025/11/25/ARTI6GL93SeLo6PGftWgVWmA251125.shtml)
+
++ [赖清德当局迎合高市早苗涉台谬论遭台湾各界持续挞伐](https://news.cctv.com/2025/11/25/ARTIQbct7b3YddKn7vZfUKve251125.shtml)
+
++ [韩国发生非洲猪瘟疫情 政府发布“严重”级危机警报](https://news.cctv.com/2025/11/25/ARTILBf1LEML5NQjb0NKnlU7251125.shtml)
+
++ [日本政府设立新机构审查税制和财政支出](https://news.cctv.com/2025/11/25/ARTI5f5GBt3BAkLlmIGYfdt5251125.shtml)
+
