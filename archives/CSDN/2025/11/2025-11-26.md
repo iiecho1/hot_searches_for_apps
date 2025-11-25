@@ -129,3 +129,7 @@
 
 + [计算机网络自顶向下方法49——链路层 链路层交换机（转发和过滤、自学习、链路层交换机的性质、交换机和路由器比较）](https://blog.csdn.net/2501_92707800/article/details/155206528)
 
++ [【AI智能体】n8n AI自动化流程编排平台从部署到使用实战详解](https://blog.csdn.net/zhangcongyi420/article/details/154450605)
+
++ [GitHub 一周热门项目速览](https://blog.csdn.net/u011064099/article/details/155199563)
+

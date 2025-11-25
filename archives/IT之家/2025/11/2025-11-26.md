@@ -47,3 +47,9 @@
 
 + [华为鸿蒙 HarmonyOS 6 网络邻居功能适配机型公布，含 MatePad Pro 13.2、Mini 等平板](https://m.ithome.com/html/899890.htm)
 
++ [华为鸿蒙 HarmonyOS 6 正式版升级计划公布，Mate 70 等多款设备今日开启推送](https://m.ithome.com/html/900135.htm)
+
++ [业界最亮手机屏：华为 Mate 80 Pro Max 首发搭载灵珑屏，1% 窗口局部激发亮度 8000nits](https://m.ithome.com/html/900076.htm)
+
++ [华为首款鸿蒙二合一平板电脑正式发布，售价 5999 元起](https://m.ithome.com/html/900108.htm)
+
