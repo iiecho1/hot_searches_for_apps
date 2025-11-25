@@ -59,3 +59,13 @@
 
 + [网络叫卖数万元手搓飞机？央视起底三无飞机：靠阴阳合同逃避监管](https://m.ithome.com/html/899619.htm)
 
++ [“史上最严”充电宝安全标准曝光：3C 认证全面失效，强制配备屏幕或联网 App](https://m.ithome.com/html/899971.htm)
+
++ [消息称华为 Pura 系列有望切直屏设计，7000mAh 电池新机明年上](https://m.ithome.com/html/899857.htm)
+
++ [消息称 OPPO / vivo / 小米“可能”在 2027-2028 年推出 3D 人脸机型](https://m.ithome.com/html/899861.htm)
+
++ [华为鸿蒙 HarmonyOS 6 网络邻居功能适配机型公布，含 MatePad Pro 13.2、Mini 等平板](https://m.ithome.com/html/899890.htm)
+
++ [华为 Pura 80 系列、Mate 70 Air、XTs 将 OTA 支持星闪音频，但体验略逊于 Mate 80、X7 系列](https://m.ithome.com/html/899923.htm)
+
