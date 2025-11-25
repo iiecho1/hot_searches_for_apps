@@ -173,3 +173,7 @@
 
 + [五种IO模型与非阻塞IO](https://blog.csdn.net/htw250056/article/details/155206250)
 
++ [电力之芯：金仓数据库如何成为发电行业数字化转型的核心引擎](https://blog.csdn.net/weixin_44976692/article/details/155227894)
+
++ [Vue 组件通信全解析：从父子交互到跨层级通信](https://blog.csdn.net/qq_40303030/article/details/154186696)
+
