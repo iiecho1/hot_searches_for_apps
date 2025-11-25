@@ -199,3 +199,7 @@
 
 + [泰国洪灾已致41人死亡 使馆提醒在泰中国公民注意防范](https://news.cctv.com/2025/11/25/ARTIieRS60vh2ZQiM3J4s2c0251125.shtml)
 
++ [拉夫罗夫：俄对美和平计划持欢迎立场 但仍需大量阐释性工作](https://news.cctv.com/2025/11/25/ARTIeRfOhOfhBl6d33CLtZp9251125.shtml)
+
++ [日内瓦会谈：欧盟的“席位”与“声量”](https://news.cctv.com/2025/11/25/ARTI23BQ2o9s4j5Il7ZQVwJ4251125.shtml)
+
