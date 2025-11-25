@@ -189,3 +189,9 @@
 
 + [【Linux】一篇博客教懂你：库的制作](https://blog.csdn.net/2403_84958571/article/details/154978465)
 
++ [第3版•系统集成项目管理工程师（中级） │ 第6章 数据工程](https://blog.csdn.net/qq_41840843/article/details/155140929)
+
++ [▲QPSK调制解调+扩频解扩+FFT频偏估计系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/155228239)
+
++ [Linux系统：策略模式实现自定义日志功能](https://blog.csdn.net/yue_2899799318/article/details/155077669)
+

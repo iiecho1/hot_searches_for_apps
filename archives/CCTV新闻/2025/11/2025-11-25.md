@@ -191,3 +191,9 @@
 
 + [美航天局和波音就削减飞行任务达成一致](https://news.cctv.com/2025/11/25/ARTIIiMIlXNE69ngvJJd0Q2m251125.shtml)
 
++ [日本熊本发生5.7级地震，中领馆提醒注意防范地震灾害](https://news.cctv.com/2025/11/25/ARTIPDMxBSPJ7jw7FP7Vl58W251125.shtml)
+
++ [联合国报告：巴勒斯坦被占领土陷入经济崩溃](https://news.cctv.com/2025/11/25/ARTIUp6UW1pvSGE5uZOyWORz251125.shtml)
+
++ [佩斯科夫：俄方未收到更新后的“19点”和平计划](https://news.cctv.com/2025/11/25/ARTIF1NUlaOrVAIH9Y8dSBcB251125.shtml)
+
