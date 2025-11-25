@@ -133,3 +133,7 @@
 
 + [ollama v0.13.0 发布：DeepSeek-OCR、Cogito-V2.1 全新支持，性能工具 Bench 正式上线](https://blog.csdn.net/weixin_48502062/article/details/155107352)
 
++ [金仓数据库KingbaseES：医疗行业国产化升级的核心支撑与实践标杆](https://blog.csdn.net/lrq13965748542/article/details/155136197)
+
++ [Boost C++ 库在 HarmonyOS PC 上的交叉编译实践](https://blog.csdn.net/2302_79376097/article/details/155204934)
+
