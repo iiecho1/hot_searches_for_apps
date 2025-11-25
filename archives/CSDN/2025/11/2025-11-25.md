@@ -195,3 +195,5 @@
 
 + [Linux系统：策略模式实现自定义日志功能](https://blog.csdn.net/yue_2899799318/article/details/155077669)
 
++ [Redis事务深度解析：在Spring Boot中玩转Redis事务，告别幂等性问题](https://blog.csdn.net/2301_81073317/article/details/155159424)
+

@@ -197,3 +197,5 @@
 
 + [佩斯科夫：俄方未收到更新后的“19点”和平计划](https://news.cctv.com/2025/11/25/ARTIF1NUlaOrVAIH9Y8dSBcB251125.shtml)
 
++ [泰国洪灾已致41人死亡 使馆提醒在泰中国公民注意防范](https://news.cctv.com/2025/11/25/ARTIieRS60vh2ZQiM3J4s2c0251125.shtml)
+
