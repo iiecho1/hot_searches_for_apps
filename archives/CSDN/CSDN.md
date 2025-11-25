@@ -183,3 +183,9 @@
 
 + [设计模式（十二）代理模式 — 用代理控制访问，实现延迟加载、权限控制等功能](https://blog.csdn.net/CSDNUser_zh/article/details/155207464)
 
++ [zoxide 开源鸿蒙 PC 生态适配实战：Rust 交叉编译与 HNP 打包完整指南](https://blog.csdn.net/weixin_62765017/article/details/155232166)
+
++ [一张思维导图理清【Redis】](https://blog.csdn.net/Muyu1uz/article/details/155203599)
+
++ [【Linux】一篇博客教懂你：库的制作](https://blog.csdn.net/2403_84958571/article/details/154978465)
+

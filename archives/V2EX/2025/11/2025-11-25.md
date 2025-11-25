@@ -69,3 +69,5 @@
 
 + [为什么 Python 的包管理这么难用，比 node 的 npm 难用一万倍，每次进入项目都要手动执行一下 conda activate xxx，难道就没有默认的 Python 项目级别的依赖吗？](https://www.v2ex.com/t/1174867)
 
++ [参考了很多回答，还是登不进 Google Antigravity](https://www.v2ex.com/t/1174820)
+
