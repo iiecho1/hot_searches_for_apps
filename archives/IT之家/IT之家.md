@@ -45,3 +45,5 @@
 
 + [华为 Pura 80 系列、Mate 70 Air、XTs 将 OTA 支持星闪音频，但体验略逊于 Mate 80、X7 系列](https://m.ithome.com/html/899923.htm)
 
++ [华为鸿蒙 HarmonyOS 6 网络邻居功能适配机型公布，含 MatePad Pro 13.2、Mini 等平板](https://m.ithome.com/html/899890.htm)
+
