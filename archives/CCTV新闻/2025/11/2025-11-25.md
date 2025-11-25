@@ -171,3 +171,9 @@
 
 + [欧盟理事会批准2026年欧盟预算](https://news.cctv.com/2025/11/25/ARTI6xaJcWtjD3hXxaDRC2KJ251125.shtml)
 
++ [冬奥会圣火火种采集仪式彩排在希腊举行](https://photo.cctv.com/2025/11/25/PHOArQiBdNBPQlnd8rMBZAaV251125.shtml)
+
++ [马来西亚计划禁止16岁以下人群使用社交媒体](https://news.cctv.com/2025/11/25/ARTI7WBRwqPlrwJeQ7njoYLh251125.shtml)
+
++ [261人受害 韩国网络性剥削大案主犯被判终身监禁](https://news.cctv.com/2025/11/25/ARTIFowWBLJp35zCnborRRoZ251125.shtml)
+
