@@ -53,3 +53,7 @@
 
 + [华为首款鸿蒙二合一平板电脑正式发布，售价 5999 元起](https://m.ithome.com/html/900108.htm)
 
++ [华为 Mate 80 系列手机重点参数配置差异公布，一表看懂](https://m.ithome.com/html/900207.htm)
+
++ [华为 Mate X7 / Mate 80 系列手机不支持变更为 HarmonyOS 4 / 5 版本](https://m.ithome.com/html/900178.htm)
+

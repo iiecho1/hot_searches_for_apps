@@ -161,3 +161,7 @@
 
 + [G20峰会在南非开幕 拉马福萨强调多边合作应对全球挑战](https://news.cctv.com/2025/11/22/ARTI4vYS7PnVEN9HAizRksb1251122.shtml)
 
++ [联合国正式启动下任秘书长遴选程序](https://news.cctv.com/2025/11/26/ARTI2G5KtiCRvptiNAdsZt4Q251126.shtml)
+
++ [泽连斯基拟于27日与特朗普会面 以达成和平协议](https://news.cctv.com/2025/11/26/ARTIxLXHQ3JSsBw1AqTyg0Is251126.shtml)
+
