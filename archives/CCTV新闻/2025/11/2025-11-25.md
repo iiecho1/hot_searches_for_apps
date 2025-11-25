@@ -203,3 +203,19 @@
 
 + [日内瓦会谈：欧盟的“席位”与“声量”](https://news.cctv.com/2025/11/25/ARTI23BQ2o9s4j5Il7ZQVwJ4251125.shtml)
 
++ [美乌官员称乌克兰已原则同意美国提出的和平协议](https://news.cctv.com/2025/11/25/ARTIW0xConVWjOYcYjSlkNKr251125.shtml)
+
++ [苏丹政府：快速支援部队宣布单方面人道停火是“欺骗国际社会”](https://news.cctv.com/2025/11/25/ARTI3xnLxkS2DhULIngKReuF251125.shtml)
+
++ [卢浮宫劫案4名现场作案嫌疑人全部落网](https://news.cctv.com/2025/11/25/ARTIA8GZozx3bASAel5YPRkO251125.shtml)
+
++ [委内瑞拉副总统称美国言论太荒谬](https://news.cctv.com/2025/11/25/ARTIU67P3wxlgZ3xMo8Rk528251125.shtml)
+
++ [孟加拉国达卡一贫民窟发生火灾](https://news.cctv.com/2025/11/25/ARTIPQvAdew65ITwTkZ4wCe1251125.shtml)
+
++ [巴基斯坦公布11月伊斯兰堡爆炸袭击案调查情况](https://news.cctv.com/2025/11/25/ARTIZetX8GQVjheYZpFcfhwL251125.shtml)
+
++ [旅法中国大熊猫“欢欢”“圆仔”启程回国](https://news.cctv.com/2025/11/25/ARTIpa2RugrACgaAEDUU95Ut251125.shtml)
+
++ [法国卢浮宫盗窃案第四名嫌疑犯落网](https://news.cctv.com/2025/11/25/ARTIlw2hCSwzjrHaln1A2lQq251125.shtml)
+

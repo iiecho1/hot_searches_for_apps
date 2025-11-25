@@ -89,3 +89,5 @@
 
 + [业界最亮手机屏：华为 Mate 80 Pro Max 首发搭载灵珑屏，1% 窗口局部激发亮度 8000nits](https://m.ithome.com/html/900076.htm)
 
++ [华为首款鸿蒙二合一平板电脑正式发布，售价 5999 元起](https://m.ithome.com/html/900108.htm)
+
