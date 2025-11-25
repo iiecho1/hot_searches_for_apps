@@ -189,3 +189,5 @@
 
 + [日本政府设立新机构审查税制和财政支出](https://news.cctv.com/2025/11/25/ARTI5f5GBt3BAkLlmIGYfdt5251125.shtml)
 
++ [美航天局和波音就削减飞行任务达成一致](https://news.cctv.com/2025/11/25/ARTIIiMIlXNE69ngvJJd0Q2m251125.shtml)
+
