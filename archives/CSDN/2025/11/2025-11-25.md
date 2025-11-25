@@ -145,3 +145,11 @@
 
 + [FPGA+RISC-V架构解析：构建高效传感器数据采集系统](https://blog.csdn.net/wisdom_19860320/article/details/155164244)
 
++ [Dubbo工作原理深度解析：从微服务调用到底层通信的完整架构](https://blog.csdn.net/qq_44378083/article/details/155132614)
+
++ [Doubao-Seed-Code 深度解析：原生视觉 × 强化学习驱动的下一代 Agentic 编程](https://blog.csdn.net/weixin_62765017/article/details/155132482)
+
++ [WebSocket 与 MQTT 在即时通讯中的深度对比与架构选型指南](https://blog.csdn.net/csdn_silent/article/details/155195130)
+
++ [找工作变容易了](https://blog.csdn.net/baidu_18995091/article/details/155139941)
+
