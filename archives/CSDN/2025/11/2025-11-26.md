@@ -191,3 +191,5 @@
 
 + [金仓数据库引领新能源行业数字化转型：案例深度解析与领导力展现](https://blog.csdn.net/beautifulmemory/article/details/155168434)
 
++ [基于多个大模型自己建造一个AI智能助手](https://blog.csdn.net/cnds123/article/details/155228249)
+
