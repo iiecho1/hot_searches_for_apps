@@ -37,3 +37,19 @@
 
 + [法拉利大战迈凯轮：京东外卖骑手内测新工服曝光，与淘宝闪购“红橙对决”](https://m.ithome.com/html/900415.htm)
 
++ [华为 Mate 80 系列手机重点参数配置差异公布，一表看懂](https://m.ithome.com/html/900207.htm)
+
++ [无 G 时代结束：华为 Mate 80 系列手机 5A 速度“转正”，信号栏可见](https://m.ithome.com/html/900146.htm)
+
++ [华为鸿蒙 HarmonyOS 6 正式版升级计划公布，Mate 70 等多款设备今日开启推送](https://m.ithome.com/html/900135.htm)
+
++ [华为 Mate X7 / Mate 80 系列手机不支持变更为 HarmonyOS 4 / 5 版本](https://m.ithome.com/html/900178.htm)
+
++ [搭载麒麟 9020～9030 Pro：华为 Mate 80 系列京东限时补货，赠至高 1000 元日日签红包](https://m.ithome.com/html/900204.htm)
+
++ [华为李小龙详解 Mate 80 Pro Max / RS 侧面顶部细开口，可降低通话漏音](https://m.ithome.com/html/900150.htm)
+
++ [双 eSIM 加持：华为 Mate 80 RS 非凡大师最多支持四个号码，可同时使用两个](https://m.ithome.com/html/900157.htm)
+
++ [学生 5599 元 / 首发 5899 元：华为 MatePad Edge 鸿蒙二合一平板电脑赠 1 年延保 + 2 年电池保](https://m.ithome.com/html/900149.htm)
+

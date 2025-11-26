@@ -125,3 +125,11 @@
 
 + [在 MySQL 里，不建议使用长事务的根因](https://blog.csdn.net/linsongbin1/article/details/155227651)
 
++ [魔珐星云 SDK 实战测评：告别繁复渲染，快速解锁专属数字人应用搭建新体验](https://blog.csdn.net/qq_57761637/article/details/155264663)
+
++ [PyTorch实战（12）——图神经网络（Graph Neural Network，GNN）](https://blog.csdn.net/LOVEmy134611/article/details/150378982)
+
++ [基于Proto3和单例模式的系统参数配置模块设计(附C++案例实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/155203502)
+
++ [新一代MaaS平台：AiOnly如何用融合模式实现GPT模型+知识库+组件一体化](https://blog.csdn.net/Mrxiao_bo/article/details/155239697)
+
