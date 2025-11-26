@@ -191,3 +191,5 @@
 
 + [阿根廷政府宣布成立国家移民局](https://news.cctv.com/2025/11/26/ARTIAUo1IgbQn3d9IXUqEqVO251126.shtml)
 
++ [联合国报告：艾滋病防治遭遇阻碍 全球应重塑应对措施](https://news.cctv.com/2025/11/26/ARTIWTnoB2bxsvrEPicdFtQW251126.shtml)
+
