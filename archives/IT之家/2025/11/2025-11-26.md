@@ -57,3 +57,19 @@
 
 + [华为 Mate X7 / Mate 80 系列手机不支持变更为 HarmonyOS 4 / 5 版本](https://m.ithome.com/html/900178.htm)
 
++ [华为 Mate 80 系列 | X7 发布会一文汇总：麒麟 9030 / Pro 首曝、非凡大师首搭 eSIM 技术](https://m.ithome.com/html/900198.htm)
+
++ [搭载麒麟 9020～9030 Pro：华为 Mate 80 系列京东限时补货，赠至高 1000 元日日签红包](https://m.ithome.com/html/900204.htm)
+
++ [华为李小龙详解 Mate 80 Pro Max / RS 侧面顶部细开口，可降低通话漏音](https://m.ithome.com/html/900150.htm)
+
++ [双 eSIM 加持：华为 Mate 80 RS 非凡大师最多支持四个号码，可同时使用两个](https://m.ithome.com/html/900157.htm)
+
++ [华为 Mate X7 折叠屏旗舰手机全系搭载麒麟 9030 Pro 处理器，典藏版独占 16 / 20GB 运存](https://m.ithome.com/html/900239.htm)
+
++ [学生 5599 元 / 首发 5899 元：华为 MatePad Edge 鸿蒙二合一平板电脑赠 1 年延保 + 2 年电池保](https://m.ithome.com/html/900149.htm)
+
++ [华为 Mate 80 Pro Max 全金属机身暗藏四字彩蛋：光绘微纹“MATE”](https://m.ithome.com/html/900237.htm)
+
++ [华为 Mate 80 系列手机新增智感握姿功能，来电通知按键可智能调整位置](https://m.ithome.com/html/900229.htm)
+
