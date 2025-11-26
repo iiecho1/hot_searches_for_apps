@@ -165,3 +165,9 @@
 
 + [泽连斯基拟于27日与特朗普会面 以达成和平协议](https://news.cctv.com/2025/11/26/ARTIxLXHQ3JSsBw1AqTyg0Is251126.shtml)
 
++ [土耳其马尔马拉海上的泊船](https://photo.cctv.com/2025/11/26/PHOAGliCtosV60OtlNg46Ok1251126.shtml)
+
++ [印尼山体滑坡遇难人数升至17人](https://news.cctv.com/2025/11/26/ARTInaKxKZDR5JT2F4nw4mmR251126.shtml)
+
++ [俄罗斯图-160战略轰炸机完成北冰洋上空飞行任务](https://news.cctv.com/2025/11/26/ARTIRoaeX9ki0gTgMb4BAvMA251126.shtml)
+
