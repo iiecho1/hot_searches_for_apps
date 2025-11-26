@@ -185,3 +185,9 @@
 
 + [Spring Boot 集成 mybatis 浅析](https://blog.csdn.net/chxii/article/details/155165599)
 
++ [基于Python深度学习的车辆车牌识别系统（PyTorch2卷积神经网络CNN+OpenCV4实现）视频教程 - 自定义字符图片数据集](https://blog.csdn.net/caoli201314/article/details/155222720)
+
++ [【自动驾驶】Autoware 三大版本 ( Autoware.AI | Autoware.Auto | Autoware Core/Universe )](https://blog.csdn.net/han1202012/article/details/155091805)
+
++ [金仓数据库引领新能源行业数字化转型：案例深度解析与领导力展现](https://blog.csdn.net/beautifulmemory/article/details/155168434)
+

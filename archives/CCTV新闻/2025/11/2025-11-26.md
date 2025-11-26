@@ -201,3 +201,5 @@
 
 + [印尼多地发生洪水及山体滑坡 已致13人死亡](https://news.cctv.com/2025/11/26/ARTIZbDZjYIAbNQexvFdCRkq251126.shtml)
 
++ [法国卢浮宫盗窃案又有4人被捕 被盗珠宝仍下落不明](https://news.cctv.com/2025/11/26/ARTIV4hxZVt9ssVh4MmLOQvL251126.shtml)
+
