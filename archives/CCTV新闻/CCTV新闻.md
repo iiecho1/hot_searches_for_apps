@@ -163,3 +163,9 @@
 
 + [几内亚比绍军方宣布接管国家权力](https://news.cctv.com/2025/11/27/ARTIYlAVXGOGIPJoEjxJItuV251127.shtml)
 
++ [韩国发射自研运载火箭“世界”号](https://news.cctv.com/2025/11/27/ARTIpcSxmZd9CfnKXfahBbpd251127.shtml)
+
++ [委内瑞拉谴责美国犯下反人类罪行 欢迎与特朗普直接对话](https://news.cctv.com/2025/11/27/ARTIFTceoNTQR0Mj2HksfXmg251127.shtml)
+
++ [白宫附近发生枪击 两名国民警卫队员死亡](https://news.cctv.com/2025/11/27/ARTI1fJYOYXeij1qLNHpEUxc251127.shtml)
+
