@@ -101,3 +101,25 @@
 
 + [基于Echarts+HTML5可视化数据大屏展示-物流大数据展示](https://blog.csdn.net/qq_36595761/article/details/155170782)
 
++ [Scikit-learn全流程指南：Python机器学习项目实战](https://blog.csdn.net/qq_34419312/article/details/155206598)
+
++ [金仓数据库国产化转型实战：新能源企业的深度体验报告](https://blog.csdn.net/qq_32682301/article/details/155212458)
+
++ [Boost C++ 库在 HarmonyOS PC 上的交叉编译实践](https://blog.csdn.net/2302_79376097/article/details/155204934)
+
++ [消息推送机制——WebSocket](https://blog.csdn.net/2402_85428625/article/details/155170949)
+
++ [LabVIEW焊接机器人检测系统](https://blog.csdn.net/bjcyck/article/details/155206193)
+
++ [exa 在 HarmonyOS 上的构建与适配](https://blog.csdn.net/qq_61024956/article/details/155204037)
+
++ [tokei 在鸿蒙PC上的构建与适配](https://blog.csdn.net/m0_52827996/article/details/155204427)
+
++ [Electron 与鸿蒙 DevEco Studio 的融合实战：从 WebView 到安全 IPC 架构迁移指南](https://blog.csdn.net/2302_80329073/article/details/155231312)
+
++ [微软发布全新一代 Arm 架构云原生处理器 Cobalt 200](https://blog.csdn.net/Leinwin/article/details/155232905)
+
++ [【IoTDB】从InfluxDB到IoTDB：工业时序数据处理的技术演进与选型逻辑](https://blog.csdn.net/Morse_Chen/article/details/155169369)
+
++ [【MySQL】基本查询](https://blog.csdn.net/2401_87116511/article/details/155153938)
+
