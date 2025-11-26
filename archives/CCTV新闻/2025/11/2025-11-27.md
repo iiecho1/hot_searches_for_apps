@@ -161,3 +161,5 @@
 
 + [“政府效率部”歇了？美国主管官员：非实情](https://news.cctv.com/2025/11/24/ARTISUTUPJZPAtfZ2zJlCGJX251124.shtml)
 
++ [几内亚比绍军方宣布接管国家权力](https://news.cctv.com/2025/11/27/ARTIYlAVXGOGIPJoEjxJItuV251127.shtml)
+
