@@ -163,3 +163,15 @@
 
 + [【跟我学YOLO】（3）训练 YOLO11 图像分割模型](https://blog.csdn.net/youcans/article/details/155126728)
 
++ [AI芯片设计实战：用Verilog高级综合技术优化神经网络加速器功耗与性能](https://blog.csdn.net/wisdom_19860320/article/details/155199916)
+
++ [农产品销售|农产品供销|基于SprinBoot+vue的农产品供销系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/155226439)
+
++ [【仿真测试】基于FPGA的完整16QAM通信链路实现,含频偏锁定,帧同步,定时点,Viterbi译码,信道,误码统计](https://blog.csdn.net/hlayumi1234567/article/details/155190744)
+
++ [【Linux操作系统】简学深悟启示录：线程概念与控制](https://blog.csdn.net/Zero_VPN/article/details/154871527)
+
++ [10000次随机抽样，1个物理模型，C#蒙特卡洛如何破解生物密码？](https://blog.csdn.net/z_344791576/article/details/151689097)
+
++ [Maven的分发管理与依赖拉取](https://blog.csdn.net/weixin_73060959/article/details/155192388)
+

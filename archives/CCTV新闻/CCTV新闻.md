@@ -185,3 +185,9 @@
 
 + [航母救灾！泰国宋卡府因洪灾进入紧急状态](https://news.cctv.com/2025/11/26/ARTIbmW08JsAkSb5nq2oncuu251126.shtml)
 
++ [韩国检方要求判处前国务总理韩德洙15年监禁](https://news.cctv.com/2025/11/26/ARTITlRfhA8kicWiVUB55bn2251126.shtml)
+
++ [因国防支出增加 德国等欧盟成员赤字超标](https://news.cctv.com/2025/11/26/ARTI8gOQZgC1DGSHABbljdaH251126.shtml)
+
++ [阿根廷政府宣布成立国家移民局](https://news.cctv.com/2025/11/26/ARTIAUo1IgbQn3d9IXUqEqVO251126.shtml)
+
