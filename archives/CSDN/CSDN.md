@@ -153,3 +153,13 @@
 
 + [从零到上线：Node.js 项目的完整部署流程（包含 Docker 和 CICD）](https://blog.csdn.net/2509_94007059/article/details/155180085)
 
++ [mysql实战项目：keepalived高可用双主架构集群+数据监控（附解析和命令）](https://blog.csdn.net/2301_79481320/article/details/155075834)
+
++ [国产化数据库标杆：金仓技术优势与新能源落地案例](https://blog.csdn.net/lrq13965748542/article/details/155191826)
+
++ [AsNumpy技术深潜：为昇腾NPU重构Python数据科学栈的架构革命](https://blog.csdn.net/sinat_41617212/article/details/155203298)
+
++ [华为光学工程师笔试真题（含答案与深度解析）](https://blog.csdn.net/m0_68553508/article/details/155198380)
+
++ [【跟我学YOLO】（3）训练 YOLO11 图像分割模型](https://blog.csdn.net/youcans/article/details/155126728)
+
