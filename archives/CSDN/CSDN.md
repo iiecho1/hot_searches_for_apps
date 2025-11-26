@@ -123,3 +123,5 @@
 
 + [【MySQL】基本查询](https://blog.csdn.net/2401_87116511/article/details/155153938)
 
++ [在 MySQL 里，不建议使用长事务的根因](https://blog.csdn.net/linsongbin1/article/details/155227651)
+
