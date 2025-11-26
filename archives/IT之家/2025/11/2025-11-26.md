@@ -73,3 +73,19 @@
 
 + [华为 Mate 80 系列手机新增智感握姿功能，来电通知按键可智能调整位置](https://m.ithome.com/html/900229.htm)
 
++ [华与华董事长华杉称西贝被人算计，罗永浩要求其必须公开道歉](https://m.ithome.com/html/900367.htm)
+
++ [六点已过，华与华董事长华杉暂未向罗永浩公开道歉](https://m.ithome.com/html/900468.htm)
+
++ [华为 Mate 80 系列手机确认不支持磁吸，可搭配官方磁吸支架保护壳实现相关功能](https://m.ithome.com/html/900388.htm)
+
++ [李肖爽回应“小米汽车 M 系列又撞人”：与小米完全无关，没有 M7 型号产品](https://m.ithome.com/html/900403.htm)
+
++ [华为 Mate 80 / Mate X7 手机全系支持自研 Wi-Fi 7+ 芯片级协同技术](https://m.ithome.com/html/900224.htm)
+
++ [高通第五代骁龙 8（骁龙 8 Gen 5）处理器发布：CPU 性能提升 36%，一加 Ace 6T 全球首发](https://m.ithome.com/html/900375.htm)
+
++ [1299 元起的“手机袜套”卖光了，苹果 iPhone Pocket 所有地区均已售罄](https://m.ithome.com/html/900236.htm)
+
++ [苹果宣布北京 Apple Store 直营店支持国补，5499 元可买 iPhone 17 256GB](https://m.ithome.com/html/900446.htm)
+

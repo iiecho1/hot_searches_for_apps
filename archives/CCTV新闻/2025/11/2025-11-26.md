@@ -211,3 +211,15 @@
 
 + [俄称已通过非正式渠道获取“和平计划”的文本材料](https://news.cctv.com/2025/11/26/ARTIJR4Y0FkO67F9LAYa1z46251126.shtml)
 
++ [俄回应“和平计划”：绝无可能作出任何让步](https://news.cctv.com/2025/11/26/ARTIgE7b7EuBtyBCvgoMDI9s251126.shtml)
+
++ [外交部：日方应诚实、准确、完整地讲清其所谓“一贯立场”](https://news.cctv.com/2025/11/26/ARTIdMUVokPUixYjv2UU4Gtt251126.shtml)
+
++ [日本飞中国境内的民航旅客量环比增长约11%](https://news.cctv.com/2025/11/26/ARTIoQ4VNQiLWMnnxigNO6P7251126.shtml)
+
++ [佩斯科夫：现在谈论乌克兰和平协议即将达成为时尚早](https://news.cctv.com/2025/11/26/ARTIuicBq9xbQuJ9B9MX6HoK251126.shtml)
+
++ [石破茂再批高市早苗言论 强调与中国关系重要性](https://news.cctv.com/2025/11/26/ARTIeWQe6xE1NrTO2mQ6oJfc251126.shtml)
+
++ [欧洲议会通过欧盟2026年年度预算案](https://news.cctv.com/2025/11/26/ARTI4TXfLeAVyu7vagU4Pe1M251126.shtml)
+
