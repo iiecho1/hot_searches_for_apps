@@ -171,3 +171,17 @@
 
 + [俄罗斯图-160战略轰炸机完成北冰洋上空飞行任务](https://news.cctv.com/2025/11/26/ARTIRoaeX9ki0gTgMb4BAvMA251126.shtml)
 
++ [越南近期洪水与山体滑坡已致98人死亡](https://news.cctv.com/2025/11/26/ARTIKZFcVVk6FDFCaALvVomS251126.shtml)
+
++ [发生“重大事故”后 日本暂时停飞一款大型无人机](https://news.cctv.com/2025/11/26/ARTINBBEXh5e24rENG5wGT6F251126.shtml)
+
++ [台风“天琴”致菲律宾2人失踪 超27万人受灾](https://news.cctv.com/2025/11/26/ARTIbjdlgFkwFnx27sHGYaJD251126.shtml)
+
++ [习近平主席贺信为全球能源市场注入更多确定性](https://news.cctv.com/2025/11/26/ARTI0wVw5kRii6WsLQWT3iHz251126.shtml)
+
++ [专家：必须坚决阻击日本右翼势力妄图复活军国主义的危险动向](https://news.cctv.com/2025/11/26/ARTIR9KAuo92xWBlRsuCXbp6251126.shtml)
+
++ [“高市早苗的言行是亵渎历史正义”](https://news.cctv.com/2025/11/26/ARTIHN1l5nWGu6iVMZuOfQbo251126.shtml)
+
++ [航母救灾！泰国宋卡府因洪灾进入紧急状态](https://news.cctv.com/2025/11/26/ARTIbmW08JsAkSb5nq2oncuu251126.shtml)
+
