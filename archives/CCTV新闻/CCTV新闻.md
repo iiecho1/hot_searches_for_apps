@@ -193,3 +193,11 @@
 
 + [联合国报告：艾滋病防治遭遇阻碍 全球应重塑应对措施](https://news.cctv.com/2025/11/26/ARTIWTnoB2bxsvrEPicdFtQW251126.shtml)
 
++ [美联邦调查局约谈“煽动叛乱”的民主党议员](https://news.cctv.com/2025/11/26/ARTInFeyaECGSCzSWJpXgVQL251126.shtml)
+
++ [英国政府表示支持希思罗机场490亿英镑扩建方案](https://news.cctv.com/2025/11/26/ARTIgJAwVKffixHVLxZ5e16j251126.shtml)
+
++ [美对韩产汽车及汽车零部件关税自本月1日起降至15%](https://news.cctv.com/2025/11/26/ARTIhAKBqvx5Bm1TDEuJOC97251126.shtml)
+
++ [印尼多地发生洪水及山体滑坡 已致13人死亡](https://news.cctv.com/2025/11/26/ARTIZbDZjYIAbNQexvFdCRkq251126.shtml)
+
