@@ -197,3 +197,5 @@
 
 + [联合国机构警告刚果（金）南基伍省局势迅速恶化](https://news.cctv.com/2025/11/27/ARTI4lpWSXzMZicjJdSzaBUu251127.shtml)
 
++ [印尼伊布火山喷发 火山灰柱高约800米](https://news.cctv.com/2025/11/27/ARTIQH5AQpqQkjaIGrT8x5IZ251127.shtml)
+
