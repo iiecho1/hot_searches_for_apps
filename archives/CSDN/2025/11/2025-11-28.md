@@ -133,3 +133,17 @@
 
 + [ssh远程访问另一台windows(可扩展到docker环境)](https://blog.csdn.net/weixin_62858623/article/details/155230839)
 
++ [AI 最先替代的开发工作：从重复劳动到人机协同的新范式](https://blog.csdn.net/csdn_silent/article/details/155222159)
+
++ [Perforce《2025游戏技术现状报告》Part 1：游戏引擎技术的广泛影响以及生成式AI的成熟之路](https://blog.csdn.net/weixin_49715102/article/details/155228739)
+
++ [Java 大视界 -- Java 大数据在智能物流无人配送车路径规划与协同调度中的应用](https://blog.csdn.net/atgfg/article/details/155270687)
+
++ [光影交织：基于Rokid AI眼镜的沉浸式影视剧情互动体验开发实战](https://blog.csdn.net/2401_86326742/article/details/155319995)
+
++ [HarmonyOS Map Kit 开发全攻略：地图集成、标记控制与定位融合](https://blog.csdn.net/xiaokangzhao_/article/details/155287069)
+
++ [【大模型后训练专题】LoRA原理及实现](https://blog.csdn.net/weixin_51908696/article/details/155320173)
+
++ [物联网 (IoT)：初学者指南](https://blog.csdn.net/u014674420/article/details/155226061)
+

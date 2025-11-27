@@ -33,3 +33,9 @@
 
 + [华为 Mate 80 手机全系支持音质设置，可调尊享、舒享、静享三种模式](https://m.ithome.com/html/900508.htm)
 
++ [售 17.99 万元起，2026 款大众迈腾上市](https://m.ithome.com/html/900493.htm)
+
++ [华为畅连无网通信适配机型公布：Pura 80 全系、nova 14 Ultra 等升级 HarmonyOS 6.0.0.115 可用](https://m.ithome.com/html/900480.htm)
+
++ [华为推出 Mate 80/Pro/ Pro Max 手机微泵液冷壳：全包设计，售价 299 元](https://m.ithome.com/html/900487.htm)
+
