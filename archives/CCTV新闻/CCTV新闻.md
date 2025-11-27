@@ -203,3 +203,15 @@
 
 + [马来西亚洪灾已致2人遇难 受灾人数超3.3万人](https://news.cctv.com/2025/11/27/ARTIa2SFdIAK4rJRfIqHfFc2251127.shtml)
 
++ [巴西批准世界首款单剂登革热疫苗](https://news.cctv.com/2025/11/27/ARTIpdmePgfajhRKxYpTo9nY251127.shtml)
+
++ [政治分歧加剧 日本维新会或退出执政联盟](https://news.cctv.com/2025/11/27/ARTIxBnvtXab1I2TMFZtZnUG251127.shtml)
+
++ [法国总统府：马克龙将访华](https://news.cctv.com/2025/11/27/ARTIyah5J8xkowPjeKakdLxi251127.shtml)
+
++ [普京访吉尔吉斯斯坦期间试弹传统乐器库姆孜，卢卡申科在身后聆听](https://news.cctv.com/2025/11/27/ARTIqssHthn2sBkUPcoZ8qDs251127.shtml)
+
++ [巴西批准世界首款单剂登革热疫苗](https://news.cctv.com/2025/11/27/ARTIMIMtBDVLSuzZfgsVFYCD251127.shtml)
+
++ [中国驻泰国大使馆对泰国近期遭受严重洪灾表达慰问](https://news.cctv.com/2025/11/27/ARTIroXSNGuvNlxxwCMrOMDs251127.shtml)
+
