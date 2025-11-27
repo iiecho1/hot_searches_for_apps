@@ -193,3 +193,7 @@
 
 + [美国民警卫队成员在华盛顿遭袭 特朗普下令增兵](https://news.cctv.com/2025/11/27/ARTIODayCsjlao0dZ8tONMdq251127.shtml)
 
++ [特朗普称不邀请南非参加G20峰会](https://news.cctv.com/2025/11/27/ARTIAmKzhMMFosu3x2hhApG5251127.shtml)
+
++ [联合国机构警告刚果（金）南基伍省局势迅速恶化](https://news.cctv.com/2025/11/27/ARTI4lpWSXzMZicjJdSzaBUu251127.shtml)
+

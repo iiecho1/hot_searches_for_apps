@@ -143,3 +143,11 @@
 
 + [MCU 时钟系统全解析：主时钟、PLL、分频与外设时钟门控](https://blog.csdn.net/2401_84382970/article/details/155234257)
 
++ [Java 大视界 -- Java 大数据在智能教育学生心理健康监测与干预中的应用](https://blog.csdn.net/atgfg/article/details/155195495)
+
++ [MySQL数据完整性的方法](https://blog.csdn.net/2511_94359082/article/details/155198700)
+
++ [单体VS微服务：架构选择实战指南](https://blog.csdn.net/summer_fish/article/details/155230366)
+
++ [Jenkins 全面详解](https://blog.csdn.net/m0_60821938/article/details/155194925)
+
