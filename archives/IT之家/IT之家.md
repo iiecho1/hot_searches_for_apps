@@ -25,3 +25,11 @@
 
 + [鸿蒙智行发言人：近期识别到网上大量集中攻击，将坚决追究到底](https://m.ithome.com/html/900583.htm)
 
++ [Mate 正代旗舰再现 HUAWEI Kirin：华为 Mate 80 系列手机支持设置页面显示处理器](https://m.ithome.com/html/900506.htm)
+
++ [华为 Mate 80 / X7 系列手机 HarmonyOS 6 系统亮点一览，支持 A2A 智能体协作、鸿蒙智能追焦等](https://m.ithome.com/html/900523.htm)
+
++ [经典指纹滑动功能回归：华为 Mate 80 系列手机支持智控键下滑打开通知中心](https://m.ithome.com/html/900514.htm)
+
++ [华为 Mate 80 手机全系支持音质设置，可调尊享、舒享、静享三种模式](https://m.ithome.com/html/900508.htm)
+

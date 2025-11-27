@@ -101,3 +101,15 @@
 
 + [如何用ai做开发](https://blog.csdn.net/2501_91812691/article/details/155285005)
 
++ [猫头虎AI开源项目分享：如何手搓了一套AI导盲眼镜，可以盲道导航、过马路辅助、物品识别、实时语音交互，方案开源](https://blog.csdn.net/qq_44866828/article/details/155227104)
+
++ [智绘未来：当 DeepSeek 遇上百度地图](https://blog.csdn.net/yelangkingwuzuhu/article/details/155285414)
+
++ [开源模型应用落地-工具使用篇-Spring AI-高阶用法（九）](https://blog.csdn.net/2509_94228774/article/details/155232105)
+
++ [【监控】Spring Boot+Prometheus+Grafana实现可视化监控](https://blog.csdn.net/2509_94189925/article/details/155230529)
+
++ [VLM经典论文阅读：【综述】An Introduction to Vision-Language Modeling](https://blog.csdn.net/qq_60587145/article/details/155206472)
+
++ [C++在游戏中的CryEngine](https://blog.csdn.net/2509_93941399/article/details/155211311)
+
