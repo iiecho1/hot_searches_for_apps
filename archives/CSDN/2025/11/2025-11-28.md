@@ -113,3 +113,23 @@
 
 + [C++在游戏中的CryEngine](https://blog.csdn.net/2509_93941399/article/details/155211311)
 
++ [第二章 Spring中的Bean](https://blog.csdn.net/2509_94186448/article/details/155232942)
+
++ [7个“量子纠缠“技巧：.NET中实现MongoDB数据“量子化“的终极指南](https://blog.csdn.net/z_344791576/article/details/151689404)
+
++ [兼容百模 + 降本 80%：GMI Cloud 推理引擎破解多模型集成困局](https://blog.csdn.net/egoist2023/article/details/155207930)
+
++ [量子纠缠：颠覆认知的宇宙密码](https://blog.csdn.net/jiushun_suanli/article/details/155226322)
+
++ [C++在音视频处理中的库](https://blog.csdn.net/2509_93947330/article/details/155212195)
+
++ [HarmonyOS在智能家居中的场景联动](https://blog.csdn.net/2509_93945719/article/details/155219216)
+
++ [对Docker部署的MySQL中的数据进行备份恢复](https://blog.csdn.net/2509_94228395/article/details/155231976)
+
++ [十七：Spring Boot依赖 （2）-- spring-boot-starter-web 依赖详解](https://blog.csdn.net/2509_94199773/article/details/155231205)
+
++ [非对称加密：彻底解决密钥分发难题的数字安全革命](https://blog.csdn.net/qq_51553749/article/details/155224165)
+
++ [ssh远程访问另一台windows(可扩展到docker环境)](https://blog.csdn.net/weixin_62858623/article/details/155230839)
+
