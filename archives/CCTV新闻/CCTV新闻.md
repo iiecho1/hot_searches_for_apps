@@ -169,3 +169,27 @@
 
 + [白宫附近发生枪击 两名国民警卫队员死亡](https://news.cctv.com/2025/11/27/ARTI1fJYOYXeij1qLNHpEUxc251127.shtml)
 
++ [中方再次严肃敦促日方加快处理在华遗弃化武进程](https://news.cctv.com/2025/11/27/ARTISbTKBzpgMr8YfIZRwggu251127.shtml)
+
++ [事事关心 | 高市早苗言行挑衅 违背法理危及和平](https://news.cctv.com/2025/11/27/ARTIpnd36I6yOC85We2vF5M4251127.shtml)
+
++ [日本知名学者痛批：高市错误言论暴露其外交无能](https://news.cctv.com/2025/11/27/ARTIblINvkQONh9LH77Na1ZZ251127.shtml)
+
++ [野田佳彦质问高市早苗：对于日中关系恶化，你认为自己应承担什么责任？](https://news.cctv.com/2025/11/27/ARTItB4xlRhGasY4yz7Hi3yv251127.shtml)
+
++ [墨西哥央行下调2025年国家经济增长预期至0.3%](https://news.cctv.com/2025/11/27/ARTIfLkFWCuCpqCYpQBZs2e7251127.shtml)
+
++ [美执法官员：枪击国民警卫队员的嫌疑人身份已确认](https://news.cctv.com/2025/11/27/ARTIGnNgx3uGuBqW9dyaenzT251127.shtml)
+
++ [英国利物浦汽车撞人事件嫌疑人认罪](https://news.cctv.com/2025/11/27/ARTI2FbOlFMZg5JvH0VEbqmL251127.shtml)
+
++ [韩国“世界”号运载火箭第四次发射取得成功](https://news.cctv.com/2025/11/27/ARTIgcZs4042m7Ok0B0YIRpS251127.shtml)
+
++ [哥伦比亚外交部重申支持一个中国原则](https://news.cctv.com/2025/11/27/ARTImYZK8G5ICArPFxqPEZzY251127.shtml)
+
++ [俄副外长：俄方不会放弃立场或作出任何让步](https://news.cctv.com/2025/11/27/ARTIEU0GuX2CEHTSNddQziLB251127.shtml)
+
++ [儿基会：停火协议生效一年 黎巴嫩儿童仍遭伤害](https://news.cctv.com/2025/11/27/ARTIXbV7gu3SrDHgFXgWcbDf251127.shtml)
+
++ [美国民警卫队成员在华盛顿遭袭 特朗普下令增兵](https://news.cctv.com/2025/11/27/ARTIODayCsjlao0dZ8tONMdq251127.shtml)
+
