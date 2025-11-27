@@ -69,3 +69,7 @@
 
 + [华为 Mate X7 折叠屏手机发布：12999 元起，全新玄武架构、首次比肩直板旗舰影像](https://m.ithome.com/html/900094.htm)
 
++ [售 17.99 万元起，2026 款大众迈腾上市](https://m.ithome.com/html/900493.htm)
+
++ [华为 Mate 80 / X7 系列手机 HarmonyOS 6 系统亮点一览，支持 A2A 智能体协作、鸿蒙智能追焦等](https://m.ithome.com/html/900523.htm)
+

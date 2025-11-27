@@ -167,3 +167,9 @@
 
 + [【顶级EI复现】分布式电源选址定容的多目标优化算法（Matlab代码实现）](https://blog.csdn.net/weixin_66436111/article/details/155210689)
 
++ [C++在游戏中的场景管理](https://blog.csdn.net/2509_93946182/article/details/155211493)
+
++ [C++ 高级编程：结构体元数据信息提取](https://blog.csdn.net/liulilittle/article/details/155227461)
+
++ [VLM经典论文阅读：【综述】An Introduction to Vision-Language Modeling](https://blog.csdn.net/qq_60587145/article/details/155206472)
+

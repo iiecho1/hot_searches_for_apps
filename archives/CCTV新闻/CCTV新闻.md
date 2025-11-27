@@ -215,3 +215,9 @@
 
 + [中国驻泰国大使馆对泰国近期遭受严重洪灾表达慰问](https://news.cctv.com/2025/11/27/ARTIroXSNGuvNlxxwCMrOMDs251127.shtml)
 
++ [英国拟继续加税扩支提振经济](https://news.cctv.com/2025/11/27/ARTIXhI5taOlgRWN0xZL6izE251127.shtml)
+
++ [尼日利亚全国进入安全紧急状态](https://news.cctv.com/2025/11/27/ARTI35zSANzJZMbAeSMkqD8k251127.shtml)
+
++ [欧洲议会通过决议：应禁止16岁以下儿童或青少年使用社交媒体](https://news.cctv.com/2025/11/27/ARTI6hbXrmgcwlNITuY4MxHT251127.shtml)
+
