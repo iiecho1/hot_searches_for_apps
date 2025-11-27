@@ -69,3 +69,5 @@
 
 + [这核心力量，怕是用牙换的吧？](https://m.acfun.cn/v/?ac=48050620)
 
++ [【东方】SLS【ぱらどっと Electro Swing】](https://m.acfun.cn/v/?ac=48048273)
+

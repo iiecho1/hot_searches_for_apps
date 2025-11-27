@@ -161,3 +161,5 @@
 
 + [旅法中国大熊猫“欢欢”“圆仔”启程回国](https://news.cctv.com/2025/11/25/ARTIpa2RugrACgaAEDUU95Ut251125.shtml)
 
++ [多米尼加向美国提供空军基地 加勒比局势走到岔路口？](https://news.cctv.com/2025/11/28/ARTIjWd5veYMEj7nIC1fU2Bj251127.shtml)
+
