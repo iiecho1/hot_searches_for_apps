@@ -71,3 +71,5 @@
 
 + [【东方】SLS【ぱらどっと Electro Swing】](https://m.acfun.cn/v/?ac=48048273)
 
++ [EXID HOT PINK 路演](https://m.acfun.cn/v/?ac=48050865)
+
