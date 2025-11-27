@@ -199,3 +199,7 @@
 
 + [印尼伊布火山喷发 火山灰柱高约800米](https://news.cctv.com/2025/11/27/ARTIQH5AQpqQkjaIGrT8x5IZ251127.shtml)
 
++ [不会收到G20峰会邀请？南非回应：不接受否定其国际地位的言论](https://news.cctv.com/2025/11/27/ARTIymoJkPz7LNNnFAdlgfO9251127.shtml)
+
++ [马来西亚洪灾已致2人遇难 受灾人数超3.3万人](https://news.cctv.com/2025/11/27/ARTIa2SFdIAK4rJRfIqHfFc2251127.shtml)
+

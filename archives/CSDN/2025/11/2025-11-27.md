@@ -155,3 +155,9 @@
 
 + [Spring Boot 实现 WebSocket 实时通信：从原理到生产级实战](https://blog.csdn.net/2301_81073317/article/details/155203148)
 
++ [循环神经网络（RNN）：时序数据的深度学习模型](https://blog.csdn.net/m0_74385041/article/details/155278130)
+
++ [OneThingAI 算力云平台：告别本地卡顿，用云 GPU 流畅玩转 ComfyUI](https://blog.csdn.net/Rqaqedamancy/article/details/155280838)
+
++ [云原生与Serverless架构在高并发互联网系统中的设计优化与工程实践经验分享](https://blog.csdn.net/2501_94114264/article/details/155196754)
+
