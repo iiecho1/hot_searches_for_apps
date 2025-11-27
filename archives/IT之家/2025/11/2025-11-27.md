@@ -89,3 +89,9 @@
 
 + [豆包输入法 iOS 版上线苹果 App Store，支持方言语音输入、9 键 / 26 键键盘输入等](https://m.ithome.com/html/900614.htm)
 
++ [宗馥莉卸任娃哈哈集团公司董事长](https://m.ithome.com/html/900670.htm)
+
++ [华为 Mate 80 手机全系支持音质设置，可调尊享、舒享、静享三种模式](https://m.ithome.com/html/900508.htm)
+
++ [香港小米基金会捐赠 1000 万港元，紧急驰援香港大埔火灾救援](https://m.ithome.com/html/900547.htm)
+

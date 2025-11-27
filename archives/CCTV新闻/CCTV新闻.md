@@ -229,3 +229,13 @@
 
 + [俄法院判处2022年克里米亚大桥恐袭案8名被告终身监禁](https://news.cctv.com/2025/11/27/ARTIFLlEcvQl1w7bipDH7N5n251127.shtml)
 
++ [几内亚比绍过渡总统奥尔塔·南塔姆宣誓就职](https://news.cctv.com/2025/11/27/ARTIfivT1OWSRdFWEeXrLepU251127.shtml)
+
++ [泰国洪水已致至少55人死亡](https://news.cctv.com/2025/11/27/ARTI66IWigrSQ7twNXq4jW18251127.shtml)
+
++ [印尼洪灾和山体滑坡已致52人死亡](https://news.cctv.com/2025/11/27/ARTII1Mwc7tD6HSvzLzC4utk251127.shtml)
+
++ [乌官员：“19点”和平计划不包括“全面赦免”条款](https://news.cctv.com/2025/11/27/ARTICW5RkZTM7vQkwAF3OWBt251127.shtml)
+
++ [俄罗斯“联盟MS-28”载人飞船发射升空](https://news.cctv.com/2025/11/27/ARTIaLuNovJqheVgF7i8hhL8251127.shtml)
+
