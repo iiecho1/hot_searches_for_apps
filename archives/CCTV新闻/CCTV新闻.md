@@ -221,3 +221,7 @@
 
 + [欧洲议会通过决议：应禁止16岁以下儿童或青少年使用社交媒体](https://news.cctv.com/2025/11/27/ARTI6hbXrmgcwlNITuY4MxHT251127.shtml)
 
++ [越南外交部重申支持一个中国原则](https://news.cctv.com/2025/11/27/ARTILdYBTZtB4rjGHXV6MZf8251127.shtml)
+
++ [极端天气已致斯里兰卡31人死亡](https://news.cctv.com/2025/11/27/ARTIRixUgteYEyCb1laL2hh7251127.shtml)
+
