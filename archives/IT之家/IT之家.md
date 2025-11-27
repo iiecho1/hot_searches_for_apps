@@ -95,3 +95,9 @@
 
 + [香港小米基金会捐赠 1000 万港元，紧急驰援香港大埔火灾救援](https://m.ithome.com/html/900547.htm)
 
++ [华为 Mate 80 Pro Max 手机备件价格公布，屏幕单体留件价 1399 元](https://m.ithome.com/html/900731.htm)
+
++ [华为畅享 70X 尊享版手机开售：麒麟 8000 处理器，1999 元起](https://m.ithome.com/html/900550.htm)
+
++ [消息称新款 iPad mini 要最早明年第三季度 / 第四季度上市，有望先 iPad Air 一步搭载 OLED 面板](https://m.ithome.com/html/900522.htm)
+

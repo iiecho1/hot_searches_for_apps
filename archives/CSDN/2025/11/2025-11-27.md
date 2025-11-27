@@ -191,3 +191,13 @@
 
 + [springboot重人科校史馆微信小程序](https://blog.csdn.net/weixin_63982010/article/details/155206881)
 
++ [2025年11月24日全球AI前沿动态](https://blog.csdn.net/ld326/article/details/155208639)
+
++ [海康威视摄像头ISUP(原EHOME协议) 摄像头实时预览springboot 版本java实现，并可以在浏览器vue前端播放(附带源码)](https://blog.csdn.net/2509_94177326/article/details/155232591)
+
++ [【CSS】样式隔离](https://blog.csdn.net/XiugongHao/article/details/155226399)
+
++ [Java在高并发互联网服务开发中的架构设计与性能优化实践全景分享](https://blog.csdn.net/2501_94180432/article/details/155169498)
+
++ [如何用ai做开发](https://blog.csdn.net/2501_91812691/article/details/155285005)
+
