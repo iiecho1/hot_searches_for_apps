@@ -161,3 +161,5 @@
 
 + [云原生与Serverless架构在高并发互联网系统中的设计优化与工程实践经验分享](https://blog.csdn.net/2501_94114264/article/details/155196754)
 
++ [基于 Elixir 与 Phoenix 构建高并发实时通信与分布式微服务系统实践分享](https://blog.csdn.net/2501_94114477/article/details/155197371)
+
