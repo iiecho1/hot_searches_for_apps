@@ -225,3 +225,7 @@
 
 + [极端天气已致斯里兰卡31人死亡](https://news.cctv.com/2025/11/27/ARTIRixUgteYEyCb1laL2hh7251127.shtml)
 
++ [【国际漫评】“核味”献媚](https://news.cctv.com/2025/11/27/ARTIRWZYywzSiPMXVFRn3nSW251127.shtml)
+
++ [俄法院判处2022年克里米亚大桥恐袭案8名被告终身监禁](https://news.cctv.com/2025/11/27/ARTIFLlEcvQl1w7bipDH7N5n251127.shtml)
+
