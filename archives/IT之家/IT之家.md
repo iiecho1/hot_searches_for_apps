@@ -43,3 +43,7 @@
 
 + [比亚迪召回近 8.9 万辆秦 PLUS DM-i 汽车：极端情况或无法使用纯电模式](https://m.ithome.com/html/901093.htm)
 
++ [西藏举报今日辟谣：“珠峰安装电梯”图文视频系 AI 生成](https://m.ithome.com/html/900850.htm)
+
++ [微信鸿蒙版 App 获 8.0.13.33 邀测升级，登录设备管理页面优化](https://m.ithome.com/html/900849.htm)
+
