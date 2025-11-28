@@ -269,3 +269,7 @@
 
 + [容器的疆域——彻底读懂 `std::vector` 的设计哲学与深层机制](https://blog.csdn.net/htw250056/article/details/155243306)
 
++ [基于Rokid CXR-M SDK实现AR智能助手应用：让AI大模型走进AR眼镜](https://blog.csdn.net/Mrxiao_bo/article/details/155285764)
+
++ [Java分词器深度评测与实战指南](https://blog.csdn.net/Lisonseekpan/article/details/155326229)
+
