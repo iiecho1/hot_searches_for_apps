@@ -191,3 +191,9 @@
 
 + [赋能央企・技术升级：金仓数据库以自主可控引领关键系统焕新](https://blog.csdn.net/qq_57761637/article/details/154436006)
 
++ [开源模型应用落地-工具使用篇-Spring AI-Function Call（八）](https://blog.csdn.net/2509_94216217/article/details/155232095)
+
++ [快速上手Litellm AI代理工具：打破大模型调用壁垒的开发利器](https://blog.csdn.net/2301_77485708/article/details/155233506)
+
++ [Optuna-模型调参](https://blog.csdn.net/2401_88885149/article/details/155231590)
+

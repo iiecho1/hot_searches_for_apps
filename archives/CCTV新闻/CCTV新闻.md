@@ -173,3 +173,7 @@
 
 + [视频丨国际人士：高市发表错误言论 终将自食其果](https://news.cctv.com/2025/11/28/ARTIjdi2jZQlL8KlqDLRvKxr251128.shtml)
 
++ [香港廉政公署就大埔火灾拘捕2人](https://news.cctv.com/2025/11/28/ARTIgdQDYYeIkWxfCYuaSJkZ251128.shtml)
+
++ [减少对美依赖 加拿大拟新建输油管道拓亚洲市场](https://news.cctv.com/2025/11/28/ARTIWDjeKLRnJYdHIMoPVR8i251128.shtml)
+
