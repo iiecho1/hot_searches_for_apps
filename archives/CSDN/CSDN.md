@@ -197,3 +197,21 @@
 
 + [Optuna-模型调参](https://blog.csdn.net/2401_88885149/article/details/155231590)
 
++ [将 vue3 项目打包后部署在 springboot 项目运行](https://blog.csdn.net/2509_94228500/article/details/155232001)
+
++ [快速在本地运行SpringBoot项目的流程介绍](https://blog.csdn.net/2509_94229239/article/details/155232175)
+
++ [如何在 Spring Boot 中配置数据库？](https://blog.csdn.net/2509_94213451/article/details/155231718)
+
++ [Nano Banana Pro 一站式绘图：科研·产品·IP·国风，全都能生成](https://blog.csdn.net/weixin_46211269/article/details/155312318)
+
++ [便携式心电设备的数据存储方案设计与性能验证](https://blog.csdn.net/weixin_37800531/article/details/155323409)
+
++ [服务器搭建](https://blog.csdn.net/dongganxiao_maidou/article/details/155285215)
+
++ [前端项目 Docker 化部署完整指南](https://blog.csdn.net/qq_45535426/article/details/155103061)
+
++ [AI文物复活馆：基于 AiOnly 一键调用 Claude 4.5 + Gemini 3 Pro 的多模态复原神器](https://blog.csdn.net/IRpickstars/article/details/155303231)
+
++ [超详细：数据库的基本架构](https://blog.csdn.net/2509_94199023/article/details/155233651)
+

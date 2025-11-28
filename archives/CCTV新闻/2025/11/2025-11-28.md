@@ -177,3 +177,7 @@
 
 + [减少对美依赖 加拿大拟新建输油管道拓亚洲市场](https://news.cctv.com/2025/11/28/ARTIWDjeKLRnJYdHIMoPVR8i251128.shtml)
 
++ [特朗普：将无限期暂停来自“第三世界国家”的移民](https://news.cctv.com/2025/11/28/ARTIPEwCi5F7oYEpU4TZm1tr251128.shtml)
+
++ [韩国国家情报院前院长赵太庸被起诉](https://news.cctv.com/2025/11/28/ARTIIKl2aHhucv01OZq3otur251128.shtml)
+
