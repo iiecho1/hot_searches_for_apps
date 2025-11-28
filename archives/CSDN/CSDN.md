@@ -183,3 +183,11 @@
 
 + [如何使用Spring Boot框架整合Redis：超详细案例教程](https://blog.csdn.net/2509_94213142/article/details/155231707)
 
++ [数码商城系统|电子|基于SprinBoot+vue的数码商城系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/155300302)
+
++ [【AI大模型前沿】微软UserLM-8b：AI助手的逼真陪练，多轮对话精炼利器](https://blog.csdn.net/xiaobing259/article/details/155092032)
+
++ [猫头虎AI开源分享一款多Agent舆情分析系统：BettaFish微舆，用自然语言提出需求，这就可以自动分析国内外30+主流社媒](https://blog.csdn.net/qq_44866828/article/details/155232730)
+
++ [赋能央企・技术升级：金仓数据库以自主可控引领关键系统焕新](https://blog.csdn.net/qq_57761637/article/details/154436006)
+
