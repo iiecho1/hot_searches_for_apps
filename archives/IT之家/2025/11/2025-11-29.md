@@ -41,3 +41,5 @@
 
 + [CounterPoint 报告中国 2025 双十一手机战报：苹果同比增 37%、小米降 11%、华为降 22%、vivo 增 8%、荣耀降 14%、OPPO 增 12%](https://m.ithome.com/html/900859.htm)
 
++ [比亚迪召回近 8.9 万辆秦 PLUS DM-i 汽车：极端情况或无法使用纯电模式](https://m.ithome.com/html/901093.htm)
+

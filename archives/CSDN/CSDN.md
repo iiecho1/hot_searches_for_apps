@@ -115,3 +115,7 @@
 
 + [JeecgBoot 低代码 v3.9.0 里程碑发布：支持 MCP 与插件，AI 聊天式业务，POI 升级至 5 版](https://blog.csdn.net/zhangdaiscott/article/details/155268043)
 
++ [大学生吃透C与Java：从避坑到高效的实战心法](https://blog.csdn.net/ZYN20050813/article/details/155228751)
+
++ [无线通信与雷达感知融合的波形设计与信号处理——论文阅读（上）](https://blog.csdn.net/qq_44648285/article/details/155326329)
+

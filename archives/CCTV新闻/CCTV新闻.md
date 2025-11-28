@@ -161,3 +161,5 @@
 
 + [航母救灾！泰国宋卡府因洪灾进入紧急状态](https://news.cctv.com/2025/11/26/ARTIbmW08JsAkSb5nq2oncuu251126.shtml)
 
++ [为确保太空探索领先地位 欧航局获批史上最高预算](https://news.cctv.com/2025/11/29/ARTIDMoVLmcYa6yJPFLCynHt251129.shtml)
+
