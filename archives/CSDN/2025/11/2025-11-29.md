@@ -101,3 +101,17 @@
 
 + [AI 图像识别如何提升 DAM 内容管理效率](https://blog.csdn.net/MuseDAM_cc/article/details/155170330)
 
++ [Transformer实战（28）——使用 LoRA 高效微调 FLAN-T5](https://blog.csdn.net/LOVEmy134611/article/details/147956867)
+
++ [合伙人是AI](https://blog.csdn.net/2501_91883294/article/details/155205468)
+
++ [循环神经网络（RNN）：时序数据的深度学习模型](https://blog.csdn.net/m0_74385041/article/details/155278130)
+
++ [Java分词器深度评测与实战指南](https://blog.csdn.net/Lisonseekpan/article/details/155326229)
+
++ [java后端工程师+AI大模型进修ing（研一版‖day55）](https://blog.csdn.net/qq3094554285/article/details/155321765)
+
++ [学习threejs，使用自定义GLSL 着色器，实现霓虹灯颜色特效](https://blog.csdn.net/qq_28419035/article/details/155267654)
+
++ [JeecgBoot 低代码 v3.9.0 里程碑发布：支持 MCP 与插件，AI 聊天式业务，POI 升级至 5 版](https://blog.csdn.net/zhangdaiscott/article/details/155268043)
+

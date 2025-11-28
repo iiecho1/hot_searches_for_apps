@@ -25,3 +25,19 @@
 
 + [全新麒麟官网首曝：华为 WATCH Ultimate 2 非凡探索手表搭载 HUAWEI Kirin W80 处理器](https://m.ithome.com/html/900806.htm)
 
++ [华为 Mate 80 系列设计师回应“双环”：Mate 60 就曾考虑，“光绘金属”首次应用光刻级的精密工艺，下一代产品“探险队已经出发”](https://m.ithome.com/html/901095.htm)
+
++ [雷军回应小米 SU7 能耗评测结果弱于特斯拉：车大配置高，会继续向特斯拉学习](https://m.ithome.com/html/900995.htm)
+
++ [苹果 CEO 库克：香港重大火灾令人痛心，将捐款支持当地救援](https://m.ithome.com/html/901015.htm)
+
++ [雷军再度感谢北京：北京的产业基础是小米汽车的底气](https://m.ithome.com/html/901021.htm)
+
++ [淘宝闪购将全面取消超时扣款，年底前覆盖全国](https://m.ithome.com/html/900968.htm)
+
++ [vivo S50 Pro mini 手机后盖公布：横向相机设计、6.31 英寸小直屏](https://m.ithome.com/html/900917.htm)
+
++ [微信 iOS 版 8.0.66 最新官方正式版下载发布](https://m.ithome.com/html/901018.htm)
+
++ [CounterPoint 报告中国 2025 双十一手机战报：苹果同比增 37%、小米降 11%、华为降 22%、vivo 增 8%、荣耀降 14%、OPPO 增 12%](https://m.ithome.com/html/900859.htm)
+
