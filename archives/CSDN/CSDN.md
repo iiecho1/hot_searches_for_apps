@@ -263,3 +263,5 @@
 
 + [特斯拉数据自己管：TeslaMate+cpolar 安全远程查数据](https://blog.csdn.net/lrq13965748542/article/details/155241125)
 
++ [Python在AI领域应用全景：2025趋势与案例](https://blog.csdn.net/qq_34419312/article/details/155324922)
+
