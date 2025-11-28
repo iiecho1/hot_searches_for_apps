@@ -63,3 +63,5 @@
 
 + [VIVO X300 Pro (30 天使用感受)](https://www.v2ex.com/t/1175639)
 
++ [感谢华为，又打钱 1 万，美滋滋](https://www.v2ex.com/t/1175667)
+

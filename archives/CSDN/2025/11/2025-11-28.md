@@ -283,3 +283,11 @@
 
 + [AI 图像识别如何提升 DAM 内容管理效率](https://blog.csdn.net/MuseDAM_cc/article/details/155170330)
 
++ [基于多个大模型自己建造一个AI智能助手(增强版)](https://blog.csdn.net/cnds123/article/details/155303319)
+
++ [Redis-07典型业务场景](https://blog.csdn.net/MmmSC/article/details/155227917)
+
++ [金仓数据库：医疗信创国产化转型的核心支撑与实践标杆](https://blog.csdn.net/lrq13965748542/article/details/155317643)
+
++ [第3版•系统集成项目管理工程师（中级） │ 第8章 信息安全工程](https://blog.csdn.net/qq_41840843/article/details/154663775)
+
