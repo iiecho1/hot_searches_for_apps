@@ -169,3 +169,7 @@
 
 + [美国重新审查向阿富汗等19个国家公民发放的绿卡](https://news.cctv.com/2025/11/28/ARTIxXrqqRVf6KPzXsVy8YDG251128.shtml)
 
++ [印尼洪灾和山体滑坡已致78人死亡](https://news.cctv.com/2025/11/28/ARTIgM4nrh2vyXEdjm6CjVcJ251128.shtml)
+
++ [视频丨国际人士：高市发表错误言论 终将自食其果](https://news.cctv.com/2025/11/28/ARTIjdi2jZQlL8KlqDLRvKxr251128.shtml)
+

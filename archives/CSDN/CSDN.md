@@ -177,3 +177,9 @@
 
 + [《内核视角下的 Linux 锁与普通生产消费模型：同步原语设计与性能优化思路》](https://blog.csdn.net/Dovis5884/article/details/154574097)
 
++ [金仓数据库在发电行业的创新应用与实战案例](https://blog.csdn.net/beautifulmemory/article/details/155228669)
+
++ [python+django/flask的结合人脸识别和实名认证的校园论坛系统](https://blog.csdn.net/Q_Q511008285/article/details/155228787)
+
++ [如何使用Spring Boot框架整合Redis：超详细案例教程](https://blog.csdn.net/2509_94213142/article/details/155231707)
+
