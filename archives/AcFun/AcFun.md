@@ -77,3 +77,7 @@
 
 + [小剧场：苏联皮草案](https://m.acfun.cn/v/?ac=48048352)
 
++ [今年依旧Cos李冰冰！★手机竖屏1713★](https://m.acfun.cn/v/?ac=48051016)
+
++ [EXID UP&DOWN 上下](https://m.acfun.cn/v/?ac=48050881)
+
