@@ -273,3 +273,13 @@
 
 + [Java分词器深度评测与实战指南](https://blog.csdn.net/Lisonseekpan/article/details/155326229)
 
++ [Java 大视界 -- 基于 Java 的大数据分布式存储在数字媒体内容存储与版权保护中的应用](https://blog.csdn.net/atgfg/article/details/155319785)
+
++ [RustFS落地指南：30分钟构建企业级对象存储开发环境](https://blog.csdn.net/rustfs_contrib/article/details/155159633)
+
++ [（117页PPT）商业银行企业级IT架构总体规划解决方案（附下载方式）](https://blog.csdn.net/2501_92808811/article/details/155230806)
+
++ [（68页PPT）关于5G物联网智慧物流园区综合解决方案（附下载方式）](https://blog.csdn.net/AI_data_cloud/article/details/155230298)
+
++ [AI 图像识别如何提升 DAM 内容管理效率](https://blog.csdn.net/MuseDAM_cc/article/details/155170330)
+
