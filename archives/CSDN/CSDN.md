@@ -239,3 +239,27 @@
 
 + [Spring Boot：Service 层的正确写法 - 事务、幂等、聚合、拆分与业务抽象](https://blog.csdn.net/weixin_46619605/article/details/155191207)
 
++ [【JAVA进阶】Spring Boot 自动配置：解锁高效开发的奥秘](https://blog.csdn.net/weixin_63944437/article/details/155322670)
+
++ [昆虫识别系统【最新版】Python+TensorFlow+Vue3+Django+人工智能+深度学习+卷积神经网络算法](https://blog.csdn.net/2301_78372746/article/details/155315430)
+
++ [一人单挑Transformer神话，RNN卷土重来，Transformer何去何从？](https://blog.csdn.net/weixin_44782294/article/details/155204550)
+
++ [从零搭建专属AI平台：Dify大模型对接实战+核心功能详解](https://blog.csdn.net/weixin_48337566/article/details/155164253)
+
++ [操作系统篇1——深入理解操作系统：进程、线程、协程 & 内存管理全解析](https://blog.csdn.net/m0_59624833/article/details/155278706)
+
++ [Kafka与Elasticsearch集成：构建实时搜索系统](https://blog.csdn.net/qq_41803278/article/details/155205600)
+
++ [2、Python流程控制](https://blog.csdn.net/u010304195/article/details/155285063)
+
++ [docker详解](https://blog.csdn.net/2401_88182315/article/details/155284142)
+
++ [本地绘图工具也能远程协作?Excalidraw+cpolar解决团队跨网画图难题](https://blog.csdn.net/2302_79177254/article/details/155246681)
+
++ [AI 开发卡在内网？TRAE SOLO 加个cpolar就能远程协同](https://blog.csdn.net/weixin_44976692/article/details/155349843)
+
++ [EnergyLens：基于Rokid眼镜的AR能源监控系统设计与实现](https://blog.csdn.net/liu_chen_yang/article/details/155278411)
+
++ [特斯拉数据自己管：TeslaMate+cpolar 安全远程查数据](https://blog.csdn.net/lrq13965748542/article/details/155241125)
+
