@@ -163,3 +163,9 @@
 
 + [为确保太空探索领先地位 欧航局获批史上最高预算](https://news.cctv.com/2025/11/29/ARTIDMoVLmcYa6yJPFLCynHt251129.shtml)
 
++ [数千架空客A320飞机需紧急更换软件 多家航司已停飞](https://news.cctv.com/2025/11/29/ARTIwUqSQme2s73jeNeLMSDd251129.shtml)
+
++ [德国科隆疏散居民 拆除2枚二战遗留炸弹](https://news.cctv.com/2025/11/29/ARTIR9pD9GrA1EWMA41qaqFo251129.shtml)
+
++ [乌克兰腐败丑闻发酵 泽连斯基得力助手辞职](https://news.cctv.com/2025/11/29/ARTILNzZLorz8Qo05fO6cqCC251129.shtml)
+
