@@ -61,3 +61,7 @@
 
 + [消息称新款 iPad mini 要最早明年第三季度 / 第四季度上市，有望先 iPad Air 一步搭载 OLED 面板](https://m.ithome.com/html/900522.htm)
 
++ [华为 Mate 80 RS 整机性能较上代非凡大师提升 45%，搭载麒麟 9030 Pro 处理器](https://m.ithome.com/html/900839.htm)
+
++ [中国首颗 5nm MR 芯片“极智 G-X100”发布：前苹果大牛打造，设备可对标 Vision Pro、整机重量不到百克](https://m.ithome.com/html/900796.htm)
+
