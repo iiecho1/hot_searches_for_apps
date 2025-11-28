@@ -25,3 +25,17 @@
 
 + [程序员相对于大部分普通人，优势在于哪里？](https://www.v2ex.com/t/1175474)
 
++ [独开不易！ Ries 这一年创造了 9157 万次无痛英语接触，感谢 v 站把我们“奶”活了。[黑五巨惠 &amp; iOS 上线]](https://www.v2ex.com/t/1175448)
+
++ [租车与买车](https://www.v2ex.com/t/1175415)
+
++ [现在 AI 编程哪家强？](https://www.v2ex.com/t/1175392)
+
++ [程序员玩具多系列：有什么 navicat/datagrip 替代品推荐](https://www.v2ex.com/t/1175364)
+
++ [好玩的养成类游戏推荐](https://www.v2ex.com/t/1175351)
+
++ [能不能推荐一个稳定且便宜的机场](https://www.v2ex.com/t/1175396)
+
++ [一起来聆听破防的声音](https://www.v2ex.com/t/1175441)
+

@@ -163,3 +163,7 @@
 
 + [PyTorch实战（13）——图卷积网络（Graph Convolutional Network，GCN）](https://blog.csdn.net/LOVEmy134611/article/details/150379023)
 
++ [基于Spring Boot 3 + Spring Security6 + JWT + Redis实现登录、token身份认证](https://blog.csdn.net/2509_94201804/article/details/155231514)
+
++ [使用 java -jar 命令启动 Spring Boot 应用时，指定特定的配置文件的几种实现方式](https://blog.csdn.net/2509_94198891/article/details/155230813)
+

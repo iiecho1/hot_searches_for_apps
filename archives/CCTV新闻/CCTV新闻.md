@@ -167,3 +167,5 @@
 
 + [“北溪”爆炸案一嫌疑人被引渡至德国受审](https://news.cctv.com/2025/11/28/ARTIeR5J1r7bTp2nnLJQRgNJ251128.shtml)
 
++ [美国重新审查向阿富汗等19个国家公民发放的绿卡](https://news.cctv.com/2025/11/28/ARTIxXrqqRVf6KPzXsVy8YDG251128.shtml)
+
