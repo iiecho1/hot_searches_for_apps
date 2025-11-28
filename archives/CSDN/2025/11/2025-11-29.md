@@ -119,3 +119,31 @@
 
 + [无线通信与雷达感知融合的波形设计与信号处理——论文阅读（上）](https://blog.csdn.net/qq_44648285/article/details/155326329)
 
++ [异地组队刷网页？Neko+cpolar 让多人实时协作像坐同桌](https://blog.csdn.net/2302_78391795/article/details/155351135)
+
++ [异地也能一起画图？Tldraw+cpolar 实现跨空间协作](https://blog.csdn.net/weixin_43151418/article/details/155349375)
+
++ [Java 大视界 -- Java 大数据在智能物流无人配送车路径规划与协同调度中的应用](https://blog.csdn.net/atgfg/article/details/155270687)
+
++ [【探索实战】：Kurator分布式统一应用分发平台的全面解析与实践指南](https://blog.csdn.net/2302_80105876/article/details/155347336)
+
++ [【Rokid+CXR-M】基于Rokid CXR-M SDK的博物馆AR导览系统开发全解析](https://blog.csdn.net/wheeldown/article/details/155353279)
+
++ [Dubbo分布式事务全攻略：从理论到实践的完整解决方案](https://blog.csdn.net/qq_44378083/article/details/155285756)
+
++ [手机也能控 Linux？Cpolar+JuiceSSH 搞定内网远程](https://blog.csdn.net/lrq13965748542/article/details/155348751)
+
++ [无线导航信号150kHz直采检波](https://blog.csdn.net/zhuoqingjoking97298/article/details/155318118)
+
++ [【AI系列】Cursor `Ask`、`Plan` 和 `Agent` 模式区别](https://blog.csdn.net/qyj19920704/article/details/155275702)
+
++ [工业流程的数字守护者：基于Rokid CXR-M SDK构建智能作业流程检查系统](https://blog.csdn.net/linshantang/article/details/155352347)
+
++ [视界重塑：基于Rokid AI眼镜的沉浸式视力康复训练系统设计与实现](https://blog.csdn.net/2301_80350265/article/details/155352402)
+
++ [在家搭个私人网盘？用 Nextcloud+cpolar 突破局域网限制](https://blog.csdn.net/Pocker_Spades_A/article/details/155353809)
+
++ [智能医疗时代的技术基石与人才蓝图：医疗AI工程师的技能树、三阶段进阶路线图](https://blog.csdn.net/kkiron/article/details/155342666)
+
++ [openGauss在教育领域的AI实践：基于Java JDBC的学生成绩预测系统](https://blog.csdn.net/2301_76341691/article/details/155350594)
+
