@@ -155,3 +155,11 @@
 
 + [光影协同：基于Rokid CXR-M SDK构建工业级远程专家协作维修系统](https://blog.csdn.net/user340/article/details/155285923)
 
++ [［经典之作］大语言模型与知识图谱的融合：通往智能未来的路线图](https://blog.csdn.net/xianggll/article/details/155221528)
+
++ [深入理解 AI Prompt 的六大核心构成：从理论到实战的全面解析大模型AI Prompt](https://blog.csdn.net/tenboytenboy/article/details/155229336)
+
++ [Spring中的IOC详解](https://blog.csdn.net/2509_94006796/article/details/155231518)
+
++ [PyTorch实战（13）——图卷积网络（Graph Convolutional Network，GCN）](https://blog.csdn.net/LOVEmy134611/article/details/150379023)
+

@@ -59,3 +59,5 @@
 
 + [法拉利大战迈凯轮：京东外卖骑手内测新工服曝光，与淘宝闪购“红橙对决”](https://m.ithome.com/html/900415.htm)
 
++ [消息称新款 iPad mini 要最早明年第三季度 / 第四季度上市，有望先 iPad Air 一步搭载 OLED 面板](https://m.ithome.com/html/900522.htm)
+
