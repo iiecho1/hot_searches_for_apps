@@ -215,3 +215,27 @@
 
 + [超详细：数据库的基本架构](https://blog.csdn.net/2509_94199023/article/details/155233651)
 
++ [华为 CANN 异构计算架构：释放 AI 硬件潜能，简化AI 开发实践](https://blog.csdn.net/weixin_43151418/article/details/155324667)
+
++ [TinyML：边缘设备上的轻量化 AI 模型开发与部署](https://blog.csdn.net/dinofish/article/details/155208120)
+
++ [【Spring AI MCP】六、SpringAI MCP 服务端 STDIO & SSE](https://blog.csdn.net/mqiqe/article/details/155229834)
+
++ [从零开始：用Python和Gemini 3四步搭建你自己的AI Agent](https://blog.csdn.net/m0_46510245/article/details/155323474)
+
++ [将图神经网络扩展成三维神经网络](https://blog.csdn.net/makh256257282931/article/details/155233558)
+
++ [【适合所有大学牲的免费刷课脚本】支持免费刷课AI答题](https://blog.csdn.net/dh45498/article/details/155262300)
+
++ [进程概念（下）](https://blog.csdn.net/weixin_73077334/article/details/154531811)
+
++ [Go生态洞察：2025年11月14日：Go的甜蜜16岁——Go语言的未来展望与发展](https://blog.csdn.net/qq_44866828/article/details/155326435)
+
++ [第五届电子信息工程与计算机通信国际学术会议（EIECC 2025）](https://blog.csdn.net/2302_79376097/article/details/155318341)
+
++ [记录spring-boot 3.X版本整合RocketMq](https://blog.csdn.net/2509_94197320/article/details/155233458)
+
++ [《“慧眼识障“：基于Rokid AI眼镜的智能维修记录自动归档系统开发实战》](https://blog.csdn.net/hanwangyyds/article/details/155285963)
+
++ [Spring Boot：Service 层的正确写法 - 事务、幂等、聚合、拆分与业务抽象](https://blog.csdn.net/weixin_46619605/article/details/155191207)
+
