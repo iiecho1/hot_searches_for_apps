@@ -237,3 +237,5 @@
 
 + [YOLOv11n + VisDrone2019轻量化训练](https://blog.csdn.net/2402_86993389/article/details/155383677)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的多语言翻译与文化适应性优化](https://blog.csdn.net/atgfg/article/details/155272814)
+

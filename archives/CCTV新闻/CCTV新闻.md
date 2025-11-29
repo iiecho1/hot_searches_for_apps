@@ -181,3 +181,7 @@
 
 + [斯里兰卡极端天气死亡人数升至123人](https://news.cctv.com/2025/11/29/ARTIrphlTS8NaXqds5Tr6mn1251129.shtml)
 
++ [法国宣布将调配3亿欧元资助15个战略研究项目](https://news.cctv.com/2025/11/29/ARTI7xu6tKP8uBM2EZoL0jfZ251129.shtml)
+
++ [秘鲁总统宣布秘智边境进入紧急状态](https://news.cctv.com/2025/11/29/ARTIMZPG4sUC6zpWQAPGoemw251129.shtml)
+
