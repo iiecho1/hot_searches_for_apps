@@ -243,3 +243,9 @@
 
 + [谁在掌控Claude AI？拆解资本版图、算力依赖与安全治理](https://blog.csdn.net/yuntongliangda/article/details/155387251)
 
++ [一条 OAuth 2.0 授权请求 URL 的深度解剖：把 response_type=code、state、redirect_uri、PKCE S256 全部讲透](https://blog.csdn.net/i042416/article/details/154752021)
+
++ [使用OpenGL texelFetch函数实现精确LUT滤镜——一种超越GPUImage库映射精度的实时滤镜算法](https://blog.csdn.net/cjzjolly/article/details/155363115)
+
++ [论文阅读：EMNLP 2025 Stand on The Shoulders of Giants: Building JailExpert from Previous Attack Experienc](https://blog.csdn.net/WhiffeYF/article/details/155386817)
+

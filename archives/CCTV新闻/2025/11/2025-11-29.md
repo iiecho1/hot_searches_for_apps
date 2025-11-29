@@ -189,3 +189,5 @@
 
 + [泰国南部洪灾已致162人死亡](https://news.cctv.com/2025/11/29/ARTIHeKfihrxwVYVMgnz8pqm251129.shtml)
 
++ [美国国务卿或将“罕见”缺席北约外长会](https://news.cctv.com/2025/11/29/ARTIs58vU6N4qH9M8ZceKrUG251129.shtml)
+
