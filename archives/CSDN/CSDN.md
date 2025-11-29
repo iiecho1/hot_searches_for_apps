@@ -179,3 +179,23 @@
 
 + [【探索实战】跨云管控：用Kurator构建高效分布式云原生平台](https://blog.csdn.net/2509_93963985/article/details/155367126)
 
++ [Linux信号保存的核心：未决信号集与阻塞信号集——探秘内核如何实现信号的阻塞、暂存与派发](https://blog.csdn.net/2301_80236968/article/details/155313089)
+
++ [【Linux】进程信号深度解析：从中断本质到信号捕捉全流程](https://blog.csdn.net/2401_83647349/article/details/155361871)
+
++ [【优化调度】基于matlab遗传算法GA雾中任务调度计算【含Matlab源码 14583期】](https://blog.csdn.net/TIQCmatlab/article/details/155377753)
+
++ [一文详解动态规划](https://blog.csdn.net/yanghb916/article/details/155379847)
+
++ [RAG信息检索全解析：从Embedding到Reranker的超详细教程1](https://blog.csdn.net/Trb201013/article/details/155309417)
+
++ [【RFO MTSP】吕佩尔狐算法RFO求解单仓库多旅行商问题【含Matlab源码 14579期】](https://blog.csdn.net/KeepingMatlab/article/details/155376800)
+
++ [【前瞻创想】标准之争：论Kurator在分布式云原生API标准化中的潜在角色](https://blog.csdn.net/qq_39757921/article/details/155380017)
+
++ [中文社交媒体情感分析实战：基于B站评论的机器学习与深度学习对比](https://blog.csdn.net/m0_54846764/article/details/155368978)
+
++ [OpenHarmony 与 Flutter 的完美融合财务管理应用：报表生成工具](https://blog.csdn.net/2501_94464754/article/details/155364104)
+
++ [农产品电商|基于SprinBoot+vue的农产品电商系统(源码+数据库+文档)](https://blog.csdn.net/JIngJaneIL/article/details/155378173)
+
