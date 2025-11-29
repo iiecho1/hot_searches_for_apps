@@ -199,3 +199,25 @@
 
 + [农产品电商|基于SprinBoot+vue的农产品电商系统(源码+数据库+文档)](https://blog.csdn.net/JIngJaneIL/article/details/155378173)
 
++ [购物|明星周边商城|基于springboot的明星周边商城系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/155376468)
+
++ [Dubbo服务调用流程全解析：从请求到响应的微服务通信之旅](https://blog.csdn.net/qq_44378083/article/details/155322896)
+
++ [【RFO MTSP】基于matlab吕佩尔狐算法RFO求解单仓库多旅行商问题【含Matlab源码 14579期】](https://blog.csdn.net/TIQCmatlab/article/details/155376751)
+
++ [【优化调度】遗传算法GA雾中任务调度计算【含Matlab源码 14583期】](https://blog.csdn.net/weixin_63266434/article/details/155377835)
+
++ [AI Agent 性能优化与成本控制：从技术突破到行业落地实战指南](https://blog.csdn.net/qq_40303030/article/details/154685052)
+
++ [侠者之路——征服动态规划](https://blog.csdn.net/yanghb916/article/details/155379847)
+
++ [【2025版 OpenHarmony】GitCode 口袋工具 v1.0.3：Flutter + HarmonyOS 深色模式全面启用](https://blog.csdn.net/2301_80035882/article/details/155376457)
+
++ [基于机器学习的房地产公司债务风险预测模型](https://blog.csdn.net/fulk6667g78o8/article/details/155376651)
+
++ [产品经理绩效考核方案与评估方法实践](https://blog.csdn.net/qq_20288327/article/details/149344708)
+
++ [C++20 与 C++23 新特性深度解析：迈向现代 C++ 的核心进化](https://blog.csdn.net/cooldream2009/article/details/155380595)
+
++ [基于Python深度学习的车辆车牌识别系统（PyTorch2卷积神经网络CNN+OpenCV4实现）视频教程 - 切割车牌矩阵获取车牌字符](https://blog.csdn.net/caoli201314/article/details/155376228)
+

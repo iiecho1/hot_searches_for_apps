@@ -59,3 +59,13 @@
 
 + [香港小米基金会捐赠 1000 万港元，紧急驰援香港大埔火灾救援](https://m.ithome.com/html/900547.htm)
 
++ [北京出新规：快递外卖用车将发放专用号牌，驾驶非机动车不得看手机打电话](https://m.ithome.com/html/900919.htm)
+
++ [美团 CEO 王兴：外卖价格战没有为行业创造价值，不可持续](https://m.ithome.com/html/901105.htm)
+
++ [售价 399 元，华为首款 AI 情感陪伴电子宠物“智能憨憨”售罄缺货](https://m.ithome.com/html/901017.htm)
+
++ [AI 生成广州车展小鹏展台低俗视频，小鹏汽车法务部宣布已报警](https://m.ithome.com/html/901096.htm)
+
++ [被国家邮政局约谈后，中通快递签署全网劳动规则协议](https://m.ithome.com/html/901135.htm)
+
