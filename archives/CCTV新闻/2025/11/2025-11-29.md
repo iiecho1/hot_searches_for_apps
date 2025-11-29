@@ -173,3 +173,5 @@
 
 + [筹资改造 卢浮宫对多国游客提价](https://news.cctv.com/2025/11/29/ARTIOaQNSMj4aZrrbDjcArac251129.shtml)
 
++ [美国务院宣布暂停向阿富汗护照持有人签发签证](https://news.cctv.com/2025/11/29/ARTIlWRh5KQFnxd0tTN5d6GY251129.shtml)
+

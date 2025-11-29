@@ -157,3 +157,25 @@
 
 + [MCP与A2A协议：AI工具的标准化集成与多Agent协作的未来](https://blog.csdn.net/weixin_45340032/article/details/155361376)
 
++ [【无人机群】在灾难响应中部署最佳多跳点对点路由研究（Matlab实现）](https://blog.csdn.net/weixin_66436111/article/details/155367044)
+
++ [智眼法盾：基于Rokid AR眼镜的合同条款智能审查系统开发全解析](https://blog.csdn.net/weixin_63944437/article/details/155354417)
+
++ [虚实交织的冒险：基于Rokid CXR-M SDK构建沉浸式AR实景寻宝系统](https://blog.csdn.net/czx_163/article/details/155282552)
+
++ [Python漂浮花朵](https://blog.csdn.net/m0_68111267/article/details/155185579)
+
++ [AI驱动下的B端产品：核心思考与创新路径](https://blog.csdn.net/weixin_42376192/article/details/155352508)
+
++ [加密存储VS明文存储：C#音频安全性的“生死局“，你选“裸奔“还是“金钟罩“？](https://blog.csdn.net/2401_88677290/article/details/151295401)
+
++ [LLM - RAG的文本分块最佳实践：原理、细节与工程化落地](https://blog.csdn.net/yangshangwei/article/details/155245669)
+
++ [OpenHarmony 与 Flutter 的完美融合财务管理应用：日期选择器](https://blog.csdn.net/2501_94452454/article/details/155363939)
+
++ [Mamba架构讲解](https://blog.csdn.net/qq_73038863/article/details/155375958)
+
++ [Kafka与Flume集成：日志收集与传输](https://blog.csdn.net/qq_41803278/article/details/155205633)
+
++ [【探索实战】跨云管控：用Kurator构建高效分布式云原生平台](https://blog.csdn.net/2509_93963985/article/details/155367126)
+
