@@ -195,3 +195,9 @@
 
 + [印尼苏门答腊岛山体滑坡灾害已致303人死亡](https://news.cctv.com/2025/11/29/ARTIB7Pgd4Th5bxw4vnnU0Vo251129.shtml)
 
++ [非盟暂停几内亚比绍成员资格](https://news.cctv.com/2025/11/29/ARTIZ2z5oXKmx2zHZAvDC3zb251129.shtml)
+
++ [斯里兰卡洪灾死亡人数升至153人](https://news.cctv.com/2025/11/29/ARTItgHGNGE4bufmPb5PbBpE251129.shtml)
+
++ [以色列在加沙地带军事行动已致超7万人死亡](https://news.cctv.com/2025/11/29/ARTI0cYvi70ZI5sAatbA4Vdq251129.shtml)
+
