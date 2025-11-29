@@ -25,3 +25,13 @@
 
 + [从《天道》的一个小细节看程序员](https://www.v2ex.com/t/1175563)
 
++ [PDF EXPERT MAC 端 正在官网放出黑色星期五 Black Friday 超级优惠。168 港币终身版!](https://www.v2ex.com/t/1175643)
+
++ [从北京到深圳 结果没想到掉到了黑宽带公寓 也是 x 了狗了](https://www.v2ex.com/t/1175669)
+
++ [679 京东下单凌晨发现价格降到 599，申请价保被拒？](https://www.v2ex.com/t/1175609)
+
++ [大家听说过“彩礼化债”吗?](https://www.v2ex.com/t/1175602)
+
++ [我家这猫啥品种啊到底](https://www.v2ex.com/t/1175723)
+
