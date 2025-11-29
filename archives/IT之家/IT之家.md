@@ -69,3 +69,7 @@
 
 + [被国家邮政局约谈后，中通快递签署全网劳动规则协议](https://m.ithome.com/html/901135.htm)
 
++ [安世中国：安世荷兰方面诸多不当行径，严重扰乱供应链稳定且破坏信任](https://m.ithome.com/html/901101.htm)
+
++ [全球仅 1 辆：保时捷定制 Panamera 迪拜首发，诠释“有钱任性”](https://m.ithome.com/html/901019.htm)
+

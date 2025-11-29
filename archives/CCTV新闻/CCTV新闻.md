@@ -179,3 +179,5 @@
 
 + [美媒：特朗普称打击“毒贩”地面行动很快开始](https://news.cctv.com/2025/11/29/ARTIPJtqgrHzg56o8P3gdfjE251129.shtml)
 
++ [斯里兰卡极端天气死亡人数升至123人](https://news.cctv.com/2025/11/29/ARTIrphlTS8NaXqds5Tr6mn1251129.shtml)
+

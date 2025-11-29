@@ -221,3 +221,19 @@
 
 + [基于Python深度学习的车辆车牌识别系统（PyTorch2卷积神经网络CNN+OpenCV4实现）视频教程 - 切割车牌矩阵获取车牌字符](https://blog.csdn.net/caoli201314/article/details/155376228)
 
++ [基于CANN多Stream异步执行的智能推理管道：突破传统串行瓶颈](https://blog.csdn.net/m0_55394328/article/details/155380193)
+
++ [基于SpringBoot+大数据Hadoop+网络爬虫+协同过滤推荐算法的民宿数据分析及可视化系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155375937)
+
++ [【优化成本】沼气厂管道系统流体动力学设计和成本优化（目标函数：最小化总年化成本）【含Matlab源码 14581期】](https://blog.csdn.net/weixin_63266434/article/details/155378005)
+
++ [生成式AI重构搜索：GEO时代的营销革命](https://blog.csdn.net/2503_94461647/article/details/155359517)
+
++ [25认证杯B题思路第一弹【顶流思路+透彻建模】](https://blog.csdn.net/kstt20230206/article/details/155341921)
+
++ [游戏助手|游戏攻略|基于SprinBoot+vue的游戏攻略系统小程序(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/155380009)
+
++ [Nacos 与 Spring Cloud Alibaba 集成详解：依赖、配置、实战与避坑指南](https://blog.csdn.net/haohaizi_liu/article/details/155360054)
+
++ [YOLOv11n + VisDrone2019轻量化训练](https://blog.csdn.net/2402_86993389/article/details/155383677)
+
