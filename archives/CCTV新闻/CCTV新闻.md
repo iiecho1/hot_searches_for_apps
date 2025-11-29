@@ -185,3 +185,7 @@
 
 + [秘鲁总统宣布秘智边境进入紧急状态](https://news.cctv.com/2025/11/29/ARTIMZPG4sUC6zpWQAPGoemw251129.shtml)
 
++ [韩国将强制酒精饮料带警示图标](https://news.cctv.com/2025/11/29/ARTI08piPLWJU69lxE4nJB39251129.shtml)
+
++ [泰国南部洪灾已致162人死亡](https://news.cctv.com/2025/11/29/ARTIHeKfihrxwVYVMgnz8pqm251129.shtml)
+

@@ -239,3 +239,7 @@
 
 + [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的多语言翻译与文化适应性优化](https://blog.csdn.net/atgfg/article/details/155272814)
 
++ [模型评估与集成学习](https://blog.csdn.net/2301_82105769/article/details/155378685)
+
++ [谁在掌控Claude AI？拆解资本版图、算力依赖与安全治理](https://blog.csdn.net/yuntongliangda/article/details/155387251)
+
