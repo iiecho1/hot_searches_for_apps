@@ -259,3 +259,9 @@
 
 + [VLM经典论文阅读：【Qwen-VL】A Versatile Vision-Language Model for Understanding, Localization,Text Reading...](https://blog.csdn.net/qq_60587145/article/details/155376353)
 
++ [【前瞻创想】Kurator：站在巨人肩膀上的分布式云原生创新实践](https://blog.csdn.net/weixin_66401877/article/details/155385662)
+
++ [基于遗传-模拟退火算法修正高斯烟羽模型参数附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/155394687)
+
++ [首届CCF算法能力大赛（CACC）区域赛赛题（一）](https://blog.csdn.net/qq_73044452/article/details/155364743)
+
