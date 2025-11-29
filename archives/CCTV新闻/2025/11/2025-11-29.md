@@ -191,3 +191,7 @@
 
 + [美国国务卿或将“罕见”缺席北约外长会](https://news.cctv.com/2025/11/29/ARTIs58vU6N4qH9M8ZceKrUG251129.shtml)
 
++ [极端天气致132人死亡 斯里兰卡总统宣布全国进入公共紧急状态](https://news.cctv.com/2025/11/29/ARTI2sVPxtbA3USmA1JYT1BY251129.shtml)
+
++ [印尼苏门答腊岛山体滑坡灾害已致303人死亡](https://news.cctv.com/2025/11/29/ARTIB7Pgd4Th5bxw4vnnU0Vo251129.shtml)
+

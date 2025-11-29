@@ -249,3 +249,13 @@
 
 + [论文阅读：EMNLP 2025 Stand on The Shoulders of Giants: Building JailExpert from Previous Attack Experienc](https://blog.csdn.net/WhiffeYF/article/details/155386817)
 
++ [【Linux】冯诺依曼体系结构和操作系统概述](https://blog.csdn.net/Miun123/article/details/155382492)
+
++ [使用 Electron 构建天气桌面小工具：调用公开 API 实现跨平台实时天气查询V1.0.0](https://blog.csdn.net/2302_80329073/article/details/155390593)
+
++ [音符跃然眼前-Rokid AR眼镜赋能的沉浸式音乐灵感捕捉系统](https://blog.csdn.net/a1657054242/article/details/155384457)
+
++ [闲聊代码屎山](https://blog.csdn.net/yangshuquan/article/details/155363072)
+
++ [VLM经典论文阅读：【Qwen-VL】A Versatile Vision-Language Model for Understanding, Localization,Text Reading...](https://blog.csdn.net/qq_60587145/article/details/155376353)
+
