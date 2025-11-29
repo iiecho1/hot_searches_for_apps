@@ -51,3 +51,15 @@
 
 + [前英特尔 CEO 基辛格预言：量子计算 2 年内普及加速戳破 AI 泡沫，2030 年 GPU 开始被取代](https://m.ithome.com/html/901178.htm)
 
++ [美团 CEO 王兴：外卖价格战没有为行业创造价值，不可持续](https://m.ithome.com/html/901105.htm)
+
++ [AI 生成广州车展小鹏展台低俗视频，小鹏汽车法务部宣布已报警](https://m.ithome.com/html/901096.htm)
+
++ [售价 399 元，华为首款 AI 情感陪伴电子宠物“智能憨憨”售罄缺货](https://m.ithome.com/html/901017.htm)
+
++ [被国家邮政局约谈后，中通快递签署全网劳动规则协议](https://m.ithome.com/html/901135.htm)
+
++ [安世中国：安世荷兰方面诸多不当行径，严重扰乱供应链稳定且破坏信任](https://m.ithome.com/html/901101.htm)
+
++ [全球仅 1 辆：保时捷定制 Panamera 迪拜首发，诠释“有钱任性”](https://m.ithome.com/html/901019.htm)
+
