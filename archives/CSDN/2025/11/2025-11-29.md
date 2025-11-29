@@ -147,3 +147,5 @@
 
 + [openGauss在教育领域的AI实践：基于Java JDBC的学生成绩预测系统](https://blog.csdn.net/2301_76341691/article/details/155350594)
 
++ [【无人机三维路径规划】【大规模超多目标优化】基于导航变量的多目标粒子群优化算法(NMOPSO)的无人机三维路径规划研究（Matlab代码实现）](https://blog.csdn.net/2501_92941428/article/details/155370024)
+

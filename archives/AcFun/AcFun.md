@@ -67,3 +67,7 @@
 
 + [Biubiubiu](https://m.acfun.cn/v/?ac=48052423)
 
++ [【鬼灭之刃】粤语版无限城OP《太陽が昇らない世界》！](https://m.acfun.cn/v/?ac=48046935)
+
++ [恐龙崛起前，鳄族的超级祖先](https://m.acfun.cn/v/?ac=48053680)
+

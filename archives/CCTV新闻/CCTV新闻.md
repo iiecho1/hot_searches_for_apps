@@ -169,3 +169,5 @@
 
 + [乌克兰腐败丑闻发酵 泽连斯基得力助手辞职](https://news.cctv.com/2025/11/29/ARTILNzZLorz8Qo05fO6cqCC251129.shtml)
 
++ [埃及官员称已做好进入加沙停火协议第二阶段的准备工作](https://news.cctv.com/2025/11/29/ARTIrQJNM3tMHbEExQU6LaAL251129.shtml)
+
