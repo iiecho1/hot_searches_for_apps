@@ -157,3 +157,7 @@
 
 + [springboot 开发个人资料编辑器 系统设计与实现](https://blog.csdn.net/qq_41221322/article/details/155392022)
 
++ [KMP算法在鸿蒙系统中的应用：从字符串匹配到高效系统级开发（附实战代码）](https://blog.csdn.net/2501_93573368/article/details/155397366)
+
++ [【无人机】湍流天气下发动机故障时自动着陆的多级适配研究（Matlab代码实现）](https://blog.csdn.net/m0_73907476/article/details/155325111)
+
