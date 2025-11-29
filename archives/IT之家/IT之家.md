@@ -63,3 +63,5 @@
 
 + [全球仅 1 辆：保时捷定制 Panamera 迪拜首发，诠释“有钱任性”](https://m.ithome.com/html/901019.htm)
 
++ [特斯拉登陆印度市场两个多月，仅卖出 100 多辆车](https://m.ithome.com/html/901281.htm)
+
