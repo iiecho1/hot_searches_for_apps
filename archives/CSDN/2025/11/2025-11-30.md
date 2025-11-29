@@ -117,3 +117,33 @@
 
 + [AI框架之Spring AI与Spring Cloud Alibaba AI使用讲解](https://blog.csdn.net/2509_93994560/article/details/155387478)
 
++ [MySQL 索引与视图：数据库查询优化与数据安全的实用指南（MySQL学习记录9—索引与视图）](https://blog.csdn.net/to_be_me/article/details/155361894)
+
++ [Softmax函数：深度学习中的多类分类基石与进化之路](https://blog.csdn.net/daqianai/article/details/155397300)
+
++ [【李沐 | 动手实现深度学习】5 权重衰减(L2 正则化)](https://blog.csdn.net/m0_74045201/article/details/155395536)
+
++ [透见未来：Rokid AR眼镜如何重塑外科手术的精准视界](https://blog.csdn.net/weixin_37800531/article/details/155354453)
+
++ [MySQL-数据库备份和恢复介绍(不看后悔版)](https://blog.csdn.net/2301_81261819/article/details/155394930)
+
++ [【线程】线程的基本组成要素](https://blog.csdn.net/qq_21438461/article/details/155397861)
+
++ [【youcans论文精读】U-Net：用于医学图像分割的 U型卷积神经网络](https://blog.csdn.net/youcans/article/details/155264057)
+
++ [Flutter 网络请求与数据解析全指南：从 http 到 Dio + json_serializable 实战](https://blog.csdn.net/2501_93773401/article/details/155397281)
+
++ [【杂谈】SNNU公共计算平台：深度学习服务器配置与远程开发指北](https://blog.csdn.net/tycer/article/details/155395940)
+
++ [机器人逆运动学:从SVD到IK算法](https://blog.csdn.net/qq_20604231/article/details/155395448)
+
++ [实战演练——wordpress-k8s集群版](https://blog.csdn.net/m0_68754495/article/details/155303493)
+
++ [Python在AI领域应用全景：2025趋势与案例](https://blog.csdn.net/qq_34419312/article/details/155324922)
+
++ [视界无界：基于Rokid眼镜的AI商务同传系统开发与实践](https://blog.csdn.net/u014727709/article/details/155362212)
+
++ [2025.11.29 【终极解决方案】Multisim 14.3 无法加载主数据库/元器件库为空？修复注册表与配置文件的全流程详解](https://blog.csdn.net/2301_77570046/article/details/155395146)
+
++ [【前瞻创想】标准之争：论Kurator在分布式云原生API标准化中的潜在角色](https://blog.csdn.net/qq_39757921/article/details/155380017)
+
