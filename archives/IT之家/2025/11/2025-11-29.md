@@ -73,3 +73,9 @@
 
 + [全球仅 1 辆：保时捷定制 Panamera 迪拜首发，诠释“有钱任性”](https://m.ithome.com/html/901019.htm)
 
++ [奇瑞星途 ET5 增程 SUV 上市：首发地平线 HSD 方案，超级置换价 13.49 万-14.99 万元](https://m.ithome.com/html/901113.htm)
+
++ [零跑能不能做到半价乐道？蔚来李斌称朱总下手不要太狠，朱江明回应](https://m.ithome.com/html/901028.htm)
+
++ [雷军：未来 5 年，人形机器人将大面积进入小米工厂“打工”](https://m.ithome.com/html/901025.htm)
+
