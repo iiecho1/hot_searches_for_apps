@@ -161,3 +161,13 @@
 
 + [石破茂再批高市早苗言论 强调与中国关系重要性](https://news.cctv.com/2025/11/26/ARTIeWQe6xE1NrTO2mQ6oJfc251126.shtml)
 
++ [游客数量减少 高市错误言论冲击日本旅游业](https://news.cctv.com/2025/11/30/ARTIoJHNrwmOzmMyLSuyAvz0251130.shtml)
+
++ [美国威胁委内瑞拉领空主权 委主要机场维持运转](https://news.cctv.com/2025/11/30/ARTIS6TqH6bfoHOZo9LRUgGp251130.shtml)
+
++ [委内瑞拉谴责美国企图侵犯其领空主权](https://news.cctv.com/2025/11/30/ARTIpDTfgJPotuTqjVLqUIyf251130.shtml)
+
++ [受恶劣天气影响 全美千余架次航班被取消](https://news.cctv.com/2025/11/30/ARTINQIQGbelqrPyIdNOSU59251130.shtml)
+
++ [泽连斯基：乌代表团将抵美进行新一轮谈判](https://news.cctv.com/2025/11/30/ARTIKiHJyhL23nnbgkemhWVE251130.shtml)
+
