@@ -175,3 +175,5 @@
 
 + [美国务院宣布暂停向阿富汗护照持有人签发签证](https://news.cctv.com/2025/11/29/ARTIlWRh5KQFnxd0tTN5d6GY251129.shtml)
 
++ [炸弹威胁解除 美国费城国际机场恢复运营](https://news.cctv.com/2025/11/29/ARTI3ROKBs9ETw3OrlhaeCrL251129.shtml)
+
