@@ -101,3 +101,19 @@
 
 + [使用OpenGL texelFetch函数实现精确LUT滤镜——一种超越GPUImage库映射精度的实时滤镜算法](https://blog.csdn.net/cjzjolly/article/details/155363115)
 
++ [Flutter开发框架如何在deveco打开项目](https://blog.csdn.net/2501_94468248/article/details/155387800)
+
++ [应用层协议 HTTP](https://blog.csdn.net/sqm_C/article/details/154744136)
+
++ [基于PyTorch的深度学习之四：梯度下降法](https://blog.csdn.net/retrofit/article/details/155326352)
+
++ [低代码+高灵活：Flutter主导的鸿蒙(OpenHarmony)应用开发平台搭建](https://blog.csdn.net/2302_80125424/article/details/155393741)
+
++ [VLM经典论文阅读：【Qwen-VL】A Versatile Vision-Language Model for Understanding, Localization,Text Reading...](https://blog.csdn.net/qq_60587145/article/details/155376353)
+
++ [C++20 与 C++23 新特性深度解析：迈向现代 C++ 的核心进化](https://blog.csdn.net/cooldream2009/article/details/155380595)
+
++ [鸿蒙 Flutter 性能优化实战：从渲染卡顿到极致流畅的全链路方案](https://blog.csdn.net/2501_94462937/article/details/155392404)
+
++ [AI框架之Spring AI与Spring Cloud Alibaba AI使用讲解](https://blog.csdn.net/2509_93994560/article/details/155387478)
+
