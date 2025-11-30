@@ -143,3 +143,7 @@
 
 + [什么是DGA](https://blog.csdn.net/hidescold/article/details/155431329)
 
++ [【无人机三维路径规划】基于遗传算法GA结合粒子群算法PSO无人机复杂环境避障三维路径规划（含GA和PSO对比）研究（Matlab代码代码实现）](https://blog.csdn.net/weixin_46039719/article/details/155430985)
+
++ [【无人机三维路径规划】基于遗传算法GA结合粒子群算法PSO无人机复杂环境避障三维路径规划（含GA和PSO对比）研究（Matlab代码代码实现）](https://blog.csdn.net/weixin_66436111/article/details/155432116)
+

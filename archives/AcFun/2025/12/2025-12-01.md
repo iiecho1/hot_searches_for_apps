@@ -69,3 +69,5 @@
 
 + [Girls Day Expectation 期待](https://m.acfun.cn/v/?ac=48057606)
 
++ [Sistar So Cool](https://m.acfun.cn/v/?ac=48057618)
+
