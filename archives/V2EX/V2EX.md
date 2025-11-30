@@ -53,3 +53,5 @@
 
 + [KFCode - 一个全新的 Git 代码托管平台](https://www.v2ex.com/t/1175927)
 
++ [咸鱼上这都能赚钱吗？](https://www.v2ex.com/t/1175944)
+
