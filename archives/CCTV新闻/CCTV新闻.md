@@ -197,3 +197,9 @@
 
 + [内塔尼亚胡就所涉贪腐案向以总统提交赦免请求](https://news.cctv.com/2025/11/30/ARTIj9UVx5Xtkf7WL0TcZ80L251130.shtml)
 
++ [印度南部发生一起交通事故 造成至少12人死亡](https://news.cctv.com/2025/11/30/ARTIoVtqbkvG1loZ72nJcMim251130.shtml)
+
++ [俄外交部：黑海遇袭船只并非任何受制裁对象](https://news.cctv.com/2025/11/30/ARTI3oMReJGujQyoPwjDMMYH251130.shtml)
+
++ [印尼苏门答腊岛洪水和山体滑坡灾害已致442人死亡](https://news.cctv.com/2025/11/30/ARTIGAnbbeLQsTs9w4Vshdur251130.shtml)
+
