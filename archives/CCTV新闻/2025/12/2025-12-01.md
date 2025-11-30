@@ -161,3 +161,11 @@
 
 + [事事关心 | 高市早苗言行挑衅 违背法理危及和平](https://news.cctv.com/2025/11/27/ARTIpnd36I6yOC85We2vF5M4251127.shtml)
 
++ [美乌新一轮谈判结束 美称“富有成效”并谈及俄罗斯](https://news.cctv.com/2025/12/01/ARTI1JTqP9U4d3ow5DJboNwi251201.shtml)
+
++ [洪都拉斯大选开始投票](https://news.cctv.com/2025/12/01/ARTIEN7cUV6h2pjdDEm72M7f251201.shtml)
+
++ [委内瑞拉向欧佩克抗议美国企图以武力控制其石油](https://news.cctv.com/2025/12/01/ARTIWcrXS9hqh05KEFa5xg8w251201.shtml)
+
++ [委内瑞拉战机以作战模式在多地进行飞行演习](https://news.cctv.com/2025/12/01/ARTIduvtHn5yHXdsRvSk4EYO251201.shtml)
+

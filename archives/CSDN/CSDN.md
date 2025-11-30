@@ -147,3 +147,7 @@
 
 + [【无人机三维路径规划】基于遗传算法GA结合粒子群算法PSO无人机复杂环境避障三维路径规划（含GA和PSO对比）研究（Matlab代码代码实现）](https://blog.csdn.net/weixin_66436111/article/details/155432116)
 
++ [解读：对历史人物的功绩评价](https://blog.csdn.net/Peter_Changyb/article/details/155424131)
+
++ [Python 3中的win32com使用教程+示例：从Excel读取数据生成Word格式报告批量发邮件](https://blog.csdn.net/PolarisRisingWar/article/details/155378620)
+
