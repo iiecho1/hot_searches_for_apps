@@ -135,3 +135,11 @@
 
 + [鸿蒙NEXT（五）：鸿蒙版React Native架构浅析](https://blog.csdn.net/2509_94081922/article/details/155369134)
 
++ [Isaac Lab：用于多模态机器人学习的GPU加速仿真框架](https://blog.csdn.net/yorkhunter/article/details/154840992)
+
++ [【动静障碍物】基于JPS算法（改进A*）全局路径规划与DWA动态窗口局部避障的机器人自主导航混合控制算法（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/155430902)
+
++ [矩阵论 Jordan标准型](https://blog.csdn.net/weixin_61426225/article/details/154944059)
+
++ [什么是DGA](https://blog.csdn.net/hidescold/article/details/155431329)
+
