@@ -109,3 +109,21 @@
 
 + [视界重塑：基于Rokid AI眼镜的沉浸式视力康复训练系统设计与实现](https://blog.csdn.net/2301_80350265/article/details/155352402)
 
++ [破局企业微信集成：专业API封装如何将开发周期从周缩短至天？](https://blog.csdn.net/beautifulmemory/article/details/155396274)
+
++ [什么是Spring Boot 应用开发？](https://blog.csdn.net/2509_94229141/article/details/155396522)
+
++ [SpringBoot【实用篇】- 测试](https://blog.csdn.net/2509_94090418/article/details/155395473)
+
++ [港美A股实时盘口数据：Python 接入示例教程](https://blog.csdn.net/2501_92164949/article/details/155428723)
+
++ [亮数据MCP服务器赋能Trae爬取分析CVPR论文—助力科研任务](https://blog.csdn.net/weixin_52908342/article/details/155357909)
+
++ [基于SpringBoot+大数据Hadoop+网络爬虫+协同过滤推荐算法的民宿数据分析及可视化系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155375937)
+
++ [Java_ElasticSearch(ES)——分布式搜索引擎](https://blog.csdn.net/2509_94006108/article/details/155388668)
+
++ [大语言模型如何重塑搜索引擎：从链接罗列到知识服务的革命​](https://blog.csdn.net/weixin_38526314/article/details/155395322)
+
++ [（CICD）自动化构建打包、部署(Jenkins + maven+ gitlab+tomcat)](https://blog.csdn.net/2509_94082020/article/details/155370768)
+
