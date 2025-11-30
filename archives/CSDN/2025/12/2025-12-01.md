@@ -101,3 +101,11 @@
 
 + [在家搭个私人网盘？用 Nextcloud+cpolar 突破局域网限制](https://blog.csdn.net/Pocker_Spades_A/article/details/155353809)
 
++ [【宠物识别系统】Python+TensorFlow+Vue3+Django+人工智能+深度学习+卷积神经网络算法](https://blog.csdn.net/2301_78372746/article/details/155387681)
+
++ [Spring Boot整合WebSocket](https://blog.csdn.net/2509_94201941/article/details/155393190)
+
++ [【Linux】线程概念 线程与进程深度剖析：虚实内存转换、实现机制与优缺点详解](https://blog.csdn.net/2501_90265152/article/details/155353384)
+
++ [视界重塑：基于Rokid AI眼镜的沉浸式视力康复训练系统设计与实现](https://blog.csdn.net/2301_80350265/article/details/155352402)
+

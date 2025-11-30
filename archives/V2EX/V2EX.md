@@ -21,3 +21,7 @@
 
 + [AI 没有替代程序员是因为程序员比 AI 便宜？](https://www.v2ex.com/t/1175908)
 
++ [现在 b 站 up 都那么不挑食么?](https://www.v2ex.com/t/1175960)
+
++ [AI 时代了， Linux 下有好用的开源的中文输入法了吗](https://www.v2ex.com/t/1175890)
+
