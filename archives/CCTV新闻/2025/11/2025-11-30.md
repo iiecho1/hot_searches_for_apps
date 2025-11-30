@@ -187,3 +187,13 @@
 
 + [斯里兰卡洪灾死亡人数升至159人](https://news.cctv.com/2025/11/30/ARTINqIPTd8q89JkbhLAzeMw251130.shtml)
 
++ [内塔尼亚胡赦免请求引发以色列政坛激烈争论](https://news.cctv.com/2025/11/30/ARTIw2VARNCPCMcouEna6k4U251130.shtml)
+
++ [以色列被指违反停火协议591次 致357人死亡](https://news.cctv.com/2025/11/30/ARTIe6L57GeS9EFHQzC7Pgrp251130.shtml)
+
++ [俄总统新闻秘书：俄乌问题解决进程正在加快](https://news.cctv.com/2025/11/30/ARTI5ewFnDlaaDijTDRCMmHX251130.shtml)
+
++ [印尼苏门答腊岛山体滑坡灾害遇难人数升至316人](https://news.cctv.com/2025/11/30/ARTIqnsrJLH4cLykZTJP7o9l251130.shtml)
+
++ [内塔尼亚胡就所涉贪腐案向以总统提交赦免请求](https://news.cctv.com/2025/11/30/ARTIj9UVx5Xtkf7WL0TcZ80L251130.shtml)
+

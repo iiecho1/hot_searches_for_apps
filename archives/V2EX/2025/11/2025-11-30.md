@@ -51,3 +51,5 @@
 
 + [AI 没有替代程序员是因为程序员比 AI 便宜？](https://www.v2ex.com/t/1175908)
 
++ [KFCode - 一个全新的 Git 代码托管平台](https://www.v2ex.com/t/1175927)
+

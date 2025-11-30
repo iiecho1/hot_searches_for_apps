@@ -243,3 +243,11 @@
 
 + [GitHub 热榜项目 - 日榜(2025-11-29)](https://blog.csdn.net/u014390502/article/details/155388995)
 
++ [基于Java的百度地图路线规划服务开发全攻略](https://blog.csdn.net/yelangkingwuzuhu/article/details/155414518)
+
++ [Java 大视界 -- Java 大数据在智能交通智能公交系统中的乘客流量预测与车辆调度优化](https://blog.csdn.net/atgfg/article/details/155320822)
+
++ [45、【Ubuntu】【Gitlab】拉出内网 Web 服务：http.server 分析（二）](https://blog.csdn.net/nobigdeal00/article/details/155360925)
+
++ [【Redis 系列】深入理解Redis核心特性：全局命令、内部编码与单线程架构](https://blog.csdn.net/optimistic_chen/article/details/155360226)
+
