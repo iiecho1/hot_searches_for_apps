@@ -205,3 +205,11 @@
 
 + [SQL 注入详解：原理、危害与防范措施](https://blog.csdn.net/2509_94214563/article/details/155394711)
 
++ [【卷积神经网络】卷积层、池化层、全连接层](https://blog.csdn.net/xiaoyuting999/article/details/155311258)
+
++ [生产管理部绩效考核关键指标与评估体系构建](https://blog.csdn.net/qq_20288327/article/details/149344571)
+
++ [【教程4＞第9章＞第31节】基于FPGA的水果成熟度检测实现——理论分析与MATLAB仿真](https://blog.csdn.net/ccsss22/article/details/155398226)
+
++ [计算机网络概述](https://blog.csdn.net/2401_88036229/article/details/155394406)
+
