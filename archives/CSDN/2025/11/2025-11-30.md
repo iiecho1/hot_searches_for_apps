@@ -235,3 +235,11 @@
 
 + [音视频处理（五）：DLNA投屏技术详解](https://blog.csdn.net/qq_40036519/article/details/155408112)
 
++ [【MySQL】数据库和表的操作](https://blog.csdn.net/2509_94199184/article/details/155395842)
+
++ [【Linux】自动化构建-make/Makefile、倒计时小程序、（补充代码的连接阶段）](https://blog.csdn.net/2402_87310323/article/details/154961113)
+
++ [框架的未来：AI集成、云原生与架构演进](https://blog.csdn.net/2301_77705369/article/details/155359247)
+
++ [GitHub 热榜项目 - 日榜(2025-11-29)](https://blog.csdn.net/u014390502/article/details/155388995)
+
