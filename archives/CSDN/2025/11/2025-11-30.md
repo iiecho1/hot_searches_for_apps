@@ -221,3 +221,5 @@
 
 + [Node.js 与 Docker 深度整合：轻松部署与管理 Node.js 应用](https://blog.csdn.net/2509_94084189/article/details/155392723)
 
++ [本地部署阿里最新开源的Z-Image](https://blog.csdn.net/happyweb/article/details/155390824)
+
