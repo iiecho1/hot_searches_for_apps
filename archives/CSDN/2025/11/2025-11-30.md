@@ -167,3 +167,23 @@
 
 + [构建企业级 GitHub AI Code Review Agent 全指南](https://blog.csdn.net/nvd11/article/details/155400420)
 
++ [【Linux】线程同步与互斥深度解析：从锁机制到生产者消费者模型](https://blog.csdn.net/2401_83647349/article/details/155392110)
+
++ [Flutter 与 OpenHarmony 数据持久化协同方案：从 Shared Preferences 到分布式数据管理](https://blog.csdn.net/2502_93572233/article/details/155408995)
+
++ [Flutter 状态管理终极指南：从 setState 到 Riverpod 全面对比与实战](https://blog.csdn.net/2501_93350459/article/details/155397320)
+
++ [Kafka-3 Kafka 中的生产者](https://blog.csdn.net/qq_56517253/article/details/155387973)
+
++ [Flutter + OpenHarmony 测试框架协同实践：构建端到端的混合应用质量保障体系](https://blog.csdn.net/2501_94386845/article/details/155409243)
+
++ [How to Export and Import Docker Containers and images](https://blog.csdn.net/allway2/article/details/155388585)
+
++ [python基于大数据k-means算法的校园美食推荐分析可视化系统（源码+文档+运行视频+讲解视频）](https://blog.csdn.net/2401_84908299/article/details/155408898)
+
++ [【前瞻创想】Kurator：集成创新，开启分布式云原生新纪元](https://blog.csdn.net/2401_86326742/article/details/155326855)
+
++ [Kthena 引爆云原生推理革命：K8s 分布式架构破解 LLM 编排困局，吞吐狂飙 273%](https://blog.csdn.net/u013970991/article/details/155375881)
+
++ [*计算机系统认知简介](https://blog.csdn.net/Lown_1/article/details/155356114)
+

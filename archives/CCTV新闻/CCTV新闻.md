@@ -173,3 +173,13 @@
 
 + [再问高市之“祸”：太平洋容不下军国主义的幽灵](https://news.cctv.com/2025/11/30/ARTIRV0uhASHLcxL2hsuDjMv251130.shtml)
 
++ [澳大利亚两架轻型飞机相撞 1人遇难](https://news.cctv.com/2025/11/30/ARTIMui8HQqn8PDTrrd9gJNr251130.shtml)
+
++ [受降雪天气影响 全美近7000架次航班延误](https://news.cctv.com/2025/11/30/ARTIn5vYT1EQ5Jr5dfbUfYjP251130.shtml)
+
++ [金正恩称朝鲜空军将装备新战略军事资产](https://news.cctv.com/2025/11/30/ARTIFVeBf1JXyJXbF2zcKiTh251130.shtml)
+
++ [墨西哥中部一酒吧枪击事件致6死多伤](https://news.cctv.com/2025/11/30/ARTI0RffznSLVDf2EeEHd4fw251130.shtml)
+
++ [苏丹南部一村庄遇袭 造成45人死亡](https://news.cctv.com/2025/11/30/ARTIzVkoN22lsewH7Oxpzbxp251130.shtml)
+

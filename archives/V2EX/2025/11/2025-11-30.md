@@ -25,3 +25,13 @@
 
 + [pikpak 我竟然一直用错了](https://www.v2ex.com/t/1175808)
 
++ [2025 年了，真的有人在用电脑购物吗？怎么优化网页?](https://www.v2ex.com/t/1175888)
+
++ [推荐一个系统好用, 拍照, 续航都在线的手机](https://www.v2ex.com/t/1175884)
+
++ [发现小红书、小绿书被风控会连坐设备](https://www.v2ex.com/t/1175885)
+
++ [基于 KVM 的虚拟化（PVE/unraid/oVirt/Openstack），现在能实现 Win 虚拟机下的 3D 加速吗？](https://www.v2ex.com/t/1175892)
+
++ [想要开通 cf 的付费策略，但是苦于没有外币卡](https://www.v2ex.com/t/1175896)
+
