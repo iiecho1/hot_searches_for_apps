@@ -197,3 +197,11 @@
 
 + [【Spring Boot】SpringBoot自动装配-Import](https://blog.csdn.net/2509_94201534/article/details/155396108)
 
++ [【组合数学】P12185 [蓝桥杯 2025 省 Python A/研究生组] IPv6|普及+](https://blog.csdn.net/he_zhidan/article/details/148193853)
+
++ [地瓜派RDK X5部署YOLOv11n完整实战：从7 FPS到47 FPS的性能优化之路](https://blog.csdn.net/hueuyang/article/details/155410591)
+
++ [基于深度学习的安全帽检测系统演示与介绍(YOLOv12/v11/v8/v5模型+Pyqt5界面+训练代码+数据集)](https://blog.csdn.net/ningfoshao8678/article/details/155395431)
+
++ [SQL 注入详解：原理、危害与防范措施](https://blog.csdn.net/2509_94214563/article/details/155394711)
+
