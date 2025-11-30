@@ -49,3 +49,5 @@
 
 + [特斯拉登陆印度市场两个多月，仅卖出 100 多辆车](https://m.ithome.com/html/901281.htm)
 
++ [华为 Mate 80 Pro 手机支持《王者荣耀》120 帧 + 极致画质同开](https://m.ithome.com/html/901405.htm)
+
