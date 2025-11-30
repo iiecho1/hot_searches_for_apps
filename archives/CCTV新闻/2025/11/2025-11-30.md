@@ -185,3 +185,5 @@
 
 + [委内瑞拉称已启动所有多边机制 要求美方停止非法行为](https://news.cctv.com/2025/11/30/ARTI7JAAs9BLETh78ERu70ne251130.shtml)
 
++ [斯里兰卡洪灾死亡人数升至159人](https://news.cctv.com/2025/11/30/ARTINqIPTd8q89JkbhLAzeMw251130.shtml)
+
