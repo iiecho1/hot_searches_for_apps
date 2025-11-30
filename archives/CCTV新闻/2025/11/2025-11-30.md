@@ -183,3 +183,5 @@
 
 + [苏丹南部一村庄遇袭 造成45人死亡](https://news.cctv.com/2025/11/30/ARTIzVkoN22lsewH7Oxpzbxp251130.shtml)
 
++ [委内瑞拉称已启动所有多边机制 要求美方停止非法行为](https://news.cctv.com/2025/11/30/ARTI7JAAs9BLETh78ERu70ne251130.shtml)
+
