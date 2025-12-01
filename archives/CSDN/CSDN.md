@@ -151,3 +151,9 @@
 
 + [Python 3中的win32com使用教程+示例：从Excel读取数据生成Word格式报告批量发邮件](https://blog.csdn.net/PolarisRisingWar/article/details/155378620)
 
++ [【蘑菇识别系统】Python+TensorFlow+Vue3+Django+人工智能+深度学习+卷积网络+resnet50算法](https://blog.csdn.net/meridian002/article/details/155390148)
+
++ [【2025具身智能大模型·系列18】RoboBrain-X0：智源研究院开源的跨本体泛化具身模型，开启机器人新时代](https://blog.csdn.net/xiaobing259/article/details/155092388)
+
++ [电子电气架构 --- 国外对于EE架构的设计方案（上）](https://blog.csdn.net/Soly_kun/article/details/155323342)
+
