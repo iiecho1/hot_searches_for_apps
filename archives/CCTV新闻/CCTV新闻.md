@@ -167,3 +167,11 @@
 
 + [法乌领导人举行新闻发布会 强调对乌安全保障](https://news.cctv.com/2025/12/02/ARTIbsPt0hzKDUnLIIUmvuQG251202.shtml)
 
++ [哥伦比亚总统宣布恢复与委内瑞拉民用航空服务](https://news.cctv.com/2025/12/02/ARTImtdO2QUKqUqfBsT1PooB251202.shtml)
+
++ [哈马斯称加沙急需活动板房等冬季御寒物资](https://news.cctv.com/2025/12/02/ARTIrhyxVEcAygKU3bnxm5rB251202.shtml)
+
++ [泽连斯基：乌美就领土问题讨论长达6.5小时](https://news.cctv.com/2025/12/02/ARTIKAi4oMGsjKY4n1cMtdHg251202.shtml)
+
++ [苏丹领导人：冲突解决方案须包括解散快速支援部队](https://news.cctv.com/2025/12/02/ARTIN7dj0TGPmFp2WC51srh0251202.shtml)
+
