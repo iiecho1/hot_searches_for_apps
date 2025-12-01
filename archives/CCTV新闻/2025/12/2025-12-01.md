@@ -189,3 +189,5 @@
 
 + [澳大利亚国防部启动50年来最大规模重组](https://news.cctv.com/2025/12/01/ARTItSFncX1sFNRld1nFmVp8251201.shtml)
 
++ [中国公民即日起至2026年9月14日可免签前往俄罗斯](https://news.cctv.com/2025/12/01/ARTIKC2bNxvrpgU27VHxlDXQ251201.shtml)
+
