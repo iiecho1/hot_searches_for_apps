@@ -191,3 +191,5 @@
 
 + [中国公民即日起至2026年9月14日可免签前往俄罗斯](https://news.cctv.com/2025/12/01/ARTIKC2bNxvrpgU27VHxlDXQ251201.shtml)
 
++ [韩国首尔市长被起诉](https://news.cctv.com/2025/12/01/ARTIJaj5RoYDBhuh8uBV6CAa251201.shtml)
+

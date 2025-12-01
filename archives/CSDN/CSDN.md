@@ -195,3 +195,9 @@
 
 + [【网络】HTTP协议深度解析：从请求响应到Cookie/Session](https://blog.csdn.net/2401_83647349/article/details/155420764)
 
++ [蓝牙 HFP 客户端音频连接建立机制详解[1]：BCC 协商与 SCO 链路实现(connect_audio)](https://blog.csdn.net/weixin_37800531/article/details/155396672)
+
++ [（11）(2.3.1) ESC遥测（一）](https://blog.csdn.net/qq_20016593/article/details/155443475)
+
++ [我把pdfplumber整成了可以拖拉拽的web软件](https://blog.csdn.net/Pydatas/article/details/155323050)
+
