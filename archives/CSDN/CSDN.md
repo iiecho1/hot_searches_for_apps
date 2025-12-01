@@ -185,3 +185,7 @@
 
 + [BipedalWalker实战：SAC算法如何让机器人学会稳定行走](https://blog.csdn.net/m0_46510245/article/details/155428289)
 
++ [深度强化学习 | 基于PPO算法的移动机器人路径跟踪(附Pytorch实现)](https://blog.csdn.net/FRIGIDWINTER/article/details/155428474)
+
++ [【Rokid】用Rokid AR眼镜做菜：解放双手的厨房助手开发实战](https://blog.csdn.net/qq_38628970/article/details/155440535)
+
