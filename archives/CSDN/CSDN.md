@@ -175,3 +175,13 @@
 
 + [Spring Boot 机制三： ApplicationContext 生命周期与事件机制源码解析](https://blog.csdn.net/qq_61654952/article/details/155439623)
 
++ [《高扩展性开源智能体开发：多插件集成与优质资源编排技术落地》](https://blog.csdn.net/Dovis5884/article/details/155342894)
+
++ [④用MateChat 写了一个 AI 修仙模拟器，融合高性能状态管理与叙事终端](https://blog.csdn.net/wtyuong/article/details/155324559)
+
++ [【Unity 实用工具篇】 | Unity中的软遮罩组件 SoftMaskForUGUI 快速上手使用](https://blog.csdn.net/zhangay1998/article/details/155440992)
+
++ [解码TCP：如何实现可靠的数据传输](https://blog.csdn.net/2402_84532723/article/details/152608449)
+
++ [BipedalWalker实战：SAC算法如何让机器人学会稳定行走](https://blog.csdn.net/m0_46510245/article/details/155428289)
+
