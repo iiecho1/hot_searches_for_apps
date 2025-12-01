@@ -141,3 +141,5 @@
 
 + [Xamarin 与 .NET MAUI：.NET跨平台原生移动App开发前世今生](https://blog.csdn.net/mss359681091/article/details/155467969)
 
++ [解锁医疗AI新引擎：从数据库与编程语言透视合成数据生成（代码部分）](https://blog.csdn.net/kkiron/article/details/155440562)
+
