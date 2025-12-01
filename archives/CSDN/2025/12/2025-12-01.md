@@ -201,3 +201,5 @@
 
 + [我把pdfplumber整成了可以拖拉拽的web软件](https://blog.csdn.net/Pydatas/article/details/155323050)
 
++ [Qt AFSim雷达显控端-战术显示面板](https://blog.csdn.net/ly305750665/article/details/155429468)
+
