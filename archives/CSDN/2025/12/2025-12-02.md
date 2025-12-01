@@ -101,3 +101,15 @@
 
 + [为什么我不能直接双击打开 HTML？——前端视角的 Localhost 揭秘](https://blog.csdn.net/2301_81253185/article/details/155424945)
 
++ [Qt AFSim雷达显控端-战术显示面板](https://blog.csdn.net/ly305750665/article/details/155429468)
+
++ [Springboot中使用Elasticsearch（部署+使用+讲解 最完整）](https://blog.csdn.net/2509_94094864/article/details/155395590)
+
++ [企业传文件怕泄密？加持了cpolar的这套本地方案安全又好用](https://blog.csdn.net/weixin_74888502/article/details/155458245)
+
++ [系统分析师：系统规划与分析的业务流程分析、业务流程图、数据与数据流程分析和系统方案建议](https://blog.csdn.net/g984160547/article/details/154795459)
+
++ [AI研究-134 Java 2025：会衰退吗？LTS 路线、云原生与工程化落地趋势研究](https://blog.csdn.net/w776341482/article/details/155441821)
+
++ [GitHub 一周热门项目速览 | 2025年12月1日](https://blog.csdn.net/u011064099/article/details/155417423)
+
