@@ -25,3 +25,27 @@
 
 + [华为 Mate 80 Pro 手机支持《王者荣耀》120 帧 + 极致画质同开](https://m.ithome.com/html/901405.htm)
 
++ [2025 年 11 月汽车销量 / 交付汇总：广汽埃安 36288 辆，同比下降 14.2%（实时更新）](https://m.ithome.com/html/901448.htm)
+
++ [神舟二十号返回舱玻璃裂纹揭秘：三角形痕迹、贯穿性裂纹，初步判断空间碎片尺寸不到一毫米](https://m.ithome.com/html/901426.htm)
+
++ [小米汽车“现车选购”即将开启：通过严格质检，可享快速提车](https://m.ithome.com/html/901463.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.115 SP16 版本开推，首批适配机型含 nova 14、Pura 80 系列等](https://m.ithome.com/html/901461.htm)
+
++ [“旧国标”电动自行车今起全面停售，已购买上牌车辆不会强制淘汰](https://m.ithome.com/html/901429.htm)
+
++ [努比亚 M153 豆包手机助手详细规格公布：骁龙 8 至尊版芯片，6.78 英寸 LTPO 显示屏](https://m.ithome.com/html/901499.htm)
+
++ [DeepSeek V3.2 正式版发布：推理比肩 GPT-5，首推 Speciale 版本拿下奥数金牌](https://m.ithome.com/html/901665.htm)
+
++ [华为 AR 测量 App 回归，Mate 80 系列手机全系搭载](https://m.ithome.com/html/901436.htm)
+
++ [华为 Mate 60/70 等推送鸿蒙 HarmonyOS 6.0.0.115 SP16 版本，新增显示“HDR Vivid”标识、短信通知智能摘要等功能](https://m.ithome.com/html/901600.htm)
+
++ [首次内地院线上映：周星驰经典喜剧《鹿鼎记》4K 修复版定档 12 月 5 日](https://m.ithome.com/html/901472.htm)
+
++ [济南补贴全国用：数码 3C 九折立减 1000 元，iPhone Air 7999 → 6250 元 7.8 折新低](https://m.ithome.com/html/901621.htm)
+
++ [罗永浩宣布将于 12 月 30 日举行年度科技创新分享大会，将发布细红线科技 AI 软件](https://m.ithome.com/html/901524.htm)
+

@@ -139,3 +139,5 @@
 
 + [共绩算力 RTX 5090 极速部署 Stable Diffusion WebUI：新手也能秒开 AI 绘图工作站](https://blog.csdn.net/weixin_37800531/article/details/155466534)
 
++ [Xamarin 与 .NET MAUI：.NET跨平台原生移动App开发前世今生](https://blog.csdn.net/mss359681091/article/details/155467969)
+
