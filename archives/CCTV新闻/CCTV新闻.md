@@ -161,3 +161,9 @@
 
 + [俄法院判处2022年克里米亚大桥恐袭案8名被告终身监禁](https://news.cctv.com/2025/11/27/ARTIFLlEcvQl1w7bipDH7N5n251127.shtml)
 
++ [刚果（金）宣布第16轮埃博拉疫情结束](https://news.cctv.com/2025/12/02/ARTINn7uJ9fyIARJwvIfeh50251201.shtml)
+
++ [俄官员：若美持积极态度 愿恢复网络安全领域合作](https://news.cctv.com/2025/12/02/ARTI0fcdR4jIMXBSRdCvzMdW251202.shtml)
+
++ [法乌领导人举行新闻发布会 强调对乌安全保障](https://news.cctv.com/2025/12/02/ARTIbsPt0hzKDUnLIIUmvuQG251202.shtml)
+
