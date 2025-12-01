@@ -183,3 +183,5 @@
 
 + [全球百大武器制造商去年收入创纪录 美军火商收入占比过半](https://news.cctv.com/2025/12/01/ARTITAkpXK7Rxpwn2R2asJmO251201.shtml)
 
++ [全球治理倡议带来合作新机遇（国际论坛）](https://news.cctv.com/2025/12/01/ARTInxIxG1NGnJpcspMPcqqD251201.shtml)
+
