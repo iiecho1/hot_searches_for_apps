@@ -173,3 +173,5 @@
 
 + [同城派送系统源码，支持小程序，h5，app](https://blog.csdn.net/dubiaopei/article/details/155428664)
 
++ [Spring Boot 机制三： ApplicationContext 生命周期与事件机制源码解析](https://blog.csdn.net/qq_61654952/article/details/155439623)
+

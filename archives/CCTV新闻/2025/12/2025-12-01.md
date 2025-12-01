@@ -185,3 +185,7 @@
 
 + [全球治理倡议带来合作新机遇（国际论坛）](https://news.cctv.com/2025/12/01/ARTInxIxG1NGnJpcspMPcqqD251201.shtml)
 
++ [中国驻塔大使馆：要求塔方采取必要措施确保中国企业及公民安全](https://news.cctv.com/2025/12/01/ARTIFSkqARps4xogltURs7Wa251201.shtml)
+
++ [澳大利亚国防部启动50年来最大规模重组](https://news.cctv.com/2025/12/01/ARTItSFncX1sFNRld1nFmVp8251201.shtml)
+
