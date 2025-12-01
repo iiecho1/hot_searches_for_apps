@@ -137,3 +137,5 @@
 
 + [第9章 Node框架实战篇 - Redis 缓存](https://blog.csdn.net/weixin_43800535/article/details/155382079)
 
++ [共绩算力 RTX 5090 极速部署 Stable Diffusion WebUI：新手也能秒开 AI 绘图工作站](https://blog.csdn.net/weixin_37800531/article/details/155466534)
+
