@@ -113,3 +113,27 @@
 
 + [GitHub 一周热门项目速览 | 2025年12月1日](https://blog.csdn.net/u011064099/article/details/155417423)
 
++ [基于Python深度学习的车辆车牌识别系统（PyTorch2卷积神经网络CNN+OpenCV4实现）视频教程 - 切割车牌矩阵获取车牌字符](https://blog.csdn.net/caoli201314/article/details/155376228)
+
++ [【个人项目】C++基于websocket的多用户网页五子棋（上）](https://blog.csdn.net/Yu_Lijing/article/details/155400703)
+
++ [Spring Boot与MyBatis](https://blog.csdn.net/2509_94090418/article/details/155425989)
+
++ [2025年11月个人工作生活总结](https://blog.csdn.net/subfate/article/details/155428494)
+
++ [冰海通航的科技密码：葫芦岛港的破冰实践与智慧港口建设](https://blog.csdn.net/eidolon_foot/article/details/155423362)
+
++ [Spring Boot 整合 Apollo 配置中心实战](https://blog.csdn.net/2509_94088294/article/details/155425837)
+
++ [redis定期删除](https://blog.csdn.net/shuair/article/details/155430060)
+
++ [Spring Boot项目集成Redisson 原始依赖与 Spring Boot Starter 的流程](https://blog.csdn.net/2509_94101141/article/details/155426224)
+
++ [游戏助手|游戏攻略|基于SprinBoot+vue的游戏攻略系统小程序(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/155380009)
+
++ [主流 AI 插件 之一的 Copilot 介绍](https://blog.csdn.net/u014695938/article/details/155390098)
+
++ [2025 年突破性科技：大模型驱动的实时多模态数据流处理系统](https://blog.csdn.net/2302_80262940/article/details/155441708)
+
++ [第9章 Node框架实战篇 - Redis 缓存](https://blog.csdn.net/weixin_43800535/article/details/155382079)
+
