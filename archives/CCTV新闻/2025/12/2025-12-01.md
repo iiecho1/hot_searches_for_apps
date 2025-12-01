@@ -169,3 +169,17 @@
 
 + [委内瑞拉战机以作战模式在多地进行飞行演习](https://news.cctv.com/2025/12/01/ARTIduvtHn5yHXdsRvSk4EYO251201.shtml)
 
++ [日本10年期新发国债收益率升至2008年6月以来最高](https://news.cctv.com/2025/12/01/ARTIGXZ1E43wYTvDIFGbfVMo251201.shtml)
+
++ [我国首次出口泰国的整套铁路大型养路施工车组在昆明下线验收](https://news.cctv.com/2025/12/01/ARTIgRIBlC2avt4rd9tOLm96251201.shtml)
+
++ [国际观察丨反省缺失 叙事畸形——德国学者批评高市错误言论和日本右翼史观](https://news.cctv.com/2025/12/01/ARTISFjIfC8CFziTPrWCZGvc251201.shtml)
+
++ [韩国破获网络性犯罪大案 12万个摄像头遭入侵](https://news.cctv.com/2025/12/01/ARTIiqpN0CiAUbBxK8NvR9wV251201.shtml)
+
++ [日本北海道一工厂发生爆炸并引发火灾](https://news.cctv.com/2025/12/01/ARTIagaQott9YFP7Ccl92T4w251201.shtml)
+
++ [美乌4小时会谈细节曝光 特朗普发声](https://news.cctv.com/2025/12/01/ARTIfJdZ06NpdaHkmt5oCWkV251201.shtml)
+
++ [全球百大武器制造商去年收入创纪录 美军火商收入占比过半](https://news.cctv.com/2025/12/01/ARTITAkpXK7Rxpwn2R2asJmO251201.shtml)
+

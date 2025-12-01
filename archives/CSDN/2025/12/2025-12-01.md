@@ -157,3 +157,15 @@
 
 + [电子电气架构 --- 国外对于EE架构的设计方案（上）](https://blog.csdn.net/Soly_kun/article/details/155323342)
 
++ [【JAVA进阶】Spring Boot 核心知识点之自动配置：原理与实战](https://blog.csdn.net/weixin_63944437/article/details/155438784)
+
++ [Qt中的信号与槽](https://blog.csdn.net/ABWSO/article/details/154698079)
+
++ [基于Python深度学习的车辆车牌识别系统（PyTorch2卷积神经网络CNN+OpenCV4实现）视频教程 - 切割车牌矩阵获取车牌字符](https://blog.csdn.net/caoli201314/article/details/155376228)
+
++ [Java 大视界 -- Java 大数据在智能交通智能公交系统中的乘客流量预测与车辆调度优化](https://blog.csdn.net/atgfg/article/details/155320822)
+
++ [【spring框架】解锁Spring框架：Java开发的超强秘籍 （一）](https://blog.csdn.net/weixin_56334307/article/details/155437626)
+
++ [从按钮到 Bot：用 DevUI + MateChat 30 分钟搭建「可聊天」的云控制台](https://blog.csdn.net/u014727709/article/details/155439892)
+
