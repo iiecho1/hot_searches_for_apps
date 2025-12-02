@@ -191,3 +191,13 @@
 
 + [老挝庆祝建国50周年](https://photo.cctv.com/2025/12/02/PHOAFD3HliHnSzwpJzF2bMwW251202.shtml)
 
++ [明尼苏达州税金流向非洲恐怖组织？美财政部展开调查](https://news.cctv.com/2025/12/02/ARTI6oDlEvWGNHB8sqO9yF8k251202.shtml)
+
++ [“封关”是为了更高水平的“开放”](https://news.cctv.com/2025/12/02/ARTIjTnIbEb6RWL4vA7INDpb251202.shtml)
+
++ [新疆发展有鲜活的生命力（国际论坛）](https://news.cctv.com/2025/12/02/ARTIgfdQZA7AIiTpPvO3NgHv251202.shtml)
+
++ [多国政府和国际人士重申坚定奉行一个中国原则](https://news.cctv.com/2025/12/02/ARTIiFWH8zWgMobpo304ksaE251202.shtml)
+
++ [中国经济的“稳”与“进”为世界注入信心（和音）](https://news.cctv.com/2025/12/02/ARTIfjEVFxbExjZdBsQRMnRG251202.shtml)
+
