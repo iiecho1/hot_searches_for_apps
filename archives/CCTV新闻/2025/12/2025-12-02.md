@@ -189,3 +189,5 @@
 
 + [极端天气已致斯里兰卡410人死亡](https://news.cctv.com/2025/12/02/ARTIHI9pXEGTSnI3XZepLl11251202.shtml)
 
++ [老挝庆祝建国50周年](https://photo.cctv.com/2025/12/02/PHOAFD3HliHnSzwpJzF2bMwW251202.shtml)
+

@@ -183,3 +183,5 @@
 
 + [破局企业微信集成：专业API封装如何将开发周期从周缩短至天？](https://blog.csdn.net/beautifulmemory/article/details/155396274)
 
++ [第3版•系统集成项目管理工程师（中级） │ 第9章 项目管理概论](https://blog.csdn.net/qq_41840843/article/details/154677757)
+
