@@ -163,3 +163,7 @@
 
 + [爱尔兰宣布将向乌克兰提供1.25亿欧元援助](https://news.cctv.com/2025/12/03/ARTI9ZCdqK9mVSj3O0P8co4X251202.shtml)
 
++ [俄罗斯总统普京与美国特使举行会晤](https://news.cctv.com/2025/12/03/ARTIBZNPJHrKkH0ZQdugDf36251203.shtml)
+
++ [泽连斯基称俄须展现实现“真正和平与安全保障”意愿](https://news.cctv.com/2025/12/03/ARTIITq0dFN9lSCsUlUoVcxS251202.shtml)
+
