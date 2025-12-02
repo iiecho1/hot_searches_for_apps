@@ -191,3 +191,7 @@
 
 + [【ASP.NET进阶】Controller 层 Action 返回值：HttpStatusCodeResult 状态码返回全解析](https://blog.csdn.net/William_cl/article/details/155464870)
 
++ [LMM-Det：让大型多模态模型在目标检测中脱颖而出](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/155436884)
+
++ [用nginx正向代理https网站](https://blog.csdn.net/2509_94105055/article/details/155468037)
+
