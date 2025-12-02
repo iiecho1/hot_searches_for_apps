@@ -177,3 +177,9 @@
 
 + [什么是Unix哲学？或者：如何像克尼汉一样思考、像里奇一样编码、像汤普森一样架构](https://blog.csdn.net/2301_79518550/article/details/155421926)
 
++ [Electron for鸿蒙PC实战项目之扑克牌游戏](https://blog.csdn.net/2301_79280419/article/details/155420605)
+
++ [Electron for鸿蒙PC实战项目之钓鱼游戏](https://blog.csdn.net/hubiao002/article/details/155421349)
+
++ [破局企业微信集成：专业API封装如何将开发周期从周缩短至天？](https://blog.csdn.net/beautifulmemory/article/details/155396274)
+

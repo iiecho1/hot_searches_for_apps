@@ -185,3 +185,7 @@
 
 + [韩国总统：必须彻底揭开隐匿于各处的内乱黑恶势力](https://news.cctv.com/2025/12/02/ARTIwhPexq5n8qQyRhrLjHp6251202.shtml)
 
++ [白宫为美军连续打击同一艘“运毒船”辩护](https://news.cctv.com/2025/12/02/ARTITDUWTkl1OgCehFtA3MEG251202.shtml)
+
++ [极端天气已致斯里兰卡410人死亡](https://news.cctv.com/2025/12/02/ARTIHI9pXEGTSnI3XZepLl11251202.shtml)
+
