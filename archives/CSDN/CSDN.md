@@ -165,3 +165,13 @@
 
 + [Agent架构升级：解决Gemini超大Prompt处理问题](https://blog.csdn.net/nvd11/article/details/155421774)
 
++ [【Linux】冯诺依曼体系结构和操作系统概述](https://blog.csdn.net/Miun123/article/details/155382492)
+
++ [【Spring Boot 报错已解决】Error creating bean with entityManagerFactory 原因分析与解决方案](https://blog.csdn.net/2301_80026901/article/details/155441002)
+
++ [基于SpringBoot+大数据Hadoop+网络爬虫的汽车数据分析系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155481692)
+
++ [Elasticsearch Java 开发完全指南](https://blog.csdn.net/u011265143/article/details/155427644)
+
++ [Redis四种模式在Spring Boot框架下的配置](https://blog.csdn.net/2509_94084189/article/details/155425378)
+
