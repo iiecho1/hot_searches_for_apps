@@ -101,3 +101,13 @@
 
 + [DAY2-Open Harmony PC 命令行适配指南（Windows版）-Tree命令行工具下载篇](https://blog.csdn.net/m0_38139250/article/details/155462142)
 
++ [【AI智能体】Coze 基于行业文章生成思维导图工作流详解](https://blog.csdn.net/zhangcongyi420/article/details/154913699)
+
++ [IDEA+Docker一键部署项目SpringBoot项目](https://blog.csdn.net/2509_94104202/article/details/155420623)
+
++ [LazyLLM 多 Agent 应用全流程实践：从源码部署到可视化 Web 调试的低代码方案](https://blog.csdn.net/weixin_62765017/article/details/155324685)
+
++ [OpenWrt WebUI 交互架构深度解析](https://blog.csdn.net/weixin_47877869/article/details/155456329)
+
++ [开源企业级报表系统SpringReport](https://blog.csdn.net/2509_94088022/article/details/155466886)
+
