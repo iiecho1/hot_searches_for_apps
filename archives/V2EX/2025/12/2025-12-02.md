@@ -53,3 +53,5 @@
 
 + [我对各行业 ETF 的看法](https://www.v2ex.com/t/1176270)
 
++ [笑不出来，用了好多年的 Infinity 新标签页 疑似被投毒](https://www.v2ex.com/t/1176399)
+

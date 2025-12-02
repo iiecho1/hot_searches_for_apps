@@ -185,3 +185,5 @@
 
 + [第3版•系统集成项目管理工程师（中级） │ 第9章 项目管理概论](https://blog.csdn.net/qq_41840843/article/details/154677757)
 
++ [MySQL【索引】篇：索引的分类、B+树、创建索引的原则、索引失效的情况...](https://blog.csdn.net/qq_49232751/article/details/155465869)
+
