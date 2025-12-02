@@ -71,3 +71,17 @@
 
 + [问世至今已近十年，苹果初代 iPhone SE 成为过时产品](https://m.ithome.com/html/901721.htm)
 
++ [马斯克称中国人几乎离不开微信，X 目标打造成微信升级版](https://m.ithome.com/html/901766.htm)
+
++ [3499 元的首款“豆包助手”手机售罄，二手平台加价 700 元起](https://m.ithome.com/html/901836.htm)
+
++ [小米汽车累计交付突破 50 万台，超过年初设定的 35 万台全年目标](https://m.ithome.com/html/901773.htm)
+
++ [vivo 回应直播间风波：个别诋毁性评论被误触置顶，坚决反对任何性别歧视和制造对立的言论](https://m.ithome.com/html/901673.htm)
+
++ [迪士尼《疯狂动物城 2》总票房破 20 亿，超《海王》进入中国影史进口片票房前五](https://m.ithome.com/html/901737.htm)
+
++ [消息称小米 REDMI Turbo5 Pro 手机春节前登场，搭同档唯一旗舰芯](https://m.ithome.com/html/901817.htm)
+
++ [三星首款三折叠手机 Galaxy Z TriFold 发布：采用 10 英寸内屏、骁龙 8 Elite for Galaxy 芯片](https://m.ithome.com/html/901756.htm)
+
