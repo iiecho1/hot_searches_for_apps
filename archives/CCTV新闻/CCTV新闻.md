@@ -179,3 +179,7 @@
 
 + [委内瑞拉机场见闻](https://photo.cctv.com/2025/12/02/PHOAxh05q5RNF1FQiWDjhP9C251202.shtml)
 
++ [塔吉克斯坦国家安全委员会：正采取升级措施加强边境管控，保障本国及外国公民安全](https://news.cctv.com/2025/12/02/ARTIjY8MKDnmlKaneBNTXFcF251202.shtml)
+
++ [加拿大宣布完成加入“欧洲安全行动”谈判](https://news.cctv.com/2025/12/02/ARTINNPONYJAOSIkXBG8DSS3251202.shtml)
+
