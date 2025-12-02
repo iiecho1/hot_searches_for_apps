@@ -167,3 +167,9 @@
 
 + [泽连斯基称俄须展现实现“真正和平与安全保障”意愿](https://news.cctv.com/2025/12/03/ARTIITq0dFN9lSCsUlUoVcxS251202.shtml)
 
++ [帕瓦罗蒂雕像“被困”溜冰场 意大利一市市长致歉](https://news.cctv.com/2025/12/03/ARTI7lYR7NQGbrxHvYtirMEH251203.shtml)
+
++ [被捕一周后 卢浮宫抢劫案第四名嫌疑人被临时收监](https://news.cctv.com/2025/12/03/ARTI7pNjaq7BBbifuM5rjsPU251203.shtml)
+
++ [特朗普：将对任何涉嫌向美“走私毒品”的国家实施打击](https://news.cctv.com/2025/12/03/ARTI511LFE5rYCQGHWAoglqm251203.shtml)
+
