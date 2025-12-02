@@ -175,3 +175,5 @@
 
 + [Redis四种模式在Spring Boot框架下的配置](https://blog.csdn.net/2509_94084189/article/details/155425378)
 
++ [什么是Unix哲学？或者：如何像克尼汉一样思考、像里奇一样编码、像汤普森一样架构](https://blog.csdn.net/2301_79518550/article/details/155421926)
+

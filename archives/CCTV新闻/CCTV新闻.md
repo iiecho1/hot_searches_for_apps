@@ -183,3 +183,5 @@
 
 + [加拿大宣布完成加入“欧洲安全行动”谈判](https://news.cctv.com/2025/12/02/ARTINNPONYJAOSIkXBG8DSS3251202.shtml)
 
++ [韩国总统：必须彻底揭开隐匿于各处的内乱黑恶势力](https://news.cctv.com/2025/12/02/ARTIwhPexq5n8qQyRhrLjHp6251202.shtml)
+
