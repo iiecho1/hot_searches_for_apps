@@ -177,3 +177,5 @@
 
 + [德国将为二战波兰受害者建纪念碑并归还侵占文物](https://news.cctv.com/2025/12/02/ARTItvEW4reh8k7xglqaf6Do251202.shtml)
 
++ [委内瑞拉机场见闻](https://photo.cctv.com/2025/12/02/PHOAxh05q5RNF1FQiWDjhP9C251202.shtml)
+

@@ -57,3 +57,17 @@
 
 + [2025 年 11 月汽车销量 / 交付汇总：鸿蒙智行 11 月全系车型交付新车 81864 台，创单月交付历史新高](https://m.ithome.com/html/901448.htm)
 
++ [2025 年 11 月汽车销量 / 交付榜：比亚迪超 48 万辆再夺第一，鸿蒙智行、零跑、蔚来表现亮眼](https://m.ithome.com/html/901722.htm)
+
++ [内存价格飙升冲击 PC 硬件市场，消息称主板销量同比大跌 40% 至 50%](https://m.ithome.com/html/901516.htm)
+
++ [蔚来 EC6 撞击事故断成两截，官方回应称电池未发生安全风险](https://m.ithome.com/html/901659.htm)
+
++ [华为 MatePad Mini 悦读版官降 300 元：8.8 英寸小平板，2999 元起](https://m.ithome.com/html/901581.htm)
+
++ [单月历史新高：鸿蒙智行全系车型 11 月交付新车 81864 台，同比增长 89.61%](https://m.ithome.com/html/901474.htm)
+
++ [果粉刷屏求苹果：别光捐款，我们要红色 iPhone 17 Pro](https://m.ithome.com/html/901730.htm)
+
++ [问世至今已近十年，苹果初代 iPhone SE 成为过时产品](https://m.ithome.com/html/901721.htm)
+
