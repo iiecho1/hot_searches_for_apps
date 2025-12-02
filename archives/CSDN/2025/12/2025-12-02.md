@@ -205,3 +205,13 @@
 
 + [教学场景远程控制选谁？ToDesk、向日葵、RemoteView性能实测大揭秘](https://blog.csdn.net/wuyiyu_/article/details/155458597)
 
++ [PyTorch实战（14）——图注意力网络（Graph Attention Network，GAT）](https://blog.csdn.net/LOVEmy134611/article/details/150387344)
+
++ [团队协作好帮手：SimpleMindMap 私有化部署，CPolar 让远程共创更安全](https://blog.csdn.net/lrq13965748542/article/details/155502057)
+
++ [【Linux网络】网络层IP协议](https://blog.csdn.net/2402_82670467/article/details/155285844)
+
++ [安全月报 | 傲盾DDoS攻击防御2025年11月简报](https://blog.csdn.net/aodunsoft/article/details/155455002)
+
++ [DAY2-Open Harmony PC 命令行适配指南（Windows版）-Tree命令行工具下载篇](https://blog.csdn.net/m0_38139250/article/details/155462142)
+
