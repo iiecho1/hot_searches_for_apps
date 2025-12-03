@@ -127,3 +127,5 @@
 
 + [IBGDA原理+实践](https://blog.csdn.net/zzw202275009/article/details/155543051)
 
++ [数据挖掘实战-基于CatBoost算法的医疗保险费用预测模型](https://blog.csdn.net/m0_64336780/article/details/152722333)
+
