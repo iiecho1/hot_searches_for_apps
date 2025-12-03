@@ -211,3 +211,9 @@
 
 + [http和rpc的区别](https://blog.csdn.net/qq_52531977/article/details/155501880)
 
++ [深入理解 SpringBoot 核心：自动配置原理、ImportSelector与配置加载机制](https://blog.csdn.net/qq_33181292/article/details/154786846)
+
++ [GitHub 热榜项目 - 日榜(2025-12-1)](https://blog.csdn.net/u014390502/article/details/155440623)
+
++ [Elasticsearch：专用向量数据库很快就会被遗忘，事实上它从未流行过](https://blog.csdn.net/UbuntuTouch/article/details/155517590)
+

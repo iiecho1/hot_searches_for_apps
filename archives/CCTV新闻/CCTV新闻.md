@@ -239,3 +239,5 @@
 
 + [格鲁吉亚总理指责BBC散布损害该国利益的虚假信息](https://news.cctv.com/2025/12/03/ARTI2BsmsvpUK0KozxFRgLsa251203.shtml)
 
++ [秘鲁钱凯港开港一周年 激活合作新引擎](https://news.cctv.com/2025/12/03/ARTIb1y4gkcqVdjlOUl5gtU7251203.shtml)
+
