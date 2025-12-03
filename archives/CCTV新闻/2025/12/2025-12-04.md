@@ -161,3 +161,5 @@
 
 + [韩国破获网络性犯罪大案 12万个摄像头遭入侵](https://news.cctv.com/2025/12/01/ARTIiqpN0CiAUbBxK8NvR9wV251201.shtml)
 
++ [加沙人道援助严重不足 巴政府呼吁开放所有陆路口岸](https://news.cctv.com/2025/12/04/ARTIRgUloOvltqaklFHNfeyu251203.shtml)
+

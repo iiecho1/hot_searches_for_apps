@@ -109,3 +109,17 @@
 
 + [Mybatis是如何进行分页的？](https://blog.csdn.net/caoli201314/article/details/155518098)
 
++ [华为云 DevUI + MateChat 全链路实战：从按钮组件到 AI 智能体的跃迁之路](https://blog.csdn.net/2501_92531713/article/details/155440057)
+
++ [vLLM-ascend：昇腾NPU大模型推理讲解与性能调优](https://blog.csdn.net/m0_67392010/article/details/155457698)
+
++ [Node.js 性能诊断利器 Clinic.js：原理剖析与实战指南](https://blog.csdn.net/csdn_silent/article/details/155242486)
+
++ [【Linux网络】网络层IP协议](https://blog.csdn.net/2402_82670467/article/details/155285844)
+
++ [四元数 (Quaternion)微分-单位四元数 q(t) 的导数详细推导（10）](https://blog.csdn.net/qq_36812406/article/details/155454967)
+
++ [基于 RISC-V VisionFive 的桌面数字时钟项目实战](https://blog.csdn.net/cooldream2009/article/details/155439232)
+
++ [GitHub 上优秀的量化交易系统开源项目](https://blog.csdn.net/sinat_41883985/article/details/155106464)
+
