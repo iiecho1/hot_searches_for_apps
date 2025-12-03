@@ -217,3 +217,9 @@
 
 + [Elasticsearch：专用向量数据库很快就会被遗忘，事实上它从未流行过](https://blog.csdn.net/UbuntuTouch/article/details/155517590)
 
++ [【鸿蒙2025领航者闯关】鸿蒙生态共建：智慧医疗领域的分布式革新与实践](https://blog.csdn.net/weixin_63944437/article/details/155530353)
+
++ [【DeepSeek 论文精读】15. DeepSeek-V3.2：开拓开源大型语言模型新前沿](https://blog.csdn.net/youcans/article/details/155501830)
+
++ [昇腾平台 vLLM 部署与性能优化实战：高吞吐推理落地指南](https://blog.csdn.net/rej177/article/details/155460508)
+
