@@ -217,3 +217,5 @@
 
 + [俄美会谈未达成折中方案 普京称不接受欧洲的修改](https://news.cctv.com/2025/12/03/ARTI7M0Qax7VxijlG3VZiQ4n251203.shtml)
 
++ [国际原子能机构驻扎波罗热核电站观察员完成例行轮换](https://news.cctv.com/2025/12/03/ARTIMZSALZt4SDfs0gljXzIH251203.shtml)
+

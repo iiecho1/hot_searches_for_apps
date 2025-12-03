@@ -99,3 +99,7 @@
 
 + [网络上常见的热门短视频集锦   第两千八百五十八期](https://m.acfun.cn/v/?ac=48064011)
 
++ [【官方双语】真·Linus来了！ - 为Linux之父Linus Torvalds装机 / 两莱一机](https://m.acfun.cn/v/?ac=48064042)
+
++ [节目录制现场，主持人都被我吓到了](https://m.acfun.cn/v/?ac=48065379)
+

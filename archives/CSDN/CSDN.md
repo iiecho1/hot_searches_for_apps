@@ -187,3 +187,5 @@
 
 + [Flutter for OpenHarmony前置知识《Flutter 网络请求实战：从零实现一个完整的 API 测试页面》](https://blog.csdn.net/2302_80329073/article/details/155493223)
 
++ [【GaussDB】如何从GaussDB发布包中提取出内核二进制文件](https://blog.csdn.net/GaussDB/article/details/155499028)
+
