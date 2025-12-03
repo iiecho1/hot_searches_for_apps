@@ -25,3 +25,15 @@
 
 + [华为 MatePad Pro / Mini 系列平板获鸿蒙 HarmonyOS 6.0.0.115 升级，支持 Dock 栏隐藏最近应用](https://m.ithome.com/html/901732.htm)
 
++ [华为 &amp; 苹果三端全面互通：鸿蒙星河互联 Mac 版本上线 App Store，补齐 iPhone、iPad 最后一块](https://m.ithome.com/html/901998.htm)
+
++ [17999 元 Alpha&#160;7&#160;Ⅴ 全画幅无反相机正式发布：索尼微单首款 33MP 部分堆栈式传感器、最新 BIONZ XR2 处理器](https://m.ithome.com/html/901984.htm)
+
++ [京东外卖将免费为全职骑手配备定制加热餐箱，点外卖能看到实时温度](https://m.ithome.com/html/901928.htm)
+
++ [123 云盘致全体用户书：免费用户权益调整并非因为“撑不住”，绝不是放弃“免费”](https://m.ithome.com/html/901989.htm)
+
++ [苹果调整更新策略，iPhone 16 等用户首推升级 iOS 26.1 系统](https://m.ithome.com/html/902003.htm)
+
++ [海外版问界 M9 车机曝光，完成地图、HUAWEI ADS 和各类 App 本地化适配](https://m.ithome.com/html/901849.htm)
+

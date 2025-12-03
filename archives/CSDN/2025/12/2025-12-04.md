@@ -123,3 +123,7 @@
 
 + [GitHub 上优秀的量化交易系统开源项目](https://blog.csdn.net/sinat_41883985/article/details/155106464)
 
++ [MySQL 数据库管理](https://blog.csdn.net/2501_93990905/article/details/155499045)
+
++ [IBGDA原理+实践](https://blog.csdn.net/zzw202275009/article/details/155543051)
+
