@@ -183,3 +183,7 @@
 
 + [韩国“紧急戒严”一周年 李在明：事件追责并未结束](https://news.cctv.com/2025/12/03/ARTI0rCmhxMUVSHI92geOM88251203.shtml)
 
++ [马来西亚宣布将于12月30日重启MH370深海搜寻](https://news.cctv.com/2025/12/03/ARTItqvlIjqJjjHvZw34MtYk251203.shtml)
+
++ [柬埔寨明年将对中国公民试行免签政策](https://news.cctv.com/2025/12/03/ARTIDQ416d8M1kYCWkUVyzim251203.shtml)
+
