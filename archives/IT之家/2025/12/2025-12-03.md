@@ -49,3 +49,11 @@
 
 + [华为 MatePad Pro / Mini 系列平板获鸿蒙 HarmonyOS 6.0.0.115 升级，支持 Dock 栏隐藏最近应用](https://m.ithome.com/html/901732.htm)
 
++ [2025 年 11 月汽车销量 / 交付榜：比亚迪超 48 万辆再夺第一，鸿蒙智行、零跑、蔚来表现亮眼](https://m.ithome.com/html/901722.htm)
+
++ [蔚来 EC6 撞击事故断成两截，官方回应称电池未发生安全风险](https://m.ithome.com/html/901659.htm)
+
++ [问世至今已近十年，苹果初代 iPhone SE 成为过时产品](https://m.ithome.com/html/901721.htm)
+
++ [vivo 回应直播间风波：个别诋毁性评论被误触置顶，坚决反对任何性别歧视和制造对立的言论](https://m.ithome.com/html/901673.htm)
+

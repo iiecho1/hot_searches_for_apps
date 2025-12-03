@@ -187,3 +187,23 @@
 
 + [柬埔寨明年将对中国公民试行免签政策](https://news.cctv.com/2025/12/03/ARTIDQ416d8M1kYCWkUVyzim251203.shtml)
 
++ [联合国报告：人工智能管理差异或加剧国家间不平等](https://news.cctv.com/2025/12/03/ARTIHRM19kVh7RJxxuuRT4wy251203.shtml)
+
++ [史蒂文：粤港澳大湾区实现了经济和社会的繁荣](https://news.cctv.com/2025/12/03/ARTIrX8wkZd8XUSRAWvwbaxL251203.shtml)
+
++ [中国式现代化既发展自身，又造福世界——2025年“读懂中国”国际会议综述](https://news.cctv.com/2025/12/03/ARTIotpr8E53YUE9e7t6Y1sh251203.shtml)
+
++ [高市早苗妄图煽炒所谓“台湾地位未定论”是对历史的歪曲——访日本庆应义塾大学名誉教授大西广](https://news.cctv.com/2025/12/03/ARTIpxDHdjLJ7BIFFRJTNhQ5251203.shtml)
+
++ [日本应从军国主义妄想中清醒过来](https://news.cctv.com/2025/12/03/ARTIFifZhs8OvmbuZ2qlgqdW251203.shtml)
+
++ [高市错上加错只会满盘皆输](https://news.cctv.com/2025/12/03/ARTIL5uJUaJqhJjbRfF0zPnv251203.shtml)
+
++ [荷兰首次确认猫感染禽流感死亡病例](https://news.cctv.com/2025/12/03/ARTIg7hparKKStHJroWiIKlG251203.shtml)
+
++ [韩国总统：韩朝处于对话联络完全中断状态](https://news.cctv.com/2025/12/03/ARTI6rCOw031xfrD7xFY9dWY251203.shtml)
+
++ [美媒：美国暂停受理19国公民移民申请](https://news.cctv.com/2025/12/03/ARTI5AxRE4bvz1pDZsqmwAyC251203.shtml)
+
++ [美政府因数据纠纷威胁切断多州食品救济金拨款](https://news.cctv.com/2025/12/03/ARTICtIFXZNNFBz4I3uEo4cJ251203.shtml)
+

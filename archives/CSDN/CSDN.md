@@ -173,3 +173,7 @@
 
 + [医疗预约小程序原型设计](https://blog.csdn.net/u012877217/article/details/155410566)
 
++ [魔珐星云：让AI拥有身体，开启具身智能新纪元](https://blog.csdn.net/2301_76341691/article/details/155486218)
+
++ [《嵌入式操作系统》_从uboot官方移植_02_20251126](https://blog.csdn.net/Qq19122427/article/details/155275836)
+
