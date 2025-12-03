@@ -241,3 +241,19 @@
 
 + [秘鲁钱凯港开港一周年 激活合作新引擎](https://news.cctv.com/2025/12/03/ARTIb1y4gkcqVdjlOUl5gtU7251203.shtml)
 
++ [欧盟将于2027年秋全面禁止进口俄罗斯天然气](https://news.cctv.com/2025/12/03/ARTI7N3z0zMfrTAZOGNkFBZe251203.shtml)
+
++ [美国防部拟斥10亿美元采购无人机](https://news.cctv.com/2025/12/03/ARTIlBSDZwiGWi5eWE1gMXUi251203.shtml)
+
++ [匈牙利拒绝执行欧盟逐步停止从俄进口能源决定](https://news.cctv.com/2025/12/03/ARTILk5wc8aNCqme67F4sSDY251203.shtml)
+
++ [担忧美国人工智能领域泡沫 英国养老基金抛售美股](https://news.cctv.com/2025/12/03/ARTI8iyUyIGRW16jDAXm1m0c251203.shtml)
+
++ [美国小型企业和个人申请破产案数量创6年新高](https://news.cctv.com/2025/12/03/ARTIXDF8VYChVbTvY0Tv7nCh251203.shtml)
+
++ [佩斯科夫：俄美“和平计划”谈判最好在静默中进行](https://news.cctv.com/2025/12/03/ARTIZTZ4y13mtXlMtySfz2Yt251203.shtml)
+
++ [巴勒斯坦统计局：加沙地带逾4万人严重伤残](https://news.cctv.com/2025/12/03/ARTIXQJ87nonRkXCEgrVyCBs251203.shtml)
+
++ [韩国特检组寻求法院判处金建希15年刑期](https://news.cctv.com/2025/12/03/ARTI03rX5ezI6VK43OWEur5q251203.shtml)
+
