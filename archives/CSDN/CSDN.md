@@ -181,3 +181,9 @@
 
 + [前端框架-框架为何应运而生？](https://blog.csdn.net/weixin_50874350/article/details/155499718)
 
++ [数据挖掘实战-基于CatBoost算法的医疗保险费用预测模型](https://blog.csdn.net/m0_64336780/article/details/152722333)
+
++ [MaxKB4j — 基于 Java 的开源 RAG 知识库与 LLM 工作流平台](https://blog.csdn.net/weixin_40986713/article/details/155502734)
+
++ [Flutter for OpenHarmony前置知识《Flutter 网络请求实战：从零实现一个完整的 API 测试页面》](https://blog.csdn.net/2302_80329073/article/details/155493223)
+

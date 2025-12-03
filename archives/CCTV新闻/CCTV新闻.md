@@ -215,3 +215,5 @@
 
 + [经合组织：维持今明两年全球经济增长预期 AI热潮与贸易风险并存](https://news.cctv.com/2025/12/03/ARTIxUeuqV7sITRwPgF4OQcx251203.shtml)
 
++ [俄美会谈未达成折中方案 普京称不接受欧洲的修改](https://news.cctv.com/2025/12/03/ARTI7M0Qax7VxijlG3VZiQ4n251203.shtml)
+
