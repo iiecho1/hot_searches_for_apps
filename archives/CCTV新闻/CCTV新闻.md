@@ -163,3 +163,7 @@
 
 + [加沙人道援助严重不足 巴政府呼吁开放所有陆路口岸](https://news.cctv.com/2025/12/04/ARTIRgUloOvltqaklFHNfeyu251203.shtml)
 
++ [特朗普：美特使与俄总统的会面“相当不错”](https://news.cctv.com/2025/12/04/ARTIwrPRMhJRrvfeI9VJBQlc251204.shtml)
+
++ [美国防部内部调查“泄密门”：防长未泄密 不担责](https://news.cctv.com/2025/12/04/ARTIT14xMNFvNLGR2v13VlyK251204.shtml)
+
