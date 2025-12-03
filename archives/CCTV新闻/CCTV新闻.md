@@ -235,3 +235,7 @@
 
 + [美接连威胁对委动手 暴露其极限施压未达预期](https://news.cctv.com/2025/12/03/ARTILGXaGoHWtUAyTHQlWAYk251203.shtml)
 
++ [高市挑衅言行对地区国家构成严重威胁——访俄国家杜马国际事务委员会第一副主席诺维科夫](https://news.cctv.com/2025/12/03/ARTIzuEi4hlMeOmwyzGg7m4H251203.shtml)
+
++ [格鲁吉亚总理指责BBC散布损害该国利益的虚假信息](https://news.cctv.com/2025/12/03/ARTI2BsmsvpUK0KozxFRgLsa251203.shtml)
+

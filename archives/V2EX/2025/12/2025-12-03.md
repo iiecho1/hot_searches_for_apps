@@ -55,3 +55,5 @@
 
 + [30 多万的预算买特斯拉 3/yp 还是买 yu7max？](https://www.v2ex.com/t/1176632)
 
++ [[Photo Cleaner] 一键清理 iPhone 重复照片，永久会员免费送](https://www.v2ex.com/t/1176684)
+
