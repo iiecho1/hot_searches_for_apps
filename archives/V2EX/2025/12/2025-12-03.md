@@ -51,3 +51,7 @@
 
 + [B 站有个 up 主叫“聊会电影吧”](https://www.v2ex.com/t/1176545)
 
++ [妙控板 vs 妙控鼠标](https://www.v2ex.com/t/1176511)
+
++ [30 多万的预算买特斯拉 3/yp 还是买 yu7max？](https://www.v2ex.com/t/1176632)
+

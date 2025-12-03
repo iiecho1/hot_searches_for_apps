@@ -189,3 +189,13 @@
 
 + [【GaussDB】如何从GaussDB发布包中提取出内核二进制文件](https://blog.csdn.net/GaussDB/article/details/155499028)
 
++ [学习Linux——工具——nginx](https://blog.csdn.net/kblj5555/article/details/155504932)
+
++ [Siri打开了手机的嘴，豆包接通了大脑和手脚 ](https://blog.csdn.net/2401_87097330/article/details/155500993)
+
++ [Mybatis是如何进行分页的？](https://blog.csdn.net/caoli201314/article/details/155518098)
+
++ [基于大数据Hadoop Hive+智能AI大模型+SpringBoot+网络爬虫的电影数据分析系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155528241)
+
++ [从清影2.0看AIGC视频未来：技术、生态与可持续产业价值的竞争逻辑](https://blog.csdn.net/kuyxerp/article/details/155354651)
+

@@ -219,3 +219,11 @@
 
 + [国际原子能机构驻扎波罗热核电站观察员完成例行轮换](https://news.cctv.com/2025/12/03/ARTIMZSALZt4SDfs0gljXzIH251203.shtml)
 
++ [以总理派代表赴黎 称系首次尝试建立经济合作关系](https://news.cctv.com/2025/12/03/ARTIvUomnBMEG4HBRqoxkBuR251203.shtml)
+
++ [德国外长宣布再投入2亿美元援乌](https://news.cctv.com/2025/12/03/ARTI9UZ1lUJE8hZrXr8o6IVq251203.shtml)
+
++ [以色列称将重开拉法口岸 但仅供巴民众离开加沙](https://news.cctv.com/2025/12/03/ARTIsWNptO2XBBWC06hKH8AA251203.shtml)
+
++ [秘鲁总统候选人驾车时遇袭 与枪手对射](https://news.cctv.com/2025/12/03/ARTIqzd2jCyztLA2GiGUZzzm251203.shtml)
+
