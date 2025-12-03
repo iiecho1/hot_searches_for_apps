@@ -207,3 +207,11 @@
 
 + [美政府因数据纠纷威胁切断多州食品救济金拨款](https://news.cctv.com/2025/12/03/ARTICtIFXZNNFBz4I3uEo4cJ251203.shtml)
 
++ [美财长无限期取消访问阿根廷计划](https://news.cctv.com/2025/12/03/ARTIp7fKpY5CWQO3SHe6UZQJ251203.shtml)
+
++ [极端天气已致斯里兰卡465人死亡](https://news.cctv.com/2025/12/03/ARTI7QivsIH0WBHna7Bed3mP251203.shtml)
+
++ [泰国叻武里府发生车祸 致9人死亡](https://news.cctv.com/2025/12/03/ARTISMhZukEdZiwcJ2wQPDFk251203.shtml)
+
++ [经合组织：维持今明两年全球经济增长预期 AI热潮与贸易风险并存](https://news.cctv.com/2025/12/03/ARTIxUeuqV7sITRwPgF4OQcx251203.shtml)
+
