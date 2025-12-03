@@ -37,3 +37,25 @@
 
 + [海外版问界 M9 车机曝光，完成地图、HUAWEI ADS 和各类 App 本地化适配](https://m.ithome.com/html/901849.htm)
 
++ [业内人士：任何试图通过自然语言「模拟点击」方式操作微信都是高压线，会喜提账号冻结](https://m.ithome.com/html/902076.htm)
+
++ [豆包手机系统软件被曝发现锤子科技遗留字样，含 smartisanos 等](https://m.ithome.com/html/902131.htm)
+
++ [开售仅三天，消息称“豆包助手”手机出现微信被动下线问题](https://m.ithome.com/html/902064.htm)
+
++ [“豆包助手”手机出现微信被动下线问题，双方回应](https://m.ithome.com/html/902177.htm)
+
++ [马来西亚交通部：马航 MH370 航班客机残骸搜寻将于 12 月 30 日重启](https://m.ithome.com/html/902082.htm)
+
++ [小米汽车：到店新车都会进行交付前检查，不符合标准会主动告知用户](https://m.ithome.com/html/902010.htm)
+
++ [一加 Ace 6T 手机发布：2399 元起，165Hz 高刷、全球首发骁龙 8 Gen 5](https://m.ithome.com/html/902255.htm)
+
++ [渐冻人蔡磊回应身体近况，已准备好尝试脑机接口](https://m.ithome.com/html/902209.htm)
+
++ [网信部门依法查处网络名人账号违法违规行为，“户晨风”“张雪峰”等被通报](https://m.ithome.com/html/902150.htm)
+
++ [旧国标电动自行车变“零公里二手车”，央视揭秘潜藏的安全和法律风险](https://m.ithome.com/html/902025.htm)
+
++ [【视频】三天，我用华为Mate X7拍了3000张照片，第二代红枫原色影像到底有多强](https://m.ithome.com/html/902189.htm)
+
