@@ -173,3 +173,5 @@
 
 + [特朗普：将对任何涉嫌向美“走私毒品”的国家实施打击](https://news.cctv.com/2025/12/03/ARTI511LFE5rYCQGHWAoglqm251203.shtml)
 
++ [批上届政府“玩忽职守” 英国首相敦促与中国接触](https://news.cctv.com/2025/12/03/ARTIROv5ux2G72nAtX978NZx251203.shtml)
+

@@ -137,3 +137,5 @@
 
 + [MySQL 数据库(一) -- 初体验](https://blog.csdn.net/xingyue_ming/article/details/155466221)
 
++ [基于 DevUI 与 MateChat 构建企业级 AI 智能助手的实践与探索](https://blog.csdn.net/IRpickstars/article/details/155499296)
+
