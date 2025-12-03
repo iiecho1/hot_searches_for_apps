@@ -139,3 +139,15 @@
 
 + [基于 DevUI 与 MateChat 构建企业级 AI 智能助手的实践与探索](https://blog.csdn.net/IRpickstars/article/details/155499296)
 
++ [Linux中使用Docker构建Nginx容器完整教程](https://blog.csdn.net/jxjdhdnd/article/details/142211093)
+
++ [Docker数据管理、容器互联与私有仓库完全指南](https://blog.csdn.net/qq_41840843/article/details/155501599)
+
++ [ffmpeg 问答系列-＞关于音频的思考](https://blog.csdn.net/hejinjing_tom_com/article/details/155457148)
+
++ [YOLOV8_obb的C++的工程实现---2）yolov8_obb工程部署](https://blog.csdn.net/YOULANSHENGMENG/article/details/155446513)
+
++ [从语法纠错到项目重构：Python+Copilot 的全流程开发效率提升指南](https://blog.csdn.net/qq_41187124/article/details/155500568)
+
++ [Contrastive pseudo learning for openworld deepfake attribution 超细致论文笔记，第一次读论文](https://blog.csdn.net/weixin_72953218/article/details/155136043)
+

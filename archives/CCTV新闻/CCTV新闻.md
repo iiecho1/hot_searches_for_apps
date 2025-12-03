@@ -175,3 +175,11 @@
 
 + [批上届政府“玩忽职守” 英国首相敦促与中国接触](https://news.cctv.com/2025/12/03/ARTIROv5ux2G72nAtX978NZx251203.shtml)
 
++ [国际观察｜美欧数字监管冲突升级 欧战略自主空间遭挤压](https://news.cctv.com/2025/12/03/ARTI5iX4nvZSp0QuYm3FipOQ251203.shtml)
+
++ [中国代表呼吁寻求推进“两国方案”的切实可行路径](https://news.cctv.com/2025/12/03/ARTIlw1jJd15GDoMOIqi1dy1251203.shtml)
+
++ [日本分发儿童版《防卫白皮书》遭舆论批评](https://news.cctv.com/2025/12/03/ARTIZ3HY5bFl2Ef0NH6Eo2pJ251203.shtml)
+
++ [韩国“紧急戒严”一周年 李在明：事件追责并未结束](https://news.cctv.com/2025/12/03/ARTI0rCmhxMUVSHI92geOM88251203.shtml)
+
