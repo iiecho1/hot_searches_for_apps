@@ -257,3 +257,7 @@
 
 + [韩国特检组寻求法院判处金建希15年刑期](https://news.cctv.com/2025/12/03/ARTI03rX5ezI6VK43OWEur5q251203.shtml)
 
++ [欧尔班：通往匈牙利的“友谊”输油管道未受乌袭击影响](https://news.cctv.com/2025/12/03/ARTI2XCf2sGbPiQyobDEXHwI251203.shtml)
+
++ [日本全日空一波音787客机空中发生发动机故障](https://news.cctv.com/2025/12/03/ARTIdJit5EE4Bfx3rP6hiJ2h251203.shtml)
+
