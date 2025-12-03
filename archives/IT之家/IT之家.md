@@ -57,3 +57,25 @@
 
 + [vivo 回应直播间风波：个别诋毁性评论被误触置顶，坚决反对任何性别歧视和制造对立的言论](https://m.ithome.com/html/901673.htm)
 
++ [业内人士：任何试图通过自然语言「模拟点击」方式操作微信都是高压线，会喜提账号冻结](https://m.ithome.com/html/902076.htm)
+
++ [华为 &amp; 苹果三端全面互通：鸿蒙星河互联 Mac 版本上线 App Store，补齐 iPhone、iPad 最后一块](https://m.ithome.com/html/901998.htm)
+
++ [17999 元 Alpha&#160;7&#160;Ⅴ 全画幅无反相机正式发布：索尼微单首款 33MP 部分堆栈式传感器、最新 BIONZ XR2 处理器](https://m.ithome.com/html/901984.htm)
+
++ [开售仅三天，消息称“豆包助手”手机出现微信被动下线问题](https://m.ithome.com/html/902064.htm)
+
++ [豆包手机系统软件被曝发现锤子科技遗留字样，含 smartisanos 等](https://m.ithome.com/html/902131.htm)
+
++ [苹果调整更新策略，iPhone 16 等用户首推升级 iOS 26.1 系统](https://m.ithome.com/html/902003.htm)
+
++ [123 云盘致全体用户书：免费用户权益调整并非因为“撑不住”，绝不是放弃“免费”](https://m.ithome.com/html/901989.htm)
+
++ [小米汽车：到店新车都会进行交付前检查，不符合标准会主动告知用户](https://m.ithome.com/html/902010.htm)
+
++ [小鹏员工生三胎奖励 3 万元，生育基金累计发放超 370 万](https://m.ithome.com/html/901943.htm)
+
++ [马来西亚交通部：马航 MH370 航班客机残骸搜寻将于 12 月 30 日重启](https://m.ithome.com/html/902082.htm)
+
++ [电动自行车“超速断电”是否会导致急刹车？专家详解新国标](https://m.ithome.com/html/901991.htm)
+

@@ -227,3 +227,11 @@
 
 + [秘鲁总统候选人驾车时遇袭 与枪手对射](https://news.cctv.com/2025/12/03/ARTIqzd2jCyztLA2GiGUZzzm251203.shtml)
 
++ [俄罗斯货轮黑海遭袭 普京称将予以回应](https://news.cctv.com/2025/12/03/ARTI3THkcxlg1QHmp0MOU2K8251203.shtml)
+
++ [印尼洪灾和山体滑坡已致804人遇难](https://news.cctv.com/2025/12/03/ARTI4mObpxLiNU130PTIzfdq251203.shtml)
+
++ [涉嫌合同招标欺诈 欧盟前“外长”被捕](https://news.cctv.com/2025/12/03/ARTIkzvKg4sFg5urZMA6ZQf9251203.shtml)
+
++ [美接连威胁对委动手 暴露其极限施压未达预期](https://news.cctv.com/2025/12/03/ARTILGXaGoHWtUAyTHQlWAYk251203.shtml)
+

@@ -199,3 +199,11 @@
 
 + [从清影2.0看AIGC视频未来：技术、生态与可持续产业价值的竞争逻辑](https://blog.csdn.net/kuyxerp/article/details/155354651)
 
++ [动手学CNN：图像处理的卷积神经网络实践指南](https://blog.csdn.net/m0_74385041/article/details/155497371)
+
++ [Python 机器人大脑构建指南：路径规划与决策算法深度解析](https://blog.csdn.net/qq_44273429/article/details/155530576)
+
++ [【C++：异常】C++ 异常处理完全指南：从理论到实践，深入理解栈展开与最佳实践](https://blog.csdn.net/2401_89899187/article/details/155136757)
+
++ [TCP/UDP网络编程实战](https://blog.csdn.net/qq_42568323/article/details/155504224)
+
