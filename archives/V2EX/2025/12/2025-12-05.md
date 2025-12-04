@@ -23,3 +23,5 @@
 
 + [有什么好的梯子服务推荐，可以使用 gemini 的](https://www.v2ex.com/t/1176798)
 
++ [绿联客服把我搞蒙了](https://www.v2ex.com/t/1176889)
+
