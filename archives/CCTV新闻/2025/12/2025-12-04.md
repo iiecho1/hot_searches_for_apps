@@ -167,3 +167,9 @@
 
 + [美国防部内部调查“泄密门”：防长未泄密 不担责](https://news.cctv.com/2025/12/04/ARTIT14xMNFvNLGR2v13VlyK251204.shtml)
 
++ [马杜罗证实：大约10天前和特朗普通过电话](https://news.cctv.com/2025/12/04/ARTIYkQurll2ZM8vaHAOTOW2251204.shtml)
+
++ [德军启用“箭-3”式反导系统](https://news.cctv.com/2025/12/04/ARTIB8ydSvEb2PTGksgi3TgG251204.shtml)
+
++ [俄一载有400余人波音客机起飞后引擎起火 现已成功降落](https://news.cctv.com/2025/12/04/ARTIxPpytzlfRwRR6jcrENZ4251204.shtml)
+
