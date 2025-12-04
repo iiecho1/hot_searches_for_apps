@@ -177,3 +177,7 @@
 
 + [DeepSeek-V3.2-Speciale：重塑开源模型推理能力边界的巅峰之作](https://blog.csdn.net/Liudef06/article/details/155471019)
 
++ [第3版•系统集成项目管理工程师（中级） │ 第10章 启动过程组](https://blog.csdn.net/qq_41840843/article/details/154702089)
+
++ [【网络安全】 CVE-2025-55182（React Server Components 远程代码执行漏洞）](https://blog.csdn.net/weixin_37813152/article/details/155563789)
+
