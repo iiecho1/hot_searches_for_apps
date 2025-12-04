@@ -191,3 +191,9 @@
 
 + [日本军国主义“还魂” ？ 四大灾难性后果值得警惕｜国际识局](https://news.cctv.com/2025/12/04/ARTIAf3pdwxl4vWZTrIRTYhm251204.shtml)
 
++ [特朗普宣布将降低汽车燃油经济性标准](https://news.cctv.com/2025/12/04/ARTIFNL1sj4RUERA3yMsNNmv251204.shtml)
+
++ [涉嫌伪证罪 韩国前总统尹锡悦再被起诉](https://news.cctv.com/2025/12/04/ARTIqS54bgAxiEvd1vi14EzH251204.shtml)
+
++ [在三大洲之间架起“空中桥梁” 全球最长单程民航航线正式通航](https://news.cctv.com/2025/12/04/ARTIHxsFeKDZznx3w2CfZK61251204.shtml)
+

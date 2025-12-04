@@ -171,3 +171,5 @@
 
 + [企业级 Redis 高可用集群部署指南—— 基于天枢平台的标准化实践](https://blog.csdn.net/lightningyang/article/details/155499990)
 
++ [openEuler 25.09 实操指南：飞腾 arm64 服务器的 C 程序开发与 Hadoop 伪集群部署及性能测试](https://blog.csdn.net/weixin_62765017/article/details/155543561)
+
