@@ -123,3 +123,9 @@
 
 + [新手如何搭建配置Android Studio并成功运行React Native项目（使用自带的虚拟机运行）](https://blog.csdn.net/ProgramarQin/article/details/155504853)
 
++ [【DeepSeek 论文精读】15. DeepSeek-V3.2：开拓开源大型语言模型新前沿](https://blog.csdn.net/youcans/article/details/155501830)
+
++ [【docker】Docker Image（镜像）](https://blog.csdn.net/2403_87459748/article/details/155575349)
+
++ [深度解析.NET中HttpClient的生命周期管理：构建稳健高效的HTTP客户端](https://blog.csdn.net/dotnethello/article/details/155532994)
+
