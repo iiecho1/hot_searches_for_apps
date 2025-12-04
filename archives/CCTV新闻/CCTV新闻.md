@@ -185,3 +185,7 @@
 
 + [战火暂停 生活重启 加沙废墟上举行集体婚礼](https://news.cctv.com/2025/12/04/ARTI96s4pfOjXRHrUDaUgP2F251204.shtml)
 
++ [日本自民党再被告发违规收取捐款](https://news.cctv.com/2025/12/04/ARTITTHXSsxizqTeH8N0vdly251204.shtml)
+
++ [巴拿马航空暂停往返委内瑞拉首都的航班](https://news.cctv.com/2025/12/04/ARTIWXrt3EoChIgP7spOfFIs251204.shtml)
+

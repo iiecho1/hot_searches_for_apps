@@ -59,3 +59,15 @@
 
 + [【视频】三天，我用华为Mate X7拍了3000张照片，第二代红枫原色影像到底有多强](https://m.ithome.com/html/902189.htm)
 
++ [中国广电：700MHz 为“无网应急通信”提供新方案，华为 Mate 80 系列首发](https://m.ithome.com/html/902276.htm)
+
++ [国补立减 10% 再来：小米 17 Pro Max 手机 5999 → 5399 元京东自营](https://m.ithome.com/html/902277.htm)
+
++ [负优化警告：为何说不推荐给苹果 iPhone 17 系列贴普通膜](https://m.ithome.com/html/902307.htm)
+
++ [苹果确认 iPhone 17 Pro 移除关键相机功能：人像模式不再支持夜景模式](https://m.ithome.com/html/902305.htm)
+
++ [理想首款 AI 眼镜 Livis 发布：仅重 36 克、能控车、能听歌，国补后 1699 元起](https://m.ithome.com/html/902259.htm)
+
++ [苹果 iOS / iPadOS 26.2 RC 发布：升级睡眠评分、AI 改造播客等](https://m.ithome.com/html/902299.htm)
+
