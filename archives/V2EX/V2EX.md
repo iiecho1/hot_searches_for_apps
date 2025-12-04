@@ -53,3 +53,7 @@
 
 + [为什么写 C++的人年龄偏大？](https://www.v2ex.com/t/1176844)
 
++ [微信现在越来越离谱了](https://www.v2ex.com/t/1176832)
+
++ [Gemini 邀请好友免费送 4 个月](https://www.v2ex.com/t/1176840)
+

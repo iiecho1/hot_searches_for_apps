@@ -197,3 +197,9 @@
 
 + [深水区的破局与重塑：DevUI 界面工程与 MateChat 智能交互的云原生双重奏](https://blog.csdn.net/weixin_43970743/article/details/155572036)
 
++ [当前开源旗舰LLM主流架构介绍](https://blog.csdn.net/lewyu521/article/details/155542779)
+
++ [Qwen2模型架构](https://blog.csdn.net/qq_44815135/article/details/155496318)
+
++ [《从内核视角看 Linux：环形缓冲区 + 线程池的生产消费模型实现》](https://blog.csdn.net/Dovis5884/article/details/154694661)
+
