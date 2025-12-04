@@ -173,3 +173,7 @@
 
 + [openEuler 25.09 实操指南：飞腾 arm64 服务器的 C 程序开发与 Hadoop 伪集群部署及性能测试](https://blog.csdn.net/weixin_62765017/article/details/155543561)
 
++ [汽车销售|汽车推荐|基于SprinBoot+vue的新能源汽车个性化推荐系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/155561087)
+
++ [DeepSeek-V3.2-Speciale：重塑开源模型推理能力边界的巅峰之作](https://blog.csdn.net/Liudef06/article/details/155471019)
+

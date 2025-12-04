@@ -197,3 +197,11 @@
 
 + [在三大洲之间架起“空中桥梁” 全球最长单程民航航线正式通航](https://news.cctv.com/2025/12/04/ARTIHxsFeKDZznx3w2CfZK61251204.shtml)
 
++ [澳大利亚政府宣布向乌克兰提供新的军事援助](https://news.cctv.com/2025/12/04/ARTI6m3BRf8q3EewIZOXJG32251204.shtml)
+
++ [美军在中东组建首个单程攻击无人机中队](https://news.cctv.com/2025/12/04/ARTIbdyHbvuDbGmAVAcWbDkx251204.shtml)
+
++ [阿根廷政府大规模调整军队高级将领](https://news.cctv.com/2025/12/04/ARTI86uUdAj0FVwh5FQSYKAi251204.shtml)
+
++ [日本《防卫白皮书》进小学持续引发多方质疑反对](https://news.cctv.com/2025/12/04/ARTIFWMdOWZr7frH5EzzfhMH251204.shtml)
+
