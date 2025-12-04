@@ -101,3 +101,25 @@
 
 + [Vue 组件及路由2](https://blog.csdn.net/m0_74004373/article/details/155542535)
 
++ [最新YOLO实现的番茄成熟度实时检测平台（Flask+SocketIO+HTML/CSS/JS）](https://blog.csdn.net/loushangfengjing/article/details/152926695)
+
++ [从0开始学习Linux——第七部分：DNS（1）](https://blog.csdn.net/2401_82445924/article/details/155499393)
+
++ [多路转接模型与select](https://blog.csdn.net/htw250056/article/details/155577045)
+
++ [EDB EPAS 通过 PostgreSQL 连接器同步数据到 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/155576713)
+
++ [基于大数据Hadoop Hive+智能AI大模型+SpringBoot+网络爬虫的电影数据分析系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/155528241)
+
++ [Linux 文件系统与数据库 IO 块大小深度分析报告（完整版）](https://blog.csdn.net/hezuijiudexiaobai/article/details/155569467)
+
++ [Spring Boot自动配置原理](https://blog.csdn.net/2301_80096362/article/details/155541169)
+
++ [【C++：异常】C++ 异常处理完全指南：从理论到实践，深入理解栈展开与最佳实践](https://blog.csdn.net/2401_89899187/article/details/155136757)
+
++ [VBOX GNSS/INS系统在车辆动态坡度测量中的原理、精度与应用实践](https://blog.csdn.net/weixin_62244995/article/details/155577299)
+
++ [基于深度学习的施工现场安全检测系统（web界面+YOLOv8/v10/v11/v12+DeepSeek智能分析 +前后端分离）](https://blog.csdn.net/m0_68036862/article/details/155578731)
+
++ [新手如何搭建配置Android Studio并成功运行React Native项目（使用自带的虚拟机运行）](https://blog.csdn.net/ProgramarQin/article/details/155504853)
+
