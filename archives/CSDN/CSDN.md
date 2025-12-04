@@ -161,3 +161,7 @@
 
 + [关于安全报告提及Clean Master、WeTab、Infinity等浏览器扩展的情况说明，及解决办法](https://blog.csdn.net/WeTab_newtab/article/details/155501547)
 
++ [【蓝耘GPU】解锁GPU深度学习训练，轻松搞定PyCharm连接实战](https://blog.csdn.net/Morse_Chen/article/details/155503280)
+
++ [系统分析师：系统规划与分析的业务流程分析、业务流程图、数据与数据流程分析和系统方案建议](https://blog.csdn.net/g984160547/article/details/154795459)
+

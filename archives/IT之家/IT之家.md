@@ -71,3 +71,7 @@
 
 + [苹果 iOS / iPadOS 26.2 RC 发布：升级睡眠评分、AI 改造播客等](https://m.ithome.com/html/902299.htm)
 
++ [小鹏员工生三胎奖励 3 万元，生育基金累计发放超 370 万](https://m.ithome.com/html/901943.htm)
+
++ [电动自行车“超速断电”是否会导致急刹车？专家详解新国标](https://m.ithome.com/html/901991.htm)
+
