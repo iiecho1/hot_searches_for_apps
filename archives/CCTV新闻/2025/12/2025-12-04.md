@@ -181,3 +181,7 @@
 
 + [应美方申请 委内瑞拉恢复接收遣返移民航班](https://news.cctv.com/2025/12/04/ARTI2aKcZqEwvOHiJtRdS1sd251204.shtml)
 
++ [美国空军一架F-16C战机在加州沙漠坠毁](https://news.cctv.com/2025/12/04/ARTIcvQFjc1pbhElu2hxyXex251204.shtml)
+
++ [战火暂停 生活重启 加沙废墟上举行集体婚礼](https://news.cctv.com/2025/12/04/ARTI96s4pfOjXRHrUDaUgP2F251204.shtml)
+

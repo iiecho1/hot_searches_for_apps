@@ -147,3 +147,17 @@
 
 + [一文读懂IP协议：网段、私有IP、公网IP与分片技术](https://blog.csdn.net/2402_84532723/article/details/152926922)
 
++ [【Kafka 进阶之路】Kafka 消息队列详解](https://blog.csdn.net/Y1zH1yuan/article/details/155494404)
+
++ [.NET到Java的终极迁移指南：最快转型路线图](https://blog.csdn.net/sixpp/article/details/155545480)
+
++ [MyBatis操作数据库（进阶）：动态SQL](https://blog.csdn.net/2301_80543957/article/details/154883101)
+
++ [YOLO26：面向实时目标检测的关键架构增强与性能基准测试](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/155513111)
+
++ [使用Docker快速搭建Redis主从复制](https://blog.csdn.net/2509_94104749/article/details/155464147)
+
++ [炎魂网络 - 安全开发实习生面经](https://blog.csdn.net/lingggggaaaa/article/details/155360247)
+
++ [关于安全报告提及Clean Master、WeTab、Infinity等浏览器扩展的情况说明，及解决办法](https://blog.csdn.net/WeTab_newtab/article/details/155501547)
+
