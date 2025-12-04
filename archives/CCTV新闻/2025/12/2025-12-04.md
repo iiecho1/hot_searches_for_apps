@@ -173,3 +173,11 @@
 
 + [俄一载有400余人波音客机起飞后引擎起火 现已成功降落](https://news.cctv.com/2025/12/04/ARTIxPpytzlfRwRR6jcrENZ4251204.shtml)
 
++ [马杜罗证实近日曾与特朗普通话](https://news.cctv.com/2025/12/04/ARTIwpmfRgK1S0vphhzcgB0o251204.shtml)
+
++ [欧盟拟全面禁止进口俄天然气 匈牙利：将起诉](https://news.cctv.com/2025/12/04/ARTIkfsvqImT2lMSz4t2iiRR251204.shtml)
+
++ [美政府加强对H-1B签证申请人的审查](https://news.cctv.com/2025/12/04/ARTI93tQ3jFlkHp89bG4j2oq251204.shtml)
+
++ [应美方申请 委内瑞拉恢复接收遣返移民航班](https://news.cctv.com/2025/12/04/ARTI2aKcZqEwvOHiJtRdS1sd251204.shtml)
+
