@@ -189,3 +189,5 @@
 
 + [巴拿马航空暂停往返委内瑞拉首都的航班](https://news.cctv.com/2025/12/04/ARTIWXrt3EoChIgP7spOfFIs251204.shtml)
 
++ [日本军国主义“还魂” ？ 四大灾难性后果值得警惕｜国际识局](https://news.cctv.com/2025/12/04/ARTIAf3pdwxl4vWZTrIRTYhm251204.shtml)
+
