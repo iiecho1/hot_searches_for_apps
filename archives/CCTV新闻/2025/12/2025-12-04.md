@@ -209,3 +209,7 @@
 
 + [印尼洪灾和山体滑坡已致817人遇难](https://news.cctv.com/2025/12/04/ARTI4TrgFErGwwvOylRh5dju251204.shtml)
 
++ [哈马斯谴责以方违反停火协议 呼吁双向开放拉法口岸](https://news.cctv.com/2025/12/04/ARTIuXrO2EaV1cbcD7fxNYBI251204.shtml)
+
++ [南非媒体：“十五五”规划建议是以人为本的中国式现代化发展蓝图](https://news.cctv.com/2025/12/04/ARTIfdrGs5Vdgy6jutBpcTql251204.shtml)
+

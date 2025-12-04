@@ -183,3 +183,17 @@
 
 + [【超详细教程】Python 连接 MySQL 全流程实战](https://blog.csdn.net/qq_21106275/article/details/155542546)
 
++ [昇腾实战|算子模板库Catlass与CANN生态适配](https://blog.csdn.net/weixin_51390582/article/details/155456991)
+
++ [关于我使用flutter开发开源鸿蒙自律软件碰到的问题（2）](https://blog.csdn.net/2403_87683022/article/details/155568094)
+
++ [RAG系统架构设计中的向量数据库选型：从原理到企业级实践](https://blog.csdn.net/sinat_41617212/article/details/155575860)
+
++ [中国计算机学会（CCF）推荐学术会议-B（计算机网络）：NOSSDAV 2026](https://blog.csdn.net/iaast/article/details/155537640)
+
++ [学习threejs，使用自定义GLSL 着色器，实现抽象艺术特效](https://blog.csdn.net/qq_28419035/article/details/155570242)
+
++ [纯SSD环境：双活存储+FC交叉连接（8路径）LUN挂载完整笔记](https://blog.csdn.net/hezuijiudexiaobai/article/details/155572150)
+
++ [深水区的破局与重塑：DevUI 界面工程与 MateChat 智能交互的云原生双重奏](https://blog.csdn.net/weixin_43970743/article/details/155572036)
+
