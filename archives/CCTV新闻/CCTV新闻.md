@@ -205,3 +205,7 @@
 
 + [日本《防卫白皮书》进小学持续引发多方质疑反对](https://news.cctv.com/2025/12/04/ARTIFWMdOWZr7frH5EzzfhMH251204.shtml)
 
++ [米兰冬奥会圣火交接仪式在希腊举行](https://news.cctv.com/2025/12/04/ARTIozFTP2d7pi1zhmY6laYZ251204.shtml)
+
++ [印尼洪灾和山体滑坡已致817人遇难](https://news.cctv.com/2025/12/04/ARTI4TrgFErGwwvOylRh5dju251204.shtml)
+
