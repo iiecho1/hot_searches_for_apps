@@ -21,3 +21,5 @@
 
 + [终身会员分享 RouteX，轨迹记录与追光](https://www.v2ex.com/t/1177214)
 
++ [React 漏洞中招，服务器被用来挖矿](https://www.v2ex.com/t/1177265)
+
