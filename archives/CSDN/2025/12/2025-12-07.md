@@ -109,3 +109,13 @@
 
 + [【Chrome-Edge-Firefox】浏览器插件开发](https://blog.csdn.net/weixin_43764974/article/details/155573996)
 
++ [[鸿蒙2025领航者闯关]HarmonyOS中开发高德地图第三篇：地图控制与UI设置](https://blog.csdn.net/ldc121xy716/article/details/155619610)
+
++ [Python圣诞特辑：打造一棵会唱歌、会下雪的魔法圣诞树](https://blog.csdn.net/weixin_51390582/article/details/155613392)
+
++ [openEuler 24.03 LTS 云原生环境部署与企业实践](https://blog.csdn.net/michaelline/article/details/155608051)
+
++ [Android 位置服务（LBS）客户支持指南](https://blog.csdn.net/weixin_47456647/article/details/155601456)
+
++ [基于微服务springcloud云智慧工地物联网SaaS平台源码（监管大屏+移动APP）](https://blog.csdn.net/qq_27741787/article/details/155612861)
+
