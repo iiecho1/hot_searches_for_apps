@@ -161,3 +161,11 @@
 
 + [俄美会谈未达成折中方案 普京称不接受欧洲的修改](https://news.cctv.com/2025/12/03/ARTI7M0Qax7VxijlG3VZiQ4n251203.shtml)
 
++ [美国逾60城举行示威活动 抗议对委军事行动](https://news.cctv.com/2025/12/07/ARTIFqIM7QeQwwUU3JQrJtzC251207.shtml)
+
++ [乌总统与美特使通话 讨论乌克兰和平进程](https://news.cctv.com/2025/12/07/ARTI59mxzwVOASX40FJztMhN251207.shtml)
+
++ [泰国南部洪灾缓解 受灾人口降至23.6万](https://news.cctv.com/2025/12/07/ARTIXNRAI9Gzbv99OM4IUyXh251207.shtml)
+
++ [阿尔及利亚西南部发生交通事故 造成14死34伤](https://news.cctv.com/2025/12/07/ARTIurTTtqadk4lr91rF4Tvd251207.shtml)
+
