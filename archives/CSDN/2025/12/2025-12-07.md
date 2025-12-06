@@ -127,3 +127,5 @@
 
 + [C/C++ Linux网络编程9 - TCP服务器实现流程和独立运行](https://blog.csdn.net/yzcllzx/article/details/155529550)
 
++ [Qt对Word网页的读写功能实现](https://blog.csdn.net/fie8889/article/details/155603693)
+
