@@ -101,3 +101,11 @@
 
 + [Matlab自学笔记六十九：多项式求值、求根、积分和求导](https://blog.csdn.net/freexyn/article/details/155579423)
 
++ [【Java 开发日记】我们来说一说 Redis IO 多路复用模型](https://blog.csdn.net/2402_87298751/article/details/155535520)
+
++ [RAG系统架构设计中的向量数据库选型：从原理到企业级实践](https://blog.csdn.net/sinat_41617212/article/details/155575860)
+
++ [Mysql 备份与还原](https://blog.csdn.net/liuxinshuang0512/article/details/155609938)
+
++ [【Chrome-Edge-Firefox】浏览器插件开发](https://blog.csdn.net/weixin_43764974/article/details/155573996)
+
