@@ -67,3 +67,5 @@
 
 + [Bing Bing](https://m.acfun.cn/v/?ac=48074776)
 
++ [竖屏版！三胞胎跳动感Getleman｜你更爱哪个？](https://m.acfun.cn/v/?ac=48074326)
+

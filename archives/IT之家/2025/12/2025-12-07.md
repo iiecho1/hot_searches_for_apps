@@ -49,3 +49,5 @@
 
 + [827 亿美元，Netflix 官宣将收购华纳兄弟](https://m.ithome.com/html/902840.htm)
 
++ [大众集团 CEO 奥博穆：若保时捷能在华生产，必须是一款完全配得上品牌的车型](https://m.ithome.com/html/902992.htm)
+

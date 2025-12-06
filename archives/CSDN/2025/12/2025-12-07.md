@@ -119,3 +119,9 @@
 
 + [基于微服务springcloud云智慧工地物联网SaaS平台源码（监管大屏+移动APP）](https://blog.csdn.net/qq_27741787/article/details/155612861)
 
++ [手撕 LSTM：用 NumPy 从零实现 LSTM 前向传播](https://blog.csdn.net/weixin_49520696/article/details/155617256)
+
++ [金仓数据库助力Oracle迁移实战：破局四大挑战，解锁高效迁移新路径](https://blog.csdn.net/qq_32682301/article/details/155621385)
+
++ [【Zed 编辑器配置全攻略：自动保存、Prettier、终端字体与格式化设置一步到位】](https://blog.csdn.net/jjhenda00/article/details/155617508)
+
