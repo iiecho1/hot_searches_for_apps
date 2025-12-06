@@ -101,3 +101,7 @@
 
 + [技术面：如何解决缓存和数据库一致性的问题？](https://blog.csdn.net/qq_35165000/article/details/155520471)
 
++ [【Chrome-Edge-Firefox】浏览器插件开发](https://blog.csdn.net/weixin_43764974/article/details/155573996)
+
++ [[鸿蒙2025领航者闯关]HarmonyOS中开发高德地图第二篇：显示第一个地图](https://blog.csdn.net/ldc121xy716/article/details/155619566)
+
