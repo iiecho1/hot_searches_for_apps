@@ -197,3 +197,9 @@
 
 + [美防长：特朗普政府将“把国家实际利益放在首位”](https://news.cctv.com/2025/12/07/ARTIQ6XO4F1ivlq1440hCiXm251207.shtml)
 
++ [诸多动向标志着日本安保政策加速“向右转” 引发各方严重关切](https://news.cctv.com/2025/12/07/ARTIF90TjBTsX5dz5t1pfBFv251207.shtml)
+
++ [美防长拒绝承诺公布二次打击视频　美多地反对与委开战](https://news.cctv.com/2025/12/07/ARTIxVKZkJStvf7xBZeEAEBm251207.shtml)
+
++ [格鲁吉亚总理：有团体利用BBC虚假报道发动“混合战争”](https://news.cctv.com/2025/12/07/ARTIUP6ZbKKXaBNbZUGOzVoS251207.shtml)
+

@@ -51,3 +51,9 @@
 
 + [大众集团 CEO 奥博穆：若保时捷能在华生产，必须是一款完全配得上品牌的车型](https://m.ithome.com/html/902992.htm)
 
++ [用 AI 合成死螃蟹视频骗退款 195 元，买家被行拘 8 日](https://m.ithome.com/html/902864.htm)
+
++ [比亚迪秦 MAX 纯电轿车申报：240kW 电机，可选装“大秦”“秦 Ultra”尾标](https://m.ithome.com/html/902854.htm)
+
++ [腾讯自研 AI 大模型混元 2.0 发布：总参数 406B，复杂推理场景综合表现“稳居国内第一梯队”](https://m.ithome.com/html/902856.htm)
+

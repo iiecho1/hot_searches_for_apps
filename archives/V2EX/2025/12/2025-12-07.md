@@ -35,3 +35,9 @@
 
 + [老哥们咨询一下： Claude Code Max 的使用时长大概能用多久？](https://www.v2ex.com/t/1177285)
 
++ [macbook air 24+512 和 mac mini 32+256 选择问题。。希望有大佬给个意见](https://www.v2ex.com/t/1177301)
+
++ [想问一下国内醫院的 it 崗位怎麼樣？](https://www.v2ex.com/t/1177325)
+
++ [太抽象了，终于是快散了!](https://www.v2ex.com/t/1177291)
+

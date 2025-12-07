@@ -149,3 +149,5 @@
 
 + [FPGA（采用RGMII接口）逻辑实现千兆网TCP/IP协议栈调试记录](https://blog.csdn.net/universaldata/article/details/155616985)
 
++ [《从内核视角看 Linux：环形缓冲区 + 线程池的生产消费模型实现》](https://blog.csdn.net/Dovis5884/article/details/154694661)
+
