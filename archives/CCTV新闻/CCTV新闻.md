@@ -205,3 +205,11 @@
 
 + [印度西部夜店火灾事故中没有中国公民伤亡](https://news.cctv.com/2025/12/07/ARTIdkbv6H04zsKbpX1ngTxC251207.shtml)
 
++ [野生的蘑菇不要采 美国加州频发误食毒蘑菇事件](https://news.cctv.com/2025/12/07/ARTIJPCqdkyW414hlAS2TeAG251207.shtml)
+
++ [贝宁国家电视台被军方控制](https://news.cctv.com/2025/12/07/ARTIMwVcxZZmRFyumD02irDj251207.shtml)
+
++ [日本学者：高市错误言论偏离和平路线 危害国际秩序](https://news.cctv.com/2025/12/07/ARTIhGtLmYzMQIP49hDiBdyw251207.shtml)
+
++ [极端天气已致斯里兰卡618人死亡](https://news.cctv.com/2025/12/07/ARTISZ2zrPMPkpzb5E5QqvYY251207.shtml)
+

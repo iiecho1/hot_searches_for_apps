@@ -161,3 +161,9 @@
 
 + [【Spring Boot + OpenAPI 3】开箱即用的 API 文档方案（SpringDoc + Knife4j）](https://blog.csdn.net/weixin_47678542/article/details/155612113)
 
++ [从云游戏到Mac远程操控：UU远程游戏、办公场景全覆盖](https://blog.csdn.net/IRpickstars/article/details/155667173)
+
++ [【Linux 驱动开发】Linux设备驱动框架与驱动模型深度解析](https://blog.csdn.net/love131452098/article/details/155523774)
+
++ [不是OpenAI用不起，而是硅基流动更有性价比：全语言GPT调用指南](https://blog.csdn.net/m0_72606784/article/details/155646022)
+
