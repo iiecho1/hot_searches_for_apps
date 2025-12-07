@@ -61,3 +61,13 @@
 
 + [【官方双语】我错了 - 非果粉评测AirPods Pro 3#linus谈科技](https://m.acfun.cn/v/?ac=48076932)
 
++ [【馋豆豆】恋人](https://m.acfun.cn/v/?ac=48078175)
+
++ [当代胆结石机的优秀范例，声优创T2 MAX耳放上手体验](https://m.acfun.cn/v/?ac=48078088)
+
++ [【东方/爵士】山奥のエンカウンター・色無き風は妖怪の山に【東京アクティブNEETs】](https://m.acfun.cn/v/?ac=48069870)
+
++ [虎鲸VS大白鲨：如何猎杀顶级掠食者](https://m.acfun.cn/v/?ac=48077752)
+
++ [周刊东方25年11月第3&4周](https://m.acfun.cn/v/?ac=48076660)
+

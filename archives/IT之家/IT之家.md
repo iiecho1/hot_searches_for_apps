@@ -25,3 +25,17 @@
 
 + [真・大手机：华为 MatePad Mini 小平板集中上架一批汽车应用，含鸿蒙智行、比亚迪等](https://m.ithome.com/html/903075.htm)
 
++ [华为无网通信功能“上天”，可在飞机自由发消息、打电话](https://m.ithome.com/html/903083.htm)
+
++ [陈震宣布暂停一切对外表达：海外账号已停更，有假冒者发布对抗性情绪言论](https://m.ithome.com/html/903092.htm)
+
++ [消息称苹果 iPhone 18 系列测试屏下 3D 解锁、拼接微透玻璃](https://m.ithome.com/html/903121.htm)
+
++ [福建国补再来：苹果 2025 款 MacBook Air 轻薄本 7999 → 4836 元再降价](https://m.ithome.com/html/903109.htm)
+
++ [迪士尼《疯狂动物城 2》票房突破 28 亿，超越《速度与激情 8》进入中国影史进口片前二](https://m.ithome.com/html/903038.htm)
+
++ [小米 17 Pro 系列手机推送澎湃 HyperOS 3.0.34.0 版本，背屏可养小宠物](https://m.ithome.com/html/903063.htm)
+
++ [华为鸿蒙 HarmonyOS 6 最新适配情况公布，MatePad Mini 小平板等转为公测](https://m.ithome.com/html/903104.htm)
+
