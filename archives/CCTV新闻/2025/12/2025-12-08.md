@@ -161,3 +161,7 @@
 
 + [日本军国主义“还魂” ？ 四大灾难性后果值得警惕｜国际识局](https://news.cctv.com/2025/12/04/ARTIAf3pdwxl4vWZTrIRTYhm251204.shtml)
 
++ [贝宁总统：已挫败叛乱分子政变企图 局势得到控制](https://news.cctv.com/2025/12/08/ARTItj3OJKyUvmQH6mHtb0SO251208.shtml)
+
++ [哈马斯称愿在推动巴勒斯坦建国框架下讨论解除武装问题](https://news.cctv.com/2025/12/08/ARTI1L87eQ8PR9LOva67soAN251208.shtml)
+
