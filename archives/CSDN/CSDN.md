@@ -117,3 +117,7 @@
 
 + [计算机网络实验六 域名解析与DNS协议分析,2025年头歌](https://blog.csdn.net/zero_76/article/details/155599816)
 
++ [基于灰色神经网络的预测方法](https://blog.csdn.net/2510_91653061/article/details/155603488)
+
++ [FPGA（采用RGMII接口）逻辑实现千兆网TCP/IP协议栈调试记录](https://blog.csdn.net/universaldata/article/details/155616985)
+
