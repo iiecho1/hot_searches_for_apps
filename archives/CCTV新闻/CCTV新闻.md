@@ -213,3 +213,7 @@
 
 + [极端天气已致斯里兰卡618人死亡](https://news.cctv.com/2025/12/07/ARTISZ2zrPMPkpzb5E5QqvYY251207.shtml)
 
++ [贝宁部分军人发动政变 总统府称已重新控制局势](https://news.cctv.com/2025/12/07/ARTIJXqdHvNI8MDwfJvvIVsx251207.shtml)
+
++ [日本：山毛榉丰收招来更多“熊出没”？](https://news.cctv.com/2025/12/07/ARTI0LvdDPxObgoPPlYxD5Zu251207.shtml)
+

@@ -167,3 +167,5 @@
 
 + [不是OpenAI用不起，而是硅基流动更有性价比：全语言GPT调用指南](https://blog.csdn.net/m0_72606784/article/details/155646022)
 
++ [openEuler多样性算力支持深度评测：x86与ARM双架构适配及性能验证](https://blog.csdn.net/2301_80350265/article/details/155668221)
+
