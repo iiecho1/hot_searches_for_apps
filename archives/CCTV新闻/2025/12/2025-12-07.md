@@ -203,3 +203,5 @@
 
 + [格鲁吉亚总理：有团体利用BBC虚假报道发动“混合战争”](https://news.cctv.com/2025/12/07/ARTIUP6ZbKKXaBNbZUGOzVoS251207.shtml)
 
++ [印度西部夜店火灾事故中没有中国公民伤亡](https://news.cctv.com/2025/12/07/ARTIdkbv6H04zsKbpX1ngTxC251207.shtml)
+

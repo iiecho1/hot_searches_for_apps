@@ -151,3 +151,7 @@
 
 + [《从内核视角看 Linux：环形缓冲区 + 线程池的生产消费模型实现》](https://blog.csdn.net/Dovis5884/article/details/154694661)
 
++ [第21届智能车竞赛已经悄然开启（视频脚本）](https://blog.csdn.net/zhuoqingjoking97298/article/details/155667291)
+
++ [C/C++ Linux网络编程9 -服务器的独立运行](https://blog.csdn.net/yzcllzx/article/details/155529550)
+
