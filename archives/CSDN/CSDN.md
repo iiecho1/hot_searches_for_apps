@@ -143,3 +143,9 @@
 
 + [jenkins打包制作Python镜像，并推送至docker仓库，部署到k8s](https://blog.csdn.net/zhuganlai168/article/details/155575871)
 
++ [基于ReAct框架的智能体构建实战 - 从原理到企业级应用](https://blog.csdn.net/sinat_41617212/article/details/155644369)
+
++ [Cache/主存及主存/辅存层次：理解计算机存储体系](https://blog.csdn.net/qq_41840843/article/details/155607896)
+
++ [FPGA（采用RGMII接口）逻辑实现千兆网TCP/IP协议栈调试记录](https://blog.csdn.net/universaldata/article/details/155616985)
+

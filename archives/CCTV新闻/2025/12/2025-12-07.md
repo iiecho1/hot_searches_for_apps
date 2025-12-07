@@ -185,3 +185,15 @@
 
 + [印度西部夜店火灾已致25人死亡](https://news.cctv.com/2025/12/07/ARTIVmCUOqaSu9VyFDiC8NKU251207.shtml)
 
++ [特朗普签署行政令调查外资企业食品反竞争行为](https://news.cctv.com/2025/12/07/ARTIaQr8UiVaHlCo6IB5INXT251207.shtml)
+
++ [总台现场直击丨米兰冬奥会火炬本土传递在罗马启动](https://news.cctv.com/2025/12/07/ARTIBBRgYZAv1dAv9eGsmToW251207.shtml)
+
++ [古巴外长：美国所谓“禁毒战争”不过是场闹剧](https://news.cctv.com/2025/12/07/ARTIIBlRlsxujJzDNDecttXn251207.shtml)
+
++ [马斯克抨击欧盟对社交媒体平台X巨额罚款](https://news.cctv.com/2025/12/07/ARTIY9fsYSzp9rasYgUPdkWc251207.shtml)
+
++ [古巴民众集会声援委内瑞拉 谴责美国军事威胁](https://news.cctv.com/2025/12/07/ARTIo1Z6hd8708QNU75f8OLY251207.shtml)
+
++ [美防长：特朗普政府将“把国家实际利益放在首位”](https://news.cctv.com/2025/12/07/ARTIQ6XO4F1ivlq1440hCiXm251207.shtml)
+
