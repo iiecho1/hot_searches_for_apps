@@ -31,3 +31,7 @@
 
 + [WISE 注册注意事项](https://www.v2ex.com/t/1177324)
 
++ [摄影分享-世纪公园银杏季](https://www.v2ex.com/t/1177272)
+
++ [老哥们咨询一下： Claude Code Max 的使用时长大概能用多久？](https://www.v2ex.com/t/1177285)
+

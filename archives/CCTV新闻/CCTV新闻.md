@@ -183,3 +183,5 @@
 
 + [中国地震台网正式测定：美加边界地区发生6.9级地震](https://news.cctv.com/2025/12/07/ARTI43Oh7sKrUN7eg85k2B6j251207.shtml)
 
++ [印度西部夜店火灾已致25人死亡](https://news.cctv.com/2025/12/07/ARTIVmCUOqaSu9VyFDiC8NKU251207.shtml)
+
