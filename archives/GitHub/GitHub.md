@@ -31,3 +31,19 @@
 
 + [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
++ [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python)
+
++ [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+
++ [sst/opencode](https://github.com/sst/opencode)
+
++ [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
+
++ [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+
++ [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+
++ [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
++ [activepieces/activepieces](https://github.com/activepieces/activepieces)
+

@@ -169,3 +169,7 @@
 
 + [openEuler多样性算力支持深度评测：x86与ARM双架构适配及性能验证](https://blog.csdn.net/2301_80350265/article/details/155668221)
 
++ [期货从业的铁律与自由：当职业选择遇上个人交易梦](https://blog.csdn.net/eidolon_foot/article/details/155642961)
+
++ [Vector Bucket：云原生向量存储新范式](https://blog.csdn.net/volcenginetod/article/details/155616856)
+

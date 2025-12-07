@@ -217,3 +217,5 @@
 
 + [日本：山毛榉丰收招来更多“熊出没”？](https://news.cctv.com/2025/12/07/ARTI0LvdDPxObgoPPlYxD5Zu251207.shtml)
 
++ [泽连斯基：本周俄向乌发射超1600架无人机](https://news.cctv.com/2025/12/07/ARTIfsbsnq9r0ey4o0tbKuWA251207.shtml)
+
