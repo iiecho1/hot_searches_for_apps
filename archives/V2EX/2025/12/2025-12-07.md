@@ -43,3 +43,7 @@
 
 + [M5 芯片的苹果本没有 15 寸吗？](https://www.v2ex.com/t/1177322)
 
++ [戒烟两年，我算是活明白了](https://www.v2ex.com/t/1177349)
+
++ [轻量级 macOS Clash 菜单栏客户端](https://www.v2ex.com/t/1177328)
+
