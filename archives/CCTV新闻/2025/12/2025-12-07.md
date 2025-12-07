@@ -229,3 +229,9 @@
 
 + [柬泰边境发生交火 两国相互指责](https://news.cctv.com/2025/12/07/ARTIwDb5hSryS4vGE7XEm7G6251207.shtml)
 
++ [非盟和西共体分别强烈谴责贝宁发生的政变企图](https://news.cctv.com/2025/12/07/ARTIUrE3HN6yx5K8Qd2KGMHB251207.shtml)
+
++ [叙首都大马士革市中心一酒店附近传出爆炸声](https://news.cctv.com/2025/12/07/ARTIjFntJkWHfFLaesr2uohU251207.shtml)
+
++ [尼日利亚外长：尼寻求成为金砖国家正式成员](https://news.cctv.com/2025/12/07/ARTIhNdv2Sq093Hb4PWpDiBG251207.shtml)
+
