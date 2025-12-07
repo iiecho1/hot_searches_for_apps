@@ -121,3 +121,9 @@
 
 + [【莉莉子】Girl‘s Day 期待【居家竖屏】](https://m.acfun.cn/v/?ac=48075864)
 
++ [美翻全场国风仙女团《桃花俏》现场版](https://m.acfun.cn/v/?ac=48077284)
+
++ [长靴的版本来啦](https://m.acfun.cn/v/?ac=48065842)
+
++ [基冰说：电脑行业的寒冬已然到来](https://m.acfun.cn/v/?ac=48076809)
+

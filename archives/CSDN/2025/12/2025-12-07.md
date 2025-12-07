@@ -173,3 +173,7 @@
 
 + [Vector Bucket：云原生向量存储新范式](https://blog.csdn.net/volcenginetod/article/details/155616856)
 
++ [【AI智能体】Coze 获取对标行业新闻转视频文案写入飞书多维表实战详解](https://blog.csdn.net/zhangcongyi420/article/details/154606528)
+
++ [Three.js3D粒子实时交互（附提示词和代码）——Gemini 3](https://blog.csdn.net/weixin_46211269/article/details/155617596)
+
