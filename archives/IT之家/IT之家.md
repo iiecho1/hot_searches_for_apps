@@ -39,3 +39,19 @@
 
 + [华为鸿蒙 HarmonyOS 6 最新适配情况公布，MatePad Mini 小平板等转为公测](https://m.ithome.com/html/903104.htm)
 
++ [2399 元雅迪新新国标电动自行车 C09 上市：前后座设计，标配车筐](https://m.ithome.com/html/902890.htm)
+
++ [英伟达 CEO 黄仁勋：华为是世界上最强大的科技公司之一，值得所有人尊重](https://m.ithome.com/html/902893.htm)
+
++ [全新旗鱼手机 Jolla Phone 现身：可更换电池设计、摄像头 / 麦克风可物理开关，兼容安卓应用](https://m.ithome.com/html/902922.htm)
+
++ [绿能：“不能带小孩”“铁皮座椅”“超速刹车”系电动自行车新国标误读，产品优化方案推进中](https://m.ithome.com/html/902921.htm)
+
++ [苹果 2026 年初新品前瞻：M5 Pro / Max MacBook Pro、A18 芯片标准版 iPad 等有望登场](https://m.ithome.com/html/902884.htm)
+
++ [韩国多平台账户在淘宝等电商被公开售卖，韩国警方介入请求删除](https://m.ithome.com/html/902905.htm)
+
++ [曝某厂年度影像旗舰有望本月 15-25 日亮相，预计为小米 17 Ultra](https://m.ithome.com/html/902902.htm)
+
++ [华为终端可持续发展报告 2024-2025 发布：鸿蒙开发者超 800 万，通过以旧换新让 100 多万台设备找到新主人](https://m.ithome.com/html/902916.htm)
+
