@@ -131,3 +131,9 @@
 
 + [桥接鸿沟：Simulink 与 STM32 底层驱动的完美拥抱](https://blog.csdn.net/weixin_45160274/article/details/155610410)
 
++ [蓝牙PAN连接：BNEP建立连接请求与成功响应研究](https://blog.csdn.net/weixin_37800531/article/details/155644761)
+
++ [【鸿蒙2025领航者闯关】鸿蒙OS在工业控制领域的技术突破与实战应用](https://blog.csdn.net/weixin_63944437/article/details/155573354)
+
++ [从零实现Vue3网站HTTPS访问：阿里云ECS+宝塔面板全流程指南](https://blog.csdn.net/mss359681091/article/details/155648928)
+
