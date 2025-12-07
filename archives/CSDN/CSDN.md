@@ -125,3 +125,5 @@
 
 + [零距离拆解银行司库系统（TMS）的微服务设计与实践](https://blog.csdn.net/qq_33589510/article/details/155646190)
 
++ [使用 LangGraph.js 和 Elasticsearch 构建一个金融 AI 搜索工作流](https://blog.csdn.net/UbuntuTouch/article/details/155629259)
+
