@@ -169,3 +169,17 @@
 
 + [阿尔及利亚西南部发生交通事故 造成14死34伤](https://news.cctv.com/2025/12/07/ARTIurTTtqadk4lr91rF4Tvd251207.shtml)
 
++ [美乌结束3天会谈 主要讨论领土和安全保障问题](https://news.cctv.com/2025/12/07/ARTIzrdjZQn4jIkzWcQqJUr9251207.shtml)
+
++ [埃及：火烈鸟越冬加龙湖](https://photo.cctv.com/2025/12/07/PHOA48BhoBn84ydSjoG1tUz3251207.shtml)
+
++ [美加墨世界杯赛程公布：6月11日打响揭幕战 7月19日进行决赛](https://news.cctv.com/2025/12/07/ARTIed0j3yTpjYf5334NSUYH251207.shtml)
+
++ [阿根廷购自丹麦的首批6架F-16战斗机完成交付](https://news.cctv.com/2025/12/07/ARTIps3tR4zCBhHJFoDhFyto251207.shtml)
+
++ [乌克兰多地能源设施遭空袭](https://news.cctv.com/2025/12/07/ARTIS7i85GroWdw2tCJ5oNxF251207.shtml)
+
++ [津巴布韦发生多起涉在津中资企业和中国公民安全事件，中使馆发布安全提醒](https://news.cctv.com/2025/12/07/ARTI0ARXcuRDlr6LjlluqXbC251207.shtml)
+
++ [中国地震台网正式测定：美加边界地区发生6.9级地震](https://news.cctv.com/2025/12/07/ARTI43Oh7sKrUN7eg85k2B6j251207.shtml)
+

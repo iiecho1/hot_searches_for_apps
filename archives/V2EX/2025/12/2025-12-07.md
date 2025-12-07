@@ -29,3 +29,5 @@
 
 + [为 Arch 推广做了一点微小的事情](https://www.v2ex.com/t/1177286)
 
++ [WISE 注册注意事项](https://www.v2ex.com/t/1177324)
+

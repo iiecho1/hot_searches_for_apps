@@ -137,3 +137,9 @@
 
 + [从零实现Vue3网站HTTPS访问：阿里云ECS+宝塔面板全流程指南](https://blog.csdn.net/mss359681091/article/details/155648928)
 
++ [【农作物谷物识别系统】Python+TensorFlow+Django+人工智能+深度学习+卷积神经网络算法](https://blog.csdn.net/meridian002/article/details/155615153)
+
++ [跨设备状态同步实战：基于 HarmonyOS 分布式数据管理（DDM）构建多端协同应用](https://blog.csdn.net/2302_80329073/article/details/155648469)
+
++ [jenkins打包制作Python镜像，并推送至docker仓库，部署到k8s](https://blog.csdn.net/zhuganlai168/article/details/155575871)
+
