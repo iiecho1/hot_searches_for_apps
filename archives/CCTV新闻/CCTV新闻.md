@@ -219,3 +219,5 @@
 
 + [泽连斯基：本周俄向乌发射超1600架无人机](https://news.cctv.com/2025/12/07/ARTIfsbsnq9r0ey4o0tbKuWA251207.shtml)
 
++ [贝宁武装部队挫败政变企图](https://news.cctv.com/2025/12/07/ARTIqWo2P6M51SwSpGywMd2V251207.shtml)
+

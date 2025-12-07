@@ -177,3 +177,13 @@
 
 + [Three.js3D粒子实时交互（附提示词和代码）——Gemini 3](https://blog.csdn.net/weixin_46211269/article/details/155617596)
 
++ [【HFP Client】 音频连接建立机制详解[3]：RFCOMM协议栈数据读取与流控机制深度解析（PORT_ReadData）](https://blog.csdn.net/weixin_37800531/article/details/155669404)
+
++ [多模态知识图谱赋能大学医疗AI精准教学研究（上）](https://blog.csdn.net/kkiron/article/details/155662162)
+
++ [基于灰色神经网络的预测方法](https://blog.csdn.net/2510_91653061/article/details/155603488)
+
++ [2025年北京海淀区中小学生信息学竞赛第二赛段C++真题](https://blog.csdn.net/m0_67260462/article/details/155649497)
+
++ [GitHub 热榜项目 - 日榜(2025-12-7)](https://blog.csdn.net/u014390502/article/details/155669299)
+
