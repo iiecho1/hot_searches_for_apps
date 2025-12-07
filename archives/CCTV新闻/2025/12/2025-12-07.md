@@ -221,3 +221,11 @@
 
 + [贝宁武装部队挫败政变企图](https://news.cctv.com/2025/12/07/ARTIqWo2P6M51SwSpGywMd2V251207.shtml)
 
++ [以色列总理内塔尼亚胡拒绝退出政坛换取赦免](https://news.cctv.com/2025/12/07/ARTIwEkzXzaTj8YdjazhsTti251207.shtml)
+
++ [卢浮宫埃及古物图书馆发生严重漏水 多部古籍受损](https://news.cctv.com/2025/12/07/ARTImfDFO64JMqkTNVzFZxbO251207.shtml)
+
++ [佩斯科夫：美国家安全战略不再将俄称为“直接威胁”是积极举措](https://news.cctv.com/2025/12/07/ARTISJXewjku4OdlHJmSpCOa251207.shtml)
+
++ [柬泰边境发生交火 两国相互指责](https://news.cctv.com/2025/12/07/ARTIwDb5hSryS4vGE7XEm7G6251207.shtml)
+
