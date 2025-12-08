@@ -219,3 +219,5 @@
 
 + [联合国难民署：超300万流离失所的叙利亚人返回家园](https://news.cctv.com/2025/12/08/ARTIxXUCBoiacRdymesqAXm8251208.shtml)
 
++ [连续两日交火 和平声明签署不到两月 泰柬边境再起冲突](https://news.cctv.com/2025/12/08/ARTI6O4WKFBBXy7Rb2MScTTy251208.shtml)
+
