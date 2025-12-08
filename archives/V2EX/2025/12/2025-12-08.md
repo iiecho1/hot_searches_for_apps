@@ -35,3 +35,9 @@
 
 + [新车需要贴膜，求推荐](https://www.v2ex.com/t/1177456)
 
++ [关系很好的朋友周五 30 岁，男性，可以送什么礼物](https://www.v2ex.com/t/1177498)
+
++ [城投债距离我们有多远](https://www.v2ex.com/t/1177486)
+
++ [我们的服务宗旨是不退钱！ RackNerd VPS 大避雷](https://www.v2ex.com/t/1177446)
+

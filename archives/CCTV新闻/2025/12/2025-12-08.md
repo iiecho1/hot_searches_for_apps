@@ -191,3 +191,9 @@
 
 + [尼日利亚100名遭绑架学生已获救](https://news.cctv.com/2025/12/08/ARTIfgt2GkGuprPaXcE3LaqW251208.shtml)
 
++ [泰军方公布泰柬边境交火时间线 泰4个边境省份约70%居民已撤离](https://news.cctv.com/2025/12/08/ARTI3WZicbYLsAKB6yIlQ9UU251208.shtml)
+
++ [国际观察丨特朗普放话要介入 奈飞收购华纳兄弟添变数](https://news.cctv.com/2025/12/08/ARTIcju75VrkeGQuHGgGWF4Y251208.shtml)
+
++ [美联储议息会议在即 市场预期再次降息可能性大](https://news.cctv.com/2025/12/08/ARTIvrYvRZAiS6uH3kZXyJhb251208.shtml)
+

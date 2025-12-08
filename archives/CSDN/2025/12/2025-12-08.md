@@ -175,3 +175,7 @@
 
 + [Flutter connectivity_plus 在鸿蒙端的完整适配指南：从原理到实践](https://blog.csdn.net/nanxuan521/article/details/155694173)
 
++ [【云原生】Kubernetes 指定节点部署 Pod](https://blog.csdn.net/liu_chen_yang/article/details/154825111)
+
++ [微服务依赖版本管理](https://blog.csdn.net/qq_37389760/article/details/155679826)
+
