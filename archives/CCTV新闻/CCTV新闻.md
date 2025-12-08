@@ -209,3 +209,13 @@
 
 + [泰军称摧毁柬关键军事目标 超5万名平民已被疏散](https://news.cctv.com/2025/12/08/ARTI788NB1tTNHXRTta6MRjA251208.shtml)
 
++ [日本群马县妙义山起火 火势蔓延超10小时](https://news.cctv.com/2025/12/08/ARTIQwruyoxo1mfjHERDgMUN251208.shtml)
+
++ [欧盟理事会批准“欧洲防务工业计划”](https://news.cctv.com/2025/12/08/ARTIln47mfcsinN7cGh04PwZ251208.shtml)
+
++ [苏丹快速支援部队控制南部一重要油田](https://news.cctv.com/2025/12/08/ARTIPrAQKkYiFAvHbpiqMfR0251208.shtml)
+
++ [挪威商场枪击事件枪手已被控制 尚无人员伤亡报告](https://news.cctv.com/2025/12/08/ARTI4BiKvyuuLMDqaot1DyPn251208.shtml)
+
++ [联合国难民署：超300万流离失所的叙利亚人返回家园](https://news.cctv.com/2025/12/08/ARTIxXUCBoiacRdymesqAXm8251208.shtml)
+

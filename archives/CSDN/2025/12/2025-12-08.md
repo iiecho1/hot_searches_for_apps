@@ -209,3 +209,11 @@
 
 + [服务器异常崩溃，GTID 是否会出现在 mysql.gtid_executed 表但不在 binlog 中](https://blog.csdn.net/lanyang123456/article/details/155679478)
 
++ [[鸿蒙2025领航者闯关] 鸿蒙 6 特性实战闯关：金融支付应用的安全升级之路](https://blog.csdn.net/2302_79376097/article/details/155711793)
+
++ [【Linux网络】NAT、代理服务、内网穿透](https://blog.csdn.net/2402_82670467/article/details/155618715)
+
++ [MyIP 监控网络很方便？Cpolar 帮你突破局域网限制](https://blog.csdn.net/qyj19920704/article/details/155709198)
+
++ [K8S-高可用集群](https://blog.csdn.net/weixin_46683975/article/details/155679222)
+
