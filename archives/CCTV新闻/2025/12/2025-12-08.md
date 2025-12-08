@@ -205,3 +205,7 @@
 
 + [拉美观察丨美极限施压下 委内瑞拉民众生活保持平稳](https://news.cctv.com/2025/12/08/ARTIbIEXFWeS5lguCn3zr9IG251208.shtml)
 
++ [乌兹别克斯坦总统签署法令赦免600余人](https://news.cctv.com/2025/12/08/ARTIN8yJ0wJTlW0tVOAlkP9g251208.shtml)
+
++ [泰军称摧毁柬关键军事目标 超5万名平民已被疏散](https://news.cctv.com/2025/12/08/ARTI788NB1tTNHXRTta6MRjA251208.shtml)
+

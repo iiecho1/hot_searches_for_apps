@@ -197,3 +197,7 @@
 
 + [OpenHarmony+Electron+Flutter：构建轻量化VR/AR跨端交互应用指南](https://blog.csdn.net/2302_80125424/article/details/155616239)
 
++ [从 Oracle 到金仓：一次真实数据库迁移的避坑实录](https://blog.csdn.net/weixin_44976692/article/details/155705789)
+
++ [【鸿蒙2025领航者闯关】鸿蒙2025：从技术突破到生态共建，开发者的成长与蜕变](https://blog.csdn.net/weixin_63944437/article/details/155700967)
+

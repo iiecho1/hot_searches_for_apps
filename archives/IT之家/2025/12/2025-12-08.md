@@ -61,3 +61,13 @@
 
 + [央视曝光“智驾神器”变“致命陷阱”，不法商家钻监管漏洞](https://m.ithome.com/html/903159.htm)
 
++ [2025 贺岁档电影票房破 30.51 亿元提前刷新纪录：《疯狂动物城 2》杀入年度前三，中国内地票房远超北美](https://m.ithome.com/html/903176.htm)
+
++ [iPhone 17 Pro / Max 官方破价：苹果 Apple Store 天猫旗舰店限时直降 300 元](https://m.ithome.com/html/903240.htm)
+
++ [科学家最新研究：猫对男性喵得更多，不受年龄、品种、性别影响](https://m.ithome.com/html/903174.htm)
+
++ [华为 Mate 80 系列 / X7 手机首发鸿蒙版高德地图一体化导航，支持自动规划穿越地下环道与地库](https://m.ithome.com/html/903229.htm)
+
++ [段永平赞特斯拉 Model Y“自动驾驶”，喊话“I&#39;m back”](https://m.ithome.com/html/903155.htm)
+
