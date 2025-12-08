@@ -167,3 +167,13 @@
 
 + [韩国总统府本月迁回青瓦台](https://news.cctv.com/2025/12/08/ARTIIngt0e2Qa19ftFbtEHSr251208.shtml)
 
++ [对拉美“地面行动”未启 美防长已背“战争罪”嫌疑](https://news.cctv.com/2025/12/08/ARTIKMtxWc4TaYneaPF05PcC251208.shtml)
+
++ [美国阿拉斯加州发生5.8级地震 震源深度10公里](https://news.cctv.com/2025/12/08/ARTIAXPl5tL910dJrQVhFI0s251208.shtml)
+
++ [高市错误言论引众怒 日本前首相及民众再批驳](https://news.cctv.com/2025/12/08/ARTIcrKLBodwLMKCFLWuBEcF251208.shtml)
+
++ [厄瓜多尔西南部发生交通事故 已致5人死亡](https://news.cctv.com/2025/12/08/ARTId9O05e4Bh9rRuJCqIPLc251208.shtml)
+
++ [委内瑞拉武装部队宣布增招士兵5600名](https://news.cctv.com/2025/12/08/ARTIoyt818LviPFMJwe8hy2i251208.shtml)
+

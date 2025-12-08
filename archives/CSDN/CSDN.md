@@ -135,3 +135,13 @@
 
 + [2026年软件测试工具栈精选：开源与商用全景对比](https://blog.csdn.net/2501_94261392/article/details/155665222)
 
++ [【Linux 网络】基于TCP的Socket编程：通过协议定制，实现网络计算器](https://blog.csdn.net/huangyuchi/article/details/155448817)
+
++ [金仓数据库助力Oracle迁移实战：破局四大挑战，解锁高效迁移新路径](https://blog.csdn.net/qq_32682301/article/details/155621385)
+
++ [SpringBoot3 | SpringBoot中Entity、DTO、VO的通俗理解与实战](https://blog.csdn.net/zhangjiaoshou_/article/details/155646956)
+
++ [【ComfyUI】SDXL 写真照人物真实细节还原](https://blog.csdn.net/qq_20288327/article/details/155482538)
+
++ [【Linux篇】线程深度解析：概念、原理与实践](https://blog.csdn.net/2301_81290732/article/details/154725977)
+
