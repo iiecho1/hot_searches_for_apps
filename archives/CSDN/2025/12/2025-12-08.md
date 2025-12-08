@@ -189,3 +189,11 @@
 
 + [DeepSeek-V3.2：开源大模型的里程碑式突破与硅基流动平台实战指南](https://blog.csdn.net/m0_72606784/article/details/155671354)
 
++ [鸿蒙学习实战之路 - 应用间链接最佳实践](https://blog.csdn.net/u011864152/article/details/155652054)
+
++ [【中草药识别系统】Python+TensorFlow+Django+人工智能+深度学习+卷积神经网络算法](https://blog.csdn.net/meridian002/article/details/155676817)
+
++ [[鸿蒙2025领航者闯关] 从零到英雄：我的鸿蒙开发技术成长与社区贡献之旅](https://blog.csdn.net/2301_76341691/article/details/155702686)
+
++ [OpenHarmony+Electron+Flutter：构建轻量化VR/AR跨端交互应用指南](https://blog.csdn.net/2302_80125424/article/details/155616239)
+

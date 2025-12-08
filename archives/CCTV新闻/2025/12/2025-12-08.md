@@ -199,3 +199,9 @@
 
 + [泰国军方称新一轮泰柬冲突已造成泰方1死8伤](https://news.cctv.com/2025/12/08/ARTITIa20vAaMOBsVgBqWv2X251208.shtml)
 
++ [印尼洪灾和山体滑坡已致961人遇难](https://news.cctv.com/2025/12/08/ARTICzQZZyq5YM1Q2d0Bvd91251208.shtml)
+
++ [柬方说泰军将攻击范围扩大至班迭棉吉省](https://news.cctv.com/2025/12/08/ARTIkSnnFd6nLjXgrVqiv361251208.shtml)
+
++ [拉美观察丨美极限施压下 委内瑞拉民众生活保持平稳](https://news.cctv.com/2025/12/08/ARTIbIEXFWeS5lguCn3zr9IG251208.shtml)
+
