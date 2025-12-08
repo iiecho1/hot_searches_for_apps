@@ -223,3 +223,7 @@
 
 + [柬埔寨377所学校因边境冲突关闭](https://news.cctv.com/2025/12/08/ARTIqcwJzdSWSWJv6TRR9wLh251208.shtml)
 
++ [日本或出现3米高海啸 电视台紧急直播强震画面](https://news.cctv.com/2025/12/08/ARTIZu7L7pE4kNjnh7uBAJfc251208.shtml)
+
++ [日本本州东部附近海域发生7.5级地震](https://news.cctv.com/2025/12/08/ARTIkLV7DWFCgALFGhtdAKlH251208.shtml)
+

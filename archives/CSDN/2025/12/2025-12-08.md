@@ -219,3 +219,11 @@
 
 + [LangGraph 需求转换图架构的技巧-CRAG实现](https://blog.csdn.net/hh051020/article/details/155679413)
 
++ [时序数据库选型实战指南：国产时序数据库Apache IoTDB的技术对比与实践](https://blog.csdn.net/Mrxiao_bo/article/details/155713378)
+
++ [灵活性与高性能兼得：KingbaseES 对 JSON 数据的全面支持解析](https://blog.csdn.net/2302_78391795/article/details/155693553)
+
++ [Java 架构 02：DDD 领域模型设计实战（限界上下文划分）](https://blog.csdn.net/qq_41187124/article/details/154121030)
+
++ [Nacos-3.1.1 PostgreSQL数据库适配插件： (2025年12月08日) 最新版](https://blog.csdn.net/lilinhai548/article/details/155702234)
+
