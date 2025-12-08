@@ -119,3 +119,5 @@
 
 + [计算机组成原理（2）：计算机硬件的基本组成](https://blog.csdn.net/htw250056/article/details/155665580)
 
++ [MySQL 数据目录迁移](https://blog.csdn.net/weixin_46739493/article/details/155647478)
+
