@@ -61,3 +61,5 @@
 
 + [是个小姐姐一次看过呀！JC 摩托展上的模特们](https://m.acfun.cn/v/?ac=48079630)
 
++ [【Sora】50年后的Acer](https://m.acfun.cn/v/?ac=48078071)
+

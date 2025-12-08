@@ -101,3 +101,7 @@
 
 + [不是OpenAI用不起，而是硅基流动更有性价比：全语言GPT调用指南](https://blog.csdn.net/m0_72606784/article/details/155646022)
 
++ [基于文本检测的 Python 爬虫弹窗图片定位与拖动实现](https://blog.csdn.net/Z_suger7/article/details/155710626)
+
++ [DeepSeek-V3.2：开源大模型的里程碑式突破与硅基流动平台实战指南](https://blog.csdn.net/m0_72606784/article/details/155671354)
+
