@@ -187,3 +187,7 @@
 
 + [泰国军方说已有3.5万平民从泰柬边境撤离](https://news.cctv.com/2025/12/08/ARTIgqcAMw05ZQB1TcaB5zUE251208.shtml)
 
++ [特朗普：对泽连斯基尚未阅读俄乌“和平计划”感到失望](https://news.cctv.com/2025/12/08/ARTIOXCotIiEXMAiGV3Hgos9251208.shtml)
+
++ [尼日利亚100名遭绑架学生已获救](https://news.cctv.com/2025/12/08/ARTIfgt2GkGuprPaXcE3LaqW251208.shtml)
+

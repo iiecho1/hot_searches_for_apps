@@ -171,3 +171,7 @@
 
 + [PyTorch实战（15）——基于Transformer的文本生成技术](https://blog.csdn.net/LOVEmy134611/article/details/150520708)
 
++ [大模型学习方法之——大模型技术学习路线](https://blog.csdn.net/Z4400840/article/details/155692456)
+
++ [Flutter connectivity_plus 在鸿蒙端的完整适配指南：从原理到实践](https://blog.csdn.net/nanxuan521/article/details/155694173)
+
