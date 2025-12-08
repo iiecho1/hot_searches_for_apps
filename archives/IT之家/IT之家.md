@@ -71,3 +71,11 @@
 
 + [段永平赞特斯拉 Model Y“自动驾驶”，喊话“I&#39;m back”](https://m.ithome.com/html/903155.htm)
 
++ [经典版 QQ 官宣回归：支持双模式切换、调色盘全部免费](https://m.ithome.com/html/903268.htm)
+
++ [小米汽车定制服务开启交付，SU7 Ultra 紫水晶亮相](https://m.ithome.com/html/903242.htm)
+
++ [华为鸿蒙电脑企业版来了，擎云 HM740 官宣 12 月 11 日发布](https://m.ithome.com/html/903206.htm)
+
++ [CEO 亲自演示：众擎机器人 T800 一脚踹翻 75 公斤级老板赵同阳](https://m.ithome.com/html/903156.htm)
+

@@ -27,3 +27,11 @@
 
 + [activepieces/activepieces](https://github.com/activepieces/activepieces)
 
++ [slidevjs/slidev](https://github.com/slidevjs/slidev)
+
++ [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)
+
++ [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
+
++ [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+
