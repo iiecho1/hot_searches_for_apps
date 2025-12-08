@@ -171,3 +171,9 @@
 
 + [联合国呼吁泰国与柬埔寨缓和边境紧张局势](https://news.cctv.com/2025/12/09/ARTIJ5Z6x4a7rET1yOhepYUr251209.shtml)
 
++ [日本近海7.5级地震有何影响？专家分析](https://news.cctv.com/2025/12/09/ARTIZLxMVjsjslsVroipYCkU251209.shtml)
+
++ [日本本州东部远海发生6.6级地震](https://news.cctv.com/2025/12/09/ARTIewsjQHBmHNF1YSjzfgNF251209.shtml)
+
++ [日本震中附近发生火灾 现场火势较为猛烈](https://news.cctv.com/2025/12/09/ARTIW9e5TzWdr3V3WKGXLHBB251209.shtml)
+

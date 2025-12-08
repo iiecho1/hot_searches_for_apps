@@ -127,3 +127,5 @@
 
 + [hive和hadoop如何部署](https://blog.csdn.net/S_ZaiJiangHu/article/details/155650750)
 
++ [CMU15445（2025 Fall） lab PROJECT #0 - C++ PRIMER + 环境配置（VS2026+WSL2）](https://blog.csdn.net/J__M__C/article/details/155432718)
+
