@@ -105,3 +105,17 @@
 
 + [DeepSeek-V3.2：开源大模型的里程碑式突破与硅基流动平台实战指南](https://blog.csdn.net/m0_72606784/article/details/155671354)
 
++ [基于python+opencv的手势识别系统，可控制灯的亮度，智能家居，智能小车](https://blog.csdn.net/2508_94202947/article/details/155670464)
+
++ [Java实现周易六爻自动排盘：从铜钱起卦到本卦解析的完整代码教程](https://blog.csdn.net/weixin_40986713/article/details/155703008)
+
++ [github-mcp-server v0.24.0 发布：全面迁移至 modelcontextprotocol/go-sdk，新增仓库资源补全与AI问题评估工作流](https://blog.csdn.net/weixin_48502062/article/details/155608637)
+
++ [基于大数据的短视频用户兴趣分析-hive+django+spider](https://blog.csdn.net/shmp54xmu/article/details/155678950)
+
++ [K8s 部署 MySQL 主从复制集群](https://blog.csdn.net/2502_92656182/article/details/155676202)
+
++ [Java 架构 02：DDD 领域模型设计实战（限界上下文划分）](https://blog.csdn.net/qq_41187124/article/details/154121030)
+
++ [计算机组成原理（2）：计算机硬件的基本组成](https://blog.csdn.net/htw250056/article/details/155665580)
+
