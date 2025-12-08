@@ -165,3 +165,5 @@
 
 + [哈马斯称愿在推动巴勒斯坦建国框架下讨论解除武装问题](https://news.cctv.com/2025/12/08/ARTI1L87eQ8PR9LOva67soAN251208.shtml)
 
++ [韩国总统府本月迁回青瓦台](https://news.cctv.com/2025/12/08/ARTIIngt0e2Qa19ftFbtEHSr251208.shtml)
+

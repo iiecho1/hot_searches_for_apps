@@ -127,3 +127,11 @@
 
 + [使用 LangGraph.js 和 Elasticsearch 构建一个金融 AI 搜索工作流](https://blog.csdn.net/UbuntuTouch/article/details/155629259)
 
++ [openEuler实战：AI场景进程调度性能全面验证](https://blog.csdn.net/2301_80026901/article/details/155669654)
+
++ [智慧养老|基于springboot+小程序社区养老保障系统设计与实现(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/155632960)
+
++ [jenkins打包制作Python镜像，并推送至docker仓库，部署到k8s](https://blog.csdn.net/zhuganlai168/article/details/155575871)
+
++ [2026年软件测试工具栈精选：开源与商用全景对比](https://blog.csdn.net/2501_94261392/article/details/155665222)
+
