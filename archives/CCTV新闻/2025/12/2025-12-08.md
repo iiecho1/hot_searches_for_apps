@@ -181,3 +181,5 @@
 
 + [国际观察丨政局剧变一年后 叙利亚形势如何](https://news.cctv.com/2025/12/08/ARTIDz5UFO9hOvH9KWRsa75c251208.shtml)
 
++ [特朗普对泽连斯基“失望” 美媒：时机耐人寻味](https://news.cctv.com/2025/12/08/ARTInZWDceD7Rjh0ElQu7ZYX251208.shtml)
+
