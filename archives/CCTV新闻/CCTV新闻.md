@@ -177,3 +177,7 @@
 
 + [委内瑞拉武装部队宣布增招士兵5600名](https://news.cctv.com/2025/12/08/ARTIoyt818LviPFMJwe8hy2i251208.shtml)
 
++ [印尼洪灾和山体滑坡已致929人遇难](https://news.cctv.com/2025/12/08/ARTI0sFjLJokADw3lqbsXCCa251208.shtml)
+
++ [国际观察丨政局剧变一年后 叙利亚形势如何](https://news.cctv.com/2025/12/08/ARTIDz5UFO9hOvH9KWRsa75c251208.shtml)
+

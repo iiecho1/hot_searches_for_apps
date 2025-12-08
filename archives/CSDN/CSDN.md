@@ -145,3 +145,25 @@
 
 + [【Linux篇】线程深度解析：概念、原理与实践](https://blog.csdn.net/2301_81290732/article/details/154725977)
 
++ [Spring Boot 机制五： Bean 生命周期与后置处理器（BeanPostProcessor）源码深度剖析](https://blog.csdn.net/qq_61654952/article/details/155690222)
+
++ [Dubbo服务降级全攻略：构建韧性微服务系统的守护盾](https://blog.csdn.net/qq_44378083/article/details/155665284)
+
++ [唤醒80年代记忆：基于百度地图的一次老式天气预报的WebGIS构建之旅](https://blog.csdn.net/yelangkingwuzuhu/article/details/155679731)
+
++ [IoTDB 权限管理完全指南：从概念到实战操作](https://blog.csdn.net/weixin_43151418/article/details/155188006)
+
++ [【超音速专利 CN116777899A】基于回归模型的工业图像关键点检测方法、系统及平台](https://blog.csdn.net/he_zhidan/article/details/155676793)
+
++ [【自然语言处理】预训练10：预训练BERT](https://blog.csdn.net/Morse_Chen/article/details/155678728)
+
++ [Next.js无条件RCE CVE-2025-55182无条件利用，Dify受影响严重](https://blog.csdn.net/qq_53075965/article/details/155615013)
+
++ [Vue 进阶,生命周期 + 工程化开发](https://blog.csdn.net/2401_83717871/article/details/155649517)
+
++ [Spring Boot3 + JDK21 的迁移 超详细步骤](https://blog.csdn.net/weixin_61635597/article/details/155647632)
+
++ [2025年第二届全国网络安全行业职业技能大赛电子数据取证赛道复赛WP](https://blog.csdn.net/pixelpoints/article/details/155644395)
+
++ [5——三极管——硬件工程师之路](https://blog.csdn.net/2301_78159133/article/details/155607638)
+
