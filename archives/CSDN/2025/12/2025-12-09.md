@@ -121,3 +121,5 @@
 
 + [MySQL 数据目录迁移](https://blog.csdn.net/weixin_46739493/article/details/155647478)
 
++ [C#动态图像的“蝴蝶效应“：一个像素的错误，如何让整个系统在30秒内“雪崩“？](https://blog.csdn.net/z_344791576/article/details/151931681)
+

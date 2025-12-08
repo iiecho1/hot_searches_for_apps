@@ -67,3 +67,5 @@
 
 + [【助眠音声】适合咖啡的冬日爵士曲联播 62min（恢复疲劳 音乐治疗~）](https://m.acfun.cn/v/?ac=48073538)
 
++ [来看大美吒！aespa《Rich Man》英语版现场LIVE](https://m.acfun.cn/v/?ac=48079623)
+
