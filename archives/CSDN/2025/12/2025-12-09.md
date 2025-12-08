@@ -123,3 +123,7 @@
 
 + [C#动态图像的“蝴蝶效应“：一个像素的错误，如何让整个系统在30秒内“雪崩“？](https://blog.csdn.net/z_344791576/article/details/151931681)
 
++ [LangGraph 需求转换图架构的技巧-CRAG实现](https://blog.csdn.net/hh051020/article/details/155679413)
+
++ [hive和hadoop如何部署](https://blog.csdn.net/S_ZaiJiangHu/article/details/155650750)
+

@@ -39,3 +39,23 @@
 
 + [段永平赞特斯拉 Model Y“自动驾驶”，喊话“I&#39;m back”](https://m.ithome.com/html/903155.htm)
 
++ [经典版 QQ 官宣回归：支持双模式切换、调色盘全部免费](https://m.ithome.com/html/903268.htm)
+
++ [华为李小龙：BT.2020 一直由于过于先进而无法显示，直到今年 Mate 80 RS 上市](https://m.ithome.com/html/903338.htm)
+
++ [小米汽车定制服务开启交付，SU7 Ultra 紫水晶亮相](https://m.ithome.com/html/903242.htm)
+
++ [锤子科技倒闭 7 年后，罗永浩称手里有钱不排除重新启动做手机](https://m.ithome.com/html/903344.htm)
+
++ [华为鸿蒙电脑企业版来了，擎云 HM740 官宣 12 月 11 日发布](https://m.ithome.com/html/903206.htm)
+
++ [小米智能门锁销量连续 5 年中国第一，出货量破 800 万](https://m.ithome.com/html/903246.htm)
+
++ [大唐移动与小米明年 3 月在德国对簿公堂，消息称专利费报价是关键纠纷](https://m.ithome.com/html/903383.htm)
+
++ [159 元：酷态科 10 号电能棒 Mini 新增“Dark Knight・黑骑士”配色，支持 55W 双向快充](https://m.ithome.com/html/903248.htm)
+
++ [吉利副总裁陈政痛批汽车行业乱象：部分车企拉低中国车设计高度](https://m.ithome.com/html/903325.htm)
+
++ [田曦薇担任美学大使，vivo S50 系列手机官宣 12 月 15 日发布](https://m.ithome.com/html/903217.htm)
+

@@ -161,3 +161,13 @@
 
 + [学习新语｜中法元首外交再写佳话](https://news.cctv.com/2025/12/06/ARTIwfAJPXD2yVNdJZV6oLyL251206.shtml)
 
++ [日本气象厅下调海啸预警级别](https://news.cctv.com/2025/12/09/ARTID5ASzrVxNcajKd8oicxe251209.shtml)
+
++ [日本因强震暂停核污染水排海](https://news.cctv.com/2025/12/09/ARTIuYa9MPLe4qrfnhQAQjxw251209.shtml)
+
++ [科特迪瓦总统瓦塔拉宣誓就职开启新任期](https://news.cctv.com/2025/12/09/ARTIDzmOGfMWNRmLzujuq6xY251209.shtml)
+
++ [强震发生后 日本警告后续或有更大地震](https://news.cctv.com/2025/12/09/ARTIw3ViRpdDJEjqNG5oVQVd251209.shtml)
+
++ [联合国呼吁泰国与柬埔寨缓和边境紧张局势](https://news.cctv.com/2025/12/09/ARTIJ5Z6x4a7rET1yOhepYUr251209.shtml)
+
