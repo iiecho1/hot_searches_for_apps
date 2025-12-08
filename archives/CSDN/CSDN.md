@@ -167,3 +167,7 @@
 
 + [5——三极管——硬件工程师之路](https://blog.csdn.net/2301_78159133/article/details/155607638)
 
++ [C++ 波澜壮阔 40 年：引用、内联函数与现代空指针，效率跃升三基石](https://blog.csdn.net/2501_91617454/article/details/155362430)
+
++ [PyTorch实战（15）——基于Transformer的文本生成技术](https://blog.csdn.net/LOVEmy134611/article/details/150520708)
+

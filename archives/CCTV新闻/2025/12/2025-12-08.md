@@ -183,3 +183,7 @@
 
 + [特朗普对泽连斯基“失望” 美媒：时机耐人寻味](https://news.cctv.com/2025/12/08/ARTInZWDceD7Rjh0ElQu7ZYX251208.shtml)
 
++ [洪森指责泰方发动袭击 称须采取报复行动的红线已划定](https://news.cctv.com/2025/12/08/ARTIkDYXbL5y9GDK3ZTl2vUu251208.shtml)
+
++ [泰国军方说已有3.5万平民从泰柬边境撤离](https://news.cctv.com/2025/12/08/ARTIgqcAMw05ZQB1TcaB5zUE251208.shtml)
+
