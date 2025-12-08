@@ -41,3 +41,5 @@
 
 + [我们的服务宗旨是不退钱！ RackNerd VPS 大避雷](https://www.v2ex.com/t/1177446)
 
++ [豆包手机遭到各大 APP 的“封杀”，未来的模式如何？](https://www.v2ex.com/t/1177469)
+

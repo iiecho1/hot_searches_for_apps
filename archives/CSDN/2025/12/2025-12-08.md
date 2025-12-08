@@ -179,3 +179,13 @@
 
 + [微服务依赖版本管理](https://blog.csdn.net/qq_37389760/article/details/155679826)
 
++ [企业级 Git 分支管理模型实战：从 Git Flow 到 DevOps 落地](https://blog.csdn.net/2503_91389547/article/details/154743129)
+
++ [表单数据验证：HTML5 自带属性与其他方法的结合应用](https://blog.csdn.net/weixin_42554191/article/details/155632573)
+
++ [【区块链技术（04）】区块链核心技术：分布式网络的定义和特点；分布式账本的特性、实现与工作流程；共识机制](https://blog.csdn.net/ZunXin_2580/article/details/155646577)
+
++ [Elasticsearch：数据脱节如何破坏现代调查](https://blog.csdn.net/UbuntuTouch/article/details/155671157)
+
++ [DeepSeek-V3.2：开源大模型的里程碑式突破与硅基流动平台实战指南](https://blog.csdn.net/m0_72606784/article/details/155671354)
+

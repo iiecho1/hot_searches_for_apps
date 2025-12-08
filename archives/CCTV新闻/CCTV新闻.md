@@ -197,3 +197,5 @@
 
 + [美联储议息会议在即 市场预期再次降息可能性大](https://news.cctv.com/2025/12/08/ARTIvrYvRZAiS6uH3kZXyJhb251208.shtml)
 
++ [泰国军方称新一轮泰柬冲突已造成泰方1死8伤](https://news.cctv.com/2025/12/08/ARTITIa20vAaMOBsVgBqWv2X251208.shtml)
+
