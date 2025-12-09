@@ -201,3 +201,11 @@
 
 + [韩国忠清南道一火电站爆炸起火](https://news.cctv.com/2025/12/09/ARTI2X4TwtdJ2IIJ3V7V323i251209.shtml)
 
++ [“大佐”军衔要死灰复燃？警惕日本为军国主义招魂 | 国际识局](https://news.cctv.com/2025/12/09/ARTIOtRBrs9LICu6Lb8Nw8Rb251209.shtml)
+
++ [土耳其驻华大使于纳尔：中国“十五五”规划将为世界经济传递关键信号](https://news.cctv.com/2025/12/09/ARTIs9n3iVOoJcB3rhzvKtUq251209.shtml)
+
++ [埃及前副外长：违背一个中国原则的行为危害地区和全球稳定](https://news.cctv.com/2025/12/09/ARTIMA3UWUrizvFBDcknOICP251209.shtml)
+
++ [日中关系学会副会长：高市错误言论反噬其执政地位！](https://news.cctv.com/2025/12/09/ARTISS5HOdxKGXluXckh3kGJ251209.shtml)
+

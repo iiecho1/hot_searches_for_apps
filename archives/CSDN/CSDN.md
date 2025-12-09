@@ -161,3 +161,13 @@
 
 + [曙光视控一体工业智能方案评测：基于曙睿（SugonRI）2.0 工业编程平台的 YOLO 应用实测](https://blog.csdn.net/qq_44866828/article/details/155732158)
 
++ [Java 大视界 -- 基于 Java 的大数据可视化在城市生态环境监测与保护决策中的应用](https://blog.csdn.net/atgfg/article/details/155643096)
+
++ [2025三掌柜赠书活动第四十五期 动手学深度学习（PyTorch版）](https://blog.csdn.net/CC1991_/article/details/155676551)
+
++ [MySQL如何做读写分离架构](https://blog.csdn.net/Dxy1239310216/article/details/155643844)
+
++ [使用 Python 语言 从 0 到 1 搭建完整 Web UI自动化测试学习系列 30--开源电商商城系统项目实战--配置测试环境地址](https://blog.csdn.net/qq_45820603/article/details/155676144)
+
++ [【机器人】复现 RoboBrain2.0 具身大脑模型 | 统一感知、推理和规划能力](https://blog.csdn.net/qq_41204464/article/details/155673960)
+
