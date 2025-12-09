@@ -209,3 +209,9 @@
 
 + [日中关系学会副会长：高市错误言论反噬其执政地位！](https://news.cctv.com/2025/12/09/ARTISS5HOdxKGXluXckh3kGJ251209.shtml)
 
++ [特朗普称将允许英伟达向中国出售H200芯片](https://news.cctv.com/2025/12/09/ARTIZcJyoJbCwkYrxQkxl3ln251209.shtml)
+
++ [印尼一商店发生火灾 已致7人死亡](https://news.cctv.com/2025/12/09/ARTIYTeZFemf4pF3Pw6Oi6r2251209.shtml)
+
++ [捷克总统任命巴比什为新一届政府总理](https://news.cctv.com/2025/12/09/ARTIMCAbpEolIRi8esaRDsO4251209.shtml)
+
