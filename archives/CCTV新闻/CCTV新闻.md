@@ -161,3 +161,11 @@
 
 + [日本学者：高市错误言论偏离和平路线 危害国际秩序](https://news.cctv.com/2025/12/07/ARTIhGtLmYzMQIP49hDiBdyw251207.shtml)
 
++ [泽连斯基称乌克兰正与美、欧磋商三项关键文件](https://news.cctv.com/2025/12/10/ARTIrukJHfo08M01h6VpxDBe251210.shtml)
+
++ [美政府被要求公开打击“贩毒船”法律依据备忘录](https://news.cctv.com/2025/12/10/ARTIQikZI7cW3oXLBpSoaMOc251210.shtml)
+
++ [联合国贸发会议：今年全球贸易额将达35万亿美元](https://news.cctv.com/2025/12/10/ARTIUWJ18ayxBSlWMTDHI0Tl251210.shtml)
+
++ [美国肯塔基州立大学枪击事件已致1死1伤](https://news.cctv.com/2025/12/10/ARTIhOnTsm1Fa6PC3QMECrRE251210.shtml)
+
