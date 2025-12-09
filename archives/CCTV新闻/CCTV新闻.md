@@ -185,3 +185,5 @@
 
 + [日本有识之士强烈要求高市早苗撤回涉台错误言论](https://news.cctv.com/2025/12/09/ARTI4KNechBdH5CDfdzy4BJq251209.shtml)
 
++ [特朗普称英伟达对华出售H200芯片的收入25%上缴美国政府](https://news.cctv.com/2025/12/09/ARTIQAo8mrEtHxQswXkbECmG251209.shtml)
+

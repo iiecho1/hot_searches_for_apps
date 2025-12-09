@@ -41,3 +41,5 @@
 
 + [大家平均每天戴耳机多久？](https://www.v2ex.com/t/1177682)
 
++ [我宣布，最好的 git 客户端是腾讯家的 ugit](https://www.v2ex.com/t/1177732)
+

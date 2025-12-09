@@ -137,3 +137,9 @@
 
 + [27_Spring AI 干货笔记之 OpenAI SDK 聊天功能（官方支持）](https://blog.csdn.net/luorongxi123/article/details/155713800)
 
++ [基于ReAct框架的智能体构建实战 - 从原理到企业级应用](https://blog.csdn.net/sinat_41617212/article/details/155644369)
+
++ [Dubbo健康检查全攻略：构建高可观测与高可用的微服务基座](https://blog.csdn.net/qq_44378083/article/details/155718013)
+
++ [主流 AI IDE 之一的 Kiro 介绍](https://blog.csdn.net/u014695938/article/details/155647719)
+
