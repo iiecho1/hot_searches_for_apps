@@ -133,3 +133,5 @@
 
 + [2025-2026京东LOC店铺入鼎新规深度解析与实战指南](https://blog.csdn.net/sixpp/article/details/155752476)
 
++ [【超音速专利 CN116777899A】基于回归模型的工业图像关键点检测方法、系统及平台](https://blog.csdn.net/he_zhidan/article/details/155676793)
+
