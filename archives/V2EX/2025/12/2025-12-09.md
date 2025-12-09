@@ -57,3 +57,5 @@
 
 + [准备 Linux desktop 当主力一段时间试试 有推荐的么](https://www.v2ex.com/t/1177808)
 
++ [对豆包手机的思考](https://www.v2ex.com/t/1177803)
+

@@ -215,3 +215,5 @@
 
 + [捷克总统任命巴比什为新一届政府总理](https://news.cctv.com/2025/12/09/ARTIMCAbpEolIRi8esaRDsO4251209.shtml)
 
++ [立陶宛宣布进入国家紧急状态 白俄罗斯称立方指控不实](https://news.cctv.com/2025/12/09/ARTIeBltWqYiDGafjRoYA1xh251209.shtml)
+
