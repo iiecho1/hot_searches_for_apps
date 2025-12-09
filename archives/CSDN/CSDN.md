@@ -181,3 +181,7 @@
 
 + [【Linux我做主】进程实践：手动实现Shell](https://blog.csdn.net/2301_80064645/article/details/151115647)
 
++ [MySQL Undo Log 深度解析：表空间、MVCC、回滚机制与版本演进全解](https://blog.csdn.net/qq_53140287/article/details/155716771)
+
++ [2025.12.6 论文阅读](https://blog.csdn.net/Zcymatics/article/details/155645827)
+
