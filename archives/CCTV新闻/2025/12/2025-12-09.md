@@ -177,3 +177,5 @@
 
 + [日本震中附近发生火灾 现场火势较为猛烈](https://news.cctv.com/2025/12/09/ARTIW9e5TzWdr3V3WKGXLHBB251209.shtml)
 
++ [“走读中柬”系列活动即将亮相金边 助力中柬人文交流走深走实](https://news.cctv.com/2025/12/09/ARTIiLuvmy2NatlSAz1qiTc9251202.shtml)
+

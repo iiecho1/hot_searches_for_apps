@@ -21,3 +21,7 @@
 
 + [我们的服务宗旨是不退钱！ RackNerd VPS 大避雷](https://www.v2ex.com/t/1177446)
 
++ [贷款炒股，求快速方案](https://www.v2ex.com/t/1177552)
+
++ [今天真是糟糕透顶的一个开始！](https://www.v2ex.com/t/1177534)
+
