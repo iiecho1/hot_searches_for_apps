@@ -107,3 +107,25 @@
 
 + [从零实现Vue3网站HTTPS访问：阿里云ECS+宝塔面板全流程指南](https://blog.csdn.net/mss359681091/article/details/155648928)
 
++ [AiOnly+Claude Code开发实战：调用Claude Sonnet 4.5 API实现简历一键投递插件](https://blog.csdn.net/2301_80863610/article/details/155495076)
+
++ [【Linux C/C++开发】Linux C/C++编译参数 `-fPIC` 深度解析](https://blog.csdn.net/love131452098/article/details/155714838)
+
++ [渗透测试中的方法论](https://blog.csdn.net/weixin_58203004/article/details/155709746)
+
++ [基于爬虫的个性化书籍推荐系统_flask+spider](https://blog.csdn.net/shmp54/article/details/155679219)
+
++ [基于python+opencv的手势识别系统，可控制灯的亮度，智能家居，智能小车](https://blog.csdn.net/2508_94202947/article/details/155670464)
+
++ [Oracle迁金仓避坑指南：四大核心痛点拆解+金仓全流程破局方案](https://blog.csdn.net/lrq13965748542/article/details/155696258)
+
++ [明朝---从经验文明走向工程文明的历史断裂](https://blog.csdn.net/weixin_47979206/article/details/155649893)
+
++ [灵活性与高性能兼得：KingbaseES 对 JSON 数据的全面支持解析](https://blog.csdn.net/2302_78391795/article/details/155693553)
+
++ [面经整理——计算机网络](https://blog.csdn.net/weixin_54385104/article/details/155709483)
+
++ [Vite 前端项目 - CSS变量智能提示](https://blog.csdn.net/qq_41798568/article/details/155711649)
+
++ [Java-188 Guava Cache 疑难问题实战：OOM、过期清理、命中率异常和阻塞排查](https://blog.csdn.net/w776341482/article/details/155731723)
+
