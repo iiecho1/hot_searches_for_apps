@@ -181,3 +181,7 @@
 
 + [泰国4个边境省份约70%居民已撤离](https://photo.cctv.com/2025/12/09/PHOAOP82W83xL7beMiGuahdu251209.shtml)
 
++ [坦赞铁路繁荣带建设启动中非高质量合作](https://news.cctv.com/2025/12/09/ARTImTMagP5C3j7r2lijBUWJ251209.shtml)
+
++ [日本有识之士强烈要求高市早苗撤回涉台错误言论](https://news.cctv.com/2025/12/09/ARTI4KNechBdH5CDfdzy4BJq251209.shtml)
+

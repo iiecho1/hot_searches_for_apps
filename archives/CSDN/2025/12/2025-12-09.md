@@ -135,3 +135,5 @@
 
 + [【Unity笔记】 WorldStreamer2指南——针对大世界的流式加载与优化](https://blog.csdn.net/qq_41140324/article/details/155714352)
 
++ [27_Spring AI 干货笔记之 OpenAI SDK 聊天功能（官方支持）](https://blog.csdn.net/luorongxi123/article/details/155713800)
+
