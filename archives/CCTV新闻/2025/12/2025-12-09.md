@@ -179,3 +179,5 @@
 
 + [“走读中柬”系列活动即将亮相金边 助力中柬人文交流走深走实](https://news.cctv.com/2025/12/09/ARTIiLuvmy2NatlSAz1qiTc9251202.shtml)
 
++ [泰国4个边境省份约70%居民已撤离](https://photo.cctv.com/2025/12/09/PHOAOP82W83xL7beMiGuahdu251209.shtml)
+
