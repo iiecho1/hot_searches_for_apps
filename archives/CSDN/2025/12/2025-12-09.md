@@ -155,3 +155,9 @@
 
 + [处理 JSON 数据就用 JSON Crack，用cpolar突破网络限制后太方便了](https://blog.csdn.net/qq_48652579/article/details/155709052)
 
++ [Java 大视界 -- Java 大数据在智能医疗影像数据标注与疾病辅助诊断模型训练中的应用](https://blog.csdn.net/atgfg/article/details/155678372)
+
++ [【JAVA 进阶】SpringBoot自动配置机制：从原理到实践的深度解析](https://blog.csdn.net/weixin_63944437/article/details/155726418)
+
++ [曙光视控一体工业智能方案评测：基于曙睿（SugonRI）2.0 工业编程平台的 YOLO 应用实测](https://blog.csdn.net/qq_44866828/article/details/155732158)
+

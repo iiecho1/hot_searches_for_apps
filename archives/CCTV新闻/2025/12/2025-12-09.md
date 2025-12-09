@@ -193,3 +193,11 @@
 
 + [中国代表强调应维护共同安全、践行多边主义](https://news.cctv.com/2025/12/09/ARTI7J34AlXxBzjbTHiY4nT2251209.shtml)
 
++ [韩国忠清南道火电站爆炸事故已致2人受伤](https://news.cctv.com/2025/12/09/ARTI4V93A1zIAkw9oRSEBd45251209.shtml)
+
++ [日本强震致建筑道路受损](https://photo.cctv.com/2025/12/09/PHOAQ3FWvzMAO3fdXXxEawNc251209.shtml)
+
++ [泰柬边境冲突已造成3名泰国士兵死亡](https://news.cctv.com/2025/12/09/ARTIWmqoLpIfv5OFc5LaMY5Q251209.shtml)
+
++ [韩国忠清南道一火电站爆炸起火](https://news.cctv.com/2025/12/09/ARTI2X4TwtdJ2IIJ3V7V323i251209.shtml)
+

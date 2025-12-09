@@ -49,3 +49,5 @@
 
 + [Jetbrains 的家的 Fleet 果然烂尾了！](https://www.v2ex.com/t/1177694)
 
++ [对于在公司带薪划水大家咋看？](https://www.v2ex.com/t/1177724)
+
