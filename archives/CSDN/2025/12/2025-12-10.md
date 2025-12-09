@@ -135,3 +135,5 @@
 
 + [【超音速专利 CN116777899A】基于回归模型的工业图像关键点检测方法、系统及平台](https://blog.csdn.net/he_zhidan/article/details/155676793)
 
++ [R语言生存曲线图注不规则，如何解决？](https://blog.csdn.net/weixin_43970743/article/details/151587181)
+
