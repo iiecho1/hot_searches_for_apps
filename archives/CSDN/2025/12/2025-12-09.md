@@ -143,3 +143,9 @@
 
 + [主流 AI IDE 之一的 Kiro 介绍](https://blog.csdn.net/u014695938/article/details/155647719)
 
++ [【自然语言处理】区分he‘s和she‘s的缩写含义](https://blog.csdn.net/2401_84149564/article/details/155715750)
+
++ [（第三篇）Spring AI 核心技术攻坚：工具调用深度解析（从 Function-call 到企业级 Tools 模块实战）](https://blog.csdn.net/qq_40303030/article/details/154653564)
+
++ [【Linux】多路转接 Select ， Poll和Epoll](https://blog.csdn.net/2401_86449430/article/details/155539781)
+

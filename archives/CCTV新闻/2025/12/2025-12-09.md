@@ -187,3 +187,5 @@
 
 + [特朗普称英伟达对华出售H200芯片的收入25%上缴美国政府](https://news.cctv.com/2025/12/09/ARTIQAo8mrEtHxQswXkbECmG251209.shtml)
 
++ [日本社民党党首要求高市早苗撤回错误言论并辞职](https://news.cctv.com/2025/12/09/ARTIviDPf0S1Sil3GP1Kn3gj251209.shtml)
+
