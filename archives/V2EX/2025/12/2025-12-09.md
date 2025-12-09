@@ -47,3 +47,5 @@
 
 + [原以为国庆过后风平浪静，直到丈母娘发现了老丈人的网贷……](https://www.v2ex.com/t/1177748)
 
++ [Jetbrains 的家的 Fleet 果然烂尾了！](https://www.v2ex.com/t/1177694)
+

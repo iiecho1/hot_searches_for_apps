@@ -189,3 +189,7 @@
 
 + [日本社民党党首要求高市早苗撤回错误言论并辞职](https://news.cctv.com/2025/12/09/ARTIviDPf0S1Sil3GP1Kn3gj251209.shtml)
 
++ [也门总统领导委员会称不接受任何“平行权力”](https://news.cctv.com/2025/12/09/ARTIkdFuetlPEBB3kcmVAgDB251209.shtml)
+
++ [中国代表强调应维护共同安全、践行多边主义](https://news.cctv.com/2025/12/09/ARTI7J34AlXxBzjbTHiY4nT2251209.shtml)
+
