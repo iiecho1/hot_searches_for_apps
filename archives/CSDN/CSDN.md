@@ -191,3 +191,9 @@
 
 + [使用wpa工具配网、udhcpc分配IP的过程分析](https://blog.csdn.net/hbsyaaa/article/details/155717379)
 
++ [PyTorch推理扩展实战：用Ray Data轻松实现多机多卡并行](https://blog.csdn.net/m0_46510245/article/details/155716253)
+
++ [mysql运维（读写分离）](https://blog.csdn.net/weixin_74390886/article/details/155710427)
+
++ [智能计算新纪元：openEuler的AI原生架构深度实践与全维度性能验证](https://blog.csdn.net/2301_77509762/article/details/155679885)
+

@@ -75,3 +75,17 @@
 
 + [史上最年轻的博士之一：15 岁少年 Laurent Simons 获得量子物理学博士学位，下一步计划创造“超级人类”](https://m.ithome.com/html/903371.htm)
 
++ [腾讯公司公关总监张军回应经典版 QQ 回归：偏好，有时候是一种轮回](https://m.ithome.com/html/903499.htm)
+
++ [售价 19999 元起，三星三折叠手机 Galaxy Z TriFold 国行开启预订](https://m.ithome.com/html/903476.htm)
+
++ [谁还在用计算器？卡西欧一年卖 3900 万台](https://m.ithome.com/html/903531.htm)
+
++ [英国一地发生地震后，AI 生成“断桥”照片致 32 趟列车延误](https://m.ithome.com/html/903418.htm)
+
++ [“交管 12123”App 完成鸿蒙版核心功能全量开发，3.4.2 版本业务中心功能全部拉通](https://m.ithome.com/html/903537.htm)
+
++ [京东外卖回应出现“退款不退券”BUG：平台承担全部损失](https://m.ithome.com/html/903432.htm)
+
++ [鸿蒙智行首款 MPV 智界 V9 官宣：华为 DriveONE 800V 平台、192 线激光雷达、后排双抽屉...](https://m.ithome.com/html/903577.htm)
+
