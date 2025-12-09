@@ -25,3 +25,19 @@
 
 + [田曦薇担任美学大使，vivo S50 系列手机官宣 12 月 15 日发布](https://m.ithome.com/html/903217.htm)
 
++ [美政府批准对华出售 H200 芯片，英伟达回应](https://m.ithome.com/html/903458.htm)
+
++ [科幻大片《阿凡达 3》今日中国首映：导演卡梅隆现身，放映国产 CINITY 格式独家 4K 3D 48 帧版本](https://m.ithome.com/html/903428.htm)
+
++ [赛力斯集团副总裁康波：没有华为就没有今天的问界](https://m.ithome.com/html/903447.htm)
+
++ [英伟达黄仁勋称美国三年建一座超算太慢：中国一个周末就能建一座医院](https://m.ithome.com/html/903429.htm)
+
++ [苹果发布 iOS 26.2 第 2 个 RC 候选版更新](https://m.ithome.com/html/903441.htm)
+
++ [马航 MH370 航班部分失联乘客家属索赔案一审宣判，每案赔偿 290 余万元](https://m.ithome.com/html/903357.htm)
+
++ [小米汽车 11 月零售销量 46249 辆，YU7 单月批发继续破三万](https://m.ithome.com/html/903400.htm)
+
++ [史上最年轻的博士之一：15 岁少年 Laurent Simons 获得量子物理学博士学位，下一步计划创造“超级人类”](https://m.ithome.com/html/903371.htm)
+
