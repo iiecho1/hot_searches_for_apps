@@ -37,3 +37,27 @@
 
 + [苹果发布 iOS 26.2 第 2 个 RC 候选版更新](https://m.ithome.com/html/903441.htm)
 
++ [小米澎湃 OS 官宣支持微信聊天窗口收发实况照片](https://m.ithome.com/html/903801.htm)
+
++ [总台《2026 年春节联欢晚会》发布主题和主标识：骐骥驰骋 势不可挡](https://m.ithome.com/html/903865.htm)
+
++ [华为鸿蒙 HarmonyOS 5 / 6 实况窗支持应用更新，新增淘宝闪购、网易云音乐等](https://m.ithome.com/html/903773.htm)
+
++ [致态小翼 SATA 固态硬盘 S001 发售，2TB 版本 919 元](https://m.ithome.com/html/903804.htm)
+
++ [国内旅行车小众有风险：华为余承东“力排众议”坚持要做享界 S9T，创市场销量纪录](https://m.ithome.com/html/903817.htm)
+
++ [小米澎湃 OS 3 正式版覆盖更多机型，MIX Fold 3 等即日起开始灰度并陆续推送](https://m.ithome.com/html/903841.htm)
+
++ [华为路由 BE3 PRO、AX3 Pro WiFi 7 升级版鸿蒙 HarmonyOS 6.0 上线，支持 WAN 侧测速等功能](https://m.ithome.com/html/903764.htm)
+
++ [英特尔更新无线驱动：全面适配 Win11 25H2、满血支持 Wi-Fi 7](https://m.ithome.com/html/903818.htm)
+
++ [官方“黑苹果”遗珠，尘封 28 年的 CHRP 版 Mac OS 7.6 光盘泄露](https://m.ithome.com/html/903756.htm)
+
++ [针对 iPhone、iPad、Mac 等部分产品，苹果官网推出免费“三小时快送”服务](https://m.ithome.com/html/903889.htm)
+
++ [麦当劳 AI 圣诞广告翻车：遭全网群嘲，关评后直接下架](https://m.ithome.com/html/903811.htm)
+
++ [【IT之家评测室】苹果 M5 MacBook Pro 14 体验评测：足够好用的“五边形战士”](https://m.ithome.com/html/903932.htm)
+
