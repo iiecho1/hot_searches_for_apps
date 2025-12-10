@@ -35,3 +35,5 @@
 
 + [江淮汽车董事长项兴初回应做百万豪车资历浅：难道要活 100 岁才开始做吗？](https://m.ithome.com/html/903457.htm)
 
++ [苹果发布 iOS 26.2 第 2 个 RC 候选版更新](https://m.ithome.com/html/903441.htm)
+

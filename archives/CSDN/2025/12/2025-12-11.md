@@ -113,3 +113,23 @@
 
 + [五个月上岸国科大声学所经验分享。](https://blog.csdn.net/xiaomage_mengma/article/details/155693197)
 
++ [2025三掌柜赠书活动第四十五期 动手学深度学习（PyTorch版）](https://blog.csdn.net/CC1991_/article/details/155676551)
+
++ [【机器学习：K-Means】](https://blog.csdn.net/Keep__Fighting/article/details/155751708)
+
++ [MySQL Undo Log 深度解析：表空间、MVCC、回滚机制与版本演进全解](https://blog.csdn.net/qq_53140287/article/details/155716771)
+
++ [2025年第七届全国高校计算机能力挑战赛 决赛 C++组 编程题汇总](https://blog.csdn.net/m0_74234026/article/details/155742959)
+
++ [Python + Ursina设计3D小游戏](https://blog.csdn.net/cnds123/article/details/155709276)
+
++ [SpringCloud - 核心组件精讲：Nacos 深度解析（服务注册 + 配置中心一站式实现）](https://blog.csdn.net/qq_40303030/article/details/155304078)
+
++ [[鸿蒙2025领航者闯关] 鸿蒙 6 特性实战闯关：金融支付应用的安全升级之路](https://blog.csdn.net/2302_79376097/article/details/155711793)
+
++ [开源协同∞智算赋能：GitCode+昇腾NPU部署CodeLlama全流程实践](https://blog.csdn.net/kkiron/article/details/155788771)
+
++ [MyIP 监控网络很方便？Cpolar 帮你突破局域网限制](https://blog.csdn.net/qyj19920704/article/details/155709198)
+
++ [你的模型你做主：Fooocus + cpolar，安全远程生成 AI 图像](https://blog.csdn.net/qq_25749749/article/details/155710190)
+
