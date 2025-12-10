@@ -181,3 +181,7 @@
 
 + [美总统国家安全团队就对委反毒行动向国会通报](https://news.cctv.com/2025/12/10/ARTIIbwVI3RslwOLnPHZnkec251210.shtml)
 
++ [柬埔寨宣布退出在泰国举办的东南亚运动会 代表团紧急回国](https://news.cctv.com/2025/12/10/ARTIXhTWXvHanyQdp60TrKAy251210.shtml)
+
++ [美军两架F-18战机飞入委内瑞拉领空](https://news.cctv.com/2025/12/10/ARTI0JF9LGTYZd7gzHndoTIk251210.shtml)
+
