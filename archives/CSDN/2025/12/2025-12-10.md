@@ -197,3 +197,7 @@
 
 + [人工智能模型组同学们的建议](https://blog.csdn.net/zhuoqingjoking97298/article/details/155771918)
 
++ [深度学习高级教程：基于生成对抗网络的五子棋对战AI](https://blog.csdn.net/qq_24330181/article/details/155713386)
+
++ [渗透测试行业术语扫盲（第六篇）—— Web安全专用类术语](https://blog.csdn.net/qq_39241682/article/details/155729707)
+
