@@ -71,3 +71,21 @@
 
 + [小米米家电动剃须刀 Pro 公布：IPX8 级防水、90 天续航](https://m.ithome.com/html/903675.htm)
 
++ [小米澎湃 OS 官宣支持微信聊天窗口收发实况照片](https://m.ithome.com/html/903801.htm)
+
++ [华为鸿蒙 HarmonyOS 5 / 6 实况窗支持应用更新，新增淘宝闪购、网易云音乐等](https://m.ithome.com/html/903773.htm)
+
++ [总台《2026 年春节联欢晚会》发布主题和主标识：骐骥驰骋 势不可挡](https://m.ithome.com/html/903865.htm)
+
++ [致态小翼 SATA 固态硬盘 S001 发售，2TB 版本 919 元](https://m.ithome.com/html/903804.htm)
+
++ [国内旅行车小众有风险：华为余承东“力排众议”坚持要做享界 S9T，创市场销量纪录](https://m.ithome.com/html/903817.htm)
+
++ [小米澎湃 OS 3 正式版覆盖更多机型，MIX Fold 3 等即日起开始灰度并陆续推送](https://m.ithome.com/html/903841.htm)
+
++ [华为路由 BE3 PRO、AX3 Pro WiFi 7 升级版鸿蒙 HarmonyOS 6.0 上线，支持 WAN 侧测速等功能](https://m.ithome.com/html/903764.htm)
+
++ [沙特挑战世界第一高楼：两千米高度“一柱擎天”，比迪拜哈利法塔高一倍多](https://m.ithome.com/html/903701.htm)
+
++ [理想预计三年内推出首款 L4 级自动驾驶车型：L4 的实现将是汽车行业真正的“iPhone 4 时刻”，未来 5-10 年汽车将转型为 AI 驱动的“空间机器人”](https://m.ithome.com/html/903722.htm)
+

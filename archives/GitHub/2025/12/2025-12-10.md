@@ -25,3 +25,17 @@
 
 + [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
++ [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
+
++ [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
++ [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+
++ [block/goose](https://github.com/block/goose)
+
++ [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
++ [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+

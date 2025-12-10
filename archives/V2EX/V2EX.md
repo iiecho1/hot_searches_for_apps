@@ -53,3 +53,13 @@
 
 + [出海的华人为啥都喜欢都喜欢斗华人本身？](https://www.v2ex.com/t/1177962)
 
++ [只要记住一句话:2100 年比特币存活的概率高于美元和人民币](https://www.v2ex.com/t/1178021)
+
++ [离线听书 APP 上架 appstore 了送兑换码](https://www.v2ex.com/t/1178010)
+
++ [关于 apple 售后两个坏消息](https://www.v2ex.com/t/1177902)
+
++ [今天又被高德坑了](https://www.v2ex.com/t/1177929)
+
++ [裁神又来了](https://www.v2ex.com/t/1177993)
+
