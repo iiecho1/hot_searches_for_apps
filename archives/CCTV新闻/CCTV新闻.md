@@ -177,3 +177,7 @@
 
 + [中国驻哥伦比亚使馆提醒在哥中国公民严防绑架犯罪](https://news.cctv.com/2025/12/10/ARTIjxDY6igIZa6SbG0xjwiF251210.shtml)
 
++ [北美观察丨马斯克喊话“废除欧盟” 华盛顿顺势对欧开火](https://news.cctv.com/2025/12/10/ARTIx589lqpAK2Gg0nOgEUk9251210.shtml)
+
++ [美总统国家安全团队就对委反毒行动向国会通报](https://news.cctv.com/2025/12/10/ARTIIbwVI3RslwOLnPHZnkec251210.shtml)
+

@@ -145,3 +145,11 @@
 
 + [从 InfluxDB 到 Apache IoTDB：工业物联网时序数据库选型避坑指南](https://blog.csdn.net/2302_78391795/article/details/155693553)
 
++ [2025年企业AI知识库产品深度解析：从技术底座到业务编排，重塑知识中枢价值](https://blog.csdn.net/2501_94531192/article/details/155712139)
+
++ [金仓数据库助力Oracle迁移的深度体验：PL/SQL与函数支持全解析](https://blog.csdn.net/qq_32682301/article/details/155754473)
+
++ [LazyLLM测评丨构建个人知识库AI助手的最佳实践](https://blog.csdn.net/m0_68111267/article/details/155765174)
+
++ [Web安全技术：构建数字世界的防护盾牌](https://blog.csdn.net/2401_85023633/article/details/155705800)
+
