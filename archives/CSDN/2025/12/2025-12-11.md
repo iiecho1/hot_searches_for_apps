@@ -139,3 +139,5 @@
 
 + [Docker实战指南：MySQL、Redis与C++环境的深度容器化部署](https://blog.csdn.net/2301_80863610/article/details/155771226)
 
++ [深度探索：自动驾驶路径规划与避障功能实现——从运动学到动力学模型到决策规划算法的完整系列](https://blog.csdn.net/2508_94229148/article/details/155709329)
+
