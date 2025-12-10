@@ -161,3 +161,13 @@
 
 + [贝宁总统：已挫败叛乱分子政变企图 局势得到控制](https://news.cctv.com/2025/12/08/ARTItj3OJKyUvmQH6mHtb0SO251208.shtml)
 
++ [韩国强硬批驳高市早苗“独岛”言论 韩媒分析](https://news.cctv.com/2025/12/11/ARTI2IPFmNGpnY7by2yMALqA251211.shtml)
+
++ [墨西哥总统重申国家主权 回应美国军事干预威胁](https://news.cctv.com/2025/12/11/ARTIFUm2et4XXtUZV7ZdLsla251211.shtml)
+
++ [特朗普证实美国在委内瑞拉附近扣押一艘油轮](https://news.cctv.com/2025/12/11/ARTIZIlcEbxzi2XZ0RTVZbgr251211.shtml)
+
++ [以军坦克再次向联黎部队维和人员开火 未造成伤亡](https://news.cctv.com/2025/12/11/ARTIsEwQAshBNY5KNBqs7qvJ251211.shtml)
+
++ [受强风影响 巴西超110万用户停电](https://news.cctv.com/2025/12/11/ARTIFnS5ei3al1Pz54ImIydz251211.shtml)
+
