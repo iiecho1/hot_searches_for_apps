@@ -187,3 +187,5 @@
 
 + [泰国防部称泰柬冲突致40万人撤离](https://news.cctv.com/2025/12/10/ARTIJhe2xivuDdVVJtUPb9PR251210.shtml)
 
++ [全球瞭望丨英媒：中国入境游持续升温 世界看到真实中国](https://news.cctv.com/2025/12/10/ARTINrAr43catXuXVIj4PlRD251210.shtml)
+

@@ -175,3 +175,9 @@
 
 + [Hadess实战教程 - 支持企业微信集成，实现统一认证登录](https://blog.csdn.net/tiklab2022/article/details/155347344)
 
++ [Qt优化onvif设备搜索/一键批量搜索/onvif设备模拟器/几千路并发/实时推流/虚拟监控摄像头](https://blog.csdn.net/feiyangqingyun/article/details/155691044)
+
++ [ARM 架构中的 R15 程序计数器（PC）](https://blog.csdn.net/guigenyi/article/details/155752890)
+
++ [②【openFuyao】融合云原生与高性能计算](https://blog.csdn.net/wtyuong/article/details/155778095)
+
