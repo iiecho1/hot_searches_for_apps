@@ -201,3 +201,15 @@
 
 + [渗透测试行业术语扫盲（第六篇）—— Web安全专用类术语](https://blog.csdn.net/qq_39241682/article/details/155729707)
 
++ [【AI大模型】AiOnly 一站式大模型API平台从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/155035558)
+
++ [秦始皇都想要的长寿密钥](https://blog.csdn.net/weixin_51577602/article/details/155677197)
+
++ [软件测试开发知识笔记](https://blog.csdn.net/2302_77889990/article/details/155780924)
+
++ [如何让C++程序生成dump文件？生成dump文件的方式有哪些？如何使用Windbg分析dump文件？](https://blog.csdn.net/chenlycly/article/details/155781769)
+
++ [IntelliJ IDEA 2025.3 正式发布：免费功能大升级，全面拥抱 Java 25](https://blog.csdn.net/jianluoffice/article/details/155747136)
+
++ [2025第五届ISCTF高校联合安全技能挑战赛-WP](https://blog.csdn.net/qq_55359816/article/details/155677340)
+
