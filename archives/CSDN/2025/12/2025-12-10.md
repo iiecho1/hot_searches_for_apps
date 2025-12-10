@@ -191,3 +191,9 @@
 
 + [学习Java23天](https://blog.csdn.net/2301_79731226/article/details/155754246)
 
++ [《Linux 进程管理进阶：会话、进程组与守护进程的底层逻辑与实践》](https://blog.csdn.net/Dovis5884/article/details/155037018)
+
++ [AiOnly平台大模型API实战：一键调用GPT-5搭建个人专属文本摘要工具](https://blog.csdn.net/Pocker_Spades_A/article/details/155766643)
+
++ [人工智能模型组同学们的建议](https://blog.csdn.net/zhuoqingjoking97298/article/details/155771918)
+
