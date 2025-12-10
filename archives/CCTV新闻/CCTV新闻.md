@@ -175,3 +175,5 @@
 
 + [英国首次宣布有英国军人在乌克兰身亡](https://news.cctv.com/2025/12/10/ARTIPFSwjFCb8UwZadzgWUav251210.shtml)
 
++ [中国驻哥伦比亚使馆提醒在哥中国公民严防绑架犯罪](https://news.cctv.com/2025/12/10/ARTIjxDY6igIZa6SbG0xjwiF251210.shtml)
+

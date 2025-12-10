@@ -141,3 +141,7 @@
 
 + [云原生时代时序数据平台构建实战：从Kubernetes部署Apache IoTDB集群到TimechoDB国产化应用全解析](https://blog.csdn.net/weixin_62765017/article/details/154537804)
 
++ [《 Linux 修炼全景指南： 九 》不仅是编译脚本，Makefile 修炼之路：让你的 CC++ 项目自动化、可维护、可扩展](https://blog.csdn.net/mmlhbjk/article/details/155717348)
+
++ [从 InfluxDB 到 Apache IoTDB：工业物联网时序数据库选型避坑指南](https://blog.csdn.net/2302_78391795/article/details/155693553)
+
