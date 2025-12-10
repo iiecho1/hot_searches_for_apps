@@ -43,3 +43,9 @@
 
 + [怎么天天都有过生日也要发帖说一下的](https://www.v2ex.com/t/1177932)
 
++ [今天开始带大家炒股](https://www.v2ex.com/t/1177944)
+
++ [为什么都在吹 Claude Code，我感觉 Copliot 挺好用的啊！](https://www.v2ex.com/t/1177858)
+
++ [发现连坐制真的好使-小区见闻](https://www.v2ex.com/t/1177939)
+

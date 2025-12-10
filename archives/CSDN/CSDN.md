@@ -163,3 +163,9 @@
 
 + [Dubbo 集群容错机制完全指南：构建坚不可摧的微服务调用链](https://blog.csdn.net/qq_44378083/article/details/155753138)
 
++ [掌握Prompt与AI工作流，解锁高效问题解决新范式](https://blog.csdn.net/2301_77485708/article/details/155740889)
+
++ [从零开始：用 Android Studio 开发一个 AI 智能日记 App](https://blog.csdn.net/yk_18/article/details/155713570)
+
++ [嵌入式基本功：掌握硬件电路基本概念](https://blog.csdn.net/alspd_zhangpan/article/details/155697237)
+

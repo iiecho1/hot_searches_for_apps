@@ -185,3 +185,5 @@
 
 + [美军两架F-18战机飞入委内瑞拉领空](https://news.cctv.com/2025/12/10/ARTI0JF9LGTYZd7gzHndoTIk251210.shtml)
 
++ [泰国防部称泰柬冲突致40万人撤离](https://news.cctv.com/2025/12/10/ARTIJhe2xivuDdVVJtUPb9PR251210.shtml)
+
