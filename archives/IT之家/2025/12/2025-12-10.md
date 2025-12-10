@@ -61,3 +61,13 @@
 
 + [江淮汽车董事长项兴初回应做百万豪车资历浅：难道要活 100 岁才开始做吗？](https://m.ithome.com/html/903457.htm)
 
++ [消息称小米中国区多人职务调整：涉及手机、汽车、大家电业务，王晓雁亲自下场抓业绩](https://m.ithome.com/html/903694.htm)
+
++ [智界明年“不客气了”：奇瑞董事长尹同跃透露将推出跑车级 SUV](https://m.ithome.com/html/903688.htm)
+
++ [华为余承东透露鸿蒙智行五界明年多款新品：补齐产品矩阵，走入 L3、L3+ 时代](https://m.ithome.com/html/903686.htm)
+
++ [水银体温计、血压计明年起禁产，你会买电子版吗？](https://m.ithome.com/html/903603.htm)
+
++ [小米米家电动剃须刀 Pro 公布：IPX8 级防水、90 天续航](https://m.ithome.com/html/903675.htm)
+

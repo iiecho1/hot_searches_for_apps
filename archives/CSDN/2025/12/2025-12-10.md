@@ -153,3 +153,9 @@
 
 + [Web安全技术：构建数字世界的防护盾牌](https://blog.csdn.net/2401_85023633/article/details/155705800)
 
++ [Java 大视界 -- Java 大数据机器学习模型在自然语言处理中的对话系统多轮交互优化与用户体验提升](https://blog.csdn.net/atgfg/article/details/155677961)
+
++ [用 Fiora 搭个专属聊天室？开源社交工具 + cpolar让沟通更自由](https://blog.csdn.net/weixin_43151418/article/details/155765710)
+
++ [[C#][winform]基于yolov11的阿尔兹海默症严重程度检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/155750907)
+
