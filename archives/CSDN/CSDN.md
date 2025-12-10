@@ -101,3 +101,15 @@
 
 + [Vite 前端项目 - CSS变量智能提示](https://blog.csdn.net/qq_41798568/article/details/155711649)
 
++ [AiOnly+Claude Code开发实战：调用Claude Sonnet 4.5 API实现简历一键投递插件](https://blog.csdn.net/2301_80863610/article/details/155495076)
+
++ [防火墙三大工作模式深度解析：路由、透明与混合模式](https://blog.csdn.net/qq_41840843/article/details/155738274)
+
++ [【Java 开发日记】我们来说一说 Redis 主从复制的原理及作用](https://blog.csdn.net/2402_87298751/article/details/155789785)
+
++ [【Spring Boot 报错已解决】深度解析 java.lang.NullPointerException：UserService 为 null 的解决方法与避坑指南](https://blog.csdn.net/2301_80026901/article/details/152440338)
+
++ [栈（Stack）的约束之美：LIFO哲思、实现剖析与算法应用全景深度解析](https://blog.csdn.net/2501_93679849/article/details/155708973)
+
++ [五个月上岸国科大声学所经验分享。](https://blog.csdn.net/xiaomage_mengma/article/details/155693197)
+

@@ -25,3 +25,13 @@
 
 + [小米米家电动剃须刀 Pro 公布：IPX8 级防水、90 天续航](https://m.ithome.com/html/903675.htm)
 
++ [美政府批准对华出售 H200 芯片，英伟达回应](https://m.ithome.com/html/903458.htm)
+
++ [腾讯公司公关总监张军回应经典版 QQ 回归：偏好，有时候是一种轮回](https://m.ithome.com/html/903499.htm)
+
++ [赛力斯集团副总裁康波：没有华为就没有今天的问界](https://m.ithome.com/html/903447.htm)
+
++ [售价 19999 元起，三星三折叠手机 Galaxy Z TriFold 国行开启预订](https://m.ithome.com/html/903476.htm)
+
++ [江淮汽车董事长项兴初回应做百万豪车资历浅：难道要活 100 岁才开始做吗？](https://m.ithome.com/html/903457.htm)
+
