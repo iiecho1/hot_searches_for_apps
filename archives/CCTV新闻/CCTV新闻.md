@@ -169,3 +169,9 @@
 
 + [美国肯塔基州立大学枪击事件已致1死1伤](https://news.cctv.com/2025/12/10/ARTIhOnTsm1Fa6PC3QMECrRE251210.shtml)
 
++ [英首相斯塔默入驻TikTok 引发英媒解读](https://news.cctv.com/2025/12/10/ARTItiZ7qC4824oH3rxqGf6S251210.shtml)
+
++ [俄方欢迎外国伙伴参与跨北极运输走廊建设](https://news.cctv.com/2025/12/10/ARTIavBIwVgbMNMm8sheWFa4251210.shtml)
+
++ [英国首次宣布有英国军人在乌克兰身亡](https://news.cctv.com/2025/12/10/ARTIPFSwjFCb8UwZadzgWUav251210.shtml)
+
