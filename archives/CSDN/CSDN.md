@@ -199,3 +199,7 @@
 
 + [Hadoop 与AI大模型实战：从Hive、Impala（Cloudera CDH、CDP）海量数据到 AI 决策的落地方法](https://blog.csdn.net/yumgpkpm/article/details/155770718)
 
++ [PyTorch实战（16）——基于LSTM实现音乐生成](https://blog.csdn.net/LOVEmy134611/article/details/150520738)
+
++ [Spring 自动装配深度解析：@Autowired、@Resource 与自动注入实战指南](https://blog.csdn.net/qq_53140287/article/details/155791958)
+

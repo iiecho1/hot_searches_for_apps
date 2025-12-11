@@ -205,3 +205,5 @@
 
 + [韩国光州一图书馆施工现场发生坍塌 2人被埋](https://news.cctv.com/2025/12/11/ARTIaf5ebjHP1dmG6mGWr3Dg251211.shtml)
 
++ [受强降雨影响 加沙地带超九成帐篷受损](https://news.cctv.com/2025/12/11/ARTI5H0AGDS1u4vBrc47kENb251211.shtml)
+
