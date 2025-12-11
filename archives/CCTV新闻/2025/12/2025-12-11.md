@@ -199,3 +199,9 @@
 
 + [泰柬冲突持续 泰国近20万人住进避难中心 柬方70名平民死伤](https://news.cctv.com/2025/12/11/ARTIg17axKw0iKp5yVelzPF8251211.shtml)
 
++ [韩最高法院判定日本制铁向二战被强征韩国劳工赔偿1亿韩元](https://news.cctv.com/2025/12/11/ARTIOmbVjOzQFXYCHAIuxaFN251211.shtml)
+
++ [日本一客机单发失效 紧急降落函馆机场](https://news.cctv.com/2025/12/11/ARTIeh3qkrgfC8s7sYzTPmbB251211.shtml)
+
++ [韩国光州一图书馆施工现场发生坍塌 2人被埋](https://news.cctv.com/2025/12/11/ARTIaf5ebjHP1dmG6mGWr3Dg251211.shtml)
+
