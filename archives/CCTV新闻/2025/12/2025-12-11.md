@@ -191,3 +191,11 @@
 
 + [俄乌“和平计划”充满变数 国际媒体分析各方能否在激烈博弈中找到平衡点](https://news.cctv.com/2025/12/11/ARTIRM1LDvBeCIiFi0MtP4qZ251211.shtml)
 
++ [马斯克：若重来 不会领导“政府效率部”](https://news.cctv.com/2025/12/11/ARTIj2x2yNnCLuo3KsC51IyM251211.shtml)
+
++ [外交部回应中俄联合巡航：日方没必要大惊小怪、对号入座](https://news.cctv.com/2025/12/11/ARTI6kxUQQqjSGdVpWIT2Gyn251211.shtml)
+
++ [特朗普称可能将军事行动扩大到墨西哥和哥伦比亚](https://news.cctv.com/2025/12/11/ARTIFvyrkoWZoF0t1T0QC408251211.shtml)
+
++ [泰柬冲突持续 泰国近20万人住进避难中心 柬方70名平民死伤](https://news.cctv.com/2025/12/11/ARTIg17axKw0iKp5yVelzPF8251211.shtml)
+

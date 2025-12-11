@@ -193,3 +193,9 @@
 
 + [Swift 迭代三巨头（下集）：Sequence、Collection 与 Iterator 深度狂飙](https://blog.csdn.net/mydo/article/details/154736837)
 
++ [轻量级模型实战：使用OpenLLM构建生产级大模型服务](https://blog.csdn.net/sinat_41617212/article/details/155810793)
+
++ [【Spring Boot】用Spring AOP优雅实现横切逻辑复用](https://blog.csdn.net/Arabys/article/details/155749827)
+
++ [Hadoop 与AI大模型实战：从Hive、Impala（Cloudera CDH、CDP）海量数据到 AI 决策的落地方法](https://blog.csdn.net/yumgpkpm/article/details/155770718)
+
