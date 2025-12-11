@@ -165,3 +165,7 @@
 
 + [欧盟推进启动书面程序以长期冻结俄罗斯资产](https://news.cctv.com/2025/12/12/ARTIb5L7B2n50CBDsuLjAiyq251212.shtml)
 
++ [泽连斯基：乌克兰已向美国提交更新版的和平计划](https://news.cctv.com/2025/12/12/ARTISnKBH9vQsfYhpD5TVEo8251212.shtml)
+
++ [泽连斯基：乌方仍坚持先实现俄乌停火再签署相关协议](https://news.cctv.com/2025/12/12/ARTIWE1T7tuYBQC0hPWHfcmT251212.shtml)
+

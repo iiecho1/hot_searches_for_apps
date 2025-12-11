@@ -105,3 +105,15 @@
 
 + [Python自动化办公全攻略：Excel/Word/PDF/邮件批量处理](https://blog.csdn.net/weixin_38526314/article/details/155780674)
 
++ [【AI大模型】AiOnly 一站式大模型API平台从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/155035558)
+
++ [基于 openFuyao 的 AI 推理加速实战：智能路由与 PD 分离式 KVCache 架构揭秘](https://blog.csdn.net/weixin_51390582/article/details/155818297)
+
++ [RAG架构实战：基于七牛云解决 DeepSeek 跨云调用数据的高延迟](https://blog.csdn.net/aidoudoulong/article/details/155750413)
+
++ [记一次Qt视频监控系统的优化/双击打开分组可能崩溃的BUG/排对打开通道过程中关闭通道可能崩溃的BUG](https://blog.csdn.net/feiyangqingyun/article/details/155818291)
+
++ [多智能体协同无人车无人机无人船编队控制路径跟随 基于模型预测控制的无人艇分布式编队协同控制 MPC](https://blog.csdn.net/2508_94216203/article/details/155746401)
+
++ [MySQL vs Redis vs MongoDB：三大数据库](https://blog.csdn.net/m0_75050314/article/details/155789371)
+
