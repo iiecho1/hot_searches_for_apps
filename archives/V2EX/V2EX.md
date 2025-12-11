@@ -21,3 +21,7 @@
 
 + [我觉得豆包手机是大势所趋](https://www.v2ex.com/t/1178012)
 
++ [GLM v4.6 + Claude Code 可用性极差，被那些软广狠狠坑了一把](https://www.v2ex.com/t/1178090)
+
++ [020 电信副宽进小黑屋了](https://www.v2ex.com/t/1178055)
+

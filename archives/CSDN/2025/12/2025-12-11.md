@@ -149,3 +149,7 @@
 
 + [跨端路由统一方案：Flutter 与 OpenHarmony ArkTS 页面跳转的无缝集成](https://blog.csdn.net/2501_93741274/article/details/155663648)
 
++ [Azure Functions for Java：3个“超能力“，第2个让99%的开发者惊掉下巴](https://blog.csdn.net/z_344791576/article/details/151935867)
+
++ [《Spring Bean&DI 通关笔记：从定义到注入的全场景避坑指南》](https://blog.csdn.net/2501_93037119/article/details/155751594)
+
