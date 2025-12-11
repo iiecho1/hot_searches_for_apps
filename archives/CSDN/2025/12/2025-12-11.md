@@ -213,3 +213,15 @@
 
 + [Canvas架构手记 08 CSS Transform | CSS 显示模型 | React.memo](https://blog.csdn.net/AYheyheyhey/article/details/155789014)
 
++ [【数据库】IoTDB数据库与时序大模型深度融合，开启数据智能分析新范式](https://blog.csdn.net/qq_38628970/article/details/155821523)
+
++ [算法王冠上的明珠——动态规划之路径问题(第一篇）](https://blog.csdn.net/fyy31/article/details/155676928)
+
++ [线性代数核心概念：正定矩阵、合同矩阵与正交矩阵](https://blog.csdn.net/qiantianye/article/details/155784813)
+
++ [算力新标杆：昇腾Atlas 800T NPU实战Llama-2-7b全流程评测与技术解析](https://blog.csdn.net/2301_76341691/article/details/155818861)
+
++ [传感器学习(day04)：红外感知：从经典热释电开关到智能时代的隐形慧眼](https://blog.csdn.net/weixin_43260261/article/details/155764703)
+
++ [K8S云原生部署Harbor镜像仓库与镜像漏扫Trivy的使用](https://blog.csdn.net/shjwkzkzk/article/details/155782325)
+

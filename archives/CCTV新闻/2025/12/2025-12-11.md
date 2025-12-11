@@ -209,3 +209,9 @@
 
 + [韩国光州一图书馆施工现场发生坍塌 已致1人死亡](https://news.cctv.com/2025/12/11/ARTI1XKrm0SaZzQgON6liXos251211.shtml)
 
++ [洪都拉斯国会：不承认受干涉影响的选举结果](https://news.cctv.com/2025/12/11/ARTIeFHUwCxPqAj5jvActnra251211.shtml)
+
++ [泰柬边境冲突进入第五日 持续造成两国人员伤亡](https://news.cctv.com/2025/12/11/ARTIiOLzbsvOGKTEH0K7KxAj251211.shtml)
+
++ [记者观察：黑胶唱片“翻红” 旧日美好重温](https://news.cctv.com/2025/12/11/ARTI1tUPZUkDitOorEeiYh7j251211.shtml)
+
