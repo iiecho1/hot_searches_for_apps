@@ -173,3 +173,9 @@
 
 + [委内瑞拉谴责美国扣押油轮：这是“国际海盗行为”](https://news.cctv.com/2025/12/11/ARTIJVXCbccuZSQYkk54bI2h251211.shtml)
 
++ [乌克兰向美国提交对最新“和平计划”的回复](https://news.cctv.com/2025/12/11/ARTI2IyOqh2K7rPkXACzFt9M251211.shtml)
+
++ [日本近期地震多发 我使馆提醒中国公民进行“海外公民登记”](https://news.cctv.com/2025/12/11/ARTI6F1aMTa2cIFQCTi3j7B0251211.shtml)
+
++ [外交部和中使领馆再次提醒中国公民近期避免前往日本](https://news.cctv.com/2025/12/11/ARTIpBxZIb2bp9IV1NEAf5WQ251211.shtml)
+
