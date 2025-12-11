@@ -153,3 +153,21 @@
 
 + [《Spring Bean&DI 通关笔记：从定义到注入的全场景避坑指南》](https://blog.csdn.net/2501_93037119/article/details/155751594)
 
++ [Spring 机制六： MVC 全链路源码解析：从 DispatcherServlet 到返回值解析（超硬核源码深度）](https://blog.csdn.net/qq_61654952/article/details/155802705)
+
++ [【自然语言处理】自然语言理解的分层处理机制与程序语言编译器的对比研究](https://blog.csdn.net/2401_84149564/article/details/155791395)
+
++ [用大语言模型实现一个离线翻译小程序（无网络也能用）](https://blog.csdn.net/m0_68275685/article/details/155741624)
+
++ [Java实现周易六爻自动排盘：根据卜卦的时间推算出天干地支](https://blog.csdn.net/weixin_40986713/article/details/155751226)
+
++ [用豆包生成PPT的详细操作步骤](https://blog.csdn.net/cuclife/article/details/155781128)
+
++ [有了Nginx还需要网关吗？](https://blog.csdn.net/weixin_45541665/article/details/155752139)
+
++ [Spring Boot + NATS 实战：如何让 IM 系统处理图片/视频像处理文本一样快？](https://blog.csdn.net/qq_25624705/article/details/155734116)
+
++ [[鸿蒙2025领航者闯关] 从零到英雄：我的鸿蒙开发技术成长与社区贡献之旅](https://blog.csdn.net/2301_76341691/article/details/155702686)
+
++ [Dubbo XML与注解配置全解析：如何选择最适合你的配置之道？](https://blog.csdn.net/qq_44378083/article/details/155753245)
+

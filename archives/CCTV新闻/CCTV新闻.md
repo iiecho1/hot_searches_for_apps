@@ -171,3 +171,5 @@
 
 + [受强风影响 巴西超110万用户停电](https://news.cctv.com/2025/12/11/ARTIFnS5ei3al1Pz54ImIydz251211.shtml)
 
++ [委内瑞拉谴责美国扣押油轮：这是“国际海盗行为”](https://news.cctv.com/2025/12/11/ARTIJVXCbccuZSQYkk54bI2h251211.shtml)
+
