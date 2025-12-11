@@ -215,3 +215,5 @@
 
 + [记者观察：黑胶唱片“翻红” 旧日美好重温](https://news.cctv.com/2025/12/11/ARTI1tUPZUkDitOorEeiYh7j251211.shtml)
 
++ [印尼苏门答腊岛山体滑坡灾害遇难人数升至990人](https://news.cctv.com/2025/12/11/ARTIIPhlVmc9w0SCiG8qzf8D251211.shtml)
+

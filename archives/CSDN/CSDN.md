@@ -225,3 +225,5 @@
 
 + [K8S云原生部署Harbor镜像仓库与镜像漏扫Trivy的使用](https://blog.csdn.net/shjwkzkzk/article/details/155782325)
 
++ [Python自动化截图/录屏3大方案（PIL/mss/ffmpeg）深度拆解](https://blog.csdn.net/weixin_38526314/article/details/155789539)
+
