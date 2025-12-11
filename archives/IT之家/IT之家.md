@@ -87,3 +87,11 @@
 
 + [小米米家三区洗衣机 Pro 洗烘 14kg 发布，预售价 6499 元](https://m.ithome.com/html/903746.htm)
 
++ [全球首富马斯克的一天](https://m.ithome.com/html/904066.htm)
+
++ [高德地图全国上线「地铁拥挤度」导航，支持分钟级刷新、避峰方案选择等](https://m.ithome.com/html/904062.htm)
+
++ [小米首座大家电工厂一期竣工投产，首款自产中央空调官宣“即将发布”](https://m.ithome.com/html/904090.htm)
+
++ [荣耀 GT2 更名全新“荣耀 WIN”系列，双旗舰阵容曝光](https://m.ithome.com/html/904132.htm)
+
