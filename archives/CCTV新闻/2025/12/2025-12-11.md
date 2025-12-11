@@ -179,3 +179,7 @@
 
 + [外交部和中使领馆再次提醒中国公民近期避免前往日本](https://news.cctv.com/2025/12/11/ARTIpBxZIb2bp9IV1NEAf5WQ251211.shtml)
 
++ [“这是国家的耻辱，高市内阁必须辞职”](https://news.cctv.com/2025/12/11/ARTINd5JRxj3BuxEHYLW2NST251211.shtml)
+
++ [国际奥委会宣布三个2030年青奥会“申办意向城市”](https://news.cctv.com/2025/12/11/ARTI9FjK5jQL86Yu4ZAd5Dmy251211.shtml)
+

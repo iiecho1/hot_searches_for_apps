@@ -61,3 +61,21 @@
 
 + [【IT之家评测室】苹果 M5 MacBook Pro 14 体验评测：足够好用的“五边形战士”](https://m.ithome.com/html/903932.htm)
 
++ [不只禁产水银体温计：我国年底还将淘汰 8 种产品的生产和进出口，专家解释原因](https://m.ithome.com/html/904026.htm)
+
++ [英伟达被曝已开发出芯片定位技术，回应称是用来给客户追踪 GPU 库存情况的](https://m.ithome.com/html/904035.htm)
+
++ [消息称 2026 款苹果 iPad 史诗级加强：iPhone 17 同款 A19 芯片，8GB 内存、自研 N1 无线芯片](https://m.ithome.com/html/904040.htm)
+
++ [美国一男子试图 7500 万美元倒卖 Lambo.com 域名，被判必须交给兰博基尼](https://m.ithome.com/html/904028.htm)
+
++ [华为鸿蒙电脑软件生态拓展，卓易通上线 PC 端 App Gallery 应用尝鲜](https://m.ithome.com/html/904002.htm)
+
++ [苹果 Studio Display 2 显示器曝光：A19 Pro 芯片、120Hz 高刷、27 英寸、升级 Mini LED 面板](https://m.ithome.com/html/904044.htm)
+
++ [漫威《复仇者联盟 5》首支预告片通过韩国认证：时长 1 分 25 秒，小罗伯特唐尼回归](https://m.ithome.com/html/904018.htm)
+
++ [岚图追光 L“新时代旗舰轿车”上市：综合续航 1400km，27.99 万-30.99 万元](https://m.ithome.com/html/904000.htm)
+
++ [飞牛首款自有 NAS 预热：双盘位 Evo 2 比同类产品小 40%-50%，Station 延期是因为错信了某个供应商](https://m.ithome.com/html/903986.htm)
+
