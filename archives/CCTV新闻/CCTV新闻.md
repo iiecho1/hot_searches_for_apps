@@ -171,3 +171,9 @@
 
 + [韩最高法院判处日企向二战强征劳工受害者赔偿1亿韩元](https://news.cctv.com/2025/12/12/ARTIuJ0yvkq2zdMV5pqlpJy8251212.shtml)
 
++ [欧盟理事会批准对乌支付第六笔约23亿欧元援助](https://news.cctv.com/2025/12/12/ARTIrlaP4VROK9YRPrQjIgwN251212.shtml)
+
++ [古巴调整外汇管理措施 部分放宽外汇留存额度及使用范围](https://news.cctv.com/2025/12/12/ARTIdxBr0om8MlmfrG8vzjpL251212.shtml)
+
++ [美国国会参议院否决共和党医改提案](https://news.cctv.com/2025/12/12/ARTIIkDQdSvqMLoRMYRDtBMU251212.shtml)
+
