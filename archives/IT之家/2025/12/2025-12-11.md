@@ -83,3 +83,7 @@
 
 + [理想预计三年内推出首款 L4 级自动驾驶车型：L4 的实现将是汽车行业真正的“iPhone 4 时刻”，未来 5-10 年汽车将转型为 AI 驱动的“空间机器人”](https://m.ithome.com/html/903722.htm)
 
++ [莲花首款插混 SUV 汽车“For Me”亮相：零百加速 3.3 秒，CLTC 纯电续航 420km](https://m.ithome.com/html/903738.htm)
+
++ [小米米家三区洗衣机 Pro 洗烘 14kg 发布，预售价 6499 元](https://m.ithome.com/html/903746.htm)
+

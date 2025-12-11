@@ -29,3 +29,21 @@
 
 + [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
++ [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
++ [tempoxyz/tempo](https://github.com/tempoxyz/tempo)
+
++ [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2)
+
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+
++ [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+

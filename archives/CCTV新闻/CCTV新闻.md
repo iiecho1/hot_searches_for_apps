@@ -207,3 +207,5 @@
 
 + [受强降雨影响 加沙地带超九成帐篷受损](https://news.cctv.com/2025/12/11/ARTI5H0AGDS1u4vBrc47kENb251211.shtml)
 
++ [韩国光州一图书馆施工现场发生坍塌 已致1人死亡](https://news.cctv.com/2025/12/11/ARTI1XKrm0SaZzQgON6liXos251211.shtml)
+
