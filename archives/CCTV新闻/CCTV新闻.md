@@ -183,3 +183,11 @@
 
 + [国际奥委会宣布三个2030年青奥会“申办意向城市”](https://news.cctv.com/2025/12/11/ARTI9FjK5jQL86Yu4ZAd5Dmy251211.shtml)
 
++ [韩国检方起诉前国务总理韩德洙等多名前政府官员](https://news.cctv.com/2025/12/11/ARTIIB92HH1SA2AhO0apFo99251211.shtml)
+
++ [上调预期！多家国际组织为中国经济投下“信任票”](https://news.cctv.com/2025/12/11/ARTI0rrZ90bEMSTD7I6blWkK251211.shtml)
+
++ [美联储年内连续第三次降息 经济前景仍面临较高不确定性](https://news.cctv.com/2025/12/11/ARTIsDFsirhjABmdA7tegnxy251211.shtml)
+
++ [俄乌“和平计划”充满变数 国际媒体分析各方能否在激烈博弈中找到平衡点](https://news.cctv.com/2025/12/11/ARTIRM1LDvBeCIiFi0MtP4qZ251211.shtml)
+
