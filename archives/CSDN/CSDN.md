@@ -189,3 +189,7 @@
 
 + [深度解析KingbaseES：从PL/SQL兼容到函数生态，解锁企业级数据库核心能力](https://blog.csdn.net/lrq13965748542/article/details/155754109)
 
++ [【自然语言处理】应用01：情感分析及数据集](https://blog.csdn.net/Morse_Chen/article/details/155790249)
+
++ [Swift 迭代三巨头（下集）：Sequence、Collection 与 Iterator 深度狂飙](https://blog.csdn.net/mydo/article/details/154736837)
+
