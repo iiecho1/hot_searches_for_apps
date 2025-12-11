@@ -161,3 +161,7 @@
 
 + [柬埔寨377所学校因边境冲突关闭](https://news.cctv.com/2025/12/08/ARTIqcwJzdSWSWJv6TRR9wLh251208.shtml)
 
++ [泰国总理向国王递交申请 要求解散国会下议院](https://news.cctv.com/2025/12/12/ARTI2ruoqamE7DYAaH24iX2g251212.shtml)
+
++ [欧盟推进启动书面程序以长期冻结俄罗斯资产](https://news.cctv.com/2025/12/12/ARTIb5L7B2n50CBDsuLjAiyq251212.shtml)
+

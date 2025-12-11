@@ -25,3 +25,11 @@
 
 + [荣耀 GT2 更名全新“荣耀 WIN”系列，双旗舰阵容曝光](https://m.ithome.com/html/904132.htm)
 
++ [总台《2026 年春节联欢晚会》发布主题和主标识：骐骥驰骋 势不可挡](https://m.ithome.com/html/903865.htm)
+
++ [针对 iPhone、iPad、Mac 等部分产品，苹果官网推出免费“三小时快送”服务](https://m.ithome.com/html/903889.htm)
+
++ [【IT之家评测室】苹果 M5 MacBook Pro 14 体验评测：足够好用的“五边形战士”](https://m.ithome.com/html/903932.htm)
+
++ [飞牛首款自有 NAS 预热：双盘位 Evo 2 比同类产品小 40%-50%，Station 延期是因为错信了某个供应商](https://m.ithome.com/html/903986.htm)
+

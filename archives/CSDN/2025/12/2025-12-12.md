@@ -101,3 +101,7 @@
 
 + [Flutter的核心优势](https://blog.csdn.net/2501_94141074/article/details/155790120)
 
++ [python+springboot+django/flask基于数据挖掘的高考志愿推荐系统](https://blog.csdn.net/2501_91488339/article/details/155775564)
+
++ [Python自动化办公全攻略：Excel/Word/PDF/邮件批量处理](https://blog.csdn.net/weixin_38526314/article/details/155780674)
+
