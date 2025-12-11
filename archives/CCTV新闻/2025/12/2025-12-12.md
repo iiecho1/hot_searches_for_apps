@@ -177,3 +177,7 @@
 
 + [美国国会参议院否决共和党医改提案](https://news.cctv.com/2025/12/12/ARTIIkDQdSvqMLoRMYRDtBMU251212.shtml)
 
++ [阿根廷政府公布“期中成绩单”](https://news.cctv.com/2025/12/12/ARTIXxDV79pAUbSNUliJnLav251212.shtml)
+
++ [中方代表“全球治理之友小组”就联合国改革作共同发言](https://news.cctv.com/2025/12/12/ARTIkxDN6qBrdqDy4eTMHZLB251212.shtml)
+
