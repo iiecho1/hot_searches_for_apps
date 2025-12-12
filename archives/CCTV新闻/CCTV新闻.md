@@ -181,3 +181,11 @@
 
 + [中方代表“全球治理之友小组”就联合国改革作共同发言](https://news.cctv.com/2025/12/12/ARTIkxDN6qBrdqDy4eTMHZLB251212.shtml)
 
++ [中国经济坚实底色从未改变](https://news.cctv.com/2025/12/12/ARTIrCt7Irscx4Kw9DD9hbLT251212.shtml)
+
++ [给世界带来更多确定性机遇和发展希望（国际论坛）](https://news.cctv.com/2025/12/12/ARTIDqQTIf7VIjiaHwsAyFKq251212.shtml)
+
++ [泰国素林府：被炮火损毁的房屋](https://photo.cctv.com/2025/12/12/PHOA6YOdVGydQMdDfUbbpG6b251212.shtml)
+
++ [泰国国会下议院正式解散](https://news.cctv.com/2025/12/12/ARTIWvzH7s7jhBfFDZQ3x8fs251212.shtml)
+

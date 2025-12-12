@@ -123,3 +123,9 @@
 
 + [规范驱动开发的几点思考](https://blog.csdn.net/wenxueliu/article/details/155755924)
 
++ [2025年12月TIOBE编程语言排行榜，Go语言排名第15，Rust语言排名17。编程语言 R 重返前十。](https://blog.csdn.net/weixin_48502062/article/details/155790793)
+
++ [计算机网络学习（二）---Ping命令](https://blog.csdn.net/qq_43582136/article/details/155746001)
+
++ [2025三掌柜赠书活动第四十八期 Vibe Coding：AI编程时代的认知重构](https://blog.csdn.net/CC1991_/article/details/155794441)
+
