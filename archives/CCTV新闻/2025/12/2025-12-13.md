@@ -161,3 +161,23 @@
 
 + [土耳其驻华大使于纳尔：中国“十五五”规划将为世界经济传递关键信号](https://news.cctv.com/2025/12/09/ARTIs9n3iVOoJcB3rhzvKtUq251209.shtml)
 
++ [特朗普称泰柬同意全面停火](https://news.cctv.com/2025/12/13/ARTI2niDoE2Yl45S8vOOM3YX251213.shtml)
+
++ [委内瑞拉议会批准该国退出国际刑事法院](https://news.cctv.com/2025/12/13/ARTIvXWDCC1YzHRpEc85dJ3O251213.shtml)
+
++ [乌称一黑海港口城市遭导弹袭击 致货船起火](https://news.cctv.com/2025/12/13/ARTIVzYaBKKU8UiZ9wD9i3LW251213.shtml)
+
++ [约旦等八国外长重申：近东救济工程处作用无可替代](https://news.cctv.com/2025/12/13/ARTI0asrgv8Ri77c96TsZbxV251213.shtml)
+
++ [乌称领土问题需全民公投 俄方：不能成为临时停战借口](https://news.cctv.com/2025/12/13/ARTIxf4bsd98RuHF8gxRqTGy251213.shtml)
+
++ [土耳其：既要重返F-35战机项目 又要保留S-400防空导弹系统](https://news.cctv.com/2025/12/13/ARTIu7wiy0L4zSSl90Ww2E7M251213.shtml)
+
++ [德国人口到2070年或降至不足7500万](https://news.cctv.com/2025/12/13/ARTIBPeXMAgjRSBpnMcMdrUz251213.shtml)
+
++ [加沙地带遭遇严寒天气 造成儿童在内多人死亡](https://news.cctv.com/2025/12/13/ARTIGh8RTWuvUoJt3d47rnSb251213.shtml)
+
++ [约旦发生两起煤气中毒事件 致9人死亡](https://news.cctv.com/2025/12/13/ARTIGZJxfBY0oEI4AvVgkaQq251213.shtml)
+
++ [南非德班一寺庙发生坍塌事故 有人员被困废墟](https://news.cctv.com/2025/12/13/ARTILKxWF0eGcGDOV8jmRBwM251213.shtml)
+
