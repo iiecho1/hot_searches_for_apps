@@ -185,3 +185,7 @@
 
 + [OceanBase 全量备份与归档分析报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/155860180)
 
++ [无硬件模拟灵衢架构：基于openFuyao社区的UB组件一站式开发实践](https://blog.csdn.net/weixin_51390582/article/details/155817691)
+
++ [如何使用C#代码将多张图片整合为一个PDF文档](https://blog.csdn.net/2501_93070778/article/details/155823871)
+
