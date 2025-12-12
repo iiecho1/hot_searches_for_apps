@@ -33,3 +33,19 @@
 
 + [飞牛首款自有 NAS 预热：双盘位 Evo 2 比同类产品小 40%-50%，Station 延期是因为错信了某个供应商](https://m.ithome.com/html/903986.htm)
 
++ [“国补”明年有望继续，中央定调 2026 年优化“两新”政策实施](https://m.ithome.com/html/904303.htm)
+
++ [推进空调“铝代铜”，海尔、美的、海信、TCL、奥克斯、小米、美博等签署自律公约](https://m.ithome.com/html/904216.htm)
+
++ [Wi-Fi 7 路由器 209 → 85 元，腾达云霄 BE5100 再探新低](https://m.ithome.com/html/904213.htm)
+
++ [华为云 CEO 周跃峰：机械硬盘 HDD 是唯一未实现国产化的存储器件](https://m.ithome.com/html/904206.htm)
+
++ [苹果的“空间魔法”，iPhone 17 系列 A19/Pro 芯片 Die Size 较前代缩小 9%/10%](https://m.ithome.com/html/904270.htm)
+
++ [小米 17 Ultra？小米之家员工通知，年度影像旗舰开启 100 元线下盲约](https://m.ithome.com/html/904275.htm)
+
++ [何小鹏打赌：若明年小鹏 VLA 国内表现无法赶上特斯拉 FSD V14.2 在硅谷的水平，员工承诺在金门大桥裸跑](https://m.ithome.com/html/904208.htm)
+
++ [2025 年末一舞：12.12 高潮狂促 20:00 正式开启，小米手环 10 套装 5 折、魅族妙磁音箱 4 折破冰新低](https://m.ithome.com/html/904268.htm)
+

@@ -21,3 +21,5 @@
 
 + [今年看过什么电影？](https://www.v2ex.com/t/1178176)
 
++ [同事从大厂出来的，之前不知道 git add 可以提交部分文件，现在又听都没听过 cherry pick](https://www.v2ex.com/t/1178331)
+
