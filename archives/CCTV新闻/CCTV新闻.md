@@ -207,3 +207,11 @@
 
 + [回避历史真相将难以走出军国主义阴影——访日本历史研究者阿部海](https://news.cctv.com/2025/12/12/ARTISNPLkFOMg4SQYCjyjvvF251212.shtml)
 
++ [日本气象部门：仍需对更大地震做好准备](https://news.cctv.com/2025/12/12/ARTITVlfRsNTbveY2fplAH4s251212.shtml)
+
++ [热点问答丨泰国为何突然解散国会下议院](https://news.cctv.com/2025/12/12/ARTINBEX98ONwYqcihk0bb6K251212.shtml)
+
++ [态度模糊 白宫暂未回应乌版“和平计划”](https://news.cctv.com/2025/12/12/ARTIujO6dpJSNdELy4PyVJXq251212.shtml)
+
++ [总台现场直击丨泰国边境大量人员转移至临时避难所](https://news.cctv.com/2025/12/12/ARTINXZTAE5j1TklzfM6J8JE251212.shtml)
+

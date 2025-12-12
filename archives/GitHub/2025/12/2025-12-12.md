@@ -27,3 +27,17 @@
 
 + [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
++ [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+
++ [refly-ai/refly](https://github.com/refly-ai/refly)
+
++ [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
+
++ [tursodatabase/turso](https://github.com/tursodatabase/turso)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
++ [grpc/grpc-go](https://github.com/grpc/grpc-go)
+

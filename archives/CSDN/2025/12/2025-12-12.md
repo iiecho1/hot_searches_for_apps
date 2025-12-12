@@ -169,3 +169,7 @@
 
 + [VSCode CMake Tools 功能解析、流程与最佳实践介绍](https://blog.csdn.net/Z_oioihoii/article/details/155825369)
 
++ [《Spring Bean&DI 通关笔记：从定义到注入的全场景避坑指南》](https://blog.csdn.net/2501_93037119/article/details/155751594)
+
++ [系统分析师：软件需求工程的软件需求概述、需求获取、需求分析](https://blog.csdn.net/g984160547/article/details/155570041)
+
