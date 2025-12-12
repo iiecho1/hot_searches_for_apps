@@ -189,3 +189,5 @@
 
 + [泰国国会下议院正式解散](https://news.cctv.com/2025/12/12/ARTIWvzH7s7jhBfFDZQ3x8fs251212.shtml)
 
++ [日本本州东部附近海域发生6.8级地震，震源深度20千米](https://news.cctv.com/2025/12/12/ARTI4Q0C2byjCtCq7KTADaLE251212.shtml)
+

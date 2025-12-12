@@ -129,3 +129,11 @@
 
 + [2025三掌柜赠书活动第四十八期 Vibe Coding：AI编程时代的认知重构](https://blog.csdn.net/CC1991_/article/details/155794441)
 
++ [时序数据库选型指南，从大数据视角看新一代列式存储引擎的核心优势](https://blog.csdn.net/beautifulmemory/article/details/155827103)
+
++ [【推荐系统】深度学习训练框架（十六）：模型并行——推荐系统的TorchRec和大语言模型的FSDP(Fully Sharded Data Parallel)](https://blog.csdn.net/weixin_48007632/article/details/155827941)
+
++ [IPIDEA网页抓取API实战：全自动化实现eBay商品数据采集与Python接入](https://blog.csdn.net/weixin_62765017/article/details/155817974)
+
++ [Java-192 深入拆解 EVCache 内部原理：Memcached 架构、Slab 分配与 LRU 过期机制全解析](https://blog.csdn.net/w776341482/article/details/155808897)
+
