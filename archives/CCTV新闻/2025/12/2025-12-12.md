@@ -191,3 +191,7 @@
 
 + [日本本州东部附近海域发生6.8级地震，震源深度20千米](https://news.cctv.com/2025/12/12/ARTI4Q0C2byjCtCq7KTADaLE251212.shtml)
 
++ [美国西北部暴雨持续 华盛顿州已进入紧急状态](https://news.cctv.com/2025/12/12/ARTIW1t7BjgMyiHym17rUHh5251212.shtml)
+
++ [联合国秘书长对美委紧张局势升级表示关切](https://news.cctv.com/2025/12/12/ARTIs7uFHXa1Elptloc1Tyhb251212.shtml)
+
