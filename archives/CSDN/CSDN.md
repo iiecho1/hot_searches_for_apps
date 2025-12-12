@@ -149,3 +149,9 @@
 
 + [万比特量子芯片架构发布：从物理突破到开发者的新边疆](https://blog.csdn.net/eidolon_foot/article/details/155839655)
 
++ [【自动驾驶】Autoware 架构 ① ( 自动驾驶的两种核心技术架构 | 基于规则技术架构 | 端到端技术架构 )](https://blog.csdn.net/han1202012/article/details/155827570)
+
++ [嵌入式开发场景下源代码防泄密方案—智能端口](https://blog.csdn.net/lygtian/article/details/155817001)
+
++ [用 Qoder 的 Vibe Coding，四轮迭代就做出一款真正能上线的俄罗斯方块](https://blog.csdn.net/u012263509/article/details/155825569)
+
