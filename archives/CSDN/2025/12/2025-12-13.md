@@ -101,3 +101,9 @@
 
 + [算力新标杆：昇腾Atlas 800T NPU实战Llama-2-7b全流程评测与技术解析](https://blog.csdn.net/2301_76341691/article/details/155818861)
 
++ [基于 openFuyao 的 AI 推理加速实战：智能路由与 PD 分离式 KVCache 架构揭秘](https://blog.csdn.net/weixin_51390582/article/details/155818297)
+
++ [嵌入式开发场景下源代码防泄密方案—智能端口](https://blog.csdn.net/lygtian/article/details/155817001)
+
++ [昇腾算力下的性能革新：vLLM-Ascend深度测评与全面调优实践](https://blog.csdn.net/lmy_520/article/details/155791325)
+
