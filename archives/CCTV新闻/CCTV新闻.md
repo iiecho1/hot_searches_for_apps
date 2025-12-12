@@ -199,3 +199,7 @@
 
 + [日本专家称近期该国可能发生更大规模地震](https://news.cctv.com/2025/12/12/ARTIbz1RrEShnMPRdPVzilXz251212.shtml)
 
++ [外媒积极评价中国经济活力与韧性：回升向好态势进一步增强](https://news.cctv.com/2025/12/12/ARTI6HoO9lIwHFWZx4ObgRVX251212.shtml)
+
++ [柬内政部称柬泰冲突致27万名平民流离失所](https://news.cctv.com/2025/12/12/ARTIzPksXRSqyjSKM4kreWoF251212.shtml)
+
