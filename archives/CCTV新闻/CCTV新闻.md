@@ -195,3 +195,5 @@
 
 + [联合国秘书长对美委紧张局势升级表示关切](https://news.cctv.com/2025/12/12/ARTIs7uFHXa1Elptloc1Tyhb251212.shtml)
 
++ [美俄乌欧“和平计划”四角博弈 乌总统更新5点信息](https://news.cctv.com/2025/12/12/ARTIMsnthZzrcOnfHggdlhAy251212.shtml)
+

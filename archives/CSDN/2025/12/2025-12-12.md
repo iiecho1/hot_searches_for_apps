@@ -145,3 +145,7 @@
 
 + [基于FPGA的FOC电流环实现：Verilog编写、SVPWM算法、ADC采样、串口通信、Si...](https://blog.csdn.net/qq__487739278/article/details/155781072)
 
++ [【Linux】多机管理终极方案：禁用 root 密码，用面板实现批量部署 + 操作追溯](https://blog.csdn.net/2401_86326742/article/details/155829144)
+
++ [万比特量子芯片架构发布：从物理突破到开发者的新边疆](https://blog.csdn.net/eidolon_foot/article/details/155839655)
+
