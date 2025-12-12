@@ -25,3 +25,27 @@
 
 + [小米 17 Ultra？小米之家员工通知，年度影像旗舰开启 100 元线下盲约](https://m.ithome.com/html/904275.htm)
 
++ [Epic 喜加一：384 元 3A 大作《霍格沃茨之遗》游戏免费领取](https://m.ithome.com/html/904399.htm)
+
++ [TGA 2025 年度游戏完整获奖名单公布：《光与影：33 号远征队》独揽 9 项大奖](https://m.ithome.com/html/904458.htm)
+
++ [小米公司发言人澄清“小米公司不让卖小米”：是彻头彻尾的歪曲与污蔑](https://m.ithome.com/html/904569.htm)
+
++ [让手机不再发烫：消息称三星有意向高通、苹果开放“芯片降温 30%”封装技术](https://m.ithome.com/html/904469.htm)
+
++ [OpenAI 深夜炸场：GPT-5.2 模型发布，做表格 / PPT、处理超长上下文是专长](https://m.ithome.com/html/904345.htm)
+
++ [12999 元：华为 MatePad Edge 液冷版开售，至高 28W 散热性能、32GB 内存 +2TB 存储空间](https://m.ithome.com/html/904422.htm)
+
++ [交 200 元电费立减 6 元限今日：京东网上国网小程序缴费再返 500 京豆](https://m.ithome.com/html/904493.htm)
+
++ [联动 iOS 26.2：苹果向 AirPods Pro 2 和 3 耳机推送新固件](https://m.ithome.com/html/904349.htm)
+
++ [不得利用减小字号等进行补充说明，《广告引证内容执法指南》公开征求意见](https://m.ithome.com/html/904570.htm)
+
++ [“抖音买单”上线，支付宝、微信支付迎来新对手](https://m.ithome.com/html/904615.htm)
+
++ [小米汽车「现车选购」新增准新车上架开售，已锁单未交付用户可改配](https://m.ithome.com/html/904391.htm)
+
++ [荣耀手机与 iPhone 通知共享适配机型公布，含 Magic8 / 7 / 6 / 5、数字 500 / 400 / 300 系列等](https://m.ithome.com/html/904341.htm)
+
