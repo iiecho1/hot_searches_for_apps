@@ -205,3 +205,5 @@
 
 + [澳大利亚青少年“社媒禁令”遭美在线平台起诉](https://news.cctv.com/2025/12/12/ARTIslY4UBEAVWSaDkh6h0td251212.shtml)
 
++ [回避历史真相将难以走出军国主义阴影——访日本历史研究者阿部海](https://news.cctv.com/2025/12/12/ARTISNPLkFOMg4SQYCjyjvvF251212.shtml)
+
