@@ -203,3 +203,5 @@
 
 + [柬内政部称柬泰冲突致27万名平民流离失所](https://news.cctv.com/2025/12/12/ARTIzPksXRSqyjSKM4kreWoF251212.shtml)
 
++ [澳大利亚青少年“社媒禁令”遭美在线平台起诉](https://news.cctv.com/2025/12/12/ARTIslY4UBEAVWSaDkh6h0td251212.shtml)
+
