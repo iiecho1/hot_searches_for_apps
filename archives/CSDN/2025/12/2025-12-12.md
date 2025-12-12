@@ -173,3 +173,11 @@
 
 + [系统分析师：软件需求工程的软件需求概述、需求获取、需求分析](https://blog.csdn.net/g984160547/article/details/155570041)
 
++ [多模态推理效率革命：GitCode+昇腾NPU部署llava-1.5-7b-hf的实践全维度性能测试](https://blog.csdn.net/kkiron/article/details/155828002)
+
++ [《网络编程核心：TCP 协议通信原理与代码实现》](https://blog.csdn.net/Dovis5884/article/details/155057077)
+
++ [极客时间-《代码之丑》学习记录](https://blog.csdn.net/LittleBoy_IT/article/details/155809426)
+
++ [Oracle 《数据库 2 天开发人员指南》第1章：2天Oracle数据库开发介绍](https://blog.csdn.net/stevensxiao/article/details/155751272)
+
