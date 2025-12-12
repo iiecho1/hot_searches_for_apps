@@ -181,3 +181,11 @@
 
 + [南非德班一寺庙发生坍塌事故 有人员被困废墟](https://news.cctv.com/2025/12/13/ARTILKxWF0eGcGDOV8jmRBwM251213.shtml)
 
++ [第七届联合国环境大会闭幕 通过多项决议](https://news.cctv.com/2025/12/13/ARTIGehEa6BMmJwbe0Jgz2oJ251213.shtml)
+
++ [南非德班附近发生建筑坍塌 至少1人死亡](https://news.cctv.com/2025/12/13/ARTIjpSEoEBcRmzy0rmJKT4K251213.shtml)
+
++ [土耳其呼吁俄乌保障黑海航行安全 以避免局势升级](https://news.cctv.com/2025/12/13/ARTI4StlGLj4UmUcQQ60uNgu251213.shtml)
+
++ [欧盟各国政府就无限期冻结俄央行在欧洲资产达成一致](https://news.cctv.com/2025/12/13/ARTIJm92rjW1BLkCYKdpW5NK251213.shtml)
+
