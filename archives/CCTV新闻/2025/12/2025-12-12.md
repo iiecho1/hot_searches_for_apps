@@ -219,3 +219,5 @@
 
 + [俄罗斯和白俄罗斯青年排球运动员将重返国际赛场](https://news.cctv.com/2025/12/12/ARTIxZeV3R0veI23tXkdvsDa251212.shtml)
 
++ [外交部：日本军国主义是全世界人民的公敌](https://news.cctv.com/2025/12/12/ARTI4LQ39mOXEVoGTAWrb13t251212.shtml)
+
