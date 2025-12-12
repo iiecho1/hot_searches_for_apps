@@ -181,3 +181,7 @@
 
 + [Oracle 《数据库 2 天开发人员指南》第1章：2天Oracle数据库开发介绍](https://blog.csdn.net/stevensxiao/article/details/155751272)
 
++ [从 Oracle 到金仓：一次真实迁移经历的复盘与思考](https://blog.csdn.net/weixin_44976692/article/details/155860742)
+
++ [OceanBase 全量备份与归档分析报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/155860180)
+

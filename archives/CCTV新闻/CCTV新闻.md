@@ -215,3 +215,7 @@
 
 + [总台现场直击丨泰国边境大量人员转移至临时避难所](https://news.cctv.com/2025/12/12/ARTINXZTAE5j1TklzfM6J8JE251212.shtml)
 
++ [中央经济工作会议向世界递出“机遇清单”](https://news.cctv.com/2025/12/12/ARTI92yLHgyFbDd01Wrkje6q251212.shtml)
+
++ [俄罗斯和白俄罗斯青年排球运动员将重返国际赛场](https://news.cctv.com/2025/12/12/ARTIxZeV3R0veI23tXkdvsDa251212.shtml)
+
