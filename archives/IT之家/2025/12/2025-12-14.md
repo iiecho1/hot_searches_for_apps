@@ -25,3 +25,23 @@
 
 + [徕芬客服回应发布会撞景《周处除三害》：与电影无关，系品牌常用设计风格](https://m.ithome.com/html/904624.htm)
 
++ [iPhone 17 等部分用户反馈安装苹果 iOS 26.2 后，“被启动”系统自动更新](https://m.ithome.com/html/904678.htm)
+
++ [请升级：苹果 iOS 26.2 正式版修复 25 个漏洞，谷歌、字节跳动、阿里巴巴等团队贡献](https://m.ithome.com/html/904674.htm)
+
++ [摩尔线程回应“ 75 亿元闲资做理财”：实际金额明显小于上限，绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展](https://m.ithome.com/html/904693.htm)
+
++ [苹果 macOS 26.2 Tahoe 正式发布：新增屏幕补光灯、雷雳 5 集群等](https://m.ithome.com/html/904664.htm)
+
++ [华为 Mate 80 系列手机推送鸿蒙 HarmonyOS 6.0.0.120 SP9 版本更新，支持与 iOS 设备互传图片、文件等](https://m.ithome.com/html/904788.htm)
+
++ [史上最快 PG 级：《疯狂动物城 2》上映 17 天全球票房破 10 亿美元，中国贡献超北美两倍](https://m.ithome.com/html/904705.htm)
+
++ [AI 员工因一句「周末好吗」狂聊 200 条，烧掉 30 刀停不下来](https://m.ithome.com/html/904761.htm)
+
++ [长沙交警配发 AI 眼镜：看一眼车辆，2 秒内即可获取车牌、人脸等信息](https://m.ithome.com/html/904795.htm)
+
++ [运营成本大幅上升，123 云盘宣布 2026 年起部分商品涨价](https://m.ithome.com/html/904774.htm)
+
++ [苹果推送 iOS / iPadOS 18.7.3、macOS Sequoia 15.7.3 更新](https://m.ithome.com/html/904668.htm)
+
