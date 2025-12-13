@@ -223,3 +223,5 @@
 
 + [乌称敖德萨州遭俄军袭击 大部分地区断水断暖](https://news.cctv.com/2025/12/13/ARTIAOpSy9BXuOnSCfzoWDEq251213.shtml)
 
++ [新一轮柬泰边境冲突已致15名泰国士兵死亡](https://news.cctv.com/2025/12/13/ARTIrfRCvWGBGC3LrgrmDANA251213.shtml)
+

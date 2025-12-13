@@ -29,3 +29,19 @@
 
 + [grpc/grpc-go](https://github.com/grpc/grpc-go)
 
++ [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
++ [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
++ [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
+
++ [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+
++ [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+

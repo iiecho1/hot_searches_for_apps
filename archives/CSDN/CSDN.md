@@ -175,3 +175,9 @@
 
 + [《安富莱嵌入式周报》第361期: 单片机流畅运行Windows 95, LED蜡烛，开源5通道100w USB-PD电源，互联网网页收录破万亿，八通道均衡器](https://blog.csdn.net/Simon223/article/details/155828867)
 
++ [SemOD：基于语义增强的多天气条件目标检测网络](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/155834869)
+
++ [Lodash 源码精读：防抖节流的实现细节与边界场景](https://blog.csdn.net/qq_46123200/article/details/155862366)
+
++ [GitHub 热榜项目 - 日榜(2025-12-13)](https://blog.csdn.net/u014390502/article/details/155876770)
+
