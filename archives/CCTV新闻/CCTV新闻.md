@@ -227,3 +227,11 @@
 
 + [泰国总理：目前尚未开始任何停火谈判](https://news.cctv.com/2025/12/13/ARTI0OzZ658b1LyY8z3EVfS6251213.shtml)
 
++ [土耳其总统：黑海不应成为俄乌之间的“对抗区域”](https://news.cctv.com/2025/12/13/ARTIxwwszUu5CZ4maz8f0uYp251213.shtml)
+
++ [泰国军队称空袭柬埔寨两处军事目标](https://news.cctv.com/2025/12/13/ARTIWZOVGGV0HbKrA8aDxKev251213.shtml)
+
++ [日本伪装“受害者”包藏祸心（钟声）](https://news.cctv.com/2025/12/13/ARTIDG5JvUoDkfIVrK8q6zbr251213.shtml)
+
++ [美国称正推动与白俄罗斯关系正常化](https://news.cctv.com/2025/12/13/ARTIxcsginwVKnKfUNxskxns251213.shtml)
+
