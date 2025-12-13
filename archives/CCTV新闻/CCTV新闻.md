@@ -189,3 +189,5 @@
 
 + [欧盟各国政府就无限期冻结俄央行在欧洲资产达成一致](https://news.cctv.com/2025/12/13/ARTIJm92rjW1BLkCYKdpW5NK251213.shtml)
 
++ [特朗普称泰柬已同意停火 泰方否认](https://news.cctv.com/2025/12/13/ARTIklWHWvlsTGfmBobiXvNP251213.shtml)
+

@@ -131,3 +131,15 @@
 
 + [数据库文档生成工具（PostgreSQL 适配版 - Java 8 兼容）](https://blog.csdn.net/weixin_55685021/article/details/155785235)
 
++ [AI 插件供应链投毒复现：受害者加载被篡改插件导致 RCE 的实战分析](https://blog.csdn.net/2301_77485708/article/details/155823317)
+
++ [解锁京东LOC本地化订单管理新体验：全自动卡密发码核销解决方案](https://blog.csdn.net/weixin_44976692/article/details/155861115)
+
++ [开源协同∞智算赋能：GitCode+昇腾NPU部署CodeLlama全流程实践](https://blog.csdn.net/kkiron/article/details/155788771)
+
++ [如何不使用sudo命令执行Docker：详细配置指南](https://blog.csdn.net/qq_41840843/article/details/155854284)
+
++ [Java 大视界 -- Java 大数据在智能教育学习成果评估体系完善与教育质量提升中的深度应用（434）](https://blog.csdn.net/atgfg/article/details/155864623)
+
++ [Java-194 RabbitMQ 分布式通信怎么选：SOA/Dubbo、微服务 OpenFeign、同步重试与 MQ 异步可靠性落地](https://blog.csdn.net/w776341482/article/details/155847759)
+

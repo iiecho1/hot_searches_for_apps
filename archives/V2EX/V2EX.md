@@ -21,3 +21,17 @@
 
 + [隔壁 LinuxDo 的注册真给我整笑了](https://www.v2ex.com/t/1178578)
 
++ [全世界，整个历史上，评价最高的游戏诞生了](https://www.v2ex.com/t/1178510)
+
++ [大家希望自己的孩子熟练掌握 Python 吗](https://www.v2ex.com/t/1178509)
+
++ [还好当初结婚的时候没听老婆的买大钻戒](https://www.v2ex.com/t/1178463)
+
++ [有多少人不敢当面搭讪女生，比如要微信？](https://www.v2ex.com/t/1178487)
+
++ [Epic Game 本周限免《霍格沃兹之遗》了速领~](https://www.v2ex.com/t/1178507)
+
++ [google 账号被停用了](https://www.v2ex.com/t/1178599)
+
++ [Trae 现在用着还卡么](https://www.v2ex.com/t/1178528)
+
