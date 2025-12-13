@@ -161,3 +161,5 @@
 
 + [泰柬冲突持续 泰国近20万人住进避难中心 柬方70名平民死伤](https://news.cctv.com/2025/12/11/ARTIg17axKw0iKp5yVelzPF8251211.shtml)
 
++ [联合国维和部队在苏丹遭袭 古特雷斯强烈谴责](https://news.cctv.com/2025/12/14/ARTI9C7VxBVkHRc3ntgtJ6rn251214.shtml)
+
