@@ -207,3 +207,9 @@
 
 + [从零到一全栈开发 | 跑腿服务系统：小程序+Vue3+Node.js](https://blog.csdn.net/qq_41224512/article/details/155847698)
 
++ [MySQL主从集群解析：从原理到Docker实战部署](https://blog.csdn.net/2302_80105876/article/details/155194068)
+
++ [Text-Embedding-Ada-002：技术原理、性能评估与应用实践综述](https://blog.csdn.net/daqianai/article/details/155864731)
+
++ [计算机网络经典问题透视：TCP拥塞控制的动态调整策略要点解析](https://blog.csdn.net/qq_74326393/article/details/155649165)
+

@@ -67,3 +67,5 @@
 
 + [感觉 MacOS 26.2 比 26.1 丝滑啊](https://www.v2ex.com/t/1178672)
 
++ [问下佬们在 LinuxDo 这个网站体验怎么样](https://www.v2ex.com/t/1178690)
+
