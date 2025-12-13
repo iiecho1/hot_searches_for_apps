@@ -205,3 +205,13 @@
 
 + [暴雨洪水致加沙地带14人死亡 八国外长声明谴责以色列](https://news.cctv.com/2025/12/13/ARTIdEfUrhtL20U9sw9g7Her251213.shtml)
 
++ [“史料是揭示历史真相的重要证据”](https://news.cctv.com/2025/12/13/ARTIZrFDV0Y20a3AyTtQtrjN251213.shtml)
+
++ [多个国际机构，一致看好中国经济发展｜国际识局](https://news.cctv.com/2025/12/13/ARTI0wNgJUYsTpm6pVtZQPSZ251213.shtml)
+
++ [以仁心仁术架起中圭友谊之桥](https://news.cctv.com/2025/12/13/ARTIGoXNuhEPSz8l2RTuXhYw251213.shtml)
+
++ [印尼苏门答腊岛山体滑坡灾害遇难人数已超千人](https://news.cctv.com/2025/12/13/ARTI4dEBPpFfCfrOO7qEZowT251213.shtml)
+
++ [泰国军方：柬埔寨使用火箭炮攻击平民区致4人受伤](https://news.cctv.com/2025/12/13/ARTIJHKBcyF8yVZD8mfbNTSm251213.shtml)
+
