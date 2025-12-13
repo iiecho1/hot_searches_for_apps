@@ -63,3 +63,7 @@
 
 + [徕芬客服回应发布会撞景《周处除三害》：与电影无关，系品牌常用设计风格](https://m.ithome.com/html/904624.htm)
 
++ [iPhone 17 等部分用户反馈安装苹果 iOS 26.2 后，“被启动”系统自动更新](https://m.ithome.com/html/904678.htm)
+
++ [7999 → 4558 元：三星 S25 Edge 超薄手机上市半年近腰斩，配双卡双镜头](https://m.ithome.com/html/904652.htm)
+

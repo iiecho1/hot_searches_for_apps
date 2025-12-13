@@ -47,3 +47,7 @@
 
 + [怎么我的 M1 MacbookAir 系统只能升级 26.2 了](https://www.v2ex.com/t/1178644)
 
++ [实时记录一帖用了 8 年的 APPLE ID 被封+申诉求解封的经历](https://www.v2ex.com/t/1178614)
+
++ [给 3W 块喝茶费，入职月薪 3k 岗位](https://www.v2ex.com/t/1178620)
+
