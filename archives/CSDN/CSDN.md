@@ -143,3 +143,7 @@
 
 + [Java-194 RabbitMQ 分布式通信怎么选：SOA/Dubbo、微服务 OpenFeign、同步重试与 MQ 异步可靠性落地](https://blog.csdn.net/w776341482/article/details/155847759)
 
++ [BERT 变体综述：RoBERTa、ALBERT 与 DistilBERT 的架构与优化策略](https://blog.csdn.net/2301_77485708/article/details/155860653)
+
++ [鸿蒙（HarmonyOS）UI 美化实战：打造美观、响应式的应用界面](https://blog.csdn.net/2501_93573294/article/details/155828660)
+

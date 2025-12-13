@@ -191,3 +191,9 @@
 
 + [特朗普称泰柬已同意停火 泰方否认](https://news.cctv.com/2025/12/13/ARTIklWHWvlsTGfmBobiXvNP251213.shtml)
 
++ [泰国总理称将继续采取军事行动](https://news.cctv.com/2025/12/13/ARTI94rIhLMps3ujOs6RLwto251213.shtml)
+
++ [美国文物保护组织就白宫宴会厅项目起诉特朗普](https://news.cctv.com/2025/12/13/ARTIiGjIppwxwT1Qbi2fUcql251213.shtml)
+
++ [奥运资格体系公布 三大关键词诠释“泳池新变局”](https://news.cctv.com/2025/12/13/ARTIAD7iYbCyYrBmtqOOPln5251213.shtml)
+
