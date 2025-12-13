@@ -151,3 +151,9 @@
 
 + [Flutter 状态管理深度解析：从 Provider 到 Riverpod，再到 Bloc（附选型指南）](https://blog.csdn.net/2501_93660706/article/details/155864776)
 
++ [昇腾Triton算子跨架构开发实战与迁移指南](https://blog.csdn.net/sinat_41617212/article/details/155861697)
+
++ [WebRTC 是什么？能做什么？（概览篇）](https://blog.csdn.net/yk_18/article/details/155864706)
+
++ [①【openFuyao】智算时代的异构算力连接器](https://blog.csdn.net/wtyuong/article/details/155862902)
+

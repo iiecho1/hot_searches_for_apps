@@ -51,3 +51,7 @@
 
 + [给 3W 块喝茶费，入职月薪 3k 岗位](https://www.v2ex.com/t/1178620)
 
++ [悲！昨天下载霍格沃兹全走的代理，直接干没 200G 流量](https://www.v2ex.com/t/1178666)
+
++ [在海外使用 facet time 打在中国的用户](https://www.v2ex.com/t/1178629)
+
