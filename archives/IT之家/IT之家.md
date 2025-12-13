@@ -45,3 +45,11 @@
 
 + [苹果推送 iOS / iPadOS 18.7.3、macOS Sequoia 15.7.3 更新](https://m.ithome.com/html/904668.htm)
 
++ [Epic 喜加一：384 元 3A 大作《霍格沃茨之遗》游戏免费领取](https://m.ithome.com/html/904399.htm)
+
++ [12999 元：华为 MatePad Edge 液冷版开售，至高 28W 散热性能、32GB 内存 +2TB 存储空间](https://m.ithome.com/html/904422.htm)
+
++ [“抖音买单”上线，支付宝、微信支付迎来新对手](https://m.ithome.com/html/904615.htm)
+
++ [联动 iOS 26.2：苹果向 AirPods Pro 2 和 3 耳机推送新固件](https://m.ithome.com/html/904349.htm)
+
