@@ -129,3 +129,5 @@
 
 + [vue3组件二次封装-另外一种思路](https://blog.csdn.net/weixin_41559503/article/details/155820218)
 
++ [Gemini3 生成的基于手势控制3D粒子圣诞树](https://blog.csdn.net/AXBNMD/article/details/155820408)
+

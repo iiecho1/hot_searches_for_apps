@@ -53,3 +53,5 @@
 
 + [联动 iOS 26.2：苹果向 AirPods Pro 2 和 3 耳机推送新固件](https://m.ithome.com/html/904349.htm)
 
++ [豆包手机助手澄清技术误解：产品使用系统原生截屏接口，无法截屏银行键盘等受保护内容](https://m.ithome.com/html/904793.htm)
+
