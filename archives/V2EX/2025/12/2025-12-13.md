@@ -43,3 +43,7 @@
 
 + [想给母亲换一台安卓手机，各位大佬帮忙推荐下，谢谢](https://www.v2ex.com/t/1178626)
 
++ [ios26.2 正式版发布](https://www.v2ex.com/t/1178642)
+
++ [怎么我的 M1 MacbookAir 系统只能升级 26.2 了](https://www.v2ex.com/t/1178644)
+
