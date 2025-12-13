@@ -55,3 +55,11 @@
 
 + [腾讯微信团队回应“微信群崩了”：服务器轻微抖动，现已恢复](https://m.ithome.com/html/904571.htm)
 
++ [雷军：准新车不是小米发明的，只是沿用了同行的名字](https://m.ithome.com/html/904655.htm)
+
++ [苹果 iOS / iPadOS 26.2 正式版更新汇总：深化液态玻璃设计、升级睡眠评分等](https://m.ithome.com/html/904666.htm)
+
++ [苹果 iOS / iPadOS 26.2 正式版发布：增强音乐、播客和游戏体验](https://m.ithome.com/html/904660.htm)
+
++ [徕芬客服回应发布会撞景《周处除三害》：与电影无关，系品牌常用设计风格](https://m.ithome.com/html/904624.htm)
+
