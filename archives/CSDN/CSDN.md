@@ -193,3 +193,15 @@
 
 + [Vue 脚手架&环境配置](https://blog.csdn.net/linyuancsdn/article/details/155801033)
 
++ [深度解析 MySQL 与 MCP 集成：从环境构建到 AI 驱动的数据交互全流程](https://blog.csdn.net/2301_80863610/article/details/155846129)
+
++ [可灵2.6实测：AI自动配音+音效生成，视频制作时长从4小时缩到25分钟](https://blog.csdn.net/m0_72606784/article/details/155863069)
+
++ [Dubbo深度解析：从零到一，高性能RPC框架如何重塑微服务架构](https://blog.csdn.net/qq_44378083/article/details/155889286)
+
++ [K8S-Deployment](https://blog.csdn.net/weixin_46683975/article/details/155826001)
+
++ [postman如何设置鉴权authorization header（怎么只设置一次，统一管理，不要每个request重复设置）](https://blog.csdn.net/w8y56f/article/details/155787680)
+
++ [如何使用U盘在Windows电脑上按装Fedora43 KDE？](https://blog.csdn.net/uxiang_blog/article/details/155759822)
+

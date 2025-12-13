@@ -225,3 +225,5 @@
 
 + [新一轮柬泰边境冲突已致15名泰国士兵死亡](https://news.cctv.com/2025/12/13/ARTIrfRCvWGBGC3LrgrmDANA251213.shtml)
 
++ [泰国总理：目前尚未开始任何停火谈判](https://news.cctv.com/2025/12/13/ARTI0OzZ658b1LyY8z3EVfS6251213.shtml)
+
