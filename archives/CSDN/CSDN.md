@@ -131,3 +131,7 @@
 
 + [Gemini3 生成的基于手势控制3D粒子圣诞树](https://blog.csdn.net/AXBNMD/article/details/155820408)
 
++ [2026美国大学生数学建模竞赛（MCM/ICM）报名流程指南](https://blog.csdn.net/weixin_38436774/article/details/155818246)
+
++ [[论文阅读] AI + 软件工程 | 叙事的力量+专家智慧：解锁定性软件工程研究的过去、现在与未来](https://blog.csdn.net/zhangjiaoshou_/article/details/155856693)
+
