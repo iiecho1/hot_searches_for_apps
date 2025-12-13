@@ -107,3 +107,25 @@
 
 + [FPGA教程系列-Vivado Aurora 8B／10B 例程解读](https://blog.csdn.net/fantasygwh2015/article/details/155862551)
 
++ [SemOD：基于语义增强的多天气条件目标检测网络](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/155834869)
+
++ [Training-Time RTC——在训练时做动作分块：消除推理阶段的计算开销，让π0.6完成箱子装配与咖啡制作](https://blog.csdn.net/v_JULY_v/article/details/155892713)
+
++ [OpenArm开源项目总结（移植lerobot框架）](https://blog.csdn.net/weixin_74181752/article/details/155809062)
+
++ [解决 Antigravity 编辑器登录 Google 账号无法跳转/无响应问题 (OAuth2 本地回调修复)](https://blog.csdn.net/m0_71985079/article/details/155876829)
+
++ [cpu异常中断（2）](https://blog.csdn.net/rechol/article/details/155862278)
+
++ [JarDiff比较jar文件版本差异及代码影响范围](https://blog.csdn.net/a82514921/article/details/155893904)
+
++ [GitLab CI/CD + Kubernetes自动化部署详解：测试工程师的云原生演进指南](https://blog.csdn.net/2501_94261392/article/details/155883185)
+
++ [鸿蒙进阶:鸿蒙应用集成 MQTT-原理解析与实战开发（基于 @ohos/mqtt）](https://blog.csdn.net/weixin_38687364/article/details/155890879)
+
++ [4步将HTTP请求升级为HTTPS](https://blog.csdn.net/wmx1992/article/details/155826551)
+
++ [【机器人学|运动学与动力学】#1 齐次变换矩阵](https://blog.csdn.net/mojin2005/article/details/155863457)
+
++ [vue3组件二次封装-另外一种思路](https://blog.csdn.net/weixin_41559503/article/details/155820218)
+
