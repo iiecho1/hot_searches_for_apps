@@ -165,3 +165,13 @@
 
 + [开源设计和原型创作平台Penpot本地docker部署与远程在线协作](https://blog.csdn.net/m0_68662723/article/details/155885735)
 
++ [AI核心知识47——大语言模型之Data Cleaning（简洁且通俗易懂版）](https://blog.csdn.net/2302_79444404/article/details/155826997)
+
++ [SQL篇——【MySQL篇：SQL理论】索引优化、锁机制与 InnoDB](https://blog.csdn.net/2403_88453964/article/details/155860085)
+
++ [国产RISC-V架构MCU在工控系统中的节能性分析](https://blog.csdn.net/ANSILIC/article/details/155820787)
+
++ [自然语言编程等于AI编程？](https://blog.csdn.net/ChailangCompany/article/details/155864327)
+
++ [《安富莱嵌入式周报》第361期: 单片机流畅运行Windows 95, LED蜡烛，开源5通道100w USB-PD电源，互联网网页收录破万亿，八通道均衡器](https://blog.csdn.net/Simon223/article/details/155828867)
+
