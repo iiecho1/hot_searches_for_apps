@@ -215,3 +215,11 @@
 
 + [泰国军方：柬埔寨使用火箭炮攻击平民区致4人受伤](https://news.cctv.com/2025/12/13/ARTIJHKBcyF8yVZD8mfbNTSm251213.shtml)
 
++ [武契奇重申毫不动摇地支持一个中国原则](https://news.cctv.com/2025/12/13/ARTIaqdn4SwlNEpxg8u30biS251213.shtml)
+
++ [英国与比利时两国首相会谈 讨论双边合作等议题](https://news.cctv.com/2025/12/13/ARTIkuxRUWKxgCzaX5qVDhWS251213.shtml)
+
++ [德国因“黑客攻击和干扰选举”召见俄大使 俄方驳斥](https://news.cctv.com/2025/12/13/ARTIAdkwkIi04sS4DmrRsqko251213.shtml)
+
++ [乌称敖德萨州遭俄军袭击 大部分地区断水断暖](https://news.cctv.com/2025/12/13/ARTIAOpSy9BXuOnSCfzoWDEq251213.shtml)
+
