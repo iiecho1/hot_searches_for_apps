@@ -25,3 +25,17 @@
 
 + [某厂骁龙 8E5 超大杯初版影像方案曝光：四摄双潜望，预计为 OPPO Find X9 Ultra](https://m.ithome.com/html/904790.htm)
 
++ [苹果 iOS / iPadOS 26.2 正式版更新汇总：深化液态玻璃设计、升级睡眠评分等](https://m.ithome.com/html/904666.htm)
+
++ [iPhone 17 等部分用户反馈安装苹果 iOS 26.2 后，“被启动”系统自动更新](https://m.ithome.com/html/904678.htm)
+
++ [请升级：苹果 iOS 26.2 正式版修复 25 个漏洞，谷歌、字节跳动、阿里巴巴等团队贡献](https://m.ithome.com/html/904674.htm)
+
++ [摩尔线程回应“ 75 亿元闲资做理财”：实际金额明显小于上限，绝不会因现金管理影响募投项目的正常实施和公司主营业务的正常发展](https://m.ithome.com/html/904693.htm)
+
++ [苹果 macOS 26.2 Tahoe 正式发布：新增屏幕补光灯、雷雳 5 集群等](https://m.ithome.com/html/904664.htm)
+
++ [史上最快 PG 级：《疯狂动物城 2》上映 17 天全球票房破 10 亿美元，中国贡献超北美两倍](https://m.ithome.com/html/904705.htm)
+
++ [苹果推送 iOS / iPadOS 18.7.3、macOS Sequoia 15.7.3 更新](https://m.ithome.com/html/904668.htm)
+

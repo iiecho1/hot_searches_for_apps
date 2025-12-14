@@ -101,3 +101,7 @@
 
 + [Next.js第十三章(缓存组件)](https://blog.csdn.net/qq1195566313/article/details/155916181)
 
++ [Spark函数](https://blog.csdn.net/weixin_44624117/article/details/155893834)
+
++ [AI视频生成技术原理与行业应用 - AI视频技术原理与架构](https://blog.csdn.net/hwhsong/article/details/155889441)
+
