@@ -71,3 +71,11 @@
 
 + [某厂骁龙 8E5 超大杯初版影像方案曝光：四摄双潜望，预计为 OPPO Find X9 Ultra](https://m.ithome.com/html/904790.htm)
 
++ [华为 Mate X7 折叠屏手机海外版预装 EMUI 15.0 系统](https://m.ithome.com/html/904855.htm)
+
++ [华为 Mate X7 系列折叠屏手机获 HarmonyOS 6.0.0.120 升级，支持打断应用“摇一摇”广告施法](https://m.ithome.com/html/904824.htm)
+
++ [以后不叫手写笔了，华为 M-Pencil 系列官方定名“平板创作笔”](https://m.ithome.com/html/904825.htm)
+
++ [OPPO Find X9 Ultra 新机确认，周意保透露“史无前例的强”](https://m.ithome.com/html/904841.htm)
+

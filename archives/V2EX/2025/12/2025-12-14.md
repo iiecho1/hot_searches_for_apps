@@ -43,3 +43,9 @@
 
 + [Clash verge VS Hiddify VS V2rayN](https://www.v2ex.com/t/1178766)
 
++ [猫笔刀公众号为啥这么多粉丝？](https://www.v2ex.com/t/1178760)
+
++ [现在 AI 编程都用哪种工具比较好](https://www.v2ex.com/t/1178783)
+
++ [自定义英语 phrasal verb 和主题播客，获得你所想要的听力重复！](https://www.v2ex.com/t/1178708)
+
