@@ -163,3 +163,9 @@
 
 + [GPT-5.2介绍+ 三步对接教程](https://blog.csdn.net/2501_93285113/article/details/155899283)
 
++ [时序数据库选型指南，从大数据视角看新一代列式存储引擎的核心优势](https://blog.csdn.net/beautifulmemory/article/details/155827103)
+
++ [机器是如何识别图片的？：卷积神经网络](https://blog.csdn.net/frostlulu/article/details/155819600)
+
++ [Prometheus监控服务器及K8s集群资源](https://blog.csdn.net/weixin_45867513/article/details/155820238)
+
