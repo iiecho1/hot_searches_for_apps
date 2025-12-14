@@ -163,3 +163,9 @@
 
 + [联合国维和部队在苏丹遭袭 古特雷斯强烈谴责](https://news.cctv.com/2025/12/14/ARTI9C7VxBVkHRc3ntgtJ6rn251214.shtml)
 
++ [美布朗大学枪击案已致2死8重伤 枪手仍未被捕](https://news.cctv.com/2025/12/14/ARTIUqQx02bYWgcQPYtH94cT251214.shtml)
+
++ [美国布朗大学再传枪声 目前已致多人死伤](https://news.cctv.com/2025/12/14/ARTIawFARhKiEZ4xxk4M30b1251214.shtml)
+
++ [叙利亚过渡政府：袭击美军的枪手为叙安全人员](https://news.cctv.com/2025/12/14/ARTIhF1b4Bcsk4KFbYNxxcqB251214.shtml)
+
