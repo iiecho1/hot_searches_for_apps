@@ -57,3 +57,17 @@
 
 + [7999 → 4558 元：三星 S25 Edge 超薄手机上市半年近腰斩，配双卡双镜头](https://m.ithome.com/html/904652.htm)
 
++ [宝马全新一代 X7 最新谍照曝光：线条更硬朗，配备新形态门把手](https://m.ithome.com/html/904803.htm)
+
++ [“豆包手机”被监管机构约谈？知情人士称消息不实](https://m.ithome.com/html/904798.htm)
+
++ [小米春节前新品曝光，含骁龙 8E5 影像旗舰、天玑 9 中端机、全智能表等](https://m.ithome.com/html/904833.htm)
+
++ [小米新机通过 SRRC 认证：预计为 REDMI Turbo 5 系列，有望春节前发布](https://m.ithome.com/html/904750.htm)
+
++ [腾讯《金铲铲之战》手游因规则设计失误致歉，471 名玩家解锁超预期道具](https://m.ithome.com/html/904752.htm)
+
++ [2025 年度电影总票房突破 500 亿，《哪吒之魔童闹海》《唐探 1900》《疯狂动物城 2》前三](https://m.ithome.com/html/904735.htm)
+
++ [某厂骁龙 8E5 超大杯初版影像方案曝光：四摄双潜望，预计为 OPPO Find X9 Ultra](https://m.ithome.com/html/904790.htm)
+

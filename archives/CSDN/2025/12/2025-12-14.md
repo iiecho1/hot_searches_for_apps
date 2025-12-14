@@ -175,3 +175,7 @@
 
 + [【重学MySQL】一文搞懂行级锁 无废话版](https://blog.csdn.net/weixin_62043600/article/details/155907698)
 
++ [Transformer实战（31）——解释Transformer模型决策](https://blog.csdn.net/LOVEmy134611/article/details/147934805)
+
++ [腾讯云域名配置HTTPS完整指南：从0到1部署Flask应用](https://blog.csdn.net/weixin_54648747/article/details/155828195)
+

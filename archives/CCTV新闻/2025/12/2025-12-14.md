@@ -181,3 +181,5 @@
 
 + [教科文组织：67项元素入选联合国非遗名录](https://news.cctv.com/2025/12/14/ARTIQiEjTsKOZcRgsRU5Sxrx251214.shtml)
 
++ [德国挫败针对圣诞市场袭击图谋 逮捕五人](https://news.cctv.com/2025/12/14/ARTIh8PjXmO1cWp8S7H7c7ul251214.shtml)
+
