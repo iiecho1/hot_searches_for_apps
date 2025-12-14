@@ -169,3 +169,9 @@
 
 + [叙利亚过渡政府：袭击美军的枪手为叙安全人员](https://news.cctv.com/2025/12/14/ARTIhF1b4Bcsk4KFbYNxxcqB251214.shtml)
 
++ [美国布朗大学发生枪击事件致2死8伤](https://photo.cctv.com/2025/12/14/PHOAtE5SIwvuyZR2NNkz9LJ6251214.shtml)
+
++ [马来西亚日军冈字9420部队支部旧址](https://photo.cctv.com/2025/12/14/PHOA7Y1vxiqQUhz4LUzOYfeB251214.shtml)
+
++ [俄空袭致乌大停电 威胁将迅速回应欧盟冻结俄资产](https://news.cctv.com/2025/12/14/ARTI9Wdy5RsVHCSdmqaEbmTx251214.shtml)
+

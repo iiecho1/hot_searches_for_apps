@@ -153,3 +153,13 @@
 
 + [50天50个小项目 (React19 + Tailwindcss V4) ✨| RandomChoicePicker（标签生成）](https://blog.csdn.net/WOMENshiNIDE/article/details/155827563)
 
++ [【Linux】CENTOS 7服务器chronyd同步本地时间服务器时间设置详解](https://blog.csdn.net/dishugj/article/details/155854857)
+
++ [K8S-Deployment](https://blog.csdn.net/weixin_46683975/article/details/155826001)
+
++ [嵌入式Linux初探索——点灯背后的驱动层与应用层及其交互](https://blog.csdn.net/weixin_73503631/article/details/155857182)
+
++ [深入解析.NET 中的 XDocument：解锁 XML 处理的高级特性](https://blog.csdn.net/lijunhe1991/article/details/155843285)
+
++ [GPT-5.2介绍+ 三步对接教程](https://blog.csdn.net/2501_93285113/article/details/155899283)
+
