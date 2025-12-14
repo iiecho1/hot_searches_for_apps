@@ -183,3 +183,5 @@
 
 + [德国挫败针对圣诞市场袭击图谋 逮捕五人](https://news.cctv.com/2025/12/14/ARTIh8PjXmO1cWp8S7H7c7ul251214.shtml)
 
++ [亚太经合组织“中国年”值得期待（和音）](https://news.cctv.com/2025/12/14/ARTI8I4SA2dnIZsVVDDLfIyT251214.shtml)
+
