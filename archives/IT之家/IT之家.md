@@ -49,3 +49,15 @@
 
 + [OPPO Find X9 Ultra 新机确认，周意保透露“史无前例的强”](https://m.ithome.com/html/904841.htm)
 
++ [华为 Mate 80 系列手机获 HarmonyOS 6.0.0.120 系统重要补丁推送，优化部分界面显示效果](https://m.ithome.com/html/904917.htm)
+
++ [国产算力终端迈出关键一步：百信太行国产台式机新品发布量产，搭载麒麟 9000X 处理器](https://m.ithome.com/html/904893.htm)
+
++ [游戏《霍格沃茨之遗》二手平台卖 38.88 元，Epic 官方吐槽“这也能用信息差赚钱？”](https://m.ithome.com/html/904878.htm)
+
++ [苹果 DRAM 长期订单协议即将到期：三星、SK 海力士被曝 2026 年 1 月起涨价，iPhone、MacBook 等产品线恐受冲击](https://m.ithome.com/html/904871.htm)
+
++ [中国飞行眼科医院在国产 C909 飞机成功实施首例手术](https://m.ithome.com/html/904910.htm)
+
++ [董明珠回应空调“铝代铜”问题：仍未达到同等技术保障，格力在没有 100% 把握之前不会用](https://m.ithome.com/html/904937.htm)
+
