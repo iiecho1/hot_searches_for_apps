@@ -135,3 +135,7 @@
 
 + [基于SpringBoot+Vue的农产品销售系统【附源码+文档+部署视频+讲解)](https://blog.csdn.net/weixin_44209743/article/details/155893383)
 
++ [Rook部署——k8s集群中使用ceph](https://blog.csdn.net/m0_59029800/article/details/155856823)
+
++ [智能测试用例生成技术探秘](https://blog.csdn.net/2501_94436581/article/details/155915815)
+
