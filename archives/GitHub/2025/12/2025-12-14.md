@@ -31,3 +31,21 @@
 
 + [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
++ [openai/codex](https://github.com/openai/codex)
+
++ [mdn/content](https://github.com/mdn/content)
+
++ [Morganamilo/paru](https://github.com/Morganamilo/paru)
+
++ [Mebus/cupp](https://github.com/Mebus/cupp)
+
++ [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
+
++ [daytonaio/daytona](https://github.com/daytonaio/daytona)
+
++ [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)
+
++ [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
