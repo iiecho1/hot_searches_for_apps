@@ -79,3 +79,5 @@
 
 + [OPPO Find X9 Ultra 新机确认，周意保透露“史无前例的强”](https://m.ithome.com/html/904841.htm)
 
++ [华为鸿蒙 HarmonyOS 6 与苹果 iOS 互通仅限国行设备：安卓互传方案开发中，正积极评估碰一碰传送功能](https://m.ithome.com/html/904880.htm)
+
