@@ -185,3 +185,5 @@
 
 + [亚太经合组织“中国年”值得期待（和音）](https://news.cctv.com/2025/12/14/ARTI8I4SA2dnIZsVVDDLfIyT251214.shtml)
 
++ [日本能登半岛近海地区发生4.9级地震](https://news.cctv.com/2025/12/14/ARTISrjEaeNQX30TijZGtbAi251214.shtml)
+

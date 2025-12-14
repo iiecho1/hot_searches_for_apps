@@ -207,3 +207,15 @@
 
 + [基于FPGA的积分梳状CIC滤波器Verilog设计探秘](https://blog.csdn.net/2504_94287181/article/details/155859950)
 
++ [【AI智能体】Coze 制作行业资深报告工作流实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/155890177)
+
++ [Claude vs ChatGPT vs Gemini：全方位对比与选用指南](https://blog.csdn.net/xianyu120/article/details/155916049)
+
++ [Training-Time RTC——在训练时模拟推理延迟(承认既定事实专心预测后续动作)：消除推理阶段的计算开销，让π0.6完成箱子装配与咖啡制作](https://blog.csdn.net/v_JULY_v/article/details/155892713)
+
++ [大数据Spark（七十五）：Action行动算子foreachpartition和count使用案例](https://blog.csdn.net/xiaoweite1/article/details/155889888)
+
++ [AI核心知识50——大语言模型之Scaling Laws（简洁且通俗易懂版）](https://blog.csdn.net/2302_79444404/article/details/155863960)
+
++ [排序算法总结：稳定与性能分析](https://blog.csdn.net/hii_echo/article/details/155894752)
+
