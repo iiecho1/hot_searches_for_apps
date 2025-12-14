@@ -175,3 +175,7 @@
 
 + [俄空袭致乌大停电 威胁将迅速回应欧盟冻结俄资产](https://news.cctv.com/2025/12/14/ARTI9Wdy5RsVHCSdmqaEbmTx251214.shtml)
 
++ [视频丨嫌犯在逃 美警方公开布朗大学枪击案嫌犯视频征集线索](https://news.cctv.com/2025/12/14/ARTI6yD6wFWrMkywwStRlVlf251214.shtml)
+
++ [泰国军方：鉴于当前形势 在达叻府部分地区实施宵禁](https://news.cctv.com/2025/12/14/ARTIWg2ObmwgWIN336hRzfaB251214.shtml)
+
