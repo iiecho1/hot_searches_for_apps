@@ -39,3 +39,13 @@
 
 + [苹果推送 iOS / iPadOS 18.7.3、macOS Sequoia 15.7.3 更新](https://m.ithome.com/html/904668.htm)
 
++ [华为 Mate X7 折叠屏手机海外版预装 EMUI 15.0 系统](https://m.ithome.com/html/904855.htm)
+
++ [华为鸿蒙 HarmonyOS 6 与苹果 iOS 互通仅限国行设备：安卓互传方案开发中，正积极评估碰一碰传送功能](https://m.ithome.com/html/904880.htm)
+
++ [以后不叫手写笔了，华为 M-Pencil 系列官方定名“平板创作笔”](https://m.ithome.com/html/904825.htm)
+
++ [华为 Mate X7 系列折叠屏手机获 HarmonyOS 6.0.0.120 升级，支持打断应用“摇一摇”广告施法](https://m.ithome.com/html/904824.htm)
+
++ [OPPO Find X9 Ultra 新机确认，周意保透露“史无前例的强”](https://m.ithome.com/html/904841.htm)
+
