@@ -161,3 +161,5 @@
 
 + [泰国总理向国王递交申请 要求解散国会下议院](https://news.cctv.com/2025/12/12/ARTI2ruoqamE7DYAaH24iX2g251212.shtml)
 
++ [柬埔寨近39.5万人因柬泰冲突流离失所](https://news.cctv.com/2025/12/15/ARTITy457mGvBxYU6E1ObGGK251214.shtml)
+
