@@ -179,3 +179,5 @@
 
 + [泰国军方：鉴于当前形势 在达叻府部分地区实施宵禁](https://news.cctv.com/2025/12/14/ARTIWg2ObmwgWIN336hRzfaB251214.shtml)
 
++ [教科文组织：67项元素入选联合国非遗名录](https://news.cctv.com/2025/12/14/ARTIQiEjTsKOZcRgsRU5Sxrx251214.shtml)
+
