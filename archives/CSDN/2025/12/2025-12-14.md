@@ -203,3 +203,7 @@
 
 + [玩转 Flutter 自定义 Painter：从零打造丝滑的仪表盘动效与可视化图表](https://blog.csdn.net/2503_93819752/article/details/155893517)
 
++ [鸿蒙跨端协同与Flutter结合的远程办公轻应用开发](https://blog.csdn.net/2501_94138677/article/details/155893746)
+
++ [基于FPGA的积分梳状CIC滤波器Verilog设计探秘](https://blog.csdn.net/2504_94287181/article/details/155859950)
+
