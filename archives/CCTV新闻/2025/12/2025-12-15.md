@@ -163,3 +163,7 @@
 
 + [柬埔寨近39.5万人因柬泰冲突流离失所](https://news.cctv.com/2025/12/15/ARTITy457mGvBxYU6E1ObGGK251214.shtml)
 
++ [澳大利亚邦迪海滩枪击事件已致16人死亡](https://news.cctv.com/2025/12/15/ARTIl9ry91A1LokX6QbRtNo7251215.shtml)
+
++ [美国特使称美乌柏林会谈取得“重大进展”](https://news.cctv.com/2025/12/15/ARTIgDDhJfIvDwAhwINwVQvL251215.shtml)
+
