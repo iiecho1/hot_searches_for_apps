@@ -131,3 +131,5 @@
 
 + [需求分析介绍](https://blog.csdn.net/weixin_52143112/article/details/155921413)
 
++ [CNN-LSTM-GRU-Attention模型：基于多变量/时间序列预测的Matlab实现](https://blog.csdn.net/2509_94268028/article/details/155913565)
+

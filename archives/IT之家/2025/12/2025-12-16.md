@@ -43,3 +43,11 @@
 
 + [华为 Mate X7 系列折叠屏手机获 HarmonyOS 6.0.0.120 升级，支持打断应用“摇一摇”广告施法](https://m.ithome.com/html/904824.htm)
 
++ [我国首批 L3 级自动驾驶车型产品获得准入许可：深蓝 SL03、极狐阿尔法 S](https://m.ithome.com/html/905099.htm)
+
++ [内存涨价顶不住：消息称明年有中端线新机取消 1TB 版本，小米部分在售平板已涨价](https://m.ithome.com/html/905156.htm)
+
++ [消息称某厂新机搭载 10000mAh 电池、满血无线充：厚度不到 8.5mm，预计为小米 REDMI K90 至尊版](https://m.ithome.com/html/905091.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.120 版本通知中心“暗改”：状态栏图标全部隐藏](https://m.ithome.com/html/905128.htm)
+
