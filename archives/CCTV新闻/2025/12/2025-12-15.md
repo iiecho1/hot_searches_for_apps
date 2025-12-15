@@ -171,3 +171,13 @@
 
 + [智利极右翼政党智利共和党候选人卡斯特当选新一届总统](https://news.cctv.com/2025/12/15/ARTIVKF3v5romtDr8CMSBrDb251215.shtml)
 
++ [澳大利亚海滩枪击案两名嫌疑人曾宣誓效忠恐怖组织](https://news.cctv.com/2025/12/15/ARTIpV95HG1U0rhT9kRGomku251215.shtml)
+
++ [澳大利亚全国降半旗悼念悉尼邦迪滩枪击事件遇难者](https://news.cctv.com/2025/12/15/ARTIMTtsNK63STO7C2vYylr6251215.shtml)
+
++ [澳大利亚海滩枪击事件两名枪手身份确定](https://news.cctv.com/2025/12/15/ARTIkwSLUqage4JLRuYhDU7A251215.shtml)
+
++ [韩检方：尹锡悦2023年10月开始为宣布紧急戒严做准备](https://news.cctv.com/2025/12/15/ARTI9LPjbMxmmpLmQkdF1TX9251215.shtml)
+
++ [韩国特检组对尹锡悦等24人提起诉讼](https://news.cctv.com/2025/12/15/ARTIOy5FTaj6aewti22g3a9Q251215.shtml)
+
