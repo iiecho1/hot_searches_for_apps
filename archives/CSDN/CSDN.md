@@ -133,3 +133,7 @@
 
 + [CNN-LSTM-GRU-Attention模型：基于多变量/时间序列预测的Matlab实现](https://blog.csdn.net/2509_94268028/article/details/155913565)
 
++ [计算机视觉：异常检测(paper with code汇总更新中）](https://blog.csdn.net/weixin_71288092/article/details/155908078)
+
++ [Flutter 与 OpenHarmony 深度融合：实现分布式文件共享与跨设备协同编辑系统](https://blog.csdn.net/2501_94386845/article/details/155890685)
+
