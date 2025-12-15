@@ -183,3 +183,5 @@
 
 + [匈牙利总理：欧盟动用俄被冻结资产无异于公开宣战](https://news.cctv.com/2025/12/16/ARTIZE574cNDrRlIYpf3QQFD251216.shtml)
 
++ [俄方否认潜艇遭乌无人潜航器击伤](https://news.cctv.com/2025/12/16/ARTIHUdAuWz3yakX2huhDkta251216.shtml)
+
