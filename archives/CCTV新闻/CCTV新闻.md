@@ -161,3 +161,7 @@
 
 + [态度模糊 白宫暂未回应乌版“和平计划”](https://news.cctv.com/2025/12/12/ARTIujO6dpJSNdELy4PyVJXq251212.shtml)
 
++ [欧盟宣布对俄“影子舰队”相关方实施新制裁](https://news.cctv.com/2025/12/16/ARTIbH4HZQ70ejvRZFsXHOpX251216.shtml)
+
++ [乌代表团团长：乌美谈判取得“切实进展”](https://news.cctv.com/2025/12/16/ARTINFMBim5SALSlozpKxRyI251216.shtml)
+
