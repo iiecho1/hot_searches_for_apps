@@ -165,3 +165,17 @@
 
 + [乌代表团团长：乌美谈判取得“切实进展”](https://news.cctv.com/2025/12/16/ARTINFMBim5SALSlozpKxRyI251216.shtml)
 
++ [普京批准俄印军事合作协议](https://news.cctv.com/2025/12/16/ARTIg8b71yvHLTJFmLIZlHI8251216.shtml)
+
++ [欧洲提议组建“多国部队”支持乌克兰](https://news.cctv.com/2025/12/16/ARTIMyKWElGg6w5aJxkbzK4B251216.shtml)
+
++ [土耳其击落一架在黑海失控并接近其领空的无人机](https://news.cctv.com/2025/12/16/ARTI4wydXMmYMnrsKwy7r3pa251216.shtml)
+
++ [玻利维亚东部强降雨已致20人死亡](https://news.cctv.com/2025/12/16/ARTIfd9aooXebWKpLpmkwVLD251216.shtml)
+
++ [世贸组织：全球价值链展现韧性 正加速重构](https://news.cctv.com/2025/12/16/ARTIELxvJYjhX1h9WXtTuvlg251216.shtml)
+
++ [美国逮捕4名策划在加州实施爆炸袭击嫌疑人](https://news.cctv.com/2025/12/16/ARTISpV6SqRKsIi7smQn5ujA251216.shtml)
+
++ [美乌新一轮柏林会谈结束 美官员称“取得进展”](https://news.cctv.com/2025/12/16/ARTIw0BGLwTNTzpqYeq5EQbx251216.shtml)
+
