@@ -183,3 +183,7 @@
 
 + [应对老龄化 日本从印度引进护工](https://news.cctv.com/2025/12/15/ARTIrvSaGODFAf41bvXWdRpt251215.shtml)
 
++ [智利选出了新总统，他是谁？](https://news.cctv.com/2025/12/15/ARTI4MJwojWA5QUj83GljBZr251215.shtml)
+
++ [泰柬冲突持续 已致柬12名平民死亡 40万人流离失所](https://news.cctv.com/2025/12/15/ARTIcwRP2JUBQXerN9R9OzW9251215.shtml)
+
