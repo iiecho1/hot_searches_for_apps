@@ -187,3 +187,9 @@
 
 + [泰柬冲突持续 已致柬12名平民死亡 40万人流离失所](https://news.cctv.com/2025/12/15/ARTIcwRP2JUBQXerN9R9OzW9251215.shtml)
 
++ [国际人士瞩目中央经济工作会议为世界注入确定性](https://news.cctv.com/2025/12/15/ARTIrEMaxuiohsph4HSRt5LC251215.shtml)
+
++ [没公交卡？韩国考虑让外国旅客刷信用卡乘公交](https://news.cctv.com/2025/12/15/ARTITlqlwudfcCvCdtKBSRqr251215.shtml)
+
++ [中国驻福冈总领事馆提醒领区中国公民注意人身财产安全](https://news.cctv.com/2025/12/15/ARTIlA2AO5cPjz5sYdAFlsAq251215.shtml)
+

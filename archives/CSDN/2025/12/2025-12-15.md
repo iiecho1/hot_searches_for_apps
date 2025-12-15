@@ -197,3 +197,13 @@
 
 + [【电路笔记 信号】信号能量在传输线中指数衰减+衰减系数特性+能量介质传播与指数衰减的关系+dB标度+功率指数衰减](https://blog.csdn.net/ResumeProject/article/details/155830426)
 
++ [NestJS 核心揭秘：InstanceWrapper 的艺术与前端缓存新思路](https://blog.csdn.net/csdn_silent/article/details/155913523)
+
++ [k8s-持久化存储](https://blog.csdn.net/weixin_56665846/article/details/155858765)
+
++ [Docker存储卷深度解析：机制、管理与数据持久化实战](https://blog.csdn.net/2301_80863610/article/details/155911186)
+
++ [Vue3组件通信的实战指南](https://blog.csdn.net/AI_5678/article/details/155920316)
+
++ [FPGA实战：一段让我重新认识时序收敛的FPGA迁移之旅](https://blog.csdn.net/GateWorld/article/details/155920018)
+
