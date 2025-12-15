@@ -127,3 +127,7 @@
 
 + [通俗易懂理解Flutter架构](https://blog.csdn.net/crazy_cz/article/details/155906590)
 
++ [爬虫+消息队列：RabbitMQ vs Kafka vs RocketMQ选型](https://blog.csdn.net/weixin_41943766/article/details/155879752)
+
++ [需求分析介绍](https://blog.csdn.net/weixin_52143112/article/details/155921413)
+
