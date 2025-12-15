@@ -25,3 +25,21 @@
 
 + [DDR5 内存价格飙升，AM4 平台意外迎来“第二春”](https://m.ithome.com/html/905018.htm)
 
++ [小米春节前新品曝光，含骁龙 8E5 影像旗舰、天玑 9 中端机、全智能表等](https://m.ithome.com/html/904833.htm)
+
++ [华为 Mate X7 折叠屏手机海外版预装 EMUI 15.0 系统](https://m.ithome.com/html/904855.htm)
+
++ [华为鸿蒙 HarmonyOS 6 与苹果 iOS 互通仅限国行设备：安卓互传方案开发中，正积极评估碰一碰传送功能](https://m.ithome.com/html/904880.htm)
+
++ [OPPO Find X9 Ultra 新机确认，周意保透露“史无前例的强”](https://m.ithome.com/html/904841.htm)
+
++ [国产算力终端迈出关键一步：百信太行国产台式机新品发布量产，搭载麒麟 9000X 处理器](https://m.ithome.com/html/904893.htm)
+
++ [以后不叫手写笔了，华为 M-Pencil 系列官方定名“平板创作笔”](https://m.ithome.com/html/904825.htm)
+
++ [游戏《霍格沃茨之遗》二手平台卖 38.88 元，Epic 官方吐槽“这也能用信息差赚钱？”](https://m.ithome.com/html/904878.htm)
+
++ [苹果 DRAM 长期订单协议即将到期：三星、SK 海力士被曝 2026 年 1 月起涨价，iPhone、MacBook 等产品线恐受冲击](https://m.ithome.com/html/904871.htm)
+
++ [华为 Mate X7 系列折叠屏手机获 HarmonyOS 6.0.0.120 升级，支持打断应用“摇一摇”广告施法](https://m.ithome.com/html/904824.htm)
+

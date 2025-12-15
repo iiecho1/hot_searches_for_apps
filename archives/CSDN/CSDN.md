@@ -101,3 +101,29 @@
 
 + [Vue版本演进：Vue3、Vue2.7与Vue2全面对比](https://blog.csdn.net/qq_39903567/article/details/155890341)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融风险管理体系构建与风险防范能力提升中的应用（435）](https://blog.csdn.net/atgfg/article/details/155947715)
+
++ [深度学习python项目--垃圾图像分类识别 关键模型:VGG19DenseNet121Res...](https://blog.csdn.net/2500_94306685/article/details/155891077)
+
++ [解决 Antigravity 编辑器登录 Google 账号无法跳转/无响应问题 (OAuth2 本地回调修复)](https://blog.csdn.net/m0_71985079/article/details/155876829)
+
++ [外汇与贵金属行情 API 集成指南：WebSocket 与 REST 调用实践](https://blog.csdn.net/2501_92164949/article/details/155919365)
+
++ [RISC-V 全景解析：在 x86 与 ARM 之间，理解开放指令集的真正价值](https://blog.csdn.net/cooldream2009/article/details/155902071)
+
++ [Linux显示设备驱动开发 Drm驱动&&Makefile](https://blog.csdn.net/2301_77659368/article/details/155909545)
+
++ [鸿蒙 Flutter 图像编辑：原生图像处理与滤镜开发](https://blog.csdn.net/song501/article/details/155920542)
+
++ [npm发布报错急救手册：快速解决2FA与令牌问题](https://blog.csdn.net/2501_93001072/article/details/155889087)
+
++ [Flutter + 鸿蒙实现多模态智能终端实战：语音+手势+触控融合](https://blog.csdn.net/2501_94138677/article/details/155913392)
+
++ [使用 Python 语言 从 0 到 1 搭建完整 Web UI自动化测试学习系列 32--开源电商商城系统项目实战--如何区分登录状态](https://blog.csdn.net/qq_45820603/article/details/155676306)
+
++ [C++20协程如何撕开异步编程的牢笼](https://blog.csdn.net/Z_oioihoii/article/details/155918354)
+
++ [AI应用层革命（七）——智能体的终极形态：认知循环体的诞生](https://blog.csdn.net/htw250056/article/details/155915811)
+
++ [通俗易懂理解Flutter架构](https://blog.csdn.net/crazy_cz/article/details/155906590)
+
