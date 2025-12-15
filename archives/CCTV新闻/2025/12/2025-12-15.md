@@ -195,3 +195,5 @@
 
 + [海外媒体聚焦中国——一个创新强国的绿色崛起](https://news.cctv.com/2025/12/15/ARTIj2QEq8QwtLwgt7qzkHlR251215.shtml)
 
++ [中国驻英国使馆发表声明：强烈谴责英方干预香港司法](https://news.cctv.com/2025/12/15/ARTI04JNZ0NUSizdS8XtM4jz251215.shtml)
+

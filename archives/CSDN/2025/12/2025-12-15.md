@@ -223,3 +223,11 @@
 
 + [AI Agent学习：MetaGPT项目之debate.py ](https://blog.csdn.net/qq_64955200/article/details/155917112)
 
++ [深度学习周报（12.8~12.14）](https://blog.csdn.net/m0_57788739/article/details/155892708)
+
++ [Nginx安全相关的参数总结](https://blog.csdn.net/qq_52537313/article/details/155917557)
+
++ [深入了解ETCD](https://blog.csdn.net/josnsense/article/details/155919732)
+
++ [C++笔记：流式异步日志库](https://blog.csdn.net/ouliten/article/details/155915135)
+
