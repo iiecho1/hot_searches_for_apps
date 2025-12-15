@@ -197,3 +197,5 @@
 
 + [中国驻英国使馆发表声明：强烈谴责英方干预香港司法](https://news.cctv.com/2025/12/15/ARTI04JNZ0NUSizdS8XtM4jz251215.shtml)
 
++ [欧盟拟新增制裁40艘涉俄“影子舰队”船只](https://news.cctv.com/2025/12/15/ARTIYhvJviItfVn7KZX9cRE9251215.shtml)
+
