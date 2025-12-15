@@ -163,3 +163,17 @@
 
 + [【完整源码+数据集+部署教程】动画标识检测系统源码 [一条龙教学YOLOV8标注好的数据集一键训练_70+全套改进创新点发刊_Web前端展示]](https://blog.csdn.net/weixin_43860634/article/details/155855254)
 
++ [深度学习python项目--垃圾图像分类识别 关键模型:VGG19DenseNet121Res...](https://blog.csdn.net/2500_94306685/article/details/155891077)
+
++ [【思维模型】第一性原理 ③ ( 5 Why 分析法 | 明确问题 | 层层深入 | 验证原因 | 改进措施 )](https://blog.csdn.net/han1202012/article/details/155912378)
+
++ [Dubbo多协议暴露完全指南：让一个服务同时支持多种通信方式](https://blog.csdn.net/qq_44378083/article/details/155915633)
+
++ [【linux】从 0 到 1 理解程序启动：冯诺依曼体系、操作系统与系统调用的协同密码](https://blog.csdn.net/prettyxian/article/details/155077517)
+
++ [世界的本质是概率，没有因果](https://blog.csdn.net/dog250/article/details/155821258)
+
++ [Signal 与现代前端框架的响应式机制](https://blog.csdn.net/lgf228/article/details/155867140)
+
++ [计算机网络经典问题透视：互联网程序通信与电话通信的异同深度解析](https://blog.csdn.net/qq_74326393/article/details/155649621)
+
