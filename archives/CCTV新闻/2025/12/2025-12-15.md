@@ -167,3 +167,7 @@
 
 + [美国特使称美乌柏林会谈取得“重大进展”](https://news.cctv.com/2025/12/15/ARTIgDDhJfIvDwAhwINwVQvL251215.shtml)
 
++ [德国总理：欧洲须做好与美国关系发生根本性变化准备](https://news.cctv.com/2025/12/15/ARTIkJl4Ks1N8n16AEcJinVq251215.shtml)
+
++ [智利极右翼政党智利共和党候选人卡斯特当选新一届总统](https://news.cctv.com/2025/12/15/ARTIVKF3v5romtDr8CMSBrDb251215.shtml)
+
