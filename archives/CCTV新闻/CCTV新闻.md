@@ -193,3 +193,5 @@
 
 + [中国驻福冈总领事馆提醒领区中国公民注意人身财产安全](https://news.cctv.com/2025/12/15/ARTIlA2AO5cPjz5sYdAFlsAq251215.shtml)
 
++ [海外媒体聚焦中国——一个创新强国的绿色崛起](https://news.cctv.com/2025/12/15/ARTIj2QEq8QwtLwgt7qzkHlR251215.shtml)
+

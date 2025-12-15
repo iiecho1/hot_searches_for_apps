@@ -207,3 +207,7 @@
 
 + [FPGA实战：一段让我重新认识时序收敛的FPGA迁移之旅](https://blog.csdn.net/GateWorld/article/details/155920018)
 
++ [基于 ＰＬＣ控制机械手臂取放料的系统设计](https://blog.csdn.net/weixin_45905610/article/details/155920806)
+
++ [AI应用层革命（七）——智能体的终极形态：认知循环体的诞生](https://blog.csdn.net/htw250056/article/details/155915811)
+
