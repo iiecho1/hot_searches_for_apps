@@ -31,3 +31,19 @@
 
 + [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 
++ [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop)
+
++ [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+
++ [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
+
++ [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
++ [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1)
+
++ [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+

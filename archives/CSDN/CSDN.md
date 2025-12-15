@@ -211,3 +211,7 @@
 
 + [AI应用层革命（七）——智能体的终极形态：认知循环体的诞生](https://blog.csdn.net/htw250056/article/details/155915811)
 
++ [2025年高质量开源智能体框架全景](https://blog.csdn.net/lusa1314/article/details/155918790)
+
++ [RISC-V 全景解析：在 x86 与 ARM 之间，理解开放指令集的真正价值](https://blog.csdn.net/cooldream2009/article/details/155902071)
+
