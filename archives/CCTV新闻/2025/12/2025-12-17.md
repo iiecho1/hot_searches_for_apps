@@ -189,3 +189,7 @@
 
 + [哥伦比亚西南部发生武装袭击事件](https://news.cctv.com/2025/12/17/ARTID1dWI5hK5avaGq2e4U4K251217.shtml)
 
++ [美国防部酝酿重大机构重组 多个司令部或降级](https://military.cctv.com/2025/12/17/ARTIKAa0z1V9W0V2fnxOHYpY251217.shtml)
+
++ [研究显示气候变暖或致全球冰川年均减少2000到4000处](https://news.cctv.com/2025/12/17/ARTIv5vhRxDXc6xOMWUGeywj251217.shtml)
+

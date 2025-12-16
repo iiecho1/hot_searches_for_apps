@@ -57,3 +57,11 @@
 
 + [追觅正式进入移动电源市场，推出首款产品 15W 磁吸充电宝售 219 元起](https://m.ithome.com/html/905266.htm)
 
++ [vivo S50 Pro mini 小屏手机发布：第五代骁龙 8、超声波指纹，3699 元起](https://m.ithome.com/html/905173.htm)
+
++ [不到 1 个月再涨 300 万：消息称华为鸿蒙装机量突破 3000 万台](https://m.ithome.com/html/905072.htm)
+
++ [比亚迪“海洋 8 系双旗舰”官宣：轿车海豹 08、SUV 海狮 08 明年 Q1 见](https://m.ithome.com/html/905165.htm)
+
++ [华为祭出百万级奖励，这些鸿蒙应用路子对了](https://m.ithome.com/html/905174.htm)
+

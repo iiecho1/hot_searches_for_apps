@@ -137,3 +137,7 @@
 
 + [oracle的model子句让sql像excel一样灵活](https://blog.csdn.net/cyhysr/article/details/155921637)
 
++ [时序数据库的拐点之战：为何金仓数据库在复杂业务场景中领先 InfluxDB？](https://blog.csdn.net/weixin_52908342/article/details/155991006)
+
++ [2025时序数据库选型指南：从大数据视角看Apache IoTDB的核心优势](https://blog.csdn.net/weixin_37800531/article/details/155986219)
+
