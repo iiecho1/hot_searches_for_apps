@@ -207,3 +207,5 @@
 
 + [泰国外交部：柬埔寨必须率先宣布停火](https://news.cctv.com/2025/12/16/ARTIsGxxk95aepN4k4YgZof0251216.shtml)
 
++ [德国防长称已向乌克兰交付两套“爱国者”导弹系统](https://news.cctv.com/2025/12/16/ARTIF0j0hAmUnjUe7Y5kMZUW251216.shtml)
+

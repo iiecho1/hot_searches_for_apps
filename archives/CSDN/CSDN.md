@@ -213,3 +213,11 @@
 
 + [Ascend C高性能LayerNorm融合算子开发实战](https://blog.csdn.net/sinat_41617212/article/details/155976401)
 
++ [时序数据库界 “速度与激情“：金仓数据库如何把 InfluxDB 卷到怀疑人生？](https://blog.csdn.net/weixin_43151418/article/details/155988457)
+
++ [读懂大模型核心：Transformer 与 AI 发展的底层逻辑](https://blog.csdn.net/2402_88700528/article/details/155951078)
+
++ [PLD——自我改进的VLA：先通过离策略RL学习一个轻量级的残差动作策略，然后让该残差策略收集专家数据，最后蒸馏到VLA中](https://blog.csdn.net/v_JULY_v/article/details/155951845)
+
++ [第十四章 网络安全方案设计](https://blog.csdn.net/longlangci/article/details/155942810)
+
