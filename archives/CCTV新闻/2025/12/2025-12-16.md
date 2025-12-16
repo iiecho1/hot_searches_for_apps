@@ -185,3 +185,7 @@
 
 + [俄方否认潜艇遭乌无人潜航器击伤](https://news.cctv.com/2025/12/16/ARTIHUdAuWz3yakX2huhDkta251216.shtml)
 
++ [委内瑞拉终止与特多之间全部天然气合作项目](https://news.cctv.com/2025/12/16/ARTIqCS7w3X9YxeJydGgqadR251216.shtml)
+
++ [中国代表再次敦促日方撤回错误言论](https://news.cctv.com/2025/12/16/ARTIpsZcTJJzvBjf4fYbzxXk251216.shtml)
+

@@ -137,3 +137,9 @@
 
 + [Flutter 与 OpenHarmony 深度融合：实现分布式文件共享与跨设备协同编辑系统](https://blog.csdn.net/2501_94386845/article/details/155890685)
 
++ [【图像算法 - 38】工业巡检应用：基于 YOLO 与 OpenCV 的高精度管道缺陷检测系统实现](https://blog.csdn.net/qq_42910179/article/details/155888827)
+
++ [Linux 内核设计中的核心思想与架构原则](https://blog.csdn.net/qq_44647100/article/details/155951675)
+
++ [Flutter 状态管理深度解析：Provider 与 Riverpod 核心原理及实战对比](https://blog.csdn.net/2501_93660706/article/details/155953839)
+
