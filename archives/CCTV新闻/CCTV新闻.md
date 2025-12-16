@@ -185,3 +185,7 @@
 
 + [欧盟委员会计划明年上半年发行约900亿欧元债券](https://news.cctv.com/2025/12/17/ARTILgKCDrbQwINdpOtrbMX8251217.shtml)
 
++ [津巴布韦一矿井发生塌方 已致7人死亡](https://news.cctv.com/2025/12/17/ARTIDF8QSbi7Oq4pTpw5FseW251217.shtml)
+
++ [哥伦比亚西南部发生武装袭击事件](https://news.cctv.com/2025/12/17/ARTID1dWI5hK5avaGq2e4U4K251217.shtml)
+
