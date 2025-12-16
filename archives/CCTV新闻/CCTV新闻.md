@@ -205,3 +205,5 @@
 
 + [匈牙利总理：须竭力避免没收俄罗斯资产](https://news.cctv.com/2025/12/16/ARTIVJ2TBAutu9sJq92IA5LY251216.shtml)
 
++ [泰国外交部：柬埔寨必须率先宣布停火](https://news.cctv.com/2025/12/16/ARTIsGxxk95aepN4k4YgZof0251216.shtml)
+

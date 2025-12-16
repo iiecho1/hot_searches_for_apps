@@ -197,3 +197,9 @@
 
 + [适用于Windows和Mac电脑的Android文件传输工具](https://blog.csdn.net/TheNextByte1/article/details/155946807)
 
++ [[CTF]攻防世界：fakebook （sql注入）](https://blog.csdn.net/V1040375575/article/details/155952448)
+
++ [OpenHarmony LiteOS-A/M 版本迭代与演进对照](https://blog.csdn.net/m0_67505153/article/details/155918044)
+
++ [2025.12.14论文阅读](https://blog.csdn.net/Zcymatics/article/details/155891623)
+
