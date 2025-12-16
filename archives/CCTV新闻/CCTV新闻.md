@@ -193,3 +193,11 @@
 
 + [研究显示气候变暖或致全球冰川年均减少2000到4000处](https://news.cctv.com/2025/12/17/ARTIv5vhRxDXc6xOMWUGeywj251217.shtml)
 
++ [英国利物浦汽车冲撞球迷肇事者被判21年半监禁](https://news.cctv.com/2025/12/17/ARTI3aZRWJT8VoAQAOcmYOAK251217.shtml)
+
++ [印度警方称澳大利亚海滩枪击案一嫌疑人原籍为印度](https://news.cctv.com/2025/12/17/ARTI2AVZHb2os0owIKsSUsA8251217.shtml)
+
++ [泰方称柬方必须率先宣布停火 柬埔寨暂无回应](https://news.cctv.com/2025/12/17/ARTIkFAr1vwrbwqtira7ZmIz251217.shtml)
+
++ [欧盟委员会提议修改2035年新车“零排放”目标](https://news.cctv.com/2025/12/17/ARTIbNHZraBrNf1YuWMVNAEE251217.shtml)
+
