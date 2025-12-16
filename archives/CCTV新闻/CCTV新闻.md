@@ -167,3 +167,11 @@
 
 + [泰国计划包机接回滞留在柬埔寨的公民](https://news.cctv.com/2025/12/17/ARTIF0wGoKi4098M72Cme2TZ251217.shtml)
 
++ [德国“爱国者”防空系统结束在波兰的部署任务](https://news.cctv.com/2025/12/17/ARTIaBCzaDxfnrCEhZuiWYPj251217.shtml)
+
++ [美国12月商业活动增速降至半年来最低点](https://news.cctv.com/2025/12/17/ARTIPdySGobZ4jcPaJKDJP1K251217.shtml)
+
++ [苏丹领导人表示愿就结束苏丹武装冲突举行相关会谈](https://news.cctv.com/2025/12/17/ARTIYH0Z45Al0oxWGfjeg161251217.shtml)
+
++ [苏丹武装冲突本月在中南部已造成超百名平民死亡](https://news.cctv.com/2025/12/17/ARTIG6SS0xtym9nOlB24w1xU251217.shtml)
+

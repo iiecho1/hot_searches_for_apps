@@ -125,3 +125,11 @@
 
 + [探索IP - ISP：图像信号处理的神奇世界](https://blog.csdn.net/2508_94224262/article/details/155913097)
 
++ [与AI沟通的正确方式——AI提示词：原理、策略与精通之道](https://blog.csdn.net/sixpp/article/details/155907542)
+
++ [Bright Data AI Scraper Studio：用Prompt秒建企业级爬虫，让数据采集进入AI时代](https://blog.csdn.net/m0_68089732/article/details/155967036)
+
++ [存储引擎内核：深入解析 LSM-Tree 原理与高吞吐写入实践](https://blog.csdn.net/2301_77485708/article/details/155915985)
+
++ [新零售第一阶段传统零售商的困境突破与二次增长路径——基于定制开发AI智能名片S2B2C商城小程序的实践研究](https://blog.csdn.net/weixin_70596807/article/details/155947803)
+
