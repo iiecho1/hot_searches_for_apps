@@ -175,3 +175,13 @@
 
 + [苏丹武装冲突本月在中南部已造成超百名平民死亡](https://news.cctv.com/2025/12/17/ARTIG6SS0xtym9nOlB24w1xU251217.shtml)
 
++ [巴勒斯坦呼吁国际社会制止以军侵略和犹太人定居点建设](https://news.cctv.com/2025/12/17/ARTIrdZPgLngqLG6MOqpMi4F251217.shtml)
+
++ [法国国民议会通过2026年社会保障预算](https://news.cctv.com/2025/12/17/ARTIGmhhpI9KXElLpIJvxBtU251217.shtml)
+
++ [俄罗斯学校袭击事件致1死 嫌疑人已认罪](https://news.cctv.com/2025/12/17/ARTIl0Ga4SCNcqFG502WSxLM251217.shtml)
+
++ [匈牙利与美国签署液化天然气采购协议](https://news.cctv.com/2025/12/17/ARTIaYKqXaQ0A8DyUXe0HiT1251217.shtml)
+
++ [欧盟委员会计划明年上半年发行约900亿欧元债券](https://news.cctv.com/2025/12/17/ARTILgKCDrbQwINdpOtrbMX8251217.shtml)
+

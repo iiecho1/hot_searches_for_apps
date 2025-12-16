@@ -49,3 +49,11 @@
 
 + [美国男子“听信 ChatGPT 谗言”弑母后自杀事件后续：OpenAI 拒交关键聊天记录](https://m.ithome.com/html/905312.htm)
 
++ [漫威《复仇者联盟 5：毁灭日》院线贴片预告泄露：美队抱娃回归](https://m.ithome.com/html/905230.htm)
+
++ [AMD CEO 苏姿丰到访中国：率队访问联想北京总部，参观人形机器人等最新技术成果](https://m.ithome.com/html/905374.htm)
+
++ [华为 Mate X2 系列折叠屏手机获 HarmonyOS 4.2.0.182 升级，发布距今快五年](https://m.ithome.com/html/905236.htm)
+
++ [追觅正式进入移动电源市场，推出首款产品 15W 磁吸充电宝售 219 元起](https://m.ithome.com/html/905266.htm)
+

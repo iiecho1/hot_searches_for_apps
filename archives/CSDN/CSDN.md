@@ -133,3 +133,7 @@
 
 + [新零售第一阶段传统零售商的困境突破与二次增长路径——基于定制开发AI智能名片S2B2C商城小程序的实践研究](https://blog.csdn.net/weixin_70596807/article/details/155947803)
 
++ [python项目之摄影竞赛小程序](https://blog.csdn.net/sinat_26552841/article/details/155917233)
+
++ [oracle的model子句让sql像excel一样灵活](https://blog.csdn.net/cyhysr/article/details/155921637)
+
