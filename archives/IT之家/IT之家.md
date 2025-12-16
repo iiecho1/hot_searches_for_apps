@@ -67,3 +67,19 @@
 
 + [余承东接任华为终端有限公司董事长，孟晚舟、徐直军等卸任董事](https://m.ithome.com/html/905301.htm)
 
++ [消息称鸿蒙智行开启 L3 级有条件自动驾驶内测，华为员工携自购 2025 款问界 M9 与尊界 S800 参与](https://m.ithome.com/html/905298.htm)
+
++ [“鸿蒙智行大饭店”被曝停止宣传，禁止提供免费餐饮、充电及洗车服务](https://m.ithome.com/html/905462.htm)
+
++ [苹果 iOS / iPadOS 26.3 开发者预览版 Beta 发布](https://m.ithome.com/html/905218.htm)
+
++ [华为何刚透露 nova 15 系列新机有“双份惊喜”，网友猜测包括前后双红枫镜头](https://m.ithome.com/html/905293.htm)
+
++ [网传哈啰无人车在株洲撞伤两名路人，当地确认已暂时停止运营](https://m.ithome.com/html/905211.htm)
+
++ [6770 亿美元！马斯克成为史上首位身家超 6000 亿美元的人](https://m.ithome.com/html/905227.htm)
+
++ [美国 CEO 薪酬有多高？苹果库克 7 小时收入超普通工人年薪](https://m.ithome.com/html/905243.htm)
+
++ [美国男子“听信 ChatGPT 谗言”弑母后自杀事件后续：OpenAI 拒交关键聊天记录](https://m.ithome.com/html/905312.htm)
+

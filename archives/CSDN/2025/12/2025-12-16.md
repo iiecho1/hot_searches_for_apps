@@ -209,3 +209,7 @@
 
 + [【2025】最全的EasyConnect下载与使用教程：快速搭建安全远程办公环境](https://blog.csdn.net/2401_89926894/article/details/155971465)
 
++ [【Linux系统编程】（十四）深入 Linux 内核：进程优先级调度与切换的底层逻辑全解析](https://blog.csdn.net/2301_79248256/article/details/155932674)
+
++ [Ascend C高性能LayerNorm融合算子开发实战](https://blog.csdn.net/sinat_41617212/article/details/155976401)
+
