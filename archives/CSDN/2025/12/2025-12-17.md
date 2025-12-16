@@ -101,3 +101,11 @@
 
 + [DeepSeek v3.2 正式发布，对标 GPT-5](https://blog.csdn.net/Sammyyyyy/article/details/155948379)
 
++ [[C#][winform]基于yolov11的水下目标检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/155940942)
+
++ [【C++ 笔记】从 C 到 C++：核心过渡 （上）](https://blog.csdn.net/hii_echo/article/details/155982508)
+
++ [JoyAgent-JDGenie：开源多智能体系统的工业级实践](https://blog.csdn.net/qq_56999332/article/details/155428712)
+
++ [【Linux网络编程】TCP Socket](https://blog.csdn.net/2401_82551617/article/details/155950423)
+
