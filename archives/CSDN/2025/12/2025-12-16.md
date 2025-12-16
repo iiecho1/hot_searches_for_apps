@@ -149,3 +149,11 @@
 
 + [从数据到智能体大模型——cozeAI大模型开发（第二篇）](https://blog.csdn.net/fyy31/article/details/155612576)
 
++ [服务端高并发分布式结构演进之路](https://blog.csdn.net/weixin_51142926/article/details/145481397)
+
++ [两周实测：Kiro与Trae cn谁是我更中意的AI IDE？](https://blog.csdn.net/AdamsLi/article/details/155917065)
+
++ [Flutter + OpenHarmony 性能优化全链路指南：从启动加速到帧率稳定，打造丝滑鸿蒙体验](https://blog.csdn.net/2501_93573294/article/details/155951487)
+
++ [Spring Boot 集成区块链：智能合约调用接口开发全解析](https://blog.csdn.net/weixin_45541665/article/details/155887034)
+

@@ -191,3 +191,7 @@
 
 + [南极洲盛夏掠影](https://photo.cctv.com/2025/12/16/PHOAVex6h5z9HzyplIkTFQiJ251216.shtml)
 
++ [澳大利亚总理：邦迪滩枪手或受“伊斯兰国”影响](https://news.cctv.com/2025/12/16/ARTI1trCAoF0jlqy0z8bUMhK251216.shtml)
+
++ [特多批准美军机“未来几周”经停](https://news.cctv.com/2025/12/16/ARTIZ8cxhKudSkgWMZCVBHUo251216.shtml)
+
