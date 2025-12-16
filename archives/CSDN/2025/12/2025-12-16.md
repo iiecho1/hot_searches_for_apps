@@ -177,3 +177,9 @@
 
 + [Flutter跨平台开发权威宝典：架构解析与实战进阶](https://blog.csdn.net/2501_94417424/article/details/155946749)
 
++ [【2025 大模型选型全攻略】：国内外主流模型核心能力与避坑指南](https://blog.csdn.net/user340/article/details/155951817)
+
++ [电科金仓 KES Oracle 迁移避坑：核心问题排查与解决](https://blog.csdn.net/lrq13965748542/article/details/155935839)
+
++ [vivo真机adb 命令获取手机当前窗口信息](https://blog.csdn.net/taobaty/article/details/155915001)
+
