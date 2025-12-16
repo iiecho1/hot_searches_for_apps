@@ -195,3 +195,7 @@
 
 + [特多批准美军机“未来几周”经停](https://news.cctv.com/2025/12/16/ARTIZ8cxhKudSkgWMZCVBHUo251216.shtml)
 
++ [新一轮泰柬边境冲突已致17名泰国士兵死亡](https://news.cctv.com/2025/12/16/ARTIeWKclMLIGE959Yuz0tTb251216.shtml)
+
++ [委内瑞拉称特多曾协助美国“盗取”油轮](https://news.cctv.com/2025/12/16/ARTIl4KDPOmeJo4lcxxTp9Bp251216.shtml)
+
