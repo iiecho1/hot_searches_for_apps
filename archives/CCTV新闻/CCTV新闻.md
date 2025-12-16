@@ -201,3 +201,7 @@
 
 + [墨西哥一小型飞机坠毁 机上10人全部遇难](https://news.cctv.com/2025/12/16/ARTIb8jhj04tUDBoAXVRmBPN251216.shtml)
 
++ [日本议员猛批高市早苗：完全是“卖国弃民”](https://news.cctv.com/2025/12/16/ARTIRYLuovbDEzBk3MvUdYiH251216.shtml)
+
++ [匈牙利总理：须竭力避免没收俄罗斯资产](https://news.cctv.com/2025/12/16/ARTIVJ2TBAutu9sJq92IA5LY251216.shtml)
+
