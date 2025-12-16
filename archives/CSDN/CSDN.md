@@ -183,3 +183,11 @@
 
 + [vivo真机adb 命令获取手机当前窗口信息](https://blog.csdn.net/taobaty/article/details/155915001)
 
++ [Linux_文件超详细合集: 软件-＞硬件](https://blog.csdn.net/Howrun777/article/details/155675156)
+
++ [Sharding分库分表复杂SQL之数据源路由](https://blog.csdn.net/fupinghaohao/article/details/155943440)
+
++ [基于AD9361的BPSK调制解调器探索：位同步与误码率测试](https://blog.csdn.net/2508_94252591/article/details/155944514)
+
++ [一条 SELECT 语句在 MySQL 中是如何执行的？—— 从 TCP 连接到结果返回的完整链路解析](https://blog.csdn.net/qq_53140287/article/details/155893402)
+
