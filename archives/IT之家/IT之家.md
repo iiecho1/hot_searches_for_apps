@@ -51,3 +51,17 @@
 
 + [华为鸿蒙 HarmonyOS 6.0.0.120 版本通知中心“暗改”：状态栏图标全部隐藏](https://m.ithome.com/html/905128.htm)
 
++ [vivo S50 Pro mini 小屏手机发布：第五代骁龙 8、超声波指纹，3699 元起](https://m.ithome.com/html/905173.htm)
+
++ [华为 Mate 70/Pura 70 等机型推送鸿蒙 HarmonyOS 6.0.0.120 SP6 版本更新：新增智感握姿、与 iOS 互传等](https://m.ithome.com/html/905217.htm)
+
++ [不到 1 个月再涨 300 万：消息称华为鸿蒙装机量突破 3000 万台](https://m.ithome.com/html/905072.htm)
+
++ [比亚迪“海洋 8 系双旗舰”官宣：轿车海豹 08、SUV 海狮 08 明年 Q1 见](https://m.ithome.com/html/905165.htm)
+
++ [消息称苹果 iOS 26.3 突破生态壁垒：两大 iPhone 原生功能增强安卓手机 / 手表互动](https://m.ithome.com/html/905228.htm)
+
++ [华为祭出百万级奖励，这些鸿蒙应用路子对了](https://m.ithome.com/html/905174.htm)
+
++ [华为 Mate 60/Pura 80 推送鸿蒙 HarmonyOS 6.0.0.120 SP6 版本更新：新增智感握姿、与 iOS 设备互传等](https://m.ithome.com/html/905205.htm)
+
