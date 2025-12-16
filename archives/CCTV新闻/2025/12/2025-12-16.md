@@ -189,3 +189,5 @@
 
 + [中国代表再次敦促日方撤回错误言论](https://news.cctv.com/2025/12/16/ARTIpsZcTJJzvBjf4fYbzxXk251216.shtml)
 
++ [南极洲盛夏掠影](https://photo.cctv.com/2025/12/16/PHOAVex6h5z9HzyplIkTFQiJ251216.shtml)
+

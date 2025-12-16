@@ -143,3 +143,9 @@
 
 + [Flutter 状态管理深度解析：Provider 与 Riverpod 核心原理及实战对比](https://blog.csdn.net/2501_93660706/article/details/155953839)
 
++ [3个核心维度：C#故障转移如何实现“智能决策“？](https://blog.csdn.net/z_344791576/article/details/151690240)
+
++ [鸿蒙 Flutter 应用签名：证书配置与上架实战](https://blog.csdn.net/song501/article/details/155920467)
+
++ [从数据到智能体大模型——cozeAI大模型开发（第二篇）](https://blog.csdn.net/fyy31/article/details/155612576)
+
