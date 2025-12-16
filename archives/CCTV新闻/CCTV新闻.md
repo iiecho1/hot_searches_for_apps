@@ -161,3 +161,9 @@
 
 + [欧盟决定无限期冻结俄罗斯资产 俄方回应：骗子！](https://news.cctv.com/2025/12/13/ARTIM1vFpUt0pDQg0BeXQ2JV251213.shtml)
 
++ [美国11月失业率升至4年来最高水平](https://news.cctv.com/2025/12/17/ARTIJ0yTj3AOtbuRWJ5la9pk251217.shtml)
+
++ [波兰一学生因涉嫌策划恐怖袭击被捕](https://news.cctv.com/2025/12/17/ARTIqss4XCI5kv2hPWiYj8dz251217.shtml)
+
++ [泰国计划包机接回滞留在柬埔寨的公民](https://news.cctv.com/2025/12/17/ARTIF0wGoKi4098M72Cme2TZ251217.shtml)
+

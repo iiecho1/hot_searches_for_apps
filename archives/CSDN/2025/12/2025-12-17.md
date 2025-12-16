@@ -109,3 +109,19 @@
 
 + [【Linux网络编程】TCP Socket](https://blog.csdn.net/2401_82551617/article/details/155950423)
 
++ [OpenCV 学习8-使用卷积进行图像滤波](https://blog.csdn.net/qq_31694843/article/details/155936355)
+
++ [Hadoop核心组件及其作用概述](https://blog.csdn.net/weixin_41312759/article/details/155934511)
+
++ [紫光国微成立中央研究院，端侧AI芯片如何重构机器人产业版图？](https://blog.csdn.net/m0_62617719/article/details/155951340)
+
++ [Linux CPU iowait 高 & K8s + overlayfs 排查笔记](https://blog.csdn.net/hezuijiudexiaobai/article/details/155949631)
+
++ [【2025年】GPT-5.2怎么样？Instant/Thinking/Pro 怎么选？如何订阅使用chatgptplus？GPT-5.2使用实例展示](https://blog.csdn.net/hellocode_/article/details/155866714)
+
++ [RISC-V 全景解析：在 x86 与 ARM 之间，理解开放指令集的真正价值](https://blog.csdn.net/cooldream2009/article/details/155902071)
+
++ [GPT-Neo：开源大型自回归语言模型的实现与影响](https://blog.csdn.net/daqianai/article/details/155954462)
+
++ [探索IP - ISP：图像信号处理的神奇世界](https://blog.csdn.net/2508_94224262/article/details/155913097)
+
