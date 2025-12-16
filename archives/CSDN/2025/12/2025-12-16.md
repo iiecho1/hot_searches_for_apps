@@ -161,3 +161,15 @@
 
 + [线性代数第六讲——二次型](https://blog.csdn.net/m0_64450656/article/details/155948871)
 
++ [分布式爬虫架构：Scrapy+Kafka+Spark实战指南](https://blog.csdn.net/weixin_43856625/article/details/155945528)
+
++ [【AI大模型前沿】Ouro：字节跳动Seed团队推出的循环语言模型，开启推理新纪元](https://blog.csdn.net/xiaobing259/article/details/155883088)
+
++ [dify 1.11.1 版本发布：重要安全更新、性能优化与新特性解析](https://blog.csdn.net/weixin_48502062/article/details/155891797)
+
++ [数据文件操作](https://blog.csdn.net/2501_90393417/article/details/154739584)
+
++ [rk3588驱动开发第一章Uboot使用](https://blog.csdn.net/Pretender_1205/article/details/155952716)
+
++ [Web Components 封装实战：打造可复用的跨框架组件](https://blog.csdn.net/qq_46123200/article/details/155951876)
+

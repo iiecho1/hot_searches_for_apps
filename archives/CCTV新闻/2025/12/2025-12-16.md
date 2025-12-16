@@ -199,3 +199,5 @@
 
 + [委内瑞拉称特多曾协助美国“盗取”油轮](https://news.cctv.com/2025/12/16/ARTIl4KDPOmeJo4lcxxTp9Bp251216.shtml)
 
++ [墨西哥一小型飞机坠毁 机上10人全部遇难](https://news.cctv.com/2025/12/16/ARTIb8jhj04tUDBoAXVRmBPN251216.shtml)
+

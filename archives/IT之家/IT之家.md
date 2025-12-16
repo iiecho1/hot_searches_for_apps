@@ -65,3 +65,5 @@
 
 + [华为 Mate 60/Pura 80 推送鸿蒙 HarmonyOS 6.0.0.120 SP6 版本更新：新增智感握姿、与 iOS 设备互传等](https://m.ithome.com/html/905205.htm)
 
++ [余承东接任华为终端有限公司董事长，孟晚舟、徐直军等卸任董事](https://m.ithome.com/html/905301.htm)
+
