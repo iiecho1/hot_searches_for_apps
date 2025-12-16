@@ -31,3 +31,11 @@
 
 + [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
++ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
++ [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte)
+
++ [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards)
+
++ [mdn/content](https://github.com/mdn/content)
+
