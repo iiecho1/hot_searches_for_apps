@@ -123,3 +123,7 @@
 
 + [《MyBatis 动态 SQL 天花板教程：吃透 6 大标签，搞定所有动态拼接场景》](https://blog.csdn.net/2501_93037119/article/details/155989810)
 
++ [读懂大模型核心：Transformer 与 AI 发展的底层逻辑](https://blog.csdn.net/2402_88700528/article/details/155951078)
+
++ [兼容是基石，超越是未来：金仓数据库的三重革新](https://blog.csdn.net/weixin_44976692/article/details/156004650)
+
