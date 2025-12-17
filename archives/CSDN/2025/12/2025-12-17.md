@@ -201,3 +201,11 @@
 
 + [PyQt多页面切换教程](https://blog.csdn.net/hh867308122/article/details/155965824)
 
++ [MODA：首个用于航空图像中多光谱目标检测的挑战性基准](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/155962249)
+
++ [MATLAB基本运算与运算符全解析](https://blog.csdn.net/2501_93482651/article/details/155990880)
+
++ [云原生资源合集](https://blog.csdn.net/weixin_53721706/article/details/155990644)
+
++ [现代webpack/react/typescript/pnpm项目模板，从零到一搭建webpack项目](https://blog.csdn.net/qq_38977714/article/details/155980973)
+

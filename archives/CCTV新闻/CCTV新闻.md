@@ -219,3 +219,7 @@
 
 + [美乌柏林会谈后，俄称不会参与“短期”停火](https://news.cctv.com/2025/12/17/ARTInaqL1dmvC0shfYG7ZGZ5251217.shtml)
 
++ [巴基斯坦继续对印度飞机关闭领空至明年1月23日](https://news.cctv.com/2025/12/17/ARTIRiZcPwtydfRKpoO6TJ9k251217.shtml)
+
++ [泰国重申达成停火的三项必要条件 柬埔寨暂无回应](https://news.cctv.com/2025/12/17/ARTId1FvdagI18F3VrOyUkMM251217.shtml)
+
