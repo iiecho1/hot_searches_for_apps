@@ -205,3 +205,13 @@
 
 + [“任何开历史倒车、破坏稳定的行为，都必将遭到各国反对”（国际视点）](https://news.cctv.com/2025/12/17/ARTI1jxe4blueJZadB1CTDGv251217.shtml)
 
++ [视频丨安理会举行巴勒斯坦问题公开会 中方代表：暴力冲突不能重启](https://news.cctv.com/2025/12/17/ARTI2EO3ajJFAlcbrGCyj5Bz251217.shtml)
+
++ [美媒：马斯克已开始为共和党2026年中期选举提供资金](https://news.cctv.com/2025/12/17/ARTIWrx7yFDDIcEqCrMJA99A251217.shtml)
+
++ [视频丨南非指责美国违背多边主义精神](https://news.cctv.com/2025/12/17/ARTIYTIMSEQ4hWIXf9lbxLF8251217.shtml)
+
++ [美国麻省理工学院一教授遭枪击身亡](https://news.cctv.com/2025/12/17/ARTI8EdhQWNCQrMJ7VNm55vc251217.shtml)
+
++ [日本H3火箭发射任务在倒计时结束后紧急停止](https://news.cctv.com/2025/12/17/ARTIJRkFnkkk2LlRhoZArTTA251217.shtml)
+
