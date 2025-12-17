@@ -55,3 +55,5 @@
 
 + [共事了 7 年的同事今天 last day，还是会有些寂寞、焦躁和感慨](https://www.v2ex.com/t/1179478)
 
++ [决赛圈， yu7 和 model y 二选一](https://www.v2ex.com/t/1179525)
+
