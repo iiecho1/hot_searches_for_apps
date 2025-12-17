@@ -187,3 +187,17 @@
 
 + [大数据视角下的时序数据库选型：Apache IoTDB 核心竞争力拆解](https://blog.csdn.net/qq_57761637/article/details/156006150)
 
++ [【JAVA 进阶】深入拆解SpringBoot自动配置：从原理到实战的完整指南](https://blog.csdn.net/weixin_63944437/article/details/155999962)
+
++ [【花雕学编程】Arduino BLDC 之群体机器人协同探索](https://blog.csdn.net/weixin_41659040/article/details/156000530)
+
++ [【自然语言处理】字符编码与字频统计：中文信息处理的底层逻辑与实践维度](https://blog.csdn.net/2401_84149564/article/details/155989053)
+
++ [【4】Spring Boot项目中Spring核心容器原理详解](https://blog.csdn.net/qq_32378355/article/details/155991723)
+
++ [springboot二手车交易系统](https://blog.csdn.net/weixin_67874152/article/details/155992946)
+
++ [Flutter 路由进阶：命名路由、动态路由与路由守卫实现](https://blog.csdn.net/2502_93915572/article/details/155993037)
+
++ [PyQt多页面切换教程](https://blog.csdn.net/hh867308122/article/details/155965824)
+
