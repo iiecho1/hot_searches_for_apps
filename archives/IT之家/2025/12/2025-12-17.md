@@ -83,3 +83,9 @@
 
 + [鸿蒙智行尊界 S800 轿车 1 万台下线即交付，余承东和项兴初共同为李连杰交车](https://m.ithome.com/html/905340.htm)
 
++ [消息称苹果 iPhone 18 Pro / Max 摒弃药丸状挖孔，改用左上角单打孔 + 屏下 Face ID](https://m.ithome.com/html/905609.htm)
+
++ [罗福莉加入小米后首秀，解释 MiMo-V2-Flash 模型如何做到推理速度飞快](https://m.ithome.com/html/905593.htm)
+
++ [华为 WATCH 十周年款智能手表官宣，12 月 22 日发布](https://m.ithome.com/html/905546.htm)
+

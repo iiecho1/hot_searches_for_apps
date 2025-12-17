@@ -43,3 +43,7 @@
 
 + [你们不结婚，怎么说服父母的？](https://www.v2ex.com/t/1179390)
 
++ [ChatGPT, Claude, Gemini 会员三选一 应该买哪一个？](https://www.v2ex.com/t/1179389)
+
++ [有时候我不知道是我不正常，还是周围的人不正常](https://www.v2ex.com/t/1179408)
+

@@ -179,3 +179,9 @@
 
 + [科研业绩SCI、EI、会议、CSCD、CSSCI、中文核心、普刊介绍](https://blog.csdn.net/luluoluoa/article/details/155941375)
 
++ [Gemini3生成手势控制3D粒子交互（附源码）](https://blog.csdn.net/weixin_42311968/article/details/155944320)
+
++ [深度解析：Linux InfiniBand 驱动中 uverbs 内存区域（MR）管理的实现](https://blog.csdn.net/eidolon_foot/article/details/155893574)
+
++ [精神空虚、自卑、自恋、自信](https://blog.csdn.net/weixin_43408020/article/details/155953935)
+
