@@ -71,3 +71,5 @@
 
 + [【鬼泣5】给朋友录的维吉尔萌新小课堂第一期（附实战解说）](https://m.acfun.cn/v/?ac=48101825)
 
++ [Sistar So Cool 路演](https://m.acfun.cn/v/?ac=48105052)
+

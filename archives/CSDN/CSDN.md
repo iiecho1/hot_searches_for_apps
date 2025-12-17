@@ -143,3 +143,7 @@
 
 + [K8s 集群部署微服务 - DevOps（二）](https://blog.csdn.net/weixin_45278293/article/details/155562599)
 
++ [十二月第二周周报（论文阅读）](https://blog.csdn.net/m0_62847106/article/details/155912007)
+
++ [云手机自动化是什么？2025 年行业真实现状](https://blog.csdn.net/suki_lynn/article/details/155943542)
+
