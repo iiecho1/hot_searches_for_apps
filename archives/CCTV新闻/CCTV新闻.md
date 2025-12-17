@@ -227,3 +227,9 @@
 
 + [普京：俄军目前在整个俄乌冲突前线掌握主动权](https://news.cctv.com/2025/12/17/ARTIzgm0fH3fb7aI1s97ieP1251217.shtml)
 
++ [以军空袭加沙城中心城区 多人受伤](https://news.cctv.com/2025/12/17/ARTIOd3OoAjrOrMPO1yyn38O251217.shtml)
+
++ [苏丹医疗设施频遭袭 今年已有超1600人死亡](https://news.cctv.com/2025/12/17/ARTIFSbioCHhKSZU4cO525Qc251217.shtml)
+
++ [西班牙学者：海南自贸港封关运作为世界经济注入新活力](https://news.cctv.com/2025/12/17/ARTI4wPJ2Q1rUszHXgo6VN3r251217.shtml)
+
