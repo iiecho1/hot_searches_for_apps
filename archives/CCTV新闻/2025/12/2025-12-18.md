@@ -161,3 +161,15 @@
 
 + [韩国特检组对尹锡悦等24人提起诉讼](https://news.cctv.com/2025/12/15/ARTIOy5FTaj6aewti22g3a9Q251215.shtml)
 
++ [欧盟和英国敲定直布罗陀和欧盟全新关系法令文本](https://news.cctv.com/2025/12/18/ARTIAvaUSR2imeaTxTQuiU2W251218.shtml)
+
++ [知情人士称美俄将于本周末在迈阿密举行会谈](https://news.cctv.com/2025/12/18/ARTIg5CaTlgt5F5w8e7wy2SO251218.shtml)
+
++ [美参议院确认亿万富翁艾萨克曼出任美航天局局长](https://news.cctv.com/2025/12/18/ARTIXqDxQKndgI55USwhZl4x251218.shtml)
+
++ [受美封锁油轮影响 委内瑞拉石油储存空间告急](https://news.cctv.com/2025/12/18/ARTIBKmIY6GWDv8MmPbXQ7kY251218.shtml)
+
++ [国际足联：美加墨世界杯冠军将获得5000万美元奖金](https://news.cctv.com/2025/12/18/ARTIoNuOcRIaJFaMb63cLBo3251218.shtml)
+
++ [美国参议院通过9010亿美元国防授权法案](https://news.cctv.com/2025/12/18/ARTINlejdnhjQ6i9AB5MWWal251218.shtml)
+

@@ -69,3 +69,5 @@
 
 + [Stellar Vibrato](https://m.acfun.cn/v/?ac=48105929)
 
++ [【猪肝来也】nct哥组弟组大团建|波光/八音盒/鲸鱼](https://m.acfun.cn/v/?ac=48107844)
+
