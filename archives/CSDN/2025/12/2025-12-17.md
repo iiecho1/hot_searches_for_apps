@@ -185,3 +185,5 @@
 
 + [精神空虚、自卑、自恋、自信](https://blog.csdn.net/weixin_43408020/article/details/155953935)
 
++ [大数据视角下的时序数据库选型：Apache IoTDB 核心竞争力拆解](https://blog.csdn.net/qq_57761637/article/details/156006150)
+

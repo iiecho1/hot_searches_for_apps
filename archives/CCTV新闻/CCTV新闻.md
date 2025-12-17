@@ -215,3 +215,5 @@
 
 + [日本H3火箭发射任务在倒计时结束后紧急停止](https://news.cctv.com/2025/12/17/ARTIJRkFnkkk2LlRhoZArTTA251217.shtml)
 
++ [澳大利亚海滩枪击事件嫌疑人受到59项指控](https://news.cctv.com/2025/12/17/ARTIMH80wuj6h08scOvcdBYp251217.shtml)
+

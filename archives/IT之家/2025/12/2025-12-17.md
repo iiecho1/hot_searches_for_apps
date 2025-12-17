@@ -89,3 +89,5 @@
 
 + [华为 WATCH 十周年款智能手表官宣，12 月 22 日发布](https://m.ithome.com/html/905546.htm)
 
++ [消息称小米 SU7 换代车型明年 2 季度上市，要涨 2 万元](https://m.ithome.com/html/905638.htm)
+
