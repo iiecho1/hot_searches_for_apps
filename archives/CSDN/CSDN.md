@@ -231,3 +231,5 @@
 
 + [【论文阅读24】-利用大型语言模型进行免训练的视频异常检测](https://blog.csdn.net/Ma040713/article/details/155967338)
 
++ [IoTDB 性能优化双杀：查询分析与负载均衡实战指南](https://blog.csdn.net/weixin_43151418/article/details/155188217)
+
