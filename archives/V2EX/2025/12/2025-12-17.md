@@ -23,3 +23,15 @@
 
 + [大伙儿理发都去哪儿啊？在北京感觉随随便便就四五十起步](https://www.v2ex.com/t/1179183)
 
++ [长话短说 大家觉得花三十万结婚，存款花完 值得么？](https://www.v2ex.com/t/1179271)
+
++ [重度苹果用户投华做了两面派](https://www.v2ex.com/t/1179266)
+
++ [受不了 Evernote 一直涨价，求替代](https://www.v2ex.com/t/1179211)
+
++ [域名不用了记得要及时注销备案](https://www.v2ex.com/t/1179255)
+
++ [离线听书 App 上架 Google Play,寻找封闭测试用户上线送永久使用权限。](https://www.v2ex.com/t/1179364)
+
++ [大家能推荐一个记账软件嘛？](https://www.v2ex.com/t/1179184)
+
