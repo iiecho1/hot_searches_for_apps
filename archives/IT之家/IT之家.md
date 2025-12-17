@@ -65,3 +65,21 @@
 
 + [华为祭出百万级奖励，这些鸿蒙应用路子对了](https://m.ithome.com/html/905174.htm)
 
++ [内存价格暴涨扛不住了，小米之后荣耀宣布平板即将涨价](https://m.ithome.com/html/905516.htm)
+
++ [小米网页 AI 聊天服务惊喜亮相，MiMo-V2-Flash 模型发布、代码能力开源最强](https://m.ithome.com/html/905520.htm)
+
++ [苹果 iPad mini 8 爆料：升级 OLED 屏幕，配 iPhone 18 Pro 系列同款 A20 Pro 芯片](https://m.ithome.com/html/905525.htm)
+
++ [苹果被曝将再次扩展 iPhone 产品线，2027 年推出至少七款新机型](https://m.ithome.com/html/905523.htm)
+
++ [360 集团：玉红恶意诋毁周鸿祎，所称“财务造假”等言论完全背离事实](https://m.ithome.com/html/905454.htm)
+
++ [豆包 AI 手机恢复销售，重启 F 码候补申请通道](https://m.ithome.com/html/905470.htm)
+
++ [豆包手机：首批货源已售罄，此前行业内传闻的备货数量均不准确](https://m.ithome.com/html/905504.htm)
+
++ [迪士尼《疯狂动物城 2》宣布延长放映至 2026 年 1 月 25 日，导演拜恩・霍华德亲绘新年贺图](https://m.ithome.com/html/905421.htm)
+
++ [鸿蒙智行尊界 S800 轿车 1 万台下线即交付，余承东和项兴初共同为李连杰交车](https://m.ithome.com/html/905340.htm)
+
