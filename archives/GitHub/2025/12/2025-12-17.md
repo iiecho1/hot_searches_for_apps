@@ -25,3 +25,15 @@
 
 + [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 
++ [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+
++ [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym)
+
