@@ -107,3 +107,19 @@
 
 + [线性代数第六讲——二次型](https://blog.csdn.net/m0_64450656/article/details/155948871)
 
++ [不止于存储，更是智能管道：Apache IoTDB 融合 IoT 与大数据生态](https://blog.csdn.net/2401_82648291/article/details/155986476)
+
++ [AI赋能智慧客服与人工客服融合系统企业级方案](https://blog.csdn.net/sixpp/article/details/156009802)
+
++ [【AI智能体】Coze 打通MySql实现数据报表展示应用搭建详解](https://blog.csdn.net/zhangcongyi420/article/details/155674629)
+
++ [金仓新势力：不止兼容，三重革新引领数据库未来](https://blog.csdn.net/qyj19920704/article/details/156006201)
+
++ [电科金仓 KES Oracle 迁移避坑：核心问题排查与解决](https://blog.csdn.net/lrq13965748542/article/details/155935839)
+
++ [Nginx 平滑升级](https://blog.csdn.net/qq_52537313/article/details/155990199)
+
++ [【4】Spring Boot项目中Spring核心容器原理详解](https://blog.csdn.net/qq_32378355/article/details/155991723)
+
++ [《MyBatis 动态 SQL 天花板教程：吃透 6 大标签，搞定所有动态拼接场景》](https://blog.csdn.net/2501_93037119/article/details/155989810)
+
