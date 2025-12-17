@@ -225,3 +225,9 @@
 
 + [Python 自动化办公实战：Excel 批量处理 + 邮件自动发送（附完整源码）](https://blog.csdn.net/maihuohuo/article/details/155935973)
 
++ [【从零开始的Qt开发指南】（十二）Qt 布局管理器终极指南：5 大布局 + 实战案例，搞定所有界面排版需求](https://blog.csdn.net/2301_79248256/article/details/156016872)
+
++ [什么是反向代理？安全架构中的核心组件](https://blog.csdn.net/u014674420/article/details/155966708)
+
++ [【论文阅读24】-利用大型语言模型进行免训练的视频异常检测](https://blog.csdn.net/Ma040713/article/details/155967338)
+

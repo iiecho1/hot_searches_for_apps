@@ -233,3 +233,5 @@
 
 + [西班牙学者：海南自贸港封关运作为世界经济注入新活力](https://news.cctv.com/2025/12/17/ARTI4wPJ2Q1rUszHXgo6VN3r251217.shtml)
 
++ [乌克兰敖德萨州启动国家级紧急状态](https://news.cctv.com/2025/12/17/ARTIs2VGMGI0tWxBLiQd3EUz251217.shtml)
+
