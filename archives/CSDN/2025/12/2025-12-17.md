@@ -219,3 +219,9 @@
 
 + [7. 网络安全-专栏说明](https://blog.csdn.net/princemilo/article/details/155986297)
 
++ [从400维向量到160000维矩阵：基于深度学习的火焰参数预测系统全解析](https://blog.csdn.net/weixin_44603934/article/details/155992369)
+
++ [适配小程序的下滑上滑播放视频组件](https://blog.csdn.net/weixin_45870300/article/details/155937855)
+
++ [Python 自动化办公实战：Excel 批量处理 + 邮件自动发送（附完整源码）](https://blog.csdn.net/maihuohuo/article/details/155935973)
+

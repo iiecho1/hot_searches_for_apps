@@ -225,3 +225,5 @@
 
 + [叙利亚难民艰难回归：在废墟中重建生活](https://news.cctv.com/2025/12/17/ARTI2d66QJhruttCHPaaGcXe251217.shtml)
 
++ [普京：俄军目前在整个俄乌冲突前线掌握主动权](https://news.cctv.com/2025/12/17/ARTIzgm0fH3fb7aI1s97ieP1251217.shtml)
+
