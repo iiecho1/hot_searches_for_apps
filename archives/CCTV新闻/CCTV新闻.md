@@ -193,3 +193,17 @@
 
 + [芬兰总理就个别议员的冒犯性言论道歉](https://news.cctv.com/2025/12/18/ARTIBH1wp5gR3kgtmeSXgNY4251218.shtml)
 
++ [韩国首尔一地铁施工现场发生钢筋坠落事故 1人心脏骤停](https://news.cctv.com/2025/12/18/ARTIq5KPYZvnjy9pjlv6pJNg251218.shtml)
+
++ [日本外务副大臣散布谣言“删号跑路”](https://news.cctv.com/2025/12/18/ARTIeRAmqRa4c8hhSYWSaKA6251218.shtml)
+
++ [澳大利亚总理：澳政府将严厉打击散播仇恨言论人员](https://news.cctv.com/2025/12/18/ARTIckVbQmoUbj920qLR3dMh251218.shtml)
+
++ [泰方称本次泰柬冲突已致泰国至少42人死亡](https://news.cctv.com/2025/12/18/ARTIcBnd52ReLIfFaIpDhwQO251218.shtml)
+
++ [柬埔寨内政部：柬泰冲突已致18名柬平民死亡](https://news.cctv.com/2025/12/18/ARTIbHrBMVpb0s7O7oZPamtO251218.shtml)
+
++ [韩国宪法法院通过对警察厅长赵志浩的弹劾案](https://news.cctv.com/2025/12/18/ARTIKmW8shZrLNPfFqYhPzlE251218.shtml)
+
++ [苏丹人道灾难被评价为2025年“最被忽视的危机”](https://news.cctv.com/2025/12/18/ARTIpKkpEM2Fa9fsH7WDKCOq251218.shtml)
+

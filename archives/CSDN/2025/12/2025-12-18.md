@@ -159,3 +159,11 @@
 
 + [UnoCSS 集成指南 - 小程序适配原理](https://blog.csdn.net/Bruce__taotao/article/details/155968142)
 
++ [【自然语言处理】应用02：情感分析：使用循环神经网络](https://blog.csdn.net/Morse_Chen/article/details/156028064)
+
++ [[鸿蒙2025领航者闯关]人情往来应用开源项目实战](https://blog.csdn.net/waeng_luo/article/details/155992592)
+
++ [【计算机网络】数据链路层：从帧传输到高速以太网的完整梳理](https://blog.csdn.net/2501_90752941/article/details/156003077)
+
++ [计算机网络-八股](https://blog.csdn.net/qq_45452617/article/details/155972229)
+
