@@ -185,3 +185,7 @@
 
 + [民调显示超六成美国选民反对在委内瑞拉境内动武](https://news.cctv.com/2025/12/18/ARTIRI2kzO7wJyyZGQtOqFZR251218.shtml)
 
++ [英国重回欧盟学生交流项目 显示“脱欧”后关系改善迹象](https://news.cctv.com/2025/12/18/ARTIVvtHg3piOKBh9qftfS9m251218.shtml)
+
++ [美媒：《怦然心动》导演夫妇死因公布，其子被控谋杀后首次出庭](https://news.cctv.com/2025/12/18/ARTIH8EZ8FvYHj4MNVskRrCy251218.shtml)
+

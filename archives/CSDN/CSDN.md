@@ -139,3 +139,15 @@
 
 + [Spring Boot 项目配置文件密码加密解决方案 —— Jasypt 实战指南](https://blog.csdn.net/huyuyang6688/article/details/156023676)
 
++ [【Coze - AI Agent 开发平台】-- 你真的了解 Coze 吗](https://blog.csdn.net/sanfengerwang/article/details/155952050)
+
++ [兼容为基，革新为核 —— 金仓数据库重塑企业数据库运维新体验](https://blog.csdn.net/weixin_52908342/article/details/156006070)
+
++ [【JAVA 进阶】深入理解Sentinel：分布式系统的流量守卫者](https://blog.csdn.net/weixin_63944437/article/details/156038662)
+
++ [全面体验 Grok API 中转站（2025 · Grok 4 系列最新版）](https://blog.csdn.net/xianyu120/article/details/156029024)
+
++ [SpringCloud 核心组件精讲：OpenFeign 实战指南-服务调用优雅实现方案（含自定义拦截器、超时重试、LoadBalance 整合避坑）](https://blog.csdn.net/qq_40303030/article/details/155445814)
+
++ [光学工程师成长路线](https://blog.csdn.net/m0_68553508/article/details/155968407)
+
