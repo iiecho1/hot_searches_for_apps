@@ -25,3 +25,9 @@
 
 + [小米智能摄像机连续四年线上销量中国第一](https://m.ithome.com/html/905675.htm)
 
++ [卢伟冰：小米 17 Ultra 是全新合作模式首款作品，带来新一代 1 英寸主摄传感器及徕卡 APO 长焦](https://m.ithome.com/html/905913.htm)
+
++ [消息称小米可能要有自己的非凡大师，1 英寸 +2 亿长焦影像机皇或为 26 年唯一](https://m.ithome.com/html/905909.htm)
+
++ [骐骥驰骋踏新程：总台《2026 年春节联欢晚会》吉祥物发布](https://m.ithome.com/html/905921.htm)
+

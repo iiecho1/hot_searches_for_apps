@@ -99,3 +99,9 @@
 
 + [基于SpringBoot+Uniapp的自习室预约小程序（腾讯地图API、Echarts图形化分析、二维码识别）](https://blog.csdn.net/paopaokaka_luck/article/details/155982205)
 
++ [Kubernetes与开发语言：重新定义.NET Core与Java的云原生未来](https://blog.csdn.net/sixpp/article/details/156029226)
+
++ [【智能编程助手】| 鸿蒙系统下的AI辅助编程实战](https://blog.csdn.net/m0_58847451/article/details/156015658)
+
++ [鄙人的 Vue 3.0 商业级开源甘特图已经发布到 npm](https://blog.csdn.net/lee576/article/details/156018901)
+
