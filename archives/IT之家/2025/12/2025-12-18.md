@@ -51,3 +51,13 @@
 
 + [苹果首款折叠 iPhone 渲染图再曝：外 5.49 / 内 7.76 英寸屏幕，厚 4.8mm/9.6mm](https://m.ithome.com/html/905860.htm)
 
++ [雷军：小米 17 Ultra 手机下周正式发布！](https://m.ithome.com/html/905901.htm)
+
++ [卡梅隆 &#215; 郭帆首度公开对谈，杨紫琼加盟《流浪地球 3》和《阿凡达》续集](https://m.ithome.com/html/905831.htm)
+
++ [苹果 iOS / iPadOS 26.3 首个公测版发布：增强和安卓交互、独立天气动态壁纸](https://m.ithome.com/html/905858.htm)
+
++ [我国发现新矿物，正式命名为“金秀矿”](https://m.ithome.com/html/905812.htm)
+
++ [小米智能摄像机连续四年线上销量中国第一](https://m.ithome.com/html/905675.htm)
+
