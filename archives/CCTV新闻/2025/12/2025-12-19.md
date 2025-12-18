@@ -161,3 +161,11 @@
 
 + [匈牙利总理：欧盟动用俄被冻结资产无异于公开宣战](https://news.cctv.com/2025/12/16/ARTIZE574cNDrRlIYpf3QQFD251216.shtml)
 
++ [埃及总统府：埃方有权就苏丹问题采取一切必要措施](https://news.cctv.com/2025/12/19/ARTI8b28hOIiziQNkXwwNd45251219.shtml)
+
++ [“北溪”爆炸案一嫌犯身份曝光：案发时为乌军现役士兵](https://news.cctv.com/2025/12/19/ARTI7RvBQ0yybrPPeVZ4J3zx251219.shtml)
+
++ [俄已组建装备新型高超音速中程弹道导弹“榛树”的旅](https://news.cctv.com/2025/12/19/ARTIPY7rlQE1KUwtnInIddnv251219.shtml)
+
++ [特朗普签署行政命令 重申2028年登月目标](https://news.cctv.com/2025/12/19/ARTI3b3hJWLKCYsWHOPDjDPM251219.shtml)
+
