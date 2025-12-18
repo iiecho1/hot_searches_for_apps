@@ -215,3 +215,7 @@
 
 + [[论文阅读] (45)C&S24 AISL: 基于攻击意图驱动与序列学习方法的APT攻击检测](https://blog.csdn.net/Eastmount/article/details/156046089)
 
++ [【机器学习】python使用支持向量机解决兵王问题(基于libsvm库)](https://blog.csdn.net/qq_46314975/article/details/155986331)
+
++ [SpringBoot+Vue宠物商城系统](https://blog.csdn.net/weixin_67874152/article/details/156028784)
+
