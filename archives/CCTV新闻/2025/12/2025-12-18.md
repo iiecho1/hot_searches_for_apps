@@ -175,3 +175,13 @@
 
 + [总台记者观察丨重返现场 解读邦迪海滩枪击案为何伤亡重大](https://news.cctv.com/2025/12/18/ARTI0AypnSmM8LbL7oVMwy6b251218.shtml)
 
++ [欧洲阿丽亚娜6型火箭首次发射伽利略导航卫星](https://news.cctv.com/2025/12/18/ARTIuOwTHTyTClN73kIKGUbu251218.shtml)
+
++ [国际移民组织：超300万苏丹流离失所者返回家园](https://news.cctv.com/2025/12/18/ARTIo3CpkLNRh0VmZa4GKbDb251218.shtml)
+
++ [美军在东太平洋袭击一艘船致4人死亡](https://news.cctv.com/2025/12/18/ARTIOwDAy6SviKV6a0SSWsMJ251218.shtml)
+
++ [塞内加尔东南部发生塌方事故 致6名淘金者死亡](https://news.cctv.com/2025/12/18/ARTIkd6Ch0ige6B7Wv01CmeV251218.shtml)
+
++ [民调显示超六成美国选民反对在委内瑞拉境内动武](https://news.cctv.com/2025/12/18/ARTIRI2kzO7wJyyZGQtOqFZR251218.shtml)
+

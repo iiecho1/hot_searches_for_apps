@@ -31,3 +31,23 @@
 
 + [华为 WATCH 十周年款智能手表官宣，12 月 22 日发布](https://m.ithome.com/html/905546.htm)
 
++ [消息称小米 SU7 换代车型明年 2 季度上市，要涨 2 万元](https://m.ithome.com/html/905638.htm)
+
++ [小米、华为鸿蒙智行、理想汽车等遭恶意诋毁，烟台公安破获新型网络水军案](https://m.ithome.com/html/905803.htm)
+
++ [比亚迪拥抱鸿蒙生态，申请加入全球智慧物联网联盟](https://m.ithome.com/html/905820.htm)
+
++ [公牛集团起诉家的公司索赔 420 万元，广告语“10 户中国家庭，7 户用公牛”引争议](https://m.ithome.com/html/905809.htm)
+
++ [央视《鸿蒙星光盛典》12 月 20 日录播，聚焦国产操作系统开源鸿蒙的创新与发展](https://m.ithome.com/html/905582.htm)
+
++ [小米 SU7/YU7 迎来第三方开发的辅助智驾小蓝灯，2027 年开放车载中枢网关](https://m.ithome.com/html/905626.htm)
+
++ [“考古”新发现，俄罗斯发现失落的苏联“核墓地”](https://m.ithome.com/html/905853.htm)
+
++ [小米公布短剧内容进展：拥有 S 级短剧 1000 部，人均消费时长 70 分钟](https://m.ithome.com/html/905623.htm)
+
++ [小米澎湃 OS 3 后台堆叠排布开启内测招募，保留纵向 / 横向样式](https://m.ithome.com/html/905807.htm)
+
++ [苹果首款折叠 iPhone 渲染图再曝：外 5.49 / 内 7.76 英寸屏幕，厚 4.8mm/9.6mm](https://m.ithome.com/html/905860.htm)
+
