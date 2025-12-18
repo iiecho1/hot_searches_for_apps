@@ -31,3 +31,13 @@
 
 + [骐骥驰骋踏新程：总台《2026 年春节联欢晚会》吉祥物发布](https://m.ithome.com/html/905921.htm)
 
++ [消息称苹果 iPhone 18 Pro / Max 摒弃药丸状挖孔，改用左上角单打孔 + 屏下 Face ID](https://m.ithome.com/html/905609.htm)
+
++ [罗福莉加入小米后首秀，解释 MiMo-V2-Flash 模型如何做到推理速度飞快](https://m.ithome.com/html/905593.htm)
+
++ [央视《鸿蒙星光盛典》12 月 20 日录播，聚焦国产操作系统开源鸿蒙的创新与发展](https://m.ithome.com/html/905582.htm)
+
++ [小米 SU7/YU7 迎来第三方开发的辅助智驾小蓝灯，2027 年开放车载中枢网关](https://m.ithome.com/html/905626.htm)
+
++ [小米公布短剧内容进展：拥有 S 级短剧 1000 部，人均消费时长 70 分钟](https://m.ithome.com/html/905623.htm)
+

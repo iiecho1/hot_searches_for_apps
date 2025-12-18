@@ -105,3 +105,29 @@
 
 + [鄙人的 Vue 3.0 商业级开源甘特图已经发布到 npm](https://blog.csdn.net/lee576/article/details/156018901)
 
++ [C语言中的Daemon进程：系统守护者的秘密](https://blog.csdn.net/qq_44647100/article/details/156029246)
+
++ [【Java 开发日记】我们来说一下消息的可靠性投递](https://blog.csdn.net/2402_87298751/article/details/156019965)
+
++ [Spring Boot 项目配置文件密码加密解决方案 —— Jasypt 实战指南](https://blog.csdn.net/huyuyang6688/article/details/156023676)
+
++ [开始使用 Elastic Agent Builder 和 Strands Agents SDK](https://blog.csdn.net/UbuntuTouch/article/details/155965514)
+
++ [时序数据库终极 PK：金仓数据库VS InfluxDB，性能与生态的全面升维](https://blog.csdn.net/2301_80350265/article/details/155990451)
+
++ [HSM vs 冷钱包：谁更古老？加密安全的“时间胶囊“大揭秘](https://blog.csdn.net/z_344791576/article/details/151762304)
+
++ [金仓新势力：不止兼容，三重革新引领数据库未来](https://blog.csdn.net/qyj19920704/article/details/156006201)
+
++ [SQL调优（2）](https://blog.csdn.net/mr_yuanshen/article/details/155558913)
+
++ [【花雕学编程】Arduino BLDC 之群体机器人协同探索](https://blog.csdn.net/weixin_41659040/article/details/156000530)
+
++ [图像自回归生成(Auto-regressive image generation)实战学习（二）](https://blog.csdn.net/lzq6261/article/details/156028806)
+
++ [【云计算】【Kubernetes】 ⑥ K8S Pod优雅下线全解析：从preStop到Eureka下线实战](https://blog.csdn.net/xiezhiyi007/article/details/155994193)
+
++ [带噪学习 | Ambient Diffusion (NeurIPS 2023) 上篇](https://blog.csdn.net/P_LarT/article/details/155989880)
+
++ [Quarkus vs Spring Boot：谁更适合云原生时代的 Java 开发？](https://blog.csdn.net/baidu_33581764/article/details/156023386)
+
