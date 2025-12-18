@@ -45,3 +45,7 @@
 
 + [被花了很多心思带教了一年多的小弟背刺了](https://www.v2ex.com/t/1179564)
 
++ [各位老司机们，车子一两天没开就一身灰尘，你们一般怎么快速低成本清理车身？](https://www.v2ex.com/t/1179666)
+
++ [送码！ Nycto - macOS 服务管理桌面程序， launchctl 命令工具的 gui 程序。](https://www.v2ex.com/t/1179649)
+
