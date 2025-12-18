@@ -23,3 +23,11 @@
 
 + [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym)
 
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [astral-sh/ty](https://github.com/astral-sh/ty)
+
++ [letta-ai/letta](https://github.com/letta-ai/letta)
+
++ [schollz/croc](https://github.com/schollz/croc)
+
