@@ -173,3 +173,9 @@
 
 + [GPT进展：从GPT-1到GPT-5](https://blog.csdn.net/weixin_40264313/article/details/155754437)
 
++ [Java 大视界 -- Java 大数据机器学习模型在金融风险管理体系构建与风险防范能力提升中的应用（435）](https://blog.csdn.net/atgfg/article/details/155947715)
+
++ [【Qt】心跳检测与粘包处理：打造稳定可靠的TCP Socket通信](https://blog.csdn.net/qq_46016136/article/details/155954716)
+
++ [不止于兼容：金仓数据库如何以部署、安全、性能三重革新重塑企业级数据库体验](https://blog.csdn.net/Mrxiao_bo/article/details/156010457)
+

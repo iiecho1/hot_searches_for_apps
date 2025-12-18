@@ -49,3 +49,5 @@
 
 + [送码！ Nycto - macOS 服务管理桌面程序， launchctl 命令工具的 gui 程序。](https://www.v2ex.com/t/1179649)
 
++ [家中矿泉水如何选择？口粮水](https://www.v2ex.com/t/1179664)
+
