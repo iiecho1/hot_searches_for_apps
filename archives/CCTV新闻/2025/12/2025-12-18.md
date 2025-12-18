@@ -189,3 +189,7 @@
 
 + [美媒：《怦然心动》导演夫妇死因公布，其子被控谋杀后首次出庭](https://news.cctv.com/2025/12/18/ARTIH8EZ8FvYHj4MNVskRrCy251218.shtml)
 
++ [美军称再次对一艘“贩毒船”发动打击致4人死亡](https://military.cctv.com/2025/12/18/ARTIVoFbqQ1nOOxuCkunE7EJ251218.shtml)
+
++ [芬兰总理就个别议员的冒犯性言论道歉](https://news.cctv.com/2025/12/18/ARTIBH1wp5gR3kgtmeSXgNY4251218.shtml)
+
