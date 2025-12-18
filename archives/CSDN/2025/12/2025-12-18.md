@@ -219,3 +219,9 @@
 
 + [SpringBoot+Vue宠物商城系统](https://blog.csdn.net/weixin_67874152/article/details/156028784)
 
++ [C语言中的Daemon进程：系统守护者的秘密](https://blog.csdn.net/qq_44647100/article/details/156029246)
+
++ [系统安全设计规范 · 短信风控篇【参考】](https://blog.csdn.net/h1101723183/article/details/156027498)
+
++ [HTTP的加密过程](https://blog.csdn.net/2402_82938245/article/details/156026658)
+
