@@ -173,3 +173,5 @@
 
 + [美国参议院通过9010亿美元国防授权法案](https://news.cctv.com/2025/12/18/ARTINlejdnhjQ6i9AB5MWWal251218.shtml)
 
++ [总台记者观察丨重返现场 解读邦迪海滩枪击案为何伤亡重大](https://news.cctv.com/2025/12/18/ARTI0AypnSmM8LbL7oVMwy6b251218.shtml)
+
