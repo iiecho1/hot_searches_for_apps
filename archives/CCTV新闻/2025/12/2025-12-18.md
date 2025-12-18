@@ -211,3 +211,7 @@
 
 + [苏丹北部大型电站遭无人机袭击 全国多地大面积停电](https://news.cctv.com/2025/12/18/ARTIDPVAPwuUaAC5ZmILbYRe251218.shtml)
 
++ [学习新语｜海南自贸港封关之际，领悟总书记的殷殷期待](https://news.cctv.com/2025/12/18/ARTINSjfxJqF4PsMGmh3c5aS251218.shtml)
+
++ [综述｜特朗普将公布美联储主席提名　舆论不看好美经济形势](https://news.cctv.com/2025/12/18/ARTIMVV9ITT0fGEhwuupsEJF251218.shtml)
+

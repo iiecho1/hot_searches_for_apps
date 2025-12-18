@@ -179,3 +179,13 @@
 
 + [不止于兼容：金仓数据库如何以部署、安全、性能三重革新重塑企业级数据库体验](https://blog.csdn.net/Mrxiao_bo/article/details/156010457)
 
++ [《金仓数据库：体验升级》](https://blog.csdn.net/Dovis5884/article/details/156004304)
+
++ [汽车CAN总线隔离设计与故障诊断：从原理到代码实战](https://blog.csdn.net/xxzhaoming/article/details/156029514)
+
++ [微信小程序接入大模型实战 4：塔罗咨询室（含代码）](https://blog.csdn.net/Stella_Zhan/article/details/156024184)
+
++ [DDoS攻击：网络安全的隐形风暴](https://blog.csdn.net/w708955424/article/details/156023885)
+
++ [Flutter跨平台开发权威宝典：架构解析与实战进阶](https://blog.csdn.net/2501_94417424/article/details/155946749)
+
