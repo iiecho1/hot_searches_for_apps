@@ -169,3 +169,21 @@
 
 + [特朗普签署行政命令 重申2028年登月目标](https://news.cctv.com/2025/12/19/ARTI3b3hJWLKCYsWHOPDjDPM251219.shtml)
 
++ [欧盟领导人同意2026至2027年度向乌克兰提供900亿欧元援助](https://news.cctv.com/2025/12/19/ARTIywPuy24896vq2eTytXIC251219.shtml)
+
++ [美警方已包围布朗大学枪击案嫌犯藏身地点](https://news.cctv.com/2025/12/19/ARTIbWfHpbplBZX29FStqALD251219.shtml)
+
++ [云海下的科威特城](https://photo.cctv.com/2025/12/19/PHOAwc1SAUqW74f90neWyv7d251219.shtml)
+
++ [探访埃及萨卡拉考古遗址](https://photo.cctv.com/2025/12/19/PHOAZ4AjnM0fJWYiZ2WNsScj251219.shtml)
+
++ [南极掠影](https://photo.cctv.com/2025/12/19/PHOA1ToTzuooQUVK1t2dYoIM251219.shtml)
+
++ [美国批准向北约出售价值逾1.3亿美元的军火](https://news.cctv.com/2025/12/19/ARTIQgDOMxMRPCGQlrNIQYii251219.shtml)
+
++ [最新！爱泼斯坦案档案公布前夕，民主党人再披露68张新照片](https://news.cctv.com/2025/12/19/ARTITTCbUj9YT0BDzaNVnLvA251219.shtml)
+
++ [法国麻醉师“投毒”致死12名患者 被判终身监禁](https://news.cctv.com/2025/12/19/ARTIfWSaZtHFbisjDs3wI44r251219.shtml)
+
++ [总台现场直击丨欧洲各地上万农民聚集布鲁塞尔举行抗议](https://news.cctv.com/2025/12/19/ARTIXHtFGmH3knRRmVaLi1yb251219.shtml)
+
