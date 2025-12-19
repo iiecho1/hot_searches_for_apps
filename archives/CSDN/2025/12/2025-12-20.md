@@ -101,3 +101,21 @@
 
 + [鄙人的 Vue 3.0 商业级开源甘特图已经发布到 npm](https://blog.csdn.net/lee576/article/details/156018901)
 
++ [生成模型实战 | 残差流（Residual Flow）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/155312281)
+
++ [《金仓数据库：体验升级》](https://blog.csdn.net/Dovis5884/article/details/156004304)
+
++ [【从零开始的Qt开发指南】（十二）Qt 布局管理器终极指南：5 大布局 + 实战案例，搞定所有界面排版需求](https://blog.csdn.net/2301_79248256/article/details/156016872)
+
++ [AI 提效指南：快速生成中文海报](https://blog.csdn.net/Chase_______/article/details/156022179)
+
++ [Trae：字节跳动 AI 原生 IDE 的技术革命与实战指南](https://blog.csdn.net/qq_56999332/article/details/154938508)
+
++ [SpringCloud 核心组件精讲：OpenFeign 实战指南-服务调用优雅实现方案（含自定义拦截器、超时重试、LoadBalance 整合避坑）](https://blog.csdn.net/qq_40303030/article/details/155445814)
+
++ [金仓新势力：不止兼容，三重革新引领数据库未来](https://blog.csdn.net/qyj19920704/article/details/156006201)
+
++ [【数据库】当InfluxDB遇到天花板：金仓数据库如何重构时序性能极限？](https://blog.csdn.net/lmy_520/article/details/156003873)
+
++ [开创性的初创企业利用亚马逊 Amazon SageMaker孵化器释放企业价值](https://blog.csdn.net/m0_63947499/article/details/156084203)
+

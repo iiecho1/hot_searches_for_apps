@@ -25,3 +25,5 @@
 
 + [全球首款半固态电池车型，上汽名爵全新 MG4 半固态安芯版交付](https://m.ithome.com/html/906128.htm)
 
++ [消息称荣耀 WIN 手机配备 6.83 英寸 185Hz 直屏](https://m.ithome.com/html/906133.htm)
+
