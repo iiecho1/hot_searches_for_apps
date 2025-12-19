@@ -199,3 +199,9 @@
 
 + [计算机网络：HTTP报文](https://blog.csdn.net/Visual_progress/article/details/156061071)
 
++ [Cmake 编译 OpenCV 后，需要将生成的文件夹编译生成工程报错：error: comparing the result of pointeraddition ‘(src +((...如何解决？](https://blog.csdn.net/weixin_43970743/article/details/150958230)
+
++ [深度学习（5）循环神经网络](https://blog.csdn.net/2301_81354580/article/details/156021862)
+
++ [第21届全国大学生智能汽车竞赛地瓜机器人赛项：智慧医疗](https://blog.csdn.net/zhuoqingjoking97298/article/details/156079740)
+

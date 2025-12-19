@@ -211,3 +211,5 @@
 
 + [跨州作案 枪杀校友 布朗大学枪击案疑团待解](https://news.cctv.com/2025/12/19/ARTIff75GaT6XOzDhBJoBXCQ251219.shtml)
 
++ [特朗普称不排除与委内瑞拉开战可能性](https://news.cctv.com/2025/12/19/ARTIRLi42aEShU1iWfOtc9kM251219.shtml)
+

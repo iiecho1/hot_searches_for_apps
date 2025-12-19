@@ -13,3 +13,19 @@
 
 + [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 
++ [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
++ [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym)
+
++ [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)
+
++ [exo-explore/exo](https://github.com/exo-explore/exo)
+
++ [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
++ [google/adk-js](https://github.com/google/adk-js)
+
++ [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
+
++ [metabase/metabase](https://github.com/metabase/metabase)
+
