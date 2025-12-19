@@ -191,3 +191,11 @@
 
 + [美军称对2艘“贩毒船”发动打击 致5人死亡](https://news.cctv.com/2025/12/19/ARTIWTDnpWGFHyF6qkEKo2dM251219.shtml)
 
++ [总台记者观察丨欧盟峰会动用俄资产援乌谈判陷入僵局](https://news.cctv.com/2025/12/19/ARTI0Ukn5pBCOorHxA1RfzRT251219.shtml)
+
++ [澳大利亚总理宣布政府大规模枪支回购计划](https://news.cctv.com/2025/12/19/ARTIRkiK8616FyayRq3Igirn251219.shtml)
+
++ [布朗大学枪击案与麻省理工教授遭枪杀案嫌犯系同一人](https://news.cctv.com/2025/12/19/ARTIFCaeBzjyUaWOfi8HNnNY251219.shtml)
+
++ [也门胡塞武装扣押10名联合国工作人员](https://news.cctv.com/2025/12/19/ARTIa2ny8zMwLw916sLToVHl251219.shtml)
+

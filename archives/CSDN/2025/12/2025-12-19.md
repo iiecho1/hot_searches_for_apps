@@ -169,3 +169,9 @@
 
 + [基于灰色预测模型的预测算法研究：探讨不确定性与数学建模的交融](https://blog.csdn.net/2504_94288833/article/details/156025334)
 
++ [开源鸿蒙跨平台赋能：Flutter/RN/KMP/CMP 多栈适配](https://blog.csdn.net/weixin_45822171/article/details/156073292)
+
++ [NVIDIA Nemotron 3 系列模型：从架构到部署的完整指南](https://blog.csdn.net/lovely_yoshino/article/details/155991311)
+
++ [【鸿蒙小程序】| 鸿蒙系统中的元服务创新与实践](https://blog.csdn.net/m0_58847451/article/details/156066417)
+

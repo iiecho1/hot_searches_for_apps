@@ -43,3 +43,7 @@
 
 + [ArchLinux+KDE 用着挺舒服的](https://www.v2ex.com/t/1179774)
 
++ [今日买入博纳影业](https://www.v2ex.com/t/1179916)
+
++ [最终还是没能忍受换了 M5](https://www.v2ex.com/t/1179815)
+
