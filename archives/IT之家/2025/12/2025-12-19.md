@@ -41,3 +41,27 @@
 
 + [小米公布短剧内容进展：拥有 S 级短剧 1000 部，人均消费时长 70 分钟](https://m.ithome.com/html/905623.htm)
 
++ [吴彦祖被曝手持小米 17 Ultra 手机现身](https://m.ithome.com/html/906101.htm)
+
++ [Epic 游戏商城“跪地道歉”：希望大家能享受每一款喜加一，都是很有自己特色的产品](https://m.ithome.com/html/905969.htm)
+
++ [今起海南自贸港全岛封关，逐步全面实施“零关税、低税率、简税制”](https://m.ithome.com/html/906032.htm)
+
++ [海南封关首日，苹果 iPhone 17 系列最高可减 2140 元](https://m.ithome.com/html/906053.htm)
+
++ [小米 17 Ultra 手机有望首次用上徕卡红色“可乐标”](https://m.ithome.com/html/906000.htm)
+
++ [小屏机遇冷，消息称 2026 年有两家母系品牌计划新增大屏旗舰机](https://m.ithome.com/html/906083.htm)
+
++ [《疯狂动物城 2》成为中国影史进口片观影人次冠军，超越《复仇者联盟 4》](https://m.ithome.com/html/906093.htm)
+
++ [大众明确不会再推出燃油小车：会很贵，毫无意义](https://m.ithome.com/html/906146.htm)
+
++ [国际版小米 17 Ultra 手机认证公示：支持 Wi-Fi 7、蓝牙 LE，有线快充 100W](https://m.ithome.com/html/905954.htm)
+
++ [国内唯一、亚洲最大：山东烟台发现海底巨型金矿](https://m.ithome.com/html/905965.htm)
+
++ [Epic 喜加一：《巨人杀手：暗黑之潮》游戏免费领取](https://m.ithome.com/html/906147.htm)
+
++ [微信鸿蒙版 App 获 8.0.13.44 版本尝鲜升级，订单与卡包功能上线](https://m.ithome.com/html/905971.htm)
+
