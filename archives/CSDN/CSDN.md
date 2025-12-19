@@ -119,3 +119,29 @@
 
 + [开创性的初创企业利用亚马逊 Amazon SageMaker孵化器释放企业价值](https://blog.csdn.net/m0_63947499/article/details/156084203)
 
++ [【蓝牙PAN】精讲（8）：服务发现机制解析](https://blog.csdn.net/weixin_37800531/article/details/155892275)
+
++ [Java 大视界 -- Java+Spark 构建企业级用户画像平台：从数据采集到标签输出全流程（437）](https://blog.csdn.net/atgfg/article/details/156062867)
+
++ [文档阴影去除与增强：一种高效鲁棒的传统视觉文档阴影去除算法——基于注水法（Water-filling）的完整实现，含自研后处理，专为真实手机拍摄场景设计（无深度学习）](https://blog.csdn.net/sillybsillyb/article/details/156002897)
+
++ [Java外功核心(7)——深入源码，拆解Spring Bean作用域、生命周期与自动装配](https://blog.csdn.net/2401_89167985/article/details/155648058)
+
++ [动态代理技术实战测评—高效解锁Zillow房价历史](https://blog.csdn.net/chenlycly/article/details/156030206)
+
++ [【花雕学编程】Arduino BLDC 之工业机械臂碰撞保护](https://blog.csdn.net/weixin_41659040/article/details/156065772)
+
++ [C# vs Java：跨平台的“量子跃迁“，谁才是真正的“一次编写，到处运行“？](https://blog.csdn.net/z_344791576/article/details/151762299)
+
++ [苍穹外卖项目：百度地图AK获取 + 配送范围校验实现 + 代码优化与AK安全存储](https://blog.csdn.net/yyzytx5201314/article/details/156098813)
+
++ [【C++ 笔记】从 C 到 C++：核心过渡 （中）](https://blog.csdn.net/hii_echo/article/details/156023717)
+
++ [基于seekdb：AI原生混合搜索数据库，快速构建智能应用](https://blog.csdn.net/weixin_52258054/article/details/156083251)
+
++ [《MyBatis 动态 SQL 天花板教程：吃透 6 大标签，搞定所有动态拼接场景》](https://blog.csdn.net/2501_93037119/article/details/155989810)
+
++ [[论文阅读] (45)C&S24 AISL: 基于攻击意图驱动与序列学习方法的APT攻击检测](https://blog.csdn.net/Eastmount/article/details/156046089)
+
++ [红包分配算法的严格数学理论与完整实现](https://blog.csdn.net/2402_82985523/article/details/155502351)
+

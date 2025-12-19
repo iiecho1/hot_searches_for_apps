@@ -27,3 +27,11 @@
 
 + [消息称荣耀 WIN 手机配备 6.83 英寸 185Hz 直屏](https://m.ithome.com/html/906133.htm)
 
++ [Epic 游戏商城“跪地道歉”：希望大家能享受每一款喜加一，都是很有自己特色的产品](https://m.ithome.com/html/905969.htm)
+
++ [国际版小米 17 Ultra 手机认证公示：支持 Wi-Fi 7、蓝牙 LE，有线快充 100W](https://m.ithome.com/html/905954.htm)
+
++ [国内唯一、亚洲最大：山东烟台发现海底巨型金矿](https://m.ithome.com/html/905965.htm)
+
++ [微信鸿蒙版 App 获 8.0.13.44 版本尝鲜升级，订单与卡包功能上线](https://m.ithome.com/html/905971.htm)
+
