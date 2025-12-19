@@ -213,3 +213,7 @@
 
 + [特朗普称不排除与委内瑞拉开战可能性](https://news.cctv.com/2025/12/19/ARTIRLi42aEShU1iWfOtc9kM251219.shtml)
 
++ [普京：俄罗斯目前没有看到乌克兰讨论领土问题的意愿](https://news.cctv.com/2025/12/19/ARTIJ6p2dgXRfWbYi8J0Voys251219.shtml)
+
++ [泽连斯基：美一开始就没答应乌加入北约](https://news.cctv.com/2025/12/19/ARTIylSRbpedwDAPYkgByTHo251219.shtml)
+

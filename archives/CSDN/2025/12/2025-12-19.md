@@ -211,3 +211,5 @@
 
 + [XMind 用于编写测试用例的核心优势](https://blog.csdn.net/qq_33594579/article/details/156017759)
 
++ [【从零开始的Qt开发指南】（十二）Qt 布局管理器终极指南：5 大布局 + 实战案例，搞定所有界面排版需求](https://blog.csdn.net/2301_79248256/article/details/156016872)
+
