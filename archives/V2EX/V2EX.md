@@ -51,3 +51,7 @@
 
 + [关于居住噪音，见效最快的方法](https://www.v2ex.com/t/1179905)
 
++ [黄金、白银、比特币、以太坊，各位怎么选？](https://www.v2ex.com/t/1179949)
+
++ [giffgaff 流量注册了两个 gmail,基本上是注册好了就被封了](https://www.v2ex.com/t/1179946)
+

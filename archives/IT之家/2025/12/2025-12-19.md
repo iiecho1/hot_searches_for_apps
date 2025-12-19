@@ -65,3 +65,13 @@
 
 + [微信鸿蒙版 App 获 8.0.13.44 版本尝鲜升级，订单与卡包功能上线](https://m.ithome.com/html/905971.htm)
 
++ [摸摸党起诉被驳回：男子 4 买 4 退华为 Mate 60 RS 遭拒，法院认定有悖于“七天无理由退货”初衷](https://m.ithome.com/html/906226.htm)
+
++ [人车平安：甘肃一轿车刹车失灵 115km/h 狂奔 490 公里直至燃油耗尽，两地交警接力护航化险为夷](https://m.ithome.com/html/906191.htm)
+
++ [苹果客服回应 iPhone 存储空间用完就坏：要保证系统流畅至少留 1GB，建议用户及时清理](https://m.ithome.com/html/906235.htm)
+
++ [全球首款半固态电池车型，上汽名爵全新 MG4 半固态安芯版交付](https://m.ithome.com/html/906128.htm)
+
++ [消息称荣耀 WIN 手机配备 6.83 英寸 185Hz 直屏](https://m.ithome.com/html/906133.htm)
+

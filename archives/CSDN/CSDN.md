@@ -185,3 +185,9 @@
 
 + [PYTHON学习——决策树](https://blog.csdn.net/2203_75341967/article/details/156064420)
 
++ [[C#][winform]基于yolov11的打电话玩手机检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/156001771)
+
++ [【蔬菜识别系统】Python+TensorFlow+Vue3+Django+人工智能+深度学习+卷积网络+resnet50算法](https://blog.csdn.net/meridian002/article/details/156060468)
+
++ [第二章【开源功能】—— HTTP 服务器（上）](https://blog.csdn.net/qq_55902573/article/details/155913041)
+
