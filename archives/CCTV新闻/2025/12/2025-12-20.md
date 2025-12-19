@@ -163,3 +163,5 @@
 
 + [普京：没收俄在欧洲资产是“抢劫”](https://news.cctv.com/2025/12/20/ARTIr7uGdFakfgney5IDsDTX251220.shtml)
 
++ [高端访谈丨专访索马里总统马哈茂德](https://people.cctv.com/2025/12/20/ARTIn5MlSeAz3Q6n6FBYnHRy251220.shtml)
+

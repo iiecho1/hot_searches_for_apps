@@ -35,3 +35,21 @@
 
 + [微信鸿蒙版 App 获 8.0.13.44 版本尝鲜升级，订单与卡包功能上线](https://m.ithome.com/html/905971.htm)
 
++ [消息称顺丰主动退出抖音电商退货业务](https://m.ithome.com/html/906369.htm)
+
++ [小米 Xiaomi 家庭屏 11 上架：11 英寸 1200P 面板、支持超级小爱](https://m.ithome.com/html/906265.htm)
+
++ [阿里人士回应“千问全员会标语称‘干死豆包’”：假的](https://m.ithome.com/html/906307.htm)
+
++ [拳头宣布《英雄联盟》2027 年迎史上最大更新“League Next”，没有 LOL 2 开发计划](https://m.ithome.com/html/906262.htm)
+
++ [科幻电影《阿凡达 3》今日上映，豆瓣开分 7.6 为系列最低](https://m.ithome.com/html/906420.htm)
+
++ [追觅首款手机曝光：1.08 亿主摄、6.67 英寸屏幕、5000mAh 电池](https://m.ithome.com/html/906269.htm)
+
++ [上海电信“隔空回应”罗永浩：WiFi 速率不达标原因多样，提供免费网络检测和维修服务](https://m.ithome.com/html/906445.htm)
+
++ [零跑 Lafa 5 正式开启全国交付：官方指导价 9.78 万元起，CLTC 纯电续航 515~605km](https://m.ithome.com/html/906220.htm)
+
++ [消息称小米汽车已获得 L3 级自动驾驶道路测试牌照](https://m.ithome.com/html/906397.htm)
+
