@@ -145,3 +145,7 @@
 
 + [红包分配算法的严格数学理论与完整实现](https://blog.csdn.net/2402_82985523/article/details/155502351)
 
++ [ZooKeeper 权限管理完全指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/156056686)
+
++ [高级I/O编程：从Select、Poll到Epoll的演进与Reactor服务器实现](https://blog.csdn.net/cccyi7/article/details/156024955)
+
