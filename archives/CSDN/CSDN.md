@@ -143,3 +143,7 @@
 
 + [结合 CSDN 过审规则和热门技术方向，我选择嵌入式开发领域的 STM32 项目实战主题，采用三级目录架构](https://blog.csdn.net/GiMIQ6A52/article/details/156064166)
 
++ [Docker+Vscode搭建(本地/远程)开发环境](https://blog.csdn.net/weixin_46564301/article/details/156007193)
+
++ [【2025】最全的EasyConnect下载与使用教程：快速搭建安全远程办公环境](https://blog.csdn.net/2401_89926894/article/details/155971465)
+
