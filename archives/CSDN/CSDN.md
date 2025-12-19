@@ -151,3 +151,13 @@
 
 + [金仓数据库助力Oracle迁移：一场国产数据库的逆袭之旅](https://blog.csdn.net/qq_32682301/article/details/156065070)
 
++ [【Qt】心跳检测与粘包处理：打造稳定可靠的TCP Socket通信](https://blog.csdn.net/qq_46016136/article/details/155954716)
+
++ [C# vs Java：跨平台的“量子跃迁“，谁才是真正的“一次编写，到处运行“？](https://blog.csdn.net/z_344791576/article/details/151762299)
+
++ [MySQL基本查询](https://blog.csdn.net/NaiLuo_45/article/details/155974748)
+
++ [【自然语言处理】中文文本文件编码自动判别](https://blog.csdn.net/2401_84149564/article/details/156029001)
+
++ [YOLOv8（2）模型预测](https://blog.csdn.net/WSK1454360679/article/details/156012271)
+

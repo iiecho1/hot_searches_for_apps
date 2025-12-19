@@ -37,3 +37,9 @@
 
 + [iPhone Fold 的传闻越来越确切了，大家期待吗](https://www.v2ex.com/t/1179746)
 
++ [求点评一下装机配置](https://www.v2ex.com/t/1179900)
+
++ [本以为国产安卓这几年发展替代苹果没啥大问题，结果令人失望](https://www.v2ex.com/t/1179924)
+
++ [ArchLinux+KDE 用着挺舒服的](https://www.v2ex.com/t/1179774)
+

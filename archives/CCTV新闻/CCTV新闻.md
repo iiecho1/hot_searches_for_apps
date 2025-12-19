@@ -187,3 +187,7 @@
 
 + [总台现场直击丨欧洲各地上万农民聚集布鲁塞尔举行抗议](https://news.cctv.com/2025/12/19/ARTIXHtFGmH3knRRmVaLi1yb251219.shtml)
 
++ [美警方确认布朗大学枪击案嫌犯已自杀身亡](https://news.cctv.com/2025/12/19/ARTIAEYBA59C5PHG0mYsxH5R251219.shtml)
+
++ [美军称对2艘“贩毒船”发动打击 致5人死亡](https://news.cctv.com/2025/12/19/ARTIWTDnpWGFHyF6qkEKo2dM251219.shtml)
+
