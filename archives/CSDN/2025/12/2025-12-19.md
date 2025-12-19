@@ -213,3 +213,7 @@
 
 + [【从零开始的Qt开发指南】（十二）Qt 布局管理器终极指南：5 大布局 + 实战案例，搞定所有界面排版需求](https://blog.csdn.net/2301_79248256/article/details/156016872)
 
++ [【探索实战】基于Kubernetes部署Kurator](https://blog.csdn.net/liu_chen_yang/article/details/156066925)
+
++ [开创性的初创企业利用亚马逊 Amazon SageMaker孵化器释放企业价值](https://blog.csdn.net/m0_63947499/article/details/156084203)
+
