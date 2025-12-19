@@ -199,3 +199,15 @@
 
 + [也门胡塞武装扣押10名联合国工作人员](https://news.cctv.com/2025/12/19/ARTIa2ny8zMwLw916sLToVHl251219.shtml)
 
++ [美2026财年国防授权法案释放哪些信号？美国军事战略重心在哪里？](https://news.cctv.com/2025/12/19/ARTIvcEY5wHzAQtc9AoK9cLr251219.shtml)
+
++ [媒体关注俄被冻结资产引发多重博弈 对和平进程带来哪些冲击？](https://news.cctv.com/2025/12/19/ARTImcq1VbHJxrAFDGeyoNhK251219.shtml)
+
++ [雷达数据显示美军战机在委内瑞拉首都附近空域活动](https://news.cctv.com/2025/12/19/ARTIOSaL9puv9VENYkgIWeJg251219.shtml)
+
++ [马杜罗重申国家经济主权 将继续进行国际贸易](https://news.cctv.com/2025/12/19/ARTIDwTG3VD2CxDk3kgHRLSR251219.shtml)
+
++ [明年全球气温预计将再次超过工业化前水平1.4摄氏度](https://news.cctv.com/2025/12/19/ARTI0iEj2e2l1WqlG1qqg5jx251219.shtml)
+
++ [跨州作案 枪杀校友 布朗大学枪击案疑团待解](https://news.cctv.com/2025/12/19/ARTIff75GaT6XOzDhBJoBXCQ251219.shtml)
+

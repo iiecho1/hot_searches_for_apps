@@ -175,3 +175,13 @@
 
 + [【鸿蒙小程序】| 鸿蒙系统中的元服务创新与实践](https://blog.csdn.net/m0_58847451/article/details/156066417)
 
++ [本地 AI 模型不够用？用cpolar让 Cherry Studio 随时随地为你干活](https://blog.csdn.net/weixin_43151418/article/details/156072459)
+
++ [3核 vs 8核：C#多线程性能大逃杀，动态资源分配的“平衡术“如何让程序跑出10倍速度？](https://blog.csdn.net/z_344791576/article/details/151762255)
+
++ [手机存不下家庭照？搭个私有云相册结合cpolar在哪都能看](https://blog.csdn.net/weixin_44976692/article/details/156074244)
+
++ [学习threejs，结合anime.js打造炫酷文字粒子星空秀](https://blog.csdn.net/qq_28419035/article/details/156068685)
+
++ [PYTHON学习——决策树](https://blog.csdn.net/2203_75341967/article/details/156064420)
+
