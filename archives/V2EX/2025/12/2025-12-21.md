@@ -21,3 +21,5 @@
 
 + [筹备许久，终于我也创建了自己的论坛，欢迎来玩](https://www.v2ex.com/t/1180156)
 
++ [小米 15 换 oppo findx9](https://www.v2ex.com/t/1180117)
+

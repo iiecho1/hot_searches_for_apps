@@ -165,3 +165,5 @@
 
 + [多支伊拉克什叶派民兵组织领导人宣布将限制武装活动](https://news.cctv.com/2025/12/21/ARTIIT66wUjQfeThO5TrYfzB251221.shtml)
 
++ [泰柬边境冲突已致19名柬埔寨平民死亡](https://news.cctv.com/2025/12/21/ARTIgJdhUbvEgSKqot9lmtwg251221.shtml)
+
