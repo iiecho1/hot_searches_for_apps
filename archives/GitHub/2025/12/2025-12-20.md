@@ -19,3 +19,13 @@
 
 + [metabase/metabase](https://github.com/metabase/metabase)
 
++ [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit)
+
++ [github/awesome-copilot](https://github.com/github/awesome-copilot)
+
++ [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk)
+
++ [astral-sh/ty](https://github.com/astral-sh/ty)
+
++ [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
