@@ -91,3 +91,5 @@
 
 + [摩尔线程推出“长江”智能 SoC 芯片：8 核架构，支持 8K 30FPS H.265/H.264/AV1 编解码](https://m.ithome.com/html/906524.htm)
 
++ [一屏多用：华为 Mate X7 / XTs 非凡大师折叠屏手机“变身”鸿蒙星光盛典智能手卡](https://m.ithome.com/html/906596.htm)
+
