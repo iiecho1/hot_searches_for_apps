@@ -61,3 +61,9 @@
 
 + [【官方双语】掌心的1PB是怎么炼成的 - 铠侠工厂参观行（赞助）#linus谈科技](https://m.acfun.cn/v/?ac=48114348)
 
++ [军粮试吃：去超市能买到20单兵自热](https://m.acfun.cn/v/?ac=48116750)
+
++ [Nice Body](https://m.acfun.cn/v/?ac=48116137)
+
++ [召唤修女，却来了魅魔 ( ‵▽′)ψ](https://m.acfun.cn/v/?ac=48116443)
+
