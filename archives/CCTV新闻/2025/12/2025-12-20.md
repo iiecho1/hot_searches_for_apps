@@ -197,3 +197,5 @@
 
 + [罗马“许愿池”将对游客收费](https://news.cctv.com/2025/12/20/ARTIuCp4L3G4U0pMHfZfjZSI251220.shtml)
 
++ [警惕日本“欺骗式外交”故伎重施](https://news.cctv.com/2025/12/20/ARTIH16SF0KkmUzu1P4lTwUv251220.shtml)
+

@@ -207,3 +207,11 @@
 
 + [解决Docker容器无法访问宿主机IP和端口的全维度实践指南](https://blog.csdn.net/weixin_41544125/article/details/156057079)
 
++ [cudaq spec 06，量子内核](https://blog.csdn.net/eloudy/article/details/156092155)
+
++ [【linux】进程概念（1）PCB、系统调用与 proc 目录全解析](https://blog.csdn.net/prettyxian/article/details/155893871)
+
++ [智能体时代：字节跳动Coze平台应用开发完全指南](https://blog.csdn.net/beautifulmemory/article/details/155466048)
+
++ [显示器分辨率？【图文详解】显示器分辨率调整？电脑分辨率设置？](https://blog.csdn.net/2401_87766320/article/details/156064066)
+
