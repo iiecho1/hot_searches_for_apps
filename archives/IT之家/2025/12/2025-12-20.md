@@ -75,3 +75,19 @@
 
 + [小米 REDMI Note15 系列新春版手机明晚直播见](https://m.ithome.com/html/906389.htm)
 
++ [罗永浩质疑大金中央空调售后：7 台内机每年维护成本约 1.5 万元](https://m.ithome.com/html/906561.htm)
+
++ [央视《鸿蒙星光盛典》今晚播出，节目单公布](https://m.ithome.com/html/906557.htm)
+
++ [全新奥迪 Q5L 预售：31.3 万-38.5 万元，第五代 EA888 + 华为辅助驾驶](https://m.ithome.com/html/906567.htm)
+
++ [摩尔线程全功能 GPU 技术路线图首次全公开：全新架构“花港”算力密度提升 50%、能效提升 10 倍，可支持十万卡智算集群](https://m.ithome.com/html/906503.htm)
+
++ [摩尔线程花港架构“华山”、“庐山”芯片公布：主打 AI 推训一体、高性能图形渲染，产品明年亮相](https://m.ithome.com/html/906506.htm)
+
++ [暂时避开苹果“iOS 26 催更”，iPhone 16 等用户可加入公测版留守 iOS 18](https://m.ithome.com/html/906469.htm)
+
++ [9999 元摩尔线程首款 AIPC 算力本 MTT AIBOOK 发布：集成长江智能 SoC 芯片，内置 2D 数字人“小麦”](https://m.ithome.com/html/906512.htm)
+
++ [摩尔线程推出“长江”智能 SoC 芯片：8 核架构，支持 8K 30FPS H.265/H.264/AV1 编解码](https://m.ithome.com/html/906524.htm)
+
