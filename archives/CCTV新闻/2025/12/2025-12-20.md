@@ -187,3 +187,13 @@
 
 + [布隆迪一刚果（金）难民接收点暴发霍乱疫情](https://news.cctv.com/2025/12/20/ARTIt8DuddatKTTkVjKTI7nh251220.shtml)
 
++ [“替罪羊”？爱泼斯坦案新文件公布：克林顿出现较多](https://news.cctv.com/2025/12/20/ARTIBqP5sIBg8Fok3D0JiIGg251220.shtml)
+
++ [伊朗处决一名为以色列工作的间谍](https://news.cctv.com/2025/12/20/ARTIwWfl0YmX23PeYSKZB5XQ251220.shtml)
+
++ [日本大阪府发生集体食物中毒事件](https://news.cctv.com/2025/12/20/ARTIylPSvgkQc6lgyvRPzimG251220.shtml)
+
++ [印尼苏门答腊岛洪灾和山体滑坡已致1071人死亡](https://news.cctv.com/2025/12/20/ARTIdcu9PeiYGfHKA8gK1B3z251220.shtml)
+
++ [罗马“许愿池”将对游客收费](https://news.cctv.com/2025/12/20/ARTIuCp4L3G4U0pMHfZfjZSI251220.shtml)
+
