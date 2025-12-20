@@ -55,3 +55,11 @@
 
 + [京东武汉独栋“小哥之家”首批用户免租金入住，面向全职骑手和快递员](https://m.ithome.com/html/906122.htm)
 
++ [Epic 喜加一：恋爱动作游戏《永夜》免费领取，限时一天](https://m.ithome.com/html/906464.htm)
+
++ [全球首款 2nm GAA 手机 SoC 芯片：三星 Exynos 2600 正式揭晓](https://m.ithome.com/html/906261.htm)
+
++ [苹果官网 / Apple Store App 免息分期新增 14 家银行，含中行、农行、交行、广发等](https://m.ithome.com/html/906266.htm)
+
++ [阿里千问：全员大会吃豆包图是 AI 生成的](https://m.ithome.com/html/906384.htm)
+
