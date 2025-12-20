@@ -133,3 +133,7 @@
 
 + [蓝牙开发笔记(BlueTooth,BLE,CH592)](https://blog.csdn.net/chinalihuanyu/article/details/156066441)
 
++ [Spring AI系列——开发MCP Server和MCP Client（SSE方式）](https://blog.csdn.net/anqixiang/article/details/155990708)
+
++ [Github项目CI&CD部署](https://blog.csdn.net/charlee44/article/details/156098103)
+
