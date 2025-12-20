@@ -63,3 +63,9 @@
 
 + [老罗开怼电信](https://www.v2ex.com/t/1180122)
 
++ [机考后，软考难度是升级还是降级了](https://www.v2ex.com/t/1180101)
+
++ [小米 15 换 oppo findx9](https://www.v2ex.com/t/1180117)
+
++ [工作：调岗的选择](https://www.v2ex.com/t/1180138)
+

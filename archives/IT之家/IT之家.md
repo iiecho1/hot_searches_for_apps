@@ -63,3 +63,15 @@
 
 + [阿里千问：全员大会吃豆包图是 AI 生成的](https://m.ithome.com/html/906384.htm)
 
++ [华为 Pura X“阔折叠”手机官方降价 600~800 元：16:10 阔型屏](https://m.ithome.com/html/906489.htm)
+
++ [机器狗背着枪上高原，西藏军区某部实战化组训集训画面公布](https://m.ithome.com/html/906457.htm)
+
++ [顺丰回应退出抖音电商退货业务：合同自然到期终止，属正常商业行为](https://m.ithome.com/html/906418.htm)
+
++ [支付宝 FluidMarkdown 鸿蒙版开源，专为 AI 流式交互设计](https://m.ithome.com/html/906425.htm)
+
++ [罗永浩 Smartisan 细红线 AI 来临？锤子软件（北京）有限公司上海分公司成立](https://m.ithome.com/html/906394.htm)
+
++ [小米 REDMI Note15 系列新春版手机明晚直播见](https://m.ithome.com/html/906389.htm)
+
