@@ -171,3 +171,15 @@
 
 + [若依微服务全面适配PostgreSQL-OpenGauss数据库](https://blog.csdn.net/qq_42737644/article/details/156082283)
 
++ [智能进化：人工智能对上位机系统的全面重塑与影响分析](https://blog.csdn.net/sixpp/article/details/156085382)
+
++ [RabbitMQ：AMQP 原理、Spring AMQP 实战与 Work Queue 模型](https://blog.csdn.net/m0_73341242/article/details/156044778)
+
++ [Elasticsearch：构建一个 AI 驱动的电子邮件钓鱼检测](https://blog.csdn.net/UbuntuTouch/article/details/156092232)
+
++ [【Python办公自动化】——Excel、Word、PDF操作大全（2026版）](https://blog.csdn.net/weixin_42636075/article/details/155967375)
+
++ [FAST-LIVO2 算法深度解析](https://blog.csdn.net/wangzhaojinbest/article/details/156014413)
+
++ [K8S-RBAC2](https://blog.csdn.net/weixin_46683975/article/details/156062445)
+

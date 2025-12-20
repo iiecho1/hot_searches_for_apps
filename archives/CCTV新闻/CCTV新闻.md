@@ -185,3 +185,5 @@
 
 + [柬国防部称泰国炸毁柬一民用桥梁 泰方暂无回应](https://news.cctv.com/2025/12/20/ARTIhQN2KikQVOQXmxfDan4m251220.shtml)
 
++ [布隆迪一刚果（金）难民接收点暴发霍乱疫情](https://news.cctv.com/2025/12/20/ARTIt8DuddatKTTkVjKTI7nh251220.shtml)
+
