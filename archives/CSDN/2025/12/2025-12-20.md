@@ -155,3 +155,7 @@
 
 + [【信创】中间件对比](https://blog.csdn.net/zkw54334/article/details/156015446)
 
++ [C#全面超越JAVA，主要还是跨平台用的人少](https://blog.csdn.net/xiaoyao961/article/details/156061009)
+
++ [用PyQt打造带动画、碰撞检测和键盘控制的小游戏](https://blog.csdn.net/hh867308122/article/details/156083715)
+

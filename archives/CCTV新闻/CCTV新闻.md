@@ -165,3 +165,9 @@
 
 + [高端访谈丨专访索马里总统马哈茂德](https://people.cctv.com/2025/12/20/ARTIn5MlSeAz3Q6n6FBYnHRy251220.shtml)
 
++ [中方呼吁利比亚各方推进政治统一与全国选举](https://news.cctv.com/2025/12/20/ARTIoLT6iVWojL76kyQCovnL251220.shtml)
+
++ [韩国前总统尹锡悦首次出席“金建希特检组”传唤调查](https://news.cctv.com/2025/12/20/ARTI6kHOq9zu8Kprk6Xd4BqN251220.shtml)
+
++ [“数十万份”爱泼斯坦案文件将公布 美司法部：全部披露尚需数周](https://news.cctv.com/2025/12/20/ARTIXRkPbZxfTVHaS4EeVIUr251220.shtml)
+
