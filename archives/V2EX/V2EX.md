@@ -43,3 +43,15 @@
 
 + [最近有点迷茫过头了，越来越不知所措，求指点迷津。](https://www.v2ex.com/t/1180017)
 
++ [apple 软件质量感觉越来越差劲](https://www.v2ex.com/t/1179996)
+
++ [除夕有哪些地方年味重能看烟花](https://www.v2ex.com/t/1179994)
+
++ [好朋友之间有利益牵扯以后真的就变味了吗](https://www.v2ex.com/t/1180092)
+
++ [Folo 收费后我自己做了一个 RSS 阅读器](https://www.v2ex.com/t/1180004)
+
++ [免费教大家开源 2 天增加 200⭐️的秘诀，有手就会](https://www.v2ex.com/t/1180040)
+
++ [有哪些免费或便宜的 AI API](https://www.v2ex.com/t/1180034)
+
