@@ -201,3 +201,15 @@
 
 + [日本鸣门海峡附近一船只倾覆 事故原因仍在调查](https://news.cctv.com/2025/12/20/ARTIwdtcSWbqgtgMTNis6qNJ251220.shtml)
 
++ [泰军称出动F-16战机摧毁柬方一武器库](https://news.cctv.com/2025/12/20/ARTIZhtMpenQfEl54iSLH85x251220.shtml)
+
++ [日本民众在东京再次举行抗议集会 要求高市早苗立即撤回错误言论 停止制造紧张局势](https://news.cctv.com/2025/12/20/ARTIy3XJU4p7zk5rVFzBLzXt251220.shtml)
+
++ [专访：海南将成为具备全球竞争力的枢纽——访世界自由区组织首席执行官昂鲁尼](https://news.cctv.com/2025/12/20/ARTIxM6PkBGLE0zSmrN5XAm4251220.shtml)
+
++ [巴基斯坦前总理伊姆兰·汗及其妻子被判17年监禁](https://news.cctv.com/2025/12/20/ARTInIiTF6GioqOllt3J2gfm251220.shtml)
+
++ [美国一法院放行马斯克原560亿美元薪酬方案](https://news.cctv.com/2025/12/20/ARTIn9eZwnp1DqA40cWWzOf0251220.shtml)
+
++ [加沙地带卫生部门：本轮冲突已致加沙超24万人死伤](https://news.cctv.com/2025/12/20/ARTIaSc1pkvgBVBZr5ZvfmLU251220.shtml)
+
