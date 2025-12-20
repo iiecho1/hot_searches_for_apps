@@ -125,3 +125,9 @@
 
 + [从vue2和vue3的区别聊起](https://blog.csdn.net/u014360189/article/details/156082505)
 
++ [【自然语言处理】应用02：情感分析：使用循环神经网络](https://blog.csdn.net/Morse_Chen/article/details/156028064)
+
++ [K8S-RBAC2](https://blog.csdn.net/weixin_46683975/article/details/156062445)
+
++ [显示器分辨率？【图文详解】显示器分辨率调整？电脑分辨率设置？](https://blog.csdn.net/2401_87766320/article/details/156064066)
+
