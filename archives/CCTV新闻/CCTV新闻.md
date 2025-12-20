@@ -171,3 +171,17 @@
 
 + [“数十万份”爱泼斯坦案文件将公布 美司法部：全部披露尚需数周](https://news.cctv.com/2025/12/20/ARTIXRkPbZxfTVHaS4EeVIUr251220.shtml)
 
++ [使用超100枚制导导弹 美军公布在叙打击行动详情](https://news.cctv.com/2025/12/20/ARTIOrgPiwfgi7wa87UdbThY251220.shtml)
+
++ [日方申请进美军基地调查污染源　美军：拒绝！](https://news.cctv.com/2025/12/20/ARTIwE8QQRdLBDji3kggeBhJ251220.shtml)
+
++ [“海南自贸港封关，为当地经济注入新活力”](https://news.cctv.com/2025/12/20/ARTIqkQZqR5pFvKULi23eTEz251220.shtml)
+
++ [日本冈山县一农场发生禽流感疫情 约43万只鸡将被扑杀](https://news.cctv.com/2025/12/20/ARTIbXZ7ktm7cSpUyjQZMQ3a251220.shtml)
+
++ [法国卢浮宫员工结束罢工 博物馆恢复对外开放](https://news.cctv.com/2025/12/20/ARTI2mMZsKTofW0SniqcXA8K251220.shtml)
+
++ [今年前三季度欧盟石油进口放缓 挪威美国现为主要供应国](https://news.cctv.com/2025/12/20/ARTIlpFxoWGq3SV3Vol166w6251220.shtml)
+
++ [柬国防部称泰国炸毁柬一民用桥梁 泰方暂无回应](https://news.cctv.com/2025/12/20/ARTIhQN2KikQVOQXmxfDan4m251220.shtml)
+

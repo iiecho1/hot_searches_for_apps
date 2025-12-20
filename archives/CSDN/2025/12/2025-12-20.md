@@ -159,3 +159,15 @@
 
 + [用PyQt打造带动画、碰撞检测和键盘控制的小游戏](https://blog.csdn.net/hh867308122/article/details/156083715)
 
++ [AI智能体：从技术原理到落地实践，重构智能协作新范式](https://blog.csdn.net/2401_86326742/article/details/156067366)
+
++ [【愚公系列】《扣子开发 AI Agent 智能体应用》002-扣子 AI 应用开发平台介绍（扣子的背景与核心特征）](https://blog.csdn.net/aa2528877987/article/details/155893913)
+
++ [【一次线上 MySQL 死锁问题的完整复盘与解析】](https://blog.csdn.net/gjc592/article/details/156085312)
+
++ [EtherCAT分布式时钟](https://blog.csdn.net/flyflyfly12345/article/details/156027195)
+
++ [大促零宕机背后的运维升级：长三角中小跨境电商的架构优化实践](https://blog.csdn.net/weixin_42077774/article/details/156083130)
+
++ [若依微服务全面适配PostgreSQL-OpenGauss数据库](https://blog.csdn.net/qq_42737644/article/details/156082283)
+
