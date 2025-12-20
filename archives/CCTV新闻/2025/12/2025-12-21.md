@@ -163,3 +163,5 @@
 
 + [南非一酒庄发生火灾 百年历史建筑被烧毁](https://news.cctv.com/2025/12/21/ARTI24Iu6qvRNCMhvh9CQWu2251221.shtml)
 
++ [多支伊拉克什叶派民兵组织领导人宣布将限制武装活动](https://news.cctv.com/2025/12/21/ARTIIT66wUjQfeThO5TrYfzB251221.shtml)
+

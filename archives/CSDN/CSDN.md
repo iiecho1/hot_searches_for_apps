@@ -131,3 +131,5 @@
 
 + [显示器分辨率？【图文详解】显示器分辨率调整？电脑分辨率设置？](https://blog.csdn.net/2401_87766320/article/details/156064066)
 
++ [蓝牙开发笔记(BlueTooth,BLE,CH592)](https://blog.csdn.net/chinalihuanyu/article/details/156066441)
+
