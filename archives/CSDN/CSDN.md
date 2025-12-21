@@ -171,3 +171,9 @@
 
 + [智慧医药|基于springboot + vue智慧医药系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/156124108)
 
++ [Java 大视界 -- Java 大数据在智能农业温室环境调控与作物生长模型构建中的应用](https://blog.csdn.net/atgfg/article/details/156118171)
+
++ [从零开始的C语言：文件操作与数据存储（上）（文件的分类，文件的打开和关闭）](https://blog.csdn.net/Frf663927/article/details/156107954)
+
++ [单例模式深度解析：如何确保一个类只有一个实例](https://blog.csdn.net/qq_44378083/article/details/156113801)
+

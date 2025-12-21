@@ -183,3 +183,5 @@
 
 + [美媒：以色列拟告知美方或再次打击伊朗](https://news.cctv.com/2025/12/21/ARTIs0tym8WteJFlpzZCrkxd251221.shtml)
 
++ [印尼塞梅鲁火山喷发 处于三级警戒状态](https://news.cctv.com/2025/12/21/ARTII0XQcoKRhoO3W9gAWa9r251221.shtml)
+
