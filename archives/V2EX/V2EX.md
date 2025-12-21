@@ -43,3 +43,9 @@
 
 + [求推荐-当下最好的 Windows 笔记本居然是二手 MacBook i9？](https://www.v2ex.com/t/1180206)
 
++ [小区被资本做局了](https://www.v2ex.com/t/1180231)
+
++ [我做了一款“断网”也能用的 AI 笔记助手，为了让 Mac 用户免折腾，我借钱充了苹果开发者年费 😂](https://www.v2ex.com/t/1180177)
+
++ [新能源车之实体物理按键](https://www.v2ex.com/t/1180193)
+
