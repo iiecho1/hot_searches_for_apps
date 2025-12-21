@@ -179,3 +179,7 @@
 
 + [美国旧金山市发生大规模停电事故](https://news.cctv.com/2025/12/21/ARTIQcOCsTgRldGQQti3SYEG251221.shtml)
 
++ [日本前首相石破茂：拥核“对日本绝不是一件有利的事情”](https://news.cctv.com/2025/12/21/ARTIZKRe8BiEWIR8NFcp6oxz251221.shtml)
+
++ [美媒：以色列拟告知美方或再次打击伊朗](https://news.cctv.com/2025/12/21/ARTIs0tym8WteJFlpzZCrkxd251221.shtml)
+

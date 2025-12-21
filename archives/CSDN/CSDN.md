@@ -159,3 +159,9 @@
 
 + [Search-R1：用强化学习训练LLM推理并利用搜索引擎](https://blog.csdn.net/shizheng_Li/article/details/156059501)
 
++ [命令行esh在开源鸿蒙PC平台的工程实践](https://blog.csdn.net/qq_34025996/article/details/156068273)
+
++ [跨平台适配：Flutter在鸿蒙生态中的应用](https://blog.csdn.net/m0_58847451/article/details/156066352)
+
++ [人工智能训练师认证教程（4）OpenCV 快速实践](https://blog.csdn.net/chengouzi/article/details/156084606)
+
