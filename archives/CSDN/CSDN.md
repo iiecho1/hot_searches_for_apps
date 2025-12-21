@@ -151,3 +151,11 @@
 
 + [软件解耦与扩展：插件式开发方式（基于 C++ 与 C# 的实现）](https://blog.csdn.net/2503_92624912/article/details/156117079)
 
++ [Bright Data AI Scraper Studio：企业级AI爬虫解决方案，让数据采集更智能](https://blog.csdn.net/qq_54796785/article/details/156066250)
+
++ [Java交易所冷钱包：99.99%的安全率，3个致命漏洞如何被黑客30秒攻破？](https://blog.csdn.net/z_344791576/article/details/151762339)
+
++ [▲16QAM调制软解调+扩频解扩+FFT频偏估计系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/156115091)
+
++ [Search-R1：用强化学习训练LLM推理并利用搜索引擎](https://blog.csdn.net/shizheng_Li/article/details/156059501)
+

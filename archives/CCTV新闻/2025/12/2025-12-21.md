@@ -175,3 +175,7 @@
 
 + [美国再扣油轮 委内瑞拉：盗窃和劫持！](https://news.cctv.com/2025/12/21/ARTI50GVwZQ1QsUgmJfeT9KD251221.shtml)
 
++ [朝中社刊文：必须遏制日本拥核野心](https://news.cctv.com/2025/12/21/ARTIRVh3Yu7oE303xVNE1IHJ251221.shtml)
+
++ [美国旧金山市发生大规模停电事故](https://news.cctv.com/2025/12/21/ARTIQcOCsTgRldGQQti3SYEG251221.shtml)
+
