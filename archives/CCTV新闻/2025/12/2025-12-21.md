@@ -189,3 +189,11 @@
 
 + [美外交人员协会称特朗普正解雇多名拜登任命的驻外大使](https://news.cctv.com/2025/12/21/ARTIAMEli3RCAUJXCFZc4mkL251221.shtml)
 
++ [普京再谈乌克兰总统选举 泽连斯基回应](https://news.cctv.com/2025/12/21/ARTINFiGDXf6UwW30OUzJFRn251221.shtml)
+
++ [日本自民党官员称有必要就“无核三原则”的定位展开讨论](https://news.cctv.com/2025/12/21/ARTIXAA51WltyvjAPAuXMRau251221.shtml)
+
++ [泰国称柬军持续向泰境内开火 柬方暂无回应](https://news.cctv.com/2025/12/21/ARTISOzD4PauTDWDfPFGa9YI251221.shtml)
+
++ [爱泼斯坦案新文件公布 部分内容涉及英国政坛人员](https://news.cctv.com/2025/12/21/ARTIAKpOXBpOIegyzs0z7vQ8251221.shtml)
+

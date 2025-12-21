@@ -189,3 +189,7 @@
 
 + [Vue Router 越写越乱，如何架构设计？](https://blog.csdn.net/qq_36478920/article/details/156118199)
 
++ [大数据时代的分布式基石Hadoop](https://blog.csdn.net/qq_38145499/article/details/156095125)
+
++ [Oracle 迁移选型这件事，我最后为什么偏向了 KES](https://blog.csdn.net/weixin_44976692/article/details/156081279)
+
