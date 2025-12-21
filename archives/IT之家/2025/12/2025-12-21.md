@@ -53,3 +53,21 @@
 
 + [小米 REDMI Note15 系列新春版手机明晚直播见](https://m.ithome.com/html/906389.htm)
 
++ [卢伟冰：小米 17 Ultra 价格会涨得有点多，但一定让大家觉得物超所值](https://m.ithome.com/html/906613.htm)
+
++ [《电脑爱好者》杂志公众号注销、官网无法访问，创刊至今已 32 年](https://m.ithome.com/html/906628.htm)
+
++ [一屏多用：华为 Mate X7 / XTs 非凡大师折叠屏手机“变身”鸿蒙星光盛典智能手卡](https://m.ithome.com/html/906596.htm)
+
++ [卢伟冰：小米 17 Ultra 长焦镜头通过徕卡 APO 认证，成本大约是 15 Ultra 的两倍](https://m.ithome.com/html/906611.htm)
+
++ [小米 17 Ultra 手机标准版外观曝光，消息称特殊版本有小可乐标](https://m.ithome.com/html/906643.htm)
+
++ [长安深蓝汽车获得首块 L3 级自动驾驶正式号牌](https://m.ithome.com/html/906622.htm)
+
++ [大众中国前 CEO 纽曼评小米 SU7 Ultra：拥有卓越公路性能的真正驾驶机器](https://m.ithome.com/html/906624.htm)
+
++ [Steam 客户端重大更新：全面转向 64 位 Win11/10，支持任天堂 Switch 2 控制器](https://m.ithome.com/html/906588.htm)
+
++ [小米 REDMI Note 15 系列手机新春版现身，元旦发售](https://m.ithome.com/html/906609.htm)
+

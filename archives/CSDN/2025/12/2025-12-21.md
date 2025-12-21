@@ -165,3 +165,9 @@
 
 + [人工智能训练师认证教程（4）OpenCV 快速实践](https://blog.csdn.net/chengouzi/article/details/156084606)
 
++ [蓝牙 HFP 客户端音频连接建立机制详解[8]：从请求到链路建立的协议栈协作（btm_sco_conn_req）](https://blog.csdn.net/weixin_37800531/article/details/155892445)
+
++ [数字身份的通行证：深入解析单点登录（SSO）的架构与艺术](https://blog.csdn.net/csdn_silent/article/details/155969105)
+
++ [智慧医药|基于springboot + vue智慧医药系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/156124108)
+
