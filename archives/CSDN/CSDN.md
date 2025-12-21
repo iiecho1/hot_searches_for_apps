@@ -177,3 +177,7 @@
 
 + [单例模式深度解析：如何确保一个类只有一个实例](https://blog.csdn.net/qq_44378083/article/details/156113801)
 
++ [Kibana：使用 ES|QL 构建地图，对国家或地区的指标进行对比](https://blog.csdn.net/UbuntuTouch/article/details/156111567)
+
++ [【Arm】MCU和SOC的区别](https://blog.csdn.net/Emdoor123/article/details/155966564)
+

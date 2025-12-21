@@ -185,3 +185,7 @@
 
 + [印尼塞梅鲁火山喷发 处于三级警戒状态](https://news.cctv.com/2025/12/21/ARTII0XQcoKRhoO3W9gAWa9r251221.shtml)
 
++ [邦迪滩枪击案后 澳总理宣布将对联邦执法和情报机构进行审查](https://news.cctv.com/2025/12/21/ARTI5zdsvbv23Qiqbec6BtvH251221.shtml)
+
++ [美外交人员协会称特朗普正解雇多名拜登任命的驻外大使](https://news.cctv.com/2025/12/21/ARTIAMEli3RCAUJXCFZc4mkL251221.shtml)
+

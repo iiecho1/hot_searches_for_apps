@@ -41,3 +41,5 @@
 
 + [公司有很多项目并行，有什么好的项目管理软件](https://www.v2ex.com/t/1180152)
 
++ [求推荐-当下最好的 Windows 笔记本居然是二手 MacBook i9？](https://www.v2ex.com/t/1180206)
+
