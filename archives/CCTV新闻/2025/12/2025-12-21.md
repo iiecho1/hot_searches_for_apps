@@ -203,3 +203,7 @@
 
 + [骤降4000米 “星链”一颗卫星或爆炸失联](https://news.cctv.com/2025/12/21/ARTIO1OzcyHaayJrL3NZ9MBj251221.shtml)
 
++ [美国签证审查严重拖长 谷歌和苹果建议外籍员工“别出美国”](https://news.cctv.com/2025/12/21/ARTIrQPVHgDCmxYAD28RZRRe251221.shtml)
+
++ [法国总统府：数日内将确定法俄总统对话方式](https://news.cctv.com/2025/12/21/ARTI0rwpSm6EV5Kc0Onm3Qaf251221.shtml)
+

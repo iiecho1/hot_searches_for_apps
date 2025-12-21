@@ -209,3 +209,7 @@
 
 + [【计算几何】仿射变换与齐次矩阵](https://blog.csdn.net/he_zhidan/article/details/156066219)
 
++ [Python中3类目标检测方法详解：从原理到实践](https://blog.csdn.net/qq_42589613/article/details/156114885)
+
++ [Flutter 质量保障体系搭建实战：兼谈开源鸿蒙应用质量管控异同与融合](https://blog.csdn.net/2501_93573639/article/details/156116651)
+
