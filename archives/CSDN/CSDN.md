@@ -197,3 +197,15 @@
 
 + [谷歌安全告警（Chrome 红页）完整处理指南](https://blog.csdn.net/weixin_46211269/article/details/156126915)
 
++ [【AI智能体】N8N 实现热点资讯自动获取并存储mysql数据库实战详解](https://blog.csdn.net/zhangcongyi420/article/details/155988124)
+
++ [【自然语言处理】自然语言处理（NLP）的全景应用：从生活便利到产业革新的全维度渗透](https://blog.csdn.net/2401_84149564/article/details/156096720)
+
++ [【C++ 笔记】从 C 到 C++：核心过渡 （下）](https://blog.csdn.net/hii_echo/article/details/156067651)
+
++ [Linux：库制作与原理（一）](https://blog.csdn.net/2503_91101239/article/details/156110589)
+
++ [【天翼AI-星辰智能体平台】| 基于Excel表实现智能问数助手智能体开发实战](https://blog.csdn.net/m0_58847451/article/details/156130146)
+
++ [【计算几何】仿射变换与齐次矩阵](https://blog.csdn.net/he_zhidan/article/details/156066219)
+
