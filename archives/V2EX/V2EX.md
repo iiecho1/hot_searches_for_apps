@@ -23,3 +23,9 @@
 
 + [小米 15 换 oppo findx9](https://www.v2ex.com/t/1180117)
 
++ [新书 &lt;Learn me a solana&gt; 写完了, 从码字大师复归常人，评论区留下 solana 地址, 我来发纪念币庆祝一下~](https://www.v2ex.com/t/1180199)
+
++ [海南现在对于普通人来说可以有什么便利的地方](https://www.v2ex.com/t/1180126)
+
++ [是我的错觉吗？感觉 Gemini 是个患有健忘症的玩意儿](https://www.v2ex.com/t/1180148)
+

@@ -167,3 +167,11 @@
 
 + [泰柬边境冲突已致19名柬埔寨平民死亡](https://news.cctv.com/2025/12/21/ARTIgJdhUbvEgSKqot9lmtwg251221.shtml)
 
++ [印度一列车撞上象群脱轨 8头野象死伤](https://news.cctv.com/2025/12/21/ARTI72S1ztWDyfYR21htcl2W251221.shtml)
+
++ [美飞行器成功发射 搭载“轮椅使用者”进入太空](https://news.cctv.com/2025/12/21/ARTIBqsWskWleOFR6xWGgNNu251221.shtml)
+
++ [日本青森县附近海域发生5.5级地震](https://news.cctv.com/2025/12/21/ARTI7PxlpYmAKRELmg41R1rW251221.shtml)
+
++ [美国再扣油轮 委内瑞拉：盗窃和劫持！](https://news.cctv.com/2025/12/21/ARTI50GVwZQ1QsUgmJfeT9KD251221.shtml)
+
