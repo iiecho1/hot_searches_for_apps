@@ -161,3 +161,9 @@
 
 + [俄已组建装备新型高超音速中程弹道导弹“榛树”的旅](https://news.cctv.com/2025/12/19/ARTIPY7rlQE1KUwtnInIddnv251219.shtml)
 
++ [美官员称部分公开爱泼斯坦案文件是为保护受害者](https://news.cctv.com/2025/12/22/ARTIJlPEQ34vDInCQPJa68jB251222.shtml)
+
++ [刚果（金）军方称反政府武装未实质撤离乌维拉](https://news.cctv.com/2025/12/22/ARTI5aZJCdMTepvYmMONjf3T251222.shtml)
+
++ [乌代表团与美欧举行系列会议 美特使称“富有成效”](https://news.cctv.com/2025/12/22/ARTIROj0K8Qwb01LjwN5uBJp251222.shtml)
+
