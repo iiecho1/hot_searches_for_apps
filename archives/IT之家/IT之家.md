@@ -25,3 +25,9 @@
 
 + [小米 REDMI Note 15 系列手机新春版现身，元旦发售](https://m.ithome.com/html/906609.htm)
 
++ [厂家直销价 9.9 万元起，新款一汽丰田卡罗拉上市](https://m.ithome.com/html/906686.htm)
+
++ [卢伟冰公布小米 17 Ultra 手机首张样片：烟花色彩鲜明、暗部黑的非常纯净](https://m.ithome.com/html/906634.htm)
+
++ [卢伟冰：小米 17 Ultra 手机处理器 / 相机 / 内存三大件成本上涨非常大，涨价是确定的](https://m.ithome.com/html/906694.htm)
+
