@@ -19,3 +19,9 @@
 
 + [iptv-org/iptv](https://github.com/iptv-org/iptv)
 
++ [pollen-robotics/reachy_mini](https://github.com/pollen-robotics/reachy_mini)
+
++ [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
+
++ [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
