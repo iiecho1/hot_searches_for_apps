@@ -205,3 +205,5 @@
 
 + [柬内政部称一名中国公民在柬泰冲突中受伤](https://news.cctv.com/2025/12/22/ARTIy3D8Qygn672khriIDzzo251222.shtml)
 
++ [苹果公司滥用市场支配地位被意大利罚款超9800万欧元](https://news.cctv.com/2025/12/22/ARTIaShvzFk42AroZwmmviru251222.shtml)
+
