@@ -223,3 +223,5 @@
 
 + [华为中小型企业网络建设](https://blog.csdn.net/cccxcmm/article/details/156059196)
 
++ [放弃Canal后，我们用Flink CDC实现了99.99%的数据一致性](https://blog.csdn.net/qq_26442553/article/details/156136265)
+
