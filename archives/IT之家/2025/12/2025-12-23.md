@@ -31,3 +31,17 @@
 
 + [小米 17 Ultra 手机全新配色「星空绿」亮相：浩瀚星空设计元素，12 月 25 日发布](https://m.ithome.com/html/906832.htm)
 
++ [卢伟冰首秀小米 17 Ultra 真机：小米史上最薄的 Ultra，四款配色公开](https://m.ithome.com/html/907007.htm)
+
++ [华为 nova 15 / Pro / Ultra 系列手机发布：2699 元起、红枫影像，配置一文看懂](https://m.ithome.com/html/906990.htm)
+
++ [华为 nova 15 Pro / Ultra 手机发布：麒麟 9010S、首发前后双红枫影像系统，3499 元起](https://m.ithome.com/html/906953.htm)
+
++ [小米手表 5 官宣 12 月 25 日发布：搭载 EMG 肌电信号传感器、ECG 心电传感器](https://m.ithome.com/html/906866.htm)
+
++ [B站发布关于“萝卜陈震同学”账号封禁说明：坚决维护公平税收秩序](https://m.ithome.com/html/906989.htm)
+
++ [九号新国标电动自行车 Fz1/ Fz3 发布：首发 2999 元起，购车即送头盔](https://m.ithome.com/html/907049.htm)
+
++ [华为公布鸿蒙 HarmonyOS 6 最新升级计划，畅享 70X、MatePad Edge 等即将适配](https://m.ithome.com/html/906974.htm)
+
