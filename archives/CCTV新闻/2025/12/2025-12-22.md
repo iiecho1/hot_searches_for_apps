@@ -175,3 +175,9 @@
 
 + [韩国国会成立济州航空空难调查委员会](https://news.cctv.com/2025/12/22/ARTIpszONv1jzGt5zMH4JokU251222.shtml)
 
++ [马来西亚高等法院驳回前总理居家监禁申请](https://news.cctv.com/2025/12/22/ARTIKS5OiwZkW5HUT3tNTIiu251222.shtml)
+
++ [日本最大核电站将重启](https://news.cctv.com/2025/12/22/ARTIowD9MrJwHLDrW3C38YtE251222.shtml)
+
++ [日本H3火箭8号机发射任务失败 卫星未进入预定轨道](https://news.cctv.com/2025/12/22/ARTIeK0PxfFO9eDiVr6AjkSl251222.shtml)
+

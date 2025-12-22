@@ -169,3 +169,9 @@
 
 + [对比kotlin和flutter中的异步编程](https://blog.csdn.net/Goals1989/article/details/156089544)
 
++ [AI Agent（智能体）简介](https://blog.csdn.net/LXWalaz1s1s/article/details/156118120)
+
++ [[C#][winform]基于yolov11的齿轮缺陷检测系统C#源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/156127695)
+
++ [SpringBoot+Elasticsearch实现高效全文搜索](https://blog.csdn.net/sjkflw121150/article/details/156083609)
+

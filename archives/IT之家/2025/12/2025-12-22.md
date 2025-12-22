@@ -45,3 +45,17 @@
 
 + [全国首个鸿蒙智慧水质净化厂全面投入运营](https://m.ithome.com/html/906667.htm)
 
++ [罗永浩：上海电信宽带网速问题已解决，新微信会屏蔽所有“朋友”媒体人](https://m.ithome.com/html/906773.htm)
+
++ [公牛回应“10 户中国家庭，7 户用公牛”宣传语争议：有调研支撑并已标注](https://m.ithome.com/html/906767.htm)
+
++ [全球首个鸿蒙座舱燃油车，东风日产天籁・鸿蒙座舱上市首月订单破万](https://m.ithome.com/html/906760.htm)
+
++ [Epic 连续喜加一第 5 弹：《抱歉我们打烊了》限时免费领](https://m.ithome.com/html/906782.htm)
+
++ [卢伟冰官宣小米 17 Ultra“明天见”，新机已定档本周发布](https://m.ithome.com/html/906790.htm)
+
++ [小米 17 Ultra 手机官宣 12 月 25 日发布：长焦“颠覆性创新”，夜景画质“大跨越”](https://m.ithome.com/html/906809.htm)
+
++ [全国首块 L3 级自动驾驶专用正式号牌“渝 AD0001Z”颁发，长安汽车上路实测视频公布](https://m.ithome.com/html/906776.htm)
+
