@@ -213,3 +213,11 @@
 
 + [【Geek渗透之路】小迪安全笔记——web安全（3）](https://blog.csdn.net/m0_64903413/article/details/156130719)
 
++ [超越软件极限：用InfiniBand RDMA重构高性能网络传输](https://blog.csdn.net/eidolon_foot/article/details/156150121)
+
++ [2025年12月21日京东云鼎入鼎最新规则技术性解读](https://blog.csdn.net/sixpp/article/details/156121802)
+
++ [VUE笔记（一）：Vue3中ref与reactive区别](https://blog.csdn.net/2403_87976193/article/details/156153629)
+
++ [Flutter 与开源鸿蒙（OpenHarmony）上架华为应用市场全流程指南：从合规检测到审核通过](https://blog.csdn.net/2501_94551709/article/details/156125310)
+
