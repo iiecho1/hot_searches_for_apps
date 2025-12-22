@@ -163,3 +163,11 @@
 
 + [哈萨克斯坦引入技术算法强化校园欺凌治理](https://news.cctv.com/2025/12/23/ARTI1IGA410NAMW9qSqChqD4251222.shtml)
 
++ [委内瑞拉向安理会提交公报 谴责美国“海盗行径”](https://news.cctv.com/2025/12/23/ARTI5ik6zguFYZUYxn1RDvv6251223.shtml)
+
++ [丹麦国防大臣：美应尊重丹麦主权与格陵兰岛地位](https://news.cctv.com/2025/12/23/ARTIGaDEslpakBZw2KcuHfWj251223.shtml)
+
++ [荷兰发生汽车冲撞人群事件 造成9人受伤](https://news.cctv.com/2025/12/23/ARTIBQbX5aQPQoLRSoKV4Fy1251223.shtml)
+
++ [我使馆再次提醒靠近柬泰边境的中国公民加强安全防范](https://news.cctv.com/2025/12/23/ARTIo3jfGOUYqDEvSQIXKTX2251223.shtml)
+
