@@ -31,3 +31,17 @@
 
 + [卢伟冰：小米 17 Ultra 手机处理器 / 相机 / 内存三大件成本上涨非常大，涨价是确定的](https://m.ithome.com/html/906694.htm)
 
++ [比亚迪王朝“饭票”曝光，可吃四菜一汤](https://m.ithome.com/html/906649.htm)
+
++ [无需订阅直接使用：华为鸿蒙 HarmonyOS 6.0 高精度定位服务 12 月底陆续上线](https://m.ithome.com/html/906719.htm)
+
++ [17 Ultra 将至：小米 15 Ultra 16+512G 6999 → 5169 元 24 期免息赠 399 元摄影套装](https://m.ithome.com/html/906717.htm)
+
++ [华为鸿蒙系统开发者人数突破 1000 万，用户日均下载、更新应用超 8800 万次](https://m.ithome.com/html/906693.htm)
+
++ [广汽丰田全新雷凌 L 上市：多种动力版本，12.98 万元起](https://m.ithome.com/html/906743.htm)
+
++ [白色灵动岛：消息称努比亚手机也将“上岛”，可自行选择开关](https://m.ithome.com/html/906639.htm)
+
++ [全国首个鸿蒙智慧水质净化厂全面投入运营](https://m.ithome.com/html/906667.htm)
+

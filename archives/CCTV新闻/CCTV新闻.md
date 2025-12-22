@@ -167,3 +167,5 @@
 
 + [乌代表团与美欧举行系列会议 美特使称“富有成效”](https://news.cctv.com/2025/12/22/ARTIROj0K8Qwb01LjwN5uBJp251222.shtml)
 
++ [以色列外长：只有哈马斯解除武装 加沙才能重建](https://news.cctv.com/2025/12/22/ARTIp4FsYrCEuFKYgr8nfcVX251222.shtml)
+
