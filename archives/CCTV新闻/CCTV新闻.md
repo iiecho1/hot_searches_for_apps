@@ -161,3 +161,5 @@
 
 + [泽连斯基：美一开始就没答应乌加入北约](https://news.cctv.com/2025/12/19/ARTIylSRbpedwDAPYkgByTHo251219.shtml)
 
++ [哈萨克斯坦引入技术算法强化校园欺凌治理](https://news.cctv.com/2025/12/23/ARTI1IGA410NAMW9qSqChqD4251222.shtml)
+
