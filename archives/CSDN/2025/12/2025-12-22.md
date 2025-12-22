@@ -159,3 +159,13 @@
 
 + [从 15 秒到 100 毫秒：SQL 运行效率提升的「分层优化方法论」](https://blog.csdn.net/Yunyi_Chi/article/details/156068952)
 
++ [【TextIn大模型加速器 + 火山引擎】基于 TextIn 与火山引擎豆包大模型的智能文档解析工作流构建与实践](https://blog.csdn.net/2301_80863610/article/details/156113086)
+
++ [【unity游戏开发——网络】unity对接steam，并上传发布游戏版本——Steamworks.NET](https://blog.csdn.net/qq_36303853/article/details/156061434)
+
++ [Oracle迁移至金仓数据库：PL/SQL匿名块执行失败的深度排查指南](https://blog.csdn.net/beautifulmemory/article/details/156114853)
+
++ [distcc结合VSCode实现分布式编译的全面指南](https://blog.csdn.net/QAZ600888/article/details/156113068)
+
++ [对比kotlin和flutter中的异步编程](https://blog.csdn.net/Goals1989/article/details/156089544)
+
