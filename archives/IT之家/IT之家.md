@@ -25,3 +25,9 @@
 
 + [全国首块 L3 级自动驾驶专用正式号牌“渝 AD0001Z”颁发，长安汽车上路实测视频公布](https://m.ithome.com/html/906776.htm)
 
++ [荣耀 WIN 全系搭载 10000mAh 电池](https://m.ithome.com/html/906820.htm)
+
++ [小米最惊艳的 Ultra：小米 17 Ultra 新配色「星空绿」融入矿石颗粒，配备超大 R 角 2D 直屏](https://m.ithome.com/html/906857.htm)
+
++ [小米 17 Ultra 手机全新配色「星空绿」亮相：浩瀚星空设计元素，12 月 25 日发布](https://m.ithome.com/html/906832.htm)
+
