@@ -199,3 +199,17 @@
 
 + [【网络协议】HTTPS相关知识详细梳理](https://blog.csdn.net/fulufulucode/article/details/156133980)
 
++ [Spring 的10个核心能力，对框架开发的启示](https://blog.csdn.net/z275598733/article/details/156134107)
+
++ [Redis背景知识](https://blog.csdn.net/nplplus/article/details/156135700)
+
++ [【原创实践】使用 Docker 部署 IntelliJ IDEA（linuxserver/intellij-idea）完整指南](https://blog.csdn.net/weixin_46244623/article/details/156113707)
+
++ [【深入理解SpringCloud微服务】Gateway简介与模拟Gateway手写一个微服务网关](https://blog.csdn.net/weixin_43889578/article/details/139027358)
+
++ [redis 发布订阅功能](https://blog.csdn.net/wt20050610/article/details/156095563)
+
++ [在 PyCharm 中配置 x64 Native Tools Command Prompt for VS 2022 作为默认终端](https://blog.csdn.net/u014451778/article/details/156135527)
+
++ [【Geek渗透之路】小迪安全笔记——web安全（3）](https://blog.csdn.net/m0_64903413/article/details/156130719)
+
