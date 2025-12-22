@@ -135,3 +135,5 @@
 
 + [机器学习--逻辑回归相关案例](https://blog.csdn.net/2301_77717128/article/details/156126255)
 
++ [Flutter 视频播放全攻略：video_player 2.10.1 插件全平台集成与实战](https://blog.csdn.net/2501_93396617/article/details/156112918)
+
