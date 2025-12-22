@@ -133,3 +133,17 @@
 
 + [Flink源码阅读：Checkpoint机制（上）](https://blog.csdn.net/K_Ohaha/article/details/156117007)
 
++ [Dify 知识库构建实战指南](https://blog.csdn.net/Mrxiao_bo/article/details/156135717)
+
++ [【HFP Client】音频连接建立机制详解[8]：从请求到链路建立的协议栈协作（btm_sco_conn_req）](https://blog.csdn.net/weixin_37800531/article/details/155892445)
+
++ [【AI应用】Tbox神仙用法，一句话描述创作效果还不错的应用，随机菜单生成开发，一起来看看是如何通过多智能体协同开发](https://blog.csdn.net/lmy_520/article/details/156126879)
+
++ [Windows平台下pgAdmin4连接遇401 Unauthorized异常，两种有效解决途径大揭秘](https://blog.csdn.net/yelangkingwuzuhu/article/details/156129733)
+
++ [大模型应用：向量与元数据联动：解锁向量数据库复合查询的核心能力.30](https://blog.csdn.net/minhuan/article/details/156115463)
+
++ [为什么在 Vue 3 中 uni.createCanvasContext 画不出图？](https://blog.csdn.net/2301_81253185/article/details/156131527)
+
++ [跨平台游戏引擎 Axmol-2.11.0 发布](https://blog.csdn.net/xyzzf/article/details/156107278)
+
