@@ -171,3 +171,7 @@
 
 + [日本H3火箭在飞行途中第二级发动机燃烧提前停止](https://news.cctv.com/2025/12/22/ARTI3cUqbWhXyUBR8lPbXASP251222.shtml)
 
++ [巴基斯坦指责印度“将水资源武器化”，印方尚未回应](https://news.cctv.com/2025/12/22/ARTIrVZpRJFZ0vSCF0eobVMF251222.shtml)
+
++ [韩国国会成立济州航空空难调查委员会](https://news.cctv.com/2025/12/22/ARTIpszONv1jzGt5zMH4JokU251222.shtml)
+

@@ -147,3 +147,15 @@
 
 + [跨平台游戏引擎 Axmol-2.11.0 发布](https://blog.csdn.net/xyzzf/article/details/156107278)
 
++ [【自然语言处理】应用03：情感分析：使用卷积神经网络](https://blog.csdn.net/Morse_Chen/article/details/156134731)
+
++ [【愚公系列】《扣子开发 AI Agent 智能体应用》006-扣子 AI 应用开发平台介绍（扣子快速开发人门）](https://blog.csdn.net/aa2528877987/article/details/155894133)
+
++ [50天50个小项目 (React19 + Tailwindcss V4) ✨ | DrawingApp（画板组件）](https://blog.csdn.net/WOMENshiNIDE/article/details/156116288)
+
++ [中间件及框架漏洞详解（Nginx、Apache、Tomcat、Redis、Zookeeper、RabbitMQ、Kafka等）](https://blog.csdn.net/2302_79433723/article/details/156085659)
+
++ [五台腾讯云轻量服务器高可用架构方案（宝塔面板+宝塔WAF）](https://blog.csdn.net/qq_33599520/article/details/156136658)
+
++ [从 15 秒到 100 毫秒：SQL 运行效率提升的「分层优化方法论」](https://blog.csdn.net/Yunyi_Chi/article/details/156068952)
+
