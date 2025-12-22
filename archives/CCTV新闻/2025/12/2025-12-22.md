@@ -195,3 +195,13 @@
 
 + [中老铁路开通运营满四年——“黄金大通道”释放沿线发展潜能](https://news.cctv.com/2025/12/22/ARTIswTvKFvzf6CpHQmNiSiD251222.shtml)
 
++ [泰国外长：泰柬将于12月24日举行会谈 讨论停火细节](https://news.cctv.com/2025/12/22/ARTIeXpWvORxNW0e4KqaqCJg251222.shtml)
+
++ [俄苏-57战机换装第五代发动机后首飞成功](https://military.cctv.com/2025/12/22/ARTIqtAxkN2NlodGEAflwnty251222.shtml)
+
++ [印度航空一客机因发动机故障返航 无人员伤亡](https://news.cctv.com/2025/12/22/ARTIjt42XcfvukwWq9G7o5ph251222.shtml)
+
++ [柬内政部称一名中国公民在柬泰冲突中受伤](https://news.cctv.com/2025/12/22/ARTIZ14VPahSpYbqKn7DQYad251222.shtml)
+
++ [柬内政部称一名中国公民在柬泰冲突中受伤](https://news.cctv.com/2025/12/22/ARTIy3D8Qygn672khriIDzzo251222.shtml)
+

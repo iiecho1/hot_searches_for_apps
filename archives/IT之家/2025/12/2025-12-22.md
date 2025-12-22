@@ -65,3 +65,5 @@
 
 + [小米 17 Ultra 手机全新配色「星空绿」亮相：浩瀚星空设计元素，12 月 25 日发布](https://m.ithome.com/html/906832.htm)
 
++ [小米手表 5 官宣 12 月 25 日发布：搭载 EMG 肌电信号传感器、ECG 心电传感器](https://m.ithome.com/html/906866.htm)
+
