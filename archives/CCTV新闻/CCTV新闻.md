@@ -191,3 +191,7 @@
 
 + [线上考试疑用AI 韩国高校再曝集体作弊丑闻](https://news.cctv.com/2025/12/22/ARTIsI1yihvh8okMVmM40D4X251222.shtml)
 
++ [越南留学生阮氏水仙：“指尖生花”传递越中情缘](https://news.cctv.com/2025/12/22/ARTImXvH5oKSRVvCsHixu4Kh251222.shtml)
+
++ [中老铁路开通运营满四年——“黄金大通道”释放沿线发展潜能](https://news.cctv.com/2025/12/22/ARTIswTvKFvzf6CpHQmNiSiD251222.shtml)
+
