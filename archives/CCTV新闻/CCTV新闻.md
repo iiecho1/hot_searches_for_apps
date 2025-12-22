@@ -181,3 +181,13 @@
 
 + [日本H3火箭8号机发射任务失败 卫星未进入预定轨道](https://news.cctv.com/2025/12/22/ARTIeK0PxfFO9eDiVr6AjkSl251222.shtml)
 
++ [特朗普换大使细节披露：涉及全球近30国 均拜登时期上任](https://news.cctv.com/2025/12/22/ARTIU81kJLKk2ez0SFY76R2o251222.shtml)
+
++ [柬埔寨内政部：柬泰冲突已致20名柬平民死亡](https://news.cctv.com/2025/12/22/ARTIWlBoQoCOawnh9H4RzFrM251222.shtml)
+
++ [澳大利亚海滩枪击案嫌疑人曾在袭击前练习枪械使用](https://news.cctv.com/2025/12/22/ARTIUjY0ldjYeFYfXOIoU6I0251222.shtml)
+
++ [美称今年已遣返超62万“非法移民”](https://news.cctv.com/2025/12/22/ARTIfvenmc2oJiNhXToQcQ8r251222.shtml)
+
++ [线上考试疑用AI 韩国高校再曝集体作弊丑闻](https://news.cctv.com/2025/12/22/ARTIsI1yihvh8okMVmM40D4X251222.shtml)
+

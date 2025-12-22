@@ -175,3 +175,11 @@
 
 + [SpringBoot+Elasticsearch实现高效全文搜索](https://blog.csdn.net/sjkflw121150/article/details/156083609)
 
++ [AI时代决胜关键：Bright Data企业级爬虫，让合规数据成为增长引擎](https://blog.csdn.net/2301_81152266/article/details/156132792)
+
++ [国产数据库迁移选型：金仓 vs 达梦，PL/SQL 兼容与多源统一底座怎么选？](https://blog.csdn.net/g310773517/article/details/156114668)
+
++ [智慧医药|基于springboot + vue智慧医药系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/156124108)
+
++ [Transformer实战（32）——Transformer模型压缩](https://blog.csdn.net/LOVEmy134611/article/details/147959926)
+
