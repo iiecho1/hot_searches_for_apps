@@ -197,3 +197,7 @@
 
 + [轻量高效的HTTP/HTTPS代理：SSL拦截与流量管控核心解析](https://blog.csdn.net/chen1415886044/article/details/156167976)
 
++ [Cloudera CDH5|CDH6|CDP7.1.7|CDP7.3|CMP 7.3的产品优势分析（在华为鲲鹏 ARM 麒麟KylinOS、统信UOS）](https://blog.csdn.net/yumgpkpm/article/details/156146315)
+
++ [Linux部署Nginx前后端web教程](https://blog.csdn.net/2301_76830515/article/details/156150710)
+

@@ -35,3 +35,19 @@
 
 + [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
 
++ [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
+
++ [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
+
++ [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure)
+
++ [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
++ [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+
++ [makeplane/plane](https://github.com/makeplane/plane)
+
++ [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
+
++ [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
+
