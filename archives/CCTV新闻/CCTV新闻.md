@@ -169,3 +169,5 @@
 
 + [美国对格陵兰岛动作不断 北欧三国声援丹麦](https://news.cctv.com/2025/12/24/ARTIRjlxNjL2VILLxhi92ctc251224.shtml)
 
++ [美总统要造大型新战舰？美舆论泼冷水](https://news.cctv.com/2025/12/24/ARTIM5Csa4FfOIFaX5bioLMI251224.shtml)
+

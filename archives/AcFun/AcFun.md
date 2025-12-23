@@ -67,3 +67,5 @@
 
 + [建议把X-47挖出来吧「智械黎明：美国协同无人机概述」](https://m.acfun.cn/v/?ac=48123474)
 
++ [shake it](https://m.acfun.cn/v/?ac=48125935)
+
