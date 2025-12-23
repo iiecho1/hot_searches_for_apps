@@ -213,3 +213,7 @@
 
 + [日本首相官邸高官扬言“日本拥核论”　引发多方批评](https://news.cctv.com/2025/12/23/ARTIcOtseuiOYUGiel8Boe1T251223.shtml)
 
++ [日本发生含放射性水泄漏事件 作业人员是否遭辐射仍在调查中](https://news.cctv.com/2025/12/23/ARTIDOBrVvgUzoaChT6KQKzW251223.shtml)
+
++ [十年携手，中伊战略伙伴关系再续新篇](https://news.cctv.com/2025/12/23/ARTIUe24FZzXaBQjLJUTcarz251223.shtml)
+

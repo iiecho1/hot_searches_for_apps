@@ -201,3 +201,7 @@
 
 + [Linux部署Nginx前后端web教程](https://blog.csdn.net/2301_76830515/article/details/156150710)
 
++ [基于python的旅游景点推荐系统_flask+spider](https://blog.csdn.net/shmp54/article/details/156168960)
+
++ [docker作业](https://blog.csdn.net/weixin_72487594/article/details/156163274)
+
