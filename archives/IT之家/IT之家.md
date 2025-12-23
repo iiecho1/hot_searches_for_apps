@@ -39,3 +39,17 @@
 
 + [今晚国内油价下调：加满一箱 92 号汽油将少花 6.5 元，2025 年“7 涨 12 降 6 搁浅”收官](https://m.ithome.com/html/907020.htm)
 
++ [雷军详解小米 17 Ultra 徕卡 2 亿像素光学变焦，称与相机变焦镜头技术原理一脉相承](https://m.ithome.com/html/907153.htm)
+
++ [追觅进军路由器市场，首款产品 12 月 25 日发布](https://m.ithome.com/html/907385.htm)
+
++ [小米给员工发 YU7 定制车模，印有名字和工号](https://m.ithome.com/html/907355.htm)
+
++ [小米 17 Ultra 手机首发徕卡 2 亿像素光学变焦：行业首获徕卡 APO 光学认证，非“数码裁切”](https://m.ithome.com/html/907124.htm)
+
++ [微信鸿蒙版 App 获 8.0.14.16 邀测升级，消息称预埋有新功能](https://m.ithome.com/html/907106.htm)
+
++ [罗永浩时隔 7 年重启“科技春晚”，12 月 30 日“年度科技创新分享大会”最高千元门票“秒售罄”](https://m.ithome.com/html/907348.htm)
+
++ [苹果向 iPhone XS Max、iPad 7 等推送 iOS / iPadOS 18.7.3 更新](https://m.ithome.com/html/907101.htm)
+
