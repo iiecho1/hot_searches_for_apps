@@ -163,3 +163,5 @@
 
 + [日本发生核反应堆含放射性水泄漏事件](https://news.cctv.com/2025/12/24/ARTIWr69dlVn0TKHvyrSrL04251224.shtml)
 
++ [公然鼓吹“拥核” 日本到底想干什么？](https://news.cctv.com/2025/12/24/ARTImiKlzfE8h7GRoQbdu6OV251224.shtml)
+

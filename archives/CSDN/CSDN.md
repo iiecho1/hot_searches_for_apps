@@ -101,3 +101,31 @@
 
 + [使用 PowerShell Invoke-WebRequest 配合代理的完整指南](https://blog.csdn.net/Data_Journal/article/details/156167935)
 
++ [Java 大视界 -- 438 台物联网设备时序数据难题破解：Java+Redis+HBase+Kafka 实战全解析（查询延迟 18ms）(438)](https://blog.csdn.net/atgfg/article/details/156169479)
+
++ [深度解析金仓数据库MongoDB兼容能力：架构、性能与高可用实践](https://blog.csdn.net/lrq13965748542/article/details/156169024)
+
++ [【AI应用】Tbox神仙用法，一句话描述创作效果还不错的应用，随机菜单生成开发，一起来看看是如何通过多智能体协同开发](https://blog.csdn.net/lmy_520/article/details/156126879)
+
++ [Spring三种注入方式对比](https://blog.csdn.net/weixin_57923328/article/details/155914393)
+
++ [openGauss 核心体系架构深度解析](https://blog.csdn.net/2401_83830408/article/details/156204566)
+
++ [Vue.observable实现vue原生轻量级状态管理详解](https://blog.csdn.net/kirinlau/article/details/156152268)
+
++ [2025.12.21 学习web前必要知识点梳理](https://blog.csdn.net/jgyzl/article/details/156132878)
+
++ [GitHub 热榜项目 - 日榜(2025-12-23)](https://blog.csdn.net/u014390502/article/details/156184896)
+
++ [基于springboot + vue在线教育系统(](https://blog.csdn.net/2511_94195205/article/details/156143048)
+
++ [【论文阅读】LoRA: Low-Rank Adaptation of Large Language Models](https://blog.csdn.net/m0_52049033/article/details/156150524)
+
++ [应用层协议HTTP](https://blog.csdn.net/2302_80061080/article/details/155988643)
+
++ [Flutter 鸿蒙项目 Android Studio 点击 Run 失败 ohpm 缺失](https://blog.csdn.net/nanxuan521/article/details/156151610)
+
++ [FPGA教程系列-Vivado AXI4-Lite接口](https://blog.csdn.net/fantasygwh2015/article/details/156158351)
+
++ [第一篇 VUE3的介绍以及搭建自己的VUE项目](https://blog.csdn.net/m0_66130067/article/details/156163540)
+
