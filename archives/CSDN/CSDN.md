@@ -141,3 +141,9 @@
 
 + [计算机网络综合实验：中小型企业网络组网与配置仿真实验](https://blog.csdn.net/wusam/article/details/156113585)
 
++ [在家搭个私人云音乐库？用 Docker+cpolar 随时随地听歌](https://blog.csdn.net/2301_80863610/article/details/156106684)
+
++ [Prometheus+Grafana+Alertmanager：云原生部署的 K8s 集群监控架构方案](https://blog.csdn.net/shjwkzkzk/article/details/155966051)
+
++ [基于MATLAB与Simulink的汽车制动力分配仿真探索](https://blog.csdn.net/2504_94288833/article/details/156132816)
+

@@ -33,3 +33,5 @@
 
 + [mudler/LocalAI](https://github.com/mudler/LocalAI)
 
++ [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
+

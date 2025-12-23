@@ -171,3 +171,13 @@
 
 + [我使馆再次提醒靠近柬泰边境的中国公民加强安全防范](https://news.cctv.com/2025/12/23/ARTIo3jfGOUYqDEvSQIXKTX2251223.shtml)
 
++ [加拿大强烈谴责以色列批准在约旦河西岸新建定居点的决定](https://news.cctv.com/2025/12/23/ARTICrVyxt6O8euIulHu5jWP251223.shtml)
+
++ [维也纳：节日氛围浓](https://photo.cctv.com/2025/12/23/PHOAbBde4iLBatdpmZQtec8N251223.shtml)
+
++ [特朗普：美国还将增加航空母舰数量](https://news.cctv.com/2025/12/23/ARTIO32yDDsuEZBWFy0LQ4jh251223.shtml)
+
++ [马杜罗致信多国元首谴责美国把能源当作“政治胁迫工具”](https://news.cctv.com/2025/12/23/ARTI93JQfnvVjV3Yp65cfZx2251223.shtml)
+
++ [一中国公民受柬泰边境冲突炮火波及，受轻微伤](https://news.cctv.com/2025/12/23/ARTI2VEoGuWsdm4fbAOQCtMk251223.shtml)
+
