@@ -187,3 +187,13 @@
 
 + [Spring Boot AOP （四）与事务、异常处理交互](https://blog.csdn.net/qq_61654952/article/details/156199135)
 
++ [C#屏幕录制源码 C#屏幕监控功能实现 如何使用C#快速实现监控屏幕的功能 C#实现屏幕录像源码 自动分段保存 C#录屏后自动保存MP4源码](https://blog.csdn.net/oSenLin123456/article/details/156163951)
+
++ [手势识别实现人机交互](https://blog.csdn.net/weixin_46302044/article/details/156115669)
+
++ [SpringBoot版本升级插件：用OpenRewrite 轻松升级 Spring Boot 2 到 4](https://blog.csdn.net/bhl120/article/details/156168908)
+
++ [系统核心解析：深入链接与装载机制——动静态库全揭秘：从ELF格式解析到虚拟内存布局](https://blog.csdn.net/2401_82924480/article/details/155284031)
+
++ [轻量高效的HTTP/HTTPS代理：SSL拦截与流量管控核心解析](https://blog.csdn.net/chen1415886044/article/details/156167976)
+
