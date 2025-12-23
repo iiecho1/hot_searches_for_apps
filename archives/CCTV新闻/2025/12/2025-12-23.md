@@ -197,3 +197,7 @@
 
 + [刚中合作持续走深走实——访刚果（金）副总理桑巴](https://news.cctv.com/2025/12/23/ARTI2yJRMfLKglikhejvfTn8251223.shtml)
 
++ [韩法院就前总统尹锡悦涉嫌叛国等进行拘留前审查](https://news.cctv.com/2025/12/23/ARTIZHZ7XD2NSw8iZqDxtz3q251223.shtml)
+
++ [纽约：迎新年 气氛浓](https://photo.cctv.com/2025/12/23/PHOA0suQf1KBfj3Gg3oYGcUs251223.shtml)
+
