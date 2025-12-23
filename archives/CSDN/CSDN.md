@@ -137,3 +137,7 @@
 
 + [Flutter 视频播放全攻略：video_player 2.10.1 插件全平台集成与实战](https://blog.csdn.net/2501_93396617/article/details/156112918)
 
++ [从零到一构建企业级私有化语音转写系统：一次部署，终身自主的技术革命](https://blog.csdn.net/weixin_44976692/article/details/156148973)
+
++ [计算机网络综合实验：中小型企业网络组网与配置仿真实验](https://blog.csdn.net/wusam/article/details/156113585)
+
