@@ -215,3 +215,9 @@
 
 + [GitHub 一周热门项目速览 | 2025年12月22日](https://blog.csdn.net/u011064099/article/details/156151069)
 
++ [量子世界与不二法门：当期权交易遇见佛法智慧](https://blog.csdn.net/eidolon_foot/article/details/156192310)
+
++ [使用 PowerShell Invoke-WebRequest 配合代理的完整指南](https://blog.csdn.net/Data_Journal/article/details/156167935)
+
++ [Deskflow 是一个开源的跨平台工具，用于在多台计算机之间共享鼠标和键盘。它允许用户通过一套键鼠控制多台电脑，就像操作单台机器一样流畅。](https://blog.csdn.net/skywalk8163/article/details/156132807)
+

@@ -139,3 +139,7 @@
 
 + [【原创编舞】雪初音2024主题曲《ハッピーチートデー/happy cheat day》れるりり fe](https://m.acfun.cn/v/?ac=48125468)
 
++ [炉石传说：【天天素材库】 第393期](https://m.acfun.cn/v/?ac=48124131)
+
++ [Vlog♡杭州休假记：和闺蜜吃吃逛逛の约会日常](https://m.acfun.cn/v/?ac=48125463)
+
