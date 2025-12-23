@@ -183,3 +183,7 @@
 
 + [系统分析师：软件需求工程的需求定义、需求验证和需求管理](https://blog.csdn.net/g984160547/article/details/156190914)
 
++ [6G+AI=？6G与AI融合会带来什么？](https://blog.csdn.net/qq_44866828/article/details/156148174)
+
++ [Spring Boot AOP （四）与事务、异常处理交互](https://blog.csdn.net/qq_61654952/article/details/156199135)
+

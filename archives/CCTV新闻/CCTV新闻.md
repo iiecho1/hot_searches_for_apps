@@ -207,3 +207,9 @@
 
 + [哥伦比亚宣布进入30天“经济和社会紧急状态”](https://news.cctv.com/2025/12/23/ARTIi41rBiAZAZgHwp5NBjZ5251223.shtml)
 
++ [记者手记｜美国圣诞季遭遇“价签冲击”](https://news.cctv.com/2025/12/23/ARTI4bpJzG9IogjjUOihAZED251223.shtml)
+
++ [日本侵华罪行不容辩驳——日本历史学者谈苏联审讯日本731部队的解密档案](https://news.cctv.com/2025/12/23/ARTI9CF9qjGgxT8TXSpaRqxG251223.shtml)
+
++ [日本首相官邸高官扬言“日本拥核论”　引发多方批评](https://news.cctv.com/2025/12/23/ARTIcOtseuiOYUGiel8Boe1T251223.shtml)
+
