@@ -201,3 +201,9 @@
 
 + [纽约：迎新年 气氛浓](https://photo.cctv.com/2025/12/23/PHOA0suQf1KBfj3Gg3oYGcUs251223.shtml)
 
++ [德国荷兰同日发生汽车冲撞事件 十余人受伤](https://news.cctv.com/2025/12/23/ARTIIcR2qNVNCixG5op86IAW251223.shtml)
+
++ [与马克龙“交锋” 特朗普夸耀“战绩”](https://news.cctv.com/2025/12/23/ARTIewhY2UY4CZgtara77aLg251223.shtml)
+
++ [哥伦比亚宣布进入30天“经济和社会紧急状态”](https://news.cctv.com/2025/12/23/ARTIi41rBiAZAZgHwp5NBjZ5251223.shtml)
+
