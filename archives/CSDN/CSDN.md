@@ -129,3 +129,7 @@
 
 + [第一篇 VUE3的介绍以及搭建自己的VUE项目](https://blog.csdn.net/m0_66130067/article/details/156163540)
 
++ [整体设计 定稿 之9 最后收束 app.py： 应用项目的结构及其模型和框架 （豆包助手）](https://blog.csdn.net/ChuanfangChen/article/details/156141478)
+
++ [Deskflow 是一个开源的跨平台工具，用于在多台计算机之间共享鼠标和键盘。它允许用户通过一套键鼠控制多台电脑，就像操作单台机器一样流畅。](https://blog.csdn.net/skywalk8163/article/details/156132807)
+
