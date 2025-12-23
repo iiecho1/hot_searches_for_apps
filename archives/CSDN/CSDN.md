@@ -133,3 +133,7 @@
 
 + [Deskflow 是一个开源的跨平台工具，用于在多台计算机之间共享鼠标和键盘。它允许用户通过一套键鼠控制多台电脑，就像操作单台机器一样流畅。](https://blog.csdn.net/skywalk8163/article/details/156132807)
 
++ [蓝牙PAN精讲[9]：L2CAP互操作性要求，构建可靠无线通信的桥梁](https://blog.csdn.net/weixin_37800531/article/details/156111002)
+
++ [鸿蒙应用如何实现腾讯云对象存储？](https://blog.csdn.net/xiaokangzhao_/article/details/156207348)
+
