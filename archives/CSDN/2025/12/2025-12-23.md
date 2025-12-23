@@ -147,3 +147,5 @@
 
 + [基于MATLAB与Simulink的汽车制动力分配仿真探索](https://blog.csdn.net/2504_94288833/article/details/156132816)
 
++ [▲16QAM调制软解调+扩频解扩+FFT频偏估计系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/156115091)
+

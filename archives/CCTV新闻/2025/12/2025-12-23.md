@@ -181,3 +181,13 @@
 
 + [一中国公民受柬泰边境冲突炮火波及，受轻微伤](https://news.cctv.com/2025/12/23/ARTI2VEoGuWsdm4fbAOQCtMk251223.shtml)
 
++ [一墨西哥海军飞机在美国得州坠海 已致5人死亡](https://news.cctv.com/2025/12/23/ARTIPI0ew7KZSCRn3X20m2OO251223.shtml)
+
++ [福岛第一核电站核污染水排放已超13万吨](https://news.cctv.com/2025/12/23/ARTIVCe9rx8ZBx55KY0wIeyH251223.shtml)
+
++ [韩国首个商业运载火箭发射失败](https://news.cctv.com/2025/12/23/ARTIYmI4gl9VSwV0JOei2QSF251223.shtml)
+
++ [一墨西哥海军飞机在美国得州坠海 至少2人死亡](https://news.cctv.com/2025/12/23/ARTIveKObc0WQJ3fWCXs8K6e251223.shtml)
+
++ [日媒表示发射失败的H3火箭整流罩分离异常](https://news.cctv.com/2025/12/23/ARTI5eYQZ1CrmbuQiiMBeEvT251223.shtml)
+
