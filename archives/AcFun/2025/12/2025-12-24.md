@@ -61,3 +61,7 @@
 
 + [《shout》乐队版直拍](https://m.acfun.cn/v/?ac=48125206)
 
++ [紫色韵味~Vibrato](https://m.acfun.cn/v/?ac=48125934)
+
++ [灭世神湿婆与萨蒂的爱情故事（中）](https://m.acfun.cn/v/?ac=48123692)
+

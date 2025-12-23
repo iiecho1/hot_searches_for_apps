@@ -161,3 +161,5 @@
 
 + [日本青森县附近海域发生5.5级地震](https://news.cctv.com/2025/12/21/ARTI7PxlpYmAKRELmg41R1rW251221.shtml)
 
++ [日本发生核反应堆含放射性水泄漏事件](https://news.cctv.com/2025/12/24/ARTIWr69dlVn0TKHvyrSrL04251224.shtml)
+

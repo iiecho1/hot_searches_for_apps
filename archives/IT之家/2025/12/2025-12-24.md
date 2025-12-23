@@ -25,3 +25,17 @@
 
 + [小米 17 Ultra 手机拍照 / 视频样片公布：徕卡 1 英寸主摄 + LOFIC 超高动态技术加持，号称“夜色传神”](https://m.ithome.com/html/907044.htm)
 
++ [快手：直播功能遭到网络攻击，已第一时间启动应急预案](https://m.ithome.com/html/907209.htm)
+
++ [微信员工回应快手直播事件出现微信被盗传闻：昨晚到现在，没有相关的账号被盗案例](https://m.ithome.com/html/907158.htm)
+
++ [吴彦祖成为小米手机影像体验官，小米 17 Ultra 拍摄样片公布](https://m.ithome.com/html/907214.htm)
+
++ [华为随行 WiFi X 新品曝光：提供大上行能力，已现身智慧生活 App](https://m.ithome.com/html/907151.htm)
+
++ [华为 MatePad 11.5 2026 平板搭载麒麟 T82B / T82 处理器，预装 HarmonyOS 5.1 系统](https://m.ithome.com/html/907078.htm)
+
++ [流媒体平台 Spotify 数据遭窃，约 300TB 音乐文件流出](https://m.ithome.com/html/907096.htm)
+
++ [今晚国内油价下调：加满一箱 92 号汽油将少花 6.5 元，2025 年“7 涨 12 降 6 搁浅”收官](https://m.ithome.com/html/907020.htm)
+
