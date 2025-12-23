@@ -165,3 +165,7 @@
 
 + [公然鼓吹“拥核” 日本到底想干什么？](https://news.cctv.com/2025/12/24/ARTImiKlzfE8h7GRoQbdu6OV251224.shtml)
 
++ [中国交存《海洋生物多样性协定》批准书](https://news.cctv.com/2025/12/24/ARTIsC6op4aEM40dQFEPUaOu251224.shtml)
+
++ [美国对格陵兰岛动作不断 北欧三国声援丹麦](https://news.cctv.com/2025/12/24/ARTIRjlxNjL2VILLxhi92ctc251224.shtml)
+
