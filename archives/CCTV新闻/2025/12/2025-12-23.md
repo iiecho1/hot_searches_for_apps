@@ -191,3 +191,9 @@
 
 + [日媒表示发射失败的H3火箭整流罩分离异常](https://news.cctv.com/2025/12/23/ARTI5eYQZ1CrmbuQiiMBeEvT251223.shtml)
 
++ [日本社会各界批评高市早苗政府强军扩武](https://news.cctv.com/2025/12/23/ARTIqezOxazeW5XoPeaYgpEA251223.shtml)
+
++ [外国画家在中国——用画笔记录中国高质量发展新风貌](https://news.cctv.com/2025/12/23/ARTIyox7UXnkg6VOqUoW1yyH251223.shtml)
+
++ [刚中合作持续走深走实——访刚果（金）副总理桑巴](https://news.cctv.com/2025/12/23/ARTI2yJRMfLKglikhejvfTn8251223.shtml)
+
