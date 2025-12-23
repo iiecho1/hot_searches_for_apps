@@ -157,3 +157,19 @@
 
 + [【Linux】从磁盘到文件系统：深入理解Ext2文件系统](https://blog.csdn.net/2301_79849925/article/details/156086137)
 
++ [MySQL8.0数据库GTID主从同步方案](https://blog.csdn.net/2401_83649605/article/details/156143154)
+
++ [Spring三种注入方式对比](https://blog.csdn.net/weixin_57923328/article/details/155914393)
+
++ [Docker 场景化操作：生产环境容器实践](https://blog.csdn.net/zjl999666999/article/details/156164893)
+
++ [RISC-V 64架构专题二（D1芯片SPL启动分析）](https://blog.csdn.net/weixin_53479532/article/details/140676156)
+
++ [原创分享：Word 转 Markdown - 精准还原 Word 格式、支持 LaTeX 公式与表格](https://blog.csdn.net/wxaiway/article/details/156169250)
+
++ [计算机网络--- TCP/IP协议簇](https://blog.csdn.net/weixin_74212619/article/details/154245041)
+
++ [鸿蒙 + Flutter：构建万物互联时代的跨平台应用新范式](https://blog.csdn.net/2501_93573555/article/details/156169200)
+
++ [开源Jira替代品：](https://blog.csdn.net/lonelymanontheway/article/details/156083795)
+

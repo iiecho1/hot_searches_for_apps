@@ -45,3 +45,15 @@
 
 + [华为公布鸿蒙 HarmonyOS 6 最新升级计划，畅享 70X、MatePad Edge 等即将适配](https://m.ithome.com/html/906974.htm)
 
++ [快手：遭到灰黑产攻击，正在修复处理中，已报警](https://m.ithome.com/html/907109.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.125 SP5 版本更新内容曝光，全新“沉浸光感”视效将上线](https://m.ithome.com/html/907077.htm)
+
++ [华为 nova 15 系列手机全面搭载 HarmonyOS 6，不支持变更为 4 / 5 版本](https://m.ithome.com/html/907073.htm)
+
++ [华为推出全屋智能套装售价 9999 元起](https://m.ithome.com/html/906977.htm)
+
++ [华为 nova 15 标准版手机发布：麒麟 8020 处理器、后置红枫影像系统，2699 元起](https://m.ithome.com/html/906954.htm)
+
++ [小米 17 Ultra 手机拍照 / 视频样片公布：徕卡 1 英寸主摄 + LOFIC 超高动态技术加持，号称“夜色传神”](https://m.ithome.com/html/907044.htm)
+
