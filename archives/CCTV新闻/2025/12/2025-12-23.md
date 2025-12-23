@@ -217,3 +217,19 @@
 
 + [十年携手，中伊战略伙伴关系再续新篇](https://news.cctv.com/2025/12/23/ARTIUe24FZzXaBQjLJUTcarz251223.shtml)
 
++ [资金短缺致联合国南苏丹特派团关闭多处维和基地](https://news.cctv.com/2025/12/23/ARTIHixMIGERuazhjPqe206y251223.shtml)
+
++ [格陵兰岛总理：格陵兰岛领土完整和法律地位不容忽视](https://news.cctv.com/2025/12/23/ARTIKu9iffYWpNJN7yAlRO4j251223.shtml)
+
++ [波兰在东部边境部署反无人机系统 首批组件已安装](https://news.cctv.com/2025/12/23/ARTInNJpjWUIX1HHi2ddBbA7251223.shtml)
+
++ [美司法部恐成被告 爱泼斯坦档案争议再升级](https://news.cctv.com/2025/12/23/ARTIWri7eH5r9kaQmhg61U76251223.shtml)
+
++ [尼日利亚发生绑架事件 至少28人下落不明](https://news.cctv.com/2025/12/23/ARTI9HaUr8Uv5oFTKqDthp5X251223.shtml)
+
++ [以防长称以军不会全面撤出加沙 未来还将修建新“前哨站”](https://news.cctv.com/2025/12/23/ARTIZKUMbrC8q27GGIYRFauy251223.shtml)
+
++ [韩国内乱案专司法庭法在国会获得通过](https://news.cctv.com/2025/12/23/ARTIrK18500ZOcAZJQt7Fin5251223.shtml)
+
++ [超30枚导弹、650架无人机 乌总统称俄大规模袭击乌能源系统](https://news.cctv.com/2025/12/23/ARTIbPbedbnE8bBHQRuQkP0b251223.shtml)
+

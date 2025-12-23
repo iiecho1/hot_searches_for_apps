@@ -205,3 +205,13 @@
 
 + [docker作业](https://blog.csdn.net/weixin_72487594/article/details/156163274)
 
++ [对话张笑宇：涌现、AI 带来裁员的结果都是必然 | 万有引力](https://blog.csdn.net/tangxiaoyin/article/details/156197562)
+
++ [OpenCV计算机视觉实战（33）——文字识别详解](https://blog.csdn.net/qq_30167691/article/details/148294350)
+
++ [docker的容器与操作](https://blog.csdn.net/2503_93990865/article/details/156160651)
+
++ [React Native跨平台技术在开源鸿蒙中开发一个具有全文搜索功能的组件,使用useMemo或useCallback来优化性能](https://blog.csdn.net/qq_46340842/article/details/156168279)
+
++ [GitHub 一周热门项目速览 | 2025年12月22日](https://blog.csdn.net/u011064099/article/details/156151069)
+
