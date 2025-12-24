@@ -213,3 +213,7 @@
 
 + [法理昭昭，岂容日本挑衅越线！](https://news.cctv.com/2025/12/24/ARTIxtjQAmILstL8SCbDmEfi251224.shtml)
 
++ [柬国防部称泰战机投掷集束炸弹 泰军方称仅针对军事目标](https://news.cctv.com/2025/12/24/ARTIUzUmcqNf6Hf9Vm3EgSu0251224.shtml)
+
++ [佩斯科夫：普京已知晓佛罗里达州会谈细节](https://news.cctv.com/2025/12/24/ARTIMh4JsKtOgjlXnPlNxU3N251224.shtml)
+

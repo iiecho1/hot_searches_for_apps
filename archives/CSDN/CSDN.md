@@ -213,3 +213,13 @@
 
 + [【RAG】基于PDF文档构建语义搜索引擎](https://blog.csdn.net/m0_59959542/article/details/156198399)
 
++ [【AI智能体】基于Coze制作跨境电商客服助手工作流实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/156061940)
+
++ [Jenkins 2.528.3 与 GitLab 深度集成：实现自动构建](https://blog.csdn.net/2501_92915057/article/details/156204542)
+
++ [MyBatis 动态 SQL 全攻略](https://blog.csdn.net/2301_79751930/article/details/156206672)
+
++ [USB MSC从理论到实践（模拟U盘为例）——从零开始学习USB2.0协议（六）](https://blog.csdn.net/weixin_43083491/article/details/156237297)
+
++ [【论文阅读】Contrastive self-supervised subspace clustering via KAN-based multi-view fusion](https://blog.csdn.net/dundunmm/article/details/156133016)
+
