@@ -181,3 +181,9 @@
 
 + [国际黄金现货价格突破每盎司4500美元](https://news.cctv.com/2025/12/24/ARTIxGls64671zpBIL19xqwk251224.shtml)
 
++ [被日强征韩籍军人遗属起诉靖国神社](https://news.cctv.com/2025/12/24/ARTITq0xFzvjxws5oToVzbU0251224.shtml)
+
++ [柬埔寨称泰军使用集束弹药 泰方暂无回应](https://news.cctv.com/2025/12/24/ARTI0eTi6taoVu3Pz0gCV83I251224.shtml)
+
++ [日本民众集会抗议高市涉台错误言论](https://news.cctv.com/2025/12/24/ARTI3RaVg5w9LnJFvjzF146C251224.shtml)
+
