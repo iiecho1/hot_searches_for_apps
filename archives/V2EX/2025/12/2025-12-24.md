@@ -45,3 +45,9 @@
 
 + [Google AI Pro 半价，一年 $100 可以拼 6 个人，感觉要起飞了](https://www.v2ex.com/t/1180859)
 
++ [哎，没房子连 app 备案都不让过，现在阿里云 app 备案需要房产证了。](https://www.v2ex.com/t/1180910)
+
++ [三个地方验光三个结果](https://www.v2ex.com/t/1180796)
+
++ [博纳这把是耐心局](https://www.v2ex.com/t/1180827)
+

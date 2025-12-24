@@ -193,3 +193,9 @@
 
 + [日本最大核电站将于明年1月20日重启](https://news.cctv.com/2025/12/24/ARTIujTRYqDZBPoEFlGsDZyN251224.shtml)
 
++ [“金建希特检组”起诉韩国前总统尹锡悦](https://news.cctv.com/2025/12/24/ARTItPJmTQDEH8EI8hlP4I9k251224.shtml)
+
++ [调查显示高物价致美国消费者节日季负债增加](https://news.cctv.com/2025/12/24/ARTIptFyofrVFViZHWF0SdF2251224.shtml)
+
++ [印尼塞梅鲁火山喷发 火山灰柱高约500米](https://news.cctv.com/2025/12/24/ARTIyMn6XTR46s867H3hB63H251224.shtml)
+
