@@ -199,3 +199,11 @@
 
 + [印尼塞梅鲁火山喷发 火山灰柱高约500米](https://news.cctv.com/2025/12/24/ARTIyMn6XTR46s867H3hB63H251224.shtml)
 
++ [泰柬边界总委员会会议举行 双方就停火问题进行磋商](https://news.cctv.com/2025/12/24/ARTIyIY5d4UjkguFSTMlllxC251224.shtml)
+
++ [涉及入约入盟和选举 乌总统披露“和平计划”草案细节](https://news.cctv.com/2025/12/24/ARTIWUl5MKcj59perDxcuN4Y251224.shtml)
+
++ [利比亚军方领导人所乘飞机失事 土耳其称已发现黑匣子](https://news.cctv.com/2025/12/24/ARTItYg8CK8SZuOzBNQGgegg251224.shtml)
+
++ [美法官驳回H-1B签证费涨价起诉 政府修改抽签机制](https://news.cctv.com/2025/12/24/ARTIzYpR6qNYXuFLmzvHGumz251224.shtml)
+
