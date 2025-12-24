@@ -81,3 +81,7 @@
 
 + [消息称小米 17 Ultra 手机徕卡版授权级别更高，有一些特殊权益](https://m.ithome.com/html/907570.htm)
 
++ [很相机：小米 17 Ultra 手机徕卡版全新「大师变焦环」亮相](https://m.ithome.com/html/907590.htm)
+
++ [小米 eID 公民网络电子身份标识服务 2026 年 1 月 6 日永久关闭](https://m.ithome.com/html/907642.htm)
+
