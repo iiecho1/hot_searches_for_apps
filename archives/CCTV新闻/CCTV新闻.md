@@ -217,3 +217,15 @@
 
 + [佩斯科夫：普京已知晓佛罗里达州会谈细节](https://news.cctv.com/2025/12/24/ARTIMh4JsKtOgjlXnPlNxU3N251224.shtml)
 
++ [新公布爱泼斯坦案文件涉特朗普 美司法部：部分内容不实](https://news.cctv.com/2025/12/24/ARTIppgDpbkoMMa61cPQkFj2251224.shtml)
+
++ [【国际漫评】危险的松绑](https://news.cctv.com/2025/12/24/ARTITto86eIKInFJNOylyiq3251224.shtml)
+
++ [日官员“拥核言论”遭日本多个核爆受害者团体强烈谴责](https://news.cctv.com/2025/12/24/ARTIFpdrW9SVZ8xkqudWz3Wk251224.shtml)
+
++ [警惕！日本自卫队的“靖国旧梦”](https://news.cctv.com/2025/12/24/ARTIRwy7rnWh3Z8XbyCvaG3n251224.shtml)
+
++ [外交部：日本首相官邸高官拥核言论绝非孤立事件](https://news.cctv.com/2025/12/24/ARTIsjUj8qoMqqGQhPJgYqcm251224.shtml)
+
++ [欧盟强烈谴责美国对欧委会前委员实施签证限制](https://news.cctv.com/2025/12/24/ARTIIRKtl6FlceCeQM3I8b6M251224.shtml)
+
