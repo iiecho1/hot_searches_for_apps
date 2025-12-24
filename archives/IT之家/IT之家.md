@@ -25,3 +25,19 @@
 
 + [苹果向 iPhone XS Max、iPad 7 等推送 iOS / iPadOS 18.7.3 更新](https://m.ithome.com/html/907101.htm)
 
++ [苹果 iPhone 18 Pro / Max 前瞻：更小灵动岛、首发 2nm 工艺 A20 芯片](https://m.ithome.com/html/907445.htm)
+
++ [京东回应“法国巴黎仓库被盗”：已恢复正常运营，“重大损失数据”与实际情况有较大出入](https://m.ithome.com/html/907440.htm)
+
++ [俄罗斯宣布搭载第五代发动机的苏-57 战机完成首次试飞任务](https://m.ithome.com/html/907433.htm)
+
++ [漫威《复仇者联盟 5：毁灭之日》首支官方预告片发布：初代美队“抱娃回归”，2026 年全球献映](https://m.ithome.com/html/907430.htm)
+
++ [Epic&#160;连续喜加一第&#160;7&#160;弹：原价 138 元的《赤痕：夜之仪式》限时免费领](https://m.ithome.com/html/907438.htm)
+
++ [华为 nova 15 Ultra / Pro 手机支持自研 Wi-Fi 7+ 芯片级协同技术](https://m.ithome.com/html/907418.htm)
+
++ [腾讯 QQ 音乐迎 20 周年上线 20.0 版本客户端，引入“NAC 音质”及 AI Agent 功能](https://m.ithome.com/html/907373.htm)
+
++ [号称“变焦、慢动作一气呵成”，小米 17 Ultra 手机支持全新「红毯运镜」模式](https://m.ithome.com/html/907316.htm)
+
