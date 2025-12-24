@@ -31,3 +31,9 @@
 
 + [AI 是不是基本杀死了 blog](https://www.v2ex.com/t/1180710)
 
++ [GLM-4.7 上线并开源：更强的编码](https://www.v2ex.com/t/1180676)
+
++ [12 月初去了一趟日本关西地区旅行，分享游记](https://www.v2ex.com/t/1180815)
+
++ [突然感觉人生好难](https://www.v2ex.com/t/1180684)
+

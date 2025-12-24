@@ -175,3 +175,9 @@
 
 + [美国向加勒比增派特战飞机和部队](https://news.cctv.com/2025/12/24/ARTIkdCL2rn7OJ0pWGzWvZkR251224.shtml)
 
++ [美国一家养老院突发爆炸 已致2人死亡，多人失联](https://news.cctv.com/2025/12/24/ARTIqOFCkxbUMU1M9cBg7av6251224.shtml)
+
++ [法国遭遇寒潮侵袭 多地气温明显下降](https://news.cctv.com/2025/12/24/ARTIBeOY7BrajreFAnbhES5Y251224.shtml)
+
++ [国际黄金现货价格突破每盎司4500美元](https://news.cctv.com/2025/12/24/ARTIxGls64671zpBIL19xqwk251224.shtml)
+

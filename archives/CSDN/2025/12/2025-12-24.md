@@ -157,3 +157,11 @@
 
 + [【蓝牙PAN】精讲[9]：L2CAP互操作性要求，构建可靠无线通信的桥梁](https://blog.csdn.net/weixin_37800531/article/details/156111002)
 
++ [【AI 学习】LangChain框架深度解析：从核心组件到企业级应用实战](https://blog.csdn.net/weixin_63944437/article/details/156202894)
+
++ [Oracle迁移不用愁，金仓数据库性能优化秘籍大放送](https://blog.csdn.net/qq_32682301/article/details/156209602)
+
++ [Flutter App 到底该怎么测试？如何在 iOS 上进行测试](https://blog.csdn.net/2501_91592143/article/details/156151393)
+
++ [【弦绝九章】HarmonyOS异步心法：asynchronous插件详解](https://blog.csdn.net/weixin_39357371/article/details/156195204)
+
