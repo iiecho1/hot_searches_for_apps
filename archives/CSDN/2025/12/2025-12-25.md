@@ -115,3 +115,35 @@
 
 + [电子封装表面处理工艺](https://blog.csdn.net/u013620135/article/details/156154449)
 
++ [【大模型】用 AI Ping 免费体验 GLM-4.7 与 MiniMax M2.1：从配置到实战的完整教程](https://blog.csdn.net/qq_38628970/article/details/156234469)
+
++ [深入Java 8 Stream：高效分类占比统计实战技巧](https://blog.csdn.net/yelangkingwuzuhu/article/details/156206984)
+
++ [【Linux系统编程】（十七）揭秘 Linux 进程创建与终止：从 fork 到 exit 的底层逻辑全解析](https://blog.csdn.net/2301_79248256/article/details/156194970)
+
++ [时序数据库选型指南：如何为大数据场景选择合适的时序数据库](https://blog.csdn.net/weixin_66401877/article/details/156200537)
+
++ [【RRT三维路径规划】RRT算法求解带障碍物的3D路径规划【含Matlab源码 14772期】](https://blog.csdn.net/weixin_63266434/article/details/156237743)
+
++ [Java-210 Spring AMQP 整合 RabbitMQ：JavaConfig 注解配置、RabbitTemplate 发送/同步接收与坑位速查](https://blog.csdn.net/w776341482/article/details/156191231)
+
++ [C++与浏览器交织-从Chrome插件到WebAssembly，开启性能之门](https://blog.csdn.net/Z_oioihoii/article/details/156206473)
+
++ [Maven - 构建微服务项目 多模块拆分与统一依赖管理](https://blog.csdn.net/qq_41187124/article/details/155645024)
+
++ [设计模式：命令模式（Spring MVC中的实践）](https://blog.csdn.net/alspd_zhangpan/article/details/156202734)
+
++ [基于FPGA的数字示波器设计和硬件调试,将正弦波形通过HDMI接口在屏幕上动态显示](https://blog.csdn.net/hardware_player/article/details/156203811)
+
++ [如何通过yolo做一个基于YOLOv8的智能交通监控系统（从零开始讲解如何操作完成模型的训练）](https://blog.csdn.net/enlybbq/article/details/156203702)
+
++ [区块链概述及比特币工作原理](https://blog.csdn.net/isKelel/article/details/143419901)
+
++ [GM-3568JHF丨ARM+FPGA异构开发板系列教程：外设教程 05 蓝牙](https://blog.csdn.net/ShiMetaPi/article/details/156196444)
+
++ [PaddleOCR-VL 华为昇腾 910A NPU 适配详细报告](https://blog.csdn.net/weixin_41046245/article/details/156229820)
+
++ [应用层协议HTTP](https://blog.csdn.net/2302_80061080/article/details/155988643)
+
++ [AJAX本质与核心概念](https://blog.csdn.net/Aoutlaw/article/details/156204973)
+

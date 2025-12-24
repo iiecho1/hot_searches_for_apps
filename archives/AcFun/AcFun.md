@@ -65,3 +65,5 @@
 
 + [【绝望女神/圣诞节翻唱】【去年圣诞 Last Christmas】](https://m.acfun.cn/v/?ac=48128707)
 
++ [【小腐】恋之魔法 平安夜来点恋爱魔法吧！](https://m.acfun.cn/v/?ac=48126990)
+
