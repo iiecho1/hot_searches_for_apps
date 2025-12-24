@@ -145,3 +145,15 @@
 
 + [三大设计范式：TDD 筑基，DDD 破局，六边形架构解耦](https://blog.csdn.net/qq_51447436/article/details/156125927)
 
++ [人工智能与机器学习：从理论到实践的技术全景](https://blog.csdn.net/2503_92624912/article/details/156165606)
+
++ [C++ 异常完全指南：从语法到实战，优雅处理程序错误](https://blog.csdn.net/2503_91389547/article/details/155137005)
+
++ [Java 大视界 -- 5230 台物联网设备时序数据难题破解：Java+Redis+HBase+Kafka 实战全解析（查询延迟 18ms）(438)](https://blog.csdn.net/atgfg/article/details/156169479)
+
++ [在家玩 AI 绘图还能远程协作？ComfyUI+Flux.1结合cpolar的实用技巧](https://blog.csdn.net/weixin_43151418/article/details/156203336)
+
++ [数字身份的通行证：深入解析单点登录（SSO）的架构与艺术](https://blog.csdn.net/csdn_silent/article/details/155969105)
+
++ [【蓝牙PAN】精讲[9]：L2CAP互操作性要求，构建可靠无线通信的桥梁](https://blog.csdn.net/weixin_37800531/article/details/156111002)
+

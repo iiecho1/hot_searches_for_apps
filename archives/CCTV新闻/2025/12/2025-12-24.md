@@ -171,3 +171,7 @@
 
 + [美总统要造大型新战舰？美舆论泼冷水](https://news.cctv.com/2025/12/24/ARTIM5Csa4FfOIFaX5bioLMI251224.shtml)
 
++ [亡羊补牢 卢浮宫加装一处“防盗窗”](https://news.cctv.com/2025/12/24/ARTIgHdKMgy9G97j9yvBSPqx251224.shtml)
+
++ [美国向加勒比增派特战飞机和部队](https://news.cctv.com/2025/12/24/ARTIkdCL2rn7OJ0pWGzWvZkR251224.shtml)
+
