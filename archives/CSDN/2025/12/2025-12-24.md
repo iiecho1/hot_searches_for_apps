@@ -205,3 +205,11 @@
 
 + [SQL性能优化实战：从索引策略到查询优化案例全解析](https://blog.csdn.net/Start_mswin/article/details/156204900)
 
++ [基于Volterra沃尔泰拉级数的非线性补偿](https://blog.csdn.net/ccsss22/article/details/156192714)
+
++ [静态分析+动态检测：sourcefare 代码扫描的双重武器，破解安全困局](https://blog.csdn.net/tiklab2021/article/details/156145524)
+
++ [OSI 模型到 UDP 套接字](https://blog.csdn.net/2301_77424087/article/details/156202608)
+
++ [【RAG】基于PDF文档构建语义搜索引擎](https://blog.csdn.net/m0_59959542/article/details/156198399)
+
