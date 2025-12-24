@@ -189,3 +189,7 @@
 
 + [美知名保守派智库内讧 多人跳槽前副总统彭斯所创组织](https://news.cctv.com/2025/12/24/ARTIZJ6mUrI3RS3lYMp2GafE251224.shtml)
 
++ [美国“特朗普”级新型战舰计划引媒体关注：更像是一场政治秀](https://news.cctv.com/2025/12/24/ARTICuuYSIu1YhFWnIRkTHt8251224.shtml)
+
++ [日本最大核电站将于明年1月20日重启](https://news.cctv.com/2025/12/24/ARTIujTRYqDZBPoEFlGsDZyN251224.shtml)
+
