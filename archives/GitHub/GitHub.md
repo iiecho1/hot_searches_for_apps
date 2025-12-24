@@ -27,3 +27,17 @@
 
 + [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
 
++ [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+
++ [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+
++ [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
+
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [etcd-io/etcd](https://github.com/etcd-io/etcd)
+
++ [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
+

@@ -207,3 +207,9 @@
 
 + [美法官驳回H-1B签证费涨价起诉 政府修改抽签机制](https://news.cctv.com/2025/12/24/ARTIzYpR6qNYXuFLmzvHGumz251224.shtml)
 
++ [调查：高物价致美国消费者节日季负债增加](https://news.cctv.com/2025/12/24/ARTIFJIjMYjXLNWsvnmRBk4C251224.shtml)
+
++ [韩媒：日本强征韩籍军人遗属首次在韩起诉靖国神社要求取消合祀](https://news.cctv.com/2025/12/24/ARTIJuXHno61zp6ESotXeX4U251224.shtml)
+
++ [法理昭昭，岂容日本挑衅越线！](https://news.cctv.com/2025/12/24/ARTIxtjQAmILstL8SCbDmEfi251224.shtml)
+

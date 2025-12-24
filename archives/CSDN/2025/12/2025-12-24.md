@@ -193,3 +193,15 @@
 
 + [6G+AI=？6G与AI融合会带来什么？](https://blog.csdn.net/qq_44866828/article/details/156148174)
 
++ [从 Oracle 到电科金仓：一次真实迁移，把我逼清醒的 4 个致命问题](https://blog.csdn.net/weixin_44976692/article/details/156224681)
+
++ [基于python的旅游景点推荐系统_flask+spider](https://blog.csdn.net/shmp54/article/details/156168960)
+
++ [一苇渡江：Nginx重定向心法，破万般跳转迷局](https://blog.csdn.net/weixin_39357371/article/details/156188773)
+
++ [Redis持久化详解（一）：RDB快照机制深度解析](https://blog.csdn.net/2301_80042078/article/details/156135681)
+
++ [我开发的一款鸿蒙游戏《猜数字大师》 应用介绍 和技术架构](https://blog.csdn.net/tomxjc/article/details/156219714)
+
++ [SQL性能优化实战：从索引策略到查询优化案例全解析](https://blog.csdn.net/Start_mswin/article/details/156204900)
+
