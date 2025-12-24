@@ -165,3 +165,7 @@
 
 + [【弦绝九章】HarmonyOS异步心法：asynchronous插件详解](https://blog.csdn.net/weixin_39357371/article/details/156195204)
 
++ [【愚公系列】《扣子开发 AI Agent 智能体应用》008-扣子插件和卡片（开发自定义插件案例：查询股票价格）](https://blog.csdn.net/aa2528877987/article/details/155917610)
+
++ [鸿蒙应用开发之应用如何实现腾讯云对象存储？](https://blog.csdn.net/xiaokangzhao_/article/details/156207348)
+
