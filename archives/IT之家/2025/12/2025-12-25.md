@@ -41,3 +41,19 @@
 
 + [号称“变焦、慢动作一气呵成”，小米 17 Ultra 手机支持全新「红毯运镜」模式](https://m.ithome.com/html/907316.htm)
 
++ [12GB 内存价格飙升约 230%！苹果 iPhone 17 及 18 系列生产成本承压](https://m.ithome.com/html/907525.htm)
+
++ [徕卡红标确认！小米 17 Ultra 徕卡版手机外观首曝](https://m.ithome.com/html/907500.htm)
+
++ [小米 17 Ultra 徕卡版手机官宣，包装印有“可乐标”](https://m.ithome.com/html/907467.htm)
+
++ [可 3D 打印：苹果首款折叠 iPhone 1:1 塑料模型曝光](https://m.ithome.com/html/907457.htm)
+
++ [消息称小米 17 Ultra 手机徕卡版授权级别更高，有一些特殊权益](https://m.ithome.com/html/907570.htm)
+
++ [B站否认“全面付费观看”后，造谣行为人被依法行拘](https://m.ithome.com/html/907556.htm)
+
++ [很相机：小米 17 Ultra 手机徕卡版全新「大师变焦环」亮相](https://m.ithome.com/html/907590.htm)
+
++ [小米 eID 公民网络电子身份标识服务 2026 年 1 月 6 日永久关闭](https://m.ithome.com/html/907642.htm)
+
