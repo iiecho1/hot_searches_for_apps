@@ -163,3 +163,9 @@
 
 + [泰柬边境冲突｜总台记者实地探访泰柬边境高风险地区](https://news.cctv.com/2025/12/25/ARTIV6kp709PTpLeNHoeCoEb251225.shtml)
 
++ [俄挫败一起针对石油管道控制站恐袭图谋](https://news.cctv.com/2025/12/25/ARTIeSpUqcgC7pEJPkpstTCN251225.shtml)
+
++ [中方持续升级反制措施的核心所在](https://news.cctv.com/2025/12/25/ARTID77Jp2OoPm1MZ9eEkKd2251225.shtml)
+
++ [韩媒：韩军举行“东海领土守护演习”](https://news.cctv.com/2025/12/25/ARTIx0p7IQz8dF1r5Ie9QdrO251225.shtml)
+
