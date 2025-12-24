@@ -187,3 +187,5 @@
 
 + [日本民众集会抗议高市涉台错误言论](https://news.cctv.com/2025/12/24/ARTI3RaVg5w9LnJFvjzF146C251224.shtml)
 
++ [美知名保守派智库内讧 多人跳槽前副总统彭斯所创组织](https://news.cctv.com/2025/12/24/ARTIZJ6mUrI3RS3lYMp2GafE251224.shtml)
+

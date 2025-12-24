@@ -169,3 +169,9 @@
 
 + [鸿蒙应用开发之应用如何实现腾讯云对象存储？](https://blog.csdn.net/xiaokangzhao_/article/details/156207348)
 
++ [[论文阅读] AI + 硬件开发 | 硬件设计新范式：LLM赋能行为驱动开发，解决验证痛点的实战方案](https://blog.csdn.net/zhangjiaoshou_/article/details/156191982)
+
++ [计算机网络：自顶向下方法（第七版）第一章 学习分享](https://blog.csdn.net/qq_39635178/article/details/155538375)
+
++ [大模型如何重构客服系统？从问答机器人到情感理解](https://blog.csdn.net/qq_41187124/article/details/155944099)
+
