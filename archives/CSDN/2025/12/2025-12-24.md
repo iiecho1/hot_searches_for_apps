@@ -141,3 +141,7 @@
 
 + [网络安全渗透测试技术报告：攻防实践与技术路线分析](https://blog.csdn.net/ponygame/article/details/156141423)
 
++ [6. pytorch 卷积神经网络](https://blog.csdn.net/qq_61875563/article/details/156153801)
+
++ [三大设计范式：TDD 筑基，DDD 破局，六边形架构解耦](https://blog.csdn.net/qq_51447436/article/details/156125927)
+
