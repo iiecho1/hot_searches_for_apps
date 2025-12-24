@@ -161,3 +161,5 @@
 
 + [越南留学生阮氏水仙：“指尖生花”传递越中情缘](https://news.cctv.com/2025/12/22/ARTImXvH5oKSRVvCsHixu4Kh251222.shtml)
 
++ [泰柬边境冲突｜总台记者实地探访泰柬边境高风险地区](https://news.cctv.com/2025/12/25/ARTIV6kp709PTpLeNHoeCoEb251225.shtml)
+

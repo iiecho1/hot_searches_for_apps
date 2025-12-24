@@ -153,3 +153,7 @@
 
 + [人脸核身技术：通过身份证识别、炫彩活体检测和人脸比对三步验证，实现高效安全的身份认证](https://blog.csdn.net/dlf283870550/article/details/156161614)
 
++ [【Redis】Spring使用Redis](https://blog.csdn.net/yj20040627/article/details/154868435)
+
++ [Spring Boot 集成 Sa-Token 实现登录认证与 RBAC 权限控制（实战）](https://blog.csdn.net/weixin_51114682/article/details/156150839)
+
