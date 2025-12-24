@@ -147,3 +147,9 @@
 
 + [AJAX本质与核心概念](https://blog.csdn.net/Aoutlaw/article/details/156204973)
 
++ [【计算机网络】简学深悟启示录：scoket编程之udp](https://blog.csdn.net/Zero_VPN/article/details/156149485)
+
++ [OSI 模型到 UDP 套接字](https://blog.csdn.net/2301_77424087/article/details/156202608)
+
++ [人脸核身技术：通过身份证识别、炫彩活体检测和人脸比对三步验证，实现高效安全的身份认证](https://blog.csdn.net/dlf283870550/article/details/156161614)
+
