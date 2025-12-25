@@ -191,3 +191,7 @@
 
 + [圣诞行情（Santa Claus Rally）](https://blog.csdn.net/csdn1896/article/details/156234497)
 
++ [师生交流论坛|基于springboot + vue师生交流论坛系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/156258127)
+
++ [微信小程序集成 Dynamsoft Barcode Reader：实现1D/2D多码扫描](https://blog.csdn.net/yushulx/article/details/156200639)
+
