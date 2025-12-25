@@ -101,3 +101,13 @@
 
 + [微服务，集群，分布式，虚拟机的定义，关联及区别](https://blog.csdn.net/weixin_42127508/article/details/156194994)
 
++ [OpenAgents：让AI智能体Agent像人类一样联网协作](https://blog.csdn.net/puzi0315/article/details/156202217)
+
++ [Spring AI 与向量数据库：构建企业级 RAG 智能问答系统](https://blog.csdn.net/2401_86326742/article/details/156275621)
+
++ [Spring之旅 - 记录学习 Spring 框架的过程和经验（三）Bean的依赖注入配置、Spring的其它配置标签](https://blog.csdn.net/m0_63267251/article/details/156227151)
+
++ [电子时钟案例](https://blog.csdn.net/lihuihtl/article/details/156242373)
+
++ [docker运行debian / Ubuntu桌面容器 xrdp（带声音） x11 vnc novnc](https://blog.csdn.net/weixin_43041894/article/details/156229577)
+

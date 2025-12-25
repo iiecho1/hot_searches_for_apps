@@ -161,3 +161,7 @@
 
 + [日媒表示发射失败的H3火箭整流罩分离异常](https://news.cctv.com/2025/12/23/ARTI5eYQZ1CrmbuQiiMBeEvT251223.shtml)
 
++ [埃及吉萨省一建筑物倒塌 致8死多伤](https://news.cctv.com/2025/12/26/ARTIvPrweDLFzRaOepHVqxzF251226.shtml)
+
++ [乌公布“和平计划”草案，俄为何拒绝评论？专家解读](https://news.cctv.com/2025/12/26/ARTIqDA0jlwLwerfSCWymXIj251226.shtml)
+

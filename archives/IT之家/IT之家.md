@@ -25,3 +25,25 @@
 
 + [小米首款高端家庭屏：小米智能家庭屏 11 发布，1299 元](https://m.ithome.com/html/908020.htm)
 
++ [“福建舰”航母内部画面首度公开：海军作战舰艇最大手术室亮相，超近距离感受电磁弹射爆发力](https://m.ithome.com/html/907750.htm)
+
++ [火绒复盘 12・22 快手遭攻击事件：高频自动化攻击最薄弱时段，黑产工具正向 AI 智能体演进](https://m.ithome.com/html/907746.htm)
+
++ [消息称小米 17 Ultra 手机徕卡版授权级别更高，有一些特殊权益](https://m.ithome.com/html/907570.htm)
+
++ [小米 eID 公民网络电子身份标识服务 2026 年 1 月 6 日永久关闭](https://m.ithome.com/html/907642.htm)
+
++ [Epic 连续喜加一第 8 弹：《木卫四协议》限时免费领取](https://m.ithome.com/html/907753.htm)
+
++ [很相机：小米 17 Ultra 手机徕卡版全新「大师变焦环」亮相](https://m.ithome.com/html/907590.htm)
+
++ [小米 17 Ultra 现身 Geekbench：高通第五代骁龙 8 至尊版、澎湃 OS 3](https://m.ithome.com/html/907612.htm)
+
++ [华为随行 WiFi X 官宣：配多天线系统、定位超级直播神器，2026 年 3 月发布](https://m.ithome.com/html/907656.htm)
+
++ [手机在伦敦被抢：女子仅靠定位两小时找回三星 Galaxy S25 Ultra，同时还挖出另外 4 部苹果 iPhone](https://m.ithome.com/html/907725.htm)
+
++ [消息称豆包日活已破 1 亿，系字节“亿级 App”产品中花费最低](https://m.ithome.com/html/907726.htm)
+
++ [丽江市古城区旅拍行业协会：小红书过去一年让当地旅拍行业损失超 500 万，将发起集体诉讼](https://m.ithome.com/html/907640.htm)
+
