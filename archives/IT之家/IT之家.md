@@ -57,3 +57,19 @@
 
 + [小米 eID 公民网络电子身份标识服务 2026 年 1 月 6 日永久关闭](https://m.ithome.com/html/907642.htm)
 
++ [“福建舰”航母内部画面首度公开：海军作战舰艇最大手术室亮相，超近距离感受电磁弹射爆发力](https://m.ithome.com/html/907750.htm)
+
++ [火绒复盘 12・22 快手遭攻击事件：高频自动化攻击最薄弱时段，黑产工具正向 AI 智能体演进](https://m.ithome.com/html/907746.htm)
+
++ [Epic 连续喜加一第 8 弹：《木卫四协议》限时免费领取](https://m.ithome.com/html/907753.htm)
+
++ [小米 17 Ultra 现身 Geekbench：高通第五代骁龙 8 至尊版、澎湃 OS 3](https://m.ithome.com/html/907612.htm)
+
++ [华为随行 WiFi X 官宣：配多天线系统、定位超级直播神器，2026 年 3 月发布](https://m.ithome.com/html/907656.htm)
+
++ [手机在伦敦被抢：女子仅靠定位两小时找回三星 Galaxy S25 Ultra，同时还挖出另外 4 部苹果 iPhone](https://m.ithome.com/html/907725.htm)
+
++ [消息称豆包日活已破 1 亿，系字节“亿级 App”产品中花费最低](https://m.ithome.com/html/907726.htm)
+
++ [华为非凡大师品牌主题曲定名《非凡》，确认由刘德华献唱](https://m.ithome.com/html/907551.htm)
+

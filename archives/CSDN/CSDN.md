@@ -169,3 +169,17 @@
 
 + [Spring Boot 配置文件深度解析](https://blog.csdn.net/weixin_46491509/article/details/156200360)
 
++ [金仓数据库发布能源行业Oracle迁移新方案，传输加密技术达国际安全标准](https://blog.csdn.net/hgsandy/article/details/156223079)
+
++ [ZooKeeper Cluster 架构文档](https://blog.csdn.net/hezuijiudexiaobai/article/details/156243340)
+
++ [SLAM文献之-Embedding Manifold Structures into Kalman Filters（1）](https://blog.csdn.net/qq_36812406/article/details/156234258)
+
++ [VUE笔记（一）：Vue3中ref与reactive区别](https://blog.csdn.net/2403_87976193/article/details/156153629)
+
++ [Linux部署Nginx前后端web教程](https://blog.csdn.net/2301_76830515/article/details/156150710)
+
++ [1.1 Python的前世今生](https://blog.csdn.net/qq_22323149/article/details/156205150)
+
++ [手撕 Linux 信号量：从古老的 PV 原语到现代内核，极致简洁的同步美学](https://blog.csdn.net/2301_80236968/article/details/156097110)
+

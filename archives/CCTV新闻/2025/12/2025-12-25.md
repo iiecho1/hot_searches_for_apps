@@ -179,3 +179,11 @@
 
 + [我驻摩洛哥使馆发布领事提醒：注意人身及财产安全](https://news.cctv.com/2025/12/25/ARTIgarIX2WDP9Z1i44MjEpB251225.shtml)
 
++ [以色列誓言回应加沙袭击事件 14国谴责以政府批准西岸新定居点](https://news.cctv.com/2025/12/25/ARTIgJ7Cq4jJFrXfHb9mnGyx251225.shtml)
+
++ [专栏｜警惕！日本自卫队的“靖国旧梦”](https://news.cctv.com/2025/12/25/ARTIpQ7xSmjwqAzAhLwvZVG1251225.shtml)
+
++ [印度南部两车相撞 造成至少17人死亡](https://news.cctv.com/2025/12/25/ARTIgNDWmVgnfeqEl0Y0sjwf251225.shtml)
+
++ [阿根廷政府表示将逐步摆脱对华尔街“依赖”](https://news.cctv.com/2025/12/25/ARTIoEXi1nzCO5MsFI3do9tC251225.shtml)
+
