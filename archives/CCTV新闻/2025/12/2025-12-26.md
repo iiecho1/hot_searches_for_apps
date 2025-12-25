@@ -175,3 +175,7 @@
 
 + [对等反制 尼日尔对美国公民停发签证](https://news.cctv.com/2025/12/26/ARTIBgjcEMqXnOdppySpAaB7251226.shtml)
 
++ [瑞典袭击事件致一死两伤 嫌疑人被当场击毙](https://news.cctv.com/2025/12/26/ARTIG41jbOcsgi1CECzgclGh251226.shtml)
+
++ [尼日利亚尼日尔州被绑架的230名师生已全部获救](https://news.cctv.com/2025/12/26/ARTIIl5e6fE5m8Ru3A9d7NUq251226.shtml)
+
