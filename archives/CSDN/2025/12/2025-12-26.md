@@ -147,3 +147,5 @@
 
 + [.net使用Jenkins 构建、部署到windows服务器上](https://blog.csdn.net/SS33SSS/article/details/156192294)
 
++ [MySQL基本查询](https://blog.csdn.net/2302_80061080/article/details/156239882)
+

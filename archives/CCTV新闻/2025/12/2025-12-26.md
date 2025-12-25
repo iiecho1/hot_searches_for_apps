@@ -173,3 +173,5 @@
 
 + [俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”](https://news.cctv.com/2025/12/26/ARTIDJJR3eEsbQ08GhM4dvP4251226.shtml)
 
++ [对等反制 尼日尔对美国公民停发签证](https://news.cctv.com/2025/12/26/ARTIBgjcEMqXnOdppySpAaB7251226.shtml)
+
