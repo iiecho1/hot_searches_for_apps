@@ -215,3 +215,7 @@
 
 + [视觉Transformer实战 | Pooling-based Vision Transformer（PiT）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149201947)
 
++ [魔珐星云：具身智能数字人新标杆，重构企业数字化交互生态](https://blog.csdn.net/weixin_51484460/article/details/156271956)
+
++ [区块链：从底层原理到产业落地的全景解析](https://blog.csdn.net/qq_38145499/article/details/156223824)
+

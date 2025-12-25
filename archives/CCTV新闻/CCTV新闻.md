@@ -197,3 +197,5 @@
 
 + [民调：超半数俄罗斯民众认为俄乌冲突或明年结束](https://news.cctv.com/2025/12/25/ARTIxFV8ZM8VzOnInX2jWIyf251225.shtml)
 
++ [警惕日本军国主义阴魂不散（寰宇平）](https://news.cctv.com/2025/12/25/ARTIlhVtXauDGQkY0ymkntfV251225.shtml)
+
