@@ -111,3 +111,33 @@
 
 + [docker运行debian / Ubuntu桌面容器 xrdp（带声音） x11 vnc novnc](https://blog.csdn.net/weixin_43041894/article/details/156229577)
 
++ [Java高性能开发实战(1)——Redis 7 持久化机制](https://blog.csdn.net/2401_89167985/article/details/147985399)
+
++ [C++ 异常完全指南：从语法到实战，优雅处理程序错误](https://blog.csdn.net/2503_91389547/article/details/155137005)
+
++ [SQLite触发器：让数据库自己“动起来“的秘密武器](https://blog.csdn.net/z_344791576/article/details/151931578)
+
++ [师生交流论坛|基于springboot + vue师生交流论坛系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/156258127)
+
++ [MySQL 审计级别配置指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/156238990)
+
++ [Elasticsearch：圣诞晚餐 BBQ - 图像识别](https://blog.csdn.net/UbuntuTouch/article/details/156270221)
+
++ [【无人机】基于matlab带飞行约束的MPC无人机【含Matlab源码 14779期】](https://blog.csdn.net/TIQCmatlab/article/details/156276860)
+
++ [Spring Security 进阶：基于 Customizer 的分布式权限配置架构设计](https://blog.csdn.net/czlczl20020925/article/details/156198973)
+
++ [软件测试的基本概念](https://blog.csdn.net/2401_89019969/article/details/154202719)
+
++ [DanceGRPO框架实战笔记：从原理到昇腾平台落地的全流程探索](https://blog.csdn.net/lrq13965748542/article/details/156233432)
+
++ [【MCP原生时代】第9篇｜模型评估与 A/B 实验在 MCP 场景下的实践 ——在会话化、工具化的世界里，如何安全、可测、可回滚地替换与优化模型](https://blog.csdn.net/lgf228/article/details/155861332)
+
++ [计算机网络简答题](https://blog.csdn.net/Jsjendndn/article/details/156241621)
+
++ [AJAX本质与核心概念](https://blog.csdn.net/Aoutlaw/article/details/156204973)
+
++ [Unity 无人机物理模拟开发日志：从零打造穿越机手感](https://blog.csdn.net/wa36d/article/details/156200955)
+
++ [技术演进中的开发沉思-268 Ajax:JSON](https://blog.csdn.net/chilavert318/article/details/156207407)
+

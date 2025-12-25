@@ -65,3 +65,5 @@
 
 + [【东方】Snow Song Show【东风谷早苗 圣诞装Ver. MMD】](https://m.acfun.cn/v/?ac=48128225)
 
++ [很多时候急救包并不是给自己准备的，而是施救者预备的！](https://m.acfun.cn/v/?ac=48130521)
+

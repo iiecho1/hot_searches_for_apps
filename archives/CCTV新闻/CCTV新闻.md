@@ -165,3 +165,9 @@
 
 + [乌公布“和平计划”草案，俄为何拒绝评论？专家解读](https://news.cctv.com/2025/12/26/ARTIqDA0jlwLwerfSCWymXIj251226.shtml)
 
++ [俄外交部发言人：欧洲根本没考虑过乌克兰的和平](https://news.cctv.com/2025/12/26/ARTIthXQ3LJZfgulklNxzdN2251225.shtml)
+
++ [俄罗斯发射“联盟-2.1a”运载火箭](https://news.cctv.com/2025/12/26/ARTI6KBmE7UNen7p9pOozKw5251226.shtml)
+
++ [阿尔及利亚通过法案认定法国在阿殖民统治构成犯罪](https://news.cctv.com/2025/12/26/ARTIlJd0KstRLkGGDUzgx9Yv251225.shtml)
+
