@@ -183,3 +183,5 @@
 
 + [手撕 Linux 信号量：从古老的 PV 原语到现代内核，极致简洁的同步美学](https://blog.csdn.net/2301_80236968/article/details/156097110)
 
++ [AI提效指南：Nano Banana 生成精美PPT与漫画](https://blog.csdn.net/Chase_______/article/details/156243777)
+
