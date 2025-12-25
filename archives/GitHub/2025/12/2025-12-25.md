@@ -33,3 +33,9 @@
 
 + [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure)
 
++ [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
+
++ [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+
++ [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V)
+

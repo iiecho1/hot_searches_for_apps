@@ -209,3 +209,9 @@
 
 + [Unity 无人机物理模拟开发日志：从零打造穿越机手感](https://blog.csdn.net/wa36d/article/details/156200955)
 
++ [【AI 学习】深入解析卷积神经网络（CNN）：理论、实现与应用](https://blog.csdn.net/weixin_63944437/article/details/156256439)
+
++ [在昇腾 NPU上压测 Qwen1.5-MoE：AtomGit 云端部署全记录](https://blog.csdn.net/2302_79376097/article/details/156270851)
+
++ [视觉Transformer实战 | Pooling-based Vision Transformer（PiT）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149201947)
+
