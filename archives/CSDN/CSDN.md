@@ -163,3 +163,9 @@
 
 + [.net使用Jenkins 构建、部署到windows服务器上](https://blog.csdn.net/SS33SSS/article/details/156192294)
 
++ [25年12月UU远程深度评测：跨设备操作、高性能云电脑与极致低延迟的完美融合](https://blog.csdn.net/2301_76341691/article/details/156147521)
+
++ [【蓝牙PAN】精讲（9）：L2CAP互操作性要求，构建可靠无线通信的桥梁](https://blog.csdn.net/weixin_37800531/article/details/156111002)
+
++ [Spring Boot 配置文件深度解析](https://blog.csdn.net/weixin_46491509/article/details/156200360)
+

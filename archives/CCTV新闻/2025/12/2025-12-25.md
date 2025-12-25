@@ -169,3 +169,13 @@
 
 + [韩媒：韩军举行“东海领土守护演习”](https://news.cctv.com/2025/12/25/ARTIx0p7IQz8dF1r5Ie9QdrO251225.shtml)
 
++ [法国等14国谴责以色列新建犹太人定居点决定](https://news.cctv.com/2025/12/25/ARTIQTM2h7JrLgQnJIQIyW07251225.shtml)
+
++ [俄计划在2036年前建成月球发电站](https://news.cctv.com/2025/12/25/ARTILc4cF3n8tbWjhkHjiq25251225.shtml)
+
++ [金正恩指导核动力战略导弹潜艇建造工作](https://news.cctv.com/2025/12/25/ARTIpQbvXUSzGf94BdfHd1tG251225.shtml)
+
++ [日本茨城县一养鸡场确认高致病性禽流感疫情](https://news.cctv.com/2025/12/25/ARTIvmBoAuRlIlzTs2PRm30K251225.shtml)
+
++ [我驻摩洛哥使馆发布领事提醒：注意人身及财产安全](https://news.cctv.com/2025/12/25/ARTIgarIX2WDP9Z1i44MjEpB251225.shtml)
+
