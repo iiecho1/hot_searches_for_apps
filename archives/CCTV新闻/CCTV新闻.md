@@ -171,3 +171,5 @@
 
 + [阿尔及利亚通过法案认定法国在阿殖民统治构成犯罪](https://news.cctv.com/2025/12/26/ARTIlJd0KstRLkGGDUzgx9Yv251225.shtml)
 
++ [俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”](https://news.cctv.com/2025/12/26/ARTIDJJR3eEsbQ08GhM4dvP4251226.shtml)
+
