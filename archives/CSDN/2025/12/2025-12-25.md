@@ -199,3 +199,9 @@
 
 + [Windows系统原生脚本语言--Batch语言](https://blog.csdn.net/qq_44647100/article/details/156151065)
 
++ [如何使用 Python 同步和异步实现 OpenAI API 的 ChatGPT](https://blog.csdn.net/wizardforcel/article/details/156246644)
+
++ [‌测试用例管理工具选型指南：Excel、TestLink、Xray和Zephyr深度比较](https://blog.csdn.net/2501_94261392/article/details/156269480)
+
++ [Gemini生成的3D交互圣诞树（娱乐版）](https://blog.csdn.net/2302_81798979/article/details/156242167)
+

@@ -191,3 +191,5 @@
 
 + [日本航空自卫队基地多处水体检出“永久性化学物”](https://news.cctv.com/2025/12/25/ARTIni5YNxXtfTR2Ol2EU4GG251225.shtml)
 
++ [日本宣布发射失败的导航卫星已损失](https://news.cctv.com/2025/12/25/ARTIKdtDRhymG8ss8pIgUQRG251225.shtml)
+
