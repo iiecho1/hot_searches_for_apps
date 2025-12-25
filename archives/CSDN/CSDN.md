@@ -195,3 +195,7 @@
 
 + [微信小程序集成 Dynamsoft Barcode Reader：实现1D/2D多码扫描](https://blog.csdn.net/yushulx/article/details/156200639)
 
++ [MySQL全同步复制深度解析：构建零数据丢失的强一致性数据库集群](https://blog.csdn.net/qq_41840843/article/details/156235824)
+
++ [Windows系统原生脚本语言--Batch语言](https://blog.csdn.net/qq_44647100/article/details/156151065)
+

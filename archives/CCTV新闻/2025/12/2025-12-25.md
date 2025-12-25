@@ -187,3 +187,7 @@
 
 + [阿根廷政府表示将逐步摆脱对华尔街“依赖”](https://news.cctv.com/2025/12/25/ARTIoEXi1nzCO5MsFI3do9tC251225.shtml)
 
++ [坦桑尼亚一直升机在乞力马扎罗山坠毁 致5人死亡](https://news.cctv.com/2025/12/25/ARTIiD4pBQsqtvBiDGFjaYOj251225.shtml)
+
++ [日本航空自卫队基地多处水体检出“永久性化学物”](https://news.cctv.com/2025/12/25/ARTIni5YNxXtfTR2Ol2EU4GG251225.shtml)
+
