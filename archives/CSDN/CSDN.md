@@ -227,3 +227,9 @@
 
 + [【NDK / JNI】Sceneform-EQR 集成 Filament JNI 源码：关键点与逐步操作记录](https://blog.csdn.net/qq_41140324/article/details/156276466)
 
++ [机器学习053:深度学习【经典神经网络】Transformer -- BERT、GPT与ViT](https://blog.csdn.net/weixin_38526314/article/details/156277278)
+
++ [Java面向对象进阶实战：用工厂模式+策略模式优化支付系统](https://blog.csdn.net/2302_80262940/article/details/156298780)
+
++ [FT8440AD非隔离12V350mA智能家居芯片方案(直接替代SDH8302)](https://blog.csdn.net/sanfokeji1/article/details/156272356)
+
