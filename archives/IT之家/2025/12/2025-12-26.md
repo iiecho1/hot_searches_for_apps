@@ -51,3 +51,13 @@
 
 + [华为非凡大师品牌主题曲定名《非凡》，确认由刘德华献唱](https://m.ithome.com/html/907551.htm)
 
++ [小米 17 Ultra 新品发布会一文汇总：方方面面尽徕卡，科技家电齐登场](https://m.ithome.com/html/908038.htm)
+
++ [真・腕上独立“小手机”：小米手表 5 确认支持表端独立微信、支付宝 App，还能刷IT之家](https://m.ithome.com/html/908029.htm)
+
++ [保时捷中国回应“郑州中原保时捷中心疑似跑路”：正与警方和相关部门在现场核查事实](https://m.ithome.com/html/907898.htm)
+
++ [小鹏 P7 + 增程版实车曝光：全新外观，纯电续航 325km](https://m.ithome.com/html/907887.htm)
+
++ [卢伟冰：小米 17 Ultra 挑战 2026 年最强主摄，徕卡 1 英寸光影大师“烟花神器”](https://m.ithome.com/html/908009.htm)
+

@@ -177,3 +177,5 @@
 
 + [【linux】进程概念（2）Linux进程的生命密码：从fork到完全独立](https://blog.csdn.net/prettyxian/article/details/156109858)
 
++ [FPGA教程系列-Vivado AXI4-Lite slave 测试](https://blog.csdn.net/fantasygwh2015/article/details/156204277)
+
