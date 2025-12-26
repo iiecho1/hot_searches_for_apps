@@ -161,3 +161,11 @@
 
 + [TCP 传输控制协议](https://blog.csdn.net/scholarzjh/article/details/156239523)
 
++ [使用OpenGL绘制卡通效果的圣诞树](https://blog.csdn.net/2503_92624912/article/details/156278023)
+
++ [【c++进阶】从C++98到C++11的奇妙旅程（故事科普版）](https://blog.csdn.net/2301_80127108/article/details/156238496)
+
++ [2025博客之星年度评选入围榜单公布](https://blog.csdn.net/blogdevteam/article/details/156200344)
+
++ [基于腾讯元器搭建合同发票智能体：知识库+工作流的企业提效实践](https://blog.csdn.net/Mrxiao_bo/article/details/156267132)
+
