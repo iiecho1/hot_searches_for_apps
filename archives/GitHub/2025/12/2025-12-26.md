@@ -19,3 +19,11 @@
 
 + [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V)
 
++ [langgenius/dify](https://github.com/langgenius/dify)
+
++ [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
++ [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface)
+
++ [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
+

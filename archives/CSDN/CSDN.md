@@ -213,3 +213,9 @@
 
 + [软件工程的国家标准和机器人制作的国家标准](https://blog.csdn.net/jerrykorea/article/details/156304012)
 
++ [昇腾Atlas 800T平台下Qwen-14B大语言模型的SGLang适配与性能实测](https://blog.csdn.net/2301_76341691/article/details/156277056)
+
++ [▲16QAM调制软解调+扩频解扩+FFT频偏估计+LDPC编译码系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/156309035)
+
++ [Vue3路由实战：优雅封装+灵活拦截，解锁路由配置新姿势](https://blog.csdn.net/weixin_44873831/article/details/156309037)
+
