@@ -21,3 +21,5 @@
 
 + [这一个月深度使用 antigravity，感觉很震撼](https://www.v2ex.com/t/1181294)
 
++ [观🐢帖，有感而发，最近也遇到情感的问题了](https://www.v2ex.com/t/1181382)
+

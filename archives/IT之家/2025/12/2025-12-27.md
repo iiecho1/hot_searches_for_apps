@@ -49,3 +49,7 @@
 
 + [WPS for iPad 生产力版本开放下载：对标 Windows 核心 Office 功能，完美适配苹果 iPadOS 26](https://m.ithome.com/html/908212.htm)
 
++ [Epic 连续喜加一第 9 弹：《极乐迪斯科：最终剪辑版》限时免费领取](https://m.ithome.com/html/908050.htm)
+
++ [腾讯《QQ 经典农场》手游内测版曝光，可在好友地里偷菜扔蛆种杂草各种捣乱](https://m.ithome.com/html/908047.htm)
+

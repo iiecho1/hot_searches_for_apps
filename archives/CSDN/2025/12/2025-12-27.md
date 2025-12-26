@@ -103,3 +103,29 @@
 
 + [【完整源码+数据集+部署教程】医生手写药品名称检测系统源码[一条龙教学YOLOV8标注好的数据集一键训练_70+全套改进创新点发刊_Web前端展示]](https://blog.csdn.net/2401_89610374/article/details/156300800)
 
++ [AI镜像开发实战：Stable Diffusion 3.5 FP8文生图技术深度解析与应用探索](https://blog.csdn.net/u014727709/article/details/156291417)
+
++ [基于卷积神经网络的图像分类实践与原理解析](https://blog.csdn.net/qq_56999332/article/details/156261526)
+
++ [openGauss 高级特性：优化器、存储引擎与分区管理](https://blog.csdn.net/2401_83830408/article/details/156277235)
+
++ [硬链接（ln） vs 复制（cp）的详细区别](https://blog.csdn.net/qq_44647100/article/details/156276055)
+
++ [【Linux】CentOS7.x服务器上挖矿病毒排查分析处理](https://blog.csdn.net/michaelwoshi/article/details/156278425)
+
++ [通义万相-文生视频 Text2Video](https://blog.csdn.net/weixin_66243333/article/details/156226279)
+
++ [Digital Signal Processing 投稿指南](https://blog.csdn.net/luozhenghao/article/details/156278114)
+
++ [【JavaWeb学习 | 第23篇】监听器、RBAC权限模型](https://blog.csdn.net/2401_86760859/article/details/155618433)
+
++ [【论文笔记】On Generative Agents in Recommendation](https://blog.csdn.net/weixin_44371842/article/details/156239083)
+
++ [今天我们开始学习腾讯云产品介绍及功能概述与应用场景](https://blog.csdn.net/Lynnxiaowen/article/details/156279450)
+
++ [PiscCode基于 YOLO 的人员分割 + PPE 检测绑定：一种工程级安全合规判定方案](https://blog.csdn.net/weixin_43607107/article/details/156278292)
+
++ [技术深度解析：Infoseek 字节探索媒体发布系统的核心架构与实现逻辑，重构企业级媒体发布的技术天花板](https://blog.csdn.net/weixin_64776994/article/details/156235377)
+
++ [html页面如何精准布局](https://blog.csdn.net/qq_63084249/article/details/156127665)
+
