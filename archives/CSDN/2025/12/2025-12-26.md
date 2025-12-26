@@ -219,3 +219,11 @@
 
 + [Vue3路由实战：优雅封装+灵活拦截，解锁路由配置新姿势](https://blog.csdn.net/weixin_44873831/article/details/156309037)
 
++ [AI Ping 上新限免：GLM-4.7 与 MiniMax-M2.1 实测对比](https://blog.csdn.net/2402_88700528/article/details/156238888)
+
++ [Transformer 大语言模型（LLM）基石 - Transformer PyTorch2内置实现](https://blog.csdn.net/caoli201314/article/details/156240749)
+
++ [零成本搭建个人音乐库，香橙派 Zero3 部署 Melody 配合 CPolar 实现外网畅听](https://blog.csdn.net/2401_82648291/article/details/156302440)
+
++ [【NDK / JNI】Sceneform-EQR 集成 Filament JNI 源码：关键点与逐步操作记录](https://blog.csdn.net/qq_41140324/article/details/156276466)
+
