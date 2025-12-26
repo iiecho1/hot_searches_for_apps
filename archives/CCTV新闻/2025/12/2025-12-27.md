@@ -169,3 +169,7 @@
 
 + [刚果（金）东部安全形势恶化 中国使馆提醒切勿前往相关地区](https://news.cctv.com/2025/12/27/ARTIFdf1tiSUZcZ6E020BViB251226.shtml)
 
++ [高端访谈丨专访多米尼克总统伯顿](https://people.cctv.com/2025/12/27/ARTIk5KTgsyGyNOMazwK8QA2251227.shtml)
+
++ [沙特：也门南方过渡委员会单方面军事行动致局势升级](https://news.cctv.com/2025/12/27/ARTID4BY6qFWhH1i1nIkOnqp251227.shtml)
+
