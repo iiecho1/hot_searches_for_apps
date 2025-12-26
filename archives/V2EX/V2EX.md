@@ -47,3 +47,5 @@
 
 + [标题建议： [吐槽] 真的无语了，米家叮零门铃 E3 凌晨 4 点狂响广告，想钱想疯了？](https://www.v2ex.com/t/1181262)
 
++ [[AICodeMirror 中转站登录 V 站] 圣诞抽奖大回馈~ 送 CC/CX/Gemini 免费额度](https://www.v2ex.com/t/1181297)
+

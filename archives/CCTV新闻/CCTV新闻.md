@@ -183,3 +183,9 @@
 
 + [日本民众就执政联盟放宽武器出口限制的动向举行抗议集会](https://news.cctv.com/2025/12/26/ARTIajgUAGbZnEO86WdlHNcx251226.shtml)
 
++ [索马里举行近60年来首次地方议会直选](https://news.cctv.com/2025/12/26/ARTIQr0PFoWKalHFWmoFK98x251226.shtml)
+
++ [尼日利亚政府证实美国对该国恐怖分子据点发动空袭](https://news.cctv.com/2025/12/26/ARTIx1fIuXv8oc2De52Iace3251226.shtml)
+
++ [日本防卫预算创历史新高](https://news.cctv.com/2025/12/26/ARTIdapX6dHCl7UO8mEjowIu251226.shtml)
+
