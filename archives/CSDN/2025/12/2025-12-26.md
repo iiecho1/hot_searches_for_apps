@@ -187,3 +187,11 @@
 
 + [AJAX与Fetch--异步Web请求的深度对比](https://blog.csdn.net/weixin_42998312/article/details/156182970)
 
++ [2025年12月 UU 云电脑测评：性能究竟如何？](https://blog.csdn.net/2302_80961196/article/details/156301314)
+
++ [每天节省3小时：我们如何用IPIDEA动态IP解决海外数据采集难题](https://blog.csdn.net/aasd23/article/details/156241331)
+
++ [轻量级多模态模型实战：从Qwen3-VL-4B到企业级应用](https://blog.csdn.net/sinat_41617212/article/details/156243909)
+
++ [学习FPGA（七）正弦信号合成](https://blog.csdn.net/2203_75285955/article/details/156148376)
+

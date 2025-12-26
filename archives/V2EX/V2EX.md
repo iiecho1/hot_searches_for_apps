@@ -49,3 +49,9 @@
 
 + [[AICodeMirror 中转站登录 V 站] 圣诞抽奖大回馈~ 送 CC/CX/Gemini 免费额度](https://www.v2ex.com/t/1181297)
 
++ [2025，经历的人生的滑铁卢](https://www.v2ex.com/t/1181394)
+
++ [有必要把内网服务开放到公网吗？](https://www.v2ex.com/t/1181272)
+
++ [这一个月深度使用 antigravity，感觉很震撼](https://www.v2ex.com/t/1181294)
+
