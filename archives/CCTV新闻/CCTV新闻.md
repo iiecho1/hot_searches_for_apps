@@ -191,3 +191,9 @@
 
 + [沙特空袭也门](https://news.cctv.com/2025/12/26/ARTIXcWoTPAWf9glWIBm2M7C251226.shtml)
 
++ [泽连斯基称近期将与美总统特朗普会面](https://news.cctv.com/2025/12/26/ARTIMtj37avC5QolZ75gL5xQ251226.shtml)
+
++ [俄联邦安全局：一女子受电诈胁迫试图引爆军官车辆 被当场抓获](https://news.cctv.com/2025/12/26/ARTIg1QeBAWbOFTqYyZ9Tfjs251226.shtml)
+
++ [钟声｜二〇二五中美经贸启示录：以务实行动勇担大国责任](https://news.cctv.com/2025/12/26/ARTI48vxEkfkTlE3t1p0g92a251226.shtml)
+

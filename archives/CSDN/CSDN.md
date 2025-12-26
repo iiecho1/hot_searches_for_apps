@@ -195,3 +195,13 @@
 
 + [学习FPGA（七）正弦信号合成](https://blog.csdn.net/2203_75285955/article/details/156148376)
 
++ [AI提效指南：生成精美PPT与漫画](https://blog.csdn.net/Chase_______/article/details/156243777)
+
++ [金仓数据库MongoDB兼容：核心技术支撑国产化替代落地](https://blog.csdn.net/lrq13965748542/article/details/156274049)
+
++ [软件工程实践——个人技术博客](https://blog.csdn.net/Nakkhon/article/details/156276292)
+
++ [具身机械主义框架下的智能制造L3系统架构核心要素](https://blog.csdn.net/weixin_41939376/article/details/156280188)
+
++ [小程序-uniapp：vue3-typescript项目使用mp-html实现展示富文本](https://blog.csdn.net/snowball_li/article/details/156260211)
+
