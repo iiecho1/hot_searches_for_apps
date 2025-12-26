@@ -161,3 +161,9 @@
 
 + [超30枚导弹、650架无人机 乌总统称俄大规模袭击乌能源系统](https://news.cctv.com/2025/12/23/ARTIbPbedbnE8bBHQRuQkP0b251223.shtml)
 
++ [白俄罗斯国防部：已接收新一批俄苏-30SM2战斗机](https://news.cctv.com/2025/12/27/ARTIZdXgtgayP3Wp0iZViFMU251226.shtml)
+
++ [记者世界·2025丨动荡中的多边舞台](https://news.cctv.com/2025/12/27/ARTIcVAkNb4JXJkMwTPQdAhX251226.shtml)
+
++ [也门南方过渡委员会就军事据点遭袭发表声明](https://news.cctv.com/2025/12/27/ARTIc0CabgsNTWQxmow3R1HY251226.shtml)
+

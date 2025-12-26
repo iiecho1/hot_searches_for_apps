@@ -25,3 +25,27 @@
 
 + [卢伟冰：小米 17 Ultra 挑战 2026 年最强主摄，徕卡 1 英寸光影大师“烟花神器”](https://m.ithome.com/html/908009.htm)
 
++ [2599 元起荣耀 WIN 系列手机发布：东风涡轮散热内置风扇设计、10000 毫安时电池](https://m.ithome.com/html/908226.htm)
+
++ [韩寒赛车喜剧电影《飞驰人生 3》定档 2026 年春节，“巴音布鲁克之王”回归](https://m.ithome.com/html/908143.htm)
+
++ [华为 Mate 80 系列推送鸿蒙 6.0.0.125 SP8 版本更新：主题新增沉浸光感视效，带来全新视觉体验](https://m.ithome.com/html/908073.htm)
+
++ [全球首个：我国电动汽车电耗新国标明年起实施，加严 11%，两吨车百公里不超 15.1 度电](https://m.ithome.com/html/908116.htm)
+
++ [华为 Mate 70 Air 手机 16GB 规格 12 月 27 日开售：7 英寸大屏、麒麟 9020A 芯片，4699 元起](https://m.ithome.com/html/908271.htm)
+
++ [小米 17 Ultra 徕卡版 7999 元起售即售罄，二手平台现加价炒作现象](https://m.ithome.com/html/908240.htm)
+
++ [【IT之家评测室】小米 17 Ultra 徕卡版手机体验：当「徕卡」成为一个形容词](https://m.ithome.com/html/908142.htm)
+
++ [亚马逊发货失误？用户下单两个三星 9100 Pro 却收到两整箱，价值 6000 美元且无需退回](https://m.ithome.com/html/908056.htm)
+
++ [老板监视员工微信只需 300 元：软件商公开售卖“监控神器”，杀毒软件也查不出来](https://m.ithome.com/html/908096.htm)
+
++ [Epic 手游喜加二：《纪念碑谷 1、2》限时免费领取](https://m.ithome.com/html/908100.htm)
+
++ [我国再次刷新高速磁浮世界纪录：5.3 秒飙到 800km/h，零百加速不到 0.7 秒](https://m.ithome.com/html/908159.htm)
+
++ [WPS for iPad 生产力版本开放下载：对标 Windows 核心 Office 功能，完美适配苹果 iPadOS 26](https://m.ithome.com/html/908212.htm)
+
