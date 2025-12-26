@@ -207,3 +207,9 @@
 
 + [.NET1-异步方法、LINQ](https://blog.csdn.net/m0_65804432/article/details/156125791)
 
++ [机器学习时间特征处理：循环编码（Cyclical Encoding）与其在预测模型中的应用](https://blog.csdn.net/m0_46510245/article/details/156278603)
+
++ [Windows 环境下使用 Docker 部署 Java 开发中间件完全指南](https://blog.csdn.net/qq_29752857/article/details/156267851)
+
++ [软件工程的国家标准和机器人制作的国家标准](https://blog.csdn.net/jerrykorea/article/details/156304012)
+
