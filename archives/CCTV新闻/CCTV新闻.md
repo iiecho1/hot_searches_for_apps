@@ -179,3 +179,7 @@
 
 + [尼日利亚尼日尔州被绑架的230名师生已全部获救](https://news.cctv.com/2025/12/26/ARTIIl5e6fE5m8Ru3A9d7NUq251226.shtml)
 
++ [韩内乱特检组以妨碍逮捕嫌疑寻求判处尹锡悦10年监禁](https://news.cctv.com/2025/12/26/ARTIGiz0BgGg5KeF5WBpcJZu251226.shtml)
+
++ [日本民众就执政联盟放宽武器出口限制的动向举行抗议集会](https://news.cctv.com/2025/12/26/ARTIajgUAGbZnEO86WdlHNcx251226.shtml)
+
