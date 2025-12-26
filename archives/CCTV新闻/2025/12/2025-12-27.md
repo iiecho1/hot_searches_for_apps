@@ -167,3 +167,5 @@
 
 + [也门南方过渡委员会就军事据点遭袭发表声明](https://news.cctv.com/2025/12/27/ARTIc0CabgsNTWQxmow3R1HY251226.shtml)
 
++ [刚果（金）东部安全形势恶化 中国使馆提醒切勿前往相关地区](https://news.cctv.com/2025/12/27/ARTIFdf1tiSUZcZ6E020BViB251226.shtml)
+
