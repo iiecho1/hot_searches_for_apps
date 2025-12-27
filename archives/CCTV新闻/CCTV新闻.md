@@ -173,3 +173,11 @@
 
 + [沙特：也门南方过渡委员会单方面军事行动致局势升级](https://news.cctv.com/2025/12/27/ARTID4BY6qFWhH1i1nIkOnqp251227.shtml)
 
++ [731部队海拉尔支队队长笔供首次公开解读](https://news.cctv.com/2025/12/27/ARTIsThYTaSrSVCwokdecT6j251227.shtml)
+
++ [以正确认知共寻相处之道（钟声·大国外交·2025年度回眸）——二〇二五中美经贸启示录②](https://news.cctv.com/2025/12/27/ARTIXjWTZzCZ5rFqB1VUmBnG251227.shtml)
+
++ [柬埔寨称与泰国就柬泰边界总委员会会议联合声明草案达成共识](https://news.cctv.com/2025/12/27/ARTISYTWYNDktsoac0vwZQlm251227.shtml)
+
++ [巴黎地铁发生持刀袭击事件三人受伤 嫌犯已被捕](https://news.cctv.com/2025/12/27/ARTIBY97GzA2L6GopuqP43Kv251227.shtml)
+

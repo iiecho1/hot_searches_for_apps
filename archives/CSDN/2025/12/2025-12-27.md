@@ -137,3 +137,5 @@
 
 + [Hadoop 分布式集群配置（OpenEuler 1主2）](https://blog.csdn.net/lightningyang/article/details/156229661)
 
++ [Linux nohup命令实战指南](https://blog.csdn.net/Joker00007/article/details/156308285)
+
