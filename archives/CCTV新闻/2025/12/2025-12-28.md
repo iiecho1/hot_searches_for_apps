@@ -161,3 +161,7 @@
 
 + [利比亚军方领导人所乘飞机失事 土耳其称已发现黑匣子](https://news.cctv.com/2025/12/24/ARTItYg8CK8SZuOzBNQGgegg251224.shtml)
 
++ [莫斯科市长：击落多架飞往俄首都的乌无人机](https://news.cctv.com/2025/12/28/ARTI1i262snaisn0zjdZ8RrD251228.shtml)
+
++ [日本米蛋价高不下 鸡蛋拌饭水涨船高](https://news.cctv.com/2025/12/28/ARTItrBbWfr5wBw8JdSqzwMm251227.shtml)
+

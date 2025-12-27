@@ -105,3 +105,25 @@
 
 + [基于STM32的智慧物联网系统板---离线语音模块使用](https://blog.csdn.net/weixin_44453694/article/details/156312507)
 
++ [在 AtomGit 昇腾 Atlas 800T上解锁 SGLang：零成本打造高性能推理服务](https://blog.csdn.net/2302_79177254/article/details/156305047)
+
++ [基于 Java 的消息队列选型年度总结：RabbitMQ、RocketMQ、Kafka 实战对比](https://blog.csdn.net/qq_41187124/article/details/156329375)
+
++ [OpenCV(四十八)：图像查找](https://blog.csdn.net/www_dong/article/details/156313921)
+
++ [Jieba库: 一个中文分词领域的经典库](https://blog.csdn.net/haokan123456789/article/details/156315273)
+
++ [多 Agent 系统的可扩展性架构-微服务化拆分与动态节点管理技术](https://blog.csdn.net/weixin_52908342/article/details/156332534)
+
++ [【无人机路径规划】基于深度强化学习的多无人机辅助边缘计算网络路径规划（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/149673183)
+
++ [使用 OpenVINO 本地部署 DeepSeek-R1 量化大模型（第二章：前端交互与后端服务）](https://blog.csdn.net/plmm__/article/details/156268425)
+
++ [华为路由协议重定向配置](https://blog.csdn.net/weixin_41687096/article/details/156262540)
+
++ [TCP/IP 协议 （上）](https://blog.csdn.net/Cby121353/article/details/156314159)
+
++ [平面三轴机器人的阻尼最小二乘法(DLS)逆运动学求解](https://blog.csdn.net/qq_41673009/article/details/156315540)
+
++ [[Docker#9] 存储卷管理](https://blog.csdn.net/island1314/article/details/156310953)
+

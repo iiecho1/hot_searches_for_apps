@@ -25,3 +25,19 @@
 
 + [鸿蒙智行首款 MPV 新车，智界 V9 无伪装谍照曝光](https://m.ithome.com/html/908356.htm)
 
++ [华为 Mate 70 Air 手机 16GB 版本今日首销：7 英寸大屏 + 麒麟 9020A 芯片，4699 元起](https://m.ithome.com/html/908383.htm)
+
++ [日本川崎重工再曝造假：66 台潜艇用发动机被发现篡改数据，违规持续 30 多年](https://m.ithome.com/html/908401.htm)
+
++ [小米 17 Ultra 及徕卡版今日首销：1 英寸光影大师主摄，6999-8999 元](https://m.ithome.com/html/908387.htm)
+
++ [【IT之家开箱】荣耀 WIN 系列手机实拍：定位年度电竞夯机，搭载 10000 毫安时电池](https://m.ithome.com/html/908318.htm)
+
++ [Epic 连续喜加一第 10 弹：双人解谜游戏《我们曾一起在这里》免费领](https://m.ithome.com/html/908369.htm)
+
++ [中国联通：自 2026 年 1 月 28 日起，关闭腾讯视频会员 QQ 号用户充值功能](https://m.ithome.com/html/908357.htm)
+
++ [消息称荣耀下月发布第二款 10000mAh+ 电池新机，预计为 Power 2](https://m.ithome.com/html/908411.htm)
+
++ [荣耀 Power 2 手机详细参数曝光：6.79 英寸 1.5K 120Hz 直屏、10080mAh 电池 +80W 有线快充](https://m.ithome.com/html/908469.htm)
+
