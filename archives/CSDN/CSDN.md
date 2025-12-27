@@ -139,3 +139,13 @@
 
 + [Linux nohup命令实战指南](https://blog.csdn.net/Joker00007/article/details/156308285)
 
++ [docker部署 DBSyncer数据同步中间件](https://blog.csdn.net/weimeilayer/article/details/156307280)
+
++ [为何事务管理不建议直接使用 TransactionManager？](https://blog.csdn.net/xxxmine/article/details/156315074)
+
++ [【Spring Boot】理解Spring Bean作用域的设计](https://blog.csdn.net/Arabys/article/details/155945374)
+
++ [基于人脸识别的互联网课堂考勤系统-springboot](https://blog.csdn.net/shmp54xmu/article/details/156313813)
+
++ [汽车网络安全开发语言选型指南：C/C++/Rust/Java等主流语言对比+Perforce QAC/Klocwork工具支持](https://blog.csdn.net/weixin_49715102/article/details/156300277)
+

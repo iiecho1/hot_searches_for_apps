@@ -181,3 +181,9 @@
 
 + [巴黎地铁发生持刀袭击事件三人受伤 嫌犯已被捕](https://news.cctv.com/2025/12/27/ARTIBY97GzA2L6GopuqP43Kv251227.shtml)
 
++ [阿根廷国会批准2026年预算案](https://news.cctv.com/2025/12/27/ARTI2AjZUC24VjG3G78ipHv1251227.shtml)
+
++ [叙利亚中部袭击事件已致26人伤亡 多方发声谴责](https://news.cctv.com/2025/12/27/ARTIekaFXGNHVqJcafAPjfQS251227.shtml)
+
++ [泰柬开始举行停火谈判](https://news.cctv.com/2025/12/27/ARTIDmTKzU67MR9chHnxcGpZ251227.shtml)
+
