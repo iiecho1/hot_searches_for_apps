@@ -101,3 +101,7 @@
 
 + [【OpenHarmony】Hiview架构](https://blog.csdn.net/weixin_43912621/article/details/156271905)
 
++ [第21届智能汽车竞赛 | 智能视觉组虚拟游戏系统](https://blog.csdn.net/zhuoqingjoking97298/article/details/156341754)
+
++ [基于STM32的智慧物联网系统板---离线语音模块使用](https://blog.csdn.net/weixin_44453694/article/details/156312507)
+
