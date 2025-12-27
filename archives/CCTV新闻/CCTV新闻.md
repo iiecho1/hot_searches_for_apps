@@ -211,3 +211,9 @@
 
 + [印尼一轮船在望加锡海峡沉没 至少3人死亡](https://news.cctv.com/2025/12/27/ARTIbDSYvMIBZkAdJx1Q92r4251227.shtml)
 
++ [以军继续在约旦河西岸实施大规模军事行动](https://news.cctv.com/2025/12/27/ARTIOzcDa6AI93cLGoXhVhcs251227.shtml)
+
++ [加沙地带卫生部门：本轮停火期间已有414人死亡](https://news.cctv.com/2025/12/27/ARTIaIABhoqRypItXARgHVEl251227.shtml)
+
++ [苏丹西部多地遭武装分子袭击 造成超200人死亡](https://news.cctv.com/2025/12/27/ARTIqJjf23jYNtGHTo7Gw7Lo251227.shtml)
+

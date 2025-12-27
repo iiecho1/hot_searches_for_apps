@@ -203,3 +203,7 @@
 
 + [使用 OpenVINO 本地部署 DeepSeek-R1 量化大模型（第二章：前端交互与后端服务）](https://blog.csdn.net/plmm__/article/details/156268425)
 
++ [国内python职位数据分析_flask+spider](https://blog.csdn.net/shmp54/article/details/156314011)
+
++ [机器学习视角下的鸢尾花形态学分类与自动化流水线架构研究报告](https://blog.csdn.net/arf_dog/article/details/156301695)
+
