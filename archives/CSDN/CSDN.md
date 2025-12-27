@@ -181,3 +181,5 @@
 
 + [SQL性能瓶颈破局：Explain分析+实战优化全攻略](https://blog.csdn.net/Start_mswin/article/details/156313830)
 
++ [掌握机器学习核心利器：深入浅出scikit-learn全解析](https://blog.csdn.net/2503_92624912/article/details/156180024)
+
