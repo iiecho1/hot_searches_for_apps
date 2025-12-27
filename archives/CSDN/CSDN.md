@@ -129,3 +129,5 @@
 
 + [商业卫星载荷FPGA转RISC-V架构MCU方案经济性评估](https://blog.csdn.net/ANSILIC/article/details/156306535)
 
++ [硬链接（ln） vs 复制（cp）的详细区别](https://blog.csdn.net/qq_44647100/article/details/156276055)
+

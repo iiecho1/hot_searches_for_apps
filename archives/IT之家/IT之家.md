@@ -41,3 +41,17 @@
 
 + [荣耀 Power 2 手机详细参数曝光：6.79 英寸 1.5K 120Hz 直屏、10080mAh 电池 +80W 有线快充](https://m.ithome.com/html/908469.htm)
 
++ [被苹果起诉的爆料人 Jon Prosser 再现身，发布 iPhone Fold 折叠屏手机渲染图](https://m.ithome.com/html/908465.htm)
+
++ [比亚迪方程豹首款轿车谍照曝光：外观动感，消息称命名“镁 9”](https://m.ithome.com/html/908476.htm)
+
++ [AMD Zen 6 处理器架构首曝：8 槽分发、支持 512 位指令集](https://m.ithome.com/html/908389.htm)
+
++ [卡梅隆：若《阿凡达》第四部及第五部未能拍成，将举行新闻发布会说明情况](https://m.ithome.com/html/908523.htm)
+
++ [华为畅享 70X 鸿蒙 HarmonyOS 6 开发者体验招募开启，限量 1000 人](https://m.ithome.com/html/908482.htm)
+
++ [华为 Mate X7 系列手机推送鸿蒙 HarmonyOS 6.0.0.125 SP6 版升级，主题新增全新“沉浸光感视效”](https://m.ithome.com/html/908501.htm)
+
++ [纽约学校手机禁令暴露问题：部分高中生不会看指针钟表](https://m.ithome.com/html/908452.htm)
+
