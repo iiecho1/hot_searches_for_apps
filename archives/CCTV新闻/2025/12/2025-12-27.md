@@ -191,3 +191,5 @@
 
 + [马杜罗重申愿在相互尊重基础上与美对话](https://news.cctv.com/2025/12/27/ARTIQryYPsvFZDSKspnWSE48251227.shtml)
 
++ [美国消费者节日购物季 礼品价格上涨 民众遭遇“价签冲击”](https://news.cctv.com/2025/12/27/ARTIOISZ610w5C9ZHMHv0sLH251227.shtml)
+

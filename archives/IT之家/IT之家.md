@@ -53,3 +53,19 @@
 
 + [腾讯《QQ 经典农场》手游内测版曝光，可在好友地里偷菜扔蛆种杂草各种捣乱](https://m.ithome.com/html/908047.htm)
 
++ [荣耀林林：荣耀 WIN 系列机型支持至少两次 MagicOS 大版本升级](https://m.ithome.com/html/908352.htm)
+
++ [小红书客服回应被丽江古城喊话审核“避雷帖”：商家可举报笔记内容并提交证据材料](https://m.ithome.com/html/908280.htm)
+
++ [2024 款极氪 001 辅助驾驶软硬件更换众筹成功，极氪 009 未达标](https://m.ithome.com/html/908361.htm)
+
++ [凡客创始人陈年谈雷军“1 分 47 秒售出 5000 台小米 SU7 汽车”：嫉妒、羡慕，就成了](https://m.ithome.com/html/908247.htm)
+
++ [下载 60GB 大型游戏仅需 50 秒，湖南移动发布万兆宽带产品](https://m.ithome.com/html/908358.htm)
+
++ [华为悬赏单项最高 100 万元攻克存储技术难题，第六届奥林帕斯奖启动全球征集](https://m.ithome.com/html/908297.htm)
+
++ [小米 17 Ultra 国际版明年发布，电池可能从 6800mAh 缩减至 6000mAh](https://m.ithome.com/html/908243.htm)
+
++ [鸿蒙智行首款 MPV 新车，智界 V9 无伪装谍照曝光](https://m.ithome.com/html/908356.htm)
+
