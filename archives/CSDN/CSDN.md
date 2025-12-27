@@ -171,3 +171,13 @@
 
 + [Python 爬虫实战：从 Ajax 到 POST 请求，完整爬取汉堡王门店与产品数据](https://blog.csdn.net/qq_21106275/article/details/156315968)
 
++ [2025年创作历程回顾与个人生活平衡](https://blog.csdn.net/weixin_41114301/article/details/156329956)
+
++ [python的小型实践项目](https://blog.csdn.net/weixin_40266856/article/details/156277668)
+
++ [2025 Vue 技术实战全景：从工程化到性能优化的 8 个落地突破](https://blog.csdn.net/qq_40303030/article/details/156331129)
+
++ [多 Agent 系统的可扩展性架构-微服务化拆分与动态节点管理技术](https://blog.csdn.net/weixin_52908342/article/details/156332534)
+
++ [SQL性能瓶颈破局：Explain分析+实战优化全攻略](https://blog.csdn.net/Start_mswin/article/details/156313830)
+
