@@ -207,3 +207,7 @@
 
 + [非洲在变局中发出更响亮声音](https://news.cctv.com/2025/12/27/ARTI3y9GZZrd64sPPNmXo1FN251227.shtml)
 
++ [俄罗斯将车用汽油出口禁令再延长至2026年2月底](https://news.cctv.com/2025/12/27/ARTIDyb83E68gbIekMcTRNUC251227.shtml)
+
++ [印尼一轮船在望加锡海峡沉没 至少3人死亡](https://news.cctv.com/2025/12/27/ARTIbDSYvMIBZkAdJx1Q92r4251227.shtml)
+

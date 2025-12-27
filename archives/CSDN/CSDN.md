@@ -195,3 +195,11 @@
 
 + [昇腾NPU实战：Llama-2-7B大模型的部署全流程与性能深度分析](https://blog.csdn.net/lwcwam/article/details/156337667)
 
++ [CSDN年度总结2025：技术逐梦，砥砺前行](https://blog.csdn.net/qq_41840843/article/details/156337216)
+
++ [OpenCV(四十八)：图像查找](https://blog.csdn.net/www_dong/article/details/156313921)
+
++ [简化版天气爬虫教程](https://blog.csdn.net/qq_24330181/article/details/156312925)
+
++ [使用 OpenVINO 本地部署 DeepSeek-R1 量化大模型（第二章：前端交互与后端服务）](https://blog.csdn.net/plmm__/article/details/156268425)
+
