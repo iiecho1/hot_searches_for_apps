@@ -13,3 +13,11 @@
 
 + [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
 
++ [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+
++ [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know)
+
++ [agrinman/tunnelto](https://github.com/agrinman/tunnelto)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+

@@ -191,3 +191,7 @@
 
 + [Spring Boot 4 如何使用Sentinel进行限流？](https://blog.csdn.net/penriver/article/details/156315017)
 
++ [【2026年Docker国内镜像源最新可用清单与配置指南】](https://blog.csdn.net/m0_73370855/article/details/156335029)
+
++ [昇腾NPU实战：Llama-2-7B大模型的部署全流程与性能深度分析](https://blog.csdn.net/lwcwam/article/details/156337667)
+
