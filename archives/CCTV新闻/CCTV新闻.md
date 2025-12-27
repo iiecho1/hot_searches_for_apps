@@ -203,3 +203,7 @@
 
 + [印尼巴布亚省一艘快艇沉没 3人获救18人失踪](https://news.cctv.com/2025/12/27/ARTI32OudKU7CUG3mlgtZcyv251227.shtml)
 
++ [哈萨克斯坦姑娘中国“海淘”记](https://news.cctv.com/2025/12/27/ARTI1zCgVw2qxzxc2wPHAb9q251227.shtml)
+
++ [非洲在变局中发出更响亮声音](https://news.cctv.com/2025/12/27/ARTI3y9GZZrd64sPPNmXo1FN251227.shtml)
+
