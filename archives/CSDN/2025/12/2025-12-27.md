@@ -133,3 +133,7 @@
 
 + [【开题答辩全过程】以 基于微信小程序的知识问答服务系统为例，包含答辩的问题和答案](https://blog.csdn.net/shiji7553/article/details/156264439)
 
++ [OpenCV图像滤波：Python实战指南](https://blog.csdn.net/qq_55679637/article/details/156274454)
+
++ [Hadoop 分布式集群配置（OpenEuler 1主2）](https://blog.csdn.net/lightningyang/article/details/156229661)
+
