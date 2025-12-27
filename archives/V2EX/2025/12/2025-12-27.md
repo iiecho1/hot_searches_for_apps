@@ -43,3 +43,13 @@
 
 + [准备和同事爆了。](https://www.v2ex.com/t/1181418)
 
++ [吐槽一下最近找工作的经历](https://www.v2ex.com/t/1181439)
+
++ [immich 有备份还是炸了](https://www.v2ex.com/t/1181470)
+
++ [为什么使用 Tomcat 算违反国产化要求，但是使用 Netty 却不算。](https://www.v2ex.com/t/1181537)
+
++ [[一封感谢信] hi， v2 社的兄弟们还记得我吗？我创业 2 年了](https://www.v2ex.com/t/1181519)
+
++ [年底提车被 4S 店吃保险差价 1000，这种操作正常吗？](https://www.v2ex.com/t/1181527)
+
