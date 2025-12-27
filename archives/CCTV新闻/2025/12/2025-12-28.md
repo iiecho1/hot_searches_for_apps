@@ -165,3 +165,13 @@
 
 + [日本米蛋价高不下 鸡蛋拌饭水涨船高](https://news.cctv.com/2025/12/28/ARTItrBbWfr5wBw8JdSqzwMm251227.shtml)
 
++ [涉及中期选举 美总统特朗普透露核心议题](https://news.cctv.com/2025/12/28/ARTI8yH2bU1yWuxEffAQ3hCM251228.shtml)
+
++ [波罗的海三国正式退出《渥太华禁雷公约》](https://news.cctv.com/2025/12/28/ARTIWivsmxTQ22V682Po85Gm251228.shtml)
+
++ [日本防卫预算再创新高引发舆论担忧](https://news.cctv.com/2025/12/28/ARTIOyFtvOCganubAbHvbJBR251227.shtml)
+
++ [以防长称将继续在约旦河西岸展开军事行动](https://news.cctv.com/2025/12/28/ARTIQnNxzXLi555CMFtxPQf1251228.shtml)
+
++ [民调显示马克龙支持率跌至其法国总统生涯最低点](https://news.cctv.com/2025/12/28/ARTI1kpqj1syLp42cVpOxDsq251228.shtml)
+
