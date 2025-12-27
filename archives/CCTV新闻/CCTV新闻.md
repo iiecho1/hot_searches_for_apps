@@ -187,3 +187,7 @@
 
 + [泰柬开始举行停火谈判](https://news.cctv.com/2025/12/27/ARTIDmTKzU67MR9chHnxcGpZ251227.shtml)
 
++ [泰柬就停火问题签署联合声明 将从当地时间12时开始停火](https://news.cctv.com/2025/12/27/ARTIWYW3sivvHcS6qFrSqhtH251227.shtml)
+
++ [马杜罗重申愿在相互尊重基础上与美对话](https://news.cctv.com/2025/12/27/ARTIQryYPsvFZDSKspnWSE48251227.shtml)
+
