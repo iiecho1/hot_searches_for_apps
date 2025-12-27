@@ -149,3 +149,15 @@
 
 + [汽车网络安全开发语言选型指南：C/C++/Rust/Java等主流语言对比+Perforce QAC/Klocwork工具支持](https://blog.csdn.net/weixin_49715102/article/details/156300277)
 
++ [【2025年度创作】分享和总结如何通过AI快速开发一款MCP（模型上下文协议）服务插件，并进行本地和线上部署测试，最后上架MCP以及智能体调用MCP插件](https://blog.csdn.net/lmy_520/article/details/156328132)
+
++ [Spring MVC请求处理流程源码分析与DispatcherServlet核心逻辑](https://blog.csdn.net/sinat_41617212/article/details/156313030)
+
++ [深入解析 Linux InfiniBand CQ 用户态接口实现](https://blog.csdn.net/eidolon_foot/article/details/155892658)
+
++ [从面向对象 CSS 到原子化架构：Tailwind CSS 与 React 性能优化实践](https://blog.csdn.net/2401_88920300/article/details/156315786)
+
++ [【OpenHarmony】Hiview架构](https://blog.csdn.net/weixin_43912621/article/details/156271905)
+
++ [淘宝 npm 镜像与 CDN 加速链路解析：不只是 Registry，更是分层静态加速架构](https://blog.csdn.net/qq_17335549/article/details/156314332)
+
