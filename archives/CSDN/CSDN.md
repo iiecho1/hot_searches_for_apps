@@ -167,3 +167,7 @@
 
 + [Cordova与OpenHarmony数据备份恢复系统](https://blog.csdn.net/2502_94620431/article/details/156315440)
 
++ [ModelEngine深度评测：从智能体开发到可视化编排的全栈AI工程实践](https://blog.csdn.net/lbbxmx111/article/details/156300409)
+
++ [Python 爬虫实战：从 Ajax 到 POST 请求，完整爬取汉堡王门店与产品数据](https://blog.csdn.net/qq_21106275/article/details/156315968)
+

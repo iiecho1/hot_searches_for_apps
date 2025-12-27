@@ -193,3 +193,13 @@
 
 + [美国消费者节日购物季 礼品价格上涨 民众遭遇“价签冲击”](https://news.cctv.com/2025/12/27/ARTIOISZ610w5C9ZHMHv0sLH251227.shtml)
 
++ [担忧物价和经济前景 更多美国人走进二手商店](https://news.cctv.com/2025/12/27/ARTIXyjcx7EnEIhu0OCECdaF251227.shtml)
+
++ [越南老街省发生公交车翻车事故 已致9死8伤](https://news.cctv.com/2025/12/27/ARTIL1S2XoD7aGgKMzEJW9np251227.shtml)
+
++ [苏丹西部城市遭无人机袭击 造成至少17人死亡](https://news.cctv.com/2025/12/27/ARTIw73tesflqGBOuoyyDrII251227.shtml)
+
++ [柬泰两国开始进入停火状态](https://news.cctv.com/2025/12/27/ARTIKhRyHx4g2pQR8ZvfZyUw251227.shtml)
+
++ [印尼巴布亚省一艘快艇沉没 3人获救18人失踪](https://news.cctv.com/2025/12/27/ARTI32OudKU7CUG3mlgtZcyv251227.shtml)
+
