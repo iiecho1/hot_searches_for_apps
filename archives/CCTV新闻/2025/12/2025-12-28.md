@@ -207,3 +207,9 @@
 
 + [俄称已控制扎波罗热第二大城市](https://news.cctv.com/2025/12/28/ARTIWykLTCrtVWUXRMBjhEki251228.shtml)
 
++ [日本东京都一动物园逃脱的狼已被捕获](https://news.cctv.com/2025/12/28/ARTIiTS3hYFYtWJX2O50TEDq251228.shtml)
+
++ [以“签证惩罚”相威胁 英国施压非洲三国接收遣返移民](https://news.cctv.com/2025/12/28/ARTIZjemWgLOgNw474b6JXly251228.shtml)
+
++ [加总理会见到访的乌总统 承诺追加对乌25亿加元援助](https://news.cctv.com/2025/12/28/ARTISGlMf3ROodLuv4zrS50j251228.shtml)
+
