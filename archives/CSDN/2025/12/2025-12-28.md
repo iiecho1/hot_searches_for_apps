@@ -191,3 +191,9 @@
 
 + [【蓝牙PAN】精讲[10]：链路管理器互操作性要求](https://blog.csdn.net/weixin_37800531/article/details/156329640)
 
++ [【AI智能体】AI自动化流程编排平台N8N核心组件使用详解](https://blog.csdn.net/zhangcongyi420/article/details/156132112)
+
++ [基于ModelEngine打造短视频剧本生成智能体：从创意到爆款的AI创作引擎](https://blog.csdn.net/2301_80466357/article/details/156362362)
+
++ [2026年 Conda 与 pip 国内镜像配置终极指南](https://blog.csdn.net/qq_38238956/article/details/156280951)
+
