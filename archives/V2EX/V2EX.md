@@ -33,3 +33,7 @@
 
 + [Google 账号被停用是不是申诉也没用？](https://www.v2ex.com/t/1181578)
 
++ [程序员对 AI 的偏见](https://www.v2ex.com/t/1181637)
+
++ [你们的广州电信 IPv6 地址下发还正常吗？](https://www.v2ex.com/t/1181570)
+

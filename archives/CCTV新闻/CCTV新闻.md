@@ -189,3 +189,15 @@
 
 + [俄称仍控制库皮扬斯克 乌否认俄说法](https://news.cctv.com/2025/12/28/ARTIfp84hyM5vRZiun1mi7C6251228.shtml)
 
++ [以求同存异妥处双方分歧——二〇二五中美经贸启示录③](https://news.cctv.com/2025/12/28/ARTIKCucx2DAMQQLv5gRt82o251228.shtml)
+
++ [“为中外企业创造更多合作机会”——访苏伊士集团首席执行官夏弘业](https://news.cctv.com/2025/12/28/ARTI5RqemuUj3eDjZMo8TrAC251228.shtml)
+
++ [“中企承建的供水项目让我们的生活焕然一新”（新时代中非合作）](https://news.cctv.com/2025/12/28/ARTIqWL85OlN2IFB0gca5rL0251228.shtml)
+
++ [日本前首相石破茂再批“日本拥核”言论](https://news.cctv.com/2025/12/28/ARTICGatxxGhFswhKrj9XBI6251228.shtml)
+
++ [2025：非洲大陆的中国印记](https://news.cctv.com/2025/12/28/ARTIJf82C0dlHYepOxKoiLft251228.shtml)
+
++ [格鲁吉亚前国防部长因涉嫌组织策划政变被逮捕](https://news.cctv.com/2025/12/28/ARTI4RWfkxUEDz76C9TyP580251228.shtml)
+
