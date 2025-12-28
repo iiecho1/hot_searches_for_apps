@@ -55,3 +55,13 @@
 
 + [纽约学校手机禁令暴露问题：部分高中生不会看指针钟表](https://m.ithome.com/html/908452.htm)
 
++ [华为鸿蒙 HarmonyOS 6 API (22) Beta 版开发者定向招募 12 月 31 日报名](https://m.ithome.com/html/908526.htm)
+
++ [参数怪的逆袭：消息称荣耀 WIN 系列新机首销数据同比上代 GT 大概是 10 倍](https://m.ithome.com/html/908546.htm)
+
++ [彩壳版苹果初代 AirPods 耳机曝光：风格酷似 iPhone 5C](https://m.ithome.com/html/908530.htm)
+
++ [消息称三星在 Galaxy S26 手机定价方面陷入困境，面临内存涨价与成本压力两难抉择](https://m.ithome.com/html/908420.htm)
+
++ [原告向法庭出示伪证带有豆包 AI 水印，法官依法对其予以训诫](https://m.ithome.com/html/908471.htm)
+

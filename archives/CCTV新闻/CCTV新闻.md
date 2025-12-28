@@ -201,3 +201,7 @@
 
 + [格鲁吉亚前国防部长因涉嫌组织策划政变被逮捕](https://news.cctv.com/2025/12/28/ARTI4RWfkxUEDz76C9TyP580251228.shtml)
 
++ [巴西里约一海滩附近发生飞机坠海事故 飞行员死亡](https://news.cctv.com/2025/12/28/ARTIwsCc30H7k3PeocWxyJbn251228.shtml)
+
++ [俄外长：日本正加速军事化 最好审慎权衡避免草率决定](https://news.cctv.com/2025/12/28/ARTI80MF7ivmc8eVyMRkowgR251228.shtml)
+
