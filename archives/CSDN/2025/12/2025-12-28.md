@@ -185,3 +185,9 @@
 
 + [Jira工具介绍（项目管理工具）](https://blog.csdn.net/Dontla/article/details/156280830)
 
++ [【金仓数据库】ksql 指南（五） —— 创建与管理索引和视图（KingbaseES 查询优化核心）](https://blog.csdn.net/2302_78391795/article/details/156353049)
+
++ [SQL 注入的 10 种进阶姿势：WAF 防火墙绕过实战，你的数据库真的安全吗？](https://blog.csdn.net/qq_34252622/article/details/156277139)
+
++ [【蓝牙PAN】精讲[10]：链路管理器互操作性要求](https://blog.csdn.net/weixin_37800531/article/details/156329640)
+
