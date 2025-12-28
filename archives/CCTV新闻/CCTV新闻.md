@@ -215,3 +215,13 @@
 
 + [俄外长：欧洲军队若出现在乌克兰将成为俄军“合法目标”](https://news.cctv.com/2025/12/28/ARTIxalbi6MTQOsPg5mjhXxp251228.shtml)
 
++ [美军MQ-9“死神”无人机现身波多黎各](https://news.cctv.com/2025/12/28/ARTIq8qPoVCm4eYGYJBSlMRp251228.shtml)
+
++ [冬季风暴席卷北欧造成至少两人死亡 多地交通受影响](https://news.cctv.com/2025/12/28/ARTI4HM9XmjvPtA2CkT04LiK251228.shtml)
+
++ [泰柬停火生效后首日 双方通报最新局势](https://news.cctv.com/2025/12/28/ARTIWzaD2ljtLZ8iWqrw0SiV251228.shtml)
+
++ [欧洲最高火山时隔半年再次喷发](https://news.cctv.com/2025/12/28/ARTIG1uYJnTChFrmeI9qxOBr251228.shtml)
+
++ [俄外长警告欧洲国家勿向乌派兵](https://news.cctv.com/2025/12/28/ARTIxalbi6MTQOsPg5mjhXxp251228.shtml)
+

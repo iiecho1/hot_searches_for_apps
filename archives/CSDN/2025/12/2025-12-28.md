@@ -183,3 +183,5 @@
 
 + [法无禁止皆自由——新能源汽车CAN报文逆向技术的价值、行业应用与实现方案](https://blog.csdn.net/weixin_62244995/article/details/156353633)
 
++ [Jira工具介绍（项目管理工具）](https://blog.csdn.net/Dontla/article/details/156280830)
+
