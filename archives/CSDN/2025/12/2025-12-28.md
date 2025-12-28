@@ -209,3 +209,7 @@
 
 + [【Python机器学习】支持向量机(SVM)完全指南：从理论到实践的深度探索](https://blog.csdn.net/nmdbbzcl/article/details/156341634)
 
++ [每天节省3小时：我们如何用IPIDEA动态IP解决海外数据采集难题](https://blog.csdn.net/aasd23/article/details/156241331)
+
++ [科研人狂喜：30 秒生成 NeurIPS 级插图，Nano Banana Pro 全流程体验](https://blog.csdn.net/shi_hong_fei_hei/article/details/156357286)
+
