@@ -201,3 +201,11 @@
 
 + [毕业项目推荐：90-基于yolov8/yolov5/yolo11的工程车辆检测识别系统（Python+卷积神经网络）](https://blog.csdn.net/weixin_71667732/article/details/156300499)
 
++ [公路病害智能检测的数据基石：主流开源数据集全景与应用洞察](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/156324811)
+
++ [【C#】RocketMQ、Redis的使用](https://blog.csdn.net/wangnaisheng/article/details/156304842)
+
++ [【JavaWeb学习 | 第23篇】监听器、RBAC权限模型](https://blog.csdn.net/2401_86760859/article/details/155618433)
+
++ [【Python机器学习】支持向量机(SVM)完全指南：从理论到实践的深度探索](https://blog.csdn.net/nmdbbzcl/article/details/156341634)
+
