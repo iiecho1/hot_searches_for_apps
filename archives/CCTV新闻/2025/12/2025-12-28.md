@@ -175,3 +175,7 @@
 
 + [民调显示马克龙支持率跌至其法国总统生涯最低点](https://news.cctv.com/2025/12/28/ARTI1kpqj1syLp42cVpOxDsq251228.shtml)
 
++ [多国及国际组织发表联合声明 反对以色列承认索马里兰](https://news.cctv.com/2025/12/28/ARTIt6Xa8CeV9VuEf8DwjMjK251228.shtml)
+
++ [一份计划两个版本 乌总统再赴美谈“和平协议”](https://news.cctv.com/2025/12/28/ARTIqfhyENdph4iUPaaDsK2c251228.shtml)
+
