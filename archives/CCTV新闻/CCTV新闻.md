@@ -213,3 +213,5 @@
 
 + [加总理会见到访的乌总统 承诺追加对乌25亿加元援助](https://news.cctv.com/2025/12/28/ARTISGlMf3ROodLuv4zrS50j251228.shtml)
 
++ [俄外长：欧洲军队若出现在乌克兰将成为俄军“合法目标”](https://news.cctv.com/2025/12/28/ARTIxalbi6MTQOsPg5mjhXxp251228.shtml)
+

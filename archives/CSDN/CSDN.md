@@ -179,3 +179,7 @@
 
 + [数据是燃料：理解数据类型、质量评估与基本预处理](https://blog.csdn.net/htw250056/article/details/156359367)
 
++ [融合Transformer与CNN的多模态时间序列预测模型](https://blog.csdn.net/2401_85083137/article/details/156360722)
+
++ [法无禁止皆自由——新能源汽车CAN报文逆向技术的价值、行业应用与实现方案](https://blog.csdn.net/weixin_62244995/article/details/156353633)
+
