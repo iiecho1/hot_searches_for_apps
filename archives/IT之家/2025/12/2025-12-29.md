@@ -25,3 +25,27 @@
 
 + [纽约学校手机禁令暴露问题：部分高中生不会看指针钟表](https://m.ithome.com/html/908452.htm)
 
++ [我国首个“6 车道改 12 车道”高速公路改扩建项目建成通车](https://m.ithome.com/html/908580.htm)
+
++ [财政部明确：明年继续实施“国补”](https://m.ithome.com/html/908602.htm)
+
++ [小米澎湃 OS 3 正式版覆盖更多机型，含 REDMI K60 系列、Turbo 3 等](https://m.ithome.com/html/908560.htm)
+
++ [男子爱奇艺会员充了 25 年想退费遇难题，官方回应称将核实后安排退费](https://m.ithome.com/html/908586.htm)
+
++ [参数怪的逆袭：消息称荣耀 WIN 系列新机首销数据同比上代 GT 大概是 10 倍](https://m.ithome.com/html/908546.htm)
+
++ [彩壳版苹果初代 AirPods 耳机曝光：风格酷似 iPhone 5C](https://m.ithome.com/html/908530.htm)
+
++ [特斯拉回应女子 30 多万买到老款 Model Y：员工协助下单未执行标准确认流程](https://m.ithome.com/html/908629.htm)
+
++ [Epic 连续喜加一第 11 弹：独立冒险游戏《磁带妖怪》免费领](https://m.ithome.com/html/908535.htm)
+
++ [小米 17 Ultra 系列手机获澎湃 HyperOS 3.0.7.0 升级，相机新增 2 亿模式等](https://m.ithome.com/html/908539.htm)
+
++ [荣耀罗巍称 WIN 新机拥有旗舰拍照算法，号称同档位最顶](https://m.ithome.com/html/908579.htm)
+
++ [曝字节跳动 2026 年将从华为采购昇腾芯片，订单总额或超 400 亿元](https://m.ithome.com/html/908659.htm)
+
++ [零跑 D19 车型更多内饰细节公布：半苯胺头层真皮、25m&#178; 软包等](https://m.ithome.com/html/908528.htm)
+

@@ -101,3 +101,15 @@
 
 + [【Python机器学习】支持向量机(SVM)完全指南：从理论到实践的深度探索](https://blog.csdn.net/nmdbbzcl/article/details/156341634)
 
++ [突破语言边界：Python 与 C/C++ 集成方案年度深度总结](https://blog.csdn.net/weixin_47560078/article/details/156339980)
+
++ [国内python职位数据分析_flask+spider](https://blog.csdn.net/shmp54/article/details/156314011)
+
++ [SpringBoot前后端交互实战案例：加法计算器与用户登录](https://blog.csdn.net/HANhylyxy/article/details/156109530)
+
++ [【C#】RocketMQ、Redis的使用](https://blog.csdn.net/wangnaisheng/article/details/156304842)
+
++ [CentOS 7更换阿里云的源](https://blog.csdn.net/GANWEI793089452/article/details/156315080)
+
++ [昇腾NPU实战：Llama-2-7B大模型的部署全流程与性能深度分析](https://blog.csdn.net/lwcwam/article/details/156337667)
+
