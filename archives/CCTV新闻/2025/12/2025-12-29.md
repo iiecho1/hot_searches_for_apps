@@ -165,3 +165,9 @@
 
 + [韩国总统府正式迁回青瓦台](https://news.cctv.com/2025/12/29/ARTIPx6Y14uBvzk3gtIz1zS7251229.shtml)
 
++ [哈马斯称以色列未履行停火协议 呼吁美方施压](https://news.cctv.com/2025/12/29/ARTIbtDV2pwkndFz5wCyuGsF251229.shtml)
+
++ [俄称控制顿涅茨克等地多个居民点 乌称打击俄一炼油厂](https://news.cctv.com/2025/12/29/ARTIcutfJQpYRCxCd6ls2WL1251229.shtml)
+
++ [特朗普称与普京进行了“富有成效”的通话](https://news.cctv.com/2025/12/29/ARTImaSaM5LAzdvh0NcXSV1V251229.shtml)
+
