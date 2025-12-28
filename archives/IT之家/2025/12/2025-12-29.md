@@ -49,3 +49,9 @@
 
 + [零跑 D19 车型更多内饰细节公布：半苯胺头层真皮、25m&#178; 软包等](https://m.ithome.com/html/908528.htm)
 
++ [华为鸿蒙 HarmonyOS 6 API (22) Beta 版开发者定向招募 12 月 31 日报名](https://m.ithome.com/html/908526.htm)
+
++ [消息称三星在 Galaxy S26 手机定价方面陷入困境，面临内存涨价与成本压力两难抉择](https://m.ithome.com/html/908420.htm)
+
++ [原告向法庭出示伪证带有豆包 AI 水印，法官依法对其予以训诫](https://m.ithome.com/html/908471.htm)
+

@@ -113,3 +113,25 @@
 
 + [昇腾NPU实战：Llama-2-7B大模型的部署全流程与性能深度分析](https://blog.csdn.net/lwcwam/article/details/156337667)
 
++ [CSDN年度总结2025：技术逐梦不止，步履坚定向前](https://blog.csdn.net/weixin_47431459/article/details/156334924)
+
++ [金仓数据库MongoDB兼容深度体验：从协议到性能的硬核拆解](https://blog.csdn.net/qq_32682301/article/details/156366698)
+
++ [MySQL事件调度器：深入解析与工作原理](https://blog.csdn.net/xishining/article/details/156328307)
+
++ [mysql的 order by是怎么工作的？redo-log和binlog为什么采用双确认机制？](https://blog.csdn.net/qq_44850489/article/details/156312716)
+
++ [【TextIn大模型加速器 + 火山引擎】赋能机器人行业分析与VLA研究](https://blog.csdn.net/maizousidemao/article/details/156368137)
+
++ [深入浅出 PID 算法：原理、实现与应用实战](https://blog.csdn.net/m0_74670510/article/details/156308466)
+
++ [幽冥大陆(七十五) MinGW编译 WISPER ASR源码fairyalliancewhisper——东方仙盟练气期](https://blog.csdn.net/cybersnow/article/details/156343285)
+
++ [SVM、K-means与DBSCAN 算法简介](https://blog.csdn.net/m0_72616498/article/details/156341507)
+
++ [2025年度全景复盘：技术成长、创作突破与生活的三重奏](https://blog.csdn.net/qq_16242613/article/details/156363885)
+
++ [生成对抗样本在网络安全中的工程化解读——AI 误报、误判与对抗的真实边界](https://blog.csdn.net/oQianYuan/article/details/156342644)
+
++ [2026年 Conda 与 pip 国内镜像配置终极指南](https://blog.csdn.net/qq_38238956/article/details/156280951)
+
