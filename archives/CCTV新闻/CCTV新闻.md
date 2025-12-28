@@ -161,3 +161,5 @@
 
 + [美部分参议员警告：全球半数国家可能没有美国大使](https://news.cctv.com/2025/12/25/ARTIiD5XeYdo9JbpRjCvfPiZ251225.shtml)
 
++ [热点问答｜以色列为何承认索马里兰](https://news.cctv.com/2025/12/29/ARTIipFFb6GpB3041tAdPpTI251229.shtml)
+

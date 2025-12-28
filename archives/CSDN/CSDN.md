@@ -135,3 +135,5 @@
 
 + [2026年 Conda 与 pip 国内镜像配置终极指南](https://blog.csdn.net/qq_38238956/article/details/156280951)
 
++ [深度解析Ooder架构：A2UI时代全栈设计的四大核心思考](https://blog.csdn.net/wenzhangli/article/details/156314518)
+
