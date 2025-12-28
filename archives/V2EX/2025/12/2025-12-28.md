@@ -23,3 +23,13 @@
 
 + [最近跟朋友合伙了一个跨境直播项目,心是真的累](https://www.v2ex.com/t/1181582)
 
++ [除了智谱 AI 输入法， Mac 上还有没有其他推荐](https://www.v2ex.com/t/1181553)
+
++ [内存条这么贵现在适合上车吗](https://www.v2ex.com/t/1181560)
+
++ [你看过最振奋人心的发布会是哪个？](https://www.v2ex.com/t/1181596)
+
++ [荣耀笔记本与 Linux - 性能管理](https://www.v2ex.com/t/1181579)
+
++ [Google 账号被停用是不是申诉也没用？](https://www.v2ex.com/t/1181578)
+

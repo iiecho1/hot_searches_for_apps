@@ -137,3 +137,19 @@
 
 + [无效曲线点攻击——破解蓝牙配对](https://blog.csdn.net/mutourend/article/details/156301168)
 
++ [Web安全中SQL注入绕过WAF的具体手法和实战案例](https://blog.csdn.net/2401_84466227/article/details/156268707)
+
++ [SQLMap注入完整操作流程（含全部细节 靶机学习用）](https://blog.csdn.net/2501_93842368/article/details/156315042)
+
++ [基于卷积神经网络的图像分类实践与原理解析](https://blog.csdn.net/qq_56999332/article/details/156261526)
+
++ [GitCode+昇腾部署Rnj-1模型实践教程](https://blog.csdn.net/YYDS_54/article/details/156299121)
+
++ [【论文阅读】Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation](https://blog.csdn.net/dundunmm/article/details/156314411)
+
++ [昇腾 NPU 算力平台下 Llama-2-7B 大模型部署与性能实测报告](https://blog.csdn.net/Pocker_Spades_A/article/details/156340816)
+
++ [Flutter跨平台向量数学库vector_math鸿蒙化使用指南](https://blog.csdn.net/hdn616964738/article/details/156275633)
+
++ [我的CSDN年度成长复盘与未来期许](https://blog.csdn.net/2401_86112610/article/details/156318219)
+

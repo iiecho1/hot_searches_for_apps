@@ -179,3 +179,13 @@
 
 + [一份计划两个版本 乌总统再赴美谈“和平协议”](https://news.cctv.com/2025/12/28/ARTIqfhyENdph4iUPaaDsK2c251228.shtml)
 
++ [南非东部发生一起交通事故致7人死亡](https://news.cctv.com/2025/12/28/ARTI6gwDtSudOYqyorwiogGK251228.shtml)
+
++ [美国纽约州出台法律约束“成瘾性内容推送”](https://news.cctv.com/2025/12/28/ARTIJdFF5LB2xhIgU5j6kprK251228.shtml)
+
++ [普京：若乌方不愿和平解决问题 俄将以军事手段解决](https://news.cctv.com/2025/12/28/ARTIdPzNPQEp68aAcZ5z27D9251228.shtml)
+
++ [伊拉克总理：伊军方将在数日内全面接管阿萨德空军基地](https://news.cctv.com/2025/12/28/ARTI0k5DPXBj7KH3PL33ROJS251228.shtml)
+
++ [俄称仍控制库皮扬斯克 乌否认俄说法](https://news.cctv.com/2025/12/28/ARTIfp84hyM5vRZiun1mi7C6251228.shtml)
+
