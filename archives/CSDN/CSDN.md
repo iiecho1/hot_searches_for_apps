@@ -137,3 +137,7 @@
 
 + [深度解析Ooder架构：A2UI时代全栈设计的四大核心思考](https://blog.csdn.net/wenzhangli/article/details/156314518)
 
++ [Perforce《2025游戏技术现状报告》Part 5：创意工作者在用什么工具以及如何看待游戏引擎与生成式AI（附免费下载）](https://blog.csdn.net/weixin_49715102/article/details/156299907)
+
++ [从迷茫到笃定：我的 2025 年个人成长与技术突破回顾](https://blog.csdn.net/2401_83830408/article/details/156339412)
+
