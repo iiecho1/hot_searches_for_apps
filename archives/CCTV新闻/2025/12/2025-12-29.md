@@ -187,3 +187,9 @@
 
 + [视频丨刚果（金）难民涌入布隆迪 加剧人道危机](https://news.cctv.com/2025/12/29/ARTIocjh8f6LFjDFnCecirIc251229.shtml)
 
++ [三颗伊朗观测卫星搭乘俄火箭升空](https://news.cctv.com/2025/12/29/ARTIOngQUc5pI4iyBRqWN0fB251229.shtml)
+
++ [日本千叶县发生多车连环相撞事故 多人被紧急送医](https://news.cctv.com/2025/12/29/ARTI6jX77YoVHbpIcE255cse251229.shtml)
+
++ [哥伦比亚一船只在太平洋水域沉没 4人死亡](https://news.cctv.com/2025/12/29/ARTIIDsVnIeY34RzfCZ6pvRV251229.shtml)
+
