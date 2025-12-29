@@ -217,3 +217,7 @@
 
 + [9秒 vs 0.5秒：Azure Functions Java冷启动预加载依赖的5大真相与3个致命陷阱](https://blog.csdn.net/z_344791576/article/details/151762652)
 
++ [【Cursor实战】Cursor+Figma MCP通过对话直接生成设计稿](https://blog.csdn.net/weixin_43041894/article/details/156368234)
+
++ [Docker小白搭建xxl-job，mysql的过程日志](https://blog.csdn.net/super_ma_1981/article/details/156366420)
+
