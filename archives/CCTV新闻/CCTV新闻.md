@@ -167,3 +167,5 @@
 
 + [记者世界·2025丨危险的转向](https://news.cctv.com/2025/12/30/ARTIgoiJ0ku6hhSXwmbggJEY251229.shtml)
 
++ [普京签署命令：2026年将征召26.1万名公民服兵役](https://news.cctv.com/2025/12/30/ARTIBvty36AdTgrKvOYxarK9251230.shtml)
+
