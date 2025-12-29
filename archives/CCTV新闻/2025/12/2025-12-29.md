@@ -209,3 +209,11 @@
 
 + [本轮巴以冲突已致加沙地带71266人死亡](https://news.cctv.com/2025/12/29/ARTIGOgRNcDHzEwDBOtyslrh251229.shtml)
 
++ [列国鉴·年终观察｜高市早苗上台 日本加速右倾](https://news.cctv.com/2025/12/29/ARTIlQLdX0Q26E8xbaZ3MMM7251229.shtml)
+
++ [外交部：中方将继续与各国携手书写相互成就的新篇章](https://news.cctv.com/2025/12/29/ARTIl5eei3B3OYaKYlPJCKqm251229.shtml)
+
++ [韩国国防部从重处罚多名前高级将领](https://news.cctv.com/2025/12/29/ARTICtri8KgqBgILvX9d0lQ5251229.shtml)
+
++ [中使馆通知：入境格鲁吉亚游客须购买旅游保险](https://news.cctv.com/2025/12/29/ARTIetjs7eEZ7qdbw6z3EETe251229.shtml)
+
