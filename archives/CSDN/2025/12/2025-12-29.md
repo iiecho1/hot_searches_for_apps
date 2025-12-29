@@ -191,3 +191,15 @@
 
 + [基于 SpringBoot + jQuery 实现留言板功能](https://blog.csdn.net/HANhylyxy/article/details/156329195)
 
++ [【Linux】Linux 安全实战：防火墙配置 + 漏洞修复，符合企业合规标准](https://blog.csdn.net/lbbxmx111/article/details/156367304)
+
++ [【C++藏宝阁】C++介绍：从发展历程到现代应用](https://blog.csdn.net/2301_80026901/article/details/156387870)
+
++ [【蓝牙PAN】精讲（10）：链路管理器互操作性要求](https://blog.csdn.net/weixin_37800531/article/details/156329640)
+
++ [2025企业级架构演进：重构 Java/Python 的 RAG 与 Agent 系统的六种核心策略](https://blog.csdn.net/qq_50954361/article/details/156368516)
+
++ [【计算机视觉】深入理解Transformer：架构、原理与视觉应用](https://blog.csdn.net/2301_81152266/article/details/156312416)
+
++ [Vue Router 进阶实战：嵌套路由 / 导航守卫 / 懒加载全解析（含性能优化 + 避坑指南）](https://blog.csdn.net/qq_40303030/article/details/155611049)
+
