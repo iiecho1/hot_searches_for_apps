@@ -127,3 +127,5 @@
 
 + [Elasticsearch：使用 Agent Builder 的 A2A 实现 - 开发者的圣诞颂歌](https://blog.csdn.net/UbuntuTouch/article/details/156375398)
 
++ [【C#】RocketMQ、Redis的使用](https://blog.csdn.net/wangnaisheng/article/details/156304842)
+
