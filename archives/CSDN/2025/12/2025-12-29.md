@@ -145,3 +145,15 @@
 
 + [钉钉“待办“相关接口调研列表](https://blog.csdn.net/weixin_52236586/article/details/156342786)
 
++ [【TextIn大模型加速器+火山引擎】打造智能文档处理流水线：从跨国药企手册到金融单据核验的全链路实战](https://blog.csdn.net/u014727709/article/details/156365300)
+
++ [PostgreSQL 的开源扩展：高效存储和检索向量数据的 PGVector 的详细使用](https://blog.csdn.net/cui_yonghua/article/details/156364109)
+
++ [2025 Vue 技术实战全景：从工程化到性能优化的 8 个落地突破](https://blog.csdn.net/qq_40303030/article/details/156331129)
+
++ [Pascal.Edge物联网平台：生产企业设备数据采集与管理解决方案](https://blog.csdn.net/yuming/article/details/156305935)
+
++ [学习FPGA（八）快速傅里叶变换](https://blog.csdn.net/2203_75285955/article/details/156278442)
+
++ [Llama 3-8B-Instruct 在昇腾 NPU 上的 SGLang 性能实测](https://blog.csdn.net/weixin_61587867/article/details/156359141)
+

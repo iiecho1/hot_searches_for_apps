@@ -175,3 +175,13 @@
 
 + [俄美总统通话 美乌总统会面 “和平协议”仍存分歧](https://news.cctv.com/2025/12/29/ARTI9UMNrZZN5xU7QChJI4E6251229.shtml)
 
++ [以稳定合作实现共同繁荣（钟声·大国外交·2025年度回眸）](https://news.cctv.com/2025/12/29/ARTI3Qvg8Tj3BEnl0xahJvPI251229.shtml)
+
++ [国际舆论看好中国经济发展前景——为全球发展注入稀缺的确定性（外媒看中国）](https://news.cctv.com/2025/12/29/ARTIYoKx53nLDnVrs8ON45EW251229.shtml)
+
++ [印尼一养老院发生火灾已致16人遇难](https://news.cctv.com/2025/12/29/ARTIQBDlPGUahhDy0iO8U0Mx251229.shtml)
+
++ [日本北海道又确认一起高致病性禽流感疫情](https://news.cctv.com/2025/12/29/ARTIooU2j1YQ4FsvjNmiKKGq251229.shtml)
+
++ [韩国检方对尹锡悦、金建希等76人提起诉讼](https://news.cctv.com/2025/12/29/ARTIDAfLI8eSf87Q2Y1ZOQFW251229.shtml)
+

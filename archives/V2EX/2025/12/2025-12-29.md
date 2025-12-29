@@ -27,3 +27,15 @@
 
 + [这个家没法呆了，窒息得要命。](https://www.v2ex.com/t/1181694)
 
++ [2025 不足 3 天，说说你的遗憾](https://www.v2ex.com/t/1181799)
+
++ [表弟要结婚了，彩礼 30 万。](https://www.v2ex.com/t/1181811)
+
++ [真·Claude / Codex / Gemini -注册即送千万 TOKEN](https://www.v2ex.com/t/1181809)
+
++ [肩旁脱臼后的思考。每人来分享一下极难恢复的运动损伤吧。](https://www.v2ex.com/t/1181745)
+
++ [淘宝全球购，无权验假货](https://www.v2ex.com/t/1181823)
+
++ [刚刚失业，有个小小的创业想法](https://www.v2ex.com/t/1181804)
+
