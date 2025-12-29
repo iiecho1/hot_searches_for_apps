@@ -105,3 +105,17 @@
 
 + [Spring Boot快速入手](https://blog.csdn.net/2401_89019969/article/details/154399423)
 
++ [基于 Java 的消息队列选型年度总结：RabbitMQ、RocketMQ、Kafka 实战对比](https://blog.csdn.net/qq_41187124/article/details/156329375)
+
++ [dify 1.11.2 正式发布：向量数据库、安全增强、测试优化与多语言支持全面升级](https://blog.csdn.net/weixin_48502062/article/details/156313869)
+
++ [双重修炼：如何兼顾专业学习与博客创作的 2025 复盘](https://blog.csdn.net/2302_80329073/article/details/156334344)
+
++ [金仓数据库MongoDB兼容：不止于协议，更在于内核能力的深度赋能与创新实践](https://blog.csdn.net/g310773517/article/details/156368993)
+
++ [【 分布式唯一业务单号生成方案：Redis + 数据库双保险架构】](https://blog.csdn.net/WCXY_/article/details/156361467)
+
++ [2025年度全景复盘：技术成长、创作突破与生活的三重奏](https://blog.csdn.net/qq_16242613/article/details/156363885)
+
++ [Vibe Coding 氛围编程系列：集成开发环境 (IDE) & 终端有哪些推荐？](https://blog.csdn.net/qq_44866828/article/details/156398421)
+
