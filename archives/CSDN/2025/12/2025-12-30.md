@@ -125,3 +125,5 @@
 
 + [Elasticsearch实战：检索优化、聚合分析与分布式架构协同](https://blog.csdn.net/qq_24597659/article/details/156368680)
 
++ [Elasticsearch：使用 Agent Builder 的 A2A 实现 - 开发者的圣诞颂歌](https://blog.csdn.net/UbuntuTouch/article/details/156375398)
+
