@@ -197,3 +197,11 @@
 
 + [巴拿马政府下令立即在原址修复华人抵巴纪念碑](https://news.cctv.com/2025/12/29/ARTI7hyVfjvOiLyCaWuC59bK251229.shtml)
 
++ [内塔尼亚胡拜会特朗普，双方会谈些啥？](https://news.cctv.com/2025/12/29/ARTImq8tdBTVlarT0RErxB4q251229.shtml)
+
++ [中柬泰外长举行三方会晤](https://news.cctv.com/2025/12/29/ARTIr1uxgj4EXq37TX5fWIvL251229.shtml)
+
++ [中柬泰三方抚仙会晤新闻公报（全文）](https://news.cctv.com/2025/12/29/ARTIr5G2mcxmmds09MFXImhE251229.shtml)
+
++ [中柬泰外长会晤成功举行并发表新闻公报](https://news.cctv.com/2025/12/29/ARTIkZCCCFiFfSiLr7847Yep251229.shtml)
+

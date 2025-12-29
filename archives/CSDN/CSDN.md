@@ -185,3 +185,9 @@
 
 + [鸿蒙PC使用ffmpeg+electron实现视频中音频的提取](https://blog.csdn.net/weixin_47308626/article/details/156386085)
 
++ [从底层到实战，金仓多模数据库 MongoDB 兼容的技术实力到底有多强？](https://blog.csdn.net/qq_57761637/article/details/156370281)
+
++ [艾莉丝努力练剑的2025年度总结](https://blog.csdn.net/2401_89899187/article/details/156368534)
+
++ [基于 SpringBoot + jQuery 实现留言板功能](https://blog.csdn.net/HANhylyxy/article/details/156329195)
+
