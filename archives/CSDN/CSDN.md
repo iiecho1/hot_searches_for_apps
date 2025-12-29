@@ -177,3 +177,11 @@
 
 + [开源项目分享：Gitee热榜项目 2025年12月第四周 周榜](https://blog.csdn.net/2403_87969572/article/details/156369195)
 
++ [在AI洪流中，坚守每一次用心的创作——我的2025年度总结](https://blog.csdn.net/weixin_51390582/article/details/156380848)
+
++ [Spring Cloud 微服务实战：Nacos+Sentinel+Gateway 核心组件详解](https://blog.csdn.net/2401_86326742/article/details/156314017)
+
++ [NVIDIA AI Enterprise (NVAIE) 运维实战：面向医疗行业的深度培训路径分析](https://blog.csdn.net/kkiron/article/details/156383688)
+
++ [鸿蒙PC使用ffmpeg+electron实现视频中音频的提取](https://blog.csdn.net/weixin_47308626/article/details/156386085)
+

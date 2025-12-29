@@ -193,3 +193,7 @@
 
 + [哥伦比亚一船只在太平洋水域沉没 4人死亡](https://news.cctv.com/2025/12/29/ARTIIDsVnIeY34RzfCZ6pvRV251229.shtml)
 
++ [心相近｜相知无远近——习近平主席促进中外人民友好的故事](https://news.cctv.com/2025/12/29/ARTIeyl89qUgFOoAqTLHkhMr251229.shtml)
+
++ [巴拿马政府下令立即在原址修复华人抵巴纪念碑](https://news.cctv.com/2025/12/29/ARTI7hyVfjvOiLyCaWuC59bK251229.shtml)
+

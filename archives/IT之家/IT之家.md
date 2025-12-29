@@ -73,3 +73,7 @@
 
 + [Epic 连续喜加一第 12 弹：《SKALD：攻打黑修院》免费领](https://m.ithome.com/html/908692.htm)
 
++ [微信回应关于占存储空间的误解：占用 40GB 以上的用户，聊天记录平均占比达 70%](https://m.ithome.com/html/908814.htm)
+
++ [荣耀 Power2 官宣将于 1 月 5 日发布，搭载 10080mAh 青海湖电池](https://m.ithome.com/html/908726.htm)
+
