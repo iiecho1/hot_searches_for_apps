@@ -171,3 +171,7 @@
 
 + [特朗普称与普京进行了“富有成效”的通话](https://news.cctv.com/2025/12/29/ARTImaSaM5LAzdvh0NcXSV1V251229.shtml)
 
++ [墨西哥南部一列客运列车脱轨 载有约200人](https://news.cctv.com/2025/12/29/ARTIhdLCI4wDIRoobJWaVduh251229.shtml)
+
++ [俄美总统通话 美乌总统会面 “和平协议”仍存分歧](https://news.cctv.com/2025/12/29/ARTI9UMNrZZN5xU7QChJI4E6251229.shtml)
+

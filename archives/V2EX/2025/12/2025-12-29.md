@@ -21,3 +21,9 @@
 
 + [手写网文的时代已经结束了](https://www.v2ex.com/t/1181669)
 
++ [我看有人说 win11 正常安装得系统, 其实都是运行在虚拟机上的](https://www.v2ex.com/t/1181760)
+
++ [各位谁知道现在入手 MacBook AirM4 的最便宜方式](https://www.v2ex.com/t/1181689)
+
++ [这个家没法呆了，窒息得要命。](https://www.v2ex.com/t/1181694)
+
