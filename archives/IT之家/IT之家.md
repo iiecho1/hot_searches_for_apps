@@ -61,3 +61,15 @@
 
 + [零跑首款 MPV 车型 D99 首次亮相，定位科技豪华旗舰](https://m.ithome.com/html/908680.htm)
 
++ [特斯拉正测试鸿蒙 HarmonyOS 数字车钥匙功能，引发苹果 iPhone 车钥匙猜测](https://m.ithome.com/html/908689.htm)
+
++ [2026 年春晚四地分会场宣布：黑龙江哈尔滨、浙江义乌、安徽合肥、四川宜宾](https://m.ithome.com/html/908624.htm)
+
++ [《疯狂动物城 2》成为中国影史首部观影人次破亿进口电影](https://m.ithome.com/html/908657.htm)
+
++ [零跑 D19 豪华旗舰 SUV 确认 2026 年 4 月正式上市交付： 6 座 / 7 座可选，双 8797 芯片](https://m.ithome.com/html/908678.htm)
+
++ [小米穿戴本月发版进度公布：手环 9、Watch S4 41mm 全量推送，其他设备预计本月完成覆盖](https://m.ithome.com/html/908683.htm)
+
++ [Epic 连续喜加一第 12 弹：《SKALD：攻打黑修院》免费领](https://m.ithome.com/html/908692.htm)
+

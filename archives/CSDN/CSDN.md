@@ -157,3 +157,7 @@
 
 + [Llama 3-8B-Instruct 在昇腾 NPU 上的 SGLang 性能实测](https://blog.csdn.net/weixin_61587867/article/details/156359141)
 
++ [从0到1搭建StarRocks3.4.1存算一体架构（VM 虚拟机版）](https://blog.csdn.net/tomxjc/article/details/156340718)
+
++ [50天50个小项目 (React19 + Tailwindcss V4) ✨ | AutoTextEffect（自动打字机）](https://blog.csdn.net/WOMENshiNIDE/article/details/156367293)
+

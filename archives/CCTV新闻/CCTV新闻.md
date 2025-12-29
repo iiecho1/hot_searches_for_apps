@@ -185,3 +185,5 @@
 
 + [韩国检方对尹锡悦、金建希等76人提起诉讼](https://news.cctv.com/2025/12/29/ARTIDAfLI8eSf87Q2Y1ZOQFW251229.shtml)
 
++ [视频丨刚果（金）难民涌入布隆迪 加剧人道危机](https://news.cctv.com/2025/12/29/ARTIocjh8f6LFjDFnCecirIc251229.shtml)
+
