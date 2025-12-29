@@ -129,3 +129,5 @@
 
 + [【C#】RocketMQ、Redis的使用](https://blog.csdn.net/wangnaisheng/article/details/156304842)
 
++ [Resilience4j故障注入的4大误区 vs 3个实战技巧：你的系统能扛住“地震“吗？](https://blog.csdn.net/z_344791576/article/details/151762641)
+
