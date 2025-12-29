@@ -205,3 +205,7 @@
 
 + [中柬泰外长会晤成功举行并发表新闻公报](https://news.cctv.com/2025/12/29/ARTIkZCCCFiFfSiLr7847Yep251229.shtml)
 
++ [佩斯科夫：俄美领导人近期将再次通话](https://news.cctv.com/2025/12/29/ARTIdlkyqcOzdlFxhj4ZME6Q251229.shtml)
+
++ [本轮巴以冲突已致加沙地带71266人死亡](https://news.cctv.com/2025/12/29/ARTIGOgRNcDHzEwDBOtyslrh251229.shtml)
+

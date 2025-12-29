@@ -17,3 +17,17 @@
 
 + [sinelaw/fresh](https://github.com/sinelaw/fresh)
 
++ [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+
++ [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+
++ [antiwork/gumroad](https://github.com/antiwork/gumroad)
+
++ [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
