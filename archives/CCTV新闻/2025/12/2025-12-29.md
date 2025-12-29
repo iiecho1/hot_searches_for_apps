@@ -217,3 +217,5 @@
 
 + [中使馆通知：入境格鲁吉亚游客须购买旅游保险](https://news.cctv.com/2025/12/29/ARTIetjs7eEZ7qdbw6z3EETe251229.shtml)
 
++ [第160次中老缅泰湄公河联合巡逻执法行动圆满结束](https://news.cctv.com/2025/12/29/ARTIyuIieqSw6ZxLt2Qz5WiO251229.shtml)
+

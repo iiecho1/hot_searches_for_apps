@@ -213,3 +213,7 @@
 
 + [MongoDB高危漏洞（CVE-2025-14847）深度剖析与全域防御指南](https://blog.csdn.net/weixin_42376192/article/details/156350408)
 
++ [4、Spark 函数_m/n/o/p/q/r](https://blog.csdn.net/weixin_44624117/article/details/156338666)
+
++ [9秒 vs 0.5秒：Azure Functions Java冷启动预加载依赖的5大真相与3个致命陷阱](https://blog.csdn.net/z_344791576/article/details/151762652)
+
