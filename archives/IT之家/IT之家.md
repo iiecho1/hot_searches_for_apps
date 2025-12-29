@@ -77,3 +77,13 @@
 
 + [荣耀 Power2 官宣将于 1 月 5 日发布，搭载 10080mAh 青海湖电池](https://m.ithome.com/html/908726.htm)
 
++ [某母系小迭代旗舰新机曝光：极窄四等边大直屏、骁龙 8E5 平台，预计属于小米 17 系列](https://m.ithome.com/html/908832.htm)
+
++ [世界上第一款手机机器人荣耀 ROBOT PHONE 真机亮相](https://m.ithome.com/html/908699.htm)
+
++ [【视频】感受主力机的好用状态，鸿蒙6 &amp; 鸿蒙5 体验对比](https://m.ithome.com/html/908758.htm)
+
++ [澎湃 OS 3 最新优化进展公布：小米 17 Pro Max 手机部分场景相机 UI 异常等问题修复](https://m.ithome.com/html/908677.htm)
+
++ [宁德时代：明年钠电池将在换电、乘用车、商用车、储能等领域大规模应用](https://m.ithome.com/html/908684.htm)
+

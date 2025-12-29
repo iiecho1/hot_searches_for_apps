@@ -207,3 +207,9 @@
 
 + [【技术教程】提示词开源库Fabric](https://blog.csdn.net/Chandler2017/article/details/156332344)
 
++ [【AI学习】深入探秘AI之神经网络的奥秘](https://blog.csdn.net/weixin_63944437/article/details/156389519)
+
++ [【Python机器学习】回归模型评估指标深度解析：MAE、MSE、RMSE与R²的理论与实践](https://blog.csdn.net/nmdbbzcl/article/details/156368184)
+
++ [MongoDB高危漏洞（CVE-2025-14847）深度剖析与全域防御指南](https://blog.csdn.net/weixin_42376192/article/details/156350408)
+
