@@ -161,3 +161,15 @@
 
 + [50天50个小项目 (React19 + Tailwindcss V4) ✨ | AutoTextEffect（自动打字机）](https://blog.csdn.net/WOMENshiNIDE/article/details/156367293)
 
++ [IoTDB AINode 实战指南：SQL 原生时序 AI 建模，毫秒级预测 / 异常检测落地](https://blog.csdn.net/weixin_43151418/article/details/156129877)
+
++ [当 MongoDB 遇上国产化：金仓数据库多模兼容背后的技术底气与工程实践](https://blog.csdn.net/weixin_44976692/article/details/156366645)
+
++ [【TextIn大模型加速器 + 火山引擎】用Coze+TextIn+飞书搭建全自动论文处理AI工作流](https://blog.csdn.net/weixin_51484460/article/details/156308730)
+
++ [Spring Boot AOP （六）架构落地与最佳实践](https://blog.csdn.net/qq_61654952/article/details/156379179)
+
++ [《数字图像处理》实验8-图像识别与分类](https://blog.csdn.net/2302_80961196/article/details/156310851)
+
++ [2025年FE_Jinger的年度总结、经验分享与展望](https://blog.csdn.net/m0_55049655/article/details/156339378)
+
