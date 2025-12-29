@@ -49,3 +49,7 @@
 
 + [贾跃亭：希望加速清偿中国法下、中国境内的债务，让这条救赎之路更快抵达终点](https://m.ithome.com/html/908723.htm)
 
++ [澎湃 OS 3 最新优化进展公布：小米 17 Pro Max 手机部分场景相机 UI 异常等问题修复](https://m.ithome.com/html/908677.htm)
+
++ [宁德时代：明年钠电池将在换电、乘用车、商用车、储能等领域大规模应用](https://m.ithome.com/html/908684.htm)
+

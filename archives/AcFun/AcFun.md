@@ -67,3 +67,5 @@
 
 + [Joker](https://m.acfun.cn/v/?ac=48143965)
 
++ [5个空ban是什么意思？快速看完一局韩服王者斗殴局#747 Siwoo, Jackal, 0909,](https://m.acfun.cn/v/?ac=48143700)
+

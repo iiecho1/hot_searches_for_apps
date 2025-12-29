@@ -119,3 +119,9 @@
 
 + [Vibe Coding 氛围编程系列：集成开发环境 (IDE) & 终端有哪些推荐？](https://blog.csdn.net/qq_44866828/article/details/156398421)
 
++ [2025年度总结：在AI浪潮中找到自己的节奏](https://blog.csdn.net/Mrxiao_bo/article/details/156398533)
+
++ [公路病害智能检测的数据基石：主流开源数据集全景与应用洞察](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/156324811)
+
++ [Elasticsearch实战：检索优化、聚合分析与分布式架构协同](https://blog.csdn.net/qq_24597659/article/details/156368680)
+
