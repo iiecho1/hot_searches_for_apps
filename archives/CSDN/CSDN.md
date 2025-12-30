@@ -153,3 +153,11 @@
 
 + [Sentinel 流控原理深度解析：构建高可用微服务的底层架构](https://blog.csdn.net/qq_43414012/article/details/156336539)
 
++ [职业院校人工智能与工业控制实训室建设方案](https://blog.csdn.net/whwzzc/article/details/156413799)
+
++ [打造班级成绩单多维度成绩分析智能体|基于扣子×TextIn大模型加速器×火山引擎实战构建](https://blog.csdn.net/weixin_52908342/article/details/156419522)
+
++ [使用 Elasticsearch 中的结构化输出创建可靠的 agents](https://blog.csdn.net/UbuntuTouch/article/details/156411541)
+
++ [基于昇腾310B的CANN推理开发--图片深度识别应用](https://blog.csdn.net/shi_hong_fei_hei/article/details/156398678)
+
