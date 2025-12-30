@@ -183,3 +183,11 @@
 
 + [北美观察丨内塔尼亚胡访美 特朗普：双方并非“百分百一致”](https://news.cctv.com/2025/12/30/ARTIPlumfzcQrWvU8hGGUpC0251230.shtml)
 
++ [土耳其称抓获110名极端组织嫌疑人](https://news.cctv.com/2025/12/30/ARTIRlMNuGlRDedvb136SFjH251230.shtml)
+
++ [日本民众集会抗议高市早苗错误言论——“坚决反对日本重蹈历史覆辙”](https://news.cctv.com/2025/12/30/ARTIG0BqAr0lRKdHLRbDepMU251230.shtml)
+
++ [以自身发展增益全球繁荣（钟声·大国外交·2025年度回眸）](https://news.cctv.com/2025/12/30/ARTIcIGbgJtzDtpuDnpTtQHx251230.shtml)
+
++ [也门总统领导委员会宣布全国进入为期90天的紧急状态](https://news.cctv.com/2025/12/30/ARTIYpMzAUpSQv85UrrdlDec251230.shtml)
+

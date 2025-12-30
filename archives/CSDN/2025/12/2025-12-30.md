@@ -161,3 +161,11 @@
 
 + [基于昇腾310B的CANN推理开发--图片深度识别应用](https://blog.csdn.net/shi_hong_fei_hei/article/details/156398678)
 
++ [机器学习&计算机视觉：带你了解机器学习、深度学习、计算机视觉、机器视觉的前世今生](https://blog.csdn.net/qq_53706413/article/details/156388779)
+
++ [基于昇腾310的CANN推理开发--图片深度识别应用](https://blog.csdn.net/shi_hong_fei_hei/article/details/156398678)
+
++ [神经网络全栈指南：从经典架构到NL范式落地（附12套工程化模板）](https://blog.csdn.net/2403_88718395/article/details/156356301)
+
++ [2025 美团技术团队热门技术文章汇总](https://blog.csdn.net/MeituanTech/article/details/156385060)
+

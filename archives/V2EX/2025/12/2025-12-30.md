@@ -45,3 +45,5 @@
 
 + [人生第一次开庭，劝大家还是去大城市定居！](https://www.v2ex.com/t/1182094)
 
++ [🖖Manus 被 Meta 数十亿美元收购❗❗❗](https://www.v2ex.com/t/1182036)
+
