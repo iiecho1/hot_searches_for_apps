@@ -49,3 +49,11 @@
 
 + [贾跃亭：希望加速清偿中国法下、中国境内的债务，让这条救赎之路更快抵达终点](https://m.ithome.com/html/908723.htm)
 
++ [时隔 7 年再办“科技春晚”，罗永浩为延迟超 40 分钟开场致歉](https://m.ithome.com/html/909327.htm)
+
++ [罗永浩“科技春晚”宣布观众门票收费原路退回，166 万元收入自掏腰包全捐](https://m.ithome.com/html/909352.htm)
+
++ [消息称小米汽车明年拟推 4 款新车，包含 SU7 行政版、2 款增程 SUV 等](https://m.ithome.com/html/909313.htm)
+
++ [小米回应 Xiaomi 17 Ultra 徕卡版大师变焦环“据说有松动”：预留有可活动空间、不影响功能](https://m.ithome.com/html/909345.htm)
+

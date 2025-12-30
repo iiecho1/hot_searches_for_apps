@@ -137,3 +137,15 @@
 
 + [Ubuntu 22.04 更换镜像源全流程（从零到快）](https://blog.csdn.net/qq_45308525/article/details/156360599)
 
++ [MySQL实战：自动计算字段如何让查询效率翻倍？](https://blog.csdn.net/xishining/article/details/156379658)
+
++ [边缘智能新篇章：YOLOv8在树莓派5上的INT8量化部署全攻略](https://blog.csdn.net/qq_74383080/article/details/156399932)
+
++ [miniOTA：32位mcu平台OTA升级](https://blog.csdn.net/weixin_54252044/article/details/152933730)
+
++ [基于渗透测试的阿里云轻量应用服务器安全策略研究](https://blog.csdn.net/m0_67906358/article/details/156417123)
+
++ [【k8s】Kubernetes 探针（livenessProbe、readinessProbe、startupProbe）](https://blog.csdn.net/u011397981/article/details/156397371)
+
++ [2025 美团技术团队热门技术文章汇总](https://blog.csdn.net/MeituanTech/article/details/156385060)
+
