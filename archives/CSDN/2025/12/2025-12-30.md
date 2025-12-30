@@ -169,3 +169,9 @@
 
 + [2025 美团技术团队热门技术文章汇总](https://blog.csdn.net/MeituanTech/article/details/156385060)
 
++ [数据挖掘实战-基于Stacking集成学习的地震警报分类预测模型](https://blog.csdn.net/m0_64336780/article/details/156391763)
+
++ [【测试理论与实践】（三）测试BUG篇：从 BUG 本质到实战博弈，带你吃透软件测试的核心逻辑](https://blog.csdn.net/2301_79248256/article/details/156390560)
+
++ [Maven - 构建过程分析 使用-profiles参数排查慢构建问题](https://blog.csdn.net/qq_41187124/article/details/156090988)
+

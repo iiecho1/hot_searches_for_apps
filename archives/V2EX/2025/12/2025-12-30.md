@@ -47,3 +47,7 @@
 
 + [🖖Manus 被 Meta 数十亿美元收购❗❗❗](https://www.v2ex.com/t/1182036)
 
++ [诸公，我有三计🤔！](https://www.v2ex.com/t/1182128)
+
++ [个人本地开发相关的软件你们都是装在哪里？](https://www.v2ex.com/t/1182060)
+
