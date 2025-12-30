@@ -169,3 +169,11 @@
 
 + [普京签署命令：2026年将征召26.1万名公民服兵役](https://news.cctv.com/2025/12/30/ARTIBvty36AdTgrKvOYxarK9251230.shtml)
 
++ [警方证实悉尼邦迪海滩恐袭枪手未受他人指使](https://news.cctv.com/2025/12/30/ARTI9I3cXT8cjBxnU3fozm39251230.shtml)
+
++ [沙特领导的联军空袭也门穆卡拉港](https://news.cctv.com/2025/12/30/ARTIqhYxQ477csbGysjxpqQ4251230.shtml)
+
++ [伊朗外交部：以色列用各种借口企图制造地区紧张局势](https://news.cctv.com/2025/12/30/ARTIvOMExc2ypg6UeRopah4C251230.shtml)
+
++ [普京官邸遭袭？俄乌各执一词、特朗普“很生气”](https://news.cctv.com/2025/12/30/ARTIMVIlPyt2dNd1PiH6HrCf251230.shtml)
+

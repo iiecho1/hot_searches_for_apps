@@ -135,3 +135,5 @@
 
 + [钉钉企业内部应用 SSO 免登集成实战 (Spring Boot 版)](https://blog.csdn.net/weixin_52236586/article/details/156333197)
 
++ [❾⁄₈ ⟦ OSCP ⬖ 研记 ⟧ 防病毒软件规避 ➱ 本地进程内存注入实践（下）](https://blog.csdn.net/weixin_42115157/article/details/156380504)
+
