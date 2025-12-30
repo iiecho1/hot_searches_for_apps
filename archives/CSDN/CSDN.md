@@ -193,3 +193,13 @@
 
 + [SpringBoot + RabbitMQ + Redis + MySQL：社交平台私信发送、已读状态同步与历史消息缓存实战](https://blog.csdn.net/u010223407/article/details/155918482)
 
++ [机器学习周报二十八](https://blog.csdn.net/weixin_60864619/article/details/156364359)
+
++ [2026 Android EDLA 认证相关资源网址汇总（持续更新）](https://blog.csdn.net/wenzhi20102321/article/details/156342982)
+
++ [PentestGPT的部署和使用本地大模型的调试记录](https://blog.csdn.net/John_Lenon/article/details/156399849)
+
++ [GLM4.6 vs Kimi vs Minimax-m2：国产AI前端生成能力对比实验](https://blog.csdn.net/weixin_49113487/article/details/156400667)
+
++ [【MySQL】事务管理](https://blog.csdn.net/m0_63325890/article/details/156367240)
+

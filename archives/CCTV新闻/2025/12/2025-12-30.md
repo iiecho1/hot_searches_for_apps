@@ -195,3 +195,5 @@
 
 + [俄国防部：列装“榛树”导弹的部队正在白俄罗斯执行任务](https://news.cctv.com/2025/12/30/ARTItoU3CCvQWbgHD6Qd1koq251230.shtml)
 
++ [特朗普称1月公布美联储主席人选 再次威胁起诉鲍威尔](https://news.cctv.com/2025/12/30/ARTI4VbRgO0xk4QK6XBnpEt5251230.shtml)
+
