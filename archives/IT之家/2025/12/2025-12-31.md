@@ -57,3 +57,15 @@
 
 + [小米回应 Xiaomi 17 Ultra 徕卡版大师变焦环“据说有松动”：预留有可活动空间、不影响功能](https://m.ithome.com/html/909345.htm)
 
++ [华为钱包“关机智闪”全新上线：秒刷交通卡、车钥匙、门禁卡](https://m.ithome.com/html/908989.htm)
+
++ [低至 1 折：华为商城多款旧款机型手机壳配件迎促销，4.9 元起售](https://m.ithome.com/html/908878.htm)
+
++ [iOS 用户友好：小米 Buds 6 无线耳机官宣接入苹果 Apple Find My](https://m.ithome.com/html/908821.htm)
+
++ [闪极和中国航母联名新品发布：含电磁弹射磁吸移动电源、相控阵雷达充电器等，149 元起](https://m.ithome.com/html/908998.htm)
+
++ [【IT之家开箱】一加 Turbo 6 旷野绿图赏：小清新配色，果味有点足](https://m.ithome.com/html/908941.htm)
+
++ [10080mAh 手机变身“充电宝”，荣耀 Power2 支持 27W 反向充电](https://m.ithome.com/html/908887.htm)
+
