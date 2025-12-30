@@ -131,3 +131,7 @@
 
 + [Resilience4j故障注入的4大误区 vs 3个实战技巧：你的系统能扛住“地震“吗？](https://blog.csdn.net/z_344791576/article/details/151762641)
 
++ [京东云鼎生态掘金指南：新空间知识库，破解店铺增长与API对接的密码](https://blog.csdn.net/weixin_44976692/article/details/156385157)
+
++ [钉钉企业内部应用 SSO 免登集成实战 (Spring Boot 版)](https://blog.csdn.net/weixin_52236586/article/details/156333197)
+
