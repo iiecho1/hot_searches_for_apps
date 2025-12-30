@@ -61,3 +61,7 @@
 
 + [终于，给妹妹买了台新车...](https://m.acfun.cn/v/?ac=48145538)
 
++ [EXID UP&DOWN 上下 路演](https://m.acfun.cn/v/?ac=48145233)
+
++ [Brave Girls Rollin](https://m.acfun.cn/v/?ac=48145344)
+
