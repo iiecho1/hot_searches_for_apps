@@ -65,3 +65,13 @@
 
 + [10080mAh 手机变身“充电宝”，荣耀 Power2 支持 27W 反向充电](https://m.ithome.com/html/908887.htm)
 
++ [小米雷军明晚将进行跨年直播，请工程师现场拆车](https://m.ithome.com/html/909144.htm)
+
++ [网传大疆 DJI Avata 360 无人机售价海报曝光：单机 2988 元起、一英寸全景影像](https://m.ithome.com/html/909009.htm)
+
++ [荣耀林林宣布小平板项目暂停：木有了](https://m.ithome.com/html/909102.htm)
+
++ [Epic 连续喜加一第 13 弹：第一人称解谜冒险游戏《取景器（Viewfinder）》](https://m.ithome.com/html/909010.htm)
+
++ [消息称 vivo X300 Ultra 工程机搭载 6.82 英寸 &#177;2K BOE 直屏，取消拍照键、预计有 LIPO](https://m.ithome.com/html/909047.htm)
+

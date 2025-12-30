@@ -175,3 +175,11 @@
 
 + [Maven - 构建过程分析 使用-profiles参数排查慢构建问题](https://blog.csdn.net/qq_41187124/article/details/156090988)
 
++ [macOS 上用 lycium 交叉编译 FFmpeg 适配鸿蒙（OHOS）：从构建到 HNP 打包](https://blog.csdn.net/weixin_47308626/article/details/156418112)
+
++ [机器学习062:深度学习【模型优化与泛化】 模型压缩：量化、剪枝、知识蒸馏 与 推理加速：TensorRT、ONNX](https://blog.csdn.net/weixin_38526314/article/details/156389395)
+
++ [《响应式编程新篇章：深入 Spring WebFlux》](https://blog.csdn.net/2301_81152266/article/details/156394907)
+
++ [Spring Boot 4.0 + JDK 25 + GraalVM：下一代云原生Java应用架构](https://blog.csdn.net/lilinhai548/article/details/156422566)
+
