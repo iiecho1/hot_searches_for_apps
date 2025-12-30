@@ -111,3 +111,29 @@
 
 + [【博客之星 2025】我不是在写博客，就是在写博客的路上，这是我今年第575篇](https://blog.csdn.net/weixin_44976692/article/details/156425273)
 
++ [职业院校人工智能与工业控制实训室建设方案](https://blog.csdn.net/whwzzc/article/details/156413799)
+
++ [告别适配难题：Oracle 迁移 KingbaseES SQL 语法快速兼容方案](https://blog.csdn.net/qq_57761637/article/details/156369343)
+
++ [MyBatis核心源码解析 从SqlSession到Mapper接口的绑定过程](https://blog.csdn.net/sinat_41617212/article/details/156397054)
+
++ [Redis复习----------Redis超高性能的原因](https://blog.csdn.net/shouxifeiwu/article/details/156367112)
+
++ [Redis：Redis背景、特性、客户端及单线程模型](https://blog.csdn.net/weixin_51142926/article/details/145796930)
+
++ [❾⁄₈ ⟦ OSCP ⬖ 研记 ⟧ 防病毒软件规避 ➱ 本地进程内存注入实践（下）](https://blog.csdn.net/weixin_42115157/article/details/156380504)
+
++ [应用层之HTTP](https://blog.csdn.net/2401_88036229/article/details/156367350)
+
++ [基于微信小程序图像识别的智能垃圾分类系统【源码文末联系】](https://blog.csdn.net/2402_84112588/article/details/156362103)
+
++ [【Agent】自动化深度研究智能体搭建](https://blog.csdn.net/qq_35812205/article/details/156362564)
+
++ [构建一个完整的 WebRTC 通信系统 (架构篇)](https://blog.csdn.net/yk_18/article/details/156398959)
+
++ [从一篇IDEA笔记开始，我走出了自己的技术创作路](https://blog.csdn.net/wenxuankeji/article/details/156397838)
+
++ [Spring Cloud Gateway 架构与执行流程：从原理到性能优化的深度探索](https://blog.csdn.net/qq_43414012/article/details/156399205)
+
++ [Ubuntu 22.04 更换镜像源全流程（从零到快）](https://blog.csdn.net/qq_45308525/article/details/156360599)
+
