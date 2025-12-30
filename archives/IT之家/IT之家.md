@@ -75,3 +75,17 @@
 
 + [消息称 vivo X300 Ultra 工程机搭载 6.82 英寸 &#177;2K BOE 直屏，取消拍照键、预计有 LIPO](https://m.ithome.com/html/909047.htm)
 
++ [2026 年国补方案正式出炉：手机、平板、家电等补贴 15%，支持汽车以旧换新，AR 眼镜等产品纳入补贴范围](https://m.ithome.com/html/909305.htm)
+
++ [华为轮值董事长孟晚舟发布 2026 新年致辞，透露鸿蒙、乾崑智驾、昇腾关键数字](https://m.ithome.com/html/909243.htm)
+
++ [蔡磊病情接近终末期 失声前视频公布：渐冻症重大突破性跨越应该就在这几年，部分类型新病人可以活下来了！](https://m.ithome.com/html/909287.htm)
+
++ [又有网友众筹“LCD 护眼手机”：6.95 英寸 1080P 120Hz 京东方面板 + 天玑 8300 售 2499 元起](https://m.ithome.com/html/909254.htm)
+
++ [小鹏 G7 超级增程 SUV 登场，综合续航做到全球最长 1704 公里](https://m.ithome.com/html/909152.htm)
+
++ [IT之家手表版 App 正式上架：苹果 / 鸿蒙 / 安卓三平台齐发，支持与手机端互联](https://m.ithome.com/html/909187.htm)
+
++ [华为鸿蒙生态提速，HarmonyOS 5.0 以上终端设备超过 3600 万](https://m.ithome.com/html/909099.htm)
+
