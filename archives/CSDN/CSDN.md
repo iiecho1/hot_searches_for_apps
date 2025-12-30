@@ -183,3 +183,9 @@
 
 + [Spring Boot 4.0 + JDK 25 + GraalVM：下一代云原生Java应用架构](https://blog.csdn.net/lilinhai548/article/details/156422566)
 
++ [【TextIn大模型加速器 + 火山引擎】在Coze平台快速搭建智能文档解析与合规审查Agent](https://blog.csdn.net/weixin_37800531/article/details/156421278)
+
++ [统一解析 × 大模型生成：多平台热点内容自动化总结工作流实战](https://blog.csdn.net/2301_76341691/article/details/156420131)
+
++ [2025远程桌面软件年终推荐榜单：ToDesk、RustDesk、向日葵、UU和QQ远程](https://blog.csdn.net/weixin_50843918/article/details/156421271)
+
