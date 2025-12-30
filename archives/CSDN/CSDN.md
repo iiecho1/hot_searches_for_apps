@@ -149,3 +149,7 @@
 
 + [2025 美团技术团队热门技术文章汇总](https://blog.csdn.net/MeituanTech/article/details/156385060)
 
++ [vLLM 0.11.0 新特性解析：视觉推理精度跃升与长序列性能革新](https://blog.csdn.net/wtyuong/article/details/156432369)
+
++ [通过 Python 提取 PDF 表格数据](https://blog.csdn.net/2511_93049661/article/details/156385691)
+
