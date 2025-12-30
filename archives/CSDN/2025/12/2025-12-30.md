@@ -205,3 +205,9 @@
 
 + [【博客之星 2025】我不是在写博客，就是在写博客的路上，这是我今年第575篇](https://blog.csdn.net/weixin_44976692/article/details/156425273)
 
++ [金融数据实时行情API使用教程：如何跨市场查询多品种的实时行情数据](https://blog.csdn.net/weixin_43151418/article/details/156388810)
+
++ [50 Docker项目实战：RuoYi前后端部署项目](https://blog.csdn.net/qq_37720414/article/details/156401999)
+
++ [使用SpringAI实现对话机器人](https://blog.csdn.net/kong7906928/article/details/156396017)
+
