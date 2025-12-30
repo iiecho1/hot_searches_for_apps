@@ -25,3 +25,17 @@
 
 + [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
++ [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics)
+
++ [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide)
+
++ [alexta69/metube](https://github.com/alexta69/metube)
+
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [cjpais/Handy](https://github.com/cjpais/Handy)
+
++ [sst/opencode](https://github.com/sst/opencode)
+
++ [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+

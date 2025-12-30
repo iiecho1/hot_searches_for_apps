@@ -189,3 +189,7 @@
 
 + [2025远程桌面软件年终推荐榜单：ToDesk、RustDesk、向日葵、UU和QQ远程](https://blog.csdn.net/weixin_50843918/article/details/156421271)
 
++ [多路转接epoll](https://blog.csdn.net/2402_82670467/article/details/156397112)
+
++ [SpringBoot + RabbitMQ + Redis + MySQL：社交平台私信发送、已读状态同步与历史消息缓存实战](https://blog.csdn.net/u010223407/article/details/155918482)
+

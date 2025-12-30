@@ -113,3 +113,9 @@
 
 + [【遵命，陛下】凶手查半天是谁都不知道，我的魔法公鸡还被宰了！我真是个白痴](https://m.acfun.cn/v/?ac=48144572)
 
++ [【中字】奥运选手Sarah Pavan和Adam看巨人反应S2E6](https://m.acfun.cn/v/?ac=48135926)
+
++ [EXID I Love You](https://m.acfun.cn/v/?ac=48145750)
+
++ [还是当乖乖女吧](https://m.acfun.cn/v/?ac=48114927)
+
