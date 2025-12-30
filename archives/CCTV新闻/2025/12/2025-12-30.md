@@ -177,3 +177,9 @@
 
 + [普京官邸遭袭？俄乌各执一词、特朗普“很生气”](https://news.cctv.com/2025/12/30/ARTIMVIlPyt2dNd1PiH6HrCf251230.shtml)
 
++ [也门官员：沙特多次空袭穆卡拉港 引发巨大爆炸](https://news.cctv.com/2025/12/30/ARTIPURgHXwrycMltPy4aeup251230.shtml)
+
++ [中方强调戈兰高地是国际社会公认的叙利亚被占领土](https://news.cctv.com/2025/12/30/ARTIRKLHoJBRhRPxf8hJtHqG251230.shtml)
+
++ [北美观察丨内塔尼亚胡访美 特朗普：双方并非“百分百一致”](https://news.cctv.com/2025/12/30/ARTIPlumfzcQrWvU8hGGUpC0251230.shtml)
+
