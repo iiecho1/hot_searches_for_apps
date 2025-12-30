@@ -137,3 +137,15 @@
 
 + [❾⁄₈ ⟦ OSCP ⬖ 研记 ⟧ 防病毒软件规避 ➱ 本地进程内存注入实践（下）](https://blog.csdn.net/weixin_42115157/article/details/156380504)
 
++ [昇腾 NPU 算力平台下 Llama-2-7B 大模型部署与性能实测报告](https://blog.csdn.net/Pocker_Spades_A/article/details/156340816)
+
++ [Visual Studio 内存占用过高问题优化方案](https://blog.csdn.net/guigenyi/article/details/156361497)
+
++ [LLM - 行业 AI Agent 实战指南：系统化落地的四层架构与最佳实践](https://blog.csdn.net/yangshangwei/article/details/156398232)
+
++ [miniOTA：32位mcu平台OTA升级](https://blog.csdn.net/weixin_54252044/article/details/152933730)
+
++ [指尖敲代码，笔尖写成长：2025年度总结与那些没说出口的碎碎念](https://blog.csdn.net/2401_82648291/article/details/156378139)
+
++ [vue 甘特图 vxe-gantt table 可视化依赖线的使用，可视化拖拽创建连接线的用法](https://blog.csdn.net/daols88/article/details/156361042)
+
