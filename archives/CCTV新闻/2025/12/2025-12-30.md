@@ -197,3 +197,11 @@
 
 + [特朗普称1月公布美联储主席人选 再次威胁起诉鲍威尔](https://news.cctv.com/2025/12/30/ARTI4VbRgO0xk4QK6XBnpEt5251230.shtml)
 
++ [【讲习所·2025年终特刊】“和睦与团结就是幸福与财富”](https://news.cctv.com/2025/12/30/ARTIRe1IOhtjA7mOakI3HsxJ251230.shtml)
+
++ [“双向奔赴”的一年：“生活+”让“China Travel”更具魅力](https://news.cctv.com/2025/12/30/ARTIB452cxh9yAnqYbramCsn251230.shtml)
+
++ [外交部：中柬泰三方再次聚首并达成共识充分彰显中国利而不害、为而不争、强而不霸的负责任大国形象](https://news.cctv.com/2025/12/30/ARTI0DRAdBIctWIJBhArMAL9251230.shtml)
+
++ [年终特稿｜2025，以中国方案作答“世界之问”](https://news.cctv.com/2025/12/30/ARTI9jl0y0yG7O5ifmmtuqIU251230.shtml)
+
