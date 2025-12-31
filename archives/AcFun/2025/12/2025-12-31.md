@@ -75,3 +75,5 @@
 
 + [Stellar Marionette 提线木偶 路演](https://m.acfun.cn/v/?ac=48145272)
 
++ [「叶瞬光」单手无伤单通全新BOSS蝎骸！【绝区零】](https://m.acfun.cn/v/?ac=48146611)
+

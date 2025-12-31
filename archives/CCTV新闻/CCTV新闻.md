@@ -163,3 +163,7 @@
 
 + [美国一货运列车脱轨 一节装载熔融硫黄车厢起火](https://news.cctv.com/2025/12/31/ARTIsHGRO5hK6UxigzBLizoJ251231.shtml)
 
++ [白俄罗斯外交部：支持中国国家统一和主权领土完整](https://news.cctv.com/2025/12/31/ARTIYGLBsQoFqJGd0oLbs1fa251231.shtml)
+
++ [驻日本大使馆提醒中国公民注意冬季行车安全](https://news.cctv.com/2025/12/31/ARTIOI3ztpm2uE8uDmdqetYo251231.shtml)
+
