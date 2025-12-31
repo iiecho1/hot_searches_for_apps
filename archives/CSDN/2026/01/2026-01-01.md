@@ -131,3 +131,19 @@
 
 + [sourcefare速成手册(4) - 使用企业微信用户扫描登录sourcefare系统](https://blog.csdn.net/westforest0910/article/details/156460933)
 
++ [机器学习&计算机视觉：带你了解机器学习、深度学习、计算机视觉、机器视觉的前世今生](https://blog.csdn.net/qq_53706413/article/details/156388779)
+
++ [数据挖掘实战-基于Stacking集成学习的地震警报分类预测模型](https://blog.csdn.net/m0_64336780/article/details/156391763)
+
++ [金仓数据库性能优化全景指南：从 SQL 精调到多核 CPU 高效利用](https://blog.csdn.net/qq_57761637/article/details/156369675)
+
++ [【C++藏宝阁】C++介绍：从发展历程到现代应用](https://blog.csdn.net/2301_80026901/article/details/156387870)
+
++ [Maven - 构建过程分析 使用-profiles参数排查慢构建问题](https://blog.csdn.net/qq_41187124/article/details/156090988)
+
++ [Vue Router 进阶实战：嵌套路由 / 导航守卫 / 懒加载全解析（含性能优化 + 避坑指南）](https://blog.csdn.net/qq_40303030/article/details/155611049)
+
++ [VSCode高效AI开发全攻略](https://blog.csdn.net/2501_92862577/article/details/156416936)
+
++ [当传统工单遇见飞书：.NET系统的协作升级之旅](https://blog.csdn.net/xlqdml/article/details/156386705)
+

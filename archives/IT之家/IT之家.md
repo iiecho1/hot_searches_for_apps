@@ -51,3 +51,9 @@
 
 + [消息称 vivo X300 Ultra 工程机搭载 6.82 英寸 &#177;2K BOE 直屏，取消拍照键、预计有 LIPO](https://m.ithome.com/html/909047.htm)
 
++ [央视全新动画《西游记》预告 PV 首曝，预计 2026 年上映](https://m.ithome.com/html/909628.htm)
+
++ [小米汽车：SU7 过去一年 20 万元以上轿车累销第一，YU7 连续 4 个月中大型 SUV 销量第一](https://m.ithome.com/html/909562.htm)
+
++ [华为余承东详解 Mate 80 / X7 自动记停车位功能，Pura 80 Pro 等升级 HarmonyOS 6.0.0.130 可用](https://m.ithome.com/html/909390.htm)
+
