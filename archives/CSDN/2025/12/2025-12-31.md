@@ -197,3 +197,7 @@
 
 + [云原生分布式系统综合实战：微服务网关、日志监控与对象存储架构](https://blog.csdn.net/2302_79276567/article/details/156221169)
 
++ [【自然语言处理】应用04：自然语言推断与数据集](https://blog.csdn.net/Morse_Chen/article/details/156432437)
+
++ [【测试理论与实践】（四）测试用例篇（上）：从概念到万能思路，解锁测试设计核心密码](https://blog.csdn.net/2301_79248256/article/details/156458787)
+

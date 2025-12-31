@@ -27,3 +27,15 @@
 
 + [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
++ [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
+
++ [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
++ [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+
++ [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+
++ [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
