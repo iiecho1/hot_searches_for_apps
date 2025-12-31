@@ -21,3 +21,11 @@
 
 + [第一次知道微信零钱还有这个坑](https://www.v2ex.com/t/1182039)
 
++ [大家能否反馈一下 Antigravity 的使用体验](https://www.v2ex.com/t/1182168)
+
++ [修车：车机问题修了半年没有好，今天第 N 次去 4S 店发现门被别人堵了](https://www.v2ex.com/t/1182047)
+
++ [自建梯子， VPS 求推荐](https://www.v2ex.com/t/1182076)
+
++ [一个词总结你的 2025！（来对比看看去年的）](https://www.v2ex.com/t/1182190)
+

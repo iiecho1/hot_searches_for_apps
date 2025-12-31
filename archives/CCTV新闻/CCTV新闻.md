@@ -161,3 +161,5 @@
 
 + [日本防卫预算再创新高引发舆论担忧](https://news.cctv.com/2025/12/28/ARTIOyFtvOCganubAbHvbJBR251227.shtml)
 
++ [美国一货运列车脱轨 一节装载熔融硫黄车厢起火](https://news.cctv.com/2025/12/31/ARTIsHGRO5hK6UxigzBLizoJ251231.shtml)
+
