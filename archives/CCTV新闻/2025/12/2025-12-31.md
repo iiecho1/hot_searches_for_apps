@@ -185,3 +185,7 @@
 
 + [“全球好感度”提升，中国发展的必然回响](https://news.cctv.com/2025/12/31/ARTIAhjMOf1y7hgzVyooHrhJ251231.shtml)
 
++ [秘鲁南部火车相撞事故致4名中国游客受伤](https://news.cctv.com/2025/12/31/ARTIm71PlBmxg9IIGqSWZSfe251231.shtml)
+
++ [美联储官员对货币政策预期分歧明显](https://news.cctv.com/2025/12/31/ARTI9ZBX7ASOeR4osCrUcFxt251231.shtml)
+
