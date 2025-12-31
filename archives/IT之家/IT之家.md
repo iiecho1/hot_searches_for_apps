@@ -91,3 +91,9 @@
 
 + [特斯拉“车顶维权”女车主回应被限制高消费：名誉权案件已向法院申请再审](https://m.ithome.com/html/909337.htm)
 
++ [AI 人像以假乱真，阿里通义 Qwen-Image-2512 模型开源发布](https://m.ithome.com/html/909656.htm)
+
++ [小米 17 Pro 系列手机“妙享背屏”玩法上新：用“新年 Flag”模板记录 2026 年度目标](https://m.ithome.com/html/909496.htm)
+
++ [故障率 10%，网咖老板 3 月采购 150 颗 AMD 9800X3D 处理器已挂 15 颗](https://m.ithome.com/html/909672.htm)
+
