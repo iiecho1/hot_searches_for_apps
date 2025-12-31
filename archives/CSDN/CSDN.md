@@ -201,3 +201,5 @@
 
 + [【测试理论与实践】（四）测试用例篇（上）：从概念到万能思路，解锁测试设计核心密码](https://blog.csdn.net/2301_79248256/article/details/156458787)
 
++ [Java 大视界 -- Java 大数据在智慧文旅旅游景区游客情感分析与服务改进中的应用实践](https://blog.csdn.net/atgfg/article/details/156400398)
+
