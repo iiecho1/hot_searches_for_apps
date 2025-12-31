@@ -167,3 +167,7 @@
 
 + [驻日本大使馆提醒中国公民注意冬季行车安全](https://news.cctv.com/2025/12/31/ARTIOI3ztpm2uE8uDmdqetYo251231.shtml)
 
++ [意大利山区缆车事故致至少4人受伤 约百人一度被困](https://news.cctv.com/2025/12/31/ARTIUyzPNtn2Rn5QZsnYs1Zt251231.shtml)
+
++ [哥伦比亚总统称美国轰炸委内瑞拉一处工厂](https://news.cctv.com/2025/12/31/ARTIGbsyyHxV2RANjkeLZKfS251231.shtml)
+

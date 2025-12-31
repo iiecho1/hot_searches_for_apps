@@ -159,3 +159,15 @@
 
 + [mybatis 源码](https://blog.csdn.net/weixin_43725192/article/details/156399339)
 
++ [数据为壤，特征为苗：机器学习特征提取艺术探微](https://blog.csdn.net/2503_92624912/article/details/156409763)
+
++ [Java 方法栈帧深度解析：从 JIT 汇编视角，打通 C 与 Java 底层逻辑](https://blog.csdn.net/2502_93596214/article/details/156395052)
+
++ [深入拆解 JavaScript 三大核心：同步与异步、作用域与闭包、原型与原型链](https://blog.csdn.net/HHH1433223/article/details/156432860)
+
++ [【2025年CSDN博客之星主题创作文章】我在 Python 与数据智能领域的深耕与突破 —— 年度技术复盘与思考](https://blog.csdn.net/mss359681091/article/details/156433164)
+
++ [HarmonyOS 分布式开发第一课：设备间协同调试实战](https://blog.csdn.net/qq_36863796/article/details/156397901)
+
++ [Llama 3-8B-Instruct 在昇腾 NPU 上的 SGLang 性能实测](https://blog.csdn.net/weixin_61587867/article/details/156359141)
+
