@@ -163,3 +163,15 @@
 
 + [为方便人道救援物资进入 苏丹延长西部一边境口岸开放时间](https://news.cctv.com/2026/01/01/ARTIBMzG03MyOD9xWK7WYmKg251231.shtml)
 
++ [美英法德乌官员通话 就推进和平进程协调立场](https://news.cctv.com/2026/01/01/ARTIwQdzrAPJ686dmlDgchdi260101.shtml)
+
++ [土耳其宣布对持普通护照中国公民免签](https://news.cctv.com/2026/01/01/ARTIGu7lqs9nDJO6esMDrL5X260101.shtml)
+
++ [保加利亚加入欧元区 成为第21个使用欧元的国家](https://news.cctv.com/2026/01/01/ARTIYCs8TEoHaDXe1o5HAdtd260101.shtml)
+
++ [马克龙：将确保法国总统选举不受外国干预](https://news.cctv.com/2026/01/01/ARTITujJ09RvchZIqrmJTP6a260101.shtml)
+
++ [美方延长塞尔维亚石油公司运营许可](https://news.cctv.com/2026/01/01/ARTIPpCKd9bhK2pCW7CcI0kk260101.shtml)
+
++ [美司法部：爱泼斯坦案仍有约520万页文件待审](https://news.cctv.com/2026/01/01/ARTIP2KyJ03lrOVcluuaKIsw260101.shtml)
+
