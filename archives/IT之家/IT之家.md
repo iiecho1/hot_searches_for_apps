@@ -45,3 +45,9 @@
 
 + [罗永浩称每次“靠嘴吃饭”就能吃得贼好，播客“日进斗金”但志不在此、还想继续做科技行业](https://m.ithome.com/html/909330.htm)
 
++ [小米雷军明晚将进行跨年直播，请工程师现场拆车](https://m.ithome.com/html/909144.htm)
+
++ [荣耀林林宣布小平板项目暂停：木有了](https://m.ithome.com/html/909102.htm)
+
++ [消息称 vivo X300 Ultra 工程机搭载 6.82 英寸 &#177;2K BOE 直屏，取消拍照键、预计有 LIPO](https://m.ithome.com/html/909047.htm)
+

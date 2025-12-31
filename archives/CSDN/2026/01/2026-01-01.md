@@ -109,3 +109,25 @@
 
 + [基于Spring Boot的微信小程序的智慧商场系统的设计与实现](https://blog.csdn.net/fengzongfu/article/details/156428180)
 
++ [卷积神经网络CNN](https://blog.csdn.net/sunxuehai1/article/details/156396559)
+
++ [蓝香蕉代码 |【鸿蒙电脑开发命令行-签名篇与本机hdc shell】](https://blog.csdn.net/weixin_39954655/article/details/156463880)
+
++ [【2025年度总结】技术成长的足迹与展望](https://blog.csdn.net/liu_chen_yang/article/details/156465137)
+
++ [TextIn大模型加速器+火山引擎：重新定义多语言文档处理的技术边界](https://blog.csdn.net/qq_32682301/article/details/156466615)
+
++ [Spring Boot 4.0 整合Spring Security 7 后的统一异常处理指南](https://blog.csdn.net/bhl120/article/details/156433201)
+
++ [2026跨年3D粒子特效代码](https://blog.csdn.net/xhynbk/article/details/156422427)
+
++ [webrtc源码走读（一）WebRTC源码结构拆分](https://blog.csdn.net/qq_31065851/article/details/156433054)
+
++ [FPGA + AD7768-4 实现数据采集的可能方案](https://blog.csdn.net/m0_55576290/article/details/156427520)
+
++ [Chromium WebUI 定制实践：从 C++ 注入到 JS 安全展示全链路解析](https://blog.csdn.net/John_ToStr/article/details/156422776)
+
++ [React Native 2025 年度回顾：架构、性能与生态的全面升级](https://blog.csdn.net/wayne214/article/details/156388603)
+
++ [sourcefare速成手册(4) - 使用企业微信用户扫描登录sourcefare系统](https://blog.csdn.net/westforest0910/article/details/156460933)
+
