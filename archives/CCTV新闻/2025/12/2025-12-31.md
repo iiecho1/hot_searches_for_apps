@@ -171,3 +171,17 @@
 
 + [哥伦比亚总统称美国轰炸委内瑞拉一处工厂](https://news.cctv.com/2025/12/31/ARTIGbsyyHxV2RANjkeLZKfS251231.shtml)
 
++ [联大通过联合国2026年常规预算](https://news.cctv.com/2025/12/31/ARTIrLlj9CeVKmM1RaaCEXWc251231.shtml)
+
++ [柬埔寨证实泰国释放18名被俘士兵](https://news.cctv.com/2025/12/31/ARTItWYgmE2pGnskJWm7rmC2251231.shtml)
+
++ [记者观察：圣诞灯光下的美国“K型”经济裂痕](https://news.cctv.com/2025/12/31/ARTIyCFXvZiO3nikoaSCL32T251231.shtml)
+
++ [战败八十年，日本仍未算清历史账、安全账](https://news.cctv.com/2025/12/31/ARTIcL3pZGwJbiWZ7JNZ2rQu251231.shtml)
+
++ [“中国成为我的‘灵感之源’”——访南非独立专栏作家马亚洛](https://news.cctv.com/2025/12/31/ARTILIH2NkpsMzx9O4WEg9xz251231.shtml)
+
++ [世界舞台上的中国定力、魄力与担当](https://news.cctv.com/2025/12/31/ARTIh05ptfjsG5gvyF5QdYQ2251231.shtml)
+
++ [“全球好感度”提升，中国发展的必然回响](https://news.cctv.com/2025/12/31/ARTIAhjMOf1y7hgzVyooHrhJ251231.shtml)
+

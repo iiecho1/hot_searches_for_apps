@@ -171,3 +171,11 @@
 
 + [Llama 3-8B-Instruct 在昇腾 NPU 上的 SGLang 性能实测](https://blog.csdn.net/weixin_61587867/article/details/156359141)
 
++ [科研人狂喜：Gemini 3.0 pro 三大应用场景 Prompt 模板直接抄](https://blog.csdn.net/shi_hong_fei_hei/article/details/156366603)
+
++ [Spring Cloud 微服务实战：Nacos+Sentinel+Gateway 核心组件详解](https://blog.csdn.net/2401_86326742/article/details/156314017)
+
++ [2025年度全景复盘：技术成长、创作突破与生活的三重奏](https://blog.csdn.net/qq_16242613/article/details/156363885)
+
++ [2025，九转苍翎的技术博客元年](https://blog.csdn.net/2401_89167985/article/details/156428941)
+
