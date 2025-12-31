@@ -75,3 +75,19 @@
 
 + [罗永浩称“真还传”是他命里最大的福报：一揽子解决了人生所有问题，人类商业史只有 3 个人完成](https://m.ithome.com/html/909361.htm)
 
++ [苹果 iOS 27 前瞻：“雪豹”式更新打磨体验，AI 健康教练等 7 大看点](https://m.ithome.com/html/909375.htm)
+
++ [Epic 连续喜加一第 14 弹：《三位一体：经典合集》限时免费领](https://m.ithome.com/html/909360.htm)
+
++ [罗永浩回应“科技春晚”迟到 40 分钟：因 ADHD 的关系，发布会没有一场是彩排过的](https://m.ithome.com/html/909387.htm)
+
++ [奇安信“盘古石”团队突破苹果 iOS 26.1 系统提权难题，实现对 Telegram 等应用数据提取](https://m.ithome.com/html/909623.htm)
+
++ [接近翻倍：鸿蒙智行尊界 S800 本月交付超 4000 台，比上月 BBA 保时捷五款车销量总和还多](https://m.ithome.com/html/909394.htm)
+
++ [金山软件与小米合作关系延续至 2028 年底，将采购手机、电视等产品](https://m.ithome.com/html/909356.htm)
+
++ [新趋势超前瞻：消息称某 Top5 国产厂商开始评估小型化 ToF 3D 人脸识别，前置挖孔体积进一步缩小](https://m.ithome.com/html/909426.htm)
+
++ [特斯拉“车顶维权”女车主回应被限制高消费：名誉权案件已向法院申请再审](https://m.ithome.com/html/909337.htm)
+
