@@ -69,3 +69,5 @@
 
 + [ManMantra暗黑异域风。卡点trap翻跳](https://m.acfun.cn/v/?ac=48152299)
 
++ [【东方】2025年短篇动画合集【雾雨あろえ 搞笑MMD小剧场】](https://m.acfun.cn/v/?ac=48146682)
+
