@@ -191,3 +191,13 @@
 
 + [lecen：一个更好的开源可视化系统搭建项目--介绍、搭建、访问与基本配置--全低代码|所见即所得|利用可视化设计器构建你的应用系统-做一个懂你的人](https://blog.csdn.net/zhang_hai_cheng/article/details/156386007)
 
++ [如何不使用USB将文件从手机传输到笔记本电脑](https://blog.csdn.net/TheNextByte1/article/details/155860465)
+
++ [Jenkins自动化部署（docker）](https://blog.csdn.net/liangmengbk/article/details/156447766)
+
++ [部署模式选型：私有化部署 vs 云原生部署，国产 DevOps 平台的适配能力与资源损耗对比](https://blog.csdn.net/weixin_44552837/article/details/156422189)
+
++ [【2025 | CSDN博客之星】我与 CSDN 同行的一年：回首耕耘路，奔赴新山海](https://blog.csdn.net/2401_86326742/article/details/156483532)
+
++ [Spring Boot集成华为云OBS实现文件上传与预览功能（含安全下载）](https://blog.csdn.net/qq_37067955/article/details/156428209)
+
