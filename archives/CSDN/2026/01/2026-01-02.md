@@ -113,3 +113,19 @@
 
 + [从2025看2026前端发展趋势](https://blog.csdn.net/weixin_40017641/article/details/156435494)
 
++ [江湖路远，代码为为剑：2025，我与 AI 的问道之旅](https://blog.csdn.net/zzqingyun/article/details/156460770)
+
++ [[论文阅读] (47)LAMD: 基于大模型上下文驱动的Android恶意软件检测与分类](https://blog.csdn.net/Eastmount/article/details/156414030)
+
++ [抖音小程序原生开发与HBuilder跨平台开发的全面对比分析](https://blog.csdn.net/sixpp/article/details/156490502)
+
++ [响应式编程基石 Project Reactor源码解读](https://blog.csdn.net/sinat_41617212/article/details/156488655)
+
++ [Flask - MySQL 蓝图风格小项目搭建](https://blog.csdn.net/linyuancsdn/article/details/156433250)
+
++ [2026 IT技术发展前瞻性见解：从算力重构到智能体革命](https://blog.csdn.net/liuzixu34/article/details/156461653)
+
++ [论文阅读 PromptIR: Prompting for All-in-One Blind Image Restoration](https://blog.csdn.net/weixin_67729241/article/details/156452206)
+
++ [FPGA + AD7768-4 实现数据采集的可能方案](https://blog.csdn.net/m0_55576290/article/details/156427520)
+
