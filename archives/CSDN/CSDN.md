@@ -241,3 +241,13 @@
 
 + [电脑端Wi-Fi文件传输：分步指南（最新信息）](https://blog.csdn.net/TheNextByte1/article/details/155860635)
 
++ [深耕FPGA算法开发技术：2025年度技术工作总结与实践思考](https://blog.csdn.net/ccsss22/article/details/156488878)
+
++ [鸿蒙·AI·开源：我的2025技术年度总结](https://blog.csdn.net/qq_33681891/article/details/156466526)
+
++ [如何设计易维护、低学习成本的飞书.NET SDK组件](https://blog.csdn.net/xlqdml/article/details/156453198)
+
++ [强化学习 -- 无导数随机优化算法玩俄罗斯方块Tetris（交叉熵方法CE + ADP近似动态规划CBMPI）](https://blog.csdn.net/nju_spy/article/details/156429009)
+
++ [论文阅读 PromptIR: Prompting for All-in-One Blind Image Restoration](https://blog.csdn.net/weixin_67729241/article/details/156452206)
+
