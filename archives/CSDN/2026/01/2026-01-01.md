@@ -225,3 +225,7 @@
 
 + [lecen：一个更好的开源可视化系统搭建项目--页面设计器(表单设计器)--全低代码|所见即所得|利用可视化设计器构建你的应用系统-做一个懂你的人](https://blog.csdn.net/zhang_hai_cheng/article/details/156459977)
 
++ [DXFReader.NET 2025-支持net4.8-8.0](https://blog.csdn.net/john_dwh/article/details/156454340)
+
++ [Flutter跨平台聊天组件testchat鸿蒙化使用指南](https://blog.csdn.net/2501_93816553/article/details/156394737)
+
