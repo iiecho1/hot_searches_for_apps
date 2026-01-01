@@ -189,3 +189,7 @@
 
 + [中国驻澳大利亚使馆发言人就澳政府涉台声明答记者问](https://news.cctv.com/2026/01/01/ARTITWQvDfYGWAcuY30N4JWz260101.shtml)
 
++ [物价上涨 美国消费者被迫改变购物习惯](https://news.cctv.com/2026/01/01/ARTIdYM20anVBcK7Fca2mdXT260101.shtml)
+
++ [委内瑞拉防长要求军队保持战备状态](https://news.cctv.com/2026/01/01/ARTIMlGiK42eNzf6RKl1ua8L260101.shtml)
+

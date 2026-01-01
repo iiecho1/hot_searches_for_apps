@@ -185,3 +185,9 @@
 
 + [FPGA教程系列-Vivado Aurora 8B／10B 例程修改](https://blog.csdn.net/fantasygwh2015/article/details/156424375)
 
++ [ 云计算时代的计算虚拟化技术：架构、演进与未来趋势](https://blog.csdn.net/w708955424/article/details/156393742)
+
++ [搭建Jenkins+GitLab持续集成环境](https://blog.csdn.net/tzhou64452/article/details/156445346)
+
++ [lecen：一个更好的开源可视化系统搭建项目--介绍、搭建、访问与基本配置--全低代码|所见即所得|利用可视化设计器构建你的应用系统-做一个懂你的人](https://blog.csdn.net/zhang_hai_cheng/article/details/156386007)
+

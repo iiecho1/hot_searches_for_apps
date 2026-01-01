@@ -59,3 +59,17 @@
 
 + [特斯拉“车顶维权”女车主回应被限制高消费：名誉权案件已向法院申请再审](https://m.ithome.com/html/909337.htm)
 
++ [Epic 连续喜加一第 15 弹：《骑士精神 2》限时免费领](https://m.ithome.com/html/909715.htm)
+
++ [小米桌面充电站 140W 预热：2C+2A+4AC 设计，249 元](https://m.ithome.com/html/909513.htm)
+
++ [特朗普金色智能手机 T1 再度推迟发货，此前已不再宣称“美国制造”](https://m.ithome.com/html/909540.htm)
+
++ [小米 YU7 全系推出「3 年 0 息」购车活动：首付 7.49 万元起，月供 4961 元起](https://m.ithome.com/html/909720.htm)
+
++ [极氪 001 WE 老车主福利：可免费体验 3 个月方向盘加热、后排座椅加热功能](https://m.ithome.com/html/909669.htm)
+
++ [小米今晚开展“Xiaomi 17 Ultra 新年红毯之夜”活动，2026 跨年全国门店可领百万张明信片](https://m.ithome.com/html/909565.htm)
+
++ [安克创新回应“裁员 30%”：网传比例严重不属实](https://m.ithome.com/html/909682.htm)
+

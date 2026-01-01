@@ -47,3 +47,9 @@
 
 + [2026 年，开始怀疑自己不适合干这一行了，脑子越来越转不动了](https://www.v2ex.com/t/1182529)
 
++ [墙已经建到国内了](https://www.v2ex.com/t/1182549)
+
++ [想入一个 watch S9](https://www.v2ex.com/t/1182488)
+
++ [求助，各位有没有使用过 PaddleOCR 的](https://www.v2ex.com/t/1182419)
+
