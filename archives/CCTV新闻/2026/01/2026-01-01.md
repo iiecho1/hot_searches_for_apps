@@ -179,3 +179,7 @@
 
 + [美政府终止数万移民临时保护身份遭法官叫停](https://news.cctv.com/2026/01/01/ARTIzcUXsiEtenLh4iUUbQCQ260101.shtml)
 
++ [法国取消前总理终身安保及相关配套待遇](https://news.cctv.com/2026/01/01/ARTIfmgnT9XKd9umODLy9vQE260101.shtml)
+
++ [2025年 中国为世界经济增长贡献重要力量](https://news.cctv.com/2026/01/01/ARTIwhSiaBMOPzxgTOiKWs6D260101.shtml)
+

@@ -57,3 +57,5 @@
 
 + [华为余承东详解 Mate 80 / X7 自动记停车位功能，Pura 80 Pro 等升级 HarmonyOS 6.0.0.130 可用](https://m.ithome.com/html/909390.htm)
 
++ [特斯拉“车顶维权”女车主回应被限制高消费：名誉权案件已向法院申请再审](https://m.ithome.com/html/909337.htm)
+
