@@ -61,3 +61,7 @@
 
 + [MacBook Pro 购买求助](https://www.v2ex.com/t/1182517)
 
++ [意外收到阿里面试邀请，要不要去？该如何准备？](https://www.v2ex.com/t/1182566)
+
++ [2025 年工作 git 活力图, 抛砖引玉一下](https://www.v2ex.com/t/1182477)
+
