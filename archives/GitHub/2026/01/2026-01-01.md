@@ -19,3 +19,19 @@
 
 + [nocodb/nocodb](https://github.com/nocodb/nocodb)
 
++ [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
+
++ [usememos/memos](https://github.com/usememos/memos)
+
++ [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
+
++ [Polymarket/agents](https://github.com/Polymarket/agents)
+
++ [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
++ [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
+
++ [livekit/agents](https://github.com/livekit/agents)
+
++ [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
+

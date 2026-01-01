@@ -217,3 +217,11 @@
 
 + [zynq上用verilog实现单稳态电路](https://blog.csdn.net/2501_94586448/article/details/156465898)
 
++ [基于深度神经网络的课程教学评价系统-django](https://blog.csdn.net/shmp54xmu/article/details/156398068)
+
++ [[免费]基于Python的Django+Vue3在线商城系统(简易版)【论文+源码+SQL脚本】](https://blog.csdn.net/caoli201314/article/details/156483265)
+
++ [原创分享：PPT 转 Markdown - 支持文本、图片、表格、备注提取](https://blog.csdn.net/wxaiway/article/details/156466404)
+
++ [lecen：一个更好的开源可视化系统搭建项目--页面设计器(表单设计器)--全低代码|所见即所得|利用可视化设计器构建你的应用系统-做一个懂你的人](https://blog.csdn.net/zhang_hai_cheng/article/details/156459977)
+
