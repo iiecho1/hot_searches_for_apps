@@ -229,3 +229,15 @@
 
 + [Flutter跨平台聊天组件testchat鸿蒙化使用指南](https://blog.csdn.net/2501_93816553/article/details/156394737)
 
++ [Spring Boot 全局异常处理策略设计（一）：异常不只是 try-catch](https://blog.csdn.net/qq_61654952/article/details/156487594)
+
++ [C#描述-计算机视觉OpenCV（8）：OCR字符检测](https://blog.csdn.net/weixin_43736127/article/details/156466247)
+
++ [【C++篇】智能指针详解（二）：原理剖析与高级话题](https://blog.csdn.net/2301_79849925/article/details/156338105)
+
++ [揭秘 PostgreSQL 中文全文检索：从原理到实战，用 jieba 分词打造高效搜索引擎](https://blog.csdn.net/neweastsun/article/details/156487902)
+
++ [【微服务 Day3】SpringCloud实战开发（网关路由 + 网关登录校验 + 自定义过滤器 + 配置共享 + 配置热更新 + 动态路由）](https://blog.csdn.net/weixin_61639349/article/details/156366560)
+
++ [电脑端Wi-Fi文件传输：分步指南（最新信息）](https://blog.csdn.net/TheNextByte1/article/details/155860635)
+

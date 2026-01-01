@@ -195,3 +195,5 @@
 
 + [瑞士南部一酒吧爆炸致大量人员伤亡](https://news.cctv.com/2026/01/01/ARTIPyicU6R2Gfh6Zvz1DXJb260101.shtml)
 
++ [物价持续上涨 美国暂停对软体家具等再加关税](https://news.cctv.com/2026/01/01/ARTISXmc64ODi54j7Id4BDxX260101.shtml)
+
