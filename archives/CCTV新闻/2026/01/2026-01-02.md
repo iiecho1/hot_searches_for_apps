@@ -161,3 +161,13 @@
 
 + [墨西哥南部一列客运列车脱轨 载有约200人](https://news.cctv.com/2025/12/29/ARTIhdLCI4wDIRoobJWaVduh251229.shtml)
 
++ [多国重申坚定支持一个中国原则](https://news.cctv.com/2026/01/02/ARTIOQ0nOtvE2PUCRpF14B71260102.shtml)
+
++ [厄瓜多尔总统宣布9省3县进入紧急状态](https://news.cctv.com/2026/01/02/ARTIjHYz1rb1SThK4L0LxEW7260102.shtml)
+
++ [2025年超3000名巴西人被美国驱逐出境 数量创新高](https://news.cctv.com/2026/01/02/ARTII9nv4PaAf8FBgh18SCGa260102.shtml)
+
++ [瑞士酒吧火灾已造成约40人死亡](https://news.cctv.com/2026/01/02/ARTIpf9GercRzmwsCwm6ENMl260102.shtml)
+
++ [美国对部分跨境汇款征收1%汇款税](https://news.cctv.com/2026/01/02/ARTInlpi1YXk1qGpoXmXh1V1260102.shtml)
+
