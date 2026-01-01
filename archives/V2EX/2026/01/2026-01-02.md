@@ -21,3 +21,5 @@
 
 + [准备想搞 一台 Mac Mini M4 有没有什么建议？](https://www.v2ex.com/t/1182568)
 
++ [想请教下智能灯光和智能开关这一块](https://www.v2ex.com/t/1182559)
+

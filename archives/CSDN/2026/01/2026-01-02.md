@@ -101,3 +101,15 @@
 
 + [强化学习 -- 无导数随机优化算法玩俄罗斯方块Tetris（交叉熵方法CE + ADP近似动态规划CBMPI）](https://blog.csdn.net/nju_spy/article/details/156429009)
 
++ [【测试理论与实践】（四）测试用例篇（上）：从概念到万能思路，解锁测试设计核心密码](https://blog.csdn.net/2301_79248256/article/details/156458787)
+
++ [（第六篇）Spring AI 核心技术攻坚：多模态模型集成与全场景落地实战](https://blog.csdn.net/qq_40303030/article/details/155783338)
+
++ [统一解析 × 大模型生成：多平台热点内容自动化总结工作流实战](https://blog.csdn.net/2301_76341691/article/details/156420131)
+
++ [【Qt开发】Qt系统（二）-＞ 事件分发器](https://blog.csdn.net/weixin_74809706/article/details/156341987)
+
++ [Spark大数据分析与实战笔记（第六章 Kafka分布式发布订阅消息系统-02）](https://blog.csdn.net/u014727709/article/details/144042829)
+
++ [从2025看2026前端发展趋势](https://blog.csdn.net/weixin_40017641/article/details/156435494)
+
