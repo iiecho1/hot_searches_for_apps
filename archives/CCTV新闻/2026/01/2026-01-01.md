@@ -187,3 +187,5 @@
 
 + [委内瑞拉武装部队说击落一架试图侵犯领空的飞机](https://news.cctv.com/2026/01/01/ARTIYSyZU2UIpe2fgBk6r43G260101.shtml)
 
++ [中国驻澳大利亚使馆发言人就澳政府涉台声明答记者问](https://news.cctv.com/2026/01/01/ARTITWQvDfYGWAcuY30N4JWz260101.shtml)
+
