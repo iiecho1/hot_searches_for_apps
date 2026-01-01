@@ -25,3 +25,25 @@
 
 + [安克创新回应“裁员 30%”：网传比例严重不属实](https://m.ithome.com/html/909682.htm)
 
++ [2nm 工艺太烧钱，消息称高通第六代骁龙 8 至尊 Pro 版将成史上最贵手机芯片](https://m.ithome.com/html/909749.htm)
+
++ [华为鸿蒙团队发布感谢信，HarmonyOS 5&amp;6 终端设备数已破 3600 万](https://m.ithome.com/html/909746.htm)
+
++ [雷军：小米首款豪华高性能 SUV 车型 YU7 交付超 15 万辆，是 SU7 同期 2.3 倍](https://m.ithome.com/html/909766.htm)
+
++ [小米 REDMI Note 15 系列手机新春版开售，999 元起](https://m.ithome.com/html/909764.htm)
+
++ [雷军：11 月前锁单未交的小米 YU7 订单，购置税补贴和 3 年 0 息福利二选一](https://m.ithome.com/html/909759.htm)
+
++ [小米 SU7 Ultra 开启限时 5 年 0 息购活动，首付 19.99 万元起](https://m.ithome.com/html/909725.htm)
+
++ [蔡磊致渐冻症病友新年公开信：历史已被改写，将抗争到最后一刻](https://m.ithome.com/html/909806.htm)
+
++ [小米汽车 2025 年 12 月交付量超过 5 万台](https://m.ithome.com/html/909739.htm)
+
++ [DeepSeek 开年发布新论文：提出全新 mHC 架构，梁文锋现身作者名单](https://m.ithome.com/html/909818.htm)
+
++ [买入谷歌成封笔之作，一代股神巴菲特正式退休](https://m.ithome.com/html/909719.htm)
+
++ [苹果更新“过时产品”名单，iPhone 11 Pro 和最后一款 Intel MacBook Air 入列](https://m.ithome.com/html/909726.htm)
+
