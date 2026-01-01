@@ -183,3 +183,7 @@
 
 + [2025年 中国为世界经济增长贡献重要力量](https://news.cctv.com/2026/01/01/ARTIwhSiaBMOPzxgTOiKWs6D260101.shtml)
 
++ [全球媒体2025中国热词扫描](https://news.cctv.com/2026/01/01/ARTIZJvtliLBuQbAPryLULJ8260101.shtml)
+
++ [委内瑞拉武装部队说击落一架试图侵犯领空的飞机](https://news.cctv.com/2026/01/01/ARTIYSyZU2UIpe2fgBk6r43G260101.shtml)
+
