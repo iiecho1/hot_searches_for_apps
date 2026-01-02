@@ -211,3 +211,9 @@
 
 + [电脑端Wi-Fi文件传输：分步指南（最新信息）](https://blog.csdn.net/TheNextByte1/article/details/155860635)
 
++ [从API到内容平台：基于硅基流动的博客文章自动化生成全栈实践](https://blog.csdn.net/m0_72606784/article/details/156490676)
+
++ [windows搭建agent环境](https://blog.csdn.net/he_wen_jie/article/details/155136230)
+
++ [Linux环境下前后端分离项目（Spring Boot + Vue）手动部署全流程指南](https://blog.csdn.net/Ahatc/article/details/156489543)
+

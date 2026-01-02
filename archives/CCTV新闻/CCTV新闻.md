@@ -207,3 +207,9 @@
 
 + [韩国法院签发对尹锡悦的追加拘捕令](https://news.cctv.com/2026/01/02/ARTIjPZt2SofPp0LeDT9IkAA260102.shtml)
 
++ [瑞士酒吧火灾遇难者人数仍有可能继续上升](https://news.cctv.com/2026/01/02/ARTI8zqklzIgqMadIr1lprVW260102.shtml)
+
++ [肯尼亚首都一建筑倒塌 已致至少1人受伤](https://news.cctv.com/2026/01/02/ARTIpdHsbRftrS1j730L4vKd260102.shtml)
+
++ [泽连斯基提议由布达诺夫领导乌克兰总统办公室](https://news.cctv.com/2026/01/02/ARTIy9XhuNfZn7BJXcG02rL1260102.shtml)
+
