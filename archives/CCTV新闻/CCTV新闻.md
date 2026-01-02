@@ -193,3 +193,9 @@
 
 + [美国“星链”将降低约4400颗卫星轨道高度](https://news.cctv.com/2026/01/02/ARTIt6jAAQGAQRCHsNrReHex260102.shtml)
 
++ [也门哈德拉毛省省长宣布对南方过渡委员会发起军事行动](https://news.cctv.com/2026/01/02/ARTITd3pKeMIfETSZuN26LsR260102.shtml)
+
++ [一客机在韩国济州岛起飞前冒烟 乘客被紧急疏散](https://news.cctv.com/2026/01/02/ARTIYCbMUCUCRsCoY4WjNYCr260102.shtml)
+
++ [一架客机在韩国济州岛起飞前冒烟，120名乘客被紧急疏散](https://news.cctv.com/2026/01/02/ARTIBP11TEnhGq8NfvdmXCFA260102.shtml)
+

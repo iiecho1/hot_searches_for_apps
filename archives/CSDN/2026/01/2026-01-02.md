@@ -179,3 +179,7 @@
 
 + [Freebase + Virtuoso 大规模导入实战：切片 Chunk、调大缓存、脚本化监控进度（可复现）](https://blog.csdn.net/qq_22841387/article/details/156459007)
 
++ [离开舒适区之后：从三年前端到 CS 硕士——我在韩国亚大读研的得失](https://blog.csdn.net/JHXL_/article/details/156507223)
+
++ [突破物理极限：利用多元回归算法重构激光三角位移传感器的亚微米级线性度](https://blog.csdn.net/wxdlfkj/article/details/156486343)
+
