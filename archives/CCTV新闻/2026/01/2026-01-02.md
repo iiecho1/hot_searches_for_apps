@@ -189,3 +189,7 @@
 
 + [马杜罗：委内瑞拉已准备好与美国就打击毒品走私对话](https://news.cctv.com/2026/01/02/ARTITHm3SMaKgLDtcnxEIAeA260102.shtml)
 
++ [瑞士火灾失踪人数不明 遇难者身份确认或需数周](https://news.cctv.com/2026/01/02/ARTIKIE8IUjlJJOoV4Ne3z2j260102.shtml)
+
++ [美国“星链”将降低约4400颗卫星轨道高度](https://news.cctv.com/2026/01/02/ARTIt6jAAQGAQRCHsNrReHex260102.shtml)
+

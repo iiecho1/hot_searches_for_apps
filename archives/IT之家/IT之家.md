@@ -47,3 +47,23 @@
 
 + [苹果更新“过时产品”名单，iPhone 11 Pro 和最后一款 Intel MacBook Air 入列](https://m.ithome.com/html/909726.htm)
 
++ [用 200 块解决几十万元的问题：浙江温州一小区用手机微信当门铃，外卖小哥可直接联系业主远程开门](https://m.ithome.com/html/909883.htm)
+
++ [Epic 开年喜加二：《全面战争：三国》《无主星渊》免费领](https://m.ithome.com/html/909871.htm)
+
++ [2025 全年汽车销量 / 交付榜出炉：比亚迪 460 万辆蝉联第一，零跑夺新势力销冠](https://m.ithome.com/html/909866.htm)
+
++ [小米汽车回应 YU7 部分配置下架：优化生产流程，不影响售后维修](https://m.ithome.com/html/909838.htm)
+
++ [荣耀：原火车服务合作方「国铁吉讯」将于 2026 年 1 月 1 日起逐步停止服务](https://m.ithome.com/html/909800.htm)
+
++ [合同到期，Excel 自动弹窗提醒](https://m.ithome.com/html/909841.htm)
+
++ [台积电：美国批准向南京工厂供应芯片制造设备](https://m.ithome.com/html/909817.htm)
+
++ [一切为了销量、利润，消息称三星决定不提高 Galaxy S26 系列机型售价](https://m.ithome.com/html/909849.htm)
+
++ [旺旺 X 雅迪联名电动车亮相：“旺”字迎宾灯、“旺旺”启动音效](https://m.ithome.com/html/909808.htm)
+
++ [娄底舰正式登场：海军 052D 型导弹驱逐舰新年首次上新，雷达武器网络全面升级](https://m.ithome.com/html/909874.htm)
+
