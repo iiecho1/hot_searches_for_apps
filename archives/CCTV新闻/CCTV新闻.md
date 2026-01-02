@@ -199,3 +199,7 @@
 
 + [一架客机在韩国济州岛起飞前冒烟，120名乘客被紧急疏散](https://news.cctv.com/2026/01/02/ARTIBP11TEnhGq8NfvdmXCFA260102.shtml)
 
++ [印度中央邦饮用水遭污染致10人丧生200多人送医](https://news.cctv.com/2026/01/02/ARTIyRsoZHLs1Bh8RyLFiLV7260102.shtml)
+
++ [以军称以色列北部响起防空警报](https://news.cctv.com/2026/01/02/ARTIo39PDWsTTJOGriNXTYpo260102.shtml)
+

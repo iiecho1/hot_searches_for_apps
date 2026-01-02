@@ -45,3 +45,7 @@
 
 + [自建机场速度问题](https://www.v2ex.com/t/1182584)
 
++ [今天生日，陌生人可以给我一个祝福吗](https://www.v2ex.com/t/1182689)
+
++ [iPad Pro 轻办公使用软件推荐请教.](https://www.v2ex.com/t/1182637)
+

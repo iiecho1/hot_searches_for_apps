@@ -183,3 +183,11 @@
 
 + [突破物理极限：利用多元回归算法重构激光三角位移传感器的亚微米级线性度](https://blog.csdn.net/wxdlfkj/article/details/156486343)
 
++ [C++AI](https://blog.csdn.net/m0_74189279/article/details/156366855)
+
++ [《拆解Linux中的IP协议与数据链路层：地址、路由与分片的底层逻辑》](https://blog.csdn.net/Dovis5884/article/details/155539727)
+
++ [【花雕学编程】Arduino BLDC 之仿人机器人膝关节稳定系统](https://blog.csdn.net/weixin_41659040/article/details/156507724)
+
++ [【TextIn大模型加速器 + 火山引擎】TextIn大模型加速器与火山引擎协同构建智能文档处理新范式](https://blog.csdn.net/weixin_63944437/article/details/156466185)
+
