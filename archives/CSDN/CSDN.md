@@ -191,3 +191,11 @@
 
 + [【TextIn大模型加速器 + 火山引擎】TextIn大模型加速器与火山引擎协同构建智能文档处理新范式](https://blog.csdn.net/weixin_63944437/article/details/156466185)
 
++ [Act2Goal——基于世界模型的通用目标条件策略：生成未来视觉轨迹指导低层运动控制，且MSTH将轨迹分解为近端和远端帧，以兼顾长时规划与局部控制](https://blog.csdn.net/v_JULY_v/article/details/156489435)
+
++ [以码为墨，以心为笔：我的2025创作修行之路](https://blog.csdn.net/qq_33650655/article/details/156490803)
+
++ [XUbuntu22.04之视频编辑利器：kdenlive剪切视频片段+自动转码输出(二百八十七)](https://blog.csdn.net/u010164190/article/details/156482610)
+
++ [基于SpringBoot的高校论坛系统【2026最新】](https://blog.csdn.net/2301_78335941/article/details/156431660)
+

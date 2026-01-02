@@ -203,3 +203,7 @@
 
 + [以军称以色列北部响起防空警报](https://news.cctv.com/2026/01/02/ARTIo39PDWsTTJOGriNXTYpo260102.shtml)
 
++ [特朗普称将就伊朗骚乱事件进行干涉](https://news.cctv.com/2026/01/02/ARTIYTG1p5UvxXSrjzzir3ao260102.shtml)
+
++ [韩国法院签发对尹锡悦的追加拘捕令](https://news.cctv.com/2026/01/02/ARTIjPZt2SofPp0LeDT9IkAA260102.shtml)
+
