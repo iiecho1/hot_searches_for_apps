@@ -101,3 +101,9 @@
 
 + [Makefile 实战指南：从零到一掌握自动化构建](https://blog.csdn.net/2302_80761497/article/details/156446396)
 
++ [鸿蒙·AI·开源：我的2025技术年度总结](https://blog.csdn.net/qq_33681891/article/details/156466526)
+
++ [XUbuntu22.04之视频编辑利器：kdenlive剪切视频片段+自动转码输出(二百八十七)](https://blog.csdn.net/u010164190/article/details/156482610)
+
++ [后端篇——第二章 Maven高级全面教程](https://blog.csdn.net/2403_88453964/article/details/156492446)
+
