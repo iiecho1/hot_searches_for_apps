@@ -161,3 +161,13 @@
 
 + [记者世界·2025丨危险的转向](https://news.cctv.com/2025/12/30/ARTIgoiJ0ku6hhSXwmbggJEY251229.shtml)
 
++ [也门南方过渡委员会宣布启动过渡期寻求“独立”](https://news.cctv.com/2026/01/03/ARTILje2ldSMZrlQWQaLQIdY260103.shtml)
+
++ [瑞士酒吧火灾原因初步确定为烟花棒引燃](https://news.cctv.com/2026/01/03/ARTIKRNLbZEKOiIJ3r2Mai9y260103.shtml)
+
++ [墨西哥6.5级地震已致1死12伤 余震超400次](https://news.cctv.com/2026/01/03/ARTIWX35hSVJdgkXce26aPCg260103.shtml)
+
++ [泽连斯基宣布调整乌国防部运作 提名新防长人选](https://news.cctv.com/2026/01/03/ARTIFfTOwGIcW8BZ46tbWdgN260103.shtml)
+
++ [伊朗外交部谴责美国干涉内政 警告将果断回应任何侵略](https://news.cctv.com/2026/01/03/ARTIEgfHJlMVMgLPWS7mAFyA260103.shtml)
+
