@@ -163,3 +163,9 @@
 
 + [鸿蒙分布式通信安全实践：中间人攻击原理与防御实现](https://blog.csdn.net/m0_74456227/article/details/156465998)
 
++ [第3版•系统集成项目管理工程师（中级） │ 第12章 执行过程组 ✦ 管理质量](https://blog.csdn.net/qq_41840843/article/details/154787251)
+
++ [Systemd Units Explained with Types and States](https://blog.csdn.net/allway2/article/details/156452337)
+
++ [Kubernetes Gateway API 与 Envoy Gateway 部署使用指南](https://blog.csdn.net/ygqygq2/article/details/156461494)
+

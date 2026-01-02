@@ -187,3 +187,5 @@
 
 + [“中国是推动世界和平与繁荣的坚实力量”](https://news.cctv.com/2026/01/02/ARTII6nu5wUpdmydtyeYSDP1260102.shtml)
 
++ [马杜罗：委内瑞拉已准备好与美国就打击毒品走私对话](https://news.cctv.com/2026/01/02/ARTITHm3SMaKgLDtcnxEIAeA260102.shtml)
+
