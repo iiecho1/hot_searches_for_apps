@@ -53,3 +53,5 @@
 
 + [成都宽带选择](https://www.v2ex.com/t/1182680)
 
++ [ChatGPT 马上快到期了， Gemini 和 ChatGPT 哪个更强一点，目前有啥活动，准备续费](https://www.v2ex.com/t/1182707)
+

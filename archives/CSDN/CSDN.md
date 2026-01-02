@@ -221,3 +221,5 @@
 
 + [计算机组成原理（12）：并行进位加法器](https://blog.csdn.net/htw250056/article/details/156517721)
 
++ [基于Orbbec-Gemini深度相机与SFM-2D to 3D重建算法、手部识别视觉算法、Unity运动控制的3D水果切割游戏](https://blog.csdn.net/2302_80464577/article/details/156485939)
+
