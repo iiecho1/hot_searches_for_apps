@@ -137,3 +137,15 @@
 
 + [基于Spring Boot的微信小程序的智慧商场系统的设计与实现](https://blog.csdn.net/fengzongfu/article/details/156428180)
 
++ [智造之眼：人工智能如何重塑现代工业制造](https://blog.csdn.net/2302_80329073/article/details/156428019)
+
++ [Jina 模型的介绍，它们的功能，以及在 Elasticsearch 中的使用](https://blog.csdn.net/UbuntuTouch/article/details/156502954)
+
++ [Kafka - 网络抖动应对：重试机制、超时时间调整](https://blog.csdn.net/qq_41187124/article/details/155677230)
+
++ [242-267 GHz双基地超外差雷达系统：面向精密太赫兹传感与成像的65nm CMOS实现——论文阅读](https://blog.csdn.net/qq_44648285/article/details/156492465)
+
++ [基于渗透测试的阿里云轻量应用服务器安全策略研究](https://blog.csdn.net/m0_67906358/article/details/156417123)
+
++ [Kubernetes微服务DevOps](https://blog.csdn.net/codezxhy/article/details/156262413)
+

@@ -179,3 +179,7 @@
 
 + [2025年超4.1万人经英吉利海峡偷渡到英国](https://news.cctv.com/2026/01/02/ARTIM9uuq2QWgZZbrq9A0DfS260102.shtml)
 
++ [丹麦首相在新年讲话中以“不点名方式”批评美国](https://news.cctv.com/2026/01/02/ARTIz9JbOGHQSGA81vY3wPNw260102.shtml)
+
++ [一名中国公民在悉尼被巨浪卷入海中丧生](https://news.cctv.com/2026/01/02/ARTI9LO3g7oTIPQkn775Ibcl260102.shtml)
+
