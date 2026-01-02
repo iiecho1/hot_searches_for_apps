@@ -77,3 +77,11 @@
 
 + [【赤也】夏恋慕](https://m.acfun.cn/v/?ac=48151911)
 
++ [【猪肝来也】老街/2026第一唱](https://m.acfun.cn/v/?ac=48151889)
+
++ [【cos】太太，新年快乐](https://m.acfun.cn/v/?ac=48151470)
+
++ [同样一句话换个说法](https://m.acfun.cn/v/?ac=48152575)
+
++ [【猪肝来也】也罢/2026第一次ktv](https://m.acfun.cn/v/?ac=48152533)
+

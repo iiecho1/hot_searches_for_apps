@@ -149,3 +149,17 @@
 
 + [Kubernetes微服务DevOps](https://blog.csdn.net/codezxhy/article/details/156262413)
 
++ [机器学习数据工程之基石：论数据集划分之道与sklearn实践](https://blog.csdn.net/2503_92624912/article/details/156376907)
+
++ [90%成本节约：Java交通系统如何让ROI从1.5倍飙升至5倍？](https://blog.csdn.net/z_344791576/article/details/151762515)
+
++ [海量小说数据采集：Spark 爬虫系统设计](https://blog.csdn.net/Z_suger7/article/details/156426351)
+
++ [银行的数据智能平台和Cloudera CDP 7.3（CMP 7.3）的技术对接](https://blog.csdn.net/yumgpkpm/article/details/156460526)
+
++ [2025年度总结：在代码中思考，于分享中前行](https://blog.csdn.net/LOVEmy134611/article/details/156494494)
+
++ [FPGA教程系列-Vivado Aurora 8B／10B 例程修改](https://blog.csdn.net/fantasygwh2015/article/details/156424375)
+
++ [鸿蒙分布式通信安全实践：中间人攻击原理与防御实现](https://blog.csdn.net/m0_74456227/article/details/156465998)
+

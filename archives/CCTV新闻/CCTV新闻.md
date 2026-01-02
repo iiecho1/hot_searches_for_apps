@@ -183,3 +183,7 @@
 
 + [一名中国公民在悉尼被巨浪卷入海中丧生](https://news.cctv.com/2026/01/02/ARTI9LO3g7oTIPQkn775Ibcl260102.shtml)
 
++ [中老铁路2025年免签入境外国人同比增长48%](https://news.cctv.com/2026/01/02/ARTIeaySe1dCtq45b5GkefBz260102.shtml)
+
++ [“中国是推动世界和平与繁荣的坚实力量”](https://news.cctv.com/2026/01/02/ARTII6nu5wUpdmydtyeYSDP1260102.shtml)
+
