@@ -25,3 +25,17 @@
 
 + [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
++ [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
++ [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+
++ [rossant/awesome-math](https://github.com/rossant/awesome-math)
+
++ [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+
++ [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)
+
++ [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+

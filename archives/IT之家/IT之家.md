@@ -67,3 +67,13 @@
 
 + [娄底舰正式登场：海军 052D 型导弹驱逐舰新年首次上新，雷达武器网络全面升级](https://m.ithome.com/html/909874.htm)
 
++ [高手成功让苹果 iPhone 16e 吃上 macOS 15.6 系统，移植部分 M4 芯片驱动](https://m.ithome.com/html/909902.htm)
+
++ [华为鸿蒙 6.0.0.120 SP6 更新推送，优化系统使用体验](https://m.ithome.com/html/909906.htm)
+
++ [起亚汽车宣布全国推行“无套路一口价”：奕跑 1.4L IVT 趣享自动版 5.59 万元，K3 1.5L 舒适优享版 6.99 万元](https://m.ithome.com/html/909875.htm)
+
++ [别克至境 SUV 新车官宣：“新年入新境”](https://m.ithome.com/html/909858.htm)
+
++ [2025 年 12 月汽车销量 / 交付榜出炉：比亚迪依旧登顶、鸿蒙智行接近 9 万、小米首破 5 万](https://m.ithome.com/html/909869.htm)
+

@@ -199,3 +199,7 @@
 
 + [基于SpringBoot的高校论坛系统【2026最新】](https://blog.csdn.net/2301_78335941/article/details/156431660)
 
++ [DeepSeek 开年王炸：mHC 架构用流形约束重构 ResNet 残差连接](https://blog.csdn.net/m0_46510245/article/details/156491536)
+
++ [Flutter & OpenHarmony OA系统图片预览组件开发指南](https://blog.csdn.net/2501_94624478/article/details/156492220)
+
