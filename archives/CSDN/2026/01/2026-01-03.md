@@ -131,3 +131,5 @@
 
 + [LLM - Claude Code LSP（Language Server Protocol）语义级 IDE 助手](https://blog.csdn.net/yangshangwei/article/details/156491479)
 
++ [瑞芯微(EASY EAI)RV1126B RTC使用](https://blog.csdn.net/EASY_EAI/article/details/156446939)
+

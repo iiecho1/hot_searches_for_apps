@@ -55,3 +55,17 @@
 
 + [2025 年 12 月汽车销量 / 交付榜出炉：比亚迪依旧登顶、鸿蒙智行接近 9 万、小米首破 5 万](https://m.ithome.com/html/909869.htm)
 
++ [小米公司发言人：某博主的小米 17 Ultra 徕卡版拆机内容被断章取义，其本人已发布澄清内容](https://m.ithome.com/html/909987.htm)
+
++ [数字人民币迎来 2.0 版本，实名钱包余额开始计付利息](https://m.ithome.com/html/909966.htm)
+
++ [合约期已满，法拉利车队官宣中国首位 F1 车手周冠宇离队](https://m.ithome.com/html/909962.htm)
+
++ [消息称英伟达 RTX 5090 显卡今年涨至 5000 美元，AI 行业需求成主要推手](https://m.ithome.com/html/909889.htm)
+
++ [小米 1 月服务周开启：54 款手机电池换新 8 折，空调清洁套装上线](https://m.ithome.com/html/909941.htm)
+
++ [领克 08 EM-P 230 超长续航 Ultra 版上市：标配千里浩瀚 H5 辅助驾驶，限时 18.98 万元](https://m.ithome.com/html/909947.htm)
+
++ [华为鸿蒙智家蓝牙网关 Lite 发布：兼容 2.4G/5G Wi-Fi、蓝牙 Mesh，129 元](https://m.ithome.com/html/909884.htm)
+
