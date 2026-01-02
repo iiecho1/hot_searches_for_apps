@@ -107,3 +107,19 @@
 
 + [后端篇——第二章 Maven高级全面教程](https://blog.csdn.net/2403_88453964/article/details/156492446)
 
++ [Java 大视界 -- 基于 Java 的大数据可视化在企业生产运营监控与决策支持中的应用](https://blog.csdn.net/atgfg/article/details/156458857)
+
++ [【自然语言处理】应用04：自然语言推断与数据集](https://blog.csdn.net/Morse_Chen/article/details/156432437)
+
++ [从单主机到多主机——分布式系统的不断推进](https://blog.csdn.net/fyy31/article/details/156084988)
+
++ [亚毫米波FMCW脉冲多普勒雷达：粒子云动态特性表征技术深度解析](https://blog.csdn.net/qq_44648285/article/details/156493179)
+
++ [Python 图形任意角度旋转完整解决方案：原理、实现与可视化展示](https://blog.csdn.net/macowl/article/details/156492585)
+
++ [Kafka - 网络抖动应对：重试机制、超时时间调整](https://blog.csdn.net/qq_41187124/article/details/155677230)
+
++ [Windows 环境下有哪些可用的 iOS 上架工具， iOS 上架工具的使用方式](https://blog.csdn.net/2501_91510632/article/details/156459373)
+
++ [基于Orbbec-Gemini深度相机与SFM-2D to 3D重建算法、手部识别视觉算法、Unity运动控制的3D水果切割游戏](https://blog.csdn.net/2302_80464577/article/details/156485939)
+
