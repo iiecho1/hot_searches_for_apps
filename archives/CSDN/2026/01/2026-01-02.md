@@ -135,3 +135,5 @@
 
 + [Kafka - CPU使用率过高：热点分区排查与优化方案](https://blog.csdn.net/qq_41187124/article/details/155677203)
 
++ [基于Spring Boot的微信小程序的智慧商场系统的设计与实现](https://blog.csdn.net/fengzongfu/article/details/156428180)
+

@@ -171,3 +171,11 @@
 
 + [美国对部分跨境汇款征收1%汇款税](https://news.cctv.com/2026/01/02/ARTInlpi1YXk1qGpoXmXh1V1260102.shtml)
 
++ [巴西前总统博索纳罗出院后返回监狱](https://news.cctv.com/2026/01/02/ARTIT5Y0DovRjVZ9MzkkdrrG260102.shtml)
+
++ [美国新一轮限制外国公民入境措施生效](https://news.cctv.com/2026/01/02/ARTIkEEkd5wKZtroWxG143ce260102.shtml)
+
++ [加沙地带媒体办公室：2026年首要任务是停止冲突、恢复重建](https://news.cctv.com/2026/01/02/ARTINwCcSnRktTNHH8yuR04c260102.shtml)
+
++ [2025年超4.1万人经英吉利海峡偷渡到英国](https://news.cctv.com/2026/01/02/ARTIM9uuq2QWgZZbrq9A0DfS260102.shtml)
+
