@@ -123,3 +123,9 @@
 
 + [基于Orbbec-Gemini深度相机与SFM-2D to 3D重建算法、手部识别视觉算法、Unity运动控制的3D水果切割游戏](https://blog.csdn.net/2302_80464577/article/details/156485939)
 
++ [人脑的工作原理——神经网络](https://blog.csdn.net/qq_25467441/article/details/156456536)
+
++ [语音分析宠物症状兽医误诊率砍半](https://blog.csdn.net/2501_93420214/article/details/156503391)
+
++ [Spring Web MVC(四)](https://blog.csdn.net/2401_88631059/article/details/156365513)
+
