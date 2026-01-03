@@ -191,3 +191,5 @@
 
 + [乌克兰重大人事调整：防长换人，39岁新总统办公室主任什么来头？](https://news.cctv.com/2026/01/03/ARTI6WwhNLBu5JQYK7R3ATDM260103.shtml)
 
++ [委内瑞拉首都加拉加斯传出数声爆炸声 现场响起防空警报](https://news.cctv.com/2026/01/03/ARTIxhcxUpZiWiblVT8K16js260103.shtml)
+

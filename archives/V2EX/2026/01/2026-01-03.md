@@ -39,3 +39,7 @@
 
 + [iPhone 充电后电量高于设定上限值](https://www.v2ex.com/t/1182756)
 
++ [求 2025 最好的播客推荐？](https://www.v2ex.com/t/1182763)
+
++ [新手养猫一个星期，有点后悔了](https://www.v2ex.com/t/1182776)
+

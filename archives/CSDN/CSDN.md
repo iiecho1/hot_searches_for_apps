@@ -165,3 +165,13 @@
 
 + [2026.1.2 一文读懂充电桩行业 - 慧知重卡开源充电桩平台：](https://blog.csdn.net/Roinli/article/details/156510219)
 
++ [ OpenCV 中摄像头视频采集 + 实时显示 + 视频保存 ](https://blog.csdn.net/2301_77414326/article/details/156490555)
+
++ [Elasticsearch：在 Streams 中使用 ML 自动化 log 解析](https://blog.csdn.net/UbuntuTouch/article/details/156532512)
+
++ [我在CSDN的三年创作历程](https://blog.csdn.net/weixin_45791458/article/details/156517255)
+
++ [第十章：网络系统建设与运维（高级）—— 网络系统安全](https://blog.csdn.net/2401_82750246/article/details/156514128)
+
++ [基于ESP32S3芯片的机器人控制器设计与实现](https://blog.csdn.net/weixin_44470384/article/details/156516442)
+
