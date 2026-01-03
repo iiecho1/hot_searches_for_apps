@@ -133,3 +133,9 @@
 
 + [瑞芯微(EASY EAI)RV1126B RTC使用](https://blog.csdn.net/EASY_EAI/article/details/156446939)
 
++ [江湖路远，代码为剑：2025，我与 AI 的问道之旅](https://blog.csdn.net/zzqingyun/article/details/156460770)
+
++ [Linux 源码阅读环境配置一条龙](https://blog.csdn.net/aLingYun/article/details/156492788)
+
++ [【TextIn大模型加速器 + 火山引擎】TextIn大模型加速器与火山引擎协同构建智能文档处理新范式](https://blog.csdn.net/weixin_63944437/article/details/156466185)
+
