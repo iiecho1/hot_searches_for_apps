@@ -53,3 +53,7 @@
 
 + [Arch Linux 下微信备份聊天记录的方案？](https://www.v2ex.com/t/1182710)
 
++ [中国银行 60 元立减金大羊毛](https://www.v2ex.com/t/1182772)
+
++ [江东 @cosbeta 限你 3 日内出来解释 vpnso 跑路一事](https://www.v2ex.com/t/1182774)
+

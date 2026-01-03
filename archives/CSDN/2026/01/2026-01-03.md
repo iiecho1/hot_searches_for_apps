@@ -195,3 +195,7 @@
 
 + [Java基于SpringBoot的在线政务服务中心，附源码+文档说明](https://blog.csdn.net/2301_77835649/article/details/156519098)
 
++ [NiFi实现数据存储到数据库](https://blog.csdn.net/weixin_41793160/article/details/156519613)
+
++ [基于微信小程序的个性化漫画阅读推荐系统【源码文末联系】](https://blog.csdn.net/2402_84112588/article/details/156514989)
+

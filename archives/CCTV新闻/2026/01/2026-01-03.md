@@ -215,3 +215,15 @@
 
 + [特朗普称已抓获委内瑞拉总统](https://news.cctv.com/2026/01/03/ARTIC0qSZERGFFyTo68ZqJZp260103.shtml)
 
++ [委内政部长：已请求安理会就美国军事袭击召开紧急会议](https://news.cctv.com/2026/01/03/ARTILSHA0SqRsGFqWFsePaYd260103.shtml)
+
++ [美议员称马杜罗将在美国接受审判](https://news.cctv.com/2026/01/03/ARTIZf9N30twFDRwLyQ2EVaQ260103.shtml)
+
++ [委内瑞拉前内政部长在美军事行动中身亡](https://news.cctv.com/2026/01/03/ARTIellyALx1qSczjoW24iH9260103.shtml)
+
++ [特朗普：将在海湖庄园举行新闻发布会 公布对委内瑞拉行动细节](https://news.cctv.com/2026/01/03/ARTITlz5H0AaUUdA1ZYbPHKY260103.shtml)
+
++ [哥伦比亚宣布关闭与委内瑞拉陆路边境](https://news.cctv.com/2026/01/03/ARTI3o2z4TqKRBU8rjXvxUlT260103.shtml)
+
++ [美国官员：委内瑞拉总统被美国陆军三角洲部队抓获](https://news.cctv.com/2026/01/03/ARTIyH2GinkUpVqiz97fKTts260103.shtml)
+

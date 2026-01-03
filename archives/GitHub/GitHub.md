@@ -19,3 +19,13 @@
 
 + [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 
++ [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
++ [beancount/beancount](https://github.com/beancount/beancount)
+
++ [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+
++ [nukeop/nuclear](https://github.com/nukeop/nuclear)
+
