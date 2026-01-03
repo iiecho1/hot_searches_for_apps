@@ -25,3 +25,25 @@
 
 + [手机 + 充电宝 = 全键盘滑盖手机，Clicks 推出新形态配件 Power Keyboard](https://m.ithome.com/html/909985.htm)
 
++ [用 200 块解决几十万元的问题：浙江温州一小区用手机微信当门铃，外卖小哥可直接联系业主远程开门](https://m.ithome.com/html/909883.htm)
+
++ [高手成功让苹果 iPhone 16e 吃上 macOS 15.6 系统，移植部分 M4 芯片驱动](https://m.ithome.com/html/909902.htm)
+
++ [娄底舰正式登场：海军 052D 型导弹驱逐舰新年首次上新，雷达武器网络全面升级](https://m.ithome.com/html/909874.htm)
+
++ [华为鸿蒙 6.0.0.120 SP6 更新推送，优化系统使用体验](https://m.ithome.com/html/909906.htm)
+
++ [数字人民币迎来 2.0 版本，实名钱包余额开始计付利息](https://m.ithome.com/html/909966.htm)
+
++ [起亚汽车宣布全国推行“无套路一口价”：奕跑 1.4L IVT 趣享自动版 5.59 万元，K3 1.5L 舒适优享版 6.99 万元](https://m.ithome.com/html/909875.htm)
+
++ [合约期已满，法拉利车队官宣中国首位 F1 车手周冠宇离队](https://m.ithome.com/html/909962.htm)
+
++ [消息称英伟达 RTX 5090 显卡今年涨至 5000 美元，AI 行业需求成主要推手](https://m.ithome.com/html/909889.htm)
+
++ [小米 1 月服务周开启：54 款手机电池换新 8 折，空调清洁套装上线](https://m.ithome.com/html/909941.htm)
+
++ [领克 08 EM-P 230 超长续航 Ultra 版上市：标配千里浩瀚 H5 辅助驾驶，限时 18.98 万元](https://m.ithome.com/html/909947.htm)
+
++ [华为鸿蒙智家蓝牙网关 Lite 发布：兼容 2.4G/5G Wi-Fi、蓝牙 Mesh，129 元](https://m.ithome.com/html/909884.htm)
+

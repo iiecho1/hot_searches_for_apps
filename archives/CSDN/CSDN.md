@@ -113,3 +113,25 @@
 
 + [基于微信小程序的家政服务与互助平台【源码文末联系】](https://blog.csdn.net/2402_84112588/article/details/156515195)
 
++ [【TextIn大模型加速器 + 火山引擎】零代码搭建企业级智能文档处理系统](https://blog.csdn.net/qq_33681891/article/details/156492368)
+
++ [多元函数的神经网络与深度学习](https://blog.csdn.net/m0_65601072/article/details/156489179)
+
++ [GitHub 热榜项目 - 日榜(2026-1-2)](https://blog.csdn.net/u014390502/article/details/156510762)
+
++ [基于 LangChain + Gemini + CloudSQL (pgvector) 的 RAG 实现指南](https://blog.csdn.net/nvd11/article/details/156519891)
+
++ [Docker（C/S架构软件）](https://blog.csdn.net/lydeee/article/details/156545911)
+
++ [Express.js中间件Middleware是处理 HTTP 请求和响应以及jwt token认证](https://blog.csdn.net/weixin_44786530/article/details/156508594)
+
++ [XUbuntu22.04之视频编辑利器：kdenlive剪切视频片段+自动转码输出(二百八十七)](https://blog.csdn.net/u010164190/article/details/156482610)
+
++ [docker快速部署启动gitlab](https://blog.csdn.net/weixin_44556848/article/details/156516141)
+
++ [深入UDP与sk_buff：掌握Linux网络协议栈的核心机制](https://blog.csdn.net/2302_80871796/article/details/156490074)
+
++ [Docker 拉取部署 OpenJDK 全指南：替代方案、实操步骤与最佳实践](https://blog.csdn.net/java_logo/article/details/156513813)
+
++ [构建高性能异步 HTTP 客户端：aiohttp 与 httpx 实战解析与性能优化](https://blog.csdn.net/windowshht/article/details/156501374)
+
