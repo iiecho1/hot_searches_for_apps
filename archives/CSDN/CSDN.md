@@ -199,3 +199,7 @@
 
 + [基于微信小程序的个性化漫画阅读推荐系统【源码文末联系】](https://blog.csdn.net/2402_84112588/article/details/156514989)
 
++ [React 之 自定义 Hooks](https://blog.csdn.net/2302_80706750/article/details/156541651)
+
++ [基于dify+memobase实现带永久记忆功能AI智能微信客服系统（安全无风控无封号）](https://blog.csdn.net/youeyeb/article/details/156507016)
+

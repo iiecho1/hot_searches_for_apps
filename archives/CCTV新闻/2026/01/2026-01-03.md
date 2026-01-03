@@ -227,3 +227,7 @@
 
 + [美国官员：委内瑞拉总统被美国陆军三角洲部队抓获](https://news.cctv.com/2026/01/03/ARTIyH2GinkUpVqiz97fKTts260103.shtml)
 
++ [委内瑞拉国家石油公司：初步评估委石油设施在袭击中未受打击](https://news.cctv.com/2026/01/03/ARTIW7kRVHELlGo4b1yPdtUW260103.shtml)
+
++ [美国务卿：马杜罗将在美国面临刑事指控](https://news.cctv.com/2026/01/03/ARTILYfBQfWogHxsNuiuQXm3260103.shtml)
+
