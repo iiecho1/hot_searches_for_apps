@@ -177,3 +177,13 @@
 
 + [基于微信小程序的家政服务与互助平台【源码文末联系】](https://blog.csdn.net/2402_84112588/article/details/156515195)
 
++ [【愚公系列】《AI+直播营销》002-重视直播营销，打造直播竞争力（AI时代，直播营销新的发展趋势）](https://blog.csdn.net/aa2528877987/article/details/156492563)
+
++ [【Python】2026动态文字壁纸，一键让你的桌面加上烟花效果和今日任务事项](https://blog.csdn.net/lmy_520/article/details/156517426)
+
++ [【unity游戏开发——网络】unity+PurrNet联机实战，实现一个多人对战类《CS/CSGO》《CF/穿越火线》《PUBG/吃鸡》的FPS射击游戏](https://blog.csdn.net/qq_36303853/article/details/156169400)
+
++ [.NET 8 API +Angular 16 + Mysql利用docker compose发布](https://blog.csdn.net/wzcool273509239/article/details/156505395)
+
++ [【流程思维】一、流程视角-核心概念解析+华为案例](https://blog.csdn.net/weixin_43800786/article/details/156491333)
+

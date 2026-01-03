@@ -47,3 +47,7 @@
 
 + [求推荐一个办公用 23.8 英寸 4k 显示器， AOC U24P10R 已经踩雷](https://www.v2ex.com/t/1182744)
 
++ [上海电信有必要转其他的运营商吗](https://www.v2ex.com/t/1182773)
+
++ [感觉 gemini3pro 真的变蠢了。](https://www.v2ex.com/t/1182762)
+

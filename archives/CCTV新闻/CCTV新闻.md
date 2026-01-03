@@ -201,3 +201,11 @@
 
 + [俄罗斯公布20名日本战犯名单 将继续揭露日本军国主义罪行](https://news.cctv.com/2026/01/03/ARTIsri8bdeRb5Nhfu5b9KAr260103.shtml)
 
++ [哥伦比亚国防部长：全国公共安全力量进入戒备状态](https://news.cctv.com/2026/01/03/ARTIovKuJw1aIhGg9EYk7ZT9260103.shtml)
+
++ [哥伦比亚总统：委内瑞拉至少10处目标遭袭 包括议会所在建筑](https://news.cctv.com/2026/01/03/ARTIkWLbgbLftcDxkr1lOBa6260103.shtml)
+
++ [委国防部长所在空军基地遭美军袭击 目前情况不明](https://news.cctv.com/2026/01/03/ARTIBVKJMe65edGnZDq5oH4K260103.shtml)
+
++ [美军对委内瑞拉境内目标轰炸结束 地点包括军用机场等](https://news.cctv.com/2026/01/03/ARTIpPKEKiQUmIZyB7h2tEcF260103.shtml)
+
