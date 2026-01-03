@@ -161,3 +161,19 @@
 
 + [美政府终止数万移民临时保护身份遭法官叫停](https://news.cctv.com/2026/01/01/ARTIzcUXsiEtenLh4iUUbQCQ260101.shtml)
 
++ [宣称加强紧密协作，难掩日方外交困境，日媒分析日美领导人通话动机](https://news.cctv.com/2026/01/04/ARTIa4rb4QpMFeilRFl6wS88260104.shtml)
+
++ [哈梅内伊警告不要利用商户抗议煽动骚乱](https://news.cctv.com/2026/01/04/ARTIEr5GTlhASLkHcIg1Jl1p260104.shtml)
+
++ [安理会将于5日就美对委军事行动举行紧急会议](https://news.cctv.com/2026/01/04/ARTI1uhPAsWPdZc9KfJnEEnB260104.shtml)
+
++ [欧洲各国强调各方需遵守联合国宪章 呼吁保持克制](https://news.cctv.com/2026/01/04/ARTIdoSH9SigDwlhzuoUpwNm260104.shtml)
+
++ [乌克兰总统称目前暂不考虑更换武装部队总司令](https://news.cctv.com/2026/01/04/ARTIHsPkO4PwVy7AgnamQUu9260104.shtml)
+
++ [瑞士检方对火灾酒吧经营者展开刑事调查](https://news.cctv.com/2026/01/04/ARTIuz0zSzFsK8s8wAyM8rSX260104.shtml)
+
++ [抗议马杜罗被捕 美国多地爆发反战示威](https://news.cctv.com/2026/01/04/ARTIHN4LWAmciiT8zU1nHZUD260104.shtml)
+
++ [载有马杜罗的飞机抵达美国纽约一处军事基地](https://news.cctv.com/2026/01/04/ARTIAelNMCKzredRs35ZTaaW260104.shtml)
+
