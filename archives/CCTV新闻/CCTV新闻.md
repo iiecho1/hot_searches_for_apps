@@ -179,3 +179,9 @@
 
 + [驻墨西哥使领馆提醒中国公民注意防范地震灾害](https://news.cctv.com/2026/01/03/ARTI7uo25YKNR9jovYkiNmcX260103.shtml)
 
++ [国际观察丨借鉴中国经验 俄远东“新园区”为中俄合作提供新平台](https://news.cctv.com/2026/01/03/ARTIoQZY1ObTjEDt0LLhBarR260103.shtml)
+
++ [“为世界注入更多稳定性与确定性”](https://news.cctv.com/2026/01/03/ARTIIFcHE6SDg7SsYeeDvAGe260103.shtml)
+
++ [中国助力非洲数字化转型（新时代中非合作）](https://news.cctv.com/2026/01/03/ARTILMNoKH6rpNNiMxzhczPu260103.shtml)
+
