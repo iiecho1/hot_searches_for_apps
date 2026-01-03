@@ -231,3 +231,15 @@
 
 + [美国务卿：马杜罗将在美国面临刑事指控](https://news.cctv.com/2026/01/03/ARTILYfBQfWogHxsNuiuQXm3260103.shtml)
 
++ [外交部和中国驻委内瑞拉使馆提醒中国公民近期暂勿前往委内瑞拉](https://news.cctv.com/2026/01/03/ARTISsxHjEIMjGOZZyxg9nqP260103.shtml)
+
++ [欧洲理事会主席称正密切关注委局势 呼吁各方缓和局势](https://news.cctv.com/2026/01/03/ARTIlL5gvi4oxNrHDc8IDf1X260103.shtml)
+
++ [美国司法部长称马杜罗夫妇已在纽约被起诉](https://news.cctv.com/2026/01/03/ARTIAsZcppbo96h366AE2Fae260103.shtml)
+
++ [记者手记丨和中国专家一起在桑给巴尔“灭螺”](https://news.cctv.com/2026/01/03/ARTIcr0P5MJIi6H36YT3us2W260103.shtml)
+
++ [记者手记丨去感受真实的中国](https://news.cctv.com/2026/01/03/ARTI4MN6tGSpKyNQhDFS9q4Q260103.shtml)
+
++ [美国多名国会议员反对或质疑特朗普政府对委发动军事打击](https://news.cctv.com/2026/01/03/ARTIGVTRTUReZc1jcZ9MxbvC260103.shtml)
+

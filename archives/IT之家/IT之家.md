@@ -91,3 +91,9 @@
 
 + [马斯克引领“比基尼换装”风潮惹争议，xAI 承认 Grok 修图功能遭滥用](https://m.ithome.com/html/909999.htm)
 
++ [一汽奥迪宣布 2025 年零售销量超 57 万辆，时隔六年重回中国燃油豪华车市场销冠](https://m.ithome.com/html/910028.htm)
+
++ [淘宝天猫开启 2026 年国补：家电数码补贴 15%、广东 / 浙江 / 江苏 / 福建多地可领](https://m.ithome.com/html/910058.htm)
+
++ [手机 + 充电宝 = 全键盘滑盖手机，Clicks 推出新形态配件 Power Keyboard](https://m.ithome.com/html/909985.htm)
+
