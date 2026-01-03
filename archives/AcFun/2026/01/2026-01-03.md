@@ -143,3 +143,7 @@
 
 + [展示猪肝！！！欢乐八点档-1518](https://m.acfun.cn/v/?ac=48157024)
 
++ [「旋转音律」第二章魔王曲GALACTIC WARZONEEX评分！！](https://m.acfun.cn/v/?ac=48156162)
+
++ [「旋转音律」Broomstick adventurel   EX+评分](https://m.acfun.cn/v/?ac=48155657)
+

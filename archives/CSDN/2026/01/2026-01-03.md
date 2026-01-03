@@ -207,3 +207,11 @@
 
 + [Linux系统编程：文件系统(CHS LBA地址，Block Group 软硬连接,手搓简化版本的FILE结构体）](https://blog.csdn.net/asciiletters/article/details/156540789)
 
++ [某麦APP抢票：抓包分析与SO库Hook破盾](https://blog.csdn.net/m56423884698/article/details/156542964)
+
++ [【从零开始的Qt开发指南】（十五）Qt窗口之对话框终极指南：从分类到实战，解锁交互设计新高度](https://blog.csdn.net/2301_79248256/article/details/156539179)
+
++ [Linux的xfs文件系统元数据故障恢复实践教程](https://blog.csdn.net/xiaochenXIHUA/article/details/156533053)
+
++ [【教程4＞第10章＞第16节】基于FPGA的图像sobel边缘提取算法开发——Verilog实现](https://blog.csdn.net/ccsss22/article/details/156541006)
+
