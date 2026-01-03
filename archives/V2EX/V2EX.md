@@ -35,3 +35,7 @@
 
 + [NAS 怎样使用 ai 项目？](https://www.v2ex.com/t/1182692)
 
++ [求职： 12 年老程序员，大厂离职，有丰富的前端架构经验，资深 IC，寻求一份杭州或 remote 的工作](https://www.v2ex.com/t/1182719)
+
++ [iPhone 充电后电量高于设定上限值](https://www.v2ex.com/t/1182756)
+

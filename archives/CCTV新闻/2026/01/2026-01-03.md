@@ -187,3 +187,7 @@
 
 + [中国援塞拉利昂医疗队向当地福利院捐赠物资](https://news.cctv.com/2026/01/03/ARTIOHIWxz62wq27kwU7HjcL260103.shtml)
 
++ [委内瑞拉首都加拉加斯传来数声爆炸声](https://news.cctv.com/2026/01/03/ARTIV0f5CQDsEqQ4qfwRADuM260103.shtml)
+
++ [乌克兰重大人事调整：防长换人，39岁新总统办公室主任什么来头？](https://news.cctv.com/2026/01/03/ARTI6WwhNLBu5JQYK7R3ATDM260103.shtml)
+

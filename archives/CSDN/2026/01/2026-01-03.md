@@ -161,3 +161,7 @@
 
 + [主流的框架AI编程工具](https://blog.csdn.net/wange6906/article/details/156492570)
 
++ [Html +css+js 写的一个小商城系统（POS系统）](https://blog.csdn.net/PieroPc/article/details/156490657)
+
++ [2026.1.2 一文读懂充电桩行业 - 慧知重卡开源充电桩平台：](https://blog.csdn.net/Roinli/article/details/156510219)
+

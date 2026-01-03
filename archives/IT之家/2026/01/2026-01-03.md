@@ -69,3 +69,17 @@
 
 + [华为鸿蒙智家蓝牙网关 Lite 发布：兼容 2.4G/5G Wi-Fi、蓝牙 Mesh，129 元](https://m.ithome.com/html/909884.htm)
 
++ [《英雄联盟》选手 Faker 获韩国最高体育勋章“青龙章”，总统李在明亲自颁发](https://m.ithome.com/html/909953.htm)
+
++ [多邻国 App 使用苹果 iPhone 灵动岛展示广告，被指违反官方设计规范](https://m.ithome.com/html/910004.htm)
+
++ [消息称苹果 A20 芯片单颗成本高达 280 美元，2nm 先进制程芯片恐成“史上最贵”](https://m.ithome.com/html/909998.htm)
+
++ [2026 首个华为服务日开启：免费贴膜保养、维修免人工费](https://m.ithome.com/html/909950.htm)
+
++ [全年仅 2 次，2026 年首个“超级月亮”1 月 3 日现身夜空](https://m.ithome.com/html/909971.htm)
+
++ [realme 真我 Neo8 外观曝光：左上角矩阵式镜头，预计搭载骁龙 8 Gen5](https://m.ithome.com/html/909990.htm)
+
++ [用户发现苹果 iPhone 手机电池会在飞行途中鼓包，落地后恢复正常](https://m.ithome.com/html/910017.htm)
+
