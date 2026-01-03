@@ -155,3 +155,9 @@
 
 + [电脑出现错误代码0xc0000001：电脑蓝屏背后的高频错误代码解析](https://blog.csdn.net/qq_35743011/article/details/156460031)
 
++ [【C# ASP.NET】局部视图 @Html.Partial 全解析：复用 UI 的正确姿势（附避坑指南）](https://blog.csdn.net/William_cl/article/details/156518765)
+
++ [vue前端crud（页面布局，新增，vue中反向代理）](https://blog.csdn.net/The_Lun/article/details/156396531)
+
++ [主流的框架AI编程工具](https://blog.csdn.net/wange6906/article/details/156492570)
+

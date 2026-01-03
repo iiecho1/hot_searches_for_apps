@@ -185,3 +185,5 @@
 
 + [中国助力非洲数字化转型（新时代中非合作）](https://news.cctv.com/2026/01/03/ARTILMNoKH6rpNNiMxzhczPu260103.shtml)
 
++ [中国援塞拉利昂医疗队向当地福利院捐赠物资](https://news.cctv.com/2026/01/03/ARTIOHIWxz62wq27kwU7HjcL260103.shtml)
+
