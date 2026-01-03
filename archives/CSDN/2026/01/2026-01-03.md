@@ -139,3 +139,5 @@
 
 + [【TextIn大模型加速器 + 火山引擎】TextIn大模型加速器与火山引擎协同构建智能文档处理新范式](https://blog.csdn.net/weixin_63944437/article/details/156466185)
 
++ [2026年，让.NET再次伟大](https://blog.csdn.net/Tamate/article/details/156516017)
+

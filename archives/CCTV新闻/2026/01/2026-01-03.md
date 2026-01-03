@@ -171,3 +171,11 @@
 
 + [伊朗外交部谴责美国干涉内政 警告将果断回应任何侵略](https://news.cctv.com/2026/01/03/ARTIEgfHJlMVMgLPWS7mAFyA260103.shtml)
 
++ [联黎部队谴责以军两次向维和人员附近射击](https://news.cctv.com/2026/01/03/ARTIbAcQ2gvONGqgTmfxPy41260103.shtml)
+
++ [联合国秘书长对以色列宣布人道援助禁令生效深表关切](https://news.cctv.com/2026/01/03/ARTIMLNeOv0lkfaerttYY2IZ260103.shtml)
+
++ [沙特将与也门多方举行会议 讨论南部问题解决方案](https://news.cctv.com/2026/01/03/ARTInmp64BOCXoBKWS0NkG28260103.shtml)
+
++ [驻墨西哥使领馆提醒中国公民注意防范地震灾害](https://news.cctv.com/2026/01/03/ARTI7uo25YKNR9jovYkiNmcX260103.shtml)
+

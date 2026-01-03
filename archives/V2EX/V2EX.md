@@ -23,3 +23,11 @@
 
 + [笔记本上语音输入使用豆包体验真不错](https://www.v2ex.com/t/1182649)
 
++ [狗东 plus 开了真是韭菜啊](https://www.v2ex.com/t/1182709)
+
++ [[杭州/波士顿] 初创工业 AI 公司 招募 CTO/Founding Engineer](https://www.v2ex.com/t/1182662)
+
++ [弄了个 Flappy Bird 游戏的 3D 版自己玩](https://www.v2ex.com/t/1182671)
+
++ [[后续 9] 泉州联通限速所谓整改:优化&#34;劣质&#34;用户 | 二审开庭:责任全在合建商 | 福建宇迈律师林梦瑶被律协立案](https://www.v2ex.com/t/1182750)
+
