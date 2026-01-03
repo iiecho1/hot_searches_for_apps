@@ -193,3 +193,11 @@
 
 + [委内瑞拉首都加拉加斯传出数声爆炸声 现场响起防空警报](https://news.cctv.com/2026/01/03/ARTIxhcxUpZiWiblVT8K16js260103.shtml)
 
++ [委内瑞拉总统马杜罗已宣布国家紧急状态](https://news.cctv.com/2026/01/03/ARTIuVStuhNpCYs7vdTYVGYi260103.shtml)
+
++ [委外交部：严正拒绝并谴责美国对委军事侵略行径](https://news.cctv.com/2026/01/03/ARTIIEfmTEO2jr5J9laYh4BM260103.shtml)
+
++ [美官员称特朗普下令对委内瑞拉境内目标实施打击](https://news.cctv.com/2026/01/03/ARTIoMosU0MjvtX2XoKDDUfR260103.shtml)
+
++ [俄罗斯公布20名日本战犯名单 将继续揭露日本军国主义罪行](https://news.cctv.com/2026/01/03/ARTIsri8bdeRb5Nhfu5b9KAr260103.shtml)
+
