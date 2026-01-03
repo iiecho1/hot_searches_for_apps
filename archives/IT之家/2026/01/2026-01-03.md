@@ -83,3 +83,11 @@
 
 + [用户发现苹果 iPhone 手机电池会在飞行途中鼓包，落地后恢复正常](https://m.ithome.com/html/910017.htm)
 
++ [宝马中国回应最高降价 30 万元：注重长期良性发展而非短期盈利，将切实利益回馈给消费者](https://m.ithome.com/html/910024.htm)
+
++ [曝苹果平价版 MacBook 搭载 12.9 英寸屏幕，价格有望定在 599-899 美元](https://m.ithome.com/html/910012.htm)
+
++ [Clicks 首款智能手机 Communicator 发布：带实体全键盘的“你的第二设备”](https://m.ithome.com/html/909988.htm)
+
++ [马斯克引领“比基尼换装”风潮惹争议，xAI 承认 Grok 修图功能遭滥用](https://m.ithome.com/html/909999.htm)
+

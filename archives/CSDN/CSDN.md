@@ -187,3 +187,11 @@
 
 + [【流程思维】一、流程视角-核心概念解析+华为案例](https://blog.csdn.net/weixin_43800786/article/details/156491333)
 
++ [Java 大视界 -- 基于 Java+Storm 构建实时日志分析平台：从日志采集到告警可视化（440）](https://blog.csdn.net/atgfg/article/details/156518451)
+
++ [Act2Goal——基于世界模型生成未来视觉轨迹以指导低层运动控制：通过MSTH将轨迹分解为近端和远端帧，且基于HER实现无需外部奖励的在线自主改进](https://blog.csdn.net/v_JULY_v/article/details/156489435)
+
++ [【LLM】从LLM出发认识AI--提示词编写技巧与LLM局限性](https://blog.csdn.net/2302_79806056/article/details/155199591)
+
++ [Java基于SpringBoot的在线政务服务中心，附源码+文档说明](https://blog.csdn.net/2301_77835649/article/details/156519098)
+

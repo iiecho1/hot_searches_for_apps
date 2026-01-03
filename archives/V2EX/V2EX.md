@@ -51,3 +51,5 @@
 
 + [感觉 gemini3pro 真的变蠢了。](https://www.v2ex.com/t/1182762)
 
++ [Arch Linux 下微信备份聊天记录的方案？](https://www.v2ex.com/t/1182710)
+

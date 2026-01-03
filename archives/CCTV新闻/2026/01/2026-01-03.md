@@ -209,3 +209,9 @@
 
 + [美军对委内瑞拉境内目标轰炸结束 地点包括军用机场等](https://news.cctv.com/2026/01/03/ARTIpPKEKiQUmIZyB7h2tEcF260103.shtml)
 
++ [委内瑞拉防长：正在统计袭击伤亡 已启动所有国家防御计划](https://news.cctv.com/2026/01/03/ARTIdl17KSDPRitVbfGrZ0pZ260103.shtml)
+
++ [特朗普称抓获委内瑞拉总统马杜罗及其夫人并带离委内瑞拉](https://news.cctv.com/2026/01/03/ARTILfUERjWmmVoRxgU2lE86260103.shtml)
+
++ [特朗普称已抓获委内瑞拉总统](https://news.cctv.com/2026/01/03/ARTIC0qSZERGFFyTo68ZqJZp260103.shtml)
+
