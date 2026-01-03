@@ -101,3 +101,15 @@
 
 + [提升运维效率：深度集成 SSH Config，实现企业级隧道自动化管理](https://blog.csdn.net/weixin_34789114/article/details/156519108)
 
++ [【愚公系列】《AI+直播营销》002-重视直播营销，打造直播竞争力（AI时代，直播营销新的发展趋势）](https://blog.csdn.net/aa2528877987/article/details/156492563)
+
++ [Kafka - 网络抖动应对：重试机制、超时时间调整](https://blog.csdn.net/qq_41187124/article/details/155677230)
+
++ [【Spring 核心： IoC&DI】从原理到注解使用、注入方式全攻略](https://blog.csdn.net/whxcmy/article/details/156517804)
+
++ [第十章：网络系统建设与运维（高级）—— 网络系统安全](https://blog.csdn.net/2401_82750246/article/details/156514128)
+
++ [Linux系统编程：文件系统(CHS LBA地址，Block Group 软硬连接,手搓简化版本的FILE结构体）](https://blog.csdn.net/asciiletters/article/details/156540789)
+
++ [基于微信小程序的家政服务与互助平台【源码文末联系】](https://blog.csdn.net/2402_84112588/article/details/156515195)
+
