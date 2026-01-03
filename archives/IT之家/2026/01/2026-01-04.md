@@ -47,3 +47,9 @@
 
 + [华为鸿蒙智家蓝牙网关 Lite 发布：兼容 2.4G/5G Wi-Fi、蓝牙 Mesh，129 元](https://m.ithome.com/html/909884.htm)
 
++ [《英雄联盟》选手 Faker 获韩国最高体育勋章“青龙章”，总统李在明亲自颁发](https://m.ithome.com/html/909953.htm)
+
++ [2026 首个华为服务日开启：免费贴膜保养、维修免人工费](https://m.ithome.com/html/909950.htm)
+
++ [全年仅 2 次，2026 年首个“超级月亮”1 月 3 日现身夜空](https://m.ithome.com/html/909971.htm)
+
