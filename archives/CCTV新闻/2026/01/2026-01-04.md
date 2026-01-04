@@ -219,3 +219,9 @@
 
 + [俄宣布到2030年前研制出核动力航天发动机原型](https://news.cctv.com/2026/01/04/ARTIF2R46GeDlerdOuyvhjCE260104.shtml)
 
++ [美国白宫账号发布疑似马杜罗被押送视频](https://news.cctv.com/2026/01/04/ARTI9bwIA5AjnmryIkUnSIgF260104.shtml)
+
++ [俄侦委会：赫尔松地区遭袭已致29人死亡](https://news.cctv.com/2026/01/04/ARTIOlO76o04yhYAb0lzLLAd260104.shtml)
+
++ [美对委军事打击造成至少40人死亡](https://news.cctv.com/2026/01/04/ARTIWcnBvSY7TVEmhpnrN68J260104.shtml)
+
