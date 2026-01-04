@@ -177,3 +177,19 @@
 
 + [载有马杜罗的飞机抵达美国纽约一处军事基地](https://news.cctv.com/2026/01/04/ARTIAelNMCKzredRs35ZTaaW260104.shtml)
 
++ [墨西哥参议院取消关于美军入境军事训练的会议](https://news.cctv.com/2026/01/04/ARTIm7cKzXxSZJ8XBo1jOci1260104.shtml)
+
++ [护佑千万孩子远离小儿麻痹症 联合国通过决议：纪念“糖丸爷爷”](https://people.cctv.com/2026/01/04/ARTITAsQn1D9lZt7BD27Eppe260104.shtml)
+
++ [俄外交部：委内瑞拉副总统在俄境内是假新闻](https://news.cctv.com/2026/01/04/ARTICCOrxG5zFzlAsHdiuqNG260104.shtml)
+
++ [委最高法院命令副总统罗德里格斯代行总统职权](https://news.cctv.com/2026/01/04/ARTIEwlEaDvetyuphUCnwT0V260104.shtml)
+
++ [视频丨马杜罗已抵达纽约一处拘留中心](https://news.cctv.com/2026/01/04/ARTIEaeJxynR9TE2qHINqKg2260104.shtml)
+
++ [直击委内瑞拉遭袭地区](https://photo.cctv.com/2026/01/04/PHOAD1vAzXbNAl3jGW7Zu48e260104.shtml)
+
++ [英法联合打击一处疑似存放“伊斯兰国”武器的地下设施](https://news.cctv.com/2026/01/04/ARTI25re8EnN0oj77QZD4ru1260104.shtml)
+
++ [国际社会谴责美国打击委内瑞拉](https://photo.cctv.com/2026/01/04/PHOAXMYcGOTZzojM9H68vUcb260104.shtml)
+

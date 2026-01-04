@@ -139,3 +139,15 @@
 
 + [【机器学习】限制性玻尔兹曼机（RBM）](https://blog.csdn.net/2401_84149564/article/details/156519408)
 
++ [【Qt开发】Qt系统（三）-＞事件过滤器](https://blog.csdn.net/weixin_74809706/article/details/156342234)
+
++ [【2025年度总结】时光知味，三载同行：落笔皆是沉淀，前行自有光芒](https://blog.csdn.net/qq_57761637/article/details/156543989)
+
++ [LabVIEW视觉模块开发车牌自动识别应用](https://blog.csdn.net/bjcyck/article/details/156545465)
+
++ [【滤波跟踪】基于扩展卡尔曼滤波算法和改进无迹卡尔曼滤波轨迹用于双基阵目标运动分析附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/156544642)
+
++ [【云计算2025年度总结】汇总和反思](https://blog.csdn.net/FontThrone/article/details/156488838)
+
++ [基于Pygame的沉浸式新年特效系统设计与实现](https://blog.csdn.net/nmdbbzcl/article/details/156547795)
+
