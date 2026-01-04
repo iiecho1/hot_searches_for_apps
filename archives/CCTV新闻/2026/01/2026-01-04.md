@@ -211,3 +211,11 @@
 
 + [伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”](https://news.cctv.com/2026/01/04/ARTItM8LGVJIaQpfJZmVdLOG260104.shtml)
 
++ [“星链”称要为委内瑞拉提供一个月免费宽带服务](https://news.cctv.com/2026/01/04/ARTILETQUX2XDR4O1im79qoU260104.shtml)
+
++ [巴基斯坦西北部发生枪击事件致3名警察死亡](https://news.cctv.com/2026/01/04/ARTICNV8dM9b3YPwGAWJZtm7260104.shtml)
+
++ [日本栃木县10余辆汽车相撞致1死3伤](https://news.cctv.com/2026/01/04/ARTId9ZYYlRD6duV15yRf8WW260104.shtml)
+
++ [俄宣布到2030年前研制出核动力航天发动机原型](https://news.cctv.com/2026/01/04/ARTIF2R46GeDlerdOuyvhjCE260104.shtml)
+

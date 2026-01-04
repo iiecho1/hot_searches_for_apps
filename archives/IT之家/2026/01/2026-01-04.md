@@ -69,3 +69,11 @@
 
 + [雷军解释小米 YU7 偏置碰撞轮子掉了：丢轮保车，四两拨千斤](https://m.ithome.com/html/910121.htm)
 
++ [雷军：小米汽车 2026 年全年交付目标 55 万辆](https://m.ithome.com/html/910128.htm)
+
++ [小米展示 YU7 门锁机械拉线：内外都有，专用备份电池](https://m.ithome.com/html/910118.htm)
+
++ [小米徐洁云回应“绿化带战神”：有人刻意收集视频恶意剪辑，带节奏、贴标签](https://m.ithome.com/html/910123.htm)
+
++ [荣耀 Power2 手机行业首发天玑 8500 Elite 芯片，1 月 5 日发布](https://m.ithome.com/html/910085.htm)
+

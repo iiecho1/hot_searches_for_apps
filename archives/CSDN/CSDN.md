@@ -169,3 +169,13 @@
 
 + [C++AI](https://blog.csdn.net/m0_74189279/article/details/156366855)
 
++ [医疗AI多智能体协同路径规划（Cooperative Multi-Agent Path Finding）技术综述（上）](https://blog.csdn.net/kkiron/article/details/156559720)
+
++ [metaRTC 8.0 重磅发布：专为新一代 AI 终端而生的实时通信引擎](https://blog.csdn.net/m0_56595685/article/details/156509802)
+
++ [大语言模型实战（十）——基于通义千问 + FastMCP 打造天气查询机器人](https://blog.csdn.net/weixin_42917352/article/details/156547835)
+
++ [【Linux进程(二)】操作系统&Linux的进程状态深入剖析](https://blog.csdn.net/qq_53706413/article/details/156417257)
+
++ [网络安全渗透靶场学习经验&2025年个人博客技术深度总结](https://blog.csdn.net/mooyuan/article/details/156544042)
+
