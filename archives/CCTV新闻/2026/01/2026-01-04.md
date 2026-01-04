@@ -193,3 +193,7 @@
 
 + [国际社会谴责美国打击委内瑞拉](https://photo.cctv.com/2026/01/04/PHOAXMYcGOTZzojM9H68vUcb260104.shtml)
 
++ [美交通部长：加勒比海空域航班限制将于美东时间4日0时解除](https://news.cctv.com/2026/01/04/ARTIbwPBNnWPGmVqoTLbZZ4n260104.shtml)
+
++ [国际社会谴责美国打击委内瑞拉严重违反国际法](https://news.cctv.com/2026/01/04/ARTIrzJVG6ySxb1d8UYfLTMY260104.shtml)
+
