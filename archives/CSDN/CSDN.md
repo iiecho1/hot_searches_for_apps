@@ -131,3 +131,9 @@
 
 + [DAY 44 HTML and HTTP Server Interaction Notes](https://blog.csdn.net/weixin_46607526/article/details/156515609)
 
++ [Java 大视界 —— Java 大数据在智能农业病虫害精准识别与绿色防控中的创新应用](https://blog.csdn.net/atgfg/article/details/156546142)
+
++ [React 之 自定义 Hooks](https://blog.csdn.net/2302_80706750/article/details/156541651)
+
++ [Python轻松实现某德地图可视化](https://blog.csdn.net/qq_27109535/article/details/156547432)
+
