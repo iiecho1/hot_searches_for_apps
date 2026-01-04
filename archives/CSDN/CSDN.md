@@ -113,3 +113,21 @@
 
 + [网络安全渗透靶场学习经验&2025年个人博客技术深度总结](https://blog.csdn.net/mooyuan/article/details/156544042)
 
++ [Python异步编程基石：深入理解asyncio核心原理与实战](https://blog.csdn.net/sinat_41617212/article/details/156520389)
+
++ [代码谁更强？ChatGPT、Claude、Gemini 3：一次性工程交付实测](https://blog.csdn.net/weixin_46211269/article/details/156576469)
+
++ [【YOLO数据集】船舶检测](https://blog.csdn.net/qq_34645958/article/details/156547000)
+
++ [【TextIn大模型加速器 + 火山引擎】大测TextIn对52种语言的支持与额外语种的施压](https://blog.csdn.net/feng8403000/article/details/156562861)
+
++ [基于Redis的分布式锁](https://blog.csdn.net/Galaxy_______/article/details/156235970)
+
++ [商业卫星光电载荷控制系统中MCU抗辐照性能评估方法研究](https://blog.csdn.net/ANSILIC/article/details/156135780)
+
++ [【推荐系统】深度学习训练框架（二十二）：PyTorch2.5 + TorchRec1.0超大规模模型分布式推理实战](https://blog.csdn.net/weixin_48007632/article/details/156576188)
+
++ [Spring Boot与MyBatis整合原理及事务管理：深度解析与实战指南](https://blog.csdn.net/haohaizi_liu/article/details/156510715)
+
++ [DAY 44 HTML and HTTP Server Interaction Notes](https://blog.csdn.net/weixin_46607526/article/details/156515609)
+
