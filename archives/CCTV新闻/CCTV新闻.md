@@ -197,3 +197,17 @@
 
 + [国际社会谴责美国打击委内瑞拉严重违反国际法](https://news.cctv.com/2026/01/04/ARTIrzJVG6ySxb1d8UYfLTMY260104.shtml)
 
++ [柏林西南部突发大面积停电 或持续至8日](https://news.cctv.com/2026/01/04/ARTIOIP53QbXTc5ArGgSi3Hh260104.shtml)
+
++ [美国100多个城市示威抗议袭击委内瑞拉](https://news.cctv.com/2026/01/04/ARTIsSK25MuQ25Q82yaSdXHY260104.shtml)
+
++ [戳破日本右翼翻案历史的阴险话术](https://news.cctv.com/2026/01/04/ARTIdttPxm47HeR2Okf59B4j260104.shtml)
+
++ [2026，世界经济五问](https://news.cctv.com/2026/01/04/ARTIltXPklpgJEVG7z1K2904260104.shtml)
+
++ [在开放合作中推动全球绿色发展](https://news.cctv.com/2026/01/04/ARTIDPubaD1C8sBKrWmS3T2o260104.shtml)
+
++ [中国与西班牙经贸关系蓬勃发展](https://news.cctv.com/2026/01/04/ARTIZjJFg7Gqo4RBA3lKuy1O260104.shtml)
+
++ [伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”](https://news.cctv.com/2026/01/04/ARTItM8LGVJIaQpfJZmVdLOG260104.shtml)
+
