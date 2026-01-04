@@ -181,3 +181,5 @@
 
 + [WebSocket 超细致完整用法讲解（含原理 + 前端 + 后端 + 实战案例 + 避坑）](https://blog.csdn.net/2503_94519591/article/details/156544113)
 
++ [【linux】深入Linux进程调度：运行、睡眠、僵尸与不可杀死的D状态](https://blog.csdn.net/prettyxian/article/details/156492381)
+

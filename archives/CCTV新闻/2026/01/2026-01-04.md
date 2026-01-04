@@ -225,3 +225,7 @@
 
 + [美对委军事打击造成至少40人死亡](https://news.cctv.com/2026/01/04/ARTIWcnBvSY7TVEmhpnrN68J260104.shtml)
 
++ [巴基斯坦西北部一房屋坍塌 致6人死亡](https://news.cctv.com/2026/01/04/ARTIzDoI1GgUQOf6mEwZ54nl260104.shtml)
+
++ [阿根廷说愿与英国重启谈判以解决马岛主权争端](https://news.cctv.com/2026/01/04/ARTIqkexrETWYdhOLgyFu5yX260104.shtml)
+
