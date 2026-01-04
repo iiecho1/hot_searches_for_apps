@@ -49,3 +49,11 @@
 
 + [消息称 2025 年山姆中国付费会员数首次突破千万，平均每位消费 1.3 万元](https://m.ithome.com/html/910238.htm)
 
++ [用户发现苹果 iPhone 手机电池会在飞行途中鼓包，落地后恢复正常](https://m.ithome.com/html/910017.htm)
+
++ [多邻国 App 使用苹果 iPhone 灵动岛展示广告，被指违反官方设计规范](https://m.ithome.com/html/910004.htm)
+
++ [宝马中国回应最高降价 30 万元：注重长期良性发展而非短期盈利，将切实利益回馈给消费者](https://m.ithome.com/html/910024.htm)
+
++ [曝苹果平价版 MacBook 搭载 12.9 英寸屏幕，价格有望定在 599-899 美元](https://m.ithome.com/html/910012.htm)
+

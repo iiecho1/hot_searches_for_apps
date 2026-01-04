@@ -165,3 +165,5 @@
 
 + [尼日利亚约贝州一船只倾覆 造成25死14失踪](https://news.cctv.com/2026/01/05/ARTIedOcz8NgzyUu5qoVLooo260104.shtml)
 
++ [遭美强行控制的委总统马杜罗预计5日在纽约“首次出庭”](https://news.cctv.com/2026/01/05/ARTI9fM6lBBQoJdBOgTF5vZW260105.shtml)
+
