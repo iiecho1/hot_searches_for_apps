@@ -137,3 +137,5 @@
 
 + [【2025 | CSDN博客之星】我与 CSDN 同行的一年：回首耕耘路，奔赴新山海](https://blog.csdn.net/2401_86326742/article/details/156483532)
 
++ [【机器学习】限制性玻尔兹曼机（RBM）](https://blog.csdn.net/2401_84149564/article/details/156519408)
+

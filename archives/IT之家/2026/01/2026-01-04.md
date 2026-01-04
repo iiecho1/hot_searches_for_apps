@@ -53,3 +53,19 @@
 
 + [全年仅 2 次，2026 年首个“超级月亮”1 月 3 日现身夜空](https://m.ithome.com/html/909971.htm)
 
++ [小米称“1300km 只充一次电”“200km/h 瞬间刹停”是断章取义，雷军感慨“你们希望我以后只是念稿子吗”](https://m.ithome.com/html/910131.htm)
+
++ [雷军：小字确实是行业陋习，小米从现在做起立马整改](https://m.ithome.com/html/910127.htm)
+
++ [雷军直播回应拆小米 YU7 汽车：希望大家能说一些公道话，不要为了流量去故意找茬](https://m.ithome.com/html/910096.htm)
+
++ [雷军回应“小米不让农民卖小米”谣言：我在农村长大，怎么可能不让农民卖小米](https://m.ithome.com/html/910130.htm)
+
++ [小米 YU7 为何采用长车头？雷军称好看且更安全，现场搬起前机盖](https://m.ithome.com/html/910104.htm)
+
++ [雷军：小米 YU7 汽车的空气滤网比 N95 口罩要强很多](https://m.ithome.com/html/910110.htm)
+
++ [雷军回应“小米 YU7 轮胎曾被黑成面条胎”：是很均衡的胎、在很多同档车型中也经常采用](https://m.ithome.com/html/910113.htm)
+
++ [雷军解释小米 YU7 偏置碰撞轮子掉了：丢轮保车，四两拨千斤](https://m.ithome.com/html/910121.htm)
+
