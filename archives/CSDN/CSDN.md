@@ -101,3 +101,15 @@
 
 + [开发微信商城/交易类小程序总结](https://blog.csdn.net/weixin_44001222/article/details/156566066)
 
++ [基于深度学习的车牌识别系统](https://blog.csdn.net/qq_35827191/article/details/156512090)
+
++ [【AI Agent Skills】重塑 AI Agent 竞争力：Skills 体系的核心价值、构建方法与未来方向](https://blog.csdn.net/weixin_45793745/article/details/156518039)
+
++ [深入UDP与sk_buff：掌握Linux网络协议栈的核心机制](https://blog.csdn.net/2302_80871796/article/details/156490074)
+
++ [基于ESP32S3芯片的机器人控制器设计与实现](https://blog.csdn.net/weixin_44470384/article/details/156516442)
+
++ [青衫码上行的2025博客创作年度总结](https://blog.csdn.net/2401_86760859/article/details/156546362)
+
++ [网络安全渗透靶场学习经验&2025年个人博客技术深度总结](https://blog.csdn.net/mooyuan/article/details/156544042)
+
