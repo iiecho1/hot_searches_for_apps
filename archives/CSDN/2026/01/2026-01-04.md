@@ -165,3 +165,7 @@
 
 + [PyTorch实战——pix2pix详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/150530378)
 
++ [如何高效且节省的使用Cursor？Token优化到Project Rules设计以及提示词的实用技巧](https://blog.csdn.net/mss359681091/article/details/156543213)
+
++ [C++AI](https://blog.csdn.net/m0_74189279/article/details/156366855)
+
