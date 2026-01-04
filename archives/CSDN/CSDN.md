@@ -203,3 +203,11 @@
 
 + [掼蛋简记.](https://blog.csdn.net/zhiyuan411/article/details/156271417)
 
++ [【机器学习】深度神经网络（DNN）](https://blog.csdn.net/2401_84149564/article/details/156545209)
+
++ [SQL必知必会：深入理解关系型数据库](https://blog.csdn.net/xqe777/article/details/156571548)
+
++ [2026最新款图吧工具箱下载+使用教程（附下载链接）](https://blog.csdn.net/2402_88996855/article/details/156567334)
+
++ [第3版•系统集成项目管理工程师（中级） │ 第12章 执行过程组 ✦ 获取资源](https://blog.csdn.net/qq_41840843/article/details/154791468)
+

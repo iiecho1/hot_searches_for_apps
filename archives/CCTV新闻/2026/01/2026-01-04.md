@@ -245,3 +245,9 @@
 
 + [中国女子流落柬埔寨街头，中使馆：已联系其家属来柬办理回国事宜](https://news.cctv.com/2026/01/04/ARTIVoKFYkDGtdemhi3sMihV260104.shtml)
 
++ [也门东部地方官员：沙特空袭也门东部](https://news.cctv.com/2026/01/04/ARTIHZYHJX6Gc04ShS56qOD4260104.shtml)
+
++ [瑞士举行瓦莱州火灾遇难者追悼仪式](https://news.cctv.com/2026/01/04/ARTIn6u4nxrMVfIRgwyGL5ri260104.shtml)
+
++ [尼日利亚中北部一市场遭袭击致30多人丧生](https://news.cctv.com/2026/01/04/ARTIlrtKw6ZLWBBXygbTbUOC260104.shtml)
+
