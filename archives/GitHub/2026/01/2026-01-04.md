@@ -17,3 +17,15 @@
 
 + [nukeop/nuclear](https://github.com/nukeop/nuclear)
 
++ [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+
++ [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
++ [anomalyco/opencode](https://github.com/anomalyco/opencode)
+
++ [5rahim/seanime](https://github.com/5rahim/seanime)
+
++ [python/cpython](https://github.com/python/cpython)
+

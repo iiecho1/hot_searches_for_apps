@@ -185,3 +185,11 @@
 
 + [科研人狂喜：GPT-5.2 三大应用场景 Prompt 模板直接抄](https://blog.csdn.net/shi_hong_fei_hei/article/details/156425406)
 
++ [【KD】Generalized Knowledge Distillation和On-Policy Distillation](https://blog.csdn.net/qq_35812205/article/details/154919595)
+
++ [《Linux 核心 IO 模型深析（初篇）：非阻塞 IO 的轮询机制与多路转接的高效实现》](https://blog.csdn.net/Dovis5884/article/details/155665770)
+
++ [抖音小程序原生开发与HBuilder跨平台开发的全面对比分析](https://blog.csdn.net/sixpp/article/details/156490502)
+
++ [CICD持续集成Ruo-Yi项目](https://blog.csdn.net/2503_93990865/article/details/156518038)
+
