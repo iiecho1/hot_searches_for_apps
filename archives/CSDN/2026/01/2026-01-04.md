@@ -183,3 +183,5 @@
 
 + [【linux】深入Linux进程调度：运行、睡眠、僵尸与不可杀死的D状态](https://blog.csdn.net/prettyxian/article/details/156492381)
 
++ [科研人狂喜：GPT-5.2 三大应用场景 Prompt 模板直接抄](https://blog.csdn.net/shi_hong_fei_hei/article/details/156425406)
+

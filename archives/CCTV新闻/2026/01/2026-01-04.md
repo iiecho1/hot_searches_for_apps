@@ -229,3 +229,5 @@
 
 + [阿根廷说愿与英国重启谈判以解决马岛主权争端](https://news.cctv.com/2026/01/04/ARTIqkexrETWYdhOLgyFu5yX260104.shtml)
 
++ [外交部和中国驻马里使馆提醒中国公民近期暂勿前往马里](https://news.cctv.com/2026/01/04/ARTIbskCkDZ8pySNDuQsKGDA260104.shtml)
+
