@@ -193,3 +193,13 @@
 
 + [CICD持续集成Ruo-Yi项目](https://blog.csdn.net/2503_93990865/article/details/156518038)
 
++ [Reactor与多Reactor设计：epoll实战](https://blog.csdn.net/htw250056/article/details/156572175)
+
++ [WebUI LiuMo Batch：下一代AIGC工作流批量生成平台深度解析](https://blog.csdn.net/Liudef06/article/details/156574626)
+
++ [从天气API调用到智能化服务：基于OpenJiuwen的智能天气助手智能体开发全流程](https://blog.csdn.net/g310773517/article/details/156566345)
+
++ [开发微信商城/交易类小程序总结](https://blog.csdn.net/weixin_44001222/article/details/156566066)
+
++ [掼蛋简记.](https://blog.csdn.net/zhiyuan411/article/details/156271417)
+
