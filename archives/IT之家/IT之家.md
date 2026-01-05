@@ -37,3 +37,25 @@
 
 + [雷军称直播拆的小米 YU7 会装回去，但不会进入销售渠道](https://m.ithome.com/html/910392.htm)
 
++ [消息称 vivo、小米、苹果 2025 年度国内市场激活销量均超 4000 万，拿下 TOP3](https://m.ithome.com/html/910478.htm)
+
++ [小米徐洁云致歉：终止与相关 KOL 可能的合作，且以后也不会合作](https://m.ithome.com/html/910652.htm)
+
++ [17 岁少年网购虚假退货 1 万多单，被判刑 6 年](https://m.ithome.com/html/910497.htm)
+
++ [小米 CEO 雷军谈“丢轮保车”：以为最早是沃尔沃做的，没想到是奔驰](https://m.ithome.com/html/910532.htm)
+
++ [2699 元起荣耀 Power2 手机发布：10080mAh 青海湖电池、首发天玑 8500 Elite](https://m.ithome.com/html/910631.htm)
+
++ [国服《英雄联盟》宣布对全区进行临时停机维护，维护前已在游戏内玩家仍可游玩](https://m.ithome.com/html/910362.htm)
+
++ [小米全新成员官宣，REDMI Turbo 5 Max 手机本月发布](https://m.ithome.com/html/910425.htm)
+
++ [小米卢伟冰：我有信心，REDMI Turbo 5 Max 将是今年 2.5K 价位最佳选择](https://m.ithome.com/html/910428.htm)
+
++ [小米中枢网关新升级：内置 Mesh2.0 网关，支持子设备远程 OTA](https://m.ithome.com/html/910485.htm)
+
++ [广州试点电动自行车地铁口收费停车场：每天 2 元，月租 40 元](https://m.ithome.com/html/910607.htm)
+
++ [荣耀 Magic8 RSR 保时捷设计旗舰机官宣，设备小尾巴已露出](https://m.ithome.com/html/910471.htm)
+

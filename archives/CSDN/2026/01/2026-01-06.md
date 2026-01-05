@@ -107,3 +107,17 @@
 
 + [从冯诺依曼到操作系统：打通 Linux 底层核心逻辑](https://blog.csdn.net/2503_91389547/article/details/155520086)
 
++ [Vibe Coding - Claude Code + Ralph Wiggum：自动化开发范式解析](https://blog.csdn.net/yangshangwei/article/details/156542177)
+
++ [微信小程序支付对接全流程：从资质准备到代码实现的完整指南](https://blog.csdn.net/sixpp/article/details/156546328)
+
++ [Linux系统安全及应用（账号权限管理、登录控制、弱口令、端口扫描）](https://blog.csdn.net/m0_75211541/article/details/156574440)
+
++ [从感知到决策：大模型智能体的实战构建与技术突破](https://blog.csdn.net/CC1991_/article/details/156582380)
+
++ [探索Vortex开源GPGPU：RISC-V SIMT架构(4-1)，Execute SFU(2)](https://blog.csdn.net/weixin_55313207/article/details/156510243)
+
++ [Node.js全栈开发：深度集成天远贷前风险报告接口打造风控中台](https://blog.csdn.net/2501_94042197/article/details/156573228)
+
++ [开发神器进阶：VSCode 远程连接云服务器或本地电脑，随时随地高效编码](https://blog.csdn.net/weixin_45417754/article/details/156544319)
+
