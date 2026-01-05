@@ -169,3 +169,15 @@
 
 + [丹麦首相：美国无权吞并格陵兰岛](https://news.cctv.com/2026/01/05/ARTIdkQWBBbeGFKkXNtEbWBi260105.shtml)
 
++ [委内瑞拉代理总统成立马杜罗释放事宜委员会](https://news.cctv.com/2026/01/05/ARTITwDfdZ0DwRNIn2Ut9AvE260105.shtml)
+
++ [委内瑞拉官员：美对委军事行动已致80人死亡](https://news.cctv.com/2026/01/05/ARTIgGCZPRN8rN68JzqOpzuX260105.shtml)
+
++ [古巴称32名军事人员在美国对委内瑞拉行动中死亡](https://news.cctv.com/2026/01/05/ARTILXNV0ISVn7faDfYvwQC1260105.shtml)
+
++ [特朗普称正在考虑重新开放美国驻委内瑞拉大使馆](https://news.cctv.com/2026/01/05/ARTIroPeDVUzlct7brEf5UUy260105.shtml)
+
++ [美国法院确认马杜罗将于5日在纽约出庭](https://news.cctv.com/2026/01/05/ARTIlLVyYLMJUeTnFomZ5bC4260105.shtml)
+
++ [日本和歌山县发生集体食物中毒事件 近百人“中招”](https://news.cctv.com/2026/01/05/ARTIJZCg2817AQokFXvQHJoD260105.shtml)
+

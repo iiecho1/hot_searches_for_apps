@@ -57,3 +57,13 @@
 
 + [曝苹果平价版 MacBook 搭载 12.9 英寸屏幕，价格有望定在 599-899 美元](https://m.ithome.com/html/910012.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.2（22）Beta 版本发布，开发能力得到进一步增强](https://m.ithome.com/html/910355.htm)
+
++ [消息称 2026 款比亚迪宋 Pro DM-i 长续航版车型 1 月 10 日上市，CLTC 纯电续航有望增至 200 公里](https://m.ithome.com/html/910357.htm)
+
++ [欧盟公布 2024 年全球研发投入百强企业：亚马逊第一，华为成唯一进前十的中国企业](https://m.ithome.com/html/910209.htm)
+
++ [首款消费端开源鸿蒙大屏产品：知天下电视伴学机发布，搭载国产芯片、首发价 199 元](https://m.ithome.com/html/910317.htm)
+
++ [Epic 送游戏后再整活：运营人员活力献唱魔改版《大东北我的家乡》“带派”祝福歌曲](https://m.ithome.com/html/910340.htm)
+

@@ -143,3 +143,15 @@
 
 + [某麦APP抢票：抓包分析与SO库Hook破盾](https://blog.csdn.net/m56423884698/article/details/156542964)
 
++ [5 分钟上手 IoTDB 时序大模型：从集群部署到模型调用全流程](https://blog.csdn.net/weixin_43151418/article/details/156575639)
+
++ [Spring WebFlux核心原理-对比Servlet与响应式模型](https://blog.csdn.net/sinat_41617212/article/details/156574898)
+
++ [脉脉AI创作者活动：聊聊AI时代技术人的真实出路](https://blog.csdn.net/2401_86326742/article/details/156541953)
+
++ [【Python】2026动态文字壁纸，一键让你的桌面加上烟花效果和今日任务事项](https://blog.csdn.net/lmy_520/article/details/156517426)
+
++ [【花雕学编程】Arduino BLDC 之服务机器人餐厅送餐系统](https://blog.csdn.net/weixin_41659040/article/details/156587252)
+
++ [分布式电源对配电网故障定位的影响（Python代码实现）](https://blog.csdn.net/weixin_66436111/article/details/156585602)
+
