@@ -211,3 +211,9 @@
 
 + [瑞士冻结马杜罗在瑞资产](https://news.cctv.com/2026/01/05/ARTIAGRzA3x8osQJCVJwbGrK260105.shtml)
 
++ [特朗普再放狠话 法国重申支持丹麦和格陵兰岛](https://news.cctv.com/2026/01/05/ARTI6uY3r8IaPrM4T3eILqvg260105.shtml)
+
++ [柬埔寨再次提议举行柬泰联合边界委员会特别会议](https://news.cctv.com/2026/01/05/ARTI30InWGkJbTiYcBzmqBXT260105.shtml)
+
++ [巴基斯坦一集市发生袭击事件 已致1死16伤](https://news.cctv.com/2026/01/05/ARTIsF7Dku514SBisxVpNy7e260105.shtml)
+
