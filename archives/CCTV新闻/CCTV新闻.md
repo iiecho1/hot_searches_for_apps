@@ -205,3 +205,9 @@
 
 + [美国觊觎格陵兰岛 欧洲多国声援丹麦](https://news.cctv.com/2026/01/05/ARTIQGoOX82zB9xxY138FaNs260105.shtml)
 
++ [英国暴雪致数百所学校停课交通受阻](https://news.cctv.com/2026/01/05/ARTIToSAHAYIQO5Oj8KWuaOo260105.shtml)
+
++ [美副总统万斯住宅遭破坏 一名嫌疑人被捕](https://news.cctv.com/2026/01/05/ARTIezzAVW2CRyoPaBw85ZWk260105.shtml)
+
++ [瑞士冻结马杜罗在瑞资产](https://news.cctv.com/2026/01/05/ARTIAGRzA3x8osQJCVJwbGrK260105.shtml)
+
