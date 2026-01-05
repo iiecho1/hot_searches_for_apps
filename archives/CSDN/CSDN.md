@@ -173,3 +173,13 @@
 
 + [2025年博客之星年度评选—主题文章创作文章公示](https://blog.csdn.net/blogdevteam/article/details/156590870)
 
++ [损失函数详解：原理、分类与代码实现](https://blog.csdn.net/qq_56999332/article/details/156602401)
+
++ [【自然语言处理】应用05：自然语言推断：使用注意力](https://blog.csdn.net/Morse_Chen/article/details/156544423)
+
++ [Vibe Coding - UI UX Pro Max 驱动的现代前端 UI工作流](https://blog.csdn.net/yangshangwei/article/details/156580040)
+
++ [【Linux】DevOps 工程师必备：Linux 自动化脚本与高效工具链整合](https://blog.csdn.net/lbbxmx111/article/details/156577016)
+
++ [WebSocket 协议：实时双向通信](https://blog.csdn.net/weixin_38076776/article/details/156561825)
+
