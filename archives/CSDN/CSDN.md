@@ -137,3 +137,9 @@
 
 + [Python轻松实现某德地图可视化](https://blog.csdn.net/qq_27109535/article/details/156547432)
 
++ [基于30年教学沉淀的清华大学AI通识经典：《人工智能的底层逻辑》](https://blog.csdn.net/2503_92624912/article/details/156515309)
+
++ [RocketMQ 架构与术语详解](https://blog.csdn.net/hezuijiudexiaobai/article/details/156577139)
+
++ [某麦APP抢票：抓包分析与SO库Hook破盾](https://blog.csdn.net/m56423884698/article/details/156542964)
+

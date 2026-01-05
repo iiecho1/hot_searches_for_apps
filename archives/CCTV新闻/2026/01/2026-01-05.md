@@ -167,3 +167,5 @@
 
 + [遭美强行控制的委总统马杜罗预计5日在纽约“首次出庭”](https://news.cctv.com/2026/01/05/ARTI9fM6lBBQoJdBOgTF5vZW260105.shtml)
 
++ [丹麦首相：美国无权吞并格陵兰岛](https://news.cctv.com/2026/01/05/ARTIdkQWBBbeGFKkXNtEbWBi260105.shtml)
+
