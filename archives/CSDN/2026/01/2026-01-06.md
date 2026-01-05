@@ -123,3 +123,5 @@
 
 + [16. web3.js结合Metemask调用合约方法](https://blog.csdn.net/tianma2012/article/details/156566602)
 
++ [如何高效且节省的使用Cursor？Token优化到Project Rules设计以及提示词的实用技巧](https://blog.csdn.net/mss359681091/article/details/156543213)
+
