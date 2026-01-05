@@ -125,3 +125,5 @@
 
 + [如何高效且节省的使用Cursor？Token优化到Project Rules设计以及提示词的实用技巧](https://blog.csdn.net/mss359681091/article/details/156543213)
 
++ [后端开发vue速成](https://blog.csdn.net/2301_77574331/article/details/156580959)
+
