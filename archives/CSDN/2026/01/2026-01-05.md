@@ -155,3 +155,9 @@
 
 + [分布式电源对配电网故障定位的影响（Python代码实现）](https://blog.csdn.net/weixin_66436111/article/details/156585602)
 
++ [运动规划实战案例 | 基于采样的MPC控制(MPPI)算法(附ROS C++/Python仿真)](https://blog.csdn.net/FRIGIDWINTER/article/details/156580060)
+
++ [2025年回顾与总结：深耕、突破与感悟](https://blog.csdn.net/fanyun_01/article/details/156544430)
+
++ [2025年度总结：不断迈出第一步](https://blog.csdn.net/2301_80260194/article/details/156548229)
+

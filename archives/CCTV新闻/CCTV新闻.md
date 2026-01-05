@@ -181,3 +181,7 @@
 
 + [日本和歌山县发生集体食物中毒事件 近百人“中招”](https://news.cctv.com/2026/01/05/ARTIJZCg2817AQokFXvQHJoD260105.shtml)
 
++ [委内瑞拉代理总统称邀请美国参与制定合作议程](https://news.cctv.com/2026/01/05/ARTIwNZH96UQrDrMy8maECIX260105.shtml)
+
++ [哥伦比亚总统：美方强行控制委内瑞拉总统属于绑架](https://news.cctv.com/2026/01/05/ARTIgoIkEJnwn2n3NBpOJSDX260105.shtml)
+
