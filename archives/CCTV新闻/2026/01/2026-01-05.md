@@ -187,3 +187,7 @@
 
 + [白宫官员家属涉格陵兰岛不当表态 丹麦予以批驳](https://news.cctv.com/2026/01/05/ARTIKlHReuI61X1l5SeOYd30260105.shtml)
 
++ [沙特空袭也门东部迈赫拉省](https://photo.cctv.com/2026/01/05/PHOAbHrhpzbGfQwyUnc6Np2S260105.shtml)
+
++ [芬兰罗瓦涅米掠影](https://photo.cctv.com/2026/01/05/PHOAhGaWbUvyUY9DlAU1HF1K260105.shtml)
+
