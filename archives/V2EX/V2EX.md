@@ -21,3 +21,5 @@
 
 + [读《小岛经济学》观社会发展](https://www.v2ex.com/t/1183120)
 
++ [windows 远程登录方案讨论](https://www.v2ex.com/t/1183259)
+

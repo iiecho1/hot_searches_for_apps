@@ -25,3 +25,15 @@
 
 + [消息称 2025 年山姆中国付费会员数首次突破千万，平均每位消费 1.3 万元](https://m.ithome.com/html/910238.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.2（22）Beta 版本发布，开发能力得到进一步增强](https://m.ithome.com/html/910355.htm)
+
++ [消息称 2026 款比亚迪宋 Pro DM-i 长续航版车型 1 月 10 日上市，CLTC 纯电续航有望增至 200 公里](https://m.ithome.com/html/910357.htm)
+
++ [首款消费端开源鸿蒙大屏产品：知天下电视伴学机发布，搭载国产芯片、首发价 199 元](https://m.ithome.com/html/910317.htm)
+
++ [Epic 送游戏后再整活：运营人员活力献唱魔改版《大东北我的家乡》“带派”祝福歌曲](https://m.ithome.com/html/910340.htm)
+
++ [京东上线 2026 年山东国补：手机 / 平板单件补 500 元、单人累计至高可省 11000 元](https://m.ithome.com/html/910347.htm)
+
++ [雷军称直播拆的小米 YU7 会装回去，但不会进入销售渠道](https://m.ithome.com/html/910392.htm)
+

@@ -161,3 +161,11 @@
 
 + [美国司法部长称马杜罗夫妇已在纽约被起诉](https://news.cctv.com/2026/01/03/ARTIAsZcppbo96h366AE2Fae260103.shtml)
 
++ [遭美强行控制的委总统马杜罗在纽约首次出庭](https://news.cctv.com/2026/01/06/ARTIRj3ltpqLA0s4toBx718M260106.shtml)
+
++ [欧盟和英德法表示支持丹麦和格陵兰岛](https://news.cctv.com/2026/01/06/ARTI16Ep6hz8svW8pcWQcweJ260106.shtml)
+
++ [英超曼联足球俱乐部解雇主教练阿莫林](https://news.cctv.com/2026/01/06/ARTImXPGZtKhwmLwCf99xbRb260106.shtml)
+
++ [刚果（金）东部安全形势恶化 中国使馆发布安全提醒](https://news.cctv.com/2026/01/06/ARTIgl8AAH7PAwIQZxbIqk0L260106.shtml)
+

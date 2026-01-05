@@ -101,3 +101,9 @@
 
 + [2025年度总结：不断迈出第一步](https://blog.csdn.net/2301_80260194/article/details/156548229)
 
++ [TextIn大模型加速器+火山引擎: 文档结构化数据处理工具扣子智能体工作流创建指南](https://blog.csdn.net/qq_44866828/article/details/156548333)
+
++ [批量文档处理自动化：DeepSeek + Python 实现多格式文件内容提取与汇总](https://blog.csdn.net/qinzhenyan/article/details/156541508)
+
++ [从冯诺依曼到操作系统：打通 Linux 底层核心逻辑](https://blog.csdn.net/2503_91389547/article/details/155520086)
+
