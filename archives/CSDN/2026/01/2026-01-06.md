@@ -121,3 +121,5 @@
 
 + [开发神器进阶：VSCode 远程连接云服务器或本地电脑，随时随地高效编码](https://blog.csdn.net/weixin_45417754/article/details/156544319)
 
++ [16. web3.js结合Metemask调用合约方法](https://blog.csdn.net/tianma2012/article/details/156566602)
+

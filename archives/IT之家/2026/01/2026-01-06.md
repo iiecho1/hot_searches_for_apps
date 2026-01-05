@@ -59,3 +59,5 @@
 
 + [荣耀 Magic8 RSR 保时捷设计旗舰机官宣，设备小尾巴已露出](https://m.ithome.com/html/910471.htm)
 
++ [欧盟公布 2024 年全球研发投入百强企业：亚马逊第一，华为成唯一进前十的中国企业](https://m.ithome.com/html/910209.htm)
+
