@@ -169,3 +169,7 @@
 
 + [[鸿蒙2025领航者闯关记]HarmonyOS 6.0 新特性碰一碰分享实现快捷共享带办清单](https://blog.csdn.net/wodekouwei/article/details/156582535)
 
++ [Opencv总结7——全景图像拼接](https://blog.csdn.net/weixin_41072743/article/details/156544032)
+
++ [2025年博客之星年度评选—主题文章创作文章公示](https://blog.csdn.net/blogdevteam/article/details/156590870)
+

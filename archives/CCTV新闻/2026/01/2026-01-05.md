@@ -191,3 +191,9 @@
 
 + [芬兰罗瓦涅米掠影](https://photo.cctv.com/2026/01/05/PHOAhGaWbUvyUY9DlAU1HF1K260105.shtml)
 
++ [格陵兰岛总理回应特朗普：格陵兰永远是我们的领土](https://news.cctv.com/2026/01/05/ARTI6vIXXJiUGORA0pw42Mhj260105.shtml)
+
++ [丹麦首相：美国应停止继续威胁“吞并格陵兰岛”](https://news.cctv.com/2026/01/05/ARTIvDr6ZM7Cnj1O5j7IVukq260105.shtml)
+
++ [特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价](https://news.cctv.com/2026/01/05/ARTIlEnpVl3fDGkmrEjwlnEU260105.shtml)
+
