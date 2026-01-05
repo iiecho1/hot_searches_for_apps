@@ -213,3 +213,5 @@
 
 + [爬虫资源合集](https://blog.csdn.net/sxanui/article/details/156577310)
 
++ [用FastAPI 后端 和 HTML/CSS/JavaScript 前端写一个博客系统 例](https://blog.csdn.net/PieroPc/article/details/156575420)
+
