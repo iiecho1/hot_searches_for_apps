@@ -199,3 +199,7 @@
 
 + [特朗普向多个国家发出威胁](https://news.cctv.com/2026/01/05/ARTIUlzJ5KfHVvf3KTKKwuTq260105.shtml)
 
++ [格陵兰岛总理回应特朗普：“够了”](https://news.cctv.com/2026/01/05/ARTIho2MT2QcQLC8Q814IMLV260105.shtml)
+
++ [瑞士酒吧火灾40名遇难者身份确认完毕](https://news.cctv.com/2026/01/05/ARTISOtHDOFTD0ZcydstoJWZ260105.shtml)
+

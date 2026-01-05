@@ -187,3 +187,7 @@
 
 + [【Java】【JVM】即时编译解析：C1/C2、分层编译、OSR与日志分析](https://blog.csdn.net/Txx318026/article/details/156574265)
 
++ [你的语义检索应用，正在被检索延迟拖垮](https://blog.csdn.net/qq_39289265/article/details/156606290)
+
++ [开源项目分享：Gitee热榜项目 2026年1月第一周 周榜](https://blog.csdn.net/2403_87969572/article/details/156609077)
+

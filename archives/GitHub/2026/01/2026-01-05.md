@@ -21,3 +21,11 @@
 
 + [python/cpython](https://github.com/python/cpython)
 
++ [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+
++ [3b1b/manim](https://github.com/3b1b/manim)
+
++ [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
