@@ -203,3 +203,5 @@
 
 + [瑞士酒吧火灾40名遇难者身份确认完毕](https://news.cctv.com/2026/01/05/ARTISOtHDOFTD0ZcydstoJWZ260105.shtml)
 
++ [美国觊觎格陵兰岛 欧洲多国声援丹麦](https://news.cctv.com/2026/01/05/ARTIQGoOX82zB9xxY138FaNs260105.shtml)
+
