@@ -25,3 +25,15 @@
 
 + [荣耀 Magic8 RSR 保时捷设计旗舰机官宣，设备小尾巴已露出](https://m.ithome.com/html/910471.htm)
 
++ [雷军回应“小米续航电耗超特斯拉”：标题不完整容易引误解](https://m.ithome.com/html/910574.htm)
+
++ [华为 Pura 80 系列手机 HarmonyOS 6.0.0.125 版本首曝，将解决微信拍视频画面闪烁、跳动问题](https://m.ithome.com/html/910567.htm)
+
++ [闭店风波后，保时捷中国终止郑州中原店授权](https://m.ithome.com/html/910650.htm)
+
++ [号称全球首款可量产的全固态电池问世：能量密度 400Wh/kg，5 分钟充满电](https://m.ithome.com/html/910578.htm)
+
++ [苹果 iPhone 用户可刷、可剪、可发杜比视界视频，抖音与杜比实验室达成合作](https://m.ithome.com/html/910502.htm)
+
++ [中国首位 F1 车手周冠宇告别法拉利，加盟凯迪拉克车队](https://m.ithome.com/html/910624.htm)
+

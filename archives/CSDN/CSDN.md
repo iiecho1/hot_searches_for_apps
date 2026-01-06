@@ -101,3 +101,13 @@
 
 + [网络安全渗透靶场学习经验&2025年个人博客技术深度总结](https://blog.csdn.net/mooyuan/article/details/156544042)
 
++ [经典蓝牙连接建立流程拆解：从HCI命令到空口寻呼的协同机制](https://blog.csdn.net/weixin_37800531/article/details/156576266)
+
++ [【药物递送系统】Simulink智能药物递送系统仿真【含Matlab源码 14844期】](https://blog.csdn.net/weixin_63266434/article/details/156636202)
+
++ [深入解析 ThreadLocal：架构演进、内存泄漏与数据一致性分析](https://blog.csdn.net/czlczl20020925/article/details/156610232)
+
++ [克服Flink SQL限制的混合API方法](https://blog.csdn.net/weixin_44904816/article/details/156566098)
+
++ [Java学习历程22——开发一款背单词软件（1）](https://blog.csdn.net/LGL6030A/article/details/156057284)
+
