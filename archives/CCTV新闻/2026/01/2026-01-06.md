@@ -209,3 +209,7 @@
 
 + [北美观察丨执法还是开战？对委行动让美国吵成两半](https://news.cctv.com/2026/01/06/ARTIU2Fwu5F7niwgAN2lrxKg260106.shtml)
 
++ [日本一电力公司涉嫌为重启核电站操纵数据](https://news.cctv.com/2026/01/06/ARTIKE2IDwhehjGeyizjcPQb260106.shtml)
+
++ [马杜罗庭审纪实：“我无罪”、“我是战俘”，创可贴与被夺走的钢笔](https://news.cctv.com/2026/01/06/ARTIqZFEO9sVUlS9ER6PzrN7260106.shtml)
+

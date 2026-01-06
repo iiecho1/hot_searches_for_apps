@@ -71,3 +71,5 @@
 
 + [苹果 iPhone 用户可刷、可剪、可发杜比视界视频，抖音与杜比实验室达成合作](https://m.ithome.com/html/910502.htm)
 
++ [中国首位 F1 车手周冠宇告别法拉利，加盟凯迪拉克车队](https://m.ithome.com/html/910624.htm)
+
