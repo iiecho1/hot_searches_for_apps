@@ -213,3 +213,5 @@
 
 + [马杜罗庭审纪实：“我无罪”、“我是战俘”，创可贴与被夺走的钢笔](https://news.cctv.com/2026/01/06/ARTIqZFEO9sVUlS9ER6PzrN7260106.shtml)
 
++ [日本岛根县地震已致多人受伤](https://news.cctv.com/2026/01/06/ARTI3tZbz0XxBHXsQESdPTYF260106.shtml)
+
