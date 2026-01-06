@@ -111,3 +111,29 @@
 
 + [Java学习历程22——开发一款背单词软件（1）](https://blog.csdn.net/LGL6030A/article/details/156057284)
 
++ [机器学习特征提取：TF-IDF模型详解与实践指南](https://blog.csdn.net/2503_92624912/article/details/156634410)
+
++ [【自然语言处理】应用05：自然语言推断：使用注意力](https://blog.csdn.net/Morse_Chen/article/details/156544423)
+
++ [损失函数详解：原理、分类与代码实现](https://blog.csdn.net/qq_56999332/article/details/156602401)
+
++ [机器视觉软件介绍：opencv、halcon、康耐视visionpro、海康visionmaster](https://blog.csdn.net/qlexcel/article/details/156616479)
+
++ [【路径规划】基于matlab遗传算法港口集装箱卡车调度【含Matlab源码 14860期】](https://blog.csdn.net/TIQCmatlab/article/details/156657530)
+
++ [人大金仓 (Kingbase) 数据库 /dev/shm 问题分析文档](https://blog.csdn.net/hezuijiudexiaobai/article/details/156654050)
+
++ [【软件】AI Agent：无需电脑的手机自动化助手AutoGLM](https://blog.csdn.net/sxf1061700625/article/details/156575784)
+
++ [【GitHub开源AI精选】Supertonic：开源AI驱动的极速离线TTS引擎，重塑语音合成新体验](https://blog.csdn.net/xiaobing259/article/details/156532933)
+
++ [K8S（一）—— 云原生与Kubernetes（K8S）](https://blog.csdn.net/sk13587280072/article/details/156566691)
+
++ [前端监控系统 SourceMap 自动化解析方案：从手动上传到全自动化解析](https://blog.csdn.net/b826604005/article/details/156572900)
+
++ [SLAM中的非线性优-3D图优化之地平面约束（十四）](https://blog.csdn.net/zl_vslam/article/details/156335120)
+
++ [开源项目分享：Gitee热榜项目 2026年1月第一周 周榜](https://blog.csdn.net/2403_87969572/article/details/156609077)
+
++ [16. web3.js结合Metemask调用合约方法](https://blog.csdn.net/tianma2012/article/details/156566602)
+
