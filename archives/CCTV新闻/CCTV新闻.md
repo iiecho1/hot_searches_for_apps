@@ -175,3 +175,5 @@
 
 + [遭美强行控制后首次出庭 马杜罗：我无罪](https://news.cctv.com/2026/01/06/ARTI9CgqdQ6NlvR5kma8r7ND260106.shtml)
 
++ [【8点见】马杜罗夫妇在美首次出庭 表示不认罪](https://news.cctv.com/2026/01/06/ARTI6XekjmQjC3LLpNthmvFC260106.shtml)
+
