@@ -161,3 +161,9 @@
 
 + [深入解析 ThreadLocal：架构演进、内存泄漏与数据一致性分析](https://blog.csdn.net/czlczl20020925/article/details/156610232)
 
++ [FPGA 可以转 IC 设计吗？需要具备哪些条件](https://blog.csdn.net/billgateslove/article/details/156619589)
+
++ [网络安全渗透靶场学习经验&2025年个人博客技术深度总结](https://blog.csdn.net/mooyuan/article/details/156544042)
+
++ [克服Flink SQL限制的混合API方法](https://blog.csdn.net/weixin_44904816/article/details/156566098)
+
