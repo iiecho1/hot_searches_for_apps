@@ -167,3 +167,7 @@
 
 + [克服Flink SQL限制的混合API方法](https://blog.csdn.net/weixin_44904816/article/details/156566098)
 
++ [【愚公系列】《AI+直播营销》008-品牌入局直播，必做5个规划（营销策划：让全年的直播营销踩对节奏）](https://blog.csdn.net/aa2528877987/article/details/156518548)
+
++ [Spring Boot 打包部署全攻略：Jar vs War](https://blog.csdn.net/2401_86326742/article/details/156591932)
+
