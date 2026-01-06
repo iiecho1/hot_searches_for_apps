@@ -177,3 +177,25 @@
 
 + [【8点见】马杜罗夫妇在美首次出庭 表示不认罪](https://news.cctv.com/2026/01/06/ARTI6XekjmQjC3LLpNthmvFC260106.shtml)
 
++ [泰国军方：柬方违反停火声明 一泰国士兵受伤](https://news.cctv.com/2026/01/06/ARTIlwyQX0YYxxU10k8lv6az260106.shtml)
+
++ [初步计票结果显示中非总统图瓦德拉赢得连任](https://news.cctv.com/2026/01/06/ARTIuDTNoF5cJFyuLj4UnLNh260106.shtml)
+
++ [“为地区和平与安全开了‘极其危险的先例’”（国际视点）](https://news.cctv.com/2026/01/06/ARTItdQYK8TtjYvefQv6ZpfF260106.shtml)
+
++ [高市早苗涉台谬论是对国际法理的严重挑衅（国际论坛）](https://news.cctv.com/2026/01/06/ARTIRu9VUWKIfUYI6RAngIiQ260106.shtml)
+
++ [“为构建更加公正合理的国际秩序指明方向”](https://news.cctv.com/2026/01/06/ARTIfq2opLV2KCyddE2hG1LL260106.shtml)
+
++ [扬经贸之帆 拓合作航道——中韩商务论坛共话发展新机](https://news.cctv.com/2026/01/06/ARTIo1uM7YveCqKgqX2Dcyoo260106.shtml)
+
++ [中国驻缅大使会见缅甸外长和商务部长 就持续打击电诈等交换意见](https://news.cctv.com/2026/01/06/ARTIUU1P3MohkZPl2UZeF5sN260106.shtml)
+
++ [特朗普撤销拨款 美国公共广播公司解散](https://news.cctv.com/2026/01/06/ARTIy9594QkGzCnQSAlBeThD260106.shtml)
+
++ [特朗普撤销拨款 美国公共广播公司解散](https://news.cctv.com/2026/01/06/ARTI2ewhePfU2UhtYO65sdqC260106.shtml)
+
++ [日本本州岛发生5.9级地震 震源深度10千米](https://news.cctv.com/2026/01/06/ARTItES1BYqRIMDUEMT2rwSZ260106.shtml)
+
++ [此行间·习近平同李在明会谈，中韩元首都提到了抗战](https://news.cctv.com/2026/01/06/ARTIEOinTDs4UXIRO9cGANjE260106.shtml)
+

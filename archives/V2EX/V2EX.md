@@ -31,3 +31,13 @@
 
 + [四川电信老用户被背刺，投诉后降档方案求助](https://www.v2ex.com/t/1183127)
 
++ [遇到个糟心的破事](https://www.v2ex.com/t/1183390)
+
++ [人生的容错有多少？](https://www.v2ex.com/t/1183356)
+
++ [🎁 送 1000 V2EX（前 10 名有效）](https://www.v2ex.com/t/1183396)
+
++ [Cursor 这么贵的吗](https://www.v2ex.com/t/1183272)
+
++ [上次约了女生，都接吻了，转头就把我删了，一脸茫然~](https://www.v2ex.com/t/1183388)
+

@@ -69,3 +69,7 @@
 
 + [不知道这招有没有用](https://m.acfun.cn/v/?ac=48164766)
 
++ [【马跃新程】AC娘巧克力教学篇](https://m.acfun.cn/v/?ac=48164702)
+
++ [【马跃新程】野人](https://m.acfun.cn/v/?ac=48164866)
+
