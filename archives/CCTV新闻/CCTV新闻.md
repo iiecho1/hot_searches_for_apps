@@ -219,3 +219,5 @@
 
 + [伊朗称随时准备对侵略或敌对行为作出果断回应](https://news.cctv.com/2026/01/06/ARTI9rcgrlzfcvm4DjkQPkeL260106.shtml)
 
++ [联合国机构：美国干涉委内瑞拉事务损害国际安全架构](https://news.cctv.com/2026/01/06/ARTIX6Yk77XaLS7HJN2LeJe3260106.shtml)
+
