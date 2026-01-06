@@ -163,3 +163,9 @@
 
 + [欧洲多国发布联合声明：格陵兰岛属于格陵兰人民](https://news.cctv.com/2026/01/07/ARTINjDPHjrVCpTAjsUKbWH1260106.shtml)
 
++ [特朗普政府正在讨论获取格陵兰岛的方案 包括军事选项](https://news.cctv.com/2026/01/07/ARTI3LhLZ4h3B6wvAXd5jPay260107.shtml)
+
++ [美以叙三方就巴黎会谈发表联合声明](https://news.cctv.com/2026/01/07/ARTIlo1M2IxtRupO7AfFN5Kg260107.shtml)
+
++ [巴基斯坦去年在反恐行动中打死超5千名恐怖分子](https://news.cctv.com/2026/01/07/ARTIFRFMMx3xUow4xjyfDHM0260107.shtml)
+
