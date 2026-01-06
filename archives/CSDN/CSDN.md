@@ -143,3 +143,7 @@
 
 + [Java基于微信小程序的社区养老保障系统](https://blog.csdn.net/yujun2023/article/details/156542487)
 
++ [RocketMQ 架构与术语详解](https://blog.csdn.net/hezuijiudexiaobai/article/details/156577139)
+
++ [Transformer实战（33）——高效自注意力机制](https://blog.csdn.net/LOVEmy134611/article/details/147992152)
+

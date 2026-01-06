@@ -199,3 +199,5 @@
 
 + [此行间·习近平同李在明会谈，中韩元首都提到了抗战](https://news.cctv.com/2026/01/06/ARTIEOinTDs4UXIRO9cGANjE260106.shtml)
 
++ [全球气候变暖趋势持续 过去三年为有记录以来最暖的三年](https://news.cctv.com/2026/01/06/ARTIaaSQLL0c0hOTmvDhA9b7260106.shtml)
+
