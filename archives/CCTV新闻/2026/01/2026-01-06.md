@@ -225,3 +225,5 @@
 
 + [美政府欲迅速“变现”委石油资源 美石油巨头持谨慎态度](https://news.cctv.com/2026/01/06/ARTI7p9JCYKfpfJTWewTiMoT260106.shtml)
 
++ [金正恩视察海外军事作战功勋纪念馆建设工地](https://news.cctv.com/2026/01/06/ARTIxgQDxGLHJiIQL1SOAe4F260106.shtml)
+
