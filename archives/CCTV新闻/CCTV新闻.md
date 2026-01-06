@@ -201,3 +201,9 @@
 
 + [全球气候变暖趋势持续 过去三年为有记录以来最暖的三年](https://news.cctv.com/2026/01/06/ARTIaaSQLL0c0hOTmvDhA9b7260106.shtml)
 
++ [冈比亚偷渡船倾覆已造成至少31人遇难](https://news.cctv.com/2026/01/06/ARTITSPFcMZDdUxfZGazh5NV260106.shtml)
+
++ [丹麦首相警告美国不要对北约盟国采取军事行动](https://news.cctv.com/2026/01/06/ARTIEkPTIEXAiIHjMgfkHNfm260106.shtml)
+
++ [瑞士酒吧火灾伤者为116人 身份全部确认](https://news.cctv.com/2026/01/06/ARTIYYAqA6D47YEL1ScGxjaF260106.shtml)
+
