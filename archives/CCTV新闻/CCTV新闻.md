@@ -169,3 +169,13 @@
 
 + [巴基斯坦去年在反恐行动中打死超5千名恐怖分子](https://news.cctv.com/2026/01/07/ARTIFRFMMx3xUow4xjyfDHM0260107.shtml)
 
++ [印尼北苏拉威西省洪灾已致16人遇难](https://news.cctv.com/2026/01/07/ARTI3xFvOIFPGMREqIabcVly260107.shtml)
+
++ [古巴外长：古巴人民将抵御侵略捍卫祖国](https://news.cctv.com/2026/01/07/ARTIwFAUWbLYBxf0dR4VTH1y260107.shtml)
+
++ [特朗普：若输中期选举，我可能被弹劾](https://news.cctv.com/2026/01/07/ARTI4yQ45m1un6uCcjHd9j3T260107.shtml)
+
++ [耶路撒冷公交车冲撞行人 致1死3伤](https://news.cctv.com/2026/01/07/ARTIi1O0y8U7lFQ2INH5LQfb260107.shtml)
+
++ [“意愿联盟”达成共识 敲定对乌战后安全保障方案](https://news.cctv.com/2026/01/07/ARTI248SDWl2nZILJ926m8qD260107.shtml)
+
