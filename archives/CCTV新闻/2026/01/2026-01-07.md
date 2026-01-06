@@ -161,3 +161,5 @@
 
 + [美对委军事打击造成至少40人死亡](https://news.cctv.com/2026/01/04/ARTIWcnBvSY7TVEmhpnrN68J260104.shtml)
 
++ [欧洲多国发布联合声明：格陵兰岛属于格陵兰人民](https://news.cctv.com/2026/01/07/ARTINjDPHjrVCpTAjsUKbWH1260106.shtml)
+
