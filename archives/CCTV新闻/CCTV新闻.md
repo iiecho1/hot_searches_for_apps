@@ -207,3 +207,5 @@
 
 + [瑞士酒吧火灾伤者为116人 身份全部确认](https://news.cctv.com/2026/01/06/ARTIYYAqA6D47YEL1ScGxjaF260106.shtml)
 
++ [北美观察丨执法还是开战？对委行动让美国吵成两半](https://news.cctv.com/2026/01/06/ARTIU2Fwu5F7niwgAN2lrxKg260106.shtml)
+
