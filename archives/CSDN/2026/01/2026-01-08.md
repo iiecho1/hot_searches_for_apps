@@ -129,3 +129,23 @@
 
 + [PySpark 提交模式对比与实践推荐](https://blog.csdn.net/QXXDYL/article/details/156614347)
 
++ [INT303 Big Data Analysis 大数据分析 Pt.11 模型选择和词向量（Word Embeddings）](https://blog.csdn.net/sensen_kiss/article/details/156575247)
+
++ [基于大模型（LLM）的 Web UI 自动化方案](https://blog.csdn.net/lionking0318/article/details/156611522)
+
++ [QuantDinger：本地化私有量化交易系统的架构设计与实现详解](https://blog.csdn.net/qq_31771801/article/details/156596106)
+
++ [告别智能体开发困境：DeepAgent框架全解析+实战案例+ag-ui交互实现](https://blog.csdn.net/neweastsun/article/details/156656801)
+
++ [自动化仓库设备选型指南：穿梭车、堆垛机、AMR 工程对比](https://blog.csdn.net/qq_39775293/article/details/156598223)
+
++ [.NET 传统信息系统无缝集成飞书审批流](https://blog.csdn.net/xlqdml/article/details/156617214)
+
++ [探索Vortex开源GPGPU：RISC-V SIMT架构(4-1)，Execute SFU(4)](https://blog.csdn.net/weixin_55313207/article/details/156656438)
+
++ [2026年Java技术栈全景图：从Web容器到云原生的深度选型指南（附避坑指南）](https://blog.csdn.net/haohaizi_liu/article/details/156589564)
+
++ [大语言模型实战（十一）——基于MAI-UI-8B 实现 Android UI 自动化：从元素定位到多步导航](https://blog.csdn.net/weixin_42917352/article/details/156572981)
+
++ [深入解读乐鑫ESP32-S3，如何以单芯片搞定AIoT终端设备的智能交互](https://blog.csdn.net/m0_59195407/article/details/156610197)
+

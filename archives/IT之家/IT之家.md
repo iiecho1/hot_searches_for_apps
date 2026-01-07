@@ -49,3 +49,13 @@
 
 + [小米 17 Pro 系列手机具备 LOFIC 4K 60FPS 录像能力，有望春节前推送](https://m.ithome.com/html/910924.htm)
 
++ [鸿蒙智行最时尚颜值担当：尚界首款 7 系新车“Z7”轿跑官宣，配备头顶式激光雷达](https://m.ithome.com/html/911298.htm)
+
++ [小米 2025 年度技术大奖揭晓，玄戒 O1 芯片团队摘千万级一等奖](https://m.ithome.com/html/911248.htm)
+
++ [雷军首度回应近期 KOL 接触事件：核心并非批评小米，严重性在于他一直攻击、诅咒米粉](https://m.ithome.com/html/911344.htm)
+
++ [英伟达 CEO 黄仁勋回应游戏显卡太贵，不排除重启旧架构 GPU 以缓解市场压力](https://m.ithome.com/html/911047.htm)
+
++ [雷军回应“一个杯子开 15 次会”：并不是专门为杯子开会，而是在会议中讨论过这个产品](https://m.ithome.com/html/911345.htm)
+
