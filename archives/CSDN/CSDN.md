@@ -155,3 +155,5 @@
 
 + [OpenCode：开源版Claude Code来了，附Windows客户端](https://blog.csdn.net/jpld/article/details/156596271)
 
++ [如何在Debian 11服务器上搭建并优化Elasticsearch集群，提升全局搜索引擎的吞吐量与精度](https://blog.csdn.net/oMcLin/article/details/156592124)
+

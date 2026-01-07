@@ -163,3 +163,7 @@
 
 + [总台记者观察丨格陵兰岛外交风波引发美欧关系面临考验](https://news.cctv.com/2026/01/08/ARTIxLJdzRETzEwxnS2Sw3Xa260108.shtml)
 
++ [美国欧洲司令部宣布已扣押“贝拉1”号油轮](https://news.cctv.com/2026/01/08/ARTIUa6aIGdFB2Smt0CKd19q260107.shtml)
+
++ [总台记者观察丨格陵兰岛外交风波 美欧关系面临考验](https://news.cctv.com/2026/01/08/ARTIxLJdzRETzEwxnS2Sw3Xa260108.shtml)
+

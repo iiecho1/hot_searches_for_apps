@@ -59,3 +59,9 @@
 
 + [雷军回应“一个杯子开 15 次会”：并不是专门为杯子开会，而是在会议中讨论过这个产品](https://m.ithome.com/html/911345.htm)
 
++ [消息称某厂大屏旗舰搭载极窄四等边纯直屏、电池争取 8 开头，预计为小米 17 Max](https://m.ithome.com/html/910907.htm)
+
++ [英伟达 DLSS 4.5 正式发布：画质与稳定性同步提升，6 倍帧生成与动态帧生成为 RTX 50 独占](https://m.ithome.com/html/910814.htm)
+
++ [今晚 2026 年第一轮油价调整搁浅](https://m.ithome.com/html/910867.htm)
+
