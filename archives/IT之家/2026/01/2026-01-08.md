@@ -25,3 +25,23 @@
 
 + [小米潘九堂：各家旗舰机价格现在都是未来 1-2 年内的低点](https://m.ithome.com/html/910961.htm)
 
++ [预售价 22.99 万-30.99 万元，新一代小米 SU7 开启小订](https://m.ithome.com/html/911066.htm)
+
++ [小米 SU7 首次改款：全系标配激光雷达，预计 2026 年 4 月上市，新颜色“卡布里蓝”率先亮相](https://m.ithome.com/html/911030.htm)
+
++ [雷军宣布今晚 8 点直播：聊聊新一代小米 SU7，继续回应各种质疑](https://m.ithome.com/html/911137.htm)
+
++ [消息称苹果 iPhone 17e 搭载 6.1 寸“灵动岛”屏幕、降频 A19 芯片，没有高刷](https://m.ithome.com/html/911000.htm)
+
++ [比亚迪宣布加推 4 款 210km 大电池 DM-i 插混车型：覆盖秦 PLUS、秦 L、海豹 05、海豹 06，纯电续航翻倍](https://m.ithome.com/html/911107.htm)
+
++ [5A 通信实装 告别无 G：华为 Mate 60、Pura 70 等机型开推 HarmonyOS 6.0.0.125 版本](https://m.ithome.com/html/911082.htm)
+
++ [消息称长城汽车取消大小周，全面落实双休](https://m.ithome.com/html/910966.htm)
+
++ [雷军解释新一代小米 SU7 为何不标 800V 平台：要求所有部门都必须讲清楚，表达不要让用户有歧义](https://m.ithome.com/html/911252.htm)
+
++ [重新设计、质感提升，雷军放出新一代小米 SU7 更多内饰细节图](https://m.ithome.com/html/911195.htm)
+
++ [荣耀“既 Pro 又 Air”新机设计线稿首曝，消息称将搭载 1/1.3 英寸 Pro 级大底主摄](https://m.ithome.com/html/911004.htm)
+
