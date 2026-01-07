@@ -193,3 +193,13 @@
 
 + [日本H3火箭9号机发射延期](https://news.cctv.com/2026/01/07/ARTIDa1QEnqxwWudQCT2waLt260107.shtml)
 
++ [印尼东爪哇省塞梅鲁火山喷发 火山灰柱高约900米](https://news.cctv.com/2026/01/07/ARTIyhM2lm06bs8JdGz5ywRJ260107.shtml)
+
++ [菲律宾南部发生6.7级地震](https://news.cctv.com/2026/01/07/ARTIYaHipXnouCc27DaNuXbJ260107.shtml)
+
++ [也门总统领导委员会决定将南方过渡委员会领导人移交检察机关](https://news.cctv.com/2026/01/07/ARTI0QSRLgiAwrAmo1GQxzAp260107.shtml)
+
++ [柬埔寨参议院主席洪森：致力于全面执行与泰国停火协议](https://news.cctv.com/2026/01/07/ARTIiLddpz2TgecyjZac5e70260107.shtml)
+
++ [沙特主导联军：也门南方过渡委员会领导人逃往不明地点](https://news.cctv.com/2026/01/07/ARTIP1CxNxoFyEJfpAVG1ViT260107.shtml)
+

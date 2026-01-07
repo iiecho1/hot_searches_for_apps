@@ -61,3 +61,21 @@
 
 + [小米潘九堂：各家旗舰机价格现在都是未来 1-2 年内的低点](https://m.ithome.com/html/910961.htm)
 
++ [小米 SU7 首次改款：全系标配激光雷达，预计 2026 年 4 月上市，新颜色“卡布里蓝”率先亮相](https://m.ithome.com/html/911030.htm)
+
++ [预售价 22.99 万-30.99 万元，新一代小米 SU7 开启小订](https://m.ithome.com/html/911066.htm)
+
++ [国家广电总局要求公共场所电视开机全程无商业广告（附各大品牌关闭方法）](https://m.ithome.com/html/910952.htm)
+
++ [消息称苹果 iPhone 17e 搭载 6.1 寸“灵动岛”屏幕、降频 A19 芯片，没有高刷](https://m.ithome.com/html/911000.htm)
+
++ [消息称某厂大屏旗舰搭载极窄四等边纯直屏、电池争取 8 开头，预计为小米 17 Max](https://m.ithome.com/html/910907.htm)
+
++ [消息称长城汽车取消大小周，全面落实双休](https://m.ithome.com/html/910966.htm)
+
++ [小米 17 Pro 系列手机具备 LOFIC 4K 60FPS 录像能力，有望春节前推送](https://m.ithome.com/html/910924.htm)
+
++ [英伟达 DLSS 4.5 正式发布：画质与稳定性同步提升，6 倍帧生成与动态帧生成为 RTX 50 独占](https://m.ithome.com/html/910814.htm)
+
++ [今晚 2026 年第一轮油价调整搁浅](https://m.ithome.com/html/910867.htm)
+
