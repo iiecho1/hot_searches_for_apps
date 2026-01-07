@@ -157,3 +157,5 @@
 
 + [如何在Debian 11服务器上搭建并优化Elasticsearch集群，提升全局搜索引擎的吞吐量与精度](https://blog.csdn.net/oMcLin/article/details/156592124)
 
++ [INT303 Big Data Analysis 大数据分析 Pt.12 推荐系统（Recommendation Systems）](https://blog.csdn.net/sensen_kiss/article/details/156584377)
+
