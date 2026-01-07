@@ -181,3 +181,7 @@
 
 + [边境地区发生爆炸，泰柬说法不一](https://news.cctv.com/2026/01/07/ARTIjaxsBWZXxxjbwkzWjcT5260107.shtml)
 
++ [俄媒：美国数日追踪俄罗斯一艘油轮，俄外交部发声](https://news.cctv.com/2026/01/07/ARTIxWyJWxkcQwwLjEeWKL43260107.shtml)
+
++ [马克龙：法军将在停火协议签署后参与俄乌边境管控](https://news.cctv.com/2026/01/07/ARTITEQoLKlo0cPkXeufK4vO260107.shtml)
+

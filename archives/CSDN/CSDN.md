@@ -147,3 +147,13 @@
 
 + [《 Linux 修炼全景指南： 十一 》从小程序到大工程：构建你的第一个 Linux 小项目](https://blog.csdn.net/mmlhbjk/article/details/156618227)
 
++ [【粉丝福利社】数据可视化分析与实践](https://blog.csdn.net/aa2528877987/article/details/156651895)
+
++ [电力系统——基于10机39节点的电力系统仿真（Matlab、Simulink仿真）](https://blog.csdn.net/weixin_46039719/article/details/156592251)
+
++ [基于 React + Three.js + 大模型的全息地球 Web 项目（水个web课程设计）](https://blog.csdn.net/2303_78922833/article/details/156656365)
+
++ [Blender制作蜘蛛机器人](https://blog.csdn.net/CG_MAGIC/article/details/156575711)
+
++ [从Modbus到MySQL：Node-RED数据封装与TCP上传教程](https://blog.csdn.net/chenzhiyuan2018/article/details/156612295)
+
