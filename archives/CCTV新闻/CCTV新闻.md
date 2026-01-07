@@ -215,3 +215,7 @@
 
 + [因数据造假 日本继续暂停对滨冈核电站重启审查](https://news.cctv.com/2026/01/07/ARTIKAIzUnJOzXUSqbs0h2lQ260107.shtml)
 
++ [沙特宣布向外国投资者全面开放资本市场](https://news.cctv.com/2026/01/07/ARTIjzjOGUVLDfHC46duHQ88260107.shtml)
+
++ [我驻印使馆提醒持印度旅游签证来印中国公民两次入境须至少间隔两个月](https://news.cctv.com/2026/01/07/ARTI5lKJh9bjE05rP0istNZA260107.shtml)
+

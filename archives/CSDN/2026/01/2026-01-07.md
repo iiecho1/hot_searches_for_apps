@@ -193,3 +193,11 @@
 
 + [Vibe Coding - UI UX Pro Max 驱动的现代前端 UI工作流](https://blog.csdn.net/yangshangwei/article/details/156580040)
 
++ [Spring Data JPA原理与实战 Repository接口的魔法揭秘](https://blog.csdn.net/sinat_41617212/article/details/156655290)
+
++ [边缘AI：解锁终端设备的智能潜能](https://blog.csdn.net/IRpickstars/article/details/156681396)
+
++ [Pandas 从初学到实战：LLM 开发中的数据处理全流程](https://blog.csdn.net/Yunyi_Chi/article/details/156676265)
+
++ [vue 项目中.d.ts](https://blog.csdn.net/weixin_44380707/article/details/156658768)
+
