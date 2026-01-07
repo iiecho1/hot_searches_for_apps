@@ -211,3 +211,5 @@
 
 + [美国务卿称计划从丹麦手中“购买”格陵兰岛](https://news.cctv.com/2026/01/07/ARTIXdAh7bt4D3OfseTXnGYn260107.shtml)
 
++ [也门南方过渡委员会称其领导人目前仍在亚丁](https://news.cctv.com/2026/01/07/ARTIWwIkVSJT6nORU38Z4HnZ260107.shtml)
+

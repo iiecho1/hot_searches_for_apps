@@ -183,3 +183,9 @@
 
 + [复古C语言游戏代码修复与解析——以62last3.c为例](https://blog.csdn.net/ssq20070913/article/details/156650647)
 
++ [2026年的第一笔投资：企业如何驱动效率与团队动能双提升](https://blog.csdn.net/weixin_43151418/article/details/156654073)
+
++ [❿⁄₄ ⟦ OSCP ⬖ 研记 ⟧ 密码攻击 ➱ 密码破解理论（中）](https://blog.csdn.net/weixin_42115157/article/details/156679817)
+
++ [ARM 汇编指令：LSL（逻辑左移） 和 LSR（逻辑右移）](https://blog.csdn.net/guigenyi/article/details/156616545)
+
