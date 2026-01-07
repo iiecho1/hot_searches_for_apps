@@ -107,3 +107,25 @@
 
 + [前端可视化组件开发：DeepSeek辅助Vue/React图表组件编写实战](https://blog.csdn.net/qinzhenyan/article/details/156652165)
 
++ [JavaScript DOM 核心操作：从内容到节点的实战指南](https://blog.csdn.net/HANhylyxy/article/details/156615595)
+
++ [MySQL5.6使用mysqldump数据备份](https://blog.csdn.net/Elephanti/article/details/156609339)
+
++ [K8s 组网方案](https://blog.csdn.net/2503_93990865/article/details/156656997)
+
++ [【验证技能树】UVM 源码解读10 --TLM 是通信机制，还是架构边界？](https://blog.csdn.net/qq_45869788/article/details/156658721)
+
++ [关于k8s PV的AI问答（豆包）](https://blog.csdn.net/mr_orange_klj/article/details/156657483)
+
++ [Maven同时配置阿里云仓库和私有仓库](https://blog.csdn.net/TOOZOOY/article/details/156651692)
+
++ [认识Redis：一款高性能的内存数据库](https://blog.csdn.net/m0_72968288/article/details/156617128)
+
++ [Elasticsearch 生产环境参数调优指南](https://blog.csdn.net/qq_38238956/article/details/156614631)
+
++ [把 Odoo 日志升级成 IDE 级体验：彩色高亮、可点击源码、统一格式（VS Code）](https://blog.csdn.net/Min_Xiansen/article/details/156643352)
+
++ [深度解析SpringMVC实战项目：从配置到请求处理全流程](https://blog.csdn.net/sfyyyyy/article/details/156616345)
+
++ [PySpark 提交模式对比与实践推荐](https://blog.csdn.net/QXXDYL/article/details/156614347)
+

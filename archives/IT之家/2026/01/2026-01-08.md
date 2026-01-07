@@ -45,3 +45,7 @@
 
 + [荣耀“既 Pro 又 Air”新机设计线稿首曝，消息称将搭载 1/1.3 英寸 Pro 级大底主摄](https://m.ithome.com/html/911004.htm)
 
++ [国家广电总局要求公共场所电视开机全程无商业广告（附各大品牌关闭方法）](https://m.ithome.com/html/910952.htm)
+
++ [小米 17 Pro 系列手机具备 LOFIC 4K 60FPS 录像能力，有望春节前推送](https://m.ithome.com/html/910924.htm)
+
