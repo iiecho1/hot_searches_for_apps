@@ -225,3 +225,5 @@
 
 + [西班牙外交大臣：委内瑞拉的自然资源属于委内瑞拉人民](https://news.cctv.com/2026/01/07/ARTIJOEKH6ywYui5cZS9qC1G260107.shtml)
 
++ [全球瞭望丨国际法专家：美国违反国际法 澳大利亚应警惕](https://news.cctv.com/2026/01/07/ARTIKw7YwN2u04WLZa2FFzI6260107.shtml)
+

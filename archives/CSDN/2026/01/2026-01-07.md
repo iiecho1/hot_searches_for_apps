@@ -205,3 +205,7 @@
 
 + [【Linux】进程等待：wait/waitpid 与僵尸进程治理](https://blog.csdn.net/2402_86350387/article/details/156510949)
 
++ [网络原理-HTTP/HTTPS](https://blog.csdn.net/2301_81261819/article/details/156649720)
+
++ [探索研究：军用领域软件工厂建设核心路径——可信仓库与SBOM驱动的安全高效研发模式](https://blog.csdn.net/manok/article/details/156686692)
+

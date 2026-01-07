@@ -19,3 +19,21 @@
 
 + [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 
++ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
++ [google/googletest](https://github.com/google/googletest)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
++ [memvid/memvid](https://github.com/memvid/memvid)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+
++ [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
+
++ [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker)
+
++ [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
