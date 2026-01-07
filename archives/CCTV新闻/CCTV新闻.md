@@ -227,3 +227,5 @@
 
 + [全球瞭望丨国际法专家：美国违反国际法 澳大利亚应警惕](https://news.cctv.com/2026/01/07/ARTIKw7YwN2u04WLZa2FFzI6260107.shtml)
 
++ [美国打击委内瑞拉对世界七大危害](https://news.cctv.com/2026/01/07/ARTIumSZWEnAU3dNCRZeJRqW260107.shtml)
+

@@ -209,3 +209,15 @@
 
 + [探索研究：军用领域软件工厂建设核心路径——可信仓库与SBOM驱动的安全高效研发模式](https://blog.csdn.net/manok/article/details/156686692)
 
++ [医疗AI多智能体资源调度：用Python构建高性能MCU资源池](https://blog.csdn.net/kkiron/article/details/156680619)
+
++ [Docker Compose UI：让容器管理告别命令行，小白也能轻松上手](https://blog.csdn.net/LT15171009269/article/details/156692483)
+
++ [从树到森林——决策树、随机森林与可解释性博弈](https://blog.csdn.net/htw250056/article/details/156693241)
+
++ [CommonJS：Node.js 的模块化基石](https://blog.csdn.net/weixin_42554191/article/details/156639197)
+
++ [如何在pycharm中使用Yolo](https://blog.csdn.net/sharponeyk/article/details/156615754)
+
++ [【Redis】读写锁实战详解：读多写少场景的性能优化利器](https://blog.csdn.net/weixin_63434398/article/details/156656388)
+
