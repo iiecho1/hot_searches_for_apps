@@ -79,3 +79,11 @@
 
 + [今晚 2026 年第一轮油价调整搁浅](https://m.ithome.com/html/910867.htm)
 
++ [雷军宣布今晚 8 点直播：聊聊新一代小米 SU7，继续回应各种质疑](https://m.ithome.com/html/911137.htm)
+
++ [5A 通信实装 告别无 G：华为 Mate 60、Pura 70 等机型开推 HarmonyOS 6.0.0.125 版本](https://m.ithome.com/html/911082.htm)
+
++ [比亚迪宣布加推 4 款 210km 大电池 DM-i 插混车型：覆盖秦 PLUS、秦 L、海豹 05、海豹 06，纯电续航翻倍](https://m.ithome.com/html/911107.htm)
+
++ [荣耀“既 Pro 又 Air”新机设计线稿首曝，消息称将搭载 1/1.3 英寸 Pro 级大底主摄](https://m.ithome.com/html/911004.htm)
+

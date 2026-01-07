@@ -189,3 +189,7 @@
 
 + [ARM 汇编指令：LSL（逻辑左移） 和 LSR（逻辑右移）](https://blog.csdn.net/guigenyi/article/details/156616545)
 
++ [【CS285深度强化学习】终章：回顾与进阶路线图](https://blog.csdn.net/weixin_52694742/article/details/156583762)
+
++ [Vibe Coding - UI UX Pro Max 驱动的现代前端 UI工作流](https://blog.csdn.net/yangshangwei/article/details/156580040)
+
