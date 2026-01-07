@@ -171,3 +171,9 @@
 
 + [Excel VLOOKUP 函数使用方法大全总结](https://blog.csdn.net/likuoelie/article/details/156652025)
 
++ [【AI 学习】揭开AI卷积神经网络的神秘面纱：从理论到实战](https://blog.csdn.net/weixin_63944437/article/details/156677282)
+
++ [计算机视觉热门模型手册：Faster R-CNN / YOLO / SAM 技术原理 + 应用场景对比](https://blog.csdn.net/2401_86326742/article/details/156678480)
+
++ [内网穿透的应用-SoybeanAdmin+cpolar：打破局域网，后台开发协作效率翻倍](https://blog.csdn.net/weixin_42878111/article/details/156607291)
+
