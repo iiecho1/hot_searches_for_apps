@@ -157,3 +157,9 @@
 
 + [从Modbus到MySQL：Node-RED数据封装与TCP上传教程](https://blog.csdn.net/chenzhiyuan2018/article/details/156612295)
 
++ [计算机视觉-特征提取，特征点提取与描述，图像分割](https://blog.csdn.net/2301_80828873/article/details/153388796)
+
++ [多语言分布式任务调度与性能优化实践：Python、Java、Go、C++高效实战方案](https://blog.csdn.net/2501_94114632/article/details/156613202)
+
++ [使用.NET实现企业微信应用接入：域名验证与消息处理](https://blog.csdn.net/marin1993/article/details/156643916)
+

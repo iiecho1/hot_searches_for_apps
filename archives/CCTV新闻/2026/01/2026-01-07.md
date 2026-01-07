@@ -185,3 +185,11 @@
 
 + [马克龙：法军将在停火协议签署后参与俄乌边境管控](https://news.cctv.com/2026/01/07/ARTITEQoLKlo0cPkXeufK4vO260107.shtml)
 
++ [共同珍惜中韩关系向好发展态势（和音）](https://news.cctv.com/2026/01/07/ARTIU4XZ1JdknvsbqQbErA6o260107.shtml)
+
++ [没有哪一个国家可以充当国际警察（钟声）](https://news.cctv.com/2026/01/07/ARTIcSCHy3oCUEnPtZRncgah260107.shtml)
+
++ [超百亿美元 美政府冻结五个民主党州儿童照护和家庭援助拨款](https://news.cctv.com/2026/01/07/ARTIOwIDfVNEN4NDhy44cyyI260107.shtml)
+
++ [日本H3火箭9号机发射延期](https://news.cctv.com/2026/01/07/ARTIDa1QEnqxwWudQCT2waLt260107.shtml)
+
