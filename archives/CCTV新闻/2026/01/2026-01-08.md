@@ -161,3 +161,5 @@
 
 + [丹麦首相：美国应停止继续威胁“吞并格陵兰岛”](https://news.cctv.com/2026/01/05/ARTIvDr6ZM7Cnj1O5j7IVukq260105.shtml)
 
++ [总台记者观察丨格陵兰岛外交风波引发美欧关系面临考验](https://news.cctv.com/2026/01/08/ARTIxLJdzRETzEwxnS2Sw3Xa260108.shtml)
+
