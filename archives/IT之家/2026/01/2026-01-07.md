@@ -87,3 +87,7 @@
 
 + [荣耀“既 Pro 又 Air”新机设计线稿首曝，消息称将搭载 1/1.3 英寸 Pro 级大底主摄](https://m.ithome.com/html/911004.htm)
 
++ [雷军解释新一代小米 SU7 为何不标 800V 平台：要求所有部门都必须讲清楚，表达不要让用户有歧义](https://m.ithome.com/html/911252.htm)
+
++ [重新设计、质感提升，雷军放出新一代小米 SU7 更多内饰细节图](https://m.ithome.com/html/911195.htm)
+

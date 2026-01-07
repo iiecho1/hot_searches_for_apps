@@ -219,3 +219,9 @@
 
 + [我驻印使馆提醒持印度旅游签证来印中国公民两次入境须至少间隔两个月](https://news.cctv.com/2026/01/07/ARTI5lKJh9bjE05rP0istNZA260107.shtml)
 
++ [匈牙利遭遇强降雪 部分地区断电 多处交通受阻](https://news.cctv.com/2026/01/07/ARTIfyqmwj51apHFgnThBbR2260107.shtml)
+
++ [利比亚军方领导人失事飞机“黑匣子”将送往英国解码](https://news.cctv.com/2026/01/07/ARTIMkC2JxHy2d7S2w29XA0A260107.shtml)
+
++ [西班牙外交大臣：委内瑞拉的自然资源属于委内瑞拉人民](https://news.cctv.com/2026/01/07/ARTIJOEKH6ywYui5cZS9qC1G260107.shtml)
+
