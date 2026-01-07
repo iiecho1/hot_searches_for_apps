@@ -159,3 +159,5 @@
 
 + [INT303 Big Data Analysis 大数据分析 Pt.12 推荐系统（Recommendation Systems）](https://blog.csdn.net/sensen_kiss/article/details/156584377)
 
++ [深度解析官方 Spring Boot 稳定版本及 JDK 配套策略](https://blog.csdn.net/weixin_36755535/article/details/156694771)
+

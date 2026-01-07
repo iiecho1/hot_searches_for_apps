@@ -167,3 +167,15 @@
 
 + [总台记者观察丨格陵兰岛外交风波 美欧关系面临考验](https://news.cctv.com/2026/01/08/ARTIxLJdzRETzEwxnS2Sw3Xa260108.shtml)
 
++ [韩国严打针对“慰安妇”受害者的仇恨集会，李在明：不能容忍任何藐视贬损](https://news.cctv.com/2026/01/08/ARTId9G1ipfkCDvdnI8I8Do1260108.shtml)
+
++ [委代理总统召开工作会议 强调营救马杜罗夫妇等](https://news.cctv.com/2026/01/08/ARTIUUALtzbUDsAoSNN6J2zT260108.shtml)
+
++ [白宫：被扣油轮上船员可能被带到美国接受审判](https://news.cctv.com/2026/01/08/ARTI1vznBBZcYEt7uEU3S5DY260108.shtml)
+
++ [哥伦比亚举行大规模示威活动 抗议美国干涉内政](https://news.cctv.com/2026/01/08/ARTI0dENVJVyxdzqCllSgquN260108.shtml)
+
++ [特朗普质疑北约在美国需要时会否给予支持](https://news.cctv.com/2026/01/08/ARTIAwH6c66BLcY3u52WZvK3260108.shtml)
+
++ [泽连斯基称有望在2026年上半年结束俄乌冲突](https://news.cctv.com/2026/01/08/ARTIJIPiAQhV0maAxYSQE8YV260108.shtml)
+
