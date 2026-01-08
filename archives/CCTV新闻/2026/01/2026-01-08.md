@@ -203,3 +203,13 @@
 
 + [委内政部长：美方行动致100人死亡 马杜罗夫妇受伤](https://news.cctv.com/2026/01/08/ARTIAfoEbgb7Jj3OPlduMnWO260108.shtml)
 
++ [日本中部电力公司会长就核电站审查数据造假问题道歉](https://news.cctv.com/2026/01/08/ARTIyh0HSmcL9XJGvUfxOkg9260108.shtml)
+
++ [美媒：美国急欲得到格陵兰岛 北约或面临存亡考验](https://news.cctv.com/2026/01/08/ARTIkuTcEXH7CNeMgMf4UZQh260108.shtml)
+
++ [美国宣布停止对索马里政府所有支援](https://news.cctv.com/2026/01/08/ARTILtpMhfo96CVHjmvF1dqT260108.shtml)
+
++ [日本一客机与灯光设施发生接触事故 无人伤亡](https://news.cctv.com/2026/01/08/ARTI6QEiYiytNKCT61Lt9A4u260108.shtml)
+
++ [荷兰法院裁定一桩婚姻因AI撰写结婚证词而无效](https://news.cctv.com/2026/01/08/ARTIILIC7YK5vNyT1dkyio4X260108.shtml)
+
