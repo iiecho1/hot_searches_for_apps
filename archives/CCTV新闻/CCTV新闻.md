@@ -161,3 +161,11 @@
 
 + [金正恩视察海外军事作战功勋纪念馆建设工地](https://news.cctv.com/2026/01/06/ARTIxgQDxGLHJiIQL1SOAe4F260106.shtml)
 
++ [联合国报告预测2026年全球经济增长率为2.7%](https://news.cctv.com/2026/01/09/ARTIJ2Rm0VzCiSJdTAwg4LzG260109.shtml)
+
++ [伊朗大范围断网](https://news.cctv.com/2026/01/09/ARTIprHMfKYVyTUGIcxA5BhM260109.shtml)
+
++ [联合国发言人：美国若继续“欠费”或失去联大投票权](https://news.cctv.com/2026/01/09/ARTISv9C04pVbl0ix42IdfO9260109.shtml)
+
++ [委内瑞拉国民议会宣布所有阵亡公民为祖国英雄与烈士](https://news.cctv.com/2026/01/09/ARTIZi2eh3aivogb60OKLPFu260109.shtml)
+
