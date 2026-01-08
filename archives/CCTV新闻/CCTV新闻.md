@@ -243,3 +243,11 @@
 
 + [外交部：日本右翼日益膨胀的核野心对世界和平稳定构成严重威胁](https://news.cctv.com/2026/01/08/ARTIe631DcmX9fPWMMo0l4t2260108.shtml)
 
++ [日本在野党批评高市将日本引向“战争国家”](https://news.cctv.com/2026/01/08/ARTIzgo8VVmHHMdAlfQWU29h260108.shtml)
+
++ [漫评日本军国主义野心：“危险危险”](https://news.cctv.com/2026/01/08/ARTIHW0kdVwkst513eCLl9lV260108.shtml)
+
++ [俄外交部要求美国立即停止对“水手”号油轮非法行动](https://news.cctv.com/2026/01/08/ARTIZL99PO890bSHxfBeyfBj260108.shtml)
+
++ [中国驻日本大使驳回日方就两用物项出口管制所提交涉](https://news.cctv.com/2026/01/08/ARTIdDpgNmQlHBDskg4BlfcB260108.shtml)
+
