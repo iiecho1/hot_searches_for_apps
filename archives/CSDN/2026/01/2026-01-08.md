@@ -209,3 +209,5 @@
 
 + [PyTorch实战（21）——扩散模型（Diffusion Model）](https://blog.csdn.net/LOVEmy134611/article/details/150530456)
 
++ [Spring Boot 4.x 安全监控新篇章：基于 ObservationFilterChainDecorator 的可观测性实践](https://blog.csdn.net/bhl120/article/details/156698158)
+

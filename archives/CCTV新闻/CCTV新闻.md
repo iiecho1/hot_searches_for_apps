@@ -217,3 +217,7 @@
 
 + [美国盐湖城枪击事件致2死6伤](https://news.cctv.com/2026/01/08/ARTILQa4oj37mwMEXtZkiEzj260108.shtml)
 
++ [记者手记｜“格陵兰岛绝不出售!”——丹麦民众强烈抗议美国霸权行径](https://news.cctv.com/2026/01/08/ARTInPoeAewlURfY4IYkACiP260108.shtml)
+
++ [通伦·西苏里当选老挝人民革命党第十二届中央委员会总书记](https://news.cctv.com/2026/01/08/ARTIq4j72VEG7cm2rgMwsvcf260108.shtml)
+
