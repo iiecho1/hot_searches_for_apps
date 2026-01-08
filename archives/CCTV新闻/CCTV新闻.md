@@ -221,3 +221,7 @@
 
 + [通伦·西苏里当选老挝人民革命党第十二届中央委员会总书记](https://news.cctv.com/2026/01/08/ARTIq4j72VEG7cm2rgMwsvcf260108.shtml)
 
++ [我驻日大使驳回日方就两用物项出口管制所提交涉](https://news.cctv.com/2026/01/08/ARTICgp3p0psDRXdvXCpCLqH260108.shtml)
+
++ [黎巴嫩军方：已完成武器统一管控计划首阶段目标](https://news.cctv.com/2026/01/08/ARTILCb5NIj5mtVNtkqeMEkq260108.shtml)
+

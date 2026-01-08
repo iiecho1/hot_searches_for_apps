@@ -219,3 +219,13 @@
 
 + [复古 C 语言游戏代码修复与解析——以73三色球问题求解为例](https://blog.csdn.net/champ_hupeng/article/details/156650430)
 
++ [【自然语言处理】应用06：针对序列级和词元级应用微调BERT](https://blog.csdn.net/Morse_Chen/article/details/156698184)
+
++ [Wan2.1视频生成模型本地部署完整指南](https://blog.csdn.net/qq_56999332/article/details/156722060)
+
++ [【工具】Opencode开源终端AI编程助手](https://blog.csdn.net/Chandler2017/article/details/156642068)
+
++ [基于SpringBoot的高校体育场馆预约系统【个性化推荐算法+数据可视化统计】](https://blog.csdn.net/2301_78335941/article/details/156697352)
+
++ [Flutter 开发鸿蒙 PC 第一个应用：窗口创建 + 大屏布局](https://blog.csdn.net/qq_61024956/article/details/156678927)
+
