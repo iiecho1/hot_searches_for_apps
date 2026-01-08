@@ -179,3 +179,13 @@
 
 + [泽连斯基称有望在2026年上半年结束俄乌冲突](https://news.cctv.com/2026/01/08/ARTIJIPiAQhV0maAxYSQE8YV260108.shtml)
 
++ [高市早苗的错误言论必须撤回](https://news.cctv.com/2026/01/08/ARTI1gYUlOdOandK6MhkZVjD260108.shtml)
+
++ [这就是中国式现代化的全球价值](https://news.cctv.com/2026/01/08/ARTIbsfl1M8Ysz7f5iOZlxhR260108.shtml)
+
++ [爱尔兰总理：愿与中方深化经贸合作 增进多边事务协调](https://news.cctv.com/2026/01/08/ARTIYiBjxXNaX4ulNj2lnpfN260108.shtml)
+
++ [委内瑞拉首都民众游行要求美国释放马杜罗夫妇](https://photo.cctv.com/2026/01/08/PHOA3teaSdS7RJSnz4enhpPp260108.shtml)
+
++ [格陵兰岛亚细亚特](https://photo.cctv.com/2026/01/08/PHOAgQthLUU8JlzLrc5IrQHk260108.shtml)
+

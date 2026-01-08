@@ -169,3 +169,19 @@
 
 + [C#权威指南第1章：.NET体系结构](https://blog.csdn.net/weixin_44643352/article/details/156645722)
 
++ [【数据库】时序数据智能基座：Apache IoTDB 选型与深度实践指南](https://blog.csdn.net/qq_38628970/article/details/156692511)
+
++ [【Unity实战篇】| 游戏轮播图效果，多种实现思路及完整教程](https://blog.csdn.net/zhangay1998/article/details/156707443)
+
++ [从 AMD 到 ES6 模块化：前端模块化的演进之路](https://blog.csdn.net/weixin_42554191/article/details/156639386)
+
++ [Docker-compose部署redis-cluster集群](https://blog.csdn.net/creator_Li/article/details/156617345)
+
++ [MySQL数据库精研之旅第二十期：存储过程，数据处理的全能工具箱(三)](https://blog.csdn.net/2401_85198927/article/details/156661007)
+
++ [使用 Elastic Agent Builder 和 MCP 实现 Agentic 参考架构](https://blog.csdn.net/UbuntuTouch/article/details/156705352)
+
++ [【ELF-RK3506开发板】构建AI编程环境](https://blog.csdn.net/bit_mike/article/details/156696106)
+
++ [Elasticsearch 全面解析：从原理到实战的分布式搜索引擎指南](https://blog.csdn.net/m0_58782205/article/details/156694131)
+
