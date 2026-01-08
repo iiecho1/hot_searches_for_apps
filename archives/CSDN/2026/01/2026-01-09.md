@@ -129,3 +129,5 @@
 
 + [C# 写一个Http 服务器和客户端](https://blog.csdn.net/kylezhao2019/article/details/156677343)
 
++ [IndexedDB（浏览器原生NoSQL非关系型数据库）浏览器数据库、chrome数据库、idb工具库](https://blog.csdn.net/Dontla/article/details/156724537)
+
