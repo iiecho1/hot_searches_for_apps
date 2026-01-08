@@ -233,3 +233,13 @@
 
 + [多起涉中国公民旅游纠纷发生，中国驻胡志明市总领馆发布提醒](https://news.cctv.com/2026/01/08/ARTICvtqFGDX48L94vgNz4T7260108.shtml)
 
++ [菲律宾一垃圾场塌陷致1人死亡至少20人被困](https://news.cctv.com/2026/01/08/ARTIdPcpD3D1N6KeS1dVriYq260108.shtml)
+
++ [俄外交部“严重关切”美国对俄油轮的非法武力行动](https://news.cctv.com/2026/01/08/ARTI1x7gmYVHcnin1x87Ef3g260108.shtml)
+
++ [俄方称西方国家在乌部署的军事单位等都将被视为作战目标](https://news.cctv.com/2026/01/08/ARTI22BHg2V3JtzhEWkhz5tB260108.shtml)
+
++ [雀巢在至少50个国家和地区召回部分婴幼儿配方奶粉](https://news.cctv.com/2026/01/08/ARTIVrjd328Irrv8wgx6wseB260108.shtml)
+
++ [外交部：日本右翼日益膨胀的核野心对世界和平稳定构成严重威胁](https://news.cctv.com/2026/01/08/ARTIe631DcmX9fPWMMo0l4t2260108.shtml)
+
