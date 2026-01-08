@@ -243,3 +243,7 @@
 
 + [华为OD技术面真题 - 计算机网络 - 1](https://blog.csdn.net/qq_45776114/article/details/156698168)
 
++ [Python 使用 MySQL 数据库进行事务处理步骤](https://blog.csdn.net/2501_93482674/article/details/156695946)
+
++ [qModel 模型平台完整功能介绍 —— 商业版与开源版功能对比](https://blog.csdn.net/qiantongkeji/article/details/156698702)
+
