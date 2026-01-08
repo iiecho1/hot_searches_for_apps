@@ -203,3 +203,9 @@
 
 + [【系统分析师】2.4 数学建模](https://blog.csdn.net/nblway/article/details/156698507)
 
++ [系统设计方法论全解：原则、模型与用户体验核心要义](https://blog.csdn.net/g984160547/article/details/156654826)
+
++ [鸿蒙6.0应用开发——ArkUI组件复用@Resuable](https://blog.csdn.net/gao_xin_xing/article/details/156609563)
+
++ [PyTorch实战（21）——扩散模型（Diffusion Model）](https://blog.csdn.net/LOVEmy134611/article/details/150530456)
+

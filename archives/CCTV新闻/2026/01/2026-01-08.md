@@ -215,3 +215,5 @@
 
 + [津巴布韦强降雨已致61人死亡](https://news.cctv.com/2026/01/08/ARTILJhJB9tqgGALDJfYMPqW260108.shtml)
 
++ [美国盐湖城枪击事件致2死6伤](https://news.cctv.com/2026/01/08/ARTILQa4oj37mwMEXtZkiEzj260108.shtml)
+
