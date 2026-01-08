@@ -65,3 +65,13 @@
 
 + [今晚 2026 年第一轮油价调整搁浅](https://m.ithome.com/html/910867.htm)
 
++ [小米雷军回应内部会议将玄戒 O1 读成 01：状态不好照稿子还鬼使神差念错](https://m.ithome.com/html/911349.htm)
+
++ [真我手机官方旗舰店确认：realme 将回归 OPPO，成为旗下子品牌](https://m.ithome.com/html/911301.htm)
+
++ [三星否认“李在镕买 100 个 Labubu”传闻：并未进入店铺或购买产品](https://m.ithome.com/html/911358.htm)
+
++ [新一代小米 SU7 可选四款内饰，雷军回应“黑色被指老登风”](https://m.ithome.com/html/911351.htm)
+
++ [小米雷军再回应“1300km 只充一次电”：水军想给我贴个“虚假营销”的标签](https://m.ithome.com/html/911325.htm)
+

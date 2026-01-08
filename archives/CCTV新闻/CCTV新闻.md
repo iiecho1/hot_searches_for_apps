@@ -189,3 +189,9 @@
 
 + [格陵兰岛亚细亚特](https://photo.cctv.com/2026/01/08/PHOAgQthLUU8JlzLrc5IrQHk260108.shtml)
 
++ [俄谴责美扣押油轮 称其无权在公海动武](https://news.cctv.com/2026/01/08/ARTIlkwcBKqbHl6ArHhdf0tz260108.shtml)
+
++ [欧洲多国表态反对美国威胁得到格陵兰岛](https://news.cctv.com/2026/01/08/ARTIXpEqGUALKogoQcpmeVsw260108.shtml)
+
++ [土耳其拟立法禁止15岁以下人群使用社交媒体](https://news.cctv.com/2026/01/08/ARTImV7EX3gMwChLvwn568nR260108.shtml)
+

@@ -185,3 +185,15 @@
 
 + [Elasticsearch 全面解析：从原理到实战的分布式搜索引擎指南](https://blog.csdn.net/m0_58782205/article/details/156694131)
 
++ [你的语义检索应用，正在被检索延迟拖垮](https://blog.csdn.net/qq_39289265/article/details/156606290)
+
++ [【Linux】Ansible 自动化运维实战：2000+ 节点配置标准化教程](https://blog.csdn.net/lbbxmx111/article/details/156658149)
+
++ [【深度学习】U-Net系列（一）：U-Net网络架构详解](https://blog.csdn.net/weixin_52694742/article/details/156619811)
+
++ [VSCode 开发 Vue 项目「核心必备 + 进阶高效」插件大全适配 Vue2/Vue3 全版本](https://blog.csdn.net/weixin_45480474/article/details/156608595)
+
++ [MongoDB 本地用得爽？突破局域网，cpolar这招让数据访问更自由](https://blog.csdn.net/2301_77485708/article/details/156607319)
+
++ [在将决策系统用于物联网当中的模糊逻辑](https://blog.csdn.net/2401_84168288/article/details/156695701)
+
