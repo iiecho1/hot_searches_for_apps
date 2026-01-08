@@ -195,3 +195,11 @@
 
 + [土耳其拟立法禁止15岁以下人群使用社交媒体](https://news.cctv.com/2026/01/08/ARTImV7EX3gMwChLvwn568nR260108.shtml)
 
++ [美国务卿：下周将就格陵兰岛议题与丹麦举行会谈](https://news.cctv.com/2026/01/08/ARTIFUJeGJveNJJGFSudpNxq260108.shtml)
+
++ [特朗普指示美国退出“不符合该国利益”的66个国际组织](https://news.cctv.com/2026/01/08/ARTI3znWgAotxheu8U05XqIL260108.shtml)
+
++ [特朗普：与哥伦比亚总统讨论毒品问题 未来将在白宫会晤](https://news.cctv.com/2026/01/08/ARTIyMkP7sD14MYbaPuGGuPf260108.shtml)
+
++ [委内政部长：美方行动致100人死亡 马杜罗夫妇受伤](https://news.cctv.com/2026/01/08/ARTIAfoEbgb7Jj3OPlduMnWO260108.shtml)
+
