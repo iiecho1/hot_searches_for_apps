@@ -107,3 +107,23 @@
 
 + [复古 C 语言代码修复与解析 —— 以 108同心圆绘制为例](https://blog.csdn.net/2501_93246709/article/details/156618638)
 
++ [【自然语言处理】应用06：针对序列级和词元级应用微调BERT](https://blog.csdn.net/Morse_Chen/article/details/156698184)
+
++ [【GaussDB】从 sqlplus 到 gsql：Shell 中执行 SQL 文件方案的迁移与改造](https://blog.csdn.net/GaussDB/article/details/156688454)
+
++ [【2025年昇腾CANN训练营第二季】面向昇腾的Triton 算子调试和性能优化学习记录](https://blog.csdn.net/ov0_0429/article/details/156658171)
+
++ [ASP.NET Core ViewData：弱类型数据交互的精髓与避坑指南](https://blog.csdn.net/William_cl/article/details/156697065)
+
++ [【Linux网络】基于Reactor反应堆模式的高并发服务器](https://blog.csdn.net/2402_82670467/article/details/156653941)
+
++ [Flutter 开发鸿蒙 PC 第一个应用：窗口创建 + 大屏布局](https://blog.csdn.net/qq_61024956/article/details/156678927)
+
++ [前端可视化组件开发：DeepSeek辅助Vue/React图表组件编写实战](https://blog.csdn.net/qinzhenyan/article/details/156652165)
+
++ [Vue 3 中，组合式 API 的 setup() 函数确实先于选项式 API 的生命周期钩子执行](https://blog.csdn.net/Irene1991/article/details/156698603)
+
++ [详解逻辑回归（Logistic Regression）：原理、推导、实现与实战](https://blog.csdn.net/m0_69585895/article/details/156712409)
+
++ [Flutter 与原生通信机制全解析：MethodChannel / EventChannel / BasicMessageChannel，一篇讲透（工程级）](https://blog.csdn.net/wulong756273/article/details/156687498)
+
