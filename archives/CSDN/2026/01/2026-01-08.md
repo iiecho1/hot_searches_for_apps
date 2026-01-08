@@ -199,3 +199,7 @@
 
 + [脉脉独家【AI创作者xAMA】| 开启智能创作新时代](https://blog.csdn.net/2503_91389547/article/details/156653392)
 
++ [梳理10个开源或者国产的内网穿透工具 ](https://blog.csdn.net/2501_93723034/article/details/156604922)
+
++ [【系统分析师】2.4 数学建模](https://blog.csdn.net/nblway/article/details/156698507)
+

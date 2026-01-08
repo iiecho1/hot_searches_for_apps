@@ -213,3 +213,5 @@
 
 + [荷兰法院裁定一桩婚姻因AI撰写结婚证词而无效](https://news.cctv.com/2026/01/08/ARTIILIC7YK5vNyT1dkyio4X260108.shtml)
 
++ [津巴布韦强降雨已致61人死亡](https://news.cctv.com/2026/01/08/ARTILJhJB9tqgGALDJfYMPqW260108.shtml)
+
