@@ -225,3 +225,11 @@
 
 + [黎巴嫩军方：已完成武器统一管控计划首阶段目标](https://news.cctv.com/2026/01/08/ARTILCb5NIj5mtVNtkqeMEkq260108.shtml)
 
++ [斯洛伐克总理：不会向乌克兰提供武器或派兵](https://news.cctv.com/2026/01/08/ARTItnkpT6QuFUhd6MkjDATb260108.shtml)
+
++ [澳大利亚将成立皇家委员会调查邦迪滩枪击事件](https://news.cctv.com/2026/01/08/ARTIYUU4Oq7J2qxo7tpniPmp260108.shtml)
+
++ [叙军将定点打击“叙利亚民主力量”阿勒颇阵地](https://news.cctv.com/2026/01/08/ARTIYos68xBT9kQ9h7T3TrWf260108.shtml)
+
++ [多起涉中国公民旅游纠纷发生，中国驻胡志明市总领馆发布提醒](https://news.cctv.com/2026/01/08/ARTICvtqFGDX48L94vgNz4T7260108.shtml)
+

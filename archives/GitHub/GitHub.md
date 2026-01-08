@@ -27,3 +27,17 @@
 
 + [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [nothings/stb](https://github.com/nothings/stb)
+
++ [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
+
++ [apache/superset](https://github.com/apache/superset)
+
++ [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo)
+
++ [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
+
++ [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG)
+
