@@ -211,3 +211,11 @@
 
 + [Spring Boot 4.x 安全监控新篇章：基于 ObservationFilterChainDecorator 的可观测性实践](https://blog.csdn.net/bhl120/article/details/156698158)
 
++ [后端转 AI 创作？脉脉功能实测：一起聊聊技术人的出路](https://blog.csdn.net/user340/article/details/156686048)
+
++ [Kali Linux 外置无线网卡接入与识别排障（VMware 环境｜合规学习版）](https://blog.csdn.net/weixin_47431459/article/details/156610312)
+
++ [深入理解库、静态库、动态库与ELF文件格式，CPU执行流程（1）](https://blog.csdn.net/asciiletters/article/details/156610812)
+
++ [复古 C 语言游戏代码修复与解析——以73三色球问题求解为例](https://blog.csdn.net/champ_hupeng/article/details/156650430)
+
