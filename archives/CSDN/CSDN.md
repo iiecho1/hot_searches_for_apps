@@ -133,3 +133,5 @@
 
 + [华为OD技术面真题 - 计算机网络 - 1](https://blog.csdn.net/qq_45776114/article/details/156698168)
 
++ [Android ALSA进阶之处理PCM的ioctl命令snd_pcm_lib_ioctl：用法实例(一百)](https://blog.csdn.net/u010164190/article/details/156710908)
+

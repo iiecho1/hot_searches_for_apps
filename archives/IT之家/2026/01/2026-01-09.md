@@ -33,3 +33,21 @@
 
 + [雷军宣布今晚 8 点直播：聊聊新一代小米 SU7，继续回应各种质疑](https://m.ithome.com/html/911137.htm)
 
++ [售 18.68 万元起、纯电增程两种动力，2026 款小鹏 P7+ 上市](https://m.ithome.com/html/911605.htm)
+
++ [2026 款比亚迪秦 L DM-i 上市：纯电续航最高 210 公里，限时优享价 9.28 万元起](https://m.ithome.com/html/911656.htm)
+
++ [小米桌面充电站 140W 开启众筹：2C+2A+4AC 设计，249 元](https://m.ithome.com/html/911472.htm)
+
++ [19.58 万元起，全球最长续航 SUV 小鹏 G7 超级增程发布](https://m.ithome.com/html/911599.htm)
+
++ [2026 款比亚迪秦 PLUS DM-i 发布：电子怀挡、新增未央灰，7.98 万元起](https://m.ithome.com/html/911655.htm)
+
++ [一加 Turbo 6 系列手机发布：骁龙 8s / 7s Gen4 芯片、9000mAh 电池，国补价 1444.15 元起](https://m.ithome.com/html/911659.htm)
+
++ [既 Pro 又 Air：荣耀 Magic8 Pro Air 新机官宣，设备小尾巴露出](https://m.ithome.com/html/911542.htm)
+
++ [小米 17 标准版限时官降至高 300 元，最低 4299 元起](https://m.ithome.com/html/911672.htm)
+
++ [华为 Mate 70 手机保值焕新服务进入履约期：至少保值 50%，提供 80 系列专属换机通道](https://m.ithome.com/html/911593.htm)
+
