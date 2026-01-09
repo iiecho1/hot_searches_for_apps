@@ -23,3 +23,5 @@
 
 + [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
++ [obra/superpowers](https://github.com/obra/superpowers)
+
