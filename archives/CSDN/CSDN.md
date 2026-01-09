@@ -151,3 +151,9 @@
 
 + [一文搞懂 FastAPI 的 HTTP 请求方法，GET/POST/PUT/DELETE 全攻略](https://blog.csdn.net/Yunyi_Chi/article/details/156766348)
 
++ [Java 大视界 -- Java+Flink CDC 构建实时数据同步系统：从 MySQL 到 Hive 全增量同步（443）](https://blog.csdn.net/atgfg/article/details/156774748)
+
++ [agent系统：架构、应用与评估全景综述](https://blog.csdn.net/sinat_37574187/article/details/156775094)
+
++ [（123页PPT）华为流程体系建设与运营（附下载方式）](https://blog.csdn.net/2501_92796370/article/details/156691737)
+
