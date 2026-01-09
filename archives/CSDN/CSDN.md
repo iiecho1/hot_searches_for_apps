@@ -135,3 +135,9 @@
 
 + [Android ALSA进阶之处理PCM的ioctl命令snd_pcm_lib_ioctl：用法实例(一百)](https://blog.csdn.net/u010164190/article/details/156710908)
 
++ [html制作太阳系行星运行轨道演示动画](https://blog.csdn.net/qq_33697094/article/details/156654001)
+
++ [《Linux 核心 IO 模型深析（中篇）：探索Cmake与多路转接的高效实现poll》](https://blog.csdn.net/Dovis5884/article/details/155806270)
+
++ [Python uv：新一代Python包管理工具，彻底改变开发体验](https://blog.csdn.net/u013379032/article/details/156697022)
+

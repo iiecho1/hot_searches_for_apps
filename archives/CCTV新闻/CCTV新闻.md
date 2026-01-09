@@ -169,3 +169,9 @@
 
 + [委内瑞拉国民议会宣布所有阵亡公民为祖国英雄与烈士](https://news.cctv.com/2026/01/09/ARTIZi2eh3aivogb60OKLPFu260109.shtml)
 
++ [韩国前总统尹锡悦涉嫌发动内乱案举行结案庭审](https://news.cctv.com/2026/01/09/ARTIgCu9bLrz6Mnpn4MNxe1r260109.shtml)
+
++ [国际空间站宇航员有恙 美航天局将提前安排任务组返航](https://news.cctv.com/2026/01/09/ARTID3CNiRhTUFw2FF2PU0og260109.shtml)
+
++ [德国总理：欧洲“多国部队”若驻军乌克兰需俄罗斯同意](https://news.cctv.com/2026/01/09/ARTIGB8OaqfaiBFxKNIiZvay260109.shtml)
+
