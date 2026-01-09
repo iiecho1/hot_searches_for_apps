@@ -79,3 +79,13 @@
 
 + [鸿蒙智行尚界 Z7 猎装版车型更多角度谍照曝光，消息称两个版本今年陆续上市](https://m.ithome.com/html/911673.htm)
 
++ [湖南一司机高速上开启辅助驾驶后连睡 20 多公里致车辆撞栏，所幸无人员受伤](https://m.ithome.com/html/911957.htm)
+
++ [拒绝 AI 磨皮：美国 95 后掀起复古风，爱上苹果 iPhone 4“渣画质”](https://m.ithome.com/html/911715.htm)
+
++ [新款阿维塔 12 汽车完成申报：车顶激光雷达设计、纯电提供 3 电机版本，另可选增程动力](https://m.ithome.com/html/911705.htm)
+
++ [华为余承东：“旗舰大作”鸿蒙智行智界 V9 今年春天见](https://m.ithome.com/html/911761.htm)
+
++ [消息称英伟达无限期搁置发布 RTX 50 SUPER 系列显卡](https://m.ithome.com/html/911828.htm)
+

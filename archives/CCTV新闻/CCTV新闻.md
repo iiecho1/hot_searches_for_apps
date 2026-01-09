@@ -233,3 +233,5 @@
 
 + [欧盟延长对危地马拉制裁期限至2027年1月13日](https://news.cctv.com/2026/01/09/ARTIpjptWB8zmV5fCm6bChH9260109.shtml)
 
++ [美方称在加勒比海扣押“奥利娜”号油轮](https://news.cctv.com/2026/01/09/ARTICunwvlP8cpN3w8Z5WbVW260109.shtml)
+
