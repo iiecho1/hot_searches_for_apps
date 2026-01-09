@@ -175,3 +175,13 @@
 
 + [德国总理：欧洲“多国部队”若驻军乌克兰需俄罗斯同意](https://news.cctv.com/2026/01/09/ARTIGB8OaqfaiBFxKNIiZvay260109.shtml)
 
++ [特朗普：必须“拥有”整个格陵兰](https://news.cctv.com/2026/01/09/ARTIkvMQTNNbcNMrq4hIl1u5260109.shtml)
+
++ [特朗普再次就骚乱事件对伊朗发出威胁](https://news.cctv.com/2026/01/09/ARTI8IzvBuyyUp3qZBtkTVCk260109.shtml)
+
++ [叙利亚国防部宣布阿勒颇部分地区停火](https://news.cctv.com/2026/01/09/ARTI5mONORoZHTaoTcjf2tYR260109.shtml)
+
++ [日本山梨县山火持续蔓延 政府发布避难指示](https://news.cctv.com/2026/01/09/ARTILSD3snCGCfRwyXxpXBDA260109.shtml)
+
++ [政府资金又将耗尽 美国会众议院通过三项拨款法案](https://news.cctv.com/2026/01/09/ARTIMzCyBmlrYibzuv7QzkON260109.shtml)
+

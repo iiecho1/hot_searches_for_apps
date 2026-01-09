@@ -141,3 +141,13 @@
 
 + [Python uv：新一代Python包管理工具，彻底改变开发体验](https://blog.csdn.net/u013379032/article/details/156697022)
 
++ [鸿蒙PC跨端开发实战：从Qt环境配置到Electron应用鸿蒙化的完整指南](https://blog.csdn.net/weixin_62280685/article/details/156737623)
+
++ [2026年1月TIOBE编程语言排行榜，Go语言排名第16，Rust语言排名13。C# 当选 2025 年度编程语言。](https://blog.csdn.net/weixin_48502062/article/details/156655725)
+
++ [基于Flask框架开发的智能旅游推荐平台，采用复合推荐算法，支持管理员、导游、普通用户三种角色](https://blog.csdn.net/weixin_49081159/article/details/156693798)
+
++ [【金仓数据库】ksql 指南（六）—— 创建与管理用户和权限（KingbaseES 安全控制核心）](https://blog.csdn.net/2302_78391795/article/details/156735673)
+
++ [服务器监控总被内网卡？cpolar有随时随地掌握状态的方法](https://blog.csdn.net/qyj19920704/article/details/156736430)
+
