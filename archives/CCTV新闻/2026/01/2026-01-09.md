@@ -207,3 +207,7 @@
 
 + [最新民调：韩国总统李在明支持率回升至60%](https://news.cctv.com/2026/01/09/ARTIS5RB1fZnYsVilWTVlOUT260109.shtml)
 
++ [乌外长：将就俄“榛树”导弹袭击推动安理会召开紧急会议](https://news.cctv.com/2026/01/09/ARTIDgHpyTfj3ljfO8c98BmU260109.shtml)
+
++ [丹麦代表与美官员会谈 试图劝美放弃控制格陵兰岛](https://news.cctv.com/2026/01/09/ARTI9oAnmwrbhEC4ETXWQ4ij260109.shtml)
+
