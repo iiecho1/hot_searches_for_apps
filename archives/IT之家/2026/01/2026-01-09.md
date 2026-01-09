@@ -51,3 +51,11 @@
 
 + [华为 Mate 70 手机保值焕新服务进入履约期：至少保值 50%，提供 80 系列专属换机通道](https://m.ithome.com/html/911593.htm)
 
++ [新一代小米 SU7 申报：可选装前后保险杠装饰件，提供多款轮毂](https://m.ithome.com/html/911686.htm)
+
++ [癌症疫苗新突破，北大团队 Nature 发文](https://m.ithome.com/html/911503.htm)
+
++ [“全球首款”可量产全固态电池引发质疑：工作人员称不用锂、无稀土，正接受外部独立测试](https://m.ithome.com/html/911548.htm)
+
++ [央企大动作，中国石化与中国航油官宣重组](https://m.ithome.com/html/911642.htm)
+

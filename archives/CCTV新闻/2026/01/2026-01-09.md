@@ -197,3 +197,7 @@
 
 + [日本大阪地标建筑通天阁附近发生火灾](https://news.cctv.com/2026/01/09/ARTItPIIyVCEbTyBxfXQX0du260109.shtml)
 
++ [中使馆提醒赴泰中国公民勿开展与签证类型或入境目的不符的活动](https://news.cctv.com/2026/01/09/ARTIPtALmAI3XukDA19jP44w260109.shtml)
+
++ [委内瑞拉将释放“大量”外国和本国籍囚犯](https://news.cctv.com/2026/01/09/ARTIM3TsF7ZOi19U8g4pLCY2260109.shtml)
+
