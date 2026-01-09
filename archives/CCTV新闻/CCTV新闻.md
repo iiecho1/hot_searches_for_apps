@@ -213,3 +213,7 @@
 
 + [多家航空公司取消飞往德黑兰的航班](https://news.cctv.com/2026/01/09/ARTILqa8kfQAsZ3BP4lXoR29260109.shtml)
 
++ [特朗普称取消对委内瑞拉第二波军事打击](https://news.cctv.com/2026/01/09/ARTIjBrboKy2KifQFwOJPi8U260109.shtml)
+
++ [哈梅内伊呼吁伊朗人民保持团结](https://news.cctv.com/2026/01/09/ARTI8gF6xBtqmGkBSAcTYr2q260109.shtml)
+
