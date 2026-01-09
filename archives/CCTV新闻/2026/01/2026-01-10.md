@@ -163,3 +163,5 @@
 
 + [叙利亚逮捕一名极端组织“伊斯兰国”高级头目](https://news.cctv.com/2026/01/10/ARTIbzEoEAUmaX4GzNi59qJG260110.shtml)
 
++ [我使馆发布关于中国公民免签入境土耳其的提示](https://news.cctv.com/2026/01/10/ARTI2OUHJ5Kq3fFBr3oUjGfJ260110.shtml)
+
