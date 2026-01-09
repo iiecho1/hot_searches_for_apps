@@ -109,3 +109,29 @@
 
 + [在将决策系统用于物联网当中的模糊逻辑](https://blog.csdn.net/2401_84168288/article/details/156695701)
 
++ [【Linux】Ansible 自动化运维实战：2000+ 节点配置标准化教程](https://blog.csdn.net/lbbxmx111/article/details/156658149)
+
++ [一文搞懂ICP、ISP、IAP（固件烧录升级科普）](https://blog.csdn.net/weixin_43083491/article/details/156730279)
+
++ [基于大数据和深度学习的智能空气质量监测与预测平台，采用Spark数据预处理，利用TensorFlow构建LSTM深度学习模型](https://blog.csdn.net/weixin_49081159/article/details/156736417)
+
++ [【Python】Flask 2](https://blog.csdn.net/Kratzdisteln/article/details/156735816)
+
++ [病历生成与质控编码的工程化范式研究：从模型驱动到系统治理的范式转变](https://blog.csdn.net/kkiron/article/details/156752547)
+
++ [XIlinx FPGA使用LVDS的电源与电平关键指南](https://blog.csdn.net/s0907136/article/details/156675391)
+
++ [【黑马点评】基于 Redis 实现分布式 Session 登录：从原理到实战的深度复盘](https://blog.csdn.net/Drifter_yh/article/details/156773726)
+
++ [MySQL数据库精研之旅第二十期：存储过程，数据处理的全能工具箱(三)](https://blog.csdn.net/2401_85198927/article/details/156661007)
+
++ [flutter-elinux 编译linux arm64程序](https://blog.csdn.net/u013113678/article/details/138181424)
+
++ [基于物联网嵌入式的智能家居使用新大陆云和本地API](https://blog.csdn.net/2301_76798299/article/details/156370369)
+
++ [Win11 25H2 怎么升级？微软官网 + 系统之家手动升级教程](https://blog.csdn.net/2501_93999820/article/details/156679081)
+
++ [探索基于FPGA的自适应滤波器实现之旅：2023年H题实战](https://blog.csdn.net/weixin_46579091/article/details/156688057)
+
++ [Flash Attention 2.8.3 在 Windows + RTX 3090 上成功编译与运行复盘笔记（2026年1月版）](https://blog.csdn.net/u014451778/article/details/156693496)
+
