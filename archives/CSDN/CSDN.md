@@ -171,3 +171,7 @@
 
 + [论文精读-《ReAct: Synergizing Reasoning and Acting in Language Models》，2022](https://blog.csdn.net/long11350/article/details/156652329)
 
++ [NSP 新范式实战：AI 世界模型构建与物理规律建模指南](https://blog.csdn.net/2401_86326742/article/details/156699432)
+
++ [❿⁄₆ ⟦ OSCP ⬖ 研记 ⟧ 密码攻击 ➱ 提取密码管理器KeePass主密码（上）](https://blog.csdn.net/weixin_42115157/article/details/156755651)
+
