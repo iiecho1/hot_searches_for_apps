@@ -177,3 +177,9 @@
 
 + [PyTorch实战——基于文本引导的图像生成技术与Stable Diffusion实践](https://blog.csdn.net/LOVEmy134611/article/details/150604359)
 
++ [Linux的超全，命令](https://blog.csdn.net/2301_78107269/article/details/156694835)
+
++ [数据仓库工具箱：缓慢渐变维度（SCD）](https://blog.csdn.net/sunqingok/article/details/156680150)
+
++ [软件工程未来两年](https://blog.csdn.net/2301_79342058/article/details/156658407)
+
