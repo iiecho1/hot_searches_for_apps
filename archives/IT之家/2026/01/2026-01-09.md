@@ -59,3 +59,23 @@
 
 + [央企大动作，中国石化与中国航油官宣重组](https://m.ithome.com/html/911642.htm)
 
++ [消息称统信年会要求员工穿西服，工程人员质疑被点名“办离职”](https://m.ithome.com/html/911768.htm)
+
++ [华为 Mate 70 系列机型官宣开启新年礼遇，至高可享 1800 元优惠](https://m.ithome.com/html/911746.htm)
+
++ [海鸥、海豚也有激光雷达！比亚迪放大招，多款在售车型申报新版本](https://m.ithome.com/html/911815.htm)
+
++ [苹果 Apple Watch“房颤历史”功能获国家药品监督管理局批准](https://m.ithome.com/html/911774.htm)
+
++ [赵长江转发华为余承东微博，称鸿蒙智行首款旗舰 MPV 智界 V9“保守估计三年内没对手”](https://m.ithome.com/html/911820.htm)
+
++ [全国首台定制小米 SU7 Ultra 竞速红交付，搭配极夜黑 / 冰河蓝双色内饰](https://m.ithome.com/html/911887.htm)
+
++ [荣耀 Magic8 Pro Air 手机开启预约：至高 1TB 规格，1 月 19 日发布](https://m.ithome.com/html/911677.htm)
+
++ [我国职工医保个人账户共济范围拓展至全国，可为近亲属跨省买药、支付医疗费用](https://m.ithome.com/html/911740.htm)
+
++ [全新外观，一汽-大众新车型速腾 S 完成申报](https://m.ithome.com/html/911693.htm)
+
++ [鸿蒙智行尚界 Z7 猎装版车型更多角度谍照曝光，消息称两个版本今年陆续上市](https://m.ithome.com/html/911673.htm)
+

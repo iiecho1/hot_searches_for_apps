@@ -221,3 +221,15 @@
 
 + [俄外交部：特朗普已下令释放被扣押油轮上的俄公民](https://news.cctv.com/2026/01/09/ARTICPabq6ouxlJv5Zc4EaAU260109.shtml)
 
++ [伊朗最高国家安全委员会指责美国和以色列策划伊朗动乱](https://news.cctv.com/2026/01/09/ARTIlsZqapZwwGoTfJYZuFZh260109.shtml)
+
++ [伊拉克内政部宣布拟在2026年内结束城市军事化](https://news.cctv.com/2026/01/09/ARTIrpQvgngwwgWym3JuOPZK260109.shtml)
+
++ [日本一医院遗失放射性物质](https://news.cctv.com/2026/01/09/ARTIcCaWsttcDZiqqQwlLuVn260109.shtml)
+
++ [欧盟成员国投票通过欧盟-南共市自贸协定](https://news.cctv.com/2026/01/09/ARTIuvYhMoZYhqnwKRZvKm2c260109.shtml)
+
++ [也门总统领导委员会成员宣布取消亚丁省宵禁措施](https://news.cctv.com/2026/01/09/ARTIzLhRX2iGrPmm5x878vCa260109.shtml)
+
++ [欧盟延长对危地马拉制裁期限至2027年1月13日](https://news.cctv.com/2026/01/09/ARTIpjptWB8zmV5fCm6bChH9260109.shtml)
+
