@@ -135,3 +135,15 @@
 
 + [Flash Attention 2.8.3 在 Windows + RTX 3090 上成功编译与运行复盘笔记（2026年1月版）](https://blog.csdn.net/u014451778/article/details/156693496)
 
++ [鲲鹏+昇腾：开启 AI for Science 新范式——基于PINN的流体仿真加速实践](https://blog.csdn.net/u014727709/article/details/156771621)
+
++ [使用 Elastic Agent Builder 和 MCP 实现 Agentic 参考架构](https://blog.csdn.net/UbuntuTouch/article/details/156705352)
+
++ [【开题答辩全过程】以 基于Hadoop教育平台的设计与实现为例，包含答辩的问题和答案](https://blog.csdn.net/sheji3416/article/details/156695844)
+
++ [Qwen3-VL在华为昇腾 NPU 910B4 vLLM-Ascend完整部署指南](https://blog.csdn.net/weixin_42917352/article/details/156687316)
+
++ [HarmonyOS APP开发实战：TabSegmentButtonV2 样式自定义 + 一次开发多端部署（附源码 + 运行效果截图）](https://blog.csdn.net/2301_77046593/article/details/156772848)
+
++ [07844_人工智能导论_复习资料](https://blog.csdn.net/weixin_42713586/article/details/156676183)
+
