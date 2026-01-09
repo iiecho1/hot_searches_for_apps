@@ -201,3 +201,9 @@
 
 + [委内瑞拉将释放“大量”外国和本国籍囚犯](https://news.cctv.com/2026/01/09/ARTIM3TsF7ZOi19U8g4pLCY2260109.shtml)
 
++ [墨西哥一输油管道发生爆炸 暂无人员伤亡报告](https://news.cctv.com/2026/01/09/ARTIeGrZn62FZYk6CiRmVVaw260109.shtml)
+
++ [柬方指控泰方在边境部署多架无人机 泰方暂无回应](https://news.cctv.com/2026/01/09/ARTIsywsvQTB1SpJ9TPB5egO260109.shtml)
+
++ [最新民调：韩国总统李在明支持率回升至60%](https://news.cctv.com/2026/01/09/ARTIS5RB1fZnYsVilWTVlOUT260109.shtml)
+

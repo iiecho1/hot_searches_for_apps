@@ -159,3 +159,15 @@
 
 + [【2026最新收集】github国内镜像站，高速访问](https://blog.csdn.net/qq_38238956/article/details/156717907)
 
++ [MCP + ReAct 架构实战](https://blog.csdn.net/lxcxjxhx/article/details/156685567)
+
++ [【花雕学编程】Arduino BLDC 之视觉伺服分拣机器人](https://blog.csdn.net/weixin_41659040/article/details/156753544)
+
++ [（第七篇）Spring AI 核心技术攻坚：国内模型深度集成与国产化 AI 应用实战指南](https://blog.csdn.net/qq_40303030/article/details/155784015)
+
++ [Linux下禁用触摸板](https://blog.csdn.net/ieusr/article/details/156696749)
+
++ [基于 Redis+Redisson 实现分布式高可用编码生成器](https://blog.csdn.net/qq_68883928/article/details/156725520)
+
++ [论文精读-《ReAct: Synergizing Reasoning and Acting in Language Models》，2022](https://blog.csdn.net/long11350/article/details/156652329)
+
