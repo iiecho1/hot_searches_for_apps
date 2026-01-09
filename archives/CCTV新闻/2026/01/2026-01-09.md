@@ -217,3 +217,7 @@
 
 + [哈梅内伊呼吁伊朗人民保持团结](https://news.cctv.com/2026/01/09/ARTI8gF6xBtqmGkBSAcTYr2q260109.shtml)
 
++ [报复普京官邸遭袭 俄军用“榛树”导弹打击乌克兰](https://news.cctv.com/2026/01/09/ARTIPuWZwsp4nR3z6RuQyKg7260109.shtml)
+
++ [俄外交部：特朗普已下令释放被扣押油轮上的俄公民](https://news.cctv.com/2026/01/09/ARTICPabq6ouxlJv5Zc4EaAU260109.shtml)
+

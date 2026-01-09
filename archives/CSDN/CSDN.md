@@ -195,3 +195,11 @@
 
 + [Vue 事件系统核心：createInvoker 函数深度解析](https://blog.csdn.net/m0_61594728/article/details/156736573)
 
++ [【SpringBoot 日志】日志级别与配置：分类、使用及持久化全攻略](https://blog.csdn.net/whxcmy/article/details/156729976)
+
++ [说实话，Gemini 3 Pro 这 5 个学术写作用法，真的被我低估了](https://blog.csdn.net/shi_hong_fei_hei/article/details/156758334)
+
++ [GPU架构](https://blog.csdn.net/weixin_60896526/article/details/156735819)
+
++ [探索基于FPGA的自适应滤波器实现之旅：2023年H题实战](https://blog.csdn.net/weixin_46579091/article/details/156688057)
+

@@ -29,3 +29,15 @@
 
 + [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG)
 
++ [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
++ [netbirdio/netbird](https://github.com/netbirdio/netbird)
+
++ [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
+
++ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
++ [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+
++ [anomalyco/opencode](https://github.com/anomalyco/opencode)
+
