@@ -151,3 +151,7 @@
 
 + [服务器监控总被内网卡？cpolar有随时随地掌握状态的方法](https://blog.csdn.net/qyj19920704/article/details/156736430)
 
++ [AI工程化落地：企业智能化转型的挑战、策略与未来展望](https://blog.csdn.net/g310773517/article/details/156699009)
+
++ [【开题答辩全过程】以 基于Hadoop教育平台的设计与实现为例，包含答辩的问题和答案](https://blog.csdn.net/sheji3416/article/details/156695844)
+

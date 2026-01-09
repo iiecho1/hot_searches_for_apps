@@ -185,3 +185,15 @@
 
 + [政府资金又将耗尽 美国会众议院通过三项拨款法案](https://news.cctv.com/2026/01/09/ARTIMzCyBmlrYibzuv7QzkON260109.shtml)
 
++ [特朗普称不担心美俄《新削减战略武器条约》即将到期](https://news.cctv.com/2026/01/09/ARTIKsDUTOLMNosZvy4smHMv260109.shtml)
+
++ [委内瑞拉感谢中国谴责美方行径](https://news.cctv.com/2026/01/09/ARTIyWtUSgZpYHCWaRne6vlV260109.shtml)
+
++ [联合国报告预测2026年世界经济将增长2.7%](https://news.cctv.com/2026/01/09/ARTIucLnpjmMQicIVodIACgr260109.shtml)
+
++ [布隆迪北部暴雨致3名儿童死亡](https://news.cctv.com/2026/01/09/ARTIOXGuwKRMBhn35apGu0bo260109.shtml)
+
++ [法国将对欧盟与南共市签署自贸协定投反对票](https://news.cctv.com/2026/01/09/ARTI5oPEJg9Ws47l6hX1Fbc5260109.shtml)
+
++ [日本大阪地标建筑通天阁附近发生火灾](https://news.cctv.com/2026/01/09/ARTItPIIyVCEbTyBxfXQX0du260109.shtml)
+
