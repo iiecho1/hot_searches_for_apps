@@ -231,3 +231,9 @@
 
 + [前端 DevOps 完全指南：从 Docker 容器化到 GitHub Actions 自动化部署（Vue 3 + Vite）](https://blog.csdn.net/weixin_52208686/article/details/156714218)
 
++ [ORM框架下的SQL优化 N+1问题识别与解决方案](https://blog.csdn.net/sinat_41617212/article/details/156730405)
+
++ [Spring Boot集成RabbitMQ的各种队列使用案例](https://blog.csdn.net/weixin_58026642/article/details/156774312)
+
++ [ZR.Admin——基于.Net8 + vue2.x前后端分离的.net快速开发框架](https://blog.csdn.net/bjzhang75/article/details/156749660)
+

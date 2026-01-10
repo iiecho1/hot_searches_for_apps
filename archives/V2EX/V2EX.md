@@ -71,3 +71,5 @@
 
 + [招商客服回复 1.15 推出 VISA Apple Pay 服务？🤔](https://www.v2ex.com/t/1184447)
 
++ [你遇到什么事情后或者有什么经历忽然开悟了？](https://www.v2ex.com/t/1184467)
+
