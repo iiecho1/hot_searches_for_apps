@@ -161,3 +161,5 @@
 
 + [津巴布韦强降雨已致61人死亡](https://news.cctv.com/2026/01/08/ARTILJhJB9tqgGALDJfYMPqW260108.shtml)
 
++ [为“保护”美方所持委石油收入 特朗普宣布进入国家紧急状态](https://news.cctv.com/2026/01/11/ARTIJatQtTXROzcWzorey2wa260111.shtml)
+
