@@ -159,3 +159,9 @@
 
 + [[特殊字符] Pathway：高效的Python ETL框架，助力实时数据处理与分析](https://blog.csdn.net/weixin_44626085/article/details/156695111)
 
++ [Gradle - 与Elasticsearch集成 构建搜索服务项目](https://blog.csdn.net/qq_41187124/article/details/156274301)
+
++ [数学建模全体系核心手册（终极优化版）](https://blog.csdn.net/Bonaventure/article/details/156717577)
+
++ [最佳实践 - ArkTS 驱动鸿蒙元服务开发：从界面布局到交互逻辑，打造多功能决策类元服务](https://blog.csdn.net/weixin_62765017/article/details/156011270)
+

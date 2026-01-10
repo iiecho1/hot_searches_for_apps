@@ -167,3 +167,5 @@
 
 + [朝鲜军方谴责韩国无人机入侵领空](https://news.cctv.com/2026/01/10/ARTIlz43lSKHdM5LqsPvIuoG260110.shtml)
 
++ [丛林大火蔓延 澳大利亚维多利亚州进入灾难状态](https://news.cctv.com/2026/01/10/ARTI21zHAX5MNB7gENnhdHUJ260110.shtml)
+
