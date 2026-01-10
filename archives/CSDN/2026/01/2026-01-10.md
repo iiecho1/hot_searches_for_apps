@@ -181,3 +181,9 @@
 
 + [2026年1月远程软件大比拼](https://blog.csdn.net/fyy31/article/details/156761825)
 
++ [Spring Cloud 核心组件精讲：负载均衡深度对比 Spring Cloud LoadBalancer vs Ribbon（原理 + 策略配置 + 性能优化）](https://blog.csdn.net/qq_40303030/article/details/156078159)
+
++ [【Android关键流程】Init启动](https://blog.csdn.net/weixin_42321153/article/details/156793135)
+
++ [HarmonyOS 6 API 22 新特性NDK支持多线程创建组件能力介绍](https://blog.csdn.net/sjw890821sjw/article/details/156737136)
+
