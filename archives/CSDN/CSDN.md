@@ -197,3 +197,11 @@
 
 + [Kubernetes Pod 详解与Rancher 部署](https://blog.csdn.net/2503_93991036/article/details/156735314)
 
++ [FastAPI 架构核心：设计原则与组件概览](https://blog.csdn.net/universsky2015/article/details/156796548)
+
++ [什么是指令微调； 指令微调（Instruct-tuning）和提示学习（Prompting）区别](https://blog.csdn.net/qq_38998213/article/details/156796282)
+
++ [PySpark 大规模造数任务优化与实施总结文档](https://blog.csdn.net/QXXDYL/article/details/156769662)
+
++ [【开源免费投屏软件】实用软件之投屏工具——Escrcpy 完全指南：新一代安卓投屏与控制解决方案](https://blog.csdn.net/u010942212/article/details/156734372)
+

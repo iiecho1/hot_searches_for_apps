@@ -59,3 +59,9 @@
 
 + [艹，北京联通开始搞事情了，封了群晖 5001 端口](https://www.v2ex.com/t/1184390)
 
++ [20260110 - /node/create](https://www.v2ex.com/t/1184452)
+
++ [苹果党来分享几个你觉得有用的 shortcuts 里面的 Automations](https://www.v2ex.com/t/1184383)
+
++ [antigravity generate commit message 功能突然无法使用了（Beta）](https://www.v2ex.com/t/1184361)
+
