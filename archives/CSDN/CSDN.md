@@ -109,3 +109,13 @@
 
 + [系统设计方法论全解：原则、模型与用户体验核心要义](https://blog.csdn.net/g984160547/article/details/156654826)
 
++ [【机器学习】人工神经网络（ANN）](https://blog.csdn.net/2401_84149564/article/details/156770997)
+
++ [CAP—ZooKeeper ZAB协议：从理论到实践的一致性与可用性平衡之道](https://blog.csdn.net/fupinghaohao/article/details/156771428)
+
++ [静态路由综合实验](https://blog.csdn.net/Valorant_Clove/article/details/156807356)
+
++ [Flutter 框架跨平台鸿蒙开发 —— Padding 控件之空间呼吸艺术](https://blog.csdn.net/m0_66062719/article/details/156808913)
+
++ [【Linux】云原生运维效率提升：Linux 终端工具链（kubectl + tmux + fzf）组合拳教程](https://blog.csdn.net/lbbxmx111/article/details/156772259)
+
