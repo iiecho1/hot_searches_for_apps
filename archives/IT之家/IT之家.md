@@ -93,3 +93,11 @@
 
 + [招商银行客服称旗下 Visa 信用卡 1 月 15 日起可添加至苹果 Apple Pay](https://m.ithome.com/html/912148.htm)
 
++ [比亚迪唐 9 系、汉 9 系旗舰车型官宣，上半年亮相](https://m.ithome.com/html/912179.htm)
+
++ [鸿蒙智行问界 M7 全系累计交付超 40 万台：M7 增程长续航版开启预订，预售价 29.98 万元起](https://m.ithome.com/html/912066.htm)
+
++ [小米汽车：锁单未交付 SU7 用户限时升级新一代今晚 24 点截止](https://m.ithome.com/html/912129.htm)
+
++ [荣耀 X80 系列千元档新机曝光：超 10000mAh 大电池，骁龙 7 系芯片 + 6.81 英寸 1.5K LTPS 直屏](https://m.ithome.com/html/912062.htm)
+
