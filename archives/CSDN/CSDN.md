@@ -215,3 +215,19 @@
 
 + [微服务 - Higress网关](https://blog.csdn.net/chan12345678910/article/details/156768659)
 
++ [Python实现TTAO算法：优化神经网络中的时序预测任务](https://blog.csdn.net/2401_85083137/article/details/156771875)
+
++ [Spring Boot 3.3.x、3.4.x、3.5.x 深度对比与演进分析](https://blog.csdn.net/weixin_36755535/article/details/156732041)
+
++ [事件驱动架构：构建高并发松耦合系统的Python实战](https://blog.csdn.net/sinat_41617212/article/details/156726092)
+
++ [深入解析 @mapbox/mbtiles：Node.js 玩转 MBTiles 瓦片格式](https://blog.csdn.net/gusushantang/article/details/156696710)
+
++ [Linux tcpdump工具的使用](https://blog.csdn.net/qq_42128606/article/details/156773684)
+
++ [华为OD技术面真题 - 计算机网络 - 3](https://blog.csdn.net/qq_45776114/article/details/156774310)
+
++ [Windows 上使用 Docker Desktop 教程](https://blog.csdn.net/2301_79742544/article/details/156765813)
+
++ [前端 DevOps 完全指南：从 Docker 容器化到 GitHub Actions 自动化部署（Vue 3 + Vite）](https://blog.csdn.net/weixin_52208686/article/details/156714218)
+
