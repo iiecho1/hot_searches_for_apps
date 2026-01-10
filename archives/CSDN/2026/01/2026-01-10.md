@@ -205,3 +205,13 @@
 
 + [【开源免费投屏软件】实用软件之投屏工具——Escrcpy 完全指南：新一代安卓投屏与控制解决方案](https://blog.csdn.net/u010942212/article/details/156734372)
 
++ [大数据时代时序数据库选型指南：为何Apache IoTDB成为物联网场景首](https://blog.csdn.net/beautifulmemory/article/details/156724222)
+
++ [【教程4＞第10章＞第20节】基于FPGA的图像sobel锐化算法开发——图像sobel锐化仿真测试以及MATLAB辅助验证](https://blog.csdn.net/ccsss22/article/details/156802469)
+
++ [深入解析MySQL(9)——主从复制架构详解](https://blog.csdn.net/2401_89167985/article/details/153970870)
+
++ [【2025年昇腾CANN训练营第二季】面向昇腾的Triton 算子调试和性能优化学习记录](https://blog.csdn.net/ov0_0429/article/details/156658171)
+
++ [微服务 - Higress网关](https://blog.csdn.net/chan12345678910/article/details/156768659)
+

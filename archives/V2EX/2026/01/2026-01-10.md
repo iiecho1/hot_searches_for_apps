@@ -67,3 +67,7 @@
 
 + [让我来看看我发的这条帖子的金币是怎么流转的](https://www.v2ex.com/t/1184468)
 
++ [小米手机里多了一个证书（用户凭证）identity-cert-keypair-2](https://www.v2ex.com/t/1184426)
+
++ [招商客服回复 1.15 推出 VISA Apple Pay 服务？🤔](https://www.v2ex.com/t/1184447)
+

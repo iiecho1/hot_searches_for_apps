@@ -77,3 +77,19 @@
 
 + [vivo X200T 手机详细参数曝光：6.67 英寸 1.5K 屏幕，支持 40W 无线充电、eSIM](https://m.ithome.com/html/911895.htm)
 
++ [苹果 20 周年版 iPhone 爆料：直屏 + 曲面玻璃的“视觉魔术”](https://m.ithome.com/html/912117.htm)
+
++ [小米汽车：新一代 SU7 全系搭载 V6s Plus 超级电机，后续将引入自研自产电机以缩短交付周期](https://m.ithome.com/html/912103.htm)
+
++ [魅族 22 Air 手机取消上市计划：内存大幅涨价构成巨大冲击](https://m.ithome.com/html/912115.htm)
+
++ [理想 i8 纯电 SUV 推出 3 年 0 息金融政策，首付 9.98 万起](https://m.ithome.com/html/911999.htm)
+
++ [离婚财务分拆细节首次披露：比尔・盖茨曾向前妻梅琳达基金会捐赠近 79 亿美元，后者已跻身美国最大私人基金会之列](https://m.ithome.com/html/912002.htm)
+
++ [魅族 22 Next“AI 小方块”亮相：4 英寸机身，号称 AI 时代全新物种](https://m.ithome.com/html/912125.htm)
+
++ [业内首批，华为 FreeBuds Pro 5、FreeClip 2 耳机获星闪认证证书](https://m.ithome.com/html/912003.htm)
+
++ [招商银行客服称旗下 Visa 信用卡 1 月 15 日起可添加至苹果 Apple Pay](https://m.ithome.com/html/912148.htm)
+
