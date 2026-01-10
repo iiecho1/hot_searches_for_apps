@@ -101,3 +101,11 @@
 
 + [【2025年昇腾CANN训练营第二季】面向昇腾的Triton 算子调试和性能优化学习记录](https://blog.csdn.net/ov0_0429/article/details/156658171)
 
++ [Spring Boot 全局异常处理策略设计（三）：@ExceptionHandler 与 @ControllerAdvice 生效原理源码解析](https://blog.csdn.net/qq_61654952/article/details/156593544)
+
++ [大模型微调的关键知识拆解指南](https://blog.csdn.net/weixin_38526314/article/details/156648901)
+
++ [Windows 桌面软件用什么框架开发好？](https://blog.csdn.net/henryhu712/article/details/156735182)
+
++ [系统设计方法论全解：原则、模型与用户体验核心要义](https://blog.csdn.net/g984160547/article/details/156654826)
+
