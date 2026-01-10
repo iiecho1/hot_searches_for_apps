@@ -189,3 +189,11 @@
 
 + [中肯联合考古发现旧石器中晚期石叶技术石制品](https://news.cctv.com/2026/01/10/ARTIH015nEiLsBkYLfawOF8j260110.shtml)
 
++ [北约担忧特朗普将以“艰难”方式得到格陵兰岛](https://news.cctv.com/2026/01/10/ARTInRf5Xuq96pQsuxJNUSMe260110.shtml)
+
++ [韩国庆尚北道发生山火 政府下令疏散居民](https://news.cctv.com/2026/01/10/ARTIhILSKB94uJg0azh3FpxH260110.shtml)
+
++ [欧盟成员国投票同意签署欧盟-南方共同市场自贸协定](https://news.cctv.com/2026/01/10/ARTIGVSJebUMM4d0scMtd1ST260110.shtml)
+
++ [印美贸易谈判停滞 美商务部长：莫迪没给特朗普打电话](https://news.cctv.com/2026/01/10/ARTILISgDdKaARTsMKvnuGFD260110.shtml)
+
