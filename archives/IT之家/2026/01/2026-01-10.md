@@ -49,3 +49,19 @@
 
 + [消息称英伟达无限期搁置发布 RTX 50 SUPER 系列显卡](https://m.ithome.com/html/911828.htm)
 
++ [DeepSeek V4 大模型被曝春节前后发布：AI 编程能力超越 OpenAI GPT 及 Anthropic Claude](https://m.ithome.com/html/912028.htm)
+
++ [电视剧《三体：大史》登央视 2026 片单，刘慈欣监制](https://m.ithome.com/html/912022.htm)
+
++ [网传外卖平台“1 分钟只有 42 秒” 被查证为谣言，淘宝闪购已报案](https://m.ithome.com/html/911986.htm)
+
++ [比亚迪 2026 款海豹 05 DM-i &amp; 海豹 06 DM-i 超享版加推 210km 版本，8.98 万元起](https://m.ithome.com/html/911888.htm)
+
++ [消息称苹果 iPhone Air 2 手机搭载三星 CoE 封装面板，有望让机身更加纤薄](https://m.ithome.com/html/911998.htm)
+
++ [消息称某厂小屏旗舰重量仅 155g、搭载 5500mAh 电池，预计为荣耀 Magic 8 Pro Air](https://m.ithome.com/html/911922.htm)
+
++ [色情照片门东窗事发后，X 平台的 Grok AI 图像生成功能只向付费客户开放](https://m.ithome.com/html/912014.htm)
+
++ [卢伟冰回应小米 2025 年饱受争议：既要保持“创业公司”的进取之心，也要扛起“产业引领者”的责任担当](https://m.ithome.com/html/911823.htm)
+

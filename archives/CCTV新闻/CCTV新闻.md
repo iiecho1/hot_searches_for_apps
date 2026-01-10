@@ -169,3 +169,13 @@
 
 + [丛林大火蔓延 澳大利亚维多利亚州进入灾难状态](https://news.cctv.com/2026/01/10/ARTI21zHAX5MNB7gENnhdHUJ260110.shtml)
 
++ [韩国防部长官：朝鲜公开照片中的无人机非韩国军方持有机型](https://news.cctv.com/2026/01/10/ARTIBCZCIzGibIEcF6Ka7mV1260110.shtml)
+
++ [韩国总统要求彻查“韩国无人机侵犯朝鲜领空”一事](https://news.cctv.com/2026/01/10/ARTIHklfsptVRT2gxfbHbE89260110.shtml)
+
++ [韩国总统要求彻查“韩国无人机侵犯朝鲜领空”一事　韩国国防部说可进行韩朝联合调查](https://news.cctv.com/2026/01/10/ARTI1Tb9G0Xe6otPRLLBSNcK260110.shtml)
+
++ [叙军方：“叙利亚民主力量”继续在阿勒颇发动袭击](https://news.cctv.com/2026/01/10/ARTIJCFZMjJF6U9aL5nY70hI260110.shtml)
+
++ [法国外长：欧洲政治组织“如今正处于危险中”](https://news.cctv.com/2026/01/10/ARTIJJrS6u61LkA2xfJunI9e260110.shtml)
+
