@@ -65,3 +65,5 @@
 
 + [antigravity generate commit message 功能突然无法使用了（Beta）](https://www.v2ex.com/t/1184361)
 
++ [让我来看看我发的这条帖子的金币是怎么流转的](https://www.v2ex.com/t/1184468)
+

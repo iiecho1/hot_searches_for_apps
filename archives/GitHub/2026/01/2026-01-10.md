@@ -25,3 +25,15 @@
 
 + [obra/superpowers](https://github.com/obra/superpowers)
 
++ [github/awesome-copilot](https://github.com/github/awesome-copilot)
+
++ [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
+
++ [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
+
++ [opf/openproject](https://github.com/opf/openproject)
+
++ [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [twentyhq/twenty](https://github.com/twentyhq/twenty)
+
