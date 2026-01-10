@@ -197,3 +197,13 @@
 
 + [印美贸易谈判停滞 美商务部长：莫迪没给特朗普打电话](https://news.cctv.com/2026/01/10/ARTILISgDdKaARTsMKvnuGFD260110.shtml)
 
++ [全球资产加速去美元化：黄金储备超越美债 美元信用遭遇严重挑战](https://news.cctv.com/2026/01/10/ARTIJ1XDehY0V2WdpjzPeTWR260110.shtml)
+
++ [伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力](https://news.cctv.com/2026/01/10/ARTIViqugR5W0ZUV5OG4IJpx260110.shtml)
+
++ [全球瞭望｜南非专家：国际社会应对美国打击委内瑞拉做出实质性的集体回应](https://news.cctv.com/2026/01/10/ARTIn94vGwjJ43w2OMwXJgtl260110.shtml)
+
++ [警惕复活日本军国主义的危险动向（环球热点）](https://news.cctv.com/2026/01/10/ARTIqDFMXLTS5v4aoRuiBU9I260110.shtml)
+
++ [全球瞭望｜日媒社论：日本政府强军扩武威胁地区和平、损害国计民生](https://news.cctv.com/2026/01/10/ARTISfXJL19NQls4sv4RdVzo260110.shtml)
+
