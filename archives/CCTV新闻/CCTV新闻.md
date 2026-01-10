@@ -181,3 +181,5 @@
 
 + [旅马大熊猫“辰星”“晓月”正式与公众见面](https://news.cctv.com/2026/01/10/ARTInVtspurcShyhZeUC6shq260110.shtml)
 
++ [国际观察｜2026美国消费电子展上的人工智能新趋势](https://news.cctv.com/2026/01/10/ARTInACu6FquntKYmVP2nBz9260110.shtml)
+

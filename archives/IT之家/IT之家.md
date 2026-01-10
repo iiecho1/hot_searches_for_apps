@@ -65,3 +65,9 @@
 
 + [卢伟冰回应小米 2025 年饱受争议：既要保持“创业公司”的进取之心，也要扛起“产业引领者”的责任担当](https://m.ithome.com/html/911823.htm)
 
++ [荣耀 Magic8 Pro Air 手机开启预约：至高 1TB 规格，1 月 19 日发布](https://m.ithome.com/html/911677.htm)
+
++ [全新外观，一汽-大众新车型速腾 S 完成申报](https://m.ithome.com/html/911693.htm)
+
++ [鸿蒙智行尚界 Z7 猎装版车型更多角度谍照曝光，消息称两个版本今年陆续上市](https://m.ithome.com/html/911673.htm)
+
