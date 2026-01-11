@@ -25,3 +25,9 @@
 
 + [2026 款奇瑞冰淇淋 / 小蚂蚁纯电小车上市，指导价 4.39 万元起](https://m.ithome.com/html/912195.htm)
 
++ [美的空界 M5 空调发布：开源鸿蒙系统、海思芯片，预售价 2949 元](https://m.ithome.com/html/912225.htm)
+
++ [遭用户强烈不满后，Nothing OS 系统悄悄移除部分预装广告](https://m.ithome.com/html/912139.htm)
+
++ [今天不用“隐身”展示：我国首款隐身战机歼-20 首飞珍贵影像公开](https://m.ithome.com/html/912217.htm)
+
