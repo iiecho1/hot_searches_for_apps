@@ -193,3 +193,9 @@
 
 + [计算机网络-Linux配置-DNS解析/为什么会出现ping: www.baidu.com: 未知的名称或服务](https://blog.csdn.net/qq_57492774/article/details/149605328)
 
++ [Kafka四部曲之二：核心架构与设计深度解析](https://blog.csdn.net/qq_45295475/article/details/156764471)
+
++ [基于SpringBoot的校园资源共享系统【个性化推荐算法+数据可视化统计】](https://blog.csdn.net/2301_78335941/article/details/156807288)
+
++ [Ubuntu下部署.NetCore WebApi的方法](https://blog.csdn.net/jamenu/article/details/156808251)
+
