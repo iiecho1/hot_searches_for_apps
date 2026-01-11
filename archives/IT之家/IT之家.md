@@ -73,3 +73,13 @@
 
 + [小米澎湃 OS 系统后天起关闭“国铁吉讯”绑定入口，用户需换绑“铁路 12306”](https://m.ithome.com/html/912121.htm)
 
++ [小米 17 Max、vivo X300s、OPPO Find X9s 系列手机被曝 3-4 月发布](https://m.ithome.com/html/912229.htm)
+
++ [我国“南天门计划”正照进现实，军事专家指出前沿技术“实现只是时间问题”](https://m.ithome.com/html/912235.htm)
+
++ [realme 真我 Neo8 参数曝光：骁龙 8 Gen5 处理器、8000mAh 电池、3D 超声波指纹等](https://m.ithome.com/html/912180.htm)
+
++ [华为鸿蒙存量设备 API 版本使用数量情况公布，HarmonyOS 6.0.1 (21) 占比达 91.19%](https://m.ithome.com/html/912221.htm)
+
++ [首款机器人交警，奇瑞墨甲“芜优”智警 R001 在芜湖上岗](https://m.ithome.com/html/912155.htm)
+

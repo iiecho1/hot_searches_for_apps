@@ -191,3 +191,5 @@
 
 + [伊朗逮捕一名为以色列摩萨德工作的外国公民](https://news.cctv.com/2026/01/11/ARTIx2MRDgkOijcW9WfsR4s8260111.shtml)
 
++ [朝中社评论：新军国主义只会给日本带来彻底毁灭](https://news.cctv.com/2026/01/11/ARTIBdLtyJaEj97vOpWEiEBn260111.shtml)
+

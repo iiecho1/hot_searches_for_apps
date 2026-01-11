@@ -167,3 +167,11 @@
 
 + [数据库工程与SQL调优实战：从原理到案例的深度解析](https://blog.csdn.net/Start_mswin/article/details/156761150)
 
++ [用T5微调医疗文档生成](https://blog.csdn.net/jaxzheng/article/details/156738346)
+
++ [网易 UU 远程 2026年1月 新春升级深度测评：免登录破局 + 安全加码 + 运维专属，重新定义远程协助体验](https://blog.csdn.net/2401_86449430/article/details/156799330)
+
++ [Docker 多架构镜像构建方案实施指南](https://blog.csdn.net/weixin_44102162/article/details/156808541)
+
++ [K8S网络和基本命令 【 K8S （二）】](https://blog.csdn.net/hanyi_qwe/article/details/156734038)
+
