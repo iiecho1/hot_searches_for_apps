@@ -163,3 +163,13 @@
 
 + [为“保护”美方所持委石油收入 特朗普宣布进入国家紧急状态](https://news.cctv.com/2026/01/11/ARTIJatQtTXROzcWzorey2wa260111.shtml)
 
++ [金与正：韩国必须就无人机入侵事件作出具体说明](https://news.cctv.com/2026/01/11/ARTIaQLIHLgM1n2jSvnShN4D260111.shtml)
+
++ [美军再次空袭叙利亚境内多个“伊斯兰国”目标](https://news.cctv.com/2026/01/11/ARTIGmc8malFFxsgV2Xy4Ejj260111.shtml)
+
++ [美国务院要求在委内瑞拉的美国公民尽快撤离](https://news.cctv.com/2026/01/11/ARTIj3BrqzLlkNSMXkNyH4EG260111.shtml)
+
++ [美财长：最快将于下周进一步解除对委内瑞拉制裁](https://news.cctv.com/2026/01/11/ARTIiThA0qk6LSJtZe9DNhkY260111.shtml)
+
++ [特朗普：“无论难易”都要得到格陵兰岛](https://news.cctv.com/2026/01/11/ARTIgpMN6uXX1NDWktZAxaFv260111.shtml)
+

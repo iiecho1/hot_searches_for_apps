@@ -133,3 +133,5 @@
 
 + [用FastAPI 后端 和 Vue3 前端写一个博客系统 例](https://blog.csdn.net/PieroPc/article/details/156774014)
 
++ [Kubernetes Pod 详解与Rancher 部署](https://blog.csdn.net/2503_93991036/article/details/156735314)
+
