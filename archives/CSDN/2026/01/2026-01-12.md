@@ -139,3 +139,5 @@
 
 + [【愚公系列】《AI+直播营销》018-直播的选品策略（让普通产品适合直播营销的4个方法）](https://blog.csdn.net/aa2528877987/article/details/156717037)
 
++ [WQS IoT Gateway：企业级开源物联网网关平台](https://blog.csdn.net/weixin_36794508/article/details/156831882)
+
