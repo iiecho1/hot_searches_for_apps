@@ -179,3 +179,13 @@
 
 + [扔掉了本地 IDE，开发部署只要 3 分钟。](https://blog.csdn.net/qq_35725500/article/details/156731474)
 
++ [数据库事务隔离级别与Spring传播行为深度解析](https://blog.csdn.net/sinat_41617212/article/details/156809085)
+
++ [说实话，Gemini 3 Pro 这 5 个学术写作用法，真的被我低估了](https://blog.csdn.net/shi_hong_fei_hei/article/details/156758334)
+
++ [Flutter 框架跨平台鸿蒙开发 —— Row & Column 布局之轴线控制艺术](https://blog.csdn.net/m0_66062719/article/details/156809103)
+
++ [Claude Skills：从生产力神器到安全噩梦？深度剖析其隐藏风险与真实攻击案例](https://blog.csdn.net/qq_60735796/article/details/156801950)
+
++ [把大模型装进自己电脑：Ollama 本地部署大模型完全指南](https://blog.csdn.net/2302_80706750/article/details/156802935)
+
