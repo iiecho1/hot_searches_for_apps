@@ -167,3 +167,5 @@
 
 + [伊朗总统：决心解决好经济困难 骚乱是美以阴谋](https://news.cctv.com/2026/01/12/ARTI9QTggbYrMIpTAN2fWBdF260111.shtml)
 
++ [投资风险高企，缺少政府担保，美企对“接盘”委内瑞拉石油反应冷淡](https://news.cctv.com/2026/01/12/ARTIWA9U7c12IA1MTCAxLTVg260112.shtml)
+

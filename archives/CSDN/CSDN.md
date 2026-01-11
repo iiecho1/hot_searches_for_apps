@@ -141,3 +141,7 @@
 
 + [WQS IoT Gateway：企业级开源物联网网关平台](https://blog.csdn.net/weixin_36794508/article/details/156831882)
 
++ [flutter 框架跨平台鸿蒙开发 —— 避坑指南：Flutter 纯血鸿蒙开发环境配置全图解](https://blog.csdn.net/feng8403000/article/details/156806467)
+
++ [Flutter适配OpenHarmony：打造无缝国际化用户体验的实战指南](https://blog.csdn.net/2401_85571293/article/details/156618939)
+
