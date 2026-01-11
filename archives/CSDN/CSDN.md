@@ -163,3 +163,7 @@
 
 + [Flutter-OH 三方库适配指南：核心文件+实操步骤](https://blog.csdn.net/weixin_45822171/article/details/156737556)
 
++ [脉脉平台深度测评：【AI创作者xAMA】从职场社交到AI创作赋能](https://blog.csdn.net/yhrxh_ymq/article/details/156755882)
+
++ [数据库工程与SQL调优实战：从原理到案例的深度解析](https://blog.csdn.net/Start_mswin/article/details/156761150)
+

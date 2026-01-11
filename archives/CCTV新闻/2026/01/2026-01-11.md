@@ -187,3 +187,7 @@
 
 + [巴基斯坦伊斯兰堡发生可燃气体爆炸 致十余人死伤](https://news.cctv.com/2026/01/11/ARTIvC4CAyxz1CjCBFqFT9ka260111.shtml)
 
++ [墨西哥总统：主张对话与合作 但主权不容谈判](https://news.cctv.com/2026/01/11/ARTIjkhMHRymjA9V7lgzWqpe260111.shtml)
+
++ [伊朗逮捕一名为以色列摩萨德工作的外国公民](https://news.cctv.com/2026/01/11/ARTIx2MRDgkOijcW9WfsR4s8260111.shtml)
+
