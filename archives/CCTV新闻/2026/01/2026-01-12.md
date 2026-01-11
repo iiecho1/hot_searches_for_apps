@@ -165,3 +165,5 @@
 
 + [特朗普被曝正考虑多个干涉伊朗方案](https://news.cctv.com/2026/01/12/ARTIBFTtDbTdQdSeUZvLNTpz260111.shtml)
 
++ [伊朗总统：决心解决好经济困难 骚乱是美以阴谋](https://news.cctv.com/2026/01/12/ARTI9QTggbYrMIpTAN2fWBdF260111.shtml)
+

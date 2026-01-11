@@ -137,3 +137,5 @@
 
 + [Spring Cloud 核心组件精讲：负载均衡深度对比 Spring Cloud LoadBalancer vs Ribbon（原理 + 策略配置 + 性能优化）](https://blog.csdn.net/qq_40303030/article/details/156078159)
 
++ [【愚公系列】《AI+直播营销》018-直播的选品策略（让普通产品适合直播营销的4个方法）](https://blog.csdn.net/aa2528877987/article/details/156717037)
+
