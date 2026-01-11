@@ -145,3 +145,5 @@
 
 + [【Linux运维大神系列】Kubernetes详解3（kubeadm部署k8s1.23高可用集群）](https://blog.csdn.net/2403_87491401/article/details/156799683)
 
++ [不用公网 IP，把内网服务安全发布到公网：ZeroNews 快速上手](https://blog.csdn.net/qq_60735796/article/details/156651192)
+
