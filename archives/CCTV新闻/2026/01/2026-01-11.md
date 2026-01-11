@@ -173,3 +173,11 @@
 
 + [特朗普：“无论难易”都要得到格陵兰岛](https://news.cctv.com/2026/01/11/ARTIgpMN6uXX1NDWktZAxaFv260111.shtml)
 
++ [否认强征“慰安妇”是挑战国际基本共识](https://news.cctv.com/2026/01/11/ARTIBKd3FmOyGxHtnsDJwtuj260111.shtml)
+
++ [特朗普被曝已听取军事打击伊朗方案汇报](https://news.cctv.com/2026/01/11/ARTIQ3AVvGZbjII6roBJUMxK260111.shtml)
+
++ [韩总统：若民间无人机“入朝”属实 将是严重犯罪](https://news.cctv.com/2026/01/11/ARTIOXiecWobve15x0uTXJAX260111.shtml)
+
++ [总台现场直击丨伊朗部分网站已恢复使用 首都生活物资供应充足](https://news.cctv.com/2026/01/11/ARTIOV7aL4wJTxhff22WHPf7260111.shtml)
+

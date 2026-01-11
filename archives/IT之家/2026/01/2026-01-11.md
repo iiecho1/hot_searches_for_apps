@@ -49,3 +49,9 @@
 
 + [荣耀 X80 系列千元档新机曝光：超 10000mAh 大电池，骁龙 7 系芯片 + 6.81 英寸 1.5K LTPS 直屏](https://m.ithome.com/html/912062.htm)
 
++ [赵长江转发华为余承东微博，称鸿蒙智行首款旗舰 MPV 智界 V9“保守估计三年内没对手”](https://m.ithome.com/html/911820.htm)
+
++ [消息称英伟达无限期搁置发布 RTX 50 SUPER 系列显卡](https://m.ithome.com/html/911828.htm)
+
++ [卢伟冰回应小米 2025 年饱受争议：既要保持“创业公司”的进取之心，也要扛起“产业引领者”的责任担当](https://m.ithome.com/html/911823.htm)
+
