@@ -163,3 +163,5 @@
 
 + [埃及新一届众议院选举完成](https://news.cctv.com/2026/01/12/ARTIjMKrtlSNB4IecWY1laCz260111.shtml)
 
++ [特朗普被曝正考虑多个干涉伊朗方案](https://news.cctv.com/2026/01/12/ARTIBFTtDbTdQdSeUZvLNTpz260111.shtml)
+
