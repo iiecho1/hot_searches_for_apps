@@ -83,3 +83,9 @@
 
 + [首款机器人交警，奇瑞墨甲“芜优”智警 R001 在芜湖上岗](https://m.ithome.com/html/912155.htm)
 
++ [超越人类：《英雄联盟》神秘账号两天 92% 胜率登顶韩服，被玩家质疑是马斯克 AI 训练](https://m.ithome.com/html/912282.htm)
+
++ [雷军：会坚持辟谣，让更多人了解小米](https://m.ithome.com/html/912288.htm)
+
++ [鸿蒙智行尚界 Z7 轿跑“惊喜”曝光，消息称新车拥有 Z7 / Z7T 双版本](https://m.ithome.com/html/912279.htm)
+

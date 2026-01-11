@@ -199,3 +199,7 @@
 
 + [全球瞭望｜塞内加尔媒体：美国单边行径对国际秩序构成严峻挑战](https://news.cctv.com/2026/01/11/ARTISSfshOudeDaHsgboIaYj260111.shtml)
 
++ [特朗普威胁古巴尽快同美国“达成协议”](https://news.cctv.com/2026/01/11/ARTIrmjGPYsSCVk0D4QSbmxF260111.shtml)
+
++ [特朗普称将不会再有石油或资金流入古巴](https://news.cctv.com/2026/01/11/ARTIg9G2Hwffoqa4rj0FU2Kg260111.shtml)
+
