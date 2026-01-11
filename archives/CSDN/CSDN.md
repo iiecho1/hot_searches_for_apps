@@ -159,3 +159,7 @@
 
 + [2026年科技趋势：AI与云原生引领未来](https://blog.csdn.net/2501_92862577/article/details/156805398)
 
++ [在iCloud、Onedrive等云文件夹中开启超级右键菜单](https://blog.csdn.net/weixin_44624117/article/details/156770571)
+
++ [Flutter-OH 三方库适配指南：核心文件+实操步骤](https://blog.csdn.net/weixin_45822171/article/details/156737556)
+

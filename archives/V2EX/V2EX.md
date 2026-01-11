@@ -33,3 +33,5 @@
 
 + [坐标上海，想要认识新朋友 [情绪非常不稳定版]](https://www.v2ex.com/t/1184487)
 
++ [大家 Vibe Coding 等待时间一般干什么？](https://www.v2ex.com/t/1184584)
+

@@ -55,3 +55,19 @@
 
 + [卢伟冰回应小米 2025 年饱受争议：既要保持“创业公司”的进取之心，也要扛起“产业引领者”的责任担当](https://m.ithome.com/html/911823.htm)
 
++ [2026 款比亚迪宋 Pro DM-i 新车发布：220km 纯电续航，购置税补贴后 11.98 万元起](https://m.ithome.com/html/912189.htm)
+
++ [2025 年底新旗舰单品激活百万机型曝光，含小米 17 Pro 系列、华为 Mate 80](https://m.ithome.com/html/912206.htm)
+
++ [独居安全 App“死了么”引热议，开发者回应称“一二线城市年轻人是服务重点”](https://m.ithome.com/html/912214.htm)
+
++ [破 3000 万台！报告称三星 Galaxy S25 系列打破安卓手机魔咒](https://m.ithome.com/html/912136.htm)
+
++ [2026 款奇瑞冰淇淋 / 小蚂蚁纯电小车上市，指导价 4.39 万元起](https://m.ithome.com/html/912195.htm)
+
++ [美的空界 M5 空调发布：开源鸿蒙系统、海思芯片，预售价 2949 元](https://m.ithome.com/html/912225.htm)
+
++ [遭用户强烈不满后，Nothing OS 系统悄悄移除部分预装广告](https://m.ithome.com/html/912139.htm)
+
++ [今天不用“隐身”展示：我国首款隐身战机歼-20 首飞珍贵影像公开](https://m.ithome.com/html/912217.htm)
+
