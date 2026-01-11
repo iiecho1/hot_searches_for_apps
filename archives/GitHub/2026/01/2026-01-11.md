@@ -27,3 +27,15 @@
 
 + [twentyhq/twenty](https://github.com/twentyhq/twenty)
 
++ [anomalyco/opencode](https://github.com/anomalyco/opencode)
+
++ [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
+
++ [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+
++ [makeplane/plane](https://github.com/makeplane/plane)
+
++ [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
