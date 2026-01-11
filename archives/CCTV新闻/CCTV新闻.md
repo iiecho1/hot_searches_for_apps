@@ -195,3 +195,7 @@
 
 + [心相近｜青春接力 中非同行向未来](https://news.cctv.com/2026/01/11/ARTIqjDJfEemhatbc8DU7oaU260111.shtml)
 
++ [民众在英国伦敦唐宁街抗议 谴责美国对委霸权行径](https://news.cctv.com/2026/01/11/ARTILzlr8hzthQaOpj3cnRpT260111.shtml)
+
++ [全球瞭望｜塞内加尔媒体：美国单边行径对国际秩序构成严峻挑战](https://news.cctv.com/2026/01/11/ARTISSfshOudeDaHsgboIaYj260111.shtml)
+

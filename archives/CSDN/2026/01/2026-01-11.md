@@ -189,3 +189,7 @@
 
 + [把大模型装进自己电脑：Ollama 本地部署大模型完全指南](https://blog.csdn.net/2302_80706750/article/details/156802935)
 
++ [婚纱摄影网站|基于ssm + vue婚纱摄影网站系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/156791793)
+
++ [计算机网络-Linux配置-DNS解析/为什么会出现ping: www.baidu.com: 未知的名称或服务](https://blog.csdn.net/qq_57492774/article/details/149605328)
+
