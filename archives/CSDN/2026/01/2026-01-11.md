@@ -175,3 +175,7 @@
 
 + [K8S网络和基本命令 【 K8S （二）】](https://blog.csdn.net/hanyi_qwe/article/details/156734038)
 
++ [【愚公系列】《AI+直播营销》018-直播的选品策略（让普通产品适合直播营销的4个方法）](https://blog.csdn.net/aa2528877987/article/details/156717037)
+
++ [扔掉了本地 IDE，开发部署只要 3 分钟。](https://blog.csdn.net/qq_35725500/article/details/156731474)
+

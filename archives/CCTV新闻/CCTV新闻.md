@@ -193,3 +193,5 @@
 
 + [朝中社评论：新军国主义只会给日本带来彻底毁灭](https://news.cctv.com/2026/01/11/ARTIBdLtyJaEj97vOpWEiEBn260111.shtml)
 
++ [心相近｜青春接力 中非同行向未来](https://news.cctv.com/2026/01/11/ARTIqjDJfEemhatbc8DU7oaU260111.shtml)
+
