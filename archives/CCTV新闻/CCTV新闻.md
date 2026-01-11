@@ -181,3 +181,9 @@
 
 + [总台现场直击丨伊朗部分网站已恢复使用 首都生活物资供应充足](https://news.cctv.com/2026/01/11/ARTIOV7aL4wJTxhff22WHPf7260111.shtml)
 
++ [澳大利亚维多利亚州山火过火面积已达35万公顷](https://news.cctv.com/2026/01/11/ARTIqj38wfuun7yhRVQ89ymf260111.shtml)
+
++ [韩国就无人机事件再表态：无意挑衅或刺激朝鲜](https://news.cctv.com/2026/01/11/ARTIZQKiH45j7fUmInGbdtnI260111.shtml)
+
++ [巴基斯坦伊斯兰堡发生可燃气体爆炸 致十余人死伤](https://news.cctv.com/2026/01/11/ARTIvC4CAyxz1CjCBFqFT9ka260111.shtml)
+

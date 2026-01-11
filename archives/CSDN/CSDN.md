@@ -155,3 +155,7 @@
 
 + [GitHub 托管 API 地址配置文件：实现零成本云配置托管](https://blog.csdn.net/hih30250/article/details/156771070)
 
++ [参加2025高德空间智能开发者大赛全国总决赛感悟-坚定空间智能之路](https://blog.csdn.net/yelangkingwuzuhu/article/details/156772696)
+
++ [2026年科技趋势：AI与云原生引领未来](https://blog.csdn.net/2501_92862577/article/details/156805398)
+
