@@ -31,3 +31,19 @@
 
 + [今天不用“隐身”展示：我国首款隐身战机歼-20 首飞珍贵影像公开](https://m.ithome.com/html/912217.htm)
 
++ [超越人类：《英雄联盟》神秘账号两天 92% 胜率登顶韩服，被玩家质疑是马斯克 AI 训练](https://m.ithome.com/html/912282.htm)
+
++ [小米 17 Max、vivo X300s、OPPO Find X9s 系列手机被曝 3-4 月发布](https://m.ithome.com/html/912229.htm)
+
++ [我国“南天门计划”正照进现实，军事专家指出前沿技术“实现只是时间问题”](https://m.ithome.com/html/912235.htm)
+
++ [雷军：会坚持辟谣，让更多人了解小米](https://m.ithome.com/html/912288.htm)
+
++ [华为鸿蒙存量设备 API 版本使用数量情况公布，HarmonyOS 6.0.1 (21) 占比达 91.19%](https://m.ithome.com/html/912221.htm)
+
++ [鸿蒙智行尚界 Z7 轿跑“惊喜”曝光，消息称新车拥有 Z7 / Z7T 双版本](https://m.ithome.com/html/912279.htm)
+
++ [三星 Galaxy S26 Ultra 国行版现身工信部，支持 eSIM](https://m.ithome.com/html/912298.htm)
+
++ [独居安全 App“死了么”团队回应近期热度：深感荣幸、由衷感激，接下来主要精力将投入产品打磨](https://m.ithome.com/html/912281.htm)
+

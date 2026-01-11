@@ -109,3 +109,23 @@
 
 + [2026年科技趋势：AI与云原生引领未来](https://blog.csdn.net/2501_92862577/article/details/156805398)
 
++ [当CNN遇见Transformer：混合模型的特征可视化与融合攻略](https://blog.csdn.net/2301_81152266/article/details/156770598)
+
++ [ CNN 卷积神经网络 （MNIST 手写数字数据集的分类）](https://blog.csdn.net/lyx2870657588/article/details/156771724)
+
++ [LLM 中的自回归模型与非自回归模型：GPT 和 BERT 的区别](https://blog.csdn.net/qq_52395343/article/details/156760274)
+
++ [一文搞懂 Linux 序列化 / 反序列化：原理分析与自定义协议实现详解](https://blog.csdn.net/2301_80236968/article/details/156605762)
+
++ [Flutter 框架跨平台鸿蒙开发 —— Align 控件之精准定位美学](https://blog.csdn.net/m0_66062719/article/details/156809035)
+
++ [Flutter / RN / iOS，在长期维护下的性能差异本质](https://blog.csdn.net/qq_36863796/article/details/156807188)
+
++ [【linux】2：linux权限的概念](https://blog.csdn.net/qq_62473190/article/details/156462182)
+
++ [IP网络协议](https://blog.csdn.net/bit_pan/article/details/156776878)
+
++ [Flutter 框架跨平台鸿蒙开发 —— InkWell 控件之水波纹交互美学](https://blog.csdn.net/feng8403000/article/details/156809786)
+
++ [Windows 11 关闭 VBS 的几种方法](https://blog.csdn.net/weixin_43113691/article/details/156810856)
+
