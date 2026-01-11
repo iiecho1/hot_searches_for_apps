@@ -147,3 +147,11 @@
 
 + [不用公网 IP，把内网服务安全发布到公网：ZeroNews 快速上手](https://blog.csdn.net/qq_60735796/article/details/156651192)
 
++ [虚竹哥与机械工业出版社免费送AI书活动第十三期《实战扣子空间：场景智能化高效实现》](https://blog.csdn.net/shi_hong_fei_hei/article/details/156772236)
+
++ [基于 Angular UI 的 C# 桌面应用](https://blog.csdn.net/TeamDev/article/details/156769894)
+
++ [《Linux 核心 IO 模型深析（中篇）：探索Cmake与多路转接的高效实现poll》](https://blog.csdn.net/Dovis5884/article/details/155806270)
+
++ [GitHub 托管 API 地址配置文件：实现零成本云配置托管](https://blog.csdn.net/hih30250/article/details/156771070)
+
