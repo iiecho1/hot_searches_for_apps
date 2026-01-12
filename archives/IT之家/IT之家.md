@@ -47,3 +47,19 @@
 
 + [独居安全 App“死了么”团队回应近期热度：深感荣幸、由衷感激，接下来主要精力将投入产品打磨](https://m.ithome.com/html/912281.htm)
 
++ [被砍的小米 17 Air 手机工程机曝光：横向双摄设计、6.59 英寸面板、5.5mm 厚度机身](https://m.ithome.com/html/912356.htm)
+
++ [印度拟要求智能手机制造商向政府共享源代码，遭苹果三星等反对](https://m.ithome.com/html/912304.htm)
+
++ [新款日产 Z 亮相：前脸微调、新增云龙绿车色](https://m.ithome.com/html/912325.htm)
+
++ [2025 年双十一电商综合退货率达 61.5%，服装直播领域超 8 成](https://m.ithome.com/html/912332.htm)
+
++ [荣耀 Magic 8 Pro Air 真机曝光：天玑 9500 处理器、5500mAh 电池，1 月 19 日发布](https://m.ithome.com/html/912348.htm)
+
++ [数字人民币 App 上线“碳普惠”服务，碳积分可换钱](https://m.ithome.com/html/912340.htm)
+
++ [引望回应“今年下半年上市”传闻：假消息](https://m.ithome.com/html/912292.htm)
+
++ [华住会回应“AI 照片在摄影比赛夺冠”：不符合原创性规则，已取消成绩](https://m.ithome.com/html/912336.htm)
+
