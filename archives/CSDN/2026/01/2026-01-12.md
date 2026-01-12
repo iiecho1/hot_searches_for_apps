@@ -221,3 +221,11 @@
 
 + [Flutter跨平台开发实战: 鸿蒙与离散数学系列：命题逻辑与响应式引擎](https://blog.csdn.net/Math_teacher_fan/article/details/156868139)
 
++ [Flutter跨平台开发实战: 鸿蒙快消品系列：库存动态与效期预警可视化](https://blog.csdn.net/ai_lingshi/article/details/156871028)
+
++ [物理信息神经网络（PINN）：AI与物理定律的融合新范式](https://blog.csdn.net/qq_56999332/article/details/156865515)
+
++ [【自然语言处理】应用07：自然语言推断：微调BERT](https://blog.csdn.net/Morse_Chen/article/details/156836948)
+
++ [深度研究Agent架构解析：4种Agent架构介绍及实用Prompt模板](https://blog.csdn.net/m0_46510245/article/details/156835341)
+
