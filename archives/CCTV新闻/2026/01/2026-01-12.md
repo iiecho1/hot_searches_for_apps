@@ -171,3 +171,9 @@
 
 + [消息人士称美国联邦检察官已对美联储主席展开刑事调查](https://news.cctv.com/2026/01/12/ARTIPzmol4b1tuBv9lUrwCDZ260112.shtml)
 
++ [俄罗斯外交部：“绑架”普京是痴人说梦](https://news.cctv.com/2026/01/12/ARTIj3KIW8Phj8BR2UiwViqp260112.shtml)
+
++ [委内瑞拉之后是格陵兰 欧洲是否再次为美国“让步”？](https://news.cctv.com/2026/01/12/ARTIUqoKo9MxS7BQZ73EF6jK260112.shtml)
+
++ [“完善全球治理的重要参与者、坚定行动派”——访瑞士日内瓦外交与国际关系学院教授德扎亚斯](https://news.cctv.com/2026/01/12/ARTIcNuU4StV2jG5utKcHH61260112.shtml)
+

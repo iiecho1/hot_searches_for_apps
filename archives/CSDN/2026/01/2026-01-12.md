@@ -145,3 +145,15 @@
 
 + [Flutter适配OpenHarmony：打造无缝国际化用户体验的实战指南](https://blog.csdn.net/2401_85571293/article/details/156618939)
 
++ [❿⁄₇ ⟦ OSCP ⬖ 研记 ⟧ 密码攻击 ➱ 提取密码管理器KeePass主密码（下）](https://blog.csdn.net/weixin_42115157/article/details/156833054)
+
++ [Grok TaskPro：让 AI 成为你的 24 小时智能助理](https://blog.csdn.net/xianyu120/article/details/156835434)
+
++ [Linux系统编程：深入理解读写锁的原理与应用](https://blog.csdn.net/2503_92624912/article/details/156820221)
+
++ [Spring 循环依赖](https://blog.csdn.net/JH_Zhai/article/details/156808338)
+
++ [【运维实战】企业级Samba文件共享服务 · 一键自动化部署方案 (适配银河麒麟 V10 /openEuler /CentOS)](https://blog.csdn.net/zll56281688/article/details/156799603)
+
++ [华为eNSP模拟器综合实验之- HRP（华为冗余协议）双机热备](https://blog.csdn.net/weixin_41750601/article/details/156761654)
+
