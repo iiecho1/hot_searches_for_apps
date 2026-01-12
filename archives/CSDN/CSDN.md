@@ -157,3 +157,9 @@
 
 + [华为eNSP模拟器综合实验之- HRP（华为冗余协议）双机热备](https://blog.csdn.net/weixin_41750601/article/details/156761654)
 
++ [【大模型 】API 对接指南：OpenAI/Claude/LLaMA 3 调用技巧](https://blog.csdn.net/2401_86326742/article/details/156836192)
+
++ [Gateway - 内置 Filter 使用指南：AddRequestHeader、RewritePath 等实战](https://blog.csdn.net/qq_41187124/article/details/156488493)
+
++ [密码学系列 - 零知识证明(ZKP) - Schnorr协议](https://blog.csdn.net/wcc19840827/article/details/156796193)
+

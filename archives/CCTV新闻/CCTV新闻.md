@@ -177,3 +177,17 @@
 
 + [“完善全球治理的重要参与者、坚定行动派”——访瑞士日内瓦外交与国际关系学院教授德扎亚斯](https://news.cctv.com/2026/01/12/ARTIcNuU4StV2jG5utKcHH61260112.shtml)
 
++ [美总统车队在佛罗里达州因“可疑物体”改道](https://news.cctv.com/2026/01/12/ARTIFtfRAJw3hMeGuE9MOC6T260112.shtml)
+
++ [伊朗已有111名安全人员在近期骚乱中丧生](https://news.cctv.com/2026/01/12/ARTIboRmKvN4gYaYjqLNUcUt260112.shtml)
+
++ [伊朗政府宣布全国哀悼三天](https://news.cctv.com/2026/01/12/ARTIhqqUQMV3sxoaykS2GmFL260112.shtml)
+
++ [伊朗在北呼罗珊省逮捕两名摩萨德特工](https://news.cctv.com/2026/01/12/ARTIRkgb9LVtrH8G4j75rhSW260112.shtml)
+
++ [再访美军空袭后的拉瓜伊拉港](https://photo.cctv.com/2026/01/12/PHOAJcmYptPDvcZOOCzjawmb260112.shtml)
+
++ [美联储主席回应刑事指控威胁：都是借口](https://news.cctv.com/2026/01/12/ARTI6E00MhNRegGMHTbWIdA1260112.shtml)
+
++ [“非中友谊在共同迈向现代化的进程中历久弥坚”](https://news.cctv.com/2026/01/12/ARTIiJIcIyNjtg4RZPBsGWwI260112.shtml)
+
