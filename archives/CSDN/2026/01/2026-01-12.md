@@ -215,3 +215,9 @@
 
 + [HTTP协议演进之路：从1.0到3.0的技术革命](https://blog.csdn.net/lilinhai548/article/details/156855148)
 
++ [华为智慧物流落地的底层逻辑：从样板工程到企业级数据治理体系的全景解析](https://blog.csdn.net/weixin_52908342/article/details/156864462)
+
++ [LLM - 从 Prompt 到 Skills](https://blog.csdn.net/yangshangwei/article/details/156836796)
+
++ [Flutter跨平台开发实战: 鸿蒙与离散数学系列：命题逻辑与响应式引擎](https://blog.csdn.net/Math_teacher_fan/article/details/156868139)
+
