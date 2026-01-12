@@ -169,3 +169,5 @@
 
 + [投资风险高企，缺少政府担保，美企对“接盘”委内瑞拉石油反应冷淡](https://news.cctv.com/2026/01/12/ARTIWA9U7c12IA1MTCAxLTVg260112.shtml)
 
++ [消息人士称美国联邦检察官已对美联储主席展开刑事调查](https://news.cctv.com/2026/01/12/ARTIPzmol4b1tuBv9lUrwCDZ260112.shtml)
+
