@@ -181,3 +181,11 @@
 
 + [2026网络安全法修订落地：企业六类法定强制评估合规指南（附协同实施路径）](https://blog.csdn.net/junge_sys/article/details/156771902)
 
++ [KingbaseES数据库：ksql 命令行从建表到删表实战（含避坑指南）](https://blog.csdn.net/weixin_43151418/article/details/154063420)
+
++ [华为智慧物流实践：数字化转型的底层逻辑与数据准则](https://blog.csdn.net/weixin_43178406/article/details/156855614)
+
++ [【verilog】如何一小时成为verilog高手（并非](https://blog.csdn.net/Genevieve_xiao/article/details/156737036)
+
++ [从接口选型到体系结构认知——谈 CPU–FPGA–DSP 异构处理系统与同构冗余设计](https://blog.csdn.net/2403_83044722/article/details/156807807)
+
