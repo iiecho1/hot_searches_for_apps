@@ -163,3 +163,11 @@
 
 + [泽连斯基称乌方推进安全保障文件审议等工作](https://news.cctv.com/2026/01/13/ARTIMxv2QyrkLNoEXlMjzPqE260113.shtml)
 
++ [伊朗塔斯尼姆通讯社指责美国查封其网络域名](https://news.cctv.com/2026/01/13/ARTIY8Aw68FxcjNBw2NYhgFk260113.shtml)
+
++ [哈梅内伊：伊朗人民粉碎境外敌人实施的阴谋](https://news.cctv.com/2026/01/13/ARTIpAXpswUZC7AeaPGmDJG6260113.shtml)
+
++ [索马里宣布终止与阿联酋的所有协议](https://news.cctv.com/2026/01/13/ARTIzjH2F7jAUOz9HJ8SEvFf260113.shtml)
+
++ [苏丹东南部遭无人机袭击 造成数十人伤亡](https://news.cctv.com/2026/01/13/ARTIYCW2IVIXnRtebKGjQxtB260113.shtml)
+
