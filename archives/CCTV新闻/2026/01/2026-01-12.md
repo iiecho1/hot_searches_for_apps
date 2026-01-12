@@ -199,3 +199,5 @@
 
 + [马来西亚一私立大学校园发生爆炸 已致1死9伤](https://news.cctv.com/2026/01/12/ARTIZFEvosrWLDDHCGdpiWjQ260112.shtml)
 
++ [伊朗外长说伊朗安全部队已控制全国局势](https://news.cctv.com/2026/01/12/ARTIdOTqFYF4cyZdczYKBxfx260112.shtml)
+
