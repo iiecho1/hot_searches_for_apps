@@ -197,3 +197,15 @@
 
 + [Microsoft Edge WebView2 Runtime（运行库）快速部署 + 调试指南（精简实用、适配开发 + 用户双场景）](https://blog.csdn.net/weixin_39005140/article/details/156808249)
 
++ [QT_c++和C#工业MES上位机9套源码 清单： 1）QT5(WY_DJ)智能点胶系列](https://blog.csdn.net/2504_94292180/article/details/156859741)
+
++ [SJA1000 CAN总线控制器Verilog代码及三段式状态机实现（含中文注释与文档说明）](https://blog.csdn.net/2504_94301232/article/details/156859504)
+
++ [探究TOON的价值边界：比JSON更优的大模型友好数据格式？](https://blog.csdn.net/RenGJ010617/article/details/156650496)
+
++ [主题公园VR沉浸式体验稳定性测试：软件测试从业者的专业指南](https://blog.csdn.net/2501_94438352/article/details/156541261)
+
++ [后端开发对系统安全应该做点什么](https://blog.csdn.net/qq_36154832/article/details/156805131)
+
++ [彻底解决 Google Gemini 报错：异常流量与 IP 地址冲突排查指南](https://blog.csdn.net/2402_84408069/article/details/156845015)
+
