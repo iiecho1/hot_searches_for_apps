@@ -129,3 +129,5 @@
 
 + [3.3 DockerCompose（快速部署）](https://blog.csdn.net/The_Lun/article/details/156836084)
 
++ [AFM | 分布式光纤感知赋能水下智能柔顺抓取](https://blog.csdn.net/weixin_44887311/article/details/156802173)
+
