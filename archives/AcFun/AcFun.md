@@ -87,3 +87,5 @@
 
 + [奈须蘑菇，你Type-Moon的什么时候似啊](https://m.acfun.cn/v/?ac=48182961)
 
++ [《命运-奇异赝品》 - 第二集](https://m.acfun.cn/v/?ac=48182316)
+
