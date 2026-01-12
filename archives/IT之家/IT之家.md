@@ -25,3 +25,17 @@
 
 + [追觅 CEO 俞浩放言将打造人类首个百万亿美金公司生态，自比黄仁勋、马斯克](https://m.ithome.com/html/912431.htm)
 
++ [工信部部长李乐成：装光刻胶的玻璃瓶已在产线上试用，反应很好](https://m.ithome.com/html/912571.htm)
+
++ [荣耀 Magic8 Pro Air 真机曝光：4 种外观配色、重仅 155g](https://m.ithome.com/html/912450.htm)
+
++ [马斯克 3 小时高能量访谈，全是“暴论”](https://m.ithome.com/html/912595.htm)
+
++ [70 万以上超豪华轿车 12 月销量出炉：尊界 S800 交付 4376 台，接近迈巴赫 S 级 4 倍](https://m.ithome.com/html/912534.htm)
+
++ [婚礼电子请柬“访客记录”付费可看：专家称侵犯个人信息权利，多平台回应](https://m.ithome.com/html/912365.htm)
+
++ [Pro 单品激活百万：卢伟冰称 17 系列是小米数字史上最畅销的产品](https://m.ithome.com/html/912492.htm)
+
++ [消息称某厂被砍掉的 Air 工程机搭载 6.59 英寸中屏、骁龙 8 Elite Gen 5 芯片，预计为小米 17 Air](https://m.ithome.com/html/912548.htm)
+

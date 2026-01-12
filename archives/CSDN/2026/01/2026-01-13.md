@@ -101,3 +101,9 @@
 
 + [主题公园VR沉浸式体验稳定性测试：软件测试从业者的专业指南](https://blog.csdn.net/2501_94438352/article/details/156541261)
 
++ [2026年01月09日最热门的开源项目(Github)](https://blog.csdn.net/yao1500/article/details/156775973)
+
++ [LLaMA-Factory微调多模态大模型Qwen3-VL](https://blog.csdn.net/guyuealian/article/details/156157608)
+
++ [注意力的本质：信息加权而已](https://blog.csdn.net/rmysjm/article/details/156796084)
+
