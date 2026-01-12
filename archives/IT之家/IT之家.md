@@ -39,3 +39,15 @@
 
 + [消息称某厂被砍掉的 Air 工程机搭载 6.59 英寸中屏、骁龙 8 Elite Gen 5 芯片，预计为小米 17 Air](https://m.ithome.com/html/912548.htm)
 
++ [超越人类：《英雄联盟》神秘账号两天 92% 胜率登顶韩服，被玩家质疑是马斯克 AI 训练](https://m.ithome.com/html/912282.htm)
+
++ [雷军：会坚持辟谣，让更多人了解小米](https://m.ithome.com/html/912288.htm)
+
++ [印度拟要求智能手机制造商向政府共享源代码，遭苹果三星等反对](https://m.ithome.com/html/912304.htm)
+
++ [鸿蒙智行尚界 Z7 轿跑“惊喜”曝光，消息称新车拥有 Z7 / Z7T 双版本](https://m.ithome.com/html/912279.htm)
+
++ [三星 Galaxy S26 Ultra 国行版现身工信部，支持 eSIM](https://m.ithome.com/html/912298.htm)
+
++ [引望回应“今年下半年上市”传闻：假消息](https://m.ithome.com/html/912292.htm)
+
