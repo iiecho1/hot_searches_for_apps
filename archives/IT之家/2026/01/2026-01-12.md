@@ -63,3 +63,15 @@
 
 + [华住会回应“AI 照片在摄影比赛夺冠”：不符合原创性规则，已取消成绩](https://m.ithome.com/html/912336.htm)
 
++ [小米 17 Pro 系列背屏支持查看股票行情：升级至澎湃 Hyper OS 3.0.40.0 即可](https://m.ithome.com/html/912384.htm)
+
++ [比亚迪全新车型“海豹 08”谍照曝光，官方曾宣布今年 Q1 推出](https://m.ithome.com/html/912440.htm)
+
++ [存储芯片价格飙升，消息称谷歌、微软等美科技巨头派团队赴韩抢购 DRAM](https://m.ithome.com/html/912338.htm)
+
++ [纯电续航 175 公里，吉利银河 A7 长续航版申报](https://m.ithome.com/html/912321.htm)
+
++ [气场拉满：泰国改装厂让长城坦克 300“变身”Brabus G63](https://m.ithome.com/html/912319.htm)
+
++ [追觅 CEO 俞浩放言将打造人类首个百万亿美金公司生态，自比黄仁勋、马斯克](https://m.ithome.com/html/912431.htm)
+
