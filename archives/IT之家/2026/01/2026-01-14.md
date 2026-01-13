@@ -41,3 +41,9 @@
 
 + [小米潘九堂回应“友商评估 Pro Max 机型”传闻：对标是常见商业策略，苹果、谷歌等巨头也是大量买 + 抄](https://m.ithome.com/html/912880.htm)
 
++ [小米胡馨心确认：REDMI Turbo5 系列手机“能吃上国补”](https://m.ithome.com/html/912899.htm)
+
++ [迟到了 16 年，利比亚商人收到 2010 年订购的一批诺基亚手机](https://m.ithome.com/html/912968.htm)
+
++ [红魔产品经理姜超吐槽手机行业设计风气“太离谱”：千篇一律，审美倒退](https://m.ithome.com/html/912920.htm)
+

@@ -107,3 +107,19 @@
 
 + [Jenkins CI/CD 平台详解](https://blog.csdn.net/weixin_48334661/article/details/156873409)
 
++ [SpringBoot：自动配置原理](https://blog.csdn.net/2403_89732016/article/details/156871480)
+
++ [【无人机追踪】基于Dubin和候选集的无人机UAV集群协同攻击目标的Matlab仿真程序，围绕无人机的目标搜索、冲突避免、联盟组建和任务执行展开考虑能和](https://blog.csdn.net/qq_59747472/article/details/156835023)
+
++ [目前好用的AI Idea工具](https://blog.csdn.net/weixin_48053866/article/details/156856294)
+
++ [构建自己的AI编程助手：基于RAG的上下文感知实现方案](https://blog.csdn.net/m0_46510245/article/details/156872973)
+
++ [【小白无痛】CLIP 多模态模型基石：从原理图解到 PyTorch 代码逐行复现](https://blog.csdn.net/xux12345_/article/details/156871405)
+
++ [分布式事务解决方案（二） 消息队列实现最终一致性](https://blog.csdn.net/sinat_41617212/article/details/156912287)
+
++ [深入理解 React 中的高阶组件（HOC）](https://blog.csdn.net/weixin_42554191/article/details/156641455)
+
++ [【K-Means深度探索（二）】K值之谜：肘部法则与轮廓系数，如何选出你的最佳K？](https://blog.csdn.net/wudu_123456/article/details/156913866)
+

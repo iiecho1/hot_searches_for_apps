@@ -161,3 +161,19 @@
 
 + [特朗普被曝已听取军事打击伊朗方案汇报](https://news.cctv.com/2026/01/11/ARTIQ3AVvGZbjII6roBJUMxK260111.shtml)
 
++ [以色列宣布退出多家联合国机构 称存在“反以偏见”](https://news.cctv.com/2026/01/14/ARTIJA9xI91BDeiHVmXm7cNf260114.shtml)
+
++ [伊朗称逮捕297名与美以有关联的骚乱分子](https://news.cctv.com/2026/01/14/ARTIFDYQKtTp60mr4eno2EzC260114.shtml)
+
++ [美国牵头在卡塔尔设立中东防空联合防御作战协调中心](https://news.cctv.com/2026/01/14/ARTI9fqrdxWLvstilOBr4uMp260114.shtml)
+
++ [乌克兰最高拉达未通过新防长及能源部长任命草案](https://news.cctv.com/2026/01/14/ARTIzWsROQXKHg2u6FtRWMLz260114.shtml)
+
++ [特朗普称已取消所有与伊朗官员的会谈](https://news.cctv.com/2026/01/14/ARTIf02lJRxl961oFlO5v02x260114.shtml)
+
++ [伊朗国际长途电话服务恢复](https://news.cctv.com/2026/01/14/ARTIkkegIUgdt6SFXxyTlEBV260114.shtml)
+
++ [格陵兰岛重申不想被美国拥有或控制](https://news.cctv.com/2026/01/14/ARTIqQDh6GBYq40RN6GUwvzy260114.shtml)
+
++ [刚果（金）东部山体滑坡已致13人死亡 约40人失踪](https://news.cctv.com/2026/01/14/ARTIry93Lc8k5CwGDpFYVP4Z260114.shtml)
+
