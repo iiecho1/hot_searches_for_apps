@@ -165,3 +165,9 @@
 
 + [Flutter跨平台开发实战：鸿蒙循环交互艺术系列-无限加载：分页逻辑与循环骨架屏设计](https://blog.csdn.net/m0_66062719/article/details/156872619)
 
++ [【花雕学编程】Arduino BLDC 之卡尔曼滤波实现无人机姿态解算](https://blog.csdn.net/weixin_41659040/article/details/156870666)
+
++ [【开源鸿蒙跨平台开发先锋训练营】Day2 在flutter创建鸿蒙跨平台项目并将代码提交至AtomGit平台自建公开仓库全流程](https://blog.csdn.net/qq_33247427/article/details/156892280)
+
++ [Spring Boot 构建 SaaS 多租户架构](https://blog.csdn.net/czlczl20020925/article/details/156865909)
+

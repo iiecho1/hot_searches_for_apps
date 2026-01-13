@@ -201,3 +201,7 @@
 
 + [美媒：2026年中国仍将是全球企业的“战略高地”](https://news.cctv.com/2026/01/13/ARTI6If8BWGt6fvEz1L5CTKM260113.shtml)
 
++ [菲律宾垃圾填埋场坍塌事故死亡人数上升至12人](https://news.cctv.com/2026/01/13/ARTIH6JfN4RqWqn83nnZdAsY260113.shtml)
+
++ [高市早苗表达将在23日解散众议院提前大选的意向](https://news.cctv.com/2026/01/13/ARTIphfnOhl9QwHvnObJnXi3260113.shtml)
+

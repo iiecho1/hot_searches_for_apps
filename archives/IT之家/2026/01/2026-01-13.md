@@ -51,3 +51,17 @@
 
 + [引望回应“今年下半年上市”传闻：假消息](https://m.ithome.com/html/912292.htm)
 
++ [携程深夜发离职通知短信，后被澄清为乌龙事件](https://m.ithome.com/html/912611.htm)
+
++ [微信通知可显示好友头像：苹果 iOS 版已开启灰度测试](https://m.ithome.com/html/912659.htm)
+
++ [荣耀手机新增与华为 Windows 设备无缝互联，支持文件互传、屏幕共享等](https://m.ithome.com/html/912620.htm)
+
++ [俄罗斯达人“手搓”DDR5 内存，成本低性能强](https://m.ithome.com/html/912520.htm)
+
++ [苹果 iOS / iPadOS 26.3 开发者预览版 Beta 2 发布](https://m.ithome.com/html/912647.htm)
+
++ [苹果首款折叠 iPhone Fold 手机壳金属模具曝光](https://m.ithome.com/html/912758.htm)
+
++ [大疆 Osmo Pocket 4 系列手持云台相机曝光：提供标准版 / Pro 版，有望 3 月发布](https://m.ithome.com/html/912643.htm)
+
