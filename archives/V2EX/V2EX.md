@@ -45,3 +45,5 @@
 
 + [[CLAUDE] 送领千万 TOKEN](https://www.v2ex.com/t/1185101)
 
++ [2026 年想做一个关于中年男人兴趣的社区，求打醒我](https://www.v2ex.com/t/1185076)
+
