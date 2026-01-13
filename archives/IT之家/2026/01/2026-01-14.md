@@ -47,3 +47,17 @@
 
 + [红魔产品经理姜超吐槽手机行业设计风气“太离谱”：千篇一律，审美倒退](https://m.ithome.com/html/912920.htm)
 
++ [被砍的小米 17 Air 手机工程机曝光：横向双摄设计、6.59 英寸面板、5.5mm 厚度机身](https://m.ithome.com/html/912356.htm)
+
++ [比亚迪全新车型“海豹 08”谍照曝光，官方曾宣布今年 Q1 推出](https://m.ithome.com/html/912440.htm)
+
++ [小米 17 Pro 系列背屏支持查看股票行情：升级至澎湃 Hyper OS 3.0.40.0 即可](https://m.ithome.com/html/912384.htm)
+
++ [荣耀 Magic 8 Pro Air 真机曝光：天玑 9500 处理器、5500mAh 电池，1 月 19 日发布](https://m.ithome.com/html/912348.htm)
+
++ [荣耀 Magic8 Pro Air 真机曝光：4 种外观配色、重仅 155g](https://m.ithome.com/html/912450.htm)
+
++ [追觅 CEO 俞浩放言将打造人类首个百万亿美金公司生态，自比黄仁勋、马斯克](https://m.ithome.com/html/912431.htm)
+
++ [婚礼电子请柬“访客记录”付费可看：专家称侵犯个人信息权利，多平台回应](https://m.ithome.com/html/912365.htm)
+
