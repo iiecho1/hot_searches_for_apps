@@ -183,3 +183,11 @@
 
 + [SpringBoot4.0+JDK25+GraalVM：云原生Java新时代](https://blog.csdn.net/rgeshfgreh/article/details/156807563)
 
++ [VB的WMI vs C#的System.Management：谁才是Windows管理的“老前辈“？](https://blog.csdn.net/z_344791576/article/details/151931544)
+
++ [如何重构职场社交生态？脉脉的例子可以窥见其价值与实践](https://blog.csdn.net/2401_89899187/article/details/156699171)
+
++ [【Spring】Spring Cloud Gateway 网关架构深度解析：路由、过滤器、限流与 Sentinel 集成](https://blog.csdn.net/Txx318026/article/details/156866662)
+
++ [ARM A核、ARM M核、X86与RISC-V架构：寄存器作用及上下文处理差异报告](https://blog.csdn.net/2401_82965090/article/details/156804236)
+
