@@ -221,3 +221,19 @@
 
 + [共话中国经济新机遇｜专访：保中在高科技与绿色产业领域合作潜力巨大——访保加利亚工商会副会长托多罗夫](https://news.cctv.com/2026/01/13/ARTI7M9Dnu0SO8MM6nisLDGA260113.shtml)
 
++ [乌干达大选将全面开启投票 即日起暂停互联网服务](https://news.cctv.com/2026/01/13/ARTIb5wavjmAVIuC3Qpm9q51260113.shtml)
+
++ [巴拿马航空恢复往返委内瑞拉首都航班](https://news.cctv.com/2026/01/13/ARTIMJG1LsfgiXjqd45XMyNC260113.shtml)
+
++ [马里发生独木舟沉没事故 已致至少33人死亡](https://news.cctv.com/2026/01/13/ARTIrnRWPykJHzEsL42ima4B260113.shtml)
+
++ [匈牙利定于4月12日举行国会选举](https://news.cctv.com/2026/01/13/ARTImoXKUXX7URATAzgp6SVA260113.shtml)
+
++ [约旦发生11车连环相撞事故 已致1死18伤](https://news.cctv.com/2026/01/13/ARTIruFL2cuhcKVyj7ZM15ZW260113.shtml)
+
++ [金与正回应韩方对朝政策：所谓“改善关系”是妄想](https://news.cctv.com/2026/01/13/ARTILE82MM1jpmfyvd2cVkSj260113.shtml)
+
++ [委内瑞拉国家石油公司拟重启油井 以恢复原油产能](https://news.cctv.com/2026/01/13/ARTICeQImh9QGJxZeYlee4t9260113.shtml)
+
++ [加沙地带卫生部门：本轮停火期间447人遭袭死亡](https://news.cctv.com/2026/01/13/ARTIARrByJnHIR7pqMAmXpAw260113.shtml)
+
