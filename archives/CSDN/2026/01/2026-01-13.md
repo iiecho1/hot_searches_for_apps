@@ -145,3 +145,9 @@
 
 + [【自动化】前端开发，如何将 Jenkins 与 Gitee 结合实现自动化的持续集成（构建）和持续部署（发布）](https://blog.csdn.net/m0_47119963/article/details/156831782)
 
++ [脉脉2026实测：【AI创作者xAMA】平台核心功能解析](https://blog.csdn.net/yhrxh_ymq/article/details/156822102)
+
++ [从拆单翻车到稳定：解决库存错乱、重复拆单、金额分摊误差的架构方法](https://blog.csdn.net/qq_33589510/article/details/156874046)
+
++ [【计算机网络 | 第二篇】计算机组网模型](https://blog.csdn.net/2501_93095927/article/details/156858134)
+
