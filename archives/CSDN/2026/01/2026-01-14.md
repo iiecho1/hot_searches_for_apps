@@ -133,3 +133,7 @@
 
 + [深度学习周报（1.05~1.11）](https://blog.csdn.net/m0_57788739/article/details/156800314)
 
++ [【Meetup邀请·南京】Agentic AI 开发实战与行业创新指南](https://blog.csdn.net/CC1991_/article/details/156856348)
+
++ [AI编程的新时代：如何利用AI开发HTML贪吃蛇游戏](https://blog.csdn.net/xqe777/article/details/156896762)
+
