@@ -179,3 +179,17 @@
 
 + [地缘政治动荡推动黄金、白银价格再创新高](https://news.cctv.com/2026/01/13/ARTIXpBkKdpNSdYD38KYOjEz260113.shtml)
 
++ [伊朗外长表示 大量证据显示美以参与近期伊朗骚乱活动](https://news.cctv.com/2026/01/13/ARTIOxEel9D7sf31serasRUx260113.shtml)
+
++ [罗德里格斯回应特朗普“自诩委内瑞拉代总统”](https://news.cctv.com/2026/01/13/ARTIS42ORaE65yFd5lWz95ma260113.shtml)
+
++ [皇家马德里官方宣布主帅阿隆索离任](https://news.cctv.com/2026/01/13/ARTI0pcMrrPxCpwosUmnyM1h260113.shtml)
+
++ [特朗普：对伊朗所有的贸易伙伴征收25%关税](https://news.cctv.com/2026/01/13/ARTIULQcXX4m2LbD6yDjNp14260113.shtml)
+
++ [查获作案工具及嫌疑人DNA 调查人员透露更多卢浮宫失窃案细节](https://news.cctv.com/2026/01/13/ARTIfd5OvFWrG2eab4BeIh5i260113.shtml)
+
++ [日本三重县确认一起高致病性禽流感疫情](https://news.cctv.com/2026/01/13/ARTIkErud23ArDriprQsa5dC260113.shtml)
+
++ [韩国前总统尹锡悦涉嫌发动内乱案结案庭审继续进行](https://news.cctv.com/2026/01/13/ARTI3aP93tEZ0o5DQ6pUwwF7260113.shtml)
+

@@ -133,3 +133,15 @@
 
 + [flutter 框架跨平台鸿蒙开发 —— 避坑指南：Flutter 纯血鸿蒙开发环境配置全图解](https://blog.csdn.net/feng8403000/article/details/156806467)
 
++ [书单之华为数据之道：企业数字化转型的实战宝典](https://blog.csdn.net/Mrxiao_bo/article/details/156872777)
+
++ [C# Task/ThreadPool async/await对比Golang GMP](https://blog.csdn.net/m0_59178355/article/details/156859945)
+
++ [Spring Boot接收参数的19种方式](https://blog.csdn.net/2509_94199628/article/details/156812570)
+
++ [Microsoft Edge WebView2 Runtime（运行库）快速部署 + 调试指南（精简实用、适配开发 + 用户双场景）](https://blog.csdn.net/weixin_39005140/article/details/156808249)
+
++ [飞书 .NET SDK 事件处理的幂等性与去重机制](https://blog.csdn.net/xlqdml/article/details/156831849)
+
++ [【自动化】前端开发，如何将 Jenkins 与 Gitee 结合实现自动化的持续集成（构建）和持续部署（发布）](https://blog.csdn.net/m0_47119963/article/details/156831782)
+
