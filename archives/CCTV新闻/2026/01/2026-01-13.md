@@ -171,3 +171,11 @@
 
 + [苏丹东南部遭无人机袭击 造成数十人伤亡](https://news.cctv.com/2026/01/13/ARTIYCW2IVIXnRtebKGjQxtB260113.shtml)
 
++ [美国国务院要求美国公民立即离开伊朗](https://news.cctv.com/2026/01/13/ARTIgSZN2pm2NyNg0AjMqK7o260113.shtml)
+
++ [美国国务院：特朗普政府已撤销逾10万份签证](https://news.cctv.com/2026/01/13/ARTI4CygazjxwVbJNwjHvF56260113.shtml)
+
++ [澳大利亚将于22日举行全国哀悼 悼念邦迪海滩恐袭遇难者](https://news.cctv.com/2026/01/13/ARTIxV2hQicrEE3RzPg0N3SG260113.shtml)
+
++ [地缘政治动荡推动黄金、白银价格再创新高](https://news.cctv.com/2026/01/13/ARTIXpBkKdpNSdYD38KYOjEz260113.shtml)
+
