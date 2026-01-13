@@ -151,3 +151,9 @@
 
 + [【计算机网络 | 第二篇】计算机组网模型](https://blog.csdn.net/2501_93095927/article/details/156858134)
 
++ [本地 AI 模型管理新选择：OpenWebUI+cpolar 让远程使用更自由](https://blog.csdn.net/weixin_43151418/article/details/156891573)
+
++ [全栈智能化开发：深度解析 Claude Code 与 Ui-Ux-Pro-Max Skill 的协同构建体系](https://blog.csdn.net/2301_80863610/article/details/156874343)
+
++ [OpenHarmony跨端生态适配全指南｜Flutter/RN/三方库/C/C++/仓颉 鸿蒙化最佳实践](https://blog.csdn.net/weixin_45822171/article/details/156872108)
+
