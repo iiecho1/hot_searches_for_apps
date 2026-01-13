@@ -25,3 +25,19 @@
 
 + [大疆 Osmo Pocket 4 系列手持云台相机曝光：提供标准版 / Pro 版，有望 3 月发布](https://m.ithome.com/html/912643.htm)
 
++ [微信员工：微信通知显示头像功能，安卓上一直有](https://m.ithome.com/html/912813.htm)
+
++ [鸿蒙智行问界 M7 增程长续航版车型上市：纯电续航 327km，售价 29.98 万元起](https://m.ithome.com/html/912709.htm)
+
++ [骁龙 8E5 大屏机配置曝光：LIPO 极窄四等边直屏，预计为小米 17 Max](https://m.ithome.com/html/912686.htm)
+
++ [官宣：前比亚迪腾势品牌负责人赵长江正式加盟鸿蒙智行-智界汽车](https://m.ithome.com/html/912753.htm)
+
++ [苹果官宣联合 Gemini 推进个性化 Siri 等 Apple Intelligence 功能，谷歌市值应声突破 4 万亿美元仅次于英伟达](https://m.ithome.com/html/912652.htm)
+
++ [梅赛德斯-奔驰 2025 年汽车销量同比下滑 9% 至 180 万辆，中国市场暴跌 19%](https://m.ithome.com/html/912628.htm)
+
++ [上汽华为合作鸿蒙智行“尚界 Z7”车型更多细节官图公布，贯穿式“星河”尾灯](https://m.ithome.com/html/912697.htm)
+
++ [小米潘九堂回应“友商评估 Pro Max 机型”传闻：对标是常见商业策略，苹果、谷歌等巨头也是大量买 + 抄](https://m.ithome.com/html/912880.htm)
+

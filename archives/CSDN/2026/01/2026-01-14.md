@@ -101,3 +101,9 @@
 
 + [OpenHarmony跨端生态适配全指南｜Flutter/RN/三方库/C/C++/仓颉 鸿蒙化最佳实践](https://blog.csdn.net/weixin_45822171/article/details/156872108)
 
++ [LLM - 从 Prompt 到 Skills](https://blog.csdn.net/yangshangwei/article/details/156836796)
+
++ [Flutter 框架跨平台鸿蒙开发 —— Container 控件之万能包装美学](https://blog.csdn.net/feng8403000/article/details/156808630)
+
++ [Jenkins CI/CD 平台详解](https://blog.csdn.net/weixin_48334661/article/details/156873409)
+
