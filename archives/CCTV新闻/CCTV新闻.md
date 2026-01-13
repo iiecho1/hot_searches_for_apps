@@ -205,3 +205,9 @@
 
 + [高市早苗表达将在23日解散众议院提前大选的意向](https://news.cctv.com/2026/01/13/ARTIphfnOhl9QwHvnObJnXi3260113.shtml)
 
++ [千岛群岛发生6.3级地震，震源深度20千米](https://news.cctv.com/2026/01/13/ARTI2oQ2NmUijNAwNuQYzSWt260113.shtml)
+
++ [“我们有哨，他们有枪”——美国暴力移民执法激起民众反抗](https://news.cctv.com/2026/01/13/ARTIFv9rNBhJt43ittvoQdaf260113.shtml)
+
++ [国际观察 | 移民、枪击、冲突——党争症候群再次撕裂美国](https://news.cctv.com/2026/01/13/ARTIoYbAg8Q89SbsjY3VTbnJ260113.shtml)
+
