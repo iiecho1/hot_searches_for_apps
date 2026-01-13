@@ -173,3 +173,13 @@
 
 + [高频信号处理篇---包络检波电路](https://blog.csdn.net/2301_79556402/article/details/156809026)
 
++ [【PHP】如何将ThinkPHP 5部署到windows服务器的IIS里，和PHP版本又是一个怎么样的关系，三分钟教程搞定部署](https://blog.csdn.net/lmy_520/article/details/155884926)
+
++ [活动获奖名单公布 | TextIn大模型加速器 +火山引擎，多语言文档处理挑战营](https://blog.csdn.net/INTSIG/article/details/156903424)
+
++ [【云原生】Prometheus之PromQL用法详解](https://blog.csdn.net/liu_chen_yang/article/details/155536019)
+
++ [Electron 与 Tauri 全方位对比指南（2026版）](https://blog.csdn.net/qq_21460781/article/details/156802161)
+
++ [SpringBoot4.0+JDK25+GraalVM：云原生Java新时代](https://blog.csdn.net/rgeshfgreh/article/details/156807563)
+
