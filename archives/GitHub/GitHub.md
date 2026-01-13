@@ -25,3 +25,17 @@
 
 + [opf/openproject](https://github.com/opf/openproject)
 
++ [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+
++ [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+
++ [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+
++ [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
+
++ [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)
+
++ [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+
++ [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
+

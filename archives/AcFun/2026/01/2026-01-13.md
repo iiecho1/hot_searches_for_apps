@@ -115,3 +115,11 @@
 
 + [【Scarborough Fair】-能能版](https://m.acfun.cn/v/?ac=48187629)
 
++ [【中字】奥运选手Sarah Pavan和Adam看巨人反应S2E8](https://m.acfun.cn/v/?ac=48182172)
+
++ [Gameboy？不行！](https://m.acfun.cn/v/?ac=48184608)
+
++ [用神明身体造武器有多疯？](https://m.acfun.cn/v/?ac=48186728)
+
++ [芙兰-デビル](https://m.acfun.cn/v/?ac=48160061)
+
