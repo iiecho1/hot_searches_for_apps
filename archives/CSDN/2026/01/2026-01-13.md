@@ -193,3 +193,13 @@
 
 + [【Spark+Hadoop】基于spark+hadoop游戏评论数据分析可视化大屏（完整系统源码+数据库+开发笔记+详细部署教程+虚拟机分布式启动教程）✅](https://blog.csdn.net/qq_64605578/article/details/156863213)
 
++ [打造你的专属 AI 旅行管家：基于 OpenAgents 的多智能体旅游助手实战](https://blog.csdn.net/2302_80329073/article/details/156896154)
+
++ [【Java 开发日记】设计一个支持万人同时抢购商品的秒杀系统？](https://blog.csdn.net/2402_87298751/article/details/156869453)
+
++ [前端成功转鸿蒙开发者真实案例，教大家如何开发鸿蒙APP--ArkTS 卡片事件处理](https://blog.csdn.net/weixin_42299977/article/details/156827124)
+
++ [Java架构从单体到微服务历程](https://blog.csdn.net/2503_92804185/article/details/156867886)
+
++ [GitHub 一周热门项目速览 | 2026年01月12日](https://blog.csdn.net/u011064099/article/details/156873431)
+
