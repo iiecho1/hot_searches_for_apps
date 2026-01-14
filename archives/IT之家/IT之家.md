@@ -61,3 +61,19 @@
 
 + [婚礼电子请柬“访客记录”付费可看：专家称侵犯个人信息权利，多平台回应](https://m.ithome.com/html/912365.htm)
 
++ [小米潘九堂：小米如果未来做增程一定会借鉴理想，但绝不会一边学一边不承认甚至暗黑](https://m.ithome.com/html/912976.htm)
+
++ [苹果 Mac mini 政府补贴终回归：M4 版 3749 → 3188 元教育优惠发车](https://m.ithome.com/html/912978.htm)
+
++ [华为余承东：鸿蒙智行问界 100 万辆下线创新势力最快纪录，50 万以上每卖 10 辆有 7 辆是问界 M9](https://m.ithome.com/html/912935.htm)
+
++ [荣耀 MagicBook Pro 16 2026 款笔记本真机亮相，号称“高性能肌肉猛男”](https://m.ithome.com/html/912987.htm)
+
++ [美国政府批准向中国出口英伟达 H200 芯片](https://m.ithome.com/html/913018.htm)
+
++ [漂移过弯：新一代小米 SU7「卡布里蓝」赛道测试视频曝光](https://m.ithome.com/html/912930.htm)
+
++ [阿维塔雍军回应南宁撞车事故：事发时车辆全程处于人工驾驶状态，已排除车辆问题导致](https://m.ithome.com/html/912952.htm)
+
++ [揭秘苹果 macOS 26 为何难以调整窗口大小：看似圆角，实为方形](https://m.ithome.com/html/912982.htm)
+
