@@ -163,3 +163,9 @@
 
 + [喀麦隆西北大区发生袭击事件 致14人死亡](https://news.cctv.com/2026/01/15/ARTI1OxhWepXnsxok7gCp2mt260115.shtml)
 
++ [胡塞武装称进入高度戒备状态 以应对波及也门的突发事件](https://news.cctv.com/2026/01/15/ARTIzDXp8bHtAI0iAybV8liU260115.shtml)
+
++ [巴勒斯坦各方宣布支持组建技术官僚委员会治理加沙](https://news.cctv.com/2026/01/15/ARTIXjJBslVUaZAJyKDjVC8D260115.shtml)
+
++ [未排除动武可能 特朗普称将“观望”伊朗局势发展](https://news.cctv.com/2026/01/15/ARTIatp1dJW5GkK3rCJVk8sT260115.shtml)
+
