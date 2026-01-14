@@ -177,3 +177,7 @@
 
 + [Superpowers：为AI编程代理赋能的完整软件开发工作流](https://blog.csdn.net/Aaron_945/article/details/156851101)
 
++ [《机器学习》经典教材全景解读：周志华教授匠心之作的技术深探](https://blog.csdn.net/2503_92624912/article/details/156545819)
+
++ [数学建模Matlab算法，第二十二章模糊数学模型](https://blog.csdn.net/unbelievevc/article/details/156945260)
+
