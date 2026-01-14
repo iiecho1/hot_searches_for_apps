@@ -189,3 +189,17 @@
 
 + [中国驻韩国大使馆发言人就“驻韩国台北代表部”人员妄谈台湾问题表明严正立场](https://news.cctv.com/2026/01/14/ARTIPXlgbnY0TNlhib8akqct260113.shtml)
 
++ [泰国在建铁路发生事故 已致10死多伤](https://news.cctv.com/2026/01/14/ARTIIXKmL67olE5Y2wy3agiu260114.shtml)
+
++ [欧盟气候监测机构：2025年成为有记录以来第三热年份](https://news.cctv.com/2026/01/14/ARTIlnBANmskplTqdeyBsQ77260114.shtml)
+
++ [国际银价首次突破每盎司90美元](https://jingji.cctv.com/2026/01/14/ARTIVagNJqd1aseG0NnEg4wI260114.shtml)
+
++ [美媒爆：逾50名美民主党众议员联署支持弹劾美国土安全部长](https://news.cctv.com/2026/01/14/ARTIbABxnFHjq6VaOGoi39Nu260114.shtml)
+
++ [“中国是我的‘第二故乡’”（缘启中国）——访埃塞俄比亚前总统穆拉图](https://news.cctv.com/2026/01/14/ARTIGq5putJUeAPrHOd9mTdu260114.shtml)
+
++ [委内瑞拉释放超400名囚犯 包括四名美公民](https://news.cctv.com/2026/01/14/ARTIR9QZ2qVekySMHt0a3o7V260114.shtml)
+
++ [“中国行动对促进世界和平发展具有重要意义”](https://news.cctv.com/2026/01/14/ARTIGFrEsRL2licIFJMFAVco260114.shtml)
+
