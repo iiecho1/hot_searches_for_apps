@@ -189,3 +189,11 @@
 
 + [Gemini、ChatGPT、Qwen、豆包、Claude五大主流AI模型深度对比：技术、生态与应用全景解析](https://blog.csdn.net/gaowenhui2008/article/details/156852153)
 
++ [【花雕学编程】Arduino BLDC 之自主导航型送餐机器人](https://blog.csdn.net/weixin_41659040/article/details/156888544)
+
++ [【愚公系列】《AI+直播营销》024-直播平台选择与引流方法（直播平台的八大引流方法）](https://blog.csdn.net/aa2528877987/article/details/156735617)
+
++ [Flutter与鸿蒙深度融合：打造物理引擎驱动的3D卡片交互体验](https://blog.csdn.net/2401_85571293/article/details/156605184)
+
++ [Spring AI 1.0.0 + MySQL 实现会话记忆持久化：彻底搞懂 ChatMemoryRepository](https://blog.csdn.net/2301_80224759/article/details/156946501)
+
