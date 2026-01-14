@@ -133,3 +133,7 @@
 
 + [【计算机网络】简学深悟启示录：socket编程之tcp](https://blog.csdn.net/Zero_VPN/article/details/156833516)
 
++ [C# winform部署yolo26目标检测的onnx模型演示源码+模型+说明](https://blog.csdn.net/FL1623863129/article/details/156951940)
+
++ [Elasticsearch：Jina Reader](https://blog.csdn.net/UbuntuTouch/article/details/156897660)
+
