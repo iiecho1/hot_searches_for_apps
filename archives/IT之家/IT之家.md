@@ -77,3 +77,17 @@
 
 + [揭秘苹果 macOS 26 为何难以调整窗口大小：看似圆角，实为方形](https://m.ithome.com/html/912982.htm)
 
++ [消息称小米阔折叠 9 月发布：新一代自研 AP 芯片、新一代折叠 OS，与苹果正面交锋](https://m.ithome.com/html/913111.htm)
+
++ [苹果 iPhone 18 系列、Air2 屏幕配置曝光，部分 Face ID 组件屏下化](https://m.ithome.com/html/913118.htm)
+
++ [奔驰 S 级将迎“史上幅度最大改款”，新车 1 月 29 日发布](https://m.ithome.com/html/912997.htm)
+
++ [消息称英伟达调整 2026 年 RTX 50 系列显卡：力推 8GB 显存版，减少 16GB 版出货](https://m.ithome.com/html/913069.htm)
+
++ [微软 Win11 获 2026 首个累积更新：捆绑 AI 模型，体积约 4GB](https://m.ithome.com/html/913025.htm)
+
++ [吉利“科技硬核 SUV”银河战舰年内发布，还将进军英国直面路虎卫士](https://m.ithome.com/html/913045.htm)
+
++ [灵缇：应腾讯要求，停止并取消对《三角洲行动》等游戏提供听障辅助工具“声达”支持](https://m.ithome.com/html/913207.htm)
+
