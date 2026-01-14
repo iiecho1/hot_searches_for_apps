@@ -117,3 +117,19 @@
 
 + [探究TOON的价值边界：比JSON更优的大模型友好数据格式？](https://blog.csdn.net/RenGJ010617/article/details/156650496)
 
++ [Windows远程文件共享安全指南：只暴露你想暴露的](https://blog.csdn.net/Mrxiao_bo/article/details/156909858)
+
++ [【测试理论与实践】（十）Web 项目自动化测试实战：从 0 到 1 搭建博客系统 UI 自动化框架](https://blog.csdn.net/2301_79248256/article/details/156938641)
+
++ [Spring Boot 3.x 升级实战：3.0 → 3.5：为什么升、升什么、以及我们是怎么升的](https://blog.csdn.net/weixin_36755535/article/details/156950489)
+
++ [RabbitMQ与Celery深度集成：构建高性能Python异步任务系统](https://blog.csdn.net/sinat_41617212/article/details/156912137)
+
++ [【Java 开发日记】设计一个支持万人同时抢购商品的秒杀系统？](https://blog.csdn.net/2402_87298751/article/details/156869453)
+
++ [西电研究生网课《人工智能安全与伦理》- 单元测试（北航雨课堂）](https://blog.csdn.net/qq_39299178/article/details/156852953)
+
++ [全栈智能化开发：深度解析 Claude Code 与 Ui-Ux-Pro-Max Skill 的协同构建体系](https://blog.csdn.net/2301_80863610/article/details/156874343)
+
++ [【计算机网络】简学深悟启示录：socket编程之tcp](https://blog.csdn.net/Zero_VPN/article/details/156833516)
+
