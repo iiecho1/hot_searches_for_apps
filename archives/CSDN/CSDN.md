@@ -171,3 +171,9 @@
 
 + [Java架构从单体到微服务历程](https://blog.csdn.net/2503_92804185/article/details/156867886)
 
++ [如何重构职场社交生态？脉脉样本解剖：一个职场社交平台如何重塑亿级用户的职业生态](https://blog.csdn.net/2401_89899187/article/details/156699171)
+
++ [ide激活教程（适合所有版本）](https://blog.csdn.net/qq_40853117/article/details/156873219)
+
++ [Superpowers：为AI编程代理赋能的完整软件开发工作流](https://blog.csdn.net/Aaron_945/article/details/156851101)
+
