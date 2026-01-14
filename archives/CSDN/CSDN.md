@@ -187,3 +187,5 @@
 
 + [系统提示词（System Prompt），AI 的“人设剧本“](https://blog.csdn.net/jackywine1/article/details/156851934)
 
++ [Gemini、ChatGPT、Qwen、豆包、Claude五大主流AI模型深度对比：技术、生态与应用全景解析](https://blog.csdn.net/gaowenhui2008/article/details/156852153)
+
