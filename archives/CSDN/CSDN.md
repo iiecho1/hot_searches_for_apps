@@ -137,3 +137,7 @@
 
 + [Elasticsearch：Jina Reader](https://blog.csdn.net/UbuntuTouch/article/details/156897660)
 
++ [从拆单翻车到稳定：解决库存错乱、重复拆单、金额分摊误差的架构方法](https://blog.csdn.net/qq_33589510/article/details/156874046)
+
++ [Superpowers：为AI编程代理赋能的完整软件开发工作流](https://blog.csdn.net/Aaron_945/article/details/156851101)
+
