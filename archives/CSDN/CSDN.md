@@ -159,3 +159,7 @@
 
 + [彻底解决 Google Gemini 报错：异常流量与 IP 地址冲突排查指南](https://blog.csdn.net/2402_84408069/article/details/156845015)
 
++ [【DeepSeek论文精读】17. 通过可扩展查找的条件记忆：大语言模型稀疏化的新维度](https://blog.csdn.net/youcans/article/details/156914214)
+
++ [AI大模型-机器学习-分类](https://blog.csdn.net/tuguai7887/article/details/156833439)
+
