@@ -137,3 +137,15 @@
 
 + [AI编程的新时代：如何利用AI开发HTML贪吃蛇游戏](https://blog.csdn.net/xqe777/article/details/156896762)
 
++ [从零开始的 C++（十一）：全站最全面的C/C++内存管理的底层剖析与硬核指南](https://blog.csdn.net/Z2314246476/article/details/156543552)
+
++ [基于 OpenCV 的图像边缘检测与轮廓分析](https://blog.csdn.net/m0_72616498/article/details/156871445)
+
++ [需求管理和AI结合，是颠覆还是赋能](https://blog.csdn.net/anythings/article/details/156903497)
+
++ [【Bluedroid】蓝牙GATT客户端注册流程：从应用层到协议栈的深度剖析](https://blog.csdn.net/weixin_37800531/article/details/156871835)
+
++ [MySQL `binlog_row_metadata` 参数说明与变更评估](https://blog.csdn.net/hezuijiudexiaobai/article/details/156908990)
+
++ [Flutter鸿蒙共赢——色彩的流变：流体梯度网格与现代视觉重构](https://blog.csdn.net/m0_66062719/article/details/156915224)
+

@@ -183,3 +183,9 @@
 
 + [美国12月财政赤字达1450亿美元 创该月份历史新高](https://news.cctv.com/2026/01/14/ARTIpiz9aJtSolO512GXegP8260114.shtml)
 
++ [新西兰北岛发生枪击事件 已致1死3伤](https://news.cctv.com/2026/01/14/ARTIS1txrB6UETWcjHi1AfaT260114.shtml)
+
++ [加拿大总理卡尼：务实、建设性的加中关系有益稳定安全与繁荣](https://news.cctv.com/2026/01/14/ARTIrsllnxFVa74p7Qg1oMSi260114.shtml)
+
++ [中国驻韩国大使馆发言人就“驻韩国台北代表部”人员妄谈台湾问题表明严正立场](https://news.cctv.com/2026/01/14/ARTIPXlgbnY0TNlhib8akqct260113.shtml)
+
