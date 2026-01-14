@@ -181,3 +181,5 @@
 
 + [数学建模Matlab算法，第二十二章模糊数学模型](https://blog.csdn.net/unbelievevc/article/details/156945260)
 
++ [困在像素里：我的可视化大屏项目与前端价值觉醒](https://blog.csdn.net/m0_57344393/article/details/156855659)
+

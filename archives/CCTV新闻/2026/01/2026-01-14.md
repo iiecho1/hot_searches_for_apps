@@ -219,3 +219,9 @@
 
 + [泰国在建铁路事故死亡人数升至29人](https://news.cctv.com/2026/01/14/ARTIyajdfyZk7qZH5LorSbNH260114.shtml)
 
++ [高市早苗正式传达解散众议院提前大选意向](https://news.cctv.com/2026/01/14/ARTIB7PGQm6qPd1o6aoH2UA4260114.shtml)
+
++ [泰国在建铁路事故死亡人数升至30人](https://news.cctv.com/2026/01/14/ARTIKrmq9xsBxkMRLGjZkQGp260114.shtml)
+
++ [泰国在建铁路事故已致28人死亡 事发标段无中方施工企业参与](https://news.cctv.com/2026/01/14/ARTIGy63XK1oqJbkpZeE3DFd260114.shtml)
+
