@@ -197,3 +197,13 @@
 
 + [Spring AI 1.0.0 + MySQL 实现会话记忆持久化：彻底搞懂 ChatMemoryRepository](https://blog.csdn.net/2301_80224759/article/details/156946501)
 
++ [深度解读 Spring Boot 3.5.9— 工程视角的稳健演进与价值释放](https://blog.csdn.net/weixin_36755535/article/details/156951684)
+
++ [鸿蒙PC生态三方软件移植：ohos-sdk 生成的库或二进制的自动签名实现](https://blog.csdn.net/qq8864/article/details/156909518)
+
++ [【计算机网络 | 第三篇】MAC地址与IP地址](https://blog.csdn.net/2501_93095927/article/details/156906216)
+
++ [跨时钟域同步（CDC）握手协议](https://blog.csdn.net/GateWorld/article/details/156913618)
+
++ [Trae国际版与国内版深度测评：AI原生IDE的双生花](https://blog.csdn.net/Yunyi_Chi/article/details/156873898)
+
