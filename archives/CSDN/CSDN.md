@@ -183,3 +183,7 @@
 
 + [困在像素里：我的可视化大屏项目与前端价值觉醒](https://blog.csdn.net/m0_57344393/article/details/156855659)
 
++ [Jenkins部署](https://blog.csdn.net/weixin_48334661/article/details/156873409)
+
++ [系统提示词（System Prompt），AI 的“人设剧本“](https://blog.csdn.net/jackywine1/article/details/156851934)
+
