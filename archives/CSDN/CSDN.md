@@ -101,3 +101,19 @@
 
 + [跨时钟域同步（CDC）握手协议](https://blog.csdn.net/GateWorld/article/details/156913618)
 
++ [一文读懂 Lambda](https://blog.csdn.net/qq_61654952/article/details/156943147)
+
++ [医疗AI中的马尔科夫链深度应用与Python实现(2026年版)](https://blog.csdn.net/kkiron/article/details/156942780)
+
++ [【自然语言处理】应用07：自然语言推断：微调BERT](https://blog.csdn.net/Morse_Chen/article/details/156836948)
+
++ [【小白无痛】CLIP 多模态模型基石：从原理图解到 PyTorch 代码逐行复现](https://blog.csdn.net/xux12345_/article/details/156871405)
+
++ [【指南】PyCharm2025 远程开发配置指北](https://blog.csdn.net/weixin_51471139/article/details/156865144)
+
++ [Trae国际版与国内版深度测评：AI原生IDE的双生花](https://blog.csdn.net/Yunyi_Chi/article/details/156873898)
+
++ [低代码AI平台：Coze与Dify深度对比](https://blog.csdn.net/xie__jin__cheng/article/details/156954732)
+
++ [探究TOON的价值边界：比JSON更优的大模型友好数据格式？](https://blog.csdn.net/RenGJ010617/article/details/156650496)
+

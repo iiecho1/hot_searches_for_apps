@@ -161,3 +161,5 @@
 
 + [叙当局称两名极端组织成员因清真寺爆炸事件被捕](https://news.cctv.com/2026/01/12/ARTIY9N6CygVHYrxStBLRmKk260112.shtml)
 
++ [喀麦隆西北大区发生袭击事件 致14人死亡](https://news.cctv.com/2026/01/15/ARTI1OxhWepXnsxok7gCp2mt260115.shtml)
+
