@@ -153,3 +153,9 @@
 
 + [【Spring Security】Spring Boot 与 Spring Security 核心版本的对应表](https://blog.csdn.net/m0_58782205/article/details/156912779)
 
++ [【Linux】线程同步 条件变量精讲 + 生产者消费者模型完整实现](https://blog.csdn.net/2501_90265152/article/details/156130620)
+
++ [将AI生成的数学公式正确复制到word中](https://blog.csdn.net/qq_50930131/article/details/156834680)
+
++ [彻底解决 Google Gemini 报错：异常流量与 IP 地址冲突排查指南](https://blog.csdn.net/2402_84408069/article/details/156845015)
+

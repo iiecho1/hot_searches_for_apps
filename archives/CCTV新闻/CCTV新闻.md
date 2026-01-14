@@ -203,3 +203,7 @@
 
 + [“中国行动对促进世界和平发展具有重要意义”](https://news.cctv.com/2026/01/14/ARTIGFrEsRL2licIFJMFAVco260114.shtml)
 
++ [古巴国家主席吊唁在美对委军事行动中牺牲人员](https://news.cctv.com/2026/01/14/ARTIhvzlGcEebsYxBOgH0iCM260114.shtml)
+
++ [泰国在建铁路事故死亡人数升至22人](https://news.cctv.com/2026/01/14/ARTIb8BsWCLcTgYq38iia4rb260114.shtml)
+
