@@ -163,3 +163,9 @@
 
 + [React Native for OpenHarmony 实战：NestedScrolling 嵌套滚动详解](https://blog.csdn.net/weixin_62280685/article/details/156976513)
 
++ [【MyBatis 深度解析】注解操作与 XML 配置：增删改查全流程实现](https://blog.csdn.net/whxcmy/article/details/156952312)
+
++ [打造你的专属 AI 旅行管家：基于 OpenAgents 的多智能体旅游助手实战](https://blog.csdn.net/2302_80329073/article/details/156896154)
+
++ [从零复现马斯克开源X推荐算法](https://blog.csdn.net/jiangjunshow/article/details/156867543)
+
