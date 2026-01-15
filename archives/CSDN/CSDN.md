@@ -141,3 +141,11 @@
 
 + [Superpowers：为AI编程代理赋能的完整软件开发工作流](https://blog.csdn.net/Aaron_945/article/details/156851101)
 
++ [【Java版本】深度解析：不同版本JDK的核心区别与主流版本流行原因](https://blog.csdn.net/m0_58782205/article/details/156951816)
+
++ [大数据Spark（七十六）：Action行动算子reduce和take、takeSample使用案例](https://blog.csdn.net/xiaoweite1/article/details/156955709)
+
++ [Spring之旅 - 记录学习 Spring 框架的过程和经验（十五）SpringMVC数据响应、拦截器、全注解开发、异常处理机制](https://blog.csdn.net/m0_63267251/article/details/156837310)
+
++ [Reids命令原理与应用5 - Redis 主从同步与高可用集群](https://blog.csdn.net/yzcllzx/article/details/156885786)
+
