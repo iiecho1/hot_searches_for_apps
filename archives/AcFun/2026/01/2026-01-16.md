@@ -63,3 +63,5 @@
 
 + [「所以我也想成为你的光」](https://m.acfun.cn/v/?ac=48194689)
 
++ [泫雅 Red 路演](https://m.acfun.cn/v/?ac=48191816)
+
