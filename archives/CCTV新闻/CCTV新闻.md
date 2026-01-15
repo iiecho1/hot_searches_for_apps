@@ -207,3 +207,9 @@
 
 + [中国驻缅使领馆提醒中国公民警惕涉外婚姻和非法务工风险](https://news.cctv.com/2026/01/15/ARTII9pK4scYPKN0ZwqJtjwV260115.shtml)
 
++ [法总统宣布该国在格陵兰的首批士兵将获得陆海空力量增援](https://news.cctv.com/2026/01/15/ARTIy4QX4ZbthtOjopeoRtTm260115.shtml)
+
++ [匈牙利总理：反对欧盟为俄乌冲突筹款](https://news.cctv.com/2026/01/15/ARTIf3HcWdLyvdSkVtav4dN5260115.shtml)
+
++ [泰国总理要求终止连续两起施工事故涉事公司项目合同](https://news.cctv.com/2026/01/15/ARTIMy9834Fl2znprQgnyk3I260115.shtml)
+
