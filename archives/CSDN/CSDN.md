@@ -199,3 +199,9 @@
 
 + [Arbess项目实战 - 基于GitLab搭建Node.js项目自动化流水线](https://blog.csdn.net/tiklab2021/article/details/156949865)
 
++ [技术与情感的交织 · 本命](https://blog.csdn.net/michaelline/article/details/156046159)
+
++ [flutter 与鸿蒙融合开发实战：构建跨平台应用的新范式](https://blog.csdn.net/2403_83549836/article/details/156947953)
+
++ [Vue 3.6 重磅新特性：Vapor Mode 深度解析](https://blog.csdn.net/m0_61594728/article/details/156954856)
+

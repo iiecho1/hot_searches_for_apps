@@ -15,3 +15,17 @@
 
 + [rancher/rancher](https://github.com/rancher/rancher)
 
++ [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
+
++ [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+
++ [cilium/cilium](https://github.com/cilium/cilium)
+
++ [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
+
++ [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+
++ [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
+
++ [puckeditor/puck](https://github.com/puckeditor/puck)
+
