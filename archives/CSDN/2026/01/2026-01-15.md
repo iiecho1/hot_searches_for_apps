@@ -169,3 +169,9 @@
 
 + [从零复现马斯克开源X推荐算法](https://blog.csdn.net/jiangjunshow/article/details/156867543)
 
++ [【AI 学习】解锁Claude Skills：开启AI应用新维度](https://blog.csdn.net/weixin_63944437/article/details/156980700)
+
++ [聊一聊 CommonJS 和 ES6 Module](https://blog.csdn.net/m0_67275869/article/details/156884286)
+
++ [Ultralytics YOLO26 正式发布：原生端到端、更好部署、更强边缘推理](https://blog.csdn.net/qq_46644077/article/details/156946678)
+
