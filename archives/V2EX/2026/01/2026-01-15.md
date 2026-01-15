@@ -33,3 +33,5 @@
 
 + [Stack Overflow 面临的现实](https://www.v2ex.com/t/1185615)
 
++ [辛苦干了一年了，想 2000 以里奖励自己点东西，大家有推荐的吗？](https://www.v2ex.com/t/1185769)
+
