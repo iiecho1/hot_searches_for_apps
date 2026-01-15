@@ -197,3 +197,11 @@
 
 + [日本最大在野党立宪民主党决定和公明党组成新政党](https://news.cctv.com/2026/01/15/ARTIKjYX62YuGW1FiEqffu4M260115.shtml)
 
++ [保留地球冰冻记忆 南极一冰芯库启用](https://news.cctv.com/2026/01/15/ARTI91a8T9BS7uZygmK2Eeo8260115.shtml)
+
++ [记者观察丨美发表觊觎格陵兰岛言论遭各界质疑](https://news.cctv.com/2026/01/15/ARTIbD6rriznovcpSjSXZikl260115.shtml)
+
++ [终将被历史淘汰！起底“新门罗主义”的霸道逻辑和强权底色](https://news.cctv.com/2026/01/15/ARTI4XH7Aw81Ocvncwy7lait260115.shtml)
+
++ [三问日本，撕开其所谓“和平国家”的假面（钟声）](https://news.cctv.com/2026/01/15/ARTIpeOhxXu3l4QtAlrA2pUm260115.shtml)
+
