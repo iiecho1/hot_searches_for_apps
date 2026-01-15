@@ -187,3 +187,7 @@
 
 + [相干衰弱在分布式光纤声波传感（DAS）系统中的影响与抑制应用](https://blog.csdn.net/randy83/article/details/156868749)
 
++ [【AI】解决 Cursor 无法通过 SSH 连接 Linux 服务器的问题](https://blog.csdn.net/songhuangong123/article/details/156952416)
+
++ [openJiuwen 平台接入 Kimi-K2 大模型并创建智能体的完整实践流程](https://blog.csdn.net/2501_94186029/article/details/156873137)
+
