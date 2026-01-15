@@ -195,3 +195,5 @@
 
 + [泰国总理：连续两起施工事故涉事公司为同一承包商](https://news.cctv.com/2026/01/15/ARTIrCvUa1mlBuXacLqm3tPl260115.shtml)
 
++ [日本最大在野党立宪民主党决定和公明党组成新政党](https://news.cctv.com/2026/01/15/ARTIKjYX62YuGW1FiEqffu4M260115.shtml)
+
