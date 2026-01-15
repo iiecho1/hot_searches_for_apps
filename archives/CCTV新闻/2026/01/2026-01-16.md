@@ -161,3 +161,11 @@
 
 + [高市早苗表达将在23日解散众议院提前大选的意向](https://news.cctv.com/2026/01/13/ARTIphfnOhl9QwHvnObJnXi3260113.shtml)
 
++ [以军总参谋长视察反导阵地 强调始终保持应对威胁](https://news.cctv.com/2026/01/16/ARTInYlTmtxHYM9A2t7Vf1Dk260116.shtml)
+
++ [阿根廷首都及周边地区发生大面积停电 超440万人受影响](https://news.cctv.com/2026/01/16/ARTIAQm882WK4bIRvZjgEsjg260116.shtml)
+
++ [IMF总裁强调央行独立性 公开力挺美联储主席鲍威尔](https://news.cctv.com/2026/01/16/ARTIyJMZkQBA7rsvGvsOPOJR260116.shtml)
+
++ [世界粮食计划署：苏丹援助粮食储备将于3月底耗尽](https://news.cctv.com/2026/01/16/ARTIhUzTBMsqMexSyF5P2uIT260116.shtml)
+
