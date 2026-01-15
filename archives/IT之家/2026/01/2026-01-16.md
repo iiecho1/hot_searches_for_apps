@@ -25,3 +25,21 @@
 
 + [苹果宣布为中国大陆用户支持 Apple Pay 跨境支付：可添加 Visa 信用卡 / 借记卡](https://m.ithome.com/html/913358.htm)
 
++ [独居安全 App“死了么”从苹果 App Store 国区下架](https://m.ithome.com/html/913574.htm)
+
++ [广汽本田新款飞度上市：焕新价 6.68 万元，全国限量 3000 台](https://m.ithome.com/html/913531.htm)
+
++ [华为鸿蒙 HarmonyOS 6 沉浸光感视效设计细节公开：通透质感、气态动效等](https://m.ithome.com/html/913506.htm)
+
++ [苹果首款折叠 iPhone Fold 爆料：液态金属铰链、改良版钛合金材质](https://m.ithome.com/html/913323.htm)
+
++ [小米 Xiaomi 蓝牙音箱 Pro 上架：15W 高音 +35W 低音单元、3D 幻彩灯光，599 元](https://m.ithome.com/html/913382.htm)
+
++ [雷军宣布小米 YU7 汽车推出“7 年低息”政策，限时全系赠送双零重力座椅](https://m.ithome.com/html/913598.htm)
+
++ [消息称苹果 iPhone 17e 上半年登场：灵动岛设计、升级 A19 处理器，将叠最便宜 iPhone Buff](https://m.ithome.com/html/913481.htm)
+
++ [雷军：新一代小米 SU7 已到最后阶段，将在发布前提前安排展车到店](https://m.ithome.com/html/913417.htm)
+
++ [微信 iOS 版 8.0.68 最新官方正式版下载发布](https://m.ithome.com/html/913351.htm)
+
