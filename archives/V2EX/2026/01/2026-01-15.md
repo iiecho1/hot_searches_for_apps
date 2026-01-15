@@ -41,3 +41,7 @@
 
 + [你们的私人项目 git 库现在都保持到哪里？](https://www.v2ex.com/t/1185792)
 
++ [能不能收一下味儿，不吹牛会死是吧](https://www.v2ex.com/t/1185865)
+
++ [[终身会员] [iOS/Watch 送码] 基于 Apple Watch 的健康 App&amp;苹果手表的文件管理器。](https://www.v2ex.com/t/1185836)
+
