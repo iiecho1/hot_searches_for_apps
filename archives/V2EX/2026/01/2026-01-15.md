@@ -25,3 +25,11 @@
 
 + [大家通勤时都会听播客吗，有好的播客分享下吗](https://www.v2ex.com/t/1185562)
 
++ [apple 钱包已经可以添加 visa 卡](https://www.v2ex.com/t/1185766)
+
++ [如果暴富了第一件事是做什么？](https://www.v2ex.com/t/1185671)
+
++ [中国的房价真的会重走日本的老路吗？](https://www.v2ex.com/t/1185620)
+
++ [Stack Overflow 面临的现实](https://www.v2ex.com/t/1185615)
+

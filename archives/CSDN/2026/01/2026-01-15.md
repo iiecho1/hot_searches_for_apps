@@ -149,3 +149,5 @@
 
 + [Reids命令原理与应用5 - Redis 主从同步与高可用集群](https://blog.csdn.net/yzcllzx/article/details/156885786)
 
++ [Re：从零开始的 C++ 入門篇（十一）：全站最全面的C/C++内存管理的底层剖析与硬核指南](https://blog.csdn.net/Z2314246476/article/details/156543552)
+
