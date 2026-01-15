@@ -65,3 +65,19 @@
 
 + [消息称微信鸿蒙版 App 热更新自带拍照页面，拍照功能将不再调用华为原生相机](https://m.ithome.com/html/913297.htm)
 
++ [消息称微信鸿蒙版 App 热更新自带拍照功能：效果无明显差异，仅界面和操作逻辑改动](https://m.ithome.com/html/913297.htm)
+
++ [市场监管总局依法对携程立案调查：涉嫌滥用市场支配地位实施垄断行为](https://m.ithome.com/html/913185.htm)
+
++ [小米 17 Pro 系列手机背屏新增「豆瓣电影日历」壁纸：每日一幅电影剧照，搭配经典对白](https://m.ithome.com/html/913255.htm)
+
++ [小米 Xiaomi Sound 2 Pro 音箱上架：塑料件外壳材质、两分频架构，1399 元](https://m.ithome.com/html/913380.htm)
+
++ [小米 Sound 2 Pro 及蓝牙音箱新品上架：标价 599~1699 元](https://m.ithome.com/html/913190.htm)
+
++ [雷军宣布今晚再次直播，继续聊聊新一代小米 SU7](https://m.ithome.com/html/913338.htm)
+
++ [鸿蒙智行尚界 Z7 实车动态视频首曝：溜背造型 + 长车头设计、配半隐藏式门把手](https://m.ithome.com/html/913164.htm)
+
++ [苹果宣布为中国大陆用户支持 Apple Pay 跨境支付：可添加 Visa 信用卡 / 借记卡](https://m.ithome.com/html/913358.htm)
+
