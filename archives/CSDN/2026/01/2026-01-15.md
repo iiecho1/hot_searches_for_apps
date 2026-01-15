@@ -211,3 +211,7 @@
 
 + [Harmony应用中 HAR 包开发与发布到openharmony中的完整指南](https://blog.csdn.net/ldc121xy716/article/details/156985570)
 
++ [YOLO26训练自己的数据集，从代码下载到实例测试 （含YOLO26网络结构图）](https://blog.csdn.net/qq_42591591/article/details/156984146)
+
++ [【K-Means深度探索（一）】数据炼金术第一步：从零手撕K-Means聚类算法](https://blog.csdn.net/wudu_123456/article/details/156913605)
+
