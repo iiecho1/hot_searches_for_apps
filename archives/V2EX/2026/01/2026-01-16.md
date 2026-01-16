@@ -21,3 +21,9 @@
 
 + [大家是怎么做家庭预算和记账的并且能保持不中断的？](https://www.v2ex.com/t/1185803)
 
++ [一个炒股难题，不知道该如何解决](https://www.v2ex.com/t/1185834)
+
++ [2026 年选 mac 还是 win，一起交流下](https://www.v2ex.com/t/1185955)
+
++ [国区 apple pay 可以绑定 visa 之后买美区 gift card 更方便了](https://www.v2ex.com/t/1185845)
+

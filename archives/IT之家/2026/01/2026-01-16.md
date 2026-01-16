@@ -59,3 +59,7 @@
 
 + [赵长江：自己天天学习华为，最大的挑战“在于我自身”](https://m.ithome.com/html/913070.htm)
 
++ [全新一汽奥迪 A6L 全球首秀：华为乾崑智驾系统、提供 V6 动力，今年上市](https://m.ithome.com/html/913608.htm)
+
++ [微信 iOS 8.0.68 正式版更新内容汇总：通知显示头像覆盖、聊天界面细节焕新](https://m.ithome.com/html/913593.htm)
+
