@@ -181,3 +181,13 @@
 
 + [叙军方称已开始炮击阿勒颇东部的“叙利亚民主力量”阵地](https://news.cctv.com/2026/01/17/ARTIkzOS3AOqogI4oq1WMXGd260117.shtml)
 
++ [美国公布加沙“和平委员会”成员名单](https://news.cctv.com/2026/01/17/ARTIImyqDS7cMNWptolHuuCE260117.shtml)
+
++ [“叙利亚民主力量”称将从阿勒颇东部接触线撤出](https://news.cctv.com/2026/01/17/ARTIMGYZiczVlMUrohWA2aLV260117.shtml)
+
++ [国际原子能机构：俄乌同意局部停火以修复扎波罗热核电站受损供电线](https://news.cctv.com/2026/01/17/ARTIEI2eaOmfdn2VAbq4zZFC260117.shtml)
+
++ [联合国难民署：呼吁国际援助缓解苏丹难民危机](https://news.cctv.com/2026/01/17/ARTIynFiTJiPGbaI2vNNPmoW260117.shtml)
+
++ [古巴国家主席：美国的“胁迫政策”无法迫使古巴妥协](https://news.cctv.com/2026/01/17/ARTIUYKiZ4400SkppCpXZGHZ260117.shtml)
+
