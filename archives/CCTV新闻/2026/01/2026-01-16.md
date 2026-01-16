@@ -181,3 +181,13 @@
 
 + [韩国首尔一公交车撞上路边大楼 已致4人受伤](https://news.cctv.com/2026/01/16/ARTI2e6Ei3DVkEunuSJ1TnHH260116.shtml)
 
++ [美据称仍就对伊朗“打击时机”进行磋商](https://news.cctv.com/2026/01/16/ARTI2jJdYjSOPeSXLl2d5NM4260116.shtml)
+
++ [韩国法院以妨害公务执行等罪名判处尹锡悦有期徒刑5年](https://news.cctv.com/2026/01/16/ARTIuKo2DpTg1EvjxjTkJhl5260116.shtml)
+
++ [洪都拉斯发生5.1级地震，震源深度10千米](https://news.cctv.com/2026/01/16/ARTIRS1J2GsXIA51QqhsEuCq260116.shtml)
+
++ [洪水泛滥 南非克鲁格国家公园临时关闭](https://news.cctv.com/2026/01/16/ARTIioHk5LRQpdxDTqRbWiDo260116.shtml)
+
++ [委内瑞拉首都加拉加斯](https://photo.cctv.com/2026/01/16/PHOAiHLbrrkBiqsBGYl7P9Of260116.shtml)
+
