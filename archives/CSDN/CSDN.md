@@ -195,3 +195,9 @@
 
 + [Hadoop分布式资源管理框架【Yarn】](https://blog.csdn.net/weixin_60200880/article/details/156994633)
 
++ [【Qt开发】Qt系统（七）-＞ Qt网络安全](https://blog.csdn.net/weixin_74809706/article/details/156833194)
+
++ [【K-Means深度探索（二）】K值之谜：肘部法则与轮廓系数，如何选出你的最佳K？](https://blog.csdn.net/wudu_123456/article/details/156913866)
+
++ [计算机网络篇3:键入网址到网页显示过程+getpost区别+syn攻击+cdn](https://blog.csdn.net/m0_59624833/article/details/156984225)
+
