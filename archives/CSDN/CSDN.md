@@ -127,3 +127,15 @@
 
 + [sward实践教程 - Markdown的创建与管理](https://blog.csdn.net/tiklab2020/article/details/156988789)
 
++ [时序数据库选型指南：以Apache IoTDB为例看国产时序数据库的优势与实践](https://blog.csdn.net/weixin_37800531/article/details/157019232)
+
++ [【.NetAPI]统计标注的值、上公差、下公差](https://blog.csdn.net/he_zhidan/article/details/156994805)
+
++ [【IEEE出版】第二届人工智能、数字媒体技术与社会计算国际学术会议（ICAIDS 2026）](https://blog.csdn.net/Pocker_Spades_A/article/details/156994769)
+
++ [深度体验金仓时序数据库：从“存储与分析困局“到低成本落地的实战记录](https://blog.csdn.net/qq_32682301/article/details/157002245)
+
++ [Apache Kafka 3.2.3 与 3.9.1 版本差异详细对比](https://blog.csdn.net/hezuijiudexiaobai/article/details/156994424)
+
++ [深度学习实战-基于CNN卷积神经网络的稻米图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/155320075)
+

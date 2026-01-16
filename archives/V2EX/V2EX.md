@@ -27,3 +27,11 @@
 
 + [国区 apple pay 可以绑定 visa 之后买美区 gift card 更方便了](https://www.v2ex.com/t/1185845)
 
++ [曾睡过的女同学，经常联系我吐槽婚姻里的不愉快，但我也有家庭啊](https://www.v2ex.com/t/1186095)
+
++ [[首轮募资] 抠腚 API， Claude 中转站, 注册即可领取 30 刀-30 日套餐，无套路，快来帮忙压测](https://www.v2ex.com/t/1185970)
+
++ [鉴于明后天休息，想问下你们理想中的生活是什么样的？](https://www.v2ex.com/t/1186080)
+
++ [UU 远程好用到像盗梦空间](https://www.v2ex.com/t/1185901)
+
