@@ -177,3 +177,9 @@
 
 + [DevOps 实践指南：GitLab与Jenkins部署](https://blog.csdn.net/qq_37182070/article/details/156982244)
 
++ [SpringBoot + Canal + RabbitMQ：MySQL 数据变更实时同步到缓存与搜索系统](https://blog.csdn.net/u010223407/article/details/156135476)
+
++ [基于 Flask 与Vue 3 及协同过滤算法的智能电影推荐系统](https://blog.csdn.net/qq_28641579/article/details/156983741)
+
++ [从0到1部署YOLO26：TensorRT加速+ONNX导出避坑，服务器/边缘设备双场景适配（附完整部署代码+避坑手册）](https://blog.csdn.net/shanwei_spider/article/details/157016920)
+

@@ -21,3 +21,13 @@
 
 + [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 
++ [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots)
+
++ [google/langextract](https://github.com/google/langextract)
+
++ [cjpais/Handy](https://github.com/cjpais/Handy)
+
++ [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+
++ [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
+
