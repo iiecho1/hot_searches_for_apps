@@ -163,3 +163,19 @@
 
 + [普京同伊朗总统通电话 讨论伊朗及周边地区局势](https://news.cctv.com/2026/01/17/ARTIRiVuYwJ46jwbp4cgRpLP260116.shtml)
 
++ [委内瑞拉防长：美国袭击致委方47名官兵身亡](https://news.cctv.com/2026/01/17/ARTIqYnBWjOCzRSUqluEjx8r260117.shtml)
+
++ [美最高法院计划于本月20日公布新一批裁决](https://news.cctv.com/2026/01/17/ARTICE7MDdnFS8LpXR4P49pt260117.shtml)
+
++ [特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税](https://news.cctv.com/2026/01/17/ARTIFgNoj9UgkAZgC0dSfV24260117.shtml)
+
++ [欧洲议会将对欧盟委员会发起不信任动议](https://news.cctv.com/2026/01/17/ARTIhaBwRo5UehXhoIzttoIO260117.shtml)
+
++ [乌政府调整宵禁政策 允许部分设施夜间营业](https://news.cctv.com/2026/01/17/ARTIOr2J2vE5jK9i3bQMtyZI260117.shtml)
+
++ [伊朗媒体：约3000人因骚乱被捕](https://news.cctv.com/2026/01/17/ARTIyUDYUu5mLUUVAniGSJ40260117.shtml)
+
++ [乌最高反腐法院裁定对前总理季莫申科进行保释形式审前羁押](https://news.cctv.com/2026/01/17/ARTIUohb8VC0JHhTjsARjAal260117.shtml)
+
++ [委代总统被曝会见美国中情局局长](https://news.cctv.com/2026/01/17/ARTIrDhMLY3TGiWYhV5VipBh260116.shtml)
+
