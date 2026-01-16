@@ -191,3 +191,9 @@
 
 + [委内瑞拉首都加拉加斯](https://photo.cctv.com/2026/01/16/PHOAiHLbrrkBiqsBGYl7P9Of260116.shtml)
 
++ [高市早苗错误言论影响日本多个产业](https://news.cctv.com/2026/01/16/ARTIE1NNJ3aGijkvr1qYNRad260116.shtml)
+
++ [坚决抵制日本军国主义复活](https://news.cctv.com/2026/01/16/ARTIrk4wEJE0XueK5mB573ZC260116.shtml)
+
++ [塔吉克斯坦专家：中国发展理念对世界发展影响深远](https://news.cctv.com/2026/01/16/ARTIWFSn9MsKxlbCvN3u2s1X260116.shtml)
+

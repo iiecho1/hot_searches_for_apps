@@ -155,3 +155,11 @@
 
 + [2026高职大数据与财务管理专业学数据分析的技术价值分析](https://blog.csdn.net/YangYang9YangYan/article/details/156942737)
 
++ [从零搭建 Spring Cloud 微服务项目：注册中心 + 网关 + 配置中心全流程](https://blog.csdn.net/lbbxmx111/article/details/156990208)
+
++ [React Native for OpenHarmony 实战：ReactNavigation 导航库详解](https://blog.csdn.net/IRpickstars/article/details/157020550)
+
++ [技术解码：Character.ai 如何实现大模型实时推理性能 2 倍提升](https://blog.csdn.net/DO_Community/article/details/157025098)
+
++ [Python 爬虫实战：酷狗音乐评论数据精准抓取与分析](https://blog.csdn.net/2601_94963765/article/details/156957058)
+
