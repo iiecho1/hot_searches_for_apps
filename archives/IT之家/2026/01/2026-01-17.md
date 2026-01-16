@@ -25,3 +25,19 @@
 
 + [罗马仕被曝正亏本清理库存充电宝：27000mAh 型号售价 45 元](https://m.ithome.com/html/913747.htm)
 
++ [广汽本田新款飞度上市：焕新价 6.68 万元，全国限量 3000 台](https://m.ithome.com/html/913531.htm)
+
++ [苹果宣布为中国大陆用户支持 Apple Pay 跨境支付：可添加 Visa 信用卡 / 借记卡](https://m.ithome.com/html/913358.htm)
+
++ [小米 Xiaomi Sound 2 Pro 音箱上架：塑料件外壳材质、两分频架构，1399 元](https://m.ithome.com/html/913380.htm)
+
++ [华为鸿蒙 HarmonyOS 6 沉浸光感视效设计细节公开：通透质感、气态动效等](https://m.ithome.com/html/913506.htm)
+
++ [雷军宣布今晚再次直播，继续聊聊新一代小米 SU7](https://m.ithome.com/html/913338.htm)
+
++ [小米 Xiaomi 蓝牙音箱 Pro 上架：15W 高音 +35W 低音单元、3D 幻彩灯光，599 元](https://m.ithome.com/html/913382.htm)
+
++ [消息称苹果 iPhone 17e 上半年登场：灵动岛设计、升级 A19 处理器，将叠最便宜 iPhone Buff](https://m.ithome.com/html/913481.htm)
+
++ [雷军：新一代小米 SU7 已到最后阶段，将在发布前提前安排展车到店](https://m.ithome.com/html/913417.htm)
+

@@ -61,3 +61,9 @@
 
 + [每夜](https://m.acfun.cn/v/?ac=48197275)
 
++ [wink发射小星星(･ω )☆【LIVE2D】](https://m.acfun.cn/v/?ac=48196804)
+
++ [【东方】你是怎么做到的?!【二ノ瀬泰徳 手书动画】](https://m.acfun.cn/v/?ac=48187546)
+
++ [另一个版本的打光，你们觉得哪个好？](https://m.acfun.cn/v/?ac=48193556)
+
