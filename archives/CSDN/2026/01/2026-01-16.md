@@ -145,3 +145,11 @@
 
 + [PostgreSQL 通过 mysql_fdw连通MySQL实战](https://blog.csdn.net/weixin_41645135/article/details/157016373)
 
++ [IoTDB AINode：SQL驱动时序AI全流程落地](https://blog.csdn.net/qq_56999332/article/details/157020761)
+
++ [效率提升30%却仍痛失市场？关键或许不在动能设计，而在工具选择](https://blog.csdn.net/weixin_43151418/article/details/156990174)
+
++ [云服务器搭建游戏私服详细教程（合规版）](https://blog.csdn.net/lynnuaena/article/details/157020699)
+
++ [Node.js 爬虫实战指南（四）：反反爬策略大全，和网站斗智斗勇](https://blog.csdn.net/weixin_40337785/article/details/156911067)
+
