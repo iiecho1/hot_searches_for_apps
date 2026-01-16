@@ -41,3 +41,5 @@
 
 + [雷军：新一代小米 SU7 已到最后阶段，将在发布前提前安排展车到店](https://m.ithome.com/html/913417.htm)
 
++ [小米卢伟冰：K 系列才会用到的芯片首次来到 Turbo，意味着 REDMI Turbo 5 Max 全面 AOE 2.5K 档](https://m.ithome.com/html/913535.htm)
+

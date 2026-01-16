@@ -123,3 +123,9 @@
 
 + [Flutter `share_plus` 库在鸿蒙 OHOS 平台的分享功能适配实践](https://blog.csdn.net/nanxuan521/article/details/156995958)
 
++ [图像滤波：手撕五大经典滤波（均值 / 高斯 / 中值 / 双边 / 导向）【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/156872829)
+
++ [Spring AI + Elasticsearch：语义/关键字/混合检索与知识问答](https://blog.csdn.net/delongcpp/article/details/156906480)
+
++ [flutter 与鸿蒙融合开发实战：构建跨平台应用的新范式](https://blog.csdn.net/2403_83549836/article/details/156947953)
+
