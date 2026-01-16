@@ -171,3 +171,11 @@
 
 + [丹麦：从未同意成立“美国获得格陵兰岛”工作组](https://news.cctv.com/2026/01/16/ARTIbDjTEiEtZ3il4IxevxyE260116.shtml)
 
++ [美国俄勒冈州沿岸远海发生6.0级地震，震源深度20千米](https://news.cctv.com/2026/01/16/ARTIEadGZOvQUI2QrwlhVgSw260116.shtml)
+
++ [尹锡悦紧急戒严系列案件首场宣判将于16日下午进行](https://news.cctv.com/2026/01/16/ARTIn9apFfnz6tbYBd4DOOrn260116.shtml)
+
++ [特朗普威胁称将在明尼苏达州动用《反叛乱法》](https://news.cctv.com/2026/01/16/ARTIwGyBNjQZricCNZgL8aHX260116.shtml)
+
++ [澳大利亚：逾470万个未成年人社媒账户被关闭](https://news.cctv.com/2026/01/16/ARTIqKijOr6P29E6jcbDZJuq260116.shtml)
+

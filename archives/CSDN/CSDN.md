@@ -139,3 +139,9 @@
 
 + [深度学习实战-基于CNN卷积神经网络的稻米图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/155320075)
 
++ [2026年，我们如何用AI提前看见未来？脉脉「脉向AI」带来新思考](https://blog.csdn.net/sinat_41617212/article/details/156949108)
+
++ [病毒木马侵入系统内核的底层运作机理](https://blog.csdn.net/qq_38933867/article/details/156896305)
+
++ [PostgreSQL 通过 mysql_fdw连通MySQL实战](https://blog.csdn.net/weixin_41645135/article/details/157016373)
+
