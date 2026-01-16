@@ -63,3 +63,19 @@
 
 + [微信 iOS 8.0.68 正式版更新内容汇总：通知显示头像覆盖、聊天界面细节焕新](https://m.ithome.com/html/913593.htm)
 
++ [消费者携 2018 款 MacBook Pro 前往苹果 Apple Store 换电池，“意外”换回 M4 Max 顶配机型](https://m.ithome.com/html/913663.htm)
+
++ [启境汽车声明：将“华为”与“启境”进行捆绑命名等易引起误解的表述，应严格予以禁止](https://m.ithome.com/html/913632.htm)
+
++ [徐洁云回应网传“小米二手车市场一塌糊涂”：部分二手车商为了引流，起夸张惊悚的标题制造焦虑](https://m.ithome.com/html/913626.htm)
+
++ [雷军谈新一代小米 SU7 汽车“752V、897V 碳化硅高压平台”：反小字营销，力求每个事情都准确](https://m.ithome.com/html/913615.htm)
+
++ [Omdia：2025 年华为时隔五年重夺中国大陆智能手机市场第一](https://m.ithome.com/html/913552.htm)
+
++ [罗永浩长文回应“西贝关闭大量门店”：锤子科技集中被黑四年，没有企业仅因“被黑”就倒闭的](https://m.ithome.com/html/913845.htm)
+
++ [行业首个：鸿蒙电视大屏操作系统 FunOS 发布，预计下半年商用](https://m.ithome.com/html/913789.htm)
+
++ [罗马仕被曝正亏本清理库存充电宝：27000mAh 型号售价 45 元](https://m.ithome.com/html/913747.htm)
+
