@@ -79,3 +79,5 @@
 
 + [罗马仕被曝正亏本清理库存充电宝：27000mAh 型号售价 45 元](https://m.ithome.com/html/913747.htm)
 
++ [小米卢伟冰：K 系列才会用到的芯片首次来到 Turbo，意味着 REDMI Turbo 5 Max 全面 AOE 2.5K 档](https://m.ithome.com/html/913535.htm)
+
