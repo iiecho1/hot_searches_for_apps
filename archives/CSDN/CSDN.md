@@ -139,3 +139,5 @@
 
 + [k8s管理](https://blog.csdn.net/weixin_75158822/article/details/157028668)
 
++ [学习笔笔记——ARM 嵌入式系统与内核架构](https://blog.csdn.net/2301_78295956/article/details/157035605)
+

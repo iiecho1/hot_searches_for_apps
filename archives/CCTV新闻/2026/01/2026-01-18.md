@@ -163,3 +163,15 @@
 
 + [丹麦国防部：将加强在格陵兰岛的军事存在](https://news.cctv.com/2026/01/18/ARTIPt3b9c4xKspwMCuaeemN260117.shtml)
 
++ [美国因格陵兰岛问题对欧洲8国加征关税 多国回应：不可接受](https://news.cctv.com/2026/01/18/ARTIjZoExqnPuYSVhhf5Es5x260118.shtml)
+
++ [欧盟-南共市自贸协定正式签署 欧盟内部仍存分歧](https://news.cctv.com/2026/01/18/ARTIMjDvwijIRH3shKiXXnjv260118.shtml)
+
++ [杰哈德指责加沙“和平委员会”组成服务于以方利益](https://news.cctv.com/2026/01/18/ARTI80jKpSI5UyYMsxRnX4M0260118.shtml)
+
++ [特朗普称将对欧洲8国加征关税 直至“完全收购格陵兰岛”](https://news.cctv.com/2026/01/18/ARTIJhlzSPhShcI5enhANtei260118.shtml)
+
++ [以色列称美方公布的加沙执行委员会组成未与以方协调](https://news.cctv.com/2026/01/18/ARTIE6Q0mIpJ217CtzJOpWtq260118.shtml)
+
++ [哥伦比亚发生武装冲突 已致20余人死亡](https://news.cctv.com/2026/01/18/ARTILrN1V6MSWhVAnhIlqCqT260118.shtml)
+
