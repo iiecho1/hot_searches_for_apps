@@ -161,3 +161,11 @@
 
 + [鸿蒙跨端框架 Flutter 学习 Day 3：综合实践——多维数据流与实时交互实验室](https://blog.csdn.net/qq_39088168/article/details/157030988)
 
++ [金仓数据库的新格局：以多模融合开创文档数据库](https://blog.csdn.net/weixin_42878111/article/details/157034348)
+
++ [CSS给文本添加背景颜色等效果](https://blog.csdn.net/weixin_46541579/article/details/156954092)
+
++ [HarmonyAPP 开发Flutter 嵌入鸿蒙原生 Swiper 组件教程](https://blog.csdn.net/ldc121xy716/article/details/157021566)
+
++ [基于 Flutter × OpenHarmony 的大小写转换工具实践](https://blog.csdn.net/2501_92427005/article/details/157026518)
+
