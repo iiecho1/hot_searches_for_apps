@@ -195,3 +195,7 @@
 
 + [基于 Flutter × OpenHarmony 的应用头部信息区域的实现与解析](https://blog.csdn.net/m0_71592416/article/details/157031703)
 
++ [React Native for OpenHarmony 实战：I18n 国际化详解](https://blog.csdn.net/IRpickstars/article/details/157020423)
+
++ [【Python爬虫实战】用 Flet 把爬虫做成手机 App](https://blog.csdn.net/2301_81231173/article/details/157035186)
+
