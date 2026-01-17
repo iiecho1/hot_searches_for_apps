@@ -169,3 +169,7 @@
 
 + [基于 Flutter × OpenHarmony 的大小写转换工具实践](https://blog.csdn.net/2501_92427005/article/details/157026518)
 
++ [2026年网络安全与AI趋势预测](https://blog.csdn.net/ISACAChina/article/details/156944559)
+
++ [鸿蒙+flutter 跨平台开发——鸿蒙版多功能计算器](https://blog.csdn.net/2403_83549836/article/details/157035084)
+
