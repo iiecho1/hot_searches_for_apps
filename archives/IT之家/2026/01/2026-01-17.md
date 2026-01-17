@@ -43,3 +43,21 @@
 
 + [小米卢伟冰：K 系列才会用到的芯片首次来到 Turbo，意味着 REDMI Turbo 5 Max 全面 AOE 2.5K 档](https://m.ithome.com/html/913535.htm)
 
++ [贾国龙：今晚 10 点将就罗永浩对西贝的重大污蔑诽谤一一全面回应](https://m.ithome.com/html/913911.htm)
+
++ [消息称苹果首款折叠屏手机 iPhone Fold 首发 A20 Pro 芯片，基于 2nm 工艺制造](https://m.ithome.com/html/913955.htm)
+
++ [存储涨价重压下，曝小米、OPPO、vivo、传音纷纷下调 2026 全年手机出货预期](https://m.ithome.com/html/913900.htm)
+
++ [长城汽车总裁穆峰称“打死不做增程”：增程是对技术的偷工减料，对出行本质的妥协](https://m.ithome.com/html/913944.htm)
+
++ [英伟达报告搞错单位？200 吨错写成 50 万吨，悄悄大幅下调数据中心铜使用量需求](https://m.ithome.com/html/913790.htm)
+
++ [九号 M5 200 电动摩托车发布：16kW 峰值功率、195km 续航，售 19299 元起](https://m.ithome.com/html/913959.htm)
+
++ [华为智能门锁 X1 金玉满堂上架：玉感外观、镀金铭牌，14999 元](https://m.ithome.com/html/913803.htm)
+
++ [米哈游：《原神》小米服务器转服服务 1 月 20 日关闭，玩家需尽快迁移数据](https://m.ithome.com/html/913952.htm)
+
++ [商务部确认加拿大将中国电动汽车配额内关税降至 6.1%，不再征收 100% 附加税](https://m.ithome.com/html/913981.htm)
+

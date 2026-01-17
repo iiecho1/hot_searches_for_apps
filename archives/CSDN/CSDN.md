@@ -137,3 +137,9 @@
 
 + [新一代云原生 HIS 系统：技术架构全解析 + 核心业务功能全景展示 ](https://blog.csdn.net/qq_27741787/article/details/156985814)
 
++ [【数据库】多模融合，智启新篇：金仓数据库重塑国产文档数据库范式](https://blog.csdn.net/qq_38628970/article/details/157032924)
+
++ [【花雕学编程】Arduino BLDC 之通过分布式SLAM构建全局地图](https://blog.csdn.net/weixin_41659040/article/details/156932462)
+
++ [2026远程软件测评大全：六大主流产品对比与评估(UU/ToDesk/向日葵/AnyDesk/TeamViewer/Splashtop)](https://blog.csdn.net/2302_80961196/article/details/157032848)
+
