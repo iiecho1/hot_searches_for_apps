@@ -65,3 +65,5 @@
 
 + [寻找“AI 灵魂架构师”：打造一个 24 小时在线的“带刀闺蜜”](https://www.v2ex.com/t/1186303)
 
++ [Google Antigravity 使用过程中遇到的一些问题。](https://www.v2ex.com/t/1186388)
+
