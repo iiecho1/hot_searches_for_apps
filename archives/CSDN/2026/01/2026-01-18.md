@@ -133,3 +133,7 @@
 
 + [Docker Desktop 全卸了，新项目上线从3天缩短到3分钟](https://blog.csdn.net/qq_35725500/article/details/157033648)
 
++ [[C++][cmake]基于C++在windows上部署yolo26的目标检测onnx模型](https://blog.csdn.net/FL1623863129/article/details/157032411)
+
++ [鸿蒙+flutter 跨平台开发——鸿蒙版多功能计算器](https://blog.csdn.net/2403_83549836/article/details/157035084)
+
