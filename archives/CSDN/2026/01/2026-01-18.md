@@ -101,3 +101,13 @@
 
 + [华为昇腾适配DeepSeek实战：FP8转BF16权重与FlashMLA加速配置详解](https://blog.csdn.net/qinzhenyan/article/details/157033467)
 
++ [如何使用 httpx + SQLAlchemy 异步高效写入上亿级图片链接与MD5到 PostgreSQL](https://blog.csdn.net/cui_yonghua/article/details/157066787)
+
++ [Python数据封装与私有属性：保护你的数据安全](https://blog.csdn.net/2503_92624912/article/details/156830631)
+
++ [【jQuery】jQuery 简介 ( JavaScript 库简介 | jQuery 核心概念、特点 | jQuery 下载并使用 )](https://blog.csdn.net/han1202012/article/details/156907185)
+
++ [如何一步步将 ASP.NET MVC 升级为.NET](https://blog.csdn.net/dsgdauigfs/article/details/157024927)
+
++ [基于 Flask 与Vue 3 及协同过滤算法的智能电影推荐系统](https://blog.csdn.net/qq_28641579/article/details/156983741)
+
