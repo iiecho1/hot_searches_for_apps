@@ -217,3 +217,9 @@
 
 + [Lua脚本编译全解：从源码到字节码的深度剖析](https://blog.csdn.net/WWW_2634455869/article/details/157034030)
 
++ [【嵌入模型】概念、应用与两大 AI 开源社区（Hugging Face / 魔塔）](https://blog.csdn.net/2302_79806056/article/details/156908446)
+
++ [前端相关动画库(GSAP/Lottie/Swiper/AOS)](https://blog.csdn.net/m0_75192474/article/details/157066976)
+
++ [Linux网络---UDP原理](https://blog.csdn.net/2403_89494445/article/details/156992904)
+
