@@ -21,3 +21,5 @@
 
 + [[首轮募资] 抠腚 API， Claude 中转站, 注册即可领取 30 日/每日 20 美元 积分套餐，无套路，快来帮忙压测](https://www.v2ex.com/t/1186462)
 
++ [卧槽 codex 又自己执行了 git restore](https://www.v2ex.com/t/1186378)
+

@@ -111,3 +111,25 @@
 
 + [基于 Flask 与Vue 3 及协同过滤算法的智能电影推荐系统](https://blog.csdn.net/qq_28641579/article/details/156983741)
 
++ [量子神经网络（QNN）：微算法科技（NASDAQ ：MLGO）图像分类技术新范式](https://blog.csdn.net/MicroTech2025/article/details/156986246)
+
++ [技术解码：Character.ai 如何实现大模型实时推理性能 2 倍提升](https://blog.csdn.net/DO_Community/article/details/157025098)
+
++ [IoTDB AINode：SQL驱动时序AI全流程落地](https://blog.csdn.net/qq_56999332/article/details/157020761)
+
++ [Qt与Web混合编程：CEF与QCefView深度解析](https://blog.csdn.net/2503_92624912/article/details/157061200)
+
++ [深入解析 React Hooks 中的 `useReducer` 原理](https://blog.csdn.net/weixin_42554191/article/details/156851912)
+
++ [通用工业 AMR 的分布式状态控制系统设计原理](https://blog.csdn.net/weixin_41939376/article/details/157034729)
+
++ [Ultralytics YOLO26](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/156972324)
+
++ [【无人机故障】基于遗传算法优化非奇异快速终端滑模控制器 (GANFTSMC)，并结合RBF 径向基神经网络实现四旋翼无人机遭遇单臂结构（过程）故障及对应电机问题附matlab代码](https://blog.csdn.net/qq_59747472/article/details/157029818)
+
++ [「CSDN博客之星」哥们儿，投票吗？我连夜用Three.js搓了个3D星空，里面记录着全部博客足迹。这很程序员。](https://blog.csdn.net/sd1sd2/article/details/156656818)
+
++ [从零搭建：基于数眼智能网页解析API的数据分析机器人（Dify平台）](https://blog.csdn.net/weixin_69040516/article/details/156991116)
+
++ [Docker Desktop 全卸了，新项目上线从3天缩短到3分钟](https://blog.csdn.net/qq_35725500/article/details/157033648)
+
