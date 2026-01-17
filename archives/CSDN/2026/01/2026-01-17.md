@@ -153,3 +153,11 @@
 
 + [Flutter鸿蒙开发指南（二）：组件类型与状态管理](https://blog.csdn.net/qq_74796274/article/details/157024154)
 
++ [基于深度学习的泳池溺水行为检测算法设计](https://blog.csdn.net/Dev7z/article/details/156995014)
+
++ [半年磨一剑：专为 HarmonyOS 6 打造的企业级 UI 组件库开发日志](https://blog.csdn.net/qq_33681891/article/details/156986103)
+
++ [【Linux系统编程】（十八）手搓 Linux Shell 命令行解释器：从 0 到 1 打造属于你的终端神器](https://blog.csdn.net/2301_79248256/article/details/157037340)
+
++ [鸿蒙跨端框架 Flutter 学习 Day 3：综合实践——多维数据流与实时交互实验室](https://blog.csdn.net/qq_39088168/article/details/157030988)
+
