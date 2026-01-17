@@ -67,3 +67,7 @@
 
 + [Google Antigravity 使用过程中遇到的一些问题。](https://www.v2ex.com/t/1186388)
 
++ [[Offer 求建议] 刚入职外企 1，突然拿到外企 2 的竞争性 Offer，该闪辞吗？](https://www.v2ex.com/t/1186409)
+
++ [这两个工作怎么选？](https://www.v2ex.com/t/1186363)
+

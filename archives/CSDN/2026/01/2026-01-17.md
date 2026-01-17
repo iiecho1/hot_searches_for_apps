@@ -179,3 +179,11 @@
 
 + [华为昇腾适配DeepSeek实战：FP8转BF16权重与FlashMLA加速配置详解](https://blog.csdn.net/qinzhenyan/article/details/157033467)
 
++ [2026数杯数学建模 A题 如何防守直接任意球？ 解题思路+模型分析+代码](https://blog.csdn.net/m0_52343631/article/details/157060799)
+
++ [Flutter鸿蒙开发实践（一）：组件化设计与抽离](https://blog.csdn.net/qq_74796274/article/details/156995639)
+
++ [技术与情感的交织 · 本命](https://blog.csdn.net/michaelline/article/details/156046159)
+
++ [Flutter for OpenHarmony 商城App实战 - 优惠券实现](https://blog.csdn.net/2401_88235152/article/details/157031663)
+
