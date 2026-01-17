@@ -59,3 +59,9 @@
 
 + [刚入手了安卓，求推荐些 ios 没有的好玩的 app](https://www.v2ex.com/t/1186258)
 
++ [现在还有什么值得定投的](https://www.v2ex.com/t/1186381)
+
++ [Apple Pay 绑 Visa 购买苹果礼品卡也太玄学了？](https://www.v2ex.com/t/1186354)
+
++ [寻找“AI 灵魂架构师”：打造一个 24 小时在线的“带刀闺蜜”](https://www.v2ex.com/t/1186303)
+
