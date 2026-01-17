@@ -207,3 +207,13 @@
 
 + [RAID10 单盘失效降级处理实操](https://blog.csdn.net/m0_67906358/article/details/156989500)
 
++ [自然语言处理（NLP）实战指南：从传统方法到深度学习](https://blog.csdn.net/2401_86326742/article/details/156980084)
+
++ [深度学习实战-基于CNN卷积神经网络的稻米图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/155320075)
+
++ [Harmony App 开发中Flutter 与鸿蒙原生交互传参教程](https://blog.csdn.net/ldc121xy716/article/details/157021935)
+
++ [【计算机网络 | 第四篇】路由与NAT技术](https://blog.csdn.net/2501_93095927/article/details/156950349)
+
++ [Lua脚本编译全解：从源码到字节码的深度剖析](https://blog.csdn.net/WWW_2634455869/article/details/157034030)
+
