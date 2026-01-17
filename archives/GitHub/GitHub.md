@@ -21,3 +21,5 @@
 
 + [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any)
 
++ [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
+

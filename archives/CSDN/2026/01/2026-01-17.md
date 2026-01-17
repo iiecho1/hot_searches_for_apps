@@ -187,3 +187,11 @@
 
 + [Flutter for OpenHarmony 商城App实战 - 优惠券实现](https://blog.csdn.net/2401_88235152/article/details/157031663)
 
++ [【SpringBoot】从学会使用maven开始](https://blog.csdn.net/2301_81614213/article/details/157023213)
+
++ [redis-2ffca4ed Predixy 中间件高可用故障切换测试报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/157027181)
+
++ [飞书内网页应用免密登录nextcloud并自动按照飞书user_id创建用户](https://blog.csdn.net/quguoliang2013/article/details/157027351)
+
++ [基于 Flutter × OpenHarmony 的应用头部信息区域的实现与解析](https://blog.csdn.net/m0_71592416/article/details/157031703)
+
