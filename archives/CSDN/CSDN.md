@@ -129,3 +129,9 @@
 
 + [阿里云实战：RuoYi项目上云](https://blog.csdn.net/qq_37720414/article/details/157072345)
 
++ [C/C++内存管理核心解析：分布、管理方式与定位new应用](https://blog.csdn.net/zgr993865/article/details/156981343)
+
++ [vite + vue 快速构建 html 页面 （舒适编写html文件）](https://blog.csdn.net/Mo_jon/article/details/157060117)
+
++ [基于Web和Android的漫画阅读平台](https://blog.csdn.net/jsjcxsj_xltx/article/details/157069104)
+
