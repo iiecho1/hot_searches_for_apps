@@ -221,3 +221,7 @@
 
 + [『低代码 + AI：不懂编程也能搭建企业级应用』](https://blog.csdn.net/qq_41187124/article/details/156912891)
 
++ [C++分布式语音识别](https://blog.csdn.net/2501_94498451/article/details/157021702)
+
++ [【IEEE出版】第二届人工智能、数字媒体技术与社会计算国际学术会议（ICAIDS 2026）](https://blog.csdn.net/Pocker_Spades_A/article/details/156994769)
+

@@ -227,3 +227,15 @@
 
 + [专访｜“中国仍是全球经济增长的最大贡献者”——访世界经济论坛总裁博尔格·布伦德](https://news.cctv.com/2026/01/18/ARTIx14BZaCtRlHxCLmpWU1J260118.shtml)
 
++ [土耳其外长称以色列摩萨德正在介入伊朗局势](https://news.cctv.com/2026/01/18/ARTIFTqJHW4hGfTY8AsE8Mx4260118.shtml)
+
++ [葡萄牙举行总统选举首轮投票](https://news.cctv.com/2026/01/18/ARTIYhvgzWrOsrEuIEuw5GsG260118.shtml)
+
++ [安倍遇刺案即将宣判 被告量刑备受关注](https://news.cctv.com/2026/01/18/ARTI4UNEZNgC4Qxvk7BKq8eo260118.shtml)
+
++ [非盟支持以统一调解方式推进刚果（金）东部和平进程](https://news.cctv.com/2026/01/18/ARTIn3vEKnWtFl98EdeCbIFf260118.shtml)
+
++ [伊朗与伊拉克联合发声：携手应对挑战 维护地区安全](https://news.cctv.com/2026/01/18/ARTIqwkSOYcqwVv39hMckJQZ260118.shtml)
+
++ [马克龙回应美关税威胁：不排除启动欧盟最强硬贸易反制工具](https://news.cctv.com/2026/01/18/ARTI7pevxCBBiVcFin3z2hEc260118.shtml)
+
