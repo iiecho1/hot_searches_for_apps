@@ -163,3 +163,15 @@
 
 + [测试用例管理怎么做度量？6个指标思路和工具对比](https://blog.csdn.net/F36_9_/article/details/157033747)
 
++ [把 DeepSeek/Kimi 输出的 LaTeX/表格/Mermaid 一键变成可编辑 Word/Visio：我的文档自动化流程](https://blog.csdn.net/qq_32483287/article/details/157021019)
+
++ [KingbaseES数据库：国产化替代浪潮下，金仓时序数据库的核心竞争力与落地路径](https://blog.csdn.net/weixin_43151418/article/details/156990492)
+
++ [国产时序数据库实战，金仓如何破解电力行业数据困局](https://blog.csdn.net/beautifulmemory/article/details/157029179)
+
++ [【机器学习】深度学习推荐系统（二十六）：X 推荐算法多模型融合机制详解](https://blog.csdn.net/weixin_48007632/article/details/156990627)
+
++ [【Java】Java 实战项目：从零开发一个在线教育平台，附完整部署教程](https://blog.csdn.net/lbbxmx111/article/details/157035969)
+
++ [GitHub 热榜项目 - 日榜(2026-01-18)](https://blog.csdn.net/u014390502/article/details/157093601)
+

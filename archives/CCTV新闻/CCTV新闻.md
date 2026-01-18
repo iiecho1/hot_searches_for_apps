@@ -193,3 +193,7 @@
 
 + [美国宣布“夺岛关税” 欧洲国家“反对勒索”](https://news.cctv.com/2026/01/18/ARTIUBvcU62bSmGLLt2DHx9Q260118.shtml)
 
++ [美载人绕月飞行任务进入关键准备阶段](https://photo.cctv.com/2026/01/18/PHOA2GzTENJdo3tui3GV13MM260118.shtml)
+
++ [美载人绕月飞行任务进入关键准备阶段](https://news.cctv.com/2026/01/18/ARTIiKYoTK1XD4aRpFIv0M86260118.shtml)
+
