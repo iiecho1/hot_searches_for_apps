@@ -207,3 +207,17 @@
 
 + [【linux】高级IO（一）认识五种IO模型，非阻塞IO的实现，fcntl](https://blog.csdn.net/2301_80751958/article/details/157023132)
 
++ [讲讲Spring MVC的处理流程](https://blog.csdn.net/gdpu2400502251/article/details/157095160)
+
++ [Trae vs. 传统AI编程工具：谁更适合你的开发场景？——深度对比与实战指南](https://blog.csdn.net/qq_46987323/article/details/157065113)
+
++ [【AI大模型开发】-RAG 技术详解](https://blog.csdn.net/zxc18344522713/article/details/157066579)
+
++ [【AI智能体】N8N 对接飞书多维表实现数据增删改查实战详解](https://blog.csdn.net/zhangcongyi420/article/details/156772551)
+
++ [Maven高级：分模块、聚合继承、多环境配置与私服搭建](https://blog.csdn.net/2401_86760859/article/details/155805604)
+
++ [AI 生成 PPT 真能替代人工吗？多款工具深度测试](https://blog.csdn.net/qzoffice/article/details/156994441)
+
++ [『低代码 + AI：不懂编程也能搭建企业级应用』](https://blog.csdn.net/qq_41187124/article/details/156912891)
+

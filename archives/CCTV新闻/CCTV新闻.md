@@ -221,3 +221,9 @@
 
 + [格陵兰岛设立临时军事区域 用于存放军事装备](https://news.cctv.com/2026/01/18/ARTImWZn1WNeNAVZoMapFR9G260118.shtml)
 
++ [加拿大商界人士积极评价加中经贸磋商成果](https://news.cctv.com/2026/01/18/ARTIbcVDmszSASunzmrKXaFq260118.shtml)
+
++ [塞内加尔媒体：2026年“中非人文交流年”打开合作新空间](https://news.cctv.com/2026/01/18/ARTI9907aMmnXrjKfX8uYfYJ260118.shtml)
+
++ [专访｜“中国仍是全球经济增长的最大贡献者”——访世界经济论坛总裁博尔格·布伦德](https://news.cctv.com/2026/01/18/ARTIx14BZaCtRlHxCLmpWU1J260118.shtml)
+
