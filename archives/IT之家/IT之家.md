@@ -35,3 +35,23 @@
 
 + [华为智能门锁 X1 金玉满堂上架：玉感外观、镀金铭牌，14999 元](https://m.ithome.com/html/913803.htm)
 
++ [苹果 iPhone 18 Pro 渲染视频曝光：单打孔、可变光圈](https://m.ithome.com/html/914078.htm)
+
++ [罗永浩确认被微博禁言 15 天，个人不会再回应“西贝事件”](https://m.ithome.com/html/914148.htm)
+
++ [央视《2026 年春节联欢晚会》完成首次彩排，机器人将再度登场](https://m.ithome.com/html/914135.htm)
+
++ [阿维塔回应“南宁 15 辆车连撞事故”：辅助驾驶功能未激活，部分媒体恶意剪辑与传播](https://m.ithome.com/html/914140.htm)
+
++ [唯一 Ⅱ 级：华为鸿蒙 HarmonyOS 桌面操作系统首次通过中国信息安全测评中心认证](https://m.ithome.com/html/914072.htm)
+
++ [消息称苹果计划为 5 款产品升级 OLED 屏幕，涵盖 iPad mini、iMac、MacBook Air 等](https://m.ithome.com/html/914096.htm)
+
++ [追觅科技创始人俞浩再谈“打造全球首个百万亿美元公司”：用二十年奋斗，符合历史规律](https://m.ithome.com/html/914040.htm)
+
++ [小牛 NX 风速电动摩托车上市：4799 元起，极速 80km/h](https://m.ithome.com/html/914117.htm)
+
++ [跑赢金价：数据表明 8TB NVMe 固态硬盘重量单价已超黄金](https://m.ithome.com/html/914059.htm)
+
++ [华为余承东：HarmonyOS 6 机型月底将上线春节水印、AI 沾色、碰一碰烟花特效](https://m.ithome.com/html/914085.htm)
+
