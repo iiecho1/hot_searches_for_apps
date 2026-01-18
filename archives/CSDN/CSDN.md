@@ -135,3 +135,5 @@
 
 + [基于Web和Android的漫画阅读平台](https://blog.csdn.net/jsjcxsj_xltx/article/details/157069104)
 
++ [鸿蒙跨端框架 Flutter 学习 Day 4：程序生存法则——异常捕获与异步错误处理的熔断艺术](https://blog.csdn.net/qq_39088168/article/details/157069582)
+
