@@ -219,3 +219,5 @@
 
 + [印尼确认失联飞机已坠毁 发现一名遇难者遗体](https://news.cctv.com/2026/01/18/ARTImeLyTLPF4KSLBIX6IvYW260118.shtml)
 
++ [格陵兰岛设立临时军事区域 用于存放军事装备](https://news.cctv.com/2026/01/18/ARTImWZn1WNeNAVZoMapFR9G260118.shtml)
+

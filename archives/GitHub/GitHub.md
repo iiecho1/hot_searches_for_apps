@@ -13,3 +13,15 @@
 
 + [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
 
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
++ [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
++ [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
+
++ [tobi/try](https://github.com/tobi/try)
+
++ [Mebus/cupp](https://github.com/Mebus/cupp)
+
