@@ -177,3 +177,17 @@
 
 + [伊朗一间谍组织被瓦解 其主要成员曾多次前往以色列](https://news.cctv.com/2026/01/18/ARTIB8JTbgP937iN1wMXWZ9J260118.shtml)
 
++ [美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元](https://news.cctv.com/2026/01/18/ARTI2HMkcOlipCPlsamxRKFU260118.shtml)
+
++ [白宫经济顾问：调查鲍威尔“不会有啥结果”](https://news.cctv.com/2026/01/18/ARTI9oJVk4wHWRSZD8eazW4c260118.shtml)
+
++ [涉中国电动汽车，美交通部长称“加拿大会后悔”，外国网友回怼：该后悔的是美国吧！](https://news.cctv.com/2026/01/18/ARTIFnibFUJUU4R0jSS0pi4j260118.shtml)
+
++ [日本最大核电站机组重启可能推迟](https://news.cctv.com/2026/01/18/ARTIDz9JGS88126linb8ukiz260118.shtml)
+
++ [美国明尼苏达州国民警卫队进入“待命状态”](https://news.cctv.com/2026/01/18/ARTIvkvXPuEIKhoLE4HpmrDh260118.shtml)
+
++ [欧盟将举行紧急会议 商讨格陵兰岛及美关税问题](https://news.cctv.com/2026/01/18/ARTIxOMoQjk6rs0OcdQXKR0O260118.shtml)
+
++ [美称空袭叙利亚西北部 打死一名与“基地”组织关联头目](https://news.cctv.com/2026/01/18/ARTIITZ4JSzuWSdBNx5jvqwu260118.shtml)
+

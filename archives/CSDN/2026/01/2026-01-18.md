@@ -145,3 +145,9 @@
 
 + [《epoll深度解析：从原理到使用，解锁Linux高并发I/O的核心能力（终篇）》](https://blog.csdn.net/Dovis5884/article/details/155820674)
 
++ [多模数据库技术解析：以KingbaseES MongoDB兼容版为例](https://blog.csdn.net/Mrxiao_bo/article/details/157036445)
+
++ [【从零开始的Qt开发指南】（二十四）Qt 界面优化之绘图实战：解锁自定义界面的无限可能](https://blog.csdn.net/2301_79248256/article/details/157022111)
+
++ [【开源鸿蒙跨平台开发先锋训练营】DAY 3 Flutter集成Dio网络请求，本地美食数据清单列表功能开发](https://blog.csdn.net/m0_74451345/article/details/157024056)
+
