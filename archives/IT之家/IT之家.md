@@ -55,3 +55,19 @@
 
 + [华为余承东：HarmonyOS 6 机型月底将上线春节水印、AI 沾色、碰一碰烟花特效](https://m.ithome.com/html/914085.htm)
 
++ [中国铁路 12306 宣布升级：在发车 4 小时前，误购车票可在 30 分钟内免费退票](https://m.ithome.com/html/914165.htm)
+
++ [消息称华为 Mate 80 单品激活 150 万，逆袭成年底国产旗舰第一](https://m.ithome.com/html/914157.htm)
+
++ [吴京、袁和平电影《镖人：风起大漠》定档大年初一，李连杰时隔 15 年重返武打片](https://m.ithome.com/html/914181.htm)
+
++ [消息称高通 SM8975 芯片超大杯机型全员搭载 LOFIC 技术](https://m.ithome.com/html/914109.htm)
+
++ [全新奇瑞 QQ3 纯电车预告：灵犀座舱、猎鹰 500 智驾，有望下月发布](https://m.ithome.com/html/914143.htm)
+
++ [荣耀 Magic8 Pro Air 新机官宣支持 eSIM，搭配实体 SIM 卡可实现四卡双待](https://m.ithome.com/html/914160.htm)
+
++ [奇瑞汽车宣布三大升级计划，2026 年超 35 款车型将搭载猎鹰智驾](https://m.ithome.com/html/914155.htm)
+
++ [免费坐 3 年公交地铁，福建福州延长“新福卡”应届毕业生优惠政策](https://m.ithome.com/html/914119.htm)
+

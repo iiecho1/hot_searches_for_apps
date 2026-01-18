@@ -179,3 +179,13 @@
 
 + [智能家居接入Alexa App和语音平台](https://blog.csdn.net/luckytanggu/article/details/157065095)
 
++ [交叉表格与卡方检验：新能源汽车研发测试中的分类变量关联性分析实战](https://blog.csdn.net/weixin_62244995/article/details/157063120)
+
++ [Harmony应用中 HAR 包开发与发布到openharmony中的完整指南](https://blog.csdn.net/ldc121xy716/article/details/156985570)
+
++ [DeepSeek本地部署：Ollama＋Open WebUI ](https://blog.csdn.net/weixin_44062613/article/details/157062821)
+
++ [深入理解TCP协议](https://blog.csdn.net/2302_80836018/article/details/157070436)
+
++ [【Docker#1】技术架构演进之路](https://blog.csdn.net/weixin_50776420/article/details/157096778)
+
