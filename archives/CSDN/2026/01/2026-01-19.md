@@ -107,3 +107,25 @@
 
 + [【开源鸿蒙跨平台开发先锋训练营】DAY 3 Flutter集成Dio网络请求，本地美食数据清单列表功能开发](https://blog.csdn.net/m0_74451345/article/details/157024056)
 
++ [【数据库】2026国产时序数据库新格局与金仓的多模突围](https://blog.csdn.net/qq_38628970/article/details/157098575)
+
++ [《数字图像处理》第 11 章 - 表示与描述](https://blog.csdn.net/2302_80961196/article/details/157101973)
+
++ [【linux】高级IO（一）认识五种IO模型，非阻塞IO的实现，fcntl](https://blog.csdn.net/2301_80751958/article/details/157023132)
+
++ [基于 Flutter × OpenHarmony 的调色板系统：颜色分类选择器的设计与实现](https://blog.csdn.net/weixin_52908342/article/details/157100475)
+
++ [pmu+power控制+pmic](https://blog.csdn.net/feifei126/article/details/157067028)
+
++ [Python Web 开发进阶实战：无障碍深度集成 —— 构建真正包容的 Flask + Vue 应用](https://blog.csdn.net/weixin_52208686/article/details/157021733)
+
++ [Maven——pom.xml详解](https://blog.csdn.net/cold___play/article/details/157068491)
+
++ [Spring Boot 配置文件未生效](https://blog.csdn.net/qq_36478920/article/details/157070300)
+
++ [Xilinx FPGA Flash启动时钟频率](https://blog.csdn.net/Js_cold/article/details/157068634)
+
++ [测试用例管理怎么做度量？6个指标思路和工具对比](https://blog.csdn.net/F36_9_/article/details/157033747)
+
++ [阿里云实战：RuoYi项目上云](https://blog.csdn.net/qq_37720414/article/details/157072345)
+
