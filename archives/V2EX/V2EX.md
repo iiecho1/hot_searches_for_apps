@@ -41,3 +41,9 @@
 
 + [Chrome 推出原生的垂直标签页了](https://www.v2ex.com/t/1186536)
 
++ [我发现换花洒是花小钱提升生活质量的好办法](https://www.v2ex.com/t/1186543)
+
++ [team leader 不写代码正常吗](https://www.v2ex.com/t/1186524)
+
++ [「怀旧向」用 HTML+CSS 像素级复刻 QQ2006 经典界面](https://www.v2ex.com/t/1186508)
+
