@@ -225,3 +225,7 @@
 
 + [【IEEE出版】第二届人工智能、数字媒体技术与社会计算国际学术会议（ICAIDS 2026）](https://blog.csdn.net/Pocker_Spades_A/article/details/156994769)
 
++ [（YOLO前置知识点）神经网络、Pytorch、卷积神经网络CNN](https://blog.csdn.net/m0_73991249/article/details/156570302)
+
++ [RPC分布式通信（2）---四种典型式线程池（1）](https://blog.csdn.net/wt20050610/article/details/157064465)
+
