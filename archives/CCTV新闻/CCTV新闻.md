@@ -161,3 +161,15 @@
 
 + [乌政府调整宵禁政策 允许部分设施夜间营业](https://news.cctv.com/2026/01/17/ARTIOr2J2vE5jK9i3bQMtyZI260117.shtml)
 
++ [叙过渡政府与“叙利亚民主力量”达成新的停火和全面整合协议](https://news.cctv.com/2026/01/19/ARTIKojHEL1x4UfyH0aPnPX7260119.shtml)
+
++ [危地马拉监狱骚乱引发暴力事态 全国停课一天](https://news.cctv.com/2026/01/19/ARTIpi4aCpq60cc8Ihm6fXyU260119.shtml)
+
++ [西班牙高铁脱轨事故已致10死多伤](https://news.cctv.com/2026/01/19/ARTI05QpvELsg86SnGFjXIxc260119.shtml)
+
++ [西班牙高速列车脱轨事故已致至少5人死亡](https://news.cctv.com/2026/01/19/ARTIxZu0T0fI0w7meH73cHMZ260119.shtml)
+
++ [西班牙南部高速列车脱轨事故已致至少两人死亡](https://news.cctv.com/2026/01/19/ARTIksTmQmCvUOj3pZ0Y6HUq260119.shtml)
+
++ [欧盟多国考虑对930亿欧元输欧美国商品加征关税](https://news.cctv.com/2026/01/19/ARTIopSW6iATUnMDG6n18inf260119.shtml)
+
