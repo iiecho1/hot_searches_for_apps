@@ -229,3 +229,9 @@
 
 + [RPC分布式通信（2）---四种典型式线程池（1）](https://blog.csdn.net/wt20050610/article/details/157064465)
 
++ [微信小程序 - 微信支付报错 “调用支付JSAPI缺少参数: total_fee“，微信小程序强力解决调用支付JSAPI缺少参数：total_fee解决办法（包括微信小程序云开发对接微信支付报错问题）](https://blog.csdn.net/weixin_44198965/article/details/157102099)
+
++ [Nest.js 框架 企业级开发通关手册](https://blog.csdn.net/2302_80706750/article/details/157101160)
+
++ [吃透C++类和对象(下)：内部类、匿名对象及编译器优化的深度解析](https://blog.csdn.net/2501_91275995/article/details/157062446)
+
