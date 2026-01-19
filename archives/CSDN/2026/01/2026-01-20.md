@@ -137,3 +137,5 @@
 
 + [手机开源系统（LineageOS/PostmarketOS实战）](https://blog.csdn.net/eidolon_foot/article/details/157024172)
 
++ [7天读懂MySQL｜特别篇：MVCC详解](https://blog.csdn.net/qq_33229153/article/details/157028838)
+
