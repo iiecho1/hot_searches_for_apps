@@ -129,3 +129,9 @@
 
 + [ArcGIS Pro 添加底图的方式](https://blog.csdn.net/qq_45015198/article/details/157070182)
 
++ [SpringBoot 集成 Elasticsearch 实战（全文检索与聚合分析）：打造高效海量数据检索系统](https://blog.csdn.net/2503_94434664/article/details/157060307)
+
++ [Linux ALSA驱动详解](https://blog.csdn.net/qq_39952971/article/details/157066834)
+
++ [终于打通了谷歌AI编程工具 Antigravity（亲测有效）](https://blog.csdn.net/weixin_53776669/article/details/157102441)
+
