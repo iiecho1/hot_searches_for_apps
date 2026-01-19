@@ -135,3 +135,5 @@
 
 + [终于打通了谷歌AI编程工具 Antigravity（亲测有效）](https://blog.csdn.net/weixin_53776669/article/details/157102441)
 
++ [手机开源系统（LineageOS/PostmarketOS实战）](https://blog.csdn.net/eidolon_foot/article/details/157024172)
+
