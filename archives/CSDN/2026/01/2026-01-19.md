@@ -159,3 +159,9 @@
 
 + [三、语法篇_Verilog](https://blog.csdn.net/m0_67213461/article/details/156944894)
 
++ [拖拽式AI应用工厂：ModelEngine应用编排深度体验，智能表单与插件开发实战](https://blog.csdn.net/2401_85083137/article/details/157102273)
+
++ [RPC分布式通信（1）--分布式通信讲解](https://blog.csdn.net/wt20050610/article/details/157064256)
+
++ [Xilinx FPGA温度等级及选型建议](https://blog.csdn.net/Js_cold/article/details/157068476)
+
