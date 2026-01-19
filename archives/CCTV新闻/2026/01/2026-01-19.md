@@ -173,3 +173,5 @@
 
 + [欧盟多国考虑对930亿欧元输欧美国商品加征关税](https://news.cctv.com/2026/01/19/ARTIopSW6iATUnMDG6n18inf260119.shtml)
 
++ [西班牙高铁脱轨事故已致至少21人死亡 百余人受伤](https://news.cctv.com/2026/01/19/ARTIf2NTjP4GihA09t3tOI9R260119.shtml)
+

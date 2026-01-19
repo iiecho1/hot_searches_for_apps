@@ -23,3 +23,9 @@
 
 + [开源无 sim 手机是不是大有可为？](https://www.v2ex.com/t/1186612)
 
++ [求一套多 PC 同步/共享键鼠方案](https://www.v2ex.com/t/1186605)
+
++ [有没有推荐的可以独立部署的聊天工具？](https://www.v2ex.com/t/1186534)
+
++ [macbook air M2 有一个重启的问题，你们有吗？](https://www.v2ex.com/t/1186549)
+
