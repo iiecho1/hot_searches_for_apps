@@ -101,3 +101,9 @@
 
 + [openJiuwen 智能体平台使用意图识别工作流判断是否包含违规词](https://blog.csdn.net/2401_86113894/article/details/157096378)
 
++ [AIGC（生成式AI）试用 44 -- 个人知识库 DocsGpt](https://blog.csdn.net/u012841352/article/details/156807063)
+
++ [Xilinx FPGA温度等级及选型建议](https://blog.csdn.net/Js_cold/article/details/157068476)
+
++ [Maven——pom.xml详解](https://blog.csdn.net/cold___play/article/details/157068491)
+
