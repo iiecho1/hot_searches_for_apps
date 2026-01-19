@@ -165,3 +165,15 @@
 
 + [Xilinx FPGA温度等级及选型建议](https://blog.csdn.net/Js_cold/article/details/157068476)
 
++ [【愚公系列】《AI+直播营销》034-直播间装修和布置（直播间装修和布置的5个要素）](https://blog.csdn.net/aa2528877987/article/details/156789011)
+
++ [当奥本海默遇到图灵：AI 开启的网络安全新纪元](https://blog.csdn.net/oQianYuan/article/details/157070505)
+
++ [2025前端框架趋势：React领跑，Vue稳健，Angular深耕企业级](https://blog.csdn.net/dou_douer/article/details/157131269)
+
++ [springboot调用ffmpeg实现对视频的截图，截取与水印](https://blog.csdn.net/l244112311/article/details/157070211)
+
++ [基于YOLOv8/YOLOv10/YOLOv11/YOLOv12与SpringBoot的森林火灾烟雾检测系统（DeepSeek智能分析+web交互界面+前后端分离+YOLO数据](https://blog.csdn.net/m0_68036862/article/details/156914756)
+
++ [Flutter × OpenHarmony 实战：构建智能汇率转换金额输入框](https://blog.csdn.net/m0_71592416/article/details/157102765)
+
