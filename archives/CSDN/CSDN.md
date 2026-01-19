@@ -107,3 +107,25 @@
 
 + [Maven——pom.xml详解](https://blog.csdn.net/cold___play/article/details/157068491)
 
++ [IoTDB 监控实战：Prometheus + Grafana 部署与配置指南](https://blog.csdn.net/weixin_43151418/article/details/156576396)
+
++ [Java 大视界 -- 基于 Java 的大数据可视化在城市水资源管理与节水策略制定中的应用](https://blog.csdn.net/atgfg/article/details/157135190)
+
++ [鸿蒙极客教大家如何开发鸿蒙APP-- 实况窗进阶开发](https://blog.csdn.net/weixin_42299977/article/details/157100670)
+
++ [【表盘识别】基于形态学的指针式压力表识别附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/157058219)
+
++ [基于YOLOv8/YOLOv10/YOLOv11/YOLOv12与SpringBoot的3D打印缺陷检测系统（深度学习+DeepSeek智能分析+web交互界面+前后端分离+YOLO数据集）](https://blog.csdn.net/m0_68036862/article/details/156874462)
+
++ [翁家翌谈AI工程与人生哲学](https://blog.csdn.net/OddSmurfs/article/details/157098365)
+
++ [2025.12.17华为软开](https://blog.csdn.net/weixin_74175349/article/details/157070390)
+
++ [【linux】高级IO（一）认识五种IO模型，非阻塞IO的实现，fcntl](https://blog.csdn.net/2301_80751958/article/details/157023132)
+
++ [HarmonyOS 6 智能带办应用开发之华为登录接入](https://blog.csdn.net/sjw890821sjw/article/details/157127324)
+
++ [企业级AI模型市场建设中的模型部署：AI应用架构师的3个工具（Docker+K8s+Triton）](https://blog.csdn.net/universsky2015/article/details/157070241)
+
++ [ArcGIS Pro 添加底图的方式](https://blog.csdn.net/qq_45015198/article/details/157070182)
+
