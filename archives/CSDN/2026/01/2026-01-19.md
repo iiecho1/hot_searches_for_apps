@@ -221,3 +221,13 @@
 
 + [【AI大模型开发】-基于 Word2Vec 的中文古典小说词向量分析实战](https://blog.csdn.net/zxc18344522713/article/details/157046641)
 
++ [【Linux系统编程】进程管理探秘：从硬件架构到僵尸/孤儿进程](https://blog.csdn.net/zgr993865/article/details/157096870)
+
++ [【计算机网络】简学深悟启示录：序列化&&反序列化](https://blog.csdn.net/Zero_VPN/article/details/156943103)
+
++ [Spring AI vs Spring AI Alibaba](https://blog.csdn.net/2301_80719364/article/details/157098632)
+
++ [高并发的本质：超越语言的协作哲学——以 Go HTTP 服务器为例](https://blog.csdn.net/goodparty/article/details/157104738)
+
++ [计算机网络经典问题透视：RTCP协议深度解析——从应用场景到五大分组类型](https://blog.csdn.net/qq_74326393/article/details/157104552)
+

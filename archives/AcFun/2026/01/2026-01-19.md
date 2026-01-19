@@ -147,3 +147,13 @@
 
 + [刺痛（Sting）](https://m.acfun.cn/v/?ac=48204238)
 
++ [杭州下雨了，随口一唱](https://m.acfun.cn/v/?ac=48204904)
+
++ [【Dear*ポラリス】 Continue / ハルカとミユキ【翻唱】](https://m.acfun.cn/v/?ac=48201267)
+
++ [这青蛇如此滑溜，能抓住她吗?](https://m.acfun.cn/v/?ac=48202207)
+
++ [隐藏黑暗的美食节目！个人剧情解释《Poppin-Play Kitchen》试播集](https://m.acfun.cn/v/?ac=48204004)
+
++ [【逛吃临汾】终于吃到了满满红油的牛肉丸子面！碳水拉满连吃五家](https://m.acfun.cn/v/?ac=48202866)
+
