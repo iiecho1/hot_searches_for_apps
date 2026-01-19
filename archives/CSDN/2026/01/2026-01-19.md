@@ -215,3 +215,9 @@
 
 + [MedSeg - R：利用多模态大语言模型进行医学图像推理分割](https://blog.csdn.net/qq_40379132/article/details/157031945)
 
++ [【教程4＞第10章＞第24节】基于FPGA的图像Laplace边缘提取算法开发——图像Laplace边缘提取仿真测试以及MATLAB辅助验证](https://blog.csdn.net/ccsss22/article/details/157134824)
+
++ [Ribbon - 在网关中的应用：Zuul 1.x 如何利用 Ribbon 转发请求](https://blog.csdn.net/qq_41187124/article/details/156487636)
+
++ [【AI大模型开发】-基于 Word2Vec 的中文古典小说词向量分析实战](https://blog.csdn.net/zxc18344522713/article/details/157046641)
+
