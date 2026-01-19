@@ -187,3 +187,7 @@
 
 + [葡萄牙总统选举将进入第二轮](https://photo.cctv.com/2026/01/19/PHOAloYUuqmdJXhbzjkhfDwA260119.shtml)
 
++ [中东战地手记丨当美军远去，伊拉克才能迈开脚步、稳步前行](https://news.cctv.com/2026/01/19/ARTI8mKEhoyw7fVcTFWzenDT260119.shtml)
+
++ [特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到](https://news.cctv.com/2026/01/19/ARTI9reXVFdO03ulZfy9IfOx260119.shtml)
+

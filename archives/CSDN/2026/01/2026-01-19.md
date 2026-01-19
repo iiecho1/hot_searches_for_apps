@@ -177,3 +177,15 @@
 
 + [Flutter × OpenHarmony 实战：构建智能汇率转换金额输入框](https://blog.csdn.net/m0_71592416/article/details/157102765)
 
++ [轨迹优化 | 微分动态规划DDP与迭代线性二次型调节器iLQR理论推导](https://blog.csdn.net/FRIGIDWINTER/article/details/157101219)
+
++ [RPC魔法揭秘：从原理到BRPC实战，用C++玩转分布式通信](https://blog.csdn.net/2401_82648291/article/details/153209273)
+
++ [多智能体协作驱动的多模态医疗大模型系统：RAG–KAG双路径知识增强与架构的设计与验证（上）](https://blog.csdn.net/kkiron/article/details/157127512)
+
++ [Android16 EDLA中GMS导入和更新](https://blog.csdn.net/wenzhi20102321/article/details/157024759)
+
++ [开源高性能RPC框架：Apache Dubbo全览与实践指南](https://blog.csdn.net/qq_42257666/article/details/156272731)
+
++ [基于YOLOv8/YOLOv10/YOLOv11/YOLOv12与SpringBoot的3D打印缺陷检测系统（深度学习+DeepSeek智能分析+web交互界面+前后端分离+YOLO数据集）](https://blog.csdn.net/m0_68036862/article/details/156874462)
+
