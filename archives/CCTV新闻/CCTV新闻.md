@@ -191,3 +191,21 @@
 
 + [特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到](https://news.cctv.com/2026/01/19/ARTI9reXVFdO03ulZfy9IfOx260119.shtml)
 
++ [加拿大考虑向格陵兰岛派兵参与演习](https://news.cctv.com/2026/01/19/ARTI20TPfrMTrXRCjyRYCEvx260119.shtml)
+
++ [日媒：日本自卫队员利用官衔性侵男同僚，被判5年监禁](https://news.cctv.com/2026/01/19/ARTIbKL2UxuLisNHYJJIXFFi260119.shtml)
+
++ [印度一架客机紧急降落：机舱内发现炸弹威胁字条](https://news.cctv.com/2026/01/19/ARTIyMuSjngFcUddy82YV3jE260119.shtml)
+
++ [叙过渡政府总统因国内局势推迟访德](https://news.cctv.com/2026/01/19/ARTIEubtxwjuLBiZKb3uDQyb260119.shtml)
+
++ [印尼两座火山喷发 火山灰柱最高达1000米](https://news.cctv.com/2026/01/19/ARTIwn3VZfJDlXIWsBUtBOOb260119.shtml)
+
++ [巴基斯坦卡拉奇购物中心火灾已致14死 仍有60人失踪](https://news.cctv.com/2026/01/19/ARTIOV7MfsRBVvBi0pkgqSVt260119.shtml)
+
++ [俄远东堪察加半岛遭遇罕见极端暴雪](https://news.cctv.com/2026/01/19/ARTIK9PATFeGhyVVMrZetQ2W260119.shtml)
+
++ [西班牙高铁脱轨事故已致至少39人死亡 百余人受伤](https://news.cctv.com/2026/01/19/ARTIrpkAyigtVuZm2ZCaPXmE260119.shtml)
+
++ [古巴国防委员会批准战争状态相关预案](https://news.cctv.com/2026/01/19/ARTI84OMBuGLd1JQ7xHFF7RA260119.shtml)
+

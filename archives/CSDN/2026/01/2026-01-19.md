@@ -189,3 +189,9 @@
 
 + [基于YOLOv8/YOLOv10/YOLOv11/YOLOv12与SpringBoot的3D打印缺陷检测系统（深度学习+DeepSeek智能分析+web交互界面+前后端分离+YOLO数据集）](https://blog.csdn.net/m0_68036862/article/details/156874462)
 
++ [IoTDB 监控实战：Prometheus + Grafana 部署与配置指南](https://blog.csdn.net/weixin_43151418/article/details/156576396)
+
++ [KingbaseES 数据库赋能：时序数据库国产化替代的硬实力范本](https://blog.csdn.net/lrq13965748542/article/details/157131643)
+
++ [时序问题解决过程记录（跨时钟域、delay、IDELAY）](https://blog.csdn.net/m0_69500424/article/details/156989764)
+
