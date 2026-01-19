@@ -211,3 +211,7 @@
 
 + [openJiuwen 智能体平台使用意图识别工作流判断是否包含违规词](https://blog.csdn.net/2401_86113894/article/details/157096378)
 
++ [《数字图像处理》第 10 章 - 图像分割](https://blog.csdn.net/2302_80961196/article/details/157100365)
+
++ [MedSeg - R：利用多模态大语言模型进行医学图像推理分割](https://blog.csdn.net/qq_40379132/article/details/157031945)
+

@@ -17,3 +17,7 @@
 
 + [Mebus/cupp](https://github.com/Mebus/cupp)
 
++ [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
++ [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
+
