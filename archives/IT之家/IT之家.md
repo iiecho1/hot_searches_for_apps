@@ -25,3 +25,21 @@
 
 + [国内首条跨省城际铁路启动不载客试运行](https://m.ithome.com/html/914315.htm)
 
++ [年度最轻旗舰手机荣耀 Magic8 Pro Air 发布：天玑 9500、eSIM 加持，4999 元起](https://m.ithome.com/html/914553.htm)
+
++ [小米官宣“测到死”直播：REDMI Turbo 5 Max 以 9000mAh 续航硬刚友商 10000mAh](https://m.ithome.com/html/914423.htm)
+
++ [鸿蒙智行发言人：重庆一台尊界 S800 后排扶手箱处冒烟并出现明火，系打火机受挤压导致，非车辆原因](https://m.ithome.com/html/914501.htm)
+
++ [消息称苹果 iPhone 18 Pro 系列手机搭载 LTPO+ 面板、UDIR 技术，可将面容 ID 组件藏在屏下](https://m.ithome.com/html/914511.htm)
+
++ [消息称小米玄戒 O2 自研芯片或继续用台积电 3nm，推广到平板、汽车、电脑等](https://m.ithome.com/html/914432.htm)
+
++ [神舟二十号飞船返回舱“带伤扛住”上千度高温考验，带回一套战功赫赫的“飞天战袍”](https://m.ithome.com/html/914401.htm)
+
++ [7999 元起：荣耀 Magic 8 RSR 保时捷设计手机发布，搭载第五代骁龙 8 至尊版芯片、2 亿像素超夜神长焦](https://m.ithome.com/html/914555.htm)
+
++ [9000mAh，REDMI Turbo 5 Max 搭载小米迄今最大容量金沙江电池](https://m.ithome.com/html/914348.htm)
+
++ [袁和平执导漫改电影《镖人》定档预告发布：吴京监制兼主演、李连杰重返武打片，2026 年春节上映](https://m.ithome.com/html/914400.htm)
+
