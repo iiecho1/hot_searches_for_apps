@@ -195,3 +195,7 @@
 
 + [时序问题解决过程记录（跨时钟域、delay、IDELAY）](https://blog.csdn.net/m0_69500424/article/details/156989764)
 
++ [【QT】Qt 从零上手：Hello World、项目文件与实战避坑指南](https://blog.csdn.net/2401_89899187/article/details/157018471)
+
++ [从除 0 到 SIGPIPE：Linux 信号的真正来源](https://blog.csdn.net/2302_77620024/article/details/156913967)
+
