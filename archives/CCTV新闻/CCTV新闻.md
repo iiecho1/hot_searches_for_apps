@@ -175,3 +175,15 @@
 
 + [西班牙高铁脱轨事故已致至少21人死亡 百余人受伤](https://news.cctv.com/2026/01/19/ARTIf2NTjP4GihA09t3tOI9R260119.shtml)
 
++ [美国“夺岛”关税引发市场担忧 国际金银价格均创历史新高](https://news.cctv.com/2026/01/19/ARTIe0XGNVVkg3hLOjJ0pikQ260119.shtml)
+
++ [西班牙高铁事故致21死30重伤 交通大臣称事故“极为蹊跷”](https://news.cctv.com/2026/01/19/ARTIClFLv7gmeUMNVviyNvZ0260119.shtml)
+
++ [高市早苗将就解散众议院一事举行记者会](https://news.cctv.com/2026/01/19/ARTI6yG0fr8DGnFJEvF9ReP8260119.shtml)
+
++ [因设备警报设置错误 日本最大核电站机组将延期启动](https://news.cctv.com/2026/01/19/ARTIPq2E0urQm85f9HNVvdeU260119.shtml)
+
++ [“中国为各国发展繁荣提供宝贵机遇”——访叙利亚大马士革大学国际关系学教授沙赫尔](https://news.cctv.com/2026/01/19/ARTIX5oP8kWpy8aihaGzDtRG260119.shtml)
+
++ [葡萄牙总统选举将进入第二轮](https://photo.cctv.com/2026/01/19/PHOAloYUuqmdJXhbzjkhfDwA260119.shtml)
+

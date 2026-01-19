@@ -137,3 +137,25 @@
 
 + [鸿蒙跨端框架 Flutter 学习 Day 4：程序生存法则——异常捕获与异步错误处理的熔断艺术](https://blog.csdn.net/qq_39088168/article/details/157069582)
 
++ [React Native for OpenHarmony 实战：Picker 选择器组件详解](https://blog.csdn.net/IRpickstars/article/details/157123747)
+
++ [精通 MCP：AI 智能体开发实战全攻略，打通从理论到落地的核心链路](https://blog.csdn.net/CC1991_/article/details/157031202)
+
++ [技术解码：Character.ai 如何实现大模型实时推理性能 2 倍提升](https://blog.csdn.net/DO_Community/article/details/157025098)
+
++ [【多喝热水系列】从零开始的ROS2之旅——Day10 话题的订阅与发布1：Python](https://blog.csdn.net/2401_83080774/article/details/156954548)
+
++ [Flutter × OpenHarmony 汇率转换应用中的智能货币选择器实现](https://blog.csdn.net/weixin_52908342/article/details/157102538)
+
++ [APP企业级业务数据埋点系统（基于 Spring Boot & ClickHouse）](https://blog.csdn.net/suprezheng/article/details/157029762)
+
++ [系统性学习C++-第二十四讲-智能指针的使用及其原理](https://blog.csdn.net/2401_87023016/article/details/157069479)
+
++ [HarmonyOS6 - 鸿蒙相机拍照和相册选图实战案例](https://blog.csdn.net/wujiangbo520/article/details/157069907)
+
++ [行走的记忆卡片：基于 Flutter × OpenHarmony 的旅行记录应用实践——单个旅行记录卡片构建详解](https://blog.csdn.net/2501_92427005/article/details/157104726)
+
++ [Linux 之 【文件】（动静态库的制作与使用、ar、ldconfig）](https://blog.csdn.net/zl_dfq/article/details/157097805)
+
++ [三、语法篇_Verilog](https://blog.csdn.net/m0_67213461/article/details/156944894)
+
