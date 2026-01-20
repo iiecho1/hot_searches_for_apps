@@ -209,3 +209,9 @@
 
 + [ARM 嵌入式开发学习——从内核到外设](https://blog.csdn.net/2301_78295956/article/details/157141467)
 
++ [【Linux】信号](https://blog.csdn.net/dab112/article/details/156361494)
+
++ [微信小程序：使用mqtt手机屏幕锁屏后导致中断问题，让mqtt在手机黑屏后依然能保持连接及持续后台运行接收或处理任务，详解微信小程序MQTT在应用退到后台或手机熄屏的情况下自动检测并重连【强制保活】](https://blog.csdn.net/weixin_50545213/article/details/157181331)
+
++ [鸿蒙跨端框架 Flutter 学习 iverpod 实战：超越 Provider 的响应式状态管理](https://blog.csdn.net/qq_39088168/article/details/157145828)
+
