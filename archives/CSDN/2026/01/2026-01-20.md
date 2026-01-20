@@ -183,3 +183,13 @@
 
 + [如何构建maven项目](https://blog.csdn.net/2401_86760859/article/details/155658096)
 
++ [基于 Bright Data AI Studio 的自动化采集实战](https://blog.csdn.net/m0_64336780/article/details/157069151)
+
++ [让时序开发更可控：金仓时序 DB 的易用性实践与平台化路径](https://blog.csdn.net/2302_78391795/article/details/157169944)
+
++ [AI 开发必用的4个skills组合，用来流畅掌控AI开发流程 ，灵活控制AI（opencode skills）](https://blog.csdn.net/m0_57874805/article/details/157174622)
+
++ [⓫⁄₁ ⟦ OSCP ⬖ 研记 ⟧ Windows权限提升 ➱ Windows特权结构与访问控制介绍](https://blog.csdn.net/weixin_42115157/article/details/157172340)
+
++ [对话量子场论：语言如何产生认知粒子V0.3](https://blog.csdn.net/weixin_50059478/article/details/157113533)
+
