@@ -193,3 +193,7 @@
 
 + [对话量子场论：语言如何产生认知粒子V0.3](https://blog.csdn.net/weixin_50059478/article/details/157113533)
 
++ [Python对象的自省机制：深入探索对象的内心世界](https://blog.csdn.net/2503_92624912/article/details/157095640)
+
++ [66.【.NET8 实战--孢子记账--从单体到微服务--转向微服务】--新增功能--自动记账](https://blog.csdn.net/gangzhucoll/article/details/157099664)
+
