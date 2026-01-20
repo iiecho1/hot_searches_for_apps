@@ -157,3 +157,13 @@
 
 + [（第八篇）Spring AI 核心技术攻坚：模型评估与调优 - 提升 AI 响应质量的双轮驱动实践](https://blog.csdn.net/qq_40303030/article/details/155784628)
 
++ [安全工具篇&新型Go架构&C2-Sliver多平台&上线模式&红队集成研究&免杀方向](https://blog.csdn.net/lingggggaaaa/article/details/157067101)
+
++ [KingbaseES数据库：国产化替代浪潮下，金仓时序数据库的核心竞争力与落地路径](https://blog.csdn.net/weixin_43151418/article/details/156990492)
+
++ [【Bluedroid】Bluetooth GATT客户端连接关闭机制深度解析](https://blog.csdn.net/weixin_37800531/article/details/157061333)
+
++ [【Harmonyos】开源鸿蒙跨平台训练营DAY1：Windows上搭建Flutte跨平台开发环境](https://blog.csdn.net/lbbxmx111/article/details/157136990)
+
++ [Docker：快速构建、运行、管理应用的工具](https://blog.csdn.net/2401_86176995/article/details/157066751)
+

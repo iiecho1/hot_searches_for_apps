@@ -175,3 +175,15 @@
 
 + [卢浮宫劫案3个月后 法国电视台首次播出监控画面](https://news.cctv.com/2026/01/20/ARTIVjj6D4NWxQcopCLxLqOQ260120.shtml)
 
++ [特朗普称将对法国葡萄酒和香槟征收200%关税](https://news.cctv.com/2026/01/20/ARTIKCMpuqxQHxD7A7VnkwO7260120.shtml)
+
++ [中方代表：日本从来没有真正地认罪悔过](https://news.cctv.com/2026/01/20/ARTIuZZJbx4J1HK06pW8DOSL260120.shtml)
+
++ [国际组织：苏丹2026年将有420万名妇儿患急性营养不良](https://news.cctv.com/2026/01/20/ARTISXRzMlSWI4RtAaQ6Mq3F260120.shtml)
+
++ [一艘载有15人的船只在菲律宾南部附近海域失联](https://news.cctv.com/2026/01/20/ARTI3OWldOGkvtmtMy24snbJ260120.shtml)
+
++ [印尼东努沙登加拉省一火山喷发 火山灰柱高约500米](https://news.cctv.com/2026/01/20/ARTITRTs2jWPp14fnCVBkPyW260120.shtml)
+
++ [全球财富金字塔 顶端12人资产超底部40多亿人财富总和](https://news.cctv.com/2026/01/20/ARTI9mYGkAom5FhjswAOWRkf260120.shtml)
+
