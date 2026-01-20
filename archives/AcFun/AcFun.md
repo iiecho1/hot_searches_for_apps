@@ -69,3 +69,7 @@
 
 + [wiggle wiggle](https://m.acfun.cn/v/?ac=48204967)
 
++ [隐藏黑暗的美食节目！个人剧情解释《Poppin-Play Kitchen》试播集](https://m.acfun.cn/v/?ac=48204004)
+
++ [心里的他，快归来吧！](https://m.acfun.cn/v/?ac=48204247)
+
