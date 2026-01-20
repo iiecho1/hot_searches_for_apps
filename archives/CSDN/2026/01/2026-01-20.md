@@ -197,3 +197,5 @@
 
 + [66.【.NET8 实战--孢子记账--从单体到微服务--转向微服务】--新增功能--自动记账](https://blog.csdn.net/gangzhucoll/article/details/157099664)
 
++ [Python实现SMZDM数据处理系统：从爬虫到数据分析的完整实践](https://blog.csdn.net/m0_73753352/article/details/157097661)
+

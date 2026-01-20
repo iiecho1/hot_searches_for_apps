@@ -15,3 +15,9 @@
 
 + [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
 
++ [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+
++ [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
+
++ [tobi/try](https://github.com/tobi/try)
+
