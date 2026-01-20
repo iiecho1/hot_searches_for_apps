@@ -167,3 +167,15 @@
 
 + [Docker：快速构建、运行、管理应用的工具](https://blog.csdn.net/2401_86176995/article/details/157066751)
 
++ [多智能体协作驱动的多模态医疗大模型系统：RAG–KAG双路径知识增强与架构的设计与验证（下）](https://blog.csdn.net/kkiron/article/details/157128038)
+
++ [【愚公系列】《AI+直播营销》036-直播间装修和布置（直播间装修和布置的5个场景）](https://blog.csdn.net/aa2528877987/article/details/156791679)
+
++ [吃透C++类和对象(下)：内部类、匿名对象及编译器优化的深度解析](https://blog.csdn.net/2501_91275995/article/details/157062446)
+
++ [AI智能体(AI Agents)架构解析与企业级落地指南2026：从理论到实战](https://blog.csdn.net/LiAng_crush/article/details/157141138)
+
++ [Transformer实战（34）——多语言和跨语言Transformer模型](https://blog.csdn.net/LOVEmy134611/article/details/147991618)
+
++ [网络安全笔记（第一二天）](https://blog.csdn.net/Qaz55566691/article/details/157101729)
+
