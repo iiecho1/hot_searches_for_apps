@@ -39,3 +39,11 @@
 
 + [都去 vibe coding 了吗？真的就我一个还在用传统的编码方式？](https://www.v2ex.com/t/1186846)
 
++ [你们会选择什么 AI 作为自己的主力辅助工具？](https://www.v2ex.com/t/1186955)
+
++ [01 把妹心态篇：吸引的底层代码](https://www.v2ex.com/t/1186960)
+
++ [评价一下我应该怎么办？](https://www.v2ex.com/t/1186961)
+
++ [1 月 28 日 MacBook Pro M5 Pro、M5 Max 更新](https://www.v2ex.com/t/1186919)
+
