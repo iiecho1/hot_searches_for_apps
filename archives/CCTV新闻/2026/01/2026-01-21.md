@@ -163,3 +163,5 @@
 
 + [特朗普发布登上丹麦自治领地格陵兰岛图片](https://news.cctv.com/2026/01/21/ARTI5uhd5m5FHy9iaZ9v45Zg260121.shtml)
 
++ [西班牙高铁列车脱轨事故遇难人数升至42人](https://news.cctv.com/2026/01/21/ARTItXdQwfjKxDVWsJM3gzEE260121.shtml)
+

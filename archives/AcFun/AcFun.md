@@ -65,3 +65,5 @@
 
 + [古风~Up&Down](https://m.acfun.cn/v/?ac=48207544)
 
++ [KOBA Event Model Mijin Fan Cam 코바 행사 모델 미진](https://m.acfun.cn/v/?ac=48205423)
+
