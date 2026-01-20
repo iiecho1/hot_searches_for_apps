@@ -213,3 +213,9 @@
 
 + [民调：美民众普遍对经济状况感到悲观 不满政府忽视经济议题](https://news.cctv.com/2026/01/20/ARTISqfS0Xpf3UwBm5RgRHYA260120.shtml)
 
++ [冯德莱恩：欧盟决定永久冻结俄罗斯资产并保留使用权利](https://news.cctv.com/2026/01/20/ARTIslNwkolCqHP94neQZS8z260120.shtml)
+
++ [加拿大百年来首次模拟美国军事入侵](https://news.cctv.com/2026/01/20/ARTIo8RUoheNPmXloPwnEHjt260120.shtml)
+
++ [泽连斯基称有关和平谈判的三份文件已接近完成](https://news.cctv.com/2026/01/20/ARTITcp5zjfQyOV7GKMlMBQ2260120.shtml)
+
