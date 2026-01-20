@@ -115,3 +115,33 @@
 
 + [YOLOv8深度解析：从网络结构到损失函数](https://blog.csdn.net/xxzhaoming/article/details/157145510)
 
++ [【语音识别】哼唱识别系统附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/157094220)
+
++ [SpringBoot 安全认证实战（Spring Security + JWT）：打造无状态安全接口体系](https://blog.csdn.net/2503_94434664/article/details/157094733)
+
++ [Java 大视界 -- 基于 Java 的大数据实时流处理在智能电网分布式电源接入与电力系统稳定性维护中的应用](https://blog.csdn.net/atgfg/article/details/157104806)
+
++ [标注工具X-AnyLabeling的使用](https://blog.csdn.net/fengbingchun/article/details/157095157)
+
++ [【六杆】六杆快速回归机制运动学和动力学分析【含Matlab源码 14990期】](https://blog.csdn.net/weixin_63266434/article/details/157101970)
+
++ [React Native鸿蒙：LayoutAnimation配置弹簧动画](https://blog.csdn.net/IRpickstars/article/details/157170112)
+
++ [【AI大模型前沿】DeepSeek-Math-V2：数学推理的智能助手，从定理证明到竞赛夺冠](https://blog.csdn.net/xiaobing259/article/details/156887831)
+
++ [麒麟操作系统 ARM vs x86 架构深度对比分析报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/157184152)
+
++ [Paxos共识算法原理及其在分布式系统高可用性保障中的应用剖析](https://blog.csdn.net/2301_77485708/article/details/157178235)
+
++ [AIGC（生成式AI）试用 44 -- 个人知识库 DocsGpt](https://blog.csdn.net/u012841352/article/details/156807063)
+
++ [用 Python Tornado + Vue3 + ECharts 搭建 Docker 实时监控 WebSocket 仪表盘](https://blog.csdn.net/weixin_46244623/article/details/157143341)
+
++ [RPC分布式通信（5）--发布 RPC 服务、处理客户端调用请求](https://blog.csdn.net/wt20050610/article/details/157108297)
+
++ [用MySQL玩转数据可视化的技术](https://blog.csdn.net/Dd000110/article/details/157141747)
+
++ [企业微信与DeepSeek大模型结合实现智能消息推送](https://blog.csdn.net/beautifulmemory/article/details/157094891)
+
++ [【Elasticsearch】审计日志（三）：案例实战分析](https://blog.csdn.net/be_racle/article/details/157145126)
+
