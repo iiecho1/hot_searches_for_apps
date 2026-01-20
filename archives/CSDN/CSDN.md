@@ -139,3 +139,11 @@
 
 + [7天读懂MySQL｜特别篇：MVCC详解](https://blog.csdn.net/qq_33229153/article/details/157028838)
 
++ [【SpringBoot】从创建第一个spring项目开始](https://blog.csdn.net/2301_81614213/article/details/157026115)
+
++ [吃透J1939 PGN：新能源商用车CAN网络逆向的核心钥匙](https://blog.csdn.net/weixin_62244995/article/details/157063366)
+
++ [SpringBoot 微服务拦截器与负载均衡实践](https://blog.csdn.net/m0_74230209/article/details/157065549)
+
++ [【万文超详A2A 协议】从个体赋能到群体智能，智能体间的“TCP/IP协议“](https://blog.csdn.net/2402_87515571/article/details/157141141)
+

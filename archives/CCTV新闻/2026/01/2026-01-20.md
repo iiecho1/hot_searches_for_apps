@@ -169,3 +169,5 @@
 
 + [联合国开发计划署近400个岗位将从纽约迁往欧洲](https://news.cctv.com/2026/01/20/ARTI8X7I6obWtowevVe3atkW260120.shtml)
 
++ [我使馆提醒在危地马拉中国公民注意安全](https://news.cctv.com/2026/01/20/ARTI0QCneWaIHeK5SgqqbADv260120.shtml)
+
