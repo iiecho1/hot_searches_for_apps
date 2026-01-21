@@ -187,3 +187,5 @@
 
 + [韩法院将尹锡悦发动的紧急戒严定性为“内乱”](https://news.cctv.com/2026/01/21/ARTIEqF1FjttbmzNdOmYONMG260121.shtml)
 
++ [法国要求在格陵兰岛举行北约军演 “已准备好提供协助”](https://news.cctv.com/2026/01/21/ARTI2bAaVcj3qPIKBioy7C0K260121.shtml)
+
