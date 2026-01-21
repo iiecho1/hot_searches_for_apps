@@ -131,3 +131,5 @@
 
 + [Linux指令及理论（3）](https://blog.csdn.net/2401_87750511/article/details/157211164)
 
++ [【QT】Qt 从零上手：Hello World、项目文件与实战避坑指南](https://blog.csdn.net/2401_89899187/article/details/157018471)
+
