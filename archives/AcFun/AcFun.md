@@ -141,3 +141,7 @@
 
 + [BTS防弹少年团血汗泪（Blood Sweat&Tears）](https://m.acfun.cn/v/?ac=48191956)
 
++ [阿鲁巴灯的历次线下余兴节目](https://m.acfun.cn/v/?ac=48210699)
+
++ [【每日练歌】《巴黎合租屋》——歪！谁在我隔壁](https://m.acfun.cn/v/?ac=48210766)
+
