@@ -179,3 +179,5 @@
 
 + [印尼苏门答腊岛洪灾和山体滑坡已致1200人死亡](https://news.cctv.com/2026/01/21/ARTI2QEhfJA8Ffwhxcl6ZO0G260121.shtml)
 
++ [柬埔寨首相：打击网络诈骗犯罪是当前任务的重中之重](https://news.cctv.com/2026/01/21/ARTIgEA4eDdZpDumk1pMnb0H260121.shtml)
+

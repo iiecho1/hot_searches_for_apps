@@ -183,3 +183,13 @@
 
 + [用 PyQt5 做一个「批量目录重命名」工具，并打包成带图标的 EXE](https://blog.csdn.net/weixin_42636075/article/details/157132731)
 
++ [Oracle 迁移到 KingbaseES：从问题词到成本的技术拆解](https://blog.csdn.net/Mrxiao_bo/article/details/157205081)
+
++ [【数据库】Oracle迁移至KingbaseES：挑战、策略与最佳实践](https://blog.csdn.net/qq_38628970/article/details/157204010)
+
++ [兵器谱——深度学习、强化学习与 NLP 在安全中的典型应用场景](https://blog.csdn.net/oQianYuan/article/details/157186286)
+
++ [面向大模型开发：在项目中使用 TOON 的实践与流式处理](https://blog.csdn.net/RenGJ010617/article/details/156699522)
+
++ [从 0 开始学习人工智能：什么是生成式人工智能 (AIGC)？](https://blog.csdn.net/weixin_44782294/article/details/157067200)
+
