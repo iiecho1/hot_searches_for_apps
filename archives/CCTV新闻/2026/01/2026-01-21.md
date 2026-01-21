@@ -173,3 +173,5 @@
 
 + [控制棒问题得到解决 日本最大核电站推进重启](https://news.cctv.com/2026/01/21/ARTIJ1ntlUgzyjrWs3s1Wgpz260121.shtml)
 
++ [安倍晋三遇刺案宣判 被告被判无期徒刑](https://news.cctv.com/2026/01/21/ARTIvZPP6rislbjVBe6QvNwP260121.shtml)
+

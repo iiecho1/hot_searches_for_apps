@@ -171,3 +171,11 @@
 
 + [网络安全之防御保护笔记](https://blog.csdn.net/2302_77662277/article/details/157102586)
 
++ [C/C++内存管理核心解析：分布、管理方式与定位new应用](https://blog.csdn.net/zgr993865/article/details/156981343)
+
++ [【愚公系列】《AI+直播营销》038-直播间装修和布置（直播间的设备选择）](https://blog.csdn.net/aa2528877987/article/details/156794945)
+
++ [视觉大模型学习之CLIP&VIT](https://blog.csdn.net/qq_52661866/article/details/157209225)
+
++ [SQL+VSCode实战指南：AI赋能高效数据库操作](https://blog.csdn.net/yuhaiqun1989/article/details/157130924)
+
