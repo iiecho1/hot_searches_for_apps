@@ -47,3 +47,5 @@
 
 + [sms-activate 发邮件了，说可以转移余额到新站了，$0.0001 起](https://www.v2ex.com/t/1187142)
 
++ [请教一个 switch 游戏机相关的问题](https://www.v2ex.com/t/1187264)
+

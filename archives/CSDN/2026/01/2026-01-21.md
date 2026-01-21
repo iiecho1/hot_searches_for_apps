@@ -193,3 +193,11 @@
 
 + [从 0 开始学习人工智能：什么是生成式人工智能 (AIGC)？](https://blog.csdn.net/weixin_44782294/article/details/157067200)
 
++ [使用 OpenCV 实现银行卡卡号识别](https://blog.csdn.net/m0_72616498/article/details/157136987)
+
++ [【花雕学编程】Arduino BLDC 之机器人差速驱动（速度+位置协同）](https://blog.csdn.net/weixin_41659040/article/details/157209942)
+
++ [【RFCOMM】协议深度解析[1]：串行端口仿真的无线衔接艺术](https://blog.csdn.net/weixin_37800531/article/details/157061207)
+
++ [群晖 WebDAV+cpolar 让 NAS 文件走到哪用到哪](https://blog.csdn.net/2301_76341691/article/details/157184707)
+
