@@ -207,3 +207,27 @@
 
 + [菲律宾附近海域一船只失联 仍有15人失踪](https://news.cctv.com/2026/01/21/ARTInLLd5lTappz2PQxVkmWg260121.shtml)
 
++ [欧盟提出《数字网络法案》拟统一网络连接规则](https://news.cctv.com/2026/01/21/ARTI4LxXb3WOf10dIFCHgMb4260121.shtml)
+
++ [俄外交部：摩尔多瓦启动退出独联体法律程序是“短视的”](https://news.cctv.com/2026/01/21/ARTIDweYoxM3p0DSUXUczepn260121.shtml)
+
++ [乌克兰重建计划因欧美分歧推迟公布](https://news.cctv.com/2026/01/21/ARTIqTmsREahdRmlcUc4EevX260121.shtml)
+
++ [尼日利亚警方确认卡杜纳州发生绑架事件](https://news.cctv.com/2026/01/21/ARTIvONK6f900bRTvsM1E5zc260121.shtml)
+
++ [欧洲理事会主席：欧盟已准备好抵御任何形式胁迫](https://news.cctv.com/2026/01/21/ARTI0eOuP0tr3UgshmkfdMzP260121.shtml)
+
++ [欧委会主席：欧盟将大规模增加对格陵兰岛的投资](https://news.cctv.com/2026/01/21/ARTIYat3cI2iO0epdwEs7mJd260121.shtml)
+
++ [柬埔寨再次呼吁泰国执行联合声明所有条款](https://news.cctv.com/2026/01/21/ARTI1aihDaEGYm8b9TjzerBx260121.shtml)
+
++ [美军被曝正加强在中东军事部署](https://news.cctv.com/2026/01/21/ARTIDlaF2BpNSrVxCfUBfNpw260121.shtml)
+
++ [巴基斯坦卡拉奇购物中心火灾已致60人死亡](https://news.cctv.com/2026/01/21/ARTIJAGcVH86kI1KT3P3y0g6260121.shtml)
+
++ [冯德莱恩：欧洲需加快推进“独立”进程](https://news.cctv.com/2026/01/21/ARTIJDk1yDLTKgDmo3rh9w58260121.shtml)
+
++ [日本最大核电站重启运行](https://news.cctv.com/2026/01/21/ARTIR2JkldvPP43IKdcdsDDu260121.shtml)
+
++ [克宫回应俄美达沃斯接触：会晤非公开 讨论内容系机密](https://news.cctv.com/2026/01/21/ARTIQW3Pmk4m95P7ncUl6K3W260121.shtml)
+

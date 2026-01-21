@@ -223,3 +223,13 @@
 
 + [国内四大AI编程IDE对比（一）：直观印象与模型能力](https://blog.csdn.net/haibindev/article/details/157143964)
 
++ [国产化替代背景下Oracle与KingbaseES异构迁移技术全解析](https://blog.csdn.net/2301_80350265/article/details/157210573)
+
++ [前后端鉴权4大方案：Session、Token、OAuth和API Key，哪个才是你的安全高效之选？](https://blog.csdn.net/z_344791576/article/details/151931457)
+
++ [SpringBoot多环境配置](https://blog.csdn.net/2401_86760859/article/details/157185199)
+
++ [聊聊JVM的内存模型](https://blog.csdn.net/gdpu2400502251/article/details/157212449)
+
++ [C#在视觉检测中的优势：工业智能化转型的利器](https://blog.csdn.net/macowl/article/details/157103909)
+
