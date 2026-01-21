@@ -149,3 +149,17 @@
 
 + [构建敏捷团队的DevOps测试策略：速度与可靠性的平衡艺术](https://blog.csdn.net/oscar999/article/details/157145473)
 
++ [OpenHarmony环境下React Native：Geolocation地理围栏](https://blog.csdn.net/IRpickstars/article/details/157198677)
+
++ [从零到一：用LSTM实现时间序列预测的完整指南](https://blog.csdn.net/weixin_38526314/article/details/157137686)
+
++ [MATLAB R2025b中消失的Specialized Power Systems库](https://blog.csdn.net/qq_50930131/article/details/157144468)
+
++ [Vue 响应式数据失效全解析：从原理机制到工程实践](https://blog.csdn.net/csdn_silent/article/details/156808529)
+
++ [Python Web 开发进阶实战：可验证网络 —— 在 Flask + Vue 中实现去中心化身份（DID）与零知识证明（ZKP）认证](https://blog.csdn.net/weixin_52208686/article/details/157137250)
+
++ [Flutter + HarmonyOS 前置知识：Dart语言详解（上）](https://blog.csdn.net/2401_88937325/article/details/157181624)
+
++ [主流FPGA厂商对SystemVerilog的支持现状](https://blog.csdn.net/GateWorld/article/details/157142951)
+
