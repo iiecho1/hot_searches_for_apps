@@ -201,3 +201,11 @@
 
 + [群晖 WebDAV+cpolar 让 NAS 文件走到哪用到哪](https://blog.csdn.net/2301_76341691/article/details/157184707)
 
++ [HarmonyOS智慧农业管理应用开发教程--高高种地](https://blog.csdn.net/ldc121xy716/article/details/157099722)
+
++ [LangSwitcher：Flutter × HarmonyOS 6.0 实现应用语言设置弹窗](https://blog.csdn.net/weixin_52908342/article/details/157035204)
+
++ [提示词工程已死，上下文工程当立](https://blog.csdn.net/qq_54452916/article/details/157102925)
+
++ [Flutter 框架跨平台鸿蒙开发 - 节日礼物清单应用开发教程](https://blog.csdn.net/2301_81184479/article/details/157186189)
+

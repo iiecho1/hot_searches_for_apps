@@ -51,3 +51,5 @@
 
 + [怎么看喂养野猫](https://www.v2ex.com/t/1187261)
 
++ [LiteSSL 鉴权漏洞 可随意盗签他人泛域名证书](https://www.v2ex.com/t/1187331)
+
