@@ -101,3 +101,29 @@
 
 + [用 PyQt5 做一个「批量目录重命名」工具，并打包成带图标的 EXE](https://blog.csdn.net/weixin_42636075/article/details/157132731)
 
++ [【Linux】TCP协议【2】： 从 echo 到远程命令执行：Linux TCP 服务器的并发与安全实践](https://blog.csdn.net/wheeldown/article/details/157185477)
+
++ [学习threejs，实现发光信息流效果](https://blog.csdn.net/qq_28419035/article/details/157208740)
+
++ [Java 大视界 -- Java 大数据在智能教育在线考试系统中的考试结果分析与教学反馈优化中的应用](https://blog.csdn.net/atgfg/article/details/157145998)
+
++ [React Native + OpenHarmony：Accelerometer计步器代码](https://blog.csdn.net/IRpickstars/article/details/157202610)
+
++ [【Redis系列】哨兵模式](https://blog.csdn.net/optimistic_chen/article/details/157067251)
+
++ [【Linux】信号](https://blog.csdn.net/dab112/article/details/156361494)
+
++ [Flutter for HarmonyOS 前置知识：Dart语言详解（上）](https://blog.csdn.net/2401_88937325/article/details/157181624)
+
++ [视觉大模型学习之CLIP&VIT](https://blog.csdn.net/qq_52661866/article/details/157209225)
+
++ [详解Redis持久化：RDB、AOF与混合持久化](https://blog.csdn.net/2501_93491346/article/details/157222707)
+
++ [深入理解 Linux 信号机制：从 task_struct 到信号递达全过程](https://blog.csdn.net/2302_77620024/article/details/157103885)
+
++ [鸿蒙跨端框架 Flutter 学习 iverpod 实战：超越 Provider 的响应式状态管理](https://blog.csdn.net/qq_39088168/article/details/157145828)
+
++ [【图像隐写】基于matlab DWT数字水印嵌入+提取+攻击【含Matlab源码 15004期】](https://blog.csdn.net/TIQCmatlab/article/details/157179107)
+
++ [Flutter 框架跨平台鸿蒙开发 - 节日礼物清单应用开发教程](https://blog.csdn.net/2301_81184479/article/details/157186189)
+

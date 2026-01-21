@@ -161,3 +161,5 @@
 
 + [印度一架客机紧急降落：机舱内发现炸弹威胁字条](https://news.cctv.com/2026/01/19/ARTIyMuSjngFcUddy82YV3jE260119.shtml)
 
++ [日本最大核电站柏崎刈羽核电站重启](https://news.cctv.com/2026/01/22/ARTIjxw82rKnXLOUONg83zbI260122.shtml)
+
