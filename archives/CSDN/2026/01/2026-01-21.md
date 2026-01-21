@@ -163,3 +163,11 @@
 
 + [主流FPGA厂商对SystemVerilog的支持现状](https://blog.csdn.net/GateWorld/article/details/157142951)
 
++ [AI 深度学习路线](https://blog.csdn.net/qq_25272679/article/details/157184761)
+
++ [矩阵束法（Matrix Pencil）用于 FMCW 雷达干扰抑制：论文精读](https://blog.csdn.net/qq_44648285/article/details/157109385)
+
++ [Python多线程性能优化实战：突破GIL限制的高性能并发编程指南](https://blog.csdn.net/sinat_41617212/article/details/157174840)
+
++ [网络安全之防御保护笔记](https://blog.csdn.net/2302_77662277/article/details/157102586)
+

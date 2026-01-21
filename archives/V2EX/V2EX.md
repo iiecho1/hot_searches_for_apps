@@ -37,3 +37,7 @@
 
 + [别人说广电卡信号差我不信，我现在用了之后果然， iPhone +广电=失联🥲](https://www.v2ex.com/t/1187210)
 
++ [如果充会员，你们会选择哪一家 AI？](https://www.v2ex.com/t/1187224)
+
++ [sony 把电视业务也卖给 tcl 之后。](https://www.v2ex.com/t/1187217)
+
