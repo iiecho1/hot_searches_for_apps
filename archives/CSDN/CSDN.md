@@ -233,3 +233,7 @@
 
 + [C#在视觉检测中的优势：工业智能化转型的利器](https://blog.csdn.net/macowl/article/details/157103909)
 
++ [Oracle 迁移至 KingbaseES 实战指南（最佳实践）](https://blog.csdn.net/weixin_52908342/article/details/157221489)
+
++ [【第3章＞第1节】基于深度学习的目标检测概述](https://blog.csdn.net/ccsss22/article/details/157212417)
+
