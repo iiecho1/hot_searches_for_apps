@@ -215,3 +215,11 @@
 
 + [构建医疗AI数据集建设平台：Go语言工程方案详解](https://blog.csdn.net/kkiron/article/details/157178802)
 
++ [用Python实现辅助病案首页主诊断编码：从数据清洗到模型上线（下）](https://blog.csdn.net/kkiron/article/details/157215859)
+
++ [2026国产时序数据库格局洞察：多模融合趋势下的金仓路径与实践](https://blog.csdn.net/weixin_74809706/article/details/157130797)
+
++ [【Matlab】MATLAB 整数变量定义：从 int32 实操到内存优化，高效处理整数数据](https://blog.csdn.net/unbelievevc/article/details/157202706)
+
++ [国内四大AI编程IDE对比（一）：直观印象与模型能力](https://blog.csdn.net/haibindev/article/details/157143964)
+
