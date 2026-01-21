@@ -147,3 +147,5 @@
 
 + [机器学习监督学习模型--线性回归](https://blog.csdn.net/weixin_65875490/article/details/157143296)
 
++ [构建敏捷团队的DevOps测试策略：速度与可靠性的平衡艺术](https://blog.csdn.net/oscar999/article/details/157145473)
+

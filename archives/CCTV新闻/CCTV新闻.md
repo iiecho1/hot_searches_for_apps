@@ -165,3 +165,5 @@
 
 + [西班牙高铁列车脱轨事故遇难人数升至42人](https://news.cctv.com/2026/01/21/ARTItXdQwfjKxDVWsJM3gzEE260121.shtml)
 
++ [日媒：安倍晋三遇刺案即将宣判](https://news.cctv.com/2026/01/21/ARTIjCedh64qVNEV05a4bsSx260121.shtml)
+
