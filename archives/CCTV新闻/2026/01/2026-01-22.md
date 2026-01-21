@@ -163,3 +163,5 @@
 
 + [日本最大核电站柏崎刈羽核电站重启](https://news.cctv.com/2026/01/22/ARTIjxw82rKnXLOUONg83zbI260122.shtml)
 
++ [巴基斯坦卡拉奇购物中心火灾已致61人死亡](https://news.cctv.com/2026/01/22/ARTIMTBV5rnpQLM8dBiovpnU260122.shtml)
+

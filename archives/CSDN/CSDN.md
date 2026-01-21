@@ -133,3 +133,5 @@
 
 + [【QT】Qt 从零上手：Hello World、项目文件与实战避坑指南](https://blog.csdn.net/2401_89899187/article/details/157018471)
 
++ [【Bluedroid】蓝牙 GATT 客户端应用注销核心流程剖析（3）](https://blog.csdn.net/weixin_37800531/article/details/157064939)
+
