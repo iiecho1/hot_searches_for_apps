@@ -175,3 +175,7 @@
 
 + [安倍晋三遇刺案宣判 被告被判无期徒刑](https://news.cctv.com/2026/01/21/ARTIvZPP6rislbjVBe6QvNwP260121.shtml)
 
++ [美总统专机因“轻微电路问题”返航](https://news.cctv.com/2026/01/21/ARTIabfSGZR2BYclSMlJZs8P260121.shtml)
+
++ [印尼苏门答腊岛洪灾和山体滑坡已致1200人死亡](https://news.cctv.com/2026/01/21/ARTI2QEhfJA8Ffwhxcl6ZO0G260121.shtml)
+

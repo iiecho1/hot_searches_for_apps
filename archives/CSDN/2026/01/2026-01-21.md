@@ -179,3 +179,7 @@
 
 + [SQL+VSCode实战指南：AI赋能高效数据库操作](https://blog.csdn.net/yuhaiqun1989/article/details/157130924)
 
++ [解锁时序数据新玩法：金仓数据库实战体验分享](https://blog.csdn.net/qq_32682301/article/details/157187732)
+
++ [用 PyQt5 做一个「批量目录重命名」工具，并打包成带图标的 EXE](https://blog.csdn.net/weixin_42636075/article/details/157132731)
+
