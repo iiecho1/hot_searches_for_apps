@@ -165,3 +165,5 @@
 
 + [巴基斯坦卡拉奇购物中心火灾已致61人死亡](https://news.cctv.com/2026/01/22/ARTIMTBV5rnpQLM8dBiovpnU260122.shtml)
 
++ [特朗普称欧洲的“方向不对”](https://news.cctv.com/2026/01/22/ARTIxXjQq3ioPTlrGNvvZNLW260122.shtml)
+

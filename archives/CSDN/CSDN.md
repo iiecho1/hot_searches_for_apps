@@ -135,3 +135,5 @@
 
 + [【Bluedroid】蓝牙 GATT 客户端应用注销核心流程剖析（3）](https://blog.csdn.net/weixin_37800531/article/details/157064939)
 
++ [HarmonyOS智慧农业管理应用开发教程--高高种地---第4篇：引导流程与用户画像](https://blog.csdn.net/ldc121xy716/article/details/157171023)
+
