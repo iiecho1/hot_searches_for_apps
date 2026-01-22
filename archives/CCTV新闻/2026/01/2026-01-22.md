@@ -183,3 +183,5 @@
 
 + [委内瑞拉任命12名地区军事指挥官](https://news.cctv.com/2026/01/22/ARTIexV0TWXtsSlcUGJY31xe260122.shtml)
 
++ [澳大利亚新南威尔士州发生枪击事件致3死 枪手在逃](https://news.cctv.com/2026/01/22/ARTIAkoCZZYxqCLVmWcYG2PR260122.shtml)
+

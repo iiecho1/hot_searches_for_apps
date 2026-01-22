@@ -171,3 +171,7 @@
 
 + [提示词工程已死，上下文工程当立](https://blog.csdn.net/qq_54452916/article/details/157102925)
 
++ [AI编程时代的新痛点如何解决：当我在明基 RD280UG 上重塑编程体验](https://blog.csdn.net/2302_78391795/article/details/157244812)
+
++ [瑞芯微RK3588核心板规格书，详细参数配置，定位ARM高端AIOT智能模组，板对板连接器320Pin 间距0.5 B to B连接器](https://blog.csdn.net/Industio_CSDN/article/details/157224600)
+
