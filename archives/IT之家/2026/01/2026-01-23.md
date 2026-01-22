@@ -25,3 +25,27 @@
 
 + [小米卢伟冰回应 2025 年手机市场激活量数据：中国是全球竞争最激烈的市场，领先的身位都非常微弱](https://m.ithome.com/html/914933.htm)
 
++ [256GB 不够用：iPhone 17 等苹果用户反馈 iOS 存储空间消耗速度显著加快](https://m.ithome.com/html/915290.htm)
+
++ [32 岁程序员猝死引网友感叹：高强度工作周末常加班、死后同事还发消息让改文件](https://m.ithome.com/html/915542.htm)
+
++ [黄仁勋称最大遗憾是 27 年前为父母买奔驰而卖英伟达股票：这是世上最贵的车](https://m.ithome.com/html/915270.htm)
+
++ [绿厂“三兄弟”重聚首：realme 正式回归 OPPO 商城，首发上架真我 Neo8 新机](https://m.ithome.com/html/915389.htm)
+
++ [华为余承东再谈汽车风阻：车辆 120km/h 时，风阻消耗能量可达 70%](https://m.ithome.com/html/915399.htm)
+
++ [2399 元起 realme 真我 Neo8 手机发布：透明 RGB 设计、骁龙 8 Gen5 处理器](https://m.ithome.com/html/915590.htm)
+
++ [微信聊天不能导出和分析？腾讯回应开源项目被下架：威胁用户数据隐私，极易被黑灰产利用](https://m.ithome.com/html/915536.htm)
+
++ [苹果 Mac mini 四重补贴开启：M4 版 3749 → 2868 元教育优惠发车](https://m.ithome.com/html/915595.htm)
+
++ [追觅科技俞浩怒怼自家代言人陈飞宇粉丝：都被惯坏了，好像全网就怕你们](https://m.ithome.com/html/915522.htm)
+
++ [李云飞：一直以来，比亚迪都是黑公关、黑水军的最大受害者](https://m.ithome.com/html/915422.htm)
+
++ [“疯狂星期四”活动日“肯德基崩了”登上热搜，网友称 App / 小程序无法点单](https://m.ithome.com/html/915583.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.2 (22) 版本发布，Connectivity Kit 蓝牙模块增强获取套接字链路信息能力](https://m.ithome.com/html/915272.htm)
+
