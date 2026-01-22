@@ -21,3 +21,7 @@
 
 + [请教一个 switch 游戏机相关的问题](https://www.v2ex.com/t/1187264)
 
++ [[吐槽]26 年开年暴击，分享自己的苦难让 V 友乐呵乐呵](https://www.v2ex.com/t/1187250)
+
++ [直到现在还不想换 MacOS 的原因, 只剩下 Win+ V &amp; Everything 了](https://www.v2ex.com/t/1187298)
+
