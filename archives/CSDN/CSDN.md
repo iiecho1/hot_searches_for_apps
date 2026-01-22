@@ -183,3 +183,11 @@
 
 + [AI系统故障诊断：模型崩溃、算力瓶颈与数据漂移的识别与解决策略](https://blog.csdn.net/2301_81152266/article/details/157183712)
 
++ [ubuntu各版本配置apt源（阿里源）](https://blog.csdn.net/liu_chen_yang/article/details/151323696)
+
++ [ROS Noetic 与 Ubuntu 24.04](https://blog.csdn.net/ZhangRelay/article/details/157222868)
+
++ [基于yolov8的无人机视角夜间车辆检测识别系统python源码+onnx模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/157221252)
+
++ [深入理解网络模型之Spring Cloud微服务通信、Socket、HTTP与RPC](https://blog.csdn.net/fupinghaohao/article/details/157213716)
+
