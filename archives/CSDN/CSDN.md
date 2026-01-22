@@ -137,3 +137,5 @@
 
 + [深信服超融合 HCI 核心技术解析：aSV、aSAN 与 aNET 的协同架构](https://blog.csdn.net/Tiam_cr/article/details/157179269)
 
++ [基于C#实现斑马ZT411打印机TCP通讯与打印状态精准判定](https://blog.csdn.net/LcVong/article/details/157224787)
+
