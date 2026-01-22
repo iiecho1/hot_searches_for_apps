@@ -101,3 +101,9 @@
 
 + [深入理解网络模型之Spring Cloud微服务通信、Socket、HTTP与RPC](https://blog.csdn.net/fupinghaohao/article/details/157213716)
 
++ [机器学习特征选择：深入理解移除低方差特征与sklearn的VarianceThreshold](https://blog.csdn.net/2503_92624912/article/details/157095228)
+
++ [ROS Noetic 与 Ubuntu 24.04](https://blog.csdn.net/ZhangRelay/article/details/157222868)
+
++ [C#中的AutoUpdater自动更新类](https://blog.csdn.net/m0_57417006/article/details/157224741)
+
