@@ -107,3 +107,23 @@
 
 + [C#中的AutoUpdater自动更新类](https://blog.csdn.net/m0_57417006/article/details/157224741)
 
++ [从 Oracle 到 KingbaseES：一次真实项目的数据库国产化迁移实录](https://blog.csdn.net/weixin_52258054/article/details/157221598)
+
++ [Java 大视界 -- Java 大数据在智能医疗临床路径优化与医疗资源合理利用中的应用](https://blog.csdn.net/atgfg/article/details/157186228)
+
++ [从结对到自主：让AI交付可运行的工程成果](https://blog.csdn.net/qq_33589510/article/details/157219898)
+
++ [【Spring Cloud】 服务注册/服务发现](https://blog.csdn.net/2403_87459748/article/details/157222574)
+
++ [Oracle迁移实战：破解兼容性难题与高成本挑战](https://blog.csdn.net/weixin_74809706/article/details/157221730)
+
++ [【Java 开发日记】设计一个支持万人同时抢购商品的秒杀系统？](https://blog.csdn.net/2402_87298751/article/details/156869453)
+
++ [Flutter for OpenHarmony 实战：Dart类与面向对象编程](https://blog.csdn.net/2502_91523773/article/details/157261885)
+
++ [提示词工程已死，上下文工程当立](https://blog.csdn.net/qq_54452916/article/details/157102925)
+
++ [大数据技术演进（从传统Hadoop到Spark到云原生的技术演进路径）](https://blog.csdn.net/Autumn_horse/article/details/157219312)
+
++ [基于单片机的智能台灯设计，单片机智能台灯，人体检测（设计+源码+文档）](https://blog.csdn.net/2401_84374348/article/details/157216641)
+
