@@ -163,3 +163,11 @@
 
 + [你知道 Pandas 中 `pd.get_dummies()` 会生成哪些独热的新列么？](https://blog.csdn.net/qiy_icbc/article/details/157185963)
 
++ [【愚公系列】《AI+直播营销》037-直播间装修和布置（直播间镜头语言的运用）](https://blog.csdn.net/aa2528877987/article/details/156791996)
+
++ [用 Python Tornado + Vue3 + ECharts 搭建 Docker 实时监控 WebSocket 仪表盘](https://blog.csdn.net/weixin_46244623/article/details/157143341)
+
++ [关于MyBatis Mapper 接口与 XML 映射机制的分析](https://blog.csdn.net/weixin_40141628/article/details/157203988)
+
++ [提示词工程已死，上下文工程当立](https://blog.csdn.net/qq_54452916/article/details/157102925)
+

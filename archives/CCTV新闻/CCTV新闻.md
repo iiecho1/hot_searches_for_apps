@@ -179,3 +179,7 @@
 
 + [澳大利亚国家党宣布退出反对党联盟](https://news.cctv.com/2026/01/22/ARTIUpeL5fWTu8ORvCQA4u6X260122.shtml)
 
++ [日本新政党“中道改革联合”正式成立](https://news.cctv.com/2026/01/22/ARTIdJGGhtRKCevvPzBetfTV260122.shtml)
+
++ [委内瑞拉任命12名地区军事指挥官](https://news.cctv.com/2026/01/22/ARTIexV0TWXtsSlcUGJY31xe260122.shtml)
+

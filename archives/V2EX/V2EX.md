@@ -47,3 +47,7 @@
 
 + [年会抽奖被迫营业，写了个转盘轮子，最后失控了](https://www.v2ex.com/t/1187500)
 
++ [又出现程序员猝死，你怎么看？](https://www.v2ex.com/t/1187506)
+
++ [[送码]无需 VPN 连接 Tailscale 内网 SSH 服务器的 iOS 客户端更新啦](https://www.v2ex.com/t/1187359)
+
