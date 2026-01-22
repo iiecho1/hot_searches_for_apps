@@ -175,3 +175,7 @@
 
 + [日本企业陷入破产“寒潮”（环球热点）](https://news.cctv.com/2026/01/22/ARTISLdnxhJmQMiwUoSuI4Rt260122.shtml)
 
++ [印尼发生火车与小巴车相撞事故 已致9人死亡](https://news.cctv.com/2026/01/22/ARTIVYUnJZzjy0JquYDeOtaN260122.shtml)
+
++ [澳大利亚国家党宣布退出反对党联盟](https://news.cctv.com/2026/01/22/ARTIUpeL5fWTu8ORvCQA4u6X260122.shtml)
+

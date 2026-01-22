@@ -157,3 +157,9 @@
 
 + [AI 开发必用的4个skills组合，用来流畅掌控AI开发流程 ，灵活控制AI（opencode skills）](https://blog.csdn.net/m0_57874805/article/details/157174622)
 
++ [《机器学习》第五章-集成学习（Bagging/Boosting）](https://blog.csdn.net/2302_80961196/article/details/157216589)
+
++ [5分钟自动化财报抽取：基于TextIn+Coze的实践方案](https://blog.csdn.net/INTSIG/article/details/157210917)
+
++ [你知道 Pandas 中 `pd.get_dummies()` 会生成哪些独热的新列么？](https://blog.csdn.net/qiy_icbc/article/details/157185963)
+
