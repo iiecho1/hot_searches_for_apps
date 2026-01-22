@@ -139,3 +139,9 @@
 
 + [基于C#实现斑马ZT411打印机TCP通讯与打印状态精准判定](https://blog.csdn.net/LcVong/article/details/157224787)
 
++ [http和https区别、令牌、三次握手流程](https://blog.csdn.net/qq_25416827/article/details/157183634)
+
++ [为何机器学习常提反事实推断？——从起源、价值到数学建模](https://blog.csdn.net/soaring_casia/article/details/157187216)
+
++ [你知道 Pandas 中 `pd.get_dummies()` 会生成哪些独热的新列么？](https://blog.csdn.net/qiy_icbc/article/details/157185963)
+
