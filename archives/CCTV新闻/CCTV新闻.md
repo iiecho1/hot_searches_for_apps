@@ -189,3 +189,7 @@
 
 + [日本观光局：2025年12月中国内地访日游客数量同比大降](https://news.cctv.com/2026/01/22/ARTIz6HyB8BprSOPD8ttoPDT260122.shtml)
 
++ [美媒：关税拖累美国经济 负面影响今年或进一步加剧](https://news.cctv.com/2026/01/22/ARTI7HuRFZ6gN6HUVIOhgSPE260122.shtml)
+
++ [达沃斯论坛外媒聚焦中国：动荡中的稳定力量与多边秩序倡导者](https://news.cctv.com/2026/01/22/ARTIvMab2xRDsjHzh3DdFPLW260122.shtml)
+
