@@ -141,3 +141,15 @@
 
 + [用MySQL玩转数据可视化的技术](https://blog.csdn.net/Dd000110/article/details/157141747)
 
++ [在OpenHarmony上用React Native：Recoil选择器异步数据](https://blog.csdn.net/IRpickstars/article/details/157243407)
+
++ [PyTorch实战（24）——深度强化学习](https://blog.csdn.net/LOVEmy134611/article/details/150612659)
+
++ [2026低代码发展趋势：从工具到平台（2）](https://blog.csdn.net/bigstarH/article/details/157032430)
+
++ [Ubuntu如何搭建OpenHarmony_6.1.0.28的lycium_plusplus及鸿蒙 PC 环境设计的 C/C++ 编译框架](https://blog.csdn.net/qq_46340842/article/details/157176868)
+
++ [【Matlab】精通 MATLAB 逻辑变量定义：从逻辑判断到数据筛选，实现精准的条件化数据处理](https://blog.csdn.net/unbelievevc/article/details/157245084)
+
++ [SQL+VSCode实战指南：AI赋能高效数据库操作](https://blog.csdn.net/yuhaiqun1989/article/details/157130924)
+

@@ -167,3 +167,7 @@
 
 + [特朗普称欧洲的“方向不对”](https://news.cctv.com/2026/01/22/ARTIxXjQq3ioPTlrGNvvZNLW260122.shtml)
 
++ [美国法官裁定纽约州必须重划国会选区](https://news.cctv.com/2026/01/22/ARTIj5iPgw3GjFMNz10eAGjL260122.shtml)
+
++ [韩国特检组就尹锡悦一审无罪判决部分提起上诉](https://news.cctv.com/2026/01/22/ARTIXGUODoKaBanz7SWqVFb9260122.shtml)
+
