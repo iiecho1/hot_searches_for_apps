@@ -175,3 +175,11 @@
 
 + [瑞芯微RK3588核心板规格书，详细参数配置，定位ARM高端AIOT智能模组，板对板连接器320Pin 间距0.5 B to B连接器](https://blog.csdn.net/Industio_CSDN/article/details/157224600)
 
++ [《MySQL表的创建与约束：定义结构化数据的存储载体》](https://blog.csdn.net/Dovis5884/article/details/155907394)
+
++ [Android Gradle Plugin 9.0 发布，为什么这会是个史诗级大坑版本](https://blog.csdn.net/ZuoYueLiang/article/details/157251945)
+
++ [Linux：信号保存上（信号一）](https://blog.csdn.net/2503_91101239/article/details/157177313)
+
++ [AI系统故障诊断：模型崩溃、算力瓶颈与数据漂移的识别与解决策略](https://blog.csdn.net/2301_81152266/article/details/157183712)
+
