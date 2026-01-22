@@ -29,3 +29,5 @@
 
 + [virattt/dexter](https://github.com/virattt/dexter)
 
++ [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
+

@@ -207,3 +207,5 @@
 
 + [2026年第02周最热门的开源项目(Github)](https://blog.csdn.net/yao1500/article/details/157224609)
 
++ [从RNN到Transformer：LSTM模型的发展脉络与衍生演进](https://blog.csdn.net/weixin_38526314/article/details/157220790)
+
