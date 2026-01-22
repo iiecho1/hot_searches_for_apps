@@ -17,3 +17,15 @@
 
 + [tobi/try](https://github.com/tobi/try)
 
++ [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+
++ [block/goose](https://github.com/block/goose)
+
++ [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+
++ [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+
++ [mastra-ai/mastra](https://github.com/mastra-ai/mastra)
+
++ [virattt/dexter](https://github.com/virattt/dexter)
+
