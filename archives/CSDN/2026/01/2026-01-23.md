@@ -127,3 +127,13 @@
 
 + [基于单片机的智能台灯设计，单片机智能台灯，人体检测（设计+源码+文档）](https://blog.csdn.net/2401_84374348/article/details/157216641)
 
++ [机器学习（二）：KNN算法简介及API介绍（分类、回归）](https://blog.csdn.net/2401_87533975/article/details/157261787)
+
++ [Spring Boot 为何不推荐使用@Autowired](https://blog.csdn.net/TheThirdMoon/article/details/157219578)
+
++ [Linux学习之库的原理与制作](https://blog.csdn.net/2401_89119815/article/details/157099180)
+
++ [Github自动打包推送Maven中央仓库](https://blog.csdn.net/q1009020096/article/details/157214296)
+
++ [深信服超融合 HCI 核心技术解析：aSV、aSAN 与 aNET 的协同架构](https://blog.csdn.net/Tiam_cr/article/details/157179269)
+
