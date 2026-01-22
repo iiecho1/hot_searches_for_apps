@@ -193,3 +193,17 @@
 
 + [运维服务器监控不用蹲机房，node_exporter 远程看全靠cpolar](https://blog.csdn.net/qyj19920704/article/details/157258006)
 
++ [Jenkins自动化部署故障排查实战：从错误日志到解决方案](https://blog.csdn.net/weixin_44976692/article/details/157254827)
+
++ [【数据库】Oracle数据库迁移的深层痛点：兼容性、成本与隐性挑战](https://blog.csdn.net/lmy_520/article/details/157254045)
+
++ [何友院士《人工智能发展前沿》全景解读：从理论基石到产业变革](https://blog.csdn.net/2503_92624912/article/details/157104902)
+
++ [Linux：信号保存下（信号二）](https://blog.csdn.net/2503_91101239/article/details/157217234)
+
++ [linux 系统移植（第十期）----Linux 顶层 Makefile详谈-- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/157221269)
+
++ [Flutter鸿蒙开发指南（三）：使用dio库实现网络请求](https://blog.csdn.net/qq_74796274/article/details/157253039)
+
++ [2026年第02周最热门的开源项目(Github)](https://blog.csdn.net/yao1500/article/details/157224609)
+
