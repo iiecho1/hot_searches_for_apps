@@ -153,3 +153,7 @@
 
 + [SQL+VSCode实战指南：AI赋能高效数据库操作](https://blog.csdn.net/yuhaiqun1989/article/details/157130924)
 
++ [【花雕学编程】Arduino BLDC 之多传感器融合的动态避障跟随（服务机器人场景）](https://blog.csdn.net/weixin_41659040/article/details/157244641)
+
++ [AI 开发必用的4个skills组合，用来流畅掌控AI开发流程 ，灵活控制AI（opencode skills）](https://blog.csdn.net/m0_57874805/article/details/157174622)
+
