@@ -161,3 +161,13 @@
 
 + [英国宣布通过中国驻英国使馆新馆舍的规划审批](https://news.cctv.com/2026/01/20/ARTIj51hIRTgQsvqVkImeyka260120.shtml)
 
++ [伊朗媒体：互联网服务可能在未来24小时内全面恢复](https://news.cctv.com/2026/01/24/ARTICKlseV4g1fSOSVTT0I6Y260124.shtml)
+
++ [卢拉宣布巴西将对中国公民实施免签政策](https://news.cctv.com/2026/01/24/ARTIcviXmJ24IaJ5dwo6gCtF260124.shtml)
+
++ [俄美乌三方代表团将于24日在阿布扎比继续会谈](https://news.cctv.com/2026/01/24/ARTIgrw3yAwy7L4RafbEIHDS260124.shtml)
+
++ [土耳其外长：有迹象表明以色列正寻求攻击伊朗](https://news.cctv.com/2026/01/24/ARTII580ABfty4Wr5xdt13HD260124.shtml)
+
++ [美国14个州和华盛顿特区宣布进入紧急状态](https://news.cctv.com/2026/01/24/ARTIxs7FkXE1KbLZdKatJuCd260124.shtml)
+
