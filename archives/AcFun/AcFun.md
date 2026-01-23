@@ -67,3 +67,5 @@
 
 + [除了黄金，这些投资机会也很好～【岩论569期】](https://m.acfun.cn/v/?ac=48217116)
 
++ [new thang](https://m.acfun.cn/v/?ac=48216681)
+
