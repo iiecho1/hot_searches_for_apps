@@ -181,3 +181,11 @@
 
 + [33. 库存管理核心模型公式汇总与思维导图](https://blog.csdn.net/u012045365/article/details/157180747)
 
++ [Jenkins 实战教程：三大仓库 + 自动构建 + 公网远程部署](https://blog.csdn.net/weixin_52908342/article/details/157295733)
+
++ [Linux：信号保存上（信号一）](https://blog.csdn.net/2503_91101239/article/details/157177313)
+
++ [深入解析计算机网络中的应用层知识：HTTP 与 HTTPS](https://blog.csdn.net/qq_53140287/article/details/157186151)
+
++ [[特殊字符] 深度剖析 CVE-2026-24061：GNU Inetutils Telnetd 远程认证绕过漏洞](https://blog.csdn.net/hnytgl/article/details/157256994)
+

@@ -23,3 +23,19 @@
 
 + [virattt/dexter](https://github.com/virattt/dexter)
 
++ [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+
++ [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
++ [github/copilot-cli](https://github.com/github/copilot-cli)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG)
+
++ [lyogavin/airllm](https://github.com/lyogavin/airllm)
+
++ [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
+
