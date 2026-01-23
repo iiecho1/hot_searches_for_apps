@@ -199,3 +199,7 @@
 
 + [Linux账号与权限管理](https://blog.csdn.net/kiku1818/article/details/157214581)
 
++ [uniapp - 详解APP端免费人脸识别+人脸核身+人脸对比+活体检测插件功能完整源码，uniAPP纯前端实现不依赖后端API接口或第三方付费人脸识别功能示例（仅兼容安卓app与苹果ios App）](https://blog.csdn.net/weixin_44198965/article/details/157296891)
+
++ [C# ASP.NET强类型视图：让 UI 数据交互告别 “猜谜游戏“](https://blog.csdn.net/William_cl/article/details/157298287)
+
