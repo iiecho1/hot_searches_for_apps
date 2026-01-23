@@ -179,3 +179,5 @@
 
 + [码上通QT实战37--项目总结](https://blog.csdn.net/hqwest/article/details/157256849)
 
++ [33. 库存管理核心模型公式汇总与思维导图](https://blog.csdn.net/u012045365/article/details/157180747)
+
