@@ -163,3 +163,5 @@
 
 + [论文深度解析《Prompt Repetition Improves Non-Reasoning LLMs》，一种极简且零额外推理开销的解决方案——Prompt Repetition](https://blog.csdn.net/tingyunye/article/details/157259040)
 
++ [【IoTDB】从 TsFile 到 AI 原生：揭秘 Apache IoTDB 高性能存储引擎](https://blog.csdn.net/Morse_Chen/article/details/157262371)
+
