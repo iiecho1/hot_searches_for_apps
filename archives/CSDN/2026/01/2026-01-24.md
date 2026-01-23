@@ -111,3 +111,25 @@
 
 + [嵌入式开发——ARM Cortex-A7内核和i.MX6处理器相关的底层头文件](https://blog.csdn.net/2301_78295956/article/details/157185913)
 
++ [Java 大视界 -- Java 大数据在智能交通高速公路收费系统优化与通行效率提升实战](https://blog.csdn.net/atgfg/article/details/157263835)
+
++ [RISC-V vs ARM：为什么工业与边缘计算仍然选择 ARM 架构？](https://blog.csdn.net/chenzhiyuan2018/article/details/157219586)
+
++ [Oracle迁移痛点破解指南：金仓数据库的技术优势与实操价值](https://blog.csdn.net/lrq13965748542/article/details/157294633)
+
++ [【数据库】Oracle数据库迁移的深层痛点：兼容性、成本与隐性挑战](https://blog.csdn.net/lmy_520/article/details/157254045)
+
++ [从自动修 Bug 到自主执行脚本：国产 AI 编辑器 IfAI v0.3.1 发布](https://blog.csdn.net/weixin_43526443/article/details/157205668)
+
++ [业务系统安全办公沙箱解决方案](https://blog.csdn.net/lygtian/article/details/157249089)
+
++ [分布性AGI安全框架解析——应对拼凑式AGI的系统级治理方案](https://blog.csdn.net/2301_77485708/article/details/157291676)
+
++ [Linux学习之库的原理与制作](https://blog.csdn.net/2401_89119815/article/details/157099180)
+
++ [Web开发者转型AI安全核心：Agent金融数据处理Skill合规架构实战](https://blog.csdn.net/m290345792/article/details/157260226)
+
++ [抗辐照MCU在核电站交换机中的可靠性验证方法研究](https://blog.csdn.net/ANSILIC/article/details/157263770)
+
++ [HarmonyOS 6 智能带办应用开发之华日历接入实践](https://blog.csdn.net/sjw890821sjw/article/details/157281300)
+
