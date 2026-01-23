@@ -189,3 +189,9 @@
 
 + [韩国3名向朝鲜放飞无人机的嫌疑人被下达出国禁止令](https://news.cctv.com/2026/01/23/ARTIit0sJSjoJPFAPZeirzr9260123.shtml)
 
++ [日本内阁府公务车闯红灯致连环车祸1死8伤](https://news.cctv.com/2026/01/23/ARTIRAkrUx7JtEX47aUFoet7260123.shtml)
+
++ [拉美观察丨从极限施压到政策转向 美国对巴西关税“急转弯”的背后](https://news.cctv.com/2026/01/23/ARTIb3QWhGQQ9pRr3RjwyeH2260123.shtml)
+
++ [苏林当选越共中央总书记](https://news.cctv.com/2026/01/23/ARTI0DkFMpC5dC7MJrReUZ3X260123.shtml)
+

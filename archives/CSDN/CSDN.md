@@ -165,3 +165,7 @@
 
 + [【IoTDB】从 TsFile 到 AI 原生：揭秘 Apache IoTDB 高性能存储引擎](https://blog.csdn.net/Morse_Chen/article/details/157262371)
 
++ [【超音速专利 CN117058421A】基于多头模型的图像检测关键点方法、系统、平台及介质](https://blog.csdn.net/he_zhidan/article/details/157100173)
+
++ [【QT】2.QT 信号和槽](https://blog.csdn.net/m0_68617924/article/details/157259129)
+
