@@ -161,3 +161,5 @@
 
 + [嵌入式开发——ARM Cortex-A7内核和i.MX6处理器相关的底层头文件](https://blog.csdn.net/2301_78295956/article/details/157185913)
 
++ [论文深度解析《Prompt Repetition Improves Non-Reasoning LLMs》，一种极简且零额外推理开销的解决方案——Prompt Repetition](https://blog.csdn.net/tingyunye/article/details/157259040)
+
