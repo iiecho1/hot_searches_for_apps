@@ -169,3 +169,15 @@
 
 + [比利时发生持刀袭击事件 多人受伤](https://news.cctv.com/2026/01/23/ARTIdXBvv2pDmkJj0BOeuARJ260123.shtml)
 
++ [记者手记丨“热泉”边的中埃经贸合作有多热](https://news.cctv.com/2026/01/23/ARTInzHswgy4S9Qls3kRHAWA260123.shtml)
+
++ [专访丨对话与合作是释放人工智能潜力的关键——访世界经济论坛执行董事兼首席技术官斯特凡·默根特勒](https://news.cctv.com/2026/01/23/ARTIF5xZtqgbCO6EE5aSiCfI260123.shtml)
+
++ [在全球风浪中，读懂中国的确定性](https://news.cctv.com/2026/01/23/ARTIR3xmEMOzKUdB1SKIBYvl260123.shtml)
+
++ [欧盟将实质性投资格陵兰岛并加大北极防务装备投入](https://news.cctv.com/2026/01/23/ARTIxJUG64QXPCOcPtpznaS1260123.shtml)
+
++ [俄总统普京与美代表团会谈结束 历时超3小时](https://news.cctv.com/2026/01/23/ARTIuJUR02Mki8xlTDWhsnSu260123.shtml)
+
++ [高市早苗在内阁会议上决定解散众议院](https://news.cctv.com/2026/01/23/ARTINgDwRWG4S4v204tNacaJ260123.shtml)
+

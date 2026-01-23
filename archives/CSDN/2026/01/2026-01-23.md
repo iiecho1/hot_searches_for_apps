@@ -151,3 +151,9 @@
 
 + [01 Flutter for OpenHarmony](https://blog.csdn.net/u012087012/article/details/157261272)
 
++ [React Native + OpenHarmony：MapView自定义标注样式](https://blog.csdn.net/IRpickstars/article/details/157280735)
+
++ [【愚公系列】《AI+直播营销》042-巧用AI策划带货的直播脚本（直播脚本的十大要素）](https://blog.csdn.net/aa2528877987/article/details/156808059)
+
++ [『告别手工测试：AI 自动化测试覆盖 90% 场景的秘诀』](https://blog.csdn.net/qq_41187124/article/details/157062418)
+
