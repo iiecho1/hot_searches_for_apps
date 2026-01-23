@@ -157,3 +157,7 @@
 
 + [『告别手工测试：AI 自动化测试覆盖 90% 场景的秘诀』](https://blog.csdn.net/qq_41187124/article/details/157062418)
 
++ [C++大模型SDK开发实录（二）：DeepSeek模型接入、HTTP通信实现与GTest单元测试](https://blog.csdn.net/2301_80863610/article/details/157223667)
+
++ [嵌入式开发——ARM Cortex-A7内核和i.MX6处理器相关的底层头文件](https://blog.csdn.net/2301_78295956/article/details/157185913)
+
