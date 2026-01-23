@@ -139,3 +139,5 @@
 
 + [Java编程进阶：智能仿真无人机项目1.0](https://blog.csdn.net/2501_92713983/article/details/157262128)
 
++ [芯科科技助力涂鸦智能推出免编码AIoT平台创新智能照明开发](https://blog.csdn.net/mahuahu/article/details/157219495)
+
