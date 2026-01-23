@@ -197,3 +197,11 @@
 
 + [联合国：2025年至少21名工作人员遇袭殉职](https://news.cctv.com/2026/01/23/ARTIKcg8eZeDyZKZnb6zfhXQ260123.shtml)
 
++ [【世界说】外媒：关税、驱逐与威胁——美国政策自伤旅游业，还波及他国旅游市场](https://news.cctv.com/2026/01/23/ARTIVnqJZls6NeppfBH3CVjw260123.shtml)
+
++ [赌上首相宝座！高市解散众院开启政坛洗牌，会下台吗？ | 国际识局](https://news.cctv.com/2026/01/23/ARTIrg6QyEtUXFp8OZ9Ww7xC260123.shtml)
+
++ [论道达沃斯：三重视角看中国经济韧性](https://news.cctv.com/2026/01/23/ARTITfANl4HeZmSzn9QgUzKO260123.shtml)
+
++ [【中国那些事儿】外媒观察：从“价格”到“价值”，从“小众”到“日常”，看中式茶饮海外“圈粉”！](https://news.cctv.com/2026/01/23/ARTIvxKTKpaAQVAeJxbqEfdp260123.shtml)
+

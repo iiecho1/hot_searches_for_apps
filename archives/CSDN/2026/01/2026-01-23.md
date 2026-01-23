@@ -189,3 +189,13 @@
 
 + [[特殊字符] 深度剖析 CVE-2026-24061：GNU Inetutils Telnetd 远程认证绕过漏洞](https://blog.csdn.net/hnytgl/article/details/157256994)
 
++ [【项目部署】Spring Boot项目部署的四种方式](https://blog.csdn.net/2401_86760859/article/details/157222088)
+
++ [Linux：信号捕捉下（信号四）](https://blog.csdn.net/2503_91101239/article/details/157293518)
+
++ [飞书markdown下载（飞书文档转markdown格式）Chrome插件——飞书转存专家、转换markdown转换，markdown飞书下载飞书转换飞书](https://blog.csdn.net/Dontla/article/details/157220364)
+
++ [OpenGL 与 C++：深入理解与实现 Transform 组件](https://blog.csdn.net/zhooyu/article/details/157262527)
+
++ [Linux账号与权限管理](https://blog.csdn.net/kiku1818/article/details/157214581)
+
