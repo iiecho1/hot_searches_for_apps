@@ -173,3 +173,7 @@
 
 + [深入解析RDMA连接参数：struct rdma_conn_param详解](https://blog.csdn.net/eidolon_foot/article/details/157185165)
 
++ [Elasticsearch：如何使用 LLM 在摄入数据时提取需要的信息](https://blog.csdn.net/UbuntuTouch/article/details/157262156)
+
++ [长沙西贝莜面村的门店都分布在哪些位置？纯Java实现一个POI下载器一探究竟](https://blog.csdn.net/yelangkingwuzuhu/article/details/157261970)
+
