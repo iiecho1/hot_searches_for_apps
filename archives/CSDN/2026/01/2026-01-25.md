@@ -137,3 +137,5 @@
 
 + [Jetson Orin 平台 fTPM 全面解析：从 TPM 概念到 OP-TEE 实战（含 EKS/EKB、流程图、对比表）](https://blog.csdn.net/Interview_TC/article/details/157328827)
 
++ [如何将手机中的视频传输到电脑上？](https://blog.csdn.net/TheNextByte1/article/details/157295462)
+
