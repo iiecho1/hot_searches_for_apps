@@ -223,3 +223,9 @@
 
 + [macOS 、iPhone↔ Windows 11 通过共享文件夹（SMB）互传文件：详细教程](https://blog.csdn.net/qq_47461600/article/details/157301278)
 
++ [Flutter for OpenHarmony 21天训练营 Day03 总结：从学习到输出，迈出原创第一步](https://blog.csdn.net/2302_80329073/article/details/157260394)
+
++ [HarmonyOS 6.0+ 游戏/APP体验与PC生态：技术演进与生态探索](https://blog.csdn.net/qq_58538927/article/details/157305557)
+
++ [键盘与鼠标：人机交互的奥秘](https://blog.csdn.net/2501_92862577/article/details/157253761)
+
