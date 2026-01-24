@@ -167,3 +167,13 @@
 
 + [Java 大视界 -- Java 大数据实战：分布式架构重构气象预警平台（2 小时→2 分钟）](https://blog.csdn.net/atgfg/article/details/157263761)
 
++ [基于机器学习的农产品价格数据分析与预测系统](https://blog.csdn.net/Mark_LQ/article/details/157251960)
+
++ [神经网络的时序建模分支发展脉络（1960s-至今）](https://blog.csdn.net/weixin_38526314/article/details/157220826)
+
++ [【花雕学编程】Arduino BLDC 之PID 控制的关节伺服控制机器人](https://blog.csdn.net/weixin_41659040/article/details/157282626)
+
++ [Flutter-OH 3.35.7 环境配置与构建指南](https://blog.csdn.net/weixin_45822171/article/details/157320680)
+
++ [KuiklyUI for OpenHarmony 实战 01：源码构建与运行（Mac）](https://blog.csdn.net/weixin_44217688/article/details/157322521)
+
