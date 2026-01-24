@@ -163,3 +163,7 @@
 
 + [鸿蒙PC开发实战：基于Electron快速构建Web技术栈桌面应用](https://blog.csdn.net/2501_93573639/article/details/157256964)
 
++ [Linux权限实战速成：用户切换/文件控制/安全配置15分钟掌握，解锁核心操作与权限模型内核逻辑](https://blog.csdn.net/2501_91617454/article/details/157218647)
+
++ [Java 大视界 -- Java 大数据实战：分布式架构重构气象预警平台（2 小时→2 分钟）](https://blog.csdn.net/atgfg/article/details/157263761)
+

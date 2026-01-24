@@ -41,3 +41,7 @@
 
 + [昨天试了下 telegram，+86 手机号登录居然要收费了！](https://www.v2ex.com/t/1187997)
 
++ [iPhone Air 居然降到 5499，喜欢的可以冲了。25 号晚上抢购](https://www.v2ex.com/t/1187990)
+
++ [大家如果做不了开发了还有其他赚钱方式吗？](https://www.v2ex.com/t/1187901)
+
