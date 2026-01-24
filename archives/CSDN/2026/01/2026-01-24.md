@@ -229,3 +229,9 @@
 
 + [键盘与鼠标：人机交互的奥秘](https://blog.csdn.net/2501_92862577/article/details/157253761)
 
++ [基于图像处理的的蔬菜病害检测方法研究与实现](https://blog.csdn.net/qq_37340229/article/details/156396957)
+
++ [用PyTorch Lightning快速搭建可复现实验 pipeline](https://blog.csdn.net/2401_85083137/article/details/157298061)
+
++ [第三方库介绍——SQLite3](https://blog.csdn.net/2402_82670467/article/details/157329566)
+
