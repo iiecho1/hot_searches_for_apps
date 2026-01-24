@@ -177,3 +177,5 @@
 
 + [马来西亚首度破获水泥藏毒案 起获价值900多万美元毒品](https://news.cctv.com/2026/01/24/ARTIPRN74pxh10aDmq98NmUy260124.shtml)
 
++ [哥伦比亚南部发生爆炸造成至少7死8伤](https://news.cctv.com/2026/01/24/ARTIdac3XCm5sTK8GFJbPSn7260124.shtml)
+
