@@ -187,3 +187,9 @@
 
 + [高市早苗的三大危机与两大“赌注”](https://news.cctv.com/2026/01/24/ARTIdX6gjdSty8r1cjuHyzw5260124.shtml)
 
++ [联合国经社理事会80周年 中方敦促践行多边主义](https://news.cctv.com/2026/01/24/ARTIb6kQz5mMjhM3vPS0p1Ee260124.shtml)
+
++ [美国明尼苏达州民众抗议针对非法移民的暴力执法](https://photo.cctv.com/2026/01/24/PHOAxO0nYRY0cnlwtb1S6Kso260124.shtml)
+
++ [菲律宾马荣火山活动持续](https://photo.cctv.com/2026/01/24/PHOAiKwMCYFGEYiD7dN97tZd260124.shtml)
+
