@@ -175,3 +175,5 @@
 
 + [美国防部发布《国家防务战略》 将国土防御列为首要任务](https://news.cctv.com/2026/01/24/ARTIH0aEh2mKhFYm9twXpzVZ260124.shtml)
 
++ [马来西亚首度破获水泥藏毒案 起获价值900多万美元毒品](https://news.cctv.com/2026/01/24/ARTIPRN74pxh10aDmq98NmUy260124.shtml)
+

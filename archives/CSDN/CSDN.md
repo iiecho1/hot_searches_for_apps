@@ -157,3 +157,9 @@
 
 + [Flutter for OpenHarmony：Text — 文本显示与样式控制](https://blog.csdn.net/2501_93030156/article/details/157257480)
 
++ [HFP协议核心AT指令速查表](https://blog.csdn.net/weixin_37800531/article/details/157068591)
+
++ [【Java进阶】深度解析Canal：从原理到实战，MySQL增量数据同步的利器](https://blog.csdn.net/m0_58782205/article/details/157261215)
+
++ [鸿蒙PC开发实战：基于Electron快速构建Web技术栈桌面应用](https://blog.csdn.net/2501_93573639/article/details/157256964)
+
