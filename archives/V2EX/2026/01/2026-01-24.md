@@ -23,3 +23,17 @@
 
 + [2026 年了，是否仍然：车上听音乐，蓝牙连接远不如 AUX 有线](https://www.v2ex.com/t/1187754)
 
++ [[送年度会员] 一个程序员宝爸，被每天哄睡逼到做了个“替身”](https://www.v2ex.com/t/1187904)
+
++ [Claude Code 这种智能 CLI 相对于 Cursor 的优势在哪？为什么感觉前者是主流了？](https://www.v2ex.com/t/1187879)
+
++ [# 别再用 Nginx 配置折磨自己了，推荐 Zoraxy 让你 3 分钟搞定反向代理](https://www.v2ex.com/t/1187867)
+
++ [结婚上交工资？为什么就没有类似夫妻用钱审批场景的 bytebase 呢](https://www.v2ex.com/t/1187817)
+
++ [发现一个邮件驱动的 APP](https://www.v2ex.com/t/1187854)
+
++ [求懂车的兄弟姐妹帮忙支招：可以买二手车吗，怎么买合适](https://www.v2ex.com/t/1187840)
+
++ [日本见闻录｜东京 4 日游小小分享](https://www.v2ex.com/t/1187833)
+

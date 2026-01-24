@@ -171,3 +171,7 @@
 
 + [美国14个州和华盛顿特区宣布进入紧急状态](https://news.cctv.com/2026/01/24/ARTIxs7FkXE1KbLZdKatJuCd260124.shtml)
 
++ [国际银价突破100美元历史性关口](https://news.cctv.com/2026/01/24/ARTIdXBGsZD5tHzAIhotedzf260124.shtml)
+
++ [美国防部发布《国家防务战略》 将国土防御列为首要任务](https://news.cctv.com/2026/01/24/ARTIH0aEh2mKhFYm9twXpzVZ260124.shtml)
+
