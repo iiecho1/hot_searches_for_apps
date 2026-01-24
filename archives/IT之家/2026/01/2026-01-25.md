@@ -25,3 +25,27 @@
 
 + [苹果中国官网开始维护：预计为 2026 新春限时优惠活动，而非 M5 Pro / Max 芯片 MacBook Pro](https://m.ithome.com/html/915925.htm)
 
++ [还有更低！5099 元起京东自营苹果 iPhone Air 手机大促，支持 12 期免息](https://m.ithome.com/html/916042.htm)
+
++ [消息称苹果 iPhone Air 目前累积激活不到 20 万台，销量或不及预期](https://m.ithome.com/html/916081.htm)
+
++ [一坐高铁就犯困？12306 回应高铁车厢二氧化碳浓度超标：感到不适可自行吸氧](https://m.ithome.com/html/916017.htm)
+
++ [苹果 iPhone 18 标准版前瞻：A20 芯片、12GB 内存、三星传感器、简化相机控制](https://m.ithome.com/html/915955.htm)
+
++ [消息称苹果 iPhone 17e 维持原价：A19 芯片、升级灵动岛](https://m.ithome.com/html/916013.htm)
+
++ [个人所得税 App 鸿蒙版上架华为应用市场](https://m.ithome.com/html/916058.htm)
+
++ [小米 17 被曝将支持 eSIM、vivo X300 Ultra 第一季度发布](https://m.ithome.com/html/916020.htm)
+
++ [时隔 23 年后 QQ 秀官宣回归：只需上传图片即可 AI 生成，支持动态头像、花式干架、抽象舞蹈等玩法](https://m.ithome.com/html/915988.htm)
+
++ [消息称黑石集团正考虑出售徕卡相机公司，估值 10 亿欧元](https://m.ithome.com/html/916084.htm)
+
++ [苹果首款折叠 iPhone Fold 机模和华为 Pura X、三星 Galaxy Z Trifold 手机对比图曝光](https://m.ithome.com/html/916011.htm)
+
++ [Apple 2026 新春限时优惠开启：最多立省 1000 元、最高 24 期免息分期，iPhone、iPad、Mac、手表、耳机全都有](https://m.ithome.com/html/915971.htm)
+
++ [初代手机没发货，特朗普移动旗舰 T1 Ultra 已在路上](https://m.ithome.com/html/916000.htm)
+

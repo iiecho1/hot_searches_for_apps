@@ -139,3 +139,5 @@
 
 + [如何将手机中的视频传输到电脑上？](https://blog.csdn.net/TheNextByte1/article/details/157295462)
 
++ [HarmonyOS 后台机制，对实时游戏意味着什么？](https://blog.csdn.net/qq_36863796/article/details/157293486)
+
