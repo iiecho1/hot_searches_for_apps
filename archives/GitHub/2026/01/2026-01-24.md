@@ -25,3 +25,13 @@
 
 + [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
 
++ [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+
++ [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)
+
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
++ [putyy/res-downloader](https://github.com/putyy/res-downloader)
+
++ [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
+

@@ -213,3 +213,13 @@
 
 + [K8S HPA + KEDA 弹性伸缩消费者解决 MQ 消息积压](https://blog.csdn.net/weixin_46594796/article/details/157224644)
 
++ [掌控消息全链路(2)——RabbitMQ/Spring-AMQP高级特性之消息可靠性和重试机制](https://blog.csdn.net/2401_89167985/article/details/157099935)
+
++ [从Oracle到金仓:一次让人又爱又恨的迁移体验录](https://blog.csdn.net/qq_32682301/article/details/157326737)
+
++ [Linux 进程创建与终止全解析：fork 原理 + 退出机制实战](https://blog.csdn.net/2503_91389547/article/details/156065853)
+
++ [【AI大模型开发】-创建RAG问答实战（LangChain+DeepSeek+Faiss）](https://blog.csdn.net/zxc18344522713/article/details/157258334)
+
++ [macOS 、iPhone↔ Windows 11 通过共享文件夹（SMB）互传文件：详细教程](https://blog.csdn.net/qq_47461600/article/details/157301278)
+
