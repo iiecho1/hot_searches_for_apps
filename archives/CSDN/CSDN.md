@@ -101,3 +101,19 @@
 
 + [KuiklyUI for OpenHarmony 实战 01：源码构建与运行（Mac）](https://blog.csdn.net/weixin_44217688/article/details/157322521)
 
++ [机器学习特征选择：深入理解移除低方差特征与sklearn的VarianceThreshold](https://blog.csdn.net/2503_92624912/article/details/157095228)
+
++ [Java 大视界 -- Java 大数据机器学习模型在电商商品推荐系统中的冷启动问题攻克与个性化推荐强化](https://blog.csdn.net/atgfg/article/details/157225038)
+
++ [C#实现的TCP/UDP网络调试助手](https://blog.csdn.net/guygg88/article/details/157256693)
+
++ [Flutter for OpenHarmony 21天训练营 Day01 总结：从零搭建开发环境](https://blog.csdn.net/2302_80329073/article/details/157260222)
+
++ [Elasticsearch：如何使用 LLM 在摄入数据时提取需要的信息](https://blog.csdn.net/UbuntuTouch/article/details/157262156)
+
++ [【Linux网络编程】应用层自定义协议和序列化](https://blog.csdn.net/wheeldown/article/details/157328150)
+
++ [thinkpad等笔记本电脑在ubuntu等linux系统下电池校准如何做？](https://blog.csdn.net/ZhangRelay/article/details/157245497)
+
++ [Kestrel：.NET 的高性能 Web 服务器探秘](https://blog.csdn.net/xiaohui2015/article/details/157288222)
+
