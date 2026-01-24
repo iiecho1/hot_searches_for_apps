@@ -193,3 +193,11 @@
 
 + [菲律宾马荣火山活动持续](https://photo.cctv.com/2026/01/24/PHOAiKwMCYFGEYiD7dN97tZd260124.shtml)
 
++ [菲律宾南部海域船只失联事故已致7人死亡](https://news.cctv.com/2026/01/24/ARTIWS8eoubGBCmdy28Oy37Y260124.shtml)
+
++ [连日强降雪和低温已致阿富汗40余人死亡](https://news.cctv.com/2026/01/24/ARTIBkGdRy0byaJRPZukI8zI260124.shtml)
+
++ [伊朗处决两名“伊斯兰国”恐怖分子](https://news.cctv.com/2026/01/24/ARTI6PglkcuKyDllzgbBazQ8260124.shtml)
+
++ [加拿大外长：将继续致力于推动加沙地带实现和平](https://news.cctv.com/2026/01/24/ARTI8UGzH6j8oM9xyXwJcuFi260124.shtml)
+

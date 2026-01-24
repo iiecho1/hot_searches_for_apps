@@ -185,3 +185,17 @@
 
 + [搭载cpolar，让PostgreSQL数据库远程访问超丝滑](https://blog.csdn.net/ZWW_zhangww/article/details/157260202)
 
++ [【Qt开发】Qt系统（九）-＞ Qt TCP Socket](https://blog.csdn.net/weixin_74809706/article/details/157034021)
+
++ [交通数据分析项目：python地铁数据可视化分析系统 Flask框架 爬虫 数据分析 轨道数据 地铁数据分析 大数据 （源码）✅](https://blog.csdn.net/q_3548885153/article/details/157223120)
+
++ [Flutter for OpenHarmonyOS 前置知识：Dart语言详解（中）](https://blog.csdn.net/2401_88937325/article/details/157222710)
+
++ [HarmonyOS智慧农业管理应用开发教程--高高种地--第9篇：作物种植与管理](https://blog.csdn.net/ldc121xy716/article/details/157249615)
+
++ [React Native for OpenHarmony 开发环境构造指南](https://blog.csdn.net/2602_95067314/article/details/157300451)
+
++ [选项式API与组合式API的区别](https://blog.csdn.net/2301_81420784/article/details/157299349)
+
++ [Java项目从单体到微服务的演变](https://blog.csdn.net/2302_79781252/article/details/157258947)
+
