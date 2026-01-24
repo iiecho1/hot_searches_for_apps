@@ -199,3 +199,17 @@
 
 + [Java项目从单体到微服务的演变](https://blog.csdn.net/2302_79781252/article/details/157258947)
 
++ [AI大模型40年发展历程与未来统一趋势研究](https://blog.csdn.net/weixin_38526314/article/details/157295125)
+
++ [C#实现的TCP/UDP网络调试助手](https://blog.csdn.net/guygg88/article/details/157256693)
+
++ [Flutter for OpenHarmonyOS 前置知识：Dart语言详解（下）](https://blog.csdn.net/2401_88937325/article/details/157305326)
+
++ [基于SpringBoot-验证码](https://blog.csdn.net/Hhxhxud/article/details/157290405)
+
++ [linux--Cortex-A7架构-- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/157300261)
+
++ [Flutter for OpenHarmony 布局核心：Row 与 Column 深度解析与实战](https://blog.csdn.net/2501_93573294/article/details/157327149)
+
++ [K8S HPA + KEDA 弹性伸缩消费者解决 MQ 消息积压](https://blog.csdn.net/weixin_46594796/article/details/157224644)
+
