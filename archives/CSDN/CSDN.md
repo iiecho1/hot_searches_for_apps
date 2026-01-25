@@ -183,3 +183,9 @@
 
 + [Selenium结合Chrome DevTools协议加速爬取](https://blog.csdn.net/weixin_41943766/article/details/157326232)
 
++ [Linux（ubuntu）如何锁定cpu频率工作在最低能耗模式下](https://blog.csdn.net/ZhangRelay/article/details/157328253)
+
++ [【仓颉开发实战】基于 OpenHarmony 实现拨打电话功能](https://blog.csdn.net/weixin_45822171/article/details/157329341)
+
++ [Excel模板填充工具（工具&脚本分享）](https://blog.csdn.net/lagom_cc/article/details/157096980)
+

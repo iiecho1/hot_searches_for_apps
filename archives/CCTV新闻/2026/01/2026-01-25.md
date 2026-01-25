@@ -215,3 +215,7 @@
 
 + [世界经济论坛2026年年会嘉宾期待更多“中国机遇”——在达沃斯，向世界传递信心与力量](https://news.cctv.com/2026/01/25/ARTIQ3z1ZyLWLBeZh5iCewjH260125.shtml)
 
++ [美国近期两起执法枪杀均在弗洛伊德案事发地附近](https://news.cctv.com/2026/01/25/ARTIyk0jSvRPgR7RDmS1Awm0260125.shtml)
+
++ [印尼万隆市山体滑坡已致16人死亡](https://news.cctv.com/2026/01/25/ARTIZkBXTyVSr2Ci0Ze3O9hi260125.shtml)
+
