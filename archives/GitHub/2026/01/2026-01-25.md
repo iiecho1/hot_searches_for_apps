@@ -21,3 +21,9 @@
 
 + [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
 
++ [qarmin/czkawka](https://github.com/qarmin/czkawka)
+
++ [openai/codex](https://github.com/openai/codex)
+
++ [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+
