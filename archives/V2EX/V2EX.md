@@ -37,3 +37,9 @@
 
 + [Nex Terminal + claude 绝配，送兑换码](https://www.v2ex.com/t/1188031)
 
++ [两年前买的硬盘最近发现疑似二手，求支招](https://www.v2ex.com/t/1188133)
+
++ [免费 ChatGpt 和免费 Gemini 的对比](https://www.v2ex.com/t/1188051)
+
++ [江苏联通上行小黑屋问题？](https://www.v2ex.com/t/1188084)
+
