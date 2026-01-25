@@ -229,3 +229,11 @@
 
 + [在达沃斯，听青年谈中国](https://news.cctv.com/2026/01/25/ARTIxXIN85wYzdM8TLrvgKcW260125.shtml)
 
++ [意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”](https://news.cctv.com/2026/01/25/ARTImsBwEbnZBRtdw1xXGq36260125.shtml)
+
++ [加沙地带卫生部门：本轮停火期间484人因以军袭击死亡](https://news.cctv.com/2026/01/25/ARTIzCOF8Fxrbn1sLn3hxhnE260125.shtml)
+
++ [俄副外长：与美国就外交财产等问题的对话暂无进展](https://news.cctv.com/2026/01/25/ARTIRbyhvTa9w07XV4mVrcc4260125.shtml)
+
++ [韩国前国务总理李海瓒在越南去世](https://news.cctv.com/2026/01/25/ARTIJgsCIZFfXKHUYEQyvGgg260125.shtml)
+

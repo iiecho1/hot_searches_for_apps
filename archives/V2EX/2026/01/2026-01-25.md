@@ -65,3 +65,5 @@
 
 + [关于国内外分流的问题请教一下大佬们](https://www.v2ex.com/t/1188156)
 
++ [大家在用 opencode 还是 claudecode？哪个更舒服](https://www.v2ex.com/t/1188193)
+
