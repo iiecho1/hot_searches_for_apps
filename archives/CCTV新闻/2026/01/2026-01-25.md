@@ -193,3 +193,13 @@
 
 + [北约官员称将加强东翼军事部署以“威慑俄罗斯”](https://news.cctv.com/2026/01/25/ARTIuseC33vnPpJf2Ob7yp9f260125.shtml)
 
++ [民主党称将反对拨款法案 美联邦政府“停摆”可能性加大](https://news.cctv.com/2026/01/25/ARTIRU8iPwnwx5bywvK44Suo260125.shtml)
+
++ [印尼万隆市山体滑坡已致11人死亡](https://news.cctv.com/2026/01/25/ARTIDXmGpxIDKicoS1aTZHGz260125.shtml)
+
++ [苏丹检察机关对122名外国雇佣兵提起刑事诉讼](https://news.cctv.com/2026/01/25/ARTIn5EpZwp9FYgM0LBu5iZZ260125.shtml)
+
++ [匈牙利确定米兰冬奥会开幕式旗手](https://news.cctv.com/2026/01/25/ARTI6Hfrt5bGbhKiyyruY9mK260125.shtml)
+
++ [英国将组建“国家警察局”推进警务改革](https://news.cctv.com/2026/01/25/ARTIWeEFn54is42TkVOyufAE260125.shtml)
+
