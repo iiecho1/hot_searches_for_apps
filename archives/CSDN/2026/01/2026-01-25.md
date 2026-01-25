@@ -159,3 +159,15 @@
 
 + [ARM 架构中的内存屏障](https://blog.csdn.net/weixin_43275558/article/details/147222195)
 
++ [Java 大视界 -- Java 大数据在智能交通高速公路收费系统优化与通行效率提升实战](https://blog.csdn.net/atgfg/article/details/157263835)
+
++ [【愚公系列】《AI+直播营销》046-销讲型直播内容策划（适合销讲型直播的产品和服务）](https://blog.csdn.net/aa2528877987/article/details/156906679)
+
++ [基于深度迁移学习的医疗信息分类：从数据到部署的可落地技术路线（上）](https://blog.csdn.net/kkiron/article/details/157295012)
+
++ [使用 Elastic Agent Builder 构建语音 agents](https://blog.csdn.net/UbuntuTouch/article/details/157284569)
+
++ [【2026 最新】Kuikly 编译开发 OpenHarmony 项目逐步详细教程带图操作Android Studio编译（Windows）](https://blog.csdn.net/2301_80035882/article/details/157294778)
+
++ [一键推送AI项目到GitHub的完全指南](https://blog.csdn.net/qq_60735796/article/details/157328673)
+
