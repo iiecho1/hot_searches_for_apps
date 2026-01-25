@@ -201,3 +201,21 @@
 
 + [Python网络编程实战：从TCP/IP到WebSocket的协议演进与核心技术解析](https://blog.csdn.net/sinat_41617212/article/details/157357449)
 
++ [【鸿蒙PC命令行适配】鸿蒙 PC对SQLite的适配移植实战：交叉编译与部署方案详解](https://blog.csdn.net/weixin_52908342/article/details/157356626)
+
++ [InternVLA-A1——面向场景理解、未来状态生成、动作执行的一体化框架：融合VLM的语义理解与世界模型的未来动态预测](https://blog.csdn.net/v_JULY_v/article/details/157261737)
+
++ [【Flutter for OpenHarmony】网络请求实战：Dio 封装与数据上云](https://blog.csdn.net/Betelgeuse76/article/details/157361537)
+
++ [HarmonyOS智慧农业管理应用开发教程--高高种地--第11篇:任务管理与提醒系统](https://blog.csdn.net/ldc121xy716/article/details/157283092)
+
++ [LiveTalking 部署笔记](https://blog.csdn.net/jacke121/article/details/157323875)
+
++ [【开题答辩全过程】以 基于微信小程序的考公论坛的设计与实现为例，包含答辩的问题和答案](https://blog.csdn.net/shiji9932/article/details/157298740)
+
++ [告别繁琐命令行：自研多线程 SSH 极速文件传输助手（附 GitHub 源码）](https://blog.csdn.net/2403_87969572/article/details/157362033)
+
++ [Java 架构演进史：从咖啡杯到云原生霸主](https://blog.csdn.net/sj15814963053/article/details/157330809)
+
++ [什么一个真正的24x7个人AI助手：Clawdbot完全指南](https://blog.csdn.net/qq_60735796/article/details/157359905)
+
