@@ -189,3 +189,5 @@
 
 + [Excel模板填充工具（工具&脚本分享）](https://blog.csdn.net/lagom_cc/article/details/157096980)
 
++ [【FFmpeg 智慧园区场景应用】5.企业微信 / 钉钉告警一键切换脚本（含静默周期 + 恢复通知）](https://blog.csdn.net/kkoral/article/details/157255594)
+

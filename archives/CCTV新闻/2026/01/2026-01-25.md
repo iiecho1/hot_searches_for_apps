@@ -219,3 +219,9 @@
 
 + [印尼万隆市山体滑坡已致16人死亡](https://news.cctv.com/2026/01/25/ARTIZkBXTyVSr2Ci0Ze3O9hi260125.shtml)
 
++ [印度南部一家具厂发生火灾 造成5人死亡](https://news.cctv.com/2026/01/25/ARTIl71cC47P4VBvc1K2mHbs260125.shtml)
+
++ [特朗普称美国盟友在阿富汗没出力 多国“接受不了”](https://news.cctv.com/2026/01/25/ARTIQsSdSs3sqA84h9E2R5sg260125.shtml)
+
++ [比利时调查“利用AI视频冒充王室骗钱”团伙](https://news.cctv.com/2026/01/25/ARTIdN1al2Tb2QWsl6iQhlTD260125.shtml)
+
