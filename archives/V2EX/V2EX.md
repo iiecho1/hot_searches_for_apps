@@ -67,3 +67,5 @@
 
 + [大家在用 opencode 还是 claudecode？哪个更舒服](https://www.v2ex.com/t/1188193)
 
++ [linxu 下 2026 年使用什么输入法](https://www.v2ex.com/t/1188207)
+
