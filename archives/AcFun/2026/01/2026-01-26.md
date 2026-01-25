@@ -71,3 +71,5 @@
 
 + [怦然心动 ~](https://m.acfun.cn/v/?ac=48221008)
 
++ [小艾《Rainbow blaxx-Cha Cha》](https://m.acfun.cn/v/?ac=48182681)
+

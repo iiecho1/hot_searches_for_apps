@@ -139,3 +139,5 @@
 
 + [Flutter × OpenHarmony 实战：从 0 构建视频播放器的分类导航模块](https://blog.csdn.net/m0_71592416/article/details/157330542)
 
++ [构建交互式响应式页面：Flutter 在 OpenHarmony 上的动态 UI 实践](https://blog.csdn.net/2501_94186029/article/details/157327599)
+
