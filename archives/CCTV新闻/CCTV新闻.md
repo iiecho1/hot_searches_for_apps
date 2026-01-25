@@ -173,3 +173,23 @@
 
 + [美官员透露预计下一轮俄美乌三方会谈将于2月1日举行](https://news.cctv.com/2026/01/25/ARTIh1ep6CbKEqCB6mWfrSC0260125.shtml)
 
++ [严寒天气席卷加拿大 多地航班延误或取消](https://news.cctv.com/2026/01/25/ARTIiPNPl8ykdWYtJsDNqj4p260125.shtml)
+
++ [俄副外长：俄美关系正“回归正常”](https://news.cctv.com/2026/01/25/ARTIbi2FDEoIFNQyMeKHeZ9n260125.shtml)
+
++ [世卫组织：美国决定退出世卫的理由“不实”](https://news.cctv.com/2026/01/25/ARTIyjMYHQ6rsAFnGFqNZl9u260125.shtml)
+
++ [美国马萨诸塞州一俱乐部发生枪击事件 多人受伤](https://news.cctv.com/2026/01/25/ARTIKxXd0Bj9Bv6jyKzlSuo5260125.shtml)
+
++ [最后一天“打卡上班” 旅日大熊猫将返回中国](https://news.cctv.com/2026/01/25/ARTIczdMML2FkChEy1euvtcG260125.shtml)
+
++ [北约官员称将加强东翼军事部署以“威慑俄罗斯”](https://news.cctv.com/2026/01/25/ARTIsezCnTdKHUJdY3HD22Iv260125.shtml)
+
++ [叙过渡政府与“叙利亚民主力量”延长停火15天](https://news.cctv.com/2026/01/25/ARTIzfRUYNIFUUhjIp4cNwXN260125.shtml)
+
++ [加沙地带民防机构：以军无人机袭击致两名未成年人死亡](https://news.cctv.com/2026/01/25/ARTIeBmxPeaEt04jwTD1AivR260125.shtml)
+
++ [美明尼苏达州又一居民遭联邦执法人员枪击身亡 当地局势再升温](https://photo.cctv.com/2026/01/25/PHOAn28xc4X7z5uKf2wWswtF260125.shtml)
+
++ [北约官员称将加强东翼军事部署以“威慑俄罗斯”](https://news.cctv.com/2026/01/25/ARTIuseC33vnPpJf2Ob7yp9f260125.shtml)
+

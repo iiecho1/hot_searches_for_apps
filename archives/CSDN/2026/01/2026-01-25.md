@@ -145,3 +145,17 @@
 
 + [从 FreeRTOS 到 Zephyr：BLE 工程师的系统级迁移路线与底层认知重构](https://blog.csdn.net/wotaifuzao/article/details/157331656)
 
++ [Flutter 与 OpenHarmony 技术选型分析：为何构建待办事项应用选择此组合？](https://blog.csdn.net/2302_80329073/article/details/157333438)
+
++ [HarmonyOS 应用模型，对游戏架构意味着什么](https://blog.csdn.net/qq_36863796/article/details/157261007)
+
++ [【linux】高级IO，I/O多路转接之poll，接口和原理讲解，poll版本的TCP服务器](https://blog.csdn.net/2301_80751958/article/details/157250217)
+
++ [[特殊字符] 深度剖析 CVE-2026-24061：GNU Inetutils Telnetd 远程认证绕过漏洞](https://blog.csdn.net/hnytgl/article/details/157256994)
+
++ [GitHub 热榜项目 - 日榜(2026-01-24)](https://blog.csdn.net/u014390502/article/details/157324632)
+
++ [论文深度解析《Prompt Repetition Improves Non-Reasoning LLMs》，一种极简且零额外推理开销的解决方案——Prompt Repetition](https://blog.csdn.net/tingyunye/article/details/157259040)
+
++ [ARM 架构中的内存屏障](https://blog.csdn.net/weixin_43275558/article/details/147222195)
+

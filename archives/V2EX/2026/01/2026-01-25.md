@@ -25,3 +25,15 @@
 
 + [完了,完了, 不小心强行关机, pve 服务器无法启动了](https://www.v2ex.com/t/1188009)
 
++ [[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？](https://www.v2ex.com/t/1188101)
+
++ [有没有觉得“微信”店大欺客的](https://www.v2ex.com/t/1188059)
+
++ [分体式键盘真实体验怎么样？](https://www.v2ex.com/t/1188095)
+
++ [香港转内地，哪种方式最好](https://www.v2ex.com/t/1188015)
+
++ [我 Vibe Coding 一周，做了个桌面 Agent](https://www.v2ex.com/t/1188072)
+
++ [Nex Terminal + claude 绝配，送兑换码](https://www.v2ex.com/t/1188031)
+
