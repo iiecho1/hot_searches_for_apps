@@ -203,3 +203,15 @@
 
 + [英国将组建“国家警察局”推进警务改革](https://news.cctv.com/2026/01/25/ARTIWeEFn54is42TkVOyufAE260125.shtml)
 
++ [阿联酋媒体：中国引领“人工智能+”智能经济发展潮流](https://news.cctv.com/2026/01/25/ARTI9rc1Q8RFzowaT90Xwg9o260125.shtml)
+
++ [高市提前大选的政治算计：扭转国会少数派局面，为长期执政铺路](https://news.cctv.com/2026/01/25/ARTIb53lt1l7IGBz7OnS8Kw1260125.shtml)
+
++ [肯尼亚媒体：中国出口增长是全球消费者对中国制造的“信任投票”](https://news.cctv.com/2026/01/25/ARTIOiu7a3gWDkqlrljmINRv260125.shtml)
+
++ [“中国的发展理念值得长期研究”——访黎巴嫩丝绸之路研究院院长库迈哈](https://news.cctv.com/2026/01/25/ARTIkF86JHNmoIQdvyhaRxcW260125.shtml)
+
++ [达沃斯热议中国经济向新向优发展](https://news.cctv.com/2026/01/25/ARTIOt6GXwA28M9daMYqWVdh260125.shtml)
+
++ [世界经济论坛2026年年会嘉宾期待更多“中国机遇”——在达沃斯，向世界传递信心与力量](https://news.cctv.com/2026/01/25/ARTIQ3z1ZyLWLBeZh5iCewjH260125.shtml)
+

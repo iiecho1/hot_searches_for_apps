@@ -171,3 +171,15 @@
 
 + [一键推送AI项目到GitHub的完全指南](https://blog.csdn.net/qq_60735796/article/details/157328673)
 
++ [你的第一个神经网络：用PyTorch/Keras实现手写数字识别](https://blog.csdn.net/2301_81152266/article/details/157324146)
+
++ [大数据Spark（七十八）：Action行动算子saveAsTextFile、top(num)和takeOrdered(num)使用案例](https://blog.csdn.net/xiaoweite1/article/details/157354802)
+
++ [[React Native for OpenHarmony]在开源鸿蒙跨平台工程集成网络请求能力，实现数据清单列表的完整构建与开源鸿蒙设备运行验证。](https://blog.csdn.net/creaDelight/article/details/157354010)
+
++ [基于scrapy的网易云音乐数据采集与分析设计实现](https://blog.csdn.net/weixin_49081159/article/details/157333701)
+
++ [做一个类似VS code的AI 编辑器技术方案](https://blog.csdn.net/zkmrobot/article/details/157256778)
+
++ [Selenium结合Chrome DevTools协议加速爬取](https://blog.csdn.net/weixin_41943766/article/details/157326232)
+
