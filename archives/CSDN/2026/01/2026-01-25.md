@@ -141,3 +141,7 @@
 
 + [HarmonyOS 后台机制，对实时游戏意味着什么？](https://blog.csdn.net/qq_36863796/article/details/157293486)
 
++ [PostgreSQL 实战：EXPLAIN 执行计划详解](https://blog.csdn.net/cui_yonghua/article/details/157331820)
+
++ [从 FreeRTOS 到 Zephyr：BLE 工程师的系统级迁移路线与底层认知重构](https://blog.csdn.net/wotaifuzao/article/details/157331656)
+
