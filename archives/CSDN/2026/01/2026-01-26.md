@@ -133,3 +133,9 @@
 
 + [区块链论文速读 CCF A--TDSC 2025 (4)](https://blog.csdn.net/u013288190/article/details/157300880)
 
++ [Java 大视界 -- 基于 Java+Flink 构建实时风控规则引擎：动态规则配置与热更新（446）](https://blog.csdn.net/atgfg/article/details/157333442)
+
++ [AI大模型40年发展历程与未来统一趋势研究](https://blog.csdn.net/weixin_38526314/article/details/157295125)
+
++ [Flutter × OpenHarmony 实战：从 0 构建视频播放器的分类导航模块](https://blog.csdn.net/m0_71592416/article/details/157330542)
+
