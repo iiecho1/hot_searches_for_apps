@@ -143,3 +143,5 @@
 
 + [【办公平台】在 Ubuntu 上部署 Synapse Matrix 服务器（本地网络版）](https://blog.csdn.net/weixin_43219667/article/details/157325157)
 
++ [读李宁老师的《AIGC 自动化编程 -- 基于 ChatGPT和 GitHub Copilot》](https://blog.csdn.net/m0_46699540/article/details/157296466)
+

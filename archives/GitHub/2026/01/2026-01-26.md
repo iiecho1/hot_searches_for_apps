@@ -17,3 +17,5 @@
 
 + [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
 
++ [Psiphon-Inc/conduit](https://github.com/Psiphon-Inc/conduit)
+
