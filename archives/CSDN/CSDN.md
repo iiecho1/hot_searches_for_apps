@@ -219,3 +219,11 @@
 
 + [什么一个真正的24x7个人AI助手：Clawdbot完全指南](https://blog.csdn.net/qq_60735796/article/details/157359905)
 
++ [Spring MVC 深度解析](https://blog.csdn.net/xiaolyuh123/article/details/157261724)
+
++ [【OpenHarmony】鸿蒙跨平台开发实战指南—工程创建与AtomGit平台自建公开仓库](https://blog.csdn.net/2401_85686768/article/details/157333238)
+
++ [Java学习历程24——仿真智能集群项目（2）](https://blog.csdn.net/LGL6030A/article/details/157300308)
+
++ [多无人机协同侦查、任务分配与智能决策仿真解决方案](https://blog.csdn.net/wearegogog123/article/details/157324934)
+
