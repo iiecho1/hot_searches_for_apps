@@ -101,3 +101,17 @@
 
 + [GitHub 热榜项目 - 日榜(2026-01-25)](https://blog.csdn.net/u014390502/article/details/157357710)
 
++ [长沙西贝莜面村的门店都分布在哪些位置？纯Java实现一个POI下载器一探究竟](https://blog.csdn.net/yelangkingwuzuhu/article/details/157261970)
+
++ [【AI大模型开发】-NotebookLM 使用](https://blog.csdn.net/zxc18344522713/article/details/157327833)
+
++ [Vue3+Node.js实现文件上传并发控制与安全防线 进阶篇](https://blog.csdn.net/2301_81253185/article/details/157359699)
+
++ [Linux（ubuntu）如何锁定cpu频率工作在最低能耗模式下](https://blog.csdn.net/ZhangRelay/article/details/157328253)
+
++ [Java 架构演进史：从咖啡杯到云原生霸主](https://blog.csdn.net/sj15814963053/article/details/157330809)
+
++ [深度解析.NET中IEnumerable＜T＞.SelectMany：数据扁平化与复杂映射的利器](https://blog.csdn.net/dotnethello/article/details/157331157)
+
++ [Jetson Orin 平台 fTPM 全面解析：从 TPM 概念到 OP-TEE 实战（含 EKS/EKB、流程图、对比表）](https://blog.csdn.net/Interview_TC/article/details/157328827)
+
