@@ -159,3 +159,25 @@
 
 + [linux 系统移植（第十三期）---Linux 内核移植（2）- CPU 主频修改--- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/157332605)
 
++ [在 OpenHarmony 上打造智能 TodoList：基于 Flutter 的标签分类与动态过滤实践](https://blog.csdn.net/2302_80329073/article/details/157357516)
+
++ [KingbaseES 时序数据库：国产化替代浪潮下的技术突围与实践路径](https://blog.csdn.net/qq_57761637/article/details/157368189)
+
++ [【Agent】Agentic Reasoning for Large Language Models](https://blog.csdn.net/qq_35812205/article/details/157365904)
+
++ [用React Native开发OpenHarmony应用_Camera录制视频代码](https://blog.csdn.net/IRpickstars/article/details/157365885)
+
++ [构建 OpenHarmony 智能场景自动化配置面板：Flutter 实现可视化规则编排](https://blog.csdn.net/2501_94186029/article/details/157361067)
+
++ [主流 AI IDE 之一的 Codex 介绍](https://blog.csdn.net/u014695938/article/details/157363224)
+
++ [永磁同步电机驱动控制系统中MCU的抗干扰设计](https://blog.csdn.net/ANSILIC/article/details/157365886)
+
++ [Rspack核心解析：Rust重写Webpack的性能革命与本质](https://blog.csdn.net/yydsdaydayup/article/details/157295113)
+
++ [【网络拓扑部署-网络设备-网络安全】](https://blog.csdn.net/weixin_47417033/article/details/157293866)
+
++ [鸿蒙中级课程笔记3—ArkUI进阶3—给应用添加交互(手势)](https://blog.csdn.net/BlackWolfSky/article/details/157364323)
+
++ [【计算机网络 | 第十一篇】计网之应用层（二）—— 万字解析 + 图解DNS、DHCP、HTTP2.0/3.0 ](https://blog.csdn.net/2501_93095927/article/details/157300776)
+
