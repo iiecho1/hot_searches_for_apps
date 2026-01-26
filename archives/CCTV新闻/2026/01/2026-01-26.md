@@ -165,3 +165,7 @@
 
 + [俄外交部证实俄方曾向特朗普发出访俄邀请](https://news.cctv.com/2026/01/26/ARTIqRo8gKyKuZVymbiUFeVA260126.shtml)
 
++ [菲律宾客船倾覆事故已致7人死亡](https://news.cctv.com/2026/01/26/ARTIhIqGSB7fEqwe2DwG6QDa260126.shtml)
+
++ [菲律宾一载有350多人的船只倾覆 搜救行动正在进行](https://news.cctv.com/2026/01/26/ARTIpH8v7v0AVUvtyZS7YydX260126.shtml)
+

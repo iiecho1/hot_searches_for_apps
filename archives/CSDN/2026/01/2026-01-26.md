@@ -145,3 +145,17 @@
 
 + [读李宁老师的《AIGC 自动化编程 -- 基于 ChatGPT和 GitHub Copilot》](https://blog.csdn.net/m0_46699540/article/details/157296466)
 
++ [金仓数据库兼容性实践：Oracle 迁移的问题词拆解与验证](https://blog.csdn.net/2302_78391795/article/details/157282869)
+
++ [Vibe Coding - 用 Superpowers 把 Claude Code 变成按流程交付的 AI 搭档](https://blog.csdn.net/yangshangwei/article/details/157364791)
+
++ [【Redis实战进阶篇1】Redis 分布式锁：从手写实现到 Redisson 最佳实践](https://blog.csdn.net/m0_58782205/article/details/157363120)
+
++ [宝塔服务器被篡改 Nginx Location 配置的安全风险剖析与修复指南（流量劫持、服务器资源消耗、站点功能异常、溯源困难）](https://blog.csdn.net/weixin_41290949/article/details/157357524)
+
++ [【AI笔记】数模备赛：体育盛会中的定性分析与定量评估](https://blog.csdn.net/Harrytutu_ZuiYue/article/details/157182186)
+
++ [重磅启幕｜2026百度文心Moment大会：文心5.0破局来袭，2.4万亿参数解锁原生全模态新赛道](https://blog.csdn.net/CC1991_/article/details/157293176)
+
++ [linux 系统移植（第十三期）---Linux 内核移植（2）- CPU 主频修改--- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/157332605)
+
