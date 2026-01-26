@@ -19,3 +19,11 @@
 
 + [Psiphon-Inc/conduit](https://github.com/Psiphon-Inc/conduit)
 
++ [block/goose](https://github.com/block/goose)
+
++ [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
+
++ [k4yt3x/video2x](https://github.com/k4yt3x/video2x)
+
++ [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team)
+
