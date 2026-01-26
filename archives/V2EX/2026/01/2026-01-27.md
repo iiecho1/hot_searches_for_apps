@@ -21,3 +21,5 @@
 
 + [有什么推荐的浏览器?](https://www.v2ex.com/t/1188293)
 
++ [逆向 Claudecode。每人送 20$， 0.2 倍率随便玩，智力在线](https://www.v2ex.com/t/1188533)
+
