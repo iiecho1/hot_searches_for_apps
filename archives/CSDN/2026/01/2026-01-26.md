@@ -189,3 +189,23 @@
 
 + [android compose ui 结合 ViewModel适配方案](https://blog.csdn.net/kk3087961/article/details/157326204)
 
++ [PyTorch实战（25）——使用PyTorch构建DQN模型](https://blog.csdn.net/LOVEmy134611/article/details/150612705)
+
++ [【Spring】从0到1掌握Spring MVC应用分层](https://blog.csdn.net/2301_81614213/article/details/157331940)
+
++ [深度学习实战-基于CNN和VIT的乳腺癌图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/155322112)
+
++ [（文后附完整代码）html+css+javascript 抓娃娃游戏项目分析](https://blog.csdn.net/qq_33650655/article/details/157358818)
+
++ [【自然语言处理】02 文本规范化](https://blog.csdn.net/Morse_Chen/article/details/156953959)
+
++ [用Coze打造你的专属AI应用：从智能体到Web部署指南](https://blog.csdn.net/2302_80105876/article/details/156950651)
+
++ [存储芯片价格暴涨100%，你的手机电脑要涨价了吗？](https://blog.csdn.net/m0_62617719/article/details/157364472)
+
++ [LabVIEW的XML文档生成与文件保存](https://blog.csdn.net/bjcyck/article/details/157364980)
+
++ [06 thingsboard-ubuntu20-rk3588-连通性-测试 MQTT HTTP COAP](https://blog.csdn.net/weixin_43951955/article/details/157362109)
+
++ [ARM架构——UART 串口通信详解](https://blog.csdn.net/lufrednow_/article/details/157297647)
+
