@@ -129,3 +129,5 @@
 
 + [FastAPI 和 Html+css+js 开发的 PDF打印服务器 连接到服务器的物理打印机打印](https://blog.csdn.net/PieroPc/article/details/157365639)
 
++ [从Oracle到金仓:一次让人又爱又恨的迁移体验录](https://blog.csdn.net/qq_32682301/article/details/157326737)
+
