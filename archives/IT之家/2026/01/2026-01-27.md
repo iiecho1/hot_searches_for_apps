@@ -25,3 +25,27 @@
 
 + [荣耀官方提醒 Magic8 Pro Air 避免使用一体式全包镜头膜，称可能导致扬声器杂音](https://m.ithome.com/html/916228.htm)
 
++ [暴降 2000+ 后真香？京东 iPhone Air 已卖断货，发货时间延至 2 月](https://m.ithome.com/html/916596.htm)
+
++ [问界 M6 冬测影像曝光，华为余承东曾称今年问界可能“连成顺子”](https://m.ithome.com/html/916383.htm)
+
++ [消息称苹果 MacBook Pro 今年更新两次：M6 Pro / Max 机型提前至年末发布，搭 OLED 面板 / 5G 蜂窝网络](https://m.ithome.com/html/916315.htm)
+
++ [小米 REDMI Turbo 5 标准版外观公布：金属中框、玻璃背板、6.59 英寸屏](https://m.ithome.com/html/916392.htm)
+
++ [代号 Hope：华为神秘新折叠手机首曝，提供白 / 绿 / 橘 / 蓝黑色](https://m.ithome.com/html/916494.htm)
+
++ [苹果 AirTag 2 发布：查找范围最高提升 50%、音量提升 50%，售价 249 元](https://m.ithome.com/html/916622.htm)
+
++ [小米卢伟冰：REDMI Turbo 系列就是要坚定地和年轻人站在一起](https://m.ithome.com/html/916364.htm)
+
++ [20+ 新品蓄势待发：苹果 2026 年新品前瞻，有望推 iPhone Fold、高端版 AirPods Pro 3 等](https://m.ithome.com/html/916573.htm)
+
++ [“DeepSeek-V3 基于我们的架构打造”，Mistral CEO Arthur Mensch 逆天发言被喷](https://m.ithome.com/html/916419.htm)
+
++ [小米 REDMI Turbo 5 系列手机确认魏思琪主讲，卢伟冰送上灭霸无限手套](https://m.ithome.com/html/916583.htm)
+
++ [9000mAh：消息称小米 REDMI Turbo 5 Max 手机配“粮系”今年上半年最大电池](https://m.ithome.com/html/916445.htm)
+
++ [特斯拉 Model S 老车主自曝遭“电池刺客”：换电池费用需 1.3 万美元，超过二手车价](https://m.ithome.com/html/916320.htm)
+
