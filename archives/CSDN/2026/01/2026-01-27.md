@@ -125,3 +125,7 @@
 
 + [Flutter for OpenHarmony：布局组件实战指南](https://blog.csdn.net/2501_93573368/article/details/157359668)
 
++ [数仓整体架构和建模架构](https://blog.csdn.net/Sky960722/article/details/157365266)
+
++ [FastAPI 和 Html+css+js 开发的 PDF打印服务器 连接到服务器的物理打印机打印](https://blog.csdn.net/PieroPc/article/details/157365639)
+
