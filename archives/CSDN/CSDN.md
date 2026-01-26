@@ -239,3 +239,9 @@
 
 + [pdf-engine发布](https://blog.csdn.net/qq_40077167/article/details/157330303)
 
++ [Spark+Flask新能源车数据分析与推荐系统实战：从0到1搭建完整项目](https://blog.csdn.net/2401_85083137/article/details/157362121)
+
++ [深入解析C/S架构与B/S架构：技术选型与应用实践](https://blog.csdn.net/2503_92624912/article/details/157332040)
+
++ [嵌入式 I2C 通信全解析：从硬件原理到驱动实现](https://blog.csdn.net/2301_77424087/article/details/157362934)
+
