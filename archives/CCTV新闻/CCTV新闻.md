@@ -189,3 +189,7 @@
 
 + [墨西哥一足球场发生枪击事件 已致11死12伤](https://news.cctv.com/2026/01/26/ARTIWM9l4WSFMfEnAj2GbwwL260126.shtml)
 
++ [日本监管机构对涉嫌数据造假的电力公司展开调查](https://news.cctv.com/2026/01/26/ARTImTlmvLXzz29LwigOTLaM260126.shtml)
+
++ [菲律宾客船倾覆事故已致18人死亡](https://news.cctv.com/2026/01/26/ARTINQISF5KCRtQMkW4RQT4N260126.shtml)
+
