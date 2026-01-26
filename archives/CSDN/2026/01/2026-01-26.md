@@ -245,3 +245,7 @@
 
 + [嵌入式 I2C 通信全解析：从硬件原理到驱动实现](https://blog.csdn.net/2301_77424087/article/details/157362934)
 
++ [Notion+DeepSeek：搭建个人工作看板与自动化任务管理规则](https://blog.csdn.net/qinzhenyan/article/details/157365439)
+
++ [HarmonyOS PC 多窗口，到底在解决什么](https://blog.csdn.net/qq_36863796/article/details/157362962)
+
