@@ -167,3 +167,7 @@
 
 + [美国缅因州小型飞机坠毁事故致7死1伤](https://news.cctv.com/2026/01/27/ARTIbvkI5JpFCEkCM6IU4qZy260127.shtml)
 
++ [泽连斯基：乌美俄有望2月1日再次举行三方会谈](https://news.cctv.com/2026/01/27/ARTINIT9kiBlVxKgoRwnsEbX260127.shtml)
+
++ [特朗普称提高对韩国多种商品关税税率至25%](https://news.cctv.com/2026/01/27/ARTIyUXNEdAAngPSUqDJexcl260127.shtml)
+
