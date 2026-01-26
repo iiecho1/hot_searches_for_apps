@@ -217,3 +217,11 @@
 
 + [AnywhereVLA深度流程解析---学习如何完成移动操作边界的语言驱动机器人系统](https://blog.csdn.net/lovely_yoshino/article/details/153269929)
 
++ [从Web到AI：多模态Agent图像识别Skills开发实战——JavaScript+Python全栈图像处理方案](https://blog.csdn.net/m290345792/article/details/157263578)
+
++ [基于SpringBoot+大数据爬虫Hadoop+智能AI大模型的抖音女装推荐系统的设计与实现(精品源码+精品论文+上万数据集+答辩PPT)](https://blog.csdn.net/weixin_39709134/article/details/157390811)
+
++ [PostgreSQL 实战：如何优雅高效地进行全文检索](https://blog.csdn.net/cui_yonghua/article/details/157356887)
+
++ [Flutter for OpenHarmony 实战：贪吃蛇蛇的移动逻辑详解](https://blog.csdn.net/2502_91523773/article/details/157392632)
+

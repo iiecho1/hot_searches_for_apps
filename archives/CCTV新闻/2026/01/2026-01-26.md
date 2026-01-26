@@ -205,3 +205,7 @@
 
 + [韩国前总理韩德洙就一审被判有期徒刑23年提出上诉](https://news.cctv.com/2026/01/26/ARTItuZw8an7BiWDzyjAnmMc260126.shtml)
 
++ [俄总统新闻秘书：美国若袭击伊朗将严重破坏地区稳定](https://news.cctv.com/2026/01/26/ARTIOdokauFcVUqiExvRKPCI260126.shtml)
+
++ [欧盟理事会批准俄罗斯天然气禁令](https://news.cctv.com/2026/01/26/ARTIgsNHijVLwpAqWu9irulE260126.shtml)
+
