@@ -105,3 +105,23 @@
 
 + [随机扣款实现赛博共产主义，《明日方舟：终末地》公测支付事故复盘](https://blog.csdn.net/RenGJ010617/article/details/157365327)
 
++ [服务注册发现核心揭秘 Eureka、Nacos、Consul全方位对比](https://blog.csdn.net/sinat_41617212/article/details/157357102)
+
++ [Flutter for OpenHarmony：注入灵魂：购物车的数据驱动与状态管理实战](https://blog.csdn.net/2501_93573294/article/details/157401423)
+
++ [多模融合重塑文档数据库：金仓数据库 MongoDB 兼容版的技术实践](https://blog.csdn.net/2302_78391795/article/details/157385377)
+
++ [【愚公系列】《AI+直播营销》047-销讲型直播内容策划（销讲型直播内容AIGC 的5步策划法）](https://blog.csdn.net/aa2528877987/article/details/156908523)
+
++ [【AI大模型开发】-NotebookLM 使用](https://blog.csdn.net/zxc18344522713/article/details/157327833)
+
++ [OpenCV学习：从角点检测到特征匹配](https://blog.csdn.net/m0_72616498/article/details/157362833)
+
++ [C#.net 分布式ID之雪花ID，时钟回拨是什么？怎么解决？](https://blog.csdn.net/cao919/article/details/157303245)
+
++ [【鸿蒙PC命令行适配】鸿蒙 PC对SQLite的适配移植实战：交叉编译与部署方案详解](https://blog.csdn.net/weixin_52908342/article/details/157356626)
+
++ [深入浅出 B/S 架构：从原理到实践，解锁 Web 应用开发核心](https://blog.csdn.net/u010030103/article/details/157363867)
+
++ [Flutter for OpenHarmony：布局组件实战指南](https://blog.csdn.net/2501_93573368/article/details/157359668)
+
