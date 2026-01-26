@@ -185,3 +185,7 @@
 
 + [菲律宾客船倾覆事故已致15人死亡](https://news.cctv.com/2026/01/26/ARTIO8BuwWD93n3nAjvNmgWe260126.shtml)
 
++ [日本北海道发生列车与卡车相撞事故 多人受伤](https://news.cctv.com/2026/01/26/ARTIuvPEwHg48NUJS6VwgDqC260126.shtml)
+
++ [墨西哥一足球场发生枪击事件 已致11死12伤](https://news.cctv.com/2026/01/26/ARTIWM9l4WSFMfEnAj2GbwwL260126.shtml)
+
