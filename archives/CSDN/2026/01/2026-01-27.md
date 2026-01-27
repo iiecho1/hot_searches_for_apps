@@ -207,3 +207,11 @@
 
 + [微信小程序页面导航](https://blog.csdn.net/qq_51626500/article/details/157068871)
 
++ [开启你的远程工作新生活：Awesome Remote Job 资源合集](https://blog.csdn.net/weixin_44626085/article/details/157428713)
+
++ [微前端系列：主流前端框架选型与对比](https://blog.csdn.net/ligang2585116/article/details/157401053)
+
++ [Flutter for OpenHarmony 悬浮操作按钮：FloatingActionButton 与扩展菜单的深度优化实践](https://blog.csdn.net/2401_88937325/article/details/157398136)
+
++ [企微API自动化：外部群推送实现高效自动化](https://blog.csdn.net/2501_94198205/article/details/157397243)
+
