@@ -159,3 +159,7 @@
 
 + [N-EIoU-YOLOv9：一种用于水稻叶部病害轻量化移动检测的信号感知边界框回归损失](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/157383056)
 
++ [An Alternative Root Path to AGI: A Comprehensive Analysis of Self-Referential Cosmology, Cognitive](https://blog.csdn.net/weixin_50059478/article/details/157424598)
+
++ [【Xilinx FPGA】7 Series 收发器架构与时钟设计](https://blog.csdn.net/sxyang2018/article/details/157329630)
+
