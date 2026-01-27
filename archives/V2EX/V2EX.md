@@ -49,3 +49,9 @@
 
 + [买了一台 65 寸的电视 TCL T7L ULTRA，大佬们推荐一下玩法](https://www.v2ex.com/t/1188613)
 
++ [一个大胆的预言：语音输入将成为绝对主流](https://www.v2ex.com/t/1188728)
+
++ [做自媒体一个月从 0 到爆火 20w 粉丝有感](https://www.v2ex.com/t/1188665)
+
++ [感觉自己越来越像个 NPC 了](https://www.v2ex.com/t/1188606)
+

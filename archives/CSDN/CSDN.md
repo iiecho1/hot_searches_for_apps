@@ -175,3 +175,5 @@
 
 + [Spring boot 4 & JAVA 25 微服务事务实战：Seata 的 AT、TCC、Saga 、XA、Spring JDBC 事务 如何选型及使用](https://blog.csdn.net/penriver/article/details/157391331)
 
++ [计算机视觉——Opencv（图像平滑处理）](https://blog.csdn.net/2401_83998832/article/details/157327133)
+
