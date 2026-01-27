@@ -135,3 +135,13 @@
 
 + [Bootstrap 代码深度解析与实战应用](https://blog.csdn.net/csbysj2020/article/details/157364748)
 
++ [【愚公系列】《AI+直播营销》049-销讲型直播内容策划（销讲型直播中的连麦技巧）](https://blog.csdn.net/aa2528877987/article/details/156939999)
+
++ [【Bluedroid】Bluetooth GATT客户端连接建立流程深度解析](https://blog.csdn.net/weixin_37800531/article/details/157332499)
+
++ [用React Native开发OpenHarmony应用_Camera录制视频代码](https://blog.csdn.net/IRpickstars/article/details/157365885)
+
++ [LiveTalking 部署笔记](https://blog.csdn.net/jacke121/article/details/157323875)
+
++ [宝塔服务器被篡改 Nginx Location 配置的安全风险剖析与修复指南（流量劫持、服务器资源消耗、站点功能异常、溯源困难）](https://blog.csdn.net/weixin_41290949/article/details/157357524)
+
