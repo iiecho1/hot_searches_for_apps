@@ -209,3 +209,7 @@
 
 + [火山持续活跃 菲律宾阿尔拜省塔巴科市宣布进入灾难状态](https://news.cctv.com/2026/01/27/ARTIevfEHQb4Pr9LkGenzSd0260127.shtml)
 
++ [一艘游船在阿曼附近海域倾覆 至少3人死亡](https://news.cctv.com/2026/01/27/ARTImaeMlpagPiE9vWUQoQwq260127.shtml)
+
++ [大规模冬季风暴来袭 美国天然气价格创三年来最高](https://news.cctv.com/2026/01/27/ARTIpCzrzhf8sorL5cRYc8N9260127.shtml)
+

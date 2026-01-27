@@ -179,3 +179,9 @@
 
 + [KingbaseES数据库MongoDB兼容模式实战：协议级兼容实现业务平滑迁移](https://blog.csdn.net/beautifulmemory/article/details/157399458)
 
++ [从10秒到0.5秒：Hyper-V冷启动优化的C#实战](https://blog.csdn.net/z_344791576/article/details/151763145)
+
++ [【杂谈】-2026年人工智能发展趋势：智能体崛起、行业洗牌与安全挑战](https://blog.csdn.net/wujuxKkoolerter/article/details/157401132)
+
++ [计算机网络第四章笔记（三）](https://blog.csdn.net/2501_90419475/article/details/157401848)
+
