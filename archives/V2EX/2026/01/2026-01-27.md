@@ -55,3 +55,5 @@
 
 + [感觉自己越来越像个 NPC 了](https://www.v2ex.com/t/1188606)
 
++ [各位相信玄学吗？](https://www.v2ex.com/t/1188567)
+

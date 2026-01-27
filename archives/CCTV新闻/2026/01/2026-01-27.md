@@ -205,3 +205,7 @@
 
 + [印度和欧盟达成自贸协定](https://news.cctv.com/2026/01/27/ARTIJyX67w0oSILQi8EKBhmd260127.shtml)
 
++ [尹锡悦涉嫌违反《政治资金法》案将于3月17日举行首场庭审](https://news.cctv.com/2026/01/27/ARTIE6yUgHypTII9qpAxjnkb260127.shtml)
+
++ [火山持续活跃 菲律宾阿尔拜省塔巴科市宣布进入灾难状态](https://news.cctv.com/2026/01/27/ARTIevfEHQb4Pr9LkGenzSd0260127.shtml)
+

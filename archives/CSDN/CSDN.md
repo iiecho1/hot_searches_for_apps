@@ -177,3 +177,5 @@
 
 + [计算机视觉——Opencv（图像平滑处理）](https://blog.csdn.net/2401_83998832/article/details/157327133)
 
++ [KingbaseES数据库MongoDB兼容模式实战：协议级兼容实现业务平滑迁移](https://blog.csdn.net/beautifulmemory/article/details/157399458)
+
