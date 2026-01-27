@@ -157,3 +157,5 @@
 
 + [本地部署开源数字人模型简介](https://blog.csdn.net/hsg77/article/details/157397733)
 
++ [N-EIoU-YOLOv9：一种用于水稻叶部病害轻量化移动检测的信号感知边界框回归损失](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/157383056)
+

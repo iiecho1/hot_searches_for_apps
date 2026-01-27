@@ -49,3 +49,13 @@
 
 + [特斯拉 Model S 老车主自曝遭“电池刺客”：换电池费用需 1.3 万美元，超过二手车价](https://m.ithome.com/html/916320.htm)
 
++ [近 13 岁“高龄” iPhone 5s 续命，苹果推送 iOS 12.5.8 更新](https://m.ithome.com/html/916683.htm)
+
++ [苹果 iOS / iPadOS 26.2.1 正式版更新，新增 AirTag 2 支持](https://m.ithome.com/html/916641.htm)
+
++ [“最便宜鸿蒙智行”尚界 H5 累计交付破 3 万，新车 15.98 万元起](https://m.ithome.com/html/916420.htm)
+
++ [华为在香港推出 nova 14i 手机：7000mAh 电池，6.95 英寸 90Hz LCD 刘海屏、骁龙 680 芯片](https://m.ithome.com/html/916606.htm)
+
++ [苹果 iOS 26.3 新功能，限制蜂窝网络获取你的精确位置](https://m.ithome.com/html/916665.htm)
+
