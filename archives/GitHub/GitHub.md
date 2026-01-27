@@ -17,3 +17,11 @@
 
 + [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team)
 
++ [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+
++ [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+
++ [hashicorp/vault](https://github.com/hashicorp/vault)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+

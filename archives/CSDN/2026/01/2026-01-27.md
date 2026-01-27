@@ -185,3 +185,11 @@
 
 + [计算机网络第四章笔记（三）](https://blog.csdn.net/2501_90419475/article/details/157401848)
 
++ [Linux 6 权限管理全解析](https://blog.csdn.net/L070117/article/details/155818214)
+
++ [基于SpringBoot的自习室座位预定系统【预约选座+日期时间段+协同过滤推荐算法+数据可视化统计】](https://blog.csdn.net/2301_78335941/article/details/157402606)
+
++ [HBase概述、架构](https://blog.csdn.net/m0_62491477/article/details/157386265)
+
++ [Flutter + OpenHarmony 抽屉菜单：Drawer 与 NavigationRail 在平板与折叠屏设备上的响应式导航设计](https://blog.csdn.net/2401_88937325/article/details/157434290)
+
