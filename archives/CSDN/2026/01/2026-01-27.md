@@ -163,3 +163,15 @@
 
 + [【Xilinx FPGA】7 Series 收发器架构与时钟设计](https://blog.csdn.net/sxyang2018/article/details/157329630)
 
++ [系统分析师-微服务系统分析与设计](https://blog.csdn.net/g984160547/article/details/157228754)
+
++ [Qwen3-VL 目标检测 | 生成训练标签 | LabelMe格式 | COCO格式](https://blog.csdn.net/qq_41204464/article/details/157390705)
+
++ [HarmonyOS智慧农业管理应用开发教程--高高种地--第15篇：地图导航与路线规划](https://blog.csdn.net/ldc121xy716/article/details/157386841)
+
++ [【计算机网络】简学深悟启示录：http](https://blog.csdn.net/Zero_VPN/article/details/157063729)
+
++ [pdf-engine发布](https://blog.csdn.net/qq_40077167/article/details/157330303)
+
++ [Spring boot 4 & JAVA 25 微服务事务实战：Seata 的 AT、TCC、Saga 、XA、Spring JDBC 事务 如何选型及使用](https://blog.csdn.net/penriver/article/details/157391331)
+
