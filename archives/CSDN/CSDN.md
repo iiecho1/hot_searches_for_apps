@@ -203,3 +203,13 @@
 
 + [AI编程效率提升指南：everything-claude-code开源配置方案](https://blog.csdn.net/hxcat/article/details/157385530)
 
++ [Clawdbot手机访问完整教程：像用App一样方便](https://blog.csdn.net/xianyu120/article/details/157429669)
+
++ [Flutter for OpenHarmony 电商 App 搜索功能深度解析：从点击到反馈的完整实现](https://blog.csdn.net/2501_93573294/article/details/157433863)
+
++ [【SpringBoot 3.x 第52节】Spring Boot升级3后，你还在用老一套写代码？Java 17 的这些新特性，到底值不值得你现在就动手重构？](https://blog.csdn.net/weixin_43970743/article/details/156757618)
+
++ [《数字信号处理》第 1 章 离散时间信号与系统](https://blog.csdn.net/2302_80961196/article/details/157436099)
+
++ [基于腾讯云云服务器搭建一个Clawdbot，实现Telegram机器人自动回复](https://blog.csdn.net/m0_61625003/article/details/157438639)
+
