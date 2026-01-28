@@ -213,3 +213,11 @@
 
 + [基于腾讯云云服务器搭建一个Clawdbot，实现Telegram机器人自动回复](https://blog.csdn.net/m0_61625003/article/details/157438639)
 
++ [极致性能的服务器Redis之String类型及相关指令介绍](https://blog.csdn.net/fyy31/article/details/156458067)
+
++ [设计模式篇2——观察者模式：以直播间送礼系统举例](https://blog.csdn.net/m0_59624833/article/details/157396078)
+
++ [Flutter for OpenHarmony：Dialog 与 BottomSheet — 弹出式交互](https://blog.csdn.net/2501_93030156/article/details/157468579)
+
++ [Java编程进阶：智能仿真无人机项目2.0](https://blog.csdn.net/2501_92713983/article/details/157296746)
+
