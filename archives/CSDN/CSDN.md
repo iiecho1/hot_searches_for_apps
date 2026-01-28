@@ -193,3 +193,13 @@
 
 + [一库统管全域数据：金仓 KingbaseES 多模融合架构与全栈替代实践](https://blog.csdn.net/weixin_74888502/article/details/157439615)
 
++ [Moltbot(Clawdbot)教程 -01- 部署完整指南](https://blog.csdn.net/qq_34599132/article/details/157427554)
+
++ [【通信原理】信道——信道、传输特性、多径效应、噪声、带宽、信道容量（笔记总结）](https://blog.csdn.net/feng_qi0325/article/details/157360891)
+
++ [【Linux系统编程】进程地址空间完全指南：页表、写时拷贝与虚拟内存管理](https://blog.csdn.net/zgr993865/article/details/157426876)
+
++ [使用 Vite 快速创建 React + TypeScript 项目全记录](https://blog.csdn.net/qq_29752857/article/details/157383519)
+
++ [AI编程效率提升指南：everything-claude-code开源配置方案](https://blog.csdn.net/hxcat/article/details/157385530)
+
