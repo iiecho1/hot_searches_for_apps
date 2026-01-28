@@ -177,3 +177,9 @@
 
 + [在OpenHarmony上用React Native：StackNavigation页面传参](https://blog.csdn.net/IRpickstars/article/details/157431865)
 
++ [从XDG正式支持如意玲珑（Linyaps）看如意玲珑的发展与架构演进](https://blog.csdn.net/2401_89105749/article/details/157464821)
+
++ [React Native鸿蒙版：forwardRef组件引用转发](https://blog.csdn.net/IRpickstars/article/details/157467925)
+
++ [2026年新版华为HCIA Datacom题库](https://blog.csdn.net/2501_93194438/article/details/157403011)
+
