@@ -185,3 +185,9 @@
 
 + [Linux权限管理速成：umask掩码/file透视/粘滞位防护15分钟精通，掌握权限减法与安全协作模型](https://blog.csdn.net/2501_91617454/article/details/157354470)
 
++ [Node.js用Zod验证数据提速](https://blog.csdn.net/qq_36287830/article/details/157369529)
+
++ [大模型学习（一、Qwen2.5-1.5B本地部署）](https://blog.csdn.net/qq_62737390/article/details/154153028)
+
++ [Clawdbot 上手实录：部署+反代+WebAuth 一步到位](https://blog.csdn.net/m0_67947376/article/details/157437122)
+
