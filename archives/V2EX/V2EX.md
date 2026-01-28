@@ -25,3 +25,15 @@
 
 + [AI Coding 普及之后， V 站基本上不再讨论“怎么写代码”了](https://www.v2ex.com/t/1188761)
 
++ [学历永远都丢不掉，绕不开](https://www.v2ex.com/t/1188870)
+
++ [如果是你们，该怎么办呢](https://www.v2ex.com/t/1188898)
+
++ [买 20w 的车算有钱还是没钱](https://www.v2ex.com/t/1188801)
+
++ [逆向 Claude，已送 1w 刀。送每个老哥 117 刀蹬着玩~](https://www.v2ex.com/t/1188931)
+
++ [各位 V 站的大佬们， 24 年左右买的房子算高位吗？](https://www.v2ex.com/t/1188685)
+
++ [当 AI API 遇上 Web3：永久免费使用 200+ AI 模型还能赚钱？](https://www.v2ex.com/t/1188653)
+

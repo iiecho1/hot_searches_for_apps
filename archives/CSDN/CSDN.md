@@ -149,3 +149,25 @@
 
 + [音视频学习（八十六）：宏块](https://blog.csdn.net/www_dong/article/details/157364111)
 
++ [金仓数据库MongoDB平替深度体验:多模融合到底是个啥玩意儿](https://blog.csdn.net/qq_32682301/article/details/157463137)
+
++ [Linux 重要目录：/boot、/dev、/etc、/usr、/var](https://blog.csdn.net/2401_84962201/article/details/157403641)
+
++ [【愚公系列】《AI+直播营销》052-入局 Al 虚拟数字人直播（适合Al虚拟数字人直播的3种直播类型）](https://blog.csdn.net/aa2528877987/article/details/156955061)
+
++ [机器学习（三）：聚焦KNN算法距离度量、特征预处理与超参数选择](https://blog.csdn.net/2401_87533975/article/details/157440966)
+
++ [机器学习30:神经网络压缩（Network Compression）①](https://blog.csdn.net/Master_oid/article/details/157363513)
+
++ [【鸿蒙PC命令行适配】鸿蒙 PC对SQLite的适配移植实战：交叉编译与部署方案详解](https://blog.csdn.net/weixin_52908342/article/details/157356626)
+
++ [【花雕学编程】Arduino BLDC 之机器人多模态智能导航系统](https://blog.csdn.net/weixin_41659040/article/details/157429467)
+
++ [Flutter for OpenHarmony：用三方 UI 库快速构建精美界面](https://blog.csdn.net/2501_93573368/article/details/157432991)
+
++ [UWB 雷达综述精读：应用、标准、信号处理、数据集、芯片与未来方向——论文阅读](https://blog.csdn.net/qq_44648285/article/details/157357558)
+
++ [金仓数据库 KingbaseES：多模融合架构引领，一库全替代构筑数字化转型底座](https://blog.csdn.net/weixin_62765017/article/details/157441436)
+
++ [递归对抗引擎RAE V4.0（AGI自主进化版）](https://blog.csdn.net/weixin_50059478/article/details/157435412)
+
