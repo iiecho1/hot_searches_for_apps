@@ -121,3 +121,5 @@
 
 + [2025年中科院1区SCI-三国优化算法Three Kingdoms Optimization-附Matlab免费代码](https://blog.csdn.net/m0_58857684/article/details/157439915)
 
++ [PostgreSQL 实战：如何优雅高效地进行全文检索](https://blog.csdn.net/cui_yonghua/article/details/157356887)
+
