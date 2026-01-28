@@ -181,3 +181,15 @@
 
 + [中国常驻联合国副代表：日本是“国际秩序破坏者”](https://news.cctv.com/2026/01/28/ARTI7FwjHo8Cv9BFH2CZMxDR260128.shtml)
 
++ [加拿大总理：“今日美国几无正常可言”](https://news.cctv.com/2026/01/28/ARTIUoxK9A6nWLGTml1zyMIs260128.shtml)
+
++ [阿根廷一男子冲撞总统座车](https://news.cctv.com/2026/01/28/ARTI4SqwRiZ3HWQni4TPse15260128.shtml)
+
++ [朝鲜试射更新型大口径火箭炮 金正恩观摩](https://news.cctv.com/2026/01/28/ARTIEayOWluhBhUURftI66vU260128.shtml)
+
++ [伊拉克挫败一起自杀式爆炸袭击图谋](https://news.cctv.com/2026/01/28/ARTITwnsVR0ZAoaN4Er8fhrp260128.shtml)
+
++ [越南一军用飞机坠毁 飞行员跳伞逃生](https://news.cctv.com/2026/01/28/ARTIA9qiXqZlKQ7DSbG6c17F260128.shtml)
+
++ [韩国前总统夫人金建希所涉股价操纵等案今日一审宣判](https://news.cctv.com/2026/01/28/ARTI8Ajk4pEGCJHGyZmROWjd260128.shtml)
+
