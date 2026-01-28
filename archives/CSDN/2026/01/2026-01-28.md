@@ -191,3 +191,5 @@
 
 + [Clawdbot 上手实录：部署+反代+WebAuth 一步到位](https://blog.csdn.net/m0_67947376/article/details/157437122)
 
++ [一库统管全域数据：金仓 KingbaseES 多模融合架构与全栈替代实践](https://blog.csdn.net/weixin_74888502/article/details/157439615)
+
