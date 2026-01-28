@@ -183,3 +183,5 @@
 
 + [2026年新版华为HCIA Datacom题库](https://blog.csdn.net/2501_93194438/article/details/157403011)
 
++ [Linux权限管理速成：umask掩码/file透视/粘滞位防护15分钟精通，掌握权限减法与安全协作模型](https://blog.csdn.net/2501_91617454/article/details/157354470)
+
