@@ -105,3 +105,15 @@
 
 + [计算机网络第四章笔记（三）](https://blog.csdn.net/2501_90419475/article/details/157401848)
 
++ [【开源鸿蒙跨平台开发--KuiklyUI--02】华为云真机部署实战指南](https://blog.csdn.net/AHuiHatedebug/article/details/157478011)
+
++ [【linux】高级IO，I/O多路转接之epoll，接口和原理讲解，epoll_create，epoll_wait，epoll_ctl](https://blog.csdn.net/2301_80751958/article/details/157332738)
+
++ [DeepSeek DeepEP学习（六）Hybrid-EP combine](https://blog.csdn.net/KIDGIN7439/article/details/157252231)
+
++ [电视盒子刷机资源 飞牛OS FNNAS资源汇总 飞牛OS FnNAS社区版+官方飞牛OS ARM版 各种电视盒子刷飞牛云资源汇总飞牛OS固件下载附刷机教程](https://blog.csdn.net/2601_95069804/article/details/157402896)
+
++ [Spring boot 4 & JAVA 25 微服务事务实战：Seata 的 AT、TCC、Saga 、XA、Spring JDBC 事务 如何选型及使用](https://blog.csdn.net/penriver/article/details/157391331)
+
++ [C# .NET 周刊｜2026年1月2期](https://blog.csdn.net/qq_27441069/article/details/157440326)
+
