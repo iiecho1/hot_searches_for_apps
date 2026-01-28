@@ -61,3 +61,9 @@
 
 + [小悦光-加特林-](https://m.acfun.cn/v/?ac=48229280)
 
++ [【东方】BAD APPLE!! 钢琴演绎【ViddyWell】](https://m.acfun.cn/v/?ac=48224926)
+
++ [酷卡依](https://m.acfun.cn/v/?ac=48229773)
+
++ [Up&Down](https://m.acfun.cn/v/?ac=48229027)
+
