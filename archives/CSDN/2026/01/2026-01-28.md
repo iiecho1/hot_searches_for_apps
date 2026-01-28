@@ -221,3 +221,7 @@
 
 + [Java编程进阶：智能仿真无人机项目2.0](https://blog.csdn.net/2501_92713983/article/details/157296746)
 
++ [【小程序】微信小程序input设置readonly只读属性无效，这是怎么回事呢](https://blog.csdn.net/lmy_520/article/details/157476826)
+
++ [使用优刻得 Clawdbot 镜像打造飞书私人助理](https://blog.csdn.net/Ucloud_TShare/article/details/157427175)
+
