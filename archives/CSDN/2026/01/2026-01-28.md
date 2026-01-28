@@ -141,3 +141,11 @@
 
 + [React 合同审查组件：按合同标题定位](https://blog.csdn.net/qq_70172010/article/details/157297244)
 
++ [从AI工具使用者到创作者：我是如何开启技术变现之路的](https://blog.csdn.net/2401_86326742/article/details/157396773)
+
++ [Flutter for OpenHarmony：基于软删除状态机与双轨数据管理的 TodoList 回收站安全体系实现](https://blog.csdn.net/2302_80329073/article/details/157433181)
+
++ [深入浅出 B/S 架构：从原理到实践，解锁 Web 应用开发核心](https://blog.csdn.net/u010030103/article/details/157363867)
+
++ [音视频学习（八十六）：宏块](https://blog.csdn.net/www_dong/article/details/157364111)
+
