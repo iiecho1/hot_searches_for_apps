@@ -25,3 +25,27 @@
 
 + [苹果 M4 Max 秀肌肉：非原生运行卡普空 3A 游戏《识质存在》狂飙近 100 FPS](https://m.ithome.com/html/916773.htm)
 
++ [折叠屏到了东北变“碎碎冰”，多名网友吐槽零下环境手机屏幕开合后损坏](https://m.ithome.com/html/917028.htm)
+
++ [皮衣返场：英伟达 CEO 黄仁勋现身深圳吃火锅，大赞牛肉新鲜又好吃](https://m.ithome.com/html/917040.htm)
+
++ [小米首款室外 4G 摄像机发布，内置中国电信 / 联通双不限 SIM 卡且流量免费](https://m.ithome.com/html/917079.htm)
+
++ [“AI 脱衣”App 泛滥应用商店，苹果谷歌监管滞后引争议](https://m.ithome.com/html/917012.htm)
+
++ [腾讯 QQ 官网更新，新增华为鸿蒙 HarmonyOS 版下载入口](https://m.ithome.com/html/917280.htm)
+
++ [黄仁勋现身英伟达深圳公司楼下，参加年会、吃牛肉火锅](https://m.ithome.com/html/917148.htm)
+
++ [小米 REDMI Turbo 5 标准版真机首看：6.59″ 黄金中尺寸、Max 同款超级阳光屏](https://m.ithome.com/html/917300.htm)
+
++ [苹果 iOS 26 系统普及率已近五成，续航及性能下降成“不升级”主要顾虑](https://m.ithome.com/html/917047.htm)
+
++ [光刻机巨头 ASML 阿斯麦计划裁员 1700 人，主要涉及管理层](https://m.ithome.com/html/917230.htm)
+
++ [小米 REDMI Turbo 5 手机官宣搭载天玑 8500-Ultra 处理器、配 7560mAh 大电池，明晚发布](https://m.ithome.com/html/917183.htm)
+
++ [卢伟冰：玄戒芯片产品化项目荣获 2025 年小米集团质量最高荣誉“小米质量奖”一等奖](https://m.ithome.com/html/917248.htm)
+
++ [高通发布 Wi-Fi 8 前瞻：一大设计目标是实现超高可靠性，超越传统 Wi-Fi 表现](https://m.ithome.com/html/917325.htm)
+
