@@ -123,3 +123,11 @@
 
 + [PostgreSQL 实战：如何优雅高效地进行全文检索](https://blog.csdn.net/cui_yonghua/article/details/157356887)
 
++ [脉脉独家【AI创作者xAMA第二期】| AI时代,我们真的准备好了吗?](https://blog.csdn.net/2503_91389547/article/details/157399963)
+
++ [【感恩支持】一票一星皆厚意，一行一履总关情——Java与PostgreSQL正在Commit这份支持，永不Rollback](https://blog.csdn.net/yelangkingwuzuhu/article/details/157479548)
+
++ [SpringBoot到底强在哪？](https://blog.csdn.net/gdpu2400502251/article/details/157429804)
+
++ [Linux 10:make Makefile自动化编译实战指南及进度条解析](https://blog.csdn.net/L070117/article/details/155874460)
+

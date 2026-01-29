@@ -169,3 +169,5 @@
 
 + [加拿大央行宣布维持2.25%基准利率不变](https://news.cctv.com/2026/01/29/ARTItp6ICVtXhgLRlyx0JUWN260129.shtml)
 
++ [委内瑞拉军方承认代总统为最高统帅](https://news.cctv.com/2026/01/29/ARTInDecpQUhfJDCGxaGyHRq260129.shtml)
+
