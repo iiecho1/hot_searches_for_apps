@@ -131,3 +131,13 @@
 
 + [Linux 10:make Makefile自动化编译实战指南及进度条解析](https://blog.csdn.net/L070117/article/details/155874460)
 
++ [React Native + OpenHarmony：useState延迟初始化](https://blog.csdn.net/weixin_62280685/article/details/157502095)
+
++ [掌控消息全链路(3)——RabbitMQ/Spring-AMQP高级特性详解之TTL、死信和延迟](https://blog.csdn.net/2401_89167985/article/details/157327871)
+
++ [使用 Discord 和 Elastic Agent Builder A2A 构建游戏社区支持机器人](https://blog.csdn.net/UbuntuTouch/article/details/157464109)
+
++ [uniapp + vue2 + pfdjs + web-view 实现安卓、iOS App PDF预览](https://blog.csdn.net/weixin_44185995/article/details/157432046)
+
++ [2026.1.27--负载均衡](https://blog.csdn.net/weixin_51652691/article/details/157426456)
+

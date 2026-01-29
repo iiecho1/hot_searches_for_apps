@@ -171,3 +171,15 @@
 
 + [委内瑞拉军方承认代总统为最高统帅](https://news.cctv.com/2026/01/29/ARTInDecpQUhfJDCGxaGyHRq260129.shtml)
 
++ [国际黄金价格突破5500美元关口](https://jingji.cctv.com/2026/01/29/ARTIl0hjXB7LEm8Y2V18PpvZ260129.shtml)
+
++ [法国、加拿大等11国谴责以色列拆除近东救济工程处办公地](https://news.cctv.com/2026/01/29/ARTIHBrQl3KTQr0d1ErCQ19K260129.shtml)
+
++ [日本柏崎刈羽核电站反应堆故障初步调查结果公布](https://news.cctv.com/2026/01/29/ARTIyq3kblRBKJzBzUg7n79U260129.shtml)
+
++ [特朗普被曝“正考虑对伊朗发动新的重大打击”](https://news.cctv.com/2026/01/29/ARTIVguCYdvCZd1JG51E0V9h260129.shtml)
+
++ [墨西哥城一仓库发生火灾 暂无人员伤亡报告](https://news.cctv.com/2026/01/29/ARTIP5g4nIZCT8X4O1z9MGKD260129.shtml)
+
++ [苏丹南部城市遭大规模无人机袭击 造成数十人死亡](https://news.cctv.com/2026/01/29/ARTIMAJA7jiqQd24pfvTntDv260129.shtml)
+

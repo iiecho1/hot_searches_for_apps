@@ -23,3 +23,7 @@
 
 + [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)
 
++ [moltbot/moltbot](https://github.com/moltbot/moltbot)
+
++ [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps)
+
