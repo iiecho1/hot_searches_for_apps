@@ -207,3 +207,13 @@
 
 + [俄外交部官员：俄罗斯与北约仅剩一条紧急沟通渠道](https://news.cctv.com/2026/01/29/ARTIqFLtWFA1TFZ1wLSJnLj7260129.shtml)
 
++ [2025年全球黄金总需求5002吨 创历史新高](https://news.cctv.com/2026/01/29/ARTIG44c8NYjSCAbexvLZ0A4260129.shtml)
+
++ [南非夸祖鲁-纳塔尔省交通事故已致11人死亡](https://news.cctv.com/2026/01/29/ARTIxTkFvBSNedXmvg7MOeNW260129.shtml)
+
++ [菲律宾渡轮沉没事故死亡人数升至29人](https://news.cctv.com/2026/01/29/ARTIBvI4vX9LyWUj4r11Hg8H260129.shtml)
+
++ [泰国第一军区：泰柬暂缓签署涉地区问题谅解备忘录](https://news.cctv.com/2026/01/29/ARTIjrrmQomxZsIq5griQLgO260129.shtml)
+
++ [丹麦证实与美国和格陵兰高官会谈 强调“尊重丹麦底线”](https://news.cctv.com/2026/01/29/ARTIH18XJHWz0o4JJypQhSPL260129.shtml)
+

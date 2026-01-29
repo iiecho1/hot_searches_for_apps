@@ -161,3 +161,9 @@
 
 + [Flutter + OpenHarmony实现高保真闹钟 App：从 UI 设计到实时触发机制全解析](https://blog.csdn.net/2401_88937325/article/details/157472251)
 
++ [B站：从二次元到AI创新孵化器的华丽转身 | Google Cloud峰会见闻](https://blog.csdn.net/2503_92624912/article/details/157479011)
+
++ [医疗大模型预训练：从硬件选型到合规落地实战（2025总结版）](https://blog.csdn.net/kkiron/article/details/157504433)
+
++ [【Linux】Ext系列文件系统（二）：Ext2文件系统深度解析](https://blog.csdn.net/2401_86326742/article/details/157452123)
+

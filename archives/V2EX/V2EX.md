@@ -53,3 +53,5 @@
 
 + [m1 -16g 版本 - macOS 26 有必要更新吗？](https://www.v2ex.com/t/1189175)
 
++ [见笑了！](https://www.v2ex.com/t/1189299)
+
