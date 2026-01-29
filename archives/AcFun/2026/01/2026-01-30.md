@@ -65,3 +65,7 @@
 
 + [火车撞轨声](https://m.acfun.cn/v/?ac=48232365)
 
++ [名场面T-Ara - Day By Day【4K竖屏】【经典翻跳】](https://m.acfun.cn/v/?ac=48230228)
+
++ [BESTie Love Options 恋爱的条件 路演](https://m.acfun.cn/v/?ac=48231691)
+
