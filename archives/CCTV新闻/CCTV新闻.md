@@ -161,3 +161,11 @@
 
 + [三周两次射杀合法公民 美国ICE执法人员会被起诉吗？](https://news.cctv.com/2026/01/27/ARTIRqBBUkwgS0n7AjK8CyEU260127.shtml)
 
++ [又一艘驱逐舰抵达 美国在中东部署至少10艘军舰](https://news.cctv.com/2026/01/30/ARTIH4hYmiD0Dh8nuKhpF9Uy260130.shtml)
+
++ [委内瑞拉证实委美将重启商业航班](https://news.cctv.com/2026/01/30/ARTIj1Oxa7mOFlFc4xobHOt2260130.shtml)
+
++ [特朗普：下周将公布美联储下任主席提名](https://news.cctv.com/2026/01/30/ARTI9LbEHvYwhNFmdvmVolW3260130.shtml)
+
++ [特朗普称美方计划重新开放委内瑞拉领空](https://news.cctv.com/2026/01/30/ARTIQFWK6UPfyllOIdae3sYv260130.shtml)
+
