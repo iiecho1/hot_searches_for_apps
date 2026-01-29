@@ -109,3 +109,27 @@
 
 + [SimpleMindMap 私有部署后cpolar实现远程协作，实用超丝滑](https://blog.csdn.net/2402_86350387/article/details/157509442)
 
++ [Moltbot(Clawdbot)教程 -02- 本地 AI 模型 + Moltbot 完全独立部署指南](https://blog.csdn.net/qq_34599132/article/details/157427734)
+
++ [HarmonyOS智慧农业管理应用开发教程--高高种地--第16篇：HarmonyOS AI能力概述与集成](https://blog.csdn.net/ldc121xy716/article/details/157428332)
+
++ [机器学习（三）：聚焦KNN算法距离度量、特征预处理与超参数选择](https://blog.csdn.net/2401_87533975/article/details/157440966)
+
++ [信号灯的“节能算法“：Java如何让CPU省电50%？](https://blog.csdn.net/z_344791576/article/details/151900472)
+
++ [cpolar让Nginx服务器轻松触达公网](https://blog.csdn.net/weixin_74888502/article/details/157509370)
+
++ [大模型学习（一、Qwen2.5-1.5B本地部署）](https://blog.csdn.net/qq_62737390/article/details/154153028)
+
++ [HarmonyOS 游戏卡顿，问题不在渲染](https://blog.csdn.net/qq_36863796/article/details/157479456)
+
++ [当 AI 不再是 “答案机器“：《豆包高效学习》重构人机协同教育新生态](https://blog.csdn.net/qq_46092061/article/details/157503774)
+
++ [Unity使用NovaSR将沉闷的16kHz音频升频成清晰的48kHz音频](https://blog.csdn.net/AWNUXCVBN/article/details/157426206)
+
++ [针对 SAAS 私有化部署，如何优雅合并微服务](https://blog.csdn.net/weixin_46594796/article/details/157478269)
+
++ [Flutter鸿蒙开发指南（八）：获取轮播图数据](https://blog.csdn.net/qq_74796274/article/details/157478549)
+
++ [若依微服务版集成阿里云oss](https://blog.csdn.net/2401_83377623/article/details/157516591)
+
