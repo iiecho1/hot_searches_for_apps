@@ -39,3 +39,5 @@
 
 + [有没有 v 友记得 25 年有个大手笔 all in 黄金的老哥](https://www.v2ex.com/t/1189172)
 
++ [天天看到 clawdbot，这玩意儿是不是纯纯营销啊](https://www.v2ex.com/t/1189176)
+

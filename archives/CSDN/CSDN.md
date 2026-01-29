@@ -141,3 +141,11 @@
 
 + [2026.1.27--负载均衡](https://blog.csdn.net/weixin_51652691/article/details/157426456)
 
++ [PyTorch实战（26）——PyTorch分布式训练](https://blog.csdn.net/LOVEmy134611/article/details/150612800)
+
++ [【Harmonyos】开源鸿蒙跨平台训练营DAY7：Flutter鸿蒙实战轮播图搜索框和导航指示器](https://blog.csdn.net/lbbxmx111/article/details/157478398)
+
++ [基于SpringBoot的自习室座位预定系统【预约选座+日期时间段+协同过滤推荐算法+数据可视化统计】](https://blog.csdn.net/2301_78335941/article/details/157402606)
+
++ [让 Mac mini 一夜卖断货的开源项目，到底有多邪门？拆解 Clawdbot / Moltbot 的技术架构](https://blog.csdn.net/LomoCode/article/details/157468297)
+
