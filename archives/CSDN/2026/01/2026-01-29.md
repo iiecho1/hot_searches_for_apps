@@ -149,3 +149,11 @@
 
 + [让 Mac mini 一夜卖断货的开源项目，到底有多邪门？拆解 Clawdbot / Moltbot 的技术架构](https://blog.csdn.net/LomoCode/article/details/157468297)
 
++ [脉脉：AI创作者xAMA第二期 | AI创作者崛起](https://blog.csdn.net/yhrxh_ymq/article/details/157478039)
+
++ [【Qt开发】Qt系统（十）-＞ Qt HTTP Client](https://blog.csdn.net/weixin_74809706/article/details/157359299)
+
++ [【花雕学编程】Arduino BLDC 之灾难救援机器人自主导航系统](https://blog.csdn.net/weixin_41659040/article/details/157464057)
+
++ [OpenHarmony环境下React Native：自定义useDarkMode深色模式](https://blog.csdn.net/IRpickstars/article/details/157506394)
+

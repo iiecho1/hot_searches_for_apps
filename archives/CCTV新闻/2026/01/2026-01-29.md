@@ -193,3 +193,7 @@
 
 + [荷兰光刻机巨头阿斯麦宣布裁员1700人](https://news.cctv.com/2026/01/29/ARTIdZJfWA4FfrLptQfEDBGg260129.shtml)
 
++ [泰国清迈一架军用飞机坠毁 初步报告显示2人死亡](https://news.cctv.com/2026/01/29/ARTIGxCLoEzk0vsM32eDGgIr260129.shtml)
+
++ [走过峥嵘岁月 共赴现代化新征程——习近平主席复信津巴布韦老战士寄语中非友好续写新篇](https://news.cctv.com/2026/01/29/ARTIeqebNI658uB1KTZTzZji260129.shtml)
+
