@@ -225,3 +225,5 @@
 
 + [opencv实现图像拼接](https://blog.csdn.net/lyx2870657588/article/details/157477697)
 
++ [linux 系统移植（第二十四期）---- 根文件系统其他功能测试---- Ubuntu20.04根文件系统其他功能测试](https://blog.csdn.net/weixin_61186812/article/details/157504177)
+
