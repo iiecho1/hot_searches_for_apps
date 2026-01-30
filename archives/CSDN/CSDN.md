@@ -203,3 +203,7 @@
 
 + [【AI大模型前沿】LongCat-Image：美团开源的高效图像生成与编辑模型](https://blog.csdn.net/xiaobing259/article/details/157353667)
 
++ [2026美赛MCM/ICM C题：与星共舞数据分析附Matlab参考代码](https://blog.csdn.net/qq_59747472/article/details/157546178)
+
++ [从零开始手动实现 AI Agent（六）](https://blog.csdn.net/qq_44828365/article/details/157435204)
+
