@@ -145,3 +145,11 @@
 
 + [[论文阅读] AI | TOFU-D与COD：两款Dialogflow聊天机器人数据集，为质量与安全研究赋能](https://blog.csdn.net/zhangjiaoshou_/article/details/157478121)
 
++ [DeepSeek-OCR 2 使用教程](https://blog.csdn.net/lovely_yoshino/article/details/157477040)
+
++ [【鸿蒙 PC 命令行适配】c-ares 在鸿蒙 PC 上的移植与交叉编译实战（可复现指南）](https://blog.csdn.net/weixin_52258054/article/details/157478846)
+
++ [从零学习Kafka：集群架构和基本概念](https://blog.csdn.net/K_Ohaha/article/details/157440449)
+
++ [【Arduino UNO Q】 物联网IoT应用设计：SoC 温度与智能家居](https://blog.csdn.net/qq_36654593/article/details/157516753)
+

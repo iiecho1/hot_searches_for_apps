@@ -169,3 +169,11 @@
 
 + [特朗普称美方计划重新开放委内瑞拉领空](https://news.cctv.com/2026/01/30/ARTIQFWK6UPfyllOIdae3sYv260130.shtml)
 
++ [新西兰：不加入美方倡议设立的所谓“和平委员会”](https://news.cctv.com/2026/01/30/ARTIxnO8fzr7s3ywDlxdMm7a260130.shtml)
+
++ [特朗普宣布国家紧急状态 威胁对向古巴提供石油的国家加征关税](https://news.cctv.com/2026/01/30/ARTIkMv5JNNVelrjDyuCg8zZ260130.shtml)
+
++ [克宫谈“能源停火”：无可奉告](https://news.cctv.com/2026/01/30/ARTIUqoM0eD1G8CZmZ10J25s260130.shtml)
+
++ [伊朗首都启动战时避难设施建设规划](https://news.cctv.com/2026/01/30/ARTIv6ANH2iFpnV5jpIEDaZG260130.shtml)
+
