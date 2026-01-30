@@ -115,3 +115,29 @@
 
 + [【Harmonyos】开源鸿蒙跨平台训练营DAY8：Flutter鸿蒙开发指南获取轮播图数据](https://blog.csdn.net/lbbxmx111/article/details/157517548)
 
++ [从HCI报文透视LE Audio重连流程（1）：以手机与TWS耳机交互为例](https://blog.csdn.net/weixin_37800531/article/details/157441356)
+
++ [C++之《Effective C++》读书总结(2)](https://blog.csdn.net/Once_day/article/details/157542693)
+
++ [Linux 13 进程前言:冯诺依曼体系结构和操作系统](https://blog.csdn.net/L070117/article/details/155917191)
+
++ [在OpenHarmony上用React Native：自定义useReactHookForm验证](https://blog.csdn.net/IRpickstars/article/details/157541694)
+
++ [【linux】高级IO，I/O多路转接之epoll的两种工作模式：LT水平触发模式和ET边缘触发模式](https://blog.csdn.net/2301_80751958/article/details/157513408)
+
++ [万能钥匙:解锁 C++ 模板的无限可能(二)](https://blog.csdn.net/ABWSO/article/details/157518388)
+
++ [dify-plus 1.11.4版本正式发布：全面合并官方1.11.4版，强化安全与稳定，附完整升级指南与修复细节](https://blog.csdn.net/weixin_48502062/article/details/157509475)
+
++ [C#开发的TCP/UDP网络调试助手](https://blog.csdn.net/bubiyoushang888/article/details/157466524)
+
++ [Flutter for OpenHarmony：手势识别（Tap, Swipe, LongPress）—— 构建响应式交互体验](https://blog.csdn.net/2501_93573368/article/details/157551743)
+
++ [深入理解 Socket 与 TCP 协议](https://blog.csdn.net/zrt123456i/article/details/157516431)
+
++ [基于 Maven + Docker 的 WebApp 打包与部署](https://blog.csdn.net/weixin_52603404/article/details/157469532)
+
++ [《微服务即使通讯中redis的作用》](https://blog.csdn.net/fwfxhhx/article/details/157513150)
+
++ [【计算机网络】网络层：IP 协议、路由选择与新型网络技术解析](https://blog.csdn.net/2501_90752941/article/details/156023129)
+
