@@ -177,3 +177,9 @@
 
 + [【无人机】【非线性模型预测控制（NMPC）】基于CasADi的无人机优化预测控制研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/157525847)
 
++ [Moltbot的出现，我们不由的得思考给AI的权限是否过大？](https://blog.csdn.net/lwcwam/article/details/157516178)
+
++ [# 2026美赛 MCM Problem A 智能手机电池耗电建模思路分析，完整论文](https://blog.csdn.net/2601_95062664/article/details/157542385)
+
++ [《数字信号处理》第 2 章 - z 变换与离散时间傅里叶变换（DTFT）](https://blog.csdn.net/2302_80961196/article/details/157437228)
+

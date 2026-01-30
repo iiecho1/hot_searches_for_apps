@@ -189,3 +189,11 @@
 
 + [特朗普称计划同伊朗对话](https://news.cctv.com/2026/01/30/ARTIlFbbZu9yMVYx1EvbJSid260130.shtml)
 
++ [古巴副外长：美国企图胁迫他国加入对古封锁](https://news.cctv.com/2026/01/30/ARTI2mVzZJhRzsI6AFFgVuPR260130.shtml)
+
++ [中国公民东京街头被劫 我使馆再次提醒：近期避免前往日本](https://news.cctv.com/2026/01/30/ARTIP8JsaEGJHo9yWQkTfBTc260130.shtml)
+
++ [伊朗外长谴责美以“破坏性干涉行为”致地区威胁升级](https://news.cctv.com/2026/01/30/ARTIVLgIU8aPbfigOJIRWYuT260130.shtml)
+
++ [古巴官方辟谣燃油断供传言：加油站未暂停销售](https://news.cctv.com/2026/01/30/ARTIQaUdS5TyC5E0j2QNKKWK260130.shtml)
+
