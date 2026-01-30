@@ -183,3 +183,17 @@
 
 + [《数字信号处理》第 2 章 - z 变换与离散时间傅里叶变换（DTFT）](https://blog.csdn.net/2302_80961196/article/details/157437228)
 
++ [【Linux系统编程】（二十四）深入 Ext2 块组内部：inode、数据块与目录的底层工作机制](https://blog.csdn.net/2301_79248256/article/details/157504937)
+
++ [C++之《Effective C++》读书总结(2)](https://blog.csdn.net/Once_day/article/details/157542693)
+
++ [金仓数据库：Oracle迁移背景下的兼容性挑战与迁移成本深度解析](https://blog.csdn.net/beautifulmemory/article/details/157465952)
+
++ [2026年美赛数学建模竞赛A题：智能手机电池耗电建模 问题一 连续时间智能手机电池模型 详细解题思路和代码](https://blog.csdn.net/m0_52343631/article/details/157541187)
+
++ [复杂威胁环境下的多无人机协同路径规划研究——基于多段杜宾斯（Dubins）路径的协同策略（Matlab代码实现）](https://blog.csdn.net/weixin_61181717/article/details/157540441)
+
++ [网络安全：WAF 雷池 SafeLine 介绍](https://blog.csdn.net/belldeep/article/details/157516986)
+
++ [#Flutter + OpenHarmony高保真秒表 App 实现：主副表盘联动、计次记录与主题适配全解析](https://blog.csdn.net/2401_88937325/article/details/157514931)
+

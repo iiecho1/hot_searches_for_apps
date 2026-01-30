@@ -197,3 +197,9 @@
 
 + [古巴官方辟谣燃油断供传言：加油站未暂停销售](https://news.cctv.com/2026/01/30/ARTIQaUdS5TyC5E0j2QNKKWK260130.shtml)
 
++ [美墨总统通电话讨论贸易和安全问题](https://news.cctv.com/2026/01/30/ARTIC8QT0ZYeA3UtjxZcsuiG260130.shtml)
+
++ [美边境事务主管称计划减少明尼苏达州联邦执法人员](https://news.cctv.com/2026/01/30/ARTIdPH7r1W0SXqCD8BtKAph260130.shtml)
+
++ [古巴外长强烈谴责美国升级对古封锁行动](https://news.cctv.com/2026/01/30/ARTICQrGTUVgJns8XpseWDmf260130.shtml)
+
