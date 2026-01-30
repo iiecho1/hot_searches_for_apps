@@ -177,3 +177,15 @@
 
 + [伊朗首都启动战时避难设施建设规划](https://news.cctv.com/2026/01/30/ARTIv6ANH2iFpnV5jpIEDaZG260130.shtml)
 
++ [伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”](https://news.cctv.com/2026/01/30/ARTIE3ANyFJ5TmN7CO8GMhuE260130.shtml)
+
++ [特朗普听取多种打击伊朗方案](https://news.cctv.com/2026/01/30/ARTIVOK6yexFJG7nr4ZrDE70260130.shtml)
+
++ [列国鉴丨记者观察：细究美国“斩杀线”的三笔账](https://news.cctv.com/2026/01/30/ARTIkRZms2Ce5wLdI53s3mbt260130.shtml)
+
++ [伊拉克总统府：拒绝任何外部势力干涉内政](https://news.cctv.com/2026/01/30/ARTIUY2J43ypN1wNQc5jOkR1260130.shtml)
+
++ [伊朗议会议长：难以信任特朗普](https://news.cctv.com/2026/01/30/ARTIjGuAJTw8iuNE5eA1g3iC260130.shtml)
+
++ [特朗普称计划同伊朗对话](https://news.cctv.com/2026/01/30/ARTIlFbbZu9yMVYx1EvbJSid260130.shtml)
+

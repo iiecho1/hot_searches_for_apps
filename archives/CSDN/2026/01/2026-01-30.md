@@ -153,3 +153,27 @@
 
 + [【Arduino UNO Q】 物联网IoT应用设计：SoC 温度与智能家居](https://blog.csdn.net/qq_36654593/article/details/157516753)
 
++ [OpenHarmony环境下React Native：自定义useTruncate文本截断](https://blog.csdn.net/IRpickstars/article/details/157541071)
+
++ [【26美赛B题】2026美赛数学建模（MCM/ICM）思路解析及代码分享](https://blog.csdn.net/weixin_52908342/article/details/157507157)
+
++ [Archcraft携手cpolar打造轻量化远程开发环境](https://blog.csdn.net/weixin_62782025/article/details/157509464)
+
++ [（第九篇）Spring AI 核心技术攻坚：安全防护 企业级 AI 应用的风控体系之全链路防护（API 安全到内容合规）](https://blog.csdn.net/qq_40303030/article/details/156560380)
+
++ [【愚公系列】《AI短视频创作一本通》002-AI引爆短视频创作革命（短视频创作者必备的能力）](https://blog.csdn.net/aa2528877987/article/details/156536383)
+
++ [2026美赛数学建模选题分析+ABCDEF题思路代码挖掘](https://blog.csdn.net/2501_94006413/article/details/157541100)
+
++ [sqli-labs靶场](https://blog.csdn.net/2301_81028747/article/details/157510986)
+
++ [Elasticsearch：使用 Elastic Workflows 构建自动化 - 9.3](https://blog.csdn.net/UbuntuTouch/article/details/157509197)
+
++ [2026年大学生美赛（MCM/ICM）数学建模竞赛整体思路分析思路解析及代码](https://blog.csdn.net/qq_59747472/article/details/157472898)
+
++ [Flutter for OpenHarmony多媒体功能开发完全指南](https://blog.csdn.net/2502_91523773/article/details/157508583)
+
++ [内网穿透的应用-搭载cpolar让Tldraw 内网白板秒变公网协作神器](https://blog.csdn.net/weixin_42878111/article/details/157541266)
+
++ [【无人机】【非线性模型预测控制（NMPC）】基于CasADi的无人机优化预测控制研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/157525847)
+
