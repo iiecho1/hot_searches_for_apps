@@ -209,3 +209,13 @@
 
 + [深入解析：HarmonyOS APP开发的核心特性与技术优势](https://blog.csdn.net/2502_94169838/article/details/157547308)
 
++ [大模型低成本高性能演进 从GPT到DeepSeek的技术实战手记](https://blog.csdn.net/sinat_41617212/article/details/157476924)
+
++ [【Linux指南】进程控制系列（五）实战 —— 微型 Shell 命令行解释器实现](https://blog.csdn.net/2302_78391795/article/details/157550037)
+
++ [学习threejs，打造原生3D高斯溅落实时渲染器](https://blog.csdn.net/qq_28419035/article/details/157551729)
+
++ [Elasticsearch 分片迁移与重新平衡监控指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/157551804)
+
++ [《星辰 RPA 全自动：做一个小红书自动发文机器人》](https://blog.csdn.net/Dovis5884/article/details/157513896)
+

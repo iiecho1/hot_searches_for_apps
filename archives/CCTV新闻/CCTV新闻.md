@@ -217,3 +217,13 @@
 
 + [韩国检方对金建希首案一审无罪判决结果提出上诉](https://news.cctv.com/2026/01/30/ARTIIQPunkajg3pyOlJpf6TR260130.shtml)
 
++ [日本北海道渔船倾覆致1人死亡3人失踪](https://news.cctv.com/2026/01/30/ARTI7OX28OBMMP5wIOu6x12C260130.shtml)
+
++ [以色列宣布2月1日起重新开放拉法口岸 人员通行需安全审查](https://news.cctv.com/2026/01/30/ARTIBJDv08Y5iRPslbMhnNLN260130.shtml)
+
++ [伊朗总统与阿联酋总统通电话](https://news.cctv.com/2026/01/30/ARTICa52Nh74wnJlsy6mtM9H260130.shtml)
+
++ [南非将以色列使馆临时代办列为“不受欢迎的人”](https://news.cctv.com/2026/01/30/ARTICC2uW8WVP1eSbj4u44dO260130.shtml)
+
++ [特朗普提名凯文·沃什出任美联储主席](https://news.cctv.com/2026/01/30/ARTIkdu4DQq1UCAdIYPFPHXa260130.shtml)
+
