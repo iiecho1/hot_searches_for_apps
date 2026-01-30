@@ -101,3 +101,17 @@
 
 + [从模拟 FM 到数字 CDR：手机硬件架构为何难以跨越这道技术鸿沟](https://blog.csdn.net/Cathyguu/article/details/157465004)
 
++ [脉脉：AI创作者xAMA第二期 | AI创作者崛起](https://blog.csdn.net/yhrxh_ymq/article/details/157478039)
+
++ [Elasticsearch 分片迁移与重新平衡监控指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/157551804)
+
++ [复杂威胁环境下的多无人机协同路径规划研究——基于多段杜宾斯（Dubins）路径的协同策略（Matlab代码实现）](https://blog.csdn.net/weixin_61181717/article/details/157540441)
+
++ [复杂威胁环境下的多无人机协同路径规划研究——基于多段杜宾斯（Dubins）路径的协同策略（Matlab代码实现）](https://blog.csdn.net/m0_73907476/article/details/153456744)
+
++ [硬件工程师成长之路——知识汇总(持续更新)](https://blog.csdn.net/XU157303764/article/details/153469928)
+
++ [【无人机】【非线性模型预测控制（NMPC）】基于CasADi的无人机优化预测控制研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/157525847)
+
++ [【Harmonyos】开源鸿蒙跨平台训练营DAY8：Flutter鸿蒙开发指南获取轮播图数据](https://blog.csdn.net/lbbxmx111/article/details/157517548)
+

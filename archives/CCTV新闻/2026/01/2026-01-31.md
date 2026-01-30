@@ -161,3 +161,7 @@
 
 + [俄贝加尔湖冰面发生翻车事故 一名中国籍游客死亡](https://news.cctv.com/2026/01/28/ARTIy5gnyyIRRrhsZ7O00dQQ260128.shtml)
 
++ [美联邦官员称在明州的移民执法行动将更有针对性](https://news.cctv.com/2026/01/31/ARTIZgI3kINfrGYIg1j7yxmd260131.shtml)
+
++ [美国宣布对伊朗最新制裁措施](https://news.cctv.com/2026/01/31/ARTIqmqh4lylf17RlmALOe7P260130.shtml)
+
