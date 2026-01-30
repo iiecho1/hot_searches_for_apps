@@ -209,3 +209,11 @@
 
 + [特朗普或提名凯文·沃什出任美联储主席](https://news.cctv.com/2026/01/30/ARTIodNRUrqmZcXcJmpOJHeg260130.shtml)
 
++ [巴基斯坦称安全部队在俾路支省打死41名恐怖分子](https://news.cctv.com/2026/01/30/ARTIYIfLtnBIPmu7otIgQFL0260130.shtml)
+
++ [世卫组织确认印度确诊两例尼帕病毒感染病例](https://news.cctv.com/2026/01/30/ARTIOr4rdOxCRAZ7zgzftZqq260130.shtml)
+
++ [泽连斯基回应俄方邀请其前往莫斯科：我邀请普京来基辅](https://news.cctv.com/2026/01/30/ARTIl8kTXkeBJkVY9yafwtF2260130.shtml)
+
++ [韩国检方对金建希首案一审无罪判决结果提出上诉](https://news.cctv.com/2026/01/30/ARTIIQPunkajg3pyOlJpf6TR260130.shtml)
+

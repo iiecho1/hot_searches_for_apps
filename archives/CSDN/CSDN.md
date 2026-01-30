@@ -207,3 +207,5 @@
 
 + [从零开始手动实现 AI Agent（六）](https://blog.csdn.net/qq_44828365/article/details/157435204)
 
++ [深入解析：HarmonyOS APP开发的核心特性与技术优势](https://blog.csdn.net/2502_94169838/article/details/157547308)
+
