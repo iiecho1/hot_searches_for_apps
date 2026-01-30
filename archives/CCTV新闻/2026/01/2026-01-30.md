@@ -227,3 +227,7 @@
 
 + [特朗普提名凯文·沃什出任美联储主席](https://news.cctv.com/2026/01/30/ARTIkdu4DQq1UCAdIYPFPHXa260130.shtml)
 
++ [外媒关注英首相斯塔默访华：中国是“值得信赖的稳定合作伙伴”](https://news.cctv.com/2026/01/30/ARTI02UoUBxaulWI39oF6laL260130.shtml)
+
++ [全球媒体聚焦 | 英国媒体热议中方考虑对英公民单方面免签 称将利好经贸旅游等领域](https://news.cctv.com/2026/01/30/ARTIOOk3hzDke6D1QhglkIpG260130.shtml)
+

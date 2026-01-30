@@ -219,3 +219,7 @@
 
 + [《星辰 RPA 全自动：做一个小红书自动发文机器人》](https://blog.csdn.net/Dovis5884/article/details/157513896)
 
++ [书单推荐之豆包高效学习：AI时代的教育破局指南](https://blog.csdn.net/Mrxiao_bo/article/details/157507650)
+
++ [SQL的整理及复现](https://blog.csdn.net/wangleihubin/article/details/157518659)
+
