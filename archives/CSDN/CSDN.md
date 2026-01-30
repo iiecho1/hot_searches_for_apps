@@ -155,3 +155,9 @@
 
 + [Unity自动化美术资源校验工具（模型/材质规范检测）技术详解](https://blog.csdn.net/voidinit/article/details/157465614)
 
++ [【26美赛C题】Data With The Stars第一问思路与代码-DWTS 观众投票反推模型与代码实现](https://blog.csdn.net/weixin_52908342/article/details/157558618)
+
++ [使用 html为 ppt 文档添加文本像素格的实用方法](https://blog.csdn.net/weixin_45690741/article/details/157518549)
+
++ [星图平台快速搭建 Clawdbot：私有化本地 Qwen3-VL:30B 并接入飞书平台（上篇）](https://blog.csdn.net/qq_46207024/article/details/157517484)
+
