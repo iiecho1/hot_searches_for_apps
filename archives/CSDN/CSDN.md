@@ -179,3 +179,11 @@
 
 + [Spring AOP + Guava RateLimiter 用注解实现优雅限流 ](https://blog.csdn.net/xdpcxq1029/article/details/157549618)
 
++ [手机秒变 Linux 控制台？JuiceSSH +cpolar 让远程运维不再受限于工位](https://blog.csdn.net/lrq13965748542/article/details/157580680)
+
++ [webpack - 单独打包指定JS文件（因为不确定打出的前端包所访问的后端IP，需要对项目中IP配置文件单独拿出来，方便运维部署的时候对IP做修改）](https://blog.csdn.net/weixin_50545213/article/details/157556568)
+
++ [2026美赛A题智能手机电池耗电建模—思路全解析（含具体模型和代码）](https://blog.csdn.net/lichensun/article/details/157541647)
+
++ [ArcGISPro水文水资源、水生态与水环境领域应用；流域划分、空间分析、遥感提取、三维淹没模拟、克里格插值、统计建模等](https://blog.csdn.net/WangYan2022/article/details/157578718)
+
