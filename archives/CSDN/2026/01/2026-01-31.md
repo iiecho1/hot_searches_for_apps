@@ -191,3 +191,9 @@
 
 + [Visual Studio 2026深度体验：AI原生IDE如何重塑开发工作流](https://blog.csdn.net/lgf228/article/details/157580284)
 
++ [从 Query Mapping 到函数缓存，KingbaseES 高级 SQL 调优手段全揭秘](https://blog.csdn.net/qq_57761637/article/details/157516192)
+
++ [uniapp - H5人脸识别认证与活体检测功能（纯前端免费方案+微信sdk人脸识别）完整源码，微信公众号网页/h5端人脸识别功能人脸核身（微信方案提供后端spring boot+thinkphp源码](https://blog.csdn.net/weixin_44198965/article/details/157581979)
+
++ [被标签页淹没?Dashy+cpolar,打造你的跨设备私人导航站](https://blog.csdn.net/2301_76341691/article/details/157579186)
+
