@@ -141,3 +141,5 @@
 
 + [我完全依靠AI使用Jetpack Compose开发了一个Android选号APP](https://blog.csdn.net/Silence1515/article/details/157548237)
 
++ [SpringBoot + MQTT + EMQX：构建高效物联网数据接入平台](https://blog.csdn.net/JQLvopkk/article/details/157542801)
+
