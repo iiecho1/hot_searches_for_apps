@@ -223,3 +223,13 @@
 
 + [全平台小白一键部署Moltbot指南（对接Discord+飞书）](https://blog.csdn.net/sunshy77/article/details/157542850)
 
++ [Docker 镜像仓库运行分析报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/157586474)
+
++ [Python爬虫：用 Python 如何操作分布式网页爬虫 Brozzler ？](https://blog.csdn.net/cui_yonghua/article/details/157516086)
+
++ [若依微服务版集成阿里云oss](https://blog.csdn.net/2401_83377623/article/details/157516591)
+
++ [【开源鸿蒙跨平台开发--KuiklyUI--02】华为云真机部署实战指南](https://blog.csdn.net/AHuiHatedebug/article/details/157478011)
+
++ [2026美赛数学建模F题完整参考论文（含模型建立求解、代码等）](https://blog.csdn.net/2301_79944593/article/details/157552237)
+
