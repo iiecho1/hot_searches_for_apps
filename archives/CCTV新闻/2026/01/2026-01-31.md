@@ -201,3 +201,19 @@
 
 + [说说丨究竟是什么，让外国网友扎堆儿“成为中国人”？](https://news.cctv.com/2026/01/31/ARTIpgEWeMxUI6VpCRk3h1N7260131.shtml)
 
++ [日本虐童事件报告数量连续两年超22万起](https://news.cctv.com/2026/01/31/ARTISO2WYtbJUYggatOQm0rO260131.shtml)
+
++ [美军：不会容忍伊朗在军演中的“不安全行为”](https://news.cctv.com/2026/01/31/ARTIDYbYvSM1FiY6aHgPIQ0d260131.shtml)
+
++ [美国批准对沙特90亿美元军售计划](https://news.cctv.com/2026/01/31/ARTIhqjY7stRMSEByyv4ZnlK260131.shtml)
+
++ [古巴国家主席：做好准备应对美国石油封锁](https://news.cctv.com/2026/01/31/ARTIl6NOQmuxQjPoloCDVNtT260131.shtml)
+
++ [美军：不会容忍伊朗在军演中的“不安全行为”](https://news.cctv.com/2026/01/31/ARTIKRJ03URnzgKDDgdncf1y260131.shtml)
+
++ [关税越收越多，贸易逆差却越涨越高 美媒解读美国关税大棒为何伤己更深](https://news.cctv.com/2026/01/31/ARTIt60bfhR5svN5VnzZ5oMR260131.shtml)
+
++ [“小小道路大大改善了我们的生活”（新时代中非合作）](https://news.cctv.com/2026/01/31/ARTIkWNH1vAbhOQYNuuc7vOh260131.shtml)
+
++ [通讯丨“坚决反对美国干涉内政”——巴格达街头的愤怒](https://news.cctv.com/2026/01/31/ARTIB7z3PwP1nnqpz9Mohi5H260131.shtml)
+

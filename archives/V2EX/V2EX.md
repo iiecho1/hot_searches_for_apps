@@ -51,3 +51,11 @@
 
 + [我真的要放弃 Vue，改用 React 了](https://www.v2ex.com/t/1189625)
 
++ [见证黄金和白银历史了，涨得时候创造记录，跌的时候同样是创造记录了](https://www.v2ex.com/t/1189678)
+
++ [卖不卖？](https://www.v2ex.com/t/1189560)
+
++ [「单日 800 Star」经过 8 个月 Claude Code 高强度实战，我们决定开源内部的最佳实践](https://www.v2ex.com/t/1189576)
+
++ [Antigravity 开始大面积封号了](https://www.v2ex.com/t/1189706)
+
