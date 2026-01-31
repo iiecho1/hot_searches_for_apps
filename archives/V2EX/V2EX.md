@@ -43,3 +43,5 @@
 
 + [moltbot(clawdbot) 使用场景](https://www.v2ex.com/t/1189522)
 
++ [飞牛 OS 疑似 0day 漏洞，许多用户设备遭到攻击，请尽快检查设备或暂停使用](https://www.v2ex.com/t/1189672)
+
