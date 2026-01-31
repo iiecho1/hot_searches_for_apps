@@ -23,3 +23,5 @@
 
 + [昨天黄金和白银跌幅大家怎么看？](https://www.v2ex.com/t/1189733)
 
++ [antigravity 中的模型清单列表都是骗人的， gemini 3 pro 实际是 Gemini 2.0 Flash， claude Opus 4.5 实际是 Claude 3.5 Sonnet](https://www.v2ex.com/t/1189704)
+
