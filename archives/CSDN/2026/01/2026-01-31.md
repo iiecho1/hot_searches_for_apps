@@ -187,3 +187,7 @@
 
 + [ArcGISPro水文水资源、水生态与水环境领域应用；流域划分、空间分析、遥感提取、三维淹没模拟、克里格插值、统计建模等](https://blog.csdn.net/WangYan2022/article/details/157578718)
 
++ [clawdbot (openclaw) + discord 机器人部署指南学习教程](https://blog.csdn.net/weixin_42211816/article/details/157550604)
+
++ [Visual Studio 2026深度体验：AI原生IDE如何重塑开发工作流](https://blog.csdn.net/lgf228/article/details/157580284)
+
