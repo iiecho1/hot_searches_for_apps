@@ -207,3 +207,15 @@
 
 + [HTTP 协议全景解析：无状态、明文与安全演进之路](https://blog.csdn.net/duduanwang/article/details/157552978)
 
++ [基于PyTorch的CNN-BiLSTM时序预测：从数据滑窗到模型部署](https://blog.csdn.net/2301_81152266/article/details/157515371)
+
++ [微信小程序 - 详解苹果ios手机请求不到数据访问不了接口，但安卓却可以正常访问。wx.request苹果手机IOS请求失败、安卓可以请求成功（微信小程序上线后苹果手机不能访问接口，网络请求失败排查）](https://blog.csdn.net/weixin_44198965/article/details/157583688)
+
++ [【MyBatis-Plus 进阶】注解配置、条件构造器与自定义 SQL的复杂操作详解](https://blog.csdn.net/whxcmy/article/details/157551768)
+
++ [Flutter for OpenHarmony：TabBar 与 PageView 联动 —— 构建高效的内容导航系统](https://blog.csdn.net/2501_93573368/article/details/157583530)
+
++ [《数字信号处理 》第 7 章-无限长单位冲激响应 (IIR) 数字滤波器设计方法](https://blog.csdn.net/2302_80961196/article/details/157477634)
+
++ [Flutter 路由系统，对比 RN / Web / iOS 有什么本质不同？](https://blog.csdn.net/qq_36478920/article/details/157553886)
+
