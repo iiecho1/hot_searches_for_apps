@@ -23,3 +23,23 @@
 
 + [秋名山老司机们，集合！](https://www.v2ex.com/t/1189409)
 
++ [L 站被爆出有盲水印](https://www.v2ex.com/t/1189699)
+
++ [火车票不知道咋买了， 3 天都抢不到](https://www.v2ex.com/t/1189505)
+
++ [何为国漫？什么才算好作品？](https://www.v2ex.com/t/1189589)
+
++ [Idea 是不是要破产了？](https://www.v2ex.com/t/1189611)
+
++ [准备换新 MacBook Air 了 纠结内存选择： 16G 还是 24G](https://www.v2ex.com/t/1189514)
+
++ [肉眼可见的噪音贴越来越多了](https://www.v2ex.com/t/1189528)
+
++ [19 款的 inter 还能战几年](https://www.v2ex.com/t/1189542)
+
++ [给那些嘲讽移民的朋友们：大部分移民跟你一样](https://www.v2ex.com/t/1189530)
+
++ [都说做网站赚钱，真的吗？做了一年，终于有一点点的收入了，这个站，真不容易容易容易。。。。](https://www.v2ex.com/t/1189540)
+
++ [moltbot(clawdbot) 使用场景](https://www.v2ex.com/t/1189522)
+

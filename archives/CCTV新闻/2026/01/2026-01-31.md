@@ -173,3 +173,27 @@
 
 + [俄罗斯重新将14名日本人列为战犯](https://news.cctv.com/2026/01/31/ARTIZjIX20KtZRKYehSW2qyC260131.shtml)
 
++ [罗马尼亚卫生部门确认基孔肯雅病毒感染病例](https://news.cctv.com/2026/01/31/ARTIljZRQwqmiLRfAcTi23Kk260131.shtml)
+
++ [怕输给“星链”？法国政府阻止欧洲通信卫星公司出售天线资产](https://news.cctv.com/2026/01/31/ARTIlEytk66V80ZhQ1QIewJq260131.shtml)
+
++ [世卫组织：尼帕病毒的全球传播风险低](https://news.cctv.com/2026/01/31/ARTIJjb7NzQVKXBMOI9NYb3Q260131.shtml)
+
++ [联合国难民署：莫桑比克洪灾造成近40万人流离失所](https://news.cctv.com/2026/01/31/ARTIQvpWwtpEHkVrSCKGPz1w260131.shtml)
+
++ [美国白宫管理和预算办公室指示受影响机构开始执行停摆计划](https://news.cctv.com/2026/01/31/ARTINWGniMATyodZCo5seAiO260131.shtml)
+
++ [日本茨城县山林发现一具中国籍女性遗体](https://news.cctv.com/2026/01/31/ARTIi35PBvJ1iPTqcZETA1nE260131.shtml)
+
++ [美参议院通过拨款法案 短暂“技术性停摆”仍不可避免](https://news.cctv.com/2026/01/31/ARTI299KjQt18dWnESLkud06260131.shtml)
+
++ [刚果（金）反政府武装：矿难导致200多人死亡](https://news.cctv.com/2026/01/31/ARTIieOCZbLuepL56BeOdBf7260131.shtml)
+
++ [美国马萨诸塞州附近海域发生沉船事故 1人死亡6人失踪](https://news.cctv.com/2026/01/31/ARTIU3chJAODHxVsDd7o5tv4260131.shtml)
+
++ [美国批准对以色列66.7亿美元军售计划](https://news.cctv.com/2026/01/31/ARTIJC8mjEcnPqziyybACz40260131.shtml)
+
++ [伊朗最高领袖顾问：任何敌意举动都将遭到相称威慑回应](https://news.cctv.com/2026/01/31/ARTIveDvRhAvVHl5yMLC43VB260131.shtml)
+
++ [委内瑞拉代总统：计划通过立法对政治犯实行大赦](https://news.cctv.com/2026/01/31/ARTIMiUXv1koqz9HOBKmrywo260131.shtml)
+
