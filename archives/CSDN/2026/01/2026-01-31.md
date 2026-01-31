@@ -161,3 +161,5 @@
 
 + [星图平台快速搭建 Clawdbot：私有化本地 Qwen3-VL:30B 并接入飞书平台（上篇）](https://blog.csdn.net/qq_46207024/article/details/157517484)
 
++ [人工智能 Gemini 2.5 Pro：深度解析技术突破与实战应用](https://blog.csdn.net/2401_89899187/article/details/157506770)
+
