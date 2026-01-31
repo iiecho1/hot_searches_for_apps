@@ -101,3 +101,19 @@
 
 + [Flutter 路由系统，对比 RN / Web / iOS 有什么本质不同？](https://blog.csdn.net/qq_36478920/article/details/157553886)
 
++ [脉脉：AI创作者xAMA第二期 | AI创作者崛起](https://blog.csdn.net/yhrxh_ymq/article/details/157478039)
+
++ [Elasticsearch：Apache Lucene 2025 年终总结](https://blog.csdn.net/UbuntuTouch/article/details/157502124)
+
++ [硬件工程师成长之路——知识汇总(持续更新)](https://blog.csdn.net/XU157303764/article/details/153469928)
+
++ [【笔记工具Joplin】Joplin笔记随时随地远程管理](https://blog.csdn.net/qq_44033208/article/details/157511049)
+
++ [Flutter for OpenHarmony：构建一个优雅的 Flutter 每日一句应用，深入解析状态管理、日期驱动内容与 Material 3 交互动效](https://blog.csdn.net/2501_93814044/article/details/157502973)
+
++ [Nginx 四层 TCP 与七层 HTTP 转发实战指南](https://blog.csdn.net/oxwangfeng/article/details/157543534)
+
++ [Flutter × OpenHarmony 实战：将闹钟、世界时钟、秒表、计时器四大模块集成至高保真鸿蒙时钟 App](https://blog.csdn.net/2401_88937325/article/details/157552660)
+
++ [用Pygame开发你的第一个小游戏](https://blog.csdn.net/2301_79527146/article/details/157555458)
+
