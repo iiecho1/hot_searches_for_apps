@@ -233,3 +233,9 @@
 
 + [乌克兰、罗马尼亚和摩尔多瓦电力系统发生故障导致大规模停电](https://news.cctv.com/2026/01/31/ARTIEg6hWGoa1RPoQJ0kWaxG260131.shtml)
 
++ [西方“中等强国”集体向东看：斯塔默访华传递三大重要信号 | 国际识局](https://news.cctv.com/2026/01/31/ARTIHLS2pW0tn4Bc4N2gYBp1260131.shtml)
+
++ [开拓经贸机遇，助力合作“大有作为”——聆听来自中英商务论坛的声音](https://news.cctv.com/2026/01/31/ARTIzDR9CMcB1JTApBErUNPd260131.shtml)
+
++ [全球媒体聚焦 | 美媒：中国正在赢得具身人工智能竞赛](https://news.cctv.com/2026/01/31/ARTI89lhYw40XvNatLC4NHre260131.shtml)
+
