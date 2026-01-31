@@ -117,3 +117,27 @@
 
 + [用Pygame开发你的第一个小游戏](https://blog.csdn.net/2301_79527146/article/details/157555458)
 
++ [机器学习中的特征提取：PCA与LDA详解及sklearn实践](https://blog.csdn.net/2503_92624912/article/details/157579488)
+
++ [双塔异构神经网络：互补特征融合的实战探索](https://blog.csdn.net/Network_Engineer/article/details/157556449)
+
++ [AI 视频生成新时代：Wan2.2-T2V-A5B 文本转视频实战](https://blog.csdn.net/u014727709/article/details/157389283)
+
++ [当 AI 不再是 “答案机器“：《豆包高效学习》重构人机协同教育新生态](https://blog.csdn.net/weixin_43178406/article/details/157503989)
+
++ [声迹 Recorder：基于 Flutter × HarmonyOS 6.0 的跨端录音控制模块开发解析](https://blog.csdn.net/weixin_52908342/article/details/157223222)
+
++ [2026美赛MCM/ICM A题之智能手机电池的连续时间数学模型附思路和Matlab参考代码](https://blog.csdn.net/matlab_dingdang/article/details/157578482)
+
++ [（第九篇）Spring AI 核心技术攻坚：安全防护 企业级 AI 应用的风控体系之全链路防护（API 安全到内容合规）](https://blog.csdn.net/qq_40303030/article/details/156560380)
+
++ [大数据Spark（七十九）：Action行动算子countByKey和countByValue使用案例](https://blog.csdn.net/xiaoweite1/article/details/157578691)
+
++ [2026美赛A题智能手机电池续航时间预测的连续时间数学模型](https://blog.csdn.net/2501_94006413/article/details/157548689)
+
++ [周红伟：没有骗你，微信正式接入OpenClaw，玩转OpenClaw｜OpenClaw(Clawdbot)接入企业微信完全指南](https://blog.csdn.net/starzhou/article/details/157587818)
+
++ [DHTMLX Gantt 9.1.1](https://blog.csdn.net/john_dwh/article/details/157546719)
+
++ [我完全依靠AI使用Jetpack Compose开发了一个Android选号APP](https://blog.csdn.net/Silence1515/article/details/157548237)
+
