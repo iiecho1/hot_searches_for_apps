@@ -143,3 +143,5 @@
 
 + [SpringBoot + MQTT + EMQX：构建高效物联网数据接入平台](https://blog.csdn.net/JQLvopkk/article/details/157542801)
 
++ [【SpringAI】RAG工作流程与ETL实战解析](https://blog.csdn.net/2303_80720440/article/details/157553637)
+
