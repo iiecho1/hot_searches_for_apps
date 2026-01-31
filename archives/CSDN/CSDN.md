@@ -145,3 +145,5 @@
 
 + [【SpringAI】RAG工作流程与ETL实战解析](https://blog.csdn.net/2303_80720440/article/details/157553637)
 
++ [Vagrant 镜像打包与新环境部署全流程实操（避坑指南）](https://blog.csdn.net/zhu_lizhen/article/details/157556552)
+
