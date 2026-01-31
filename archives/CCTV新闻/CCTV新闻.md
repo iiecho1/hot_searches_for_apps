@@ -197,3 +197,5 @@
 
 + [委内瑞拉代总统：计划通过立法对政治犯实行大赦](https://news.cctv.com/2026/01/31/ARTIMiUXv1koqz9HOBKmrywo260131.shtml)
 
++ [众议院休会无法审议拨款法案 美联邦政府部分“停摆”](https://news.cctv.com/2026/01/31/ARTIQWO5TcOeJp8qXpBLaa4e260131.shtml)
+
