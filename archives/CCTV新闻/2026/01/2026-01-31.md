@@ -225,3 +225,7 @@
 
 + [抗议暴力移民执法 全美至少300城参加](https://news.cctv.com/2026/01/31/ARTIQvWnoJBnIbulNAJQEAL4260131.shtml)
 
++ [菲律宾南部沉船事故死亡人数上升至36人](https://news.cctv.com/2026/01/31/ARTIDKn2Ax8iDdvbdb6HaT6E260131.shtml)
+
++ [海冰融化致冰面缩小 挪威北极熊“变胖了”](https://news.cctv.com/2026/01/31/ARTIEuhST4RIZMxCrYZ5S29p260131.shtml)
+
