@@ -27,3 +27,17 @@
 
 + [还是忍不住想吐槽一遍 macOS 26 太丑了](https://www.v2ex.com/t/1189711)
 
++ [飞牛 NAS 的信任危机， 0Day 漏洞导致用户 NAS 及网盘文件全面泄露，官方装死](https://www.v2ex.com/t/1189822)
+
++ [昨天在 reddit 上发了个开源插件介绍，被骂了。](https://www.v2ex.com/t/1189805)
+
++ [没想明白，现在小朋友学新技术起手式是在 B 站搜索看视频？](https://www.v2ex.com/t/1189844)
+
++ [除了 next.js，在 2026 年，还有哪些 React 全栈框架推荐？](https://www.v2ex.com/t/1189723)
+
++ [飞牛这个漏洞 POC 太容易了啊](https://www.v2ex.com/t/1189806)
+
++ [为什么这么多人用飞牛 NAS，有什么优势吗](https://www.v2ex.com/t/1189823)
+
++ [飞牛 fnOS 发布重要安全更新通知，并提醒用户更新至 1.1.18 最新版本](https://www.v2ex.com/t/1189827)
+

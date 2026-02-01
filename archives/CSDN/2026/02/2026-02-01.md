@@ -147,3 +147,13 @@
 
 + [Vagrant 镜像打包与新环境部署全流程实操（避坑指南）](https://blog.csdn.net/zhu_lizhen/article/details/157556552)
 
++ [2026 完整指南：Moltbook — AI Agent 社交网络革](https://blog.csdn.net/daiziguizhong/article/details/157581816)
+
++ [【愚公系列】《AI短视频创作一本通》004-AI短视频的准备工作（创作AI短视频的基本流程）](https://blog.csdn.net/aa2528877987/article/details/156538420)
+
++ [ARM Linux 驱动开发篇----字符设备驱动开发（1）--字符设备驱动简介---- Ubuntu20.04 ](https://blog.csdn.net/weixin_61186812/article/details/157584835)
+
++ [HTTP 协议全景解析：无状态、明文与安全演进之路](https://blog.csdn.net/duduanwang/article/details/157552978)
+
++ [26美赛 A题 成品论文第【1】弹 透彻建模+无盲点解析](https://blog.csdn.net/kstt20230206/article/details/157579343)
+
