@@ -25,3 +25,5 @@
 
 + [讨论关于 nas 的系统选择有没有好的建议](https://www.v2ex.com/t/1189958)
 
++ [按 Ctrl 好累？我不是一个人吧](https://www.v2ex.com/t/1189930)
+

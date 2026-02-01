@@ -127,3 +127,11 @@
 
 + [2026美赛数学建模(MCM)B题思路分享(附源码，论文)](https://blog.csdn.net/2501_90256046/article/details/157554620)
 
++ [2026美赛A题智能手机电池续航时间预测的连续时间数学模型](https://blog.csdn.net/2501_94006413/article/details/157548689)
+
++ [《Docker sandbox 沙箱运行环境原理与应用开发实战：在基于 LangGraph + FastAPI 构建 Multi-Agent 多智能体系统中的应用》](https://blog.csdn.net/universsky2015/article/details/157618695)
+
++ [Visual Studio 2026深度体验：AI原生IDE如何重塑开发工作流](https://blog.csdn.net/lgf228/article/details/157580284)
+
++ [全平台小白一键部署Moltbot指南（对接Discord+飞书）](https://blog.csdn.net/sunshy77/article/details/157542850)
+
