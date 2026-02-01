@@ -25,3 +25,27 @@
 
 + [传支付宝五福新增“健康福”：蚂蚁阿福 App 发放，有单独红包](https://m.ithome.com/html/917763.htm)
 
++ [新排名！浙大第一，哈佛第三！](https://m.ithome.com/html/918037.htm)
+
++ [小米手机抢票模式现已覆盖更多机型，倒计时 1 分钟开启系统级加速](https://m.ithome.com/html/918131.htm)
+
++ [“硅基少女”现身上海：全球首款完全仿生具身智能机器人 Moya 发布，定价超百万](https://m.ithome.com/html/918066.htm)
+
++ [小米澎湃 OS 3 正式版覆盖更多机型：MIX Fold 2、12S/12 系列等](https://m.ithome.com/html/918057.htm)
+
++ [消息称苹果 iPhone Air 2 手机年内发布无望](https://m.ithome.com/html/918122.htm)
+
++ [不跟风苹果：消息称高通暂缓骁龙芯片全系推行统一内存](https://m.ithome.com/html/918051.htm)
+
++ [94 岁台积电张忠谋罕见露面，坐轮椅会见英伟达黄仁勋](https://m.ithome.com/html/918045.htm)
+
++ [华为家庭存储全新升级鸿蒙 HarmonyOS 6！手机图库协同、三方应用直接调取照片视频](https://m.ithome.com/html/918150.htm)
+
++ [华为公布鸿蒙智能追焦功能支持情况，Mate 80/Pura 80/nova 15 等系列在列](https://m.ithome.com/html/918168.htm)
+
++ [安卓最强钉子户：英伟达 Shield TV 连更 10 年，黄仁勋承诺维护“至死方休”](https://m.ithome.com/html/918065.htm)
+
++ [8K 电视集体“退烧”，消息称 LG 停产 8K 面板](https://m.ithome.com/html/918068.htm)
+
++ [雷军明晚“科普直播”，在北京小米汽车工厂实验室聊新一代 SU7 研发等话题](https://m.ithome.com/html/918076.htm)
+

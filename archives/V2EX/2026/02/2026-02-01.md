@@ -25,3 +25,5 @@
 
 + [antigravity 中的模型清单列表都是骗人的， gemini 3 pro 实际是 Gemini 2.0 Flash， claude Opus 4.5 实际是 Claude 3.5 Sonnet](https://www.v2ex.com/t/1189704)
 
++ [还是忍不住想吐槽一遍 macOS 26 太丑了](https://www.v2ex.com/t/1189711)
+
