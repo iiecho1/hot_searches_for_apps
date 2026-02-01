@@ -113,3 +113,7 @@
 
 + [我？我打科比？](https://m.acfun.cn/v/?ac=48237855)
 
++ [粤语版《大声钻石》来年要将「喜欢」说出口哦【AKB48】](https://m.acfun.cn/v/?ac=48237617)
+
++ [如果出现了两个地球，人类GG？！热门模拟恐怖《Tale of Two Earths》剧情](https://m.acfun.cn/v/?ac=48236664)
+

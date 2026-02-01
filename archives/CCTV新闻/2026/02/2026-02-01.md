@@ -193,3 +193,13 @@
 
 + [美联储货币政策“鹰派”预期上升 加密货币大幅下挫](https://news.cctv.com/2026/02/01/ARTIEI8URVHis5d0QU7ts6dl260201.shtml)
 
++ [“每一堂中文课都是一次文化之旅”——访泰国教育部前部长素察](https://news.cctv.com/2026/02/01/ARTIlNvjV2mgz7vjRPhOBBLL260201.shtml)
+
++ [美方发布“林肯”号航母在阿拉伯海接受补给视频](https://news.cctv.com/2026/02/01/ARTI5Ay6v4qm79G5o0z0uUn9260201.shtml)
+
++ [加沙边境拉法口岸正式开启试运行](https://news.cctv.com/2026/02/01/ARTI8P544uPtyvEAqL1P2xp9260201.shtml)
+
++ [伊朗议长宣布欧洲国家军队将被视为“恐怖组织”](https://news.cctv.com/2026/02/01/ARTIFSAN7OSAfnah1XsA84ws260201.shtml)
+
++ [高市临时缺席党首讨论直播 引发在野党广泛批评](https://news.cctv.com/2026/02/01/ARTIQTdCbtLewOxycFij0JJg260201.shtml)
+
