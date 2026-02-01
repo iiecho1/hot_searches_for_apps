@@ -187,3 +187,7 @@
 
 + [伊朗外长称美国干涉其军演做法“荒谬”](https://news.cctv.com/2026/02/01/ARTIMq3x2KU7TijNNoFs1MFV260201.shtml)
 
++ [特朗普：美委将“分享”石油收益](https://news.cctv.com/2026/02/01/ARTIeP7xs0ePEDAfQy8gew0r260201.shtml)
+
++ [菲律宾南部沉船事故死亡人数上升至39人](https://news.cctv.com/2026/02/01/ARTIC6gApzgBR5fbQ6gOjB4v260201.shtml)
+

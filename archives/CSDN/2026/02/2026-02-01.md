@@ -157,3 +157,19 @@
 
 + [26美赛 A题 成品论文第【1】弹 透彻建模+无盲点解析](https://blog.csdn.net/kstt20230206/article/details/157579343)
 
++ [OpenHarmony + RN：Overlay遮罩层组件](https://blog.csdn.net/weixin_62280685/article/details/157611237)
+
++ [聊聊Java的内存模型](https://blog.csdn.net/gdpu2400502251/article/details/157580253)
+
++ [【愚公系列】《AI短视频创作一本通》006-短视频成败之根本（确定短视频选题的方法和技巧）](https://blog.csdn.net/aa2528877987/article/details/157069689)
+
++ [基于OEL8环境的图形化部署Oracle26ai](https://blog.csdn.net/weixin_41645135/article/details/157611896)
+
++ [2026 IT技术趋势深度预测：从AI原生到自主系统的范式跃迁](https://blog.csdn.net/u014727709/article/details/157581837)
+
++ [Android tinyalsa深度解析之pcm_close调用流程与实战(一百零四)](https://blog.csdn.net/u010164190/article/details/157612029)
+
++ [Spire.Office for .NET 11.1.0](https://blog.csdn.net/john_dwh/article/details/157612122)
+
++ [【openclaw+imessage】【免费无限流量】集成方案，支持iphone手机+macos](https://blog.csdn.net/qq_42944545/article/details/157577579)
+
