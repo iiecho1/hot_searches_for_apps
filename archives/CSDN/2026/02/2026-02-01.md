@@ -207,3 +207,5 @@
 
 + [全栈测试修炼指南：从接口策略到 Python+Pytest+Allure 企业级架构](https://blog.csdn.net/qq_18944929/article/details/157588401)
 
++ [微信小程序学习实录16:从图片上传到身份证OCR识别信息提取全流程实战](https://blog.csdn.net/weixin_41290949/article/details/157617752)
+

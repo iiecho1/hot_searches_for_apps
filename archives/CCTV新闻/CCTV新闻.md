@@ -239,3 +239,11 @@
 
 + [保加利亚货币列弗全部退出流通](https://news.cctv.com/2026/02/01/ARTIF4LKkt5q1RQt3yh0WlkM260201.shtml)
 
++ [特朗普宣布美国独立250周年活动：白宫草坪看格斗，首都街头飙赛车](https://news.cctv.com/2026/02/01/ARTI8oTkQVrfMBTxd6abZMoa260201.shtml)
+
++ [荷航恢复飞往中东多国航班](https://news.cctv.com/2026/02/01/ARTIOjkpQs59NdYgW1oxJNAm260201.shtml)
+
++ [商业街日渐衰退 英国政府推出社区振兴计划](https://news.cctv.com/2026/02/01/ARTI2wwzqqPpB9SgLSLTDANp260201.shtml)
+
++ [印尼股市暴跌引发连锁反应 多名金融高官引咎辞职](https://news.cctv.com/2026/02/01/ARTISlE5Z9NUawjFzVhIKFwW260201.shtml)
+
