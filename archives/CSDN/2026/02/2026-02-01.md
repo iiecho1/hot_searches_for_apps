@@ -181,3 +181,13 @@
 
 + [用HTML5 Canvas打造高颜值动态时钟的创意实现](https://blog.csdn.net/yelangkingwuzuhu/article/details/157611635)
 
++ [探索高效工作流的秘密：GLM-4.7 与 Dify 平台深度集成实践](https://blog.csdn.net/2301_76341691/article/details/157613191)
+
++ [【Qt开发】Qt系统（十一）-＞ Qt 音频](https://blog.csdn.net/weixin_74809706/article/details/157546137)
+
++ [基于 Flutter × HarmonyOS 6.0 的「记一笔 · MemoMoney」个人理财助手 —— 收入记录模块设计与实现](https://blog.csdn.net/weixin_52908342/article/details/157327275)
+
++ [Digital Signatures and Certificates](https://blog.csdn.net/allway2/article/details/157614155)
+
++ [微信小程序 - 搞定canvas组件层级最高问题遮挡其他元素，详解微信小程序canvas层级过高的问题多种方案调整Canvas层级，无法调整canvas画布层级怎么办？（uniapp微信小程序也适用）](https://blog.csdn.net/weixin_44198965/article/details/157613292)
+
