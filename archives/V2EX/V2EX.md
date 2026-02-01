@@ -29,3 +29,5 @@
 
 + [买了 15 万 HodlAI coin 支持一下，有两个疑问](https://www.v2ex.com/t/1189891)
 
++ [新加坡机场入境居然没有安检？](https://www.v2ex.com/t/1189964)
+
