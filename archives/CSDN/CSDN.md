@@ -193,3 +193,5 @@
 
 + [PyTorch实战（27）——自动混合精度训练](https://blog.csdn.net/LOVEmy134611/article/details/150612818)
 
++ [【无人机】无人机群在三维环境中的碰撞和静态避障仿真（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/157483267)
+

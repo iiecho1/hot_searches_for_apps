@@ -25,3 +25,19 @@
 
 + [cline/cline](https://github.com/cline/cline)
 
++ [pedramamini/Maestro](https://github.com/pedramamini/Maestro)
+
++ [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)
+
++ [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+
++ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
++ [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
+
++ [steipete/CodexBar](https://github.com/steipete/CodexBar)
+
++ [j178/prek](https://github.com/j178/prek)
+
++ [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity)
+
