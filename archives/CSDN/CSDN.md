@@ -209,3 +209,9 @@
 
 + [微信小程序学习实录16:从图片上传到身份证OCR识别信息提取全流程实战](https://blog.csdn.net/weixin_41290949/article/details/157617752)
 
++ [KingbaseES 统计信息深度调优：从自动收集到扩展统计，精准提升计划质量](https://blog.csdn.net/qq_57761637/article/details/157580629)
+
++ [【AI智能体】Coze 抓取小红书爆款视频写入飞书多维表实战详解](https://blog.csdn.net/zhangcongyi420/article/details/157400155)
+
++ [微信小程序全局数据共享](https://blog.csdn.net/qq_51626500/article/details/157357715)
+

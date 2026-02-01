@@ -151,3 +151,5 @@
 
 + [【每日练歌】《簪花雨》——雨滴是你么，抱着我](https://m.acfun.cn/v/?ac=48239530)
 
++ [KINTEX Seoul Mobility Show Event Model Min Hanna](https://m.acfun.cn/v/?ac=48238847)
+
