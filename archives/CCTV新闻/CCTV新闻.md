@@ -191,3 +191,5 @@
 
 + [菲律宾南部沉船事故死亡人数上升至39人](https://news.cctv.com/2026/02/01/ARTIC6gApzgBR5fbQ6gOjB4v260201.shtml)
 
++ [美联储货币政策“鹰派”预期上升 加密货币大幅下挫](https://news.cctv.com/2026/02/01/ARTIEI8URVHis5d0QU7ts6dl260201.shtml)
+
