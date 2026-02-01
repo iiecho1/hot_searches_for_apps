@@ -135,3 +135,5 @@
 
 + [全平台小白一键部署Moltbot指南（对接Discord+飞书）](https://blog.csdn.net/sunshy77/article/details/157542850)
 
++ [2026年美赛数学建模C题完整参考论文（含模型和代码）](https://blog.csdn.net/2301_79944593/article/details/157551635)
+
