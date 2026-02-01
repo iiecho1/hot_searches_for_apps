@@ -27,3 +27,5 @@
 
 + [按 Ctrl 好累？我不是一个人吧](https://www.v2ex.com/t/1189930)
 
++ [买了 15 万 HodlAI coin 支持一下，有两个疑问](https://www.v2ex.com/t/1189891)
+
