@@ -111,3 +111,19 @@
 
 + [Android tinyalsa深度解析之pcm_close调用流程与实战(一百零四)](https://blog.csdn.net/u010164190/article/details/157612029)
 
++ [「记账星（LedgerStar）」— 基于Flutter × HarmonyOS 6.0开发支出记录模块设计与实现](https://blog.csdn.net/weixin_52908342/article/details/157327192)
+
++ [【C++】CPU的局部性原理](https://blog.csdn.net/2301_80064645/article/details/154029365)
+
++ [【Spring Boot】一篇文章让你学会使用和查看Spring Boot日志](https://blog.csdn.net/2301_81614213/article/details/157513465)
+
++ [【Java】Gradle 多模块项目实战：Spring Boot 微服务搭建全流程](https://blog.csdn.net/qazcxh/article/details/157583418)
+
++ [Redis数据安全性分析](https://blog.csdn.net/qq_59635303/article/details/157556259)
+
++ [Docker 镜像仓库运行分析报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/157586474)
+
++ [Clawdbot 部署到飞书（飞连）使用教程（完整版）](https://blog.csdn.net/weixin_71184753/article/details/157579452)
+
++ [2026美赛数学建模(MCM)B题思路分享(附源码，论文)](https://blog.csdn.net/2501_90256046/article/details/157554620)
+
