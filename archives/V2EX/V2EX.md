@@ -45,3 +45,7 @@
 
 + [马币再来 20 枚～](https://www.v2ex.com/t/1190040)
 
++ [opus 低至 0.005| 狂送 1.5w 刀 | Claude+Codex+gemini 一站式 api](https://www.v2ex.com/t/1190139)
+
++ [小米的产品到底差在哪里了？](https://www.v2ex.com/t/1190064)
+

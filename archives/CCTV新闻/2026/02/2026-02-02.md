@@ -203,3 +203,15 @@
 
 + [菲律宾海岸警卫队修正沉船事故死亡人数为42人](https://news.cctv.com/2026/02/02/ARTIQ80gkwBF6lHaGe9CmAkm260202.shtml)
 
++ [韩国警方成立专案组调查残障机构性侵案](https://news.cctv.com/2026/02/02/ARTIVXcwQyulU1PQZa8w5jO3260202.shtml)
+
++ [牵涉爱泼斯坦案 英国前驻美大使曼德尔森宣布退出工党](https://news.cctv.com/2026/02/02/ARTI9G1Gs1btg74mMUfODN1P260202.shtml)
+
++ [乌克兰基辅市和基辅州实施紧急停电](https://news.cctv.com/2026/02/02/ARTI4BIKeQjyGCOSpso3kFIY260202.shtml)
+
++ [伊朗外交部发言人：正在审议同美国谈判细节](https://news.cctv.com/2026/02/02/ARTIQZIuReYORVu5rxtCE9eT260202.shtml)
+
++ [国际贵金属价格再跳水 银价3天累计跌幅达40%](https://news.cctv.com/2026/02/02/ARTIK9N5u50n55DpeRgFCqtP260202.shtml)
+
++ [美两党分歧难解 政府多部门“技术性停摆”持续](https://news.cctv.com/2026/02/02/ARTIHYXfomXW6HrOeveae6Y0260202.shtml)
+
