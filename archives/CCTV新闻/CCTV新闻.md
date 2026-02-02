@@ -217,3 +217,21 @@
 
 + [俄罗斯一架教练机坠毁 三人遇难](https://news.cctv.com/2026/02/02/ARTIkzSNbDOMbKOQfHV5iNDZ260202.shtml)
 
++ [印尼西爪哇省山体滑坡已致80人遇难](https://news.cctv.com/2026/02/02/ARTI0C3JmFpKXIOVuMfUPjBA260202.shtml)
+
++ [2026年拉美“第一选”：右翼接续执政哥斯达黎加](https://news.cctv.com/2026/02/02/ARTI1TBGRdxlVBLQo6R2eYfz260202.shtml)
+
++ [俄称新一轮乌克兰问题谈判将于2月4日至5日举行](https://news.cctv.com/2026/02/02/ARTIbeCXBHqnAobxufHH5PmY260202.shtml)
+
++ [美特使将访问以色列 与内塔尼亚胡等高层会晤](https://news.cctv.com/2026/02/02/ARTIifaghbTwyHftuibNaWup260202.shtml)
+
++ [伊朗总统已下令与美开展核问题专项谈判](https://news.cctv.com/2026/02/02/ARTIjNMcmZuD8nBEQLHYZA78260202.shtml)
+
++ [美媒：“K型经济”显示美国财富不平等持续加剧](https://news.cctv.com/2026/02/02/ARTIvTixXmY34IFgwpp2YKXZ260202.shtml)
+
++ [海角之城“春”潮起——在南非开普敦感受中非人文交流](https://news.cctv.com/2026/02/02/ARTIa0X6m7E1ITa7d0O9Nuf6260202.shtml)
+
++ [在华外企持续看好中国经济发展前景](https://news.cctv.com/2026/02/02/ARTIUEybc3danGA9ETyZix5x260202.shtml)
+
++ [伊朗武装部队总参谋长：已做好充分准备回击侵略者](https://news.cctv.com/2026/02/02/ARTIS0iUDYj7Nfs4d0WT9L8k260202.shtml)
+
