@@ -23,3 +23,15 @@
 
 + [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity)
 
++ [termux/termux-app](https://github.com/termux/termux-app)
+
++ [netbirdio/netbird](https://github.com/netbirdio/netbird)
+
++ [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+
++ [autobrr/qui](https://github.com/autobrr/qui)
+
++ [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+
++ [karpathy/nanochat](https://github.com/karpathy/nanochat)
+
