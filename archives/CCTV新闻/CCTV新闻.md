@@ -173,3 +173,7 @@
 
 + [国际油价大幅下跌 跌幅超3%](https://news.cctv.com/2026/02/02/ARTIRvM5XmwnxNMQwWNrs0En260202.shtml)
 
++ [世界顶尖科学家共议人类未来挑战](https://news.cctv.com/2026/02/02/ARTIJ90vdJuNbJjWmNGEXqVP260202.shtml)
+
++ [巴基斯坦俾路支省反恐行动打死145名恐怖分子](https://news.cctv.com/2026/02/02/ARTIeaztoZjnYBh7zv8LsNcb260202.shtml)
+
