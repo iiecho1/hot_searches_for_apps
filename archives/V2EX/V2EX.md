@@ -33,3 +33,11 @@
 
 + [1 月 20 号失业， 2 月 1 号离婚，还有更快的吗](https://www.v2ex.com/t/1189998)
 
++ [Claude Code, openai codex 送激活码 20 刀,外加 100 刀抽奖,V 友们年前开心的 Vibe Coding 吧～](https://www.v2ex.com/t/1190025)
+
++ [自从有了小孩后家庭矛盾越来越多，大家帮我分析下怎么办好](https://www.v2ex.com/t/1190007)
+
++ [新手恋爱求后续指导](https://www.v2ex.com/t/1190008)
+
++ [从小不在意穿着，长大了仍是这样](https://www.v2ex.com/t/1190036)
+

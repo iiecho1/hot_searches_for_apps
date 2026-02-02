@@ -165,3 +165,11 @@
 
 + [墨西哥计划向古巴运送人道主义援助物资](https://news.cctv.com/2026/02/02/ARTIA4jOT9i1pmy8kz5NeEa5260202.shtml)
 
++ [美政府部分“停摆” 众议院议长称几天后才会表决拨款法案](https://news.cctv.com/2026/02/02/ARTIfbRqjrna4P8wL91rbDnl260202.shtml)
+
++ [博茨瓦纳发生口蹄疫疫情](https://news.cctv.com/2026/02/02/ARTISr36S8oPCo6kqZeiEXYW260202.shtml)
+
++ [特朗普拒谈支付美国拖欠的联合国会费](https://news.cctv.com/2026/02/02/ARTIZEbAsKR3jsybHvsKsOII260202.shtml)
+
++ [国际油价大幅下跌 跌幅超3%](https://news.cctv.com/2026/02/02/ARTIRvM5XmwnxNMQwWNrs0En260202.shtml)
+

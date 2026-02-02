@@ -147,3 +147,17 @@
 
 + [【Linux】sudo 命令提升权限的使用技巧](https://blog.csdn.net/qq_41187124/article/details/157360311)
 
++ [实战项目落地：微服务拆分原则（DDD 思想落地，用户 / 订单 / 商品 / 支付服务拆分实战）](https://blog.csdn.net/qq_40303030/article/details/156080812)
+
++ [OpenClaw实战 #01：为什么它不是 ChatGPT，而是能执行任务的 AI 助理](https://blog.csdn.net/tzchao111/article/details/157577721)
+
++ [Flutter for OpenHarmony 实战：天气预报应用UI设计与主题切换](https://blog.csdn.net/2502_91523773/article/details/157588387)
+
++ [【AI大模型舆情分析】微博舆情分析可视化系统(pytorch2+基于BERT大模型训练微调+flask+pandas+echarts) 实战(上)](https://blog.csdn.net/caoli201314/article/details/157617208)
+
++ [HarmonyOS 走向 PC，应用模型正在重构](https://blog.csdn.net/qq_36863796/article/details/157554928)
+
++ [【SpringAI】RAG工作流程与ETL实战解析](https://blog.csdn.net/2303_80720440/article/details/157553637)
+
++ [Vue3+Node.js实现文件上传分片上传和断点续传【详细教程】](https://blog.csdn.net/2301_81253185/article/details/157619945)
+
