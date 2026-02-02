@@ -139,3 +139,11 @@
 
 + [基于Vue的餐厅收银系统s6150（程序 + 源码 + 数据库 + 调试部署 + 开发环境配置），配套论文文档字数达万字以上，文末可获取，系统界面展示置于文末](https://blog.csdn.net/2509_93101891/article/details/157583621)
 
++ [Flutter for OpenHarmony 实现动态天气与空气质量仪表盘：从 UI 到动画的完整解析](https://blog.csdn.net/2501_93573294/article/details/157618069)
+
++ [Docker 容器详解：生命周期、命令清单与实操指南](https://blog.csdn.net/whxcmy/article/details/157516630)
+
++ [ShardingSphere 分库分表技术详解与 Spring Boot 实践](https://blog.csdn.net/weixin_39970883/article/details/157551959)
+
++ [【Linux】sudo 命令提升权限的使用技巧](https://blog.csdn.net/qq_41187124/article/details/157360311)
+

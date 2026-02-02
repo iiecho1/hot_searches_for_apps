@@ -163,3 +163,5 @@
 
 + [特朗普称希望与伊朗“能够达成协议”](https://news.cctv.com/2026/02/02/ARTIMGYGLWOF6nRBH12xQvu9260202.shtml)
 
++ [墨西哥计划向古巴运送人道主义援助物资](https://news.cctv.com/2026/02/02/ARTIA4jOT9i1pmy8kz5NeEa5260202.shtml)
+
