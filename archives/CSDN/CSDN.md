@@ -109,3 +109,27 @@
 
 + [使用Python处理计算机图形学（PIL/Pillow）](https://blog.csdn.net/2401_83847251/article/details/157621183)
 
++ [Flutter for OpenHarmony 实战：每日热点 App（二）— 基于 http 的热榜服务封装与异步处理](https://blog.csdn.net/jiang_style/article/details/157585043)
+
++ [Flutter for OpenHarmony 实战：疯狂头像 App（二）— 层叠背景与极致玻璃拟态 (Glassmorphism)](https://blog.csdn.net/cannonjinx/article/details/157589356)
+
++ [PostgreSQL 核心原理：如何从日志中定位死锁根源（死锁检测与预防）](https://blog.csdn.net/cui_yonghua/article/details/157643301)
+
++ [全栈测试修炼指南：从接口策略到 Python+Pytest+Allure 企业级架构](https://blog.csdn.net/qq_18944929/article/details/157588401)
+
++ [将QQ接入OpenClaw的详细教程](https://blog.csdn.net/wbsu2004/article/details/157615625)
+
++ [我是如何准备美国大学生数学建模的：96 小时内，把不清晰问题变成可交付](https://blog.csdn.net/master_hunter/article/details/157651315)
+
++ [09 jetlinks-mqtt-属性主动上报-windows-python-实现](https://blog.csdn.net/weixin_43951955/article/details/157659141)
+
++ [Matplotlib 科研级颜色映射（Colormap）可视化实战](https://blog.csdn.net/u010030103/article/details/157620939)
+
++ [2026年数学建模美赛C题](https://blog.csdn.net/qq_52590045/article/details/157581422)
+
++ [Docker 数据卷：MySQL 数据同步实战](https://blog.csdn.net/m0_74124657/article/details/157615107)
+
++ [GitHub 热榜项目 - 日榜(2026-02-01)](https://blog.csdn.net/u014390502/article/details/157613297)
+
++ [Vue 中如何修改地址栏参数并重新加载？](https://blog.csdn.net/guigenyi/article/details/157619289)
+
