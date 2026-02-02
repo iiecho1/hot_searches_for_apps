@@ -177,3 +177,5 @@
 
 + [深度学习实战-基于CNN卷积神经网络的水果新鲜度分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157214836)
 
++ [降维实战：PCA与LDA在sklearn中的实现](https://blog.csdn.net/2301_81152266/article/details/157619311)
+

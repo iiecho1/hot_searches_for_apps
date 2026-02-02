@@ -197,3 +197,9 @@
 
 + [乌拉圭，不止足球](https://news.cctv.com/2026/02/02/ARTIZflu2sTOi9Fkbnu7YWfF260202.shtml)
 
++ [又一场冬季风暴袭击美国东南部 佛州再现“天降蜥蜴”奇观](https://news.cctv.com/2026/02/02/ARTITnQis9dkQTn9qzhtWi7A260202.shtml)
+
++ [俄称挫败一起爆炸袭击图谋 袭击者携带“音箱”炸弹](https://news.cctv.com/2026/02/02/ARTIfRYfOsYeCoL96vqIW5lf260202.shtml)
+
++ [菲律宾海岸警卫队修正沉船事故死亡人数为42人](https://news.cctv.com/2026/02/02/ARTIQ80gkwBF6lHaGe9CmAkm260202.shtml)
+
