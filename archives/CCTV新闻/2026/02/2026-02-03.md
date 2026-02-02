@@ -161,3 +161,5 @@
 
 + [美国多地爆发反移民与海关执法局示威活动](https://news.cctv.com/2026/02/01/ARTI3RaiL2dvQ4mBiwjdGLQO260201.shtml)
 
++ [特朗普：莫迪同意不买俄罗斯石油 美国将降低对印关税](https://news.cctv.com/2026/02/03/ARTIMrVsvIapLsGUy5BubNYT260203.shtml)
+
