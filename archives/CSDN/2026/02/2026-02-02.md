@@ -181,3 +181,9 @@
 
 + [Flutter for OpenHarmony：下拉刷新（RefreshIndicator）—— 构建即时、可信的数据同步体验](https://blog.csdn.net/2501_93573368/article/details/157616552)
 
++ [【Linux指南】进程控制系列（五）实战 —— 微型 Shell 命令行解释器实现](https://blog.csdn.net/2302_78391795/article/details/157556649)
+
++ [用Claude Code构建AI内容创作工作流：从灵感到发布的自动化实践](https://blog.csdn.net/2401_86326742/article/details/157648664)
+
++ [FlutterHarmony Blog：基于 Flutter × Harmony6.0 构建文章列表区域的技术实践](https://blog.csdn.net/weixin_52908342/article/details/157328597)
+

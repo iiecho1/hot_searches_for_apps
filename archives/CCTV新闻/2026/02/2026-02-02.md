@@ -215,3 +215,5 @@
 
 + [美两党分歧难解 政府多部门“技术性停摆”持续](https://news.cctv.com/2026/02/02/ARTIHYXfomXW6HrOeveae6Y0260202.shtml)
 
++ [俄罗斯一架教练机坠毁 三人遇难](https://news.cctv.com/2026/02/02/ARTIkzSNbDOMbKOQfHV5iNDZ260202.shtml)
+
