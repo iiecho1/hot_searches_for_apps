@@ -177,3 +177,13 @@
 
 + [巴基斯坦俾路支省反恐行动打死145名恐怖分子](https://news.cctv.com/2026/02/02/ARTIeaztoZjnYBh7zv8LsNcb260202.shtml)
 
++ [美路易斯安那州发生枪击事件 两名青少年受到指控](https://news.cctv.com/2026/02/02/ARTIVpp7pcajAPwfmi0FO7p3260202.shtml)
+
++ [爱泼斯坦案文件继续发酵 斯洛伐克国家安全顾问辞职](https://news.cctv.com/2026/02/02/ARTId72OwpML8mv2UHGV0jZ3260202.shtml)
+
++ [菲律宾南部沉船事故死亡人数升至43人](https://news.cctv.com/2026/02/02/ARTIwmjljXg2W0XTOxArByRR260202.shtml)
+
++ [古巴强调反恐立场 提议与美国恢复多领域技术合作](https://news.cctv.com/2026/02/02/ARTIWT1hybbM193qDfgeadpC260202.shtml)
+
++ [金建希就首案一审判决提出上诉](https://news.cctv.com/2026/02/02/ARTIEcLckLkhgfSE74ybGijs260202.shtml)
+

@@ -175,3 +175,5 @@
 
 + [将Python Web应用部署到服务器（Docker + Nginx）](https://blog.csdn.net/weixin_44540230/article/details/157555441)
 
++ [深度学习实战-基于CNN卷积神经网络的水果新鲜度分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157214836)
+
