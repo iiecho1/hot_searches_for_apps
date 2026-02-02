@@ -187,3 +187,13 @@
 
 + [金建希就首案一审判决提出上诉](https://news.cctv.com/2026/02/02/ARTIEcLckLkhgfSE74ybGijs260202.shtml)
 
++ [俄罗斯希韦卢奇火山再次喷发 航空预警升至最高等级](https://news.cctv.com/2026/02/02/ARTIiWZSuFMOw1dpD5v4pMMW260202.shtml)
+
++ [韩国股市大跌触发熔断机制](https://news.cctv.com/2026/02/02/ARTIbwD7IA3flAZl5yvzxJJk260202.shtml)
+
++ [正义之声必须永远回荡——探访远东国际军事法庭旧址](https://news.cctv.com/2026/02/02/ARTI6abjo0gLfxcCCkVc535j260202.shtml)
+
++ [“中国以实际行动维护世界和平”——访厄立特里亚战略研究中心研究员菲克雷耶苏斯](https://news.cctv.com/2026/02/02/ARTI4LHeKqjiWnA2o1qFb8pD260202.shtml)
+
++ [乌拉圭，不止足球](https://news.cctv.com/2026/02/02/ARTIZflu2sTOi9Fkbnu7YWfF260202.shtml)
+
