@@ -203,3 +203,7 @@
 
 + [3-14-后端Web进阶(SpringBoot原理)](https://blog.csdn.net/m0_64924660/article/details/157588405)
 
++ [Spring Boot Data API 与 Redis 集成：KPI/图表/表格查询的缓存优化方案](https://blog.csdn.net/moshowgame/article/details/157619655)
+
++ [Spring Boot ：使用 Spring Cache 注解方式集成 Redis](https://blog.csdn.net/weixin_46619605/article/details/157619049)
+
