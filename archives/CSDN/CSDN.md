@@ -189,3 +189,11 @@
 
 + [【Spring Cloud】优雅实现远程调用-OpenFeign](https://blog.csdn.net/2403_87459748/article/details/157432551)
 
++ [【愚公系列】《AI短视频创作一本通》008-AI短视频脚本创作技巧（分析爆款短视频，快速掌握脚本创作技巧）](https://blog.csdn.net/aa2528877987/article/details/157071074)
+
++ [UDP穿透原理及实现](https://blog.csdn.net/weixin_64647426/article/details/157555863)
+
++ [SpringBoot 优雅停服](https://blog.csdn.net/xiao__jia__jia/article/details/157612896)
+
++ [Spark在银行系统ETL中的实战应用：TXT文件到PostgreSQL的余额处理全流程](https://blog.csdn.net/moshowgame/article/details/157621013)
+
