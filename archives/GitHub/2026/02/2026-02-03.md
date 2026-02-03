@@ -23,3 +23,15 @@
 
 + [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)
 
++ [masoncl/review-prompts](https://github.com/masoncl/review-prompts)
+
++ [openai/skills](https://github.com/openai/skills)
+
++ [automazeio/ccpm](https://github.com/automazeio/ccpm)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [virattt/dexter](https://github.com/virattt/dexter)
+
++ [vm0-ai/vm0](https://github.com/vm0-ai/vm0)
+
