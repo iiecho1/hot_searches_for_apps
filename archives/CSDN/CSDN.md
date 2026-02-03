@@ -227,3 +227,7 @@
 
 + [阿里开源Wan2.2模型全面解析：MoE架构加持，电影级视频生成触手可及](https://blog.csdn.net/weixin_62761878/article/details/157659035)
 
++ [2026-2027 CCF 推荐学术会议信息](https://blog.csdn.net/wzk4869/article/details/157686211)
+
++ [深入理解 ES 词库与 Lucene 倒排索引底层实现](https://blog.csdn.net/weixin_43829708/article/details/157613489)
+
