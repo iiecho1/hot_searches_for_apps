@@ -167,3 +167,7 @@
 
 + [特朗普签署拨款法案 结束政府部分“停摆”](https://news.cctv.com/2026/02/04/ARTIDMosuLb5zTDlD3fJ5jpn260204.shtml)
 
++ [欧盟外长重申坚定支持格陵兰岛和丹麦](https://news.cctv.com/2026/02/04/ARTILBeQxuLJrlrQlYQcBji7260204.shtml)
+
++ [普京：俄罗斯2025年经济增长1% 放缓符合预期](https://news.cctv.com/2026/02/04/ARTIMXmLL9mRvbQuPUi9zzkE260204.shtml)
+
