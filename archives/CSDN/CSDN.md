@@ -143,3 +143,9 @@
 
 + [【开源特斯拉车辆数据管理工具TeslaMate】TeslaMate+cpolar：特斯拉数据远程看，隐私安全两不误](https://blog.csdn.net/qq_44033208/article/details/157650291)
 
++ [【AI大模型舆情分析】微博舆情分析可视化系统(pytorch2+基于BERT大模型训练微调+flask+pandas+echarts) 实战(下)](https://blog.csdn.net/caoli201314/article/details/157653058)
+
++ [Vue 教程 自定义指令 + 生命周期全解析](https://blog.csdn.net/2401_87761610/article/details/157659259)
+
++ [从单点工具到智能流水线：企业级多智能体AI开发工作流架构实战](https://blog.csdn.net/qq_74383080/article/details/157655615)
+
