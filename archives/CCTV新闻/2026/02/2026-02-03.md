@@ -175,3 +175,7 @@
 
 + [美“星链”发射任务火箭第二级出现异常](https://news.cctv.com/2026/02/03/ARTIpsBwbQc7FuiBh6PHBH0J260203.shtml)
 
++ [外交部：强烈谴责瓜达尔港袭击事件](https://news.cctv.com/2026/02/03/ARTInZYv4vdEhyDZKlLl0TGp260203.shtml)
+
++ [韩国一工厂发生火灾 消防部门启动一级响应](https://news.cctv.com/2026/02/03/ARTIU6VLEkQhWrgFbH4Kehio260203.shtml)
+
