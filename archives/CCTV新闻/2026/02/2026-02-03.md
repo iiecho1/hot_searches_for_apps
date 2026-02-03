@@ -193,3 +193,5 @@
 
 + [伊朗首都一家购物中心发生火灾](https://news.cctv.com/2026/02/03/ARTIZmKQF8ovzqlhC4PjnwnM260203.shtml)
 
++ [美载人绕月飞行任务综合演练中止 发射推迟至3月](https://news.cctv.com/2026/02/03/ARTI41SR0c21ETz7oMQwMMLJ260203.shtml)
+

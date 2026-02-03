@@ -201,3 +201,15 @@
 
 + [【开题答辩全过程】以 基于hadoop的新能源汽车数据可视化分析系统为例，包含答辩的问题和答案](https://blog.csdn.net/shiji3076/article/details/157648484)
 
++ [OpenClaw是什么？如何在阿里云上一键部署？超详细实操教程](https://blog.csdn.net/zhujigege/article/details/157591898)
+
++ [springboot整合mybatis和postgresql](https://blog.csdn.net/qq_33479841/article/details/157653882)
+
++ [Vue 导航守卫未生效问题解析：为什么路由守卫不执行或逻辑失效？](https://blog.csdn.net/haohaizi_liu/article/details/157435936)
+
++ [从零开始参与开源：把本地脚本升级为工业级开源项目](https://blog.csdn.net/diandianxiyu/article/details/157660141)
+
++ [Flutter for OpenHarmony：悬浮按钮（FloatingActionButton）最佳实践 —— 强化核心操作，提升用户效率](https://blog.csdn.net/2501_93573368/article/details/157654323)
+
++ [[lighthouse] openclaw接入企业微信，并开启ssl保护](https://blog.csdn.net/u010451950/article/details/157588293)
+
