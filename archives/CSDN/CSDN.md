@@ -213,3 +213,17 @@
 
 + [[lighthouse] openclaw接入企业微信，并开启ssl保护](https://blog.csdn.net/u010451950/article/details/157588293)
 
++ [Python + AI：打造你的智能害虫识别助手](https://blog.csdn.net/2301_81152266/article/details/157620963)
+
++ [金仓赋能：关系数据库替换高效落地，Oracle 平滑迁移](https://blog.csdn.net/lrq13965748542/article/details/157694281)
+
++ [Flutter for OpenHarmony：构建一个 Flutter 旋转迷宫游戏，深入解析网格建模、路径连通性检测与交互式解谜设计](https://blog.csdn.net/2501_94387184/article/details/157657496)
+
++ [Vue3 组件库工程化实战：BEM 命名规范与 useNamespace 深度解析](https://blog.csdn.net/weixin_30980795/article/details/157660243)
+
++ [一文读懂 HTTPS 协议及其工作流程](https://blog.csdn.net/m0_51061408/article/details/157651274)
+
++ [C++基于微服务脚手架的视频点播系统---客户端（1）](https://blog.csdn.net/2301_80863610/article/details/157656460)
+
++ [阿里开源Wan2.2模型全面解析：MoE架构加持，电影级视频生成触手可及](https://blog.csdn.net/weixin_62761878/article/details/157659035)
+
