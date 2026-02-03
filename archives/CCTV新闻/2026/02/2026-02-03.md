@@ -179,3 +179,9 @@
 
 + [韩国一工厂发生火灾 消防部门启动一级响应](https://news.cctv.com/2026/02/03/ARTIU6VLEkQhWrgFbH4Kehio260203.shtml)
 
++ [泽连斯基：俄军以450架无人机和70余枚导弹再袭乌能源目标](https://military.cctv.com/2026/02/03/ARTIPZaxXTjn1zPFXOdfRPFg260203.shtml)
+
++ [韩国一工厂发生火灾 已致3人受伤](https://news.cctv.com/2026/02/03/ARTImxya896B4AKFdL9j8hFW260203.shtml)
+
++ [驻阿拉木图总领馆提醒领区中国公民注意徒步登山等活动安全](https://news.cctv.com/2026/02/03/ARTIdtIKa9Dg8JxMTsvL6D7C260203.shtml)
+
