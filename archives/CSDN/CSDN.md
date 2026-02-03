@@ -101,3 +101,37 @@
 
 + [HTTP/HTTPS 协议深度解析](https://blog.csdn.net/m0_54409739/article/details/157658616)
 
++ [Flutter for OpenHarmony 实战：疯狂头像 App（四）— 通义万相 AIGC 联调与相册持久化实战](https://blog.csdn.net/cannonjinx/article/details/157593283)
+
++ [【MySQL修炼篇】从S锁/X锁到Next-Key Lock：MySQL锁机制硬核拆解](https://blog.csdn.net/m0_58782205/article/details/157648343)
+
++ [【机器学习】标准化流模型（NF）](https://blog.csdn.net/2401_84149564/article/details/157658145)
+
++ [奈飞工厂算法挑战赛：从矩阵分解到深度神经网络，完整复刻Netflix推荐系统](https://blog.csdn.net/u014727709/article/details/157611855)
+
++ [【C++】CPU的局部性原理](https://blog.csdn.net/2301_80064645/article/details/154029365)
+
++ [从HCI报文透视LE Audio重连流程（2）：从服务发现到流控管理](https://blog.csdn.net/weixin_37800531/article/details/157585382)
+
++ [AI插画魔法书：手绘师的洞见](https://blog.csdn.net/weixin_43178406/article/details/157689300)
+
++ [【MySQL】数据分析双剑客：聚合函数 与 group by子句的完美搭配](https://blog.csdn.net/m0_70980326/article/details/157550454)
+
++ [深度学习实战-基于ConvMixer的骨折X光图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157219590)
+
++ [HumanoidPF——让双足人形无碰撞穿越舱门的视觉-运动策略：基于人工势场APF和混合场景建模的全身RL算法](https://blog.csdn.net/v_JULY_v/article/details/157585555)
+
++ [硬件工程师成长之路——知识汇总(持续更新)](https://blog.csdn.net/XU157303764/article/details/153469928)
+
++ [后端-RabbitMQ](https://blog.csdn.net/JavaDestiny/article/details/157659418)
+
++ [【AI大模型舆情分析】微博舆情分析可视化系统(pytorch2+基于BERT大模型训练微调+flask+pandas+echarts) 实战(上)](https://blog.csdn.net/caoli201314/article/details/157617208)
+
++ [Flutter for OpenHarmony 实战：Splendid Movie 现代 UI 架构设计与项目起航](https://blog.csdn.net/jiang_style/article/details/157657721)
+
++ [ElasticSearch系列-2-中文分词器和复合查询与高亮显示](https://blog.csdn.net/meiceatcsdn/article/details/157647475)
+
++ [技术速递｜GitHub Copilot SDK 与混合 AI 实践：README 到 PPT 的自动化转换流程](https://blog.csdn.net/MicrosoftReactor/article/details/157658884)
+
++ [工业场景下AR+AI图像识别：精准选型赋能运维与质检](https://blog.csdn.net/alphalong/article/details/157649721)
+
