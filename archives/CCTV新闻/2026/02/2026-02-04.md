@@ -161,3 +161,9 @@
 
 + [伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期](https://news.cctv.com/2026/02/01/ARTI7fKoihKK7cT4TQ1oy0vI260201.shtml)
 
++ [伊朗外长同多国外长通电话 讨论地区局势](https://news.cctv.com/2026/02/04/ARTIHfAXe9xcqZGeGKvcZ5lj260204.shtml)
+
++ [伊朗：一架无人机在公海执行合法侦察活动时失联](https://news.cctv.com/2026/02/04/ARTILWFyacy70CaEs4mRemDp260204.shtml)
+
++ [特朗普签署拨款法案 结束政府部分“停摆”](https://news.cctv.com/2026/02/04/ARTIDMosuLb5zTDlD3fJ5jpn260204.shtml)
+

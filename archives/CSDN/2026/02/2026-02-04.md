@@ -149,3 +149,7 @@
 
 + [从单点工具到智能流水线：企业级多智能体AI开发工作流架构实战](https://blog.csdn.net/qq_74383080/article/details/157655615)
 
++ [C++之《Effective C++》读书总结(3)](https://blog.csdn.net/Once_day/article/details/157699928)
+
++ [超详细ubuntu22.04部署k8s1.28高可用（一）【多master+keepalived+nginx实现负载均衡】](https://blog.csdn.net/wfcxhit/article/details/157647654)
+
