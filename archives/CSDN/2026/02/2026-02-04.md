@@ -135,3 +135,11 @@
 
 + [工业场景下AR+AI图像识别：精准选型赋能运维与质检](https://blog.csdn.net/alphalong/article/details/157649721)
 
++ [CentOS ISO 本地 Yum 源部署指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/157649140)
+
++ [Flutter for OpenHarmony 实战：Material 容器转换 (Container Transform) — 打造丝滑转场体验](https://blog.csdn.net/cannonjinx/article/details/157659412)
+
++ [Flutter for OpenHarmony 衣橱管家App实战 - 智能推荐实现](https://blog.csdn.net/2501_94444800/article/details/157660761)
+
++ [【开源特斯拉车辆数据管理工具TeslaMate】TeslaMate+cpolar：特斯拉数据远程看，隐私安全两不误](https://blog.csdn.net/qq_44033208/article/details/157650291)
+
