@@ -141,3 +141,11 @@
 
 + [Spark在银行系统ETL中的实战应用：TXT文件到PostgreSQL的余额处理全流程](https://blog.csdn.net/moshowgame/article/details/157621013)
 
++ [Google AI Agent 白皮书拆解（1）：从《Introduction to Agents》看清 Agent 的工程底座](https://blog.csdn.net/zinss26914/article/details/157651278)
+
++ [ODrive0.5.1程序分析1----相电阻和相电感测量](https://blog.csdn.net/AFINT/article/details/157657488)
+
++ [微信小程序学习实录16:从图片上传到身份证OCR识别信息提取全流程实战](https://blog.csdn.net/weixin_41290949/article/details/157617752)
+
++ [【开源特斯拉车辆数据管理工具TeslaMate】TeslaMate+cpolar：特斯拉数据远程看，隐私安全两不误](https://blog.csdn.net/qq_44033208/article/details/157650291)
+

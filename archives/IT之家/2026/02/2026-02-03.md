@@ -25,3 +25,27 @@
 
 + [古尔曼：苹果正准备推出 M5 Pro / Max 款 MacBook Pro，与 macOS Tahoe 26.3 同步上线](https://m.ithome.com/html/918315.htm)
 
++ [全新理想 L9 谍照曝光，取消方向盘小屏](https://m.ithome.com/html/918417.htm)
+
++ [2026 款宝马 5 系 / i5 上市：增配降价，售 36.8 万元起](https://m.ithome.com/html/918415.htm)
+
++ [腾讯内部信回应元宝“春节红包”分享质疑：无门槛领取与平台旨在打击的恶意营销存在本质不同](https://m.ithome.com/html/918555.htm)
+
++ [12306 回应取消订单 3 次当日无法购票：次日零点自动恢复，紧急需求建议亲友代购](https://m.ithome.com/html/918489.htm)
+
++ [Mate 80 系列拍摄：华为马年新春贺岁手机电影《木马》2 月 6 日上映，部分门店提前一天点映](https://m.ithome.com/html/918390.htm)
+
++ [比亚迪全新品牌“领汇”官宣，致力于打造“技术不妥协、价格更亲民”的新能源汽车产品](https://m.ithome.com/html/918493.htm)
+
++ [马上“偷”菜：腾讯《QQ 经典农场》游戏官宣 2 月 6 日回归](https://m.ithome.com/html/918379.htm)
+
++ [消息称内存芯片涨价潮致 2026 行业危机：性价比机停产、新机调涨、部分厂商暂停下代旗舰研发](https://m.ithome.com/html/918569.htm)
+
++ [消息称某 Top5 厂高端旗舰延续双层 OLED+BT.2020、率先商用新一代 OLED，预计为华为 Mate 90 系列](https://m.ithome.com/html/918558.htm)
+
++ [史上电池容量最大苹果手机：iPhone Fold 折叠屏细节曝光，音量键不在机身左侧](https://m.ithome.com/html/918361.htm)
+
++ [小蓝灯上车：小米高寒测试新车亮相，有望为首款增程 SUV“YU9”](https://m.ithome.com/html/918358.htm)
+
++ [苹果封堵 Final Cut Pro“隔空投送”白嫖漏洞，必须使用 App Store 下载](https://m.ithome.com/html/918557.htm)
+
