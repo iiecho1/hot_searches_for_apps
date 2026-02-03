@@ -149,3 +149,25 @@
 
 + [【开源特斯拉车辆数据管理工具TeslaMate】TeslaMate+cpolar：特斯拉数据远程看，隐私安全两不误](https://blog.csdn.net/qq_44033208/article/details/157650291)
 
++ [API网关设计模式实战 Spring Cloud Gateway路由过滤限流深度解析](https://blog.csdn.net/sinat_41617212/article/details/157660386)
+
++ [88万个AI代理在一起泡论坛。内容让我看得毛骨悚然。AI代理数量还在以10分钟10万在增加。](https://blog.csdn.net/ooope/article/details/157588237)
+
++ [React Native for OpenHarmony：构建高性能、高体验的 TextInput 输入表单](https://blog.csdn.net/2302_80329073/article/details/157658797)
+
++ [PostgreSQL 核心原理：大字段（大对象）是如何被压缩和存储的（TOAST存储机制）](https://blog.csdn.net/cui_yonghua/article/details/157643921)
+
++ [计算机网络-网络层](https://blog.csdn.net/2303_76262050/article/details/153113823)
+
++ [面向星载芯片原子钟的RISC-V架构MCU抗辐照特性研究及可靠性分析](https://blog.csdn.net/ANSILIC/article/details/157621025)
+
++ [Everything Claude Code（Anthropic 黑客松冠军开源配置）](https://blog.csdn.net/qq_20042935/article/details/157643418)
+
++ [Vue 教程 自定义指令 + 生命周期全解析](https://blog.csdn.net/2401_87761610/article/details/157659259)
+
++ [嵌入式——时序IIC](https://blog.csdn.net/2501_92777307/article/details/157330487)
+
++ [TCP_IP协议栈深度解析](https://blog.csdn.net/weixin_74137248/article/details/157651507)
+
++ [OpenManus开源自主规划智能体解析](https://blog.csdn.net/Vita_min_C/article/details/157618063)
+

@@ -163,3 +163,13 @@
 
 + [特朗普：莫迪同意不买俄罗斯石油 美国将降低对印关税](https://news.cctv.com/2026/02/03/ARTIMrVsvIapLsGUy5BubNYT260203.shtml)
 
++ [哈马斯：准备移交加沙地带行政机构](https://news.cctv.com/2026/02/03/ARTInzvBD9G4LwcdO29Ez8ke260203.shtml)
+
++ [克林顿夫妇同意就爱泼斯坦案调查作证](https://news.cctv.com/2026/02/03/ARTIUhQ861TXAABTDREIr9yK260203.shtml)
+
++ [C919、C909联袂亮相新加坡航展](https://news.cctv.com/2026/02/03/ARTIVNupJSuNb9JOClYQ9ADs260203.shtml)
+
++ [国际人士：日本首相错误言论威胁二战后国际秩序](https://news.cctv.com/2026/02/03/ARTIXqxZKrtRqn8ClV6UVss8260203.shtml)
+
++ [以军总参谋长：以军正处于“不断提升战备水平时期”](https://news.cctv.com/2026/02/03/ARTIVakNfCgz1JQzyqQ2tkup260203.shtml)
+
