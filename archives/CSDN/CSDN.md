@@ -223,3 +223,7 @@
 
 + [数据可视化高级技巧：Matplotlib + Seaborn实战大全](https://blog.csdn.net/sinat_41617212/article/details/157696690)
 
++ [【教程4＞第10章＞第4节】基于FPGA的图像直方图提取——仿真测试以及MATLAB辅助验证](https://blog.csdn.net/ccsss22/article/details/157737785)
+
++ [分享一套优质的基于Python的房屋数据分析预测系统(scikit-learn机器学习+Flask)](https://blog.csdn.net/caoli201314/article/details/157688510)
+
