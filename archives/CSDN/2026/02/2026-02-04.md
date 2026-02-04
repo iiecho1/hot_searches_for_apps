@@ -195,3 +195,15 @@
 
 + [深入剖析 Vue 中 computed 和 watch 的区别](https://blog.csdn.net/weixin_42554191/article/details/157467723)
 
++ [【花雕学编程】Arduino BLDC 之基于PID控制的关节角度闭环机器人](https://blog.csdn.net/weixin_41659040/article/details/157686405)
+
++ [PostgreSQL 核心原理：如何防止事务ID回卷？（Wraparound）](https://blog.csdn.net/cui_yonghua/article/details/157684602)
+
++ [React Native for OpenHarmony：深入剖析 Switch 组件的状态绑定、无障碍与样式定制](https://blog.csdn.net/2302_80329073/article/details/157668689)
+
++ [K8S 部署 CoreDNS 之 DNS 域名获取](https://blog.csdn.net/liu_chen_yang/article/details/157694074)
+
++ [把 SAP ABAP BDC 跑得又快又稳：从 SHDB 录屏到可上线的批量上传程序（含 MM01 案例与源码）](https://blog.csdn.net/i042416/article/details/156269374)
+
++ [嵌入模型（Embedding）的全方位指南](https://blog.csdn.net/nplplus/article/details/157690486)
+
