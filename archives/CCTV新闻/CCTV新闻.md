@@ -221,3 +221,9 @@
 
 + [受高铁事故影响 西班牙国家铁路公司暂停30辆高速列车招标](https://news.cctv.com/2026/02/04/ARTIQYLUQ4eYGNzw7Yox9jeJ260204.shtml)
 
++ [通讯丨用中文课堂“架起”中白友谊桥](https://news.cctv.com/2026/02/04/ARTIDlQCGpCDEcDVPSNaApjU260204.shtml)
+
++ [全球瞭望｜上合组织前秘书长：上合组织的实践展现新的安全合作模式](https://news.cctv.com/2026/02/04/ARTIyivZ7B6jh77x6oEguKD3260204.shtml)
+
++ [新西兰克马德克群岛发生6.0级地震，震源深度190千米](https://news.cctv.com/2026/02/04/ARTIXLNzdPvSXfLL3jP8Oifg260204.shtml)
+
