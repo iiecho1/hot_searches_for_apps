@@ -199,3 +199,5 @@
 
 + [限期4月底前全国电诈“清零”！柬埔寨启动史上最大清剿行动](https://news.cctv.com/2026/02/04/ARTI4VegP6Myu4wqC7LHBsDk260204.shtml)
 
++ [菲律宾南部沉船事故死亡人数升至45人](https://news.cctv.com/2026/02/04/ARTIzhjmGZArQTqD46hatSY6260204.shtml)
+

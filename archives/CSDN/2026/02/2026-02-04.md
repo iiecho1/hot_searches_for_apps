@@ -185,3 +185,11 @@
 
 + [使用开源三件套OpenClaw+Ollama+1Panel部署7×24运行](https://blog.csdn.net/xdpcxq/article/details/157698037)
 
++ [【Mybatis】动态SQL与留言板小项目](https://blog.csdn.net/2301_81614213/article/details/157645941)
+
++ [ARM Linux 驱动开发篇----Linux驱动开发与裸机开发的区别---- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/157699328)
+
++ [谁在让Linux流畅运行Windows软件？这支中国团队跑了十年](https://blog.csdn.net/2401_89105749/article/details/157691241)
+
++ [全球AGI实验室梯队标准清单（2026）](https://blog.csdn.net/weixin_50059478/article/details/157721957)
+
