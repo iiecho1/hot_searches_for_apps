@@ -211,3 +211,5 @@
 
 + [中国驻埃及使馆提醒中国公民切勿非法滞留和非法务工](https://news.cctv.com/2026/02/04/ARTIMPrWtJFDWUMoBP8Y71Yn260204.shtml)
 
++ [美联储现主席被查 恐致下任主席难就任](https://news.cctv.com/2026/02/04/ARTIK26rNxS5Frr9Bgu6uwCj260204.shtml)
+

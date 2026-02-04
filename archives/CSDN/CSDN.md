@@ -207,3 +207,5 @@
 
 + [嵌入模型（Embedding）的全方位指南](https://blog.csdn.net/nplplus/article/details/157690486)
 
++ [OpenClaw 完整搭建指南：从零开始打造你的 AI 助手](https://blog.csdn.net/Honmaple/article/details/157693749)
+
