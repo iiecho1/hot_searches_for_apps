@@ -203,3 +203,11 @@
 
 + [菲律宾东内格罗斯省发生一起车祸 致9人死亡](https://news.cctv.com/2026/02/04/ARTIXF7HWeo7AKGsHBnUjv0q260204.shtml)
 
++ [克林顿夫妇“举起白旗” 将就爱泼斯坦案赴国会作证](https://news.cctv.com/2026/02/04/ARTIdEGILCdy6GaMzVHXWTFO260204.shtml)
+
++ [世卫组织：全球近40%的癌症病例可预防](https://news.cctv.com/2026/02/04/ARTIhDWb9CnYEvdlNiF2K8Ey260204.shtml)
+
++ [美媒：关税抑制美国就业增长步伐 致大量岗位流失](https://news.cctv.com/2026/02/04/ARTIfmI6VKzsKrG2xyEh7YKT260204.shtml)
+
++ [中国驻埃及使馆提醒中国公民切勿非法滞留和非法务工](https://news.cctv.com/2026/02/04/ARTIMPrWtJFDWUMoBP8Y71Yn260204.shtml)
+
