@@ -193,3 +193,9 @@
 
 + [挖掘增长潜力，释放合作动能——中乌携手共拓经贸发展新机遇](https://news.cctv.com/2026/02/04/ARTImvupqEzD10AhWUZKtoxa260204.shtml)
 
++ [伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标](https://military.cctv.com/2026/02/04/ARTIXDAoZ5U5OFNNQYwPFHFF260204.shtml)
+
++ [印尼塞梅鲁火山三小时内接连喷发7次](https://news.cctv.com/2026/02/04/ARTIO7Yuj36eZRarKZUduxFJ260204.shtml)
+
++ [限期4月底前全国电诈“清零”！柬埔寨启动史上最大清剿行动](https://news.cctv.com/2026/02/04/ARTI4VegP6Myu4wqC7LHBsDk260204.shtml)
+

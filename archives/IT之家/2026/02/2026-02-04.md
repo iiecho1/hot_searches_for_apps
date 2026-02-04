@@ -49,3 +49,5 @@
 
 + [微信鸿蒙版 App 朋友圈评论区照片功能小规模灰度](https://m.ithome.com/html/918870.htm)
 
++ [HUAWEI Kirin X90！华为 MateBook Pro 鸿蒙电脑发布近 9 个月后首曝处理器型号](https://m.ithome.com/html/918953.htm)
+

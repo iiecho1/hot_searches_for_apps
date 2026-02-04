@@ -171,3 +171,17 @@
 
 + [【Linux之旅】Linux 动静态库与 ELF 加载全解析：从制作到底层原理](https://blog.csdn.net/2302_80243065/article/details/157699132)
 
++ [基于 Java 实现数九天精准计算：从节气算法到工程化落地](https://blog.csdn.net/yelangkingwuzuhu/article/details/157660401)
+
++ [HarmonyOS PC 焦点系统的正确建模方式](https://blog.csdn.net/qq_36863796/article/details/157658271)
+
++ [Elasticsearch：使用 Elastic Workflows 构建自动化](https://blog.csdn.net/UbuntuTouch/article/details/157726149)
+
++ [第二十一届全国大学生智能汽车竞赛 人工智能模型组赛题规则手册（省赛/区域赛）](https://blog.csdn.net/zhuoqingjoking97298/article/details/157722712)
+
++ [Flutter for OpenHarmony：深色模式下的 UI 优化技巧 —— 构建舒适、可读、无障碍的夜间体验](https://blog.csdn.net/2501_93573368/article/details/157655083)
+
++ [我用5款远程软件连续测试12小时，ToDesk凭什么力压群雄？](https://blog.csdn.net/qq_73017178/article/details/157659096)
+
++ [使用开源三件套OpenClaw+Ollama+1Panel部署7×24运行](https://blog.csdn.net/xdpcxq/article/details/157698037)
+
