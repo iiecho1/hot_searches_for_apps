@@ -201,3 +201,5 @@
 
 + [菲律宾南部沉船事故死亡人数升至45人](https://news.cctv.com/2026/02/04/ARTIzhjmGZArQTqD46hatSY6260204.shtml)
 
++ [菲律宾东内格罗斯省发生一起车祸 致9人死亡](https://news.cctv.com/2026/02/04/ARTIXF7HWeo7AKGsHBnUjv0q260204.shtml)
+
