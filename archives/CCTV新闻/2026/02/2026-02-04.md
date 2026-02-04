@@ -171,3 +171,25 @@
 
 + [普京：俄罗斯2025年经济增长1% 放缓符合预期](https://news.cctv.com/2026/02/04/ARTIMXmLL9mRvbQuPUi9zzkE260204.shtml)
 
++ [两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？](https://news.cctv.com/2026/02/04/ARTIBDckHxdIcRns0MOmvLEg260204.shtml)
+
++ [印尼西爪哇省发生连环车祸 造成3死2伤](https://news.cctv.com/2026/02/04/ARTIKdJcLQfA54M2ZXAEWbW6260204.shtml)
+
++ [古巴气温降至冰点打破纪录](https://news.cctv.com/2026/02/04/ARTIkzZmYGZgGoeQl5rnrFYb260204.shtml)
+
++ [巴西东北部客车侧翻致16人死亡](https://news.cctv.com/2026/02/04/ARTI5vp71ZN65dzsNMLehqta260204.shtml)
+
++ [国际贵金属价格持续反弹 金价重回5000美元](https://jingji.cctv.com/2026/02/04/ARTIUEQTEj1E4f8eGeS6y3Jc260204.shtml)
+
++ [特朗普政府被曝同意与伊朗在阿曼举行谈判](https://news.cctv.com/2026/02/04/ARTI8JYx1swgvnfLpNHU4ybe260204.shtml)
+
++ [美媒：特朗普政府同意与伊朗在阿曼举行谈判](https://news.cctv.com/2026/02/04/ARTIHleUciHDESNsSAe3Kpy3260204.shtml)
+
++ [北约启动“北极哨兵”军事计划加强北极警戒](https://military.cctv.com/2026/02/04/ARTItpbzbTrf7fG5IxkySCvs260204.shtml)
+
++ [第十届新加坡航展开幕](https://photo.cctv.com/2026/02/04/PHOAtqMXK6tD6M2TkLqBM7mg260204.shtml)
+
++ [新华时评｜单边霸凌倒行逆施、不得人心](https://news.cctv.com/2026/02/04/ARTI5TarnO4BhsLgaeDTd4aZ260204.shtml)
+
++ [挖掘增长潜力，释放合作动能——中乌携手共拓经贸发展新机遇](https://news.cctv.com/2026/02/04/ARTImvupqEzD10AhWUZKtoxa260204.shtml)
+

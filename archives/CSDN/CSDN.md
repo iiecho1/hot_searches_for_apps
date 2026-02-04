@@ -155,3 +155,19 @@
 
 + [怎样在低功耗蓝牙音频Le Audio识别出来一对TWS耳机？CSIP/CSIS(协调组识别)功能加持buff](https://blog.csdn.net/XiaoXiaoPengBo/article/details/157698965)
 
++ [Flutter for OpenHarmony 流体气泡模拟器：用物理引擎与粒子系统打造沉浸式交互体验](https://blog.csdn.net/2501_93573294/article/details/157659931)
+
++ [2026四款AI插件开发快速上手](https://blog.csdn.net/like0907/article/details/157646471)
+
++ [Flutter for OpenHarmony 实战：共享轴过渡 (Shared Axis) — 构建有逻辑的 UI 流](https://blog.csdn.net/cannonjinx/article/details/157659654)
+
++ [Transformer实战（35）——跨语言相似性任务](https://blog.csdn.net/LOVEmy134611/article/details/148013097)
+
++ [【Qt开发】Qt系统（十二）-＞ Qt视频](https://blog.csdn.net/weixin_74809706/article/details/157546214)
+
++ [nethogs 与 iftop 网络监控工具实战指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/157699563)
+
++ [【 Vue】 Vue3全面讲解文档](https://blog.csdn.net/weixin_75257080/article/details/157697055)
+
++ [【Linux之旅】Linux 动静态库与 ELF 加载全解析：从制作到底层原理](https://blog.csdn.net/2302_80243065/article/details/157699132)
+

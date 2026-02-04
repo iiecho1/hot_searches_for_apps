@@ -25,3 +25,15 @@
 
 + [我不理解几乎所有 SSH 加固都提到配置公钥](https://www.v2ex.com/t/1190517)
 
++ [评论抽奖，福利第三天，五常大米](https://www.v2ex.com/t/1190560)
+
++ [平时上班早餐吃什么](https://www.v2ex.com/t/1190577)
+
++ [有没有又快又稳的🐓场](https://www.v2ex.com/t/1190581)
+
++ [过年期间需要将远程桌面暴露在公网](https://www.v2ex.com/t/1190386)
+
++ [混电车不省油也不省钱](https://www.v2ex.com/t/1190568)
+
++ [Claude5 要来了...真的感到太快了](https://www.v2ex.com/t/1190464)
+
