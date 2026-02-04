@@ -213,3 +213,11 @@
 
 + [美联储现主席被查 恐致下任主席难就任](https://news.cctv.com/2026/02/04/ARTIK26rNxS5Frr9Bgu6uwCj260204.shtml)
 
++ [英国一大学校园附近发生“严重事件”](https://news.cctv.com/2026/02/04/ARTIBqtilr2V1Dhf1RFnHa2p260204.shtml)
+
++ [新一轮乌美俄三方会谈在阿布扎比开始举行](https://news.cctv.com/2026/02/04/ARTIdR4nd9DdMrhQIAFn4QwJ260204.shtml)
+
++ [“猎鹰9”火箭暂停发射或影响美载人航天发射安排](https://news.cctv.com/2026/02/04/ARTIZ4Oj8xdvD17i6whxz6mU260204.shtml)
+
++ [受高铁事故影响 西班牙国家铁路公司暂停30辆高速列车招标](https://news.cctv.com/2026/02/04/ARTIQYLUQ4eYGNzw7Yox9jeJ260204.shtml)
+
