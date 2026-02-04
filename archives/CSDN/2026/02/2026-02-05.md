@@ -109,3 +109,19 @@
 
 + [谁在让Linux流畅运行Windows软件？这支中国团队跑了十年](https://blog.csdn.net/2401_89105749/article/details/157691241)
 
++ [深度学习实战-基于ConvMixer的骨折X光图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157219590)
+
++ [HarmonyOS 应用开发实战：高精图像处理与头像裁剪持久化技术深度解析](https://blog.csdn.net/m0_66062719/article/details/157659693)
+
++ [从零手写Transformer：基于每一步shape变化拆解与PyTorch实现](https://blog.csdn.net/Network_Engineer/article/details/157700537)
+
++ [从RNN到LSTM：循环神经网络的进化之路](https://blog.csdn.net/sunxuehai1/article/details/157700572)
+
++ [【Linux】文件系统核心（二）：深入 Ext2 底层：Block Group 结构 + inode 索引，轻松锁定文件的增删改查](https://blog.csdn.net/Miun123/article/details/157583455)
+
++ [【AI大模型舆情分析】微博舆情分析可视化系统(pytorch2+基于BERT大模型训练微调+flask+pandas+echarts) 实战(下)](https://blog.csdn.net/caoli201314/article/details/157653058)
+
++ [一文读懂 HTTPS 协议及其工作流程](https://blog.csdn.net/m0_51061408/article/details/157651274)
+
++ [第八章：Redis底层原理深度详细解析](https://blog.csdn.net/2403_88453964/article/details/157646449)
+
