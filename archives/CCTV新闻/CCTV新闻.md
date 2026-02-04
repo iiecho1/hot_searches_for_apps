@@ -161,3 +161,11 @@
 
 + [美路易斯安那州发生枪击事件 两名青少年受到指控](https://news.cctv.com/2026/02/02/ARTIVpp7pcajAPwfmi0FO7p3260202.shtml)
 
++ [以军称打死一名杰哈德高级指挥官](https://news.cctv.com/2026/02/05/ARTIEaLvie5bOFZ7t9UlDv1b260205.shtml)
+
++ [中东多国紧急游说 美国恢复原定于6日举行的美伊谈判](https://news.cctv.com/2026/02/05/ARTI5uBGR0R47tAUTmDZh0s8260205.shtml)
+
++ [泽连斯基：三方谈判将继续 预计很快会交换战俘](https://news.cctv.com/2026/02/05/ARTIfw11I9TxmJFhL5nkHvPa260205.shtml)
+
++ [伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行](https://news.cctv.com/2026/02/05/ARTITICSGEJ05mTE5eNZv8lE260205.shtml)
+
