@@ -153,3 +153,5 @@
 
 + [超详细ubuntu22.04部署k8s1.28高可用（一）【多master+keepalived+nginx实现负载均衡】](https://blog.csdn.net/wfcxhit/article/details/157647654)
 
++ [怎样在低功耗蓝牙音频Le Audio识别出来一对TWS耳机？CSIP/CSIS(协调组识别)功能加持buff](https://blog.csdn.net/XiaoXiaoPengBo/article/details/157698965)
+
