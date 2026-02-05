@@ -163,3 +163,7 @@
 
 + [淘宝闪购基于阿里云 EMR Serverless Spark&Paimon 的湖仓实践：超大规模下的特征生产&多维分析双提效](https://blog.csdn.net/weixin_48534929/article/details/157696304)
 
++ [【MySQL飞升篇】分库分表避坑指南：垂直分库vs水平分表，分片键选对才不踩雷](https://blog.csdn.net/m0_58782205/article/details/157734773)
+
++ [【RAG技术】- RAG系统调优手段之高效召回（通俗易懂附案例）](https://blog.csdn.net/zxc18344522713/article/details/157760925)
+
