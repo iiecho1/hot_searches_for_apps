@@ -211,3 +211,9 @@
 
 + [美国要求以色列在美伊会谈期间“避免单方面军事行动”](https://news.cctv.com/2026/02/05/ARTIcjikAkdjoCWp3WqTM7MP260205.shtml)
 
++ [斯塔默：前驻美大使背叛国家 我后悔任命他](https://news.cctv.com/2026/02/05/ARTIC1p2jVoohWPBMv2DVVsv260205.shtml)
+
++ [埃尔多安：土方坚决反对任何针对伊朗的军事行动](https://news.cctv.com/2026/02/05/ARTIz8DHG7NgkgZEAQot78ls260205.shtml)
+
++ [泰方称柬向泰境内发射榴弹 柬国防部予以否认](https://news.cctv.com/2026/02/05/ARTIBZzXskNPbcwNzOSJlP1G260205.shtml)
+
