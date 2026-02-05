@@ -171,3 +171,9 @@
 
 + [减少对美依赖，加拿大的战略转身？](https://news.cctv.com/2026/02/05/ARTIlagSKUN97Lumn4B7s0bw260205.shtml)
 
++ [俄大使：俄罗斯将继续向古巴供应石油](https://news.cctv.com/2026/02/05/ARTI8CGUnlUWIcYREsiYFTi1260205.shtml)
+
++ [破纪录 伦勃朗素描画作拍出1270万欧元高价](https://news.cctv.com/2026/02/05/ARTIv40hNmNh1ufclwR3WD3F260205.shtml)
+
++ [美国一大学发生一氧化碳泄漏事件 200余人接受医疗检查](https://news.cctv.com/2026/02/05/ARTIUCnwdyEfYimzSka1NMzD260205.shtml)
+

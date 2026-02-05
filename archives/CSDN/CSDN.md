@@ -135,3 +135,21 @@
 
 + [RabbitMQ - 第一个 Hello World 程序：SpringBoot 版极简集成](https://blog.csdn.net/qq_41187124/article/details/157439079)
 
++ [【Linux】库制作与原理（一）：静态库的制作与使用](https://blog.csdn.net/2401_86326742/article/details/157726083)
+
++ [分布式配置中心终极对决 Spring Cloud Config与Apollo架构深度解析](https://blog.csdn.net/sinat_41617212/article/details/157736493)
+
++ [从 0 到 1 构建企业智能体平台：openJiuwen 架构解析与智能客服工作流实战](https://blog.csdn.net/master_hunter/article/details/157734670)
+
++ [关系数据库替换用金仓：从 Oracle 到 KingbaseES 的迁移实战](https://blog.csdn.net/2302_78391795/article/details/157723859)
+
++ [React Native鸿蒙跨平台实战：从项目初始化到开源交付完整指南](https://blog.csdn.net/2301_81152266/article/details/157699249)
+
++ [无人机数据集汇总无人机拍摄各个方面检测分割数据集合集](https://blog.csdn.net/FL1623863129/article/details/157736969)
+
++ [去年未及星光处，今岁幸得众相扶——2025博客之星年度评选41名感恩](https://blog.csdn.net/RenGJ010617/article/details/157631622)
+
++ [ASP.NET路由类型约束核心精讲：[HttpGet (“{id:int}“)] 整数约束吃透，附避坑指南 + 实战代码](https://blog.csdn.net/William_cl/article/details/157699738)
+
++ [Daggr：介于 Gradio 和 ComfyUI 之间的 AI 工作流可视化方案](https://blog.csdn.net/m0_46510245/article/details/157736964)
+
