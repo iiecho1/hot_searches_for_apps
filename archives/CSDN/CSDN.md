@@ -191,3 +191,9 @@
 
 + [【黑马点评实战篇|第一篇:基于Redis实现登录】](https://blog.csdn.net/2504_94294476/article/details/157686848)
 
++ [OpenClaw国内大模型配置指南：MiniMax、GLM、Kimi、Qwen全攻略](https://blog.csdn.net/weixin_45110225/article/details/157724298)
+
++ [计算机视觉opencv之人脸识别1](https://blog.csdn.net/2201_75573294/article/details/157651735)
+
++ [基于 Vue 3 构建企业级 Web Components 组件库](https://blog.csdn.net/a2274001782/article/details/157735070)
+

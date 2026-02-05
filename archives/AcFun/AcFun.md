@@ -131,3 +131,7 @@
 
 + [我有一句mmp不止当讲不当讲](https://m.acfun.cn/v/?ac=48239365)
 
++ [【东方】每一章都是最终决战 - 东方红魔乡Boss组曲【Entity  KIMU  Remix】](https://m.acfun.cn/v/?ac=48249424)
+
++ [粉嫩小娇娘，抓到请你吃喜糖](https://m.acfun.cn/v/?ac=48216264)
+
