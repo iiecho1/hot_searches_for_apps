@@ -197,3 +197,7 @@
 
 + [基于 Vue 3 构建企业级 Web Components 组件库](https://blog.csdn.net/a2274001782/article/details/157735070)
 
++ [一次 GLM-4.7 的 MaaS 接入实践：Dify 工作流搭建笔记](https://blog.csdn.net/2301_76341691/article/details/157774693)
+
++ [【GitHub开源AI精选】Live Avatar：阿里巴巴联合高校开源的实时音频驱动数字人生成系统](https://blog.csdn.net/xiaobing259/article/details/157645655)
+
