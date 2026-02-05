@@ -101,3 +101,25 @@
 
 + [【GitHub开源AI精选】Live Avatar：阿里巴巴联合高校开源的实时音频驱动数字人生成系统](https://blog.csdn.net/xiaobing259/article/details/157645655)
 
++ [数字人技术实战：从零构建实时交互式AI虚拟人系统](https://blog.csdn.net/2401_86326742/article/details/157725871)
+
++ [【LE Audio】BAP协议精讲[8]: Scan Delegator——广播音频扫描卸载的核心角色](https://blog.csdn.net/weixin_37800531/article/details/157660387)
+
++ [JAVA进阶之路——网络通信的层级密码：Socket切入，理解TCP与HTTP协议](https://blog.csdn.net/2302_81032013/article/details/157732636)
+
++ [深度学习实战-基于ConvMixer的骨折X光图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157219590)
+
++ [华为OD技术面真题 - Mysql相关 - 4](https://blog.csdn.net/qq_45776114/article/details/157737043)
+
++ [C++基于微服务脚手架的视频点播系统---客户端（2）](https://blog.csdn.net/2301_80863610/article/details/157696555)
+
++ [【Spring 事务】核心概念与实战：从手动控制到注解自动事务](https://blog.csdn.net/whxcmy/article/details/157694334)
+
++ [nethogs 与 iftop 网络监控工具实战指南](https://blog.csdn.net/hezuijiudexiaobai/article/details/157699563)
+
++ [内网穿透的应用-Ratel 斗地主服务器 + cpolar内网穿透，随时随地组局玩](https://blog.csdn.net/weixin_42878111/article/details/157770017)
+
++ [深度剖析搜索引擎CIRS架构实现千亿级网页检索优化机制](https://blog.csdn.net/2301_77485708/article/details/157764030)
+
++ [Linux学习：进程信号](https://blog.csdn.net/2401_89119815/article/details/157426039)
+
