@@ -173,3 +173,9 @@
 
 + [Spring AI：Java开发者的人工智能集成利器](https://blog.csdn.net/u010398771/article/details/157652648)
 
++ [如何解决PowerShell执行Invoke-WebRequest报Invalid URL和CommandNotFound全流程](https://blog.csdn.net/qq_44866828/article/details/157766402)
+
++ [C++基于微服务脚手架的视频点播系统---客户端（2）](https://blog.csdn.net/2301_80863610/article/details/157696555)
+
++ [实战指南：将 OpenClaw 集成至飞书，构建自动化办公智能体](https://blog.csdn.net/weixin_40505137/article/details/157731630)
+

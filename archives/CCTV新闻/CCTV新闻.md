@@ -197,3 +197,7 @@
 
 + [外媒：美国一警用直升机在亚利桑那州北部坠毁](https://news.cctv.com/2026/02/05/ARTIWlGklHpDA2tsUrXbP0Mo260205.shtml)
 
++ [哈萨克斯坦发生4.5级地震，震源深度20千米](https://news.cctv.com/2026/02/05/ARTInG6T3qAAqW5M1GoB4vnY260205.shtml)
+
++ [中国驻俄罗斯使馆提醒中国公民注意涉冰雪活动安全](https://news.cctv.com/2026/02/05/ARTIl9e7r8Y3avn2MclCG1LS260205.shtml)
+
