@@ -167,3 +167,9 @@
 
 + [【RAG技术】- RAG系统调优手段之高效召回（通俗易懂附案例）](https://blog.csdn.net/zxc18344522713/article/details/157760925)
 
++ [PostgreSQL 核心原理：一文掌握数据库的热数据缓存池（共享缓冲区）](https://blog.csdn.net/cui_yonghua/article/details/157738111)
+
++ [OpenClaw + Antigravity 本地 AI 配置完整教程](https://blog.csdn.net/xianyu120/article/details/157766222)
+
++ [Spring AI：Java开发者的人工智能集成利器](https://blog.csdn.net/u010398771/article/details/157652648)
+

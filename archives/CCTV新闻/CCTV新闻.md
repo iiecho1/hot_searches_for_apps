@@ -183,3 +183,9 @@
 
 + [从“摸象”到“看清全象”，认识一个真实的中国](https://news.cctv.com/2026/02/05/ARTImFXu9E3BDa3RlK9hQWeQ260205.shtml)
 
++ [日本冲绳又现美军基地污染物外泄证据](https://news.cctv.com/2026/02/05/ARTIEkLg20DxiwN5NG0j5PRG260205.shtml)
+
++ [以色列安全内阁定于5日召开会议](https://news.cctv.com/2026/02/05/ARTI8ivsTIGkyoULLoBz7hDW260205.shtml)
+
++ [南非将该国三省干旱及供水危机认定为“国家灾难”](https://news.cctv.com/2026/02/05/ARTIwYQfJLQkjmMjif2DHrL9260205.shtml)
+
