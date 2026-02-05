@@ -73,3 +73,5 @@
 
 + [【4K MMD】萌即正义 可爱ままま式MIKU酱「SLoWMoTIoN」](https://m.acfun.cn/v/?ac=48250795)
 
++ [收到偶像Rurutia的生日定制祝福激动到崩溃大哭的1001](https://m.acfun.cn/v/?ac=48251774)
+
