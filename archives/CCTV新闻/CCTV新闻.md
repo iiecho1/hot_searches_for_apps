@@ -189,3 +189,11 @@
 
 + [南非将该国三省干旱及供水危机认定为“国家灾难”](https://news.cctv.com/2026/02/05/ARTIwYQfJLQkjmMjif2DHrL9260205.shtml)
 
++ [受雨雪冰冻天气影响 德国柏林机场暂停所有航班起飞](https://news.cctv.com/2026/02/05/ARTIJzAHgtgxx0vbEyttzi4D260205.shtml)
+
++ [俄美乌三方会谈第二日谈判已开始](https://news.cctv.com/2026/02/05/ARTIbrDu2BlbdxAsDXWzpFPz260205.shtml)
+
++ [巴基斯坦俾路支省反恐行动打死216名恐怖分子](https://news.cctv.com/2026/02/05/ARTIuZZtIgcEyksZWm7tuQR9260205.shtml)
+
++ [外媒：美国一警用直升机在亚利桑那州北部坠毁](https://news.cctv.com/2026/02/05/ARTIWlGklHpDA2tsUrXbP0Mo260205.shtml)
+
