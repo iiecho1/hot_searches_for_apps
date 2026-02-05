@@ -209,3 +209,5 @@
 
 + [欧盟委员会投资3.47亿欧元加强海底电缆安全](https://news.cctv.com/2026/02/05/ARTIGCFQFzUO54NbGkLKtcM4260205.shtml)
 
++ [美国要求以色列在美伊会谈期间“避免单方面军事行动”](https://news.cctv.com/2026/02/05/ARTIcjikAkdjoCWp3WqTM7MP260205.shtml)
+

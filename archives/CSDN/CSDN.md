@@ -183,3 +183,9 @@
 
 + [【Openclaw一键本地部署接入豆包】](https://blog.csdn.net/vor234/article/details/157700260)
 
++ [对比一下RabbitMQ和RocketMQ](https://blog.csdn.net/he_co/article/details/157660729)
+
++ [Flutter for OpenHarmony 实战：记忆翻牌游戏完整开发指南](https://blog.csdn.net/2502_91523773/article/details/157764807)
+
++ [.net也可以用Electron开发跨平台的桌面程序了](https://blog.csdn.net/qqqqqqqqqq198968/article/details/157769238)
+
