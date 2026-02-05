@@ -47,3 +47,7 @@
 
 + [携程还是被罚少了, 春节车票附加费套路, 你踩坑了吗](https://www.v2ex.com/t/1190839)
 
++ [建议给所有需要公网暴露的 web 服务套一层 authelia](https://www.v2ex.com/t/1190896)
+
++ [2026 年了，为什么我依然认为 Rust 是过度设计，而 Golang 才是工程界的终极答案？](https://www.v2ex.com/t/1190921)
+
