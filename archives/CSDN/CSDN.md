@@ -129,3 +129,7 @@
 
 + [MySQL -＞ Canal -＞ Kafka-＞ ES 完整数据同步流程详解](https://blog.csdn.net/qq_37182070/article/details/157691800)
 
++ [2026远程桌面安全白皮书：ToDesk/TeamViewer/向日葵核心安全性与合规性横向测评](https://blog.csdn.net/chenlycly/article/details/157777225)
+
++ [ABB 机器人、PLC 与 C# 上位机全套程序开发实践](https://blog.csdn.net/TCtvmTLXe/article/details/157730699)
+

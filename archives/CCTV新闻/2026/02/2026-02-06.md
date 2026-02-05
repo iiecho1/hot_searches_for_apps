@@ -161,3 +161,7 @@
 
 + [国际人士：日本首相错误言论威胁二战后国际秩序](https://news.cctv.com/2026/02/03/ARTIXqxZKrtRqn8ClV6UVss8260203.shtml)
 
++ [特朗普：《新削减战略武器条约》应被改进而非延长](https://news.cctv.com/2026/02/06/ARTIkef1VVrJHuZSE92mmRAK260206.shtml)
+
++ [泽连斯基：乌美俄下一轮阿布扎比会谈将很快举行](https://news.cctv.com/2026/02/06/ARTIStghHGi3ayG2n4DXnwnw260206.shtml)
+
