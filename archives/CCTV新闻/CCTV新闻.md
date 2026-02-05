@@ -201,3 +201,11 @@
 
 + [中国驻俄罗斯使馆提醒中国公民注意涉冰雪活动安全](https://news.cctv.com/2026/02/05/ARTIl9e7r8Y3avn2MclCG1LS260205.shtml)
 
++ [俄罗斯宣布德国驻俄使馆一外交官为“不受欢迎的人”](https://news.cctv.com/2026/02/05/ARTIzWfbZNFJ1kXbbI9aPV0F260205.shtml)
+
++ [今年第2号台风“西望洋”将登陆菲律宾东南部沿海](https://news.cctv.com/2026/02/05/ARTIoH5dqkp1DJSFbLkHgxbD260205.shtml)
+
++ [格陵兰岛经历有史以来最暖1月份](https://news.cctv.com/2026/02/05/ARTIqgY9IvrKcFedIrpxwOcP260205.shtml)
+
++ [欧盟委员会投资3.47亿欧元加强海底电缆安全](https://news.cctv.com/2026/02/05/ARTIGCFQFzUO54NbGkLKtcM4260205.shtml)
+

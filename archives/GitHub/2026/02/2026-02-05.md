@@ -37,3 +37,17 @@
 
 + [likec4/likec4](https://github.com/likec4/likec4)
 
++ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
++ [j178/prek](https://github.com/j178/prek)
+
++ [topoteretes/cognee](https://github.com/topoteretes/cognee)
+
++ [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
++ [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
+
++ [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+
++ [ZeroTworu/anet](https://github.com/ZeroTworu/anet)
+

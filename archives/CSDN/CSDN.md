@@ -179,3 +179,7 @@
 
 + [实战指南：将 OpenClaw 集成至飞书，构建自动化办公智能体](https://blog.csdn.net/weixin_40505137/article/details/157731630)
 
++ [MSSQL Always On Availability Group 验证测试报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/157765310)
+
++ [【Openclaw一键本地部署接入豆包】](https://blog.csdn.net/vor234/article/details/157700260)
+
