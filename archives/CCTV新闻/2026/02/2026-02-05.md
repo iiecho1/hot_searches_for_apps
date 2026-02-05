@@ -169,3 +169,5 @@
 
 + [伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行](https://news.cctv.com/2026/02/05/ARTITICSGEJ05mTE5eNZv8lE260205.shtml)
 
++ [减少对美依赖，加拿大的战略转身？](https://news.cctv.com/2026/02/05/ARTIlagSKUN97Lumn4B7s0bw260205.shtml)
+
