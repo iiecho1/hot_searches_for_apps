@@ -163,3 +163,5 @@
 
 + [巴基斯坦清真寺爆炸事件已致32人死亡](https://news.cctv.com/2026/02/07/ARTIZBcSTmAizgAh9QLWcMUT260207.shtml)
 
++ [高端访谈丨专访阿拉伯国家联盟秘书长盖特](https://people.cctv.com/2026/02/07/ARTIcTilCjkIxWS1i6BkCyjV260207.shtml)
+
