@@ -173,3 +173,9 @@
 
 + [从零开始学Flink：状态管理与容错机制](https://blog.csdn.net/jackelee90/article/details/157731795)
 
++ [飞算JavaAI如何提升重塑Java开发体验](https://blog.csdn.net/2302_78391795/article/details/157769726)
+
++ [从零理解 HTTP：协议原理、URL 结构与简易服务器实现](https://blog.csdn.net/Zach_yuan/article/details/157729930)
+
++ [HarmonyList Pro（鸿列 Pro）基于 Flutter × Harmony6.0 · 跨端列表组件库实现](https://blog.csdn.net/weixin_52908342/article/details/157441934)
+
