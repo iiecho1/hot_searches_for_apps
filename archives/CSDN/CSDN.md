@@ -145,3 +145,15 @@
 
 + [难忘视频播放器：Flutter × Harmony6.0 构建视频项实现解析](https://blog.csdn.net/weixin_52908342/article/details/157334774)
 
++ [C++之《Effective C++》读书总结(3)](https://blog.csdn.net/Once_day/article/details/157699928)
+
++ [计算机视觉opencv之人脸识别1（CV2自带人脸识别&LBPH人脸识别&EigenFace人脸识别）](https://blog.csdn.net/2201_75573294/article/details/157651735)
+
++ [WebSocket：告别轮询，实现Web实时通信 WebRTC：无需插件，实现浏览器端实时音视频通信](https://blog.csdn.net/2302_80192044/article/details/157737622)
+
++ [手机控电脑全维度实测对比](https://blog.csdn.net/qq_46092061/article/details/157770686)
+
++ [MySQL如何使用EXPLAIN分析SQL语句：从执行计划到性能优化](https://blog.csdn.net/Dxy1239310216/article/details/157731487)
+
++ [DevSecOps 实践：Arbess 通过 SonarQube + PostIn 实现测试与安全左移](https://blog.csdn.net/tiklab2021/article/details/156856118)
+

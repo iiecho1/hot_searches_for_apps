@@ -49,3 +49,9 @@
 
 + [微信鸿蒙版 App 获 8.0.15.38 尝鲜升级，网页图片支持长按收藏](https://m.ithome.com/html/919648.htm)
 
++ [马上“偷”菜：腾讯《QQ 经典农场》游戏正式回归，支持 QQ / 微信小程序游玩](https://m.ithome.com/html/919706.htm)
+
++ [李想：全新理想 L9 不仅是一台好车，更是具身智能机器人的开山之作](https://m.ithome.com/html/919550.htm)
+
++ [消息称 vivo X300 Ultra 手机超广角硬件断层领先，支持增强超广角 + 视频能力](https://m.ithome.com/html/919626.htm)
+
