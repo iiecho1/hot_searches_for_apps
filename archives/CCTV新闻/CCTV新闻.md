@@ -169,3 +169,29 @@
 
 + [中国AI技术支撑 打造智能冬奥](https://news.cctv.com/2026/02/06/ARTI38RRPeibPwchwyOAIgRe260206.shtml)
 
++ [美国国债收益率曲线升至近四年来最陡水平](https://news.cctv.com/2026/02/06/ARTIBIPNeFSntWyoncP2U7J0260206.shtml)
+
++ [印度东北部煤矿爆炸死亡人数升至18人](https://news.cctv.com/2026/02/06/ARTIWCdMPzwa5s20xgcmeuqU260206.shtml)
+
++ [美军称在东太平洋打击疑似“贩毒船只” 打死2人](https://news.cctv.com/2026/02/06/ARTIzxqZvOm3WN1c67X2DFk8260206.shtml)
+
++ [多国游说美伊签订互不侵犯协议](https://news.cctv.com/2026/02/06/ARTI2hwJ143JOxlP31n1am9u260206.shtml)
+
++ [美伊会谈将至 美政府内部对伊军事行动目标尚无明确共识](https://news.cctv.com/2026/02/06/ARTIR0jkEQS7liKZVuUr8PDW260206.shtml)
+
++ [美政府发布安全警告 敦促美国公民尽快离开伊朗](https://news.cctv.com/2026/02/06/ARTItmS4Yr1G40TuNq9ZvTFk260206.shtml)
+
++ [美伊谈判在即 白宫称特朗普有“诸多选项”](https://news.cctv.com/2026/02/06/ARTIaMAkIOVp9cV83ICeAFSf260206.shtml)
+
++ [哥伦比亚一煤矿发生爆炸 已造成6名矿工死亡](https://news.cctv.com/2026/02/06/ARTIeexrZifR0TR9rrmNcNbo260206.shtml)
+
++ [美国纽约：迎春节 气氛浓](https://photo.cctv.com/2026/02/06/PHOAEuZ7QPWrzNraIL0e9zBG260206.shtml)
+
++ [尼泊尔西部一巴士发生事故 造成至少8人死亡](https://news.cctv.com/2026/02/06/ARTIwol3JRsXEmVWgoHkplrS260206.shtml)
+
++ [台风“西望洋”登陆菲律宾 已造成4死3伤](https://news.cctv.com/2026/02/06/ARTIUY9NOOk1GGIeW2JAcgMq260206.shtml)
+
++ [日本东电称将重启柏崎刈羽核电站6号机组反应堆](https://news.cctv.com/2026/02/06/ARTITCHYoPTWY4vx53xANzIO260206.shtml)
+
++ [日本持续强降雪已致42人死亡](https://news.cctv.com/2026/02/06/ARTI3cguMhpfUg7eze7cRSS6260206.shtml)
+
