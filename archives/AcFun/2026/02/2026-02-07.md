@@ -61,3 +61,9 @@
 
 + [【奶糕】kiss me just day by day/【马跃新程】](https://m.acfun.cn/v/?ac=48251481)
 
++ [【每日练歌】溯](https://m.acfun.cn/v/?ac=48253867)
+
++ [【东方x节奏天国】超・ナイト・オブ・ナイツ](https://m.acfun.cn/v/?ac=48251580)
+
++ [【机动新世纪高达X】经典永恒！用粤语版OP2「Resolution」庆祝动画播放30周年！](https://m.acfun.cn/v/?ac=48237654)
+

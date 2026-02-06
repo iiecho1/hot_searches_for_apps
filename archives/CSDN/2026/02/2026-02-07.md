@@ -101,3 +101,13 @@
 
 + [2026年阿里云五种方案快速部署 OpenClaw（Clawdbot）详细教程](https://blog.csdn.net/zhujigege/article/details/157699847)
 
++ [ARM Linux 驱动开发篇----字符设备驱动开发（2）--字符设备驱动开发步骤---- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/157692833)
+
++ [基于YOLOv8和MAFPN的骆驼目标检测系统实现](https://blog.csdn.net/Katecat99663/article/details/157768225)
+
++ [ASP.NET路由类型约束核心精讲：[HttpGet (“{id:int}“)] 整数约束吃透，附避坑指南 + 实战代码](https://blog.csdn.net/William_cl/article/details/157699738)
+
++ [从传统 GIS 向智能/自动化脚本演进：地铁接驳公交识别的 ArcGIS 与 Python 双路径实践](https://blog.csdn.net/weixin_45812624/article/details/157764405)
+
++ [MySQL 索引详解：从原理到实战优化](https://blog.csdn.net/2301_79949064/article/details/157776619)
+
