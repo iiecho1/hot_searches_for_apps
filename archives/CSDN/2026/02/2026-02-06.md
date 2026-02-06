@@ -191,3 +191,15 @@
 
 + [基于YOLOv8和MAFPN的骆驼目标检测系统实现](https://blog.csdn.net/Katecat99663/article/details/157768225)
 
++ [免费的2026网刻工具， 轻松解决局域网电脑批量还原问题](https://blog.csdn.net/q951250246/article/details/157731075)
+
++ [【Harmonyos】Flutter开源鸿蒙跨平台训练营 Day8 Widget与布局系统完全指南](https://blog.csdn.net/2602_94958286/article/details/157700138)
+
++ [Flutter for OpenHarmony 实战：扫雷游戏完整开发指南](https://blog.csdn.net/2502_91523773/article/details/157727948)
+
++ [用闲置Mac Mini部署OpenClaw(moltbot)实现你的专属金融AI分析师](https://blog.csdn.net/sscc001/article/details/157776331)
+
++ [React Native鸿蒙版：TextHTML内容渲染](https://blog.csdn.net/IRpickstars/article/details/157761373)
+
++ [2026年阿里云五种方案快速部署 OpenClaw（Clawdbot）详细教程](https://blog.csdn.net/zhujigege/article/details/157699847)
+
