@@ -165,3 +165,7 @@
 
 + [泽连斯基：乌美俄下一轮阿布扎比会谈将很快举行](https://news.cctv.com/2026/02/06/ARTIStghHGi3ayG2n4DXnwnw260206.shtml)
 
++ [俄称继续多方向打击乌军目标 乌称击退俄军进攻](https://news.cctv.com/2026/02/06/ARTIxZuiRI8Eueb1duLm8Fss260206.shtml)
+
++ [中国AI技术支撑 打造智能冬奥](https://news.cctv.com/2026/02/06/ARTI38RRPeibPwchwyOAIgRe260206.shtml)
+

@@ -133,3 +133,7 @@
 
 + [ABB 机器人、PLC 与 C# 上位机全套程序开发实践](https://blog.csdn.net/TCtvmTLXe/article/details/157730699)
 
++ [YOLO-IOD：面向实时增量目标检测](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/157761251)
+
++ [飞算 JavaAI 实测：从自然语言到完整 Java 工程，初中级程序员真的能躺赢？](https://blog.csdn.net/m0_61712829/article/details/157769637)
+
