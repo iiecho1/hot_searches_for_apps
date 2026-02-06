@@ -147,3 +147,5 @@
 
 + [使用ARM DSP库去音频直流偏置](https://blog.csdn.net/ting_zh/article/details/157768604)
 
++ [postgreSQL中调整Checkpoint的重要性](https://blog.csdn.net/xfg0218/article/details/157775080)
+
