@@ -161,3 +161,5 @@
 
 + [印尼塞梅鲁火山三小时内接连喷发7次](https://news.cctv.com/2026/02/04/ARTIO7Yuj36eZRarKZUduxFJ260204.shtml)
 
++ [巴基斯坦清真寺爆炸事件已致32人死亡](https://news.cctv.com/2026/02/07/ARTIZBcSTmAizgAh9QLWcMUT260207.shtml)
+

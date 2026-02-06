@@ -143,3 +143,7 @@
 
 + [【Qt开发】Qt系统（十二）-＞ Qt视频](https://blog.csdn.net/weixin_74809706/article/details/157546214)
 
++ [基于SpringBoot的电影点评交流平台【协同过滤推荐算法+数据可视化统计】](https://blog.csdn.net/2301_78335941/article/details/157737541)
+
++ [使用ARM DSP库去音频直流偏置](https://blog.csdn.net/ting_zh/article/details/157768604)
+
