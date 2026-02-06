@@ -187,3 +187,5 @@
 
 + [【MySQL 数据库】MySQL 数据库核心概念详解：库、表、字段、主键与关系型模型一文读懂](https://blog.csdn.net/2301_80035882/article/details/157774735)
 
++ [Spring AI Alibaba 集成 Redis 向量数据库实现 RAG 与记忆功能](https://blog.csdn.net/2301_80412275/article/details/157776721)
+
