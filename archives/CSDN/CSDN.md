@@ -189,3 +189,5 @@
 
 + [Spring AI Alibaba 集成 Redis 向量数据库实现 RAG 与记忆功能](https://blog.csdn.net/2301_80412275/article/details/157776721)
 
++ [基于YOLOv8和MAFPN的骆驼目标检测系统实现](https://blog.csdn.net/Katecat99663/article/details/157768225)
+
