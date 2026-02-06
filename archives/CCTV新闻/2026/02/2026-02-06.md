@@ -199,3 +199,9 @@
 
 + [印尼马拉皮火山多次喷发 我领馆提醒中国公民加强防范](https://news.cctv.com/2026/02/06/ARTIv7D6lHpRyaAePisCUbXH260206.shtml)
 
++ [俄成功发射“联盟-2.1b”火箭 多颗航天器顺利入轨](https://news.cctv.com/2026/02/06/ARTIPoA5IdVRZyfvCVg4gOib260206.shtml)
+
++ [法国卢浮宫：抢劫受损的欧仁妮皇冠具备整体修复条件](https://news.cctv.com/2026/02/06/ARTIlLmyJlSFg9zXZSHPC28d260206.shtml)
+
++ [米开朗琪罗一幅素描拍出2720万美元](https://news.cctv.com/2026/02/06/ARTIsALMoh0NYxlbUHJuOL9t260206.shtml)
+

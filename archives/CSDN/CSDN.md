@@ -157,3 +157,13 @@
 
 + [DevSecOps 实践：Arbess 通过 SonarQube + PostIn 实现测试与安全左移](https://blog.csdn.net/tiklab2021/article/details/156856118)
 
++ [Moltbot 部署至 Azure Web App 完整指南：从本地到云端的安全高效跃迁](https://blog.csdn.net/Leinwin/article/details/157733846)
+
++ [HarmonyOS 为何用 Ability 约束游戏？](https://blog.csdn.net/qq_36863796/article/details/157696171)
+
++ [React Native for OpenHarmony：猜数字游戏完整技术实现文档](https://blog.csdn.net/2302_80329073/article/details/157736839)
+
++ [跳过 MLOps：通过 Cloud Connect 使用 EIS 为自管理 Elasticsearch 提供托管云推理](https://blog.csdn.net/UbuntuTouch/article/details/157769789)
+
++ [技术速递｜GitHub Copilot SDK 与云原生的完美融合](https://blog.csdn.net/MicrosoftReactor/article/details/157737086)
+
