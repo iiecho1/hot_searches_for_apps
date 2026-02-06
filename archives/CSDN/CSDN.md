@@ -111,3 +111,27 @@
 
 + [MySQL 索引详解：从原理到实战优化](https://blog.csdn.net/2301_79949064/article/details/157776619)
 
++ [飞算JavaAI如何提升重塑Java开发体验](https://blog.csdn.net/2302_78391795/article/details/157769726)
+
++ [React Native for OpenHarmony：简易计算器应用的开发与跨平台适配实践](https://blog.csdn.net/2302_80329073/article/details/157738086)
+
++ [高并发场景下的负载均衡、熔断降级与限流措施](https://blog.csdn.net/qq_53140287/article/details/157766926)
+
++ [难忘视频播放器：Flutter × Harmony6.0 构建视频项实现解析](https://blog.csdn.net/weixin_52908342/article/details/157334774)
+
++ [PostgreSQL 核心原理：什么场景下开启 JIT 能提升性能？（JIT 编译）](https://blog.csdn.net/cui_yonghua/article/details/157766651)
+
++ [R语言：数据分析与可视化的利器](https://blog.csdn.net/m0_70156816/article/details/157767085)
+
++ [spring-boot-starter-validation使用注解进行参数校验](https://blog.csdn.net/qq_33697094/article/details/157725939)
+
++ [Python 四大 Web 框架对比解析：FastAPI、Django、Flask 与 Tornado](https://blog.csdn.net/AngelCryToo/article/details/157776090)
+
++ [从零开始学Flink：状态管理与容错机制](https://blog.csdn.net/jackelee90/article/details/157731795)
+
++ [Flutter for OpenHarmony 豪华抽奖应用：从粒子背景到彩带动画的全栈实现](https://blog.csdn.net/2501_93573294/article/details/157772979)
+
++ [技术速递｜GitHub Copilot SDK 与云原生的完美融合](https://blog.csdn.net/MicrosoftReactor/article/details/157737086)
+
++ [Go 语言系统编程与云原生开发实战（第12篇）云原生部署实战：Helm Chart × GitOps × 多环境管理（生产级落地）](https://blog.csdn.net/weixin_52208686/article/details/157763161)
+
