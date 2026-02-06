@@ -23,3 +23,7 @@
 
 + [ZeroTworu/anet](https://github.com/ZeroTworu/anet)
 
++ [likec4/likec4](https://github.com/likec4/likec4)
+
++ [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
