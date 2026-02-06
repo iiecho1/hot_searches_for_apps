@@ -167,3 +167,9 @@
 
 + [技术速递｜GitHub Copilot SDK 与云原生的完美融合](https://blog.csdn.net/MicrosoftReactor/article/details/157737086)
 
++ [计算机视觉——Opencv（图像透视变换）](https://blog.csdn.net/2401_83998832/article/details/157692864)
+
++ [openclaw配置教程（linux+局域网ollama）](https://blog.csdn.net/m0_63080775/article/details/157727175)
+
++ [从零开始学Flink：状态管理与容错机制](https://blog.csdn.net/jackelee90/article/details/157731795)
+

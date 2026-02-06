@@ -205,3 +205,13 @@
 
 + [米开朗琪罗一幅素描拍出2720万美元](https://news.cctv.com/2026/02/06/ARTIsALMoh0NYxlbUHJuOL9t260206.shtml)
 
++ [伊朗外交部：抵制美国“任何过分的要求或冒险行为”](https://news.cctv.com/2026/02/06/ARTIBjqVlZRXR67tgCtnzI83260206.shtml)
+
++ [阿根廷与美国签署贸易协定 舆论忧农业受冲击](https://news.cctv.com/2026/02/06/ARTIY5cIFz311Ob9jZ2UXsvQ260206.shtml)
+
++ [委内瑞拉油轮或在美国“监督”下恢复向古巴运油](https://news.cctv.com/2026/02/06/ARTIrp5tRo3YtDBARDr4vSa8260206.shtml)
+
++ [陕西府谷黄河沿岸新发现旧石器地点](https://news.cctv.com/2026/02/06/ARTIDeUKDtGxkgNpgxq0dPD9260206.shtml)
+
++ [土耳其破获受摩萨德指使的间谍网络 逮捕2名嫌疑人](https://news.cctv.com/2026/02/06/ARTIw9e44GYMZ0I52cHqjoVd260206.shtml)
+
