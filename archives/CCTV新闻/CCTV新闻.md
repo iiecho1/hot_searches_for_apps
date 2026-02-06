@@ -195,3 +195,7 @@
 
 + [日本持续强降雪已致42人死亡](https://news.cctv.com/2026/02/06/ARTI3cguMhpfUg7eze7cRSS6260206.shtml)
 
++ [挪威前首相亚格兰因爱泼斯坦案受到反腐调查](https://news.cctv.com/2026/02/06/ARTIK2SMqrdpDyrnzKLY4XWF260206.shtml)
+
++ [印尼马拉皮火山多次喷发 我领馆提醒中国公民加强防范](https://news.cctv.com/2026/02/06/ARTIv7D6lHpRyaAePisCUbXH260206.shtml)
+
