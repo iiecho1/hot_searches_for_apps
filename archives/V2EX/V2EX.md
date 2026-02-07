@@ -49,3 +49,7 @@
 
 + [有没有一种“把私钥关进时间胶囊”的工具？想物理强制自己 HODL](https://www.v2ex.com/t/1191350)
 
++ [别再神化 VS Code 了，现在的它臃肿得像个 IDE，我决定回归 Vim/Cursor。](https://www.v2ex.com/t/1191387)
+
++ [千问的这次崩了，会属于事故吗？](https://www.v2ex.com/t/1191337)
+

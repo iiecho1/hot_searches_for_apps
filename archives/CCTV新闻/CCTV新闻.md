@@ -197,3 +197,5 @@
 
 + [能源设施遭袭 乌称已向波兰发出紧急电力援助请求](https://news.cctv.com/2026/02/07/ARTIHSA5Um4iXnRL8kovC5mE260207.shtml)
 
++ [巴基斯坦清真寺爆炸事件已致36人死亡](https://news.cctv.com/2026/02/07/ARTIR8cI7D3ijW1QF7o06mOF260207.shtml)
+

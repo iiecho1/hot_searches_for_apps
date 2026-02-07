@@ -189,3 +189,9 @@
 
 + [Flutter for OpenHarmony 实战：记忆翻牌游戏完整开发指南](https://blog.csdn.net/2502_91523773/article/details/157764807)
 
++ [2026年时序数据库选型指南：从大数据视角深度解析Apache IoTDB的技术优势与实践路径](https://blog.csdn.net/liu_chen_yang/article/details/157736572)
+
++ [Qt中集成 MQTT 来实现物联网通信：从原理到实战全解析](https://blog.csdn.net/qianniulaoren/article/details/157582308)
+
++ [技术速递｜GitHub Copilot CLI 斜杠命令速查表](https://blog.csdn.net/MicrosoftReactor/article/details/157775718)
+
