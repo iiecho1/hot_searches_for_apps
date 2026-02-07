@@ -199,3 +199,9 @@
 
 + [巴基斯坦清真寺爆炸事件已致36人死亡](https://news.cctv.com/2026/02/07/ARTIR8cI7D3ijW1QF7o06mOF260207.shtml)
 
++ [多重危机叠加 德国经济自2020年以来损失近万亿欧元](https://news.cctv.com/2026/02/07/ARTI4jMbECFCc1fcDK2iNrZv260207.shtml)
+
++ [苏丹一辆大巴车遭袭 已致24名平民死亡](https://news.cctv.com/2026/02/07/ARTIX9sfHfREgOu1RehwPvyv260207.shtml)
+
++ [伊朗外长：下一轮核谈判日期未定 若遭美袭击将攻击美军基地](https://news.cctv.com/2026/02/07/ARTINJuIWYfaI2I5Uh46x6HC260207.shtml)
+

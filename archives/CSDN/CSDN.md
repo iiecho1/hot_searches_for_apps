@@ -195,3 +195,5 @@
 
 + [技术速递｜GitHub Copilot CLI 斜杠命令速查表](https://blog.csdn.net/MicrosoftReactor/article/details/157775718)
 
++ [Vue 核心特性实战指南：指令、样式绑定、计算属性与侦听器](https://blog.csdn.net/phltxy/article/details/157772305)
+
