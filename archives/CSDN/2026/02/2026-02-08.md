@@ -133,3 +133,15 @@
 
 + [Java编程进阶：智能仿真无人机项目4.0](https://blog.csdn.net/2501_92713983/article/details/157775483)
 
++ [远程软件大战再升级：2026年2月三大远程控制软件深度横评，安全功能成新焦点](https://blog.csdn.net/2401_86326742/article/details/157840965)
+
++ [Rust异步编程详解](https://blog.csdn.net/m0_37816922/article/details/157471435)
+
++ [Elasticsearch：使用 Base64 编码字符串加速向量摄取](https://blog.csdn.net/UbuntuTouch/article/details/157766404)
+
++ [嵌入式之 C/C++（七）类和数据抽象](https://blog.csdn.net/weixin_46281529/article/details/157700195)
+
++ [01—langchain 架构](https://blog.csdn.net/m0_65519288/article/details/157798062)
+
++ [【Atlas】Atlas Hook 消费 Kafka 报错：GroupAuthorizationException](https://blog.csdn.net/TTBIGDATA/article/details/157765517)
+
