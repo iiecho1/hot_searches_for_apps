@@ -113,3 +113,23 @@
 
 + [如何在国内合规、稳定地使用GPT/Claude/Gemini API？中转服务全解析](https://blog.csdn.net/acai_polo/article/details/156649556)
 
++ [工具OpenClaw：从聊天到干活的革命](https://blog.csdn.net/qq_36396104/article/details/157766713)
+
++ [PostgreSQL实战：详解如何用Python优雅地从PG中存取处理JSON](https://blog.csdn.net/cui_yonghua/article/details/157810645)
+
++ [跨端开发实战：Flutter × OpenHarmony 打造飞机坦克大战游戏界面](https://blog.csdn.net/dgw25sf/article/details/157775588)
+
++ [附录A：AMDGPU SVM 属性类型](https://blog.csdn.net/shenjunpeng/article/details/157767689)
+
++ [基于 JSON 配置的 .NET 桌面应用自动更新实现指南](https://blog.csdn.net/2603_94941287/article/details/157770683)
+
++ [2026春晚机器人专利战：从舞台秀到资本竞逐的产业突围](https://blog.csdn.net/bayueguakeji/article/details/157770701)
+
++ [从零理解 HTTP：协议原理、URL 结构与简易服务器实现](https://blog.csdn.net/Zach_yuan/article/details/157729930)
+
++ [通过ip访问nginx的服务时，被第一个server重定向了，通过设置default_server解决这个问题](https://blog.csdn.net/xutongbao/article/details/157771830)
+
++ [工业安卓 Telnet 工具横向测评：5 大核心维度对比 ](https://blog.csdn.net/CODECOLLECT/article/details/157777137)
+
++ [Java编程进阶：智能仿真无人机项目4.0](https://blog.csdn.net/2501_92713983/article/details/157775483)
+
