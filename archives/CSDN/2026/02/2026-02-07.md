@@ -165,3 +165,7 @@
 
 + [使用 Gravitino 与 Apache Spark 进行 ETL](https://blog.csdn.net/2511_93731140/article/details/157798815)
 
++ [人工智能：深度学习：1.pytorch概述(1)](https://blog.csdn.net/2401_87568987/article/details/157728385)
+
++ [HarmonyOS 6 自定义人脸识别模型2：XComponent 开发实战之OH_NativeXComponent方式绘制](https://blog.csdn.net/sjw890821sjw/article/details/157798808)
+
