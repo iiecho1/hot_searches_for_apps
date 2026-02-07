@@ -197,3 +197,5 @@
 
 + [Vue 核心特性实战指南：指令、样式绑定、计算属性与侦听器](https://blog.csdn.net/phltxy/article/details/157772305)
 
++ [RocketMQ 与 Kafka 深度对垒：分布式消息引擎内核、事务金融级实战与高可用演进指南](https://blog.csdn.net/qq_43414012/article/details/157730610)
+

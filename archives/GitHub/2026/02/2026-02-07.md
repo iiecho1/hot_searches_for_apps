@@ -15,3 +15,21 @@
 
 + [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 
++ [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+
++ [microsoft/litebox](https://github.com/microsoft/litebox)
+
++ [p-e-w/heretic](https://github.com/p-e-w/heretic)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
+
++ [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
+
++ [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
+
++ [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
++ [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+
