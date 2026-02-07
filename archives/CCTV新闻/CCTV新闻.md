@@ -179,3 +179,15 @@
 
 + [特朗普称下周将再次与伊朗谈判](https://news.cctv.com/2026/02/07/ARTIZAwmosneogvM4t8TrEL9260207.shtml)
 
++ [佛得角出现非洲猪瘟疫情](https://news.cctv.com/2026/02/07/ARTIv5HHnBq3woTmv31CBnIK260207.shtml)
+
++ [日本持续强降雪已造成45人死亡](https://news.cctv.com/2026/02/07/ARTIyXVAqcOjtfNg9To107ii260207.shtml)
+
++ [备战2026世界杯 伊朗男足用“百人大名单”应对赴美签证](https://news.cctv.com/2026/02/07/ARTIybcvvbxxphG9IOUQbxsA260207.shtml)
+
++ [南非推出20年来首款本土口蹄疫疫苗以应对疫情](https://news.cctv.com/2026/02/07/ARTIFyuGSJt1vmBVMc1N0idI260207.shtml)
+
++ [美明尼苏达州州长：移民执法行动给该州经济造成长期损害](https://news.cctv.com/2026/02/07/ARTIip6eJMXl1ZIIulWZYarA260207.shtml)
+
++ [特朗普回应涉种族歧视视频：“我没有犯错”](https://news.cctv.com/2026/02/07/ARTIAzzFKi3vJfkpZUweOGcu260207.shtml)
+
