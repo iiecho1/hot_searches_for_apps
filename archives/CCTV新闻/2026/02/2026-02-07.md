@@ -165,3 +165,17 @@
 
 + [高端访谈丨专访阿拉伯国家联盟秘书长盖特](https://people.cctv.com/2026/02/07/ARTIcTilCjkIxWS1i6BkCyjV260207.shtml)
 
++ [世卫组织通报孟加拉国出现尼帕病毒感染病例](https://news.cctv.com/2026/02/07/ARTIltxmub6f8dG8IAsVVQws260207.shtml)
+
++ [俄总统新闻秘书：暂无在美国举行新一轮乌克兰问题谈判计划](https://news.cctv.com/2026/02/07/ARTIs9NcHpElIuLzLTYwwLQq260207.shtml)
+
++ [古巴宣布系列紧急措施保障民生与生产 应对美国石油封锁](https://news.cctv.com/2026/02/07/ARTIegG0o2LQTZx1NdZHQ0SE260207.shtml)
+
++ [特朗普称美俄乌会谈“可能会有事发生”](https://news.cctv.com/2026/02/07/ARTItMnA9czFKzTKG6YEHP2O260207.shtml)
+
++ [韩国电商酷澎公司数据泄露事件再增约16.5万受害者](https://news.cctv.com/2026/02/07/ARTIjGk1QzeqiePnP7BcRfVD260207.shtml)
+
++ [伊朗陆军司令：伊朗武装部队将坚决捍卫领土完整](https://news.cctv.com/2026/02/07/ARTI7PcslNTRESZFKrJh16IV260207.shtml)
+
++ [特朗普称下周将再次与伊朗谈判](https://news.cctv.com/2026/02/07/ARTIZAwmosneogvM4t8TrEL9260207.shtml)
+

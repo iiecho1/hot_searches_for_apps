@@ -157,3 +157,11 @@
 
 + [【机器人系统】机器视觉](https://blog.csdn.net/weixin_53305284/article/details/157773673)
 
++ [基于ARM+DSP+FPGA异构计算架构的高速ADC采集卡定制方案](https://blog.csdn.net/unicrom/article/details/157729439)
+
++ [影悦视频播放器实战：Flutter 与 HarmonyOS 6.0 推荐视频实现解析](https://blog.csdn.net/weixin_52908342/article/details/157330897)
+
++ [书单推荐之豆包使用秘籍](https://blog.csdn.net/Mrxiao_bo/article/details/157814165)
+
++ [使用 Gravitino 与 Apache Spark 进行 ETL](https://blog.csdn.net/2511_93731140/article/details/157798815)
+
