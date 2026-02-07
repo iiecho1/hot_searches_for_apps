@@ -169,3 +169,15 @@
 
 + [伊朗外长：第二轮伊美谈判有望在未来几天内举行](https://news.cctv.com/2026/02/08/ARTIHBQHX7YgF4g1ZgGzDvYC260208.shtml)
 
++ [巴基斯坦宣布逮捕清真寺爆炸案主要嫌疑人](https://news.cctv.com/2026/02/08/ARTIm63iKDnVvmkiPVXAoYdx260208.shtml)
+
++ [朝中社：朝鲜劳动党九大定于2月下旬召开](https://news.cctv.com/2026/02/08/ARTIOcROZ1LrNovBb3Ql7sjE260208.shtml)
+
++ [美国拟举行所谓“和平委员会”首次领导人会议](https://news.cctv.com/2026/02/08/ARTIwEcZogoCIUSCDoH0xVfe260208.shtml)
+
++ [美国对伊谈判代表赴“林肯”号航母劳军](https://news.cctv.com/2026/02/08/ARTIUstFCtkKSs45xLuEkEIP260208.shtml)
+
++ [日本国会众议院选举开始投票](https://news.cctv.com/2026/02/08/ARTICe3UDLD3YHHKM5sM91zU260208.shtml)
+
++ [内塔尼亚胡将提前访问美国 讨论对伊朗谈判](https://news.cctv.com/2026/02/08/ARTIoIk9pWCl9PwILNvqtm1e260208.shtml)
+
