@@ -191,3 +191,7 @@
 
 + [特朗普回应涉种族歧视视频：“我没有犯错”](https://news.cctv.com/2026/02/07/ARTIAzzFKi3vJfkpZUweOGcu260207.shtml)
 
++ [美政府寻求加快遣返此前被执法人员扣押的5岁男童](https://news.cctv.com/2026/02/07/ARTITUO1Izkhet8N2Xgd1dYp260207.shtml)
+
++ [美威胁对与伊朗有贸易往来国家加征关税](https://news.cctv.com/2026/02/07/ARTIsIVugGEbDurzhX5tsr30260207.shtml)
+
