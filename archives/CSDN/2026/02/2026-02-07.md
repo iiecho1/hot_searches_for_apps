@@ -199,3 +199,13 @@
 
 + [RocketMQ 与 Kafka 深度对垒：分布式消息引擎内核、事务金融级实战与高可用演进指南](https://blog.csdn.net/qq_43414012/article/details/157730610)
 
++ [从0到提交，如何用 ChatGPT 全流程参与建模比赛的](https://blog.csdn.net/master_hunter/article/details/157774146)
+
++ [MPRNet: Multi-Stage Progressive Image Restoration-CVPR2021](https://blog.csdn.net/leonardotu/article/details/157737054)
+
++ [【Kubernetes专项】K8s 配置管理中心 ConfigMap 实现微服务配置管理](https://blog.csdn.net/2302_81635282/article/details/157770732)
+
++ [AI Agent工业化落地避坑指南：从技术卡点到量产，脉脉AMA给我的实战启示](https://blog.csdn.net/user340/article/details/157771020)
+
++ [【黑马点评项目笔记 | 优惠券秒杀篇】构建高并发秒杀系统](https://blog.csdn.net/qq1314251/article/details/157769019)
+
