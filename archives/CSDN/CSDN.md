@@ -149,3 +149,7 @@
 
 + [AdAgent 能力成熟度模型：从 L1 自动化到 L5 自主增长引擎](https://blog.csdn.net/2501_92487873/article/details/157769257)
 
++ [Python语音通知接口接入教程：开发者快速集成AI语音API的脚本实现](https://blog.csdn.net/2601_94914653/article/details/157768413)
+
++ [Flutter + OpenHarmony 实战：构建清晰、健壮的三屏状态流转](https://blog.csdn.net/2401_88937325/article/details/157775223)
+
