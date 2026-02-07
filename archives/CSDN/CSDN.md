@@ -145,3 +145,7 @@
 
 + [【Atlas】Atlas Hook 消费 Kafka 报错：GroupAuthorizationException](https://blog.csdn.net/TTBIGDATA/article/details/157765517)
 
++ [2026年2月横评三款主流远控软件实况实测：UU远程，Todesk，向日葵，谁才是黑马？](https://blog.csdn.net/wheeldown/article/details/157842774)
+
++ [AdAgent 能力成熟度模型：从 L1 自动化到 L5 自主增长引擎](https://blog.csdn.net/2501_92487873/article/details/157769257)
+
