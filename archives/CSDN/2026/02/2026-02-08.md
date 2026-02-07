@@ -101,3 +101,15 @@
 
 + [从原理到实战：决策树三大算法（ID3、C4.5、CART）深度解析](https://blog.csdn.net/2403_90085828/article/details/157775045)
 
++ [ARM Linux 驱动开发篇----字符设备驱动开发（2）--字符设备驱动开发步骤---- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/157692833)
+
++ [MySQL多表连接完全指南：内连接与外连接超详细讲解](https://blog.csdn.net/qq_74777039/article/details/157775644)
+
++ [SpringBoot 实现动态切换数据源](https://blog.csdn.net/LiZhen314/article/details/157769851)
+
++ [【Kubernetes专项】K8s 配置管理中心 ConfigMap 实现微服务配置管理](https://blog.csdn.net/2302_81635282/article/details/157770732)
+
++ [驱动开发中Linux系统裁剪、开发、调试步骤](https://blog.csdn.net/a247534855/article/details/157772398)
+
++ [如何在国内合规、稳定地使用GPT/Claude/Gemini API？中转服务全解析](https://blog.csdn.net/acai_polo/article/details/156649556)
+
