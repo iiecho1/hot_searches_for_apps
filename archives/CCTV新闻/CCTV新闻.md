@@ -195,3 +195,5 @@
 
 + [美威胁对与伊朗有贸易往来国家加征关税](https://news.cctv.com/2026/02/07/ARTIsIVugGEbDurzhX5tsr30260207.shtml)
 
++ [能源设施遭袭 乌称已向波兰发出紧急电力援助请求](https://news.cctv.com/2026/02/07/ARTIHSA5Um4iXnRL8kovC5mE260207.shtml)
+
