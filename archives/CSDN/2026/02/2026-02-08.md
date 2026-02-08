@@ -233,3 +233,7 @@
 
 + [【YOLOv11多模态创新改进】全网独家复现创新 | TGRS 2025 | 引入MROD -YOLO的 MSIA多尺度迭代聚合模块，优化可见光与红外信息的特征交互融合、提升复杂环境中小目标检测效果](https://blog.csdn.net/qq_45972324/article/details/157871947)
 
++ [如何设计让你的程序同时处理10w条数据](https://blog.csdn.net/gdpu2400502251/article/details/157802139)
+
++ [自己制作 的 豆包语音助手，配合PC端使用](https://blog.csdn.net/csdn_life18/article/details/157847172)
+

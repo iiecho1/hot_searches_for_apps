@@ -235,3 +235,7 @@
 
 + [聆听文明交流互鉴的冬奥乐章（冬奥观澜）](https://news.cctv.com/2026/02/08/ARTIv2hM53iElrsv4LgMBq9u260208.shtml)
 
++ [出口民调：日本执政联盟预计获得众议院过半席位](https://news.cctv.com/2026/02/08/ARTI8vBFKf9v3h8cMe1btFTz260208.shtml)
+
++ [泰国国会下议院选举投票正式结束](https://news.cctv.com/2026/02/08/ARTIiGiFphKdysoY57Imrud4260208.shtml)
+
