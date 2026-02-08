@@ -55,3 +55,5 @@
 
 + [上海移动新套路 qos，官方测速正常，实际限速 1Mbps](https://www.v2ex.com/t/1191479)
 
++ [花 4 个月和 3 万刀做了个 Agent 网页支持工具 coolvibe.io，手机/PC 都能看，支持自部署，订阅免费送！](https://www.v2ex.com/t/1191528)
+

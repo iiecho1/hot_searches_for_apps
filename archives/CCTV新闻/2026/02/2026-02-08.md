@@ -223,3 +223,15 @@
 
 + [葡萄牙举行总统选举第二轮投票](https://news.cctv.com/2026/02/08/ARTIUpBo7cCgOHHdHLXm3lPj260208.shtml)
 
++ [意大利记者博扎到过中国80次，采访过7届全运会——“我与中国体育有缘”（冬奥走笔）](https://news.cctv.com/2026/02/08/ARTIH50CZBEdEdEM5zGEAsgV260208.shtml)
+
++ [沙特宣布对叙利亚重大投资计划](https://news.cctv.com/2026/02/08/ARTIrOv8lrHS25stYJxde6xG260208.shtml)
+
++ [国际观察｜市场“用脚投票”——从德国外贸结构看德中合作韧性](https://news.cctv.com/2026/02/08/ARTIsTlbnZEtw5BG9flJsVxQ260208.shtml)
+
++ [维护一个中国原则，就是维护国际公平正义（国际论坛）](https://news.cctv.com/2026/02/08/ARTIu1rGKDyeZ3jWktFRatw7260208.shtml)
+
++ [“中国为完善全球治理发挥重要作用”——访伊朗作家、政治分析家侯赛尼](https://news.cctv.com/2026/02/08/ARTIpoxUpZqofuB2oRuyUoKp260208.shtml)
+
++ [聆听文明交流互鉴的冬奥乐章（冬奥观澜）](https://news.cctv.com/2026/02/08/ARTIv2hM53iElrsv4LgMBq9u260208.shtml)
+
