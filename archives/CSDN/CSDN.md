@@ -261,3 +261,13 @@
 
 + [【收尾以及复盘】flutter开发鸿蒙APP之成就徽章页面](https://blog.csdn.net/qq_33247427/article/details/157793615)
 
++ [《机器学习导论》第 2 章-监督学习 ](https://blog.csdn.net/2302_80961196/article/details/157775642)
+
++ [每天认识一种投资品类：实物资产](https://blog.csdn.net/K346K346/article/details/157872428)
+
++ [手机自建博客并打通 IPv6 公网：Termux + Ubuntu chroot + Halo 2 ](https://blog.csdn.net/m0_69081827/article/details/157874514)
+
++ [Flutter Android Gradle 构建问题修复指南](https://blog.csdn.net/qq_46325923/article/details/157874782)
+
++ [【GitHub开源AI精选】EvoCUA：美团开源的多模态计算机操作智能体，重塑自动化新范式](https://blog.csdn.net/xiaobing259/article/details/157646108)
+
