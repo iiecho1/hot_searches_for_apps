@@ -101,3 +101,17 @@
 
 + [使用electronc框架调用dll动态链接库流程和避坑](https://blog.csdn.net/m0_74662483/article/details/157872005)
 
++ [MetaWorld——分层世界模型：融合 VLM 的语义推理能力、预测的未来动态环境、模仿学习的先验，及基于模型RL的对动态环境的在线自适应](https://blog.csdn.net/v_JULY_v/article/details/157777127)
+
++ [Oracle 26ai DataGuard 搭建(RAC到单机)](https://blog.csdn.net/weixin_41645135/article/details/157869345)
+
++ [【Linux之旅】Linux 进程间通信（IPC）全解析：从管道到共享内存，吃透进程协作核心](https://blog.csdn.net/2302_80243065/article/details/157838723)
+
++ [【GitHub开源AI精选】EvoCUA：美团开源的多模态计算机操作智能体，重塑自动化新范式](https://blog.csdn.net/xiaobing259/article/details/157646108)
+
++ [Web 原生架构如何重塑企业级数据库协作流？](https://blog.csdn.net/ylguoguo6666/article/details/157798463)
+
++ [基于FFT粗估计和LS最小二乘法精估计的正弦信号参数估计和检测matlab仿真](https://blog.csdn.net/aycd1234/article/details/157875305)
+
++ [Flutter for OpenHarmony：绿氧 - 基于Flutter的呼吸训练应用开发实践与身心交互设计](https://blog.csdn.net/2501_93814044/article/details/157870751)
+
