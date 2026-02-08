@@ -143,3 +143,5 @@
 
 + [hixl vs NCCL：昇腾生态通信库的独特优势分析](https://blog.csdn.net/2401_89899187/article/details/157815116)
 
++ [Flutter for OpenHarmony 实战：SizeTransition实现大小变化过渡](https://blog.csdn.net/er222_/article/details/157876504)
+
