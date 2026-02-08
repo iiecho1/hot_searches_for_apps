@@ -195,3 +195,9 @@
 
 + [【Linux之旅】Linux 进程间通信（IPC）全解析：从管道到共享内存，吃透进程协作核心](https://blog.csdn.net/2302_80243065/article/details/157838723)
 
++ [Flutter for OpenHarmony：语桥 - 基于Flutter的离线多语言短语速查工具实现与国际化设计理念](https://blog.csdn.net/2501_93814044/article/details/157870656)
+
++ [[Redis从零到精通|第四篇]：缓存穿透、雪崩、击穿](https://blog.csdn.net/2504_94294476/article/details/157775305)
+
++ [基于华为开发者空间，零部署OpenClaw接入飞书实现热门新闻主动推送功能](https://blog.csdn.net/devcloud/article/details/157769572)
+
