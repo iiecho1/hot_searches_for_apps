@@ -271,3 +271,9 @@
 
 + [【GitHub开源AI精选】EvoCUA：美团开源的多模态计算机操作智能体，重塑自动化新范式](https://blog.csdn.net/xiaobing259/article/details/157646108)
 
++ [深度学习周报（2.2~2.8）](https://blog.csdn.net/m0_57788739/article/details/157839005)
+
++ [MCP：AI智能体时代的“USB-C接口“，微调终结者还是效率革命？](https://blog.csdn.net/lgf228/article/details/157873298)
+
++ [每天认识一种投资品类：加密货币](https://blog.csdn.net/K346K346/article/details/157873386)
+
