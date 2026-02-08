@@ -237,3 +237,27 @@
 
 + [自己制作 的 豆包语音助手，配合PC端使用](https://blog.csdn.net/csdn_life18/article/details/157847172)
 
++ [Linux 文件描述符与重定向实战：从原理到 minishell 实现](https://blog.csdn.net/2503_91389547/article/details/157552511)
+
++ [ASP.NET路由长度约束精讲：[HttpGet (“{name:minlength (3)}“)] 字符长度限制吃透，附避坑指南 + 实战代码](https://blog.csdn.net/William_cl/article/details/157813925)
+
++ [持久化数据管理中心模块](https://blog.csdn.net/2402_82670467/article/details/157872575)
+
++ [从HCI报文透视LE Audio重连流程（3）：音频流建立、同步与终止](https://blog.csdn.net/weixin_37800531/article/details/157776168)
+
++ [【Linux系统编程】（二十九）深度解密静态链接：从目标文件到可执行程序的底层魔法](https://blog.csdn.net/2301_79248256/article/details/157869745)
+
++ [Flutter for OpenHarmony 构建简易区块链：从交易到挖矿的完整模拟](https://blog.csdn.net/2501_93573294/article/details/157846612)
+
++ [Flutter+OpenHarmony 跨平台实战：智能校园信息平台开发全记录（Day1-Day14）](https://blog.csdn.net/Spearbattle/article/details/157873725)
+
++ [SpringMVC处理流程完全指南：从请求到响应的完整旅程](https://blog.csdn.net/2301_79751930/article/details/157775809)
+
++ [应用层自定义协议与序列化 网络计算器的实现（1）](https://blog.csdn.net/asciiletters/article/details/157841812)
+
++ [Degradation-Aware Feature Perturbation for All-in-One Image Restoration](https://blog.csdn.net/qq_41200212/article/details/157773428)
+
++ [Unity (U3D) 摄像机 Camera 核心参数详解](https://blog.csdn.net/feng1790291543/article/details/156889801)
+
++ [【收尾以及复盘】flutter开发鸿蒙APP之成就徽章页面](https://blog.csdn.net/qq_33247427/article/details/157793615)
+
