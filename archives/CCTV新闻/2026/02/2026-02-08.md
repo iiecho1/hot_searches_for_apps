@@ -203,3 +203,13 @@
 
 + [澳大利亚自由党和国家党重组反对党联盟](https://news.cctv.com/2026/02/08/ARTIANbZrs4k4lcugkPF6DAa260208.shtml)
 
++ [“和平委员会”首会在即 多国表示“无法加入”](https://news.cctv.com/2026/02/08/ARTITNfBdrwh01LXG6jmMHqN260208.shtml)
+
++ [行为艺术？日本6000米“海底捞”稀土](https://news.cctv.com/2026/02/08/ARTI3GzpiCjvqwNBlMBOOuLu260208.shtml)
+
++ [伊朗外长：进行铀浓缩是伊朗的权利](https://news.cctv.com/2026/02/08/ARTI6lLvbhQzcZKFLVD2vLIr260208.shtml)
+
++ [日本强降雪已致46人死500多人伤](https://news.cctv.com/2026/02/08/ARTIenbuZ71vnr97XiWN4Osm260208.shtml)
+
++ [袭击俄军中将的嫌疑人在迪拜被拘捕](https://news.cctv.com/2026/02/08/ARTIuGN4D21yZZeFsX1mKWTW260208.shtml)
+

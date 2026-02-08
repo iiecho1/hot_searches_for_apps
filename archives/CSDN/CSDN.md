@@ -207,3 +207,19 @@
 
 + [.net也可以用Electron开发跨平台的桌面程序了](https://blog.csdn.net/qqqqqqqqqq198968/article/details/157769238)
 
++ [基于深度学习的肺音分类算法研究](https://blog.csdn.net/Dev7z/article/details/157774969)
+
++ [Skill 构建指南：从零打造 AI 智能体扩展包](https://blog.csdn.net/weixin_39939819/article/details/157777024)
+
++ [docker-cgroup的理解和使用、namespace、微服务2026/1/22](https://blog.csdn.net/m0_71510778/article/details/157871944)
+
++ [Android16进阶之获取播放位置MediaPlayer.getCurrentPosition调用流程与实战(二百二十八)](https://blog.csdn.net/u010164190/article/details/157871431)
+
++ [OpenCode：开源 AI Coding Agent 技术与行业分析](https://blog.csdn.net/fyfugoyfa/article/details/157844145)
+
++ [HTML新春烟花](https://blog.csdn.net/m0_68111267/article/details/157871318)
+
++ [技术实战：基于电梯梯控产品融合算法构建高可用机器人梯控中间件](https://blog.csdn.net/Robustel/article/details/157727460)
+
++ [数据工程实践：Aloudata CAN 如何通过 NoETL 实现真·管研用一体？](https://blog.csdn.net/Aloudata/article/details/157771810)
+
