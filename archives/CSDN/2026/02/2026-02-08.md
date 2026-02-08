@@ -177,3 +177,21 @@
 
 + [PostgreSQL 核心原理：什么场景下开启 JIT 能提升性能？（JIT 编译）](https://blog.csdn.net/cui_yonghua/article/details/157766651)
 
++ [PostgreSQL 性能优化：连接数过多的原因分析与连接池方案](https://blog.csdn.net/cui_yonghua/article/details/157869818)
+
++ [【SpringBoot 3.x 第72节】都微服务了，你还在写一堆 if-else 串消息？那你集成到底图啥？](https://blog.csdn.net/weixin_43970743/article/details/156767441)
+
++ [Oracle 26ai DataGuard 搭建(RAC到单机)](https://blog.csdn.net/weixin_41645135/article/details/157869345)
+
++ [【Mybatis】Mybatis-plus使用介绍](https://blog.csdn.net/2301_81614213/article/details/157731493)
+
++ [LabVIEW模拟前端电压自动标定系统](https://blog.csdn.net/bjcyck/article/details/157844182)
+
++ [C++ 容器](https://blog.csdn.net/2401_86753294/article/details/157772029)
+
++ [Flutter for OpenHarmony：节奏方块 - 基于时间同步与连击机制的实时音乐游戏系统设计](https://blog.csdn.net/weixin_63843758/article/details/157869171)
+
++ [JavaGUI智能无人机仿真系统开发实战：多线程协同与动态作战模拟](https://blog.csdn.net/XiaoYu1__/article/details/157870062)
+
++ [【Linux之旅】Linux 进程间通信（IPC）全解析：从管道到共享内存，吃透进程协作核心](https://blog.csdn.net/2302_80243065/article/details/157838723)
+
