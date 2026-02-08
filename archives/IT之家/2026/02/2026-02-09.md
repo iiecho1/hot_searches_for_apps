@@ -25,3 +25,25 @@
 
 + [天涯社区重启在即：以 1999 元招募创世成员，6 月 1 日恢复访问](https://m.ithome.com/html/920125.htm)
 
++ [官方回应微信鸿蒙版 App 相机界面变化：也是调用华为系统相机能力，依然支持红枫影像、变焦等](https://m.ithome.com/html/920233.htm)
+
++ [微信春节红包口令“复制”新进展：腾讯元宝已恢复、阿里千问“间接”恢复](https://m.ithome.com/html/920223.htm)
+
++ [阿里千问发文“求放过”：热度太高有点堵，免单卡有效期至 2 月 28 日](https://m.ithome.com/html/920254.htm)
+
++ [再次流下悔恨之泪：1.88 元原道十周年纪念版耳机公布，限量 8888 条](https://m.ithome.com/html/920263.htm)
+
++ [PLUS 再降 80 元：iPhone Air 京东 4979 元换新直降，京东 PLUS DAY 限今日](https://m.ithome.com/html/920286.htm)
+
++ [追觅 CEO 俞浩称永远尊敬小米华为、永远喷特斯拉，计划发起“吹牛大赛”](https://m.ithome.com/html/920273.htm)
+
++ [消息称苹果 / 鸿蒙 / 安卓阵营在互相致敬影像方案，1:1 方形前摄将“超级增强”](https://m.ithome.com/html/920222.htm)
+
++ [阿里千问 App 接入支付宝，“一分钱奶茶”可用支付宝 AI 付](https://m.ithome.com/html/920283.htm)
+
++ [小米汽车解释紧急避障速度设置 55km/h：参考国际标准 ISO 3888-2，可体现突遇障碍物车辆避险能力](https://m.ithome.com/html/920169.htm)
+
++ [买 NAS 送终身免费权益：零刻官宣 ME mini / ME Pro 飞牛商业版迅雷权益升级](https://m.ithome.com/html/920266.htm)
+
++ [华为 nova 15 系列获鸿蒙 HarmonyOS 6.0.0.130 SP16 升级，ROBBi 联名主题支持触发烟花特效等](https://m.ithome.com/html/920182.htm)
+

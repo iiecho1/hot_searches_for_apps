@@ -137,3 +137,9 @@
 
 + [安卓玩机自做小工具------内置apk应用 分析应用依赖库so文件工具操作](https://blog.csdn.net/u011283906/article/details/157773008)
 
++ [人工智能：深度学习：1.pytorch概述(2)](https://blog.csdn.net/2401_87568987/article/details/157872399)
+
++ [从Oracle到金仓：一场让人又爱又恨的迁移实战](https://blog.csdn.net/qq_32682301/article/details/157877187)
+
++ [hixl vs NCCL：昇腾生态通信库的独特优势分析](https://blog.csdn.net/2401_89899187/article/details/157815116)
+
