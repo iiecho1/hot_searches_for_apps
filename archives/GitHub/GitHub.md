@@ -25,3 +25,13 @@
 
 + [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
++ [pydantic/monty](https://github.com/pydantic/monty)
+
++ [virattt/dexter](https://github.com/virattt/dexter)
+
++ [google/langextract](https://github.com/google/langextract)
+
++ [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+
++ [home-assistant/addons](https://github.com/home-assistant/addons)
+
