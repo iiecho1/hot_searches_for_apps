@@ -29,3 +29,17 @@
 
 + [12306 高铁短补长查询](https://www.v2ex.com/t/1191361)
 
++ [mac 现在必备的有什么?](https://www.v2ex.com/t/1191386)
+
++ [2.8 正在加班](https://www.v2ex.com/t/1191474)
+
++ [用了安卓一段时间发现有个奇怪的现象](https://www.v2ex.com/t/1191396)
+
++ [404 警告, 正在摸鱼的你还记得你最初的梦想吗?偷偷的告诉我, 我保证不跟别人说.](https://www.v2ex.com/t/1191393)
+
++ [rmx：给 Windows 换一个能用的删除](https://www.v2ex.com/t/1191415)
+
++ [微信利用垄断地位作恶](https://www.v2ex.com/t/1191458)
+
++ [周末来玩小游戏啊](https://www.v2ex.com/t/1191402)
+

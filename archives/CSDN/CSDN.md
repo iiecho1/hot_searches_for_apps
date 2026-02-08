@@ -165,3 +165,15 @@
 
 + [SpringAOP动态代理：JDK与CGLib深度解析](https://blog.csdn.net/geigejif/article/details/157868788)
 
++ [Transformer实战——微调多语言Transformer模型](https://blog.csdn.net/LOVEmy134611/article/details/148008042)
+
++ [【愚公系列】《AI短视频创作一本通》020-AI短视频创作实例精解（文旅宣传AI短视频实例精解）](https://blog.csdn.net/aa2528877987/article/details/157402274)
+
++ [超越Spring的Summer（一）： PackageScanner 类实现原理详解](https://blog.csdn.net/2503_92624912/article/details/157844632)
+
++ [SCPI在LabVIEW仪器控制中的应用](https://blog.csdn.net/bjcyck/article/details/157844290)
+
++ [Kong MCP注册表与Peta：在人工智能系统中连接服务发现与运行时安全](https://blog.csdn.net/powerjuly/article/details/157774183)
+
++ [PostgreSQL 核心原理：什么场景下开启 JIT 能提升性能？（JIT 编译）](https://blog.csdn.net/cui_yonghua/article/details/157766651)
+

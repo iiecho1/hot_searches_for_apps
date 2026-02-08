@@ -189,3 +189,13 @@
 
 + [泰国国会下议院选举开始投票](https://news.cctv.com/2026/02/08/ARTIfQZ9iC27ZyfigHPISer6260208.shtml)
 
++ [日本三年大选三次？其实是16个月选举三次……](https://news.cctv.com/2026/02/08/ARTI4rvZ57F4gKJLLTO7xjP2260208.shtml)
+
++ [受强降雪影响 日本部分地区推迟众议院选举投票开始时间](https://news.cctv.com/2026/02/08/ARTIkudzMMx6yzmArmHx2WxV260208.shtml)
+
++ [丹麦：与美国就格陵兰岛谈判未达预期](https://news.cctv.com/2026/02/08/ARTIuS4nsA59lu1A05yJzmne260208.shtml)
+
++ [法国前文化部长因爱泼斯坦案提出辞去智库职务](https://news.cctv.com/2026/02/08/ARTIqkNPNYzAFVJj5DYSm4RF260208.shtml)
+
++ [克林顿夫妇要求就爱泼斯坦案公开作证](https://news.cctv.com/2026/02/08/ARTIBnDAxK1S1aMTgRUP5Ge4260208.shtml)
+
