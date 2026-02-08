@@ -181,3 +181,11 @@
 
 + [内塔尼亚胡将提前访问美国 讨论对伊朗谈判](https://news.cctv.com/2026/02/08/ARTIoIk9pWCl9PwILNvqtm1e260208.shtml)
 
++ [伊朗武装部队总参谋长：伊空军处于“最高战备状态”](https://news.cctv.com/2026/02/08/ARTIOzuc2jT97qVpgmyatTw8260208.shtml)
+
++ [韩国非洲猪瘟疫情蔓延](https://news.cctv.com/2026/02/08/ARTIieDucXlVeVIL3y4OID8d260208.shtml)
+
++ [特朗普社媒视频涉种族歧视　哈里斯批白宫试图“掩盖”](https://news.cctv.com/2026/02/08/ARTIsxGSs0gLnNoe6mfv3AER260208.shtml)
+
++ [泰国国会下议院选举开始投票](https://news.cctv.com/2026/02/08/ARTIfQZ9iC27ZyfigHPISer6260208.shtml)
+
