@@ -201,3 +201,9 @@
 
 + [基于华为开发者空间，零部署OpenClaw接入飞书实现热门新闻主动推送功能](https://blog.csdn.net/devcloud/article/details/157769572)
 
++ [经典CNN架构：LeNet、AlexNet、VGG、GoogLeNet、ResNet](https://blog.csdn.net/qq_73899585/article/details/157764830)
+
++ [SpringAIAlibaba之短期记忆与长期记忆实现原理(十一)](https://blog.csdn.net/shine0312/article/details/157774277)
+
++ [.net也可以用Electron开发跨平台的桌面程序了](https://blog.csdn.net/qqqqqqqqqq198968/article/details/157769238)
+

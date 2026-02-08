@@ -199,3 +199,7 @@
 
 + [克林顿夫妇要求就爱泼斯坦案公开作证](https://news.cctv.com/2026/02/08/ARTIBnDAxK1S1aMTgRUP5Ge4260208.shtml)
 
++ [泰国举行国会下议院选举 “橙蓝红”鼎立 组阁恐需政党联合](https://news.cctv.com/2026/02/08/ARTIVEKFAcwj4cYvcKTRyQw3260208.shtml)
+
++ [澳大利亚自由党和国家党重组反对党联盟](https://news.cctv.com/2026/02/08/ARTIANbZrs4k4lcugkPF6DAa260208.shtml)
+
