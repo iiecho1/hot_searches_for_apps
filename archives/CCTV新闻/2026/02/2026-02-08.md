@@ -213,3 +213,13 @@
 
 + [袭击俄军中将的嫌疑人在迪拜被拘捕](https://news.cctv.com/2026/02/08/ARTIuGN4D21yZZeFsX1mKWTW260208.shtml)
 
++ [同样被爱泼斯坦案牵连，美欧政坛反应却不同](https://news.cctv.com/2026/02/08/ARTIbv9f1M11v1H2xIAn2aCU260208.shtml)
+
++ [伊朗总统：与美国会谈是向前迈出的一步](https://news.cctv.com/2026/02/08/ARTI2dGELSgu8CBJ2IdMNymx260208.shtml)
+
++ [哈马斯高级官员：只要以方持续占领 巴方就不会停止抵抗](https://news.cctv.com/2026/02/08/ARTIRgNS1stKD4yZjSO4WsXY260208.shtml)
+
++ [俄称嫌疑人在乌方指使下袭击俄军中将 实施恐袭](https://news.cctv.com/2026/02/08/ARTIHYg4uHoXYbgWg8VnIkZ2260208.shtml)
+
++ [葡萄牙举行总统选举第二轮投票](https://news.cctv.com/2026/02/08/ARTIUpBo7cCgOHHdHLXm3lPj260208.shtml)
+
