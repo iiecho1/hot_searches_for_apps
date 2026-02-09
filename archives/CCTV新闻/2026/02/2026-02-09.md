@@ -217,3 +217,9 @@
 
 + [泰国自豪泰党胜选但未获过半席位](https://news.cctv.com/2026/02/09/ARTIWPYwdpREPO1YYLhe1up8260209.shtml)
 
++ [俄外长表示绝不允许在乌部署任何武器危及俄安全](https://news.cctv.com/2026/02/09/ARTItOEnmkgYtUNhmuqjlY2l260209.shtml)
+
++ [八国发表联合声明 强烈谴责以色列加强控制约旦河西岸](https://news.cctv.com/2026/02/09/ARTImvmw8aylNqeLvGUTaOSp260209.shtml)
+
++ [伊朗外长：美方行为致伊朗对美国存在“不信任之墙”](https://news.cctv.com/2026/02/09/ARTIcj8GsluvQOcakd8wonJG260209.shtml)
+
