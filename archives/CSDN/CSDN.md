@@ -113,3 +113,5 @@
 
 + [Notion创始人介绍：Ivan Zhao（赵伊万）](https://blog.csdn.net/ChailangCompany/article/details/157877088)
 
++ [【AI智能体】N8N AI 工作流对接MCP服务实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/157101827)
+
