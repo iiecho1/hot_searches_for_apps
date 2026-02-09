@@ -205,3 +205,7 @@
 
 + [俄军中将遇袭案两名嫌疑人已认罪](https://news.cctv.com/2026/02/09/ARTIUKuQwETTBqrNzrkY3BSx260209.shtml)
 
++ [西班牙多地遭遇冬季风暴](https://photo.cctv.com/2026/02/09/PHOAxmUugmjt264GgIqgHswY260209.shtml)
+
++ [初步计票结果显示泰国宪法公投获得通过](https://news.cctv.com/2026/02/09/ARTIidDEaolg5qVpFlZ3x1Ob260209.shtml)
+
