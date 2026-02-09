@@ -195,3 +195,13 @@
 
 + [韩国一军用直升机坠毁 2人死亡](https://news.cctv.com/2026/02/09/ARTIWBMsZj3kSPExbw44Qnz5260209.shtml)
 
++ [日本柏崎刈羽核电站再次启动](https://news.cctv.com/2026/02/09/ARTIxJTbaR0w5MbO8UEBzNYT260209.shtml)
+
++ [泰国北榄府一建筑发生倒塌 伤亡不明](https://news.cctv.com/2026/02/09/ARTIMld5dE0QdcvntcYYZUsQ260209.shtml)
+
++ [英首相办公厅主任引咎辞职 斯塔默提名代理主任](https://news.cctv.com/2026/02/09/ARTI62wKrfHNhDsuc31XlgWe260209.shtml)
+
++ [为选举失利负责 日本“中道改革联合”两位共同代表决定辞职](https://news.cctv.com/2026/02/09/ARTInnOin7CSRjkkTPfTD7sg260209.shtml)
+
++ [俄军中将遇袭案两名嫌疑人已认罪](https://news.cctv.com/2026/02/09/ARTIUKuQwETTBqrNzrkY3BSx260209.shtml)
+
