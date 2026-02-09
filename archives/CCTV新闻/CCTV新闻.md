@@ -191,3 +191,7 @@
 
 + [日本人均实际工资连续4年负增长](https://news.cctv.com/2026/02/09/ARTIqtmWBSNZ63ooAKvXaiKw260209.shtml)
 
++ [古巴航空燃油告急 预计将影响该国所有国际机场](https://news.cctv.com/2026/02/09/ARTIwH1y7zKFm80X8fxMrw6P260209.shtml)
+
++ [韩国一军用直升机坠毁 2人死亡](https://news.cctv.com/2026/02/09/ARTIWBMsZj3kSPExbw44Qnz5260209.shtml)
+

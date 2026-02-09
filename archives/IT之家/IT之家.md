@@ -47,3 +47,15 @@
 
 + [华为 nova 15 系列获鸿蒙 HarmonyOS 6.0.0.130 SP16 升级，ROBBi 联名主题支持触发烟花特效等](https://m.ithome.com/html/920182.htm)
 
++ [古尔曼爆料苹果 iPhone 17e 即将发布：升级 A19 芯片和 MagSafe 充电，价格不变](https://m.ithome.com/html/920313.htm)
+
++ [苹果 iPad 12 和 iPad Air 8 整装待发：升级 A18 和 M4 芯片，入门机型首次支持 Apple Intelligence](https://m.ithome.com/html/920310.htm)
+
++ [消息称华为 Pura X2 预计是首台“阔大折”手机，将升级麒麟 9030 芯片和长焦](https://m.ithome.com/html/920334.htm)
+
++ [从 MacBook、iPad 到 iPhone 17e 苹果 2026 款春季新品攻势揭幕：25 亿设备夯实 AI 优势，库克内部讲话曝光](https://m.ithome.com/html/920312.htm)
+
++ [周一年货节狂促加码 24 小时：B站京东 PLUS 网盘下载会员探底，iPhone Air 自营换新 4979 元新低](https://m.ithome.com/html/920318.htm)
+
++ [苹果首次进驻中国口岸进境免税渠道，珠免集团实现智能电子品类落地](https://m.ithome.com/html/920241.htm)
+
