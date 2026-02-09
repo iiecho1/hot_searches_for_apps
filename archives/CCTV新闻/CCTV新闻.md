@@ -169,3 +169,25 @@
 
 + [黎巴嫩的黎波里市一居民楼倒塌 已致5人遇难](https://news.cctv.com/2026/02/09/ARTIEglQQx5uDyqMTdk9KE26260209.shtml)
 
++ [警惕对美依赖 欧洲加快数字欧元布局](https://news.cctv.com/2026/02/09/ARTIAlcMefHIz6uBzML6mNzd260209.shtml)
+
++ [以安全内阁批准多项决定 加强控制约旦河西岸](https://news.cctv.com/2026/02/09/ARTIS3YtHGCqrFVA4fC8xGJe260209.shtml)
+
++ [尼日利亚发生严重车祸 造成至少30人死亡](https://news.cctv.com/2026/02/09/ARTI8A45FSjuCZleE10jIfwi260209.shtml)
+
++ [墨西哥派出两艘军舰向古巴运送人道主义援助](https://news.cctv.com/2026/02/09/ARTI1dxhByKPSLZ5w3WVlQ7q260209.shtml)
+
++ [韩国京畿道一军用直升机发生事故 机上2人重伤](https://news.cctv.com/2026/02/09/ARTIg7QXa0Kje1PhRj2gqLPj260209.shtml)
+
++ [与第二大在野党合并？韩执政党内部起争议](https://news.cctv.com/2026/02/09/ARTIVKFO7xsvZJbWjSPdxvGX260209.shtml)
+
++ [金正恩视察国防省祝贺建军节](https://news.cctv.com/2026/02/09/ARTIL2lIMsUtVUDH24nNZiZO260209.shtml)
+
++ [日本律师团体向高等法院提起诉讼 要求判定众议院选举无效](https://news.cctv.com/2026/02/09/ARTI7xd7yHkwqhlDDcu6fUAR260209.shtml)
+
++ [马来西亚吉隆坡举行“2026年全国挥春大会”](https://photo.cctv.com/2026/02/09/PHOAGzd4NdO3S0gAoh8Qeged260209.shtml)
+
++ [2026内罗毕中国春节庙会开幕](https://photo.cctv.com/2026/02/09/PHOATzhbLdtqRVx9OS3cNnSz260209.shtml)
+
++ [日本人均实际工资连续4年负增长](https://news.cctv.com/2026/02/09/ARTIqtmWBSNZ63ooAKvXaiKw260209.shtml)
+

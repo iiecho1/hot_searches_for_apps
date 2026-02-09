@@ -163,3 +163,31 @@
 
 + [轻量级实时数仓架构选型指南](https://blog.csdn.net/t1g2q3/article/details/157876649)
 
++ [【魔法森林冒险】6/14 Lia类深度解析：盟友角色的设计与交互](https://blog.csdn.net/2502_93596214/article/details/157813758)
+
++ [《机器学习导论》第 10 章-线性判别式](https://blog.csdn.net/2302_80961196/article/details/157877009)
+
++ [HarmonyOS App 工程深水区：从能跑到可控](https://blog.csdn.net/qq_36863796/article/details/157876814)
+
++ [LLM - Claude-Mem 让 Claude Code 拥有长期记忆](https://blog.csdn.net/yangshangwei/article/details/157876825)
+
++ [关系数据库迁移方案 - 金仓KingbaseES替代Oracle，深度兼容性解析与平滑迁移实践指南](https://blog.csdn.net/beautifulmemory/article/details/157879402)
+
++ [2025春秋杯网络安全联赛冬季赛-day2](https://blog.csdn.net/Myon5/article/details/157869695)
+
++ [增删改查时如何提高Mysql与Redis的一致性](https://blog.csdn.net/czlczl20020925/article/details/157873666)
+
++ [向阳花木（二）C++ ATTR 宏自动属性生成器——封装配置项](https://blog.csdn.net/qq_43572400/article/details/157874392)
+
++ [Redis的主从复制和哨兵机制](https://blog.csdn.net/lydeee/article/details/157874763)
+
++ [Vue 智慧商城项目](https://blog.csdn.net/lihuihtl/article/details/157876446)
+
++ [OpenClaw-VSCode：在 VS Code 中通过 WebSocket 远程管理 OpenClaw 网关的完整方案](https://blog.csdn.net/CaracalTiger/article/details/157875842)
+
++ [Java基于微信小程序的模拟考试系统，附源码+文档说明](https://blog.csdn.net/2301_77835649/article/details/157876624)
+
++ [CANN 生态 ×AIGC 合规：cann-compliance 让大模型落地既安全又合规](https://blog.csdn.net/to_mountain/article/details/157869647)
+
++ [【51单片机】从 0 到 1 玩转 51 蜂鸣器：分清有源无源，轻松驱动它奏响新年旋律](https://blog.csdn.net/2401_87342824/article/details/157842056)
+
