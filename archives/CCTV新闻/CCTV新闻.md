@@ -209,3 +209,9 @@
 
 + [初步计票结果显示泰国宪法公投获得通过](https://news.cctv.com/2026/02/09/ARTIidDEaolg5qVpFlZ3x1Ob260209.shtml)
 
++ [黎巴嫩的黎波里市老旧建筑倒塌共致14人遇难](https://news.cctv.com/2026/02/09/ARTId42M4LdGu3YGVF8BWuNw260209.shtml)
+
++ [初步计票结果显示自豪泰党将成泰国下议院第一大党](https://news.cctv.com/2026/02/09/ARTIxGfvMyyDubMUwvSVAMf0260209.shtml)
+
++ [科特迪瓦西南部严重交通事故致至少17人死亡](https://news.cctv.com/2026/02/09/ARTIQ2v37wrmdPLzeL9QI4GC260209.shtml)
+

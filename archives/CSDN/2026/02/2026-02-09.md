@@ -227,3 +227,7 @@
 
 + [计算机网络经典问题透视：简述一下第二代蜂窝移动通信网的主要特点](https://blog.csdn.net/qq_74326393/article/details/157776938)
 
++ [Kafka--使用 Kafka Connect 导入/导出数据](https://blog.csdn.net/q383965374/article/details/157876881)
+
++ [Claude和GPT新模型撞车发布。。。](https://blog.csdn.net/zzh516451964zzh/article/details/157809209)
+
