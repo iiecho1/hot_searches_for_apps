@@ -251,3 +251,11 @@
 
 + [【HarmonyOS】鸿蒙Flutter智能家居应用开发实战指南](https://blog.csdn.net/2301_81152266/article/details/157908313)
 
++ [Flutter开源鸿蒙跨平台训练营 Day12从零开发通用型登录页面](https://blog.csdn.net/2401_85083137/article/details/157875704)
+
++ [OpenClaw AI 物理级离线部署指南：开启 Windows 侧的 AI 新纪元](https://blog.csdn.net/weixin_66671447/article/details/157871632)
+
++ [跨境远程办公工具横测：如何选择高稳定、低延迟的远程控制方案？](https://blog.csdn.net/2401_87629362/article/details/157844255)
+
++ [[开源] myclaw：2000 行 Go 平替 43 万行的 OpenClaw](https://blog.csdn.net/weixin_41301508/article/details/157874181)
+
