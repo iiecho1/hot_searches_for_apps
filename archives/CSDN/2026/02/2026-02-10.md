@@ -115,3 +115,7 @@
 
 + [【AI智能体】N8N AI 工作流对接MCP服务实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/157101827)
 
++ [《机器学习导论》第 10 章-线性判别式](https://blog.csdn.net/2302_80961196/article/details/157877009)
+
++ [ClickHouse Exit Code 139 / SIGSEGV 排查手册与原理说明](https://blog.csdn.net/hezuijiudexiaobai/article/details/157909913)
+
