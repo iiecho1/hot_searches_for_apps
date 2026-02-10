@@ -121,3 +121,11 @@
 
 + [气象流体场：基于 Flutter for OpenHarmony 的实时天气流体动力学可视化系统](https://blog.csdn.net/2502_92709686/article/details/157877189)
 
++ [sql报错注入](https://blog.csdn.net/m0_71995310/article/details/157912100)
+
++ [深度学习周报（2.2~2.8）](https://blog.csdn.net/m0_57788739/article/details/157839005)
+
++ [基于腾讯云 Cloud Studio 的 Hexo 博客搭建全流程实战（云端零配置方案）](https://blog.csdn.net/weixin_52908342/article/details/157940905)
+
++ [Vue 智慧商城项目](https://blog.csdn.net/lihuihtl/article/details/157876446)
+
