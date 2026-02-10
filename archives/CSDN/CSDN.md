@@ -169,3 +169,13 @@
 
 + [灵境新增 K8s kubernetes-goat-containerd 靶机](https://blog.csdn.net/2403_88183381/article/details/157909685)
 
++ [Ansible+cpolar 实现 NAS 设备远程自动化管理](https://blog.csdn.net/weixin_62782025/article/details/157905866)
+
++ [Spring AI Alibaba 学习（二）：Agent 智能体架构深度解析](https://blog.csdn.net/qq_53609042/article/details/157910629)
+
++ [Ruoyi框架防重复提交组件深度解析：从注解到拦截器的完整实现](https://blog.csdn.net/yelangkingwuzuhu/article/details/157877576)
+
++ [Docker部署Hadoop+Flink集群](https://blog.csdn.net/m0_57280180/article/details/157913011)
+
++ [什么是裸金属服务器（Bare Metal Server)？](https://blog.csdn.net/guigenyi/article/details/157911703)
+
