@@ -133,3 +133,9 @@
 
 + [05-AI与网络安全](https://blog.csdn.net/parker1234/article/details/157876751)
 
++ [Python-文字＞语音转换器](https://blog.csdn.net/qiao_yue/article/details/157912453)
+
++ [Flutter for OpenHarmony 实战：equatable 插件简化值相等性的终极方案](https://blog.csdn.net/jiang_style/article/details/157913035)
+
++ [Flutter for OpenHarmony 实战：flutter_animate 声明式动画让 UI 灵动如原生](https://blog.csdn.net/cannonjinx/article/details/157911894)
+

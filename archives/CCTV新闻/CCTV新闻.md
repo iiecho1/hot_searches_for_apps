@@ -163,3 +163,7 @@
 
 + [几内亚检察机关：前高官被转移监狱 未发生劫狱](https://news.cctv.com/2026/02/11/ARTI2CJcJYJgQhQk8r2ZlwYT260211.shtml)
 
++ [美媒：特朗普称正考虑派第二艘航母前往中东](https://news.cctv.com/2026/02/11/ARTIJuaMDu0QWFro8FDLqVH4260211.shtml)
+
++ [伊朗外长：内塔尼亚胡试图将美国拖入同伊朗的战争](https://news.cctv.com/2026/02/11/ARTIx9QgXrmrTkHsIaZNWrJX260211.shtml)
+
