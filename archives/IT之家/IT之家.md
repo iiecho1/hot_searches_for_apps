@@ -49,3 +49,5 @@
 
 + [暴涨 38%：“爱马仕橙”iPhone 17 Pro / Max 引爆苹果在中国市场销量](https://m.ithome.com/html/920676.htm)
 
++ [新一代小米 SU7 电池信息出炉，CLTC 最大纯电续航 902km](https://m.ithome.com/html/920714.htm)
+

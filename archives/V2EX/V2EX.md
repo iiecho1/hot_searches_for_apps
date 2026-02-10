@@ -53,3 +53,7 @@
 
 + [男人一般多少岁开始不行了？](https://www.v2ex.com/t/1191874)
 
++ [AI 测试 &#34;我想洗车，离洗车店只有 50 米，你建议我开车去还是走去&#34;](https://www.v2ex.com/t/1191924)
+
++ [Antify — macOS 网络控制工具， Proxifier 的简易免费版](https://www.v2ex.com/t/1191848)
+
