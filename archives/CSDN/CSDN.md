@@ -183,3 +183,5 @@
 
 + [2025春秋杯网络安全联赛冬季赛-day3](https://blog.csdn.net/Myon5/article/details/157869803)
 
++ [【连续八届EI快检索|IEEE出版】第九届大数据与应用统计国际学术研讨会（ISBDAS 2026）](https://blog.csdn.net/Pocker_Spades_A/article/details/157911302)
+
