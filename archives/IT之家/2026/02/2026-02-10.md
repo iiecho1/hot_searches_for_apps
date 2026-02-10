@@ -25,3 +25,27 @@
 
 + [苹果首次进驻中国口岸进境免税渠道，珠免集团实现智能电子品类落地](https://m.ithome.com/html/920241.htm)
 
++ [飞象网项立刚炮轰罗永浩：自己不懂还没有自知之明，锤子手机是钱晨和吴德周做出来的](https://m.ithome.com/html/920534.htm)
+
++ [极氪回应召回近 4 万辆 001 汽车：将免费为相关车辆更换动力电池，不涉及现款](https://m.ithome.com/html/920569.htm)
+
++ [广东中山查获一起无人机黑飞案：破解限高飞至 8000 米、距离客机仅 800 米](https://m.ithome.com/html/920585.htm)
+
++ [苹果前首席设计官乔纳森 &#183; 伊夫：触摸屏不适合用作汽车的主要交互方式](https://m.ithome.com/html/920620.htm)
+
++ [《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0：AIGC 的童年时代，结束了](https://m.ithome.com/html/920483.htm)
+
++ [苹果最便宜 MacBook 前瞻：12.9 英寸屏幕、A18 Pro 芯片、8GB 内存](https://m.ithome.com/html/920638.htm)
+
++ [公安部：缅甸妙瓦底 KK 园区 630 余栋相关建筑物已被全部拆除，1500 余嫌犯押解回国](https://m.ithome.com/html/920542.htm)
+
++ [阿里“千问工具箱”小程序被微信限制，提示“可能存在欺诈行为”](https://m.ithome.com/html/920598.htm)
+
++ [国铁 12306：高铁动车“无座”车票有具体归属车厢，建议尽量不去“静音车厢”乘坐](https://m.ithome.com/html/920484.htm)
+
++ [高德打车因管理缺失、压低运价被约谈整改](https://m.ithome.com/html/920586.htm)
+
++ [法拉利首款电动跑车定名 Luce：行业首发 E-Ink 墨水屏钥匙，“iPhone 之父”乔纳森 &#183; 伊夫操刀](https://m.ithome.com/html/920622.htm)
+
++ [暴涨 38%：“爱马仕橙”iPhone 17 Pro / Max 引爆苹果在中国市场销量](https://m.ithome.com/html/920676.htm)
+
