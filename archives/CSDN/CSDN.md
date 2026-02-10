@@ -157,3 +157,15 @@
 
 + [Spring Cloud微服务之间调用Dubbo](https://blog.csdn.net/Demon_Hao/article/details/157902796)
 
++ [PostgreSQL性能优化：如何读懂 postgresql.log 中的关键错误（日志分析）](https://blog.csdn.net/cui_yonghua/article/details/157874700)
+
++ [基于YOLO的杂乱场景中低空无人机多尺度与小目标检测框架](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/157899080)
+
++ [【魔法森林冒险】5/14 Allen类（三）：任务进度与状态管理](https://blog.csdn.net/2502_93596214/article/details/157813725)
+
++ [【开题答辩全过程】以 基于SpringBoot云旅行微信小程序的设计和实现为例，包含答辩的问题和答案](https://blog.csdn.net/shiji7553/article/details/157905337)
+
++ [MySQL 在 Docker 中的部署与数据持久化](https://blog.csdn.net/qq_36478920/article/details/157911087)
+
++ [灵境新增 K8s kubernetes-goat-containerd 靶机](https://blog.csdn.net/2403_88183381/article/details/157909685)
+
