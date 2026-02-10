@@ -167,3 +167,17 @@
 
 + [白宫：美总统不会赦免爱泼斯坦同伙马克斯韦尔](https://news.cctv.com/2026/02/10/ARTILyZa8p32MuKStpaARKD8260210.shtml)
 
++ [菲律宾南部沉船事故死亡人数升至51人](https://news.cctv.com/2026/02/10/ARTIf6Fe1NbKeIjJYqwLAMsX260210.shtml)
+
++ [美国公布与孟加拉国贸易协议](https://news.cctv.com/2026/02/10/ARTIvKyKZ9wEjoCpFEJFvBED260210.shtml)
+
++ [国际观察丨国际黄金价格波动背后有何深意](https://news.cctv.com/2026/02/10/ARTIsWJHuxKZ7vUKmIcHsqWo260210.shtml)
+
++ [四海同贺中国年 多位国际政要送上马年新春祝福](https://news.cctv.com/2026/02/10/ARTI07H5itQUnUK73Did1Ht3260210.shtml)
+
++ [韩国警方对“无人机入朝事件”相关单位进行扣押搜查](https://news.cctv.com/2026/02/10/ARTIPzsmubY6hQdU7vlvy7nk260210.shtml)
+
++ [日本政府决定召集特别国会](https://news.cctv.com/2026/02/10/ARTItTaSbaBZyUlHFJUfCtjT260210.shtml)
+
++ [美国一小飞机迫降公路连撞多车](https://news.cctv.com/2026/02/10/ARTInudXlOACt0RdNKHWIysD260210.shtml)
+

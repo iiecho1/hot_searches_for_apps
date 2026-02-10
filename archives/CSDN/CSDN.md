@@ -125,3 +125,21 @@
 
 + [【无人机协同】基于matlab动态环境下多无人机系统的协同路径规划与防撞（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/157749345)
 
++ [迈向自主可控的深度实践：电科金仓KingbaseES文档数据库替代MongoDB的技术路径与效能全景](https://blog.csdn.net/beautifulmemory/article/details/157901118)
+
++ [Kotlin Multiplatform 深度指南：从原理到实践](https://blog.csdn.net/csdn_silent/article/details/157905435)
+
++ [《机器学习导论》第 11 章 - 多层感知器（MLP）](https://blog.csdn.net/2302_80961196/article/details/157911179)
+
++ [HarmonyOS app流畅度的真正问题](https://blog.csdn.net/qq_36863796/article/details/157908921)
+
++ [音乐多轨创作→新能源汽车研发测试的思路迁移&NVH原理共通性](https://blog.csdn.net/weixin_62244995/article/details/157842207)
+
++ [【Linux之旅】Linux 进程间通信（IPC）全解析：从管道到共享内存，吃透进程协作核心](https://blog.csdn.net/2302_80243065/article/details/157838723)
+
++ [[论文阅读] (48)TIFS24 基于注意力的恶意软件API定位技术](https://blog.csdn.net/Eastmount/article/details/157174895)
+
++ [【Linux】HTTP协议深度解析（二）：方法、状态码与Header详解](https://blog.csdn.net/2301_79849925/article/details/157846260)
+
++ [【云原生】Gateway API高级功能](https://blog.csdn.net/weixin_73059729/article/details/157870745)
+
