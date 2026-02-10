@@ -27,3 +27,13 @@
 
 + [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 
++ [google/langextract](https://github.com/google/langextract)
+
++ [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
+
++ [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+
++ [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
+
++ [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+
