@@ -207,3 +207,5 @@
 
 + [法国表示已在技术层面与俄罗斯恢复对话渠道](https://news.cctv.com/2026/02/10/ARTI58f7n5zdPQDNOrYOXWUL260210.shtml)
 
++ [吉尔吉斯斯坦副总理被解职](https://news.cctv.com/2026/02/10/ARTIwn0OUWIJ3zPH5WRLDqDo260210.shtml)
+
