@@ -219,3 +219,9 @@
 
 + [俄外长：俄仍愿遵守核军控条约限额 前提是美方也遵守](https://news.cctv.com/2026/02/11/ARTIjeOptadqpFZs3zb0FEd4260211.shtml)
 
++ [泰国警方称已逮捕校园枪击案枪手](https://news.cctv.com/2026/02/11/ARTIhasu0gJJOwre9gWNQxns260211.shtml)
+
++ [应对灾情不力 葡萄牙内政部长引咎辞职](https://news.cctv.com/2026/02/11/ARTIMYoaFLkSXPFwcurv8hfF260211.shtml)
+
++ [“我们离美国梦太远”：关税加剧岗位流失 美民众生活成本高企](https://news.cctv.com/2026/02/11/ARTIr02LoxO5QCcWfQncYVUr260211.shtml)
+

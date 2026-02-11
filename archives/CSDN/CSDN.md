@@ -195,3 +195,5 @@
 
 + [C++之《程序员自我修养》读书总结(3)](https://blog.csdn.net/Once_day/article/details/157935793)
 
++ [基于协同过滤算法的招聘信息推荐系统 _django+spider](https://blog.csdn.net/shmp54/article/details/157906701)
+
