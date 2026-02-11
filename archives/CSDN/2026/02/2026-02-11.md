@@ -163,3 +163,13 @@
 
 + [Flutter for OpenHarmony 实战：built_value 强类型模型生成与不可变数据模型](https://blog.csdn.net/jiang_style/article/details/157904187)
 
++ [HarmonyOS App 为什么“越优化，反而越卡](https://blog.csdn.net/qq_36863796/article/details/157910670)
+
++ [Android tinyalsa深度解析之pcm_write调用流程与实战(一百零九)](https://blog.csdn.net/u010164190/article/details/157729867)
+
++ [迈向自主可控的深度实践：电科金仓KingbaseES文档数据库替代MongoDB的技术路径与效能全景](https://blog.csdn.net/beautifulmemory/article/details/157901118)
+
++ [美团发布基于 N-gram 全新模型：嵌入扩展新范式，实现轻量化 MoE 高效进化](https://blog.csdn.net/MeituanTech/article/details/157940598)
+
++ [Jenkins + Kubernetes CI/CD 实战指南：从零搭建自动化部署流水线](https://blog.csdn.net/u013857458/article/details/157905311)
+

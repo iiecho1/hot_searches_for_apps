@@ -185,3 +185,17 @@
 
 + [美商务部长承认曾在与爱泼斯坦关系问题上“说谎”](https://news.cctv.com/2026/02/11/ARTI84tyGctPfjGvHSN9TOyJ260211.shtml)
 
++ [印尼一架飞机遭枪击坠毁 两名飞行员遇难](https://news.cctv.com/2026/02/11/ARTI6WlD4wmlm4ZZYvWFxQCF260211.shtml)
+
++ [高市早苗正在开启东亚的“潘多拉魔盒”](https://news.cctv.com/2026/02/11/ARTIbwFiWNeybuKL2u2k1zav260211.shtml)
+
++ [泽连斯基或于近期公布乌总统选举计划](https://news.cctv.com/2026/02/11/ARTI7TYLZ777D21P8yrSDOfG260211.shtml)
+
++ [加拿大总理对中学枪击事件表示“震惊”](https://news.cctv.com/2026/02/11/ARTITOenwuT4OdVyT1rD0ylX260211.shtml)
+
++ [美国因天气原因再次推迟“龙”飞船载人发射任务](https://news.cctv.com/2026/02/11/ARTIiYtj39no4RVYiwmS6SKL260211.shtml)
+
++ [美国移民事务主管在国会接受质询](https://news.cctv.com/2026/02/11/ARTI8Ie83eVFOvG0vBG0ffMR260211.shtml)
+
++ [伊朗外长：相信可以达成优于伊核协议的新协议](https://news.cctv.com/2026/02/11/ARTITZkeEkDKURpUiUY5Oz9i260211.shtml)
+
