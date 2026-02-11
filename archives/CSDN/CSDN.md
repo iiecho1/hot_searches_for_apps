@@ -133,3 +133,13 @@
 
 + [《双模电子计分板：基于 Flutter for OpenHarmony 的极简赛事记分系统》](https://blog.csdn.net/2502_92709686/article/details/157910644)
 
++ [PyTorch实战（28）——PyTorch深度学习模型部署](https://blog.csdn.net/LOVEmy134611/article/details/150991255)
+
++ [深度学习实战-基于CNN与Transformer的人工智能艺术VS人类艺术识别模型](https://blog.csdn.net/m0_64336780/article/details/157328212)
+
++ [IP 协议到底在干嘛？——从通信本质理解网络世界的运行逻辑](https://blog.csdn.net/2301_80236968/article/details/157212636)
+
++ [HarmonyOS 6 自定义人脸识别模型3：OH_NativeXComponent基于OpenGL绘制](https://blog.csdn.net/sjw890821sjw/article/details/157935932)
+
++ [动态代理在提升网络安全中的作用及应用](https://blog.csdn.net/m0_53204832/article/details/157905360)
+
