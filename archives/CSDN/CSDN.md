@@ -197,3 +197,7 @@
 
 + [基于协同过滤算法的招聘信息推荐系统 _django+spider](https://blog.csdn.net/shmp54/article/details/157906701)
 
++ [Seedance 2.0 完整操作手册：AI 视频创作进入人人都是导演时代](https://blog.csdn.net/m0_62672602/article/details/157912517)
+
++ [Kubernetes 集群实战部署指南：从零搭建生产级K8s环境](https://blog.csdn.net/u013857458/article/details/157904976)
+

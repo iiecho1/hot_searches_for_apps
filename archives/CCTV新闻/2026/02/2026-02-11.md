@@ -225,3 +225,5 @@
 
 + [“我们离美国梦太远”：关税加剧岗位流失 美民众生活成本高企](https://news.cctv.com/2026/02/11/ARTIr02LoxO5QCcWfQncYVUr260211.shtml)
 
++ [中国驻爱尔兰使馆提醒：警惕非法中介陷阱 防范务工欠薪风险](https://news.cctv.com/2026/02/11/ARTIkpJnz5uTMJpcKEczz6fT260211.shtml)
+
