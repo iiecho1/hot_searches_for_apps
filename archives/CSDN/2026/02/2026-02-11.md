@@ -189,3 +189,5 @@
 
 + [《机器学习导论》第 13 章-核机器](https://blog.csdn.net/2302_80961196/article/details/157943840)
 
++ [【连续八届EI快检索|IEEE出版】第九届大数据与应用统计国际学术研讨会（ISBDAS 2026）](https://blog.csdn.net/Pocker_Spades_A/article/details/157911302)
+

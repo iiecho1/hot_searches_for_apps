@@ -29,3 +29,9 @@
 
 + [virattt/dexter](https://github.com/virattt/dexter)
 
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
