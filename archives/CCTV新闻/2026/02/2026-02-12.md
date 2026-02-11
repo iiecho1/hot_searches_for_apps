@@ -163,3 +163,17 @@
 
 + [泽连斯基：若俄方同意 将于下周在美国举行新一轮谈判](https://news.cctv.com/2026/02/12/ARTIhDeaDDR9peqYDAi4QuHY260211.shtml)
 
++ [委内瑞拉代总统会见美国能源部长](https://news.cctv.com/2026/02/12/ARTIe4ayfRwKJse8xTU87mc7260212.shtml)
+
++ [加拿大警方确认校园枪击案嫌疑人身份](https://news.cctv.com/2026/02/12/ARTIT8erAM6b1OFPvmppOIB4260212.shtml)
+
++ [加拿大降半旗悼念校园枪击案遇难者](https://news.cctv.com/2026/02/12/ARTI7k1Rbm5g2lzo0nV4p5wo260212.shtml)
+
++ [热带气旋“格扎尼”致马达加斯加31人死亡 超25万人受灾](https://news.cctv.com/2026/02/12/ARTIT5Z1bCN1UnU05KHLqru2260212.shtml)
+
++ [伊朗最高领袖顾问：美国趋向理性 以方欲挑事端](https://news.cctv.com/2026/02/12/ARTIA1lSHP8zVV2tfmYBeqAN260212.shtml)
+
++ [哈马斯官员：未作出或通过任何有关“冻结武器”的正式决定](https://news.cctv.com/2026/02/12/ARTIU2CbQAbS8usgmViKsEK9260212.shtml)
+
++ [泽连斯基否认近期将公布选举计划 重申“停火即可选举”](https://news.cctv.com/2026/02/12/ARTIZMZ9mS0KAYsR9TKgcLas260212.shtml)
+
