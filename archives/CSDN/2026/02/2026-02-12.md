@@ -123,3 +123,13 @@
 
 + [Andromeda驱动的社交广告超精准检索与Godel多目标排序转化跃升架构](https://blog.csdn.net/2301_77485708/article/details/157905824)
 
++ [HBase进阶](https://blog.csdn.net/m0_62491477/article/details/157400956)
+
++ [DeepSeek总结的DuckDB Elasticsearch 扩展概述](https://blog.csdn.net/l1t/article/details/157909728)
+
++ [C++socket网络编程——udp服务器](https://blog.csdn.net/Yu_Lijing/article/details/157912937)
+
++ [Linux 网络编程：UDP Socket 群聊模型的实现与细节分析](https://blog.csdn.net/2302_77620024/article/details/157911497)
+
++ [《双模电子计分板：基于 Flutter for OpenHarmony 的极简赛事记分系统》](https://blog.csdn.net/2502_92709686/article/details/157910644)
+
