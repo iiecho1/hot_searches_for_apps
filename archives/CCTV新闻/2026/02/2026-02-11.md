@@ -209,3 +209,13 @@
 
 + [美民主党议员公开“点名”涉爱泼斯坦案6富豪](https://news.cctv.com/2026/02/11/ARTI7v0B5Fqz6izHsSul4zMM260211.shtml)
 
++ [以军称正扩大常备部队规模 提升整体战备水平](https://news.cctv.com/2026/02/11/ARTI2xohkuoXf4xlfboYlIi0260211.shtml)
+
++ [波兰总理：波兰目前不会加入所谓“和平委员会”](https://news.cctv.com/2026/02/11/ARTImvsKwAnGLc6KUS3vqe3r260211.shtml)
+
++ [俄军中将遇袭案嫌犯已认罪](https://news.cctv.com/2026/02/11/ARTIB4DUydAz6A9yUXq5bCz1260211.shtml)
+
++ [欧洲议会批准向乌克兰提供900亿欧元贷款方案](https://news.cctv.com/2026/02/11/ARTIbeAETZtO0jGi7smdSiTJ260211.shtml)
+
++ [俄外长：俄仍愿遵守核军控条约限额 前提是美方也遵守](https://news.cctv.com/2026/02/11/ARTIjeOptadqpFZs3zb0FEd4260211.shtml)
+

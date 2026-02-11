@@ -191,3 +191,7 @@
 
 + [【连续八届EI快检索|IEEE出版】第九届大数据与应用统计国际学术研讨会（ISBDAS 2026）](https://blog.csdn.net/Pocker_Spades_A/article/details/157911302)
 
++ [【车辆控制】单边接触的5自由度半车模型的前向动态仿真【含Matlab源码 15089期】](https://blog.csdn.net/weixin_63266434/article/details/157899362)
+
++ [C++之《程序员自我修养》读书总结(3)](https://blog.csdn.net/Once_day/article/details/157935793)
+
