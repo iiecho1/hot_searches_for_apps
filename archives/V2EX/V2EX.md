@@ -21,3 +21,7 @@
 
 + [Antify — macOS 网络控制工具， Proxifier 的简易免费版](https://www.v2ex.com/t/1191848)
 
++ [很好奇，国内的公务员事业单位面试存不存在走后门？](https://www.v2ex.com/t/1192032)
+
++ [执法工作才是应该被 AI 取代](https://www.v2ex.com/t/1191911)
+

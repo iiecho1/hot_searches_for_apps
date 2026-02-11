@@ -167,3 +167,7 @@
 
 + [伊朗外长：内塔尼亚胡试图将美国拖入同伊朗的战争](https://news.cctv.com/2026/02/11/ARTIx9QgXrmrTkHsIaZNWrJX260211.shtml)
 
++ [埃及众议院批准内阁改组方案](https://news.cctv.com/2026/02/11/ARTIOZBkOJEgm3Jkopxdvflw260211.shtml)
+
++ [哥伦比亚总统称自己险遭暗杀](https://news.cctv.com/2026/02/11/ARTIbThA0uiGIAwKtsKdL5Tp260211.shtml)
+
