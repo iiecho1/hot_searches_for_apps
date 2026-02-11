@@ -179,3 +179,13 @@
 
 + [Ansible自动化部署Kubernetes](https://blog.csdn.net/weixin_74812406/article/details/157914152)
 
++ [告别重复劳动：用AI数据标注工具提速3倍的实战经验](https://blog.csdn.net/qq_41187124/article/details/157903966)
+
++ [【车辆控制】基于matlab单边接触的5自由度半车模型的前向动态仿真【含Matlab源码 15089期】](https://blog.csdn.net/TIQCmatlab/article/details/157899356)
+
++ [【OpenClaw实战】打通 Claude 4.5 满血版：0.15 倍率极致降本配置指南 (附 openclaw.json 完整配置)](https://blog.csdn.net/qq_43958374/article/details/157912366)
+
++ [【SpringBoot】一篇文章讲清楚拦截器所有知识](https://blog.csdn.net/2301_81614213/article/details/157876258)
+
++ [《机器学习导论》第 13 章-核机器](https://blog.csdn.net/2302_80961196/article/details/157943840)
+
