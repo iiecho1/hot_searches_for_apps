@@ -101,3 +101,25 @@
 
 + [LLM - Claude-Mem 让 Claude Code 拥有长期记忆](https://blog.csdn.net/yangshangwei/article/details/157876825)
 
++ [改进的蜣螂算法优化BP神经网络光伏出力附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/157902566)
+
++ [Three.js 实现 3D 车辆模型交互控制技术详解](https://blog.csdn.net/weixin_36794508/article/details/157910008)
+
++ [Flutter for OpenHarmony 实战：flutter_native_splash_ohos 打造丝滑冷启动体验](https://blog.csdn.net/cannonjinx/article/details/157902291)
+
++ [婚庆宣传小程序完整功能介绍：从需求问卷、智能推荐到订单规划的一站式婚礼服务微信小程序](https://blog.csdn.net/qq_31293575/article/details/157906952)
+
++ [npm/yarn/pnpm更换国内源超全指南：解决下载慢 / 超时 / 失败（2026 最新版）](https://blog.csdn.net/xg853183874/article/details/157907305)
+
++ [【教培管家】小程序实战（五）：体验课预约——从流量到转化的闭环](https://blog.csdn.net/u012877217/article/details/157900245)
+
++ [股票短线技巧总结](https://blog.csdn.net/m0_72165397/article/details/157899592)
+
++ [Ansible自动化部署Kubernetes](https://blog.csdn.net/weixin_74812406/article/details/157914152)
+
++ [LLM与Agent](https://blog.csdn.net/ywanju/article/details/157945156)
+
++ [npm库的打包原理与实践详解 （下）](https://blog.csdn.net/qq_63358859/article/details/157902262)
+
++ [Andromeda驱动的社交广告超精准检索与Godel多目标排序转化跃升架构](https://blog.csdn.net/2301_77485708/article/details/157905824)
+
