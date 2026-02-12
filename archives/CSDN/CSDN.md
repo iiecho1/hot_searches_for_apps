@@ -153,3 +153,21 @@
 
 + [MongoDB 平替首选｜金仓 KES 全兼容 + 全流程迁移，电子证照系统实战复盘](https://blog.csdn.net/weixin_43151418/article/details/157652169)
 
++ [【数据库】时序数据库选型指南：从大数据角度解析IoTDB的优势](https://blog.csdn.net/qq_38628970/article/details/157992632)
+
++ [AI工具泛滥时代，为什么“能力“越来越不值钱？](https://blog.csdn.net/2401_82648291/article/details/157909857)
+
++ [欧拉全景解析：从开源基石到安全桌面的国产操作系统突围](https://blog.csdn.net/eidolon_foot/article/details/157979056)
+
++ [K8S 之 DaemonSet](https://blog.csdn.net/liu_chen_yang/article/details/157693115)
+
++ [MySQL 在 Docker 中的部署与数据持久化](https://blog.csdn.net/qq_36478920/article/details/157911087)
+
++ [Agent模式与框架——Claude Agent Teams 架构解读](https://blog.csdn.net/qq_54655817/article/details/157900747)
+
++ [21. 供应链配置：多阶段决策优化与模型解析](https://blog.csdn.net/u012045365/article/details/157968858)
+
++ [2026指纹浏览器底层架构深度解析：内核级沙箱隔离与设备指纹生成机制](https://blog.csdn.net/2501_94224099/article/details/157901648)
+
++ [字节即梦Seedance 2.0使用手册与教程操作说明（全新多模态创作体验）](https://blog.csdn.net/seoread/article/details/157937583)
+

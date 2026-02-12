@@ -177,3 +177,19 @@
 
 + [泽连斯基否认近期将公布选举计划 重申“停火即可选举”](https://news.cctv.com/2026/02/12/ARTIZMZ9mS0KAYsR9TKgcLas260212.shtml)
 
++ [美众议院要求终止对加拿大征收“芬太尼”关税](https://news.cctv.com/2026/02/12/ARTILbCH3eXdxNqQurRRP7xS260212.shtml)
+
++ [五个国际机构发表联合声明 敦促苏丹冲突各方停火](https://news.cctv.com/2026/02/12/ARTICWJMiOyRT29Zi6l86hxg260212.shtml)
+
++ [非洲国家外长呼吁团结自强应对当今全球变局](https://news.cctv.com/2026/02/12/ARTInL8GbokOCHM7clqxFBDv260212.shtml)
+
++ [乌克兰称首都基辅遭受“大规模袭击”](https://news.cctv.com/2026/02/12/ARTILOKCFqVz1j0tMVnc7ams260212.shtml)
+
++ [乌克兰称首都基辅遭受“大规模袭击”](https://military.cctv.com/2026/02/12/ARTIXDs15EEQZTUE9MGzdq3g260212.shtml)
+
++ [新华时评｜高市“营造环境”论居心险恶](https://news.cctv.com/2026/02/12/ARTI2r4UMEa7JI2QmJXQ04uN260212.shtml)
+
++ [感受那些超越胜负的动人瞬间（奥运纵横）](https://news.cctv.com/2026/02/12/ARTIDPQK4ipCyGRiHlecn6WP260212.shtml)
+
++ [孟加拉国开始全国大选](https://news.cctv.com/2026/02/12/ARTINhuHkNilLF0M7w7vQPeA260212.shtml)
+
