@@ -211,3 +211,5 @@
 
 + [俄罗斯将援助古巴一批原油和燃料](https://news.cctv.com/2026/02/12/ARTIcKGt2XnuBDdkVVe7Ajlg260212.shtml)
 
++ [苏丹北部沉船事故死亡人数升至21人](https://news.cctv.com/2026/02/12/ARTICuFujSUkcZCPXJqAJuWH260212.shtml)
+
