@@ -233,3 +233,11 @@
 
 + [从PPO到ORPO：LLaMA Factory强化学习算法技术详解](https://blog.csdn.net/jining11/article/details/158006840)
 
++ [达梦数据库 Core Dump配置与验证](https://blog.csdn.net/hezuijiudexiaobai/article/details/158009459)
+
++ [易捷问数（NewmindExAI）平台解决 ES 升级后 AI 助手与 Attack Discovery 不正常问题](https://blog.csdn.net/UbuntuTouch/article/details/158005412)
+
++ [【企业级】RuoYi-Vue-Plus AI 智能开发助手 | Claude Code + Codex 双引擎 | 40+ 专业技能包 | 10 大快捷命令 | 开箱即用](https://blog.csdn.net/leoisaking/article/details/157911968)
+
++ [Prometheus+cpolar 实现监控警告教程](https://blog.csdn.net/2301_80840905/article/details/157938697)
+
