@@ -161,3 +161,21 @@
 
 + [四海同贺中国年 多位国际政要送上马年新春祝福](https://news.cctv.com/2026/02/10/ARTI07H5itQUnUK73Did1Ht3260210.shtml)
 
++ [多城宣布收储二手房 老旧二手房有了“官方退出通道”](https://news.cctv.com/2026/02/13/ARTIGzLkzzcEkwhkPvQljwsf260213.shtml)
+
++ [孟加拉国民族主义党在国民议会选举中赢得过半议席](https://news.cctv.com/2026/02/13/ARTINopEn1uVqZR6w6sTODKQ260213.shtml)
+
++ [非洲联盟和平与安全机构谴责以色列承认索马里兰](https://news.cctv.com/2026/02/13/ARTI6XBF2Wn98hni1ufUZ4k8260213.shtml)
+
++ [因电池存在起火风险 奔驰将在美国召回超1万辆汽车](https://news.cctv.com/2026/02/13/ARTIrkc6tat8sbSfJ1Amn21P260213.shtml)
+
++ [涉卢浮宫和凡尔赛宫门票欺诈 法国一大型诈骗网络被捣毁](https://news.cctv.com/2026/02/13/ARTI7e6jL6GZQJWunrNUZOMl260213.shtml)
+
++ [纽约联储报告：美国消费者和企业承担特朗普关税成本近九成](https://news.cctv.com/2026/02/13/ARTIDJPEz3zLXYrjpLS1hLKL260213.shtml)
+
++ [特朗普宣布美国环境保护署“温室气体危害认定”正式撤销](https://news.cctv.com/2026/02/13/ARTIaO6TO7jn9BEzN1Xq0kDK260213.shtml)
+
++ [全球至少4.66亿儿童受益于学校供餐计划](https://news.cctv.com/2026/02/13/ARTIJGes7J2Tu1RbBad6pVDW260213.shtml)
+
++ [印度通过国防采购提案 欲购“阵风”战机](https://news.cctv.com/2026/02/13/ARTIM8k67kLBpCZplrtKRKNT260213.shtml)
+

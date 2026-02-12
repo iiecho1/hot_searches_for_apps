@@ -141,3 +141,5 @@
 
 + [寒假学数学建模：数据处理与拟合模型](https://blog.csdn.net/2401_89265042/article/details/158011916)
 
++ [Vuex：Vue.js 应用的高效状态管理方案](https://blog.csdn.net/weixin_42554191/article/details/157903666)
+
