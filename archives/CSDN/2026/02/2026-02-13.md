@@ -101,3 +101,29 @@
 
 + [论文阅读“DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation“](https://blog.csdn.net/YMWM_/article/details/158006630)
 
++ [C++学习之旅【C++多态概念指南与核心内容介绍】](https://blog.csdn.net/2401_87629362/article/details/158006470)
+
++ [【状态估计】【雷达】基于扩展卡尔曼滤波的雷达目标跟踪融合研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/157981579)
+
++ [.NET 8/9异步优化：5个技巧，让性能暴增300%？](https://blog.csdn.net/z_344791576/article/details/151899509)
+
++ [虚拟机数据管理模块](https://blog.csdn.net/2402_82670467/article/details/158012892)
+
++ [电力系统风储联合一次调频仿真模型附Simulink仿真](https://blog.csdn.net/matlab_dingdang/article/details/158013261)
+
++ [OpenClaw 浏览器控制终极方案 - 让 AI 助手随时控制你的浏览器：](https://blog.csdn.net/zhq426/article/details/157977959)
+
++ [大规模MIMO通信系统的发射端采用混合波束成形附Matlab代码](https://blog.csdn.net/m0_57702748/article/details/158013055)
+
++ [SQL 数据分析终极指南](https://blog.csdn.net/jinahong101/article/details/158012927)
+
++ [Vue Router 的使用指南](https://blog.csdn.net/weixin_42554191/article/details/157804569)
+
++ [Android tinyalsa深度解析之pcm_get_config调用流程与实战(一百一十二)](https://blog.csdn.net/u010164190/article/details/157806058)
+
++ [【MATLAB源码】6G：XL-MIMO 混合场信道估计仿真平台](https://blog.csdn.net/m0_43426705/article/details/158012264)
+
++ [豆瓣电影数据爬虫分析：基于 Python 的豆瓣电影数据可视化分析系统](https://blog.csdn.net/Myx74270512/article/details/157977731)
+
++ [深度解读.NET中的DbContext ChangeTracker：实体状态管理与性能优化](https://blog.csdn.net/dotnethello/article/details/158012801)
+
