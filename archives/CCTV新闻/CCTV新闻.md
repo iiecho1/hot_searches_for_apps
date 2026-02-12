@@ -197,3 +197,13 @@
 
 + [国际观察丨高市选后即欲修宪，值得警惕](https://news.cctv.com/2026/02/12/ARTIU6kkeIRSrZacYVzKCVW0260212.shtml)
 
++ [马达加斯加宣布进入“国家灾难状态”](https://news.cctv.com/2026/02/12/ARTIljjIYhsi6gzMam4XkxPy260212.shtml)
+
++ [伊朗外长说同美国达成和平核计划协议“可以实现”](https://news.cctv.com/2026/02/12/ARTIUGqoCNugRWdJ1kAGr92o260212.shtml)
+
++ [泰国宋卡府校园枪击案致校长身亡](https://news.cctv.com/2026/02/12/ARTIeKqwjwT5zmXMi4gDHrd5260212.shtml)
+
++ [韩国前行政安全部长李祥敏一审获刑7年](https://news.cctv.com/2026/02/12/ARTI4cDfKqOouOJUJGBNhWwU260212.shtml)
+
++ [美国国会预算办公室：美国财政路径不可持续](https://news.cctv.com/2026/02/12/ARTIpsGsYNV9OadJQAsWjcjk260212.shtml)
+

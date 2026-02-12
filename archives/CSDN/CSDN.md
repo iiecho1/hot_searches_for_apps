@@ -187,3 +187,7 @@
 
 + [Vue 3 + TypeScript 项目架构实践](https://blog.csdn.net/blue_698/article/details/157910145)
 
++ [【HarmonyOS】Flutter实战项目+校园通服务平台全解](https://blog.csdn.net/sdff11/article/details/157993479)
+
++ [Java 开发AWS Lambda 实战指南（SAM CLI + IntelliJ）](https://blog.csdn.net/brucelee186/article/details/158006235)
+
