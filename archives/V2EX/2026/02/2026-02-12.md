@@ -59,3 +59,5 @@
 
 + [围绕 nas 最好的笔记同步方案是什么？](https://www.v2ex.com/t/1192402)
 
++ [感觉被智谱的 Coding Plan 背刺了](https://www.v2ex.com/t/1192383)
+

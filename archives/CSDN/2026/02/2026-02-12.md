@@ -241,3 +241,13 @@
 
 + [Prometheus+cpolar 实现监控警告教程](https://blog.csdn.net/2301_80840905/article/details/157938697)
 
++ [PostgreSQL：如何定期验证备份的有效性？（灾备演练）](https://blog.csdn.net/cui_yonghua/article/details/158011108)
+
++ [HarmonyOS PC 多窗口最难的一层](https://blog.csdn.net/qq_36863796/article/details/158005755)
+
++ [专栏系列02(模块1第2篇) 《从0.1秒启动到97.3%性能提升：日志系统V2重构实战》](https://blog.csdn.net/yweng18/article/details/157912872)
+
++ [计算机网络（第8版）（全9章）](https://blog.csdn.net/jayjaydream/article/details/157980815)
+
++ [Kali信息收集](https://blog.csdn.net/2504_93502346/article/details/157937768)
+
