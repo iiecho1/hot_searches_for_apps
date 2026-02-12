@@ -51,3 +51,5 @@
 
 + [结婚了，之前给出去的份子钱怎么收？](https://www.v2ex.com/t/1192452)
 
++ [折腾许久， 自己用 Go 写的 macOS App 上架了，对标 Ditto 的全能剪贴板，海量存储+搜索+上锁+分组+编辑+局域网同步（OnlyPaste）](https://www.v2ex.com/t/1192450)
+
