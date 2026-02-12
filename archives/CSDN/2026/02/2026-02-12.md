@@ -205,3 +205,13 @@
 
 + [Flutter 定位插件 flutter_z_location 适配 OpenHarmony 全流程实战](https://blog.csdn.net/weixin_45822171/article/details/158006243)
 
++ [KingbaseES 文档数据实践：MongoDB 兼容性评估与替换落地](https://blog.csdn.net/2302_78391795/article/details/158007238)
+
++ [Vibe Coding - AI 编程五件套：Rules、Commands、Subagent、MCP、Skills 实战指南](https://blog.csdn.net/yangshangwei/article/details/157980978)
+
++ [OpenFeign全解 声明式REST客户端原理与配置实战](https://blog.csdn.net/sinat_41617212/article/details/157976490)
+
++ [python脚本批量导出csdn里的文章](https://blog.csdn.net/qq_33417321/article/details/157911626)
+
++ [从零开始：用 Flutter + OpenHarmony 构建青绿山水风五子棋（一）—— 棋盘绘制与双人对战](https://blog.csdn.net/2401_88937325/article/details/157910441)
+

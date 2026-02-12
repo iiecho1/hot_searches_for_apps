@@ -209,3 +209,5 @@
 
 + [吉尔吉斯斯坦议长宣布辞职](https://news.cctv.com/2026/02/12/ARTIiCdJKqc8AdYZUgTWgxnj260212.shtml)
 
++ [俄罗斯将援助古巴一批原油和燃料](https://news.cctv.com/2026/02/12/ARTIcKGt2XnuBDdkVVe7Ajlg260212.shtml)
+
