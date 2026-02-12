@@ -15,3 +15,21 @@
 
 + [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
 
++ [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
+
++ [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+
++ [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
+
++ [unslothai/unsloth](https://github.com/unslothai/unsloth)
+
++ [cinnyapp/cinny](https://github.com/cinnyapp/cinny)
+
++ [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+
++ [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
