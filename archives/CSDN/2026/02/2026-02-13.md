@@ -127,3 +127,9 @@
 
 + [深度解读.NET中的DbContext ChangeTracker：实体状态管理与性能优化](https://blog.csdn.net/dotnethello/article/details/158012801)
 
++ [心智有效性测试小程序 V1.0 产品白皮书——心智结构量化与系统稳定性评估平台](https://blog.csdn.net/lgf228/article/details/158012308)
+
++ [Linux包管理器生态漫谈](https://blog.csdn.net/hqzing/article/details/158005274)
+
++ [【SpringCloud】注册中心 && 服务注册 && 服务发现 && Eureka](https://blog.csdn.net/lirendada/article/details/158012542)
+
