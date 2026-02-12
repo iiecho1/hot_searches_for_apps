@@ -171,3 +171,19 @@
 
 + [字节即梦Seedance 2.0使用手册与教程操作说明（全新多模态创作体验）](https://blog.csdn.net/seoread/article/details/157937583)
 
++ [K8S 之 Taints（污点）与 Tolerations（容忍）](https://blog.csdn.net/liu_chen_yang/article/details/157975059)
+
++ [RabbitMQ-8bdb9f4d 参数报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/157994175)
+
++ [从向量到关键词：在 LangChain 中的 Elasticsearch 混合搜索](https://blog.csdn.net/UbuntuTouch/article/details/157992583)
+
++ [【Linux系统编程】（三十二）命名管道 FIFO 精讲：突破亲缘限制，实现任意进程间的 IPC 通信](https://blog.csdn.net/2301_79248256/article/details/157971992)
+
++ [从零开始学Flink：Flink SQL 窗口(Window)操作详解](https://blog.csdn.net/jackelee90/article/details/157904204)
+
++ [SpringBoot从零构建符合工程规范的Redis配置类（全解析）](https://blog.csdn.net/m0_57268389/article/details/157911387)
+
++ [Linux Camera驱动开发（IPCam Soc驱动开发特点）](https://blog.csdn.net/feixiaoxing/article/details/157980865)
+
++ [Vue 3 + TypeScript 项目架构实践](https://blog.csdn.net/blue_698/article/details/157910145)
+

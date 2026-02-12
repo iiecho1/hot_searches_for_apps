@@ -43,3 +43,7 @@
 
 + [其实我有点理解 HodlAI 的限制](https://www.v2ex.com/t/1192346)
 
++ [算了一下，过年要发 5000 块的红包了](https://www.v2ex.com/t/1192362)
+
++ [圆梦了](https://www.v2ex.com/t/1192338)
+
