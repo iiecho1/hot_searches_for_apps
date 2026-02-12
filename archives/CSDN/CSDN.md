@@ -133,3 +133,9 @@
 
 + [【SpringCloud】注册中心 && 服务注册 && 服务发现 && Eureka](https://blog.csdn.net/lirendada/article/details/158012542)
 
++ [算法应用:2025年海市蜃楼（MSO）算法MSO-VMD-CNN-LSTM/BILSTM故障诊断研究（Matlab代码实现）](https://blog.csdn.net/weixin_66436111/article/details/158034655)
+
++ [CSDN Embedding 基座模型的构建](https://blog.csdn.net/csdnsearch/article/details/158007240)
+
++ [清理 Docker 无用镜像、日志文件和临时文件的详细步骤，帮助释放磁盘空间](https://blog.csdn.net/b_xinjun1120/article/details/158007159)
+
