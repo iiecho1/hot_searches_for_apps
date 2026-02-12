@@ -207,3 +207,5 @@
 
 + [美国国会预算办公室：美国财政路径不可持续](https://news.cctv.com/2026/02/12/ARTIpsGsYNV9OadJQAsWjcjk260212.shtml)
 
++ [吉尔吉斯斯坦议长宣布辞职](https://news.cctv.com/2026/02/12/ARTIiCdJKqc8AdYZUgTWgxnj260212.shtml)
+
