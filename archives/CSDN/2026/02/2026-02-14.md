@@ -107,3 +107,29 @@
 
 + [【从零开始学Vue | 第三章】Vue核心技术](https://blog.csdn.net/A923A/article/details/157986296)
 
++ [ARM Linux 驱动开发篇---TFTP挂载内核设备树，NFS挂载文件系统教程--解决高版本 Ubuntu的nfs挂载系统失败-- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158037609)
+
++ [C/C++跳动的爱心](https://blog.csdn.net/m0_68111267/article/details/158006139)
+
++ [《MySQL 事务深度解析：从 ACID 到实战，守住数据一致性的最后防线》](https://blog.csdn.net/Dovis5884/article/details/156157191)
+
++ [虚拟机数据管理模块](https://blog.csdn.net/2402_82670467/article/details/158012892)
+
++ [PostgreSQL：如何定期验证备份的有效性？（灾备演练）](https://blog.csdn.net/cui_yonghua/article/details/158011108)
+
++ [数据治理5大核心概念：分清、用好，支撑AI智能化应用](https://blog.csdn.net/neweastsun/article/details/158044789)
+
++ [网络安全-4 《中华人民共和国网络安全法》-2025年10月28日修正（共七章八十一条）](https://blog.csdn.net/qq_42591962/article/details/157988269)
+
++ [【AI应用开发工程师】-分享Java 转 AI成功经验](https://blog.csdn.net/zxc18344522713/article/details/158042822)
+
++ [为什么角速度控制需要使用 PD 控制？](https://blog.csdn.net/zhuoqingjoking97298/article/details/157992780)
+
++ [9. k8s-ReplicaSets介绍](https://blog.csdn.net/omaidb/article/details/158009048)
+
++ [Xvfb 虚拟显示器原理与应用教程](https://blog.csdn.net/universsky2015/article/details/158043032)
+
++ [张祥前统一场论 22 个核心公式及常数](https://blog.csdn.net/aikjx/article/details/158013701)
+
++ [基于Vivado的AD9680 FPGA芯片测试程序开发之旅](https://blog.csdn.net/EQylwUYz/article/details/158008654)
+
