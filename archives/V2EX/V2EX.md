@@ -21,3 +21,7 @@
 
 + [过年亲戚吃饭 AA 制合理吗？](https://www.v2ex.com/t/1192369)
 
++ [看到 v2 上出现的越来越多的带孩子帖子，你还想生吗](https://www.v2ex.com/t/1192476)
+
++ [trae cn 版是很小众的吗?为什么大家有白给的 GLM-5 不用,非要自己订阅 cursor 使用?](https://www.v2ex.com/t/1192393)
+
