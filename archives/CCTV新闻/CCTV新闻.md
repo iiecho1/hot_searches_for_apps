@@ -165,3 +165,17 @@
 
 + [特朗普：希望美伊在一个月左右达成协议 否则伊朗将面临“严重后果”](https://news.cctv.com/2026/02/14/ARTI9oGc1gFTcD9BLevT2F7P260214.shtml)
 
++ [美国科罗拉多州发生飞机坠毁事故 至少三人死亡](https://news.cctv.com/2026/02/14/ARTIxaIQHus7cdrzohMUXujF260214.shtml)
+
++ [马克龙：欧洲应建立新安全架构并考虑自身利益](https://news.cctv.com/2026/02/14/ARTIZqnlkw9xPCJ71VdRouOq260214.shtml)
+
++ [法国巴黎凯旋门附近发生持刀威胁宪兵事件 嫌疑人被制服](https://news.cctv.com/2026/02/14/ARTI37lSSrB5FD9j9FlPN8V7260214.shtml)
+
++ [加沙阿克萨烈士医院因发电系统瘫痪面临全面停运风险](https://news.cctv.com/2026/02/14/ARTInX4Alow8x8av9KNacJqy260214.shtml)
+
++ [特朗普：在俄乌冲突问题上 乌总统“必须行动起来”](https://news.cctv.com/2026/02/14/ARTIVnC9RePsriHb8zOleCGi260214.shtml)
+
++ [刚果（金）说接受安哥拉停火原则](https://news.cctv.com/2026/02/14/ARTIpRQLx6atEbuxzTGw1Kzz260214.shtml)
+
++ [美政府就招生程序对哈佛大学提起诉讼](https://news.cctv.com/2026/02/14/ARTIScpD18scRIhFCUeTyOQV260214.shtml)
+
