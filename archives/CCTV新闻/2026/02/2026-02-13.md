@@ -203,3 +203,11 @@
 
 + [美军第二艘航空母舰前往中东](https://news.cctv.com/2026/02/13/ARTI6nnse7BOst1acpXoTzgP260213.shtml)
 
++ [逾6亿美元拨款“被砍” 4州起诉特朗普政府](https://news.cctv.com/2026/02/13/ARTIXjMSPA80H4XwBwnalAlV260213.shtml)
+
++ [尼日尔军方表示准备与法国“开战” 法方否认干涉指责](https://news.cctv.com/2026/02/13/ARTIAuZlSLLOAlROCgzgDZgx260213.shtml)
+
++ [南非总统宣布将口蹄疫疫情认定为“国家灾难”](https://news.cctv.com/2026/02/13/ARTIKfBDFzxYPGPAcWlgTNuj260213.shtml)
+
++ [联合国成立“人工智能问题独立国际科学小组” 两位中国科学家当选](https://news.cctv.com/2026/02/13/ARTINzL5zV0b7DKxJh9sDCON260213.shtml)
+
