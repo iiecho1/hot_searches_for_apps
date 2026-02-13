@@ -179,3 +179,13 @@
 
 + [【SpringBoot】统一功能处理详解](https://blog.csdn.net/2301_81614213/article/details/157904424)
 
++ [C++学习之旅【C++继承概念指南与核心内容介绍】](https://blog.csdn.net/2401_87629362/article/details/157874270)
+
++ [使用 Elasticsearch 和 LLMs 进行实体解析，第 1 部分：为智能实体匹配做准备](https://blog.csdn.net/UbuntuTouch/article/details/158036277)
+
++ [Flutter for OpenHarmony 实战：Stack Trace — 异步堆栈调试专家](https://blog.csdn.net/cannonmonster01/article/details/157974894)
+
++ [【HarmonyOS 】平台day26: React Native 实践：Overlay 遮罩层组件开发指南](https://blog.csdn.net/2401_83061978/article/details/158008399)
+
++ [9. k8s-ReplicaSets介绍](https://blog.csdn.net/omaidb/article/details/158009048)
+

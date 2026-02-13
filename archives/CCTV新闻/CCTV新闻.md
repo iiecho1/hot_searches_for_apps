@@ -193,3 +193,11 @@
 
 + [美联邦法官宣布特朗普起诉BBC诽谤案明年2月开庭](https://news.cctv.com/2026/02/13/ARTIeQjLaJOuUceveWCPo7JE260213.shtml)
 
++ [美国政府撤销气候变化危害认定引多方批评](https://news.cctv.com/2026/02/13/ARTIBTZbqwEOqO44Ew0mCJev260213.shtml)
+
++ [32颗亚马逊低轨卫星搭乘欧洲火箭入轨](https://news.cctv.com/2026/02/13/ARTI8giWYsJScniUHV4mMmnQ260213.shtml)
+
++ [中国驻新加坡使馆提醒马年春节来新中国游客注意旅行安全](https://news.cctv.com/2026/02/13/ARTImxGuuZ7cEAZDFrx8hf3k260213.shtml)
+
++ [“中国禁止对以色列投资”？中国驻以使馆澄清](https://news.cctv.com/2026/02/13/ARTI9zasL5p3Rh0u6eoHRhch260213.shtml)
+

@@ -37,3 +37,9 @@
 
 + [明天要第一次去老丈人家了，大家还记得第一次去对象家里都被问了什么问题吗？](https://www.v2ex.com/t/1192548)
 
++ [年前公司要求 Java 转岗 c++能接受吗](https://www.v2ex.com/t/1192610)
+
++ [[送 Pro 码] iOS 播放器 OopsPlayer，支持 SMB/Emby/4K HDR/Dolby Vision](https://www.v2ex.com/t/1192643)
+
++ [你们觉得一天最爽的时候是什么时候？](https://www.v2ex.com/t/1192569)
+
