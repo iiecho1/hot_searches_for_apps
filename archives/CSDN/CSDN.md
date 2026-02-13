@@ -197,3 +197,11 @@
 
 + [[FMQL30TAI开发]运行Icraft-ModelZoo yolov5示例工程全流程详细介绍](https://blog.csdn.net/qq_36840004/article/details/158010956)
 
++ [第六章 【若依框架:AI】AI若依框架实战项目](https://blog.csdn.net/2403_88453964/article/details/157976091)
+
++ [贝叶斯之美：从公式到朴素贝叶斯算法的实践之旅](https://blog.csdn.net/2503_92624912/article/details/157981110)
+
++ [【Easy-Vibe】【task2】认识 AI IDE 工具](https://blog.csdn.net/caoshen2014/article/details/158013487)
+
++ [Linux 命令：echo](https://blog.csdn.net/vbhfdghff/article/details/157905610)
+
