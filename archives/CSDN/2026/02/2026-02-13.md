@@ -189,3 +189,11 @@
 
 + [9. k8s-ReplicaSets介绍](https://blog.csdn.net/omaidb/article/details/158009048)
 
++ [一文吃透RAG：从原理到优化，解决大模型幻觉与时效性](https://blog.csdn.net/user340/article/details/157976086)
+
++ [Flutter for OpenHarmony 实战：PetitParser — 纯 Dart 规则化文本解析大师](https://blog.csdn.net/cannonjinx/article/details/157974439)
+
++ [Spring AI 实现RAG](https://blog.csdn.net/m0_65775063/article/details/158008354)
+
++ [[FMQL30TAI开发]运行Icraft-ModelZoo yolov5示例工程全流程详细介绍](https://blog.csdn.net/qq_36840004/article/details/158010956)
+
