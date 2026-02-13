@@ -179,3 +179,17 @@
 
 + [印度通过国防采购提案 欲购“阵风”战机](https://news.cctv.com/2026/02/13/ARTIM8k67kLBpCZplrtKRKNT260213.shtml)
 
++ [北约防长会公布350亿美元新一轮对乌军援承诺](https://news.cctv.com/2026/02/13/ARTIo7OsQcddPklUexZ8KDVM260213.shtml)
+
++ [中方呼吁加大努力推动也门问题早日得到政治解决](https://news.cctv.com/2026/02/13/ARTI6DYjbfyg3cOTAqz8AMSk260213.shtml)
+
++ [美以持续“以压促谈” 谈判僵局风险加剧](https://news.cctv.com/2026/02/13/ARTIm1qfOGWtJ0JCOJZQI4zb260213.shtml)
+
++ [孟加拉国民族主义党宣布获得大选胜利](https://news.cctv.com/2026/02/13/ARTIikbAiaxj6DplU5s3kPDc260213.shtml)
+
++ [金与正：韩国应采取措施确保不再侵犯朝鲜主权](https://news.cctv.com/2026/02/13/ARTIx8H9aoZcwE4KfU2UxXQP260213.shtml)
+
++ [法国警方捣毁卢浮宫票务诈骗团伙 9人被逮捕](https://news.cctv.com/2026/02/13/ARTICeRpMoW1OMQlIwk0BUnq260213.shtml)
+
++ [美联邦法官宣布特朗普起诉BBC诽谤案明年2月开庭](https://news.cctv.com/2026/02/13/ARTIeQjLaJOuUceveWCPo7JE260213.shtml)
+

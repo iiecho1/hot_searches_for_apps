@@ -147,3 +147,35 @@
 
 + [【Matlab源码】6G候选波形：OFDM-IM 增强仿真平台 GIM、MM、IQ](https://blog.csdn.net/m0_43426705/article/details/158012428)
 
++ [索引策略实战：让数据库性能飙升的秘诀](https://blog.csdn.net/Start_mswin/article/details/158035503)
+
++ [【LE Audio】BAP协议精讲[11]: LC3 codec的LTV结构深度解析](https://blog.csdn.net/weixin_37800531/article/details/157870913)
+
++ [3步魔法指南：C# GDI+直线插补如何让动画流畅度提升200%？](https://blog.csdn.net/z_344791576/article/details/151921527)
+
++ [口语八股：MySQL 核心原理系列（一）：索引篇](https://blog.csdn.net/2401_83144588/article/details/158013655)
+
++ [Android tinyalsa深度解析之pcm_frames_to_bytes调用流程与实战(一百一十五)](https://blog.csdn.net/u010164190/article/details/157837746)
+
++ [HarmonyOS PC 真正难的是状态一致性](https://blog.csdn.net/qq_36863796/article/details/158005688)
+
++ [【魔法森林冒险】11/14 战斗系统（二）：多波战斗与BOSS战](https://blog.csdn.net/2502_93596214/article/details/157814106)
+
++ [Flutter for OpenHarmony 实战：StringScanner — 构建极致性能的文本解析引擎](https://blog.csdn.net/cannonjinx/article/details/157981296)
+
++ [Python+AI实操：从零搭建高质量短剧脚本生成工具](https://blog.csdn.net/milk416666/article/details/157994071)
+
++ [云原生AI趋势：DeepSeek与云3.0架构协同，提升AI部署性能与可移植性](https://blog.csdn.net/qinzhenyan/article/details/158012415)
+
++ [世毫九实验室关于核心技术知识产权保护的维权声明](https://blog.csdn.net/weixin_50059478/article/details/157968413)
+
++ [Gemini-3-Pro-Preview登顶，大模型迈入Agent元年丨大语言模型1月最新榜单揭晓](https://blog.csdn.net/OpenCompass/article/details/158010899)
+
++ [k8s：认证、授权、准入控制](https://blog.csdn.net/2302_77582029/article/details/157993593)
+
++ [MySQL的10种高级SQL，性能飞升](https://blog.csdn.net/lisu061714112/article/details/157933722)
+
++ [Linux 挖矿病毒深度排查与修复实录](https://blog.csdn.net/weixin_45036087/article/details/158010794)
+
++ [【SpringBoot】统一功能处理详解](https://blog.csdn.net/2301_81614213/article/details/157904424)
+

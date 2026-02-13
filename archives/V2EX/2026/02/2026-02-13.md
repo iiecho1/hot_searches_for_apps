@@ -25,3 +25,15 @@
 
 + [trae cn 版是很小众的吗?为什么大家有白给的 GLM-5 不用,非要自己订阅 cursor 使用?](https://www.v2ex.com/t/1192393)
 
++ [大家现在还想润吗？](https://www.v2ex.com/t/1192604)
+
++ [GLM-5 开源：从代码到工程， Agentic Engineering 时代最好的开源模型](https://www.v2ex.com/t/1192496)
+
++ [让 Claude Code 汇报工作时用上魔兽 3 兽族农民的配音](https://www.v2ex.com/t/1192541)
+
++ [突然想买无人机，是不是 49 年入国军](https://www.v2ex.com/t/1192455)
+
++ [[不懂就问] 用光纤无人机能不能绕开无人机监管呀](https://www.v2ex.com/t/1192469)
+
++ [明天要第一次去老丈人家了，大家还记得第一次去对象家里都被问了什么问题吗？](https://www.v2ex.com/t/1192548)
+
