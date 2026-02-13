@@ -237,3 +237,9 @@
 
 + [基于 Vue + Node.js 批处理bat脚本实现多环境一键部署](https://blog.csdn.net/chituZip/article/details/157973062)
 
++ [即梦Seedance 2.0 全能参考完全指南：从素材管理到长视频制作的系统化工作流](https://blog.csdn.net/u014177256/article/details/158013628)
+
++ [使用Vue与Fabric.js创建图片标注工具](https://blog.csdn.net/weixin_42079403/article/details/158008712)
+
++ [极简即王道 下一代Agent架构Pi Agent Core设计逻辑深度解析](https://blog.csdn.net/u013970991/article/details/157992930)
+
