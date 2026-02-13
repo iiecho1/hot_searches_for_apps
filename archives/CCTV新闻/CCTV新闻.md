@@ -213,3 +213,7 @@
 
 + [热点问答丨美国土安全部“停摆”有何影响](https://news.cctv.com/2026/02/13/ARTIW57tcRg8WJZ6M1ZNvLKL260213.shtml)
 
++ [葡萄牙议会通过法案限制16岁以下未成年人使用社交媒体](https://news.cctv.com/2026/02/13/ARTInadG8BiDndD75lJPltjR260213.shtml)
+
++ [伊拉克称已接收超5000名极端组织成员](https://news.cctv.com/2026/02/13/ARTIY11P0yAwjI9KfzMCgLPo260213.shtml)
+
