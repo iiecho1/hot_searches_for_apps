@@ -27,3 +27,13 @@
 
 + [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
++ [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
+
++ [THUDM/slime](https://github.com/THUDM/slime)
+
++ [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift)
+

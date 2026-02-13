@@ -217,3 +217,9 @@
 
 + [伊拉克称已接收超5000名极端组织成员](https://news.cctv.com/2026/02/13/ARTIY11P0yAwjI9KfzMCgLPo260213.shtml)
 
++ [泰国自豪泰党与为泰党将联合组阁](https://news.cctv.com/2026/02/13/ARTI6oOPtxEs4ky2ojyTqcav260213.shtml)
+
++ [俄罗斯央行下调基准利率至15.5%](https://news.cctv.com/2026/02/13/ARTIE6eo3MTZdfoEYPmppLXZ260213.shtml)
+
++ [俄称新一轮俄美乌会谈将于下周举行](https://news.cctv.com/2026/02/13/ARTILc16ReghTmumCZlvCU2F260213.shtml)
+
