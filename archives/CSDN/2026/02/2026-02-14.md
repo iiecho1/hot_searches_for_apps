@@ -101,3 +101,9 @@
 
 + [k8s：认证、授权、准入控制](https://blog.csdn.net/2302_77582029/article/details/157993593)
 
++ [【开源鸿蒙跨平台开发先锋训练营】Day 12：全场景适配与异常防护——构建高可靠的鸿蒙跨端体验](https://blog.csdn.net/ailuloo/article/details/158009922)
+
++ [从 0 到真机：用 AI 一天开发上架 Flutter 跨平台 App——含内购变现全流程](https://blog.csdn.net/xinkuaile/article/details/158036440)
+
++ [【从零开始学Vue | 第三章】Vue核心技术](https://blog.csdn.net/A923A/article/details/157986296)
+
