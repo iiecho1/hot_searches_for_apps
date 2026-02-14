@@ -29,3 +29,27 @@
 
 + [醉酒司机副驾睡觉并利用“智驾神器”逃避监管，被判危险驾驶罪](https://m.ithome.com/html/921587.htm)
 
++ [小米汽车：最后一台第一代 SU7 已交付到车主手中](https://m.ithome.com/html/921745.htm)
+
++ [美团：预计 2025 年度亏损约人民币 233 亿-243 亿元](https://m.ithome.com/html/921753.htm)
+
++ [任天堂开启“灭霸”模式，GitHub 平台“几乎所有”Switch 模拟器收到下架通知](https://m.ithome.com/html/921783.htm)
+
++ [9999 → 8658 元：iPhone 17 Pro Max 京东换新破冰新低](https://m.ithome.com/html/921837.htm)
+
++ [消息称小米 Xiaomi Tag 追踪器将推出国行版本，欧洲单个售 17.99 欧元](https://m.ithome.com/html/921739.htm)
+
++ [苹果 App Store 国区充值加赠 10% 活动开始：最高回赠 100 元，名额有限](https://m.ithome.com/html/921780.htm)
+
++ [华为公布最新 5A 设备名单：涵盖畅享 70X、nova 15 系列等机型](https://m.ithome.com/html/921800.htm)
+
++ [迪士尼法务部出手，称字节跳动 Seedance 2.0 盗用漫威与星战角色训练 AI 模型](https://m.ithome.com/html/921803.htm)
+
++ [消息称字节跳动正洽谈出售游戏部门沐瞳科技，估值超 60 亿美元](https://m.ithome.com/html/921759.htm)
+
++ [盖世小鸡将发布 Mac 版 GameHub 游戏平台：可运行《黑神话：悟空》《战神 5》等，春节后内测](https://m.ithome.com/html/921782.htm)
+
++ [DeepSeek 回复变冷漠？官方回应系效率调整与边界感优化](https://m.ithome.com/html/921825.htm)
+
++ [京东法国巴黎仓库失窃案告破，绝大多数被盗物资已追回](https://m.ithome.com/html/921810.htm)
+

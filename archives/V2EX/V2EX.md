@@ -49,3 +49,5 @@
 
 + [过年去广州，有什么地方推荐](https://www.v2ex.com/t/1192781)
 
++ [Claude Pro 套餐，一个对话就到 5h 上限了？ 10% 周限。惊呆了](https://www.v2ex.com/t/1192774)
+
