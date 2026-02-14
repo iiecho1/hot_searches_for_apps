@@ -201,3 +201,7 @@
 
 + [Flutter+OpenHarmony 智能家居开发 Day14（进行中）｜第二阶段知识复盘 + 博文全量优化 + 导师意见落地实操](https://blog.csdn.net/yinqingchen11/article/details/158043773)
 
++ [Linux搭建轻量级日志系统Loki+Grafana+Promtail](https://blog.csdn.net/shenxiaomo1688/article/details/158040735)
+
++ [探索Vortex开源GPGPU：RISC-V SIMT架构(4-2)，TCU 矩阵计算(1)](https://blog.csdn.net/weixin_55313207/article/details/157395313)
+
