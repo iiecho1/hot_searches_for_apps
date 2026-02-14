@@ -153,3 +153,13 @@
 
 + [OpenClaw 使用中的网络安全风险解析](https://blog.csdn.net/dlfls0710/article/details/157992731)
 
++ [5个关键优势：MyBatis Dynamic SQL如何让SQL编写效率提升3倍？](https://blog.csdn.net/z_344791576/article/details/151921497)
+
++ [基于Llamafactory与LoRA方法的大语言模型微调创建个性化聊天机器人](https://blog.csdn.net/Birdasuka/article/details/158066074)
+
++ [Flink Kerberos 安全接入整体机制、三大安全模块、Standalone/K8s/YARN 部署与 Token 续期策略](https://blog.csdn.net/weixin_43114209/article/details/158044383)
+
++ [8.k8s-node组件介绍](https://blog.csdn.net/omaidb/article/details/158008890)
+
++ [【Qt开发】Qt界面优化（三）-＞ Qt样式表(QSS) 设置方式](https://blog.csdn.net/weixin_74809706/article/details/157689231)
+

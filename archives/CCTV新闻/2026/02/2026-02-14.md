@@ -179,3 +179,11 @@
 
 + [美政府就招生程序对哈佛大学提起诉讼](https://news.cctv.com/2026/02/14/ARTIScpD18scRIhFCUeTyOQV260214.shtml)
 
++ [美调遣第二艘航母前往中东意欲何为？专家分析](https://news.cctv.com/2026/02/14/ARTIMH6V38TMQ5MNd2w1My8X260214.shtml)
+
++ [多国举办新春庆祝活动共庆中国新年 中国春节文化魅力走向世界舞台](https://news.cctv.com/2026/02/14/ARTIkXg6SNYg4K2Thjz7D9Z7260214.shtml)
+
++ [瓦努阿图群岛发生6.3级地震，震源深度10千米](https://news.cctv.com/2026/02/14/ARTIFpCZinqsV2UrW7ymdxDh260214.shtml)
+
++ [民调显示 约七成美国人不赞成夺取格陵兰岛](https://news.cctv.com/2026/02/14/ARTIDbyk4E2bRrJyJWl9leYw260214.shtml)
+
