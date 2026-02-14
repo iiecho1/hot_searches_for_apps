@@ -163,3 +163,11 @@
 
 + [【Qt开发】Qt界面优化（三）-＞ Qt样式表(QSS) 设置方式](https://blog.csdn.net/weixin_74809706/article/details/157689231)
 
++ [吃透大模型系统：提示工程、符号推理、智能体实战全解](https://blog.csdn.net/CC1991_/article/details/158044229)
+
++ [新能源汽车多测试设备联调与多物理信息融合测试方法及数据价值挖掘](https://blog.csdn.net/weixin_62244995/article/details/158039000)
+
++ [华为eNSP综合实验之- 通过SSH远程登陆设备](https://blog.csdn.net/weixin_41750601/article/details/158039008)
+
++ [监控与节点负载分析报告](https://blog.csdn.net/hezuijiudexiaobai/article/details/158041295)
+
