@@ -161,3 +161,15 @@
 
 + [以军称正扩大常备部队规模 提升整体战备水平](https://news.cctv.com/2026/02/11/ARTI2xohkuoXf4xlfboYlIi0260211.shtml)
 
++ [泽连斯基：美国老是要乌克兰让步](https://news.cctv.com/2026/02/15/ARTIi5cS0cfP83oRHAKyUOfj260215.shtml)
+
++ [美国被曝对委内瑞拉军事行动中使用人工智能模型](https://news.cctv.com/2026/02/15/ARTIJA0KuZn9zs12NQwArZxP260215.shtml)
+
++ [丹麦首相：格陵兰岛“不能定价” 主权必须得到尊重](https://news.cctv.com/2026/02/15/ARTIFzprB9cwH9y47idlpYcb260215.shtml)
+
++ [尼日利亚中北部发生武装袭击事件](https://news.cctv.com/2026/02/15/ARTIQugwlrEABOlzwKcPGVZi260215.shtml)
+
++ [以色列前总理巴拉克就与爱泼斯坦关系道歉](https://news.cctv.com/2026/02/15/ARTI3NRSr6HxbJz3VcEWszN9260215.shtml)
+
++ [德国北部一购物中心发生火灾 数人失踪](https://news.cctv.com/2026/02/15/ARTI9wC99uYzNYz1krpRFffn260215.shtml)
+
