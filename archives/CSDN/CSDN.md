@@ -147,3 +147,7 @@
 
 + [Flutter for OpenHarmony：convert 高效的二进制编码解码器，轻松处理 Hex、JSON、Base64（数据格式转换） 深度解析与鸿蒙适配指南](https://blog.csdn.net/jiang_style/article/details/158045413)
 
++ [知网2026年AIGC检测算法又升级了，这次该怎么应对？](https://blog.csdn.net/why_not_do_som/article/details/158013703)
+
++ [Flutter for OpenHarmony：formz 简化表单验证逻辑，分离 UI 与业务状态（声明式表单验证） 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonmonster01/article/details/158071204)
+
