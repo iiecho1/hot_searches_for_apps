@@ -133,3 +133,11 @@
 
 + [技术速递｜为 GitHub Copilot 构建智能体记忆系统](https://blog.csdn.net/MicrosoftReactor/article/details/158011820)
 
++ [2026北京GEO服务商评审指南：核心实力与适配指南](https://blog.csdn.net/2501_94329168/article/details/158006593)
+
++ [在鸿蒙系统上使用pkgsrc进行包管理](https://blog.csdn.net/hqzing/article/details/158068675)
+
++ [GitHub Copilot转变为兼容API](https://blog.csdn.net/z_johnny/article/details/158042445)
+
++ [Vue 和 React 的区别](https://blog.csdn.net/YSbnhoffer/article/details/158040918)
+
