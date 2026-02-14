@@ -105,3 +105,31 @@
 
 + [探索Vortex开源GPGPU：RISC-V SIMT架构(4-2)，TCU 矩阵计算(1)](https://blog.csdn.net/weixin_55313207/article/details/157395313)
 
++ [精简指令集(RISC) vs 复杂指令集(CISC)：通俗易懂的全面解析](https://blog.csdn.net/qq_44647100/article/details/158071036)
+
++ [HarmonyOS开发：如何从零实现加载和使用自定义字体](https://blog.csdn.net/CC1991_/article/details/158044543)
+
++ [AI 在线字幕去除工具：一键无损删除视频硬字幕与软字幕](https://blog.csdn.net/ViiTor_AI/article/details/158012404)
+
++ [[报错] SpringBoot 启动报错：Port 8080 was already in use 完美解决（Windows/Mac/Linux）](https://blog.csdn.net/xifangge2025/article/details/158007905)
+
++ [【Linux系统编程】（三十三）System V 共享内存精讲：Linux 最快 IPC 的原理与实战精髓](https://blog.csdn.net/2301_79248256/article/details/158037362)
+
++ [从向量到关键词：在 LangChain 中的 Elasticsearch 混合搜索](https://blog.csdn.net/UbuntuTouch/article/details/157992583)
+
++ [OpenClaw模型接入全指南：免费Token+新模型适配（含Higress解决方案）](https://blog.csdn.net/Honmaple/article/details/158039114)
+
++ [三层解耦之后，鸿蒙 App 的真正瓶颈](https://blog.csdn.net/qq_36863796/article/details/158038429)
+
++ [RAG重构知识边界：用检索增强生成引爆企业级AI应用的5大实战场景](https://blog.csdn.net/IRpickstars/article/details/158066829)
+
++ [【开源鸿蒙跨平台开发先锋训练营】Day 12：全场景适配与异常防护——构建高可靠的鸿蒙跨端体验](https://blog.csdn.net/ailuloo/article/details/158009922)
+
++ [筑基累土，科技向善：从互联网精神到民生福祉的漫漫长路](https://blog.csdn.net/weixin_50059478/article/details/158043086)
+
++ [极简即王道 下一代Agent架构Pi Agent Core设计逻辑深度解析](https://blog.csdn.net/u013970991/article/details/157992930)
+
++ [Spring AI Alibaba + DashScope 调用超时彻底解决（SocketTimeoutException / read timeout）](https://blog.csdn.net/Kg2813026978/article/details/158006611)
+
++ [技术速递｜为 GitHub Copilot 构建智能体记忆系统](https://blog.csdn.net/MicrosoftReactor/article/details/158011820)
+
