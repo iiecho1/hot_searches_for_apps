@@ -197,3 +197,7 @@
 
 + [我的第一部AIGC电影《编钟》制作幕后](https://blog.csdn.net/qq1198768105/article/details/158069198)
 
++ [ARM Thumb/Thumb-2指令集完全指南：从嵌入式开发到性能优化](https://blog.csdn.net/qq_44647100/article/details/158070948)
+
++ [Flutter+OpenHarmony 智能家居开发 Day14（进行中）｜第二阶段知识复盘 + 博文全量优化 + 导师意见落地实操](https://blog.csdn.net/yinqingchen11/article/details/158043773)
+
