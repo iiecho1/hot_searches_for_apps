@@ -175,3 +175,9 @@
 
 + [三层解耦之后，鸿蒙 App 的真正瓶颈](https://blog.csdn.net/qq_36863796/article/details/158038429)
 
++ [C++学习之旅【C++多态概念指南与核心内容介绍】](https://blog.csdn.net/2401_87629362/article/details/158006470)
+
++ [2026北京GEO服务商评审指南：核心实力与适配指南](https://blog.csdn.net/2501_94329168/article/details/158006593)
+
++ [【2026具身智能大模型·系列20】Kairos 3.0：大晓机器人的开源世界模型，开启具身智能新纪元](https://blog.csdn.net/xiaobing259/article/details/157873577)
+
