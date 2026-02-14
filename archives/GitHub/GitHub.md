@@ -17,3 +17,21 @@
 
 + [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift)
 
++ [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
+
++ [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
+
++ [minio/minio](https://github.com/minio/minio)
+
++ [alibaba/zvec](https://github.com/alibaba/zvec)
+
++ [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+
++ [Zipstack/unstract](https://github.com/Zipstack/unstract)
+
++ [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
+
++ [ruby/ruby](https://github.com/ruby/ruby)
+
++ [cinnyapp/cinny](https://github.com/cinnyapp/cinny)
+

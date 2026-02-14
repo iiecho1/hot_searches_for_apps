@@ -191,3 +191,9 @@
 
 + [OpenFeign全解 声明式REST客户端原理与配置实战](https://blog.csdn.net/sinat_41617212/article/details/157976490)
 
++ [Scikit-learn高级实战：自定义评估器与流水线架构设计](https://blog.csdn.net/sinat_41617212/article/details/158068613)
+
++ [Windows后门应急（二）--计划任务后门分析与处置|Windows取证分析](https://blog.csdn.net/2401_84830066/article/details/157993074)
+
++ [我的第一部AIGC电影《编钟》制作幕后](https://blog.csdn.net/qq1198768105/article/details/158069198)
+
