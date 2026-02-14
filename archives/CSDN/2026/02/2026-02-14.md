@@ -205,3 +205,9 @@
 
 + [探索Vortex开源GPGPU：RISC-V SIMT架构(4-2)，TCU 矩阵计算(1)](https://blog.csdn.net/weixin_55313207/article/details/157395313)
 
++ [Seedance 2.0 字节跳动推出的最新AI视频生成模型](https://blog.csdn.net/qq_39777550/article/details/157981298)
+
++ [Vuex 的核心作用深度解析：构建高效可维护的 Vue 应用状态管理体系](https://blog.csdn.net/weixin_42554191/article/details/157903699)
+
++ [微算法科技（NASDAQ： MLGO）引入量子启发式算法与区块链融合的数据预测与安全传输方案](https://blog.csdn.net/MicroTech2025/article/details/158040695)
+
