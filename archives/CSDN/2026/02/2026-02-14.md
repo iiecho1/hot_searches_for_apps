@@ -181,3 +181,13 @@
 
 + [【2026具身智能大模型·系列20】Kairos 3.0：大晓机器人的开源世界模型，开启具身智能新纪元](https://blog.csdn.net/xiaobing259/article/details/157873577)
 
++ [【SpringBoot】统一功能处理详解](https://blog.csdn.net/2301_81614213/article/details/157904424)
+
++ [FPGA软件verilog编码规则分析与总结](https://blog.csdn.net/ccsss22/article/details/158069134)
+
++ [Flutter for OpenHarmony：dio_cookie_manager 让 Dio 发挥会话管理能力，像浏览器一样自动处理 Cookie 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonmonster01/article/details/158045450)
+
++ [Docker Compose部署多.NET后端API+多Vue前端Web 完整记录（含多数据库扩展+实用场景，亲测无坑）](https://blog.csdn.net/chinahuyong/article/details/157993813)
+
++ [OpenFeign全解 声明式REST客户端原理与配置实战](https://blog.csdn.net/sinat_41617212/article/details/157976490)
+

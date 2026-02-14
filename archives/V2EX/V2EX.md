@@ -51,3 +51,7 @@
 
 + [Claude Pro 套餐，一个对话就到 5h 上限了？ 10% 周限。惊呆了](https://www.v2ex.com/t/1192774)
 
++ [情人节你是跟老婆过还是跟情人过](https://www.v2ex.com/t/1192814)
+
++ [glm 5 和 minimax m2.5 都挺菜的](https://www.v2ex.com/t/1192786)
+
