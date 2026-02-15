@@ -161,3 +161,11 @@
 
 + [OpenClaw开源项目汇总：Installer一键部署、Moltworker云端方案、钉钉飞书微信接入全指南](https://blog.csdn.net/CaracalTiger/article/details/158103080)
 
++ [校园勤工俭学应用实战：个人中心界面开发（Flutter × Harmony6.0）](https://blog.csdn.net/weixin_52908342/article/details/157545976)
+
++ [FileVibe全攻略：文件加密+AI智能解读工具开发实战 引言](https://blog.csdn.net/H1486853830/article/details/158123730)
+
++ [SVPWM Generator (3-Level) MATLAB_help文档DeepSeek翻译](https://blog.csdn.net/shallwegzgdj/article/details/158099995)
+
++ [【从零开始学Vue | 第四章】Vue核心技术](https://blog.csdn.net/A923A/article/details/158041620)
+
