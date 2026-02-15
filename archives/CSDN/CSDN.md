@@ -117,3 +117,41 @@
 
 + [深度学习实战-基于CNN卷积神经网络的脑肿瘤MRI图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157429640)
 
++ [HarmonyOS6半年磨一剑 - RcIcon组件多形态支持与类型系统设计](https://blog.csdn.net/qq_33681891/article/details/158102805)
+
++ [【YF技术周报 Vol.01】OpenAI 国会指控 DeepSeek，字节发布 Seedance 2.0，Java 26 预览版来了](https://blog.csdn.net/m0_58782205/article/details/158101431)
+
++ [大模型API负载均衡：如何高效管理不同服务商的大模型API？](https://blog.csdn.net/m0_72622501/article/details/158102847)
+
++ [当人人都会用AI，你靠什么脱颖而出？](https://blog.csdn.net/2401_82648291/article/details/158101994)
+
++ [MindTrack Desk · 灵迹桌面](https://blog.csdn.net/QGhappy805/article/details/158103130)
+
++ [【驾考小帮手】驾照学习助手 —— Flutter × HarmonyOS 6.0 学习资源区域构建实战解析](https://blog.csdn.net/weixin_52908342/article/details/157511948)
+
++ [OpenClaw相关的开源AI项目汇总大全：本文涵盖近期所有OpenClaw相关的GitHub高星star热门项目](https://blog.csdn.net/qq_44866828/article/details/158102255)
+
++ [PostgreSQL：详解 pgAudit 插件的使用（数据脱敏与审计）](https://blog.csdn.net/cui_yonghua/article/details/158102980)
+
++ [OpenClaw 完全指南：在 Manjaro 上部署你的个人 AI 助手](https://blog.csdn.net/duduanwang/article/details/158073136)
+
++ [Flutter for OpenHarmony：pub_semver 解析语义化版本号，实现复杂的版本比较与约束（版本号管理） 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonjinx/article/details/158101455)
+
++ [Flutter for OpenHarmony：password_strength 快速评估用户密码强度，拒绝弱口令（安全增强库） 深度解析与鸿蒙适配指南](https://blog.csdn.net/jiang_style/article/details/158095994)
+
++ [中国版 Moltbook 正式亮相，AI 智能体的本土社交主场](https://blog.csdn.net/chenxuezhi1986/article/details/158074375)
+
++ [Flutter for OpenHarmony：math_expressions 解析与计算复杂数学公式，打造科学计算器（数学表达式引擎） 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonmonster01/article/details/158083257)
+
++ [Langchain学习（5）：会话记忆 - 临时与长期记忆](https://blog.csdn.net/Jackylw6/article/details/158103223)
+
++ [Gitlab Runner 配置实践](https://blog.csdn.net/qq_33595819/article/details/158103363)
+
++ [FFmpeg 核心架构解析：关键数据结构的初始化流程](https://blog.csdn.net/2609_95039045/article/details/158069764)
+
++ [浏览器就是你的IDE？Chrome + Gemini 3 实战：自动化抓取与数据清洗](https://blog.csdn.net/jiangjunshow/article/details/158072547)
+
++ [2025年度总结 EXI-小洲：技术与生活两手抓](https://blog.csdn.net/EXIxiaozhou/article/details/158010114)
+
++ [网络原理 -KTTP/HTTPS(五) --认识响应“报头“(header) / “正⽂“(body)](https://blog.csdn.net/2402_88812779/article/details/158070770)
+
