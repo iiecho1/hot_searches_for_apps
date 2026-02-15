@@ -101,3 +101,19 @@
 
 + [【HarmonyOS 6】数据可视化：实现热力图时间块展示](https://blog.csdn.net/qq_37566395/article/details/158074684)
 
++ [Flutter for OpenHarmony：shelf_proxy 构建反向代理，解决跨域与 API 转发难题（Shelf 中间件） 深度解析与鸿蒙适配指南](https://blog.csdn.net/2609_95049439/article/details/158101566)
+
++ [数据分析三剑客之Pandas](https://blog.csdn.net/2301_76243776/article/details/157980693)
+
++ [Flutter for OpenHarmony：platform 跨平台判断终极指南（如何精准识别 HarmonyOS NEXT 与 Android）深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonjinx/article/details/158101354)
+
++ [当 IoT 遇上大数据：为什么顶尖架构师都在押注 Apache IoTDB？](https://blog.csdn.net/2401_82648291/article/details/158101444)
+
++ [Flutter for OpenHarmony：phone_numbers_parser 国际电话号码的解析、验证与格式化（全球化号码处理） 深度解析与鸿蒙适配指南](https://blog.csdn.net/jiang_style/article/details/158096065)
+
++ [Elasticsearch 搜索方案与技术栈深度解析](https://blog.csdn.net/s060403072/article/details/158073436)
+
++ [红米手机技巧：如何在红米手机中恢复联系人](https://blog.csdn.net/2508_93371795/article/details/155667253)
+
++ [深度学习实战-基于CNN卷积神经网络的脑肿瘤MRI图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157429640)
+
