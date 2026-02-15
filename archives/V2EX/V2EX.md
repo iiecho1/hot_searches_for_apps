@@ -49,3 +49,9 @@
 
 + [新 Mac 配环境花了三小时还没配完，试过的自动化方案没一个省心的](https://www.v2ex.com/t/1192931)
 
++ [为什么端到端加密的 PGP 邮件没有被广泛使用？](https://www.v2ex.com/t/1192939)
+
++ [[2026] Google Pixel 系列购买渠道](https://www.v2ex.com/t/1192880)
+
++ [Clash 里怎样让某个网址走专门的代理路线？](https://www.v2ex.com/t/1192881)
+

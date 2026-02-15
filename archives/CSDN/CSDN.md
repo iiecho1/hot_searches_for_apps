@@ -191,3 +191,15 @@
 
 + [04 - 分布式大模型推理实战：TP/PP/EP并行策略深度解析](https://blog.csdn.net/qq_40181321/article/details/158070252)
 
++ [国产化时序替换落地指南：用金仓数据库管好海量时序数据](https://blog.csdn.net/2302_78391795/article/details/158098741)
+
++ [C++17 vs C 编译产物体积：工业嵌入式场景的实测与分析](https://blog.csdn.net/stallion5632/article/details/158074852)
+
++ [Linux自动化构建make/Makefile—项目开发必备](https://blog.csdn.net/Lucis__/article/details/158008513)
+
++ [我用Trae实现了一个数独游戏（附完整的HTML源代码；什么是Vibe Coding；游戏完美适配移动端，附带闯关模式、导入功能、导出功能、存档功能、提示功能、填充候选数功能、主题切换功能、撤销功能）](https://blog.csdn.net/m0_62128476/article/details/157911744)
+
++ [Flutter for OpenHarmony 实战：HTTP Parser — 协议解析的精密仪器](https://blog.csdn.net/2609_95049439/article/details/157975786)
+
++ [Hadoop 3.x实战：基于HDFS+Spark+Flink的实时用户行为分析平台（含Kerberos安全配置+冷热数据分层）](https://blog.csdn.net/weixin_55008828/article/details/158036160)
+
