@@ -59,3 +59,7 @@
 
 + [智能电视如何做到直接看 CCTV 等卫视资源](https://www.v2ex.com/t/1192938)
 
++ [WebDAV vs SFTP，群晖外网文件访问到底谁更合理？](https://www.v2ex.com/t/1192942)
+
++ [这周参加了集团公司组织的 CTF 比赛](https://www.v2ex.com/t/1192920)
+
