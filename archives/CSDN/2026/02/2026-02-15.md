@@ -173,3 +173,15 @@
 
 + [Cursor+Claude AI编程 - Cursor会话里的Agent,Plan,Debug,Ask区别以及使用](https://blog.csdn.net/caoli201314/article/details/158073561)
 
++ [Spring AI Alibaba 学习（三）：Graph Workflow 深度解析（下篇）](https://blog.csdn.net/qq_53609042/article/details/158073570)
+
++ [ARM Linux 驱动开发篇----字符设备驱动开发（6）---测试chrdevbase 字符设备驱动开发实验--- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158043517)
+
++ [Elasticsearch 搜索方案与技术栈深度解析](https://blog.csdn.net/s060403072/article/details/158073436)
+
++ [FPGA 工程师如何提升自己？](https://blog.csdn.net/billgateslove/article/details/158009949)
+
++ [依赖注入与中间件 - ASP.NET Core 核心概念](https://blog.csdn.net/weixin_42199478/article/details/158038403)
+
++ [AWS之Gitlab增量架构（c/c++项目）](https://blog.csdn.net/weixin_45342351/article/details/158067372)
+
