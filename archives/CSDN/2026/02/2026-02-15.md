@@ -227,3 +227,15 @@
 
 + [基于fpga的温度采集系统工程，max6675驱动源码，可上传到电脑上位机软件绘制温度曲线](https://blog.csdn.net/oBxkQwKTLam/article/details/158039679)
 
++ [Flutter for OpenHarmony：result_dart 告别 try-catch，让错误处理像 Rust 一样优雅（Result 类型模式） 深度解析与鸿蒙适配指南](https://blog.csdn.net/2609_95049439/article/details/158101553)
+
++ [Flutter for OpenHarmony：postgrest 直接访问 PostgreSQL 数据库的 RESTful 客户端（Supabase 核心驱动） 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonjinx/article/details/158101401)
+
++ [Flutter for OpenHarmony：leak_tracker 自动监测内存泄漏，精准定位未释放对象（内存性能优化） 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonmonster01/article/details/158075119)
+
++ [鸿蒙 App 架构重建后，为何再次失控](https://blog.csdn.net/qq_36863796/article/details/158099939)
+
++ [带隙基准参考电压源的温度特性 LTspice仿真结果](https://blog.csdn.net/zhuoqingjoking97298/article/details/158074881)
+
++ [【HarmonyOS 6】数据可视化：实现热力图时间块展示](https://blog.csdn.net/qq_37566395/article/details/158074684)
+

@@ -151,3 +151,11 @@
 
 + [【官方双语】现在连笔记本电脑都能订阅了？- 惠普笔电订阅方案到底值不值#linus谈科技](https://m.acfun.cn/v/?ac=48275780)
 
++ [睁一眼闭一眼就当wink了](https://m.acfun.cn/v/?ac=48276580)
+
++ [DecoMiku LIVE starring 初音未来『Hello』](https://m.acfun.cn/v/?ac=48275059)
+
++ [第三集，螳螂捕蝉黄雀在后，日美韩欧争霸内存领域，谁能赢到最后？！](https://m.acfun.cn/v/?ac=48274652)
+
++ [空调太热同事一脸汗](https://m.acfun.cn/v/?ac=48275796)
+
