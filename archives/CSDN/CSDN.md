@@ -185,3 +185,5 @@
 
 + [AWS之Gitlab增量架构（c/c++项目）](https://blog.csdn.net/weixin_45342351/article/details/158067372)
 
++ [Prompt 缓存的四种策略：从精确匹配到语义检索](https://blog.csdn.net/m0_46510245/article/details/158073375)
+
