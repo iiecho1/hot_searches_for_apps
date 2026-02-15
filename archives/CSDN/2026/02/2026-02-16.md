@@ -169,3 +169,7 @@
 
 + [【从零开始学Vue | 第四章】Vue核心技术](https://blog.csdn.net/A923A/article/details/158041620)
 
++ [AI 知识库与 Agent 能力构建工具全景调研报告](https://blog.csdn.net/fyfugoyfa/article/details/158074675)
+
++ [Cursor+Claude AI编程 - Cursor会话里的Agent,Plan,Debug,Ask区别以及使用](https://blog.csdn.net/caoli201314/article/details/158073561)
+
