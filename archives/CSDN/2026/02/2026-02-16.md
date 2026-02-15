@@ -173,3 +173,5 @@
 
 + [Cursor+Claude AI编程 - Cursor会话里的Agent,Plan,Debug,Ask区别以及使用](https://blog.csdn.net/caoli201314/article/details/158073561)
 
++ [【论文精读】Language Is Not All You Need: Aligning Perceptionwith Language Models](https://blog.csdn.net/2504_93424949/article/details/158103078)
+
