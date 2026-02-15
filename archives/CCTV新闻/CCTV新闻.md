@@ -193,3 +193,7 @@
 
 + [加拿大正式加入“欧洲安全行动”计划](https://news.cctv.com/2026/02/15/ARTIQPQM4ZeMvPX64qd0f6yv260215.shtml)
 
++ [联合国秘书长赞赏中国对非洲国家零关税举措](https://news.cctv.com/2026/02/15/ARTIUlOvERxzJT3FfoCSTjHT260215.shtml)
+
++ [欧盟外长称尚未准备好向乌克兰提供具体入盟日期](https://news.cctv.com/2026/02/15/ARTIXfB5lcKAi4fFSuoSXqDg260215.shtml)
+
