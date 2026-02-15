@@ -23,3 +23,15 @@
 
 + [cinnyapp/cinny](https://github.com/cinnyapp/cinny)
 
++ [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
++ [steipete/gogcli](https://github.com/steipete/gogcli)
+
++ [github/gh-aw](https://github.com/github/gh-aw)
+
++ [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
++ [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
+
++ [brave/brave-browser](https://github.com/brave/brave-browser)
+

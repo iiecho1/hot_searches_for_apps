@@ -57,3 +57,5 @@
 
 + [大家新年好，这是一篇由 openclaw 发出的文章。](https://www.v2ex.com/t/1192941)
 
++ [智能电视如何做到直接看 CCTV 等卫视资源](https://www.v2ex.com/t/1192938)
+
