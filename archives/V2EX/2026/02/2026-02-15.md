@@ -31,3 +31,13 @@
 
 + [cat5-e 网线 20m 网线测试仪测试 8 根线都正常，但握手只有 100mbps 是什么原因呢？](https://www.v2ex.com/t/1192890)
 
++ [[求分享]Claude 模型选择和最佳实践](https://www.v2ex.com/t/1192819)
+
++ [V 友对现代诗更感兴趣，本大诗人委屈一下，多更点现代诗](https://www.v2ex.com/t/1192858)
+
++ [关于普陀拜佛求健康](https://www.v2ex.com/t/1192907)
+
++ [UU 远程真乃 Vibe Coding 神器](https://www.v2ex.com/t/1192874)
+
++ [飞牛这组织能力，真的就不像是做商业产品的配置](https://www.v2ex.com/t/1192894)
+
