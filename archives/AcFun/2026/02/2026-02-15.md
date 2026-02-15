@@ -131,3 +131,17 @@
 
 + [My Bass  小艾](https://m.acfun.cn/v/?ac=48274705)
 
++ [谁是我的新郎？欢乐八点档-1561](https://m.acfun.cn/v/?ac=48275845)
+
++ [小朋友的卡子真可爱呀](https://m.acfun.cn/v/?ac=48276497)
+
++ [魔法少女【？】变身（好像反派哦）](https://m.acfun.cn/v/?ac=48276346)
+
++ [【初音ミク】愛言葉V【DECO*27】](https://m.acfun.cn/v/?ac=48275761)
+
++ [2026情人节神户港烟花秀](https://m.acfun.cn/v/?ac=48275116)
+
++ [看力竭了！！制作组顶级烂完！崩坏改编把原作者气哭！](https://m.acfun.cn/v/?ac=48274693)
+
++ [毛加！变身！](https://m.acfun.cn/v/?ac=48276004)
+
