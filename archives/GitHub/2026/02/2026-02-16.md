@@ -23,3 +23,11 @@
 
 + [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
 
++ [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
+
++ [maxritter/claude-pilot](https://github.com/maxritter/claude-pilot)
+
++ [seerr-team/seerr](https://github.com/seerr-team/seerr)
+
++ [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
+
