@@ -225,3 +225,7 @@
 
 + [ESP32 + Rust 开发的简易语音助手](https://blog.csdn.net/wxgxgp/article/details/158100787)
 
++ [【AI智能体】基于OpenCode 搭建Skills环境与项目实战开发详解](https://blog.csdn.net/zhangcongyi420/article/details/157944185)
+
++ [OpenClaw本地部署 + AWS Bedrock Claude 4.5 模型](https://blog.csdn.net/m0_69818080/article/details/158100236)
+
