@@ -39,3 +39,5 @@
 
 + [2026 年 如果只用 geosite-cn/geoip-cn 性能最好+耗电最低的 loon-lite/quanx/shadowrockt 选哪个？](https://www.v2ex.com/t/1192958)
 
++ [买了 Gemini Pro 付费，用不了 API Key 吗？](https://www.v2ex.com/t/1192990)
+

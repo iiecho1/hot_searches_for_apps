@@ -221,3 +221,7 @@
 
 + [Elasticsearch：创建 tavily 网页搜索 workflow 及在 agent 中使用它](https://blog.csdn.net/UbuntuTouch/article/details/158100108)
 
++ [【Qt开发】Qt界面优化（四）-＞ Qt样式表(QSS) 选择器概况](https://blog.csdn.net/weixin_74809706/article/details/157689645)
+
++ [ESP32 + Rust 开发的简易语音助手](https://blog.csdn.net/wxgxgp/article/details/158100787)
+
