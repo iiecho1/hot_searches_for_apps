@@ -219,3 +219,5 @@
 
 + [Elasticsearch进阶实战：JavaRestClient操作索引与文档及海量数据批处理指南（黑马商城）（黑马微服务课day13）](https://blog.csdn.net/yyzytx5201314/article/details/158103323)
 
++ [Elasticsearch：创建 tavily 网页搜索 workflow 及在 agent 中使用它](https://blog.csdn.net/UbuntuTouch/article/details/158100108)
+

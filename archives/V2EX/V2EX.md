@@ -35,3 +35,7 @@
 
 + [性价比机场选购指南](https://www.v2ex.com/t/1192996)
 
++ [20w 预算，有什么车推荐吗](https://www.v2ex.com/t/1192947)
+
++ [2026 年 如果只用 geosite-cn/geoip-cn 性能最好+耗电最低的 loon-lite/quanx/shadowrockt 选哪个？](https://www.v2ex.com/t/1192958)
+
