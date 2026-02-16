@@ -49,3 +49,5 @@
 
 + [南京联通进小黑屋了](https://www.v2ex.com/t/1192989)
 
++ [看着智谱和 minimax 翻倍，心情很复杂](https://www.v2ex.com/t/1193036)
+
