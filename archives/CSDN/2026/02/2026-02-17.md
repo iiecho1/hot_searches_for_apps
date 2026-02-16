@@ -143,3 +143,7 @@
 
 + [Linux 集群与负载均衡（LVS）](https://blog.csdn.net/quyixiao/article/details/158044428)
 
++ [Flutter for OpenHarmony：fpdart 函数式编程的终极奥义（Option/Either/Task 让代码更安全） 深度解析与鸿蒙适配指南](https://blog.csdn.net/baronbool/article/details/158129660)
+
++ [C# .NET 周刊｜2026年1月3期](https://blog.csdn.net/qq_27441069/article/details/158102013)
+
