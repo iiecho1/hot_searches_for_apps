@@ -245,3 +245,11 @@
 
 + [Quest：视频 + 元数据 + 可点击目标（与RK进行UDP通信）](https://blog.csdn.net/2203_75650990/article/details/158102662)
 
++ [Spring Boot + Spring AI + Vue 3 + TypeScript + Milvus 项目实战](https://blog.csdn.net/wx5701619/article/details/158068472)
+
++ [HarmonyOS实战：React Native实现Popover弹出位置精准控制](https://blog.csdn.net/2401_85083137/article/details/158103110)
+
++ [Flutter for OpenHarmony：universal_io 屏蔽多端差异，实现文件与网络操作的大一统（跨平台标准 IO 库） 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonjinx/article/details/158127626)
+
++ [Flutter for OpenHarmony：checks 下一代测试断言库（Fluent API，更易读的测试报告） 深度解析与鸿蒙适配指南](https://blog.csdn.net/jiang_style/article/details/158128439)
+
