@@ -237,3 +237,11 @@
 
 + [OpenClaw-遇到的问题-Health check failed: gateway closed (1006 abnormal closure (no close frame)): no clos](https://blog.csdn.net/q383965374/article/details/158125474)
 
++ [【JWT】整合 SpringBoot 实现认证和鉴权](https://blog.csdn.net/qq_44530108/article/details/158069835)
+
++ [【Spring Cloud】统一服务入口-Gateway](https://blog.csdn.net/2403_87459748/article/details/158128420)
+
++ [【高等数学】导数与微分](https://blog.csdn.net/he_zhidan/article/details/157761633)
+
++ [Quest：视频 + 元数据 + 可点击目标（与RK进行UDP通信）](https://blog.csdn.net/2203_75650990/article/details/158102662)
+

@@ -51,3 +51,7 @@
 
 + [看着智谱和 minimax 翻倍，心情很复杂](https://www.v2ex.com/t/1193036)
 
++ [看春晚有感](https://www.v2ex.com/t/1193033)
+
++ [除夕当天给我 nas 失联了，气死](https://www.v2ex.com/t/1193024)
+
