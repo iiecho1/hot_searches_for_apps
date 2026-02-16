@@ -183,3 +183,11 @@
 
 + [Vue核心进阶：v-model深度解析+ref+nextTick实战](https://blog.csdn.net/phltxy/article/details/158040812)
 
++ [ARM Linux 驱动开发篇--嵌入式 Linux LED 驱动开发实验（2）--Linux 下 LED 灯驱动开发代码编写-- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158098329)
+
++ [深度学习的数学原理（五）—— 非线性与激活函数](https://blog.csdn.net/xiaolaji600/article/details/158100093)
+
++ [0代码开发医疗挂号小程序](https://blog.csdn.net/weixin_53175511/article/details/158102209)
+
++ [【Linux】TCP vs UDP深度对比：如何选择与用UDP实现可靠传输](https://blog.csdn.net/2301_79849925/article/details/158009682)
+

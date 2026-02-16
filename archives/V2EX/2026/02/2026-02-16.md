@@ -25,3 +25,5 @@
 
 + [过年给老丈人多少红包合适？](https://www.v2ex.com/t/1192955)
 
++ [Mac 上 有 Navicat 的替代品吗？](https://www.v2ex.com/t/1192969)
+
