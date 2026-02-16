@@ -21,3 +21,7 @@
 
 + [除夕当天给我 nas 失联了，气死](https://www.v2ex.com/t/1193024)
 
++ [买了 Gemini Pro 付费，用不了 API Key 吗？](https://www.v2ex.com/t/1192990)
+
++ [有没有在用 codex app 的，出现高 cpu 占用，风扇咆哮](https://www.v2ex.com/t/1192997)
+
