@@ -213,3 +213,9 @@
 
 + [矩阵的导数运算2——链式法则](https://blog.csdn.net/weixin_64284370/article/details/158071020)
 
++ [Flutter三方库适配OpenHarmony【secure_application】— Window 管理与 getLastWindow API](https://blog.csdn.net/ze_lin_zfh/article/details/158103214)
+
++ [技术速递｜在 Azure Windows 11 虚拟机上部署 OpenClaw 的完整指南](https://blog.csdn.net/MicrosoftReactor/article/details/158072894)
+
++ [Elasticsearch进阶实战：JavaRestClient操作索引与文档及海量数据批处理指南（黑马商城）（黑马微服务课day13）](https://blog.csdn.net/yyzytx5201314/article/details/158103323)
+
