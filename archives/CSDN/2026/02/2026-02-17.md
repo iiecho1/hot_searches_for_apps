@@ -111,3 +111,25 @@
 
 + [【Linux】TCP vs UDP深度对比：如何选择与用UDP实现可靠传输](https://blog.csdn.net/2301_79849925/article/details/158009682)
 
++ [关于2026年春晚魔术的一些事](https://blog.csdn.net/sxt2204/article/details/158129648)
+
++ [企业AI审计实战：系统级对接的高效自动化落地方案](https://blog.csdn.net/neweastsun/article/details/158068885)
+
++ [开源模型应用落地-FastAPI-助力模型交互-进阶篇-中间件（四）](https://blog.csdn.net/2509_94461636/article/details/158067320)
+
++ [我与 AI 的小对话](https://blog.csdn.net/user_98765/article/details/158101403)
+
++ [最新最详细的配置Node.js环境教程](https://blog.csdn.net/dc_0012/article/details/158067558)
+
++ [Redis的事务操作](https://blog.csdn.net/2401_86760859/article/details/158100773)
+
++ [技术速递｜在 Azure Windows 11 虚拟机上部署 OpenClaw 的完整指南](https://blog.csdn.net/MicrosoftReactor/article/details/158072894)
+
++ [Kafka](https://blog.csdn.net/weixin_47221460/article/details/158067960)
+
++ [Flutter for OpenHarmony：html 纯 Dart 版 DOM 解析器，爬虫与富文本处理利器（支持 CSS 选择器） 深度解析与鸿蒙适配指南](https://blog.csdn.net/baronbool/article/details/158129676)
+
++ [炫酷代码贺新年：动态烟花效果实现](https://blog.csdn.net/qq_34665985/article/details/158074087)
+
++ [Flutter鸿蒙开发指南（十一）：爆款推荐和一站买全（集成）](https://blog.csdn.net/qq_74796274/article/details/157974606)
+
