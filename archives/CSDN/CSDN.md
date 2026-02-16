@@ -175,3 +175,11 @@
 
 + [【论文精读】Language Is Not All You Need: Aligning Perceptionwith Language Models](https://blog.csdn.net/2504_93424949/article/details/158103078)
 
++ [Spring Cloud Alibaba 2025.1.0.0 正式发布：拥抱 Spring Boot 4.0 与 Java 21+ 的新时代](https://blog.csdn.net/lilinhai548/article/details/158038123)
+
++ [Rust 中的 内存对齐](https://blog.csdn.net/weixin_45541665/article/details/158067448)
+
++ [硬核实战：内网 Windows 环境下 Jenkins + Gitee 自动化部署 Vue2 项目](https://blog.csdn.net/weixin_44067347/article/details/158041437)
+
++ [Vue核心进阶：v-model深度解析+ref+nextTick实战](https://blog.csdn.net/phltxy/article/details/158040812)
+
