@@ -133,3 +133,9 @@
 
 + [Flutter鸿蒙开发指南（十一）：爆款推荐和一站买全（集成）](https://blog.csdn.net/qq_74796274/article/details/157974606)
 
++ [U-Boot FDT命令完全指南](https://blog.csdn.net/qq_44647100/article/details/158125688)
+
++ [Flutter for OpenHarmony：csslib 强力 CSS 样式解析器，构建自定义渲染引擎的基石（Dart 官方解析库） 深度解析与鸿蒙适配指南](https://blog.csdn.net/2609_95049439/article/details/158129398)
+
++ [Flutter三方库适配OpenHarmony【flutter_speech】— FlutterPlugin 接口适配](https://blog.csdn.net/weixin_37695089/article/details/158103245)
+
