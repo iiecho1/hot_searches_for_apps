@@ -139,3 +139,7 @@
 
 + [Flutter三方库适配OpenHarmony【flutter_speech】— FlutterPlugin 接口适配](https://blog.csdn.net/weixin_37695089/article/details/158103245)
 
++ [Flutter for OpenHarmony：diffutil_dart 列表差异计算引擎，高性能 UI 局部刷新的秘密武器（Myers 算法） 深度解析与鸿蒙适配指南](https://blog.csdn.net/2609_95049439/article/details/158129515)
+
++ [Linux 集群与负载均衡（LVS）](https://blog.csdn.net/quyixiao/article/details/158044428)
+
