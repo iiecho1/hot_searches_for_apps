@@ -27,3 +27,11 @@
 
 + [Mac 上 有 Navicat 的替代品吗？](https://www.v2ex.com/t/1192969)
 
++ [2025 父亲走了, 很怀念他](https://www.v2ex.com/t/1192974)
+
++ [主要海外使用，华为 Mate 30 Pro 推荐刷什么系统？](https://www.v2ex.com/t/1192973)
+
++ [[求助] 家里发现蚂蚁，撒药，依然清除不尽](https://www.v2ex.com/t/1192977)
+
++ [性价比机场选购指南](https://www.v2ex.com/t/1192996)
+

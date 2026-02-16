@@ -205,3 +205,11 @@
 
 + [Linux网络传输层协议TCP](https://blog.csdn.net/yanxiao07/article/details/158098774)
 
++ [Android16进阶之MediaPlayer.isPlaying调用流程与实战(二百三十)](https://blog.csdn.net/u010164190/article/details/158097786)
+
++ [Sentinel - 热点参数高级用法：参数例外项与分级限流](https://blog.csdn.net/qq_41187124/article/details/157358875)
+
++ [Elasticsearch索引规划：从字段类型到分片策略的实战思考](https://blog.csdn.net/qq_42943161/article/details/158099469)
+
++ [矩阵的导数运算2——链式法则](https://blog.csdn.net/weixin_64284370/article/details/158071020)
+
