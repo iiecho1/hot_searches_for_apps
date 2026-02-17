@@ -185,3 +185,7 @@
 
 + [用 SSH Key 认证提升文件传输安全：SFTP/SSH 加固实战（适合站点运维与外贸站）](https://blog.csdn.net/web_geek/article/details/158127353)
 
++ [【C#】.net 6.0和8.0有什么区别，以及8.0增加了那些功能，这些功能有那些作用](https://blog.csdn.net/lmy_520/article/details/155489328)
+
++ [Elasticsearch进阶实战：JavaRestClient操作索引与文档及海量数据批处理指南（黑马商城）（黑马微服务课day13）](https://blog.csdn.net/yyzytx5201314/article/details/158103323)
+
