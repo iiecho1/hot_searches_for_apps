@@ -179,3 +179,5 @@
 
 + [生信绘图-Matplotlib绘制云雨图（小提琴图+箱线图+散点）](https://blog.csdn.net/sbvtkdddnl/article/details/158129795)
 
++ [Flutter for OpenHarmony：built_collection 高性能不可变集合（Builder 模式实现极致内存优化） 深度解析与鸿蒙适配指南](https://blog.csdn.net/jiang_style/article/details/158128427)
+
