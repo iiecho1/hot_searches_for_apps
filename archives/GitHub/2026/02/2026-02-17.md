@@ -21,3 +21,15 @@
 
 + [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
 
++ [p-e-w/heretic](https://github.com/p-e-w/heretic)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
++ [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+
++ [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+
++ [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+

@@ -39,3 +39,9 @@
 
 + [疯狂吹捧 AI 的人，能不能让 AI 给我定期定时清理 C 盘无用垃圾文件呢？](https://www.v2ex.com/t/1193072)
 
++ [新年第一问： 2026 年了， v 站有官方的 app 吗](https://www.v2ex.com/t/1193075)
+
++ [关于 360 摄像头永久云录像](https://www.v2ex.com/t/1193070)
+
++ [Re:Source 新 V 站客戶端](https://www.v2ex.com/t/1193082)
+
