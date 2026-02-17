@@ -25,3 +25,27 @@
 
 + [中央广播电视总台《2026 年春节联欢晚会》节目单发布](https://m.ithome.com/html/922077.htm)
 
++ [3 月 4 日晚上 10 点见：苹果发布新品邀请函，向 2026 马年春节献礼](https://m.ithome.com/html/922142.htm)
+
++ [宇树机器人亮相 2026 总台春晚，大秀武术、跑酷](https://m.ithome.com/html/922136.htm)
+
++ [松延动力揭秘 1:1 复刻蔡明：不仅表情、脖子动作，眼神都做了精准调试](https://m.ithome.com/html/922147.htm)
+
++ [宇树科技王兴兴：2026 总台春晚《武 BOT》的高动态、高协同集群控制技术是全球首秀](https://m.ithome.com/html/922141.htm)
+
++ [春晚宇树机器人“摔倒”在地，王兴兴回应称是剧情需要](https://m.ithome.com/html/922182.htm)
+
++ [《流浪地球 3》电影发布新春拜年视频，吴京、郭帆、刘德华、沈腾亮相](https://m.ithome.com/html/922175.htm)
+
++ [宇树机器人惊艳亮相春晚：创造多个全球第一，空翻最大高度超 3 米，悟空造型亮眼](https://m.ithome.com/html/922163.htm)
+
++ [登上春晚感觉如何？松延动力：兴奋，不是所有企业都有机会](https://m.ithome.com/html/922151.htm)
+
++ [松延动力机器人登上 2026 总台春晚小品，蔡明时隔 30 年与机器人“再续前缘”](https://m.ithome.com/html/922135.htm)
+
++ [消息称苹果欧版 iPhone 也将砍掉 SIM 卡槽，仅支持 eSIM](https://m.ithome.com/html/922121.htm)
+
++ [《流浪地球 3》万达影城贴片曝光，沈腾造型片段首曝](https://m.ithome.com/html/922188.htm)
+
++ [古尔曼：苹果 iPhone 18 Pro / Max“不会有重大更新”](https://m.ithome.com/html/922158.htm)
+

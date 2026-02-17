@@ -189,3 +189,5 @@
 
 + [Elasticsearch进阶实战：JavaRestClient操作索引与文档及海量数据批处理指南（黑马商城）（黑马微服务课day13）](https://blog.csdn.net/yyzytx5201314/article/details/158103323)
 
++ [Flutter三方库适配OpenHarmony【flutter_speech】— 项目概述与适配背景](https://blog.csdn.net/weixin_37695089/article/details/158071412)
+
