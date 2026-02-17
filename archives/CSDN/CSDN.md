@@ -127,3 +127,11 @@
 
 + [HGAME 2026 -- Crypto -- WriteUp](https://blog.csdn.net/2301_81161051/article/details/158129266)
 
++ [AIGC（生成式AI）试用 46 -- AI与软件开发过程1](https://blog.csdn.net/u012841352/article/details/157619845)
+
++ [Elasticsearch进阶实战：JavaRestClient操作索引与文档及海量数据批处理指南（黑马商城）（黑马微服务课day13）](https://blog.csdn.net/yyzytx5201314/article/details/158103323)
+
++ [springboot+VUE+部署（11。Nginx）](https://blog.csdn.net/rfidunion/article/details/158102159)
+
++ [IoTDB 数据导出完全指南：工具、命令与场景实践](https://blog.csdn.net/weixin_43151418/article/details/157504905)
+
