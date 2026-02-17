@@ -161,3 +161,7 @@
 
 + [俄称新一轮俄美乌会谈将于下周举行](https://news.cctv.com/2026/02/13/ARTILc16ReghTmumCZlvCU2F260213.shtml)
 
++ [秘鲁总统赫里遭国会弹劾](https://news.cctv.com/2026/02/18/ARTIk464Dd9RanKa7FmK8oBz260218.shtml)
+
++ [美国一男子手持霰弹枪冲向国会大厦随后被捕](https://news.cctv.com/2026/02/18/ARTI4CNLtIkCpyJfwnOl5tq0260218.shtml)
+
