@@ -165,3 +165,17 @@
 
 + [打造专业模板：WPS文字型窗体域实战指南](https://blog.csdn.net/henanlion/article/details/158128107)
 
++ [【大模型智能体】代理式人工智能：大型语言模型智能体的架构、分类与评估](https://blog.csdn.net/weixin_44184852/article/details/158073675)
+
++ [破界·融合·智变：领码SPARK平台如何开辟仿真与嵌入式业务新蓝海？](https://blog.csdn.net/lgf228/article/details/158044796)
+
++ [通信：(2) TCP/UDP、流量/拥塞控制、ARP 与 Socket 应用](https://blog.csdn.net/qq_51942551/article/details/158100580)
+
++ [【VRP论文精读】VRP 的诞生 —— 一个汽油配送问题和逐层捆绑算法](https://blog.csdn.net/fair_li/article/details/158097337)
+
++ [2026马年专属：用HTML打造动态烟花新年祝福页面（附完整源码）](https://blog.csdn.net/u014411348/article/details/158126988)
+
++ [索引策略与查询优化：数据库性能提升的终极指南](https://blog.csdn.net/Start_mswin/article/details/158126352)
+
++ [生信绘图-Matplotlib绘制云雨图（小提琴图+箱线图+散点）](https://blog.csdn.net/sbvtkdddnl/article/details/158129795)
+
