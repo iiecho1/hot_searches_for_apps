@@ -209,3 +209,9 @@
 
 + [NAT (Network Address Translation，网络地址转换）](https://blog.csdn.net/guigenyi/article/details/158129598)
 
++ [基于 Python 深度学习的电影评论情感分析算法](https://blog.csdn.net/JasonXu94/article/details/158129881)
+
++ [Flutter for OpenHarmony：shelf_static 极速搭建静态文件服务器，实现本地视频流播放，深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonmonster01/article/details/158127221)
+
++ [Flutter 应用退出插件 HarmonyOS 适配技术详解](https://blog.csdn.net/weixin_45822171/article/details/158097381)
+

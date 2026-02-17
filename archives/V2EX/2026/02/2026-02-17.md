@@ -53,3 +53,5 @@
 
 + [换机求建议（Macbook Pro vs Macbook Air)](https://www.v2ex.com/t/1193088)
 
++ [还有类似阿凡达的电影推荐吗 大电视看 4K 被爽到了](https://www.v2ex.com/t/1193094)
+
