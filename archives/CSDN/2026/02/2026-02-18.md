@@ -135,3 +135,5 @@
 
 + [IoTDB 数据导出完全指南：工具、命令与场景实践](https://blog.csdn.net/weixin_43151418/article/details/157504905)
 
++ [Redis 缓存穿透、击穿、雪崩解决方案](https://blog.csdn.net/2301_79404691/article/details/158126671)
+

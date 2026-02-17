@@ -25,3 +25,17 @@
 
 + [古尔曼：苹果 iPhone 18 Pro / Max“不会有重大更新”](https://m.ithome.com/html/922158.htm)
 
++ [2026 年春节档电影总票房破 10 亿，《飞驰人生 3》《惊蛰无声》《熊出没》位列前三](https://m.ithome.com/html/922211.htm)
+
++ [2026 总台春晚总导演于蕾回应“机器人浓度超高”：希望让观众看到产业立体化状态](https://m.ithome.com/html/922184.htm)
+
++ [春晚小品《你准喜欢》玩梗“旧的呢”玩一半，转转 App 发文称对不起大家没钱上春晚](https://m.ithome.com/html/922229.htm)
+
++ [行业首次：华为 Mate 80 系列手机圆满完成央视春晚最高规格直播考验](https://m.ithome.com/html/922236.htm)
+
++ [苹果 iOS / iPadOS 26.4 开发者预览版 Beta 更新内容汇总：信息端到端 RCS 加密、默认启用失窃设备保护](https://m.ithome.com/html/922161.htm)
+
++ [创 13 年来新高！2026 年总台春晚全国电视市场直播总收视份额达 79.29%](https://m.ithome.com/html/922250.htm)
+
++ [原道回应十周年纪念版平头耳机部分店铺上架计划调整，首发活动的 9888 条耳机以 1.88 元福利价售罄](https://m.ithome.com/html/922220.htm)
+
