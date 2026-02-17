@@ -191,3 +191,5 @@
 
 + [Flutter三方库适配OpenHarmony【flutter_speech】— 项目概述与适配背景](https://blog.csdn.net/weixin_37695089/article/details/158071412)
 
++ [PostgreSQL：详解 MySQL数据迁移，如何将数据平滑迁移到PostgreSQL](https://blog.csdn.net/cui_yonghua/article/details/158152301)
+

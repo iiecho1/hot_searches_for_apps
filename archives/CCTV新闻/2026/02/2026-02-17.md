@@ -175,3 +175,11 @@
 
 + [密克罗尼西亚联邦总统向中国人民致以马年新春祝福](https://news.cctv.com/2026/02/17/ARTIjygGXSp0chUjPBTv3FhX260217.shtml)
 
++ [荷兰海牙市政厅洋溢浓浓年味儿](https://news.cctv.com/2026/02/17/ARTIARuZHdnpdmEh3O9Z50hQ260217.shtml)
+
++ [世贸组织总干事伊维拉用中文祝贺马年新春](https://news.cctv.com/2026/02/17/ARTILaQrAVCGtnj7bhGhuVOZ260217.shtml)
+
++ [当米兰冬奥遇上中国春节](https://news.cctv.com/2026/02/17/ARTIqGRQ8Tx5CB59vIzLkDaK260217.shtml)
+
++ [通讯丨中国“国潮”海外闹新春](https://news.cctv.com/2026/02/17/ARTIA5ULAjvnwYBCk0YddHZL260217.shtml)
+
