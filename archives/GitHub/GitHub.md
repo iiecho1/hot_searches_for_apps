@@ -33,3 +33,5 @@
 
 + [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
 
++ [steipete/summarize](https://github.com/steipete/summarize)
+
