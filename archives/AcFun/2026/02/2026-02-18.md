@@ -69,3 +69,5 @@
 
 + [【东方】Silent Running【暁Records公式 PV Stack】](https://m.acfun.cn/v/?ac=48276887)
 
++ [《仁王3》你的开放世界就跟你的村长打架一样可笑](https://m.acfun.cn/v/?ac=48279998)
+
