@@ -165,3 +165,5 @@
 
 + [美国一男子手持霰弹枪冲向国会大厦随后被捕](https://news.cctv.com/2026/02/18/ARTI4CNLtIkCpyJfwnOl5tq0260218.shtml)
 
++ [日本国会将于今日举行首相指名选举](https://news.cctv.com/2026/02/18/ARTI3NgwehDEpe9eDdhQlAjm260218.shtml)
+

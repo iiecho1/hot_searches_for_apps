@@ -139,3 +139,5 @@
 
 + [PyTorch导出ONNX格式分割模型及在C#中调用预测](https://blog.csdn.net/weixin_46846685/article/details/158043748)
 
++ [EFSI-DETR：用于无人机图像实时小目标检测的高效频域 - 语义集成方法](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/158155820)
+
