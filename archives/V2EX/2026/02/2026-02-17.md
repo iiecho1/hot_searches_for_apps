@@ -45,3 +45,9 @@
 
 + [Re:Source 新 V 站客戶端](https://www.v2ex.com/t/1193082)
 
++ [macOS 26.4 系统自带限制充电了，可以删掉 AlDente 之类的软件了](https://www.v2ex.com/t/1193098)
+
++ [大年初一，祝各位马年发大财](https://www.v2ex.com/t/1193063)
+
++ [机器人初级阶段我国社会的主要矛盾](https://www.v2ex.com/t/1193061)
+
