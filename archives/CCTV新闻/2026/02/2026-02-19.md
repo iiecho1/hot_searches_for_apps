@@ -169,3 +169,5 @@
 
 + [尹锡悦涉嫌发动内乱案明日一审宣判 尹锡悦将出席](https://news.cctv.com/2026/02/19/ARTIa6e2bPuRb1X8uWUetKC0260219.shtml)
 
++ [美官员称美国将从叙利亚撤出所有军队](https://news.cctv.com/2026/02/19/ARTIRZANMRiYbGMynuo4lQg1260219.shtml)
+
