@@ -163,3 +163,15 @@
 
 + [Redis—主从复制+哨兵](https://blog.csdn.net/zcy278854/article/details/158100353)
 
++ [《MySQL 权限与访问进阶：普通用户搭建、跨端登录及 C/C++ 开发对接教程》](https://blog.csdn.net/Dovis5884/article/details/156240906)
+
++ [χ0——解决数据收集、模型训练、策略部署三者分布之间的不一致性：完成衣服的摊平、折叠、悬挂等多种任务](https://blog.csdn.net/v_JULY_v/article/details/158156251)
+
++ [SpringBoot集成SpringAI与Ollama本地大模型](https://blog.csdn.net/m0_73939789/article/details/158154725)
+
++ [通过Haproxy实现七层负载均衡 ](https://blog.csdn.net/wiefengqizhou/article/details/158098528)
+
++ [【AWS】【ECS】部署流程](https://blog.csdn.net/sxzlc/article/details/158156565)
+
++ [AI编程时代：发挥Rules约束在Vibe-Coding的重要作用](https://blog.csdn.net/gdpu2400502251/article/details/158152954)
+

@@ -179,3 +179,5 @@
 
 + [美国加州北部发生雪崩 致10人失踪](https://news.cctv.com/2026/02/18/ARTImCUujTYMLRPy6Kg9COPb260218.shtml)
 
++ [记者观察：食品贴上警示标签 智利欲全民瘦身？](https://news.cctv.com/2026/02/18/ARTIEOzy0wlWD4yCEc9HKAeq260218.shtml)
+
