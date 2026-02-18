@@ -191,3 +191,7 @@
 
 + [三相光伏并网Matlab/simulink仿真。 光伏采用MPPT控制以实现最大功率追踪](https://blog.csdn.net/QmZVLlLHvXq/article/details/158152402)
 
++ [ARM Linux 驱动开发篇---Linux 设备树简介-- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158155082)
+
++ [对于linux形成整体性的认识](https://blog.csdn.net/safsdfooo/article/details/158155256)
+
