@@ -101,3 +101,31 @@
 
 + [IoTDB 数据导出完全指南：工具、命令与场景实践](https://blog.csdn.net/weixin_43151418/article/details/157504905)
 
++ [PostgreSQL：如何在容器中部署 Crunchy Data Operator（Kubernetes 运维）](https://blog.csdn.net/cui_yonghua/article/details/158179357)
+
++ [PyTorch导出ONNX格式分割模型及在C#中调用预测](https://blog.csdn.net/weixin_46846685/article/details/158043748)
+
++ [黑马大模型RAG与Agent智能体实战教程LangChain提示词——26、RAG开发——JSONLoader（文档加载器、BaseLoader、JsonLines文件、text_content）jq](https://blog.csdn.net/Dontla/article/details/158177796)
+
++ [Claude 今天发布了 Sonnet 4.6， 深度对比：sonnet vs Opus，如何选择最适合你的模型？](https://blog.csdn.net/dong123dddd/article/details/158183806)
+
++ [NAT (Network Address Translation，网络地址转换）](https://blog.csdn.net/guigenyi/article/details/158129598)
+
++ [RT-DETR-R18 Docker 部署：快速搭建跨环境检测服务](https://blog.csdn.net/feng1790291543/article/details/155563927)
+
++ [数据库工程中的SQL调优实践：从索引策略到查询优化的深度探索](https://blog.csdn.net/Start_mswin/article/details/158129543)
+
++ [Flutter for OpenHarmony 实战：Envied — 环境变量与私钥安全守护者](https://blog.csdn.net/2609_95049439/article/details/157975753)
+
++ [【HarmonyOS 6】进度组件实战：打造精美的数据可视化](https://blog.csdn.net/qq_37566395/article/details/158127924)
+
++ [【Docker高级篇】容器日志只懂docker logs？Prometheus+Grafana+ELK集成实操，监控效率翻倍](https://blog.csdn.net/m0_58782205/article/details/158182985)
+
++ [【信号去噪】基于CEENDAN-ICA联合去噪附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/158151632)
+
++ [Flutter for OpenHarmony：darq 让 Dart 拥有 C# LINQ 般的超能力（集合查询与变换神器） 深度解析与鸿蒙适配指南](https://blog.csdn.net/jiang_style/article/details/158156692)
+
++ [Docker Compose 部署 RocketMQ 5.4.0 完整指南（Windows Docker Desktop 专属）](https://blog.csdn.net/qq_29781527/article/details/158101896)
+
++ [【信号去噪】黏菌算法优化经验模态分解的信号去噪声(SMA-VMD)附Matlab代码](https://blog.csdn.net/m0_57702748/article/details/158151645)
+
