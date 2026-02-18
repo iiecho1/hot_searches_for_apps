@@ -25,3 +25,11 @@
 
 + [想捡个二手笔记本装 Linux 桌面玩玩儿，有啥推荐么](https://www.v2ex.com/t/1193105)
 
++ [[新年送码] 功能十分齐全完善的多平台 RSS 阅读器（RSS Reader），支持沉浸式双语对照翻译、 AI 摘要、集成多 RSS 服务账户等特性，已上架 Google Play，微软商店](https://www.v2ex.com/t/1193145)
+
++ [正月初二刚点完香就因为迷信跟亲姐大吵一架](https://www.v2ex.com/t/1193126)
+
++ [youtube 又挂掉了](https://www.v2ex.com/t/1193138)
+
++ [哈尔滨 5 年经验前端，想寻求一份合适的工作](https://www.v2ex.com/t/1193087)
+

@@ -145,3 +145,21 @@
 
 + [LabVIEW实现多通道独立PID控制](https://blog.csdn.net/bjcyck/article/details/158097678)
 
++ [2024—2026：央视春晚分会场的时空迁徙图谱实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/158074856)
+
++ [大模型开发 - 手写Manus之Tavily搜索工具：04 让AI Agent接入互联网](https://blog.csdn.net/yangshangwei/article/details/158155952)
+
++ [Transformer实战——Transformer跨语言零样本学习](https://blog.csdn.net/LOVEmy134611/article/details/148009841)
+
++ [深度学习的数学原理（九）—— 神经网络为什么能学习特征？](https://blog.csdn.net/xiaolaji600/article/details/158153156)
+
++ [【MLLM】Qwen3.5模型和推理优化](https://blog.csdn.net/qq_35812205/article/details/158128816)
+
++ [10-算力中心运维三剑客：Ansible + Jenkins + K8s 高效实战](https://blog.csdn.net/parker1234/article/details/158156158)
+
++ [信道管理模块](https://blog.csdn.net/2402_82670467/article/details/158156716)
+
++ [Flutter for OpenHarmony：swagger_dart_code_generator 接口代码自动化生成的救星（OpenAPI/Swagger） 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonjinx/article/details/158156570)
+
++ [Redis—主从复制+哨兵](https://blog.csdn.net/zcy278854/article/details/158100353)
+

@@ -173,3 +173,9 @@
 
 + [俄美乌日内瓦首日会谈结束 媒体称气氛紧张](https://news.cctv.com/2026/02/18/ARTIyWUico2bBHKZEevaeLWA260218.shtml)
 
++ [莎拉·杜特尔特宣布参加2028年菲律宾总统大选](https://news.cctv.com/2026/02/18/ARTIKOxL2NJpJmfH7mdLROK0260218.shtml)
+
++ [美军事打击以来首个欧洲商业航班抵达委内瑞拉](https://news.cctv.com/2026/02/18/ARTIyamKASfTyG4un613adke260218.shtml)
+
++ [美国加州北部发生雪崩 致10人失踪](https://news.cctv.com/2026/02/18/ARTImCUujTYMLRPy6Kg9COPb260218.shtml)
+
