@@ -185,3 +185,9 @@
 
 + [当AI遇见架构：Vibe Coding时代的设计模式复兴](https://blog.csdn.net/2503_92624912/article/details/158154168)
 
++ [Modbus协议与RS-485的结合：工业通信的完美搭档](https://blog.csdn.net/qq_44647100/article/details/157940367)
+
++ [【金仓数据库】ksql 指南（七） —— 启动和管理事务（KingbaseES 数据一致性保障）](https://blog.csdn.net/2302_78391795/article/details/158180337)
+
++ [三相光伏并网Matlab/simulink仿真。 光伏采用MPPT控制以实现最大功率追踪](https://blog.csdn.net/QmZVLlLHvXq/article/details/158152402)
+

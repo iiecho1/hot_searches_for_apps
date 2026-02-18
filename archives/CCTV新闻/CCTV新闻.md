@@ -191,3 +191,5 @@
 
 + [高市早苗当选日本新任首相](https://news.cctv.com/2026/02/18/ARTIE2DxPVzARlZXRVXCNY0C260218.shtml)
 
++ [美政府移民政策支持率创新低 国土安全部发言人离职](https://news.cctv.com/2026/02/18/ARTIvXoYYxOlfB5cTAC6ZtBG260218.shtml)
+
