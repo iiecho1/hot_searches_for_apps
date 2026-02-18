@@ -175,3 +175,11 @@
 
 + [AI编程时代：发挥Rules约束在Vibe-Coding的重要作用](https://blog.csdn.net/gdpu2400502251/article/details/158152954)
 
++ [【Linux】网络进阶：内网穿透、DNS与ICMP实战](https://blog.csdn.net/2301_79849925/article/details/158103269)
+
++ [2026学网络安全不会大模型？安全大模型专题 (1)：大模型的基本概念](https://blog.csdn.net/m0_70065235/article/details/158155596)
+
++ [Linux camera驱动开发（真正需要做的linux驱动开发）](https://blog.csdn.net/feixiaoxing/article/details/158125557)
+
++ [effective-Objective-C 第三章阅读笔记](https://blog.csdn.net/2501_91546205/article/details/158101404)
+
