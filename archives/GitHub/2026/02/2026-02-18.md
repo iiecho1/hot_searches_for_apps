@@ -27,3 +27,15 @@
 
 + [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
 
++ [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+
++ [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+
++ [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
++ [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64)
+
++ [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
+
++ [p2r3/convert](https://github.com/p2r3/convert)
+
