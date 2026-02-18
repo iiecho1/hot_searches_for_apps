@@ -39,3 +39,23 @@
 
 + [原道回应十周年纪念版平头耳机部分店铺上架计划调整，首发活动的 9888 条耳机以 1.88 元福利价售罄](https://m.ithome.com/html/922220.htm)
 
++ [消息称华为鸿蒙迭代 PC 已在路上，MateBook Pro / Fold 有望迎来更新](https://m.ithome.com/html/922238.htm)
+
++ [李楠：可能只有中国为了进入 AI 的丰饶社会做好了准备](https://m.ithome.com/html/922234.htm)
+
++ [华为手环 11 系列外观曝光：主打轻薄运动，支持心脏健康、多维情绪研究功能](https://m.ithome.com/html/922252.htm)
+
++ [谷歌安卓 17 将提升手机流畅度：线程不再“排队死等”，应用丢帧率降低 4%](https://m.ithome.com/html/922313.htm)
+
++ [比亚迪全新品牌领汇 e7 轿车官图公布，延续海洋网家族风格](https://m.ithome.com/html/922254.htm)
+
++ [苹果 iOS 26.4 Beta 1 增强个人热点：让“流量刺客”现形](https://m.ithome.com/html/922284.htm)
+
++ [消息称苹果 AI 私有云端算力大跃进：跳过 M3 和 M4，直接部署 M5 芯片](https://m.ithome.com/html/922288.htm)
+
++ [抖音集团李亮：大量营销号有组织地炒作“字节是恒科的最大空头”，很荒唐也很恶意！](https://m.ithome.com/html/922242.htm)
+
++ [无方向盘、无踏板，特斯拉首辆 Cybercab 在美国得州超级工厂正式下线](https://m.ithome.com/html/922296.htm)
+
++ [禾赛科技“认领”春晚宇树机器人，全部搭载 JT128 激光雷达](https://m.ithome.com/html/922258.htm)
+
