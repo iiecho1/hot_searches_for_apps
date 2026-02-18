@@ -213,3 +213,7 @@
 
 + [Flutter for OpenHarmony：form_validator 极简表单验证器（告别冗长的 if-else） 深度解析与鸿蒙适配指南](https://blog.csdn.net/jiang_style/article/details/158156724)
 
++ [Flutter for OpenHarmony: Flutter 三方库 cross_file 为鸿蒙多端提供统一的文件抽象接口（跨平台文件处理基石）](https://blog.csdn.net/baronbool/article/details/158181964)
+
++ [Flutter for OpenHarmony：mockito 单元测试的替身演员，轻松模拟复杂依赖（测试驱动开发必备） 深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonmonster01/article/details/158155958)
+
