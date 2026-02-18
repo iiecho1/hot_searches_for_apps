@@ -167,3 +167,9 @@
 
 + [日本国会将于今日举行首相指名选举](https://news.cctv.com/2026/02/18/ARTI3NgwehDEpe9eDdhQlAjm260218.shtml)
 
++ [日本高市早苗内阁全体辞职](https://news.cctv.com/2026/02/18/ARTI0fW2JldahDy1EHUaRNv0260218.shtml)
+
++ [美国副总统：美方向伊朗划定“红线”](https://news.cctv.com/2026/02/18/ARTIi380CORIJ6HEcRfMHCId260218.shtml)
+
++ [俄美乌日内瓦首日会谈结束 媒体称气氛紧张](https://news.cctv.com/2026/02/18/ARTIyWUico2bBHKZEevaeLWA260218.shtml)
+

@@ -21,3 +21,7 @@
 
 + [机器人初级阶段我国社会的主要矛盾](https://www.v2ex.com/t/1193061)
 
++ [听自媒体说, Apple 3 月 4 日会发布超低价 Macbook, 搭载 iPhone 的 A 系列芯片](https://www.v2ex.com/t/1193099)
+
++ [想捡个二手笔记本装 Linux 桌面玩玩儿，有啥推荐么](https://www.v2ex.com/t/1193105)
+

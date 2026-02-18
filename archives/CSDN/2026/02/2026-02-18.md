@@ -141,3 +141,7 @@
 
 + [EFSI-DETR：用于无人机图像实时小目标检测的高效频域 - 语义集成方法](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/158155820)
 
++ [Claude Code配合Astro + GitHub Pages：为 sharelatex-ce 打造现代化的开源项目宣传页](https://blog.csdn.net/here_is_jack/article/details/158127741)
+
++ [LabVIEW实现多通道独立PID控制](https://blog.csdn.net/bjcyck/article/details/158097678)
+
