@@ -183,3 +183,11 @@
 
 + [高市早苗将确定出任日本首相](https://news.cctv.com/2026/02/18/ARTIQuglK1iUzTl5DT40O7e4260218.shtml)
 
++ [韩国统一部：尹锡悦政府11次向平壤放飞无人机](https://news.cctv.com/2026/02/18/ARTIRhaTrggeMbRfx31Ybr0z260218.shtml)
+
++ [国际货币基金组织向日本发出三重警示](https://news.cctv.com/2026/02/18/ARTIaHhrZj2Un49LxjXwD7Gj260218.shtml)
+
++ [红、白、金、蓝　美公布“空军一号”新涂装方案](https://news.cctv.com/2026/02/18/ARTIvFo2LQ6gqmbFvhOoiWsy260218.shtml)
+
++ [高市早苗当选日本新任首相](https://news.cctv.com/2026/02/18/ARTIE2DxPVzARlZXRVXCNY0C260218.shtml)
+

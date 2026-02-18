@@ -183,3 +183,5 @@
 
 + [effective-Objective-C 第三章阅读笔记](https://blog.csdn.net/2501_91546205/article/details/158101404)
 
++ [当AI遇见架构：Vibe Coding时代的设计模式复兴](https://blog.csdn.net/2503_92624912/article/details/158154168)
+
