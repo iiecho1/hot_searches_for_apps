@@ -25,3 +25,25 @@
 
 + [禾赛科技“认领”春晚宇树机器人，全部搭载 JT128 激光雷达](https://m.ithome.com/html/922258.htm)
 
++ [消息称未来数年苹果 iPad Pro 将进入“挤牙膏”时代：无重大设计更新、仅例行小迭代](https://m.ithome.com/html/922340.htm)
+
++ [消息称平价版苹果 MacBook 笔记本将于 3 月 4 日发布会登场，邀请函 Logo 实为机身配色](https://m.ithome.com/html/922380.htm)
+
++ [谷歌正式确认，未来所有用户均可修改 Google 账号 @Gmail.com 邮箱前缀](https://m.ithome.com/html/922393.htm)
+
++ [前苹果首席设计官乔纳森 &#183; 伊夫谈法拉利首款纯电车型：会很激进，压力难免](https://m.ithome.com/html/922347.htm)
+
++ [微软 Win11 现已原生支持 MIDI 2.0](https://m.ithome.com/html/922369.htm)
+
++ [三星 Galaxy S26 Ultra 手机跑分再曝：多核比苹果 iPhone 17 Pro Max 高 17.6%](https://m.ithome.com/html/922323.htm)
+
++ [新款吉利银河星耀 6 车型现身工信部：搭 28.3 千瓦时电池，纯电续航 170 公里](https://m.ithome.com/html/922338.htm)
+
++ [追觅推出自带线 165W 带屏移动电源：2C+1A，399 元](https://m.ithome.com/html/922366.htm)
+
++ [谷歌 Pixel 10a 手机发布：纯平“后背”、出厂搭载安卓 16，499 美元起](https://m.ithome.com/html/922394.htm)
+
++ [闪极推出 45W“苹果冰”小方块单 USB-C 充电头，89 元](https://m.ithome.com/html/922391.htm)
+
++ [所谓“自研机器狗”实为中国产品，印度一大学遭 AI 影响力峰会“驱逐”](https://m.ithome.com/html/922384.htm)
+

@@ -153,3 +153,23 @@
 
 + [AlexNet网络学习](https://blog.csdn.net/yhb1206/article/details/158178471)
 
++ [Transformer架构进化：从BERT到GPT-4，大语言模型如何重塑AI技术栈](https://blog.csdn.net/IRpickstars/article/details/158205703)
+
++ [PostgreSQL：详解 PostgreSQL 与Hadoop与Spark的集成](https://blog.csdn.net/cui_yonghua/article/details/158179336)
+
++ [Elasticsearch 用于词形还原的开源 Hebrew 分析器](https://blog.csdn.net/UbuntuTouch/article/details/158183083)
+
++ [Xshell插件开发挑战：用Python打造你的专属网络管理利器](https://blog.csdn.net/u014727709/article/details/157909537)
+
++ [Flutter for OpenHarmony: Flutter 三方库 cryptography 在鸿蒙上实现金融级现代加解密（高性能安全库）](https://blog.csdn.net/baronbool/article/details/158181993)
+
++ [大年初二，一只黑猫蹲在我家门口叫：是Bug还是Feature？](https://blog.csdn.net/eidolon_foot/article/details/158179322)
+
++ [插件背后的“幽灵“：当便捷工具沦为境外窃密“帮凶“](https://blog.csdn.net/lgf228/article/details/158177164)
+
++ [Ansible 配置自动化](https://blog.csdn.net/weixin_74812406/article/details/158190025)
+
++ [Maven多环境配置实战指南](https://blog.csdn.net/chen_si_shang_/article/details/158182492)
+
++ [【OpenHarmony】React Native鸿蒙实战：ProgressRing 环形进度详解](https://blog.csdn.net/2401_85686768/article/details/158156375)
+

@@ -171,3 +171,13 @@
 
 + [美官员称美国将从叙利亚撤出所有军队](https://news.cctv.com/2026/02/19/ARTIRZANMRiYbGMynuo4lQg1260219.shtml)
 
++ [国际原子能机构：美伊会谈取得进展但“时间不多了”](https://news.cctv.com/2026/02/19/ARTIpECFYXYYauDnUQHiWL4G260219.shtml)
+
++ [联合国人权专家小组：爱泼斯坦案或涉危害人类罪 需展开彻查](https://news.cctv.com/2026/02/19/ARTIvg9HiQ4E3kim0NwL77lM260219.shtml)
+
++ [美国南方司令部司令访委 与委内瑞拉代总统会面](https://news.cctv.com/2026/02/19/ARTIBeq6xoW4OqYYTMS25RcV260219.shtml)
+
++ [消息人士称美军已做好“最早本周末打击伊朗”准备](https://news.cctv.com/2026/02/19/ARTIL9IyKiGaE18MzEwI94vY260219.shtml)
+
++ [金与正：“高度评价”韩方就无人机事件最新表态](https://news.cctv.com/2026/02/19/ARTImyFOwQlxWZBRrEcDXK4V260219.shtml)
+

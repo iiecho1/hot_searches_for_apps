@@ -29,3 +29,9 @@
 
 + [antigravity 的 claude 会偷换模型吗？](https://www.v2ex.com/t/1193163)
 
++ [BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了](https://www.v2ex.com/t/1193209)
+
++ [现在入门前端还来得及吗？](https://www.v2ex.com/t/1193170)
+
++ [大家怎么解决 claude 封号的问题的啊](https://www.v2ex.com/t/1193200)
+
