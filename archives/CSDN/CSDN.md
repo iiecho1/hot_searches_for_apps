@@ -195,3 +195,13 @@
 
 + [Vue3魔法手册 作者 张天禹 015_插槽](https://blog.csdn.net/weixin_52943021/article/details/158181435)
 
++ [AIGC（生成式AI）试用 46 -- AI与软件开发过程1](https://blog.csdn.net/u012841352/article/details/157619845)
+
++ [PostgreSQL：详解 MySQL数据迁移，如何将数据平滑迁移到PostgreSQL](https://blog.csdn.net/cui_yonghua/article/details/158152301)
+
++ [【UUV编队控制】UUV编队控制中PID控制器设计研究附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/158207174)
+
++ [城市化进程与审美水平的动力学](https://blog.csdn.net/dog250/article/details/158184105)
+
++ [effective-Objective-C 第四章阅读笔记](https://blog.csdn.net/2501_91546205/article/details/158179854)
+
