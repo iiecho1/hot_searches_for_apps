@@ -35,3 +35,7 @@
 
 + [大家怎么解决 claude 封号的问题的啊](https://www.v2ex.com/t/1193200)
 
++ [同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗](https://www.v2ex.com/t/1193216)
+
++ [各位现在还在用 GPT 还是转向别的 LLM](https://www.v2ex.com/t/1193220)
+
