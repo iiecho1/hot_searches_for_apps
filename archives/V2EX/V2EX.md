@@ -25,3 +25,7 @@
 
 + [26 年研发环境预测，更累？](https://www.v2ex.com/t/1193194)
 
++ [如果大模型按照自动驾驶的方式来分级的话，当前大模型能达到 L3 吗？](https://www.v2ex.com/t/1193160)
+
++ [antigravity 的 claude 会偷换模型吗？](https://www.v2ex.com/t/1193163)
+
