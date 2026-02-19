@@ -15,3 +15,5 @@
 
 + [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
++ [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)
+
