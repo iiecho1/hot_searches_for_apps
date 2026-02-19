@@ -173,3 +173,21 @@
 
 + [【OpenHarmony】React Native鸿蒙实战：ProgressRing 环形进度详解](https://blog.csdn.net/2401_85686768/article/details/158156375)
 
++ [【VLM】Qwen3-VL模型架构和训练流程](https://blog.csdn.net/qq_35812205/article/details/153579551)
+
++ [数据库MySQL兼容版权限隔离深度体验：从兼容到安全增强的实战之路](https://blog.csdn.net/qq_32682301/article/details/158206117)
+
++ [【花雕学编程】Arduino BLDC 之机器人动态障碍跨越控制算法](https://blog.csdn.net/weixin_41659040/article/details/158205799)
+
++ [Elasticsearch 9.3 增加 bfloat16 向量 支持](https://blog.csdn.net/UbuntuTouch/article/details/158182117)
+
++ [4nm移动SoC革命：三星高能效NPU架构解析](https://blog.csdn.net/qq_34047754/article/details/158206471)
+
++ [WSL2+Gitee代码管理实战指南](https://blog.csdn.net/2301_79462762/article/details/158182587)
+
++ [【审计专栏】第十五篇 公司监督监管 第六部分 央企国企监督评估 03监督的关键对象/业务领域 （2）资产与产权管理——境外资产管控监督评估](https://blog.csdn.net/weixin_49199313/article/details/158205449)
+
++ [yolov5颈部网络图解](https://blog.csdn.net/weixin_44741151/article/details/144434687)
+
++ [4G AT命令解析框架LwAtParser V2.0设计及实现(基于uCOS II)--中级篇 第九章 MQTT协议实现](https://blog.csdn.net/xuxg2005/article/details/158180718)
+
