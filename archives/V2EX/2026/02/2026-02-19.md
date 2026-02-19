@@ -45,3 +45,7 @@
 
 + [手机的定位好坏竟然和 SIM 卡几乎没有关系](https://www.v2ex.com/t/1193213)
 
++ [有 Web 生态概念但静不下心学基础 HTML，导致永远卡在入门，这种状态怎么破？](https://www.v2ex.com/t/1193198)
+
++ [书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案](https://www.v2ex.com/t/1193238)
+

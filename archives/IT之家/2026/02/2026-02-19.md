@@ -47,3 +47,13 @@
 
 + [所谓“自研机器狗”实为中国产品，印度一大学遭 AI 影响力峰会“驱逐”](https://m.ithome.com/html/922384.htm)
 
++ [苹果 M5 Pro / Max 芯片封装前瞻，有望打破 14 核 CPU/40 核 GPU 限制](https://m.ithome.com/html/922431.htm)
+
++ [初探微软 Win11 26H1：升级内核，解除 FAT32 的 32GB 格式化限制](https://m.ithome.com/html/922406.htm)
+
++ [世界最小二维码问世：仅 1.98 平方微米，数据可存千年](https://m.ithome.com/html/922421.htm)
+
++ [双杀：网友买完 AMD Ryzen 7 9800X3D 买 9850X3D，结果全坏了](https://m.ithome.com/html/922428.htm)
+
++ [数据显示：苹果 iPhone 17 Pro Max 上市不久便成最热门以旧换新机型](https://m.ithome.com/html/922399.htm)
+

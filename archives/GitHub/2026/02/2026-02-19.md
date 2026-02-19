@@ -23,3 +23,7 @@
 
 + [openclaw/openclaw](https://github.com/openclaw/openclaw)
 
++ [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato)
+
++ [freemocap/freemocap](https://github.com/freemocap/freemocap)
+
