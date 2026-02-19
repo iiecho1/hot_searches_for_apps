@@ -165,3 +165,15 @@
 
 + [埃及塞得港省发生车祸致18人丧生](https://news.cctv.com/2026/02/20/ARTItjUM21I7XSTGDaWnPU83260220.shtml)
 
++ [瑞典向乌克兰提供新一轮军事援助](https://news.cctv.com/2026/02/20/ARTIuLCborRo0oBhbgVzztbZ260220.shtml)
+
++ [一人道救援车队在苏丹南部遇袭 造成3人死亡](https://news.cctv.com/2026/02/20/ARTIdk5wNMOcfsUe2o4z5mW5260220.shtml)
+
++ [尼日利亚西北部遭恐怖分子袭击 超30人死亡](https://news.cctv.com/2026/02/20/ARTIAq6ZXjknuGwWWYM0aD79260220.shtml)
+
++ [加沙地带媒体办公室：拉法口岸通行人数远低于预期](https://news.cctv.com/2026/02/20/ARTIAxRohevAhtzrFklNT0Zf260220.shtml)
+
++ [特朗普：预计“十天左右”知道能否与伊朗达成协议](https://news.cctv.com/2026/02/20/ARTIoLnb2upqvqDCMJMq29Up260220.shtml)
+
++ [安德鲁被捕 英国国王发声 英前首相提交新证据](https://news.cctv.com/2026/02/20/ARTIhMz8yNwIk9g1UXIBjXWm260220.shtml)
+
