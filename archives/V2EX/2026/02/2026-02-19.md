@@ -43,3 +43,5 @@
 
 + [Gemini 突然删除了我所有的 conversation history](https://www.v2ex.com/t/1193217)
 
++ [手机的定位好坏竟然和 SIM 卡几乎没有关系](https://www.v2ex.com/t/1193213)
+

@@ -211,3 +211,5 @@
 
 + [GitHub 热榜项目 - 日榜(2026-02-17)](https://blog.csdn.net/u014390502/article/details/158154612)
 
++ [基于微信小程序的在线课堂助手【源码+文档+调试】](https://blog.csdn.net/namixuezhang11/article/details/157992818)
+
