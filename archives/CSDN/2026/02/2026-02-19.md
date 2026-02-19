@@ -219,3 +219,9 @@
 
 + [2026年OpenClaw（Clawdbot）阿里云搭建全流程深度解读版](https://blog.csdn.net/yunfuuwqi/article/details/158207753)
 
++ [PostgreSQL：触发器实战 —— 实现数据变更的历史记录（审计日志）](https://blog.csdn.net/cui_yonghua/article/details/158205922)
+
++ [渗透测试——Raven2靶机横向提权详细过程（PHPMailer框架利用，UDF提取）](https://blog.csdn.net/m0_73812072/article/details/158179595)
+
++ [Windows11基于WSL2首次运行Openclaw，并对接飞书应用](https://blog.csdn.net/tinygone/article/details/158183882)
+

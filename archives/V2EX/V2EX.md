@@ -49,3 +49,7 @@
 
 + [书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案](https://www.v2ex.com/t/1193238)
 
++ [系统逼着用户升级到底是合理的还是不合理的](https://www.v2ex.com/t/1193247)
+
++ [有没有免费易用的 md 编辑器推荐一下](https://www.v2ex.com/t/1193229)
+

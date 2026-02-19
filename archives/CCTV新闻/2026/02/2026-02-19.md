@@ -197,3 +197,19 @@
 
 + [意在伊朗？特朗普再批英国“还岛”是“重大错误”](https://news.cctv.com/2026/02/19/ARTIskFm8AfqQpdYALH45Qk2260219.shtml)
 
++ [日本福冈一图书馆发生持刀伤人事件3人受伤](https://news.cctv.com/2026/02/19/ARTITV1KFrTWLLp5XyOEsWeA260219.shtml)
+
++ [德法联合研制战机陷僵局 德国考虑增购美国F-35战机](https://news.cctv.com/2026/02/19/ARTI6Yc57QpoOR30u1a7QDHL260219.shtml)
+
++ [通讯丨为迎接中国春节，巴西“功夫兄妹”穿上中式练功服](https://news.cctv.com/2026/02/19/ARTIL67KjU3zBef310H4w5GH260219.shtml)
+
++ [记者手记丨在波兰扎科帕内的雪夜里迎来中国年](https://news.cctv.com/2026/02/19/ARTIcgUlERpODvcveXZalHVQ260219.shtml)
+
++ [通讯｜除夕夜，莫斯科红场旁跳起英歌舞](https://news.cctv.com/2026/02/19/ARTIR6yBg8jVGnv987ppAr6o260219.shtml)
+
++ [“主动了解彼此的文化、价值观和生活方式”——访巴西国际旅游推广局局长弗雷索](https://news.cctv.com/2026/02/19/ARTItuimjWtH8yWUnyfNPPwq260219.shtml)
+
++ [全球瞭望丨南非媒体：中国零关税举措助推中非共建现代化](https://news.cctv.com/2026/02/19/ARTI4iwPMX5RuYegp9jgisQ4260219.shtml)
+
++ [外国领导人和国际组织负责人祝贺马年新春](https://news.cctv.com/2026/02/19/ARTI1z5ENc6DU6VmOdpsxH1l260219.shtml)
+
