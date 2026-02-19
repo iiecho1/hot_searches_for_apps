@@ -181,3 +181,9 @@
 
 + [金与正：“高度评价”韩方就无人机事件最新表态](https://news.cctv.com/2026/02/19/ARTImyFOwQlxWZBRrEcDXK4V260219.shtml)
 
++ [金正恩出席火箭炮赠送仪式 强调确保朝鲜安全环境](https://news.cctv.com/2026/02/19/ARTIcLH1jVXRDYpbQp57CifR260219.shtml)
+
++ [韩国前总统尹锡悦涉嫌发动内乱案一审被判处无期徒刑](https://news.cctv.com/2026/02/19/ARTIZnTscII8mTyPJfUbyaA9260219.shtml)
+
++ [韩国法院：尹锡悦内乱头目罪罪名成立](https://news.cctv.com/2026/02/19/ARTI3hJIY0DgRBvS0UExZkoG260219.shtml)
+

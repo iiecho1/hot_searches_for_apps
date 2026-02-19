@@ -39,3 +39,7 @@
 
 + [各位现在还在用 GPT 还是转向别的 LLM](https://www.v2ex.com/t/1193220)
 
++ [传闻两河地区网络运营商开始打击 steam 用户？有没有了解的来说一下和近期上海限速有没有关系](https://www.v2ex.com/t/1193165)
+
++ [Gemini 突然删除了我所有的 conversation history](https://www.v2ex.com/t/1193217)
+
