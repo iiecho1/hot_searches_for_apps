@@ -233,3 +233,7 @@
 
 + [Linux-ansible自动化运维](https://blog.csdn.net/Maggie_ssss_supp/article/details/158069014)
 
++ [Vue3+C# WebSocket实战：实时通讯应用，速度提升300%的秘密](https://blog.csdn.net/z_344791576/article/details/151921564)
+
++ [在飞牛 NAS（fnOS）上使用 Docker 部署 FastAPI 应用(这个是从错误学习教程 图是可以的)](https://blog.csdn.net/PieroPc/article/details/158206840)
+

@@ -205,3 +205,7 @@
 
 + [美国与印尼达成贸易协议 将对该国征收19%关税](https://news.cctv.com/2026/02/20/ARTI2S8TBdgC3GFAMqvQa7bO260220.shtml)
 
++ [泽连斯基：乌克兰愿为和平作出妥协 但不会接受损害主权的条件](https://news.cctv.com/2026/02/20/ARTI7aSniwlYPBXffzbJxF4y260220.shtml)
+
++ [我使馆：一名中国游客在贝加尔湖汽车落水事故中获救](https://news.cctv.com/2026/02/20/ARTIvI5uEa6mRakg5W8PmeFf260220.shtml)
+

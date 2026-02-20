@@ -45,3 +45,7 @@
 
 + [Claude VS GLM VS Kimi VS MiniMax VS Gemini 2026 年半年内 Vibe Coding 谁更强？](https://www.v2ex.com/t/1193255)
 
++ [求推荐一个家用路由器，小白不知道怎么搞](https://www.v2ex.com/t/1193286)
+
++ [自组 AI NAS 硬件配置求助，过年没事来聊聊吧](https://www.v2ex.com/t/1193298)
+

@@ -35,3 +35,27 @@
 
 + [新款吉利银河星耀 6 车型现身工信部：搭 28.3 千瓦时电池，纯电续航 170 公里](https://m.ithome.com/html/922338.htm)
 
++ [华为李小龙详解 Mate 80 Pro Max 春晚直播：40 余项底层优化，每个版本 30 台手机 48 小时不间断压测](https://m.ithome.com/html/922525.htm)
+
++ [81 款主流耳机全军覆没：ToxFree 检测发现均含对人体有害化学物质](https://m.ithome.com/html/922529.htm)
+
++ [2026 款奥迪 RS5 发布，630 马力双涡轮 V6 插混系统加持，10.62 万欧元起](https://m.ithome.com/html/922499.htm)
+
++ [外媒驳斥“苹果 iPhone 18 Pro 引入磁吸接口取代 USB-C”传言：法规上不可能](https://m.ithome.com/html/922513.htm)
+
++ [成交价 57527 元，2026 央视春晚魔法原子同款 MagicPanda 熊猫机器人拍卖落槌](https://m.ithome.com/html/922486.htm)
+
++ [电影《镖人》使用 Seedance 2.0 辅助设计片尾彩蛋，豆包 AI 采访导演袁和平](https://m.ithome.com/html/922535.htm)
+
++ [iOS 26 泄密案新进展：苹果动真格，要求爆料人 Prosser 宣誓作证](https://m.ithome.com/html/922536.htm)
+
++ [谷歌 Gemini 3.1 Pro 发布：推理能力翻倍，专为复杂任务而生](https://m.ithome.com/html/922520.htm)
+
++ [李飞飞斩获 10 亿美元新一轮融资：英伟达 AMD 入局，3D 空间革命开战](https://m.ithome.com/html/922516.htm)
+
++ [限制 500W 仍烧毁：RTX 5090 显卡接口熔毁新案例曝光](https://m.ithome.com/html/922555.htm)
+
++ [全网首例：用户反馈其 iPhone Air 的苹果自研 5G 基带硬件故障](https://m.ithome.com/html/922519.htm)
+
++ [告别纯文本：微软 Win11 记事本将变身“轻量 Word”，支持插入图片](https://m.ithome.com/html/922544.htm)
+
