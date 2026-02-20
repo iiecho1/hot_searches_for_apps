@@ -161,3 +161,9 @@
 
 + [莎拉·杜特尔特宣布参加2028年菲律宾总统大选](https://news.cctv.com/2026/02/18/ARTIKOxL2NJpJmfH7mdLROK0260218.shtml)
 
++ [英政府考虑将国王之弟安德鲁从王位继承顺序中移除](https://news.cctv.com/2026/02/21/ARTIwgTrcFNZbtLkU6Em2ve3260221.shtml)
+
++ [特朗普：将在常规关税基础上对全球征收10%的进口关税](https://news.cctv.com/2026/02/21/ARTIqtCNiJHqmm9ngBKWyUGh260221.shtml)
+
++ [斯洛伐克称乌克兰再次推迟恢复“友谊”管道供油时间](https://news.cctv.com/2026/02/21/ARTIUsx2dtu2T4dXEWkGArXb260221.shtml)
+
