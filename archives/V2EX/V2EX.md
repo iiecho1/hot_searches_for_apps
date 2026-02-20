@@ -51,3 +51,7 @@
 
 + [YouTube premium 被取消续订了，怎么解](https://www.v2ex.com/t/1193288)
 
++ [个人如何选择出海软件的支付方案？](https://www.v2ex.com/t/1193329)
+
++ [身体已是靠胰岛素维持的状态，爸爸还是酒不离身，不正常吃饭吃药](https://www.v2ex.com/t/1193312)
+
