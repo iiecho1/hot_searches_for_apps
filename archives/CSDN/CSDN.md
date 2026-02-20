@@ -227,3 +227,5 @@
 
 + [DGX Spark（GB10, aarch64, CUDA 13.0）部署 vLLM + Open WebUI —— 运行 `QWen3-Coder-Next-FP8`](https://blog.csdn.net/redhat77/article/details/158235060)
 
++ [【数据驱动】【航空航天结构的高效损伤检测技术】一种数据驱动的结构健康监测（SHM）方法，用于进行原位评估结构健康状态，即损伤位置和](https://blog.csdn.net/matlab_dingdang/article/details/158234036)
+
