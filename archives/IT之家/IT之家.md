@@ -25,3 +25,13 @@
 
 + [数据显示：苹果 iPhone 17 Pro Max 上市不久便成最热门以旧换新机型](https://m.ithome.com/html/922399.htm)
 
++ [谷歌安卓 17 将提升手机流畅度：线程不再“排队死等”，应用丢帧率降低 4%](https://m.ithome.com/html/922313.htm)
+
++ [消息称未来数年苹果 iPad Pro 将进入“挤牙膏”时代：无重大设计更新、仅例行小迭代](https://m.ithome.com/html/922340.htm)
+
++ [前苹果首席设计官乔纳森 &#183; 伊夫谈法拉利首款纯电车型：会很激进，压力难免](https://m.ithome.com/html/922347.htm)
+
++ [三星 Galaxy S26 Ultra 手机跑分再曝：多核比苹果 iPhone 17 Pro Max 高 17.6%](https://m.ithome.com/html/922323.htm)
+
++ [新款吉利银河星耀 6 车型现身工信部：搭 28.3 千瓦时电池，纯电续航 170 公里](https://m.ithome.com/html/922338.htm)
+
