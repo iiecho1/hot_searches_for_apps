@@ -229,3 +229,7 @@
 
 + [【数据驱动】【航空航天结构的高效损伤检测技术】一种数据驱动的结构健康监测（SHM）方法，用于进行原位评估结构健康状态，即损伤位置和](https://blog.csdn.net/matlab_dingdang/article/details/158234036)
 
++ [有了AI，还需要学Springboot吗？](https://blog.csdn.net/qq_20294455/article/details/158208525)
+
++ [Linux-ansible自动化运维](https://blog.csdn.net/Maggie_ssss_supp/article/details/158069014)
+

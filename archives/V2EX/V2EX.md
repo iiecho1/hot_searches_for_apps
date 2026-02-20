@@ -39,3 +39,9 @@
 
 + [分享一个自己开发的 4 平台代理客户端：通途](https://www.v2ex.com/t/1193252)
 
++ [4 年后再问， 2026 适合在深圳买房吗？](https://www.v2ex.com/t/1193299)
+
++ [有没有 Oppo 和 Vivo 都用过的老哥？](https://www.v2ex.com/t/1193283)
+
++ [Claude VS GLM VS Kimi VS MiniMax VS Gemini 2026 年半年内 Vibe Coding 谁更强？](https://www.v2ex.com/t/1193255)
+
