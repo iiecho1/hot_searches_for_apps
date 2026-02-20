@@ -243,3 +243,17 @@
 
 + [构建带有科学型数据云的IoT应用](https://blog.csdn.net/2401_84168288/article/details/158237207)
 
++ [Java 手写 AI Agent：ZenoAgent 实战笔记](https://blog.csdn.net/qq_46101869/article/details/158211483)
+
++ [【Linux】poll 多路转接：select 的改良版，以及它留下的遗憾](https://blog.csdn.net/2301_79849925/article/details/158154514)
+
++ [SpringBoot多环境配置实战指南](https://blog.csdn.net/chen_si_shang_/article/details/158237261)
+
++ [深入浅出：理解控制反转 (IoC) 与 Spring 的核心实现](https://blog.csdn.net/2401_87808951/article/details/158182262)
+
++ [Android 实现手机号输入框自动 3-4-4 格式化（Compose & View 系统）](https://blog.csdn.net/m0_49619658/article/details/158235327)
+
++ [FastAPI实战（第二部分）：用户注册接口开发详解](https://blog.csdn.net/Peter_Changyb/article/details/158237775)
+
++ [【OpenHarmony】React Native鸿蒙实战：SecureStorage 安全存储详解](https://blog.csdn.net/2401_85686768/article/details/158211570)
+
