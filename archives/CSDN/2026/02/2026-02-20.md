@@ -173,3 +173,25 @@
 
 + [React Native 开发环境准备](https://blog.csdn.net/u012116089/article/details/158181730)
 
++ [微分中值定理与导数的应用](https://blog.csdn.net/he_zhidan/article/details/158006035)
+
++ [AI 如何改变传统 鸿蒙App 的信息架构](https://blog.csdn.net/qq_36863796/article/details/158127990)
+
++ [【HarmonyOS】RN_of_HarmonyOS实战项目_自动完成功能](https://blog.csdn.net/2301_81152266/article/details/158210902)
+
++ [【RFCOMM】协议深度解析[5]：RFCOMM 媒体适配解密——GSM 07.10 帧如何适配蓝牙无线传输](https://blog.csdn.net/weixin_37800531/article/details/158098796)
+
++ [ 集成测试实战：构建可靠的测试金字塔体系](https://blog.csdn.net/sinat_41617212/article/details/158209304)
+
++ [AI作曲进入一句话时代：谷歌Gemini推出音乐模型](https://blog.csdn.net/systeminof/article/details/158206604)
+
++ [【花雕学编程】Arduino BLDC 之自适应阻抗控制的外骨骼机器人](https://blog.csdn.net/weixin_41659040/article/details/158233457)
+
++ [SpringBoot vs SpringMVC：以及SpringBoot的全流程开发（1）](https://blog.csdn.net/chen_si_shang_/article/details/158208641)
+
++ [Spring AI Tool Calling（工具调用）详解——让大模型拥有“动手能力“](https://blog.csdn.net/cjejwe/article/details/158207744)
+
++ [Flutter for OpenHarmony: Flutter 三方库 hashlib 为鸿蒙应用提供军用级加密哈希算法支持（安全数据完整性卫士）](https://blog.csdn.net/jiang_style/article/details/158211015)
+
++ [2026年春节后，AI大模型格局彻底变了——Claude 4.6、GPT-5.2与六大国产模型全面横评](https://blog.csdn.net/nmdbbzcl/article/details/158205652)
+

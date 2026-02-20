@@ -177,3 +177,15 @@
 
 + [安德鲁被捕 英国国王发声 英前首相提交新证据](https://news.cctv.com/2026/02/20/ARTIhMz8yNwIk9g1UXIBjXWm260220.shtml)
 
++ [国际刑事法院驳回菲律宾前总统杜特尔特缺席听证会的请求](https://news.cctv.com/2026/02/20/ARTIkV5i9j4BGDyUxIDwQwpA260220.shtml)
+
++ [委内瑞拉全国代表大会通过大赦法案](https://news.cctv.com/2026/02/20/ARTInMH6DU1FiW1T5Fn2ValU260220.shtml)
+
++ [知情人士：特朗普考虑对伊朗实施“有限规模”的初步打击](https://news.cctv.com/2026/02/20/ARTIAjWGwlz6OJd7Wx9G1cv6260220.shtml)
+
++ [美国向联合国支付1.6亿美元部分欠款](https://news.cctv.com/2026/02/20/ARTICyE8fo4wnATRkMWRWOrX260220.shtml)
+
++ [古巴外长：美经济封锁致古巴一年损失超70亿美元](https://news.cctv.com/2026/02/20/ARTIL3UhskWz6GK2GuzppQjj260220.shtml)
+
++ [特朗普称将启动解密UFO与外星生命相关政府文件](https://news.cctv.com/2026/02/20/ARTIzrW0ODXi06AyrOaiN7ci260220.shtml)
+

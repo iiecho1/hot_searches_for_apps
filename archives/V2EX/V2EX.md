@@ -25,3 +25,11 @@
 
 + [被裁员玩了快一年了](https://www.v2ex.com/t/1193233)
 
++ [现在的主旋律洗脑作用真大。](https://www.v2ex.com/t/1193278)
+
++ [介绍一下大一学生使用 Flutter+Rust 开发的一站式学习工作台](https://www.v2ex.com/t/1193243)
+
++ [不是，这就是吹的很火的 codex 5.3 吗？我才第一次体验就把我文件清空了。。](https://www.v2ex.com/t/1193244)
+
++ [GLM5.0 一分钟不到， Lite 跟 Pro 都抢完了怎么回事](https://www.v2ex.com/t/1193276)
+
