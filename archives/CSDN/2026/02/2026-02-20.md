@@ -211,3 +211,15 @@
 
 + [【OpenHarmony】React Native鸿蒙实战：NetInfo 网络状态详解](https://blog.csdn.net/2401_85686768/article/details/158211595)
 
++ [国内主流AI工具对比 - 豆包、元宝、千问、Kimi、DeepSeek、MiniMax、GLM](https://blog.csdn.net/parker1234/article/details/158182944)
+
++ [NoSQL 对比——为什么 MongoDB 是最佳选择？](https://blog.csdn.net/cui_yonghua/article/details/158234450)
+
++ [SpringBoot整合LangChain4j实现RAG检索实战详解](https://blog.csdn.net/peraglobal/article/details/158233796)
+
++ [GPIO子系统源码研究](https://blog.csdn.net/qq_40131760/article/details/158206274)
+
++ [技术速递——通义千问 3.5 深度横评：纸面超越 GPT‑5.2，实测差距在哪？](https://blog.csdn.net/DuLNode/article/details/158233756)
+
++ [【HarmonyOS】React Native 实战项目与 Redux Toolkit 状态管理实践](https://blog.csdn.net/2401_83061978/article/details/158210394)
+
