@@ -237,3 +237,5 @@
 
 + [在飞牛 NAS（fnOS）上使用 Docker 部署 FastAPI 应用(这个是从错误学习教程 图是可以的)](https://blog.csdn.net/PieroPc/article/details/158206840)
 
++ [深入理解 Vue3 的 v-model 及自定义指令的实现原理（下）](https://blog.csdn.net/qq_63358859/article/details/158205747)
+
