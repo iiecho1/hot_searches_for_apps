@@ -223,3 +223,7 @@
 
 + [【HarmonyOS】React Native 实战项目与 Redux Toolkit 状态管理实践](https://blog.csdn.net/2401_83061978/article/details/158210394)
 
++ [【Claude Code】如何理解Hooks、Rules、Commands、Skills、Agents、Plugins、MCP](https://blog.csdn.net/m0_51532522/article/details/158235679)
+
++ [DGX Spark（GB10, aarch64, CUDA 13.0）部署 vLLM + Open WebUI —— 运行 `QWen3-Coder-Next-FP8`](https://blog.csdn.net/redhat77/article/details/158235060)
+
