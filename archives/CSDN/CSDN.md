@@ -149,3 +149,17 @@
 
 + [苍穹外卖(前端)](https://blog.csdn.net/2401_87562521/article/details/157811701)
 
++ [Flutter for OpenHarmony: Flutter 三方库 intl_utils 自动化管理鸿蒙应用国际化多语言资源（零样板代码的多端适配）](https://blog.csdn.net/cannonjinx/article/details/158183999)
+
++ [无人驾驶-2024-09-智能驾驶与机器视觉06：视觉感知任务](https://blog.csdn.net/u013250861/article/details/158239556)
+
++ [Field-Oriented Control of an Interior Permanent Magnet Synchronous Motor MATLAB_help文档DeepSeek翻译](https://blog.csdn.net/shallwegzgdj/article/details/158235094)
+
++ [JSON 与 BSON 深度解析：理解 MongoDB 底层数据格式与扩展类型。](https://blog.csdn.net/cui_yonghua/article/details/158235508)
+
++ [寒假学数学建模：时间序列与投资模型](https://blog.csdn.net/2401_89265042/article/details/158239169)
+
++ [Spring Boot 3.x 继承策略 SINGLE_TABLE 的鉴别器列问题详解与解决方案](https://blog.csdn.net/jjj_web/article/details/158150154)
+
++ [【一天一个计算机知识】—— 【 C/C++ 内存管理与分布】](https://blog.csdn.net/fengtinghuqu520/article/details/158181766)
+
