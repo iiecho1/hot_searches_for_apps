@@ -163,3 +163,17 @@
 
 + [【一天一个计算机知识】—— 【 C/C++ 内存管理与分布】](https://blog.csdn.net/fengtinghuqu520/article/details/158181766)
 
++ [powergui MATLAB_help文档DeepSeek翻译](https://blog.csdn.net/shallwegzgdj/article/details/158234113)
+
++ [SkillLite架构演进：从Python Agent到Rust统一执行引擎的重构之路](https://blog.csdn.net/sinat_25866835/article/details/158206965)
+
++ [基于LSTM的共享单车需求预测研究](https://blog.csdn.net/Dev7z/article/details/158237752)
+
++ [2026 AI Agent开发速成：从0到1搭建可落地智能体](https://blog.csdn.net/jiangjunshow/article/details/158238063)
+
++ [Android tinyalsa深度解析之pcm_get_poll_fd调用流程与实战(一百二十一)](https://blog.csdn.net/u010164190/article/details/158036352)
+
++ [LabVIEW列车轴承声学成像应用](https://blog.csdn.net/bjcyck/article/details/158211430)
+
++ [视频孪生的时代边界与镜像孪生的空间计算革命——从二维展示到三维可计算现实的代际替换](https://blog.csdn.net/weixin_55178946/article/details/158237776)
+
