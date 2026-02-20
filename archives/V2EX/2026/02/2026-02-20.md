@@ -49,3 +49,5 @@
 
 + [自组 AI NAS 硬件配置求助，过年没事来聊聊吧](https://www.v2ex.com/t/1193298)
 
++ [YouTube premium 被取消续订了，怎么解](https://www.v2ex.com/t/1193288)
+
