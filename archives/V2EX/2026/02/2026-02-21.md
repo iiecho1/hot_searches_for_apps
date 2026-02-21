@@ -41,3 +41,5 @@
 
 + [这个推理速度也太快了吧！ chatjimmy.ai 比查 db 都快啊！](https://www.v2ex.com/t/1193358)
 
++ [南京电信 微信支付相关加载缓慢](https://www.v2ex.com/t/1193345)
+

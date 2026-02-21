@@ -233,3 +233,11 @@
 
 + [X-VLA——基于Soft Prompt的Transformer编码器练就可扩展的跨本体VLA：VLM做多模态感知，DiT-style做动作生成](https://blog.csdn.net/v_JULY_v/article/details/158262322)
 
++ [ARM Linux 驱动开发篇--- 设备树下的 LED 驱动实验-- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158238557)
+
++ [一卡通核心交易平台的国产数据库实践解析：架构、迁移与高可用落地](https://blog.csdn.net/2302_78391795/article/details/158262249)
+
++ [嵌入模型与Chroma向量数据库 - 嵌入模型与向量数据库简介 - AI大模型应用开发必备知识](https://blog.csdn.net/caoli201314/article/details/158262700)
+
++ [深度解析个人AI助手OpenClaw：从消息处理到定时任务的全流程架构](https://blog.csdn.net/u013970991/article/details/158233603)
+
