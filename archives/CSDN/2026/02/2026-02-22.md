@@ -147,3 +147,15 @@
 
 + [[python]-多任务](https://blog.csdn.net/CSDN20221005/article/details/158238904)
 
++ [HBase与Spring：Java企业开发集成](https://blog.csdn.net/2502_91534727/article/details/158205074)
+
++ [Android tinyalsa深度解析之pcm_get_snd_pcm_info调用流程与实战(一百二十四)](https://blog.csdn.net/u010164190/article/details/158069281)
+
++ [CMU Subword Modeling | 11 Rules of realization and rules of referral](https://blog.csdn.net/MaoziYa/article/details/158206803)
+
++ [【OpenHarmony】React Native鸿蒙实战：NetInfo 网络状态详解](https://blog.csdn.net/2401_85686768/article/details/158211595)
+
++ [前端八股文面经大全：字节前端一面（2026-2-1）·面经深度解析](https://blog.csdn.net/weixin_50077637/article/details/158237586)
+
++ [WSL2+Gitee代码管理实战指南](https://blog.csdn.net/2301_79462762/article/details/158182587)
+
