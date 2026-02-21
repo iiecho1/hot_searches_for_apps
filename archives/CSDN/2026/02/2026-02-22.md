@@ -185,3 +185,5 @@
 
 + [ComfyUI 更新后 ModuleNotFoundError: No module named ‘pkg_resources‘报错修复指南](https://blog.csdn.net/u014451778/article/details/158235223)
 
++ [LabVIEW列车轴承声学成像应用](https://blog.csdn.net/bjcyck/article/details/158211430)
+
