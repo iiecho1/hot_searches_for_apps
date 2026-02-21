@@ -101,3 +101,15 @@
 
 + [Redis：(5) 分布式锁实现：原子性设置锁与 Lua 释放锁](https://blog.csdn.net/qq_51942551/article/details/158183178)
 
++ [《计算机视觉：模型、学习和推理》第 4 章-拟合概率模型](https://blog.csdn.net/2302_80961196/article/details/158238237)
+
++ [深度残差收缩网络（DRSN）在强噪声故障诊断中的TensorFlow/Keras实现与验证](https://blog.csdn.net/Lawrence20258/article/details/158238165)
+
++ [Flutter三方库适配OpenHarmony【secure_application】— 性能影响与优化策略](https://blog.csdn.net/ze_lin_zfh/article/details/158207218)
+
++ [从零开始学Flink：实时数仓与维表时态Join实战](https://blog.csdn.net/jackelee90/article/details/158207154)
+
++ [方法论——如何设计控制策略架构](https://blog.csdn.net/Zevalin/article/details/158239452)
+
++ [OpenClaw接入飞书全流程：打造你的24小时AI助手](https://blog.csdn.net/air__Heaven/article/details/158235047)
+
