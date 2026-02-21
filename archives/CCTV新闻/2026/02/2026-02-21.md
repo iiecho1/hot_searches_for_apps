@@ -195,3 +195,11 @@
 
 + [日元购买力创新低](https://news.cctv.com/2026/02/21/ARTIvoaQhr9Kj3Lm4t0HukEY260221.shtml)
 
++ [英媒：针对安德鲁调查持续 英王室经历危机时刻](https://news.cctv.com/2026/02/21/ARTI0HkYSmpRxK5NySzyX51a260221.shtml)
+
++ [希腊南部海域一移民船倾覆 已致5人死亡](https://news.cctv.com/2026/02/21/ARTIGRGxMzmObh1WsqY4rI7g260221.shtml)
+
++ [韩国瑞山石油储备基地附近发生山火](https://news.cctv.com/2026/02/21/ARTIg5v74KmbWzeMx8UpSb9p260221.shtml)
+
++ [世卫组织：今年以来苏丹医疗机构遭袭 已致69人死亡](https://news.cctv.com/2026/02/21/ARTIbbYwrLWkwrY1OzOWM0be260221.shtml)
+

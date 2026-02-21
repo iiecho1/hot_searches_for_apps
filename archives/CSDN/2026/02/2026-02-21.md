@@ -251,3 +251,7 @@
 
 + [基于深度学习的无人机航拍小目标检测算法研究](https://blog.csdn.net/m0_61028090/article/details/158239355)
 
++ [AI大模型的本质：基于大数据的拟合](https://blog.csdn.net/linyouhappy/article/details/158239375)
+
++ [ATF (ARM Trusted Firmware) -2：完整启动流程（冷启动）](https://blog.csdn.net/weixin_45783574/article/details/158218936)
+
