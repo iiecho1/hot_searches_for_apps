@@ -255,3 +255,7 @@
 
 + [ATF (ARM Trusted Firmware) -2：完整启动流程（冷启动）](https://blog.csdn.net/weixin_45783574/article/details/158218936)
 
++ [深度学习实战-基于CNN与Transformer的水稻叶片病害图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157430402)
+
++ [CG 方法（共轭梯度）的数学推导及其算法](https://blog.csdn.net/lusongno1/article/details/158238852)
+
