@@ -217,3 +217,13 @@
 
 + [104_Spring AI 干货笔记之开发时服务](https://blog.csdn.net/luorongxi123/article/details/158234201)
 
++ [用老 Mac 跑本地 AI：OpenClaw 环境一键搭建](https://blog.csdn.net/weixin_52908342/article/details/158184107)
+
++ [个人博客网站搭建day2-Spring Boot 3 + JWT + Redis 实现后台权限拦截与单点登录(漫画解析)](https://blog.csdn.net/yyzytx5201314/article/details/158238312)
+
++ [【信息科学与工程学】计算机科学与自动化——第十六篇 GPU 800数据中心超级性能GPU芯片（2nm工艺）系统化设计01 ](https://blog.csdn.net/weixin_49199313/article/details/158261847)
+
++ [深入RAG架构：分块策略、混合检索与重排序的工程实现](https://blog.csdn.net/m0_46510245/article/details/158238424)
+
++ [Android 内存采集避坑指南：dumpsys meminfo vs /proc/meminfo 性能对比](https://blog.csdn.net/qq_45194854/article/details/158246173)
+

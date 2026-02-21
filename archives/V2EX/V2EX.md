@@ -33,3 +33,7 @@
 
 + [高峰时段跨国下行网速很低有解决办法吗？](https://www.v2ex.com/t/1193327)
 
++ [铁铁们“好酒”喝起来到底好在哪啊？](https://www.v2ex.com/t/1193363)
+
++ [rootshell + tsshd 组成 VPN 太丝滑了，从此自建 VPN 不会再掉线](https://www.v2ex.com/t/1193350)
+

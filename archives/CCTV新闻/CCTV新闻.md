@@ -181,3 +181,5 @@
 
 + [中使馆：再次提醒来俄中国游客务必高度重视旅行期间安全问题](https://news.cctv.com/2026/02/21/ARTIWrVaAZvgvkUVxaTjGIIA260221.shtml)
 
++ [南非最大城市工业区遭遇用水危机](https://news.cctv.com/2026/02/21/ARTI8j8oNeYHBYYnWQ9io4GN260221.shtml)
+
