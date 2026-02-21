@@ -169,3 +169,15 @@
 
 + [美国太平洋电力公司同意支付5.75亿美元山火索赔](https://news.cctv.com/2026/02/21/ARTI0rnbaEladZhBIoi8RLRC260221.shtml)
 
++ [特朗普宣布签署行政令 加征10%全球进口关税](https://news.cctv.com/2026/02/21/ARTILPv0TIeCR3LZiPAUdYHE260221.shtml)
+
++ [美“福特”号航母据称已进入地中海](https://military.cctv.com/2026/02/21/ARTI5DPYcHChsDWkBfPtJlI8260221.shtml)
+
++ [哈马斯谴责以军在加沙地带军事升级行动](https://news.cctv.com/2026/02/21/ARTIjo38huPtH7CphCNrCRJ6260221.shtml)
+
++ [美航天局：载人绕月任务发射将于3月6日进行](https://news.cctv.com/2026/02/21/ARTIRGUZ39jhLYqTgXYPKADz260221.shtml)
+
++ [白宫确认终止部分关税措施](https://news.cctv.com/2026/02/21/ARTIICK2dV3oDqTjoX3nvNAF260221.shtml)
+
++ [中使馆：再次提醒来俄中国游客务必高度重视旅行期间安全问题](https://news.cctv.com/2026/02/21/ARTIWrVaAZvgvkUVxaTjGIIA260221.shtml)
+

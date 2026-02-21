@@ -193,3 +193,17 @@
 
 + [Java Word转PDF 终极指南：内存优化工具类与6大方案深度对比](https://blog.csdn.net/qq_32697327/article/details/158207822)
 
++ [【综述】机器学习概述（Machine Learning）](https://blog.csdn.net/weixin_54992680/article/details/158043904)
+
++ [Scrapy 嵌入 FastAPI 的坑：Asyncio/Twisted 桥接 + 代理池设计](https://blog.csdn.net/2302_80067378/article/details/158237425)
+
++ [微信小程序制作平台有哪些？SaaS小程序搭建平台推荐](https://blog.csdn.net/2609_95039045/article/details/158207804)
+
++ [Figo《量子几何学：从希尔伯特空间到全息时空的统一理论体系》(二）](https://blog.csdn.net/Figo_Cheung/article/details/158070763)
+
++ [SpringBoot + LangChain4j 打造企业级 RAG 智能知识库，多工具集成方案](https://blog.csdn.net/csgarten/article/details/158239413)
+
++ [Zellij 复制提示成功却粘贴不了？一文解决剪贴板不同步问题](https://blog.csdn.net/2301_79518550/article/details/158218868)
+
++ [安全顶刊 | InstPro: 基于指令执行追踪和溯源的CPU漏洞利用攻击检测和调查](https://blog.csdn.net/zy_zhengyang/article/details/158237951)
+
