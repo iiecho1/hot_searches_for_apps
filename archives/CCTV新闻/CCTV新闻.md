@@ -167,3 +167,5 @@
 
 + [斯洛伐克称乌克兰再次推迟恢复“友谊”管道供油时间](https://news.cctv.com/2026/02/21/ARTIUsx2dtu2T4dXEWkGArXb260221.shtml)
 
++ [美国太平洋电力公司同意支付5.75亿美元山火索赔](https://news.cctv.com/2026/02/21/ARTI0rnbaEladZhBIoi8RLRC260221.shtml)
+

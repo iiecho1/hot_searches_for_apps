@@ -67,3 +67,5 @@
 
 + [Miniskirt](https://m.acfun.cn/v/?ac=48283854)
 
++ [印度AI峰会：抄完中国，抄韩国【岩论674期】](https://m.acfun.cn/v/?ac=48284510)
+

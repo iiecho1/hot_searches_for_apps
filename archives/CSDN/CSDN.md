@@ -189,3 +189,7 @@
 
 + [【HarmonyOS】day37:React Native实战项目+关键词高亮搜索Hook](https://blog.csdn.net/2401_83061978/article/details/158234106)
 
++ [OpenClaw 端口占用排查：Gateway Connection Refused 解决指南](https://blog.csdn.net/u011664969/article/details/158182518)
+
++ [Java Word转PDF 终极指南：内存优化工具类与6大方案深度对比](https://blog.csdn.net/qq_32697327/article/details/158207822)
+
