@@ -183,3 +183,9 @@
 
 + [南非最大城市工业区遭遇用水危机](https://news.cctv.com/2026/02/21/ARTI8j8oNeYHBYYnWQ9io4GN260221.shtml)
 
++ [马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉](https://news.cctv.com/2026/02/21/ARTIlpq6xON9BWYBPrt21wGT260221.shtml)
+
++ [美国加州致命雪崩是否存在过失犯罪？相关部门展开调查](https://news.cctv.com/2026/02/21/ARTI0Q5cH5TLPLgE8q4R2T7t260221.shtml)
+
++ [巴布亚新几内亚发生5.6级地震，震源深度80千米](https://news.cctv.com/2026/02/21/ARTIDU6H7L0ExY4Nbu50r5uU260221.shtml)
+
