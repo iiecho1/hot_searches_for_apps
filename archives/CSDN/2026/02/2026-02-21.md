@@ -249,3 +249,5 @@
 
 + [Redis：(5) 分布式锁实现：原子性设置锁与 Lua 释放锁](https://blog.csdn.net/qq_51942551/article/details/158183178)
 
++ [基于深度学习的无人机航拍小目标检测算法研究](https://blog.csdn.net/m0_61028090/article/details/158239355)
+
