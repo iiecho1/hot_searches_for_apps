@@ -49,3 +49,7 @@
 
 + [中行储蓄卡羊毛 最高 88](https://www.v2ex.com/t/1193375)
 
++ [分享一个 A 股量化回测平台-BackQuant](https://www.v2ex.com/t/1193359)
+
++ [给我恶心坏了 -- 过年糟心事](https://www.v2ex.com/t/1193409)
+
