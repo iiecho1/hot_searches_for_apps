@@ -159,3 +159,13 @@
 
 + [WSL2+Gitee代码管理实战指南](https://blog.csdn.net/2301_79462762/article/details/158182587)
 
++ [微调模型成本太高，用RAG技术，低成本实现AI升级](https://blog.csdn.net/zxc18344522713/article/details/158260530)
+
++ [lua比vbs快5倍，redis用lua脚本实现触发器，存储过程之类的算法](https://blog.csdn.net/xiaoyao961/article/details/158209559)
+
++ [SpringBoot vs SpringMVC：以及SpringBoot的全流程开发（1）](https://blog.csdn.net/chen_si_shang_/article/details/158208641)
+
++ [零成本从0到1搭建个人博客](https://blog.csdn.net/qq_44678890/article/details/158206953)
+
++ [MMC-STATCOM Model running in Real-Time (Discrete) MATLAB_help文档DeepSeek翻译](https://blog.csdn.net/shallwegzgdj/article/details/158217135)
+
