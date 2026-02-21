@@ -193,3 +193,5 @@
 
 + [“和平委员会”加沙代表称已与巴民族权力机构建立沟通渠道](https://news.cctv.com/2026/02/21/ARTIR0x0BEJzfKp5YWZ7RfQo260221.shtml)
 
++ [日元购买力创新低](https://news.cctv.com/2026/02/21/ARTIvoaQhr9Kj3Lm4t0HukEY260221.shtml)
+

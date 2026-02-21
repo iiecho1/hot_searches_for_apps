@@ -241,3 +241,9 @@
 
 + [深度解析个人AI助手OpenClaw：从消息处理到定时任务的全流程架构](https://blog.csdn.net/u013970991/article/details/158233603)
 
++ [【小沐杂货铺】基于Three.js渲染三维无人机Drone（WebGL / vue / react ）](https://blog.csdn.net/hhy321/article/details/158236403)
+
++ [python核心语法（三）-数据容器](https://blog.csdn.net/Xcy20060113/article/details/158177747)
+
++ [Claude 今天发布了 Sonnet 4.6， 深度对比：sonnet vs Opus，如何选择最适合你的模型？](https://blog.csdn.net/dong123dddd/article/details/158183806)
+
