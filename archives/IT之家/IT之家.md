@@ -25,3 +25,27 @@
 
 + [告别纯文本：微软 Win11 记事本将变身“轻量 Word”，支持插入图片](https://m.ithome.com/html/922544.htm)
 
++ [苹果 iOS 26.4 测试版移除 App Store 退出登录功能，须通过设置切换账户](https://m.ithome.com/html/922613.htm)
+
++ [平价版 MacBook 笔记本、全新 Studio Display 显示器现身苹果 macOS 26.3 系统代码](https://m.ithome.com/html/922645.htm)
+
++ [神似原版：微软 WinXP 壁纸 Bliss 拍摄地 30 年后罕见重回巅峰](https://m.ithome.com/html/922669.htm)
+
++ [消息称小米试产两块电池，典型值 8000mAh&#177;/8500mAh&#177;](https://m.ithome.com/html/922687.htm)
+
++ [特斯拉 Autopilot 辅助驾驶致死案败诉：2.43 亿美元天价赔偿落定，曾拒绝以 6000 万美元庭外和解](https://m.ithome.com/html/922650.htm)
+
++ [消息称小米 17T 系列手机研发进度提速，搭载天玑 8500/9500 芯片](https://m.ithome.com/html/922608.htm)
+
++ [从苏联象征到中国制造：伏尔加品牌将借长安汽车之力再度起航，全新预告图公布](https://m.ithome.com/html/922642.htm)
+
++ [韩国航空公司全面禁止机上使用充电宝，旅客上机前需用绝缘胶带覆盖接口](https://m.ithome.com/html/922625.htm)
+
++ [微软宣布 Edge 浏览器将终止支持 macOS Monterey 系统，苹果 macOS 12 用户将无法获取 151 及后续版本更新](https://m.ithome.com/html/922649.htm)
+
++ [英伟达被曝曾测试 RTX 5090 Ti 级原型卡：仍未采用完整 GB202 核心，功耗飙升至 700W 以上](https://m.ithome.com/html/922646.htm)
+
++ [续航之王：英特尔公布联想小新 Pro 14 GT AI 元启版全网首测视频](https://m.ithome.com/html/922609.htm)
+
++ [16 岁高中生立大功，协助 Netgear 网件捣毁全球诈骗网站](https://m.ithome.com/html/922627.htm)
+
