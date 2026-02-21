@@ -207,3 +207,13 @@
 
 + [安全顶刊 | InstPro: 基于指令执行追踪和溯源的CPU漏洞利用攻击检测和调查](https://blog.csdn.net/zy_zhengyang/article/details/158237951)
 
++ [《计算机视觉：模型、学习和推理》第 2 章-概率概述](https://blog.csdn.net/2302_80961196/article/details/158183044)
+
++ [【第3章＞第7节】基于Faster R-CNN深度学习模型的目标检测matlab仿真与分析,Fast R-CNN，DeepProposal到Faster R-CNN的演化](https://blog.csdn.net/ccsss22/article/details/158234883)
+
++ [Swagger MCP 实战：把 OpenAPI 变成可控的 MCP 工具（Spring Boot + Spring AI）](https://blog.csdn.net/JIANqiao19931029/article/details/158183347)
+
++ [Socket网络通信教程1（文件传输，IPv4+v6，多客户端管理，重构？）](https://blog.csdn.net/weixin_56050945/article/details/158236888)
+
++ [104_Spring AI 干货笔记之开发时服务](https://blog.csdn.net/luorongxi123/article/details/158234201)
+
