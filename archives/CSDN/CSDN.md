@@ -113,3 +113,37 @@
 
 + [OpenClaw接入飞书全流程：打造你的24小时AI助手](https://blog.csdn.net/air__Heaven/article/details/158235047)
 
++ [【Linux】poll 多路转接：select 的改良版，以及它留下的遗憾](https://blog.csdn.net/2301_79849925/article/details/158154514)
+
++ [OpenClaw之Memory配置成本地模式，Ubuntu+CUDA+cuDNN+llama.cpp](https://blog.csdn.net/tinygone/article/details/158267796)
+
++ [微信小程序跨域问题：用uni开发微信小程序打开了不校验合法域名，但是还是会跨域，如何解决？？](https://blog.csdn.net/weixin_43970743/article/details/158267189)
+
++ [C#,VB.NET多台电脑读取REDIS服务器，如何保证数据不会冲突](https://blog.csdn.net/xiaoyao961/article/details/158208482)
+
++ [ 集成测试实战：构建可靠的测试金字塔体系](https://blog.csdn.net/sinat_41617212/article/details/158209304)
+
++ [ReAct范式全流程详解](https://blog.csdn.net/gdpu2400502251/article/details/158262247)
+
++ [GCC编译(6)静态库工具AR](https://blog.csdn.net/Once_day/article/details/158234897)
+
++ [python核心语法（三）-数据容器](https://blog.csdn.net/Xcy20060113/article/details/158177747)
+
++ [【SpringCloud】Gateway Filter Factories && 过滤器执行顺序 && 自定义过滤器](https://blog.csdn.net/lirendada/article/details/158238374)
+
++ [GPT-5.3 深度解析：OpenAI 新一代模型的能力边界与技术突破](https://blog.csdn.net/macbookpro11/article/details/158206090)
+
++ [C#异步和并发在IO密集场景的典型应用 async/await](https://blog.csdn.net/kylezhao2019/article/details/158208310)
+
++ [Vue3+C# WebSocket实战：实时通讯应用，速度提升300%的秘密](https://blog.csdn.net/z_344791576/article/details/151921564)
+
++ [Elasticsearch：通过最小分数确保语义精度](https://blog.csdn.net/UbuntuTouch/article/details/158261261)
+
++ [Flutter for OpenHarmony: Flutter 三方库 hashlib 为鸿蒙应用提供军用级加密哈希算法支持（安全数据完整性卫士）](https://blog.csdn.net/jiang_style/article/details/158211015)
+
++ [ROS2坐标转换，正解反解——黑马程序员ROS2课程上课笔记(5)](https://blog.csdn.net/cream_t_g/article/details/158226454)
+
++ [Python中的“==“与“is“：深入解析与Vibe Coding时代的优化实践](https://blog.csdn.net/2503_92624912/article/details/158182799)
+
++ [[python]-多任务](https://blog.csdn.net/CSDN20221005/article/details/158238904)
+
