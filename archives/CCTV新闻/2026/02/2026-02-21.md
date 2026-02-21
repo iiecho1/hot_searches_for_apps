@@ -189,3 +189,5 @@
 
 + [巴布亚新几内亚发生5.6级地震，震源深度80千米](https://news.cctv.com/2026/02/21/ARTIDU6H7L0ExY4Nbu50r5uU260221.shtml)
 
++ [时隔14年 美国打算重开驻叙利亚大使馆](https://news.cctv.com/2026/02/21/ARTIov3lpHcIzkAOngoq0DOY260221.shtml)
+

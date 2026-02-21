@@ -227,3 +227,9 @@
 
 + [Android 内存采集避坑指南：dumpsys meminfo vs /proc/meminfo 性能对比](https://blog.csdn.net/qq_45194854/article/details/158246173)
 
++ [【Docker高级篇】容器日志只懂docker logs？Prometheus+Grafana+ELK集成实操，监控效率翻倍](https://blog.csdn.net/m0_58782205/article/details/158182985)
+
++ [【Linux】select 多路转接深度剖析：从位图原理到字典服务器实现](https://blog.csdn.net/2301_79849925/article/details/158154520)
+
++ [X-VLA——基于Soft Prompt的Transformer编码器练就可扩展的跨本体VLA：VLM做多模态感知，DiT-style做动作生成](https://blog.csdn.net/v_JULY_v/article/details/158262322)
+

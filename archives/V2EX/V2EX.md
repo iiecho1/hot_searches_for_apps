@@ -39,3 +39,5 @@
 
 + [活不下去了。](https://www.v2ex.com/t/1193355)
 
++ [这个推理速度也太快了吧！ chatjimmy.ai 比查 db 都快啊！](https://www.v2ex.com/t/1193358)
+
