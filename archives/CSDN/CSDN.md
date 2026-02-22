@@ -105,3 +105,41 @@
 
 + [ollama v0.16.3 发布：新增Cline集成、支持Gemma 3 / Llama 3 / Qwen 3架构、全新Zstd压缩支持与TUI交互升级详解](https://blog.csdn.net/weixin_48502062/article/details/158261252)
 
++ [SpringBoot多环境配置实战指南](https://blog.csdn.net/chen_si_shang_/article/details/158237261)
+
++ [大模型开发 - SpringAI 之高级 RAG 组件](https://blog.csdn.net/yangshangwei/article/details/158239037)
+
++ [机器学习与模式识别——SVM](https://blog.csdn.net/m0_75002007/article/details/158238455)
+
++ [SpringBoot + LangChain4j 打造企业级 RAG 智能知识库，多工具集成方案](https://blog.csdn.net/csgarten/article/details/158239413)
+
++ [Socket网络通信教程1（文件传输，IPv4+v6，多客户端管理，重构？）](https://blog.csdn.net/weixin_56050945/article/details/158236888)
+
++ [【升级版本】基于多目标粒子群算法的微电网优化调度【风光、储能、柴油、燃气、电网交互】附Matlab代码](https://blog.csdn.net/qq_59747472/article/details/158233840)
+
++ [Flutter for OpenHarmony：web3dart 连接以太坊区块链，构建去中心化应用（DApp 开发与智能合约调用深度实战）深度解析与鸿蒙适配指南](https://blog.csdn.net/cannonjinx/article/details/158127644)
+
++ [【LE Audio】BAP协议精讲[16]: 从广播到流传输：广播音频PDU全链路拆解与实践](https://blog.csdn.net/weixin_37800531/article/details/158236756)
+
++ [平滑迁移无压力：金仓数据库迁移 MongoDB 的技术优势总结](https://blog.csdn.net/qq_57761637/article/details/158291710)
+
++ [通过wireshark分析各种webshell工具的流量特征](https://blog.csdn.net/qq_51411570/article/details/158234161)
+
++ [2026 年 RAG 架构深度拆解：向量数据库 vs 图数据库，选对数据层，告别无效检索](https://blog.csdn.net/huhu2k/article/details/158156498)
+
++ [Flutter for OpenHarmony：深度适配 cached_network_image 鸿蒙适配 path_provider 攻克存储难题，赋予鸿蒙极致秒开性能](https://blog.csdn.net/jiang_style/article/details/158286972)
+
++ [DYOR AKITA](https://blog.csdn.net/K346K346/article/details/158287419)
+
++ [Flutter for OpenHarmony：Flutter 三方库 postgrest — 鸿蒙端直接访问 PostgreSQL 数据库的极速连接器](https://blog.csdn.net/cannonmonster01/article/details/158288902)
+
++ [COS2272运放输入电流重新测量](https://blog.csdn.net/zhuoqingjoking97298/article/details/158284324)
+
++ [Java 中间件：Dubbo 服务降级（Mock 机制）](https://blog.csdn.net/qq_41187124/article/details/157468276)
+
++ [Flutter for OpenHarmony：Flutter 三方库 fraction 解决浮点数精度丢失的利器](https://blog.csdn.net/leopold_man/article/details/158291537)
+
++ [Flutter for OpenHarmony：Flutter 三方库 money2 — 坚不可摧的鸿蒙金融核心组件](https://blog.csdn.net/lady_mumu/article/details/158290752)
+
++ [Flutter for OpenHarmony：使用 translations_cleaner 彻底清理翻译冗余](https://blog.csdn.net/2609_95049439/article/details/158289889)
+
