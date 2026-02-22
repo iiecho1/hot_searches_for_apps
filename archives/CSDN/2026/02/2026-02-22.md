@@ -187,3 +187,15 @@
 
 + [LabVIEW列车轴承声学成像应用](https://blog.csdn.net/bjcyck/article/details/158211430)
 
++ [【花雕学编程】Arduino BLDC 之机器人自主导航穿越控制](https://blog.csdn.net/weixin_41659040/article/details/158264466)
+
++ [Claude Code Security：AI猎杀代码漏洞时代正式开启](https://blog.csdn.net/qq_60735796/article/details/158262908)
+
++ [2026年各大高校AIGC检测政策汇总（持续更新）](https://blog.csdn.net/aigccleaner/article/details/158206140)
+
++ [DGX Spark（GB10, aarch64, CUDA 13.0）部署 vLLM + Open WebUI —— 运行 `QWen3-Coder-Next-FP8`](https://blog.csdn.net/redhat77/article/details/158235060)
+
++ [Tauri 项目结构前端壳 + Rust 内核，怎么协作、怎么构建、怎么扩展](https://blog.csdn.net/weixin_43114209/article/details/158265323)
+
++ [Python Streamlit介绍（开源Python Web应用框架，快速将Python脚本转换成交互式Web应用，适合数据科学和机器学习项目快速展示）](https://blog.csdn.net/Dontla/article/details/158235633)
+

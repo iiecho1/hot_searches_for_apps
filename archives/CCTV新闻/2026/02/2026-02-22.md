@@ -163,3 +163,11 @@
 
 + [特朗普：原本10%的全球进口关税税率将升至15%](https://news.cctv.com/2026/02/22/ARTIpGVNvqT1av307zx6nDml260222.shtml)
 
++ [伊朗将所有欧盟国家海军和空军列为“恐怖组织”](https://news.cctv.com/2026/02/22/ARTIOjvthEM69N27jx85DZT6260222.shtml)
+
++ [美航天局原定3月的载人绕月任务再次推迟](https://news.cctv.com/2026/02/22/ARTIHIrNnkYbP1sOpoEPsz2R260222.shtml)
+
++ [一名驻日美军士兵涉嫌擅闯小学被警方逮捕](https://news.cctv.com/2026/02/22/ARTIGIkY29d0ZYZDoXpXawZB260222.shtml)
+
++ [德国、瑞典和斯洛伐克呼吁本国公民勿赴伊朗](https://news.cctv.com/2026/02/22/ARTI0pShxqgTRnF9rF9bJRMk260222.shtml)
+
