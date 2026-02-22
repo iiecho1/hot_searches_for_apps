@@ -143,3 +143,13 @@
 
 + [Flutter for OpenHarmony：使用 translations_cleaner 彻底清理翻译冗余](https://blog.csdn.net/2609_95049439/article/details/158289889)
 
++ [《计算机视觉：模型、学习和推理》第 7 章-复杂数据密度建模](https://blog.csdn.net/2302_80961196/article/details/158266428)
+
++ [领码SPARK 0代码架构：从设计意图到生产代码的AI自动化引擎](https://blog.csdn.net/lgf228/article/details/158267221)
+
++ [Flutter for OpenHarmony：Flutter 三方库 quiver — 谷歌出品的 Dart 开发全能瑞士军刀级工具集](https://blog.csdn.net/cannonmonster01/article/details/158289231)
+
++ [Flutter for OpenHarmony：Flutter 三方库 algoliasearch 毫秒级云端搜索体验（云原生搜索引擎）](https://blog.csdn.net/baronbool/article/details/158291707)
+
++ [Tableau vs Power BI：大数据可视化工具终极对决](https://blog.csdn.net/2502_91678797/article/details/158259921)
+
