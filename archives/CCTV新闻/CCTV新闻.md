@@ -189,3 +189,7 @@
 
 + [阿富汗国防部谴责巴基斯坦侵犯阿领土主权](https://news.cctv.com/2026/02/22/ARTINXL9f0mqmWbCkJQTNrzj260222.shtml)
 
++ [美伊利诺伊州长致函白宫：请退87亿美元税款](https://news.cctv.com/2026/02/22/ARTItz4n4gBJtRaIcqZmihQ9260222.shtml)
+
++ [部分“停摆”持续 美国土安全部暂停两项机场快速通关项目](https://news.cctv.com/2026/02/22/ARTIbqETDpCuhvjtI1Kt3Eeu260222.shtml)
+
