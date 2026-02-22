@@ -233,3 +233,5 @@
 
 + [Hadoop 3.x 企业级实战指南：从纠删码到云原生容器化](https://blog.csdn.net/weixin_55008828/article/details/158236739)
 
++ [企业级AI Agent平台需求分析&PRD](https://blog.csdn.net/universsky2015/article/details/158269789)
+

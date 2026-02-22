@@ -193,3 +193,9 @@
 
 + [部分“停摆”持续 美国土安全部暂停两项机场快速通关项目](https://news.cctv.com/2026/02/22/ARTIbqETDpCuhvjtI1Kt3Eeu260222.shtml)
 
++ [斐济群岛以南海域发生6.0级地震，震源深度650千米](https://news.cctv.com/2026/02/22/ARTIVvmQVWxkrqLY7TXcEDPu260222.shtml)
+
++ [以色列称不会向所谓“和平委员会”提供资金](https://news.cctv.com/2026/02/22/ARTI5AxfGitPhreGtn8id1WP260222.shtml)
+
++ [千岛群岛发生5.8级地震，震源深度10千米](https://news.cctv.com/2026/02/22/ARTIXAO7lexAKfBWux3GFbNc260222.shtml)
+
