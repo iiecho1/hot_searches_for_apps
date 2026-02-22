@@ -25,3 +25,9 @@
 
 + [给我恶心坏了 -- 过年糟心事](https://www.v2ex.com/t/1193409)
 
++ [独立开发了一个&#34;有终点&#34;的新闻站 3mins.news，今天上了 Product Hunt](https://www.v2ex.com/t/1193390)
+
++ [从春节与父辈争吵，看精神“弑父”](https://www.v2ex.com/t/1193415)
+
++ [用 OpenClaw 和用那些第三方或者自部署的聊天机器人搭配 API 有什么区别](https://www.v2ex.com/t/1193368)
+
