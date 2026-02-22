@@ -31,3 +31,5 @@
 
 + [用 OpenClaw 和用那些第三方或者自部署的聊天机器人搭配 API 有什么区别](https://www.v2ex.com/t/1193368)
 
++ [发现一个 Apple TV 的浏览器](https://www.v2ex.com/t/1193437)
+

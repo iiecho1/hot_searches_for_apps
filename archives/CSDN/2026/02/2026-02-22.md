@@ -211,3 +211,17 @@
 
 + [英语学习平台系统|基于springboot + vue英语学习平台系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/158262301)
 
++ [深度体验Ling Studio：万亿参数模型如何重塑AI开发工作流](https://blog.csdn.net/weixin_52908342/article/details/158283948)
+
++ [Ext 系列文件系统核心：块、分区、inode 与块组结构详解](https://blog.csdn.net/2503_91389547/article/details/157801695)
+
++ [Rust Web开发库： Nimble](https://blog.csdn.net/a181001_/article/details/158284236)
+
++ [窗口基石:掌控 Qt 界面的无限形态](https://blog.csdn.net/ABWSO/article/details/157404599)
+
++ [使用 Elastic 进行网络监控：统一网络可观测性](https://blog.csdn.net/UbuntuTouch/article/details/158284265)
+
++ [基于ESP32_CAM与Qt Creator的智能视频监控项目（代码开源）](https://blog.csdn.net/black_sneak/article/details/158235625)
+
++ [Android CPU 使用率采集：/proc/stat 计算公式与完整方案（附实例）](https://blog.csdn.net/qq_45194854/article/details/158267680)
+
