@@ -161,3 +161,7 @@
 
 + [Flutter for OpenHarmony：Flutter 三方库 graphql 高度自由的按需图表查询数据链路引擎](https://blog.csdn.net/alex_goden/article/details/158291152)
 
++ [Flutter for OpenHarmony：使用 typed_data 直击高性能底层数据操作核心](https://blog.csdn.net/2609_95049439/article/details/158290714)
+
++ [【HarmonyOS】day39:React Native实战项目+智能文本省略Hook开发](https://blog.csdn.net/2401_83061978/article/details/158262622)
+
