@@ -37,3 +37,7 @@
 
 + [红米手机刷了国际版，内网也能推送](https://www.v2ex.com/t/1193433)
 
++ [用于办公和学习， vivo pad 和 一加平板该如何选？](https://www.v2ex.com/t/1193451)
+
++ [从苹果换到了三星](https://www.v2ex.com/t/1193453)
+

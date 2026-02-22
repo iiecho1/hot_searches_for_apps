@@ -199,3 +199,5 @@
 
 + [千岛群岛发生5.8级地震，震源深度10千米](https://news.cctv.com/2026/02/22/ARTIXAO7lexAKfBWux3GFbNc260222.shtml)
 
++ [纽约举办春节游行活动](https://photo.cctv.com/2026/02/22/PHOA4PPKHzOLLAyxTxbsWk0P260222.shtml)
+

@@ -235,3 +235,9 @@
 
 + [企业级AI Agent平台需求分析&PRD](https://blog.csdn.net/universsky2015/article/details/158269789)
 
++ [Transformer实战（36）——Transformer模型部署](https://blog.csdn.net/LOVEmy134611/article/details/147991687)
+
++ [PyBullet实现四足机器人A1键盘控制（前进/后退/停止）](https://blog.csdn.net/weixin_62761878/article/details/158208345)
+
++ [Swarm-Lab：多智能体实验平台](https://blog.csdn.net/2301_80881806/article/details/158239547)
+
