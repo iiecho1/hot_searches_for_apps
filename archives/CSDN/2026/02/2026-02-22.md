@@ -263,3 +263,9 @@
 
 + [使用 Docker Compose 本地部署 GitLab 教程](https://blog.csdn.net/csgarten/article/details/158266777)
 
++ [机器学习与模式识别——SVM](https://blog.csdn.net/m0_75002007/article/details/158238455)
+
++ [时序数据库替换实战：用电科金仓一键搞定 InfluxDB/TimescaleDB/TDengine 国产化替代](https://blog.csdn.net/weixin_43151418/article/details/157652561)
+
++ [AtomGit首发模型深度评测：多模态能力与场景适配性实战分析](https://blog.csdn.net/u014727709/article/details/158289782)
+
