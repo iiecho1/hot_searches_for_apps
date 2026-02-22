@@ -25,3 +25,7 @@
 
 + [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app)
 
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
