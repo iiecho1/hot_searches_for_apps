@@ -247,3 +247,13 @@
 
 + [【OpenHarmony】React Native鸿蒙实战：SecureStorage 安全存储详解](https://blog.csdn.net/2401_85686768/article/details/158211570)
 
++ [从一小时复现谷歌项目到永久记忆：Claude 2026核心能力全解析](https://blog.csdn.net/lulu1216544078/article/details/158289042)
+
++ [Spring Boot 实战：MyBatis 操作数据库（上）](https://blog.csdn.net/weixin_46491509/article/details/157940765)
+
++ [SpringBoot整合Junit与Mybatis实战](https://blog.csdn.net/chen_si_shang_/article/details/158263684)
+
++ [【Redis存储】持久化](https://blog.csdn.net/m0_74246469/article/details/155419747)
+
++ [动态规划 | part04](https://blog.csdn.net/2403_88856345/article/details/158267443)
+
