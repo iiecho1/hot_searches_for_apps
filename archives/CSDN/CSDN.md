@@ -225,3 +225,7 @@
 
 + [Android CPU 使用率采集：/proc/stat 计算公式与完整方案（附实例）](https://blog.csdn.net/qq_45194854/article/details/158267680)
 
++ [ollama v0.16.3 发布：新增Cline集成、支持Gemma 3 / Llama 3 / Qwen 3架构、全新Zstd压缩支持与TUI交互升级详解](https://blog.csdn.net/weixin_48502062/article/details/158261252)
+
++ [Android tinyalsa深度解析之pcm_get_read_write_threshold调用流程与实战(一百二十六)](https://blog.csdn.net/u010164190/article/details/158097752)
+

@@ -185,3 +185,7 @@
 
 + [卫星图像显示约旦一空军基地出现大量美军用飞机](https://news.cctv.com/2026/02/22/ARTIhDq5NfPBJaYWt5DHX9Dj260222.shtml)
 
++ [韩国外交部强烈抗议日本举行“竹岛日”活动](https://news.cctv.com/2026/02/22/ARTIe8d2CVUHLkiTZJX7z94g260222.shtml)
+
++ [阿富汗国防部谴责巴基斯坦侵犯阿领土主权](https://news.cctv.com/2026/02/22/ARTINXL9f0mqmWbCkJQTNrzj260222.shtml)
+
