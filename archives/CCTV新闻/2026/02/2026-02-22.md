@@ -201,3 +201,15 @@
 
 + [纽约举办春节游行活动](https://photo.cctv.com/2026/02/22/PHOA4PPKHzOLLAyxTxbsWk0P260222.shtml)
 
++ [俄外交部就韩国可能向乌提供武器发出警告](https://news.cctv.com/2026/02/22/ARTIvDvlZt2Lr32V6eTgcTbI260222.shtml)
+
++ [日本东京地标建筑晴空塔电梯急速下降紧急停运 数人被困](https://news.cctv.com/2026/02/22/ARTINpF37dtMG9hu5PuGorQL260222.shtml)
+
++ [全球新春走笔丨当春节的海风吹拂菲律宾](https://news.cctv.com/2026/02/22/ARTIJuqs1WCbblfpiWTpKDCM260222.shtml)
+
++ [伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论](https://news.cctv.com/2026/02/22/ARTIQfgX89ILF8yW2ulhhN7y260222.shtml)
+
++ [美国大使所谓“以色列可拿下整个中东”言论惹众怒](https://news.cctv.com/2026/02/22/ARTI09taKy3nFxQJ6JgEoYZk260222.shtml)
+
++ [乌称俄大规模袭击基辅 已致1死6伤](https://news.cctv.com/2026/02/22/ARTIp2f1o8lvfec8PjERCufU260222.shtml)
+
