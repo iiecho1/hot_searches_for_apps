@@ -165,3 +165,9 @@
 
 + [多架美军机降落以色列本-古里安机场](https://news.cctv.com/2026/02/24/ARTIbpPdFP47bh0AlTNu7qDJ260223.shtml)
 
++ [中国裁军大使：美国指责中国开展核爆炸试验毫无事实依据](https://news.cctv.com/2026/02/24/ARTIqBFA2U0mfmMhs1k6Qg7G260224.shtml)
+
++ [美军称袭击一艘“贩毒船” 打死3人](https://news.cctv.com/2026/02/24/ARTIP8z1riSkcJ03UJnOGVaD260224.shtml)
+
++ [斯洛伐克停止向乌克兰提供紧急电力](https://news.cctv.com/2026/02/24/ARTINbnn5bDYoZGlhViifUNR260224.shtml)
+
