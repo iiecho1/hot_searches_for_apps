@@ -195,3 +195,7 @@
 
 + [我使馆确认一中国公民在尼泊尔巴士坠河事故中死亡](https://news.cctv.com/2026/02/23/ARTIrscIsICZcRyt58q7hsYZ260223.shtml)
 
++ [欧盟呼吁就伊朗问题寻求“外交解决方案”](https://news.cctv.com/2026/02/23/ARTIYHLhiLcI1gaewJkn9YXQ260223.shtml)
+
++ [荷兰新内阁宣誓就职](https://news.cctv.com/2026/02/23/ARTIJDkAo71o1bx8Z7MW7Xol260223.shtml)
+
