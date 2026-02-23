@@ -177,3 +177,9 @@
 
 + [尼泊尔一辆巴士坠河 造成至少17人死亡](https://news.cctv.com/2026/02/23/ARTIPcaFY8b1PsDT3v0b6llL260223.shtml)
 
++ [特朗普被曝考虑对伊朗先“小打”再“大打”](https://news.cctv.com/2026/02/23/ARTI7DS6aDgld8MRL1hxLy3Q260223.shtml)
+
++ [加拿大将墨西哥多个州列入“避免非必要旅行”区域](https://news.cctv.com/2026/02/23/ARTIqe5BZHII52XBHlqixNpK260223.shtml)
+
++ [美拟将载人绕月飞行任务火箭和飞船撤回装配大楼](https://news.cctv.com/2026/02/23/ARTIhqz8QwTHZmUk7xZ0Zmdx260223.shtml)
+
