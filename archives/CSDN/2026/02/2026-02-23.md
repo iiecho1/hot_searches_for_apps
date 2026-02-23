@@ -181,3 +181,19 @@
 
 + [Http粘包问题回顾](https://blog.csdn.net/2401_86931059/article/details/151285483)
 
++ [UU云电脑深度测评：高性价比游戏云电脑，办公版本即将推出](https://blog.csdn.net/2401_86326742/article/details/158314669)
+
++ [2026 AI十大趋势：木头姐《Big Ideas 2026》深度解读，解锁大加速时代的技术红利](https://blog.csdn.net/neweastsun/article/details/158263047)
+
++ [大模型开发 - SpringAI之MCP Client开发：让Agent动态调用远程工具服务](https://blog.csdn.net/yangshangwei/article/details/158291759)
+
++ [C++之《程序员自我修养》读书总结(5)](https://blog.csdn.net/Once_day/article/details/158290935)
+
++ [LabVIEW通过OPC开发汽车踏板疲劳测试控制系统](https://blog.csdn.net/bjcyck/article/details/158290070)
+
++ [【小沐杂货铺】基于Three.js渲染三维无人机Drone（WebGL / vue / react ）](https://blog.csdn.net/hhy321/article/details/158236403)
+
++ [连接无界，智造未来——盟接之桥，中国制造业EDI国产替代的坚定守护者](https://blog.csdn.net/mjarqa/article/details/158314016)
+
++ [Flutter三方库适配OpenHarmony【secure_application】— 敏感数据清除与安全增强](https://blog.csdn.net/ze_lin_zfh/article/details/158265209)
+
