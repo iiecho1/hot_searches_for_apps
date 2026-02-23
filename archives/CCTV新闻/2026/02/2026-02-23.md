@@ -183,3 +183,15 @@
 
 + [美拟将载人绕月飞行任务火箭和飞船撤回装配大楼](https://news.cctv.com/2026/02/23/ARTIhqz8QwTHZmUk7xZ0Zmdx260223.shtml)
 
++ [伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据](https://news.cctv.com/2026/02/23/ARTIDc2fiDxn7aXQMtn50vRY260223.shtml)
+
++ [菲律宾南部海域6名渔民失联](https://news.cctv.com/2026/02/23/ARTIpczkk4k6mgMqx5XqC9ZN260223.shtml)
+
++ [斐济举办庙会活动庆祝马年新春](https://news.cctv.com/2026/02/23/ARTIeoZKIIx2i9nyYgh0MEHR260223.shtml)
+
++ [美军将叙利亚一基地驻军调往伊拉克](https://news.cctv.com/2026/02/23/ARTI7lf7Dwkub2hSYhAu2MKB260223.shtml)
+
++ [俄罗斯索契机场暂停所有航班运营](https://news.cctv.com/2026/02/23/ARTIzvJ64mEyA0WmpMNgj8bG260223.shtml)
+
++ [我使馆确认一中国公民在尼泊尔巴士坠河事故中死亡](https://news.cctv.com/2026/02/23/ARTIrscIsICZcRyt58q7hsYZ260223.shtml)
+

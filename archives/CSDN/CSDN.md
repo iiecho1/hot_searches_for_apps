@@ -201,3 +201,7 @@
 
 + [MySQL JOIN：底层原理、算法演进与多表性能之谜](https://blog.csdn.net/2401_87808951/article/details/158291298)
 
++ [【Kafka进阶篇】深入Kafka内部：日志存储的设计思路，藏着中间件高性能的真相](https://blog.csdn.net/m0_58782205/article/details/158291087)
+
++ [【基于无人机搭载相机网络的交互式监控分布式方法】基于无人机搭载摄像头网络的交互式监控分布式方法研究附Matlab代码](https://blog.csdn.net/m0_57702748/article/details/158292145)
+
