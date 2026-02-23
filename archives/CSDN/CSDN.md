@@ -205,3 +205,19 @@
 
 + [【基于无人机搭载相机网络的交互式监控分布式方法】基于无人机搭载摄像头网络的交互式监控分布式方法研究附Matlab代码](https://blog.csdn.net/m0_57702748/article/details/158292145)
 
++ [《C/C+++ Boost 轻量级搜索引擎实战：架构流程、技术栈与工程落地指南——构造正/倒排索引（中篇）》](https://blog.csdn.net/Dovis5884/article/details/156515453)
+
++ [【花雕学编程】Arduino BLDC 之多机器人网格化协同勘探系统](https://blog.csdn.net/weixin_41659040/article/details/158289637)
+
++ [状态的演化：量子世界的时间箭头 | 量子门与酉变换](https://blog.csdn.net/eidolon_foot/article/details/158317824)
+
++ [MySQL ONLY_FULL_GROUP_BY错误详解：原因、解决方案与最佳实践](https://blog.csdn.net/qq_41840843/article/details/158315687)
+
++ [LM6482输入电流测量：保护地线的影响](https://blog.csdn.net/zhuoqingjoking97298/article/details/158313782)
+
++ [订阅者模块](https://blog.csdn.net/2402_82670467/article/details/158292027)
+
++ [VScode插件SQLite Viewer介绍（允许开发者不离开编辑器，直接打开、浏览和查询SQLite数据库文件）（ChromaDB、向量库插件、数据库插件、.sqlite3）DBeaver](https://blog.csdn.net/Dontla/article/details/158317168)
+
++ [OpenClaw 多智能体实战：从创建Agent到飞书多通道接入完全指南](https://blog.csdn.net/oWangChuanYi/article/details/158289176)
+
