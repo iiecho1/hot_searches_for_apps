@@ -129,3 +129,7 @@
 
 + [「为什么不用 Flutter 做游戏」「为什么不用 Cocos 做 App 界面」](https://blog.csdn.net/tongbowen_123/article/details/158321634)
 
++ [深度学习：激活函数大全](https://blog.csdn.net/qq_34941290/article/details/158291854)
+
++ [进阶实战 Flutter for OpenHarmony：NestedScrollView 嵌套滚动系统 - 复杂滚动交互实现](https://blog.csdn.net/2201_76027234/article/details/158286891)
+
