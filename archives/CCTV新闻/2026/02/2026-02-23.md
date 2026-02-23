@@ -165,3 +165,15 @@
 
 + [受冬季风暴影响 美国众议院和参议院推迟投票](https://news.cctv.com/2026/02/23/ARTIwsQ6bZUjutIiJlluioVb260223.shtml)
 
++ [尼泊尔巴士坠河致18人死亡 一中国公民在事故中失联](https://news.cctv.com/2026/02/23/ARTIfGSQgwPNmq6CZygjLAU3260223.shtml)
+
++ [巴拿马华人社区举办新春巡游](https://photo.cctv.com/2026/02/23/PHOAQISgZOmlgGpdYgE6imCN260223.shtml)
+
++ [美国华盛顿市水源遭污染求助白宫 特朗普批准联邦支持](https://news.cctv.com/2026/02/23/ARTIr0jE8VMwhbOfKgHrSXVL260223.shtml)
+
++ [韩国地方选举进入百日倒计时 李在明迎“大考”](https://news.cctv.com/2026/02/23/ARTIRSzSNB4ltkJlNyutc7h6260223.shtml)
+
++ [丹麦军方将一名美国潜艇艇员运至格陵兰岛就医](https://news.cctv.com/2026/02/23/ARTIP2ujbsD9c3fuDwLgRam2260223.shtml)
+
++ [尼泊尔一辆巴士坠河 造成至少17人死亡](https://news.cctv.com/2026/02/23/ARTIPcaFY8b1PsDT3v0b6llL260223.shtml)
+

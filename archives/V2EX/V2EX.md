@@ -23,3 +23,13 @@
 
 + [正向思维， AI 会利好哪些岗位？](https://www.v2ex.com/t/1193498)
 
++ [美国政府出品的机场](https://www.v2ex.com/t/1193519)
+
++ [在 x 上看到一篇文章，贴给大家看看： Claude Code 创始人：程序员， 2026 年开始消失](https://www.v2ex.com/t/1193512)
+
++ [也许又是一个删库跑路的爽文](https://www.v2ex.com/t/1193513)
+
++ [特斯拉内推](https://www.v2ex.com/t/1193477)
+
++ [求推荐大手人体工学鼠标](https://www.v2ex.com/t/1193480)
+

@@ -167,3 +167,17 @@
 
 + [【硕士论文复现】计及P2G厂站的电-气综合能源系统规划研究附Matlab代码](https://blog.csdn.net/m0_57702748/article/details/158233712)
 
++ [大模型开发 - SpringAI之MySQL存储ChatMemory](https://blog.csdn.net/yangshangwei/article/details/158183970)
+
++ [Vue3 Webview 转 Android 虚拟导航栏遮挡问题记录](https://blog.csdn.net/2401_87092242/article/details/158289965)
+
++ [Flutter三方库适配OpenHarmony【flutter_speech】— 持续语音识别与长录音](https://blog.csdn.net/weixin_37695089/article/details/158265089)
+
++ [基于百度 OD 城市关联的 CSDN 支持者联系度空间分析](https://blog.csdn.net/yelangkingwuzuhu/article/details/158266749)
+
++ [飞书 × OpenClaw 接入指南：不用服务器，用长连接把机器人跑起来](https://blog.csdn.net/u014177256/article/details/158267848)
+
++ [进阶实战 Flutter for OpenHarmony：AnimatedBuilder 组件实战 - 自定义动画系统](https://blog.csdn.net/2402_83107102/article/details/158263507)
+
++ [Http粘包问题回顾](https://blog.csdn.net/2401_86931059/article/details/151285483)
+
