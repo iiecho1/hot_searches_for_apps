@@ -171,3 +171,5 @@
 
 + [斯洛伐克停止向乌克兰提供紧急电力](https://news.cctv.com/2026/02/24/ARTINbnn5bDYoZGlhViifUNR260224.shtml)
 
++ [古巴外长谴责美国对古能源围困 誓言捍卫国家主权](https://news.cctv.com/2026/02/24/ARTIAwl8eaxy8INCD9CFjQFt260224.shtml)
+
