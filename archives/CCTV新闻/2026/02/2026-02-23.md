@@ -201,3 +201,25 @@
 
 + [伊拉克库区安全部门证实美军正前往该地](https://news.cctv.com/2026/02/23/ARTIKJtPA5eRzLuYOeBH28O3260223.shtml)
 
++ [综述丨多方关注对美贸易不确定性](https://news.cctv.com/2026/02/23/ARTIuJGZNvDt5t5YeR1cYrZV260223.shtml)
+
++ [日本自民党高官批美政府关税政策混乱：各国或加速远离美国](https://news.cctv.com/2026/02/23/ARTIYatp0WGbbCkng68iho13260223.shtml)
+
++ [全球瞭望丨塞内加尔智库：中国对非零关税举措具有重要意义](https://news.cctv.com/2026/02/23/ARTIde5nmfHoxTxgT22tgxvG260223.shtml)
+
++ [法国国民联盟提交对政府不信任动议](https://news.cctv.com/2026/02/23/ARTItBf89Y4YYVSiYugq9Cff260223.shtml)
+
++ [通讯丨墨尔本街头馆内共庆中国年](https://news.cctv.com/2026/02/23/ARTIKN4oFPpq2Iqhozcamw3y260223.shtml)
+
++ [以色列安全内阁划定加沙战后治理“红线”](https://news.cctv.com/2026/02/23/ARTIz07iFeb55mW4tVq5Eu9Y260223.shtml)
+
++ [美法院裁定关税政策违法 美媒：混乱将持续影响经济](https://news.cctv.com/2026/02/23/ARTI2vbvvKy7fjCMTbbGypgh260223.shtml)
+
++ [因美关税风险 欧盟拟暂停批准美欧贸易协议](https://news.cctv.com/2026/02/23/ARTIrrRHeaVO1WjCC5cnHypb260223.shtml)
+
++ [巴基斯坦西北部一救护车遭袭 致3人死亡](https://news.cctv.com/2026/02/23/ARTIxVmvPET6rUJNUGkTUKK4260223.shtml)
+
++ [感受不同文化相遇的美好](https://news.cctv.com/2026/02/23/ARTItOotlkCl8BEqAy5UfCI6260223.shtml)
+
++ [欧盟延长红海护航行动任务期限](https://news.cctv.com/2026/02/23/ARTIZq3mdPdVggXezMvQq3WC260223.shtml)
+

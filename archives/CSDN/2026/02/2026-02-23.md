@@ -221,3 +221,5 @@
 
 + [OpenClaw 多智能体实战：从创建Agent到飞书多通道接入完全指南](https://blog.csdn.net/oWangChuanYi/article/details/158289176)
 
++ [Flutter三方库适配OpenHarmony【secure_application】— 与 HarmonyOS 安全能力的深度集成](https://blog.csdn.net/ze_lin_zfh/article/details/158265266)
+
