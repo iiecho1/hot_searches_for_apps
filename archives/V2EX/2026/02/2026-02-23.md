@@ -53,3 +53,5 @@
 
 + [我想问下 nothing 可以支付宝指纹吗？](https://www.v2ex.com/t/1193514)
 
++ [目前 Manus 的替代品?](https://www.v2ex.com/t/1193552)
+

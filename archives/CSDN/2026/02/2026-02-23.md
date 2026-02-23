@@ -223,3 +223,11 @@
 
 + [Flutter三方库适配OpenHarmony【secure_application】— 与 HarmonyOS 安全能力的深度集成](https://blog.csdn.net/ze_lin_zfh/article/details/158265266)
 
++ [【微服务】分布式事务解决方案 TX-LCN 实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/157697210)
+
++ [【花雕动手做】适合机器人底盘的三种规格铝合金麦克纳姆轮](https://blog.csdn.net/weixin_41659040/article/details/158318101)
+
++ [Agent大爆发：为什么说AI智能体正在颠覆下一代软件架构？](https://blog.csdn.net/IRpickstars/article/details/158313788)
+
++ [模型上下文协议（MCP）与MCP网关：概念、架构及案例研究](https://blog.csdn.net/powerjuly/article/details/158291082)
+

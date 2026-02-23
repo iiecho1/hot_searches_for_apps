@@ -223,3 +223,5 @@
 
 + [欧盟延长红海护航行动任务期限](https://news.cctv.com/2026/02/23/ARTIZq3mdPdVggXezMvQq3WC260223.shtml)
 
++ [暴风雪席卷美国东北部 近40万用户遭遇停电](https://news.cctv.com/2026/02/23/ARTIK2QPk78fV01ie0DgeOOo260223.shtml)
+
