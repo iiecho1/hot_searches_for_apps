@@ -101,3 +101,19 @@
 
 + [模型上下文协议（MCP）与MCP网关：概念、架构及案例研究](https://blog.csdn.net/powerjuly/article/details/158291082)
 
++ [IoTDB 运维必备：元数据导入导出工具使用指南](https://blog.csdn.net/weixin_43151418/article/details/157505157)
+
++ [【视觉AI赋能智慧农业】三大应用场景、简化农作流程、核心价值全解析](https://blog.csdn.net/qq_42589613/article/details/158290693)
+
++ [高频SQL 50题 | 聚合](https://blog.csdn.net/2401_86760859/article/details/158286082)
+
++ [Gazebo 机器人三维物理仿真平台](https://blog.csdn.net/qq_39777550/article/details/158288342)
+
++ [大麦网抢票：基于Wireshark协议分析](https://blog.csdn.net/q2642346535/article/details/158285788)
+
++ [OpenClaw之Memory配置成本地模式，Ubuntu+CUDA+cuDNN+llama.cpp](https://blog.csdn.net/tinygone/article/details/158267796)
+
++ [基于百度 OD 城市关联的 CSDN 支持者联系度空间分析](https://blog.csdn.net/yelangkingwuzuhu/article/details/158266749)
+
++ [Flutter三方库适配OpenHarmony【secure_application】— 与 HarmonyOS 安全能力的深度集成](https://blog.csdn.net/ze_lin_zfh/article/details/158265266)
+

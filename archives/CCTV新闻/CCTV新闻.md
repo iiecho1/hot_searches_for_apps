@@ -161,3 +161,5 @@
 
 + [白宫确认终止部分关税措施](https://news.cctv.com/2026/02/21/ARTIICK2dV3oDqTjoX3nvNAF260221.shtml)
 
++ [尼泊尔成立委员会调查大巴坠河事故 中国使馆发布交通安全提醒](https://news.cctv.com/2026/02/24/ARTI9Ar3sfb7Z7uAOkE1DWu3260223.shtml)
+
