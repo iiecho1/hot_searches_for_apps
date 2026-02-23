@@ -25,3 +25,27 @@
 
 + [3388 → 1316 元：华为 WatchGT 5 Pro 46mm 版再降价，14 天长续航](https://m.ithome.com/html/922801.htm)
 
++ [继星宇橙在中国爆火后：苹果 iPhone 18 Pro 被曝正测试全新“深红色”，而折叠屏 iPhone 配色偏保守](https://m.ithome.com/html/922872.htm)
+
++ [《镖人：风起大漠》成为中国影史武侠片票房冠军，已超 6.8 亿](https://m.ithome.com/html/922863.htm)
+
++ [华为 Mate 80 Pro 手机 16GB+512GB 规格开放购买：麒麟 9030 Pro 芯片，6999 元](https://m.ithome.com/html/922926.htm)
+
++ [古尔曼：苹果 3 月 2 - 4 日发布“至少五款产品”，低配版 MacBook 可能为重头戏](https://m.ithome.com/html/922871.htm)
+
++ [小米 5000mAh 金沙江磁吸充电宝有望推橙色版，6 毫米“业内最薄”](https://m.ithome.com/html/922886.htm)
+
++ [松延动力人形机器人登上春晚后：“假蔡明”被送给了真蔡明](https://m.ithome.com/html/922860.htm)
+
++ [广汽本田推出雅阁 e:PHEV 老客户复购价：13.88 万元，全国限量 1000 台](https://m.ithome.com/html/922856.htm)
+
++ [华为鸿蒙 HarmonyOS 特征卡片曝光，支持待机屏保、轻量交互等功能](https://m.ithome.com/html/922898.htm)
+
++ [DDR5 错标成 DDR4，买家 120 美元捡漏 32GB 海盗船内存条](https://m.ithome.com/html/922859.htm)
+
++ [小米 Tag 追踪器官宣 2 月 28 日海外发布，售价已曝光为 17.99 欧元](https://m.ithome.com/html/922882.htm)
+
++ [三星 Galaxy S26 Ultra 真机释出：4.74GHz 高配版骁龙 8E5，依然 5000mAh 电池](https://m.ithome.com/html/922907.htm)
+
++ [极客为 RTX 5090 显卡“补足”第二组 12V-2&#215;6 供电，结果 PCB 板被烧穿](https://m.ithome.com/html/922879.htm)
+

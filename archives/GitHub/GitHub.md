@@ -17,3 +17,17 @@
 
 + [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
 
++ [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+
++ [f/prompts.chat](https://github.com/f/prompts.chat)
+
++ [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+
++ [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+
++ [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
+
++ [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
+
++ [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
