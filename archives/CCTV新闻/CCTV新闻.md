@@ -189,3 +189,7 @@
 
 + [伊朗伊斯法罕省直升机坠机事故已致4人死亡](https://news.cctv.com/2026/02/24/ARTIPSmEmnT8nusrqSPipsoJ260224.shtml)
 
++ [菲律宾渡轮沉没事故死亡人数升至65人](https://news.cctv.com/2026/02/24/ARTIBqhOInNrLvjaBVwzO7Zj260224.shtml)
+
++ [美国驻法大使未出席外交部召见 法外长要求其作出解释](https://news.cctv.com/2026/02/24/ARTIPMmw9fFl9bV2HRPokwgG260224.shtml)
+

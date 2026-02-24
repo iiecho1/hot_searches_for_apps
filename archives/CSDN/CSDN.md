@@ -175,3 +175,19 @@
 
 + [LVS(Linux virual server)](https://blog.csdn.net/2301_81583196/article/details/158238781)
 
++ [《计算机视觉：模型、学习和推理》第 9 章-分类模型](https://blog.csdn.net/2302_80961196/article/details/158321597)
+
++ [【第3章＞第8节】OHEM算法简介,matlab仿真以及从OHEM到yolov1的发展](https://blog.csdn.net/ccsss22/article/details/158321911)
+
++ [FastAPI：Python 高性能 Web 框架的优雅之选](https://blog.csdn.net/2503_92624912/article/details/158320381)
+
++ [⚡ Claude Code推出快速模式预览版：weelinking带您体验Opus 4.6响应速度的飞跃](https://blog.csdn.net/linxiaoliuyi/article/details/158347833)
+
++ [千面之法: 释放 C++ 多态的灵活威力](https://blog.csdn.net/ABWSO/article/details/158284224)
+
++ [【Spring Boot开发实战手册】掌握Springboot开发技巧和窍门（七）配置Mysql、配置SpringBoot、配置Spring Security](https://blog.csdn.net/m0_63267251/article/details/158260375)
+
++ [YOLO26涨点改进| CVPR 2026 |独家创新首发、特征融合改进篇 | 引入Local Attender 局部注意力算子融合模块，高效捕捉小目标和密集目标的局部上下文特征，助力YOLO26涨点](https://blog.csdn.net/qq_45972324/article/details/158347870)
+
++ [OpenClaw接入模型并基于WebUI完成智能操作](https://blog.csdn.net/Revivedsun/article/details/158291232)
+
