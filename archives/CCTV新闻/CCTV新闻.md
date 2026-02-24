@@ -173,3 +173,7 @@
 
 + [古巴外长谴责美国对古能源围困 誓言捍卫国家主权](https://news.cctv.com/2026/02/24/ARTIAwl8eaxy8INCD9CFjQFt260224.shtml)
 
++ [印度发生医疗专机坠毁事故 致7人死亡](https://news.cctv.com/2026/02/24/ARTIOigkK4U1lPCC24xZPvcH260224.shtml)
+
++ [暴风雪席卷 纽约成“孤城”](https://news.cctv.com/2026/02/24/ARTI6GxeuQ71gU5xMxzlVH6p260224.shtml)
+
