@@ -197,3 +197,13 @@
 
 + [ARM Linux 驱动开发篇--- pinctrl 子系统详解-- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158347373)
 
++ [【YF 技术周报 Vol.02】全球 AI 监管全面收紧，大模型迭代与算力军备赛双轮爆发](https://blog.csdn.net/m0_58782205/article/details/158290865)
+
++ [国内 AI 编程 Coding Plan 深度调研报告（2026年2月）](https://blog.csdn.net/coolyoung520/article/details/158321671)
+
++ [基于 CesiumJS + React + Go 实现三维无人机编队实时巡航可视化系统](https://blog.csdn.net/qq_53742640/article/details/158321654)
+
++ [Docker 架构与核心原理深度解析：容器到底是怎么实现的？](https://blog.csdn.net/2202_75340973/article/details/158350386)
+
++ [kafka简介](https://blog.csdn.net/qq_63981644/article/details/158321787)
+

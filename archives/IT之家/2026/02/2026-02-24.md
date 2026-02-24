@@ -25,3 +25,27 @@
 
 + [极客为 RTX 5090 显卡“补足”第二组 12V-2&#215;6 供电，结果 PCB 板被烧穿](https://m.ithome.com/html/922879.htm)
 
++ [雷军揭幕新一代小米 SU7「赤霞红」，新车预计 2026 年 4 月上市](https://m.ithome.com/html/923042.htm)
+
++ [小米 17 Ultra 海外徕卡版“LEITZPHONE”手机外观曝光：Logo 位置不同，香槟金色边框](https://m.ithome.com/html/923004.htm)
+
++ [华为董事长梁华：公司 2025 年销售收入超 8800 亿元](https://m.ithome.com/html/923100.htm)
+
++ [腾讯、快手、百度、小米等多家大厂发 2026 年开工红包，最高 2026 元](https://m.ithome.com/html/923089.htm)
+
++ [鸿蒙智行问界 M6 登陆华为商城，新车定位“新锐智慧 SUV”](https://m.ithome.com/html/923022.htm)
+
++ [苹果 iOS / iPadOS 26.4 Beta 2 更新汇总：iPhone 17 等用户连续 4 个月不升 Beta 版自动“退群”](https://m.ithome.com/html/923012.htm)
+
++ [近 20 年来首次改名：苹果 iOS 26.4 Beta 2 核心启动器更名 mBoot，版本号跃迁至 18000](https://m.ithome.com/html/923015.htm)
+
++ [小米张宇：REDMI Turbo 5 Max 手机 1T 版本备货极少，卖完就没了](https://m.ithome.com/html/923016.htm)
+
++ [斯巴鲁等 20 家日本实体被我国商务部列入关注名单](https://m.ithome.com/html/923110.htm)
+
++ [曝腾讯关闭天美蒙特利尔工作室，曾计划制作“3A 开放世界游戏”](https://m.ithome.com/html/922977.htm)
+
++ [阿斯麦 ASML 公布 EUV 光源技术突破，2030 年芯片产能有望提升 50%](https://m.ithome.com/html/923005.htm)
+
++ [雷军：小米计划未来五年重点攻坚芯片、AI、操作系统等底层核心技术](https://m.ithome.com/html/923160.htm)
+
