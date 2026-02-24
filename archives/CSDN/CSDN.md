@@ -171,3 +171,7 @@
 
 + [被 GPT-5.2「夺舍」？谷歌 Gemini 3.1 Pro 深度实测来了](https://blog.csdn.net/weixin_40774379/article/details/158344237)
 
++ [用OpenClaw做qq ai办公机器人（支持群聊关键词触发+自定义域名发送任意邮件）](https://blog.csdn.net/weixin_55221858/article/details/158236704)
+
++ [LVS(Linux virual server)](https://blog.csdn.net/2301_81583196/article/details/158238781)
+
