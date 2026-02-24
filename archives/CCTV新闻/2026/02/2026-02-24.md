@@ -187,3 +187,5 @@
 
 + [俄立案调查莫斯科一火车站爆炸事件](https://news.cctv.com/2026/02/24/ARTIWW4haj97vItFCnDNYEpd260224.shtml)
 
++ [伊朗伊斯法罕省直升机坠机事故已致4人死亡](https://news.cctv.com/2026/02/24/ARTIPSmEmnT8nusrqSPipsoJ260224.shtml)
+
