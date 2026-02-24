@@ -169,3 +169,5 @@
 
 + [【科技历史与纪录片】 香农传：二十世纪最杰出的知识分子之一——克劳德·香农的生平与时代](https://blog.csdn.net/ResumeProject/article/details/158234851)
 
++ [被 GPT-5.2「夺舍」？谷歌 Gemini 3.1 Pro 深度实测来了](https://blog.csdn.net/weixin_40774379/article/details/158344237)
+

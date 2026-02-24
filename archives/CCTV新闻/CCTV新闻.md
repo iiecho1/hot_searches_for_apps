@@ -183,3 +183,5 @@
 
 + [伊朗副外长：战争的后果将“波及整个地区”](https://news.cctv.com/2026/02/24/ARTIdnDXdV6Mj6LrxDqBkibh260224.shtml)
 
++ [伊朗伊斯法罕省发生一起直升机坠毁事故](https://news.cctv.com/2026/02/24/ARTIvbQr18WlJnGToiGXgugx260224.shtml)
+
