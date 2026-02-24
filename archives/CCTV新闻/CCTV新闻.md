@@ -161,3 +161,5 @@
 
 + [一名驻日美军士兵涉嫌擅闯小学被警方逮捕](https://news.cctv.com/2026/02/22/ARTIGIkY29d0ZYZDoXpXawZB260222.shtml)
 
++ [佩斯科夫：俄仍对继续推进乌克兰和平进程持开放态度](https://news.cctv.com/2026/02/25/ARTIL5wE95yaoEN5NcyGbkks260225.shtml)
+
