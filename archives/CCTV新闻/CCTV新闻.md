@@ -173,3 +173,7 @@
 
 + [美军向以色列南部部署11架F-22战斗机](https://news.cctv.com/2026/02/25/ARTIK5Jwz1YpTNJju8Sq1oWv260225.shtml)
 
++ [墨西哥总统表示该国各地局势已陆续恢复正常](https://news.cctv.com/2026/02/25/ARTImlnRhR54PICqABmjvqD6260225.shtml)
+
++ [法国卢浮宫馆长向总统递交辞呈](https://news.cctv.com/2026/02/25/ARTIbR0lwtNVUTC4n6nveyhr260225.shtml)
+
