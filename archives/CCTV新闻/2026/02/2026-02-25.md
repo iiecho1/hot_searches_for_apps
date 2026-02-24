@@ -169,3 +169,7 @@
 
 + [阿富汗与巴基斯坦发生短暂交火](https://news.cctv.com/2026/02/25/ARTIFWSuoUkUuDorZXvnIpSD260225.shtml)
 
++ [美国华盛顿州持刀伤人事件致4人死亡](https://news.cctv.com/2026/02/25/ARTIr4VyMh7gcDBDmZJm9UGl260225.shtml)
+
++ [美军向以色列南部部署11架F-22战斗机](https://news.cctv.com/2026/02/25/ARTIK5Jwz1YpTNJju8Sq1oWv260225.shtml)
+
