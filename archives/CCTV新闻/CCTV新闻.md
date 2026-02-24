@@ -165,3 +165,7 @@
 
 + [伊朗德黑兰一电子产品仓库发生火灾](https://news.cctv.com/2026/02/25/ARTIXowaJzI5CkBRHpoZNZmv260225.shtml)
 
++ [英媒称美军仅能维持4至5天对伊朗高强度空袭](https://news.cctv.com/2026/02/25/ARTICBJyqKwrQ7dc9MJilU1a260225.shtml)
+
++ [阿富汗与巴基斯坦发生短暂交火](https://news.cctv.com/2026/02/25/ARTIFWSuoUkUuDorZXvnIpSD260225.shtml)
+
