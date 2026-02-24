@@ -163,3 +163,9 @@
 
 + [LVS（Linux virual server）四层负载均衡实验](https://blog.csdn.net/pengxiaolin_yi/article/details/158238413)
 
++ [YOLO26优化：损失篇 | 原创自研 | 一种基于小目标改进的多尺度的动态（SD）损失](https://blog.csdn.net/m0_63774211/article/details/158344688)
+
++ [2026新版教材电子课本1-9年级新教材PDF（完整电子版下载）](https://blog.csdn.net/lyctrying/article/details/158321024)
+
++ [【科技历史与纪录片】 香农传：二十世纪最杰出的知识分子之一——克劳德·香农的生平与时代](https://blog.csdn.net/ResumeProject/article/details/158234851)
+
