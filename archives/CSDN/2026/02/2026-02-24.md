@@ -143,3 +143,23 @@
 
 + [Flutter Provider 使用教程：Consumer/of/watch/read 全解析](https://blog.csdn.net/ling_zhi_xin/article/details/158316647)
 
++ [Delphi程序和AI大模型交互](https://blog.csdn.net/pcplayer/article/details/158322641)
+
++ [Claude Code Security：AI猎杀代码漏洞时代正式开启](https://blog.csdn.net/qq_60735796/article/details/158262908)
+
++ [Spring Boot ResponseEntity响应处理与文件下载实战](https://blog.csdn.net/qq_33181292/article/details/158263649)
+
++ [OpenClaw (CloudBot) 国内完美运行指南：自定义API 代理与飞书协同部署](https://blog.csdn.net/iduiui997/article/details/158316911)
+
++ [Http粘包问题回顾](https://blog.csdn.net/2401_86931059/article/details/151285483)
+
++ [Flink实时计算心智模型——流、窗口、水位线、状态与Checkpoint的协作](https://blog.csdn.net/heartshiyue/article/details/158290547)
+
++ [【故障诊断】动态系统的故障诊断和容错控制研究附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/158322181)
+
++ [ Mermaid 转 Visio 完整教程：流程图、时序图、状态图一键导出可编辑 .vsdx 文件](https://blog.csdn.net/qq_32483287/article/details/158263509)
+
++ [大数据领域中RabbitMQ的高效配置指南](https://blog.csdn.net/2301_79832637/article/details/158321078)
+
++ [LVS（Linux virual server）四层负载均衡实验](https://blog.csdn.net/pengxiaolin_yi/article/details/158238413)
+

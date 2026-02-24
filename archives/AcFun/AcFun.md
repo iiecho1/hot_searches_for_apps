@@ -69,3 +69,11 @@
 
 + [EVA 30周年短片](https://m.acfun.cn/v/?ac=48290063)
 
++ [《小猫小狗过大年》](https://m.acfun.cn/v/?ac=48289486)
+
++ [2026主线任务：爱你老己️love me more太好听啦！](https://m.acfun.cn/v/?ac=48290194)
+
++ [EXID Up & Down 上下 路演](https://m.acfun.cn/v/?ac=48289644)
+
++ [三星堆：挖出《归藏易》中的故事？出土了大禹父亲的棺材和祭祀？](https://m.acfun.cn/v/?ac=48288140)
+
