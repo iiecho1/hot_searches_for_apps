@@ -195,3 +195,5 @@
 
 + [PyCharm 完全指南：Python 开发者的首选集成开发环境](https://blog.csdn.net/AngelCryToo/article/details/158318672)
 
++ [ARM Linux 驱动开发篇--- pinctrl 子系统详解-- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158347373)
+

@@ -27,3 +27,15 @@
 
 + [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [ruvnet/ruvector](https://github.com/ruvnet/ruvector)
+
++ [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive)
+
++ [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+
++ [openemr/openemr](https://github.com/openemr/openemr)
+
