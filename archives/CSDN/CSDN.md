@@ -191,3 +191,7 @@
 
 + [OpenClaw接入模型并基于WebUI完成智能操作](https://blog.csdn.net/Revivedsun/article/details/158291232)
 
++ [K8S部署kube-state-metrics + CAdvisor 并使用 Prometheus 监控 Kubernetes 指标](https://blog.csdn.net/liu_chen_yang/article/details/157395184)
+
++ [PyCharm 完全指南：Python 开发者的首选集成开发环境](https://blog.csdn.net/AngelCryToo/article/details/158318672)
+

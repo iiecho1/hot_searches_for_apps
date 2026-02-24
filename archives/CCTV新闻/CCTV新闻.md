@@ -193,3 +193,5 @@
 
 + [美国驻法大使未出席外交部召见 法外长要求其作出解释](https://news.cctv.com/2026/02/24/ARTIPMmw9fFl9bV2HRPokwgG260224.shtml)
 
++ [佩斯科夫：下一轮乌克兰问题谈判日期尚未商定](https://news.cctv.com/2026/02/24/ARTI2oLD9daANrJ6Zf9N6FXs260224.shtml)
+
