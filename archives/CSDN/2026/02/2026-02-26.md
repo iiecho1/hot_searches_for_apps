@@ -101,3 +101,23 @@
 
 + [kafka简介](https://blog.csdn.net/qq_63981644/article/details/158321787)
 
++ [AI大模型全场景使用技巧指南](https://blog.csdn.net/woshiliyuming/article/details/158387945)
+
++ [高并发场景下一卡通系统数据库架构设计与实践](https://blog.csdn.net/beautifulmemory/article/details/158347291)
+
++ [【C++现代#14】C++20概念与约束](https://blog.csdn.net/island1314/article/details/158347811)
+
++ [PentAGI-（AI自动化渗透）Docker环境部署](https://blog.csdn.net/zero_number/article/details/158381612)
+
++ [【动态规划篇】专题(二)：路径问题——在网格图中的决策艺术](https://blog.csdn.net/2301_79849925/article/details/158348112)
+
++ [智能车竞赛不允许商业化影响它的发展](https://blog.csdn.net/zhuoqingjoking97298/article/details/158097781)
+
++ [背诗词赢门票｜基于 Leaflet 实现春节免门票景点可视化](https://blog.csdn.net/yelangkingwuzuhu/article/details/158321949)
+
++ [C#告警阈值设置：90%开发者踩过的坑，3步教你精准设置](https://blog.csdn.net/z_344791576/article/details/151898994)
+
++ [PostgreSQL - 聚合查询的优化：ROLLUP 与 CUBE 的使用](https://blog.csdn.net/qq_41187124/article/details/157468157)
+
++ [SpringBoot 自动装配原理](https://blog.csdn.net/2301_82251392/article/details/158355900)
+
