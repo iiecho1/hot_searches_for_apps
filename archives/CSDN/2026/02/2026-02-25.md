@@ -143,3 +143,11 @@
 
 + [Claude Code 与 JetBrains IDE 集成实战指南：终端智能体的 IDE 化体验](https://blog.csdn.net/weixin_44058951/article/details/157552865)
 
++ [uniapp微信小程序 - 详解map地图markers图标不显示问题，自定义图标真机调试不显示变成默认marker标记点图标（解决微信小程序map组件markers自定义图标失效，兼容安卓苹果手机）](https://blog.csdn.net/weixin_44198965/article/details/158381541)
+
++ [【第1章＞第24节】FPGA图像形态学处理应用2——提取物体轮廓verilog实现](https://blog.csdn.net/aycd1234/article/details/158356983)
+
++ [Linux Netlink Socket 完全指南：从原理到实战，与TCP的全面对比](https://blog.csdn.net/qq_47987543/article/details/158322528)
+
++ [「为什么不用 Flutter 做游戏」「为什么不用 Cocos 做 App 界面」](https://blog.csdn.net/tongbowen_123/article/details/158321634)
+

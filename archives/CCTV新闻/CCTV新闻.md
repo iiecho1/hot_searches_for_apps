@@ -197,3 +197,13 @@
 
 + [日本民众集会抗议高市早苗危险政策动向](https://news.cctv.com/2026/02/25/ARTIkXbckkKEUtt3lLVPzfrW260225.shtml)
 
++ [特朗普称伊朗正研制能打到美国的导弹](https://news.cctv.com/2026/02/25/ARTIS0COBNbG5GrUx88nUYEE260225.shtml)
+
++ [中国代表就乌克兰危机提出三点主张](https://news.cctv.com/2026/02/25/ARTIrYyCIPLWyMWl9Slq3ovM260225.shtml)
+
++ [莱索托暴发口蹄疫疫情](https://news.cctv.com/2026/02/25/ARTIMHztaf0dRmCgHX2gvimR260225.shtml)
+
++ [司法裁决难遏美加征关税野心](https://news.cctv.com/2026/02/25/ARTIMrOPigyhIvtrUsXJ9Ou4260225.shtml)
+
++ [新华时评｜世界乱局下，全球治理倡议更显时代价值](https://news.cctv.com/2026/02/25/ARTI9uv1qOKTP4NemF6P54Cn260225.shtml)
+
