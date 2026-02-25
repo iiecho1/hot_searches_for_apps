@@ -165,3 +165,5 @@
 
 + [OpenClaw 本地部署完整指南（Windows + Ollama）](https://blog.csdn.net/weixin_44950572/article/details/158350710)
 
++ [将若依（RuoYi）框架从适配 Spring Boot 2 的版本升级到 Spring Boot 3](https://blog.csdn.net/zihan0321/article/details/158356987)
+

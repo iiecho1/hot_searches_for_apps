@@ -221,3 +221,5 @@
 
 + [中情局公开招募伊朗间谍　伊朗：连装都不装了](https://news.cctv.com/2026/02/25/ARTIZ4IIUSWlIQ3roOmtMu6V260225.shtml)
 
++ [哈萨克斯坦一架苏-30SM战机坠毁](https://news.cctv.com/2026/02/25/ARTIs3wTjxnzu3ANeuJd4JqD260225.shtml)
+
