@@ -175,3 +175,15 @@
 
 + [详解Web服务部署：IP+端口 vs IP+端口+目录 实战指南](https://blog.csdn.net/duduanwang/article/details/158321832)
 
++ [《计算机视觉：模型、学习和推理》第 10 章-图模型](https://blog.csdn.net/2302_80961196/article/details/158351422)
+
++ [【Kafka进阶篇】拆解Kafka核心：LEO、HW与Leader Epoch的关联与应用](https://blog.csdn.net/m0_58782205/article/details/158320917)
+
++ [LVS简介详解+运行原理+部署+调度算法](https://blog.csdn.net/2301_79783133/article/details/144056231)
+
++ [大规模Web服务Nginx核心配置与性能优化实战](https://blog.csdn.net/2402_89959027/article/details/157616859)
+
++ [Flutter for OpenHarmony：Flutter 三方库 refena — 新一代响应式状态管理框架在鸿蒙的应用（适配鸿蒙 HarmonyOS Next ohos）](https://blog.csdn.net/2609_95049439/article/details/158357180)
+
++ [Vue3 生态工具实战宝典：UI 组件库 + 表单验证全解析（Element Plus/Ant Design Vue/VeeValidate）](https://blog.csdn.net/qq_40303030/article/details/157286050)
+
