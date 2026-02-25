@@ -177,3 +177,7 @@
 
 + [法国卢浮宫馆长向总统递交辞呈](https://news.cctv.com/2026/02/25/ARTIbR0lwtNVUTC4n6nveyhr260225.shtml)
 
++ [纽约州要求特朗普政府退还135亿美元关税](https://news.cctv.com/2026/02/25/ARTICdLbAM6DPA7B3j6F9DKG260225.shtml)
+
++ [中国驻安哥拉大使馆：不要相信“安哥拉遍地是黄金”的谣言](https://news.cctv.com/2026/02/25/ARTIOUMqmtnDikthhSmeFhHD260225.shtml)
+

@@ -121,3 +121,7 @@
 
 + [个人学习26.2.22 计网 HTTP协议(简)](https://blog.csdn.net/2502_94368909/article/details/158286221)
 
++ [模拟3D细胞-Python工程化从0到可部署的多细胞模拟器（四）](https://blog.csdn.net/kkiron/article/details/158344410)
+
++ [世毫九理论体系：自指宇宙学、认知几何学、对话量子场论与对话本体论的统一框架](https://blog.csdn.net/weixin_50059478/article/details/158347825)
+
