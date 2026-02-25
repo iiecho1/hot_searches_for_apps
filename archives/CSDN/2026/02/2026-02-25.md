@@ -167,3 +167,5 @@
 
 + [将若依（RuoYi）框架从适配 Spring Boot 2 的版本升级到 Spring Boot 3](https://blog.csdn.net/zihan0321/article/details/158356987)
 
++ [Flutter for OpenHarmony：Flutter 三方库 jnigen — 自动化打通 Flutter 与原生代码的通信壁垒（适配鸿蒙 HarmonyOS Next ohos）](https://blog.csdn.net/cannonmonster01/article/details/158356701)
+
