@@ -159,3 +159,9 @@
 
 + [vue3：html2canvas+jspdf将页面以A4导出为PDF文件，解决内容截断+在分页处截断问题详细排查和解决教程（jsPDF + html2canvas A4分页截断、内容分页时存在截断）](https://blog.csdn.net/weixin_50545213/article/details/158383082)
 
++ [【Linux运维大神系列】k8s项目部署实战](https://blog.csdn.net/2403_87491401/article/details/158320379)
+
++ [Flutter 中如何优雅地处理复杂表单](https://blog.csdn.net/qq_36478920/article/details/158354327)
+
++ [OpenClaw 本地部署完整指南（Windows + Ollama）](https://blog.csdn.net/weixin_44950572/article/details/158350710)
+
