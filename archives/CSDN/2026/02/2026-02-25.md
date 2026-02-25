@@ -169,3 +169,9 @@
 
 + [Flutter for OpenHarmony：Flutter 三方库 jnigen — 自动化打通 Flutter 与原生代码的通信壁垒（适配鸿蒙 HarmonyOS Next ohos）](https://blog.csdn.net/cannonmonster01/article/details/158356701)
 
++ [千日稳定守护，金仓数据库赋能北京一卡通斩获鼎信杯奖项](https://blog.csdn.net/weixin_43151418/article/details/157994135)
+
++ [【功率分析仪在新能源汽车研发测试中的核心应用与工程师能力进阶（实战版）】](https://blog.csdn.net/weixin_62244995/article/details/158353446)
+
++ [详解Web服务部署：IP+端口 vs IP+端口+目录 实战指南](https://blog.csdn.net/duduanwang/article/details/158321832)
+

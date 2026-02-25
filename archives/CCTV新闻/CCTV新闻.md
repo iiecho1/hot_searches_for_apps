@@ -227,3 +227,13 @@
 
 + [韩国特检组就尹锡悦内乱头目罪一审判决结果提出抗诉](https://news.cctv.com/2026/02/25/ARTIH1zwooHFLORVJ1qtNyDF260225.shtml)
 
++ [法国凡尔赛宫掌门人接任卢浮宫博物馆馆长](https://news.cctv.com/2026/02/25/ARTIuFi3VGIcNIa6e7MQA4Cs260225.shtml)
+
++ [“乌克兰可能还会干扰匈牙利能源系统” 匈总理下令加强防护](https://news.cctv.com/2026/02/25/ARTIlJOAIxqHjKae6Z2JZ1IE260225.shtml)
+
++ [伊拉克西部发生一起交通事故 已致13死5伤](https://news.cctv.com/2026/02/25/ARTI519JIKFcIwA6HPFjzGUs260225.shtml)
+
++ [泽连斯基称乌美俄新一轮三方会谈预计于3月初举行](https://news.cctv.com/2026/02/25/ARTIoa1zPLNBqyEgjaxID5ap260225.shtml)
+
++ [法国凡尔赛宫掌门人接任卢浮宫博物馆馆长](https://news.cctv.com/2026/02/25/ARTInMyoMEWj4JFBH2m0Y9Ub260225.shtml)
+
