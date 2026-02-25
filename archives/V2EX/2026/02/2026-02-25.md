@@ -47,3 +47,7 @@
 
 + [Java 后端，被公司内部转岗到 AI 部门，现在整个人很麻，求指路](https://www.v2ex.com/t/1193907)
 
++ [iPhone 如何优雅的添加 nfc 门禁卡](https://www.v2ex.com/t/1193889)
+
++ [问个无聊的问题，现在结婚真的都是 100%爱情吗](https://www.v2ex.com/t/1193888)
+

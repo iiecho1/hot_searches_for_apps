@@ -207,3 +207,7 @@
 
 + [新华时评｜世界乱局下，全球治理倡议更显时代价值](https://news.cctv.com/2026/02/25/ARTI9uv1qOKTP4NemF6P54Cn260225.shtml)
 
++ [特朗普：首选通过外交手段解决伊朗核问题](https://news.cctv.com/2026/02/25/ARTITvCxZDKQqqOnISI94BFY260225.shtml)
+
++ [特朗普国情咨文演讲点名讽刺佩洛西](https://news.cctv.com/2026/02/25/ARTI0erEO8NnN8CVpF0Vej3g260225.shtml)
+
