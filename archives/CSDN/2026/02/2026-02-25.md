@@ -125,3 +125,21 @@
 
 + [世毫九理论体系：自指宇宙学、认知几何学、对话量子场论与对话本体论的统一框架](https://blog.csdn.net/weixin_50059478/article/details/158347825)
 
++ [Agent Skills：构建可扩展AI代理能力的模块化架构指南](https://blog.csdn.net/yang2330648064/article/details/158314724)
+
++ [【LE Audio】BAP协议精讲[17]: 从待机到流传输：广播音频状态机全流程拆解+实战落地](https://blog.csdn.net/weixin_37800531/article/details/158237017)
+
++ [6、MYSQL-多表联合查询](https://blog.csdn.net/2504_94373537/article/details/158011166)
+
++ [Flink实时计算心智模型——流、窗口、水位线、状态与Checkpoint的协作](https://blog.csdn.net/heartshiyue/article/details/158290547)
+
++ [两能级系统：量子计算的基石](https://blog.csdn.net/eidolon_foot/article/details/158317640)
+
++ [2026最新：国内调用Claude/GPT/Gemini API的最佳方案（附代码+价格对比）](https://blog.csdn.net/qq_43958374/article/details/158316185)
+
++ [1分钟使用openclaw生成ppt](https://blog.csdn.net/liuyunshengsir/article/details/158320071)
+
++ [目标检测数据集 第114期-基于yolo标注格式的机场周转地面目标检测数据集(含免费分享)](https://blog.csdn.net/weixin_39588099/article/details/158322562)
+
++ [Claude Code 与 JetBrains IDE 集成实战指南：终端智能体的 IDE 化体验](https://blog.csdn.net/weixin_44058951/article/details/157552865)
+

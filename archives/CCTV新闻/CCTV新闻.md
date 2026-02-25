@@ -181,3 +181,19 @@
 
 + [中国驻安哥拉大使馆：不要相信“安哥拉遍地是黄金”的谣言](https://news.cctv.com/2026/02/25/ARTIOUMqmtnDikthhSmeFhHD260225.shtml)
 
++ [伊朗外长：希望在最短时间内与美国达成公平协议](https://news.cctv.com/2026/02/25/ARTIxLblxU7g4261vy8f4ZuB260225.shtml)
+
++ [英监管机构对美社交新闻网站开出1447万英镑罚单](https://news.cctv.com/2026/02/25/ARTIrzqEevvUgendtGFpyXhJ260225.shtml)
+
++ [特朗普：美关税将依据其他法律条款继续维持有效](https://news.cctv.com/2026/02/25/ARTITrAJy27OJ9D70Fs3t1c5260225.shtml)
+
++ [青少年犯罪激增 韩国考虑下调刑事责任年龄](https://news.cctv.com/2026/02/25/ARTIF3Vqk7ZHAJOhEKza8mkF260225.shtml)
+
++ [巴西东南部地区暴雨造成死亡人数升至30人](https://news.cctv.com/2026/02/25/ARTIhHUlFc9MStrYTVd8Spvp260225.shtml)
+
++ [特朗普发表国情咨文演讲 谈及移民、经济和犯罪问题](https://news.cctv.com/2026/02/25/ARTI7YTyLFe6VUOeWpbUnSpd260225.shtml)
+
++ [土耳其空军一架F-16战机坠毁](https://news.cctv.com/2026/02/25/ARTIh6UL2KM1BkW3vXYTRVVG260225.shtml)
+
++ [日本民众集会抗议高市早苗危险政策动向](https://news.cctv.com/2026/02/25/ARTIkXbckkKEUtt3lLVPzfrW260225.shtml)
+
