@@ -153,3 +153,9 @@
 
 + [【openclaw+claude】手机+OpenClaw+Claude实现远程AI编程系列大纲](https://blog.csdn.net/weixin_44586883/article/details/158346933)
 
++ [文档数据库替换新范式：金仓数据库MongoDB兼容性深度解析与实践指南](https://blog.csdn.net/beautifulmemory/article/details/158354800)
+
++ [学习threejs，实现山谷奔跑效果](https://blog.csdn.net/qq_28419035/article/details/158382553)
+
++ [vue3：html2canvas+jspdf将页面以A4导出为PDF文件，解决内容截断+在分页处截断问题详细排查和解决教程（jsPDF + html2canvas A4分页截断、内容分页时存在截断）](https://blog.csdn.net/weixin_50545213/article/details/158383082)
+
