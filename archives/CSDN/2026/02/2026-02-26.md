@@ -129,3 +129,5 @@
 
 + [OpenClaw 接入阿里云百炼 Coding Plan 指南](https://blog.csdn.net/jllion/article/details/158386583)
 
++ [Flutter for OpenHarmony：Flutter 三方库 pem — 在鸿蒙应用中优雅处理加密证书与密钥（适配鸿蒙 HarmonyOS Next ohos）](https://blog.csdn.net/2609_95049439/article/details/158356831)
+
