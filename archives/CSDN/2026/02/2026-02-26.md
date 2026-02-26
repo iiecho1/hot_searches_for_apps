@@ -187,3 +187,7 @@
 
 + [云雾API接入Seedance2.0视频生成模型完整教程：从API密钥到生产环境部署](https://blog.csdn.net/2401_82636687/article/details/158103311)
 
++ [企业高性能web服务器——Nginx](https://blog.csdn.net/Stewie12138/article/details/158391540)
+
++ [Mac mini M2 部署 OpenClaw：最稳 7×24 本地 AI 服务器](https://blog.csdn.net/weixin_52908342/article/details/158357253)
+
