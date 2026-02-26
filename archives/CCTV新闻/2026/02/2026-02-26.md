@@ -171,3 +171,23 @@
 
 + [巴西东南部地区暴雨造成死亡人数升至46人](https://news.cctv.com/2026/02/26/ARTIBj3l2QLL4dYB56iqYC91260226.shtml)
 
++ [法国国民议会否决两项针对政府能源规划的不信任动议](https://news.cctv.com/2026/02/26/ARTIj9BVcKmbs31wgV8I1qhX260226.shtml)
+
++ [国际货币基金组织预计美国债务负担将持续增加](https://news.cctv.com/2026/02/26/ARTIaEtqSuiAbbQ7mvt1n17l260226.shtml)
+
++ [美伊谈判在即 多架美军F-22战机陆续部署至以色列](https://news.cctv.com/2026/02/26/ARTIiPIQwEN2JYotZXTfg2Cm260226.shtml)
+
++ [哥伦比亚西北部泥火山喷发 一省进入紧急状态](https://news.cctv.com/2026/02/26/ARTIFzGRGeYjhlFomQ2vpXXz260226.shtml)
+
++ [美公布在空间站出现健康状况的宇航员信息](https://news.cctv.com/2026/02/26/ARTIJG8ArfS5HS9c6GbrbvTh260226.shtml)
+
++ [北美观察丨对立层层升级 美“国情咨文”现场成党争直播间](https://news.cctv.com/2026/02/26/ARTIA44nwtPG6AuulMqOt5gv260226.shtml)
+
++ [乌克兰宣布退出独联体联合防空体系协定](https://news.cctv.com/2026/02/26/ARTIImrO7YZrrTuO9vk9FH5b260226.shtml)
+
++ [米兰冬残奥会圣火开始在意大利传递](https://news.cctv.com/2026/02/26/ARTIgzonPTC004khdHHvdLRk260226.shtml)
+
++ [国际货币基金组织敦促美国开展合作 减少贸易限制](https://news.cctv.com/2026/02/26/ARTIVSQV7U6psSPPMFlNyPQU260226.shtml)
+
++ [中国公民大阪街头被劫，驻大阪总领馆再次提醒中国公民近期避免前往日本](https://news.cctv.com/2026/02/26/ARTIGJ4sXj5zJ8VDuanKXRb3260226.shtml)
+
