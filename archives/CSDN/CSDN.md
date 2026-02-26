@@ -175,3 +175,7 @@
 
 + [Android tinyalsa深度解析之pcm_mmap_avail调用流程与实战(一百三十三)](https://blog.csdn.net/u010164190/article/details/158233694)
 
++ [[ClaudeCode +weelinking]项目实战操作指南](https://blog.csdn.net/2601_95335870/article/details/158392954)
+
++ [1分钟使用openclaw生成ppt](https://blog.csdn.net/liuyunshengsir/article/details/158320071)
+
