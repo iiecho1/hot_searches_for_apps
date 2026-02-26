@@ -41,3 +41,5 @@
 
 + [记过年回家的相亲](https://www.v2ex.com/t/1194167)
 
++ [Typeoff：按住 Fn 直接语音输入的 macOS 工具，送 30 元账户余额体验](https://www.v2ex.com/t/1194144)
+

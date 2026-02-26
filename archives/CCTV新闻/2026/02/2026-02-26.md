@@ -191,3 +191,15 @@
 
 + [中国公民大阪街头被劫，驻大阪总领馆再次提醒中国公民近期避免前往日本](https://news.cctv.com/2026/02/26/ARTIGJ4sXj5zJ8VDuanKXRb3260226.shtml)
 
++ [美国封锁致材料短缺 古巴暂停制发身份证件](https://news.cctv.com/2026/02/26/ARTIQOLipxyk3Ghif5lECo2B260226.shtml)
+
++ [高市早苗“送礼”事件引发在野党和日本民众批评](https://news.cctv.com/2026/02/26/ARTI7WE1SKgQfrjhIX7eUXaC260226.shtml)
+
++ [美媒：特朗普告诉泽连斯基让冲突一个月内结束](https://news.cctv.com/2026/02/26/ARTIEyTeCwByx922Syy9p6MG260226.shtml)
+
++ [金正恩：朝美关系前景完全取决于美方态度](https://news.cctv.com/2026/02/26/ARTIohJLCHFTS8W9LRtQA9fY260226.shtml)
+
++ [德国总理用中文连续发帖：德中经贸合作能够释放巨大潜力](https://news.cctv.com/2026/02/26/ARTIZJ50ttp4YZ4mnZeetQ2Z260226.shtml)
+
++ [金正恩：韩国是“彻底的敌国、永远的敌人”](https://news.cctv.com/2026/02/26/ARTI1yXRvGD7HMXQ78Mm04ks260226.shtml)
+

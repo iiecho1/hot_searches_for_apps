@@ -77,3 +77,19 @@
 
 + [不一样的视角7](https://m.acfun.cn/v/?ac=48270521)
 
++ [《生化危机9》首发评测：它很牛逼，但我觉得还能更好](https://m.acfun.cn/v/?ac=48295991)
+
++ [【柯基】纯音乐《Start Over》｜《遇见王沥川》插曲](https://m.acfun.cn/v/?ac=48295990)
+
++ [是白丝猫猫！今天的小姐姐可爱不](https://m.acfun.cn/v/?ac=48294515)
+
++ [【纪念逝去的音乐人03】张雨生 - 「我期待」 翻唱【Cover by 叫ぶ獣】](https://m.acfun.cn/v/?ac=48295460)
+
++ [你们的架子鼓女神还那样！雅妍——Silvera 裸足版](https://m.acfun.cn/v/?ac=48293943)
+
++ [妲己乱政 | 赛雷动画《封神演义》第6集](https://m.acfun.cn/v/?ac=48295779)
+
++ [Hearts2Hearts 翻跳前辈 少女时代 Red Velvet 经典给你看](https://m.acfun.cn/v/?ac=48294730)
+
++ [另一个版本的表情管理](https://m.acfun.cn/v/?ac=48291633)
+
