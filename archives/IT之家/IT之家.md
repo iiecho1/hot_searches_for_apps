@@ -25,3 +25,27 @@
 
 + [小米新一代 SU7 卡布里蓝今起第二批实车进店，覆盖北京、上海、深圳等 7 城](https://m.ithome.com/html/923449.htm)
 
++ [三星 Galaxy S26 / S26+ / S26 Ultra 系列新品发布会一文汇总：首发硬件防窥屏、谷歌“豆包手机”](https://m.ithome.com/html/923679.htm)
+
++ [网传被判赔小米 500 万元的自媒体账号“AutoReport 汽车产经”实控人为李斌，相关人士否认](https://m.ithome.com/html/923631.htm)
+
++ [史上首次：2026 年中国手机市场迎全面普涨，消息称 3 月后新品涨幅最低超千元](https://m.ithome.com/html/923730.htm)
+
++ [苹果入门 MacBook（A18 Pro）前瞻：8GB 内存，不支持原彩显示、快充，无背光键盘](https://m.ithome.com/html/923699.htm)
+
++ [携程集团总裁范敏辞职](https://m.ithome.com/html/923826.htm)
+
++ [小米 5000mAh 金沙江磁吸充电宝更多配色公布：橙色、黑色，6mm 超薄身材](https://m.ithome.com/html/923669.htm)
+
++ [消息称除魅族之外，还有其他厂商已暂停下一代旗舰研发](https://m.ithome.com/html/923901.htm)
+
++ [华为官宣鸿蒙智行技术焕新发布会定档 3 月 4 日](https://m.ithome.com/html/923715.htm)
+
++ [三星首款防窥屏旗舰手机 Galaxy S26 Ultra 发布：第五代骁龙 8 至尊版定制芯片，9999 元起](https://m.ithome.com/html/923675.htm)
+
++ [谷歌官方“豆包手机”来了：Pixel 10 和三星 Galaxy S26 系列迎来 AI 操控手机功能](https://m.ithome.com/html/923678.htm)
+
++ [今天疯狂星期四，阿里云宣布千问“入职”肯德基 App](https://m.ithome.com/html/923785.htm)
+
++ [三星回应 Galaxy S26 Ultra 手机材质为何从钛金属调整为铝合金](https://m.ithome.com/html/923801.htm)
+
