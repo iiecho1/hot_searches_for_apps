@@ -101,3 +101,35 @@
 
 + [提示词工程：核心原理与实战指南](https://blog.csdn.net/qq_25218219/article/details/158388987)
 
++ [【LE Audio】BAP协议精讲[18]: 从参数配置到流释放：广播音频全流程配置实战指南](https://blog.csdn.net/weixin_37800531/article/details/158286647)
+
++ [文档数据库替换新范式：金仓数据库MongoDB兼容性深度解析与实践指南](https://blog.csdn.net/beautifulmemory/article/details/158354800)
+
++ [打破同源枷锁：深入理解 postMessage 跨域通信机制](https://blog.csdn.net/lilinhai548/article/details/158422620)
+
++ [被 GPT-5.2「夺舍」？谷歌 Gemini 3.1 Pro 深度实测来了](https://blog.csdn.net/weixin_40774379/article/details/158344237)
+
++ [BASE原则详解：高可用系统的“妥协艺术“](https://blog.csdn.net/qq_41840843/article/details/158388954)
+
++ [构建代码库知识图谱解决方案-GitNexus 项目技术分析总结](https://blog.csdn.net/wasp520/article/details/158320735)
+
++ [时序数据库替换深度体验：从InfluxDB/TimescaleDB/TDengine到国产化平滑迁移的实战之路](https://blog.csdn.net/qq_32682301/article/details/158423273)
+
++ [EzReal：让机器人征服百米外的视觉盲区](https://blog.csdn.net/lovely_yoshino/article/details/158181152)
+
++ [kingbase备份与恢复实战（一）—— 备份体系、RPO-RTO与选型（Windows+ksql）](https://blog.csdn.net/2302_78391795/article/details/158422993)
+
++ [决策树的优化-剪枝和随机森林](https://blog.csdn.net/mybluesky1983/article/details/158379894)
+
++ [26信号处理一：从闹钟到进程控制的奥秘](https://blog.csdn.net/L070117/article/details/156202330)
+
++ [【基于无人机搭载相机网络的交互式监控分布式方法】基于无人机搭载摄像头网络的交互式监控分布式方法研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/158319200)
+
++ [SpringBoot 自动装配原理](https://blog.csdn.net/2301_82251392/article/details/158355900)
+
++ [通讯设备供应商PSIRT网络安全日报自动化搭建指南20260225](https://blog.csdn.net/olivesun88/article/details/158381990)
+
++ [jdk动态代理和Cglib动态代理的区别，为什么Cglib更适配SpringAOP](https://blog.csdn.net/qq_74776071/article/details/158385919)
+
++ [【滤波跟踪】基于可观测性的扩展卡尔曼滤波）SLAM（同步定位与地图构建）仿真的 MATLAB 代码，对比Ideal EKF、Standard EKF、FEJ-EKF、OC-EKF 四种滤波算法性能](https://blog.csdn.net/matlab_dingdang/article/details/158354548)
+
