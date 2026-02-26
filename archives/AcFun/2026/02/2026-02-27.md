@@ -67,3 +67,5 @@
 
 + [姜后遇陷 | 赛雷动画《封神演义》第7集](https://m.acfun.cn/v/?ac=48297154)
 
++ [Psycho](https://m.acfun.cn/v/?ac=48297822)
+
