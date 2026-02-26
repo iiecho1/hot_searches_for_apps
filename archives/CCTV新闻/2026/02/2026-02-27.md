@@ -161,3 +161,9 @@
 
 + [白宫称特朗普对伊朗问题的首选方案永远是外交](https://news.cctv.com/2026/02/24/ARTIqqKWti5SvVwnQe8sBpaD260224.shtml)
 
++ [美国加州旧金山湾区发生一起枪击事件 1人死亡](https://news.cctv.com/2026/02/27/ARTIgxE9qdD9NnPkbwdHLPk7260227.shtml)
+
++ [伊美第三轮间接谈判短暂休会后继续举行](https://news.cctv.com/2026/02/27/ARTIgvKwgX4JpHTMtSBl9jC4260227.shtml)
+
++ [希拉里就爱泼斯坦案作证 称对犯罪活动一无所知](https://news.cctv.com/2026/02/27/ARTI4aByb9LoqdXrgKWnlppX260227.shtml)
+
