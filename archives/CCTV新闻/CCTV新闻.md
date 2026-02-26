@@ -225,3 +225,7 @@
 
 + [以色列一辆载有士兵的大巴发生车祸 致17人受伤](https://news.cctv.com/2026/02/26/ARTIFm12rErGxzaT7oIfZO88260226.shtml)
 
++ [日媒密集发声质疑高市经济政策 日本央行前行长：通胀将进一步恶化](https://news.cctv.com/2026/02/26/ARTIdzXIY8LGVBlJZjrGQ7zV260226.shtml)
+
++ [菲律宾坎拉翁火山发生中等强度喷发](https://news.cctv.com/2026/02/26/ARTIszNnXZ3sdF0B1mXXtDyD260226.shtml)
+
