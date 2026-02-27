@@ -189,3 +189,9 @@
 
 + [巴基斯坦空袭阿富汗首都喀布尔等地](https://news.cctv.com/2026/02/27/ARTIStBI2ksd9NTlDxx0YkWa260227.shtml)
 
++ [哈萨克斯坦一咖啡厅爆炸致7人死亡](https://news.cctv.com/2026/02/27/ARTIMmzH5AipaN8RqDkMUC9J260227.shtml)
+
++ [古特雷斯呼吁阿富汗与巴基斯坦通过外交途径化解分歧](https://news.cctv.com/2026/02/27/ARTIQ1KFRqIF1916lYSrYhNX260227.shtml)
+
++ [阿根廷批准南共市-欧盟自贸协定](https://news.cctv.com/2026/02/27/ARTIqdTlianPT5sdGE0Xcnky260227.shtml)
+
