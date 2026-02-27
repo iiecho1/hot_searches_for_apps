@@ -39,3 +39,9 @@
 
 + [吐槽过的公司说要起诉我，我应该如何应对？](https://www.v2ex.com/t/1194429)
 
++ [3mins.news 上线 Pro 计划，送 V2EX 用户 20 个永久免费名额](https://www.v2ex.com/t/1194352)
+
++ [Intel CPU 的 MBP 已经配置完全不行了么？卡死我了。](https://www.v2ex.com/t/1194432)
+
++ [专业中转站 https://terminal.pub 开工抽奖 5 * 50 刀套餐， kiro 特价渠道低至 0.02 元一次调用，注册即送 5 刀，邀请再送 5 刀](https://www.v2ex.com/t/1194389)
+
