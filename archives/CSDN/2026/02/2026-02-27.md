@@ -173,3 +173,11 @@
 
 + [Mac mini 无显示器部署 OpenClaw：SSH + 远程桌面](https://blog.csdn.net/weixin_52908342/article/details/158357382)
 
++ [基于SpringBoot+JWT 实现Token登录认证与登录人信息查询](https://blog.csdn.net/sfyyyyy/article/details/158392928)
+
++ [LobsterAI + 通义千问(Qwen) + 飞书 完整配置指南](https://blog.csdn.net/jdt993/article/details/158392489)
+
++ [从兼容到超越：KingbaseES何以成为MongoDB企业级替代最优解？](https://blog.csdn.net/lrq13965748542/article/details/158431974)
+
++ [【线性代数】矩阵第一讲：矩阵与矩阵的运算](https://blog.csdn.net/weixin_38357164/article/details/158317847)
+
