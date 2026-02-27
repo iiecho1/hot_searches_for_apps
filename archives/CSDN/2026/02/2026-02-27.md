@@ -181,3 +181,9 @@
 
 + [【线性代数】矩阵第一讲：矩阵与矩阵的运算](https://blog.csdn.net/weixin_38357164/article/details/158317847)
 
++ [叠加态和测量：从数学到物理的惊险一跃](https://blog.csdn.net/eidolon_foot/article/details/158355073)
+
++ [【Linux运维大神系列】k8s项目部署实战](https://blog.csdn.net/2403_87491401/article/details/158320379)
+
++ [vue文件自动生成路由会成为主流](https://blog.csdn.net/2501_92872533/article/details/158390408)
+
