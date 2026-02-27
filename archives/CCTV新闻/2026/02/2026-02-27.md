@@ -175,3 +175,17 @@
 
 + [马杜罗向美法院提交动议 要求驳回其面临的刑事起诉](https://news.cctv.com/2026/02/27/ARTITUBkdZIIEWh5OlA8Su2d260227.shtml)
 
++ [北美观察丨美伊谈判称“重大进展” 难题才刚开始](https://news.cctv.com/2026/02/27/ARTIdwS5vn0jLInmD4DwRfFd260227.shtml)
+
++ [巴基斯坦防长宣布对阿富汗展开“公开战争”](https://news.cctv.com/2026/02/27/ARTIXtH0NqBOtCO7zzrkF9jA260227.shtml)
+
++ [肯尼亚的大象孤儿院](https://photo.cctv.com/2026/02/27/PHOAERBUZSwsaxHq8V05gEBf260227.shtml)
+
++ [美中东最高指挥官向特朗普汇报对伊朗军事选项](https://news.cctv.com/2026/02/27/ARTIOe3QbWcdvfU1UjgiX6CC260227.shtml)
+
++ [阿富汗政府称巴基斯坦空袭喀布尔等多地](https://news.cctv.com/2026/02/27/ARTIuJOZ4hYwom8ZpgUxBpym260227.shtml)
+
++ [阿富汗：在坎大哈和赫尔曼德省向巴基斯坦开展报复行动](https://news.cctv.com/2026/02/27/ARTIKg2PO77OmPo85aIFmrAx260227.shtml)
+
++ [巴基斯坦空袭阿富汗首都喀布尔等地](https://news.cctv.com/2026/02/27/ARTIStBI2ksd9NTlDxx0YkWa260227.shtml)
+

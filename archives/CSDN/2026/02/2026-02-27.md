@@ -133,3 +133,25 @@
 
 + [【滤波跟踪】基于可观测性的扩展卡尔曼滤波）SLAM（同步定位与地图构建）仿真的 MATLAB 代码，对比Ideal EKF、Standard EKF、FEJ-EKF、OC-EKF 四种滤波算法性能](https://blog.csdn.net/matlab_dingdang/article/details/158354548)
 
++ [《计算机视觉：模型、学习和推理》第 11 章-链式模型和树模型 ](https://blog.csdn.net/2302_80961196/article/details/158353468)
+
++ [OpenClaw：让AI直接操控你的电脑](https://blog.csdn.net/m0_60781580/article/details/158355401)
+
++ [Docker 架构与核心原理深度解析：容器到底是怎么实现的？](https://blog.csdn.net/2202_75340973/article/details/158350386)
+
++ [基于 YOLO26 的交通标识智能检测（中英文双版） | 附完整源码与效果演示](https://blog.csdn.net/weixin_52908342/article/details/158387933)
+
++ [Java 网络编程核心：BIO、NIO、AIO IO 模型深度解析与实战](https://blog.csdn.net/qq_43843951/article/details/158394944)
+
++ [分布式 vs 微服务：别再傻傻分不清了](https://blog.csdn.net/qq_41840843/article/details/158387320)
+
++ [企业高性能web服务器Nginx](https://blog.csdn.net/wiefengqizhou/article/details/158207278)
+
++ [嵌入式知识点学习篇五（C\C++）](https://blog.csdn.net/GenGL_/article/details/158384071)
+
++ [用 Kavita+cpolar 解锁数字藏书的远程自由翔实攻略](https://blog.csdn.net/user340/article/details/158430640)
+
++ [Kafka 消息队列深入解析](https://blog.csdn.net/qq_33665793/article/details/158353093)
+
++ [Copyparty + cpolar，随时随地访问你的私人文件库](https://blog.csdn.net/2402_86350387/article/details/158431115)
+
