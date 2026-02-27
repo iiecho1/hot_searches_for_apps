@@ -195,3 +195,21 @@
 
 + [实时数字人SoulX-FlashHead 部署笔记](https://blog.csdn.net/jacke121/article/details/158352307)
 
++ [Mac mini M2 部署 OpenClaw：最稳 7×24 本地 AI 服务器](https://blog.csdn.net/weixin_52908342/article/details/158357253)
+
++ [从人类视频到机器人跳舞：BeyondMimic 全流程解析与 rl_sar 部署实践](https://blog.csdn.net/lovely_yoshino/article/details/158125172)
+
++ [告别代码，迎接代理：Claude Code、OpenCode、OpenClaw等六大AI工具全面解析](https://blog.csdn.net/promsing/article/details/158380316)
+
++ [AI编程 - 规范驱动开发（SDD）学习](https://blog.csdn.net/Revivedsun/article/details/158388930)
+
++ [从 0 开始理解 Spring 的核心思想 —— IoC 和 DI（2）](https://blog.csdn.net/m0_62475782/article/details/158390795)
+
++ [2025年重大网络安全事件回顾与趋势分析](https://blog.csdn.net/2403_86962125/article/details/158383014)
+
++ [ESP32-S3音频板](https://blog.csdn.net/2302_80627723/article/details/158356917)
+
++ [Maven打包血泪史：当你的IDEA路径里藏了个空格，整个宇宙都与你为敌](https://blog.csdn.net/weixin_44976692/article/details/158387632)
+
++ [SpringBoot 接口性能优化：从接口慢到毫秒级响应实战](https://blog.csdn.net/macowl/article/details/158392064)
+
