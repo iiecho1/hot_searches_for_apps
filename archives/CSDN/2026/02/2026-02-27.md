@@ -169,3 +169,7 @@
 
 + [Python 文件解析： Excel / Word / PDF 的解析、处理、预览与下载](https://blog.csdn.net/Cxiaomu/article/details/158352607)
 
++ [C# 基于OpenCv的视觉工作流-章27-图像分割](https://blog.csdn.net/fang_1_9_8_7/article/details/158383391)
+
++ [Mac mini 无显示器部署 OpenClaw：SSH + 远程桌面](https://blog.csdn.net/weixin_52908342/article/details/158357382)
+
