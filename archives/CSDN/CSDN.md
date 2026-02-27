@@ -109,3 +109,29 @@
 
 + [信道管理模块和异步线程模块](https://blog.csdn.net/2402_82670467/article/details/158376651)
 
++ [机器学习算法分类与数据处理](https://blog.csdn.net/2401_83830408/article/details/158357458)
+
++ [基于 YOLO26 的交通标识智能检测（中英文双版） | 附完整源码与效果演示](https://blog.csdn.net/weixin_52908342/article/details/158387933)
+
++ [PentAGI-（AI自动化渗透）Docker环境部署](https://blog.csdn.net/zero_number/article/details/158381612)
+
++ [【大数据技术实战】大数据典型框架解析](https://blog.csdn.net/wnm23/article/details/155944735)
+
++ [Ext 系列文件系统进阶：inode 映射、路径解析、挂载与软硬链接全解析](https://blog.csdn.net/2503_91389547/article/details/157812306)
+
++ [像写 SQL 一样搜索：dbVisitor 如何用 MyBatis 范式颠覆 ElasticSearch 开发](https://blog.csdn.net/2603_94941239/article/details/158389125)
+
++ [阿里再造“安卓时刻“？Qwen3.5原生多模态架构或重构AI开发范式](https://blog.csdn.net/jiangjunshow/article/details/158415714)
+
++ [GCC编译(7)链接脚本LinkerScripts](https://blog.csdn.net/Once_day/article/details/158395139)
+
++ [GLM-5 创意体验营 | 我用 HTML5 实现了 年会抽奖系统](https://blog.csdn.net/2302_77582029/article/details/158387927)
+
++ [【无人机部署】基于贪心算法并结合不同阈值方法，以实现更好的灾后多无人机覆盖效果附matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/158382367)
+
++ [Hadoop核心技术与实战指南](https://blog.csdn.net/weixin_42506139/article/details/158381986)
+
++ [利用SpringCloud Gateway 重试 + 降级解决第三方接口频繁超时问题，提升性能](https://blog.csdn.net/he_co/article/details/158395332)
+
++ [JavaScript进阶-ES6 带来的高效编程新体验](https://blog.csdn.net/weixin_50874350/article/details/158384198)
+
