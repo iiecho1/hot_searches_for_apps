@@ -205,3 +205,11 @@
 
 + [就爱泼斯坦案作证 希拉里坚称“没见过、没坐过、没去过”](https://news.cctv.com/2026/02/27/ARTI3qWAqIWUuze3AYuMqzLF260227.shtml)
 
++ [美国务院下令非紧急必要外交官撤离以色列](https://news.cctv.com/2026/02/27/ARTIaLViuEkmVSMFuHK09iUF260227.shtml)
+
++ [伊朗军方称将对美国侵略行为予以“毁灭性”回应](https://news.cctv.com/2026/02/27/ARTI3c1KZGOKV54h6C958g7F260227.shtml)
+
++ [约20架美军加油机飞抵以色列机场](https://news.cctv.com/2026/02/27/ARTIlWJlkkRfYmK4XT1xTrF8260227.shtml)
+
++ [美“福特”号航母抵达以色列水域](https://news.cctv.com/2026/02/27/ARTIlTxiWloAJwJD1Gs3vQvu260227.shtml)
+
