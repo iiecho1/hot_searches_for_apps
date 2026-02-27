@@ -187,3 +187,11 @@
 
 + [vue文件自动生成路由会成为主流](https://blog.csdn.net/2501_92872533/article/details/158390408)
 
++ [编辑器和笔记软件汇总：Typst、Reminds、Memos、Editor、MDX Notes、Jotty](https://blog.csdn.net/lonelymanontheway/article/details/158291598)
+
++ [消息队列双雄对决：Kafka vs RabbitMQ 实战选型指南](https://blog.csdn.net/sinat_41617212/article/details/158429666)
+
++ [信道管理模块和异步线程模块](https://blog.csdn.net/2402_82670467/article/details/158376651)
+
++ [实时数字人SoulX-FlashHead 部署笔记](https://blog.csdn.net/jacke121/article/details/158352307)
+
