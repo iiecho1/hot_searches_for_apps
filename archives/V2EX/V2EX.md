@@ -23,3 +23,5 @@
 
 + [这轮大模型对供需关系的冲击真是史无前例的](https://www.v2ex.com/t/1194542)
 
++ [作为控制欲强的开发，我是不接受 vibe coding 的](https://www.v2ex.com/t/1194561)
+
