@@ -243,3 +243,11 @@
 
 + [OpenClaw教程（二）—— 部署OpenClaw](https://blog.csdn.net/wal1314520/article/details/158430001)
 
++ [《计算机视觉：模型、学习和推理》第 15 章-变换模型](https://blog.csdn.net/2302_80961196/article/details/158502630)
+
++ [Flutter for OpenHarmony：三方库 test_api — 守护鸿蒙应用代码质量（适配鸿蒙 HarmonyOS Next ohos）](https://blog.csdn.net/jiang_style/article/details/158424873)
+
++ [汽车雷达高级信号处理和建模技术简介——文章精读（下）](https://blog.csdn.net/qq_44648285/article/details/158451713)
+
++ [时序数据库选型指南：从大数据架构视角深度解析 Apache IoTDB](https://blog.csdn.net/u014727709/article/details/158509780)
+

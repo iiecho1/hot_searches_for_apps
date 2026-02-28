@@ -235,3 +235,5 @@
 
 + [伊朗一小学遭导弹袭击 24人死亡](https://news.cctv.com/2026/02/28/ARTIvKY4QPTiPcMkxO3JJjjP260228.shtml)
 
++ [经济热点问答丨为何越来越多全球投资者“告别美国”](https://news.cctv.com/2026/02/28/ARTIFkckFKrKCxOZRHtGtWUU260228.shtml)
+
