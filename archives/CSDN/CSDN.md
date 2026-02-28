@@ -119,3 +119,41 @@
 
 + [【Unity 实用工具篇】 | Unity物体破碎效果 OpenFracture](https://blog.csdn.net/zhangay1998/article/details/157653686)
 
++ [Ring-2.5-1T 万亿思考模型 + Tbox：当深度推理遇上知识沉淀，我的生产力发生了什么质变？](https://blog.csdn.net/2302_78391795/article/details/158469296)
+
++ [连接管理模块和搭建客户端](https://blog.csdn.net/2402_82670467/article/details/158510311)
+
++ [一卡通系统数据库改造实践：从异构迁移到稳定运行的三年之路](https://blog.csdn.net/qq_32682301/article/details/158423420)
+
++ [阿里再造“安卓时刻“？Qwen3.5原生多模态架构或重构AI开发范式](https://blog.csdn.net/jiangjunshow/article/details/158415714)
+
++ [实战：手写一个通用Web层鉴权注解，解决水平权限漏洞](https://blog.csdn.net/qq_41840843/article/details/158422329)
+
++ [使用三方库pigeon实现Flutter与鸿蒙原生通信](https://blog.csdn.net/lbcyllqj/article/details/158510277)
+
++ [HarmonyOS 游戏开发实践：按钮 + 文字精准控制详解](https://blog.csdn.net/2401_88937325/article/details/158507905)
+
++ [Claude Code + GLM-5 打造全栈 AI 周公解梦应用](https://blog.csdn.net/weixin_66401877/article/details/158467234)
+
++ [梯度消失问题（Vanishing Gradient Problem）是上世界八十年代和九十年代深度学习神经网络失败的主要原因](https://blog.csdn.net/tongbowen_123/article/details/158416786)
+
++ [一文讲清Skills概念与 OpenClaw 运作机制](https://blog.csdn.net/qq_35082030/article/details/158510164)
+
++ [多模态————Flamingo算法](https://blog.csdn.net/2402_89488435/article/details/158415940)
+
++ [OpenClaw - 01 打造高效的个人助手必备的配置调整](https://blog.csdn.net/yangshangwei/article/details/158394251)
+
++ [5篇RAC前沿论文：从医疗到区块链](https://blog.csdn.net/qq_38998213/article/details/158508387)
+
++ [MongoDB TTL索引：自动清理过期数据的智能机制与配置技巧](https://blog.csdn.net/cui_yonghua/article/details/158512318)
+
++ [0228 双量子CNOT条件关系之门，人若犯我，我必犯人](https://blog.csdn.net/jasonwuliang/article/details/158511599)
+
++ [电影《飞驰人生3》迅雷BT完整下载[5.23GB/7.46GB/MP4]高清BT加长版[HD1280P]](https://blog.csdn.net/kemws/article/details/158418922)
+
++ [k8s部署Prometheus + node_exporter + Grafana + Alertmanager](https://blog.csdn.net/liu_chen_yang/article/details/155443737)
+
++ [bodeplot MATLAB_help文档DeepSeek翻译](https://blog.csdn.net/shallwegzgdj/article/details/158382955)
+
++ [打破同源枷锁：深入理解 postMessage 跨域通信机制](https://blog.csdn.net/lilinhai548/article/details/158422620)
+
