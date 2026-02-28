@@ -231,3 +231,7 @@
 
 + [伊朗一学校遭以色列袭击 造成5名学生死亡](https://news.cctv.com/2026/02/28/ARTIh0fqI5JhcrxLfHG2dauS260228.shtml)
 
++ [伊朗一小学遭导弹袭击 已致40人死亡](https://news.cctv.com/2026/02/28/ARTIfa6egcmIittgwXmhVbMx260228.shtml)
+
++ [伊朗一小学遭导弹袭击 24人死亡](https://news.cctv.com/2026/02/28/ARTIvKY4QPTiPcMkxO3JJjjP260228.shtml)
+

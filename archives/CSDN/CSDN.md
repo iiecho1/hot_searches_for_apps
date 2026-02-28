@@ -229,3 +229,17 @@
 
 + [解决 Windows 下 Docker Desktop 启动失败：从虚拟化报错到成功运行的全流程](https://blog.csdn.net/qq_59306099/article/details/158392635)
 
++ [「Kurator·云原生实战派」主题征文活动获奖公示](https://blog.csdn.net/Kurator/article/details/158503332)
+
++ [AI 进化论：从 Function Calling 到 MCP](https://blog.csdn.net/zxc18344522713/article/details/158501212)
+
++ [【新能源汽车DCDC变换器测试优化全攻略：解决电能质量/发热/过充等核心痛点】](https://blog.csdn.net/weixin_62244995/article/details/158507284)
+
++ [ELK（Elasticsearch+Logstash+Kibana）传统日志采集架构与ELFKK（Elasticsearch+Logstash+Kibana+Filebeat+Kafka）对比](https://blog.csdn.net/jjk_02027/article/details/158381180)
+
++ [【AI编程时代】：RAG技术详解](https://blog.csdn.net/gdpu2400502251/article/details/158460973)
+
++ [使用腾讯云一键部署OpenClaw后如何修改自定义模型](https://blog.csdn.net/metaviii/article/details/158393530)
+
++ [OpenClaw教程（二）—— 部署OpenClaw](https://blog.csdn.net/wal1314520/article/details/158430001)
+
