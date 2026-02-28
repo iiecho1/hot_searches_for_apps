@@ -225,3 +225,9 @@
 
 + [中使馆提醒在卡塔尔中国公民和中资企业加强安全防范措施](https://news.cctv.com/2026/02/28/ARTIXL4Zxhoa6ay33RF1dfOD260228.shtml)
 
++ [以媒：以色列征召2万名预备役人员](https://news.cctv.com/2026/02/28/ARTIX7efdVNi0zPiwfNdzbJh260228.shtml)
+
++ [伊朗伊斯兰革命卫队宣布启动“诚实承诺4号”大规模军事行动](https://news.cctv.com/2026/02/28/ARTI9k5Qbo3NDBaBvwmqfSRY260228.shtml)
+
++ [伊朗一学校遭以色列袭击 造成5名学生死亡](https://news.cctv.com/2026/02/28/ARTIh0fqI5JhcrxLfHG2dauS260228.shtml)
+
