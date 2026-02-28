@@ -165,3 +165,7 @@
 
 + [Oracle平滑迁移到KingbaseES关系数据库的技术实践](https://blog.csdn.net/g310773517/article/details/158429222)
 
++ [Kalman Filtering MATLAB_help文档DeepSeek翻译](https://blog.csdn.net/shallwegzgdj/article/details/158394033)
+
++ [大模型算法（三）：推荐系统架构和评估](https://blog.csdn.net/qq_34687503/article/details/158509839)
+
