@@ -223,3 +223,5 @@
 
 + [以色列特拉维夫遭到多枚伊朗导弹袭击](https://news.cctv.com/2026/02/28/ARTIAxh0lUCDIujaKzVpuA9D260228.shtml)
 
++ [中使馆提醒在卡塔尔中国公民和中资企业加强安全防范措施](https://news.cctv.com/2026/02/28/ARTIXL4Zxhoa6ay33RF1dfOD260228.shtml)
+

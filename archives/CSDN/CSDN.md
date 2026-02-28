@@ -219,3 +219,9 @@
 
 + [flutter_des 适配 HarmonyOS 实战：以 DES 加密解密为例](https://blog.csdn.net/weixin_45822171/article/details/158501605)
 
++ [【线性代数】第一讲：矩阵与矩阵的运算](https://blog.csdn.net/weixin_38357164/article/details/158317847)
+
++ [Spring Cloud 实战攻坚：商品服务核心实现（库存管理 + 缓存设计 + 分布式锁）](https://blog.csdn.net/qq_40303030/article/details/156562967)
+
++ [OpenClaw 企业微信深度对接指南](https://blog.csdn.net/chenbo980/article/details/158496823)
+
