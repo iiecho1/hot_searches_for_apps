@@ -157,3 +157,11 @@
 
 + [打破同源枷锁：深入理解 postMessage 跨域通信机制](https://blog.csdn.net/lilinhai548/article/details/158422620)
 
++ [【亲测有效】2026 国内支付宝/微信支付订阅 ChatGPT Plus：四大实测方案与避坑总结](https://blog.csdn.net/weixin_58441686/article/details/158458151)
+
++ [OpenFang深度体验：Rust驱动的Agent OS本土落地实践](https://blog.csdn.net/xinkuaile/article/details/158509191)
+
++ [Linux下运行目标检测yolo26步骤（包含环境配置+模型运行）](https://blog.csdn.net/m0_66881829/article/details/158466261)
+
++ [Oracle平滑迁移到KingbaseES关系数据库的技术实践](https://blog.csdn.net/g310773517/article/details/158429222)
+
