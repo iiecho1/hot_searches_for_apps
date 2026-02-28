@@ -161,3 +161,15 @@
 
 + [订单系统重构史诗：从单体巨兽到微服务矩阵的演进、数据一致性内核与分布式事务](https://blog.csdn.net/qq_43414012/article/details/158380387)
 
++ [基于深度学习的违章停车检测系统的设计与实现](https://blog.csdn.net/Dev7z/article/details/158395125)
+
++ [《ElasticSearch》06 查询：DSL查询之全文搜索详解](https://blog.csdn.net/qq_33229153/article/details/158466246)
+
++ [Claude Code + GLM-5 打造全栈 AI 周公解梦应用](https://blog.csdn.net/weixin_66401877/article/details/158467234)
+
++ [Cursor 高效安全使用心得-安全增强篇](https://blog.csdn.net/u013255226/article/details/158384844)
+
++ [影院预约系统（threeJS Fastapi html开源）](https://blog.csdn.net/a111776/article/details/158495533)
+
++ [KWDB 3.1.0 单节点读写性能实测：不跑 benchmark，只用脚本说话](https://blog.csdn.net/Mrxiao_bo/article/details/158467945)
+
