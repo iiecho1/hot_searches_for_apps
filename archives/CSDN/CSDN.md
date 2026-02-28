@@ -197,3 +197,15 @@
 
 + [实测｜龙虾机器人（OpenClaw）Windows系统部署全攻略（含避坑指南）](https://blog.csdn.net/wohaiweifaju/article/details/158497818)
 
++ [实测百灵大模型Ling-2.5-1T：混合线性架构下的全能开发与办公新体验](https://blog.csdn.net/2301_80863610/article/details/158499581)
+
++ [Docker 部署 Ollama 全流程指南：支持 CPU/GPU、生产环境可用的工程化实践](https://blog.csdn.net/weixin_45811486/article/details/158429992)
+
++ [SQLiteManager：一个优雅的Qt SQLite数据库操作类](https://blog.csdn.net/kangzerun/article/details/158353457)
+
++ [Flutter-OH插件fps鸿蒙适配实战：从零到一完整指南](https://blog.csdn.net/weixin_45822171/article/details/158498630)
+
++ [欧亚地区2025年网络安全态势综述（下）](https://blog.csdn.net/qq_41432686/article/details/158393410)
+
++ [用Python解码春运：2026年春运迁徙数据可视化实战](https://blog.csdn.net/u014727709/article/details/158424674)
+

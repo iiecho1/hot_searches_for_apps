@@ -211,3 +211,11 @@
 
 + [新华社快讯：以色列宣布袭击伊朗](https://news.cctv.com/2026/02/28/ARTIThq6dzfZ1Tn39lspBNRJ260228.shtml)
 
++ [特朗普称美军已开始对伊朗进行军事打击 将彻底摧毁其海军](https://news.cctv.com/2026/02/28/ARTIc2Z8p4sJifWA8LtGe6eV260228.shtml)
+
++ [以方消息称伊朗政府所有高级官员都是袭击目标](https://news.cctv.com/2026/02/28/ARTIyk3djyAcFeOTcDSmKLyk260228.shtml)
+
++ [伊朗议会高官：结局已不再由以色列掌控](https://news.cctv.com/2026/02/28/ARTI0PGhH4SVfKbmdSVvcDw8260228.shtml)
+
++ [伊朗官员称正为“毁灭性”报复行动做准备](https://news.cctv.com/2026/02/28/ARTI7pk5AkE6e2SqsWSL29Dz260228.shtml)
+
