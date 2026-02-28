@@ -251,3 +251,7 @@
 
 + [时序数据库选型指南：从大数据架构视角深度解析 Apache IoTDB](https://blog.csdn.net/u014727709/article/details/158509780)
 
++ [Spring Cloud Alibaba 2026 最新实战手册](https://blog.csdn.net/2401_86326742/article/details/158510166)
+
++ [Go-Zero微服务实战：高并发场景下的学生认证系统设计与实现](https://blog.csdn.net/2302_80067378/article/details/158463906)
+
