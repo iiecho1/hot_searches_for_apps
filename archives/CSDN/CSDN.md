@@ -101,3 +101,21 @@
 
 + [OpenClaw 企业微信深度对接指南](https://blog.csdn.net/chenbo980/article/details/158496823)
 
++ [Oracle替换优选金仓：兼容机制、迁移方案与性能调优全攻略](https://blog.csdn.net/lrq13965748542/article/details/158503290)
+
++ [从 0 开始理解 Spring 的核心思想 —— IoC 和 DI（2）](https://blog.csdn.net/m0_62475782/article/details/158390795)
+
++ [PostgreSQL - 并发控制：乐观锁与悲观锁的实现](https://blog.csdn.net/qq_41187124/article/details/157473169)
+
++ [如何轻松避免网络负载过大](https://blog.csdn.net/2509_94812818/article/details/157096101)
+
++ [RAG 五大应用场景（三）企业级 Code RAG 与代码库 Copilot 深度架构指南](https://blog.csdn.net/liu1983robin/article/details/158394636)
+
++ [前端单元测试：构建高质量代码的基石](https://blog.csdn.net/weixin_42554191/article/details/158387055)
+
++ [Ext 系列文件系统进阶：inode 映射、路径解析、挂载与软硬链接全解析](https://blog.csdn.net/2503_91389547/article/details/157812306)
+
++ [MATLAB MAB 5.0建模规范-Simulink规范 第1部分（详细）](https://blog.csdn.net/weixin_45475298/article/details/158500409)
+
++ [【Unity 实用工具篇】 | Unity物体破碎效果 OpenFracture](https://blog.csdn.net/zhangay1998/article/details/157653686)
+
