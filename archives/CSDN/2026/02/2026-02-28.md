@@ -209,3 +209,13 @@
 
 + [用Python解码春运：2026年春运迁徙数据可视化实战](https://blog.csdn.net/u014727709/article/details/158424674)
 
++ [ 附录：全栈体系图（硬件 → 架构 → OS → 应用）](https://blog.csdn.net/weixin_53066395/article/details/158011575)
+
++ [KaiwuDB+CodeArts 智能体，让ai快速构建一个智能家居本地化数据处理系统](https://blog.csdn.net/weixin_61944817/article/details/157970152)
+
++ [Ling Studio深度体验：一站式AI生产力平台完全指南](https://blog.csdn.net/qq_38881495/article/details/158499112)
+
++ [【无人机通信】基于Matlab模拟地面控制站与无人机之间的通信数据传输，了解加密算法在实时通信中的性能与安全性表现](https://blog.csdn.net/qq_59747472/article/details/158499588)
+
++ [flutter_des 适配 HarmonyOS 实战：以 DES 加密解密为例](https://blog.csdn.net/weixin_45822171/article/details/158501605)
+
