@@ -169,3 +169,7 @@
 
 + [大模型算法（三）：推荐系统架构和评估](https://blog.csdn.net/qq_34687503/article/details/158509839)
 
++ [YOLO26 多任务统一架构：检测 / 分割 / 姿态 / OBB 设计](https://blog.csdn.net/weixin_52908342/article/details/158522937)
+
++ [基于 LSTM 的共享单车需求预测（三）：系统实现与功能模块集成](https://blog.csdn.net/m0_72914849/article/details/158512474)
+
