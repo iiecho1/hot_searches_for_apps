@@ -195,3 +195,19 @@
 
 + [泽连斯基：若俄不同意乌美俄元首会晤 俄乌冲突将会“旷日持久”](https://news.cctv.com/2026/02/28/ARTIJXRLsztkPVoOtLVg0W7b260228.shtml)
 
++ [哈梅内伊目前不在德黑兰 已被转移至安全地点](https://news.cctv.com/2026/02/28/ARTIK8DNt2bENNHGnrVgLP68260228.shtml)
+
++ [初步报告显示：美以轰炸目标是德黑兰的总统府和政府大楼](https://news.cctv.com/2026/02/28/ARTIX2syxnir0qhZiJaESZpP260228.shtml)
+
++ [以安全官员称对伊朗的袭击是美以共同行动结果](https://military.cctv.com/2026/02/28/ARTIyD9AMo5MRzDH66ixxzHX260228.shtml)
+
++ [玻利维亚军机降落事故已造成15死28伤](https://news.cctv.com/2026/02/28/ARTIbOE4HnaBH7BJl1DlAOSH260228.shtml)
+
++ [伊朗首都听到爆炸声 以色列宣布袭击伊朗](https://news.cctv.com/2026/02/28/ARTIz8pL49wbW0hHNIZMhCdi260228.shtml)
+
++ [伊朗首都德黑兰发生爆炸](https://news.cctv.com/2026/02/28/ARTIiasoAwMsl7E7aqKg12kY260228.shtml)
+
++ [以色列多地响起防空警报](https://news.cctv.com/2026/02/28/ARTIhS8UldcfFinrsgSDDyc6260228.shtml)
+
++ [新华社快讯：以色列宣布袭击伊朗](https://news.cctv.com/2026/02/28/ARTIThq6dzfZ1Tn39lspBNRJ260228.shtml)
+
