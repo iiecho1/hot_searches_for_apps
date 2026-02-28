@@ -189,3 +189,9 @@
 
 + [阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”](https://news.cctv.com/2026/02/28/ARTILlgMtTYoSIDtzOdOeF7I260228.shtml)
 
++ [克林顿就爱泼斯坦案接受问询 称“没看见”“没做错”](https://news.cctv.com/2026/02/28/ARTIg7VQS0Oiv1HTYsRAtWCl260228.shtml)
+
++ [联合国举行《未来契约》对话会 中方呼吁旗帜鲜明践行多边主义](https://news.cctv.com/2026/02/28/ARTIR7g17ESg45En1B8rTaeA260228.shtml)
+
++ [泽连斯基：若俄不同意乌美俄元首会晤 俄乌冲突将会“旷日持久”](https://news.cctv.com/2026/02/28/ARTIJXRLsztkPVoOtLVg0W7b260228.shtml)
+

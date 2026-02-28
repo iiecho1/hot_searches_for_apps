@@ -179,3 +179,21 @@
 
 + [Scrapy 框架怎么配置免费代理 IP？爬虫防封实操教程（附配置代码）](https://blog.csdn.net/tang77789/article/details/158384963)
 
++ [谷歌刚发的Nano Banana 2，一手深度测评，附教程](https://blog.csdn.net/lwcwam/article/details/158498371)
+
++ [线性代数与AI的关系](https://blog.csdn.net/AngelCryToo/article/details/158391885)
+
++ [为鸿蒙开发者写一个 nvm：hmvm 的设计与实现](https://blog.csdn.net/Robin951/article/details/158471067)
+
++ [基于YOLO26深度学习的路面积水智能检测分割与分析系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/158496648)
+
++ [【无人机论文复现】空地多无人平台协同路径规划技术研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/158467126)
+
++ [Ultralytics-YOLO项目介绍(包含YOLOV8、YOLOV10、YOLO11、YOLO12、YOLO26)](https://blog.csdn.net/qq_37706472/article/details/158498001)
+
++ [Flask 和 Nginx 的区别与联系:《Flask和Nginx到底啥关系？用餐厅比喻讲得明明白白》](https://blog.csdn.net/qq_38998213/article/details/158497951)
+
++ [【电磁】多尺度、多物理过程电子-离子动力学Matlab程序，库仑相互作用、弹性碰撞、旋转 振动激发、解离附着、水合电子形成、离子捕获](https://blog.csdn.net/matlab_dingdang/article/details/158499655)
+
++ [实测｜龙虾机器人（OpenClaw）Windows系统部署全攻略（含避坑指南）](https://blog.csdn.net/wohaiweifaju/article/details/158497818)
+
