@@ -195,3 +195,15 @@
 
 + [【Spring Cloud】](https://blog.csdn.net/qq_74776071/article/details/158461047)
 
++ [MongoDB文本索引优化：构建高效全文搜索引擎的实用指南](https://blog.csdn.net/cui_yonghua/article/details/158512386)
+
++ [Anthropic突然开火：中国大模型被指大规模蒸馏攻击](https://blog.csdn.net/2401_83830408/article/details/158387807)
+
++ [OpenClaw升级后OpenClaw和飞书“未建立有效的长链接“的问题修复过程](https://blog.csdn.net/tinygone/article/details/158472484)
+
++ [Java 部署：Jenkins Pipeline 构建 Java 项目（自动化）](https://blog.csdn.net/qq_41187124/article/details/157472404)
+
++ [Rust 沙箱进阶：编译时智能扫描增强与内存开销深度分析](https://blog.csdn.net/sinat_25866835/article/details/158512092)
+
++ [Qt AFSim雷达态势显控终端](https://blog.csdn.net/ly305750665/article/details/157700163)
+

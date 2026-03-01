@@ -195,3 +195,5 @@
 
 + [伊朗最高领袖哈梅内伊遇袭身亡](https://news.cctv.com/2026/03/01/ARTIshR6x8gN8qSNMzcHGP7a260301.shtml)
 
++ [外交部提醒在伊朗中国公民尽快撤离](https://news.cctv.com/2026/03/01/ARTI9wBza9kOTKqZFzU1TCgf260301.shtml)
+
