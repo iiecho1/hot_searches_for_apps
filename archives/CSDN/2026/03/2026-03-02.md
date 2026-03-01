@@ -121,3 +121,5 @@
 
 + [OpenClaw Windows部署，并接入飞书教程](https://blog.csdn.net/DValc/article/details/158498029)
 
++ [公益云打印方案：基于CUPS的微信小程序远程打印服务](https://blog.csdn.net/Tzi_Shue/article/details/158535382)
+
