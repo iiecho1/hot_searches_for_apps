@@ -161,3 +161,17 @@
 
 + [美国前总统克林顿2月27日接受国会问询](https://news.cctv.com/2026/02/28/ARTI3O83vPG4hJgGVq3xzPe2260228.shtml)
 
++ [美得州奥斯汀大规模枪击案被列为“潜在恐怖主义案件”](https://news.cctv.com/2026/03/02/ARTIOfmpDVusPylh7N63jvEH260302.shtml)
+
++ [伊朗南部遭袭小学遇难人数升至165人](https://news.cctv.com/2026/03/02/ARTItTiYnICsGRGN6jfCSG7k260302.shtml)
+
++ [伊朗外长回应美总统“不要报复”言论：伊方有权自卫](https://news.cctv.com/2026/03/02/ARTIEg9uG8dutiEyLSfZozTe260302.shtml)
+
++ [以军称已动员10万预备役人员 并在边境增派地面部队](https://news.cctv.com/2026/03/02/ARTITa8odsMXxT1XiJDQ6vOb260302.shtml)
+
++ [美总统称美军在对伊行动中打死48名伊朗指挥官](https://news.cctv.com/2026/03/02/ARTIcc3FgXuI7mv2CrNS27ev260302.shtml)
+
++ [伊朗外长：伊方无意攻击邻国政府 而是打击美军基地](https://news.cctv.com/2026/03/02/ARTIxkEFhhlBnkzJdchK3Ns8260302.shtml)
+
++ [为稳定提供公共服务 伊朗政府成立多个专家委员会](https://news.cctv.com/2026/03/02/ARTI8zIgf4HWSeBDdAw02MI7260302.shtml)
+

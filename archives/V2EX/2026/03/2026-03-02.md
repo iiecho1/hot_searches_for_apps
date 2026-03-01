@@ -21,3 +21,5 @@
 
 + [小型的技术型公司怎么利用好 ai coding](https://www.v2ex.com/t/1194937)
 
++ [Netcatty - 开源免费的 SSH 终端软件](https://www.v2ex.com/t/1195002)
+
