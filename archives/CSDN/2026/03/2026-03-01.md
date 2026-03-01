@@ -225,3 +225,9 @@
 
 + [MiniMax Agent 全新 MaxClaw 模式实战：5 分钟把MaxClaw 接入飞书（超详细教程）](https://blog.csdn.net/X_11_sj/article/details/158508804)
 
++ [【LSTM回归预测】基于注意力机制的卷积神经网络结合双向长短记忆神经网络LSTM-Multihead-Attention多变量时序预测附matlab代码](https://blog.csdn.net/m0_57702748/article/details/158538225)
+
++ [HarmonyOS 后台任务全解：如何让应用在手机与 PC 上持续可靠运行](https://blog.csdn.net/2501_93573294/article/details/158508583)
+
++ [【大模型】2026年大模型关键核心技术全景解析：从推理智能体到多模态原生架构](https://blog.csdn.net/wuyoudeyuer/article/details/158507875)
+

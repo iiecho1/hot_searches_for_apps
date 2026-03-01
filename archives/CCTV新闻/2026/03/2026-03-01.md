@@ -211,3 +211,5 @@
 
 + [美以打击伊朗24小时后，局势如何？最新消息汇总](https://news.cctv.com/2026/03/01/ARTI1JMNHTz0Zbbvi67o9MG0260301.shtml)
 
++ [印度发生两起爆炸事故造成至少38人丧生](https://news.cctv.com/2026/03/01/ARTIEWKLQ2ekLM8mYZD5vfjx260301.shtml)
+
