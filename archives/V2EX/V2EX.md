@@ -51,3 +51,9 @@
 
 + [大家都是如何从开车小白成长起来的](https://www.v2ex.com/t/1194921)
 
++ [想买个美区礼品卡怎么这么费劲了](https://www.v2ex.com/t/1194957)
+
++ [Skill、MCP 等等 AI 外围工具，本质是 markdown 小作文吗](https://www.v2ex.com/t/1194908)
+
++ [小型的技术型公司怎么利用好 ai coding](https://www.v2ex.com/t/1194937)
+
