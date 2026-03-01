@@ -215,3 +215,7 @@
 
 + [5-监控：es的https和kibana的RBAC](https://blog.csdn.net/weixin_73615442/article/details/157512925)
 
++ [《计算机视觉：模型、学习和推理》第 16 章-多摄像机系统](https://blog.csdn.net/2302_80961196/article/details/158503804)
+
++ [Hadoop2 - MapReduce框架原理](https://blog.csdn.net/hk000001/article/details/158507945)
+
