@@ -251,3 +251,5 @@
 
 + [3PC（三阶段提交）详解：2PC的改进与局限](https://blog.csdn.net/qq_41840843/article/details/158389413)
 
++ [微服务的“通讯录“：深度解析 Consul、Etcd 与 Zookeeper 的服务发现机制](https://blog.csdn.net/windowshht/article/details/158495610)
+
