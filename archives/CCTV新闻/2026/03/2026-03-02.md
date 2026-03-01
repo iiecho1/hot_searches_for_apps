@@ -203,3 +203,21 @@
 
 + [以军称完成对伊朗首都德黑兰的新一轮空袭](https://news.cctv.com/2026/03/02/ARTIXDodLzHLQCsnLofYDjZi260302.shtml)
 
++ [欧盟宣布将增派舰艇 加强红海地区护航行动](https://news.cctv.com/2026/03/02/ARTIsvtCFm26OJlzIfxgkQ6r260302.shtml)
+
++ [伊朗多地共7个医疗中心遭美以袭击](https://news.cctv.com/2026/03/02/ARTIbGom0mWKZZaSchltQMQZ260302.shtml)
+
++ [英法德联合声明：可能对伊朗采取“必要的防御行动”](https://news.cctv.com/2026/03/02/ARTIcV5FqA8qn7GPM2ODABA9260302.shtml)
+
++ [特朗普：对伊朗军事行动可能持续约4周](https://news.cctv.com/2026/03/02/ARTIzO7L6qmzEiH0m2NCD43y260302.shtml)
+
++ [伊朗伊斯兰革命卫队称已击落二十余架美以无人机](https://news.cctv.com/2026/03/02/ARTIbMEZjHcoPfxPoSLnsF6w260302.shtml)
+
++ [美方称对伊朗军事行动未涉及核设施](https://news.cctv.com/2026/03/02/ARTIyZNyIU7GG6aeRpbcHSg9260302.shtml)
+
++ [美国辛辛那提一音乐厅发生枪击事件 9人受伤](https://news.cctv.com/2026/03/02/ARTImRkS7UZNoUVUuCskDzHj260302.shtml)
+
++ [伊朗国家电视台建筑遭袭 两名工作人员死亡](https://news.cctv.com/2026/03/02/ARTIHkkUEHMHbcEQERSZlcwt260302.shtml)
+
++ [美军方称摧毁伊朗伊斯兰革命卫队总部](https://news.cctv.com/2026/03/02/ARTI4cAccv9PBypbEVbQ7BeP260302.shtml)
+
