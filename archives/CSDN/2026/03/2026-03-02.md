@@ -123,3 +123,9 @@
 
 + [公益云打印方案：基于CUPS的微信小程序远程打印服务](https://blog.csdn.net/Tzi_Shue/article/details/158535382)
 
++ [SP3近似杂化轨道3d stl模型python生成](https://blog.csdn.net/ZengZiTudor/article/details/158556081)
+
++ [网赚游戏商业模式深度剖析：广告变现、流量逻辑与 IAA 本质](https://blog.csdn.net/ThinkingData/article/details/158498487)
+
++ [Linux 磁盘管理](https://blog.csdn.net/MM2286088551/article/details/158502894)
+
