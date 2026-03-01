@@ -213,3 +213,11 @@
 
 + [印度发生两起爆炸事故造成至少38人丧生](https://news.cctv.com/2026/03/01/ARTIEWKLQ2ekLM8mYZD5vfjx260301.shtml)
 
++ [伊朗总统府：佩泽希齐扬非常安全](https://news.cctv.com/2026/03/01/ARTIib1qaEFGgndFApsPmSbH260301.shtml)
+
++ [以色列博物馆称已转移重要文物 场馆将关闭](https://news.cctv.com/2026/03/01/ARTIyGGdDliqAwCszBFHpFoa260301.shtml)
+
++ [普京就哈梅内伊遇害向伊朗总统致哀](https://news.cctv.com/2026/03/01/ARTIavDjqByIHvMeSEuonoZs260301.shtml)
+
++ [中国驻阿联酋使领馆再次提醒在阿中国公民进一步加强安全防范](https://news.cctv.com/2026/03/01/ARTIZtNACmtnu72VU3R3hXma260301.shtml)
+
