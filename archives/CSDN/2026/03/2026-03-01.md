@@ -247,3 +247,7 @@
 
 + [ARM Linux 驱动开发篇--- Linux 并发与竞争全解析（原子操作/自旋锁/信号量/互斥体）--- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158500979)
 
++ [基于ISA-95对象模型的8个核心指标解析（运营+经营）](https://blog.csdn.net/neweastsun/article/details/158541828)
+
++ [3PC（三阶段提交）详解：2PC的改进与局限](https://blog.csdn.net/qq_41840843/article/details/158389413)
+

@@ -69,3 +69,5 @@
 
 + [最近朋友想弄个 tg 号，怎么弄](https://www.v2ex.com/t/1194971)
 
++ [openclaw 用来下电影实在太舒服了](https://www.v2ex.com/t/1194944)
+
