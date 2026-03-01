@@ -219,3 +219,9 @@
 
 + [Hadoop2 - MapReduce框架原理](https://blog.csdn.net/hk000001/article/details/158507945)
 
++ [How to Grow a Linux Partition to Fill a Disk with growpart](https://blog.csdn.net/allway2/article/details/158508743)
+
++ [[LangChain语言模型组件的设计与实现]消息——Agent与模型交互的媒介](https://blog.csdn.net/JaydenAI/article/details/158500343)
+
++ [MiniMax Agent 全新 MaxClaw 模式实战：5 分钟把MaxClaw 接入飞书（超详细教程）](https://blog.csdn.net/X_11_sj/article/details/158508804)
+
