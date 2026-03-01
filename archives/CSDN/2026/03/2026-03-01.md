@@ -207,3 +207,11 @@
 
 + [Qt AFSim雷达态势显控终端](https://blog.csdn.net/ly305750665/article/details/157700163)
 
++ [项目管理在软件工程中的协作赋能作用——工具与技术如何提升团队协同效率](https://blog.csdn.net/2601_95346192/article/details/158511095)
+
++ [后Transformer架构的理论探索：状态空间模型与线性注意力的兴起](https://blog.csdn.net/nmdbbzcl/article/details/158511360)
+
++ [智能家居物联网平台](https://blog.csdn.net/2301_78328085/article/details/158510624)
+
++ [5-监控：es的https和kibana的RBAC](https://blog.csdn.net/weixin_73615442/article/details/157512925)
+

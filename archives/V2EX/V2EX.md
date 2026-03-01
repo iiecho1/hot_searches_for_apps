@@ -43,3 +43,11 @@
 
 + [坐标武汉，是买房，还是还贷？](https://www.v2ex.com/t/1194810)
 
++ [Conex - 现代化 SSH 客户端， Termius 平替](https://www.v2ex.com/t/1194906)
+
++ [应用程序会不会成为历史？](https://www.v2ex.com/t/1194854)
+
++ [刷 LineageOS 等第三方 ROM 的手机，短信日历常用 APP 都用的什么代替品？](https://www.v2ex.com/t/1194927)
+
++ [大家都是如何从开车小白成长起来的](https://www.v2ex.com/t/1194921)
+
