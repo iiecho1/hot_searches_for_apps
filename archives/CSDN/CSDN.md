@@ -173,3 +173,11 @@
 
 + [基于 LSTM 的共享单车需求预测（三）：系统实现与功能模块集成](https://blog.csdn.net/m0_72914849/article/details/158512474)
 
++ [基于虎鲸优化算法的LSTM网络模型(KWA-LSTM)的一维时间序列预测matlab仿真](https://blog.csdn.net/soft_algorithm/article/details/158530988)
+
++ [《计算机视觉：模型、学习和推理》第 13 章-图像预处理与特征提取](https://blog.csdn.net/2302_80961196/article/details/158464446)
+
++ [k8s控制器](https://blog.csdn.net/nianshili/article/details/158458969)
+
++ [Flutter三方库 carousel_slider 适配 OpenHarmony —— 实现基本文本轮播](https://blog.csdn.net/nothing49199/article/details/158511123)
+
