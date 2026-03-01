@@ -171,3 +171,27 @@
 
 + [阿富汗方面称击毙110名巴基斯坦士兵](https://news.cctv.com/2026/03/01/ARTITAB0knqTmju6H9IxoSZr260301.shtml)
 
++ [伊朗方面称哈梅内伊“在工作岗位上殉职”](https://news.cctv.com/2026/03/01/ARTIFGzxFtNhkPF7QDtkVrrP260301.shtml)
+
++ [伊朗伊斯兰革命卫队总司令等高官在美以袭击中身亡](https://news.cctv.com/2026/03/01/ARTImS1OAhAUXI8iSqgxfOYx260301.shtml)
+
++ [伊朗方面称伊朗总统等将领导国家](https://news.cctv.com/2026/03/01/ARTIFEYccJNfs4Ii4de2M4oq260301.shtml)
+
++ [伊朗伊斯兰革命卫队就哈梅内伊殉职发表声明](https://news.cctv.com/2026/03/01/ARTI83bQVdNN10UTEeqVSVMG260301.shtml)
+
++ [据称伊朗防长等约40名伊朗官员在袭击中死亡](https://news.cctv.com/2026/03/01/ARTI4SitlJPfe53t6eTksyMA260301.shtml)
+
++ [美官员：美以在哈梅内伊与其高级助手举行会议时发动袭击](https://news.cctv.com/2026/03/01/ARTIFLmvagL9hBf55d8SCzbX260301.shtml)
+
++ [伊朗伊斯兰革命卫队：“历史上最猛烈的进攻行动”即将开始](https://news.cctv.com/2026/03/01/ARTIdg4xXDY7nPZ0EhLWFoda260301.shtml)
+
++ [哈梅内伊四位亲属据称在袭击中身亡](https://news.cctv.com/2026/03/01/ARTIX0xZInN96sD7yeqOYSEE260301.shtml)
+
++ [漫观天下丨AI漫画：司法裁决拦不住美加税野心？](https://news.cctv.com/2026/03/01/ARTIas9vuZM0yn3Qk19ynIET260301.shtml)
+
++ [快评丨穷兵黩武带不来真正的安全](https://news.cctv.com/2026/03/01/ARTIT5isBAwQvs0FTYfu6Dxv260301.shtml)
+
++ [伊朗宣布自1日起开始为期40天的国家哀悼](https://news.cctv.com/2026/03/01/ARTIBrjqCRLV6iEIJ6I1llEp260301.shtml)
+
++ [伊朗最高领袖哈梅内伊遇袭身亡](https://news.cctv.com/2026/03/01/ARTIshR6x8gN8qSNMzcHGP7a260301.shtml)
+
