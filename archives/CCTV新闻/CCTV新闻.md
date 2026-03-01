@@ -175,3 +175,29 @@
 
 + [为稳定提供公共服务 伊朗政府成立多个专家委员会](https://news.cctv.com/2026/03/02/ARTI8zIgf4HWSeBDdAw02MI7260302.shtml)
 
++ [伊朗军方称对美以目标已发起第九轮“真实承诺4”打击](https://news.cctv.com/2026/03/02/ARTINzWWPTdTp14vhflJndPB260302.shtml)
+
++ [白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话](https://news.cctv.com/2026/03/02/ARTIu2xUYUTY56es7ZARhL9G260302.shtml)
+
++ [阿联酋宣布关闭驻伊朗德黑兰大使馆](https://news.cctv.com/2026/03/02/ARTI13OzSucvlP7hVFvWwLVP260302.shtml)
+
++ [伊朗司法总监宣布临时领导委员会已依法成立](https://news.cctv.com/2026/03/02/ARTIMGONue0ob3wd88arbcF4260302.shtml)
+
++ [“非洲之傲”豪华列车在纳米比亚脱轨致2死4伤](https://news.cctv.com/2026/03/02/ARTIUQ62amsLMdUbaNJMqHJK260302.shtml)
+
++ [伊朗南部遭袭小学搜救工作结束 最终确认165人遇难](https://news.cctv.com/2026/03/02/ARTIX0jfnZb7UbJXydgArfbT260302.shtml)
+
++ [伊朗外交部发言人：暗杀哈梅内伊是国际罪行](https://news.cctv.com/2026/03/02/ARTIQigeJYbquZf0yI4MR6k3260302.shtml)
+
++ [受袭击影响 伊朗多个电视频道播出信号消失](https://news.cctv.com/2026/03/02/ARTI4HYeq9pURUNtuwg3YIVt260302.shtml)
+
++ [伊朗称若能源设施遭袭 该地区所有国家油气设施都将被毁](https://news.cctv.com/2026/03/02/ARTImHXxZ3kCk8PXAhyGwcSB260302.shtml)
+
++ [特朗普称美方“基本摧毁”伊朗海军总部](https://news.cctv.com/2026/03/02/ARTI6QjYry8EdyTYjseEbZ9u260302.shtml)
+
++ [伊朗外长：伊朗对任何有助于缓解紧张局势的努力持开放态度](https://news.cctv.com/2026/03/02/ARTIgSKzdOgEy0AlPj1koN5A260302.shtml)
+
++ [以军称已完成对伊朗各条战线所有高级领导层“清除行动”](https://news.cctv.com/2026/03/02/ARTIo5hXEpuy1nw3wN6q3VDP260302.shtml)
+
++ [特朗普称同意与伊朗新领导层对话](https://news.cctv.com/2026/03/02/ARTIp21GuwiknfBFt035Wv07260302.shtml)
+
