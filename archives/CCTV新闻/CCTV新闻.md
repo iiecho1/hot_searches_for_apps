@@ -241,3 +241,11 @@
 
 + [伊朗最高国家安全委员会秘书：不会与美国进行谈判](https://news.cctv.com/2026/03/02/ARTIcpoVikalaewitplF666T260302.shtml)
 
++ [美官员承认无情报显示伊朗计划“先发制人”打击美军](https://news.cctv.com/2026/03/02/ARTIz8DUQioV3HGhYyWQefox260302.shtml)
+
++ [多哈传出连续爆炸声 卡塔尔再次发布全国紧急警报](https://news.cctv.com/2026/03/02/ARTIg1gw8XA0GCBUYhAI2ktS260302.shtml)
+
++ [总台记者获悉：伊朗前总统内贾德的死亡消息被其家属否认](https://news.cctv.com/2026/03/02/ARTIMTgEUXO1j6g5llvuyL3l260302.shtml)
+
++ [中国驻伊朗大使馆通报：在伊公民以下撤离通道可通行](https://news.cctv.com/2026/03/02/ARTITmQfxfqRXhIfCHGoAhOg260302.shtml)
+
