@@ -165,3 +165,17 @@
 
 + [南非约翰内斯堡建筑坍塌事故已致6人死亡](https://news.cctv.com/2026/03/03/ARTI99ZFMGzmsmuGVXoTCtPe260303.shtml)
 
++ [南苏丹北部暴力冲突致死人数升至169人](https://news.cctv.com/2026/03/03/ARTIdA8ClZTsgCzL8w8HBo2j260303.shtml)
+
++ [法国外长：美以对伊行动未经安理会审议 不具合法性](https://news.cctv.com/2026/03/03/ARTI7BYP2k9gZeDBrygCTclR260303.shtml)
+
++ [伊朗开展“真实承诺-4”行动第12轮攻击](https://news.cctv.com/2026/03/03/ARTIofsHoJ5W7pd0AElpoVLR260303.shtml)
+
++ [特朗普称对伊朗军事行动可能持续4至5周](https://news.cctv.com/2026/03/03/ARTIgEo3gcjtFqTJR2Pb1qNK260303.shtml)
+
++ [国际原子能机构总干事表示未发现伊朗核武制造计划](https://news.cctv.com/2026/03/03/ARTIibupWJD7sZzfxq2nap0H260303.shtml)
+
++ [以军称打击黎巴嫩真主党70个军事目标](https://news.cctv.com/2026/03/03/ARTISrsphQTAN5QIyGuU2B3C260303.shtml)
+
++ [以交通部长称计划下周开始分阶段重新开放领空](https://news.cctv.com/2026/03/03/ARTIkSVGsd2acOKN0aW9dO6Z260303.shtml)
+
