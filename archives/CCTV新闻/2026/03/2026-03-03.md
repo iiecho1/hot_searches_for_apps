@@ -161,3 +161,7 @@
 
 + [伊朗方面确认武装部队总参谋长穆萨维身亡](https://news.cctv.com/2026/03/01/ARTI0K55s2UQo30Ndm7GsGM9260301.shtml)
 
++ [德国和法国发表联合声明 将加强核领域合作](https://news.cctv.com/2026/03/03/ARTIPCxaHku4CFpWeWbWMuuw260303.shtml)
+
++ [南非约翰内斯堡建筑坍塌事故已致6人死亡](https://news.cctv.com/2026/03/03/ARTI99ZFMGzmsmuGVXoTCtPe260303.shtml)
+
