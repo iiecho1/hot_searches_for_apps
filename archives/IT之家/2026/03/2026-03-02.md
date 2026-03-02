@@ -25,3 +25,27 @@
 
 + [徕卡设计师亲自操刀：小米 17 Ultra 徕卡版手机全新「黑银色」首发亮相，承袭 M 系列相机语言](https://m.ithome.com/html/924761.htm)
 
++ [万志强：魅族 23 已完成开发但不会推向市场，后续 Flyme 仍提供基本维护](https://m.ithome.com/html/924861.htm)
+
++ [2026 年 2 月汽车销量 / 交付榜出炉：上汽集团 269465 辆第一、比亚迪 190190 辆新能源销冠](https://m.ithome.com/html/924866.htm)
+
++ [豆瓣豆品运营失误“满 200 减 200”被狂薅羊毛，官方回应称无法承受巨额损失、将全额退款并补偿 20 元红包](https://m.ithome.com/html/925022.htm)
+
++ [比亚迪：将于 3 月 5 日召开“颠覆性”技术发布会](https://m.ithome.com/html/925001.htm)
+
++ [阿里巴巴大模型品牌统一为千问](https://m.ithome.com/html/924975.htm)
+
++ [2001 遇上 2021：海外网友制作“WinXP 风”Win11 壁纸](https://m.ithome.com/html/924863.htm)
+
++ [荣耀机器人手机 Robot Phone 亮相 MWC 2026：3 轴云台 + 阿莱合作，具身智能加持的 AI 终端新形态](https://m.ithome.com/html/924856.htm)
+
++ [女子捡 6000 元手机 4 个月未还且弄丢数据、失主妙招定位追踪，法院判决出炉](https://m.ithome.com/html/924905.htm)
+
++ [华为终端：尊界 S800 首发搭载全新一代激光雷达，全球量产最高线束](https://m.ithome.com/html/924893.htm)
+
++ [荣耀 MagicBook Pro 14 2026 笔记本海外发布：至高可选酷睿 Ultra X9 388H 处理器，14.6 英寸 OLED 触屏](https://m.ithome.com/html/924857.htm)
+
++ [卢伟冰谈存储涨价：史无前例，预计涨到 2027 年底，目前小米没有面临缺货现象](https://m.ithome.com/html/925116.htm)
+
++ [苹果暂时关闭阿联酋全部 5 家 Apple Store 零售店，至少持续至 3 月 4 日](https://m.ithome.com/html/924873.htm)
+

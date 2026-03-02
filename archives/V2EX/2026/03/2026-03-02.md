@@ -45,3 +45,9 @@
 
 + [Claude Code, openai codex 送 20 刀余额，楼层抽奖 100 刀余额，可接 OpenClaw🦞龙虾](https://www.v2ex.com/t/1195195)
 
++ [除湿机真是好东西啊，后悔没早点买](https://www.v2ex.com/t/1195119)
+
++ [说说春节期间结婚，在江西遇到的一些事情，大家看看，不喜勿喷！](https://www.v2ex.com/t/1195147)
+
++ [2025 及历年个人年度好物推荐](https://www.v2ex.com/t/1195070)
+
