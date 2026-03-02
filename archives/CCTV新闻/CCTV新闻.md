@@ -249,3 +249,5 @@
 
 + [中国驻伊朗大使馆通报：在伊公民以下撤离通道可通行](https://news.cctv.com/2026/03/02/ARTITmQfxfqRXhIfCHGoAhOg260302.shtml)
 
++ [米价上涨 韩国政府将紧急投放15万吨储备米](https://news.cctv.com/2026/03/02/ARTIKl5TyZVYjvQ6o0fRa8Xn260302.shtml)
+
