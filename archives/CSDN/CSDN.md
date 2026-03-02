@@ -197,3 +197,21 @@
 
 + [Kotlin函数进阶：解锁可变参数与局部函数的奇妙用法](https://blog.csdn.net/qq_32890771/article/details/158543213)
 
++ [视频孪生红海格局分析——从展示平台竞争到空间计算底座跃迁的产业拐点](https://blog.csdn.net/2601_95353235/article/details/158506057)
+
++ [大模型SFT微调技术——Prompt](https://blog.csdn.net/ccsss22/article/details/158575670)
+
++ [kingbase备份与恢复实战（二）—— sys_dump库级逻辑备份与恢复（Windows详细步骤）](https://blog.csdn.net/2302_78391795/article/details/158580011)
+
++ [STL深度解析：仿函数 --- 从概念到实战](https://blog.csdn.net/weixin_66776566/article/details/158542096)
+
++ [Flutter三方库 stop_watch_timer 适配 OpenHarmony —— 实现秒表计时](https://blog.csdn.net/2301_79166266/article/details/158545282)
+
++ [【前端实战】零依赖文本处理工具开发教程（HTML+CSS+JS）](https://blog.csdn.net/u014411348/article/details/158466019)
+
++ [Python依赖漏洞自动扫描工具](https://blog.csdn.net/qq_18529581/article/details/158545817)
+
++ [websocketpp 全面使用教程：C++ WebSocket 开发核心](https://blog.csdn.net/Small_entreprene/article/details/158432212)
+
++ [Flutter三方库 shadcn_ui 适配 OpenHarmony —— 实现复选框](https://blog.csdn.net/TinYeeCheung/article/details/158544894)
+
