@@ -187,3 +187,13 @@
 
 + [OpenClaw 企业微信深度对接指南](https://blog.csdn.net/chenbo980/article/details/158496823)
 
++ [Spark Streaming Direct方式深度解析：原理、优势与Exactly-Once实现](https://blog.csdn.net/qq_41840843/article/details/158463767)
+
++ [【Spring6笔记】 - 3 - Bean的作用域](https://blog.csdn.net/Zzz2608440484/article/details/158538781)
+
++ [带你深入了解Agent是如何工作的](https://blog.csdn.net/2301_81253185/article/details/158540940)
+
++ [HarmonyOS PC 与手机双端协同开发实战：从 UI 适配到窗口管理与性能调优](https://blog.csdn.net/2501_93573294/article/details/158537679)
+
++ [Kotlin函数进阶：解锁可变参数与局部函数的奇妙用法](https://blog.csdn.net/qq_32890771/article/details/158543213)
+
