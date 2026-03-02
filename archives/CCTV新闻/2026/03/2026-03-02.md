@@ -251,3 +251,7 @@
 
 + [米价上涨 韩国政府将紧急投放15万吨储备米](https://news.cctv.com/2026/03/02/ARTIKl5TyZVYjvQ6o0fRa8Xn260302.shtml)
 
++ [泽连斯基：俄军冬季期间向乌克兰发射了700多枚导弹](https://news.cctv.com/2026/03/02/ARTIfvRCdAbhidLPPco86ext260302.shtml)
+
++ [伊朗公布最新战况 内塔尼亚胡行踪被曝出](https://news.cctv.com/2026/03/02/ARTIU8nH580ggHhVNY8oA5zV260302.shtml)
+

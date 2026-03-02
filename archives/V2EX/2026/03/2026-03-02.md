@@ -43,3 +43,5 @@
 
 + [过年几天给 5 岁多的女儿写了个益智游戏](https://www.v2ex.com/t/1195110)
 
++ [Claude Code, openai codex 送 20 刀余额，楼层抽奖 100 刀余额，可接 OpenClaw🦞龙虾](https://www.v2ex.com/t/1195195)
+
