@@ -237,3 +237,7 @@
 
 + [中东地缘紧张局势推高黄金价格](https://news.cctv.com/2026/03/02/ARTItBfCXyMNEvffskDkyq9W260302.shtml)
 
++ [黎巴嫩真主党一高级领导人在以袭击中身亡](https://news.cctv.com/2026/03/02/ARTIhNDuuAmd1Y0bsoE3KebW260302.shtml)
+
++ [伊朗最高国家安全委员会秘书：不会与美国进行谈判](https://news.cctv.com/2026/03/02/ARTIcpoVikalaewitplF666T260302.shtml)
+

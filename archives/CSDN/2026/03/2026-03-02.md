@@ -155,3 +155,21 @@
 
 + [Ling Studio 深度体验：蚂蚁百灵大模型的一站式 AI 体验](https://blog.csdn.net/2401_82648291/article/details/158466008)
 
++ [深度学习实战-基于 NASNet的垃圾图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157437747)
+
++ [制造业AI落地实战指南：6大核心场景+大模型应用](https://blog.csdn.net/neweastsun/article/details/158544691)
+
++ [【花雕动手做】拆解机器人底盘DDSM400钕强磁外转子65mm伺服轮毂电机](https://blog.csdn.net/weixin_41659040/article/details/158535097)
+
++ [网络通信与TCP/IP五层模型](https://blog.csdn.net/2401_86112610/article/details/158522811)
+
++ [新能源汽车DC/DC变换器测试作业指导书](https://blog.csdn.net/weixin_62244995/article/details/158508151)
+
++ [C# OpenvinoSharp使用Anomalib的PatchCore算法进行缺陷检测](https://blog.csdn.net/hixiong123/article/details/158543753)
+
++ [Flutter三方库 password_strength 适配 OpenHarmony —— 实现密码强度校验](https://blog.csdn.net/2301_79166208/article/details/158545318)
+
++ [IEEE TRO 南方科大张明明和北工大董明杰联合在康复机器人领域取得系列研究成果](https://blog.csdn.net/weixin_44887311/article/details/158499008)
+
++ [【系统架构设计 每日一问】数据访问模式决定架构—MySQL、Elasticsearch、Kafka、Redis 集群设计深度解析](https://blog.csdn.net/sinat_33087001/article/details/158543488)
+
