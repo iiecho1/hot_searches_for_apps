@@ -259,3 +259,11 @@
 
 + [国际原子能机构：正在与伊朗对话 但接触十分有限](https://news.cctv.com/2026/03/02/ARTI2bT8o0ECB32ndzZ6PFle260302.shtml)
 
++ [以色列称对伊朗军事行动将至少持续一周](https://news.cctv.com/2026/03/02/ARTIHbBl0bloeeqzT5otr4B8260302.shtml)
+
++ [以军称投下超2500枚炸弹 摧毁约600个伊朗目标](https://news.cctv.com/2026/03/02/ARTIlpQC0i1tDewAPkt9byYa260302.shtml)
+
++ [西班牙拒绝支持对伊军事行动 美撤走10架美军加油机](https://news.cctv.com/2026/03/02/ARTICDGLLEhHVbbFUYaWL6rU260302.shtml)
+
++ [伊朗古列斯坦王宫遭袭受损](https://news.cctv.com/2026/03/02/ARTIDgyLqqrSFBr9x1MeIdS3260302.shtml)
+
