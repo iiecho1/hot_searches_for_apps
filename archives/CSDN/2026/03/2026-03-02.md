@@ -177,3 +177,7 @@
 
 + [PyTorch实战（32）——在iOS上构建PyTorch应用](https://blog.csdn.net/LOVEmy134611/article/details/150614869)
 
++ [Flask工厂模式与蓝图设计：构建可扩展大型应用的架构之道](https://blog.csdn.net/sinat_41617212/article/details/158544435)
+
++ [MongoDB哈希索引实战：分布式环境下的数据均匀分布策略](https://blog.csdn.net/cui_yonghua/article/details/158545065)
+
