@@ -65,3 +65,5 @@
 
 + [希望大家听不懂](https://m.acfun.cn/v/?ac=48303948)
 
++ [MyGO!!!!!×Ave Mujica TWO-MAN LIVE「moment / memory」](https://m.acfun.cn/v/?ac=48305748)
+
