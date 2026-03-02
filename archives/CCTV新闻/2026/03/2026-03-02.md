@@ -227,3 +227,13 @@
 
 + [伊朗方面称6名中情局官员在阿联酋身亡](https://news.cctv.com/2026/03/02/ARTICiYSzURYYjg5FGeCFycj260302.shtml)
 
++ [伊朗首都德黑兰一广场遭美以袭击 已致20人死亡](https://news.cctv.com/2026/03/02/ARTIVsI6vBRsXU19VsBHyVA3260302.shtml)
+
++ [以色列对黎巴嫩发动空袭 贝鲁特传出爆炸声](https://news.cctv.com/2026/03/02/ARTIMOXYhZvBNm0bvK0dh91C260302.shtml)
+
++ [伊朗称美军在中东遭受重大伤亡 美中央司令部否认](https://news.cctv.com/2026/03/02/ARTIqdiX6K2jwwBKIFG1pLCn260302.shtml)
+
++ [多国政府和组织领导人就伊朗局势发表声明](https://news.cctv.com/2026/03/02/ARTIxIqySQP87uPkY0GmvQJx260302.shtml)
+
++ [中东地缘紧张局势推高黄金价格](https://news.cctv.com/2026/03/02/ARTItBfCXyMNEvffskDkyq9W260302.shtml)
+

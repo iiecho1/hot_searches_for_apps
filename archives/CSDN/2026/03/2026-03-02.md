@@ -141,3 +141,17 @@
 
 + [【开题答辩实录分享】以《医院预约挂号小程序的设计与实现》为例进行选题答辩实录分享](https://blog.csdn.net/2509_93102599/article/details/158459316)
 
++ [Linux 动静态库完全指南：制作、使用、原理与实战](https://blog.csdn.net/2503_91389547/article/details/157869692)
+
++ [《计算机视觉：模型、学习和推理》第 17 章-形状模型](https://blog.csdn.net/2302_80961196/article/details/158540925)
+
++ [Ling Studio深度体验：一站式AI生产力平台完全指南](https://blog.csdn.net/qq_38881495/article/details/158499112)
+
++ [Docker核心概念与架构](https://blog.csdn.net/qq_42568323/article/details/158317537)
+
++ [华为OD技术面八股文_C++_01](https://blog.csdn.net/qq_45776114/article/details/158544592)
+
++ [微信小程序虚拟支付整合thinkphp核心实现 你的小程序如有开通会员等则为虚拟类型 要使用虚拟支付了 要不然判定为违规](https://blog.csdn.net/luck332/article/details/158545834)
+
++ [Ling Studio 深度体验：蚂蚁百灵大模型的一站式 AI 体验](https://blog.csdn.net/2401_82648291/article/details/158466008)
+
