@@ -105,3 +105,5 @@
 
 + [MiniMax Agent 全新 MaxClaw 模式实战：5 分钟把MaxClaw 接入飞书（超详细教程）](https://blog.csdn.net/X_11_sj/article/details/158508804)
 
++ [【新能源汽车DCDC变换器测试优化全攻略：解决电能质量/发热/过充等核心痛点】](https://blog.csdn.net/weixin_62244995/article/details/158507284)
+

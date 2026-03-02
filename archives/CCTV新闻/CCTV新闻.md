@@ -179,3 +179,15 @@
 
 + [以交通部长称计划下周开始分阶段重新开放领空](https://news.cctv.com/2026/03/03/ARTIkSVGsd2acOKN0aW9dO6Z260303.shtml)
 
++ [6名美军士兵在对伊朗行动中身亡](https://news.cctv.com/2026/03/03/ARTIgvmfr3gknhUsIZ3soHSN260303.shtml)
+
++ [伊拉克民兵武装称对科威特境内美军基地遭袭事件负责](https://news.cctv.com/2026/03/03/ARTIRXhlojifGIkivKmkmtJz260303.shtml)
+
++ [伊朗称霍尔木兹海峡已关闭 将打击所有试图通过的船只](https://news.cctv.com/2026/03/03/ARTILv34gstui6cSbYjvBs7Z260303.shtml)
+
++ [以军空袭贝鲁特南郊 杰哈德在黎指挥官遇袭身亡](https://news.cctv.com/2026/03/03/ARTI0ab2QPSwhTr3qlKHltJn260303.shtml)
+
++ [以色列空袭黎巴嫩已造成52人死亡](https://news.cctv.com/2026/03/03/ARTIY3rVLbVN7ObaLFUp4q16260303.shtml)
+
++ [美关税诉讼案重回贸易法庭 退税程序或加速推进](https://news.cctv.com/2026/03/03/ARTIArcWQvO8dY09ZuTBc4UO260303.shtml)
+
