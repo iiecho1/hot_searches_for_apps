@@ -239,3 +239,15 @@
 
 + [伊朗称向美“林肯”号航母发射多枚巡航导弹](https://news.cctv.com/2026/03/03/ARTIqRl1khwNtD6QdGn8L5wl260303.shtml)
 
++ [美以袭击已致伊朗787人死亡](https://news.cctv.com/2026/03/03/ARTIm1XvBZpheyDJTHjaawNo260303.shtml)
+
++ [乌克兰称收到国际货币基金组织15亿美元援助资金](https://news.cctv.com/2026/03/03/ARTIxBoNzDZN3jbZbf8hzpkq260303.shtml)
+
++ [以军称空袭黎巴嫩 打死一名真主党兵力建设关键人物](https://news.cctv.com/2026/03/03/ARTIB9L1MHmQFLT27VL5s77f260303.shtml)
+
++ [中东多国关闭重要博物馆 转移馆藏文物](https://news.cctv.com/2026/03/03/ARTIqDm1VLCINg4qmrIYQn4l260303.shtml)
+
++ [美国针对中东3小时连发6条撤离令](https://news.cctv.com/2026/03/03/ARTIf2Umw35ZNSt2Kaog8Poc260303.shtml)
+
++ [韩国股市受中东局势影响暴跌逾7%](https://news.cctv.com/2026/03/03/ARTIBJ2xl9stP9J9SHeEU9Bv260303.shtml)
+
