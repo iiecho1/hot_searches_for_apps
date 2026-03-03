@@ -191,3 +191,27 @@
 
 + [美关税诉讼案重回贸易法庭 退税程序或加速推进](https://news.cctv.com/2026/03/03/ARTIArcWQvO8dY09ZuTBc4UO260303.shtml)
 
++ [韩国股市暴跌触发熔断机制](https://news.cctv.com/2026/03/03/ARTI9ibVpvTLnljYkbVMqaVi260303.shtml)
+
++ [民调显示近六成美国民众不赞成对伊朗动武](https://news.cctv.com/2026/03/03/ARTIgZCPvRaEpP1vQbu5HTGv260303.shtml)
+
++ [美法院驳回特朗普政府推迟启动退还关税程序请求](https://news.cctv.com/2026/03/03/ARTInWb5Bx1O8gsQhs6msLli260303.shtml)
+
++ [多家海事保险商将取消在海湾地区运营船舶的战争险](https://news.cctv.com/2026/03/03/ARTIVgokiPBQYHpVyZF3ACgQ260303.shtml)
+
++ [美国务卿声称美军对伊朗的“最猛烈打击尚未到来”](https://news.cctv.com/2026/03/03/ARTIiWOCPTPSHiWqCCIHaq59260303.shtml)
+
++ [美国关税政策“横跳” 扰动全球贸易环境（环球热点）](https://news.cctv.com/2026/03/03/ARTI9Nu9ZsQnMUMcfkQSW1pH260303.shtml)
+
++ [亚马逊中东地区多个数据中心遭袭致业务中断](https://news.cctv.com/2026/03/03/ARTI0ftP7d7Dnu6i8Z8tod23260303.shtml)
+
++ [加拿大和印度拟年底前达成贸易协议](https://news.cctv.com/2026/03/03/ARTIV6xMoziIsqaFDExEKVnM260303.shtml)
+
++ [特朗普向国会提交《战争权力决议》通知](https://news.cctv.com/2026/03/03/ARTInEqsuLtq31tYcX4LH1nz260303.shtml)
+
++ [美国驻巴基斯坦白沙瓦总领馆暂停运作](https://news.cctv.com/2026/03/03/ARTICAoG8L4GLQXatRmCrV2m260303.shtml)
+
++ [特朗普：没有必要对伊朗采取地面军事行动](https://news.cctv.com/2026/03/03/ARTInJNZTDt7cs7OTHc84uRM260303.shtml)
+
++ [特朗普称将很快就美使馆遭袭采取报复行动](https://news.cctv.com/2026/03/03/ARTItqi9fIZ4WOKP8RSqcUNA260303.shtml)
+

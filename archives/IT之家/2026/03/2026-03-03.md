@@ -25,3 +25,21 @@
 
 + [苹果暂时关闭阿联酋全部 5 家 Apple Store 零售店，至少持续至 3 月 4 日](https://m.ithome.com/html/924873.htm)
 
++ [苹果 iPhone 17e 发布：搭载 A19 芯片、支持 MagSafe，4499 元起](https://m.ithome.com/html/925198.htm)
+
++ [苹果 M4 芯片款 iPad Air 发布：4799 元起，3 月 11 日发售](https://m.ithome.com/html/925200.htm)
+
++ [苹果 iPhone 17e 国行采用单实体 SIM + eSIM 设计](https://m.ithome.com/html/925201.htm)
+
++ [小米 Xiaomi Tag 追踪器国内发售：提供 BLE / UWB 版本可选、支持苹果“查找”网络，69 元起](https://m.ithome.com/html/925181.htm)
+
++ [双卡双扬多摄大电池：华为 Mate 70 Air 国补后 3199 元立减千元再降价](https://m.ithome.com/html/925191.htm)
+
++ [9999 → 8499 元：iPhone 17 Pro Max 京东换新破冰新低](https://m.ithome.com/html/925156.htm)
+
++ [苹果 iPad Air M4 新增支持 802.11be 无线局域网技术 / 蓝牙 6.0](https://m.ithome.com/html/925203.htm)
+
++ [曝苹果内部认为平价版 MacBook“极具性价比”，或吸引 ChromeOS、Win11 用户转投阵营](https://m.ithome.com/html/925196.htm)
+
++ [苹果 iPhone 17e 细节：4 核 GPU 版 A19 芯片、新一代人像、单实体 SIM + eSIM 设计](https://m.ithome.com/html/925219.htm)
+

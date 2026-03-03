@@ -25,3 +25,17 @@
 
 + [墓地也太贵了](https://www.v2ex.com/t/1195184)
 
++ [[群晖] 家用的 DS425，如何外网高速访问 NAS 上的文件？](https://www.v2ex.com/t/1195169)
+
++ [投资，就想做了一场梦一样](https://www.v2ex.com/t/1195213)
+
++ [如果觉得自己是股神，但是想财富自由本金有点少，怎么快速起飞？](https://www.v2ex.com/t/1195255)
+
++ [微信是如何识别远程控制环境的？](https://www.v2ex.com/t/1195332)
+
++ [洗烘一体机怎么选？](https://www.v2ex.com/t/1195346)
+
++ [ios 端的 tg 是被限速了吗](https://www.v2ex.com/t/1195162)
+
++ [iPhone 17e &amp; iPad air m4](https://www.v2ex.com/t/1195300)
+
