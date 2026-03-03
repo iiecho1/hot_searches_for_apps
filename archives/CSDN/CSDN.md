@@ -101,3 +101,19 @@
 
 + [成功打通OpenClaw+微信群聊，纯视觉 不HOOK，无需公网](https://blog.csdn.net/u010522887/article/details/158611403)
 
++ [JDBC连接Spark并行度优化：从原理到实践](https://blog.csdn.net/qq_41840843/article/details/158462804)
+
++ [【OpenClaw】启动报错 disconnected (1008): unauthorized: gateway token mismatch](https://blog.csdn.net/u014798858/article/details/158507330)
+
++ [一句话，让三个 AI 同时开工：OpenAkita 开源多 Agent 助手解析](https://blog.csdn.net/u010634066/article/details/158585238)
+
++ [OpenClaw飞书集成：配对问题完整解决方案](https://blog.csdn.net/putiancaijunyu/article/details/158580402)
+
++ [周红伟：2026年OpenClaw腾讯云部署，和OpenClaw：微信小程序快速接入指南](https://blog.csdn.net/starzhou/article/details/158581522)
+
++ [OpenClaw 飞书图片发送修复工具](https://blog.csdn.net/xixiluo99/article/details/158576295)
+
++ [百年汽车追梦路，智领新能源新征程](https://blog.csdn.net/CC1991_/article/details/158610236)
+
++ [阿里云全流程一键部署 OpenClaw最新版 2026.2.26 + 飞书接入完整教程](https://blog.csdn.net/w0302/article/details/158586385)
+
