@@ -225,3 +225,5 @@
 
 + [以军称正同时空袭伊朗及黎巴嫩首都](https://news.cctv.com/2026/03/03/ARTInYBDBKLjN6aPj7b3do0L260303.shtml)
 
++ [中国驻伊朗大使馆发布中国公民撤离信息：土库曼斯坦增加开放巴季吉兰口岸](https://news.cctv.com/2026/03/03/ARTIKdWovQhqigmg2gTtJx0N260303.shtml)
+

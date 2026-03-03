@@ -145,3 +145,11 @@
 
 + [CI/CD全流程](https://blog.csdn.net/2302_80067378/article/details/158542492)
 
++ [AI重塑科技行业：从Block大规模裁员看技术从业者的转型之路](https://blog.csdn.net/u014411348/article/details/158568959)
+
++ [AI实践(0)学习路线](https://blog.csdn.net/Once_day/article/details/158611627)
+
++ [OpenClaw 飞书集成问题排查与解决完整指南](https://blog.csdn.net/xiaoting451292510/article/details/158581520)
+
++ [【前端】Vue + Axios 跨域问题实战：7070 代理转发 8080 + 401 报错分析（黑马外卖）](https://blog.csdn.net/tsumikistep/article/details/158544113)
+

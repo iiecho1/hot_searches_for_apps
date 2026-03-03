@@ -47,3 +47,5 @@
 
 + [https://terminal.pub , Codex/OpenAI/GPT 全部免费调用, [元宵节]今日充值八折优惠， claude 逆向低至 2 毛一刀，周五抽奖持续盖楼中](https://www.v2ex.com/t/1195383)
 
++ [如何看 OpenClaw 超越 Linux 登顶 Github Star 第一？](https://www.v2ex.com/t/1195367)
+
