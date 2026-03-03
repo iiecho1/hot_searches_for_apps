@@ -165,3 +165,9 @@
 
 + [成功打通OpenClaw+微信群聊，纯视觉 不HOOK，无需公网](https://blog.csdn.net/u010522887/article/details/158611403)
 
++ [OpenClaw教程（三）—— 更新OpenClaw](https://blog.csdn.net/wal1314520/article/details/158508476)
+
++ [OpenClaw-多飞书机器人与多Agent团队实战复盘](https://blog.csdn.net/weixin_37647148/article/details/158501541)
+
++ [openclaw-cn接入阿里云百炼coding plan，量大管饱](https://blog.csdn.net/kenaidexiamu/article/details/158572618)
+

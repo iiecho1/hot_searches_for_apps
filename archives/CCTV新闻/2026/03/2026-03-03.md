@@ -265,3 +265,5 @@
 
 + [驻卡塔尔使馆提醒在卡中国公民进一步加强安全防范](https://news.cctv.com/2026/03/03/ARTI2u8CheN8DY54wsSgr3X1260303.shtml)
 
++ [佩斯科夫：普京将向伊朗方面转达海湾国家关切](https://news.cctv.com/2026/03/03/ARTIKfQRbn7jvmAqEMtT2uvN260303.shtml)
+
