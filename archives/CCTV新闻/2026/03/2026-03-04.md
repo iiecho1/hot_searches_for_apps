@@ -169,3 +169,5 @@
 
 + [伊朗致信联合国特别代表 呼吁调查小学遭袭事件](https://news.cctv.com/2026/03/04/ARTIodeL4TGHo7xFUcwb9W6f260304.shtml)
 
++ [受地区局势影响 伊拉克南部一巨型油田宣布暂停生产](https://news.cctv.com/2026/03/04/ARTIKZy7LoUepz3h2kPW913d260303.shtml)
+
