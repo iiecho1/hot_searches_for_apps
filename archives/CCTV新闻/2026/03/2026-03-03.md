@@ -219,3 +219,9 @@
 
 + [中国驻沙特使馆再次提醒在沙特的中国公民进一步加强安全防范](https://news.cctv.com/2026/03/03/ARTIWMLDyJRu07yAVa4RlXfR260303.shtml)
 
++ [加拿大与格陵兰岛签署关键矿产与能源合作联合意向声明](https://news.cctv.com/2026/03/03/ARTIkAsKtQ3VFRiSMcvV22ug260303.shtml)
+
++ [美国国务院下令非必要政府人员撤离约旦、巴林、伊拉克](https://news.cctv.com/2026/03/03/ARTIMQx99xHzyk5fjfwvO0Ax260303.shtml)
+
++ [以军称正同时空袭伊朗及黎巴嫩首都](https://news.cctv.com/2026/03/03/ARTInYBDBKLjN6aPj7b3do0L260303.shtml)
+
