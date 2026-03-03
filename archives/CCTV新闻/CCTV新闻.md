@@ -173,3 +173,9 @@
 
 + [百日倒计时：墨西哥加紧世界杯筹备 “安全考题”成焦点](https://news.cctv.com/2026/03/04/ARTISGfgfI3JWsGFVbWD3QaI260304.shtml)
 
++ [特朗普称将切断贸易往来 西班牙回应：美国须尊重双边协定](https://news.cctv.com/2026/03/04/ARTIQ16scYYVhbotrdWSwmjJ260304.shtml)
+
++ [特朗普：将切断美国和西班牙之间的贸易往来](https://news.cctv.com/2026/03/04/ARTIj7QEISDT51LMPXwQes10260304.shtml)
+
++ [马克龙：法国“戴高乐”号航母将部署在地中海](https://news.cctv.com/2026/03/04/ARTIYFcZVb9dAo3lPPX9rHKW260304.shtml)
+

@@ -129,3 +129,9 @@
 
 + [阿里云 Ubuntu 服务器持续高 IO 读问题排查与解决实录](https://blog.csdn.net/sinat_35576477/article/details/158586268)
 
++ [ARM Linux 驱动开发篇--- Linux 并发与竞争全解析（原子操作/自旋锁/信号量/互斥体）--- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/158500979)
+
++ [基于YOLO26深度学习的无人机视角河道水面垃圾检测系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/158618829)
+
++ [Flutter三方库 dlibphonenumber 适配 OpenHarmony —— 实现输入时自动格式化电话号码](https://blog.csdn.net/xiaoyaonvwakaka/article/details/158545752)
+
