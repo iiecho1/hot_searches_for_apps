@@ -43,3 +43,17 @@
 
 + [苹果 iPhone 17e 细节：4 核 GPU 版 A19 芯片、新一代人像、单实体 SIM + eSIM 设计](https://m.ithome.com/html/925219.htm)
 
++ [元宵夜邂逅“月全食”：下次我国再见此天文奇观要等 46 年，19 至 21 时为最佳观测时段](https://m.ithome.com/html/925391.htm)
+
++ [酷态科 6 号屏显充 Ultra 充电头发布：最高 100W，智能识别 iPhone，屏幕动态表情](https://m.ithome.com/html/925286.htm)
+
++ [苹果 iPhone 17e 上架京东：A19 芯片、实体 SIM + eSIM 设计，4499 元起](https://m.ithome.com/html/925387.htm)
+
++ [iPhone 17e 发布后，128GB 起步的苹果 iPhone 16e 手机从官网下线](https://m.ithome.com/html/925410.htm)
+
++ [苹果官方配件新品一览：斜挎挂绳新增 iPhone 17e 手机壳同款配色、Apple Watch 表带上新多色](https://m.ithome.com/html/925208.htm)
+
++ [一半都是中国玩家？Steam 平台 2026 年 2 月硬件统计：RTX 5070 首夺第一，32GB 内存占比飙升至 57%](https://m.ithome.com/html/925357.htm)
+
++ [比亚迪王朝首款 D 级旗舰 SUV 大唐官图公布：3 月 5 日正式发布](https://m.ithome.com/html/925282.htm)
+
