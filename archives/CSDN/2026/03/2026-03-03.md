@@ -107,3 +107,41 @@
 
 + [【新能源汽车DCDC变换器测试优化全攻略：解决电能质量/发热/过充等核心痛点】](https://blog.csdn.net/weixin_62244995/article/details/158507284)
 
++ [YOLO26优化-ACmix](https://blog.csdn.net/qq_41287133/article/details/158581879)
+
++ [Spring Boot 部署优化：打包体积缩小 80% 的秘诀](https://blog.csdn.net/2401_86326742/article/details/158578864)
+
++ [【粉丝福利社】构建自主AI深入A2A协议的智能体开发](https://blog.csdn.net/aa2528877987/article/details/158609312)
+
++ [【花雕学编程】Arduino BLDC 之离线语音模块智能控制机器人](https://blog.csdn.net/weixin_41659040/article/details/158568457)
+
++ [FARS全自动科研系统技术深度解析：从多智能体架构到工业化科研范式](https://blog.csdn.net/kkiron/article/details/158571706)
+
++ [RustFS vs MinIO：从原理到精通的深度技术解析](https://blog.csdn.net/csdn_silent/article/details/158574706)
+
++ [MySQL 服务器配置与管理](https://blog.csdn.net/mr_yuanshen/article/details/158545312)
+
++ [Vue实战：构建高效的黑词分析与可疑对话挖掘组件](https://blog.csdn.net/whmdsb5201314/article/details/158579131)
+
++ [【OpenClaw】启动报错 disconnected (1008): unauthorized: gateway token mismatch](https://blog.csdn.net/u014798858/article/details/158507330)
+
++ [Python依赖漏洞自动扫描工具](https://blog.csdn.net/qq_18529581/article/details/158545817)
+
++ [基于yolov11+django+deepseek的农业植物叶子病害农作物病虫害检测系统带登录界面python源码+onnx模型+精美web界面](https://blog.csdn.net/FL1623863129/article/details/158608996)
+
++ [OpenClaw 接入阿里云永久免费模型方案](https://blog.csdn.net/s060403072/article/details/158575571)
+
++ [Web安全学习指南：从漏洞到工具的全面总结](https://blog.csdn.net/2301_77508322/article/details/158500323)
+
++ [免费开源AI工具：CoPaw与OpenFang整理](https://blog.csdn.net/m0_60781580/article/details/158584925)
+
++ [从零开始：在本地搭建一个带知识库的 AI 助手（Ollama + Open WebUI）](https://blog.csdn.net/weixin_56622231/article/details/158568634)
+
++ [周红伟：2026年OpenClaw腾讯云部署，和OpenClaw：微信小程序快速接入指南](https://blog.csdn.net/starzhou/article/details/158581522)
+
++ [【Qt开发】Qt界面优化（八）-＞ Qt样式表(QSS) 盒模型](https://blog.csdn.net/weixin_74809706/article/details/157728354)
+
++ [不用公网IP也能远程管文件?宝塔FTP+cpolar让异地协作超省心](https://blog.csdn.net/2301_80350265/article/details/158610321)
+
++ [CI/CD全流程](https://blog.csdn.net/2302_80067378/article/details/158542492)
+

@@ -215,3 +215,7 @@
 
 + [特朗普称将很快就美使馆遭袭采取报复行动](https://news.cctv.com/2026/03/03/ARTItqi9fIZ4WOKP8RSqcUNA260303.shtml)
 
++ [美国国会将就限制总统战争权力议案举行投票](https://news.cctv.com/2026/03/03/ARTI1XfnTG40ruT8zxtJ2VHh260303.shtml)
+
++ [中国驻沙特使馆再次提醒在沙特的中国公民进一步加强安全防范](https://news.cctv.com/2026/03/03/ARTIWMLDyJRu07yAVa4RlXfR260303.shtml)
+
