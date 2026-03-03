@@ -251,3 +251,17 @@
 
 + [韩国股市受中东局势影响暴跌逾7%](https://news.cctv.com/2026/03/03/ARTIBJ2xl9stP9J9SHeEU9Bv260303.shtml)
 
++ [以军称空袭伊朗总统府等“领导层建筑群”](https://news.cctv.com/2026/03/03/ARTIV0Vy4Xp7U2naCP6NQCOC260303.shtml)
+
++ [伊朗暂时禁止所有食品和农产品出口](https://news.cctv.com/2026/03/03/ARTItEibN12zhfP4vVTzj6Y1260303.shtml)
+
++ [西班牙首相决定阻止美国使用西班牙军事基地](https://news.cctv.com/2026/03/03/ARTIpa6O7APVg31TLD6pcbfS260303.shtml)
+
++ [央行决定授权中国银行科伦坡分行担任斯里兰卡人民币清算行](https://news.cctv.com/2026/03/03/ARTIBm8SOo4AFZ0JMkbvGAVf260303.shtml)
+
++ [受中东局势影响 欧洲天然气价格大幅上涨](https://news.cctv.com/2026/03/03/ARTIG1rwtkn67cw9F82tXlXr260303.shtml)
+
++ [国际原子能机构：伊朗纳坦兹核设施近日遭破坏](https://news.cctv.com/2026/03/03/ARTIGEc6Hf4UqnmutHXIgfiU260303.shtml)
+
++ [驻卡塔尔使馆提醒在卡中国公民进一步加强安全防范](https://news.cctv.com/2026/03/03/ARTI2u8CheN8DY54wsSgr3X1260303.shtml)
+
