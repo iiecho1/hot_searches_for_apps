@@ -85,3 +85,9 @@
 
 + [[4k] 2025 서울모빌리티쇼 모델직캠 반하리](https://m.acfun.cn/v/?ac=48306717)
 
++ [友友们元宵节快乐！](https://m.acfun.cn/v/?ac=48310284)
+
++ [泫雅 Red 路演](https://m.acfun.cn/v/?ac=48308822)
+
++ [你可能不认识我，但也许听过我的歌——Groove Coverage舞动精灵乐团来华巡演啦！](https://m.acfun.cn/v/?ac=48309986)
+
