@@ -117,3 +117,13 @@
 
 + [阿里云全流程一键部署 OpenClaw最新版 2026.2.26 + 飞书接入完整教程](https://blog.csdn.net/w0302/article/details/158586385)
 
++ [Elasticsearch 9.0.1 集群部署文档（Docker Compose 版）](https://blog.csdn.net/weixin_44770684/article/details/158542900)
+
++ [本地OpenClaw对接飞书步骤-实测版](https://blog.csdn.net/mcb520wf/article/details/158570102)
+
++ [使用 GitOps 进行 Logstash 管道管理与配置](https://blog.csdn.net/UbuntuTouch/article/details/158616775)
+
++ [做一个小程序需要多少钱？系统梳理微信小程序制作方式和对应的成本](https://blog.csdn.net/weixin_40060468/article/details/158582697)
+
++ [深度解析：Qwen3.5-9B如何用1/13的参数量在5大基准中超越GPT-oss-120B？混合架构、基准测试、开源许可全分析](https://blog.csdn.net/fox0329/article/details/158611330)
+

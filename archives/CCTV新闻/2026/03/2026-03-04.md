@@ -167,3 +167,5 @@
 
 + [约旦决定重新开放领空 恢复所有民航航班运行](https://news.cctv.com/2026/03/04/ARTIJoF7SJjUCO7bY12DTthe260303.shtml)
 
++ [伊朗致信联合国特别代表 呼吁调查小学遭袭事件](https://news.cctv.com/2026/03/04/ARTIodeL4TGHo7xFUcwb9W6f260304.shtml)
+
