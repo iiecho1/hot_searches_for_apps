@@ -221,3 +221,5 @@
 
 + [撤离“靠自己”？美国政府遭批“处处暴露无能”](https://news.cctv.com/2026/03/04/ARTIQQ3cX04SCNyhKwiNckHU260304.shtml)
 
++ [中国公民东京遇滋扰，驻日本大使馆再次提醒中国公民近期避免前往日本](https://news.cctv.com/2026/03/04/ARTINr3rjFTtFreEizn5fv2E260304.shtml)
+
