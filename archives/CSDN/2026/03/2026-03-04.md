@@ -185,3 +185,7 @@
 
 + [Openclaw ubuntu 22.04部署，超详细，对接百炼模型（中文社区版）](https://blog.csdn.net/weixin_53096886/article/details/158651667)
 
++ [MongoDB索引统计分析：`db.collection.stats()`深度解读与应用](https://blog.csdn.net/cui_yonghua/article/details/158583466)
+
++ [从太极到量子比特：一场关于世界本质的思想实验](https://blog.csdn.net/eidolon_foot/article/details/158497107)
+
