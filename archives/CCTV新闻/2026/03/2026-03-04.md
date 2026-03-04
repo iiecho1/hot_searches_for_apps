@@ -209,3 +209,9 @@
 
 + [超过260名在伊中方人员顺利入境阿塞拜疆](https://news.cctv.com/2026/03/04/ARTIxvGLJjFyPkucQte7XxG6260304.shtml)
 
++ [前后矛盾　美国打击伊朗的理由到底是什么？](https://news.cctv.com/2026/03/04/ARTIhslS39A8XmLmuPPnxzHj260304.shtml)
+
++ [中东战火延烧 欧洲多国启动撤侨航班](https://news.cctv.com/2026/03/04/ARTIXRaOPv4gNY0AcFvyS5nQ260304.shtml)
+
++ [以色列防长：伊朗任何新的最高领袖都将成“清除目标”](https://news.cctv.com/2026/03/04/ARTIEy1idiv81be5ztfoWiN2260304.shtml)
+
