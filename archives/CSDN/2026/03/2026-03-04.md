@@ -135,3 +135,23 @@
 
 + [Flutter三方库 dlibphonenumber 适配 OpenHarmony —— 实现输入时自动格式化电话号码](https://blog.csdn.net/xiaoyaonvwakaka/article/details/158545752)
 
++ [vue详解九 vue3详解](https://blog.csdn.net/qq_33417321/article/details/136397161)
+
++ [SaaS客户成功全流程解析：从框架搭建到价值落地的系统性实践](https://blog.csdn.net/qq_32682301/article/details/158618852)
+
++ [TensorFlow 与 MATLAB 协同使用](https://blog.csdn.net/zl811103/article/details/158540067)
+
++ [导航到村、到组、到户？湘西偏远山区在线地图道路导航实测对比](https://blog.csdn.net/yelangkingwuzuhu/article/details/158622735)
+
++ [【RFCOMM】协议深度解析[8]：RFCOMM的DLCI分配机制](https://blog.csdn.net/weixin_37800531/article/details/158472450)
+
++ [ARM Linux 驱动开发篇--- Linux 并发与竞争实验（自旋锁实现 LED 设备互斥访问）--- Ubuntu20.04自旋锁实验](https://blog.csdn.net/weixin_61186812/article/details/158610982)
+
++ [【Linux网络系列】万字硬核解析网络层核心：IP协议到IP 分片重组、NAT技术及 RIP/OSPF 动态路由全景](https://blog.csdn.net/2301_80260194/article/details/158618141)
+
++ [Java 部署：滚动更新（K8s RollingUpdate 策略）](https://blog.csdn.net/qq_41187124/article/details/157472752)
+
++ [全球实时情报中心World Monitor部署教程](https://blog.csdn.net/Mao1858/article/details/158618008)
+
++ [新能源汽车DC/DC变换器测试作业指导书](https://blog.csdn.net/weixin_62244995/article/details/158508151)
+

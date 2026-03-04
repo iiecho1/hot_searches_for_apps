@@ -179,3 +179,19 @@
 
 + [马克龙：法国“戴高乐”号航母将部署在地中海](https://news.cctv.com/2026/03/04/ARTIYFcZVb9dAo3lPPX9rHKW260304.shtml)
 
++ [日本东京高等法院决定维持对原“统一教会”的解散命令](https://news.cctv.com/2026/03/04/ARTIqEJrnmSZPjMcBxg3EAnX260304.shtml)
+
++ [古巴政府对美籍快艇事件涉案6人提出公诉](https://news.cctv.com/2026/03/04/ARTIzJ4AHuaSZezCcE1Roooy260304.shtml)
+
++ [伊朗称完全控制霍尔木兹海峡 十多艘油轮被炮弹击中](https://news.cctv.com/2026/03/04/ARTIAJrGtI7iWB3SBGPLnlXX260304.shtml)
+
++ [韩国股市连续两日因大跌触发熔断机制](https://news.cctv.com/2026/03/04/ARTINZFwxpsXrnC4501bQfPb260304.shtml)
+
++ [美方称已打击约2000个伊朗目标 摧毁17艘舰船](https://news.cctv.com/2026/03/04/ARTIVoaQLAzkxEOTLuENye7u260304.shtml)
+
++ [25名中国公民从伊朗撤离 启程回国](https://news.cctv.com/2026/03/04/ARTIcVzOq4gZdwMcBt81YldX260304.shtml)
+
++ [我驻日本大使馆提醒在日中国公民防范日本“撞人族”](https://news.cctv.com/2026/03/04/ARTITSpEMIIBZkU6HlHaS2co260304.shtml)
+
++ [中使馆提醒在日中国公民防范日本“撞人族”](https://news.cctv.com/2026/03/04/ARTIAuvfcvisaGCfRkJUnwLd260304.shtml)
+
