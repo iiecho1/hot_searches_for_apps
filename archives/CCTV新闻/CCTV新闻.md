@@ -203,3 +203,9 @@
 
 + [已炸两次 日本商业航天公司第三次发射火箭未果](https://news.cctv.com/2026/03/04/ARTIs30ROstvm6pbNGol8OBU260304.shtml)
 
++ [伊朗宣布将为哈梅内伊举行告别仪式](https://news.cctv.com/2026/03/04/ARTIe0ZPlQ4J8p1cSktfTJHA260304.shtml)
+
++ [卡塔尔证实伊朗导弹击中美军乌代德基地](https://news.cctv.com/2026/03/04/ARTIS1GrfMidEA8dBaww5nCM260304.shtml)
+
++ [超过260名在伊中方人员顺利入境阿塞拜疆](https://news.cctv.com/2026/03/04/ARTIxvGLJjFyPkucQte7XxG6260304.shtml)
+
