@@ -215,3 +215,9 @@
 
 + [以色列防长：伊朗任何新的最高领袖都将成“清除目标”](https://news.cctv.com/2026/03/04/ARTIEy1idiv81be5ztfoWiN2260304.shtml)
 
++ [俄称乌克兰无人艇在地中海袭击俄天然气运输船](https://news.cctv.com/2026/03/04/ARTIoYjBLMTPpxYNN9l8p8n5260304.shtml)
+
++ [以军称已开始对德黑兰进行又一波大规模袭击](https://news.cctv.com/2026/03/04/ARTIe9SddoEXCCsyXtcr7lWu260304.shtml)
+
++ [撤离“靠自己”？美国政府遭批“处处暴露无能”](https://news.cctv.com/2026/03/04/ARTIQQ3cX04SCNyhKwiNckHU260304.shtml)
+
