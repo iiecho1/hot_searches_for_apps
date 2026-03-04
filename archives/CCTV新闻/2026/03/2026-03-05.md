@@ -169,3 +169,7 @@
 
 + [欧盟力挺西班牙表示将充分保护成员国利益](https://news.cctv.com/2026/03/05/ARTIzWn5SckeeGhaKP2D7cSX260304.shtml)
 
++ [伊朗军方在冲突中首次使用“哈迪德110”高速无人机](https://news.cctv.com/2026/03/05/ARTIzeIH0sralYHo4d0Wa4ML260305.shtml)
+
++ [刚果（金）一矿区塌方造成200多人遇难](https://news.cctv.com/2026/03/05/ARTIugJnOgtjaOWDQZ1k597t260305.shtml)
+
