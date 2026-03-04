@@ -101,3 +101,17 @@
 
 + [Docker 核心知识整理](https://blog.csdn.net/2301_82251392/article/details/158622386)
 
++ [从0到1打造专业职配助手：基于openJiuwen记忆库新特性的AI职业规划实战](https://blog.csdn.net/2302_79376097/article/details/158660062)
+
++ [【花雕学编程】Arduino BLDC 之离线语音模块智能控制机器人](https://blog.csdn.net/weixin_41659040/article/details/158568457)
+
++ [【Agent开发】第六阶段：RAG 深度优化实战 —— 父子索引与上下文窗口优化](https://blog.csdn.net/weixin_52185313/article/details/158585916)
+
++ [Python依赖漏洞自动扫描工具](https://blog.csdn.net/qq_18529581/article/details/158545817)
+
++ [新能源汽车驱动电机测试台架系统构成与技术演进分析](https://blog.csdn.net/weixin_62244995/article/details/158660746)
+
++ [2026 Go微服务全栈实战：Gin框架+gRPC通信+Consul服务注册发现+Nacos配置中心+GORM数据库操作+ProtoBuf+负载均衡+优雅停机完整指南](https://blog.csdn.net/qq_44866828/article/details/158573665)
+
++ [【多喝热水系列】从零开始的ROS2之旅——Day12 话题通信之系统实况信息小项目：C++](https://blog.csdn.net/2401_83080774/article/details/158582200)
+

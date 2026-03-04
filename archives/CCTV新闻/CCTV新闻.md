@@ -161,3 +161,9 @@
 
 + [法国外长：美以对伊行动未经安理会审议 不具合法性](https://news.cctv.com/2026/03/03/ARTI7BYP2k9gZeDBrygCTclR260303.shtml)
 
++ [马克龙声援西班牙以回应美国贸易威胁](https://news.cctv.com/2026/03/05/ARTIe85iLmmnrnHMMxq46Du9260304.shtml)
+
++ [扎哈罗娃：不认为中东局势将影响西方向乌提供武器](https://news.cctv.com/2026/03/05/ARTI4XRyCZW1VACpgCdCvrYa260304.shtml)
+
++ [通过“友谊”管道向斯洛伐克供油仍处于暂停状态](https://news.cctv.com/2026/03/05/ARTIXWnCsc2ZtTuU3avg3aOt260304.shtml)
+
