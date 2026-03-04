@@ -195,3 +195,7 @@
 
 + [中使馆提醒在日中国公民防范日本“撞人族”](https://news.cctv.com/2026/03/04/ARTIAuvfcvisaGCfRkJUnwLd260304.shtml)
 
++ [美商务部长“主动同意”就爱泼斯坦案作证](https://news.cctv.com/2026/03/04/ARTIc7EdO1O9nZdOhT7ejFEA260304.shtml)
+
++ [伊朗最高领袖选举据称可能推迟到下周](https://news.cctv.com/2026/03/04/ARTIq3pnjwEEhCAyxgCOJYEw260304.shtml)
+
