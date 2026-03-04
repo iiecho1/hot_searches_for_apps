@@ -223,3 +223,5 @@
 
 + [中国公民东京遇滋扰，驻日本大使馆再次提醒中国公民近期避免前往日本](https://news.cctv.com/2026/03/04/ARTINr3rjFTtFreEizn5fv2E260304.shtml)
 
++ [中国驻埃及大使馆：请在埃及中国公民加强安全防范](https://news.cctv.com/2026/03/04/ARTIzFZQoHe2rlTJwGsC5oOY260304.shtml)
+
