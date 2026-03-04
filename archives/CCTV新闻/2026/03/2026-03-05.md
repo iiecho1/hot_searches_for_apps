@@ -167,3 +167,5 @@
 
 + [通过“友谊”管道向斯洛伐克供油仍处于暂停状态](https://news.cctv.com/2026/03/05/ARTIXWnCsc2ZtTuU3avg3aOt260304.shtml)
 
++ [欧盟力挺西班牙表示将充分保护成员国利益](https://news.cctv.com/2026/03/05/ARTIzWn5SckeeGhaKP2D7cSX260304.shtml)
+

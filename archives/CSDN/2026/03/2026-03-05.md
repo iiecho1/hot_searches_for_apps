@@ -115,3 +115,13 @@
 
 + [【多喝热水系列】从零开始的ROS2之旅——Day12 话题通信之系统实况信息小项目：C++](https://blog.csdn.net/2401_83080774/article/details/158582200)
 
++ [Claude Code Skills 完全指南（2026 最新版）](https://blog.csdn.net/qq_20236937/article/details/158583758)
+
++ [【LE Audio】BAP协议精讲[21]: 从同步到播放：广播音频流同步全流程拆解+实战技巧](https://blog.csdn.net/weixin_37800531/article/details/158472521)
+
++ [【实测】NVIDIA DGX Spark 本地部署 Qwen3.5-35B-A3B-FP8 完整教程 + 性能分析](https://blog.csdn.net/u010026928/article/details/158582591)
+
++ [Linux 动静态库完全指南：制作、使用、原理与实战](https://blog.csdn.net/2503_91389547/article/details/157869692)
+
++ [周红伟：独家揭秘，DeepSeek-V4 深度技术报告：原生多模态架构](https://blog.csdn.net/starzhou/article/details/158609737)
+
