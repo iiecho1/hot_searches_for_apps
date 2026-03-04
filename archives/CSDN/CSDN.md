@@ -177,3 +177,11 @@
 
 + [【Agent开发】第六阶段：RAG 深度优化实战 —— 父子索引与上下文窗口优化](https://blog.csdn.net/weixin_52185313/article/details/158585916)
 
++ [鸿蒙 HarmonyOS 6 | 多媒体 (03) 图像处理 Image Kit 与 PixelMap 实战](https://blog.csdn.net/diandianxiyu/article/details/158581534)
+
++ [【前端实战】构建 Vue 全局错误处理体系，实现业务与错误的清晰解耦](https://blog.csdn.net/RenGJ010617/article/details/156465678)
+
++ [【教程4＞第11章＞第13节】基于FPGA的图像直方图提取与图像分类算法——仿真测试以及MATLAB辅助验证](https://blog.csdn.net/ccsss22/article/details/158654755)
+
++ [Openclaw ubuntu 22.04部署，超详细，对接百炼模型（中文社区版）](https://blog.csdn.net/weixin_53096886/article/details/158651667)
+
