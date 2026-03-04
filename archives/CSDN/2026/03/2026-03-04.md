@@ -155,3 +155,11 @@
 
 + [新能源汽车DC/DC变换器测试作业指导书](https://blog.csdn.net/weixin_62244995/article/details/158508151)
 
++ [鸿蒙 App 如何设计 AI 原生的信息架构](https://blog.csdn.net/qq_36863796/article/details/158620397)
+
++ [LangChain: 从 LLM 调用到 Agent 架构](https://blog.csdn.net/weixin_43160662/article/details/158584726)
+
++ [Unity实现模型破碎效果](https://blog.csdn.net/qq_42603590/article/details/158618790)
+
++ [【OpenClaw + 飞书配置（换各种模型）出现的各种错误】](https://blog.csdn.net/weixin_37572294/article/details/158614582)
+
