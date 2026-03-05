@@ -107,3 +107,9 @@
 
 + [Linux 底层深入：目标文件、ELF 格式与程序加载全解析](https://blog.csdn.net/2503_91389547/article/details/157909928)
 
++ [基于YOLO26深度学习的无人机视角河道水面垃圾检测系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/158618829)
+
++ [OpenClaw AI 物理级原生部署全攻略：开启Windows侧的 AI Agent调度新纪元](https://blog.csdn.net/weixin_66671447/article/details/158608811)
+
++ [【参数辨识】基于遗传算法和系统辨识的无人机自动驾驶仪参数优化框架matlab实现](https://blog.csdn.net/m0_57702748/article/details/158704425)
+
