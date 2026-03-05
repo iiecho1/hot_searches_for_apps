@@ -35,3 +35,7 @@
 
 + [8026 年了， 140 京东买了根贝尔金 Lightning 线，包装鼓包+全是污渍](https://www.v2ex.com/t/1195749)
 
++ [准备结婚买房，选杭州还是武汉](https://www.v2ex.com/t/1195992)
+
++ [苹果新品四千档位 MacBook Neo 能用来干啥](https://www.v2ex.com/t/1195931)
+
