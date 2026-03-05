@@ -181,3 +181,13 @@
 
 + [拉特群岛发生6.2级地震，震源深度10千米](https://news.cctv.com/2026/03/05/ARTIZL8V8cYVQFIjFjYiRpqS260305.shtml)
 
++ [记者报道：伊朗首都德黑兰3月5日早再次遭袭](https://news.cctv.com/2026/03/05/ARTI32YS0syHYGH8MOdBbbT3260305.shtml)
+
++ [教科文组织对伊朗世界遗产在空袭中受损表示关切](https://news.cctv.com/2026/03/05/ARTIOlJa8s6JQL85fP2X7qzO260305.shtml)
+
++ [日本商业航天公司小型火箭发射三连败](https://news.cctv.com/2026/03/05/ARTIUcRmKPRo0eqWip3Dy38o260305.shtml)
+
++ [美媒：美军武器库存“正在迅速消耗”](https://news.cctv.com/2026/03/05/ARTIDfsPtZX0oHwhnFwroSv3260305.shtml)
+
++ [斯里兰卡外长：已打捞出87具伊朗遇袭军舰人员遗体](https://news.cctv.com/2026/03/05/ARTIqTDqfs1Jx73PDRfoSHYC260305.shtml)
+

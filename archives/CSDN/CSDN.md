@@ -147,3 +147,9 @@
 
 + [ Linux 发展史](https://blog.csdn.net/Everett_csdn/article/details/158582661)
 
++ [ Chaterm 重塑故障应急：移动端救火、Agent Skills 与知识库智能运维](https://blog.csdn.net/INTSIG/article/details/158659458)
+
++ [PyTorch实战（33）——使用fastai进行快速原型开发](https://blog.csdn.net/LOVEmy134611/article/details/151217170)
+
++ [unity程序崩溃报错：EXCEPTION_RECORD: ffffffffffffffff -- (.exr 0xffffffffffffffff) ExceptionAddres...如何解决？](https://blog.csdn.net/weixin_43970743/article/details/158543192)
+
