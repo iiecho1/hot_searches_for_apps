@@ -195,3 +195,5 @@
 
 + [伊朗军方高官称未封锁霍尔木兹海峡](https://news.cctv.com/2026/03/05/ARTIReXo5xRoFeoShiFckD9R260305.shtml)
 
++ [伊朗外长：美国将为开创国际水域袭击先例“后悔”](https://news.cctv.com/2026/03/05/ARTIMd433qIuHyrdbaZBqWUv260305.shtml)
+
