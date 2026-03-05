@@ -165,3 +165,7 @@
 
 + [pdd小程序纯算逆向分析（codex版）](https://blog.csdn.net/qiulin_wu/article/details/158498163)
 
++ [docker容器化部署springboot项目（详解）](https://blog.csdn.net/qq_63981644/article/details/158663677)
+
++ [YOLO26 小目标检测技术：遥感 / 工业 / 交通场景适配](https://blog.csdn.net/weixin_52908342/article/details/158689665)
+
