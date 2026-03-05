@@ -113,3 +113,5 @@
 
 + [【参数辨识】基于遗传算法和系统辨识的无人机自动驾驶仪参数优化框架matlab实现](https://blog.csdn.net/m0_57702748/article/details/158704425)
 
++ [火焰与烟雾目标检测数据集（13,500张图片已划分、已标注）| AI训练适用于目标检测任务](https://blog.csdn.net/weixin_52908342/article/details/158691794)
+

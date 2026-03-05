@@ -193,3 +193,5 @@
 
 + [意大利计划向海湾国家提供防空援助](https://news.cctv.com/2026/03/06/ARTIUHy5tXyq42mHlkhNaAK1260306.shtml)
 
++ [美国会众议院否决一项限制美总统发动军事行动权限的议案](https://news.cctv.com/2026/03/06/ARTIsex7L9igcCE8LTtk9UGT260306.shtml)
+
