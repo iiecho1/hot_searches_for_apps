@@ -101,3 +101,9 @@
 
 + [Login_Vue3项目（完全从0开始理解）](https://blog.csdn.net/weixin_45887097/article/details/158652929)
 
++ [AI编程：MCP配置](https://blog.csdn.net/2301_79111712/article/details/158657844)
+
++ [UniApp 微信小程序多环境配置指南](https://blog.csdn.net/maowencai/article/details/158609707)
+
++ [Linux 底层深入：目标文件、ELF 格式与程序加载全解析](https://blog.csdn.net/2503_91389547/article/details/157909928)
+
