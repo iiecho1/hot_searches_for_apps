@@ -193,3 +193,5 @@
 
 + [为帮助滞留阿联酋同胞更好应对当前情况，中使馆发布最新信息梳理](https://news.cctv.com/2026/03/05/ARTIIWflLoPeCuKCaIeJ51XE260305.shtml)
 
++ [伊朗军方高官称未封锁霍尔木兹海峡](https://news.cctv.com/2026/03/05/ARTIReXo5xRoFeoShiFckD9R260305.shtml)
+
