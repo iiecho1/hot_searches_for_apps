@@ -161,3 +161,5 @@
 
 + [MySQL调优实战【一】：从15秒到0.3秒，一个真实案例的全过程](https://blog.csdn.net/weixin_38717458/article/details/158695398)
 
++ [免费开源AI工具：CoPaw与OpenFang整理](https://blog.csdn.net/m0_60781580/article/details/158584925)
+
