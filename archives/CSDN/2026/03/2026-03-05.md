@@ -125,3 +125,23 @@
 
 + [周红伟：独家揭秘，DeepSeek-V4 深度技术报告：原生多模态架构](https://blog.csdn.net/starzhou/article/details/158609737)
 
++ [【Linux系统】理解管道通信，匿名管道实现进程池+命名管道实现服务端客户端通信模型（附源码）](https://blog.csdn.net/2402_86681376/article/details/158477164)
+
++ [Flutter 进阶之路：全栈知识体系深度导览](https://blog.csdn.net/xrl__/article/details/158658735)
+
++ [理解 Stage 模型 —— HarmonyOS 应用架构新标准](https://blog.csdn.net/2401_88937325/article/details/158659121)
+
++ [除了OpenClaw大龙虾，还有6只“小龙虾“：什么是Nanobot：Py开发者，什么是NanoClaw：多智能体， 什么是IronClaw：安全，什么是ZeroClaw：树莓派，什么是PicoCla](https://blog.csdn.net/qq_44866828/article/details/158661946)
+
++ [基于YOLOv8的脑肿瘤识别（中英文双版） | 附完整源码与效果演示](https://blog.csdn.net/weixin_52908342/article/details/158653378)
+
++ [OpenCode 免费模型深度评测：四大开源模型场景化对比与选型指南](https://blog.csdn.net/liuyunshengsir/article/details/158650643)
+
++ [OpenClaw vs CoPaw 完整功能对比与安全建议](https://blog.csdn.net/weixin_56364253/article/details/158578705)
+
++ [iOS 实战：MJRefresh + Lottie 打造高质量自定义下拉刷新组件](https://blog.csdn.net/weixin_39339407/article/details/158351719)
+
++ [多旋翼无人机组合导航系统-多源信息融合算法（Matlab代码实现）](https://blog.csdn.net/m0_73907476/article/details/142648737)
+
++ [透过现象看本质：以fast_lio架构的整套算法的局部避障改为TEB算法为例深度探讨——如何成为一个合格的算法架构师？](https://blog.csdn.net/yueyue543/article/details/158648375)
+

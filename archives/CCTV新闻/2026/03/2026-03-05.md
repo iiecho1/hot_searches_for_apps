@@ -173,3 +173,11 @@
 
 + [刚果（金）一矿区塌方造成200多人遇难](https://news.cctv.com/2026/03/05/ARTIugJnOgtjaOWDQZ1k597t260305.shtml)
 
++ [美联储“褐皮书”显示美国继续面临物价上涨压力](https://news.cctv.com/2026/03/05/ARTIloxqHzRphMtGEHGmiBoH260305.shtml)
+
++ [金正恩视察“崔贤”号驱逐舰 对海军核武装化推进表示满意](https://news.cctv.com/2026/03/05/ARTI0VaZ9e1iFFAAwV79da3O260305.shtml)
+
++ [美国法院要求美海关部门“退还”非法关税](https://news.cctv.com/2026/03/05/ARTIALln5OZtXxCdvG1oRRzz260305.shtml)
+
++ [拉特群岛发生6.2级地震，震源深度10千米](https://news.cctv.com/2026/03/05/ARTIZL8V8cYVQFIjFjYiRpqS260305.shtml)
+
