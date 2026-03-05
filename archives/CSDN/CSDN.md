@@ -169,3 +169,15 @@
 
 + [YOLO26 小目标检测技术：遥感 / 工业 / 交通场景适配](https://blog.csdn.net/weixin_52908342/article/details/158689665)
 
++ [二、Kafka核心架构与分布式存储](https://blog.csdn.net/2401_83830408/article/details/158663501)
+
++ [【Qt信号和槽】信号和槽的概述和使用](https://blog.csdn.net/2402_82670467/article/details/158702070)
+
++ [【教程4＞第11章＞第14节】基于FPGA的图像直方图提取与图像分割算法——理论分析与matlab仿真](https://blog.csdn.net/ccsss22/article/details/158698709)
+
++ [Jenkins通用配置及vue前端部署](https://blog.csdn.net/nalanxiaoxiao2011/article/details/158660077)
+
++ [OpenClaw飞书助手从0到可用，我踩遍6个致命坑（附可复刻实操）](https://blog.csdn.net/GODYAD/article/details/158647424)
+
++ [如何让deepseek输出markdown+Latex，并无损粘贴进word](https://blog.csdn.net/shaqilaixi2/article/details/158655001)
+

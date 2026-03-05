@@ -197,3 +197,13 @@
 
 + [伊朗外长：美国将为开创国际水域袭击先例“后悔”](https://news.cctv.com/2026/03/05/ARTIMd433qIuHyrdbaZBqWUv260305.shtml)
 
++ [乌克兰在换俘行动中换回200人](https://news.cctv.com/2026/03/05/ARTICalZ5BbeXcXvvi9MYym9260305.shtml)
+
++ [阿塞拜疆称遭到伊朗发动的“恐怖袭击”](https://news.cctv.com/2026/03/05/ARTIgOKwLZvBb9jt18CKkLDZ260305.shtml)
+
++ [泽连斯基：乌克兰愿以拦截型无人机换取“爱国者”导弹](https://news.cctv.com/2026/03/05/ARTI0uLc19xG2Z4wfMNir9TI260305.shtml)
+
++ [俄乌双方进行新一轮战俘交换](https://news.cctv.com/2026/03/05/ARTId72cIpsXVxXvH1yUT66t260305.shtml)
+
++ [欧盟最终批准2040年气候目标](https://news.cctv.com/2026/03/05/ARTIIVmA2pipt3M9ER5Rz5wg260305.shtml)
+
