@@ -175,3 +175,21 @@
 
 + [伊朗最高国家安全委员会秘书：已作好准备应对美国地面行动](https://news.cctv.com/2026/03/06/ARTIyZHNn4NTwEc5Rgw6H8Zy260306.shtml)
 
++ [以军称对伊朗打击行动正进入下一阶段](https://news.cctv.com/2026/03/06/ARTICobEeX9HSxklOUTMRECy260306.shtml)
+
++ [美国国土安全部部长将换人 特朗普提名新人选](https://news.cctv.com/2026/03/06/ARTIVYFYVCUJkKELMeWO6kDK260306.shtml)
+
++ [以军称监测到伊朗再向以方发射弹道导弹](https://news.cctv.com/2026/03/06/ARTIkWq1W17fzXwGynCUlAY1260306.shtml)
+
++ [巴西米纳斯吉拉斯州一养老院发生倒塌事故 致6人死亡](https://news.cctv.com/2026/03/06/ARTIqrLOpFBDMTofErsZguzO260306.shtml)
+
++ [伊朗军方称使用无人机击中美军“林肯”号航母](https://news.cctv.com/2026/03/06/ARTI1YHyQprfahswVU5K2Tkh260306.shtml)
+
++ [全美超20州就美政府新的全球关税政策提起诉讼](https://news.cctv.com/2026/03/06/ARTISpirzo2Q4CzQHsEHrvIE260306.shtml)
+
++ [伊朗军舰在国际海域遭袭 伊朗军队：将让敌人付出代价](https://news.cctv.com/2026/03/06/ARTIZ0j05koGlsfO8oPCWeQC260306.shtml)
+
++ [阿尔及利亚一架军机坠毁造成两人死亡](https://news.cctv.com/2026/03/06/ARTIt2jY7Sn1oMfmwIo59Ngu260306.shtml)
+
++ [意大利计划向海湾国家提供防空援助](https://news.cctv.com/2026/03/06/ARTIUHy5tXyq42mHlkhNaAK1260306.shtml)
+
