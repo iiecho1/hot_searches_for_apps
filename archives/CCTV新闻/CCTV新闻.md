@@ -161,3 +161,17 @@
 
 + [以军越过“蓝线”进入黎巴嫩境内](https://news.cctv.com/2026/03/03/ARTIaW7wvnsGg9jXyPu9aad3260303.shtml)
 
++ [伊朗外长：伊方已做好应对美军地面入侵的准备](https://news.cctv.com/2026/03/06/ARTI8HpBw2ofVsWDaDKRL3ZS260306.shtml)
+
++ [伊朗伊斯兰革命卫队：“真实承诺4”第二十轮行动已实施](https://news.cctv.com/2026/03/06/ARTIY6Z2A4it3Msn8UYLuL42260306.shtml)
+
++ [黎巴嫩真主党称用导弹击中集结的以色列国防军](https://news.cctv.com/2026/03/06/ARTIi6DdSPbSbWZR6vgYk2FJ260306.shtml)
+
++ [斯里兰卡将为附近海域另一伊朗军舰提供协助](https://news.cctv.com/2026/03/06/ARTI6JwuFlCX6G6JEovBHzGz260306.shtml)
+
++ [伊朗总统召开内阁会议评估最新局势 要求确保公共服务不间断运行](https://news.cctv.com/2026/03/06/ARTIMOHdCLPxVAgURGwJUEcb260306.shtml)
+
++ [印度空军一架苏-30战斗机失联](https://news.cctv.com/2026/03/06/ARTIqRHYvA2YyrKBM6Vi5obO260306.shtml)
+
++ [伊朗最高国家安全委员会秘书：已作好准备应对美国地面行动](https://news.cctv.com/2026/03/06/ARTIyZHNn4NTwEc5Rgw6H8Zy260306.shtml)
+
