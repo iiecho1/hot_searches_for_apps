@@ -163,3 +163,5 @@
 
 + [免费开源AI工具：CoPaw与OpenFang整理](https://blog.csdn.net/m0_60781580/article/details/158584925)
 
++ [pdd小程序纯算逆向分析（codex版）](https://blog.csdn.net/qiulin_wu/article/details/158498163)
+
