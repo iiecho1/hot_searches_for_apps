@@ -191,3 +191,5 @@
 
 + [斯里兰卡外长：已打捞出87具伊朗遇袭军舰人员遗体](https://news.cctv.com/2026/03/05/ARTIqTDqfs1Jx73PDRfoSHYC260305.shtml)
 
++ [为帮助滞留阿联酋同胞更好应对当前情况，中使馆发布最新信息梳理](https://news.cctv.com/2026/03/05/ARTIIWflLoPeCuKCaIeJ51XE260305.shtml)
+
