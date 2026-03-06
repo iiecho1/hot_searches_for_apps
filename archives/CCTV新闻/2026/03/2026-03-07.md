@@ -161,3 +161,17 @@
 
 + [韩国股市连续两日因大跌触发熔断机制](https://news.cctv.com/2026/03/04/ARTINZFwxpsXrnC4501bQfPb260304.shtml)
 
++ [伊朗启动“真实承诺4”第23轮军事行动](https://news.cctv.com/2026/03/07/ARTIkzIupBWuoYCPPZYY9027260307.shtml)
+
++ [古特雷斯呼吁停止中东地区冲突并尽快开启外交谈判](https://news.cctv.com/2026/03/07/ARTIO3SlN4sgCY0TZxXXnchJ260307.shtml)
+
++ [巴基斯坦西北部发生自杀式袭击 致1死18伤](https://news.cctv.com/2026/03/07/ARTI2CZH9suqTNhw3q0iboPz260307.shtml)
+
++ [俄乌交换1000名被俘士兵](https://news.cctv.com/2026/03/07/ARTIupzQ1GP1XiTUc9atPlhq260307.shtml)
+
++ [芬兰拟修法解除“核禁令”](https://news.cctv.com/2026/03/07/ARTIpPN7so4WEN3wPpnKHdC4260307.shtml)
+
++ [法国向地中海部署两栖攻击舰](https://news.cctv.com/2026/03/07/ARTIU7HzChcwbMdNaR4kxXNq260307.shtml)
+
++ [21名中国公民从伊朗经土库曼斯坦撤离回国](https://news.cctv.com/2026/03/07/ARTIOTrojV53illVFJyFRR24260307.shtml)
+
