@@ -215,3 +215,7 @@
 
 + [伊朗称未来几天对敌方攻击将更加猛烈和广泛](https://news.cctv.com/2026/03/06/ARTIrRpMdjh4ZbSUdnyjtcxk260306.shtml)
 
++ [日本执政联盟向高市早苗提议放宽武器出口限制](https://news.cctv.com/2026/03/06/ARTIKZWxeZWGu0RD3GKOnClJ260306.shtml)
+
++ [美以伊战事持续 国际油价创近6年最大单日涨幅](https://photo.cctv.com/2026/03/06/PHOAwdmhl5LFXlvGZTpf59Lj260306.shtml)
+
