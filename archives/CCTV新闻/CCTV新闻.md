@@ -175,3 +175,11 @@
 
 + [21名中国公民从伊朗经土库曼斯坦撤离回国](https://news.cctv.com/2026/03/07/ARTIOTrojV53illVFJyFRR24260307.shtml)
 
++ [美官员称“福特”号航母已从东地中海调往红海](https://news.cctv.com/2026/03/07/ARTIFZm6o7FLzZKnFvenOZ2w260307.shtml)
+
++ [俄将转移部分对欧天然气供应至其他国家](https://news.cctv.com/2026/03/07/ARTIUGlk6flsWBAigEIem4jA260307.shtml)
+
++ [伊朗军方称不会关闭霍尔木兹海峡](https://news.cctv.com/2026/03/07/ARTIbFfQYXSuFKjCuhDSlq4k260307.shtml)
+
++ [国际能源署：物流中断带来挑战 全球石油供应仍充足](https://news.cctv.com/2026/03/07/ARTI9nG8h62cdkWJNDhBJtMU260307.shtml)
+
