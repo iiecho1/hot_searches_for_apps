@@ -219,3 +219,5 @@
 
 + [美以伊战事持续 国际油价创近6年最大单日涨幅](https://photo.cctv.com/2026/03/06/PHOAwdmhl5LFXlvGZTpf59Lj260306.shtml)
 
++ [中国驻卡塔尔大使馆：请滞留中方人员利用航班恢复机会抓紧时间撤离](https://news.cctv.com/2026/03/06/ARTI0Rz3u9ae8BuXyZw6NYYv260306.shtml)
+
