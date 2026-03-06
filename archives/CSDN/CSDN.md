@@ -161,3 +161,41 @@
 
 + [网络安全扫描分析平台](https://blog.csdn.net/weixin_44309905/article/details/158624190)
 
++ [【MYSQL】MYSQL学习的一大重点：MYSQL库的操作](https://blog.csdn.net/2401_89899187/article/details/158622421)
+
++ [Python+AI 实战：搭建属于你的智能问答机器人](https://blog.csdn.net/2401_86326742/article/details/158737648)
+
++ [掌控消息全链路(4)——RabbitMQ/Spring-AMQP高级特性详解之事务与消息分发](https://blog.csdn.net/2401_89167985/article/details/157499496)
+
++ [数据库的第一道防线：从金仓KES看企业级身份验证体系的设计逻辑](https://blog.csdn.net/weixin_44976692/article/details/158730970)
+
++ [OpenClaw 配置本地 Ollama 模型完整指南：零成本打造全离线个人 AI 助理](https://blog.csdn.net/weixin_48708052/article/details/158660780)
+
++ [基于YOLO26深度学习的无人机视角野外搜救人员检测与语音提示系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/158699766)
+
++ [OpenClaw 全解析：功能、Ubuntu部署、扩展与AI Native架构借鉴](https://blog.csdn.net/weixin_41120248/article/details/158625871)
+
++ [OpenClaw - Day 6 基于 OpenClaw 的自动化与记忆系统实战](https://blog.csdn.net/yangshangwei/article/details/158705291)
+
++ [OpenClaw配置GLM联网搜索 - 免费使用AI搜索功能](https://blog.csdn.net/qq_37761711/article/details/158658162)
+
++ [使用python编程贪吃蛇单机小游戏（超详细讲解）](https://blog.csdn.net/wangjing_0522/article/details/150473434)
+
++ [【 LangChain框架】-实现 CoT 推理的多种方式](https://blog.csdn.net/zxc18344522713/article/details/158660447)
+
++ [K8s之pod解析与调度策略](https://blog.csdn.net/qq_53715074/article/details/158688254)
+
++ [Java项目CI/CD实战：Jenkins与GitLab CI深度解析](https://blog.csdn.net/sinat_41617212/article/details/158705852)
+
++ [《SHIT》期刊发文已1500+：在《SHIT》发论文，到底有多爽？](https://blog.csdn.net/2501_91148738/article/details/158696820)
+
++ [Free Virtual SAN Storage Software with StarWind](https://blog.csdn.net/allway2/article/details/158735178)
+
++ [深入理解Linux文件系统：inode映射、路径解析、挂载与软硬链接](https://blog.csdn.net/yhrxh_ymq/article/details/158704820)
+
++ [软路由之王：OpenWrt 深度解析与 25.12.0 新特性全指南](https://blog.csdn.net/linux_cfan/article/details/158663889)
+
++ [第九届先进电子技术、计算机与软件工程国际学术会议（AETCSE 2026）](https://blog.csdn.net/2302_79376097/article/details/158703958)
+
++ [OpenClaw 多飞书机器人配置指南](https://blog.csdn.net/ximenpiaofeixue/article/details/158735806)
+
