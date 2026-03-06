@@ -115,3 +115,13 @@
 
 + [火焰与烟雾目标检测数据集（13,500张图片已划分、已标注）| AI训练适用于目标检测任务](https://blog.csdn.net/weixin_52908342/article/details/158691794)
 
++ [秩序的基石：JVM 内存模型与 Happens-Before 如何终结并发混沌](https://blog.csdn.net/2603_94941239/article/details/158616881)
+
++ [SpringBoot + 消息顺序性保障 + 分区键：订单状态变更严格按序处理，避免乱序](https://blog.csdn.net/weixin_46619605/article/details/158662955)
+
++ [Linux和vxwork区别](https://blog.csdn.net/s651665496/article/details/158663774)
+
++ [OpenClaw 国内网络使用 本地部署](https://blog.csdn.net/weixin_44673517/article/details/158650635)
+
++ [unity 应用Ai编程工具 VSCode+ai插件](https://blog.csdn.net/fanfan_hongyun/article/details/158649412)
+
