@@ -195,3 +195,19 @@
 
 + [美国会众议院否决一项限制美总统发动军事行动权限的议案](https://news.cctv.com/2026/03/06/ARTIsex7L9igcCE8LTtk9UGT260306.shtml)
 
++ [也门胡塞武装称“全面支持”伊朗并准备随时参战](https://news.cctv.com/2026/03/06/ARTIwXiwg5hEIMwRLV42zS2F260306.shtml)
+
++ [日本再次向海洋排放核污染水](https://news.cctv.com/2026/03/06/ARTInAH5py8tzOvBvUXMHSe9260306.shtml)
+
++ [委内瑞拉证实同意与美国恢复外交和领事关系](https://news.cctv.com/2026/03/06/ARTIAHpTsaYr75XiMNsGOeJd260306.shtml)
+
++ [伊朗伊斯兰革命卫队：“真实承诺4”第21轮反击行动已启动](https://news.cctv.com/2026/03/06/ARTIYQZvC2mKeh7Bq36V95fq260306.shtml)
+
++ [特朗普称“必须亲自参与”选定伊朗新领导人](https://news.cctv.com/2026/03/06/ARTIiEYBZimc5uCP1C3ELC5v260306.shtml)
+
++ [特朗普要求立即赦免以色列总理](https://news.cctv.com/2026/03/06/ARTIwmcqtYSZNiiROIcyfXPP260306.shtml)
+
++ [美军驻卡塔尔空军基地遭无人机袭击](https://news.cctv.com/2026/03/06/ARTIr6WKsZdNf5CHrFkeYLm8260306.shtml)
+
++ [中国驻札幌总领馆提醒中国公民注意户外活动安全](https://news.cctv.com/2026/03/06/ARTIBb7eVKh7onLd98o8isRN260306.shtml)
+
