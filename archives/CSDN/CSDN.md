@@ -141,3 +141,23 @@
 
 + [论服务网格（Service Mesh）的应用](https://blog.csdn.net/JiShuiSanQianLi/article/details/158615151)
 
++ [AI实践(2)提示词工程](https://blog.csdn.net/Once_day/article/details/158705514)
+
++ [全栈进阶：OpenClaw 调用 Brave Search API 深度教程](https://blog.csdn.net/u014177256/article/details/158629786)
+
++ [大模型对齐的核心引擎：RLHF三阶段完整技术体系详解——从InstructGPT到ChatGPT与Claude 4.6的工程实践](https://blog.csdn.net/nmdbbzcl/article/details/158730179)
+
++ [【Linux系统编程】Linux进程信号](https://blog.csdn.net/2402_89035880/article/details/158618735)
+
++ [【SOC估计】扩展卡尔曼滤波器的锂离子电池电荷状态计算【含Matlab源码 15101期】](https://blog.csdn.net/weixin_63266434/article/details/158729611)
+
++ [Elastic Streams 中的 Log Processing UX 设计](https://blog.csdn.net/UbuntuTouch/article/details/158648943)
+
++ [OpenClaw飞书文件传输Skill](https://blog.csdn.net/zhin001/article/details/158616235)
+
++ [OpenClaw + 飞书接入实践手册（避坑版）](https://blog.csdn.net/aprals/article/details/158617421)
+
++ [OpenClaw Skills学习及手搓一个极简skill](https://blog.csdn.net/s060403072/article/details/158610729)
+
++ [网络安全扫描分析平台](https://blog.csdn.net/weixin_44309905/article/details/158624190)
+
