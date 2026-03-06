@@ -101,3 +101,5 @@
 
 + [docker容器化部署springboot项目（详解）](https://blog.csdn.net/qq_63981644/article/details/158663677)
 
++ [Flutter 三方库 langchain_core 的鸿蒙化适配指南 - 在鸿蒙系统上构建极致、透明、基于 LangChain 核心抽象的工业级大语言模型（LLM）应用编排与逻辑通信引擎](https://blog.csdn.net/jiang_style/article/details/158664255)
+
