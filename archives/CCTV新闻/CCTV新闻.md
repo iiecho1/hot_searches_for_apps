@@ -211,3 +211,7 @@
 
 + [中国驻札幌总领馆提醒中国公民注意户外活动安全](https://news.cctv.com/2026/03/06/ARTIBb7eVKh7onLd98o8isRN260306.shtml)
 
++ [伊朗：世界遗产“玫瑰宫”在空袭中受损](https://photo.cctv.com/2026/03/06/PHOAtwEETKUQgCTZhFhJ1A9o260306.shtml)
+
++ [伊朗称未来几天对敌方攻击将更加猛烈和广泛](https://news.cctv.com/2026/03/06/ARTIrRpMdjh4ZbSUdnyjtcxk260306.shtml)
+
