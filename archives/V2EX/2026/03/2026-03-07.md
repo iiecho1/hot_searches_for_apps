@@ -53,3 +53,9 @@
 
 + [和双相恋爱 3 年被分手，我丢了半条命](https://www.v2ex.com/t/1196429)
 
++ [很多人不看好 macbook neo,大胆预测一波会卖爆](https://www.v2ex.com/t/1196496)
+
++ [简单体验了一下 openClaw，说说自己的看法](https://www.v2ex.com/t/1196394)
+
++ [最近辅导孩子课文，抓狂之后我想到了我爸妈](https://www.v2ex.com/t/1196411)
+
