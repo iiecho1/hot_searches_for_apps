@@ -169,3 +169,5 @@
 
 + [科威特石油公司“预防性削减”原油生产和提炼](https://news.cctv.com/2026/03/08/ARTIzd5jWodmUJAKyizcxppg260308.shtml)
 
++ [墨西哥将部署近10万名安保人员护航世界杯](https://news.cctv.com/2026/03/08/ARTIcT12kl7YFAsefpUqWsmr260308.shtml)
+
