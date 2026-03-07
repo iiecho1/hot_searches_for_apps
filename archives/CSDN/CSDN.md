@@ -103,3 +103,11 @@
 
 + [Flutter 三方库 langchain_core 的鸿蒙化适配指南 - 在鸿蒙系统上构建极致、透明、基于 LangChain 核心抽象的工业级大语言模型（LLM）应用编排与逻辑通信引擎](https://blog.csdn.net/jiang_style/article/details/158664255)
 
++ [Java安全防护：HSM护密钥，99.99%防泄密？](https://blog.csdn.net/z_344791576/article/details/151899345)
+
++ [基于对话本体的自指宇宙学：一种面向AGI价值对齐的补充性理论框架](https://blog.csdn.net/weixin_50059478/article/details/158740998)
+
++ [Android14 默认锁屏解锁方式为无（避坑版）](https://blog.csdn.net/weixin_56663189/article/details/158689624)
+
++ [openJiuwen智能体平台如何快速的开发插件](https://blog.csdn.net/2301_77888392/article/details/158651555)
+
