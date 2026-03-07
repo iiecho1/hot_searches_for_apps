@@ -163,3 +163,7 @@
 
 + [芬兰拟解除“核禁令”为何超预期靠拢北约核体系？](https://news.cctv.com/2026/03/08/ARTIm6a9gofkxt7k1PikT8z2260307.shtml)
 
++ [俄罗斯重新布局能源出口 欧洲的能源将从哪里来？](https://news.cctv.com/2026/03/08/ARTIno22pSavHb256Dfg2CVo260307.shtml)
+
++ [埃及称正与各方密切接触 以遏制并缓和地区紧张局势](https://news.cctv.com/2026/03/08/ARTItpVyTxMlNFGYX0PpUX1W260308.shtml)
+
