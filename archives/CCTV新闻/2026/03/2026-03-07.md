@@ -203,3 +203,13 @@
 
 + [肯尼亚多地发生洪灾 已致8人死亡](https://news.cctv.com/2026/03/07/ARTIq5EIOZGMU0e2t67pZ0Kv260307.shtml)
 
++ [以军称出动数十架战机空袭伊朗导弹储存设施](https://news.cctv.com/2026/03/07/ARTIMl3J09CBfVbAjeXwUhk7260307.shtml)
+
++ [乌称俄大规模袭击乌能源系统 致7地停电](https://news.cctv.com/2026/03/07/ARTIOIoz3KCFNlwYJizgPlhR260307.shtml)
+
++ [伊朗称袭击美军驻阿联酋基地](https://news.cctv.com/2026/03/07/ARTIoHD7NJ0hdBYQKHUq8taf260307.shtml)
+
++ [伊拉克否认边境地区存在渗透或越境活动](https://news.cctv.com/2026/03/07/ARTIez73GT4s2xp1vxUETOaR260307.shtml)
+
++ [阿联酋迪拜机场部分恢复运营](https://news.cctv.com/2026/03/07/ARTIvIdxlkQMTZEY7glUUUV0260307.shtml)
+

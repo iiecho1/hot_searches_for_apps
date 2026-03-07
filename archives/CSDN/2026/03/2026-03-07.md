@@ -143,3 +143,25 @@
 
 + [AI赋能下的中国低代码市场：从工具革新到产业数字化核心引擎](https://blog.csdn.net/sdgfafg_25/article/details/158733745)
 
++ [量化、算子融合、内存映射：C语言实现AI推理的“三板斧“](https://blog.csdn.net/2301_81152266/article/details/158772011)
+
++ [GPT-5.4上线，编程能力超过Claude Opus 4.6](https://blog.csdn.net/guorui_java/article/details/158769228)
+
++ [零信任安全架构下的身份认证难题：如何在保证用户无感体验的同时，利用 AI 建模防御大规模撞库攻击？](https://blog.csdn.net/2301_77485708/article/details/158735032)
+
++ [基于YOLO26深度学习的无人机视角路面病害检测识别系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/158741618)
+
++ [【Linux网络系列】从底层寻址到应用穿透：深度剖析 ARP、ICMP 协议与 FRP 内网穿透、内网打洞、代理机制](https://blog.csdn.net/2301_80260194/article/details/158741846)
+
++ [键值密钥:解锁 C++ 关联容器的存储潜能](https://blog.csdn.net/ABWSO/article/details/158659955)
+
++ [【新能源汽车研发测试全流程电参数测量技术应用与实践】](https://blog.csdn.net/weixin_62244995/article/details/158703400)
+
++ [OpenClaw对接飞书机器人完整实现教程（附问题排查方案）](https://blog.csdn.net/2401_82786637/article/details/158730138)
+
++ [基于YOLOv8的斑马线识别（中英文双版） | 附完整源码与效果演示](https://blog.csdn.net/weixin_52908342/article/details/158736503)
+
++ [Unity 高性能计时器管理器：基于对象池的实现方案](https://blog.csdn.net/qq_41973169/article/details/158732563)
+
++ [智造贸易新引擎：基于混合架构与低代码AI平台的企业级大模型落地实战](https://blog.csdn.net/lgf228/article/details/158664740)
+
