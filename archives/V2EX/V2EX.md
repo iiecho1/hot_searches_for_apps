@@ -65,3 +65,9 @@
 
 + [claude code 使用哪家国内 api 靠谱](https://www.v2ex.com/t/1196478)
 
++ [发现现在的家用监控摄像头都有物理遮挡功能了](https://www.v2ex.com/t/1196453)
+
++ [淘宝 APP 每次启动都要给我放一段动画](https://www.v2ex.com/t/1196462)
+
++ [我实话，我真不建议你现在就去养 小龙虾](https://www.v2ex.com/t/1196469)
+

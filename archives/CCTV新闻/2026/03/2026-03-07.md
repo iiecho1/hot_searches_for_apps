@@ -213,3 +213,5 @@
 
 + [阿联酋迪拜机场部分恢复运营](https://news.cctv.com/2026/03/07/ARTIvIdxlkQMTZEY7glUUUV0260307.shtml)
 
++ [伊朗军方称打击地区内美军基地 造成美军大量伤亡](https://news.cctv.com/2026/03/07/ARTIS8MvG3vOdTsTIFV5zeoF260307.shtml)
+
