@@ -167,3 +167,5 @@
 
 + [埃及称正与各方密切接触 以遏制并缓和地区紧张局势](https://news.cctv.com/2026/03/08/ARTItpVyTxMlNFGYX0PpUX1W260308.shtml)
 
++ [科威特石油公司“预防性削减”原油生产和提炼](https://news.cctv.com/2026/03/08/ARTIzd5jWodmUJAKyizcxppg260308.shtml)
+
