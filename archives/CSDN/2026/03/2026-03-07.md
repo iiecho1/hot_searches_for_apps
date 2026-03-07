@@ -121,3 +121,13 @@
 
 + [软路由之王：OpenWrt 深度解析与 25.12.0 新特性全指南](https://blog.csdn.net/linux_cfan/article/details/158663889)
 
++ [Linux 动态链接与动态库加载深度解析](https://blog.csdn.net/2503_91389547/article/details/157945028)
+
++ [PyTorch实战（34）——基于PyTorch Lightning的跨硬件模型训练](https://blog.csdn.net/LOVEmy134611/article/details/151154531)
+
++ [基于神经网络的学生学习情况分析系统-hadoop+django](https://blog.csdn.net/shmp54xmu/article/details/158742311)
+
++ [Python 属性描述符：从原理到 ORM 实践详解](https://blog.csdn.net/2503_92624912/article/details/158656806)
+
++ [新能源汽车驱动电机测试台架系统构成与技术演进分析](https://blog.csdn.net/weixin_62244995/article/details/158660746)
+
