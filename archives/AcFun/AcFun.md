@@ -67,3 +67,5 @@
 
 + [【咬一口兔娘】高开叉也太好看了 ](https://m.acfun.cn/v/?ac=48287266)
 
++ [【中文字幕】BanG Dream! 10th Anniversary LIVE](https://m.acfun.cn/v/?ac=48321438)
+

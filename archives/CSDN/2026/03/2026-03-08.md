@@ -131,3 +131,7 @@
 
 + [企业级在线文档：ONLYOFFICE 核心优势深度解读与测评体验](https://blog.csdn.net/jiang_style/article/details/158770695)
 
++ [HarmonyOS 6 自定义人脸识别模型5：NDK相机预览实现](https://blog.csdn.net/sjw890821sjw/article/details/158745072)
+
++ [自动化机器学习（AutoML）库TPOT使用指南](https://blog.csdn.net/weixin_40600132/article/details/158744566)
+
