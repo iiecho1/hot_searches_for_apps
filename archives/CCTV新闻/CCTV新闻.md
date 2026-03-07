@@ -171,3 +171,5 @@
 
 + [墨西哥将部署近10万名安保人员护航世界杯](https://news.cctv.com/2026/03/08/ARTIcT12kl7YFAsefpUqWsmr260308.shtml)
 
++ [加纳政府抗议联黎部队加纳营遭袭事件](https://news.cctv.com/2026/03/08/ARTIz89jhyqHjgU1aX4GDiFT260308.shtml)
+
