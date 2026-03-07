@@ -193,3 +193,11 @@
 
 + [伊朗称对美以军事目标进行大规模打击](https://news.cctv.com/2026/03/07/ARTIYbrKW6av8U6L6lTCiLI0260307.shtml)
 
++ [美国宣布有条件放松对委内瑞拉黄金交易相关制裁](https://news.cctv.com/2026/03/07/ARTIutEji9r8AU9yAHD55nXM260307.shtml)
+
++ [美驻约旦大使馆敦促在中东地区美国公民离境](https://news.cctv.com/2026/03/07/ARTINSPK94wWWrzxQYv5pElc260307.shtml)
+
++ [伊朗总统发表最新讲话 称绝不可能无条件投降](https://news.cctv.com/2026/03/07/ARTIiRiv5U99vR7zhHPyOqnP260307.shtml)
+
++ [阿联酋航空暂停所有往返迪拜航班 迪拜国际机场暂停运营](https://news.cctv.com/2026/03/07/ARTI1PMxe1AIFMh9E3Edb6uJ260307.shtml)
+
