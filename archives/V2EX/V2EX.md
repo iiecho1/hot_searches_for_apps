@@ -41,3 +41,7 @@
 
 + [问大家，关于五险不按照实际工资缴纳的问题！](https://www.v2ex.com/t/1196319)
 
++ [你身边有没有这样的人，他们拒绝学习任何新技术和新工具？](https://www.v2ex.com/t/1196461)
+
++ [Cursor 崩了。Service Unavailable](https://www.v2ex.com/t/1196358)
+
