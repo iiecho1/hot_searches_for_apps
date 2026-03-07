@@ -201,3 +201,5 @@
 
 + [阿联酋航空暂停所有往返迪拜航班 迪拜国际机场暂停运营](https://news.cctv.com/2026/03/07/ARTI1PMxe1AIFMh9E3Edb6uJ260307.shtml)
 
++ [肯尼亚多地发生洪灾 已致8人死亡](https://news.cctv.com/2026/03/07/ARTIq5EIOZGMU0e2t67pZ0Kv260307.shtml)
+
