@@ -27,3 +27,13 @@
 
 + [这两天突然发现鼠标侧边的两个键 还能这么用](https://www.v2ex.com/t/1196275)
 
++ [AI 受害者+1](https://www.v2ex.com/t/1196297)
+
++ [2026 年 PHP 路在何方](https://www.v2ex.com/t/1196334)
+
++ [GPT-5.4 Thinking 依然过不了洗车测试](https://www.v2ex.com/t/1196407)
+
++ [离职几个月后有些前同事的名字就突然想不起来了，这正常吗？](https://www.v2ex.com/t/1196388)
+
++ [2 段或者 3 段奶粉推荐](https://www.v2ex.com/t/1196287)
+

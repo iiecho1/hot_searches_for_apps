@@ -183,3 +183,11 @@
 
 + [国际能源署：物流中断带来挑战 全球石油供应仍充足](https://news.cctv.com/2026/03/07/ARTI9nG8h62cdkWJNDhBJtMU260307.shtml)
 
++ [尼日利亚一小镇遭恐怖分子袭击 300多人被绑架](https://news.cctv.com/2026/03/07/ARTILUUFDrqHMtepclaJaSvF260307.shtml)
+
++ [国际海事组织：霍尔木兹海峡船只遭袭造成海员4死3重伤](https://news.cctv.com/2026/03/07/ARTIAvSKVTj38jpMtfCx7qUG260307.shtml)
+
++ [因天然气供应危机 秘鲁首都将实施紧急管控](https://news.cctv.com/2026/03/07/ARTIRXBS1bpf3cIVVN6vHhXl260307.shtml)
+
++ [美第三个航母打击群据称准备部署至中东](https://news.cctv.com/2026/03/07/ARTIqYTo4mqgm10GRUQZmsqZ260307.shtml)
+
