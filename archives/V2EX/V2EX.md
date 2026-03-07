@@ -71,3 +71,5 @@
 
 + [我实话，我真不建议你现在就去养 小龙虾](https://www.v2ex.com/t/1196469)
 
++ [AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）](https://www.v2ex.com/t/1196541)
+

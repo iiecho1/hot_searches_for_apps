@@ -31,3 +31,25 @@
 
 + [魏牌 V9X 海报被指抄袭路虎，长城汽车董事长魏建军致歉](https://m.ithome.com/html/926679.htm)
 
++ [阿里最年轻 P10 林俊旸离职尘埃落定：为千问，我只能做这么多了](https://m.ithome.com/html/926794.htm)
+
++ [腾讯 QQ 开放 OpenClaw“小龙虾”官方接入：支持一键创建机器人，单个账号最多 5 个](https://m.ithome.com/html/926823.htm)
+
++ [路虎揽胜回应魏建军道歉：真诚和担当是最好的代言，祝长城汽车越来越好](https://m.ithome.com/html/926774.htm)
+
++ [小米雷军谈“人工智能时代”：未来每周或仅需工作 3 天，每天工作 2 个小时](https://m.ithome.com/html/926809.htm)
+
++ [网警依法查处造谣某知名茶饮品牌“准毒品”等 3 起网络谣言案](https://m.ithome.com/html/926735.htm)
+
++ [苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra](https://m.ithome.com/html/926757.htm)
+
++ [苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平](https://m.ithome.com/html/926721.htm)
+
++ [借免费安装“小龙虾”活动扣费 200 余元？腾讯澄清：系历史费用，与本次 OpenClaw 的部署无关](https://m.ithome.com/html/926790.htm)
+
++ [苹果 2026 款 M5 芯片 MacBook Air 跑分再曝：单核比 M4 款高 9.34%、多核高 13.56%](https://m.ithome.com/html/926714.htm)
+
++ [商务部回应“安世荷兰批量禁用安世中国员工办公软件”：如再次引发全球半导体产供链危机，荷方必须对此承担全部责任](https://m.ithome.com/html/926862.htm)
+
++ [车主十年百万公里“干爆”里程表，林志斌透露广汽本田 10 年以上车龄的车约 80% 仍正常行驶](https://m.ithome.com/html/926705.htm)
+
