@@ -25,3 +25,9 @@
 
 + [苹果 MacBook Neo 笔记本 Geekbench 跑分曝光：多核性能略高于 M1，单核接近 M3/M4](https://m.ithome.com/html/926388.htm)
 
++ [华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起](https://m.ithome.com/html/926710.htm)
+
++ [小米 17 系列手机“龙虾”封测版本开推，新增基于 MiMo 大模型构建的 Xiaomi miclaw 应用](https://m.ithome.com/html/926692.htm)
+
++ [魏牌 V9X 海报被指抄袭路虎，长城汽车董事长魏建军致歉](https://m.ithome.com/html/926679.htm)
+
