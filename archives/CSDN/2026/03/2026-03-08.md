@@ -181,3 +181,15 @@
 
 + [2026 OpenClaw 省钱终极玩法：零海外卡接入 Claude / Gemini / Grok（MaynorAPIPro 中转教程）](https://blog.csdn.net/xianyu120/article/details/158805077)
 
++ [关于好靶场的ssrf靶场和sql](https://blog.csdn.net/2402_87749697/article/details/158808909)
+
++ [【C++|Linux系统编程】信号](https://blog.csdn.net/qq_46018418/article/details/158753427)
+
++ [杀戮尖塔2下载、Slay the Spire 2中文版、卡牌肉鸽游戏、杀戮尖塔2联机、杀戮尖塔2攻略](https://blog.csdn.net/weixin_41961749/article/details/158745055)
+
++ [OpenClaw小龙虾对接飞书教程最新版，飞书官方下场开发插件，龙虾长出龙虾钳，体验更丝滑](https://blog.csdn.net/zbx931197485/article/details/158777872)
+
++ [OpenClaw 汉化版完整部署手册：Docker + SSH 隧道 + 多端访问](https://blog.csdn.net/2303_77209185/article/details/158744352)
+
++ [OpenClaw：通过飞书发送文件的完整教程](https://blog.csdn.net/xiaoting451292510/article/details/158775397)
+

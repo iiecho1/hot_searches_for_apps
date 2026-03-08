@@ -59,3 +59,7 @@
 
 + [ip13 这个 399 换电池真 tm 坑](https://www.v2ex.com/t/1196610)
 
++ [大家用 openclaw 做的最有意思的事情是什么？](https://www.v2ex.com/t/1196622)
+
++ [无聊重复的游戏还会有人玩？](https://www.v2ex.com/t/1196655)
+
