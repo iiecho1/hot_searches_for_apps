@@ -67,3 +67,5 @@
 
 + [让我看看你的战绩](https://m.acfun.cn/v/?ac=48324151)
 
++ [【Pocket Girls】Silver Me Up, Habin](https://m.acfun.cn/v/?ac=48287650)
+
