@@ -25,3 +25,27 @@
 
 + [车主十年百万公里“干爆”里程表，林志斌透露广汽本田 10 年以上车龄的车约 80% 仍正常行驶](https://m.ithome.com/html/926705.htm)
 
++ [消息称苹果 iPhone 17 系列手机国内销量突破 2000 万，华为 Mate 80 系列约 405.48 万](https://m.ithome.com/html/926947.htm)
+
++ [苹果 M5 MacBook Air 游玩《赛博朋克 2077》等 3A 游戏功耗仅 7-8W](https://m.ithome.com/html/926893.htm)
+
++ [AI 爆火短片《霍去病》导演杨涵涵澄清网传数据信息：5 亿播放量个人无法统计、3000 元仅为算力成本](https://m.ithome.com/html/926980.htm)
+
++ [小米首款增程 SUV“YU9”真灯上车，路测视频曝光](https://m.ithome.com/html/926962.htm)
+
++ [突破 400 万大关：消息称华为 Mate 80 系列旗舰手机销量约 405.48 万台](https://m.ithome.com/html/926902.htm)
+
++ [Mac mini 不止养 AI 龙虾：苹果 M4 算力机密被破解，Claude 立新功](https://m.ithome.com/html/926907.htm)
+
++ [王腾：内存二季度还要继续涨价，手机行业估计今年各家会有一波大裁员](https://m.ithome.com/html/926997.htm)
+
++ [比亚迪 2026 款仰望 U8 全新内饰官图公布，新车售价 100.8 万元起](https://m.ithome.com/html/927007.htm)
+
++ [深圳龙岗拟出台措施，支持 OpenClaw 发展](https://m.ithome.com/html/926999.htm)
+
++ [苹果以抽象视频营销 MacBook Neo 吸引 Z 世代关注，甚至有人怀疑被盗号](https://m.ithome.com/html/926886.htm)
+
++ [AI“养龙虾”爆火，央视提醒 OpenClaw 部分实例在默认或不当配置情况下存在较高安全风险](https://m.ithome.com/html/926992.htm)
+
++ [金山 WPS for Pad 正式版已上架苹果 App Store 港澳台商店](https://m.ithome.com/html/926940.htm)
+
