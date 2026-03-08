@@ -193,3 +193,7 @@
 
 + [伊朗方面称美以袭击已造成该国9669处民用设施受损](https://news.cctv.com/2026/03/08/ARTIH2jwBQwvPUQyqr81Mve6260308.shtml)
 
++ [伊朗称“真实承诺-4”行动第28轮攻势已正式开启](https://news.cctv.com/2026/03/08/ARTI2cc8920lHRZ8eBpAkVCa260308.shtml)
+
++ [伊朗称法尔迪斯油库遭袭致6人死亡21人受伤](https://news.cctv.com/2026/03/08/ARTIn39wgajapZ0TZnPfy0Es260308.shtml)
+

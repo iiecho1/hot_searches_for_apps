@@ -57,3 +57,5 @@
 
 + [Codex 的额度又又又重置了。](https://www.v2ex.com/t/1196614)
 
++ [ip13 这个 399 换电池真 tm 坑](https://www.v2ex.com/t/1196610)
+
