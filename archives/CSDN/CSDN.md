@@ -101,3 +101,13 @@
 
 + [McPorter 实战：一键管理 OpenClaw 的 MCP 服务器](https://blog.csdn.net/u014798858/article/details/158738642)
 
++ [OpenClaw催生智能AI管家：AI家庭操作系统产业分析（2026–2030）](https://blog.csdn.net/qq8864/article/details/158772887)
+
++ [喂饭级教程：OpenClaw 对接 QQ 机器人，本地/腾讯云都能用](https://blog.csdn.net/jiangjunshow/article/details/158771130)
+
++ [一文读懂：微信小程序云数据库直连原理与使用指南](https://blog.csdn.net/csdn_silent/article/details/158738331)
+
++ [Oceanus+TCHouse-C 构建轻量云原生实时数仓实战](https://blog.csdn.net/qq_24597659/article/details/158744892)
+
++ [OpenClaw+钉钉机器人（macOS 系统）](https://blog.csdn.net/qq_43671996/article/details/158744382)
+
