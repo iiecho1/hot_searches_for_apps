@@ -163,3 +163,5 @@
 
 + [国际油价、天然气价格大幅飙升！最新分析→](https://news.cctv.com/2026/03/09/ARTIV3LP53Ts5QkOdasJXvbe260308.shtml)
 
++ [穆杰塔巴·哈梅内伊当选伊朗新任最高领袖](https://news.cctv.com/2026/03/09/ARTImkwrV7t3rHJ3hsYR9u0X260309.shtml)
+
