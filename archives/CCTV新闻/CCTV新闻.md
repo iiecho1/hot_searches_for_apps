@@ -197,3 +197,9 @@
 
 + [伊朗称法尔迪斯油库遭袭致6人死亡21人受伤](https://news.cctv.com/2026/03/08/ARTIn39wgajapZ0TZnPfy0Es260308.shtml)
 
++ [巴基斯坦称巴阿冲突中阿方已有583人死亡](https://news.cctv.com/2026/03/08/ARTIiCX60qTeHMOZNURmJHOs260308.shtml)
+
++ [多架美军运输机相继离开韩国](https://news.cctv.com/2026/03/08/ARTIPeNJO0EZAjR5faUfqTpn260308.shtml)
+
++ [中国驻巴士拉总领馆再次提醒领区内中资机构、员工和中国公民加强安全防范](https://news.cctv.com/2026/03/08/ARTIzVXWa1vZWPdTLDnEWUue260308.shtml)
+
