@@ -187,3 +187,9 @@
 
 + [苏丹西部两个集市遭无人机袭击 造成33人死亡](https://news.cctv.com/2026/03/08/ARTIfCEcJjEEdNegzJA1ZNEs260308.shtml)
 
++ [伊朗称击落80架各类型无人机](https://news.cctv.com/2026/03/08/ARTIH3aewjX2M6XMdYJb6PFx260308.shtml)
+
++ [以军称将“追杀”伊朗新的最高领袖](https://news.cctv.com/2026/03/08/ARTIq8o0wrS55NYAUNeObSJd260308.shtml)
+
++ [伊朗方面称美以袭击已造成该国9669处民用设施受损](https://news.cctv.com/2026/03/08/ARTIH2jwBQwvPUQyqr81Mve6260308.shtml)
+
