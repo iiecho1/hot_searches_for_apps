@@ -47,3 +47,7 @@
 
 + [相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？](https://www.v2ex.com/t/1196592)
 
++ [AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）](https://www.v2ex.com/t/1196595)
+
++ [再次倡议：放弃使用 imgur !](https://www.v2ex.com/t/1196619)
+
