@@ -173,3 +173,11 @@
 
 + [加纳政府抗议联黎部队加纳营遭袭事件](https://news.cctv.com/2026/03/08/ARTIz89jhyqHjgU1aX4GDiFT260308.shtml)
 
++ [伊朗称俘获数名美军士兵 美方否认](https://news.cctv.com/2026/03/08/ARTITLPDvL35MSQsdyqPCvwx260308.shtml)
+
++ [伊朗外长：沙特承诺其领土、领水和领空不会被用于攻击伊朗](https://news.cctv.com/2026/03/08/ARTI6PG0y9RZMI7hvUKCFiOu260308.shtml)
+
++ [特朗普称已排除库尔德武装参战可能](https://news.cctv.com/2026/03/08/ARTI7C0skoof9gBrwtMrrbux260308.shtml)
+
++ [伊朗最高国家安全委员会秘书：伊朗导弹储备充足且稳定](https://news.cctv.com/2026/03/08/ARTIw560vOdjntuqT1PWW2YO260308.shtml)
+

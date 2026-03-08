@@ -135,3 +135,21 @@
 
 + [自动化机器学习（AutoML）库TPOT使用指南](https://blog.csdn.net/weixin_40600132/article/details/158744566)
 
++ [揭秘AI大模型通信机制：深入理解流式传输与数据封装逻辑](https://blog.csdn.net/csdn_silent/article/details/158691488)
+
++ [OpenClaw 配置本地 Ollama 模型完整指南：零成本打造全离线个人 AI 助理](https://blog.csdn.net/weixin_48708052/article/details/158660780)
+
++ [图像加密：3大C#安全升级，AES VS JWT，漏洞减少90%？](https://blog.csdn.net/z_344791576/article/details/151898424)
+
++ [量子计算与强化学习的融合：从理论架构到应用实践](https://blog.csdn.net/eidolon_foot/article/details/158660029)
+
++ [技术选型的哲学：自研 vs 开源，激进 vs 保守的决策模型](https://blog.csdn.net/weixin_38717458/article/details/158776949)
+
++ [[大模型实战 07 额外篇] 从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体](https://blog.csdn.net/m0_46629751/article/details/158772384)
+
++ [Unity发布WebGL部署阿里云ECS+ESA](https://blog.csdn.net/hanyangcsdn/article/details/158739624)
+
++ [x-cmd 发布 v0.8.5: humantime 人性化时间转换，tmp 跨平台临时文件管理，assert 轻松搞定测试断言](https://blog.csdn.net/edwinjhlee/article/details/158743674)
+
++ [Flutter 三方库 connectrpc 的鸿蒙化适配指南 - 替代传统 gRPC、高性能 RPC 通讯实战、鸿蒙级微服务架构专家](https://blog.csdn.net/guoyizhongxing/article/details/158703525)
+
