@@ -183,3 +183,5 @@
 
 + [希腊发生5.5级地震，震源深度10千米](https://news.cctv.com/2026/03/08/ARTI7GHT8SVyqlrU9qotBMM3260308.shtml)
 
++ [伊朗就新的最高领袖人选作出最终决定](https://news.cctv.com/2026/03/08/ARTIxAsHKie5O8GSlmlRsajU260308.shtml)
+

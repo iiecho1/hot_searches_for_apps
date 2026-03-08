@@ -41,3 +41,9 @@
 
 + [注册 telegram 的实体卡，用那个国家比较好](https://www.v2ex.com/t/1196586)
 
++ [注意奈云机场 v2ny 已经跑路，目前线路全红，厂家还在圈钱](https://www.v2ex.com/t/1196524)
+
++ [从“腾讯工程师摆摊给粉丝装 OpenClaw”看，这项目是不是被资本绑架了？](https://www.v2ex.com/t/1196513)
+
++ [相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？](https://www.v2ex.com/t/1196592)
+
