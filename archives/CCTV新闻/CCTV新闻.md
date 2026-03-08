@@ -185,3 +185,5 @@
 
 + [伊朗就新的最高领袖人选作出最终决定](https://news.cctv.com/2026/03/08/ARTIxAsHKie5O8GSlmlRsajU260308.shtml)
 
++ [苏丹西部两个集市遭无人机袭击 造成33人死亡](https://news.cctv.com/2026/03/08/ARTIfCEcJjEEdNegzJA1ZNEs260308.shtml)
+

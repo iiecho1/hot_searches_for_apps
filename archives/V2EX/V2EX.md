@@ -51,3 +51,7 @@
 
 + [再次倡议：放弃使用 imgur !](https://www.v2ex.com/t/1196619)
 
++ [和香港同事开会总是听不太懂粤语，我用 Tauri 搓了个实时字幕工具 (macOS/Win)](https://www.v2ex.com/t/1196574)
+
++ [昨晚升级完 26.3.1 以后🪜用不了了？](https://www.v2ex.com/t/1196587)
+

@@ -161,3 +161,17 @@
 
 + [基于Linux操作系统：系统调用机制详解](https://blog.csdn.net/2401_89899187/article/details/158729031)
 
++ [TCP 并发服务器](https://blog.csdn.net/2603_94905394/article/details/158741902)
+
++ [【AI智能体】腾讯云服务器部署OpenClaw对接飞书实战详解](https://blog.csdn.net/zhangcongyi420/article/details/158704285)
+
++ [做鸿蒙 App 一个月：10 个 ArkUI 大坑](https://blog.csdn.net/qq_36863796/article/details/158777543)
+
++ [数据库的第一道防线：从金仓KES看企业级身份验证体系的设计逻辑](https://blog.csdn.net/weixin_44976692/article/details/158730970)
+
++ [Flutter 三方库 flutter_to_debian 的鸿蒙化适配指南 - 掌控 Linux 二进制分发、Debian 封装实战、鸿蒙级精密桌面部署专家](https://blog.csdn.net/cannonmonster01/article/details/158742164)
+
++ [应用层协议 | HTTP协议 | TCP并发服务器](https://blog.csdn.net/2401_85162213/article/details/158770355)
+
++ [如何在项目中减少 XSS 攻击](https://blog.csdn.net/2301_81253185/article/details/158778198)
+
