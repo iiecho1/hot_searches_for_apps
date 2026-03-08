@@ -203,3 +203,7 @@
 
 + [中国驻巴士拉总领馆再次提醒领区内中资机构、员工和中国公民加强安全防范](https://news.cctv.com/2026/03/08/ARTIzVXWa1vZWPdTLDnEWUue260308.shtml)
 
++ [日本本州东部远海发生5.7级地震，震源深度20千米](https://news.cctv.com/2026/03/08/ARTIwH8iIknzT2TkhrHo1Llw260308.shtml)
+
++ [汤加群岛发生6.0级地震，震源深度130千米](https://news.cctv.com/2026/03/08/ARTI1tcflF737WCZVqCfqyg9260308.shtml)
+
