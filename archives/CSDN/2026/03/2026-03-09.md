@@ -111,3 +111,11 @@
 
 + [OpenClaw+钉钉机器人（macOS 系统）](https://blog.csdn.net/qq_43671996/article/details/158744382)
 
++ [Hadoop输入格式深度解析：默认输入格式与自定义实战](https://blog.csdn.net/qq_41840843/article/details/158508954)
+
++ [2026 OpenClaw 省钱终极玩法：零海外卡接入 Claude / Gemini / Grok（MaynorAPIPro 中转教程）](https://blog.csdn.net/xianyu120/article/details/158805077)
+
++ [初学者无痛C转C++](https://blog.csdn.net/2403_88688613/article/details/158806364)
+
++ [[大模型实战 07 额外篇] 从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体](https://blog.csdn.net/m0_46629751/article/details/158772384)
+
