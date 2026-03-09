@@ -191,3 +191,7 @@
 
 + [美以伊战事波及范围扩大 海湾多国报告平民伤亡](https://news.cctv.com/2026/03/09/ARTIu8NFiXirVaIGY5pf1CKj260309.shtml)
 
++ [日本政府要求为释放石油储备做好准备](https://news.cctv.com/2026/03/09/ARTIfPECQmnp79aX69fXBEbc260309.shtml)
+
++ [实锤！美媒给出美军“战斧”袭击伊朗小学证据](https://news.cctv.com/2026/03/09/ARTIe37IJmQWocQGYI1BDpVN260309.shtml)
+

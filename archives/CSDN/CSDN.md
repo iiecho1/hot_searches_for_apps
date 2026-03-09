@@ -175,3 +175,5 @@
 
 + [程序员的自我修养：用 AR 眼镜管理健康](https://blog.csdn.net/2401_86326742/article/details/158805831)
 
++ [用KWDB打通设备监控、告警与工单闭环：一次设备运维场景实践](https://blog.csdn.net/qyj19920704/article/details/158812261)
+
