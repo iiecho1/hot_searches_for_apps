@@ -49,3 +49,7 @@
 
 + [苹果以抽象视频营销 MacBook Neo 吸引 Z 世代关注，甚至有人怀疑被盗号](https://m.ithome.com/html/926886.htm)
 
++ [全系“放开卖”：华为 Mate 80 系列手机现货开售，4699 元起](https://m.ithome.com/html/927375.htm)
+
++ [苹果 M5 版 MacBook Air 13  续航实测：较 M4 版本略微倒退](https://m.ithome.com/html/927321.htm)
+
