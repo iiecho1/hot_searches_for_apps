@@ -177,3 +177,7 @@
 
 + [用KWDB打通设备监控、告警与工单闭环：一次设备运维场景实践](https://blog.csdn.net/qyj19920704/article/details/158812261)
 
++ [AI实践(3)Token与上下文窗口](https://blog.csdn.net/Once_day/article/details/158839105)
+
++ [基于大数据爬虫+Hadoop+电脑商品数据爬取与可视化平台设计与开发(源码+精品论文+答辩PPT等资料)](https://blog.csdn.net/weixin_39709134/article/details/158847895)
+
