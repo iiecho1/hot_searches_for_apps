@@ -181,3 +181,7 @@
 
 + [特朗普称对伊朗战事“已基本结束”](https://news.cctv.com/2026/03/10/ARTIXRqFowkG18XQc7tpCRzW260310.shtml)
 
++ [美军称已袭击约50艘伊朗船只并打击超五千个伊朗目标](https://news.cctv.com/2026/03/10/ARTIldOEgW4u9oFSmjC7enCe260310.shtml)
+
++ [特朗普称对伊朗军事行动是一次“短期行动”](https://news.cctv.com/2026/03/10/ARTIJ3qFQXCKC91HJHHfsuTI260310.shtml)
+
