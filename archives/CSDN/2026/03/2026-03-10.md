@@ -111,3 +111,27 @@
 
 + [一、云原生介绍-1-cloud-native-definition](https://blog.csdn.net/m0_74823507/article/details/158841699)
 
++ [OpenClaw接入企业微信全攻略：从0到1打通企业AI协作通道](https://blog.csdn.net/beautifulmemory/article/details/158846122)
+
++ [小龙虾接入QQ实操指南：2分钟零门槛部署（无云主机/公网IP）+ AI能力升级方案](https://blog.csdn.net/2401_82786637/article/details/158837359)
+
++ [SpringBoot + 异地多活 + 消息回放：金融级数据一致性容灾架构设计与演练](https://blog.csdn.net/weixin_46619605/article/details/158813405)
+
++ [信息系统项目管理师的技术体系构建与思维升级](https://blog.csdn.net/qq_41187124/article/details/158773356)
+
++ [Python 识别携程中文验证码（95%正确率）并自动登陆携程+图灵图像验证码识别平台](https://blog.csdn.net/NiYouDu2333/article/details/158805057)
+
++ [用KWDB打通设备监控、告警与工单闭环：一次设备运维场景实践](https://blog.csdn.net/qyj19920704/article/details/158812261)
+
++ [网络 - 应用层协议HTTP](https://blog.csdn.net/2302_79539362/article/details/145881528)
+
++ [分享个人制作的Openclaw 2026.3.7 Docker离线部署方案](https://blog.csdn.net/pflecty/article/details/158807224)
+
++ [一次多agent情况下openclaw不回消息问题的排查经过（使用飞书通信，持续更新中~~~）](https://blog.csdn.net/u012331307/article/details/158773546)
+
++ [深度剖析OpenClaw的双重安全困境与防护之道](https://blog.csdn.net/caoxiaoye/article/details/158813386)
+
++ [OpenClaw 配置飞书](https://blog.csdn.net/yuzhucu/article/details/158805675)
+
++ [Mac电脑详细养小龙虾教程](https://blog.csdn.net/Follow_24/article/details/158743625)
+
