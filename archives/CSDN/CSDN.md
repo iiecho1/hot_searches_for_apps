@@ -119,3 +119,13 @@
 
 + [[大模型实战 07 额外篇] 从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体](https://blog.csdn.net/m0_46629751/article/details/158772384)
 
++ [基于YOLOV8的混凝土裂缝识别系统（中英文双版） | 附完整源码与效果演示](https://blog.csdn.net/weixin_52908342/article/details/158770204)
+
++ [MongoDB复制集部署实战：三节点集群搭建完整步骤详解](https://blog.csdn.net/cui_yonghua/article/details/158804645)
+
++ [OpenClaw + SpringCloud 微服务集成：AI 能力全局复用](https://blog.csdn.net/HHX_01/article/details/158739910)
+
++ [深度解析.NET中ASP.NET Core中间件：构建高效Web应用的关键环节](https://blog.csdn.net/dotnethello/article/details/158742842)
+
++ [技术选型的哲学：自研 vs 开源，激进 vs 保守的决策模型](https://blog.csdn.net/weixin_38717458/article/details/158776949)
+
