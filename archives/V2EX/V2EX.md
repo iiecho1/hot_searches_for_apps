@@ -55,3 +55,5 @@
 
 + [去攀枝花玩碰到个特别喜欢的女生，好不容易加上微信，请大家祝福我一下了](https://www.v2ex.com/t/1196875)
 
++ [[中转站 0 元蹬] GPT 全系模型 0 元开蹬、Anthropic Claude 和 OpenAI-Response 双协议全面支持 ，今日新注册送 500w 付费 Token](https://www.v2ex.com/t/1196878)
+

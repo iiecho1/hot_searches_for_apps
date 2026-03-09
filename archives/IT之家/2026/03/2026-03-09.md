@@ -25,3 +25,27 @@
 
 + [金山 WPS for Pad 正式版已上架苹果 App Store 港澳台商店](https://m.ithome.com/html/926940.htm)
 
++ [AI 浪潮下，中国传媒大学一口气砍掉翻译、摄影等 16 个本科专业和方向](https://m.ithome.com/html/927067.htm)
+
++ [腾讯版“小龙虾”WorkBuddy 上线：下载安装就能用，兼容 OpenClaw 技能](https://m.ithome.com/html/927230.htm)
+
++ [苹果 MacBook Neo 尚未开卖就已“破发”：无需教育优惠，到手价低至 3599 元](https://m.ithome.com/html/927056.htm)
+
++ [消息称腾讯内测 QClaw：一键部署“龙虾”OpenClaw，微信、QQ 双端接入](https://m.ithome.com/html/927143.htm)
+
++ [【已结束】7999 → 4979 元国补新低：iPhone Air 终破五千，低过 iPhone 17 标准版](https://m.ithome.com/html/927198.htm)
+
++ [龙虾最佳适配模型，OpenClaw 之父给出了推荐](https://m.ithome.com/html/927185.htm)
+
++ [COS 遇到正主？淘宝闪购与 2026 F1 中国大奖赛达成合作，骑手服“撞脸”迈凯伦](https://m.ithome.com/html/927183.htm)
+
++ [95 号重返 8 元时代：今晚国内成品油价格上涨，加满一箱油将多花 27.5 元左右](https://m.ithome.com/html/927303.htm)
+
++ [小米 REDMI K90 Pro Max 手机 4499 → 3799 元，搭载第五代骁龙 8 至尊版 + Bose 调音](https://m.ithome.com/html/927265.htm)
+
++ [苹果 M5 版 MacBook Air 固态硬盘性能飙升，较上代最高提升近 230%](https://m.ithome.com/html/927298.htm)
+
++ [买二手老本还是新产品？苹果 MacBook Neo 与 M1 MacBook Air 笔记本深度对比](https://m.ithome.com/html/927062.htm)
+
++ [一加 15T 手机本月发布，号称新一代「小屏大魔王」](https://m.ithome.com/html/927100.htm)
+
