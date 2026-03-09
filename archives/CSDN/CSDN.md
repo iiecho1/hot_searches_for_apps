@@ -129,3 +129,27 @@
 
 + [技术选型的哲学：自研 vs 开源，激进 vs 保守的决策模型](https://blog.csdn.net/weixin_38717458/article/details/158776949)
 
++ [KingbaseES融合数据库：多模态引擎深度集成，实现一库多能异构统一](https://blog.csdn.net/qq_57761637/article/details/158820530)
+
++ [Oracle 替换工程实践深度解析：金仓数据库破解 PL/SQL 兼容与跨交易日数据一致性核心难题](https://blog.csdn.net/weixin_43151418/article/details/158703651)
+
++ [KimiClaw/MaxClaw/NullClaw/OpenFang/ZeroClaw/PicoClaw/TinyClaw/Miclaw/ArkClaw等18大小龙虾AI Agent框架技术选型全解析](https://blog.csdn.net/qq_44866828/article/details/158776305)
+
++ [【超音速专利 CN 116833831 A】适用于镁合金压铸](https://blog.csdn.net/he_zhidan/article/details/158810107)
+
++ [【MIMO通信】大规模MIMO频谱效率分析仿真【含Matlab源码 15127期】](https://blog.csdn.net/weixin_63266434/article/details/158803431)
+
++ [一文搞懂 HarmonyOS 6 Navigation组件导航生命周期](https://blog.csdn.net/wodekouwei/article/details/158745126)
+
++ [OpenClaw 本地部署教程（Windows/macOS 通用，超详细版）](https://blog.csdn.net/weixin_68021070/article/details/158837062)
+
++ [分层架构的协同艺术——解构 Flutter 的心脏](https://blog.csdn.net/xrl__/article/details/158838074)
+
++ [一文读懂OpenClaw（小龙虾）部署：在线vs本地，该怎么选？](https://blog.csdn.net/zhanyd/article/details/158768266)
+
++ [做鸿蒙 App 一个月：10 个 ArkUI 大坑](https://blog.csdn.net/qq_36863796/article/details/158777543)
+
++ [【花雕学编程】Arduino BLDC 之基于串口指令的远程控制工业巡检机器人](https://blog.csdn.net/weixin_41659040/article/details/158836527)
+
++ [Flutter × Harmony6.0 实战：打造跨端贪吃蛇游戏的控制按钮](https://blog.csdn.net/weixin_52908342/article/details/157772302)
+
