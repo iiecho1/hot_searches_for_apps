@@ -189,3 +189,5 @@
 
 + [堪察加东岸远海发生6.0级地震，震源深度40千米](https://news.cctv.com/2026/03/09/ARTIfF7XqXuZXjE7VbO7wcy0260309.shtml)
 
++ [美以伊战事波及范围扩大 海湾多国报告平民伤亡](https://news.cctv.com/2026/03/09/ARTIu8NFiXirVaIGY5pf1CKj260309.shtml)
+

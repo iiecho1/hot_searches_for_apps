@@ -163,3 +163,11 @@
 
 + [红日靶场1渗透](https://blog.csdn.net/2402_87783684/article/details/158810208)
 
++ [（第二篇）Spring AI 实战进阶：从 0 搭建 SaaS 模式多租户 AI 客服平台（核心难点 + 性能优化全解析）](https://blog.csdn.net/qq_40303030/article/details/157432936)
+
++ [【博客系统】基于Spring全家桶的博客系统（下）](https://blog.csdn.net/2301_81614213/article/details/158702659)
+
++ [Spring Boot 后端分层开发实战：从 MVC 到三层架构详解](https://blog.csdn.net/HANhylyxy/article/details/158836557)
+
++ [在ESP32-S3部署mimiclaw，基于deepseek并用飞书机器人开展对话-feishu](https://blog.csdn.net/shehaichao/article/details/158741624)
+
