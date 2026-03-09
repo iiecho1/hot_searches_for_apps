@@ -165,3 +165,15 @@
 
 + [穆杰塔巴·哈梅内伊当选伊朗新任最高领袖](https://news.cctv.com/2026/03/09/ARTImkwrV7t3rHJ3hsYR9u0X260309.shtml)
 
++ [特朗普称将在“适当时机”作出结束对伊朗军事行动决定](https://news.cctv.com/2026/03/09/ARTIu9MpXbqMmTLPamhvsang260309.shtml)
+
++ [美军对伊朗军事行动死亡人数升至8人](https://news.cctv.com/2026/03/09/ARTIhFWc9PDnI1gkGt1iem8D260309.shtml)
+
++ [伊朗外长说“一刻也不放弃”捍卫伊朗民族权利](https://news.cctv.com/2026/03/09/ARTIcaGZfnMDswvfPfkdFVCn260309.shtml)
+
++ [中国政府中东问题特使翟隽会见沙特外交大臣费萨尔](https://news.cctv.com/2026/03/09/ARTI03aqC0n2GucCd6KGiqqG260309.shtml)
+
++ [世界多地举行活动庆祝国际妇女节](https://photo.cctv.com/2026/03/09/PHOAR2dyr8keJcFA5zSH256y260309.shtml)
+
++ [世界看两会 | 聚焦两会，从这里“读懂中国”](https://news.cctv.com/2026/03/09/ARTIa3noJ5fe4Ew0ye67LbfE260309.shtml)
+
