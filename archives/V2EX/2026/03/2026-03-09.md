@@ -45,3 +45,7 @@
 
 + [一加手机真强大](https://www.v2ex.com/t/1196721)
 
++ [母胎 solo 到 30 岁，终于谈到了女朋友，却发现自己阳痿了](https://www.v2ex.com/t/1196818)
+
++ [win11 对比 ubuntu，是真的拉胯](https://www.v2ex.com/t/1196703)
+

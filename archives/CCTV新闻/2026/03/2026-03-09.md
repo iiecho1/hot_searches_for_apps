@@ -179,3 +179,9 @@
 
 + [伊朗称完成“真实承诺-4”第30波攻势](https://news.cctv.com/2026/03/09/ARTIMBg0KTE0MUgHZcDLBLue260309.shtml)
 
++ [伊朗选出新任最高领袖 伊朗各方表态支持](https://news.cctv.com/2026/03/09/ARTIMqTGr98W2bG4gZyglkPX260309.shtml)
+
++ [美防长称对伊朗军事打击行动“才刚刚开始”](https://news.cctv.com/2026/03/09/ARTIi6s30fljVWOmGhKhrJlD260309.shtml)
+
++ [六位代表亮相第二场“代表通道”：笃行实干的追梦故事汇聚春日里的信心和力量](https://news.cctv.com/2026/03/09/ARTIvg8w9haY3szUdjVn5l3q260309.shtml)
+
