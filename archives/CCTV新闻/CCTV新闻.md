@@ -185,3 +185,7 @@
 
 + [六位代表亮相第二场“代表通道”：笃行实干的追梦故事汇聚春日里的信心和力量](https://news.cctv.com/2026/03/09/ARTIvg8w9haY3szUdjVn5l3q260309.shtml)
 
++ [美军死亡人数上升 预计会有更大伤亡](https://news.cctv.com/2026/03/09/ARTIeGfa7afrb9TlwkurWLrO260309.shtml)
+
++ [堪察加东岸远海发生6.0级地震，震源深度40千米](https://news.cctv.com/2026/03/09/ARTIfF7XqXuZXjE7VbO7wcy0260309.shtml)
+

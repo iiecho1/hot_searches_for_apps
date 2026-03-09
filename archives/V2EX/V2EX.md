@@ -49,3 +49,5 @@
 
 + [win11 对比 ubuntu，是真的拉胯](https://www.v2ex.com/t/1196703)
 
++ [人到中年，真是既怕疼又怕死](https://www.v2ex.com/t/1196748)
+
