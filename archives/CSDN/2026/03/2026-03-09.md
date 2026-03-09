@@ -181,3 +181,11 @@
 
 + [基于大数据爬虫+Hadoop+电脑商品数据爬取与可视化平台设计与开发(源码+精品论文+答辩PPT等资料)](https://blog.csdn.net/weixin_39709134/article/details/158847895)
 
++ [HDFS数据块机制深度解析：块大小设计与存储哲学](https://blog.csdn.net/qq_41840843/article/details/158510165)
+
++ [[AI应用与提效-170] - AI龙虾智能体平台OpenClaw详解，包括内部架构和技术实现](https://blog.csdn.net/HiWangWenBing/article/details/158848545)
+
++ [Claude Code 使用 OpenAI Codex（GPT-5.3-Codex）完整配置教程](https://blog.csdn.net/Jacobe_zhao/article/details/158769507)
+
++ [【硬核实战】Mac mini M4 部署 OpenClaw + Ollama 本地大模型：从零到一打通飞书机器人](https://blog.csdn.net/m0_67724631/article/details/158802015)
+

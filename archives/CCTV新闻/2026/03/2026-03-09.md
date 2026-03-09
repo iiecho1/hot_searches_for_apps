@@ -195,3 +195,11 @@
 
 + [实锤！美媒给出美军“战斧”袭击伊朗小学证据](https://news.cctv.com/2026/03/09/ARTIe37IJmQWocQGYI1BDpVN260309.shtml)
 
++ [伊朗称实施“真实承诺-4”第31轮打击行动](https://news.cctv.com/2026/03/09/ARTIJUEyXPexdy7AyxiRk0hY260309.shtml)
+
++ [法国在塞浦路斯附近部署航母和防空力量](https://news.cctv.com/2026/03/09/ARTIxBIuJSUQ0BrDMNn7NGFm260309.shtml)
+
++ [日本外务大臣要求伊朗释放被扣押的日本公民](https://news.cctv.com/2026/03/09/ARTIducThamnZLIVuI5CtAVk260309.shtml)
+
++ [一非法移民船在土耳其海域发生碰撞致14人死亡](https://news.cctv.com/2026/03/09/ARTIHPkwGPE9SSvYZye5LvhX260309.shtml)
+
