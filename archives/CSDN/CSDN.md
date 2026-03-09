@@ -171,3 +171,7 @@
 
 + [在ESP32-S3部署mimiclaw，基于deepseek并用飞书机器人开展对话-feishu](https://blog.csdn.net/shehaichao/article/details/158741624)
 
++ [OpenClaw - Day 8 用这 4 个 Skills，把 OpenClaw 的搜索能力拉到天花板](https://blog.csdn.net/yangshangwei/article/details/158813041)
+
++ [程序员的自我修养：用 AR 眼镜管理健康](https://blog.csdn.net/2401_86326742/article/details/158805831)
+
