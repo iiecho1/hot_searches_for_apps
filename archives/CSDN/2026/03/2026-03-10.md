@@ -135,3 +135,9 @@
 
 + [Mac电脑详细养小龙虾教程](https://blog.csdn.net/Follow_24/article/details/158743625)
 
++ [Ansible解锁便捷运维新方式，内网 NAS 也能远程管](https://blog.csdn.net/ZWW_zhangww/article/details/158851636)
+
++ [OpenClaw催生智能AI管家：AI家庭操作系统产业分析（2026–2030）](https://blog.csdn.net/qq8864/article/details/158772887)
+
++ [QGIS实战：县域烟花销售点Excel空间信息加载与专题制图全流程](https://blog.csdn.net/yelangkingwuzuhu/article/details/158802919)
+
