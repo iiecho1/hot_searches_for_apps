@@ -171,3 +171,7 @@
 
 + [龙虾尝鲜记（2）——装ubuntu（续）](https://blog.csdn.net/weixin_56371726/article/details/158842317)
 
++ [【AI大模型前沿】Fun-Audio-Chat：阿里巴巴开源的高效语音交互大模型](https://blog.csdn.net/xiaobing259/article/details/158069050)
+
++ [OpenClaw 企业微信插件避坑指南](https://blog.csdn.net/harebert/article/details/158853022)
+
