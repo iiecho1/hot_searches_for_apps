@@ -25,3 +25,5 @@
 
 + [iPhone 17 等用户反馈苹果 iOS 26.3.1 更新 BUG：断网、变慢等](https://m.ithome.com/html/927556.htm)
 
++ [消息称英伟达版“小龙虾” NemoClaw 下周登场：已接洽谷歌等巨头打造“数字员工”](https://m.ithome.com/html/927417.htm)
+

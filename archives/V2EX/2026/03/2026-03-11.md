@@ -21,3 +21,5 @@
 
 + [LinuxDo 是有自动毁号机制吗？？](https://www.v2ex.com/t/1197018)
 
++ [[API Hub] Chintao - 纯血 Claude Opus 4.6 + GPT5.3 中转站，支持 codex、cc 注册送 10 美元 + 抽奖 400 美元](https://www.v2ex.com/t/1197085)
+
