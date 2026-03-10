@@ -201,3 +201,5 @@
 
 + [加州州长：美国对伊朗动武“非法” 民众为高油价埋单](https://news.cctv.com/2026/03/10/ARTIuWZtKTkpeXyEOGOCK98Q260310.shtml)
 
++ [驻韩美军部分“萨德”反导系统转往中东](https://news.cctv.com/2026/03/10/ARTI6idbcNvNZXTTPRJVq3aj260310.shtml)
+
