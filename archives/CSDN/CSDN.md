@@ -109,3 +109,25 @@
 
 + [密码学系列 - ECDSA的门限签名方案](https://blog.csdn.net/wcc19840827/article/details/158853982)
 
++ [LangChain实战：工具调用+结构化输出，让AI从“聊天“变“干活“](https://blog.csdn.net/2401_82648291/article/details/158619748)
+
++ [Docker容器化实战：核心概念、镜像制作与多阶段构建全解析](https://blog.csdn.net/sinat_41617212/article/details/158803754)
+
++ [MySQL 进阶：库与表的DDL核心操作全指南（含实战案例）](https://blog.csdn.net/2503_91389547/article/details/158535649)
+
++ [【LE Audio】BAP协议精讲[24]: 从设备发现到稳定连接：LE Audio的GAP层协作秘籍](https://blog.csdn.net/weixin_37800531/article/details/158779596)
+
++ [WorkBuddy 使用指南：从零开始配置 QQ 机器人，解锁桌面智能体新玩法](https://blog.csdn.net/qq_33681891/article/details/158894594)
+
++ [学习threejs，实现带有GLSL着色器的动画](https://blog.csdn.net/qq_28419035/article/details/158879349)
+
++ [macOS配置openclaw+deepseek大模型+飞书小助手](https://blog.csdn.net/2301_80585230/article/details/158880671)
+
++ [Coze+OpenClaw 每天固定时间爬取科技新闻并推送微信 操作攻略](https://blog.csdn.net/He_CSDN2025/article/details/158801668)
+
++ [应用层核心协议HTTP/HTTPS及安全风险详解](https://blog.csdn.net/Milak_pp/article/details/158893389)
+
++ [OpenClaw 配置飞书](https://blog.csdn.net/yuzhucu/article/details/158805675)
+
++ [OpenClaw接入阿里云 Coding Plan](https://blog.csdn.net/ldsxiyou/article/details/158838093)
+
