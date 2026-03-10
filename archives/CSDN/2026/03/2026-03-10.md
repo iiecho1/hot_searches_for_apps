@@ -175,3 +175,7 @@
 
 + [OpenClaw 企业微信插件避坑指南](https://blog.csdn.net/harebert/article/details/158853022)
 
++ [KaiwuDB社区版 3.1.0 数据库落地部署指南：环境配置、源码编译与运行调优](https://blog.csdn.net/weixin_52908342/article/details/158812575)
+
++ [LangSmith与Prompt Ops：从概念到实践的全面指南](https://blog.csdn.net/zxc18344522713/article/details/158847711)
+
