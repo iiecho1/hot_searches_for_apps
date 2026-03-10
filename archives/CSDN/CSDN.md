@@ -137,3 +137,9 @@
 
 + [Trivy 完全指南：云原生时代的全栈安全扫描器](https://blog.csdn.net/m0_74977981/article/details/158891339)
 
++ [2026全球大模型深度对决：GPT-5、Claude 4、Gemini 3、DeepSeek-R1谁主沉浮？](https://blog.csdn.net/chen_si_shang_/article/details/158886802)
+
++ [用 Rokid AR 眼镜打造沉浸式外语学习助手：从想法到落地的完整开发实录](https://blog.csdn.net/2302_79177254/article/details/158806996)
+
++ [Flutter 组件 analyzer_testing 适配鸿蒙 HarmonyOS 实战：分析器插件测试，构建 AST 仿真与编译器级别静态诊断验证架构](https://blog.csdn.net/2609_95049439/article/details/158884930)
+

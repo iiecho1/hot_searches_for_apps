@@ -211,3 +211,5 @@
 
 + [以色列袭击黎巴嫩已致570人死亡](https://news.cctv.com/2026/03/11/ARTIK01tKPabAxTVjr5cWO12260311.shtml)
 
++ [朝鲜“崔贤”号驱逐舰进行战略巡航导弹试射](https://news.cctv.com/2026/03/11/ARTIGdRTnOYRIkRIYSXVZoEH260311.shtml)
+
