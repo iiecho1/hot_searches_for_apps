@@ -179,3 +179,9 @@
 
 + [LangSmith与Prompt Ops：从概念到实践的全面指南](https://blog.csdn.net/zxc18344522713/article/details/158847711)
 
++ [Linux 文件系统深度解析：从原理到实战](https://blog.csdn.net/2502_93510665/article/details/158884857)
+
++ [本地部署 Ollama 完整指南：3 分钟让大模型在你电脑上跑起来](https://blog.csdn.net/weixin_53236070/article/details/158837815)
+
++ [【Linux】服务器网络与安全核心配置｜静态IP+SSH加固+防火墙，公网服务器必学实操](https://blog.csdn.net/gfdhy/article/details/158809132)
+
