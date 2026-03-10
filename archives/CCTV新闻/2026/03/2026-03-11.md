@@ -161,3 +161,37 @@
 
 + [以军称出动数十架战机空袭伊朗导弹储存设施](https://news.cctv.com/2026/03/07/ARTIMl3J09CBfVbAjeXwUhk7260307.shtml)
 
++ [4名伊朗外交官在以色列对贝鲁特的袭击中丧生](https://news.cctv.com/2026/03/11/ARTIOHZTdStMjXghKt840GM0260311.shtml)
+
++ [以色列军方称打击伊朗多地安全机构目标](https://news.cctv.com/2026/03/11/ARTIczpqlNw1L06eaW2k3i6R260311.shtml)
+
++ [因从事间谍活动 10名伊朗伊斯兰革命卫队情报组织成员被捕](https://news.cctv.com/2026/03/11/ARTIb21tpZjmscTRaYEaf2Un260311.shtml)
+
++ [英国“龙”号驱逐舰启程前往东地中海](https://news.cctv.com/2026/03/11/ARTIcXwBVzeC75bsaYdmc2G1260311.shtml)
+
++ [美国驻加拿大多伦多领事馆遭枪击 无人伤亡](https://news.cctv.com/2026/03/11/ARTIu1Dj2VM8FId4ifwqtwec260311.shtml)
+
++ [伊朗称打击以色列一处军事中心及卫星信息接收中心](https://news.cctv.com/2026/03/11/ARTIhc27jHnkK56gAvqP2Kzs260311.shtml)
+
++ [伊朗重申敌对势力相关船只无权通过霍尔木兹海峡](https://news.cctv.com/2026/03/11/ARTICvb3CQhFoxMomB8FO01k260311.shtml)
+
++ [美特使称美俄乌三方会谈推迟至下周举行](https://news.cctv.com/2026/03/11/ARTIpa8dodnvIE3vqnq4eU7F260311.shtml)
+
++ [伊朗实施“真实承诺4”第35轮打击行动](https://news.cctv.com/2026/03/11/ARTI5SxbelbfZkV3zRgRQSiU260311.shtml)
+
++ [多个联合国机构警告中东战火引发“黑雨”等后果](https://news.cctv.com/2026/03/11/ARTI7RkZMLxl9tJqDygKEo9T260311.shtml)
+
++ [伊朗议会议长：将以“以眼还眼”原则回应任何袭击](https://news.cctv.com/2026/03/11/ARTIHCiutElonY13URLr3cCR260311.shtml)
+
++ [美以袭击已致伊朗超1.5万人受伤](https://news.cctv.com/2026/03/11/ARTIUwFEpMZ3CeBjCMdqZyEB260311.shtml)
+
++ [丹麦宣布关闭驻伊朗大使馆并撤离工作人员](https://news.cctv.com/2026/03/11/ARTIS7rhiKSrZf1ECiConNq2260311.shtml)
+
++ [“军事行动进入全新阶段” 伊朗公布“真实承诺4”第34轮行动细节](https://news.cctv.com/2026/03/11/ARTIzgD6E8MVtHS3Do9fU4qk260311.shtml)
+
++ [国际能源署：全球油气市场受中东冲突影响显著](https://news.cctv.com/2026/03/11/ARTIGdLFwXvJ4ffdpwSdvpFd260311.shtml)
+
++ [伊朗官员强调“不会与美国进行任何谈判”](https://news.cctv.com/2026/03/11/ARTIyfstsqyY9bkIxpuGau0D260311.shtml)
+
++ [伊朗将为在冲突中身亡的多名军方高层举行葬礼](https://news.cctv.com/2026/03/11/ARTIWbxZnZ3lLkX4uH3bHF3g260311.shtml)
+
