@@ -199,3 +199,5 @@
 
 + [第勒尼安海发生6.0级地震，震源深度380千米](https://news.cctv.com/2026/03/10/ARTI13FLBEgyfdN4i6iyOMPt260310.shtml)
 
++ [加州州长：美国对伊朗动武“非法” 民众为高油价埋单](https://news.cctv.com/2026/03/10/ARTIuWZtKTkpeXyEOGOCK98Q260310.shtml)
+

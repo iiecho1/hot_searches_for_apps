@@ -157,3 +157,9 @@
 
 + [7.高并发内存池大页内存申请释放以及使用定长内存池脱离new](https://blog.csdn.net/2503_91101239/article/details/158842657)
 
++ [OpenClaw 大更新：支持 GPT-5.4、记忆热插拔，GitHub Star 突破 28 万](https://blog.csdn.net/Sinokap/article/details/158847981)
+
++ [低代码组件通信避坑指南：从项目问题到落地优化](https://blog.csdn.net/weixin_44441043/article/details/158650644)
+
++ [后端开发必会计算机网络中的应用层协议 - HTTP/HTTPS](https://blog.csdn.net/2302_80295520/article/details/158837247)
+
