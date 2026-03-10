@@ -205,3 +205,9 @@
 
 + [知情人士称美政府要求以色列停止袭击伊朗能源设施](https://news.cctv.com/2026/03/11/ARTIW0jColPMJNRfXKh12HT1260311.shtml)
 
++ [美国驻多伦多总领馆遭枪击 加拿大警方加强安保](https://news.cctv.com/2026/03/11/ARTICBJTejlZvnQV90at7oIp260311.shtml)
+
++ [阿根廷海滨避暑胜地发生森林火灾](https://news.cctv.com/2026/03/11/ARTIGSYxIKbSA1bJUEnGgYih260311.shtml)
+
++ [以色列袭击黎巴嫩已致570人死亡](https://news.cctv.com/2026/03/11/ARTIK01tKPabAxTVjr5cWO12260311.shtml)
+
