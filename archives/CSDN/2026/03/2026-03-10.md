@@ -185,3 +185,9 @@
 
 + [【Linux】服务器网络与安全核心配置｜静态IP+SSH加固+防火墙，公网服务器必学实操](https://blog.csdn.net/gfdhy/article/details/158809132)
 
++ [深挖MySQL兼容核心，看懂金仓数据库迁移工程硬实力](https://blog.csdn.net/lrq13965748542/article/details/158849336)
+
++ [Linux：初始网络（上）](https://blog.csdn.net/2503_91101239/article/details/158853406)
+
++ [OpenClaw 接入 QQ Bot 完整实践指南](https://blog.csdn.net/m0_73479109/article/details/158801797)
+

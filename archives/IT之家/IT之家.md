@@ -53,3 +53,9 @@
 
 + [苹果 M5 版 MacBook Air 13  续航实测：较 M4 版本略微倒退](https://m.ithome.com/html/927321.htm)
 
++ [马化腾谈腾讯免费安装 OpenClaw 引排队：没想到会这么火](https://m.ithome.com/html/927044.htm)
+
++ [消息称苹果今年将推出三款 Ultra 级新品：iPhone Ultra、AirPods Ultra、MacBook Ultra](https://m.ithome.com/html/927043.htm)
+
++ [郭明錤：苹果第二代 MacBook Neo 明年推出，有望配备触摸屏](https://m.ithome.com/html/927045.htm)
+
