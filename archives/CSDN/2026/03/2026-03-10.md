@@ -143,3 +143,9 @@
 
 + [从小项目到大型鸿蒙 App 的架构变化](https://blog.csdn.net/qq_36863796/article/details/158851702)
 
++ [LangChain实战：工具调用+结构化输出，让AI从“聊天“变“干活“](https://blog.csdn.net/2401_82648291/article/details/158619748)
+
++ [将Python Web应用部署到服务器（Docker + Nginx）](https://blog.csdn.net/xushichao1989/article/details/158813109)
+
++ [【IT老齐098 笔记】京东实例讲解如何进行系统架构容量评估](https://blog.csdn.net/fengquan8866/article/details/158809740)
+

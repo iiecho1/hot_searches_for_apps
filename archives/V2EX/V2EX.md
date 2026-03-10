@@ -21,3 +21,11 @@
 
 + [人到中年，真是既怕疼又怕死](https://www.v2ex.com/t/1196748)
 
++ [苹果是否凭借 Macbook Neo 打入低端笔电市场](https://www.v2ex.com/t/1196720)
+
++ [中转站 Terminal.Pub 本周继续开启抽奖，抽奖 10 个 50 刀套餐，夜间不定期开放免费 claude/codex 渠道， ccmax 官渠低至 1 块 1 刀，逆向低至 1 毛 2 一刀](https://www.v2ex.com/t/1196815)
+
++ [打司美格鲁肽第 12 天，减重 8 斤](https://www.v2ex.com/t/1196847)
+
++ [计划在成都高新附近买房，求问 20 年楼龄 100 万的老房子到底值不值得买？](https://www.v2ex.com/t/1196840)
+

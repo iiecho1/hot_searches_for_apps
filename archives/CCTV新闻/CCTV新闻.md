@@ -185,3 +185,5 @@
 
 + [特朗普称对伊朗军事行动是一次“短期行动”](https://news.cctv.com/2026/03/10/ARTIJ3qFQXCKC91HJHHfsuTI260310.shtml)
 
++ [特朗普称美国对伊朗的军事行动会“很快”结束](https://news.cctv.com/2026/03/10/ARTI0fEutCA5qZALldjtrR49260310.shtml)
+
