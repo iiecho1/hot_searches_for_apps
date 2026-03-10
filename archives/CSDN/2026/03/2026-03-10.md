@@ -163,3 +163,11 @@
 
 + [后端开发必会计算机网络中的应用层协议 - HTTP/HTTPS](https://blog.csdn.net/2302_80295520/article/details/158837247)
 
++ [【Unity 实用工具篇】 | Unity网格破碎插件 unity-fracture](https://blog.csdn.net/zhangay1998/article/details/157730168)
+
++ [Transformer实战（37）——Transformer模型训练追踪与监测](https://blog.csdn.net/LOVEmy134611/article/details/147991704)
+
++ [用 Rokid AR 眼镜打造沉浸式外语学习助手：从想法到落地的完整开发实录](https://blog.csdn.net/2302_79177254/article/details/158806996)
+
++ [龙虾尝鲜记（2）——装ubuntu（续）](https://blog.csdn.net/weixin_56371726/article/details/158842317)
+

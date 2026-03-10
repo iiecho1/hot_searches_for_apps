@@ -45,3 +45,5 @@
 
 + [80 后想自学一门编程增收，恳请各位大佬推荐指教](https://www.v2ex.com/t/1197057)
 
++ [吐槽一下 DeepSeek 余额清空](https://www.v2ex.com/t/1197048)
+
