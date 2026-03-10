@@ -29,3 +29,9 @@
 
 + [计划在成都高新附近买房，求问 20 年楼龄 100 万的老房子到底值不值得买？](https://www.v2ex.com/t/1196840)
 
++ [[API 中转站] APIPool - 纯血 Claude Opus 4.6 + GPT-5.4 API 中转站，支持 codex、cc，支持小龙虾🦞｜注册送 10 美元 + 抽奖 400 美元](https://www.v2ex.com/t/1196998)
+
++ [亲戚找我爸借钱](https://www.v2ex.com/t/1197006)
+
++ [我发现修电瓶车很暴利啊](https://www.v2ex.com/t/1196844)
+
