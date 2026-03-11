@@ -231,3 +231,9 @@
 
 + [中使馆提醒：卡塔尔航空赴京航班开放售票](https://news.cctv.com/2026/03/11/ARTIcsfrXXXv4NXCaoL5Ln8H260311.shtml)
 
++ [压力之下 白宫辩称对伊朗动武“将带来更低油价”](https://news.cctv.com/2026/03/11/ARTIDgPiQCEoYsL5Rhtd4Im9260311.shtml)
+
++ [澳大利亚关闭驻以色列大使馆](https://news.cctv.com/2026/03/11/ARTIE3ge2YKOggOSuyGOk4q4260311.shtml)
+
++ [一艘集装箱船在阿联酋附近海域遭袭 船上人员安全](https://news.cctv.com/2026/03/11/ARTIwlMzgkX4C2uIvKlQE6Id260311.shtml)
+
