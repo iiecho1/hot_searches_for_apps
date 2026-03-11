@@ -263,3 +263,11 @@
 
 + [日本计划释放国家石油储备](https://news.cctv.com/2026/03/11/ARTI0Qpzzrbt7T0x3QW4LFmI260311.shtml)
 
++ [伊朗教育部长：美以袭击已致206名师生遇难](https://news.cctv.com/2026/03/11/ARTIEYzPv2AEgf7CyeNhRlYD260311.shtml)
+
++ [伊朗称美海军已“逃离”伊朗周边海域 警告美或陷入长期耗损战](https://news.cctv.com/2026/03/11/ARTIi2CZJtLZbvwUR33fXCpl260311.shtml)
+
++ [特朗普称对伊朗军事行动“即将结束”](https://news.cctv.com/2026/03/11/ARTIuZ1afVxm4XtDcbzKQeb9260311.shtml)
+
++ [国际能源署成员国同意释放4亿桶战略石油储备](https://news.cctv.com/2026/03/11/ARTIH9C7ad8G7boSgHbPTf2C260311.shtml)
+
