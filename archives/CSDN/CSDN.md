@@ -165,3 +165,13 @@
 
 + [系统安全及应用 ](https://blog.csdn.net/zhangyahua1/article/details/158884093)
 
++ [【AI大模型前沿】XVERSE-Ent：元象开源的泛娱乐中英双语底座大模型](https://blog.csdn.net/xiaobing259/article/details/158878883)
+
++ [Elasticsearch：智能搜索 - AI Builder 及 Workflow ](https://blog.csdn.net/UbuntuTouch/article/details/158891163)
+
++ [Kubernetes核心概念实战：Pod、Deployment、Service深度解析](https://blog.csdn.net/sinat_41617212/article/details/158890333)
+
++ [鸿蒙(ArkTS)与Flutter(Dart)开发语法全面对比](https://blog.csdn.net/ZHANXIANG100/article/details/158890067)
+
++ [从玩具到超越 Linux 的开源奇迹：2026 年爆火的 OpenClaw 究竟是什么？](https://blog.csdn.net/m0_58782205/article/details/158891041)
+

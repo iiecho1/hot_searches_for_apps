@@ -229,3 +229,5 @@
 
 + [北京—平壤、丹东—平壤，明起开行！](https://news.cctv.com/2026/03/11/ARTICubQOCoSF9umLCmsD5V2260311.shtml)
 
++ [中使馆提醒：卡塔尔航空赴京航班开放售票](https://news.cctv.com/2026/03/11/ARTIcsfrXXXv4NXCaoL5Ln8H260311.shtml)
+
