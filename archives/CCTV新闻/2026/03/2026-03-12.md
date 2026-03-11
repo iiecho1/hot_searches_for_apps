@@ -161,3 +161,13 @@
 
 + [泽连斯基：原拟于本周举行的乌美俄会谈因中东局势推迟](https://news.cctv.com/2026/03/10/ARTIjrnNTVY8szWMWsGe67AU260310.shtml)
 
++ [意大利军舰抵达塞浦路斯海域](https://news.cctv.com/2026/03/12/ARTIQvam5ZvNZNa5mEBqvTTn260312.shtml)
+
++ [特朗普称美国已击沉28艘伊朗布雷船](https://news.cctv.com/2026/03/12/ARTImApLRW0E6TMNs2P0wb5v260312.shtml)
+
++ [马克龙称七国集团应协调恢复霍尔木兹海峡通畅](https://news.cctv.com/2026/03/12/ARTI6Xnt2W39bDYqyFvUCZvH260312.shtml)
+
++ [俄总统特别代表在佛州与美方代表会晤](https://news.cctv.com/2026/03/12/ARTIP6aOnr4Lsn1ShQIlMXFq260312.shtml)
+
++ [伊朗称已实施“真实承诺4”第40轮军事行动](https://news.cctv.com/2026/03/12/ARTIWt5e6Ie8Ao6IXbwyd0FE260312.shtml)
+
