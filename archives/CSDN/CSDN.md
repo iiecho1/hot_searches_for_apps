@@ -207,3 +207,7 @@
 
 + [【计算机网络之HTTP、TCP、UDP、HTTPS、Socket网络连接】](https://blog.csdn.net/2401_87810889/article/details/158883900)
 
++ [cpolar让 OpenWebUI打造的本地 AI模型秒变随身生产力工具](https://blog.csdn.net/Mrxiao_bo/article/details/158931237)
+
++ [OpenClaw WebSocket Channel开发实战：从零打造自定义 AI 通信通道](https://blog.csdn.net/weixin_41120248/article/details/158813677)
+
