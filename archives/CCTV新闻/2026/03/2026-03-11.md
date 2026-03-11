@@ -257,3 +257,9 @@
 
 + [黎巴嫩现约有78万民众流离失所](https://news.cctv.com/2026/03/11/ARTIqcna7OCykIPmQxorF5cH260311.shtml)
 
++ [国际人士表示中国的稳健发展对世界具有重大意义](https://news.cctv.com/2026/03/11/ARTInZAYMFLi6QShjCcXyKID260311.shtml)
+
++ [伊朗称完全有能力封锁霍尔木兹海峡](https://news.cctv.com/2026/03/11/ARTIfhiiPJdAyCKx7tP2XhWC260311.shtml)
+
++ [日本计划释放国家石油储备](https://news.cctv.com/2026/03/11/ARTI0Qpzzrbt7T0x3QW4LFmI260311.shtml)
+

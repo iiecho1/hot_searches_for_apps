@@ -197,3 +197,13 @@
 
 + [Linux ELF格式与可执行程序加载全解析：从磁盘文件到运行进程](https://blog.csdn.net/yhrxh_ymq/article/details/158887541)
 
++ [优选算法——模拟](https://blog.csdn.net/2501_93697341/article/details/158889656)
+
++ [茶叶商城购物|茶文化|基于SprinBoot+vue的茶叶商城系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/158809762)
+
++ [万亿级消息队列的演进：如何在Kafka/Pulsar架构下实现Exactly-Once投递与零丢失？](https://blog.csdn.net/2301_77485708/article/details/158931198)
+
++ [如何用LoRa无线采集老旧小区的热量表](https://blog.csdn.net/kuankuan140801/article/details/158881981)
+
++ [【计算机网络之HTTP、TCP、UDP、HTTPS、Socket网络连接】](https://blog.csdn.net/2401_87810889/article/details/158883900)
+
