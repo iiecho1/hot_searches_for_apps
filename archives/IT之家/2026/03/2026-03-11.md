@@ -51,3 +51,9 @@
 
 + [苹果 M5 版 MacBook Air 13  续航实测：较 M4 版本略微倒退](https://m.ithome.com/html/927321.htm)
 
++ [荣耀 Magic V6 折叠屏手机发布：满血第五代骁龙 8 至尊版、最高 7150mAh 青海湖电池，8999 元起](https://m.ithome.com/html/927737.htm)
+
++ [微信员工回应“给 OpenClaw 指令，然后 AI 自动发红包”：假的，玩梗的人已澄清](https://m.ithome.com/html/927703.htm)
+
++ [荣耀 CEO 李健：公司正评估在国内市场设立子品牌的可行性](https://m.ithome.com/html/927765.htm)
+

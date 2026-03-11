@@ -213,3 +213,5 @@
 
 + [朝鲜“崔贤”号驱逐舰进行战略巡航导弹试射](https://news.cctv.com/2026/03/11/ARTIGdRTnOYRIkRIYSXVZoEH260311.shtml)
 
++ [伊朗宣布实施“真实承诺4”第37轮军事行动](https://news.cctv.com/2026/03/11/ARTIPgvW5hqqTtrNup1Wuhog260311.shtml)
+
