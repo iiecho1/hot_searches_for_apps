@@ -253,3 +253,7 @@
 
 + [阿联酋迪拜国际机场附近两架无人机坠落 致4人受伤](https://news.cctv.com/2026/03/11/ARTIYsDKeZigBgOpQ0647xD8260311.shtml)
 
++ [意大利称不会参与美以军事行动 正向海湾国家提供防空装备](https://news.cctv.com/2026/03/11/ARTIf9thb93AGTy8HbR8L2VY260311.shtml)
+
++ [黎巴嫩现约有78万民众流离失所](https://news.cctv.com/2026/03/11/ARTIqcna7OCykIPmQxorF5cH260311.shtml)
+
