@@ -143,3 +143,25 @@
 
 + [Flutter 组件 analyzer_testing 适配鸿蒙 HarmonyOS 实战：分析器插件测试，构建 AST 仿真与编译器级别静态诊断验证架构](https://blog.csdn.net/2609_95049439/article/details/158884930)
 
++ [医疗AI场景下算法编程的深度解析（2026新生培训讲稿）（总结）](https://blog.csdn.net/kkiron/article/details/158844479)
+
++ [.NET Core API网关：3个必知优势，打造微服务“守门员“](https://blog.csdn.net/z_344791576/article/details/151920421)
+
++ [【Linux】线程池（一）C++ 手写线程池：基于策略模式实现高性能日志模块](https://blog.csdn.net/2501_90265152/article/details/157065816)
+
++ [Flutter 适合长期大型项目 - 真实边界在哪里](https://blog.csdn.net/qq_36478920/article/details/158894063)
+
++ [OpenClaw Windows 下 Docker 部署指南](https://blog.csdn.net/kof820/article/details/158886971)
+
++ [从0到1理解K8s：为什么用、怎么设计、如何搭建](https://blog.csdn.net/sfyyyyy/article/details/158893119)
+
++ [腾讯今日官宣：企业微信里可以养龙虾了，只需两步](https://blog.csdn.net/Rui_Mei/article/details/158842887)
+
++ [【HarmonyOS 6.0】聚合链接（App Linking）实战：从创建配置到应用跳转](https://blog.csdn.net/weixin_74809706/article/details/158657021)
+
++ [OpenClaw 实战｜多 Agent 打通小红书：数据收集 + 笔记编写 + 自动发布一步到位](https://blog.csdn.net/c18213590220/article/details/158803682)
+
++ [基于对话本体的自指宇宙学：一种面向 AGI 价值对齐的补充性理论框架](https://blog.csdn.net/weixin_50059478/article/details/158916576)
+
++ [系统安全及应用 ](https://blog.csdn.net/zhangyahua1/article/details/158884093)
+

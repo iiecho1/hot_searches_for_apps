@@ -215,3 +215,17 @@
 
 + [伊朗宣布实施“真实承诺4”第37轮军事行动](https://news.cctv.com/2026/03/11/ARTIPgvW5hqqTtrNup1Wuhog260311.shtml)
 
++ [美国在伊拉克的外交设施遭无人机袭击](https://news.cctv.com/2026/03/11/ARTIskeRYDpkuToN1LYXOJWd260311.shtml)
+
++ [以军称摧毁伊朗国内安全部队“关键资产”](https://news.cctv.com/2026/03/11/ARTIxDpA7vJAdHAY1d8k5KXp260311.shtml)
+
++ [伊朗袭击以军武器制造设施和卫星数据中心](https://news.cctv.com/2026/03/11/ARTIdU5zMHMALyEHbL0jDjcw260311.shtml)
+
++ [特朗普宣布将在得州建设美国50年来首座新炼油厂](https://news.cctv.com/2026/03/11/ARTIqYolPiWKQM7jARb650O8260311.shtml)
+
++ [知情人士称美以对伊朗发动冲突以来“最猛烈空袭”](https://news.cctv.com/2026/03/11/ARTI1F5dqlSlIj5L4mckZjbJ260311.shtml)
+
++ [两天消耗56亿美元弹药！美军从韩国抽调“萨德”赴中东](https://news.cctv.com/2026/03/11/ARTISALTnH05ippQ2GM0PHVx260311.shtml)
+
++ [北京—平壤、丹东—平壤，明起开行！](https://news.cctv.com/2026/03/11/ARTICubQOCoSF9umLCmsD5V2260311.shtml)
+
