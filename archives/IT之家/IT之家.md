@@ -25,3 +25,27 @@
 
 + [追觅芯际连发三款芯片：涵盖手机、自动驾驶等领域，单颗算力高达 2000 TOPS](https://m.ithome.com/html/928013.htm)
 
++ [OPPO 一加官宣老机型调价，手机全面进入涨价时代](https://m.ithome.com/html/927458.htm)
+
++ [全新一代奥迪 A6L 开启预售：华为乾崑智驾、外观大变，32.3 万元起，降价超 10 万元](https://m.ithome.com/html/927537.htm)
+
++ [权限太高，国家互联网应急中心发布 OpenClaw 安全应用的风险提示](https://m.ithome.com/html/927729.htm)
+
++ [京东推出“OpenClaw 远程部署服务”：工程师一对一安装“龙虾”，定价 399 元](https://m.ithome.com/html/927614.htm)
+
++ [小米 SU7 Ultra 开孔机盖车型开放前舱空气动力学免费升级：新增两个叶片，高速行驶提升下压力](https://m.ithome.com/html/927549.htm)
+
++ [OpenClaw 3.8 更新炸场：干了四件大事，终于知道是谁在跟它说话](https://m.ithome.com/html/927670.htm)
+
++ [二手价格飞升：苹果 Mac mini M4 教育优惠 3188 元本地有货速囤](https://m.ithome.com/html/927607.htm)
+
++ [荣耀 Magic V6 折叠屏手机发布：满血第五代骁龙 8 至尊版、最高 7150mAh 青海湖电池，8999 元起](https://m.ithome.com/html/927737.htm)
+
++ [苹果宣传 MacBook Neo 笔记本，Finder 吉祥物意外爆红](https://m.ithome.com/html/927525.htm)
+
++ [iPhone 17 等用户反馈苹果 iOS 26.3.1 更新 BUG：断网、变慢等](https://m.ithome.com/html/927556.htm)
+
++ [微信员工回应“给 OpenClaw 指令，然后 AI 自动发红包”：假的，玩梗的人已澄清](https://m.ithome.com/html/927703.htm)
+
++ [荣耀 CEO 李健：公司正评估在国内市场设立子品牌的可行性](https://m.ithome.com/html/927765.htm)
+

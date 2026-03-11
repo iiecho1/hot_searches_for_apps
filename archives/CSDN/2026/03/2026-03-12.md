@@ -105,3 +105,7 @@
 
 + [【MySQL】解锁表的 N 种牵手方式：SQL 连接与子查询漫游（复合查询）](https://blog.csdn.net/2403_84958571/article/details/158807962)
 
++ [从 AI 助手到现实世界操作系统：OpenClaw + Matter 的智能硬件控制架构设计](https://blog.csdn.net/qq8864/article/details/158893799)
+
++ [macOS配置openclaw+deepseek大模型+飞书小助手](https://blog.csdn.net/2301_80585230/article/details/158880671)
+
