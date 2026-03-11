@@ -191,3 +191,9 @@
 
 + [SpringBoot配置文件](https://blog.csdn.net/2401_89176842/article/details/158348448)
 
++ [用Python编程理解量子力学中的幺正变换(二)](https://blog.csdn.net/kkiron/article/details/158887637)
+
++ [AI实践(5)检索增强(RAG)](https://blog.csdn.net/Once_day/article/details/158921262)
+
++ [Linux ELF格式与可执行程序加载全解析：从磁盘文件到运行进程](https://blog.csdn.net/yhrxh_ymq/article/details/158887541)
+

@@ -237,3 +237,19 @@
 
 + [一艘集装箱船在阿联酋附近海域遭袭 船上人员安全](https://news.cctv.com/2026/03/11/ARTIwlMzgkX4C2uIvKlQE6Id260311.shtml)
 
++ [巴林拉响防空警报 随后传出多声爆炸声](https://news.cctv.com/2026/03/11/ARTIFUOGejc7rcdPORC3zFxE260311.shtml)
+
++ [伊朗警告将对美以经济目标采取报复行动](https://news.cctv.com/2026/03/11/ARTIJWZHYk6zSqGz9m7EI9Cw260311.shtml)
+
++ [日本一艘停留在波斯湾的船只受损](https://news.cctv.com/2026/03/11/ARTISmZSltF2sijyHWkTLOcA260311.shtml)
+
++ [伊拉克民兵武装称打击美军目标 已致美方数十人死伤](https://news.cctv.com/2026/03/11/ARTIDqPBmqBTY7MpWDil0uvy260311.shtml)
+
++ [佩斯科夫：普京暂无前往美国参加G20峰会的计划](https://news.cctv.com/2026/03/11/ARTI9rOec5RRU0YlsEKWDBp3260311.shtml)
+
++ [一艘货船在霍尔木兹海峡遭袭](https://news.cctv.com/2026/03/11/ARTII6ut1joxmRxbsc35sTQY260311.shtml)
+
++ [美国：若打击伊朗石油设施 以色列须“提前告知”美方](https://news.cctv.com/2026/03/11/ARTIxFXzS9P137F0k7YWuHVt260311.shtml)
+
++ [阿联酋迪拜国际机场附近两架无人机坠落 致4人受伤](https://news.cctv.com/2026/03/11/ARTIYsDKeZigBgOpQ0647xD8260311.shtml)
+
