@@ -47,3 +47,5 @@
 
 + [ARC 浏览器大家还在用么？有啥替换的对象](https://www.v2ex.com/t/1197269)
 
++ [macmini m4 丐版的价格是疯了么](https://www.v2ex.com/t/1197299)
+
