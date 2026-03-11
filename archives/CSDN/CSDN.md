@@ -185,3 +185,9 @@
 
 + [openclaw + ollama本地模型（不消耗token） + 飞书部署教程](https://blog.csdn.net/qq_53742640/article/details/158810753)
 
++ [【Unity-AI开发篇】| Unity-MCP最新指南：让AI接管游戏开发](https://blog.csdn.net/zhangay1998/article/details/158918650)
+
++ [Windows部署OpenClaw对接飞书（超详细）](https://blog.csdn.net/m0_51688930/article/details/158850407)
+
++ [SpringBoot配置文件](https://blog.csdn.net/2401_89176842/article/details/158348448)
+
