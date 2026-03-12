@@ -153,3 +153,7 @@
 
 + [无人机植物病害目标检测数据集（1500 张图片已划分、已标注）| AI训练适用于目标检测任务](https://blog.csdn.net/weixin_52908342/article/details/158888250)
 
++ [MySQL 进阶：库与表的DDL核心操作全指南（含实战案例）](https://blog.csdn.net/2503_91389547/article/details/158535649)
+
++ [基于视频孪生的三维实时解算技术在军储禁区空间管控体系中的应用](https://blog.csdn.net/2602_95481925/article/details/158930032)
+

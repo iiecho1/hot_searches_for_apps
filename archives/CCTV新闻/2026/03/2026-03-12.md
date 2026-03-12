@@ -185,3 +185,9 @@
 
 + [释放创纪录石油储备能否化解断供风险？各方反应如何？](https://news.cctv.com/2026/03/12/ARTILS9WpWaQVzdtGX1QeMQ6260312.shtml)
 
++ [中朝国际旅客列车今日起双向开行 一趟列车已抵达平壤](https://news.cctv.com/2026/03/12/ARTIXn3fH8I3f7DOY5qrfXLG260312.shtml)
+
++ [俄媒：乌方用英制“风暴之影”导弹袭击俄罗斯，俄大使馆谴责英国成“同谋”](https://news.cctv.com/2026/03/12/ARTIi55CDKkO7znjc6VC7yg5260312.shtml)
+
++ [为全球发展注入稳定性和正能量](https://news.cctv.com/2026/03/12/ARTI1In0lxeCakK9ejUw1fJh260312.shtml)
+
