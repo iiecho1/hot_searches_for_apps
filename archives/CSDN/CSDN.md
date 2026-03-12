@@ -135,3 +135,9 @@
 
 + [SpringBoot配置文件](https://blog.csdn.net/2401_89176842/article/details/158348448)
 
++ [深度解读｜2026年人工智能训练师证书报考条件解析](https://blog.csdn.net/tipdm0526/article/details/158880250)
+
++ [Spring AI简介](https://blog.csdn.net/kong7906928/article/details/158932775)
+
++ [在Memory持续上涨的周期里，北京君正内置DDR主控的架构价值](https://blog.csdn.net/2402_87155920/article/details/158849148)
+
