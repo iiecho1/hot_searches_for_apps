@@ -141,3 +141,13 @@
 
 + [在Memory持续上涨的周期里，北京君正内置DDR主控的架构价值](https://blog.csdn.net/2402_87155920/article/details/158849148)
 
++ [HarmonyOS 5.0 PC应用开发实战：构建跨设备协同的桌面生产力工具](https://blog.csdn.net/u014727709/article/details/158931841)
+
++ [【MySQL】事务](https://blog.csdn.net/2403_84958571/article/details/158888893)
+
++ [Flutter 三方库 monobank_api 的鸿蒙化适配指南 - 实现极速的银行业务接口对接与账单流水分析、支持端侧金融数据资产管理与安全请求流水化实战](https://blog.csdn.net/2609_95049439/article/details/158935808)
+
++ [openclaw配置飞书](https://blog.csdn.net/He195501/article/details/158884362)
+
++ [Flutter 三方库 test_process 的鸿蒙化适配指南 - 实现具备外部进程交互与命令行输出校验的集成测试套件、支持端侧 CLI 工具与自动化脚本协同实战](https://blog.csdn.net/cannonmonster01/article/details/158922818)
+
