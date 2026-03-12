@@ -169,3 +169,5 @@
 
 + [ML-1.线性回归（Linear Regression）](https://blog.csdn.net/2302_80012625/article/details/158935050)
 
++ [全域依赖型芯片底座专利：重构算力与安全的下一代硬件基石](https://blog.csdn.net/2501_91133060/article/details/158856608)
+
