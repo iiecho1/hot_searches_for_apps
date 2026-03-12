@@ -151,3 +151,5 @@
 
 + [Flutter 三方库 test_process 的鸿蒙化适配指南 - 实现具备外部进程交互与命令行输出校验的集成测试套件、支持端侧 CLI 工具与自动化脚本协同实战](https://blog.csdn.net/cannonmonster01/article/details/158922818)
 
++ [无人机植物病害目标检测数据集（1500 张图片已划分、已标注）| AI训练适用于目标检测任务](https://blog.csdn.net/weixin_52908342/article/details/158888250)
+
