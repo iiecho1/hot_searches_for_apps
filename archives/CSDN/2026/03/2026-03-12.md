@@ -157,3 +157,7 @@
 
 + [基于视频孪生的三维实时解算技术在军储禁区空间管控体系中的应用](https://blog.csdn.net/2602_95481925/article/details/158930032)
 
++ [Calibre-Web 解锁电子书自由，](https://blog.csdn.net/2301_80038570/article/details/158851675)
+
++ [OpenClaw 模型配置与火山 Coding Plan 支持清单（实践笔记）](https://blog.csdn.net/zinss26914/article/details/158934886)
+
