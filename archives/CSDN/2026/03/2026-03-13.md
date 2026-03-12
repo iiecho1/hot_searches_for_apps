@@ -101,3 +101,37 @@
 
 + [电商案例复盘：从单体到微服务的取舍账本——以业务增长阶段为主线复盘架构演进与决策依据](https://blog.csdn.net/heartshiyue/article/details/158935130)
 
++ [基于openJiuwen记忆库的AI客服优化：从对话记录到业务洞察](https://blog.csdn.net/Mr_Roki/article/details/158930847)
+
++ [openJiuwen记忆库功能，打造智能食谱跨Agent共享记忆数据，提升上下文理解能力](https://blog.csdn.net/wanmeijuhao/article/details/158931893)
+
++ [【Linux】线程池（一）C++ 手写线程池：基于策略模式实现高性能日志模块](https://blog.csdn.net/2501_90265152/article/details/157065816)
+
++ [OpenClaw Windows 下 Docker 部署指南](https://blog.csdn.net/kof820/article/details/158886971)
+
++ [深入浅出 AOP：织入时机、JDK 动态代理与 CGLIB 原理及 Spring 选择策略](https://blog.csdn.net/l7_yuqi/article/details/158810845)
+
++ [ Spring Boot中MapStruct的用法](https://blog.csdn.net/BillKu/article/details/158894327)
+
++ [第5讲 MySql数据操纵语句--复杂查询](https://blog.csdn.net/Wjs153612/article/details/158932887)
+
++ [万物互联的视频底座：基于GB28181/RTSP的多协议融合与边缘推流架构解析](https://blog.csdn.net/tt120326/article/details/158878439)
+
++ [VTK-8.2.0+QT5.14.2展示3D图像](https://blog.csdn.net/weixin_45312249/article/details/158881437)
+
++ [如何将Openclaw（龙虾）接入飞书](https://blog.csdn.net/YYDS_54/article/details/158879322)
+
++ [SearchClaw：将 Elasticsearch 通过可组合技能引入 OpenClaw](https://blog.csdn.net/UbuntuTouch/article/details/158917181)
+
++ [Flutter 三方库 mix_context 的鸿蒙化适配指南 - 实现极简上下文增强、支持非 Widget 作用域下的 BuildContext 访问与状态注入](https://blog.csdn.net/2609_95049439/article/details/158935798)
+
++ [OpenClaw 快速部署与本地模型（Ollama）接入](https://blog.csdn.net/beihai_kun/article/details/158877588)
+
++ [周红伟：5分钟，让OpenClaw玩转飞书全家桶](https://blog.csdn.net/starzhou/article/details/158877504)
+
++ [第二届全国网络安全行业赛-电子取证师复赛R03（其他赛区）](https://blog.csdn.net/Aluxian_/article/details/158925423)
+
++ [embedding的这些维度数值各自有明确的语义含义么？和传统的特征工程相比有什么区别？](https://blog.csdn.net/u013565133/article/details/158879720)
+
++ [2026.3.10最新OpenClaw连接飞书教程](https://blog.csdn.net/weixin_44001222/article/details/158883367)
+

@@ -25,3 +25,27 @@
 
 + [4499 元起苹果 iPhone 17e 首销：A19 芯片、叠加国补 + 以旧换新低至 3299 元](https://m.ithome.com/html/927800.htm)
 
++ [追觅旗舰手机起步价 999 美元，黄金版价格超 10 万元](https://m.ithome.com/html/928302.htm)
+
++ [采购价近乎翻倍：消息称苹果砸重金狂买三星 12GB 内存，只为首款折叠手机 iPhone Fold](https://m.ithome.com/html/928227.htm)
+
++ [卢伟冰预热小米笔记本 Pro 14：镁合金机身、50W 性能释放](https://m.ithome.com/html/928225.htm)
+
++ [苹果回应有人购买 iPhone 后换屏退货赚差价：拆修可检测到，官网直营店均为全新正品](https://m.ithome.com/html/928201.htm)
+
++ [消息称某厂 16GB LPDDR6+1TB UFS 5.0 新方案已开模，预计为小米](https://m.ithome.com/html/928327.htm)
+
++ [小米 Xiaomi Book Pro 14 轻薄本实机现身，搭载 14.6&quot; OLED 触控屏](https://m.ithome.com/html/928470.htm)
+
++ [古尔曼：苹果首款大折叠 iPhone Fold 手机无法直接运行 iPad 应用，机身因太薄导致无法容纳 Face ID 传感器](https://m.ithome.com/html/928180.htm)
+
++ [全国人大代表陈莉娜建议禁止流量月底清零，全面清理霸王条款](https://m.ithome.com/html/928472.htm)
+
++ [小米笔记本 Pro 14 三款配色公布：柔雾蓝、白色、雅灰](https://m.ithome.com/html/928236.htm)
+
++ [OpenClaw“龙虾之父”斯坦伯格质疑 SkillHub“抄袭”ClawHub 数据，腾讯回应](https://m.ithome.com/html/928433.htm)
+
++ [容量翻倍：苹果 2026 款 Studio Display / XDR 显示器均配 128GB 存储](https://m.ithome.com/html/928191.htm)
+
++ [追觅发布汽车固态电池：计划年内小批量交付，2027 年大规模量产](https://m.ithome.com/html/928298.htm)
+
