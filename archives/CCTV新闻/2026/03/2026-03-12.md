@@ -179,3 +179,5 @@
 
 + [冲突进入第13天，伊朗总统提出结束冲突“唯一途径”，美以各执一词](https://news.cctv.com/2026/03/12/ARTIboI3a0VlHs3Qaf8ECjZ4260312.shtml)
 
++ [最大规模石油储备释放难补缺口 国际油价继续走高](https://news.cctv.com/2026/03/12/ARTI1pv2DOXcjN8CroqXmWdd260312.shtml)
+
