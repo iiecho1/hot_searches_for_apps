@@ -161,3 +161,7 @@
 
 + [伊朗公布“真实承诺4”第33轮行动导弹发射画面](https://news.cctv.com/2026/03/10/ARTI9tjNTOJfvPRuHEASqnjq260310.shtml)
 
++ [以军对黎巴嫩真主党基础设施完成多轮空袭](https://news.cctv.com/2026/03/13/ARTIJhPgTOg8vT0ce7LaOB6S260313.shtml)
+
++ [加拿大将斥资近350亿加元加强北部防御](https://news.cctv.com/2026/03/13/ARTIl7KvsSDHqF57bwXLjFWS260313.shtml)
+
