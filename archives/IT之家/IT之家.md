@@ -49,3 +49,17 @@
 
 + [荣耀 CEO 李健：公司正评估在国内市场设立子品牌的可行性](https://m.ithome.com/html/927765.htm)
 
++ [旧机估价满 200 元补贴 700 元：MacBook Neo 京东国补后低至 2699 元起](https://m.ithome.com/html/928176.htm)
+
++ [原装 20W 不够用，实测苹果 MacBook Neo 换大功率充电器可加快充电速度](https://m.ithome.com/html/928136.htm)
+
++ [工信部发布防范 OpenClaw（“龙虾”）开源智能体安全风险“六要六不要”建议](https://m.ithome.com/html/928137.htm)
+
++ [腾讯云官宣混元模型 Token 涨价，最高涨幅超 5 倍](https://m.ithome.com/html/928093.htm)
+
++ [微信鸿蒙版 App 获 8.0.15.64 尝鲜升级，手表端登录开放更多名额](https://m.ithome.com/html/928147.htm)
+
++ [腾讯“龙虾家族”热点问题详解：安装免费但调用模型会产生费用，考虑在各地闪现开展线下免费装机活动](https://m.ithome.com/html/928134.htm)
+
++ [消息称有国产 TOP5 手机厂商已合作豆包 AI 手机](https://m.ithome.com/html/928121.htm)
+

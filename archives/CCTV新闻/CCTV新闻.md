@@ -171,3 +171,11 @@
 
 + [伊朗称已实施“真实承诺4”第40轮军事行动](https://news.cctv.com/2026/03/12/ARTIWt5e6Ie8Ao6IXbwyd0FE260312.shtml)
 
++ [伊朗外长与古特雷斯通话讨论伊朗局势](https://news.cctv.com/2026/03/12/ARTIbrQzaGmf5gvQGwtSgrEp260312.shtml)
+
++ [国际油价显著上涨，多国将释放战略石油储备](https://news.cctv.com/2026/03/12/ARTI7RA6tl8gDrwIWdjo7BfX260312.shtml)
+
++ [“终结700年传统”，外媒：英国议会投票决定废除上议院世袭贵族席位](https://news.cctv.com/2026/03/12/ARTIsn8Xeu7sKTcavhoiCCdV260312.shtml)
+
++ [冲突进入第13天，伊朗总统提出结束冲突“唯一途径”，美以各执一词](https://news.cctv.com/2026/03/12/ARTIboI3a0VlHs3Qaf8ECjZ4260312.shtml)
+

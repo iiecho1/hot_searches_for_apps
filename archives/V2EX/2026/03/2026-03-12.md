@@ -25,3 +25,19 @@
 
 + [用 Ollama 部署了一个我之前没听过的大模型 gpt-oss:120b, 发现速度还挺快, 不知道能不能用在 openclaw 上.然后跟 Qwen 做了一下生成速度对比, 可能不太客观.](https://www.v2ex.com/t/1197271)
 
++ [天塌了， google 收紧 antigravity 额度了](https://www.v2ex.com/t/1197596)
+
++ [逆天，刚冲的 Google Pro 账户，用了反重力两天就不能用了](https://www.v2ex.com/t/1197429)
+
++ [外包都是这样的吗](https://www.v2ex.com/t/1197593)
+
++ [中转站 xcode.best 新人报道！ ，第一次来 V 站随便玩玩，老哥们求求你们来体验下，注册留言送 10 刀](https://www.v2ex.com/t/1197567)
+
++ [AI 时代程序员的护城河](https://www.v2ex.com/t/1197599)
+
++ [“女友”说必须要买全款房](https://www.v2ex.com/t/1197667)
+
++ [扫码进群，抢红包，抽小龙虾 AI 主机！实现 OpenClaw 龙虾自由！](https://www.v2ex.com/t/1197647)
+
++ [“万一免五”低佣低两融老倔驴开户，抽一个 JBL GO4，踏春挂在背包上很拉风...](https://www.v2ex.com/t/1197588)
+

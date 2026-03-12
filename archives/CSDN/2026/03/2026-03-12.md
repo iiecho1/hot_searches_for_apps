@@ -115,3 +115,23 @@
 
 + [如何在Spring中使用注解解决线程并发问题？](https://blog.csdn.net/xiaoye3708/article/details/158936025)
 
++ [【LE Audio】BAP协议精讲[24]: 从设备发现到稳定连接：LE Audio的GAP层协作秘籍](https://blog.csdn.net/weixin_37800531/article/details/158779596)
+
++ [MapReduce计数器完全指南：任务监控的“仪表盘“](https://blog.csdn.net/qq_41840843/article/details/158511636)
+
++ [Java内存安全：3步杜绝明文密码，风险直降95%？](https://blog.csdn.net/z_344791576/article/details/151898264)
+
++ [FAIR plus 机器人全产业链接会，链动全球智能新机遇](https://blog.csdn.net/2401_82648291/article/details/158920583)
+
++ [深度学习实战-基于EfficientNet的胸癌图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157472132)
+
++ [Spring Cloud 高并发订单服务实战：从创建流程优化到 Seata 分布式事务落地（附代码 + 架构图）](https://blog.csdn.net/qq_40303030/article/details/156563449)
+
++ [Linux线程(6)生产消费者模型](https://blog.csdn.net/2403_88076707/article/details/158926031)
+
++ [密码学系列 - ECDSA的门限签名方案](https://blog.csdn.net/wcc19840827/article/details/158853982)
+
++ [电商案例复盘：从单体到微服务的取舍账本——以业务增长阶段为主线复盘架构演进与决策依据](https://blog.csdn.net/heartshiyue/article/details/158935130)
+
++ [SpringBoot配置文件](https://blog.csdn.net/2401_89176842/article/details/158348448)
+
