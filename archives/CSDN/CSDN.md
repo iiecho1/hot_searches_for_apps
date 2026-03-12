@@ -157,3 +157,5 @@
 
 + [为什么我没有直接上 MQ，而是自研了一套轻量事件驱动引擎](https://blog.csdn.net/2302_80067378/article/details/158960115)
 
++ [Flutter 三方库 crypto 的鸿蒙化适配指南 - 实现具备工业级哈希算法与消息摘要计算的安全底座、支持端侧数据校验与数字签名实战](https://blog.csdn.net/jiang_style/article/details/158917100)
+
