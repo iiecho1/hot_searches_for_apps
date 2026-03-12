@@ -161,3 +161,11 @@
 
 + [OpenClaw 模型配置与火山 Coding Plan 支持清单（实践笔记）](https://blog.csdn.net/zinss26914/article/details/158934886)
 
++ [从像素到路径：用 Gemini 3 生成科研绘图并转为可编辑矢量图](https://blog.csdn.net/lovely_yoshino/article/details/157972595)
+
++ [OpenClaw 是如何解析游戏资源的](https://blog.csdn.net/qq_36863796/article/details/158893080)
+
++ [Pillow 图像滤波、卷积与边缘处理](https://blog.csdn.net/MoRanzhi1203/article/details/158935219)
+
++ [ML-1.线性回归（Linear Regression）](https://blog.csdn.net/2302_80012625/article/details/158935050)
+

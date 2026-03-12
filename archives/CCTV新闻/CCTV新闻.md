@@ -191,3 +191,7 @@
 
 + [为全球发展注入稳定性和正能量](https://news.cctv.com/2026/03/12/ARTI1In0lxeCakK9ejUw1fJh260312.shtml)
 
++ [伊朗伊斯兰革命卫队称发动“真实承诺4”第41轮军事行动](https://news.cctv.com/2026/03/12/ARTITFy30CGxlmPAX99lAT1s260312.shtml)
+
++ [以军称袭击德黑兰一处推进“核武器研发关键能力”的重要设施](https://news.cctv.com/2026/03/12/ARTI8IC4bs2hU8BaCTgX3qA3260312.shtml)
+
