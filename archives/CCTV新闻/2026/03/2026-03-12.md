@@ -195,3 +195,9 @@
 
 + [以军称袭击德黑兰一处推进“核武器研发关键能力”的重要设施](https://news.cctv.com/2026/03/12/ARTI8IC4bs2hU8BaCTgX3qA3260312.shtml)
 
++ [伊朗最高领袖说不会放弃复仇](https://news.cctv.com/2026/03/12/ARTIQIO8mvpPwI8ltzi5CPoa260312.shtml)
+
++ [伊朗最高领袖穆杰塔巴发表首份声明](https://news.cctv.com/2026/03/12/ARTIEtbpwNRRR9yc7aEUHOVF260312.shtml)
+
++ [国际社会表示中国高质量发展为全球注入稳定与信心 期待共享发展机遇](https://news.cctv.com/2026/03/12/ARTIdU4ZkXVNorQ9G8XeaBpt260312.shtml)
+

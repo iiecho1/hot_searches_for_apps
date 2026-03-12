@@ -171,3 +171,5 @@
 
 + [全域依赖型芯片底座专利：重构算力与安全的下一代硬件基石](https://blog.csdn.net/2501_91133060/article/details/158856608)
 
++ [2026年AI Agent实战：从玩具到生产力的落地手册（附源码）](https://blog.csdn.net/2401_86326742/article/details/158922271)
+
