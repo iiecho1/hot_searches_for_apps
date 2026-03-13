@@ -191,3 +191,9 @@
 
 + [【MyBatis 知识点解析】#{} 与 ${} 的区别及 SQL 注入实战演示](https://blog.csdn.net/weixin_46491509/article/details/158974162)
 
++ [MySQL 数据类型核心指南：选型、实战与避坑](https://blog.csdn.net/2503_91389547/article/details/158613716)
+
++ [Flutter 组件 image_size_getter_http_input 的鸿蒙化适配实战 - 驾驭极致图像采样大坝、实现 OpenHarmony 高性能列表滚动与流式渲染指纹预检方案](https://blog.csdn.net/baronbool/article/details/158885655)
+
++ [Flutter 三方库 color_model 的鸿蒙化适配指南 - 实现全色域（RGB/CMYK/HSL/XYZ）的高精度转换与色彩动力学解析、支持端侧专业级视觉调色实战](https://blog.csdn.net/jiang_style/article/details/158916271)
+
