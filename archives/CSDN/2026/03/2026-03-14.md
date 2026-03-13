@@ -115,3 +115,31 @@
 
 + [四川师范大学计算机协会编程组考核题解](https://blog.csdn.net/Little_Flower_/article/details/158882737)
 
++ [从像素到路径：用 Gemini 3 生成科研绘图并转为可编辑矢量图](https://blog.csdn.net/lovely_yoshino/article/details/157972595)
+
++ [MySQL迁金仓：高兼容+自动化，国产化迁移低成本落地实战](https://blog.csdn.net/lrq13965748542/article/details/159003868)
+
++ [一篇文章解释清楚网络io与io多路复用select/poll/epoll](https://blog.csdn.net/2604_95507391/article/details/159005315)
+
++ [HarmonyOS APP＜玩转React＞开源教程六：数据模型设计与实现](https://blog.csdn.net/ldc121xy716/article/details/159018252)
+
++ [Spring Boot3 实战：WebSocket+STOMP+集群+Token认证，实现可靠服务器单向消息推送](https://blog.csdn.net/qq_32890771/article/details/158934773)
+
++ [核芯引力芯片 ZS312 Type-C转DP方案 |替代VL102|替代睿思 FL7102/FL7112|替代昆泰 CH7213D |替代LDR6500|替代AS717|替代CH255S](https://blog.csdn.net/ggqwertyuiop/article/details/158963646)
+
++ [Unity学习02_Transfrom相关](https://blog.csdn.net/2503_93931574/article/details/158922066)
+
++ [OpenTelemetry + Kubernetes 无侵入式 Java 微服务指标监控部署指南](https://blog.csdn.net/m0_57949696/article/details/158934927)
+
++ [如何用Python调用阿里云的Qwen模型](https://blog.csdn.net/lza_csdn2019/article/details/159019992)
+
++ [号称解放双手的 OpenClaw 为何成不了合格生产力工具？](https://blog.csdn.net/m0_58782205/article/details/159016913)
+
++ [资本狂热背后：OpenClaw引爆的AI智能体狂潮，是真风口还是泡沫？](https://blog.csdn.net/2501_91062530/article/details/158974268)
+
++ [OpenClaw 模型配置与火山 Coding Plan 支持清单（实践笔记）](https://blog.csdn.net/zinss26914/article/details/158934886)
+
++ [为什么我没有直接上 MQ，而是自研了一套轻量事件驱动引擎](https://blog.csdn.net/2302_80067378/article/details/158960115)
+
++ [Linux 46 HTTPS(协议原理)安全通信全流程解析](https://blog.csdn.net/L070117/article/details/156546037)
+

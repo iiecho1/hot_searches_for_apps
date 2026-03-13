@@ -65,3 +65,5 @@
 
 + [Girls Day Something 路演](https://m.acfun.cn/v/?ac=48339431)
 
++ [사랑스러운 눈빛과 스쿨룩의 완벽한 조화, 매력 넘치는 보미](https://m.acfun.cn/v/?ac=48338142)
+
