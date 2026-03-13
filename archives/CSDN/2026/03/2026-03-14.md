@@ -159,3 +159,5 @@
 
 + [赋能企业服务：基于 wechatapi.net 构建高效微信公众号智能客服系统](https://blog.csdn.net/videosapi/article/details/159019748)
 
++ [OmniBinder：从一次次被现实逼疯，到做出一个微服务通信中间件](https://blog.csdn.net/harmonyluo/article/details/159027777)
+
