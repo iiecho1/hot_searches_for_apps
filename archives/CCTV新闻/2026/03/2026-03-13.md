@@ -193,3 +193,5 @@
 
 + [委内瑞拉代总统访问邻国计划突然取消](https://news.cctv.com/2026/03/13/ARTIQu5dlIKjdY5GSjPJhnAy260313.shtml)
 
++ [埃塞俄比亚南部山体滑坡遇难人数升至70人](https://news.cctv.com/2026/03/13/ARTIKuckzzonJMFUYPCHveHz260313.shtml)
+
