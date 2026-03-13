@@ -101,3 +101,17 @@
 
 + [QMD：本地MD混合搜索引擎](https://blog.csdn.net/shebao3333/article/details/158918730)
 
++ [为什么你的线程池总在“饿死“？揭秘.NET Core线程池的真相](https://blog.csdn.net/z_344791576/article/details/151921188)
+
++ [SpringBoot配置文件](https://blog.csdn.net/2401_89176842/article/details/158348448)
+
++ [【Linux】线程池（一）C++ 手写线程池：基于策略模式实现高性能日志模块](https://blog.csdn.net/2501_90265152/article/details/157065816)
+
++ [一个真实鸿蒙 App 的工程目录结构](https://blog.csdn.net/qq_36863796/article/details/158933938)
+
++ [@Transactional注解失效的六大场景](https://blog.csdn.net/weixin_37838725/article/details/158935267)
+
++ [【前端实战】CRC循环冗余校验工具（带完整计算过程）- 纯HTML+CSS+JS实现（附源码）](https://blog.csdn.net/u014411348/article/details/158887523)
+
++ [四川师范大学计算机协会编程组考核题解](https://blog.csdn.net/Little_Flower_/article/details/158882737)
+

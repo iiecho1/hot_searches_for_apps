@@ -61,3 +61,7 @@
 
 + [【全网首发】在东京与美少女制作人们做Galgame《LetsGal》测试版全流程EP23——立绘初成](https://m.acfun.cn/v/?ac=48322340)
 
++ [Miniskirt](https://m.acfun.cn/v/?ac=48341146)
+
++ [Girls Day Something 路演](https://m.acfun.cn/v/?ac=48339431)
+
