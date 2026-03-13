@@ -231,3 +231,11 @@
 
 + [Linux系统安全](https://blog.csdn.net/zzh081/article/details/158917725)
 
++ [告别手写SQL？Cursor智能生成实战指南与避坑技巧](https://blog.csdn.net/csdn_silent/article/details/159008676)
+
++ [OpenClaw多Agent协作完全指南](https://blog.csdn.net/Openclaw2026/article/details/158922826)
+
++ [Redis lua 执行性能优化](https://blog.csdn.net/qq_24683975/article/details/155266560)
+
++ [嵌入式mcu开发专业术语汇总](https://blog.csdn.net/weixin_44178305/article/details/158900423)
+
