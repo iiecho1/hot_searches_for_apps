@@ -155,3 +155,7 @@
 
 + [《认知几何学丛书》七卷本目录大纲](https://blog.csdn.net/weixin_50059478/article/details/159001464)
 
++ [2026 AI编程工具四万字深度全景解析：Cursor、Trae、Qoder、CodeBuddy、WorkBuddy终极对比](https://blog.csdn.net/jinanwuhuaguo/article/details/159003320)
+
++ [赋能企业服务：基于 wechatapi.net 构建高效微信公众号智能客服系统](https://blog.csdn.net/videosapi/article/details/159019748)
+
