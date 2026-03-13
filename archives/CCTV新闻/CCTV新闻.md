@@ -211,3 +211,21 @@
 
 + [两会世界观察丨“中国发展规划法治化制度化实现质的飞跃”](https://news.cctv.com/2026/03/13/ARTIgD29tU2sznQQcs68JoQD260313.shtml)
 
++ [日本柏崎刈羽核电站因漏电将暂停发电](https://news.cctv.com/2026/03/13/ARTInXT3XtoPrytkvK6knsfc260313.shtml)
+
++ [美国放松对俄石油制裁以应对中东石油供应冲击](https://news.cctv.com/2026/03/13/ARTIIiukjnaHN7eiJTr3XnKh260313.shtml)
+
++ [“德纳”号遇难船员遗体被送回伊朗](https://news.cctv.com/2026/03/13/ARTIieLDCXti1blp6QWpg9Yc260313.shtml)
+
++ [伊朗方面称已有20余家医院在冲突中遭袭](https://news.cctv.com/2026/03/13/ARTImLW7ahDRbt0FBjAoMPaE260313.shtml)
+
++ [古巴称已与美方会谈](https://news.cctv.com/2026/03/13/ARTIClqXwZe1YIb3xvks4o8F260313.shtml)
+
++ [巴基斯坦称空袭阿富汗恐怖分子营地 阿称袭击巴设施](https://news.cctv.com/2026/03/13/ARTIbonGbBEggnvslfx8bdOj260313.shtml)
+
++ [美军确认坠毁加油机上4人死亡](https://news.cctv.com/2026/03/13/ARTIlJGqGrP1x2xjHCI9ozUP260313.shtml)
+
++ [日本政府宣布将于16日开始释放石油储备](https://news.cctv.com/2026/03/13/ARTI7wvQLpgq1Dvd1rPcuGdc260313.shtml)
+
++ [特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡](https://news.cctv.com/2026/03/13/ARTIdOsRcXqLENfPpJtVa60p260313.shtml)
+

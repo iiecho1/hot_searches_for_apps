@@ -239,3 +239,11 @@
 
 + [嵌入式mcu开发专业术语汇总](https://blog.csdn.net/weixin_44178305/article/details/158900423)
 
++ [ZooKeeper ZNode的stat结构体深度解析：从字段详解到实战应用](https://blog.csdn.net/qq_41840843/article/details/158538359)
+
++ [搭载cpolar让Tldraw 内网白板秒变公网协作神器](https://blog.csdn.net/lrq13965748542/article/details/159014867)
+
++ [人工智能时代，普通人如何用AI创造真实收入](https://blog.csdn.net/sinat_41617212/article/details/158960030)
+
++ [一个 OpenClaw 实例跑 3 个 Agent：电商多角色助手配置实战（附飞书接入）](https://blog.csdn.net/u012365585/article/details/158929014)
+
