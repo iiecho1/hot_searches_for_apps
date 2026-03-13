@@ -179,3 +179,15 @@
 
 + [3月10日GitHub热门项目推荐|自动化的浪潮](https://blog.csdn.net/ZHHHHH15/article/details/158917714)
 
++ [【计算机网络之HTTP、TCP、UDP、HTTPS、Socket网络连接】](https://blog.csdn.net/2401_87810889/article/details/158883900)
+
++ [腾讯版“小龙虾“WorkBuddy一键部署教程：AI办公智能体即刻上手](https://blog.csdn.net/kingtok/article/details/158888465)
+
++ [Flutter 三方库 pip 的鸿蒙化适配指南 - 实现标准化的画中画（Picture-in-Picture）模式、支持视频悬浮窗与多任务并行交互](https://blog.csdn.net/2609_95049439/article/details/158936331)
+
++ [Decoder-only 架构深度解析：为什么 GPT 选择这条技术路线？](https://blog.csdn.net/yanxilou/article/details/158889044)
+
++ [SpringBoot配置文件](https://blog.csdn.net/2401_89176842/article/details/158348448)
+
++ [【MyBatis 知识点解析】#{} 与 ${} 的区别及 SQL 注入实战演示](https://blog.csdn.net/weixin_46491509/article/details/158974162)
+

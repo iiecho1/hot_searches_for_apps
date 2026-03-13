@@ -37,3 +37,7 @@
 
 + [父母极限催生，快要断绝父子关系了](https://www.v2ex.com/t/1197957)
 
++ [Antigravity 有 GeminiPro 的账号也变成 5 天冷却了?](https://www.v2ex.com/t/1197790)
+
++ [windows 代理软件更推荐哪个？](https://www.v2ex.com/t/1197878)
+

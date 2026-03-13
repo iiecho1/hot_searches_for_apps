@@ -49,3 +49,19 @@
 
 + [追觅发布汽车固态电池：计划年内小批量交付，2027 年大规模量产](https://m.ithome.com/html/928298.htm)
 
++ [微软 Windows 前负责人盛赞苹果 MacBook Neo：实现了我们未竟的 Win8 愿景](https://m.ithome.com/html/928527.htm)
+
++ [苹果宣布将庆祝公司成立 50 周年](https://m.ithome.com/html/928545.htm)
+
++ [马志宇谈小米笔记本时隔四年回归，称承载了太多人的期待和希望](https://m.ithome.com/html/928553.htm)
+
++ [苹果公司宣布降低中国 App Store 佣金率，3 月 15 日起调整](https://m.ithome.com/html/928601.htm)
+
++ [初探追觅旗舰手机：搭载第五代骁龙 8 至尊版处理器、预装努比亚星云 AIOS 系统](https://m.ithome.com/html/928476.htm)
+
++ [雷军：小米要改善新一代 SU7 交付体验，让车主尽早拿到车](https://m.ithome.com/html/928559.htm)
+
++ [苹果 MacBook Neo 拆解揭示：模块化设计、无胶带、易维修](https://m.ithome.com/html/928558.htm)
+
++ [雷军：新一代小米 SU7 成本上升了不少，肯定会涨价](https://m.ithome.com/html/928702.htm)
+
