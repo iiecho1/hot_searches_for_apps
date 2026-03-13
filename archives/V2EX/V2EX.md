@@ -23,3 +23,7 @@
 
 + [macbookneo 香爆了，必须吹一波](https://www.v2ex.com/t/1197702)
 
++ [不对劲，很不对劲，去了一趟厕所回来，同事们都三三两两聚一起讨论什么](https://www.v2ex.com/t/1197728)
+
++ [中转 API 福利贴🎁最新 GPT5.4 模型 ：新人回复送 ¥50 刀💰使用，可用 gpt-5.3-codex(high)，可接入 openclaw](https://www.v2ex.com/t/1197646)
+

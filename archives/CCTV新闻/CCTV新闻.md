@@ -165,3 +165,7 @@
 
 + [加拿大将斥资近350亿加元加强北部防御](https://news.cctv.com/2026/03/13/ARTIl7KvsSDHqF57bwXLjFWS260313.shtml)
 
++ [福岛核事故15年后，日本核监管体系仍漏洞重重](https://news.cctv.com/2026/03/13/ARTIeQN9yzszkzd6LyhASvkA260313.shtml)
+
++ [应对暴雨影响 秘鲁全国283个区市进入60天紧急状态](https://news.cctv.com/2026/03/13/ARTIC7EF2ffy6UViTieLp36g260313.shtml)
+
