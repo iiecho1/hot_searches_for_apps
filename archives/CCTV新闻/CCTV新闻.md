@@ -169,3 +169,17 @@
 
 + [应对暴雨影响 秘鲁全国283个区市进入60天紧急状态](https://news.cctv.com/2026/03/13/ARTIC7EF2ffy6UViTieLp36g260313.shtml)
 
++ [厄瓜多尔强降雨已致11人死亡 超5万人受影响](https://news.cctv.com/2026/03/13/ARTIOiTwfUXzZKEpna3MK9sC260313.shtml)
+
++ [伊朗发起“真实承诺-4”第44轮军事行动 打击美国第五舰队基地](https://news.cctv.com/2026/03/13/ARTIGMwynFlMnRzctxTzNrDp260313.shtml)
+
++ [美国财政部：将暂时放宽对部分俄罗斯石油的制裁](https://news.cctv.com/2026/03/13/ARTIGgm1DRhUsOJ1oKRjBYMD260313.shtml)
+
++ [美方称伊朗开始在霍尔木兹海峡布雷 伊方否认](https://news.cctv.com/2026/03/13/ARTIlaCtz0VlPKbn3L6rKoy0260313.shtml)
+
++ [美政府被指低估伊朗封锁霍尔木兹海峡的可能性](https://news.cctv.com/2026/03/13/ARTIDaDpNjuNIZAf3lNvvzxa260313.shtml)
+
++ [苹果公司宣布降低中国App Store佣金率](https://news.cctv.com/2026/03/13/ARTIgR3dEbXeVBKCwwkLdCds260313.shtml)
+
++ [土耳其发生5.0级地震，震源深度20千米](https://news.cctv.com/2026/03/13/ARTIeUH5jBoLdo5HIylE7GSp260313.shtml)
+
