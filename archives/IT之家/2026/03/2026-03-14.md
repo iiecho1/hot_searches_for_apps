@@ -25,3 +25,23 @@
 
 + [雷军：新一代小米 SU7 成本上升了不少，肯定会涨价](https://m.ithome.com/html/928702.htm)
 
++ [腾讯回应苹果中国 App Store 降佣金：令行业为之振奋](https://m.ithome.com/html/928641.htm)
+
++ [华为 Pura X 成为中国 2025 TOP2 销量折叠屏，累积激活量超过 110 万台](https://m.ithome.com/html/928740.htm)
+
++ [小米新一代 SU7 最后一款全新车色“靛石绿”揭晓，本月正式发布](https://m.ithome.com/html/928623.htm)
+
++ [鸿蒙智行尚界 Z7/Z7T 工信部“证件照”公布：有“Ultra”尾标，提供 170/264kW 双电机车型](https://m.ithome.com/html/928925.htm)
+
++ [国产手机涨价 2000 元？部分经销商透露新机涨幅可能在 500 到 2000 元之间](https://m.ithome.com/html/928768.htm)
+
++ [小米笔记本 Pro 14 搭载 72Wh 大电池：标配 100W 氮化镓适配器，续航可达 19.8 小时](https://m.ithome.com/html/928802.htm)
+
++ [消息称华为 Pura X2 为行业首个横向大尺寸阔折叠，Pura 90 系列已备案](https://m.ithome.com/html/928848.htm)
+
++ [雷军：新一代小米 SU7 本月正式发布](https://m.ithome.com/html/928598.htm)
+
++ [OpenClaw“小龙虾”之父斯坦伯格发声：希望百度能提供开发支持，而不仅仅是部署](https://m.ithome.com/html/928964.htm)
+
++ [比亚迪方程豹钛 3 闪充版上市：续航 565KM/620KM，15.38 万元起](https://m.ithome.com/html/928943.htm)
+
