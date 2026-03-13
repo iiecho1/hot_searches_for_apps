@@ -143,3 +143,15 @@
 
 + [Linux 46 HTTPS(协议原理)安全通信全流程解析](https://blog.csdn.net/L070117/article/details/156546037)
 
++ [HarmonyOS APP＜玩转React＞开源教程五：项目架构设计](https://blog.csdn.net/ldc121xy716/article/details/159018235)
+
++ [2026 避坑指南：GPT-5.4 Codex、OpenClaw 与订阅版本全解析](https://blog.csdn.net/2301_82049134/article/details/158890439)
+
++ [万亿级消息队列的演进：如何在Kafka/Pulsar架构下实现Exactly-Once投递与零丢失？](https://blog.csdn.net/2301_77485708/article/details/158931198)
+
++ [Ubuntu 云服务部署 OpenClaw 并接入飞书机器人](https://blog.csdn.net/qq_58308926/article/details/158935663)
+
++ [在 vue2 或 vue3中实现excel单元格选择、复制粘贴功能的方式](https://blog.csdn.net/chocolate2s/article/details/159004452)
+
++ [《认知几何学丛书》七卷本目录大纲](https://blog.csdn.net/weixin_50059478/article/details/159001464)
+
