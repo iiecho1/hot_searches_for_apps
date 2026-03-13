@@ -187,3 +187,9 @@
 
 + [内塔尼亚胡称正“粉碎”伊朗政权 袭击伊核科学家](https://news.cctv.com/2026/03/13/ARTIA70ddln5cSzZXZ0yVunv260313.shtml)
 
++ [首次公开估算 五角大楼称伊朗战事上周“烧钱”110亿美元](https://news.cctv.com/2026/03/13/ARTIzSy5omL9spmZi49nzeaW260313.shtml)
+
++ [俄外交部：美以军事行动破坏了整个中东的稳定](https://news.cctv.com/2026/03/13/ARTIp2XQrUtmlI5XnwP39tnh260313.shtml)
+
++ [委内瑞拉代总统访问邻国计划突然取消](https://news.cctv.com/2026/03/13/ARTIQu5dlIKjdY5GSjPJhnAy260313.shtml)
+

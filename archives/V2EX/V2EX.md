@@ -45,3 +45,5 @@
 
 + [有没有觉得，其实国内的程序员们最近几年，付费习惯培养起来了](https://www.v2ex.com/t/1197879)
 
++ [Clash Verge 你们用的系统代理还是 TUN 模式？](https://www.v2ex.com/t/1197934)
+
