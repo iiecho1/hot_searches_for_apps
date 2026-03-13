@@ -195,3 +195,9 @@
 
 + [埃塞俄比亚南部山体滑坡遇难人数升至70人](https://news.cctv.com/2026/03/13/ARTIKuckzzonJMFUYPCHveHz260313.shtml)
 
++ [美以军事打击伊朗以来已有700余名中国公民自伊朗撤离](https://news.cctv.com/2026/03/13/ARTITy5XLfEWd4AlwPfFdiLD260313.shtml)
+
++ [外媒议两会：中国的发展理念为国家进步提供动力](https://news.cctv.com/2026/03/13/ARTI7G8RyVgQSntlA7wZ7nIr260313.shtml)
+
++ [日本政府推动设立国家情报机制 引发舆论质疑](https://news.cctv.com/2026/03/13/ARTIUQOSP0Vwsti7Cca4EgBG260313.shtml)
+
