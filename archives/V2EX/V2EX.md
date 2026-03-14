@@ -65,3 +65,7 @@
 
 + [求教哪里能买到廉价而保真的 claude api](https://www.v2ex.com/t/1198239)
 
++ [废了，苹果连续 4 次主动取消我订单了...](https://www.v2ex.com/t/1198211)
+
++ [兄弟们， M5 MBA 已上车，国补+教育优惠 6374 元，](https://www.v2ex.com/t/1198231)
+
