@@ -69,3 +69,5 @@
 
 + [兄弟们， M5 MBA 已上车，国补+教育优惠 6374 元，](https://www.v2ex.com/t/1198231)
 
++ [vibe coding 让我对代码的掌控力越来越弱了](https://www.v2ex.com/t/1198170)
+

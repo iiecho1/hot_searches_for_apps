@@ -59,3 +59,11 @@
 
 + [驰为笔记本虚标 CPU 事件愈演愈烈，CoreBook Plus 再度被指用锐龙 5 5500U 冒充 7430U](https://m.ithome.com/html/928969.htm)
 
++ [余承东展示华为畅享 90 Pro Max 真机：搭载麒麟芯 + 鸿蒙 6 + 巨鲸大电池，月底发布](https://m.ithome.com/html/929017.htm)
+
++ [2026 央视 315 晚会主题官宣，关注食品安全、公共安全、金融安全、广告市场等领域侵权行为](https://m.ithome.com/html/928970.htm)
+
++ [苹果 iOS 27 系统前瞻：针对 iPhone Fold 提供左侧边栏，Apple 智能版 Siri 发布时间仍不明确](https://m.ithome.com/html/929008.htm)
+
++ [全球首款闪充纯电大方盒：比亚迪方程豹钛 7 EV 闪充版开启预订，22 万-25 万元](https://m.ithome.com/html/928958.htm)
+

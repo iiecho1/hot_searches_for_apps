@@ -203,3 +203,17 @@
 
 + [使用OpenClaw飞书插件玩转飞书](https://blog.csdn.net/wangshuai6707/article/details/159006331)
 
++ [Spring Cloud 熔断降级详解：用 “保险丝“ 类比，Sentinel 实战教程](https://blog.csdn.net/2401_86326742/article/details/159006985)
+
++ [【RFCOMM】协议深度解析[9]：RFCOMM多路复用控制命令](https://blog.csdn.net/weixin_37800531/article/details/158805153)
+
++ [SkyWalking - .NET / C++ / Lua 探针现状与社区支持](https://blog.csdn.net/qq_41187124/article/details/157510815)
+
++ [VSCode/Trae使用Codex插件接入第三方中转API使用GPT-5.4的图文教程 VSCode Codex、GPT-5.4 API接入、Codex第三方API配置、Trae Codex教程](https://blog.csdn.net/weixin_41961749/article/details/159020384)
+
++ [范进说八股 | Elasticsearch篇——恐怖如斯的企业级搜索引擎](https://blog.csdn.net/2401_88044367/article/details/159044176)
+
++ [Docker 部署 Nginx 容器网络避坑指南：upstream 不通、端口冲突、服务发现全解决](https://blog.csdn.net/zhuimengkaifazhe/article/details/159046403)
+
++ [OpenClaw 模型配置与切换经验分享](https://blog.csdn.net/hjx_1000/article/details/158971221)
+
