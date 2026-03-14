@@ -145,3 +145,5 @@
 
 + [深度学习实战-基于CNN卷积神经网络的蝴蝶图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157514442)
 
++ [nginx集群聊天室（五）nginx配置tcp服务器负载均衡](https://blog.csdn.net/2501_92707800/article/details/159006228)
+
