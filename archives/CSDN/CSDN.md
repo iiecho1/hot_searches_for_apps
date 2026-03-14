@@ -147,3 +147,9 @@
 
 + [nginx集群聊天室（五）nginx配置tcp服务器负载均衡](https://blog.csdn.net/2501_92707800/article/details/159006228)
 
++ [为什么用目前的AI大模型无法独立开发FPGA系统](https://blog.csdn.net/ccsss22/article/details/159054630)
+
++ [我的Rust学习之路_day2](https://blog.csdn.net/weixin_45984334/article/details/159053925)
+
++ [2026 Flutter-OH 路线图：站在开发者视角，看清接下来一年怎么走](https://blog.csdn.net/weixin_45822171/article/details/159054352)
+
