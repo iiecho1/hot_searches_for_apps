@@ -177,3 +177,19 @@
 
 + [OpenClaw 完整部署(云端模型+本地模型) + 接入飞书指南](https://blog.csdn.net/m0_46168848/article/details/158978900)
 
++ [从 App 到 Agent：鸿蒙应用形态正在改变](https://blog.csdn.net/qq_36863796/article/details/159017492)
+
++ [【Linux】线程池（二）C++ 手写线程池全流程：从核心设计到线程安全、死锁深度解析](https://blog.csdn.net/2501_90265152/article/details/158881277)
+
++ [【嵌入式】基于I2C总线的IMU-磁力计融合算法与数据共享](https://blog.csdn.net/m0_75192474/article/details/158972937)
+
++ [【HarmonyOS 6.0】Camera Kit 微距状态监听能力详解](https://blog.csdn.net/weixin_74809706/article/details/158931738)
+
++ [ComfyUI v0.17.0 最新版本发布：模块化架构重构、异步资产扫描与多重性能优化全解析](https://blog.csdn.net/weixin_48502062/article/details/159013567)
+
++ [4.OpenGL纹理贴图](https://blog.csdn.net/2401_83279529/article/details/158975884)
+
++ [构建 .NET 9 Quartz 可视化调度系统（使用 Chet.QuartzNet.UI）](https://blog.csdn.net/weixin_48916144/article/details/159003985)
+
++ [openclaw dashboard实现分析](https://blog.csdn.net/happyAnger6/article/details/159019815)
+

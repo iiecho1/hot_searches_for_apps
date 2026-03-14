@@ -61,3 +61,7 @@
 
 + [安卓假如放弃 root 的话，建议买哪家？](https://www.v2ex.com/t/1198090)
 
++ [炒股误区——卖飞](https://www.v2ex.com/t/1198215)
+
++ [求教哪里能买到廉价而保真的 claude api](https://www.v2ex.com/t/1198239)
+
