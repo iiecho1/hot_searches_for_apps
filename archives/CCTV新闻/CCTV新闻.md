@@ -175,3 +175,11 @@
 
 + [伊朗发起“真实承诺-4”第47轮军事行动](https://news.cctv.com/2026/03/14/ARTINY2VvUJfEleHW31Y5Jl0260314.shtml)
 
++ [阿联酋民航总局：航空运力恢复至战事前近半水平](https://news.cctv.com/2026/03/14/ARTI8Sq4OOOcuClPyIrJ9SPe260314.shtml)
+
++ [伊朗称若能源目标遭袭 将对等摧毁地区内美方所有关联设施](https://news.cctv.com/2026/03/14/ARTIgYCvcw91qNsob0IjFClA260314.shtml)
+
++ [塔吉克斯坦先心病儿童在青岛接受治疗](https://photo.cctv.com/2026/03/14/PHOArv0bEwLgECNHd0GR4buX260314.shtml)
+
++ [美官员称已有13名美军人员在对伊朗军事行动中死亡](https://news.cctv.com/2026/03/14/ARTIsoCiUHq84OsuE62csm3J260314.shtml)
+
