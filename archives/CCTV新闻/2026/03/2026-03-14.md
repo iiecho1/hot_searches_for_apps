@@ -167,3 +167,11 @@
 
 + [联合国秘书长候选人增至五人](https://news.cctv.com/2026/03/14/ARTIsPosvNEakowJcuxxUnZb260314.shtml)
 
++ [特朗普：美海军“很快”开始在霍尔木兹海峡护航](https://news.cctv.com/2026/03/14/ARTIjYX08NvKInzN12HvDcTF260314.shtml)
+
++ [美媒：美军5架空中加油机在伊朗导弹袭击中受损](https://news.cctv.com/2026/03/14/ARTIYYadyIwTGcq7GE6cEBIZ260314.shtml)
+
++ [特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛](https://news.cctv.com/2026/03/14/ARTIJPLyALT8Z9yCbA2Acek7260314.shtml)
+
++ [伊朗发起“真实承诺-4”第47轮军事行动](https://news.cctv.com/2026/03/14/ARTINY2VvUJfEleHW31Y5Jl0260314.shtml)
+

@@ -161,3 +161,11 @@
 
 + [OmniBinder：从一次次被现实逼疯，到做出一个微服务通信中间件](https://blog.csdn.net/harmonyluo/article/details/159027777)
 
++ [SkyWalking - Python 应用追踪：基于 skywalking-python 的埋点](https://blog.csdn.net/qq_41187124/article/details/157510802)
+
++ [Anthropic 团队内部实战：如何用 Claude Code 重构研发效率全流程](https://blog.csdn.net/universsky2015/article/details/159027634)
+
++ [[项目构建]ubuntu24.04下从零部署limap步骤与问题解决方案](https://blog.csdn.net/2301_79465388/article/details/159016837)
+
++ [Spring 实例化bean有几种方式？](https://blog.csdn.net/xiaoye3708/article/details/158935921)
+
