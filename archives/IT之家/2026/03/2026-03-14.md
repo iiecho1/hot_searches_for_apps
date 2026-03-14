@@ -45,3 +45,17 @@
 
 + [比亚迪方程豹钛 3 闪充版上市：续航 565KM/620KM，15.38 万元起](https://m.ithome.com/html/928943.htm)
 
++ [插混版“大秦”来了：比亚迪秦 MAX DM-i 完成工信部申报](https://m.ithome.com/html/928972.htm)
+
++ [华为 HarmonyOS 6 系统再添重磅更新，微信鸿蒙版 App 登陆 HiCar 车机端](https://m.ithome.com/html/928977.htm)
+
++ [美团 CEO 王兴：我们都应该努力“减少登味”，内部不要再叫我“兴哥”](https://m.ithome.com/html/928878.htm)
+
++ [小米官方“龙虾”Xiaomi miclaw 开启小范围封测用户申请](https://m.ithome.com/html/928940.htm)
+
++ [消息称华为畅享 90 系列手机马上官宣，麒麟 8 系芯片 + 巨鲸大电池](https://m.ithome.com/html/928879.htm)
+
++ [鸿蒙智行新款问界 M9 工信部申报：换装非隐藏式门把手，可选大饼轮毂](https://m.ithome.com/html/928929.htm)
+
++ [驰为笔记本虚标 CPU 事件愈演愈烈，CoreBook Plus 再度被指用锐龙 5 5500U 冒充 7430U](https://m.ithome.com/html/928969.htm)
+
