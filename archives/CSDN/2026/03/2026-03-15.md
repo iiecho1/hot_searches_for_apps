@@ -143,3 +143,5 @@
 
 + [Flutter 三方库 mime_type_extension 鸿蒙适配指南 - 实现精准媒体内容识别、在 OpenHarmony 上打造标准化文件分发防线实战](https://blog.csdn.net/guoyizhongxing/article/details/159020057)
 
++ [深度学习实战-基于CNN卷积神经网络的蝴蝶图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157514442)
+
