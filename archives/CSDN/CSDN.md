@@ -101,3 +101,21 @@
 
 + [OpenTelemetry + Kubernetes 无侵入式 Java 微服务指标监控部署指南](https://blog.csdn.net/m0_57949696/article/details/158934927)
 
++ [《金仓数据库（KingbaseES）如何「基于代价的连接条件下推」》](https://blog.csdn.net/Dovis5884/article/details/159045251)
+
++ [第5讲 MySql数据操纵语句--复杂查询](https://blog.csdn.net/Wjs153612/article/details/158932887)
+
++ [Spring IoC 容器与 Bean 管理核心考点解析](https://blog.csdn.net/HANhylyxy/article/details/158877911)
+
++ [Python 实战：骑行数据可视化分析（Pandas+Matplotlib）](https://blog.csdn.net/m0_73825013/article/details/159050131)
+
++ [高并发论坛系统：单元测试 + 接口自动化 + 性能测试 + CI/CD 全链路测试报告](https://blog.csdn.net/2501_93037119/article/details/158153303)
+
++ [【2026最新】OpenClaw 自定义中转站配置全攻略：接入 GPT、Claude、Gemini、DeepSeek 四大模型实战教程](https://blog.csdn.net/m0_53581755/article/details/159047855)
+
++ [计算机网络：物理层](https://blog.csdn.net/2303_79336820/article/details/159007650)
+
++ [【项目】基于正倒排索引的Java文档搜索引擎测试报告](https://blog.csdn.net/2402_87233358/article/details/159047365)
+
++ [Windows 11 上搭建 YouTube 视频下载工具：yt-dlp + FFmpeg](https://blog.csdn.net/liulilittle/article/details/159019657)
+

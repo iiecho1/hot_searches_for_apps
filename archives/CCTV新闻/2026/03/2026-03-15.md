@@ -161,3 +161,5 @@
 
 + [中俄赞成，美国反对，安理会未能通过涉伊朗决议](https://news.cctv.com/2026/03/12/ARTIl4PfZ231J5pLBQXcb610260312.shtml)
 
++ [特朗普回应美军加油机在沙特遭袭：其中一架“受损稍重”](https://news.cctv.com/2026/03/15/ARTIOdjXNPNNoZWlgxt7MnRu260315.shtml)
+
