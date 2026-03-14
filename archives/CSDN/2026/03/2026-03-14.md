@@ -257,3 +257,9 @@
 
 + [机器人成长日记](https://blog.csdn.net/2401_88856689/article/details/159045175)
 
++ [【花雕学编程】Arduino BLDC 之机器人的AI驱动自适应位置控制算法](https://blog.csdn.net/weixin_41659040/article/details/159042645)
+
++ [快速部署Milvus 2.6.4单机版向量数据库（Docker Compose方式）](https://blog.csdn.net/Anmory/article/details/159002809)
+
++ [Python 实战：骑行数据可视化分析（Pandas+Matplotlib）](https://blog.csdn.net/m0_73825013/article/details/159050131)
+
