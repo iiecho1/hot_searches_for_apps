@@ -217,3 +217,19 @@
 
 + [OpenClaw 模型配置与切换经验分享](https://blog.csdn.net/hjx_1000/article/details/158971221)
 
++ [金仓数据库复杂查询优化实践：基于代价的连接条件下推](https://blog.csdn.net/Mrxiao_bo/article/details/159047071)
+
++ [代码之锚:洞悉Linux库的打包与复用法则](https://blog.csdn.net/ABWSO/article/details/158842551)
+
++ [【教程4＞第11章＞第19节】基于直方图的图像曝光量判决算法FPGA实现——仿真测试](https://blog.csdn.net/ccsss22/article/details/159048807)
+
++ [Docker Compose 学习之多容器应用编排与运维实践 —— 基于 Nginx+MySQL+Redis 服务栈的部署与管理](https://blog.csdn.net/2503_90172382/article/details/159013649)
+
++ [DDD 认知升级：从单服务战术落地，到分布式中台战略全景](https://blog.csdn.net/qq_24597659/article/details/159020037)
+
++ [国内直连使用Claude的四种方案](https://blog.csdn.net/m0_72463875/article/details/159020480)
+
++ [OpenClaw接入飞书教程：技术小白必备](https://blog.csdn.net/2401_89926894/article/details/158975260)
+
++ [【项目】基于正倒排索引的Java文档搜索引擎测试报告](https://blog.csdn.net/2402_87233358/article/details/159047365)
+
