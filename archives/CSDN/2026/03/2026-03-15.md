@@ -119,3 +119,27 @@
 
 + [Windows 11 上搭建 YouTube 视频下载工具：yt-dlp + FFmpeg](https://blog.csdn.net/liulilittle/article/details/159019657)
 
++ [AI实践(7)工具函数调用](https://blog.csdn.net/Once_day/article/details/159055127)
+
++ [Go channel 深入解析](https://blog.csdn.net/2302_80067378/article/details/159053964)
+
++ [基于YOLO26深度学习的风力机缺陷检测与语音提示系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/159013303)
+
++ [搭载cpolar让Tldraw 内网白板秒变公网协作神器](https://blog.csdn.net/lrq13965748542/article/details/159014867)
+
++ [【数据库】复杂场景下基于代价的连接条件下推：实践与思考](https://blog.csdn.net/qq_38628970/article/details/159053157)
+
++ [SpringBoot日志全解析：从调试到持久化](https://blog.csdn.net/2401_89176842/article/details/158431229)
+
++ [双非 Java 后端首次实习 | 个人经验分享总结 ](https://blog.csdn.net/chan12345678910/article/details/158964380)
+
++ [范进说八股 | Elasticsearch篇——恐怖如斯的企业级搜索引擎](https://blog.csdn.net/2401_88044367/article/details/159044176)
+
++ [Flutter 三方库 fast_flutter_driver_tool 鸿蒙适配指南 - 实现极速 UI 自动化集成测试、在 OpenHarmony 上打造高压自动化验收防线实战](https://blog.csdn.net/lady_mumu/article/details/159019525)
+
++ [自研Flutter图片裁剪组件：手搓一个专业级裁剪器](https://blog.csdn.net/m0_73231884/article/details/159047544)
+
++ [《RHEL9虚拟机部署及SSH远程登录实践手册》](https://blog.csdn.net/2502_90206768/article/details/159048098)
+
++ [Flutter 三方库 mime_type_extension 鸿蒙适配指南 - 实现精准媒体内容识别、在 OpenHarmony 上打造标准化文件分发防线实战](https://blog.csdn.net/guoyizhongxing/article/details/159020057)
+

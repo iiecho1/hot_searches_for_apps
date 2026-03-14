@@ -25,3 +25,17 @@
 
 + [驰为笔记本虚标 CPU 事件愈演愈烈，CoreBook Plus 再度被指用锐龙 5 5500U 冒充 7430U](https://m.ithome.com/html/928969.htm)
 
++ [苹果公司宣布降低中国 App Store 佣金率，3 月 15 日起调整](https://m.ithome.com/html/928601.htm)
+
++ [雷军：新一代小米 SU7 成本上升了不少，肯定会涨价](https://m.ithome.com/html/928702.htm)
+
++ [腾讯回应苹果中国 App Store 降佣金：令行业为之振奋](https://m.ithome.com/html/928641.htm)
+
++ [华为 Pura X 成为中国 2025 TOP2 销量折叠屏，累积激活量超过 110 万台](https://m.ithome.com/html/928740.htm)
+
++ [小米新一代 SU7 最后一款全新车色“靛石绿”揭晓，本月正式发布](https://m.ithome.com/html/928623.htm)
+
++ [国产手机涨价 2000 元？部分经销商透露新机涨幅可能在 500 到 2000 元之间](https://m.ithome.com/html/928768.htm)
+
++ [雷军：新一代小米 SU7 本月正式发布](https://m.ithome.com/html/928598.htm)
+
