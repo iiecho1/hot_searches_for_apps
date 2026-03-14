@@ -241,3 +241,19 @@
 
 + [RAG如何统一多源文档格式？](https://blog.csdn.net/weixin_43894879/article/details/159018201)
 
++ [OpenClaw-In-Docker安全、独立、便捷的OpenClaw部署运行方案，已在Github开源](https://blog.csdn.net/mycosmos/article/details/159015581)
+
++ [【模型减面】使用blender对模型进行减面操作](https://blog.csdn.net/qq_41140324/article/details/159011737)
+
++ [npj Digital Medicine IF=15.1 | ThyGPT多模态大模型：甲状腺结节活检率降40%+](https://blog.csdn.net/m0_74449443/article/details/159009258)
+
++ [一文教你OpenClaw Docker 部署并调用本地Qwen3.5 9B模型](https://blog.csdn.net/leacock1991/article/details/158935877)
+
++ [计算机网络：物理层](https://blog.csdn.net/2303_79336820/article/details/159007650)
+
++ [Windows 11 上搭建 YouTube 视频下载工具：yt-dlp + FFmpeg](https://blog.csdn.net/liulilittle/article/details/159019657)
+
++ [【2026最新】OpenClaw 自定义中转站配置全攻略：接入 GPT、Claude、Gemini、DeepSeek 四大模型实战教程](https://blog.csdn.net/m0_53581755/article/details/159047855)
+
++ [机器人成长日记](https://blog.csdn.net/2401_88856689/article/details/159045175)
+
