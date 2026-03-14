@@ -45,3 +45,9 @@
 
 + [观热贴有感而发，如果可以的话，你想选择哪种人生？](https://www.v2ex.com/t/1198088)
 
++ [自从用了 Claude Code， Intellij 家族的 ide 很少打开了](https://www.v2ex.com/t/1198110)
+
++ [广大 V 友注意， IDEA 插件 claude-code-gui 插件会盗刷 token，我已中招，已经举报下架](https://www.v2ex.com/t/1198130)
+
++ [[抽奖] 为了庆祝 4 年的工具站重构上线&amp;开源，抽 1 个 chatgpt team 车位](https://www.v2ex.com/t/1198203)
+

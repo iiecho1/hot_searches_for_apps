@@ -183,3 +183,11 @@
 
 + [美官员称已有13名美军人员在对伊朗军事行动中死亡](https://news.cctv.com/2026/03/14/ARTIsoCiUHq84OsuE62csm3J260314.shtml)
 
++ [中国总领馆证实两名中国公民在澳大利亚洪灾中遇难](https://news.cctv.com/2026/03/14/ARTIr9N9GdOS9ooYbmmJJbUO260314.shtml)
+
++ [传出超15次爆炸声 伊朗石油出口枢纽哈尔克岛遭美军空袭](https://news.cctv.com/2026/03/14/ARTIsJyf9kPzpVtJEOJGv2bW260314.shtml)
+
++ [中东局势迫使船舶改道好望角 南非称已准备好提供支持](https://news.cctv.com/2026/03/14/ARTI8g8vm3G0sJVN37JlFJQn260314.shtml)
+
++ [联合国启动对黎巴嫩紧急援助筹款项目](https://news.cctv.com/2026/03/14/ARTIUwRabUCwjNbxJGM8A4vO260314.shtml)
+
