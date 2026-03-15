@@ -49,3 +49,5 @@
 
 + [我用 cc 和 codex 用到现在，写前端感觉都是一坨啊](https://www.v2ex.com/t/1198405)
 
++ [你认为的最强编程 AI 工具？](https://www.v2ex.com/t/1198412)
+

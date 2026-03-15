@@ -199,3 +199,7 @@
 
 + [postgres--性能，压力测试](https://blog.csdn.net/newbieJ/article/details/158878605)
 
++ [openclaw 使用飞书官方插件连接飞书](https://blog.csdn.net/RicarKs/article/details/159007012)
+
++ [《MySQL查询进阶：复合逻辑与多表关联的实战心法》](https://blog.csdn.net/Dovis5884/article/details/156058107)
+
