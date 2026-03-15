@@ -183,3 +183,11 @@
 
 + [Linux 动静态库完全指南：制作、使用、原理与实战](https://blog.csdn.net/wbs_scy/article/details/159052392)
 
++ [鸿蒙 AI App 的技术架构解析](https://blog.csdn.net/qq_36863796/article/details/159052369)
+
++ [2026年3月14日GESP五级现场直击](https://blog.csdn.net/2402_86086753/article/details/159051026)
+
++ [llama-server - 从命令行到HTTP Server](https://blog.csdn.net/CPWWHSU/article/details/159053971)
+
++ [Hadoop 三种核心运行模式（伪分布式/分布式/混合模式）全总结](https://blog.csdn.net/yatum_2014/article/details/159017420)
+
