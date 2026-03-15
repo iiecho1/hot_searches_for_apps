@@ -181,3 +181,5 @@
 
 + [OpenClaw 在 Windows 系统后台运行的优雅方案](https://blog.csdn.net/weixin_43736434/article/details/159046648)
 
++ [Linux 动静态库完全指南：制作、使用、原理与实战](https://blog.csdn.net/wbs_scy/article/details/159052392)
+
