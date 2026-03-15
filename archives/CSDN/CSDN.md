@@ -109,3 +109,37 @@
 
 + [《MySQL查询进阶：复合逻辑与多表关联的实战心法》](https://blog.csdn.net/Dovis5884/article/details/156058107)
 
++ [复杂查询中 JOIN 条件下推失败导致的性能瓶颈-金仓数据库](https://blog.csdn.net/weixin_42878111/article/details/159048158)
+
++ [大语言模型（LLM）理论导论](https://blog.csdn.net/IT_Holmes/article/details/159015962)
+
++ [【花雕学编程】Arduino BLDC 之AI驱动自适应有感控制机器人](https://blog.csdn.net/weixin_41659040/article/details/159051400)
+
++ [HarmonyOS APP＜玩转React＞开源教程五：项目架构设计](https://blog.csdn.net/ldc121xy716/article/details/159018235)
+
++ [【腾讯云智能体】高中教学图文教案生成](https://blog.csdn.net/qq_20288327/article/details/158969612)
+
++ [打造你的家庭 AI 助手（四）：单 OpenClaw 配置多 Agent、多 QQ、飞书机器人](https://blog.csdn.net/bhl120/article/details/159020267)
+
++ [从 ReAct 到 Plan-and-Execute：AI Agent 推理架构的理解与选择](https://blog.csdn.net/2301_81253185/article/details/159085392)
+
++ [【RFCOMM】协议深度解析[10]：RFCOMM流控机制](https://blog.csdn.net/weixin_37800531/article/details/159020242)
+
++ [ClaudeCode武装三件套：Ghostty + Yazi + Lazygit 打造高效开发环境](https://blog.csdn.net/chendongqi2007/article/details/159078468)
+
++ [docker 和k8s 环境下达梦数据库开启ssl连接配置流程](https://blog.csdn.net/qq_39216534/article/details/159015627)
+
++ [Vue-Router](https://blog.csdn.net/qq_43415562/article/details/159016650)
+
++ [将Tailwind CSS，融入Vue+ElementPlus方案，制作专业级AI应用首页](https://blog.csdn.net/qq_63981644/article/details/159086744)
+
++ [2026 年 AI 辅助编程工具全景对比：Copilot、Cursor、Claude Code 与 Codex 深度解析](https://blog.csdn.net/xinpengfei521/article/details/159015508)
+
++ [vue3+handsontable实现在线可编辑excel](https://blog.csdn.net/luck332/article/details/159044670)
+
++ [Word文字批量替换+文件名批量修改 详细教程](https://blog.csdn.net/tingreal/article/details/159005335)
+
++ [Linux 动静态库完全指南：制作、使用、原理与实战](https://blog.csdn.net/wbs_scy/article/details/159052392)
+
++ [Markdown 转 PDF 3 种方法详解与场景推荐](https://blog.csdn.net/czha2002/article/details/159014532)
+
