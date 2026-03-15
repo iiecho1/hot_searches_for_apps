@@ -107,3 +107,5 @@
 
 + [老肩巨滑](https://m.acfun.cn/v/?ac=48344991)
 
++ [魔王竟是我自己？新人小哥的悲惨结局！《Mindhack》第六章](https://m.acfun.cn/v/?ac=48342599)
+
