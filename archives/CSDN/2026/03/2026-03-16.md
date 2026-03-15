@@ -151,3 +151,7 @@
 
 + [【教程】2026年OpenClaw（Clawdbot）腾讯云3分钟搭建及使用喂饭级流程](https://blog.csdn.net/fuwuqihd/article/details/159002525)
 
++ [2026 AI编程工具四万字深度全景解析：Cursor、Trae、Qoder、CodeBuddy、WorkBuddy终极对比](https://blog.csdn.net/jinanwuhuaguo/article/details/159003320)
+
++ [Linux 基于TCP实现服务端客户端通信（守护进程版）](https://blog.csdn.net/2401_88966792/article/details/159052142)
+

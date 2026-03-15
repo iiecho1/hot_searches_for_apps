@@ -43,3 +43,25 @@
 
 + [消息称 Kimi 正进行新一轮 10 亿美元融资，估值已涨至 180 亿美元](https://m.ithome.com/html/929134.htm)
 
++ [央视 3&#183;15 晚会曝光双氧水漂白鸡爪，网红鸡爪生产车间令人作呕](https://m.ithome.com/html/929316.htm)
+
++ [华为余承东：鸿蒙 5 / 鸿蒙 6 日增数十万用户，预计冬天之前终端设备数将突破 1 亿台](https://m.ithome.com/html/929170.htm)
+
++ [央视 3&#183;15 晚会曝光 AI 大模型被投毒，给 AI 投毒已成产业链](https://m.ithome.com/html/929324.htm)
+
++ [曝苹果 MacBook Neo 笔记本可开启 P3 广色域，但无法做到 100% 覆盖](https://m.ithome.com/html/929236.htm)
+
++ [央视 3&#183;15 晚会曝光狂飙的租赁电动自行车，点名哈啰租电动车等违反新国标](https://m.ithome.com/html/929322.htm)
+
++ [小米大家电总经理单联瑜内部讲话：要扭转产品“质量差”认知，淘汰跟不上节奏的供应商](https://m.ithome.com/html/929281.htm)
+
++ [哈啰回应被央视 3&#183;15 晚会点名：连夜开展全面自查与整改](https://m.ithome.com/html/929326.htm)
+
++ [全球首台比亚迪第二代刀片电池及闪充车型：全新腾势 Z9GT 开启交付，26.98-36.98 万元](https://m.ithome.com/html/929258.htm)
+
++ [央视 3&#183;15 晚会打假万能神药，网红神药外泌体竟是三无产品](https://m.ithome.com/html/929318.htm)
+
++ [美国现役最老航母“尼米兹”号延期退役 10 个月](https://m.ithome.com/html/929184.htm)
+
++ [腾讯云成为 OpenClaw 社区赞助商](https://m.ithome.com/html/929293.htm)
+
