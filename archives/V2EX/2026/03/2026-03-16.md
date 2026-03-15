@@ -21,3 +21,7 @@
 
 + [现在购买 ssl 证书最具性价比的方案是什么？](https://www.v2ex.com/t/1198387)
 
++ [某国企工作人员直接电话告诉了我的密码](https://www.v2ex.com/t/1198441)
+
++ [Qclaw 杀死了我的 OpenClaw](https://www.v2ex.com/t/1198365)
+

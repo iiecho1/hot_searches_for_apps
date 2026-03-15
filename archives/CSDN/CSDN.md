@@ -143,3 +143,11 @@
 
 + [Markdown 转 PDF 3 种方法详解与场景推荐](https://blog.csdn.net/czha2002/article/details/159014532)
 
++ [Spring IoC 容器与 Bean 管理核心考点解析](https://blog.csdn.net/HANhylyxy/article/details/158877911)
+
++ [Anthropic 团队内部实战：如何用 Claude Code 重构研发效率全流程](https://blog.csdn.net/universsky2015/article/details/159027634)
+
++ [【计算机网络之XSS、CSRF、DDoS原理及防御措施】](https://blog.csdn.net/2401_87810889/article/details/158959773)
+
++ [【教程】2026年OpenClaw（Clawdbot）腾讯云3分钟搭建及使用喂饭级流程](https://blog.csdn.net/fuwuqihd/article/details/159002525)
+
