@@ -173,3 +173,7 @@
 
 + [韩国首尔一旅馆起火致1名中国人受伤 我使馆敦促韩方全力救治](https://news.cctv.com/2026/03/15/ARTIbVuj0p4xGVF20sBCBWQq260315.shtml)
 
++ [伊朗高官：乌克兰已成为伊朗合法打击目标](https://news.cctv.com/2026/03/15/ARTIaflCESHUBl6ac0WewCPC260315.shtml)
+
++ [伊朗启动“真实承诺-4”第52轮军事行动](https://news.cctv.com/2026/03/15/ARTIhhHy4Hb1AAWS92FsT7KA260315.shtml)
+

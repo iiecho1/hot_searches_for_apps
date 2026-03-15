@@ -25,3 +25,9 @@
 
 + [朋友们今天生日,30 岁了](https://www.v2ex.com/t/1198280)
 
++ [生活远比剧本精彩，被抓奸在床？？](https://www.v2ex.com/t/1198358)
+
++ [我是小丑，骑车子摔了。](https://www.v2ex.com/t/1198338)
+
++ [告别人肉复制粘贴：我的 Claude + Codex 自动化协作工作流](https://www.v2ex.com/t/1198247)
+
