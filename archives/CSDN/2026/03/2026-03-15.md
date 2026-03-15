@@ -191,3 +191,7 @@
 
 + [Hadoop 三种核心运行模式（伪分布式/分布式/混合模式）全总结](https://blog.csdn.net/yatum_2014/article/details/159017420)
 
++ [从 Oracle RAC 到金仓高可用集群：平滑切换的架构对比与落地指南](https://blog.csdn.net/weixin_43151418/article/details/158703758)
+
++ [Spring-boot快速上手](https://blog.csdn.net/2501_92331472/article/details/159078511)
+
