@@ -85,3 +85,17 @@
 
 + [全球首款闪充纯电大方盒：比亚迪方程豹钛 7 EV 闪充版开启预订，22 万-25 万元](https://m.ithome.com/html/928958.htm)
 
++ [华为余承东：鸿蒙 5 / 鸿蒙 6 日增数十万用户，预计冬天之前终端设备数将突破 1 亿台](https://m.ithome.com/html/929170.htm)
+
++ [曝苹果 MacBook Neo 笔记本可开启 P3 广色域，但无法做到 100% 覆盖](https://m.ithome.com/html/929236.htm)
+
++ [美国现役最老航母“尼米兹”号延期退役 10 个月](https://m.ithome.com/html/929184.htm)
+
++ [西安交大建校 130 周年，360 创始人周鸿祎宣布向母校捐赠 1 亿元](https://m.ithome.com/html/929167.htm)
+
++ [联想 3 月 16 日起推出 OpenClaw 免费部署服务](https://m.ithome.com/html/929151.htm)
+
++ [领克 10 纯电版车型完成申报，可选装大尾翼等配置](https://m.ithome.com/html/929140.htm)
+
++ [部分院校禁用 OpenClaw“小龙虾”开源 AI 项目](https://m.ithome.com/html/929159.htm)
+
