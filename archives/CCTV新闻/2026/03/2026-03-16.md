@@ -163,3 +163,13 @@
 
 + [以色列称对伊朗的军事行动至少再持续三周](https://news.cctv.com/2026/03/16/ARTIAXywQ5ydueBoDuieWFnZ260315.shtml)
 
++ [秘鲁一总统候选人参加竞选活动途中遇车祸身亡](https://news.cctv.com/2026/03/16/ARTInEBxiOpkrfz2GEeNGg0D260316.shtml)
+
++ [地区局势紧张 原定在卡塔尔举行的欧美杯赛事取消](https://news.cctv.com/2026/03/16/ARTIKNM8xLqDs6nEXQQCFAyY260316.shtml)
+
++ [以色列称拉法口岸将于3月18日起双向重新开放](https://news.cctv.com/2026/03/16/ARTIKCiQbOz29FV0nq14fc0W260316.shtml)
+
++ [美国被曝拟宣布组建霍尔木兹海峡“护航联盟”](https://news.cctv.com/2026/03/16/ARTIlQOCLi0ZjApNE4cXNh6b260316.shtml)
+
++ [马达加斯加临时国家元首任命反腐官员为新总理](https://news.cctv.com/2026/03/16/ARTIDPRpppaYlTaUTkIyPnlE260316.shtml)
+

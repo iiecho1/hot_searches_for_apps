@@ -25,3 +25,5 @@
 
 + [Qclaw 杀死了我的 OpenClaw](https://www.v2ex.com/t/1198365)
 
++ [看了广州程序员猝死的新闻，一些感慨](https://www.v2ex.com/t/1198417)
+
