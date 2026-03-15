@@ -171,3 +171,5 @@
 
 + [联合国秘书长敦促黎以冲突各方重返谈判桌](https://news.cctv.com/2026/03/15/ARTIyKnu27rRvNuE5A3u1FV2260315.shtml)
 
++ [韩国首尔一旅馆起火致1名中国人受伤 我使馆敦促韩方全力救治](https://news.cctv.com/2026/03/15/ARTIbVuj0p4xGVF20sBCBWQq260315.shtml)
+
