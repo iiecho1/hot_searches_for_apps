@@ -25,3 +25,21 @@
 
 + [余承东谈华为全场景生态，为消费者打造无缝互联体验一致的智慧新生活](https://m.ithome.com/html/929044.htm)
 
++ [实测显示：苹果 MacBook Pro 14 英寸笔记本无法压住 M5 Max 芯片](https://m.ithome.com/html/929193.htm)
+
++ [小米米家 IH 电饭煲 2 预售：0 氟涂层内胆，首发价 349 元起](https://m.ithome.com/html/929154.htm)
+
++ [比亚迪全新元 PLUS 工信部“证件照”公布，车身加长至 4.6 米](https://m.ithome.com/html/929150.htm)
+
++ [深圳航空：航班滑行时一名旅客随身携带的充电宝发生自燃，已及时有效处置](https://m.ithome.com/html/929092.htm)
+
++ [中国影史武侠片票房冠军，《镖人：风起大漠》延长放映至 4 月 16 日](https://m.ithome.com/html/929149.htm)
+
++ [小米米家洗衣机滚筒 10kg 灰色款今日开售：1.25 洗净比，首发价 1199 元](https://m.ithome.com/html/929109.htm)
+
++ [腾讯“龙虾”开启全国巡装：为用户免费安装，覆盖北上广深等全国 17 个城市](https://m.ithome.com/html/929076.htm)
+
++ [华为余承东：鸿蒙 5/6 日增数十万用户，预计冬天之前终端设备数将突破 1 亿台](https://m.ithome.com/html/929170.htm)
+
++ [消息称 Kimi 正进行新一轮 10 亿美元融资，估值已涨至 180 亿美元](https://m.ithome.com/html/929134.htm)
+
