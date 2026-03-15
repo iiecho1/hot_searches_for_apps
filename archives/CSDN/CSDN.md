@@ -171,3 +171,13 @@
 
 + [智能家居安防系统](https://blog.csdn.net/2503_91745260/article/details/159047475)
 
++ [Linux 进程间通信之命名管道（FIFO）：跨进程通信的实用方案](https://blog.csdn.net/2503_91389547/article/details/158917340)
+
++ [查询优化器的进化：KingbaseES Cost-based Join Predicate Pushdown 深度解析](https://blog.csdn.net/weixin_52908342/article/details/159045653)
+
++ [YOLOv11涨点改进| TGRS 2026 |全网创新首发、Conv卷积改进篇 |引入AFAB自适应特征聚合模块，增强小目标特征表达能力，保留细粒度特征信息，助力YOLOv11遥感小目标检测高效涨点](https://blog.csdn.net/qq_45972324/article/details/159078113)
+
++ [HarmonyOS APP＜玩转React＞开源教程六：数据模型设计与实现](https://blog.csdn.net/ldc121xy716/article/details/159018252)
+
++ [OpenClaw 在 Windows 系统后台运行的优雅方案](https://blog.csdn.net/weixin_43736434/article/details/159046648)
+

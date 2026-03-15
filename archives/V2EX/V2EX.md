@@ -31,3 +31,9 @@
 
 + [告别人肉复制粘贴：我的 Claude + Codex 自动化协作工作流](https://www.v2ex.com/t/1198247)
 
++ [AI 时代下 AI 工具熟练度能代替技术深度吗？](https://www.v2ex.com/t/1198282)
+
++ [独立开发收款方案](https://www.v2ex.com/t/1198323)
+
++ [Antigravity 这还能用吗？额度哐哐扣，事情一件没做成](https://www.v2ex.com/t/1198309)
+
