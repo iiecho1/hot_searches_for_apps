@@ -177,3 +177,19 @@
 
 + [以色列拟重开拉法口岸 维持“必要安全限制”](https://news.cctv.com/2026/03/16/ARTIwCPegbU2lYad4kOn8Uy5260316.shtml)
 
++ [海事数据显示霍尔木兹海峡通航船只数量首次降为零](https://news.cctv.com/2026/03/16/ARTIX5QL9ybuQgQohhpjGlkD260316.shtml)
+
++ [美国驻伊拉克使馆遭袭](https://news.cctv.com/2026/03/16/ARTIMvPbYYHiL3CDqoNsIzL8260316.shtml)
+
++ [联黎部队维和人员在黎南部巡逻时遭枪击](https://news.cctv.com/2026/03/16/ARTInTbZofiYLDk5WQRf0VRT260316.shtml)
+
++ [阿联酋宣布暂时停飞迪拜国际机场航班](https://news.cctv.com/2026/03/16/ARTIYdFT3T8MR5pFCscGpVHd260316.shtml)
+
++ [伊拉克民兵武装称袭击“胜利营”基地 致6名美军士兵死亡](https://news.cctv.com/2026/03/16/ARTI1TLNDGdMarkPprDEPi6p260316.shtml)
+
++ [印度一医院起火 造成至少10名患者死亡](https://news.cctv.com/2026/03/16/ARTIzw8ng57eKAiznmOGC47t260316.shtml)
+
++ [伊朗外长称以色列轰炸德黑兰燃料库构成生态灭绝罪](https://news.cctv.com/2026/03/16/ARTIE5dsdQEHppOKlWNoKhgF260316.shtml)
+
++ [俄称受中东局势影响 乌克兰问题谈判暂停](https://news.cctv.com/2026/03/16/ARTIIcCInxBdHnOnvI7deGOm260316.shtml)
+
