@@ -127,3 +127,5 @@
 
 + [区块链|WEB3：时间长河共识算法（Time River Consensus Algorithm）](https://blog.csdn.net/qq_20466509/article/details/159080214)
 
++ [新能源汽车电机台架测试功率分析仪问题梳理（理论+实操）](https://blog.csdn.net/weixin_62244995/article/details/159050888)
+
