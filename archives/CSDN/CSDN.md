@@ -183,3 +183,15 @@
 
 + [postgres--性能，压力测试](https://blog.csdn.net/newbieJ/article/details/158878605)
 
++ [Kafka Partition 深度解析：数据分片的艺术与性能之舞](https://blog.csdn.net/qq_41840843/article/details/158541975)
+
++ [Makefile构建哲学：从依赖推导到自动化编译，掌握大型项目的构建逻辑，告别手动编译焦虑](https://blog.csdn.net/2501_91617454/article/details/157582381)
+
++ [Spring IoC、AOP 与 Bean 全面详解](https://blog.csdn.net/2401_87638368/article/details/159083887)
+
++ [网络机器人(爬虫)+Xpath+网页F12+爬取电影Top100](https://blog.csdn.net/weixin_44040169/article/details/158778391)
+
++ [OpenClaw 从本地到云端：阿里云百炼免费模型配置实战指南](https://blog.csdn.net/hl_java/article/details/159078697)
+
++ [三棵树的生命周期：深度理解 Flutter 的高效内核](https://blog.csdn.net/xrl__/article/details/159116598)
+
