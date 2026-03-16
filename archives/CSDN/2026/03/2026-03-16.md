@@ -229,3 +229,7 @@
 
 + [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、ShaderPass、UnrealBloomPass渲染通道），打造夜间驾车炫酷效果](https://blog.csdn.net/qq_28419035/article/details/159125394)
 
++ [复杂SQL性能突围：代价驱动的连接条件下推策略与工程实践](https://blog.csdn.net/weixin_74809706/article/details/159046415)
+
++ [Qt+C++ 控制软件架构实例](https://blog.csdn.net/a15236617777/article/details/159088873)
+
