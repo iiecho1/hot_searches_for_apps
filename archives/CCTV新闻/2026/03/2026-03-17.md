@@ -163,3 +163,9 @@
 
 + [三大畜禽传染病同时扩散 推高韩国禽畜产品价格](https://news.cctv.com/2026/03/17/ARTI6KIqIzB3HyvRuOE4H7qe260316.shtml)
 
++ [日本青森县近海发生船只相撞事故 3名船员下落不明](https://news.cctv.com/2026/03/17/ARTI4mpYCaTkUnJnY1F0u7RH260317.shtml)
+
++ [美军称已有200多名士兵在中东7国受伤](https://news.cctv.com/2026/03/17/ARTIwTAx0Mrj57bWHnt8o6Zy260317.shtml)
+
++ [古巴再次发生全国范围断电](https://news.cctv.com/2026/03/17/ARTIwV0hNb6stxMeBBsGDSG2260317.shtml)
+
