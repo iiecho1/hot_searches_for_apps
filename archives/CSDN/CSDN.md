@@ -227,3 +227,5 @@
 
 + [vue甘特图 vxe-gantt 如何实现双击连接线自动删除线功能（含二次确认）](https://blog.csdn.net/daols88/article/details/159119178)
 
++ [学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、ShaderPass、UnrealBloomPass渲染通道），打造夜间驾车炫酷效果](https://blog.csdn.net/qq_28419035/article/details/159125394)
+
