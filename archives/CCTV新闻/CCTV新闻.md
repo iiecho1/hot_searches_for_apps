@@ -201,3 +201,5 @@
 
 + [泰国将于3月19日举行总理选举](https://news.cctv.com/2026/03/16/ARTIArseI19Ivc8Hfm8GNZaw260316.shtml)
 
++ [中国驻新潟总领馆提醒领区中国公民注意户外活动安全](https://news.cctv.com/2026/03/16/ARTItKdkN6xwlCHv98vBdPIL260316.shtml)
+
