@@ -233,3 +233,7 @@
 
 + [Qt+C++ 控制软件架构实例](https://blog.csdn.net/a15236617777/article/details/159088873)
 
++ [OpenClaw解决飞书 duplicate plugin id detected 问题](https://blog.csdn.net/weixin_40378209/article/details/159078461)
+
++ [树莓派+OpenClaw+飞书配置教程【养龙虾】](https://blog.csdn.net/wzkb123ljyja/article/details/159090265)
+
