@@ -161,3 +161,11 @@
 
 + [OpenClaw 钉钉群聊多机器人配置完全指南](https://blog.csdn.net/Da1NtY/article/details/159119211)
 
++ [【AI】高效交互的艺术：AI提示工程与大模型对话指南](https://blog.csdn.net/2401_87342824/article/details/159045256)
+
++ [【HarmonyOS 6.0】Media Kit：细粒度控制屏幕捕获，详解图像填充模式C API](https://blog.csdn.net/weixin_74809706/article/details/158932127)
+
++ [基于 Flutter × HarmonyOS 6.0 的跨端打车平台— 服务类型选择模块实战解析](https://blog.csdn.net/weixin_52908342/article/details/157843428)
+
++ [Plex+cpolar 让私人影音库走到哪看到哪](https://blog.csdn.net/2402_86350387/article/details/159123536)
+
