@@ -101,3 +101,35 @@
 
 + [Linux 38 网络协议：从独立主机到全球互通](https://blog.csdn.net/L070117/article/details/156381622)
 
++ [Kafka Producer 与 Consumer 深度解析：消息生产与消费的完整旅程](https://blog.csdn.net/qq_41840843/article/details/158541940)
+
++ [MaxKB4j Docker Compose 部署指南](https://blog.csdn.net/weixin_40986713/article/details/159157557)
+
++ [深度学习框架新纪元：PyTorch核心原理与工程实践全解析](https://blog.csdn.net/2503_92624912/article/details/159118375)
+
++ [【花雕学编程】Arduino BLDC 之机器人IMU角度读取 + PID控制 + 互补滤波](https://blog.csdn.net/weixin_41659040/article/details/159112235)
+
++ [OpenClaw Gateway 开机自启 + 自动打开 Dashboard 完整解决方案（非静默版）](https://blog.csdn.net/m0_62490153/article/details/159082765)
+
++ [在 macOS 上配置 OpenClaw 连接本地 Ollama 完整指南](https://blog.csdn.net/weixin_39543986/article/details/159079533)
+
++ [从像素到智能：图像处理与计算机视觉全景解析](https://blog.csdn.net/dongke1991/article/details/159164266)
+
++ [深入理解学习率调度器原理、公式与 PyTorch 实战](https://blog.csdn.net/weixin_43114209/article/details/159084346)
+
++ [基于Vue 3 + Spring Boot的物联网生鲜品储运系统设计与实现（源码附有详细的文档讲解）](https://blog.csdn.net/speaking_me/article/details/157908733)
+
++ [如何搭建Maven Web项目](https://blog.csdn.net/lyingflay/article/details/158922659)
+
++ [ESP32-S3-CAM：认识引脚](https://blog.csdn.net/Diaoliangwang/article/details/159078301)
+
++ [OpenViking实战：字节跳动开源AI代理上下文数据库部署与应用全指南](https://blog.csdn.net/aiauto/article/details/159086605)
+
++ [AI大模型落地系列：一文读懂 Eino 的 Embedding](https://blog.csdn.net/2302_80067378/article/details/159079089)
+
++ [从零开始用 Ollama 本地跑大模型、Embedding 与 Rerank](https://blog.csdn.net/weixin_37647148/article/details/158968794)
+
++ [openclaw飞书机器人权限管理](https://blog.csdn.net/m0_37888039/article/details/159119359)
+
++ [OpenClaw 生产级部署实录：Ubuntu 服务器 × MiniMax × 飞书(Lark) 完整集成指南](https://blog.csdn.net/wayle123/article/details/159112482)
+
