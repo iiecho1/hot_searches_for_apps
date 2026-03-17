@@ -199,3 +199,15 @@
 
 + [GitHub 热榜项目 - 日榜(2026-03-16)](https://blog.csdn.net/u014390502/article/details/159112882)
 
++ [开源智能体搭建平台MaxKB4j 技术文档](https://blog.csdn.net/weixin_40986713/article/details/159156828)
+
++ [OpenClaw（养龙虾） +关于Hadoop hive的Skills（CLoudera CDH、CDP）](https://blog.csdn.net/yumgpkpm/article/details/159128138)
+
++ [测试飞快、生产卡死：你的 SQL 性能瓶颈，被这项技术破解了](https://blog.csdn.net/u014727709/article/details/159080315)
+
++ [一文读懂HTTPS加密机制：为什么它能保护你的网络安全？](https://blog.csdn.net/2301_82132279/article/details/159169002)
+
++ [VMware Ubuntu 虚拟机完整配置指南：从零到开发环境](https://blog.csdn.net/2402_87963769/article/details/159054518)
+
++ [DOM 注入实践：在 React 中优雅地扩展第三方组件](https://blog.csdn.net/Flyfreelylss/article/details/159127198)
+
