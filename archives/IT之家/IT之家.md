@@ -45,3 +45,15 @@
 
 + [小米笔记本 Pro 14 定档 3 月 19 日：50W 持久性能释放，双风扇、三风道散热](https://m.ithome.com/html/929487.htm)
 
++ [雷军回应为何这么早停售第一代小米 SU7：不想背刺老用户](https://m.ithome.com/html/929928.htm)
+
++ [“全球最平整折叠屏手机”OPPO Find N6 发布：骁龙 8 Elite Gen5、丹霞色彩 + 哈苏影像，9999 元起](https://m.ithome.com/html/930002.htm)
+
++ [晚 8 点开抢：苹果 Mac mini M4 京东 3805 元预约开启](https://m.ithome.com/html/929833.htm)
+
++ [网友晒低成本改造苹果 MacBook Neo 成果：A18 Pro 芯片 2.3GHz 稳定跃升至 3.3GHz](https://m.ithome.com/html/929724.htm)
+
++ [黄仁勋推出英伟达版“小龙虾” NemoClaw：主打“一键安装”](https://m.ithome.com/html/929687.htm)
+
++ [消息称华为、小米 REDMI、一加、vivo 等厂商正打磨小平板](https://m.ithome.com/html/929940.htm)
+
