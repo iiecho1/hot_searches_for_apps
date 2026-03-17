@@ -171,3 +171,23 @@
 
 + [多国表示不参与霍尔木兹海峡护航 特朗普抱怨盟友“不帮忙”](https://news.cctv.com/2026/03/17/ARTImO8rKIljITxwSCqR6zSP260317.shtml)
 
++ [美石油巨头警告能源危机加剧风险 油价上涨让美民众负担加重“苦不堪言”](https://news.cctv.com/2026/03/17/ARTI5oxDSrDX20C85e9fI2wi260317.shtml)
+
++ [特朗普“喊话”日本等盟友赴霍尔木兹海峡护航 高市早苗陷入尴尬境地](https://news.cctv.com/2026/03/17/ARTI5twbWIoGXXgzPjWVNBGE260317.shtml)
+
++ [莫斯科遭遇今年以来最大规模无人机袭击](https://news.cctv.com/2026/03/17/ARTIUAIisV6gPCBeFtO4zC1Y260317.shtml)
+
++ [一架受损的美军加油机请求紧急降落特拉维夫](https://news.cctv.com/2026/03/17/ARTIRKvYgrp8tLriufgiHH6P260317.shtml)
+
++ [阿联酋机场、油港接连遇袭](https://news.cctv.com/2026/03/17/ARTIbzeB3rr9aLEv8itQWeTN260317.shtml)
+
++ [超两成哈萨克斯坦民众自设“贷款禁令”防诈骗](https://news.cctv.com/2026/03/17/ARTId03GXn3ur3ABbbyDtbXR260317.shtml)
+
++ [有史以来第二次 美国柴油零售价突破每加仑5美元](https://news.cctv.com/2026/03/17/ARTIv6M0P6zRZaHhJxfZXnDN260317.shtml)
+
++ [俄“进步MS-31”货运飞船结束任务坠入太平洋](https://news.cctv.com/2026/03/17/ARTI15RCuuGAChw2cg30tMEk260317.shtml)
+
++ [韩国未来三个月将释放2246万桶战略石油储备](https://news.cctv.com/2026/03/17/ARTIIokmMjUpEwSJACRkeiIm260317.shtml)
+
++ [特朗普称美国对伊朗的军事行动本周不会结束](https://news.cctv.com/2026/03/17/ARTIltsT4rj67J0cfilcUVva260317.shtml)
+
