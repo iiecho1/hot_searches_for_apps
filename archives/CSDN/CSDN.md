@@ -139,3 +139,25 @@
 
 + [通信：(10) 应用层(第5层)：http 与 https](https://blog.csdn.net/qq_51942551/article/details/159087364)
 
++ [GTC2026前瞻（二）Agentic AI 与开源模型篇+（三）Physical AI 与机器人篇](https://blog.csdn.net/kkiron/article/details/159125109)
+
++ [SkyWalking - Spring Cloud Alibaba 全链路追踪实战](https://blog.csdn.net/qq_41187124/article/details/157511402)
+
++ [MySQL CRUD 核心指南：查询、插入、更新、删除全实战](https://blog.csdn.net/2503_91389547/article/details/158806873)
+
++ [UnityMCP+Claude+VSCode，构建最强AI游戏开发环境](https://blog.csdn.net/zhangay1998/article/details/159155494)
+
++ [无人机数据集汇总无人机航拍各个方面检测分割数据集合集](https://blog.csdn.net/FL1623863129/article/details/159155227)
+
++ [Linux下fork系统调用实现文件描述符跨进程共享机制详解：fork如何实现文件描述符共享](https://blog.csdn.net/2401_89899187/article/details/159114329)
+
++ [2026年GPT技术深度拆解：国内免费聚合镜像站RskAi实测](https://blog.csdn.net/RskAi/article/details/159085502)
+
++ [Linux 38 网络协议：从独立主机到全球互通](https://blog.csdn.net/L070117/article/details/156381622)
+
++ [【2026最新】OpenClaw 自定义中转站配置全攻略：接入 GPT、Claude、Gemini、DeepSeek 四大模型实战教程](https://blog.csdn.net/m0_53581755/article/details/159047855)
+
++ [BPM流程引擎选型：宏天低代码 + Activiti 详解](https://blog.csdn.net/CC_longhua/article/details/159119735)
+
++ [OpenClaw 钉钉群聊多机器人配置完全指南](https://blog.csdn.net/Da1NtY/article/details/159119211)
+
