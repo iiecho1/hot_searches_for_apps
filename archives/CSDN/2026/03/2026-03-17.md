@@ -187,3 +187,15 @@
 
 + [机器学习深度学习一——LSTM模型](https://blog.csdn.net/thank3194003824/article/details/159019199)
 
++ [2026年3月UU远程副屏功能测评：平板设备秒变高效工作台](https://blog.csdn.net/2503_91389547/article/details/159160655)
+
++ [告别“子查询性能陷阱“：金仓数据库智能下推优化器的设计与实测](https://blog.csdn.net/m0_55394328/article/details/159054305)
+
++ [FPGA量子计算教学平台设计方案与实现步骤](https://blog.csdn.net/zkmrobot/article/details/159118023)
+
++ [TCP/IP协议族详解：应用层协议HTTP](https://blog.csdn.net/zephyr05/article/details/159020116)
+
++ [纯Windows部署OpenClaw(2026.3.7)并接入线上DeepSeek 超详细实操教程](https://blog.csdn.net/qq_74137715/article/details/159129127)
+
++ [GitHub 热榜项目 - 日榜(2026-03-16)](https://blog.csdn.net/u014390502/article/details/159112882)
+
