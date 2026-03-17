@@ -133,3 +133,9 @@
 
 + [C# .NET 周刊｜2026年2月4期](https://blog.csdn.net/qq_27441069/article/details/159088369)
 
++ [视觉Transformer实战 | Cross-Attention Multi-Scale Vision Transformer（CrossViT）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149259084)
+
++ [SkyWalking - 服务/实例/Endpoint 性能指标详解：TPS、响应时间、错误率](https://blog.csdn.net/qq_41187124/article/details/157510920)
+
++ [通信：(10) 应用层(第5层)：http 与 https](https://blog.csdn.net/qq_51942551/article/details/159087364)
+
