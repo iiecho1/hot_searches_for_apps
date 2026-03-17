@@ -235,3 +235,7 @@
 
 + [德国法兰克福机场附近城镇发生枪击案致两人死亡](https://news.cctv.com/2026/03/17/ARTIoWvv1iG9ANv7Qrjb8nLt260317.shtml)
 
++ [佩斯科夫：俄方愿向古巴提供一切力所能及的援助](https://news.cctv.com/2026/03/17/ARTI9O5KgDitRdeWYypci2p3260317.shtml)
+
++ [欧盟领导人就“友谊”输油管道问题发表声明](https://news.cctv.com/2026/03/17/ARTIjbehQHLOLrjzjqDXpbYC260317.shtml)
+
