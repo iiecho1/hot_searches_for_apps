@@ -173,3 +173,5 @@
 
 + [MaxKB4j Docker Compose 部署指南](https://blog.csdn.net/weixin_40986713/article/details/159157557)
 
++ [宝塔面板实现按年月自动备份目录至阿里云 OSS（python脚本、大文件分片上传版）](https://blog.csdn.net/weixin_41290949/article/details/159128994)
+
