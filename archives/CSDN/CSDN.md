@@ -175,3 +175,15 @@
 
 + [宝塔面板实现按年月自动备份目录至阿里云 OSS（python脚本、大文件分片上传版）](https://blog.csdn.net/weixin_41290949/article/details/159128994)
 
++ [Flutter 三方库 themed_color_palette 的鸿蒙化适配指南 - 定义语义化调色板、在鸿蒙端实现像素级的主题切换实战](https://blog.csdn.net/guoyizhongxing/article/details/159132362)
+
++ [机器人/无人机视觉开发选型指南：RealSense D455 vs D435i 与奥比中光的互补方案](https://blog.csdn.net/weixin_54688302/article/details/159155786)
+
++ [AI Agent 开发学习 --- 构建软件团队智能体（二）](https://blog.csdn.net/m0_52409770/article/details/159128964)
+
++ [深度学习框架新纪元：PyTorch核心原理与工程实践全解析](https://blog.csdn.net/2503_92624912/article/details/159118375)
+
++ [Opencv——模板匹配附项目实战](https://blog.csdn.net/weixin_74369505/article/details/159045080)
+
++ [机器学习深度学习一——LSTM模型](https://blog.csdn.net/thank3194003824/article/details/159019199)
+

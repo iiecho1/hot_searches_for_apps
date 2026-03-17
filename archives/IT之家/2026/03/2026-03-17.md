@@ -59,3 +59,23 @@
 
 + [小米笔记本 Pro 14 定档 3 月 19 日：50W 持久性能释放，双风扇、三风道散热](https://m.ithome.com/html/929487.htm)
 
++ [华为渠道服突发大规模账号异常，无法登录游戏](https://m.ithome.com/html/929784.htm)
+
++ [鸿蒙智行尚界 Z7 轿跑白色实车曝光，新车 3 月 23 日开启预订](https://m.ithome.com/html/929640.htm)
+
++ [只求用户别退货：三星被曝向 Galaxy S26 Ultra 用户提供高额“仅退款”挽留费](https://m.ithome.com/html/929692.htm)
+
++ [鸿蒙 6 独有「智感握姿」智能交互，华为余承东首次揭秘功能背后原理](https://m.ithome.com/html/929633.htm)
+
++ [苹果彻底淘汰 60Hz 屏？消息称 iPhone 19e 有望用上 LTPO OLED](https://m.ithome.com/html/929792.htm)
+
++ [雷军揭晓新一代 SU7「小米蛟龙底盘」：专为驾驶者打造的高性能智能底盘系统](https://m.ithome.com/html/929772.htm)
+
++ [苹果首款 Lightning 接口手机谢幕，iPhone 5 现列入“停产”行列](https://m.ithome.com/html/929709.htm)
+
++ [小米罗福莉 AI 团队最新突破，自研 Agent 效率系统使算力成本直降 71.2%](https://m.ithome.com/html/929767.htm)
+
++ [极氪 8X 旗舰电混 SUV 预售：CLTC 纯电续航至高 410 公里，37.68 万元起](https://m.ithome.com/html/929648.htm)
+
++ [25 年来最强进化：英伟达展示 DLSS 5，黄仁勋称是图形领域的 GPT 时刻](https://m.ithome.com/html/929681.htm)
+
