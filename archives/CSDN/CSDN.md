@@ -139,3 +139,9 @@
 
 + [区块链|WEB3：时间长河共识算法（Time River Consensus Algorithm）](https://blog.csdn.net/qq_20466509/article/details/159080214)
 
++ [【花雕学编程】Arduino BLDC 之机器人分布式模糊调度（多MCU协同）](https://blog.csdn.net/weixin_41659040/article/details/159159899)
+
++ [【贪心算法】专题(六)：降维打击与错位重构的终极收官](https://blog.csdn.net/2301_79849925/article/details/159006805)
+
++ [游戏角色分层有限状态机（Hierarchical Finite StateMachine, HFSM）框架](https://blog.csdn.net/2603_95527028/article/details/159159342)
+
