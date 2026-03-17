@@ -137,3 +137,5 @@
 
 + [从 ReAct 到 Plan-and-Execute：AI Agent 推理架构的理解与选择](https://blog.csdn.net/2301_81253185/article/details/159085392)
 
++ [区块链|WEB3：时间长河共识算法（Time River Consensus Algorithm）](https://blog.csdn.net/qq_20466509/article/details/159080214)
+

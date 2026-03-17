@@ -25,3 +25,23 @@
 
 + [25 年来最强进化：英伟达展示 DLSS 5，黄仁勋称是图形领域的 GPT 时刻](https://m.ithome.com/html/929681.htm)
 
++ [卢伟冰回应小米 REDMI K90 系列是否会涨价：理解友商，我们也扛得很肉疼](https://m.ithome.com/html/929465.htm)
+
++ [小米新一代 SU7 将于 3 月 19 日上市，小米笔记本 Pro 14、小米手表 S5 同步登场](https://m.ithome.com/html/929369.htm)
+
++ [OPPO 一加旗下旧机型今起调价，手机全面进入涨价时代](https://m.ithome.com/html/929381.htm)
+
++ [苹果 M5 MacBook Air 16+512G 教育国补换新 5646 元起，旧机满 300 补贴 1000 元](https://m.ithome.com/html/929554.htm)
+
++ [OPPO 一加之后，vivo 与 iQOO 官宣部分产品建议零售价调整](https://m.ithome.com/html/929420.htm)
+
++ [雷军：新一代小米 SU7 汽车全系标配 12 项配置，Pro 版 CLTC 续航 902 公里](https://m.ithome.com/html/929401.htm)
+
++ [华为春季全场景新品发布会官宣定档 3 月 23 日](https://m.ithome.com/html/929370.htm)
+
++ [古尔曼：预计苹果只会率先为 M6 Pro / Max 款 MacBook Pro 换用触控屏，Neo / Air 未来三年内不会获得升级](https://m.ithome.com/html/929346.htm)
+
++ [消息称字节叫停豆包 AI 眼镜](https://m.ithome.com/html/929511.htm)
+
++ [小米笔记本 Pro 14 定档 3 月 19 日：50W 持久性能释放，双风扇、三风道散热](https://m.ithome.com/html/929487.htm)
+
