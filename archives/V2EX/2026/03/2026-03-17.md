@@ -51,3 +51,7 @@
 
 + [说说曾经买过的软件](https://www.v2ex.com/t/1198822)
 
++ [做个调查，通勤时间多久，几点起床、睡觉](https://www.v2ex.com/t/1198707)
+
++ [windows 远程操作 mac 电脑, 有什么好方案阿](https://www.v2ex.com/t/1198828)
+
