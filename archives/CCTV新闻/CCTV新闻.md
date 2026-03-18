@@ -235,3 +235,21 @@
 
 + [今年前两个月中国内地访日游客数量同比下降54.1%](https://news.cctv.com/2026/03/18/ARTI1aId30wQnUZPWBUCTGW6260318.shtml)
 
++ [以色列防长称“所有伊朗人都是打击目标”](https://news.cctv.com/2026/03/18/ARTIp8BiL8HYaoc95BP9ANZ6260318.shtml)
+
++ [应对能源危机 欧盟委员会简化部分天然气进口规则](https://news.cctv.com/2026/03/18/ARTIUXy2hSyzjoYMJ1GZPazY260318.shtml)
+
++ [国际海事组织：霍尔木兹海峡局势已致约2万名海员滞留海上](https://news.cctv.com/2026/03/18/ARTI31n9o4kAXnoxNcitGnTJ260318.shtml)
+
++ [以防长：将继续升级对伊朗和黎巴嫩真主党的战争](https://news.cctv.com/2026/03/18/ARTIz6OlYZUMuO9gYh6fKMlN260318.shtml)
+
++ [乌克兰全境启动计划性停电 部分地区实施紧急停电措施](https://news.cctv.com/2026/03/18/ARTIoSzKe1KcfNzUloF6Zs6V260318.shtml)
+
++ [双标无底线！日本虚伪假面再被揭](https://news.cctv.com/2026/03/18/ARTIs87BTVT3PRMsSmov2Juy260318.shtml)
+
++ [国际海事组织：霍尔木兹海峡护航不是长久之计](https://news.cctv.com/2026/03/18/ARTIPqr7L3ogNH2sne5pcAVc260318.shtml)
+
++ [靠不住的美军，拉仇恨的基地——中东危机对美国亚洲盟友的启示](https://news.cctv.com/2026/03/18/ARTIEHnROIbKYzzYPp5faRhC260318.shtml)
+
++ [美国媒体：中国为何成为世界顶级旅游目的地？](https://news.cctv.com/2026/03/18/ARTIfSJcTbLireGI6rdnmtuY260318.shtml)
+
