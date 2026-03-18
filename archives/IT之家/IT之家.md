@@ -47,3 +47,17 @@
 
 + [华为畅享 90 Pro Max 手机外观设计公布：四种配色可选、背面使用经典星环对称设计相机模组](https://m.ithome.com/html/930117.htm)
 
++ [雷军：新一代小米 SU7 全系内置 ETC，并且免费激活](https://m.ithome.com/html/930304.htm)
+
++ [消息称某厂自研 CIS 已公开：国产工艺 + 全栈自研，预计归属华为旗下](https://m.ithome.com/html/930349.htm)
+
++ [被尊界 S800 逼急了？曝超豪华品牌陆续在给针对性策略，或采取降价、推定制车型配置等措施](https://m.ithome.com/html/930269.htm)
+
++ [库克亲临苹果 50 周年全球庆典成都站，李宇春献唱](https://m.ithome.com/html/930348.htm)
+
++ [一加 15T 小屏手机官宣 3 月 24 日发布：7500mAh 电池，165Hz 高刷](https://m.ithome.com/html/930082.htm)
+
++ [比亚迪、奔驰、京东等企业预祝新一代小米 SU7 上市成功，雷军致谢“和所有同行一起从容向前”](https://m.ithome.com/html/930382.htm)
+
++ [苹果发布 iOS / iPadOS / macOS 26.3.1 后台安全改进更新：修复高危 Safari 漏洞](https://m.ithome.com/html/930050.htm)
+
