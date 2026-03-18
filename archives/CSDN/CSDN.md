@@ -191,3 +191,7 @@
 
 + [Flutter 三方库 cloudflare_r2_uploader 的鸿蒙化适配指南 - 云端存储的疾速通道、在鸿蒙端实现 R2 分段上传实战](https://blog.csdn.net/guoyizhongxing/article/details/159175946)
 
++ [SpringCloud系列教程：微服务的未来（十四）网关登录校验、自定义过滤器GlobalFilter、GatawayFilter](https://blog.csdn.net/gechunlian88/article/details/159169722)
+
++ [用编程思维重构学习：从IoC到响应式，打造高效知识体系](https://blog.csdn.net/weixin_56334307/article/details/159200694)
+

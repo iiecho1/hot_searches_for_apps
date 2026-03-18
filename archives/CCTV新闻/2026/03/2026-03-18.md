@@ -209,3 +209,15 @@
 
 + [霍尔木兹海峡危机暴露美海军扫雷能力不足](https://news.cctv.com/2026/03/18/ARTIepGOQ4HXSzCioOvu7fqp260318.shtml)
 
++ [“烧钱”百亿美元，美国天价之战丨真相](https://news.cctv.com/2026/03/18/ARTIgiesJGyXIHyqFxIOcDRd260318.shtml)
+
++ [日本军国主义是人类史上少见的狂暴战争机器](https://news.cctv.com/2026/03/18/ARTIzkZ4rO5AoOyEmoq0z1af260318.shtml)
+
++ [“重蹈历史覆辙将给日本带来严重危险”](https://news.cctv.com/2026/03/18/ARTIvbBuIbEGwFtbYNwgThRw260318.shtml)
+
++ [日媒批日本政府强推预算案：仓促草率，民生审议被压缩](https://news.cctv.com/2026/03/18/ARTIgKHQrsg2dGVt8u6znS89260318.shtml)
+
++ [饱受争议 美国移民执法悍将黯然离场](https://news.cctv.com/2026/03/18/ARTIYYXQZPYz8NFrwFKv3cxx260318.shtml)
+
++ [伊朗外长称拉里贾尼遇害不会动摇伊朗政治架构](https://news.cctv.com/2026/03/18/ARTIO8Wv8wZaq3taR9mLxWWR260318.shtml)
+
