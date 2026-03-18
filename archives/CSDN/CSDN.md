@@ -109,3 +109,37 @@
 
 + [2026年论文阅读——Task-scaled spiking neural networks with multi-stage feature selection for resource-const](https://blog.csdn.net/tyutwuxuan/article/details/159168885)
 
++ [【AI】高效交互的艺术：AI提示工程与大模型对话指南](https://blog.csdn.net/2401_87342824/article/details/159045256)
+
++ [AI Agent 框架选型指南：OpenClaw、LangChain、AutoGPT、CrewAI 深度对比](https://blog.csdn.net/sinat_41617212/article/details/159172831)
+
++ [EDA简史：半导体与集成电路设计技术的商业、生态与未来——国产 EDA 破局，要先读懂行业的来时路](https://blog.csdn.net/weixin_52908342/article/details/159214775)
+
++ [【数据库】金仓数据库智能SQL防护机制，实现99.99%异常语句精准拦截](https://blog.csdn.net/qq_38628970/article/details/159214631)
+
++ [从「亡羊补牢」到「规则先行」：金仓数据库 SQL 防火墙实战解析](https://blog.csdn.net/Mrxiao_bo/article/details/159211470)
+
++ [【HarmonyOS 6.0】Media Kit：细粒度控制屏幕捕获，详解图像填充模式C API](https://blog.csdn.net/weixin_74809706/article/details/158932127)
+
++ [Edge浏览器 about:blank 问题修复](https://blog.csdn.net/ultramand/article/details/159213589)
+
++ [全平台 Docker 部署 CPA(CLIProxyAPI Plus) 灵活定制指南 (Linux/Windows)——接入Codex](https://blog.csdn.net/weixin_44145894/article/details/159166379)
+
++ [OpenClaw 阿里云/本地部署多Agent步骤](https://blog.csdn.net/weixin_44949135/article/details/159174975)
+
++ [【Linux网络编程】（二）计算机网络概念进阶：彻底搞懂协议本质、传输流程与封装分用](https://blog.csdn.net/2301_79248256/article/details/159214484)
+
++ [【Dv3Admin】Vue3通用自定义工作台卡片](https://blog.csdn.net/qq_20288327/article/details/156265110)
+
++ [Pandas 完全教程（实战场景版）](https://blog.csdn.net/qq_24330181/article/details/159165899)
+
++ [教育数字化：ONLYOFFICE在在线课堂与协作学习中的一站式解决方案](https://blog.csdn.net/u014727709/article/details/159203442)
+
++ [纯Windows部署OpenClaw(2026.3.7)并接入线上DeepSeek 超详细实操教程](https://blog.csdn.net/qq_74137715/article/details/159129127)
+
++ [vue3多个watch监听统一等待触发再执行后续逻辑的处理方案](https://blog.csdn.net/harrain/article/details/159159327)
+
++ [撕裂微服务网关的认证风暴：Spring Security 6.1 与 JWT 物理级免登架构大重构](https://blog.csdn.net/qq_43414012/article/details/159159619)
+
++ [机器人/无人机视觉开发选型指南：RealSense D455 vs D435i 与奥比中光的互补方案](https://blog.csdn.net/weixin_54688302/article/details/159155786)
+
