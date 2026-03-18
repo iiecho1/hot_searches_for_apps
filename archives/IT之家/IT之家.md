@@ -61,3 +61,21 @@
 
 + [华为乾崑 | 启境 GT7 智能猎装车全球首秀，同步开启盲订](https://m.ithome.com/html/930010.htm)
 
++ [国家安全部：某无人机发烧友“黑飞”到 8000 米跟客机抢道，已被采取刑事强制措施](https://m.ithome.com/html/930058.htm)
+
++ [小米向第一代 SU7 / YU7 / Ultra 首销期首任车主赠送定制冰箱贴，限量 15 万份](https://m.ithome.com/html/930043.htm)
+
++ [微信灰度测试“折叠发图”新功能，三张以上图片可以合并展示](https://m.ithome.com/html/930038.htm)
+
++ [导演冯小刚参演国产科幻大片《流浪地球 3》，定妆照公布](https://m.ithome.com/html/930114.htm)
+
++ [华为 Mate 80 青云版曝光：内置散热风扇，性能释放更强](https://m.ithome.com/html/930171.htm)
+
++ [阿里云创始人王坚：每天通勤 40 分钟是浪费生命，AI 应解决这一问题](https://m.ithome.com/html/930040.htm)
+
++ [20:00 起仅限 28 小时：整个 3 月就看这波，京东淘宝超级 18 狂促，华为小米国补新低](https://m.ithome.com/html/930007.htm)
+
++ [英伟达黄仁勋：“龙虾”OpenClaw 是人类史上最成功开源项目，绝对是下一个 ChatGPT](https://m.ithome.com/html/930173.htm)
+
++ [华为畅享 90 Pro Max 手机外观设计公布：四种配色可选、背面使用经典星环对称设计相机模组](https://m.ithome.com/html/930117.htm)
+

@@ -207,3 +207,7 @@
 
 + [OpenClaw实战， Dashboard-v2 新功能全详解，Agents进入军团化管理时代](https://blog.csdn.net/GODYAD/article/details/159115439)
 
++ [【论文阅读】SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration](https://blog.csdn.net/qq_42761751/article/details/159200579)
+
++ [TMC2240 芯片数据手册解读|第一篇 TMC2240 芯片概述](https://blog.csdn.net/u014411348/article/details/159018092)
+
