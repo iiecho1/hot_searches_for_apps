@@ -25,3 +25,7 @@
 
 + [消息称华为、小米 REDMI、一加、vivo 等厂商正打磨小平板](https://m.ithome.com/html/929940.htm)
 
++ [消息称腾讯 QClaw 即将上线，微信入口全面升级](https://m.ithome.com/html/929998.htm)
+
++ [华为乾崑 | 启境 GT7 智能猎装车全球首秀，同步开启盲订](https://m.ithome.com/html/930010.htm)
+

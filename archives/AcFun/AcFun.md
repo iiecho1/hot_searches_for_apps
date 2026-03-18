@@ -61,3 +61,7 @@
 
 + [曾经快餐界的王者，7＋7现在活的还好吗？](https://m.acfun.cn/v/?ac=48356262)
 
++ [【东方】东方虹龙洞 5面战【ElinaNoodles Animations 手书动画】](https://m.acfun.cn/v/?ac=48351166)
+
++ [青天大老爷！！好萌的手势舞！](https://m.acfun.cn/v/?ac=48355505)
+

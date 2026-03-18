@@ -101,3 +101,11 @@
 
 + [HarmonyOS APP＜玩转React＞开源教程十二：ModuleCard 模块卡片组件](https://blog.csdn.net/ldc121xy716/article/details/159169304)
 
++ [用于 Elasticsearch 的 Gemini CLI 扩展，包含工具和技能](https://blog.csdn.net/UbuntuTouch/article/details/159199043)
+
++ [SpringBoot 配置文件核心用法（Properties & YAML）](https://blog.csdn.net/HANhylyxy/article/details/159121629)
+
++ [多模态动态融合模型Predictive Dynamic Fusion论文阅读与代码分析4-代码架构](https://blog.csdn.net/xx_xxxxx_/article/details/159130896)
+
++ [2026年论文阅读——Task-scaled spiking neural networks with multi-stage feature selection for resource-const](https://blog.csdn.net/tyutwuxuan/article/details/159168885)
+
