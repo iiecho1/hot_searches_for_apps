@@ -191,3 +191,19 @@
 
 + [印度中央邦一民宅起火 至少7人死亡](https://news.cctv.com/2026/03/18/ARTICJAtMDhrxynSFwXS8E15260318.shtml)
 
++ [泰国宪法法院决定受理选举无效的请愿](https://news.cctv.com/2026/03/18/ARTIpR5Tn7Sa7Ms8RqZNsa6S260318.shtml)
+
++ [美国被曝鼓动叙利亚协助解除真主党武装未果](https://news.cctv.com/2026/03/18/ARTI8LRp9lqPDTqypX5HSWtn260318.shtml)
+
++ [巴拉圭批准南共市-欧盟自贸协定](https://news.cctv.com/2026/03/18/ARTIfiJRCkFvl0Bv32RHotxN260318.shtml)
+
++ [美军被曝拟大规模仿制伊朗自杀式无人机](https://news.cctv.com/2026/03/18/ARTI0ozuiu4YBjb0Vvcq8zwr260318.shtml)
+
++ [日本对美出口连续三个月下降](https://news.cctv.com/2026/03/18/ARTIy9vNBNYIjfM1yrUpMOFg260318.shtml)
+
++ [国际原子能机构称收到伊朗核电站遭袭通报](https://news.cctv.com/2026/03/18/ARTIfkBAJGYb6Bf9mTuzmdmw260318.shtml)
+
++ [韩国将从阿联酋引进1800万桶原油](https://news.cctv.com/2026/03/18/ARTI29eSoCPWVNRm27jxTr4T260318.shtml)
+
++ [缅甸民族院选出新任议长和副议长](https://news.cctv.com/2026/03/18/ARTIhAmK6rP759Ucr28QzZRC260318.shtml)
+

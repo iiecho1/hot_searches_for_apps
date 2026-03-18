@@ -181,3 +181,13 @@
 
 + [跨技术栈：在Flutter/Compose中应用自定义View思想](https://blog.csdn.net/Jm0218Xx/article/details/159113889)
 
++ [2026 Python+AI 学习方向拆解：3 个高性价比赛道，新手优先学](https://blog.csdn.net/2401_86326742/article/details/159200675)
+
++ [你真的会使用 Gemini 吗？](https://blog.csdn.net/yuan2019035055/article/details/159174707)
+
++ [计算机网络：自顶向下方法（第七版）第四章 学习分享（一）](https://blog.csdn.net/qq_39635178/article/details/159013504)
+
++ [复杂三维山地环境下小龙虾优化算法COA求解多无人机动态避障路径规划研究，MATLAB代码](https://blog.csdn.net/matlab_dingdang/article/details/159199150)
+
++ [Flutter 三方库 cloudflare_r2_uploader 的鸿蒙化适配指南 - 云端存储的疾速通道、在鸿蒙端实现 R2 分段上传实战](https://blog.csdn.net/guoyizhongxing/article/details/159175946)
+
