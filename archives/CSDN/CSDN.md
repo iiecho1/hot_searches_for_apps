@@ -145,3 +145,11 @@
 
 + [游戏角色分层有限状态机（Hierarchical Finite StateMachine, HFSM）框架](https://blog.csdn.net/2603_95527028/article/details/159159342)
 
++ [新能源汽车电机台架测试功率分析仪问题梳理（理论+实操）](https://blog.csdn.net/weixin_62244995/article/details/159050888)
+
++ [宇树科技机器人核心技术](https://blog.csdn.net/zhang1379/article/details/159084248)
+
++ [2026年论文阅读——Task-scaled spiking neural networks with multi-stage feature selection for resource-const](https://blog.csdn.net/tyutwuxuan/article/details/159168885)
+
++ [Nginx安全防护与HTTPS部署实战笔记](https://blog.csdn.net/2602_94969842/article/details/159117233)
+

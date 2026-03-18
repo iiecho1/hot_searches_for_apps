@@ -167,3 +167,7 @@
 
 + [伊朗总统证实拉里贾尼已遇难并发表悼词](https://news.cctv.com/2026/03/18/ARTIPmfGeDgXKgmg7wpGQ7Ng260318.shtml)
 
++ [伊朗发起“真实承诺-4”行动第61波攻势 报复拉里贾尼遇害](https://news.cctv.com/2026/03/18/ARTIDNbgNqHWhcMygffC0D0E260318.shtml)
+
++ [美军用钻地炸弹轰炸霍尔木兹海峡沿岸伊朗导弹阵地](https://news.cctv.com/2026/03/18/ARTIVTvGdnMQgYoEqcKTOtyE260318.shtml)
+
