@@ -53,3 +53,7 @@
 
 + [AI 时代的程序员困境](https://www.v2ex.com/t/1199195)
 
++ [（后续）关于新来的技术 leader 准备用 Claude code 升级现有项目](https://www.v2ex.com/t/1199066)
+
++ [这样用 AI 写代码，属于劣币驱逐良币了。笑了](https://www.v2ex.com/t/1199158)
+
