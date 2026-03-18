@@ -171,3 +171,13 @@
 
 + [美军用钻地炸弹轰炸霍尔木兹海峡沿岸伊朗导弹阵地](https://news.cctv.com/2026/03/18/ARTIVTvGdnMQgYoEqcKTOtyE260318.shtml)
 
++ [日本首相：暂无向霍尔木兹海峡派遣自卫队计划](https://news.cctv.com/2026/03/18/ARTI0wYttHIn9z8zrtzSxqB7260318.shtml)
+
++ [伊朗军队总司令：将“果断”回应拉里贾尼遇害](https://news.cctv.com/2026/03/18/ARTIQp12DhTuE9lHyp4vAKwF260318.shtml)
+
++ [伊朗媒体：伊朗已为国家关键职位指定多名替代人选](https://news.cctv.com/2026/03/18/ARTI02dlZ3lX9g3AFvA6m2i6260318.shtml)
+
++ [阿根廷正式退出世界卫生组织](https://news.cctv.com/2026/03/18/ARTI17XuKchvxSBsaYEPbGuK260318.shtml)
+
++ [墨西哥一炼油厂周边发生火灾致5人死亡](https://news.cctv.com/2026/03/18/ARTIxKYxPTq3CBh9aCOZmjYG260318.shtml)
+
