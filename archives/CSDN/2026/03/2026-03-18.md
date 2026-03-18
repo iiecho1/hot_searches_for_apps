@@ -167,3 +167,17 @@
 
 + [机器人/无人机视觉开发选型指南：RealSense D455 vs D435i 与奥比中光的互补方案](https://blog.csdn.net/weixin_54688302/article/details/159155786)
 
++ [20年来量子力学前沿教材变化趋势简析](https://blog.csdn.net/kkiron/article/details/159199276)
+
++ [【RFCOMM】协议深度解析[11]：RFCOMM多实体交互逻辑](https://blog.csdn.net/weixin_37800531/article/details/159050389)
+
++ [用于 Elasticsearch 的 Gemini CLI 扩展，包含工具和技能](https://blog.csdn.net/UbuntuTouch/article/details/159199043)
+
++ [SpringBoot 配置文件核心用法（Properties & YAML）](https://blog.csdn.net/HANhylyxy/article/details/159121629)
+
++ [2.3线性代数](https://blog.csdn.net/ginstargi/article/details/158919670)
+
++ [OpenClaw 安卓设备接入指南：从零开始配置你的移动节点](https://blog.csdn.net/weixin_41120248/article/details/159115822)
+
++ [跨技术栈：在Flutter/Compose中应用自定义View思想](https://blog.csdn.net/Jm0218Xx/article/details/159113889)
+

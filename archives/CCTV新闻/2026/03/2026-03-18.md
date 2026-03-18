@@ -181,3 +181,13 @@
 
 + [墨西哥一炼油厂周边发生火灾致5人死亡](https://news.cctv.com/2026/03/18/ARTIxKYxPTq3CBh9aCOZmjYG260318.shtml)
 
++ [俄国家原子能公司谴责对伊朗布什尔核电站的袭击](https://news.cctv.com/2026/03/18/ARTIkq17fF01CJJAPRPGXBt8260318.shtml)
+
++ [联合国安理会定于18日讨论叙利亚局势](https://news.cctv.com/2026/03/18/ARTIineSlpNHRDQACUdD3wov260318.shtml)
+
++ [允许“有限”人员双向通行 拉法口岸18日起重新开放](https://news.cctv.com/2026/03/18/ARTIFASoSVIbmclHxFSYpjt2260318.shtml)
+
++ [哈马斯发表声明悼念拉里贾尼](https://news.cctv.com/2026/03/18/ARTIvJ0dV4BZ6fme7AeCn7Fq260318.shtml)
+
++ [印度中央邦一民宅起火 至少7人死亡](https://news.cctv.com/2026/03/18/ARTICJAtMDhrxynSFwXS8E15260318.shtml)
+
