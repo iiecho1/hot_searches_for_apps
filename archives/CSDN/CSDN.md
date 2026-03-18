@@ -195,3 +195,15 @@
 
 + [用编程思维重构学习：从IoC到响应式，打造高效知识体系](https://blog.csdn.net/weixin_56334307/article/details/159200694)
 
++ [【AI应用开发】-本地知识库答不上最新热点，我接入网络搜索，让Agent既能翻旧书也能上网冲浪](https://blog.csdn.net/zxc18344522713/article/details/159204260)
+
++ [十大趋势勾勒充电桩行业新蓝图，技术与生态重构产业未来](https://blog.csdn.net/m0_50020961/article/details/159200431)
+
++ [【抽奖系统开发实战】Spring Boot 项目的用户模块设计：注册登录、权限管控与敏感数据加密](https://blog.csdn.net/whxcmy/article/details/159117986)
+
++ [2026时序数据库选型全指南：大数据场景下的国产最优解，IoTDB实力领跑](https://blog.csdn.net/weixin_37800531/article/details/159205963)
+
++ [基于YOLO26深度学习的铁轨部件缺陷检测与语音提示系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/159165135)
+
++ [OpenClaw实战， Dashboard-v2 新功能全详解，Agents进入军团化管理时代](https://blog.csdn.net/GODYAD/article/details/159115439)
+
