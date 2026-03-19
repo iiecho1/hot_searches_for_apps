@@ -211,3 +211,9 @@
 
 + [实测UU远程新功能「无线副屏」：闲置手机秒变电脑第二屏，免费又能打](https://blog.csdn.net/2401_86449430/article/details/159247641)
 
++ [从抽象设计到落地实践：openJiuwen可插拔会话存储机制深度解析](https://blog.csdn.net/2301_81073317/article/details/159250858)
+
++ [【新能源汽车NTC+VCU温度采集全链路解析：原理、试验与测不准根源定位】](https://blog.csdn.net/weixin_62244995/article/details/159205144)
+
++ [【Linux系统】信号机制拆解，透过内核三张表深入本质](https://blog.csdn.net/2402_86681376/article/details/159114764)
+
