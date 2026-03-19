@@ -101,3 +101,35 @@
 
 + [四：MVCC 深度解析：三事务并发全流程](https://blog.csdn.net/weixin_44007213/article/details/159206615)
 
++ [金仓数据库SQL防火墙：可以拦截99.99%，让恶意SQL无处遁形](https://blog.csdn.net/weixin_42878111/article/details/159240772)
+
++ [工具箱思维：在计算机视觉中如何选对工具、用好工具（计算机视觉篇）](https://blog.csdn.net/dongke1991/article/details/159206572)
+
++ [金仓数据库SQL防火墙构建主动防御，让恶意SQL无处遁形](https://blog.csdn.net/2302_79376097/article/details/159213322)
+
++ [你真的会使用 Gemini 吗？](https://blog.csdn.net/yuan2019035055/article/details/159174707)
+
++ [1.2GB → 98MB，我的 Docker 镜像瘦身实战记录](https://blog.csdn.net/ohYes_1314/article/details/159164392)
+
++ [【HarmonyOS 6.0】Media Kit：细粒度控制屏幕捕获，详解图像填充模式C API](https://blog.csdn.net/weixin_74809706/article/details/158932127)
+
++ [2026数据新规下，远程控制软件安全大起底：ToDesk、向日葵、UU远程谁更能守护企业资产？](https://blog.csdn.net/JHXL_/article/details/159210221)
+
++ [Claude Code 实战一：从零开发电商小程序（全流程）](https://blog.csdn.net/weixin_38717458/article/details/159207745)
+
++ [大模型用了十年的「笨办法」，被 Kimi 悄悄换掉了](https://blog.csdn.net/u010634066/article/details/159155603)
+
++ [（第三篇）Spring AI 实战进阶：从0开发IDEA插件版AI代码助手（Java全栈+上下文感知）](https://blog.csdn.net/qq_40303030/article/details/157433291)
+
++ [电力系统——基于10机39节点的电力系统仿真（Matlab、Simulink仿真）](https://blog.csdn.net/weixin_46039719/article/details/159218502)
+
++ [英伟达 NIM API 配置 Claude Code 完整教程（使用 CCR UI）](https://blog.csdn.net/2301_76934594/article/details/159159283)
+
++ [AI 编程实战：用 Claude Code 自动化代码审查](https://blog.csdn.net/weixin_43290370/article/details/159137390)
+
++ [小龙虾时代：用于安全连接——内网穿透工具Tailscale 实用手册](https://blog.csdn.net/m0_50543116/article/details/159169978)
+
++ [微信小程序 基于物联网技术的宠物定位与监控系统设计](https://blog.csdn.net/bishe288/article/details/159156667)
+
++ [OpenClaw中飞书机器人配置指南：如何让群消息免 @ 也能自动回复](https://blog.csdn.net/QIU176161650/article/details/159239659)
+
