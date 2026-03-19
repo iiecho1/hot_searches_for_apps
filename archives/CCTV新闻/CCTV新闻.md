@@ -189,3 +189,7 @@
 
 + [美情报总监称伊朗政权“完整但遭严重削弱”](https://news.cctv.com/2026/03/19/ARTIrHwvY9aqVFYJLlwNwSuK260319.shtml)
 
++ [古巴谴责美国施压哥斯达黎加降级与古双边关系](https://news.cctv.com/2026/03/19/ARTITuew0rAiqEYniu4P7mik260319.shtml)
+
++ [阿努廷再次当选泰国新一任总理](https://news.cctv.com/2026/03/19/ARTITea5yzuDkIWivVTOmrT9260319.shtml)
+
