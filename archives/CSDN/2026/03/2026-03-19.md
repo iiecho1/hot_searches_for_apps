@@ -161,3 +161,7 @@
 
 + [嵌入式学习——51单片机（下）](https://blog.csdn.net/2301_81380359/article/details/159215532)
 
++ [OpenClaw 3.13 实战：从零在 Ubuntu 部署龙虾智能体，打通微信、浏览器与 Docker 全链路](https://blog.csdn.net/jiangjunshow/article/details/159123912)
+
++ [解放你的文件夹：智能文件整理Agent，让杂乱文件一键归位](https://blog.csdn.net/2403_87969572/article/details/159136575)
+
