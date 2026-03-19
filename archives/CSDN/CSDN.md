@@ -183,3 +183,17 @@
 
 + [CSRF&SSRF漏洞攻击：溯源解析与实战指南](https://blog.csdn.net/2501_94768728/article/details/159215952)
 
++ [SkyWalking - Kafka _ RabbitMQ 消息链路追踪支持](https://blog.csdn.net/qq_41187124/article/details/157511477)
+
++ [HarmonyOS 6 自定义人脸识别模型7：相机C++ API能力介绍](https://blog.csdn.net/sjw890821sjw/article/details/159176318)
+
++ [从零开始：OpenClaw 安全远程访问完全指南（SSH隧道实战版）](https://blog.csdn.net/qq_41797451/article/details/159212291)
+
++ [云原生周刊：Kubernetes 1.36 要来了](https://blog.csdn.net/zpf17671624050/article/details/159210806)
+
++ [进阶实战：微信小程序路由、交互与生命周期全攻略DAY03](https://blog.csdn.net/2401_83717871/article/details/159214855)
+
++ [【JWT】JWT（JSON Web Token）结构化知识体系（完整版）](https://blog.csdn.net/qq_45914609/article/details/159215071)
+
++ [前端空值处理规范：Vue 实战避坑，可选链、?? 兜底写法｜项目规范篇](https://blog.csdn.net/summer_tulip/article/details/159202158)
+

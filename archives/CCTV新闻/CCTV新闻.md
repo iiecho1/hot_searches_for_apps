@@ -197,3 +197,7 @@
 
 + [伊拉克武装宣布“有条件”暂停袭击美使馆5天](https://news.cctv.com/2026/03/19/ARTIuPRJ4DuVbCmLzMOiGMK7260319.shtml)
 
++ [津巴布韦暂停原矿和锂精矿出口，并出台保留行业新规 中使馆发布提醒](https://news.cctv.com/2026/03/19/ARTIEJjERb2PPZB7OYORNkRA260319.shtml)
+
++ [佩斯科夫：俄方期待尽快恢复乌克兰问题三方谈判](https://news.cctv.com/2026/03/19/ARTIIlZ0fV8yfu6HgOKsb7Jl260319.shtml)
+
