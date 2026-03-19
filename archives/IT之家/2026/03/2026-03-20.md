@@ -49,3 +49,17 @@
 
 + [苹果发布 iOS / iPadOS / macOS 26.3.1 后台安全改进更新：修复高危 Safari 漏洞](https://m.ithome.com/html/930050.htm)
 
++ [小米新一代 SU7 正式上市，21.99 万-30.39 万元](https://m.ithome.com/html/930773.htm)
+
++ [小米笔记本 Pro 14 高性能超轻薄本发布，首销 7999 元起](https://m.ithome.com/html/930776.htm)
+
++ [王传福、李想、何小鹏等车圈大佬齐聚新一代小米 SU7 发布会，宇树王兴兴也来了](https://m.ithome.com/html/930758.htm)
+
++ [小米汽车：34 分钟内，新一代 SU7 锁单 1.5 万台](https://m.ithome.com/html/930798.htm)
+
++ [四川省省长施小琳会见苹果 CEO 库克](https://m.ithome.com/html/930718.htm)
+
++ [雷军详解小米新一代 SU7 门把手安全设计：100% 符合明年新国标，三重冗余](https://m.ithome.com/html/930772.htm)
+
++ [小米新一代 SU7 官宣搭载第三代骁龙 8 移动平台 + 700TOPS 算力 4nm 辅助驾驶计算芯片](https://m.ithome.com/html/930766.htm)
+
