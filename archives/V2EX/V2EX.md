@@ -33,3 +33,15 @@
 
 + [阿里巴巴与中山大学花了 100 亿 token 证明目前 ai 编程无法承担长期任务](https://www.v2ex.com/t/1199231)
 
++ [你人生中最重要的事是什么呢？](https://www.v2ex.com/t/1199412)
+
++ [有没有去医院掏过耳朵的，如何实操](https://www.v2ex.com/t/1199254)
+
++ [没用过 opus4.6 + agents + skills + mcp 组合的人不足以谈 AI 编程](https://www.v2ex.com/t/1199424)
+
++ [说一下自己最近 ai 前端开发编程的感受](https://www.v2ex.com/t/1199403)
+
++ [网传猪场强推 AI、开始清理人员](https://www.v2ex.com/t/1199390)
+
++ [运营商开始推电视 APP，终于可以不用机顶盒看电视了](https://www.v2ex.com/t/1199406)
+

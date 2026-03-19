@@ -147,3 +147,17 @@
 
 + [Spring Boot+Nginx+MySQL容器化实战](https://blog.csdn.net/2301_80636143/article/details/158313905)
 
++ [AI实践(8)Skills技能](https://blog.csdn.net/Once_day/article/details/159215390)
+
++ [RabbitMQ和RocketMQ，哪个更好？](https://blog.csdn.net/lisu061714112/article/details/159201862)
+
++ [Storm Windowing 机制深度解析：从滑动窗口到滚动窗口的实时处理](https://blog.csdn.net/qq_41840843/article/details/158544492)
+
++ [【旋转框】基于YOLO26深度学习的无人机视角车辆检测系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/159208167)
+
++ [【高等数学】四,不定积分](https://blog.csdn.net/he_zhidan/article/details/158661330)
+
++ [cloud-app-admin：一款现代化、开箱即用的 Vue 3 后台管理模板](https://blog.csdn.net/l3212094351/article/details/159214896)
+
++ [嵌入式学习——51单片机（下）](https://blog.csdn.net/2301_81380359/article/details/159215532)
+

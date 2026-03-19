@@ -169,3 +169,21 @@
 
 + [伊朗发起“真实承诺4”第63轮行动 报复能源基础设施遭袭](https://news.cctv.com/2026/03/19/ARTIEWs3tg8vsU1zYLLBwFEd260319.shtml)
 
++ [拉美观察丨美国召开“美洲之盾”峰会 为何拉美主要国家拒绝参加？](https://news.cctv.com/2026/03/19/ARTISIYqFJjTexiVvE0QeMdC260319.shtml)
+
++ [美国务卿和防长居住地上空出现不明无人机](https://news.cctv.com/2026/03/19/ARTIQ0DDnqoJVasG6jngLfeq260319.shtml)
+
++ [特朗普称对以色列袭击伊朗油气设施“毫不知情”](https://news.cctv.com/2026/03/19/ARTIU6qhSpgcozklSjgSYUML260319.shtml)
+
++ [两名美国宇航员完成太空行走 为空间站电力系统改造做准备](https://news.cctv.com/2026/03/19/ARTI33jUf4YuEgWBb4mvIxZ5260319.shtml)
+
++ [欧盟证实美社交媒体平台X已缴纳1.2亿欧元罚款](https://news.cctv.com/2026/03/19/ARTI6hXl2raSfFuN59Vee8lj260319.shtml)
+
++ [鲍威尔称无意在调查结束前离开美联储](https://news.cctv.com/2026/03/19/ARTIWa9N3eunse4IxSPzi8Hx260319.shtml)
+
++ [伊朗总统强烈谴责美以袭击伊能源基础设施](https://news.cctv.com/2026/03/19/ARTIdzu0TApvzAvNZOHNqvXT260319.shtml)
+
++ [不愿为白宫开战说辞背书 美情报高官称伊朗未重建铀浓缩能力](https://news.cctv.com/2026/03/19/ARTIHP6E7092zejOoy3j6Y8A260319.shtml)
+
++ [受中东冲突影响 美国汽油价格升至2023年以来最高水平](https://news.cctv.com/2026/03/19/ARTIzTejHPus3LvnLfAZwfb4260319.shtml)
+
