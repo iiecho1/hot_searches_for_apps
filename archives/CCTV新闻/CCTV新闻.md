@@ -187,3 +187,13 @@
 
 + [伊朗伊斯兰革命卫队发言人遇袭身亡](https://news.cctv.com/2026/03/20/ARTIEC5doTe1SXHJGj0NOUQ8260320.shtml)
 
++ [巴西总统严厉批评美国对伊朗发动军事打击](https://news.cctv.com/2026/03/20/ARTIfZegfAOEfRnU7gh9w1Sn260320.shtml)
+
++ [西班牙首相：美以对伊朗的军事打击“是非法的”](https://news.cctv.com/2026/03/20/ARTIiZnu36STZ0vRs5cdKtyM260320.shtml)
+
++ [新华走笔丨在塞尔维亚感受中国“脉搏”](https://news.cctv.com/2026/03/20/ARTIr3t6DqHOAro8RybuJmI9260320.shtml)
+
++ [高市访美期间，东京万人集会抗议高市破坏和平宪法](https://news.cctv.com/2026/03/20/ARTImLgCe6OrG8RXzkvgPSY4260320.shtml)
+
++ [朝中社：日本企图大规模出口进攻性杀伤武器危害世界和平与安全](https://news.cctv.com/2026/03/20/ARTIdWLNDBkLNRax9qWW7zeV260320.shtml)
+

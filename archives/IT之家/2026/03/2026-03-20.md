@@ -65,3 +65,23 @@
 
 + [小米春季新品发布会一文汇总：新一代 SU7 上市，台下友商大佬表情亮了，时隔四年推出“公斤本”](https://m.ithome.com/html/930804.htm)
 
++ [消息称猎豹移动董事长傅盛“深夜开撕 360 周鸿祎”：你欠一个亿未还，还删我](https://m.ithome.com/html/930857.htm)
+
++ [配主动散热风扇：华为 Mate 80 Pro Max 风驰版官宣 12:08 开启预订，3 月 23 日预售](https://m.ithome.com/html/930846.htm)
+
++ [雷军：小米新一代 SU7 较初代仅材料成本就增加约 2 万元，希望订单和交付能平衡](https://m.ithome.com/html/930799.htm)
+
++ [小米雷军感谢王兴兴：谢谢你在五年前给了我们一个投资宇树的机会](https://m.ithome.com/html/930865.htm)
+
++ [苹果 iPhone 17e 首销数据曝光：五天销量约 2.3 万，同期 iPhone 16e 约 1.6 万](https://m.ithome.com/html/930809.htm)
+
++ [腾讯 QClaw 龙虾全面开放：无需邀请码，用微信一句话控制电脑](https://m.ithome.com/html/930937.htm)
+
++ [Parallels 确认 MacBook Neo 跑 Win11，单核比戴尔原生 PC 快 20%](https://m.ithome.com/html/930829.htm)
+
++ [华强北商家：32G 内存涨了约 3000 元](https://m.ithome.com/html/930861.htm)
+
++ [华为 MatePad Edge 鸿蒙二合一平板新增 24GB+1TB 液冷版：搭载海思麒麟 X90，9499 元](https://m.ithome.com/html/930853.htm)
+
++ [华为成立传媒军团：公司副总裁岳坤为 CEO，杜仲夏出任总裁](https://m.ithome.com/html/930941.htm)
+

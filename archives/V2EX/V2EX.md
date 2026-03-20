@@ -59,3 +59,5 @@
 
 + [买个扫拖机器人真的可以解放双手吗？](https://www.v2ex.com/t/1199783)
 
++ [请问下各位佬都在用什么 terminal 工具的](https://www.v2ex.com/t/1199823)
+
