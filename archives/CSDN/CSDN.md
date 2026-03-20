@@ -207,3 +207,13 @@
 
 + [3个致命误区：Semantic Kernel Prompt提示词从失败到精通的蜕变](https://blog.csdn.net/z_344791576/article/details/151920914)
 
++ [【抽奖系统开发实战】Spring Boot 抽奖模块全解析：MQ 异步处理、缓存信息、状态扭转与异常回滚](https://blog.csdn.net/whxcmy/article/details/159208978)
+
++ [【数据驱动】基于在线数据驱动 PID 控制和离线 DD FRIT 控制的水箱系统控制附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/159284783)
+
++ [CSRF&SSRF漏洞攻击：溯源解析与实战指南](https://blog.csdn.net/2501_94768728/article/details/159215952)
+
++ [Unity Shader FLOWMAP岩浆流动制作案例](https://blog.csdn.net/mxwin/article/details/159243509)
+
++ [2026网络安全六大确定性趋势](https://blog.csdn.net/kkwl1234/article/details/159200754)
+
