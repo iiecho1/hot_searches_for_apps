@@ -203,3 +203,5 @@
 
 + [OpenClaw飞书对接全流程指南](https://blog.csdn.net/weixin_47624668/article/details/159201222)
 
++ [Spring Boot 3 + Spring Cloud 2026 微服务实战：云原生、AI 融合与架构演进](https://blog.csdn.net/2609_95039210/article/details/159245198)
+
