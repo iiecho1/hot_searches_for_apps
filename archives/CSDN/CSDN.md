@@ -101,3 +101,11 @@
 
 + [（第三篇）Spring AI 实战进阶：从0开发IDEA插件版AI代码助手（Java全栈+上下文感知）](https://blog.csdn.net/qq_40303030/article/details/157433291)
 
++ [Java 实战：基于高德周边检索 API 获取耒阳童车产业园企业分布数据](https://blog.csdn.net/yelangkingwuzuhu/article/details/159253572)
+
++ [SpringAI+DeepSeek大模型应用开发实战](https://blog.csdn.net/qq_61309716/article/details/159084444)
+
++ [drm_gpusvm_pages — svm range物理页面映射状态管理者的实现详细分析](https://blog.csdn.net/shenjunpeng/article/details/159241370)
+
++ [国内AI镜像站实测：GPT、Gemini、Claude三款旗舰模型技术比拼](https://blog.csdn.net/balmtv/article/details/159251733)
+
