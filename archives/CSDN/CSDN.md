@@ -205,3 +205,5 @@
 
 + [Spring Boot 3 + Spring Cloud 2026 微服务实战：云原生、AI 融合与架构演进](https://blog.csdn.net/2609_95039210/article/details/159245198)
 
++ [3个致命误区：Semantic Kernel Prompt提示词从失败到精通的蜕变](https://blog.csdn.net/z_344791576/article/details/151920914)
+
