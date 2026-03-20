@@ -141,3 +141,23 @@
 
 + [UKF-IMM 轨迹跟踪 Matlab 仿真：参数调优实战](https://blog.csdn.net/2501_94677389/article/details/159265233)
 
++ [【HarmonyOS 6.0】使用PAC脚本灵活管理网络连接](https://blog.csdn.net/weixin_74809706/article/details/159161280)
+
++ [Unity+AI 用一句话制作完整小游戏：飞翔的牛马【AI纯添加-0手工代码】](https://blog.csdn.net/zhangay1998/article/details/159276881)
+
++ [计算机视觉——Opencv（物体跟踪）](https://blog.csdn.net/2401_83998832/article/details/159174908)
+
++ [技术整理—华为eNSP：链路聚合技术原理与配置实践](https://blog.csdn.net/mj9749ouro/article/details/159247160)
+
++ [MaxKB4j Docker Compose 部署指南](https://blog.csdn.net/weixin_40986713/article/details/159157557)
+
++ [【花雕学编程】Arduino BLDC 之机器人差速底盘运动学解算与闭环速度控制](https://blog.csdn.net/weixin_41659040/article/details/159276502)
+
++ [【Matlab】MATLAB教程：向量化编程（案例：替代for循环计算A.^2，聚焦提升代码效率）](https://blog.csdn.net/unbelievevc/article/details/159277129)
+
++ [OpenClaw字节跳动的三只不同的claw龙虾飞书妙搭 OpenClaw、ArkClaw、扣子 OpenClaw 核心区别深度解析](https://blog.csdn.net/jinanwuhuaguo/article/details/159169488)
+
++ [《计算机网络-自顶向下方法》笔记分享：第1章-「计算机网络和因特网」-1.2 网络边缘](https://blog.csdn.net/2302_80961196/article/details/159251667)
+
++ [Excel VBA 核心概念全解析：宏、模块、过程的区别与联系（含 SpreadJS Web 替代方案）](https://blog.csdn.net/powertoolsteam/article/details/159239379)
+
