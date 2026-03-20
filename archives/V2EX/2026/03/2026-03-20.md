@@ -41,3 +41,5 @@
 
 + [领$10-稳定 - Claude Code 用户看过来](https://www.v2ex.com/t/1199688)
 
++ [Ai 时代，大家还学英语么？](https://www.v2ex.com/t/1199685)
+

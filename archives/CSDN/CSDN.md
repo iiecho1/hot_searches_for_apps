@@ -161,3 +161,23 @@
 
 + [Excel VBA 核心概念全解析：宏、模块、过程的区别与联系（含 SpreadJS Web 替代方案）](https://blog.csdn.net/powertoolsteam/article/details/159239379)
 
++ [开发兜不住？让数据库来兜底：金仓 SQL 防火墙的工程化实践](https://blog.csdn.net/weixin_52908342/article/details/159240698)
+
++ [Xiaomusic 让小爱音箱解锁本地曲库，内网穿透更能远程点歌](https://blog.csdn.net/2302_78391795/article/details/159276934)
+
++ [ToDesk 全新 ToClaw，正在把电脑交给AI去操作](https://blog.csdn.net/2401_86326742/article/details/159280275)
+
++ [MyBatis进阶：动态SQL与MyBatis Generator插件使用](https://blog.csdn.net/2401_89176842/article/details/159012400)
+
++ [PyTorch实战（36）——PyTorch自动机器学习](https://blog.csdn.net/LOVEmy134611/article/details/151221323)
+
++ [深度学习_目标检测，RCNN，Fast-RCNN和Faster-RCNN](https://blog.csdn.net/qq_38175040/article/details/158891895)
+
++ [《计算机网络-自顶向下方法》（原书第7版）笔记分享：第1章-计算机网络和因特网-1.1 什么是因特网？](https://blog.csdn.net/2302_80961196/article/details/159249117)
+
++ [Docker 环境下 Redis Lua 脚本部署与执行](https://blog.csdn.net/2501_93491346/article/details/159280110)
+
++ [（十一）Spring Cloud Alibaba 2023.x：构建分布式全链路日志追踪体系](https://blog.csdn.net/qq_39818325/article/details/159213048)
+
++ [Duix-Avatar 去 Docker Desktop 本地化完整复盘](https://blog.csdn.net/u014451778/article/details/159211508)
+
