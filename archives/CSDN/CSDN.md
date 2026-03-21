@@ -145,3 +145,7 @@
 
 + [PyTorch实战（36）——PyTorch自动机器学习](https://blog.csdn.net/LOVEmy134611/article/details/151221323)
 
++ [Spring AI Alibaba 1.x 系列【2】架构、特性与生产级演示案例](https://blog.csdn.net/qq_43437874/article/details/159284187)
+
++ [【GitHub项目推荐--Lossless-Claw：OpenClaw 的无损上下文管理插件】](https://blog.csdn.net/j8267643/article/details/159251430)
+

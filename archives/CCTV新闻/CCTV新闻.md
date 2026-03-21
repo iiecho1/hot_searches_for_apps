@@ -163,3 +163,5 @@
 
 + [伊朗称击中以色列F-16战机 以军称战机未受损](https://news.cctv.com/2026/03/22/ARTIpjQ4VARYxaRu8CArEuZV260321.shtml)
 
++ [中东战事导致“气紧” 欧盟委员建议各国下调储气目标](https://news.cctv.com/2026/03/22/ARTIfG0qFKsb2nQXsUmzHZYZ260321.shtml)
+
