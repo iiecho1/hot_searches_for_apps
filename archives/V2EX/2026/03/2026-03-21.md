@@ -39,3 +39,9 @@
 
 + [你真的敢让 AI 自主编写代码吗？](https://www.v2ex.com/t/1199934)
 
++ [iPhone 是真 TM 难用](https://www.v2ex.com/t/1199995)
+
++ [一个晚上撸出来的&lt;V2EX 用户画像分析&gt;小工具](https://www.v2ex.com/t/1199967)
+
++ [最近 V2 几乎被各种 AI 中转帖子占领了](https://www.v2ex.com/t/1199927)
+
