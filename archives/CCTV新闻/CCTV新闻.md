@@ -169,3 +169,5 @@
 
 + [韩国大田工厂火灾已致10人死亡](https://news.cctv.com/2026/03/21/ARTIz6jGpiOQOaIqs5VKIykV260321.shtml)
 
++ [韩国大田工厂火灾已致10死69伤](https://news.cctv.com/2026/03/21/ARTI5xLrsuBHJ8PxjMzJ5o9k260321.shtml)
+
