@@ -153,3 +153,5 @@
 
 + [从零开源：如何将自定义 AI Skill 发布到 GitHub](https://blog.csdn.net/weixin_65106708/article/details/159320643)
 
++ [AI 时代前端框架选型：React 核心原理与 SocialVibe 项目实战解析](https://blog.csdn.net/m0_59012280/article/details/158661254)
+

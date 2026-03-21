@@ -49,3 +49,5 @@
 
 + [分析师：苹果首款大折叠手机 iPhone Fold 预计到今年 12 月才会发货、Air 机型销量不佳致 18 Plus 有望“复活”](https://m.ithome.com/html/930818.htm)
 
++ [小米汽车谈为何未公布新一代 SU7 大定量：锁单量数据“更真实”](https://m.ithome.com/html/931162.htm)
+
