@@ -4,15 +4,22 @@ import os
 import shutil
 from urllib.parse import quote
 
-def get_api_data(url):
-    """从 API 获取数据"""
-    try:
-        response = requests.get(url)
-        response.raise_for_status()  # 检查 HTTP 状态码
-        return response.json()  # 返回 JSON 数据
-    except requests.exceptions.RequestException as e:
-        print(f"请求 API 时发生错误: {e}")
-        return None
+MAX_RETRIES = 3
+RETRY_DELAY = 3  # 秒
+REQUEST_TIMEOUT = 30  # 秒
+
+def get_api_data(url, retries=MAX_RETRIES):
+    """从 API 获取数据，带重试"""
+    for attempt in range(1, retries + 1):
+        try:
+            response = requests.get(url, timeout=REQUEST_TIMEOUT)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"请求 API 失败 (第 {attempt}/{retries} 次): {e}")
+            if attempt < retries:
+                time.sleep(RETRY_DELAY * attempt)
+    return None
 
 def read_markdown(file_path):
     """读取 Markdown 文件内容"""
@@ -30,6 +37,17 @@ def ensure_directory_exists(path):
     """确保目录存在，如果不存在则创建"""
     os.makedirs(path, exist_ok=True)
 
+def extract_existing_titles(existing_content):
+    """从已有内容中提取所有标题，用于精确去重"""
+    titles = set()
+    for line in existing_content.split('\n'):
+        if line.startswith('+ ['):
+            # 提取 [+ [title](url)] 中的 title
+            end = line.find('](')
+            if end > 3:
+                titles.add(line[3:end])
+    return titles
+
 def process_api_data(api_data, base_path):
     """处理 API 数据并保存到 Markdown 文件"""
     if not api_data or 'obj' not in api_data:
@@ -40,17 +58,19 @@ def process_api_data(api_data, base_path):
     year, month, day = current_date.split("-")
 
     for key, items in api_data['obj'].items():
-        if not items:  # 如果 items 为 None 或空列表，跳过
+        if not items:
             print(f"键 '{key}' 的数据为空，跳过处理")
             continue
 
-        # 提取标题和链接
         titles = [item.get("title") for item in items if item.get("title")]
         hrefs = [item.get("url") for item in items if item.get("url")]
 
         if not titles or not hrefs:
             print(f"键 '{key}' 的数据缺失标题或链接，跳过处理")
             continue
+
+        if len(titles) != len(hrefs):
+            print(f"键 '{key}' 的标题({len(titles)})和链接({len(hrefs)})数量不一致，取较短的")
 
         # 创建目录
         archive_path = os.path.join(base_path, 'archives', key, year, month)
@@ -60,8 +80,9 @@ def process_api_data(api_data, base_path):
         markdown_file = os.path.join(archive_path, f'{current_date}.md')
         root_file = os.path.join(base_path, 'archives', key, f'{key}.md')
 
-        # 读取现有内容
+        # 读取现有内容并提取已有标题（精确去重）
         existing_content = read_markdown(markdown_file)
+        existing_titles = extract_existing_titles(existing_content)
 
         # 写入新内容
         if not existing_content:
@@ -69,16 +90,12 @@ def process_api_data(api_data, base_path):
 
         new_content = ""
         for title, href in zip(titles, hrefs):
-            print("title",title, "href:",href)
-            if title not in existing_content:
-                # 检查 URL 是否已经编码
-                if '%' in href and any(c in href for c in ['%20', '%23', '%3F', '%3D', '%26']):
-                    # URL 已经编码，直接使用
-                    encoded_href = href
-                else:
-                    # URL 未编码，进行编码
-                    encoded_href = quote(href, safe=":/=?&")
-                new_content += f"+ [{title}]({encoded_href})\n\n"
+            print("title", title, "href:", href)
+            if title in existing_titles:
+                continue
+            existing_titles.add(title)  # 防止同批次内重复
+            encoded_href = quote(href, safe=":/=?&@#")
+            new_content += f"+ [{title}]({encoded_href})\n\n"
 
         if new_content:
             write_markdown(markdown_file, new_content)
