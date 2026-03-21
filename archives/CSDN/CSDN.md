@@ -149,3 +149,7 @@
 
 + [【GitHub项目推荐--Lossless-Claw：OpenClaw 的无损上下文管理插件】](https://blog.csdn.net/j8267643/article/details/159251430)
 
++ [058.Kubernetes cert-manager 申请证书及ingress注解介绍](https://blog.csdn.net/tagaochen1276/article/details/159290896)
+
++ [从零开源：如何将自定义 AI Skill 发布到 GitHub](https://blog.csdn.net/weixin_65106708/article/details/159320643)
+
