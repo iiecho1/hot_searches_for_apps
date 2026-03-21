@@ -179,3 +179,7 @@
 
 + [消息人士称美国正计划夺取伊朗“核储备”](https://news.cctv.com/2026/03/21/ARTIsdOAMpfdP9ifj4TJE4Zv260321.shtml)
 
++ [俄罗斯拉多加湖：绚丽极光](https://photo.cctv.com/2026/03/21/PHOAH7Bc0ztnZOgzqtfjiq3A260321.shtml)
+
++ [走进马达加斯加拉努马法纳国家公园](https://photo.cctv.com/2026/03/21/PHOAJJyCKhnbbaM3efEcGdMc260321.shtml)
+
