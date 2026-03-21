@@ -55,3 +55,5 @@
 
 + [商务部部长王文涛会见苹果公司首席执行官库克](https://m.ithome.com/html/931082.htm)
 
++ [分析师：苹果首款大折叠手机 iPhone Fold 预计到今年 12 月才会发货、Air 机型销量不佳致 18 Plus 有望“复活”](https://m.ithome.com/html/930818.htm)
+

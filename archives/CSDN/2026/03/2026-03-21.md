@@ -175,3 +175,13 @@
 
 + [ReactNative for OpenHarmony项目鸿蒙化三方库：@react-native-picker](https://blog.csdn.net/dh45498/article/details/159289966)
 
++ [Spring AOP 进阶：揭秘 @annotation 参数绑定的底层逻辑](https://blog.csdn.net/m0_60277481/article/details/159289088)
+
++ [基于微信小程序原生框架搭建的转盘小程序1.0（附源码）](https://blog.csdn.net/qq_29528701/article/details/159290383)
+
++ [TypeScript+Vue 实战：告别 any 滥用，统一接口 / Props / 表单类型，实现类型安全｜编码语法规范篇](https://blog.csdn.net/summer_tulip/article/details/159315318)
+
++ [FPGA实现量子计算机仿真器重要论文](https://blog.csdn.net/zkmrobot/article/details/159214432)
+
++ [OpenClaw 阿里云部署实战：从服务器搭建到 QQ 端接入使用](https://blog.csdn.net/2401_88203490/article/details/159240818)
+

@@ -189,3 +189,5 @@
 
 + [伊朗敦促阿联酋哈伊马角居民撤离](https://news.cctv.com/2026/03/21/ARTIXgUZdJc0mJrqwu87vs7E260321.shtml)
 
++ [韩国大田工厂火灾确认14人遇难](https://news.cctv.com/2026/03/21/ARTITtFk8chrp8GGJc9WO90o260321.shtml)
+
