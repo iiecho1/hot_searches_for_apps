@@ -175,3 +175,5 @@
 
 + [国际金价与银价20日下跌](https://news.cctv.com/2026/03/21/ARTItQS0xZx50Svk3HxCNq9e260321.shtml)
 
++ [韩国大田工厂火灾遇难人数升至11人](https://news.cctv.com/2026/03/21/ARTIvnP3wiycQ7U6KHJbQjKF260321.shtml)
+

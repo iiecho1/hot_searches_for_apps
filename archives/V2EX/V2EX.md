@@ -37,3 +37,5 @@
 
 + [gemini 给我推荐的补剂方案合理吗?](https://www.v2ex.com/t/1199784)
 
++ [你真的敢让 AI 自主编写代码吗？](https://www.v2ex.com/t/1199934)
+

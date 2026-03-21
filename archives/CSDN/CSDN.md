@@ -151,3 +151,7 @@
 
 + [基于协同过滤算法的理财产品推荐系统-flask](https://blog.csdn.net/shmp54xmu/article/details/159284539)
 
++ [PyTorch张量API核心全解：夯实深度学习根基，一篇吃透核心操作](https://blog.csdn.net/2503_92624912/article/details/159316013)
+
++ [校园招聘系统](https://blog.csdn.net/2302_77293761/article/details/159254245)
+
