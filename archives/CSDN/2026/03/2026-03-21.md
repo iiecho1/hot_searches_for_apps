@@ -141,3 +141,13 @@
 
 + [海量时序数据选型指南：从大数据架构演进看 Apache IoTDB 的崛起](https://blog.csdn.net/qq_57761637/article/details/159251832)
 
++ [OpenClaw CLI 完整命令手册](https://blog.csdn.net/sinat_41617212/article/details/159254270)
+
++ [机器学习经典算法全景解析与演进脉络（监督学习篇）](https://blog.csdn.net/dongke1991/article/details/159287990)
+
++ [SkyWalking - Dubbo 服务调用链监控：跨进程上下文传递](https://blog.csdn.net/qq_41187124/article/details/157511429)
+
++ [【高等数学】四,不定积分](https://blog.csdn.net/he_zhidan/article/details/158661330)
+
++ [基于协同过滤算法的理财产品推荐系统-flask](https://blog.csdn.net/shmp54xmu/article/details/159284539)
+

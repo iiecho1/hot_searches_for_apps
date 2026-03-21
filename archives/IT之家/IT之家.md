@@ -47,3 +47,11 @@
 
 + [华为成立传媒军团：公司副总裁岳坤为 CEO，杜仲夏出任总裁](https://m.ithome.com/html/930941.htm)
 
++ [新阿维塔 12 预售：29.99 万-43.99 万元，标配华为 896 线激光雷达 / 零百最快 2.71 秒](https://m.ithome.com/html/931142.htm)
+
++ [用 iPhone 17 Pro Max 拍摄竖屏武侠功夫短片，苹果 CEO 库克探班片场](https://m.ithome.com/html/931076.htm)
+
++ [小米汽车谈为何未公布新一代 SU7 大定量：锁单量数据“更真实”](https://m.ithome.com/html/931162.htm)
+
++ [商务部部长王文涛会见苹果公司首席执行官库克](https://m.ithome.com/html/931082.htm)
+

@@ -171,3 +171,7 @@
 
 + [韩国大田工厂火灾已致10死69伤](https://news.cctv.com/2026/03/21/ARTI5xLrsuBHJ8PxjMzJ5o9k260321.shtml)
 
++ [墨西哥总统要求美就墨公民在美羁押期间死亡事件进行深入调查](https://news.cctv.com/2026/03/21/ARTIE6f05NVDgHki4oSpDbQv260321.shtml)
+
++ [国际金价与银价20日下跌](https://news.cctv.com/2026/03/21/ARTItQS0xZx50Svk3HxCNq9e260321.shtml)
+
