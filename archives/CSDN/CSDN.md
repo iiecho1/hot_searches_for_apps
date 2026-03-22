@@ -163,3 +163,9 @@
 
 + [用Pygame开发你的第一个小游戏](https://blog.csdn.net/2401_88497061/article/details/159290813)
 
++ [SkyWalking - 数据采样策略：100% 追踪 vs 智能采样平衡成本](https://blog.csdn.net/qq_41187124/article/details/157511731)
+
++ [基于YOLOv8的行人车辆检测系统](https://blog.csdn.net/m0_61028090/article/details/159291183)
+
++ [【网络】TCP与HTTP：网络通信的核心机制解析](https://blog.csdn.net/weixin_42383981/article/details/159282103)
+
