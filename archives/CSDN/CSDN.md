@@ -193,3 +193,15 @@
 
 + [Vue Router 权限路由：动态路由、导航守卫与白名单的工程落地](https://blog.csdn.net/alkamgg/article/details/159323796)
 
++ [Weclaw 混合通讯架构实战：HTTP+SSE+WebSocket的三元融合如何支撑起整个 AI 助手的实时对话？](https://blog.csdn.net/yweng18/article/details/159289599)
+
++ [SkyWalking - 存储优化：Elasticsearch 索引生命周期管理（ILM）](https://blog.csdn.net/qq_41187124/article/details/157511984)
+
++ [异常的介绍和使用](https://blog.csdn.net/2501_93654724/article/details/159349582)
+
++ [ReactNative for OpenHarmony项目鸿蒙化三方库：react-native-webview — 网页渲染组件](https://blog.csdn.net/dh45498/article/details/159290457)
+
++ [1.4 分组交换网中的时延、丢包和吞吐量 | 《计算机网络：自顶向下方法》精读版](https://blog.csdn.net/Du_chong_huan/article/details/159324473)
+
++ [MS17-010 永恒之蓝漏洞渗透实验｜Kali+Windows实操全步骤](https://blog.csdn.net/2301_82218846/article/details/159324183)
+
