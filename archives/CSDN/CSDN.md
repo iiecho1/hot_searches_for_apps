@@ -169,3 +169,11 @@
 
 + [【网络】TCP与HTTP：网络通信的核心机制解析](https://blog.csdn.net/weixin_42383981/article/details/159282103)
 
++ [Flume中的负载均衡Sink：原理详解与优化实践](https://blog.csdn.net/qq_41840843/article/details/158572879)
+
++ [深度学习实战-基于CNN卷积神经网络的肺癌和结直肠癌图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157614052)
+
++ [为什么顶级团队开始重押 Harness Engineering？AI Agent 时代的底层答案来了](https://blog.csdn.net/fyfugoyfa/article/details/159080607)
+
++ [GeoJSON 在大数据场景下为什么不够用？替代方案分析](https://blog.csdn.net/qq_34451215/article/details/159318990)
+

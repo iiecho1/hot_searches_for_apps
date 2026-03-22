@@ -51,3 +51,9 @@
 
 + [小米汽车谈为何未公布新一代 SU7 大定量：锁单量数据“更真实”](https://m.ithome.com/html/931162.htm)
 
++ [微信 iOS 版 8.0.70 最新官方正式版下载发布](https://m.ithome.com/html/931358.htm)
+
++ [小米汽车加速国际化布局，多辆 SU7、YU7 原型现身欧洲多国](https://m.ithome.com/html/931280.htm)
+
++ [月之暗面回应“Cursor 使用 Kimi K2.5 作为 AI 底座”事件，另外感谢马斯克发声](https://m.ithome.com/html/931246.htm)
+
