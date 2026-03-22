@@ -131,3 +131,5 @@
 
 + [未来展望： 当 AGI（通用人工智能）出现，网络安全是否会消失？](https://blog.csdn.net/oQianYuan/article/details/159291178)
 
++ [Profinet转MODBUS TCP汽车零部件工业自动化柔性产线方案](https://blog.csdn.net/taxunjishu/article/details/159319208)
+
