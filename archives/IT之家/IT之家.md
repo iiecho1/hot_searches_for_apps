@@ -57,3 +57,7 @@
 
 + [月之暗面回应“Cursor 使用 Kimi K2.5 作为 AI 底座”事件，另外感谢马斯克发声](https://m.ithome.com/html/931246.htm)
 
++ [鸿蒙智行尚界 Z7/Z7T 车型 10 款车色亮相，多款轮毂可选](https://m.ithome.com/html/931297.htm)
+
++ [雷军：小米新一代 SU7 车型 3 月 23 日正式开启交付，将直播首交仪式](https://m.ithome.com/html/931338.htm)
+
