@@ -55,3 +55,5 @@
 
 + [最近 Claude Opus 4.6 咋时不时的用韩文？](https://www.v2ex.com/t/1200155)
 
++ [Gemini 真是天才](https://www.v2ex.com/t/1200172)
+
