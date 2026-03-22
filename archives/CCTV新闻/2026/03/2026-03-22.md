@@ -183,3 +183,11 @@
 
 + [汤加群岛发生6.2级地震，震源深度10千米](https://news.cctv.com/2026/03/22/ARTIPnBYTuNe7fyP9m9ytWq8260322.shtml)
 
++ [世卫组织：苏丹冲突以来医疗机构遇袭已致逾2000人死亡](https://news.cctv.com/2026/03/22/ARTIeKzdEJ7QuQ6Ai5uHMSEW260322.shtml)
+
++ [魔幻的美国防长，更魔幻的五角大楼](https://news.cctv.com/2026/03/22/ARTIZFIqxkarnsVetsd7W6tj260322.shtml)
+
++ [法国企业看好中国冰雪产业前景——“中国滑雪市场正逐步形成具有自身特色的发展模式”](https://news.cctv.com/2026/03/22/ARTI5uVEeMGRSADuzY6bmV7k260322.shtml)
+
++ [中国稳定发展为动荡的世界注入宝贵的确定性](https://news.cctv.com/2026/03/22/ARTIcEmLmRriVCQ4fj5WGsNJ260322.shtml)
+
