@@ -161,3 +161,7 @@
 
 + [俄罗斯发射“联盟-2.1a”运载火箭 向国际空间站运送物资](https://news.cctv.com/2026/03/23/ARTITBveFMACjG64TmPp5O2g260323.shtml)
 
++ [金正恩被再次推举为朝鲜国务委员长](https://news.cctv.com/2026/03/23/ARTI78zC7mWymyaCplw8rhU6260323.shtml)
+
++ [美国务院建议全球各地美国公民提高警惕](https://news.cctv.com/2026/03/23/ARTIhomKQGI4VKYAKNdtpscw260323.shtml)
+
