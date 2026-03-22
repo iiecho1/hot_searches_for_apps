@@ -19,3 +19,21 @@
 
 + [louis-e/arnis](https://github.com/louis-e/arnis)
 
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+
++ [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+
++ [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
++ [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
+
++ [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+
++ [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
++ [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+

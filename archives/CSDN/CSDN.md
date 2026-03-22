@@ -185,3 +185,11 @@
 
 + [Vue3 样式实战：scoped + 深度选择器 + BEM 规范，解决冲突与穿透失效｜Vue 组件与模板规范篇](https://blog.csdn.net/summer_tulip/article/details/159337196)
 
++ [【花雕学编程】Arduino BLDC 之机械臂关节动态目标跟踪（多轴协同）](https://blog.csdn.net/weixin_41659040/article/details/159313667)
+
++ [python实战4:部署 Streamlit 到公网——Streamlit Community Cloud 超详细教程](https://blog.csdn.net/2501_91542670/article/details/159324173)
+
++ [从0到1：搭建Spring Boot 3企业级认证授权平台](https://blog.csdn.net/qq_32890771/article/details/159322700)
+
++ [Vue Router 权限路由：动态路由、导航守卫与白名单的工程落地](https://blog.csdn.net/alkamgg/article/details/159323796)
+
