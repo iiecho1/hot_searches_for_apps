@@ -101,3 +101,33 @@
 
 + [项目优化-vite打包优化](https://blog.csdn.net/m0_48968432/article/details/159323543)
 
++ [《一人公司》读书笔记：一人公司的本质，把自己活成一套可复利的系统](https://blog.csdn.net/GODYAD/article/details/159324462)
+
++ [3个致命误区：Semantic Kernel Prompt提示词从失败到精通的蜕变](https://blog.csdn.net/z_344791576/article/details/151920914)
+
++ [机器学习经典算法全景解析与演进脉络（无监督学习篇）](https://blog.csdn.net/dongke1991/article/details/159288169)
+
++ [OpenClaw Gateway 服务：启动、停止、监控](https://blog.csdn.net/sinat_41617212/article/details/159290829)
+
++ [Docker 环境下 Redis Lua 脚本部署与执行](https://blog.csdn.net/2501_93491346/article/details/159280110)
+
++ [文章十：ElasticSearch索引字段高级属性](https://blog.csdn.net/hdk5855/article/details/159323988)
+
++ [树莓派4b部署yolov8遇到无法联网以及illegal instruction问题及解决方案](https://blog.csdn.net/weixin_69884880/article/details/159354874)
+
++ [2026年IDEA、PyCharm等专业版学生免费申请教育许可证](https://blog.csdn.net/2401_87660168/article/details/159288842)
+
++ [基于Canal实现MySQL到Elasticsearch的数据同步](https://blog.csdn.net/u013007181/article/details/159288307)
+
++ [Openclaw（本地部署+个人微信）ClawBot插件【原理解析一】](https://blog.csdn.net/i_k_o_x_s/article/details/159352899)
+
++ [编程学习不用愁❗CodeCombat 游戏化学习 + cpolar内网穿透，走到哪学到哪](https://blog.csdn.net/EterNity_TiMe_/article/details/159317518)
+
++ [MS17-010 永恒之蓝漏洞渗透实验｜Kali+Windows实操全步骤](https://blog.csdn.net/2301_82218846/article/details/159324183)
+
++ [位图与布隆过滤器：原理、实现与海量数据处理方案](https://blog.csdn.net/2302_80105876/article/details/158234937)
+
++ [两级液氧甲烷不锈钢火箭安全系统总体方案与经济性分析](https://blog.csdn.net/honglinonline/article/details/159161505)
+
++ [未来展望： 当 AGI（通用人工智能）出现，网络安全是否会消失？](https://blog.csdn.net/oQianYuan/article/details/159291178)
+
