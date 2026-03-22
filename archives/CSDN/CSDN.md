@@ -205,3 +205,7 @@
 
 + [MS17-010 永恒之蓝漏洞渗透实验｜Kali+Windows实操全步骤](https://blog.csdn.net/2301_82218846/article/details/159324183)
 
++ [从SQL注入到XSS：实战Web安全渗透测试](https://blog.csdn.net/xixixi7777/article/details/159323019)
+
++ [未来展望： 当 AGI（通用人工智能）出现，网络安全是否会消失？](https://blog.csdn.net/oQianYuan/article/details/159291178)
+
