@@ -177,3 +177,7 @@
 
 + [GeoJSON 在大数据场景下为什么不够用？替代方案分析](https://blog.csdn.net/qq_34451215/article/details/159318990)
 
++ [Linux：基于socket套接字写的简易英译汉翻译服务器](https://blog.csdn.net/2503_91101239/article/details/159285661)
+
++ [OpenClaw 切换其他大模型（以DeepSeek为例）](https://blog.csdn.net/m0_66434421/article/details/159324190)
+

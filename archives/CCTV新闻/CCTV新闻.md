@@ -181,3 +181,5 @@
 
 + [伊朗称允许非“敌方”船只通过霍尔木兹海峡](https://news.cctv.com/2026/03/22/ARTI7EesuaphVzD5i5ccskWb260322.shtml)
 
++ [汤加群岛发生6.2级地震，震源深度10千米](https://news.cctv.com/2026/03/22/ARTIPnBYTuNe7fyP9m9ytWq8260322.shtml)
+

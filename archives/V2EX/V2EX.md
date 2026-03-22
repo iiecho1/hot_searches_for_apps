@@ -41,3 +41,7 @@
 
 + [ MacBook Air M5 相当于只花了 5300 多元✌️](https://www.v2ex.com/t/1200050)
 
++ [Claude Code 最近风控力度加大，太容易封账号了，已经连续封了 3 个了](https://www.v2ex.com/t/1200112)
+
++ [理论上来说最优的新能源方案是不是使用甲醇/乙醇燃料电池？](https://www.v2ex.com/t/1200106)
+
