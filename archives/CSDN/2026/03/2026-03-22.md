@@ -155,3 +155,11 @@
 
 + [AI 时代前端框架选型：React 核心原理与 SocialVibe 项目实战解析](https://blog.csdn.net/m0_59012280/article/details/158661254)
 
++ [C# ASP.NET Identity 授权实战：[Authorize (Roles=“Admin“)] 仅管理员访问（避坑 + 图解）](https://blog.csdn.net/William_cl/article/details/159323676)
+
++ [一文读懂蓝牙 PACS：让设备彼此知晓音频能力](https://blog.csdn.net/weixin_37800531/article/details/159253824)
+
++ [【OpenClaw 全面解析：从零到精通】第 010 篇：OpenClaw多渠道接入：WhatsApp、Telegram、飞书等](https://blog.csdn.net/xyghehehehe/article/details/159291050)
+
++ [用Pygame开发你的第一个小游戏](https://blog.csdn.net/2401_88497061/article/details/159290813)
+
