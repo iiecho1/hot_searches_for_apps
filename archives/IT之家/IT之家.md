@@ -53,3 +53,5 @@
 
 + [雅迪冠能 i7、星舰 Ⅱ、白鲨 Ⅱ 电动车发布，4999 元起](https://m.ithome.com/html/931545.htm)
 
++ [小米推出 2026 款 REDMI 电视新品：100 英寸 8799 元](https://m.ithome.com/html/931418.htm)
+

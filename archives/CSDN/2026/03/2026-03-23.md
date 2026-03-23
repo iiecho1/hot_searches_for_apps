@@ -223,3 +223,15 @@
 
 + [树莓派搭建便携弱网测试网关：基于 Facebook ATC 的实践指南](https://blog.csdn.net/weixin_42878111/article/details/159387836)
 
++ [【AI智能体】最强AI编程利器 Claude Code 从部署到项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/159355711)
+
++ [Openclaw（本地部署+个人微信）ClawBot插件【原理解析二】](https://blog.csdn.net/i_k_o_x_s/article/details/159353292)
+
++ [C++ STL set 系列深度解析：从底层原理、核心接口到实战场景](https://blog.csdn.net/2501_91275995/article/details/159350386)
+
++ [【GaussDB】GaussDB 重要内存参数设置](https://blog.csdn.net/GaussDB/article/details/159388453)
+
++ [自建私有仪表盘：Dashlet 部署与公网访问全教程](https://blog.csdn.net/2301_81152266/article/details/159388325)
+
++ [第 6 篇｜YOLOv8 实战：从零开始训练自己的数据集（详细步骤 + 避坑指南）](https://blog.csdn.net/2501_93438983/article/details/159282472)
+
