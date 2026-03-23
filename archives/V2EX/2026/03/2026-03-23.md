@@ -41,3 +41,11 @@
 
 + [想问问大家， Intel 芯片的 Mac 装 windows 系统，体验如何？](https://www.v2ex.com/t/1200183)
 
++ [黄金入手节点](https://www.v2ex.com/t/1200249)
+
++ [据称舒淇没驾照、不开车，代言 SU7 这款运动型车，不搭么？](https://www.v2ex.com/t/1200325)
+
++ [跌的这么狠，抄底吗抄底吗抄底吗，博一下，再不济也会有超跌反弹吧](https://www.v2ex.com/t/1200300)
+
++ [恐飞越来越严重了](https://www.v2ex.com/t/1200397)
+

@@ -185,3 +185,9 @@
 
 + [世界气象组织：地球能量失衡程度达新高](https://news.cctv.com/2026/03/23/ARTIs7lhjwdKq1P5Geeh6ESL260323.shtml)
 
++ [印尼中爪哇：民众放飞七彩热气球庆祝开斋节](https://photo.cctv.com/2026/03/23/PHOAVmoX8qxxiN85AUm0akBP260323.shtml)
+
++ [伊朗称美以多层防御网络已崩溃 整体战局正在扭转](https://news.cctv.com/2026/03/23/ARTIT62Lhw6sYGnyPPSCsQjf260323.shtml)
+
++ [美被曝考虑地面行动夺取伊朗哈尔克岛](https://news.cctv.com/2026/03/23/ARTIT2NDiJKNKl68MXxcjIDG260323.shtml)
+
