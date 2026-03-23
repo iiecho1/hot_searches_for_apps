@@ -209,3 +209,11 @@
 
 + [AI 原生架构：鸿蒙App的下一代形态](https://blog.csdn.net/qq_36863796/article/details/159288668)
 
++ [Linux System V标准简介](https://blog.csdn.net/yhrxh_ymq/article/details/159380819)
+
++ [基于YOLO26深度学习的【桃子成熟度检测与分割系统】【python源码+Pyqt5界面+数据集+训练代码】图像分割、人工智能](https://blog.csdn.net/qq_42589613/article/details/159349985)
+
++ [Spring Boot + JWT + RBAC 权限系统实战，从登录鉴权到接口级权限控制完整落地](https://blog.csdn.net/sixpp/article/details/159321362)
+
++ [基于SpringBoot的校园二手书籍交易系统【个性化推荐+数据可视化统计+我买到的+我卖出的】](https://blog.csdn.net/2301_78335941/article/details/159357125)
+
