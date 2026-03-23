@@ -235,3 +235,11 @@
 
 + [第 6 篇｜YOLOv8 实战：从零开始训练自己的数据集（详细步骤 + 避坑指南）](https://blog.csdn.net/2501_93438983/article/details/159282472)
 
++ [【Coze-AI智能体平台】解锁 Coze 工作流：逻辑控制・数据处理・AIGC 多媒体全场景实战](https://blog.csdn.net/2401_87342824/article/details/159349427)
+
++ [用 Python 搭建本地 AI 问答系统：避开 90% 新手都会踩的环境坑](https://blog.csdn.net/2401_86326742/article/details/159356222)
+
++ [【Linux】网络之http协议](https://blog.csdn.net/2403_87165176/article/details/158975463)
+
++ [面向工业物联网的大数据底座选型：Apache IoTDB 的架构能力与落地价值分析](https://blog.csdn.net/m0_55394328/article/details/159391355)
+
