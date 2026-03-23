@@ -129,3 +129,5 @@
 
 + [基于SpringBoot的校园二手书籍交易系统【个性化推荐+数据可视化统计+我买到的+我卖出的】](https://blog.csdn.net/2301_78335941/article/details/159357125)
 
++ [Openclaw（本地部署+个人微信）ClawBot插件【原理解析一】](https://blog.csdn.net/i_k_o_x_s/article/details/159352899)
+
