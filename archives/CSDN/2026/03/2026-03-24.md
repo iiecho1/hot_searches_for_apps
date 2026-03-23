@@ -131,3 +131,5 @@
 
 + [Openclaw（本地部署+个人微信）ClawBot插件【原理解析一】](https://blog.csdn.net/i_k_o_x_s/article/details/159352899)
 
++ [基于多因子定价模型解析：美元强势与利率预期重构驱动的金价8连跌机制](https://blog.csdn.net/2501_90863642/article/details/159382484)
+
