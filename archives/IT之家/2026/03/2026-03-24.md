@@ -25,3 +25,27 @@
 
 + [蔚来李斌、长城魏建军为什么没来新一代小米 SU7 发布会？雷军回应](https://m.ithome.com/html/931651.htm)
 
++ [腾讯发布微信“龙虾”插件 ClawBot 官方使用教程：打通聊天界面与 OpenClaw 操作，QClaw、WorkBuddy、Lighthouse 同步开放连接](https://m.ithome.com/html/931431.htm)
+
++ [华为 Mate 80 Pro Max 风驰版手机登陆官网：极夜黑 / 极昼金双配色，最高 16GB+1TB 规格](https://m.ithome.com/html/931391.htm)
+
++ [网剧《逐玉》片源遭泄露，官方发布反盗版声明呼吁观众不购买、不观看、不传播](https://m.ithome.com/html/931454.htm)
+
++ [微信新增 ClawBot 官方插件，随时随地操控 OpenClaw“小龙虾”](https://m.ithome.com/html/931382.htm)
+
++ [消息称零跑汽车进行内部反腐，已有超千万元主动上缴](https://m.ithome.com/html/931535.htm)
+
++ [24G LPDDR5X 内存 + 1T UFS4.0 存储 + 骁龙 8 至尊仅 3726 元，努比亚 Z70 Ultra 新低](https://m.ithome.com/html/931482.htm)
+
++ [曝某厂新机继续增强音质 + 马达、测试 2 亿像素主摄，预计为小米 REDMI K100 Pro Max](https://m.ithome.com/html/931522.htm)
+
++ [华为再次在欧洲起诉迪士尼，指控其侵犯 HEVC 视频编码专利](https://m.ithome.com/html/931447.htm)
+
++ [雷军感谢央视肯定，称希望把 SU7 打造成小米的传奇车型](https://m.ithome.com/html/931388.htm)
+
++ [苹果 CEO 蒂姆 &#183; 库克：迫不及待想看看中国 AI 下一步进展](https://m.ithome.com/html/931461.htm)
+
++ [小米汽车回应新一代 SU7“底盘软”：可切换到运动模式，或通过自定义驾驶模式“特调”](https://m.ithome.com/html/931553.htm)
+
++ [雅迪冠能 i7、星舰 Ⅱ、白鲨 Ⅱ 电动车发布，4999 元起](https://m.ithome.com/html/931545.htm)
+

@@ -101,3 +101,31 @@
 
 + [【OpenClaw 全面解析：从零到精通】第 010 篇：OpenClaw多渠道接入：WhatsApp、Telegram、飞书等](https://blog.csdn.net/xyghehehehe/article/details/159291050)
 
++ [AI 原生架构：鸿蒙App的下一代形态](https://blog.csdn.net/qq_36863796/article/details/159288668)
+
++ [一文吃透Linux System V共享内存：原理+实操+避坑指南](https://blog.csdn.net/yhrxh_ymq/article/details/159319718)
+
++ [HarmonyOS 6 NDK开发系列1：音视频播放能力介绍](https://blog.csdn.net/sjw890821sjw/article/details/159397736)
+
++ [别把所有上下文都喂给 LLM —— Agent 架构中踩过的坑与三层上下文裁剪模式](https://blog.csdn.net/2301_81253185/article/details/159353028)
+
++ [ARM嵌入式学习（八）--- 汇编应用：点亮led](https://blog.csdn.net/EnglishJun/article/details/159354331)
+
++ [【Qt系统相关】Qt系统相关](https://blog.csdn.net/2402_82670467/article/details/159395541)
+
++ [《一键快速部署个人分布式算力网络》](https://blog.csdn.net/2302_79751907/article/details/159289987)
+
++ [如何在Windows下查看本机的IP地址](https://blog.csdn.net/minterdata/article/details/159321968)
+
++ [Portainer 实战：可视化管理 Docker并实现外网访问](https://blog.csdn.net/lbbxmx111/article/details/159397114)
+
++ [【GaussDB】GaussDB 重要内存参数设置](https://blog.csdn.net/GaussDB/article/details/159388453)
+
++ [功能测试、自动化测试、性能测试的区别？](https://blog.csdn.net/zhangsiyuan1998/article/details/159318102)
+
++ [2026 大模型 API 价格一览：GPT-5/Claude 4.6/Gemini 3/DeepSeek V3 费率实测对比](https://blog.csdn.net/ofoxcoding/article/details/159350722)
+
++ [【AIGC】Claude Code的CLAUDE.md加载时机与书写最佳实践](https://blog.csdn.net/Code_LT/article/details/159319786)
+
++ [基于SpringBoot的校园二手书籍交易系统【个性化推荐+数据可视化统计+我买到的+我卖出的】](https://blog.csdn.net/2301_78335941/article/details/159357125)
+
