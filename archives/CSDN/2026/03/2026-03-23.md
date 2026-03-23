@@ -205,3 +205,7 @@
 
 + [【AIGC】Claude Code Rules配置](https://blog.csdn.net/Code_LT/article/details/159316483)
 
++ [Sqoop主键冲突处理完全指南：从问题剖析到实战解决方案](https://blog.csdn.net/qq_41840843/article/details/158580103)
+
++ [AI 原生架构：鸿蒙App的下一代形态](https://blog.csdn.net/qq_36863796/article/details/159288668)
+

@@ -191,3 +191,11 @@
 
 + [美被曝考虑地面行动夺取伊朗哈尔克岛](https://news.cctv.com/2026/03/23/ARTIT2NDiJKNKl68MXxcjIDG260323.shtml)
 
++ [中国政府中东问题特使：中国谴责一切无差别攻击平民和非军事目标的情况](https://news.cctv.com/2026/03/23/ARTIq4p1MrGOCRCWtgEySf9C260323.shtml)
+
++ [伊朗称非交战国通过霍尔木兹海峡须先协调](https://news.cctv.com/2026/03/23/ARTIzLEpORZAj6KFHlG7Ujaf260323.shtml)
+
++ [国际金价盘中跌破每盎司4200美元](https://news.cctv.com/2026/03/23/ARTImN3hbRYJ3OlzY11bG8hw260323.shtml)
+
++ [美国纽约机场客机与消防车相撞 已致2人死亡](https://news.cctv.com/2026/03/23/ARTISXYZZOIF4yiVbBlRkEPE260323.shtml)
+
