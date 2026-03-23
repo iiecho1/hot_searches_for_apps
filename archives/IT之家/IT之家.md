@@ -49,3 +49,7 @@
 
 + [苹果 CEO 蒂姆 &#183; 库克：迫不及待想看看中国 AI 下一步进展](https://m.ithome.com/html/931461.htm)
 
++ [小米汽车回应新一代 SU7“底盘软”：可切换到运动模式，或通过自定义驾驶模式“特调”](https://m.ithome.com/html/931553.htm)
+
++ [雅迪冠能 i7、星舰 Ⅱ、白鲨 Ⅱ 电动车发布，4999 元起](https://m.ithome.com/html/931545.htm)
+

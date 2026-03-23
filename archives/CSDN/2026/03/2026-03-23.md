@@ -135,3 +135,11 @@
 
 + [Vue3 核心 API 深度解析：ref / reactive / computed / watch](https://blog.csdn.net/qq_41949807/article/details/159280151)
 
++ [斯坦福HAI官网完整版《2025 AI Index Report》全面解读](https://blog.csdn.net/kkiron/article/details/159354377)
+
++ [探秘小程序：为何拿不到 DOM 相关 API](https://blog.csdn.net/weixin_42554191/article/details/159277807)
+
++ [使用Flutter从0到1构建OpenHarmony/HarmonyOS应用](https://blog.csdn.net/qq_44160056/article/details/159355839)
+
++ [Gradle 是一个开源的、高度灵活的自动化构建工具。它的主要作用是帮助开发者自动化地完成软件的编译、测试、打包、发布和部署等一系列流程。](https://blog.csdn.net/ZhuBin365/article/details/159323026)
+
