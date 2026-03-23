@@ -31,3 +31,17 @@
 
 + [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
++ [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)
+
++ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
++ [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+
++ [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
+
++ [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
++ [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
++ [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+

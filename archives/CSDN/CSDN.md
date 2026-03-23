@@ -217,3 +217,9 @@
 
 + [基于SpringBoot的校园二手书籍交易系统【个性化推荐+数据可视化统计+我买到的+我卖出的】](https://blog.csdn.net/2301_78335941/article/details/159357125)
 
++ [【MySQL】第十三节—索引：底层原理、B + 树演进、操作实战](https://blog.csdn.net/lrq13965748542/article/details/159049772)
+
++ [深度学习实战-基于EffcientNetB0与MobileNetV3的植物病害图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157654466)
+
++ [树莓派搭建便携弱网测试网关：基于 Facebook ATC 的实践指南](https://blog.csdn.net/weixin_42878111/article/details/159387836)
+
