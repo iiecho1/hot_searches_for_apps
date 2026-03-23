@@ -143,3 +143,35 @@
 
 + [Gradle 是一个开源的、高度灵活的自动化构建工具。它的主要作用是帮助开发者自动化地完成软件的编译、测试、打包、发布和部署等一系列流程。](https://blog.csdn.net/ZhuBin365/article/details/159323026)
 
++ [技术拆解：P2P组网如何一键远程AI](https://blog.csdn.net/2302_78391795/article/details/159314524)
+
++ [【优选算法】(实战解析双指针的神奇奥秘)](https://blog.csdn.net/2401_87629362/article/details/159129865)
+
++ [【花雕学编程】Arduino BLDC 之使用6.5寸轮毂电机的智能动态跟随机器人底盘](https://blog.csdn.net/weixin_41659040/article/details/159354501)
+
++ [Java 实战：基于百度天气 API 实现海外城市实时天气获取](https://blog.csdn.net/yelangkingwuzuhu/article/details/159357583)
+
++ [【HarmonyOS 6.0】Network Kit 深度解析：TLS 认证全面支持国密证书](https://blog.csdn.net/weixin_74809706/article/details/159168805)
+
++ [EF Core 5大绝技：90%开发者都在用错的5个功能，你中招了吗？](https://blog.csdn.net/z_344791576/article/details/151920838)
+
++ [Spring Boot日志](https://blog.csdn.net/2301_81831660/article/details/159278979)
+
++ [Flume HDFS Sink小文件问题全解析：成因、影响与优化策略](https://blog.csdn.net/qq_41840843/article/details/158578473)
+
++ [基于 Flutter × Harmony6.0 的入侵检测系统：构建统计卡片](https://blog.csdn.net/weixin_52908342/article/details/157867918)
+
++ [OpenClaw 阿里云部署实战：从服务器搭建到 QQ 端接入使用](https://blog.csdn.net/2401_88203490/article/details/159240818)
+
++ [AI编程 codex使用](https://blog.csdn.net/qq_42883074/article/details/159356140)
+
++ [用Pygame开发你的第一个小游戏](https://blog.csdn.net/2401_87969387/article/details/159357339)
+
++ [TCP/IP协议](https://blog.csdn.net/jhlmx/article/details/142092990)
+
++ [【工具类】虚拟机 + Ubuntu 安全部署 OpenClaw，联动 Ollama 零成本解锁云端大模型](https://blog.csdn.net/grrrr_1/article/details/159213356)
+
++ [还在为 OpenClaw 复杂部署折腾？BitFun 龙虾版：扫码即连，手机远程指挥家里电脑跑大模型](https://blog.csdn.net/2501_92808144/article/details/159320592)
+
++ [网络安全HTTP协议的学习总结](https://blog.csdn.net/2403_88928245/article/details/158316639)
+

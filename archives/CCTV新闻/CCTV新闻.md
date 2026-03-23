@@ -165,3 +165,21 @@
 
 + [美国务院建议全球各地美国公民提高警惕](https://news.cctv.com/2026/03/23/ARTIhomKQGI4VKYAKNdtpscw260323.shtml)
 
++ [金正恩再次被推举为朝鲜国务委员长](https://news.cctv.com/2026/03/23/ARTI72CV5jaEZiyK1sarhZu0260323.shtml)
+
++ [宋赛当选老挝政府总理](https://news.cctv.com/2026/03/23/ARTI59kihPrSbWQD65wT71T1260323.shtml)
+
++ [我使馆再次提醒：摒弃侥幸心理，尽快回国或转移撤离](https://news.cctv.com/2026/03/23/ARTIo6JUmTBANVWTnBBWJvUn260323.shtml)
+
++ [老挝国会选举通伦为国家主席](https://news.cctv.com/2026/03/23/ARTIor9hzwR1PIUNBGAOsX21260323.shtml)
+
++ [北美观察丨“最后通牒”之下：霍尔木兹危机走到关键时刻](https://news.cctv.com/2026/03/23/ARTI1QGkyyrfzqrx098zI3s7260323.shtml)
+
++ [法国社会党人格雷瓜尔当选巴黎市长](https://news.cctv.com/2026/03/23/ARTIfIZEyqPW8nqkwWQB0yv1260323.shtml)
+
++ [天线故障 俄货运飞船需人工操控与空间站对接](https://news.cctv.com/2026/03/23/ARTIqJCCx6EVLXBmxRmZSIgL260323.shtml)
+
++ [伊朗南部的国家广播电视机构设施遭袭](https://news.cctv.com/2026/03/23/ARTI3uRzbhPONYcaSVIPSzvk260323.shtml)
+
++ [特朗普借电视短剧嘲讽英国首相](https://news.cctv.com/2026/03/23/ARTIlXVhFOygf5rsGgX8pX17260323.shtml)
+
