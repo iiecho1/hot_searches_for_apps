@@ -37,3 +37,7 @@
 
 + [板鞋，我愿称之为美丽刑具](https://www.v2ex.com/t/1200150)
 
++ [4 offer 选择？](https://www.v2ex.com/t/1200284)
+
++ [想问问大家， Intel 芯片的 Mac 装 windows 系统，体验如何？](https://www.v2ex.com/t/1200183)
+

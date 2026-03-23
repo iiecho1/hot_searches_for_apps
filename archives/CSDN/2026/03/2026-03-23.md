@@ -175,3 +175,21 @@
 
 + [网络安全HTTP协议的学习总结](https://blog.csdn.net/2403_88928245/article/details/158316639)
 
++ [YOLO26+SAM3实战教程：从检测到分割，一键搞定目标掩码生成【附源码】](https://blog.csdn.net/qq_42589613/article/details/159319721)
+
++ [【HFP】规范精讲[12]: HFP扩展能力揭秘——指示器控制、呼叫转移与时长统计](https://blog.csdn.net/weixin_37800531/article/details/159254136)
+
++ [JDBC批量执行UPDATE语句原理详解](https://blog.csdn.net/lilinhai548/article/details/159201604)
+
++ [如何配置OpenClaw的模型参数？](https://blog.csdn.net/yangzhihua/article/details/159319556)
+
++ [How to Use Firewalld Direct Rules for Advanced Packet Filtering on RHEL](https://blog.csdn.net/allway2/article/details/159353652)
+
++ [PyTorch实战（37）——使用Optuna搜索最优超参数](https://blog.csdn.net/LOVEmy134611/article/details/151226890)
+
++ [2026年国内使用GPT/Claude/Gemini全攻略：聚合镜像站深度实测](https://blog.csdn.net/zzh94077/article/details/159288354)
+
++ [OpenClaw 接入 DeepSeek 配置笔记（Windows 10 ）](https://blog.csdn.net/sinat_34479648/article/details/159321623)
+
++ [OpenClaw + 飞书 Agent 实战：多模型协作 + Nano Banana 画图全记录](https://blog.csdn.net/tommychian/article/details/159291247)
+
