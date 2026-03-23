@@ -133,3 +133,5 @@
 
 + [基于多因子定价模型解析：美元强势与利率预期重构驱动的金价8连跌机制](https://blog.csdn.net/2501_90863642/article/details/159382484)
 
++ [OpenClaw 接入 DeepSeek 配置笔记（Windows 10 ）](https://blog.csdn.net/sinat_34479648/article/details/159321623)
+
