@@ -159,3 +159,11 @@
 
 + [高市访美期间，东京万人集会抗议高市破坏和平宪法](https://news.cctv.com/2026/03/20/ARTImLgCe6OrG8RXzkvgPSY4260320.shtml)
 
++ [委内瑞拉民众举行游行 要求欧美解除制裁](https://news.cctv.com/2026/03/24/ARTIIzgNDAq9Ud3tMu9UW9ws260324.shtml)
+
++ [伊朗公布第75至77轮反击行动情况 称打击多处美以目标](https://news.cctv.com/2026/03/24/ARTIFwPqhlsD7oRVzabVq0HK260324.shtml)
+
++ [美国官员透露数千名美军计划于27日抵达中东](https://news.cctv.com/2026/03/24/ARTIR5g5Mp46t69fs9TAiGpV260324.shtml)
+
++ [巴西总检察长办公室：赞成对博索纳罗进行软禁](https://news.cctv.com/2026/03/24/ARTIrf1QtxEPKqa0WAHMeKd4260324.shtml)
+
