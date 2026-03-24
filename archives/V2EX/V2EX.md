@@ -21,3 +21,7 @@
 
 + [大家都能 AI Coding 了，做软件还有什么意义？](https://www.v2ex.com/t/1200718)
 
++ [纠结买 M5Pro 还是等 M6Pro 更新，会改模具吗？](https://www.v2ex.com/t/1200603)
+
++ [SKILL 和 mcp 这两个是不是对 ai 来说越多越好？目前我弄了 1000 多个 tool 和 200 多个 skill 一股脑塞给 ai](https://www.v2ex.com/t/1200628)
+
