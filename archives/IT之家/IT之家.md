@@ -25,3 +25,7 @@
 
 + [华为 Mate 80 Pro Max 系列手机重点参数配置差异公布，一表看懂](https://m.ithome.com/html/931913.htm)
 
++ [雷军：新一代小米 SU7 锁单量已超过 3 万辆](https://m.ithome.com/html/931657.htm)
+
++ [蔚来李斌、长城魏建军为什么没来新一代小米 SU7 发布会？雷军回应](https://m.ithome.com/html/931651.htm)
+
