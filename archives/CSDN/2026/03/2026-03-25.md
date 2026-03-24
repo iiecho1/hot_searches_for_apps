@@ -125,3 +125,5 @@
 
 + [从GPT-3到GPT-4：大模型应用开发的演进之路](https://blog.csdn.net/qq_41187124/article/details/159386085)
 
++ [Sqoop并行导入内核揭秘：从原理剖析到性能优化实战](https://blog.csdn.net/qq_41840843/article/details/158619300)
+
