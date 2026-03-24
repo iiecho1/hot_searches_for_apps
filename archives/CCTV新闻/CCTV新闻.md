@@ -189,3 +189,7 @@
 
 + [联合国专家谴责以色列系统性对巴勒斯坦人实施酷刑](https://news.cctv.com/2026/03/24/ARTIWTQo82uq0nNgTOyKf3u8260324.shtml)
 
++ [美国会参议院确认特朗普提名的国土安全部长](https://news.cctv.com/2026/03/24/ARTIKS4SgeBdvpgvRo9K6jYv260324.shtml)
+
++ [美以袭击已致伊朗208名未成年人死亡](https://news.cctv.com/2026/03/24/ARTIoBvyUJzoK4BNGjnwDpAw260324.shtml)
+

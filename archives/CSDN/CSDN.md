@@ -163,3 +163,7 @@
 
 + [电脑怎么使用豆包？2026年4月最新教程实测有效（网页版+客户端）](https://blog.csdn.net/cancan05/article/details/159355598)
 
++ [Oracle 迁移 TCO 深度拆解：从隐性运维成本陷阱到全栈工具链破局](https://blog.csdn.net/2302_78391795/article/details/159417549)
+
++ [【电机双闭环控制问答：PI 输出为何不同？测功机台架选型有多关键】](https://blog.csdn.net/weixin_62244995/article/details/159394045)
+
