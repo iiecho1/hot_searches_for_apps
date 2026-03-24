@@ -183,3 +183,9 @@
 
 + [日本将于26日开始释放国家石油储备](https://news.cctv.com/2026/03/24/ARTIAZQEBb2B2HB2pY5PK7CO260324.shtml)
 
++ [汤加群岛发生7.6级地震，震源深度250千米](https://news.cctv.com/2026/03/24/ARTIllNPPHb94ef3ZNHzqrYc260324.shtml)
+
++ [汤加群岛附近发生7.6级左右地震](https://news.cctv.com/2026/03/24/ARTI5KcAx0RQ9UkrFbF7o7xR260324.shtml)
+
++ [联合国专家谴责以色列系统性对巴勒斯坦人实施酷刑](https://news.cctv.com/2026/03/24/ARTIWTQo82uq0nNgTOyKf3u8260324.shtml)
+

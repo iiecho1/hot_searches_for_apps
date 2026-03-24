@@ -153,3 +153,13 @@
 
 + [OpenClaw 消息路由机制详解](https://blog.csdn.net/sinat_41617212/article/details/159384831)
 
++ [【C#】.net 6.0，外部事务里嵌套了两个异步方法，每个方法内部都自己开启了事务，报错This platform does not support distributed transactions](https://blog.csdn.net/lmy_520/article/details/159247341)
+
++ [深度学习实战-基于CNN卷积神经网络的肺癌和结直肠癌图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157614052)
+
++ [基于Jenkins Pipeline流水线实现K8s负载更新](https://blog.csdn.net/zxb2385807597/article/details/159318648)
+
++ [华为eNSP—无线互联的配置与实验](https://blog.csdn.net/mj9749ouro/article/details/159416994)
+
++ [电脑怎么使用豆包？2026年4月最新教程实测有效（网页版+客户端）](https://blog.csdn.net/cancan05/article/details/159355598)
+
