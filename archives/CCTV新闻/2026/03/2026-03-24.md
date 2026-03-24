@@ -171,3 +171,15 @@
 
 + [哥伦比亚军机坠毁造成34人死亡](https://news.cctv.com/2026/03/24/ARTIukoqJ1lOSxE8buw3RnP7260324.shtml)
 
++ [伊朗向以色列发动新一轮导弹袭击](https://news.cctv.com/2026/03/24/ARTI09O8RcsbW1yo0iZC4JQg260324.shtml)
+
++ [英首相：必须做好伊朗战事不会“迅速结束”的准备](https://news.cctv.com/2026/03/24/ARTIrrLOqsUYOHS2CJlRa0QN260324.shtml)
+
++ [随笔丨警惕日本加速“再军事化”的危险动向](https://news.cctv.com/2026/03/24/ARTIntaGr37oVDaPzy00c9ZL260324.shtml)
+
++ [联合国儿基会呼吁立即停止针对平民攻击](https://news.cctv.com/2026/03/24/ARTIkxvMc0dOrIVLqJqsIgIH260324.shtml)
+
++ [哥伦比亚军机坠毁已造成66人死亡](https://news.cctv.com/2026/03/24/ARTIj2o2Iym2xU1Cfpf25xQ8260324.shtml)
+
++ [日本将于26日开始释放国家石油储备](https://news.cctv.com/2026/03/24/ARTIAZQEBb2B2HB2pY5PK7CO260324.shtml)
+

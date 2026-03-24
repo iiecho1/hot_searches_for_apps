@@ -143,3 +143,13 @@
 
 + [Lazygit 终极实战指南：MacOS 专属高效工作流](https://blog.csdn.net/liangshanbo1215/article/details/159287683)
 
++ [Spring AI（一）：玩转AI大模型](https://blog.csdn.net/weixin_54009596/article/details/159322915)
+
++ [Node.js 后端开发全解析：从核心原理架构到实战应用](https://blog.csdn.net/csdn_silent/article/details/159380615)
+
++ [2026云曦见面考复现](https://blog.csdn.net/2401_88683072/article/details/159119661)
+
++ [Sqoop --validate参数深度解析：数据一致性的守护者](https://blog.csdn.net/qq_41840843/article/details/158580130)
+
++ [OpenClaw 消息路由机制详解](https://blog.csdn.net/sinat_41617212/article/details/159384831)
+
