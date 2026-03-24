@@ -55,3 +55,7 @@
 
 + [问界 m6](https://www.v2ex.com/t/1200698)
 
++ [极氪 7X / Model Y / MG4 怎么选？](https://www.v2ex.com/t/1200722)
+
++ [2coding 试营业， codex 低至 0.01，盖楼抽奖无限抽](https://www.v2ex.com/t/1200700)
+
