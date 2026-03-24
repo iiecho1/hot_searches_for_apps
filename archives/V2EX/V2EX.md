@@ -59,3 +59,5 @@
 
 + [2coding 试营业， codex 低至 0.01，盖楼抽奖无限抽](https://www.v2ex.com/t/1200700)
 
++ [大家都能 AI Coding 了，做软件还有什么意义？](https://www.v2ex.com/t/1200718)
+

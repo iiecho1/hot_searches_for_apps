@@ -205,3 +205,5 @@
 
 + [linux du 命令](https://blog.csdn.net/ljh574649119/article/details/159397485)
 
++ [【论文阅读103】pinn-review-科学机器学习中的物理信息神经网络：现状与展望](https://blog.csdn.net/wangshangshang09/article/details/159393401)
+
