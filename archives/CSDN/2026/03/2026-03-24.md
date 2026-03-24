@@ -193,3 +193,5 @@
 
 + [Macmini M4 openclaw第一集：使用ollama和omlx架构对比](https://blog.csdn.net/weixin_44626085/article/details/159320991)
 
++ [YOLO26+SAM3实战教程：从检测到分割，一键搞定目标掩码生成【附源码】](https://blog.csdn.net/qq_42589613/article/details/159319721)
+

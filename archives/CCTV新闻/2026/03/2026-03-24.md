@@ -197,3 +197,7 @@
 
 + [金正恩：朝鲜将韩国视为最敌对国家](https://news.cctv.com/2026/03/24/ARTIkXpBlMZHEmQP6f37xJ1v260324.shtml)
 
++ [泽连斯基称乌克兰11个州遭俄大规模袭击](https://news.cctv.com/2026/03/24/ARTIB84ik4Be4PRp7RPE3Agl260324.shtml)
+
++ [中国驻日本大使馆就日本不法之徒强行闯入向日方提出严正交涉和强烈抗议](https://news.cctv.com/2026/03/24/ARTIhGBOBQIfdrKxedAiFvSF260324.shtml)
+
