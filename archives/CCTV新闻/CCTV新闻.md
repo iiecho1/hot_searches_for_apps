@@ -167,3 +167,7 @@
 
 + [巴西总检察长办公室：赞成对博索纳罗进行软禁](https://news.cctv.com/2026/03/24/ARTIrf1QtxEPKqa0WAHMeKd4260324.shtml)
 
++ [哥伦比亚军机坠毁已造成48人死亡](https://news.cctv.com/2026/03/24/ARTIlRp1mLP8KNuu4kvKRzmr260324.shtml)
+
++ [哥伦比亚军机坠毁造成34人死亡](https://news.cctv.com/2026/03/24/ARTIukoqJ1lOSxE8buw3RnP7260324.shtml)
+
