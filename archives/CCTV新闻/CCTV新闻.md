@@ -161,3 +161,11 @@
 
 + [“看到这里发生的一切，就知道中国为什么能成功”——记塞舌尔联合塞舌尔党干部考察团中国之行](https://news.cctv.com/2026/03/21/ARTIKmh9HD9NYAWDBqdQQAJX260321.shtml)
 
++ [美方向伊朗提出含“15项条件”的和谈方案](https://news.cctv.com/2026/03/25/ARTInvg58jUKgKnuvUPo42tf260325.shtml)
+
++ [特朗普称在对伊行动中已“取得胜利”](https://news.cctv.com/2026/03/25/ARTIrerCxh0Ge1ZW5l11DqNd260325.shtml)
+
++ [联合国秘书长强烈谴责苏丹医院遭无人机袭击事件](https://news.cctv.com/2026/03/25/ARTIfI6TwWfREupK2qeH0MFY260325.shtml)
+
++ [乌空军称俄动用近千架无人机大规模袭击乌克兰](https://news.cctv.com/2026/03/25/ARTIXE30z0fS3Kr30esrRDFd260325.shtml)
+
