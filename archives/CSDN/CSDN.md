@@ -101,3 +101,21 @@
 
 + [【论文阅读103】pinn-review-科学机器学习中的物理信息神经网络：现状与展望](https://blog.csdn.net/wangshangshang09/article/details/159393401)
 
++ [相干伊辛机在医疗领域及医疗AI领域的应用前景分析](https://blog.csdn.net/kkiron/article/details/159321944)
+
++ [从 LLM 接口到 Agent 接口：AI 融合系统的架构演进与未来趋势分析报告](https://blog.csdn.net/fzuim/article/details/159397445)
+
++ [从 AI 时代回看 C/C++：编程语言为什么没有过时](https://blog.csdn.net/borfish/article/details/159325347)
+
++ [量子计算软件开发环境：QPanda、QRunes与本源量子云平台](https://blog.csdn.net/eidolon_foot/article/details/159317078)
+
++ [解决windows上codex不能跑本地应用的问题](https://blog.csdn.net/2401_83343725/article/details/159348868)
+
++ [主流 AI IDE 之一的 华为云码道「CodeArts」 介绍](https://blog.csdn.net/u014695938/article/details/159353689)
+
++ [世毫九实验室《认知几何学讲义（初稿）》——认知物理学组SHJ-CG-2024-V1.0](https://blog.csdn.net/weixin_50059478/article/details/159417761)
+
++ [WebSocket详解含图解：协议特性、握手流程](https://blog.csdn.net/2501_93491346/article/details/159430546)
+
++ [Vue实现核心原理](https://blog.csdn.net/m0_46309087/article/details/159356125)
+
