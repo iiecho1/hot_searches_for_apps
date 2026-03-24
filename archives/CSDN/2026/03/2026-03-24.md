@@ -167,3 +167,13 @@
 
 + [【电机双闭环控制问答：PI 输出为何不同？测功机台架选型有多关键】](https://blog.csdn.net/weixin_62244995/article/details/159394045)
 
++ [相干伊辛机在医疗领域及医疗AI领域的应用前景分析](https://blog.csdn.net/kkiron/article/details/159321944)
+
++ [GigaWorld-Policy——以动作为中心的世界动作模型：为降低推理延迟，训练用视频，推理去视频(与Fast-WAM类似)](https://blog.csdn.net/v_JULY_v/article/details/159395570)
+
++ [CentOS 部署 Teemii：打造专属私人漫画阅读库](https://blog.csdn.net/Zero_VPN/article/details/159419848)
+
++ [OpenClaw 升级至2026.3.23飞书插件修复](https://blog.csdn.net/j469799470/article/details/159416729)
+
++ [Vue3 + Vue Router + Pinia 路由守卫规范：beforeEach 应做 / 不应做，避死循环、防重复请求｜状态管理与路由规范篇](https://blog.csdn.net/summer_tulip/article/details/159380554)
+

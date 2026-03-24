@@ -193,3 +193,7 @@
 
 + [美以袭击已致伊朗208名未成年人死亡](https://news.cctv.com/2026/03/24/ARTIoBvyUJzoK4BNGjnwDpAw260324.shtml)
 
++ [伊朗、埃及外长通话讨论地区局势](https://military.cctv.com/2026/03/24/ARTILWeNOnqe7eT5zKjIIoTv260324.shtml)
+
++ [金正恩：朝鲜将韩国视为最敌对国家](https://news.cctv.com/2026/03/24/ARTIkXpBlMZHEmQP6f37xJ1v260324.shtml)
+
