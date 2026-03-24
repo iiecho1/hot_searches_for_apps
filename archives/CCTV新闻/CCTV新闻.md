@@ -205,3 +205,5 @@
 
 + [伊朗任命新任最高国家安全委员会秘书](https://news.cctv.com/2026/03/24/ARTIttfZVryYG4SPHsDbyUAM260324.shtml)
 
++ [海地暴力冲突持续 近一年来已致5500余人死亡](https://news.cctv.com/2026/03/24/ARTI2aPE9muUwPyOV6CExTMD260324.shtml)
+
