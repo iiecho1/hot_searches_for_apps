@@ -207,3 +207,11 @@
 
 + [【论文阅读103】pinn-review-科学机器学习中的物理信息神经网络：现状与展望](https://blog.csdn.net/wangshangshang09/article/details/159393401)
 
++ [OpenClaw 自动化引擎：从内核构建到微信生态接入的全链路实战解析](https://blog.csdn.net/2301_76341691/article/details/159432786)
+
++ [搞定 Prometheus 监控盲区：Pushgateway 让临时任务也有可视化数据](https://blog.csdn.net/2301_80840905/article/details/159432268)
+
++ [MongoDB实战：容量规划与成本估算——从QPS、数据量估算机器规格](https://blog.csdn.net/cui_yonghua/article/details/159434262)
+
++ [云安全渗透测试框架 - 支持 AWS、Azure、GCP、阿里云、腾讯云、华为云的综合渗透测试工具和指南](https://blog.csdn.net/weixin_44309905/article/details/159354416)
+
