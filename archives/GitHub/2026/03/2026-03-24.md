@@ -31,3 +31,17 @@
 
 + [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
++ [pascalorg/editor](https://github.com/pascalorg/editor)
+
++ [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+
++ [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
++ [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+
++ [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+

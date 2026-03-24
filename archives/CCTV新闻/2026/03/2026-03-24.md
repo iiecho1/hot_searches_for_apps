@@ -201,3 +201,7 @@
 
 + [中国驻日本大使馆就日本不法之徒强行闯入向日方提出严正交涉和强烈抗议](https://news.cctv.com/2026/03/24/ARTIhGBOBQIfdrKxedAiFvSF260324.shtml)
 
++ [韩国青瓦台：敌对性措辞不利于半岛和平](https://news.cctv.com/2026/03/24/ARTImdJIvsvjqVkEYfVDbWgt260324.shtml)
+
++ [伊朗任命新任最高国家安全委员会秘书](https://news.cctv.com/2026/03/24/ARTIttfZVryYG4SPHsDbyUAM260324.shtml)
+
