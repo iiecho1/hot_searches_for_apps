@@ -177,3 +177,15 @@
 
 + [Vue3 + Vue Router + Pinia 路由守卫规范：beforeEach 应做 / 不应做，避死循环、防重复请求｜状态管理与路由规范篇](https://blog.csdn.net/summer_tulip/article/details/159380554)
 
++ [ElasticRelay：把多源数据库变更，稳定地送进 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/159424877)
+
++ [【AI编程时代】：RAG的不同检索策略](https://blog.csdn.net/gdpu2400502251/article/details/159420575)
+
++ [深度Oracle替换工程实践的技术解读（上篇）](https://blog.csdn.net/qq_32682301/article/details/159412263)
+
++ [Flutter 学习路线 · 知识点大纲](https://blog.csdn.net/xrl__/article/details/159426925)
+
++ [VSCode 接入 Codex（基于 sub2api 的完整实战指南）](https://blog.csdn.net/qq_40374604/article/details/159397534)
+
++ [Codex 编辑文件乱码：从根源到根治的全维度解决方案](https://blog.csdn.net/weixin_73527660/article/details/159386884)
+
