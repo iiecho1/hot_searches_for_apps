@@ -177,3 +177,7 @@
 
 + [哥伦比亚总统宣布全国为军机坠毁事故中的遇难者哀悼三日](https://news.cctv.com/2026/03/25/ARTI58s2Wo8KZHK2Auk6VE7H260325.shtml)
 
++ [纳米比亚以安全等为由拒绝“星链”牌照申请](https://news.cctv.com/2026/03/25/ARTIsQQhxnnkBEISXqDo7Pn4260325.shtml)
+
++ [中国“十五五”规划是世界的机遇（国际论坛·读懂中国·读懂中国式现代化）](https://news.cctv.com/2026/03/25/ARTIFlosvThnBwlS09RNMkBp260325.shtml)
+

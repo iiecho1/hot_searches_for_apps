@@ -143,3 +143,19 @@
 
 + [BRep几何内核 造核数学指引](https://blog.csdn.net/qq_43689451/article/details/159397487)
 
++ [OpenClaw实操指南03｜OpenClaw vs Coze/Dify/n8n 帮你半小时内选对合适的AI](https://blog.csdn.net/GODYAD/article/details/159436549)
+
++ [Linux 进程信号深度解析（上）：信号的产生与本质（含完整案例）](https://blog.csdn.net/2503_91389547/article/details/159205236)
+
++ [Sqoop网络故障生存指南：超时配置与重试机制全解析](https://blog.csdn.net/qq_41840843/article/details/158650790)
+
++ [Linux 部署 RocketMQ 实操：从内网到公网的完整落地心得](https://blog.csdn.net/qq_61024956/article/details/159460509)
+
++ [深度学习实战-基于MobileNetV2与VGG16的植物病害图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157655588)
+
++ [Spring统一功能处理](https://blog.csdn.net/2401_89176842/article/details/159085608)
+
++ [JDBC批量执行UPDATE语句原理详解](https://blog.csdn.net/lilinhai548/article/details/159201604)
+
++ [HarmonyOS 5.0游戏开发实战：基于ArkGraphics 3D的轻量级物理引擎游戏](https://blog.csdn.net/u014727709/article/details/159392300)
+

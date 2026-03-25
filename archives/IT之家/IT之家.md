@@ -53,3 +53,5 @@
 
 + [苹果 iOS / iPadOS 26.4 正式版发布：新增 8 个表情等](https://m.ithome.com/html/932302.htm)
 
++ [苹果 iOS / iPadOS 26.4 正式版更新汇总：新增 8 个表情、增强 Apple Music、未实装 AI 版 Siri](https://m.ithome.com/html/932312.htm)
+
