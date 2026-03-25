@@ -133,3 +133,13 @@
 
 + [第 6 篇｜YOLOv8 实战：从零开始训练自己的数据集（详细步骤 + 避坑指南）](https://blog.csdn.net/2501_93438983/article/details/159282472)
 
++ [重温童年游戏时光：RetroArch-web 使用体验与部署分享](https://blog.csdn.net/lrq13965748542/article/details/159433540)
+
++ [Day | 10【苍穹外卖：SpringTask 和WebSocket 案例】](https://blog.csdn.net/chen_si_shang_/article/details/159396286)
+
++ [【大模型】大模型学习总结之机器学习-3.模型评估](https://blog.csdn.net/weixin_42439274/article/details/159397047)
+
++ [1.Mininet 可视化（MiniEdit）](https://blog.csdn.net/qq_43457850/article/details/159352202)
+
++ [BRep几何内核 造核数学指引](https://blog.csdn.net/qq_43689451/article/details/159397487)
+

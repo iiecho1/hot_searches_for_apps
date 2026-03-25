@@ -169,3 +169,11 @@
 
 + [乌空军称俄动用近千架无人机大规模袭击乌克兰](https://news.cctv.com/2026/03/25/ARTIXE30z0fS3Kr30esrRDFd260325.shtml)
 
++ [巴西联邦最高法院批准前总统博索纳罗居家监禁](https://news.cctv.com/2026/03/25/ARTIiUkdz3frSn5LeUHlMsXE260325.shtml)
+
++ [初步计票显示丹麦执政联盟席位未过半](https://news.cctv.com/2026/03/25/ARTIS7Klx9IiqTBR4Wcysp64260325.shtml)
+
++ [日本警方披露强闯中国驻日使馆者身份信息](https://news.cctv.com/2026/03/25/ARTITymCwrBwRHehgC1L6nDf260325.shtml)
+
++ [哥伦比亚总统宣布全国为军机坠毁事故中的遇难者哀悼三日](https://news.cctv.com/2026/03/25/ARTI58s2Wo8KZHK2Auk6VE7H260325.shtml)
+

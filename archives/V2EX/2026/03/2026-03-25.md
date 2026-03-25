@@ -25,3 +25,13 @@
 
 + [SKILL 和 mcp 这两个是不是对 ai 来说越多越好？目前我弄了 1000 多个 tool 和 200 多个 skill 一股脑塞给 ai](https://www.v2ex.com/t/1200628)
 
++ [感觉我里外都不是人，成了夹心饼干](https://www.v2ex.com/t/1200883)
+
++ [山地车 or 公路车？](https://www.v2ex.com/t/1200939)
+
++ [[纯吐槽]没想到 minimax 会这么难用](https://www.v2ex.com/t/1200857)
+
++ [token 的中文翻译，正式定为词元，如何？](https://www.v2ex.com/t/1200873)
+
++ [美团误删大量用户的手机相册照片](https://www.v2ex.com/t/1200773)
+
