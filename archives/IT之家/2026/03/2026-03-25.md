@@ -55,3 +55,9 @@
 
 + [苹果 iOS / iPadOS 26.4 正式版更新汇总：新增 8 个表情、增强 Apple Music、未实装 AI 版 Siri](https://m.ithome.com/html/932312.htm)
 
++ [家里吃灰的旧手机突然成了香饽饽，消息称部分回收价暴涨五六倍](https://m.ithome.com/html/932403.htm)
+
++ [鸿蒙智行尚界 Z7 / Z7T 新车 24 小时小订突破 2.5 万台，预售价 22.98 万起](https://m.ithome.com/html/932219.htm)
+
++ [IT之家 iOS / 安卓 / 鸿蒙版齐更新：推送体验升级 + 多项细节改进](https://m.ithome.com/html/932141.htm)
+
