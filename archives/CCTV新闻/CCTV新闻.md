@@ -183,3 +183,13 @@
 
 + [回应美方谈判说法 伊朗军方明确否认：“不要把失败称为协议”](https://news.cctv.com/2026/03/25/ARTIZMzXXVgoBTb9xZXgJ5Rl260325.shtml)
 
++ [限制特朗普战争权力的议案再遭美参议院否决](https://news.cctv.com/2026/03/25/ARTIht9Y06NCcKiWp9jrMKot260325.shtml)
+
++ [日本可重复使用火箭实验机首次试飞中止](https://news.cctv.com/2026/03/25/ARTIakNXOJgIncnuvKiTdBBc260325.shtml)
+
++ [委内瑞拉外交使团将于本周赴美履职](https://news.cctv.com/2026/03/25/ARTIlimPu5EkipjX0S69CU6K260325.shtml)
+
++ [中国代表呼吁国际社会采取不可逆行动落实“两国方案”](https://news.cctv.com/2026/03/25/ARTIKhwPBrI7Nwj4befNEfP3260325.shtml)
+
++ [美调整探月计划 暂停“门户”空间站项目](https://news.cctv.com/2026/03/25/ARTIZbGb3jqumrM675alCQ0B260325.shtml)
+

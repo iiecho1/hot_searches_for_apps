@@ -165,3 +165,5 @@
 
 + [AI大模型落地系列：一文读懂 Eino 的 Memory 与 Session（持久化对话）](https://blog.csdn.net/2302_80067378/article/details/159430416)
 
++ [在 Spring Boot 项目中使用 WebSocket 实现实时通信](https://blog.csdn.net/iov_a/article/details/159383552)
+
