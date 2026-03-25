@@ -101,3 +101,23 @@
 
 + [智能体构建的三种经典套路：从零开始理解ReAct、Plan-and-Solve和Reflection](https://blog.csdn.net/bestadc/article/details/159437220)
 
++ [大数据时代时序数据库选型指南：Apache IoTDB 如何成为工业物联网的“数据底座“](https://blog.csdn.net/u014727709/article/details/159391864)
+
++ [【MySQL】第十三节—索引：底层原理、B + 树演进、操作实战](https://blog.csdn.net/lrq13965748542/article/details/159049772)
+
++ [Mcu架构以及原理——4.时钟系统](https://blog.csdn.net/qq_45583706/article/details/159390703)
+
++ [大数据时代时序数据库选型指南：Apache IoTDB技术解析与实践建议](https://blog.csdn.net/user340/article/details/159474251)
+
++ [【计算几何】和差化积及积化和差](https://blog.csdn.net/he_zhidan/article/details/158776396)
+
++ [Docker Compose 实践：多容器应用的配置与管理](https://blog.csdn.net/2609_95049439/article/details/159476728)
+
++ [【Qt】Qt概述（一）Qt的背景](https://blog.csdn.net/2301_80751958/article/details/159436066)
+
++ [OpenClaw 自动化引擎：从内核构建到微信生态接入的全链路实战解析](https://blog.csdn.net/2301_76341691/article/details/159432786)
+
++ [Linux：基于 UDP Socket 的实战项目——UDP 群聊聊天室](https://blog.csdn.net/2503_91101239/article/details/159463950)
+
++ [微服务搭建----springboot接入Nacos2.x](https://blog.csdn.net/sunwenjian886/article/details/159437656)
+
