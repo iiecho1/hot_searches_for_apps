@@ -121,3 +121,5 @@
 
 + [微服务搭建----springboot接入Nacos2.x](https://blog.csdn.net/sunwenjian886/article/details/159437656)
 
++ [OpenClaw 飞书机器人配置教程｜一键对接飞书，实现聊天下达 AI 指令](https://blog.csdn.net/a1291985595/article/details/159395732)
+
