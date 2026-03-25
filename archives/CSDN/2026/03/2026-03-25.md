@@ -127,3 +127,9 @@
 
 + [Sqoop并行导入内核揭秘：从原理剖析到性能优化实战](https://blog.csdn.net/qq_41840843/article/details/158619300)
 
++ [基于 C++ 手写 HTTP 服务器：从请求解析到响应构建全流程解析](https://blog.csdn.net/2302_77620024/article/details/159319415)
+
++ [AI 辅助编程革命：如何利用 GitHub Copilot 等工具重塑开发效率](https://blog.csdn.net/2609_95039349/article/details/159352842)
+
++ [第 6 篇｜YOLOv8 实战：从零开始训练自己的数据集（详细步骤 + 避坑指南）](https://blog.csdn.net/2501_93438983/article/details/159282472)
+
