@@ -221,3 +221,9 @@
 
 + [以色列政府批准战争期间征召40万名预备役人员](https://news.cctv.com/2026/03/25/ARTIVeTDl5aVcuhjGbow82vO260325.shtml)
 
++ [巴西发布首款本土组装超音速战斗机F-39E“鹰狮”](https://news.cctv.com/2026/03/25/ARTI1SZRMMofXDALjSly7Qmc260325.shtml)
+
++ [黎真主党称做好与以色列无限期战斗准备](https://news.cctv.com/2026/03/25/ARTIOvSW0W48KhsE1dM4R9Vh260325.shtml)
+
++ [古特雷斯：中东冲突“已失控” 应立即结束战争回归外交](https://news.cctv.com/2026/03/25/ARTIjmTPuSzzDvoTk1FYd6b5260325.shtml)
+

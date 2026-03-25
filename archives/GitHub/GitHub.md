@@ -33,3 +33,5 @@
 
 + [usestrix/strix](https://github.com/usestrix/strix)
 
++ [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)
+
