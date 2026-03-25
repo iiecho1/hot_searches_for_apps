@@ -203,3 +203,19 @@
 
 + [伊朗重申非交战国家船只可安全通过霍尔木兹海峡](https://news.cctv.com/2026/03/25/ARTIDv6znJedYPIuzJ6nt6HM260325.shtml)
 
++ [匈牙利总理有意停止向乌克兰供应天然气](https://news.cctv.com/2026/03/25/ARTIljHbAuNcOm97XyhOkohF260325.shtml)
+
++ [中国政府中东问题特使翟隽集体会见海合会国家驻华使节](https://news.cctv.com/2026/03/25/ARTIXuRWV4lW5X6j8mb8BS7Z260325.shtml)
+
++ [俄总统新闻秘书：俄美就乌克兰问题保持接触](https://news.cctv.com/2026/03/25/ARTIQug8lq4baegqjast7LHR260325.shtml)
+
++ [丹麦首相向国王递交辞呈](https://news.cctv.com/2026/03/25/ARTIUDDwtsMN2jk65kPNnc2X260325.shtml)
+
++ [伊朗议会议长：正密切监测美军动向 警告勿试探伊方防卫决心](https://news.cctv.com/2026/03/25/ARTINB2rGy5PuEYXsMhMJvjM260325.shtml)
+
++ [伊朗石油部长谴责美国以色列袭击伊朗能源设施](https://news.cctv.com/2026/03/25/ARTIEvO0mk2BwTJH48UX5afU260325.shtml)
+
++ [委内瑞拉官员称美制裁对委农业造成“毁灭性”影响](https://news.cctv.com/2026/03/25/ARTI6Gj69cHRoLKV6MMiLFHv260325.shtml)
+
++ [西班牙首相强调“对话与外交”是解决当前中东危机唯一途径](https://news.cctv.com/2026/03/25/ARTI9i1TFnMLmZCfI0ZyWi5Y260325.shtml)
+

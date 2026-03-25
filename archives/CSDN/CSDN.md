@@ -173,3 +173,15 @@
 
 + [【内网穿透实战】Cpolar + 企业微信开发：本地接口公网回调调试全攻略（0 服务器 + 免费 HTTPS）](https://blog.csdn.net/2403_88033173/article/details/159436174)
 
++ [低门槛实现 AI 文档解析 | TextIn xParse Dify插件使用教程](https://blog.csdn.net/INTSIG/article/details/159425124)
+
++ [什么是词元？AI的Token的中文名是什么？](https://blog.csdn.net/qq_44866828/article/details/159435932)
+
++ [【Linux系统】中断机制、用户态与内核态、虚拟地址与页表的本质](https://blog.csdn.net/2402_86681376/article/details/159246880)
+
++ [总结 Spring 注入 bean 的四种方式](https://blog.csdn.net/Darkdreams/article/details/159437678)
+
++ [用Pygame开发你的第一个小游戏](https://blog.csdn.net/2401_87969387/article/details/159357339)
+
++ [网站redis从开发到部署方案](https://blog.csdn.net/Ly31755/article/details/159437268)
+
