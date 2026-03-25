@@ -195,3 +195,11 @@
 
 + [伊朗外交部说“没人能信任美国外交”](https://news.cctv.com/2026/03/25/ARTI5TjyW3NQG4KbFmF2LA5E260325.shtml)
 
++ [伊朗称美以袭击大不里士一铁路员工宿舍 已致7人死亡](https://news.cctv.com/2026/03/25/ARTIfvuetipdbgd0GnKNS31B260325.shtml)
+
++ [美伊谈判传闻导致国际油价剧烈震荡](https://news.cctv.com/2026/03/25/ARTIzMgfhypT1KzEniZV3ush260325.shtml)
+
++ [日本内阁官房长官：将防止再度发生强闯使馆这类事件](https://news.cctv.com/2026/03/25/ARTI6Yl9d3HbWpdqCNgyYmbT260325.shtml)
+
++ [伊朗重申非交战国家船只可安全通过霍尔木兹海峡](https://news.cctv.com/2026/03/25/ARTIDv6znJedYPIuzJ6nt6HM260325.shtml)
+

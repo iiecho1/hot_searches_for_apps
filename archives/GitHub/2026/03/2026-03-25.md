@@ -29,3 +29,7 @@
 
 + [ruvnet/RuView](https://github.com/ruvnet/RuView)
 
++ [BerriAI/litellm](https://github.com/BerriAI/litellm)
+
++ [usestrix/strix](https://github.com/usestrix/strix)
+
