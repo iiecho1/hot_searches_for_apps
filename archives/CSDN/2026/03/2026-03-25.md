@@ -167,3 +167,7 @@
 
 + [在 Spring Boot 项目中使用 WebSocket 实现实时通信](https://blog.csdn.net/iov_a/article/details/159383552)
 
++ [Linux内核源代码深度解析：从设备树到电源管理的完整技术栈](https://blog.csdn.net/2401_89899187/article/details/159160303)
+
++ [小米摄像头本地化存储教程：Go2RTC+EasyNVR 搭建私有监控系统](https://blog.csdn.net/2301_76147196/article/details/159388350)
+
