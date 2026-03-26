@@ -101,3 +101,43 @@
 
 + [OpenClaw 飞书机器人配置教程｜一键对接飞书，实现聊天下达 AI 指令](https://blog.csdn.net/a1291985595/article/details/159395732)
 
++ [【Coze-AI智能体平台】解锁 Coze 工作流：逻辑控制・数据处理・AIGC 多媒体全场景实战](https://blog.csdn.net/2401_87342824/article/details/159349427)
+
++ [移动端应用架构-组件化（一）](https://blog.csdn.net/qq_25218777/article/details/159476030)
+
++ [OpenClaw平民化：腾讯云WorkBuddy解锁个人 AI 新玩法](https://blog.csdn.net/jks212454/article/details/159288806)
+
++ [VS2017 fatal error C1001: 编译器中发生内部错误（同时弹出Microsoft® Incremental Linker已停上工作的报错提示框）问题的排查与解决](https://blog.csdn.net/chenlycly/article/details/159461038)
+
++ [消息队列2-SpringBoot操作RabbitMQ](https://blog.csdn.net/2502_91743997/article/details/159466376)
+
++ [使用 Elasticsearch Inference API 结合 Hugging Face 模型](https://blog.csdn.net/UbuntuTouch/article/details/159414507)
+
++ [ReactNative项目OpenHarmony三方库集成实战：react-native-haptic-feedback](https://blog.csdn.net/qq_61024956/article/details/159473852)
+
++ [(Arxiv-2026)Helios：真正的实时长视频生成模型](https://blog.csdn.net/wl1780852311/article/details/159430690)
+
++ [《Linux系统编程》13.Ext系列文件系统](https://blog.csdn.net/qq_49648783/article/details/159436828)
+
++ [【故障检测】状态观察器的三罐系统故障检测与隔离（线性模型实施残差分析，以检测、定位和分类泵故障、阀门堵塞和传感器故障等故障）【含Matlab源码 15217期】含报告](https://blog.csdn.net/weixin_63266434/article/details/159512469)
+
++ [2026年AI技术突破与产业落地全景：从GPT-5到多模态智能体的新纪元](https://blog.csdn.net/xyghehehehe/article/details/159414637)
+
++ [【Python 实战】基于大模型的智慧课堂师生话语功能分析系统](https://blog.csdn.net/sunxuehai1/article/details/159433475)
+
++ [猫头虎AI分享 | 为什么MiniMax 2.7大模型选择 .NET OpenXML SDK库，而非python-docx库处理Office文档（Word/Excel/PPT）问题？](https://blog.csdn.net/qq_44866828/article/details/159461237)
+
++ [深度拆解Web3：不是泡沫，是互联网的下一场范式革命](https://blog.csdn.net/weixin_42446792/article/details/159432143)
+
++ [决策疲劳对数字防御体系效能的侵蚀机制与重构策略](https://blog.csdn.net/fireroothacker/article/details/159415906)
+
++ [Flutter 学习路线 · 知识点大纲](https://blog.csdn.net/xrl__/article/details/159426925)
+
++ [最新实践阿里云ECS上搭建K8s集群（Ubuntu 24.04+Docker）](https://blog.csdn.net/m0_67906358/article/details/159516488)
+
++ [Metasploit Framework及实战](https://blog.csdn.net/2402_88773726/article/details/159475753)
+
++ [DeerFlow 2.0实战指南：生产级AI Agent框架的Docker化部署与并行编排](https://blog.csdn.net/aiauto/article/details/159491808)
+
++ [如何给新电脑硬盘分区？一文分享 3 种方法 （分区教程）](https://blog.csdn.net/2503_94364859/article/details/159429159)
+

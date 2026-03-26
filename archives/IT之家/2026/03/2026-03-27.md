@@ -25,3 +25,11 @@
 
 + [一加李杰称 15T 现在定价很极致，按照新的内存成本后面可能还要涨价](https://m.ithome.com/html/932651.htm)
 
++ [7999 → 5099 元国补新低：iPhone Air 即将破五千，支持 12 期免息](https://m.ithome.com/html/932475.htm)
+
++ [阿里巴巴蔡崇信：CEO 岗位永远安全，智能体不会取代 CEO](https://m.ithome.com/html/932442.htm)
+
++ [领先半年：消息称行业首个阔比例大折叠手机定档 4 月，预计是华为 Pura X2](https://m.ithome.com/html/932559.htm)
+
++ [国家超算互联网单用户免费词元（Token）额度升至 3000 万](https://m.ithome.com/html/932605.htm)
+
