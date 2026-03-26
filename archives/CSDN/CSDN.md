@@ -153,3 +153,13 @@
 
 + [HarmonyOS 6 NDK开发系列1：音视频播放能力介绍](https://blog.csdn.net/sjw890821sjw/article/details/159397736)
 
++ [基于 OpenCV 的计算机视觉实战：从图像矫正到指纹识别](https://blog.csdn.net/2402_85718639/article/details/159394711)
+
++ [【GaussDB】LLVM技术在GaussDB等数据库中的应用](https://blog.csdn.net/GaussDB/article/details/159497823)
+
++ [从零搭建 ELK 栈（ES+Kibana+Logstash）：含 IK + 拼音分词，MySQL 同步 ES 完整配置](https://blog.csdn.net/A13549502743/article/details/159391814)
+
++ [Spring Boot 环境变量配置详解：从 IDEA 到 Docker 部署](https://blog.csdn.net/xxj_jing/article/details/159424241)
+
++ [BRep几何内核 造核数学指引](https://blog.csdn.net/qq_43689451/article/details/159397487)
+
