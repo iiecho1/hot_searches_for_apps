@@ -141,3 +141,15 @@
 
 + [【AimRT】现代机器人通信中间件 AimRT](https://blog.csdn.net/cjy000111/article/details/159425152)
 
++ [PyTorch实战（38）——深度学习模型可解释性](https://blog.csdn.net/LOVEmy134611/article/details/151221328)
+
++ [冷却时间下的任务调度最优解：从原理到实现](https://blog.csdn.net/2503_92624912/article/details/159476687)
+
++ [【Matlab】旋翼无人机姿态估计与滤波程序实现](https://blog.csdn.net/unbelievevc/article/details/159490714)
+
++ [Vue 3 生态工具实战：UI 组件库与表单验证完全指南](https://blog.csdn.net/qq_40303030/article/details/158839711)
+
++ [Docker Desktop 版本与 IDEA 插件兼容性](https://blog.csdn.net/qq_36710118/article/details/159437364)
+
++ [HarmonyOS 6 NDK开发系列1：音视频播放能力介绍](https://blog.csdn.net/sjw890821sjw/article/details/159397736)
+

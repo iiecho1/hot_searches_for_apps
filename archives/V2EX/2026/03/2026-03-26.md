@@ -41,3 +41,5 @@
 
 + [腾讯云玩不起了，停售 coding plan，推出 token plan](https://www.v2ex.com/t/1201038)
 
++ [每次看到华为小米关于汽车与手机吵吵都会很奇怪，想理性讨论一下](https://www.v2ex.com/t/1201233)
+
