@@ -171,3 +171,13 @@
 
 + [美众议院军事委员会通过法案 强制要求军用飞机配备防撞技术](https://news.cctv.com/2026/03/27/ARTI3ktDvPvWxmAwxxjpKdNx260327.shtml)
 
++ [特朗普揭晓所谓伊朗“大礼” 称控制伊朗石油是“一个选项”](https://news.cctv.com/2026/03/27/ARTIRIbOBcDLB45SNcwauJbN260327.shtml)
+
++ [拉夫罗夫：俄罗斯未向伊朗提供情报信息](https://news.cctv.com/2026/03/27/ARTItEjMWKBZhbundEoiOeCe260327.shtml)
+
++ [英国将对限制青少年使用社交媒体展开试点](https://news.cctv.com/2026/03/27/ARTIcJE4MxOUumCzRlJpmN1r260327.shtml)
+
++ [加拿大宣布对伊朗实施新制裁](https://news.cctv.com/2026/03/27/ARTIloybg6h4TBWIqAoSYkak260327.shtml)
+
++ [伊朗总统：伊朗致力于结束战争 从未寻求拥有核武器](https://news.cctv.com/2026/03/27/ARTIIJospKjOiwkBmbtlkTNI260327.shtml)
+

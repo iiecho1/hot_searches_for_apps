@@ -163,3 +163,11 @@
 
 + [AI + Docker + K8s：云原生时代的运维提效实战](https://blog.csdn.net/q1457797371/article/details/159430867)
 
++ [控制权之争：从 Workflow 到 Claude Skills，AI 正在进入「执行契约时代」](https://blog.csdn.net/tq6J5Yg14/article/details/159467529)
+
++ [小程序短信接口专项教程：微信生态内实现一键获取手机号与验证](https://blog.csdn.net/2401_88588504/article/details/159427735)
+
++ [电脑安全模式怎么进？【图文讲解】电脑进不了系统？电脑蓝屏怎么办？Win10/11安全模式?新手电脑教程](https://blog.csdn.net/aiuinin_/article/details/159388197)
+
++ [Gin 接收前端传参方式有几种？](https://blog.csdn.net/BIG_FG_CSDN/article/details/159478092)
+
