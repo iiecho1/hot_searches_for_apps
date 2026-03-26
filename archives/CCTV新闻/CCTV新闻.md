@@ -167,3 +167,5 @@
 
 + [伊朗通过中间人回应美15点停火提议 提出明确前提条件](https://news.cctv.com/2026/03/27/ARTIPcMpIPyGW043p3sZW5do260326.shtml)
 
++ [国际观察丨“进攻化改组”自卫队 日本彻底撕下“防卫”伪装](https://news.cctv.com/2026/03/27/ARTIvJ2RQuda44Qstx55nTHI260326.shtml)
+
