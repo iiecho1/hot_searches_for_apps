@@ -53,3 +53,5 @@
 
 + [进厂的救赎](https://www.v2ex.com/t/1201127)
 
++ [这情况，还有必要买 macbook 吗](https://www.v2ex.com/t/1201316)
+

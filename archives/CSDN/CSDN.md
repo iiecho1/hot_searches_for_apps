@@ -173,3 +173,15 @@
 
 + [基于 YOLOv8 的交通违规检测系统](https://blog.csdn.net/m0_61028090/article/details/159477550)
 
++ [自进化医疗智能体：动态记忆与持续运行的Python架构编程（上）](https://blog.csdn.net/kkiron/article/details/159501755)
+
++ [接口频繁变化时，Flutter 项目如何保证稳定性？](https://blog.csdn.net/qq_36863796/article/details/159465229)
+
++ [GTC 2026深度拆解：Blackwell架构封神，AI Agent狂暴时代正式降临](https://blog.csdn.net/2602_94956987/article/details/159475916)
+
++ [《Linux系统编程》14.库的制作与原理](https://blog.csdn.net/qq_49648783/article/details/159473754)
+
++ [嵌入式硬件的学习----ARM](https://blog.csdn.net/2301_77695365/article/details/159466565)
+
++ [【YOLO26实战全攻略】15——模型版本管理与A/B测试——生产环境的最佳实践](https://blog.csdn.net/weixin_39815573/article/details/159475896)
+
