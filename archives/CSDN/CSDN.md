@@ -157,3 +157,9 @@
 
 + [OpenClaw实操指南 04｜主流AI编程模型权威对比：Claude Code/Codex/Gemini+国产，你的模型选对了吗？](https://blog.csdn.net/GODYAD/article/details/159478181)
 
++ [机器学习线性代数--(13)小结：从线性代数到机器学习](https://blog.csdn.net/weixin_43496589/article/details/159414812)
+
++ [Shor分解算法：量子计算如何威胁RSA加密](https://blog.csdn.net/eidolon_foot/article/details/159321943)
+
++ [AI + Docker + K8s：云原生时代的运维提效实战](https://blog.csdn.net/q1457797371/article/details/159430867)
+
