@@ -2,6 +2,8 @@
 
 [![auto_get_hot](https://github.com/iiecho1/hot_searches_for_apps/actions/workflows/auto.yaml/badge.svg)](https://github.com/iiecho1/hot_searches_for_apps/actions/workflows/auto.yaml)
 
+🌐 **在线访问：[hotsearch-web.vercel.app](https://hotsearch-web.vercel.app)**
+
 定时获取 30 个平台的热搜数据，按天归档为 Markdown 文件。从 2023 年 8 月 16 日开始运行。
 
 ## 数据来源
