@@ -25,3 +25,27 @@
 
 + [苹果 iOS / iPadOS 26.4 正式版更新汇总：新增 8 个表情、增强 Apple Music、未实装 AI 版 Siri](https://m.ithome.com/html/932312.htm)
 
++ [全新奥迪 A6L 正式上市：搭载华为乾崑智驾，起售价 32.29 万元](https://m.ithome.com/html/932681.htm)
+
++ [7999 → 5099 元国补新低：iPhone Air 即将破五千，支持 12 期免息](https://m.ithome.com/html/932475.htm)
+
++ [小米汽车回应试驾新一代 SU7 和前代动力感受不同，称首批新车前 300km 属「新手保护期」动力受限](https://m.ithome.com/html/932705.htm)
+
++ [华为天气 15.0.14.300 版本官宣上线，新增降水、台风、温度、风力自研天气地图](https://m.ithome.com/html/932696.htm)
+
++ [华为鸿蒙手机“龙虾”小艺 Claw 开启预约：适配 HarmonyOS 6，支持手机、平板设备](https://m.ithome.com/html/932710.htm)
+
++ [阿里巴巴蔡崇信：CEO 岗位永远安全，智能体不会取代 CEO](https://m.ithome.com/html/932442.htm)
+
++ [领先半年：消息称行业首个阔比例大折叠手机定档 4 月，预计是华为 Pura X2](https://m.ithome.com/html/932559.htm)
+
++ [国家超算互联网单用户免费词元（Token）额度升至 3000 万](https://m.ithome.com/html/932605.htm)
+
++ [金山云：雷军因其他工作安排辞任非执行董事](https://m.ithome.com/html/932687.htm)
+
++ [OpenAI 突然宣布停止视频生成服务 Sora，消息称迪士尼“深感震惊”](https://m.ithome.com/html/932695.htm)
+
++ [一加李杰称 15T 现在定价很极致，按照新的内存成本后面可能还要涨价](https://m.ithome.com/html/932651.htm)
+
++ [边走边打 + 光速毁伤：国产激光武器击落无人机真实画面公布](https://m.ithome.com/html/932711.htm)
+

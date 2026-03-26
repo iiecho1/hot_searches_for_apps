@@ -127,3 +127,17 @@
 
 + [HarmonyOS 5.0游戏开发实战：基于ArkGraphics 3D的轻量级物理引擎游戏](https://blog.csdn.net/u014727709/article/details/159392300)
 
++ [深度Oracle替换工程实践的技术解读（下篇）](https://blog.csdn.net/qq_32682301/article/details/159480222)
+
++ [面向工业物联网的大数据底座选型：Apache IoTDB 的架构能力与落地价值分析](https://blog.csdn.net/m0_55394328/article/details/159391355)
+
++ [Elasticsearch：shell 工具不是上下文工程的银弹](https://blog.csdn.net/UbuntuTouch/article/details/159486747)
+
++ [360发布OpenClaw安全智能体，兼容主流大模型引爆行业](https://blog.csdn.net/HHX_01/article/details/159422163)
+
++ [【HarmonyOS 6.0】OAID服务正式支持TV设备](https://blog.csdn.net/weixin_74809706/article/details/159211065)
+
++ [Gin 接收前端传参方式有几种？](https://blog.csdn.net/BIG_FG_CSDN/article/details/159478092)
+
++ [【AimRT】现代机器人通信中间件 AimRT](https://blog.csdn.net/cjy000111/article/details/159425152)
+
