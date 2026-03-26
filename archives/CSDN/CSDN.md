@@ -191,3 +191,5 @@
 
 + [GTC 2026深度拆解：英伟达Blackwell架构封神，AI Agent迈入狂暴时代](https://blog.csdn.net/2401_89688708/article/details/159475586)
 
++ [systemctl配置linux自启动遇到的问题，如何解决？](https://blog.csdn.net/weixin_43970743/article/details/158808844)
+
