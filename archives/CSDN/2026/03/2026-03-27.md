@@ -141,3 +141,19 @@
 
 + [如何给新电脑硬盘分区？一文分享 3 种方法 （分区教程）](https://blog.csdn.net/2503_94364859/article/details/159429159)
 
++ [开年王炸？马斯克都盛赞的 Kimi 架构级创新《Attention Residuals》深度解读](https://blog.csdn.net/AggressiveYu/article/details/159429505)
+
++ [AI 大模型落地系列｜Eino 组件核心篇：文档进入 RAG 之前，Loader 和 Parser 到底各管什么](https://blog.csdn.net/2302_80067378/article/details/159514239)
+
++ [基于扫码技术的卒中救治时间节点精准管理方案（上）： 钉钉端小程序设计与实现](https://blog.csdn.net/weixin_30234721/article/details/159380326)
+
++ [【Claude Code】Claude Code 接入阿里云百炼 Coding Plan 完整配置教程（Linux版）](https://blog.csdn.net/linjiuxiansheng/article/details/159416402)
+
++ [基于K8s+Helm部署OpenClaw实践笔记](https://blog.csdn.net/weixin_41120248/article/details/159431052)
+
++ [嵌入式硬件的学习----ARM](https://blog.csdn.net/2301_77695365/article/details/159466565)
+
++ [论文AI率多少算正常？各高校AIGC检测标准汇总解读](https://blog.csdn.net/aigccleaner/article/details/159434412)
+
++ [OpenClaw实操指南 04｜主流AI编程模型权威对比：Claude Code/Codex/Gemini+国产，你的模型选对了吗？](https://blog.csdn.net/GODYAD/article/details/159478181)
+
