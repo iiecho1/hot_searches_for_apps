@@ -169,3 +169,5 @@
 
 + [国际观察丨“进攻化改组”自卫队 日本彻底撕下“防卫”伪装](https://news.cctv.com/2026/03/27/ARTIvJ2RQuda44Qstx55nTHI260326.shtml)
 
++ [美众议院军事委员会通过法案 强制要求军用飞机配备防撞技术](https://news.cctv.com/2026/03/27/ARTI3ktDvPvWxmAwxxjpKdNx260327.shtml)
+
