@@ -191,3 +191,23 @@
 
 + [地区战事持续 胡塞武装会否参战](https://news.cctv.com/2026/03/26/ARTIZzmMbOFaY7YbalCjoJTg260326.shtml)
 
++ [伊朗军方称已击中或击落202架美以军机](https://news.cctv.com/2026/03/26/ARTIVT8YJmNwHUODt47LhUhf260326.shtml)
+
++ [阿联酋阿布扎比遭弹道导弹袭击 致2死3伤](https://news.cctv.com/2026/03/26/ARTIIvopM3RehsOh0MqJADrI260326.shtml)
+
++ [马达加斯加新一届政府组建完成](https://news.cctv.com/2026/03/26/ARTI1xD4FaVVHr5TMLWribOF260326.shtml)
+
++ [孟加拉国客运巴士坠河事故已致25人死亡](https://news.cctv.com/2026/03/26/ARTItZk6yDvIggRNu264xV0f260326.shtml)
+
++ [伊朗军方公布第26天作战行动细节 打击多处美以目标](https://news.cctv.com/2026/03/26/ARTI7RDoljaDENlZ6nNWFgOO260326.shtml)
+
++ [白俄罗斯与朝鲜签署友好合作条约](https://news.cctv.com/2026/03/26/ARTIdewDEqSiTPxCvkmwfSrz260326.shtml)
+
++ [联合国特使：对话与缓和局势是苏丹冲突方停火的关键](https://news.cctv.com/2026/03/26/ARTIl1DCWpG5Jp0eQ3ZS43gW260326.shtml)
+
++ [晋升仅9天后作案 强闯我驻日使馆不法之徒身份细节公布](https://news.cctv.com/2026/03/26/ARTIWtpENtmBsJzn96hizu6z260326.shtml)
+
++ [日本大阪府多校发生食物中毒事件 波及600余人](https://news.cctv.com/2026/03/26/ARTIPjZ8NogeJw78kUrrSs27260326.shtml)
+
++ [特朗普10年来将首次缺席美国保守派政治行动会议](https://news.cctv.com/2026/03/26/ARTIc5PXk9mcnMMrVi12pfSn260326.shtml)
+

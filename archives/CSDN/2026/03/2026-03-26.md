@@ -163,3 +163,13 @@
 
 + [BRep几何内核 造核数学指引](https://blog.csdn.net/qq_43689451/article/details/159397487)
 
++ [【Matlab】MATLAB教程：CSV文件批量写入（案例：循环writetable；应用：批量保存数据）](https://blog.csdn.net/unbelievevc/article/details/159489172)
+
++ [【动手学大模型】机器何以学习](https://blog.csdn.net/weixin_44025655/article/details/159505964)
+
++ [YOLO+OpenClaw+SAM微调实战：工业缺陷自动标注的低代码落地](https://blog.csdn.net/m0_63774211/article/details/159506835)
+
++ [黑马大模型RAG与Agent智能体实战教程LangChain提示词——53、Agent智能体——Agent项目Agent创建（react_agent.py）](https://blog.csdn.net/Dontla/article/details/159430652)
+
++ [基于 YOLOv8 的交通违规检测系统](https://blog.csdn.net/m0_61028090/article/details/159477550)
+
