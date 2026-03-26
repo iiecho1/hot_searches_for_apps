@@ -125,3 +125,5 @@
 
 + [Spring Boot 3.0 与 GraalVM 原生镜像：云原生时代的性能革命](https://blog.csdn.net/alex_goden/article/details/159476681)
 
++ [HarmonyOS 5.0游戏开发实战：基于ArkGraphics 3D的轻量级物理引擎游戏](https://blog.csdn.net/u014727709/article/details/159392300)
+
