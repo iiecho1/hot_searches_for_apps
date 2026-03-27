@@ -233,3 +233,7 @@
 
 + [深度学习实战-基于Xception的阿尔茨海默病图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157691012)
 
++ [Docker Desktop 版本与 IDEA 插件兼容性](https://blog.csdn.net/qq_36710118/article/details/159437364)
+
++ [【OpenClaw】5. 微信 ClawBot 接入指南](https://blog.csdn.net/youcans/article/details/158261361)
+
