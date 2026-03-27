@@ -181,3 +181,9 @@
 
 + [伊朗总统：伊朗致力于结束战争 从未寻求拥有核武器](https://news.cctv.com/2026/03/27/ARTIIJospKjOiwkBmbtlkTNI260327.shtml)
 
++ [以色列反对党批政府多线作战 高层称以军承压严重](https://news.cctv.com/2026/03/27/ARTIw3n8wIFT8GIXqloOKhlT260327.shtml)
+
++ [日本防卫大臣：自卫队官员强闯中国使馆“令人深感遗憾”](https://news.cctv.com/2026/03/27/ARTIjxzCRRi6VUNgnY8jqNG1260327.shtml)
+
++ [美媒：国防部正考虑向中东增派1万人地面部队](https://news.cctv.com/2026/03/27/ARTIHcm7ZBUzSzo8nAX2EbOT260327.shtml)
+

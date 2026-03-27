@@ -33,3 +33,27 @@
 
 + [国家超算互联网单用户免费词元（Token）额度升至 3000 万](https://m.ithome.com/html/932605.htm)
 
++ [罗技中国发布声明，就“罗技 G 官方旗舰店”违规视频内容致歉](https://m.ithome.com/html/933104.htm)
+
++ [宣传视频称“我一降价就像狗一样跑来”，罗技客服称相关同事已被警告、处罚](https://m.ithome.com/html/933101.htm)
+
++ [老头乐起诉小米汽车，当事企业称已达成和解](https://m.ithome.com/html/932975.htm)
+
++ [零跑 A10 上市：不到 9 万元的小车也有激光雷达，6.58 万-8.68 万元](https://m.ithome.com/html/933053.htm)
+
++ [15.19 万元起：全球首款 B 级纯电闪充 SUV 比亚迪宋 Ultra EV 车型正式上市](https://m.ithome.com/html/933052.htm)
+
++ [一加李杰再谈手机内存成本上涨：幅度超 400% 可以说涨疯了，没有哪一家可以完全避开](https://m.ithome.com/html/933082.htm)
+
++ [曝苹果屏下摄像头概念机测试中，明年 iPhone 20 系列评估 200Mp 1/1.12&quot; 主摄](https://m.ithome.com/html/932873.htm)
+
++ [小米澎湃 OS 回应 MIUI 停更：已完成交棒将逐步退出维护，同时仍保证必要安全补丁升级](https://m.ithome.com/html/933021.htm)
+
++ [零跑朱江明：国内现在有 17 家车企，但国内市场容不下 17 家](https://m.ithome.com/html/933085.htm)
+
++ [【IT之家开箱】业界首创隐藏式无感出风设计：华为 Mate 80 Pro Max 风驰版图赏](https://m.ithome.com/html/933011.htm)
+
++ [大众、小鹏合作首款车型：中大型 SUV 与众 08 预售，23.99 万-29.99 万元](https://m.ithome.com/html/933080.htm)
+
++ [比亚迪官宣：《007》邦德扮演者丹尼尔 &#183; 克雷格出任腾势汽车全球代言人](https://m.ithome.com/html/933061.htm)
+

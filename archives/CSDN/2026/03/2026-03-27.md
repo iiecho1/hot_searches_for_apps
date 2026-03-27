@@ -179,3 +179,23 @@
 
 + [Flutter组件通信详解：父子组件交互的最佳实践](https://blog.csdn.net/2302_80329073/article/details/159473908)
 
++ [HarmonyOS 6 原生图表库 qCharts 深度解析：高性能、全场景交互的 ArkUI 实战](https://blog.csdn.net/sjw890821sjw/article/details/159459555)
+
++ [SkyWalking - 与 Prometheus + Tempo / Grafana Alloy 对比](https://blog.csdn.net/qq_41187124/article/details/157512458)
+
++ [鸿蒙游戏上线全流程（开发 + 打包 + 发布）](https://blog.csdn.net/qq_36863796/article/details/159513665)
+
++ [架构大揭秘：单 Agent vs. 多 Agent，你的 AI 团队该怎么组建？](https://blog.csdn.net/zxc18344522713/article/details/159518104)
+
++ [【Vibe Coding】打完球算账太麻烦，coding一个小程序算账](https://blog.csdn.net/Txx318026/article/details/159510136)
+
++ [【实战】Windows 下为 Stable Diffusion WebUI 编译 Flash-Attention 2.8.0 专属 Wheel（RTX 3090 sm_86）](https://blog.csdn.net/u014451778/article/details/159416440)
+
++ [基于动态三维环境下的Q-Learning算法无人机自主避障路径规划研究（Matlab代码实现）](https://blog.csdn.net/Ke_Yan_She/article/details/159524840)
+
++ [【Matlab】无人机自主导航鲁棒控制算法实现](https://blog.csdn.net/unbelievevc/article/details/159526158)
+
++ [基于YOLO26深度学习的【电力巡检异常检测与语音提示系统】【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/159508139)
+
++ [基于 Vue 3 + Cesium 的 DJI 无人机航线规划系统技术实践](https://blog.csdn.net/pengfriends/article/details/159471109)
+
