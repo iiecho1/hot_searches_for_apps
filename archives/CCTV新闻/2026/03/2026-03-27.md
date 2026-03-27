@@ -187,3 +187,9 @@
 
 + [美媒：国防部正考虑向中东增派1万人地面部队](https://news.cctv.com/2026/03/27/ARTIHcm7ZBUzSzo8nAX2EbOT260327.shtml)
 
++ [伊朗致信联合国 抗议伊议长和外长被列为暗杀目标](https://news.cctv.com/2026/03/27/ARTIjHRrEYfrbANWHUGng1TY260327.shtml)
+
++ [日本自卫官持刀强闯中国使馆事件：六问日本当局](https://news.cctv.com/2026/03/27/ARTIrvRbjB3lDu2jKVcF4WcI260327.shtml)
+
++ [俄外长：美国干涉中东局势使情况变得更加“严峻”](https://news.cctv.com/2026/03/27/ARTITMO3OsjordLIHCJOrcdv260327.shtml)
+

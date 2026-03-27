@@ -199,3 +199,7 @@
 
 + [基于 Vue 3 + Cesium 的 DJI 无人机航线规划系统技术实践](https://blog.csdn.net/pengfriends/article/details/159471109)
 
++ [机器学习的半监督学习可以实现什么功能？](https://blog.csdn.net/2501_94724583/article/details/159516954)
+
++ [ElasticRelay：把多源数据库变更，稳定地送进 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/159424877)
+
