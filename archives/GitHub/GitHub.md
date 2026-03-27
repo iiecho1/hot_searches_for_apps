@@ -21,3 +21,15 @@
 
 + [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide)
 
++ [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
+
++ [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+
++ [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+

@@ -217,3 +217,11 @@
 
 + [Prompt工程攻略：解锁大模型能力的核心钥匙](https://blog.csdn.net/2401_87660168/article/details/159510947)
 
++ [【LE Audio】PACS精讲[2]: 服务层核心逻辑，玩转音频能力发布与交互](https://blog.csdn.net/weixin_37800531/article/details/159290476)
+
++ [Harness Engineering：AI 时代的软件工程新范式](https://blog.csdn.net/qq_35207086/article/details/159509764)
+
++ [Flink—Sql接口](https://blog.csdn.net/weixin_38938108/article/details/159473987)
+
++ [腾讯云端Openclaw+飞书 多机器人配置全攻略（新手友好版）](https://blog.csdn.net/weixin_42547636/article/details/159488472)
+
