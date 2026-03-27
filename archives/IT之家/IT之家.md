@@ -37,3 +37,5 @@
 
 + [苹果官网停售下架 Mac Pro：跌宕 13 年、更迭 3 代](https://m.ithome.com/html/933109.htm)
 
++ [【IT之家开箱】业界首创隐藏式无感出风设计：华为 Mate 80 Pro Max 风驰版图赏](https://m.ithome.com/html/933011.htm)
+
