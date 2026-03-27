@@ -19,3 +19,5 @@
 
 + [datalab-to/chandra](https://github.com/datalab-to/chandra)
 
++ [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide)
+
