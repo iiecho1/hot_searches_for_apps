@@ -175,3 +175,7 @@
 
 + [美国消费者信心指数大跌 通胀预期上升](https://news.cctv.com/2026/03/28/ARTI38DFqQTIithXw70VuyR7260328.shtml)
 
++ [国际民航组织新规：每位乘客最多携带两块移动电源](https://news.cctv.com/2026/03/28/ARTIcFPO91AJwMXuLdAf5SQW260328.shtml)
+
++ [蒙古国国家大呼拉尔批准总理辞职](https://news.cctv.com/2026/03/28/ARTI3sLE6tJiJvSMdPLaXC07260328.shtml)
+
