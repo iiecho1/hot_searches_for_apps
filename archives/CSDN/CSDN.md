@@ -213,3 +213,7 @@
 
 + [《 One-KVM 的硬件级远控方案，通过 玩客云 等廉价硬件实现 视频信号采集 + 键鼠模拟 + 虚拟 USB》](https://blog.csdn.net/Dovis5884/article/details/159546161)
 
++ [ReactNative项目OpenHarmony三方库集成实战：react-native-fingerprint-scanner](https://blog.csdn.net/qq_61024956/article/details/159509931)
+
++ [Prompt工程攻略：解锁大模型能力的核心钥匙](https://blog.csdn.net/2401_87660168/article/details/159510947)
+

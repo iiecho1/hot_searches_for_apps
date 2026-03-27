@@ -197,3 +197,5 @@
 
 + [中国驻韩国大使馆发布提醒：谨防中东局势相关电信诈骗](https://news.cctv.com/2026/03/27/ARTIdazFpEK7WZ86jH5kK5UN260327.shtml)
 
++ [伊朗称多处文化遗产在美以袭击中受损](https://news.cctv.com/2026/03/27/ARTI3DHd895EQQHfdTFoGdl3260327.shtml)
+
