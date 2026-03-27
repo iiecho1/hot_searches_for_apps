@@ -117,3 +117,5 @@
 
 + [Android——组件化实战：Application启动时用ARouter实现跨模块调用](https://blog.csdn.net/wy313622821/article/details/159469348)
 
++ [OpenClaw人人养虾：接入微信公众号和微信小程序](https://blog.csdn.net/shanghaiwren/article/details/159381137)
+
