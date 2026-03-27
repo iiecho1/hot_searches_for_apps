@@ -207,3 +207,9 @@
 
 + [2026年3月27日人工智能早间新闻](https://blog.csdn.net/fudaihb/article/details/159526268)
 
++ [2026年03月27日全球AI前沿动态](https://blog.csdn.net/ld326/article/details/159516706)
+
++ [使用PyTorch构建你的第一个神经网络](https://blog.csdn.net/2501_94542354/article/details/159477715)
+
++ [《 One-KVM 的硬件级远控方案，通过 玩客云 等廉价硬件实现 视频信号采集 + 键鼠模拟 + 虚拟 USB》](https://blog.csdn.net/Dovis5884/article/details/159546161)
+
