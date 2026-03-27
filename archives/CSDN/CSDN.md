@@ -97,3 +97,23 @@
 
 + [深度学习实战-基于Xception的阿尔茨海默病图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157691012)
 
++ [Oracle 26ai 图数据库](https://blog.csdn.net/weixin_41645135/article/details/159553948)
+
++ [自建私有化客服系统：Chatwoot 部署与网页集成实操](https://blog.csdn.net/baronbool/article/details/159504923)
+
++ [【优选算法】(实战领略前缀和的真谛)](https://blog.csdn.net/2401_87629362/article/details/159387720)
+
++ [消息队列2-SpringBoot操作RabbitMQ](https://blog.csdn.net/2502_91743997/article/details/159466376)
+
++ [HarmonyOS ArkTS 进阶实战：深入理解边距、边框与嵌套布局](https://blog.csdn.net/2501_93573294/article/details/159476845)
+
++ [Linux 部署 RocketMQ 实操：从内网到公网的完整落地心得](https://blog.csdn.net/qq_61024956/article/details/159460509)
+
++ [Power Compiler：UPF模式下的单元映射规则](https://blog.csdn.net/weixin_45791458/article/details/159514118)
+
++ [Claude Code - 深度解析 Claude Code 自动模式的安全架构与设计哲学](https://blog.csdn.net/yangshangwei/article/details/159536862)
+
++ [车机跨屏交互实战：Android Automotive 跨屏显示与触摸传递实践](https://blog.csdn.net/CSqingchen/article/details/159465398)
+
++ [Android——组件化实战：Application启动时用ARouter实现跨模块调用](https://blog.csdn.net/wy313622821/article/details/159469348)
+

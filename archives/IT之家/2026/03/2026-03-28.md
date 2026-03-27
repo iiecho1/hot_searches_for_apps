@@ -25,3 +25,15 @@
 
 + [曝苹果屏下摄像头概念机测试中，明年 iPhone 20 系列评估 200Mp 1/1.12&quot; 主摄](https://m.ithome.com/html/932873.htm)
 
++ [零跑朱江明：国内现在有 17 家车企，但国内市场容不下 17 家](https://m.ithome.com/html/933085.htm)
+
++ [100% 适配：消息称苹果 iOS 27 拓展“液态玻璃”，要求所有 App 跟进](https://m.ithome.com/html/933122.htm)
+
++ [比亚迪官宣：《007》邦德扮演者丹尼尔 &#183; 克雷格出任腾势汽车全球代言人](https://m.ithome.com/html/933061.htm)
+
++ [大众、小鹏合作首款车型：中大型 SUV 与众 08 预售，23.99 万-29.99 万元](https://m.ithome.com/html/933080.htm)
+
++ [问界汽车：关注到部分用户提出车辆软硬件升级的诉求，正在积极寻找解决方案](https://m.ithome.com/html/933098.htm)
+
++ [苹果官网停售下架 Mac Pro：跌宕 13 年、更迭 3 代](https://m.ithome.com/html/933109.htm)
+
