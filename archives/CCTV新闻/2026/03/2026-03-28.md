@@ -167,3 +167,11 @@
 
 + [伊朗警告地区美以工业企业相关人员尽快撤离](https://news.cctv.com/2026/03/28/ARTIndwtNPk9SVvMZSCFS8WI260328.shtml)
 
++ [伊朗警告美方：若发动地面行动将遭对等反制](https://news.cctv.com/2026/03/28/ARTId1C9qLnXqWjEIXY6WtIA260328.shtml)
+
++ [特朗普认定国土安全部“停摆”构成紧急状态](https://news.cctv.com/2026/03/28/ARTIvTzu4ta0tkT7SGGYTHKk260328.shtml)
+
++ [伊朗官员称考虑退出《不扩散核武器条约》](https://news.cctv.com/2026/03/28/ARTIefV5NhWA8zOP3INLyFZz260328.shtml)
+
++ [美国消费者信心指数大跌 通胀预期上升](https://news.cctv.com/2026/03/28/ARTI38DFqQTIithXw70VuyR7260328.shtml)
+
