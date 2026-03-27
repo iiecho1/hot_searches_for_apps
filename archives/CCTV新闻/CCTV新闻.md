@@ -193,3 +193,7 @@
 
 + [俄外长：美国干涉中东局势使情况变得更加“严峻”](https://news.cctv.com/2026/03/27/ARTITMO3OsjordLIHCJOrcdv260327.shtml)
 
++ [外交部：日方表示遗憾远远不够 敦促其尽快彻查](https://news.cctv.com/2026/03/27/ARTIoWqAIodZoPPs2HY5pEgQ260327.shtml)
+
++ [中国驻韩国大使馆发布提醒：谨防中东局势相关电信诈骗](https://news.cctv.com/2026/03/27/ARTIdazFpEK7WZ86jH5kK5UN260327.shtml)
+
