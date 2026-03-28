@@ -197,3 +197,5 @@
 
 + [Python开源代码管理避坑实战：从Git高级操作到Docker环境配置](https://blog.csdn.net/qq_40652101/article/details/159506322)
 
++ [【深度解析】腾讯Claw三剑客横评：WorkBuddy、QClaw、CodeBuddy，3款AI Agent实测对比与选型指南](https://blog.csdn.net/u014354882/article/details/159490629)
+
