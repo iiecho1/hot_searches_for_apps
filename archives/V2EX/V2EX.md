@@ -61,3 +61,7 @@
 
 + [B 站搜不到国际歌](https://www.v2ex.com/t/1201768)
 
++ [小公司做跨境网络连接有哪些方案？](https://www.v2ex.com/t/1201713)
+
++ [[无卡订阅 Claude Pro 方案] 尼日利亚🇳🇬路线约 6.2 折、美区苹果路线约等于汇率价购买 Claude Pro，附 Claude 假模型避坑指南以及为什么不使用中转站](https://www.v2ex.com/t/1201760)
+

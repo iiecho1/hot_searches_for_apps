@@ -171,3 +171,7 @@
 
 + [K8S-从理论到实战](https://blog.csdn.net/qq_62877881/article/details/159493531)
 
++ [MySQL 监控实战：mysql_exporter 部署与远程监控实现](https://blog.csdn.net/lrq13965748542/article/details/159548713)
+
++ [ollama v0.18.3 发布：VS Code 原生集成 + Agent 模式，本地 AI 开发体验全面革新](https://blog.csdn.net/weixin_48502062/article/details/159508316)
+

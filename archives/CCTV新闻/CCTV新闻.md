@@ -189,3 +189,7 @@
 
 + [本轮美以伊冲突已致伊朗超9万处民用设施受损](https://news.cctv.com/2026/03/28/ARTI3i9dqdSLR5WlhYQqq1gq260328.shtml)
 
++ [俄2025年秋季征兵13.5万人 承诺不派往特别军事行动区域](https://news.cctv.com/2026/03/28/ARTIX0ATEcD4ZsfbUk32ikjX260328.shtml)
+
++ [肯尼亚洪灾遇难人数升至103人](https://news.cctv.com/2026/03/28/ARTIKHDyPlRbD0QtKmdrPOKe260328.shtml)
+
