@@ -21,3 +21,5 @@
 
 + [Claude 官网看个文档都被 ban，有没有解决办法？](https://www.v2ex.com/t/1201789)
 
++ [古法编程培训市场如同马车司机](https://www.v2ex.com/t/1201791)
+
