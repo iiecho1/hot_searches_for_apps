@@ -181,3 +181,11 @@
 
 + [Ubuntu 网络代理设置教程](https://blog.csdn.net/2501_92509118/article/details/159550658)
 
++ [消息中间件RabbitMQ vs Kafka vs Pulsar 详细对比](https://blog.csdn.net/weixin_43288714/article/details/159490025)
+
++ [源码级解耦：基于 Spring Boot/Vue 的 AI 视频平台二次开发指南与私有化部署实践](https://blog.csdn.net/weixin_63598920/article/details/159545067)
+
++ [【Web3】智能合约多环境部署架构：Mock机制与依赖注入实战](https://blog.csdn.net/qq_65052774/article/details/159512250)
+
++ [GitHub 热榜项目 - 日榜(2026-03-27)](https://blog.csdn.net/u014390502/article/details/159552177)
+

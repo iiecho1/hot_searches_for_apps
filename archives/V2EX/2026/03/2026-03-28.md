@@ -69,3 +69,7 @@
 
 + [深圳.NET B/S 方向出路何在？](https://www.v2ex.com/t/1201818)
 
++ [opus 小时限额之后，你们是等，还是用 sonnet 继续？](https://www.v2ex.com/t/1201800)
+
++ [想要一个 codex/claude code 的 Web UI 界面](https://www.v2ex.com/t/1201842)
+
