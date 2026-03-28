@@ -123,3 +123,7 @@
 
 + [关于Agent的几种范式](https://blog.csdn.net/Forrit/article/details/159554335)
 
++ [RLT——VLA浓缩Token引导的在线RL：VLA提供感知与动作先验，轻量级Actor-Critic基于VLA浓缩Token在线快速微调，最终从粗到细搞定拧螺丝和充电器插入](https://blog.csdn.net/v_JULY_v/article/details/159464672)
+
++ [文档数据库迁移实战：MongoDB 协议级兼容与 JSONB 引擎性能深度对比](https://blog.csdn.net/2302_78391795/article/details/159564812)
+
