@@ -147,3 +147,11 @@
 
 + [Spring Boot多数据源：Druid连接池，3步实现切换，性能提升90%？](https://blog.csdn.net/z_344791576/article/details/151898391)
 
++ [HarmonyOS 5.0行业解决方案：基于端侧AI的智能工业质检APP开发实战](https://blog.csdn.net/u014727709/article/details/159552690)
+
++ [【鸿蒙 PC 实战精讲】help2man 工具移植与适配指南（完整源码 + 编译脚本 + 避坑全集）标签： OpenHarmony | 鸿蒙 PC 开发 | help2man 移植 | 开源工具适配 ](https://blog.csdn.net/2403_88033173/article/details/159553895)
+
++ [基于 RHEL 9.7 搭建 Kubernetes v1.34 集群实战：Docker 运行时 (cri-dockerd) 与国内源配置详解](https://blog.csdn.net/2301_80335585/article/details/159550353)
+
++ [探索.NET 11 中 Native AOT 在云原生性能优化的极致应用](https://blog.csdn.net/dotnethello/article/details/159553159)
+
