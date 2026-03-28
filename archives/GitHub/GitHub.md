@@ -25,3 +25,7 @@
 
 + [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
++ [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+
++ [apache/superset](https://github.com/apache/superset)
+
