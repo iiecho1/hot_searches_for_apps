@@ -123,3 +123,17 @@
 
 + [华为OD机试真题2026双机位C卷 Python&JS 实现【用户入网定期复评】](https://blog.csdn.net/misayaaaaa/article/details/159508671)
 
++ [Scala case class模式匹配完全指南：解构数据的优雅艺术](https://blog.csdn.net/qq_41840843/article/details/158662872)
+
++ [本地部署 LookScanned：轻松将 PDF 转为逼真扫描件，结合内网穿透实现远程访问](https://blog.csdn.net/COLLINSXU/article/details/159549159)
+
++ [新型电力系统应该用什么数据库？源网荷储四侧的时序数据库选型与落地实战](https://blog.csdn.net/weixin_62765017/article/details/159533251)
+
++ [Cookie、Session、HTTPS 全解析：从原理到中间人攻击](https://blog.csdn.net/2302_77620024/article/details/159514412)
+
++ [ETL是什么？一文讲清ETL和ELT的区别](https://blog.csdn.net/yuanziok/article/details/159464263)
+
++ [【Flutter】Flutter 拍照/相册选择后无法显示对话框问题解决方案](https://blog.csdn.net/linjiuxiansheng/article/details/159516727)
+
++ [计算机网络 之 【http协议】（hppt请求与响应细节、http版本与连接管理）](https://blog.csdn.net/zl_dfq/article/details/159486388)
+

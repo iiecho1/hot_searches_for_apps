@@ -27,3 +27,19 @@
 
 + [美股这波下跌啥时候是个头呀](https://www.v2ex.com/t/1201491)
 
++ [程序员会被产品经理替代吗](https://www.v2ex.com/t/1201573)
+
++ [闲鱼 ai 代充的货源都来自于这个卡网](https://www.v2ex.com/t/1201567)
+
++ [Opus 4.6 模型不能用了](https://www.v2ex.com/t/1201647)
+
++ [这种 PUA 的 skill 真的对 ai 有用麻？](https://www.v2ex.com/t/1201606)
+
++ [国内 AI 开发，受到的冲击没有想象中那么大？](https://www.v2ex.com/t/1201575)
+
++ [AI 飞速发展的当下，各大厂们为啥都还在卷 IDE？](https://www.v2ex.com/t/1201695)
+
++ [用了豆包输入法，打开新世界，但是有个问题……](https://www.v2ex.com/t/1201576)
+
++ [如果人生能带着记忆重来就好了](https://www.v2ex.com/t/1201741)
+

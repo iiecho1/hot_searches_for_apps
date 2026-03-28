@@ -39,3 +39,27 @@
 
 + [【IT之家开箱】业界首创隐藏式无感出风设计：华为 Mate 80 Pro Max 风驰版图赏](https://m.ithome.com/html/933011.htm)
 
++ [格力电器董明珠回应年轻人躺平：是社会舆论误导，我做了 2000 亿还被嫌走得慢](https://m.ithome.com/html/933342.htm)
+
++ [华为鸿蒙 HarmonyOS 6 系统沉浸光感视效更至 2.0 版本，效果三档可调](https://m.ithome.com/html/933466.htm)
+
++ [消息称苹果 iPhone 18 系列手机灵动岛缩小，黑边、边框没有变化](https://m.ithome.com/html/933492.htm)
+
++ [OpenClaw 之父谈 AI 温差：美国员工会因“养龙虾”被裁，中国员工不用反而会被开除](https://m.ithome.com/html/933250.htm)
+
++ [“老头乐起诉小米汽车”当事企业燕鲁新能源声明：已撤回专利无效请求，向小米汽车致歉](https://m.ithome.com/html/933463.htm)
+
++ [英伟达 RTX 6090 显卡爆料：512-bit 位宽、32GB 显存](https://m.ithome.com/html/933226.htm)
+
++ [小米罗福莉：OpenClaw 是 Agent 框架的颠覆性事件，开源特性拉高国内开源模型上限](https://m.ithome.com/html/933418.htm)
+
++ [沉浸光感下放，华为 Pura 70 / Mate 70 等机型推送鸿蒙 HarmonyOS 6.0.0.328 SP52 花粉 Beta 版更新](https://m.ithome.com/html/933460.htm)
+
++ [消息称某厂 4 月超大杯机型可能取消，预计为华为 Pura 旗下](https://m.ithome.com/html/933394.htm)
+
++ [小鹏汽车中文名变更为“小鹏集团”，官方宣称开启物理 AI 新征程](https://m.ithome.com/html/933421.htm)
+
++ [第五代五菱宏光 MINIEV 上市，4.48 万-5.48 万元](https://m.ithome.com/html/933471.htm)
+
++ [小米汽车谈“融资租赁方案”：合法合规，网上所说有违规风险、有套路均不属实](https://m.ithome.com/html/933505.htm)
+
