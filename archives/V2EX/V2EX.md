@@ -75,3 +75,5 @@
 
 + [Claude 官网看个文档都被 ban，有没有解决办法？](https://www.v2ex.com/t/1201789)
 
++ [GLM 5.1 有实际测试过的吗](https://www.v2ex.com/t/1201802)
+
