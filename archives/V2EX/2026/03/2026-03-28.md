@@ -43,3 +43,11 @@
 
 + [如果人生能带着记忆重来就好了](https://www.v2ex.com/t/1201741)
 
++ [今天苏州是真有十里长街送雪峰](https://www.v2ex.com/t/1201790)
+
++ [有点搞不懂 Claude Code 了](https://www.v2ex.com/t/1201779)
+
++ [家庭琐事，我奶把我姑折磨崩溃了。](https://www.v2ex.com/t/1201723)
+
++ [个人对于几个主流 Agent 编程套餐的感受](https://www.v2ex.com/t/1201703)
+

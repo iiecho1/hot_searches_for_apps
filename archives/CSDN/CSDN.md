@@ -137,3 +137,13 @@
 
 + [计算机网络 之 【http协议】（hppt请求与响应细节、http版本与连接管理）](https://blog.csdn.net/zl_dfq/article/details/159486388)
 
++ [Apifox投毒事件深度分析报告：供应链攻击窃取SSH密钥与Git凭据](https://blog.csdn.net/weimeilayer/article/details/159539364)
+
++ [Oracle 迁移深度复盘：多数据库选型决策全解析](https://blog.csdn.net/weixin_43151418/article/details/159511017)
+
++ [【HFP】规范精讲[14]: HFP核心复用AT命令：从GSM/3GPP标准到蓝牙免提适配](https://blog.csdn.net/weixin_37800531/article/details/159554417)
+
++ [C++ 动态内存管理：new/delete 的底层真相与避坑黑科技](https://blog.csdn.net/2502_93089837/article/details/159473830)
+
++ [Spring Boot多数据源：Druid连接池，3步实现切换，性能提升90%？](https://blog.csdn.net/z_344791576/article/details/151898391)
+
