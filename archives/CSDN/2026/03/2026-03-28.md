@@ -175,3 +175,9 @@
 
 + [ollama v0.18.3 发布：VS Code 原生集成 + Agent 模式，本地 AI 开发体验全面革新](https://blog.csdn.net/weixin_48502062/article/details/159508316)
 
++ [ROS2 机器人 少年创客营：Day 4](https://blog.csdn.net/u010249118/article/details/159553618)
+
++ [Spring Boot 整合 MyBatis + 自动配置原理详解](https://blog.csdn.net/StackNoOverflow/article/details/159553201)
+
++ [Ubuntu 网络代理设置教程](https://blog.csdn.net/2501_92509118/article/details/159550658)
+
