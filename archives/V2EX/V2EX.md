@@ -57,3 +57,7 @@
 
 + [ChromeClaw - 浏览器里零 token 免费养龙虾](https://www.v2ex.com/t/1201640)
 
++ [我去年反 AI，一群人骂我](https://www.v2ex.com/t/1201799)
+
++ [B 站搜不到国际歌](https://www.v2ex.com/t/1201768)
+

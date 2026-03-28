@@ -163,3 +163,11 @@
 
 + [Excel 公式技术手册](https://blog.csdn.net/m0_53605808/article/details/159504871)
 
++ [大数据环境下的BI架构：Hadoop与Spark的企业级应用整理](https://blog.csdn.net/2508_93059398/article/details/159534023)
+
++ [【完整源码+数据集+部署教程】幼儿与非幼儿识别系统源码分享[一条龙教学YOLOV8标注好的数据集一键训练_70+全套改进创新点发刊_Web前端展示]](https://blog.csdn.net/weixin_43860634/article/details/159537839)
+
++ [ARM-07-i.MX6ULL-EPIT定时器和GPT](https://blog.csdn.net/somi7/article/details/159512343)
+
++ [K8S-从理论到实战](https://blog.csdn.net/qq_62877881/article/details/159493531)
+
