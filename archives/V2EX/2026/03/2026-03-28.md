@@ -21,3 +21,9 @@
 
 + [Kimi 2.5 说自己是 Claude，一个由 Anthropic 开发的 AI 助手](https://www.v2ex.com/t/1201468)
 
++ [开一家炒鸡店(鸡公煲)或者自助洗车能否盈利？](https://www.v2ex.com/t/1201550)
+
++ [突然发现，有瓶啤酒原浆太大，想约人喝酒，发现..........唉](https://www.v2ex.com/t/1201514)
+
++ [美股这波下跌啥时候是个头呀](https://www.v2ex.com/t/1201491)
+
