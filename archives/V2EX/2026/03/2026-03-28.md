@@ -53,3 +53,7 @@
 
 + [程序员的 5 个转型方向](https://www.v2ex.com/t/1201775)
 
++ [有了 openclaw, app 会死吗?](https://www.v2ex.com/t/1201764)
+
++ [ChromeClaw - 浏览器里零 token 免费养龙虾](https://www.v2ex.com/t/1201640)
+

@@ -155,3 +155,11 @@
 
 + [探索.NET 11 中 Native AOT 在云原生性能优化的极致应用](https://blog.csdn.net/dotnethello/article/details/159553159)
 
++ [AI 大模型落地系列｜Eino 组件核心篇：用 Retriever 敲开RAG的大门](https://blog.csdn.net/2302_80067378/article/details/159549389)
+
++ [⼤⼚养虾哪家强？30+⻰虾怎么选？推荐这个对⽤户/开发者最友好的TOP10榜单](https://blog.csdn.net/qq_44866828/article/details/159541334)
+
++ [PostgreSQL 索引内部机制与表重建深度解析](https://blog.csdn.net/wzx8731/article/details/159512400)
+
++ [Excel 公式技术手册](https://blog.csdn.net/m0_53605808/article/details/159504871)
+
