@@ -25,3 +25,27 @@
 
 + [小米汽车谈“融资租赁方案”：合法合规，网上所说有违规风险、有套路均不属实](https://m.ithome.com/html/933505.htm)
 
++ [“华人神探”李昌钰逝世享年 87 岁：从江苏如皋走出的“当代福尔摩斯”，曾参与 911、肯尼迪遇刺案等 8000 余起案件](https://m.ithome.com/html/933583.htm)
+
++ [华为诺亚方舟实验室主任、盘古大模型负责人王云鹤宣布离职](https://m.ithome.com/html/933594.htm)
+
++ [OPPO Pad mini 轻薄小尺寸平板曝光，预计搭载 8.8 英寸高刷屏 + 骁龙 8 Gen5 芯片](https://m.ithome.com/html/933627.htm)
+
++ [首发价 2999~4799 元：华为 MatePad Pro 12.2 英寸、MatePad Mini 悦读版「幻影紫」新配色开售](https://m.ithome.com/html/933544.htm)
+
++ [消息称“HM”厂商已储备一定内存因此暂未涨价，预计为华为、小米](https://m.ithome.com/html/933658.htm)
+
++ [iPhone 17 等最强护盾：苹果“锁定模式”推出近 4 年，至今无成功破解记录](https://m.ithome.com/html/933521.htm)
+
++ [小米深夜上新：SU7 Ultra 新增暮光玫瑰车漆 + 三档可调碳纤维尾翼](https://m.ithome.com/html/933525.htm)
+
++ [微信鸿蒙版 App 开启 8.0.16.40 邀测，支持 OpenClaw 插件接入 ](https://m.ithome.com/html/933633.htm)
+
++ [告别“网页套壳”偷懒：微软组建新团队，为 Win11 打造 100% 原生应用](https://m.ithome.com/html/933529.htm)
+
++ [苹果高管：iPhone 是 AI 最强载体，未来 50 年仍是公司王牌](https://m.ithome.com/html/933608.htm)
+
++ [输了官司不爽？马斯克嘲讽 84 岁法官：他穿成这样我怎能获得公正审判](https://m.ithome.com/html/933561.htm)
+
++ [两秒破解弱口令，央视现场演示 Win11 开机密码破解全过程](https://m.ithome.com/html/933584.htm)
+
