@@ -37,3 +37,5 @@
 
 + [moeru-ai/airi](https://github.com/moeru-ai/airi)
 
++ [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+
