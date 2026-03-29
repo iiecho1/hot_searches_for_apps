@@ -167,3 +167,9 @@
 
 + [STM32传感器模块编程实践(十九) 光子物联北斗GPS定位模块简介及驱动源码](https://blog.csdn.net/zy2232652/article/details/159515445)
 
++ [【HarmonyOS 6.0】Agent Framework Kit深度解析：构建应用与智能体的无缝连接](https://blog.csdn.net/weixin_74809706/article/details/159431330)
+
++ [Linux 进程信号深度解析（下）：信号的保存、阻塞与捕捉](https://blog.csdn.net/2503_91389547/article/details/159387993)
+
++ [Mermaid 使用 | 语法、流程图、时序图、甘特图、饼图、类图、状态图、用户旅行图](https://blog.csdn.net/u013669912/article/details/151085814)
+

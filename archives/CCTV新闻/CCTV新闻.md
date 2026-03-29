@@ -203,3 +203,9 @@
 
 + [联合国敦促也门胡塞武装停止进一步卷入地区冲突](https://news.cctv.com/2026/03/29/ARTID5N0t7VpLsAR5Ktz7OcO260329.shtml)
 
++ [佩斯科夫：俄美关系近年来跌至历史最低点 愿与美发展关系](https://news.cctv.com/2026/03/29/ARTI12dKL0AtSLmA5VKKnlXN260329.shtml)
+
++ [美军一架KC-135空中加油机紧急返航至特拉维夫](https://news.cctv.com/2026/03/29/ARTIeVgczwtIQPxgQasVLgdN260329.shtml)
+
++ [日本民众举行抗议集会 敦促日本政府就强闯使馆事件道歉](https://news.cctv.com/2026/03/29/ARTIclEYVydtU1JlpxgwVjHp260329.shtml)
+
