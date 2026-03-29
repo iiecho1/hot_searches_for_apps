@@ -163,3 +163,7 @@
 
 + [【OFIRM基石论文•affirmed】基于 OFIRM 的信息动力学大一统推导：引力即确认梯度，熵增即未确认扩散](https://blog.csdn.net/OFIRM_C_Si/article/details/159525687)
 
++ [千兆线阵相机的使用](https://blog.csdn.net/m0_73259547/article/details/159616885)
+
++ [C 语言 Linux 文件操作深度解析：fopen 与 open 两套体系对比与工程实践](https://blog.csdn.net/liuyuan_embed/article/details/159619274)
+
