@@ -189,3 +189,15 @@
 
 + [WEB 学习框架搭建](https://blog.csdn.net/2401_86572133/article/details/159394049)
 
++ [​源码级赋能：基于Spring Boot/Vue的企业级AI视频平台二次开发实战与架构解析（GB28181/边缘计算/算法商城）](https://blog.csdn.net/tt120326/article/details/159530577)
+
++ [MySQL高级SQL秘籍：性能飞升之路](https://blog.csdn.net/A1234543211232/article/details/159544912)
+
++ [Docker实验5](https://blog.csdn.net/2301_80484013/article/details/159553554)
+
++ [Gartner在2026年发布的首份《CPS 安全远程访问市场指南》，推荐了哪些供应商？](https://blog.csdn.net/weixin_51025220/article/details/159547261)
+
++ [2026 .NET 跨平台桌面开发选型指南：Avalonia vs Uno vs Eto](https://blog.csdn.net/xbhp1984/article/details/159541148)
+
++ [ARM嵌入式学习（十二）--- IMX6ULL定时器使用](https://blog.csdn.net/EnglishJun/article/details/159514955)
+
