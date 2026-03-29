@@ -157,3 +157,13 @@
 
 + [【AI智能体】Claude Code 高级编程技巧实战项目详解](https://blog.csdn.net/zhangcongyi420/article/details/159513645)
 
++ [【花雕学编程】Arduino BLDC 之机器人全向运动学逆解与 MRAC 融合](https://blog.csdn.net/weixin_41659040/article/details/159585214)
+
++ [FastAPI响应封装：玩转 response_model 与 JSONResponse 的标准化输出](https://blog.csdn.net/cui_yonghua/article/details/159598660)
+
++ [[特殊字符]C# ASP.NET Core 前后端分离终极实战：JWT 身份认证与授权全流程（登录 + 鉴权 + 避坑）](https://blog.csdn.net/William_cl/article/details/159581928)
+
++ [腾讯云上调用大模型的全部入口整理（2026最新版）](https://blog.csdn.net/SK_Studio/article/details/159515539)
+
++ [STM32传感器模块编程实践(十九) 光子物联北斗GPS定位模块简介及驱动源码](https://blog.csdn.net/zy2232652/article/details/159515445)
+

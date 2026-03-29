@@ -191,3 +191,15 @@
 
 + [两艘失联援助船只安全抵达古巴](https://news.cctv.com/2026/03/29/ARTIl5myKOMm5dgF5WzjeLeZ260329.shtml)
 
++ [英国德比市发生汽车撞人事件 多人受伤](https://news.cctv.com/2026/03/29/ARTI6u5u4x9f6CYHeNsEaU3Z260329.shtml)
+
++ [美军一架E-3预警机在沙特基地遭袭受损](https://news.cctv.com/2026/03/29/ARTIlzB5mOTPlYvlIHFGEele260329.shtml)
+
++ [美以袭击邻近霍尔木兹海峡的伊朗码头 致5人死亡](https://news.cctv.com/2026/03/29/ARTIG7kwZSHCxvbrEhsOdpZN260329.shtml)
+
++ [伊朗外长就黎巴嫩记者遇袭身亡表示哀悼](https://news.cctv.com/2026/03/29/ARTImIEKsLxr5UF9sphb66fj260329.shtml)
+
++ [肯尼亚发生一起交通事故 已造成至少15人死亡](https://news.cctv.com/2026/03/29/ARTITqPUOsfxllza5qjbVGet260329.shtml)
+
++ [联合国敦促也门胡塞武装停止进一步卷入地区冲突](https://news.cctv.com/2026/03/29/ARTID5N0t7VpLsAR5Ktz7OcO260329.shtml)
+
