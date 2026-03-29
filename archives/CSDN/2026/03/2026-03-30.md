@@ -101,3 +101,15 @@
 
 + [从零吃透大语言模型 LLM，AI 应用开发必懂底层逻辑](https://blog.csdn.net/2302_79376097/article/details/159553350)
 
++ [​源码级赋能：基于Spring Boot/Vue的企业级AI视频平台二次开发实战与架构解析（GB28181/边缘计算/算法商城）](https://blog.csdn.net/tt120326/article/details/159530577)
+
++ [OpenClaw默认配置的安全短板危机](https://blog.csdn.net/qq_36863796/article/details/159545649)
+
++ [Windows技巧(1)多网卡下路由和DNS配置](https://blog.csdn.net/Once_day/article/details/159554594)
+
++ [Kafka为什么抛弃ZooKeeper？深度解析KRaft时代的技术变革](https://blog.csdn.net/qq_41840843/article/details/158537983)
+
++ [深入 LangChain示例选择器核心：详解 Length、Similarity、MMR 与 Ngram 示例选择策略](https://blog.csdn.net/2401_82648291/article/details/158852469)
+
++ [OpenClaw（龙虾）效率伴侣 LinkMind：既省又安全](https://blog.csdn.net/jiangjunshow/article/details/159610648)
+
