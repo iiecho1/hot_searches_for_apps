@@ -177,3 +177,7 @@
 
 + [Windows技巧(1)多网卡下路由和DNS配置](https://blog.csdn.net/Once_day/article/details/159554594)
 
++ [Spring AI 实战系列（三）：多模型共存+双版本流式输出](https://blog.csdn.net/2401_87660168/article/details/159585023)
+
++ [CentOS上搭建hadoop-3.3.6集群（3节点）](https://blog.csdn.net/jasnet_u/article/details/159545965)
+
