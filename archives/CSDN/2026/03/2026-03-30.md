@@ -155,3 +155,11 @@
 
 + [项目文档：自指引擎驱动的形转化动力学算法（SE-DTA）](https://blog.csdn.net/2501_92894552/article/details/159508795)
 
++ [使用 HTML + JavaScript 实现 SQL 智能补全功能](https://blog.csdn.net/bjzhang75/article/details/159505804)
+
++ [2026权威评测：AIGC降重哪家强？靠岸妙写成免费首选](https://blog.csdn.net/SJ_HP/article/details/159547230)
+
++ [VSCode 调试 ROS1/ROS2 等项目完整指南](https://blog.csdn.net/qq_56908984/article/details/159540920)
+
++ [【OFIRM基石论文•affirmed】基于 OFIRM 的信息动力学大一统推导：引力即确认梯度，熵增即未确认扩散](https://blog.csdn.net/OFIRM_C_Si/article/details/159525687)
+
