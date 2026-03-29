@@ -127,3 +127,9 @@
 
 + [文档数据库迁移实战：MongoDB 协议级兼容与 JSONB 引擎性能深度对比](https://blog.csdn.net/2302_78391795/article/details/159564812)
 
++ [深度学习实战-基于Xception的阿尔茨海默病图像识别模型](https://blog.csdn.net/m0_64336780/article/details/157691012)
+
++ [通过 C# 读取 Word 表格数据：高效解析 + 导出为 CSV/TXT](https://blog.csdn.net/Eiceblue/article/details/159544789)
+
++ [【office2pdf】office2pdf 纯 Rust 实现的 Office 转 PDF 库](https://blog.csdn.net/weixin_43219667/article/details/159550543)
+

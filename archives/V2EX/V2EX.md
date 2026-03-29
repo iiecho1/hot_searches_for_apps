@@ -27,3 +27,7 @@
 
 + [杭州各位单身的打工仔怎么过周末的啊](https://www.v2ex.com/t/1201810)
 
++ [[独立开发 / 招募封测] 📻 做了一款极简且高颜值的全球电台 App，求 20 位 Google Play 封测体验官 (即送终身 Pro)](https://www.v2ex.com/t/1201854)
+
++ [还是要用 ubuntu](https://www.v2ex.com/t/1201875)
+
