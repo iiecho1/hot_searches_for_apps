@@ -53,3 +53,13 @@
 
 + [《大圣归来》主控出品方十年之作，国产动画电影《大圣崛起》定档 7 月 10 日全国上映](https://m.ithome.com/html/933213.htm)
 
++ [电影《惊天魔盗团 3》今天上线网播，爱优腾会员免费看](https://m.ithome.com/html/933587.htm)
+
++ [300TB 音乐文件遭窃后，Spotify 起诉“安娜的档案”并誓言将其逐出互联网](https://m.ithome.com/html/933652.htm)
+
++ [消息称极氪 007 GT 现款车型已售罄，焕新款二季度正式上市](https://m.ithome.com/html/933637.htm)
+
++ [手机影像再遇体积瓶颈：曝 2 亿像素 1/1.12&quot; 超级潜望镜仅剩 OPPO 仍在评估，凸起堪比“饼干头”](https://m.ithome.com/html/933581.htm)
+
++ [雷军：新一代小米 SU7 首周交付了四五千辆](https://m.ithome.com/html/933693.htm)
+

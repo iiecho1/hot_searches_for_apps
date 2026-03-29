@@ -133,3 +133,17 @@
 
 + [【office2pdf】office2pdf 纯 Rust 实现的 Office 转 PDF 库](https://blog.csdn.net/weixin_43219667/article/details/159550543)
 
++ [Pytorch张量核心运算精讲：从类型转换到数值操作全解析](https://blog.csdn.net/2503_92624912/article/details/159543103)
+
++ [2026年3月27日人工智能早间新闻](https://blog.csdn.net/fudaihb/article/details/159526268)
+
++ [【花雕学编程】Arduino BLDC 之机器人S 曲线速度规划 + 实时插值](https://blog.csdn.net/weixin_41659040/article/details/159563969)
+
++ [PyTorch实战（39）——使用Captum解释深度学习模型](https://blog.csdn.net/LOVEmy134611/article/details/151314603)
+
++ [Linux - ARP Cache：从 `ip neigh` 到交换机转发，一次讲透主机路由表、ARP 缓存与 MAC 表](https://blog.csdn.net/yangshangwei/article/details/159514818)
+
++ [Qt/C++源码/地图控件/实时动态轨迹/历史轨迹回放/无人机/飞行轨迹/性能强悍](https://blog.csdn.net/feiyangqingyun/article/details/159545474)
+
++ [MySQL 多表连接查询实战：内连接 + 外连接](https://blog.csdn.net/2503_91389547/article/details/159208717)
+

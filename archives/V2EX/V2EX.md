@@ -31,3 +31,9 @@
 
 + [还是要用 ubuntu](https://www.v2ex.com/t/1201875)
 
++ [有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案](https://www.v2ex.com/t/1201922)
+
++ [[科普向]claude 中转站为什么这么费钱？明明便宜 70%，余额却消耗得飞快](https://www.v2ex.com/t/1201851)
+
++ [Claude Pro 信用卡频频被拒？用 N26 + Apple Pay 丝滑升级保姆级教程](https://www.v2ex.com/t/1201877)
+

@@ -173,3 +173,19 @@
 
 + [日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查](https://news.cctv.com/2026/03/29/ARTIZVtIFsGtmkkJkNcEtGM0260329.shtml)
 
++ [日本舆论要求日本政府就强闯使馆事件向中方道歉](https://news.cctv.com/2026/03/29/ARTInHriTaPJsRYbgWYcYGHH260329.shtml)
+
++ [专访｜中国在欧洲专利版图正加速拓展——访欧洲专利局首席可持续发展官罗马诺-格奇](https://news.cctv.com/2026/03/29/ARTIYSGVsq1SxNyxV1BFX8Zq260329.shtml)
+
++ [专访｜中文教育在当地蓬勃发展——访阿塞拜疆国家科学院东方学研究所汉学研究室主任阿巴索夫](https://news.cctv.com/2026/03/29/ARTIjlhtjzecd68IZnz8edcw260329.shtml)
+
++ [约千人“包围”洛杉矶政府机构大楼 两人被捕](https://news.cctv.com/2026/03/29/ARTILl84PhXG2xaqv5YRm1Hv260329.shtml)
+
++ [调查显示日本市场逾2500种食品4月份将涨价](https://news.cctv.com/2026/03/29/ARTIiTsflGOP0IINlXZQGzgN260329.shtml)
+
++ [中东战事致燃油短缺 越南多家航司将削减航班数量](https://news.cctv.com/2026/03/29/ARTI9o7Ap8jkgYAbjMhzR14J260329.shtml)
+
++ [印尼16岁以下人群“社媒禁令”正式生效](https://news.cctv.com/2026/03/29/ARTI193FWezvtQVJhvBrT8Yy260329.shtml)
+
++ [日本警方对强闯中国驻日使馆者所属驻地展开搜查](https://news.cctv.com/2026/03/29/ARTImtuAei4VLLJOm0Jd7zE5260329.shtml)
+
