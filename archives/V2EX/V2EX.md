@@ -37,3 +37,9 @@
 
 + [Claude Pro 信用卡频频被拒？用 N26 + Apple Pay 丝滑升级保姆级教程](https://www.v2ex.com/t/1201877)
 
++ [你用 AI 赚到过钱吗 怎么赚的？](https://www.v2ex.com/t/1201942)
+
++ [apple watch 你们都用来干什么？](https://www.v2ex.com/t/1201936)
+
++ [大资金](https://www.v2ex.com/t/1201938)
+

@@ -147,3 +147,13 @@
 
 + [MySQL 多表连接查询实战：内连接 + 外连接](https://blog.csdn.net/2503_91389547/article/details/159208717)
 
++ [机器学习的半监督学习可以实现什么功能？](https://blog.csdn.net/2501_94724583/article/details/159516954)
+
++ [2026年全国青少年信息素养大赛算法应用主题赛C++样题及答案解析](https://blog.csdn.net/weixin_66461496/article/details/159561154)
+
++ [【西瓜带你学设计模式 | 第二期-观察者模式】观察者模式——推模型与拉模型实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159582780)
+
++ [Go 云原生实战：K8s Operator 开发与服务网格（Istio）落地](https://blog.csdn.net/Bruce2048/article/details/159549115)
+
++ [【AI智能体】Claude Code 高级编程技巧实战项目详解](https://blog.csdn.net/zhangcongyi420/article/details/159513645)
+
