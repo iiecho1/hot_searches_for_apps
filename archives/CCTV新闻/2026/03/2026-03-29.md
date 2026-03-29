@@ -219,3 +219,5 @@
 
 + [伊朗武装部队发言人：“波斯湾的鲨鱼正等待美国军人”](https://news.cctv.com/2026/03/29/ARTIBZYLrln2aQApHTQJDfeg260329.shtml)
 
++ [纳比勒·法赫米将担任新一任阿盟秘书长](https://news.cctv.com/2026/03/29/ARTIriUvPHVhPT1ySUffPMH3260329.shtml)
+
