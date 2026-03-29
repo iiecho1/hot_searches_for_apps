@@ -159,3 +159,11 @@
 
 + [国际奥委会明确：奥运女子组赛事仅限生理女性参加](https://news.cctv.com/2026/03/26/ARTIFAVBPWpHi7bXNh4AG3Uh260326.shtml)
 
++ [意大利一艺术机构失窃 塞尚、马蒂斯等知名画家作品被盗](https://news.cctv.com/2026/03/30/ARTIYrQxdpwVbxYeF0Wig7wW260330.shtml)
+
++ [美国洛杉矶爆发大规模抗议活动 警方逮捕75名抗议者](https://news.cctv.com/2026/03/30/ARTIpVkmBYjRGzc6BNGjeied260330.shtml)
+
++ [以军称正在打击伊朗德黑兰目标](https://news.cctv.com/2026/03/30/ARTIps2rLJAPhHqBf5PwevDE260330.shtml)
+
++ [伊朗外交部发言人：美国经由斡旋方提出的建议非常不合理](https://news.cctv.com/2026/03/30/ARTIW2HPBTbTVrA0mlqXazSQ260330.shtml)
+

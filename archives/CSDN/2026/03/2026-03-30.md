@@ -167,3 +167,5 @@
 
 + [C 语言 Linux 文件操作深度解析：fopen 与 open 两套体系对比与工程实践](https://blog.csdn.net/liuyuan_embed/article/details/159619274)
 
++ [揭秘OSI七层模型：网络通信的核心架构](https://blog.csdn.net/m0_63266229/article/details/159606611)
+
