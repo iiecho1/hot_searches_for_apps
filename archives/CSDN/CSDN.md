@@ -113,3 +113,45 @@
 
 + [OpenClaw（龙虾）效率伴侣 LinkMind：既省又安全](https://blog.csdn.net/jiangjunshow/article/details/159610648)
 
++ [【HFP】规范精讲[15]: HFP蓝牙特有AT命令：免提场景专属功能的控制语言](https://blog.csdn.net/weixin_37800531/article/details/159609155)
+
++ [NovelClaw-一个为长篇小说创作者而诞生的工具](https://blog.csdn.net/xyc_yyds/article/details/159618966)
+
++ [CodeBuddy与WorkBuddy深度对比：腾讯两款AI工具差异及实操指南](https://blog.csdn.net/Java_1710/article/details/159546695)
+
++ [【Flutter for OpenHarmony 】：第三方库 实战全流程开发文档](https://blog.csdn.net/IntMainJhy/article/details/159617209)
+
++ [Redis核心技术知识点全集](https://blog.csdn.net/lilinhai548/article/details/159619087)
+
++ [【技术干货】从 GLM 5.1 升级，看「Agent 型大模型」的工程化设计与实战落地](https://blog.csdn.net/weixin_45888077/article/details/159553714)
+
++ [Cookie、Session、HTTPS 全解析：从原理到中间人攻击](https://blog.csdn.net/2302_77620024/article/details/159514412)
+
++ [Cursor滑跪开源技术报告：Kimi基模这样微调能干翻Claude](https://blog.csdn.net/qq_42055933/article/details/159552431)
+
++ [▲基于多智能体Q-Learning强化学习的多无人机协同路径规划与防撞matlab仿真](https://blog.csdn.net/ccsss22/article/details/159616584)
+
++ [【AI】从 OpenAI Codex 到 GitHub Copilot：AI 编程助手的技术演进脉络](https://blog.csdn.net/Txx318026/article/details/159549238)
+
++ [Wireshark 解密 HTTPS 流量](https://blog.csdn.net/Vic10101/article/details/159544589)
+
++ [电脑提示未发现NVIDIA控制面板怎么办 5种实用解决方案](https://blog.csdn.net/weixin_56386428/article/details/159551478)
+
++ [CSS 动画性能分析工具：让动效更流畅](https://blog.csdn.net/leopold_man/article/details/159545175)
+
++ [2026年DeepSeek-V4官网VS Gemini 3.1 pro 官网硬核技术拆解：开源模型的性价比革命](https://blog.csdn.net/gaozhiyong0813/article/details/159614492)
+
++ [硬核解析：安卓数据恢复App真能恢复？揭秘“数据恢复专家“的骗局](https://blog.csdn.net/m0_37695214/article/details/159579645)
+
++ [Spring AI 实战系列（三）：多模型共存+双版本流式输出](https://blog.csdn.net/2401_87660168/article/details/159585023)
+
++ [MySQL数据库误删恢复_mysql 数据 误删](https://blog.csdn.net/yoyo_zzm/article/details/159541954)
+
++ [TSPR-WEB-LLM-HIC 架构方案可开发系统 ](https://blog.csdn.net/qq_24375721/article/details/159609783)
+
++ [阿里云大数据AI平台升级发布：构筑智能体时代的核心基石](https://blog.csdn.net/weixin_48534929/article/details/159554308)
+
++ [mysql数据被误删的恢复方案](https://blog.csdn.net/qq568018076/article/details/159542038)
+
++ [项目文档：自指引擎驱动的形转化动力学算法（SE-DTA）](https://blog.csdn.net/2501_92894552/article/details/159508795)
+
