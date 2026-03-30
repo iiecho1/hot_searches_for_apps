@@ -283,3 +283,19 @@
 
 + [【AI编程工具系列：第05篇】OpenAI Codex与Gemini CLI对比实战：两大AI巨头的编程工具深度解析](https://blog.csdn.net/xyghehehehe/article/details/159571564)
 
++ [模型推理引擎理解](https://blog.csdn.net/weixin_53695360/article/details/159652979)
+
++ [AI 大模型落地系列｜Eino 编排篇：既然有了 Chain、Graph，为何还需要 Workflow](https://blog.csdn.net/2302_80067378/article/details/159583345)
+
++ [HarmonyOS 5.0教育行业解决方案：基于分布式能力的沉浸式智慧课堂系统](https://blog.csdn.net/u014727709/article/details/159632383)
+
++ [AI 编程黄金搭档：Superpowers Skills × OpenSpec 实战指南](https://blog.csdn.net/weixin_43882318/article/details/159554028)
+
++ [【Qt】信号和槽（一）基本概念，connect函数](https://blog.csdn.net/2301_80751958/article/details/159634143)
+
++ [AI网文/小说创作平台：AI-Writer、InkOS、MuMuAINovel](https://blog.csdn.net/lonelymanontheway/article/details/159128829)
+
++ [Claude 快速接入 MiniMax AI大模型](https://blog.csdn.net/smilehappiness/article/details/159582602)
+
++ [【存档笔记】二阶与三阶贝塞尔曲线详解（含 De Casteljau 与公式推导）](https://blog.csdn.net/qq_41140324/article/details/159654313)
+

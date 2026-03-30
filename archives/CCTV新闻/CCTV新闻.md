@@ -225,3 +225,5 @@
 
 + [南苏丹一金矿遭袭至少74人死亡](https://news.cctv.com/2026/03/30/ARTIJRlVu6fn30vcBtZUyMaK260330.shtml)
 
++ [一个月内24起险情 霍尔木兹海峡及周边海域航运安全风险攀升](https://news.cctv.com/2026/03/30/ARTIoitpA4jIRJGl4JaNlHQL260330.shtml)
+

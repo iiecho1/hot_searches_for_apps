@@ -59,3 +59,25 @@
 
 + [vivo X300s / X300 Ultra 新机核心配置总结：天玑 9500 / 第五代骁龙 8 至尊版，明天发布](https://m.ithome.com/html/933858.htm)
 
++ [DeepSeek 又悄悄升级，宕机一夜回到解放前](https://m.ithome.com/html/934017.htm)
+
++ [技术大神复活 1999 年的 QQ 第一版：眼睛图标，Win11 系统也能跑](https://m.ithome.com/html/933962.htm)
+
++ [消息称九号、雅迪、台铃、爱玛等多品牌电动两轮车计划下月涨价](https://m.ithome.com/html/933930.htm)
+
++ [升级后不支持回退：华为 Mate 80 等超 40 款机型鸿蒙 HarmonyOS 6.0.0.328 版本转公测](https://m.ithome.com/html/934153.htm)
+
++ [4999 元起：vivo X300s 手机发布，天玑 9500 芯片、蔡司 2 亿像素超级主摄 +APO 超级长焦](https://m.ithome.com/html/934219.htm)
+
++ [vivo X300 Ultra 手机发布：第五代骁龙 8 至尊版、3+2 蔡司大师镜头群，6999 元起](https://m.ithome.com/html/934230.htm)
+
++ [消息称某 TOP5 年底旗舰“大杯”在评估考虑双层 OLED 屏幕，预计是华为 Mate 90 Pro](https://m.ithome.com/html/934039.htm)
+
++ [古尔曼：苹果 iOS 27 将允许安装 ChatGPT 以外的第三方 AI 聊天机器人，拥有独立的 App Store 专区](https://m.ithome.com/html/933903.htm)
+
++ [前 iQOO Z 系列产品经理马钰伦解答厂商为什么不出中高端 LCD 手机，称不再是一个“划算的选择”](https://m.ithome.com/html/933902.htm)
+
++ [国产机车两天豪取两连冠！张雪机车厂队征战 WSBK 赛事击败雅马哈、杜卡迪](https://m.ithome.com/html/933950.htm)
+
++ [刚需速购：苹果 Mac mini M4 京东 3805 元补货 + 12 期免息](https://m.ithome.com/html/934127.htm)
+
