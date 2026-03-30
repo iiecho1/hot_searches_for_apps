@@ -47,3 +47,7 @@
 
 + [vivo X300s / X300 Ultra 新机核心配置总结：天玑 9500 / 第五代骁龙 8 至尊版，明天发布](https://m.ithome.com/html/933858.htm)
 
++ [古尔曼对苹果首款折叠屏手机 iPhone Fold 寄予厚望，称其是“iPhone 史上最重大改款机型”](https://m.ithome.com/html/933911.htm)
+
++ [OPPO 乔家栋曝光 Pad Mini 小平板外观：胶囊型后摄模组、8.8 英寸 OLED 屏幕，4 月见](https://m.ithome.com/html/933977.htm)
+
