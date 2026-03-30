@@ -207,3 +207,23 @@
 
 + [《Attention is all you need》论文阅读与代码实战](https://blog.csdn.net/illuosion7/article/details/159616907)
 
++ [【Unity-AI开发篇】| 游戏中接入DeepSeek实现AI对话，完整详细步骤](https://blog.csdn.net/zhangay1998/article/details/159630229)
+
++ [IoTDB数据订阅API实战：实时消费数据+TsFile订阅全攻略](https://blog.csdn.net/weixin_43151418/article/details/158469734)
+
++ [【HarmonyOS 6.0】Agent Framework Kit深度解析：构建应用与智能体的无缝连接](https://blog.csdn.net/weixin_74809706/article/details/159431330)
+
++ [【花雕学AI】突破嵌入式 AI 门槛：MimiClaw——5 美元 ESP32-S3 上的 Claude 赋能裸机 AI 智能体深度解析](https://blog.csdn.net/weixin_41659040/article/details/159630078)
+
++ [循环神经网络（RNN）](https://blog.csdn.net/Yf18005429102/article/details/159386488)
+
++ [HarmonyOS 6 自定义人脸识别模型8：MindSpore Lite框架介绍与使用](https://blog.csdn.net/sjw890821sjw/article/details/159618928)
+
++ [前端文本测量成了卡死一切创新的最后瓶颈，pretext实现突破了](https://blog.csdn.net/weixin_48708052/article/details/159584909)
+
++ [ARM-07-i.MX6ULL-EPIT定时器和GPT](https://blog.csdn.net/somi7/article/details/159512343)
+
++ [【Linux】EXT文件系统（2）](https://blog.csdn.net/zzzsde/article/details/159435943)
+
++ [从零实现 AI 聊天助手：可直接复用的前端核心方案](https://blog.csdn.net/qq_37581764/article/details/159585039)
+
