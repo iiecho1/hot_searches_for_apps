@@ -47,3 +47,5 @@
 
 + [windows 11 现在问题还多吗](https://www.v2ex.com/t/1202068)
 
++ [V2EX 是否在实质上接受了 AI 生成的内容了](https://www.v2ex.com/t/1202159)
+
