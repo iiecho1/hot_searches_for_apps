@@ -183,3 +183,27 @@
 
 + [OpenClaw 三种使用方式全对比：网页端 / 接入飞书 / 接入钉钉 优缺点与选型指南](https://blog.csdn.net/u013358093/article/details/159548335)
 
++ [新型电力系统应该用什么数据库？——时序数据库选型与落地实战](https://blog.csdn.net/2302_78391795/article/details/159580506)
+
++ [TRAE百度地图MCP配置实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/159618562)
+
++ [基于深度学习的中文文本情感分析系统](https://blog.csdn.net/wyh293/article/details/159553249)
+
++ [Agent Harness，硅谷爆火的全新AI技术框架](https://blog.csdn.net/sinat_37574187/article/details/159478188)
+
++ [（第四篇）Spring AI 实战进阶：Ollama+Spring AI 构建离线私有化 AI 服务（脱离 API 密钥的完整方案）](https://blog.csdn.net/qq_40303030/article/details/157433682)
+
++ [OpenClaw 集成 GitHub Copilot 指南](https://blog.csdn.net/weixin_41201231/article/details/159549802)
+
++ [Spring AI 实战系列（五）：结构化输出，让大模型严格适配你的业务数据模型](https://blog.csdn.net/2401_87660168/article/details/159608591)
+
++ [QGC二次开发本地媒体浏览实战（一）Qt5+DirectShow 在 Android正常_Windows为什么出问题](https://blog.csdn.net/qq_16504163/article/details/159531404)
+
++ [Jenkins+K8s实现Go后端服务自动化部署](https://blog.csdn.net/weixin_45541665/article/details/159617714)
+
++ [STM32智能桌面宠物-AI机器狗设计与实现](https://blog.csdn.net/fengfuyao985/article/details/159533236)
+
++ [Apifox投毒事件深度分析报告：供应链攻击窃取SSH密钥与Git凭据](https://blog.csdn.net/weimeilayer/article/details/159539364)
+
++ [《Attention is all you need》论文阅读与代码实战](https://blog.csdn.net/illuosion7/article/details/159616907)
+
