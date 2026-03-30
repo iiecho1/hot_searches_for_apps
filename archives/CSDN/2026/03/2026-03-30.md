@@ -273,3 +273,13 @@
 
 + [Redis 部署、主从复制与哨兵模式配置​](https://blog.csdn.net/2301_80534897/article/details/159612296)
 
++ [MySQL技巧 (十一):内存优化innodb_buffer_pool_size 等核心参数配置](https://blog.csdn.net/qq_28372005/article/details/159618953)
+
++ [MySQL（8）—— 事务](https://blog.csdn.net/2401_87687835/article/details/159548992)
+
++ [开源大模型的小白实操](https://blog.csdn.net/m0_73908390/article/details/159582270)
+
++ [手机派活电脑干：Claude Cowork 完整上手教程](https://blog.csdn.net/qq_42801126/article/details/159554694)
+
++ [【AI编程工具系列：第05篇】OpenAI Codex与Gemini CLI对比实战：两大AI巨头的编程工具深度解析](https://blog.csdn.net/xyghehehehe/article/details/159571564)
+

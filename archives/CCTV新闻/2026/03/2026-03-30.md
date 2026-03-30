@@ -223,3 +223,5 @@
 
 + [以色列称海法炼油厂综合设施遭袭 未造成危险物质泄漏](https://news.cctv.com/2026/03/30/ARTIX9XYKQ9JlnFVQZQb3Z1j260330.shtml)
 
++ [南苏丹一金矿遭袭至少74人死亡](https://news.cctv.com/2026/03/30/ARTIJRlVu6fn30vcBtZUyMaK260330.shtml)
+
