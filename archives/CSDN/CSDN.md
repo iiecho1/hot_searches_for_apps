@@ -139,3 +139,9 @@
 
 + [Claude Code教程（五）| MCP之Figma](https://blog.csdn.net/qq_20236937/article/details/159656320)
 
++ [全球财经资讯日报（夜间-次晨）2026年3月28日](https://blog.csdn.net/lingyanzhineng/article/details/159609944)
+
++ [Jenkins CI/CD 持续集成专题八- jenkins 之 iOS 打包及上传至蒲公英](https://blog.csdn.net/m0_61164038/article/details/159605244)
+
++ [Anthropic Claude Mythos 泄露深度解读：Capybara 模型性能远超 Opus 4.6，AI 安全新拐点](https://blog.csdn.net/tzchao111/article/details/159608914)
+
