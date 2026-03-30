@@ -101,3 +101,33 @@
 
 + [深入 LangChain示例选择器核心：详解 Length、Similarity、MMR 与 Ngram 示例选择策略](https://blog.csdn.net/2401_82648291/article/details/158852469)
 
++ [GitHub 热榜项目 - 日榜(2026-03-29)](https://blog.csdn.net/u014390502/article/details/159601896)
+
++ [无需服务器的本地文档编辑器 document 部署与远程访问教程](https://blog.csdn.net/weixin_62765017/article/details/159655823)
+
++ [深度学习实战-基于ResNet50的皮肤病图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/157977396)
+
++ [浏览器自动化Playwright：MCP Server 与 CLI + SKILLS 深度解析](https://blog.csdn.net/shanhaih/article/details/159615487)
+
++ [网站搭建实操（二）后台管理(1)登录](https://blog.csdn.net/weixin_44860141/article/details/159587232)
+
++ [我的极空间 NAS 进阶玩法：开启 SSH，解锁私有云服务器新体验](https://blog.csdn.net/weixin_74888502/article/details/159655515)
+
++ [Linux 主机安全巡检与应急响应工具](https://blog.csdn.net/weixin_44309905/article/details/159618061)
+
++ [GoLand 2026.1 正式发布](https://blog.csdn.net/weixin_44058951/article/details/159539134)
+
++ [LangChain文档加载器实战，轻松搞定PDF/Markdown/Word](https://blog.csdn.net/2401_82648291/article/details/159007490)
+
++ [SpringBoot 应用健康监控和邮件发送](https://blog.csdn.net/2401_82507402/article/details/159618804)
+
++ [HarmonyOS 6实战3：实现小艺输入法的输入效果](https://blog.csdn.net/m0_59315734/article/details/159621738)
+
++ [2026年DeepSeek-V4官网VS Gemini 3.1 pro 官网硬核技术拆解：开源模型的性价比革命](https://blog.csdn.net/gaozhiyong0813/article/details/159614492)
+
++ [飞书 lark-cli 深度解读：当办公软件遇上 AI Agent](https://blog.csdn.net/m0_73479109/article/details/159658007)
+
++ [Spring AI 实战系列（五）：结构化输出，让大模型严格适配你的业务数据模型](https://blog.csdn.net/2401_87660168/article/details/159608591)
+
++ [2026 避坑首选：OpenClaw 正式版在阿里云 (Alinux 3) 的部署全攻略](https://blog.csdn.net/haohaoxuexiyai/article/details/159547990)
+
