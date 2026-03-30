@@ -245,3 +245,23 @@
 
 + [Calude Code + Stitch + Figma MCP跑通全链路](https://blog.csdn.net/vbirdbest/article/details/159545494)
 
++ [2026 GitHub 热门 Python 项目：AI 代理与数据工具精选](https://blog.csdn.net/2401_86326742/article/details/159646705)
+
++ [云原生Java应用部署：将Spring Boot应用迁移至Kubernetes完整指南](https://blog.csdn.net/sinat_41617212/article/details/159651856)
+
++ [【西瓜带你学设计模式 | 第三期-工厂方法模式】工厂方法模式——定义、实现方式、优缺点与适用场景以及注意事项](https://blog.csdn.net/2501_93491346/article/details/159648292)
+
++ [提示词工程实战：CO‑STAR / 思维链 / 少样本技巧全通关](https://blog.csdn.net/2302_79376097/article/details/159586505)
+
++ [Oracle AI Database 26ai 快速上手实战](https://blog.csdn.net/zhirongsu/article/details/159619589)
+
++ [SQL调优实战手册：索引、并行、参数调优一站式解决方案](https://blog.csdn.net/lrq13965748542/article/details/159577859)
+
++ [HTML5 Web SQL 深入解析](https://blog.csdn.net/wjs2024/article/details/159553900)
+
++ [Flutter 3.41.6 版本很重要，你大概率需要更新一下](https://blog.csdn.net/ZuoYueLiang/article/details/159614185)
+
++ [WeClaw_41_桌面端与PWA文件双向传输：WebSocket与HTTP混合协议设计](https://blog.csdn.net/yweng18/article/details/159619236)
+
++ [AI时代给后端选手的速成前端教程](https://blog.csdn.net/qq_38901232/article/details/159651613)
+

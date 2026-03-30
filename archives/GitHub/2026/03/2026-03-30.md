@@ -27,3 +27,11 @@
 
 + [twentyhq/twenty](https://github.com/twentyhq/twenty)
 
++ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+
++ [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+
++ [apache/superset](https://github.com/apache/superset)
+

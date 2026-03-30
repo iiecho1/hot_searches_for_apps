@@ -213,3 +213,13 @@
 
 + [西班牙宣布对参与美伊战事的军用飞机关闭领空](https://news.cctv.com/2026/03/30/ARTI4etKA1MLsOCS5SJblUbs260330.shtml)
 
++ [日本打破“专守防卫”惯例 将部署长射程导弹](https://news.cctv.com/2026/03/30/ARTI89a64n1udopvcxPYvEpZ260330.shtml)
+
++ [印尼一艘船沉没 27人失踪](https://news.cctv.com/2026/03/30/ARTIbSHGHskIx21RDTshh58e260330.shtml)
+
++ [俄国家杜马官员：俄美关系近期不会发生突破性改善](https://news.cctv.com/2026/03/30/ARTIPuoDHvARvO94In4Lgv6Q260330.shtml)
+
++ [欧盟委员会批准价值15亿欧元国防工业工作计划](https://news.cctv.com/2026/03/30/ARTIpTUKKcmxZgdP65Z8mnH7260330.shtml)
+
++ [以色列称海法炼油厂综合设施遭袭 未造成危险物质泄漏](https://news.cctv.com/2026/03/30/ARTIX9XYKQ9JlnFVQZQb3Z1j260330.shtml)
+
