@@ -203,3 +203,13 @@
 
 + [美官员称美军特种作战部队人员已抵达中东](https://news.cctv.com/2026/03/30/ARTIXTNkI4loeDjWUjh7qRqT260330.shtml)
 
++ [伊朗伊斯兰革命卫队证实海军司令身亡 重申保持高度戒备](https://news.cctv.com/2026/03/30/ARTIucJrGqkBx5luJDAX3jf2260330.shtml)
+
++ [伊朗官员称计划对通过霍尔木兹海峡船只实施准入和收费制度](https://news.cctv.com/2026/03/30/ARTIbvzSDhLCdmybHYd2XZle260330.shtml)
+
++ [泽连斯基称俄罗斯向伊朗提供中东美军卫星图像](https://news.cctv.com/2026/03/30/ARTIh4bHNS4IbhXLlIeBUCG5260330.shtml)
+
++ [日本参议院预算委员会通过2026财年临时预算案](https://news.cctv.com/2026/03/30/ARTIIh9lfrwaWWAjZ2FhoaYA260330.shtml)
+
++ [西班牙宣布对参与美伊战事的军用飞机关闭领空](https://news.cctv.com/2026/03/30/ARTI4etKA1MLsOCS5SJblUbs260330.shtml)
+
