@@ -197,3 +197,9 @@
 
 + [柬埔寨国会通过《反电信网络诈骗法》草案](https://news.cctv.com/2026/03/30/ARTIxpOpmOmfDiwEPWrAvvNs260330.shtml)
 
++ [日本警察厅就自卫队员强闯中国使馆事件召开会议](https://news.cctv.com/2026/03/30/ARTIaENDVJmQlYBiBFXb8N2d260330.shtml)
+
++ [伊朗称伊斯法罕一游乐场遭美以袭击](https://news.cctv.com/2026/03/30/ARTI226mQWdQcah05h8GM0G5260330.shtml)
+
++ [美官员称美军特种作战部队人员已抵达中东](https://news.cctv.com/2026/03/30/ARTIXTNkI4loeDjWUjh7qRqT260330.shtml)
+

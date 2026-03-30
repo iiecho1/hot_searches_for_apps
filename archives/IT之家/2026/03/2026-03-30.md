@@ -47,3 +47,15 @@
 
 + [本田发布七款摩托车：四缸 500 系列 42980 元起、双缸 29480 元起、350cc 踏板 40880 元起](https://m.ithome.com/html/933699.htm)
 
++ [（更新：已恢复）“DeepSeek 崩了”上热搜，无法加载内容](https://m.ithome.com/html/933898.htm)
+
++ [华为给出畅享 90 Pro Max 手机设计说明：摄像模组左下角为红外传感器，兼顾对称美学设计](https://m.ithome.com/html/933891.htm)
+
++ [2299 → 960 元：追觅 T1 洗烘一体机跌破千元，DD 直驱电机 + 1400rpm 高转数](https://m.ithome.com/html/933817.htm)
+
++ [DeepSeek 服务出现重大中断，约 12 小时仍未完成修复](https://m.ithome.com/html/933928.htm)
+
++ [微信鸿蒙版 App 获 8.0.16.40 尝鲜升级，支持 OpenClaw 插件接入、视频号调整播放倍速等](https://m.ithome.com/html/933829.htm)
+
++ [vivo X300s / X300 Ultra 新机核心配置总结：天玑 9500 / 第五代骁龙 8 至尊版，明天发布](https://m.ithome.com/html/933858.htm)
+

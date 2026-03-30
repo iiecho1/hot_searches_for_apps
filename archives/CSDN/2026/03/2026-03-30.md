@@ -227,3 +227,9 @@
 
 + [从零实现 AI 聊天助手：可直接复用的前端核心方案](https://blog.csdn.net/qq_37581764/article/details/159585039)
 
++ [华为142期智能汽车难题——工程级解决方案+约束梳理+BUG标注](https://blog.csdn.net/chuangshitianzun/article/details/159552995)
+
++ [十万悬赏计划？网易UU远程的诚意不止免费无广](https://blog.csdn.net/2401_86326742/article/details/159545247)
+
++ [Linux 进程信号深度解析（下）：信号的保存、阻塞与捕捉](https://blog.csdn.net/2503_91389547/article/details/159387993)
+
