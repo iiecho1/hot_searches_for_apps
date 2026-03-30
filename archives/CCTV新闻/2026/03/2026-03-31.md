@@ -159,3 +159,7 @@
 
 + [伊朗警告美方：若发动地面行动将遭对等反制](https://news.cctv.com/2026/03/28/ARTId1C9qLnXqWjEIXY6WtIA260328.shtml)
 
++ [伊朗指责美以袭击伊朗钢铁企业构成国家恐怖主义](https://news.cctv.com/2026/03/31/ARTIAgJZBbES3t9x2kIhzdTr260331.shtml)
+
++ [海地发生严重暴力袭击事件 已致超70人死亡](https://news.cctv.com/2026/03/31/ARTIswITbusIh8vXT9w16NTA260331.shtml)
+
