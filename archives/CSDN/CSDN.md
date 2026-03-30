@@ -145,3 +145,5 @@
 
 + [Anthropic Claude Mythos 泄露深度解读：Capybara 模型性能远超 Opus 4.6，AI 安全新拐点](https://blog.csdn.net/tzchao111/article/details/159608914)
 
++ [【电力系统】机会约束置信度参数以及安全裕量系数在综合能源系统调度中的应用研究（Matlab代码实现）](https://blog.csdn.net/m0_73907476/article/details/159650519)
+
