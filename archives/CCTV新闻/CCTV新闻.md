@@ -163,3 +163,9 @@
 
 + [海地发生严重暴力袭击事件 已致超70人死亡](https://news.cctv.com/2026/03/31/ARTIswITbusIh8vXT9w16NTA260331.shtml)
 
++ [伊朗议会批准对霍尔木兹海峡征收通行费的法案](https://news.cctv.com/2026/03/31/ARTITpZxaR6o65vfZSE7H8Qy260331.shtml)
+
++ [白宫：特朗普希望4月6日前与伊朗达成协议](https://news.cctv.com/2026/03/31/ARTIs8yIqryYxvS8PVmN6iIl260331.shtml)
+
++ [白宫：美国与伊朗对话仍在持续进行 且进展顺利](https://news.cctv.com/2026/03/31/ARTIcwAYsB4gqSIhIL9pFRKp260331.shtml)
+
