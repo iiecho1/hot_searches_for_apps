@@ -175,3 +175,17 @@
 
 + [特朗普威胁摧毁伊朗石油设施 国际油价应声大涨](https://news.cctv.com/2026/03/31/ARTIUDggsrXRz1ZiXVTeNYqp260331.shtml)
 
++ [综述丨日本有识之士指闯馆事件性质极为恶劣 要求日本政府立即向中方道歉](https://news.cctv.com/2026/03/31/ARTIt0Ui3gukXtuV8cajLrGN260331.shtml)
+
++ [孟加拉国暴发麻疹疫情 总理下令紧急调查](https://news.cctv.com/2026/03/31/ARTIb2e39cU8ispJfJHCSBHu260331.shtml)
+
++ [中国学者遭美执法人员约谈盘问后自杀 中国驻芝加哥总领馆发声](https://news.cctv.com/2026/03/31/ARTIw7QMC4SO0Mh6E9NCJ2Pz260331.shtml)
+
++ [以军称4名士兵在黎巴嫩南部死亡](https://news.cctv.com/2026/03/31/ARTIoWwLLKCH1QTkg1Kh2S8d260331.shtml)
+
++ [2028年洛杉矶奥运会门票即将开售](https://news.cctv.com/2026/03/31/ARTIMGwkQTvse00Z1YxswiNz260331.shtml)
+
++ [泰国国王批准新政府内阁成员名单](https://news.cctv.com/2026/03/31/ARTIPQZRXdhgkzPHPHOoXceR260331.shtml)
+
++ [特朗普称即使霍尔木兹海峡仍关闭也愿结束战争](https://news.cctv.com/2026/03/31/ARTICNoRXPSDyMLO4w6ypKsn260331.shtml)
+

@@ -163,3 +163,21 @@
 
 + [自建 GitLab 没公网？用内网穿透技术，远程开发协作超丝滑](https://blog.csdn.net/2301_76147196/article/details/159655475)
 
++ [2026年3月31日 AI前沿资讯](https://blog.csdn.net/internetear/article/details/159674936)
+
++ [Ansible 自动化部署全栈项目（Spring Boot + Vue + MySQL + Redis）实战(Rockylinux9.6)](https://blog.csdn.net/weixin_74403828/article/details/159656089)
+
++ [Spring AI 实战系列（四）：Prompt工程深度实战](https://blog.csdn.net/2401_87660168/article/details/159585696)
+
++ [2026 AI 编码工具终局对决：Claude Code、Cursor、GitHub Copilot 全维度拆解与最优选型指南](https://blog.csdn.net/huhu2k/article/details/159655436)
+
++ [并发控制策略与分布式数据重排：锁机制、Redis 分片与 Spark Shuffle 简析](https://blog.csdn.net/2302_77889990/article/details/159654765)
+
++ [源网荷储实时互动需求下，时序数据库如何赋能新型电力系统？](https://blog.csdn.net/Dreamy_zsy/article/details/159640002)
+
++ [Android tinyalsa深度解析之pcm_params_set_min调用流程与实战(一百六十九)](https://blog.csdn.net/u010164190/article/details/159670210)
+
++ [数据库性能调优实战：从瓶颈诊断到落地优化](https://blog.csdn.net/lrq13965748542/article/details/159657131)
+
++ [深入理解 ES6 Proxy：与 Object.defineProperty 的全面对比](https://blog.csdn.net/m0_73869974/article/details/159606508)
+
