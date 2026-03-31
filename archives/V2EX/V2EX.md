@@ -27,3 +27,5 @@
 
 + [<span class="__cf_email__" data-cfemail="66071e0f091526574857524857">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
 
++ [<span class="__cf_email__" data-cfemail="2f4e5746405c6f1e011e1b011e">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
+
