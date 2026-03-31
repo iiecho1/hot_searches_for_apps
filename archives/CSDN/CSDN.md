@@ -181,3 +181,11 @@
 
 + [深入理解 ES6 Proxy：与 Object.defineProperty 的全面对比](https://blog.csdn.net/m0_73869974/article/details/159606508)
 
++ [大语言模型架构技术原理演进](https://blog.csdn.net/2401_88885149/article/details/159670740)
+
++ [Transformer实战（38）——视觉Transformer (Vision Transformer, ViT)](https://blog.csdn.net/LOVEmy134611/article/details/147991751)
+
++ [中国移动公布2025年全年业绩](https://blog.csdn.net/weixin_46879208/article/details/159648911)
+
++ [MySQL（8）—— 事务](https://blog.csdn.net/2401_87687835/article/details/159548992)
+

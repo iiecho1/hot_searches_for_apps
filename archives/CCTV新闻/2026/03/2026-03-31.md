@@ -189,3 +189,7 @@
 
 + [特朗普称即使霍尔木兹海峡仍关闭也愿结束战争](https://news.cctv.com/2026/03/31/ARTICNoRXPSDyMLO4w6ypKsn260331.shtml)
 
++ [敏昂莱当选缅甸副总统](https://news.cctv.com/2026/03/31/ARTIsQpUFF4eLREXA7N7ZaGu260331.shtml)
+
++ [日本首次部署具备“对敌基地攻击能力”远程导弹](https://news.cctv.com/2026/03/31/ARTILbqqCMVPFdX3v3IO2ZvK260331.shtml)
+

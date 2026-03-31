@@ -51,3 +51,15 @@
 
 + [OPPO 乔家栋曝光 Pad Mini 小平板外观：胶囊型后摄模组、8.8 英寸 OLED 屏幕，4 月见](https://m.ithome.com/html/933977.htm)
 
++ [古尔曼：Apple Intelligence 在中国意外上线，苹果已将其下线](https://m.ithome.com/html/934277.htm)
+
++ [（更新：消息称 Apple Intelligence 属意外，苹果已将其下线）凌晨惊喜：苹果 Apple Intelligence 国行 Beta 版分批上线](https://m.ithome.com/html/934276.htm)
+
++ [苹果京东旗舰店将于 4 月 1 日开启“Apple 50 周年庆”直播活动，iPhone 17 Pro 以旧换新至高补贴 1500 元](https://m.ithome.com/html/934263.htm)
+
++ [小米更新终止软件支持产品列表，Redmi K60 / K60E 将停止软件或固件更新](https://m.ithome.com/html/934173.htm)
+
++ [阿里千问充话费可用支付宝 AI 付，限时立减 5 元](https://m.ithome.com/html/934114.htm)
+
++ [小米澎湃 OS 3 Beta 版上线自研系统级输入法，支持 AI 对话、高级材质等](https://m.ithome.com/html/934242.htm)
+
