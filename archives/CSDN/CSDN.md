@@ -235,3 +235,5 @@
 
 + [Mermaid 使用 | 语法、流程图、时序图、甘特图、饼图、类图、状态图、用户旅行图](https://blog.csdn.net/u013669912/article/details/151085814)
 
++ [Jenkins + Gitee 自动化部署 Vue 项目完整指南](https://blog.csdn.net/j15087159186/article/details/159673296)
+

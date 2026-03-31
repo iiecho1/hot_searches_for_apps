@@ -65,3 +65,5 @@
 
 + [Claude Code 的源码好像被 Anthropic 自己发出来了](https://www.v2ex.com/t/1202562)
 
++ [<span class="__cf_email__" data-cfemail="33524b5a5c4073021d02071d02">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
+
