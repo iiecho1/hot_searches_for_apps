@@ -125,3 +125,7 @@
 
 + [在Godot中应用面向对象原则：C#脚本实践](https://blog.csdn.net/baidu_38495508/article/details/159611585)
 
++ [【深度解析 Anthropic Claude-Code 2.1.88 源码结构：从 Source Map 揭秘 AI 编程助手内部实现】](https://blog.csdn.net/m0_73370855/article/details/159696022)
+
++ [VS Code Claude Code 插件 × 阿里百炼 Coding Plan 完整配置教程](https://blog.csdn.net/Sunchanghaosch/article/details/159653736)
+
