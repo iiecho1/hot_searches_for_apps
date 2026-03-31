@@ -203,3 +203,7 @@
 
 + [针对美可能发动地面战 伊朗武装部队：“将斩断侵略者的腿”](https://news.cctv.com/2026/03/31/ARTI37QFzvxjYTdSQpkf6THS260331.shtml)
 
++ [伊朗武装部队总参谋长顾问遇袭身亡](https://news.cctv.com/2026/03/31/ARTI5KJ4BBiJN85n83X92f3u260331.shtml)
+
++ [特朗普：各国应自行去霍尔木兹海峡“抢石油”](https://news.cctv.com/2026/03/31/ARTIBm6SOpsjsTbvXh3UHmdo260331.shtml)
+

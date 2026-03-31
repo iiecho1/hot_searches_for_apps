@@ -55,3 +55,9 @@
 
 + [<span class="__cf_email__" data-cfemail="36574e5f594576071807021807">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
 
++ [<span class="__cf_email__" data-cfemail="ee8f9687819daedfc0dfdac0df">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
+
++ [所以今天凌晨的 Apple intelligence，是草台班子具像化吗。。](https://www.v2ex.com/t/1202424)
+
++ [多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工](https://www.v2ex.com/t/1202478)
+
