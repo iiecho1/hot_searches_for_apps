@@ -231,3 +231,7 @@
 
 + [飞书CLI开源，Claude Code实现办公自动化](https://blog.csdn.net/weixin_42684533/article/details/159653156)
 
++ [GPT-5.4 API 完全指南：性能实测、成本测算与接入方案（2026）](https://blog.csdn.net/ofoxcoding/article/details/159655633)
+
++ [Mermaid 使用 | 语法、流程图、时序图、甘特图、饼图、类图、状态图、用户旅行图](https://blog.csdn.net/u013669912/article/details/151085814)
+

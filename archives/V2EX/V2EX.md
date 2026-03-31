@@ -61,3 +61,7 @@
 
 + [多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工](https://www.v2ex.com/t/1202478)
 
++ [<span class="__cf_email__" data-cfemail="19786170766a592837282d3728">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
+
++ [Claude Code 的源码好像被 Anthropic 自己发出来了](https://www.v2ex.com/t/1202562)
+

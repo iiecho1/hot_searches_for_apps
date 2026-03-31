@@ -207,3 +207,11 @@
 
 + [特朗普：各国应自行去霍尔木兹海峡“抢石油”](https://news.cctv.com/2026/03/31/ARTIBm6SOpsjsTbvXh3UHmdo260331.shtml)
 
++ [中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议](https://news.cctv.com/2026/03/31/ARTIzOzFDEUOZ9NxoyvqtfX2260331.shtml)
+
++ [中国和巴基斯坦提出关于恢复海湾和中东地区和平稳定的五点倡议](https://news.cctv.com/2026/03/31/ARTIMhEblKBnj3kW22rXtwWl260331.shtml)
+
++ [俄罗斯鞑靼斯坦共和国石化厂火灾已致2死72伤](https://news.cctv.com/2026/03/31/ARTIuvz4ij3FG3yiM4qRvHq8260331.shtml)
+
++ [“闯馆”事件敲响警钟 日本“新型军国主义”成势为患](https://news.cctv.com/2026/03/31/ARTIEfAHI4fwdKryf8uA9vqh260331.shtml)
+
