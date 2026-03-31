@@ -51,3 +51,5 @@
 
 + [上海电信疑似夜间 3.31 凌晨大规模断网](https://www.v2ex.com/t/1202367)
 
++ [<span class="__cf_email__" data-cfemail="95f4edfcfae6d5a4bba4a1bba4">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
+

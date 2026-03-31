@@ -23,3 +23,19 @@
 
 + [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+
++ [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
++ [Dimillian/Skills](https://github.com/Dimillian/Skills)
+
++ [neovim/neovim](https://github.com/neovim/neovim)
+
++ [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)
+
++ [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+

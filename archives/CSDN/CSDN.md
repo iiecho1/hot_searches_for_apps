@@ -213,3 +213,11 @@
 
 + [从 Elasticsearch runtime fields 到 ES|QL：将传统工具适配到当前技术](https://blog.csdn.net/UbuntuTouch/article/details/159671274)
 
++ [AI 赋能企业报表新范式：SpringReport + DeepSeek 大模型，让数据分析零门槛](https://blog.csdn.net/caiyangyang007/article/details/159687028)
+
++ [2026年三大顶级AI模型实战对比：Gemini 3.1 Pro vs GPT-5.4 vs Claude 4.6深度评测](https://blog.csdn.net/gaozhiyong0813/article/details/159614449)
+
++ [ PyCharm接入DeepSeek全教程｜3种方法+避坑指南](https://blog.csdn.net/m0_72079496/article/details/159617592)
+
++ [Harness Engineering、Agent Engineering、Prompt Engineering、Context Engineering：概念辨析与层次关系](https://blog.csdn.net/DK_Allen/article/details/159648912)
+
