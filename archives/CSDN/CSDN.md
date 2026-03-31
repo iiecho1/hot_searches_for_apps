@@ -189,3 +189,11 @@
 
 + [MySQL（8）—— 事务](https://blog.csdn.net/2401_87687835/article/details/159548992)
 
++ [突破单表局限：Doris 跨表 Join 技术详解与性能优化指南](https://blog.csdn.net/qq_41840843/article/details/159680883)
+
++ [Spring AOP](https://blog.csdn.net/2401_89176842/article/details/159172179)
+
++ [嵌入式硬件第六弹——ARM（3）](https://blog.csdn.net/2601_94959901/article/details/159552143)
+
++ [10年测试工程师拆解：新能源汽车旋转编码器，从原理到故障全攻略（附功率分析仪实操）](https://blog.csdn.net/weixin_62244995/article/details/159540423)
+

@@ -45,3 +45,7 @@
 
 + [国行 iOS 26.4 貌似已经能用 Apple 智能了](https://www.v2ex.com/t/1202366)
 
++ [公司开始推行每个人创建各自的 agent、skills 了，并纳入考核](https://www.v2ex.com/t/1202429)
+
++ [如何能完全满足女友的那方面需求](https://www.v2ex.com/t/1202499)
+

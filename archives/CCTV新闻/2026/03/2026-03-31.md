@@ -193,3 +193,7 @@
 
 + [日本首次部署具备“对敌基地攻击能力”远程导弹](https://news.cctv.com/2026/03/31/ARTILbqqCMVPFdX3v3IO2ZvK260331.shtml)
 
++ [缅甸副总统已全部选举产生 3人将角逐产生总统](https://news.cctv.com/2026/03/31/ARTILLHnxSItEkRn0rmsVwkv260331.shtml)
+
++ [印度比哈尔邦发生踩踏事件 至少8人死亡](https://news.cctv.com/2026/03/31/ARTIkHBlTOuzIcDPms3ve4cn260331.shtml)
+
