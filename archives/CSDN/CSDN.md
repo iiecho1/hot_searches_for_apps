@@ -197,3 +197,19 @@
 
 + [10年测试工程师拆解：新能源汽车旋转编码器，从原理到故障全攻略（附功率分析仪实操）](https://blog.csdn.net/weixin_62244995/article/details/159540423)
 
++ [正点原子瑞芯微RK3568部署YOLOV11模型](https://blog.csdn.net/weixin_52531699/article/details/159603381)
+
++ [【HarmonyOS 6.0】ArkData 应用间配置共享：构建跨应用协作新范式](https://blog.csdn.net/weixin_74809706/article/details/159432120)
+
++ [Linux高性能网络编程基石：epoll核心与文件描述符限制全解](https://blog.csdn.net/2503_92624912/article/details/159685148)
+
++ [▲基于Q-Learning强化学习的无人驾驶小车城市道路行驶控制系统matlab性能仿真](https://blog.csdn.net/ccsss22/article/details/159685866)
+
++ [【Java 实战项目】多用户网页版聊天室：消息传输模块 —— 基于 WebSocket 实现实时通信](https://blog.csdn.net/whxcmy/article/details/159612613)
+
++ [OpenClaw进阶篇：浏览器自动化——让AI帮你操作网页](https://blog.csdn.net/qq_29464095/article/details/159646653)
+
++ [DeerFlow2.0 Docker + 本地 Ollama qwen3.5:9b 部署指南](https://blog.csdn.net/vscene/article/details/159648505)
+
++ [从 Elasticsearch runtime fields 到 ES|QL：将传统工具适配到当前技术](https://blog.csdn.net/UbuntuTouch/article/details/159671274)
+
