@@ -45,3 +45,5 @@
 
 + [中国电信一分公司因阻碍用户携号转网，被罚款 20 万元](https://m.ithome.com/html/934396.htm)
 
++ [HUAWEI Kirin W80：华为 WATCH 5 系列 HarmonyOS 6.0.0.328 花粉 Beta 版推送，处理器公开](https://m.ithome.com/html/934264.htm)
+
