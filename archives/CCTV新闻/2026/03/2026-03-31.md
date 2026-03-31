@@ -169,3 +169,9 @@
 
 + [白宫：美国与伊朗对话仍在持续进行 且进展顺利](https://news.cctv.com/2026/03/31/ARTIcwAYsB4gqSIhIL9pFRKp260331.shtml)
 
++ [以色列议会通过死刑法案 针对巴勒斯坦人](https://news.cctv.com/2026/03/31/ARTI8DWRAASJOxr18wqPiAOR260331.shtml)
+
++ [墨西哥总统：墨方有权向古巴提供石油](https://news.cctv.com/2026/03/31/ARTIEnz1GSyRYCg4hRpUIQkO260331.shtml)
+
++ [特朗普威胁摧毁伊朗石油设施 国际油价应声大涨](https://news.cctv.com/2026/03/31/ARTIUDggsrXRz1ZiXVTeNYqp260331.shtml)
+

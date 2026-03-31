@@ -151,3 +151,15 @@
 
 + [spring的IOC与DI](https://blog.csdn.net/2401_87215410/article/details/159610852)
 
++ [OpenClaw 接入 Telegram：BotFather 实战](https://blog.csdn.net/sinat_41617212/article/details/159619041)
+
++ [【HarmonyOS 6.0】Agent Framework Kit深度解析：构建应用与智能体的无缝连接](https://blog.csdn.net/weixin_74809706/article/details/159431330)
+
++ [# Spring Aware 与 BeanPostProcessor：作用、使用与原理（源码级）](https://blog.csdn.net/u011614717/article/details/159618601)
+
++ [OpenClaw Podman 容器化部署完整教程：EC2 Graviton + Amazon ECR + Rootless 安全隔离，AI Agent 云上生产环境实战](https://blog.csdn.net/u012365585/article/details/159643957)
+
++ [企业微信 CLI 开源了：用 88API + OpenClaw，把 AI Agent 接进消息、日程、文档和待办](https://blog.csdn.net/jike88ai/article/details/159645604)
+
++ [自建 GitLab 没公网？用内网穿透技术，远程开发协作超丝滑](https://blog.csdn.net/2301_76147196/article/details/159655475)
+
