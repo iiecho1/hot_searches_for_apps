@@ -101,3 +101,27 @@
 
 + [OpenClaw Podman 容器化部署完整教程：EC2 Graviton + Amazon ECR + Rootless 安全隔离，AI Agent 云上生产环境实战](https://blog.csdn.net/u012365585/article/details/159643957)
 
++ [大模型应用开发学习第一天](https://blog.csdn.net/weixin_52056853/article/details/159691475)
+
++ [云原生Java应用部署：将Spring Boot应用迁移至Kubernetes完整指南](https://blog.csdn.net/sinat_41617212/article/details/159651856)
+
++ [从Agent、MCP、Skill到CLI：AI进化四部曲的代表作品与里程碑全盘点](https://blog.csdn.net/qq_44866828/article/details/159654869)
+
++ [【HarmonyOS 6.0】ArkData 应用间配置共享：构建跨应用协作新范式](https://blog.csdn.net/weixin_74809706/article/details/159432120)
+
++ [从 Elasticsearch runtime fields 到 ES|QL：将传统工具适配到当前技术](https://blog.csdn.net/UbuntuTouch/article/details/159671274)
+
++ [【Linux】进程信号（4）_信号捕捉_内核态与用户态](https://blog.csdn.net/mo_sheng_sli/article/details/159654840)
+
++ [微信iLink Bot Java SDK详解：封装、登录、消息、媒体上传全覆盖](https://blog.csdn.net/2303_79452807/article/details/159615906)
+
++ [ROS2机器人少年创客营：编程思维启蒙](https://blog.csdn.net/u010249118/article/details/159654483)
+
++ [一文讲透企业级权限管理：RBAC+数据权限+多租户隔离——SpringBoot+Vue3 权限体系设计全解析](https://blog.csdn.net/zhouzhongyan/article/details/159670721)
+
++ [Mermaid 使用 | 语法、流程图、时序图、甘特图、饼图、类图、状态图、用户旅行图](https://blog.csdn.net/u013669912/article/details/151085814)
+
++ [一套面向 Web、H5、小程序与 Flutter 的多端一致性技术方案](https://blog.csdn.net/2501_92872533/article/details/159653389)
+
++ [在Godot中应用面向对象原则：C#脚本实践](https://blog.csdn.net/baidu_38495508/article/details/159611585)
+
