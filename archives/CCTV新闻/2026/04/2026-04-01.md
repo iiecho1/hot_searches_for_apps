@@ -171,3 +171,15 @@
 
 + [时隔15年，印度重启人口普查](https://news.cctv.com/2026/04/01/ARTIQb3ALsEAUfHOJovbBcRC260401.shtml)
 
++ [以称监测到从也门发射的导弹](https://news.cctv.com/2026/04/01/ARTIC97kl3wRMOg56M9qmLWv260401.shtml)
+
++ [美国加州柴油价格再创历史新高](https://news.cctv.com/2026/04/01/ARTIrHWeP1xV61u0oGv6BY7K260401.shtml)
+
++ [联合国发布报告：中东冲突升级可能引发严重经济后果](https://news.cctv.com/2026/04/01/ARTIauBm0JdmEEKLGCUxgANb260401.shtml)
+
++ [美军否认袭击伊朗体育馆 称“不会以平民为目标”](https://news.cctv.com/2026/04/01/ARTIuUXUZnx6PUCr3mDd0CFh260401.shtml)
+
++ [美国务卿称将重新审视与北约关系](https://news.cctv.com/2026/04/01/ARTIOnrU5rHmlvExDH3P2WZP260401.shtml)
+
++ [日本茨城县南部发生5.0级地震 东京有强烈震感](https://news.cctv.com/2026/04/01/ARTIG0cjzTZzxVMwbwbTt9PC260401.shtml)
+

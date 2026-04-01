@@ -137,3 +137,23 @@
 
 + [Zabbix 监控多线路出口IP并通过飞书告警完整教程](https://blog.csdn.net/m0_37888039/article/details/159654266)
 
++ [【码动四季】Trae + 腾讯地图 MCP 实战：让 AI 直接调用地图能力，一步到位](https://blog.csdn.net/yelangkingwuzuhu/article/details/159698332)
+
++ [线性算子与矩阵表示](https://blog.csdn.net/eidolon_foot/article/details/159322760)
+
++ [首个企业级 OpenClaw 部署管理方案开源了](https://blog.csdn.net/qq_42055933/article/details/159697531)
+
++ [【西瓜带你学设计模式 | 第七期 - 适配器模式】适配器模式 —— 类适配器与对象适配器实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159696965)
+
++ [Android tinyalsa深度解析之pcm_params_get_period_size_max调用流程与实战(一百七十二)](https://blog.csdn.net/u010164190/article/details/159670412)
+
++ [从判断列表到训练好的 Learning to Rank（ LTR ）模型](https://blog.csdn.net/UbuntuTouch/article/details/159709683)
+
++ [ReactNative项目OpenHarmony三方库集成实战：react-native-tts 语音播放](https://blog.csdn.net/qq_61024956/article/details/159695937)
+
++ [Redis核心理论：数据删除与淘汰策略详解（从原理到实战）](https://blog.csdn.net/2301_82132279/article/details/159697497)
+
++ [FPGA内部模块详解之九 FPGA内部模块的协同作战与设计流程精要](https://blog.csdn.net/GateWorld/article/details/159617773)
+
++ [Jenkins vs GitLab CI/CD：2026 企业级 CI/CD 工具深度选型评测](https://blog.csdn.net/yifan99/article/details/159698494)
+
