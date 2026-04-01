@@ -157,3 +157,17 @@
 
 + [Jenkins vs GitLab CI/CD：2026 企业级 CI/CD 工具深度选型评测](https://blog.csdn.net/yifan99/article/details/159698494)
 
++ [WebView 并发初始化竞争风险分析](https://blog.csdn.net/g984160547/article/details/159548674)
+
++ [▲基于Q-Learning强化学习的无人驾驶小车城市道路行驶控制系统matlab性能仿真](https://blog.csdn.net/ccsss22/article/details/159685866)
+
++ [迁移 Oracle 到 PostgreSQL: PL/SQL 对比 PL/pgSQL](https://blog.csdn.net/allway2/article/details/159648853)
+
++ [k8s云安全、devsecops等知识](https://blog.csdn.net/2403_87419095/article/details/157976458)
+
++ [Linux SSH密码爆破脚本，从原理到实践](https://blog.csdn.net/tsz520eee/article/details/159698634)
+
++ [DeerFlow2.0 Docker + 本地 Ollama qwen3.5:9b 部署指南](https://blog.csdn.net/vscene/article/details/159648505)
+
++ [HTML应用指南：利用GET请求获取中国生活垃圾焚烧发电厂位置信息](https://blog.csdn.net/weixin_45812624/article/details/159688326)
+

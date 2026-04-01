@@ -183,3 +183,5 @@
 
 + [日本茨城县南部发生5.0级地震 东京有强烈震感](https://news.cctv.com/2026/04/01/ARTIG0cjzTZzxVMwbwbTt9PC260401.shtml)
 
++ [美国纽约市宣布撤销政府设备使用TikTok禁令](https://news.cctv.com/2026/04/01/ARTIxTcxA3Af5USff54uH3OV260401.shtml)
+
