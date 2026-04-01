@@ -117,3 +117,9 @@
 
 + [网络安全概念及规范](https://blog.csdn.net/qq_38200548/article/details/159696455)
 
++ [Android tinyalsa深度解析之pcm_params_get_period_size_max调用流程与实战(一百七十二)](https://blog.csdn.net/u010164190/article/details/159670412)
+
++ [Redis核心理论：数据删除与淘汰策略详解（从原理到实战）](https://blog.csdn.net/2301_82132279/article/details/159697497)
+
++ [Jenkins vs GitLab CI/CD：2026 企业级 CI/CD 工具深度选型评测](https://blog.csdn.net/yifan99/article/details/159698494)
+

@@ -161,3 +161,9 @@
 
 + [美国洛杉矶爆发大规模抗议活动 警方逮捕75名抗议者](https://news.cctv.com/2026/03/30/ARTIpVkmBYjRGzc6BNGjeied260330.shtml)
 
++ [伊朗外交部发言人：伊朗已做好应对任何攻击的准备](https://news.cctv.com/2026/04/02/ARTI753U934NRslfygpzYtpL260402.shtml)
+
++ [德国索林根持刀伤人事件致两人受伤](https://news.cctv.com/2026/04/02/ARTIMwzgEiScyuwgwGcrYfxL260402.shtml)
+
++ [特朗普要求军方提交夺取伊朗核材料计划](https://news.cctv.com/2026/04/02/ARTIckum6djrudUHcq5Listf260402.shtml)
+
