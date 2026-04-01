@@ -187,3 +187,5 @@
 
 + [GitHub 热榜项目 - 日榜(2026-03-30)](https://blog.csdn.net/u014390502/article/details/159630130)
 
++ [基于人工势场法的多无人机协同飞行路径规划与避障系统matlab仿真](https://blog.csdn.net/soft_algorithm/article/details/159659266)
+

@@ -29,3 +29,13 @@
 
 + [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [google-research/timesfm](https://github.com/google-research/timesfm)
+
++ [axios/axios](https://github.com/axios/axios)
+
++ [openai/codex](https://github.com/openai/codex)
+
++ [f/prompts.chat](https://github.com/f/prompts.chat)
+
