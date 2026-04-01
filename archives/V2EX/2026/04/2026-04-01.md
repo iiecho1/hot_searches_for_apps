@@ -37,3 +37,7 @@
 
 + [<span class="__cf_email__" data-cfemail="06677e6f697546372837322837">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
 
++ [<span class="__cf_email__" data-cfemail="39584150564a790817080d1708">[email&#160;protected]</span> 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击](https://www.v2ex.com/t/1202470)
+
++ [这种三省六部的 agent 架构有没有用？有用过的麻？](https://www.v2ex.com/t/1202502)
+
