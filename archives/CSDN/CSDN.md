@@ -101,3 +101,15 @@
 
 + [GitHub 热榜项目 - 日榜(2026-03-30)](https://blog.csdn.net/u014390502/article/details/159630130)
 
++ [AI 驱动游戏：鸿蒙生态的机会在哪里？](https://blog.csdn.net/qq_36863796/article/details/159689723)
+
++ [Linux SSH密码爆破脚本，从原理到实践](https://blog.csdn.net/tsz520eee/article/details/159698634)
+
++ [【大数据存储与管理】分布式数据库HBase：06 HBase编程实践](https://blog.csdn.net/Morse_Chen/article/details/159516172)
+
++ [restore archivelog RAC thread from sequence logseq ](https://blog.csdn.net/jnrjian/article/details/159650549)
+
++ [《本地 Agent 实践》系列之一：MacOS+Ollama+OpenClaw+飞书](https://blog.csdn.net/moongoblin/article/details/159687239)
+
++ [【西瓜带你学设计模式 | 第七期 - 适配器模式】适配器模式 —— 类适配器与对象适配器实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159696965)
+
