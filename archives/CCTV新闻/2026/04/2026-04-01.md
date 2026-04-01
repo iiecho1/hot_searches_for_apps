@@ -191,3 +191,5 @@
 
 + [揭幕战6月12日3点！美加墨世界杯赛程出炉](https://news.cctv.com/2026/04/01/ARTIahrN3FrVI2Cb3sKQxFzM260401.shtml)
 
++ [秘鲁发生6.0级地震，震源深度110千米](https://news.cctv.com/2026/04/01/ARTI9ZSpnI3Yk2lILR4J0buB260401.shtml)
+

@@ -189,3 +189,7 @@
 
 + [基于人工势场法的多无人机协同飞行路径规划与避障系统matlab仿真](https://blog.csdn.net/soft_algorithm/article/details/159659266)
 
++ [内网 Jenkins 公网访问与自动化部署实操：基于内网穿透的落地方案](https://blog.csdn.net/baronbool/article/details/159631026)
+
++ [群晖NAS部署Copyparty:打造专属全能文件服务器+ 公网访问教程](https://blog.csdn.net/2302_79177254/article/details/159696427)
+
