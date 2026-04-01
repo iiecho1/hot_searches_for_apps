@@ -32,10 +32,11 @@ archives/
 | 新闻资讯 | [今日头条](./archives/今日头条/今日头条.md)、[澎湃新闻](./archives/澎湃新闻/澎湃新闻.md)、[新京报](./archives/新京报/新京报.md)、[网易新闻](./archives/网易新闻/网易新闻.md)、[腾讯新闻](./archives/腾讯新闻/腾讯新闻.md)、[人民网](./archives/人民网/人民网.md)、[南方周末](./archives/南方周末/南方周末.md)、[CCTV新闻](./archives/CCTV新闻/CCTV新闻.md) |
 | 科技 | [CSDN](./archives/CSDN/CSDN.md)、[GitHub](./archives/GitHub/GitHub.md)、[IT之家](./archives/IT之家/IT之家.md)、[36氪](./archives/36氪/36氪.md) |
 | 视频/娱乐 | [哔哩哔哩](./archives/哔哩哔哩/哔哩哔哩.md)、[抖音](./archives/抖音/抖音.md)、[梨视频](./archives/梨视频/梨视频.md) |
-| 其他 | [少数派](./archives/少数派/少数派.md)、[懂球帝](./archives/懂球帝/懂球帝.md)、[国家地理](./archives/国家地理/国家地理.md)、[历史上的今天](./archives/历史上的今天/历史上的今天.md)、[360doc](./archives/360doc/360doc.md) |
+| 其他 | [少数派](./archives/少数派/少数派.md)、[懂球帝](./archives/懂球帝/懂球帝.md)、[国家地理](./archives/国家地理/国家地理.md)、[历史上的今天](./archives/历史上的今天/历史上的今天.md)、[360doc](./archives/360doc/360doc.md)（将于2026年5月1日闭站，数据更新至2026年3月31日） |
 
 ## 更新日志
 
+- **2026-04-01**: 360doc将于2026年5月1日闭站，网站数据自2026年4月1日起不再更新
 - **2026-03-22**: 优化脚本：请求超时+重试、精确去重、URL编码统一
 - **2025-01-10**: 重写 API，支持 30 个平台
 - **2024-10-18**: 切换到自建 API
