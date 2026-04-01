@@ -167,3 +167,7 @@
 
 + [特朗普要求军方提交夺取伊朗核材料计划](https://news.cctv.com/2026/04/02/ARTIckum6djrudUHcq5Listf260402.shtml)
 
++ [印尼北苏拉威西省附近海域发生7.6级地震](https://news.cctv.com/2026/04/02/ARTIHDOZOfKFxaHAuzZwl1HJ260402.shtml)
+
++ [埃及首都开罗一服装厂火灾致9死17伤](https://news.cctv.com/2026/04/02/ARTIz314mjhIcJ3mqtnbtIKJ260402.shtml)
+
