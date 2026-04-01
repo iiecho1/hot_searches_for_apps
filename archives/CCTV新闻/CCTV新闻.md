@@ -193,3 +193,11 @@
 
 + [秘鲁发生6.0级地震，震源深度110千米](https://news.cctv.com/2026/04/01/ARTI9ZSpnI3Yk2lILR4J0buB260401.shtml)
 
++ [深追踪丨当全球陷入能源焦虑，中国为何能淡定自若？英国前投资大臣解读](https://news.cctv.com/2026/04/01/ARTIomPNTTMJ1iGlMmQbMVmn260401.shtml)
+
++ [【国际漫评】下一个](https://news.cctv.com/2026/04/01/ARTItcZBaAMISx2t7jNxw9bv260401.shtml)
+
++ [这个日本大使，翻车了？](https://news.cctv.com/2026/04/01/ARTIP3lAexjzPS4ZBzrvu0D5260401.shtml)
+
++ [【中国那些事儿】外媒：中国扩大高水平对外开放 推动构建包容平衡的世界经济](https://news.cctv.com/2026/04/01/ARTIlIXLBE4T63kVyw0gDY7G260401.shtml)
+

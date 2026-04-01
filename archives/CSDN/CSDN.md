@@ -193,3 +193,9 @@
 
 + [群晖NAS部署Copyparty:打造专属全能文件服务器+ 公网访问教程](https://blog.csdn.net/2302_79177254/article/details/159696427)
 
++ [XGuard部署测评：给大模型加一道真正可落地的 Prompt 防火墙](https://blog.csdn.net/m0_68111267/article/details/159682421)
+
++ [【AI智能体】Skills 智能体驱动开发从使用到项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/159616568)
+
++ [【花雕学编程】Arduino BLDC 之基于模糊逻辑的自主导航机器人](https://blog.csdn.net/weixin_41659040/article/details/159688357)
+
