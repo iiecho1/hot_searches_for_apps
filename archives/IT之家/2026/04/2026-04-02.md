@@ -25,3 +25,27 @@
 
 + [央行一次性信用修复政策今天到期：单笔万元内信贷逾期若借款人足额还款，征信系统将不予展示](https://m.ithome.com/html/934633.htm)
 
++ [2026 年 3 月汽车销量 / 交付汇总：长安超 27 万辆、比亚迪超 30 万辆（持续更新）](https://m.ithome.com/html/934765.htm)
+
++ [曝国行版苹果 Apple Intelligence 不止撤回推送，下载到本地的模型也会被删除](https://m.ithome.com/html/935051.htm)
+
++ [雷军明晚 19~24 时直播拆车：逐一拆解、讲透小米新 SU7 每个细节](https://m.ithome.com/html/934874.htm)
+
++ [微信“初代机”现身：苹果 iPod touch（第 4 代），准备捐给筹建中的计算机博物馆](https://m.ithome.com/html/935014.htm)
+
++ [小米汽车 3 月交付量超 20000 台，新一代 SU7 交付已超 7000 台](https://m.ithome.com/html/934757.htm)
+
++ [比亚迪 3 月销售 300222 辆环比翻番，获得中国车企销量冠军](https://m.ithome.com/html/935056.htm)
+
++ [消息称国内所有安卓大厂本月都会涨价，老品新品手机平板都会上涨](https://m.ithome.com/html/934939.htm)
+
++ [OpenClaw 3.31 重磅更新：“龙虾”框架原生集成腾讯 QQ 机器人](https://m.ithome.com/html/934873.htm)
+
++ [消息称特斯拉原中国区总经理孔艳双入职小米，负责汽车销售有关工作](https://m.ithome.com/html/934893.htm)
+
++ [奔驰改款 GLE / GLS 新车四连发：换装全新 V8 发动机，目光所及全是“星星”](https://m.ithome.com/html/934704.htm)
+
++ [OPPO 卓世杰：今年 Find X10 Ultra 不会上市](https://m.ithome.com/html/934821.htm)
+
++ [多辆萝卜快跑车辆停在路中间不能移动，武汉交警通报称系统故障所致](https://m.ithome.com/html/934729.htm)
+
