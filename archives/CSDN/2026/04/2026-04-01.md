@@ -177,3 +177,13 @@
 
 + [uniapp学习6，滚动字幕播报](https://blog.csdn.net/AnalogElectronic/article/details/159697491)
 
++ [【Qt】信号和槽（二）自定义信号函数和槽函数](https://blog.csdn.net/2301_80751958/article/details/159689259)
+
++ [OpenClaw 实操指南 08：飞书 CLI 命令速查表，办公效率直接拉满](https://blog.csdn.net/GODYAD/article/details/159674776)
+
++ [HarmonyOS 5.0医疗健康APP开发实战：基于多模态感知与分布式急救协同的智慧健康监测系统](https://blog.csdn.net/u014727709/article/details/159694264)
+
++ [基于红帽redhat环境下配置Nginx Web服务器](https://blog.csdn.net/2301_80387628/article/details/159697396)
+
++ [GitHub 热榜项目 - 日榜(2026-03-30)](https://blog.csdn.net/u014390502/article/details/159630130)
+

@@ -189,3 +189,5 @@
 
 + [以军称“圣城旅”黎巴嫩部队工程部门负责人身亡](https://news.cctv.com/2026/04/01/ARTIwy2UwhYZiRrP2VyGLwNr260401.shtml)
 
++ [揭幕战6月12日3点！美加墨世界杯赛程出炉](https://news.cctv.com/2026/04/01/ARTIahrN3FrVI2Cb3sKQxFzM260401.shtml)
+
