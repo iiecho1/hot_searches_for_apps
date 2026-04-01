@@ -59,3 +59,9 @@
 
 + [央行一次性信用修复政策今天到期：单笔万元内信贷逾期若借款人足额还款，征信系统将不予展示](https://m.ithome.com/html/934633.htm)
 
++ [阿里通义千问 Qwen 3.6 Plus 免费预览版上线 OpenRouter：可提供比 3.5 更强的推理能力和更可靠的 Agent 行为](https://m.ithome.com/html/934546.htm)
+
++ [华为鸿蒙 Harmony 6.0.0.328 版本最新适配进度公布，公测 / 花粉 Beta 双线并进](https://m.ithome.com/html/934565.htm)
+
++ [2999 → 1784 元：Apple Watch S11 京东国补再降价，换新至高再补 700 元](https://m.ithome.com/html/934646.htm)
+
