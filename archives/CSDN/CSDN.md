@@ -171,3 +171,9 @@
 
 + [HTML应用指南：利用GET请求获取中国生活垃圾焚烧发电厂位置信息](https://blog.csdn.net/weixin_45812624/article/details/159688326)
 
++ [AI 驱动游戏：鸿蒙生态的机会在哪里？](https://blog.csdn.net/qq_36863796/article/details/159689723)
+
++ [网络安全概念及规范](https://blog.csdn.net/qq_38200548/article/details/159696455)
+
++ [uniapp学习6，滚动字幕播报](https://blog.csdn.net/AnalogElectronic/article/details/159697491)
+
