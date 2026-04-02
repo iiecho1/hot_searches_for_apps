@@ -165,3 +165,9 @@
 
 + [Claude Code 宠物系统，我写了个工具帮每个人孵化传奇宠物](https://blog.csdn.net/fzuim/article/details/159722848)
 
++ [AI日报 - 2026年03月31日](https://blog.csdn.net/NingboWill/article/details/159669931)
+
++ [2MB 的 PostgreSQL work_mem，如何吃掉 2TB 内存？](https://blog.csdn.net/IvorySQL/article/details/159730949)
+
++ [Claude Code架构与设计原理深度解析（AI编程Agent核心课）](https://blog.csdn.net/qq_44810930/article/details/159737957)
+
