@@ -25,3 +25,25 @@
 
 + [2999 元起 → 3999 元起：索尼 PS5 / PS5 Pro 游戏机国行明起涨价](https://m.ithome.com/html/935124.htm)
 
++ [微信：张雪机车在小程序卖爆了，2 周狂卖超万台](https://m.ithome.com/html/935421.htm)
+
++ [华为畅享 90 Plus/Pro Max 手机开售：麒麟 8000 芯 + 鸿蒙 6 + 巨鲸大电池，1499 元起](https://m.ithome.com/html/935163.htm)
+
++ [OpenClaw 龙虾推出官方中国镜像站，由字节跳动提供支持](https://m.ithome.com/html/935191.htm)
+
++ [11.19 万元起，2026 款比亚迪海豹 06 GT、海豹 06 DM-i 旅行版车型上市](https://m.ithome.com/html/935381.htm)
+
++ [54 年来首次：美国“阿耳忒弥斯 2 号”载人绕月任务成功升空](https://m.ithome.com/html/935129.htm)
+
++ [消息称原特斯拉“王牌厂长”宋钢将入职小米汽车](https://m.ithome.com/html/935140.htm)
+
++ [2026 款蔚来 ET5、ET5T 上市：新增标配辅助驾驶指示灯，电池租用方案 19 万起](https://m.ithome.com/html/935251.htm)
+
++ [2026 款小鹏 MONA M03 上市：最高算力 750TOPS，11.98 万-15.18 万元](https://m.ithome.com/html/935499.htm)
+
++ [恐破 1337 天纪录：消息称苹果新款 Apple TV 4K 苦等 tvOS 27，迎史上最长迭代空窗期](https://m.ithome.com/html/935152.htm)
+
++ [又是自研：曝某厂除即将登场的阔折叠还有常规旗舰大折叠手机，预计归属华为](https://m.ithome.com/html/935384.htm)
+
++ [雷军透露小米汽车正在做「百色计划」，未来会有更多质感更好、颜色更讨喜的车漆](https://m.ithome.com/html/935485.htm)
+
