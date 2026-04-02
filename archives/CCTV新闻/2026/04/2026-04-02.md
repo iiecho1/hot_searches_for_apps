@@ -173,3 +173,15 @@
 
 + [特朗普自行宣称对伊朗战事取得“快速、决定性、压倒性胜利”](https://news.cctv.com/2026/04/02/ARTIGHQtc8nd29E0xnYTRHUv260402.shtml)
 
++ [印尼马鲁古海峡发生5.8级地震，震源深度40千米](https://news.cctv.com/2026/04/02/ARTIlmx4Dd20lvrqEuMUsczh260402.shtml)
+
++ [马克龙“暗批”特朗普：有的国家善变还伤害盟友](https://news.cctv.com/2026/04/02/ARTIsx2p1og9Bt8yF6UsyZ2Z260402.shtml)
+
++ [印度时隔15年再做人口普查 收集种姓信息引争议](https://news.cctv.com/2026/04/02/ARTIHcTZzl9fNseTPv9UBs0H260402.shtml)
+
++ [特朗普称对伊朗战事核心战略目标“接近完成”](https://news.cctv.com/2026/04/02/ARTIVo2uGEosRxYe8Z0Qpq3D260402.shtml)
+
++ [特朗普称美国不需要霍尔木兹海峡](https://news.cctv.com/2026/04/02/ARTIGOXdrAFggQXx41B5umx3260402.shtml)
+
++ [特朗普称一旦无法达成协议 美国将猛烈打击伊朗所有发电厂](https://news.cctv.com/2026/04/02/ARTICYg4ao1EcnSeaMLsb49a260402.shtml)
+

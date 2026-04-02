@@ -23,3 +23,17 @@
 
 + [大模型中转站， Unity2.Ai 内测招募：直达源头，拒绝“掺水”！](https://www.v2ex.com/t/1202897)
 
++ [现在这个时间点，花一万块钱报 AI 培训班值得不？](https://www.v2ex.com/t/1202986)
+
++ [买特斯拉还是小鹏，听说小鹏 vla2.0 很强](https://www.v2ex.com/t/1202993)
+
++ [该不该现在买房？各位帮忙参谋参谋！由于房贷是刚性的，在 AI 趋势下后期工资能否覆盖房贷](https://www.v2ex.com/t/1202999)
+
++ [[求助] 公司给了 $90 刀 Claude 额度，但在境内用 cc-switch 和 env 都救不活 Claude Code](https://www.v2ex.com/t/1202778)
+
++ [codex 站起来蹬吗？](https://www.v2ex.com/t/1202878)
+
++ [快三年了，发现好像没签劳动合同，现在被裁准备仲裁咋办？](https://www.v2ex.com/t/1202864)
+
++ [发现 WinServer(2025)才是最轻量的 Win，胜过 LTSC，很适合虚拟机](https://www.v2ex.com/t/1202967)
+

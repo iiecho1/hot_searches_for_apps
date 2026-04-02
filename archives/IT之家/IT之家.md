@@ -49,3 +49,13 @@
 
 + [多辆萝卜快跑车辆停在路中间不能移动，武汉交警通报称系统故障所致](https://m.ithome.com/html/934729.htm)
 
++ [微信安卓 8.0.70 正式版更新发布，大量功能灰度](https://m.ithome.com/html/935127.htm)
+
++ [公安部发文力挺张雪“禁止新手买 820RR 摩托车”：真正的热爱是懂得边界](https://m.ithome.com/html/935146.htm)
+
++ [微软工程师：别总把锅甩给 Windows 更新，Win11 系统崩溃不一定是更新的错](https://m.ithome.com/html/935123.htm)
+
++ [我国首部移动电源安全国标出台：小米华为等各大公司参与起草，电芯须通过针刺测试不起火不爆炸](https://m.ithome.com/html/935093.htm)
+
++ [2999 元起 → 3999 元起：索尼 PS5 / PS5 Pro 游戏机国行明起涨价](https://m.ithome.com/html/935124.htm)
+

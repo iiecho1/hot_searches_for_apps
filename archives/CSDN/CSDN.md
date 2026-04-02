@@ -127,3 +127,19 @@
 
 + [序列化与反序列化及其ProtoBuf学习总结](https://blog.csdn.net/2401_89119815/article/details/159690217)
 
++ [HarmonyOS 5.0车机应用开发实战：基于方舟引擎的智能座舱多模态交互系统](https://blog.csdn.net/u014727709/article/details/159736492)
+
++ [AI 大模型落地系列｜Eino ADK体系篇：你对 ChatModelAgent 有了解吗？](https://blog.csdn.net/2302_80067378/article/details/159696365)
+
++ [12. 消息队列-RabbitMQ-Spring Boot 集成 RabbitMQ](https://blog.csdn.net/princemilo/article/details/159635643)
+
++ [DeerFlow2.0 Docker + 本地 Ollama qwen3.5:9b 部署指南](https://blog.csdn.net/vscene/article/details/159648505)
+
++ [数据迁移同步工具 CloudCanal-v5.5.0.0 发布，支持 RETL（定时扫描同步）](https://blog.csdn.net/wankaimingzj/article/details/159652949)
+
++ [Claude Code教程（六）| MCP 之 Figma](https://blog.csdn.net/qq_20236937/article/details/159656320)
+
++ [计算机网络：自顶向下方法（第七版）第七章 学习分享（四）](https://blog.csdn.net/qq_39635178/article/details/159692805)
+
++ [Kubernetes 监控黄金搭档：Prometheus + Grafana](https://blog.csdn.net/2302_79547686/article/details/159737605)
+
