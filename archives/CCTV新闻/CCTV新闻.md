@@ -183,3 +183,15 @@
 
 + [阿盟呼吁对以色列“巴勒斯坦人死刑法”展开紧急国际刑事调查](https://news.cctv.com/2026/04/03/ARTImZvYRmxlo8Tx4YDEJsX7260403.shtml)
 
++ [捷克警方以“危害公共安全罪”起诉袭击布拉格俄罗斯文化中心的嫌疑人](https://news.cctv.com/2026/04/03/ARTIxwhzsXCj3UC1BElOK3TI260403.shtml)
+
++ [古巴青少年举行反帝游行](https://news.cctv.com/2026/04/03/ARTI2WwQ5B4ostfPQXPhRq33260403.shtml)
+
++ [美国“福特”号航母驶离克罗地亚港口](https://news.cctv.com/2026/04/03/ARTIDclXA2JBllNJhrpWnPFf260403.shtml)
+
++ [美国宣布将对进口专利药及制药成分加征100%关税](https://news.cctv.com/2026/04/03/ARTIgs4WG0KJT5ISu6QQjbSo260403.shtml)
+
++ [国际海事组织秘书长：霍尔木兹海峡“打”不通](https://news.cctv.com/2026/04/03/ARTI3BLxu1GGcCStSEqM5PQ7260403.shtml)
+
++ [伊朗外长：袭击民用设施不会迫使伊朗人民投降](https://news.cctv.com/2026/04/03/ARTIB8lyJrvFTBJI7UtdxH9r260403.shtml)
+
