@@ -159,3 +159,9 @@
 
 + [在 Debian 上部署 ELK 7.17 完整指南](https://blog.csdn.net/qq_24768591/article/details/159711001)
 
++ [【Vibe Coding】因为不想付10块钱，我花3小时用AI写了个羽毛球助手小程序](https://blog.csdn.net/Txx318026/article/details/159650707)
+
++ [PostgreSQL import SQL file](https://blog.csdn.net/allway2/article/details/159729177)
+
++ [Claude Code 宠物系统，我写了个工具帮每个人孵化传奇宠物](https://blog.csdn.net/fzuim/article/details/159722848)
+

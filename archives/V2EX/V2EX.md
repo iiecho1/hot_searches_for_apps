@@ -45,3 +45,5 @@
 
 + [简体中文是过街老鼠吗，在 rustdesk 的 github 上 issue 用中文提 bug 不配吗？](https://www.v2ex.com/t/1203020)
 
++ [怀念那个美好的时代](https://www.v2ex.com/t/1203053)
+

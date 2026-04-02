@@ -187,3 +187,9 @@
 
 + [伊朗称美以对伊朗能力一无所知 将战至“敌人悔恨不已并投降”](https://news.cctv.com/2026/04/02/ARTIrRyAFgYF8754TnAilclb260402.shtml)
 
++ [美国驻伊拉克大使馆：在伊美国公民立即撤离伊拉克](https://news.cctv.com/2026/04/02/ARTI5PhMJQAaasN6orsOTBxu260402.shtml)
+
++ [多国联合声明谴责以色列立法允许在约旦河西岸实施死刑](https://news.cctv.com/2026/04/02/ARTIC0tv2k5Wdn9ZOlawRzyu260402.shtml)
+
++ [美国派兵“夺取”伊朗浓缩铀可行吗？专家警告风险极高](https://news.cctv.com/2026/04/02/ARTILOwZGI4HZPNRNnWfH9sk260402.shtml)
+
