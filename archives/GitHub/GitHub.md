@@ -17,3 +17,5 @@
 
 + [f/prompts.chat](https://github.com/f/prompts.chat)
 
++ [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
+

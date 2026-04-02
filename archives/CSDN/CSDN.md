@@ -183,3 +183,9 @@
 
 + [Harness：统一企业级 DevOps 平台的新标准](https://blog.csdn.net/qyq88888/article/details/159695266)
 
++ [YOLO26 | 注意力机制 | 以分解式双层注意力提升语义表达与细节捕捉【完整步骤】](https://blog.csdn.net/m0_67647321/article/details/159711225)
+
++ [YOLO26涨点改进| TGRS 2026 | 独家创新首发、特征融合改进篇| 引入DFAM差异特征频域注意力模块，发论文热点创新，强化细节与边缘特征，提高对小目标和弱特征目标的感知能力，有效涨点改进](https://blog.csdn.net/qq_45972324/article/details/159760423)
+
++ [OpenClaw v2026.4.1 深度剖析报告：任务系统、协作生态与安全范式的全面跃迁](https://blog.csdn.net/jinanwuhuaguo/article/details/159765782)
+
