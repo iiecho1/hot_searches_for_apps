@@ -19,3 +19,11 @@
 
 + [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
 
++ [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
+
++ [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+
++ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
++ [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+
