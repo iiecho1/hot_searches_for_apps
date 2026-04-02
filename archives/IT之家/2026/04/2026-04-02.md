@@ -59,3 +59,17 @@
 
 + [2999 元起 → 3999 元起：索尼 PS5 / PS5 Pro 游戏机国行明起涨价](https://m.ithome.com/html/935124.htm)
 
++ [华为畅享 90 Plus/Pro Max 手机开售：麒麟 8000 芯 + 鸿蒙 6 + 巨鲸大电池，1499 元起](https://m.ithome.com/html/935163.htm)
+
++ [赛力斯第五代 2.0T 超级增程技术开发完成，实现“车-电-机-充”一体化集成](https://m.ithome.com/html/935116.htm)
+
++ [OpenClaw 龙虾推出官方中国镜像站，由字节跳动提供支持](https://m.ithome.com/html/935191.htm)
+
++ [雷军公开小米 YU7 现车选购 4 月权益：限时免费送主副驾双零重力座椅，再送 6000 元保险补贴](https://m.ithome.com/html/935076.htm)
+
++ [消息称原特斯拉“王牌厂长”宋钢将入职小米汽车](https://m.ithome.com/html/935140.htm)
+
++ [50 多年来首次：美国“阿耳忒弥斯 2 号”载人绕月任务成功升空](https://m.ithome.com/html/935129.htm)
+
++ [华为鸿蒙 HarmonyOS 6 系统负一屏内测关联 Claw 智能体功能，可提供 AI 任务完成提醒等服务](https://m.ithome.com/html/935081.htm)
+

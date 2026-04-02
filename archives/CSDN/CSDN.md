@@ -171,3 +171,5 @@
 
 + [Claude Code架构与设计原理深度解析（AI编程Agent核心课）](https://blog.csdn.net/qq_44810930/article/details/159737957)
 
++ [AI 助力 DevOps 智能化：提升企业研发效能的革命性变革](https://blog.csdn.net/trainsignalcn/article/details/159687223)
+
