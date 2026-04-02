@@ -101,3 +101,43 @@
 
 + [OpenClaw飞书机器人配置全流程：飞书聊天下达AI指令，远程操控电脑](https://blog.csdn.net/2601_95578198/article/details/159716031)
 
++ [【HarmonyOS 6.0】ArkUI 闪控球功能深度解析：从API到实战](https://blog.csdn.net/weixin_74809706/article/details/159432437)
+
++ [HarmonyOS 5.0车机应用开发实战：基于方舟引擎的智能座舱多模态交互系统](https://blog.csdn.net/u014727709/article/details/159736492)
+
++ [TypeScript 与 ArkTS 全面对比：鸿蒙生态下的语言演进](https://blog.csdn.net/csdn_silent/article/details/154112862)
+
++ [【论文代码复现】低空经济下车辆与无人机协同配送路径优化研究||pymoo求解集中式协同配送模式优化问题研究（Python代码实现）](https://blog.csdn.net/m0_73907476/article/details/159694142)
+
++ [【深度解析】Anthropic Cloud Code 源码泄露：多智能体架构、长期记忆与百万上下文的大模型工程实践](https://blog.csdn.net/weixin_45888077/article/details/159737152)
+
++ [【西瓜带你学设计模式 | 第九期 - 代理模式】代理模式 —— 静态与动态代理实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159761400)
+
++ [黑马头条日记 | Kafka Stream流式计算 —— 助你实时计算热点文章](https://blog.csdn.net/2401_88044367/article/details/159737533)
+
++ [深入理解 Kafka Producer 核心源码：消息发送全链路解析](https://blog.csdn.net/yitian881112/article/details/159711470)
+
++ [方寸微PT153S芯片，USB千兆网卡芯片，替代RTL8153方案，PT153S芯片代理商](https://blog.csdn.net/Capstone1/article/details/159675144)
+
++ [一网打尽react手写题（上）](https://blog.csdn.net/Jerryle__/article/details/159737552)
+
++ [Linux SSH密码爆破脚本，从原理到实践](https://blog.csdn.net/tsz520eee/article/details/159698634)
+
++ [Jenkins vs GitLab CI/CD：2026 企业级 CI/CD 工具深度选型评测](https://blog.csdn.net/yifan99/article/details/159698494)
+
++ [HTML应用指南：利用GET请求获取中国生活垃圾焚烧发电厂位置信息](https://blog.csdn.net/weixin_45812624/article/details/159688326)
+
++ [【Flutter for OpenHarmony 】：第三方库+Preferences本地存储实现主题记忆+数据持久化](https://blog.csdn.net/mm925210mm/article/details/159771369)
+
++ [Docker 实战：镜像瘦身、多阶段构建与最佳实践](https://blog.csdn.net/macowl/article/details/159737048)
+
++ [.NET 进阶之路：异步、并发与内存管理的系统性认知](https://blog.csdn.net/github_37151951/article/details/159696592)
+
++ [JAVA国际版同城上门服务上门送水桶装水配送源码同城上门配送系统源码支持Android＋IOS＋H5](https://blog.csdn.net/2401_89605681/article/details/159733543)
+
++ [从 Presto 到 StarRocks：作业帮架构升级实践](https://blog.csdn.net/StarRocks/article/details/159737304)
+
++ [Claude Code 泄露真正有价值的 harness engineering经验总结 由GPT-5.4pro全量调研分析](https://blog.csdn.net/weixin_46801290/article/details/159769838)
+
++ [Qdrant:为AI构建的高性能向量搜索引擎](https://blog.csdn.net/fuquxiaoguang/article/details/159688897)
+
