@@ -41,3 +41,7 @@
 
 + [感觉 ai agent 时代， windows 越来越不行了](https://www.v2ex.com/t/1203016)
 
++ [亲测中转确实坑。。说好的江湖呢？](https://www.v2ex.com/t/1203033)
+
++ [简体中文是过街老鼠吗，在 rustdesk 的 github 上 issue 用中文提 bug 不配吗？](https://www.v2ex.com/t/1203020)
+

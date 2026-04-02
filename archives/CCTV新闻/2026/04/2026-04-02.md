@@ -185,3 +185,5 @@
 
 + [特朗普称一旦无法达成协议 美国将猛烈打击伊朗所有发电厂](https://news.cctv.com/2026/04/02/ARTICYg4ao1EcnSeaMLsb49a260402.shtml)
 
++ [伊朗称美以对伊朗能力一无所知 将战至“敌人悔恨不已并投降”](https://news.cctv.com/2026/04/02/ARTIrRyAFgYF8754TnAilclb260402.shtml)
+
