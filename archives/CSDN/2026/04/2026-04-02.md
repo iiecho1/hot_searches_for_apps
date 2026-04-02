@@ -173,3 +173,9 @@
 
 + [AI 助力 DevOps 智能化：提升企业研发效能的革命性变革](https://blog.csdn.net/trainsignalcn/article/details/159687223)
 
++ [SpringCloud 秒杀系统生产级落地：Sentinel+Redis 联合优化，从限流防刷到库存闭环，彻底解决超卖 / 宕机 / 恶意刷](https://blog.csdn.net/qq_40303030/article/details/158379732)
+
++ [【西瓜带你学设计模式 | 第十期 - 外观模式】外观模式 —— 子系统封装实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159767123)
+
++ [阿里云代理商：OpenClaw 核心功能深度实操 从部署到高效协同](https://blog.csdn.net/TG_yunshuguoji/article/details/159730613)
+
