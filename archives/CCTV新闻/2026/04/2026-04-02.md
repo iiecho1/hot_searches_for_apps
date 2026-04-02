@@ -171,3 +171,5 @@
 
 + [埃及首都开罗一服装厂火灾致9死17伤](https://news.cctv.com/2026/04/02/ARTIz314mjhIcJ3mqtnbtIKJ260402.shtml)
 
++ [特朗普自行宣称对伊朗战事取得“快速、决定性、压倒性胜利”](https://news.cctv.com/2026/04/02/ARTIGHQtc8nd29E0xnYTRHUv260402.shtml)
+
