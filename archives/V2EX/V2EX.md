@@ -37,3 +37,7 @@
 
 + [发现 WinServer(2025)才是最轻量的 Win，胜过 LTSC，很适合虚拟机](https://www.v2ex.com/t/1202967)
 
++ [13pm 现在 18.6.2 有必要更新到 26.4 吗,有经验的兄弟说说](https://www.v2ex.com/t/1202994)
+
++ [感觉 ai agent 时代， windows 越来越不行了](https://www.v2ex.com/t/1203016)
+
