@@ -141,3 +141,9 @@
 
 + [Qdrant:为AI构建的高性能向量搜索引擎](https://blog.csdn.net/fuquxiaoguang/article/details/159688897)
 
++ [基于YOLOv11深度学习的红外无人机检测系统（YOLOv11+YOLO数据集+UI界面+登录注册界面+Python项目源码+模型）](https://blog.csdn.net/m0_68036862/article/details/159729843)
+
++ [Spring Cloud 2025 架构：微服务时代的新范式](https://blog.csdn.net/alex_goden/article/details/159760318)
+
++ [Flutter 隔离区（Isolates）：实现并发编程的最佳实践](https://blog.csdn.net/leopold_man/article/details/159760288)
+

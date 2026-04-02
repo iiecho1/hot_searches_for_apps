@@ -161,3 +161,25 @@
 
 + [西班牙宣布对参与美伊战事的军用飞机关闭领空](https://news.cctv.com/2026/03/30/ARTI4etKA1MLsOCS5SJblUbs260330.shtml)
 
++ [针对以特拉维夫和海法 伊朗展开“真实承诺-4”第91轮行动](https://news.cctv.com/2026/04/03/ARTImvkWw2WXqvNw4iRNuMaY260403.shtml)
+
++ [伊拉克回应美国驻伊使馆安全警告 重申不卷入地区冲突立场](https://news.cctv.com/2026/04/03/ARTILHypZDVbUmsZ5ImTKxsD260403.shtml)
+
++ [伊朗外长：美以军事行动是局势紧张主因 伊朗仍在“防御”](https://news.cctv.com/2026/04/03/ARTIIDnzpeKYHXY8bjPJXbs7260403.shtml)
+
++ [以军称伊朗军方石油部门负责人遭空袭身亡](https://news.cctv.com/2026/04/03/ARTItDo6Dv7zpJaMikeaqdtO260403.shtml)
+
++ [匈牙利总理：欧盟唯一出路是解除对俄能源制裁](https://news.cctv.com/2026/04/03/ARTILg6V6naRi5rVcgh5bAIr260403.shtml)
+
++ [法总理：中东冲突可能在法国引发恐怖主义威胁](https://news.cctv.com/2026/04/03/ARTIYdfawRuyFcmf8xMlp2PY260403.shtml)
+
++ [欧洲议会议员：欧洲必须停止做美帝国主义附庸](https://news.cctv.com/2026/04/03/ARTInQ3k0z3QqtKOZPaXQhbk260403.shtml)
+
++ [乌干达反政府武装袭击刚果（金）一村庄致70人丧生](https://news.cctv.com/2026/04/03/ARTIzibD941MJLhUzwUPiEBw260403.shtml)
+
++ [奥地利拒绝美国使用其领空对伊行动](https://news.cctv.com/2026/04/03/ARTISo3lFWZmMVihpoQivKjX260403.shtml)
+
++ [伊朗称“真实承诺-4”行动第90轮打击进入第三阶段](https://news.cctv.com/2026/04/03/ARTI1qEW12MHYX1qSDiTG77F260403.shtml)
+
++ [阿盟呼吁对以色列“巴勒斯坦人死刑法”展开紧急国际刑事调查](https://news.cctv.com/2026/04/03/ARTImZvYRmxlo8Tx4YDEJsX7260403.shtml)
+
