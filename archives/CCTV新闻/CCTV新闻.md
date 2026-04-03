@@ -201,3 +201,9 @@
 
 + [特朗普政府被曝考虑解职更多高官](https://news.cctv.com/2026/04/03/ARTICC08BGXr19fPk2GDDjHk260403.shtml)
 
++ [伊朗称再次击落美军F-35战斗机](https://news.cctv.com/2026/04/03/ARTIN0awTxCGHS0xcXDzYtKX260403.shtml)
+
++ [知情人士称美将延迟交付日本订购的“战斧”导弹](https://news.cctv.com/2026/04/03/ARTILbsiumN8rtvVypq87Qb8260403.shtml)
+
++ [卡拉季大桥两次遭袭 伊朗媒体列出反击目标](https://news.cctv.com/2026/04/03/ARTIsrvyk8FR6uEyjeUkcAXx260403.shtml)
+

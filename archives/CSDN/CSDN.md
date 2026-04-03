@@ -157,3 +157,49 @@
 
 + [蓝牙学习系列（七）：BLE GATT 数据模型详解](https://blog.csdn.net/qq_52305085/article/details/159724126)
 
++ [PyTorch张量维度操控：transpose与permute深度拆解与实战指南](https://blog.csdn.net/2503_92624912/article/details/159747650)
+
++ [QClaw 上手指南：我用了一周龙虾，感觉自己白用了两年 AI](https://blog.csdn.net/Mrxiao_bo/article/details/159772193)
+
++ [要成为AI的主人，而不是被它所绑架](https://blog.csdn.net/madness1010/article/details/159694891)
+
++ [HTTP应用数据组织、HTML/CSS/JS数据描述及应用层数据处理介绍](https://blog.csdn.net/2401_86112610/article/details/159760238)
+
++ [K8s之StatefulSet控制器](https://blog.csdn.net/liu_chen_yang/article/details/158572277)
+
++ [深度实战：数据仓库缓慢变化维度SCD类型2处理全解析](https://blog.csdn.net/qq_41840843/article/details/159760798)
+
++ [HarmonyOS APP＜玩转React＞开源教程二十七：开源项目模块](https://blog.csdn.net/ldc121xy716/article/details/159656749)
+
++ [DeerFlow 2.0 开源升级：依托 Harness，让 Agent 不再“半途而废“](https://blog.csdn.net/qq_42055933/article/details/159694651)
+
++ [【北大炒股ppt】65页 完整版](https://blog.csdn.net/weixin_46456180/article/details/159771588)
+
++ [【无人机通信】模拟地面控制站与无人机之间的通信数据传输，了解加密算法在实时通信中的性能与安全性表现【含Matlab源码 15279期】](https://blog.csdn.net/weixin_63266434/article/details/159780953)
+
++ [Flutter 框架跨平台鸿蒙开发 - 宝石消除游戏](https://blog.csdn.net/L0ve1t/article/details/159769823)
+
++ [Nginx vs Ribbon：负载均衡的两种核心范式（反向代理 vs 客户端负载）](https://blog.csdn.net/l7_yuqi/article/details/159759948)
+
++ [NAS 部署 TDuck 开源问卷系统：从一键搭建到公网访问全教程](https://blog.csdn.net/baronbool/article/details/159760511)
+
++ [Fast-WAM——训练时保留视频联合训练(虽同时生成但动作token不看视频token)，在推理时则移除显式的未来视频生成，直接在一次前向传播中，从潜在世界表征预测动作](https://blog.csdn.net/v_JULY_v/article/details/159692505)
+
++ [ 基于深度学习YOLOv12的红外无人机检测系统（YOLOv12+YOLO数据集+UI界面+登录注册界面+Python项目源码+模型）](https://blog.csdn.net/m0_68036862/article/details/159729878)
+
++ [MotrixNext深度评测：109.6MB/s极速下载，开源多线程下载工具新选择](https://blog.csdn.net/ahu399/article/details/159697428)
+
++ [Claude Code 源码分析，附下载地址](https://blog.csdn.net/beilingcc/article/details/159699770)
+
++ [将Figma画布接入Codex/CC](https://blog.csdn.net/shebao3333/article/details/159734433)
+
++ [OpenClaw 2026.3.31 版本授权报错/执行被拒问题排查与解决](https://blog.csdn.net/weixin_44683338/article/details/159732851)
+
++ [HarmonyOS 6 自定义人脸识别模型9：基于tflite的人脸识别模型转换](https://blog.csdn.net/sjw890821sjw/article/details/159760633)
+
++ [ROS2机器人少年创客营：Python第三课](https://blog.csdn.net/u010249118/article/details/159770609)
+
++ [无人机核心零部件全解析](https://blog.csdn.net/gl1037645565/article/details/159733505)
+
++ [还在古法编程？免费使用AI编程助手OpenCode 与完全本地化配置](https://blog.csdn.net/dsgdauigfs/article/details/159676774)
+
