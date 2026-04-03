@@ -149,3 +149,11 @@
 
 + [Ospf网络类型：P2P和Broadcast](https://blog.csdn.net/fuhao0748/article/details/159697985)
 
++ [自用超半年的免费 OCR 工具分享：告别付费，本地搭建更安心](https://blog.csdn.net/2301_81152266/article/details/159770649)
+
++ [我用 Nexent 做了个 AI 大厨：基于 Nexent 知识库与 MCP 生态打造智能烹饪顾问实战](https://blog.csdn.net/qq_57761637/article/details/159770342)
+
++ [消息队列4-RabbitMQ的高级特性-TTL机制、死信队列、延迟队列](https://blog.csdn.net/2502_91743997/article/details/159735570)
+
++ [蓝牙学习系列（七）：BLE GATT 数据模型详解](https://blog.csdn.net/qq_52305085/article/details/159724126)
+
