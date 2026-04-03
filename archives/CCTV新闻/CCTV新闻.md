@@ -199,3 +199,5 @@
 
 + [伊朗驻阿根廷临时代办被驱逐 离境前批阿方“站队”美以](https://news.cctv.com/2026/04/04/ARTI7VnM4GJhNwyfzXmxpJ0j260404.shtml)
 
++ [俄军一架苏-30战机坠毁 机组人员弹射逃生](https://news.cctv.com/2026/04/04/ARTIk17eN1gGu2o2QHwioI2a260404.shtml)
+
