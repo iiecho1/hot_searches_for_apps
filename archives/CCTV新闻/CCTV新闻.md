@@ -195,3 +195,9 @@
 
 + [伊朗外长：袭击民用设施不会迫使伊朗人民投降](https://news.cctv.com/2026/04/03/ARTIB8lyJrvFTBJI7UtdxH9r260403.shtml)
 
++ [美媒：美情报部门评估伊朗约半数导弹发射装置完好无损](https://news.cctv.com/2026/04/03/ARTIIRKF2Evmk7x33p30AfKi260403.shtml)
+
++ [中美禁毒执法合作新成果 美方向中方遣返移交一名涉毒逃犯](https://news.cctv.com/2026/04/03/ARTIUagRBZ9TvapHzTCnHIuY260403.shtml)
+
++ [特朗普政府被曝考虑解职更多高官](https://news.cctv.com/2026/04/03/ARTICC08BGXr19fPk2GDDjHk260403.shtml)
+

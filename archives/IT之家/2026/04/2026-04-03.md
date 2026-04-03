@@ -47,3 +47,17 @@
 
 + [雷军透露小米汽车正在做「百色计划」，未来会有更多质感更好、颜色更讨喜的车漆](https://m.ithome.com/html/935485.htm)
 
++ [雷军总结新一代 SU7 拆车直播：全程 3 个半小时，把新一代 SU7 从整车拆到零部件级](https://m.ithome.com/html/935527.htm)
+
++ [苹果第 8 号员工：14 岁入职，一干就是 50 年](https://m.ithome.com/html/935544.htm)
+
++ [小米宣布调整部分在售产品建议零售价，涉及 REDMI K90 Pro Max 及 Turbo 5/Max 机型](https://m.ithome.com/html/935596.htm)
+
++ [“微信支付有优惠”小程序将于 12 月 31 日结束运营，功能整合至“微信支付提现笔笔省”](https://m.ithome.com/html/935512.htm)
+
++ [2026 款小鹏 MONA M03 汽车 37 分钟大定破万，11.98 万-15.18 万元](https://m.ithome.com/html/935518.htm)
+
++ [雷军：新一代小米 SU7 锁单量超 4 万辆](https://m.ithome.com/html/935520.htm)
+
++ [OPPO Find X9 Ultra / X9s Pro 手机首发第二代丹霞色彩还原镜头：色彩采样更精细，实况图也能用](https://m.ithome.com/html/935467.htm)
+
