@@ -53,3 +53,5 @@
 
 + [Gemma 4 可以通过洗车测试](https://www.v2ex.com/t/1203234)
 
++ [昆山花桥 中小公司 12k 求招 Java 方向全栈](https://www.v2ex.com/t/1203301)
+
