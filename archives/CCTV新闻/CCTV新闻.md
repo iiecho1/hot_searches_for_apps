@@ -161,3 +161,5 @@
 
 + [日本首次部署具备“对敌基地攻击能力”远程导弹](https://news.cctv.com/2026/03/31/ARTILbqqCMVPFdX3v3IO2ZvK260331.shtml)
 
++ [白宫提交2027财年预算 国防开支飙升至1.5万亿美元](https://news.cctv.com/2026/04/04/ARTIzCA2EXymJ8uuy4Swaipt260404.shtml)
+

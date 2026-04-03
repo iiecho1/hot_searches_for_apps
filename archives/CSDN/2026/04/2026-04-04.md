@@ -115,3 +115,29 @@
 
 + [ROS2机器人少年创客营：Python第三课](https://blog.csdn.net/u010249118/article/details/159770609)
 
++ [基于 Spring AI + DeepSeek：构建AI Agent 企业级服务与底层原理解析](https://blog.csdn.net/qq_39818325/article/details/159737024)
+
++ [【AI智能体】Skills 智能体驱动开发从使用到项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/159616568)
+
++ [Java 实战：一键获取张雪机车全国门店数量并输出结果](https://blog.csdn.net/yelangkingwuzuhu/article/details/159771602)
+
++ [▲基于DQPSK调制解调+LDPC编译码+扩频解扩通信链路matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/159806290)
+
++ [2026年四月实测UU远程「无线副屏」功能，手机平板秒变第二块屏](https://blog.csdn.net/czx_163/article/details/159805452)
+
++ [微软Agent Framework实战指南：统一Python和.NET的AI开发体验](https://blog.csdn.net/aiauto/article/details/159754956)
+
++ [ElementPlus 与成熟后台框架对比：vue-element-plus-admin、vue-pure-admin等](https://blog.csdn.net/Irene1991/article/details/159756215)
+
++ [量子计算：从理论到实践——全景式指南](https://blog.csdn.net/eidolon_foot/article/details/159322974)
+
++ [docker(1)-环境和基本概念](https://blog.csdn.net/weixin_52423494/article/details/159722503)
+
++ [【大数据存储与管理】分布式数据库HBase：06 HBase编程实践](https://blog.csdn.net/Morse_Chen/article/details/159516172)
+
++ [Linux网络通信(三)----封包拆包抓包、HTTP 协议实战](https://blog.csdn.net/2301_76462666/article/details/159729038)
+
++ [CSS核心知识点与定位实战全解析（结合Playwright爬虫案例）](https://blog.csdn.net/2603_95532426/article/details/159765062)
+
++ [华为HarmonyOS PC突破：一键运行Linux工具](https://blog.csdn.net/jiangjunshow/article/details/159760235)
+
