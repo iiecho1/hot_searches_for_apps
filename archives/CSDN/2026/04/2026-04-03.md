@@ -227,3 +227,9 @@
 
 + [SpringBoot Maven快速上手](https://blog.csdn.net/2401_89552134/article/details/159746800)
 
++ [写入快 2 倍，查询快 6 倍，存储成本反降 50%：丰巢日志平台从 ELK 升级为 Apache Doris](https://blog.csdn.net/SelectDB_Fly/article/details/159798119)
+
++ [【鸿蒙实战】ToolMaster：基于 HarmonyOS NEXT 的纯离线隐私优先开发者工具箱](https://blog.csdn.net/2302_80329073/article/details/159801438)
+
++ [轻量又全能:GodoOS打造内网高效办公新体验](https://blog.csdn.net/2401_87848736/article/details/159794304)
+

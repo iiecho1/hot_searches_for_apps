@@ -9,3 +9,11 @@
 
 + [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
++ [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+
++ [google-research/timesfm](https://github.com/google-research/timesfm)
+
++ [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+
++ [f/prompts.chat](https://github.com/f/prompts.chat)
+
