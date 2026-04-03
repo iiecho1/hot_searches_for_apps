@@ -203,3 +203,11 @@
 
 + [还在古法编程？免费使用AI编程助手OpenCode 与完全本地化配置](https://blog.csdn.net/dsgdauigfs/article/details/159676774)
 
++ [2026 年 Python AI 大模型部署全攻略：本地运行 + API 服务 + Docker 封装](https://blog.csdn.net/2401_86326742/article/details/159791229)
+
++ [kingbase备份与恢复实战（三）—— 表-模式级备份与误删表精准恢复（sys_dump+sys_restore）](https://blog.csdn.net/2302_78391795/article/details/159792957)
+
++ [【MySQL】第十五节—事务隔离级别与 MVCC 机制深度解析](https://blog.csdn.net/lrq13965748542/article/details/159584073)
+
++ [Flutter 框架跨平台鸿蒙开发 - 数学学习助手](https://blog.csdn.net/2501_92062761/article/details/159772524)
+
