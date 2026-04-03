@@ -49,3 +49,13 @@
 
 + [第三方制造商“意外”曝光苹果 iPhone 18 Pro 设计：灵动岛物理打孔摄像头体积缩小 35%](https://m.ithome.com/html/935709.htm)
 
++ [雷军总结新一代 SU7 拆车直播：全程 3 个半小时，把新一代 SU7 从整车拆到零部件级](https://m.ithome.com/html/935527.htm)
+
++ [“微信支付有优惠”小程序将于 12 月 31 日结束运营，功能整合至“微信支付提现笔笔省”](https://m.ithome.com/html/935512.htm)
+
++ [2026 款小鹏 MONA M03 汽车 37 分钟大定破万，11.98 万-15.18 万元](https://m.ithome.com/html/935518.htm)
+
++ [雷军：新一代小米 SU7 锁单量超 4 万辆](https://m.ithome.com/html/935520.htm)
+
++ [OPPO Find X9 Ultra / X9s Pro 手机首发第二代丹霞色彩还原镜头：色彩采样更精细，实况图也能用](https://m.ithome.com/html/935467.htm)
+

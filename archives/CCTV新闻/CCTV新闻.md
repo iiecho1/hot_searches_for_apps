@@ -163,3 +163,23 @@
 
 + [白宫提交2027财年预算 国防开支飙升至1.5万亿美元](https://news.cctv.com/2026/04/04/ARTIzCA2EXymJ8uuy4Swaipt260404.shtml)
 
++ [美伊停火斡旋陷入僵局 伊朗拒绝在伊斯兰堡与美方会面](https://news.cctv.com/2026/04/04/ARTIdOo2hDzUZrXFjnI6Szf2260404.shtml)
+
++ [伊朗发起“真实承诺-4”行动第93波攻势](https://news.cctv.com/2026/04/04/ARTIUtJ33VipV7y2NzSQpIdq260404.shtml)
+
++ [美使馆称黎巴嫩境内的大学或遭袭 敦促美公民撤离](https://news.cctv.com/2026/04/04/ARTIGsHF5NeYKdEAfJabaeV1260404.shtml)
+
++ [一架美国F-16战斗机将在沙特紧急降落](https://news.cctv.com/2026/04/04/ARTIJYDpXuQEbKKBnXwGKtN7260404.shtml)
+
++ [巴西南部一小型飞机坠毁 至少三人死亡](https://news.cctv.com/2026/04/04/ARTImn96TkGqHrEVhPlF2SdW260404.shtml)
+
++ [一名被伊朗击落的美军战机机组人员已获救](https://news.cctv.com/2026/04/04/ARTIJM52nCPsbBw3GECmYUzd260404.shtml)
+
++ [特朗普计划拨款1.52亿美元重启“恶魔岛”监狱](https://news.cctv.com/2026/04/04/ARTIvSJ8PzQTSRI4DlfZamch260404.shtml)
+
++ [联黎部队阵地发生爆炸 三名维和人员受伤](https://news.cctv.com/2026/04/04/ARTIsKTBlb3WRk4Z36TYzwV6260404.shtml)
+
++ [民调：美民众对美以伊战事普遍悲观 超七成反对派遣地面部队](https://news.cctv.com/2026/04/04/ARTISiHHgpjmIwzTaEK6h9CL260404.shtml)
+
++ [伊朗地方官员鼓励民众追捕美军飞行员](https://news.cctv.com/2026/04/04/ARTIxlsnPMcjkX0bl7X4C9Rb260404.shtml)
+
