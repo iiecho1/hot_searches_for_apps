@@ -235,3 +235,11 @@
 
 + [[JAVA探索之路]带你手写多线程实现生产者-消费者模型](https://blog.csdn.net/gdpu2400502251/article/details/159793980)
 
++ [Fast-WAM——训练时保留视频联合训练(虽同时生成但动作token不看视频token)，在推理时则移除显式的未来视频生成，直接在单次前向中，依托得到的潜在世界表征KV Cache预测动作](https://blog.csdn.net/v_JULY_v/article/details/159692505)
+
++ [从判断列表到训练好的 Learning to Rank（ LTR ）模型](https://blog.csdn.net/UbuntuTouch/article/details/159709683)
+
++ [基于 DeepSeek API 的 ASR 文本纠错脚本实战：Python 多线程批量处理 JSONL 语音转写数据](https://blog.csdn.net/2301_79959211/article/details/159763476)
+
++ [关于minio桶文件备份到本地或NAS等其他设备的操作说明(http+https)](https://blog.csdn.net/weixin_42184538/article/details/159472334)
+
