@@ -213,3 +213,17 @@
 
 + [Transformer实战——视觉提示模型](https://blog.csdn.net/LOVEmy134611/article/details/147991767)
 
++ [鸿蒙游戏：从单设备到全场景](https://blog.csdn.net/qq_36863796/article/details/159762272)
+
++ [基于yolov26的荔枝成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/159768825)
+
++ [OpenClaw 请求超时 llm request timed out 怎么解决？3 种方案实测，附完整排查流程](https://blog.csdn.net/ofoxcoding/article/details/159762672)
+
++ [谷歌时隔一年发布“更加开源“的 Gemma 4，意图何为？](https://blog.csdn.net/weixin_41736460/article/details/159780530)
+
++ [10分钟搞定 Nginx 配置：从读懂 nginx.conf 到搭建静态网站](https://blog.csdn.net/y245166349/article/details/159711544)
+
++ [Claude-Code藏了个电子宠物系统-5分钟教你养一只传奇闪光龙](https://blog.csdn.net/gxy03/article/details/159765968)
+
++ [SpringBoot Maven快速上手](https://blog.csdn.net/2401_89552134/article/details/159746800)
+
