@@ -101,3 +101,17 @@
 
 + [关于minio桶文件备份到本地或NAS等其他设备的操作说明(http+https)](https://blog.csdn.net/weixin_42184538/article/details/159472334)
 
++ [Spring AI 实战系列（九）：RAG检索实战 —— 私有知识库](https://blog.csdn.net/2401_87660168/article/details/159794530)
+
++ [组合 OpenTelemetry 参考架构](https://blog.csdn.net/UbuntuTouch/article/details/159799179)
+
++ [深度学习实战-基于VIT+GNN的乳腺超声图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/158735983)
+
++ [ElementPlus 与成熟后台框架对比：vue-element-plus-admin、vue-pure-admin](https://blog.csdn.net/Irene1991/article/details/159756215)
+
++ [轻量又全能:GodoOS打造内网高效办公新体验](https://blog.csdn.net/2401_87848736/article/details/159794304)
+
++ [大疆无人机文件详细解读](https://blog.csdn.net/u011468564/article/details/159044372)
+
++ [ROS2机器人少年创客营：Python第三课](https://blog.csdn.net/u010249118/article/details/159770609)
+

@@ -21,3 +21,5 @@
 
 + [Gemma 4 可以通过洗车测试](https://www.v2ex.com/t/1203234)
 
++ [5k 以内的扫地机器人推荐](https://www.v2ex.com/t/1203255)
+

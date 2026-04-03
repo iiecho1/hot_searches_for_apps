@@ -25,3 +25,27 @@
 
 + [雷军透露小米汽车正在做「百色计划」，未来会有更多质感更好、颜色更讨喜的车漆](https://m.ithome.com/html/935485.htm)
 
++ [小米宣布调整部分在售产品建议零售价，涉及 REDMI K90 Pro Max 及 Turbo 5/Max 机型](https://m.ithome.com/html/935596.htm)
+
++ [苹果第 8 号员工：14 岁入职，一干就是 50 年](https://m.ithome.com/html/935544.htm)
+
++ [小米推出 Xiaomi MiMo Token Plan：提供四档套餐，每月 39 元起](https://m.ithome.com/html/935666.htm)
+
++ [超 2 万人参与小米车主维权援助，首例民事诉讼胜诉获赔 3000 元并道歉](https://m.ithome.com/html/935804.htm)
+
++ [工信部提醒苹果用户：iOS 13 至 17.2.1 存在高危漏洞，请尽快升级](https://m.ithome.com/html/935835.htm)
+
++ [卢伟冰回应小米及 REDMI 部分在售产品调价：内存涨价力度远超预期，相比去年 Q1 飙升近 4 倍](https://m.ithome.com/html/935628.htm)
+
++ [网友反馈苹果 2026 款 16 英寸 MacBook Pro 充电器接口“变脸”，延长线无法插入](https://m.ithome.com/html/935532.htm)
+
++ [美国载人绕月任务宇航员带 iPhone 上太空，零重力抛手机画面曝光](https://m.ithome.com/html/935539.htm)
+
++ [雷军宣布小米大模型达成新里程碑：MiMo 调用量超 1 万亿 Token](https://m.ithome.com/html/935663.htm)
+
++ [2026 年 3 月汽车销量 / 交付榜出炉：上汽集团销售整车 37.6 万辆位居榜首](https://m.ithome.com/html/935529.htm)
+
++ [智己官宣刘翔为品牌代言人，LS8 车型 4 月 16 日正式上市](https://m.ithome.com/html/935844.htm)
+
++ [第三方制造商“意外”曝光苹果 iPhone 18 Pro 设计：灵动岛物理打孔摄像头体积缩小 35%](https://m.ithome.com/html/935709.htm)
+
