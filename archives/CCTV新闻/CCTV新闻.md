@@ -183,3 +183,19 @@
 
 + [伊朗地方官员鼓励民众追捕美军飞行员](https://news.cctv.com/2026/04/04/ARTIxlsnPMcjkX0bl7X4C9Rb260404.shtml)
 
++ [美军两架搜救直升机被伊朗火力击中](https://news.cctv.com/2026/04/04/ARTI3VO2S5pfIrYDfRIXcAzZ260404.shtml)
+
++ [特朗普称美军战机被击落不会影响与伊朗的谈判](https://news.cctv.com/2026/04/04/ARTIWER9DtH2fMzbHHmdqVsV260404.shtml)
+
++ [伊朗军队称击落一架美军A-10攻击机](https://news.cctv.com/2026/04/04/ARTIo1Sevzop5WiBzwOLRo7v260404.shtml)
+
++ [又一架美军战机在波斯湾坠毁 飞行员已获救](https://news.cctv.com/2026/04/04/ARTIUMIJ3HnsUZE2pVnEvQAO260404.shtml)
+
++ [美方曾提议停火48小时 伊朗以战场行动作出“回应”](https://news.cctv.com/2026/04/04/ARTI8NchoqD93Q1zpsZ3mgXS260404.shtml)
+
++ [伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果](https://news.cctv.com/2026/04/04/ARTIK4vkj1whbllZezeR9kTU260404.shtml)
+
++ [巴西南部一小型飞机坠毁 机上4人全部遇难](https://news.cctv.com/2026/04/04/ARTIq9J08lJjzAenKQI94UbR260404.shtml)
+
++ [伊朗驻阿根廷临时代办被驱逐 离境前批阿方“站队”美以](https://news.cctv.com/2026/04/04/ARTI7VnM4GJhNwyfzXmxpJ0j260404.shtml)
+
