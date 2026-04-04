@@ -15,3 +15,11 @@
 
 + [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
++ [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
+
++ [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
+
++ [block/goose](https://github.com/block/goose)
+
++ [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+

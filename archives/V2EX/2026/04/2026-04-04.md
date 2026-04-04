@@ -65,3 +65,7 @@
 
 + [开源的 Vibe Island —— Treland！](https://www.v2ex.com/t/1203426)
 
++ [死活下载不了 youtube 了](https://www.v2ex.com/t/1203509)
+
++ [使用本地模型 Gemma4 来驱动 OpenClaw](https://www.v2ex.com/t/1203472)
+

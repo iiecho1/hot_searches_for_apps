@@ -189,3 +189,17 @@
 
 + [Frontend 与 FPGA 深度融合实战解析：从技术协同到多场景落地（ 前端和现场可编程门阵列 ）](https://blog.csdn.net/weixin_65793170/article/details/159794166)
 
++ [类型驱动:解锁Qt模板的渲染潜能](https://blog.csdn.net/ABWSO/article/details/158378004)
+
++ [数据仓库实战：跨集群分布式查询实现原理 + 优化策略全解](https://blog.csdn.net/qq_41840843/article/details/159824037)
+
++ [【Linux】内网穿透原理](https://blog.csdn.net/m0_66434421/article/details/159772375)
+
++ [网络安全（防火墙）、系统日志管理、文件同步以及IO模型相关知识点](https://blog.csdn.net/wy1225736024/article/details/159798120)
+
++ [隐私保护数字盾牌设计图片素材 满足各类网络安全创作需求](https://blog.csdn.net/2503_93505479/article/details/159802603)
+
++ [用llama试用gemma-4-E2B模型量化版本](https://blog.csdn.net/l1t/article/details/159814871)
+
++ [HBase 2.4.18 分布式集群搭建教程（适配 Hadoop 3.3.4 + ZooKeeper 3.5.6）](https://blog.csdn.net/chunyublog/article/details/159785612)
+
