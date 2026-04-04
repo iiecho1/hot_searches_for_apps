@@ -61,3 +61,17 @@
 
 + [号称安卓首发，高德地图公交地铁导航接入 vivo OriginOS 小 V 建议、原子通知](https://m.ithome.com/html/935636.htm)
 
++ [小米汽车：新一代 SU7 拆车直播拆的是量产车，后续组装完成仅用作内部测试](https://m.ithome.com/html/935902.htm)
+
++ [腾讯《王者荣耀世界》鸿蒙版开放邀测，PC 端已定档 4 月 10 日上线](https://m.ithome.com/html/935873.htm)
+
++ [消息称三星显示器部门面临巨大危机，最坏结果将退出中国大陆市场](https://m.ithome.com/html/935896.htm)
+
++ [博主投诉绿联充电头自燃：客服回应“退款 10 元”或“八折复购”引争议](https://m.ithome.com/html/935736.htm)
+
++ [微软将强制普通用户升级 Win11 25H2，24H2 今年 10 月停止支持](https://m.ithome.com/html/935864.htm)
+
++ [市场监管总局要求美团、京东、淘宝闪购三大外卖平台 6 月 1 日前完成外卖食品安全整改](https://m.ithome.com/html/935868.htm)
+
++ [苹果 2026 款 AirPods Pro 耳机前瞻：内置红外摄像头、支持手势控制、升级 H3 芯片](https://m.ithome.com/html/935925.htm)
+

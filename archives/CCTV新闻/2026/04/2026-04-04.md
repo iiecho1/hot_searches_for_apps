@@ -207,3 +207,7 @@
 
 + [美国白宫计划削减对国际组织支出 投资重开“恶魔岛”监狱](https://news.cctv.com/2026/04/04/ARTIOvhFdHqESJnJjtwyJqCY260404.shtml)
 
++ [以军称空袭德黑兰多处关键基础设施](https://news.cctv.com/2026/04/04/ARTImrcWnnyJwQneqQbUfsra260404.shtml)
+
++ [法国“戴高乐”号航母停靠希腊苏达湾海军基地](https://news.cctv.com/2026/04/04/ARTI9DajNrJVtKSoFch3EFPL260404.shtml)
+
