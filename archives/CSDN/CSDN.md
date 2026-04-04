@@ -101,3 +101,15 @@
 
 + [支持微信4.0的小程序注入调试工具（WMPFDebugger）](https://blog.csdn.net/Soujer/article/details/159800160)
 
++ [软件测试——BUG](https://blog.csdn.net/2401_89019969/article/details/154293531)
+
++ [【Docker】 Docker 全平台部署（Linux / Windows / MacOS）与 前后端分离项目 容器化方案](https://blog.csdn.net/qq_45914609/article/details/159805472)
+
++ [【Minecraft】无法连接至服务器，登录失败：无效会话（请尝试重启游戏及启动器）](https://blog.csdn.net/m0_66434421/article/details/159828147)
+
++ [【大数据存储与管理】分布式数据库HBase：06 HBase编程实践](https://blog.csdn.net/Morse_Chen/article/details/159516172)
+
++ [HBase 2.4.18 分布式集群搭建教程（适配 Hadoop 3.3.4 + ZooKeeper 3.5.6）](https://blog.csdn.net/chunyublog/article/details/159785612)
+
++ [鸿蒙游戏和小程序游戏的本质区别](https://blog.csdn.net/qq_36478920/article/details/159803116)
+

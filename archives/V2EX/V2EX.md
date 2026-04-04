@@ -21,3 +21,7 @@
 
 + [写了一个开源 Hysteria2 Web 面板，类 TailScale，反向上网； iKuai 爱快 最佳搭档————Hy2 Scale](https://www.v2ex.com/t/1203468)
 
++ [是不是折腾输入法的尽头都是回归原生输入法?](https://www.v2ex.com/t/1203545)
+
++ [今天发了一笔意外之财](https://www.v2ex.com/t/1203554)
+
