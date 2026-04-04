@@ -139,3 +139,5 @@
 
 + [组合 OpenTelemetry 参考架构](https://blog.csdn.net/UbuntuTouch/article/details/159799179)
 
++ [Nginx 反向代理与负载均衡：配置详解与高可用方案](https://blog.csdn.net/macowl/article/details/159805287)
+
