@@ -227,3 +227,7 @@
 
 + [我使馆提醒在以中国公民加强安全防范 及时转移避险](https://news.cctv.com/2026/04/04/ARTIw2GfhJiWjUgVx8XDCqAw260404.shtml)
 
++ [美以袭击伊朗石化经济特区已致至少5人受伤](https://news.cctv.com/2026/04/04/ARTIjruFsyA8bqX6lzROaKo1260404.shtml)
+
++ [阿富汗多地强降雨及自然灾害已致61人死亡](https://news.cctv.com/2026/04/04/ARTIRimAvR6EGspSVwyOrW7k260404.shtml)
+

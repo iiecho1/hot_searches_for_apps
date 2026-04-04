@@ -177,3 +177,15 @@
 
 + [Linux：基于TCP Socket的客户端-服务器实现的远程命令行项目](https://blog.csdn.net/2503_91101239/article/details/159761415)
 
++ [Python + AI Agent 智能体：从原理到实战，构建自主决策的 AI 助手](https://blog.csdn.net/2401_85686768/article/details/159801984)
+
++ [【花雕学编程】ESP32 + LLM 深度实践：MimiClaw 部署后，嵌入式AI智能体三级进阶全指南](https://blog.csdn.net/weixin_41659040/article/details/159799354)
+
++ [2026年全国青少年信息素养大赛算法应用主题赛（C++赛项模拟训练3：文末附答案）](https://blog.csdn.net/weixin_66461496/article/details/159822116)
+
++ [网络安全概念及规范_2](https://blog.csdn.net/qq_38200548/article/details/159770677)
+
++ [【苍穹外卖实战总结--五万字全面讲解，适合复盘】已燃尽TAT](https://blog.csdn.net/chen_si_shang_/article/details/159735712)
+
++ [Frontend 与 FPGA 深度融合实战解析：从技术协同到多场景落地（ 前端和现场可编程门阵列 ）](https://blog.csdn.net/weixin_65793170/article/details/159794166)
+
