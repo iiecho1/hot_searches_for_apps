@@ -71,3 +71,7 @@
 
 + [现在 session 是主流还是 jwt + refresh token 是主流？](https://www.v2ex.com/t/1203511)
 
++ [GPT Plus 怎么收费？研究完付款方式后我的结论是别自己折腾](https://www.v2ex.com/t/1203479)
+
++ [facebook 账号太容易被封](https://www.v2ex.com/t/1203484)
+

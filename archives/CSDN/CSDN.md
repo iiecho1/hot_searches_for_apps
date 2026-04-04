@@ -215,3 +215,11 @@
 
 + [2026年全国青少年信息素养大赛算法应用主题赛（C++赛项模拟训练4：文末附答案）](https://blog.csdn.net/weixin_66461496/article/details/159823816)
 
++ [【花雕学编程】行空板K10部署迷你小龙虾MimiClaw，实际测试嵌入式 AI Agent 命令全集（一）](https://blog.csdn.net/weixin_41659040/article/details/159825435)
+
++ [用 AI 做鸿蒙游戏 NPC，是一种什么体验？](https://blog.csdn.net/qq_36863796/article/details/159802365)
+
++ [【Docker】 Docker 全平台部署（Linux / Windows / MacOS）与 前后端分离项目 容器化方案](https://blog.csdn.net/qq_45914609/article/details/159805472)
+
++ [鸿蒙游戏和小程序游戏的本质区别](https://blog.csdn.net/qq_36478920/article/details/159803116)
+
