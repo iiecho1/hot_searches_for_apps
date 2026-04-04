@@ -217,3 +217,13 @@
 
 + [伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为](https://news.cctv.com/2026/04/04/ARTIRW14v2R6AuAbYHdOTtTQ260404.shtml)
 
++ [土交通部长称又一艘土耳其船只通过霍尔木兹海峡](https://news.cctv.com/2026/04/04/ARTIeat1kqXyVOTqvlJq7zBN260404.shtml)
+
++ [伊朗警告以色列：若伊使馆和外交机构遭袭 将迅速反击](https://news.cctv.com/2026/04/04/ARTIQWQAVLIg2038DvOXtRPC260404.shtml)
+
++ [美以对伊朗西南地区石化枢纽发动空袭](https://news.cctv.com/2026/04/04/ARTIMj03BsK3NpU5cw2L7pkA260404.shtml)
+
++ [法国海关从盆栽土中查获约1.1吨可卡因](https://news.cctv.com/2026/04/04/ARTIEZFmB3nK0XTYSjI17UKT260404.shtml)
+
++ [我使馆提醒在以中国公民加强安全防范 及时转移避险](https://news.cctv.com/2026/04/04/ARTIw2GfhJiWjUgVx8XDCqAw260404.shtml)
+

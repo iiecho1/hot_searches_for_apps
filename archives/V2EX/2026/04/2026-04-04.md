@@ -55,3 +55,5 @@
 
 + [Claude Code 又送了 $100 的 extra balance](https://www.v2ex.com/t/1203503)
 
++ [有点好奇，翻墙节点一般都是香港日本新加坡，为什么很少走韩国呢？](https://www.v2ex.com/t/1203483)
+
