@@ -69,3 +69,5 @@
 
 + [使用本地模型 Gemma4 来驱动 OpenClaw](https://www.v2ex.com/t/1203472)
 
++ [现在 session 是主流还是 jwt + refresh token 是主流？](https://www.v2ex.com/t/1203511)
+

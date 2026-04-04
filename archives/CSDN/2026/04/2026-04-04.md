@@ -203,3 +203,15 @@
 
 + [HBase 2.4.18 分布式集群搭建教程（适配 Hadoop 3.3.4 + ZooKeeper 3.5.6）](https://blog.csdn.net/chunyublog/article/details/159785612)
 
++ [登堂入室——深度学习的工程化实践与调优](https://blog.csdn.net/htw250056/article/details/159829756)
+
++ [ReAct Agent 与 Agent 编排：从单 Agent 闭环到多 Agent 协作（纯享版）](https://blog.csdn.net/2302_80067378/article/details/159829226)
+
++ [【HarmonyOS 6.0】ArkUI Swiper 组件：深入掌握滑动状态变化事件回调](https://blog.csdn.net/weixin_74809706/article/details/159691034)
+
++ [机器人导论-通过逆矩阵公式证明齐次变换矩阵的逆](https://blog.csdn.net/2301_80966902/article/details/159795149)
+
++ [主流大模型介绍(GPT、Llama、ChatGLM、Qwen、deepseek)](https://blog.csdn.net/2301_76243776/article/details/159806311)
+
++ [2026年全国青少年信息素养大赛算法应用主题赛（C++赛项模拟训练4：文末附答案）](https://blog.csdn.net/weixin_66461496/article/details/159823816)
+

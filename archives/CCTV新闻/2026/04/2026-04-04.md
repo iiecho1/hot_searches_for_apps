@@ -237,3 +237,9 @@
 
 + [乌称第聂伯罗彼得罗夫斯克州一市场遭袭 多人死伤](https://news.cctv.com/2026/04/04/ARTIPJocTkNJB5qaCYjW5cMb260404.shtml)
 
++ [伊朗伊斯兰革命卫队：击中霍尔木兹海峡一艘以相关船只](https://news.cctv.com/2026/04/04/ARTIEgq90uGicNFqrhvFwWm7260404.shtml)
+
++ [伊朗已有超30所大学遭直接攻击](https://news.cctv.com/2026/04/04/ARTILTHCmBHqEcSjgMVognXs260404.shtml)
+
++ [伊朗核电站附近再遭袭 国际原子能机构呼吁严防核事故](https://news.cctv.com/2026/04/04/ARTIZJJocQ3v9lQ8SOuIIa05260404.shtml)
+
