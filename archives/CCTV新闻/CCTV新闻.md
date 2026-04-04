@@ -161,3 +161,13 @@
 
 + [特朗普称对伊朗战事核心战略目标“接近完成”](https://news.cctv.com/2026/04/02/ARTIVo2uGEosRxYe8Z0Qpq3D260402.shtml)
 
++ [乌克兰称美总统特使或于月中到访](https://news.cctv.com/2026/04/05/ARTIw19DLy3E6O3N3Mn4zba2260405.shtml)
+
++ [伊朗军方拒绝特朗普“48小时”通牒](https://news.cctv.com/2026/04/05/ARTIYGXfY9VF4vVFqoVMQo4e260405.shtml)
+
++ [美国波士顿发生袭警事件 数名警员受伤](https://news.cctv.com/2026/04/05/ARTIInekPblIa1SG41bUlpNG260405.shtml)
+
++ [尼日利亚发生大规模绑架事件 超150人被绑架](https://news.cctv.com/2026/04/05/ARTIyqMhceMzTQzUcqHmHyYg260405.shtml)
+
++ [以官员称伊朗仍有超千枚可打击以色列的弹道导弹](https://news.cctv.com/2026/04/05/ARTIDZEreJjvObQF9SLIIwCa260405.shtml)
+
