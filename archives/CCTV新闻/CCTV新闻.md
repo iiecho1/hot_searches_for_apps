@@ -201,3 +201,7 @@
 
 + [俄军一架苏-30战机坠毁 机组人员弹射逃生](https://news.cctv.com/2026/04/04/ARTIk17eN1gGu2o2QHwioI2a260404.shtml)
 
++ [机票调价、取消航班……全球多家航司紧急应对燃油涨价](https://news.cctv.com/2026/04/04/ARTIEJFAYh7ipYFwC88kylJh260404.shtml)
+
++ [秘鲁首都一体育场墙体倒塌 至少60人受伤](https://news.cctv.com/2026/04/04/ARTIjGZABrOAeZCn9jKq0B72260404.shtml)
+
