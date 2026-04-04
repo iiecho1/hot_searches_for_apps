@@ -23,3 +23,9 @@
 
 + [5k 以内的扫地机器人推荐](https://www.v2ex.com/t/1203255)
 
++ [看到我的同事一天到晚还在手写代码我就想笑](https://www.v2ex.com/t/1203377)
+
++ [1w 人电报群搞 AI 中转站分销，感叹真魔幻](https://www.v2ex.com/t/1203279)
+
++ [小米 MiMo token plan 四挡套餐正式上线 贵还是便宜](https://www.v2ex.com/t/1203353)
+

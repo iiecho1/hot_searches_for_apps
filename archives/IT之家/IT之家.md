@@ -59,3 +59,5 @@
 
 + [OPPO Find X9 Ultra / X9s Pro 手机首发第二代丹霞色彩还原镜头：色彩采样更精细，实况图也能用](https://m.ithome.com/html/935467.htm)
 
++ [号称安卓首发，高德地图公交地铁导航接入 vivo OriginOS 小 V 建议、原子通知](https://m.ithome.com/html/935636.htm)
+
