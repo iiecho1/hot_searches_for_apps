@@ -53,3 +53,5 @@
 
 + [从 Antigravity 转 Claude Code 几天的心得](https://www.v2ex.com/t/1203411)
 
++ [Claude Code 又送了 $100 的 extra balance](https://www.v2ex.com/t/1203503)
+

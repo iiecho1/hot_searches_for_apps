@@ -211,3 +211,9 @@
 
 + [法国“戴高乐”号航母停靠希腊苏达湾海军基地](https://news.cctv.com/2026/04/04/ARTI9DajNrJVtKSoFch3EFPL260404.shtml)
 
++ [伊朗军方：已做好伏击敌方先进战斗机的准备](https://news.cctv.com/2026/04/04/ARTIdB2Ds9bOiYaT4WyDhYRD260404.shtml)
+
++ [伊朗称击落一架敌方MQ-1无人机](https://news.cctv.com/2026/04/04/ARTI4SoeSR735RkkbAi6McLD260404.shtml)
+
++ [伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为](https://news.cctv.com/2026/04/04/ARTIRW14v2R6AuAbYHdOTtTQ260404.shtml)
+
