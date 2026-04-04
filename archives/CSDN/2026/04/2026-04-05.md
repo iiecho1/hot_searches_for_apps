@@ -113,3 +113,27 @@
 
 + [鸿蒙游戏和小程序游戏的本质区别](https://blog.csdn.net/qq_36478920/article/details/159803116)
 
++ [类型驱动:解锁Qt模板的渲染潜能](https://blog.csdn.net/ABWSO/article/details/158378004)
+
++ [【MySQL】第十五节—事务隔离级别与 MVCC 机制深度解析](https://blog.csdn.net/lrq13965748542/article/details/159584073)
+
++ [内蕴时空正则化纲领：一个统一几何、拓扑、规范场与计算的N-S方程新范式（世毫九实验室原创理论）](https://blog.csdn.net/weixin_50059478/article/details/159809759)
+
++ [【LE Audio】解码ASCS核心缩写，打通 ASCS 控制任督二脉](https://blog.csdn.net/weixin_37800531/article/details/159698583)
+
++ [从零构建 Mini-vLLM：KV-Cache、动态批处理与分布式推理全流程](https://blog.csdn.net/m0_46510245/article/details/159834308)
+
++ [【无人机三维路径规划】蚁群算法ACA、Astar和遗传GA算法无人机山地路径规划【含Matlab源码 15285期】](https://blog.csdn.net/weixin_63266434/article/details/159814548)
+
++ [【无人机三维路径规划】基于matlab蚁群算法ACA、Astar和遗传GA算法无人机山地路径规划【含Matlab源码 15285期】](https://blog.csdn.net/TIQCmatlab/article/details/159814504)
+
++ [杰理JL701N蓝牙音频SOC开发框架详解｜从SDK架构到实战开发全流程](https://blog.csdn.net/RFCEO/article/details/159797887)
+
++ [基于MP-GWO灰狼优化算法的多智能体无人机航迹路径规划、协同无人机研究（Matlab代码实现）](https://blog.csdn.net/2201_75454341/article/details/159808370)
+
++ [Ralph Loop：Claude Code 自主迭代机制的深度解析](https://blog.csdn.net/lovely_yoshino/article/details/157209475)
+
++ [华为云码道与CodeArts流水线的Agentic DevOps最佳实践](https://blog.csdn.net/devcloud/article/details/159797079)
+
++ [NAS 部署 TDuck 开源问卷系统：从一键搭建到公网访问全教程](https://blog.csdn.net/baronbool/article/details/159760511)
+

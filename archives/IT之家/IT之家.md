@@ -27,3 +27,27 @@
 
 + [2026 年 3 月汽车销量 / 交付榜出炉：上汽集团销售整车 37.6 万辆位居榜首](https://m.ithome.com/html/935529.htm)
 
++ [中国首款 WSBK 冠军摩托车：张雪 820RR 正式量产下线，4.38 万元起](https://m.ithome.com/html/936011.htm)
+
++ [何小鹏：不碰 10 万以下汽车，有规模但价值太小](https://m.ithome.com/html/936040.htm)
+
++ [Claude 卸磨杀虾！开发者一夜工作流全断，OpenAI 躺赚用户](https://m.ithome.com/html/935972.htm)
+
++ [苹果 2026 款 AirPods Pro 耳机前瞻：内置红外摄像头、支持手势控制、升级 H3 芯片](https://m.ithome.com/html/935925.htm)
+
++ [「同事.Skill」冲上热搜，离职同事已被炼化](https://m.ithome.com/html/936010.htm)
+
++ [传说中的武器：我国造出最新一代电磁枪，无后坐力、无弹壳、单手持握可连续发射](https://m.ithome.com/html/936003.htm)
+
++ [OPPO Pad mini 平板爆料：8.8 英寸 144Hz、骁龙 8 Gen5、8000mAh、支持 eSIM](https://m.ithome.com/html/935961.htm)
+
++ [（更新：已恢复）抖音网页版突发网络崩溃，用户访问受阻](https://m.ithome.com/html/936042.htm)
+
++ [涨幅 45 倍：H.264 流媒体许可年费飙升至 450 万美元](https://m.ithome.com/html/935943.htm)
+
++ [99 元小米蓝牙遥控器 2 Pro 发售：兼容小米和 REDMI 智能电视 / 盒子，支持手机 NFC 一触即投](https://m.ithome.com/html/935995.htm)
+
++ [苹果 2026 款 Apple TV 前瞻：A17 Pro 芯片、升级 Siri，支持 Wi-Fi 7](https://m.ithome.com/html/935921.htm)
+
++ [苹果发布 iOS / iPadOS / macOS 26.5 首个公测版](https://m.ithome.com/html/935923.htm)
+
