@@ -205,3 +205,5 @@
 
 + [秘鲁首都一体育场墙体倒塌 至少60人受伤](https://news.cctv.com/2026/04/04/ARTIjGZABrOAeZCn9jKq0B72260404.shtml)
 
++ [美国白宫计划削减对国际组织支出 投资重开“恶魔岛”监狱](https://news.cctv.com/2026/04/04/ARTIOvhFdHqESJnJjtwyJqCY260404.shtml)
+
