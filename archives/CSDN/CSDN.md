@@ -223,3 +223,15 @@
 
 + [鸿蒙游戏和小程序游戏的本质区别](https://blog.csdn.net/qq_36478920/article/details/159803116)
 
++ [C#智能交通：1秒响应红绿灯，3大系统揭秘，为何它比Python快5倍？](https://blog.csdn.net/z_344791576/article/details/151900586)
+
++ [【花雕学编程】跨平台移植实战：在行空板K10上部署MimiClaw并与飞书深度整合](https://blog.csdn.net/weixin_41659040/article/details/159829044)
+
++ [HarmonyOS 5.0物联网开发实战：基于星闪（NearLink）技术的智能家居边缘计算网关](https://blog.csdn.net/u014727709/article/details/159805323)
+
++ [Spring AI 工具调用（ToolCalling）完整使用教程](https://blog.csdn.net/to_mountain/article/details/159829841)
+
++ [.NET真的被上海信创排除在外？](https://blog.csdn.net/xbhp1984/article/details/159793947)
+
++ [【西瓜带你学设计模式 | 第十一期 - 模板方法模式】模板方法模式 —— 流程骨架与钩子实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159795978)
+
