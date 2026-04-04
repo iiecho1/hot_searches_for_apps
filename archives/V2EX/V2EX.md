@@ -61,3 +61,7 @@
 
 + [现在各个厂家的 coding plan 是不是都抢不到了..](https://www.v2ex.com/t/1203486)
 
++ [Gemma 4 31B 大概什么水平，本地部署是不是又成为现实了](https://www.v2ex.com/t/1203450)
+
++ [开源的 Vibe Island —— Treland！](https://www.v2ex.com/t/1203426)
+

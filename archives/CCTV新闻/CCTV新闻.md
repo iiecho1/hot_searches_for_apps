@@ -231,3 +231,9 @@
 
 + [阿富汗多地强降雨及自然灾害已致61人死亡](https://news.cctv.com/2026/04/04/ARTIRimAvR6EGspSVwyOrW7k260404.shtml)
 
++ [针对德国中餐从业人员盗抢等恶性案件频发，中领馆提醒](https://news.cctv.com/2026/04/04/ARTI5kUVgyRaB1RX46qHQhJG260404.shtml)
+
++ [伊朗发起“真实承诺-4”行动第94波攻势](https://news.cctv.com/2026/04/04/ARTIjtCqtSgxQNU3Jhy6NULj260404.shtml)
+
++ [乌称第聂伯罗彼得罗夫斯克州一市场遭袭 多人死伤](https://news.cctv.com/2026/04/04/ARTIPJocTkNJB5qaCYjW5cMb260404.shtml)
+
