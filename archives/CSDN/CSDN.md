@@ -137,3 +137,5 @@
 
 + [NAS 部署 TDuck 开源问卷系统：从一键搭建到公网访问全教程](https://blog.csdn.net/baronbool/article/details/159760511)
 
++ [组合 OpenTelemetry 参考架构](https://blog.csdn.net/UbuntuTouch/article/details/159799179)
+
