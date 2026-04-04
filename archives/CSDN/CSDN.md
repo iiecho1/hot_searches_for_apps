@@ -141,3 +141,7 @@
 
 + [Nginx 反向代理与负载均衡：配置详解与高可用方案](https://blog.csdn.net/macowl/article/details/159805287)
 
++ [数据挖掘核心：分类任务详解与经典算法全攻略（原理+流程图+代码+场景）](https://blog.csdn.net/qq_41840843/article/details/159824500)
+
++ [消息队列5-RabbitMQ的高级特性和MQ的应用问题与解决方案-事务、消息分发的应用、幂等性保证、顺序性保证、消息积压的解决](https://blog.csdn.net/2502_91743997/article/details/159803165)
+
