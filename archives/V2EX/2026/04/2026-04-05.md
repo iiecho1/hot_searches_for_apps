@@ -63,3 +63,5 @@
 
 + [程序员们， AI 出现后你们觉的自己变得更强还是要被淘汰了？](https://www.v2ex.com/t/1203662)
 
++ [没有苹果电脑， vibe codding 是不是用 Linux 更合适一些？](https://www.v2ex.com/t/1203702)
+

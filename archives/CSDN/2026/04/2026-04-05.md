@@ -205,3 +205,9 @@
 
 + [GitHub 多账号生存指南：从 SSH 连接到 GPG 签名全流程](https://blog.csdn.net/m0_65555692/article/details/159833639)
 
++ [【花雕学编程】行空板 K10 部署 MimiClaw 之三步配置搜索 API 密钥，让 AI Agent 联网冲浪](https://blog.csdn.net/weixin_41659040/article/details/159855031)
+
++ [同步/异步日志系统：日志的工程意义及其实现思想](https://blog.csdn.net/2401_89119815/article/details/159690046)
+
++ [【架构实战】分布式ID生成方案（雪花/Leaf/美团）](https://blog.csdn.net/heimeiyingwang/article/details/159815110)
+
