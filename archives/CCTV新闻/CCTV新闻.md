@@ -195,3 +195,7 @@
 
 + [伊朗伊斯兰革命卫队称发动“真实承诺-4”第96波攻势](https://news.cctv.com/2026/04/05/ARTIt8x9PZo1gypUBVa8HOJL260405.shtml)
 
++ [非盟欢迎中巴关于恢复海湾和中东地区和平稳定的倡议](https://news.cctv.com/2026/04/05/ARTIG30IDh9N6mpjqlTEcKNK260405.shtml)
+
++ [特朗普再次威胁伊朗打开霍尔木兹海峡](https://news.cctv.com/2026/04/05/ARTIe1auMxzZnxWqT3hlUBUP260405.shtml)
+

@@ -199,3 +199,9 @@
 
 + [GitHub 热榜项目 - 日榜(2026-04-04)](https://blog.csdn.net/u014390502/article/details/159826567)
 
++ [【机器人】ROS2 功能包创建与 CMake 编译链路探秘](https://blog.csdn.net/m0_75192474/article/details/159856827)
+
++ [Prompt 工程实战总结：文本分类、信息抽取、语义匹配](https://blog.csdn.net/2301_76243776/article/details/159833643)
+
++ [GitHub 多账号生存指南：从 SSH 连接到 GPG 签名全流程](https://blog.csdn.net/m0_65555692/article/details/159833639)
+

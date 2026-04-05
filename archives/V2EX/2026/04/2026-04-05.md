@@ -61,3 +61,5 @@
 
 + [Cardinal: 最快最准的 macOS 文件搜索工具（开源）](https://www.v2ex.com/t/1203591)
 
++ [程序员们， AI 出现后你们觉的自己变得更强还是要被淘汰了？](https://www.v2ex.com/t/1203662)
+
