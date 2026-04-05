@@ -151,3 +151,7 @@
 
 + [嵌入式视觉落地：从 DeepPCB 数据处理到 YOLOv8 轻量化模型开发实战（mAP 98.5%）](https://blog.csdn.net/pp030577/article/details/159866885)
 
++ [【西瓜带你学设计模式 | 第十三期 - 组合模式】组合模式 —— 树形结构统一处理实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159857844)
+
++ [支持微信4.0的小程序注入调试工具（WMPFDebugger）](https://blog.csdn.net/Soujer/article/details/159800160)
+

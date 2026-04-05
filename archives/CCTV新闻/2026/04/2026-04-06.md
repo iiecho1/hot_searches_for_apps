@@ -163,3 +163,11 @@
 
 + [过去24小时15艘船只获准通过霍尔木兹海峡](https://news.cctv.com/2026/04/06/ARTIyr2eifd5oZLXGdB6yiXX260406.shtml)
 
++ [8个产油国决定自5月起将原油日产量上调20.6万桶](https://news.cctv.com/2026/04/06/ARTIkPLIQQEzKL5TAgIQOWzv260406.shtml)
+
++ [特朗普：与伊朗协议有望在7日最后期限前达成](https://news.cctv.com/2026/04/06/ARTICenAZeXvF2tZ5WsMOvU5260406.shtml)
+
++ [伊朗军方过去两天击落美军12架战机](https://news.cctv.com/2026/04/06/ARTIPJax1MOyzqHmOHpDhLLU260406.shtml)
+
++ [日本福岛第二核电站1号机组燃料池冷却系统停止运行](https://news.cctv.com/2026/04/06/ARTIJ6WTVqODcFXAsFwd9MsZ260406.shtml)
+
