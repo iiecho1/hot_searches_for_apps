@@ -193,3 +193,9 @@
 
 + [C# 中的 Span 和内存：.NET 中的高性能内存处理](https://blog.csdn.net/QfC92C02p/article/details/159826036)
 
++ [【C++ 进阶】Cyber穿透静态代码的幻影协议——【虚函数】](https://blog.csdn.net/fengtinghuqu520/article/details/150899286)
+
++ [新一代智能运维（AIOPS）：革新架构与技术实现路径](https://blog.csdn.net/qq_41035650/article/details/159832997)
+
++ [GitHub 热榜项目 - 日榜(2026-04-04)](https://blog.csdn.net/u014390502/article/details/159826567)
+

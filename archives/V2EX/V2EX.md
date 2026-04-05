@@ -59,3 +59,5 @@
 
 + [公司可以报销一半 ai 使用费用了 有啥推荐吗？](https://www.v2ex.com/t/1203674)
 
++ [Cardinal: 最快最准的 macOS 文件搜索工具（开源）](https://www.v2ex.com/t/1203591)
+

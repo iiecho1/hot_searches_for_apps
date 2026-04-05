@@ -193,3 +193,5 @@
 
 + [以军称打击黎南部2000多个目标以支持地面行动](https://news.cctv.com/2026/04/05/ARTIO0nUEl7ziSod1CyhlLIt260405.shtml)
 
++ [伊朗伊斯兰革命卫队称发动“真实承诺-4”第96波攻势](https://news.cctv.com/2026/04/05/ARTIt8x9PZo1gypUBVa8HOJL260405.shtml)
+
