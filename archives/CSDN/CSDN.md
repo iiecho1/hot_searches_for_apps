@@ -101,3 +101,15 @@
 
 + [Prompt 工程实战总结：文本分类、信息抽取、语义匹配](https://blog.csdn.net/2301_76243776/article/details/159833643)
 
++ [嵌入式 AI 助手的三层意图识别架构：如何在“快、准、稳“之间取得平衡](https://blog.csdn.net/2301_81253185/article/details/159858135)
+
++ [04 月 05 日 AI 每日参考：谷歌 Gemma 4 开源 国产 AI 算力生态强势崛起](https://blog.csdn.net/GODYAD/article/details/159845644)
+
++ [软件测试——BUG](https://blog.csdn.net/2401_89019969/article/details/154293531)
+
++ [鸿蒙应用拼图游戏开发实战：从凹凸碎片生成到精确点击检测](https://blog.csdn.net/weixin_35045177/article/details/159856372)
+
++ [【HarmonyOS 6.0】ArkUI Scroll组件新特性：手势缩放能力全解析](https://blog.csdn.net/weixin_74809706/article/details/159690495)
+
++ [Kthena + vLLM-Ascend：云原生大模型推理的编排与调度实践](https://blog.csdn.net/devcloud/article/details/159799037)
+
