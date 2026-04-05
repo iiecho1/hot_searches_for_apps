@@ -145,3 +145,13 @@
 
 + [消息队列5-RabbitMQ的高级特性和MQ的应用问题与解决方案-事务、消息分发的应用、幂等性保证、顺序性保证、消息积压的解决](https://blog.csdn.net/2502_91743997/article/details/159803165)
 
++ [C#智能交通：1秒响应红绿灯，3大系统揭秘，为何它比Python快5倍？](https://blog.csdn.net/z_344791576/article/details/151900586)
+
++ [claw-code 源码分析：Transcript / Session Store——智能体「运行史」数据结构怎样才算可运维？](https://blog.csdn.net/cui_yonghua/article/details/159834924)
+
++ [本地AI聊天、交互助手（写给小白的LLM工具选型系列：第三篇）](https://blog.csdn.net/PolarisRisingWar/article/details/159830976)
+
++ [深度学习实战-基于VIT+GNN的乳腺超声图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/158735983)
+
++ [液压连接件技术问答知识库：SAE法兰 · 卡套接头 · 316L材质 · 船级社认证 | 工程师速查手册](https://blog.csdn.net/Scott9999HH/article/details/159802683)
+
