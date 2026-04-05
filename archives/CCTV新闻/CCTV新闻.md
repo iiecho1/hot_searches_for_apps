@@ -179,3 +179,7 @@
 
 + [北美观察丨特朗普再发48小时警告 一边想收尾一边制造不确定性](https://news.cctv.com/2026/04/05/ARTI5bfFGHeBJ5B3sdXBTMzl260405.shtml)
 
++ [特朗普称被击落战机的第二名飞行员已获救](https://news.cctv.com/2026/04/05/ARTIxfChgfoafMEhgqdf3SzO260405.shtml)
+
++ [伊朗称击落一架美军搜救飞机](https://news.cctv.com/2026/04/05/ARTITqKPgG9ZhXCmvX3SHyDt260405.shtml)
+

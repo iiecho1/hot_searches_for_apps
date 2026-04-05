@@ -63,3 +63,13 @@
 
 + [市场监管总局要求美团、京东、淘宝闪购三大外卖平台 6 月 1 日前完成外卖食品安全整改](https://m.ithome.com/html/935868.htm)
 
++ [苹果手机首获 NASA 太空通行证：iPhone 17 Pro Max 随宇航员探月，但禁联网禁蓝牙](https://m.ithome.com/html/936063.htm)
+
++ [大疆 Osmo Pocket 4 全能套装包装曝光：1 英寸传感器、107GB 内置存储](https://m.ithome.com/html/936068.htm)
+
++ [一汽奥迪 A6L e-tron 车型 4 月 10 日正式上市：搭载华为乾崑智驾，预售 31.3 万元起](https://m.ithome.com/html/936059.htm)
+
++ [2026 款联想 ThinkPad X1 Carbon、X14 整装待发，预售权益包率先上架](https://m.ithome.com/html/936050.htm)
+
++ [凯迪拉克 XT5 全新车色“东漓灰”上市，限时选配价 5000 元](https://m.ithome.com/html/936053.htm)
+

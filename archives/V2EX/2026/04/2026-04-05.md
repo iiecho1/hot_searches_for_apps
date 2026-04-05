@@ -37,3 +37,11 @@
 
 + [上海联通 9929 必须接内网？](https://www.v2ex.com/t/1203547)
 
++ [谨慎购入 Thinkbook 14+笔记本，过保后主板故障](https://www.v2ex.com/t/1203549)
+
++ [Claude 限制在小龙虾上使用了，有什么比较稳定的途径可以解决？](https://www.v2ex.com/t/1203556)
+
++ [新入职了一家公司，犹豫要不要跑路](https://www.v2ex.com/t/1203611)
+
++ [5g 手机连接 5g 路由器 速率只显示 2401mbps](https://www.v2ex.com/t/1203514)
+
