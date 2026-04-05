@@ -17,3 +17,13 @@
 
 + [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
++ [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
+
++ [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+
++ [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+
++ [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+
++ [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+

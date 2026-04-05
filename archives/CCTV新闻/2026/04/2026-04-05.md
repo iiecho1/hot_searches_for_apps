@@ -191,3 +191,5 @@
 
 + [巴基斯坦西北部强降雨已造成至少45人死亡](https://news.cctv.com/2026/04/05/ARTIPiyccqJ90bLVC2hdkhuk260405.shtml)
 
++ [以军称打击黎南部2000多个目标以支持地面行动](https://news.cctv.com/2026/04/05/ARTIO0nUEl7ziSod1CyhlLIt260405.shtml)
+
