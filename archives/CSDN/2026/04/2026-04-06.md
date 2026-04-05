@@ -147,3 +147,7 @@
 
 + [虚幻引擎地形生成秘籍生成UE5无缝地形高度图（菲利普斯频谱+ 快速傅里叶变换）](https://blog.csdn.net/zhygdhvgv/article/details/159862678)
 
++ [数据挖掘基石：数据预处理全解析（定义+步骤+流程图+代码+实战）](https://blog.csdn.net/qq_41840843/article/details/159824557)
+
++ [嵌入式视觉落地：从 DeepPCB 数据处理到 YOLOv8 轻量化模型开发实战（mAP 98.5%）](https://blog.csdn.net/pp030577/article/details/159866885)
+
