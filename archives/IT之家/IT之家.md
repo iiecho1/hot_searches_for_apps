@@ -73,3 +73,13 @@
 
 + [凯迪拉克 XT5 全新车色“东漓灰”上市，限时选配价 5000 元](https://m.ithome.com/html/936053.htm)
 
++ [三星官宣：短信应用 Samsung Messages 将于 2026 年 7 月停用](https://m.ithome.com/html/936087.htm)
+
++ [滴滴出行开放打车 Skill，“龙虾”叫车全程不需要切换 App](https://m.ithome.com/html/936024.htm)
+
++ [特斯拉严打 FSD“越狱”，用户将承担事故全责并失去保修](https://m.ithome.com/html/936095.htm)
+
++ [天钡 MACO 255 迷你主机发售：双 2.5G 网口，24GB 内存无硬盘版本 2899 元](https://m.ithome.com/html/936034.htm)
+
++ [微软 Win11 新版 Copilot 内置完整 Edge 浏览器，内存占用飙升](https://m.ithome.com/html/936075.htm)
+
