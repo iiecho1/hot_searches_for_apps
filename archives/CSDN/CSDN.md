@@ -113,3 +113,29 @@
 
 + [Kthena + vLLM-Ascend：云原生大模型推理的编排与调度实践](https://blog.csdn.net/devcloud/article/details/159799037)
 
++ [深度学习实战-基于VIT+GNN的乳腺超声图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/158735983)
+
++ [OpenClaw 源码解读：从「只会聊天」到「真正干活」的 AI 框架是怎么炼成的](https://blog.csdn.net/qq_32682301/article/details/159865477)
+
++ [通信之道：解锁Linux进程间通信的无限可能(一)](https://blog.csdn.net/ABWSO/article/details/159054215)
+
++ [华科/浙大团队Science子刊：光计算抛弃模拟乘法，用逻辑门跑神经网络](https://blog.csdn.net/2401_89459558/article/details/159790814)
+
++ [Gemma 4 C# 部署教程：手机/边缘设备离线运行](https://blog.csdn.net/jiangjunshow/article/details/159833804)
+
++ [Android16进阶之MediaRecorder.setAudioSamplingRate调用流程与实战(二百六十五)](https://blog.csdn.net/u010164190/article/details/159569213)
+
++ [数据挖掘核心：分类任务详解与经典算法全攻略（原理+流程图+代码+场景）](https://blog.csdn.net/qq_41840843/article/details/159824500)
+
++ [GitHub 2026年4月最火的20个AI与软件开发项目](https://blog.csdn.net/mzh10588/article/details/159783816)
+
++ [LabVIEW控制阀性能测试评估系统](https://blog.csdn.net/bjcyck/article/details/159854673)
+
++ [组合 OpenTelemetry 参考架构](https://blog.csdn.net/UbuntuTouch/article/details/159799179)
+
++ [一次多线程批处理漏数据问题排查：我如何从日志反推出 SQL 并定位根因](https://blog.csdn.net/ly123963/article/details/159862770)
+
++ [0. 总纲｜Java Web 自研框架 18 年架构决策复盘](https://blog.csdn.net/yuhou25/article/details/159767898)
+
++ [《VLA 系列》复现 Ψ₀ | Psi0 | 通用人形机器人 | 移动操作模型](https://blog.csdn.net/qq_41204464/article/details/159830799)
+

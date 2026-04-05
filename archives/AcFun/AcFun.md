@@ -71,3 +71,7 @@
 
 + [【晴光春序】真的去道观拍小姨了](https://m.acfun.cn/v/?ac=48410958)
 
++ [【东方】每一章都是最终决战 - 东方永夜抄Boss组曲【Entity KIMU Remix】](https://m.acfun.cn/v/?ac=48406624)
+
++ [学习成果经得起检验](https://m.acfun.cn/v/?ac=48411298)
+
