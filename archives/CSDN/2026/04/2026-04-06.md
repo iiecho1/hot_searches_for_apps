@@ -139,3 +139,11 @@
 
 + [《VLA 系列》复现 Ψ₀ | Psi0 | 通用人形机器人 | 移动操作模型](https://blog.csdn.net/qq_41204464/article/details/159830799)
 
++ [大批量 in 条件更新怎么写更稳？一次 MyBatis Plus 实战总结](https://blog.csdn.net/ly123963/article/details/159866514)
+
++ [新一代智能运维（AIOPS）：革新架构与技术实现路径](https://blog.csdn.net/qq_41035650/article/details/159832997)
+
++ [三相交流异步电机模糊PID自适应控制【附说明文档】](https://blog.csdn.net/weixin_46039719/article/details/159866634)
+
++ [虚幻引擎地形生成秘籍生成UE5无缝地形高度图（菲利普斯频谱+ 快速傅里叶变换）](https://blog.csdn.net/zhygdhvgv/article/details/159862678)
+
