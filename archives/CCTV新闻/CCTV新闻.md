@@ -183,3 +183,5 @@
 
 + [伊朗称击落一架美军搜救飞机](https://news.cctv.com/2026/04/05/ARTITqKPgG9ZhXCmvX3SHyDt260405.shtml)
 
++ [伊朗军方：美军营救飞行员“任务失败” 多架飞机被击落](https://news.cctv.com/2026/04/05/ARTIjnkxW88Pn94GDjCMXy4y260405.shtml)
+

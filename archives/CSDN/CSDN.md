@@ -169,3 +169,11 @@
 
 + [【OpenClaw企业级智能体实战】第23篇：个人知识库+自动化工作流——让OpenClaw成为你的第二大脑（附second-brain+Obsidian+飞书三合一完整方案）](https://blog.csdn.net/weixin_39815573/article/details/159806658)
 
++ [Dubbo- 主流注册中心介绍：Zookeeper/Nacos/Eureka 适配思路](https://blog.csdn.net/qq_41187124/article/details/157549534)
+
++ [【西瓜带你学设计模式 | 第十期 - 外观模式】外观模式 —— 子系统封装实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159767123)
+
++ [Canvas生成艺术｜意外诞生的混沌风暴（附完整源码+GitHub部署）](https://blog.csdn.net/weixin_56334307/article/details/159835239)
+
++ [YOLO26涨点改进| TPAMI 2025顶刊 |独家创新首发、Conv改进篇| 引入LPRM局部像素关系卷积模块，提升细节表达和边界定位能力，助力小目标检测、语义分割、图像分割、图像增强有效涨点](https://blog.csdn.net/qq_45972324/article/details/159856111)
+
