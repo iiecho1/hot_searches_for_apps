@@ -47,3 +47,7 @@
 
 + [关于外包人员在食堂的吃饭的问题](https://www.v2ex.com/t/1203618)
 
++ [专门为程序员设计的聊天软件： KongChat，即将发布。现抽奖，免费送 5 个 ChatGPT Plus 使用权（1 个月）](https://www.v2ex.com/t/1203658)
+
++ [吸了 opus 后 gpt 5.4 都没味了这可怎么办！](https://www.v2ex.com/t/1203638)
+

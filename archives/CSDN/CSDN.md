@@ -177,3 +177,9 @@
 
 + [YOLO26涨点改进| TPAMI 2025顶刊 |独家创新首发、Conv改进篇| 引入LPRM局部像素关系卷积模块，提升细节表达和边界定位能力，助力小目标检测、语义分割、图像分割、图像增强有效涨点](https://blog.csdn.net/qq_45972324/article/details/159856111)
 
++ [ML.NET模型瘦身秘籍：YAML配置，体积直降60%？](https://blog.csdn.net/z_344791576/article/details/151898235)
+
++ [Spring AI 工具调用（ToolCalling）完整使用教程](https://blog.csdn.net/to_mountain/article/details/159829841)
+
++ [[具身智能-216]：TCP Socket可以实现全双共同数据通信，为什么还需要WebSocket？ WebSocket相对于原始的TcpSocket通信的优点与不足？](https://blog.csdn.net/HiWangWenBing/article/details/159824566)
+
