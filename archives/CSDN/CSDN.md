@@ -155,3 +155,17 @@
 
 + [液压连接件技术问答知识库：SAE法兰 · 卡套接头 · 316L材质 · 船级社认证 | 工程师速查手册](https://blog.csdn.net/Scott9999HH/article/details/159802683)
 
++ [Python + AI Agent 智能体：从原理到实战，构建自主决策的 AI 助手](https://blog.csdn.net/2401_85686768/article/details/159801984)
+
++ [CMake赋能持续集成｜自动化测试落地的进阶指南 ✨](https://blog.csdn.net/2503_92624912/article/details/159834886)
+
++ [【花雕学编程】行空板K10部署迷你小龙虾MimiClaw，实际测试嵌入式 AI Agent 命令全集（一）](https://blog.csdn.net/weixin_41659040/article/details/159825435)
+
++ [鲜花商城|基于springboot + vue鲜花商城系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/159833653)
+
++ [Dubbo- 注册中心实战：Zookeeper 部署与 Dubbo 集成配置](https://blog.csdn.net/qq_41187124/article/details/157549666)
+
++ [Ollama 模型 + VS Code：私有化部署 Copilot 使用教程](https://blog.csdn.net/Wqh_wuqihang/article/details/159771338)
+
++ [【OpenClaw企业级智能体实战】第23篇：个人知识库+自动化工作流——让OpenClaw成为你的第二大脑（附second-brain+Obsidian+飞书三合一完整方案）](https://blog.csdn.net/weixin_39815573/article/details/159806658)
+

@@ -171,3 +171,11 @@
 
 + [以官员称伊朗仍有超千枚可打击以色列的弹道导弹](https://news.cctv.com/2026/04/05/ARTIDZEreJjvObQF9SLIIwCa260405.shtml)
 
++ [特朗普：失踪飞行员已获救](https://news.cctv.com/2026/04/05/ARTIw031hom3c1JlgZc2k2HY260405.shtml)
+
++ [美官员：失踪美军飞行员已被找到](https://news.cctv.com/2026/04/05/ARTIgXp1E5VinAPPR3N4MMJS260405.shtml)
+
++ [日本前自卫官：日本正走向“可实战”的军事体系](https://news.cctv.com/2026/04/05/ARTI5Xi4St3oS7wwkBAxDkXD260405.shtml)
+
++ [北美观察丨特朗普再发48小时警告 一边想收尾一边制造不确定性](https://news.cctv.com/2026/04/05/ARTI5bfFGHeBJ5B3sdXBTMzl260405.shtml)
+
