@@ -185,3 +185,9 @@
 
 + [伊朗军方：美军营救飞行员“任务失败” 多架飞机被击落](https://news.cctv.com/2026/04/05/ARTIjnkxW88Pn94GDjCMXy4y260405.shtml)
 
++ [美军“营救行动”又掉了几架飞机？美国：2架 伊朗：不止](https://news.cctv.com/2026/04/05/ARTIK5Uyx3wcInFFtjDg5xcD260405.shtml)
+
++ [美军营救行动致伊朗5死8伤](https://news.cctv.com/2026/04/05/ARTI5p4vlDbX3H7HDqK73jbC260405.shtml)
+
++ [巴基斯坦西北部强降雨已造成至少45人死亡](https://news.cctv.com/2026/04/05/ARTIPiyccqJ90bLVC2hdkhuk260405.shtml)
+
