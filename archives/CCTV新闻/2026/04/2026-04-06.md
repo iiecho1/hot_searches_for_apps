@@ -161,3 +161,5 @@
 
 + [以军称伊朗军方石油部门负责人遭空袭身亡](https://news.cctv.com/2026/04/03/ARTItDo6Dv7zpJaMikeaqdtO260403.shtml)
 
++ [过去24小时15艘船只获准通过霍尔木兹海峡](https://news.cctv.com/2026/04/06/ARTIyr2eifd5oZLXGdB6yiXX260406.shtml)
+
