@@ -219,3 +219,17 @@
 
 + [中国驻阿联酋使领馆再次提醒在阿中国公民进一步加强安全防范](https://news.cctv.com/2026/04/06/ARTIWkH1COcH1F0ExK8Yk234260406.shtml)
 
++ [伊朗情报部门宣布逮捕17名美以间谍](https://news.cctv.com/2026/04/06/ARTIIt1voxO0KNYglhPyuBPU260406.shtml)
+
++ [美国最高法院批准特朗普政府撤销班农刑事定罪请求](https://news.cctv.com/2026/04/06/ARTI45jtBJP5sneFdm1HvgGa260406.shtml)
+
++ [俄外交部：日本与乌克兰无人机合作是公开敌对行为](https://news.cctv.com/2026/04/06/ARTIuOkM4dufoYmffJi2QXFD260406.shtml)
+
++ [洪都拉斯一巴士与运载氰化物拖车相撞 至少10人死亡](https://news.cctv.com/2026/04/06/ARTItXpN1Dzb79DTjYp1Ohj4260406.shtml)
+
++ [伊朗说本国石油化工设施“遭敌军袭击”](https://news.cctv.com/2026/04/06/ARTIM5Rsd8MFISLFqBGWqB37260406.shtml)
+
++ [泰国新一任内阁成员宣誓就职](https://news.cctv.com/2026/04/06/ARTIPtGSXOtzdvf48jfDdTgM260406.shtml)
+
++ [国际原子能机构说伊朗布什尔核电站未在打击中受损](https://news.cctv.com/2026/04/06/ARTIA1dTQuqGuFP4NqBz4xMT260406.shtml)
+
