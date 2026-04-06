@@ -25,3 +25,5 @@
 
 + [比官方预告时间更早：消息称“超级小爱”PC 客户端正推送给小米笔记本 Pro 14](https://m.ithome.com/html/936179.htm)
 
++ [大疆 Osmo Pocket 4 全能套装包装曝光：1 英寸传感器、107GB 内置存储](https://m.ithome.com/html/936068.htm)
+
