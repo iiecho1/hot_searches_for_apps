@@ -175,3 +175,19 @@
 
 + [伊朗方面称一枚炮弹击中位于伊拉克的美国领事馆](https://news.cctv.com/2026/04/06/ARTIhawyNgEaGyMYze0vnX0x260406.shtml)
 
++ [中东战事持续令英国炸鱼薯条店承压](https://news.cctv.com/2026/04/06/ARTIYaBBcFyY3fJjbbjIDy2y260406.shtml)
+
++ [消息人士：美伊调解方为争取45天停火做最后努力](https://news.cctv.com/2026/04/06/ARTIxf8nfAWGc4VLHxgc3Mus260406.shtml)
+
++ [日本在野党和民众集会反对高市政府为武器出口“松绑”](https://news.cctv.com/2026/04/06/ARTIbjlmDD8G85JfOuKNFdkT260406.shtml)
+
++ [韩国多地“垃圾袋荒”持续 垃圾袋成促销爆品](https://news.cctv.com/2026/04/06/ARTI9iKezIKw1eOfs2DzhwaB260406.shtml)
+
++ [日本加速“转守为攻”严重威胁地区和平稳定](https://news.cctv.com/2026/04/06/ARTIPJJHJhlsh6La6GffrekD260406.shtml)
+
++ [伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制](https://news.cctv.com/2026/04/06/ARTIJXdUHjj7WhTmsWITLFoz260406.shtml)
+
++ [伊朗军方：特朗普和美军遭遇的尴尬难以补救](https://news.cctv.com/2026/04/06/ARTItpbG409zYtwW0mQAmxlk260406.shtml)
+
++ [澳大利亚能源部长：澳大批加油站已无油可加](https://news.cctv.com/2026/04/06/ARTIrhcHBVevaiOAMloMW094260406.shtml)
+
