@@ -33,3 +33,13 @@
 
 + [免费申请的德国沃达丰 eSIM 的车门还没关！](https://www.v2ex.com/t/1203660)
 
++ [职场汇报发言总是紧张、语无伦次，自信不够怎么办](https://www.v2ex.com/t/1203735)
+
++ [士别三日刮目相看，全系切换为 edge 浏览器](https://www.v2ex.com/t/1203752)
+
++ [2026 路由器](https://www.v2ex.com/t/1203679)
+
++ [App Store 一大波 App 更新显示一模一样的文案：此次的 Apple 更新将会改善该 App 的功能。未包括任何新功能。](https://www.v2ex.com/t/1203723)
+
++ [用 Rust + WASM + WebGL2 做了个实时 3D 航班追踪器，浏览器里跑 1 万架飞机 60fps](https://www.v2ex.com/t/1203750)
+

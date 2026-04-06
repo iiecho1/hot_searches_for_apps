@@ -49,3 +49,7 @@
 
 + [比官方预告时间更早：消息称“超级小爱”PC 客户端正推送给小米笔记本 Pro 14](https://m.ithome.com/html/936179.htm)
 
++ [张雪机车打假：张雪本人目前暂未在小红书平台开通账号](https://m.ithome.com/html/936134.htm)
+
++ [新一代小米 SU7 搭载 ALD 镀膜技术：能较好抑制白天逆光或夜间后车远光，日常维护、清洗不会磨损](https://m.ithome.com/html/936171.htm)
+

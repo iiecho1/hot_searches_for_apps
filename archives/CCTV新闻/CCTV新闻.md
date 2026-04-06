@@ -195,3 +195,9 @@
 
 + [美以空袭伊朗谢里夫理工大学](https://news.cctv.com/2026/04/06/ARTIxIvAYogqCl80vmfYpsRU260406.shtml)
 
++ [韩国总统就“无人机入朝事件”向朝鲜表示遗憾](https://news.cctv.com/2026/04/06/ARTIUsjCBjfPa7ywHzr5QciA260406.shtml)
+
++ [陈青敏当选越南国会主席](https://news.cctv.com/2026/04/06/ARTIzWUDXWVmkWxQflfOCu2j260406.shtml)
+
++ [中菲合作遣返经济犯罪嫌犯](https://news.cctv.com/2026/04/06/ARTIeaKOSHbZImueKVEcdU1D260406.shtml)
+
