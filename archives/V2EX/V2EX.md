@@ -51,3 +51,7 @@
 
 + [codex 的奇怪🤔输出：“无码亚洲”](https://www.v2ex.com/t/1203811)
 
++ [新买的 mbp m5 本有必要买 apple care 吗？](https://www.v2ex.com/t/1203781)
+
++ [微信输入法为什么这么消耗系统资源？](https://www.v2ex.com/t/1203815)
+

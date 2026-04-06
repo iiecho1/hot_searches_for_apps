@@ -231,3 +231,7 @@
 
 + [AKS 通过Azure Key Vault挂载TLS证书到Pod（防止Kubernetes Secret落地的安全实践）](https://blog.csdn.net/m0_54833469/article/details/159858341)
 
++ [微软 MAF 1.0 落地初探：用 ASP.NET Core 串起 Agent、工具与技能](https://blog.csdn.net/colhan/article/details/159852552)
+
++ [一文厘清DDoS与CC攻击](https://blog.csdn.net/2301_79518550/article/details/159835153)
+
