@@ -59,3 +59,19 @@
 
 + [微软 Win11 新版 Copilot 内置完整 Edge 浏览器，内存占用飙升](https://m.ithome.com/html/936075.htm)
 
++ [米粉节福利加一：小米之家今起开启免费领“新一代 SU7 卡布里蓝直饮杯”活动，4 月 12 日结束](https://m.ithome.com/html/936207.htm)
+
++ [经典塔防游戏《植物大战僵尸 HD》iOS 版公告将从数字商店下架，今年 6 月 24 日关闭在线服务](https://m.ithome.com/html/936175.htm)
+
++ [澎湃 OS 3 最新进展公布：小米 17 Pro Max 手机部分场景背屏拍照完预览灰白问题已优化](https://m.ithome.com/html/936164.htm)
+
++ [尾号 7 个 8 手机靓号流拍：起拍价 260 万元，18 元月租套餐](https://m.ithome.com/html/936165.htm)
+
++ [小米物流大件“当日达”服务上线 50 城](https://m.ithome.com/html/936213.htm)
+
++ [段永平称泡泡玛特是中国产品国际化先驱，此前曾称不会投资](https://m.ithome.com/html/936158.htm)
+
++ [Mac 跑 AI 模型更方便了，Tiny Corp 称苹果已为英伟达、AMD 外置显卡开绿灯](https://m.ithome.com/html/936197.htm)
+
++ [OPPO Find X9s Pro 哈苏专业增距镜“银色”外观首发，4 月 21 日发布](https://m.ithome.com/html/936146.htm)
+

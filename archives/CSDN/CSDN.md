@@ -197,3 +197,19 @@
 
 + [2026实测6款免费/白嫖向学术论文降AIGC专业工具](https://blog.csdn.net/qq_18733629/article/details/159832965)
 
++ [鸿蒙游戏如何接入支付 / 排行榜 / 社交](https://blog.csdn.net/qq_36863796/article/details/159861486)
+
++ [[JAVA探索之路]带你手写多线程实现生产者-消费者模型](https://blog.csdn.net/gdpu2400502251/article/details/159793980)
+
++ [不从众，方破局：从越南摩托溃败、张雪WSBK封神，看懂新能源研发的真正坚守](https://blog.csdn.net/weixin_62244995/article/details/159753552)
+
++ [计算机网络 之 【TCP协议】(面向字节流、TCP异常情况、保活机制、文件与Socket的关系、网络协议栈的本质)](https://blog.csdn.net/zl_dfq/article/details/159824016)
+
++ [【技术干货】2026 大模型战局前瞻：从 OpenAI SPUD 到 Gemma 4，本地与云端的架构选择与实战接入](https://blog.csdn.net/weixin_45888077/article/details/159865658)
+
++ [关于论文《使用 FLUSH+RELOAD 缓存侧信道攻击恢复 OpenSSL ECDSA 的随机数》的理解](https://blog.csdn.net/m0_70980326/article/details/159695333)
+
++ [神经网络算法全景解析](https://blog.csdn.net/dongke1991/article/details/159806123)
+
++ [Linux虚拟机 + Docker 部署本地靶场教程（个人博客原创）](https://blog.csdn.net/zeyun4699/article/details/159887155)
+
