@@ -31,3 +31,27 @@
 
 + [新一代小米 SU7 搭载 ALD 镀膜技术：能较好抑制白天逆光或夜间后车远光，日常维护、清洗不会磨损](https://m.ithome.com/html/936171.htm)
 
++ [米粉节福利加一：小米之家今起开启免费领“新一代 SU7 卡布里蓝直饮杯”活动，4 月 12 日结束](https://m.ithome.com/html/936207.htm)
+
++ [鸿蒙智行 2026 款问界 M9 无伪装实车上路：门把手焕新、外观更硬朗](https://m.ithome.com/html/936231.htm)
+
++ [小米胡馨心预告新品将至，称明天就会有好消息](https://m.ithome.com/html/936262.htm)
+
++ [跨界联动：雷军晒小米 YU7 梅森 &#183; 马吉拉涂装版，采用专属极简白涂装 + 品牌标识设计](https://m.ithome.com/html/936261.htm)
+
++ [M5 MacBook Air 16+512G 京东补货：国补后 7188 元，教育优惠版 6544 元](https://m.ithome.com/html/936271.htm)
+
++ [消息称苹果 iPhone 18 Pro 系列手机有望提供灰 / 银 / 深红三色可选](https://m.ithome.com/html/936252.htm)
+
++ [小米物流大件“当日达”服务上线 50 城](https://m.ithome.com/html/936213.htm)
+
++ [消息称苹果首款折叠屏手机 iPhone Fold 已在试产](https://m.ithome.com/html/936248.htm)
+
++ [雷军晒图庆祝小米公司创办 16 周年：永远相信美好的事情即将发生](https://m.ithome.com/html/936241.htm)
+
++ [时隔半个世纪人类“重返”月球：NASA 阿耳忒弥斯 2 号宇航员抵达月球空间](https://m.ithome.com/html/936220.htm)
+
++ [鸿蒙智行 2026 款问界 M9 无伪装实车再曝：前后隐私玻璃、华为乾崑 896 线激光雷达](https://m.ithome.com/html/936293.htm)
+
++ [Mac 跑 AI 模型更方便了，Tiny Corp 称苹果已为英伟达、AMD 外置显卡开绿灯](https://m.ithome.com/html/936197.htm)
+
