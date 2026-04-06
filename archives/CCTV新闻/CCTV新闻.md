@@ -165,3 +165,11 @@
 
 + [伊朗回应美停战提议 特朗普：有意义但不够好](https://news.cctv.com/2026/04/07/ARTIBVjG9a4Z9WNv5zfBbPs2260407.shtml)
 
++ [美“阿耳忒弥斯2号”载人绕月任务打破人类距离地球最远飞行纪录](https://news.cctv.com/2026/04/07/ARTIVYZefMas3kOkOYoBahCj260407.shtml)
+
++ [伊朗军方称击落两架美以无人机](https://news.cctv.com/2026/04/07/ARTI4YwdFyhpEfcmY8byKaol260407.shtml)
+
++ [调集百余架各类航空器、实施欺骗作战 美公布营救飞行员行动细节](https://news.cctv.com/2026/04/07/ARTI3jybvmukn8nZNDhZHRBh260407.shtml)
+
++ [伊朗最高领袖悼念伊朗伊斯兰革命卫队情报机构领导人](https://news.cctv.com/2026/04/07/ARTIXrZ7xOU544xQkwUvqJND260407.shtml)
+

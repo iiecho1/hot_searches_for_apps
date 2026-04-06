@@ -127,3 +127,9 @@
 
 + [VLM走进农田：AgriChat覆盖3000+作物品类，607K农业视觉问答基准开源](https://blog.csdn.net/SUNNY_SHUN/article/details/159859873)
 
++ [【无人机三维路径规划】基于matlab蚁群算法ACA、Astar和遗传GA算法无人机山地路径规划【含Matlab源码 15285期】](https://blog.csdn.net/TIQCmatlab/article/details/159814504)
+
++ [免费验证码识别：用ddddocr实现Playwright自动化登录](https://blog.csdn.net/2603_95532426/article/details/159865154)
+
++ [SpringMVC静态资源访问、annotation-driven的使用原理及数据响应模式](https://blog.csdn.net/2301_80749359/article/details/159865473)
+
