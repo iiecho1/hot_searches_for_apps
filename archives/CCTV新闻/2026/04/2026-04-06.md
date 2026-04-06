@@ -211,3 +211,9 @@
 
 + [伊朗伊斯兰革命卫队情报机构领导人在美以袭击中身亡](https://news.cctv.com/2026/04/06/ARTIPCncSr0zpJyREig3NjW8260406.shtml)
 
++ [伊朗外交部发言人：美方营救飞行员行动或为窃取浓缩铀](https://news.cctv.com/2026/04/06/ARTIwRZv0KNcTFzupuTnnMJu260406.shtml)
+
++ [伊朗高级官员称 不会为暂时停火而重新开放霍尔木兹海峡](https://news.cctv.com/2026/04/06/ARTIyGDQCRBkRHTL1fM6E4WB260406.shtml)
+
++ [伊朗称已准备好对调解方的回应](https://news.cctv.com/2026/04/06/ARTIEXCkp1FomGmfb3jFwsht260406.shtml)
+

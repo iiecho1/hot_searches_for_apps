@@ -213,3 +213,15 @@
 
 + [Linux虚拟机 + Docker 部署本地靶场教程（个人博客原创）](https://blog.csdn.net/zeyun4699/article/details/159887155)
 
++ [Python + Ollama 本地跑大模型：零成本打造私有 AI 助手](https://blog.csdn.net/2401_86326742/article/details/159888250)
+
++ [设计模式：设计模式的相关概念与原则](https://blog.csdn.net/2401_89119815/article/details/159857254)
+
++ [用llama试用gemma-4-E2B模型量化版本](https://blog.csdn.net/l1t/article/details/159814871)
+
++ [深度解析：OpenClaw集成MiniMax 2.1遭遇HTTP 401？三步定位+架构级解决方案](https://blog.csdn.net/2601_94871597/article/details/159813353)
+
++ [谷歌Gemma 4开源模型实战解析：31B参数登顶全球前三，Apache 2.0全开放](https://blog.csdn.net/weixin_45526015/article/details/159816027)
+
++ [​​​​​​​网络安全进阶学习：SSRF（服务器端请求伪造）漏洞全解析](https://blog.csdn.net/2401_84593844/article/details/159826254)
+
