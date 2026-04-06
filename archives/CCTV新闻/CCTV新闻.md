@@ -217,3 +217,5 @@
 
 + [伊朗称已准备好对调解方的回应](https://news.cctv.com/2026/04/06/ARTIEXCkp1FomGmfb3jFwsht260406.shtml)
 
++ [中国驻阿联酋使领馆再次提醒在阿中国公民进一步加强安全防范](https://news.cctv.com/2026/04/06/ARTIWkH1COcH1F0ExK8Yk234260406.shtml)
+
