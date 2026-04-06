@@ -133,3 +133,5 @@
 
 + [SpringMVC静态资源访问、annotation-driven的使用原理及数据响应模式](https://blog.csdn.net/2301_80749359/article/details/159865473)
 
++ [基于自适应Np, Nc的粒子群PSO+模型预测MPC控制的车辆轨迹跟踪控制研究（Matlab代码实现）](https://blog.csdn.net/weixin_66436111/article/details/159867851)
+
