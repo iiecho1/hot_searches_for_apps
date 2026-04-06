@@ -53,3 +53,9 @@
 
 + [新一代小米 SU7 搭载 ALD 镀膜技术：能较好抑制白天逆光或夜间后车远光，日常维护、清洗不会磨损](https://m.ithome.com/html/936171.htm)
 
++ [滴滴出行开放打车 Skill，“龙虾”叫车全程不需要切换 App](https://m.ithome.com/html/936024.htm)
+
++ [天钡 MACO 255 迷你主机发售：双 2.5G 网口，24GB 内存无硬盘版本 2899 元](https://m.ithome.com/html/936034.htm)
+
++ [微软 Win11 新版 Copilot 内置完整 Edge 浏览器，内存占用飙升](https://m.ithome.com/html/936075.htm)
+

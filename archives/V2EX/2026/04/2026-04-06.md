@@ -43,3 +43,7 @@
 
 + [用 Rust + WASM + WebGL2 做了个实时 3D 航班追踪器，浏览器里跑 1 万架飞机 60fps](https://www.v2ex.com/t/1203750)
 
++ [[送 5 张 Giffgaff 卡] 阿里云大客户折扣账户， ECS 轻松 5 折！](https://www.v2ex.com/t/1203796)
+
++ [感觉 Macbook Neo 不错，适合当个瘦客户端用。这样远程电脑就行](https://www.v2ex.com/t/1203697)
+
