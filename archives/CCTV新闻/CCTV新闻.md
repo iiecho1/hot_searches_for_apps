@@ -171,3 +171,7 @@
 
 + [日本福岛第二核电站1号机组燃料池冷却系统停止运行](https://news.cctv.com/2026/04/06/ARTIJ6WTVqODcFXAsFwd9MsZ260406.shtml)
 
++ [以媒：特朗普认为7日前“很有可能”与伊朗达成协议](https://news.cctv.com/2026/04/06/ARTIf8A2lLx8Qwp5BRn6oqhb260406.shtml)
+
++ [伊朗方面称一枚炮弹击中位于伊拉克的美国领事馆](https://news.cctv.com/2026/04/06/ARTIhawyNgEaGyMYze0vnX0x260406.shtml)
+

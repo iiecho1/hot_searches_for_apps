@@ -47,3 +47,5 @@
 
 + [新一代小米 SU7 标配 1500MPa 防刮底横梁，可“推开”障碍物降低电池包损伤风险](https://m.ithome.com/html/936123.htm)
 
++ [比官方预告时间更早：消息称“超级小爱”PC 客户端正推送给小米笔记本 Pro 14](https://m.ithome.com/html/936179.htm)
+
