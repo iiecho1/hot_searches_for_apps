@@ -159,3 +159,9 @@
 
 + [俄军一架苏-30战机坠毁 机组人员弹射逃生](https://news.cctv.com/2026/04/04/ARTIk17eN1gGu2o2QHwioI2a260404.shtml)
 
++ [特朗普：伊朗可在一夜内被击溃 或许就是7日晚上](https://news.cctv.com/2026/04/07/ARTITVinKHgAAwayLQmvOB0j260407.shtml)
+
++ [伊朗军方说只要政治领导层认为“合适”就会继续战斗](https://news.cctv.com/2026/04/07/ARTIQtKjPgAYkfYKxYaToyAq260407.shtml)
+
++ [伊朗回应美停战提议 特朗普：有意义但不够好](https://news.cctv.com/2026/04/07/ARTIBVjG9a4Z9WNv5zfBbPs2260407.shtml)
+

@@ -101,3 +101,29 @@
 
 + [​​​​​​​网络安全进阶学习：SSRF（服务器端请求伪造）漏洞全解析](https://blog.csdn.net/2401_84593844/article/details/159826254)
 
++ [【优化设计】基于人工蜂群算法机械设计优化附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/159885556)
+
++ [OpenClaw 消息工具详解：多渠道消息发送实战指南](https://blog.csdn.net/sinat_41617212/article/details/159857708)
+
++ [【AI智能体】Claude Code 核心记忆文件 CLAUDE.md实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/159799311)
+
++ [Scala 和 Spark 大数据分析（五）](https://blog.csdn.net/wizardforcel/article/details/159866055)
+
++ [Spring Boot文件上传](https://blog.csdn.net/jiankeljx/article/details/159812183)
+
++ [纸箱传送带检测数据集（近2900张已标注）｜YOLO工业视觉训练数据集](https://blog.csdn.net/weixin_52908342/article/details/159830249)
+
++ [数据库工具：LazySQL、sql-tap、GoNavi、Tabularis、rsql、DbPaw](https://blog.csdn.net/lonelymanontheway/article/details/159825616)
+
++ [HarmonyOS 5.0企业级办公APP开发实战：基于元服务的轻量化协同办公与智能会议系统](https://blog.csdn.net/u014727709/article/details/159806021)
+
++ [2026年全国青少年信息素养大赛算法应用主题赛（C++赛项初赛模拟题5：文末附答案）](https://blog.csdn.net/weixin_66461496/article/details/159882643)
+
++ [ollama v0.20.0 更新：Gemma 4 全家桶发布，音频、视觉、MoE、BPE 支持全面升级](https://blog.csdn.net/weixin_48502062/article/details/159805474)
+
++ [基于Spring Boot+Vue3的烹饪交流学习系统 设计与实现](https://blog.csdn.net/zhao_xiaoyao/article/details/159856733)
+
++ [谷歌Gemma 4开源模型实战解析：31B参数登顶全球前三，Apache 2.0全开放](https://blog.csdn.net/weixin_45526015/article/details/159816027)
+
++ [VLM走进农田：AgriChat覆盖3000+作物品类，607K农业视觉问答基准开源](https://blog.csdn.net/SUNNY_SHUN/article/details/159859873)
+
