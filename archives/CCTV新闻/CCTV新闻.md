@@ -173,3 +173,5 @@
 
 + [伊朗最高领袖悼念伊朗伊斯兰革命卫队情报机构领导人](https://news.cctv.com/2026/04/07/ARTIXrZ7xOU544xQkwUvqJND260407.shtml)
 
++ [泽连斯基：乌方通过美国向俄方提出能源休战提议](https://news.cctv.com/2026/04/07/ARTIG45AIH1TtlgkqKcgnpp2260407.shtml)
+
