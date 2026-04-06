@@ -99,3 +99,11 @@
 
 + [别让偶像做这些啊！](https://m.acfun.cn/v/?ac=48412003)
 
++ [Ice Cream～](https://m.acfun.cn/v/?ac=48411894)
+
++ [爱演，下次还演](https://m.acfun.cn/v/?ac=48409553)
+
++ [开～玩～笑～我纯天然的好不好～](https://m.acfun.cn/v/?ac=48412842)
+
++ [社会你鸡哥！人狠话不多！公鸡开挂的四月爽番！ ](https://m.acfun.cn/v/?ac=48411773)
+

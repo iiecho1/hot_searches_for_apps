@@ -155,3 +155,45 @@
 
 + [支持微信4.0的小程序注入调试工具（WMPFDebugger）](https://blog.csdn.net/Soujer/article/details/159800160)
 
++ [[简化版 GAMES 101] 计算机图形学 03：线性代数下](https://blog.csdn.net/2503_92624912/article/details/159862400)
+
++ [2026年04月04日全球AI前沿动态](https://blog.csdn.net/ld326/article/details/159807948)
+
++ [序列建模能力的三次跃迁：RNN、LSTM与BiLSTM的机制演化与本质对比](https://blog.csdn.net/2301_80178731/article/details/159814906)
+
++ [2025FIC决赛学习向个人复盘part1（仅手机）,附个人做手机取证的经验和思路](https://blog.csdn.net/2401_88158767/article/details/159861469)
+
++ [2026 AI编程工具Agent时代终极横评：Cursor vs Claude Code vs Windsurf vs Copilot](https://blog.csdn.net/xyghehehehe/article/details/159848516)
+
++ [仿muduo库one Thread one Loop式主从reactor模型高并发服务器项目日志](https://blog.csdn.net/qq_73329472/article/details/159831307)
+
++ [大模型中向量和张量的核心概念详细解析](https://blog.csdn.net/weixin_35774598/article/details/159865503)
+
++ [【HarmonyOS 6.0】ArkUI Text组件新增数字翻牌动效](https://blog.csdn.net/weixin_74809706/article/details/159690329)
+
++ [【Coze-AI智能体平台】低代码省时高效：Coze 应用开发全流程指南](https://blog.csdn.net/2401_87342824/article/details/159691925)
+
++ [Google Gemma 4 正式发布：Apache 2.0 开源许可 + 256K 上下文 + Agent 原生支持全面解读](https://blog.csdn.net/tzchao111/article/details/159805443)
+
++ [LabVIEW发动机性能评估与故障诊断](https://blog.csdn.net/bjcyck/article/details/159862771)
+
++ [SpringBoot 集成阿里云直播 + 点播全实战：推流、拉流、转码、回放一站式落地](https://blog.csdn.net/jam_yin/article/details/159865748)
+
++ [使用 Elastic Workflows 监控 Kibana 仪表板视图](https://blog.csdn.net/UbuntuTouch/article/details/159833281)
+
++ [网络安全编程——开发一个TCP代理Python实现（二）](https://blog.csdn.net/m0_73812072/article/details/159865028)
+
++ [针对Godot(2D)游戏架构的研究](https://blog.csdn.net/2503_93490340/article/details/159867097)
+
++ [基于yolov26+pyqt5的交警手势识别检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面](https://blog.csdn.net/FL1623863129/article/details/159883370)
+
++ [Cursor 3来了：内置Codex，前端福音Design Mode，WorkTree多开](https://blog.csdn.net/qq_41862844/article/details/159806102)
+
++ [Docker 核心原理详解：镜像、容器、Namespace、Cgroups 与 UnionFS](https://blog.csdn.net/love___me/article/details/159861691)
+
++ [【Vertx构建异步响应式reactive mybatis，mybatis-vertx-adaptor】](https://blog.csdn.net/luomin369433047/article/details/159856490)
+
++ [K8S存储管理：Volume、PV/PVC与StorageClass详解](https://blog.csdn.net/2501_92817375/article/details/159833078)
+
++ [2026实测6款免费/白嫖向学术论文降AIGC专业工具](https://blog.csdn.net/qq_18733629/article/details/159832965)
+

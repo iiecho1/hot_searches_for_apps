@@ -191,3 +191,7 @@
 
 + [澳大利亚能源部长：澳大批加油站已无油可加](https://news.cctv.com/2026/04/06/ARTIrhcHBVevaiOAMloMW094260406.shtml)
 
++ [中国驻沙特大使馆发布重要提醒](https://news.cctv.com/2026/04/06/ARTI0nBQeiKE7bdXW2mlt3VZ260406.shtml)
+
++ [美以空袭伊朗谢里夫理工大学](https://news.cctv.com/2026/04/06/ARTIxIvAYogqCl80vmfYpsRU260406.shtml)
+
