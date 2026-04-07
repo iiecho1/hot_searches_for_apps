@@ -167,3 +167,15 @@
 
 + [德国西部城市突发枪击事件 一名女警受伤](https://news.cctv.com/2026/04/08/ARTIF1BIEV4hlZThBrsPqbya260408.shtml)
 
++ [中国代表：不能给使用武力开通行证](https://news.cctv.com/2026/04/08/ARTISlItDh2h5Nu2moOjmN34260408.shtml)
+
++ [联合国人权高专：威胁消灭“整个文明”的言论“令人发指”](https://news.cctv.com/2026/04/08/ARTI4vKiOl0RXbP95rQbWWSz260408.shtml)
+
++ [美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议](https://news.cctv.com/2026/04/08/ARTIVCLCw0Naqali3fyg7IUL260408.shtml)
+
++ [美警告：全球石油运输恢复需数月 能源价格今年将维持高位](https://news.cctv.com/2026/04/08/ARTI6d8WCxxxAhSdMPhtjAbH260408.shtml)
+
++ [美移民执法局借机场安检数据逮捕逾800人 引发执法争议](https://news.cctv.com/2026/04/08/ARTILaljsuToLcwBZ1CPGTPY260408.shtml)
+
++ [联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党](https://news.cctv.com/2026/04/08/ARTIbwZL1vXwbiODhiJAtGQ1260408.shtml)
+
