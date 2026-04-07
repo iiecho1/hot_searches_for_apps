@@ -193,3 +193,17 @@
 
 + [Linux GPIO驱动开发实战：从传统接口到新式gpiod](https://blog.csdn.net/LinuxRos/article/details/159885150)
 
++ [深度学习实战-基于ResNet50的面部表情分类识别模型](https://blog.csdn.net/m0_64336780/article/details/158737072)
+
++ [前端实时通信技术：HTTP轮询、SSE、WebSocket、WebRTC](https://blog.csdn.net/qq_36710118/article/details/159896136)
+
++ [从连接到智联：2026物联网新政下的产业重构与机遇](https://blog.csdn.net/IOT5570/article/details/159790963)
+
++ [2026年App热更新技术选型指南：安全与效率的平衡](https://blog.csdn.net/pig54321/article/details/159929614)
+
++ [见微知著——特征工程的科学与艺术](https://blog.csdn.net/htw250056/article/details/159918583)
+
++ [.NET 10 打造 OpenClaw Windows Node](https://blog.csdn.net/ApjRvH3vg/article/details/159856210)
+
++ [前端趋势：别被时代抛弃](https://blog.csdn.net/cannonmonster01/article/details/159910059)
+
