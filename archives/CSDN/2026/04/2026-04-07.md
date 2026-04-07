@@ -183,3 +183,13 @@
 
 + [MTVF — Flutter 开发视频播放器实现超分辨率](https://blog.csdn.net/qq_15233495/article/details/159886120)
 
++ [Dubbo- 核心负载均衡算法：轮询 / 随机 / 最少活跃数等实战配置](https://blog.csdn.net/qq_41187124/article/details/157551109)
+
++ [开源鸿蒙跨平台Flutter开发：应对重症监护警报疲劳：BLoC 架构下的 FSM (有限状态机) 建模与全局消息干预机制](https://blog.csdn.net/dingchengyu_/article/details/159890611)
+
++ [【Vertx构建异步响应式reactive mybatis，mybatis-vertx-adaptor】](https://blog.csdn.net/luomin369433047/article/details/159856490)
+
++ [从零搭建YOLO26火焰烟雾检测系统：数据集构建、模型训练与部署全流程（免费获取模型）](https://blog.csdn.net/m0_68036862/article/details/159919854)
+
++ [Linux GPIO驱动开发实战：从传统接口到新式gpiod](https://blog.csdn.net/LinuxRos/article/details/159885150)
+

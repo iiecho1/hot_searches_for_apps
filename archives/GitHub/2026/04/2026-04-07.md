@@ -31,3 +31,11 @@
 
 + [aaif-goose/goose](https://github.com/aaif-goose/goose)
 
++ [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+
++ [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+
++ [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
++ [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)
+
