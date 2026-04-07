@@ -199,3 +199,5 @@
 
 + [中使馆发布重要提醒：请在阿曼中国公民务必加强安全防范](https://news.cctv.com/2026/04/07/ARTItqbJJVaHeqamEBnJ33r0260407.shtml)
 
++ [国际观察｜“战争税”如何侵蚀美国经济](https://news.cctv.com/2026/04/07/ARTIXACzz1nnGpACMSdyZEAj260407.shtml)
+
