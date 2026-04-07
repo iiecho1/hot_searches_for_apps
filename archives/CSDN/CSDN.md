@@ -141,3 +141,23 @@
 
 + [世界第一个开源可商用 .NET Office 转 PDF 工具/库 - MiniPdf](https://blog.csdn.net/NNv0DEv20/article/details/159864868)
 
++ [PyTorch实战（40）——使用PyTorch构建推荐系统](https://blog.csdn.net/LOVEmy134611/article/details/151314768)
+
++ [【HarmonyOS 6.0】ArkUI 弹出菜单的精准定位革命：深入解析 `anchorPosition` 属性](https://blog.csdn.net/weixin_74809706/article/details/159726418)
+
++ [Vue 3 工程化实战：Axios 高阶封装与样式解决方案深度指南](https://blog.csdn.net/qq_40303030/article/details/158839963)
+
++ [Dubbo- 注册中心实战：Zookeeper 部署与 Dubbo 集成配置](https://blog.csdn.net/qq_41187124/article/details/157549666)
+
++ [2026 年开源 BPM/工作流引擎大盘点：Flowable vs Camunda vs Activiti vs Turbo——谁才是企业级首选？](https://blog.csdn.net/zhouzhongyan/article/details/159905153)
+
++ [AI编程革命：2026年我靠Cursor+Copilot，效率提升300%实战手册](https://blog.csdn.net/2401_89688708/article/details/159886606)
+
++ [Maomi.MQ 功能强大的 .NET RabbitMQ 消息队列通讯模型框架来了](https://blog.csdn.net/fzb5QsS1p/article/details/159855637)
+
++ [开源鸿蒙跨平台Flutter开发：血氧饱和度数据降噪：基于滑动窗口的滤波算法优化-利用动态列队 (Queue) 与时间窗口平滑光电容积脉搏波 (PPG)](https://blog.csdn.net/2301_82270320/article/details/159891895)
+
++ [网站搭建实操（十）前端搭建](https://blog.csdn.net/weixin_44860141/article/details/159882735)
+
++ [GPT-5.4 vs Claude Opus 4.6 实测对比：2026 年该选哪个模型写代码？](https://blog.csdn.net/ofoxcoding/article/details/159880164)
+

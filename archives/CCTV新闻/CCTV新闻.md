@@ -179,3 +179,13 @@
 
 + [俄外长：俄罗斯与伊斯兰国家就中东局势建立互信对话](https://news.cctv.com/2026/04/07/ARTIeUinFN3FIrV8HrNmS91C260407.shtml)
 
++ [投下百枚炸弹 轰炸革命卫队 美营救被击落战机飞行员更多细节曝光](https://news.cctv.com/2026/04/07/ARTIxgqu8Fqo6YsNn1F9ruDT260407.shtml)
+
++ [苏林当选越南国家主席](https://news.cctv.com/2026/04/07/ARTIECInWjGcy4kjB0K1b9As260407.shtml)
+
++ [伊朗对美下通牒 称只接受一种终战局面](https://news.cctv.com/2026/04/07/ARTIJ0p979dEKJx9rnLa8l7p260407.shtml)
+
++ [伊朗教育部：美以袭击致310名师生死亡](https://news.cctv.com/2026/04/07/ARTIpVASuSeKFDPWZwEcfHrJ260407.shtml)
+
++ [伊朗代表：特朗普“战争性言论”可能煽动恐怖主义](https://news.cctv.com/2026/04/07/ARTI7AlJ8gHpV0UlyGsdrWRA260407.shtml)
+

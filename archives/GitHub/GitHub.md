@@ -29,3 +29,5 @@
 
 + [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)
 
++ [aaif-goose/goose](https://github.com/aaif-goose/goose)
+
