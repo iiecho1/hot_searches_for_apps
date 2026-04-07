@@ -25,3 +25,27 @@
 
 + [Mac 跑 AI 模型更方便了，Tiny Corp 称苹果已为英伟达、AMD 外置显卡开绿灯](https://m.ithome.com/html/936197.htm)
 
++ [我国继续对国内成品油价格采取调控措施：今晚 92 号汽油每升上调 0.33 元、少涨 0.31 元，加满一箱油多花 16.5 元](https://m.ithome.com/html/936595.htm)
+
++ [小米 REDMI K90 Max 手机官宣本月登场：系列第一款 Max，首搭风冷主动散热](https://m.ithome.com/html/936340.htm)
+
++ [理想汽车增程系统负责人：张雪这台 819 三缸机从根上解决国产大排量摩托“卡脖子”的问题](https://m.ithome.com/html/936367.htm)
+
++ [苹果折叠 iPhone Fold 渲染图再曝：后摄缩小凸起，整体更精致](https://m.ithome.com/html/936321.htm)
+
++ [全国多地“老牌高速公路”收费期限届满，陆续进入“免费通行时代”](https://m.ithome.com/html/936701.htm)
+
++ [跑分时无视温度限制？红魔 11 Pro 系列手机遭 3DMark 除名](https://m.ithome.com/html/936429.htm)
+
++ [小米卢伟冰：REDMI K90 至尊版也还有，定位上 Max &gt; 至尊](https://m.ithome.com/html/936348.htm)
+
++ [男子利用电商“仅退款”规则恶意下单敲诈 900 余家网店：流水高达 1030 万元，获刑一年六个月](https://m.ithome.com/html/936478.htm)
+
++ [苹果 iOS 26 液态玻璃设计展示库更新，展示第三方应用适配效果](https://m.ithome.com/html/936326.htm)
+
++ [荣耀 WIN 游戏本官宣将于 4 月 23 日发布](https://m.ithome.com/html/936390.htm)
+
++ [小米罗福莉谈 Token 价格战：建议 LLM 公司不要盲目压低价格，会导致恶性循环](https://m.ithome.com/html/936686.htm)
+
++ [阿耳忒弥斯 2 号飞掠月球，宇航员用苹果 iPhone  17 Pro Max 拍下月球表面](https://m.ithome.com/html/936385.htm)
+
