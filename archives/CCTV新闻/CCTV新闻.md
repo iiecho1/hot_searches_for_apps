@@ -195,3 +195,7 @@
 
 + [以军已向黎巴嫩南部派出6个师开展地面行动](https://news.cctv.com/2026/04/07/ARTIUqkmmpdaIWOfjQH5jF1L260407.shtml)
 
++ [黎明兴当选越南总理](https://news.cctv.com/2026/04/07/ARTIiJlRYGQOXzc6GMxh2XKd260407.shtml)
+
++ [中使馆发布重要提醒：请在阿曼中国公民务必加强安全防范](https://news.cctv.com/2026/04/07/ARTItqbJJVaHeqamEBnJ33r0260407.shtml)
+

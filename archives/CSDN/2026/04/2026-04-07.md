@@ -175,3 +175,9 @@
 
 + [macbook 配置claude code 通过copilot api调用 claude模型及gpt模型](https://blog.csdn.net/JAVA_HOME_NEW/article/details/159893633)
 
++ [▲基于QLearning算法的无人机自组网AODV稳定路由matlab仿真](https://blog.csdn.net/ccsss22/article/details/159918430)
+
++ [Flink Agent：ActionTask 与可续跑状态机 (Coroutine/Continuation)](https://blog.csdn.net/lifallen/article/details/159887106)
+
++ [【LInux】linux控制（进程替换，自主shell的实现详解）](https://blog.csdn.net/2401_85487070/article/details/159887605)
+
