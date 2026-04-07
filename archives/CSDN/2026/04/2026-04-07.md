@@ -161,3 +161,11 @@
 
 + [GPT-5.4 vs Claude Opus 4.6 实测对比：2026 年该选哪个模型写代码？](https://blog.csdn.net/ofoxcoding/article/details/159880164)
 
++ [【HFP】规范精讲[18]: HFP音频传输核心：编码协商与同步连接实战指南](https://blog.csdn.net/weixin_37800531/article/details/159698608)
+
++ [行标识符的抉择：深入理解数据库领域的OID与ROWID机制](https://blog.csdn.net/weixin_44976692/article/details/159915152)
+
++ [【Unity工具篇】| 资源管理插件YooAsset，原理及相关配置](https://blog.csdn.net/zhangay1998/article/details/156691578)
+
++ [《Linux系统网络协议》从 TCP 到 HTTP：理解 Web 通信的第一步——网络篇](https://blog.csdn.net/qq_52749711/article/details/159862506)
+

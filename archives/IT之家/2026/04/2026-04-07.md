@@ -55,3 +55,11 @@
 
 + [Mac 跑 AI 模型更方便了，Tiny Corp 称苹果已为英伟达、AMD 外置显卡开绿灯](https://m.ithome.com/html/936197.htm)
 
++ [全球首次！我国钠离子电池取得重大突破，彻底阻断热失控](https://m.ithome.com/html/936306.htm)
+
++ [小米 REDMI K90 Max 手机官宣本月登场：系列第一款 Max，首搭风冷主动散热](https://m.ithome.com/html/936340.htm)
+
++ [2026 款丰田亚洲龙星耀版汽车上市：黑化外观设计，17.98 万元起](https://m.ithome.com/html/936287.htm)
+
++ [理想汽车增程系统负责人：张雪这台 819 三缸机从根上解决国产大排量摩托“卡脖子”的问题](https://m.ithome.com/html/936367.htm)
+
