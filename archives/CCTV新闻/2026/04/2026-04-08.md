@@ -179,3 +179,9 @@
 
 + [联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党](https://news.cctv.com/2026/04/08/ARTIbwZL1vXwbiODhiJAtGQ1260408.shtml)
 
++ [特朗普称若谈判出现进展 将考虑改变对伊朗打击行动](https://news.cctv.com/2026/04/08/ARTIQZ4ghFgkZ0Z42nXktkIH260408.shtml)
+
++ [伊朗电力部门已部署3万人待命保障供电](https://news.cctv.com/2026/04/08/ARTIW78ZeyXelxxkttJAhAHQ260408.shtml)
+
++ [沙特与巴林跨境大桥因袭击警报再次暂停通行](https://news.cctv.com/2026/04/08/ARTILPLj3xoQsFMMAAmhu4b1260408.shtml)
+
