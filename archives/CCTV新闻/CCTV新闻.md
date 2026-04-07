@@ -185,3 +185,11 @@
 
 + [沙特与巴林跨境大桥因袭击警报再次暂停通行](https://news.cctv.com/2026/04/08/ARTILPLj3xoQsFMMAAmhu4b1260408.shtml)
 
++ [特朗普称美方正就伊朗战争进行“激烈谈判”](https://news.cctv.com/2026/04/08/ARTI0xIWcpolAjqQPAFuP0G7260408.shtml)
+
++ [白宫称特朗普已获悉巴基斯坦最新提议](https://news.cctv.com/2026/04/08/ARTIBddDcg5sCvMurQJqh6Ay260408.shtml)
+
++ [巴基斯坦总理提议：特朗普宽限两周 伊朗开放霍尔木兹海峡两周](https://news.cctv.com/2026/04/08/ARTICtBkDztQkUFzxEMGQYBU260408.shtml)
+
++ [伊朗布什尔核电站：正在安全稳定运行并持续供电](https://news.cctv.com/2026/04/08/ARTILFbVjta8z3YZny9cX1If260408.shtml)
+
