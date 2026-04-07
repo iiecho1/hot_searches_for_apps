@@ -189,3 +189,9 @@
 
 + [伊朗代表：特朗普“战争性言论”可能煽动恐怖主义](https://news.cctv.com/2026/04/07/ARTI7AlJ8gHpV0UlyGsdrWRA260407.shtml)
 
++ [国际观察丨四个“没料到”，特朗普政府很焦虑](https://news.cctv.com/2026/04/07/ARTIGuravJ2BP0A6MRZItNCe260407.shtml)
+
++ [美国众议院民主党议员推动弹劾防长赫格塞思](https://news.cctv.com/2026/04/07/ARTIQSqxB70ya8ELpgvoSUz3260407.shtml)
+
++ [以军已向黎巴嫩南部派出6个师开展地面行动](https://news.cctv.com/2026/04/07/ARTIUqkmmpdaIWOfjQH5jF1L260407.shtml)
+
