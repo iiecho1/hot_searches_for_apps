@@ -135,3 +135,9 @@
 
 + [基于自适应Np, Nc的粒子群PSO+模型预测MPC控制的车辆轨迹跟踪控制研究（Matlab代码实现）](https://blog.csdn.net/weixin_66436111/article/details/159867851)
 
++ [KES 深度解析：OID 与 ROWID 到底怎么用？一篇讲透](https://blog.csdn.net/weixin_43151418/article/details/159885115)
+
++ [Flutter 框架跨平台鸿蒙开发 - 心情天气应用](https://blog.csdn.net/wgh2572701783/article/details/159893923)
+
++ [世界第一个开源可商用 .NET Office 转 PDF 工具/库 - MiniPdf](https://blog.csdn.net/NNv0DEv20/article/details/159864868)
+
