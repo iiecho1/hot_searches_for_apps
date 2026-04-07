@@ -193,3 +193,7 @@
 
 + [伊朗布什尔核电站：正在安全稳定运行并持续供电](https://news.cctv.com/2026/04/08/ARTILFbVjta8z3YZny9cX1If260408.shtml)
 
++ [俄总统新闻秘书说世界能源市场“已发生重大变化”](https://news.cctv.com/2026/04/08/ARTIrKEaABMTP0s8082HpeEv260408.shtml)
+
++ [特朗普同意停火两周](https://news.cctv.com/2026/04/08/ARTI8CSieG8rn0f722pLFFsS260408.shtml)
+
