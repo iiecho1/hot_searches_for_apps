@@ -117,3 +117,7 @@
 
 + [一文讲透无人机控制器：从刚体建模、PID、SO(3) 到 PX4 实机控制](https://blog.csdn.net/zooo520/article/details/159886741)
 
++ [从零搭建YOLO26火焰烟雾检测系统：数据集构建、模型训练与部署全流程（免费获取模型）](https://blog.csdn.net/m0_68036862/article/details/159919854)
+
++ [从连接到智联：2026物联网新政下的产业重构与机遇](https://blog.csdn.net/IOT5570/article/details/159790963)
+

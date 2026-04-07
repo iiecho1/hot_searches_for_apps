@@ -159,3 +159,11 @@
 
 + [北美观察丨特朗普再发48小时警告 一边想收尾一边制造不确定性](https://news.cctv.com/2026/04/05/ARTI5bfFGHeBJ5B3sdXBTMzl260405.shtml)
 
++ [古特雷斯对威胁伊朗言论深感不安 反对以军事目的伤害平民](https://news.cctv.com/2026/04/08/ARTIrJZwTZhrYDgEoErW7PQh260408.shtml)
+
++ [我驻卡塔尔大使馆提醒在卡中国公民加强安全防范](https://news.cctv.com/2026/04/08/ARTIlJeAUcE33CNM37Fen6HS260408.shtml)
+
++ [白宫称美伊谈判进展“只有总统知道实际情况”](https://news.cctv.com/2026/04/08/ARTIkFBwVImmYj4lOeT7vPMA260408.shtml)
+
++ [德国西部城市突发枪击事件 一名女警受伤](https://news.cctv.com/2026/04/08/ARTIF1BIEV4hlZThBrsPqbya260408.shtml)
+
