@@ -101,3 +101,19 @@
 
 + [【西瓜带你学设计模式 | 第十四期 - 享元模式】享元模式 —— 内外状态分离与对象共享实现、优缺点与适用场景](https://blog.csdn.net/2501_93491346/article/details/159919584)
 
++ [Scala 和 Spark 大数据分析（五）](https://blog.csdn.net/wizardforcel/article/details/159896827)
+
++ [Flink Agent：ActionTask 与可续跑状态机 (Coroutine/Continuation)](https://blog.csdn.net/lifallen/article/details/159887106)
+
++ [macbook 配置claude code 通过copilot api调用 claude模型及gpt模型](https://blog.csdn.net/JAVA_HOME_NEW/article/details/159893633)
+
++ [Vue3 —— 监听器 (watch/watchEffect) 与 Props 组件通信](https://blog.csdn.net/2401_83519807/article/details/159887800)
+
++ [开源的AI编程工作站HolyClaude](https://blog.csdn.net/wbsu2004/article/details/159855293)
+
++ [.NET 10 打造 OpenClaw Windows Node](https://blog.csdn.net/ApjRvH3vg/article/details/159856210)
+
++ [吃透 TCP 核心原理：从握手挥手到滑动窗口与拥塞控制](https://blog.csdn.net/2402_88025959/article/details/159925086)
+
++ [一文讲透无人机控制器：从刚体建模、PID、SO(3) 到 PX4 实机控制](https://blog.csdn.net/zooo520/article/details/159886741)
+
