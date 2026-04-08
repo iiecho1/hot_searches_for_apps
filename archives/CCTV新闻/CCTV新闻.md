@@ -225,3 +225,7 @@
 
 + [特朗普称霍尔木兹海峡将创造“巨大财富”](https://news.cctv.com/2026/04/08/ARTIzFFFCZgaUuZadAvPUwVG260408.shtml)
 
++ [伊朗议长将率团与美国谈判 美方由副总统万斯率团](https://news.cctv.com/2026/04/08/ARTIpIwEiIEyEDVrj7KXWZ9h260408.shtml)
+
++ [伊朗最高国家安全委员会：保持团结对落实胜利成果至关重要](https://news.cctv.com/2026/04/08/ARTIfw4ecipXW3vC6DXBISlG260408.shtml)
+

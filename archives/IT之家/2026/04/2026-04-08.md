@@ -55,3 +55,19 @@
 
 + [小米胡馨心“内部揭秘”REDMI K90 Max：行业罕有金属轴承、金属散热鳍片，新机本月登场](https://m.ithome.com/html/936700.htm)
 
++ [DeepSeek 上线专家模式](https://m.ithome.com/html/936763.htm)
+
++ [苹果 iPhone Fold、iPhone 18 Pro / Max 机模曝光](https://m.ithome.com/html/936764.htm)
+
++ [消息称苹果 MacBook Neo 热销致 A18 Pro 库存告急，面临成本与产能双重压力](https://m.ithome.com/html/936748.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.328 SP52 补丁包开推，锁屏播控中心沉浸光感视效“无边框”问题已修复](https://m.ithome.com/html/936715.htm)
+
++ [小米 REDMI K90 Max 手机“太空银”外观揭晓：冷调银色机身 + 铝合金中框](https://m.ithome.com/html/936790.htm)
+
++ [曝京东全面拦截员工使用外部 AI，美团内部开始限制阿里 Qwen 模型](https://m.ithome.com/html/936896.htm)
+
++ [2026 年五一劳动节假期 5 月 1 日至 5 日放假五天，七座及以下小客车出行可享高速免费通行政策](https://m.ithome.com/html/936623.htm)
+
++ [小米官宣计划 6 款充电宝升级新品，全面满足新国标全项要求](https://m.ithome.com/html/936920.htm)
+

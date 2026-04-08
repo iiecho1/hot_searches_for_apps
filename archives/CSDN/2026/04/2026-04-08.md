@@ -169,3 +169,13 @@
 
 + [【Linux篇】应用层协议HTTP](https://blog.csdn.net/2301_81290732/article/details/157181646)
 
++ [Go 并发高频十问：goroutine 与线程的区别是什么？select 底层原理是什么？](https://blog.csdn.net/2302_80067378/article/details/159930156)
+
++ [从数学裂缝到调用管线：几何内核的补丁分布逻辑与分层设计](https://blog.csdn.net/qq_43689451/article/details/159947353)
+
++ [HarmonyOS 5.0企业级办公APP开发实战：基于元服务的轻量化协同办公与智能会议系统](https://blog.csdn.net/u014727709/article/details/159806021)
+
++ [【花雕动手做】ESP32-S3 + MimiClaw 实战：通过飞书自然语言控制 SG90 舵机](https://blog.csdn.net/weixin_41659040/article/details/159923654)
+
++ [计算机网络 之 【UDP协议】（UDP报文格式及特点、UDP内核实现简介、UDP VS TCP）](https://blog.csdn.net/zl_dfq/article/details/159859806)
+
