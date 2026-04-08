@@ -23,3 +23,11 @@
 
 + [有房子，但位置有点偏僻，是否还要买房](https://www.v2ex.com/t/1203951)
 
++ [记一次老婆 iPhone 手机锁屏密码忘记，输错 10 次停用，然后只能抹除手机的悲伤故事。](https://www.v2ex.com/t/1204079)
+
++ [ChatGPT/Claude/Gemini 代充值，评论区留言钱包地址随机空投 15 份 200 个$v2ex 合计 3000 个 V2EX 代币](https://www.v2ex.com/t/1203948)
+
++ [国产大模型 coding plan 每个都是售罄？](https://www.v2ex.com/t/1203973)
+
++ [打算下周去做鼻中隔手术了， v 友有啥建议吗](https://www.v2ex.com/t/1203953)
+
