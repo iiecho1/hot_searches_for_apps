@@ -197,3 +197,23 @@
 
 + [特朗普同意停火两周](https://news.cctv.com/2026/04/08/ARTI8CSieG8rn0f722pLFFsS260408.shtml)
 
++ [受中东战事影响 欧元区经济活动显著放缓、滞胀风险加剧](https://news.cctv.com/2026/04/08/ARTIMBoxkwYeFu7aI2o4jnfU260408.shtml)
+
++ [特朗普说伊朗铀浓缩问题将“得到完美处理”](https://news.cctv.com/2026/04/08/ARTIg6B0KBCOB5cfa8JSHGuX260408.shtml)
+
++ [内塔尼亚胡：支持特朗普对伊朗停火决定 但不包括黎巴嫩](https://news.cctv.com/2026/04/08/ARTIgqGPSm2KRc7S0rk1aO4w260408.shtml)
+
++ [杀害手无寸铁的阿富汗平民　澳“英雄老兵”涉嫌犯下战争罪](https://news.cctv.com/2026/04/08/ARTIjQtu6xIuqJxUpuCPiXor260408.shtml)
+
++ [日本川崎市钢铁厂脚手架倒塌事故已致3人死亡](https://news.cctv.com/2026/04/08/ARTIXDbPFuMtnn8J0DPsgeMV260408.shtml)
+
++ [美称以色列总理承诺尊重停火暂停攻击](https://news.cctv.com/2026/04/08/ARTITQJ5NM1WnR4zknLT58Ja260408.shtml)
+
++ [美伊停火消息推动金银价格大涨](https://news.cctv.com/2026/04/08/ARTIDOwJIIy4n8tdEbeWQk5J260408.shtml)
+
++ [美国防部将就对伊“史诗怒火”军事行动举行新闻发布会](https://news.cctv.com/2026/04/08/ARTI0hLdiNPsjM030ddyzQql260408.shtml)
+
++ [伊朗说同意谈判但对美国“完全不信任”](https://news.cctv.com/2026/04/08/ARTIzaLUp8qnCxkNFJusAmwM260408.shtml)
+
++ [特朗普称对伊朗停火两周 国际油价盘中暴跌近20%](https://news.cctv.com/2026/04/08/ARTI8e1iPhSCi2AAFlgXVNlD260408.shtml)
+

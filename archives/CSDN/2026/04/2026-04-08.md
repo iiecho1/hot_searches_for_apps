@@ -121,3 +121,41 @@
 
 + [从连接到智联：2026物联网新政下的产业重构与机遇](https://blog.csdn.net/IOT5570/article/details/159790963)
 
++ [玩转PyTorch：detach函数破解自动微分张量转numpy难题](https://blog.csdn.net/2503_92624912/article/details/159938664)
+
++ [【Coze-AI智能体平台】Coze OpenAPI 开发手册：鉴权、接口调用与 SDK 实践](https://blog.csdn.net/2401_87342824/article/details/159819765)
+
++ [OpenClaw TTS 语音合成详解：让 AI 助手开口说话](https://blog.csdn.net/sinat_41617212/article/details/159893391)
+
++ [Oracle 替代工程实践深度解析：金仓全链路工程实践 —— 从评估决策到平滑上线的深度技术攻坚](https://blog.csdn.net/qq_57761637/article/details/159932412)
+
++ [HarmonyOS 6 AI能力实战1：小艺接入openclaw智能体](https://blog.csdn.net/sjw890821sjw/article/details/159882323)
+
++ [不是再做一个聊天框，ToClaw把 AI 真正放进你的桌面](https://blog.csdn.net/2301_81152266/article/details/159918960)
+
++ [基于 QGIS 的经销网点空间制图：张雪机车全国门店可视化案例](https://blog.csdn.net/yelangkingwuzuhu/article/details/159930998)
+
++ [【LE Audio】ASCS精讲[2]: 从服务架构到流控实操 解锁蓝牙音频核心](https://blog.csdn.net/weixin_37800531/article/details/159852399)
+
++ [【第五章 高等数学】定积分](https://blog.csdn.net/he_zhidan/article/details/159130575)
+
++ [【计算机网络】简学深悟启示录：网络层](https://blog.csdn.net/Zero_VPN/article/details/157507193)
+
++ [微信小程序实战：趣味心理测试小程序](https://blog.csdn.net/weixin_68464349/article/details/159904510)
+
++ [Android 无线投屏相关知识介绍](https://blog.csdn.net/wenzhi20102321/article/details/159887898)
+
++ [GPT-5.4 vs Claude Opus 4.6 实测对比：2026 年该选哪个模型写代码？](https://blog.csdn.net/ofoxcoding/article/details/159880164)
+
++ [前端实时通信技术：HTTP轮询、SSE、WebSocket、WebRTC](https://blog.csdn.net/qq_36710118/article/details/159896136)
+
++ [微服务下的跨域问题](https://blog.csdn.net/ly1h1/article/details/159891553)
+
++ [实训4 ETL构建中间层](https://blog.csdn.net/qq_41839921/article/details/159932319)
+
++ [Codex / OpenCode / Cursor / OpenClaw 对比指南](https://blog.csdn.net/qq_41678239/article/details/159896040)
+
++ [Spring事务操作全解析](https://blog.csdn.net/2401_89176842/article/details/159394345)
+
++ [基于 Selenium + POM 模式的聊天室系统 UI 自动化测试框架搭建与实践](https://blog.csdn.net/whxcmy/article/details/159888748)
+
