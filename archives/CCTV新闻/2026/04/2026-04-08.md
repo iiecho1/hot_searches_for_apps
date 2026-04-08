@@ -217,3 +217,11 @@
 
 + [特朗普称对伊朗停火两周 国际油价盘中暴跌近20%](https://news.cctv.com/2026/04/08/ARTI8e1iPhSCi2AAFlgXVNlD260408.shtml)
 
++ [韩日称朝鲜再次发射不明弹道导弹 朝方暂无回应](https://news.cctv.com/2026/04/08/ARTIkBmtIfMWhfcFkpSaxdIE260408.shtml)
+
++ [马克龙呼吁捍卫多边主义应对全球卫生健康问题](https://news.cctv.com/2026/04/08/ARTIO80ullKxyULnIpLs3w1E260408.shtml)
+
++ [美载人绕月飞船开始返回地球之旅](https://news.cctv.com/2026/04/08/ARTIu7IRI3s0C4VuDbGbeqdV260408.shtml)
+
++ [特朗普称霍尔木兹海峡将创造“巨大财富”](https://news.cctv.com/2026/04/08/ARTIzFFFCZgaUuZadAvPUwVG260408.shtml)
+
