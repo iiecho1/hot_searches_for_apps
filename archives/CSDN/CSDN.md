@@ -101,3 +101,39 @@
 
 + [2026最新稳定中转API推荐：国内如何直连GPT、Claude与Gemini](https://blog.csdn.net/2601_95710268/article/details/159923954)
 
++ [OpenClaw TTS 语音合成详解：让 AI 助手开口说话](https://blog.csdn.net/sinat_41617212/article/details/159893391)
+
++ [AI超级大脑：RAG技术深度剖析](https://blog.csdn.net/Mister_A_/article/details/159964844)
+
++ [基于 QGIS 的经销网点空间制图：张雪机车全国门店可视化案例](https://blog.csdn.net/yelangkingwuzuhu/article/details/159930998)
+
++ [【HFP】规范精讲[20]: mSBC codec深度解析，宽频语音的幕后功臣](https://blog.csdn.net/weixin_37800531/article/details/159852501)
+
++ [【计算机网络】简学深悟启示录：网络层](https://blog.csdn.net/Zero_VPN/article/details/157507193)
+
++ [流批一体架构下的时序数据库选型：Apache IoTDB实时计算能力深度解析与国际化对比](https://blog.csdn.net/liu_chen_yang/article/details/159916227)
+
++ [Elasticsearch：语义搜索，现在默认支持多语言](https://blog.csdn.net/UbuntuTouch/article/details/159939341)
+
++ [【Linux篇】应用层协议HTTP](https://blog.csdn.net/2301_81290732/article/details/157181646)
+
++ [【Linux】IP协议](https://blog.csdn.net/2403_87165176/article/details/159553788)
+
++ [Qt5.15+VTK9.3.0实现点云点选功能](https://blog.csdn.net/knighthood2001/article/details/159932187)
+
++ [为什么 Claude Code 选择 Bun 而非 Node.js？—— 运行时选型的技术考量](https://blog.csdn.net/fzil001/article/details/159932031)
+
++ [Web之深入解析Cookie的安全防御与跨域实践](https://blog.csdn.net/Forever_wj/article/details/159956756)
+
++ [MySQL核心考点：存储引擎区别+视图详解](https://blog.csdn.net/sfyyyyy/article/details/159931929)
+
++ [HarmonyOS 5.0 PC应用开发实战：构建跨设备协同的桌面生产力工具](https://blog.csdn.net/u014727709/article/details/159929510)
+
++ [音谷 - AI 多角色多情绪配音平台 github开源的多角色、多情绪 AI 配音生成平台，支持小说、剧本、视频等内容的自动配音与导出。](https://blog.csdn.net/u010093380/article/details/159885232)
+
++ [Docker 一键部署脚本（CentOS7/AlmaLinux9）+ Ansible Playbook](https://blog.csdn.net/lanwp5302/article/details/159931938)
+
++ [GitHub 热榜项目 - 日榜(2026-04-07)](https://blog.csdn.net/u014390502/article/details/159905396)
+
++ [「码动四季·开源同行」go语言：微服务网关如何作为服务端统一入口点？](https://blog.csdn.net/2302_77582029/article/details/159951973)
+
