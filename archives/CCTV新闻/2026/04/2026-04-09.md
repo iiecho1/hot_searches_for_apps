@@ -161,3 +161,7 @@
 
 + [泰国新一任内阁成员宣誓就职](https://news.cctv.com/2026/04/06/ARTIPtGSXOtzdvf48jfDdTgM260406.shtml)
 
++ [伊朗公布霍尔木兹海峡安全航路图](https://news.cctv.com/2026/04/09/ARTIpKGAiknFsDvnYnizfVMw260409.shtml)
+
++ [霍尔木兹海峡已再次关闭](https://news.cctv.com/2026/04/09/ARTIEPSoJyAEW81jDAsWXhVu260409.shtml)
+
