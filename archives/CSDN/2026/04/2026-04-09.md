@@ -139,3 +139,7 @@
 
 + [HarmonyOS鸿蒙PC的QT应用开发：QT项目运行原理与 EmbeddedUIExtensionAbility介绍](https://blog.csdn.net/qq8864/article/details/159956818)
 
++ [2026 年 GEO 生成式引擎优化白皮书：AI 搜索重塑流量规则与企业增长逻辑](https://blog.csdn.net/weixin_67338553/article/details/159950117)
+
++ [AutoGen 自定义代理：打造符合企业需求的个性化 Agent 协作网络](https://blog.csdn.net/universsky2015/article/details/159967600)
+
