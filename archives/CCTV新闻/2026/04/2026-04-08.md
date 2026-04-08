@@ -243,3 +243,9 @@
 
 + [欧盟敦促以色列尽快停止针对黎巴嫩的军事行动](https://news.cctv.com/2026/04/08/ARTI11YpSonUszERxetkt8vH260408.shtml)
 
++ [闯馆事件：逃避敷衍换不来信任，反思整改才是正途](https://news.cctv.com/2026/04/08/ARTI9XgGdHrUkLjMg7pTJwxk260408.shtml)
+
++ [日本学者：警惕日本右倾化风险 守护地区和平稳定](https://news.cctv.com/2026/04/08/ARTIwURVFIzIzWWJkj8Hlo74260408.shtml)
+
++ [外企看“十五五”开局之年：投资中国就是投资未来](https://news.cctv.com/2026/04/08/ARTIjUMXXMZO3KavHHvEqP0n260408.shtml)
+

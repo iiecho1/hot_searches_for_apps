@@ -193,3 +193,11 @@
 
 + [.NET 自带一套 可视化窗体设计器，如何快速开发迷你IDE](https://blog.csdn.net/xiaoyao961/article/details/159916945)
 
++ [电子python模拟出的一个完美风暴](https://blog.csdn.net/wjcroom/article/details/159931660)
+
++ [Web之深入解析Cookie的安全防御与跨域实践](https://blog.csdn.net/Forever_wj/article/details/159956756)
+
++ [深度剖析 KES 行标识体系：OID 与 ROWID 核心原理、实战案例及性能优化](https://blog.csdn.net/beautifulmemory/article/details/159932182)
+
++ [2026 Global Distributed Energy Resources Market Trends｜分布式能源DER产业趋势与技术结构演进](https://blog.csdn.net/2301_78118975/article/details/159923068)
+

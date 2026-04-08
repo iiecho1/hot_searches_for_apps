@@ -65,3 +65,5 @@
 
 + [antigravity 似乎又崩了](https://www.v2ex.com/t/1204205)
 
++ [公司要开 AI 分享会，求一些 idea](https://www.v2ex.com/t/1204230)
+
