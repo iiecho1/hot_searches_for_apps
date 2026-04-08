@@ -19,3 +19,11 @@
 
 + [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)
 
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [newton-physics/newton](https://github.com/newton-physics/newton)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
++ [goharbor/harbor](https://github.com/goharbor/harbor)
+

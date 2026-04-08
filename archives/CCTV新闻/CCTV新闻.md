@@ -235,3 +235,7 @@
 
 + [以色列国防军宣布暂停打击伊朗](https://military.cctv.com/2026/04/08/ARTIrNBlpXCpjDQ9ACKnKtvQ260408.shtml)
 
++ [阿曼称已签署不对霍尔木兹海峡通行船只收费的协议](https://news.cctv.com/2026/04/08/ARTIj9uFtWpvM1yZWMC2FYcM260408.shtml)
+
++ [特朗普称能轻易恢复对伊朗动武](https://news.cctv.com/2026/04/08/ARTIQeXBd6Q3zDakmB2Y0JXE260408.shtml)
+
