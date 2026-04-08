@@ -165,3 +165,11 @@
 
 + [霍尔木兹海峡已再次关闭](https://news.cctv.com/2026/04/09/ARTIEPSoJyAEW81jDAsWXhVu260409.shtml)
 
++ [马克龙与伊美黎领导人通话 呼吁停火范围应包括黎巴嫩](https://news.cctv.com/2026/04/09/ARTIUUW46AuwrK5k4FSXkvYW260409.shtml)
+
++ [内塔尼亚胡称以色列“随时准备重返战场”](https://news.cctv.com/2026/04/09/ARTIn5wL3tiaasxlD5LWgfQr260409.shtml)
+
++ [伊朗称“十点计划”中的三项被违反 “谈判基础”已被破坏](https://news.cctv.com/2026/04/09/ARTIBLhoL2F8qLmEhBt8Ai1T260409.shtml)
+
++ [美政府被曝考虑从部分北约国家撤出军事部署](https://news.cctv.com/2026/04/09/ARTIRPOJHgBoaSjFKm4mfg28260409.shtml)
+
