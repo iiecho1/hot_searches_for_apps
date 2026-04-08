@@ -25,3 +25,17 @@
 
 + [小米官宣计划 6 款充电宝升级新品，全面满足新国标全项要求](https://m.ithome.com/html/936920.htm)
 
++ [B站视频播放页暂停广告官宣 4 月 10 日上线](https://m.ithome.com/html/937024.htm)
+
++ [华为余承东批评团队零售设计没做好：核心原因出在审美上](https://m.ithome.com/html/937014.htm)
+
++ [《黑袍纠察队》最终季首播，前两集已上线亚马逊 Prime Video](https://m.ithome.com/html/937109.htm)
+
++ [7999 → 5090 元国补新低：iPhone Air 直降 12 期免息，换新低至 4290 元](https://m.ithome.com/html/936815.htm)
+
++ [国补 12 期免息：M5 MacBook Air 16+512G 京东 6544 元起再补货，换新加贴 1000 元](https://m.ithome.com/html/936919.htm)
+
++ [小米 REDMI K Pad 2 小平板官宣本月发布：9100mAh 电池、天玑 9500](https://m.ithome.com/html/936828.htm)
+
++ [微信官方详解：三个能“滑着用”的细节功能](https://m.ithome.com/html/936924.htm)
+
