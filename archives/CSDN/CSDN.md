@@ -137,3 +137,5 @@
 
 + [「码动四季·开源同行」go语言：微服务网关如何作为服务端统一入口点？](https://blog.csdn.net/2302_77582029/article/details/159951973)
 
++ [HarmonyOS鸿蒙PC的QT应用开发：QT项目运行原理与 EmbeddedUIExtensionAbility介绍](https://blog.csdn.net/qq8864/article/details/159956818)
+
