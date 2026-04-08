@@ -239,3 +239,5 @@
 
 + [特朗普称能轻易恢复对伊朗动武](https://news.cctv.com/2026/04/08/ARTIQeXBd6Q3zDakmB2Y0JXE260408.shtml)
 
++ [伊朗总统：停火是伊朗民众共同努力的结果](https://news.cctv.com/2026/04/08/ARTINsm9SqeGrQ5cnKm5qNLp260408.shtml)
+
