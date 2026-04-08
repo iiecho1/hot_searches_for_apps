@@ -241,3 +241,5 @@
 
 + [伊朗总统：停火是伊朗民众共同努力的结果](https://news.cctv.com/2026/04/08/ARTINsm9SqeGrQ5cnKm5qNLp260408.shtml)
 
++ [欧盟敦促以色列尽快停止针对黎巴嫩的军事行动](https://news.cctv.com/2026/04/08/ARTI11YpSonUszERxetkt8vH260408.shtml)
+
