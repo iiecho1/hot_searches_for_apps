@@ -179,3 +179,15 @@
 
 + [计算机网络 之 【UDP协议】（UDP报文格式及特点、UDP内核实现简介、UDP VS TCP）](https://blog.csdn.net/zl_dfq/article/details/159859806)
 
++ [从 0 开发一个鸿蒙小游戏（完整实战）](https://blog.csdn.net/qq_36863796/article/details/159922361)
+
++ [SQL 注入：从原理到实战的完整指南](https://blog.csdn.net/2303_80676760/article/details/159931716)
+
++ [嵌入式硬件第九弹——ARM（5）](https://blog.csdn.net/2601_94959901/article/details/159931178)
+
++ [电源电路&稳压电路](https://blog.csdn.net/qq_50930131/article/details/159928414)
+
++ [Mac本地部署大模型｜Ollama+Gemma4/Qwen3.5新手零失败教程，彻底告别Token消耗✨](https://blog.csdn.net/u010359778/article/details/159891725)
+
++ [【系统架构师-案例题-软件架构（架构风格、系统架构）-分布式系统（高）】Web Elasticsearch分词的商品推荐系统](https://blog.csdn.net/hiliang521/article/details/159931832)
+

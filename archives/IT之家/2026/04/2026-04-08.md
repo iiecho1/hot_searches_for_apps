@@ -71,3 +71,7 @@
 
 + [小米官宣计划 6 款充电宝升级新品，全面满足新国标全项要求](https://m.ithome.com/html/936920.htm)
 
++ [7999 → 5090 元国补新低：iPhone Air 直降 12 期免息，换新低至 4290 元](https://m.ithome.com/html/936815.htm)
+
++ [HiCar 互联来了：华为畅享 90 Pro Max 手机获鸿蒙 HarmonyOS 6.0.0.138 SP23 升级](https://m.ithome.com/html/936679.htm)
+

@@ -229,3 +229,9 @@
 
 + [伊朗最高国家安全委员会：保持团结对落实胜利成果至关重要](https://news.cctv.com/2026/04/08/ARTIfw4ecipXW3vC6DXBISlG260408.shtml)
 
++ [里海发生5.5级地震，震源深度10千米](https://news.cctv.com/2026/04/08/ARTIzw7lM3RZgQFlb4sDzPyf260408.shtml)
+
++ [韩国前总统尹锡悦妻子金建希首案二审被求刑15年](https://news.cctv.com/2026/04/08/ARTIxYOzXJpa7gPX3vFoq085260408.shtml)
+
++ [以色列国防军宣布暂停打击伊朗](https://military.cctv.com/2026/04/08/ARTIrNBlpXCpjDQ9ACKnKtvQ260408.shtml)
+
