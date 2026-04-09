@@ -123,3 +123,11 @@
 
 + [GPT-6 Spud深度解析：Symphony架构、双系统推理与OpenAI的AGI豪赌](https://blog.csdn.net/xyghehehehe/article/details/159979100)
 
++ [基于深度学习的草莓健康度检测系统演示与介绍(YOLOv12/v11/v8/v5模型+Django+web+训练代码+数据集)](https://blog.csdn.net/ningfoshao8678/article/details/159914234)
+
++ [在DGX-Spark上多模态模型gemma-4-31B-it vLLM部署](https://blog.csdn.net/weixin_69334636/article/details/159923330)
+
++ [2026年GitHub中比较热门的skills技能](https://blog.csdn.net/2301_76444133/article/details/159922005)
+
++ [Flask 框架](https://blog.csdn.net/qq_55004482/article/details/159957247)
+
