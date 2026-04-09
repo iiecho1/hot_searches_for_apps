@@ -207,3 +207,7 @@
 
 + [伊朗伊斯兰革命卫队：“复仇不会停止”](https://news.cctv.com/2026/04/09/ARTIuPPWPkOak5le4lM5kQQp260409.shtml)
 
++ [国际观察：无惧全球“油荒” 中国何以保持能源市场定力与韧性？](https://news.cctv.com/2026/04/09/ARTIfant44rbaaEwlSQEuuHx260409.shtml)
+
++ [日本东京3万人集会抗议高市政府破坏和平宪法](https://news.cctv.com/2026/04/09/ARTIR5OKOZnossjhHGUX42Dy260409.shtml)
+
