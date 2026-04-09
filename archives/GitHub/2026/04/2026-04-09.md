@@ -23,3 +23,17 @@
 
 + [goharbor/harbor](https://github.com/goharbor/harbor)
 
++ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
++ [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
++ [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
++ [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+
++ [coleam00/Archon](https://github.com/coleam00/Archon)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [YishenTu/claudian](https://github.com/YishenTu/claudian)
+
