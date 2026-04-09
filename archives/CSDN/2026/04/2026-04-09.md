@@ -145,3 +145,31 @@
 
 + [Boost搜索引擎：正倒排索引实战解析](https://blog.csdn.net/q_438141/article/details/159968825)
 
++ [OpenClaw“养龙虾“热潮降温的深层解析：从技术狂欢到理性回归](https://blog.csdn.net/qq_42055933/article/details/159896019)
+
++ [【实战篇】神经网络在回归任务中的应用](https://blog.csdn.net/dongke1991/article/details/159960834)
+
++ [Android16进阶之MediaRecorder.setPreferredMicrophoneFieldDimension调用流程与实战(二百七十三)](https://blog.csdn.net/u010164190/article/details/159728082)
+
++ [claw-code 源码分析：从 REPL 到服务端——CLI / HTTP(SSE) / LSP 多入口如何共享同一颗 runtime 心？](https://blog.csdn.net/cui_yonghua/article/details/159965280)
+
++ [企业园区网核心：交换机VLAN间路由配置超详细教程（单臂路由+三层交换）](https://blog.csdn.net/qq_41840843/article/details/159954244)
+
++ [将 Logstash 管道从 Azure Event Hubs 迁移到 Kafka 输入插件](https://blog.csdn.net/UbuntuTouch/article/details/159905397)
+
++ [【微信小程序实验】第4章 小程序组件-趣味心理测试小程序](https://blog.csdn.net/ascfsdv/article/details/159933345)
+
++ [世毫九α-9活系统公理体系（正式公理化版本）AGI理论研究框架（修订版）](https://blog.csdn.net/weixin_50059478/article/details/159939987)
+
++ [Go语言中的CI/CD：从GitHub Actions到Jenkins](https://blog.csdn.net/baronbool/article/details/159955046)
+
++ [以太坊交易全流程详解](https://blog.csdn.net/weixin_38717458/article/details/159927688)
+
++ [HarmonyOS 5.0游戏开发实战：构建高性能2D休闲游戏引擎与 monetization 系统](https://blog.csdn.net/u014727709/article/details/159966262)
+
++ [Flutter for OpenHarmony三方库适配实战：flutter_tts 文字转语音](https://blog.csdn.net/qq_61024956/article/details/159965163)
+
++ [我做了个Skill，专门用来自动生成测试用例：一个测试Agent的诞生](https://blog.csdn.net/CeshirenTester/article/details/159962220)
+
++ [2026年GitHub中比较热门的skills技能](https://blog.csdn.net/2301_76444133/article/details/159922005)
+

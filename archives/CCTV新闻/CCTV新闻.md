@@ -173,3 +173,17 @@
 
 + [美政府被曝考虑从部分北约国家撤出军事部署](https://news.cctv.com/2026/04/09/ARTIRPOJHgBoaSjFKm4mfg28260409.shtml)
 
++ [特朗普说美媒披露的伊方10项停火条款是“假新闻”](https://news.cctv.com/2026/04/09/ARTIH5FOTTlcZ5FSiPLE0c6O260409.shtml)
+
++ [菲律宾坎拉翁火山发生喷发 灰柱达1200米](https://news.cctv.com/2026/04/09/ARTI07K49SSoL8Pn9jFBoZzY260409.shtml)
+
++ [特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围](https://news.cctv.com/2026/04/09/ARTIR2ElCzMNpeNXsKRVcHMo260409.shtml)
+
++ [除北部以黎边境外 以色列恢复“全面活动”状态](https://news.cctv.com/2026/04/09/ARTI4QPcL6Mq8FkAlVVi0bGX260409.shtml)
+
++ [朝鲜近日进行多项武器系统试验](https://news.cctv.com/2026/04/09/ARTI4H744Dmlx6nnl5abOynH260409.shtml)
+
++ [北约秘书长：特朗普对北约盟友的失望“很明显”](https://news.cctv.com/2026/04/09/ARTITzmQ4kpbPCVmxrjJnqhW260409.shtml)
+
++ [巴基斯坦总理发文感谢多国支持促成美伊停火](https://news.cctv.com/2026/04/09/ARTIjeOtxLCG7m7kWFlxuCaS260409.shtml)
+
