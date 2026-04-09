@@ -187,3 +187,7 @@
 
 + [巴基斯坦总理发文感谢多国支持促成美伊停火](https://news.cctv.com/2026/04/09/ARTIjeOtxLCG7m7kWFlxuCaS260409.shtml)
 
++ [伊朗驻巴基斯坦大使：伊朗代表团9日晚抵达伊斯兰堡](https://news.cctv.com/2026/04/09/ARTIxfcEmazi2NATpGRxvpHW260409.shtml)
+
++ [欧洲金融机构：油价短期难回中东冲突前水平](https://news.cctv.com/2026/04/09/ARTIRL1Ye75W5IsNBIxfcq8j260409.shtml)
+

@@ -35,3 +35,7 @@
 
 + [豆包和 deepseek 最终会向个人收费，你们认为呢](https://www.v2ex.com/t/1204484)
 
++ [大家现在订阅哪个模型？](https://www.v2ex.com/t/1204481)
+
++ [想听听 GLM5 的使用感受](https://www.v2ex.com/t/1204357)
+

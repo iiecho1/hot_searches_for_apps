@@ -173,3 +173,21 @@
 
 + [2026年GitHub中比较热门的skills技能](https://blog.csdn.net/2301_76444133/article/details/159922005)
 
++ [数据库行标识符机制探究：OID、ROWID与自增主键的实现与应用](https://blog.csdn.net/2302_78391795/article/details/159904792)
+
++ [【Unity工具篇】| 游戏完整资源热更新流程，YooAsset官方示例项目](https://blog.csdn.net/zhangay1998/article/details/159460117)
+
++ [ARM Linux 驱动开发篇---Linux字符设备驱动代码阅读指南---附设备树LED驱动实战案例](https://blog.csdn.net/weixin_61186812/article/details/159798731)
+
++ [claw-code 源码分析：cargo 视角的 definitive runtime——会话、压缩、MCP、提示构造如何落到系统语言？](https://blog.csdn.net/cui_yonghua/article/details/159965211)
+
++ [HTTP 与 HTTPS 详解：区别、工作原理、应用场景（超清晰易懂版）](https://blog.csdn.net/qq_41840843/article/details/159954565)
+
++ [如何使用 Mastra 和 Elasticsearch 构建具备代理能力的 AI 应用](https://blog.csdn.net/UbuntuTouch/article/details/159973073)
+
++ [踩过坑才明白：为什么 ZooKeeper 集群才是正经事](https://blog.csdn.net/qq_54796785/article/details/159975716)
+
++ [TextIn xParse+LangChain构建财务审计Agent：自动化合规审核与异常检测](https://blog.csdn.net/INTSIG/article/details/159959976)
+
++ [Spring AI Alibaba 分布式智能体实战：基于 A2A 协议的架构演进与落地](https://blog.csdn.net/qq_47741012/article/details/159955126)
+
