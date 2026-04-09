@@ -131,3 +131,5 @@
 
 + [Flask 框架](https://blog.csdn.net/qq_55004482/article/details/159957247)
 
++ [LangChain重构多Skill Agent系统：智能工具集成实战](https://blog.csdn.net/qq_38998213/article/details/159998495)
+
