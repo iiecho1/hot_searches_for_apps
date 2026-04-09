@@ -199,3 +199,9 @@
 
 + [伊朗军方发言人称击落敌方一架先进战斗机](https://news.cctv.com/2026/04/09/ARTIzN2xWJ6mEj7RaeguJqhu260409.shtml)
 
++ [伊朗发生一起严重车祸 11人死亡](https://news.cctv.com/2026/04/09/ARTIEcAS7zKaOwCHQjjaSNwf260409.shtml)
+
++ [元宇宙平台公司发布新一代人工智能模型](https://news.cctv.com/2026/04/09/ARTIFffoXfzunEMkn3DmPcJF260409.shtml)
+
++ [泽连斯基：愿与普京会面 但不是在莫斯科](https://news.cctv.com/2026/04/09/ARTInTBD2V8yhfaV2okvKbTG260409.shtml)
+

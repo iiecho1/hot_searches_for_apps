@@ -197,3 +197,9 @@
 
 + [P2P 微服务项目架构完整解析](https://blog.csdn.net/2301_77171721/article/details/159930899)
 
++ [Python 实现 AI 图像生成：调用 Stable Diffusion API 完整教程](https://blog.csdn.net/2401_85686768/article/details/159961222)
+
++ [HarmonyOS 6 AI能力实战2：智能带办应用接入智能体框架服务](https://blog.csdn.net/sjw890821sjw/article/details/159973294)
+
++ [GLM5.1-开源模型](https://blog.csdn.net/bq990914/article/details/159975130)
+
