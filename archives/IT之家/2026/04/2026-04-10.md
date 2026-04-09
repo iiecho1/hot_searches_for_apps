@@ -25,3 +25,21 @@
 
 + [微信官方详解：三个能“滑着用”的细节功能](https://m.ithome.com/html/936924.htm)
 
++ [《哪吒 2》全球票房超《泰坦尼克号》跃居影史第四，仅次于《阿凡达 1/2》《复联 4》](https://m.ithome.com/html/937112.htm)
+
++ [华为畅享 90m Plus 手机现身官网：麒麟 8 系芯片、6620mAh 巨鲸电池，独占珊瑚橙配色](https://m.ithome.com/html/937185.htm)
+
++ [古尔曼：苹果推进三年计划，由里到外“重新定义”iPhone](https://m.ithome.com/html/937201.htm)
+
++ [高德地图鸿蒙版 App 业内首发“智能路况提醒”功能，华为畅享 90 Pro Max 已开放体验](https://m.ithome.com/html/937179.htm)
+
++ [苹果 iOS / iPadOS 26.4.1 发布：修复 iCloud 数据同步 Bug](https://m.ithome.com/html/937204.htm)
+
++ [新阿维塔 12 汽车上市：标配华为 896 线激光雷达 / 零百最快 2.71 秒，29.39 万元起](https://m.ithome.com/html/937160.htm)
+
++ [华为 AI 眼镜将至，何刚首曝新机拍摄样张](https://m.ithome.com/html/937128.htm)
+
++ [22.99 万元起，阿维塔 06T 汽车正式开启预售](https://m.ithome.com/html/937170.htm)
+
++ [比亚迪与肯德基达成战略合作，9 分钟实现“车充饱、人吃饱”](https://m.ithome.com/html/937215.htm)
+
