@@ -191,3 +191,11 @@
 
 + [欧洲金融机构：油价短期难回中东冲突前水平](https://news.cctv.com/2026/04/09/ARTIRL1Ye75W5IsNBIxfcq8j260409.shtml)
 
++ [以军称黎真主党领导人纳伊姆·卡西姆死亡 真主党暂未证实](https://news.cctv.com/2026/04/09/ARTIjv1neV45TeusZsuHSqY0260409.shtml)
+
++ [伊朗军方发言人：“已做好长期战争的准备”](https://news.cctv.com/2026/04/09/ARTIScb8rXdRsbB81mT6xKYK260409.shtml)
+
++ [伊朗驻巴基斯坦大使删除伊朗代表团将抵达伊斯兰堡的帖文](https://news.cctv.com/2026/04/09/ARTIpkXcCgjGihSuCulAiBAB260409.shtml)
+
++ [伊朗军方发言人称击落敌方一架先进战斗机](https://news.cctv.com/2026/04/09/ARTIzN2xWJ6mEj7RaeguJqhu260409.shtml)
+

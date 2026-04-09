@@ -191,3 +191,9 @@
 
 + [Spring AI Alibaba 分布式智能体实战：基于 A2A 协议的架构演进与落地](https://blog.csdn.net/qq_47741012/article/details/159955126)
 
++ [突破 Cursor 模型限制：低成本接入 GLM-5 与第三方大模型实践指南](https://blog.csdn.net/2302_78391795/article/details/159904792)
+
++ [03 - DRM子系统与AMDGPU架构](https://blog.csdn.net/shenjunpeng/article/details/156309117)
+
++ [P2P 微服务项目架构完整解析](https://blog.csdn.net/2301_77171721/article/details/159930899)
+
