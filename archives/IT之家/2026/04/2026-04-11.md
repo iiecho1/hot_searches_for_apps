@@ -25,3 +25,15 @@
 
 + [13.98 万元起，吉利银河 M7 SUV 开启预售](https://m.ithome.com/html/937488.htm)
 
++ [华为 Pura 90 系列手机外观首曝：渐变色设计回归，有望主推“橘子海”新色](https://m.ithome.com/html/937607.htm)
+
++ [梁文锋：DeepSeek V4 将于 4 月下旬正式发布](https://m.ithome.com/html/937682.htm)
+
++ [荣耀 &#215; 张雪机车联名合作“第一弹”揭秘：今天帮张雪更换 Magic V6 折叠屏手机，下周还将送 WIN](https://m.ithome.com/html/937562.htm)
+
++ [张雪机车申报三款新摩托，仿赛与复古街车亮相](https://m.ithome.com/html/937585.htm)
+
++ [华为 Pura 系列及全场景新品发布会定档 4 月 20 日，Pura 90 Pro Max 外观公布](https://m.ithome.com/html/937623.htm)
+
++ [华为 Pura 90 Pro / Pro Max 系列手机全系配色公布：橘子海、橘子汽水等](https://m.ithome.com/html/937689.htm)
+
