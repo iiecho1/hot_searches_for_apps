@@ -131,3 +131,13 @@
 
 + [【实战教程】Chrome 启用 Remote Debugging 端口 9222（解决 RPA/WorkBuddy 自动化登录卡住、501 错误）](https://blog.csdn.net/qq_39136135/article/details/159940509)
 
++ [玩转PyTorch：detach函数破解自动微分张量转numpy难题](https://blog.csdn.net/2503_92624912/article/details/159938664)
+
++ [《小而美：持续盈利的经营法则》读书笔记 03｜为什么做得越少的创业者，反而活得越久](https://blog.csdn.net/GODYAD/article/details/159968713)
+
++ [Pygame小游戏——扫雷](https://blog.csdn.net/2511_93048387/article/details/159994673)
+
++ [目前国内主流的AI编程工具](https://blog.csdn.net/maodoudou1217/article/details/160011239)
+
++ [我做了个Skill，专门用来自动生成测试用例：一个测试Agent的诞生](https://blog.csdn.net/CeshirenTester/article/details/159962220)
+
