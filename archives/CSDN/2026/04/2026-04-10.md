@@ -201,3 +201,9 @@
 
 + [单片机架构：CPU、存储器与外设的协同原理](https://blog.csdn.net/qq_26942353/article/details/159991536)
 
++ [MySpeed 自建测速服务器：群晖用户本地网络监控方案](https://blog.csdn.net/2301_80840905/article/details/160026501)
+
++ [Vue导入和注册组件](https://blog.csdn.net/duke_ding2/article/details/159472143)
+
++ [【实践项目】Action 通信控制海龟机器人移动到指定位置](https://blog.csdn.net/hanzq03/article/details/160020020)
+
