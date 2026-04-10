@@ -117,3 +117,17 @@
 
 + [【实践项目】Action 通信控制海龟机器人移动到指定位置](https://blog.csdn.net/hanzq03/article/details/160020020)
 
++ [【实战篇】图像分割-计算图中不同颜色区域的面积比](https://blog.csdn.net/dongke1991/article/details/159997419)
+
++ [【花雕动手做】MimiClaw 集成 WS2812 全彩 LED 灯带实战：从舵机到炫彩灯效的 AI 控制](https://blog.csdn.net/weixin_41659040/article/details/159983471)
+
++ [(第五篇)Spring AI 实战进阶：AI 应用落地的 10 个关键决策（附选型方法论 + 成本控制 + 交付 Checklist）](https://blog.csdn.net/qq_40303030/article/details/157434036)
+
++ [VinkoClaw — NVIDIA Hackathon Submission(一个运行在 NVIDIA DGX Spark 上的本地优先 OPC AI 团队操作系统)](https://blog.csdn.net/m0_62479378/article/details/160023405)
+
++ [如何使用 Mastra 和 Elasticsearch 构建具备代理能力的 AI 应用](https://blog.csdn.net/UbuntuTouch/article/details/159973073)
+
++ [从阻塞 IO 到 epoll：把 Linux 网络 IO 一次讲透](https://blog.csdn.net/m0_68617301/article/details/159997689)
+
++ [【实战教程】Chrome 启用 Remote Debugging 端口 9222（解决 RPA/WorkBuddy 自动化登录卡住、501 错误）](https://blog.csdn.net/qq_39136135/article/details/159940509)
+
