@@ -177,3 +177,5 @@
 
 + [伊朗官员称霍尔木兹海峡过去两天内仍保持关闭状态](https://news.cctv.com/2026/04/11/ARTI93s1nDZaU33pLUNo5dtI260411.shtml)
 
++ [阿富汗西北部发生枪击事件 已致7死13伤](https://news.cctv.com/2026/04/11/ARTI7MDkL5EhlUQ6us9lbgvh260411.shtml)
+
