@@ -171,3 +171,11 @@
 
 + [web安全-waf+免杀](https://blog.csdn.net/m0_73767377/article/details/159955981)
 
++ [用腾讯云轻量服务器部署 OpenClaw，顺手给公司做了个年会抽奖系统](https://blog.csdn.net/weixin_43151418/article/details/160017200)
+
++ [非遗文化传承网站|基于springboot + vue非遗文化传承网站系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/159976706)
+
++ [本地模型 + RAGFlow 构建知识库实操过程](https://blog.csdn.net/dongjing991/article/details/160013395)
+
++ [【搜索引擎】Elasticsearch（二）：基于function_score的搜索排序](https://blog.csdn.net/weixin_48007632/article/details/159989518)
+
