@@ -21,3 +21,13 @@
 
 + [YishenTu/claudian](https://github.com/YishenTu/claudian)
 
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
+
++ [multica-ai/multica](https://github.com/multica-ai/multica)
+
++ [jqlang/jq](https://github.com/jqlang/jq)
+
++ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+
