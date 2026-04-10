@@ -63,3 +63,7 @@
 
 + [13.98 万元起，吉利银河 M7 SUV 开启预售](https://m.ithome.com/html/937488.htm)
 
++ [蔚来 ES9 旗舰 SUV 发布：电池租用预售价 42 万元起，号称“十一年体系创新集大成之作”](https://m.ithome.com/html/937551.htm)
+
++ [（更新：下一代可能不止一家停更超大杯）某厂超大杯无法正常迭代期间暂行策略曝光，Pro Max 或将继承一部分影像能力](https://m.ithome.com/html/937531.htm)
+

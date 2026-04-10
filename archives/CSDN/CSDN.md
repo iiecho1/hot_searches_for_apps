@@ -133,3 +133,7 @@
 
 + [LangChain重构多Skill Agent系统：智能工具集成实战](https://blog.csdn.net/qq_38998213/article/details/159998495)
 
++ [SQL 注入：从原理到实战的完整指南](https://blog.csdn.net/2303_80676760/article/details/159931716)
+
++ [计算机网络 之 【UDP协议】（UDP报文格式及特点、UDP内核实现简介、UDP VS TCP）](https://blog.csdn.net/zl_dfq/article/details/159859806)
+
