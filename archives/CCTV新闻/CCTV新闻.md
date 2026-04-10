@@ -173,3 +173,7 @@
 
 + [特朗普：与伊朗的会谈结果将在24小时内明朗](https://news.cctv.com/2026/04/11/ARTIWR3xpWzLXeLgRwP5O777260411.shtml)
 
++ [巴基斯坦总理：美伊谈判将于11日举行](https://news.cctv.com/2026/04/11/ARTIeBP53AAdubDSJRCs7Dep260411.shtml)
+
++ [伊朗官员称霍尔木兹海峡过去两天内仍保持关闭状态](https://news.cctv.com/2026/04/11/ARTI93s1nDZaU33pLUNo5dtI260411.shtml)
+
