@@ -57,3 +57,5 @@
 
 + [送懒猫微服！送 CodeX 啦！极速内网穿透+AI 编程小主机，出门也能 Vibe Coding](https://www.v2ex.com/t/1204968)
 
++ [有个事想请教： GitHub 上有人用了和我一样的项目名，复刻了一模一样的项目](https://www.v2ex.com/t/1204945)
+

@@ -211,3 +211,9 @@
 
 + [时序数据库选型技术剖析：从写入、存储到查询的五个关键维度](https://blog.csdn.net/lrq13965748542/article/details/159992875)
 
++ [HarmonyOS 鸿蒙PC端 Qt 应用开发：第三方 Qt 开源软件移植指南](https://blog.csdn.net/qq8864/article/details/160032290)
+
++ [装了 QClaw 之后，我卸掉了好几个 Mac 软件](https://blog.csdn.net/Mrxiao_bo/article/details/160031357)
+
++ [企业级数据库存储运维实战：表空间自动创建与存储架构深度优化](https://blog.csdn.net/beautifulmemory/article/details/159982426)
+
