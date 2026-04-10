@@ -199,3 +199,5 @@
 
 + [【GitHub开源】一款极简跨平台 Todo 应用：微信小程序 + Windows 桌面挂件 + 实时同步](https://blog.csdn.net/m0_74183164/article/details/159997829)
 
++ [单片机架构：CPU、存储器与外设的协同原理](https://blog.csdn.net/qq_26942353/article/details/159991536)
+
