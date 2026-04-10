@@ -161,3 +161,15 @@
 
 + [中国代表：不能给使用武力开通行证](https://news.cctv.com/2026/04/08/ARTISlItDh2h5Nu2moOjmN34260408.shtml)
 
++ [伊朗最高领袖发慰问信哀悼其外交政策顾问](https://news.cctv.com/2026/04/11/ARTI6V8QWuFHbTL0qKhlGlpM260411.shtml)
+
++ [以军空袭黎南部一政府大楼致13名安全人员死亡](https://news.cctv.com/2026/04/11/ARTI9jwfuxsjlkABoEgaZww4260411.shtml)
+
++ [西班牙呼吁欧盟成员国暂停与以色列的联系国协定](https://news.cctv.com/2026/04/11/ARTIHbGyog9tKsLJnFkH11lS260411.shtml)
+
++ [特朗普称若未达成协议 将加大对伊朗军事打击](https://news.cctv.com/2026/04/11/ARTItJwYyooY5pFYVVyRvFwl260411.shtml)
+
++ [哥伦比亚申请正式加入南方共同市场](https://news.cctv.com/2026/04/11/ARTIvp9JNGhzIA69yWYUtKM4260411.shtml)
+
++ [特朗普：与伊朗的会谈结果将在24小时内明朗](https://news.cctv.com/2026/04/11/ARTIWR3xpWzLXeLgRwP5O777260411.shtml)
+
