@@ -55,3 +55,5 @@
 
 + [最近都在说网络监管显著升级 大家都受到影响了嘛](https://www.v2ex.com/t/1204919)
 
++ [送懒猫微服！送 CodeX 啦！极速内网穿透+AI 编程小主机，出门也能 Vibe Coding](https://www.v2ex.com/t/1204968)
+
