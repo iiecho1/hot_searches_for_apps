@@ -179,3 +179,5 @@
 
 + [阿富汗西北部发生枪击事件 已致7死13伤](https://news.cctv.com/2026/04/11/ARTI7MDkL5EhlUQ6us9lbgvh260411.shtml)
 
++ [以驻美大使称并未同意与黎真主党讨论停火问题](https://news.cctv.com/2026/04/11/ARTIMPuViLX75qr28tq36IF1260411.shtml)
+

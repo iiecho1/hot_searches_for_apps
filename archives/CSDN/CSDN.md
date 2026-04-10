@@ -143,3 +143,5 @@
 
 + [K8s 网关（Ingress-Nginx/Envoy/云原生网关）20 个高频故障速查手册](https://blog.csdn.net/weixin_43144460/article/details/159955982)
 
++ [Scrapy 分布式爬虫：大规模采集汽车之家电车评论](https://blog.csdn.net/Z_suger7/article/details/159989918)
+
