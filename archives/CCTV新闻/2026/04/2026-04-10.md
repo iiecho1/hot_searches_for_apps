@@ -173,3 +173,11 @@
 
 + [伊朗外交关系战略委员会主席去世](https://news.cctv.com/2026/04/10/ARTIKoA5TnfP4QhoyvJLbemE260410.shtml)
 
++ [伊朗称美以袭击致伊方超7000名妇女及儿童受伤](https://news.cctv.com/2026/04/10/ARTIfNrv7VJF9bWAeHGYnUYk260410.shtml)
+
++ [伊朗副外长：美国“必须在战争与停火之间作出选择”](https://news.cctv.com/2026/04/10/ARTIOuKuSasfufj0VR30kji8260410.shtml)
+
++ [委内瑞拉代总统首次出访 与格林纳达共商“路线图”](https://news.cctv.com/2026/04/10/ARTI7CpRdO84R9XmKbyGQpBv260410.shtml)
+
++ [美国第一夫人否认与爱泼斯坦有任何关联](https://news.cctv.com/2026/04/10/ARTIzotiBZ2z2dRShayTRUEJ260410.shtml)
+

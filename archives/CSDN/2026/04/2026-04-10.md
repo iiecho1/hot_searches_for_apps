@@ -137,3 +137,27 @@
 
 + [计算机网络 之 【UDP协议】（UDP报文格式及特点、UDP内核实现简介、UDP VS TCP）](https://blog.csdn.net/zl_dfq/article/details/159859806)
 
++ [PyTorch实战（41）——Hugging Face在PyTorch中的应用](https://blog.csdn.net/LOVEmy134611/article/details/151314813)
+
++ [时序数据库选型指南：可视化与分析协同怎么选？——以 Apache IoTDB + Grafana + 大数据引擎为例](https://blog.csdn.net/2302_78391795/article/details/159916631)
+
++ [【HarmonyOS 6.0】屏幕管理新特性：多屏坐标转换详解](https://blog.csdn.net/weixin_74809706/article/details/159766640)
+
++ [什么是RAG？](https://blog.csdn.net/2401_87638368/article/details/159966452)
+
++ [【第五章 高等数学】定积分](https://blog.csdn.net/he_zhidan/article/details/159130575)
+
++ [吃透 TCP 核心原理：从握手挥手到滑动窗口与拥塞控制](https://blog.csdn.net/2402_88025959/article/details/159925086)
+
++ [单卡 48GB 实测：Gemma 4 26B A4B、Gemma 4 31B、gpt-oss-20b 三模型部署与并发对比](https://blog.csdn.net/weixin_41338279/article/details/159923019)
+
++ [OpenClaw安全：从暴露到加固的实战指南](https://blog.csdn.net/qq_36478920/article/details/159987656)
+
++ [Claude Mythos 深度解析：Anthropic 最强模型发现数千个零日漏洞，网络安全要变天了（2026）](https://blog.csdn.net/ofoxcoding/article/details/159949725)
+
++ [【语音相关ASR】OpenAI 兼容 Qwen_ASR 接口调用实战：SDK 与 HTTP 方式详解](https://blog.csdn.net/qq_45056135/article/details/159967293)
+
++ [IoT 实战：ESP32 连接阿里云平台上传温湿度数据](https://blog.csdn.net/macowl/article/details/159967632)
+
++ [【全网唯一国奖版】2026认证杯B题：新能源园区：微电网—电动车—建筑的协同调度](https://blog.csdn.net/a1552100455/article/details/159995128)
+

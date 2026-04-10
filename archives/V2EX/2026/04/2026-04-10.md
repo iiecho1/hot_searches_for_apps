@@ -29,3 +29,13 @@
 
 + [是不是又又又做了一个不存在的需求的产品，大家提点意见](https://www.v2ex.com/t/1204533)
 
++ [你的 SBTI 是什么？](https://www.v2ex.com/t/1204785)
+
++ [明显感觉最近出来旅游的玩的人比以前多，是我的错觉吗](https://www.v2ex.com/t/1204774)
+
++ [看中了蔚来 ET5T 的电车， 75 度租电，大家觉得如何](https://www.v2ex.com/t/1204799)
+
++ [怎么看待公司强制使用 AI？](https://www.v2ex.com/t/1204686)
+
++ [大家觉得 gemini 和 gpt 哪个好用？](https://www.v2ex.com/t/1204772)
+
