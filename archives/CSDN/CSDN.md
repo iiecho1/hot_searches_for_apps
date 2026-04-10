@@ -141,3 +141,5 @@
 
 + [我做了个Skill，专门用来自动生成测试用例：一个测试Agent的诞生](https://blog.csdn.net/CeshirenTester/article/details/159962220)
 
++ [K8s 网关（Ingress-Nginx/Envoy/云原生网关）20 个高频故障速查手册](https://blog.csdn.net/weixin_43144460/article/details/159955982)
+
