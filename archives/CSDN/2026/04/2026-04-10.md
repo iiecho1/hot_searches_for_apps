@@ -179,3 +179,21 @@
 
 + [【搜索引擎】Elasticsearch（二）：基于function_score的搜索排序](https://blog.csdn.net/weixin_48007632/article/details/159989518)
 
++ [运筹帷幄——在线学习与实时预测系统](https://blog.csdn.net/htw250056/article/details/160018760)
+
++ [PostgreSQL主从复制实战，告别单点故障，附主从切换与延迟监控命令。](https://blog.csdn.net/2401_82648291/article/details/160020693)
+
++ [鸿蒙游戏开发的正确分层方式](https://blog.csdn.net/qq_36863796/article/details/159964031)
+
++ [零信任安全模型（Zero Trust）：核心理念、架构原理与实战价值](https://blog.csdn.net/qq_41840843/article/details/160006286)
+
++ [Hermes Agent vs OpenClaw：我花了一周对比，说说真实感受](https://blog.csdn.net/zsq4747zsq/article/details/160006661)
+
++ [计算机网络——网络模型和TCP](https://blog.csdn.net/LSL666_/article/details/159998151)
+
++ [从阻塞 IO 到 epoll：把 Linux 网络 IO 一次讲透](https://blog.csdn.net/m0_68617301/article/details/159997689)
+
++ [嵌入式硬件工程师VS单板硬件工程师](https://blog.csdn.net/qq_50930131/article/details/159961371)
+
++ [linux学习进展 make（自动化编译链接） makefile文件](https://blog.csdn.net/2402_88401748/article/details/159995656)
+
