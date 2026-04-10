@@ -161,3 +161,13 @@
 
 + [【全网唯一国奖版】2026认证杯B题：新能源园区：微电网—电动车—建筑的协同调度](https://blog.csdn.net/a1552100455/article/details/159995128)
 
++ [RuoyiOffice vs 泛微/致远/蓝凌：开源方案能替代商业 OA 吗](https://blog.csdn.net/zhouzhongyan/article/details/160006103)
+
++ [OpenClaw 技能开发实战：从零到一](https://blog.csdn.net/sinat_41617212/article/details/159967369)
+
++ [解耦的艺术：.NET 中依赖注入（DI）的核心原理与实战](https://blog.csdn.net/2603_94941239/article/details/159986801)
+
++ [OpenClaw小龙虾本地部署【Windows系统 + 接入飞书】](https://blog.csdn.net/dyj095/article/details/159952908)
+
++ [web安全-waf+免杀](https://blog.csdn.net/m0_73767377/article/details/159955981)
+

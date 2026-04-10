@@ -39,3 +39,7 @@
 
 + [大家觉得 gemini 和 gpt 哪个好用？](https://www.v2ex.com/t/1204772)
 
++ [Codex 改为 Token 计费了...](https://www.v2ex.com/t/1204764)
+
++ [SBTI 火了，感觉大家现在真的很需要这种“帮自己说句话”的测试](https://www.v2ex.com/t/1204770)
+
