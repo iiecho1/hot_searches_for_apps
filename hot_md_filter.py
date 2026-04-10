@@ -94,7 +94,7 @@ def process_api_data(api_data, base_path):
             if title in existing_titles:
                 continue
             existing_titles.add(title)  # 防止同批次内重复
-            encoded_href = quote(href, safe=":/=?&@#")
+            encoded_href = quote(href, safe=":/=?&@#%")
             new_content += f"+ [{title}]({encoded_href})\n\n"
 
         if new_content:
