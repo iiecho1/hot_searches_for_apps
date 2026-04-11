@@ -157,3 +157,17 @@
 
 + [基于 Docker 部署 Hermes Agent 并接入飞书机器人的完整指南](https://blog.csdn.net/cooldream2009/article/details/160024762)
 
++ [2026年Java后端热点全景解析：从LTS革新到云原生跃迁](https://blog.csdn.net/chen_si_shang_/article/details/160033644)
+
++ [MemOS —— 为大语言模型 (LLMs) 和智能体打造的记忆操作系统。](https://blog.csdn.net/weixin_53237920/article/details/160026073)
+
++ [【AI智能体】飞书Cli 高效智能体助手从使用到实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/160046534)
+
++ [数据挖掘实战-基于Random Forest的血细胞异常检测模型](https://blog.csdn.net/m0_64336780/article/details/159239695)
+
++ [claw-code 源码分析：爆款开源之后——Star 曲线与长期维护之间，工程上该建立哪些「反幻觉」机制？](https://blog.csdn.net/cui_yonghua/article/details/160012665)
+
++ [城投债化解: 国家通过“时间换空间“的方式，将过去20年积累的债务成本，分摊到未来20-30年，由中央、地方、银行、企业和个人共同承担](https://blog.csdn.net/qq_38998213/article/details/160034769)
+
++ [Hermes Agent 接入飞书 & 企业微信全流程指南](https://blog.csdn.net/weixin_66401877/article/details/160017098)
+
