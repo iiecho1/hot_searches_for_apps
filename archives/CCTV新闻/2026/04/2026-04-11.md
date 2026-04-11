@@ -219,3 +219,11 @@
 
 + [特朗普称美方“开始清理霍尔木兹海峡”](https://news.cctv.com/2026/04/11/ARTIu25eGLVT8ozbt1SNA7t1260411.shtml)
 
++ [阿米迪当选伊拉克新任总统](https://news.cctv.com/2026/04/11/ARTI45HXs5LXtIzebfucPNT4260411.shtml)
+
++ [伊美谈判可能延长一天](https://news.cctv.com/2026/04/11/ARTIhC95Zi5JUp4IUd1n877t260411.shtml)
+
++ [美国纽约中央车站发生暴力事件 警察开枪击中嫌犯](https://news.cctv.com/2026/04/11/ARTID8DRcGIDSnXSnNmX2DEC260411.shtml)
+
++ [伊朗140处历史遗迹因美以袭击遭破坏](https://news.cctv.com/2026/04/11/ARTINla0PIBLqTBHFNn0pFT7260411.shtml)
+

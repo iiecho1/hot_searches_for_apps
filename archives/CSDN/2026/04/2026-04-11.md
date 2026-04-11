@@ -231,3 +231,13 @@
 
 + [Prompt、Context、Harness：AI Agent 工程的三层架构解析](https://blog.csdn.net/m0_46510245/article/details/159995892)
 
++ [OpenClaw实操指南13｜用AI接管飞书多维表格：自动建表、写数据、做分析，一条指令搞定](https://blog.csdn.net/GODYAD/article/details/160045908)
+
++ [鸿蒙 PC 的机会在哪里？](https://blog.csdn.net/qq_36863796/article/details/160027749)
+
++ [一次编写到处对接 —— 为 Godot/Unity/React 生成统一交互接口](https://blog.csdn.net/qq_16111009/article/details/160026694)
+
++ [实战教程：3步接入Azure OpenAI调用GPT-5，国内IP直连](https://blog.csdn.net/Leinwin/article/details/159985512)
+
++ [Flutter 框架跨平台鸿蒙开发 - 家庭食谱传承系统](https://blog.csdn.net/2401_83963391/article/details/159997919)
+
