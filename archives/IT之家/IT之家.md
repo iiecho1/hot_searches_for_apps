@@ -55,3 +55,15 @@
 
 + [小米 REDMI Book Pro 2026 本月发布：全新高性能 AI 旗舰笔记本](https://m.ithome.com/html/937624.htm)
 
++ [张雪机车 WSBK 冠军复刻赛车开拍不到一分钟即以 500 万元封顶价成交，款项全部捐赠嫣然天使基金](https://m.ithome.com/html/937979.htm)
+
++ [法拉第未来“FF 中国”App 上架华为应用市场，可了解官方资讯及预订 FF 91 汽车](https://m.ithome.com/html/937910.htm)
+
++ [限时 19.39 万元起，焕新极氪 007/007GT 汽车正式上市](https://m.ithome.com/html/937963.htm)
+
++ [36.5 万元起，极氪 001 五周年纪念版车型上市](https://m.ithome.com/html/937964.htm)
+
++ [经典游戏《冒险岛》怀旧服正式官宣，今日开启预约](https://m.ithome.com/html/937745.htm)
+
++ [特斯拉推出 2026 款改款 Model Y 车型：车标黑化、新增轮毂及内饰配色选装，26.35 万元起](https://m.ithome.com/html/937817.htm)
+

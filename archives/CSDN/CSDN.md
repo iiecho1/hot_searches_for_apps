@@ -177,3 +177,11 @@
 
 + [基于QLearning强化学习的输电线路拟声驱鸟策略算法matlab仿真](https://blog.csdn.net/hardware_player/article/details/159966265)
 
++ [全能远控，性能为王：UU远程深度测评与行业横评](https://blog.csdn.net/user340/article/details/160052553)
+
++ [谷歌开源 Gemma 4，31B 太强了，本地就能跑多模态，部署全攻略来了](https://blog.csdn.net/2401_88055648/article/details/159983792)
+
++ [【一篇讲透：VCU故障诊断到底怎么设计？（整车厂内部规范完整版）】](https://blog.csdn.net/weixin_62244995/article/details/159928714)
+
++ [K8s 不部署源代码、不构建应用](https://blog.csdn.net/2302_80661243/article/details/160027423)
+
