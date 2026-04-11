@@ -219,3 +219,9 @@
 
 + [电机编码器是什么？电机编码器原理、分类、接口、选型——工控/伺服/机器人必备](https://blog.csdn.net/OidEncoder/article/details/160027953)
 
++ [K8S存储管理：从Volume到PV/PVC全解析](https://blog.csdn.net/2501_92817375/article/details/160006508)
+
++ [Amazon Aurora PostgreSQL 快速配置实战：两次点击秒级创建无服务器数据库，告别 VPC 子网安全组配置噩梦](https://blog.csdn.net/u012365585/article/details/160004309)
+
++ [VUE：逻辑复用](https://blog.csdn.net/qq_49581491/article/details/159415475)
+
