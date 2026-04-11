@@ -77,3 +77,13 @@
 
 + [魅族转型后：亿咖通科技宣布承接 Flyme OS 全业务，深化“一个吉利”战略](https://m.ithome.com/html/937942.htm)
 
++ [16 年来首次：小米首届员工运动会今天启幕，雷军压轴致辞](https://m.ithome.com/html/938105.htm)
+
++ [微信鸿蒙版 App 8.0.16.55 正式版更新发布，安装次数即将突破 5000 万次](https://m.ithome.com/html/938036.htm)
+
++ [美国载人绕月飞船返回地球，溅落在预定海域](https://m.ithome.com/html/938028.htm)
+
++ [法国政府将放弃微软 Windows 系统，转投 Linux 开源阵营](https://m.ithome.com/html/937992.htm)
+
++ [李斌：蔚来高峰时一年要买 3 亿美元的英伟达芯片，自研芯片已经替公司省了很多钱](https://m.ithome.com/html/938062.htm)
+

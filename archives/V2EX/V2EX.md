@@ -59,3 +59,7 @@
 
 + [32 岁找工作记录](https://www.v2ex.com/t/1205027)
 
++ [记一次 Apple Passwords 数据遗失的经历](https://www.v2ex.com/t/1205135)
+
++ [被狗咬伤，对方拒绝赔偿，警察和稀泥应该如何维权。](https://www.v2ex.com/t/1205139)
+

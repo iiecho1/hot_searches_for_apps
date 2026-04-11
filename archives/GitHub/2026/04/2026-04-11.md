@@ -25,3 +25,9 @@
 
 + [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
++ [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
+
