@@ -161,3 +161,15 @@
 
 + [霍尔木兹海峡已再次关闭](https://news.cctv.com/2026/04/09/ARTIEPSoJyAEW81jDAsWXhVu260409.shtml)
 
++ [伊美就霍尔木兹海峡控制权相持不下 伊方拒绝“共同管控”](https://news.cctv.com/2026/04/12/ARTIGdVrN909pa8HESTdpD8b260412.shtml)
+
++ [印度比哈尔邦发生车祸 致13人死亡](https://news.cctv.com/2026/04/12/ARTIOZ5lYwGJ0rVhAx4qkIko260412.shtml)
+
++ [以总理称将继续打击伊朗及其代理人](https://news.cctv.com/2026/04/12/ARTIYxuH6tMU6EMiFXedZz9u260412.shtml)
+
++ [伊美就资产解冻传闻各执一词 被曝事关霍尔木兹海峡通行安排](https://news.cctv.com/2026/04/12/ARTI2qU1ilAIyaTEj4cUq1pz260412.shtml)
+
++ [伊美首轮谈判结束 新一轮谈判或将于12日举行](https://news.cctv.com/2026/04/12/ARTIaOIeKzRCUmu64HjcMv4O260412.shtml)
+
++ [美军称两艘驱逐舰穿越霍尔木兹海峡 展开扫雷行动](https://news.cctv.com/2026/04/12/ARTI1B5HvZCoXzDhOVRGdFg3260412.shtml)
+
