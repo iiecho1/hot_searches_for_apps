@@ -225,3 +225,9 @@
 
 + [VUE：逻辑复用](https://blog.csdn.net/qq_49581491/article/details/159415475)
 
++ [企业级数据库行标识技术深度解析：OID与ROWID的双轨架构实战](https://blog.csdn.net/beautifulmemory/article/details/159996735)
+
++ [如何化解 SAP GUI 迁移到 SAP Fiori 后的效率落差？](https://blog.csdn.net/i042416/article/details/160045513)
+
++ [Prompt、Context、Harness：AI Agent 工程的三层架构解析](https://blog.csdn.net/m0_46510245/article/details/159995892)
+
