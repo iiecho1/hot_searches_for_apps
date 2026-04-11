@@ -67,3 +67,13 @@
 
 + [特斯拉推出 2026 款改款 Model Y 车型：车标黑化、新增轮毂及内饰配色选装，26.35 万元起](https://m.ithome.com/html/937817.htm)
 
++ [小米手机今日起正式调价，REDMI K90 Pro Max 上涨 200 元](https://m.ithome.com/html/938044.htm)
+
++ [严禁自动化高频抢票：携程、同程、去哪儿、飞猪、美团、智行、高铁管家被约谈](https://m.ithome.com/html/937971.htm)
+
++ [消息称行业首款横向阔折叠华为 Pura X Max 与 Pura 90 系列一起登场](https://m.ithome.com/html/938056.htm)
+
++ [有望让 Cookie 攻击走向历史，谷歌 Chrome 浏览器 Windows 版 146 更新引入 DBSC 功能](https://m.ithome.com/html/938016.htm)
+
++ [魅族转型后：亿咖通科技宣布承接 Flyme OS 全业务，深化“一个吉利”战略](https://m.ithome.com/html/937942.htm)
+
