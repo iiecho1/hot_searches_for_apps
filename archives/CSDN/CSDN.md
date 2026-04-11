@@ -141,3 +141,5 @@
 
 + [机器人操作系统OS进化史：从RTOS到具身智能](https://blog.csdn.net/gl1037645565/article/details/160026600)
 
++ [OpenHarmony平台移植 gifsicle：C/C++ 三方库适配实践（Lycium / tpc_c_cplusplus）](https://blog.csdn.net/qq8864/article/details/160053815)
+

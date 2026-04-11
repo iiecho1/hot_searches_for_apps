@@ -173,3 +173,11 @@
 
 + [美军称两艘驱逐舰穿越霍尔木兹海峡 展开扫雷行动](https://news.cctv.com/2026/04/12/ARTI1B5HvZCoXzDhOVRGdFg3260412.shtml)
 
++ [伊朗、美国与巴基斯坦新一轮三方谈判正式启动](https://news.cctv.com/2026/04/12/ARTIlzLfA2qPi1AW5VdP0hhv260412.shtml)
+
++ [伊朗军方否认美军舰进入霍尔木兹海峡](https://news.cctv.com/2026/04/12/ARTIgWTiS92DIICpw311XBce260412.shtml)
+
++ [内塔尼亚胡：同意与黎巴嫩和谈 前提是解除真主党武装](https://news.cctv.com/2026/04/12/ARTIAM15J6oZbPJJwehTkBNl260412.shtml)
+
++ [俄黑海沿岸现大量死亡鸟类 或与乌袭击船舶致石油污染有关](https://news.cctv.com/2026/04/12/ARTI72Wuc9msnaDVTuhbRh8I260412.shtml)
+
