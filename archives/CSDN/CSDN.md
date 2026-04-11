@@ -101,3 +101,19 @@
 
 + [Flutter 框架跨平台鸿蒙开发 - 家庭食谱传承系统](https://blog.csdn.net/2401_83963391/article/details/159997919)
 
++ [PyTorch 深度学习完全指南：从激活函数到房价预测实战](https://blog.csdn.net/qq1137623160/article/details/159995443)
+
++ [Rokid AI Glasses 智能体开发 | 从 0 到 1 构建一个「后端开发知识点助手」AI 智能体（灵珠平台实战）](https://blog.csdn.net/weixin_52908342/article/details/160054002)
+
++ [Gemini 3.1 Pro 国内免费使用教程：5 种方法合集，第一种最香](https://blog.csdn.net/qq_59308920/article/details/159979664)
+
++ [鸿蒙 App、PC、游戏，本质是同一套系统吗？](https://blog.csdn.net/qq_36863796/article/details/159982360)
+
++ [零信任安全模型（Zero Trust）：核心理念、架构原理与实战价值](https://blog.csdn.net/qq_41840843/article/details/160006286)
+
++ [【花雕动手做】MimiClaw 实战：用ESP32‑S3打造嵌入式AI Agent，飞书一句话控制N20减速电机](https://blog.csdn.net/weixin_41659040/article/details/160005473)
+
++ [告别OpenClaw配置丢失——Mindkeeper内测版邀测](https://blog.csdn.net/2501_92049521/article/details/160025610)
+
++ [高性能 C++ 日志实战：spdlog 核心架构解析与最佳实践指南](https://blog.csdn.net/2302_76713442/article/details/159915930)
+
