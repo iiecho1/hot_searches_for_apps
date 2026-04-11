@@ -187,3 +187,17 @@
 
 + [React性能优化：memo、useMemo和useCallback全解析](https://blog.csdn.net/COCOLI_BK/article/details/159989617)
 
++ [用 Python 实现 RAG：从文档加载到语义检索全流程](https://blog.csdn.net/2401_86326742/article/details/160020531)
+
++ [基于AI大神Karpathy的LLM Wiki设计模式思路搭建属于个人的知识库](https://blog.csdn.net/xiaochenXIHUA/article/details/160022854)
+
++ [用 Python 玩转 AI 绘图：Stable Diffusion 本地部署指南](https://blog.csdn.net/2401_85686768/article/details/160020585)
+
++ [Gemini 3.1 Pro 国内免费使用教程：5 种方法合集，第一种最香](https://blog.csdn.net/qq_59308920/article/details/159979664)
+
++ [告别OpenClaw配置丢失——Mindkeeper内测版邀测](https://blog.csdn.net/2501_92049521/article/details/160025610)
+
++ [Flutter 框架跨平台鸿蒙开发 - 智能植物生长记录应用](https://blog.csdn.net/2301_82270320/article/details/160032757)
+
++ [开源鸿蒙跨平台Flutter开发：成语接龙游戏应用](https://blog.csdn.net/qq_39088168/article/details/160033060)
+

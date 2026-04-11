@@ -55,3 +55,7 @@
 
 + [刚毕业也是当上牛马了](https://www.v2ex.com/t/1205050)
 
++ [99 美刀的 google one pro 完全不可用了](https://www.v2ex.com/t/1205028)
+
++ [32 岁找工作记录](https://www.v2ex.com/t/1205027)
+
