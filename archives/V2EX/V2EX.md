@@ -43,3 +43,5 @@
 
 + [准备入坑 Mac, 求打醒: MacBook Air M5 32+1T 性能过剩吗？](https://www.v2ex.com/t/1204928)
 
++ [AirTag 只有在绑定的设备附近才会更新位置？？](https://www.v2ex.com/t/1205044)
+

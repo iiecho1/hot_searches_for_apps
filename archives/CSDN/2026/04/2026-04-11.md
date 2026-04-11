@@ -173,3 +173,7 @@
 
 + [HarmonyOS 5.0 IoT开发实战：构建分布式智能设备控制中枢与边缘计算网关](https://blog.csdn.net/u014727709/article/details/160041837)
 
++ [▲基于QLearning强化学习的LTE和WLAN网络接入控制算法matlab仿真](https://blog.csdn.net/ccsss22/article/details/160053115)
+
++ [基于QLearning强化学习的输电线路拟声驱鸟策略算法matlab仿真](https://blog.csdn.net/hardware_player/article/details/159966265)
+
