@@ -37,3 +37,21 @@
 
 + [华为 Pura 90 Pro / Pro Max 系列手机全系配色公布：橘子海、橘子汽水等](https://m.ithome.com/html/937689.htm)
 
++ [张雪峰.skill 项目爆火引发争议，逝者思维被蒸馏](https://m.ithome.com/html/937747.htm)
+
++ [员工晒小米食堂新品“小米冰淇淋”：提供标准 / Pro / Max 三种版本，5.99 元起](https://m.ithome.com/html/937855.htm)
+
++ [苹果 iPhone Ultra 折叠手机视频渲染：5800mAh 电池、展开最薄 4.5mm](https://m.ithome.com/html/937741.htm)
+
++ [追觅俞浩内部群发飙：要把宇树所有客户、标的抢过来，扬言 2 亿招首席科学家](https://m.ithome.com/html/937767.htm)
+
++ [超 iPhone 17 全系列：曝华为畅享 90 Pro Max 手机首周激活销量超 40 万，拿下单周单品销量第一](https://m.ithome.com/html/937801.htm)
+
++ [华为 Pura 90 Pro / Pro Max 手机今起开启预订，4 月 20 日正式发布](https://m.ithome.com/html/937654.htm)
+
++ [史上最不友好的键盘发售：只有 9 个键，能打出 FUCK YOU，售价 4950 日元](https://m.ithome.com/html/937866.htm)
+
++ [华为何刚：Pura 家族不只 Pura 90 系列，超多全场景新品可以期待一下](https://m.ithome.com/html/937630.htm)
+
++ [小米 REDMI Book Pro 2026 本月发布：全新高性能 AI 旗舰笔记本](https://m.ithome.com/html/937624.htm)
+

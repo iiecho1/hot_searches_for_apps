@@ -21,3 +21,7 @@
 
 + [有个事想请教： GitHub 上有人用了和我一样的项目名，复刻了一模一样的项目](https://www.v2ex.com/t/1204945)
 
++ [有人用豆包买保险，结果支付到我这里来了](https://www.v2ex.com/t/1205029)
+
++ [你如何读 codex ？是 code cha，还是 code aikesi](https://www.v2ex.com/t/1204920)
+
