@@ -149,3 +149,11 @@
 
 + [linux学习进展 make（自动化编译链接） makefile文件](https://blog.csdn.net/2402_88401748/article/details/159995656)
 
++ [【HFP】规范精讲[21]: 蓝牙语音抗丢包终极方案：PLC算法深度拆解与工程实现全解析](https://blog.csdn.net/weixin_37800531/article/details/159931891)
+
++ [【Blender】超全 Blender 新手教程：从软件下载到做出第一个作品（上）](https://blog.csdn.net/2501_91731683/article/details/159922626)
+
++ [银狐远控木马全解析：从开源母体到黑产帝国的前世今生（附攻击链路 + 防护方案）](https://blog.csdn.net/qq_31766615/article/details/159989767)
+
++ [基于 Docker 部署 Hermes Agent 并接入飞书机器人的完整指南](https://blog.csdn.net/cooldream2009/article/details/160024762)
+

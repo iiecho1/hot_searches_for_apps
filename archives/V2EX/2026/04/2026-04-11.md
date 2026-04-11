@@ -25,3 +25,13 @@
 
 + [你如何读 codex ？是 code cha，还是 code aikesi](https://www.v2ex.com/t/1204920)
 
++ [bc 公司能去吗，请问，不会吃牢饭吧](https://www.v2ex.com/t/1204895)
+
++ [对于我来说，阿里这家企业已经有诚信问题了](https://www.v2ex.com/t/1204840)
+
++ [我好像造出来了印钞机](https://www.v2ex.com/t/1204970)
+
++ [有人把 IDEA 的 git 客户端做出来了](https://www.v2ex.com/t/1204844)
+
++ [质谱 GLM5.1 根本没法玩了](https://www.v2ex.com/t/1204899)
+
