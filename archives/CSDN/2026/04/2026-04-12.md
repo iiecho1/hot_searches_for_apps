@@ -117,3 +117,25 @@
 
 + [高性能 C++ 日志实战：spdlog 核心架构解析与最佳实践指南](https://blog.csdn.net/2302_76713442/article/details/159915930)
 
++ [claw-code 源码详细分析：compat-harness——对接编辑器生态时，兼容层该吞掉哪些「历史包袱」？](https://blog.csdn.net/cui_yonghua/article/details/160011637)
+
++ [OpenClaw 2026.4.10 发布：主动记忆系统登场，多平台集成与安全能力全面升级](https://blog.csdn.net/weixin_43978579/article/details/160051134)
+
++ [【机器人】ROS2 自定义消息协议设计(msg)与话题观测指南(topic)](https://blog.csdn.net/m0_75192474/article/details/159856807)
+
++ [C# 实战：如何高效地将 HTML 转换为可编辑 Word 文档](https://blog.csdn.net/SunnyDays1011/article/details/160027287)
+
++ [React vs Vue vs Angular：三大前端框架深度对比](https://blog.csdn.net/jlx8S4M50/article/details/160032357)
+
++ [# Spark 内核级调优源码分析](https://blog.csdn.net/Hero_HNB/article/details/160007018)
+
++ [电机编码器是什么？电机编码器原理、分类、接口、选型——工控/伺服/机器人必备](https://blog.csdn.net/OidEncoder/article/details/160027953)
+
++ [电商系列第五课：支付中心——资金安全、幂等设计与 AI 风控大脑](https://blog.csdn.net/wei_wei10/article/details/160057370)
+
++ [【全网唯一国奖版】2026认证杯B题：新能源园区：微电网—电动车—建筑的协同调度](https://blog.csdn.net/a1552100455/article/details/159995128)
+
++ [OpenClaw（八）| 完全卸载指南](https://blog.csdn.net/qq_20236937/article/details/159981758)
+
++ [Swarm Agents 架构设计 | 多智能体系统完整方案](https://blog.csdn.net/c_pamsa/article/details/160058174)
+
