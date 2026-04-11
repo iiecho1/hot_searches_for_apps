@@ -171,3 +171,5 @@
 
 + [Hermes Agent 接入飞书 & 企业微信全流程指南](https://blog.csdn.net/weixin_66401877/article/details/160017098)
 
++ [HarmonyOS 5.0 IoT开发实战：构建分布式智能设备控制中枢与边缘计算网关](https://blog.csdn.net/u014727709/article/details/160041837)
+

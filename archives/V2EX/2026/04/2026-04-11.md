@@ -39,3 +39,7 @@
 
 + [江苏联通全局限速但不承认如何破局？](https://www.v2ex.com/t/1204916)
 
++ [从 iPhone 换到 Oppo Find X9 半年后。。。](https://www.v2ex.com/t/1205016)
+
++ [准备入坑 Mac, 求打醒: MacBook Air M5 32+1T 性能过剩吗？](https://www.v2ex.com/t/1204928)
+
