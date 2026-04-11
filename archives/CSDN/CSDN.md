@@ -201,3 +201,21 @@
 
 + [开源鸿蒙跨平台Flutter开发：成语接龙游戏应用](https://blog.csdn.net/qq_39088168/article/details/160033060)
 
++ [鸿蒙 App、PC、游戏，本质是同一套系统吗？](https://blog.csdn.net/qq_36863796/article/details/159982360)
+
++ [如何使用 LogsDB 降低 Elasticsearch 日志存储成本](https://blog.csdn.net/UbuntuTouch/article/details/160053896)
+
++ [鸿蒙游戏是不是风口？](https://blog.csdn.net/qq_36478920/article/details/160031015)
+
++ [transformer学习资源汇总](https://blog.csdn.net/2501_93968832/article/details/160026411)
+
++ [react源码学习之reconciler](https://blog.csdn.net/wuli2496/article/details/159998396)
+
++ [OpenClaw 接入钉钉完整指南](https://blog.csdn.net/xh_chloe/article/details/160022351)
+
++ [Flutter 框架跨平台鸿蒙开发 - 手工作品展示](https://blog.csdn.net/2401_83963227/article/details/160032765)
+
++ [Codex CLI 对接飞书 + 飞书文档实操记录（从零到可用）](https://blog.csdn.net/qq_43350218/article/details/159998449)
+
++ [电机编码器是什么？电机编码器原理、分类、接口、选型——工控/伺服/机器人必备](https://blog.csdn.net/OidEncoder/article/details/160027953)
+
