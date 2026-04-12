@@ -191,3 +191,7 @@
 
 + [Hermes Agent 完整使用教程](https://blog.csdn.net/henrylin9999/article/details/159979426)
 
++ [AI Agent 完全指南：LangChain Agent、ReAct、Copilot-Agent 模式、Manus、Computer Use 与记忆机制](https://blog.csdn.net/weixin_52185313/article/details/160027221)
+
++ [Prompt Engineering进阶指南](https://blog.csdn.net/MRDONG1/article/details/160074108)
+
