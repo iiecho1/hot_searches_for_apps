@@ -65,3 +65,5 @@
 
 + [场馆人为失误，导致 NBA 常规赛直播被 Apple TV 更新打断](https://m.ithome.com/html/938020.htm)
 
++ [法国政府将放弃微软 Windows 系统，转投 Linux 开源阵营](https://m.ithome.com/html/937992.htm)
+

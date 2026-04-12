@@ -145,3 +145,19 @@
 
 + [Hermes Agent vs OpenClaw：我花了一周对比，说说真实感受](https://blog.csdn.net/zsq4747zsq/article/details/160006661)
 
++ [【C++】ROS2捕获Ctrl+C信号+原子操作与线程生命周期控制](https://blog.csdn.net/m0_75192474/article/details/159856774)
+
++ [墨韵技术｜CMake：现代项目构建的「行云流水」之道](https://blog.csdn.net/2503_92624912/article/details/160060617)
+
++ [SpreadCheetah vs. NPOI：为什么90%的开发者都在用错Excel库？](https://blog.csdn.net/z_344791576/article/details/151919983)
+
++ [量子测量三部曲：投影测量、POVM 与坍缩之谜—从形式主义到物理图像](https://blog.csdn.net/kkiron/article/details/160024880)
+
++ [小而强，Meta推出超级智能实验室首款AI模型Muse Spark](https://blog.csdn.net/jiangjunshow/article/details/159985085)
+
++ [开源鸿蒙跨平台Flutter开发：手账记事模板库应用](https://blog.csdn.net/ai_lingshi/article/details/160032959)
+
++ [Spring Security权限控制框架详解](https://blog.csdn.net/StackNoOverflow/article/details/160031921)
+
++ [从限购到畅通：GLM-5.1 Coding Plan接入攻略](https://blog.csdn.net/o0onlylove0o/article/details/160014243)
+

@@ -183,3 +183,23 @@
 
 + [伊美谈判仍陷僵局](https://news.cctv.com/2026/04/12/ARTIyGmElYfU77AsDn6WSiwJ260412.shtml)
 
++ [伊朗代表团离开巴基斯坦](https://news.cctv.com/2026/04/12/ARTIa38GLZPlVKkC5Bk7Pxyt260412.shtml)
+
++ [伊朗称不应期望在一次谈判中达成协议 将继续和巴基斯坦联系磋商](https://news.cctv.com/2026/04/12/ARTIMpWoVsTin0VU8Y8aWO4A260412.shtml)
+
++ [伊朗消息人士：球在美国一方 伊朗不急于求成](https://news.cctv.com/2026/04/12/ARTIeGYZTlZw55g3dPLzFUK5260412.shtml)
+
++ [伊朗消息人士称美国寻找借口退出谈判](https://news.cctv.com/2026/04/12/ARTIUWXOHNRNXrjjlmeIAN8X260412.shtml)
+
++ [伊朗外交部发言人：伊美在两三个重要问题上存在分歧](https://news.cctv.com/2026/04/12/ARTIYhExC7VNix2hgbdya2Sp260412.shtml)
+
++ [“美方野心阻碍每一轮会谈” 伊朗梳理21小时谈判全过程](https://news.cctv.com/2026/04/12/ARTIpIIP60dYsWhcNxm4tl7s260412.shtml)
+
++ [毛里求斯外长：将“不遗余力”收回查戈斯群岛](https://news.cctv.com/2026/04/12/ARTIaCTla70fdoxW8aBuQhLC260412.shtml)
+
++ [万斯：谈判尚未取得共识 将返回美国](https://news.cctv.com/2026/04/12/ARTItLSt5VrgzDnHmDQOtuWV260412.shtml)
+
++ [万斯在伊斯兰堡召开新闻发布会：美伊谈判21小时未达成协议](https://news.cctv.com/2026/04/12/ARTIkDtLezwpD0qwqF5p5zXK260412.shtml)
+
++ [3名伊朗公民在美国被捕](https://news.cctv.com/2026/04/12/ARTIW0845MK4BtOFs3OVKPCF260412.shtml)
+
