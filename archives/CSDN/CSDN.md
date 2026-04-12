@@ -111,3 +111,29 @@
 
 + [2026——Cursor全攻略+AI编程/前端辅助工具汇总（含问题速解）](https://blog.csdn.net/aZHANGJIANZHENa/article/details/160018420)
 
++ [【机器人】ROS2 自定义消息协议设计(msg)与话题观测指南(topic)](https://blog.csdn.net/m0_75192474/article/details/159856807)
+
++ [【LE Audio】ASCS精讲[4]: 服务特征与ASE端点，从数据结构到交互逻辑](https://blog.csdn.net/weixin_37800531/article/details/160033569)
+
++ [【HarmonyOS 6.0】屏幕管理新特性：多屏坐标转换详解](https://blog.csdn.net/weixin_74809706/article/details/159766640)
+
++ [HarmonyOS 鸿蒙PC端 Qt 应用开发：第三方 Qt 开源软件移植指南](https://blog.csdn.net/qq8864/article/details/160032290)
+
++ [claw-code 源码分析：爆款开源之后——Star 曲线与长期维护之间，工程上该建立哪些「反幻觉」机制？](https://blog.csdn.net/cui_yonghua/article/details/160012665)
+
++ [MySQL索引原理与优化实战](https://blog.csdn.net/2401_83281222/article/details/160060295)
+
++ [Oracle 26ai搭建ADG Far Sync日志备库](https://blog.csdn.net/weixin_41645135/article/details/160089576)
+
++ [【项目实战】博客系统完整测试报告（含自动化+性能测试）](https://blog.csdn.net/zoelinkailuo/article/details/160057517)
+
++ [.NET 8 C# 委托与事件实战教程](https://blog.csdn.net/weixin_45649283/article/details/160048420)
+
++ [深入浅出 RAG：万物皆可向量化 (Embedding) 与 Spring AI + pgvector 实战](https://blog.csdn.net/2401_87638368/article/details/160016076)
+
++ [MySQL -- 个人学习记录](https://blog.csdn.net/ruan114514/article/details/160054495)
+
++ [探究.NET 11 中 Semantic Kernel 在 AI 驱动后端开发的前沿应用](https://blog.csdn.net/dotnethello/article/details/160031268)
+
++ [GitHub 热榜项目 - 日榜(2026-04-11)](https://blog.csdn.net/u014390502/article/details/160060345)
+
