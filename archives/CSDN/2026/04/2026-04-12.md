@@ -183,3 +183,11 @@
 
 + [FPGA 时序约束与分析](https://blog.csdn.net/2502_94639226/article/details/160031214)
 
++ [Linus的认识和基于win11家庭版与低版本vm不兼容问题的解决](https://blog.csdn.net/YBFFFW/article/details/160060139)
+
++ [鸿蒙NEXT星河版开发全攻略](https://blog.csdn.net/dreamborn/article/details/160077704)
+
++ [ES 学习（九）从文本到词元：分词器如何“拆解“你的数据](https://blog.csdn.net/qq_33204709/article/details/160056763)
+
++ [Hermes Agent 完整使用教程](https://blog.csdn.net/henrylin9999/article/details/159979426)
+
