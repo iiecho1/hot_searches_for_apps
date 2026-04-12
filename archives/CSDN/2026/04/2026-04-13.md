@@ -137,3 +137,7 @@
 
 + [GitHub 热榜项目 - 日榜(2026-04-11)](https://blog.csdn.net/u014390502/article/details/160060345)
 
++ [【深度解析】Meta Muse Spark：原生多模态推理模型与多智能体编排的工程化实践](https://blog.csdn.net/weixin_45888077/article/details/160031825)
+
++ [[论文阅读]In-Place Test-Time Training](https://blog.csdn.net/m0_52911108/article/details/160031969)
+

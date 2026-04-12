@@ -45,3 +45,5 @@
 
 + [场馆人为失误，导致 NBA 常规赛直播被 Apple TV 更新打断](https://m.ithome.com/html/938020.htm)
 
++ [大疆 Osmo Pocket 4 运动相机 4 月 16 日发布，更多图片曝光](https://m.ithome.com/html/938192.htm)
+
