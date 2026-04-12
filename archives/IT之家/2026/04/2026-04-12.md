@@ -67,3 +67,7 @@
 
 + [法国政府将放弃微软 Windows 系统，转投 Linux 开源阵营](https://m.ithome.com/html/937992.htm)
 
++ [宇树机器人跑出 10m/s 刷新世界纪录，逼近博尔特速度极限](https://m.ithome.com/html/938155.htm)
+
++ [迅雷“光鸭云盘”开启公测招募：号称免登录、不限速，自带 2TB 免费空间](https://m.ithome.com/html/938178.htm)
+

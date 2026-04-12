@@ -213,3 +213,9 @@
 
 + [特朗普威胁通过控制霍尔木兹海峡打击伊朗经济](https://news.cctv.com/2026/04/12/ARTIZdRVFfzgib14df6zVJBX260412.shtml)
 
++ [俄称乌军自11日以来已违反停火1971次](https://news.cctv.com/2026/04/12/ARTIFhTA3chlRVZhKyqeqIxK260412.shtml)
+
++ [杜特尔特之子正式接任菲律宾民主人民力量党总裁](https://news.cctv.com/2026/04/12/ARTIE6wnFfBXtq7iPMTAdx8X260412.shtml)
+
++ [消息人士称美伊谈判存在三个主要症结](https://news.cctv.com/2026/04/12/ARTIpuj5p0eDYmyEm6KSdtEW260412.shtml)
+
