@@ -143,3 +143,5 @@
 
 + [OpenHarmony平台移植 gifsicle：C/C++ 三方库适配实践（Lycium / tpc_c_cplusplus）](https://blog.csdn.net/qq8864/article/details/160053815)
 
++ [Hermes Agent vs OpenClaw：我花了一周对比，说说真实感受](https://blog.csdn.net/zsq4747zsq/article/details/160006661)
+

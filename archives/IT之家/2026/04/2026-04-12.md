@@ -45,3 +45,23 @@
 
 + [魅族转型后：亿咖通科技宣布承接 Flyme OS 全业务，深化“一个吉利”战略](https://m.ithome.com/html/937942.htm)
 
++ [16 年来首次：小米首届员工运动会今天启幕，雷军压轴致辞](https://m.ithome.com/html/938105.htm)
+
++ [Pura 80 Pro → Pura 90 Pro Max，消息称华为准备命名升维](https://m.ithome.com/html/938176.htm)
+
++ [微信鸿蒙版 App 8.0.16.55 正式版更新发布，安装次数即将突破 5000 万次](https://m.ithome.com/html/938036.htm)
+
++ [美国载人绕月飞船返回地球，溅落在预定海域](https://m.ithome.com/html/938028.htm)
+
++ [鸿蒙智行问界 M6 预订量突破 10 万台，预售 26.98 万元起](https://m.ithome.com/html/938140.htm)
+
++ [李斌：蔚来高峰时一年要买 3 亿美元的英伟达芯片，自研芯片已经替公司省了很多钱](https://m.ithome.com/html/938062.htm)
+
++ [华为靳玉志重申不造车：致力于成为智能网联汽车时代的“电子螺丝钉”](https://m.ithome.com/html/938069.htm)
+
++ [东风日产高管回应李想朋友圈喊话：尊重每一家同行，包括理想汽车](https://m.ithome.com/html/938156.htm)
+
++ [消息称大疆 Pocket 4 目标超千万，可能是一英寸 CMOS 出货量最大的单品](https://m.ithome.com/html/938143.htm)
+
++ [场馆人为失误，导致 NBA 常规赛直播被 Apple TV 更新打断](https://m.ithome.com/html/938020.htm)
+
