@@ -205,3 +205,7 @@
 
 + [HarmonyOS 6 自定义人脸识别模型10：基于MindSpore Lite框架的自定义人脸识别功能实现](https://blog.csdn.net/sjw890821sjw/article/details/160082103)
 
++ [012、缓存架构设计：Redis高级应用与优化](https://blog.csdn.net/Y_gao/article/details/160060807)
+
++ [java项目-基于SpringBoot+MySQL+Vue的前后端分离宠物商店系统（附资料）](https://blog.csdn.net/weixin_41543005/article/details/160061491)
+
