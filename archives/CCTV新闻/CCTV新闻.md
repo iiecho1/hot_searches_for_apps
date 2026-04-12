@@ -161,3 +161,11 @@
 
 + [欧盟强烈谴责以色列在约旦河西岸新建定居点](https://news.cctv.com/2026/04/10/ARTI4Fcz4xe2eaWlXmfeI0Mk260410.shtml)
 
++ [美中央司令部：4月13日起封锁伊朗港口海上交通](https://news.cctv.com/2026/04/13/ARTIj2Hrg8mUoSYmCIKBsz9M260413.shtml)
+
++ [欧尔班败选 蒂萨党主席称赢得匈牙利国会选举](https://news.cctv.com/2026/04/13/ARTIs91WDTHGhUx1Lf2ZcEqR260413.shtml)
+
++ [美国新泽西州发生枪击事件 致1死6伤](https://news.cctv.com/2026/04/13/ARTIKNlhqEYDw7TjQd2cTzOg260413.shtml)
+
++ [以军坦克在黎南部冲撞联黎部队意大利车辆](https://news.cctv.com/2026/04/13/ARTIqKbS3xKE5RRdHNVKbmBP260413.shtml)
+
