@@ -27,3 +27,13 @@
 
 + [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
 
++ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
++ [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
+
++ [rustfs/rustfs](https://github.com/rustfs/rustfs)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
++ [snarktank/ralph](https://github.com/snarktank/ralph)
+

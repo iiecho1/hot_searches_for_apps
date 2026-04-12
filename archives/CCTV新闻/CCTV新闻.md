@@ -229,3 +229,5 @@
 
 + [美国加州州长热门人选涉嫌性侵遭调查](https://news.cctv.com/2026/04/12/ARTInSOUbf1Qeof2IAehZvTN260412.shtml)
 
++ [伊朗官员：美国应已明白外交不是发号施令的舞台](https://news.cctv.com/2026/04/12/ARTILSZfMODKtCxfQIRVzoQw260412.shtml)
+

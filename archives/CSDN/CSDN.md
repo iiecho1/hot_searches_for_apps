@@ -195,3 +195,13 @@
 
 + [Prompt Engineering进阶指南](https://blog.csdn.net/MRDONG1/article/details/160074108)
 
++ [KES 表空间目录自动创建特性：简化存储管理、提升运维效率](https://blog.csdn.net/lrq13965748542/article/details/160051919)
+
++ [claw-code 源码分析：Agent 产品化最后一公里——Harness 工程里哪些模块决定「能卖」还是「只能 demo」？](https://blog.csdn.net/cui_yonghua/article/details/160013328)
+
++ [【Blender】超全 Blender 新手教程：从软件下载到做出第一个作品（下）](https://blog.csdn.net/2501_91731683/article/details/160040327)
+
++ [3D智慧城市：blender建模、骨骼、动画、VUE、threeJs引入渲染，飞行视角，涟漪、人物行走](https://blog.csdn.net/TTianYe/article/details/160007856)
+
++ [HarmonyOS 6 自定义人脸识别模型10：基于MindSpore Lite框架的自定义人脸识别功能实现](https://blog.csdn.net/sjw890821sjw/article/details/160082103)
+

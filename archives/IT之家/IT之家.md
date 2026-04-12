@@ -83,3 +83,9 @@
 
 + [大疆 Osmo Pocket 4 运动相机 4 月 16 日发布，更多图片曝光](https://m.ithome.com/html/938192.htm)
 
++ [嫌苹果 MacBook 边框硌手，用户用锉刀自行打磨机身边角](https://m.ithome.com/html/938203.htm)
+
++ [理想汽车 CEO 李想朋友圈再发文：多次被黑还要隐忍](https://m.ithome.com/html/938259.htm)
+
++ [微信鸿蒙版 App 安装量突破 5000 万，最新 8.0.16.55 正式版发布](https://m.ithome.com/html/938213.htm)
+
