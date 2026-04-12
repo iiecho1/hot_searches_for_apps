@@ -47,3 +47,15 @@
 
 + [大疆 Osmo Pocket 4 运动相机 4 月 16 日发布，更多图片曝光](https://m.ithome.com/html/938192.htm)
 
++ [消息称苹果已攻克 iPhone Ultra 折叠屏手机折痕、耐用性两大核心难题](https://m.ithome.com/html/938331.htm)
+
++ [消息称某厂 nova 系列迭代机型上双红枫镜头、下放 9 系芯片，预计为华为旗下](https://m.ithome.com/html/938287.htm)
+
++ [央视起底 AI“造黄”产业链：9.9 元教程批量生成擦边视频](https://m.ithome.com/html/938348.htm)
+
++ [鸿蒙智行尚界 Z7 / Z7T 新车预订量突破 6 万台，预售价 22.98 万元起](https://m.ithome.com/html/938221.htm)
+
++ [1 颗 1 万元：鸿蒙智行问界预计 6 月推出 896 线激光雷达升级方案](https://m.ithome.com/html/938335.htm)
+
++ [一汽高管周时莹呼吁行业打破各自为战：卖一辆车亏两三万，中国企业难道永远在国内厮杀？](https://m.ithome.com/html/938332.htm)
+
