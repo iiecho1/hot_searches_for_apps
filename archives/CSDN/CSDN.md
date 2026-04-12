@@ -141,3 +141,11 @@
 
 + [[论文阅读]In-Place Test-Time Training](https://blog.csdn.net/m0_52911108/article/details/160031969)
 
++ [【MATLAB源码-第416期】基于MATLAB的Cell-Free Massive MIMO仿真，功率控制，协同优化。](https://blog.csdn.net/Koukesuki/article/details/160025799)
+
++ [7.5 万行 Rust 的 Spec 工程实践：用大模型写 Rust 时，如何把「教程味」挡在仓库外](https://blog.csdn.net/sinat_25866835/article/details/160089411)
+
++ [向量数据库已经能检索了，为什么 LangChain 还要设计 Retriever](https://blog.csdn.net/2402_89042144/article/details/160088832)
+
++ [调试黑科技：Chrome DevTools时间旅行调试实战](https://blog.csdn.net/px1YktQjn/article/details/160061135)
+
