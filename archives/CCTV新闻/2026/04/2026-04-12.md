@@ -203,3 +203,13 @@
 
 + [3名伊朗公民在美国被捕](https://news.cctv.com/2026/04/12/ARTIW0845MK4BtOFs3OVKPCF260412.shtml)
 
++ [美伊谈判细节：面谈两小时，“情绪起伏很大”](https://news.cctv.com/2026/04/12/ARTIpLbmAJPfUXlLgb6BPUg2260412.shtml)
+
++ [菲律宾一垃圾填埋场连日火灾导致严重雾霾](https://news.cctv.com/2026/04/12/ARTIkZJAQQi7lFElOw2yTdfY260412.shtml)
+
++ [巴基斯坦：美伊双方须继续恪守停火承诺](https://news.cctv.com/2026/04/12/ARTIzTB5Pyd1NkGAeqRmvsT3260412.shtml)
+
++ [匈牙利国会选举开始投票](https://news.cctv.com/2026/04/12/ARTIVRC1yNgQyCvvjT0TwcJ4260412.shtml)
+
++ [特朗普威胁通过控制霍尔木兹海峡打击伊朗经济](https://news.cctv.com/2026/04/12/ARTIZdRVFfzgib14df6zVJBX260412.shtml)
+
