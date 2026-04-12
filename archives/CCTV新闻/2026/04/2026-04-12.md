@@ -231,3 +231,15 @@
 
 + [伊朗官员：美国应已明白外交不是发号施令的舞台](https://news.cctv.com/2026/04/12/ARTILSZfMODKtCxfQIRVzoQw260412.shtml)
 
++ [“加强合作，反对单边主义、保护主义”——访南非开普半岛商会主席法尔哈娜·帕鲁克](https://news.cctv.com/2026/04/12/ARTIOQs8AtqkV3gzAWwGowX7260412.shtml)
+
++ [印尼外长：中巴五点倡议是促成永久停火的务实举措](https://news.cctv.com/2026/04/12/ARTIfi166kgQV3NrzsG3Pch5260412.shtml)
+
++ [全球媒体聚焦｜中国与巴西深化多领域合作：从基建拓展至消费、制造与科技](https://news.cctv.com/2026/04/12/ARTIm9JBL2CECzNc2wwG1NHA260412.shtml)
+
++ [国际观察｜两大焦点、五项原因，美伊谈判为何无果而终](https://news.cctv.com/2026/04/12/ARTIpSSCf3fE2UWF5TUgocUB260412.shtml)
+
++ [记者手记丨不只因油价，更因为品质——中国新能源车在墨尔本车展受青睐](https://news.cctv.com/2026/04/12/ARTIQK0532y9dlWR54XqG3Vo260412.shtml)
+
++ [中国为动荡的国际环境注入稳定性（国际论坛）](https://news.cctv.com/2026/04/12/ARTIcHj0K6E8CkPkMazZIjBX260412.shtml)
+
