@@ -221,3 +221,11 @@
 
 + [伊朗副议长：霍尔木兹海峡是“红线” 完全由伊朗掌控](https://news.cctv.com/2026/04/12/ARTIX8DrN62YMKLRa9ppUeF7260412.shtml)
 
++ [伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”](https://news.cctv.com/2026/04/12/ARTINUjBkryO45xTf9QiaUSq260412.shtml)
+
++ [海地发生踩踏事件至少30人死亡](https://news.cctv.com/2026/04/12/ARTIiQ4Vi3vO5452m86NJDCd260412.shtml)
+
++ [伊朗议长：伊方提出建设性倡议 但美方未赢得伊朗信任](https://news.cctv.com/2026/04/12/ARTIGsP4qGJY2K0TC2N77fzA260412.shtml)
+
++ [美国加州州长热门人选涉嫌性侵遭调查](https://news.cctv.com/2026/04/12/ARTInSOUbf1Qeof2IAehZvTN260412.shtml)
+

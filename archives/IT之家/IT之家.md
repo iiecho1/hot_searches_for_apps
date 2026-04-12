@@ -71,3 +71,15 @@
 
 + [迅雷“光鸭云盘”开启公测招募：号称免登录、不限速，自带 2TB 免费空间](https://m.ithome.com/html/938178.htm)
 
++ [小米电视桌面 4.0 明日起推送：纵向导航布局上线、支持多赛事同屏播放](https://m.ithome.com/html/938191.htm)
+
++ [突破 500 万大关：消息称华为 Mate 80 系列手机销量约 508.07 万](https://m.ithome.com/html/938205.htm)
+
++ [华为 MateBook 14 2026 及 MateBook Pro 通过开源鸿蒙评测认证：预装 6.1.0.117 系统](https://m.ithome.com/html/938175.htm)
+
++ [理想汽车指控网络水军组织化拉踩 i6 和 L6 车型，已完成取证将报案](https://m.ithome.com/html/938167.htm)
+
++ [苹果部分配置 Mac mini / Mac Studio 在美国缺货，尚不明确是内存芯片短缺还是新品发布前兆](https://m.ithome.com/html/938186.htm)
+
++ [大疆 Osmo Pocket 4 运动相机 4 月 16 日发布，更多图片曝光](https://m.ithome.com/html/938192.htm)
+
