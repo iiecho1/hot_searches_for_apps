@@ -101,3 +101,13 @@
 
 + [电商系列第五课：支付中心——资金安全、幂等设计与 AI 风控大脑](https://blog.csdn.net/wei_wei10/article/details/160057370)
 
++ [OpenHarmony平台移植 gifsicle：C/C++ 三方库适配实践（Lycium / tpc_c_cplusplus）](https://blog.csdn.net/qq8864/article/details/160053815)
+
++ [Go语言中的容器化与部署：从Docker到Kubernetes](https://blog.csdn.net/baronbool/article/details/160050804)
+
++ [Redis的缓存机制和淘汰策略详解](https://blog.csdn.net/2401_85059682/article/details/160026827)
+
++ [kafka快速上手](https://blog.csdn.net/wyhhahaha/article/details/160033376)
+
++ [2026——Cursor全攻略+AI编程/前端辅助工具汇总（含问题速解）](https://blog.csdn.net/aZHANGJIANZHENa/article/details/160018420)
+
