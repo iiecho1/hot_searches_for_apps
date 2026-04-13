@@ -29,3 +29,11 @@
 
 + [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 
++ [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+
++ [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+
++ [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
++ [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
+

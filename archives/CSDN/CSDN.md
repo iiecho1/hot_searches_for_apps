@@ -211,3 +211,5 @@
 
 + [Hermes-Agent 部署Telegram/Discord机器人（多平台远程控制）](https://blog.csdn.net/weixin_42930866/article/details/160084890)
 
++ [AI Agent：从概念到实践，下一代人工智能的核心形态](https://blog.csdn.net/beautifulmemory/article/details/160033221)
+

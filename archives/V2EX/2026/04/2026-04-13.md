@@ -43,3 +43,7 @@
 
 + [生小孩的意义，转自 53 岁深圳不婚不育女性自述](https://www.v2ex.com/t/1205472)
 
++ [Chatgpt Plus 订阅， V 站优惠持续中](https://www.v2ex.com/t/1205497)
+
++ [M1 和 M2 不要更新 macOS26.4/.1](https://www.v2ex.com/t/1205395)
+
