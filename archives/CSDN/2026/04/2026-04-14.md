@@ -119,3 +119,7 @@
 
 + [Go GC 演进史：从标记清扫到混合写屏障，一文讲透垃圾回收为什么这样设计](https://blog.csdn.net/2302_80067378/article/details/160033035)
 
++ [Superpowers - 08 在 AI 时代重写「需求评审会」：深入解读 Superpowers 的头脑风暴与设计规范机制](https://blog.csdn.net/yangshangwei/article/details/160089253)
+
++ [酒店预订|基于springboot + vue酒店预订系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/160078455)
+
