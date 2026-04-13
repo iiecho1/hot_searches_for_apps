@@ -123,3 +123,5 @@
 
 + [酒店预订|基于springboot + vue酒店预订系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/160078455)
 
++ [使用 Elasticsearch + Jina embeddings 进行无监督文档聚类](https://blog.csdn.net/UbuntuTouch/article/details/160039667)
+

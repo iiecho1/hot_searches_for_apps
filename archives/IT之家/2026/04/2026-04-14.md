@@ -43,3 +43,13 @@
 
 + [小米 REDMI R70m / R70 5G 手机现身中国电信终端产品库：6.9 英寸水滴屏、至高 12GB+512GB 规格](https://m.ithome.com/html/938230.htm)
 
++ [华为李小龙自曝使用 Pura X Max 新机已有 3 个月，称是自己用过的最好用的双折叠](https://m.ithome.com/html/938694.htm)
+
++ [曝 iPhone Air 还有第二代，古尔曼称苹果一向“至少试两次”](https://m.ithome.com/html/938485.htm)
+
++ [适配 Pura 90 系列手机：华为线下店更新“橘子海新皮肤”](https://m.ithome.com/html/938471.htm)
+
++ [应战华为、苹果，消息称国内其他阔折叠新机大多采用主屏 7.7 &#177;/ 副屏 5.5 &#177; 英寸方案](https://m.ithome.com/html/938483.htm)
+
++ [华为 Pura X 上市一年出货量突破 150 万台，超后三位厂商旗舰折叠机型总和](https://m.ithome.com/html/938691.htm)
+
