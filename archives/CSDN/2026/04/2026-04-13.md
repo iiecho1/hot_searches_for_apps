@@ -179,3 +179,23 @@
 
 + [Claude Desktop 和 GitHub Copilot调用MCP Server 示例](https://blog.csdn.net/weixin_43160662/article/details/160090271)
 
++ [2026年远程控制软件横评：UU远程 vs ToDesk vs 向日葵 vs TeamViewer，谁才是真免费之王？](https://blog.csdn.net/2401_86326742/article/details/160045902)
+
++ [服务器挂了三天我才发现没人提醒：用 Prometheus 搭建自动化监控告警](https://blog.csdn.net/weixin_62765017/article/details/160099414)
+
++ [Transformer实战（39）——多模态生成式Transformer](https://blog.csdn.net/LOVEmy134611/article/details/148064027)
+
++ [表空间自动目录创建与存储管理实践：参数化配置与性能优化](https://blog.csdn.net/2302_78391795/article/details/160107133)
+
++ [5分钟读懂 LLM 核心概念：从 Token、Prompt 到 MCP、Agent](https://blog.csdn.net/Chase_______/article/details/158607598)
+
++ [【高等数学 第六章】定积分的应用](https://blog.csdn.net/he_zhidan/article/details/159951985)
+
++ [【HarmonyOS 6.0】ArkWeb嵌套滚动快速调度策略](https://blog.csdn.net/weixin_74809706/article/details/159767041)
+
++ [闲置手机手搓私人云盘，0低成本+随时访问](https://blog.csdn.net/weixin_74888502/article/details/160099356)
+
++ [面向机器人工程的 Linux 发行版：科学选型与深度评测-2026](https://blog.csdn.net/ZhangRelay/article/details/160088435)
+
++ [linux——TCP多进程并发服务器](https://blog.csdn.net/weixin_64611877/article/details/160089558)
+

@@ -175,3 +175,11 @@
 
 + [特朗普考虑恢复对伊朗有限军事打击](https://news.cctv.com/2026/04/13/ARTIhaYbUbcCfUBOv9QZdqd8260413.shtml)
 
++ [中东地区官员：新一轮美伊会谈有望数日内举行](https://news.cctv.com/2026/04/13/ARTIMf6zUYlQLflc3jreNmSE260413.shtml)
+
++ [特朗普再发文：将于13日10时封锁进出伊朗港口船只](https://news.cctv.com/2026/04/13/ARTIED4uX4oYgQgnC1wHZv6P260413.shtml)
+
++ [内塔尼亚胡任命下任摩萨德局长](https://news.cctv.com/2026/04/13/ARTIfqGdqxW9j6JgNpoGXnL6260413.shtml)
+
++ [霍尔木兹海峡船舶通行再次完全中断](https://news.cctv.com/2026/04/13/ARTI0Vv7gKPvWFewI8KS8pDG260413.shtml)
+
