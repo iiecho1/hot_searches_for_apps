@@ -221,3 +221,13 @@
 
 + [云原生实战：从零搭建企业级K8s环境](https://blog.csdn.net/fuliyingIT/article/details/160090412)
 
++ [以为用AI能降本增效？别傻了，算力镰刀已经举起](https://blog.csdn.net/csdn_silent/article/details/160025810)
+
++ [【LangChain】快速上手 + 聊天模型详解](https://blog.csdn.net/2302_79806056/article/details/157285313)
+
++ [低成本搭建家庭私有云：RK3566 刷飞牛 NAS+cpolar 公网访问教程](https://blog.csdn.net/weixin_52908342/article/details/160116013)
+
++ [鸿蒙游戏的数据流是怎么跑的？](https://blog.csdn.net/qq_36478920/article/details/160107846)
+
++ [Windows部署OpenClaw：接入DeepSeek、飞书流程](https://blog.csdn.net/dickgz1z2012/article/details/159846747)
+

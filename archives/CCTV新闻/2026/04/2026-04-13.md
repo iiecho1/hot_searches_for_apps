@@ -195,3 +195,9 @@
 
 + [西班牙驻伊朗大使馆重新开放](https://news.cctv.com/2026/04/13/ARTI44DvSVpaRzld9kSQ4MIP260413.shtml)
 
++ [76载同心同行，中国和印尼情谊跨越山海](https://news.cctv.com/2026/04/13/ARTIpsUVjcltXVDaCUE8r7fc260413.shtml)
+
++ [遇见中国｜西班牙友人阿尔诺：中西合作“双向奔赴” 两国交流“越来越好”](https://news.cctv.com/2026/04/13/ARTIm5Wx0Ccu7SJqEGaCuGt0260413.shtml)
+
++ [从“粉丝”到劲敌　毛焦尔如何击败欧尔班？](https://news.cctv.com/2026/04/13/ARTIaPwwnfTdkejMuBbD7vVs260413.shtml)
+
