@@ -213,3 +213,11 @@
 
 + [AI Agent：从概念到实践，下一代人工智能的核心形态](https://blog.csdn.net/beautifulmemory/article/details/160033221)
 
++ [AI标书底层技术全解析：NLP+大模型落地，喜鹊标书AI如何重构投标效率](https://blog.csdn.net/weixin_43151418/article/details/160116657)
+
++ [无公网 IP 环境下的 PostgreSQL 远程访问方案：基于内网穿透技术的全流程解析](https://blog.csdn.net/lbbxmx111/article/details/160112733)
+
++ [【Redis|高级篇1】分布式缓存|持久化（RDB、AOF）、主从集群、哨兵、分片集群](https://blog.csdn.net/2401_87144364/article/details/160089273)
+
++ [云原生实战：从零搭建企业级K8s环境](https://blog.csdn.net/fuliyingIT/article/details/160090412)
+
