@@ -101,3 +101,19 @@
 
 + [.NET 8 C# 委托与事件实战教程](https://blog.csdn.net/weixin_45649283/article/details/160048420)
 
++ [PyTorch 与 scikit-learn 全景对比分析](https://blog.csdn.net/dongke1991/article/details/160112241)
+
++ [AI标书底层技术全解析：NLP+大模型落地，喜鹊标书AI如何重构投标效率](https://blog.csdn.net/weixin_43151418/article/details/160116657)
+
++ [MCP 协议实战：用 Python 开发你的第一个 AI 工具服务](https://blog.csdn.net/2401_85686768/article/details/160113379)
+
++ [【一天一个计算机知识】Cyber骇客对数据流的 算力操纵与指令集 ——【＜algorithm＞头文件】从算法的出处和算法的角度带你解读＜algorithm＞的内容与机制](https://blog.csdn.net/fengtinghuqu520/article/details/160090510)
+
++ [云原生核心：容器化技术概念详解及在网络中的深度应用（超全图解）](https://blog.csdn.net/qq_41840843/article/details/160120023)
+
++ [面向机器人工程的 Linux 发行版：科学选型与深度评测-2026](https://blog.csdn.net/ZhangRelay/article/details/160088435)
+
++ [Cloud Code 云原生开发实战：从本地构建到云端一键部署](https://blog.csdn.net/2301_78234964/article/details/160049768)
+
++ [Spring Cloud服务熔断与降级](https://blog.csdn.net/ma15732625261/article/details/160090072)
+

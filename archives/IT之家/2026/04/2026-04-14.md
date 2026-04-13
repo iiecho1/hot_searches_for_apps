@@ -25,3 +25,21 @@
 
 + [微信表情，手机端也能上传了](https://m.ithome.com/html/938456.htm)
 
++ [小米电视桌面 4.0 明日起推送：纵向导航布局上线、支持多赛事同屏播放](https://m.ithome.com/html/938191.htm)
+
++ [突破 500 万大关：消息称华为 Mate 80 系列手机销量约 508.07 万](https://m.ithome.com/html/938205.htm)
+
++ [理想汽车 CEO 李想朋友圈再发文：多次被黑还要隐忍](https://m.ithome.com/html/938259.htm)
+
++ [嫌苹果 MacBook 边框硌手，用户用锉刀自行打磨机身边角](https://m.ithome.com/html/938203.htm)
+
++ [微信鸿蒙版 App 安装量突破 5000 万，最新 8.0.16.55 正式版发布](https://m.ithome.com/html/938213.htm)
+
++ [消息称某厂 nova 系列迭代机型上双红枫镜头、下放 9 系芯片，预计为华为旗下](https://m.ithome.com/html/938287.htm)
+
++ [鸿蒙智行尚界 Z7 / Z7T 新车预订量突破 6 万台，预售价 22.98 万元起](https://m.ithome.com/html/938221.htm)
+
++ [大疆 Osmo Pocket 4 运动相机 4 月 16 日发布，更多图片曝光](https://m.ithome.com/html/938192.htm)
+
++ [小米 REDMI R70m / R70 5G 手机现身中国电信终端产品库：6.9 英寸水滴屏、至高 12GB+512GB 规格](https://m.ithome.com/html/938230.htm)
+
