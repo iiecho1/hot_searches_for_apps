@@ -199,3 +199,15 @@
 
 + [linux——TCP多进程并发服务器](https://blog.csdn.net/weixin_64611877/article/details/160089558)
 
++ [还在手动配 mysql_exporter？用 Shell 脚本 3 分钟一键搞定，省下半小时喝杯咖啡](https://blog.csdn.net/2302_79376097/article/details/160111744)
+
++ [transformer学习资源汇总](https://blog.csdn.net/2501_93968832/article/details/160026411)
+
++ [SpringCloud 实战落地：可观测性建设（SkyWalking + Prometheus + Grafana）从 0 到 1 生产级部署](https://blog.csdn.net/qq_40303030/article/details/158380052)
+
++ [Cursor+Claude AI编程 2小时打造微信小程序扫码点餐系统(云函数，云数据库)视频教程](https://blog.csdn.net/caoli201314/article/details/160059952)
+
++ [网络运维实战：如何使用 Traceroute 进行网络故障排查？](https://blog.csdn.net/qq_41840843/article/details/160052028)
+
++ [Hermes-Agent 部署Telegram/Discord机器人（多平台远程控制）](https://blog.csdn.net/weixin_42930866/article/details/160084890)
+
