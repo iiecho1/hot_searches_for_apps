@@ -161,3 +161,11 @@
 
 + [美载人绕月飞船返回地球并溅落在预定海域](https://news.cctv.com/2026/04/11/ARTIZCP8Ba4N4jALCDlMaCNL260411.shtml)
 
++ [欧佩克下调二季度全球石油需求预测](https://news.cctv.com/2026/04/14/ARTIvEroJbYFKfHQCTr4LDaf260414.shtml)
+
++ [美官员称美军在中东地区部署了16艘军舰](https://news.cctv.com/2026/04/14/ARTIPeKEklM4dMYanAKXojh3260414.shtml)
+
++ [黎真主党领导人称不会解除武装 将继续抵抗以色列侵略](https://news.cctv.com/2026/04/14/ARTIRck3WpfoCilsjRh1hGF4260414.shtml)
+
++ [法国东部发生枪击事件致一名未成年人死亡](https://news.cctv.com/2026/04/14/ARTIfAfs8kU8VZQuQWjb12HA260414.shtml)
+
