@@ -59,3 +59,9 @@
 
 + [一汽高管周时莹呼吁行业打破各自为战：卖一辆车亏两三万，中国企业难道永远在国内厮杀？](https://m.ithome.com/html/938332.htm)
 
++ [小米推出 27 英寸 REDMI 显示器 G27U 2026：4K 160Hz 双模切换，1499 元](https://m.ithome.com/html/938346.htm)
+
++ [小米 REDMI R70m / R70 5G 手机现身中国电信终端产品库：6.9 英寸水滴屏、至高 12GB+512GB 规格](https://m.ithome.com/html/938230.htm)
+
++ [“将 iPhone 摄影推向新高度”，苹果 CEO 库克祝贺阿耳忒弥斯 2 号任务圆满成功](https://m.ithome.com/html/938228.htm)
+

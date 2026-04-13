@@ -169,3 +169,9 @@
 
 + [以军坦克在黎南部冲撞联黎部队意大利车辆](https://news.cctv.com/2026/04/13/ARTIqKbS3xKE5RRdHNVKbmBP260413.shtml)
 
++ [美伊谈判无果 韩国政府将维持“应急模式”](https://news.cctv.com/2026/04/13/ARTI7SsozKTCGwOPBN790QEw260413.shtml)
+
++ [高市再提修宪引发广泛反对 日本民众要求其辞职](https://news.cctv.com/2026/04/13/ARTIFZRERBdQBNz5eYe9aKBM260413.shtml)
+
++ [特朗普考虑恢复对伊朗有限军事打击](https://news.cctv.com/2026/04/13/ARTIhaYbUbcCfUBOv9QZdqd8260413.shtml)
+

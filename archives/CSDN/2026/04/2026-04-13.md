@@ -155,3 +155,27 @@
 
 + [鸿蒙游戏是不是风口？](https://blog.csdn.net/qq_36478920/article/details/160031015)
 
++ [Re：思考·重建·记录 现代C++ C++11篇 (三) 深度解构：可变参数模板、类功能演进与 STL 的新版图](https://blog.csdn.net/Z2314246476/article/details/160019710)
+
++ [Linux 线程深度剖析：线程 ID 本质、地址空间布局与 pthread 源码全解](https://blog.csdn.net/2503_91389547/article/details/159956647)
+
++ [2026年4月AI大模型全景解析：GPT-6领衔，国产模型逆袭硅谷](https://blog.csdn.net/lyy_kao/article/details/160027453)
+
++ [【HarmonyOS 6.0】ArkWeb 手势获焦模式详解：告别点击获焦，迎接长按触发](https://blog.csdn.net/weixin_74809706/article/details/159767174)
+
++ [【Unity工具篇】| 使用YooAsset接入自己的游戏项目，实现完整热更新流程](https://blog.csdn.net/zhangay1998/article/details/156886288)
+
++ [20块的玩客云跑AI语音，我自建TTS服务器，成本不到一杯咖啡钱](https://blog.csdn.net/qq_61024956/article/details/160102112)
+
++ [Dubbo- 分布式事务：Seata 与 Dubbo 整合实现 TCC / AT 模式](https://blog.csdn.net/qq_41187124/article/details/157551423)
+
++ [OpenClaw 2026.4.11 ：记忆导入革命、视频生成升级与多平台体验优化](https://blog.csdn.net/weixin_43978579/article/details/160083734)
+
++ [DotNetPy：现代.NET 与 Python 互操作 实战指南咀](https://blog.csdn.net/xp6toE6Cg/article/details/160082599)
+
++ [云原生全解析：从概念到实践，Java技术栈如何拥抱云原生时代](https://blog.csdn.net/fuliyingIT/article/details/160090270)
+
++ [网络安全 | tcpdump使用详解](https://blog.csdn.net/Andya_net/article/details/160083238)
+
++ [Claude Desktop 和 GitHub Copilot调用MCP Server 示例](https://blog.csdn.net/weixin_43160662/article/details/160090271)
+
