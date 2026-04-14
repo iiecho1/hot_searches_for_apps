@@ -219,3 +219,11 @@
 
 + [国际观察：共谱越中友谊新篇章 共绘合作发展新蓝图](https://news.cctv.com/2026/04/14/ARTIjuPfeuwO8O5Y4eO5Y83z260414.shtml)
 
++ [伊朗正考虑暂停霍尔木兹海峡航运以免破坏谈判进程](https://news.cctv.com/2026/04/14/ARTIN5ZR00vO0XBol94dnVrN260414.shtml)
+
++ [意大利总理：暂停自动续签与以色列的防务协议](https://news.cctv.com/2026/04/14/ARTIihZe21idmOTm9OKeWoDe260414.shtml)
+
++ [德乌宣布建立战略伙伴关系](https://news.cctv.com/2026/04/14/ARTImg9Pm3d97Dt876yGSXqj260414.shtml)
+
++ [IMF下调2026年世界经济增长预期 中东战事显著影响当前增长势头](https://news.cctv.com/2026/04/14/ARTIgFTQsNfryQURzx86XUkf260414.shtml)
+

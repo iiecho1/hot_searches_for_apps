@@ -53,3 +53,5 @@
 
 + [2026 年 Infuse 值得花$99 美元买断吗](https://www.v2ex.com/t/1205682)
 
++ [pura x max 有点心动](https://www.v2ex.com/t/1205770)
+

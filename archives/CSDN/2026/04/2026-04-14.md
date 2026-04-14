@@ -179,3 +179,9 @@
 
 + [NVIDIA Isaac GR00T与Cosmos：重塑机器人学习的合成数据革命](https://blog.csdn.net/lovely_yoshino/article/details/158696467)
 
++ [从BERT到GPT,再到Mamba:一文读懂大语言模型架构的演化逻辑](https://blog.csdn.net/2401_87629362/article/details/160061626)
+
++ [【微服务】Spring AI Alibaba Jmus 从部署到项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/159961455)
+
++ [【Transformer架构】Transformer架构核心知识体系（包括自注意力机制、多头注意力、Encoder-Decoder结构）](https://blog.csdn.net/qq_45914609/article/details/160123701)
+
