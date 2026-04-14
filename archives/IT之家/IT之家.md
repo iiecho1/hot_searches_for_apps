@@ -55,3 +55,19 @@
 
 + [“将 iPhone 摄影推向新高度”，苹果 CEO 库克祝贺阿耳忒弥斯 2 号任务圆满成功](https://m.ithome.com/html/938228.htm)
 
++ [Epic 员工自曝：人们来我们这只是为了领免费游戏，然后又回到了 Steam](https://m.ithome.com/html/938732.htm)
+
++ [华为官宣刘亦菲担任鸿蒙智行智界品牌代言人，旗舰 MPV 智界 V9 展车本月到店](https://m.ithome.com/html/938708.htm)
+
++ [俞浩晒追觅手机 AURORA LUX 真机外观照片](https://m.ithome.com/html/938719.htm)
+
++ [荣耀 WIN 游戏本正式亮相，首发荣耀东风尾喷散热引擎技术](https://m.ithome.com/html/938570.htm)
+
++ [爆改阔直屏难度直降：第三方推出华为 Pura X 手机内屏不折叠钢化膜](https://m.ithome.com/html/938730.htm)
+
++ [消息称苹果 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变](https://m.ithome.com/html/938623.htm)
+
++ [Mac mini 缺货严重：苹果有望推 Mac Neo 填补市场，A19 Pro 芯片 +12GB 内存](https://m.ithome.com/html/938760.htm)
+
++ [华为 MateBook 14 鸿蒙版官宣：搭载云晰柔光屏，波点艺术圆键盘](https://m.ithome.com/html/938780.htm)
+

@@ -129,3 +129,17 @@
 
 + [从后验到先验：语音信噪比估计与DD算法详解](https://blog.csdn.net/qq_42956179/article/details/159549372)
 
++ [一张表的三种身份证：金仓数据库 OID vs ROWID vs 自增主键选型指南](https://blog.csdn.net/qq_57761637/article/details/160124964)
+
++ [5个关键步骤：C# OpenCVSharp如何让背景分割快10倍？](https://blog.csdn.net/z_344791576/article/details/151900307)
+
++ [GPT-6明日发布：18个月研发5万亿参数，OpenAI这次准备打翻身仗](https://blog.csdn.net/evendy_te/article/details/160091211)
+
++ [线程进阶实战：资源划分与线程控制核心指南](https://blog.csdn.net/yhrxh_ymq/article/details/160111276)
+
++ [神经网络NLP分词任务，jieba,TF-IDF](https://blog.csdn.net/c____shen/article/details/160023679)
+
++ [GitHub 热榜项目 - 日榜(2026-04-14)](https://blog.csdn.net/u014390502/article/details/160130963)
+
++ [2026车企实验室LIMS选型全攻略：合规保命+研发提效，资深工程师实战干货](https://blog.csdn.net/weixin_62244995/article/details/159929299)
+

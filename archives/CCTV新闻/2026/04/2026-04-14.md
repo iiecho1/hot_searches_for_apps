@@ -169,3 +169,17 @@
 
 + [法国东部发生枪击事件致一名未成年人死亡](https://news.cctv.com/2026/04/14/ARTIfAfs8kU8VZQuQWjb12HA260414.shtml)
 
++ [海湾国家官员称沙特施压美国放弃封锁霍尔木兹海峡](https://news.cctv.com/2026/04/14/ARTI1j3I6nC5Lq0ugxS16y8H260414.shtml)
+
++ [巴基斯坦消息人士称巴方呼吁美伊停火延长45天](https://news.cctv.com/2026/04/14/ARTIbrfO3BKcolOmWoBND24U260414.shtml)
+
++ [国际能源署：已准备好再次释放战略石油储备](https://news.cctv.com/2026/04/14/ARTIs89CCtAYm6jUXsf3XEUw260414.shtml)
+
++ [巴基斯坦消息称美伊同意继续谈判 时间地点仍未定](https://news.cctv.com/2026/04/14/ARTI6Fs5VsLMhHEFG9AuR5rT260414.shtml)
+
++ [美国内华达州发生5.7级地震，震源深度10千米](https://news.cctv.com/2026/04/14/ARTI9c9oL8rUiYpywttKpImb260414.shtml)
+
++ [日本警方以涉嫌违反枪支刀具法再次逮捕村田晃大](https://news.cctv.com/2026/04/14/ARTIKCGBevA074WqSNShoeOy260414.shtml)
+
++ [泰国：庆祝宋干节](https://photo.cctv.com/2026/04/14/PHOAeB2RwfDuHUqJAAg9LOYH260414.shtml)
+
