@@ -123,3 +123,9 @@
 
 + [2026年 GPT Pro 怎么充值？聊聊我在国内订阅 ChatGPT Pro 的几种实际经历](https://blog.csdn.net/weixin_45915507/article/details/160123904)
 
++ [Spring AI 学习—— Advisors](https://blog.csdn.net/lvtianwang/article/details/160158562)
+
++ [2026年AI编程工具深度横评：Claude Code、Cursor、GitHub Copilot全方位对比](https://blog.csdn.net/Papersheep1215/article/details/160110463)
+
++ [爱马仕龙虾，Hermes agent（部署➕接入飞书） 无敌旋风详细教程](https://blog.csdn.net/2301_79847216/article/details/160120045)
+
