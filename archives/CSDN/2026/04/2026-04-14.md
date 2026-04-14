@@ -159,3 +159,9 @@
 
 + [【无线可充电传感器网络(WRSN)】公交网络辅助的无人机调度，用于无线可充电传感器网络的可持续充电（Matlab代码实现）](https://blog.csdn.net/weixin_61181717/article/details/160129727)
 
++ [OpenClaw 飞书深度集成：文档操作](https://blog.csdn.net/sinat_41617212/article/details/160120751)
+
++ [HarmonyOS 5.0医疗健康开发实战：构建分布式健康监测与AI预警系统](https://blog.csdn.net/u014727709/article/details/160060418)
+
++ [GPT-6发布日深度解析-Symphony架构200万Token实战](https://blog.csdn.net/bq990914/article/details/160133891)
+

@@ -189,3 +189,19 @@
 
 + [美国官员称“布什”号航母绕道非洲前往中东](https://news.cctv.com/2026/04/14/ARTIoAF0NK6bLWHiqkCOJO1G260414.shtml)
 
++ [泽连斯基签署法案延长军事税征收期限](https://news.cctv.com/2026/04/14/ARTIIuUTonLbwlq81YY6trxg260414.shtml)
+
++ [扎波罗热核电站外部供电恢复](https://news.cctv.com/2026/04/14/ARTIlPfyvYDneHmsxfWiTYfB260414.shtml)
+
++ [纽约民众举行抗议活动](https://photo.cctv.com/2026/04/14/PHOAwiOyJuUjyfDtGhfKAr4m260414.shtml)
+
++ [中东僵局加剧全球多重危机担忧](https://news.cctv.com/2026/04/14/ARTIFSKmD9kZ1gdARQtz1Xnw260414.shtml)
+
++ [“欺骗式外交”只会将日本再次引入歧途（权威论坛）](https://news.cctv.com/2026/04/14/ARTIJ9UfZmGvHRQDwnnCARf8260414.shtml)
+
++ [便利跨境往来　助力人文交流——中老铁路国际旅客列车开行三载铺就民心相通路](https://news.cctv.com/2026/04/14/ARTIp8gjOZafB1NYkCZGVGaA260414.shtml)
+
++ [四年四次访华，西中在变局中实现“双向奔赴”（国际论坛）](https://news.cctv.com/2026/04/14/ARTIrY25ou410BjVGz5CJtfv260414.shtml)
+
++ [西班牙首相桑切斯：中国注定要在世界的未来扮演关键角色](https://news.cctv.com/2026/04/14/ARTIc7AiPuO9NXUdNkxOGJnT260414.shtml)
+

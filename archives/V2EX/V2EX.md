@@ -43,3 +43,7 @@
 
 + [[API 中转站] Hyper API 10 刀额度，注册免费体验，每日签到送额度](https://www.v2ex.com/t/1205599)
 
++ [新 Codex 中转站点上线，来给 V 友发福利了, 送价值 $50 额度](https://www.v2ex.com/t/1205750)
+
++ [年轻人的第一套房（求指导！）](https://www.v2ex.com/t/1205734)
+
