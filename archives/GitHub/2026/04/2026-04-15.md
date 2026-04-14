@@ -25,3 +25,5 @@
 
 + [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 
++ [tw93/Mole](https://github.com/tw93/Mole)
+
