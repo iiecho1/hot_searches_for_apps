@@ -175,3 +175,7 @@
 
 + [吃透 Linux 静态库 / 动态库：ELF 文件、链接加载与进程地址空间详解](https://blog.csdn.net/Miun123/article/details/158037184)
 
++ [深度学习实战-基于卷积神经网络CNN的水果图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/158738202)
+
++ [NVIDIA Isaac GR00T与Cosmos：重塑机器人学习的合成数据革命](https://blog.csdn.net/lovely_yoshino/article/details/158696467)
+

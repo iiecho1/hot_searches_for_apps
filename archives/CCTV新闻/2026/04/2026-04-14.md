@@ -215,3 +215,7 @@
 
 + [以总理被曝因安全问题申请推迟贪腐案审理 以检方要求提供证明文件](https://news.cctv.com/2026/04/14/ARTI8uhvtrXiJhUdKlTlLqRv260414.shtml)
 
++ [乌拉圭驻华大使：期待推进乌中务实合作](https://news.cctv.com/2026/04/14/ARTI0oke5hvFSRESyGOVTfSf260414.shtml)
+
++ [国际观察：共谱越中友谊新篇章 共绘合作发展新蓝图](https://news.cctv.com/2026/04/14/ARTIjuPfeuwO8O5Y4eO5Y83z260414.shtml)
+
