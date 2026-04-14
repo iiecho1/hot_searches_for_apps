@@ -119,3 +119,7 @@
 
 + [飞牛 NAS 搭建 Navidrome 私人音乐库，Docker 一键部署跨平台畅听](https://blog.csdn.net/zhuyh17362264093/article/details/160135748)
 
++ [【Transformer架构】Transformer架构核心知识体系（包括自注意力机制、多头注意力、Encoder-Decoder结构）](https://blog.csdn.net/qq_45914609/article/details/160123701)
+
++ [2026年 GPT Pro 怎么充值？聊聊我在国内订阅 ChatGPT Pro 的几种实际经历](https://blog.csdn.net/weixin_45915507/article/details/160123904)
+
