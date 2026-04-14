@@ -129,3 +129,5 @@
 
 + [爱马仕龙虾，Hermes agent（部署➕接入飞书） 无敌旋风详细教程](https://blog.csdn.net/2301_79847216/article/details/160120045)
 
++ [2026年Java后端热点科普：Java 26新特性+Java 21落地实战，解锁后端开发新范式](https://blog.csdn.net/chen_si_shang_/article/details/160124027)
+
