@@ -165,3 +165,5 @@
 
 + [上万美军人员正在执行封锁进出伊朗港口船只的任务](https://news.cctv.com/2026/04/15/ARTIPTFXKmkI6UmKCCHscVHM260415.shtml)
 
++ [2400多万伊朗人志愿为国献身](https://news.cctv.com/2026/04/15/ARTIL438ztFOx9ieKcoFHOqr260415.shtml)
+
