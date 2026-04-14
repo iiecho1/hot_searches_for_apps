@@ -41,3 +41,5 @@
 
 + [XChat 替代 tg 还是 wx](https://www.v2ex.com/t/1205659)
 
++ [[API 中转站] Hyper API 10 刀额度，注册免费体验，每日签到送额度](https://www.v2ex.com/t/1205599)
+

@@ -183,3 +183,9 @@
 
 + [泰国：庆祝宋干节](https://photo.cctv.com/2026/04/14/PHOAeB2RwfDuHUqJAAg9LOYH260414.shtml)
 
++ [加拿大自由党赢得关键补选成为议会多数党](https://news.cctv.com/2026/04/14/ARTIeYyetDvHkpwBOToH7Qh1260414.shtml)
+
++ [民调显示以色列民众对执行停火意见分裂](https://news.cctv.com/2026/04/14/ARTIJs9SZzGnGs83CDriKxQk260414.shtml)
+
++ [美国官员称“布什”号航母绕道非洲前往中东](https://news.cctv.com/2026/04/14/ARTIoAF0NK6bLWHiqkCOJO1G260414.shtml)
+

@@ -143,3 +143,19 @@
 
 + [2026车企实验室LIMS选型全攻略：合规保命+研发提效，资深工程师实战干货](https://blog.csdn.net/weixin_62244995/article/details/159929299)
 
++ [Python + AI 实战：用 LangChain 搭建企业级 RAG 知识库](https://blog.csdn.net/2401_86326742/article/details/160113533)
+
++ [【HarmonyOS 6.0】ArkWeb 手势获焦模式详解：告别点击获焦，迎接长按触发](https://blog.csdn.net/weixin_74809706/article/details/159767174)
+
++ [深入浅出Linux线程：从概念到实战，新手也能看懂的核心指南](https://blog.csdn.net/yhrxh_ymq/article/details/159927758)
+
++ [NAS 不仅能存文件?用Docker把NAS变成复古游戏主机](https://blog.csdn.net/2401_87848736/article/details/160135987)
+
++ [4月14日AI每日参考：Claude Code配额告急，Gemma 4开源可跑手机](https://blog.csdn.net/GODYAD/article/details/160130127)
+
++ [HarmonyOS 5.0教育科技开发实战：构建AI个性化学习与分布式协同教育系统](https://blog.csdn.net/u014727709/article/details/160060497)
+
++ [2026年4月11日科技圈大事件：GPT-6倒计时、DeepSeek V4换芯、OpenAI对簿马斯克](https://blog.csdn.net/weixin_44427372/article/details/160055099)
+
++ [【无线可充电传感器网络(WRSN)】公交网络辅助的无人机调度，用于无线可充电传感器网络的可持续充电（Matlab代码实现）](https://blog.csdn.net/weixin_61181717/article/details/160129727)
+
