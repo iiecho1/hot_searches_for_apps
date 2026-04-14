@@ -125,3 +125,7 @@
 
 + [使用 Elasticsearch + Jina embeddings 进行无监督文档聚类](https://blog.csdn.net/UbuntuTouch/article/details/160039667)
 
++ [【大数据存储与管理】NoSQL数据库：02 NoSQL兴起的原因](https://blog.csdn.net/Morse_Chen/article/details/160089789)
+
++ [从后验到先验：语音信噪比估计与DD算法详解](https://blog.csdn.net/qq_42956179/article/details/159549372)
+

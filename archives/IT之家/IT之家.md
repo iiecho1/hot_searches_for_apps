@@ -53,3 +53,5 @@
 
 + [华为 Pura X 上市一年出货量突破 150 万台，超后三位厂商旗舰折叠机型总和](https://m.ithome.com/html/938691.htm)
 
++ [“将 iPhone 摄影推向新高度”，苹果 CEO 库克祝贺阿耳忒弥斯 2 号任务圆满成功](https://m.ithome.com/html/938228.htm)
+
