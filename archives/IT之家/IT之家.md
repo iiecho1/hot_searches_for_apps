@@ -25,3 +25,23 @@
 
 + [新能源车牌绿色变白色，网传“做旧褪色”教程引热议](https://m.ithome.com/html/938899.htm)
 
++ [行业首款横向阔折叠手机：华为 Pura X Max 正式亮相，4 月 20 日发布](https://m.ithome.com/html/938404.htm)
+
++ [余承东首发华为 Pura X Max 折叠屏真机，4 月 20 日正式发布](https://m.ithome.com/html/938382.htm)
+
++ [华为 Pura X Max 阔折叠手机可选幻夜黑、橄榄金等 5 款配色，还有典藏版](https://m.ithome.com/html/938447.htm)
+
++ [华为 Pura X Max 横向阔折叠手机外观再曝，官方称“老余说这条可以发”](https://m.ithome.com/html/938394.htm)
+
++ [华为 Pura X Max 今日开启预订，行业首款横向阔折叠手机](https://m.ithome.com/html/938417.htm)
+
++ [曝 iPhone Air 还有第二代，古尔曼称苹果一向“至少试两次”](https://m.ithome.com/html/938485.htm)
+
++ [张雪回应“张雪机车新手禁令”：对订单的影响不止 10%，10 年后再看就做得很棒](https://m.ithome.com/html/938369.htm)
+
++ [微信表情，手机端也能上传了](https://m.ithome.com/html/938456.htm)
+
++ [适配 Pura 90 系列手机：华为线下店更新“橘子海新皮肤”](https://m.ithome.com/html/938471.htm)
+
++ [应战华为、苹果，消息称国内其他阔折叠新机大多采用主屏 7.7 &#177;/ 副屏 5.5 &#177; 英寸方案](https://m.ithome.com/html/938483.htm)
+

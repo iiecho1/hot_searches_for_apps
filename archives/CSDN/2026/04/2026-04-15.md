@@ -101,3 +101,21 @@
 
 + [Ansible 跨千台机器批量部署，Node Exporter 监控实现 Prometheus 统一采集](https://blog.csdn.net/m0_68390957/article/details/160152485)
 
++ [【HFP】规范精讲[23]: 蓝牙超宽频语音革命——LC3-SWB编码深度解析，重塑无线通话体验](https://blog.csdn.net/weixin_37800531/article/details/160033693)
+
++ [Linux 线程深度剖析：线程 ID 本质、地址空间布局与 pthread 源码全解](https://blog.csdn.net/2503_91389547/article/details/159956647)
+
++ [HarmonyOS 5.0金融科技开发实战：构建硬件级安全数字钱包与分布式智能支付系统](https://blog.csdn.net/u014727709/article/details/159804995)
+
++ [我用 QClaw，花 1338.9w Token 做了一条ai视频](https://blog.csdn.net/qq_33681891/article/details/160101387)
+
++ [Oracle 26ai搭建ADG Far Sync日志备库](https://blog.csdn.net/weixin_41645135/article/details/160089576)
+
++ [深度学习激活函数核心精讲：Sigmoid 原理、推导与工程实践](https://blog.csdn.net/2503_92624912/article/details/160128711)
+
++ [Superpowers - 08 在 AI 时代重写「需求评审会」：深入解读 Superpowers 的头脑风暴与设计规范机制](https://blog.csdn.net/yangshangwei/article/details/160089253)
+
++ [【跟我学 AI 编程】（2） GitHub Copilot 快速指南（2026新版）](https://blog.csdn.net/youcans/article/details/160084286)
+
++ [飞牛 NAS 搭建 Navidrome 私人音乐库，Docker 一键部署跨平台畅听](https://blog.csdn.net/zhuyh17362264093/article/details/160135748)
+
