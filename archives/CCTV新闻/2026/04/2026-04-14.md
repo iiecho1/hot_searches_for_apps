@@ -205,3 +205,13 @@
 
 + [西班牙首相桑切斯：中国注定要在世界的未来扮演关键角色](https://news.cctv.com/2026/04/14/ARTIc7AiPuO9NXUdNkxOGJnT260414.shtml)
 
++ [英国海上贸易行动办公室：阿曼湾海域发生一起船只遇袭事件](https://news.cctv.com/2026/04/14/ARTIpQI2e8nIal1DfYXgKklv260414.shtml)
+
++ [阿富汗强降雨和山洪导致189死9失踪](https://news.cctv.com/2026/04/14/ARTIbwFV70J8l4ifuuZXFb7l260414.shtml)
+
++ [土耳其校园枪击案袭击者已自杀身亡 受伤人数升至16人](https://news.cctv.com/2026/04/14/ARTIXVsKAJR8JCyiTjOpA6NV260414.shtml)
+
++ [消息人士：美伊下一轮谈判可能于本周或下周初举行](https://news.cctv.com/2026/04/14/ARTIvM1SODOiKIETlQvQgHrL260414.shtml)
+
++ [以总理被曝因安全问题申请推迟贪腐案审理 以检方要求提供证明文件](https://news.cctv.com/2026/04/14/ARTI8uhvtrXiJhUdKlTlLqRv260414.shtml)
+

@@ -71,3 +71,11 @@
 
 + [华为 MateBook 14 鸿蒙版官宣：搭载云晰柔光屏，波点艺术圆键盘](https://m.ithome.com/html/938780.htm)
 
++ [马斯克版“微信”还没来，盗版先上榜二了](https://m.ithome.com/html/938891.htm)
+
++ [比亚迪回应深圳坪山园区火情，坪山区消防救援局官方通报](https://m.ithome.com/html/938794.htm)
+
++ [远近都有戏：华为 Pura 90 Pro Max 手机搭载超大底 2 亿长焦](https://m.ithome.com/html/938832.htm)
+
++ [新能源车牌绿色变白色，网传“做旧褪色”教程引热议](https://m.ithome.com/html/938899.htm)
+
