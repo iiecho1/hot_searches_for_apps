@@ -173,3 +173,9 @@
 
 + [美军称已完全切断伊朗海上进出口贸易](https://news.cctv.com/2026/04/15/ARTIbOFQ4lfvHGHfp6Vz2AJM260415.shtml)
 
++ [世卫组织：苏丹约2100万人亟需医疗援助](https://news.cctv.com/2026/04/15/ARTIuuoHREQX4xxzOwJCc112260415.shtml)
+
++ [联合国：苏丹武装冲突造成至少4300名儿童死亡或残疾](https://news.cctv.com/2026/04/15/ARTIsu8tgLjLofyr7CqH3lsZ260415.shtml)
+
++ [印尼雅万高铁累计发送旅客超1500万人次](https://news.cctv.com/2026/04/15/ARTIcbXlBPlUzj06p1lwOVtv260415.shtml)
+

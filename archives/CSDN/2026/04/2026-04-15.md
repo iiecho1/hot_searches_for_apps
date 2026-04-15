@@ -141,3 +141,15 @@
 
 + [第十七届蓝桥杯C/C++软件赛C组算法题讲解](https://blog.csdn.net/2504_93131538/article/details/160156132)
 
++ [Docker核心要点和指令速通](https://blog.csdn.net/2302_80105876/article/details/160171183)
+
++ [Kubernetes 部署 MySQL 一主两从集群（StatefulSet + Job 初始化主从复制）](https://blog.csdn.net/liu_chen_yang/article/details/159495400)
+
++ [2026年4月14日人工智能早间新闻](https://blog.csdn.net/fudaihb/article/details/160130757)
+
++ [Redis（NoSQL数据库，Linux-Ubuntu环境下）](https://blog.csdn.net/2401_88065518/article/details/157870163)
+
++ [【图像分割】模糊局部信息c-均值FLICM图像分割【含Matlab源码 15327期】](https://blog.csdn.net/weixin_63266434/article/details/160162524)
+
++ [Uni从开发到上架IOS APP一站式流程（包含测试、正式证书 | 自定义基座 | Apple登录 | Apple与微信登录、分享对接 | APP备案 | 上线审核步骤）](https://blog.csdn.net/weixin_68222693/article/details/160131693)
+
