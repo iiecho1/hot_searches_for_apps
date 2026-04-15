@@ -49,3 +49,11 @@
 
 + [硕 2 大厂 2 年，想 all in 考公，打算入职江浙沪的小厂做过渡，求建议](https://www.v2ex.com/t/1206048)
 
++ [Anthropic 宣布在 Claude 平台推行身份验证机制](https://www.v2ex.com/t/1206060)
+
++ [炒股 2 年了，一些感悟。](https://www.v2ex.com/t/1205997)
+
++ [有人会觉得很可怕吗 ，](https://www.v2ex.com/t/1206067)
+
++ [26 岁确诊高血压 要靠药物降血压终身](https://www.v2ex.com/t/1206044)
+

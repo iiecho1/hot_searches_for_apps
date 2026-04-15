@@ -27,3 +27,15 @@
 
 + [tw93/Mole](https://github.com/tw93/Mole)
 
++ [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
+
++ [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
+
++ [google/magika](https://github.com/google/magika)
+
++ [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+
