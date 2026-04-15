@@ -47,3 +47,21 @@
 
 + [荣耀 WIN 游戏本正式亮相，首发荣耀东风尾喷散热引擎技术](https://m.ithome.com/html/938570.htm)
 
++ [小米 REDMI G Pro 32U 2026 32 寸 Mini LED 显示器预售：4K 160Hz、澎湃 OS 3、杜比视界，3199 元](https://m.ithome.com/html/938848.htm)
+
++ [网易云音乐 AI 广告“翻车”，人物脖子扭到后背去了](https://m.ithome.com/html/938786.htm)
+
++ [微信安卓 8.0.71 内测版更新：界面改版、图标变更、选项上新](https://m.ithome.com/html/939125.htm)
+
++ [OPPO Pad Mini 小平板核心亮点公布：2.5K 144Hz OLED 屏、8000mAh 电池，4 月 21 日发布](https://m.ithome.com/html/939071.htm)
+
++ [方程豹首款轿车“镁 7”将首发亮相 2026 北京车展，标配比亚迪闪充技术](https://m.ithome.com/html/938852.htm)
+
++ [充电头功率虚标乱象引热议：部分无良商家将“120W”作为商标 / 型号“钓鱼式销售”](https://m.ithome.com/html/938973.htm)
+
++ [分析师：苹果牺牲硬件利润换市场份额，未来十年 Mac 用户数或翻倍](https://m.ithome.com/html/939144.htm)
+
++ [旧机估值满 300 补贴 700 元：iPhone Air 换新国补 4769 元 12 期免息](https://m.ithome.com/html/938904.htm)
+
++ [小米 REDMI K90 Max 手机跑分曝光：天玑 9500 芯片 +16GB 内存](https://m.ithome.com/html/938896.htm)
+
