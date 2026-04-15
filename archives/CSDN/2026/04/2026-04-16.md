@@ -123,3 +123,5 @@
 
 + [爱马仕龙虾，Hermes agent（部署➕接入飞书） 无敌旋风详细教程](https://blog.csdn.net/2301_79847216/article/details/160120045)
 
++ [Google 开源大模型 Gemma4 是「深夜炸厂」](https://blog.csdn.net/weixin_49109647/article/details/160158291)
+
