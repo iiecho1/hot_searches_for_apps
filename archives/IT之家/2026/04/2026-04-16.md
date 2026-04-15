@@ -25,3 +25,27 @@
 
 + [小米 REDMI K90 Max 手机搭载 8550mAh 电池，支持 100W 有线秒充 +100W PPS](https://m.ithome.com/html/938957.htm)
 
++ [金立创始人刘立荣消失 8 年后最新动向：被曝在印尼卖家具，海尔、宁德时代、小米都是客户](https://m.ithome.com/html/939207.htm)
+
++ [消息称苹果自担 DRAM 内存成本压力，iPhone 18 Pro / Max 不涨价](https://m.ithome.com/html/939290.htm)
+
++ [华为官宣姚安娜出任 Pura X Max 先锋大使，行业首款横向阔折叠手机 4 月 20 日发布](https://m.ithome.com/html/939569.htm)
+
++ [小米雷军晒图，刚和西班牙首相自拍、又会见阿联酋阿布扎比王储](https://m.ithome.com/html/939258.htm)
+
++ [特朗普手机官网全面改版，T1 手机最终定型但上市时间依旧是谜](https://m.ithome.com/html/939171.htm)
+
++ [设计公司回应张雪机车 LOGO 争议：独立创作完成，相关商标已核准注册](https://m.ithome.com/html/939281.htm)
+
++ [IT之家鸿蒙版 8.0 发布：主题、悬浮底栏、沉浸光感，从新出发...](https://m.ithome.com/html/939246.htm)
+
++ [13 香应验！小米官方上线「电池升级」服务，消息称可为 Xiaomi 13 系列手机更换更大容量电池](https://m.ithome.com/html/939455.htm)
+
++ [比亚迪海豹 08 内饰正式公布：主打“松弛之境 + 治愈之美”](https://m.ithome.com/html/939233.htm)
+
++ [华为 Pura X Max 折叠屏手机支持手写笔功能，适配“天生会画”App 可一键 AI 生成风格作品](https://m.ithome.com/html/939331.htm)
+
++ [39.98 万元起，小鹏首款全尺寸旗舰 SUV 车型 GX 开启预售](https://m.ithome.com/html/939613.htm)
+
++ [电脑终于能发语音了，微信 Win / Mac PC 版 4.1.9 内测更新发布](https://m.ithome.com/html/939485.htm)
+
