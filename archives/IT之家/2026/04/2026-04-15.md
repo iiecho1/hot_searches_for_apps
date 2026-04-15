@@ -65,3 +65,23 @@
 
 + [小米 REDMI K90 Max 手机跑分曝光：天玑 9500 芯片 +16GB 内存](https://m.ithome.com/html/938896.htm)
 
++ [金立创始人刘立荣消失 8 年后最新动向：被曝在印尼卖家具，海尔、宁德时代、小米都是客户](https://m.ithome.com/html/939207.htm)
+
++ [微信安卓 8.0.71 内测版更新：图标变更、选项上新](https://m.ithome.com/html/939125.htm)
+
++ [消息称苹果自担 DRAM 内存成本压力，iPhone 18 Pro / Max 不涨价](https://m.ithome.com/html/939290.htm)
+
++ [小米雷军晒图，刚和西班牙首相自拍、又会见阿联酋阿布扎比王储](https://m.ithome.com/html/939258.htm)
+
++ [特朗普手机官网全面改版，T1 手机最终定型但上市时间依旧是谜](https://m.ithome.com/html/939171.htm)
+
++ [鸿蒙智行问界 M9 旗舰 SUV 动力信息更新，纯电版车型确认将配 120 度电池](https://m.ithome.com/html/939135.htm)
+
++ [设计公司回应张雪机车 LOGO 争议：独立创作完成，相关商标已核准注册](https://m.ithome.com/html/939281.htm)
+
++ [多地整治低速代步电动车“老头乐”，山西晋中 4 月 21 日起禁止相应车型上路](https://m.ithome.com/html/939137.htm)
+
++ [消息称三星显示器本月国行所有订单作废：无货可出，渠道仅在消耗库存](https://m.ithome.com/html/939116.htm)
+
++ [小米推出米家理发器 2 套装版：自带精修、雕刻刀头，189 元](https://m.ithome.com/html/939058.htm)
+

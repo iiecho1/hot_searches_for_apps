@@ -153,3 +153,5 @@
 
 + [Uni从开发到上架IOS APP一站式流程（包含测试、正式证书 | 自定义基座 | Apple登录 | Apple与微信登录、分享对接 | APP备案 | 上线审核步骤）](https://blog.csdn.net/weixin_68222693/article/details/160131693)
 
++ [鸿蒙游戏 Store 设计（AI + 多端）](https://blog.csdn.net/qq_36863796/article/details/160148604)
+
