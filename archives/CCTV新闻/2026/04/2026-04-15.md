@@ -207,3 +207,9 @@
 
 + [中非携手推进现代化——历史情谊的延续 现实发展的必然](https://news.cctv.com/2026/04/15/ARTIDhxDUwETqEbpC1jw2pAV260415.shtml)
 
++ [特朗普再次威胁袭击伊朗民用基础设施](https://news.cctv.com/2026/04/15/ARTIrTqd0eT6S7PaxekS8asC260415.shtml)
+
++ [伊方否认美伊“原则上同意”延长停火](https://news.cctv.com/2026/04/15/ARTI7A2gL9TXKyOSOj6scTA2260415.shtml)
+
++ [斯坦福大学报告：中国多项AI指标占据优势](https://news.cctv.com/2026/04/15/ARTIigfeEmTEIzE50U21Z5OL260415.shtml)
+
