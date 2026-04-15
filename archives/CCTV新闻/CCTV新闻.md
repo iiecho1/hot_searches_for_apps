@@ -213,3 +213,7 @@
 
 + [斯坦福大学报告：中国多项AI指标占据优势](https://news.cctv.com/2026/04/15/ARTIigfeEmTEIzE50U21Z5OL260415.shtml)
 
++ [美官员：美军将在未来数日内向中东增派数千兵力](https://news.cctv.com/2026/04/15/ARTIVowludtoYF1Rte7KdC8o260415.shtml)
+
++ [土耳其校园枪击事件已致4死20伤](https://news.cctv.com/2026/04/15/ARTI6eSnMPy9BXyDs1UA7y5n260415.shtml)
+
