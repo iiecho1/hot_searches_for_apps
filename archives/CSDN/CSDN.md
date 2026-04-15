@@ -125,3 +125,5 @@
 
 + [Google 开源大模型 Gemma4 是「深夜炸厂」](https://blog.csdn.net/weixin_49109647/article/details/160158291)
 
++ [NVIDIA Isaac GR00T与Cosmos：重塑机器人学习的合成数据革命](https://blog.csdn.net/lovely_yoshino/article/details/158696467)
+

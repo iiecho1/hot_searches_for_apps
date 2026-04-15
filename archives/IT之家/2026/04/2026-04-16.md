@@ -49,3 +49,9 @@
 
 + [电脑终于能发语音了，微信 Win / Mac PC 版 4.1.9 内测更新发布](https://m.ithome.com/html/939485.htm)
 
++ [微信安卓 8.0.71 内测版更新：图标变更、选项上新](https://m.ithome.com/html/939125.htm)
+
++ [多地整治低速代步电动车“老头乐”，山西晋中 4 月 21 日起禁止相应车型上路](https://m.ithome.com/html/939137.htm)
+
++ [消息称三星显示器本月国行所有订单作废：无货可出，渠道仅在消耗库存](https://m.ithome.com/html/939116.htm)
+
