@@ -47,3 +47,5 @@
 
 + [[加群领 10U 额度 评论留 ID 再发 5U] ⛽ RootFlow AI — 高性能 AI API 加油站](https://www.v2ex.com/t/1206000)
 
++ [硕 2 大厂 2 年，想 all in 考公，打算入职江浙沪的小厂做过渡，求建议](https://www.v2ex.com/t/1206048)
+

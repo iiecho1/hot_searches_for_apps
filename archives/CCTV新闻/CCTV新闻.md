@@ -195,3 +195,15 @@
 
 + [特朗普称没有必要延长同伊朗的停火](https://news.cctv.com/2026/04/15/ARTIUFf1pNev07C48VIRiXjf260415.shtml)
 
++ [迪拜帆船酒店宣布将停业1年半进行大规模修复工程](https://news.cctv.com/2026/04/15/ARTI9x2qhSvWe0l8SSvuuSFO260415.shtml)
+
++ [日本政府决定继续释放民间石油储备](https://news.cctv.com/2026/04/15/ARTIj7TN7naAmTHnyBcDO8Ly260415.shtml)
+
++ [斡旋美伊谈判 巴基斯坦寻找“折中方案”](https://news.cctv.com/2026/04/15/ARTIPP59ZxbNmFYlHjWbmzpD260415.shtml)
+
++ [泽连斯基称中东战事显著影响对乌供武](https://news.cctv.com/2026/04/15/ARTI3qaboFhBVLVOx8bXaQgd260415.shtml)
+
++ [苏林清华演讲：投资于人就是投资越中关系的未来](https://news.cctv.com/2026/04/15/ARTInMrKavfKXFh8KoDrbrdk260415.shtml)
+
++ [中非携手推进现代化——历史情谊的延续 现实发展的必然](https://news.cctv.com/2026/04/15/ARTIDhxDUwETqEbpC1jw2pAV260415.shtml)
+
