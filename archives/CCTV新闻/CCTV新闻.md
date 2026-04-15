@@ -167,3 +167,9 @@
 
 + [2400多万伊朗人志愿为国献身](https://news.cctv.com/2026/04/15/ARTIL438ztFOx9ieKcoFHOqr260415.shtml)
 
++ [印度一电厂发生爆炸事故致10死23伤 莫迪：令人悲痛](https://news.cctv.com/2026/04/15/ARTIl1kHJQ70RGEyCNBN93zo260415.shtml)
+
++ [美国两名联邦众议员因涉性丑闻正式辞任](https://news.cctv.com/2026/04/15/ARTII9CeLK0m62FgdI1PdXzJ260415.shtml)
+
++ [美军称已完全切断伊朗海上进出口贸易](https://news.cctv.com/2026/04/15/ARTIbOFQ4lfvHGHfp6Vz2AJM260415.shtml)
+

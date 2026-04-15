@@ -27,3 +27,15 @@
 
 + [大模型中转站， Unity2.Ai 内测招募：直达源头，拒绝“掺水”！](https://www.v2ex.com/t/1205859)
 
++ [突然发现我还没交过比自己年纪小的女友。。。](https://www.v2ex.com/t/1205862)
+
++ [# 🐱 送懒猫微服！送 CodeX 啦！（第二轮）](https://www.v2ex.com/t/1205888)
+
++ [辞职回乡，状态很好](https://www.v2ex.com/t/1205819)
+
++ [大家下班了一般都干啥](https://www.v2ex.com/t/1205790)
+
++ [继续启动！ 19 元/月质保整月的 gpt plus！](https://www.v2ex.com/t/1205942)
+
++ [突然好奇，想看一下大家的电脑多久没关机了](https://www.v2ex.com/t/1205866)
+
