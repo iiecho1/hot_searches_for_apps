@@ -171,3 +171,11 @@
 
 + [2026年最新、最全、可用的Docker 国内镜像源加速（截至 2026 年 4月14日 亲测可用）](https://blog.csdn.net/yangzhihua/article/details/160142570)
 
++ [Python多模态AI开发指南：让AI同时理解文字、图片和语音](https://blog.csdn.net/2401_86326742/article/details/160185456)
+
++ [ollama v0.20.7 最新版更新详解：ROCm 7.2.1、Gemma4 渲染修复与多项 Metal/Renderer 回归修补](https://blog.csdn.net/weixin_48502062/article/details/160191540)
+
++ [ViVa——基于视频生成模型的机器人RL价值估计：比原先基于VLM的价值函数，能更好的在动态交互环境中对当前进度和未来走势下所带来的回报做估计](https://blog.csdn.net/v_JULY_v/article/details/160209753)
+
++ [查论文AIGC率哪里靠谱？5个免费实用工具推荐](https://blog.csdn.net/xcLeigh/article/details/160187718)
+
