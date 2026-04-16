@@ -167,3 +167,13 @@
 
 + [内塔尼亚胡：以军即将占领真主党重镇](https://news.cctv.com/2026/04/16/ARTIO0varHB9rOwJV9td8okg260416.shtml)
 
++ [联合国：中东局势推高对苏丹援助物资运输成本](https://news.cctv.com/2026/04/16/ARTICxU4m5OuAooBetmGTdY9260416.shtml)
+
++ [伊朗最高领袖军事顾问：伊朗已做好“打持久战”准备](https://news.cctv.com/2026/04/16/ARTIaUcnXwSsVIkYH8LEgeaW260416.shtml)
+
++ [俄对外情报局局长：美国侵略伊朗源于殖民主义思维](https://news.cctv.com/2026/04/16/ARTIXChfSGjSa01Wgksbxy29260416.shtml)
+
++ [“世越”号倾覆事故12周年 李在明表示将全力避免悲剧重演](https://news.cctv.com/2026/04/16/ARTI79GReCVuU6prStS6CIs3260416.shtml)
+
++ [伊朗称美国封锁霍尔木兹海峡或致停火协议破裂](https://news.cctv.com/2026/04/16/ARTIJiAiPv9KCuMx0XBl6MJc260416.shtml)
+

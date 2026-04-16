@@ -27,3 +27,11 @@
 
 + [27 届毕业生的迷思](https://www.v2ex.com/t/1206037)
 
++ [关于父母的托举](https://www.v2ex.com/t/1206165)
+
++ [有人说 [外包] 太难听了，很土，有没有什么别的、更好听的名称。](https://www.v2ex.com/t/1206278)
+
++ [现在推荐什么路由器刷 openwrt 的？或者能 ssh 进去的](https://www.v2ex.com/t/1206063)
+
++ [Gemini app, now on Mac](https://www.v2ex.com/t/1206235)
+
