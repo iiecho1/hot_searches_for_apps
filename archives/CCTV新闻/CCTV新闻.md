@@ -193,3 +193,9 @@
 
 + [全球瞭望丨英媒：美以伊战事加剧美民众生活压力](https://news.cctv.com/2026/04/16/ARTIfBoDvl3rrI6XTT9jwg3a260416.shtml)
 
++ [菲律宾一液化石油气站爆炸已致2死7伤](https://news.cctv.com/2026/04/16/ARTIayprKy4ujNjU6l8juoPV260416.shtml)
+
++ [国际观察｜战事阴霾令海湾国家经济转型承压](https://news.cctv.com/2026/04/16/ARTIGmwEOZglypxQvf94yqlE260416.shtml)
+
++ [【中国那些事儿】英国学者解码中国软实力：真实叙事赢得全球吸引力](https://news.cctv.com/2026/04/16/ARTI8afUULGq3ZYxhMKjXWSC260416.shtml)
+

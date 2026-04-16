@@ -39,3 +39,5 @@
 
 + [BasedHardware/omi](https://github.com/BasedHardware/omi)
 
++ [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+
