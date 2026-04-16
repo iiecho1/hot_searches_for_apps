@@ -63,3 +63,5 @@
 
 + [【巅峰智斗】hjm秋哥秀vol.12【晴光春序】](https://m.acfun.cn/v/?ac=48444955)
 
++ [【东方】月之彩虹【Future Core Arrange / DVMUSIC】](https://m.acfun.cn/v/?ac=48438817)
+

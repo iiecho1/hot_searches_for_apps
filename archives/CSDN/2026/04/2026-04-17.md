@@ -123,3 +123,5 @@
 
 + [查论文AIGC率哪里靠谱？5个免费实用工具推荐](https://blog.csdn.net/xcLeigh/article/details/160187718)
 
++ [Verilog编写计数器及其对应波形](https://blog.csdn.net/bvbvbv_violet/article/details/160227677)
+
