@@ -33,3 +33,19 @@
 
 + [比亚迪海豹 08 内饰正式公布：主打“松弛之境 + 治愈之美”](https://m.ithome.com/html/939233.htm)
 
++ [雷军拼了！亲自直播 15 小时，1265 公里中间只充一次电，新一代小米 SU7 北京到上海](https://m.ithome.com/html/939810.htm)
+
++ [苹果 iPad mini 8 前瞻：OLED 屏首秀，iPhone Air 同款 A19 Pro 芯片](https://m.ithome.com/html/939661.htm)
+
++ [事关 L2 级辅助驾驶：相关强制性国标进一步公开征求意见，引望智能、小米汽车、比亚迪、特斯拉等单位联合起草](https://m.ithome.com/html/939644.htm)
+
++ [小米 18 Pro 手机渲染图曝光：新增 AI 按钮，可控制汽车 / 智能家居](https://m.ithome.com/html/939769.htm)
+
++ [华为官宣易烊千玺成为 Pura 90 系列全球代言人](https://m.ithome.com/html/939676.htm)
+
++ [华为宣布杨幂成为鸿蒙智行享界品牌代言人](https://m.ithome.com/html/939767.htm)
+
++ [华为随行 WiFi X 新品 4 月 27 日正式发售，零售价 2499 元](https://m.ithome.com/html/939632.htm)
+
++ [九号推出 M3 85/95c MAX 闪骑智能铅酸电摩：首发价 4799/6299 元](https://m.ithome.com/html/939643.htm)
+
