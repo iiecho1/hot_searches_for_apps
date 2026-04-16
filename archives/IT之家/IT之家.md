@@ -25,3 +25,11 @@
 
 + [华为 WATCH FIT 5 Pro 手表真机曝光：预装 HarmonyOS 系统、相比上代屏占比更高](https://m.ithome.com/html/939618.htm)
 
++ [金立创始人刘立荣消失 8 年后最新动向：被曝在印尼卖家具，海尔、宁德时代、小米都是客户](https://m.ithome.com/html/939207.htm)
+
++ [特朗普手机官网全面改版，T1 手机最终定型但上市时间依旧是谜](https://m.ithome.com/html/939171.htm)
+
++ [IT之家鸿蒙版 8.0 发布：主题、悬浮底栏、沉浸光感，从新出发...](https://m.ithome.com/html/939246.htm)
+
++ [比亚迪海豹 08 内饰正式公布：主打“松弛之境 + 治愈之美”](https://m.ithome.com/html/939233.htm)
+

@@ -101,3 +101,25 @@
 
 + [国芯抗量子MCU突破、太空算力元年开启、AI编程工具密集发布](https://blog.csdn.net/qq_52305085/article/details/160202635)
 
++ [AI 视频生成器：一键输入主题，自动生成文案、素材、配音、字幕，7×24 小时无人值守](https://blog.csdn.net/LT15171009269/article/details/160191952)
+
++ [C++ Memory Order 完全指南：从 relaxed 到 seq_cst，深入理解无锁编程与 happens-before](https://blog.csdn.net/2302_77889990/article/details/160228013)
+
++ [【项目篇】高并发服务器 - Reactor模型详解](https://blog.csdn.net/2301_81290732/article/details/159051960)
+
++ [基于FPGA的CNN卷积神经网络设计指南](https://blog.csdn.net/ccsss22/article/details/160228236)
+
++ [2026年新高考英语大纲词汇表3500个电子版PDF（含正序版、乱序版和默写版）](https://blog.csdn.net/2608_94927382/article/details/160192007)
+
++ [从零搭建内网文件共享平台：WebDAV + AList + OnlyOffice 完整部署指南](https://blog.csdn.net/qq385105501/article/details/160216917)
+
++ [目前 Claude / GPT 的订阅建议与反代避坑](https://blog.csdn.net/weixin_42426841/article/details/160192738)
+
++ [vscode api 配置怎么做：第三方大模型接入 VS Code 的完整方法](https://blog.csdn.net/AIBox365/article/details/160168783)
+
++ [OpenClaw接入飞书，私聊，群聊，私聊策略，群聊策略](https://blog.csdn.net/haveqing/article/details/160194727)
+
++ [多人游戏引擎框架gamebox](https://blog.csdn.net/weixin_39939819/article/details/160125261)
+
++ [查论文AIGC率哪里靠谱？5个免费实用工具推荐](https://blog.csdn.net/xcLeigh/article/details/160187718)
+
