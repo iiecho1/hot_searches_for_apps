@@ -161,3 +161,11 @@
 
 + [泰国：庆祝宋干节](https://photo.cctv.com/2026/04/14/PHOAeB2RwfDuHUqJAAg9LOYH260414.shtml)
 
++ [俄官员：乌无人机若“借道”北约领空 俄方有权自卫](https://news.cctv.com/2026/04/17/ARTIdSUcn01BAdyvuYBJ3PRZ260417.shtml)
+
++ [特朗普称以黎有望达成协议 10天停火期涵盖真主党](https://news.cctv.com/2026/04/17/ARTI204MZjvgXGE1XjBsgEHk260417.shtml)
+
++ [伊朗总统：美国多次违约 伊朗人民已对其完全失去信任](https://news.cctv.com/2026/04/17/ARTISML4GiSjlajUl98Q2yIo260417.shtml)
+
++ [贝宁宪法法院确认瓦达尼赢得总统选举](https://news.cctv.com/2026/04/17/ARTIMHDzg0TiYPy8Kihv7nxL260417.shtml)
+
