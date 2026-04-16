@@ -153,3 +153,19 @@
 
 + [【技术干货】Claude Code 桌面版重大更新：AI 辅助编程进入 IDE 原生时代](https://blog.csdn.net/weixin_45888077/article/details/160192224)
 
++ [GPT-5架构泄露？Kubernetes 1.31发布与Rust重构浪潮下的云原生之变](https://blog.csdn.net/chen_si_shang_/article/details/160193580)
+
++ [视觉Transformer实战 | Swin Transformer详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149285667)
+
++ [把视频内容变成手绘漫画笔记？ClipSketch AI 让小红书创作省事不少](https://blog.csdn.net/2301_81152266/article/details/160210983)
+
++ [稀疏支配范式下的加权调和分析：从 A₂ 定理到矩阵权理论](https://blog.csdn.net/weixin_43817941/article/details/160158158)
+
++ [别再说AI编程就是Vibe Coding了，Agentic Engineering才是未来](https://blog.csdn.net/zxc18344522713/article/details/160190504)
+
++ [HarmonyOS 5.0工业物联网开发实战：构建分布式智能制造监控与数字孪生预测维护系统](https://blog.csdn.net/u014727709/article/details/138742565)
+
++ [Electron开源框架下实际鸿蒙PC应用开发——AI英语单词记忆卡实战](https://blog.csdn.net/feng8403000/article/details/160113015)
+
++ [不想再给云存储交月费？Go2RTC + EasyNVR 让摄像头录像留在本地不花钱](https://blog.csdn.net/u010726809/article/details/160209816)
+

@@ -35,3 +35,15 @@
 
 + [Gemini app, now on Mac](https://www.v2ex.com/t/1206235)
 
++ [为什么普通人戾气越来越重？看看这两条新闻就懂了](https://www.v2ex.com/t/1206266)
+
++ [京东家政 2 小时预约火爆，为什么](https://www.v2ex.com/t/1206231)
+
++ [claude 认证莫慌](https://www.v2ex.com/t/1206105)
+
++ [万把块钱搞什么投资（投机？）好呢](https://www.v2ex.com/t/1206257)
+
++ [调查: 有人跟我一样用 微信文件传输助手 当记事本用的吗](https://www.v2ex.com/t/1206169)
+
++ [copilot 体验下来不错，是我的错觉吗？](https://www.v2ex.com/t/1206248)
+
