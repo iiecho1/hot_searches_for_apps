@@ -191,3 +191,5 @@
 
 + [滑块验证码前端安全研究：以极验 GT4（第四代）为例](https://blog.csdn.net/weixin_42384784/article/details/160193114)
 
++ [AI 视频生成器：一键输入主题，自动生成文案、素材、配音、字幕，7×24 小时无人值守](https://blog.csdn.net/LT15171009269/article/details/160191952)
+
