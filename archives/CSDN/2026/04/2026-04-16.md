@@ -127,3 +127,15 @@
 
 + [NVIDIA Isaac GR00T与Cosmos：重塑机器人学习的合成数据革命](https://blog.csdn.net/lovely_yoshino/article/details/158696467)
 
++ [Transformer实战（39）——多模态生成式Transformer](https://blog.csdn.net/LOVEmy134611/article/details/148064027)
+
++ [还在午夜停机发版？微服务零停机发布的全链路设计与代码实战](https://blog.csdn.net/csdn_silent/article/details/160137219)
+
++ [【大数据存储与管理】NoSQL数据库：02 NoSQL兴起的原因](https://blog.csdn.net/Morse_Chen/article/details/160089789)
+
++ [Nexent 智能体开发：打造专属私人晨报官，开启智能晨间生活](https://blog.csdn.net/user340/article/details/160191768)
+
++ [K8s 1.36 新特性解读：服务网格如何解决微服务安全与通信难题？生产级对比](https://blog.csdn.net/chen501986411/article/details/160157669)
+
++ [CISSP 域4知识点 网络安全架构安全](https://blog.csdn.net/weixin_51535864/article/details/160148366)
+

@@ -21,3 +21,9 @@
 
 + [科普一下低价 gpt 是怎么来的](https://www.v2ex.com/t/1206058)
 
++ [VBCode 回帖抽 20 刀余额, 共计 50 份, 新用户进群送 5 刀体验额度. Codex plus/pro 号池 0.12 倍率](https://www.v2ex.com/t/1205988)
+
++ [一人推荐一款 mac m5 必装软件](https://www.v2ex.com/t/1206103)
+
++ [27 届毕业生的迷思](https://www.v2ex.com/t/1206037)
+
