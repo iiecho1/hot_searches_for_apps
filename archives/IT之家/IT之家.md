@@ -55,3 +55,11 @@
 
 + [消息称三星显示器本月国行所有订单作废：无货可出，渠道仅在消耗库存](https://m.ithome.com/html/939116.htm)
 
++ [曝年底旗舰手机将区分档位，多家厂商仅 Pro Max 级别机型才能用上顶配满血 SoC](https://m.ithome.com/html/939614.htm)
+
++ [事关 L2 级辅助驾驶：相关强制性国标进一步公开征求意见，华为引望、小米汽车、比亚迪、特斯拉等单位联合起草](https://m.ithome.com/html/939644.htm)
+
++ [华为 Pura X Max 横向阔折叠手机确认支持 AI 眼动翻页功能，4 月 20 日发布](https://m.ithome.com/html/939637.htm)
+
++ [华为 WATCH FIT 5 Pro 手表真机曝光：预装 HarmonyOS 系统、相比上代屏占比更高](https://m.ithome.com/html/939618.htm)
+

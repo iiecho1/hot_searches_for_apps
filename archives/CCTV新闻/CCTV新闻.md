@@ -177,3 +177,17 @@
 
 + [伊朗称美国封锁霍尔木兹海峡或致停火协议破裂](https://news.cctv.com/2026/04/16/ARTIJiAiPv9KCuMx0XBl6MJc260416.shtml)
 
++ [伊朗驻巴基斯坦大使：伊斯兰堡是与美国进行谈判的唯一地点](https://news.cctv.com/2026/04/16/ARTIBDE9bXTUqVIuf3mrPSxC260416.shtml)
+
++ [伊朗宣布全国各级学校将转为线上教学](https://news.cctv.com/2026/04/16/ARTIaC8KybohUKWfN41CE6Fx260416.shtml)
+
++ [乌称能源基础设施遭袭 多地出现断电情况](https://news.cctv.com/2026/04/16/ARTIb90IKcNcj2IF4oY9P6Wi260416.shtml)
+
++ [中国驻日大使馆接连遭到恐怖威胁 相关情况披露](https://news.cctv.com/2026/04/16/ARTIVk0idBJhY7AOB05gnMmh260416.shtml)
+
++ [外媒看中国 | 桑切斯“四年四访”彰显西中关系重要性 西班牙致力搭建“欧中桥梁”](https://news.cctv.com/2026/04/16/ARTIyqcc7wGYz4FuFBCi2A4M260416.shtml)
+
++ [“再军事化”野心暴露无遗 严重破坏地区和平稳定（国际视点）](https://news.cctv.com/2026/04/16/ARTIzEw83iHoWGi4FOGKoF7p260416.shtml)
+
++ [外交部提醒赴美国中国公民注意入境安全风险](https://news.cctv.com/2026/04/16/ARTIBfxqBsdpd5p5wp9dTEMR260416.shtml)
+
