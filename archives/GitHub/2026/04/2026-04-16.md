@@ -27,3 +27,15 @@
 
 + [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
++ [steipete/wacli](https://github.com/steipete/wacli)
+
++ [topoteretes/cognee](https://github.com/topoteretes/cognee)
+
++ [z-lab/dflash](https://github.com/z-lab/dflash)
+
++ [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+
++ [EvoMap/evolver](https://github.com/EvoMap/evolver)
+
++ [BasedHardware/omi](https://github.com/BasedHardware/omi)
+
