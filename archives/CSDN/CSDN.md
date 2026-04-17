@@ -101,3 +101,33 @@
 
 + [【笔记】安卓毛玻璃效果（Blur）实现笔记（使用BlurView）（结尾附：源码）](https://blog.csdn.net/qq_41140324/article/details/160222287)
 
++ [一个插件，国内直接用Claude Opus 4.7](https://blog.csdn.net/Mrxiao_bo/article/details/160252395)
+
++ [【LE Audio】ASCS精讲[7]: SDP互操作落地，蓝牙音频服务发现全解析](https://blog.csdn.net/weixin_37800531/article/details/160083243)
+
++ [第21届全国大学生智能车竞赛----飞跃雷区组技术手册](https://blog.csdn.net/longqiu_LQ/article/details/160182671)
+
++ [从零打造现代化个人博客：Vue 3 + TypeScript + Element Plus 完整实战](https://blog.csdn.net/weixin_39899152/article/details/160174145)
+
++ [深度解析Elasticsearch REST API：核心优势、工作流程与实战价值](https://blog.csdn.net/qq_41840843/article/details/160251291)
+
++ [咖啡商城|基于springboot + vue咖啡商城系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/160207280)
+
++ [【项目篇】高并发服务器 - 从 Buffer 到 TcpServer 构建高并发服务器引擎](https://blog.csdn.net/2301_81290732/article/details/159245699)
+
++ [机器人领域简报（2026年4月9日—4月15日）](https://blog.csdn.net/txg666/article/details/160213957)
+
++ [Elasticsearch：快速近似 ES|QL - 第一部分](https://blog.csdn.net/UbuntuTouch/article/details/160232467)
+
++ [04月17日AI每日参考：Claude Opus 4.7正式发布，智元机器人大会今日开幕](https://blog.csdn.net/GODYAD/article/details/160233738)
+
++ [HarmonyOS 6（API 23）悬浮导航与沉浸光感实战：打造下一代玻璃拟态UI体验](https://blog.csdn.net/u014727709/article/details/160226304)
+
++ [2、IoT物理极限架构思想—双主智能体系架构](https://blog.csdn.net/2601_95844624/article/details/160260039)
+
++ [周红伟：梁文峰DeepSeek V4 终极对决 GPT-6,​梁文锋透露 DeepSeek V4 将于 4 月下旬发布](https://blog.csdn.net/starzhou/article/details/160184698)
+
++ [2026 年 AI 编程助手全面对比评测：Cursor vs Copilot vs Claude Code vs GitHub Copilot Free](https://blog.csdn.net/qq_38133850/article/details/160180235)
+
++ [跨端框架横评 2026：Flutter、React Native、KMP、Kuikly、小程序，谁是你下一个项目的正确答案？](https://blog.csdn.net/mba16c35/article/details/160189196)
+

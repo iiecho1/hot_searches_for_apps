@@ -25,3 +25,13 @@
 
 + [华为鸿蒙 HarmonyOS 6.0.0.328 SP58 新版本开推：新增五一限时水印、图库艺术化视图功能等](https://m.ithome.com/html/940096.htm)
 
++ [华为鸿蒙 HarmonyOS 6.0.0.328 SP58 新版本未公布特性抢先看，含畅连实时对讲、星盾防诈等](https://m.ithome.com/html/940101.htm)
+
++ [高阶编程能力提升，Anthropic 发布 Claude Opus 4.7 模型](https://m.ithome.com/html/940099.htm)
+
++ [雷军再谈“营销大师”标签：有人想制造小米汽车“营销好”而非质量好的刻板印象](https://m.ithome.com/html/940135.htm)
+
++ [11.28 万元起，吉利银河星耀 7 轿车正式开启预售](https://m.ithome.com/html/940075.htm)
+
++ [MacBook Neo 全球爆卖，多个市场苹果官网发货排期已至 5 月](https://m.ithome.com/html/940105.htm)
+
