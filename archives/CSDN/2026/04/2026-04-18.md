@@ -131,3 +131,7 @@
 
 + [跨端框架横评 2026：Flutter、React Native、KMP、Kuikly、小程序，谁是你下一个项目的正确答案？](https://blog.csdn.net/mba16c35/article/details/160189196)
 
++ [SQL注入实战：sqli-lab靶场11-22关通关指南](https://blog.csdn.net/2302_79917159/article/details/160058677)
+
++ [基于 Vite 的 React+Vue 混部完整模板（含目录结构、依赖清单、启动脚本）](https://blog.csdn.net/Z_Wonderful/article/details/160183708)
+
