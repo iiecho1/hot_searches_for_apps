@@ -181,3 +181,15 @@
 
 + [伊朗说已准备好对敌人侵略予以强有力回击](https://news.cctv.com/2026/04/17/ARTIwGQXlILuGGi11ejbqoKp260417.shtml)
 
++ [美军实施封锁以来首艘油轮通过霍尔木兹海峡](https://news.cctv.com/2026/04/17/ARTIGigcMl0RnxZCgbFPImJB260417.shtml)
+
++ [日本东京检方开始对强闯我使馆不法之徒进行精神鉴定](https://news.cctv.com/2026/04/17/ARTIAiYFLDO2G98XSUSYekSW260417.shtml)
+
++ [日本民众抗议高市政府企图解禁杀伤性武器出口](https://news.cctv.com/2026/04/17/ARTIqhp1Vc1MSuzzrLLp8qHj260417.shtml)
+
++ [全球瞭望｜《自然》社论：中国“绿色长城”经验值得世界借鉴](https://news.cctv.com/2026/04/17/ARTIy6IY4WL0SSqs4Po6hbnE260417.shtml)
+
++ [“与中国打交道，装腔作势的政治作秀没用”](https://news.cctv.com/2026/04/17/ARTIXKQRLm2cQEGwHdeAydun260417.shtml)
+
++ [高端访谈｜“莫中两国有着兄弟般的情谊”——访莫桑比克总统丹尼尔·查波](https://news.cctv.com/2026/04/17/ARTIEmdg71rwNYiNig6WWpOM260417.shtml)
+
