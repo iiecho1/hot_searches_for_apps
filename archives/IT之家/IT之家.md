@@ -65,3 +65,9 @@
 
 + [真 &#183; 鸿蒙 6.1 前瞻：华为 HarmonyOS 6.0.0.328 SP58 实装新游戏助手，支持快速开关高性能模式等](https://m.ithome.com/html/940100.htm)
 
++ [雷军：未来几年，小米都不会做 10 万元以内车型](https://m.ithome.com/html/940123.htm)
+
++ [揽胜回应被模仿：看到这么多致敬甚至模仿很高兴，因为每一次模仿都说明揽胜就是标杆](https://m.ithome.com/html/940082.htm)
+
++ [华为鸿蒙 HarmonyOS 6.0.0.328 SP58 新版本开推：新增五一限时水印、图库艺术化视图功能等](https://m.ithome.com/html/940096.htm)
+

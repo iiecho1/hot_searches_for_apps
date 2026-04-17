@@ -147,3 +147,19 @@
 
 + [从 Prompt 到智能体：深入理解 APE、Active-Prompt、DSP、PAL、ReAct 与 Reflexion](https://blog.csdn.net/MRDONG1/article/details/160165299)
 
++ [KingbaseES 表空间目录自动创建特性深度解析（下篇）](https://blog.csdn.net/qq_32682301/article/details/160230441)
+
++ [HarmonyOS / OpenHarmony 平台三方库移植：使用 vcpkg 移植 libzen（ZenLib）和 libmediainfo 实践指南](https://blog.csdn.net/qq8864/article/details/160224634)
+
++ [HarmonyOS 5.0工业物联网开发实战：构建分布式智能制造监控与数字孪生预测维护系统](https://blog.csdn.net/u014727709/article/details/138742565)
+
++ [企业级模块化RAG项目(mysql➕redis➕milvus➕模型微调➕bm25➕fastapi➕ollama➕Prompt➕多策略选择)](https://blog.csdn.net/2301_76243776/article/details/160226692)
+
++ [单元测试与文档同步生成（使用千问）](https://blog.csdn.net/brucexia/article/details/160200339)
+
++ [Android DataBinding 全面解析【源码篇1】](https://blog.csdn.net/indeedes/article/details/160219053)
+
++ [微信小程序同声传译（WechatSI）通用接入教程](https://blog.csdn.net/m0_64705796/article/details/160140765)
+
++ [第 8 篇｜Apache DolphinScheduler 与 Flink Spark 数据引擎的边界、协同与最佳实践](https://blog.csdn.net/DolphinScheduler/article/details/160204841)
+
