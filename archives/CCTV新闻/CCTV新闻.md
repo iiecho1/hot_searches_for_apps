@@ -173,3 +173,9 @@
 
 + [伊朗革命卫队称抵抗阵线向曼德海峡船只发出警告](https://news.cctv.com/2026/04/17/ARTIUF8aUdvBAvQRrnVnDhih260417.shtml)
 
++ [美又一核动力航母失火 8名船员受伤](https://news.cctv.com/2026/04/17/ARTI33NlPIlRqlVakrXPFUHb260417.shtml)
+
++ [古巴外长：美国封锁伊朗港口“不负责任”](https://news.cctv.com/2026/04/17/ARTISxiansKThOMooPElDEtT260417.shtml)
+
++ [马克龙建议社交媒体平台对15岁以下青少年禁用](https://news.cctv.com/2026/04/17/ARTIhinnyk4SFcaKFEG2L67o260417.shtml)
+

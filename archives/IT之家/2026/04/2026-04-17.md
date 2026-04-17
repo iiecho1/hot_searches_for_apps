@@ -71,3 +71,5 @@
 
 + [华为鸿蒙 HarmonyOS 6.0.0.328 SP58 新版本开推：新增五一限时水印、图库艺术化视图功能等](https://m.ithome.com/html/940096.htm)
 
++ [实际案例来了：新能源车主跟风改白色车牌，被记 9 分、罚 200 元](https://m.ithome.com/html/939670.htm)
+

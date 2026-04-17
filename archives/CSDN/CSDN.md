@@ -163,3 +163,19 @@
 
 + [第 8 篇｜Apache DolphinScheduler 与 Flink Spark 数据引擎的边界、协同与最佳实践](https://blog.csdn.net/DolphinScheduler/article/details/160204841)
 
++ [【花雕动手做】ESP32-S3 部署 MimiClaw 全记录：从零到飞书控制小车，100% 跑通（附克隆仓库失败终极解法）](https://blog.csdn.net/weixin_41659040/article/details/160218722)
+
++ [【Redis|高级篇2】多级缓存|JVM进程缓存、Lua语法、多级缓存实现（OpenResty）、缓存同步（Canal）](https://blog.csdn.net/2401_87144364/article/details/160155986)
+
++ [2026年全国青少年信息素养大赛算法应用主题赛C++赛项初赛备赛资料（汇总版）](https://blog.csdn.net/weixin_66461496/article/details/160196019)
+
++ [【Python开源-单目测距】单目无人机多视角测距：DJI RTK图像 → 地面目标3D坐标与距离，平均RE仅2.12%](https://blog.csdn.net/z649431508/article/details/160226026)
+
++ [去标签化无感定位技术突破，黎阳之光重构空间定位技术路径 ](https://blog.csdn.net/m0_75019831/article/details/160219168)
+
++ [2026年妈杯MathorCup赛题浅析-五大题目全攻略-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/160240160)
+
++ [Check Anti-CSRF Token (AI)](https://blog.csdn.net/CrispyChicken147/article/details/160188670)
+
++ [【AI工具】本地部署 Dify + Ollama 实现无限 Token 智能体搭建](https://blog.csdn.net/2302_80329073/article/details/160184099)
+
