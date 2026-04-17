@@ -209,3 +209,11 @@
 
 + [如何有效降低论文AIGC率？一篇实战经验总结（附方法详解）](https://blog.csdn.net/qq_57831576/article/details/160182609)
 
++ [nginx 1.30.0稳定版深度解析：Early Hints、HTTP/2后端、MPTCP全量上线，1.29.x分支精华全面整合](https://blog.csdn.net/weixin_48502062/article/details/160218515)
+
++ [2026年Mathorcup数学建模竞赛A题思路解析+代码+论文](https://blog.csdn.net/weixin_43345535/article/details/160226439)
+
++ [【笔记】安卓毛玻璃效果（Blur）实现笔记（使用BlurView）（结尾附：源码）](https://blog.csdn.net/qq_41140324/article/details/160222287)
+
++ [【Linux系统】深入线程：多线程的互斥与同步原理，封装实现两种生产者消费者模型](https://blog.csdn.net/2402_86681376/article/details/160142847)
+
