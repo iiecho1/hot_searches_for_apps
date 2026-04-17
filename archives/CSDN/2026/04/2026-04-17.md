@@ -129,3 +129,21 @@
 
 + [K8s 1.36 新特性解读：服务网格如何解决微服务安全与通信难题？生产级对比](https://blog.csdn.net/chen501986411/article/details/160157669)
 
++ [Hermes Agent：从自进化智能体到分布式生产力内核的深度研究报告](https://blog.csdn.net/yangshangwei/article/details/160227411)
+
++ [软件测试工具选型指南：缺陷管理与测试用例平滑衔接方案](https://blog.csdn.net/weixin_44280696/article/details/160180214)
+
++ [【计算机网络】应用层协议(序列化与反序列化/HTTP/HTTPS)](https://blog.csdn.net/wefg1/article/details/159532132)
+
++ [MapReduce: Simplified Data Processing on Large Clusters](https://blog.csdn.net/2401_87903869/article/details/160191619)
+
++ [小爱音箱接了大模型之后：不只是能聊天，人设音色都能自定义](https://blog.csdn.net/baronbool/article/details/160208743)
+
++ [[特殊字符]Python 进阶实战指南（PyCharm 专属优化）：从高效编码到工程化落地，告别新手低效写法](https://blog.csdn.net/2401_89688708/article/details/160225841)
+
++ [告别3D打印失败：YOLO26自动识别spaghetti、zits和stringing三类缺陷](https://blog.csdn.net/m0_68036862/article/details/160190647)
+
++ [深入解析SqlSugar：.NET领域的高性能多数据库ORM框架](https://blog.csdn.net/guigenyi/article/details/160190498)
+
++ [从 Prompt 到智能体：深入理解 APE、Active-Prompt、DSP、PAL、ReAct 与 Reflexion](https://blog.csdn.net/MRDONG1/article/details/160165299)
+

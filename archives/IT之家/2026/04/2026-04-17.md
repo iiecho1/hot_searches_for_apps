@@ -49,3 +49,19 @@
 
 + [九号推出 M3 85/95c MAX 闪骑智能铅酸电摩：首发价 4799/6299 元](https://m.ithome.com/html/939643.htm)
 
++ [售价 21.98 万元起，零跑 D19 豪华旗舰 SUV 上市](https://m.ithome.com/html/940052.htm)
+
++ [大疆 Osmo Pocket 4 云台相机发布：搭 1 英寸传感器、支持智能跟随 7.0，2999 元起](https://m.ithome.com/html/940047.htm)
+
++ [美团为骑手推出“腰靠餐箱”，定价 59.9 元](https://m.ithome.com/html/939721.htm)
+
++ [苹果钱包支持用支付宝开通 NFC 交通卡，覆盖北京、上海、南京、长沙、厦门、苏州、昆明、青岛、石家庄、天津等](https://m.ithome.com/html/939971.htm)
+
++ [养完龙虾再养马，腾讯 QQ 宣布原生接入 Hermes Agent](https://m.ithome.com/html/939789.htm)
+
++ [小屏史诗级增强：某厂 2nm 迭代新旗舰小屏新机曝光，预计为小米 18 Pro](https://m.ithome.com/html/939706.htm)
+
++ [网友担心新一代小米 SU7 京沪续航直播将遭抹黑，雷军回应称不能因为有黑稿就不说话了](https://m.ithome.com/html/940054.htm)
+
++ [真 &#183; 鸿蒙 6.1 前瞻：华为 HarmonyOS 6.0.0.328 SP58 实装新游戏助手，支持快速开关高性能模式等](https://m.ithome.com/html/940100.htm)
+
