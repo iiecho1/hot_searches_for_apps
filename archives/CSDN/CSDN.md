@@ -179,3 +179,19 @@
 
 + [【AI工具】本地部署 Dify + Ollama 实现无限 Token 智能体搭建](https://blog.csdn.net/2302_80329073/article/details/160184099)
 
++ [搞定 New-API 中转站：N1 飞牛 NAS + Ollama = 随地调用的私有 AI 接口](https://blog.csdn.net/2401_86326742/article/details/160210226)
+
++ [PyTorch强化学习实战（1）——强化学习（Reinforcement Learning，RL）详解](https://blog.csdn.net/LOVEmy134611/article/details/156726537)
+
++ [在外需要访问公司内网文件服务器？Serv-U + 内网穿透 把 SFTP 端口穿透到公网](https://blog.csdn.net/2301_76297596/article/details/160249340)
+
++ [HarmonyOS 6（API 23）悬浮导航与沉浸光感实战：打造下一代玻璃拟态UI体验](https://blog.csdn.net/u014727709/article/details/160226304)
+
++ [第十六届MathorCup数学应用挑战赛A题解题方案 2026年第十六届MathorCup数学应用挑战赛 A题模型算法 +详细思路+代码](https://blog.csdn.net/m0_52343631/article/details/160241082)
+
++ [ROS TF坐标变换实战：海龟机器人跟随（含新增坐标系）](https://blog.csdn.net/hanzq03/article/details/160250290)
+
++ [HarmonyOS 6 轻相机应用开发1：功能介绍与框架搭建](https://blog.csdn.net/sjw890821sjw/article/details/160196343)
+
++ [Mcp for unity原理详解](https://blog.csdn.net/u011280484/article/details/160227106)
+
