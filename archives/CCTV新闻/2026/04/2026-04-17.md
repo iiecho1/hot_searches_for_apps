@@ -193,3 +193,13 @@
 
 + [高端访谈｜“莫中两国有着兄弟般的情谊”——访莫桑比克总统丹尼尔·查波](https://news.cctv.com/2026/04/17/ARTIEmdg71rwNYiNig6WWpOM260417.shtml)
 
++ [伊朗外长：黎以停火期间对所有商船开放霍尔木兹海峡](https://news.cctv.com/2026/04/17/ARTIEfip1NR7LuADXNdZBBxr260417.shtml)
+
++ [专访｜中东战事导致的能源冲击或加速全球可再生能源转型——访IMF研究部世界经济主管](https://news.cctv.com/2026/04/17/ARTIo07vp3R0c0y3jg8pDcWk260417.shtml)
+
++ [日本民众集会抗议解禁杀伤性武器出口 不希望日本成为“死亡商人”](https://news.cctv.com/2026/04/17/ARTIKIvT0LVCeQvFQCiGVcV3260417.shtml)
+
++ [贪得无厌美利坚，“吃拿卡要”每一天](https://news.cctv.com/2026/04/17/ARTIIEFyrKBrIoC4d2dVKFBh260417.shtml)
+
++ [【国际漫评】失道者寡助](https://news.cctv.com/2026/04/17/ARTI1trE5lyAQiaQnKFnqjau260417.shtml)
+

@@ -217,3 +217,5 @@
 
 + [【Linux系统】深入线程：多线程的互斥与同步原理，封装实现两种生产者消费者模型](https://blog.csdn.net/2402_86681376/article/details/160142847)
 
++ [Java 直连 USB 打印机实战：从 JNI 崩溃到「拷贝即用」的架构演进](https://blog.csdn.net/liudao7994/article/details/160250726)
+
