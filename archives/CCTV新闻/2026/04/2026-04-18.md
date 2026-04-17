@@ -161,3 +161,9 @@
 
 + [阿富汗强降雨和山洪导致189死9失踪](https://news.cctv.com/2026/04/14/ARTIbwFV70J8l4ifuuZXFb7l260414.shtml)
 
++ [特朗普称移除浓缩铀行动不派美军 伊朗拒绝将浓缩铀运往国外](https://news.cctv.com/2026/04/18/ARTISGmHTAEdUzj7FgCLZEit260418.shtml)
+
++ [乌称将与德合作生产无人设备 俄斥欧洲国家加深参与冲突](https://news.cctv.com/2026/04/18/ARTI8titHKrIhDg0fH9wdzop260418.shtml)
+
++ [伊朗伊斯兰革命卫队：军用船只仍禁止通过霍尔木兹海峡](https://news.cctv.com/2026/04/18/ARTIZHdqeonphlKo1cbphsUO260418.shtml)
+

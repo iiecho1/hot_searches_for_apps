@@ -139,3 +139,9 @@
 
 + [SkillLite 架构优化分析报告：项目开发日记](https://blog.csdn.net/sinat_25866835/article/details/160228270)
 
++ [多大才算太大？Elasticsearch 容量规划最佳实践](https://blog.csdn.net/UbuntuTouch/article/details/160161948)
+
++ [Elasticsearch 性能调优实战：内存管理、连接池与查询优化全指南](https://blog.csdn.net/qq_37978872/article/details/160197744)
+
++ [java中Redisson ,jedis,Lettuce和Spring Data Redis的四种深度对比和优缺点详解](https://blog.csdn.net/devilnumber/article/details/160217687)
+
