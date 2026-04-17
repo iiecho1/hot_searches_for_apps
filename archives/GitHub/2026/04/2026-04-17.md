@@ -29,3 +29,15 @@
 
 + [BasedHardware/omi](https://github.com/BasedHardware/omi)
 
++ [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+
++ [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
+
++ [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+

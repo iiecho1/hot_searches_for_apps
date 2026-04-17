@@ -201,3 +201,11 @@
 
 + [鸿蒙游戏中的 Service 层应该怎么拆？](https://blog.csdn.net/qq_36863796/article/details/160215213)
 
++ [AI编程工具终极横评-Cursor-vs-Claude-Code-vs-Copilot](https://blog.csdn.net/bq990914/article/details/160166106)
+
++ [第十六届MathorCup数学应用挑战赛B题：机器人竞技策略的优化问题 2026妈妈杯数学建模第十六届MathorCup数学应用挑战赛 B题 机器人竞技策略的优化问题 思路+代码+模型](https://blog.csdn.net/m0_52343631/article/details/160242176)
+
++ [2026 第十六届 MathorCup 高校数学建模挑战赛A题解题（含代码）](https://blog.csdn.net/weixin_51660995/article/details/160241775)
+
++ [如何有效降低论文AIGC率？一篇实战经验总结（附方法详解）](https://blog.csdn.net/qq_57831576/article/details/160182609)
+
