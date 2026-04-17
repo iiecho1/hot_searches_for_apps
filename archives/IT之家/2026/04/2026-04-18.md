@@ -35,3 +35,21 @@
 
 + [MacBook Neo 全球爆卖，多个市场苹果官网发货排期已至 5 月](https://m.ithome.com/html/940105.htm)
 
++ [采用暴力、软对抗等手段阻碍监管执法，拼多多被罚没合计 15.2 亿元、7 家平台中最高](https://m.ithome.com/html/940509.htm)
+
++ [1313 公里雷军全程直播！新一代小米 SU7 成功实现满电出发，中间只充一次电从北京到上海](https://m.ithome.com/html/940593.htm)
+
++ [拼多多回应被处罚 15.2 亿元：诚恳接受，坚决服从](https://m.ithome.com/html/940596.htm)
+
++ [共处罚没款 35.97 亿元！拼多多、美团、京东、淘宝闪购、抖音、淘宝、天猫涉“幽灵外卖”系列案被处罚](https://m.ithome.com/html/940434.htm)
+
++ [追觅俞浩：我们有两百多个事业部，每个事业部都会对标一家独立的上市公司](https://m.ithome.com/html/940439.htm)
+
++ [张雪机车与东鹏特饮签订全球冠名合作：3 年内拿 1 个年度总冠军](https://m.ithome.com/html/940249.htm)
+
++ [小米首款万级超大电池手机曝光：100W 闪充、2 亿大底主摄、天玑中端 U](https://m.ithome.com/html/940289.htm)
+
++ [致态 TiPlus9100 固态硬盘发布：系列首款 PCIe 5.0、长江存储晶栈 Xtacking 4.0 架构](https://m.ithome.com/html/940200.htm)
+
++ [小米汽车重磅任命曝光：胡峥楠担任首个 CTO，原特斯拉“王牌厂长”宋钢任参谋长](https://m.ithome.com/html/940524.htm)
+
