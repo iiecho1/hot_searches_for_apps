@@ -135,3 +135,7 @@
 
 + [基于 Vite 的 React+Vue 混部完整模板（含目录结构、依赖清单、启动脚本）](https://blog.csdn.net/Z_Wonderful/article/details/160183708)
 
++ [K8S集群可视化工具Kuboard部署与实践指南](https://blog.csdn.net/weixin_61921997/article/details/160223258)
+
++ [SkillLite 架构优化分析报告：项目开发日记](https://blog.csdn.net/sinat_25866835/article/details/160228270)
+
