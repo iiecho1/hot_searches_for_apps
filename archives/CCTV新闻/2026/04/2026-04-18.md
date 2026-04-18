@@ -211,3 +211,7 @@
 
 + [哥伦比亚总统：美国若一意孤行将激起拉美国家“反抗”](https://news.cctv.com/2026/04/18/ARTIYXCMCs6xT4G6v3ZgGU9n260418.shtml)
 
++ [俄罗斯远东交通事故中受伤的中国人已有14人回国治疗](https://news.cctv.com/2026/04/18/ARTInfKH9lobRKX7xhNGZphZ260418.shtml)
+
++ [伊朗正在审议美方新提议 尚未回应](https://news.cctv.com/2026/04/18/ARTIeyzCqBIqppYDlZMcuW1q260418.shtml)
+
