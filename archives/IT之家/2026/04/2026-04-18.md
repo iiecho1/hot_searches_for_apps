@@ -71,3 +71,7 @@
 
 + [无需换新直接降：iPhone Air / 17 京东 5099 元 12 期免息，至高 12GB 大内存](https://m.ithome.com/html/940662.htm)
 
++ [小米汽车：行驶里程达 10 万公里的车主可限时领取定制实体徽章](https://m.ithome.com/html/940558.htm)
+
++ [谷歌整治臃肿应用：安卓 17 新内存机制解决系统卡顿，倒逼开发者优化 App](https://m.ithome.com/html/940641.htm)
+

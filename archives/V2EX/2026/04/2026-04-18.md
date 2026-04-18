@@ -65,3 +65,5 @@
 
 + [也做了一款 Markdown 编辑器](https://www.v2ex.com/t/1206777)
 
++ [IETF 推出 IPv8 协议， IPv6 说明是个草台班子](https://www.v2ex.com/t/1206826)
+

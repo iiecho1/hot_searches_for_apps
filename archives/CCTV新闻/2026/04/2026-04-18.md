@@ -199,3 +199,7 @@
 
 + [伊朗军方：霍尔木兹海峡管控已恢复至此前状态](https://news.cctv.com/2026/04/18/ARTIdA0eqhCEvooxgtdnpxaL260418.shtml)
 
++ [指责对方违反停火协议 以军在黎南部继续打击真主党](https://news.cctv.com/2026/04/18/ARTILyJ8Xpu3J9mTkqbICRqV260418.shtml)
+
++ [俄远东车祸致2名中国公民不幸遇难](https://news.cctv.com/2026/04/18/ARTI4DKqa0WjPSS2JooIXl7U260418.shtml)
+
