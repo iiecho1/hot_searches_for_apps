@@ -185,3 +185,15 @@
 
 + [第六届消博会将于今天落幕 超3400个品牌参展](https://news.cctv.com/2026/04/18/ARTIwgJFYmE7orhxJaD4xYTe260418.shtml)
 
++ [伊朗外交部：将伊朗浓缩铀移至国外的选项已被否决](https://news.cctv.com/2026/04/18/ARTIdNd3q2NR70um1k1xEjkh260418.shtml)
+
++ [日本气象厅：长野县地震后 不排除再发生较强地震可能](https://news.cctv.com/2026/04/18/ARTI8y4W9GLg4ddhiVdhsWqL260418.shtml)
+
++ [伊朗民航组织宣布重新开放部分空域 逐步恢复各机场运营](https://news.cctv.com/2026/04/18/ARTIQbYepBFsSDSrn3jWsrEF260418.shtml)
+
++ [联合国机构：阿富汗洪灾已影响逾7.3万人](https://news.cctv.com/2026/04/18/ARTIyPIxblUwRn2nKukB2GNu260418.shtml)
+
++ [刚果（金）政府与反政府武装新一轮对话取得进展](https://news.cctv.com/2026/04/18/ARTIqBjCZZdVWJN59h7qD4Vj260418.shtml)
+
++ [美国能源部将释放第三批战略石油储备](https://news.cctv.com/2026/04/18/ARTIpiwNNqTDaZuOowChyMAp260418.shtml)
+

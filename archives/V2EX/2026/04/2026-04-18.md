@@ -45,3 +45,13 @@
 
 + [1Password 日本代理商最后的低价](https://www.v2ex.com/t/1206734)
 
++ [[送 5 张 Giffgaff 卡] 阿里云折扣账户， 低门槛 ECS 五折](https://www.v2ex.com/t/1206723)
+
++ [探讨下获取其他国家身份的途径](https://www.v2ex.com/t/1206775)
+
++ [低价 GPT 订阅漏洞已被捅到官方脸上](https://www.v2ex.com/t/1206762)
+
++ [reddit 上都在抱怨 opus4.7，说又贵又难用，是真的吗？](https://www.v2ex.com/t/1206698)
+
++ [继续送！ codex 中转，留邮箱就送。（老板去找老黑收 kyc 去了）](https://www.v2ex.com/t/1206747)
+
