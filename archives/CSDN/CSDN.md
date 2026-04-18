@@ -187,3 +187,5 @@
 
 + [CAD制图编辑器cad-editor](https://blog.csdn.net/weixin_39939819/article/details/160194726)
 
++ [Hermes Agent开源45天登顶GitHub，深度解析其记忆机制与部署方案](https://blog.csdn.net/WSYUNYAO/article/details/160189087)
+

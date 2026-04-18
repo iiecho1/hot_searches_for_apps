@@ -31,3 +31,13 @@
 
 + [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
++ [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)
+
++ [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+
++ [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit)
+
