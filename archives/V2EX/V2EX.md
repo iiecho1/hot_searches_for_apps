@@ -41,3 +41,7 @@
 
 + [牛逼了，我的阿里云百炼 Coding Plan Pro 莫名被永久封禁，联系客服，无法解封。寻求替代。](https://www.v2ex.com/t/1206664)
 
++ [字节明晃晃搞盗版聚合，没有版权问题？](https://www.v2ex.com/t/1206804)
+
++ [1Password 日本代理商最后的低价](https://www.v2ex.com/t/1206734)
+

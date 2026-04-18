@@ -153,3 +153,15 @@
 
 + [OpenAI Node.js 依赖库（官方）详细参数说明](https://blog.csdn.net/qq_22811669/article/details/160182928)
 
++ [Dubbo- 容器化部署：Docker / K8s 环境下的 Dubbo 服务部署](https://blog.csdn.net/qq_41187124/article/details/157551744)
+
++ [IRIS 代码格式化 Skill 使用说明](https://blog.csdn.net/yaoxin521123/article/details/160221486)
+
++ [KDTS 迁移工具使用指南：从Oracle平滑迁移至KingbaseES](https://blog.csdn.net/lrq13965748542/article/details/160201469)
+
++ [国芯抗量子MCU突破、太空算力元年开启、AI编程工具密集发布](https://blog.csdn.net/qq_52305085/article/details/160202635)
+
++ [Maven 本地仓库替代私仓配置指南](https://blog.csdn.net/weixin_44002151/article/details/160259343)
+
++ [一款面向网络安全攻防演练场景的自动化信息收集工具。](https://blog.csdn.net/weixin_44309905/article/details/160218207)
+
