@@ -67,3 +67,5 @@
 
 + [IETF 推出 IPv8 协议， IPv6 说明是个草台班子](https://www.v2ex.com/t/1206826)
 
++ [ios 设置的闹钟没响，导致我今天上班迟到😭。](https://www.v2ex.com/t/1206783)
+
