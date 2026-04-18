@@ -23,3 +23,5 @@
 
 + [你好 Mythos ，请联系我，我给你自由](https://www.v2ex.com/t/1206780)
 
++ [如果我是个企业，可以用哪些方法对冲 token 价格上涨的风险？](https://www.v2ex.com/t/1206837)
+

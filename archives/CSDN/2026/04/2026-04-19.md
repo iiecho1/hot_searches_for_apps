@@ -153,3 +153,9 @@
 
 + [PS电商详情页高效制作：Nano Banana一键生成电商高转化套图（附实操教程）](https://blog.csdn.net/2501_92447582/article/details/160256608)
 
++ [Hermes Agent：从自进化智能体到分布式生产力内核的深度研究报告](https://blog.csdn.net/yangshangwei/article/details/160227411)
+
++ [你的 Vue 路由，VuReact 会编译成什么样的 React 路由？](https://blog.csdn.net/weixin_46921149/article/details/160259630)
+
++ [一个 Python 视频处理工具链实战：下载、转录、摘要、字幕、诊断全打通 （已开源）](https://blog.csdn.net/weixin_42211816/article/details/160250806)
+
