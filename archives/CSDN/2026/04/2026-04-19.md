@@ -105,3 +105,37 @@
 
 + [竹云盘搜 - 高效免费的网盘资源搜索引擎 | pan.8766555.xyz](https://blog.csdn.net/m0_37749760/article/details/160221259)
 
++ [【HID】规范精讲[1]: 无线人机交互的底层逻辑与实战解析](https://blog.csdn.net/weixin_37800531/article/details/160193115)
+
++ [【花雕动手做】EmbedClaw K10 完整技术文档：ESP32‑S3 轻量化 AI Agent 全栈解析](https://blog.csdn.net/weixin_41659040/article/details/160235632)
+
++ [Elasticsearch 配置管理工具全解：支持工具+使用方法+流程图+实战（运维必备）](https://blog.csdn.net/qq_41840843/article/details/160278826)
+
++ [ollama v0.21.0 最新更新：Hermes Agent 与 Ollama 联动、Copilot CLI 集成、launch 配置优化、Gemma4 与 MLX 多项性能修复全解析](https://blog.csdn.net/weixin_48502062/article/details/160258919)
+
++ [C++ Memory Order 完全指南：从 relaxed 到 seq_cst，深入理解无锁编程与 happens-before](https://blog.csdn.net/2302_77889990/article/details/160228013)
+
++ [openclaw平替之nanobot源码解析（七）：Gateway与多渠道集成](https://blog.csdn.net/ibgZg4qY6/article/details/160261313)
+
++ [VPC（Virtual Private Cloud虚拟私有云）介绍（内部网络隔离、逻辑私有网络、子网隔离Subnet、公有子网、私有子网、路由表控制、安全组）](https://blog.csdn.net/Dontla/article/details/160251062)
+
++ [第七篇：微信小程序订阅消息全流程接入与多场景模板实战](https://blog.csdn.net/qq_39324391/article/details/160169014)
+
++ [springboot整合libreoffice（两种方式，使用本地和远程的libreoffice）；docker中同时部署应用和libreoffice](https://blog.csdn.net/zb20064120/article/details/160261422)
+
++ [CPA+CCSwitch部署方案以及在VScode中调用模型能力的方案：Claudecode和codex以及其他应用的调用方式](https://blog.csdn.net/itxxk/article/details/160200588)
+
++ [触类旁通——迁移学习、多任务学习与元学习](https://blog.csdn.net/htw250056/article/details/160286331)
+
++ [linux服务器部署openclaw最新最细教程（非docker版）](https://blog.csdn.net/m0_73767377/article/details/160226400)
+
++ [【2026 量化工具选型】通达信 TdxQuant vs 迅投 QMT/miniQMT 深度对比：新手该怎么选？](https://blog.csdn.net/weixin_73631017/article/details/160218085)
+
++ [AI驱动安全变革：Axios零交互劫持云元数据+CVE-2026-40175，Claude Mythos加速至小时级，攻防不对称重构安全架构](https://blog.csdn.net/xixixi7777/article/details/160203559)
+
++ [现代 C++ 异步编程：从零实现一个高性能 ThreadPool (C++20 深度实践)](https://blog.csdn.net/u011233383/article/details/160259566)
+
++ [【 AI工程化】AI工程化：MLOps、大模型全生命周期管理、大模型安全（幻觉、Prompt注入、数据泄露、合规）](https://blog.csdn.net/qq_45914609/article/details/160224508)
+
++ [Gemma 4 深度拆解：Google 如何用 31B 参数重新定义开源模型的性能天花板](https://blog.csdn.net/iFisher666/article/details/160215100)
+
