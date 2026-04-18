@@ -145,3 +145,7 @@
 
 + [java中Redisson ,jedis,Lettuce和Spring Data Redis的四种深度对比和优缺点详解](https://blog.csdn.net/devilnumber/article/details/160217687)
 
++ [基于 Rokid AI Glasses 灵珠「随身导游·景点讲解助手」智能体开发全过程](https://blog.csdn.net/weixin_43151418/article/details/160258186)
+
++ [搭 QQ 机器人被各种门槛劝退？用 Docker 几步搞定 AstrBot + NapCat + DeepSeek](https://blog.csdn.net/weixin_42878111/article/details/160221132)
+

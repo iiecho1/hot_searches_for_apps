@@ -167,3 +167,7 @@
 
 + [伊朗伊斯兰革命卫队：军用船只仍禁止通过霍尔木兹海峡](https://news.cctv.com/2026/04/18/ARTIZHdqeonphlKo1cbphsUO260418.shtml)
 
++ [世界泳联2025年赛外兴奋剂检测占比提升](https://news.cctv.com/2026/04/18/ARTI4Sr9EqMhvgf9S9EJcCnE260418.shtml)
+
++ [秘鲁暂缓签署美制战机购买合同遭美外交官威胁](https://news.cctv.com/2026/04/18/ARTIz5Wx4IXWRTqVeDsHaBF6260418.shtml)
+
