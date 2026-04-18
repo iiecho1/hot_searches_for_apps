@@ -139,3 +139,13 @@
 
 + [Gemma 4 深度拆解：Google 如何用 31B 参数重新定义开源模型的性能天花板](https://blog.csdn.net/iFisher666/article/details/160215100)
 
++ [HarmonyOS 鸿蒙PC三方库移植：vcpkg方式的 Port 脚本编写简明教程](https://blog.csdn.net/qq8864/article/details/160256422)
+
++ [【Docker Run方式快速部署龙虾OpenClaw实录（linux-ubuntu+deepseek）】](https://blog.csdn.net/leo828/article/details/160215027)
+
++ [ReAct 与 LLM Agentic 范式：从推理到行动的完整技术科普](https://blog.csdn.net/weixin_46257458/article/details/160221185)
+
++ [CAD制图编辑器cad-editor](https://blog.csdn.net/weixin_39939819/article/details/160194726)
+
++ [2026年妈杯MathorCup赛题浅析-五大题目全攻略-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/160240160)
+
