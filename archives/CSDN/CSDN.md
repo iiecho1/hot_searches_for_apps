@@ -171,3 +171,9 @@
 
 + [2026 第十六届 MathorCup 高校数学建模挑战赛A题解题（含代码）](https://blog.csdn.net/weixin_51660995/article/details/160241775)
 
++ [Android + Kiro AI软件开发实战教程](https://blog.csdn.net/wenzhi20102321/article/details/160190206)
+
++ [基于YOLO26深度学习的【辣椒成熟度检测与计数系统】【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/160250721)
+
++ [网络安全编程——Python编写Python编写基于UDP的主机发现工具（完结：解码ICMP头）](https://blog.csdn.net/m0_73812072/article/details/160214217)
+

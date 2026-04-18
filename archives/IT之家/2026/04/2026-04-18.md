@@ -63,3 +63,11 @@
 
 + [闲鱼“鱼小铺”明起调整优惠规则：软件服务费从 0.6% 升至 1.6%](https://m.ithome.com/html/940559.htm)
 
++ [接棒星宇橙，消息称苹果 iPhone 18 Pro / Max 主打“深樱桃色”](https://m.ithome.com/html/940610.htm)
+
++ [苹果 2026 款 Mac Studio 前瞻：封顶 256GB 内存、M5 Max / Ultra 芯片](https://m.ithome.com/html/940618.htm)
+
++ [世界超级摩托车锦标赛荷兰站开赛，张雪机车拿下超级杆位赛第二](https://m.ithome.com/html/940657.htm)
+
++ [无需换新直接降：iPhone Air / 17 京东 5099 元 12 期免息，至高 12GB 大内存](https://m.ithome.com/html/940662.htm)
+

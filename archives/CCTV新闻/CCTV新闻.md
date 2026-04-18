@@ -197,3 +197,5 @@
 
 + [美国能源部将释放第三批战略石油储备](https://news.cctv.com/2026/04/18/ARTIpiwNNqTDaZuOowChyMAp260418.shtml)
 
++ [伊朗军方：霍尔木兹海峡管控已恢复至此前状态](https://news.cctv.com/2026/04/18/ARTIdA0eqhCEvooxgtdnpxaL260418.shtml)
+

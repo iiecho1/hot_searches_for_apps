@@ -55,3 +55,9 @@
 
 + [继续送！ codex 中转，留邮箱就送。（老板去找老黑收 kyc 去了）](https://www.v2ex.com/t/1206747)
 
++ [没有编辑器， CLI 纯聊天写代码的方式有点儿难适应](https://www.v2ex.com/t/1206751)
+
++ [云电脑打游戏大佬们有尝试过吗](https://www.v2ex.com/t/1206691)
+
++ [windows 更新这么离谱吗](https://www.v2ex.com/t/1206784)
+
