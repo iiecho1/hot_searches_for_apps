@@ -27,3 +27,17 @@
 
 + [阿里 Coding Plan 一天三变， Lite 版本到期不能续费了](https://www.v2ex.com/t/1206514)
 
++ [今天结婚了☺️☺️☺️](https://www.v2ex.com/t/1206769)
+
++ [v2er 大佬们， offer 选择求助](https://www.v2ex.com/t/1206639)
+
++ [你们 Mac 会安装像 iStat Menus 这类监控软件吗？](https://www.v2ex.com/t/1206596)
+
++ [移动的上传真的有 1TB 达量限速吗？](https://www.v2ex.com/t/1206603)
+
++ [从 X 上搬运来的白嫖 GPT Plus 教程](https://www.v2ex.com/t/1206640)
+
++ [对于不听取任务布置的下属，你们会怎么做？](https://www.v2ex.com/t/1206673)
+
++ [牛逼了，我的阿里云百炼 Coding Plan Pro 莫名被永久封禁，联系客服，无法解封。寻求替代。](https://www.v2ex.com/t/1206664)
+

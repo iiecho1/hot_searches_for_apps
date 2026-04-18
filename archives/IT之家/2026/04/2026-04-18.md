@@ -53,3 +53,13 @@
 
 + [小米汽车重磅任命曝光：胡峥楠担任首个 CTO，原特斯拉“王牌厂长”宋钢任参谋长](https://m.ithome.com/html/940524.htm)
 
++ [极氪 8X 正式上市：搭载 2.0T 插混与 G-ASD 智驾系统，上市权益价 32.98 万元起](https://m.ithome.com/html/940576.htm)
+
++ [华为 Pura X Max 横向阔折叠手机首搭全新小艺伴随式 AI，支持智能待办、行程助手等功能](https://m.ithome.com/html/940450.htm)
+
++ [消息称苹果今年推出 OLED 屏幕版 MacBook Pro、iPad mini，三星显示供应](https://m.ithome.com/html/940607.htm)
+
++ [消息称 DeepSeek 正寻求首轮外部融资，估值超百亿美元](https://m.ithome.com/html/940604.htm)
+
++ [闲鱼“鱼小铺”明起调整优惠规则：软件服务费从 0.6% 升至 1.6%](https://m.ithome.com/html/940559.htm)
+

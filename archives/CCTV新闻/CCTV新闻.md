@@ -171,3 +171,15 @@
 
 + [秘鲁暂缓签署美制战机购买合同遭美外交官威胁](https://news.cctv.com/2026/04/18/ARTIz5Wx4IXWRTqVeDsHaBF6260418.shtml)
 
++ [特朗普：若到22日都无法与伊朗达成协议 或将不会延长停火](https://news.cctv.com/2026/04/18/ARTIoGpjoj5nqWKxy2YGgtwu260418.shtml)
+
++ [美国宣布制裁伊拉克民兵组织7名指挥官](https://news.cctv.com/2026/04/18/ARTIiZrBX1PmdeQyGl9465Bf260418.shtml)
+
++ [美军：已有21艘船按美军指示掉头返回伊朗](https://news.cctv.com/2026/04/18/ARTIf9v5OZayxPx2fB9tW557260418.shtml)
+
++ [伊朗陆军司令：伊斯法罕省行动失败是敌方停火主因](https://news.cctv.com/2026/04/18/ARTIUVlM5rpBak7mkgkJDK05260418.shtml)
+
++ [霍尔木兹海峡重开 国际金银价格大涨](https://news.cctv.com/2026/04/18/ARTI4p5e0G8dTUdsE3dGi4nB260418.shtml)
+
++ [航运分析机构：霍尔木兹海峡船舶通行仍受限](https://news.cctv.com/2026/04/18/ARTIwTwm5b1bVE60OqPZwdtN260418.shtml)
+

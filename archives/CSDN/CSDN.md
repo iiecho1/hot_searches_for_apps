@@ -149,3 +149,7 @@
 
 + [搭 QQ 机器人被各种门槛劝退？用 Docker 几步搞定 AstrBot + NapCat + DeepSeek](https://blog.csdn.net/weixin_42878111/article/details/160221132)
 
++ [GitHub 热榜项目 - 日榜(2026-04-17)](https://blog.csdn.net/u014390502/article/details/160234236)
+
++ [OpenAI Node.js 依赖库（官方）详细参数说明](https://blog.csdn.net/qq_22811669/article/details/160182928)
+
