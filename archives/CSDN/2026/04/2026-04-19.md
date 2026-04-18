@@ -149,3 +149,7 @@
 
 + [2026年妈杯MathorCup赛题浅析-五大题目全攻略-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/160240160)
 
++ [Claude Opus 4.7有哪些重大升级？软件工程和视觉能力全面解析](https://blog.csdn.net/lulu1216544078/article/details/160237956)
+
++ [PS电商详情页高效制作：Nano Banana一键生成电商高转化套图（附实操教程）](https://blog.csdn.net/2501_92447582/article/details/160256608)
+
