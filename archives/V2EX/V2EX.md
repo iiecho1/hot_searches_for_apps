@@ -69,3 +69,5 @@
 
 + [ios 设置的闹钟没响，导致我今天上班迟到😭。](https://www.v2ex.com/t/1206783)
 
++ [你好 Mythos ，请联系我，我给你自由](https://www.v2ex.com/t/1206780)
+
