@@ -109,3 +109,29 @@
 
 + [借助小程序容器技术，实现APP的热更新和灰度发布](https://blog.csdn.net/Geek_Vison/article/details/160253271)
 
++ [【顶级EI复现】考虑分布式电源不确定性的配电网鲁棒动态重构（Matlab代码实现）](https://blog.csdn.net/m0_64583023/article/details/160230353)
+
++ [OpenClaw实操指南20｜记忆系统实战：别让你的AI用完就忘，短期+长期记忆配置指南](https://blog.csdn.net/GODYAD/article/details/160274667)
+
++ [别养龙虾了（OpenClaw），利用华为开发者空间零配置直接养马Hermes（最详细教程）](https://blog.csdn.net/qq_31988139/article/details/160257324)
+
++ [Flutter鸿蒙应用开发实战：从零创建影视图书推荐App](https://blog.csdn.net/keeen11111/article/details/160261995)
+
++ [从两套系统到一条 SQL：SelectDB search() 搞定日志的搜索与分析](https://blog.csdn.net/sjkflw121150/article/details/160242204)
+
++ [3D视觉机器人中手眼标定的精度提升方法记录——ICP算法](https://blog.csdn.net/qq_45445740/article/details/143966677)
+
++ [百度网盘视频免会员倍速播放的技术实现方案](https://blog.csdn.net/sinat_33351887/article/details/160256265)
+
++ [3D 地球卫星轨道可视化平台开发 Day1（3D 场景、卫星渲染与筛选交互实现）](https://blog.csdn.net/2603_95532426/article/details/160256650)
+
++ [【系统架构级】电商自动化系统搭建：OCR + 自动上架完整解决方案（从0到1落地）](https://blog.csdn.net/weixin_40809967/article/details/160236226)
+
++ [NO.4|模型管理|会话管理|数据管理|Sqlite](https://blog.csdn.net/CoderZzz6310/article/details/160257819)
+
++ [Spring Boot 搭建邮件发送系统：开启你的邮件自动化之旅](https://blog.csdn.net/qq_32890771/article/details/160260479)
+
++ [【openclaw】OpenClaw v2026.4.15系统级架构分析](https://blog.csdn.net/zhonglinzhang/article/details/160259612)
+
++ [PDF to OFD——国产版式文件转换的技术与应用](https://blog.csdn.net/weixin_66974439/article/details/160251544)
+
