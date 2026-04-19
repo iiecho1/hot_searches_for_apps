@@ -193,3 +193,13 @@
 
 + [CNCF（云原生计算基金会）毕业项目（Graduated Project）是什么意思？（指通过基金会严格评审，达到最高成熟度等级的开源项目）沙盒项目、孵化项目、毕业项目](https://blog.csdn.net/Dontla/article/details/160215525)
 
++ [Audit Log（审计日志）介绍（对系统中关键操作行为记录，用户行为+系统变更+安全事件）中间件 / AOP、数据库层——数据库变更捕获（CDC）](https://blog.csdn.net/Dontla/article/details/160229948)
+
++ [Claude Opus 4.7炸场，6美元造《我的世界》，临门AGI前强调安全，打工人却更慌了](https://blog.csdn.net/2501_91883294/article/details/160252080)
+
++ [无需多软件切换， 实现文档、表格、协作工具一体化](https://blog.csdn.net/2301_80840905/article/details/160258474)
+
++ [开源鸿蒙 Flutter 实战｜用户详情页骨架屏加载效果完整实现](https://blog.csdn.net/Hello_7777/article/details/160173144)
+
++ [借助小程序容器技术，实现APP的热更新和灰度发布](https://blog.csdn.net/Geek_Vison/article/details/160253271)
+

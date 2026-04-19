@@ -179,3 +179,7 @@
 
 + [墨尔本汽车冲撞行人致1人死亡](https://news.cctv.com/2026/04/19/ARTIVRLqmmLxt5hKoC6L2Iqf260419.shtml)
 
++ [英国王室指定伊丽莎白二世官方传记作者](https://news.cctv.com/2026/04/19/ARTIfsLx3kfOBC09qLEfHxou260419.shtml)
+
++ [驻委内瑞拉使馆提醒中国公民注意交通安全](https://news.cctv.com/2026/04/19/ARTI2QpESMQ4O3G23QENjDpp260419.shtml)
+

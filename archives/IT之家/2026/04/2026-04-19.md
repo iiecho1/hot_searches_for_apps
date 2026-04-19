@@ -61,3 +61,13 @@
 
 + [小米 REDMI K Pad 2 平板参数汇总：8.8 英寸 LCD 屏 + 天玑 9500，4 月 21 日发布](https://m.ithome.com/html/940651.htm)
 
++ [蔚来汽车回应 ES9 仍采用隐藏式门把手：符合现行国标](https://m.ithome.com/html/940706.htm)
+
++ [前荣耀掌门人赵明转战智能驾驶：千里科技智驾已达行业顶尖，无惧任何对手](https://m.ithome.com/html/940693.htm)
+
++ [比亚迪方程豹全新系列官宣](https://m.ithome.com/html/940829.htm)
+
++ [小牛推出家用电摩新品 NX 马拉松：146km 超长续航，首发 6499 元](https://m.ithome.com/html/940719.htm)
+
++ [哈弗猛龙 PLUS 开启预售：18.98~21.58 万元，搭载 Coffee Pilot 3 辅助驾驶系统](https://m.ithome.com/html/940754.htm)
+
