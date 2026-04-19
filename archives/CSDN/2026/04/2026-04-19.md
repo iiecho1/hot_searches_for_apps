@@ -177,3 +177,19 @@
 
 + [VR遥操作机械臂系统：核心算法与数学方法全解析](https://blog.csdn.net/2203_75650990/article/details/160242241)
 
++ [OpenClaw 定时任务与 Cron 调度：自动化运维的智能引擎](https://blog.csdn.net/sinat_41617212/article/details/160243964)
+
++ [深度拆解Hermes Agent，动态Prompt与Learning Loop架构的底层逻辑](https://blog.csdn.net/u013970991/article/details/160250208)
+
++ [Spring AI 核心架构、抽象模型与四大核心组件设计精髓](https://blog.csdn.net/A1234543211232/article/details/160222715)
+
++ [【黑马点评日记02】Redis缓存优化：商户查询性能提升百倍](https://blog.csdn.net/chen_si_shang_/article/details/160256909)
+
++ [AI 驱动的运营洞察：TDengine 如何消除数据与洞察之间的门槛](https://blog.csdn.net/taos_data/article/details/160256523)
+
++ [Qwen3.6正式开源，华为昇腾910B实现高效适配](https://blog.csdn.net/yumgpkpm/article/details/160253589)
+
++ [【Python开源-单目测距】单目无人机多视角测距：DJI RTK图像 → 地面目标3D坐标与距离，平均RE仅2.12%](https://blog.csdn.net/z649431508/article/details/160226026)
+
++ [CNCF（云原生计算基金会）毕业项目（Graduated Project）是什么意思？（指通过基金会严格评审，达到最高成熟度等级的开源项目）沙盒项目、孵化项目、毕业项目](https://blog.csdn.net/Dontla/article/details/160215525)
+

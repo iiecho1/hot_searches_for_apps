@@ -163,3 +163,19 @@
 
 + [燃油成本飙升冲击航空业 多家航司上调费用并削减航线](https://news.cctv.com/2026/04/19/ARTIXJanhJnZxXAkCM4S44MB260419.shtml)
 
++ [北约秘书长说他认为美国不会退出北约](https://news.cctv.com/2026/04/19/ARTIiz8W9W9LIzp92ZgxyMqB260419.shtml)
+
++ [厄瓜多尔最大城市一商业区发生枪击事件 5人死亡](https://news.cctv.com/2026/04/19/ARTIzW39iW26MirMaQIjp08h260419.shtml)
+
++ [古特雷斯强烈谴责导致联合国维和人员身亡的袭击事件](https://news.cctv.com/2026/04/19/ARTIfGkJpchA9W7gRtA2uV6c260419.shtml)
+
++ [美媒说特朗普召开会议讨论与伊朗谈判的问题](https://news.cctv.com/2026/04/19/ARTIfDEgcJInA5yJvbi9Eqb3260419.shtml)
+
++ [伊朗民航组织：伊朗领空将分四个阶段重新开放](https://news.cctv.com/2026/04/19/ARTIdVCDH7dIv49uquizYAW0260419.shtml)
+
++ [伊朗外交部说霍尔木兹海峡无条件过境通行“已成历史”](https://news.cctv.com/2026/04/19/ARTI04X6eTkGVXOsVlF23HG1260419.shtml)
+
++ [韩军称朝鲜发射弹道导弹 韩方就此举行紧急安全会议](https://news.cctv.com/2026/04/19/ARTIsjg12mXX5aVmddOivhhE260419.shtml)
+
++ [墨尔本汽车冲撞行人致1人死亡](https://news.cctv.com/2026/04/19/ARTIVRLqmmLxt5hKoC6L2Iqf260419.shtml)
+

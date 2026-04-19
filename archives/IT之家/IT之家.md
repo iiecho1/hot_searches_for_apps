@@ -43,3 +43,21 @@
 
 + [华为 Pura X Max 横向阔折叠手机首搭全新小艺伴随式 AI，支持智能待办、行程助手等功能](https://m.ithome.com/html/940450.htm)
 
++ [世界超级摩托车锦标赛荷兰站：张雪机车首回合正赛获得第四名](https://m.ithome.com/html/940789.htm)
+
++ [DeepSeek 被曝启动首次外部融资，国资消息人士称完全投不进去](https://m.ithome.com/html/940804.htm)
+
++ [OPPO Pad Mini 平板上手：8.8 英寸极窄四等边柔光屏](https://m.ithome.com/html/940678.htm)
+
++ [张雪机车 WSBK 夺冠后全球订单激增，广交会现场超 5000 客商争当代理](https://m.ithome.com/html/940715.htm)
+
++ [迅雷旗下“光鸭云盘”官宣 4 月 20 日上线：号称免登录、不限速，自带 2TB 免费空间](https://m.ithome.com/html/940807.htm)
+
++ [搜狗输入法：4 月至 7 月逐步实现账号的多设备统一，输入习惯、内容列表等自动同步](https://m.ithome.com/html/940635.htm)
+
++ [华为靳玉志亲测 ADS 5，体验“非常非常丝滑”且“安全性进一步提升”](https://m.ithome.com/html/940709.htm)
+
++ [国产光纤全球爆单：价格暴涨 650%，企业排产已至明年一季度](https://m.ithome.com/html/940806.htm)
+
++ [小米 REDMI K Pad 2 平板参数汇总：8.8 英寸 LCD 屏 + 天玑 9500，4 月 21 日发布](https://m.ithome.com/html/940651.htm)
+
