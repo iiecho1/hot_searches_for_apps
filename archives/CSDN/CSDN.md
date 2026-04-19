@@ -231,3 +231,11 @@
 
 + [产品经理资源合集（第二辑）](https://blog.csdn.net/caiji22/article/details/160227256)
 
++ [Jmeter+ant+jenkins接口自动化测试框架](https://blog.csdn.net/huace3740/article/details/160251705)
+
++ [数据库（数据库相关概念、MySQL数据库、SQL（DDL、DML、DQL））](https://blog.csdn.net/2501_94455816/article/details/160227036)
+
++ [阴极铜机器人剥片：SNK施努卡的双线并行自动化解决方案](https://blog.csdn.net/qq_27572409/article/details/160235345)
+
++ [[vue3]HTML Learn Data Day 10](https://blog.csdn.net/weixin_73393430/article/details/160259625)
+
