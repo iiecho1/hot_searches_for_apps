@@ -135,3 +135,13 @@
 
 + [PDF to OFD——国产版式文件转换的技术与应用](https://blog.csdn.net/weixin_66974439/article/details/160251544)
 
++ [【微服务】Spring AI Alibaba Graph 多智能体AI工作流开发实战详解](https://blog.csdn.net/zhangcongyi420/article/details/160267344)
+
++ [NoSQL 之 Redis 配置与优化](https://blog.csdn.net/gmx66666/article/details/160257640)
+
++ [从零开始C++----七.继承及相关模型和底层(上篇)](https://blog.csdn.net/zhiwang_528/article/details/160286235)
+
++ [Spring之DataSource配置](https://blog.csdn.net/jwt793927937/article/details/160261935)
+
++ [【Spring Cloud】负载均衡 Ribbon & 声明式服务调用 Feign ](https://blog.csdn.net/tsyjjOvO/article/details/160257820)
+
