@@ -101,3 +101,11 @@
 
 + [Maven 本地仓库替代私仓配置指南](https://blog.csdn.net/weixin_44002151/article/details/160259343)
 
++ [无需多软件切换， 实现文档、表格、协作工具一体化](https://blog.csdn.net/2301_80840905/article/details/160258474)
+
++ [HarmonyOS / OpenHarmony 平台三方库移植：使用 vcpkg 移植 libzen（ZenLib）和 libmediainfo 实践指南](https://blog.csdn.net/qq8864/article/details/160224634)
+
++ [2026年妈杯MathorCup赛题浅析-五大题目全攻略-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/160240160)
+
++ [借助小程序容器技术，实现APP的热更新和灰度发布](https://blog.csdn.net/Geek_Vison/article/details/160253271)
+

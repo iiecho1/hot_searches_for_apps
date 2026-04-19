@@ -25,3 +25,27 @@
 
 + [小米 REDMI K Pad 2 平板参数汇总：8.8 英寸 LCD 屏 + 天玑 9500，4 月 21 日发布](https://m.ithome.com/html/940651.htm)
 
++ [华为 Pura X Max 横向阔折叠手机真机曝光，展开就像一台小平板](https://m.ithome.com/html/940868.htm)
+
++ [比亚迪方程豹全新系列官宣](https://m.ithome.com/html/940829.htm)
+
++ [长城魏建军痛批魏牌团队不会营销、没有 BBA 的品位调性，魏牌 CEO 赵永坡致歉](https://m.ithome.com/html/940850.htm)
+
++ [网易云音乐 App 更新后主色调由鲜红变暗红，用户戏称“动脉血变静脉血”](https://m.ithome.com/html/940914.htm)
+
++ [微信朋友圈上线 14 年：内部测试 34 个版本，4 月 19 日刚好通过 App Store 审核](https://m.ithome.com/html/940847.htm)
+
++ [脖子以下全是腿：网友自制“豆脚”机器人现身北京人形机器人马拉松](https://m.ithome.com/html/940872.htm)
+
++ [五一假期售票开始以来，12306 已拒绝“抢票软件”出票 105.6 万张](https://m.ithome.com/html/940861.htm)
+
++ [网游停服为何不改成离线版？开发者表示成本堪比重做游戏](https://m.ithome.com/html/940830.htm)
+
++ [张雪坦言：流量已成甜蜜的负担，因被围堵无法骑摩托车上下班](https://m.ithome.com/html/940912.htm)
+
++ [小米“龙虾”Xiaomi miclaw 首批通过中国信通院手机端智能助手（Claw）评估，可自主执行复杂指令](https://m.ithome.com/html/940915.htm)
+
++ [钉钉陈航：如果公司里还有人天天写文档、以写文档自居，这个公司一定是过去式](https://m.ithome.com/html/940848.htm)
+
++ [公司升级服务器淘汰 72 根 DDR4 ECC RDIMM 内存条被员工捡回：总容量约 2.25TB，目前价值超 2 万美元](https://m.ithome.com/html/940930.htm)
+
