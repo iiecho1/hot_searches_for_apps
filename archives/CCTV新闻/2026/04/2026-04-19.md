@@ -203,3 +203,19 @@
 
 + [伊朗军方称将坚决应对敌对威胁](https://news.cctv.com/2026/04/19/ARTIL5DqrNHbtaL0KsQkkvr3260419.shtml)
 
++ [以军称继续在黎巴嫩南部开展军事行动](https://news.cctv.com/2026/04/19/ARTIcrBdtK1iiRqOfDSShQzB260419.shtml)
+
++ [伊朗官方尚未证实新一轮美伊会谈相关消息](https://news.cctv.com/2026/04/19/ARTI8VYPIncqNudypJjVCybp260419.shtml)
+
++ [印度南部烟花厂爆炸 至少造成16人死亡](https://news.cctv.com/2026/04/19/ARTIpP85eLag2dFd47fSOKUO260419.shtml)
+
++ [美伊互指对方违反停火协议 特朗普威胁或“采取行动”](https://news.cctv.com/2026/04/19/ARTIHqwH0BsbL3WkOBgNREm4260419.shtml)
+
++ [马来西亚一餐馆发生枪击案致3人死亡](https://news.cctv.com/2026/04/19/ARTIOei02vqwdHgBEkVUXLdY260419.shtml)
+
++ [援密克罗尼西亚联邦中国医疗队开展灾后医疗救治工作](https://news.cctv.com/2026/04/19/ARTIRbOvtAKOE9KiaCbmnkqM260419.shtml)
+
++ [西班牙首相：将要求欧盟终止和以色列的联系国协定](https://news.cctv.com/2026/04/19/ARTIqPXXcWZFeiqMnQ3JfDZY260419.shtml)
+
++ [美国代表团抵达伊斯兰堡 或为伊美新一轮谈判做准备](https://news.cctv.com/2026/04/19/ARTIiqufiCSDzuG9S8Vy68YS260419.shtml)
+

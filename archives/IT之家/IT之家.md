@@ -71,3 +71,19 @@
 
 + [哈弗猛龙 PLUS 开启预售：18.98~21.58 万元，搭载 Coffee Pilot 3 辅助驾驶系统](https://m.ithome.com/html/940754.htm)
 
++ [华为 Pura X Max 横向阔折叠手机真机曝光，展开就像一台小平板](https://m.ithome.com/html/940868.htm)
+
++ [长城魏建军痛批魏牌团队不会营销、没有 BBA 的品位调性，魏牌 CEO 赵永坡致歉](https://m.ithome.com/html/940850.htm)
+
++ [微信朋友圈上线 14 年：内部测试 34 个版本，4 月 19 日刚好通过 App Store 审核](https://m.ithome.com/html/940847.htm)
+
++ [网易云音乐 App 更新后主色调由鲜红变暗红，用户戏称“动脉血变静脉血”](https://m.ithome.com/html/940914.htm)
+
++ [网游停服为何不改成离线版？开发者表示成本堪比重做游戏](https://m.ithome.com/html/940830.htm)
+
++ [五一假期售票开始以来，12306 已拒绝“抢票软件”出票 105.6 万张](https://m.ithome.com/html/940861.htm)
+
++ [脖子以下全是腿：网友自制“豆脚”机器人现身北京人形机器人马拉松](https://m.ithome.com/html/940872.htm)
+
++ [钉钉陈航：如果公司里还有人天天写文档、以写文档自居，这个公司一定是过去式](https://m.ithome.com/html/940848.htm)
+
