@@ -145,3 +145,7 @@
 
 + [【Spring Cloud】负载均衡 Ribbon & 声明式服务调用 Feign ](https://blog.csdn.net/tsyjjOvO/article/details/160257820)
 
++ [LabVIEW多通道温度测控系统](https://blog.csdn.net/bjcyck/article/details/160258503)
+
++ [Kafka消息不丢失全攻略](https://blog.csdn.net/Java_Chuck/article/details/160236677)
+
