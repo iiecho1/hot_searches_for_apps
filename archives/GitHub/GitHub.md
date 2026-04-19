@@ -21,3 +21,13 @@
 
 + [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit)
 
++ [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+
++ [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
++ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+

@@ -223,3 +223,11 @@
 
 + [企业级模块化RAG项目(mysql➕redis➕milvus➕模型微调➕bm25➕fastapi➕ollama➕Prompt➕多策略选择)](https://blog.csdn.net/2301_76243776/article/details/160226692)
 
++ [2026年国内AI Agent选型指南：企业数字化转型中的非侵入式架构方案深度评测](https://blog.csdn.net/2501_92351994/article/details/160253829)
+
++ [鸿蒙Flutter混合开发实战：跨平台UI无缝集成](https://blog.csdn.net/2401_83797894/article/details/160078305)
+
++ [5分钟上手 OnlyOffice 连接器，打通业务系统与文档编辑器](https://blog.csdn.net/weixin_42258782/article/details/160226847)
+
++ [产品经理资源合集（第二辑）](https://blog.csdn.net/caiji22/article/details/160227256)
+
