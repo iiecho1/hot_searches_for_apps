@@ -199,3 +199,5 @@
 
 + [数万名日本民众集会 抗议高市政府扩军危险动向](https://news.cctv.com/2026/04/19/ARTIqQr8yLR83P7JUOq5uTGO260419.shtml)
 
++ [也门胡塞武装警告局势升级或致曼德海峡被关闭](https://news.cctv.com/2026/04/19/ARTIt0Hmt3LxB6enQAwvX1S9260419.shtml)
+
