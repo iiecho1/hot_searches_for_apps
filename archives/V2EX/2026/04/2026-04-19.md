@@ -25,3 +25,9 @@
 
 + [如果我是个企业，可以用哪些方法对冲 token 价格上涨的风险？](https://www.v2ex.com/t/1206837)
 
++ [小飞机突然支持中文了](https://www.v2ex.com/t/1206848)
+
++ [如何在服务器上用 codex](https://www.v2ex.com/t/1206866)
+
++ [像一个弥留之际的老人一样使用 claude](https://www.v2ex.com/t/1206806)
+

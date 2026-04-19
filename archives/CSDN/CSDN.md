@@ -159,3 +159,21 @@
 
 + [一个 Python 视频处理工具链实战：下载、转录、摘要、字幕、诊断全打通 （已开源）](https://blog.csdn.net/weixin_42211816/article/details/160250806)
 
++ [AI领域简报（2026年4月11日—4月17日）](https://blog.csdn.net/txg666/article/details/160258870)
+
++ [从LLM到Agent Skill：AI核心技术全拆解与系统化学习路线](https://blog.csdn.net/zhangay1998/article/details/160254646)
+
++ [RabbitMQ 死信队列（DLX）全面解析：是什么、工作流程、应用场景与实战配置](https://blog.csdn.net/qq_41840843/article/details/160209371)
+
++ [HarmonyOS 6 轻相机应用开发2：贴纸效果实现](https://blog.csdn.net/sjw890821sjw/article/details/160233283)
+
++ [HarmonyOS / OpenHarmony 平台三方库移植：使用vcpkg 移植 Crashpad 过程实战总结](https://blog.csdn.net/qq8864/article/details/160193362)
+
++ [金融系统 Summit Backend 的 Docker 化实践：CI/CD、测试与安全性的工程经验总结](https://blog.csdn.net/weixin_73294966/article/details/160249076)
+
++ [11款Linux PDF编辑工具横评｜开源、免费为主](https://blog.csdn.net/m0_68274698/article/details/160256069)
+
++ [应用层协议HTTP](https://blog.csdn.net/2403_87752060/article/details/160217280)
+
++ [VR遥操作机械臂系统：核心算法与数学方法全解析](https://blog.csdn.net/2203_75650990/article/details/160242241)
+
