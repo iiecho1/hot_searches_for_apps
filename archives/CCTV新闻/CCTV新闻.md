@@ -193,3 +193,9 @@
 
 + [保加利亚提前举行议会选举](https://news.cctv.com/2026/04/19/ARTIeHqBLqlE96VAhS3f5oWN260419.shtml)
 
++ [美方评估伊朗仍保有约七成战前导弹库存](https://news.cctv.com/2026/04/19/ARTIQIN0nyfuQG5xqTh1sSKl260419.shtml)
+
++ [哈里斯：美国人不想打伊朗 特朗普意图“转移焦点”](https://news.cctv.com/2026/04/19/ARTIV8I6xWzLNixjrWBrsd5r260419.shtml)
+
++ [数万名日本民众集会 抗议高市政府扩军危险动向](https://news.cctv.com/2026/04/19/ARTIqQr8yLR83P7JUOq5uTGO260419.shtml)
+

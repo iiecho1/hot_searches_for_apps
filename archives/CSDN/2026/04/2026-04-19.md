@@ -205,3 +205,17 @@
 
 + [AI助手实现关系网络驱动工具检索超越搜索引擎能力突破](https://blog.csdn.net/weixin_49122920/article/details/160261336)
 
++ [一文读懂人工智能，机器学习，深度学习，神经网络，Transformer](https://blog.csdn.net/lanyang123456/article/details/160260014)
+
++ [目标检测到底在做什么：分类、检测、分割的区别（三）](https://blog.csdn.net/2301_79911329/article/details/160259243)
+
++ [【HarmonyOS 6.0】ArkWeb PDF浏览能力增强：指定PDF文档背景色功能详解](https://blog.csdn.net/weixin_74809706/article/details/160145445)
+
++ [CSS如何实现背景颜色的棋盘格分布_利用repeating-gradient](https://blog.csdn.net/m0_37761823/article/details/160260854)
+
++ [Flutter_OpenHarmony_三方库_url_launcher链接跳转适配详解](https://blog.csdn.net/2601_94959365/article/details/160249649)
+
++ [Linux 线程同步与互斥（二）：线程同步从条件变量到生产者消费者模型全解，原理 + 源码彻底吃透](https://blog.csdn.net/2503_91389547/article/details/160089883)
+
++ [新能源场站无人值守革命：构建高效、安全、智能的下一代运维体系（PPT）](https://blog.csdn.net/weixin_54114441/article/details/160256495)
+

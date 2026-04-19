@@ -43,3 +43,7 @@
 
 + [被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核](https://www.v2ex.com/t/1206942)
 
++ [爱快软路由 ikuai 开心版 带插件固件完整分析](https://www.v2ex.com/t/1206925)
+
++ [你的 plus 还好吗？](https://www.v2ex.com/t/1206964)
+
