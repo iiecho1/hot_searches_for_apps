@@ -41,3 +41,5 @@
 
 + [问问大家，这个工作能去吗](https://www.v2ex.com/t/1206944)
 
++ [被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核](https://www.v2ex.com/t/1206942)
+

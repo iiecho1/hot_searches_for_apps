@@ -183,3 +183,13 @@
 
 + [驻委内瑞拉使馆提醒中国公民注意交通安全](https://news.cctv.com/2026/04/19/ARTI2QpESMQ4O3G23QENjDpp260419.shtml)
 
++ [巴西总统批评美国非法干涉他国内政](https://news.cctv.com/2026/04/19/ARTIoCI2vkHmREYTjnzFYbcI260419.shtml)
+
++ [马来西亚一村庄发生火灾 约200间房屋被毁](https://news.cctv.com/2026/04/19/ARTIs3HxifqvkjKcHITprCjH260419.shtml)
+
++ [美伊谈判敏感之际 伊朗高级将领出访伊拉克](https://news.cctv.com/2026/04/19/ARTIuJd53EY42Owb0dyq63ap260419.shtml)
+
++ [今年已有17人命丧美国移民拘留设施](https://news.cctv.com/2026/04/19/ARTIh9rCg05EtIBTBbTDLNv5260419.shtml)
+
++ [保加利亚提前举行议会选举](https://news.cctv.com/2026/04/19/ARTIeHqBLqlE96VAhS3f5oWN260419.shtml)
+
