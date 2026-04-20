@@ -101,3 +101,21 @@
 
 + [Git + 云原生：Kubernetes 配置版本管理全链路实践](https://blog.csdn.net/ting9452000/article/details/160286926)
 
++ [HarmonyOS / OpenHarmony 鸿蒙PC平台三方库移植：使用 Lycium 移植 pngquant 的实践总结](https://blog.csdn.net/qq8864/article/details/160327059)
+
++ [深入理解Linux底层存储：从物理磁盘架构到文件系统(inode/Block)原理](https://blog.csdn.net/2401_86123468/article/details/160226546)
+
++ [OpenClaw实操指南20｜记忆系统实战：别让你的AI用完就忘，短期+长期记忆配置指南](https://blog.csdn.net/GODYAD/article/details/160274667)
+
++ [ChatGPT 模型有哪些？GPT-5.4/5.4mini 详解](https://blog.csdn.net/2601_95853022/article/details/160320276)
+
++ [SAP MRP计划策略与需求类型对净需求计算业务视角解析](https://blog.csdn.net/m0_45197968/article/details/160345768)
+
++ [MATLAB 学习：如何建立自己的深度学习训练样本库](https://blog.csdn.net/feng1790291543/article/details/145131160)
+
++ [OpenClaw 定时任务与自动化：Cron 详解](https://blog.csdn.net/sinat_41617212/article/details/160287685)
+
++ [自研双 Backbone 协同检测架构：从根源重构特征提取，解锁单 / 多模态检测精度新上限](https://blog.csdn.net/qq_64693987/article/details/160089803)
+
++ [触类旁通——迁移学习、多任务学习与元学习](https://blog.csdn.net/htw250056/article/details/160286331)
+
