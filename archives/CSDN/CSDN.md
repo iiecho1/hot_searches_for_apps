@@ -149,3 +149,15 @@
 
 + [Kafka消息不丢失全攻略](https://blog.csdn.net/Java_Chuck/article/details/160236677)
 
++ [【花雕动手做】EmbedClaw K10 完整技术文档：ESP32‑S3 轻量化 AI Agent 全栈解析](https://blog.csdn.net/weixin_41659040/article/details/160235632)
+
++ [2026年量子医学最新进展：从理论到临床的跃迁](https://blog.csdn.net/kkiron/article/details/160253529)
+
++ [Redis 缓存穿透、击穿、雪崩解决方案](https://blog.csdn.net/macowl/article/details/160260982)
+
++ [(31)ArcGIS Pro 定义投影与批量投影：矢量数据坐标转换工具实操](https://blog.csdn.net/weixin_42470465/article/details/160250346)
+
++ [Flutter_OpenHarmony_三方库_fluttertoast消息提示适配详解](https://blog.csdn.net/2601_94959365/article/details/160252636)
+
++ [全面解析Elasticsearch查询方式：12大类核心搜索语法+实战流程图+场景详解](https://blog.csdn.net/qq_41840843/article/details/160251196)
+

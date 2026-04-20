@@ -23,3 +23,7 @@
 
 + [人生中第一次装机🎉](https://www.v2ex.com/t/1206994)
 
++ [被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核](https://www.v2ex.com/t/1206942)
+
++ [公司前两周招了个新人， 在犹豫要不要叫老板辞退他](https://www.v2ex.com/t/1207033)
+
