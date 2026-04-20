@@ -123,3 +123,5 @@
 
 + [【华为Pura90系列】新品发布：Pura 90系列影像领衔，Pura X Max开启大阔折叠新赛道](https://blog.csdn.net/Morse_Chen/article/details/160344840)
 
++ [Next.js精通SEO第二章(robots.txt + sitemap.xml)](https://blog.csdn.net/qq1195566313/article/details/160343418)
+
