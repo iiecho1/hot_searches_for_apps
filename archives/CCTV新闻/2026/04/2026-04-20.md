@@ -203,3 +203,5 @@
 
 + [7.5级强震发生后 日本对超15万人发布避难指示](https://news.cctv.com/2026/04/20/ARTISoKJE28lzBtLkvAwy96D260420.shtml)
 
++ [外交部：防止军国主义阴魂复活是日本应尽的义务](https://news.cctv.com/2026/04/20/ARTITfTR687hTC5JnkK9CTm4260420.shtml)
+
