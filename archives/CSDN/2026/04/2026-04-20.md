@@ -217,3 +217,23 @@
 
 + [draw.io：开源流程图制作软件解决图表绘制与协作难题](https://blog.csdn.net/u010492022/article/details/160323804)
 
++ [World Labs Spark 2.0：将亿级 3DGS 世界原生带入 Web 浏览器](https://blog.csdn.net/qq_73472828/article/details/160329131)
+
++ [数据库在跑但你连不上：MariaDB部署+监控+内网穿透的完整方案](https://blog.csdn.net/2302_79376097/article/details/160335016)
+
++ [2026年Agentic AI七大趋势：从工具调用到自主决策，智能体的下一步](https://blog.csdn.net/2401_86326742/article/details/160337006)
+
++ [机器伦理层级跃迁的逻辑结构、哲学意涵与形式化建模（上）](https://blog.csdn.net/kkiron/article/details/160321089)
+
++ [深入Linux内核来学习udp协议](https://blog.csdn.net/2501_91839423/article/details/160259509)
+
++ [HarmonyOS 6智能家居实战：基于悬浮导航与沉浸光感的“光影智家“全屋智能控制系统](https://blog.csdn.net/u014727709/article/details/160312432)
+
++ [ubuntu 服务器实现 frp 内网穿透并设置自动断线重连](https://blog.csdn.net/Kuga_Master/article/details/160323368)
+
++ [KMP与Flutter选型实战指南](https://blog.csdn.net/2401_83797894/article/details/160333964)
+
++ [Flutter 适配鸿蒙方案（OpenHarmony）——以及遇到的坑的解决方案](https://blog.csdn.net/wf280496/article/details/160327214)
+
++ [服务进程在线，用户却打不开？用Prometheus+Blackbox把网络层也管起来](https://blog.csdn.net/weixin_62765017/article/details/160333041)
+

@@ -181,3 +181,23 @@
 
 + [俄黑海港口遭乌大规模无人机袭击 致一死一伤](https://news.cctv.com/2026/04/20/ARTIxVmfm7VhbabFnRUO2vi1260420.shtml)
 
++ [中国驻札幌总领馆提醒领区中国公民注意防范海啸及地震余震](https://news.cctv.com/2026/04/20/ARTICOYQXGLSpbacsgHbtlVg260420.shtml)
+
++ [日本调整强震震级为7.5级](https://news.cctv.com/2026/04/20/ARTICazxotK3fvKxl3yitFAf260420.shtml)
+
++ [伊朗外交部：目前无法实现霍尔木兹海峡航行正常化](https://news.cctv.com/2026/04/20/ARTIH704IpiWaWL0IeGfeRaq260420.shtml)
+
++ [伊朗外交部：从伊朗移除浓缩铀从来不是谈判选项](https://news.cctv.com/2026/04/20/ARTIlMVZypG5EQYdsBryHTIX260420.shtml)
+
++ [伊朗驻俄大使：伊议会正在审议霍尔木兹海峡通行费问题](https://news.cctv.com/2026/04/20/ARTI4T2FTevbkCFWDftOAKeG260420.shtml)
+
++ [日本东北部沿海地区发生7.4级地震 已发布海啸警报](https://news.cctv.com/2026/04/20/ARTI1ATMxHb9AygGBGwAaJkS260420.shtml)
+
++ [日本本州东部附近海域发生7.4级地震 震源深度10千米](https://news.cctv.com/2026/04/20/ARTI9C5UbN3fzuIK1aYkGPIn260420.shtml)
+
++ [卢旺达大学孔子学院举办“国际中文日”活动](https://photo.cctv.com/2026/04/20/PHOAJC8WWFv1vRfyA0guHxmX260420.shtml)
+
++ [伊朗外交部：目前没有与美国进行第二轮谈判的计划](https://news.cctv.com/2026/04/20/ARTIEtzZTG25qL8ahSoFM3De260420.shtml)
+
++ [伊朗议会要员：伊朗已决定继续与美国进行谈判](https://news.cctv.com/2026/04/20/ARTIqwDFreSEj7neyPcylTeJ260420.shtml)
+
