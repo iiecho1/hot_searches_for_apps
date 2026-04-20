@@ -239,3 +239,17 @@
 
 + [π0.7——4层prompt下的技能组合泛化能力：先高层策略基于指令历史和当前画面输出子任务指令，后世界模型基于子任务指令生成子目标图像](https://blog.csdn.net/v_JULY_v/article/details/160285230)
 
++ [Transformer实战（40）——Transformer时间序列数据建模](https://blog.csdn.net/LOVEmy134611/article/details/148064036)
+
++ [OpenClaw实操指南22｜BOOT启动任务配置：Agent上线第一件事，决定它能走多远](https://blog.csdn.net/GODYAD/article/details/160325085)
+
++ [万字拆解C++类和对象](https://blog.csdn.net/Ycs66666666/article/details/159857069)
+
++ [Ubuntu24.04网络图标消失导致无法上网--排查得到原因：内核和驱动版本不匹配](https://blog.csdn.net/2301_79465388/article/details/160335466)
+
++ [什么是低代码？低代码开发的本质、原理、作用、价值及主流框架](https://blog.csdn.net/qq_41137493/article/details/160340746)
+
++ [Git + 云原生：Kubernetes 配置版本管理全链路实践](https://blog.csdn.net/ting9452000/article/details/160286926)
+
++ [docker特权模式下逃逸](https://blog.csdn.net/weixin_55327846/article/details/160339099)
+
