@@ -161,3 +161,17 @@
 
 + [日本民众举行大规模集会 反对高市政权危险动向](https://news.cctv.com/2026/04/20/ARTIwi8eec50azuymHamzAZL260420.shtml)
 
++ [两名美驻墨西哥使馆工作人员在墨北部遭车祸死亡](https://news.cctv.com/2026/04/20/ARTI9RlkAbljBslfJyWV4nd1260420.shtml)
+
++ [伊朗副总统：海上封锁不解除 通航安全就不免费](https://news.cctv.com/2026/04/20/ARTIXsJzUjNse6AOmelOQIkN260420.shtml)
+
++ [保加利亚大选初步结果：前总统拉德夫所领导联盟有望获胜](https://news.cctv.com/2026/04/20/ARTIBIZMuyb9oGPN7zaR5vrG260420.shtml)
+
++ [伊朗在霍尔木兹海峡划定新航线 未经许可不得通行](https://news.cctv.com/2026/04/20/ARTIOfP6lSBe4sLTJdEgmVw7260420.shtml)
+
++ [阿根廷海军总参谋部发生火灾 致5人受伤](https://news.cctv.com/2026/04/20/ARTIvQGmxTIVgFWbJhQX28Ww260420.shtml)
+
++ [减航班、涨票价 全球多家航空公司进入“自保”模式](https://news.cctv.com/2026/04/20/ARTI8FqyTe1AbdPsbM0TXt6x260420.shtml)
+
++ [伊朗抓捕逾百名涉恐人员 查获3000余件武器](https://news.cctv.com/2026/04/20/ARTIUxV8Pc1mwoLSSkAWusag260420.shtml)
+

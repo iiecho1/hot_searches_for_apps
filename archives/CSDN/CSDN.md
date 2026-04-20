@@ -161,3 +161,37 @@
 
 + [全面解析Elasticsearch查询方式：12大类核心搜索语法+实战流程图+场景详解](https://blog.csdn.net/qq_41840843/article/details/160251196)
 
++ [andrej-karpathy-skills：让 AI 编程更靠谱 Karpathy 四大原则深度解析](https://blog.csdn.net/sinat_26917383/article/details/160255403)
+
++ [OpenClaw + kookeey 动态代理IP：搭建亚马逊电商数据采集与飞书 AI 自动化工作流](https://blog.csdn.net/weixin_51484460/article/details/160312158)
+
++ [实验五 Windows Server 2022/2025 搭建 FTP 服务器实验指导书](https://blog.csdn.net/supernealrei/article/details/160317052)
+
++ [Google 发布 Android Skill & Android CLI：大幅提升 Android Agent 能力](https://blog.csdn.net/vitaviva/article/details/160258631)
+
++ [本周AI圈炸了（4.13 - 4.19）：AI纳入教师资格考核、GPT-6来了、Claude反杀、机器人跑赢了人类](https://blog.csdn.net/TheChosenOnev/article/details/160316378)
+
++ [Flutter的生命周期：Widget 生命周期、App 生命周期 和 路由生命周期](https://blog.csdn.net/wangsen927/article/details/160251274)
+
++ [【分布式】分布式核心组件——分布式锁：Redis/ZooKeeper/etcd 实现方案（附全方位对比表）、优缺点、Redlock、时钟回拨问题](https://blog.csdn.net/qq_45914609/article/details/160324100)
+
++ [松下焊接机器人保护气WGFACS节气阀](https://blog.csdn.net/2403_88713304/article/details/160246774)
+
++ [现代 C++ 异步编程：从零实现一个高性能 ThreadPool (C++20 深度实践)](https://blog.csdn.net/u011233383/article/details/160259566)
+
++ [数据库选择之战：PostgreSQL vs MySQL vs SQLite](https://blog.csdn.net/weixin_43726381/article/details/160315109)
+
++ [Pinecone向量数据库深度解析：从核心架构到LangChain集成实战](https://blog.csdn.net/2401_82648291/article/details/159084614)
+
++ [AWS 新发布的 S3 Files 适合作为 Kafka 的存储吗？](https://blog.csdn.net/AutoMQ/article/details/160330904)
+
++ [Java 微服务服务网格实践：构建可靠的服务通信](https://blog.csdn.net/alex_goden/article/details/160250425)
+
++ [Vue slot 插槽转 React：VuReact 怎么处理？](https://blog.csdn.net/weixin_46921149/article/details/160321717)
+
++ [Web 端请求签名机制分析：以小红书（XiaoHongShu）x-s 参数为例](https://blog.csdn.net/weixin_42384784/article/details/160260887)
+
++ [自学软件测试day6—手机APP测试](https://blog.csdn.net/weixin_48366171/article/details/160294921)
+
++ [Docker概念学习和使用](https://blog.csdn.net/qq_45754165/article/details/160256068)
+
