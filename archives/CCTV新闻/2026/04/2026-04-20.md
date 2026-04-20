@@ -175,3 +175,9 @@
 
 + [伊朗抓捕逾百名涉恐人员 查获3000余件武器](https://news.cctv.com/2026/04/20/ARTIUxV8Pc1mwoLSSkAWusag260420.shtml)
 
++ [巴基斯坦内政部长前往美使馆讨论美伊第二轮谈判事宜](https://news.cctv.com/2026/04/20/ARTIm3Zkt9YDLr7B9hBGyfh4260420.shtml)
+
++ [巴基斯坦伊斯兰堡加强安保 执勤警员须佩戴防暴装备](https://news.cctv.com/2026/04/20/ARTIfPFXGn0XjLNEbOmCHL1T260420.shtml)
+
++ [俄黑海港口遭乌大规模无人机袭击 致一死一伤](https://news.cctv.com/2026/04/20/ARTIxVmfm7VhbabFnRUO2vi1260420.shtml)
+

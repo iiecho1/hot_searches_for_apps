@@ -195,3 +195,25 @@
 
 + [Docker概念学习和使用](https://blog.csdn.net/qq_45754165/article/details/160256068)
 
++ [深度学习实战-基于LSTM长短期记忆网络的黄金价格预测模型](https://blog.csdn.net/m0_64336780/article/details/159240946)
+
++ [（第一篇）Spring AI 架构设计与优化：从单实例到万级 QPS 分布式服务的演进之路](https://blog.csdn.net/qq_40303030/article/details/159382948)
+
++ [基于Python+Flask+MediaPipe实现疲劳和分心驾驶实时检测计算机视觉的驾驶员危险行为检测系统源码+项目说明](https://blog.csdn.net/FL1623863129/article/details/160322927)
+
++ [OpenClaw 定时任务与自动化：Cron 详解](https://blog.csdn.net/sinat_41617212/article/details/160287685)
+
++ [[简化版 Games 101] 计算机图形学 05：二维变换下](https://blog.csdn.net/2503_92624912/article/details/160304644)
+
++ [【黑马点评日记03】实战：Redis缓存穿透，缓存击穿，缓存雪崩全解析](https://blog.csdn.net/chen_si_shang_/article/details/160284812)
+
++ [Linux 线程同步与互斥（二）：线程同步从条件变量到生产者消费者模型全解，原理 + 源码彻底吃透](https://blog.csdn.net/2503_91389547/article/details/160089883)
+
++ [出口网关 Egress Gateway 开源项目：天枢 TianShu 详解（金融 / 支付 / 微服务必备）](https://blog.csdn.net/qq_34394326/article/details/160324028)
+
++ [NoSQL 之 Redis 集群](https://blog.csdn.net/2501_92765253/article/details/160330041)
+
++ [Vue 视频上传实战：视频预览、MediaRecorder 压缩与自定义上传](https://blog.csdn.net/2201_75691491/article/details/160330424)
+
++ [draw.io：开源流程图制作软件解决图表绘制与协作难题](https://blog.csdn.net/u010492022/article/details/160323804)
+
