@@ -201,3 +201,5 @@
 
 + [伊朗议会要员：伊朗已决定继续与美国进行谈判](https://news.cctv.com/2026/04/20/ARTIqwDFreSEj7neyPcylTeJ260420.shtml)
 
++ [7.5级强震发生后 日本对超15万人发布避难指示](https://news.cctv.com/2026/04/20/ARTISoKJE28lzBtLkvAwy96D260420.shtml)
+

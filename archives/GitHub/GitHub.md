@@ -21,3 +21,11 @@
 
 + [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
++ [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
++ [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+
++ [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
+
++ [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+

@@ -237,3 +237,5 @@
 
 + [服务进程在线，用户却打不开？用Prometheus+Blackbox把网络层也管起来](https://blog.csdn.net/weixin_62765017/article/details/160333041)
 
++ [π0.7——4层prompt下的技能组合泛化能力：先高层策略基于指令历史和当前画面输出子任务指令，后世界模型基于子任务指令生成子目标图像](https://blog.csdn.net/v_JULY_v/article/details/160285230)
+
