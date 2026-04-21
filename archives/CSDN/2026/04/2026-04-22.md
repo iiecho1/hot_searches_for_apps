@@ -155,3 +155,7 @@
 
 + [嵌入式数据库——API创建](https://blog.csdn.net/weixin_64611877/article/details/160384255)
 
++ [YOLOv11改进 | 注意力机制篇 | 2026医学最新注意力机制AFIA抑制图像噪声环境影响（全网独家首发）](https://blog.csdn.net/java1314777/article/details/160386899)
+
++ [【网络编程】UDP/TCP 协议套接字编程](https://blog.csdn.net/REGARD712/article/details/160308807)
+
