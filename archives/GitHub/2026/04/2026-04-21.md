@@ -21,3 +21,13 @@
 
 + [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
 
++ [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
+
++ [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+
++ [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+
