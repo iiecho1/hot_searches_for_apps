@@ -193,3 +193,9 @@
 
 + [8 种方法：将视频从手机传输到电脑（安卓 /iOS）](https://blog.csdn.net/Digitally/article/details/160337080)
 
++ [一文讲懂如何基于 Spring Security 实现 RBAC 权限控制](https://blog.csdn.net/2501_93491346/article/details/160378452)
+
++ [【Linux系统编程】深入理解命名管道（Named Pipe）：从原理到实战的完整指南](https://blog.csdn.net/Miun123/article/details/160258730)
+
++ [LangChain 检索器与 RAG 系统的深度解析与应用](https://blog.csdn.net/2401_82648291/article/details/159088438)
+
