@@ -165,3 +165,7 @@
 
 + [Vue Transition 组件转 React：VuReact 怎么处理？](https://blog.csdn.net/weixin_46921149/article/details/160344824)
 
++ [实战精讲：如何操作 Elasticsearch 进行文档的更新和删除（最全API+流程图+避坑）](https://blog.csdn.net/qq_41840843/article/details/160322991)
+
++ [Text-to-SQL与智能问数完全指南：基本概念、核心原理、Python实战教学及企业项目落地](https://blog.csdn.net/zxc18344522713/article/details/160349387)
+
