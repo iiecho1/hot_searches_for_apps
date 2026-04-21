@@ -151,3 +151,7 @@
 
 + [负载均衡概述](https://blog.csdn.net/2302_79430373/article/details/160282715)
 
++ [从驱动到架构：嵌入式C++工程化落地指南](https://blog.csdn.net/CC1991_/article/details/160385032)
+
++ [嵌入式数据库——API创建](https://blog.csdn.net/weixin_64611877/article/details/160384255)
+
