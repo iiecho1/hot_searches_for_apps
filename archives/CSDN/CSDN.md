@@ -125,3 +125,19 @@
 
 + [Next.js精通SEO第二章(robots.txt + sitemap.xml)](https://blog.csdn.net/qq1195566313/article/details/160343418)
 
++ [为 Elastic Cloud Serverless 和 Elasticsearch 引入统一的 API 密钥](https://blog.csdn.net/UbuntuTouch/article/details/160352113)
+
++ [DolphinDB自定义函数：打造专属工具库](https://blog.csdn.net/sinat_41617212/article/details/160331533)
+
++ [从零搭建 ELK + Kafka 日志收集系统（Spring Boot + Logback 直连 Kafka）](https://blog.csdn.net/qq_42043458/article/details/160341530)
+
++ [【分布式】分布式核心组件——分布式ID生成：雪花算法、号段模式、美团Leaf、百度UidGenerator、时钟回拨解决方案](https://blog.csdn.net/qq_45914609/article/details/160324589)
+
++ [如何跨设备访问我们VSCode中GitHub Copilot 的聊天记录？](https://blog.csdn.net/weixin_62528784/article/details/160344850)
+
++ [Pinecone向量数据库深度解析：从核心架构到LangChain集成实战](https://blog.csdn.net/2401_82648291/article/details/159084614)
+
++ [Python二手房数据可视化分析+预测+推荐](https://blog.csdn.net/Abtxr/article/details/160342718)
+
++ [web安全登录协议-EIP-4361 和 JWT 验证 以及RSA，ECDSA 算法](https://blog.csdn.net/liushengxi_root/article/details/160345252)
+

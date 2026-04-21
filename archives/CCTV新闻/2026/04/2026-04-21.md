@@ -167,3 +167,5 @@
 
 + [特朗普称在达成“协议”前不会解除对伊朗的封锁](https://news.cctv.com/2026/04/21/ARTICH3VIH0y0wSRoRju2VvL260421.shtml)
 
++ [日本通过内阁决议正式允许出口杀伤性武器](https://news.cctv.com/2026/04/21/ARTIDwOeJsyHEeg7k9vQjLUD260421.shtml)
+

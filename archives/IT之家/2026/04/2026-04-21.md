@@ -25,3 +25,21 @@
 
 + [官网揭秘：华为 Pura 90 标准版手机搭载麒麟 9010S 处理器](https://m.ithome.com/html/941280.htm)
 
++ [华为 Pura X Max 横向阔折叠手机真机曝光，展开就像一台小平板](https://m.ithome.com/html/940868.htm)
+
++ [网易云音乐 App 更新后主色调由鲜红变暗红，用户戏称“动脉血变静脉血”](https://m.ithome.com/html/940914.htm)
+
++ [长城魏建军痛批魏牌团队不会营销、没有 BBA 的品位调性，魏牌 CEO 赵永坡致歉](https://m.ithome.com/html/940850.htm)
+
++ [脖子以下全是腿：网友自制“豆脚”机器人现身北京人形机器人马拉松](https://m.ithome.com/html/940872.htm)
+
++ [公司升级服务器淘汰 72 根 DDR4 ECC RDIMM 内存条被员工捡回：总容量约 2.25TB，目前价值超 2 万美元](https://m.ithome.com/html/940930.htm)
+
++ [张雪坦言：流量已成甜蜜的负担，因被围堵无法骑摩托车上下班](https://m.ithome.com/html/940912.htm)
+
++ [五一假期售票开始以来，12306 已拒绝“抢票软件”出票 105.6 万张](https://m.ithome.com/html/940861.htm)
+
++ [小米“龙虾”Xiaomi miclaw 首批通过中国信通院手机端智能助手（Claw）评估，可自主执行复杂指令](https://m.ithome.com/html/940915.htm)
+
++ [古尔曼：苹果 WWDC 26 海报暗藏玄机，暗示 iOS 27 系统全新 Siri 界面](https://m.ithome.com/html/940955.htm)
+
