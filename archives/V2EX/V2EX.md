@@ -37,3 +37,7 @@
 
 + [昨天看了下，充电桩五年半了，用了正好一万度电。](https://www.v2ex.com/t/1207332)
 
++ [Copilot pro 移除了 claude opus 模型的使用权限](https://www.v2ex.com/t/1207361)
+
++ [继续送！ codex 中转，留邮箱就送。（老板去线下盯扩容进度了）](https://www.v2ex.com/t/1207238)
+

@@ -177,3 +177,9 @@
 
 + [日本大分县陆上自卫队一训练场弹药爆炸 2人死亡1人昏迷](https://news.cctv.com/2026/04/21/ARTIdjCKsYqSxTJAof3emZjq260421.shtml)
 
++ [日本三陆近海发生5.3级地震 震源深度10公里](https://news.cctv.com/2026/04/21/ARTIvAbivY0ZMRyvH49QeGIi260421.shtml)
+
++ [白宫称美伊正处于达成协议的“边缘”](https://news.cctv.com/2026/04/21/ARTIRf1cfg85kbWZgO8NG1Vk260421.shtml)
+
++ [航运数据显示 又一伊朗油轮突破美国封锁后返回伊朗](https://news.cctv.com/2026/04/21/ARTI8EFre082U3iUvd5Lhr0U260421.shtml)
+
