@@ -25,3 +25,19 @@
 
 + [苹果首款折叠 iPhone 手机壳曝光，显示支持 MagSafe 磁吸](https://m.ithome.com/html/941398.htm)
 
++ [内存价格上涨成本扛不住：华为余承东称手机定价压力较大，后期可能涨价](https://m.ithome.com/html/941312.htm)
+
++ [华为 Pura 90 系列新机重点参数配置差异公布，一表看懂](https://m.ithome.com/html/941297.htm)
+
++ [华为 Pura 90 系列新品发布会一文汇总：麒麟 9030S 登场，还有行业首款横向阔折叠、鸿蒙全家桶](https://m.ithome.com/html/941320.htm)
+
++ [比亚迪全新海狮 05“双狮”汽车上市：天神之眼 B、闪充技术 + 第二代刀片电池，9.79 万元起](https://m.ithome.com/html/941328.htm)
+
++ [双持党的胜利：华为 Pura X Max 横阔折手机支持微信平板模式登录](https://m.ithome.com/html/941340.htm)
+
++ [消息称苹果 iOS 27 抛弃 iPhone 11 / Pro / Max 及 SE 2 等手机](https://m.ithome.com/html/941363.htm)
+
++ [极氪官方回应网友“西楚霸王代言新公路之王”呼声：建议很好，期待接下来跟何润东有更多互动](https://m.ithome.com/html/941353.htm)
+
++ [“叕”卡双待：华为 Pura 90 Pro Max 手机同样支持 eSIM 功能](https://m.ithome.com/html/941318.htm)
+
