@@ -187,3 +187,9 @@
 
 + [AI漫剧工具复刻实战：用 React Flow 搭一个前端的无限画布，复刻 TapNow / LiblibTV 的核心交互](https://blog.csdn.net/weixin_44151887/article/details/160343324)
 
++ [Claude-4.7与KYC风暴-中国AI从业者何去何从](https://blog.csdn.net/2302_78391795/article/details/160324765)
+
++ [MySQL实操指南：复制表及数据复制全解析](https://blog.csdn.net/CharlesYuangc/article/details/160347269)
+
++ [8 种方法：将视频从手机传输到电脑（安卓 /iOS）](https://blog.csdn.net/Digitally/article/details/160337080)
+
