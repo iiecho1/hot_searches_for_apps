@@ -101,3 +101,39 @@
 
 + [国产大模型与芯片加速融合，RISC-V生态多点开花，AI编程工具迈入自动化新纪元](https://blog.csdn.net/qq_52305085/article/details/160323792)
 
++ [HarmonyOS鸿蒙PC开源QT软件移植：移植开源文本编辑器 NotePad--（Ndd）到鸿蒙 PC实践总结](https://blog.csdn.net/qq8864/article/details/160382276)
+
++ [OpenClaw实操指南23｜上下文管理实战：别让你的AI变成“七秒记忆的鱼“](https://blog.csdn.net/GODYAD/article/details/160357306)
+
++ [疯狂特技赛车2源码解析：Unity引擎的Web化实践](https://blog.csdn.net/qq_44273429/article/details/160383210)
+
++ [【前端】Vue 中 const、var、let 的区别](https://blog.csdn.net/weixin_44299027/article/details/160342811)
+
++ [腾讯云轻量服务器部署 OpenClaw：打造 AI 求职指导与高考志愿规划双场景龙虾助手](https://blog.csdn.net/weixin_52908342/article/details/160310513)
+
++ [如何轻松避免网络负载过大](https://blog.csdn.net/2509_94812818/article/details/157096101)
+
++ [大模型的探索与实践-课程笔记（四）：Agent与Multi-Agent](https://blog.csdn.net/2301_77505941/article/details/160384114)
+
++ [【408 计算机网络】核心考点速记：路由协议、组播计算与 IP 地址详解](https://blog.csdn.net/2303_81537386/article/details/160384550)
+
++ [万字拆解C++类和对象](https://blog.csdn.net/Ycs66666666/article/details/159857069)
+
++ [【网络基石】从三次握手到 HTTP/3：深度拆解 TCP/UDP 传输奥秘](https://blog.csdn.net/2301_79871637/article/details/160320240)
+
++ [【ai大模型】使用gitee高校模力方舟的大模型；API Error问题；cli、ide接入大模型](https://blog.csdn.net/2403_82497315/article/details/160315833)
+
++ [基于深度学习的停车位检测系统（远距离视角）（YOLOv12完整代码+论文示例+多算法对比）](https://blog.csdn.net/2401_88848122/article/details/156196997)
+
++ [Spring 循环依赖为什么需要三级缓存？AOP 场景下的底层真相](https://blog.csdn.net/weixin_68315058/article/details/160242503)
+
++ [zabbix5.0（centos 7）+ ansible自动部署多台Client节点 + 实现多样告警](https://blog.csdn.net/2401_84262473/article/details/160313892)
+
++ [Elasticsearch高效实战：实现高性能全文检索的完整方案（原理+配置+API+优化）](https://blog.csdn.net/qq_41840843/article/details/160370983)
+
++ [MyBatis Plus 核心功能与用法](https://blog.csdn.net/csdn_silent/article/details/152665334)
+
++ [Kalibr 完全指南：从原理推导到ROS实战，掌握相机-IMU高精度标定](https://blog.csdn.net/weixin_54688302/article/details/159046916)
+
++ [Github热榜项目推荐 | Fireworks Tech Graph：告别手动绘图时代](https://blog.csdn.net/ZHHHHH15/article/details/160362680)
+

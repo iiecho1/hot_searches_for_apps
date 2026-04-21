@@ -21,3 +21,5 @@
 
 + [苹果 13 电池健康度 66%了，需要换电池吗？](https://www.v2ex.com/t/1207382)
 
++ [Tim Cook 卸任苹果 CEO， John Ternus 接棒](https://www.v2ex.com/t/1207329)
+
