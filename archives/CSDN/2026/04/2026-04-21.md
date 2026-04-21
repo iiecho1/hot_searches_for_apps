@@ -169,3 +169,13 @@
 
 + [Text-to-SQL与智能问数完全指南：基本概念、核心原理、Python实战教学及企业项目落地](https://blog.csdn.net/zxc18344522713/article/details/160349387)
 
++ [多 Agent 之间如何通信和协调？OpenClaw 的 Gateway 在其中扮演什么角色？](https://blog.csdn.net/qq_28419035/article/details/160365754)
+
++ [【HID】规范精讲[2]: 蓝牙HID架构解密——从USB到无线的底层设计逻辑](https://blog.csdn.net/weixin_37800531/article/details/160193280)
+
++ [【HarmonyOS 6.0】ArkWeb PDF预览回调功能详解：让PDF加载状态可控可感](https://blog.csdn.net/weixin_74809706/article/details/160145188)
+
++ [单元测试、系统测试、集成测试知识详解](https://blog.csdn.net/zhangsiyuan1998/article/details/160336010)
+
++ [国产大模型四强对决：Kimi K2.6 vs GLM-5.1 vs Qwen3.6-Plus vs MiniMax M2 深度评测](https://blog.csdn.net/yonggeit/article/details/160300339)
+

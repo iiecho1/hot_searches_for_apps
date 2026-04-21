@@ -193,3 +193,11 @@
 
 + [韩国政府就高市早苗向靖国神社供奉祭品深表遗憾](https://news.cctv.com/2026/04/21/ARTIuZxTUPbK7kZoVHE67Iog260421.shtml)
 
++ [伊拉克民兵组织称美伊停火协议到期后或恢复对美袭击](https://news.cctv.com/2026/04/21/ARTIhbeVnDaRsKRWeFSIcOYH260421.shtml)
+
++ [伊朗体育部长：若球员安全得到保障将参加美加墨世界杯](https://news.cctv.com/2026/04/21/ARTIWXCOs9lnGfx93egjE50t260421.shtml)
+
++ [伊朗军方称“锡里城”号油轮在海军护航下安全进入伊朗领海](https://news.cctv.com/2026/04/21/ARTI04Ddnd2F43YlNov2bYqk260421.shtml)
+
++ [巴基斯坦媒体管理机构：将向参与报道伊美第二轮谈判记者发放证件](https://news.cctv.com/2026/04/21/ARTIkqiASJkj4LJouR8ttsva260421.shtml)
+
