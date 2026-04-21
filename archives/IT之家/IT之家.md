@@ -43,3 +43,9 @@
 
 + [古尔曼：苹果 WWDC 26 海报暗藏玄机，暗示 iOS 27 系统全新 Siri 界面](https://m.ithome.com/html/940955.htm)
 
++ [苹果官宣约翰 &#183; 特努斯 9 月 1 日接任 CEO，蒂姆 &#183; 库克将出任执行董事长](https://m.ithome.com/html/941380.htm)
+
++ [华为 Pura 90 系列新品发布会一文汇总：麒麟 9030S 登场，还有行业首款横向阔折叠、鸿蒙全家桶](https://m.ithome.com/html/941320.htm)
+
++ [比亚迪全新海狮 05“双狮”汽车上市：天神之眼 B、闪充技术 + 第二代刀片电池，9.79 万元起](https://m.ithome.com/html/941328.htm)
+

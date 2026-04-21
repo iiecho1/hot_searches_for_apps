@@ -169,3 +169,11 @@
 
 + [日本通过内阁决议正式允许出口杀伤性武器](https://news.cctv.com/2026/04/21/ARTIDwOeJsyHEeg7k9vQjLUD260421.shtml)
 
++ [帝汶岛附近海域发生5.6级地震，震源深度80千米](https://news.cctv.com/2026/04/21/ARTIeHD6zw8FfYzMvRHURErz260421.shtml)
+
++ [日本一陆上自卫队训练场弹药爆炸 已致3人死亡](https://news.cctv.com/2026/04/21/ARTIEX1bDX5x426WzaU3pdTs260421.shtml)
+
++ [菲律宾发生一起车祸致2人死亡 39人受伤](https://news.cctv.com/2026/04/21/ARTIYiugIUyJwbArNylzHhvp260421.shtml)
+
++ [日本大分县陆上自卫队一训练场弹药爆炸 2人死亡1人昏迷](https://news.cctv.com/2026/04/21/ARTIdjCKsYqSxTJAof3emZjq260421.shtml)
+
