@@ -19,3 +19,17 @@
 
 + [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
 
++ [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
++ [langfuse/langfuse](https://github.com/langfuse/langfuse)
+
++ [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+
++ [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+
++ [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+
++ [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+
++ [vercel-labs/skills](https://github.com/vercel-labs/skills)
+

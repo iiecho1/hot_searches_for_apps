@@ -57,3 +57,7 @@
 
 + [华为 Pura 90 Pro Max 手机首发光感无界主题：锁屏实时取景，手指一按能把周围环境变成壁纸](https://m.ithome.com/html/941859.htm)
 
++ [小米卢伟冰：REDMI K90 Max 手机 12GB 版本再补贴 200 元优惠政策延续至 5 月 5 日](https://m.ithome.com/html/941972.htm)
+
++ [小米 2026 款 REDMI Book Pro 14/16 英寸笔记本发售：至高搭酷睿 Ultra X7 358H，6999-9699 元](https://m.ithome.com/html/941797.htm)
+

@@ -209,3 +209,11 @@
 
 + [HarmonyOS 6 轻相机应用开发3：滤镜功能实现](https://blog.csdn.net/sjw890821sjw/article/details/160352622)
 
++ [InstructGPT，Chain of Thought，Llama 3.1论文笔记](https://blog.csdn.net/2501_94232062/article/details/160400500)
+
++ [企业微信 + 豆包新模型：API 接口驱动的智能自动回复体系构建](https://blog.csdn.net/beautifulmemory/article/details/160364338)
+
++ [从零学习Kafka：ZooKeeper vs KRaft](https://blog.csdn.net/K_Ohaha/article/details/160347421)
+
++ [【futter for open harmony】Flutter 聊天应用实战：Material Design 3 全局 UI 规范落地指南✨](https://blog.csdn.net/IntMainJhy/article/details/160384125)
+
