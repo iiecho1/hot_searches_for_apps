@@ -195,3 +195,15 @@
 
 + [Qt P5](https://blog.csdn.net/qq_55207218/article/details/160384430)
 
++ [开源跨平台文件传输工具 PairDrop，Windows/iPhone/ 安卓通用](https://blog.csdn.net/mrdeam/article/details/160384828)
+
++ [【花雕动手做】从 MimiClaw 到 EmbedClaw：ESP32‑S3 AI Agent 主程序架构对比与演进之路](https://blog.csdn.net/weixin_41659040/article/details/160400252)
+
++ [手搓工业级 C++ 线程安全日志系统：基于策略模式解耦，兼容 glog 使用风格](https://blog.csdn.net/2503_91389547/article/details/160240282)
+
++ [KES 数据库存储过程、函数、触发器实战](https://blog.csdn.net/weixin_43151418/article/details/160401577)
+
++ [Python中schedule库：轻松实现任务定时自动化](https://blog.csdn.net/kymppcds/article/details/160382488)
+
++ [YOLO26如何涨点系列篇（NEU-DET缺陷检测） | CVPR2026 FAAFusion 解决Neck跨尺度方向冲突，实现涨点1.2%](https://blog.csdn.net/m0_63774211/article/details/160390026)
+

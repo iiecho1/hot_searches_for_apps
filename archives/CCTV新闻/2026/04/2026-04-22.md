@@ -181,3 +181,17 @@
 
 + [美媒：联邦调查局就多名科学家死亡或失踪展开调查](https://news.cctv.com/2026/04/22/ARTIFZfXNSk2sfaf7tuTpLhl260422.shtml)
 
++ [伊朗伊斯兰革命卫队发表声明：随时准备应对任何威胁](https://news.cctv.com/2026/04/22/ARTIkGsC2V0JTGgZo5RPrRWa260422.shtml)
+
++ [英海上贸易行动办公室：阿曼附近发生船只遇袭事件](https://news.cctv.com/2026/04/22/ARTIVplZyKx5qzFDOA6TUXyb260422.shtml)
+
++ [伊朗教育部：约1300所学校在本轮美以伊冲突中受损](https://news.cctv.com/2026/04/22/ARTIJw4tX7myCHFnP552pfKW260422.shtml)
+
++ [高物价压低特朗普支持率 选民表示“上当受骗”](https://news.cctv.com/2026/04/22/ARTInBvcVHNVmOjap6Hwkoav260422.shtml)
+
++ [英国议会通过法案 2008年后出生者终身不得购烟](https://news.cctv.com/2026/04/22/ARTIMos2JaJfeCVZUayaPmiN260422.shtml)
+
++ [日本再现禽流感疫情 将扑杀23万只鸡](https://news.cctv.com/2026/04/22/ARTI2CKFZ0KzSTkOHmm8C50W260422.shtml)
+
++ [美国交通部长寻求100亿美元拨款推进空管系统升级](https://news.cctv.com/2026/04/22/ARTIjyDOSVu3FHsWdQi4QH22260422.shtml)
+
