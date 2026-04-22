@@ -159,3 +159,5 @@
 
 + [援密克罗尼西亚联邦中国医疗队开展灾后医疗救治工作](https://news.cctv.com/2026/04/19/ARTIRbOvtAKOE9KiaCbmnkqM260419.shtml)
 
++ [伊朗否认举行美伊新谈判 指特朗普“又说谎了”](https://news.cctv.com/2026/04/23/ARTI5Lvh7jzjPQUcv7vUwO6N260422.shtml)
+
