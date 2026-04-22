@@ -101,3 +101,21 @@
 
 + [LangChain 检索器与 RAG 系统的深度解析与应用](https://blog.csdn.net/2401_82648291/article/details/159088438)
 
++ [【HarmonyOS 6.0】AVCodec Kit 同步模式视频编解码深度解析：从API演进到高性能实战](https://blog.csdn.net/weixin_74809706/article/details/160179427)
+
++ [04月22日AI每日参考：OpenAI发布AI经济政策，Agent进入金融市场](https://blog.csdn.net/GODYAD/article/details/160389959)
+
++ [鸿蒙游戏 + AI：自动测试与自动发布](https://blog.csdn.net/qq_36863796/article/details/160373828)
+
++ [HarmonyOS 6（API 23）实战：基于 HDS 沉浸光感与悬浮导航打造“光影工作台“多窗口协作系统](https://blog.csdn.net/u014727709/article/details/157390973)
+
++ [基于YOLO26深度学习的【无人机视角DaMa检测】与语音提示系统【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/160369807)
+
++ [蓝湖 MCP 快速上手手册（Claude + Codex）](https://blog.csdn.net/LYX_WIN/article/details/160368009)
+
++ [YOLOv11改进 | Neck篇 | CVPR最新低照度图像增强模块HVI改进YOLOv11（有效涨点）](https://blog.csdn.net/java1314777/article/details/160418014)
+
++ [如何跨设备访问我们VSCode中GitHub Copilot 的聊天记录？](https://blog.csdn.net/weixin_62528784/article/details/160344850)
+
++ [忍不了Adobe订阅费之后，我在极空间上搭了一个Photopea](https://blog.csdn.net/2401_84720739/article/details/160397027)
+
