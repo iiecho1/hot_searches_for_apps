@@ -59,3 +59,5 @@
 
 + [iOS 照片备份 App「🍉西瓜备份」上线，直接免费](https://www.v2ex.com/t/1207707)
 
++ [codex 的风评似乎在超过 Claude code？](https://www.v2ex.com/t/1207711)
+

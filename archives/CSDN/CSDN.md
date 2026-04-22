@@ -207,3 +207,5 @@
 
 + [YOLO26如何涨点系列篇（NEU-DET缺陷检测） | CVPR2026 FAAFusion 解决Neck跨尺度方向冲突，实现涨点1.2%](https://blog.csdn.net/m0_63774211/article/details/160390026)
 
++ [HarmonyOS 6 轻相机应用开发3：滤镜功能实现](https://blog.csdn.net/sjw890821sjw/article/details/160352622)
+

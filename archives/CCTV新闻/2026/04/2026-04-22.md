@@ -195,3 +195,9 @@
 
 + [美国交通部长寻求100亿美元拨款推进空管系统升级](https://news.cctv.com/2026/04/22/ARTIjyDOSVu3FHsWdQi4QH22260422.shtml)
 
++ [中使馆提醒中国公民近期避免前往日本，在日同胞加强地震灾害应急防范](https://news.cctv.com/2026/04/22/ARTI57zNDVnO9oYcajYzx7OQ260422.shtml)
+
++ [燃油成本高企 德国汉莎航空宣布取消两万个航班](https://news.cctv.com/2026/04/22/ARTIg3RXW9MogYC92W8fqzh9260422.shtml)
+
++ [匈牙利石油和天然气公司：乌方已完成“友谊”输油管道乌克兰段维修](https://news.cctv.com/2026/04/22/ARTIRWkRFYx5I8Dj9MZmHfjz260422.shtml)
+
