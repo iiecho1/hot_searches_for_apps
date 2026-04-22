@@ -159,3 +159,15 @@
 
 + [【网络编程】UDP/TCP 协议套接字编程](https://blog.csdn.net/REGARD712/article/details/160308807)
 
++ [OpenClaw 浏览器自动化实战](https://blog.csdn.net/sinat_41617212/article/details/160379045)
+
++ [谷歌Cloud Next开幕：新一代TPU挑战英伟达，AI算力战争变天了](https://blog.csdn.net/evendy_te/article/details/160378689)
+
++ [蓝湖 MCP 快速上手手册（Claude + Codex）](https://blog.csdn.net/LYX_WIN/article/details/160368009)
+
++ [大数据时代时序数据库选型指南：Apache IoTDB 的实战进阶与避坑法则](https://blog.csdn.net/u014727709/article/details/160346532)
+
++ [【数学建模】（时间序列模型）动态线性模型 (DLM)](https://blog.csdn.net/Zlyzjiabjw547479/article/details/160380080)
+
++ [Spring MVC原理与源码：从请求到响应的全流程解析](https://blog.csdn.net/Ap0fMH91y/article/details/160382896)
+

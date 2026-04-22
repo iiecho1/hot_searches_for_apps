@@ -23,3 +23,13 @@
 
 + [Tim Cook 卸任苹果 CEO， John Ternus 接棒](https://www.v2ex.com/t/1207329)
 
++ [# 抽奖 | 懒猫小龙猫 AI Agent 抽奖活动（第一轮）](https://www.v2ex.com/t/1207486)
+
++ [阿里云百炼这波开始割韭菜了，下架 coding plan，改头换面 token plan](https://www.v2ex.com/t/1207379)
+
++ [我不喜欢女同事，但是很喜欢她养的小狗...](https://www.v2ex.com/t/1207435)
+
++ [大伙高考志愿都是怎么报的，有提前规划过地区和专业之类的吗？](https://www.v2ex.com/t/1207397)
+
++ [上海的老破小可以入了吗？](https://www.v2ex.com/t/1207443)
+
