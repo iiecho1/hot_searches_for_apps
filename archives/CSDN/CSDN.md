@@ -187,3 +187,11 @@
 
 + [HarmonyOS 6金融应用实战：基于悬浮导航与沉浸光感的“光影财富“智能投顾系统](https://blog.csdn.net/u014727709/article/details/160346755)
 
++ [YOLOv5至YOLOv12升级：自动驾驶目标检测系统的设计与实现（完整代码+界面+数据集项目）](https://blog.csdn.net/qq_32892383/article/details/158180599)
+
++ [C#架构复原：5个坑，模型驱动让崩溃架构30分钟重生](https://blog.csdn.net/z_344791576/article/details/151896032)
+
++ [2023B卷，数大雁](https://blog.csdn.net/qq_28419035/article/details/160394487)
+
++ [Qt P5](https://blog.csdn.net/qq_55207218/article/details/160384430)
+

@@ -51,3 +51,5 @@
 
 + [A\不做人了，取消 Pro 订阅的 CC 使用](https://www.v2ex.com/t/1207634)
 
++ [真的服了老父亲](https://www.v2ex.com/t/1207600)
+

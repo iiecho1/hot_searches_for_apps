@@ -177,3 +177,7 @@
 
 + [伊朗敦促联合国责令美国释放伊朗被扣货船](https://news.cctv.com/2026/04/22/ARTIfMb13li3WR4Mt5E7cwos260422.shtml)
 
++ [数名中国公民因签证逾期滞留 中国驻尼泊尔使馆郑重提醒](https://news.cctv.com/2026/04/22/ARTIzT51xGAEsvbiLSmgpsCR260422.shtml)
+
++ [美媒：联邦调查局就多名科学家死亡或失踪展开调查](https://news.cctv.com/2026/04/22/ARTIFZfXNSk2sfaf7tuTpLhl260422.shtml)
+
