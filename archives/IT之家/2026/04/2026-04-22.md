@@ -61,3 +61,21 @@
 
 + [小米 2026 款 REDMI Book Pro 14/16 英寸笔记本发售：至高搭酷睿 Ultra X7 358H，6999-9699 元](https://m.ithome.com/html/941797.htm)
 
++ [张雪机车发布 820RR 摩托车召回通告：已交付 286 台，请车主先停止使用](https://m.ithome.com/html/942131.htm)
+
++ [整治安卓手机卡顿、发热问题，vivo、小米、OPPO、荣耀等推进“公平运行内存机制”](https://m.ithome.com/html/942118.htm)
+
++ [华为余承东官宣肖战成为鸿蒙智行尚界品牌代言人](https://m.ithome.com/html/941917.htm)
+
++ [央视焦点访谈：哪吒造车 3 年烧掉 183 亿，多地国资投资难追回](https://m.ithome.com/html/941887.htm)
+
++ [鸿蒙智行尚界 Z7 / Z7T 新车上市：标配华为乾崑 896 线激光雷达，21.98 万元 / 22.98 万元起](https://m.ithome.com/html/942282.htm)
+
++ [特努斯将接任苹果 CEO，承诺“再次改变世界”](https://m.ithome.com/html/941864.htm)
+
++ [小米 REDMI 手机：发布 4 小时，K90 Max 刷新近一年全渠道 3K-4K 新机首销纪录](https://m.ithome.com/html/941920.htm)
+
++ [没抢到鸿蒙 6.1 也有更新：华为畅享 90 Pro Max 开推“6.0.0.150 SP8”版本，新增智感握姿等功能](https://m.ithome.com/html/941857.htm)
+
++ [“西楚霸王代言新公路之王”官宣，何润东成为极氪 8X“交付官”](https://m.ithome.com/html/941928.htm)
+

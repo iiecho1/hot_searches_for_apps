@@ -217,3 +217,13 @@
 
 + [【futter for open harmony】Flutter 聊天应用实战：Material Design 3 全局 UI 规范落地指南✨](https://blog.csdn.net/IntMainJhy/article/details/160384125)
 
++ [【HarmonyOS 6.0】ArkWeb新特性：PDF加载成功/失败回调及滚动到底部监听](https://blog.csdn.net/weixin_74809706/article/details/160145583)
+
++ [自动化构建工具：make 与 Makefile](https://blog.csdn.net/czx_163/article/details/160415402)
+
++ [关于 IP 纯净度检测工具的那些事](https://blog.csdn.net/cui_yonghua/article/details/160414076)
+
++ [SpringBoot+LangChain4j+Ollama实现Function Calling工具调用-仿智能客服示例](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/160409823)
+
++ [两行注解把企业 RPC 接口变成 AI Agent Tool 工具](https://blog.csdn.net/fenglingguitar/article/details/160377727)
+
