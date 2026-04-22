@@ -169,3 +169,11 @@
 
 + [特朗普宣布延长停火期限 维持海上封锁等待伊朗提交方案](https://news.cctv.com/2026/04/22/ARTI4gAV5NR1ah6u2NpaiOWw260422.shtml)
 
++ [巴拿马海关近日加强对持中国护照入境人员审查 中使馆提醒](https://news.cctv.com/2026/04/22/ARTIM0HdW1zpJXmKSPWOx6Tb260422.shtml)
+
++ [伊朗战事致法国损失40亿至60亿欧元](https://news.cctv.com/2026/04/22/ARTI4fWCPTESJdwdNMWwlNlS260422.shtml)
+
++ [中国驻菲律宾使馆发言人季凌鹏就菲防长特奥多罗涉华错误言论答记者问](https://news.cctv.com/2026/04/22/ARTIHPBdPp1iav0FVGLEOv41260422.shtml)
+
++ [伊朗敦促联合国责令美国释放伊朗被扣货船](https://news.cctv.com/2026/04/22/ARTIfMb13li3WR4Mt5E7cwos260422.shtml)
+

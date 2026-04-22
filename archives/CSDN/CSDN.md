@@ -171,3 +171,19 @@
 
 + [Spring MVC原理与源码：从请求到响应的全流程解析](https://blog.csdn.net/Ap0fMH91y/article/details/160382896)
 
++ [【HarmonyOS 6.0】AVCodec Kit 同步模式视频编解码深度解析：从API演进到高性能实战](https://blog.csdn.net/weixin_74809706/article/details/160179427)
+
++ [AI 日报 - 2026年4月21日](https://blog.csdn.net/weixin_45526015/article/details/160354529)
+
++ [OMC - 05 从单人到多 Agent：Oh-my-claudecode 的插件架构解析](https://blog.csdn.net/yangshangwei/article/details/160373583)
+
++ [Elasticsearch 核心数据模型：10大核心概念](https://blog.csdn.net/qq_41840843/article/details/160371449)
+
++ [【IoTDB】工业物联网时序数据库优选：Apache IoTDB的显著优势](https://blog.csdn.net/Morse_Chen/article/details/160382134)
+
++ [TRAE 自定义模型配置教程｜TRAE v3.3.51 下载和 baseURL 完整填写指南 支持第三方url接入和接入本地大模型 deepseek qwen gpt都可用](https://blog.csdn.net/weixin_41961749/article/details/160383203)
+
++ [Plex影音库部署体验：它解决了什么、局限在哪、值不值得搭](https://blog.csdn.net/m0_68390957/article/details/160366214)
+
++ [HarmonyOS 6金融应用实战：基于悬浮导航与沉浸光感的“光影财富“智能投顾系统](https://blog.csdn.net/u014727709/article/details/160346755)
+

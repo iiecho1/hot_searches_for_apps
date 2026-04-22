@@ -17,3 +17,5 @@
 
 + [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 
++ [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+
