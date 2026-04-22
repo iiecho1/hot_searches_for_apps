@@ -161,3 +161,9 @@
 
 + [伊朗否认举行美伊新谈判 指特朗普“又说谎了”](https://news.cctv.com/2026/04/23/ARTI5Lvh7jzjPQUcv7vUwO6N260422.shtml)
 
++ [伊朗总统称欢迎对话 美实施封锁等行径是谈判主要障碍](https://news.cctv.com/2026/04/23/ARTI1a6SpCiYHpZCA3HzfLth260423.shtml)
+
++ [佩斯科夫称普京愿在协议最终敲定阶段与泽连斯基会面](https://news.cctv.com/2026/04/23/ARTIMBozuILPJd6DFdQNq60j260423.shtml)
+
++ [白宫称特朗普未就与伊朗停火延长设最后期限](https://news.cctv.com/2026/04/23/ARTIaI2ghuMLYqHdRTFZw8rP260423.shtml)
+
