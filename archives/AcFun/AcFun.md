@@ -67,3 +67,5 @@
 
 + [口袋哈苏 + 机圈德芙！OPPO Find X9 Ultra 影像性能全拉满](https://m.acfun.cn/v/?ac=48462283)
 
++ [【东方】ナイト・オブ・ナイツ【交响/Rock/Arrange】](https://m.acfun.cn/v/?ac=48448819)
+
