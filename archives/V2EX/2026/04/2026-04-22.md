@@ -61,3 +61,5 @@
 
 + [codex 的风评似乎在超过 Claude code？](https://www.v2ex.com/t/1207711)
 
++ [问个问题，现在失业率到底是多少](https://www.v2ex.com/t/1207717)
+
