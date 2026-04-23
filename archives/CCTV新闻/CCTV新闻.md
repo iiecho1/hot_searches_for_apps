@@ -199,3 +199,19 @@
 
 + [土耳其议会通过法案 禁15岁以下人群使用社交媒体](https://news.cctv.com/2026/04/23/ARTIt7lhusp4Io3zqxFNHsdS260423.shtml)
 
++ [滑向“掠夺性霸权”，美国正“以倒退的方式步入未来”](https://news.cctv.com/2026/04/23/ARTIkr8kHQCjcOKCa6nw1w33260423.shtml)
+
++ [印度大举进口250万吨尿素 或加剧全球供应紧张](https://news.cctv.com/2026/04/23/ARTIB1LnbXY6WRuJWLb9rkts260423.shtml)
+
++ [拍照留念致战机空中碰撞 韩国飞行员被索赔8800万韩元](https://news.cctv.com/2026/04/23/ARTIKclvv6LOqpWoOWXb8Y7a260423.shtml)
+
++ [伊朗处决一名与摩萨德合作的武装人员](https://news.cctv.com/2026/04/23/ARTIWBkbjH7BVFKEoTtkFAAS260423.shtml)
+
++ [斯洛伐克称已恢复通过“友谊”管道接收俄石油](https://news.cctv.com/2026/04/23/ARTIzsSH60sdItU5p6TOMNSt260423.shtml)
+
++ [伊朗马汉航空宣布将恢复往返中国航线客运航班](https://news.cctv.com/2026/04/23/ARTI96NQs81BizDEejIqe8lQ260423.shtml)
+
++ [以色列国防部采购价值逾2亿美元的空射武器](https://news.cctv.com/2026/04/23/ARTIziSMI9aPoIvHEB7hqU8c260423.shtml)
+
++ [古特雷斯任期将于年底结束 谁会成为下一任联合国秘书长](https://news.cctv.com/2026/04/23/ARTIQcJRtTRZfsmPhe1nOwXn260423.shtml)
+
