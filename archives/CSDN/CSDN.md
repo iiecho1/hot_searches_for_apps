@@ -157,3 +157,7 @@
 
 + [OpenClaw（养龙虾） +关于Hadoop hive的Skills（Cloudera CDH、CDP）](https://blog.csdn.net/TT1h2bxZf/article/details/160417397)
 
++ [OpenWebUI用下来，命令行跑AI模型的体验能提升多少？](https://blog.csdn.net/2401_86326742/article/details/160441017)
+
++ [基于Rokid灵珠平台的全科学习助手智能体开发实践](https://blog.csdn.net/2302_79376097/article/details/160412195)
+
