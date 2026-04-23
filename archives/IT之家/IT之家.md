@@ -45,3 +45,21 @@
 
 + [“西楚霸王代言新公路之王”官宣，何润东成为极氪 8X“交付官”](https://m.ithome.com/html/941928.htm)
 
++ [华为余承东再放豪言：两年前发布的问界 M9 让中国汽车产业家家都学习，新 M9 要让他们永远追不上](https://m.ithome.com/html/942310.htm)
+
++ [宝马旗舰轿车迎来史上最大幅度升级，新世代 7 系正式亮相](https://m.ithome.com/html/942305.htm)
+
++ [库克反思其 15 年 CEO 任期：苹果地图发布是“首个重大错误”，也是“宝贵经验”](https://m.ithome.com/html/942349.htm)
+
++ [苹果 iOS / iPadOS 26.4.2 正式版发布，修复推送通知残留 Bug](https://m.ithome.com/html/942344.htm)
+
++ [鸿蒙智行问界 M6 新锐智慧 SUV 上市：标配全球量产最高 896 线激光雷达，25.98 万元起](https://m.ithome.com/html/942289.htm)
+
++ [鸿蒙智行尚界 Z7 / Z7T 新车 27 分钟大定破 1.2 万台，售价 21.98 万元 / 22.98 万元起](https://m.ithome.com/html/942313.htm)
+
++ [鸿蒙智行全新一代问界 M9 预售：标准版 49.98 万元起，Ultimate 领世加长版 66.98 万元起](https://m.ithome.com/html/942292.htm)
+
++ [徐洁云回应网传“Tim Cook 将出任小米汽车 CEO”：乱 P 图不可取，可不兴这么乱开玩笑](https://m.ithome.com/html/942159.htm)
+
++ [华为余承东：鸿蒙智行智界 V9 预售 1 小时订单破 1.25 万台，发布会一结束何刚就下订了](https://m.ithome.com/html/942338.htm)
+
