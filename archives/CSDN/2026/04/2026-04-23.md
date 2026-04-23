@@ -161,3 +161,11 @@
 
 + [基于Rokid灵珠平台的全科学习助手智能体开发实践](https://blog.csdn.net/2302_79376097/article/details/160412195)
 
++ [Elasticsearch 实战：数据自动化清理完全指南（ILM + 定时删除 + 最佳实践）](https://blog.csdn.net/qq_41840843/article/details/160444821)
+
++ [HarmonyOS / OpenHarmony 鸿蒙PC平台三方库移植：使用 Lycium 移植 pngquant 的实践总结](https://blog.csdn.net/qq8864/article/details/160327059)
+
++ [System Prompt 在 Agent 系统中承载了哪些职责？如果 System Prompt 越来越长，你会怎么处理？](https://blog.csdn.net/qq_28419035/article/details/160426218)
+
++ [2026年华中杯大学生数学建模挑战赛ABC（华中杯数学建模）参赛思路与解题策略全解析（详细解题思路和论文+完整项目代码+全套资源）](https://blog.csdn.net/qq_40379132/article/details/160418942)
+

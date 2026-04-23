@@ -215,3 +215,13 @@
 
 + [古特雷斯任期将于年底结束 谁会成为下一任联合国秘书长](https://news.cctv.com/2026/04/23/ARTIQcJRtTRZfsmPhe1nOwXn260423.shtml)
 
++ [联合国：里海水位逾30年来降2米 威胁五国生计](https://news.cctv.com/2026/04/23/ARTIAeOSTo67HFXMltVLSzxy260423.shtml)
+
++ [“在中国创新、服务全球市场”模式正加速形成——访博世集团董事会主席哈通](https://news.cctv.com/2026/04/23/ARTIgRME6gBaqVDUDqaMt2Xx260423.shtml)
+
++ [巴媒体人士：乌鲁木齐国际陆港区搭建区域互联高效通道，体现新疆发展水平](https://news.cctv.com/2026/04/23/ARTII8j5kiTJT2qWphis7dYg260423.shtml)
+
++ [日方有关靖国神社的消极动向引发广泛批评](https://news.cctv.com/2026/04/23/ARTIJFlXNS9A0JcV0ivENjHz260423.shtml)
+
++ [积羽沉舟，聚势为患——揭露日本“新型军国主义”的危险拼图](https://news.cctv.com/2026/04/23/ARTIlJEjDBjrAMeo0v0jaceA260423.shtml)
+

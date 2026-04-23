@@ -25,3 +25,23 @@
 
 + [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
++ [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
+
++ [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
++ [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
++ [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+
++ [cline/cline](https://github.com/cline/cline)
+
++ [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+
++ [mksglu/context-mode](https://github.com/mksglu/context-mode)
+
++ [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
++ [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)
+
++ [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+
