@@ -121,3 +121,7 @@
 
 + [深度剖析雪花算法：原理拆解\+分布式ID与分布式锁彻底分清](https://blog.csdn.net/weixin_52908342/article/details/160421022)
 
++ [神经网络 —— 搭建神经网络（实例）](https://blog.csdn.net/i_k_o_x_s/article/details/160348227)
+
++ [2000—CentOS Linux 7上部署Oracle 19c(19.3) RAC（RedHat/CentOS 7/8）](https://blog.csdn.net/weixin_45806267/article/details/160375201)
+

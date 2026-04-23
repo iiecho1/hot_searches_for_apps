@@ -167,3 +167,7 @@
 
 + [白宫称特朗普未就与伊朗停火延长设最后期限](https://news.cctv.com/2026/04/23/ARTIaI2ghuMLYqHdRTFZw8rP260423.shtml)
 
++ [联合国证实一名法国籍维和人员在黎南部遇袭身亡](https://news.cctv.com/2026/04/23/ARTIxNd60OmWkfsAQNVhD3kZ260423.shtml)
+
++ [伊朗致信联合国：要求美以对袭击民用空间基础设施担责](https://news.cctv.com/2026/04/23/ARTIsKkOnZJTT4c4Yp6YDgOZ260423.shtml)
+
