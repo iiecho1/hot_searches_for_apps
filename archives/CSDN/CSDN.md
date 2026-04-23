@@ -169,3 +169,15 @@
 
 + [2026年华中杯大学生数学建模挑战赛ABC（华中杯数学建模）参赛思路与解题策略全解析（详细解题思路和论文+完整项目代码+全套资源）](https://blog.csdn.net/qq_40379132/article/details/160418942)
 
++ [Elasticsearch 生产级核心原理：Shard Allocation Awareness 工作机制与实战配置详解](https://blog.csdn.net/qq_41840843/article/details/160444927)
+
++ [我做了一个持续更新的 GPT-Image-2 提示词网站](https://blog.csdn.net/xianyu120/article/details/160449297)
+
++ [《Python 修炼全景指南：三 》Python 流程控制与函数：代码逻辑的基石](https://blog.csdn.net/mmlhbjk/article/details/160348409)
+
++ [最强生图模型GPT image2，一手深度测评，附使用教程+生成案例](https://blog.csdn.net/2501_94773550/article/details/160411584)
+
++ [盟接之桥®制造业EDI软件：专注制造，为制造业服务，让全球供应链协同更有底气](https://blog.csdn.net/mjarqa/article/details/160426693)
+
++ [【微服务】微服务 vs 单体架构 区别、服务拆分原则、DDD领域驱动设计](https://blog.csdn.net/qq_45914609/article/details/160417937)
+
