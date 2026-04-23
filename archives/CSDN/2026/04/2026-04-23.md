@@ -125,3 +125,17 @@
 
 + [2000—CentOS Linux 7上部署Oracle 19c(19.3) RAC（RedHat/CentOS 7/8）](https://blog.csdn.net/weixin_45806267/article/details/160375201)
 
++ [DeepSeek V4 ：长期记忆 + 编程能力双突破，国产大模型的护城河在哪？](https://blog.csdn.net/qq_73472828/article/details/160351561)
+
++ [自动化智能体生成辅助，搭建天气MCP与景点知识库，基于ModelEngine 快速实现多智能体协作](https://blog.csdn.net/g310773517/article/details/160376175)
+
++ [【Unity实战篇】| YooAsset + UOS CDN 云服务资源部署，实现正式热更流程](https://blog.csdn.net/zhangay1998/article/details/159904016)
+
++ [Elasticsearch 查询性能优化终极指南：从原理到实战，彻底降低查询延迟](https://blog.csdn.net/qq_41840843/article/details/160396281)
+
++ [AI编程工具深度横评2026：Claude Code × Cursor × Trae × OpenCode，7场景实测+完整免费配置](https://blog.csdn.net/qq_45591903/article/details/160344312)
+
++ [告别重复造轮子：Codex写脚本，运维/DevOps场景下，用Codex批量生成Shell/Python自动化脚本](https://blog.csdn.net/hefeng_aspnet/article/details/160219127)
+
++ [微服务-Docker](https://blog.csdn.net/m0_64245578/article/details/160342205)
+

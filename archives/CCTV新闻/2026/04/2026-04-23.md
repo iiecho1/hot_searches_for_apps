@@ -171,3 +171,19 @@
 
 + [伊朗致信联合国：要求美以对袭击民用空间基础设施担责](https://news.cctv.com/2026/04/23/ARTIsKkOnZJTT4c4Yp6YDgOZ260423.shtml)
 
++ [日本航空自卫队连曝飞机“掉零件”事件 引日本民众担忧](https://news.cctv.com/2026/04/23/ARTIGP1GBxoR6o9tywtJILp2260423.shtml)
+
++ [印度北方邦发生多车相撞事故 至少11人死亡](https://news.cctv.com/2026/04/23/ARTIfIEMpEgF6Kqo8q0fHyZA260423.shtml)
+
++ [美军称封锁以来已指令31艘船只掉头或返回伊朗港口](https://news.cctv.com/2026/04/23/ARTIIZAWxZGwEfSnA7cX1DsC260423.shtml)
+
++ [日本发生大规模山林火灾 约2000人被疏散](https://news.cctv.com/2026/04/23/ARTIyxyNt2Ydz2jtICPnVvsK260423.shtml)
+
++ [日本东京羽田机场发生系统故障 多家航司航班延误](https://news.cctv.com/2026/04/23/ARTIzSu6g2H7YEdTpxV6yLHE260423.shtml)
+
++ [美国务院要求美在伊朗公民立即离境](https://news.cctv.com/2026/04/23/ARTIyo0wlpbxOzbmwFOjuPKs260423.shtml)
+
++ [五角大楼宣布美海军部长“即刻离职”](https://news.cctv.com/2026/04/23/ARTI0CVe6UAaNBJjbs7rLZMH260423.shtml)
+
++ [伊朗就美国利用中东五国领土领空提出抗议](https://news.cctv.com/2026/04/23/ARTIViwjhKffszMXK4Ykh6mb260423.shtml)
+
