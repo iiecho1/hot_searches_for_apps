@@ -159,3 +159,7 @@
 
 + [日本通过内阁决议正式允许出口杀伤性武器](https://news.cctv.com/2026/04/21/ARTI1YDROzE5uTpNdreKgmjO260421.shtml)
 
++ [日本福岛核事故反应堆内部测得“极高”水平核辐射](https://news.cctv.com/2026/04/24/ARTID6jsACRctjDbfXNGWOkF260423.shtml)
+
++ [匈牙利称已恢复通过“友谊”管道接收石油](https://news.cctv.com/2026/04/24/ARTIsFjXRO8DMU5HKHzHt1C5260423.shtml)
+
