@@ -163,3 +163,7 @@
 
 + [匈牙利称已恢复通过“友谊”管道接收石油](https://news.cctv.com/2026/04/24/ARTIsFjXRO8DMU5HKHzHt1C5260423.shtml)
 
++ [伊朗称启动防空系统旨在应对小型无人机](https://news.cctv.com/2026/04/24/ARTIbmQUJHUxyuz77AoLaKLs260424.shtml)
+
++ [特朗普称黎以停火将延长三周](https://news.cctv.com/2026/04/24/ARTIdtXY86y6IDB4HQGubBMo260424.shtml)
+
