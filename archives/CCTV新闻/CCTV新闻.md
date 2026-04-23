@@ -187,3 +187,15 @@
 
 + [伊朗就美国利用中东五国领土领空提出抗议](https://news.cctv.com/2026/04/23/ARTIViwjhKffszMXK4Ykh6mb260423.shtml)
 
++ [巴基斯坦一矿场遭枪手袭击 已致9人死亡](https://news.cctv.com/2026/04/23/ARTITOBPHh3518WKXXPyb50g260423.shtml)
+
++ [限制特朗普战争权力议案第五次遭美参议院否决](https://news.cctv.com/2026/04/23/ARTIuIhmP3zkQz3J9ct0NmVj260423.shtml)
+
++ [日本众议院表决通过设立“国家情报局”法案](https://news.cctv.com/2026/04/23/ARTIIAzZO2QHW6UJBDAqrkNY260423.shtml)
+
++ [中国代表强调应避免中东战火冲击叙利亚安全稳定](https://news.cctv.com/2026/04/23/ARTI27CMFPDs5n1bLVOYvmt9260423.shtml)
+
++ [大韩航空拟允许空姐穿运动鞋上班](https://news.cctv.com/2026/04/23/ARTIoofxMcFwtcc7uBurfnPF260423.shtml)
+
++ [土耳其议会通过法案 禁15岁以下人群使用社交媒体](https://news.cctv.com/2026/04/23/ARTIt7lhusp4Io3zqxFNHsdS260423.shtml)
+
