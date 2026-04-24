@@ -33,3 +33,15 @@
 
 + [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
 
++ [google/osv-scanner](https://github.com/google/osv-scanner)
+
++ [PostHog/posthog](https://github.com/PostHog/posthog)
+
++ [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
+
++ [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+

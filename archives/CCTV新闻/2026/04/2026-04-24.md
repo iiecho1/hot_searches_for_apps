@@ -195,3 +195,5 @@
 
 + [伊朗强调各级官员之间保持“牢不可破”的团结](https://news.cctv.com/2026/04/24/ARTIfWBBiHJeNk35M2KdcXe9260424.shtml)
 
++ [内塔尼亚胡称已成功接受早期前列腺癌治疗](https://news.cctv.com/2026/04/24/ARTI7vzoDMjfnhvIVpWEdX5b260424.shtml)
+
