@@ -163,3 +163,5 @@
 
 + [大熊猫“平平”和“福双”将赴美开启10年旅居生活](https://news.cctv.com/2026/04/25/ARTIkbKNaL5xhyK0WEEmHUse260424.shtml)
 
++ [美司法部撤销对美联储及其主席鲍威尔的刑事调查](https://news.cctv.com/2026/04/25/ARTIeWeBD7EK2jA0KfMtG5V0260425.shtml)
+
