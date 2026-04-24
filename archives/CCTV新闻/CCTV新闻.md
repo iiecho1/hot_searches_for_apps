@@ -179,3 +179,13 @@
 
 + [塞内加尔收回美国能源公司天然气田开发权](https://news.cctv.com/2026/04/24/ARTINCq3XBIxkK3aIM18OymW260424.shtml)
 
++ [不满北约盟友拒绝在伊朗战事中提供支持 美被曝酝酿惩罚措施](https://news.cctv.com/2026/04/24/ARTIFYjHjRhjEm5b4NRwbkgz260424.shtml)
+
++ [世界气象组织：预计2026年年中将开始出现厄尔尼诺现象](https://news.cctv.com/2026/04/24/ARTIddDI4mHlHntbngwFzpSy260424.shtml)
+
++ [挪威将禁止16岁以下儿童使用社交媒体](https://news.cctv.com/2026/04/24/ARTIoABUKbwxDQVBso0hyE42260424.shtml)
+
++ [威胁加征“高额关税” 特朗普施压英国取消数字服务税](https://news.cctv.com/2026/04/24/ARTIrVj7WY7nJir0R0WBLNFV260424.shtml)
+
++ [日本公布F2战斗机坠毁原因：发动机长期未适当维护](https://military.cctv.com/2026/04/24/ARTIh4HzKXXYtIgRYVg8oWvz260424.shtml)
+

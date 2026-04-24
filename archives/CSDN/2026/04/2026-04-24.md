@@ -151,3 +151,15 @@
 
 + [【兆易创新GD32VW553开发板试用】 BSP 从 GitHub 下载与编译指南](https://blog.csdn.net/bit_mike/article/details/160417230)
 
++ [Re：从零开始的 C++ 进阶篇（四）工业级 C++ 编程：如何构建异常安全的健壮系统？（含案例分析）](https://blog.csdn.net/Z2314246476/article/details/160360117)
+
++ [大模型应用上线避坑清单：流式输出、超时重试、Prompt 注入防护，10 个生产必做项(6-10)](https://blog.csdn.net/qq_73472828/article/details/160423876)
+
++ [HarmonyOS 6（API 23）实战：基于 Face AR & Body AR 的“空间交互设计工作台“——PC端手势驱动3D建模系统](https://blog.csdn.net/u014727709/article/details/148522388)
+
++ [Flutter for OpenHarmony 第三方库六大核心模块整合实战全解｜从图片处理、消息通知到加密存储、设备推送 一站式鸿蒙适配开发总结](https://blog.csdn.net/IntMainJhy/article/details/160452347)
+
++ [`Model-View-Claw` 范式](https://blog.csdn.net/2301_80171004/article/details/160438952)
+
++ [工作流（4）——分布式与工作流](https://blog.csdn.net/mdwsmg/article/details/160452009)
+

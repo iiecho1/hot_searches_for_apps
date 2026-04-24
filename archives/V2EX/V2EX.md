@@ -43,3 +43,11 @@
 
 + [天下苦 Claude 久矣， GPT 就出招了， 5.5 目测下限是 opus 4.6](https://www.v2ex.com/t/1208148)
 
++ [只能说 DeepSeek V4 Pro 继续努力吧，天气卡片效果一般](https://www.v2ex.com/t/1208250)
+
++ [ThinkPad 用来工作编程推荐哪一款？](https://www.v2ex.com/t/1208154)
+
++ [外甥女马上初中毕业，学习不好，该选择什么样的出路，求大家给点建议](https://www.v2ex.com/t/1208188)
+
++ [方程豹出轿跑了，直面小米与尚界](https://www.v2ex.com/t/1208173)
+
