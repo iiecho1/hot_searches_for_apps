@@ -101,3 +101,23 @@
 
 + [基于Rokid灵珠平台的全科学习助手智能体开发实践](https://blog.csdn.net/2302_79376097/article/details/160412195)
 
++ [时序数据库选型指南：我们是怎么评估和选型的](https://blog.csdn.net/weixin_44976692/article/details/160466554)
+
++ [AI修炼记1-Tool Calling](https://blog.csdn.net/2502_91743997/article/details/160349089)
+
++ [AI 平台订阅套餐 Coding Plan 、Token Plan对比指南（2026年4月）](https://blog.csdn.net/weixin_44733660/article/details/160397630)
+
++ [一个叫Swagger的工具，让写接口文档变成享受](https://blog.csdn.net/weixin_46491509/article/details/160481698)
+
++ [SpringBoot+LangChain4j+Ollama+RAG(检索增强生成)实现私有文档向量化检索回答](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/160443735)
+
++ [DeepSeek V4 本地部署 + 生产级监控：从 Dockerfile 到 K8s 完整运维方案（2026）](https://blog.csdn.net/ofoxcoding/article/details/160479239)
+
++ [零门槛开发 3D 数字人：魔珐星云开放平台接入实战](https://blog.csdn.net/weixin_62765017/article/details/160478163)
+
++ [IDEA中集成AI 工具CodeBuddy和Trae区别和选型](https://blog.csdn.net/weixin_45139640/article/details/160408576)
+
++ [ROS代做机械臂导航路径规划激光雷达SLAM三维重建点云无人机视觉](https://blog.csdn.net/matlabgoodboy/article/details/160433819)
+
++ [【兆易创新GD32VW553开发板试用】 BSP 从 GitHub 下载与编译指南](https://blog.csdn.net/bit_mike/article/details/160417230)
+
