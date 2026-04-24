@@ -189,3 +189,7 @@
 
 + [WSL2 极速部署 Ubuntu 26.04 完全指南](https://blog.csdn.net/honestqiao/article/details/160448289)
 
++ [OpenAI最新模型gpt-image-2：介绍、API价格、使用教程全汇总](https://blog.csdn.net/badfl/article/details/160404291)
+
++ [基于 LangChain、RAG、LoRA 、Streamlit 的知识库问答客服系统从零到一（附项目源码）](https://blog.csdn.net/m0_58618795/article/details/160399538)
+

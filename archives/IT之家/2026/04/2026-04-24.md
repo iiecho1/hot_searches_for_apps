@@ -63,3 +63,21 @@
 
 + [华为再发自研系统：乾崑 OS 发布，将支撑自动驾驶三大关键技术](https://m.ithome.com/html/942788.htm)
 
++ [比亚迪方程豹轿车系列定名“方程 S”：首发三款新品亮相，第三季度上市](https://m.ithome.com/html/942893.htm)
+
++ [小米雷军到访理想汽车展台玩梗，赠送李想“听我讲完”T 恤](https://m.ithome.com/html/943034.htm)
+
++ [比亚迪方程豹首款轿跑 FORMULA X 正式亮相，量产车明年上市](https://m.ithome.com/html/942885.htm)
+
++ [小米汽车：新一代 SU7 锁单超 6 万台，交付 2.6 万台](https://m.ithome.com/html/942863.htm)
+
++ [国内首秀，小米 Vision Gran Turismo 超跑亮相 2026 北京车展](https://m.ithome.com/html/942870.htm)
+
++ [20.99 万元起号称“弯道之王”，领克 10 / 领克 10+ 中大型运动纯电轿车预售](https://m.ithome.com/html/942985.htm)
+
++ [比亚迪第三代元 PLUS 亮相北京车展：二代刀片电池 + 闪充，联名小马宝莉](https://m.ithome.com/html/943066.htm)
+
++ [比亚迪腾势 Z 超跑全球首秀：零百加速 2 秒内，7 月全球上市](https://m.ithome.com/html/942937.htm)
+
++ [王朝网首款 D 级旗舰 SUV：比亚迪大唐 EV 开启预售，25-32 万元](https://m.ithome.com/html/943058.htm)
+
