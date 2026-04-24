@@ -55,3 +55,7 @@
 
 + [Vibe coding 有什么意义？](https://www.v2ex.com/t/1208240)
 
++ [性爱机器人的诞生合理吗？](https://www.v2ex.com/t/1208252)
+
++ [DeepSeek V4 终于出来了。。不知道强不强](https://www.v2ex.com/t/1208225)
+

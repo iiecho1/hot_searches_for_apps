@@ -179,3 +179,13 @@
 
 + [RPC 原理：Dubbo为了偷懒而存在的中间商](https://blog.csdn.net/ma15732625261/article/details/160447945)
 
++ [AI 平台订阅套餐 Coding Plan 、Token Plan对比指南（2026年4月）](https://blog.csdn.net/weixin_44733660/article/details/160397630)
+
++ [DolphinDB数据导入导出：CSV、JSON、Parquet](https://blog.csdn.net/sinat_41617212/article/details/160478893)
+
++ [我们如何构建 Elasticsearch simdvec，使向量搜索成为世界上最快之一](https://blog.csdn.net/UbuntuTouch/article/details/160455705)
+
++ [Vue3 + Spring Boot 工单系统实战：用户反馈和客服处理的完整闭环（提供gitHub仓库地址）](https://blog.csdn.net/2201_75691491/article/details/160448476)
+
++ [WSL2 极速部署 Ubuntu 26.04 完全指南](https://blog.csdn.net/honestqiao/article/details/160448289)
+

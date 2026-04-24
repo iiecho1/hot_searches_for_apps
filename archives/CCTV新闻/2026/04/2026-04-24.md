@@ -199,3 +199,5 @@
 
 + [美国代表团或将于明日抵达伊斯兰堡](https://news.cctv.com/2026/04/24/ARTIGv89UVFfNR0cm1dTWh8X260424.shtml)
 
++ [外交部：日本“新型军国主义”成势为患构成现实的威胁](https://news.cctv.com/2026/04/24/ARTIcJXoFzDvpj3A2j5n7rv2260424.shtml)
+
