@@ -159,3 +159,7 @@
 
 + [伊朗宣布将于29日举行展现国家力量的大游行](https://news.cctv.com/2026/04/22/ARTIn6AOV3JsVSnS6VWc8Wut260422.shtml)
 
++ [美防长：美对伊朗港口封锁将“视需要”持续下去](https://news.cctv.com/2026/04/25/ARTIycxeipjF9bu2egIuHnL9260425.shtml)
+
++ [大熊猫“平平”和“福双”将赴美开启10年旅居生活](https://news.cctv.com/2026/04/25/ARTIkbKNaL5xhyK0WEEmHUse260424.shtml)
+

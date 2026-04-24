@@ -25,3 +25,21 @@
 
 + [王朝网首款 D 级旗舰 SUV：比亚迪大唐 EV 开启预售，25-32 万元](https://m.ithome.com/html/943058.htm)
 
++ [去掉机顶盒！我国一体化电视全国推广正式启动](https://m.ithome.com/html/942695.htm)
+
++ [爱奇艺回应剧集暂停页广告“不当内容争议”：已第一时间下线处理，后续将加强审核机制](https://m.ithome.com/html/942813.htm)
+
++ [苹果 iPhone 18 Pro Max 金属机模曝光](https://m.ithome.com/html/942523.htm)
+
++ [上市价 7999 元：小米 17 Ultra 手机 16+512G 徕卡版 7099 元 12 期免息](https://m.ithome.com/html/942792.htm)
+
++ [华为乾崑 | 奕境车标发布：两星 + 盾牌设计，首款旗舰 SUV 将标配 ADS 5 及赤兔平台](https://m.ithome.com/html/942828.htm)
+
++ [老用户速薅：华为鸿蒙有礼五一特别版上线，HarmonyOS 6.0.0.125 版本手机签到领随机现金红包](https://m.ithome.com/html/942525.htm)
+
++ [苹果 CEO 交接图细节：库克爱穿耐克鞋，特努斯穿乐福鞋求舒适](https://m.ithome.com/html/942546.htm)
+
++ [敲定！全新一代红旗 H9 汽车官宣搭载华为乾崑智驾 ADS 5](https://m.ithome.com/html/942819.htm)
+
++ [华为再发自研系统：乾崑 OS 发布，将支撑自动驾驶三大关键技术](https://m.ithome.com/html/942788.htm)
+
