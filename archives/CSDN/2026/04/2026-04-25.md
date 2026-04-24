@@ -121,3 +121,7 @@
 
 + [【兆易创新GD32VW553开发板试用】 BSP 从 GitHub 下载与编译指南](https://blog.csdn.net/bit_mike/article/details/160417230)
 
++ [大模型应用上线避坑清单：流式输出、超时重试、Prompt 注入防护，10 个生产必做项(6-10)](https://blog.csdn.net/qq_73472828/article/details/160423876)
+
++ [AI 赋能微服务工程化：Surging Engine-CLI 的插件化 Agent 架构革新](https://blog.csdn.net/kfashfasf/article/details/160435737)
+
