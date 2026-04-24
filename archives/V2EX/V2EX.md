@@ -31,3 +31,15 @@
 
 + [我觉得比这个什么问界趴窝更奇葩的是这个豆包 AI，看完雷军得被当场气晕](https://www.v2ex.com/t/1207916)
 
++ [请教巨佬：现在 [4 月 23 日] 这个时间点值得买 iphone17 吗？](https://www.v2ex.com/t/1208051)
+
++ [不仅有 Z7 趴窝，原来前天发布会还有雪地白羊 AEB 造假呢...](https://www.v2ex.com/t/1208157)
+
++ [一个英语学习 APP [iOS] ，送 50 个终身会员](https://www.v2ex.com/t/1208178)
+
++ [大家都是在什么设备上玩 openclaw 以及 hermes 的呀？](https://www.v2ex.com/t/1207994)
+
++ [昨天开始广东深圳地区是不是墙变高了](https://www.v2ex.com/t/1208168)
+
++ [天下苦 Claude 久矣， GPT 就出招了， 5.5 目测下限是 opus 4.6](https://www.v2ex.com/t/1208148)
+

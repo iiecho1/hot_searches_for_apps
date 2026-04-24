@@ -167,3 +167,15 @@
 
 + [特朗普称黎以停火将延长三周](https://news.cctv.com/2026/04/24/ARTIdtXY86y6IDB4HQGubBMo260424.shtml)
 
++ [中国驻泰国大使馆提醒中国公民谨防被诱骗经泰国前往泰缅边境](https://news.cctv.com/2026/04/24/ARTIHcvCOrJsaAJtAjIzydkb260424.shtml)
+
++ [美国俄克拉何马州北部遭龙卷风袭击 至少10人受伤](https://news.cctv.com/2026/04/24/ARTIbSOMvA8ZQJQQ0tlCPBom260424.shtml)
+
++ [美官员称伊朗本周已在霍尔木兹海峡布设更多水雷](https://news.cctv.com/2026/04/24/ARTIeTWlrDDyhMVIcJhv1LAp260424.shtml)
+
++ [日本岩手县山火过火面积超1100公顷](https://news.cctv.com/2026/04/24/ARTIF6dhO7HkmkhXoUMpePrr260424.shtml)
+
++ [韩国检方就朝鲜无人机案要求判处尹锡悦30年有期徒刑](https://news.cctv.com/2026/04/24/ARTIjNGk2E5sMIOiNul27wOb260424.shtml)
+
++ [塞内加尔收回美国能源公司天然气田开发权](https://news.cctv.com/2026/04/24/ARTINCq3XBIxkK3aIM18OymW260424.shtml)
+

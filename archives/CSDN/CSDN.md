@@ -135,3 +135,19 @@
 
 + [盟接之桥®制造业EDI软件：专注制造，为制造业服务，让全球供应链协同更有底气](https://blog.csdn.net/mjarqa/article/details/160426693)
 
++ [RabbitMQ - 在微服务架构中的落地：消息推送 / 解耦 / 削峰填谷](https://blog.csdn.net/qq_41187124/article/details/157580362)
+
++ [pytorch与视觉检测](https://blog.csdn.net/a72024791/article/details/160316345)
+
++ [OpenClaw 源码解读：从「只会聊天」到「真正干活」的 AI 框架是怎么炼成的](https://blog.csdn.net/qq_32682301/article/details/160453668)
+
++ [从驱动到架构：嵌入式C++工程化落地指南](https://blog.csdn.net/CC1991_/article/details/160385032)
+
++ [2026年GPT-Image-2完整接入教程：中文渲染99%+DALL-E退役迁移指南](https://blog.csdn.net/2601_95768680/article/details/160447986)
+
++ [从当代宇宙学观测悖论，看自指宇宙学与世毫九理论的必要性](https://blog.csdn.net/weixin_50059478/article/details/160454499)
+
++ [SpringBoot前后端分离框架中，在请求头加入签名](https://blog.csdn.net/p358278505/article/details/160375590)
+
++ [【兆易创新GD32VW553开发板试用】 BSP 从 GitHub 下载与编译指南](https://blog.csdn.net/bit_mike/article/details/160417230)
+
