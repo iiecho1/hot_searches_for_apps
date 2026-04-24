@@ -43,3 +43,23 @@
 
 + [徐洁云回应网传“Tim Cook 将出任小米汽车 CEO”：乱 P 图不可取，可不兴这么乱开玩笑](https://m.ithome.com/html/942159.htm)
 
++ [迈入百万上下文普惠时代：DeepSeek-V4 模型预览版正式上线并同步开源](https://m.ithome.com/html/942955.htm)
+
++ [爱奇艺回应剧集暂停页广告“不当内容争议”：已第一时间下线处理，后续将加强审核机制](https://m.ithome.com/html/942813.htm)
+
++ [上市价 7999 元：小米 17 Ultra 手机 16+512G 徕卡版 7099 元 12 期免息](https://m.ithome.com/html/942792.htm)
+
++ [华为乾崑 | 奕境车标发布：两星 + 盾牌设计，首款旗舰 SUV 将标配 ADS 5 及赤兔平台](https://m.ithome.com/html/942828.htm)
+
++ [老用户速薅：华为鸿蒙有礼五一特别版上线，HarmonyOS 6.0.0.125 版本手机签到领随机现金红包](https://m.ithome.com/html/942525.htm)
+
++ [苹果 CEO 交接图细节：库克爱穿耐克鞋，特努斯穿乐福鞋求舒适](https://m.ithome.com/html/942546.htm)
+
++ [超千匹马力、300km/h 极速，雷军宣布小米 YU7 GT 新车 5 月底见](https://m.ithome.com/html/942864.htm)
+
++ [OpenAI 最智能 AI 模型：GPT-5.5 登场，Token 成本降至 1/35、每兆瓦输出提升 50 倍](https://m.ithome.com/html/942841.htm)
+
++ [敲定！全新一代红旗 H9 汽车官宣搭载华为乾崑智驾 ADS 5](https://m.ithome.com/html/942819.htm)
+
++ [华为再发自研系统：乾崑 OS 发布，将支撑自动驾驶三大关键技术](https://m.ithome.com/html/942788.htm)
+

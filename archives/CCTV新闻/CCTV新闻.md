@@ -189,3 +189,7 @@
 
 + [日本公布F2战斗机坠毁原因：发动机长期未适当维护](https://military.cctv.com/2026/04/24/ARTIh4HzKXXYtIgRYVg8oWvz260424.shtml)
 
++ [世界气象组织：气候变化与空气污染交织加剧环境风险，亟需加快协同治理](https://news.cctv.com/2026/04/24/ARTIx2DZ0AKXqTMXISYLK25W260424.shtml)
+
++ [乌称敖德萨市遭袭 已致多人死伤](https://news.cctv.com/2026/04/24/ARTIgIhCUFdNOJ4LEb0Wsm51260424.shtml)
+

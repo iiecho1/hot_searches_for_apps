@@ -51,3 +51,7 @@
 
 + [方程豹出轿跑了，直面小米与尚界](https://www.v2ex.com/t/1208173)
 
++ [你每天用的最多的 app 是啥？](https://www.v2ex.com/t/1208192)
+
++ [Vibe coding 有什么意义？](https://www.v2ex.com/t/1208240)
+

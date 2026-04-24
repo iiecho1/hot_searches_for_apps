@@ -163,3 +163,9 @@
 
 + [工作流（4）——分布式与工作流](https://blog.csdn.net/mdwsmg/article/details/160452009)
 
++ [Codex调用GPT-5.5模型的解决方案](https://blog.csdn.net/weixin_43178406/article/details/160473897)
+
++ [SpringBoot+LangChain4j+Ollama+RAG(检索增强生成)实现私有文档向量化检索回答](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/160443735)
+
++ [Prometheus监控盲区:Pushgateway如何收拢离线任务指标](https://blog.csdn.net/2302_79177254/article/details/160475239)
+
