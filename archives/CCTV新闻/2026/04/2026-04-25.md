@@ -165,3 +165,11 @@
 
 + [美司法部撤销对美联储及其主席鲍威尔的刑事调查](https://news.cctv.com/2026/04/25/ARTIeWeBD7EK2jA0KfMtG5V0260425.shtml)
 
++ [联合国欢迎黎以停火延长三周 敦促各方全面遵守停火安排](https://news.cctv.com/2026/04/25/ARTIHBrUg3Lt59LlgVAtGQlK260425.shtml)
+
++ [伊朗方面表示阿拉格齐暂无与美方会谈日程](https://news.cctv.com/2026/04/25/ARTIQbhQcdriTcrbmpQkA3WZ260425.shtml)
+
++ [欧盟航空安全局将中东冲突空域飞行警告延长至5月1日](https://news.cctv.com/2026/04/25/ARTIRsnZmYdGDe83a7T1Y7ve260425.shtml)
+
++ [美伊冲突延宕 欧盟峰会能否破解安全与能源双重困局？](https://news.cctv.com/2026/04/25/ARTIpd6wUYoBezrQq1DcuBHO260425.shtml)
+
