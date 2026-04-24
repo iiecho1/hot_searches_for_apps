@@ -129,3 +129,5 @@
 
 + [网络安全 | 深度解析 F5 BIG-IP Advanced WAF：Bot 防护全攻略](https://blog.csdn.net/Andya_net/article/details/160392811)
 
++ [OpenClaw（养龙虾） +关于Hadoop hive的Skills（Cloudera CDH、CDP）](https://blog.csdn.net/TT1h2bxZf/article/details/160417397)
+
