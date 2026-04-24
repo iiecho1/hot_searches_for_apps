@@ -129,3 +129,9 @@
 
 + [SpringBoot 3\.x实战：微服务架构下的接口设计与安全防护](https://blog.csdn.net/weixin_44096133/article/details/160388724)
 
++ [OpenClaw 人格工程实战：从默认模板到专属 AI 助手的 7 步调教法](https://blog.csdn.net/IRpickstars/article/details/160451678)
+
++ [HDF5: 大数据的 “超级容器“](https://blog.csdn.net/haokan123456789/article/details/160450849)
+
++ [盟接之桥®制造业EDI软件：专注制造，为制造业服务，让全球供应链协同更有底气](https://blog.csdn.net/mjarqa/article/details/160426693)
+
