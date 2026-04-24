@@ -169,3 +169,9 @@
 
 + [Prometheus监控盲区:Pushgateway如何收拢离线任务指标](https://blog.csdn.net/2302_79177254/article/details/160475239)
 
++ [如何设计一个灵活、高效、安全的 AI 工具系统](https://blog.csdn.net/2302_80067378/article/details/160439287)
+
++ [【花雕学编程】Arduino BLDC 之全向机器人MRAC融合控制（四轮差速）](https://blog.csdn.net/weixin_41659040/article/details/160428847)
+
++ [鸿蒙游戏如何设计可扩展架构？](https://blog.csdn.net/qq_36863796/article/details/160403924)
+

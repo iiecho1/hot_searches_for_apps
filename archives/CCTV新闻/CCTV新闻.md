@@ -193,3 +193,5 @@
 
 + [乌称敖德萨市遭袭 已致多人死伤](https://news.cctv.com/2026/04/24/ARTIgIhCUFdNOJ4LEb0Wsm51260424.shtml)
 
++ [伊朗强调各级官员之间保持“牢不可破”的团结](https://news.cctv.com/2026/04/24/ARTIfWBBiHJeNk35M2KdcXe9260424.shtml)
+
