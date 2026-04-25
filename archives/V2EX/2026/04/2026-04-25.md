@@ -25,3 +25,19 @@
 
 + [时光荏苒，四年了自己一点长进都没有。大家点进来看看我这个笨蛋](https://www.v2ex.com/t/1208262)
 
++ [我做了个工具让 8GB 显卡跑 30B 模型从 3 tok/s 提到 21 tok/s，记录一下技术发现](https://www.v2ex.com/t/1208365)
+
++ [GPT-5.5 / gpt-image-2 API 已上线， 0.06$/张，注册留 ID 送 5 美金额度](https://www.v2ex.com/t/1208351)
+
++ [我是不是意味着职业生涯到期了？](https://www.v2ex.com/t/1208339)
+
++ [占比大幅提升！谷歌：公司内部 75%的新代码已由 AI 生成](https://www.v2ex.com/t/1208284)
+
++ [2026 年，选择 Podman 还是 Docker](https://www.v2ex.com/t/1208359)
+
++ [# 抽奖 | 懒猫小龙猫 AI Agent 抽奖活动（第二轮）](https://www.v2ex.com/t/1208385)
+
++ [v 友们每个月要为 ai 上供多少呢？](https://www.v2ex.com/t/1208303)
+
++ [大 F 彻底沦为历史了，公司宣布停业。](https://www.v2ex.com/t/1208416)
+

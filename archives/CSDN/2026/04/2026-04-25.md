@@ -135,3 +135,19 @@
 
 + [2026年4月24日人工智能早间新闻](https://blog.csdn.net/fudaihb/article/details/160458738)
 
++ [【HID】规范精讲[4]: 蓝牙HID传输机制——无线数据的传递规则与底层逻辑](https://blog.csdn.net/weixin_37800531/article/details/160347828)
+
++ [Elasticsearch 高级查询：全文检索与结构化数据查询的结合使用](https://blog.csdn.net/qq_41840843/article/details/160473923)
+
++ [【黑马点评日记】高并发秒杀：库存超卖与锁机制解析](https://blog.csdn.net/chen_si_shang_/article/details/160449979)
+
++ [OpenClaw实操指南26｜联网搜索实战：用tavily-search让AI拒绝“胡说八道“，拥有实时信息](https://blog.csdn.net/GODYAD/article/details/160468661)
+
++ [2026 年 4 月 24 日 AI 行业大事件：模型巅峰对决、欧盟监管落地、国产开源革命同日上演](https://blog.csdn.net/2401_84289488/article/details/160482421)
+
++ [Spark SQL 详细讲义](https://blog.csdn.net/jerrykorea/article/details/160474987)
+
++ [【搜索引擎】Elasticsearch（六）：向量搜索深度解析：从参数原理到混合查询实战](https://blog.csdn.net/weixin_48007632/article/details/160481703)
+
++ [VS Code 扩展开发：集成 GitHub Copilot 的完整指南](https://blog.csdn.net/qq_16672095/article/details/160460068)
+

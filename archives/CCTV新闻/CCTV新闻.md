@@ -175,3 +175,17 @@
 
 + [美军称拦截一艘驶向伊朗港口的伊朗船只](https://news.cctv.com/2026/04/25/ARTINLhYAAiCcnhM4iMNshfP260425.shtml)
 
++ [柬埔寨外交部：对泰国退出与柬的海域备忘录表示遗憾](https://news.cctv.com/2026/04/25/ARTIpWQOj3EBclDf2Mbo57Hk260425.shtml)
+
++ [伊朗国防部说伊朗已生产逾千种武器装备](https://news.cctv.com/2026/04/25/ARTIFggt13xHTQ2QvhTe6HQd260425.shtml)
+
++ [哥伦比亚和委内瑞拉就合作打击边境犯罪达成协议](https://news.cctv.com/2026/04/25/ARTIc3DKn2N0WIYLFmy4BF8v260425.shtml)
+
++ [中国驻俄罗斯大使馆提醒留学人员防范换汇诈骗](https://news.cctv.com/2026/04/25/ARTIHmULMspCPTOblYryUO4w260425.shtml)
+
++ [马克龙：欧洲新战机项目没“泡汤” 法德将继续合作](https://news.cctv.com/2026/04/25/ARTI6PAieGsyPMvsOenDsYVo260425.shtml)
+
++ [近期遇袭身亡的联黎部队维和人员已有6人](https://news.cctv.com/2026/04/25/ARTI4Dp5j90OkXGfFa7mlGhA260425.shtml)
+
++ [巴西总统卢拉接受手术后出院](https://news.cctv.com/2026/04/25/ARTIwlVHfWqIg9QpXweEQSpf260425.shtml)
+
