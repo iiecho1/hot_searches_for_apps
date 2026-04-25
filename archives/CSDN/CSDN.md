@@ -151,3 +151,23 @@
 
 + [VS Code 扩展开发：集成 GitHub Copilot 的完整指南](https://blog.csdn.net/qq_16672095/article/details/160460068)
 
++ [高中数学竞赛学的内容相当于大学数学专业大几的水平](https://blog.csdn.net/dllglvzhenfeng/article/details/160494635)
+
++ [【Redis实战篇】秒杀系统：一人一单高并发实战（synchronized锁实战与事务失效问题）](https://blog.csdn.net/chen_si_shang_/article/details/160480137)
+
++ [理解C++异常机制：栈展开、异常传播与异常安全](https://blog.csdn.net/2302_77620024/article/details/160477343)
+
++ [DeepSeek V4来了：百万字记忆，十分之一的价格，和一群等了太久的人](https://blog.csdn.net/2302_78391795/article/details/160481969)
+
++ [Android 连接键盘时，无法唤出虚拟键盘，系统代码分析解决](https://blog.csdn.net/wenzhi20102321/article/details/160498863)
+
++ [GPT Image 2全解析+实战示例](https://blog.csdn.net/weixin_49880752/article/details/160428409)
+
++ [YOLOv5至YOLOv12升级：无人机目标检测系统的设计与实现（完整代码+界面+数据集项目）](https://blog.csdn.net/qq_32892383/article/details/160314172)
+
++ [SparkPySetup：基于Python的Windows 11 PySpark环境自动化搭建工具](https://blog.csdn.net/weixin_30777913/article/details/160448397)
+
++ [OpenAI GPT Image 2 教程：API Key 获取、参数说明与 Python/Node.js 示例](https://blog.csdn.net/iduiui997/article/details/160480113)
+
++ [完全开源-支持二开-可做毕业论文-家政服务预约小程序](https://blog.csdn.net/IamBird/article/details/160484092)
+
