@@ -139,3 +139,7 @@
 
 + [青春该有的样子](https://m.acfun.cn/v/?ac=48469903)
 
++ [【晴光春序】【绝望女神/翻唱】【magnet】](https://m.acfun.cn/v/?ac=48471313)
+
++ [【千璃Senri】For フルーツバスケット/致水果篮子](https://m.acfun.cn/v/?ac=48470029)
+

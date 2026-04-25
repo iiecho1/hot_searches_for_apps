@@ -235,3 +235,5 @@
 
 + [伊朗议员：伊方已形成管理霍尔木兹海峡的综合方案](https://news.cctv.com/2026/04/25/ARTIDCmC2ksu23RXXYx1P49C260425.shtml)
 
++ [伊朗代表团已离开巴基斯坦](https://news.cctv.com/2026/04/25/ARTI9UYG8M43uSVgbFlbeAN4260425.shtml)
+

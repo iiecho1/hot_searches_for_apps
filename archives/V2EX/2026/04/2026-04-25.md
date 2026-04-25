@@ -73,3 +73,7 @@
 
 + [推荐个 mac 的显示器吧？ 618 想搞一个](https://www.v2ex.com/t/1208488)
 
++ [支付宝的天塌了，新出的《金融产品网络营销管理办法》基本完全干死了余额宝和花呗](https://www.v2ex.com/t/1208526)
+
++ [OpenCode GO 已上线 deepseek v4](https://www.v2ex.com/t/1208454)
+
