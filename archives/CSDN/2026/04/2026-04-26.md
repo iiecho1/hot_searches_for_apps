@@ -101,3 +101,15 @@
 
 + [VS Code 扩展开发：集成 GitHub Copilot 的完整指南](https://blog.csdn.net/qq_16672095/article/details/160460068)
 
++ [Elasticsearch 生产级核心原理：Shard Allocation Awareness 工作机制与实战配置详解](https://blog.csdn.net/qq_41840843/article/details/160444927)
+
++ [最强生图模型GPT-image-2，一手深度测评，附教程](https://blog.csdn.net/2401_82648291/article/details/160477579)
+
++ [【Linux】搭建高可用 Keepalived+Nginx 集群](https://blog.csdn.net/qq_41187124/article/details/157506493)
+
++ [AI修炼记1-Tool Calling](https://blog.csdn.net/2502_91743997/article/details/160349089)
+
++ [GPT-5.5完全重训练模型深度解析：Terminal-Bench 82.7%、SWE-bench 74.4%是怎么做到的？（附国内使用参考）](https://blog.csdn.net/nmdbbzcl/article/details/160472870)
+
++ [迈入Redis：持久化](https://blog.csdn.net/2401_86275172/article/details/160059836)
+
