@@ -207,3 +207,9 @@
 
 + [2026年东北三省数学建模联赛赛题浅析-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/160495509)
 
++ [Python 鸭子类型：优雅的多态哲学，让代码更自由](https://blog.csdn.net/2503_92624912/article/details/160498689)
+
++ [MyBatis轻松接入金仓数据库：从零搭建到生产实践](https://blog.csdn.net/weixin_44976692/article/details/160464245)
+
++ [最强生图模型GPT-image-2，一手深度测评，附教程 GPT-image-2模型国内免费使用教程](https://blog.csdn.net/wanmeijuhao/article/details/160477093)
+
