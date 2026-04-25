@@ -143,3 +143,5 @@
 
 + [【2026年东三省数学建模A中国人口区域分布与发展支持政策的多样性】完整思路+完整论文](https://blog.csdn.net/maligebilaowang/article/details/160507485)
 
++ [OpenClaw智能体的涌现与异化——复杂系统演化、知识权力重构与文明纪元跃迁（第五篇）](https://blog.csdn.net/jinanwuhuaguo/article/details/160472629)
+

@@ -161,3 +161,9 @@
 
 + [中国代表强调应避免中东战火冲击叙利亚安全稳定](https://news.cctv.com/2026/04/23/ARTI27CMFPDs5n1bLVOYvmt9260423.shtml)
 
++ [美国芝加哥一医院发生枪击 致两名警察一死一重伤](https://news.cctv.com/2026/04/26/ARTIdp7DFXrAPimwPOKT8k9p260426.shtml)
+
++ [特朗普取消美方代表赴巴基斯坦行程](https://news.cctv.com/2026/04/26/ARTIrHVVvVfsKluF0PFJWknM260426.shtml)
+
++ [伊拉克库区在美以伊冲突期间遭逾800次袭击](https://news.cctv.com/2026/04/26/ARTIa9ZVuTj9JUstmCGWc87F260426.shtml)
+
