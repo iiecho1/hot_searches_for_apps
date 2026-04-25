@@ -209,3 +209,13 @@
 
 + [刚果（布）公布新政府成员名单](https://news.cctv.com/2026/04/25/ARTIKxT5K0axiQULm6zv1sdH260425.shtml)
 
++ [伊朗国防部发言人：敌人试图体面逃离战争泥潭](https://news.cctv.com/2026/04/25/ARTIvIBzry6hXT6oR5IE3EK0260425.shtml)
+
++ [乌克兰与阿塞拜疆签署六项协议 重点聚焦安全领域](https://news.cctv.com/2026/04/25/ARTIKlB2I4n3BitPugLXtaY3260425.shtml)
+
++ [伊拉克库区政府：美以伊冲突期间库区遭袭八百余次 百余人死伤](https://news.cctv.com/2026/04/25/ARTIwfad89wbHrMWfKoxurbT260425.shtml)
+
++ [日本上演双标大戏：对和平抗议者重拳出击，对军国主义暴徒温柔以待](https://news.cctv.com/2026/04/25/ARTI1qlcG09gEYWYXzd7HasK260425.shtml)
+
++ [伊朗处决一名受以色列指使的特工](https://news.cctv.com/2026/04/25/ARTIWOJ37zRsOHYrK9QscSck260425.shtml)
+

@@ -59,3 +59,7 @@
 
 + [感觉 iOS 现在 Apple Intelligence 真的挺绷不住的。。。](https://www.v2ex.com/t/1208382)
 
++ [你们一个月上班要用多少 token?](https://www.v2ex.com/t/1208477)
+
++ [codex 使用的订阅版，选择 gpt5.5，但是没有 1m 上下文？](https://www.v2ex.com/t/1208425)
+
