@@ -131,3 +131,7 @@
 
 + [OpenClaw（养龙虾） +关于Hadoop hive的Skills（Cloudera CDH、CDP）](https://blog.csdn.net/TT1h2bxZf/article/details/160417397)
 
++ [【AI Agent | 第七篇】Skill的使用：将经验沉淀成可复用工作流](https://blog.csdn.net/h52412224/article/details/160472880)
+
++ [2026年4月24日人工智能早间新闻](https://blog.csdn.net/fudaihb/article/details/160458738)
+
