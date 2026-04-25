@@ -187,3 +187,15 @@
 
 + [MySQL表的约束(二)](https://blog.csdn.net/2503_91101239/article/details/160411212)
 
++ [FreeRTOS 控制任务设计 (2)--- 运动学逆解 + PID 闭环 + PWM 驱动全流程实现](https://blog.csdn.net/weixin_61186812/article/details/160217936)
+
++ [GPT Image 2 提示词指南](https://blog.csdn.net/shebao3333/article/details/160423741)
+
++ [他还在让我转钱，但Rokid已经判了高风险](https://blog.csdn.net/2401_83830408/article/details/160481209)
+
++ [【云藏山鹰代数信息系统】云藏山鹰圆上的意气即是美，美即是意气二元关系定向集和集合映射名词解释之效用](https://blog.csdn.net/yudst/article/details/160306010)
+
++ [VR安全体验馆设备选型：从工地安全到电力安全的沉浸式测评](https://blog.csdn.net/Liuruping04/article/details/160473327)
+
++ [ReAct Agent是什么？与传统LLM/Chatbot的本质区别（原理篇）](https://blog.csdn.net/fenglingguitar/article/details/160484069)
+

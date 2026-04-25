@@ -25,3 +25,17 @@
 
 + [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
 
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+
++ [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+
++ [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+
++ [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
+
++ [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp)
+
++ [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+

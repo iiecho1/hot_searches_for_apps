@@ -63,3 +63,5 @@
 
 + [codex 使用的订阅版，选择 gpt5.5，但是没有 1m 上下文？](https://www.v2ex.com/t/1208425)
 
++ [求个 OpenClash 详细设置教程](https://www.v2ex.com/t/1208450)
+
