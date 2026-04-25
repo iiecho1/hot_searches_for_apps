@@ -201,3 +201,11 @@
 
 + [伊朗议长称以色列防长“胡言乱语”](https://news.cctv.com/2026/04/25/ARTI4JQiHHO8EtFiylovGhUz260425.shtml)
 
++ [美伊谈判前景不明 多国呼吁政治解决冲突](https://news.cctv.com/2026/04/25/ARTIflwdFLlve5RLf56rJDjD260425.shtml)
+
++ [马里军方称武装恐怖组织袭击该国多个地区](https://news.cctv.com/2026/04/25/ARTIBBMHmersKVcjezlYIYa5260425.shtml)
+
++ [中韩联合制作歌剧《弄臣》在韩首演](https://news.cctv.com/2026/04/25/ARTI6sn5DAn1m84ZAt0NIbBg260425.shtml)
+
++ [刚果（布）公布新政府成员名单](https://news.cctv.com/2026/04/25/ARTIKxT5K0axiQULm6zv1sdH260425.shtml)
+

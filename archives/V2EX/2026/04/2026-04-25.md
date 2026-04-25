@@ -55,3 +55,7 @@
 
 + [大项目中大家真的会用 Spec-Driven Development 吗？](https://www.v2ex.com/t/1208418)
 
++ [XChat 正式上架 App Store 了](https://www.v2ex.com/t/1208417)
+
++ [感觉 iOS 现在 Apple Intelligence 真的挺绷不住的。。。](https://www.v2ex.com/t/1208382)
+
