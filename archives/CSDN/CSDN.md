@@ -139,3 +139,7 @@
 
 + [《软件工程之美》读书笔记](https://blog.csdn.net/2401_82965090/article/details/160509792)
 
++ [零门槛开发 3D 数字人：魔珐星云开放平台接入实战](https://blog.csdn.net/weixin_62765017/article/details/160478163)
+
++ [【2026年东三省数学建模A中国人口区域分布与发展支持政策的多样性】完整思路+完整论文](https://blog.csdn.net/maligebilaowang/article/details/160507485)
+
