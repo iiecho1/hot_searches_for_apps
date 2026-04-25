@@ -197,3 +197,7 @@
 
 + [巴基斯坦陆军参谋长与伊朗外长举行会晤](https://news.cctv.com/2026/04/25/ARTICH6Zq96qy2h82fFK8C1k260425.shtml)
 
++ [英国海事贸易组织：一艘船在索马里附近海域遭劫持](https://news.cctv.com/2026/04/25/ARTIgKdNpPnrvnAdQAe8FjmU260425.shtml)
+
++ [伊朗议长称以色列防长“胡言乱语”](https://news.cctv.com/2026/04/25/ARTI4JQiHHO8EtFiylovGhUz260425.shtml)
+

@@ -49,3 +49,9 @@
 
 + [想使用 ARM 软路由，套路由器当 AP，已有 NAS，不跑重服务，大家都用的什么机器？](https://www.v2ex.com/t/1208358)
 
++ [感觉机械键盘拆封后就要开始计算日历寿命了(触点氧化)。](https://www.v2ex.com/t/1208451)
+
++ [谁来预测下 DeepSeek-V4 发布对美股冲击会有多大](https://www.v2ex.com/t/1208350)
+
++ [大项目中大家真的会用 Spec-Driven Development 吗？](https://www.v2ex.com/t/1208418)
+

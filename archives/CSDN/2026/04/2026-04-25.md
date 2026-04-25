@@ -179,3 +179,7 @@
 
 + [大学生无人机竞赛硬件怎么选？四旋翼飞控、机架、电机、电池、机载电脑一文讲透](https://blog.csdn.net/2503_94196214/article/details/160499984)
 
++ [2026华中杯A题完美解决方案：基于ALNS与时空网络的城市绿色物流调度模型（2026年第十八届华中杯大学生数学建模挑战赛，A题完整论文+代码结果+思路解析+全套资源）](https://blog.csdn.net/qq_40379132/article/details/160452542)
+
++ [04月24日AI每日参考：GPT-5.5正式发布，DeepSeek获腾讯阿里争相入局](https://blog.csdn.net/GODYAD/article/details/160468182)
+
