@@ -219,3 +219,5 @@
 
 + [伊朗处决一名受以色列指使的特工](https://news.cctv.com/2026/04/25/ARTIWOJ37zRsOHYrK9QscSck260425.shtml)
 
++ [中国驻马里大使馆发布关于马里突发安全事件的领事提醒](https://news.cctv.com/2026/04/25/ARTIIFYwMbEmZALbjXD9HnKD260425.shtml)
+

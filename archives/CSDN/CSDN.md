@@ -199,3 +199,7 @@
 
 + [ReAct Agent是什么？与传统LLM/Chatbot的本质区别（原理篇）](https://blog.csdn.net/fenglingguitar/article/details/160484069)
 
++ [时序数据库选型指南-IoTDB](https://blog.csdn.net/qyj19920704/article/details/160482532)
+
++ [HarmonyOS 6（API 23）实战：基于 Face AR 情绪识别与 Body AR 手势控制的“情绪感知智能工作台“](https://blog.csdn.net/u014727709/article/details/147283885)
+

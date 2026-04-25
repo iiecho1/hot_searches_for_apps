@@ -65,3 +65,5 @@
 
 + [求个 OpenClash 详细设置教程](https://www.v2ex.com/t/1208450)
 
++ [27 岁体会到了送别下一代](https://www.v2ex.com/t/1208483)
+
