@@ -113,3 +113,27 @@
 
 + [迈入Redis：持久化](https://blog.csdn.net/2401_86275172/article/details/160059836)
 
++ [智读致用｜《一人企业》4｜扩张不是战略，活下来才是](https://blog.csdn.net/GODYAD/article/details/160495572)
+
++ [【Redis实战篇】秒杀系统：一人一单高并发实战（synchronized锁实战与事务失效问题）](https://blog.csdn.net/chen_si_shang_/article/details/160480137)
+
++ [主流在线地图 AOI 数据对比分析 —— 以景区场景为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/160504201)
+
++ [LTX-Video 2.3 实战：用图片生成视频，消费级显卡也能跑的开源 I2V 模型（GPT Image 2）](https://blog.csdn.net/qq_73472828/article/details/160503407)
+
++ [WSL2 极速部署 Ubuntu 26.04 完全指南](https://blog.csdn.net/honestqiao/article/details/160448289)
+
++ [雅典娜AGI架构技术白皮书（RI自指架构体系）](https://blog.csdn.net/weixin_50059478/article/details/160490230)
+
++ [【Unity实战篇】| YooAsset + UOS CDN 云服务资源部署，实现正式热更流程](https://blog.csdn.net/zhangay1998/article/details/159904016)
+
++ [LangChain -AI编程框架（学习更新中...](https://blog.csdn.net/2302_81153516/article/details/160449551)
+
++ [SparkPySetup：基于Python的Windows 11 PySpark环境自动化搭建工具](https://blog.csdn.net/weixin_30777913/article/details/160448397)
+
++ [他还在让我转钱，但Rokid已经判了高风险](https://blog.csdn.net/2401_83830408/article/details/160481209)
+
++ [对话的边界：HTTP 的克制，SSE 的流淌，WebSocket 的自由](https://blog.csdn.net/2503_93374004/article/details/160470901)
+
++ [项目题别流水账：用一条叙事线把「你」讲明白](https://blog.csdn.net/g984160547/article/details/160471553)
+
