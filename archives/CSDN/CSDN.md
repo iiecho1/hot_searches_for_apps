@@ -171,3 +171,11 @@
 
 + [完全开源-支持二开-可做毕业论文-家政服务预约小程序](https://blog.csdn.net/IamBird/article/details/160484092)
 
++ [【HarmonyOS 6.0】AVCodec Kit：OH_AVDataSource回调中传递用户自定义数据的深度解析](https://blog.csdn.net/weixin_74809706/article/details/160179684)
+
++ [鸿蒙游戏：设备不再是边界](https://blog.csdn.net/qq_36863796/article/details/160476629)
+
++ [数据库选型指南：架构演进的技术实践](https://blog.csdn.net/user340/article/details/160499373)
+
++ [大学生无人机竞赛硬件怎么选？四旋翼飞控、机架、电机、电池、机载电脑一文讲透](https://blog.csdn.net/2503_94196214/article/details/160499984)
+

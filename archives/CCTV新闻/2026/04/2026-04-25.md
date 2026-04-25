@@ -189,3 +189,11 @@
 
 + [巴西总统卢拉接受手术后出院](https://news.cctv.com/2026/04/25/ARTIwlVHfWqIg9QpXweEQSpf260425.shtml)
 
++ [土耳其阿勒山上空出现飞碟云](https://photo.cctv.com/2026/04/25/PHOAsw4ThghknhDJTCBInbtQ260425.shtml)
+
++ [德国防长说德国海军部队将被部署到地中海](https://news.cctv.com/2026/04/25/ARTIpmVZ9BtzhexaqFwUg8z4260425.shtml)
+
++ [泽连斯基：俄新一轮袭击已造成全乌4死超30伤](https://news.cctv.com/2026/04/25/ARTIoPYaonURe0p3T8vxflPp260425.shtml)
+
++ [巴基斯坦陆军参谋长与伊朗外长举行会晤](https://news.cctv.com/2026/04/25/ARTICH6Zq96qy2h82fFK8C1k260425.shtml)
+

@@ -43,3 +43,23 @@
 
 + [华为再发自研系统：乾崑 OS 发布，将支撑自动驾驶三大关键技术](https://m.ithome.com/html/942788.htm)
 
++ [小米神秘折叠屏新机现身代码库：搭“玄戒 O3”芯片，有望为 MIX Fold 5](https://m.ithome.com/html/943334.htm)
+
++ [提升 50%，消息称苹果 iPhone 18 标准版配 12GB 内存](https://m.ithome.com/html/943374.htm)
+
++ [消息称“苹果 20 周年版 iPhone”将采用三星四微曲面板，今年下半年国产 TOP5 也将推出等深四曲面新机](https://m.ithome.com/html/943310.htm)
+
++ [苹果 iPhone Ultra 折叠手机 / iPhone 18 Pro Max 机模上手视频曝光](https://m.ithome.com/html/943403.htm)
+
++ [华为云首发适配 DeepSeek-V4，提供免部署、一键调用 API 的 Tokens 服务](https://m.ithome.com/html/943186.htm)
+
++ [未成年退款后又充 5 万再退被拒，游戏客服回应称同一家庭无法进行二次退款申诉](https://m.ithome.com/html/943279.htm)
+
++ [雷军送李想、李斌、何小鹏、王传福 T 恤：听我讲完、一起加电、都是好鹏友、在一起才是中国汽车](https://m.ithome.com/html/943416.htm)
+
++ [消息称荣耀 600 系列国行版发布在即：备案配色有 6 款，工程机测试 8500mAh-9000mAh&#177; 电池](https://m.ithome.com/html/943307.htm)
+
++ [“大 F”键盘终结：FILCO（斐尔可）母公司 Diatech 宣布停业](https://m.ithome.com/html/943372.htm)
+
++ [尚界法务部：北京车展有观众蓄意破坏展车内饰行为，已做好取证](https://m.ithome.com/html/943409.htm)
+
