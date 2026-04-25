@@ -221,3 +221,17 @@
 
 + [中国驻马里大使馆发布关于马里突发安全事件的领事提醒](https://news.cctv.com/2026/04/25/ARTIIFYwMbEmZALbjXD9HnKD260425.shtml)
 
++ [国际海事组织：条件具备时即实施波斯湾被困海员疏散计划](https://news.cctv.com/2026/04/25/ARTIqFESD4oIbQOWJxeQAUdk260425.shtml)
+
++ [伊朗武装部队：美军若继续封锁 必将面临强大回应](https://news.cctv.com/2026/04/25/ARTI7D0yQRweUx3WOGIbCWUn260425.shtml)
+
++ [伊朗总统：希望“历史性挫败”能为霸权主义者敲响警钟](https://news.cctv.com/2026/04/25/ARTIyW20gFqdZAQIYrFIuAW7260425.shtml)
+
++ [印度族群冲突引发枪战致3人死亡](https://news.cctv.com/2026/04/25/ARTI8J5RxHSdja2yRlczVRuB260425.shtml)
+
++ [土耳其外长：考虑参与霍尔木兹海峡排雷行动](https://news.cctv.com/2026/04/25/ARTIS93LHwlg5atho0CdPjds260425.shtml)
+
++ [美国为打击伊朗找理由 法律专家批“毫无说服力”](https://news.cctv.com/2026/04/25/ARTIb3f4ClD0V0Bf2ynGzAZt260425.shtml)
+
++ [伊朗议员：伊方已形成管理霍尔木兹海峡的综合方案](https://news.cctv.com/2026/04/25/ARTIDCmC2ksu23RXXYx1P49C260425.shtml)
+

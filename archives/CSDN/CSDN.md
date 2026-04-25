@@ -203,3 +203,7 @@
 
 + [HarmonyOS 6（API 23）实战：基于 Face AR 情绪识别与 Body AR 手势控制的“情绪感知智能工作台“](https://blog.csdn.net/u014727709/article/details/147283885)
 
++ [04月25日AI每日参考：谷歌豪掷400亿押注Anthropic，DeepSeek V4横空出世](https://blog.csdn.net/GODYAD/article/details/160493060)
+
++ [2026年东北三省数学建模联赛赛题浅析-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/160495509)
+
