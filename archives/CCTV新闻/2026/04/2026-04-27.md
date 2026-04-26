@@ -161,3 +161,5 @@
 
 + [外交部：日本“新型军国主义”成势为患构成现实的威胁](https://news.cctv.com/2026/04/24/ARTIcJXoFzDvpj3A2j5n7rv2260424.shtml)
 
++ [白宫称记者协会晚宴上枪手意图刺杀特朗普](https://news.cctv.com/2026/04/27/ARTIjAYF2Cno1lyZqTlZi2hv260427.shtml)
+
