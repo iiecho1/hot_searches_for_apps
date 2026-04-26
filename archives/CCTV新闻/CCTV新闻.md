@@ -215,3 +215,7 @@
 
 + [俄罗斯向国际空间站发射“进步MS-34”货运飞船](https://news.cctv.com/2026/04/26/ARTIfp49VL52hmcgUZstqU3n260426.shtml)
 
++ [俄紧急情况部表彰98名切尔诺贝利核事故救援人员](https://news.cctv.com/2026/04/26/ARTICiMUUcz1SRatSt5dAonG260426.shtml)
+
++ [北爱尔兰一警察局附近发生爆炸 居民已被疏散](https://news.cctv.com/2026/04/26/ARTIpb0RHu9VdiHI5QtBLCrU260426.shtml)
+

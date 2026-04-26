@@ -39,3 +39,5 @@
 
 + [我用 Vibe Coding 撸了一个离线的自慰/性生活记录工具（送激活码）](https://www.v2ex.com/t/1208587)
 
++ [Mac mini 的话筒，求推荐](https://www.v2ex.com/t/1208608)
+
