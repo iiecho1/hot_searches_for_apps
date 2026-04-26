@@ -151,3 +151,5 @@
 
 + [加壳程序如何安全保留PE文件Overlay数据](https://blog.csdn.net/2301_80906044/article/details/160538135)
 
++ [Docker 部署 Open WebUI + Ollama 完整教程（Windows / Linux 通用）—— 打造自己的本地OpenAI](https://blog.csdn.net/java_logo/article/details/160501594)
+

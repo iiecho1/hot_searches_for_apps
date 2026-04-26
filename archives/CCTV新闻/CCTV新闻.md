@@ -163,3 +163,5 @@
 
 + [白宫称记者协会晚宴上枪手意图刺杀特朗普](https://news.cctv.com/2026/04/27/ARTIjAYF2Cno1lyZqTlZi2hv260427.shtml)
 
++ [黎真主党驳斥以总理言论 称袭击属正当回应](https://news.cctv.com/2026/04/27/ARTIg7nEtBLrAXqM0D8Oc6tP260427.shtml)
+
