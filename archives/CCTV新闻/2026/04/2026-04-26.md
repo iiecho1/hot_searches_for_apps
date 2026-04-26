@@ -199,3 +199,13 @@
 
 + [马里多地遭恐怖袭击 中使馆提醒中国公民暂勿前往该国](https://news.cctv.com/2026/04/26/ARTIIR4Kiewfgq5BarnOj20D260426.shtml)
 
++ [消息人士：白宫记协晚宴安全事件嫌疑人作案目标为美政府官员](https://news.cctv.com/2026/04/26/ARTI7liZA7xxitO3VZaMxToV260426.shtml)
+
++ [知情人士披露白宫记协晚宴枪击事件嫌疑人身份信息](https://news.cctv.com/2026/04/26/ARTIHLw2Ap2km5kmnXAtmMIl260426.shtml)
+
++ [白宫记协晚宴安全事件嫌疑人被控两项罪名 27日将出庭受审](https://news.cctv.com/2026/04/26/ARTI3XjUbBHD9zAuMrtJAGaD260426.shtml)
+
++ [印度新德里一客机起飞时发动机故障起火 6人在紧急疏散中受伤](https://news.cctv.com/2026/04/26/ARTIUZIFmPmcEfm0rzpTSocd260426.shtml)
+
++ [蒙古发生6.0级地震 震源深度15千米](https://news.cctv.com/2026/04/26/ARTI3oHE8AiGGwaplfDyXQOg260426.shtml)
+

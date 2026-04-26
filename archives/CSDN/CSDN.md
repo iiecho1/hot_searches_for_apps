@@ -173,3 +173,9 @@
 
 + [一款基于 .NET 开源、跨平台应用程序自动升级组件](https://blog.csdn.net/igqYBfINS/article/details/160500651)
 
++ [GPT Image 2已封神，一文看懂国内如何使用](https://blog.csdn.net/2601_95710268/article/details/160444848)
+
++ [HTML5标准完全教学手册](https://blog.csdn.net/2401_88537889/article/details/160448791)
+
++ [教育邮箱申请 GitHub 学生包与 Copilot 免费权益全流程指南](https://blog.csdn.net/2503_94196214/article/details/160502112)
+
