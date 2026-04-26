@@ -101,3 +101,15 @@
 
 + [基于ReAct模式的智能体系统示例](https://blog.csdn.net/brucexia/article/details/160509501)
 
++ [大模型微调太贵?一文读懂参数高效微调PEFT:从Prompt Tuning到LoRA](https://blog.csdn.net/2401_87629362/article/details/160509658)
+
++ [理解C++异常机制：栈展开、异常传播与异常安全](https://blog.csdn.net/2302_77620024/article/details/160477343)
+
++ [DolphinDB MQTT数据接入：物联网消息订阅](https://blog.csdn.net/sinat_41617212/article/details/160509937)
+
++ [Lubuntu 26.04移动系统使用配置测试记录与引导修复备注](https://blog.csdn.net/ZhangRelay/article/details/160481681)
+
++ [2026最新GPT-5.5深度评测：Agent架构解析与API选型](https://blog.csdn.net/aidoudoulong/article/details/160476552)
+
++ [Linux 网络套接字编程（五）TCP 回声服务器的实现（单进程(单线程)/多进程/多线程/线程池四个版本）](https://blog.csdn.net/2401_88465894/article/details/160495798)
+
