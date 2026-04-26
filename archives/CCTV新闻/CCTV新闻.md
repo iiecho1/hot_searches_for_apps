@@ -219,3 +219,7 @@
 
 + [北爱尔兰一警察局附近发生爆炸 居民已被疏散](https://news.cctv.com/2026/04/26/ARTIpb0RHu9VdiHI5QtBLCrU260426.shtml)
 
++ [肯尼亚选手萨维1小时59分30秒 打破男子马拉松世界纪录](https://people.cctv.com/2026/04/26/ARTIuwlLaKSzfkdyx5KWNgIu260426.shtml)
+
++ [俄总统新闻秘书：俄罗斯不可能成为欧洲的威胁](https://news.cctv.com/2026/04/26/ARTIiexYLxR2qBp0TRghyjnJ260426.shtml)
+

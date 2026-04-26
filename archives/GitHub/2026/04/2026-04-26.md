@@ -27,3 +27,17 @@
 
 + [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
 
++ [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+
++ [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+
++ [trycua/cua](https://github.com/trycua/cua)
+
++ [gastownhall/beads](https://github.com/gastownhall/beads)
+
++ [curl/curl](https://github.com/curl/curl)
+
++ [home-assistant/core](https://github.com/home-assistant/core)
+
++ [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
