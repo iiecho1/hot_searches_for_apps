@@ -113,3 +113,29 @@
 
 + [Linux 网络套接字编程（五）TCP 回声服务器的实现（单进程(单线程)/多进程/多线程/线程池四个版本）](https://blog.csdn.net/2401_88465894/article/details/160495798)
 
++ [【HarmonyOS 6.0】AVCodec Kit 视频解码器平滑停用机制详解](https://blog.csdn.net/weixin_74809706/article/details/160179847)
+
++ [【LE Audio】BASS精讲[3]: 从服务声明到行为逻辑 解锁广播音频接收核心](https://blog.csdn.net/weixin_37800531/article/details/160347870)
+
++ [HarmonyOS 6（API 23）分布式实战：基于悬浮导航与沉浸光感的“光影协创“跨设备白板系统](https://blog.csdn.net/u014727709/article/details/138854221)
+
++ [《Linux 进程全景图谱：拆解 PCB 档案、fork 分身术、虚拟地址空间与硬件上下文切换》](https://blog.csdn.net/meilindehuzi_a/article/details/160503473)
+
++ [Rust 方法语法：从定义到实践](https://blog.csdn.net/2501_92963994/article/details/160535059)
+
++ [ASM开源库实现函数耗时插桩](https://blog.csdn.net/followYouself/article/details/160512010)
+
++ [Linux 网络套接字编程（四）支持多客户端同时在线、消息能转发给所有人的 UDP 聊天室服务器](https://blog.csdn.net/2401_88465894/article/details/160478783)
+
++ [堡盟Baumer VCX系列工业相机供电与触发：网口(GigE) vs USB3.0](https://blog.csdn.net/xianzuzhicai/article/details/160534755)
+
++ [使用Pycharm实现数据可视化作品代码-Python应用](https://blog.csdn.net/MoreTools/article/details/160483191)
+
++ [【HarmonyOS 6】设置页面 UI 设计](https://blog.csdn.net/2503_94458334/article/details/160535066)
+
++ [UniApp Vue3 数据透传终极指南](https://blog.csdn.net/a731637163/article/details/160479143)
+
++ [GPT-Image-2技术全解析：自回归图像生成的原理与实践指南](https://blog.csdn.net/ygsdayugdyasgdyasg/article/details/160523227)
+
++ [机器人全身控制（WBC）深度技术综述：从经典理论到VLA前沿](https://blog.csdn.net/qq_56908984/article/details/160527925)
+
