@@ -41,3 +41,7 @@
 
 + [Mac mini 的话筒，求推荐](https://www.v2ex.com/t/1208608)
 
++ [飞机上 Starlink 测速](https://www.v2ex.com/t/1208600)
+
++ [glm5.1， kimi2.6， minimax2.7， mimo v2.5， deepseek v4，编程能力上的排名如何？](https://www.v2ex.com/t/1208616)
+

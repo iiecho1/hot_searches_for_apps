@@ -223,3 +223,15 @@
 
 + [俄总统新闻秘书：俄罗斯不可能成为欧洲的威胁](https://news.cctv.com/2026/04/26/ARTIiexYLxR2qBp0TRghyjnJ260426.shtml)
 
++ [以军在黎巴嫩“积极行动” 两周打死46名武装人员](https://news.cctv.com/2026/04/26/ARTIupN6uwZxdMEYpL8jXlju260426.shtml)
+
++ [白宫记协晚宴安全事件嫌疑人将于27日被起诉](https://news.cctv.com/2026/04/26/ARTIPKKVEz3O9X8sduev9qnC260426.shtml)
+
++ [美代理司法部长：白宫记者协会晚宴枪手目标可能包括特朗普](https://news.cctv.com/2026/04/26/ARTIJMTthq9KTlQiDdUEsu8D260426.shtml)
+
++ [中国援塞拉利昂医疗队开展“世界防治疟疾日”义诊活动](https://news.cctv.com/2026/04/26/ARTI1a2NVizRnAPof0Yp4Qcv260426.shtml)
+
++ [泽连斯基宣布欧盟900亿欧元贷款首笔资金将用于国防生产](https://news.cctv.com/2026/04/26/ARTI2Ol6rE4QgbddDdotv9oT260426.shtml)
+
++ [伊朗总统指示伊央行智能管理流动性 保护本币币值](https://news.cctv.com/2026/04/26/ARTI1DbeiKCF8dYOfZoxk5dC260426.shtml)
+
