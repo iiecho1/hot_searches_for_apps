@@ -179,3 +179,7 @@
 
 + [教育邮箱申请 GitHub 学生包与 Copilot 免费权益全流程指南](https://blog.csdn.net/2503_94196214/article/details/160502112)
 
++ [Spring Framework（Bean）](https://blog.csdn.net/2501_94455816/article/details/160333585)
+
++ [2026主流处理器终极对决：x86、ARM、RISC-V......谁主沉浮？](https://blog.csdn.net/W20130306/article/details/160520509)
+

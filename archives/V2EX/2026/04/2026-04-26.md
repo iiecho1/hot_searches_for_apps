@@ -31,3 +31,9 @@
 
 + [立志用 Ai 把学英语相关的会员价格打下来 - “keykey 学英语”](https://www.v2ex.com/t/1208562)
 
++ [谷歌十年](https://www.v2ex.com/t/1208570)
+
++ [Claude 新站开业 满血 Max 中转包月 1 元=1 刀， 限时注册送 5 美金额度 注册留 ID 再送 5 美金额度](https://www.v2ex.com/t/1208588)
+
++ [关于相亲，有一事真的挺不明的](https://www.v2ex.com/t/1208559)
+
