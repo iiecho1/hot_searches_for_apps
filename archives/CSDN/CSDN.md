@@ -183,3 +183,11 @@
 
 + [2026主流处理器终极对决：x86、ARM、RISC-V......谁主沉浮？](https://blog.csdn.net/W20130306/article/details/160520509)
 
++ [【Web安全】-Kali，Linux配置（1）：Kali网络配置，LinuxEnvConfig配置脚本，APT源的讲解，Kali设置中文](https://blog.csdn.net/2401_83075246/article/details/160502288)
+
++ [基于辽宁科技大学的论文复现——从零开始SPMamba-yolo全流程部署文档](https://blog.csdn.net/m0_75040840/article/details/160526448)
+
++ [GPT-IMAGE 2 国内使用方法，1 分钟上手零门槛](https://blog.csdn.net/decade345/article/details/160520420)
+
++ [2026统计建模大赛，选题建议 + 四类高频算法全整理](https://blog.csdn.net/m0_37228052/article/details/160447037)
+

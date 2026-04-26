@@ -211,3 +211,7 @@
 
 + [俄国家杜马主席会见朝鲜最高领导人 转达俄总统问候并感谢朝方支持](https://news.cctv.com/2026/04/26/ARTIdXR4llPrrFzMcumZP9Lj260426.shtml)
 
++ [民调机构：德国选择党支持率创新高](https://news.cctv.com/2026/04/26/ARTIOdL7r4eFS5GUOSIkq9a4260426.shtml)
+
++ [俄罗斯向国际空间站发射“进步MS-34”货运飞船](https://news.cctv.com/2026/04/26/ARTIfp49VL52hmcgUZstqU3n260426.shtml)
+
