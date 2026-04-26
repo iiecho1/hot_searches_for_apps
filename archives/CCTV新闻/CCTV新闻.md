@@ -181,3 +181,21 @@
 
 + [马里军方称已击毙数百名恐怖分子](https://news.cctv.com/2026/04/26/ARTI0s2V6r1zNJxYCwRQhFWs260426.shtml)
 
++ [蒙古附近发生6.3级左右地震](https://news.cctv.com/2026/04/26/ARTIIZ5eHdX4vvMs5vM81U3W260426.shtml)
+
++ [金正恩于人民革命军成立日视察部队勉励官兵](https://news.cctv.com/2026/04/26/ARTIffNrEmqsr6dKjZabyykh260426.shtml)
+
++ [特朗普：不认为晚宴枪击事件与美伊战事有关](https://news.cctv.com/2026/04/26/ARTI7GgrgiiK1aKIaVtE8etD260426.shtml)
+
++ [嫌疑人携多件武器强闯安检关卡 特朗普公布白宫记协晚宴安全事件调查细节](https://news.cctv.com/2026/04/26/ARTI6jruYbDvk20pDvKQF7ub260426.shtml)
+
++ [东京审判奠定了战后国际秩序的法理基石（国际论坛）](https://news.cctv.com/2026/04/26/ARTIYbF4GWsKw4RwCWbSpTVM260426.shtml)
+
++ [白宫记协晚宴安全事件细节披露：嫌疑人持霰弹枪试图突破安保](https://news.cctv.com/2026/04/26/ARTIocCDpUkGduK4sR6s2jml260426.shtml)
+
++ [因突发事件撤离晚宴后 特朗普发帖：已建议“让活动继续进行”](https://news.cctv.com/2026/04/26/ARTIK7nmjNQGZumbhAU7tdHm260426.shtml)
+
++ [白宫记协晚宴发生“安全事件” 一名嫌疑人被拘捕](https://news.cctv.com/2026/04/26/ARTI7huqf3r7QiBlrMuD2YRl260426.shtml)
+
++ [马里多地遭恐怖袭击 中使馆提醒中国公民暂勿前往该国](https://news.cctv.com/2026/04/26/ARTIIR4Kiewfgq5BarnOj20D260426.shtml)
+

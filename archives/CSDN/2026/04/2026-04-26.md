@@ -155,3 +155,21 @@
 
 + [每天解析一种网络协议：TCP协议](https://blog.csdn.net/mo_ran_lz/article/details/160480339)
 
++ [【HarmonyOS 6.0】AVCodec Kit 视频解码器平滑停用机制详解](https://blog.csdn.net/weixin_74809706/article/details/160179847)
+
++ [Spring AI 2.0 vs LangChain4j，怎么选？](https://blog.csdn.net/caoli201314/article/details/160479040)
+
++ [Re：从零开始的 C++ 进阶篇（四）工业级 C++ 编程：如何构建异常安全的健壮系统？（含案例分析）](https://blog.csdn.net/Z2314246476/article/details/160360117)
+
++ [盟接之桥®制造业EDI软件，如何以标准化协议与灵活模式，为中国制造打通数字化出海航道](https://blog.csdn.net/mjarqa/article/details/160323733)
+
++ [小林计算机网络・传输篇TCP/UDP｜三次握手｜四次挥手｜可靠传输](https://blog.csdn.net/2401_84526799/article/details/160506383)
+
++ [基于ReAct模式的智能体系统示例](https://blog.csdn.net/brucexia/article/details/160509501)
+
++ [32位单片机时代：8051的黄昏，还是另一个黎明？——论8位的8051单片机未来的32位之路](https://blog.csdn.net/YangWeiminPHD/article/details/160484410)
+
++ [从零到一：用 Taro + React 搭建数据采集小程序](https://blog.csdn.net/A6516565189/article/details/160509414)
+
++ [一款基于 .NET 开源、跨平台应用程序自动升级组件](https://blog.csdn.net/igqYBfINS/article/details/160500651)
+
