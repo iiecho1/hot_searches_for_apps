@@ -45,3 +45,5 @@
 
 + [glm5.1， kimi2.6， minimax2.7， mimo v2.5， deepseek v4，编程能力上的排名如何？](https://www.v2ex.com/t/1208616)
 
++ [完全不付费的情况, 推荐哪一家 ai](https://www.v2ex.com/t/1208585)
+

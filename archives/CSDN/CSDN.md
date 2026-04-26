@@ -207,3 +207,7 @@
 
 + [SSM框架-Spring1](https://blog.csdn.net/m0_53499553/article/details/160193169)
 
++ [PyTorch强化学习实战（3）——Gymnasium API扩展功能](https://blog.csdn.net/LOVEmy134611/article/details/157427247)
+
++ [【花雕动手做】嵌入式 AI Agent 机器人实战：硬件小车与实际部署迷你小龙虾 mimiclaw](https://blog.csdn.net/weixin_41659040/article/details/160505759)
+
