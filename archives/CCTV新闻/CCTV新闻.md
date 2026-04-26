@@ -171,3 +171,13 @@
 
 + [美军称将继续对进出伊朗港口船只实施全面封锁](https://news.cctv.com/2026/04/26/ARTIGZVP8s7UP3Vj6BIAjsSi260426.shtml)
 
++ [伊朗外长将再次访问巴基斯坦](https://news.cctv.com/2026/04/26/ARTICskpvY8ZsuqXBXpm2XdZ260426.shtml)
+
++ [伊朗副议长：穆杰塔巴下令 霍尔木兹海峡不得恢复战前状态](https://news.cctv.com/2026/04/26/ARTIt8uedHsIfLwQzCc38xWI260426.shtml)
+
++ [美国白宫记者晚宴发生枪击事件 枪手身亡](https://news.cctv.com/2026/04/26/ARTIrjm5Dvo1g7DEJCYp2DMo260426.shtml)
+
++ [伊媒：伊朗克尔曼沙阿传出防空系统活动声响](https://news.cctv.com/2026/04/26/ARTIm4mayLajbeHrieQkcOPF260426.shtml)
+
++ [马里军方称已击毙数百名恐怖分子](https://news.cctv.com/2026/04/26/ARTI0s2V6r1zNJxYCwRQhFWs260426.shtml)
+
