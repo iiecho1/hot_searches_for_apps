@@ -215,3 +215,23 @@
 
 + [俄罗斯抗议德国议员同车臣反政府组织头目会面](https://news.cctv.com/2026/04/27/ARTIFX3DnjYHDqx90hN45dwf260427.shtml)
 
++ [伊朗外长：美方请求谈判 伊方正在考虑](https://news.cctv.com/2026/04/27/ARTIUlHlj2rZZ34WVCMEFQba260427.shtml)
+
++ [黎巴嫩总统称希望结束与以色列的战争 达成停火协议](https://news.cctv.com/2026/04/27/ARTIeu1YzarCjagWTEBwLviF260427.shtml)
+
++ [伊拉克宣布开放首都巴格达“绿区”各入口](https://news.cctv.com/2026/04/27/ARTIujYIZoSanBwZsuyj0oNt260427.shtml)
+
++ [德国总理：暂未看到美方在伊朗战争中的退出战略](https://news.cctv.com/2026/04/27/ARTIpPzBq0PI52Y7DLYAjT8j260427.shtml)
+
++ [民间机构称苏丹西部法希尔市逾1400名平民被扣押](https://news.cctv.com/2026/04/27/ARTI9PN8VP5ejHCltPnxbHSc260427.shtml)
+
++ [内塔尼亚胡再次推迟出席涉腐败案听证会](https://news.cctv.com/2026/04/27/ARTI3lqoa2S7rCuH3yEtwuYG260427.shtml)
+
++ [佩斯科夫：普京将会见伊朗外长 此次会见非常重要](https://news.cctv.com/2026/04/27/ARTIsEji0Mf3gIqPGbWvJELg260427.shtml)
+
++ [欧盟再次延长对缅甸个人和实体制裁](https://news.cctv.com/2026/04/27/ARTITfkiBrv4XX4xAcKahFyS260427.shtml)
+
++ [伊朗暂停出口钢材至5月30日](https://news.cctv.com/2026/04/27/ARTIDOCAWzJ1g5rXlHGcj5qD260427.shtml)
+
++ [拒绝与以色列直接谈判 黎真主党领导人提出五点要求](https://news.cctv.com/2026/04/27/ARTIg8nLScx2Sbr0QeCQv9FV260427.shtml)
+

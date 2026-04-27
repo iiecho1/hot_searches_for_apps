@@ -225,3 +225,15 @@
 
 + [2026能源数字化架构演进：MyEMS 微服务解耦与时序数据驱动的工程实践](https://blog.csdn.net/Ajduebdhsk/article/details/160530684)
 
++ [【AI智能体】阿里云服务器一键部署OpenClaw 对接飞书实战详解](https://blog.csdn.net/zhangcongyi420/article/details/160507288)
+
++ [Elasticsearch搜索排序实战：时间衰减函数(Decay Function)评分优化全解析](https://blog.csdn.net/qq_41840843/article/details/160550997)
+
++ [知识沉淀 | 2026 年 LLM 评测体系 & 主流开源模型架构全景](https://blog.csdn.net/qcx23/article/details/160523329)
+
++ [鸿蒙游戏架构进阶：如何拆分 Store 与 System？](https://blog.csdn.net/qq_36863796/article/details/160506223)
+
++ [CSDN「知识领航员」分销合伙人招募计划（第一期）](https://blog.csdn.net/blogdevteam/article/details/160479095)
+
++ [电商系统Web渗透测试实战指南](https://blog.csdn.net/2501_94768728/article/details/160533603)
+
