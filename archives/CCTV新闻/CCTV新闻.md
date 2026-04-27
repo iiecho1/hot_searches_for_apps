@@ -165,3 +165,15 @@
 
 + [黎真主党驳斥以总理言论 称袭击属正当回应](https://news.cctv.com/2026/04/27/ARTIg7nEtBLrAXqM0D8Oc6tP260427.shtml)
 
++ [涉引用AI生成内容 南非撤回人工智能政策草案](https://news.cctv.com/2026/04/27/ARTIXYK43Jix7cRL6CG0VPnb260427.shtml)
+
++ [美军称已要求38艘船改变航向](https://news.cctv.com/2026/04/27/ARTItWz2MuJZAIBqR61f5U7o260427.shtml)
+
++ [大使任命风波发酵 英首相坚称不辞职](https://news.cctv.com/2026/04/27/ARTIIFLeFK74aqmJjWihNPmS260427.shtml)
+
++ [日本2025年“孤独死”人数超2.2万人](https://news.cctv.com/2026/04/27/ARTIs6z30dVUeZnV3waJxp4r260427.shtml)
+
++ [日本北海道发生6.1级地震 交通部分停运](https://news.cctv.com/2026/04/27/ARTIFrXsgXILoS4TShd2vrAB260427.shtml)
+
++ [伊朗提出一项分三阶段解决的谈判方案](https://news.cctv.com/2026/04/27/ARTIUhYDQxl3V0B2G29TT0Nn260427.shtml)
+

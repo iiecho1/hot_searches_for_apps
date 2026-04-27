@@ -159,3 +159,17 @@
 
 + [详解ACF：Alpine Linux轻量Web配置框架](https://blog.csdn.net/2301_79518550/article/details/160527266)
 
++ [KingbaseES NFS部署实战：环境变量缺失与权限报错排查指南](https://blog.csdn.net/qq_57761637/article/details/160538298)
+
++ [99.9%零拥堵：Java如何重塑未来城市交通？](https://blog.csdn.net/z_344791576/article/details/151896223)
+
++ [深度解析 Elasticsearch 更新与删除文档原理：段不可变性与 .del 文件的秘密](https://blog.csdn.net/qq_41840843/article/details/160530082)
+
++ [OpenClaw 接入大模型 API 的完整配置流程（Windows 实测可用）](https://blog.csdn.net/weixin_45189666/article/details/160533262)
+
++ [KingbaseES选型评估：功能对标、性能基准与生态工具链兼容性深度剖析](https://blog.csdn.net/beautifulmemory/article/details/160484123)
+
++ [Serilog：从结构化日志认知到 .NET 工程落地](https://blog.csdn.net/yA0r9p2VL/article/details/160497184)
+
++ [【微服务与云原生架构】DevOps、CI/CD流水线、GitOps 系统性知识体系](https://blog.csdn.net/qq_45914609/article/details/160519555)
+
