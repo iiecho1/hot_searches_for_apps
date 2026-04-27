@@ -187,3 +187,5 @@
 
 + [日本北海道发生6.1级地震，震源深度80千米](https://news.cctv.com/2026/04/27/ARTIVTI2sAnQE1Kom0Il8cha260427.shtml)
 
++ [美国已收到伊朗谈判新方案](https://news.cctv.com/2026/04/27/ARTIsJZ1fKGGmRlQX2L7LKWU260427.shtml)
+

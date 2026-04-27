@@ -27,3 +27,11 @@
 
 + [1 小时 59 分 30 秒历史性突破！人类全马正式“破 2”](https://m.ithome.com/html/943733.htm)
 
++ [华为余承东首次回应享界 S9 麋鹿测试黑幕，称轮胎被放气、拧松](https://m.ithome.com/html/943764.htm)
+
++ [拯救 Win11！揭秘微软 Windows K2 宏伟计划](https://m.ithome.com/html/943728.htm)
+
++ [降至原有价格 1/10，DeepSeek API 输入缓存降价](https://m.ithome.com/html/943748.htm)
+
++ [古尔曼：库克为苹果留下十大新产品线研发计划，新任 CEO 特努斯首秀定档 9 月折叠屏 iPhone 发布会](https://m.ithome.com/html/943744.htm)
+
