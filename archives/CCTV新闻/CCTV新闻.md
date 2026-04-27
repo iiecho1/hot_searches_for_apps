@@ -189,3 +189,27 @@
 
 + [美国已收到伊朗谈判新方案](https://news.cctv.com/2026/04/27/ARTIsJZ1fKGGmRlQX2L7LKWU260427.shtml)
 
++ [有不法分子冒充航司工作人员打诈骗电话，中国驻法国大使馆发布提醒](https://news.cctv.com/2026/04/27/ARTIVxh9xe3h5XjOk7fS6Jnh260427.shtml)
+
++ [日本数千民众举行集会 抗议高市政府强推修宪扩军](https://news.cctv.com/2026/04/27/ARTIklwraPZBOO9QOPGZkmS7260427.shtml)
+
++ [中国国际法学会发表声明：美以对伊朗使用武力没有国际法依据](https://news.cctv.com/2026/04/27/ARTIuMaUkBkjUznQaZX3vrWd260427.shtml)
+
++ [制度优势成就中国发展的“接力跑”](https://news.cctv.com/2026/04/27/ARTIWxSEDkUMd2QZ2uZkhN4P260427.shtml)
+
++ [APEC工商咨询理事会墨西哥会议推动亚太区域合作与互联互通](https://news.cctv.com/2026/04/27/ARTIYsP74jFcy4aXPFiLiZyP260427.shtml)
+
++ [特朗普称民主党人的仇恨言论非常危险](https://news.cctv.com/2026/04/27/ARTIvPgYsqOp7YWpgCxu04v0260427.shtml)
+
++ [因袭击威胁 以色列北部城镇暂停教学活动和交通运营](https://news.cctv.com/2026/04/27/ARTITmisgsDgWs0hpsFGdoLD260427.shtml)
+
++ [两名俄公民受乌方指示拟炸毁石油企业 因拒捕被击毙](https://news.cctv.com/2026/04/27/ARTI3T20nwlZOCkJ4fZyaObQ260427.shtml)
+
++ [“熊出没”现象或激增 日本环境省提醒公众提高警惕](https://news.cctv.com/2026/04/27/ARTINgOfDdHCGswPyRI3p5lH260427.shtml)
+
++ [以总统据称暂不赦免内塔尼亚胡 寻求促成认罪协议](https://news.cctv.com/2026/04/27/ARTIx0W39EoScNQyMa5kzfgH260427.shtml)
+
++ [菲律宾马尼拉国际机场发现锈蚀炸弹](https://news.cctv.com/2026/04/27/ARTIE1fGrlJsVopeN8QMB5tX260427.shtml)
+
++ [伊朗已规划10条替代性通道保障基本商品供应](https://news.cctv.com/2026/04/27/ARTIKyzgcBJKnp2GgjkX4aCS260427.shtml)
+
