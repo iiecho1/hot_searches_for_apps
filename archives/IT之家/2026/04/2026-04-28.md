@@ -57,3 +57,5 @@
 
 + [古尔曼：库克为苹果留下十大新产品线研发计划，新任 CEO 特努斯首秀定档 9 月折叠屏 iPhone 发布会](https://m.ithome.com/html/943744.htm)
 
++ [比亚迪第二代腾势 D9 正式上市，35.98 万-46.98 万元](https://m.ithome.com/html/944165.htm)
+

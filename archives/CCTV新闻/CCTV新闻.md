@@ -161,3 +161,13 @@
 
 + [伊朗武装部队：美军若继续封锁 必将面临强大回应](https://news.cctv.com/2026/04/25/ARTI7D0yQRweUx3WOGIbCWUn260425.shtml)
 
++ [巴基斯坦否认空袭阿富汗东部大学和居民区](https://news.cctv.com/2026/04/28/ARTILQWQYZGpyO39XTxjjPUm260428.shtml)
+
++ [白宫：特朗普及其国安团队开会讨论伊朗新提案](https://news.cctv.com/2026/04/28/ARTI20u46yOIPk9e7tMdR9Eh260428.shtml)
+
++ [以总理：解除黎真主党武装是与黎巴嫩谈判的关键](https://news.cctv.com/2026/04/28/ARTI8eFmNPplTuienHqiSAgf260428.shtml)
+
++ [提前订房、持枪冲场 美检方披露白宫记协晚宴枪手作案轨迹](https://news.cctv.com/2026/04/28/ARTIPW4tn65Ncd1JHlcZJTB5260428.shtml)
+
++ [俄总统助理：不排除向美方转达俄伊会谈意见](https://news.cctv.com/2026/04/28/ARTInc7TXC7gBOYBU9hzmPAG260428.shtml)
+
