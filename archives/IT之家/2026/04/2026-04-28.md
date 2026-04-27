@@ -25,3 +25,27 @@
 
 + [华为余承东：尊界 S800 上市 10 个月交付 1.6 万台，连续 7 个月都是百万级销量冠军](https://m.ithome.com/html/943602.htm)
 
++ [华为余承东首次回应享界 S9 麋鹿测试黑幕，称轮胎被放气、拧松](https://m.ithome.com/html/943764.htm)
+
++ [雷军：小米玄戒 O1 芯片已经出货超过一百万颗](https://m.ithome.com/html/943846.htm)
+
++ [赵长江解释为何王传福亲临智界展台自己没在现场接待和介绍 V9：真不是故意的，当时刚好不在](https://m.ithome.com/html/943753.htm)
+
++ [国家发改委：依法依规对外资收购 Manus 项目作出禁止投资决定](https://m.ithome.com/html/943996.htm)
+
++ [消息称小米新一代自研芯片 + AI 大模型 + OS 大会师终端产品排期已定，比网传晚一点](https://m.ithome.com/html/943876.htm)
+
++ [5 月起影响你我生活的新规：商业短信“未经同意不得发送”、明确实名登记民用无人机新国标实施等](https://m.ithome.com/html/943788.htm)
+
++ [消息称“苹果 20 周年版 iPhone”四曲面设计专注视觉观感，利用光学折射实现“液态玻璃”效果](https://m.ithome.com/html/944145.htm)
+
++ [支付宝小荷包上线“承诺券”：不怕朋友放鸽子](https://m.ithome.com/html/943754.htm)
+
++ [嫌盗版网站广告碍眼，男子自己做 App“去广告”看免费电影](https://m.ithome.com/html/943961.htm)
+
++ [未来三年小米 AI 投入超 600 亿元：MiMo-V2.5 将开源，几乎适配国内所有芯片](https://m.ithome.com/html/943882.htm)
+
++ [小米汽车明年下半年出海首战欧洲，2028 年上半年进入右舵市场](https://m.ithome.com/html/943825.htm)
+
++ [腾讯 QClaw 宣布升级 v0.2.14 版本：率先支持 Hermes，接入 DeepSeek-V4-Pro 与混元 Hy3 preview 模型](https://m.ithome.com/html/943877.htm)
+

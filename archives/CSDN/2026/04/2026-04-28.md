@@ -101,3 +101,41 @@
 
 + [【微服务与云原生架构】DevOps、CI/CD流水线、GitOps 系统性知识体系](https://blog.csdn.net/qq_45914609/article/details/160519555)
 
++ [OpenCode Go ：为开放编码模型准备的低价订阅方案](https://blog.csdn.net/oscar999/article/details/160508759)
+
++ [【Redis实战篇 | Day04】Lua原子性优化Redis分布式锁：解决线程安全问题](https://blog.csdn.net/chen_si_shang_/article/details/160556908)
+
++ [【花雕动手做】嵌入式 AI Agent 机器人实战：迷你小龙虾 MimiClaw 的架构与主程序概览](https://blog.csdn.net/weixin_41659040/article/details/160530955)
+
++ [HarmonyOS 6（API 23）实战：基于 Face AR 情绪识别与 Body AR 手势控制的“情绪感知智能工作台“](https://blog.csdn.net/u014727709/article/details/147283885)
+
++ [完全开源-支持二开-可做毕业论文-家政服务预约小程序](https://blog.csdn.net/IamBird/article/details/160484092)
+
++ [教育邮箱申请 GitHub 学生包与 Copilot 免费权益全流程指南](https://blog.csdn.net/2503_94196214/article/details/160502112)
+
++ [GateWay使用详解](https://blog.csdn.net/huipeng926/article/details/160531204)
+
++ [ABAP Dynamic Report Extraction and ADBC CRUD Practical Solution (V2)](https://blog.csdn.net/xiaoadoudou/article/details/160568041)
+
++ [基于灰狼优化、改进灰狼优化、金豺优化、沙丘猫群，（GWO、IGWO、GJO、SCSO、SCA）优化与正弦余弦算法的无人机三维航迹路径规划对比研究（Matlab代码实现）](https://blog.csdn.net/m0_73907476/article/details/160509377)
+
++ [如何减小PDF文件的体积，怎么优化PDF体积？哪些软件最合适，最好用](https://blog.csdn.net/dllglvzhenfeng/article/details/160419970)
+
++ [Flutter 三方库 url_launcher + link_preview 的鸿蒙化适配与实战指南](https://blog.csdn.net/IntMainJhy/article/details/160568674)
+
++ [灵机一物AI原生电商小程序、PC端(已上线)-GPT-5.5 深度技术实测评测：Agent能力全面爆发，Codex重构开发范式，实测碾压Opus 4.7](https://blog.csdn.net/Zen7_Labs/article/details/160490658)
+
++ [2026年东北三省数学建模联赛赛题浅析-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/160495509)
+
++ [基于辽宁科技大学的论文复现——从零开始SPMamba-yolo全流程部署文档](https://blog.csdn.net/m0_75040840/article/details/160526448)
+
++ [[OpenClaw][Skills]Self-Improving-with-Reflection 的技能分析](https://blog.csdn.net/comedate/article/details/160535001)
+
++ [2026最新GPT-Image2制作PPT配图和数据图表实战教程](https://blog.csdn.net/Asixboy/article/details/160501822)
+
++ [68：Java 原生反序列化 & SpringBoot 攻防](https://blog.csdn.net/2302_80420483/article/details/160497865)
+
++ [blbl第三方B站客户端：Android 5.0+全设备流畅刷番](https://blog.csdn.net/AurumVision/article/details/160551349)
+
++ [STM32N6的开发日记(6):用ISP中间件点亮IMX335相机的专业画质](https://blog.csdn.net/qq_62544059/article/details/160480860)
+
