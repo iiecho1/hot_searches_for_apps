@@ -149,3 +149,9 @@
 
 + [Flutter 三方库 shimmer 的鸿蒙化适配与实战指南](https://blog.csdn.net/IntMainJhy/article/details/160568616)
 
++ [RAGFlow v0.25.0：全新发布，覆盖解析管道、数据源、Agent、语言界面、模型支持与安全修复的全面升级](https://blog.csdn.net/weixin_48502062/article/details/160533413)
+
++ [【云藏山鹰代数信息系统】云藏山鹰圆上的意气即是美，美即是意气二元关系定向集和集合映射名词解释之效用](https://blog.csdn.net/yudst/article/details/160306010)
+
++ [【Flutter for OpenHarmony 第三方库】Flutter for OpenHarmony 引导页设计与新用户体验优化实现指南](https://blog.csdn.net/liulian0916/article/details/160532471)
+
