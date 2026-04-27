@@ -145,3 +145,7 @@
 
 + [MySQL索引不生效？一文理解CBO成本模型](https://blog.csdn.net/2401_87660168/article/details/160533985)
 
++ [2026 年大模型 API 实测天梯榜：DeepSeek v4、GPT-5、Claude 4.6、Gemini 3 谁值得接？](https://blog.csdn.net/ofoxcoding/article/details/160503829)
+
++ [Flutter 三方库 shimmer 的鸿蒙化适配与实战指南](https://blog.csdn.net/IntMainJhy/article/details/160568616)
+
