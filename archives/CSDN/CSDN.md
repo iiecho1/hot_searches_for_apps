@@ -173,3 +173,19 @@
 
 + [【微服务与云原生架构】DevOps、CI/CD流水线、GitOps 系统性知识体系](https://blog.csdn.net/qq_45914609/article/details/160519555)
 
++ [2026 AI助手新物种：多模型+定时任务+键鼠执行，实测把重复工作全丢给ToDesk AI](https://blog.csdn.net/Tiam_cr/article/details/160478480)
+
++ [【高等数学 第九章】多元函数微分法及其应用](https://blog.csdn.net/he_zhidan/article/details/160097607)
+
++ [【精通JMeter接口测试】04-一文搞定接口鉴权（Cookie/Session/Token）及Token/Cookie跨线程组传值（附原理图解）](https://blog.csdn.net/2301_81982617/article/details/160537679)
+
++ [企业IT安全排查实战：用 PowerShell 调用 IP 地址查询 API，快速判断异常访问来源](https://blog.csdn.net/weixin_47431459/article/details/160503650)
+
++ [GitHub 热榜项目 - 日榜(2026-04-27)](https://blog.csdn.net/u014390502/article/details/160541515)
+
++ [最强生图模型GPT-image-2，一手深度测评，附教程 GPT-image-2模型国内免费使用教程](https://blog.csdn.net/wanmeijuhao/article/details/160477093)
+
++ [Spring Data JPA 接入金仓数据库：少写代码，多干活](https://blog.csdn.net/weixin_44976692/article/details/160546637)
+
++ [Spark SQL 详细讲义](https://blog.csdn.net/jerrykorea/article/details/160474987)
+

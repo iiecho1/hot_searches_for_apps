@@ -177,3 +177,13 @@
 
 + [伊朗提出一项分三阶段解决的谈判方案](https://news.cctv.com/2026/04/27/ARTIUhYDQxl3V0B2G29TT0Nn260427.shtml)
 
++ [“感知到中华文化之美”](https://news.cctv.com/2026/04/27/ARTIqYz1hXxyGXveYNy55pe0260427.shtml)
+
++ [英国国王访美 能否修复裂痕重重的“特殊关系”？](https://news.cctv.com/2026/04/27/ARTIxsq48xwhvqgeSIFatTJl260427.shtml)
+
++ [中国驻札幌总领馆提醒领区中国公民加强地震灾害应急防范](https://news.cctv.com/2026/04/27/ARTIiJXLBp7bMjcm0r6DB5WL260427.shtml)
+
++ [40年后，走进切尔诺贝利核禁区](https://photo.cctv.com/2026/04/27/PHOA5qSko1lEuKwjboWXEvrN260427.shtml)
+
++ [日本北海道发生6.1级地震，震源深度80千米](https://news.cctv.com/2026/04/27/ARTIVTI2sAnQE1Kom0Il8cha260427.shtml)
+
