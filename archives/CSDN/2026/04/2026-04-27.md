@@ -205,3 +205,23 @@
 
 + [嵌入式学习-构建系统（图形化IDE/Kconfig/手动makefile Cmake）](https://blog.csdn.net/m0_57249200/article/details/160534560)
 
++ [2026年4月27日人工智能早间新闻](https://blog.csdn.net/fudaihb/article/details/160540794)
+
++ [剑指巅峰，磨砺芳华：我的 CSDN 创作一周年深度总结](https://blog.csdn.net/2401_89899187/article/details/160524372)
+
++ [AI 新闻周报 | 2026年4月19日 - 4月25日](https://blog.csdn.net/yifan99/article/details/160503953)
+
++ [从 LLM 底层原理到 LangChain 全链路打通：大模型应用开发新征程](https://blog.csdn.net/2503_91389547/article/details/160409407)
+
++ [2026年04月26日最热门的开源项目(Github)](https://blog.csdn.net/yao1500/article/details/160537853)
+
++ [实验六 Windows Server 2022/2025 搭建 DHCP 服务器实验指导书](https://blog.csdn.net/supernealrei/article/details/160534392)
+
++ [AMDGPU驱动性能实战： KFD Queue Quiesce/Restore 机制分析与优化方案探讨](https://blog.csdn.net/shenjunpeng/article/details/160532877)
+
++ [深度解析星云SDK破开数字人实时交互](https://blog.csdn.net/H1727548/article/details/160551629)
+
++ [大模型KV缓存机制：从根本上理解你命中缓存了吗?](https://blog.csdn.net/2301_76243776/article/details/160507123)
+
++ [2026能源数字化架构演进：MyEMS 微服务解耦与时序数据驱动的工程实践](https://blog.csdn.net/Ajduebdhsk/article/details/160530684)
+

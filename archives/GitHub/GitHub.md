@@ -27,3 +27,17 @@
 
 + [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
 
++ [penpot/penpot](https://github.com/penpot/penpot)
+
++ [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+
++ [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
+
++ [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
