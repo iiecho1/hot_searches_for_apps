@@ -65,3 +65,23 @@
 
 + [史上最长寿月球车：玉兔二号已超期服役 7 年多，目前仍在月球背面“打工”](https://m.ithome.com/html/943736.htm)
 
++ [iPhone Ultra 折叠屏手机与 MacBook Ultra 笔记本在列，消息称苹果计划明年推出两款超高端新品](https://m.ithome.com/html/944192.htm)
+
++ [DeepSeek-V4 技术报告公开作者名单，多位核心骨干离职去大厂](https://m.ithome.com/html/944264.htm)
+
++ [张雪就声援华为余承东引发争议进行回应：我不是网红不靠这吃饭，也没有贬损其他品牌](https://m.ithome.com/html/944510.htm)
+
++ [税务大数据立功，“探店网红”白冰偷税被追缴及罚款 1891 万元](https://m.ithome.com/html/944257.htm)
+
++ [消息称小米显示器中高端型号将迎来涨价](https://m.ithome.com/html/944175.htm)
+
++ [华为 Pura X Max 横阔折手机首销日情况出炉，销量同期约为 Pura X 的 215%](https://m.ithome.com/html/944349.htm)
+
++ [iPhone 17 等部分苹果用户反馈电量耗尽后无法用 USB-C 充电开机](https://m.ithome.com/html/944241.htm)
+
++ [追觅展示纯电超跑概念车 Nebula Next 01 JET Edition：百公里加速 0.9 秒，配备双固体火箭助推器](https://m.ithome.com/html/944211.htm)
+
++ [央视解读“中方禁止 Manus 并购案”：禁的是企业“洗澡式出海”](https://m.ithome.com/html/944519.htm)
+
++ [破 300 万大关：消息称华为 nova 15 系列中端手机销量约 302.83 万台](https://m.ithome.com/html/944321.htm)
+
