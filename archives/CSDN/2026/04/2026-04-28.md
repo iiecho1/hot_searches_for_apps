@@ -165,3 +165,31 @@
 
 + [Spring AOP：企业级实战教学](https://blog.csdn.net/2401_88537889/article/details/160533081)
 
++ [网络标识关系、Socket通信与UDP数据报首部介绍](https://blog.csdn.net/2401_86112610/article/details/160564481)
+
++ [零成本自建文件转换神器，支持音视频/文档/图片全格式转换](https://blog.csdn.net/mrdeam/article/details/160586406)
+
++ [【HarmonyOS 6.0】Call Service Kit VoIP接口Wearable设备支持详解：从手机到手表，VoIP通话的全场景延伸](https://blog.csdn.net/weixin_74809706/article/details/160253658)
+
++ [打工人被WPS卡顿和隐私问题折磨?document本地文档编辑器能不能作为替代方案](https://blog.csdn.net/2401_87848736/article/details/160581666)
+
++ [为智能体构建多层级记忆系统让AI记住你的每一次对话](https://blog.csdn.net/2602_94956987/article/details/160534388)
+
++ [低代码快速接入：魔珐星云具身智能 3D 数字人开发实战指南](https://blog.csdn.net/JHXL_/article/details/160582668)
+
++ [当AI开始替你上班：大模型Agent如何重塑工作流自动化](https://blog.csdn.net/IRpickstars/article/details/160540576)
+
++ [【Bib 2026】基因最新综述（有什么任务、benchmark、代表性模型）](https://blog.csdn.net/weixin_43135178/article/details/160507074)
+
++ [VSCode调用deepseek-v4-pro/flash api的方法](https://blog.csdn.net/HeeRiver/article/details/160547119)
+
++ [企业级需求管理工具（开源代码见文末）](https://blog.csdn.net/jackeydengjun/article/details/160569215)
+
++ [安全第一课](https://blog.csdn.net/2401_89156372/article/details/160569102)
+
++ [GitHub Copilot 计费模式大变革：深度解析按量计费时代的技术实现与成本优化](https://blog.csdn.net/yweng18/article/details/160577870)
+
++ [开源鸿蒙 Flutter 实战｜用户详情页布局优化与字体大小调节功能全流程实现](https://blog.csdn.net/Hello_7777/article/details/160563667)
+
++ [k8s etcd备份恢复](https://blog.csdn.net/2302_80661243/article/details/160561738)
+

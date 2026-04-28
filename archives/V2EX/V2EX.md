@@ -29,3 +29,15 @@
 
 + [[求助] 怎么把 NFC 门禁卡录入 iPhone 手机](https://www.v2ex.com/t/1208856)
 
++ [有人开过塔斯汀吗？](https://www.v2ex.com/t/1208994)
+
++ [找工作找了两个多月越找越烦](https://www.v2ex.com/t/1209005)
+
++ [本科毕业又能读大专了，全国多地鼓励进大专院校进修，你怎么看？](https://www.v2ex.com/t/1208997)
+
++ [怎么办兄弟们，我不想和你们失联！](https://www.v2ex.com/t/1208986)
+
++ [买 mac 还是转 Linux 系统](https://www.v2ex.com/t/1208943)
+
++ [qwen3.6 27b 本地编码测试](https://www.v2ex.com/t/1208824)
+
