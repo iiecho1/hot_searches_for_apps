@@ -171,3 +171,5 @@
 
 + [俄总统助理：不排除向美方转达俄伊会谈意见](https://news.cctv.com/2026/04/28/ARTInc7TXC7gBOYBU9hzmPAG260428.shtml)
 
++ [特朗普：希望白宫记者协会晚宴在“约30天内”重启](https://news.cctv.com/2026/04/28/ARTI8tODRqz95qDspEkR5YnF260428.shtml)
+

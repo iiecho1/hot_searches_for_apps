@@ -155,3 +155,13 @@
 
 + [【Flutter for OpenHarmony 第三方库】Flutter for OpenHarmony 引导页设计与新用户体验优化实现指南](https://blog.csdn.net/liulian0916/article/details/160532471)
 
++ [【花雕动手做】嵌入式 AI Agent 机器人实战：硬件小车与实际部署迷你小龙虾 mimiclaw](https://blog.csdn.net/weixin_41659040/article/details/160505759)
+
++ [Linux C++ 高并发编程：从原理到手撕，线程池全链路深度解析](https://blog.csdn.net/2503_91389547/article/details/160339478)
+
++ [【实战篇】非线性回归算法](https://blog.csdn.net/dongke1991/article/details/160562591)
+
++ [企业级需求管理工具（关注后续开源）](https://blog.csdn.net/jackeydengjun/article/details/160569215)
+
++ [Spring AOP：企业级实战教学](https://blog.csdn.net/2401_88537889/article/details/160533081)
+
