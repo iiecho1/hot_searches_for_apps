@@ -161,3 +161,5 @@
 
 + [特朗普：不认为晚宴枪击事件与美伊战事有关](https://news.cctv.com/2026/04/26/ARTI7GgrgiiK1aKIaVtE8etD260426.shtml)
 
++ [世界银行预测今年全球能源价格将大涨24%](https://news.cctv.com/2026/04/29/ARTIeSteFlw981htTSMs8e7o260428.shtml)
+

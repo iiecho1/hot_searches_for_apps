@@ -101,3 +101,23 @@
 
 + [安全第一课](https://blog.csdn.net/2401_89156372/article/details/160569102)
 
++ [为智能体构建多层级记忆系统让AI记住你的每一次对话](https://blog.csdn.net/2602_94956987/article/details/160534388)
+
++ [MATLAB实现互信息法选最优延迟τ](https://blog.csdn.net/2301_77211362/article/details/160531419)
+
++ [＜ 6 ＞ Linux 自动化构建工具：makefile 详解 + 进度条实战小项目](https://blog.csdn.net/liriying/article/details/160500669)
+
++ [基于环境自适应架构的降低AIGC检测率系统](https://blog.csdn.net/nepblank/article/details/160603525)
+
++ [WEB安全之XSS专题：绕过手法精讲](https://blog.csdn.net/2401_88251163/article/details/160555412)
+
++ [网络故障定位工具怎么搭配：Wireshark、tcpdump、监控平台各自该在什么时候上场？](https://blog.csdn.net/Johnstons/article/details/160533523)
+
++ [消费战略全案判断方法：企业何时该从单点优化转向系统重构](https://blog.csdn.net/Tastewend/article/details/160564605)
+
++ [GPT Image 2 原理及与 Nano Banana 2 真实效果对比](https://blog.csdn.net/qq_41035650/article/details/160587614)
+
++ [RPC、HTTP、WebSocket的区别](https://blog.csdn.net/chimomo/article/details/160568058)
+
++ [初始Unity资源管理](https://blog.csdn.net/VAE_qxt/article/details/160568704)
+
