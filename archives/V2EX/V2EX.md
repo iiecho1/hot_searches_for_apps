@@ -47,3 +47,7 @@
 
 + [Xiaomi MiMo Token 激励计划](https://www.v2ex.com/t/1209013)
 
++ [现在一个初三男生一千米跑 3 分 45 秒就能拿到 95 分了？](https://www.v2ex.com/t/1208988)
+
++ [对于新能源车充电，我有一计](https://www.v2ex.com/t/1209008)
+

@@ -27,3 +27,13 @@
 
 + [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
++ [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+
++ [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
++ [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
+

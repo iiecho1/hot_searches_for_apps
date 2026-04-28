@@ -187,3 +187,9 @@
 
 + [伊朗外长发文感谢俄方声援和外交支持](https://news.cctv.com/2026/04/28/ARTIu2dHXoRRarjvT4AGnvX0260428.shtml)
 
++ [希腊雅典发生枪击事件 5人受伤](https://news.cctv.com/2026/04/28/ARTIFkJIdM6WD6gmQRTu5qZi260428.shtml)
+
++ [墨西哥抓获“候补”大毒枭 世界杯前夕安全形势受关注](https://news.cctv.com/2026/04/28/ARTIpV20PSlKNWXhHwLilcLV260428.shtml)
+
++ [尹锡悦夫人金建希涉操纵股价及受贿案二审宣判 获刑4年](https://news.cctv.com/2026/04/28/ARTI8TkGMioK2TyxLiXbwjYj260428.shtml)
+
