@@ -217,3 +217,23 @@
 
 + [Linux 网络套接字编程（六）TCP的通信是全双工的，自定义协议的定制，序列化和反序列化](https://blog.csdn.net/2401_88465894/article/details/160561566)
 
++ [【2026年全新 Images-2.0 使用教程】（附AI生图提示词+完整使用指南）](https://blog.csdn.net/fengtinghuqu520/article/details/160569199)
+
++ [当 AI Agent 拥有具身交互：魔珐星云重构 AI 客服，实现真人级自然交互](https://blog.csdn.net/weixin_43151418/article/details/160586718)
+
++ [04月27日AI每日参考：Sora正式关闭，小米机器人开源，DeepSeek再降价](https://blog.csdn.net/GODYAD/article/details/160545311)
+
++ [HOW 2026 圆桌访谈：五位重磅嘉宾共话 PostgreSQL 社区未来，PGNexus 平台全球首发](https://blog.csdn.net/xishining/article/details/160593609)
+
++ [守护开源世界的猎犬：ClamAV 软件包介绍](https://blog.csdn.net/2301_79518550/article/details/160510663)
+
++ [游戏引擎Luanti的前世今生与技术解析](https://blog.csdn.net/LcGero/article/details/160525489)
+
++ [碳硅共生文明的理论体系构建与技术伦理实践](https://blog.csdn.net/weixin_50059478/article/details/160596009)
+
++ [防火墙双击热备的工作模式详解](https://blog.csdn.net/qq_38200548/article/details/160561387)
+
++ [A2A、MCP、OPC UA、Modbus：Agentic IoT 控制平面的分层设计](https://blog.csdn.net/zedyer/article/details/160557140)
+
++ [mediasoup中ip与announceAddress配置要点](https://blog.csdn.net/alex0203/article/details/160568028)
+

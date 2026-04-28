@@ -193,3 +193,5 @@
 
 + [尹锡悦夫人金建希涉操纵股价及受贿案二审宣判 获刑4年](https://news.cctv.com/2026/04/28/ARTI8TkGMioK2TyxLiXbwjYj260428.shtml)
 
++ [国际观察：携手构建更高水平具有战略意义的越中命运共同体](https://news.cctv.com/2026/04/28/ARTIqNizehkrmjgCaBV5aKvl260428.shtml)
+
