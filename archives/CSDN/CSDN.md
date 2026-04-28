@@ -193,3 +193,11 @@
 
 + [k8s etcd备份恢复](https://blog.csdn.net/2302_80661243/article/details/160561738)
 
++ [Elasticsearch 评分实战：field_value_factor 自定义评分原理与调优全攻略](https://blog.csdn.net/qq_41840843/article/details/160564896)
+
++ [OMC - 14 MCP 工具服务端：oh-my-claudecode 的中枢神经系统](https://blog.csdn.net/yangshangwei/article/details/160531296)
+
++ [从零到一：用 Taro + React 搭建数据采集小程序](https://blog.csdn.net/A6516565189/article/details/160509414)
+
++ [Spring Boot 整合 PageHelper 实现分页查询](https://blog.csdn.net/ffqws_/article/details/160566333)
+

@@ -41,3 +41,9 @@
 
 + [qwen3.6 27b 本地编码测试](https://www.v2ex.com/t/1208824)
 
++ [现在网上都在说 Agent 自动开发，我还是在对话模式，是不是落后了？](https://www.v2ex.com/t/1209036)
+
++ [兄弟们平常都用什么浏览器？](https://www.v2ex.com/t/1209014)
+
++ [Xiaomi MiMo Token 激励计划](https://www.v2ex.com/t/1209013)
+

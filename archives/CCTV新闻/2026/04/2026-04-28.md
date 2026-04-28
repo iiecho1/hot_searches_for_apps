@@ -173,3 +173,17 @@
 
 + [特朗普：希望白宫记者协会晚宴在“约30天内”重启](https://news.cctv.com/2026/04/28/ARTI8tODRqz95qDspEkR5YnF260428.shtml)
 
++ [中方在核不扩散条约审议大会上驳斥“中国核威胁论”](https://news.cctv.com/2026/04/28/ARTIKeTc9tDRDw2bDOqjJ9fl260428.shtml)
+
++ [记者手记丨感受中马人才培养合作蓬勃脉动](https://news.cctv.com/2026/04/28/ARTI5ugF4mHY8smUFUN7LE00260428.shtml)
+
++ [外交部：日方参拜靖国神社严重践踏历史正义 中方严厉谴责](https://news.cctv.com/2026/04/28/ARTIbtYaPi2xCbFfbodDASX2260428.shtml)
+
++ [德国勃兰登堡日出霞光绚丽](https://photo.cctv.com/2026/04/28/PHOAkVOTrUW5ValdBjzSd24r260428.shtml)
+
++ [日本广岛县一制药厂发生爆炸致5人受伤](https://news.cctv.com/2026/04/28/ARTIF8KyQueh9EnqnPKzryIW260428.shtml)
+
++ [与特朗普说法大不同 美国务卿称伊朗仍保有半数战前导弹库存](https://news.cctv.com/2026/04/28/ARTID072G4Tw1JeinLn1f3ia260428.shtml)
+
++ [伊朗外长发文感谢俄方声援和外交支持](https://news.cctv.com/2026/04/28/ARTIu2dHXoRRarjvT4AGnvX0260428.shtml)
+
