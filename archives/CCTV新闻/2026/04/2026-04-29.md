@@ -165,3 +165,11 @@
 
 + [德国总理：看不出美国在对伊朗战争中有退出策略](https://news.cctv.com/2026/04/29/ARTIro9fV59Gvyqiua1PPhQj260428.shtml)
 
++ [英国下议院否决调查首相动议](https://news.cctv.com/2026/04/29/ARTI6w7XmrLkEDCIoJNfOycY260429.shtml)
+
++ [美国防部正式申请更名为“战争部”](https://news.cctv.com/2026/04/29/ARTI2ugUmQbVxjRE2nFNrQTf260429.shtml)
+
++ [阿联酋能源部长：退出欧佩克对市场影响有限](https://news.cctv.com/2026/04/29/ARTIOpxRcOUMyQHP0jvg8fxQ260429.shtml)
+
++ [美国宣布对35个伊朗相关实体及个人实施制裁](https://news.cctv.com/2026/04/29/ARTIqquXJrGUuxudFFcle50V260429.shtml)
+
