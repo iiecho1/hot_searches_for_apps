@@ -163,3 +163,5 @@
 
 + [世界银行预测今年全球能源价格将大涨24%](https://news.cctv.com/2026/04/29/ARTIeSteFlw981htTSMs8e7o260428.shtml)
 
++ [德国总理：看不出美国在对伊朗战争中有退出策略](https://news.cctv.com/2026/04/29/ARTIro9fV59Gvyqiua1PPhQj260428.shtml)
+
