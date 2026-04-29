@@ -21,3 +21,5 @@
 
 + [做了一个内容极丰富的文字 roguelike 游戏，但是没人付费，问题出在哪？](https://www.v2ex.com/t/1209438)
 
++ [APPLE 为什么没出折叠手机](https://www.v2ex.com/t/1209267)
+

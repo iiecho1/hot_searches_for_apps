@@ -101,3 +101,33 @@
 
 + [Hermes 接入飞书（Feishu/Lark）部署文档](https://blog.csdn.net/m0_61069946/article/details/160563490)
 
++ [深度学习如何重塑三维重建：从任务定义到工程落地全流程解析](https://blog.csdn.net/2403_87969572/article/details/160624697)
+
++ [【HarmonyOS 6.0】Call Service Kit VoIP接口Wearable设备支持详解：从手机到手表，VoIP通话的全场景延伸](https://blog.csdn.net/weixin_74809706/article/details/160253658)
+
++ [深度学习核心：损失函数完全解析 —— 从原理到 PyTorch 实战](https://blog.csdn.net/2503_92624912/article/details/160635854)
+
++ [【腾讯位置服务开发者征文大赛】时空织迹｜Trae Solo+ 腾讯位置服务 航班轨迹航线可视化实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/160534665)
+
++ [【Redis实战篇 | Day04】Lua原子性优化Redis分布式锁：解决线程安全问题](https://blog.csdn.net/chen_si_shang_/article/details/160556908)
+
++ [【AI智能体】阿里云服务器一键部署OpenClaw 对接飞书实战详解](https://blog.csdn.net/zhangcongyi420/article/details/160507288)
+
++ [【花雕动手做】嵌入式 AI Agent 机器人实战：从架构选型到 MimiClaw 与 ESP-Claw 全栈对比](https://blog.csdn.net/weixin_41659040/article/details/160586852)
+
++ [SpringCloud 进阶拓展：分布式事务终极解决方案 Seata AT/TCC 模式全栈实战（含生产级避坑指南）](https://blog.csdn.net/qq_40303030/article/details/159732472)
+
++ [一文弄懂Spring 循环依赖与三级缓存（含三级缓存图解 以及 为什么是三级缓存不是二级缓存）](https://blog.csdn.net/2501_93491346/article/details/160593911)
+
++ [踩过无数坑后，我总结了这份 Linux 权限避坑指南](https://blog.csdn.net/say_fall/article/details/160634957)
+
++ [【文献赏析】2025 年无人机热点回眸](https://blog.csdn.net/qq_59747472/article/details/160628852)
+
++ [轻量级日志模块实现：策略模式 + RAII 的工程化实践](https://blog.csdn.net/nplplus/article/details/160547773)
+
++ [How to store images in SQL Database?](https://blog.csdn.net/allway2/article/details/160502035)
+
++ [Docker从0到1学习](https://blog.csdn.net/2403_88875937/article/details/160380777)
+
++ [AMDGPU驱动性能实战： KFD Queue Quiesce/Restore 机制分析与优化方案探讨](https://blog.csdn.net/shenjunpeng/article/details/160532877)
+
