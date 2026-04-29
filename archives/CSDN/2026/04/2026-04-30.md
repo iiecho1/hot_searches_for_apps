@@ -133,3 +133,5 @@
 
 + [自动化工作流引擎部署与实战：让可视化编排真正落地](https://blog.csdn.net/Pocker_Spades_A/article/details/160548769)
 
++ [04月27日AI每日参考：Sora正式关闭，小米机器人开源，DeepSeek再降价](https://blog.csdn.net/GODYAD/article/details/160545311)
+
