@@ -183,3 +183,9 @@
 
 + [猎聘：2026机器人领域人才供需趋势洞察报告](https://blog.csdn.net/2601_95668167/article/details/160534831)
 
++ [Vibe Coding 时代：LangChain 与 LangGraph 全链路解析](https://blog.csdn.net/2503_91389547/article/details/160410976)
+
++ [HarmonyOS 6（API 23）实战：基于 Face AR 专注度检测与 Body AR 手势互动的“智能互动课堂“教师授课系统](https://blog.csdn.net/u014727709/article/details/148799952)
+
++ [3D成像方式，双目、结构光和ToF介绍和对比](https://blog.csdn.net/qlexcel/article/details/160532997)
+

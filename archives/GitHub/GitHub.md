@@ -27,3 +27,21 @@
 
 + [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
 
++ [warpdotdev/warp](https://github.com/warpdotdev/warp)
+
++ [1jehuang/jcode](https://github.com/1jehuang/jcode)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+
++ [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
+
++ [soxoj/maigret](https://github.com/soxoj/maigret)
+
++ [iv-org/invidious](https://github.com/iv-org/invidious)
+
++ [gorhill/uBlock](https://github.com/gorhill/uBlock)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
