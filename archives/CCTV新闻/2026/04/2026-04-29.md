@@ -179,3 +179,11 @@
 
 + [德国希望同乌克兰加强长期防务合作](https://news.cctv.com/2026/04/29/ARTIq8jwDauTOzW0CtrcBm55260429.shtml)
 
++ [外交部：中方愿同各方继续保持沟通 共同维护全球的能源安全和产供链稳定](https://news.cctv.com/2026/04/29/ARTIy72ifmCC4oMu3JW6dqNx260429.shtml)
+
++ [伊朗东南部发生交通事故致3死10伤](https://news.cctv.com/2026/04/29/ARTIFLRpwakBGyVIn0Z66W2G260429.shtml)
+
++ [加沙地带：流离失所者参观露天艺术展](https://photo.cctv.com/2026/04/29/PHOAIaSn5HevkELt76zkV5Ze260429.shtml)
+
++ [韩国前总统尹锡悦涉妨碍逮捕等案二审宣判 获刑7年](https://news.cctv.com/2026/04/29/ARTIfH3SmNwHd0zoAqpQwnA8260429.shtml)
+

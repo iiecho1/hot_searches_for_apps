@@ -45,3 +45,9 @@
 
 + [大家最近有什么取悦自己的东西分享吗？](https://www.v2ex.com/t/1209218)
 
++ [GoAPIs 中转站开业 🚀 主打稳定，注册送$10 美金额度](https://www.v2ex.com/t/1209249)
+
++ [自己做的 GPT Image 2 生图 支持场景模板了](https://www.v2ex.com/t/1209237)
+
++ [APPLE 为什么没出折叠手机](https://www.v2ex.com/t/1209267)
+
