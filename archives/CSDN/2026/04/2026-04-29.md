@@ -171,3 +171,15 @@
 
 + [【原创】PDF 加密、管控终极工具](https://blog.csdn.net/sensor_WU/article/details/160503404)
 
++ [【AI】【free-claude-code】实战指南：一个代理服务器，让 Claude Code 白嫖任意模型](https://blog.csdn.net/qq_73472828/article/details/160513847)
+
++ [HarmonyOS 6 轻相机应用开发4：物品分类功能实现](https://blog.csdn.net/sjw890821sjw/article/details/160568049)
+
++ [RAGFlow v0.25.0：全新发布，覆盖解析管道、数据源、Agent、语言界面、模型支持与安全修复的全面升级](https://blog.csdn.net/weixin_48502062/article/details/160533413)
+
++ [【腾讯位置服务开发者征文大赛】基于飞书 CLI + 腾讯位置的科研与产业地理情报可视化 Skill](https://blog.csdn.net/lwcwam/article/details/160597026)
+
++ [Linux Java前后端项目 企业级0-1完整部署手册](https://blog.csdn.net/weixin_57800914/article/details/160597971)
+
++ [猎聘：2026机器人领域人才供需趋势洞察报告](https://blog.csdn.net/2601_95668167/article/details/160534831)
+
