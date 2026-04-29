@@ -189,3 +189,13 @@
 
 + [3D成像方式，双目、结构光和ToF介绍和对比](https://blog.csdn.net/qlexcel/article/details/160532997)
 
++ [【Agent】Openclaw架构（Gateway|subagent|工具过滤|Sandbox）](https://blog.csdn.net/qq_35812205/article/details/160593084)
+
++ [KingbaseES数据库设计规范与SQL开发最佳实践](https://blog.csdn.net/qq_57761637/article/details/160604744)
+
++ [HENGSHI SENSE 6.2 架构全景解析：Data Agent、指标引擎与Headless语义层的工程实现](https://blog.csdn.net/zandy1011/article/details/160603157)
+
++ [HarmonyOS 6（API 23）实战：基于 Face AR 疼痛评估与 Body AR 姿态追踪的“智能康复训练助手“](https://blog.csdn.net/u014727709/article/details/134326176)
+
++ [Hermes 接入飞书（Feishu/Lark）部署文档](https://blog.csdn.net/m0_61069946/article/details/160563490)
+
