@@ -127,3 +127,17 @@
 
 + [Cangjie 1.1.0 正式发布，支持 Android/iOS 跨平台运行，中心仓正式上线 | STS Beta 测试活动获奖名单公示](https://blog.csdn.net/pl_lab_001/article/details/160558338)
 
++ [【HarmonyOS 6.0】AVSession Kit 新增私有数据发送能力详解](https://blog.csdn.net/weixin_74809706/article/details/160253315)
+
++ [当AI开始替你上班：大模型Agent如何重塑工作流自动化](https://blog.csdn.net/IRpickstars/article/details/160540576)
+
++ [【腾讯位置服务开发者征文大赛】时空织迹｜Trae Solo+ 腾讯位置服务 航班轨迹航线可视化实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/160534665)
+
++ [AMDGPU驱动性能实战： KFD Queue Quiesce/Restore 机制分析与优化方案探讨](https://blog.csdn.net/shenjunpeng/article/details/160532877)
+
++ [ACL访问控制列表：网络安全的守护神](https://blog.csdn.net/2402_88096536/article/details/160600183)
+
++ [DevPocket —— 一个纯静态的开发者口袋工具箱 JSON 格式化 日期时间工具 Base64工具 应有尽有](https://blog.csdn.net/weixin_56334307/article/details/160601861)
+
++ [Nginx 反向代理与负载均衡实战：6 个生产环境必备配置模板](https://blog.csdn.net/dongyao243512842/article/details/160566238)
+

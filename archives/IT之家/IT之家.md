@@ -25,3 +25,13 @@
 
 + [加速普及“液态玻璃”：苹果 App Store 上架应用今起要求使用 iOS 26 SDK](https://m.ithome.com/html/944522.htm)
 
++ [消息称“苹果 20 周年版 iPhone”四曲面设计专注视觉观感，利用光学折射实现“液态玻璃”效果](https://m.ithome.com/html/944145.htm)
+
++ [iPhone Ultra 折叠屏手机与 MacBook Ultra 笔记本在列，消息称苹果计划明年推出两款超高端新品](https://m.ithome.com/html/944192.htm)
+
++ [比亚迪第二代腾势 D9 正式上市，35.98 万-46.98 万元](https://m.ithome.com/html/944165.htm)
+
++ [消息称小米显示器中高端型号将迎来涨价](https://m.ithome.com/html/944175.htm)
+
++ [1999 元起：vivo Y600 Pro 手机发布，搭载 10200mAh 耐低温超大电池、6.83 英寸 1.5K 屏](https://m.ithome.com/html/944134.htm)
+

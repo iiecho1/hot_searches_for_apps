@@ -21,3 +21,17 @@
 
 + [能一起给本地部署的开源模型做个适配的 coding agent 吗？我憋了口气](https://www.v2ex.com/t/1209195)
 
++ [我开始使用呼吸机睡觉了](https://www.v2ex.com/t/1209141)
+
++ [公司买 api 一般是官 key 还是中转？](https://www.v2ex.com/t/1209118)
+
++ [准备自己搭一套全屋 WiFi，方案基本确定，但在软路由和部署方式上有点纠结，想请教下有经验的朋友](https://www.v2ex.com/t/1209061)
+
++ [[源头工厂] 顶级万号 ProMAX， $30 刀 Codex/GPT5 免费送，企业级稳定！](https://www.v2ex.com/t/1209209)
+
++ [你们会孤独吗？](https://www.v2ex.com/t/1209105)
+
++ [机场的私有客户端， win 系统 defender 疯狂报病毒，拒下载安装，是有毒吗？](https://www.v2ex.com/t/1209027)
+
++ [Copilot 年度计划凉了：不再更新功能，我已申请退款](https://www.v2ex.com/t/1209025)
+
