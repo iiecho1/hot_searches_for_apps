@@ -161,3 +161,7 @@
 
 + [以军在黎巴嫩“积极行动” 两周打死46名武装人员](https://news.cctv.com/2026/04/26/ARTIupN6uwZxdMEYpL8jXlju260426.shtml)
 
++ [伊朗货币里亚尔汇率跌至历史新低](https://news.cctv.com/2026/04/30/ARTIWiShQ6VzxNWKDtUwuzJ2260429.shtml)
+
++ [4月份欧元区经济景气指数大幅下滑](https://news.cctv.com/2026/04/30/ARTIAd6haJakDCsVOpLDJSiU260429.shtml)
+

@@ -131,3 +131,5 @@
 
 + [AMDGPU驱动性能实战： KFD Queue Quiesce/Restore 机制分析与优化方案探讨](https://blog.csdn.net/shenjunpeng/article/details/160532877)
 
++ [自动化工作流引擎部署与实战：让可视化编排真正落地](https://blog.csdn.net/Pocker_Spades_A/article/details/160548769)
+
