@@ -173,3 +173,9 @@
 
 + [美国宣布对35个伊朗相关实体及个人实施制裁](https://news.cctv.com/2026/04/29/ARTIqquXJrGUuxudFFcle50V260429.shtml)
 
++ [美媒称特朗普要求准备长期封锁伊朗](https://news.cctv.com/2026/04/29/ARTIKqJ4GT2CwoYHO1SMx6BL260429.shtml)
+
++ [广西河池凤山突发岩石崩塌 44户130人紧急转移](https://news.cctv.com/2026/04/29/ARTIHMqPn4xiF0s6nKkhK5d9260429.shtml)
+
++ [德国希望同乌克兰加强长期防务合作](https://news.cctv.com/2026/04/29/ARTIq8jwDauTOzW0CtrcBm55260429.shtml)
+
