@@ -135,3 +135,9 @@
 
 + [Hermes Web UI vs OpenClaw Dashboard：两大 AI Agent 管理界面深度对比](https://blog.csdn.net/hermes_han/article/details/160627145)
 
++ [【深度解析】Open Design：用本地优先架构重塑 AI UI 生成工作流](https://blog.csdn.net/weixin_45888077/article/details/160637010)
+
++ [OpenCode + Oh-My-OpenCode 配置指南：集成 GitHub Copilot 模型与 Java LSP (jdtls)](https://blog.csdn.net/qq_61829974/article/details/160625788)
+
++ [麒麟系统安全基线检查与自动加固脚本](https://blog.csdn.net/weixin_42996160/article/details/160603243)
+

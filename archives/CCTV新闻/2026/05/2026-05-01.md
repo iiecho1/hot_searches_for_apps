@@ -159,3 +159,7 @@
 
 + [拒绝与以色列直接谈判 黎真主党领导人提出五点要求](https://news.cctv.com/2026/04/27/ARTIg8nLScx2Sbr0QeCQv9FV260427.shtml)
 
++ [伊朗总统：伊朗对美国完全失去信任](https://news.cctv.com/2026/05/01/ARTI88vc01558mZaJXZJ0Oei260430.shtml)
+
++ [美国会众议院通过国土安全部拨款法案](https://news.cctv.com/2026/05/01/ARTIFnjASyjURw3MlGFhaH6O260501.shtml)
+
