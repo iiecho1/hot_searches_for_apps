@@ -167,3 +167,9 @@
 
 + [国际足联主席：伊朗将参加世界杯 并将在美国比赛](https://news.cctv.com/2026/05/01/ARTIeMpe43mxVKmFZts9Oj2z260501.shtml)
 
++ [特朗普称已“摧毁”伊朗核能力 仅少数人知晓谈判实际进展](https://news.cctv.com/2026/05/01/ARTIr96Hdnn0KvwxYf89q0UE260501.shtml)
+
++ [11国外长发表联合声明 谴责以色列袭击“全球坚韧船队”](https://news.cctv.com/2026/05/01/ARTIYxaop3h7BfDNJ1CiytF6260501.shtml)
+
++ [伦敦持刀袭击事件后 英国上调恐怖威胁等级](https://news.cctv.com/2026/05/01/ARTIteMPUSQp5G5iEeombsd3260501.shtml)
+

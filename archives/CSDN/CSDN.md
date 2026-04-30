@@ -147,3 +147,5 @@
 
 + [《OpenClaw (Docker手工部署版) 终极避坑与实战指南》](https://blog.csdn.net/xgQ4MCNYG/article/details/160624008)
 
++ [OpenClaw（养龙虾） +关于Hadoop hive的Skills（Cloudera CDH、CDP）](https://blog.csdn.net/Rs8HCS20v/article/details/160632437)
+
