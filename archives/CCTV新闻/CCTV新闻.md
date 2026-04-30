@@ -163,3 +163,7 @@
 
 + [美国会众议院通过国土安全部拨款法案](https://news.cctv.com/2026/05/01/ARTIFnjASyjURw3MlGFhaH6O260501.shtml)
 
++ [美防长称对伊朗军事行动“60天期限”已因停火“中止”](https://news.cctv.com/2026/05/01/ARTIKIas6FdumxCyzti1GQOq260501.shtml)
+
++ [国际足联主席：伊朗将参加世界杯 并将在美国比赛](https://news.cctv.com/2026/05/01/ARTIeMpe43mxVKmFZts9Oj2z260501.shtml)
+

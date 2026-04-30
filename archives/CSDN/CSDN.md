@@ -141,3 +141,9 @@
 
 + [麒麟系统安全基线检查与自动加固脚本](https://blog.csdn.net/weixin_42996160/article/details/160603243)
 
++ [【多无人机协同目标运输任务】多无人机协同目标运输任务中的路径规划与动态控制研究（Matlab代码实现） ](https://blog.csdn.net/Yan_she_He/article/details/160672938)
+
++ [AutoCAD .NET 二次开发：深入理解 EntityJig 的工作原理与正确实现](https://blog.csdn.net/ultramand/article/details/160659188)
+
++ [《OpenClaw (Docker手工部署版) 终极避坑与实战指南》](https://blog.csdn.net/xgQ4MCNYG/article/details/160624008)
+
