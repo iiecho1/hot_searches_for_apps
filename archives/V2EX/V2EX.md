@@ -51,3 +51,9 @@
 
 + [我的第一个 Linux 内核补丁：从一个 TCP Listener 的 Bug 说起（大家五一节前快乐）](https://www.v2ex.com/t/1209526)
 
++ [新上 API 中转站 zerofra.me，注册送 $10 额度，希望搞一波试运行](https://www.v2ex.com/t/1209542)
+
++ [小米股票跌倒 29 了，快补仓](https://www.v2ex.com/t/1209564)
+
++ [昨天刷抖音有个伙计说用 vibecoding 赚了 1000 万一年 ？](https://www.v2ex.com/t/1209533)
+

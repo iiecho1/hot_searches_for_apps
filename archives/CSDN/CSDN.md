@@ -185,3 +185,19 @@
 
 + [VisDrone2019-DET 无人机小目标检测数据集](https://blog.csdn.net/m0_61028090/article/details/160602008)
 
++ [【西瓜带你学Kafka | 第三期】Kafka从消息生产到集群管理的完整链路（文含图解）](https://blog.csdn.net/2501_93491346/article/details/160634683)
+
++ [HarmonyOS 6（API 23）实战：基于悬浮导航与沉浸光感的“数据星河“——PC端沉浸式3D数据可视化工作台](https://blog.csdn.net/u014727709/article/details/132168210)
+
++ [手机AI怎么导出pdf](https://blog.csdn.net/huangjian83/article/details/160525642)
+
++ [【VarifocalNet（VFNet）论文阅读】：IoU-aware稠密目标检测，把定位质量塞进分类得分](https://blog.csdn.net/weixin_46200189/article/details/160595246)
+
++ [任务77：Flutter 鸿蒙应用视频录制功能实战：视频录制+录制控制+视频编辑，打造完整视频处理能力](https://blog.csdn.net/a2736484/article/details/160636666)
+
++ [Docker与K8s核心解析：共同性、差异性及实战适配指南](https://blog.csdn.net/EAlReport/article/details/160626077)
+
++ [2026编程显示器推荐：明基RD270Q的2K144Hz有多实用？](https://blog.csdn.net/2501_94325940/article/details/160557769)
+
++ [割草机器人行业市场分析报告](https://blog.csdn.net/sheji105/article/details/160600717)
+

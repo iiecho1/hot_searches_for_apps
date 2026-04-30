@@ -181,3 +181,13 @@
 
 + [阿根廷内阁首席部长否认非法敛财](https://news.cctv.com/2026/04/30/ARTIJkm369Q7wFPXLwIOPHWw260430.shtml)
 
++ [芬兰近25年气温上升速度翻倍](https://news.cctv.com/2026/04/30/ARTI2QhE4OlWjS6jglSNYnex260430.shtml)
+
++ [中国驻比利时大使馆提醒中国公民妥善应对布鲁塞尔全国性罢工影响](https://news.cctv.com/2026/04/30/ARTIDjUFBL4ND1QiBI98OppI260430.shtml)
+
++ [缅甸宣布特赦1500余名囚犯](https://news.cctv.com/2026/04/30/ARTIyjDRCs27xHekuD0bj82X260430.shtml)
+
++ [美军拟以高超音速导弹打击伊朗 系首次实战部署](https://news.cctv.com/2026/04/30/ARTIm5eX4t0k6OCZyCtY1l4H260430.shtml)
+
++ [中国代表出席《不扩散核武器条约》第十一次审议大会阐述中方主张](https://news.cctv.com/2026/04/30/ARTIJXH7YR3bbemXFZeihd9O260430.shtml)
+
