@@ -227,3 +227,9 @@
 
 + [Vue3——UI组件库Element Plus（二）](https://blog.csdn.net/cold___play/article/details/160631915)
 
++ [AI时代办公格式的演进：PPT与Word的替代已现，Excel将走向何方？](https://blog.csdn.net/qq_36710118/article/details/160569034)
+
++ [浅聊ReAct：Agent 的执行框架](https://blog.csdn.net/2302_80706750/article/details/160637645)
+
++ [Linux个人心得29（k8s的一些个人理解）](https://blog.csdn.net/2501_94830992/article/details/160635050)
+

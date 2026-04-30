@@ -33,3 +33,15 @@
 
 + [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
+
++ [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+
++ [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs)
+
++ [browserbase/skills](https://github.com/browserbase/skills)
+

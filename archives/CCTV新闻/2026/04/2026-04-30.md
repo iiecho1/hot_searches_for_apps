@@ -195,3 +195,9 @@
 
 + [韩国京畿道一公寓起火致2死6伤](https://news.cctv.com/2026/04/30/ARTIN0r84NsVIj3lRuBYSgJp260430.shtml)
 
++ [中国驻宋卡总领馆提醒中国游客警惕“跑路团”](https://news.cctv.com/2026/04/30/ARTIptijWloZAX74XilVK57V260430.shtml)
+
++ [泽连斯基：已安排乌代表与美方对接 沟通俄短期停火提议](https://news.cctv.com/2026/04/30/ARTIMM6inEmHiJ9hZYFa685r260430.shtml)
+
++ [伊朗最高领袖：波斯湾和霍尔木兹海峡正在开启新的篇章](https://news.cctv.com/2026/04/30/ARTIL7R771CvPViNwIXhPrZW260430.shtml)
+
