@@ -23,3 +23,15 @@
 
 + [APPLE 为什么没出折叠手机](https://www.v2ex.com/t/1209267)
 
++ [关于 xiaomi MiMo Token Plan 的套路我一一说下](https://www.v2ex.com/t/1209476)
+
++ [想不明白为什么城市里有那么多人喜欢开快车。](https://www.v2ex.com/t/1209275)
+
++ [为啥短信还在收费](https://www.v2ex.com/t/1209312)
+
++ [盲猜小米 100T 计划，是因为定价问题导致没人用，一堆卡只能空跑，训练数据也没人贡献](https://www.v2ex.com/t/1209334)
+
++ [27 岁毕业，现在也终于 30 了。](https://www.v2ex.com/t/1209272)
+
++ [爱 cc 的人都是什么类型的人啊](https://www.v2ex.com/t/1209394)
+

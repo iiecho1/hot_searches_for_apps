@@ -165,3 +165,5 @@
 
 + [4月份欧元区经济景气指数大幅下滑](https://news.cctv.com/2026/04/30/ARTIAd6haJakDCsVOpLDJSiU260429.shtml)
 
++ [特朗普称正在研究削减驻德美军可能性](https://news.cctv.com/2026/04/30/ARTId92cxCHPfy00jM10W9XN260430.shtml)
+

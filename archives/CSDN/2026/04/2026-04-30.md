@@ -135,3 +135,13 @@
 
 + [04月27日AI每日参考：Sora正式关闭，小米机器人开源，DeepSeek再降价](https://blog.csdn.net/GODYAD/article/details/160545311)
 
++ [KES数据库性能优化实战](https://blog.csdn.net/weixin_43151418/article/details/160634876)
+
++ [搭建 Hyperledger Fabric 环境教程](https://blog.csdn.net/2401_87197198/article/details/160593367)
+
++ [【2026年4月26日 AI前沿快讯】国产大模型全面超车、GPT-6即将上线、AI搜索彻底改写行业格局](https://blog.csdn.net/2601_95533136/article/details/160522015)
+
++ [CentOS 9（VMware NAT 模式）网络修复完整文档](https://blog.csdn.net/weixin_44650527/article/details/160557252)
+
++ [IP地址查询完全指南：轻松查找任何IP的地理位置](https://blog.csdn.net/treesforest/article/details/160566198)
+
