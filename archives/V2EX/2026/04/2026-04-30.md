@@ -57,3 +57,7 @@
 
 + [昨天刷抖音有个伙计说用 vibecoding 赚了 1000 万一年 ？](https://www.v2ex.com/t/1209533)
 
++ [现在写中文的博客还有意义吗](https://www.v2ex.com/t/1209554)
+
++ [证据表明 Chatgpt 其实是诡秘之主](https://www.v2ex.com/t/1209545)
+

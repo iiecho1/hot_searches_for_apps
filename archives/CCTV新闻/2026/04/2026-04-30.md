@@ -191,3 +191,7 @@
 
 + [中国代表出席《不扩散核武器条约》第十一次审议大会阐述中方主张](https://news.cctv.com/2026/04/30/ARTIJXH7YR3bbemXFZeihd9O260430.shtml)
 
++ [一移民船在利比亚附近海域被困致17人死亡](https://news.cctv.com/2026/04/30/ARTII6lQZcG7LIAAnSw5l9rW260430.shtml)
+
++ [韩国京畿道一公寓起火致2死6伤](https://news.cctv.com/2026/04/30/ARTIN0r84NsVIj3lRuBYSgJp260430.shtml)
+

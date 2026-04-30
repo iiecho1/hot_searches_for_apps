@@ -31,3 +31,17 @@
 
 + [微信 iOS 版 8.0.72 最新官方正式版下载发布](https://m.ithome.com/html/945186.htm)
 
++ [2.98 万元，张雪机车 MX250 摩托车发布](https://m.ithome.com/html/945293.htm)
+
++ [华为公布支持 Wi-Fi 7+ 手机 / 平板最新设备清单，需升级 HarmonyOS 6 及以上版本](https://m.ithome.com/html/945262.htm)
+
++ [古尔曼：iPhone 18 Pro / Max 部分相机硬件将迎苹果历史上最大规模升级](https://m.ithome.com/html/945253.htm)
+
++ [华为鸿蒙“龙虾”小艺 Claw 迎重磅更新：上线“自进化”能力、接入 DeepSeek V4](https://m.ithome.com/html/945229.htm)
+
++ [小米之家：2026 五一假期可到店免费领取“奥利奥云朵蛋糕”，单店活动期间至少提供 12 个](https://m.ithome.com/html/945185.htm)
+
++ [大众 Polo 进入纯电时代：ID.Polo 正式发布，2.5 万欧元起售、可选按摩座椅](https://m.ithome.com/html/945178.htm)
+
++ [逆版本而行：华为 nova 15 系列手机开启五一全系 100 元限时优惠活动，叠加国补后 2030.65 元起](https://m.ithome.com/html/945267.htm)
+
