@@ -201,3 +201,17 @@
 
 + [伊朗最高领袖：波斯湾和霍尔木兹海峡正在开启新的篇章](https://news.cctv.com/2026/04/30/ARTIL7R771CvPViNwIXhPrZW260430.shtml)
 
++ [乌克兰将战时状态和总动员令再延长90天](https://news.cctv.com/2026/04/30/ARTIxin6RgtYNZHSaXZUG7Bb260430.shtml)
+
++ [俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动](https://news.cctv.com/2026/04/30/ARTIu2i6WxKmlJGIpFF92JoI260430.shtml)
+
++ [法国一季度经济增长陷入停滞](https://news.cctv.com/2026/04/30/ARTII6acJMRtIIOAbimR6WXB260430.shtml)
+
++ [佩斯科夫：普京尚未就胜利日暂时停火具体时间作出决定](https://news.cctv.com/2026/04/30/ARTIkwqY0oe6KzzObubK02en260430.shtml)
+
++ [欧盟统计局：欧元区2026年4月通胀率预计为3%](https://news.cctv.com/2026/04/30/ARTIinRwQBmDlr5UvVq5MDKd260430.shtml)
+
++ [韩国特检组就尹锡悦涉嫌妨碍逮捕案二审结果提出抗诉](https://news.cctv.com/2026/04/30/ARTI6YijkCAvzgsxsQGS78Gp260430.shtml)
+
++ [黎巴嫩超100万民众将面临严重粮食不安全状况](https://news.cctv.com/2026/04/30/ARTIu8R68129C9n8e4F4XjBn260430.shtml)
+

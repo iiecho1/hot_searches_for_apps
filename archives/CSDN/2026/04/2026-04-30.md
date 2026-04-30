@@ -233,3 +233,13 @@
 
 + [Linux个人心得29（k8s的一些个人理解）](https://blog.csdn.net/2501_94830992/article/details/160635050)
 
++ [嵌入模型（Embedding）彻底吃透：原理、选型、接入与 RAG ](https://blog.csdn.net/2302_79376097/article/details/159586612)
+
++ [GitHub 热榜项目 - 日榜(2026-04-29)](https://blog.csdn.net/u014390502/article/details/160612100)
+
++ [向量引擎接入 GPT Image 2、deepseek v4 和 GPT5.5：api key 别乱配，AI 真要从聊天变干活了](https://blog.csdn.net/QQ2022100300/article/details/160662761)
+
++ [AR景区导览解决方案避坑指令+成本控制](https://blog.csdn.net/2401_87482700/article/details/160627345)
+
++ [软件系统中的熵增定律：技术债的形成与重构的艺术](https://blog.csdn.net/qq_53139964/article/details/160636732)
+
