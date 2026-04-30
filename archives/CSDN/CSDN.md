@@ -101,3 +101,37 @@
 
 + [本地部署 Qwen2.5-1.5B-Instruct 全流程教程｜Ollama + 魔搭双方案](https://blog.csdn.net/F_leshy_/article/details/160637162)
 
++ [【HID】规范精讲[6]: 蓝牙HID系统设计指南——从合规到体验的全维度要求](https://blog.csdn.net/weixin_37800531/article/details/160482351)
+
++ [【花雕动手做】基于ESP32-S3打造低成本具身智能体：机器人全栈思路与实战指南](https://blog.csdn.net/weixin_41659040/article/details/160560297)
+
++ [移植 vcpkg 到鸿蒙 PC：vcpkg-tool 交叉编译与实践手记](https://blog.csdn.net/qq8864/article/details/160667572)
+
++ [DolphinDB在工业物联网中的优势](https://blog.csdn.net/sinat_41617212/article/details/160599952)
+
++ [【必背】2026年 {案例 & 论文} 核心内容 - 2](https://blog.csdn.net/weixin_42115157/article/details/160610670)
+
++ [操作系统与高性能 IO：零拷贝、一次读 IO、CPU 缓存与伪共享](https://blog.csdn.net/weixin_41165867/article/details/159954917)
+
++ [KES数据库性能优化实战](https://blog.csdn.net/weixin_43151418/article/details/160634876)
+
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与Face AR的“音律工坊“——PC端沉浸式音乐创作与编曲工作站](https://blog.csdn.net/u014727709/article/details/148322161)
+
++ [企业级门户网站设计与实现：基于SpringBoot + Vue3的全栈解决方案（Day 9）](https://blog.csdn.net/jackeydengjun/article/details/160636816)
+
++ [SpringCloud 进阶拓展：分布式事务终极解决方案 Seata AT/TCC 模式全栈实战（含生产级避坑指南）](https://blog.csdn.net/qq_40303030/article/details/159732472)
+
++ [学术论文三线表制作全攻略：Word/WPS/LaTeX 一站式搞定](https://blog.csdn.net/qq_74204532/article/details/160627830)
+
++ [Docker从0到1学习](https://blog.csdn.net/2403_88875937/article/details/160380777)
+
++ [Celery介绍（基于Python实现的分布式异步任务队列，用于处理耗时任务或后台作业）redis、异步队列、依赖中间件、依赖Broker、Flower工具、apply_async()](https://blog.csdn.net/Dontla/article/details/160641493)
+
++ [SimpleFOC源码学习09(v2.3.2) - 磁编码器MagneticSensorSPI.cpp与MagneticSensorSPI.h](https://blog.csdn.net/wallace89/article/details/160625353)
+
++ [《The Design of Design》阅读笔记](https://blog.csdn.net/weixin_43258309/article/details/160619351)
+
++ [零成本使用 Claude Code + 硅基流动：在 VSCode 中白嫖 DeepSeek-V4-Flash、GLM-5.1 等优质模型](https://blog.csdn.net/m0_72267445/article/details/160634642)
+
++ [Hermes Web UI vs OpenClaw Dashboard：两大 AI Agent 管理界面深度对比](https://blog.csdn.net/hermes_han/article/details/160627145)
+

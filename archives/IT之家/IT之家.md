@@ -25,3 +25,27 @@
 
 + [微信 iOS 版 8.0.72 最新官方正式版下载发布](https://m.ithome.com/html/945186.htm)
 
++ [2.98 万元，张雪机车 MX250 摩托车发布](https://m.ithome.com/html/945293.htm)
+
++ [古尔曼：iPhone 18 Pro / Max 部分相机硬件将迎苹果历史上最大规模升级](https://m.ithome.com/html/945253.htm)
+
++ [华为公布支持 Wi-Fi 7+ 手机 / 平板最新设备清单，需升级 HarmonyOS 6 及以上版本](https://m.ithome.com/html/945262.htm)
+
++ [逆版本而行：华为 nova 15 系列手机开启五一全系 100 元限时优惠活动，叠加国补后 2030.65 元起](https://m.ithome.com/html/945267.htm)
+
++ [“120W”只是商品或型号名称？央视曝光充电头文字游戏套路](https://m.ithome.com/html/945387.htm)
+
++ [小米电竞鼠标 2 官宣，搭载全新原相旗舰传感器](https://m.ithome.com/html/945302.htm)
+
++ [比亚迪李云飞：仰望 U9 Xtreme 单台售价超两千万元，是本届北京车展上成交的最贵车型](https://m.ithome.com/html/945243.htm)
+
++ [8E5 大屏旗舰手机被曝暂定 5 月下旬，预计为小米 17 Max](https://m.ithome.com/html/945312.htm)
+
++ [消息称比亚迪天神之眼 C 车型将从百度地图切换为高德地图](https://m.ithome.com/html/945277.htm)
+
++ [OPPO Pad Mini 小平板首销：8.8 英寸 2.5K 屏、279g 重、第五代骁龙 8，售价 3699 元起](https://m.ithome.com/html/945256.htm)
+
++ [消息称极越汽车合并重整获受理](https://m.ithome.com/html/945396.htm)
+
++ [Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限](https://m.ithome.com/html/945297.htm)
+
