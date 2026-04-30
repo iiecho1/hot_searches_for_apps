@@ -35,3 +35,19 @@
 
 + [爱 cc 的人都是什么类型的人啊](https://www.v2ex.com/t/1209394)
 
++ [[bytecat] 逆向 Claude Opus0.1 倍率，中奖率 20%。注册送 500wtoken，叠加倍率可达 5000w~](https://www.v2ex.com/t/1209550)
+
++ [又是恐婚恐育的一天，求 v 站网友骂醒](https://www.v2ex.com/t/1209498)
+
++ [工作这些年，除了钱，你还沉淀下来了什么？](https://www.v2ex.com/t/1209536)
+
++ [失业后去热门景区附近卖烤肠，能轻松月入过万吗？](https://www.v2ex.com/t/1209548)
+
++ [鼻中隔偏曲术后归来，后悔没早点做](https://www.v2ex.com/t/1209534)
+
++ [我自己的电脑是 5070Ti，总感觉跑一些模型算力不够](https://www.v2ex.com/t/1209353)
+
++ [可能是体验最好的 Mac 端 Android 屏幕镜像+文件传输工具： AndDrive（纯免费，不送码）](https://www.v2ex.com/t/1209366)
+
++ [我的第一个 Linux 内核补丁：从一个 TCP Listener 的 Bug 说起（大家五一节前快乐）](https://www.v2ex.com/t/1209526)
+

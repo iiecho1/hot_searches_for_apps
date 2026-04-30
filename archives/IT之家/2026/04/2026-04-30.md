@@ -25,3 +25,9 @@
 
 + [工信部：截至三月底，搭载基于开源的鸿蒙操作系统手机总量突破 5500 万台](https://m.ithome.com/html/944740.htm)
 
++ [为什么有些列车车票“开售即候补”？国铁集团回应](https://m.ithome.com/html/945231.htm)
+
++ [高德地图 &#215; 迪迦奥特曼达成联动，堵车时可以释放哉佩利敖光线](https://m.ithome.com/html/945232.htm)
+
++ [微信 iOS 版 8.0.72 最新官方正式版下载发布](https://m.ithome.com/html/945186.htm)
+

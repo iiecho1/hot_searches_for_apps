@@ -145,3 +145,43 @@
 
 + [IP地址查询完全指南：轻松查找任何IP的地理位置](https://blog.csdn.net/treesforest/article/details/160566198)
 
++ [从零搭建 PostgreSQL CDC：Debezium 嵌入式引擎实战指南](https://blog.csdn.net/lilinhai548/article/details/160637893)
+
++ [【Flash Attention】原理深度解析：IO-Aware 算法为什么能快 3 倍、省 10 倍显存](https://blog.csdn.net/qq_73472828/article/details/160530543)
+
++ [【Agent】Openclaw架构（Gateway|subagent|工具过滤|Sandbox）](https://blog.csdn.net/qq_35812205/article/details/160593084)
+
++ [掌握KingbaseES的ksql工具：命令行操作数据库的效率秘诀](https://blog.csdn.net/qq_57761637/article/details/160636667)
+
++ [Linux Java前后端项目 企业级0-1完整部署手册](https://blog.csdn.net/weixin_57800914/article/details/160597971)
+
++ [手机远程控制电脑哪家强？四款App横测：各类功能大比拼](https://blog.csdn.net/beautifulmemory/article/details/160636685)
+
++ [微信小程序中调用豆包【免费】模型，实现小程序版ai助手完整版](https://blog.csdn.net/qq_41930094/article/details/160587731)
+
++ [基于微信小程序的宠物服务系统【uniapp+springboot+vue】](https://blog.csdn.net/2301_78335941/article/details/160637807)
+
++ [基于密集型复杂城市场景下求解无人机三维路径规划的Q-learning 算法研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/160642538)
+
++ [进程概念与进程状态_Linux](https://blog.csdn.net/liuyao_xianhui/article/details/160509897)
+
++ [KingbaseES高可用最佳应用实践——全架构部署、故障自愈与运维规范](https://blog.csdn.net/lrq13965748542/article/details/160635426)
+
++ [【微服务即时通讯】客户端通信连接](https://blog.csdn.net/2301_80224556/article/details/160600822)
+
++ [Vue3 + Electron + OpenHarmony 跨平台实战：从架构设计到 Markdown 编辑器完整实现](https://blog.csdn.net/2401_83963227/article/details/160565503)
+
++ [大模型Prompt-Tuning技术进阶 - 完整总结](https://blog.csdn.net/2301_76243776/article/details/160601495)
+
++ [【flutter for open harmony】第三方库Flutter 鸿蒙版 搜索功能 实战指南（适配 1.0.0）✨](https://blog.csdn.net/keeen4444/article/details/160643958)
+
++ [Flutter 集成测试框架在 OpenHarmony 上的实现指南](https://blog.csdn.net/a2736484/article/details/160653319)
+
++ [SAP Business Partner WebService 使用问题大全](https://blog.csdn.net/LoveSolar/article/details/160624195)
+
++ [2026年AI辅助STM32 IoT实战：从串口到云平台全指南](https://blog.csdn.net/weixin_43801219/article/details/160563421)
+
++ [【深度】GPT-5.5 重新定义编程、Copilot 转向 Token 计费、大模型进入“雅尔塔时刻“——2026 年 4 月 28 日 AI 编程三大变局](https://blog.csdn.net/cookies404/article/details/160565392)
+
++ [VisDrone2019-DET 无人机小目标检测数据集](https://blog.csdn.net/m0_61028090/article/details/160602008)
+

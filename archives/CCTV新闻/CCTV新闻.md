@@ -167,3 +167,17 @@
 
 + [特朗普称正在研究削减驻德美军可能性](https://news.cctv.com/2026/04/30/ARTId92cxCHPfy00jM10W9XN260430.shtml)
 
++ [世卫组织：美国仍欠着会费 也看不出他们会缴](https://news.cctv.com/2026/04/30/ARTIGd2Rjp8tNwaeePNsWumy260430.shtml)
+
++ [印度中央邦发生一起交通事故 已致12人死亡](https://news.cctv.com/2026/04/30/ARTIR37FYl1CzlETzZWmtCP5260430.shtml)
+
++ [通讯｜“我们自己的村庄也可以变得更好”——中国乡村振兴经验助力印尼村庄换新颜](https://news.cctv.com/2026/04/30/ARTI5XpUn23BqApehDnkFxwG260430.shtml)
+
++ [5月1日起，中国将对53个非洲建交国全面实施零关税举措——“为非洲大陆发展开拓新空间”](https://news.cctv.com/2026/04/30/ARTIlqhTwDbr4MwvYJCGt0Z8260430.shtml)
+
++ [美联航客机与疑似无人机发生碰撞](https://news.cctv.com/2026/04/30/ARTInrwJ4We9pzoLrVqVxYwM260430.shtml)
+
++ [美官员称“福特”号航母将于近日撤离中东返美](https://news.cctv.com/2026/04/30/ARTIhjJO0MUgIH8doqh9pfhx260430.shtml)
+
++ [阿根廷内阁首席部长否认非法敛财](https://news.cctv.com/2026/04/30/ARTIJkm369Q7wFPXLwIOPHWw260430.shtml)
+
