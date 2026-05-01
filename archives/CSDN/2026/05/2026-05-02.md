@@ -137,3 +137,5 @@
 
 + [Linux个人心得29（k8s的一些个人理解）](https://blog.csdn.net/2501_94830992/article/details/160635050)
 
++ [电脑 / 硬盘丢失即泄密？信创与金融必须提高警惕，部署全盘加密](https://blog.csdn.net/lygtian/article/details/160621695)
+

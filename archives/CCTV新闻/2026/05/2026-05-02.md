@@ -159,3 +159,9 @@
 
 + [外交部：中方愿同各方继续保持沟通 共同维护全球的能源安全和产供链稳定](https://news.cctv.com/2026/04/29/ARTIy72ifmCC4oMu3JW6dqNx260429.shtml)
 
++ [伊朗议会议长：伊朗将迎来新的建设阶段](https://news.cctv.com/2026/05/02/ARTI16TBnyREdNwwUCLxmTRr260502.shtml)
+
++ [特朗普威胁提高欧盟汽车进口关税 欧盟：不可接受](https://news.cctv.com/2026/05/02/ARTIrvsAyzSrvvtvSofLS2gf260502.shtml)
+
++ [白宫致函美国国会 称与伊朗的敌对行动已经“结束”](https://news.cctv.com/2026/05/02/ARTI7IZ3gtNbvtQw0B68S0FK260502.shtml)
+
