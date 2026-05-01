@@ -135,3 +135,5 @@
 
 + [【maaath】Flutter for OpenHarmony 媒体工具应用开发实战](https://blog.csdn.net/maaath/article/details/160697827)
 
++ [Linux个人心得29（k8s的一些个人理解）](https://blog.csdn.net/2501_94830992/article/details/160635050)
+
