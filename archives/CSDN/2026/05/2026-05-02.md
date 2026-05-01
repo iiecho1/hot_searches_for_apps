@@ -131,3 +131,7 @@
 
 + [Flutter+开源鸿蒙实战｜智联邻里Day2 首页UI开发+全局组件封装+鸿蒙多端适配](https://blog.csdn.net/xmdy5866/article/details/160666760)
 
++ [【AVRCP】规范精讲[7]: 打通AVCTP互操作底层，吃透事务标签与分片规则](https://blog.csdn.net/weixin_37800531/article/details/160694496)
+
++ [【maaath】Flutter for OpenHarmony 媒体工具应用开发实战](https://blog.csdn.net/maaath/article/details/160697827)
+
