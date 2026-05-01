@@ -165,3 +165,5 @@
 
 + [白宫致函美国国会 称与伊朗的敌对行动已经“结束”](https://news.cctv.com/2026/05/02/ARTI7IZ3gtNbvtQw0B68S0FK260502.shtml)
 
++ [中国担任安理会5月轮值主席 将聚焦三项重点](https://news.cctv.com/2026/05/02/ARTIJJuB92DglaRHNSfxi21u260502.shtml)
+
