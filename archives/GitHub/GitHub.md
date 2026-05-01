@@ -27,3 +27,7 @@
 
 + [browserbase/skills](https://github.com/browserbase/skills)
 
++ [simstudioai/sim](https://github.com/simstudioai/sim)
+
++ [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+

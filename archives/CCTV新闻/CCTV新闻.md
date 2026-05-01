@@ -227,3 +227,7 @@
 
 + [心相近｜拥抱“零关税” 牵手“零距离”](https://news.cctv.com/2026/05/01/ARTIISv0NkvezFp8IahUGy2N260501.shtml)
 
++ [伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争](https://news.cctv.com/2026/05/01/ARTIQ5iIY4zia1MLjUeeTakv260501.shtml)
+
++ [伊朗外长：美对伊战争已致美国损失1000亿美元](https://news.cctv.com/2026/05/01/ARTI2oeh6vovIGJuEnC5AFvZ260501.shtml)
+

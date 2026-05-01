@@ -79,3 +79,11 @@
 
 + [比亚迪与高德地图达成闪充中国战略合作，将实现闪充“可见即可达”](https://m.ithome.com/html/945667.htm)
 
++ [2026 年 4 月汽车销量 / 交付汇总：吉利汽车销量 23.5 万辆（持续更新）](https://m.ithome.com/html/945776.htm)
+
++ [小米手环 10 Pro？新一代手环 Pro 被曝 5 月登场，可选白陶瓷版本](https://m.ithome.com/html/945813.htm)
+
++ [新华社曝光网购平台商家“AB 货”：收货地址不同，发货质量也不同](https://m.ithome.com/html/945766.htm)
+
++ [大国重器集体亮相：人民海军成功配齐“航母五件套”，还有“哪吒”](https://m.ithome.com/html/945757.htm)
+
