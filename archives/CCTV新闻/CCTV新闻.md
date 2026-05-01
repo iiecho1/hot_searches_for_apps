@@ -205,3 +205,25 @@
 
 + [古巴外长批评美国庇护支持反古恐怖分子](https://news.cctv.com/2026/05/01/ARTIiOhDN8Rm50URanxOqvAy260501.shtml)
 
++ [以色列称释放部分“全球坚韧船队”被扣人员](https://news.cctv.com/2026/05/01/ARTIJcgczajFsJ636X0a80Pn260501.shtml)
+
++ [阿塞拜疆议会宣布暂停与欧洲议会所有联系](https://news.cctv.com/2026/05/01/ARTIl909Hf3oaJQEWwhJHI1I260501.shtml)
+
++ [英国伦敦持刀恐袭案嫌疑人被控谋杀未遂](https://news.cctv.com/2026/05/01/ARTIRBkLEwqbtqJTW485Cp7Q260501.shtml)
+
++ [国际观察丨内外压力叠加 欧元区经济复苏前景堪忧](https://news.cctv.com/2026/05/01/ARTIamqlCoTGgg9frubVELfH260501.shtml)
+
++ [美辩称袭击伊朗系“自卫” 伊朗怒斥：赤裸裸的侵略](https://news.cctv.com/2026/05/01/ARTIGjXiFOTFubDsVEYXDLpd260501.shtml)
+
++ [伊朗最高领袖办公室：穆杰塔巴·哈梅内伊身体健康](https://news.cctv.com/2026/05/01/ARTIkIiTYNBvBqfXP9aL3cMN260501.shtml)
+
++ [美国“即将决定”是否重启对伊朗军事行动](https://news.cctv.com/2026/05/01/ARTIrQSOGWNPSXpgbghWUq3G260501.shtml)
+
++ [墨西哥总统：将依法审查美方涉毒指控并强调维护国家主权](https://news.cctv.com/2026/05/01/ARTIAsSDDyupoOfB3QUapnNZ260501.shtml)
+
++ [摆脱对美依赖 欧盟-南共市自贸协定临时生效](https://news.cctv.com/2026/05/01/ARTIKSJRR5bsQxORyY2NaEht260501.shtml)
+
++ [日本开始追加释放国家石油储备](https://news.cctv.com/2026/05/01/ARTItqkCNrSQ3RrvCUZRJzxd260501.shtml)
+
++ [心相近｜拥抱“零关税” 牵手“零距离”](https://news.cctv.com/2026/05/01/ARTIISv0NkvezFp8IahUGy2N260501.shtml)
+
