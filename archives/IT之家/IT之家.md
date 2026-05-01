@@ -49,3 +49,9 @@
 
 + [Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限](https://m.ithome.com/html/945297.htm)
 
++ [华为鸿蒙“龙虾”小艺 Claw 迎重磅更新：上线“自进化”能力、接入 DeepSeek V4](https://m.ithome.com/html/945229.htm)
+
++ [小米之家：2026 五一假期可到店免费领取“奥利奥云朵蛋糕”，单店活动期间至少提供 12 个](https://m.ithome.com/html/945185.htm)
+
++ [大众 Polo 进入纯电时代：ID.Polo 正式发布，2.5 万欧元起售、可选按摩座椅](https://m.ithome.com/html/945178.htm)
+

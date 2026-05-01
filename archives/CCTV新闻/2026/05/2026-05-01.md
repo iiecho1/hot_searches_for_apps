@@ -173,3 +173,25 @@
 
 + [伦敦持刀袭击事件后 英国上调恐怖威胁等级](https://news.cctv.com/2026/05/01/ARTIteMPUSQp5G5iEeombsd3260501.shtml)
 
++ [中方对美起草安理会涉南苏丹决议一意孤行表示遗憾](https://news.cctv.com/2026/05/01/ARTIpThpTIr1UpzTC9lWBlUv260501.shtml)
+
++ [又一批32颗亚马逊低轨卫星搭乘欧洲火箭入轨](https://news.cctv.com/2026/05/01/ARTItsNYiwJOfO5vYP1fWxhW260501.shtml)
+
++ [济州航空空难善后至今未结束 多名官员受处分](https://news.cctv.com/2026/05/01/ARTIuCAUP4NNbJjoC1WHaLxo260501.shtml)
+
++ [特朗普称将取消对苏格兰威士忌的关税和进口限制](https://news.cctv.com/2026/05/01/ARTIfrB9OfpqTVNwfpuesS9N260501.shtml)
+
++ [日本多处住宅发生火灾 已致7人死亡](https://news.cctv.com/2026/05/01/ARTIHO7oZiDiRVLZYococQL8260501.shtml)
+
++ [美国汽油均价再创近4年来新高](https://news.cctv.com/2026/05/01/ARTIgkSn4awiMiuTK0sP3exy260501.shtml)
+
++ [中国代表：要防止朝鲜半岛生战生乱](https://news.cctv.com/2026/05/01/ARTIlNqqIHTfk43qAZ8VHHDE260501.shtml)
+
++ [国际足联主席重申伊朗队将赴美参加世界杯](https://news.cctv.com/2026/05/01/ARTIGfcoVo4Pxeeqy7TaDXro260501.shtml)
+
++ [伊朗外交部：期待伊美谈判迅速达成结果并不现实](https://news.cctv.com/2026/05/01/ARTIbfQ2NJvqV5R95sMdznj5260501.shtml)
+
++ [中国对非零关税，是“减法”更是“加法”](https://news.cctv.com/2026/05/01/ARTIiUo0g1QUjTyHan9sPafX260501.shtml)
+
++ [出海的是商品，更是美好生活——“中国制造”的全球新叙事](https://news.cctv.com/2026/05/01/ARTIRMpnvdTyDMvvsff0tcQp260501.shtml)
+

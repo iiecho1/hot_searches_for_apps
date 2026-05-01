@@ -39,3 +39,17 @@
 
 + [Codex 对比 Claude Code](https://www.v2ex.com/t/1209638)
 
++ [HyperAPI 订阅套餐上线，注册送 5$，评论留邮箱，发 10$兑换码](https://www.v2ex.com/t/1209647)
+
++ [你们在用什么数据库管理软件？](https://www.v2ex.com/t/1209676)
+
++ [国家超算平台也出 coding plan 了](https://www.v2ex.com/t/1209689)
+
++ [很多人把 Claude 读成 cloud](https://www.v2ex.com/t/1209761)
+
++ [请问 v2 各位 100w 的小目标是炒股炒的还是打工打的啊](https://www.v2ex.com/t/1209680)
+
++ [领到小米 MIMO 的额度了，大家领了多少？](https://www.v2ex.com/t/1209799)
+
++ [顺风车已经变味了](https://www.v2ex.com/t/1209795)
+

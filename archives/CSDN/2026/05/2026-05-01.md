@@ -155,3 +155,27 @@
 
 + [企业远程运维首选：2026 向日葵企业版等 6 款方案全对比 ](https://blog.csdn.net/2501_94828295/article/details/160632245)
 
++ [深入 LangChain 内存向量存储（Memory Vector Stores）：架构解析与优化](https://blog.csdn.net/2401_82648291/article/details/159018022)
+
++ [LangChain 结构化输出与流式传输](https://blog.csdn.net/2302_80105876/article/details/160667733)
+
++ [用于 JavaScript 和 TypeScript 的 ES|QL 查询构建器：流式、类型安全的查询构建](https://blog.csdn.net/UbuntuTouch/article/details/160674988)
+
++ [【西瓜带你学Kafka | 第六期】Kafka 生产确认、消费 API 与分区分配策略（文含图解）](https://blog.csdn.net/2501_93491346/article/details/160660295)
+
++ [【必背】2026年 {案例 & 论文} 核心内容 - 4](https://blog.csdn.net/weixin_42115157/article/details/160677813)
+
++ [从 C/C++ 视角快速上手 Go 语言：核心差异与避坑指南](https://blog.csdn.net/lihaoweiwudi_/article/details/160602209)
+
++ [鸿蒙架构四大核心层解析](https://blog.csdn.net/2201_75953569/article/details/160682180)
+
++ [管道通信深度剖析：从匿名管道到命名管道，手写进程池](https://blog.csdn.net/2401_87889177/article/details/160566224)
+
++ [HTTP协议深度解析—从HTTP原理到手写实现服务器](https://blog.csdn.net/Lucis__/article/details/160585520)
+
++ [实战分享LangChain WebUI 部署智能客服：从零搭建到生产环境优化](https://blog.csdn.net/2301_81527952/article/details/160668358)
+
++ [Docker部署Loki+Grafana+Vector实现全服务器日志监控（含N8N/SSH/Fail2ban监控）](https://blog.csdn.net/qq_16381291/article/details/160659660)
+
++ [2026年华东杯数学建模ABC题全量深度解析与冲奖攻略：从历年底层逻辑到满分代码的全链路解剖](https://blog.csdn.net/qq_40379132/article/details/160661567)
+
