@@ -229,3 +229,13 @@
 
 + [DotNetPy：现代.NET 与 Python 互操作 实战指南](https://blog.csdn.net/yN6XPGmzp/article/details/160656609)
 
++ [AI修炼记2-MCP](https://blog.csdn.net/2502_91743997/article/details/160450531)
+
++ [深入解析进程间通信：管道机制全揭秘](https://blog.csdn.net/2401_86123468/article/details/160635274)
+
++ [【LLM】DeepSeek-V4模型架构和训练流程](https://blog.csdn.net/qq_35812205/article/details/160507010)
+
++ [【Blender】Blender 曲线建模全解析：贝塞尔 / NURBS / 蒙皮 / 置换，从原理到实战](https://blog.csdn.net/2501_91731683/article/details/160568739)
+
++ [Docker:项目部署](https://blog.csdn.net/2502_91575461/article/details/160654728)
+

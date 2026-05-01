@@ -239,3 +239,5 @@
 
 + [以军向黎巴嫩南部一村庄发布紧急撤离警告](https://news.cctv.com/2026/05/01/ARTI2pfXNnTqPti2YfiZbDjw260501.shtml)
 
++ [美官员：美军“福特”号航母已离开中东](https://news.cctv.com/2026/05/01/ARTIrvNSCEVTdewqU9jcIllR260501.shtml)
+

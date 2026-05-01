@@ -69,3 +69,5 @@
 
 + [感慨下，假期第一天，被裁了](https://www.v2ex.com/t/1209838)
 
++ [chatgpt 代充这是常规操作 还是我被坑了](https://www.v2ex.com/t/1209887)
+
