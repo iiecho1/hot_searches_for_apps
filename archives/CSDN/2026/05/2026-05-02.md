@@ -127,3 +127,7 @@
 
 + [学术论文三线表制作全攻略：Word/WPS/LaTeX 一站式搞定](https://blog.csdn.net/qq_74204532/article/details/160627830)
 
++ [汽车 CAN 总线实战：DBC 解析 + 信号类DTC 测试用例 + 仿真节点一键生成（完整流程）](https://blog.csdn.net/weixin_73209751/article/details/160629128)
+
++ [Flutter+开源鸿蒙实战｜智联邻里Day2 首页UI开发+全局组件封装+鸿蒙多端适配](https://blog.csdn.net/xmdy5866/article/details/160666760)
+
