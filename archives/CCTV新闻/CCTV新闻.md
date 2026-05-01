@@ -237,3 +237,5 @@
 
 + [哈马斯指责以色列持续违反停火协议 呼吁国际社会介入](https://news.cctv.com/2026/05/01/ARTIHjWM0i4eEIYCaE6Wg8DZ260501.shtml)
 
++ [以军向黎巴嫩南部一村庄发布紧急撤离警告](https://news.cctv.com/2026/05/01/ARTI2pfXNnTqPti2YfiZbDjw260501.shtml)
+
