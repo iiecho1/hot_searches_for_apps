@@ -231,3 +231,9 @@
 
 + [伊朗外长：美对伊战争已致美国损失1000亿美元](https://news.cctv.com/2026/05/01/ARTI2oeh6vovIGJuEnC5AFvZ260501.shtml)
 
++ [印尼发生火车汽车相撞事故致4人死亡](https://news.cctv.com/2026/05/01/ARTICQBuGVLeI0OqtzH71W9d260501.shtml)
+
++ [美国防部与7家人工智能公司达成协议](https://news.cctv.com/2026/05/01/ARTIyPZd14ZuDQX3X3E8kk5B260501.shtml)
+
++ [哈马斯指责以色列持续违反停火协议 呼吁国际社会介入](https://news.cctv.com/2026/05/01/ARTIHjWM0i4eEIYCaE6Wg8DZ260501.shtml)
+
