@@ -55,3 +55,27 @@
 
 + [大众 Polo 进入纯电时代：ID.Polo 正式发布，2.5 万欧元起售、可选按摩座椅](https://m.ithome.com/html/945178.htm)
 
++ [车顶能升起：小米“YU9”增程 SUV 新谍照曝光，消息称启用新品牌“寻天”](https://m.ithome.com/html/945746.htm)
+
++ [2026 年 4 月汽车销量 / 交付汇总：小鹏集团 31011 辆（持续更新）](https://m.ithome.com/html/945776.htm)
+
++ [DeepSeek 公布多模态模型技术报告](https://m.ithome.com/html/945740.htm)
+
++ [iPhone 17 系列是苹果有史以来最受欢迎的产品线，库克称市场需求远超预期](https://m.ithome.com/html/945758.htm)
+
++ [支付宝、财付通等 17 家机构支付牌照成功续展](https://m.ithome.com/html/945708.htm)
+
++ [小米汽车 2026 年 4 月交付量超 3 万台](https://m.ithome.com/html/945774.htm)
+
++ [哪吒、杨戬之后，追光动画《新神榜：悟空》电影备案立项](https://m.ithome.com/html/945642.htm)
+
++ [腾讯增持《黑神话：悟空》开发商游戏科学：持股比例达 24%，英雄游戏退出股东行列](https://m.ithome.com/html/945795.htm)
+
++ [华为鸿蒙存量设备 API 版本使用数据更新，HarmonyOS 6.1.0 (23) 占比突破 23%](https://m.ithome.com/html/945550.htm)
+
++ [微软定调 Win11 游戏内存配置：16GB 起步、32GB 无忧](https://m.ithome.com/html/945775.htm)
+
++ [你想买的车是不是宁德时代电池，官方查询渠道上线](https://m.ithome.com/html/945798.htm)
+
++ [比亚迪与高德地图达成闪充中国战略合作，将实现闪充“可见即可达”](https://m.ithome.com/html/945667.htm)
+

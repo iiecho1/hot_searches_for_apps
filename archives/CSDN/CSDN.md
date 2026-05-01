@@ -179,3 +179,13 @@
 
 + [2026年华东杯数学建模ABC题全量深度解析与冲奖攻略：从历年底层逻辑到满分代码的全链路解剖](https://blog.csdn.net/qq_40379132/article/details/160661567)
 
++ [【HarmonyOS 6.0】Camera Kit 新增系统性能压力监听功能全解析](https://blog.csdn.net/weixin_74809706/article/details/160473283)
+
++ [OpenClaw 多模型配置与切换详解](https://blog.csdn.net/sinat_41617212/article/details/160632368)
+
++ [.NET  & C#  New Features 新增功能介绍-.NET CLI工具改进](https://blog.csdn.net/ZTLVV5ii2/article/details/160666950)
+
++ [Spring Boot 项目在 K8S 中的打包、部署与运维发布实践](https://blog.csdn.net/qq_59369367/article/details/160665330)
+
++ [为什么无法抓取到http之间的明文传输](https://blog.csdn.net/CaptureItTechnology/article/details/160657372)
+

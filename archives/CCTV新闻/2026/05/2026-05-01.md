@@ -195,3 +195,13 @@
 
 + [出海的是商品，更是美好生活——“中国制造”的全球新叙事](https://news.cctv.com/2026/05/01/ARTIRMpnvdTyDMvvsff0tcQp260501.shtml)
 
++ [以媒：美国“即将决定”是否重启对伊朗军事行动](https://news.cctv.com/2026/05/01/ARTI4x4leHGtRKh5Us816tAP260501.shtml)
+
++ [供应短缺 肯尼亚临时放宽燃油环保标准](https://news.cctv.com/2026/05/01/ARTINlfiuMBzm933ToyAOHkf260501.shtml)
+
++ [多国谴责以色列拦截向加沙运送人道援助的船队](https://news.cctv.com/2026/05/01/ARTIHC6yMopgKi6Ow7mKllUq260501.shtml)
+
++ [北美观察丨战争权力60天门槛已至：美国陷入“非战争”的战争](https://news.cctv.com/2026/05/01/ARTI4P3ZBULxRNcOEdrjQMIc260501.shtml)
+
++ [古巴外长批评美国庇护支持反古恐怖分子](https://news.cctv.com/2026/05/01/ARTIiOhDN8Rm50URanxOqvAy260501.shtml)
+
