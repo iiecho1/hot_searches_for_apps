@@ -25,3 +25,27 @@
 
 + [Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限](https://m.ithome.com/html/945297.htm)
 
++ [2026 年 4 月汽车销量 / 交付汇总：奇瑞集团 4 月销量 251386 辆，同比增长 25.2%（持续更新）](https://m.ithome.com/html/945776.htm)
+
++ [iPhone 17 系列是苹果有史以来最受欢迎的产品线，库克称市场需求远超预期](https://m.ithome.com/html/945758.htm)
+
++ [消息称苹果 iPhone Air 多轮降价后激活量才勉强破 70 万台，国内某厂商计划放弃系列产品线迭代](https://m.ithome.com/html/945892.htm)
+
++ [腾讯增持《黑神话：悟空》开发商游戏科学：持股比例达 24%，英雄游戏退出股东行列](https://m.ithome.com/html/945795.htm)
+
++ [你想买的车是不是宁德时代电池，官方查询渠道上线](https://m.ithome.com/html/945798.htm)
+
++ [小米汽车 2026 年 4 月交付量超 3 万台](https://m.ithome.com/html/945774.htm)
+
++ [小米手环 10 Pro？新一代手环 Pro 被曝 5 月登场，可选白陶瓷版本](https://m.ithome.com/html/945813.htm)
+
++ [微软定调 Win11 游戏内存配置：16GB 起步、32GB 无忧](https://m.ithome.com/html/945775.htm)
+
++ [商业短信“未经同意不得发送”，我国《通信短信息服务管理规定（修订）》今起正式施行](https://m.ithome.com/html/945850.htm)
+
++ [大国重器集体亮相：人民海军成功配齐“航母五件套”，还有“哪吒”](https://m.ithome.com/html/945757.htm)
+
++ [新华社曝光网购平台商家“AB 货”：收货地址不同，发货质量也不同](https://m.ithome.com/html/945766.htm)
+
++ [张雪原型故事《有梦就去追》登上央视“五一”晚会，姜武表演](https://m.ithome.com/html/945833.htm)
+

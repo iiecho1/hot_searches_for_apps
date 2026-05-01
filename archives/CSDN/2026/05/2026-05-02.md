@@ -97,3 +97,33 @@
 
 + [夸父机器人使用案例](https://blog.csdn.net/weixin_38241876/article/details/160636541)
 
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与Face AR的“心流空间“——PC端沉浸式心理疗愈与正念冥想平台](https://blog.csdn.net/u014727709/article/details/138146992)
+
++ [从零到一:Triton实现CELU激活函数优化之路](https://blog.csdn.net/weixin_51390582/article/details/154727516)
+
++ [公网 IP、私网 IP、路由表、转发表与 MAC 地址的关系](https://blog.csdn.net/weixin_41165867/article/details/159955011)
+
++ [DeepSeek V4 实战：自然语言生成 SQL + 智能优化引擎](https://blog.csdn.net/iweidujiang/article/details/160653632)
+
++ [换新电脑如何迁移原有数据？4 种高效数据迁移方法详解](https://blog.csdn.net/2509_94812818/article/details/160499579)
+
++ [2026年第二十三届五一数学建模竞赛赛题浅析-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/160683460)
+
++ [2026年新高考英语大纲词汇表3500个电子版PDF（含正序版、乱序版和默写版）](https://blog.csdn.net/2608_94927382/article/details/160649868)
+
++ [懂车帝汽车销售数据可视化分析系统](https://blog.csdn.net/Abtxr/article/details/160692331)
+
++ [GitHub 热榜项目 - 日榜(2026-05-01)](https://blog.csdn.net/u014390502/article/details/160694419)
+
++ [从零开始：Docker 部署 Milvus 向量数据库并接入 Attu 与 pymilvus 的全流程指南](https://blog.csdn.net/wyt6666666/article/details/160661210)
+
++ [基于高动态双目多光谱200万人脸识别摄像头的联动闸机/门禁考勤/梯控动态人脸识别访客系统，是一个融合先进生物识别技术与智能硬件的综合解决方案](https://blog.csdn.net/FDFDGFD/article/details/160636203)
+
++ [Flutter for OpenHarmony 工具类应用实战总结：计算器 + 记事本功能开发全解析](https://blog.csdn.net/liulian0916/article/details/160668816)
+
++ [.NET  & C#  New Features 新增功能介绍-.NET CLI工具改进](https://blog.csdn.net/ZTLVV5ii2/article/details/160666950)
+
++ [OPPO手机技巧：如何恢复OPPO手机数据](https://blog.csdn.net/2600_94936330/article/details/156826447)
+
++ [学术论文三线表制作全攻略：Word/WPS/LaTeX 一站式搞定](https://blog.csdn.net/qq_74204532/article/details/160627830)
+
