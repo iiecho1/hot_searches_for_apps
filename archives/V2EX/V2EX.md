@@ -21,3 +21,21 @@
 
 + [证据表明 Chatgpt 其实是诡秘之主](https://www.v2ex.com/t/1209545)
 
++ [Google 可以修改 gmail 账号了，激动！](https://www.v2ex.com/t/1209583)
+
++ [庆幸之前选择了广度而不是深度](https://www.v2ex.com/t/1209586)
+
++ [一个主要用于家庭影音资源管理软件，支持 ios、android、macos、windows 等，补充下截图。](https://www.v2ex.com/t/1209606)
+
++ [毕业了朋友们，今日 Last Day](https://www.v2ex.com/t/1209605)
+
++ [从 2026 年后开始，就没手写过代码了，全部 ai 写，我也知道我的职业要完了](https://www.v2ex.com/t/1209740)
+
++ [五一前的最后一个下午了，还有多少人在认真工作](https://www.v2ex.com/t/1209672)
+
++ [求大家推荐一些言论自由的日记网站或者软件](https://www.v2ex.com/t/1209626)
+
++ [Anthropic 真是绝了，刚收完钱就把我踢了](https://www.v2ex.com/t/1209737)
+
++ [Codex 对比 Claude Code](https://www.v2ex.com/t/1209638)
+

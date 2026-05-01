@@ -149,3 +149,9 @@
 
 + [OpenClaw（养龙虾） +关于Hadoop hive的Skills（Cloudera CDH、CDP）](https://blog.csdn.net/Rs8HCS20v/article/details/160632437)
 
++ [基于密集型复杂城市场景下求解无人机三维路径规划的Q-learning 算法研究（Matlab代码实现）](https://blog.csdn.net/Ke_Yan_She/article/details/160642596)
+
++ [Linux个人心得29（k8s的一些个人理解）](https://blog.csdn.net/2501_94830992/article/details/160635050)
+
++ [企业远程运维首选：2026 向日葵企业版等 6 款方案全对比 ](https://blog.csdn.net/2501_94828295/article/details/160632245)
+
