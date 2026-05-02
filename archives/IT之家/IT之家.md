@@ -49,3 +49,13 @@
 
 + [新一代小米 SU7 锁单已超过 7 万台，首销期过后会下架一些选装配置](https://m.ithome.com/html/945974.htm)
 
++ [最低配不涨价？消息称苹果计划对 iPhone 18 Pro 系列手机采取激进定价策略](https://m.ithome.com/html/946015.htm)
+
++ [三冠加冕！张雪机车 WSBK 匈牙利站第一回合正赛夺冠](https://m.ithome.com/html/946065.htm)
+
++ [张雪机车 WSBK 匈牙利站夺冠，荣耀将推联名款“冠军手表”](https://m.ithome.com/html/946067.htm)
+
++ [再现名场面：央视“五一”晚会《有梦就去追》节目片段公布，姜武饰演张雪](https://m.ithome.com/html/945970.htm)
+
++ [库克：MacBook Neo 供不应求，需求超出苹果预期，Mac 新用户数量创纪录](https://m.ithome.com/html/945952.htm)
+

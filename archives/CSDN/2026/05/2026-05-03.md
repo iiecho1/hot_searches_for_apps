@@ -167,3 +167,5 @@
 
 + [第1讲：为什么需要“注意力机制“？](https://blog.csdn.net/qq_41375318/article/details/160715690)
 
++ [[特殊字符] 2026年5月3日 AI 动态简报](https://blog.csdn.net/aibridge/article/details/160722148)
+
