@@ -199,3 +199,7 @@
 
 + [我们如何同步 .NET 的虚拟单体仓库（一）](https://blog.csdn.net/bpDZ2w6M6/article/details/160691148)
 
++ [【必背】2026年 {案例 & 论文} 核心内容 - 5](https://blog.csdn.net/weixin_42115157/article/details/160700986)
+
++ [Elasticsearch 底层压缩：倒排表 Posting List 压缩算法 FOR / RBM 原理深度剖析](https://blog.csdn.net/qq_41840843/article/details/160600841)
+

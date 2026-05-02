@@ -205,3 +205,9 @@
 
 + [亚洲多国人士呼吁日本正视东京审判历史正义](https://news.cctv.com/2026/05/02/ARTIO0jgaLXNe66Omv5VV7mF260502.shtml)
 
++ [也门海岸警卫队称一艘油轮在该国沿海遭武装劫持](https://news.cctv.com/2026/05/02/ARTIwh7k8LwOo6O9wK37ucUx260502.shtml)
+
++ [新华网国际看点｜零关税将为中非合作和非洲发展注入强劲动力](https://news.cctv.com/2026/05/02/ARTIgqifGC8QQJvZUfI638CY260502.shtml)
+
++ [新华网国际看点｜80年前的东京审判，今天仍有现实意义](https://news.cctv.com/2026/05/02/ARTIJEhXN5FGAh5TKbA2dJF0260502.shtml)
+
