@@ -37,3 +37,7 @@
 
 + [[送兑换码] 做了个本地 4K 视频播放器 QuietBox，想请大家帮忙体验下](https://www.v2ex.com/t/1209921)
 
++ [ChatGPT Pro 低价兑换 最后的绝唱了 全网唯一 ku0.com 抽奖送一个 Pro 5x](https://www.v2ex.com/t/1209942)
+
++ [glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？](https://www.v2ex.com/t/1209926)
+

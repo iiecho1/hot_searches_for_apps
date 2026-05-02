@@ -181,3 +181,13 @@
 
 + [总台记者探访丨叩问正义 捍卫真相 失焦的东京审判法庭旧址](https://news.cctv.com/2026/05/02/ARTIZpBhVY7V80xBRGYfM1oF260502.shtml)
 
++ [香港控烟新规生效以来已发出多张罚单](https://news.cctv.com/2026/05/02/ARTI2yG0sdBO9PQaTlnzt5cX260502.shtml)
+
++ [阿富汗首都喀布尔发生爆炸](https://news.cctv.com/2026/05/02/ARTIjF0oglqTt8sJ9nZEBg4P260502.shtml)
+
++ [特朗普支持率低迷 共和党冲刺“重划选区”](https://news.cctv.com/2026/05/02/ARTIl1dAEHSpl48C5m631Xx4260502.shtml)
+
++ [俄罗斯一住宅发生火灾 7人死亡](https://news.cctv.com/2026/05/02/ARTI6eNYF3cLAEyMnAerXh3K260502.shtml)
+
++ [马耳他国际烟花节落幕](https://photo.cctv.com/2026/05/02/PHOAt0sUpwGIXBkN24VUS6CJ260502.shtml)
+

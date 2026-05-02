@@ -163,3 +163,7 @@
 
 + [Spring AOP核心概念与实战指南](https://blog.csdn.net/2501_92331472/article/details/160628331)
 
++ [AISystem：鸿蒙游戏中的 AI 行为驱动](https://blog.csdn.net/qq_36863796/article/details/160665869)
+
++ [AI+运维提效--证书有效期监控系统实施方案](https://blog.csdn.net/qyq88888/article/details/160694641)
+
