@@ -147,3 +147,11 @@
 
 + [docker相关](https://blog.csdn.net/m0_64837052/article/details/160665042)
 
++ [AI Agent 2.0 时代：MCP协议如何成为AI互联互通的新标准](https://blog.csdn.net/IRpickstars/article/details/160644425)
+
++ [Docker 存储卷：本地文件与容器内部文件建立绑定关系](https://blog.csdn.net/Dai_renwen/article/details/160158121)
+
++ [Hermes Web UI vs OpenClaw Dashboard：两大 AI Agent 管理界面深度对比](https://blog.csdn.net/hermes_han/article/details/160627145)
+
++ [【一等奖版】2026 五一数学建模 B题 多工序协同作业问题](https://blog.csdn.net/a1552100455/article/details/160688447)
+

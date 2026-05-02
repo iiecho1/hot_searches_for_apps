@@ -29,3 +29,5 @@
 
 + [异地组网方案怎么选？从 n2n 到 WireGuard，折腾一圈后的真实记录](https://www.v2ex.com/t/1209892)
 
++ [MiMo-V2.5-Pro，一句提问掉了 90000000（千万）token](https://www.v2ex.com/t/1209866)
+

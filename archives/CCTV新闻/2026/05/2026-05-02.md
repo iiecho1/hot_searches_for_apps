@@ -169,3 +169,15 @@
 
 + [特朗普声称美国“几乎能立即”接管古巴](https://news.cctv.com/2026/05/02/ARTIScfPQVcb6ocMtxfXg8Oc260502.shtml)
 
++ [联合国难民署：中东危机正阻碍全球人道援助](https://news.cctv.com/2026/05/02/ARTI1R6JfqMQ7epFBjN4lqBL260502.shtml)
+
++ [马里军事检方就“4·25”袭击事件展开调查](https://news.cctv.com/2026/05/02/ARTImwVJdfmSQF1QIakstoJI260502.shtml)
+
++ [北美观察丨白宫宣布对伊战争结束 但危机仍难收场](https://news.cctv.com/2026/05/02/ARTIpfiejbadj7YRuT5ycmPp260502.shtml)
+
++ [古巴国家主席：美国制裁是“种族灭绝式封锁”](https://news.cctv.com/2026/05/02/ARTIuj51IDfhjzOiunIVHbP9260502.shtml)
+
++ [意大利：“三色箭”飞行表演](https://photo.cctv.com/2026/05/02/PHOA8fQJFhmkwk4RrEt49RMa260502.shtml)
+
++ [总台记者探访丨叩问正义 捍卫真相 失焦的东京审判法庭旧址](https://news.cctv.com/2026/05/02/ARTIZpBhVY7V80xBRGYfM1oF260502.shtml)
+
