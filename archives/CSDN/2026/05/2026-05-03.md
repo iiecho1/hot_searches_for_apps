@@ -151,3 +151,19 @@
 
 + [Flutter for OpenHarmony 效率工具开发实战：我实现的番茄钟与倒计时功能总结](https://blog.csdn.net/liulian0916/article/details/160668800)
 
++ [Spring Cloud跨语言：3种方案，5倍性能，为什么你的微服务还在用Dubbo？](https://blog.csdn.net/z_344791576/article/details/151895951)
+
++ [一篇看懂现代 AI 的五大概念：LLM、Token、Context、Prompt、Tool](https://blog.csdn.net/qq_51646682/article/details/160721057)
+
++ [▲基于Qlearning强化学习博弈论的WSN混合覆盖漏洞恢复算法matlab仿真](https://blog.csdn.net/ccsss22/article/details/160721847)
+
++ [FPGA 时钟资源详解](https://blog.csdn.net/m0_46644103/article/details/160720221)
+
++ [三维战场环境下的多无人机智能协同作战系统：基于混合GA-PSO的威胁规避与时间协同路径规划（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/160723534)
+
++ [ToolGuard：让AI Agent严格遵守企业规则的确定性合规框架](https://blog.csdn.net/neweastsun/article/details/160689001)
+
++ [核心组件大换血：Backbone与Neck魔改篇：YOLO26结合PP-LCNet结构：Intel CPU推理提速的2026工业级首选](https://blog.csdn.net/ZDQ58818/article/details/160721370)
+
++ [第1讲：为什么需要“注意力机制“？](https://blog.csdn.net/qq_41375318/article/details/160715690)
+
