@@ -193,3 +193,7 @@
 
 + [以色列对黎巴嫩袭击造成至少13人死亡](https://news.cctv.com/2026/05/02/ARTIG3W9Fi1ClxjqrFr05XXh260502.shtml)
 
++ [瑞典一集会活动发生爆炸 已致3人受伤](https://news.cctv.com/2026/05/02/ARTIhIhGmgxGKJtEqodmrxJe260502.shtml)
+
++ [日本本州岛发生5.7级地震，震源深度60千米](https://news.cctv.com/2026/05/02/ARTIn9Y9vuNgrmgvvzw877gg260502.shtml)
+
