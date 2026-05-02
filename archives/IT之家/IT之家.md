@@ -25,3 +25,23 @@
 
 + [张雪原型故事《有梦就去追》登上央视“五一”晚会，姜武表演](https://m.ithome.com/html/945833.htm)
 
++ [央视解读高速公路“手机 +”无卡通行试点模式：与 ETC 长期并行发展、未来有望全国实施](https://m.ithome.com/html/945895.htm)
+
++ [苹果 Mac mini 16+256GB 版本官网悄然停售，最低配升为 16+512GB](https://m.ithome.com/html/945951.htm)
+
++ [小米 2026 年 5 月服务周开启，REDMI Note 10 Pro 等 67 款手机可 8 折换电池](https://m.ithome.com/html/945848.htm)
+
++ [小米 YU7 GT 为什么不叫 YU7 Ultra，官方回应称并非追求极致性能的赛车](https://m.ithome.com/html/945982.htm)
+
++ [比亚迪 4 月销售 321123 辆，海外突破 13 万辆创历史新高](https://m.ithome.com/html/945882.htm)
+
++ [2026 年 4 月汽车销量 / 交付榜出炉：比亚迪、奇瑞、吉利暂居前三，出口表现亮眼](https://m.ithome.com/html/945948.htm)
+
++ [俞浩再放狠话：追觅手机要与苹果、三星三分天下，必然会最终站上世界第一](https://m.ithome.com/html/945991.htm)
+
++ [中国主导产品“复活”停产经典车，东风日产 N7 将更名 Primera 出口海外](https://m.ithome.com/html/945898.htm)
+
++ [苹果 macOS 27 系统新功能前瞻：Siri 升级独立应用、新增触控界面，抛弃 Intel Mac](https://m.ithome.com/html/945969.htm)
+
++ [网传东航一飞机与廊桥相撞，官方回应并致歉](https://m.ithome.com/html/945998.htm)
+

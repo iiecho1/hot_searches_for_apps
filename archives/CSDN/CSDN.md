@@ -101,3 +101,39 @@
 
 + [嵌入模型（Embedding）彻底吃透：原理、选型、接入与 RAG ](https://blog.csdn.net/2302_79376097/article/details/159586612)
 
++ [吃透 Linux 网络传输全流程：从局域网通信到跨网路由，结合内核源码拆解底层原理](https://blog.csdn.net/2503_91389547/article/details/160389222)
+
++ [二分类任务核心：BCE 损失函数从原理到 PyTorch 实战](https://blog.csdn.net/2503_92624912/article/details/160719875)
+
++ [基于OpenCv实现车辆检测与计数（python版）](https://blog.csdn.net/2401_87594179/article/details/160715804)
+
++ [【HID】规范精讲[8]: 蓝牙HID核心之L2CAP层——无线人机交互的通信桥梁设计解析](https://blog.csdn.net/weixin_37800531/article/details/160568878)
+
++ [核电站仪控与监测系统中抗辐射 MCU 芯片应用研究](https://blog.csdn.net/ANSILIC/article/details/160664733)
+
++ [Neo 构建鸿蒙应用【一】：架构困境与四层结构化设计](https://blog.csdn.net/qq_34733864/article/details/160711350)
+
++ [智能家居无线数传方案推荐：LoRa、蓝牙与其他技术如何驱动智慧家庭互联未来](https://blog.csdn.net/2501_91398178/article/details/160661438)
+
++ [Spring AI 2.0 开发Java Agent智能体 - 新建 HelloWorld 项目](https://blog.csdn.net/caoli201314/article/details/160660175)
+
++ [基于 Spring Boot 3 + LangChain4j 快速构建企业级 AI 应用实战](https://blog.csdn.net/qq_42055933/article/details/160688574)
+
++ [换新电脑如何迁移原有数据？4 种高效数据迁移方法详解](https://blog.csdn.net/2509_94812818/article/details/160499579)
+
++ [杀戮尖塔2手机版下载2026最新版（安卓+ios）双端资源免费分享](https://blog.csdn.net/2601_95957710/article/details/160694179)
+
++ [从零实现一个轻量级 RPC 框架：通信协议与动态代理的核心原理](https://blog.csdn.net/chen_si_shang_/article/details/160668711)
+
++ [AI学习篇（五） | awesome-design-md 使用说明](https://blog.csdn.net/qq_20236937/article/details/160717888)
+
++ [提示词过时了？GPT-5.5已具备直觉，只需指明目标AI就能自动接管](https://blog.csdn.net/2501_91883294/article/details/160622274)
+
++ [如何在 Google Chrome 中强制开启 Gemini AI 侧边栏（完整图文教程）](https://blog.csdn.net/u014451778/article/details/160713782)
+
++ [HTTPS前端劫持 新一代流量劫持解决方案](https://blog.csdn.net/2501_91592143/article/details/160655581)
+
++ [[具身智能-518]：Trae的系统架构与自身的软件架构](https://blog.csdn.net/HiWangWenBing/article/details/160685437)
+
++ [2026年5月阿里云OpenClaw/Hermes Agent集成攻略+百炼token Plan配置全览教程](https://blog.csdn.net/OpenClawCSDN/article/details/160687379)
+
