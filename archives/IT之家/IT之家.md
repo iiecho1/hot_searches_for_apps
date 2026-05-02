@@ -49,3 +49,17 @@
 
 + [张雪原型故事《有梦就去追》登上央视“五一”晚会，姜武表演](https://m.ithome.com/html/945833.htm)
 
++ [车顶能升起：小米“YU9”增程 SUV 新谍照曝光，消息称启用新品牌“寻天”](https://m.ithome.com/html/945746.htm)
+
++ [2026 年 4 月汽车销量 / 交付汇总：小鹏集团 31011 辆（持续更新）](https://m.ithome.com/html/945776.htm)
+
++ [DeepSeek 公布多模态模型技术报告](https://m.ithome.com/html/945740.htm)
+
++ [支付宝、财付通等 17 家机构支付牌照成功续展](https://m.ithome.com/html/945708.htm)
+
++ [哪吒、杨戬之后，追光动画《新神榜：悟空》电影备案立项](https://m.ithome.com/html/945642.htm)
+
++ [华为鸿蒙存量设备 API 版本使用数据更新，HarmonyOS 6.1.0 (23) 占比突破 23%](https://m.ithome.com/html/945550.htm)
+
++ [比亚迪与高德地图达成闪充中国战略合作，将实现闪充“可见即可达”](https://m.ithome.com/html/945667.htm)
+
