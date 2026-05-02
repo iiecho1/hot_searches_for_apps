@@ -191,3 +191,5 @@
 
 + [马耳他国际烟花节落幕](https://photo.cctv.com/2026/05/02/PHOAt0sUpwGIXBkN24VUS6CJ260502.shtml)
 
++ [以色列对黎巴嫩袭击造成至少13人死亡](https://news.cctv.com/2026/05/02/ARTIG3W9Fi1ClxjqrFr05XXh260502.shtml)
+

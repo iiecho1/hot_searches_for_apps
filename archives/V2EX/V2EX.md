@@ -41,3 +41,7 @@
 
 + [glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？](https://www.v2ex.com/t/1209926)
 
++ [决定开始定投标普 500 和纳指 100 了！](https://www.v2ex.com/t/1209961)
+
++ [dnshe 域名可永久了](https://www.v2ex.com/t/1209884)
+

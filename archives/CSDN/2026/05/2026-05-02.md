@@ -167,3 +167,13 @@
 
 + [AI+运维提效--证书有效期监控系统实施方案](https://blog.csdn.net/qyq88888/article/details/160694641)
 
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与AR双引擎的“量子实验室“——PC端沉浸式科学实验与虚拟仿真平台](https://blog.csdn.net/u014727709/article/details/138339290)
+
++ [传统防火墙：网络安全的第一道防线](https://blog.csdn.net/2402_88096536/article/details/160694735)
+
++ [HTTPS前端劫持 新一代流量劫持解决方案](https://blog.csdn.net/2501_91592143/article/details/160655581)
+
++ [【运维实战】Nginx 高性能Web服务 · 一键自动化部署方案 (适配银河麒麟 V10 / openEuler / CentOS 7/8)](https://blog.csdn.net/zll56281688/article/details/160669623)
+
++ [茶叶商城|基于springboot + vue茶叶商城系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/160695016)
+
