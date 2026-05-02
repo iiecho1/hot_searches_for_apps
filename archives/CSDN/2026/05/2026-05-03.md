@@ -169,3 +169,7 @@
 
 + [[特殊字符] 2026年5月3日 AI 动态简报](https://blog.csdn.net/aibridge/article/details/160722148)
 
++ [科技早报｜2026年5月1日：GitHub 为 30 倍规模重构平台](https://blog.csdn.net/x1131230123/article/details/160677232)
+
++ [深度学习之神经网络简介（FNN+CNN+RNN+LSTM+GRU+GAN+GNN+Transformer）](https://blog.csdn.net/usa_washington/article/details/151722151)
+

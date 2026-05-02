@@ -159,3 +159,5 @@
 
 + [中国驻宋卡总领馆提醒中国游客警惕“跑路团”](https://news.cctv.com/2026/04/30/ARTIptijWloZAX74XilVK57V260430.shtml)
 
++ [欧洲议会要员：须对美新一轮关税威胁作出坚定回应](https://news.cctv.com/2026/05/03/ARTIQinHySuwFaypNJz9hqCK260503.shtml)
+
