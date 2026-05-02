@@ -167,3 +167,5 @@
 
 + [中国担任安理会5月轮值主席 将聚焦三项重点](https://news.cctv.com/2026/05/02/ARTIJJuB92DglaRHNSfxi21u260502.shtml)
 
++ [特朗普声称美国“几乎能立即”接管古巴](https://news.cctv.com/2026/05/02/ARTIScfPQVcb6ocMtxfXg8Oc260502.shtml)
+
