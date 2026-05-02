@@ -173,3 +173,5 @@
 
 + [深度学习之神经网络简介（FNN+CNN+RNN+LSTM+GRU+GAN+GNN+Transformer）](https://blog.csdn.net/usa_washington/article/details/151722151)
 
++ [AISystem：鸿蒙游戏中的 AI 行为驱动](https://blog.csdn.net/qq_36863796/article/details/160665869)
+

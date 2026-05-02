@@ -161,3 +161,11 @@
 
 + [欧洲议会要员：须对美新一轮关税威胁作出坚定回应](https://news.cctv.com/2026/05/03/ARTIQinHySuwFaypNJz9hqCK260503.shtml)
 
++ [特朗普称美国有可能重启对伊朗空袭](https://news.cctv.com/2026/05/03/ARTIlIaVCM8iyUIAnWzKpy5w260503.shtml)
+
++ [阿联酋恢复航空正常运行](https://news.cctv.com/2026/05/03/ARTIqWdCZga8qPVbcYnRB4Mm260503.shtml)
+
++ [哥伦比亚总统：反对对古巴进行任何形式的军事干预](https://news.cctv.com/2026/05/03/ARTIgerR4R0D56qbEWukivjy260503.shtml)
+
++ [伊朗公布伊方最新谈判方案：所有问题应在30天内解决](https://news.cctv.com/2026/05/03/ARTIqRuymGSIng4v2vyKj1v8260503.shtml)
+
