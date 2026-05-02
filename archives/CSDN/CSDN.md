@@ -203,3 +203,15 @@
 
 + [Elasticsearch 底层压缩：倒排表 Posting List 压缩算法 FOR / RBM 原理深度剖析](https://blog.csdn.net/qq_41840843/article/details/160600841)
 
++ [XssFleet-自动化XSS检测利用工具](https://blog.csdn.net/m0_69161013/article/details/160716050)
+
++ [SpringBoot 分布式锁实战：从单机锁到Redis分布式锁全覆盖，解决超卖、重复下单、幂等并发问题](https://blog.csdn.net/KmSH8umpK/article/details/160695005)
+
++ [深耕DolphinDB时序链路运维：5个核心致命坑+全流程排查落地解法](https://blog.csdn.net/lrq13965748542/article/details/160662747)
+
++ [从零开始理解 robots.txt：搜索引擎爬虫的“门禁系统“](https://blog.csdn.net/cbxjj/article/details/160717803)
+
++ [GPT-5.5、Claude Opus 4.7、Gemini 3.1 Pro与Grok 4.3的4月底技术更新与编程场景选型参考](https://blog.csdn.net/cookies404/article/details/160665669)
+
++ [HarmonyOS 6 轻相机应用开发5：实时自动戴眼镜功能实现](https://blog.csdn.net/sjw890821sjw/article/details/160694137)
+

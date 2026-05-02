@@ -53,3 +53,5 @@
 
 + [AI 时代， Java 中短期的地位不降反增](https://www.v2ex.com/t/1209937)
 
++ [2026 年了， Notepad++ 对比 VSCode ，优势在哪？](https://www.v2ex.com/t/1210012)
+
