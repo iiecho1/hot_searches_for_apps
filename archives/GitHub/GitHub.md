@@ -19,3 +19,11 @@
 
 + [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 
++ [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+
++ [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+
++ [ShareX/ShareX](https://github.com/ShareX/ShareX)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+

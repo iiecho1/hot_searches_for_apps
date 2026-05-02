@@ -45,3 +45,7 @@
 
 + [dnshe 域名可永久了](https://www.v2ex.com/t/1209884)
 
++ [如何在国内受限网络环境下使用官方 claude 或 codex 等模型？](https://www.v2ex.com/t/1209960)
+
++ [2026 年 5 月，最新的穷鬼 AI 套餐有哪些？](https://www.v2ex.com/t/1209933)
+
