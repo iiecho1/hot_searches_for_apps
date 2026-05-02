@@ -137,3 +137,17 @@
 
 + [2026年5月阿里云OpenClaw/Hermes Agent集成攻略+百炼token Plan配置全览教程](https://blog.csdn.net/OpenClawCSDN/article/details/160687379)
 
++ [2026 降 AI 软件排行第 1 怎么用？4 步降到知网 AIGC 检测合格线。](https://blog.csdn.net/aigccleaner/article/details/160715819)
+
++ [将Bibliometrix接入国产AI deepseekv4（个人笔记）](https://blog.csdn.net/2603_95828279/article/details/160691587)
+
++ [SpringMVC简介](https://blog.csdn.net/weixin_45054115/article/details/160719898)
+
++ [从Prompt工程到Harness工程：AI Agent落地的下一代软件工程范式](https://blog.csdn.net/2303_80720440/article/details/160483709)
+
++ [Audacity：一款开源免费的专业级音频编辑与录音软件深度解析](https://blog.csdn.net/a5305601/article/details/160696246)
+
++ [Linux 环境下数据库服务开机自启实战：root.sh 脚本配置与服务管理全解](https://blog.csdn.net/g310773517/article/details/160652480)
+
++ [Flutter for OpenHarmony 效率工具开发实战：我实现的番茄钟与倒计时功能总结](https://blog.csdn.net/liulian0916/article/details/160668800)
+

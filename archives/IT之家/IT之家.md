@@ -45,3 +45,7 @@
 
 + [网传东航一飞机与廊桥相撞，官方回应并致歉](https://m.ithome.com/html/945998.htm)
 
++ [张雪回应“820RR 赛道熄火”：倾角设定是 61 度就会熄火](https://m.ithome.com/html/946027.htm)
+
++ [新一代小米 SU7 锁单已超过 7 万台，首销期过后会下架一些选装配置](https://m.ithome.com/html/945974.htm)
+
