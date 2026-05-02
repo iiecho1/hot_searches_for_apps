@@ -189,3 +189,13 @@
 
 + [.NET 磁盘BitLocker加密-技术选型](https://blog.csdn.net/XGPXld1gJ/article/details/160690474)
 
++ [当质量证明文件进入高标准审查：IA-Lab与AI检测报告生成助手如何重构报告生成与合规审核链路](https://blog.csdn.net/2301_81491676/article/details/160658147)
+
++ [【Flutter for OpenHarmony】Flutter三方库OpenHarmony集成的鸿蒙化适配与实战指南](https://blog.csdn.net/IntMainJhy/article/details/160674128)
+
++ [2026年五一杯数学建模B题：多工序协同作业问题](https://blog.csdn.net/2501_92464201/article/details/160695093)
+
++ [零成本使用 Claude Code + 硅基流动：在 VSCode 中白嫖 DeepSeek-V4-Flash、GLM-5.1 等优质模型](https://blog.csdn.net/m0_72267445/article/details/160634642)
+
++ [我们如何同步 .NET 的虚拟单体仓库（一）](https://blog.csdn.net/bpDZ2w6M6/article/details/160691148)
+

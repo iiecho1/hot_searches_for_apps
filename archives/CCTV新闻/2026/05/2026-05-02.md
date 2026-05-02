@@ -197,3 +197,11 @@
 
 + [日本本州岛发生5.7级地震，震源深度60千米](https://news.cctv.com/2026/05/02/ARTIn9Y9vuNgrmgvvzw877gg260502.shtml)
 
++ [专访｜期待德中绿色转型与创新合作实现更大发展——访德国石荷州州长贡特尔](https://news.cctv.com/2026/05/02/ARTIm5Hwapx0SP3GJgqOrUcs260502.shtml)
+
++ [专访｜“相信白中合作有光明未来”——访白俄罗斯布列斯特州执行委员会主席帕尔霍姆奇克](https://news.cctv.com/2026/05/02/ARTIdPplROdpBmX1PuACw8k8260502.shtml)
+
++ [澳大利亚公民党全国主席：东京审判应当被世界铭记](https://news.cctv.com/2026/05/02/ARTISxlJUpWrHnGkdI1TDfXr260502.shtml)
+
++ [亚洲多国人士呼吁日本正视东京审判历史正义](https://news.cctv.com/2026/05/02/ARTIO0jgaLXNe66Omv5VV7mF260502.shtml)
+
