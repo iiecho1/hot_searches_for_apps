@@ -159,3 +159,11 @@
 
 + [济州航空空难善后至今未结束 多名官员受处分](https://news.cctv.com/2026/05/01/ARTIuCAUP4NNbJjoC1WHaLxo260501.shtml)
 
++ [泽连斯基会晤欧洲多国领导人 称愿启动下一轮三方谈判](https://news.cctv.com/2026/05/04/ARTIECJEiBIWg4MAEZKRJfOO260504.shtml)
+
++ [特朗普称伊朗的“新提议”不可接受](https://news.cctv.com/2026/05/04/ARTIZ73zsMSgwprI4JTOkfnV260504.shtml)
+
++ [以总理要求政府所有部长不得就伊朗问题接受媒体采访](https://news.cctv.com/2026/05/04/ARTI0dI8iT900phvNlYSTGoW260504.shtml)
+
++ [默茨称美削减驻德军队与其涉伊朗战事言论无关](https://news.cctv.com/2026/05/04/ARTIf72rmJo9iRSIaDXq4vNd260504.shtml)
+
