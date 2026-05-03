@@ -51,3 +51,7 @@
 
 + [求助个人订阅 gpt pro 最安全的方法](https://www.v2ex.com/t/1210117)
 
++ [苹果的信号是我误解了吗](https://www.v2ex.com/t/1210120)
+
++ [都说 Anthropic 不做人，现在国产模型厂也不做人](https://www.v2ex.com/t/1210113)
+

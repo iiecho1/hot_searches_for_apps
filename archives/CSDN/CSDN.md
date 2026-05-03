@@ -235,3 +235,15 @@
 
 + [Spring Cloud 分布式服务部署实战：从 0 到 1 实现微服务上线](https://blog.csdn.net/phltxy/article/details/160733601)
 
++ [【AI智能体】QClaw 腾讯本地化AI Agent 助手从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/160636401)
+
++ [第二十七篇技术笔记：郭大侠学DoIP - 蓉儿叩门亦难进，暗号加密设门禁](https://blog.csdn.net/wang2471996/article/details/160668168)
+
++ [PyTorch强化学习实战——构建生成对抗网络生成Atari游戏画面](https://blog.csdn.net/LOVEmy134611/article/details/157436353)
+
++ [选择语句—代码逻辑的分叉口](https://blog.csdn.net/Lh12680505/article/details/160714282)
+
++ [智读致用｜《一人企业》6：内向、社恐、情绪化这些性格缺陷，一人创业反而用得上](https://blog.csdn.net/GODYAD/article/details/160743350)
+
++ [大模型如何“精准改错“?一文读懂模型编辑Model Editing](https://blog.csdn.net/2401_87629362/article/details/160714375)
+
