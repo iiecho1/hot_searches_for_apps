@@ -161,3 +161,17 @@
 
 + [博文八：Flutter for OpenHarmony 社区便民实战——水电燃气账单查询\+线上一键缴费模块](https://blog.csdn.net/KKei1638/article/details/160748501)
 
++ [【maaath】Flutter for OpenHarmony 短信管理应用实战](https://blog.csdn.net/maaath/article/details/160742998)
+
++ [鸿蒙 PC 底层开发技术详解（五）：应用沙箱环境和非应用沙箱环境的区别](https://blog.csdn.net/hqzing/article/details/160748691)
+
++ [六自由度刚体姿态动力学推导（附旋转矩阵的导数推导）](https://blog.csdn.net/weixin_44702605/article/details/160747775)
+
++ [用于 JavaScript 和 TypeScript 的 ES|QL 查询构建器：流式、类型安全的查询构建](https://blog.csdn.net/UbuntuTouch/article/details/160674988)
+
++ [星露谷物语手机版下载2026最新版（安卓+ios）附带新手全攻略](https://blog.csdn.net/2601_95957710/article/details/160700827)
+
++ [Arm Linux中断溯源（三）](https://blog.csdn.net/qq_73752713/article/details/160421048)
+
++ [[具身智能-559]：智能体（Agent）开发必掌握 Python 核心语法 超详解](https://blog.csdn.net/HiWangWenBing/article/details/160743741)
+
