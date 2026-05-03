@@ -25,3 +25,25 @@
 
 + [库克：MacBook Neo 供不应求，需求超出苹果预期，Mac 新用户数量创纪录](https://m.ithome.com/html/945952.htm)
 
++ [小米 MIX 5 手机曝光：真全面屏回归、磁吸镜头技术，登陆全球市场](https://m.ithome.com/html/946089.htm)
+
++ [三冠加冕！张雪机车 WSBK 匈牙利站第一回合正赛夺冠，最后 20 秒反杀](https://m.ithome.com/html/946065.htm)
+
++ [苹果 iOS 27 系统前瞻：卫星通信新增多项功能、全新虚拟键盘，预计 WWDC 26 亮相](https://m.ithome.com/html/946088.htm)
+
++ [小米 13 手机全系电池升级服务上线：官方原厂配件，定价 189 元](https://m.ithome.com/html/946098.htm)
+
++ [华为 Pura 90 Pro 系列手机首销情况出炉，Pro Max 同期约为上一代的 125%](https://m.ithome.com/html/946105.htm)
+
++ [曝华为 Pura X Max 系列横阔折手机首销单品激活近十万，畅享 90 Pro Max 累计激活超百万](https://m.ithome.com/html/946091.htm)
+
++ [约 2.9 万美元，中国产特斯拉 Model 3 后驱版在加拿大售价创历史新低](https://m.ithome.com/html/946083.htm)
+
++ [华为 5A 通信技术最新支持设备清单公布，含 Pura X Max、畅享 90 系列等](https://m.ithome.com/html/946099.htm)
+
++ [【IT之家评测室】REDMI K90 Max 手机体验评测：风冷散热加持，足够“冷静”](https://m.ithome.com/html/946078.htm)
+
++ [华为手机星闪（NearLink）最新适配清单公布，功能差异一表看懂](https://m.ithome.com/html/946131.htm)
+
++ [华为鸿蒙 HarmonyOS 5 / 6 超级终端支持连接设备公布，含手机、平板、电脑、耳机、音箱、智慧屏](https://m.ithome.com/html/946110.htm)
+

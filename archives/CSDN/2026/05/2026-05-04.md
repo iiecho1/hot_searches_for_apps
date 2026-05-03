@@ -101,3 +101,51 @@
 
 + [CSS Animation Timeline 可视化动画编辑器：从关键帧到流畅动画](https://blog.csdn.net/cbxjj/article/details/160743202)
 
++ [Day 18 编程实战：Keras搭建MLP神经网络](https://blog.csdn.net/wayz11/article/details/160747435)
+
++ [蓝牙CAP规范解析：构建多设备协同的通用音频新生态](https://blog.csdn.net/weixin_37800531/article/details/160603478)
+
++ [【LLM Gateway】生产级部署实战：LiteLLM + 多模型路由，实现成本降低 70% 与稳定性拉满](https://blog.csdn.net/qq_73472828/article/details/160699220)
+
++ [第二十九篇技术笔记：郭大侠学DoIP - 智勇射雕数东邪，桃花迷阵27绝](https://blog.csdn.net/wang2471996/article/details/160679147)
+
++ [【HarmonyOS 6】底部悬浮导航的迷你栏适配（API23）](https://blog.csdn.net/2503_94458334/article/details/160747583)
+
++ [机器人矩阵运算MATLAB计算](https://blog.csdn.net/2301_80966902/article/details/160745855)
+
++ [（第三十三篇）五月的文明奠基：OpenClaw 2026.5.2版本的文明级解读](https://blog.csdn.net/jinanwuhuaguo/article/details/160730338)
+
++ [Linux信号（Signal）](https://blog.csdn.net/lzh20040919/article/details/160745114)
+
++ [2026年5月AI编程工具横评：Cursor 3 vs TRAE SOLO vs Claude Code，谁才是真正的生产力革命？](https://blog.csdn.net/weixin_44822948/article/details/160746765)
+
++ [筑牢网络安全防线：Web应用防火墙（WAF）全面解析](https://blog.csdn.net/2402_88096536/article/details/160747368)
+
++ [【maaath】Flutter for OpenHarmony 手表配饰应用实战开发](https://blog.csdn.net/maaath/article/details/160736364)
+
++ [火山引擎方舟API工具扩展指南](https://blog.csdn.net/qq_38998213/article/details/160733131)
+
++ [从 0 到 1：AI Todos 项目 Day1 实战——用 pnpm + Turbo 搭建可迭代的 Monorepo 基线](https://blog.csdn.net/2301_78543166/article/details/160694890)
+
++ [【MySQL进阶系列】一文打通事务机制：从锁、Undo Log 到 MVCC 与隔离级别](https://blog.csdn.net/2301_80260194/article/details/160741502)
+
++ [课题推荐：多无人机分布式系统，协同路径规划与避碰。附代码运行结果](https://blog.csdn.net/callmeup/article/details/160667025)
+
++ [MGRE多点隧道组网综合实验](https://blog.csdn.net/2501_94685729/article/details/160716786)
+
++ [孤舟笔记 并发篇二十三 线程池是如何实现线程复用的？Worker循环取任务的秘密远比你想象的精巧](https://blog.csdn.net/q6196310920/article/details/160696650)
+
++ [潜伏 9 年的 Linux 核弹级漏洞：CopyFail CVE-2026-31431](https://blog.csdn.net/tsz520eee/article/details/160694459)
+
++ [如何做一名优秀的数字前端工程师（系统设计篇）](https://blog.csdn.net/2501_90220917/article/details/160692978)
+
++ [OpenClaw（养龙虾） +关于Hadoop hive的Skills（Cloudera CDH、CDP）](https://blog.csdn.net/zUKnk5mM7/article/details/160718760)
+
++ [自动化+智能化：证书生命周期管理的双重革命](https://blog.csdn.net/ksbug/article/details/160721278)
+
++ [鸿蒙 PC 底层开发技术详解（二）：OpenHarmony、HarmonyOS 与 GNU/Linux 的关系](https://blog.csdn.net/hqzing/article/details/160717501)
+
++ [Flutter for OpenHarmony 萌系实战合集：地图功能 + 音频播放一站式指南](https://blog.csdn.net/jiejiejiejie_/article/details/160675561)
+
++ [2026年五一杯数学建模B题：多工序协同作业问题](https://blog.csdn.net/2501_92464201/article/details/160695093)
+
