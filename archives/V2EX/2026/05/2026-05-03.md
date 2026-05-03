@@ -45,3 +45,5 @@
 
 + [五一假期写代码不想打字？ Mac 语音输入工具 Voilà，送 20 个免费授权](https://www.v2ex.com/t/1210036)
 
++ [Mac mini 配显示器，上 5K 还是高刷更重要？](https://www.v2ex.com/t/1210057)
+

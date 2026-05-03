@@ -195,3 +195,5 @@
 
 + [巴西两州连日暴雨已致8人死亡](https://news.cctv.com/2026/05/03/ARTImcln9gxv2UpvX8I9djck260503.shtml)
 
++ [伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁](https://news.cctv.com/2026/05/03/ARTI6fCnzY8Nwoq5ldag1RNq260503.shtml)
+

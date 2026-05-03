@@ -215,3 +215,13 @@
 
 + [鸿蒙 PC 底层开发技术详解（二）：OpenHarmony、HarmonyOS 与 GNU/Linux 的关系](https://blog.csdn.net/hqzing/article/details/160717501)
 
++ [【AI Agent 长任务稳定运行指南】从 Demo 到生产的最后一公里](https://blog.csdn.net/qq_73472828/article/details/160726069)
+
++ [2026 年 5月 3日 AI 行业大事件：巨头战略合作、模型发布与产品更新、国际重磅](https://blog.csdn.net/2401_84289488/article/details/160737064)
+
++ [CSS Animation Timeline 可视化动画编辑器：从关键帧到流畅动画](https://blog.csdn.net/cbxjj/article/details/160743202)
+
++ [厂商角色的异化与竞赛公平的失衡（疑似AI生成文章）](https://blog.csdn.net/zhuoqingjoking97298/article/details/160726361)
+
++ [【一等奖版】2026 五一数学建模 C题 边坡预警问题](https://blog.csdn.net/a1552100455/article/details/160689004)
+
