@@ -203,3 +203,9 @@
 
 + [火山引擎方舟API工具扩展指南](https://blog.csdn.net/qq_38998213/article/details/160733131)
 
++ [aio-pika介绍（基于asyncio的Python异步消息队列客户端，用于操作RabbitMQ，并实现对AMQP协议支持）](https://blog.csdn.net/Dontla/article/details/160691054)
+
++ [豆包API实现精准网页检索：web_search的实现流程-意图识别-信息获取-知识融合-事实校验」的Agent闭环](https://blog.csdn.net/qq_38998213/article/details/160732784)
+
++ [局域网部署AI智能体完整教程：调用GPT-5.5与Claude Opus 4.7等大模型API，从零搭建私有化智能助手](https://blog.csdn.net/nmdbbzcl/article/details/160702410)
+

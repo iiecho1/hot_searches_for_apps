@@ -183,3 +183,7 @@
 
 + [伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认](https://news.cctv.com/2026/05/03/ARTIz7IYCMKyU30UpbsYihCU260503.shtml)
 
++ [泽连斯基称乌持续制裁俄“影子舰队” 击中两艘进港油轮](https://news.cctv.com/2026/05/03/ARTI6Ze7pRVbiQJeKCCQOfkU260503.shtml)
+
++ [印度德里东部一居民楼起火 至少造成9人死亡](https://news.cctv.com/2026/05/03/ARTIt5lfuPsjDWTQH0ydiRbo260503.shtml)
+
