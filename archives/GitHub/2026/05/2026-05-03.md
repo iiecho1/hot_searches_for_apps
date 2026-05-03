@@ -17,3 +17,11 @@
 
 + [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
++ [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+
++ [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+
++ [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
++ [openwrt/openwrt](https://github.com/openwrt/openwrt)
+
