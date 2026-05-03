@@ -169,3 +169,7 @@
 
 + [伊朗公布伊方最新谈判方案：所有问题应在30天内解决](https://news.cctv.com/2026/05/03/ARTIqRuymGSIng4v2vyKj1v8260503.shtml)
 
++ [国际乒联回应“女运动员遭安保人员不当肢体接触”：正在对事件进行全面审查](https://news.cctv.com/2026/05/03/ARTIGUbwxR4VN5qFZqEI38Dl260503.shtml)
+
++ [3月初在南非索维托地区被绑架未成年中国公民已安全获救](https://news.cctv.com/2026/05/03/ARTIk2AfJqpluql2IxjJPU4f260503.shtml)
+

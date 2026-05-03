@@ -175,3 +175,17 @@
 
 + [AISystem：鸿蒙游戏中的 AI 行为驱动](https://blog.csdn.net/qq_36863796/article/details/160665869)
 
++ [2026年4月AI大事件 汇总](https://blog.csdn.net/qq_67069922/article/details/160656342)
+
++ [RabbitMQ延时队列实现](https://blog.csdn.net/xingchendai2023/article/details/160719500)
+
++ [三分钟云课实践速通--数字电子技术-数电--SimulIDE](https://blog.csdn.net/ZhangRelay/article/details/160659332)
+
++ [基于 Design Compiler 的 UDP Payload 追加控制模块综合与门级后仿真](https://blog.csdn.net/2301_81251211/article/details/160688588)
+
++ [科技与科学领域重点新闻摘要-2026年5月1日](https://blog.csdn.net/qq_39427511/article/details/160694667)
+
++ [【Linux】Linux 系统的自动化运维工具 Ansible](https://blog.csdn.net/qq_41187124/article/details/157507031)
+
++ [我们如何同步 .NET 的虚拟单体仓库（一）](https://blog.csdn.net/bpDZ2w6M6/article/details/160691148)
+
