@@ -55,3 +55,5 @@
 
 + [张雪机车 WSBK 匈牙利站首回合最后 20 秒反超夺冠，第二回合今晚开战](https://m.ithome.com/html/946142.htm)
 
++ [张雪回应德比斯 WSBK 匈牙利站第二回合退赛：机械故障，一切都有可能发生](https://m.ithome.com/html/946186.htm)
+
