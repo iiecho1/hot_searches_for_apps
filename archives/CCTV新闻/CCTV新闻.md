@@ -187,3 +187,11 @@
 
 + [印度德里东部一居民楼起火 至少造成9人死亡](https://news.cctv.com/2026/05/03/ARTIt5lfuPsjDWTQH0ydiRbo260503.shtml)
 
++ [伊朗驻巴基斯坦大使：伊美谈判新方案已经巴方转交美方](https://news.cctv.com/2026/05/03/ARTIm518fk6GVrqV6XBGdgA5260503.shtml)
+
++ [以军称在黎南部打死2名黎真主党武装人员并拆除导弹发射装置](https://news.cctv.com/2026/05/03/ARTI6rYkr2SBtqlze9rH0eMp260503.shtml)
+
++ [加沙地带政府媒体办公室：262名媒体工作者在以军行动中遇难](https://news.cctv.com/2026/05/03/ARTIy3WJ7JlXzvCheIFjDrEZ260503.shtml)
+
++ [巴西两州连日暴雨已致8人死亡](https://news.cctv.com/2026/05/03/ARTImcln9gxv2UpvX8I9djck260503.shtml)
+
