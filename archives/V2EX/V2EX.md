@@ -47,3 +47,7 @@
 
 + [Mac mini 配显示器，上 5K 还是高刷更重要？](https://www.v2ex.com/t/1210057)
 
++ [谷歌广告一个月带来 7.58 美元的收入](https://www.v2ex.com/t/1210051)
+
++ [求助个人订阅 gpt pro 最安全的方法](https://www.v2ex.com/t/1210117)
+

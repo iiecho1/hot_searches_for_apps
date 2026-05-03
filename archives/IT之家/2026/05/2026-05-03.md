@@ -81,3 +81,5 @@
 
 + [AI 来了≠该走了：公司用上 AI 后裁 35 岁主管降本增效，浙江杭州市中院判构成违法解除劳动合同](https://m.ithome.com/html/946108.htm)
 
++ [华为手机星闪（NearLink）最新适配清单公布，功能差异一表看懂](https://m.ithome.com/html/946131.htm)
+

@@ -197,3 +197,17 @@
 
 + [伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁](https://news.cctv.com/2026/05/03/ARTI6fCnzY8Nwoq5ldag1RNq260503.shtml)
 
++ [俄专家：东京审判是建立战后世界秩序的重要一步](https://news.cctv.com/2026/05/03/ARTIVw90ykpoZY4RVicy44s5260503.shtml)
+
++ [新发现东京审判“萨顿档案”揭露侵华日军四方面暴行](https://news.cctv.com/2026/05/03/ARTIQcGIjVB36YWWuacqI71P260503.shtml)
+
++ [述评丨历史的判决不容翻案——写在东京审判开庭80周年之际](https://news.cctv.com/2026/05/03/ARTIILSuZomq3GJgke0DsjQY260503.shtml)
+
++ [“为非中经贸合作开辟更广阔的前景”](https://news.cctv.com/2026/05/03/ARTILyNQbfypscULqJ5GI4Pl260503.shtml)
+
++ [全球媒体聚焦 | 美媒：中国游客“五一”出行 树立规模与经济双标杆](https://news.cctv.com/2026/05/03/ARTIJ0jhpFo1TQIvEYIYlAil260503.shtml)
+
++ [英国布里斯托尔发生爆炸致2人死亡 当局宣布“重大事件”](https://news.cctv.com/2026/05/03/ARTIpUOvUaPeK1Mwc3qqGxGL260503.shtml)
+
++ [东京审判开庭80周年 | 海外学者：反思二战历史教训 抵制新型军国主义](https://news.cctv.com/2026/05/03/ARTIyXGwUUQsIGlu6j7gA4Rr260503.shtml)
+
