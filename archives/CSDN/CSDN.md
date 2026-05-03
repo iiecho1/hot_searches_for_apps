@@ -189,3 +189,17 @@
 
 + [我们如何同步 .NET 的虚拟单体仓库（一）](https://blog.csdn.net/bpDZ2w6M6/article/details/160691148)
 
++ [花3个月搭的RAG系统，上线一周被吐槽“人工智障“——问题出在哪？](https://blog.csdn.net/IRpickstars/article/details/160710664)
+
++ [【花雕动手做】重构Agent认知闭环：七状态状态机驱动的300ms网络自愈架构](https://blog.csdn.net/weixin_41659040/article/details/160727024)
+
++ [【西瓜带你学Kafka | 第五期】Kafka 副本同步机制与集群健康管理：ISR、故障选举与关键配置（文含图解）](https://blog.csdn.net/2501_93491346/article/details/160636858)
+
++ [Spring AI 2.0 开发Java Agent智能体 - Spring AI项目调用本地Ollama模型](https://blog.csdn.net/caoli201314/article/details/160716256)
+
++ [人类数据 | 行为克隆 | 机器人学习的未来](https://blog.csdn.net/2301_80171004/article/details/160731121)
+
++ [2026年第二十三届五一数学建模竞赛C题超详细解题思路+各问题可用模型推荐+部分模型结果展示](https://blog.csdn.net/qq_33690821/article/details/160686915)
+
++ [火山引擎方舟API工具扩展指南](https://blog.csdn.net/qq_38998213/article/details/160733131)
+

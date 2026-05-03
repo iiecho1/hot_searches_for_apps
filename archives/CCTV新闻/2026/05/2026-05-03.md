@@ -173,3 +173,13 @@
 
 + [3月初在南非索维托地区被绑架未成年中国公民已安全获救](https://news.cctv.com/2026/05/03/ARTIk2AfJqpluql2IxjJPU4f260503.shtml)
 
++ [美军签近亿美元合同 借AI探扫霍尔木兹海峡水雷](https://news.cctv.com/2026/05/03/ARTIuFLsGcqY7AcrsVryblCN260503.shtml)
+
++ [据称伊朗不要求直接谈判前解除霍尔木兹海峡封锁](https://news.cctv.com/2026/05/03/ARTIprhrjjjstH4zwbKfPj7Z260503.shtml)
+
++ [消息人士称有约旦战机“疑似”空袭叙南部武器毒品库](https://news.cctv.com/2026/05/03/ARTISxOrATkwwmxOn24CqT88260503.shtml)
+
++ [政策反转？美联邦应急管理局返聘年初被裁雇员](https://news.cctv.com/2026/05/03/ARTIeUe65LQjfTYVxYATYUy3260503.shtml)
+
++ [伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认](https://news.cctv.com/2026/05/03/ARTIz7IYCMKyU30UpbsYihCU260503.shtml)
+
