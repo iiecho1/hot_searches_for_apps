@@ -167,3 +167,5 @@
 
 + [默茨称美削减驻德军队与其涉伊朗战事言论无关](https://news.cctv.com/2026/05/04/ARTIf72rmJo9iRSIaDXq4vNd260504.shtml)
 
++ [海事情报公司：4月共有25艘原油油轮从伊朗驶离](https://news.cctv.com/2026/05/04/ARTIwkfRlzZdKEyJ1KyvYOan260504.shtml)
+

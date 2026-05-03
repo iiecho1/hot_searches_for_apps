@@ -57,3 +57,5 @@
 
 + [张雪回应德比斯 WSBK 匈牙利站第二回合退赛：机械故障，一切都有可能发生](https://m.ithome.com/html/946186.htm)
 
++ [华为畅连无网通信功能最新适配机型公布，新增支持 Mate 70 Air](https://m.ithome.com/html/946114.htm)
+
