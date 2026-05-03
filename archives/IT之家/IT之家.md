@@ -47,3 +47,11 @@
 
 + [华为鸿蒙 HarmonyOS 5 / 6 超级终端支持连接设备公布，含手机、平板、电脑、耳机、音箱、智慧屏](https://m.ithome.com/html/946110.htm)
 
++ [黄仁勋称英伟达中国市场份额已降为零，美国出口管制效果适得其反](https://m.ithome.com/html/946181.htm)
+
++ [AI 来了≠该走了：公司用上 AI 后裁 35 岁主管降本增效，浙江杭州市中院判构成违法解除劳动合同](https://m.ithome.com/html/946108.htm)
+
++ [世界超级摩托车锦标赛匈牙利站：张雪机车车手德比斯第二回合遗憾退赛](https://m.ithome.com/html/946167.htm)
+
++ [张雪机车 WSBK 匈牙利站首回合最后 20 秒反超夺冠，第二回合今晚开战](https://m.ithome.com/html/946142.htm)
+

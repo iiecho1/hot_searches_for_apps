@@ -149,3 +149,15 @@
 
 + [2026年五一杯数学建模B题：多工序协同作业问题](https://blog.csdn.net/2501_92464201/article/details/160695093)
 
++ [【Rust 桌面 GUI 到底该怎么选？7大主流框架深度对比与决策指南】](https://blog.csdn.net/jjhenda00/article/details/160743198)
+
++ [Python asyncpg库介绍（基于Python asyncio的PostgreSQL数据库驱动）连接池、SQLAlchemy](https://blog.csdn.net/Dontla/article/details/160688635)
+
++ [鸿蒙 PC 底层开发技术详解（三）：鸿蒙 PC 上的工具链](https://blog.csdn.net/hqzing/article/details/160741902)
+
++ [Claude Code 免费接入 NVIDIA NIM 国产大模型完整教程（零成本可用）](https://blog.csdn.net/zzzb123456/article/details/160694215)
+
++ [ES相关度评分算法](https://blog.csdn.net/weixin_46300935/article/details/160694143)
+
++ [博文八：Flutter for OpenHarmony 社区便民实战——水电燃气账单查询\+线上一键缴费模块](https://blog.csdn.net/KKei1638/article/details/160748501)
+
