@@ -145,3 +145,5 @@
 
 + [【Linux系统】进程信号（上）](https://blog.csdn.net/Miun123/article/details/160667416)
 
++ [【智能体】Agent的四种设计模式之：ReAct](https://blog.csdn.net/wuyoudeyuer/article/details/160716583)
+
