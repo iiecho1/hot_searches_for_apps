@@ -27,3 +27,7 @@
 
 + [在手机上使用 Codex](https://www.v2ex.com/t/1210106)
 
++ [虽然是老生常谈，但还是求教 2026 年笔记软件如何选择](https://www.v2ex.com/t/1210148)
+
++ [怎么充 gpt 会员，还是我被骗了](https://www.v2ex.com/t/1210094)
+

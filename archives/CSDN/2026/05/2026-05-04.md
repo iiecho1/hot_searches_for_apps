@@ -177,3 +177,23 @@
 
 + [2026年第二十三届五一数学建模竞赛B题四问参考答案+多算法对比](https://blog.csdn.net/qq_33690821/article/details/160699101)
 
++ [【花雕动手做】25 元开源 AI 硬件 MimiClaw：拇指大小 7×24 小时在线，全记忆 Markdown 本地化存储](https://blog.csdn.net/weixin_41659040/article/details/160727392)
+
++ [一篇文章带你了解CSDN旗下有多少CSDN相关的域名](https://blog.csdn.net/qq_44866828/article/details/160747218)
+
++ [KIC（Kong Ingress Controller）（运行在K8s集群中的控制器，将K8s的Ingress/CRD资源，转换为Kong网关的配置）CRD自定义资源定义、KongIngress](https://blog.csdn.net/Dontla/article/details/160720667)
+
++ [Python之文档自动上传至飞书云盘](https://blog.csdn.net/alwaysrun/article/details/160745654)
+
++ [.NET  & C#  New Features 新增功能介绍-ASP.NET Core](https://blog.csdn.net/EOB2OL2ep/article/details/160715076)
+
++ [微服务架构设计：Spring Cloud Gateway与Nacos集成](https://blog.csdn.net/bzmK1DTbd/article/details/160714815)
+
++ [基于 seedance2.0 wan2.7 happyhorse AIGC Dashboard 搭建一个可落地的视频生成控制台](https://blog.csdn.net/lcnwys/article/details/160750717)
+
++ [让开发流程更高效：为 Visual Studio 订阅用户解锁 Syncfusion](https://blog.csdn.net/dx749JmjJ/article/details/160711451)
+
++ [【Redis】持久化策略](https://blog.csdn.net/TwoCat_C/article/details/160691162)
+
++ [Nginx 学习总结](https://blog.csdn.net/rxo2AUcVf/article/details/160716674)
+

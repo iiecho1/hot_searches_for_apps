@@ -169,3 +169,5 @@
 
 + [海事情报公司：4月共有25艘原油油轮从伊朗驶离](https://news.cctv.com/2026/05/04/ARTIwkfRlzZdKEyJ1KyvYOan260504.shtml)
 
++ [美联航一客机降落时撞上路灯杆 联邦航空管理局展开调查](https://news.cctv.com/2026/05/04/ARTIOixYgCVWEWl3x8tEfxtV260504.shtml)
+
