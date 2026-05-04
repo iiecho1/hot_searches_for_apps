@@ -247,3 +247,9 @@
 
 + [RK3576 BSP 摄像头 Bring-up 实战：从 IMX585 点亮到 ISP、3A 与视频流稳定输出](https://blog.csdn.net/Interview_TC/article/details/160745946)
 
++ [如果文件是客服回话记录，需要采用文件中用户原话，但是一次又不能投入太多文本，怎么解决 ？基于LangChain创建Excel大文件分析技能](https://blog.csdn.net/qq_38998213/article/details/160747837)
+
++ [Claude Code 深度拆解：多 Agent 协作 4 — Swarm 团队、Coordinator 指挥官与远程 Agent](https://blog.csdn.net/wayne_lee_lwc/article/details/160708652)
+
++ [Flutter+开源鸿蒙实战｜智联邻里Day8 Lottie动画集成+url_launcher跳转拨号+个人中心完善+全局UI统一](https://blog.csdn.net/xmdy5866/article/details/160747564)
+
