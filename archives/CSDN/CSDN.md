@@ -137,3 +137,11 @@
 
 + [ChatGPT-Image-2 绘图实战：国内镜像站 Prompt 工程指南及多模型对比](https://blog.csdn.net/yaodong518/article/details/160707470)
 
++ [深度学习实战-基于EfficientNetB5的家禽鸡病图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159314632)
+
++ [Ubuntu24.04向日葵远程控制](https://blog.csdn.net/LXdragon1991/article/details/160747545)
+
++ [NetToSerial Bridge - 网络转虚拟串口桥接工具](https://blog.csdn.net/qq_23151423/article/details/160746064)
+
++ [【Linux系统】进程信号（上）](https://blog.csdn.net/Miun123/article/details/160667416)
+
