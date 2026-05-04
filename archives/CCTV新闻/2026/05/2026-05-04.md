@@ -187,3 +187,11 @@
 
 + [伊朗军方：美军若试图接近或进入霍尔木兹海峡将遭到攻击](https://news.cctv.com/2026/05/04/ARTIetICGRSjlW1u0FyBJIgV260504.shtml)
 
++ [伊朗公布伊控制下的霍尔木兹海峡地区新地图](https://news.cctv.com/2026/05/04/ARTIdSLdOwdaUTrTadhGeQnZ260504.shtml)
+
++ [北约秘书长：北约欧洲国家听懂特朗普的话了 正落实美军请求](https://news.cctv.com/2026/05/04/ARTItg3ZRTTTMyF3yyK92vZL260504.shtml)
+
++ [南非东开普省发生一起严重交通事故 致7人死亡](https://news.cctv.com/2026/05/04/ARTIIAoWyohGu7c1oLiD72JK260504.shtml)
+
++ [波音因737 MAX坠机事故再遭民事起诉](https://news.cctv.com/2026/05/04/ARTIo3askkRZgLn5QIm8hiW4260504.shtml)
+

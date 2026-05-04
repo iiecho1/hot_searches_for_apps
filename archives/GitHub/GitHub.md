@@ -19,3 +19,19 @@
 
 + [openwrt/openwrt](https://github.com/openwrt/openwrt)
 
++ [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
+
++ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
++ [virattt/dexter](https://github.com/virattt/dexter)
+
++ [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+
++ [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)
+
++ [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
++ [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
+
++ [docusealco/docuseal](https://github.com/docusealco/docuseal)
+

@@ -237,3 +237,13 @@
 
 + [2025昆明VR交互设备排行榜：实测避坑必选这4家权威认证](https://blog.csdn.net/weixin_40852657/article/details/160722001)
 
++ [【高等数学 第十章】重积分](https://blog.csdn.net/he_zhidan/article/details/160675384)
+
++ [基于多种智能优化算法的山地无人机三维路径规划方法研究（Matlab代码实现）](https://blog.csdn.net/Yan_she_He/article/details/160751949)
+
++ [一款基于 .NET 开源、跨平台应用程序自动升级组件](https://blog.csdn.net/UNYDAA89o/article/details/160742883)
+
++ [10_从 React Hooks 本质看 useState](https://blog.csdn.net/XiugongHao/article/details/160743031)
+
++ [RK3576 BSP 摄像头 Bring-up 实战：从 IMX585 点亮到 ISP、3A 与视频流稳定输出](https://blog.csdn.net/Interview_TC/article/details/160745946)
+
