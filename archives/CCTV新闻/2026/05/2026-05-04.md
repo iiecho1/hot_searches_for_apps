@@ -181,3 +181,9 @@
 
 + [美军称将动用军舰等支持霍尔木兹海峡船只疏导行动](https://news.cctv.com/2026/05/04/ARTI9e5oNNYbq3SK4iJgxXGO260504.shtml)
 
++ [一艘被扣押伊朗货船上的22名船员被转移至巴基斯坦](https://news.cctv.com/2026/05/04/ARTIPQIDDS3Yju077TUbAeXn260504.shtml)
+
++ [塔吉克斯坦发生4.7级地震，震源深度100千米](https://news.cctv.com/2026/05/04/ARTIefJPLvt9smoTiKmECGEO260504.shtml)
+
++ [伊朗军方：美军若试图接近或进入霍尔木兹海峡将遭到攻击](https://news.cctv.com/2026/05/04/ARTIetICGRSjlW1u0FyBJIgV260504.shtml)
+

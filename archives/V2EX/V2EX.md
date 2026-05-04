@@ -35,3 +35,9 @@
 
 + [apns（苹果消息服务）推送异常后目前所做的努力](https://www.v2ex.com/t/1210130)
 
++ [If everyone is cooking, who is eating?](https://www.v2ex.com/t/1210104)
+
++ [城巴佬——城市中产在消费劳动表演](https://www.v2ex.com/t/1210190)
+
++ [各位大佬，调查一下你们都用哪些运营商？每月所有话费多钱一个月？](https://www.v2ex.com/t/1210156)
+

@@ -219,3 +219,21 @@
 
 + [知识框架（UE5）](https://blog.csdn.net/www__wwxr/article/details/160689221)
 
++ [【HarmonyOS 6.0】CANN Kit 新增支持获取 AI 模型 Dump 维测数据功能详解](https://blog.csdn.net/weixin_74809706/article/details/160473816)
+
++ [HarmonyOS 6（API 23）实战：打造“AR 沉浸式音乐创作工作站“——基于 Face AR 表情音色映射 + Body AR 手势演奏的 PC 端空间音乐系统](https://blog.csdn.net/u014727709/article/details/160689006)
+
++ [2026最新一键AI自动生成软著申请表最新格式：AI-Skills自动化生成全套材料，从申请表到源代码文档、用户手册、设计说明书一应俱全，还支持Java、Python、Go等多技术栈，完全适配独立开发](https://blog.csdn.net/qq_44866828/article/details/160746761)
+
++ [unity性能优化](https://blog.csdn.net/qq_67498972/article/details/160704616)
+
++ [第三十一篇技术笔记：郭大侠学UDS（22服务）- 武学泰斗藏经阁，秘籍存放讲规则](https://blog.csdn.net/wang2471996/article/details/160720893)
+
++ [YOLO火焰/烟雾检测系统](https://blog.csdn.net/qq_27661837/article/details/160747679)
+
++ [Codex 买号登录问题排查与 auth.json 手动配置记录](https://blog.csdn.net/qq_36710118/article/details/160694989)
+
++ [解构千亿级交通数据：基于Java的冷热分离架构与存储成本革命](https://blog.csdn.net/2401_88677290/article/details/160084784)
+
++ [2025昆明VR交互设备排行榜：实测避坑必选这4家权威认证](https://blog.csdn.net/weixin_40852657/article/details/160722001)
+
