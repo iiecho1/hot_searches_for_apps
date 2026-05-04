@@ -195,3 +195,11 @@
 
 + [波音因737 MAX坠机事故再遭民事起诉](https://news.cctv.com/2026/05/04/ARTIo3askkRZgLn5QIm8hiW4260504.shtml)
 
++ [美军称两艘悬挂美国国旗的商船已通过霍尔木兹海峡](https://news.cctv.com/2026/05/04/ARTI9g1RwFU99xdurN6uOwTh260504.shtml)
+
++ [大西洋一邮轮出现汉坦病毒感染事件 世卫：不必恐慌或实施旅行限制](https://news.cctv.com/2026/05/04/ARTIjZq3d9EUcw25o4bqIDoh260504.shtml)
+
++ [伊朗向试图进入霍尔木兹海峡的美军舰发射导弹 迫使其返航](https://news.cctv.com/2026/05/04/ARTIUaHVGdLlsYH5sVJqYhFz260504.shtml)
+
++ [新闻调查丨东京审判80年 日本军国主义潜滋暗长](https://news.cctv.com/2026/05/04/ARTIHhU49VnxITvtPJ8Fo5VE260504.shtml)
+
