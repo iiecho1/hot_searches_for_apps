@@ -171,3 +171,13 @@
 
 + [美联航一客机降落时撞上路灯杆 联邦航空管理局展开调查](https://news.cctv.com/2026/05/04/ARTIOixYgCVWEWl3x8tEfxtV260504.shtml)
 
++ [菲众议院司法委员会决定将副总统弹劾案提交全体会议表决](https://news.cctv.com/2026/05/04/ARTIGcbNQreBtJhSgGmf4uib260504.shtml)
+
++ [菲律宾马荣火山喷发大量火山灰 致超10万人受灾](https://news.cctv.com/2026/05/04/ARTInQRNFhJLfCnehqSXAvfh260504.shtml)
+
++ [英国海事贸易组织说一艘油轮在阿联酋附近被击中](https://news.cctv.com/2026/05/04/ARTI4Feykp3HyEh4c7ua8y4I260504.shtml)
+
++ [伊朗议会要员：美干涉霍尔木兹海峡“新管理制度”将被视为违反停火](https://news.cctv.com/2026/05/04/ARTIwkLYsTXPVDxkUdzQ7X2N260504.shtml)
+
++ [美军称将动用军舰等支持霍尔木兹海峡船只疏导行动](https://news.cctv.com/2026/05/04/ARTI9e5oNNYbq3SK4iJgxXGO260504.shtml)
+

@@ -31,3 +31,7 @@
 
 + [怎么充 gpt 会员，还是我被骗了](https://www.v2ex.com/t/1210094)
 
++ [嘚瑟一下，有一个 gmail 账号可以改用户名了](https://www.v2ex.com/t/1210089)
+
++ [apns（苹果消息服务）推送异常后目前所做的努力](https://www.v2ex.com/t/1210130)
+
