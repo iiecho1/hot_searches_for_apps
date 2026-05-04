@@ -161,3 +161,11 @@
 
 + [总台记者探访丨叩问正义 捍卫真相 失焦的东京审判法庭旧址](https://news.cctv.com/2026/05/02/ARTIZpBhVY7V80xBRGYfM1oF260502.shtml)
 
++ [俄罗斯国防部宣布5月8日至9日停火](https://news.cctv.com/2026/05/05/ARTIKcKoX6mo6pwA9x1bTUYN260505.shtml)
+
++ [美军称击沉6艘伊朗小型船只](https://news.cctv.com/2026/05/05/ARTIdE2j0xdMKFfrag361qEl260505.shtml)
+
++ [伊朗第一副总统：管控霍尔木兹海峡是伊朗的合法权利](https://news.cctv.com/2026/05/05/ARTIzpwUwdfyd1QYhWKm1CBZ260505.shtml)
+
++ [德国莱比锡发生汽车冲撞人群事件 已致2死多伤](https://news.cctv.com/2026/05/05/ARTIwvYVg9Gjdty3rIAyrkq2260505.shtml)
+

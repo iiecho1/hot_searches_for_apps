@@ -99,3 +99,41 @@
 
 + [【JAVA Spring面经】Spring 事务失效情况](https://blog.csdn.net/2301_81831660/article/details/160745074)
 
++ [HarmonyOS 6（API 23）实战：打造“空间相册“——基于 Face AR 表情驱动 + 沉浸光感悬浮导航的 PC 端沉浸式照片浏览系统](https://blog.csdn.net/u014727709/article/details/157437569)
+
++ [我让AI写了个网页，它自动变成了视频](https://blog.csdn.net/weixin_66295112/article/details/160747646)
+
++ [【AI Agent 长任务稳定运行指南】从 Demo 到生产的最后一公里](https://blog.csdn.net/qq_73472828/article/details/160726069)
+
++ [2026最新一键AI自动生成软著申请表最新格式：AI-Skills自动化生成全套材料，从申请表到源代码文档、用户手册、设计说明书一应俱全，还支持Java、Python、Go等多技术栈，完全适配独立开发](https://blog.csdn.net/qq_44866828/article/details/160746761)
+
++ [## 博文六：Flutter for OpenHarmony 社区便民实战——小区访客临时通行码一键申领模块](https://blog.csdn.net/KKei1638/article/details/160743905)
+
++ [轻松完成 DNS 服务器配置实验](https://blog.csdn.net/2401_89098757/article/details/160566050)
+
++ [【Kafka核心】Kafka高性能的四大核心支柱：零拷贝、批量发送、页缓存、压缩](https://blog.csdn.net/qq_45914609/article/details/160665724)
+
++ [Ghostty：告别 Mac 毛坯终端，打造 2026 最丝滑的 Ghostty AI 开发驾驶舱——Claude Code 团队也在用](https://blog.csdn.net/2301_80035882/article/details/160693971)
+
++ [【PostgreSQL从零到精通】第02篇：为什么选择PostgreSQL？——七大核心优势全面解读](https://blog.csdn.net/xyghehehehe/article/details/160700089)
+
++ [记一次商业级 .NET 保护壳完整脱壳实战](https://blog.csdn.net/Ww3k8KX08/article/details/160741740)
+
++ [Spring Boot 整合 Druid 并开启监控](https://blog.csdn.net/salipopl/article/details/160744875)
+
++ [数据库Skill开发教程：从零构建SQLite应用](https://blog.csdn.net/key_3_feng/article/details/160747558)
+
++ [Linux进程之冯诺依曼体系结构，操作系统，以及进程的基本概念](https://blog.csdn.net/2501_93351213/article/details/160741866)
+
++ [基于多种智能优化算法的无人机三维路径规划研究（Matlab代码实现）](https://blog.csdn.net/Yan_she_He/article/details/160751945)
+
++ [Spring Boot 实战篇（四）：实现用户登录与注册功能](https://blog.csdn.net/2611_94915296/article/details/160744843)
+
++ [OpenClaw + QQBot 实战：从 0 到 1 搭建你的消息自动化助手](https://blog.csdn.net/qq_28259641/article/details/160743415)
+
++ [一款基于 .NET 开源、跨平台应用程序自动升级组件](https://blog.csdn.net/UNYDAA89o/article/details/160742883)
+
++ [量子计算对区块链的威胁：对安全密钥的持续需求](https://blog.csdn.net/mutourend/article/details/160703950)
+
++ [ChatGPT-Image-2 绘图实战：国内镜像站 Prompt 工程指南及多模型对比](https://blog.csdn.net/yaodong518/article/details/160707470)
+
