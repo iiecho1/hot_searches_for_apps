@@ -199,3 +199,7 @@
 
 + [哥伦比亚总统：参与他国冲突的雇佣兵违法](https://news.cctv.com/2026/05/05/ARTIDk7ZTUBF5Y7edSY0G6jX260505.shtml)
 
++ [美国鼓动商船“闯关”霍尔木兹海峡 多国呼吁谈判解决分歧](https://news.cctv.com/2026/05/05/ARTIFwZg9veNU5qu29Bxaj2k260505.shtml)
+
++ [新闻分析丨产油国动作频频 国际油价走势如何](https://news.cctv.com/2026/05/05/ARTIBQcYJtGYyZOEEOAyOsfi260505.shtml)
+
