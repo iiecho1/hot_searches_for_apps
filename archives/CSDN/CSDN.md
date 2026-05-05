@@ -161,3 +161,7 @@
 
 + [WinHex 19.8 SR-8 中文专家版｜全能底层十六进制编辑+数据取证+磁盘运维利器](https://blog.csdn.net/2301_81401822/article/details/160717748)
 
++ [每日大赛 爆料写法 mrds 模特大赛python写法](https://blog.csdn.net/weixin_44668686/article/details/160741058)
+
++ [4.MySQL数据表操作与CRUD详解：从建表、插入到查询的全流程](https://blog.csdn.net/2401_87122037/article/details/160712594)
+

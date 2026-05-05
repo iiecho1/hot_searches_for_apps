@@ -193,3 +193,9 @@
 
 + [中国驻阿联酋使领馆提醒在阿中国公民加强安全防范](https://news.cctv.com/2026/05/05/ARTIjrNoHyMT1jA6aNtPOvxg260505.shtml)
 
++ [阿联酋全国学校转为远程教学](https://news.cctv.com/2026/05/05/ARTIPzkIgl8hW7l4yWu8ZlUC260505.shtml)
+
++ [韩方称正在讨论是否参与美方霍尔木兹海峡行动](https://news.cctv.com/2026/05/05/ARTIz056nnhd99nhygONtb5j260505.shtml)
+
++ [哥伦比亚总统：参与他国冲突的雇佣兵违法](https://news.cctv.com/2026/05/05/ARTIDk7ZTUBF5Y7edSY0G6jX260505.shtml)
+
