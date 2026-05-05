@@ -183,3 +183,9 @@
 
 + [欧盟航空安全局将中东冲突空域飞行警告延长至5月12日](https://news.cctv.com/2026/05/06/ARTIpxIowDV3Chjdt6LUteQx260506.shtml)
 
++ [联合国欢迎俄乌分别宣布单方面停火](https://news.cctv.com/2026/05/06/ARTIetBii8s5Z1JNi3LLiFf3260506.shtml)
+
++ [南非卫生部证实该国确诊一例汉坦病毒病例](https://news.cctv.com/2026/05/06/ARTIAl8LZr6ppphq3qE9E1eC260506.shtml)
+
++ [美国务卿确认对伊朗“史诗怒火”军事行动已结束](https://news.cctv.com/2026/05/06/ARTIyPu5vY4Hoh0ZSBPgNMLt260506.shtml)
+
