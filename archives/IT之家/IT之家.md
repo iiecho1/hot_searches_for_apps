@@ -49,3 +49,7 @@
 
 + [理想 i6 定制隐私帘上线：可加装专属扩展包，199 元起](https://m.ithome.com/html/946332.htm)
 
++ [苹果 iOS / iPadOS 26.5 RC 发布：RCS 消息端到端加密测试、2026 年度彩虹壁纸...](https://m.ithome.com/html/946324.htm)
+
++ [苹果 iOS / iPadOS 18.7.9 正式版发布](https://m.ithome.com/html/946328.htm)
+

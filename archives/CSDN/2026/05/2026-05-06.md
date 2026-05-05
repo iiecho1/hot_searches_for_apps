@@ -131,3 +131,5 @@
 
 + [Linux信号（Signal）](https://blog.csdn.net/lzh20040919/article/details/160745114)
 
++ [Spring Boot 配置加载全解析：从 @ComponentScan 到自动配置原理](https://blog.csdn.net/HANhylyxy/article/details/160789415)
+

@@ -163,3 +163,23 @@
 
 + [特朗普避谈伊朗何种行为将被视为违反停火协议](https://news.cctv.com/2026/05/06/ARTI8C7cl3MJ2ZNhe2kOvcLy260506.shtml)
 
++ [以色列政府批准延长该国紧急状态至5月19日](https://news.cctv.com/2026/05/06/ARTI9SBNcgaWWGN659inScvj260506.shtml)
+
++ [西班牙提议涉疫邮轮转移感染者至佛得角](https://news.cctv.com/2026/05/06/ARTIepKX9KeWWXgU6RgaNXD7260506.shtml)
+
++ [美国得克萨斯州发生枪击事件 致2死3伤](https://news.cctv.com/2026/05/06/ARTILr8RIrKMgaSbYp2WSV95260506.shtml)
+
++ [日本参议员：对俄制裁损害日本国家利益](https://news.cctv.com/2026/05/06/ARTI4jLW5NJq0Ewdg7iFxzXB260506.shtml)
+
++ [伊朗总统：美国正对伊采取“极限施压”](https://news.cctv.com/2026/05/06/ARTIqqZHmcuM8ZvVOKhX1wjc260506.shtml)
+
++ [伊朗被曝已启动霍尔木兹海峡通行管理新机制](https://news.cctv.com/2026/05/06/ARTIyvdokGrTxSX68ckT2fJF260506.shtml)
+
++ [俄外交部：需警惕波斯湾地区再度爆发武装冲突](https://news.cctv.com/2026/05/06/ARTIq5cmkREuSViEEXvVSQYZ260506.shtml)
+
++ [欧盟官员：中东危机重创欧盟能源与经济](https://news.cctv.com/2026/05/06/ARTISRUSInM4iBP2sxRYpZAt260506.shtml)
+
++ [马里军方称在该国多地打击恐怖分子目标](https://news.cctv.com/2026/05/06/ARTIb0Vp43FINWj4gVTvJPRU260506.shtml)
+
++ [欧盟航空安全局将中东冲突空域飞行警告延长至5月12日](https://news.cctv.com/2026/05/06/ARTIpxIowDV3Chjdt6LUteQx260506.shtml)
+
