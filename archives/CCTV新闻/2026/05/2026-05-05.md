@@ -187,3 +187,9 @@
 
 + [伊朗外长：美国应避免被“不怀好意者”再次拖入泥潭](https://news.cctv.com/2026/05/05/ARTImk5kNRy1u0EGi6zg5Ayl260505.shtml)
 
++ [受中东局势影响 美汽油价格或持续上涨](https://news.cctv.com/2026/05/05/ARTIxMiSWYfpgy40xb6BCbDK260505.shtml)
+
++ [美军开始“疏导”行动 伊朗进行警告射击](https://news.cctv.com/2026/05/05/ARTIjUTZFeeJRhkfSY7C27ck260505.shtml)
+
++ [中国驻阿联酋使领馆提醒在阿中国公民加强安全防范](https://news.cctv.com/2026/05/05/ARTIjrNoHyMT1jA6aNtPOvxg260505.shtml)
+
