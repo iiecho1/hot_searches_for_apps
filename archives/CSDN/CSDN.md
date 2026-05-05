@@ -135,3 +135,7 @@
 
 + [Spring AI：让大模型住进 Spring 生态（四）](https://blog.csdn.net/2401_85198927/article/details/160715919)
 
++ [c++调用lua的方法](https://blog.csdn.net/weixin_43757333/article/details/160748006)
+
++ [一文读懂 Event Loop：浏览器、Node.js、Python 的“心脏“是如何跳动的](https://blog.csdn.net/weixin_43127990/article/details/160751850)
+
