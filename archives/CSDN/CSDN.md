@@ -191,3 +191,15 @@
 
 + [科技与科学领域重点新闻摘要-2026年5月3日](https://blog.csdn.net/qq_39427511/article/details/160735142)
 
++ [告别frp和ngrok：UU远程端口映射，开发者的内网穿透新选择](https://blog.csdn.net/Rqaqedamancy/article/details/160737344)
+
++ [终端工具汇总：fish-shell、Wave Terminal、SSHM、Netcatty、XTerminal](https://blog.csdn.net/lonelymanontheway/article/details/146134871)
+
++ [MySQL数据库误删恢复_mysql 数据 误删](https://blog.csdn.net/nbwenren/article/details/160742985)
+
++ [人工智能时代经管人才的知识体系构建：基于结构化学习范式的整合路径](https://blog.csdn.net/2601_94993696/article/details/160721545)
+
++ [基于多种智能优化算法的山地无人机三维路径规划方法研究（Matlab代码实现）](https://blog.csdn.net/Yan_she_He/article/details/160751949)
+
++ [Windows 管道命令实战：从端口查看到进程定位](https://blog.csdn.net/songhuangong123/article/details/160751950)
+

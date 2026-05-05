@@ -203,3 +203,15 @@
 
 + [新闻分析丨产油国动作频频 国际油价走势如何](https://news.cctv.com/2026/05/05/ARTIBQcYJtGYyZOEEOAyOsfi260505.shtml)
 
++ [美军称随时准备好恢复对伊朗大规模作战](https://news.cctv.com/2026/05/05/ARTIi9mRTGuy1s7hFURzPsSK260505.shtml)
+
++ [罗马尼亚议会通过对政府不信任动议 现政府转为临时政府](https://news.cctv.com/2026/05/05/ARTIc2I1HFg02KuUcg3HvzWS260505.shtml)
+
++ [中国技术助力曼谷“变废为电”](https://news.cctv.com/2026/05/05/ARTIVGYayLwDmSSjWLwAVMZV260505.shtml)
+
++ [丝路走笔丨南亚岛国上的“南水北调”](https://news.cctv.com/2026/05/05/ARTI0qLZOiWCzrAvzc4aq97M260505.shtml)
+
++ [美军称“布什”号航母正穿越阿拉伯海 搭载60多架战机](https://news.cctv.com/2026/05/05/ARTIaiJ5FbXzcMzvmsa2yofH260505.shtml)
+
++ [泰国内阁批准废除与柬埔寨海域备忘录 柬称将启动强制调解机制](https://news.cctv.com/2026/05/05/ARTIF5WoMV4NNeOzU1w2F4Pb260505.shtml)
+

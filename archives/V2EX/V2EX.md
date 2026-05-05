@@ -45,3 +45,9 @@
 
 + [今天开始是一年一度的 AP 考试周，给孩子写了个在茶余饭后刷题的手机网站](https://www.v2ex.com/t/1210250)
 
++ [51 摆摊记，随缘更新~](https://www.v2ex.com/t/1210293)
+
++ [Best Model 五一送 5 刀 纯血 Claude Max API 告别古法编程 人人有份](https://www.v2ex.com/t/1210298)
+
++ [OpenAI 渡劫，会不会破灭了？](https://www.v2ex.com/t/1210336)
+
