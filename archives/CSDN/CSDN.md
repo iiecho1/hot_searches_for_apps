@@ -101,3 +101,33 @@
 
 + [人工智能时代经管人才的知识体系构建：基于结构化学习范式的整合路径](https://blog.csdn.net/2601_94993696/article/details/160721545)
 
++ [当前主流人工智能（大语言模型、世界模型）与融智学双重形式化路径之间的根本差异](https://blog.csdn.net/geneculture/article/details/160742271)
+
++ [双螺旋与晶体管的共舞：基于DNA-硅基混合架构的碳硅共生信息论（世毫九实验室原创研究）](https://blog.csdn.net/weixin_50059478/article/details/160778794)
+
++ [【花雕动手做】25 元开源 AI 硬件 MimiClaw：拇指大小 7×24 小时在线，全记忆 Markdown 本地化存储](https://blog.csdn.net/weixin_41659040/article/details/160727392)
+
++ [单体转微服务：正确的拆分思路与实战原则（上）](https://blog.csdn.net/qq_67081703/article/details/160743296)
+
++ [一个便携打印机的接口测试](https://blog.csdn.net/zhuoqingjoking97298/article/details/160743301)
+
++ [北上广深：人口集聚+产业集群+城镇化=资产增值+信用扩张；偏远地区：公共品供给+主权安全兜底=集团永续经营的前提](https://blog.csdn.net/qq_38998213/article/details/160744221)
+
++ [代码库分析项目：GitNexus、Code Review Graph、CodeFlow](https://blog.csdn.net/lonelymanontheway/article/details/160731389)
+
++ [从零开始掌握BP神经网络：基于TensorFlow的回归与分类实战](https://blog.csdn.net/2303_77980993/article/details/160745344)
+
++ [【JAVA Spring面经】Spring 事务失效情况](https://blog.csdn.net/2301_81831660/article/details/160745074)
+
++ [GPT-Image-2最全指南：功能亮点、使用方法与提示词技巧一次讲清](https://blog.csdn.net/qq_39643986/article/details/160742045)
+
++ [DeepSeek-V4——迈向百万token上下文：保留V3的MoE和多token预测机制，提出混合注意力机制(CSA/HCA)、流形约束超连接mHC(替代残差)、Muon优化器(取代AdamW)](https://blog.csdn.net/v_JULY_v/article/details/160744266)
+
++ [SpringBoot Maven快速上手](https://blog.csdn.net/2611_94944035/article/details/160745683)
+
++ [【Karpathy】 最新分享：【Coding AGI 】已来](https://blog.csdn.net/qq_73472828/article/details/160751777)
+
++ [【无标题】Flutter for OpenHarmony 的文具手账应用开发实践](https://blog.csdn.net/maaath/article/details/160747958)
+
++ [Linux信号（Signal）](https://blog.csdn.net/lzh20040919/article/details/160745114)
+

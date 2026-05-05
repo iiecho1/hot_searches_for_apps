@@ -25,3 +25,27 @@
 
 + [消息称 Win11 文件资源管理器属性界面将迎来现代化改造，支持深色模式](https://m.ithome.com/html/946211.htm)
 
++ [中国移动官宣将推 AI-eSIM 产品](https://m.ithome.com/html/946362.htm)
+
++ [华为 Pura X Max 横阔折手机首周销量出炉：同期约为 Pura X 的 180%，典藏版占比约 55%](https://m.ithome.com/html/946356.htm)
+
++ [宇树机器人在美买票坐飞机，电池被没收](https://m.ithome.com/html/946334.htm)
+
++ [鸿蒙智行就网传享界 S9 零重力座椅相关视频发布情况说明：视频场景未达到防夹功能触发阈值](https://m.ithome.com/html/946439.htm)
+
++ [余额宝七日年化收益率首次跌破 1%](https://m.ithome.com/html/946431.htm)
+
++ [小米首款增程全尺寸 SUV“昆仑 N3”低伪装路试谍照曝光：前大灯组造型锐利、车头可见激光雷达凸起](https://m.ithome.com/html/946462.htm)
+
++ [泉州市教育局通报“学生走路玩手机被高校劝退”：已对学校主要负责人进行约谈](https://m.ithome.com/html/946341.htm)
+
++ [小米 17T/17T Pro 手机规格曝光，将在国内市场推出“套娃机型”](https://m.ithome.com/html/946451.htm)
+
++ [首台领克 10 量产车下线，预售价 20.99 万元起](https://m.ithome.com/html/946342.htm)
+
++ [消息称荣耀 600 手机国行暂定本月下旬上市：搭骁龙 8 Elite 芯片、备案配色有 6 款](https://m.ithome.com/html/946420.htm)
+
++ [最后一天：新一代小米 SU7 汽车首销期今日截止，最高送 6.9 万元权益](https://m.ithome.com/html/946430.htm)
+
++ [理想 i6 定制隐私帘上线：可加装专属扩展包，199 元起](https://m.ithome.com/html/946332.htm)
+
