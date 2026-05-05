@@ -215,3 +215,13 @@
 
 + [泰国内阁批准废除与柬埔寨海域备忘录 柬称将启动强制调解机制](https://news.cctv.com/2026/05/05/ARTIF5WoMV4NNeOzU1w2F4Pb260505.shtml)
 
++ [阿联酋称防空系统正应对导弹和无人机袭击](https://news.cctv.com/2026/05/05/ARTIwuFSnbPI0LlKgzzUe1Dw260505.shtml)
+
++ [伊朗最高领袖外事顾问：伊美之间仍处于战争状态](https://news.cctv.com/2026/05/05/ARTIUPQvpAnQ9V60JJr9vxBa260505.shtml)
+
++ [伊朗德黑兰以西一家购物中心发生火灾](https://news.cctv.com/2026/05/05/ARTI34XcZ8qOgLxKpzwq5vIS260505.shtml)
+
++ [美防长称特朗普无需寻求国会批准即可继续对伊军事行动](https://news.cctv.com/2026/05/05/ARTIGbo17VlqQCvybOHm14YE260505.shtml)
+
++ [首届亚美尼亚—欧盟峰会在埃里温举行](https://news.cctv.com/2026/05/05/ARTI81VVb7nE7lPEBsen2dL7260505.shtml)
+

@@ -51,3 +51,11 @@
 
 + [OpenAI 渡劫，会不会破灭了？](https://www.v2ex.com/t/1210336)
 
++ [境外 DNS 服务商 ECS (EDNS Client Subnet) 功能效果完整对比报告(2026 年 05 月） ，供大家参考使用](https://www.v2ex.com/t/1210332)
+
++ [[AI 中转站 / 福利贴]OneXModel 推广拉新，限时回帖送$，稳定、靠谱、好用～](https://www.v2ex.com/t/1210308)
+
++ [机场专用客户端如何抓取节点](https://www.v2ex.com/t/1210301)
+
++ [程姓宝宝， 4.10 出生，快一个月了还没确定名字，总觉得之前取的名字不好](https://www.v2ex.com/t/1210347)
+

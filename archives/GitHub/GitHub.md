@@ -47,3 +47,5 @@
 
 + [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)
 
++ [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+

@@ -203,3 +203,27 @@
 
 + [Windows 管道命令实战：从端口查看到进程定位](https://blog.csdn.net/songhuangong123/article/details/160751950)
 
++ [DeepSeek-TUI：当终端成为 AI 编程代理的终极栖息地](https://blog.csdn.net/Chen__2024/article/details/160747369)
+
++ [大模型落地企业的10个坑，90%的团队躲不过第3个](https://blog.csdn.net/qq_41187124/article/details/160496212)
+
++ [DolphinDB分区策略：RANGE分区详解](https://blog.csdn.net/sinat_41617212/article/details/160747746)
+
++ [TVA系统的开发语言与应用领域（4）](https://blog.csdn.net/2501_94287723/article/details/160747520)
+
++ [【无标题】Flutter for OpenHarmony 的文具手账应用开发实践](https://blog.csdn.net/maaath/article/details/160747958)
+
++ [唤醒沉睡的数据：ERP销售模块接入Apache AGE实战指南](https://blog.csdn.net/neweastsun/article/details/160733211)
+
++ [基于多种智能优化算法的无人机三维路径规划与多成本函数对比研究（粒子群PSO、灰狼GWO、鲸鱼WOA、哈里斯鹰HHO、蜣螂DBO、麻雀SSA）（Matlab代码实现）](https://blog.csdn.net/m0_73907476/article/details/160744582)
+
++ [2026-05-04 GitHub 热点项目精选](https://blog.csdn.net/m0_65659549/article/details/160751905)
+
++ [2026年第17周最热门的开源项目(Github)](https://blog.csdn.net/yao1500/article/details/160751328)
+
++ [从原子性到串行化：数据库事务全解](https://blog.csdn.net/yue_2899799318/article/details/160715612)
+
++ [Flutter-OH 三方库适配实战：image_picker 相册与相机 OpenHarmony 完整适配指南](https://blog.csdn.net/Helen_cai/article/details/160748817)
+
++ [SpringBoot+Vue3 实现 OA 公文外来文与归档台账：外部收文、BPM办理、三类公文统一归档](https://blog.csdn.net/zhouzhongyan/article/details/160756463)
+
