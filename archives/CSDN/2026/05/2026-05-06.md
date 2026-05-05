@@ -133,3 +133,5 @@
 
 + [Spring Boot 配置加载全解析：从 @ComponentScan 到自动配置原理](https://blog.csdn.net/HANhylyxy/article/details/160789415)
 
++ [Spring AI：让大模型住进 Spring 生态（四）](https://blog.csdn.net/2401_85198927/article/details/160715919)
+
