@@ -31,3 +31,19 @@
 
 + [docusealco/docuseal](https://github.com/docusealco/docuseal)
 
++ [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
+
++ [mksglu/context-mode](https://github.com/mksglu/context-mode)
+
++ [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
++ [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
+
++ [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+
++ [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+
++ [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+
++ [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)
+
