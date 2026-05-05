@@ -147,3 +147,13 @@
 
 + [【智能体】Agent的四种设计模式之：ReAct](https://blog.csdn.net/wuyoudeyuer/article/details/160716583)
 
++ [.NET命名之谜：它与C#纠缠年的关系揭秘](https://blog.csdn.net/Za16e9tfv/article/details/160745389)
+
++ [解决RDK X（ARM架构）板卡Remote-SSH运行Antigravity AI崩溃(SIGILL)：Samba网络盘本地挂载方案](https://blog.csdn.net/AJg5C8z0s/article/details/160745291)
+
++ [使用Alpine配置WSL ssh门户](https://blog.csdn.net/remr3HV69/article/details/160745694)
+
++ [鸿蒙 vs iOS vs 微信小程序：开发平台全面对比](https://blog.csdn.net/weixin_45459322/article/details/160701303)
+
++ [GPT-5.6意外曝光、Claude安全检查全面公测、Grok 4.3搅局价格战——多模型混战的五月，开发者如何避坑？](https://blog.csdn.net/cookies404/article/details/160735151)
+

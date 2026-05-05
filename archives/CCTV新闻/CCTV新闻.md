@@ -173,3 +173,17 @@
 
 + [一名中国公民在巴塞罗那不幸遇害身亡](https://news.cctv.com/2026/05/05/ARTIxwdlica0RZa2cZZObFm8260505.shtml)
 
++ [特朗普威胁伊朗不要向美国船开火](https://news.cctv.com/2026/05/05/ARTIiYvcJ1Ybvy6rcEVHhzpQ260505.shtml)
+
++ [伊朗媒体：美军袭击民用船只致5人死亡](https://news.cctv.com/2026/05/05/ARTIBeUdQJazSWQ4RCNajJof260505.shtml)
+
++ [特朗普称美国正从委内瑞拉获得“数亿桶石油”](https://news.cctv.com/2026/05/05/ARTIGs0FuIMxzoBXPz0vvUEu260505.shtml)
+
++ [哥伦比亚一煤矿发生爆炸14名矿工被困](https://news.cctv.com/2026/05/05/ARTIHaRtowkqoi7HIQBdB7sS260505.shtml)
+
++ [特朗普未明言伊朗违反停火协议](https://news.cctv.com/2026/05/05/ARTIlzKGuhTo8dj3g8Xlu2uQ260505.shtml)
+
++ [“洪迪厄斯”号邮轮疫情：发病者增至7人 确诊增至2人](https://news.cctv.com/2026/05/05/ARTIADXhO6eC5lEkjyXNWeTV260505.shtml)
+
++ [伊朗外长：美国应避免被“不怀好意者”再次拖入泥潭](https://news.cctv.com/2026/05/05/ARTImk5kNRy1u0EGi6zg5Ayl260505.shtml)
+

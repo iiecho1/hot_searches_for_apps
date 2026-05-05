@@ -25,3 +25,9 @@
 
 + [消息称 Win11 文件资源管理器属性界面将迎来现代化改造，支持深色模式](https://m.ithome.com/html/946211.htm)
 
++ [车主开启辅助驾驶后双手脱离方向盘录制化妆视频，被交警罚款 200 元记 3 分](https://m.ithome.com/html/946302.htm)
+
++ [苹果 iOS / iPadOS 26.5 RC 发布：RCS 消息端到端加密测试、2026 年度彩虹壁纸...](https://m.ithome.com/html/946324.htm)
+
++ [苹果推出 2026 款 Apple Watch 彩虹版回环式运动表带，同步预热专属表盘及 iPhone / iPad 壁纸](https://m.ithome.com/html/946312.htm)
+
