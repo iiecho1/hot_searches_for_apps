@@ -165,3 +165,13 @@
 
 + [# 当AI学会了“打电话“：MCP协议如何重塑Agent生态](https://blog.csdn.net/IRpickstars/article/details/160753398)
 
++ [智能客服系统设计：从工单分类到自动派单的工程实现](https://blog.csdn.net/2401_86407195/article/details/160742407)
+
++ [机器学习05(黑马)-决策树](https://blog.csdn.net/2401_82749999/article/details/160695105)
+
++ [【AI Agent通识九课】 04 · AI 的双车道 — 安全怎么保](https://blog.csdn.net/qcx23/article/details/160716585)
+
++ [【Linux篇】网络层与数据链路层详解](https://blog.csdn.net/2301_81290732/article/details/160309746)
+
++ [嵌入式开发避坑指南](https://blog.csdn.net/shuimeireb/article/details/160743241)
+

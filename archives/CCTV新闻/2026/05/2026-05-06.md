@@ -193,3 +193,17 @@
 
 + [中国驻佛得角使馆提醒在佛中国公民加强卫生防范](https://news.cctv.com/2026/05/06/ARTIoTLty3CEIE4MMdA02djq260506.shtml)
 
++ [印度一航班降落后因移动电源起火紧急疏散乘客](https://news.cctv.com/2026/05/06/ARTIkJd84wHmWYg2VjXO5auU260506.shtml)
+
++ [美“自由计划”暂停 韩总统府称已没必要讨论是否参与](https://news.cctv.com/2026/05/06/ARTIaLRULS3HV5fdy8qRU5uN260506.shtml)
+
++ [英国伦敦成立专门警队保护犹太社区](https://news.cctv.com/2026/05/06/ARTIbJraTJlJmecBqPSJGCv7260506.shtml)
+
++ [美威胁提高欧盟汽车关税 自家原材料出口先遭“断单”](https://news.cctv.com/2026/05/06/ARTIeZI5pf0cuhePS0GB5XaH260506.shtml)
+
++ [伊朗德黑兰省商场火灾死亡人数升至11人](https://news.cctv.com/2026/05/06/ARTIj4SYiQ1SnAezEVWr1rwY260506.shtml)
+
++ [研究报告：全球石油库存下降或致部分地区供应短缺](https://news.cctv.com/2026/05/06/ARTI8XsgnxI9iU44lYjL1bw0260506.shtml)
+
++ [阿联酋迪拜一在建建筑起火 原因尚不明](https://news.cctv.com/2026/05/06/ARTIo6OsKZc8mj6l3E2FyIEP260506.shtml)
+
