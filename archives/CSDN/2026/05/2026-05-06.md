@@ -139,3 +139,21 @@
 
 + [一文读懂 Event Loop：浏览器、Node.js、Python 的“心脏“是如何跳动的](https://blog.csdn.net/weixin_43127990/article/details/160751850)
 
++ [LoadBalancer- Nginx 配置 SSL 证书：HTTPS 负载均衡完整实操](https://blog.csdn.net/qq_41187124/article/details/157545081)
+
++ [Claude Code 深度拆解：CLI 交互模块 1 — REPL 架构](https://blog.csdn.net/wayne_lee_lwc/article/details/160748519)
+
++ [使用AI全自动开发嵌入式程序第一节实战课：控制彩色LED灯](https://blog.csdn.net/u010898524/article/details/160745465)
+
++ [第四篇：多级缓存架构——Caffeine + Redis + MySQL 三级协同](https://blog.csdn.net/2503_90542405/article/details/160745177)
+
++ [跟着 MDN 学 HTML day_11：(语义化容器全站重构+独立CSS拆分+字体合规引入)](https://blog.csdn.net/2603_95532426/article/details/160742874)
+
++ [第4节：应用架构与代码组织](https://blog.csdn.net/guslegend/article/details/160746053)
+
++ [SQL Server RAG 笔记1：图数据库构建](https://blog.csdn.net/aspnetx/article/details/160748998)
+
++ [【花雕动手做】重构Agent认知闭环：七状态状态机驱动的300ms网络自愈架构](https://blog.csdn.net/weixin_41659040/article/details/160727024)
+
++ [Quarkus版本升级指南与兼容性：安全升级Quarkus核心版本的方法](https://blog.csdn.net/qq_27756951/article/details/160693903)
+

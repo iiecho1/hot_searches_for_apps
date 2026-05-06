@@ -189,3 +189,7 @@
 
 + [美国务卿确认对伊朗“史诗怒火”军事行动已结束](https://news.cctv.com/2026/05/06/ARTIyPu5vY4Hoh0ZSBPgNMLt260506.shtml)
 
++ [特朗普称暂停“自由计划”行动](https://news.cctv.com/2026/05/06/ARTIyBEoCLTLvLVYoxF0LKZH260506.shtml)
+
++ [中国驻佛得角使馆提醒在佛中国公民加强卫生防范](https://news.cctv.com/2026/05/06/ARTIoTLty3CEIE4MMdA02djq260506.shtml)
+
