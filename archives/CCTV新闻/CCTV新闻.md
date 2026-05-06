@@ -217,3 +217,7 @@
 
 + [伊朗称将确保船只安全通过霍尔木兹海峡](https://news.cctv.com/2026/05/06/ARTIZ7tD3N67WYpomoqdCnjy260506.shtml)
 
++ [美军称在对伊朗港口封锁行动中已要求52艘船只掉头](https://news.cctv.com/2026/05/06/ARTI4eL6PXcOpoVgcOoQp8WJ260506.shtml)
+
++ [法国国民议会审议通过关于简化非法所获文物归还程序的法律草案](https://news.cctv.com/2026/05/06/ARTIg2X51OJLIl7uMv6YeyyG260506.shtml)
+

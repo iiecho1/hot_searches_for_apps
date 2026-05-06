@@ -211,3 +211,13 @@
 
 + [【Flutter for OpenHarmony】：Flutter前言及环境配置+第三方库介绍](https://blog.csdn.net/Helen_cai/article/details/157518787)
 
++ [【Linux 指南】文件系统系列（一）：磁盘底层原理 —— 从物理结构到 CHS与LBA 寻址全解析](https://blog.csdn.net/2302_78391795/article/details/160773152)
+
++ [【Linux篇】NTA机制与网络地址转换原理详解](https://blog.csdn.net/2301_81290732/article/details/160795053)
+
++ [AI原生全栈架构理论体系：从分布式范式演进到全链路工程化理论基石](https://blog.csdn.net/m0_55049655/article/details/160746192)
+
++ [[具身智能-561]：数字世界大一统层次架构：从物理硬件到虚拟世界的智能协同](https://blog.csdn.net/HiWangWenBing/article/details/160749281)
+
++ [【多无人机协同目标运输任务】多无人机协同目标运输任务中的路径规划与动态控制研究（Matlab代码实现） ](https://blog.csdn.net/weixin_46039719/article/details/160749641)
+
