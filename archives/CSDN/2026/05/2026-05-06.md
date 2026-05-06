@@ -157,3 +157,11 @@
 
 + [Quarkus版本升级指南与兼容性：安全升级Quarkus核心版本的方法](https://blog.csdn.net/qq_27756951/article/details/160693903)
 
++ [大模型如何“精准改错“?一文读懂模型编辑Model Editing](https://blog.csdn.net/2401_87629362/article/details/160714375)
+
++ [Linux 中 Nginx 代理 Redis 的详细教程](https://blog.csdn.net/m0_51000788/article/details/160741729)
+
++ [萤火虫网络：全人类共同托举智能的协议 —— 关于DACP（Distributed AI Computing Protocol）的思想实验](https://blog.csdn.net/qq_43689451/article/details/160798282)
+
++ [# 当AI学会了“打电话“：MCP协议如何重塑Agent生态](https://blog.csdn.net/IRpickstars/article/details/160753398)
+

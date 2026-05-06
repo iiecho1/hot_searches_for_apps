@@ -53,3 +53,9 @@
 
 + [苹果 iOS / iPadOS 18.7.9 正式版发布](https://m.ithome.com/html/946328.htm)
 
++ [被“AI 教父”辛顿“判死刑”十年后，美国放射科医生平均年薪达 57.1 万美元](https://m.ithome.com/html/946318.htm)
+
++ [苹果推出 2026 款 Apple Watch 彩虹版回环式运动表带，同步预热专属表盘及 iPhone / iPad 壁纸](https://m.ithome.com/html/946312.htm)
+
++ [Claude Token 榜：迪士尼「榜一大哥」9 天 46 万次，Meta 月烧 60 万亿](https://m.ithome.com/html/946323.htm)
+
