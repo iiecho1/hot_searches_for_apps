@@ -95,3 +95,51 @@
 
 + [OpenCV 梯度计算与边缘检测：从 Sobel 算子到 Canny 算法](https://blog.csdn.net/chen_jixi/article/details/160743805)
 
++ [豆包收费了：3.45亿用户，一个“豆包型人格“的道歉经济学](https://blog.csdn.net/2302_78391795/article/details/160801209)
+
++ [HarmonyOS 6（API 23）实战：打造“看见学生“的AR智慧课堂——基于Face AR注意力监测 + Body AR课堂行为分析的沉浸光感教育系统](https://blog.csdn.net/u014727709/article/details/160771148)
+
++ [全栈开发一本通：AI时代的实战向导，打通技术闭环](https://blog.csdn.net/weixin_35918641/article/details/160824435)
+
++ [OpenClaw 多智能体协作进阶](https://blog.csdn.net/sinat_41617212/article/details/160768958)
+
++ [【Linux篇】网络层与数据链路层详解](https://blog.csdn.net/2301_81290732/article/details/160309746)
+
++ [智读致用｜《一人企业》9：执行才是有效货币，知识共享也是商业竞争力](https://blog.csdn.net/GODYAD/article/details/160829937)
+
++ [专栏D-团队与组织-04-创始人成长](https://blog.csdn.net/sunneo/article/details/160692705)
+
++ [ollama v0.23.0 发布：原生支持 Claude Desktop 模型推荐与底层稳定性全面升级](https://blog.csdn.net/weixin_48502062/article/details/160795066)
+
++ [【实战篇】分类任务全流程演示——决策树](https://blog.csdn.net/dongke1991/article/details/160825163)
+
++ [电影《消失的人》迅雷BT完整下载[MKV/3.12GB/5.86GB]高清画质[HD720p/1080p]磁力资源](https://blog.csdn.net/kenwms/article/details/160789902)
+
++ [Codex、Claude Code、Cherry Studio 实测对比：CLI、桌面端怎么选？](https://blog.csdn.net/m0_54138660/article/details/160835793)
+
++ [[智能体攻防实战] 一.大模型赋能网络入侵检测实战探索（CodeBuddy和d.run实现）](https://blog.csdn.net/Eastmount/article/details/160659439)
+
++ [鸿蒙 HarmonyOS 6 | Text 组件中西文自动间距开发实战](https://blog.csdn.net/diandianxiyu/article/details/160746287)
+
++ [工业级 AI 神经网络语音处理模组 A-59 设计与应用研究](https://blog.csdn.net/fjy6789/article/details/160662418)
+
++ [【花雕学编程】Arduino BLDC 之爬坡场景下的机器人模糊能量管理](https://blog.csdn.net/weixin_41659040/article/details/160778938)
+
++ [8类道路交通车辆目标检测数据集（2600张）｜YOLO训练数据集 智慧交通 自动驾驶 车流统计 车辆识别](https://blog.csdn.net/weixin_52908342/article/details/160835856)
+
++ [让 AI 从称手到称心 -- 肘子的 Swift 周报 #134](https://blog.csdn.net/weixin_45801973/article/details/160744286)
+
++ [Python 性能调优的岔路口：什么时候该考虑 C 扩展、NumPy、Rust、Cython 或 PyPy？](https://blog.csdn.net/windowshht/article/details/160752766)
+
++ [MyBatis工作原理](https://blog.csdn.net/weixin_68315058/article/details/160660475)
+
++ [装软件慢到崩溃？用户创建总出错？Linux 工具避坑指南](https://blog.csdn.net/say_fall/article/details/160835172)
+
++ [CNN-卷积神经网络](https://blog.csdn.net/qq_41375318/article/details/160823185)
+
++ [【盘前分析】2026年5月6日（周三）节后首日开盘指南](https://blog.csdn.net/weixin_45526015/article/details/160801753)
+
++ [（第三篇）Spring AI 架构设计与优化：容器化与云原生部署，基于 K8s 的 AI 应用全生命周期管理](https://blog.csdn.net/qq_40303030/article/details/159383828)
+
++ [这些问题可以问AI吗？](https://blog.csdn.net/zhuoqingjoking97298/article/details/160797695)
+

@@ -61,3 +61,11 @@
 
 + [弱小的拍拍熊！【DOTA2】](https://m.acfun.cn/v/?ac=48498838)
 
++ [【五语翻唱】I was Born for This（风之旅人）](https://m.acfun.cn/v/?ac=48497871)
+
++ [宋相贤 vs 许卓峰](https://m.acfun.cn/v/?ac=48496544)
+
++ [【绝望女神/翻唱】【被生命所厌恶】](https://m.acfun.cn/v/?ac=48499619)
+
++ [【纪录片】走进工厂 薯片【1080p】【双语特效字幕】【纪录片之家科技控】](https://m.acfun.cn/v/?ac=48489322)
+
