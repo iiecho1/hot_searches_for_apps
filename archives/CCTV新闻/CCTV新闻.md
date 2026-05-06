@@ -161,3 +161,11 @@
 
 + [大西洋一邮轮出现汉坦病毒感染事件 世卫：不必恐慌或实施旅行限制](https://news.cctv.com/2026/05/04/ARTIjZq3d9EUcw25o4bqIDoh260504.shtml)
 
++ [特斯拉将召回美国市场近21.9万辆汽车](https://news.cctv.com/2026/05/07/ARTIDeRy9g7TWnNQbOUsat3o260507.shtml)
+
++ [俄外交部呼吁相关国家和组织及时从基辅撤离人员](https://news.cctv.com/2026/05/07/ARTIOYyRhRALbHh510iy8D48260507.shtml)
+
++ [伊朗官员：美军动用所有军事手段也无法开通霍尔木兹海峡](https://news.cctv.com/2026/05/07/ARTIIY8RzHZhnPSgt6lmCy01260507.shtml)
+
++ [特朗普再称对美伊达成协议表示乐观](https://news.cctv.com/2026/05/07/ARTIFj413FEjJx7yfAMG1Xe0260507.shtml)
+

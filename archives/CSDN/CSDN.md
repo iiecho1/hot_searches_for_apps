@@ -167,3 +167,9 @@
 
 + [CodeX windows app使用第三方api以及session记录还原](https://blog.csdn.net/m0_54138660/article/details/160754936)
 
++ [AEROS：一种具备具身能力模块的单智体操作系统架构](https://blog.csdn.net/yorkhunter/article/details/160636996)
+
++ [财富自由背后的心理动力学建模](https://blog.csdn.net/2401_86880927/article/details/160835136)
+
++ [打字慢且废话多？Openless：跨平台开源语音助手，松手即得AI润色文本](https://blog.csdn.net/irpywp/article/details/160744170)
+
