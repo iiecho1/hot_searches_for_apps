@@ -71,3 +71,5 @@
 
 + [战地6：秒人与被秒，这感觉太上头](https://m.acfun.cn/v/?ac=48497356)
 
++ [战歌 T-ARA No. 9](https://m.acfun.cn/v/?ac=48492387)
+

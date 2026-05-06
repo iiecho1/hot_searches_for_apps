@@ -173,3 +173,5 @@
 
 + [打字慢且废话多？Openless：跨平台开源语音助手，松手即得AI润色文本](https://blog.csdn.net/irpywp/article/details/160744170)
 
++ [AI 大模型的「中文税」：中文比英文更费 Token，为什么？](https://blog.csdn.net/2501_91883294/article/details/160740655)
+

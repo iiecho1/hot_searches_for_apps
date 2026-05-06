@@ -169,3 +169,7 @@
 
 + [特朗普再称对美伊达成协议表示乐观](https://news.cctv.com/2026/05/07/ARTIFj413FEjJx7yfAMG1Xe0260507.shtml)
 
++ [德国民调：默茨执政一周年，民众满意度跌至新低](https://news.cctv.com/2026/05/07/ARTITL2YHa7YvvkfAmFZCtty260507.shtml)
+
++ [简化非法所获文物归还程序 法国立法再进一步](https://news.cctv.com/2026/05/07/ARTIpjn7K6GcSAR9uqFM4riH260507.shtml)
+
