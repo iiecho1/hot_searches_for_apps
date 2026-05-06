@@ -211,3 +211,9 @@
 
 + [苏丹民间机构：冲突已致逾700名医务人员伤亡](https://news.cctv.com/2026/05/06/ARTI4lvRoxwkkMklcWNA6O7z260506.shtml)
 
++ [专访｜中国为全球可持续发展作出重要贡献——访世界可持续发展工商理事会会长兼首席执行官贝德凯](https://news.cctv.com/2026/05/06/ARTIk81cdFyDGFkRR0olIe0c260506.shtml)
+
++ [共话中国经济新机遇｜综述：中国“零关税”举措为非洲经济增长注入新动力](https://news.cctv.com/2026/05/06/ARTIHpxiRY28SBsMnQdUFlMT260506.shtml)
+
++ [伊朗称将确保船只安全通过霍尔木兹海峡](https://news.cctv.com/2026/05/06/ARTIZ7tD3N67WYpomoqdCnjy260506.shtml)
+

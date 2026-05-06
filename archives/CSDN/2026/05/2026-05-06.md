@@ -195,3 +195,19 @@
 
 + [PyTorch强化学习实战（5）——PyTorch Ignite 事件驱动机制与实践](https://blog.csdn.net/LOVEmy134611/article/details/157436299)
 
++ [基于注意力机制LSTM的温度预测系统设计与实现](https://blog.csdn.net/ZSW1218/article/details/160751870)
+
++ [基于改进秃鹰搜索算法（IBES）的栅格地图路径规划研究附MATLAB代码](https://blog.csdn.net/qq_59747472/article/details/160746908)
+
++ [工业视觉检测：两大主流异常检测开源框架深度对比（PatchCore vs SPADE）](https://blog.csdn.net/xianzuzhicai/article/details/160747735)
+
++ [【AMD ROCm 实战】云端 AI 开发系列（三）：vLLM 大语言模型部署优化——在 MI300X 上高效运行 Llama3-70B](https://blog.csdn.net/qq_35366330/article/details/160691993)
+
++ [基于多种智能优化算法的无人机三维路径规划研究（Matlab代码实现）](https://blog.csdn.net/weixin_66436111/article/details/160752162)
+
++ [OpenClaw（养龙虾） +关于Hadoop hive的Skills（Cloudera CDH、CDP）](https://blog.csdn.net/SEf9Z2Kq0/article/details/160745172)
+
++ [《Linux网络编程》5.HTTPS协议](https://blog.csdn.net/qq_49648783/article/details/160764406)
+
++ [【Flutter for OpenHarmony】：Flutter前言及环境配置+第三方库介绍](https://blog.csdn.net/Helen_cai/article/details/157518787)
+
