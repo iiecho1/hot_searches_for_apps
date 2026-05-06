@@ -207,3 +207,7 @@
 
 + [阿联酋迪拜一在建建筑起火 原因尚不明](https://news.cctv.com/2026/05/06/ARTIo6OsKZc8mj6l3E2FyIEP260506.shtml)
 
++ [世卫组织：“洪迪厄斯”号新增一名汉坦病毒感染者](https://news.cctv.com/2026/05/06/ARTIbnEC3bbRbSt6zLJAJITL260506.shtml)
+
++ [苏丹民间机构：冲突已致逾700名医务人员伤亡](https://news.cctv.com/2026/05/06/ARTI4lvRoxwkkMklcWNA6O7z260506.shtml)
+

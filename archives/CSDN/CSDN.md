@@ -175,3 +175,23 @@
 
 + [嵌入式开发避坑指南](https://blog.csdn.net/shuimeireb/article/details/160743241)
 
++ [机器学习day01（机器学习概述 + KNN算法）](https://blog.csdn.net/m0_74304371/article/details/160732531)
+
++ [KiCad 绘制PCB使用 AI 增强方案](https://blog.csdn.net/qq_39777550/article/details/160747080)
+
++ [k8s核心组件](https://blog.csdn.net/2302_77746978/article/details/160742853)
+
++ [仿RabbitMQ实现消息队列-服务端核心模块实现(5)](https://blog.csdn.net/Fy10030629/article/details/160739772)
+
++ [如何使用 cc-switch 接入 Codex？一篇教程讲清楚](https://blog.csdn.net/qq_40374604/article/details/160738164)
+
++ [基于多种智能优化算法的山地无人机三维路径规划方法研究（Matlab代码实现）](https://blog.csdn.net/weixin_61181717/article/details/160751909)
+
++ [CVE-2026-31431 Linux内核提权漏洞主流平台完整修复指南，附一键修复脚本](https://blog.csdn.net/yyongwh/article/details/160794884)
+
++ [Flink第五章：DataStream API](https://blog.csdn.net/Justicer_Young/article/details/160747468)
+
++ [CSS Animation Timeline 可视化动画编辑器：从关键帧到流畅动画](https://blog.csdn.net/cbxjj/article/details/160743202)
+
++ [PyTorch强化学习实战（5）——PyTorch Ignite 事件驱动机制与实践](https://blog.csdn.net/LOVEmy134611/article/details/157436299)
+

@@ -33,3 +33,17 @@
 
 + [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)
 
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [InsForge/InsForge](https://github.com/InsForge/InsForge)
+
++ [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
++ [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
