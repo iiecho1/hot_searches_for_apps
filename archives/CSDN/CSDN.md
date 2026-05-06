@@ -143,3 +143,27 @@
 
 + [这些问题可以问AI吗？](https://blog.csdn.net/zhuoqingjoking97298/article/details/160797695)
 
++ [【网络】TCP与UDP协议使用指南，Socket编程实现Echo服务](https://blog.csdn.net/2402_86681376/article/details/160690160)
+
++ [全场景高可用护航核心业务 ——KingbaseES 高可用架构深度解析](https://blog.csdn.net/lrq13965748542/article/details/160812831)
+
++ [SenseNova U1多模态模型深度解析：基于 NEO-Unify 架构统一多模态理解与生成](https://blog.csdn.net/weixin_62765017/article/details/160827337)
+
++ [Jetbrains官宣：2026年方向定了，AI和传统IDE两手都抓](https://blog.csdn.net/weixin_44058951/article/details/160647229)
+
++ [KES数据库Oracle迁移实战](https://blog.csdn.net/weixin_43151418/article/details/160812530)
+
++ [【花雕学编程】Arduino BLDC 之差速驱动机器人的扭矩矢量与分配](https://blog.csdn.net/weixin_41659040/article/details/160831314)
+
++ [【鸿蒙深度】HarmonyOS 6.0 底层架构全景解析：从微内核到分布式软总线，为什么它能同时跑在手机和PC上？](https://blog.csdn.net/weixin_43726381/article/details/160835882)
+
++ [工具调用全景解析从Function Calling到MCP协议的完整实践](https://blog.csdn.net/2602_94956987/article/details/160801403)
+
++ [何缩小多路电磁导航信号采集电路板](https://blog.csdn.net/zhuoqingjoking97298/article/details/160829437)
+
++ [ 数学驱动的计算机科学全景图谱：从理论到应用](https://blog.csdn.net/2402_84834684/article/details/160835970)
+
++ [从 0 到 1 学 MySQL：索引原理、事务特性、视图用法与 JDBC 实操全解析](https://blog.csdn.net/user340/article/details/160507886)
+
++ [CodeX windows app使用第三方api以及session记录还原](https://blog.csdn.net/m0_54138660/article/details/160754936)
+
