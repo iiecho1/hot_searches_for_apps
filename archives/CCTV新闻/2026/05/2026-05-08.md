@@ -161,3 +161,9 @@
 
 + [一名中国公民在巴塞罗那不幸遇害身亡](https://news.cctv.com/2026/05/05/ARTIxwdlica0RZa2cZZObFm8260505.shtml)
 
++ [伊朗武装部队：美军袭击油轮并空袭沿海地区 伊方已进行反击](https://news.cctv.com/2026/05/08/ARTIzzNX0xlLGC0OiGHmwPxp260508.shtml)
+
++ [美国务卿批准向中东国家出售价值258亿美元的武器](https://news.cctv.com/2026/05/08/ARTIqC32UjsRbAOZJnAh7mVV260508.shtml)
+
++ [美中央司令部：对伊朗军事设施实施定点打击](https://news.cctv.com/2026/05/08/ARTI6k08zy8LCBil4fbY7Ip4260508.shtml)
+

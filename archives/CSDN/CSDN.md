@@ -123,3 +123,5 @@
 
 + [Kafka 从原理到实践：分区副本机制、生产消费可靠性、以及如何避开那些年踩过的坑](https://blog.csdn.net/qq_54796785/article/details/160860243)
 
++ [前门准则的三重证明](https://blog.csdn.net/m0_72918466/article/details/160872092)
+
