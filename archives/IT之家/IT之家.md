@@ -35,3 +35,13 @@
 
 + [痛击充电宝行业，消息称荣耀新开 4 块万级大电池](https://m.ithome.com/html/946890.htm)
 
++ [比亚迪大唐 EV 预售订单突破 10 万台，预售价 25 万元起](https://m.ithome.com/html/947410.htm)
+
++ [雷克萨斯官宣纯电三排座 SUV 全新 TZ：车长 5.1 米、轴距 3.05 米、电池 95.82kWh](https://m.ithome.com/html/947146.htm)
+
++ [微信鸿蒙版 App 灰度上线消息通知显示联系人头像功能](https://m.ithome.com/html/947313.htm)
+
++ [微信 iOS 版 8.0.73 最新官方正式版下载发布](https://m.ithome.com/html/947382.htm)
+
++ [极核 AE3 Pro 电摩发布，首发权益价 3639 元起](https://m.ithome.com/html/947088.htm)
+

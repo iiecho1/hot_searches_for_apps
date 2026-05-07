@@ -113,3 +113,13 @@
 
 + [预处理详解](https://blog.csdn.net/naobeng/article/details/160822834)
 
++ [【Web安全】-云服务器与Docker（2）：Docker镜像操作，Docker容器操作，Docker搭建漏洞靶场](https://blog.csdn.net/2401_83075246/article/details/160657435)
+
++ [Maxkb4j集成sqlbot MCP实现企业智能问数智能体](https://blog.csdn.net/weixin_40986713/article/details/160851636)
+
++ [ollama v0.23.1 发布：原生支持 Gemma4 MTP 多令牌解码，Mac 端编码推理速度直接翻倍](https://blog.csdn.net/weixin_48502062/article/details/160828826)
+
++ [DS从基座模型到推理能力](https://blog.csdn.net/2301_80171004/article/details/160856928)
+
++ [Kafka 从原理到实践：分区副本机制、生产消费可靠性、以及如何避开那些年踩过的坑](https://blog.csdn.net/qq_54796785/article/details/160860243)
+
