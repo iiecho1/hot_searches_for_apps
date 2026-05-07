@@ -177,3 +177,13 @@
 
 + [英国计划接回涉疫邮轮上的本国公民](https://news.cctv.com/2026/05/07/ARTIyTvLnVL042N0s7bJKfHP260507.shtml)
 
++ [黎方消息称以军空袭并炮击多个黎南部市镇](https://news.cctv.com/2026/05/07/ARTInqBRdbSKK2VJmLu1zAgl260507.shtml)
+
++ [阿根廷向多国提供汉坦病毒检测试剂以协助调查](https://news.cctv.com/2026/05/07/ARTIVA1x9GdtEafZoD4CSQTR260507.shtml)
+
++ [北美观察丨美伊备忘录尚未落地 白宫为何急谈“战争结束”](https://news.cctv.com/2026/05/07/ARTIMFmC17n5hP2h0vUDeE6V260507.shtml)
+
++ [印尼考虑对16岁以下人群实施“网购禁令”](https://news.cctv.com/2026/05/07/ARTIwlYKJkclvpFCHDDMg0jE260507.shtml)
+
++ [马里军方披露针对政府高层袭击细节](https://news.cctv.com/2026/05/07/ARTIDKp3cJN01WAgn4Ub0D5i260507.shtml)
+

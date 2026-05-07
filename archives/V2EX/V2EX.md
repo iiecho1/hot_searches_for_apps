@@ -31,3 +31,15 @@
 
 + [v 友你们用什么 coding plan，我是说国内 v 友](https://www.v2ex.com/t/1210455)
 
++ [各位今年 618 打算买什么？](https://www.v2ex.com/t/1210701)
+
++ [相亲太难了-续](https://www.v2ex.com/t/1210757)
+
++ [每次看见红蓝按钮问题讨论就忍不住点进去然后被气个半死](https://www.v2ex.com/t/1210581)
+
++ [[送 400w Token] 新站 Lumi 上线，注册/邀请全线大放水，全模型支持](https://www.v2ex.com/t/1210591)
+
++ [官方 Mikrotik 硬件和第三方路由器刷 Router OS 两者在使用体验上差距大吗？想买个来体验下 Router OS 玩玩。](https://www.v2ex.com/t/1210730)
+
++ [还有两周离职还在被不停追加需求怎么办](https://www.v2ex.com/t/1210776)
+

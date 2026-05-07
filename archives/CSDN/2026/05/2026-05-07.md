@@ -183,3 +183,31 @@
 
 + [Elastic 9.4：Workflows 正式发布、Agent Builder 更新，以及 Prometheus / PromQL 支持](https://blog.csdn.net/UbuntuTouch/article/details/160811359)
 
++ [【HarmonyOS 6.0】Data Augmentation Kit 智慧化数据检索 C 接口解析：向量化、知识检索与知识问答](https://blog.csdn.net/weixin_74809706/article/details/160657159)
+
++ [腾讯云轻量服务器部署 OpenClaw + QClaw 全流程实践：打造随时在线的个人 AI 助手](https://blog.csdn.net/weixin_41793160/article/details/160835345)
+
++ [水力模型 INP 文件如何导入 QGIS？超详细实操教程](https://blog.csdn.net/yelangkingwuzuhu/article/details/160815605)
+
++ [Lucene底层压缩探秘：倒排表FOR与RBM算法原理与实战详解](https://blog.csdn.net/qq_41840843/article/details/160829946)
+
++ [【高等数学 第十二章】无穷级数](https://blog.csdn.net/he_zhidan/article/details/160739748)
+
++ [【HID】规范精讲[10]: 蓝牙HID设备的连接基石——GAP协议如何掌控发现、连接与安全](https://blog.csdn.net/weixin_37800531/article/details/160682730)
+
++ [【Linux系统】进程信号（上）](https://blog.csdn.net/Miun123/article/details/160667416)
+
++ [关于Cluade code Desktop配置deepseek提示Gateway deployments require an Anthropic model解决方法](https://blog.csdn.net/weixin_47311938/article/details/160825836)
+
++ [DeepSeek-TUI 终端交互能力深度评测](https://blog.csdn.net/sinat_25866835/article/details/160771272)
+
++ [# AI Agent 落地实战：从单Agent到多Agent协作的系统架构与实践](https://blog.csdn.net/IRpickstars/article/details/160780222)
+
++ [2026年5月AI模型排行榜：GPT-5.5、Claude Opus 4.7、DeepSeek V4三大阵营深度对比](https://blog.csdn.net/xyghehehehe/article/details/160787432)
+
++ [7.单表查询](https://blog.csdn.net/oYeRen12/article/details/160819845)
+
++ [第二章：GEM 与 TTM 概述：2.1 DRM 设备模型速览](https://blog.csdn.net/shenjunpeng/article/details/160732815)
+
++ [Blender-MCP + Claude Code，构建最强AI自动化建模环境](https://blog.csdn.net/zhangay1998/article/details/160835529)
+
