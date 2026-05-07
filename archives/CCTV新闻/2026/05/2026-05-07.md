@@ -191,3 +191,7 @@
 
 + [泰国总理：将与柬埔寨首相在东盟峰会期间会面](https://news.cctv.com/2026/05/07/ARTICmyvsF6s9ebdMxatslWg260507.shtml)
 
++ [消息人士：美伊已就缓解美国海上封锁达成共识](https://news.cctv.com/2026/05/07/ARTICZxTqvVvNT9epq8Pc8ga260507.shtml)
+
++ [以军空袭加沙致多人死伤 哈马斯高官之子因伤势过重身亡](https://news.cctv.com/2026/05/07/ARTIiIn7wEcPEkV5r6DER85O260507.shtml)
+

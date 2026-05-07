@@ -33,3 +33,15 @@
 
 + [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
 
++ [z-lab/dflash](https://github.com/z-lab/dflash)
+
++ [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+
++ [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
+
++ [decolua/9router](https://github.com/decolua/9router)
+
++ [aaif-goose/goose](https://github.com/aaif-goose/goose)
+
++ [Augani/openreel-video](https://github.com/Augani/openreel-video)
+

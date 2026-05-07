@@ -227,3 +227,17 @@
 
 + [水稻、小麦、玉米和大豆四大作物冠层叶绿素含量估算方法](https://blog.csdn.net/weixin_38393473/article/details/160826617)
 
++ [PyTorch强化学习实战（6）——交叉熵方法详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/157513966)
+
++ [一人公司：The Agency 免费“雇佣“144个AI专家，虚拟团队走进现实](https://blog.csdn.net/GODYAD/article/details/160787865)
+
++ [OpenClaw 日志记忆：memory/YYYY-MM-DD.md](https://blog.csdn.net/sinat_41617212/article/details/160829861)
+
++ [【MySQL 进阶系列】C/C++ 如何通过客户端库访问 MySQL？从连接原理到 API 调用流程详解(附完整demo代码）](https://blog.csdn.net/2301_80260194/article/details/160802243)
+
++ [NAS搭好了但找不到资源？用Pansou同时搜几十个网盘，帮我省了不少会员钱](https://blog.csdn.net/weixin_44976692/article/details/160852002)
+
++ [K8s之负载均衡](https://blog.csdn.net/liu_chen_yang/article/details/157737550)
+
++ [Android tinyalsa深度解析之pcm_plugin_prepare调用流程与实战(一百七十六)](https://blog.csdn.net/u010164190/article/details/160677043)
+
