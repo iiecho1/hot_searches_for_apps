@@ -241,3 +241,13 @@
 
 + [Android tinyalsa深度解析之pcm_plugin_prepare调用流程与实战(一百七十六)](https://blog.csdn.net/u010164190/article/details/160677043)
 
++ [猫咪专注 CatFocus 技术博客：一款鸿蒙原生自律计时工具的设计与实现](https://blog.csdn.net/2302_80329073/article/details/160791265)
+
++ [【Qt】系统相关（一）内容简介，事件概念，事件的处理](https://blog.csdn.net/2301_80751958/article/details/160826650)
+
++ [复盘: 项目架构设计与实现](https://blog.csdn.net/2302_80067378/article/details/160772607)
+
++ [没考上和你一样的大学](https://blog.csdn.net/okLfZV1W1/article/details/160835302)
+
++ [深度学习优化核心：梯度下降与网络训练全解析](https://blog.csdn.net/2503_92624912/article/details/160831964)
+
