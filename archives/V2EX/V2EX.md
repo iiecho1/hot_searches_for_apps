@@ -21,3 +21,13 @@
 
 + [《续》减脂，可能是成年人最容易获得正反馈的一件事](https://www.v2ex.com/t/1210418)
 
++ [在北京买了一辆超标电自的感受](https://www.v2ex.com/t/1210609)
+
++ [老婆年收入已经 130w 了](https://www.v2ex.com/t/1210641)
+
++ [中转站送福利，评论区回复，每人 10$！](https://www.v2ex.com/t/1210717)
+
++ [[AI 中转站]高可用满血 Claude/GPT 模型，福利推广中...](https://www.v2ex.com/t/1210603)
+
++ [v 友你们用什么 coding plan，我是说国内 v 友](https://www.v2ex.com/t/1210455)
+

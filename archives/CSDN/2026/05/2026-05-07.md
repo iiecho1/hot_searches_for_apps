@@ -175,3 +175,11 @@
 
 + [AI 大模型的「中文税」：中文比英文更费 Token，为什么？](https://blog.csdn.net/2501_91883294/article/details/160740655)
 
++ [OpenClaw 记忆系统：MEMORY.md 使用指南](https://blog.csdn.net/sinat_41617212/article/details/160801046)
+
++ [STM32工业互联系统学习总览](https://blog.csdn.net/2502_90552706/article/details/160744759)
+
++ [RNN 循环神经网络模型解剖——核心机制与数学原理](https://blog.csdn.net/weixin_44782294/article/details/160743778)
+
++ [Elastic 9.4：Workflows 正式发布、Agent Builder 更新，以及 Prometheus / PromQL 支持](https://blog.csdn.net/UbuntuTouch/article/details/160811359)
+
