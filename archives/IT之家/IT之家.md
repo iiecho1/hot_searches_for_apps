@@ -25,3 +25,13 @@
 
 + [鸿蒙智行智界 V9 旗舰 MPV 亮点公布：华为雪鸮智能增程系统、车载制氧机，预售价 39.98 万起](https://m.ithome.com/html/947039.htm)
 
++ [三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品](https://m.ithome.com/html/946973.htm)
+
++ [李想：理想不是不想做轿车，但牺牲空间和舒适性跟我们对“家”的追求矛盾](https://m.ithome.com/html/946885.htm)
+
++ [苹果首款折叠手机 iPhone Ultra 机模再曝](https://m.ithome.com/html/946887.htm)
+
++ [5.6 折二拍还是没人要：2 万个罗马仕充电宝、14 万根充电线再次因无人出价而流拍](https://m.ithome.com/html/946969.htm)
+
++ [痛击充电宝行业，消息称荣耀新开 4 块万级大电池](https://m.ithome.com/html/946890.htm)
+
