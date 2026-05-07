@@ -211,3 +211,19 @@
 
 + [Blender-MCP + Claude Code，构建最强AI自动化建模环境](https://blog.csdn.net/zhangay1998/article/details/160835529)
 
++ [【Qt】Qt窗口（五）QDialog对话框的使用，点击按钮弹出新的对话框，自定义对话框界面，模态对话框model](https://blog.csdn.net/2301_80751958/article/details/160715921)
+
++ [鸿蒙 HarmonyOS 6 | Picker 容器组件自定义选择器开发实战](https://blog.csdn.net/diandianxiyu/article/details/160746330)
+
++ [Token出海，讲不了中国制造的老故事](https://blog.csdn.net/2501_91883294/article/details/160740814)
+
++ [StarVLA：视觉-语言-动作模型开发的统一框架](https://blog.csdn.net/lovely_yoshino/article/details/160341714)
+
++ [【腾讯位置服务开发者征文大赛】使用自然语言生成一个低碳出行助手](https://blog.csdn.net/kexin197/article/details/160773966)
+
++ [【黑马点评日记】社交平台用户关注功能全解析Feed流相关操作](https://blog.csdn.net/chen_si_shang_/article/details/160831176)
+
++ [【MySQL 数据库】表的约束](https://blog.csdn.net/wuqingyigexiaoba/article/details/160856252)
+
++ [水稻、小麦、玉米和大豆四大作物冠层叶绿素含量估算方法](https://blog.csdn.net/weixin_38393473/article/details/160826617)
+

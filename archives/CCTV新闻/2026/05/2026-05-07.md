@@ -187,3 +187,7 @@
 
 + [马里军方披露针对政府高层袭击细节](https://news.cctv.com/2026/05/07/ARTIDKp3cJN01WAgn4Ub0D5i260507.shtml)
 
++ [白宫记协晚宴枪手动机或与伊朗战事有关](https://news.cctv.com/2026/05/07/ARTIfs4Y3iedlT3SZ59aG7oX260507.shtml)
+
++ [泰国总理：将与柬埔寨首相在东盟峰会期间会面](https://news.cctv.com/2026/05/07/ARTICmyvsF6s9ebdMxatslWg260507.shtml)
+
