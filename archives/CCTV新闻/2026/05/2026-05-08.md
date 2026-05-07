@@ -167,3 +167,11 @@
 
 + [美中央司令部：对伊朗军事设施实施定点打击](https://news.cctv.com/2026/05/08/ARTI6k08zy8LCBil4fbY7Ip4260508.shtml)
 
++ [缅甸内战、泰柬边界争端，“内部危机”笼罩东盟峰会](https://news.cctv.com/2026/05/08/ARTIqKxAZDFTL698oAE4WCmV260508.shtml)
+
++ [马里中部地区发生恐怖袭击 至少35人死亡](https://news.cctv.com/2026/05/08/ARTIvZXl9aoF3us4OWwITQ28260508.shtml)
+
++ [特朗普称欧盟7月4日前必须履行美欧贸易协定承诺](https://news.cctv.com/2026/05/08/ARTIvQA2SGteGHnYWwOxMsTT260508.shtml)
+
++ [各执一词冲突又起 伊朗打击美舰 美袭击伊油轮空袭沿海地区](https://news.cctv.com/2026/05/08/ARTIDjvzm60HbnAwWrcqM0zt260508.shtml)
+
