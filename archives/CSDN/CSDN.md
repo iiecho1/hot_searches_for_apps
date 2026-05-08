@@ -147,3 +147,9 @@
 
 + [终端数据防泄露与安全办公一体化解决方案](https://blog.csdn.net/lygtian/article/details/160891156)
 
++ [【高等数学 第十二章】无穷级数](https://blog.csdn.net/he_zhidan/article/details/160739748)
+
++ [SpringBoot+LangChain4j+Ollama+MCP实现智能天气工具调用示例](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/160884392)
+
++ [Elasticsearch 7.x 新手指南](https://blog.csdn.net/yulingfeng59/article/details/160893916)
+
