@@ -27,3 +27,15 @@
 
 + [Augani/openreel-video](https://github.com/Augani/openreel-video)
 
++ [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+
++ [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
+
++ [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+
++ [lobehub/lobehub](https://github.com/lobehub/lobehub)
+
++ [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+
++ [flutter/skills](https://github.com/flutter/skills)
+

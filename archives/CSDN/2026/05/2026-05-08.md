@@ -227,3 +227,11 @@
 
 + [数据库密码写配置文件？我用动态凭据管理重构了50个微服务的数据库连接](https://blog.csdn.net/m0_61703951/article/details/160890496)
 
++ [如何运行字节bamboo_mixer](https://blog.csdn.net/weixin_64999857/article/details/160877012)
+
++ [ESP32-S3 实战教程：本地语音识别控制 Web 塔防游戏，从固件到前端完整跑通](https://blog.csdn.net/2302_79895183/article/details/160894863)
+
++ [基于 Harmony6.0 的问卷投票页面构建实践：Flutter 跨端 UI 设计与组件化开发](https://blog.csdn.net/weixin_52908342/article/details/160893782)
+
++ [火山引擎 Agent Plan 初体验实测](https://blog.csdn.net/Airwinner/article/details/160881355)
+

@@ -201,3 +201,5 @@
 
 + [金正恩视察“崔贤”号驱逐舰　要求6月中旬移交海军服役](https://photo.cctv.com/2026/05/08/PHOAGrxB96Iy4wvnOQTQA3SD260508.shtml)
 
++ [中国驻日使馆提醒中国公民：注意徒步登山等户外活动安全](https://news.cctv.com/2026/05/08/ARTIDRMTC9DCuuw7qCS6o5hX260508.shtml)
+
