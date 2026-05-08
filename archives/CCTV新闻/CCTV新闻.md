@@ -175,3 +175,9 @@
 
 + [各执一词冲突又起 伊朗打击美舰 美袭击伊油轮空袭沿海地区](https://news.cctv.com/2026/05/08/ARTIDjvzm60HbnAwWrcqM0zt260508.shtml)
 
++ [金正恩视察“崔贤”号驱逐舰 观摩机动能力综合评价试验](https://news.cctv.com/2026/05/08/ARTIT49mM26P6eG7LobTEmIN260508.shtml)
+
++ [全球调解峰会在香港举行 聚焦跨文化国际调解等前沿议题](https://news.cctv.com/2026/05/08/ARTILDSjLswyalR84wYPea4r260508.shtml)
+
++ [法国议会通过简化非法所获文物归还程序法案](https://news.cctv.com/2026/05/08/ARTIfWPYqVFGMIDqdkUzJkgK260508.shtml)
+

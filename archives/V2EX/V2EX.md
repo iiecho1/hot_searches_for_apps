@@ -23,3 +23,7 @@
 
 + [北京现在严查戴头盔，刚买的头盔早上刚戴上晚上就丢了](https://www.v2ex.com/t/1210840)
 
++ [# GPT-5.4 / 5.5 / 5.3-codex / image2 中转站，评论送 15 美刀](https://www.v2ex.com/t/1211033)
+
++ [有人知道现在的大学生在学什么么，不会还是当年我学到 struct2 spring mvc 吧](https://www.v2ex.com/t/1210801)
+

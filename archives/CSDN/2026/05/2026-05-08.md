@@ -125,3 +125,17 @@
 
 + [前门准则的三重证明](https://blog.csdn.net/m0_72918466/article/details/160872092)
 
++ [如何用衍构语言加强AI的编程能力](https://blog.csdn.net/Pixlout/article/details/160875016)
+
++ [【Linux系统编程】Cyberpunk在霓虹丛林中构建堡垒 —— 【关于 root 超级管理员权限】](https://blog.csdn.net/fengtinghuqu520/article/details/160835916)
+
++ [鸿蒙ArkUI Web组件实现Vue深度路由跳转](https://blog.csdn.net/2401_83797894/article/details/160793483)
+
++ [2026年论文降AI工具测评：免费额度+价目+效果全解析](https://blog.csdn.net/qq_45551930/article/details/160875720)
+
++ [【花雕学编程】Arduino BLDC 之机器人分层模糊Q学习的运动控制](https://blog.csdn.net/weixin_41659040/article/details/160831448)
+
++ [OpenCV 尺度空间与 SIFT 算法：从高斯差分到 128 维特征描述子](https://blog.csdn.net/chen_jixi/article/details/160858848)
+
++ [Word文档智能排版工具 (Word-Formatter-Pro) ](https://blog.csdn.net/2501_90713682/article/details/160693042)
+
