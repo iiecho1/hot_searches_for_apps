@@ -131,3 +131,7 @@
 
 + [效率翻倍：IDEA 集成 Trae 插件的深度实践](https://blog.csdn.net/qq_38939142/article/details/160883429)
 
++ [Electron + Ollama 搭建本地屏幕翻译工具（完整教程）](https://blog.csdn.net/ggsshhgj/article/details/160893979)
+
++ [面向桥梁全生命周期管理，桥科院以 TDengine 支撑桥梁健康监测数据采集、分析与预警](https://blog.csdn.net/taos_data/article/details/160900799)
+

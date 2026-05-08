@@ -25,3 +25,19 @@
 
 + [极核 AE3 Pro 电摩发布，首发权益价 3639 元起](https://m.ithome.com/html/947088.htm)
 
++ [理想设计团队负责人那嘉否认 MEGA 车型设计失败](https://m.ithome.com/html/947394.htm)
+
++ [歼-35 外贸版首曝？“0001 编号”战机亮相，“隐身战鹰”瞄准国际市场](https://m.ithome.com/html/947477.htm)
+
++ [女演员起诉卡梅隆及迪士尼，指控《阿凡达》电影盗用其肖像](https://m.ithome.com/html/947381.htm)
+
++ [微信未读语音消息由红变灰被吐槽，腾讯客服回应称 iOS 端逐步开放](https://m.ithome.com/html/947499.htm)
+
++ [央视曝光“电动自行车增程器”：宣称边行驶边自动充电，实际上不仅没用还有安全隐患](https://m.ithome.com/html/947324.htm)
+
++ [8 家新能源车企 OTA 锁电被约谈，工信部明确“四大禁令”](https://m.ithome.com/html/947623.htm)
+
++ [5 月 11 日起巴西对中国公民免签，单次停留最长 30 天](https://m.ithome.com/html/947418.htm)
+
++ [消息称腾讯实习生大涨薪，百度“全员晋升”](https://m.ithome.com/html/947633.htm)
+
