@@ -247,3 +247,25 @@
 
 + [从零到一：微信小程序接入腾讯位置服务全链路实战指南](https://blog.csdn.net/qq_23625847/article/details/160880841)
 
++ [【AI智能体】QClaw 腾讯本地AI Agent 助手对接飞书操作详解](https://blog.csdn.net/zhangcongyi420/article/details/160664082)
+
++ [第二十一届全国大学生智能车竞赛---疯狂电路组技术手册](https://blog.csdn.net/longqiu_LQ/article/details/160896921)
+
++ [基于 Flutter × Harmony6.0 的校园问卷模块页面开发实践](https://blog.csdn.net/weixin_52908342/article/details/160895539)
+
++ [Linux命名管道：跨进程通信实战指南|附源码](https://blog.csdn.net/2401_86123468/article/details/160867256)
+
++ [WEB安全之XSS专题：防御与浏览器对抗](https://blog.csdn.net/2401_88251163/article/details/160601692)
+
++ [Flutter for OpenHarmony番茄工作法学习计时器](https://blog.csdn.net/KKei1638/article/details/160900257)
+
++ [RabbitMQ在.NET中集成使用（基于.NET4.5实现）](https://blog.csdn.net/weixin_44706420/article/details/160892626)
+
++ [2026年数维杯A题参考答案](https://blog.csdn.net/qq_33690821/article/details/160891950)
+
++ [OpenClaw（养龙虾） +关于Hadoop hive的Skills（Cloudera CDH、CDP）](https://blog.csdn.net/SEf9Z2Kq0/article/details/160899161)
+
++ [RAG 还是 Lucene：私有化部署客服系统的 AI 知识库架构选型](https://blog.csdn.net/JcbHm8U3l/article/details/160892055)
+
++ [直观理解Flutter渲染机制：三棵树](https://blog.csdn.net/m0_55345692/article/details/160895759)
+

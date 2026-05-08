@@ -207,3 +207,5 @@
 
 + [不指望美国 欧盟或就乌克兰危机与普京直接开谈](https://news.cctv.com/2026/05/08/ARTIgoPGMS3wD3JSGBm5H9AX260508.shtml)
 
++ [英国地方选举工党选情不利 斯塔默称“不会一走了之”](https://news.cctv.com/2026/05/08/ARTIBkGCzzZFmNVqXJuPhujE260508.shtml)
+
