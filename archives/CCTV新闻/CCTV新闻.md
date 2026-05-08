@@ -191,3 +191,13 @@
 
 + [能源危机阴影笼罩菲律宾](https://photo.cctv.com/2026/05/08/PHOA4hrEfL4Z4D0hlORswAoY260508.shtml)
 
++ [中塞两国人士凭吊在中国驻南联盟使馆被炸事件中牺牲的烈士](https://news.cctv.com/2026/05/08/ARTIiFLGxundy1Txc7Ryz0u6260508.shtml)
+
++ [印尼火山喷发已致3名登山者死亡 约20人受困](https://news.cctv.com/2026/05/08/ARTIP5KL3lPWJuB533GWT4I3260508.shtml)
+
++ [英海事分析公司：霍尔木兹海峡“暗航”船只激增](https://news.cctv.com/2026/05/08/ARTIATSJsAQ7CLjPuF6zn1FU260508.shtml)
+
++ [伊朗警告地区国家不要采取军事冒险行动](https://news.cctv.com/2026/05/08/ARTIBxgUfhqVgvOIUewtesUr260508.shtml)
+
++ [金正恩视察“崔贤”号驱逐舰　要求6月中旬移交海军服役](https://photo.cctv.com/2026/05/08/PHOAGrxB96Iy4wvnOQTQA3SD260508.shtml)
+
