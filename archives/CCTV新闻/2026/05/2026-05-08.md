@@ -181,3 +181,11 @@
 
 + [法国议会通过简化非法所获文物归还程序法案](https://news.cctv.com/2026/05/08/ARTIfWPYqVFGMIDqdkUzJkgK260508.shtml)
 
++ [特朗普称对伊朗目标军事打击是一次“轻微惩罚”](https://news.cctv.com/2026/05/08/ARTI3pYlTHP3hE3bpisU9LDS260508.shtml)
+
++ [古巴国家主席迪亚斯-卡内尔谴责美国追加制裁措施](https://news.cctv.com/2026/05/08/ARTIlJIASPjn47GdQV6rMZuW260508.shtml)
+
++ [燃油价格暴涨 全球多家航司削减逾7.5万个夏季航班](https://news.cctv.com/2026/05/08/ARTINmHLxtAB4MvuZmzj3BBr260508.shtml)
+
++ [伊朗民众集会悼念已故最高领袖](https://photo.cctv.com/2026/05/08/PHOABNFUPcgUDJ2sjTvjJzxJ260508.shtml)
+

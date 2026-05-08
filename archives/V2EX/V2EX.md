@@ -27,3 +27,15 @@
 
 + [有人知道现在的大学生在学什么么，不会还是当年我学到 struct2 spring mvc 吧](https://www.v2ex.com/t/1210801)
 
++ [周末双休会选择去爬山吗？](https://www.v2ex.com/t/1211069)
+
++ [工作其实没那么难找](https://www.v2ex.com/t/1211079)
+
++ [摸鱼间隙总结一下我这两年来的倒霉人生.](https://www.v2ex.com/t/1210862)
+
++ [AI 让事物贬值，各种层面上](https://www.v2ex.com/t/1211027)
+
++ [AI 编程工具大家实际使用中哪个综合下来最好用？](https://www.v2ex.com/t/1210849)
+
++ [兄弟们，决赛圈了小米 YU7、理想 i6、方程豹钛 7EV 三选一](https://www.v2ex.com/t/1210879)
+

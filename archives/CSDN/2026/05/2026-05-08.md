@@ -139,3 +139,43 @@
 
 + [Word文档智能排版工具 (Word-Formatter-Pro) ](https://blog.csdn.net/2501_90713682/article/details/160693042)
 
++ [RuoyiOffice vs 钉钉/飞书/企业微信：办公系统 SaaS平台 vs 自建怎么选](https://blog.csdn.net/zhouzhongyan/article/details/160876737)
+
++ [TVA与传统视觉技术的本质区别——以工业视觉检测为例（1）](https://blog.csdn.net/2501_94287723/article/details/160802330)
+
++ [状态 StateFlow、ViewModel 与 UI 收集](https://blog.csdn.net/g984160547/article/details/160830550)
+
++ [原生多模态大模型的开源里程碑：商汤SenseNova U1深度体验](https://blog.csdn.net/m0_52165864/article/details/160857929)
+
++ [在用ROS开发大象机器人mycobot280报错：No transform from [joint1] to [g_base]...如何解决？](https://blog.csdn.net/weixin_43970743/article/details/160255660)
+
++ [比 Prometheus 快 30 倍：我们如何将 Elasticsearch 重构为领先的列式指标数据存储](https://blog.csdn.net/UbuntuTouch/article/details/160875082)
+
++ [【LE Audio】CAP精讲[2]: 三大角色+服务映射，CAP配置核心流程全拆解](https://blog.csdn.net/weixin_37800531/article/details/160801266)
+
++ [【prometheus】Flink 对 prometheus 的支持](https://blog.csdn.net/qq_21383435/article/details/143275468)
+
++ [Android tinyalsa深度解析之pcm_plugin_stop调用流程与实战(一百七十八)](https://blog.csdn.net/u010164190/article/details/160771563)
+
++ [从传统软件→AI工程的联想 | vllm原理](https://blog.csdn.net/2301_80171004/article/details/160881288)
+
++ [2026年第十一届数维杯大学生数学建模竞赛+ABC题全套精细思路解析、完整代码与高质量论文+持续更新（2026年第第十一届数维杯数学建模竞赛](https://blog.csdn.net/qq_46105073/article/details/160870173)
+
++ [OpencvSharp 算子学习教案之 - Cv2.HoughCircles](https://blog.csdn.net/fengxing666/article/details/160562231)
+
++ [基于WeChatBot云端微信saas框架实现微信群自动回复机器人定时微信群发送消息功能，文字消息，图片，视频，文件定时批量群发微信群](https://blog.csdn.net/youeyeb/article/details/160869037)
+
++ [LabVIEW启动画面与动态加载](https://blog.csdn.net/bjcyck/article/details/160867790)
+
++ [从零搭建CSDN博客爬虫：Python爬虫+多格式导出完整教程](https://blog.csdn.net/qq_46987323/article/details/160867110)
+
++ [快手电商API接入：小店商品与直播带货数据的采集方法](https://blog.csdn.net/weixin_41943766/article/details/160867560)
+
++ [HAMi 社区 Meetup 深圳站回顾：七位专家共话 AI 算力云原生未来](https://blog.csdn.net/guaguaRethink/article/details/160850863)
+
++ [Agent Skills —— Anthropic 关于 Skills 的介绍](https://blog.csdn.net/D1237890/article/details/160869496)
+
++ [【运维必备】Docker/K8s/Linux 高频命令速查手册（持续更新）](https://blog.csdn.net/u010403700/article/details/160877692)
+
++ [农产品销售系统|农产品电商|基于SprinBoot+vue的农产品销售系统(源码+数据库+文档)](https://blog.csdn.net/JIngJaneIL/article/details/160885522)
+
