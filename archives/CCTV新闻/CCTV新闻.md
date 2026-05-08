@@ -165,3 +165,17 @@
 
 + [伊武装部队在霍尔木兹海峡水域与美军舰发生“零星冲突”](https://news.cctv.com/2026/05/09/ARTIl5rW49JV1h5C5qpQ1Uzi260509.shtml)
 
++ [泽连斯基：乌方不会袭击红场阅兵](https://news.cctv.com/2026/05/09/ARTIh7wDX4xO8DjbQBiRrLle260509.shtml)
+
++ [伊朗官员称该国149处古迹在冲突中遭破坏](https://news.cctv.com/2026/05/09/ARTIatK2M1GXYxN21gpU88LJ260509.shtml)
+
++ [俄乌同意将停火延长至5月11日](https://news.cctv.com/2026/05/09/ARTIivG0VYr3lun5mJaLdZmg260509.shtml)
+
++ [特朗普称俄乌9日起停火三天 互换千名战俘](https://news.cctv.com/2026/05/09/ARTIlUVOmDB3YEIeGoYNDxpg260509.shtml)
+
++ [苏丹武装部队总司令拒绝与快速支援部队谈判](https://news.cctv.com/2026/05/09/ARTI1q12i6omprGwmdXbtvZj260509.shtml)
+
++ [伊朗官员称美军袭击伊民用船只 已致1死10伤](https://news.cctv.com/2026/05/09/ARTIAv1dWFtS4SVWseeCL9zl260509.shtml)
+
++ [巴西一所学校发生自制炸弹爆炸 已致10名学生受伤](https://news.cctv.com/2026/05/09/ARTI4MIkxcCmfER2sLHE6QrR260509.shtml)
+
