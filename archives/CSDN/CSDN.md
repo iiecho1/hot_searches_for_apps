@@ -179,3 +179,35 @@
 
 + [农产品销售系统|农产品电商|基于SprinBoot+vue的农产品销售系统(源码+数据库+文档)](https://blog.csdn.net/JIngJaneIL/article/details/160885522)
 
++ [心瞳几何思想 与 心瞳几何认知理想国 简介](https://blog.csdn.net/qq_43689451/article/details/160873341)
+
++ [鸿蒙原生APP开发实战指南：三套低成本AI辅助方案全解析](https://blog.csdn.net/2302_80329073/article/details/160868375)
+
++ [生态与生物群落数据分析攻略：tidyverse清洗+多元统计+随机森林+混合效应模型+结构方程模型+统计结果作图](https://blog.csdn.net/WangYan2022/article/details/160881264)
+
++ [跨平台框架全景图：Flutter/KMP/KuiKly/RN的2026年格局](https://blog.csdn.net/mba16c35/article/details/160544349)
+
++ [【光伏功率预测】基于EMD-PCA-LSTM的光伏功率预测模型（Matlab代码实现）](https://blog.csdn.net/m0_64583023/article/details/160874137)
+
++ [第一章：C# 与 .NET 世界初探](https://blog.csdn.net/Xin_ye10086/article/details/160879699)
+
++ [讯飞星火 Spark Pro API 实战：零成本实现 Python 智能对话调用](https://blog.csdn.net/2402_85718639/article/details/160882303)
+
++ [【OpenAI】 王炸更新【GPT-5.5 Instant 】全量开放：垂直领域准确率跃升，token 效率革命重构大模型竞争格局](https://blog.csdn.net/qq_73472828/article/details/160842945)
+
++ [实用性 Max ，新 Flutter & Dart Agent Skills 深度解读](https://blog.csdn.net/ZuoYueLiang/article/details/160876817)
+
++ [Rust 性能陷阱：那些看起来很优雅但很慢的写法（下）](https://blog.csdn.net/github_28443763/article/details/160840570)
+
++ [用搜索API做关键词挖掘，我一周找到了200个长尾词](https://blog.csdn.net/2611_95871009/article/details/160870100)
+
++ [Veeam Agent for Linux Veeam snapshot kernel module](https://blog.csdn.net/allway2/article/details/160843781)
+
++ [【OpenClaw全面解析：从零到精通】第40篇：OpenClaw IDE集成深度指南：让AI Agent在编辑器中无缝协作](https://blog.csdn.net/xyghehehehe/article/details/160884385)
+
++ [使用 NVIDIA FLARE 在无重构开销的情况下进行联合学习](https://blog.csdn.net/NVIDIA_Community/article/details/160883349)
+
++ [智读致用｜《一人企业》10：口碑才是最便宜的广告，信任才是最贵的资产](https://blog.csdn.net/GODYAD/article/details/160854386)
+
++ [HarmonyOS APP开发告别盲盒式优化：吃透 DevEco Profiler](https://blog.csdn.net/qq_46104835/article/details/160882076)
+

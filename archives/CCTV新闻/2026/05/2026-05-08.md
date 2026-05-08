@@ -189,3 +189,5 @@
 
 + [伊朗民众集会悼念已故最高领袖](https://photo.cctv.com/2026/05/08/PHOABNFUPcgUDJ2sjTvjJzxJ260508.shtml)
 
++ [能源危机阴影笼罩菲律宾](https://photo.cctv.com/2026/05/08/PHOA4hrEfL4Z4D0hlORswAoY260508.shtml)
+
