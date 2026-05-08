@@ -161,3 +161,7 @@
 
 + [法国议会两院对等混合委员会通过草案 简化非法所获文物归还程序](https://news.cctv.com/2026/05/05/ARTI6MIWnZwxw5Hj9MsLBXNM260505.shtml)
 
++ [塞拉利昂卡车与客车相撞致10人死亡](https://news.cctv.com/2026/05/09/ARTIjwABCXW9LHWPjDJcpnka260509.shtml)
+
++ [伊武装部队在霍尔木兹海峡水域与美军舰发生“零星冲突”](https://news.cctv.com/2026/05/09/ARTIl5rW49JV1h5C5qpQ1Uzi260509.shtml)
+

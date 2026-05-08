@@ -101,3 +101,33 @@
 
 + [RabbitMQ在.NET中集成使用（基于.NET4.5实现）](https://blog.csdn.net/weixin_44706420/article/details/160892626)
 
++ [yolov5的学习](https://blog.csdn.net/2501_93595759/article/details/160866758)
+
++ [【HID】规范精讲[10]: 蓝牙HID设备的连接基石——GAP协议如何掌控发现、连接与安全](https://blog.csdn.net/weixin_37800531/article/details/160682730)
+
++ [Linux生产者消费者模型](https://blog.csdn.net/suimingtao/article/details/160381695)
+
++ [进程池构建：高效任务派发与隐藏BUG揭秘全解析](https://blog.csdn.net/2401_86123468/article/details/160668370)
+
++ [HarmonyOS 6.1 全栈实战录 - 04 镜像世界：Spatial Recon Kit 3D空间重建与企业级高精度建模实战](https://blog.csdn.net/sjw890821sjw/article/details/160875376)
+
++ [Tkinter实战：为CSDN爬虫打造可视化界面，从GUI到多线程完整方案](https://blog.csdn.net/qq_46987323/article/details/160887030)
+
++ [票务系统余票裂变算法深度解析与性能优化](https://blog.csdn.net/2301_77485708/article/details/160891811)
+
++ [【HarmonyOS 6.0】Data Augmentation Kit 智慧化数据检索 C 接口解析：向量化、知识检索与知识问答](https://blog.csdn.net/weixin_74809706/article/details/160657159)
+
++ [eNSP企业级复杂拓扑](https://blog.csdn.net/qq_65158505/article/details/160903421)
+
++ [三种本体论落地技术路线：中台+Neo4j、Agent+Action、本体原生，你选择了哪种？](https://blog.csdn.net/lovebyz/article/details/160900730)
+
++ [从零梳理：多源校园数据下的学生单次考试成绩预测（线性回归 + 决策树 + XGBoost）](https://blog.csdn.net/2301_79692993/article/details/160886558)
+
++ [AI写作省钱秘籍：茄子小说写作助手一年省下上千元](https://blog.csdn.net/qq_41627274/article/details/160889941)
+
++ [用 DeepSeek v4 驱动 OpenAI Codex CLI：自制代理实现 gpt-5.5 → deepseek-v4-pro 透明映射](https://blog.csdn.net/Franciz777/article/details/160884123)
+
++ [2026年阿里云新手攻略：OpenClaw如何搭建？Token Plan配置及大模型接入全解](https://blog.csdn.net/yunfuuwqi/article/details/160886002)
+
++ [效率翻倍：IDEA 集成 Trae 插件的深度实践](https://blog.csdn.net/qq_38939142/article/details/160883429)
+
