@@ -61,3 +61,17 @@
 
 + [消息称腾讯实习生大涨薪，百度“全员晋升”](https://m.ithome.com/html/947633.htm)
 
++ [OPPO 就母亲节宣传文案争议道歉：已第一时间下架全部相关物料](https://m.ithome.com/html/947890.htm)
+
++ [工信部批复 6GHz 频段 6G 试验频率使用许可，为第六代移动通信系统铺路](https://m.ithome.com/html/947480.htm)
+
++ [消息称华为 Pura X Max 首销超越所有折叠屏手机，10 天累计激活超 20 万](https://m.ithome.com/html/947869.htm)
+
++ [钱江摩托：从未以任何形式针对张雪机车及行业友商实施供应链封锁、经销商围剿等不正当竞争行为](https://m.ithome.com/html/947548.htm)
+
++ [消息称苹果考虑砍掉 256GB 基础版 MacBook Neo 笔记本，应对成本上涨](https://m.ithome.com/html/947557.htm)
+
++ [今晚油价上调：加满一箱 50 升 92 号汽油将多花 12.5 元](https://m.ithome.com/html/947693.htm)
+
++ [鸿蒙智行智界 V9 将于 5 月 15 日正式上市，预售价 39.98 万起](https://m.ithome.com/html/947434.htm)
+

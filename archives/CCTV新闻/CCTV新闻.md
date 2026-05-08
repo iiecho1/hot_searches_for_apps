@@ -203,3 +203,7 @@
 
 + [中国驻日使馆提醒中国公民：注意徒步登山等户外活动安全](https://news.cctv.com/2026/05/08/ARTIDRMTC9DCuuw7qCS6o5hX260508.shtml)
 
++ [伊朗外交部强烈谴责美军袭击伊油轮](https://news.cctv.com/2026/05/08/ARTIKR5Xnu9a251c09gSq1Ob260508.shtml)
+
++ [不指望美国 欧盟或就乌克兰危机与普京直接开谈](https://news.cctv.com/2026/05/08/ARTIgoPGMS3wD3JSGBm5H9AX260508.shtml)
+
