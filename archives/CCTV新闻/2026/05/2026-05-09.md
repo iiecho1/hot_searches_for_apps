@@ -203,3 +203,7 @@
 
 + [美国将集中隔离涉疫邮轮美籍乘客](https://news.cctv.com/2026/05/09/ARTIx6QN3yGkwbSTsVP6RgEs260509.shtml)
 
++ [印尼杜科诺火山喷发 中国驻泗水总领馆发布安全提醒](https://news.cctv.com/2026/05/09/ARTIOKRnoRVBb4zu84fElguW260509.shtml)
+
++ [墨西哥拟提前40天放暑假 世界杯叠加热浪成主因](https://news.cctv.com/2026/05/09/ARTIBPz1bvNmEMSsLQXeBg2U260509.shtml)
+

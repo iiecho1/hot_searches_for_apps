@@ -61,3 +61,17 @@
 
 + [网易云音乐：已购歌曲拥有永久播放和下载权益，不会因为版本下架而消失](https://m.ithome.com/html/947979.htm)
 
++ [国家安全部披露：某手机芯片厂商漏洞被利用，“秒解 BL 锁”暗藏安全风险](https://m.ithome.com/html/948028.htm)
+
++ [五角大楼发布“解密 UFO”文件](https://m.ithome.com/html/947984.htm)
+
++ [苹果 iPhone 18 Pro / Max 爆料：灵动岛缩小 25%，配 C2 卫星 5G 基带](https://m.ithome.com/html/948086.htm)
+
++ [消息称 DeepSeek 寻求 500 亿元融资，下月将发布 V4.1 更新](https://m.ithome.com/html/947947.htm)
+
++ [小米汽车 CTO 胡峥楠祝贺保时捷重回纽北量产电动汽车圈速榜首：你追我赶的比赛才令人兴奋](https://m.ithome.com/html/947986.htm)
+
++ [（已恢复）DeepSeek 服务大宕机，网页 / API 暂不可用](https://m.ithome.com/html/947899.htm)
+
++ [苹果 iOS / iPadOS 26.5 RC 2 发布，预计下周推送正式版](https://m.ithome.com/html/947990.htm)
+
