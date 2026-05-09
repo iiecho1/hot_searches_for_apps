@@ -201,3 +201,9 @@
 
 + [还在用 root 装数据库、可逆加密存密码？V9R4C19 安全能力解读：从部署到数据的全链路防护](https://blog.csdn.net/2301_76341691/article/details/160897322)
 
++ [鸿蒙Widget开发实战：3张卡片实现桌面-App全链路同步](https://blog.csdn.net/2302_80329073/article/details/160925552)
+
++ [工业物联网数据中枢：TDengine 的云原生与智能分析进化之路](https://blog.csdn.net/weixin_62765017/article/details/160925949)
+
++ [AI原生时序数据库选型指南：从数据存储到智能决策的范式跃迁](https://blog.csdn.net/liu_chen_yang/article/details/160925170)
+
