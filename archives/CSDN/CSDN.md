@@ -223,3 +223,15 @@
 
 + [【花雕学编程】Arduino BLDC 之机器人引入卡尔曼滤波的高精度姿态估计](https://blog.csdn.net/weixin_41659040/article/details/160917841)
 
++ [Skills 热潮过去后，我重新理解了 AI Agent 的方向](https://blog.csdn.net/2401_83830408/article/details/160902803)
+
++ [面向医疗群体智能的协同诊疗与群体决策支持系统（下）](https://blog.csdn.net/kkiron/article/details/160930932)
+
++ [HarmonyOS 6（API 23）实战：打造“看见风险“的AR金融风控面签系统——基于Face AR活体检测与微表情欺诈识别 + Body AR姿态一致性验证的沉浸光感合规平台](https://blog.csdn.net/u014727709/article/details/160920078)
+
++ [网络安全之 Burp Suite 深度解析与实战](https://blog.csdn.net/cui_yonghua/article/details/160920621)
+
++ [【Java 开发日记】HTTP3 性能更好，为什么内网微服务依然多用 HTTP2？HTTP2 内网优势是什么？](https://blog.csdn.net/2402_87298751/article/details/160866968)
+
++ [MySQL事务(一)](https://blog.csdn.net/2503_91101239/article/details/160831032)
+
