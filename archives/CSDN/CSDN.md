@@ -129,3 +129,7 @@
 
 + [桌面应用 P2P 分发加速实践：从消费端到发布端的全链路打通](https://blog.csdn.net/pianzide1117/article/details/160879721)
 
++ [基于C#winform实现yolo26-plate中文车牌检测识别支持12种中文双层颜色车牌文字识别](https://blog.csdn.net/FL1623863129/article/details/160934768)
+
++ [【maaath】Flutter for OpenHarmony 机票酒店应用开发实战](https://blog.csdn.net/maaath/article/details/160936352)
+

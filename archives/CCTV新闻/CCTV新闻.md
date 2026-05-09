@@ -175,3 +175,15 @@
 
 + [伊朗高级官员警告：别亲手关死霍尔木兹海峡的大门](https://news.cctv.com/2026/05/10/ARTI8erhAH1xC5nv4e5FNc3C260510.shtml)
 
++ [普京：坚决制止篡改二战历史图谋](https://news.cctv.com/2026/05/10/ARTI02jkbONq5CNm8jbAPJ7J260510.shtml)
+
++ [德国机场协会首席执行官：航油短缺持续或导致更多航班取消](https://news.cctv.com/2026/05/10/ARTILaiD6MuqkJNvcmlArc2o260510.shtml)
+
++ [特朗普：预计“很快”收到伊朗对美方最新和平方案的回应](https://news.cctv.com/2026/05/10/ARTI0f1GniL53KmeRI3byIXE260510.shtml)
+
++ [伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件](https://news.cctv.com/2026/05/10/ARTIbZqGYAece1SC9uUBDEvh260510.shtml)
+
++ [一艘卡塔尔液化天然气运输船驶向霍尔木兹海峡](https://news.cctv.com/2026/05/10/ARTIkrC114V1I5LUiEQ0ATrB260510.shtml)
+
++ [美国一客机起飞过程中撞上行人 已致1死12伤](https://news.cctv.com/2026/05/10/ARTI33k55aQZxFSk53Q7gB37260510.shtml)
+
