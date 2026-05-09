@@ -207,3 +207,5 @@
 
 + [墨西哥拟提前40天放暑假 世界杯叠加热浪成主因](https://news.cctv.com/2026/05/09/ARTIBPz1bvNmEMSsLQXeBg2U260509.shtml)
 
++ [伊朗足协公布参加2026年美加墨世界杯10项条件](https://news.cctv.com/2026/05/09/ARTIoX35YsQUYKbzW2FQFbEk260509.shtml)
+

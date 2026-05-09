@@ -25,3 +25,21 @@
 
 + [flutter/skills](https://github.com/flutter/skills)
 
++ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
++ [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
+
++ [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+
++ [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
++ [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+
++ [playcanvas/supersplat](https://github.com/playcanvas/supersplat)
+
++ [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+
++ [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
+

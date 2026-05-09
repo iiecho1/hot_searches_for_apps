@@ -193,3 +193,11 @@
 
 + [如何两台atlas-a2服务器物理机，基于vllm-ascend部署qwen3.5 397b-w8a8-mtp大模型](https://blog.csdn.net/xyhshen/article/details/160893856)
 
++ [智能体安全防护指南从输入校验到工具沙箱的全方位防御策略](https://blog.csdn.net/2602_94956987/article/details/160918981)
+
++ [OpenClaw 记忆维护：自动整理与归档](https://blog.csdn.net/sinat_41617212/article/details/160917887)
+
++ [【技术底稿 29】混合云 DevOps 架构升级：HP 服务器离线部署 K3s 集群主控节点（零侵入不影响现有业务）](https://blog.csdn.net/kuokuolove/article/details/160900963)
+
++ [还在用 root 装数据库、可逆加密存密码？V9R4C19 安全能力解读：从部署到数据的全链路防护](https://blog.csdn.net/2301_76341691/article/details/160897322)
+
