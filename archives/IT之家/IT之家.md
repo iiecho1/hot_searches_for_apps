@@ -25,3 +25,27 @@
 
 + [消息称今年市场除华为 Pura X Max 外，还有 3 台阔折叠即将发布](https://m.ithome.com/html/948319.htm)
 
++ [微信未读语音消息由红变灰被吐槽，腾讯客服回应称 iOS 端逐步开放](https://m.ithome.com/html/947499.htm)
+
++ [8 家新能源车企 OTA 锁电被约谈，工信部明确“四大禁令”](https://m.ithome.com/html/947623.htm)
+
++ [歼-35 外贸版首曝？“0001 编号”战机亮相，“隐身战鹰”瞄准国际市场](https://m.ithome.com/html/947477.htm)
+
++ [OPPO 就母亲节宣传文案争议道歉：已第一时间下架全部相关物料](https://m.ithome.com/html/947890.htm)
+
++ [消息称腾讯实习生大涨薪，百度“全员晋升”](https://m.ithome.com/html/947633.htm)
+
++ [消息称华为 Pura X Max 首销超越所有折叠屏手机，10 天累计激活超 20 万](https://m.ithome.com/html/947869.htm)
+
++ [五菱、华为合作打造的大六座 SUV 华境 S 正式上市，置换价 14.98 万-19.38 万元](https://m.ithome.com/html/947951.htm)
+
++ [消息称国内最早弹幕视频网 AcFun 去年日活仅 10 万出头：员工“身兼多职”、全站日榜第一播放量未过万](https://m.ithome.com/html/947934.htm)
+
++ [工信部批复 6GHz 频段 6G 试验频率使用许可，为第六代移动通信系统铺路](https://m.ithome.com/html/947480.htm)
+
++ [钱江摩托：从未以任何形式针对张雪机车及行业友商实施供应链封锁、经销商围剿等不正当竞争行为](https://m.ithome.com/html/947548.htm)
+
++ [今晚油价上调：加满一箱 50 升 92 号汽油将多花 12.5 元](https://m.ithome.com/html/947693.htm)
+
++ [网易云音乐：已购歌曲拥有永久播放和下载权益，不会因为版本下架而消失](https://m.ithome.com/html/947979.htm)
+

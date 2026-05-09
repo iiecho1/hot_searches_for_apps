@@ -161,3 +161,11 @@
 
 + [伊朗德黑兰省商场火灾死亡人数升至11人](https://news.cctv.com/2026/05/06/ARTIj4SYiQ1SnAezEVWr1rwY260506.shtml)
 
++ [美军称执行对伊海上封锁已使58艘商船改变航向](https://news.cctv.com/2026/05/10/ARTI6LuMgqPxFo3H2HDG0CKl260510.shtml)
+
++ [联合国：海地暴力冲突持续 今年第一季度已致逾1600人死亡](https://news.cctv.com/2026/05/10/ARTINwzvVgkyKCmA5F6TaxAp260510.shtml)
+
++ [波兰称已准备好接收更多美国驻军](https://news.cctv.com/2026/05/10/ARTIuxRt3sALquv8T8i7dPAQ260510.shtml)
+
++ [以色列人权组织：遭拘押的援助加沙人士即将获释](https://news.cctv.com/2026/05/10/ARTILEl5b2UWKRyxqGDOsYGL260510.shtml)
+

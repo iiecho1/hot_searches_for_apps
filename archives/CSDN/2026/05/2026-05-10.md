@@ -101,3 +101,31 @@
 
 + [终端数据防泄露与安全办公一体化解决方案](https://blog.csdn.net/lygtian/article/details/160891156)
 
++ [公网 IP、私网 IP、路由表、转发表与 MAC 地址的关系](https://blog.csdn.net/weixin_41165867/article/details/159955011)
+
++ [Spring AI 2.0 开发Java Agent智能体 - 对话与提示词工程（Prompt）](https://blog.csdn.net/caoli201314/article/details/160898900)
+
++ [HarmonyOS / OpenHarmony 鸿蒙PC平台三方库移植：AI自动化编译框架build_in_harmonyos介绍及使用](https://blog.csdn.net/qq8864/article/details/160933104)
+
++ [基于 Flutter × Harmony6.0 的智慧零售管理页面实践：构建高质感库存与商品数据面板](https://blog.csdn.net/weixin_52908342/article/details/160924875)
+
++ [GHCR（GitHub Container Registry）介绍（GitHub提供的OCI（Open Container Initiative）兼容容器镜像仓库）ghcr.io、K8s、不可变标签](https://blog.csdn.net/Dontla/article/details/160908527)
+
++ [2026年第十一届数维杯大学生数学建模竞赛+ABC题全套精细思路解析、完整代码与高质量论文+持续更新（2026年第第十一届数维杯数学建模竞赛](https://blog.csdn.net/qq_46105073/article/details/160870173)
+
++ [从零梳理：多源校园数据下的学生单次考试成绩预测（线性回归 + 决策树 + XGBoost）](https://blog.csdn.net/2301_79692993/article/details/160886558)
+
++ [Python 数据库迁移：Alembic 太重？自己动手搭一套轻量版](https://blog.csdn.net/m0_46642164/article/details/160903977)
+
++ [鸿蒙 App 重构：如何从混乱到清晰？](https://blog.csdn.net/qq_36863796/article/details/160934533)
+
++ [远程连MySQL还靠装工具？UU远程端口映射，一条规则搞定](https://blog.csdn.net/2401_86326742/article/details/160935281)
+
++ [状态 StateFlow、ViewModel 与 UI 收集](https://blog.csdn.net/g984160547/article/details/160830550)
+
++ [OpenClaw 源码解读：从「只会聊天」到「真正干活」的 AI 框架是怎么炼成的](https://blog.csdn.net/qq_32682301/article/details/160842424)
+
++ [LoadBalancer- K8s Service 核心：ClusterIP / NodePort / LoadBalancer 模式解析](https://blog.csdn.net/qq_41187124/article/details/157545391)
+
++ [桌面应用 P2P 分发加速实践：从消费端到发布端的全链路打通](https://blog.csdn.net/pianzide1117/article/details/160879721)
+
