@@ -219,3 +219,7 @@
 
 + [企业级美颜SDK开发全流程：AI算法、渲染链路与性能优化](https://blog.csdn.net/q2404274722/article/details/160896059)
 
++ [CTE 与外层 JOIN 的条件下推：原理、边界与验证方法](https://blog.csdn.net/Mrxiao_bo/article/details/160928773)
+
++ [【花雕学编程】Arduino BLDC 之机器人引入卡尔曼滤波的高精度姿态估计](https://blog.csdn.net/weixin_41659040/article/details/160917841)
+
