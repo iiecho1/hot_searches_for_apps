@@ -133,3 +133,7 @@
 
 + [【maaath】Flutter for OpenHarmony 机票酒店应用开发实战](https://blog.csdn.net/maaath/article/details/160936352)
 
++ [基于FPGA的UDP网口通信实现——使用两块DE2115开发板](https://blog.csdn.net/ccsss22/article/details/160935416)
+
++ [【2026精品项目】基于SpringBoot3+Vue3的校园小卖铺系统(包含源码+项目文档+SQL脚本+部署教程)](https://blog.csdn.net/weixin_50843918/article/details/160860194)
+
