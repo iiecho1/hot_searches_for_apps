@@ -207,3 +207,15 @@
 
 + [AI原生时序数据库选型指南：从数据存储到智能决策的范式跃迁](https://blog.csdn.net/liu_chen_yang/article/details/160925170)
 
++ [鸿蒙首个双AI引擎饮食App：豆包+DeepSeek如何协同工作](https://blog.csdn.net/2302_80329073/article/details/160925341)
+
++ [告别昂贵的ETL——大数据架构下的时序选型指南](https://blog.csdn.net/2302_78391795/article/details/160925098)
+
++ [梯度下降的困境与破局：指数加权平均到底在做什么？](https://blog.csdn.net/2503_92624912/article/details/160910095)
+
++ [智读致用｜《一人企业》12：一人公司的护城河不是规模，是信任](https://blog.csdn.net/GODYAD/article/details/160913599)
+
++ [深度学习实战-基于MobileNetV3的眼部疾病图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159649614)
+
++ [企业级美颜SDK开发全流程：AI算法、渲染链路与性能优化](https://blog.csdn.net/q2404274722/article/details/160896059)
+

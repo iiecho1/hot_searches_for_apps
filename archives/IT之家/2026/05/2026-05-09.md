@@ -75,3 +75,5 @@
 
 + [苹果 iOS / iPadOS 26.5 RC 2 发布，预计下周推送正式版](https://m.ithome.com/html/947990.htm)
 
++ [适配华为 Mate 60 / Pro 等，鸿蒙 HarmonyOS 6.1.1 API 24 开发者版本 Beta 定向招募开启](https://m.ithome.com/html/947721.htm)
+
