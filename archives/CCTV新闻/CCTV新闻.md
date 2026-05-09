@@ -169,3 +169,9 @@
 
 + [以色列人权组织：遭拘押的援助加沙人士即将获释](https://news.cctv.com/2026/05/10/ARTILEl5b2UWKRyxqGDOsYGL260510.shtml)
 
++ [肯尼亚曼德拉郡发生武装袭击事件 已致6人死亡](https://news.cctv.com/2026/05/10/ARTI9RgBu9fJkjjGTbSOj0aa260510.shtml)
+
++ [欧洲多国将接回涉疫邮轮人员 世卫组织评估传播风险仍“较低”](https://news.cctv.com/2026/05/10/ARTIx1Dk50BohkGZ9nlFxrwe260510.shtml)
+
++ [伊朗高级官员警告：别亲手关死霍尔木兹海峡的大门](https://news.cctv.com/2026/05/10/ARTI8erhAH1xC5nv4e5FNc3C260510.shtml)
+
