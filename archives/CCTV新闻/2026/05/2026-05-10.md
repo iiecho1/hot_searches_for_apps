@@ -187,3 +187,7 @@
 
 + [美国一客机起飞过程中撞上行人 已致1死12伤](https://news.cctv.com/2026/05/10/ARTI33k55aQZxFSk53Q7gB37260510.shtml)
 
++ [巴基斯坦西北部自杀式爆炸袭击 致三名警察死亡](https://news.cctv.com/2026/05/10/ARTI7ye95UPvaYPgLEXx5QrY260510.shtml)
+
++ [英国地方选举结果全部揭晓 英政坛呈现“碎片化”趋势](https://news.cctv.com/2026/05/10/ARTI7o2HE9JHUlmTGh6ELLTQ260510.shtml)
+
