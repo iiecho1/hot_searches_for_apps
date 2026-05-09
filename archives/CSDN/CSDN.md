@@ -153,3 +153,15 @@
 
 + [Elasticsearch 7.x 新手指南](https://blog.csdn.net/yulingfeng59/article/details/160893916)
 
++ [Java依赖安全：1个工具，10倍防护，90%团队都忽略了](https://blog.csdn.net/z_344791576/article/details/151896435)
+
++ [linux之文件系统(2)](https://blog.csdn.net/feng_wu_ying_li/article/details/160869916)
+
++ [（论文速读）HAFNet:用于红外小目标检测的分层注意力融合网络](https://blog.csdn.net/LJ1147517021/article/details/160892992)
+
++ [营销自动化数据驱动 - 多源数据 OLAP 架构演进](https://blog.csdn.net/Cr2q666E0/article/details/160901054)
+
++ [Elasticsearch时间类型实战](https://blog.csdn.net/hdk5855/article/details/160891384)
+
++ [深度解析HCIP学习中的OSPFv3：以IPv6为起点、以OSPFv2为参照的推导式学习](https://blog.csdn.net/2301_76220849/article/details/160898843)
+

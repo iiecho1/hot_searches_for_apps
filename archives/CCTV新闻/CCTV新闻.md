@@ -179,3 +179,11 @@
 
 + [巴西一所学校发生自制炸弹爆炸 已致10名学生受伤](https://news.cctv.com/2026/05/09/ARTI4MIkxcCmfER2sLHE6QrR260509.shtml)
 
++ [金正恩向俄总统致贺电：平壤始终与普京在一起](https://news.cctv.com/2026/05/09/ARTIyVGbczQPFTTgr1A0COpq260509.shtml)
+
++ [伊朗外长：美军事行动严重威胁国际航行自由](https://news.cctv.com/2026/05/09/ARTIqU3JdO7LGJLcsgF6lqQh260509.shtml)
+
++ [世卫组织：“洪迪厄斯”号邮轮疫情确诊病例升为6例](https://news.cctv.com/2026/05/09/ARTIhICuBgGuxcLTP4Ky1v8k260509.shtml)
+
++ [伊媒：哈尔克岛附近油污实为欧洲油轮排放物](https://news.cctv.com/2026/05/09/ARTISAl5dS8vwzZXmD3JTbMV260509.shtml)
+
