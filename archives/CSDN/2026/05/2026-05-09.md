@@ -183,3 +183,13 @@
 
 + [MySQL DDL（数据定义语言）总结](https://blog.csdn.net/lihaoweiwudi_/article/details/160868839)
 
++ [【HID】规范精讲[11]: 蓝牙HID设备信号交互流程深度拆解](https://blog.csdn.net/weixin_37800531/article/details/160801332)
+
++ [【网络】应用层自定义协议——序列化和反序列化的概念与方法（Json），以一个网络计算器为例](https://blog.csdn.net/2402_86681376/article/details/160813970)
+
++ [阿里云百炼通义千问 API 实战：OpenAI 兼容接口快速接入指南](https://blog.csdn.net/2402_85718639/article/details/160883413)
+
++ [设备管理智能化：易点易动如何搭建运维数据可视化闭环体系](https://blog.csdn.net/ydyd20260421/article/details/160895106)
+
++ [如何两台atlas-a2服务器物理机，基于vllm-ascend部署qwen3.5 397b-w8a8-mtp大模型](https://blog.csdn.net/xyhshen/article/details/160893856)
+
