@@ -165,3 +165,21 @@
 
 + [深度解析HCIP学习中的OSPFv3：以IPv6为起点、以OSPFv2为参照的推导式学习](https://blog.csdn.net/2301_76220849/article/details/160898843)
 
++ [【OpenClaw】 源码剖析（五）：Memory 与安全——AI 的记忆机制与防线](https://blog.csdn.net/qq_73472828/article/details/160875037)
+
++ [MySQL 核心考点全解：ACID、引擎对比、SQL 执行流程](https://blog.csdn.net/2504_94294476/article/details/160896816)
+
++ [HarmonyOS 6（API 23）实战：打造“看见设计“的AR工业设计评审系统——基于Face AR情绪反馈 + Body AR手势操控的沉浸光感协作平台](https://blog.csdn.net/u014727709/article/details/160771420)
+
++ [Ubuntu 24.04 使用 Nginx + Docker Tomcat9 + HTTPS 完整部署教程](https://blog.csdn.net/lishihuijava/article/details/160903267)
+
++ [GEO 是什么：从搜索引擎到「对话式答案」的信息可见性](https://blog.csdn.net/sinat_25866835/article/details/160889975)
+
++ [数据库密码写配置文件？我用动态凭据管理重构了50个微服务的数据库连接](https://blog.csdn.net/m0_61703951/article/details/160890496)
+
++ [一个简洁易用的 Delphi JSON 封装库，基于 System.JSON`单元封装，提供更直观的 API](https://blog.csdn.net/gSZrkhJsY/article/details/160892771)
+
++ [亚马逊DeepBI广告结构优化策略：实现高效增长与成本控制](https://blog.csdn.net/2501_92084033/article/details/160893610)
+
++ [MySQL DDL（数据定义语言）总结](https://blog.csdn.net/lihaoweiwudi_/article/details/160868839)
+

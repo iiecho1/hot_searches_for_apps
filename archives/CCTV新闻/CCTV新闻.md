@@ -187,3 +187,13 @@
 
 + [伊媒：哈尔克岛附近油污实为欧洲油轮排放物](https://news.cctv.com/2026/05/09/ARTISAl5dS8vwzZXmD3JTbMV260509.shtml)
 
++ [尼泊尔今春发放的攀登珠峰许可证数量创新高](https://news.cctv.com/2026/05/09/ARTIuVNQwvPqw9WuDLMvwoXw260509.shtml)
+
++ [社评：中国的“Country Walk”何以吸引西方年轻人](https://news.cctv.com/2026/05/09/ARTI1I5YivPGunTOoyF5pCEn260509.shtml)
+
++ [“共同迈向更具韧性和可持续的未来”——访孟加拉国总理财政与规划事务顾问提图米尔](https://news.cctv.com/2026/05/09/ARTILoLQGVAPRYl22pnytsyu260509.shtml)
+
++ [资讯很有料｜日本推进设立“国家情报局” 妄图给军国主义阴魂再造“血肉”](https://news.cctv.com/2026/05/09/ARTICvg9NkTLh89semSHI5Bl260509.shtml)
+
++ [法医称马拉多纳去世前遭受12小时病痛折磨](https://news.cctv.com/2026/05/09/ARTISIBvsrOnrkOOtUtkMo1b260509.shtml)
+
