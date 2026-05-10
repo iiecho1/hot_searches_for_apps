@@ -139,3 +139,13 @@
 
 + [基于 Harmony6.0 的问卷页面构建实践：Flutter 跨端 UI 设计与组件化实现](https://blog.csdn.net/weixin_52908342/article/details/160894079)
 
++ [2026 年 5 月技术圈重磅热点全复盘：AI 大模型、AI 编程、云原生、Rust 生态集体爆发](https://blog.csdn.net/2301_81401822/article/details/160876427)
+
++ [HarmonyOS 6（API 23）实战：打造“看见设计“的AR工业设计评审系统——基于Face AR情绪反馈 + Body AR手势操控的沉浸光感协作平台](https://blog.csdn.net/u014727709/article/details/160771420)
+
++ [【HarmonyOS 6.0】Desktop Extension Kit 正式接棒原状态栏服务，API 引用路径全面更新](https://blog.csdn.net/weixin_74809706/article/details/160657472)
+
++ [【后端开发】RabbitMQ、RocketMQ、Kafka 怎么选？我从业务场景重新梳理了一遍](https://blog.csdn.net/m0_72351119/article/details/160889536)
+
++ [yolov5的学习](https://blog.csdn.net/2501_93595759/article/details/160866758)
+
