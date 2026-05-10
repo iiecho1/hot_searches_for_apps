@@ -171,3 +171,7 @@
 
 + [从零搭建运维学习环境（2026）：WSL + Docker + Git + VS Code 完全指南](https://blog.csdn.net/qq_45498824/article/details/160930367)
 
++ [双车对抗、易车争锋赛制简介（视频脚本）](https://blog.csdn.net/zhuoqingjoking97298/article/details/160895536)
+
++ [2026 年第十一届数维杯大学生数学建模挑战赛（春季赛）A 题 抱轨式磁浮列车的悬浮电磁铁故障检测问题](https://blog.csdn.net/qq_52590045/article/details/160935348)
+

@@ -27,3 +27,13 @@
 
 + [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
 
++ [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+
++ [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+
++ [jundot/omlx](https://github.com/jundot/omlx)
+
++ [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
+
++ [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+
