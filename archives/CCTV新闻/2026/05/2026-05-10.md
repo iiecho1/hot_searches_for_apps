@@ -209,3 +209,7 @@
 
 + [涉汉坦病毒疫情邮轮抵达西班牙特内里费岛水域](https://news.cctv.com/2026/05/10/ARTIABgPlZfatEZ03yIVhhiX260510.shtml)
 
++ [卡塔尔液化天然气运输船时隔约70天首次通过霍尔木兹海峡](https://news.cctv.com/2026/05/10/ARTIHkjZPmBOUIcU4eHigQ2O260510.shtml)
+
++ [韩防长称加快从美方收回战时作战指挥权不成问题](https://news.cctv.com/2026/05/10/ARTIC1Denk4Ov9wJfxOpwZjx260510.shtml)
+

@@ -165,3 +165,9 @@
 
 + [免配置免命令行，UU远程「端口映射」开发者的内网穿透新选择](https://blog.csdn.net/user340/article/details/160934357)
 
++ [【HarmonyOS 6.0】Data Augmentation Kit端侧问答模型：本地化智能问答的技术演进](https://blog.csdn.net/weixin_74809706/article/details/160657263)
+
++ [硬核拆解：Linux动态库从原理到实战](https://blog.csdn.net/2502_93841997/article/details/160889537)
+
++ [从零搭建运维学习环境（2026）：WSL + Docker + Git + VS Code 完全指南](https://blog.csdn.net/qq_45498824/article/details/160930367)
+
