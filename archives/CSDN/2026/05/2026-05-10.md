@@ -181,3 +181,9 @@
 
 + [2026年第六届FIC全国网络空间取证大赛-初赛详细版Writeup（计算机+手机）](https://blog.csdn.net/Aluxian_/article/details/160880132)
 
++ [升级到 Claude Opus 4.7？这 5 个Prompt 改法不做等于白升级](https://blog.csdn.net/GODYAD/article/details/160956623)
+
++ [Flutter+开源鸿蒙实战｜城市共享驿站智能存取系统 Day4 订单生成逻辑+多状态管理+我的订单页面+会员中心UI+全局交互细节优化](https://blog.csdn.net/xmdy5866/article/details/160932847)
+
++ [GitHub 热榜项目 - 周榜(2026-05-10)](https://blog.csdn.net/u014390502/article/details/160958266)
+

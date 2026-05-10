@@ -215,3 +215,7 @@
 
 + [伊朗最高领袖会见武装部队司令](https://news.cctv.com/2026/05/10/ARTIRFiYnup4kWXQ8ZRpYUNO260510.shtml)
 
++ [伊朗已回应美国提出的结束战争方案](https://news.cctv.com/2026/05/10/ARTIlQmZbpwlilUs1VOIq6gS260510.shtml)
+
++ [法国正式颁布关于归还非法所获文物的法律](https://news.cctv.com/2026/05/10/ARTINrRJOVjmhzFsf0BmG1Ud260510.shtml)
+
