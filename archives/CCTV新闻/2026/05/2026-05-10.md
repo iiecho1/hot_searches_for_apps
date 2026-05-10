@@ -195,3 +195,17 @@
 
 + [世卫官员：建议对涉疫邮轮人员监测42天 公众风险仍然低](https://news.cctv.com/2026/05/10/ARTIzX3w0RrPJPFzm72hB7oS260510.shtml)
 
++ [伊朗军方：若敌人再发动侵略 将启用新装备、新战法](https://news.cctv.com/2026/05/10/ARTI86dGCKc5bz7d55JWoC79260510.shtml)
+
++ [伊朗军方：对伊制裁国家通过霍尔木兹海峡时将面临困难](https://news.cctv.com/2026/05/10/ARTIMqSK4GerVkvJ8OcWihr5260510.shtml)
+
++ [一货船在卡塔尔附近海域被击中起火](https://news.cctv.com/2026/05/10/ARTImMfs8hoqpfvq9PIzMTWH260510.shtml)
+
++ [巴基斯坦一处警察检查站遭袭 已致至少12人死亡](https://news.cctv.com/2026/05/10/ARTIwBpZekb62X5n6kunb7ex260510.shtml)
+
++ [涉汉坦病毒邮轮随船医生感染 乘客指医疗资源与筛查不足](https://news.cctv.com/2026/05/10/ARTInh7D5l08S2nZQr4by1IJ260510.shtml)
+
++ [美国一邮轮暴发诺如病毒疫情 115人出现感染症状](https://news.cctv.com/2026/05/10/ARTIE7ZZx7dzBHByjUnzThOW260510.shtml)
+
++ [涉汉坦病毒疫情邮轮抵达西班牙特内里费岛水域](https://news.cctv.com/2026/05/10/ARTIABgPlZfatEZ03yIVhhiX260510.shtml)
+
