@@ -61,3 +61,5 @@
 
 + [Codex 帮我做了一个可以支持 Codex CLI 但是跑在 Mac OS X 10.4 Tiger 上的终端 App](https://www.v2ex.com/t/1211636)
 
++ [想买车 阿维塔 06 有劝退的么](https://www.v2ex.com/t/1211611)
+
