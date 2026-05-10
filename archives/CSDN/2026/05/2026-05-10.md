@@ -149,3 +149,13 @@
 
 + [yolov5的学习](https://blog.csdn.net/2501_93595759/article/details/160866758)
 
++ [【必看】2026年 {计算题} ｜专项解析 ~ E：投资收益率 & 决策树 & 博弈论](https://blog.csdn.net/weixin_42115157/article/details/160942707)
+
++ [将 Logstash Pipeline 从 Azure Event Hubs 迁移到 OTel Collector Kafka Receiver](https://blog.csdn.net/UbuntuTouch/article/details/160942323)
+
++ [Sentinel Dashboard 源码改造整合 Nacos 双向持久化完整教程](https://blog.csdn.net/HANhylyxy/article/details/160913602)
+
++ [【Web安全】-计算机网络协议（1）：IP协议详解，HTTP协议介绍](https://blog.csdn.net/2401_83075246/article/details/160935934)
+
++ [Codex + Image Gen 制作论文答辩 PPT ](https://blog.csdn.net/2201_75420345/article/details/160890409)
+

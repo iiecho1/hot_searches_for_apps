@@ -25,3 +25,15 @@
 
 + [真的有人用 AI 做 PPT 吗？](https://www.v2ex.com/t/1211441)
 
++ [自用 Codex 站](https://www.v2ex.com/t/1211578)
+
++ [同样 3 个任务，他们花了 30 美金，我们 5 美金 —— OpenClacky 1.0 发布，最省 Token 的开源 AI Agent](https://www.v2ex.com/t/1211434)
+
++ [关于 ESP32 嵌入式相关的一些问题，电商创业途中...](https://www.v2ex.com/t/1211432)
+
++ [发现一个李鬼 v2，把 v2 的主题内容和评论都采集过去，发帖用户和评论用户一换，就变成一个新的活跃论坛了](https://www.v2ex.com/t/1211493)
+
++ [找公司代缴社保公积金，导致自己变成犯罪链条的一环，法律后果如何确定](https://www.v2ex.com/t/1211572)
+
++ [想折腾一个 AI 主机，请行家出手](https://www.v2ex.com/t/1211566)
+

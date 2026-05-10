@@ -57,3 +57,17 @@
 
 + [（已恢复）DeepSeek 服务大宕机，网页 / API 暂不可用](https://m.ithome.com/html/947899.htm)
 
++ [78 岁中国半导体教父张汝京最新发声：网上很多人执着于 2/3nm 尖端芯片是认知误区，80% 的市场不需要先进制程](https://m.ithome.com/html/948379.htm)
+
++ [鸿蒙智行尊界首款 MPV 车型 V800 申报，车头大 logo、双拼色吸睛](https://m.ithome.com/html/948360.htm)
+
++ [微信输入法 Windows 2.0.0/iOS 3.3.0 版发布，新增隔空传送](https://m.ithome.com/html/948373.htm)
+
++ [鸿蒙智行尊界 S800 Grand Design 高定车型申报，华为余承东曾剧透“200 万级别”](https://m.ithome.com/html/948362.htm)
+
++ [预售 66.98 万元起，鸿蒙智行全新一代问界 M9 Ultimate 领世加长版申报](https://m.ithome.com/html/948374.htm)
+
++ [市场人士回应“DeepSeek 和阿里谈崩了”：阿里应该没有进行谈判](https://m.ithome.com/html/948253.htm)
+
++ [SK 海力士回应“员工人均奖金 610 万人民币”：无法预测，今明年度业绩尚未确定](https://m.ithome.com/html/948258.htm)
+
