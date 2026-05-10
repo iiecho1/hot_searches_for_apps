@@ -45,3 +45,19 @@
 
 + [消息称华为鸿蒙 HarmonyOS 系统通知与来电音量设置将在下个版本分离，Pura 90 标准版已先行推送](https://m.ithome.com/html/948400.htm)
 
++ [武汉大学就 OPPO 母亲节文案发声：极不认同内容表述和价值倾向](https://m.ithome.com/html/948487.htm)
+
++ [小米 17 系列旗舰手机最新销量情况曝光，Ultra 突破 20 万台](https://m.ithome.com/html/948467.htm)
+
++ [系统 OTA 升级后续航从 500km 变 300km？央视揭秘新能源汽车“锁电”真相](https://m.ithome.com/html/948435.htm)
+
++ [华为 Pura 90 系列手机首销五天数据曝光：两款机型破 17 万，对比上一代同期销量均有上涨](https://m.ithome.com/html/948414.htm)
+
++ [消息称某厂迭代新系统暂定 6 月发布，预计是小米澎湃 HyperOS 4](https://m.ithome.com/html/948521.htm)
+
++ [任正非罕见出镜：华为芯片基础技术研究实验室亮相《新闻联播》](https://m.ithome.com/html/948553.htm)
+
++ [微信转账灰度测试“组合支付”：可同时选择零钱 + 银行卡，余额不足无需再凑钱提现](https://m.ithome.com/html/948441.htm)
+
++ [全球首台鸿蒙智选美的智能空调上市：5399~7699 元，华为余承东宣布双方将在芯片、系统、生态对接等领域深化合作](https://m.ithome.com/html/948431.htm)
+

@@ -113,3 +113,11 @@
 
 + [【LangChain】少样本提示（Few-Shot Prompting）实战指南](https://blog.csdn.net/songhuangong123/article/details/160960675)
 
++ [时序数据库选型指南（实战版）：做一轮可落地评估](https://blog.csdn.net/Mrxiao_bo/article/details/160926116)
+
++ [基于face_recognition实现人脸识别（python）](https://blog.csdn.net/2401_87594179/article/details/160957907)
+
++ [【容器技术-Docker】Docker镜像](https://blog.csdn.net/weixin_45351651/article/details/160929438)
+
++ [Kubernetes生产环境微服务部署与弹性伸缩实战：从3台到100台只用了5分钟](https://blog.csdn.net/dicky_zhang3/article/details/160899996)
+
