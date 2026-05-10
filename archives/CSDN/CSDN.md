@@ -121,3 +121,5 @@
 
 + [Kubernetes生产环境微服务部署与弹性伸缩实战：从3台到100台只用了5分钟](https://blog.csdn.net/dicky_zhang3/article/details/160899996)
 
++ [Spring AI 对接大模型开发易错点总结与实战解决办法](https://blog.csdn.net/yelangkingwuzuhu/article/details/160962084)
+
