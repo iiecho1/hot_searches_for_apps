@@ -163,3 +163,15 @@
 
 + [消息人士称伊朗对美最新回应聚焦结束地区战争](https://news.cctv.com/2026/05/11/ARTI7cFwW6FBNaAO4EloYu8K260511.shtml)
 
++ [马克龙：法国从未考虑过在霍尔木兹海峡进行部署](https://news.cctv.com/2026/05/11/ARTIF0VB3aXMzwD2BvSJOxs0260511.shtml)
+
++ [俄乌互指对方违反停火安排 均称采取对等回应](https://news.cctv.com/2026/05/11/ARTIdL0etyOgeuLMB3UwWAsP260511.shtml)
+
++ [以军称其兵力逼近临界点 警告多线作战难以为继](https://news.cctv.com/2026/05/11/ARTIUZZuy1e7mKRXj2jBy9FM260511.shtml)
+
++ [涉疫邮轮“洪迪厄斯”号疏散工作正按计划进行](https://news.cctv.com/2026/05/11/ARTIKD09Cp5KeJrAQ0cJUrfW260511.shtml)
+
++ [伊朗警告法英两国：只有伊朗能保障霍尔木兹海峡安全](https://news.cctv.com/2026/05/11/ARTIty0L1f9yL13MlBpW4mTM260511.shtml)
+
++ [特朗普：伊朗的回应“完全不可接受”](https://news.cctv.com/2026/05/11/ARTInd6MqO5ZZpBXJfkPUqF0260511.shtml)
+

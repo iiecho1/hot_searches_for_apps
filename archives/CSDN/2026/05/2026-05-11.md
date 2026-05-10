@@ -123,3 +123,5 @@
 
 + [Spring AI 对接大模型开发易错点总结与实战解决办法](https://blog.csdn.net/yelangkingwuzuhu/article/details/160962084)
 
++ [SQL 第五篇：SQL 如何真正接入 Spring Boot 项目（企业 Mapper 分层实战）](https://blog.csdn.net/wulong756273/article/details/160933484)
+
