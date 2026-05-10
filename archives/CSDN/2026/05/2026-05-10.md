@@ -189,3 +189,11 @@
 
 + [GitHub 前端热榜项目 - 日榜(2026-05-09)](https://blog.csdn.net/weixin_55475226/article/details/160935465)
 
++ [第二十一届全国大学生智能车竞赛---疯狂电路组技术手册](https://blog.csdn.net/longqiu_LQ/article/details/160896921)
+
++ [《我的复杂系统认知框架：从 K8s 高可用、文明周期到个体心智边界》](https://blog.csdn.net/hezuijiudexiaobai/article/details/160959108)
+
++ [Spring AI 2.0 开发Java Agent智能体 - 结构化输出](https://blog.csdn.net/caoli201314/article/details/160934173)
+
++ [分布式部署项目](https://blog.csdn.net/HANhylyxy/article/details/160559544)
+
