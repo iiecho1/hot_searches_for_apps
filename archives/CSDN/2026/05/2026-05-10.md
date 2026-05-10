@@ -175,3 +175,9 @@
 
 + [2026 年第十一届数维杯大学生数学建模挑战赛（春季赛）A 题 抱轨式磁浮列车的悬浮电磁铁故障检测问题](https://blog.csdn.net/qq_52590045/article/details/160935348)
 
++ [[Mybatis] XML 方式实现 MP 自定义 SQL + 条件构造器](https://blog.csdn.net/Boop_wu/article/details/160956412)
+
++ [第1篇：你真的了解 Kafka 吗？—— 破冰篇](https://blog.csdn.net/u011962508/article/details/160957892)
+
++ [2026年第六届FIC全国网络空间取证大赛-初赛详细版Writeup（计算机+手机）](https://blog.csdn.net/Aluxian_/article/details/160880132)
+
