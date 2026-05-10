@@ -25,3 +25,23 @@
 
 + [比亚迪否认“被约谈、立案”：相关内容纯属虚假谣言，已启动法律程序](https://m.ithome.com/html/948145.htm)
 
++ [78 岁中国半导体教父张汝京最新发声：网上很多人执着于 2/3nm 尖端芯片是认知误区，80% 的市场不需要先进制程](https://m.ithome.com/html/948379.htm)
+
++ [鸿蒙智行尊界首款 MPV 车型 V800 申报，车头大 logo、双拼色吸睛](https://m.ithome.com/html/948360.htm)
+
++ [小米 YU7 入门级新车型确认搭载 73kWh 电池，纯电续航 633/643km](https://m.ithome.com/html/948413.htm)
+
++ [微信输入法 Windows 2.0.0/iOS 3.3.0 版发布，新增隔空传送](https://m.ithome.com/html/948373.htm)
+
++ [鸿蒙智行尊界 S800 Grand Design 高定车型申报，华为余承东曾剧透“200 万级别”](https://m.ithome.com/html/948362.htm)
+
++ [预售 66.98 万元起，鸿蒙智行全新一代问界 M9 Ultimate 领世加长版申报](https://m.ithome.com/html/948374.htm)
+
++ [SK 海力士回应“员工人均奖金 610 万人民币”：无法预测，今明年度业绩尚未确定](https://m.ithome.com/html/948258.htm)
+
++ [市场人士回应“DeepSeek 和阿里谈崩了”：阿里应该没有进行谈判](https://m.ithome.com/html/948253.htm)
+
++ [HarmonyOS 7 将至？华为开发者大会 HDC 2026 活动详情公布，将发布生态全新成果等](https://m.ithome.com/html/948436.htm)
+
++ [消息称华为鸿蒙 HarmonyOS 系统通知与来电音量设置将在下个版本分离，Pura 90 标准版已先行推送](https://m.ithome.com/html/948400.htm)
+

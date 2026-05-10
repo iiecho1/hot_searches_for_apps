@@ -101,3 +101,15 @@
 
 + [分布式部署项目](https://blog.csdn.net/HANhylyxy/article/details/160559544)
 
++ [公网 IP、私网 IP、路由表、转发表与 MAC 地址的关系](https://blog.csdn.net/weixin_41165867/article/details/159955011)
+
++ [【CanMV K210】AI 视觉 YOLO 多类别目标检测实验](https://blog.csdn.net/qq_20288327/article/details/160774022)
+
++ [深度玩转 Seedance AI：短视频创作进阶与实战落地](https://blog.csdn.net/CC1991_/article/details/160908305)
+
++ [深度学习pytorch](https://blog.csdn.net/2403_89124688/article/details/160481298)
+
++ [Sub2API：订阅转API网关平台，魔芋AI接入指南](https://blog.csdn.net/weixin_53403266/article/details/160895424)
+
++ [【LangChain】少样本提示（Few-Shot Prompting）实战指南](https://blog.csdn.net/songhuangong123/article/details/160960675)
+
