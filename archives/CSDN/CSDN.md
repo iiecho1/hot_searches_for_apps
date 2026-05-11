@@ -131,3 +131,5 @@
 
 + [Godot(4.X): 全局AutoLoad网络管理中心实现](https://blog.csdn.net/2503_93490340/article/details/160946241)
 
++ [VSCode 中使用 Codex：命令、Agent 与 Skills 完整指南](https://blog.csdn.net/qq_45490502/article/details/160915385)
+
