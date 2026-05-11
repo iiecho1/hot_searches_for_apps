@@ -185,3 +185,11 @@
 
 + [失踪近10天后 一名美国军人被证实在非洲军演期间身亡](https://news.cctv.com/2026/05/11/ARTIjISzgjaNxSURTBn5clrq260511.shtml)
 
++ [菲律宾众议院通过针对副总统莎拉·杜特尔特的弹劾条款](https://news.cctv.com/2026/05/11/ARTIyyyqhaNbgnAync5vrRhU260511.shtml)
+
++ [伊朗外交部：向美提出了“负责任的诉求和慷慨的提议”](https://news.cctv.com/2026/05/11/ARTIPD6l7Y27JE2TSDZhG7jr260511.shtml)
+
++ [韩前总理韩德洙对“从事内乱重要任务”案二审结果提起上诉](https://news.cctv.com/2026/05/11/ARTIzdWWAvBFE6BEkL5XpyZH260511.shtml)
+
++ [印尼东爪哇省一火山喷发 火山灰柱高约1200米](https://news.cctv.com/2026/05/11/ARTIDMgPy7DKxSv2UdJc0HiT260511.shtml)
+

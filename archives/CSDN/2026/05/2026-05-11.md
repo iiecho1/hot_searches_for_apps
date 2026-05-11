@@ -163,3 +163,23 @@
 
 + [主动提交给搜索引擎，例如百度搜索资源平台、Google Search Console：验证站点、提交 sitemap，便于发现和收录](https://blog.csdn.net/qq_43894292/article/details/160925609)
 
++ [告别昂贵的ETL——大数据架构下的时序选型指南](https://blog.csdn.net/2302_78391795/article/details/160925098)
+
++ [鸿蒙 PC 多窗口系统：一次讲透实现原理](https://blog.csdn.net/qq_36478920/article/details/160970139)
+
++ [深度学习实战-基于Xception的农场害虫图像分类检测模型](https://blog.csdn.net/m0_64336780/article/details/159732510)
+
++ [ClipSketch AI 部署实录：视频秒变手绘漫画，B站小红书创作者效率工具](https://blog.csdn.net/qyj19920704/article/details/160979798)
+
++ [AI智能体视觉（TVA）实战教程（1）](https://blog.csdn.net/2501_94287723/article/details/160962100)
+
++ [28个Token重构鸿蒙App：企业级设计系统的搭建实践](https://blog.csdn.net/2302_80329073/article/details/160925664)
+
++ [【花雕学编程】Arduino BLDC 之机器人引入卡尔曼滤波的高精度姿态估计](https://blog.csdn.net/weixin_41659040/article/details/160917841)
+
++ [linux之文件系统(3)](https://blog.csdn.net/feng_wu_ying_li/article/details/160927751)
+
++ [KES数据库表空间自动创建特性详解：从传统运维痛点到云原生存储落地](https://blog.csdn.net/beautifulmemory/article/details/160970751)
+
++ [Oracle迁移避坑:一个(+)写错,LEFT JOIN可能变INNER JOIN](https://blog.csdn.net/2401_87629362/article/details/160935363)
+

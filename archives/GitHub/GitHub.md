@@ -27,3 +27,5 @@
 
 + [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 
++ [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+
