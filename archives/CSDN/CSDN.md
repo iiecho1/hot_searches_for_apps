@@ -133,3 +133,5 @@
 
 + [VSCode 中使用 Codex：命令、Agent 与 Skills 完整指南](https://blog.csdn.net/qq_45490502/article/details/160915385)
 
++ [HarmonyOS 6（API 23）实战：打造“看见风险“的AR金融风控面签系统——基于Face AR活体检测与微表情欺诈识别 + Body AR姿态一致性验证的沉浸光感合规平台](https://blog.csdn.net/u014727709/article/details/160920078)
+

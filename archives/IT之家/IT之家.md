@@ -25,3 +25,27 @@
 
 + [全球首台鸿蒙智选美的智能空调上市：5399~7699 元，华为余承东宣布双方将在芯片、系统、生态对接等领域深化合作](https://m.ithome.com/html/948431.htm)
 
++ [OPPO 就母亲节文案事件发布问责通告，中国区业务负责人段要辉职级直降两级](https://m.ithome.com/html/948677.htm)
+
++ [OPPO 就母亲节营销文案存在的问题再发致歉声明：将重构内容审核流程，完善分层分级内容审核机制](https://m.ithome.com/html/948679.htm)
+
++ [消息称华为在测全新电池材料 + 电芯体系：容量将达行业最高水平，落地可能远超 10000mAh](https://m.ithome.com/html/948702.htm)
+
++ [贾跃亭回归出任法拉第未来全球 CEO，FF 官宣将升级为物理 AI 生态公司](https://m.ithome.com/html/948568.htm)
+
++ [张雪机车：部分“旅狼牌”500RR 与 500F 磁电机线束压板存在风险，提供升级 + 点检 + 延保](https://m.ithome.com/html/948560.htm)
+
++ [无需上牌、不用驾照、买来就能上路？央视起底三无“手搓汽车”：专卖老年人，且存在重大安全隐患](https://m.ithome.com/html/948567.htm)
+
++ [乘联分会报告透露：小米汽车 4 月零售 36702 辆，特斯拉中国出口 53522 辆](https://m.ithome.com/html/948646.htm)
+
++ [首款支持搭载激光雷达的 A00 级车型：2026 款比亚迪海鸥上市，官方指导价 6.99 万元-9.79 万元](https://m.ithome.com/html/948620.htm)
+
++ [比亚迪推出车机屏幕小换大服务：1320/1999 元，支持部分宋 PLUS、海豹、海狮等车型](https://m.ithome.com/html/948607.htm)
+
++ [小米新一代智能座舱入网，有望为“寻天”首款增程 SUV 铺路](https://m.ithome.com/html/948669.htm)
+
++ [华为鸿蒙 HarmonyOS 5 / 6 系统 AppTest 获推 V2.3.1.300 升级，支持测试应用不卸载安装降级版本](https://m.ithome.com/html/948580.htm)
+
++ [大疆 Osmo Pocket 4P 双摄云台相机 5 月 14 日发布：有望采用 1 英寸主摄 + 等效 70mm 3 倍光学镜头](https://m.ithome.com/html/948956.htm)
+
