@@ -135,3 +135,31 @@
 
 + [进程池构建：高效任务派发与隐藏BUG揭秘全解析](https://blog.csdn.net/2401_86123468/article/details/160668370)
 
++ [PyTorch强化学习实战（7）——表格学习与贝尔曼方程](https://blog.csdn.net/LOVEmy134611/article/details/157654417)
+
++ [Navigation Compose：NavHost、NavController 与参数](https://blog.csdn.net/g984160547/article/details/160925058)
+
++ [IoTDB JDBC 完整使用教程：连接、查询、批处理与字符集配置](https://blog.csdn.net/weixin_43151418/article/details/160789890)
+
++ [OpenWebUI + Ollama + DeepSeek R1：本地 AI 界面部署与远程访问指南](https://blog.csdn.net/weixin_74888502/article/details/160968449)
+
++ [SpringCloud 进阶拓展：微服务链路追踪，从 Sleuth+Zipkin 到 Micrometer Tracing 全演进（Spring Boot 3.x 适配）](https://blog.csdn.net/qq_40303030/article/details/159766629)
+
++ [给一百台机器装Nginx，手动方式是体力活，Ansible 一键启动](https://blog.csdn.net/no1coder/article/details/160889274)
+
++ [N1飞牛NAS + New-API：本地AI模型统一接口中转部署实录](https://blog.csdn.net/weixin_62765017/article/details/160975356)
+
++ [【Linux】进程概念--进程的控制](https://blog.csdn.net/2501_93351213/article/details/160956038)
+
++ [为什么微信发长视频模糊、有马赛克的根源，压缩画质](https://blog.csdn.net/chen_si_shang_/article/details/160962043)
+
++ [Flutter × Harmony6.0 打造高颜值优惠商城页面：跨端 UI 构建与组件化实践](https://blog.csdn.net/weixin_52908342/article/details/160961682)
+
++ [Spring MVC 的核心知识点梳理](https://blog.csdn.net/2401_87092242/article/details/160962146)
+
++ [Codex桌面版接入DeepSeek-V4](https://blog.csdn.net/2503_91008971/article/details/160936598)
+
++ [MySQL表的约束](https://blog.csdn.net/2403_87752060/article/details/160955976)
+
++ [主动提交给搜索引擎，例如百度搜索资源平台、Google Search Console：验证站点、提交 sitemap，便于发现和收录](https://blog.csdn.net/qq_43894292/article/details/160925609)
+

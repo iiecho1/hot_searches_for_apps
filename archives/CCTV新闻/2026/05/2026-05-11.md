@@ -181,3 +181,7 @@
 
 + [泰国前总理他信假释出狱](https://news.cctv.com/2026/05/11/ARTIGjfFfHKFOq29NacqFcMi260511.shtml)
 
++ [拉美观察丨中东冲突考验巴西经济韧性](https://news.cctv.com/2026/05/11/ARTIvu7reJfBY4BI1dKnSf7x260511.shtml)
+
++ [失踪近10天后 一名美国军人被证实在非洲军演期间身亡](https://news.cctv.com/2026/05/11/ARTIjISzgjaNxSURTBn5clrq260511.shtml)
+
