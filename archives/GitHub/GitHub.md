@@ -29,3 +29,19 @@
 
 + [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
++ [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+
++ [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+
++ [millionco/react-doctor](https://github.com/millionco/react-doctor)
+
++ [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+
++ [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
++ [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
++ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
++ [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
+

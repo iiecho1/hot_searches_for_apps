@@ -183,3 +183,15 @@
 
 + [Oracle迁移避坑:一个(+)写错,LEFT JOIN可能变INNER JOIN](https://blog.csdn.net/2401_87629362/article/details/160935363)
 
++ [极空间NAS部署Photopea:私有在线修图工作站,手机平板随时编辑](https://blog.csdn.net/2401_87629362/article/details/160984988)
+
++ [【花雕学编程】Arduino BLDC 之机器人基于互补滤波的姿态解算与直立环控制](https://blog.csdn.net/weixin_41659040/article/details/160977331)
+
++ [Linux信号深度解剖：5种产生、3张表、4次切换](https://blog.csdn.net/2401_87889177/article/details/160900996)
+
++ [C#动态缩放：负载激增时资源利用率飙升70%的秘密](https://blog.csdn.net/z_344791576/article/details/151896168)
+
++ [【AI应用开发框架】大语言模型（LLM）与嵌入模型](https://blog.csdn.net/2301_81290732/article/details/160859855)
+
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与Face AR & Body AR的“灵境直播间“——PC端沉浸式AR电商直播工作台](https://blog.csdn.net/u014727709/article/details/160920489)
+
