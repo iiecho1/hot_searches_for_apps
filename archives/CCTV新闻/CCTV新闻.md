@@ -175,3 +175,9 @@
 
 + [特朗普：伊朗的回应“完全不可接受”](https://news.cctv.com/2026/05/11/ARTInd6MqO5ZZpBXJfkPUqF0260511.shtml)
 
++ [伊朗媒体公布伊朗回应美方要点](https://news.cctv.com/2026/05/11/ARTIeS9xHFoi48K4xQJO55sR260511.shtml)
+
++ [伊朗方面称已拒绝美国提出的方案](https://news.cctv.com/2026/05/11/ARTIJXG2J0ebQrvFtiL7USry260511.shtml)
+
++ [泰国前总理他信假释出狱](https://news.cctv.com/2026/05/11/ARTIGjfFfHKFOq29NacqFcMi260511.shtml)
+
