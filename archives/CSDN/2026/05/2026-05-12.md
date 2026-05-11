@@ -135,3 +135,5 @@
 
 + [HarmonyOS 6（API 23）实战：打造“看见风险“的AR金融风控面签系统——基于Face AR活体检测与微表情欺诈识别 + Body AR姿态一致性验证的沉浸光感合规平台](https://blog.csdn.net/u014727709/article/details/160920078)
 
++ [详细解读Redis作者antirez开源的ds4项目，ds4.c — DeepSeek V4 Flash 本地推理引擎（中文文档）](https://blog.csdn.net/youeyeb/article/details/160912964)
+

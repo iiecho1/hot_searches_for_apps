@@ -161,3 +161,15 @@
 
 + [伊朗警告地区国家不要采取军事冒险行动](https://news.cctv.com/2026/05/08/ARTIBxgUfhqVgvOIUewtesUr260508.shtml)
 
++ [西班牙完成涉疫邮轮人员转运 “洪迪厄斯”号驶往鹿特丹](https://news.cctv.com/2026/05/12/ARTI9SmygMQAgw9inpgLYSXT260512.shtml)
+
++ [伊朗议长：伊武装部队已做好准备应对任何侵略行为](https://news.cctv.com/2026/05/12/ARTI5hD91EqtXG5rsXz96QiT260512.shtml)
+
++ [委内瑞拉代总统否认该国将成为美国“第51州”](https://news.cctv.com/2026/05/12/ARTILPRziL6l43oR0hrHREnD260512.shtml)
+
++ [刚果（金）东部遭多起武装袭击 至少50名平民死亡](https://news.cctv.com/2026/05/12/ARTI6ei8Foqm82thlwmCwGtN260512.shtml)
+
++ [伊朗议长：“14点提案”无可替代](https://news.cctv.com/2026/05/12/ARTI41YMgokMeE6cyTvoN55H260512.shtml)
+
++ [美国总统特朗普：非常期待中国之行](https://news.cctv.com/2026/05/12/ARTIz3TJ5esF6gL8lwKGfcz5260512.shtml)
+
