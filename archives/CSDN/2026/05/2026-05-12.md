@@ -101,3 +101,33 @@
 
 + [SQL 第五篇：SQL 如何真正接入 Spring Boot 项目（企业 Mapper 分层实战）](https://blog.csdn.net/wulong756273/article/details/160933484)
 
++ [云原生环境下的存储弹性与自动化：表空间目录动态挂载与冷热分层实践](https://blog.csdn.net/2302_78391795/article/details/160946829)
+
++ [KingbaseES中的PL_SQL编程：存储过程、函数、触发器与包的开发指南](https://blog.csdn.net/qq_57761637/article/details/160961886)
+
++ [【HID】规范精讲[12]: 蓝牙HID设备的连接信息存储机制深度解析](https://blog.csdn.net/weixin_37800531/article/details/160801506)
+
++ [KES数据库自动创建表空间目录，不用再提前建文件夹了](https://blog.csdn.net/weixin_43151418/article/details/160970576)
+
++ [DeepSeek V4 开源生态实战：从 LangChain 集成到私有化部署的完整指南](https://blog.csdn.net/u014727709/article/details/160971225)
+
++ [远程连MySQL还靠装工具？UU远程端口映射，一条规则搞定](https://blog.csdn.net/2401_86326742/article/details/160935281)
+
++ [基于 Harmony6.0 的优惠聚合应用实战：Flutter 页面构建与高质感 UI 设计解析](https://blog.csdn.net/weixin_52908342/article/details/160961609)
+
++ [9.深度剖析MySQL约束的工程设计：自增主键的分布式局限、外键约束的权衡，与CHECK的版本适配实践](https://blog.csdn.net/2401_87122037/article/details/160955783)
+
++ [Linux共享内存原理与实战：从内核到C++实现|附源码](https://blog.csdn.net/2401_86123468/article/details/160899744)
+
++ [ZooKeeper 三节点集群部署：别再单机玩，高可用强一致集群这样搭](https://blog.csdn.net/Z_oioihoii/article/details/160968668)
+
++ [【2026亲测】彻底禁止Windows11自动更新，永久关闭Windows更新](https://blog.csdn.net/2501_92543552/article/details/160909888)
+
++ [金仓 KingbaseES Pro*C 迁移指南：从 Oracle 平滑迁移](https://blog.csdn.net/lrq13965748542/article/details/160884615)
+
++ [MySQL表的约束](https://blog.csdn.net/2403_87752060/article/details/160955976)
+
++ [[Mybatis] XML 方式实现 MP 自定义 SQL + 条件构造器](https://blog.csdn.net/Boop_wu/article/details/160956412)
+
++ [Godot(4.X): 全局AutoLoad网络管理中心实现](https://blog.csdn.net/2503_93490340/article/details/160946241)
+
