@@ -101,3 +101,35 @@
 
 + [KES数据库表空间自动创建特性详解：从传统运维痛点到云原生存储落地](https://blog.csdn.net/beautifulmemory/article/details/160970751)
 
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与Face AR & Body AR的“灵境直播间“——PC端沉浸式AR电商直播工作台](https://blog.csdn.net/u014727709/article/details/160920489)
+
++ [【AI应用开发框架】大语言模型（LLM）与嵌入模型](https://blog.csdn.net/2301_81290732/article/details/160859855)
+
++ [【Linux网络】从 0 到 1 实现高性能 UDP 聊天室：深入拆解 Linux 网络编程与线程池架构](https://blog.csdn.net/2503_91389547/article/details/160611715)
+
++ [项目实战：Qt（cpu趋近于零消耗）获取windows的cpu使用率和内存占用率](https://blog.csdn.net/qq21497936/article/details/161026020)
+
++ [【Qt】系统相关（七）网络编程讲解，UDP回显服务器的实现](https://blog.csdn.net/2301_80751958/article/details/160988880)
+
++ [【ChatGLM系列技术演进·第二篇】ChatGPT 冲击下的关键转身：ChatGLM-6B 诞生记，以及 ChatGLM2-6B 的架构三连跳（2023）](https://blog.csdn.net/qq_73472828/article/details/160992307)
+
++ [手撕一个高并发线程池：从生产者-消费者模型到优雅退出的完整剖析](https://blog.csdn.net/yhrxh_ymq/article/details/160892975)
+
++ [以技为念，以智为魂——用腾讯云Lighthouse+Hermes Agent+蓝耘MaaS，复刻恩师数字身影](https://blog.csdn.net/Pocker_Spades_A/article/details/160943196)
+
++ [Redis 事务](https://blog.csdn.net/2301_76161469/article/details/160755177)
+
++ [SpringCloud 进阶拓展：微服务链路追踪，从 Sleuth+Zipkin 到 Micrometer Tracing 全演进（Spring Boot 3.x 适配）](https://blog.csdn.net/qq_40303030/article/details/159766629)
+
++ [【路径规划】间歇性扩散的机器人群体协同运动规划 附matlab代码](https://blog.csdn.net/qq_59747472/article/details/160960754)
+
++ [无人机系统安全攻防技术深度解析](https://blog.csdn.net/2301_79518550/article/details/160959238)
+
++ [Jenkins Pipeline 构建后推送到Nexus制品库 jenkins 如何连接Nexus？企业级实战 --上 Nexus部署](https://blog.csdn.net/soso678/article/details/161019855)
+
++ [【C++项目之高并发内存池 (四)】三层缓存的空间回收流程详解](https://blog.csdn.net/2501_93095927/article/details/160958160)
+
++ [[ 开源 ] FastAPI + LangGraph 实战智能客服 Agent：从工单分类到自动回复与业务回写 附github ](https://blog.csdn.net/2301_79976543/article/details/160959706)
+
++ [为什么微信发长视频模糊、有马赛克的根源，压缩画质](https://blog.csdn.net/chen_si_shang_/article/details/160962043)
+

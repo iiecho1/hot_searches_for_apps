@@ -161,3 +161,7 @@
 
 + [世卫组织：“洪迪厄斯”号邮轮疫情确诊病例升为6例](https://news.cctv.com/2026/05/09/ARTIhICuBgGuxcLTP4Ky1v8k260509.shtml)
 
++ [匈牙利新一届政府正式成立](https://news.cctv.com/2026/05/13/ARTIiaYhHQ96vLRIDHdP2Iy9260513.shtml)
+
++ [俄罗斯称成功试射“萨尔马特”导弹 年底可投入战斗值班](https://news.cctv.com/2026/05/13/ARTI1lp9eFagcxk1fJ2GAlce260513.shtml)
+
