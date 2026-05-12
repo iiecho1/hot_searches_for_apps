@@ -165,3 +165,9 @@
 
 + [硬核拆解：Linux动态库从原理到实战](https://blog.csdn.net/2502_93841997/article/details/160889537)
 
++ [鸿蒙 App 重构：如何从混乱到清晰？](https://blog.csdn.net/qq_36863796/article/details/160934533)
+
++ [ToDesk、向日葵、TeamViewer、RustDesk多人同时控制同一台电脑的协作能力实测](https://blog.csdn.net/qq_42055933/article/details/160869024)
+
++ [魔珐星云：打造企业BI数据讲解智能体，让数据自己会说话](https://blog.csdn.net/sinat_41617212/article/details/160952778)
+

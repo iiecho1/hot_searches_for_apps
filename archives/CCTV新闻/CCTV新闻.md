@@ -189,3 +189,5 @@
 
 + [美国悬赏1500万美元 打击伊朗革命卫队资金网络](https://news.cctv.com/2026/05/12/ARTI5S52BcUSCr2tj8yUQXjz260512.shtml)
 
++ [伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%](https://news.cctv.com/2026/05/12/ARTI97kb47ZU6xtUXYEeOMM4260512.shtml)
+
