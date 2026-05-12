@@ -35,3 +35,13 @@
 
 + [[终身成就达成] 单日徒步 100 公里, 我开始享受自己现在健康的身体了.](https://www.v2ex.com/t/1211914)
 
++ [继续推广我的 gpt 中转站，注册就送 30$余额](https://www.v2ex.com/t/1211962)
+
++ [紧急避雷！ google 搜 Codex 第一个结果是个病毒，千万别装，我已中招！](https://www.v2ex.com/t/1212003)
+
++ [卖房差点被骗了](https://www.v2ex.com/t/1212035)
+
++ [自用 Codex 站（今天继续福利分组--5.12）](https://www.v2ex.com/t/1212045)
+
++ [用 Gemini 治好了我的瘙痒问题](https://www.v2ex.com/t/1211865)
+

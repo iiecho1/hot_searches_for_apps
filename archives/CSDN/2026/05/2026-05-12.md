@@ -143,3 +143,25 @@
 
 + [主动提交给搜索引擎，例如百度搜索资源平台、Google Search Console：验证站点、提交 sitemap，便于发现和收录](https://blog.csdn.net/qq_43894292/article/details/160925609)
 
++ [【花雕学编程】Arduino BLDC 之自适应地形车体调平机器人平台](https://blog.csdn.net/weixin_41659040/article/details/160920312)
+
++ [科技早报｜2026年5月12日：OpenAI 押注企业部署](https://blog.csdn.net/x1131230123/article/details/161000994)
+
++ [【QT-百日筑基篇】功法有些小成，开始进行打怪升级-QT的实践第一课，创建Hello World的几种方法](https://blog.csdn.net/buhuizhiyuci/article/details/160991045)
+
++ [Spring AI 2.0 开发Java Agent智能体 - 会话记忆(Chat Memory)](https://blog.csdn.net/caoli201314/article/details/160990512)
+
++ [DISTINCT 查询优化：从去重语义到 LIMIT 1 改写](https://blog.csdn.net/Mrxiao_bo/article/details/160928993)
+
++ [为 Elasticsearch 带来火力：增加原生 Prometheus API 支持](https://blog.csdn.net/UbuntuTouch/article/details/161009498)
+
++ [搭了个私人音乐库，手机上随时听，再也不被版权和会员费卡脖子](https://blog.csdn.net/COLLINSXU/article/details/161009651)
+
++ [超越订阅限制：腾讯云Token Plan + CC Switch 配置 Claude Code Desktop 全攻略](https://blog.csdn.net/m0_69960929/article/details/160913303)
+
++ [AI驱动的DevOps革命：智能运维系统实战指南](https://blog.csdn.net/weixin_43801219/article/details/160988870)
+
++ [Trae IDE 搭载 Burp Suite MCP Server 完整指南 —— 让 AI 直接操控 Burp Suite](https://blog.csdn.net/2302_77004059/article/details/161001310)
+
++ [硬核拆解：Linux动态库从原理到实战](https://blog.csdn.net/2502_93841997/article/details/160889537)
+

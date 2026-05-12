@@ -173,3 +173,19 @@
 
 + [美国总统特朗普：非常期待中国之行](https://news.cctv.com/2026/05/12/ARTIz3TJ5esF6gL8lwKGfcz5260512.shtml)
 
++ [美军一艘核潜艇抵达地中海直布罗陀港](https://news.cctv.com/2026/05/12/ARTIcLPGK1D5fbpmvYkNTDTA260512.shtml)
+
++ [英国首相斯塔默被多名内阁成员要求设定辞职时间表](https://news.cctv.com/2026/05/12/ARTI9wHXy5bIsQTUzqWPx4Ft260512.shtml)
+
++ [日本恩格尔系数创1980年以来最高水平](https://news.cctv.com/2026/05/12/ARTIQ20wDGHMKSUuws3LRzB7260512.shtml)
+
++ [柬埔寨国会通过《兵役法》草案](https://news.cctv.com/2026/05/12/ARTIj5Fe8Dfw4nIWsk4zW5Kc260512.shtml)
+
++ [美国非法关税首批退款将于5月12日发放](https://news.cctv.com/2026/05/12/ARTIrZTFSgCUA2D8ZXAOzovJ260512.shtml)
+
++ [荷兰一家收治汉坦病毒感染者医院12人被隔离](https://news.cctv.com/2026/05/12/ARTIINnd5cZy9XETG4Bi0sXZ260512.shtml)
+
++ [世卫组织：涉疫邮轮病例增至9例 隔离检疫措施旨在降低传播风险](https://news.cctv.com/2026/05/12/ARTIx2gxT7QsHSkBaryY9F0H260512.shtml)
+
++ [美国悬赏1500万美元 打击伊朗革命卫队资金网络](https://news.cctv.com/2026/05/12/ARTI5S52BcUSCr2tj8yUQXjz260512.shtml)
+
