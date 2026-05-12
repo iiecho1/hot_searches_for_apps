@@ -49,3 +49,5 @@
 
 + [大疆 Osmo Pocket 4P 双摄云台相机 5 月 14 日发布：有望采用 1 英寸主摄 + 等效 70mm 3 倍光学镜头](https://m.ithome.com/html/948956.htm)
 
++ [比亚迪大汉最新外观内饰谍照曝光：大唐同款门把手、方向盘，续航有望破千](https://m.ithome.com/html/949067.htm)
+

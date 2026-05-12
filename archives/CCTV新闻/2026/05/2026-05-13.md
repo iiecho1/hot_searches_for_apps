@@ -165,3 +165,13 @@
 
 + [俄罗斯称成功试射“萨尔马特”导弹 年底可投入战斗值班](https://news.cctv.com/2026/05/13/ARTI1lp9eFagcxk1fJ2GAlce260513.shtml)
 
++ [柬埔寨表示不与泰国就海洋问题进行双边谈判](https://news.cctv.com/2026/05/13/ARTI6lSsw1Hip5EqtWvZPFGD260513.shtml)
+
++ [伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡](https://news.cctv.com/2026/05/13/ARTI8xVjauvcGOTOWrhpbJix260513.shtml)
+
++ [英国将向霍尔木兹海峡多国护航行动派遣战机及军舰](https://news.cctv.com/2026/05/13/ARTIk5Zfyk252lDjajZdeRLd260513.shtml)
+
++ [俄莫斯科州一库房发生火灾 过火面积已达2550平方米](https://news.cctv.com/2026/05/13/ARTIul6rVqBQ5fetgSZrZJxX260513.shtml)
+
++ [超百名工党下院议员签署声明支持斯塔默留任](https://news.cctv.com/2026/05/13/ARTILbl7pF1IPyzb3gVS49o5260513.shtml)
+
