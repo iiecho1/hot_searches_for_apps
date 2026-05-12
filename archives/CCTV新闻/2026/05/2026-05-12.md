@@ -197,3 +197,5 @@
 
 + [佩斯科夫：俄方愿对话解决乌克兰危机 欢迎美国调解努力](https://news.cctv.com/2026/05/12/ARTIcb3m5ANODoqxUvvtIpbh260512.shtml)
 
++ [国际社会高度关注中美元首会晤 期待两国合作为世界注入更多稳定性](https://news.cctv.com/2026/05/12/ARTIKifvhO6zojV4RvhCvcX1260512.shtml)
+

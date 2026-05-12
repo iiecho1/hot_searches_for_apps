@@ -181,3 +181,17 @@
 
 + [Spring AI Advisor 完全指南：拦截器机制与实战全解](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161018652)
 
++ [DailyTxT 私人日记服务：NAS + Docker 部署，数据完全本地存储](https://blog.csdn.net/2501_91062530/article/details/161022317)
+
++ [【Linux网络】Linux 网络编程：应用层自定义协议与序列化（2）序列化与反序列化](https://blog.csdn.net/2401_89899187/article/details/160913332)
+
++ [基于Spring AI + 阿里百炼 DashScope：构建 AI Agent RAG 企业级知识助手](https://blog.csdn.net/qq_39818325/article/details/160989131)
+
++ [计算机网络——数据传输](https://blog.csdn.net/m0_63611023/article/details/161019033)
+
++ [k8s-持久化存储](https://blog.csdn.net/Cat_Rocky/article/details/160992782)
+
++ [【Linux系统】进程地址空间](https://blog.csdn.net/lrq13965748542/article/details/160527299)
+
++ [【Azure 应用服务】WEBSITE_DISABLE_CROSS_STAMP_SCALE 配置的作用说明 ](https://blog.csdn.net/lubu123456/article/details/160991559)
+

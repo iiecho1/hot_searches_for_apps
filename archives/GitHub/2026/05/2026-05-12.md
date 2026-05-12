@@ -27,3 +27,13 @@
 
 + [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
 
++ [apernet/hysteria](https://github.com/apernet/hysteria)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [anonfaded/FadCam](https://github.com/anonfaded/FadCam)
+
++ [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+
++ [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+
