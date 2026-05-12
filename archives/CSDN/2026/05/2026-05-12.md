@@ -137,3 +137,9 @@
 
 + [详细解读Redis作者antirez开源的ds4项目，ds4.c — DeepSeek V4 Flash 本地推理引擎（中文文档）](https://blog.csdn.net/youeyeb/article/details/160912964)
 
++ [每日 AI 动态简报 | 2026年5月11日 方向：AI Coding & 具身智能](https://blog.csdn.net/zhangfeng1133/article/details/160990605)
+
++ [KouriChat + DeepSeek + 微信接入：本地 AI 角色聊天机器人搭建实录](https://blog.csdn.net/user340/article/details/160993324)
+
++ [主动提交给搜索引擎，例如百度搜索资源平台、Google Search Console：验证站点、提交 sitemap，便于发现和收录](https://blog.csdn.net/qq_43894292/article/details/160925609)
+

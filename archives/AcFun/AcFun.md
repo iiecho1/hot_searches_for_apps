@@ -71,3 +71,7 @@
 
 + [「太阳与地球」‌（cover：卢广仲） | “最靠近的我们 怎么绕着绕着就错过”](https://m.acfun.cn/v/?ac=48513878)
 
++ [哎还没鼠呢^^](https://m.acfun.cn/v/?ac=48514057)
+
++ [充电专属 chocolatecream 完整版](https://m.acfun.cn/v/?ac=48513243)
+

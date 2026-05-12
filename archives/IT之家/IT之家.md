@@ -49,3 +49,11 @@
 
 + [大疆 Osmo Pocket 4P 双摄云台相机 5 月 14 日发布：有望采用 1 英寸主摄 + 等效 70mm 3 倍光学镜头](https://m.ithome.com/html/948956.htm)
 
++ [苹果 iOS / iPadOS 26.5 正式版发布：新增端到端加密 RCS、全新彩虹壁纸和地图广告更新，欧盟地区为第三方设备开放 AirPods 式快速配对](https://m.ithome.com/html/949034.htm)
+
++ [12306 回应动车卧铺加装床帘：暂未接到统一通知，仅少量新车配备便民设施](https://m.ithome.com/html/949020.htm)
+
++ [“微信状态访客记录”话题上热搜，腾讯客服回应尚未上线该服务](https://m.ithome.com/html/948998.htm)
+
++ [我国地震预警手机直达用户超过 1 亿，华为、小米已接入统一地震预警信息](https://m.ithome.com/html/948905.htm)
+
