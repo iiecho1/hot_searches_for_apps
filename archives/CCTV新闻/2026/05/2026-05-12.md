@@ -191,3 +191,9 @@
 
 + [伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%](https://news.cctv.com/2026/05/12/ARTI97kb47ZU6xtUXYEeOMM4260512.shtml)
 
++ [玉渊谭天丨独家披露中美禁毒合作细节](https://news.cctv.com/2026/05/12/ARTIb0Im12AXLNyGSNpUXrUP260512.shtml)
+
++ [谭德塞：没有任何迹象显示汉坦病毒正出现大规模暴发](https://news.cctv.com/2026/05/12/ARTIXKSqGbXYCxKsciUlVLwU260512.shtml)
+
++ [佩斯科夫：俄方愿对话解决乌克兰危机 欢迎美国调解努力](https://news.cctv.com/2026/05/12/ARTIcb3m5ANODoqxUvvtIpbh260512.shtml)
+
