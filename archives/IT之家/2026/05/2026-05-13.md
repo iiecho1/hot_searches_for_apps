@@ -51,3 +51,9 @@
 
 + [比亚迪大汉最新外观内饰谍照曝光：大唐同款门把手、方向盘，续航有望破千](https://m.ithome.com/html/949067.htm)
 
++ [4499 → 3399 元：苹果 iPhone 17e 京东换新直降，A19 芯片 +256G 储存](https://m.ithome.com/html/949436.htm)
+
++ [金标联盟成员小米、OPPO、vivo、荣耀发布 Android 17 适配公告，呼吁开发者在 7 月 1 日前完成适配](https://m.ithome.com/html/949500.htm)
+
++ [华为鸿蒙 HarmonyOS 上架多款“初音未来”授权主题：定价 6 元、主题会员免费](https://m.ithome.com/html/949371.htm)
+
