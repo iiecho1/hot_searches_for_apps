@@ -101,3 +101,27 @@
 
 + [Apache IoTDB 选型与落地避坑：工业级时序数据库实战指南](https://blog.csdn.net/g310773517/article/details/161035504)
 
++ [中级OpenGL教程 005：为球体&平面注入法线灵魂](https://blog.csdn.net/2503_92624912/article/details/161055221)
+
++ [【HID】规范精讲[13]: 蓝牙HID配对与虚拟线缆深度解析](https://blog.csdn.net/weixin_37800531/article/details/160935411)
+
++ [科技晚报｜2026年5月12日：Claude 进 AWS，AI 落地拼控制面](https://blog.csdn.net/x1131230123/article/details/161023926)
+
++ [DeepSeek V4 开源生态实战：从 LangChain 集成到私有化部署的完整指南](https://blog.csdn.net/u014727709/article/details/160971225)
+
++ [SpringCloud 进阶拓展：微服务链路追踪，从 Sleuth+Zipkin 到 Micrometer Tracing 全演进（Spring Boot 3.x 适配）](https://blog.csdn.net/qq_40303030/article/details/159766629)
+
++ [第八篇：Spring与微服务——从SpringBoot到SpringCloud的演进](https://blog.csdn.net/2503_90542405/article/details/161027262)
+
++ [C#预处理指令：3步定义DEBUG，效率提升150%？](https://blog.csdn.net/z_344791576/article/details/151898303)
+
++ [【C++项目之高并发内存池 (四)】三层缓存的空间回收流程详解](https://blog.csdn.net/2501_93095927/article/details/160958160)
+
++ [Cloud code完整命令手册](https://blog.csdn.net/qq_46025779/article/details/161027407)
+
++ [SpringBoot 项目使用 Jasypt 实现配置文件敏感信息加密](https://blog.csdn.net/m0_71751187/article/details/161019648)
+
++ [Flutter - Flutter 引入、runApp 与 Widget、MaterialApp、Scaffold、自定义组件、生命周期](https://blog.csdn.net/weixin_52173250/article/details/161026870)
+
++ [用AI编程从零搭建一个响应式数据看板](https://blog.csdn.net/N199109/article/details/161026111)
+
