@@ -57,3 +57,15 @@
 
 + [华为鸿蒙 HarmonyOS 上架多款“初音未来”授权主题：定价 6 元、主题会员免费](https://m.ithome.com/html/949371.htm)
 
++ [“15555559999”中国联通“风险靓号”拍卖结束：1.6 万人围观，成交价 27.1 万元](https://m.ithome.com/html/949483.htm)
+
++ [比亚迪第三代元 PLUS 将于 5 月 21 日上市：二代刀片电池 + 闪充](https://m.ithome.com/html/949509.htm)
+
++ [小米澎湃 OS 悄悄上架多款“初音未来”官方授权免费主题：支持切换人物 / 版式、内置养成小游戏...](https://m.ithome.com/html/949344.htm)
+
++ [今年 4 月 70 万以上超豪华轿车销量曝光：鸿蒙智行尊界 S800 仍居榜首，基本等于第二、三名总和](https://m.ithome.com/html/949482.htm)
+
++ [“全球最强算力”：李想官宣公司自研马赫 M100 芯片，理想 L9 Livis 首发](https://m.ithome.com/html/949393.htm)
+
++ [微软优化 WinUI 3 框架，Win11 系统响应速度获显著提升](https://m.ithome.com/html/949519.htm)
+

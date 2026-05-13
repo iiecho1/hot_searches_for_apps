@@ -133,3 +133,7 @@
 
 + [为什么微信发长视频模糊、有马赛克的根源，压缩画质](https://blog.csdn.net/chen_si_shang_/article/details/160962043)
 
++ [自主编程智能体实战让AI帮你写代码调Bug和跑测试的完整方案](https://blog.csdn.net/2602_94956987/article/details/160958878)
+
++ [Google I/O 2026前瞻：Gemini 4.0、Android XR与AI原生生态的全面突破](https://blog.csdn.net/xyghehehehe/article/details/160987397)
+

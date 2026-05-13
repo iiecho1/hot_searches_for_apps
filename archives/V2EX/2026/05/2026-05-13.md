@@ -21,3 +21,17 @@
 
 + [gap 太久，感觉找工作简历被歧视了](https://www.v2ex.com/t/1212043)
 
++ [mihomo 接入 tailscale](https://www.v2ex.com/t/1212152)
+
++ [失业 3 个月后第一次摆摊，记录一下](https://www.v2ex.com/t/1212110)
+
++ [感觉 AI Coding 比古法编程累多了](https://www.v2ex.com/t/1212128)
+
++ [做了个赛博斗蛐蛐：让 AI 写坦克逻辑，然后看它上战场](https://www.v2ex.com/t/1212167)
+
++ [求 V 友推荐一个稳定、速度快的机场。](https://www.v2ex.com/t/1212069)
+
++ [前端，第一学历大专，年龄 26，只会 go， Python ， nodejs， react， vue 能在大城市混饭吃吗](https://www.v2ex.com/t/1212074)
+
++ [NET 已死](https://www.v2ex.com/t/1212251)
+
