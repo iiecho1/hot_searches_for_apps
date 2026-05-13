@@ -137,3 +137,27 @@
 
 + [Google I/O 2026前瞻：Gemini 4.0、Android XR与AI原生生态的全面突破](https://blog.csdn.net/xyghehehehe/article/details/160987397)
 
++ [Unpivot 列转行：使用场景、等价改写与性能注意事项](https://blog.csdn.net/Mrxiao_bo/article/details/160929171)
+
++ [从ROWNUM到LIMIT:KES、Oracle与PostgreSQL的执行顺序差异解析](https://blog.csdn.net/2401_87629362/article/details/161015627)
+
++ [【HarmonyOS 6.0】模拟点击检测：鸿蒙6.0全面狙击自动化作弊行为](https://blog.csdn.net/weixin_74809706/article/details/160657801)
+
++ [DolphinDB多表关联查询：JOIN优化](https://blog.csdn.net/sinat_41617212/article/details/160995107)
+
++ [【花雕学编程】Arduino BLDC 之惯性导航与动态制动补偿机器人](https://blog.csdn.net/weixin_41659040/article/details/161025183)
+
++ [鸿蒙 PC vs Web：谁才是未来应用形态？](https://blog.csdn.net/qq_36478920/article/details/161025173)
+
++ [2026年AI编程工具终极横评：Claude Code vs Cursor vs Codex，开发者该怎么选？](https://blog.csdn.net/qq_45254369/article/details/161022640)
+
++ [2026装备制造行业数字化转型服务商推荐：主流方案与分规模选型指南](https://blog.csdn.net/2601_95690524/article/details/161043677)
+
++ [2026最新：国内直连调用Grok-4.3与免费Gemini-2.5-flash-lite（无需翻墙/OpenClaw+PyCharm+Python全场景）](https://blog.csdn.net/nmdbbzcl/article/details/160992672)
+
++ [HarmonyOS 6.1 全栈实战录 - 06 状态定力：PersistenceV2 深度进阶与集合类型持久化实战](https://blog.csdn.net/sjw890821sjw/article/details/160994992)
+
++ [9.深度剖析MySQL约束的工程设计：自增主键的分布式局限、外键约束的权衡，与CHECK的版本适配实践](https://blog.csdn.net/2401_87122037/article/details/160955783)
+
++ [鸿蒙 App 的登录 / 订单 / 支付系统拆解](https://blog.csdn.net/qq_36863796/article/details/161025575)
+

@@ -179,3 +179,9 @@
 
 + [停火协议结束 俄乌继续军事行动](https://news.cctv.com/2026/05/13/ARTI0ovkeYWaXLfJK0cErJES260513.shtml)
 
++ [菲律宾马荣火山持续活跃 再次形成火山碎屑流](https://news.cctv.com/2026/05/13/ARTI8MqzPgKw2EkjCfoXVdFH260513.shtml)
+
++ [沙特被曝3月曾对伊朗发动多次“报复性”空袭](https://news.cctv.com/2026/05/13/ARTIjyNMboHrT20k9Pxb0QRe260513.shtml)
+
++ [教科文组织报告：全球高校学生人数20多年来增长超一倍](https://news.cctv.com/2026/05/13/ARTIZvJMj0xruRYYEJMp0exH260513.shtml)
+
