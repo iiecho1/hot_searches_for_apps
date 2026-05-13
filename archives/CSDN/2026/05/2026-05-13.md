@@ -161,3 +161,17 @@
 
 + [鸿蒙 App 的登录 / 订单 / 支付系统拆解](https://blog.csdn.net/qq_36863796/article/details/161025575)
 
++ [异构操作系统架构下的数据库表空间高级管理：路径兼容与自动化运维实战](https://blog.csdn.net/2302_78391795/article/details/160948205)
+
++ [《如何通过prometheus-webhook-dingtalk解决 Alertmanager 原生不支持钉钉 Webhook问题》](https://blog.csdn.net/Dovis5884/article/details/160981908)
+
++ [Re：Linux系统篇（十二）工具篇 · 四：make与Makefile：高效管理 C++ 工程项目构建](https://blog.csdn.net/Z2314246476/article/details/160933390)
+
++ [端边云一体化时序数据管理：数据库选型与技术实现](https://blog.csdn.net/lrq13965748542/article/details/161037178)
+
++ [AI Agent 架构深度解析：从本地“养龙虾到云端蜂群作战](https://blog.csdn.net/qq_27963509/article/details/161035422)
+
++ [5 款开源 BPM 审批系统深度对比：Flowable、Camunda、Activiti、LiteFlow 与 RuoyiOffice 怎么选](https://blog.csdn.net/zhouzhongyan/article/details/161043341)
+
++ [Flutter - Flutter 引入、runApp 与 Widget、MaterialApp、Scaffold、自定义组件、生命周期](https://blog.csdn.net/weixin_52173250/article/details/161026870)
+

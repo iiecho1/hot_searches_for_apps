@@ -185,3 +185,9 @@
 
 + [教科文组织报告：全球高校学生人数20多年来增长超一倍](https://news.cctv.com/2026/05/13/ARTIZvJMj0xruRYYEJMp0exH260513.shtml)
 
++ [外交部：日本重走军国主义的回头路是一条不归路](https://news.cctv.com/2026/05/13/ARTIU5GDlvEo2nV9THOlXfjF260513.shtml)
+
++ [印尼拟推出电动车补贴应对高油价](https://news.cctv.com/2026/05/13/ARTIXjBLQdaoBeFnImGEoK2G260513.shtml)
+
++ [瑙鲁议会批准国名变更宪法修正案](https://news.cctv.com/2026/05/13/ARTIeCwJIr0W36pRHjMSBCsH260513.shtml)
+
