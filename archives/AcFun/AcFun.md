@@ -63,3 +63,5 @@
 
 + [Sistar Shake it](https://m.acfun.cn/v/?ac=48519726)
 
++ [《生化危机》系列稳坐TOP1 ？Steam十大必玩生存恐怖佳作推荐](https://m.acfun.cn/v/?ac=48518338)
+
