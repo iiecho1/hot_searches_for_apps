@@ -175,3 +175,7 @@
 
 + [Flutter - Flutter 引入、runApp 与 Widget、MaterialApp、Scaffold、自定义组件、生命周期](https://blog.csdn.net/weixin_52173250/article/details/161026870)
 
++ [NotebookLM 深度实战：30分钟用AI吃透一本书，自动生成PPT大纲与思维导图](https://blog.csdn.net/Chase_______/article/details/161024702)
+
++ [【数据库】时序数据库选型指南：从数据模型到大模型智能分析](https://blog.csdn.net/qq_38628970/article/details/161041976)
+

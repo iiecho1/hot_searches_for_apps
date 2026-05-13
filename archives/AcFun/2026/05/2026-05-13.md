@@ -99,3 +99,19 @@
 
 + [网络上常见的热门短视频集锦   第三千一百八十一期](https://m.acfun.cn/v/?ac=48517747)
 
++ [今天来点抽象的！嘻嘻！「雪一」](https://m.acfun.cn/v/?ac=48518795)
+
++ [一代人有一代人的金蝶豹【今天有什么好笑的 #2385】](https://m.acfun.cn/v/?ac=48518501)
+
++ [【燕返】仲好过死 batter than dead（完结）](https://m.acfun.cn/v/?ac=48516622)
+
++ [那时候的爱情](https://m.acfun.cn/v/?ac=48519061)
+
++ [EXID Hot Pink 跳舞机](https://m.acfun.cn/v/?ac=48516893)
+
++ [又到了跳泫雅的季节！](https://m.acfun.cn/v/?ac=48516808)
+
++ [Sistar Shake it](https://m.acfun.cn/v/?ac=48516951)
+
++ [【勇者凯撒】就算TVB没引进也可以有粤语版主题曲！](https://m.acfun.cn/v/?ac=48507092)
+
