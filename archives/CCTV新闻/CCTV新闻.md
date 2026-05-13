@@ -161,3 +161,7 @@
 
 + [美国一客机起飞过程中撞上行人 已致1死12伤](https://news.cctv.com/2026/05/10/ARTI33k55aQZxFSk53Q7gB37260510.shtml)
 
++ [以色列总理证实对伊朗军事行动期间秘访阿联酋](https://news.cctv.com/2026/05/14/ARTI08BZVU1RxTzHth8GOIjQ260514.shtml)
+
++ [菲军方称向参议院派兵负责安保执勤 开枪事件仍在调查](https://news.cctv.com/2026/05/14/ARTIO67a3udUDhZRMbLjps6s260514.shtml)
+

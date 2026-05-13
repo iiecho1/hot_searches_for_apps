@@ -125,3 +125,5 @@
 
 + [用AI编程从零搭建一个响应式数据看板](https://blog.csdn.net/N199109/article/details/161026111)
 
++ [PyTorch强化学习实战（7）——表格学习与贝尔曼方程](https://blog.csdn.net/LOVEmy134611/article/details/157654417)
+
