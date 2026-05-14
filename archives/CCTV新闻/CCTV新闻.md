@@ -171,3 +171,5 @@
 
 + [世卫组织：将持续协调汉坦病毒国际应对工作](https://news.cctv.com/2026/05/14/ARTITEptkvsm26vOPptvcz2i260514.shtml)
 
++ [乍得东部一燃料库发生火灾 致200多人受伤](https://news.cctv.com/2026/05/14/ARTIFy2z9wxPkfAbk0e6rPx7260514.shtml)
+

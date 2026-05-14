@@ -127,3 +127,9 @@
 
 + [PyTorch强化学习实战（7）——表格学习与贝尔曼方程](https://blog.csdn.net/LOVEmy134611/article/details/157654417)
 
++ [第二十一届全国大学生智能汽车竞赛－创意赛 智慧城市Robotaxi挑战赛规则V1.0](https://blog.csdn.net/zhuoqingjoking97298/article/details/161052561)
+
++ [摸鱼技术指南：Linux 服务器上部署 Ratel 斗地主实录](https://blog.csdn.net/LT15171009269/article/details/161059521)
+
++ [Google I/O 2026前瞻：Gemini 4.0、Android XR与AI原生生态的全面突破](https://blog.csdn.net/xyghehehehe/article/details/160987397)
+

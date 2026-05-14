@@ -49,3 +49,7 @@
 
 + [华为鸿蒙 HarmonyOS 上架多款“初音未来”授权主题：定价 6 元、主题会员免费](https://m.ithome.com/html/949371.htm)
 
++ [英伟达 CEO 黄仁勋称五年前的 GPU 就像“老酒”：越陈越香，还会涨价](https://m.ithome.com/html/950065.htm)
+
++ [1099 → 358 元：小米 G100 智能门锁 618 破冰新低，AI 指纹识别 + 九种开锁方式](https://m.ithome.com/html/949991.htm)
+
