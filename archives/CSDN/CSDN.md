@@ -187,3 +187,13 @@
 
 + [企业官网 SSL/TLS 部署工程化：从 Let‘s Encrypt 自动续期到 HSTS + 全站 HTTPS 迁移](https://blog.csdn.net/weixin_39337368/article/details/161059956)
 
++ [C# 工业视觉上位机开发心得分享](https://blog.csdn.net/m0_63908187/article/details/160983563)
+
++ [Flutter / React / ArkUI：在鸿蒙 PC 上怎么选？](https://blog.csdn.net/qq_36478920/article/details/161082198)
+
++ [2026 年最具性价比 AI API 中转站实测：GPT-5.5/Claude Opus/DeepSeek 全接入，价格低至官方 1/13](https://blog.csdn.net/weixin_41635707/article/details/161059873)
+
++ [Claude Code 插件市场开发及注意事项](https://blog.csdn.net/yexudengzhidao/article/details/161052901)
+
++ [【Linux】学习小计](https://blog.csdn.net/t5y22/article/details/160315589)
+
