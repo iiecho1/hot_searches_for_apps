@@ -129,3 +129,5 @@
 
 + [基于 Vue + TS + Ant Design Vue 实现精细化菜单按钮权限授权组件](https://blog.csdn.net/aDMgx6ufk/article/details/161044144)
 
++ [硬盘里塞了几百本电子书，找一本要翻半天？Calibre-Web 把它们变成真正的私人图书馆](https://blog.csdn.net/leopold_man/article/details/161081285)
+
