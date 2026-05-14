@@ -161,3 +161,15 @@
 
 + [涉汉坦病毒邮轮随船医生感染 乘客指医疗资源与筛查不足](https://news.cctv.com/2026/05/10/ARTInh7D5l08S2nZQr4by1IJ260510.shtml)
 
++ [墨西哥毒枭“矮子”落网10余年：权力真空引血腥混战](https://news.cctv.com/2026/05/15/ARTIiqf4XcHVwhvYzM7sYK9J260515.shtml)
+
++ [“2026·中国－中亚人权发展论坛”在乌兹别克斯坦举行](https://news.cctv.com/2026/05/15/ARTIazMok868voWdz6Mjcqhe260515.shtml)
+
++ [青宁管道与江苏沿海管道联通项目正式进气投产](https://news.cctv.com/2026/05/15/ARTI50yPaaUIW1y3ApDhKIQ9260515.shtml)
+
++ [海合会成员国内政部长举行紧急会议 讨论地区安全局势](https://news.cctv.com/2026/05/15/ARTIiHOugqre3o8AOO6N3Ouu260515.shtml)
+
++ [乌克兰首都基辅遭空袭 死亡人数增至12人](https://news.cctv.com/2026/05/15/ARTIkPA3P4bbhIwMhmXbNDUs260515.shtml)
+
++ [法国南特市发生枪击事件 致1人死亡](https://news.cctv.com/2026/05/15/ARTIdEAT818sURkrbxgYZPtP260515.shtml)
+
