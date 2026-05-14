@@ -133,3 +133,21 @@
 
 + [Google I/O 2026前瞻：Gemini 4.0、Android XR与AI原生生态的全面突破](https://blog.csdn.net/xyghehehehe/article/details/160987397)
 
++ [PyTorch强化学习实战（8）——Q学习详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/157727275)
+
++ [厂区周边 3km POI 业态分布全景解析-以生产企业为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/161026603)
+
++ [UE5 进阶篇第一弹：中期架构升级 —— 组件化开发与 Gameplay 框架实战](https://blog.csdn.net/mogreat/article/details/161059542)
+
++ [海外发票智能解析：跨版式、多税制票据的自动化处理方案（附GitHub项目地址）](https://blog.csdn.net/INTSIG/article/details/161056408)
+
++ [HTML is the new Markdown：来自 Claude Code 团队的实践](https://blog.csdn.net/2501_92842654/article/details/160988687)
+
++ [【Kubernetes】手把手教你：在 Minikube 上搭建 NGINX Ingress 控制器，实现外部访问 Kubernetes 服务](https://blog.csdn.net/qq_21383435/article/details/151706068)
+
++ [【Java网络编程核心-0】从OSI七层到TCP/IP模型深度解析（HTTP协议、TCP、UDP 、 IP协议)](https://blog.csdn.net/m0_58718491/article/details/159859577)
+
++ [鸿蒙 App 多端 UI 不一致的原因](https://blog.csdn.net/qq_36863796/article/details/161058874)
+
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与Face AR & Body AR的“灵犀康养“——PC端沉浸式AR智能康复训练系统](https://blog.csdn.net/u014727709/article/details/161020889)
+

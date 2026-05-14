@@ -173,3 +173,7 @@
 
 + [乍得东部一燃料库发生火灾 致200多人受伤](https://news.cctv.com/2026/05/14/ARTIFy2z9wxPkfAbk0e6rPx7260514.shtml)
 
++ [纳米比亚与欧盟加强可再生能源合作](https://news.cctv.com/2026/05/14/ARTIJ7cy4ZGsdfkh0YktHjgA260514.shtml)
+
++ [欧洲疾控中心：暂无证据显示涉疫邮轮汉坦病毒出现变异](https://news.cctv.com/2026/05/14/ARTIuIO3g61MjUI8y7ihe5wg260514.shtml)
+
