@@ -101,3 +101,31 @@
 
 + [【Linux】学习小计](https://blog.csdn.net/t5y22/article/details/160315589)
 
++ [从零实现一个 C++ 轻量级日志系统：原理与实践](https://blog.csdn.net/yhrxh_ymq/article/details/160889503)
+
++ [Re：Linux系统篇（十二）工具篇 · 四：make与Makefile：高效管理 C++ 工程项目构建](https://blog.csdn.net/Z2314246476/article/details/160933390)
+
++ [OpenClaw 上下文管理：Token 优化策略](https://blog.csdn.net/sinat_41617212/article/details/161060266)
+
++ [Guava：Google开源的Java工具库，太强大了](https://blog.csdn.net/lilinhai548/article/details/161091933)
+
++ [【Redis 硬核系列·第二篇】持久化机制深度解析：RDB 快照的 COW 原理、AOF 三种刷盘策略、混合持久化与 Redis 8 新复制机制（含生产配置）](https://blog.csdn.net/qq_73472828/article/details/161011353)
+
++ [HarmonyOS 6.1 全栈实战录 - 07 极速连接：Remote Communication Kit (RCP) 实战与认证挑战深度解析](https://blog.csdn.net/sjw890821sjw/article/details/161027522)
+
++ [NotebookLM 深度实战：30分钟用AI吃透一本书，自动生成PPT大纲与思维导图](https://blog.csdn.net/Chase_______/article/details/161024702)
+
++ [时序数据库技术内幕：从大数据存储模型看工业级时序数据库的设计与落地](https://blog.csdn.net/beautifulmemory/article/details/161077178)
+
++ [深度解析 Unpivot 底层逻辑、性能问题与最佳实践](https://blog.csdn.net/2301_80350265/article/details/160902700)
+
++ [2026 年最具性价比 AI API 中转站实测：GPT-5.5/Claude Opus/DeepSeek 全接入，价格低至官方 1/13](https://blog.csdn.net/weixin_41635707/article/details/161059873)
+
++ [UV + 湿气双固化三防漆技术研究与工程应用：科耀 K-5065 性能评测（2026 版）](https://blog.csdn.net/dakel_0802/article/details/161050372)
+
++ [机器人高精度轨迹定位设备选型指南：赋能前沿科研创新](https://blog.csdn.net/qq_40406819/article/details/161051953)
+
++ [利用Codex制作论文答辩 PPT](https://blog.csdn.net/Mylvzi/article/details/161059911)
+
++ [基于 Vue + TS + Ant Design Vue 实现精细化菜单按钮权限授权组件](https://blog.csdn.net/aDMgx6ufk/article/details/161044144)
+

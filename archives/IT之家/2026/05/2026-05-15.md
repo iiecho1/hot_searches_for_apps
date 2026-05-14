@@ -25,3 +25,27 @@
 
 + [鸿蒙版荣耀商城 App 上架华为应用市场，荣耀已有 4 款应用上架](https://m.ithome.com/html/949714.htm)
 
++ [以实际行动支持国产系统发展：腾讯蔡光忠透露微信成立了 800 人团队适配鸿蒙，约占开发人员一半](https://m.ithome.com/html/950112.htm)
+
++ [并非独立品牌？小米寻天 N90 新车尾标曝光，车头处还可见 Xiaomi 品牌 LOGO 轮廓](https://m.ithome.com/html/950084.htm)
+
++ [史上首家！英伟达市值破 5.5 万亿美元，超世界第三大经济体德国 GDP](https://m.ithome.com/html/950303.htm)
+
++ [“三条腿”的车也能稳开：鸿蒙智行全新一代问界 M9 全主动底盘黑科技曝光，单轮抬升应对特殊场景](https://m.ithome.com/html/950249.htm)
+
++ [iPhone 17 Pro Max 换新低至 7999 元：苹果 618 零点开启，17 系列至高直降千元](https://m.ithome.com/html/950631.htm)
+
++ [消息称华为 HarmonyOS NEXT 最高峰投入约 4 万人，比安卓 / iOS / Windows 任何一个大版本都要多](https://m.ithome.com/html/950393.htm)
+
++ [《GTA 6》游戏正式解锁时间公布，新西兰最早玩到](https://m.ithome.com/html/950267.htm)
+
++ [全新 Xiaomi 17 Max 手机官宣搭载小米首款徕卡 2 亿像素主摄、8000mAh 金沙江电池，本月见](https://m.ithome.com/html/950105.htm)
+
++ [小米 YU7 GT「车厘子红」高清实车图曝光，新车 5 月底正式发布](https://m.ithome.com/html/950424.htm)
+
++ [苹果 iPhone 18 Pro / Max 再爆：主打“深樱桃色”，后摄布局不变](https://m.ithome.com/html/950353.htm)
+
++ [张雪机车：部分 820RR 机油泵供油不畅，新模具预计本月下旬完成、免费更换](https://m.ithome.com/html/950078.htm)
+
++ [华为 Pura 90 Pro 系列首周 7 日销量曝光：超 20 万台，同比增 70%](https://m.ithome.com/html/950475.htm)
+
