@@ -151,3 +151,27 @@
 
 + [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与Face AR & Body AR的“灵犀康养“——PC端沉浸式AR智能康复训练系统](https://blog.csdn.net/u014727709/article/details/161020889)
 
++ [【HarmonyOS 6.0】状态栏扩展新特性：点击状态栏图标展开二级菜单的场景动效详解](https://blog.csdn.net/weixin_74809706/article/details/160657642)
+
++ [【花雕动手做】linkboy.AI—— 所见即所得 AI 智能硬件编程仿真平台](https://blog.csdn.net/weixin_41659040/article/details/161066977)
+
++ [为什么总感觉AI傻傻的，AI Agent进化：从问答助手到自主执行的一些问题](https://blog.csdn.net/chen_si_shang_/article/details/161059270)
+
++ [qt内详解信号和槽的基本概念+实例演示](https://blog.csdn.net/oooooooooooohd/article/details/161059105)
+
++ [大数据分析实战：基于 Spark 的新能源汽车全链路数据分析指南](https://blog.csdn.net/2401_89845953/article/details/161019371)
+
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与Face AR & Body AR的“灵犀筑境“——PC端沉浸式AR建筑空间评审系统](https://blog.csdn.net/u014727709/article/details/161053225)
+
++ [【VR应用】部署企业级 VR 应用，主流方案有哪些及每个方案的优点和缺点](https://blog.csdn.net/weixin_44299027/article/details/161068116)
+
++ [Python爬虫实战⑱｜Pandas分组聚合，一键生成统计报表](https://blog.csdn.net/chreehero/article/details/160580204)
+
++ [容器环境漏洞扫描：适配 K8s 架构的镜像与 Pod 安全检测方案](https://blog.csdn.net/2301_78078966/article/details/161051696)
+
++ [2026年AR交互新趋势：多模态意图识别](https://blog.csdn.net/m0_75253087/article/details/161001506)
+
++ [爬山算法与梯度下降](https://blog.csdn.net/Maxwell_Newton/article/details/161027531)
+
++ [为什么我的服务延迟忽高忽低？从TCP角度深度排查](https://blog.csdn.net/tudoSearcher/article/details/161023033)
+

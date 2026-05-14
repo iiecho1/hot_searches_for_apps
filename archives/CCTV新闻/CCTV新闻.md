@@ -177,3 +177,9 @@
 
 + [欧洲疾控中心：暂无证据显示涉疫邮轮汉坦病毒出现变异](https://news.cctv.com/2026/05/14/ARTIuIO3g61MjUI8y7ihe5wg260514.shtml)
 
++ [世卫组织：全球卫生进展失衡 急需采取行动](https://news.cctv.com/2026/05/14/ARTIpfWyNL3eojl7J9O23eMR260514.shtml)
+
++ [菲律宾参议院枪击事件嫌疑人被捕 总统召集紧急会议](https://news.cctv.com/2026/05/14/ARTI2FNITgtaAlZJoAh1y338260514.shtml)
+
++ [联合国儿基会：黎以“停火”以来已有上百名黎儿童伤亡](https://news.cctv.com/2026/05/14/ARTIwX4kDSbuAkipNimfVPKn260514.shtml)
+
