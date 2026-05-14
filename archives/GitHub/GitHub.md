@@ -39,3 +39,15 @@
 
 + [github/spec-kit](https://github.com/github/spec-kit)
 
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [roboflow/supervision](https://github.com/roboflow/supervision)
+
++ [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+
++ [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization)
+
++ [garrytan/gstack](https://github.com/garrytan/gstack)
+

@@ -175,3 +175,15 @@
 
 + [为什么我的服务延迟忽高忽低？从TCP角度深度排查](https://blog.csdn.net/tudoSearcher/article/details/161023033)
 
++ [基于 JiuwenSwarm AgentTeam 集群模式的年会策划实战：从源码部署到多智能体协作落地](https://blog.csdn.net/sinat_41617212/article/details/160994887)
+
++ [2026十大LLM研究突破：扩散语言模型挑战自回归、Unicode隐形注入、AI操纵性评估 — 大模型从狂飙走向可控](https://blog.csdn.net/qq_56999332/article/details/161073516)
+
++ [SpringBoot如何使用Dubbo（直连模式）](https://blog.csdn.net/baidu_32523857/article/details/160770684)
+
++ [应用层协议HTTP](https://blog.csdn.net/2502_90291736/article/details/161026444)
+
++ [车载以太网之要火系列 - 第42篇：郭大侠学SOME/IP - Field：读写通知三件套，属性一定照单要](https://blog.csdn.net/wang2471996/article/details/161059216)
+
++ [企业官网 SSL/TLS 部署工程化：从 Let‘s Encrypt 自动续期到 HSTS + 全站 HTTPS 迁移](https://blog.csdn.net/weixin_39337368/article/details/161059956)
+
