@@ -189,3 +189,13 @@
 
 + [Flutter for OpenHarmony学术论文管理APP技术文章](https://blog.csdn.net/KKei1638/article/details/161090506)
 
++ [用 Dify 与 EdgeOne 打造真正可上线的智能财经分析系统](https://blog.csdn.net/2301_76341691/article/details/161112819)
+
++ [HTTPS 安全内核：对称与非对称加密的博弈，数字证书一战定局](https://blog.csdn.net/2301_77311065/article/details/160860496)
+
++ [UE5 TA 核心修炼：材质与纹理艺术全解 —— 从 PBR 理论到工业级材质实战](https://blog.csdn.net/mogreat/article/details/161098611)
+
++ [鸿蒙 App 的登录 / 订单 / 支付系统拆解](https://blog.csdn.net/qq_36863796/article/details/161025575)
+
++ [含加性高斯白噪声（AWGN）信道的 BPSK 数据传输系统 MATLAB 仿真，及其误码率 - 信噪比（BER-SNR）性能基准测试研究（Matlab代码实现）](https://blog.csdn.net/Ke_Yan_She/article/details/161092849)
+

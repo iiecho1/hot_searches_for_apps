@@ -187,3 +187,9 @@
 
 + [美国已拒绝伊朗就结束战争提出的书面方案](https://news.cctv.com/2026/05/15/ARTI8i3xstheJdb1OdcqFJzt260515.shtml)
 
++ [“美中合作将带来实实在在的共赢成果”](https://news.cctv.com/2026/05/15/ARTI5LDUT7MkIpOrwJV4bzWs260515.shtml)
+
++ [美中加强对话合作将更好共同应对全球性挑战](https://news.cctv.com/2026/05/15/ARTICAw0OxKkVoQD24uIoDMY260515.shtml)
+
++ [多国人士表示中美元首会谈为两国关系提供战略指引 为全球注入稳定性](https://news.cctv.com/2026/05/15/ARTIswwuZIBGJtuF7nMl6z7h260515.shtml)
+

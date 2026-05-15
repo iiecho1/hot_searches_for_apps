@@ -45,3 +45,5 @@
 
 + [现在 j1900 还值得入手吗](https://www.v2ex.com/t/1212873)
 
++ [GPT 试用时代结束了， Codex 中转站 送 2000w Token](https://www.v2ex.com/t/1212987)
+
