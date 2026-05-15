@@ -161,3 +161,11 @@
 
 + [俄乌互指对方违反停火安排 均称采取对等回应](https://news.cctv.com/2026/05/11/ARTIdL0etyOgeuLMB3UwWAsP260511.shtml)
 
++ [第一轮投票无人胜出 秘鲁总统选举将举行第二轮投票](https://news.cctv.com/2026/05/16/ARTIhwXCs1KNfHw3hnA6a0TC260516.shtml)
+
++ [巴勒斯坦“灾难日”当天 以空袭加沙称炸死哈马斯军事领导人](https://news.cctv.com/2026/05/16/ARTIOv3cLeyACkM0gFO6510i260516.shtml)
+
++ [也门哈达拉毛省发生交通事故 造成约30人死伤](https://news.cctv.com/2026/05/16/ARTI9HfRZFKNCw0foVySrspM260516.shtml)
+
++ [刚果（金）新一轮埃博拉疫情死亡人数升至80人](https://news.cctv.com/2026/05/16/ARTIJxT1yRGSaKyA3yskAvD9260516.shtml)
+
