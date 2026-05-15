@@ -101,3 +101,25 @@
 
 + [我唯一的一个变现产品，说说它的逻辑](https://blog.csdn.net/m0_57874805/article/details/161090682)
 
++ [Dify + EdgeOne：AI应用从Demo到上线的最后一公里](https://blog.csdn.net/2301_76341691/article/details/161112819)
+
++ [本地服务器部署vllm+Qwen3-Coder-Next的模型](https://blog.csdn.net/wenshuang1234/article/details/158975655)
+
++ [用于脑电信号（EEG）分类的 SVM 分类器 Matlab 实现](https://blog.csdn.net/wearegogog123/article/details/161049287)
+
++ [2026年长三角高校数学建模竞赛赛题浅析-助攻快速选题](https://blog.csdn.net/qq_33690821/article/details/161070239)
+
++ [VSCode接入小米mimo大模型](https://blog.csdn.net/weixin_44067347/article/details/161071964)
+
++ [Linux 音频子系统完整梳理：ALSA、ASoC、DAPM、Codec、Machine、es8389 与 rk‑multicodecs 全解析](https://blog.csdn.net/qq_30883899/article/details/161060262)
+
++ [Java 实习日记：一次 Excel 导入校验 Bug 的定位与数据更新逻辑优化](https://blog.csdn.net/2301_81664137/article/details/161087946)
+
++ [YOLOv8无人机识别检测系统（项目源码+YOLO数据集+模型权重+UI界面+python+深度学习+环境配置）](https://blog.csdn.net/m0_68036862/article/details/161104250)
+
++ [CAN302 Technologies for E-Commerce 电子商务技术 Pt.8 网络安全（Secure the Web）](https://blog.csdn.net/sensen_kiss/article/details/161061488)
+
++ [深度解析:CDN网络安全架构与实践](https://blog.csdn.net/wochenglong/article/details/161088214)
+
++ [密码多了记不住，放云端又怕泄露？我用 NAS 自建了密码保险箱](https://blog.csdn.net/2301_76297596/article/details/161115558)
+
