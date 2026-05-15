@@ -123,3 +123,9 @@
 
 + [密码多了记不住，放云端又怕泄露？我用 NAS 自建了密码保险箱](https://blog.csdn.net/2301_76297596/article/details/161115558)
 
++ [HarmonyOS 6（API 23）实战：基于Face AR呼吸监测与Body AR姿态引导的“静界空间“——PC端沉浸式冥想疗愈系统](https://blog.csdn.net/u014727709/article/details/161120999)
+
++ [Qt 高级开发 004： 三大窗口类深度解析](https://blog.csdn.net/2503_92624912/article/details/161059936)
+
++ [ollama v0.24.0 更新：Codex App 正式接入、内置浏览器、评审模式与 MLX 采样器重构，带来哪些变化？](https://blog.csdn.net/weixin_48502062/article/details/161118519)
+

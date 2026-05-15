@@ -25,3 +25,27 @@
 
 + [华为 Pura 90 Pro 系列首周 7 日销量曝光：超 20 万台，同比增 70%](https://m.ithome.com/html/950475.htm)
 
++ [罗永浩回呛保时捷高管“被抄袭无奈”：论流氓谁能跟保时捷比](https://m.ithome.com/html/950684.htm)
+
++ [7999 元起：苹果 iPhone 17 Pro 系列京东、天猫降价 1000 元](https://m.ithome.com/html/950685.htm)
+
++ [安卓版 CallKit：飞书携手 OPPO、vivo、小米、荣耀，完成行业首个 VoIP Service Kit 全量接入](https://m.ithome.com/html/950825.htm)
+
++ [华为 896 线激光雷达太贵！余承东曾想挑战用摄像头实现小物体识别避障功能，但因后者能力有限放弃](https://m.ithome.com/html/951021.htm)
+
++ [中央广播电视总台与国际足联达成新周期版权合作，消息称 2026 年美加墨世界杯版权费为 6000 万美元](https://m.ithome.com/html/951081.htm)
+
++ [关闭支付功能后莫名被扣 184 万元？支付宝最新回应：正寻求警方帮助，不排除涉嫌违法犯罪的可能](https://m.ithome.com/html/950711.htm)
+
++ [《恋与深空》男主温泉半裸剧情引争议，叠纸游戏官方致歉并着手处理](https://m.ithome.com/html/950675.htm)
+
++ [50.98 万元，全新一代理想 L9 Livis 车型上市](https://m.ithome.com/html/950999.htm)
+
++ [IT之家，十五岁～](https://m.ithome.com/html/950954.htm)
+
++ [微信第一行代码被腾讯捐赠给 CCF 计算机博物馆](https://m.ithome.com/html/951000.htm)
+
++ [消息称苹果 iPhone 18 全系采用自研 5G 基带，附独有“限制精确位置”功能](https://m.ithome.com/html/950700.htm)
+
++ [CNET 统计 33 款手机低电量充电 30 分钟表现：苹果 iPhone 17 Pro 综合第一](https://m.ithome.com/html/950661.htm)
+
