@@ -199,3 +199,9 @@
 
 + [含加性高斯白噪声（AWGN）信道的 BPSK 数据传输系统 MATLAB 仿真，及其误码率 - 信噪比（BER-SNR）性能基准测试研究（Matlab代码实现）](https://blog.csdn.net/Ke_Yan_She/article/details/161092849)
 
++ [【HID】规范精讲[14]: 蓝牙HID流量规格配置实战——鼠标、键盘与手柄的QoS优化指南](https://blog.csdn.net/weixin_37800531/article/details/160935457)
+
++ [人工智能日报 每日AI新闻（2026年5月13日）](https://blog.csdn.net/qq_37699336/article/details/161033910)
+
++ [Kubernetes(k8s) 详细笔记](https://blog.csdn.net/2302_80067378/article/details/161040732)
+

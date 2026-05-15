@@ -47,3 +47,5 @@
 
 + [GPT 试用时代结束了， Codex 中转站 送 2000w Token](https://www.v2ex.com/t/1212987)
 
++ [现在程序员就业市场被 ai 冲击的怎么样了](https://www.v2ex.com/t/1212976)
+
