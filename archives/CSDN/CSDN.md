@@ -173,3 +173,19 @@
 
 + [深度解析:CDN网络安全架构与实践](https://blog.csdn.net/wochenglong/article/details/161088214)
 
++ [Linux信号机制：从键盘到内核、进阶实战硬核剖析](https://blog.csdn.net/2401_86123468/article/details/161015269)
+
++ [【FastAPI】 源码详解（二）：路由系统、中间件洋葱与 Pydantic 验证引擎](https://blog.csdn.net/qq_73472828/article/details/161034605)
+
++ [Codex 桌面版接入 DeepSeek V4：本地桥接版配置指南](https://blog.csdn.net/weixin_48093827/article/details/161076105)
+
++ [【Qt】系统相关（九）TCP回显服务器的实现，QTcpServer和QTcpSocket的讲解](https://blog.csdn.net/2301_80751958/article/details/161075663)
+
++ [Java 实习日记：一次 Excel 导入校验 Bug 的定位与数据更新逻辑优化](https://blog.csdn.net/2301_81664137/article/details/161087946)
+
++ [深度学习实战-基于MobileNetV2的肺癌图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159944236)
+
++ [PyCharm 中接入 Cursor AI：通过 ACP 实现无缝协作](https://blog.csdn.net/Wildpiglolo/article/details/161091894)
+
++ [Flutter for OpenHarmony学术论文管理APP技术文章](https://blog.csdn.net/KKei1638/article/details/161090506)
+

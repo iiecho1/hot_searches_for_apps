@@ -31,3 +31,11 @@
 
 + [garrytan/gstack](https://github.com/garrytan/gstack)
 
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
++ [oven-sh/bun](https://github.com/oven-sh/bun)
+
++ [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)
+
