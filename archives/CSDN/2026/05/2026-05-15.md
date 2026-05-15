@@ -161,3 +161,15 @@
 
 + [我花三天实测了DeepSeek V4，发现它根本不是来跟GPT-4o打架的](https://blog.csdn.net/u012263509/article/details/161020950)
 
++ [用于脑电信号（EEG）分类的 SVM 分类器 Matlab 实现](https://blog.csdn.net/wearegogog123/article/details/161049287)
+
++ [HarmonyOS 6.1 全栈实战录 - 08 视讯巅峰：Media Kit 视频缩略图批量提取与 HDR 渲染链路实战](https://blog.csdn.net/sjw890821sjw/article/details/161033187)
+
++ [Claude Code 学习指南：优秀 GitHub 仓库推荐与进阶路线图](https://blog.csdn.net/weixin_43935696/article/details/161068927)
+
++ [基于正倒排索引的文档搜索引擎测试报告](https://blog.csdn.net/a1302993809/article/details/161023551)
+
++ [Vue.js 插槽、作用域插槽、商品、阶段案例](https://blog.csdn.net/xuankuxiaoyao/article/details/161035114)
+
++ [深度解析:CDN网络安全架构与实践](https://blog.csdn.net/wochenglong/article/details/161088214)
+

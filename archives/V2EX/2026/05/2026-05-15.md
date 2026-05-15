@@ -39,3 +39,7 @@
 
 + [A\这是疯了？](https://www.v2ex.com/t/1212911)
 
++ [iPhone 17 系列最高直降 1000 元](https://www.v2ex.com/t/1212840)
+
++ [为什么大家对瓢虫的容忍度比对表妹要高得多](https://www.v2ex.com/t/1212914)
+
