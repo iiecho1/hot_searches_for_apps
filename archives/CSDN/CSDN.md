@@ -149,3 +149,15 @@
 
 + [spring boot——前后端分离](https://blog.csdn.net/lalalalom/article/details/161058299)
 
++ [在 Elasticsearch 中使用利润率与流行度加权来优化电商搜索](https://blog.csdn.net/UbuntuTouch/article/details/161066393)
+
++ [Vue 项目实战与性能优化全攻略：从代码、渲染到首屏，一站式解决卡顿慢加载](https://blog.csdn.net/qq_40303030/article/details/160054094)
+
++ [一个电商鸿蒙 App 的架构设计实战](https://blog.csdn.net/qq_36863796/article/details/161081677)
+
++ [HarmonyOS 6（API 23）实战：基于Face AR数字人驱动与Body AR手势控制的“星播工坊“——PC端沉浸式虚拟直播系统](https://blog.csdn.net/u014727709/article/details/161087854)
+
++ [VSCode接入小米mimo大模型](https://blog.csdn.net/weixin_44067347/article/details/161071964)
+
++ [我花三天实测了DeepSeek V4，发现它根本不是来跟GPT-4o打架的](https://blog.csdn.net/u012263509/article/details/161020950)
+
