@@ -169,3 +169,13 @@
 
 + [计算机内的数据存储方式](https://blog.csdn.net/youren_7715/article/details/161120828)
 
++ [【Web安全】-BurpSutie实战讲解（2）：BP代理模块，BP重放模块，BP爆破模块，BP爬虫功能，BP解码模块，BP对比模块](https://blog.csdn.net/2401_83075246/article/details/161113860)
+
++ [ComfyUI 整合包 V8 中文版｜2026 最新版 开箱即用｜零门槛 AI 绘画 / AI 视频｜新手到进阶全流程教程](https://blog.csdn.net/qq_30501863/article/details/161055759)
+
++ [SpaceXAI Grok Build登场：马斯克的AI编程野心与桌面级Agent工作流](https://blog.csdn.net/xyghehehehe/article/details/161058452)
+
++ [26icpc深圳邀请赛](https://blog.csdn.net/niyuhai/article/details/161060395)
+
++ [2026年最新： 禁止Win11自动更新的 6 个靠谱方法](https://blog.csdn.net/2501_92543552/article/details/161059344)
+

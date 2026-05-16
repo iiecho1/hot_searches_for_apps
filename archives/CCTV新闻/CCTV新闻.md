@@ -199,3 +199,11 @@
 
 + [日本宫城县一核电站汽轮机厂房附近排水井检出放射性物质](https://news.cctv.com/2026/05/16/ARTI6a1cZ8FEr5iYaB130vrM260516.shtml)
 
++ [欧洲国债收益率高企 通胀攀升或推动央行加息](https://news.cctv.com/2026/05/16/ARTIUetpWmLeCYMFrWKZw3wh260516.shtml)
+
++ [深陷执政危机 英首相拟巨资打“国防牌”](https://news.cctv.com/2026/05/16/ARTI8YC5IPPQkUSdJFn7paQu260516.shtml)
+
++ [泰国曼谷一列火车与公交车相撞 已致多人死亡](https://news.cctv.com/2026/05/16/ARTIlLOggv1AWNwA46UJ7cKB260516.shtml)
+
++ [哈马斯官员证实其军事领导人哈达德已身亡](https://news.cctv.com/2026/05/16/ARTIPviQaXOmyT59JPUzlSr8260516.shtml)
+

@@ -25,3 +25,9 @@
 
 + [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)
 
++ [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+
++ [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+
++ [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+
