@@ -153,3 +153,11 @@
 
 + [【英飞凌 PSoC™ 6 系列 · 第一篇】双核异构 MCU 硬件架构解析](https://blog.csdn.net/2501_93065236/article/details/161120493)
 
++ [AI Native 鸿蒙 App 的四层架构](https://blog.csdn.net/qq_36863796/article/details/161119444)
+
++ [用户模块架构实战：DTO 与 Domain 分层、Optional 空值处理、事务只读优化详解](https://blog.csdn.net/2504_94294476/article/details/161123459)
+
++ [Redis 哨兵](https://blog.csdn.net/2301_76161469/article/details/160960301)
+
++ [豆包导出pdf方法](https://blog.csdn.net/wujian8311/article/details/157468784)
+

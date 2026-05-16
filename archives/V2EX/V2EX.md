@@ -39,3 +39,13 @@
 
 + [各位中登过生日都怎么庆祝](https://www.v2ex.com/t/1213008)
 
++ [我的 OpenAI 账号被封了](https://www.v2ex.com/t/1213099)
+
++ [关于同理心，贵站最火的生活帖](https://www.v2ex.com/t/1213121)
+
++ [人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code](https://www.v2ex.com/t/1213129)
+
++ [抖音上卖的 MacBook Pro 16 寸 i7-16g-512g 能买吗？](https://www.v2ex.com/t/1213002)
+
++ [codex 执行是真的慢啊,大家也是这样的吗](https://www.v2ex.com/t/1213046)
+

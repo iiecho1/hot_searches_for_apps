@@ -189,3 +189,7 @@
 
 + [委内瑞拉一处天然气平台发生爆炸 6人受伤](https://news.cctv.com/2026/05/16/ARTItzoMJBdokgQ8zkcPAv8F260516.shtml)
 
++ [叙利亚过渡政府任命央行新行长](https://news.cctv.com/2026/05/16/ARTIACwgk66s73wpR3UzUVqJ260516.shtml)
+
++ [瑞士将公开奥斯威辛“死亡天使”门格勒的秘密档案](https://news.cctv.com/2026/05/16/ARTIsgxVqYhsScM0HibLg8PI260516.shtml)
+
