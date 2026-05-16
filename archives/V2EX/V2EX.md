@@ -67,3 +67,7 @@
 
 + [N 年 1password 老用户，又续费了](https://www.v2ex.com/t/1213142)
 
++ [开中转站好难赚钱啊！不想搞了😂，这个月免费给大家用吧，下个月计划关站了](https://www.v2ex.com/t/1213211)
+
++ [ai coding 后已经慢慢丧失了对程序员这份职业的热爱了](https://www.v2ex.com/t/1213164)
+

@@ -189,3 +189,13 @@
 
 + [02（上）| K8s 资源管理全流程：命令、配置、生产避坑](https://blog.csdn.net/sbjdhjd/article/details/161120796)
 
++ [【QT-百日筑基篇】打完完怪，开始学炼丹， 前往藏书阁寻找对应材料的信息，并前往去寻找对应材料-QT信号和槽](https://blog.csdn.net/buhuizhiyuci/article/details/161121077)
+
++ [linux之库的原理(1)](https://blog.csdn.net/feng_wu_ying_li/article/details/161060196)
+
++ [etcd分布式键值存储系统 Windows下搭建etcd集群](https://blog.csdn.net/c_s_d_n_2009/article/details/161121781)
+
++ [课时一 认识网络安全](https://blog.csdn.net/m0_61947449/article/details/161108721)
+
++ [GPT-5.5加持Daybreak平台亮相：网络安全攻防天平正在倾斜](https://blog.csdn.net/ylscode/article/details/161088270)
+

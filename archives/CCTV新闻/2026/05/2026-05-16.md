@@ -217,3 +217,7 @@
 
 + [伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布](https://news.cctv.com/2026/05/16/ARTIDJFYfLgpW1miH6Eb95h0260516.shtml)
 
++ [中亚首条全自动无人驾驶轻轨在哈萨克斯坦正式通车](https://news.cctv.com/2026/05/16/ARTIbLka0nxl83qNGAAckHIb260516.shtml)
+
++ [德国一小型飞机在居民区坠毁 机上两人遇难](https://news.cctv.com/2026/05/16/ARTI6Nr2mq2QcAllTxiGPNG6260516.shtml)
+
