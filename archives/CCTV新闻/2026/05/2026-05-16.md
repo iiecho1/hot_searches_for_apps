@@ -207,3 +207,5 @@
 
 + [哈马斯官员证实其军事领导人哈达德已身亡](https://news.cctv.com/2026/05/16/ARTIPviQaXOmyT59JPUzlSr8260516.shtml)
 
++ [泰国火车与公交车相撞事故原因披露](https://news.cctv.com/2026/05/16/ARTIRToxE0ooNilAtxJHPHVH260516.shtml)
+
