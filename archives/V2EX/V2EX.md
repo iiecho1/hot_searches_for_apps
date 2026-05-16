@@ -21,3 +21,5 @@
 
 + [ai coding 后已经慢慢丧失了对程序员这份职业的热爱了](https://www.v2ex.com/t/1213164)
 
++ [N 年 1password 老用户，又续费了](https://www.v2ex.com/t/1213142)
+

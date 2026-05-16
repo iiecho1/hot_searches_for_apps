@@ -101,3 +101,37 @@
 
 + [桌面/在线/小程序三种路线，2026年视频转文字的免费软件怎么选](https://blog.csdn.net/asyncs/article/details/161099296)
 
++ [金仓数据库KingbaseES：自动创建表空间目录，简化部署适配云原生](https://blog.csdn.net/lrq13965748542/article/details/161072577)
+
++ [Code-Slim：基于价值序列翻转的 AI 代码膨胀约束系统——从 200 行到 14 行的工程实践](https://blog.csdn.net/qq_46987323/article/details/161131520)
+
++ [企业大屏升级AI智能体：魔珐星云+DeepSeek打造BI数据讲解数字人](https://blog.csdn.net/sinat_41617212/article/details/161080860)
+
++ [【深度解析】何恺明首发【语言模型 ELF】：105M 参数碾压主流扩散 LM，连续 embedding 空间去噪一步解码，NLP 范式挑战者来了](https://blog.csdn.net/qq_73472828/article/details/161084374)
+
++ [TG-boot | 模块化单体架构低代码开发平台 V3.5.2 发布](https://blog.csdn.net/qq_20466509/article/details/161129650)
+
++ [ES6 --- import/export 全解析](https://blog.csdn.net/COCOLI_BK/article/details/161082837)
+
++ [在 Kubernetes 上的 Elastic Cloud：简化的可用区感知、重启和 mTLS](https://blog.csdn.net/UbuntuTouch/article/details/161130971)
+
++ [.Net基于NetCoreKevin框架 AI 与 Hangfire 集成：实现AI智能自动任务调度](https://blog.csdn.net/weixin_42629287/article/details/161123199)
+
++ [美颜SDK接入流程详解：Android、iOS、鸿蒙兼容方案解析](https://blog.csdn.net/wanyuekeji/article/details/161118513)
+
++ [2026 年6月国内怎么开通 ChatGPT Plus？苹果、安卓、虚拟卡、合租、代充一次说清](https://blog.csdn.net/lm642099232/article/details/161090759)
+
++ [计算机内的数据存储方式](https://blog.csdn.net/youren_7715/article/details/161120828)
+
++ [Kafka 架构讲解：从提交日志到分区副本机制](https://blog.csdn.net/2301_80345648/article/details/161112705)
+
++ [巴菲特致股东的信PDF汇总（英文版原文+中文翻译）](https://blog.csdn.net/w201800/article/details/161072570)
+
++ [基于逻辑回归的乳腺癌预测分类](https://blog.csdn.net/m0_37758063/article/details/161085888)
+
++ [A20 工业维护日志全文检索系统](https://blog.csdn.net/danfouer/article/details/161098608)
+
++ [VSCode高效集成Codex全攻略](https://blog.csdn.net/2501_92862577/article/details/161090546)
+
++ [VSCode Docker(Code Server)首次调试C++长时间下载debuginfo问题](https://blog.csdn.net/Tisfy/article/details/161147475)
+
