@@ -159,3 +159,7 @@
 
 + [普通 SpringBoot 单体项目改造成微服务（Nacos+Gateway + 内部服务免鉴权）](https://blog.csdn.net/yyb1369584682/article/details/161088402)
 
++ [通过项目标签和路由，在 Elasticsearch Serverless 中实现更快的跨项目搜索](https://blog.csdn.net/UbuntuTouch/article/details/161130581)
+
++ [【Qt】系统相关（九）TCP回显服务器的实现，QTcpServer和QTcpSocket的讲解](https://blog.csdn.net/2301_80751958/article/details/161075663)
+

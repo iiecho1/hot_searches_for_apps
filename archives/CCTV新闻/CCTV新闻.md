@@ -159,3 +159,5 @@
 
 + [美防长称美伊停火协议依然有效](https://news.cctv.com/2026/05/12/ARTIrJujwRr8i3Xtpb6WoT6j260512.shtml)
 
++ [伊朗方面表示已制定管理霍尔木兹海峡指定航道的专业机制](https://news.cctv.com/2026/05/17/ARTIRcw99E0t3QsJMvlAG6So260517.shtml)
+
