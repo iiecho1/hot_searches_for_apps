@@ -135,3 +135,11 @@
 
 + [VSCode Docker(Code Server)首次调试C++长时间下载debuginfo问题](https://blog.csdn.net/Tisfy/article/details/161147475)
 
++ [轻量级 AI 编码新力量｜ AtomCode Air 完全指南：用自然语言编程，让创意即时落地](https://blog.csdn.net/qq8864/article/details/161143986)
+
++ [逃离端侧困境：Android 转 Java 后端为何是比前端更优解？](https://blog.csdn.net/csdn_silent/article/details/161073413)
+
++ [《图解HTTP》--第3章 HTTP报文内的HTTP信息](https://blog.csdn.net/System_0826/article/details/161118854)
+
++ [VCU续航里程计算：原理、标定、测试与失效处理｜10年研发老周深度拆解](https://blog.csdn.net/weixin_62244995/article/details/160057888)
+
