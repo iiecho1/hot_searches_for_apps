@@ -169,3 +169,11 @@
 
 + [刚果（金）新一轮埃博拉疫情死亡人数升至80人](https://news.cctv.com/2026/05/16/ARTIJxT1yRGSaKyA3yskAvD9260516.shtml)
 
++ [金价、银价大跌 油价显著上涨](https://news.cctv.com/2026/05/16/ARTIhqAMvDtzBLwBgReIV5Xj260516.shtml)
+
++ [伊朗外长感谢中国提供帮助](https://news.cctv.com/2026/05/16/ARTI95BeG1mLQvzv517G9mD3260516.shtml)
+
++ [纪念巴勒斯坦“灾难日” 中方敦促国际社会纠正历史不公](https://news.cctv.com/2026/05/16/ARTIjgw0NPxC50kmjf4SdJdN260516.shtml)
+
++ [美国缅因州一木材厂爆炸并起火 已致1死11伤](https://news.cctv.com/2026/05/16/ARTIGerTc78JtyzeHLgSpJA3260516.shtml)
+

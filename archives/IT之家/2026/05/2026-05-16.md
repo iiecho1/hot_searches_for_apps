@@ -49,3 +49,5 @@
 
 + [CNET 统计 33 款手机低电量充电 30 分钟表现：苹果 iPhone 17 Pro 综合第一](https://m.ithome.com/html/950661.htm)
 
++ [高德推出“华为鸿蒙 HarmonyOS 首个生成式 UI 开源框架”AGenUI，利用通用协议适配多终端界面](https://m.ithome.com/html/951131.htm)
+

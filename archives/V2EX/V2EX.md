@@ -21,3 +21,7 @@
 
 + [企业裁员人选问题](https://www.v2ex.com/t/1212921)
 
++ [放弃 tun 模式，拥抱 ProxyBridge，网络瞬间流畅了](https://www.v2ex.com/t/1212904)
+
++ [大家怎么看待有集体荣誉感和没有集体荣誉感的人](https://www.v2ex.com/t/1213049)
+

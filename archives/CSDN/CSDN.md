@@ -129,3 +129,15 @@
 
 + [ollama v0.24.0 更新：Codex App 正式接入、内置浏览器、评审模式与 MLX 采样器重构，带来哪些变化？](https://blog.csdn.net/weixin_48502062/article/details/161118519)
 
++ [如何接入AI大模型](https://blog.csdn.net/2401_86760859/article/details/161104897)
+
++ [【花雕学编程】Arduino BLDC 之五传感器模糊逻辑沿墙货架巡检机器人](https://blog.csdn.net/weixin_41659040/article/details/161105122)
+
++ [【大数据存储与管理】云数据库：03 云数据库系统架构](https://blog.csdn.net/Morse_Chen/article/details/161090724)
+
++ [SDD-YOLO：面向地空反无人机监控的小目标检测框架与边缘高效部署](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/161072001)
+
++ [学习threejs，实现“无限撕纸“的交互快乐](https://blog.csdn.net/qq_28419035/article/details/161116444)
+
++ [桌面/在线/小程序三种路线，2026年视频转文字的免费软件怎么选](https://blog.csdn.net/asyncs/article/details/161099296)
+
