@@ -179,3 +179,9 @@
 
 + [2026年最新： 禁止Win11自动更新的 6 个靠谱方法](https://blog.csdn.net/2501_92543552/article/details/161059344)
 
++ [Code-Slim：基于价值序列翻转的 AI 代码膨胀约束系统——从 200 行到 14 行的工程实践](https://blog.csdn.net/qq_46987323/article/details/161131520)
+
++ [基于 Milvus Lite 的 Spring AI RAG 向量库实践方案与示例](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161118610)
+
++ [车载以太网之要火系列 - 第44篇：郭大侠学SOME/IP （SD报文）：服务发现真神奇，报文头里藏玄机](https://blog.csdn.net/wang2471996/article/details/161121831)
+
