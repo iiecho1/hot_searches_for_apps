@@ -25,3 +25,27 @@
 
 + [CNET 统计 33 款手机低电量充电 30 分钟表现：苹果 iPhone 17 Pro 综合第一](https://m.ithome.com/html/950661.htm)
 
++ [三大运营商回应“即将免月租”：联通推按量计费，移动电信暂无计划](https://m.ithome.com/html/951378.htm)
+
++ [张雪机车收获赛季第四冠，2026 WSBK 捷克站再登顶](https://m.ithome.com/html/951375.htm)
+
++ [中国超频第一人：i9-14900KF 极限主频 9.2 GHz 刷新全球纪录](https://m.ithome.com/html/951183.htm)
+
++ [小米卢伟冰：今年下半年可能一些国产旗舰直板手机价格突破 1 万元](https://m.ithome.com/html/951380.htm)
+
++ [上市前被砍，小米 Air 超轻薄旗舰工程机规格曝光](https://m.ithome.com/html/951399.htm)
+
++ [涉摆拍“盲人在盲道行走被电动车撞”等，北京警方通报 3 起典型案例](https://m.ithome.com/html/951177.htm)
+
++ [小米卢伟冰回应为什么没有出 iPhone Air 形态的产品：上市前被砍，续航、性能影响体验](https://m.ithome.com/html/951329.htm)
+
++ [蔚来乐道汽车总裁沈斐：提到理想都是一些“不太美好”的回忆，还欠我们一个道歉](https://m.ithome.com/html/951284.htm)
+
++ [消息称 9-10 月预计有 4 台小屏旗舰手机，处理器有骁龙 8E5、8E6、天玑 9600 Pro 等](https://m.ithome.com/html/951225.htm)
+
++ [小米卢伟冰：玄戒芯片今年肯定会迭代，一定是一块非常强的芯片](https://m.ithome.com/html/951373.htm)
+
++ [贾跃亭又融到钱了：法拉第未来宣布完成 2500 万美元新融资，近两月累计筹资 7000 万美元](https://m.ithome.com/html/951151.htm)
+
++ [OPPO Find X9 Ultra 拍视频白色变粉色？客服回应：本月下旬 OTA 修复](https://m.ithome.com/html/951248.htm)
+
