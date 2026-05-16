@@ -141,3 +141,15 @@
 
 + [桌面/在线/小程序三种路线，2026年视频转文字的免费软件怎么选](https://blog.csdn.net/asyncs/article/details/161099296)
 
++ [AI生成代码能不能用，关键看你怎么验证](https://blog.csdn.net/Mrxiao_bo/article/details/161109446)
+
++ [【HarmonyOS 6.0】Device Security Kit安全审计阻断功能深度解析](https://blog.csdn.net/weixin_74809706/article/details/160657952)
+
++ [Spring AI RAG - 04 RAG 文档上传与向量化入库全流程](https://blog.csdn.net/yangshangwei/article/details/161123391)
+
++ [SoC嵌入式硬件设计：原理图搭建与PCB画板系统教学（KiCad 10.0版）](https://blog.csdn.net/nh5431313/article/details/161114995)
+
++ [网络安全视角：利用IP定位API接口识别机房与基站流量（合规风控篇）](https://blog.csdn.net/TechWayfarer/article/details/161116610)
+
++ [【英飞凌 PSoC™ 6 系列 · 第一篇】双核异构 MCU 硬件架构解析](https://blog.csdn.net/2501_93065236/article/details/161120493)
+

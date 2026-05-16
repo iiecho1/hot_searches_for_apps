@@ -177,3 +177,15 @@
 
 + [美国缅因州一木材厂爆炸并起火 已致1死11伤](https://news.cctv.com/2026/05/16/ARTIGerTc78JtyzeHLgSpJA3260516.shtml)
 
++ [美联储任命鲍威尔担任临时主席](https://news.cctv.com/2026/05/16/ARTIbMjONmFZ6oR2yBv9qeFT260516.shtml)
+
++ [特朗普说“伊斯兰国”二号头目被“清除”](https://news.cctv.com/2026/05/16/ARTI9BpYaroqAIcOvbtb79F0260516.shtml)
+
++ [特朗普称“伊斯兰国”二号头目被“清除”](https://news.cctv.com/2026/05/16/ARTIOq3A17myvMgrPgiV4dvJ260516.shtml)
+
++ [世卫组织：已确认10例汉坦病毒感染病例](https://news.cctv.com/2026/05/16/ARTIuhxuFhgjGaYNfFocHqA4260516.shtml)
+
++ [新西兰南岛再发严重事故 我使馆提醒游客注意交通安全](https://news.cctv.com/2026/05/16/ARTInIj4TNZCdRnrc1oHEnOd260516.shtml)
+
++ [委内瑞拉一处天然气平台发生爆炸 6人受伤](https://news.cctv.com/2026/05/16/ARTItzoMJBdokgQ8zkcPAv8F260516.shtml)
+
