@@ -185,3 +185,7 @@
 
 + [车载以太网之要火系列 - 第44篇：郭大侠学SOME/IP （SD报文）：服务发现真神奇，报文头里藏玄机](https://blog.csdn.net/wang2471996/article/details/161121831)
 
++ [适合9-10岁（四五年级）极简微积分绘本](https://blog.csdn.net/dllglvzhenfeng/article/details/161145592)
+
++ [02（上）| K8s 资源管理全流程：命令、配置、生产避坑](https://blog.csdn.net/sbjdhjd/article/details/161120796)
+

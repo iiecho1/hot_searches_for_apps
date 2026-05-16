@@ -209,3 +209,11 @@
 
 + [泰国火车与公交车相撞事故原因披露](https://news.cctv.com/2026/05/16/ARTIRToxE0ooNilAtxJHPHVH260516.shtml)
 
++ [山西左权县一辆公交车发生事故 造成2名学生死亡](https://news.cctv.com/2026/05/16/ARTIpASIyy9MvMXV0iNox7Ow260516.shtml)
+
++ [泰国曼谷火车与公交车相撞 碰撞瞬间冒出火光](https://news.cctv.com/2026/05/16/ARTIwYnNIcHn3whoamyArIPL260516.shtml)
+
++ [卡桑旅确认其指挥官哈达德在以色列袭击中丧生](https://news.cctv.com/2026/05/16/ARTIP5eScJC10QwvCmUNoiPB260516.shtml)
+
++ [伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布](https://news.cctv.com/2026/05/16/ARTIDJFYfLgpW1miH6Eb95h0260516.shtml)
+
