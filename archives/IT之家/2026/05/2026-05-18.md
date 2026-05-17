@@ -33,3 +33,25 @@
 
 + [小米 REDMI 产品经理建议近期不换手机的用户再等等，称部分机型可换更大容量电池](https://m.ithome.com/html/951432.htm)
 
++ [多家银行关停独立信用卡 App，告别“跑马圈地”阶段](https://m.ithome.com/html/951525.htm)
+
++ [张雪机车 WSBK 捷克站再夺冠，斩获赛季第五冠](https://m.ithome.com/html/951557.htm)
+
++ [中国电信推出试商用 Token 套餐，最低每月 9.9 元](https://m.ithome.com/html/951532.htm)
+
++ [距离 600 万大关仅差临门一脚：消息称华为 Mate 80 系列销量已破 592 万台](https://m.ithome.com/html/951420.htm)
+
++ [华为鸿蒙 HarmonyOS 6.1 最新支持机型公布，MateBook Pro、WATCH Ultimate 2 等“转正”](https://m.ithome.com/html/951490.htm)
+
++ [“中国刻蚀机之父”尹志尧：我们现在已经有能力来做最先进的设备](https://m.ithome.com/html/951509.htm)
+
++ [小米 YU7 全新「火山灰」实车陆续进店，官方透露更多颜色正在路上](https://m.ithome.com/html/951442.htm)
+
++ [小米 YU7 全新配色“火山灰”官图公布，5 月底发布](https://m.ithome.com/html/951428.htm)
+
++ [蔚来李斌称萤火虫就像 iPhone，已超越汽车工具属性成为时尚品牌](https://m.ithome.com/html/951514.htm)
+
++ [英伟达 CEO 黄仁勋怒斥将 GPU 比作核武器言论，并反对 AI 芯片出口管制](https://m.ithome.com/html/951554.htm)
+
++ [“中国半导体之父”张汝京谈国产设备发展之路：如果没有人使用国货，怎么会进步呢？](https://m.ithome.com/html/951515.htm)
+

@@ -161,3 +161,5 @@
 
 + [零成本自建搜索 API：用 SearXNG 搭建免费、无限制的元搜索引擎](https://blog.csdn.net/qq_33906319/article/details/161106984)
 
++ [[Java项目] Spring Boot + WebSocket 实现网页在线聊天室｜完整项目架构与实战讲解](https://blog.csdn.net/Boop_wu/article/details/161148063)
+
