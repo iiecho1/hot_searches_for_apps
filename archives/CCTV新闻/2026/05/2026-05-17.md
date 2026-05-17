@@ -161,3 +161,9 @@
 
 + [伊朗方面表示已制定管理霍尔木兹海峡指定航道的专业机制](https://news.cctv.com/2026/05/17/ARTIRcw99E0t3QsJMvlAG6So260517.shtml)
 
++ [委内瑞拉驱逐马杜罗亲信](https://news.cctv.com/2026/05/17/ARTInD2bjYvuwE4HqRGxt38W260517.shtml)
+
++ [泰国总理下令彻查火车与巴士相撞事故](https://news.cctv.com/2026/05/17/ARTIxN4H9opdOfUAKKFZssBo260517.shtml)
+
++ [以军一指挥官在黎巴嫩南部遇袭身亡](https://news.cctv.com/2026/05/17/ARTIw9reRXpqbdRXnn2u6Iuo260517.shtml)
+
