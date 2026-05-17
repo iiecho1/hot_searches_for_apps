@@ -63,3 +63,21 @@
 
 + [荣耀 600 系列手机全球首发 0.98mm 极窄四等边，采用自研天际线封装工艺](https://m.ithome.com/html/951336.htm)
 
++ [多家银行关停独立信用卡 App，告别“跑马圈地”阶段](https://m.ithome.com/html/951525.htm)
+
++ [距离 600 万大关仅差临门一脚：消息称华为 Mate 80 系列销量已破 592 万台](https://m.ithome.com/html/951420.htm)
+
++ [比尔 &#183; 盖茨基金会出售最后持有的 770 万股微软股票，价值约 32 亿美元](https://m.ithome.com/html/951391.htm)
+
++ [华为鸿蒙 HarmonyOS 6.1 最新支持机型公布，MateBook Pro、WATCH Ultimate 2 等“转正”](https://m.ithome.com/html/951490.htm)
+
++ [小米 YU7 全新「火山灰」实车陆续进店，官方透露更多颜色正在路上](https://m.ithome.com/html/951442.htm)
+
++ [中国电信推出试商用 Token 套餐，最低每月 9.9 元](https://m.ithome.com/html/951532.htm)
+
++ [蔚来乐道 L80 开启全国交付：整车购买 24.28 万起，电池租用购买 15.68 万起](https://m.ithome.com/html/951404.htm)
+
++ [小米 YU7 全新配色“火山灰”官图公布，5 月底发布](https://m.ithome.com/html/951428.htm)
+
++ [“中国刻蚀机之父”尹志尧：我们现在已经有能力来做最先进的设备](https://m.ithome.com/html/951509.htm)
+

@@ -47,3 +47,5 @@
 
 + [0 元购，听书阅读器 Aurader 征集新功能](https://www.v2ex.com/t/1213307)
 
++ [你们会自己买 token 给公司干活么？](https://www.v2ex.com/t/1213268)
+
