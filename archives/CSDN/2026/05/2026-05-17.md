@@ -169,3 +169,17 @@
 
 + [【软件工程实务】从需求到交付：全生命周期实战指南（附架构图+代码模板）](https://blog.csdn.net/2501_91815594/article/details/161041485)
 
++ [2026 年 5 月 16 日 AI 行业大事件：编程智能体爆发、巨头生态博弈、具身智能落地提速](https://blog.csdn.net/2401_84289488/article/details/161144504)
+
++ [Flutter for OpenHarmony 本地音乐播放器APP](https://blog.csdn.net/KKei1638/article/details/161113409)
+
++ [HarmonyOS 6.1 全栈实战录 - 09 极光底座：ArkWeb 6.1 性能、安全与视觉插帧全特性深度实战](https://blog.csdn.net/sjw890821sjw/article/details/161135174)
+
++ [免费字幕提取器怎么选？2026年在线工具、软件、小程序实测对比指南](https://blog.csdn.net/asyncs/article/details/161130810)
+
++ [孤舟笔记 Spring全家桶篇六 Spring Bean的作用域有哪些？singleton就一定线程安全吗](https://blog.csdn.net/q6196310920/article/details/160768358)
+
++ [从高中到美国留学，这副AR眼镜陪我跨越语言难关✨](https://blog.csdn.net/2601_95715962/article/details/161106538)
+
++ [RAG、LangChain、SSL整理](https://blog.csdn.net/2301_80044974/article/details/160992639)
+

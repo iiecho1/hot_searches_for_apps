@@ -167,3 +167,13 @@
 
 + [以军一指挥官在黎巴嫩南部遇袭身亡](https://news.cctv.com/2026/05/17/ARTIw9reRXpqbdRXnn2u6Iuo260517.shtml)
 
++ [美军“福特”号航母返回母港 连续部署326天](https://news.cctv.com/2026/05/17/ARTIh3jmk19rxKZVzQSaVB8Y260517.shtml)
+
++ [印尼出生大熊猫幼崽“里奥”状况良好 各项发育指标稳定](https://news.cctv.com/2026/05/17/ARTIjmwJ3KMA6S36RQIIDePA260517.shtml)
+
++ [伊朗即将公布霍尔木兹海峡通行管理新机制](https://news.cctv.com/2026/05/17/ARTIcz2CoL70pdrVogKMG4lA260517.shtml)
+
++ [日本富山县一座始建于1453年的古寺发生火灾](https://news.cctv.com/2026/05/17/ARTIwcXRsDCwvR6EvfipK7ys260517.shtml)
+
++ [厄瓜多尔一沿海排球场发生枪击事件 已致5死5伤](https://news.cctv.com/2026/05/17/ARTI0fjeDGO4AmihfrDm4IJi260517.shtml)
+
