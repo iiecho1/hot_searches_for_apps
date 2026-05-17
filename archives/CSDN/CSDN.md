@@ -203,3 +203,13 @@
 
 + [Flutter for OpenHarmony 跨平台技术实战：lottie 动画库与 flutter_view 页面转场库的鸿蒙化适配指南](https://blog.csdn.net/liulian0916/article/details/161117282)
 
++ [【ChatGLM系列技术演进·第四篇·收官】GLM-4-32B 向推理模型进化、视觉矩阵 GLM-4V→GLM-4.6V，以及智谱 AI 的商业化全景（2024—2026）](https://blog.csdn.net/qq_73472828/article/details/160992506)
+
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与HMAF的“代码哨兵“——AI智能体代码安全审计平台](https://blog.csdn.net/u014727709/article/details/161144990)
+
++ [我把dify构建的CloudMart 知识库客服一键部署到了 EdgeOne Pages](https://blog.csdn.net/Mrxiao_bo/article/details/161109629)
+
++ [网络安全领域简报（2026年5月9日—5月16日）](https://blog.csdn.net/txg666/article/details/161137791)
+
++ [HTTP 深度解析](https://blog.csdn.net/2301_81541593/article/details/161147508)
+

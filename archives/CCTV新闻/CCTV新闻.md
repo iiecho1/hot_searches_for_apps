@@ -187,3 +187,9 @@
 
 + [驻日美军一士兵涉嫌盗窃被日本警方逮捕](https://news.cctv.com/2026/05/17/ARTI6pjOvfkOp5a2wgj0i0G8260517.shtml)
 
++ [德国南部城市排爆二战遗留炸弹 疏散约3万居民](https://news.cctv.com/2026/05/17/ARTIbWodemVsuMlj96yBNNEj260517.shtml)
+
++ [日本民调显示超半数受访者反对解禁杀伤性武器出口](https://news.cctv.com/2026/05/17/ARTISGJ9Y4AYkdILonPR7PQq260517.shtml)
+
++ [伊朗南部省份发生客车侧翻事故 已致7人死亡](https://news.cctv.com/2026/05/17/ARTIjw3jkfbHRPUtuRobBb0I260517.shtml)
+

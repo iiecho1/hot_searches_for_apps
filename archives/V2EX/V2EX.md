@@ -41,3 +41,5 @@
 
 + [deepseek 值得入手吗](https://www.v2ex.com/t/1213287)
 
++ [日本的 iPhone17 在国内用什么 sim 卡呀](https://www.v2ex.com/t/1213295)
+
