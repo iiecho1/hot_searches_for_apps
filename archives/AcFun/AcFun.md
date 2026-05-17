@@ -61,3 +61,5 @@
 
 + [Stellar Sting 刺痛 路演](https://m.acfun.cn/v/?ac=48529479)
 
++ [豆豉辣椒炒肉超详细教程！做法简单巨好吃](https://m.acfun.cn/v/?ac=48528796)
+

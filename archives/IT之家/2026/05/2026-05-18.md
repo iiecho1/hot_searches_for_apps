@@ -25,3 +25,11 @@
 
 + [OPPO Find X9 Ultra 拍视频白色变粉色？客服回应：本月下旬 OTA 修复](https://m.ithome.com/html/951248.htm)
 
++ [103 号燃油来了！我国自主研发赛事级燃油实现突破](https://m.ithome.com/html/951340.htm)
+
++ [消息称奥迪在华战略调整：上汽奥迪专注 AUDI，油车回归一汽奥迪](https://m.ithome.com/html/951282.htm)
+
++ [比亚迪王传福谈 23 年前收购秦川汽车：目的就是发展新能源汽车，当时 80% 的投资人都反对](https://m.ithome.com/html/951381.htm)
+
++ [小米 REDMI 产品经理建议近期不换手机的用户再等等，称部分机型可换更大容量电池](https://m.ithome.com/html/951432.htm)
+

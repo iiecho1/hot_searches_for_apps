@@ -101,3 +101,37 @@
 
 + [孤舟笔记 Spring全家桶篇六 Spring Bean的作用域有哪些？singleton就一定线程安全吗](https://blog.csdn.net/q6196310920/article/details/160768358)
 
++ [AI生成代码能不能用，关键看你怎么验证](https://blog.csdn.net/Mrxiao_bo/article/details/161109446)
+
++ [HarmonyOS APP＜＜古今职鉴定＞＞开源教程第12篇：握姿感应：MultimodalAwarenessKit](https://blog.csdn.net/ldc121xy716/article/details/160971113)
+
++ [网络IO模型-从BIO到IO多路复用](https://blog.csdn.net/skdoj/article/details/161105388)
+
++ [【Qt】系统相关（九）TCP回显服务器的实现，QTcpServer和QTcpSocket的讲解](https://blog.csdn.net/2301_80751958/article/details/161075663)
+
++ [第一篇：Nacos 2.x 架构全览——为什么从HTTP转向gRPC？](https://blog.csdn.net/Yuu_9977/article/details/161167369)
+
++ [一篇拿下MYSQL里的事务](https://blog.csdn.net/Spri_ng/article/details/161171472)
+
++ [ollama v0.24.0 更新：Codex App 正式接入、内置浏览器、评审模式与 MLX 采样器重构，带来哪些变化？](https://blog.csdn.net/weixin_48502062/article/details/161118519)
+
++ [鸿蒙 HarmonyOS 6.0 页面构建实践：社团活动管理台界面实现](https://blog.csdn.net/weixin_52908342/article/details/161171837)
+
++ [第 1 节：MVC + DataTable 百万数据秒加载 —— 企业级服务端分页实战](https://blog.csdn.net/William_cl/article/details/161171759)
+
++ [【无线网络】无线网络中的信道分配（吞吐量分析）附Matlab代码](https://blog.csdn.net/Matlab_dashi/article/details/161147779)
+
++ [Claude Batch API 实战：把批量任务成本砍掉一半，叠加缓存再降 90%](https://blog.csdn.net/Niceyun/article/details/161107654)
+
++ [计算机网络 | 第一章概述](https://blog.csdn.net/2402_88777742/article/details/161171797)
+
++ [从高中到美国留学，这副AR眼镜陪我跨越语言难关✨](https://blog.csdn.net/2601_95715962/article/details/161106538)
+
++ [企业文档私有化部署的安全设计：加密存储、传输与审计日志](https://blog.csdn.net/weixin_42054392/article/details/161119669)
+
++ [【项目开篇】基于ESP32的智能巡迹导航机器人——从需求分析到方案论证](https://blog.csdn.net/2501_93065236/article/details/161169363)
+
++ [Vue 项目实战与性能优化全攻略：从代码、渲染到首屏，一站式解决卡顿慢加载](https://blog.csdn.net/qq_40303030/article/details/160054094)
+
++ [【Flutter x HarmonyOS 6】挑战功能的业务逻辑实现](https://blog.csdn.net/2503_94458334/article/details/161172997)
+
