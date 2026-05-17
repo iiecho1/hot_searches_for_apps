@@ -135,3 +135,13 @@
 
 + [【Flutter x HarmonyOS 6】挑战功能的业务逻辑实现](https://blog.csdn.net/2503_94458334/article/details/161172997)
 
++ [HarmonyOS APP＜＜古今职鉴定＞＞开源教程第9篇：组件状态管理：从 @State 到 @Link](https://blog.csdn.net/ldc121xy716/article/details/160960570)
+
++ [我做了一个鸿蒙 PC ，踩了这 12 个坑](https://blog.csdn.net/qq_36478920/article/details/161143753)
+
++ [【滤波跟踪】马尔可夫链蒙特卡洛采样对轨迹泊松多伯努利混合多目标跟踪器的批量实现附matlab代码](https://blog.csdn.net/qq_59747472/article/details/161171488)
+
++ [【Azure Developer】ASP.NET Framework 4.8 集成 Azure Application Insights SDK 完整指南](https://blog.csdn.net/lubu123456/article/details/161120046)
+
++ [MySQL-MVCC核心原理-版本链ReadView与可见性判断](https://blog.csdn.net/m0_74191152/article/details/161139774)
+
