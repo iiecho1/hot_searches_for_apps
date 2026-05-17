@@ -43,3 +43,7 @@
 
 + [日本的 iPhone17 在国内用什么 sim 卡呀](https://www.v2ex.com/t/1213295)
 
++ [家庭对个人的影响，挺大的，甚至想长眠](https://www.v2ex.com/t/1213296)
+
++ [0 元购，听书阅读器 Aurader 征集新功能](https://www.v2ex.com/t/1213307)
+

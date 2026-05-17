@@ -213,3 +213,13 @@
 
 + [HTTP 深度解析](https://blog.csdn.net/2301_81541593/article/details/161147508)
 
++ [【Linux之旅】Linux 线程同步与互斥实战：从锁机制到生产消费模型全指南](https://blog.csdn.net/2302_80243065/article/details/161165214)
+
++ [AI摆摊：在 muShanghai × 观猹 AI 练摊集市的一次高密度体验](https://blog.csdn.net/2403_87969572/article/details/161150969)
+
++ [企业网络安全设备体系与纵深防御建设](https://blog.csdn.net/weixin_71135233/article/details/161146005)
+
++ [Linux——Web服务器网址建立（http和https的分离）](https://blog.csdn.net/2402_88655956/article/details/161081065)
+
++ [2026 Web 网站性能优化指南](https://blog.csdn.net/weixin_43288714/article/details/161130307)
+

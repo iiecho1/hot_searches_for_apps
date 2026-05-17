@@ -193,3 +193,5 @@
 
 + [伊朗南部省份发生客车侧翻事故 已致7人死亡](https://news.cctv.com/2026/05/17/ARTIjw3jkfbHRPUtuRobBb0I260517.shtml)
 
++ [中国驻泰使馆提醒中国公民警惕“高薪招聘”陷阱](https://news.cctv.com/2026/05/17/ARTIiYNK9oawOhI5wUR9nIkR260517.shtml)
+
