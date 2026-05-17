@@ -57,3 +57,9 @@
 
 + [小米 REDMI 产品经理建议近期不换手机的用户再等等，称部分机型可换更大容量电池](https://m.ithome.com/html/951432.htm)
 
++ [鸿蒙智行全新一代问界 M9 系列预订量突破 5 万台，预售 49.98 万起](https://m.ithome.com/html/951382.htm)
+
++ [小米汽车：YU7 GT 目前仅做静态展示，5 月底上市后提供试乘试驾](https://m.ithome.com/html/951386.htm)
+
++ [荣耀 600 系列手机全球首发 0.98mm 极窄四等边，采用自研天际线封装工艺](https://m.ithome.com/html/951336.htm)
+

@@ -183,3 +183,23 @@
 
 + [RAG、LangChain、SSL整理](https://blog.csdn.net/2301_80044974/article/details/160992639)
 
++ [【HarmonyOS 6.0】Device Security Kit 深度解读：应用进程信息安全审计查询能力](https://blog.csdn.net/weixin_74809706/article/details/160991539)
+
++ [Linux Pulseaudio深度解析之pa_context_errno调用流程与实战(六)](https://blog.csdn.net/u010164190/article/details/160967347)
+
++ [Linux进程信号——像收快递一样理解 Linux 信号](https://blog.csdn.net/2501_91715541/article/details/161148081)
+
++ [我做了一个鸿蒙 PC ，踩了这 12 个坑](https://blog.csdn.net/qq_36478920/article/details/161143753)
+
++ [【LE Audio】CAP精讲[6]: 控制中枢操盘指南，Commander协同全流程拆解](https://blog.csdn.net/weixin_37800531/article/details/161027249)
+
++ [一套鸿蒙 App，如何跑在手机 / 平板 / TV？](https://blog.csdn.net/qq_36863796/article/details/161143256)
+
++ [2026 全球网络安全厂商财报解读：财年迷雾下的行业格局与增长密码](https://blog.csdn.net/2601_95758040/article/details/161144725)
+
++ [使用Cursor封装Flutter项目基建框架](https://blog.csdn.net/Lan_Se_Tian_Ma/article/details/161161570)
+
++ [Perry能取代Flutter吗？跨平台的三种技术路线](https://blog.csdn.net/developer_laoliu/article/details/161086934)
+
++ [Flutter for OpenHarmony 跨平台技术实战：lottie 动画库与 flutter_view 页面转场库的鸿蒙化适配指南](https://blog.csdn.net/liulian0916/article/details/161117282)
+

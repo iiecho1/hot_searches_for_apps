@@ -39,3 +39,5 @@
 
 + [我自学编程上架了一款无广告、本地优先的 App「破己行动」](https://www.v2ex.com/t/1213257)
 
++ [deepseek 值得入手吗](https://www.v2ex.com/t/1213287)
+
