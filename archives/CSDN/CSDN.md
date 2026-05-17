@@ -145,3 +145,9 @@
 
 + [MySQL-MVCC核心原理-版本链ReadView与可见性判断](https://blog.csdn.net/m0_74191152/article/details/161139774)
 
++ [基于 HarmonyOS 6.0 的跨端应用页面开发实践：ProfilePage 构建与深度解析](https://blog.csdn.net/weixin_52908342/article/details/161146158)
+
++ [MYSQL中外键的知识与应用](https://blog.csdn.net/lililililiiqwq/article/details/161148049)
+
++ [网络入侵检测系统（NIDS）：企业网络安全的守望者](https://blog.csdn.net/2402_88096536/article/details/161172843)
+
