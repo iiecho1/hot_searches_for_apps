@@ -233,3 +233,7 @@
 
 + [Windows下，在Github Copilot Chat/CLI中使用obra/superpowers](https://blog.csdn.net/joyopirate/article/details/161135484)
 
++ [如何用AI写代码? vibe coding](https://blog.csdn.net/2301_81253185/article/details/161169078)
+
++ [【案例分析】网盘高危漏洞深度剖析：存储型XSS与CSRF的组合攻击](https://blog.csdn.net/qq_40037555/article/details/161142420)
+
