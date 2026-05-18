@@ -197,3 +197,37 @@
 
 + [Gemini 3.5 Pro 全网首曝：编程追平 GPT-5.5，谷歌全时 Agent “Spark“ 能替你下单花钱](https://blog.csdn.net/m0_58868237/article/details/161130880)
 
++ [金仓数据库字符集与国际化支持：多语言环境下的编码处理方案](https://blog.csdn.net/qq_57761637/article/details/161175069)
+
++ [AI编程下程序员生存探索](https://blog.csdn.net/samsion_/article/details/161172758)
+
++ [【Linux 指南】文件系统系列（三）：Ext系统核心实现 —— 从块组到 inode 与数据块映射全解析](https://blog.csdn.net/2302_78391795/article/details/161185281)
+
++ [【Web安全】-SRC平台介绍：CNVD平台-事件型漏洞-通用型漏洞，教育SRC平台，漏洞盒子，补天漏洞平台，企业SRC平台，企业和公益SRC平台](https://blog.csdn.net/2401_83075246/article/details/161187627)
+
++ [I.MX6U Linux 驱动开发篇---异步通知（信号）实验--- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/160227802)
+
++ [2026年AI Agent将走向何方？十大趋势深度解析：从多模态融合到自主决策，从端侧部署到具身智能，提前布局下一个万亿级市场](https://blog.csdn.net/2602_94956987/article/details/161186943)
+
++ [【Linux网络】从 0 到工业级：TCP 服务器多线程 / 线程池全实现 + 远程命令执行实战](https://blog.csdn.net/2503_91389547/article/details/160860937)
+
++ [通过项目标签和路由，在 Elasticsearch Serverless 中实现更快的跨项目搜索](https://blog.csdn.net/UbuntuTouch/article/details/161130581)
+
++ [学习threejs，实现Transformer架构三维模拟](https://blog.csdn.net/qq_28419035/article/details/161187261)
+
++ [Qt 高级开发 007： 图片查看器案例](https://blog.csdn.net/2503_92624912/article/details/161160553)
+
++ [【项目】C++从零实现JsonRpc框架——项目引入](https://blog.csdn.net/2402_86681376/article/details/161061538)
+
++ [Claude Code 源码解读04：Subagent 如何让 Agent 不背子任务过程](https://blog.csdn.net/2301_80956187/article/details/161187358)
+
++ [开源 OA 选型的 10 个关键考察维度：别只看功能清单和 Star 数](https://blog.csdn.net/zhouzhongyan/article/details/161179252)
+
++ [Nging：这款轻量级跨平台Web管理面板，可能比你想象中好用得多](https://blog.csdn.net/2301_81134882/article/details/161189741)
+
++ [HarmonyOS APP＜＜古今职鉴定＞＞开源教程第11篇：响应式布局：适配多种设备](https://blog.csdn.net/ldc121xy716/article/details/160971058)
+
++ [【Codex】我的工作内容统计数据可视化](https://blog.csdn.net/qq_20288327/article/details/161056103)
+
++ [使用acme.sh进行阿里云域名SSL证书申请与部署自动化](https://blog.csdn.net/csy1021/article/details/161172254)
+

@@ -37,3 +37,19 @@
 
 + [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
++ [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+
++ [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)
+
++ [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+
++ [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
+
++ [NVlabs/Sana](https://github.com/NVlabs/Sana)
+
++ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+

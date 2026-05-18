@@ -187,3 +187,7 @@
 
 + [“洪迪厄斯”号预计18日抵达荷兰鹿特丹港](https://news.cctv.com/2026/05/18/ARTIPzSdJG7mw6aNQVjwsKiZ260518.shtml)
 
++ [“全球坚韧船队”称遭以军拦截 谴责以色列违反国际法](https://news.cctv.com/2026/05/18/ARTIdLq0m00mmrRLxBpes7V3260518.shtml)
+
++ [美军称在尼日利亚对“伊斯兰国”进行打击](https://news.cctv.com/2026/05/18/ARTIpQBxaDKIne2qhPalrEwP260518.shtml)
+
