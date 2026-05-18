@@ -101,3 +101,31 @@
 
 + [灵犀机器人交互系统--CaptureJpeg](https://blog.csdn.net/Extreme_wei/article/details/161168965)
 
++ [【AI帮玩游戏】一、搭建Claude+vscode环境，先看看异环ok-nte项目](https://blog.csdn.net/drico1986/article/details/161169332)
+
++ [分享一套锋哥原创的基于Spring AI 2.0的RAG医疗健康知识智能问答系统(AI大模型 SpringBoot4+Vue3+Ollama)](https://blog.csdn.net/caoli201314/article/details/161193121)
+
++ [2026年AI Agent将走向何方？十大趋势深度解析：从多模态融合到自主决策，从端侧部署到具身智能，提前布局下一个万亿级市场](https://blog.csdn.net/2602_94956987/article/details/161186943)
+
++ [Qt 高级开发 007： 图片查看器案例](https://blog.csdn.net/2503_92624912/article/details/161160553)
+
++ [【MySQL 事务并发实战】：隔离级别、MVCC 与幻读问题彻底解](https://blog.csdn.net/2504_94294476/article/details/161200565)
+
++ [Spring AI RAG - 14 网络检索增强：Web Search 集成](https://blog.csdn.net/yangshangwei/article/details/161145620)
+
++ [企业级 OpenClaw 实战：多用户身份映射与权限隔离架构指南](https://blog.csdn.net/neweastsun/article/details/161177278)
+
++ [记 2026.5.13 拜师学习嵌入式](https://blog.csdn.net/m0_74809386/article/details/161198859)
+
++ [Codex 历史记录恢复与同步：会话没丢，只是列表不见了](https://blog.csdn.net/pkk518/article/details/161172070)
+
++ [HarmonyOS APP＜＜古今职鉴定＞＞开源教程第11篇：响应式布局：适配多种设备](https://blog.csdn.net/ldc121xy716/article/details/160971058)
+
++ [一种用于跟踪无人机的三模态数据集与基线系统](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/161167649)
+
++ [Linux进程信号](https://blog.csdn.net/wairuigood/article/details/160123971)
+
++ [从 HTTP/1.1 到 HTTP/3，再到 WebSocket和QUIC：一篇搞定网络协议核心知识](https://blog.csdn.net/weixin_66317004/article/details/161166405)
+
++ [CSS文本渲染在不同操作系统差异_使用font-smoothing平滑化](https://blog.csdn.net/weixin_45975394/article/details/161169856)
+
