@@ -171,3 +171,19 @@
 
 + [金正恩要求加强守卫南部边境的一线部队](https://news.cctv.com/2026/05/18/ARTIOccMOelhxSFTc8WqziZ6260518.shtml)
 
++ [以色列强推的“巴勒斯坦人死刑法”生效](https://news.cctv.com/2026/05/18/ARTIX5DCkyVIE2mqIDqTAnfh260518.shtml)
+
++ [内塔尼亚胡再次要求取消涉贪腐案听证会](https://news.cctv.com/2026/05/18/ARTI56E3eOCoEIfGVUVTecps260518.shtml)
+
++ [一艘装载中东产液化天然气的运输船抵达日本](https://news.cctv.com/2026/05/18/ARTIOnsEyaqVikpQPiOus73s260518.shtml)
+
++ [未受邀请 美国特使“强行”访问格陵兰岛](https://news.cctv.com/2026/05/18/ARTIrqsBjFUUYplddHrDOqps260518.shtml)
+
++ [特朗普警告伊朗“时钟正滴答作响”](https://news.cctv.com/2026/05/18/ARTIkoHJzvMrrtetz3fPyM9N260518.shtml)
+
++ [俄副外长：将继续支持古巴应对美制裁压力](https://news.cctv.com/2026/05/18/ARTI05NbFgkN2h0JGO7BU5Re260518.shtml)
+
++ [欧洲头条丨法国文物返还立法破冰 中法文化遗产合作或启新篇](https://news.cctv.com/2026/05/18/ARTIWs9O1HbjSXm4q39ZAYKw260518.shtml)
+
++ [“洪迪厄斯”号预计18日抵达荷兰鹿特丹港](https://news.cctv.com/2026/05/18/ARTIPzSdJG7mw6aNQVjwsKiZ260518.shtml)
+

@@ -55,3 +55,13 @@
 
 + [“中国半导体之父”张汝京谈国产设备发展之路：如果没有人使用国货，怎么会进步呢？](https://m.ithome.com/html/951515.htm)
 
++ [苹果 iPhone 17 Pro 系列降价 1000 元后，淘宝天猫搜索暴涨 7 倍](https://m.ithome.com/html/951725.htm)
+
++ [2026 总票房破 144 亿元，《给阿嬷的情书》成为今年开分最高国产电影](https://m.ithome.com/html/951511.htm)
+
++ [长鑫科技：一季度营收同比增 719.13%，净利润 330 亿元](https://m.ithome.com/html/951535.htm)
+
++ [618 预热大促 18 日大加码：AirPods 4 / Pro 3 官方 636 元起 7 天免费用，30 秒速读 518 攻略](https://m.ithome.com/html/951577.htm)
+
++ [支持 7 天试用：苹果 AirPods 4 / Pro 3 耳机直降，低至 636~1466 元](https://m.ithome.com/html/951553.htm)
+

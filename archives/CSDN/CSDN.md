@@ -175,3 +175,25 @@
 
 + [关于论文《FLUSH+RELOAD：一种高分辨率、低噪声的L3缓存侧信道攻击》的理解](https://blog.csdn.net/m0_70980326/article/details/161105852)
 
++ [PyTorch强化学习实战（9）——深度Q学习](https://blog.csdn.net/LOVEmy134611/article/details/157727469)
+
++ [Resilience4j- 非 Spring 环境集成：纯 Java 项目中的手动配置实现](https://blog.csdn.net/qq_41187124/article/details/157544457)
+
++ [Langchain4j对话记忆](https://blog.csdn.net/2402_86304740/article/details/161141627)
+
++ [实测对比：各大通用大模型图像理解能力究竟如何](https://blog.csdn.net/yelangkingwuzuhu/article/details/161171727)
+
++ [【花雕学编程】Arduino BLDC 之多基站UWB三角定位与坐标跟随机器人](https://blog.csdn.net/weixin_41659040/article/details/161129733)
+
++ [I.MX6U Linux 驱动开发篇---设备树下 platform 驱动实验--- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/161146633)
+
++ [HarmonyOS APP＜＜古今职鉴定＞＞开源教程第13篇：隔空投送：ShareKit 分享服务](https://blog.csdn.net/ldc121xy716/article/details/160971220)
+
++ [如何使用 OpenTelemetry 和 Elastic APM 追踪 MCP 服务器工具调用](https://blog.csdn.net/UbuntuTouch/article/details/161167509)
+
++ [MySQL——表的约束（上）](https://blog.csdn.net/lijiatong1028/article/details/161159758)
+
++ [Flutter GenUI 0.9 和 A2UI 0.9 发布，全动动态 UI 支持，AI 在 App 里直出界面](https://blog.csdn.net/ZuoYueLiang/article/details/161179904)
+
++ [Gemini 3.5 Pro 全网首曝：编程追平 GPT-5.5，谷歌全时 Agent “Spark“ 能替你下单花钱](https://blog.csdn.net/m0_58868237/article/details/161130880)
+
