@@ -159,3 +159,7 @@
 
 + [外交部发言人就伊朗局势答记者问](https://news.cctv.com/2026/05/15/ARTItaMDCw0QiEukoYjFt69o260515.shtml)
 
++ [黎巴嫩总统：将“竭尽所能”制止以色列对黎战争](https://news.cctv.com/2026/05/19/ARTIDWLTbFCoudSrf6d39Mbg260519.shtml)
+
++ [美加州圣迭戈市伊斯兰中心枪击事件已致5人死亡](https://news.cctv.com/2026/05/19/ARTIMxHjLaGRIeVSoJVbNjh9260519.shtml)
+
