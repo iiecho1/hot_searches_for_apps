@@ -231,3 +231,13 @@
 
 + [使用acme.sh进行阿里云域名SSL证书申请与部署自动化](https://blog.csdn.net/csy1021/article/details/161172254)
 
++ [Nature Skills：AI助你写出顶级期刊论文](https://blog.csdn.net/qq_38998213/article/details/161195805)
+
++ [【QT-百日筑基篇】打完完怪，开始学炼丹， 前往藏书阁寻找对应材料的信息，并前往去寻找对应材料-QT信号和槽](https://blog.csdn.net/buhuizhiyuci/article/details/161121077)
+
++ [【Agent 学习日记】我们来说说到底什么是 agent ？](https://blog.csdn.net/2402_87298751/article/details/161195865)
+
++ [【AI编程时代】一文带你了解Agent Skills](https://blog.csdn.net/gdpu2400502251/article/details/161195404)
+
++ [【MySQL专题】1.一条更新SQL语句是如何执行的](https://blog.csdn.net/skdoj/article/details/161172761)
+

@@ -191,3 +191,9 @@
 
 + [美军称在尼日利亚对“伊斯兰国”进行打击](https://news.cctv.com/2026/05/18/ARTIpQBxaDKIne2qhPalrEwP260518.shtml)
 
++ [国际社会积极评价中美元首会晤——“中美两国选择合作而不是冲突，全世界都将受益”](https://news.cctv.com/2026/05/18/ARTI8hxwlI1euKv5RlUnhsSU260518.shtml)
+
++ [“中国与我们的未来紧密相连”——走访俄罗斯留学中国与就业展](https://news.cctv.com/2026/05/18/ARTIDPbjG4W42LKBPmgYFn7k260518.shtml)
+
++ [新华社评论员：树立正确的战略认知——一论把握中美关系新定位](https://news.cctv.com/2026/05/18/ARTIJs3cNm69HIRzkhjUG3N1260518.shtml)
+
