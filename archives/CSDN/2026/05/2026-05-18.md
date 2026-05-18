@@ -163,3 +163,15 @@
 
 + [[Java项目] Spring Boot + WebSocket 实现网页在线聊天室｜完整项目架构与实战讲解](https://blog.csdn.net/Boop_wu/article/details/161148063)
 
++ [Java嵌入式电源管理：3个参数，2倍续航，为什么你的设备电量总不够用？](https://blog.csdn.net/z_344791576/article/details/151895981)
+
++ [让AI真正理解你的代码库：GitNexus搭建代码知识库详解](https://blog.csdn.net/zhangay1998/article/details/161023045)
+
++ [Linux进程信号——像收快递一样理解 Linux 信号](https://blog.csdn.net/2501_91715541/article/details/161148081)
+
++ [Qt 高级开发 006： 架构全解 + 高效学习指南](https://blog.csdn.net/2503_92624912/article/details/161091627)
+
++ [centos7.9 升级openssl11 导致的系统命令瘫痪](https://blog.csdn.net/renren_100/article/details/161144370)
+
++ [关于论文《FLUSH+RELOAD：一种高分辨率、低噪声的L3缓存侧信道攻击》的理解](https://blog.csdn.net/m0_70980326/article/details/161105852)
+
