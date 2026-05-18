@@ -163,3 +163,9 @@
 
 + [美加州圣迭戈市伊斯兰中心枪击事件已致5人死亡](https://news.cctv.com/2026/05/19/ARTIMxHjLaGRIeVSoJVbNjh9260519.shtml)
 
++ [特朗普称将推迟对伊朗发动军事打击](https://news.cctv.com/2026/05/19/ARTIQ4SbEy9Vnb2OyPPqIikF260519.shtml)
+
++ [非洲暴发埃博拉疫情 刚果（金）已有91例疑似死亡病例](https://news.cctv.com/2026/05/19/ARTIGvVjthJKssTSMHK91XFn260519.shtml)
+
++ [伊朗总统：对话不意味投降 将全力捍卫国家尊严](https://news.cctv.com/2026/05/19/ARTI3ABenhKjSWYiUBrZLZYi260519.shtml)
+
