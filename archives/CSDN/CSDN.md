@@ -133,3 +133,15 @@
 
 + [tRPC-Go 系统讲解 ：从 0 系统理解 tRPC-Go — 小白友好版](https://blog.csdn.net/weixin_52908342/article/details/161186894)
 
++ [基于 HarmonyOS 6.0 的跨端应用页面开发实践：ProfilePage 构建与深度解析](https://blog.csdn.net/weixin_52908342/article/details/161146158)
+
++ [基于YOLO26深度学习的【咖啡果实成熟度检测与计数系统】【python源码+Pyqt5界面+数据集+训练代码】](https://blog.csdn.net/qq_42589613/article/details/161157502)
+
++ [构建一个可自我改进的多 Agent RAG 系统：架构、评估，以及带人工审核的 Prompt 反馈闭环](https://blog.csdn.net/m0_46510245/article/details/161201903)
+
++ [砍掉 Embedding 和向量索引，让 Agent 直接 grep 语料库——DCI 论文深度剖析](https://blog.csdn.net/qq_73472828/article/details/161086553)
+
++ [站群服务器能带多少个网站？内存和带宽该如何配置？](https://blog.csdn.net/YOKEhn/article/details/161199240)
+
++ [ComfyUI：为什么说它是 AIGC 应用层面的集大成者？](https://blog.csdn.net/u014451778/article/details/161172619)
+

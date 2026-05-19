@@ -169,3 +169,5 @@
 
 + [伊朗总统：对话不意味投降 将全力捍卫国家尊严](https://news.cctv.com/2026/05/19/ARTI3ABenhKjSWYiUBrZLZYi260519.shtml)
 
++ [刚果（金）埃博拉疫情扩散 116例疑似病例死亡](https://news.cctv.com/2026/05/19/ARTIKnBIIeI1GkPZpH88o5iS260519.shtml)
+
