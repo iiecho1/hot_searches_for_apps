@@ -175,3 +175,21 @@
 
 + [2026远程协作工具怎么选？ToDesk/向日葵/AnyViewer多人操控能力横评](https://blog.csdn.net/2301_76147196/article/details/161200378)
 
++ [Linux信号——信号产生](https://blog.csdn.net/2501_91715541/article/details/161202643)
+
++ [IoTDB MQTT 接入全攻略：无需中间件，设备直接上报时序数据](https://blog.csdn.net/weixin_43151418/article/details/160789938)
+
++ [轻量、安全、易用的HTML测试运行预览工具](https://blog.csdn.net/cnds123/article/details/161200634)
+
++ [智能产品系统架构分析 - 智能工作流系统架构分层](https://blog.csdn.net/lza_csdn2019/article/details/161167368)
+
++ [Redis 集群](https://blog.csdn.net/2301_76161469/article/details/161101103)
+
++ [I.MX6U Linux 驱动开发篇---设备树下 platform 驱动实验--- Ubuntu20.04](https://blog.csdn.net/weixin_61186812/article/details/161146633)
+
++ [从模型护栏到工程门禁：基于 XGuard 二创一个 Agent/CI 动态策略安全护栏](https://blog.csdn.net/lwcwam/article/details/161194199)
+
++ [基于YOLOv8的交通标志识别Web系统](https://blog.csdn.net/m0_61028090/article/details/161203690)
+
++ [【必记】2026年 {论文题} ｜范文记忆提纲 → 规划 & 团队绩效域](https://blog.csdn.net/weixin_42115157/article/details/161197152)
+

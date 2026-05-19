@@ -179,3 +179,5 @@
 
 + [印度首都或将遭遇45摄氏度高温](https://news.cctv.com/2026/05/19/ARTIAy8SOxAcgEJn66fNbh8r260519.shtml)
 
++ [澳大利亚恐暴发几十年来最严重白喉疫情](https://news.cctv.com/2026/05/19/ARTIdZd3AFMjQSiSUEOoHDog260519.shtml)
+

@@ -39,3 +39,11 @@
 
 + [[免费蹬 Opus 4.7 ] 回帖送 100 美金 Claude Code API 额度，限时 3 天](https://www.v2ex.com/t/1213790)
 
++ [五口之家，第二辆车如何选择？](https://www.v2ex.com/t/1213689)
+
++ [「第三年卖自家种的樱桃」布鲁克斯等一些中期品种](https://www.v2ex.com/t/1213745)
+
++ [Ai 时代我司的产品经理愈发白痴](https://www.v2ex.com/t/1213704)
+
++ [父母逼我出去打工](https://www.v2ex.com/t/1213601)
+
