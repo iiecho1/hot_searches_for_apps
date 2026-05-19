@@ -101,3 +101,27 @@
 
 + [2026远程协作工具怎么选？ToDesk/向日葵/AnyViewer多人操控能力横评](https://blog.csdn.net/2301_76147196/article/details/161200378)
 
++ [【Linux 指南】文件系统系列（三）：Ext系统核心实现 —— 从块组到 inode 与数据块映射全解析](https://blog.csdn.net/2302_78391795/article/details/161185281)
+
++ [【YOLO系列】基于YOLOv8/v11/v26+flask+fastdmin开发的目标检测系统](https://blog.csdn.net/qq_27661837/article/details/161167914)
+
++ [IoTDB MQTT 接入全攻略：无需中间件，设备直接上报时序数据](https://blog.csdn.net/weixin_43151418/article/details/160789938)
+
++ [Spring AI 2.0 开发Java Agent智能体 - RAG(检索增强生成)](https://blog.csdn.net/caoli201314/article/details/161193369)
+
++ [▲基于4FSK调制解调+LDPC编译码+扩频解扩通信链路matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/161203986)
+
++ [深入理解进程概念 第三章 进程调度切换](https://blog.csdn.net/jiaomorning/article/details/161213848)
+
++ [linux之库的原理，动态库(3)](https://blog.csdn.net/feng_wu_ying_li/article/details/161180774)
+
++ [Nature Skills：AI助你写出顶级期刊论文](https://blog.csdn.net/qq_38998213/article/details/161195805)
+
++ [2023年高教社杯全国大学生数学建模竞赛 E 题:《黄河水沙监测数据分析》真题解析与 MATLAB 解决方案](https://blog.csdn.net/weixin_43970743/article/details/161108783)
+
++ [数据库的ID的另一种选择-雪花算法](https://blog.csdn.net/2301_79289774/article/details/161200295)
+
++ [Flink Agents 深度解读：当实时数据流遇上 AI 智能体](https://blog.csdn.net/qq_44809804/article/details/161160878)
+
++ [VS Code 接入主流大模型辅助编程对比：Codex、Claude Code、GitHub Copilot、DeepSeek V4、Gemini、Cursor 怎么选？](https://blog.csdn.net/m0_58954356/article/details/161202512)
+
