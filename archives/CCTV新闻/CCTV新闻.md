@@ -159,3 +159,11 @@
 
 + [美国缅因州一木材厂爆炸并起火 已致1死11伤](https://news.cctv.com/2026/05/16/ARTIGerTc78JtyzeHLgSpJA3260516.shtml)
 
++ [伯纳姆获英国工党下院补选提名 或重返议会挑战首相职位](https://news.cctv.com/2026/05/20/ARTISRJ5RkxRh97Nl20vQJKI260520.shtml)
+
++ [法国拟在2030年前累计增加360亿欧元军费](https://news.cctv.com/2026/05/20/ARTInZjKZeB5XlgGNImjp88T260520.shtml)
+
++ [以色列高层评估认为美方仍倾向对伊重启军事行动](https://news.cctv.com/2026/05/20/ARTIDnGvsimz1XeUEKta3x8U260520.shtml)
+
++ [苏丹一市场遭无人机袭击致28人死亡](https://news.cctv.com/2026/05/20/ARTITAzpYKj3nMtGgGPTJ71C260520.shtml)
+
