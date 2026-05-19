@@ -125,3 +125,5 @@
 
 + [VS Code 接入主流大模型辅助编程对比：Codex、Claude Code、GitHub Copilot、DeepSeek V4、Gemini、Cursor 怎么选？](https://blog.csdn.net/m0_58954356/article/details/161202512)
 
++ [【Qt】系统相关（十二）QSound播放音频文件，小结](https://blog.csdn.net/2301_80751958/article/details/161146679)
+
