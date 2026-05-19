@@ -31,3 +31,27 @@
 
 + [plausible/analytics](https://github.com/plausible/analytics)
 
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
++ [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
+
++ [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+
++ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
++ [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+
++ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+
++ [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+
++ [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
++ [pascalorg/editor](https://github.com/pascalorg/editor)
+
++ [frappe/erpnext](https://github.com/frappe/erpnext)
+
++ [HKUDS/ViMax](https://github.com/HKUDS/ViMax)
+

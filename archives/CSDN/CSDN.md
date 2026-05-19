@@ -193,3 +193,11 @@
 
 + [【必记】2026年 {论文题} ｜范文记忆提纲 → 规划 & 团队绩效域](https://blog.csdn.net/weixin_42115157/article/details/161197152)
 
++ [深度学习实战-基于EfficientNet的黑色素瘤癌症图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159650797)
+
++ [【GaussDB】基于SpringBoot实现操作GaussDB(DWS)的项目实战](https://blog.csdn.net/GaussDB/article/details/161227019)
+
++ [彻底告别Row-By-Row：标量子查询外连接改写与向量化引擎深潜](https://blog.csdn.net/2302_78391795/article/details/160956578)
+
++ [Agent学习----Agent的三种设计范式](https://blog.csdn.net/2501_92114475/article/details/161171039)
+

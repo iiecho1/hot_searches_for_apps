@@ -181,3 +181,5 @@
 
 + [澳大利亚恐暴发几十年来最严重白喉疫情](https://news.cctv.com/2026/05/19/ARTIdZd3AFMjQSiSUEOoHDog260519.shtml)
 
++ [泰国内阁决定取消60天免签政策](https://news.cctv.com/2026/05/19/ARTISShlacZkwEIDY2m3kjYC260519.shtml)
+
