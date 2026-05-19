@@ -27,3 +27,15 @@
 
 + [给经常口腔溃疡的朋友们一个参考](https://www.v2ex.com/t/1213560)
 
++ [[开放注册] 一个真正一目了然的自建 Codex 中转站](https://www.v2ex.com/t/1213699)
+
++ [感冒还没有好， 4、500 元 已经没了。](https://www.v2ex.com/t/1213688)
+
++ [冲动跟风也建了 codex api 中转站，但没有客户~免费送 30 刀余额。](https://www.v2ex.com/t/1213768)
+
++ [“万 1 免 5”a 股券商低门槛开户最后的绝唱！这周抽金华火腿！](https://www.v2ex.com/t/1213668)
+
++ [家用 nas 能干嘛？](https://www.v2ex.com/t/1213536)
+
++ [[免费蹬 Opus 4.7 ] 回帖送 100 美金 Claude Code API 额度，限时 3 天](https://www.v2ex.com/t/1213790)
+

@@ -145,3 +145,33 @@
 
 + [ComfyUI：为什么说它是 AIGC 应用层面的集大成者？](https://blog.csdn.net/u014451778/article/details/161172619)
 
++ [【HarmonyOS 6.0】Enterprise Data Guard Kit：新增获取重置锁屏密码的企业恢复密钥能力详解](https://blog.csdn.net/weixin_74809706/article/details/160991735)
+
++ [Spring AI + Ollama 深度实战：从 RAG 问答到 Graph Agent 全流程指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161199169)
+
++ [鸿蒙 PC 性能优化实战：从卡顿到丝滑](https://blog.csdn.net/qq_36478920/article/details/161204194)
+
++ [3个致命错误，为什么你的C#服务化业务流程总在“半途而废“？](https://blog.csdn.net/z_344791576/article/details/151763779)
+
++ [一个查询，无限 Elasticsearch Serverless 项目：跨项目搜索介绍](https://blog.csdn.net/UbuntuTouch/article/details/161206368)
+
++ [微信小程序案例——【个人中心】](https://blog.csdn.net/qq_40744237/article/details/160962447)
+
++ [一条命令搞定 mysql_exporter 部署，Shell 脚本把重复配置这件事自动化了](https://blog.csdn.net/user340/article/details/161188508)
+
++ [Learn Claude04 :Skill Loading 如何让 Agent 不被知识撑爆](https://blog.csdn.net/2301_80956187/article/details/161204184)
+
++ [HarmonyOS APP＜＜古今职鉴定＞＞开源教程第13篇：隔空投送：ShareKit 分享服务](https://blog.csdn.net/ldc121xy716/article/details/160971220)
+
++ [NoteTool在上下文工程中的角色——HelloAgents深度解析](https://blog.csdn.net/2401_87961121/article/details/161197319)
+
++ [liunx之库的原理，核心是静态库(2)](https://blog.csdn.net/feng_wu_ying_li/article/details/161125183)
+
++ [计算机网络 | 第二章物理层](https://blog.csdn.net/2402_88777742/article/details/161206550)
+
++ [2026 年 5 月中旬网络安全深度预警：高危漏洞集中爆发、零日攻击常态化，企业面临多重安全挑战](https://blog.csdn.net/2601_95700725/article/details/161144519)
+
++ [网络入侵防御系统（IPS）：从被动防御到主动拦截的网络安全革命](https://blog.csdn.net/2402_88096536/article/details/161202982)
+
++ [2026远程协作工具怎么选？ToDesk/向日葵/AnyViewer多人操控能力横评](https://blog.csdn.net/2301_76147196/article/details/161200378)
+

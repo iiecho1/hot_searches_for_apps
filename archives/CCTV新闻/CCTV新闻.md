@@ -171,3 +171,11 @@
 
 + [刚果（金）埃博拉疫情扩散 116例疑似病例死亡](https://news.cctv.com/2026/05/19/ARTIKnBIIeI1GkPZpH88o5iS260519.shtml)
 
++ [美媒称中东多国领导人希望美国暂缓打击伊朗](https://news.cctv.com/2026/05/19/ARTInk63dBRftP3DptpXxY5Z260519.shtml)
+
++ [印尼军方接收法国“阵风”战斗机等大批装备](https://news.cctv.com/2026/05/19/ARTIvp5WRR6elVM0BiHoaAg2260519.shtml)
+
++ [美国再次延长对俄石油制裁豁免期限](https://news.cctv.com/2026/05/19/ARTIb4ga1NUKvr0zOWKHSJDq260519.shtml)
+
++ [印度首都或将遭遇45摄氏度高温](https://news.cctv.com/2026/05/19/ARTIAy8SOxAcgEJn66fNbh8r260519.shtml)
+
