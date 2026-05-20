@@ -45,3 +45,17 @@
 
 + [雷军点赞小米汽车首席测试车手任周灿，称 SUV 在纽北刷圈很难](https://m.ithome.com/html/952184.htm)
 
++ [旗舰平板芯时隔多年首次公开：华为 MatePad Pro Max 官宣至高搭载 Kirin T93 Pro 处理器](https://m.ithome.com/html/952955.htm)
+
++ [大裁员前夕：Meta 员工疯狂“薅羊毛”，用福利买苹果耳机、塞零食](https://m.ithome.com/html/952611.htm)
+
++ [中美经贸合作最新进展：中国将引进 200 架波音飞机，美方保障充足发动机、零部件供应](https://m.ithome.com/html/952701.htm)
+
++ [消息称华为 Pura X Max 横阔折手机销量已破 25 万，更贵的典藏版卖得更多](https://m.ithome.com/html/952788.htm)
+
++ [终于要来了：曝华为手机鸿蒙 HarmonyOS 6 应用音量单独调节功能正在适配，各机型逐步上线](https://m.ithome.com/html/953023.htm)
+
++ [小米 17 Max 手机跑分曝光：高通第五代骁龙 8 至尊版芯片 +16GB 内存](https://m.ithome.com/html/952791.htm)
+
++ [告别验证码：微信 iOS 版灰度测试“用本机号码登录”功能](https://m.ithome.com/html/952560.htm)
+

@@ -157,3 +157,7 @@
 
 + [卡桑旅确认其指挥官哈达德在以色列袭击中丧生](https://news.cctv.com/2026/05/17/ARTICkJChfCezOV6Ykab60FA260517.shtml)
 
++ [美国起诉古巴革命领袖劳尔·卡斯特罗](https://news.cctv.com/2026/05/21/ARTIfK4IEsnmPizOlfRbMEz6260520.shtml)
+
++ [中亚首条全自动无人驾驶轻轨在哈萨克斯坦正式通车](https://news.cctv.com/2026/05/16/ARTIbLka0nxl83qNGAAckHIb260516.shtml)
+
