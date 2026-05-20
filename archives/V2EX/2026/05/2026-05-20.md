@@ -51,3 +51,5 @@
 
 + [外科专硕毕业，看不到希望](https://www.v2ex.com/t/1213948)
 
++ [自用 OpenAI API 中转，邀 同行分摊成本 🤡 🤡 🤡](https://www.v2ex.com/t/1214094)
+

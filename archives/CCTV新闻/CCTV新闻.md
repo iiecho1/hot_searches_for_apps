@@ -183,3 +183,11 @@
 
 + [习近平将举行仪式欢迎俄罗斯总统普京访华](https://news.cctv.com/2026/05/20/ARTIdtjHRK2tzzutd1EKtBB9260520.shtml)
 
++ [菲律宾一架轻型飞机坠毁 机上载有两名空军人员](https://news.cctv.com/2026/05/20/ARTIUTyW8gQ2WgvORaK9TfCz260520.shtml)
+
++ [2026非洲核能创新峰会呼吁加强投资推动能源转型](https://news.cctv.com/2026/05/20/ARTISRUNvOkAqHWSTY9pUuBk260520.shtml)
+
++ [印度北方部分地区气温达48摄氏度](https://news.cctv.com/2026/05/20/ARTIlZRZxq7NFwKZkHq2Tnlz260520.shtml)
+
++ [土耳其发生5.5级地震，震源深度10千米](https://news.cctv.com/2026/05/20/ARTIxPA62rZcbyu7aZsa4I1G260520.shtml)
+

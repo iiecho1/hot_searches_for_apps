@@ -151,3 +151,19 @@
 
 + [125-基于Flask的客户购物偏好数据可视化分析系统](https://blog.csdn.net/qq_53846367/article/details/161203877)
 
++ [《指标中转站：Pushgateway 如何把监控覆盖到这些原本看不见的角落》](https://blog.csdn.net/Dovis5884/article/details/161225843)
+
++ [ROS开发专栏---ROS2系统架构简介及Gazebo 仿真平台搭建---适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161144032)
+
++ [Resilience4j- 与 Sentinel 对比：企业级架构下的框架选型与落地实践](https://blog.csdn.net/qq_41187124/article/details/157544683)
+
++ [ToDesk vs 飞书/企微/Zoom：多人同时控制一台电脑，谁更好用？](https://blog.csdn.net/weixin_66401877/article/details/161232665)
+
++ [【C++ AI 大模型接入 SDK】 - LLMProvider 抽象基类与策略模式](https://blog.csdn.net/2401_86326742/article/details/161227861)
+
++ [Grok 4.3与未来展望——智能体时代的Grok与AI安全新范式](https://blog.csdn.net/nmdbbzcl/article/details/161226671)
+
++ [计算机网络中的 TTL：从 IP 到 DNS 的全面解析](https://blog.csdn.net/guigenyi/article/details/161234435)
+
++ [全面解析 AI 大模型中的 Prompt](https://blog.csdn.net/2503_94545876/article/details/161231314)
+
