@@ -61,3 +61,7 @@
 
 + [一个视频教会你正式服团本神牧治疗手法！](https://m.acfun.cn/v/?ac=48539548)
 
++ [【东方/汉化】亚洲人的买单胜负欲【兔纸汉化组/MMD再现动画】](https://m.acfun.cn/v/?ac=48536081)
+
++ [AOA Bing Bing](https://m.acfun.cn/v/?ac=48538761)
+

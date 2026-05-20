@@ -101,3 +101,25 @@
 
 + [TVA驱动智能家居的视觉范式革命（5）](https://blog.csdn.net/2501_94287723/article/details/161238520)
 
++ [鸿蒙 PC 性能优化实战：从卡顿到丝滑](https://blog.csdn.net/qq_36478920/article/details/161204194)
+
++ [AI 不只是聊天框：鸿蒙 App 新入口](https://blog.csdn.net/qq_36863796/article/details/161204072)
+
++ [SpringBoot + Redis 电商秒杀完整方案](https://blog.csdn.net/qq_33807380/article/details/161202723)
+
++ [linux之库的原理，动态库(3)](https://blog.csdn.net/feng_wu_ying_li/article/details/161180774)
+
++ [SystemVerilog语法(8)-有限状态机（FSM）](https://blog.csdn.net/qq_38773137/article/details/161055717)
+
++ [【必记】2026年 {论文题} ｜范文记忆提纲 → 整合管理 & 质量管理](https://blog.csdn.net/weixin_42115157/article/details/161242429)
+
++ [藏在TCP握手里的暗号：一种基于序列号触发的加密回连后门](https://blog.csdn.net/chen1415886044/article/details/161234367)
+
++ [[ 计算机网络 | 第三章 ] 数据链路层 01](https://blog.csdn.net/2402_88777742/article/details/161238626)
+
++ [MindWord：像画图一样写文档，让结构化写作回归直觉](https://blog.csdn.net/weixin_44002151/article/details/161265631)
+
++ [通义灵码更名Qoder CN：产品线重构、Credits计费机制详解与实际体验评测](https://blog.csdn.net/hanzhixintianxia/article/details/161263361)
+
++ [通义千问重磅新模型预告：5月20日阿里云峰会，国产大模型新格局深度解析](https://blog.csdn.net/xyghehehehe/article/details/161233198)
+
