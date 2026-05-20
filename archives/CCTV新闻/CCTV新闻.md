@@ -169,3 +169,17 @@
 
 + [委内瑞拉宣布本周将根据《民主共存大赦法案》释放300人](https://news.cctv.com/2026/05/20/ARTI6OyHJxgyIJ3hFvS5i0i8260520.shtml)
 
++ [国际媒体评论日本右翼在修宪问题上欲盖弥彰 “回避并非放弃图谋”](https://news.cctv.com/2026/05/20/ARTI1kqi26G9VU6l7wtYh9rS260520.shtml)
+
++ [英国格伦费尔大楼火灾近十年后 预计数十人将受刑事指控](https://news.cctv.com/2026/05/20/ARTIxk0bGfYcRwTQEThdpa1Y260520.shtml)
+
++ [日本宫城县女川核电站2号机组恢复发电](https://news.cctv.com/2026/05/20/ARTIdfMPF61X4QwtuJqyksTB260520.shtml)
+
++ [美国中央司令部：美军正继续全面执行针对伊朗的海上封锁行动](https://news.cctv.com/2026/05/20/ARTI5Bgn1Tm5zWlYEh1wT1tu260520.shtml)
+
++ [苏丹一人员密集市场遭无人机袭击 已致28人死亡](https://news.cctv.com/2026/05/20/ARTI0yDwJi5f5fpFeLwY5sVw260520.shtml)
+
++ [军购被“砍单” 马来西亚向挪威索赔逾2.5亿美元](https://news.cctv.com/2026/05/20/ARTIUJclHXfzw1ah4bGrRMKI260520.shtml)
+
++ [习近平将举行仪式欢迎俄罗斯总统普京访华](https://news.cctv.com/2026/05/20/ARTIdtjHRK2tzzutd1EKtBB9260520.shtml)
+

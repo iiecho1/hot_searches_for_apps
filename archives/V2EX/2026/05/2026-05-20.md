@@ -35,3 +35,19 @@
 
 + [Antigravity 更新了，引入了 Gemini 3.5 Flash，更新的不像 vscode 了](https://www.v2ex.com/t/1213965)
 
++ [HyperAPI 又来了，废话不多说直接开送](https://www.v2ex.com/t/1214001)
+
++ [你吃过哪些零食是爱不释手的？来分享一下！](https://www.v2ex.com/t/1213980)
+
++ [继续推广我的 gpt 中转站，注册就送 28.8$余额](https://www.v2ex.com/t/1214019)
+
++ [[Relay AI] ChatGPT / Codex API 网关试运营开放：注册 $10 + 回帖 $10 + 加群 $10](https://www.v2ex.com/t/1213914)
+
++ [分享一个自己做的 SSH 桌面工具， macOS / Windows / Linux 都能用 [送码]](https://www.v2ex.com/t/1213996)
+
++ [大家都是怎么判断中转站安全性呢？](https://www.v2ex.com/t/1213987)
+
++ [家中次子养老困惑 求解](https://www.v2ex.com/t/1213842)
+
++ [外科专硕毕业，看不到希望](https://www.v2ex.com/t/1213948)
+

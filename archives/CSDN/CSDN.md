@@ -133,3 +133,21 @@
 
 + [科技早报｜2026年5月19日：AI 编码开始补 SDK、API 和审计链路](https://blog.csdn.net/x1131230123/article/details/161206091)
 
++ [AI 不只是聊天框：鸿蒙 App 新入口](https://blog.csdn.net/qq_36863796/article/details/161204072)
+
++ [新能源汽车研发必藏｜VS Code + Python 自动化数据分析与报告生成实战模板](https://blog.csdn.net/weixin_62244995/article/details/161146276)
+
++ [【Linux系统加餐】从原理到实战：System V消息队列全解析 + 基于责任链模式的工业级封装](https://blog.csdn.net/2503_91389547/article/details/160826784)
+
++ [第 1 节：MVC + DataTable 百万数据秒加载 —— 企业级服务端分页实战](https://blog.csdn.net/William_cl/article/details/161171759)
+
++ [【Qt】界面优化（一）QSS的介绍与基本使用，样式与代码分离](https://blog.csdn.net/2301_80751958/article/details/161169321)
+
++ [企业数字化转型第一步：从 Excel 到 OA 系统的迁移路线图](https://blog.csdn.net/zhouzhongyan/article/details/161238841)
+
++ [告别cron脚本维护：用Agent Swarm实现智能定时任务调度](https://blog.csdn.net/sinat_41617212/article/details/161235456)
+
++ [[ 计算机网络 | 第一章 ] 概述](https://blog.csdn.net/2402_88777742/article/details/161171797)
+
++ [125-基于Flask的客户购物偏好数据可视化分析系统](https://blog.csdn.net/qq_53846367/article/details/161203877)
+
