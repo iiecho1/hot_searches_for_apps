@@ -37,3 +37,17 @@
 
 + [HKUDS/ViMax](https://github.com/HKUDS/ViMax)
 
++ [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
++ [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+
++ [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)
+
++ [truelockmc/streambert](https://github.com/truelockmc/streambert)
+
++ [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)
+
++ [zakirullin/files.md](https://github.com/zakirullin/files.md)
+
++ [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+
