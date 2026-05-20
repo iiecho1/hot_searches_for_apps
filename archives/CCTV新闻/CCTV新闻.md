@@ -167,3 +167,5 @@
 
 + [苏丹一市场遭无人机袭击致28人死亡](https://news.cctv.com/2026/05/20/ARTITAzpYKj3nMtGgGPTJ71C260520.shtml)
 
++ [委内瑞拉宣布本周将根据《民主共存大赦法案》释放300人](https://news.cctv.com/2026/05/20/ARTI6OyHJxgyIJ3hFvS5i0i8260520.shtml)
+

@@ -127,3 +127,9 @@
 
 + [【Qt】系统相关（十二）QSound播放音频文件，小结](https://blog.csdn.net/2301_80751958/article/details/161146679)
 
++ [【AI Agent 全栈开发】RAG(检索增强生成)](https://blog.csdn.net/optimistic_chen/article/details/160890359)
+
++ [通义千问重磅新模型预告：5月20日阿里云峰会，国产大模型新格局深度解析](https://blog.csdn.net/xyghehehehe/article/details/161233198)
+
++ [科技早报｜2026年5月19日：AI 编码开始补 SDK、API 和审计链路](https://blog.csdn.net/x1131230123/article/details/161206091)
+

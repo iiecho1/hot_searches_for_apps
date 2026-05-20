@@ -49,3 +49,19 @@
 
 + [雷军点赞小米汽车首席测试车手任周灿，称 SUV 在纽北刷圈很难](https://m.ithome.com/html/952184.htm)
 
++ [腾势全球代言人王力宏证实：代言费全数购买比亚迪股票是真的](https://m.ithome.com/html/952036.htm)
+
++ [16+1T 3999 元：REDMI K90 Pro Max 手机直降，骁龙 8 Gen5 至尊版 + Bose 调音](https://m.ithome.com/html/952034.htm)
+
++ [消息称小米汽车为“寻天”引入新的电池供应商](https://m.ithome.com/html/952029.htm)
+
++ [腾讯音乐：收购事项完成，喜马拉雅已成为公司全资附属公司](https://m.ithome.com/html/951960.htm)
+
++ [比亚迪腾势 N9 闪充版 SUV 上市：CLTC 纯电续航 420km，40.98 万元起](https://m.ithome.com/html/952022.htm)
+
++ [华为小艺简报功能在老机型回归，Mate 70 / 60 等系列逐步放开可用](https://m.ithome.com/html/952005.htm)
+
++ [Win11 系统 C 盘多出神秘安全启动文件夹，微软称无需删除](https://m.ithome.com/html/952032.htm)
+
++ [红魔 11S Pro 系列手机发布：行业唯一风水双冷散热、第五代骁龙 8 至尊领先版，5499 元起](https://m.ithome.com/html/951889.htm)
+

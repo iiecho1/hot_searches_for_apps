@@ -23,3 +23,15 @@
 
 + [简单稳定的 codex 中转， 0.12 倍率，送 10 刀额度](https://www.v2ex.com/t/1213741)
 
++ [Google 落户广州了，终于回来了](https://www.v2ex.com/t/1213716)
+
++ [自用 Codex 站（今天继续福利分组--5.20）](https://www.v2ex.com/t/1213981)
+
++ [RTX 5060 Ti 买 8G 还是 16G，现在还是等到 618 买呢？](https://www.v2ex.com/t/1213719)
+
++ [对于目前的关于 ai 的看法和感受](https://www.v2ex.com/t/1213763)
+
++ [如何说服媳妇儿把 [投资房] 卖掉](https://www.v2ex.com/t/1213735)
+
++ [Antigravity 更新了，引入了 Gemini 3.5 Flash，更新的不像 vscode 了](https://www.v2ex.com/t/1213965)
+
