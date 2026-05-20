@@ -161,3 +161,7 @@
 
 + [中亚首条全自动无人驾驶轻轨在哈萨克斯坦正式通车](https://news.cctv.com/2026/05/16/ARTIbLka0nxl83qNGAAckHIb260516.shtml)
 
++ [美法院大陪审团同意起诉劳尔·卡斯特罗](https://news.cctv.com/2026/05/21/ARTItgDJeqkYAGLFVLElEaRh260521.shtml)
+
++ [古巴国家主席：美国所谓“指控”出于政治动机 愈加暴露其挫败感](https://news.cctv.com/2026/05/21/ARTIbrySFYImf57JDrSQ9Wsh260521.shtml)
+
