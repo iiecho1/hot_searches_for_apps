@@ -23,3 +23,15 @@
 
 + [520 大家今天怎么过？](https://www.v2ex.com/t/1214048)
 
++ [兄弟们，被裁员了，如果不上班了大家都想干点啥](https://www.v2ex.com/t/1214091)
+
++ [小米 17 与苹果 17 如何选择？](https://www.v2ex.com/t/1214075)
+
++ [条件不好，找不到对象，是不是该彻底不婚主义](https://www.v2ex.com/t/1214290)
+
++ [看选苹果还是选小米有感，十年米粉转黑](https://www.v2ex.com/t/1214200)
+
++ [纯 esim 的手机在中国大陆使用怎么样？](https://www.v2ex.com/t/1214042)
+
++ [纯 plus/pro 号池 gpt5.5 新建中转站需要测试一下并发压力 www.aigcwe.com](https://www.v2ex.com/t/1214288)
+
