@@ -189,3 +189,17 @@
 
 + [Vue Native多分支迭代，Vue跨端原生生态迎来革新](https://blog.csdn.net/xfy196/article/details/161224501)
 
++ [3个致命错误，为什么你的C#服务化业务流程总在“半途而废“？](https://blog.csdn.net/z_344791576/article/details/151763779)
+
++ [标量子查询消除与向量化：一个被低估的协同效应](https://blog.csdn.net/qq_32682301/article/details/161266987)
+
++ [电感耦合（CUK）电源反向工作原理](https://blog.csdn.net/zhuoqingjoking97298/article/details/161286833)
+
++ [ROCm赋能，智算未来：AMD GPU驱动AI开发全链路革新与实战落地](https://blog.csdn.net/CC1991_/article/details/161266716)
+
++ [【Linux 网络】一文读懂 HTTP 协议](https://blog.csdn.net/is_ko_nois_ko/article/details/161263678)
+
++ [Co-IP/MS：蛋白免疫共沉淀质谱分析服务](https://blog.csdn.net/2502_91819841/article/details/161240879)
+
++ [Codex cli 分屏并行运行](https://blog.csdn.net/qq_43811536/article/details/161263527)
+

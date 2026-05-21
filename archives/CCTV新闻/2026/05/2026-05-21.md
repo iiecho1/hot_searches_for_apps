@@ -175,3 +175,9 @@
 
 + [阿联酋绕霍尔木兹海峡输油管道建设完成近半](https://news.cctv.com/2026/05/21/ARTIytwl9HB7qwlvh832dIWC260521.shtml)
 
++ [巴基斯坦总统：巴方坚定奉行一个中国原则](https://news.cctv.com/2026/05/21/ARTIwspO3DyzymADWDGHwgcD260521.shtml)
+
++ [报告显示去年中国成为德国最大外资项目来源国](https://news.cctv.com/2026/05/21/ARTIklL5sk1g165JzBReiyPz260521.shtml)
+
++ [世界杯进入倒计时！揭幕战主场馆亮相](https://news.cctv.com/2026/05/21/ARTIpzoZBiGV51X8hd1L3PVD260521.shtml)
+

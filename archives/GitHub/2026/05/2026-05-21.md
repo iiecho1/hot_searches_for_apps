@@ -37,3 +37,19 @@
 
 + [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
 
++ [dotnet/skills](https://github.com/dotnet/skills)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
++ [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
+
++ [antoinezambelli/forge](https://github.com/antoinezambelli/forge)
+
++ [multica-ai/multica](https://github.com/multica-ai/multica)
+
++ [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
++ [alireza0/s-ui](https://github.com/alireza0/s-ui)
+
++ [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+
