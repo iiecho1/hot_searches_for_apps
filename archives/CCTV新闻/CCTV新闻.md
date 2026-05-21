@@ -159,3 +159,5 @@
 
 + [哥伦比亚总统选举在即 两名竞选工作人员遭枪杀](https://news.cctv.com/2026/05/17/ARTIOY4XQxMPtciwZnurcg0i260517.shtml)
 
++ [美大使称特朗普放弃使用武力“接管”格陵兰岛](https://news.cctv.com/2026/05/22/ARTIUyvTS5TjBur8TPxxQheo260522.shtml)
+

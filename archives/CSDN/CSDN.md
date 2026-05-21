@@ -137,3 +137,5 @@
 
 + [域名解析修改后，用户仍访问旧IP？原因排查与高效解决指南](https://blog.csdn.net/weixin_53018687/article/details/161247929)
 
++ [从Row‑By‑Row到AI级推理：标量子查询消除如何重构数据库优化器大脑](https://blog.csdn.net/g310773517/article/details/161295200)
+

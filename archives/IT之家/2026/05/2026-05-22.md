@@ -25,3 +25,27 @@
 
 + [告别验证码：微信 iOS 版灰度测试“用本机号码登录”功能](https://m.ithome.com/html/952560.htm)
 
++ [特斯拉监督版 FSD 官宣登陆中国](https://m.ithome.com/html/953120.htm)
+
++ [小米 YU7 GT 正式发布：38.99 万元起，“大满配”42.99 万元](https://m.ithome.com/html/953623.htm)
+
++ [小米 17 Max 手机发布：8000mAh 电池、2 亿像素徕卡主摄，国补到手价 4299 元起](https://m.ithome.com/html/953605.htm)
+
++ [雷军豪言“再次挑战 Model Y”：小米 YU7 标准版发布，23.35 万元](https://m.ithome.com/html/953614.htm)
+
++ [腾讯张军官宣操作系统层级 AI 助手“马维斯”正式上工，Windows、Mac、安卓端同步上线](https://m.ithome.com/html/953096.htm)
+
++ [何小鹏：激光雷达是个好东西，但在汽车领域已不是必需](https://m.ithome.com/html/953222.htm)
+
++ [B站大会员年卡买一得二：赠 WPS 超级会员 156 元，赠京东 PLUS 会员 148 元预售](https://m.ithome.com/html/953115.htm)
+
++ [为鸿蒙 7.0 铺路：OpenHarmony 7.0 Beta1 现身，华为 HarmonyOS API26 版本已启开发者体验官招募](https://m.ithome.com/html/953274.htm)
+
++ [雷军回应只公布锁单数据：去年小米 YU7 三分钟大定超过 20 万辆，行业没有人信，觉得数据有问题](https://m.ithome.com/html/953652.htm)
+
++ [小米手环 10 Pro 发布：支持苹果生态、游戏模式，首销 399 元起](https://m.ithome.com/html/953607.htm)
+
++ [比亚迪第三代元 PLUS 上市：二代刀片电池 + 闪充、可选天神之眼 B，售价 11.99 万元起](https://m.ithome.com/html/953618.htm)
+
++ [雷军介绍 YU7 GT 主要负责人，称小米汽车去年就开始实施项目管理铁三角制度](https://m.ithome.com/html/953278.htm)
+
