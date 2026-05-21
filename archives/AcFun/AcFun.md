@@ -69,3 +69,5 @@
 
 + [[MV] TAK - ‘numb numb’ feat. 初音ミク、重音テト](https://m.acfun.cn/v/?ac=48540876)
 
++ [维斯特洛迎来了它的燕云十六声《权力的游戏：国王大道》](https://m.acfun.cn/v/?ac=48544048)
+
