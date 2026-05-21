@@ -167,3 +167,11 @@
 
 + [巴西颁布两项法令加强平台监督 提升网络安全](https://news.cctv.com/2026/05/21/ARTIv0PB0gxTf6KY0yWczHWE260521.shtml)
 
++ [菲司法部指示警方和调查局执行对参议员德拉罗萨的逮捕令](https://news.cctv.com/2026/05/21/ARTIbVJHctw4O3IAnemAZSy6260521.shtml)
+
++ [英国宣布与海合会达成贸易协议](https://news.cctv.com/2026/05/21/ARTIPZT8wNln3rQfYsG1DExu260521.shtml)
+
++ [伊朗外交部称“正在评估”美方最新谈判意见](https://news.cctv.com/2026/05/21/ARTIh7A7zOaC5Ah07wxb4S5w260521.shtml)
+
++ [阿联酋绕霍尔木兹海峡输油管道建设完成近半](https://news.cctv.com/2026/05/21/ARTIytwl9HB7qwlvh832dIWC260521.shtml)
+

@@ -137,3 +137,35 @@
 
 + [【iOS】Spotify项目总结](https://blog.csdn.net/2401_87841908/article/details/161229337)
 
++ [AI接入指南：从API到本地部署全解析](https://blog.csdn.net/2401_86275172/article/details/161057519)
+
++ [ToDesk协作版测评：从远程控制到多人协同，这次更新到底实不实用？](https://blog.csdn.net/CaracalTiger/article/details/161254590)
+
++ [【AI Agent 全栈开发】MCP](https://blog.csdn.net/optimistic_chen/article/details/160534722)
+
++ [GPT 5.5 Thinking深度思考了十几分钟，给我挖了一个排查一周的并发大坑](https://blog.csdn.net/guorui_java/article/details/161274790)
+
++ [PyTorch强化学习实战——Atari游戏包装器](https://blog.csdn.net/LOVEmy134611/article/details/157761735)
+
++ [【花雕学编程】Arduino BLDC 之机器人三重冗余应急处理与状态机安全系统](https://blog.csdn.net/weixin_41659040/article/details/161269725)
+
++ [【SpringBoot 3.x 第187节】灵魂大拷问：缓存一致性是删缓存还是更新缓存？](https://blog.csdn.net/weixin_43970743/article/details/160153133)
+
++ [【Linux网络】Linux 网络编程：HTTP（四）从手写服务器到生产级 Nginx 与 cpp-httplib 实战](https://blog.csdn.net/2401_89899187/article/details/161212551)
+
++ [鸿蒙支付模块构建：快捷充值选项与缴费记录的时间线设计](https://blog.csdn.net/weixin_52908342/article/details/161265770)
+
++ [【Nginx】Nginx Gzip 压缩实战指南：原理、配置与性能边界](https://blog.csdn.net/qq_21383435/article/details/154877135)
+
++ [Modules功能模块体系](https://blog.csdn.net/qq_41375318/article/details/161276604)
+
++ [Highcharts 不规则时间间隔数据可视化实战指南](https://blog.csdn.net/Aaroncoo/article/details/161240295)
+
++ [日志分析 Elasticsearch 和 logstach.filebeat. ](https://blog.csdn.net/2603_94880596/article/details/161225444)
+
++ [鸿蒙×Flutter首发实战｜我为什么写这本《鸿蒙Flutter开发实战》](https://blog.csdn.net/qq_39132095/article/details/161259238)
+
++ [【案例学习】黑帽大会 BingBang 案例复盘：Azure AD 配置失误攻陷 Bing](https://blog.csdn.net/qq_40037555/article/details/161229420)
+
++ [新书速览|信息与通信工程综合实验:自动目标识别专题](https://blog.csdn.net/quanzhankaifaqua/article/details/161193290)
+
