@@ -169,3 +169,23 @@
 
 + [新书速览|信息与通信工程综合实验:自动目标识别专题](https://blog.csdn.net/quanzhankaifaqua/article/details/161193290)
 
++ [人工智能日报 每日AI新闻（2026年5月21日）：Anthropic扩大企业与公共议题布局，OpenAI再谈数学突破，Google把AI继续推向邮箱与设计工作流](https://blog.csdn.net/weixin_72648764/article/details/161270448)
+
++ [截胡算力、吞吃工具链、吸纳Karpathy：Anthropic如何围剿OpenAI？](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/161240023)
+
++ [电脑硬盘好坏一眼看穿，免费检测工具太实用了](https://blog.csdn.net/2403_89245059/article/details/161225917)
+
++ [Langchain的学习（一）](https://blog.csdn.net/nplplus/article/details/160935593)
+
++ [MySQL基本查询](https://blog.csdn.net/2601_95175861/article/details/161271536)
+
++ [【必记】2026年 {论文题} ｜范文记忆提纲 → 规划 & 团队绩效域](https://blog.csdn.net/weixin_42115157/article/details/161197152)
+
++ [从零上手地平线 OE 工具链：YOLOv3 的 PTQ 量化与精度验证](https://blog.csdn.net/weixin_43719763/article/details/161238647)
+
++ [双生进化论：为什么说 AI 正在重构软件开发范式？](https://blog.csdn.net/qq_44809804/article/details/161235375)
+
++ [防火墙 IP 分片测试套件-fragroute](https://blog.csdn.net/dangdanding/article/details/161251058)
+
++ [Vue Native多分支迭代，Vue跨端原生生态迎来革新](https://blog.csdn.net/xfy196/article/details/161224501)
+

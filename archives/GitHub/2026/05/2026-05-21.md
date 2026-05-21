@@ -35,3 +35,5 @@
 
 + [HKUDS/ViMax](https://github.com/HKUDS/ViMax)
 
++ [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+
