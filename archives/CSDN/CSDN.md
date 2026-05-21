@@ -101,3 +101,37 @@
 
 + [【必记】2026年 {论文题} ｜范文记忆提纲 → 整合管理 & 质量管理](https://blog.csdn.net/weixin_42115157/article/details/161242429)
 
++ [【Linux网络】Linux 网络编程：HTTP（三）HTTP 协议原理](https://blog.csdn.net/2401_89899187/article/details/161161746)
+
++ [【Blender】在这个一键生成的AI时代我们是否还要一步一步的学习3D建模](https://blog.csdn.net/2501_91731683/article/details/161265636)
+
++ [传统数字人 VS 魔珐星云具身数字人，为了么差了端到端交互能力区别这么大？](https://blog.csdn.net/liu_chen_yang/article/details/161292601)
+
++ [分布式能力在鸿蒙 PC 上到底怎么用？](https://blog.csdn.net/qq_36478920/article/details/161255912)
+
++ [云端延迟到端侧实时：数字交互能力跃迁](https://blog.csdn.net/2301_77509762/article/details/161293151)
+
++ [系统设计 012：从用户系统出发，吃透缓存、数据库与高并发设计](https://blog.csdn.net/2503_92624912/article/details/161293598)
+
++ [【Linux 网络】一文读懂 HTTP 协议](https://blog.csdn.net/is_ko_nois_ko/article/details/161263678)
+
++ [行业新趋势：官网数字人成标配，具身交互重构用户触达](https://blog.csdn.net/qq_34988304/article/details/161293792)
+
++ [linux之进程间通信，核心是匿名管道的原理与用匿名管道实现进程池的代码](https://blog.csdn.net/feng_wu_ying_li/article/details/161193932)
+
++ [Spring Boot 做 RAG 文档上传：为什么要用分布式信号量控制并发？](https://blog.csdn.net/qq_44716086/article/details/161228474)
+
++ [堡垒机：企业运维安全的“数字守门人“](https://blog.csdn.net/2402_88096536/article/details/161265554)
+
++ [从文字回复到具象交互：官网 Agent 的交互逻辑重构](https://blog.csdn.net/m0_52165864/article/details/161293179)
+
++ [数字供应链安全治理体系研究：从软件供应链到AI原生安全的演进与实践](https://blog.csdn.net/weixin_64810147/article/details/161256526)
+
++ [防火墙 IP 分片测试套件-fragroute](https://blog.csdn.net/dangdanding/article/details/161251058)
+
++ [Codex cli 分屏并行运行](https://blog.csdn.net/qq_43811536/article/details/161263527)
+
++ [腾讯 Marvis（马维斯）完整使用教程（2026 最新版）](https://blog.csdn.net/weixin_44092861/article/details/161278597)
+
++ [一文看懂 HTTP 协议的进化之路](https://blog.csdn.net/qq_16672095/article/details/161261319)
+
