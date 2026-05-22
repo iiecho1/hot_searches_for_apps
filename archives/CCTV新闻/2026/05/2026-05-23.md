@@ -169,3 +169,5 @@
 
 + [沃什宣誓就任美联储主席](https://news.cctv.com/2026/05/23/ARTIg7DpyZ5ydqgr9p1qo6Oj260523.shtml)
 
++ [印度部分地区气温高达48.2摄氏度 电力负荷连创历史新高](https://news.cctv.com/2026/05/23/ARTIuJwUWwjJvQxdjZ88MlU0260522.shtml)
+
