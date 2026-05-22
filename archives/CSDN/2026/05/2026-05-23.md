@@ -101,3 +101,37 @@
 
 + [Slang 和 HLSL 的区别与用法详解：现代图形渲染中的两种 Shader 编程语言](https://blog.csdn.net/wang1290865309/article/details/161290059)
 
++ [深耕 Harness 工程，解锁 AI Agent 开发之路](https://blog.csdn.net/CC1991_/article/details/161266900)
+
++ [2026时序数据库选型指南：为什么Apache IoTDB成为工业物联网首选](https://blog.csdn.net/weixin_37800531/article/details/161310570)
+
++ [【SpringBoot 3.x 第202节】微服务拆分方法论：什么时候该拆，什么时候不该拆？](https://blog.csdn.net/weixin_43970743/article/details/160168082)
+
++ [2026 电工杯数学建模 A 题参考答案](https://blog.csdn.net/qq_33690821/article/details/161319247)
+
++ [GitLab Runner docker pull 慢：并行流水线镜像拉取排查](https://blog.csdn.net/mliev/article/details/161239815)
+
++ [国产存储品牌实力排位赛，华为深信服浪潮三强争霸](https://blog.csdn.net/2601_96146993/article/details/161323001)
+
++ [Claude Code（Codex）中文提示词与英文提示词差异（RFC征求意见稿、ADR架构决策记录文档）Claude提示词、Codex提示词](https://blog.csdn.net/Dontla/article/details/161293609)
+
++ [【标准答案】2026 山东省数学建模 E题 基于方向场估计的图像处理模型及其应用](https://blog.csdn.net/a1552100455/article/details/161293654)
+
++ [Qoder vs Qoder CN：阿里云同门AI编程双雄，到底怎么选？](https://blog.csdn.net/qq_21982453/article/details/161271957)
+
++ [DISTINCT 去重查询为什么这么慢？聊聊我能理解的几种优化思路](https://blog.csdn.net/beautifulmemory/article/details/161227920)
+
++ [使用acme生成免费https泛域名证书（通配符证书）](https://blog.csdn.net/qq_24950043/article/details/161272701)
+
++ [计算机网络层次结构详解：从OSI七层模型到TCP/IP四层模型](https://blog.csdn.net/guigenyi/article/details/161291903)
+
++ [网页端嵌入 Agent 对接前端方案](https://blog.csdn.net/feng65536/article/details/161287428)
+
++ [130-基于Python的体育用品销售数据可视化分析系统](https://blog.csdn.net/qq_53846367/article/details/161294414)
+
++ [深入浅出IP协议：互联网的邮政系统](https://blog.csdn.net/2501_91839423/article/details/161316489)
+
++ [PromptCaching 工程实践：把LLM 调用成本砍掉80%](https://blog.csdn.net/cmzznet/article/details/161292534)
+
++ [2026山东省数学建模D题思路分享(附源码，论文)](https://blog.csdn.net/2501_90256046/article/details/161315870)
+
