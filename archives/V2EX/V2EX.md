@@ -21,3 +21,15 @@
 
 + [小朋友打生长激素问题请教](https://www.v2ex.com/t/1214430)
 
++ [有个问题我始终没有弄明白，如 claude 这样的模型，中国大陆 IP 不能访问](https://www.v2ex.com/t/1214381)
+
++ [有没有机场推荐的](https://www.v2ex.com/t/1214443)
+
++ [向微信输入法投降🏳️， 我再也不当嘉豪了](https://www.v2ex.com/t/1214457)
+
++ [ChatGPT Pro 20x 才是归宿](https://www.v2ex.com/t/1214414)
+
++ [很好奇 RAG 真的是现代 ai agent 所需要的吗，还有 langchian 这种框架，没有看到太多知名开源项目用到了](https://www.v2ex.com/t/1214405)
+
++ [Cursor 的 Debug 模式误删我 E 盘 921GB 文件](https://www.v2ex.com/t/1214556)
+

@@ -161,3 +161,9 @@
 
 + [美大使称特朗普放弃使用武力“接管”格陵兰岛](https://news.cctv.com/2026/05/22/ARTIUyvTS5TjBur8TPxxQheo260522.shtml)
 
++ [俄外交部：伊朗拥有和平发展核能的固有权利](https://news.cctv.com/2026/05/22/ARTItHslWa9tNBKzHyoSzb8c260522.shtml)
+
++ [特稿｜世界百年变局中的关键恒量——国际社会高度评价中俄关系迈上新起点](https://news.cctv.com/2026/05/22/ARTIHod526ycexHu2SxwtRYf260522.shtml)
+
++ [世界百年变局中的关键恒量——国际社会高度评价中俄关系迈上新起点](https://news.cctv.com/2026/05/22/ARTI7IrWkVTpPKAAT6zH2zIz260522.shtml)
+

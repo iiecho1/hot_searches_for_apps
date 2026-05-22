@@ -139,3 +139,15 @@
 
 + [从Row‑By‑Row到AI级推理：标量子查询消除如何重构数据库优化器大脑](https://blog.csdn.net/g310773517/article/details/161295200)
 
++ [第十五章：海纳百川——集成学习的高级策略与Stacking硬核实战](https://blog.csdn.net/htw250056/article/details/161293965)
+
++ [GaussDB(DWS) 资源监控Topsql](https://blog.csdn.net/GaussDB/article/details/161288651)
+
++ [Spring Boot + MyBatis-Plus 实现异常隔离的 Upsert 数据落库（含远程调用数据补全）](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161256602)
+
++ [深入理解 MySQL 索引：原理、分类与优化实战](https://blog.csdn.net/2503_94545876/article/details/161290656)
+
++ [Flutter 架构实践：从 0 到 1 构建智能眼镜应用](https://blog.csdn.net/Agg_bin/article/details/161290950)
+
++ [如何优化鸿蒙 App 的启动速度？](https://blog.csdn.net/qq_36863796/article/details/161292167)
+
