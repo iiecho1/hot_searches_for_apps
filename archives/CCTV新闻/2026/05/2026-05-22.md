@@ -167,3 +167,19 @@
 
 + [世界百年变局中的关键恒量——国际社会高度评价中俄关系迈上新起点](https://news.cctv.com/2026/05/22/ARTI7IrWkVTpPKAAT6zH2zIz260522.shtml)
 
++ [俄称卢甘斯克一学校遭乌无人机袭击 致三十余人受伤](https://news.cctv.com/2026/05/22/ARTIbFPFzS8r8iNaYVf2Dbvz260522.shtml)
+
++ [特朗普拟在首都建“凯旋门” 方案获批](https://news.cctv.com/2026/05/22/ARTI4Sbbnv7gnY18flHW72Zn260522.shtml)
+
++ [中东战事推升生活成本 英国推出“夏季省钱计划”](https://news.cctv.com/2026/05/22/ARTI4Qm28zxkVhoHYWpbKcDQ260522.shtml)
+
++ [第一观察·瞬间｜光影记录中俄友谊故事](https://news.cctv.com/2026/05/22/ARTIFTgYsFBEbPoZIWmkeIwT260522.shtml)
+
++ [集安组织成员国举行信息安全保障演习](https://news.cctv.com/2026/05/22/ARTILadq12Z0RNWEChLK25SD260522.shtml)
+
++ [遭总统李在明痛批 韩媒就涉华假新闻道歉](https://news.cctv.com/2026/05/22/ARTIdgcdFEOVTSLUQIM0C7CM260522.shtml)
+
++ [美一空军基地高爆炸药研发设施发生事故 2人受伤](https://news.cctv.com/2026/05/22/ARTIg3WRDxD1WJBk9Ql5beo0260522.shtml)
+
++ [中俄关系进入更有作为、更快发展的新阶段（和音）](https://news.cctv.com/2026/05/22/ARTIOTXQHOAjYIIYPZ1YTly7260522.shtml)
+

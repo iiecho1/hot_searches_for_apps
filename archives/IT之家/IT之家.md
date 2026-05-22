@@ -49,3 +49,17 @@
 
 + [雷军介绍 YU7 GT 主要负责人，称小米汽车去年就开始实施项目管理铁三角制度](https://m.ithome.com/html/953278.htm)
 
++ [小鹏 GX 旗舰 SUV 正式上市，限时折扣后 26.98 万-34.98 万元](https://m.ithome.com/html/953053.htm)
+
++ [iQOO 15T 手机发布：天玑 9500 Monster 芯 +8000mAh 电池，国补到手价 3299 元起](https://m.ithome.com/html/953033.htm)
+
++ [砺算科技 7G100 国产显卡创始版开启预约：12GB 售 3299 元](https://m.ithome.com/html/953047.htm)
+
++ [三星电子与工会达成共识：半导体部门 10.5% 营业利润作为绩效奖励发放，不设上限](https://m.ithome.com/html/953081.htm)
+
++ [华为鸿蒙 HarmonyOS API26 新版本来袭，面向开发者开放体验官招募](https://m.ithome.com/html/953024.htm)
+
++ [小米汽车：YU7 GT 标配全车四座按摩、智能调光天幕、超静谧座舱](https://m.ithome.com/html/953025.htm)
+
++ [小米汽车：跑纽北是为了验证车辆在各种极端环境中的稳定性，打磨各种弯道性能](https://m.ithome.com/html/953083.htm)
+

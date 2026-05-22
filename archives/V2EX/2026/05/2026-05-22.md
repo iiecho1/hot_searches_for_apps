@@ -33,3 +33,11 @@
 
 + [Cursor 的 Debug 模式误删我 E 盘 921GB 文件](https://www.v2ex.com/t/1214556)
 
++ [大家都用的什么代理软件](https://www.v2ex.com/t/1214608)
+
++ [用过马应龙的湿厕纸后，无法忍受普通的厕纸了](https://www.v2ex.com/t/1214566)
+
++ [腾讯文档裁员这么猛真的假的？](https://www.v2ex.com/t/1214594)
+
++ [如何消除 vibe code 产生的技术债？](https://www.v2ex.com/t/1214452)
+
