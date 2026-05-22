@@ -173,3 +173,23 @@
 
 + [PromptCaching 工程实践：把LLM 调用成本砍掉80%](https://blog.csdn.net/cmzznet/article/details/161292534)
 
++ [【HarmonyOS 6.0】Graphics Accelerate Kit：基于Vulkan的顶点标记技术](https://blog.csdn.net/weixin_74809706/article/details/161198863)
+
++ [【Web安全】-企业资产信息收集（1）：信息收集介绍，域名信息收集，主域名查询，ICP备案号查询，备案实体查询，工业和信息化部政务服务平台查询，怎样收集](https://blog.csdn.net/2401_83075246/article/details/161264931)
+
++ [数字人场景落地：企业展厅 / 指挥大屏从展示到服务](https://blog.csdn.net/m0_68111267/article/details/161292211)
+
++ [从静态展示到实时交互：数字人轻量化落地新范式](https://blog.csdn.net/qq_42055933/article/details/161293488)
+
++ [[鸿蒙三方库适配实战] 多媒体信息工具 MediaInfo CLI 的 OpenHarmony 平台迁移实践](https://blog.csdn.net/weixin_62765017/article/details/161293782)
+
++ [vue.js 设计与开发 ---路由](https://blog.csdn.net/xuankuxiaoyao/article/details/161052733)
+
++ [解锁.NET 11 新境：ASP.NET Core 10 在微服务安全通信的深化与实践](https://blog.csdn.net/dotnethello/article/details/161290748)
+
++ [Langchain的学习（二）](https://blog.csdn.net/nplplus/article/details/161257857)
+
++ [从单体到分布式：JWT 如何彻底改变 Web 认证系统](https://blog.csdn.net/2301_80168404/article/details/161288914)
+
++ [内网环境无法联网，如何实现本地IP查询？用IP离线库三步搞定](https://blog.csdn.net/IpdataCloud/article/details/161289574)
+

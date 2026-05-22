@@ -41,3 +41,15 @@
 
 + [如何消除 vibe code 产生的技术债？](https://www.v2ex.com/t/1214452)
 
++ [怎么没人讨论昨晚小米的 YU7 GT](https://www.v2ex.com/t/1214634)
+
++ [深圳电瓶车最近频繁被拍照罚款](https://www.v2ex.com/t/1214638)
+
++ [蔚来换电讨论](https://www.v2ex.com/t/1214689)
+
++ [自用 Neverun API 中转, Pro 号池，纯手工打造，欢迎鉴赏！](https://www.v2ex.com/t/1214609)
+
++ [时代落幕了，拉勾网主动申请破产了](https://www.v2ex.com/t/1214578)
+
++ [s11 到手，使用尾插已经激活全部功能](https://www.v2ex.com/t/1214641)
+
