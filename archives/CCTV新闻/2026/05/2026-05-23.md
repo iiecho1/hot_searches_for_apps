@@ -171,3 +171,5 @@
 
 + [印度部分地区气温高达48.2摄氏度 电力负荷连创历史新高](https://news.cctv.com/2026/05/23/ARTIuJwUWwjJvQxdjZ88MlU0260522.shtml)
 
++ [匈牙利宣布禁止进口乌克兰农产品](https://news.cctv.com/2026/05/23/ARTICXJiDs37SNrY8Ge5AyVK260523.shtml)
+
