@@ -63,3 +63,19 @@
 
 + [小米汽车：跑纽北是为了验证车辆在各种极端环境中的稳定性，打磨各种弯道性能](https://m.ithome.com/html/953083.htm)
 
++ [小米雷军回应 SU7 Ultra 纽北纪录被保时捷反超：祝贺保时捷破纪录，车企之间你追我赶才是更健康的态度](https://m.ithome.com/html/953654.htm)
+
++ [小米新品发布会一文汇总：YU7 GT 正式上市，手机 / 耳机 / 手环联袂登场](https://m.ithome.com/html/953645.htm)
+
++ [7 分 22 秒 755：小米 YU7 GT 刷新纽北 SUV 圈速纪录 14s，成为纽北史上最速 SUV](https://m.ithome.com/html/953621.htm)
+
++ [微信为什么只能撤回 2 分钟内的消息，官方解释称防止随意篡改聊天记录](https://m.ithome.com/html/953741.htm)
+
++ [小米汽车生态周边上新：直流家用充电桩 20kW 首销 8999 元，车载桌板 299 元](https://m.ithome.com/html/953626.htm)
+
++ [小米胡峥楠：纽北是高性能车试炼场，是被国际用户认可、同行尊重的必经之路](https://m.ithome.com/html/953655.htm)
+
++ [某厂 2nm 骁龙 8 系旗舰机曝光：10000mAh++ 巨容量电池、新一代主动散热风扇，预计为荣耀 WIN 2 系列](https://m.ithome.com/html/953721.htm)
+
++ [原特斯拉“王牌厂长”宋钢加入小米后首秀：两家公司非常像，雷军说服了一年半](https://m.ithome.com/html/953837.htm)
+

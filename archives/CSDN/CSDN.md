@@ -193,3 +193,13 @@
 
 + [内网环境无法联网，如何实现本地IP查询？用IP离线库三步搞定](https://blog.csdn.net/IpdataCloud/article/details/161289574)
 
++ [JiuwenSwarm30分钟从零创建Swarm skill并发布到Swarm Skills Hub](https://blog.csdn.net/sinat_41617212/article/details/161230824)
+
++ [【产品更名】通义灵码升级为 Qoder CN：AI 编码助手新时代，附大模型收费与 Spring Boot 支持全对比](https://blog.csdn.net/lipansfj/article/details/161250298)
+
++ [电商数据实时采集系统：Kafka+Flink 的流式处理架构](https://blog.csdn.net/weixin_41943766/article/details/161248624)
+
++ [05-21 · LLM 最新论文速览](https://blog.csdn.net/qq_36671160/article/details/161280780)
+
++ [Slang 和 HLSL 的区别与用法详解：现代图形渲染中的两种 Shader 编程语言](https://blog.csdn.net/wang1290865309/article/details/161290059)
+

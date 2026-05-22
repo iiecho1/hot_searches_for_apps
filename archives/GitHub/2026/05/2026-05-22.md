@@ -39,3 +39,15 @@
 
 + [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [odoo/odoo](https://github.com/odoo/odoo)
+
++ [byJoey/cfnew](https://github.com/byJoey/cfnew)
+
++ [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+
++ [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
++ [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+
