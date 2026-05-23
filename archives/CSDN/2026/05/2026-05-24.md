@@ -135,3 +135,5 @@
 
 + [计算机网络层次结构详解：从OSI七层模型到TCP/IP四层模型](https://blog.csdn.net/guigenyi/article/details/161291903)
 
++ [【Linux 网络】带你理清 IP协议、子网划分与跨网路由](https://blog.csdn.net/is_ko_nois_ko/article/details/161290833)
+
