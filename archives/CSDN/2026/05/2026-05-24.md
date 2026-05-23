@@ -101,3 +101,25 @@
 
 + [2026电工杯数学建模全套助攻资料｜数据集+模板+代码+解题思路（B题已更新部分内容）](https://blog.csdn.net/2501_90172271/article/details/161309161)
 
++ [两种数字人交互：从被动语音交互到具象共情的本质差异](https://blog.csdn.net/2302_78391795/article/details/161292543)
+
++ [【异常解决】SpringBoot3 + 人大金仓 V8+MyBatis-Plus 获取新增自增 ID](https://blog.csdn.net/weixin_44299027/article/details/161342436)
+
++ [【C++通关之路】C++ 继承深度全景指南：从语法陷阱到内存底层的终极复习](https://blog.csdn.net/2602_94889867/article/details/161341713)
+
++ [HarmonyOS 6.1 全栈实战录 - 14 渲染树透镜：FrameNode 渲染状态感知与高性能 UI 调优实战](https://blog.csdn.net/sjw890821sjw/article/details/161273004)
+
++ [▲基于深度Q网络的动态多信道协作感知算法matlab仿真](https://blog.csdn.net/ccsss22/article/details/161347116)
+
++ [DolphinDB时间序列引擎：实时聚合计算](https://blog.csdn.net/sinat_41617212/article/details/161324930)
+
++ [为什么你的鸿蒙 App 多端体验很差？](https://blog.csdn.net/qq_36478920/article/details/161317128)
+
++ [CommonJS和ES Module](https://blog.csdn.net/2301_81253185/article/details/161344297)
+
++ [2026年电工杯B题：嵌入式社区养老服务站的建设与优化问题【思路、Python代码、Matlab代码、论文(持续更新中......)】](https://blog.csdn.net/m0_73907476/article/details/161301167)
+
++ [HarmonyOS 6 悬浮导航 + 沉浸光感：打造鸿蒙智能体驱动的沉浸式编程学习伴侣](https://blog.csdn.net/u014727709/article/details/161323293)
+
++ [网络安全在线就能打的内网靶场推荐 & Dawn Breaker 单域靶场](https://blog.csdn.net/jingke666/article/details/161323077)
+

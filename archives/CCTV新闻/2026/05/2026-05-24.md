@@ -159,3 +159,5 @@
 
 + [非洲暴发埃博拉疫情 刚果（金）已有91例疑似死亡病例](https://news.cctv.com/2026/05/19/ARTIGvVjthJKssTSMHK91XFn260519.shtml)
 
++ [蓝厅观察丨多国领导人密集访华 凸显中国吸引力](https://news.cctv.com/2026/05/24/ARTI6BQ7M9DYg6eOn9oSRLsL260523.shtml)
+
