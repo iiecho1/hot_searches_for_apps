@@ -51,3 +51,9 @@
 
 + [春风若有怜花意 可否许我再少年](https://www.v2ex.com/t/1214856)
 
++ [你们有没有觉得，用了 AI 后，收入没增长，开销却变大了？](https://www.v2ex.com/t/1214875)
+
++ [做了第一款 iOS 小游戏：用 SwiftUI 写了个水墨麻将连连看，送 50 个内购码](https://www.v2ex.com/t/1214874)
+
++ [qwen3.7-max 的代码能力提升非常大](https://www.v2ex.com/t/1214878)
+

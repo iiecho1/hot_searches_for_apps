@@ -185,3 +185,21 @@
 
 + [Air8000多网通信- httpsrv](https://blog.csdn.net/m0_57476762/article/details/161253059)
 
++ [【Linux系统加餐】从原理到封装：基于建造者模式实现System V信号量工业级C++封装](https://blog.csdn.net/2503_91389547/article/details/160812259)
+
++ [腾讯 Marvis 马维斯完整使用教程 2026 最新版](https://blog.csdn.net/weixin_54442559/article/details/161314868)
+
++ [[ 计算机网络 | 第三章 ] 数据链路层 04 交换式以太网](https://blog.csdn.net/2402_88777742/article/details/161339523)
+
++ [DolphinDB时间序列引擎：实时聚合计算](https://blog.csdn.net/sinat_41617212/article/details/161324930)
+
++ [信息安全工程师之《网络安全体系与网络安全模型》](https://blog.csdn.net/2401_88251163/article/details/161322691)
+
++ [网络安全在线就能打的内网靶场推荐 & Dawn Breaker 单域靶场](https://blog.csdn.net/jingke666/article/details/161323077)
+
++ [云原生部署架构演进：基于 Helm 的 GitOps 落地选型](https://blog.csdn.net/qq_24597659/article/details/161318684)
+
++ [机器视觉---熔池相机（穿透强光的视觉感知）](https://blog.csdn.net/2301_80079642/article/details/160134090)
+
++ [ AX20应急AR头戴终端：不联网也能识别危险品，第一视角防抖回传](https://blog.csdn.net/AngleyesAI/article/details/161285292)
+
