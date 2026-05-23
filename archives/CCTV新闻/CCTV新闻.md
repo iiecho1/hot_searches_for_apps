@@ -183,3 +183,11 @@
 
 + [中方敦促国际刑事法院客观公正开展涉利比亚工作](https://news.cctv.com/2026/05/23/ARTIJm8PEna7cn5UBmyjBmOE260523.shtml)
 
++ [巴基斯坦警方及反恐机构开展反恐行动 打死8名恐怖分子](https://news.cctv.com/2026/05/23/ARTIzqnk5Z1S6BCQNW1UQp6z260523.shtml)
+
++ [俄称乌无人机袭击卢甘斯克学校已致10死38伤](https://news.cctv.com/2026/05/23/ARTITLEKjBsld2onew5F47Xw260523.shtml)
+
++ [洪都拉斯接连发生严重暴力事件 我使馆发布安全提醒](https://news.cctv.com/2026/05/23/ARTIt0YLKe2E5Pzl3LUJqdS5260523.shtml)
+
++ [山西沁源县煤矿瓦斯爆炸事故造成多人死亡 123人送医救治](https://news.cctv.com/2026/05/23/ARTIKIdq5Wvea7LzuK0jFC0L260523.shtml)
+

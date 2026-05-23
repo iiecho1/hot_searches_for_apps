@@ -43,3 +43,11 @@
 
 + [萌新的第一台软路由上 N5105 是不是有点奢侈？](https://www.v2ex.com/t/1214855)
 
++ [作为程序员，你愿意为“0 AI 代码介入”的汽车支付溢价吗？](https://www.v2ex.com/t/1214894)
+
++ [阿里云 tokenplan 和 百度 codingplan 慎买](https://www.v2ex.com/t/1214866)
+
++ [有没有不用买车也能让新手熟练掌握开车驾驶的办法？](https://www.v2ex.com/t/1214887)
+
++ [春风若有怜花意 可否许我再少年](https://www.v2ex.com/t/1214856)
+
