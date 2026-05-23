@@ -221,3 +221,11 @@
 
 + [【.NET新特性·第2篇】C# 12 全特性回顾：语法糖的盛宴](https://blog.csdn.net/hanzhixintianxia/article/details/161318388)
 
++ [OpenClaw 接入商汤 SenseNova：打造多模态个人 AI 助手](https://blog.csdn.net/COLLINSXU/article/details/161344027)
+
++ [132-基于Python的中老年体检数据可视化分析系统](https://blog.csdn.net/qq_53846367/article/details/161324965)
+
++ [2026电工杯数学建模竞赛B题成品论文、代码、数据](https://blog.csdn.net/m0_69827984/article/details/161325276)
+
++ [2026电工杯数学建模全套助攻资料｜数据集+模板+代码+解题思路（B题已更新部分内容）](https://blog.csdn.net/2501_90172271/article/details/161309161)
+
