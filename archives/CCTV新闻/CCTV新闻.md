@@ -173,3 +173,11 @@
 
 + [匈牙利宣布禁止进口乌克兰农产品](https://news.cctv.com/2026/05/23/ARTICXJiDs37SNrY8Ge5AyVK260523.shtml)
 
++ [柬埔寨发生多起严重交通事故 已致数十人死伤](https://news.cctv.com/2026/05/23/ARTI95PKwB2S6KiQdoNiDmXD260523.shtml)
+
++ [特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”](https://news.cctv.com/2026/05/23/ARTIhIaQLnQzPIzBvPDZMo3A260523.shtml)
+
++ [沙特媒体称美伊协议草案或将在“数小时内”公布](https://news.cctv.com/2026/05/23/ARTIdLWWy3n44lCHBLDOAe6U260523.shtml)
+
++ [阿联酋总统外交顾问：退出欧佩克决定已酝酿三年](https://news.cctv.com/2026/05/23/ARTIoYSWE9jOQ9YAzLwSCcB5260523.shtml)
+

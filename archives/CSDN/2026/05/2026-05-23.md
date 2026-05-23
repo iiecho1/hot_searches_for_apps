@@ -145,3 +145,11 @@
 
 + [从单体到分布式：JWT 如何彻底改变 Web 认证系统](https://blog.csdn.net/2301_80168404/article/details/161288914)
 
++ [双生进化论：为什么说 AI 正在重构软件开发范式？](https://blog.csdn.net/qq_44809804/article/details/161235375)
+
++ [【花雕学编程】Arduino BLDC 之机器人三重冗余应急处理与状态机安全系统](https://blog.csdn.net/weixin_41659040/article/details/161269725)
+
++ [OpenClaw做分布式合适吗？](https://blog.csdn.net/qq_35563053/article/details/161308925)
+
++ [UE5官方文档（第一人称射击游戏教程）解读 第六章](https://blog.csdn.net/2301_78972558/article/details/161289053)
+

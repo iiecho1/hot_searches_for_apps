@@ -23,3 +23,13 @@
 
 + [今天我生日,可以薅 V 友一句生日快乐吗?](https://www.v2ex.com/t/1214784)
 
++ [Surge 作者将 𝕏 个人简介修改为已退休](https://www.v2ex.com/t/1214693)
+
++ [s11 到手，使用尾插已经激活全部功能](https://www.v2ex.com/t/1214641)
+
++ [Codex 新站点 HappyCode 推广，纯 Plus 号池（0.04 倍率）活动送 75 刀额度](https://www.v2ex.com/t/1214791)
+
++ [我要不要买 MacBook Pro？](https://www.v2ex.com/t/1214677)
+
++ [明天就要软考了，我发现了数据库三范式之第一范式好像过时了](https://www.v2ex.com/t/1214684)
+
