@@ -181,3 +181,5 @@
 
 + [阿联酋总统外交顾问：退出欧佩克决定已酝酿三年](https://news.cctv.com/2026/05/23/ARTIoYSWE9jOQ9YAzLwSCcB5260523.shtml)
 
++ [中方敦促国际刑事法院客观公正开展涉利比亚工作](https://news.cctv.com/2026/05/23/ARTIJm8PEna7cn5UBmyjBmOE260523.shtml)
+

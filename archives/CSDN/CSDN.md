@@ -153,3 +153,29 @@
 
 + [UE5官方文档（第一人称射击游戏教程）解读 第六章](https://blog.csdn.net/2301_78972558/article/details/161289053)
 
++ [【动手学深度学习·第四篇】卷积神经网络：从 LeNet 到 ResNet，感受野、池化、残差连接的设计逻辑全讲透](https://blog.csdn.net/qq_73472828/article/details/161200078)
+
++ [【MySQL 三大日志深度解析】：redo log、undo log、binlog 作用与两阶段提交原理](https://blog.csdn.net/2504_94294476/article/details/161324488)
+
++ [两种数字人交互：从被动语音交互到具象共情的本质差异](https://blog.csdn.net/2302_78391795/article/details/161292543)
+
++ [【花雕学编程】Arduino BLDC 之物料分拣场景——三轴高速分拣梯形加减速协同控制](https://blog.csdn.net/weixin_41659040/article/details/161332728)
+
++ [人工智能日报 每日AI新闻（2026年5月21日）：Anthropic扩大企业与公共议题布局，OpenAI再谈数学突破，Google把AI继续推向邮箱与设计工作流](https://blog.csdn.net/weixin_72648764/article/details/161270448)
+
++ [Linux线程：从内存分页机制（Page Table/TLB/Page Fault）彻底读懂 Linux 线程本质](https://blog.csdn.net/2401_86123468/article/details/161263137)
+
++ [【MYSQL】 表的约束--详解](https://blog.csdn.net/2501_93351213/article/details/161324219)
+
++ [企业从 Excel 管理转向系统化管理的关键步骤](https://blog.csdn.net/zhouzhongyan/article/details/161334988)
+
++ [分布式能力在鸿蒙 PC 上到底怎么用？](https://blog.csdn.net/qq_36478920/article/details/161255912)
+
++ [【C++ AI 大模型接入 SDK】 - DeepSeek 模型接入（上）](https://blog.csdn.net/2401_86326742/article/details/161274697)
+
++ [【Telegram 自动化】多账号登录实战：Web 页面 + 命令行两种方式](https://blog.csdn.net/weixin_51773043/article/details/161316653)
+
++ [学习threejs，实现分形球体交互可视化](https://blog.csdn.net/qq_28419035/article/details/161310438)
+
++ [Redis 分布式锁](https://blog.csdn.net/2301_76161469/article/details/161241347)
+
