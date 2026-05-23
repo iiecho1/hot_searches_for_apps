@@ -193,3 +193,5 @@
 
 + [韩国总统说将坚定不移走韩朝和平共存与共同发展的道路](https://news.cctv.com/2026/05/23/ARTIxdNeFwIkgbvyxOTE4zv2260523.shtml)
 
++ [近镜头｜第一现场看中俄元首会晤](https://news.cctv.com/2026/05/23/ARTI0yRtSjCyzwHNzpcncCmu260523.shtml)
+

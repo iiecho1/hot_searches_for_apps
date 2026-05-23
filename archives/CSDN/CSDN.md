@@ -213,3 +213,7 @@
 
 + [讲透分布式系统的演进史与核心架构](https://blog.csdn.net/2401_87395400/article/details/161323571)
 
++ [深度解析：数据库内核如何通过逻辑推理与常值推导突破去重性能瓶颈](https://blog.csdn.net/2302_78391795/article/details/160957572)
+
++ [【AI智能体】全场景AI智能体工作台WorkBuddy实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/161335906)
+
