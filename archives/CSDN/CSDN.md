@@ -129,3 +129,5 @@
 
 + [OpenClaw：高效管理分布式Agent开发团队](https://blog.csdn.net/alex1013999/article/details/161306991)
 
++ [云原生部署架构演进：基于 Helm 的 GitOps 落地选型](https://blog.csdn.net/qq_24597659/article/details/161318684)
+
