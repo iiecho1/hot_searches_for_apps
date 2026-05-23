@@ -25,3 +25,21 @@
 
 + [原特斯拉“王牌厂长”宋钢加入小米后首秀：两家公司非常像，雷军说服了一年半](https://m.ithome.com/html/953837.htm)
 
++ [DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4](https://m.ithome.com/html/954188.htm)
+
++ [Epic 喜加二：《逃出百慕大》《古墓丽影 1-3 复刻版》游戏免费领](https://m.ithome.com/html/953665.htm)
+
++ [努比亚总裁倪飞回应“用豆包订餐厅反被拒”：App 可能尚不支持实际预约功能，但豆包手机就可以](https://m.ithome.com/html/953821.htm)
+
++ [刚领完奖金就买保时捷跑车，曝三星数亿韩元奖金让韩国上班族集体破防](https://m.ithome.com/html/953951.htm)
+
++ [电影《澎湖海战》定档 7 月 25 日：易烊千玺、赵丽颖等人演绎历史统一主题](https://m.ithome.com/html/953722.htm)
+
++ [DeepSeek 推进 700 亿元融资，梁文锋承诺坚持开发开源 AI 模型而非追求短期商业化目标](https://m.ithome.com/html/953832.htm)
+
++ [消息称华为 nova 16 系列 6 月初发布，影像、性能、电池“都加料了”](https://m.ithome.com/html/954096.htm)
+
++ [Epic 手游喜加一：移动端《纪念碑谷 3》限时免费领](https://m.ithome.com/html/953672.htm)
+
++ [消息称某厂 7 英寸 2K 大屏性能机测试天玑 9 系芯片，预计为小米旗下](https://m.ithome.com/html/953663.htm)
+

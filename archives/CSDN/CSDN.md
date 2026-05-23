@@ -203,3 +203,13 @@
 
 + [ AX20应急AR头戴终端：不联网也能识别危险品，第一视角防抖回传](https://blog.csdn.net/AngleyesAI/article/details/161285292)
 
++ [【AI工具】Sub2API简介 – 开源 AI API 中转网关平台，支持多账户管理](https://blog.csdn.net/weixin_44299027/article/details/161340300)
+
++ [Java实战：熵权法原理详解+房产价值评估系统设计（上）—— 构建客观多指标评价模型](https://blog.csdn.net/yelangkingwuzuhu/article/details/161235226)
+
++ [Prometheus - 服务发现深度解析：Consul / K8s 自动发现配置](https://blog.csdn.net/qq_41187124/article/details/157546964)
+
++ [【MATLAB】工业控制参数多目标优化（GA/PSO）](https://blog.csdn.net/unbelievevc/article/details/161335284)
+
++ [讲透分布式系统的演进史与核心架构](https://blog.csdn.net/2401_87395400/article/details/161323571)
+

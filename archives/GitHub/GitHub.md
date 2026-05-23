@@ -29,3 +29,15 @@
 
 + [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 
++ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+
++ [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+
++ [presenton/presenton](https://github.com/presenton/presenton)
+
++ [multica-ai/multica](https://github.com/multica-ai/multica)
+
++ [NVlabs/LongLive](https://github.com/NVlabs/LongLive)
+
++ [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
+

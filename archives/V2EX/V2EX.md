@@ -57,3 +57,7 @@
 
 + [qwen3.7-max 的代码能力提升非常大](https://www.v2ex.com/t/1214878)
 
++ [用 Google 礼品卡订阅 Claude 方案可行吗？](https://www.v2ex.com/t/1214857)
+
++ [有 WeChat 换微信的吗？](https://www.v2ex.com/t/1214869)
+
