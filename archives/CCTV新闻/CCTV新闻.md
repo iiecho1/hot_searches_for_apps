@@ -169,3 +169,9 @@
 
 + [特朗普称美伊协议基本谈成 内容包括开放霍尔木兹海峡](https://news.cctv.com/2026/05/24/ARTIQT3MfBNeSE2CH08QdU9Y260524.shtml)
 
++ [中尼科考队完成人类首次珠峰顶峰透底冰芯样本钻取](https://news.cctv.com/2026/05/24/ARTIGmHib8O0YQwbq6Nd039r260524.shtml)
+
++ [穆迪上调南非主权信用评级展望至“正面”](https://news.cctv.com/2026/05/24/ARTIDkCqGRtnXVNwHSFc6wTJ260524.shtml)
+
++ [法国宣布禁止以色列国家安全部长入境](https://news.cctv.com/2026/05/24/ARTIQTUqnyCW2fQUQbokkv3h260524.shtml)
+
