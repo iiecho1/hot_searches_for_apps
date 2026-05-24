@@ -25,3 +25,27 @@
 
 + [地表最强推力：马斯克 SpaceX 星舰 V3 首飞成功，顺利完成模拟载荷投放测试及溅落](https://m.ithome.com/html/954227.htm)
 
++ [卢伟冰：在一线走访，小米首款耳夹式耳机卖爆了](https://m.ithome.com/html/954476.htm)
+
++ [小鹏副总裁：小鹏可能是唯一一个欢迎特斯拉 FSD 入华的车企](https://m.ithome.com/html/954523.htm)
+
++ [华为自研全新 DoB 封装技术：绕过 400 层 NAND 造出 122TB 企业级 SSD，未来还计划推出 245TB 版本](https://m.ithome.com/html/954502.htm)
+
++ [小米冠名中国三大汽车赛事，YU7 GT 医疗车首次亮相赛道](https://m.ithome.com/html/954448.htm)
+
++ [4299 → 678 元低过闲鱼：追觅 H20 Ultra S 洗地机 3 期免息，无需联网操作](https://m.ithome.com/html/954444.htm)
+
++ [吉利杨学良：愿和 WSBK 组委会洽谈与张雪机车一起将赛事引入中国](https://m.ithome.com/html/954447.htm)
+
++ [央视澄清网络热词“碳水脸”：制造畸形审美标准，进而贩卖焦虑收割钱包](https://m.ithome.com/html/954479.htm)
+
++ [小米 YU7 GT 上市后现转单潮？曝商家利用“废单激活”返现牟利](https://m.ithome.com/html/954468.htm)
+
++ [WWDC 2026 在即，苹果悄悄启用全新子域名 genai.apple.com](https://m.ithome.com/html/954457.htm)
+
++ [小米 YU7 标准版汽车更多信息公布：首销期下定 5 年低息，23.35 万元起](https://m.ithome.com/html/954483.htm)
+
++ [鸿蒙智行问界 M9 系列官宣搭载玄武车身构架 2.0：十三横十一纵车身结构，铝合金及高强度钢占比 91%](https://m.ithome.com/html/954503.htm)
+
++ [吉利银河星耀 7MAX 上市 23 小时大定破万，限时 9.88 万-12.98 万元](https://m.ithome.com/html/954496.htm)
+

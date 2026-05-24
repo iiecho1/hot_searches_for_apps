@@ -187,3 +187,17 @@
 
 + [【架构设计】微服务架构设计模式：从单体到分布式的演进之路](https://blog.csdn.net/weixin_43272162/article/details/161304737)
 
++ [【LE Audio】CAP精讲[10]: 多设备协同的通关秘籍——协调集全流程实战](https://blog.csdn.net/weixin_37800531/article/details/161167055)
+
++ [AI + 鸿蒙 App：下一代应用架构](https://blog.csdn.net/qq_36478920/article/details/161316855)
+
++ [把 TeXstudio / LaTeX 工程交给 AI：texstudio-mcp 功能详解](https://blog.csdn.net/2403_87969572/article/details/161343494)
+
++ [MySQL 数据关联详解：外键、表关系、联表查询实战](https://blog.csdn.net/m0_66822255/article/details/161291690)
+
++ [【行情复盘】2026年5月22日（周五）——英伟达机柜成本拆解引爆PCB主线，科技股全面开花](https://blog.csdn.net/weixin_45526015/article/details/161323402)
+
++ [工作流重构方法技能workflow-refactor](https://blog.csdn.net/weixin_39939819/article/details/161347970)
+
++ [【PyGame】随机游走及其模拟方法](https://blog.csdn.net/weixin_52027970/article/details/161332836)
+

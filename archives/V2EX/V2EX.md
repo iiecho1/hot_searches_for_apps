@@ -55,3 +55,7 @@
 
 + [以后技术鄙视链可能就一句话：你会不会使唤 Agent](https://www.v2ex.com/t/1215035)
 
++ [在推广节点领了大半个月赛博鸡蛋，做了个 AI 中转站排名网站](https://www.v2ex.com/t/1215053)
+
++ [vibe-coding 一时爽，一直 vibe-coding 呢？](https://www.v2ex.com/t/1215040)
+
