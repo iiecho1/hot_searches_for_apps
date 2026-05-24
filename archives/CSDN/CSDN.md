@@ -201,3 +201,13 @@
 
 + [【PyGame】随机游走及其模拟方法](https://blog.csdn.net/weixin_52027970/article/details/161332836)
 
++ [HarmonyOS 鸿蒙PC三方库移植：vcpkg方式的 Port 脚本编写简明教程](https://blog.csdn.net/qq_36478920/article/details/161346179)
+
++ [2026 年 5 月 AI 热点：大模型、硬件、人形机器人全面升级](https://blog.csdn.net/weixin_72532546/article/details/161290127)
+
++ [IP安全 SEC VPN_1_IA阶段各种名词讲解](https://blog.csdn.net/qq_38200548/article/details/161315614)
+
++ [基于.NET的NetCoreKevin框架中AgentFramework实现AI智能体Skill和工具动态管理和加载](https://blog.csdn.net/weixin_42629287/article/details/161318011)
+
++ [硬盘里上百本电子书落灰，用极空间搭 Reader 统一管理随时可读](https://blog.csdn.net/Mrxiao_bo/article/details/161338003)
+

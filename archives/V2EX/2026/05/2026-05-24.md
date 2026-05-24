@@ -59,3 +59,7 @@
 
 + [vibe-coding 一时爽，一直 vibe-coding 呢？](https://www.v2ex.com/t/1215040)
 
++ [最近感觉叫陌生人老师挺好的](https://www.v2ex.com/t/1215112)
+
++ [想问一下🌹花在微信里是表示成功、勿忧的黑话吗？](https://www.v2ex.com/t/1215039)
+

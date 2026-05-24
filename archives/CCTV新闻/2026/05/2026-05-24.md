@@ -195,3 +195,7 @@
 
 + [俄外交官：已对美方所提解决乌克兰问题的27点计划制定建议 准备提交](https://news.cctv.com/2026/05/24/ARTIbcLxnd9NToUhEekVyp1O260524.shtml)
 
++ [巴基斯坦总理夏巴兹抵达北京](https://news.cctv.com/2026/05/24/ARTIXtq6bXst2uKT9raQRPne260524.shtml)
+
++ [武契奇：此次访华“是我政治生涯最重要一次访问”](https://people.cctv.com/2026/05/24/ARTIlZbx7RbvsR7S5fYflXUm260524.shtml)
+
