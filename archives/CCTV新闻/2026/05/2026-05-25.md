@@ -163,3 +163,13 @@
 
 + [透视国外网络战多维演进新趋势](https://military.cctv.com/2026/05/25/ARTIS01U2hSJaqWmteTjrit6260525.shtml)
 
++ [高市早苗团队“抹黑门”细节曝光 日媒称掌握证据](https://news.cctv.com/2026/05/25/ARTISjjezd6sjlKcKr1a0TM3260525.shtml)
+
++ [阿联酋等八国发表联合声明 谴责以色列国家安全部长](https://news.cctv.com/2026/05/25/ARTIezZhGNu80hJcLQ4BkAhI260525.shtml)
+
++ [特朗普：美伊协议“尚未完全谈妥”](https://news.cctv.com/2026/05/25/ARTIBU9rZBBPpJYcrKG6wbSo260525.shtml)
+
++ [黎真主党：解除武装将导致黎巴嫩被逐步占领](https://news.cctv.com/2026/05/25/ARTIAV57LHj9mzq9y2ZX8Bq9260525.shtml)
+
++ [伊朗方面称现阶段伊尚未就核问题的细节做出任何承诺](https://news.cctv.com/2026/05/25/ARTIUUy7knmhfEXL9o84bQOi260525.shtml)
+
