@@ -179,3 +179,11 @@
 
 + [Langchain的学习（二）](https://blog.csdn.net/nplplus/article/details/161257857)
 
++ [【MySQL SQL 执行全链路剖析】：执行计划、慢查询与经典场景优化指南](https://blog.csdn.net/2504_94294476/article/details/161348251)
+
++ [金仓数据库KingbaseES自动创建表空间目录：简化运维，适配国产生态](https://blog.csdn.net/lrq13965748542/article/details/161321886)
+
++ [内网渗透之横向移动实战](https://blog.csdn.net/2501_94768728/article/details/161348067)
+
++ [【架构设计】微服务架构设计模式：从单体到分布式的演进之路](https://blog.csdn.net/weixin_43272162/article/details/161304737)
+

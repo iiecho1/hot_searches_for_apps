@@ -33,3 +33,19 @@
 
 + [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
 
++ [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
++ [earendil-works/pi](https://github.com/earendil-works/pi)
+
++ [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+
++ [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+
