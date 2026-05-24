@@ -175,3 +175,7 @@
 
 + [法国宣布禁止以色列国家安全部长入境](https://news.cctv.com/2026/05/24/ARTIQTUqnyCW2fQUQbokkv3h260524.shtml)
 
++ [乌无人机袭击扎波罗热核电站运输车间 无人伤亡](https://news.cctv.com/2026/05/24/ARTI8LQspwy8DD2mxVkZKcut260524.shtml)
+
++ [菲律宾一在建酒店坍塌 数十名建筑工人被困](https://news.cctv.com/2026/05/24/ARTI3cfKLd9p8Ap4NCpfAfSh260524.shtml)
+
