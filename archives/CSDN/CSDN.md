@@ -171,3 +171,11 @@
 
 + [7 个Prompt 框架汇总：从 Chain of Thought 到 ReAct + PoT](https://blog.csdn.net/weixin_47547625/article/details/161334738)
 
++ [【Qt】界面优化（五）绘图API的介绍和使用QPainter，QPaintDevice，QPan，QBrush，图片类的介绍](https://blog.csdn.net/2301_80751958/article/details/161317237)
+
++ [从Row‑By‑Row到AI级推理：标量子查询消除如何重构数据库优化器大脑](https://blog.csdn.net/g310773517/article/details/161295200)
+
++ [【Sceneform-EQR】让Android 原生 3D开发更容易](https://blog.csdn.net/qq_41140324/article/details/161363872)
+
++ [Langchain的学习（二）](https://blog.csdn.net/nplplus/article/details/161257857)
+

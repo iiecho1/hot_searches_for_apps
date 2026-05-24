@@ -185,3 +185,13 @@
 
 + [乌称俄疑似使用“榛树”导弹打击基辅 俄暂未回应](https://news.cctv.com/2026/05/24/ARTIN7JLxZqK5JVuWfuQDPJu260524.shtml)
 
++ [以军称将在以北部沿海地区使用无人机进行演习](https://news.cctv.com/2026/05/24/ARTIHpoAmksOACyIz8H2FZtj260524.shtml)
+
++ [阿富汗强降雨引发灾情致28人死亡](https://news.cctv.com/2026/05/24/ARTIaTtc36tZGCdg3S24CtdN260524.shtml)
+
++ [伊朗方面披露美伊或将签署的备忘录内容细节](https://news.cctv.com/2026/05/24/ARTIwpe4GJiasX0dFzfTfUeS260524.shtml)
+
++ [巴基斯坦一客运列车遭爆炸袭击 已致27人死亡](https://news.cctv.com/2026/05/24/ARTIXnGlNVdQ6T5kEW4ikXOp260524.shtml)
+
++ [俄外交官：已对美方所提解决乌克兰问题的27点计划制定建议 准备提交](https://news.cctv.com/2026/05/24/ARTIbcLxnd9NToUhEekVyp1O260524.shtml)
+
