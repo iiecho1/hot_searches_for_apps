@@ -211,3 +211,5 @@
 
 + [硬盘里上百本电子书落灰，用极空间搭 Reader 统一管理随时可读](https://blog.csdn.net/Mrxiao_bo/article/details/161338003)
 
++ [【线性代数】核心考点复习笔记：二次型配方法、施密特正交化步骤与特征值经典题型详解](https://blog.csdn.net/2303_81537386/article/details/161348411)
+

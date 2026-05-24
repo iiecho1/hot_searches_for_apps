@@ -199,3 +199,5 @@
 
 + [武契奇：此次访华“是我政治生涯最重要一次访问”](https://people.cctv.com/2026/05/24/ARTIlZbx7RbvsR7S5fYflXUm260524.shtml)
 
++ [伊朗总统称伊方随时准备向世界宣告伊方不寻求核武器](https://news.cctv.com/2026/05/24/ARTI2JgONN8QMO21pvkh8kY5260524.shtml)
+
