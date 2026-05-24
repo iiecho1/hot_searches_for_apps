@@ -133,3 +133,9 @@
 
 + [从 0 到 1： XR/VR 开发行业常识与技术](https://blog.csdn.net/qq_53797018/article/details/161342396)
 
++ [OpenClaw 接入商汤 SenseNova：打造多模态个人 AI 助手](https://blog.csdn.net/COLLINSXU/article/details/161344027)
+
++ [将小天才手表中的通讯录导入到iPhone（使用icloud）](https://blog.csdn.net/crq20051023/article/details/161324497)
+
++ [从零实现一个轻量级向量搜索引擎（Python 版）](https://blog.csdn.net/picture_share/article/details/161332729)
+
