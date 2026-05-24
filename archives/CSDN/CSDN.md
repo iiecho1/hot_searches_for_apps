@@ -145,3 +145,29 @@
 
 + [微软AI时代的再一次革新：AI Agent 安全治理与实践指南](https://blog.csdn.net/NovaTech_/article/details/161287695)
 
++ [【开源软件移植】从 0 到 1：KDiff3 适配鸿蒙 PC 全流程实战 —— Qt5 交叉编译 + HAP 打包完整复现](https://blog.csdn.net/weixin_52908342/article/details/161349900)
+
++ [PyTorch强化学习实战（10）——强化学习高级组件](https://blog.csdn.net/LOVEmy134611/article/details/157809544)
+
++ [GitHub - colbymchenry/codegraph: 面向 Claude Code、Codex、Cursor 和 OpenCode 的预索引代码知识图谱 —— 更少 token，更少工具调](https://blog.csdn.net/design1985/article/details/161285921)
+
++ [DolphinDB流数据表：创建与订阅](https://blog.csdn.net/sinat_41617212/article/details/161290772)
+
++ [ubuntu2026.04部署k8s1.36版本的傻瓜式教程(注:运行时为docker,网络插件为calico)](https://blog.csdn.net/lwxvgdv/article/details/161325336)
+
++ [描述它，不要画它：通过 MCP 和 ES|QL 实现 AI-native Kibana dashboards](https://blog.csdn.net/UbuntuTouch/article/details/161335548)
+
++ [Agent 不止于 Chat：垂直 AI 时代的协作界面重构](https://blog.csdn.net/yangshangwei/article/details/161359962)
+
++ [机器人领域简报（2026年5月15日—5月21日）](https://blog.csdn.net/txg666/article/details/161289398)
+
++ [Spring 两大核心思想（一）：IoC](https://blog.csdn.net/2401_88599502/article/details/161318006)
+
++ [2026年企业级AI矩阵系统技术演进：从“群控分发“到“智能增长中台“的架构跃迁](https://blog.csdn.net/2601_95778677/article/details/161343845)
+
++ [HarmonyOS 6 悬浮导航 + 沉浸光感：打造鸿蒙智能体驱动的沉浸式音乐创作协作工坊](https://blog.csdn.net/u014727709/article/details/161345177)
+
++ [【字节跳动】豆包](https://blog.csdn.net/2602_96088873/article/details/161353045)
+
++ [7 个Prompt 框架汇总：从 Chain of Thought 到 ReAct + PoT](https://blog.csdn.net/weixin_47547625/article/details/161334738)
+

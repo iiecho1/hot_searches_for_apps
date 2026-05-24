@@ -179,3 +179,9 @@
 
 + [菲律宾一在建酒店坍塌 数十名建筑工人被困](https://news.cctv.com/2026/05/24/ARTI3cfKLd9p8Ap4NCpfAfSh260524.shtml)
 
++ [白宫附近枪击案嫌疑人身份曝光](https://news.cctv.com/2026/05/24/ARTIIvXCme8MhLyek1zcxCvm260524.shtml)
+
++ [菲律宾一在建酒店发生坍塌 目前有26人被救出](https://news.cctv.com/2026/05/24/ARTIS6mW9X0E1jOOF8UfJiRj260524.shtml)
+
++ [乌称俄疑似使用“榛树”导弹打击基辅 俄暂未回应](https://news.cctv.com/2026/05/24/ARTIN7JLxZqK5JVuWfuQDPJu260524.shtml)
+

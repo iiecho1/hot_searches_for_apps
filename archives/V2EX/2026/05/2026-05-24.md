@@ -31,3 +31,15 @@
 
 + [大家用 codex、Antigravity 都开 tun 吗？](https://www.v2ex.com/t/1214920)
 
++ [openai 周限又重置了，已经放弃 claude 了](https://www.v2ex.com/t/1215013)
+
++ [正经贴！关于男士改善自身生活](https://www.v2ex.com/t/1214930)
+
++ [打工 15 年，存的所有积蓄买的房子，我得到了什么？](https://www.v2ex.com/t/1215030)
+
++ [让 AI 写产品官网还蛮困难，很磨时间，默认出的文案和样式都不太行，有什么技巧么？ 或者有啥神奇的 skill、prompt 可以提高效率？](https://www.v2ex.com/t/1214996)
+
++ [你们都在用什么机器跑 hermes](https://www.v2ex.com/t/1215014)
+
++ [技术不值钱 想法和流量才值钱](https://www.v2ex.com/t/1215046)
+
