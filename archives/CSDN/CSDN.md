@@ -139,3 +139,7 @@
 
 + [从零实现一个轻量级向量搜索引擎（Python 版）](https://blog.csdn.net/picture_share/article/details/161332729)
 
++ [神经网络与深度学习——课程第三周总结](https://blog.csdn.net/kron_/article/details/161342893)
+
++ [微信小程序年度费用全拆解：SaaS、开源与定制开发的3年成本实测对比](https://blog.csdn.net/2601_95724973/article/details/161319629)
+
