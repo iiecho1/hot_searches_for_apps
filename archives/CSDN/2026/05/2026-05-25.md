@@ -101,3 +101,31 @@
 
 + [【架构设计】微服务架构设计模式：从单体到分布式的演进之路](https://blog.csdn.net/weixin_43272162/article/details/161304737)
 
++ [【HarmonyOS 6.0】Graphics Accelerate Kit：基于Vulkan的顶点标记技术](https://blog.csdn.net/weixin_74809706/article/details/161198863)
+
++ [【Linux：文件】Linux 动静态库详解：：制作、使用、原理与实战](https://blog.csdn.net/2501_91275995/article/details/161304742)
+
++ [【Linux篇】数字世界的医生，便于寻找各种的病因-调试器gdb和cgdb的使用](https://blog.csdn.net/buhuizhiyuci/article/details/161023584)
+
++ [AI 工程化实战：从零搭建 Agent 框架、优化 RAG 检索、填平 Milvus 的坑](https://blog.csdn.net/qq_54002370/article/details/161369776)
+
++ [LVS 与 Nginx 负载均衡：从原理到生产实战](https://blog.csdn.net/m0_74186706/article/details/161344101)
+
++ [【Agent智能体3 | 智能体AI的优势】](https://blog.csdn.net/DdigitalNomad/article/details/161370289)
+
++ [OpenClaw vs. Hermes Agent：架构、安全、生态与工程实践对比](https://blog.csdn.net/u013669912/article/details/161288426)
+
++ [UE5 如何在延时渲染在材质编辑器提前使用到多灯光的数据](https://blog.csdn.net/qqQQqsadfj/article/details/161321480)
+
++ [深入浅出IP协议：互联网的邮政系统](https://blog.csdn.net/2501_91839423/article/details/161316489)
+
++ [macOS 上 Charles 代理 HTTPS 抓包失败问题完整解决方案](https://blog.csdn.net/hl_java/article/details/161315415)
+
++ [python语法设计、IDE 生态、平台策略、解析器逻辑这四层的矛盾点](https://blog.csdn.net/xiaoyao961/article/details/161331364)
+
++ [一文搞懂：Dockerfile与docker-compose实战——从编写Dockerfile到多容器编排，Spring Boot项目镜像打包全攻略](https://blog.csdn.net/2503_93374004/article/details/161366722)
+
++ [【线性代数】核心考点复习笔记：二次型配方法、施密特正交化步骤与特征值经典题型详解](https://blog.csdn.net/2303_81537386/article/details/161348411)
+
++ [Flutter 混合栈开发完全指南：原理、架构与双向跳转实战](https://blog.csdn.net/linwenglong7155/article/details/161304148)
+
