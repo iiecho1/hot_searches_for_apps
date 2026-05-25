@@ -113,3 +113,11 @@
 
 + [ubuntu2026.04部署k8s1.36版本的傻瓜式教程(注:运行时为docker,网络插件为calico)](https://blog.csdn.net/lwxvgdv/article/details/161325336)
 
++ [【AI工具】Sub2API简介 – 开源 AI API 中转网关平台，支持多账户管理](https://blog.csdn.net/weixin_44299027/article/details/161340300)
+
++ [Prometheus + Grafana 监控平台搭建实战指南](https://blog.csdn.net/zxd020311/article/details/161399670)
+
++ [C#接口幂等性：4种方案，你用对了吗？](https://blog.csdn.net/z_344791576/article/details/151895921)
+
++ [金仓数据库 KES：DISTINCT 语句性能优化实践与内核实现](https://blog.csdn.net/lrq13965748542/article/details/161365687)
+
