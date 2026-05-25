@@ -173,3 +173,11 @@
 
 + [特朗普称与伊朗的谈判进展顺利](https://news.cctv.com/2026/05/26/ARTI1lbUxTtBYF77hQBRIcW1260526.shtml)
 
++ [时政Vlog丨获颁“友谊勋章” 武契奇：我的眼泪在眼眶中打转](https://news.cctv.com/2026/05/26/ARTIWHCeIH3Jhw9ERHdNGf7m260526.shtml)
+
++ [因对伊战事消耗弹药库存 美国推迟向日本交付“战斧”导弹](https://military.cctv.com/2026/05/26/ARTIB7un1Fj8PPTIgGyV5GcZ260526.shtml)
+
++ [以总理下令军方“猛踩油门”打击黎真主党](https://news.cctv.com/2026/05/26/ARTI32mtwWsSwU4skUmg5bJj260526.shtml)
+
++ [伊朗媒体披露最高领袖就医情况](https://news.cctv.com/2026/05/26/ARTI0iFayXHVlIAqHfts6n4h260526.shtml)
+
