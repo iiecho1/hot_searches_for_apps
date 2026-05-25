@@ -161,3 +161,15 @@
 
 + [巴基斯坦总统：巴方坚定奉行一个中国原则](https://news.cctv.com/2026/05/21/ARTIwspO3DyzymADWDGHwgcD260521.shtml)
 
++ [浅析AI时代战争形态特征](https://military.cctv.com/2026/05/26/ARTIF4pljLFsp4DF2XNmFGuB260526.shtml)
+
++ [巴西总统被诊断出患有早期皮肤癌](https://news.cctv.com/2026/05/26/ARTIh8yRl3vnt2dMFFYIuOcH260526.shtml)
+
++ [伊朗外交部：中国在推动停火谈判进程中发挥了积极作用](https://news.cctv.com/2026/05/26/ARTIC7kSS511b2ctw4WgngzC260526.shtml)
+
++ [俄方称将对基辅军工联合体发动打击](https://news.cctv.com/2026/05/26/ARTI2aoPUwQJgrxR90eE13eL260526.shtml)
+
++ [世卫组织：本轮埃博拉疫情已死亡的疑似病例达220例](https://news.cctv.com/2026/05/26/ARTIQqyOMd2UHt7CqZiHrOkr260526.shtml)
+
++ [特朗普称与伊朗的谈判进展顺利](https://news.cctv.com/2026/05/26/ARTI1lbUxTtBYF77hQBRIcW1260526.shtml)
+
