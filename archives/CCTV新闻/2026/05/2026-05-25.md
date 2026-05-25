@@ -189,3 +189,19 @@
 
 + [马来西亚一钻井平台发生安全事故 已致3死1伤](https://news.cctv.com/2026/05/25/ARTItchVTkJ8VZX6NXgOcEVt260525.shtml)
 
++ [俄称在一艘液化气运输船上发现北约国家制造的水雷](https://news.cctv.com/2026/05/25/ARTIkEJ2Bfwi5dSEWFbnk8e0260525.shtml)
+
++ [引体向上、平板支撑 韩国地方选举候选人各出奇招拉选票](https://news.cctv.com/2026/05/25/ARTIaxkr21l8HU5i15v3Y9cg260525.shtml)
+
++ [报告：2025年全球维和人员比10年前少一半](https://news.cctv.com/2026/05/25/ARTIYJefY6QyND0ptDX7cuAC260525.shtml)
+
++ [伊朗方面请求将小学遭袭诉讼提交国际刑事法院](https://news.cctv.com/2026/05/25/ARTISOTdCYOYhDhx98S3tSZL260525.shtml)
+
++ [伊朗外交部：伊美达成共识“不意味着即将签署协议”](https://news.cctv.com/2026/05/25/ARTIDhXBaCYQYNNBpytMhEZE260525.shtml)
+
++ [伊朗全国已有20座机场恢复运营](https://news.cctv.com/2026/05/25/ARTIC3Qy7AT2lprrV7Vd8eZT260525.shtml)
+
++ [伊美双方均未在协议草案中就核问题作出任何承诺](https://news.cctv.com/2026/05/25/ARTIOSZMtGXkOqZunuCDUPc9260525.shtml)
+
++ [巴基斯坦客运列车遭袭死亡人数上升至47人](https://news.cctv.com/2026/05/25/ARTIp5xZzk0i8na0KHH3p84f260525.shtml)
+

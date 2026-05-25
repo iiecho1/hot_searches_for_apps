@@ -175,3 +175,25 @@
 
 + [Expo Router 和 React Native 的区别](https://blog.csdn.net/gumc123/article/details/161366927)
 
++ [ROS开发专栏---IMU 数据读取实验实现---适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161307122)
+
++ [【AI】Tika：一次文档解析引擎的工程实践](https://blog.csdn.net/weixin_62043600/article/details/161389797)
+
++ [【Web安全】-企业资产信息收集（2）：子域名查询，小程序和APP收集](https://blog.csdn.net/2401_83075246/article/details/161341803)
+
++ [缓存雪崩终极防御：Caffeine + Redis 多级缓存](https://blog.csdn.net/2301_80821045/article/details/161395943)
+
++ [HarmonyOS鸿蒙PC开源QT软件移植：移植开源文本编辑器 NotePad--（Ndd）到鸿蒙 PC实践总结](https://blog.csdn.net/chenlycly/article/details/161392794)
+
++ [GitHub狂揽23万Stars的OpenClaw：Windows一键部署，30分钟搭建你的私人AI助手](https://blog.csdn.net/weixin_62765017/article/details/161391047)
+
++ [Mac mini跑OpenClaw：低功耗家庭AI服务器搭建与飞书接入实战](https://blog.csdn.net/weixin_74888502/article/details/161387294)
+
++ [CentOS 7单机部署Elasticsearch：这些坑和关键配置，生产环境踩过才知道](https://blog.csdn.net/Z_oioihoii/article/details/161391608)
+
++ [远程开发新姿势：用 UU 远程终端，在哪都能操控你的机器](https://blog.csdn.net/IRpickstars/article/details/161366949)
+
++ [导出2025年智能车竞赛获奖信息：自动化学会](https://blog.csdn.net/zhuoqingjoking97298/article/details/161380831)
+
++ [Linux 性能优化基石：全景拆解 PRI/NI 优先级算力争夺与 O(1) 调度算法精髓](https://blog.csdn.net/2402_87731470/article/details/161369781)
+

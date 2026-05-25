@@ -33,3 +33,21 @@
 
 + [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+
++ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+
++ [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+
++ [moeru-ai/airi](https://github.com/moeru-ai/airi)
+
++ [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps)
+
++ [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
+
++ [garrytan/gstack](https://github.com/garrytan/gstack)
+
