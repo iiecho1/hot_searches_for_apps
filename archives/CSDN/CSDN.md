@@ -143,3 +143,11 @@
 
 + [微信小程序年度费用全拆解：SaaS、开源与定制开发的3年成本实测对比](https://blog.csdn.net/2601_95724973/article/details/161319629)
 
++ [KingbaseES系统视图与Hints调优：从诊断到性能优化的进阶之路](https://blog.csdn.net/qq_57761637/article/details/161373074)
+
++ [OpenClaw 架构解析：Skill 与 Agent 的设计哲学与实现机制](https://blog.csdn.net/2302_80329073/article/details/161370128)
+
++ [不再填鸭式教学：魔珐星云+DeepSeek打造苏格拉底式AI具身智能3D数字人学习辅导实战](https://blog.csdn.net/sinat_41617212/article/details/161368753)
+
++ [基于 Trae Solo 的 Ant 遗留项目编译方案 —— 以 BaseformEpanet 为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/161347564)
+
