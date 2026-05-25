@@ -197,3 +197,13 @@
 
 + [Linux 性能优化基石：全景拆解 PRI/NI 优先级算力争夺与 O(1) 调度算法精髓](https://blog.csdn.net/2402_87731470/article/details/161369781)
 
++ [HarmonyOS 鸿蒙PC平台三方库移植：使用 vcpkg 移植 libzen（ZenLib)](https://blog.csdn.net/qq_36478920/article/details/161345687)
+
++ [KES内核优化实战：标量子查询消除赋能SQL性能大幅跃升](https://blog.csdn.net/lrq13965748542/article/details/161323236)
+
++ [Linux线程：核心机制与优雅的 C++ 封装实践|附源码](https://blog.csdn.net/2401_86123468/article/details/161346889)
+
++ [微软提示词压缩：对比困惑度计算全解析](https://blog.csdn.net/qq_38998213/article/details/161386423)
+
++ [为什么它正在成为 AI 时代的新热门？一文讲透 Harness](https://blog.csdn.net/2503_94545876/article/details/161387103)
+
