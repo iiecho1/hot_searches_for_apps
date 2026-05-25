@@ -101,3 +101,15 @@
 
 + [搞懂文件系统：从磁盘分区到挂载，Linux 存储管理实战指南（上）](https://blog.csdn.net/2503_94076563/article/details/161370414)
 
++ [Re：Linux系统篇（二十一）进程篇·六：穿过底层看本质，深入理解底层进程切换与 O(1) 调度算法](https://blog.csdn.net/Z2314246476/article/details/161147773)
+
++ [k8s prometheus监控平台-alertmanager告警](https://blog.csdn.net/Cat_Rocky/article/details/161395044)
+
++ [数据库mysol--约束](https://blog.csdn.net/2502_94273369/article/details/161315904)
+
++ [HarmonyOS APP＜＜古今职鉴定＞＞开源教程第25篇：【完整案例】科举考试模块开发](https://blog.csdn.net/ldc121xy716/article/details/161164326)
+
++ [内网渗透之横向移动实战](https://blog.csdn.net/2501_94768728/article/details/161348067)
+
++ [ubuntu2026.04部署k8s1.36版本的傻瓜式教程(注:运行时为docker,网络插件为calico)](https://blog.csdn.net/lwxvgdv/article/details/161325336)
+
