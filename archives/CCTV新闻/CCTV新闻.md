@@ -175,3 +175,17 @@
 
 + [美加州故障储罐可能已现裂缝 或缓解内部压力](https://news.cctv.com/2026/05/25/ARTI8UM9yImYJdMY5T3aJh6u260525.shtml)
 
++ [孟加拉国达卡发生卡车翻车事故 致15死10伤](https://news.cctv.com/2026/05/25/ARTIvkGT0f94RtR4tmjAM5P7260525.shtml)
+
++ [新西兰2026年选战拉开序幕 深度剖析选民关注议题](https://news.cctv.com/2026/05/25/ARTIEjZtTMj6FyhVdt9ZTPHr260525.shtml)
+
++ [菲律宾一在建楼房坍塌 已致4人死亡](https://news.cctv.com/2026/05/25/ARTIJkNM76CsURjUKauzFwfR260525.shtml)
+
++ [让友谊之路越走越宽——三论推动中俄关系实现更高质量发展](https://news.cctv.com/2026/05/25/ARTIXDiYvzYFURo3FrOQ0rHw260525.shtml)
+
++ [菲律宾一在建楼房坍塌致3人死亡 仍有18人失踪](https://news.cctv.com/2026/05/25/ARTIvYbWPg3HXr5VXkYckP9d260525.shtml)
+
++ [美官员称美伊原则上已就协议达成一致](https://news.cctv.com/2026/05/25/ARTI7Iiqa3dx5isgjIj4JyKA260525.shtml)
+
++ [马来西亚一钻井平台发生安全事故 已致3死1伤](https://news.cctv.com/2026/05/25/ARTItchVTkJ8VZX6NXgOcEVt260525.shtml)
+

@@ -151,3 +151,27 @@
 
 + [基于 Trae Solo 的 Ant 遗留项目编译方案 —— 以 BaseformEpanet 为例](https://blog.csdn.net/yelangkingwuzuhu/article/details/161347564)
 
++ [【HarmonyOS 6.0】Graphics Accelerate Kit：AI超帧能力技术解析与实践](https://blog.csdn.net/weixin_74809706/article/details/161198989)
+
++ [【花雕动手做】5.8G/10G/24G微波雷达全解析：从原理到应用，一文搞定人体存在感应选型](https://blog.csdn.net/weixin_41659040/article/details/161378313)
+
++ [中小团队的产品突围：魔珐星云+通义千问打造AI职业导航数字人，一周上线差异化产品](https://blog.csdn.net/sinat_41617212/article/details/161368859)
+
++ [CAD子系统，是自研还是外包？](https://blog.csdn.net/he_zhidan/article/details/161292869)
+
++ [Re：Linux系统篇（二十一）进程篇·六：穿过底层看本质，深入理解底层进程切换与 O(1) 调度算法](https://blog.csdn.net/Z2314246476/article/details/161147773)
+
++ [2026 AI Agent 最新技术报道与深度横向对比](https://blog.csdn.net/hezuijiudexiaobai/article/details/161360400)
+
++ [深入理解【词嵌入】：从 Word2Vec 到 GloVe·FastText·BERT——让机器读懂语言的第一步](https://blog.csdn.net/qq_73472828/article/details/161352595)
+
++ [搞懂文件系统：从磁盘分区到挂载，Linux 存储管理实战指南（上）](https://blog.csdn.net/2503_94076563/article/details/161370414)
+
++ [【SpringBoot 3.x 第202节】微服务拆分方法论：什么时候该拆，什么时候不该拆？](https://blog.csdn.net/weixin_43970743/article/details/160168082)
+
++ [NGINX 1.31.0 再曝致命零日：补丁刚打完，新漏洞又撕开了口子](https://blog.csdn.net/ylscode/article/details/161322597)
+
++ [Java 后端开发者如何理解大模型应用架构](https://blog.csdn.net/qq_20770569/article/details/161367428)
+
++ [Expo Router 和 React Native 的区别](https://blog.csdn.net/gumc123/article/details/161366927)
+
