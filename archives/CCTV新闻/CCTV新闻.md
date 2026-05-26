@@ -165,3 +165,7 @@
 
 + [美军已重新开始“协助”船只通过霍尔木兹海峡](https://news.cctv.com/2026/05/27/ARTIrUJQC2oEP37fkOPsTSRg260527.shtml)
 
++ [伊朗官员：美国处于“请求”与伊朗达成协议的地位](https://news.cctv.com/2026/05/27/ARTIj58XYNzJ73hBYDnrGmkL260527.shtml)
+
++ [以军空袭黎巴嫩致71人伤亡 黎重要水坝附近被炸](https://news.cctv.com/2026/05/27/ARTIlObqlZZer9pz2lJAx73B260527.shtml)
+

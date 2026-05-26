@@ -129,3 +129,5 @@
 
 + [逆向工程与重构工程：概念、级别与方法解析](https://blog.csdn.net/eidolon_foot/article/details/161023733)
 
++ [▲DQPSK调制解调+FFT频偏估计+扩频解扩通信系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/161433067)
+
