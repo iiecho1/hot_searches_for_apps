@@ -101,3 +101,29 @@
 
 + [WeMed：一个医疗垂直领域大模型 问答系统的 Taro 小程序](https://blog.csdn.net/yantuguiguziPGJ/article/details/161348990)
 
++ [【开源软件移植】鸿蒙 PC：QElectroTech 从零编译到鸿蒙pc运行的 10 个阶段](https://blog.csdn.net/weixin_52908342/article/details/161367660)
+
++ [【Spring Boot 认证登录注册模块全解析】：JWT+BCrypt+Redis 企业级实践](https://blog.csdn.net/2504_94294476/article/details/161401707)
+
++ [内核代差揭秘：从 DISTINCT 优化实测看国产数据库的逻辑推理深度](https://blog.csdn.net/2302_78391795/article/details/160971030)
+
++ [国产数据库优化差距肉眼可见：KES的DISTINCT智能改写深度拆解](https://blog.csdn.net/weixin_43151418/article/details/161425420)
+
++ [圆柱贴片电阻（MELF）](https://blog.csdn.net/zhuoqingjoking97298/article/details/161420642)
+
++ [国产数据库工具测评：DBLens 以本地化工程能力与 AI 演进路径凸显优势](https://blog.csdn.net/m0_63947499/article/details/161424478)
+
++ [【没发表过创新点】【多变量输入超前多步预测】基于CPO-CNN-GRU-Attention的风电功率预测研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/161433012)
+
++ [Function Calling、MCP、Toolformer实测：三大Agent工具调用框架延迟、成功率与架构深度对比](https://blog.csdn.net/qq_56999332/article/details/161431031)
+
++ [【HID】规范精讲[19]: 蓝牙HID设备SDP交互实战——从服务搜索到属性解析的全流程拆解](https://blog.csdn.net/weixin_37800531/article/details/161265148)
+
++ [基于java Web 耗材购置与维修网络申报审批系统设计与实现](https://blog.csdn.net/qq_41221322/article/details/161411102)
+
++ [新型AI编程范式 全周 AI 编程（Whole-Week AI Coding，WWAIC）](https://blog.csdn.net/qq_41652036/article/details/161432743)
+
++ [基于职业能力的知识图谱的学习路径推荐系统_django](https://blog.csdn.net/shmp54xmu/article/details/161398629)
+
++ [【与我学 ClaudeCode】协作篇 之 Autonomous Agents ：自组织任务认领与空闲治理](https://blog.csdn.net/2401_87662859/article/details/161385994)
+
