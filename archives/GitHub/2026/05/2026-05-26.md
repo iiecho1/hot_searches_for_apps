@@ -35,3 +35,15 @@
 
 + [garrytan/gstack](https://github.com/garrytan/gstack)
 
++ [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+
++ [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
++ [twentyhq/twenty](https://github.com/twentyhq/twenty)
+
++ [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+
++ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
++ [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)
+

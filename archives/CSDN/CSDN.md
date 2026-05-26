@@ -173,3 +173,15 @@
 
 + [国潮男装微博评论数据分析系统的设计与实现 _flask+spider](https://blog.csdn.net/shmp54/article/details/161398518)
 
++ [内核代差揭秘：从 DISTINCT 优化实测看国产数据库的逻辑推理深度](https://blog.csdn.net/2302_78391795/article/details/160971030)
+
++ [从企业数据库工具选型看 DBLens：统一、多库、可审计与 AI 演进能力成为关键优势](https://blog.csdn.net/weixin_43151418/article/details/161393577)
+
++ [HarmonyOS 鸿蒙PC三方库移植：vcpkg方式的 Port 脚本编写简明教程](https://blog.csdn.net/qq_36478920/article/details/161346179)
+
++ [上百台服务器手动装Nginx？用Ansible Playbook一条命令搞定批量部署](https://blog.csdn.net/LT15171009269/article/details/161425382)
+
++ [Prometheus - Grafana 进阶：自定义监控面板制作与模板复用](https://blog.csdn.net/qq_41187124/article/details/157547025)
+
++ [WeMed：一个医疗垂直领域大模型 问答系统的 Taro 小程序](https://blog.csdn.net/yantuguiguziPGJ/article/details/161348990)
+

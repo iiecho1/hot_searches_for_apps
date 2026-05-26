@@ -229,3 +229,5 @@
 
 + [以军下达紧急征召令 以扩大在黎“黄线”外军事行动](https://news.cctv.com/2026/05/26/ARTIiJKSosYG3ZIvQre41qaE260526.shtml)
 
++ [因技术故障 以方一军机误投弹药至以南部地区](https://news.cctv.com/2026/05/26/ARTIdaAByYuTWhJoGRwmD4WJ260526.shtml)
+
