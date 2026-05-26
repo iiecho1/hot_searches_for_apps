@@ -127,3 +127,5 @@
 
 + [【与我学 ClaudeCode】协作篇 之 Autonomous Agents ：自组织任务认领与空闲治理](https://blog.csdn.net/2401_87662859/article/details/161385994)
 
++ [逆向工程与重构工程：概念、级别与方法解析](https://blog.csdn.net/eidolon_foot/article/details/161023733)
+
