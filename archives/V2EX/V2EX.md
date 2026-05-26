@@ -21,3 +21,11 @@
 
 + [HyperAPI 的新老用户来领福利了，留 ID 加额度](https://www.v2ex.com/t/1215373)
 
++ [自建了一个 AI 中转站，邀请大家帮忙压测（支持 Claude Code 调用 GPT-5.5）](https://www.v2ex.com/t/1215389)
+
++ [测评小米汽车的 up 主被关了 1 年 6 个月，还没判……](https://www.v2ex.com/t/1215283)
+
++ [送 $5 余额｜ Claude 满血 Opus 99% SLA / GPT 倍率 0.2， API 中转站 comeu.ai](https://www.v2ex.com/t/1215291)
+
++ [问大家， 618 运动手表或手环的选择！](https://www.v2ex.com/t/1215253)
+

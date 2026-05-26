@@ -121,3 +121,13 @@
 
 + [金仓数据库 KES：DISTINCT 语句性能优化实践与内核实现](https://blog.csdn.net/lrq13965748542/article/details/161365687)
 
++ [【Spring Boot 认证登录注册模块全解析】：JWT+BCrypt+Redis 企业级实践](https://blog.csdn.net/2504_94294476/article/details/161401707)
+
++ [ROS开发专栏---IMU 数据读取实验实现---适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161307122)
+
++ [操作系统与进程核心全解：从冯诺依曼到fork系统调用](https://blog.csdn.net/say_fall/article/details/161400663)
+
++ [【与我学 ClaudeCode】协作篇 之 Autonomous Agents ：自组织任务认领与空闲治理](https://blog.csdn.net/2401_87662859/article/details/161385994)
+
++ [Agent智能体：让AI自己调API干活——从Android Service到AI Agent的思维跃迁](https://blog.csdn.net/mba16c35/article/details/161323181)
+

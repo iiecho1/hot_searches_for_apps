@@ -181,3 +181,7 @@
 
 + [伊朗媒体披露最高领袖就医情况](https://news.cctv.com/2026/05/26/ARTI0iFayXHVlIAqHfts6n4h260526.shtml)
 
++ [日本计划编制3万亿日元补充预算应对能源涨价冲击](https://news.cctv.com/2026/05/26/ARTISU4ZvX7Fy11AZpoDybRq260526.shtml)
+
++ [悉尼灯光节表演发生技术故障 近90架无人机坠海](https://news.cctv.com/2026/05/26/ARTIgCbuMpC6L22eQRU3c6F2260526.shtml)
+
