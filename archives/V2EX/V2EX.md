@@ -45,3 +45,13 @@
 
 + [推荐大家都去买个除湿机试试，花小钱明显提升幸福感](https://www.v2ex.com/t/1215352)
 
++ [记一次暗恋](https://www.v2ex.com/t/1215492)
+
++ [求推荐妈妈用的手机](https://www.v2ex.com/t/1215466)
+
++ [各位 Javaer 现在是怎么用 idea+各种 AI 工具的](https://www.v2ex.com/t/1215463)
+
++ [玩美股的兄弟们，现在应对策略是什么](https://www.v2ex.com/t/1215456)
+
++ [你们遇到最奇怪的同事是什么样的](https://www.v2ex.com/t/1215470)
+
