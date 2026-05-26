@@ -131,3 +131,27 @@
 
 + [Agent智能体：让AI自己调API干活——从Android Service到AI Agent的思维跃迁](https://blog.csdn.net/mba16c35/article/details/161323181)
 
++ [企业级股票舆情监控实战：基于 Bright Data AI Studio 的东方财富股吧数据采集方案](https://blog.csdn.net/m0_64336780/article/details/161392798)
+
++ [用 Prometheus + Alertmanager 搭一个手机能收告警的监控系统](https://blog.csdn.net/COLLINSXU/article/details/161416281)
+
++ [LLM智能体加持YOLO26-MoE：无人机绝缘子故障检测新方案](https://blog.csdn.net/m0_63774211/article/details/161378863)
+
++ [【Linux：文件】Linux 动静态库详解：动态链接与动态库加载深度解析](https://blog.csdn.net/2501_91275995/article/details/161344894)
+
++ [本地大模型被命令行劝退？用OpenWebUI把Ollama变成ChatGPT体验](https://blog.csdn.net/u010726809/article/details/161388029)
+
++ [【SpringBoot 3.x 第222节】如何从 Spring Boot 使用者成长为 Spring 架构师？](https://blog.csdn.net/weixin_43970743/article/details/160183634)
+
++ [Qt 高级开发 015：C++ 原生实现信号槽机制](https://blog.csdn.net/2503_92624912/article/details/161364195)
+
++ [自制 Linux 库文件：从编译.o 到部署.a/.so 的完整流程](https://blog.csdn.net/2503_94076563/article/details/161399831)
+
++ [HarmonyOS APP＜＜古今职鉴定＞＞开源教程第30篇：应用打包与华为应用市场上架](https://blog.csdn.net/ldc121xy716/article/details/161193421)
+
++ [重磅｜华为 ISCAS 2026 官宣 τ 缩放理论（韬定律）：摩尔做小落幕，芯片做快崛起](https://blog.csdn.net/HPCgpu/article/details/161395787)
+
++ [2026北京车展专题｜电控产品及技术全景解读：集成化、高压化、碳化硅成主流](https://blog.csdn.net/weixin_62244995/article/details/160991209)
+
++ [146-基于Python的智能手表数据可视化分析系统](https://blog.csdn.net/qq_53846367/article/details/161401400)
+

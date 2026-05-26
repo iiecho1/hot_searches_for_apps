@@ -185,3 +185,17 @@
 
 + [悉尼灯光节表演发生技术故障 近90架无人机坠海](https://news.cctv.com/2026/05/26/ARTIgCbuMpC6L22eQRU3c6F2260526.shtml)
 
++ [加拿大总理呼吁对赴加沙船队平民遭遇展开独立调查](https://news.cctv.com/2026/05/26/ARTItEiTSraCrCvioGcCPTPu260526.shtml)
+
++ [韩称朝鲜向半岛西部海域发射不明飞行物 朝方暂无回应](https://news.cctv.com/2026/05/26/ARTIPKcxvCnbMRMm49gUPZNI260526.shtml)
+
++ [菲律宾民众集会抗议菲日防务合作](https://news.cctv.com/2026/05/26/ARTIhitsDMjXqxrsWoUB6dD2260526.shtml)
+
++ [南非自由州骚乱波及侨商店铺 我领馆发安全提醒](https://news.cctv.com/2026/05/26/ARTIn78RKVkxZlM6slh5hJNZ260526.shtml)
+
++ [世界杯各球队小组赛驻地确定 伊朗队将驻扎墨西哥](https://news.cctv.com/2026/05/26/ARTIpsAo1HxrmBN0aXiZ4MGQ260526.shtml)
+
++ [德国法兰克福：天空现“飞机凌月”景观](https://photo.cctv.com/2026/05/26/PHOAkPD024d5w2BDD30o7fbC260526.shtml)
+
++ [鲁比奥称美伊协议措辞磋商或“还需几天时间”](https://news.cctv.com/2026/05/26/ARTIZfwAFZAW3Fhsk0iGRGQv260526.shtml)
+
