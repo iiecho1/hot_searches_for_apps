@@ -37,3 +37,17 @@
 
 + [这两年帮家里老人看手机，我越来越害怕各种“自动续费”了](https://www.v2ex.com/t/1215700)
 
++ [老婆最近频繁让我准备润去新加坡](https://www.v2ex.com/t/1215832)
+
++ [身为广东人，为啥我身边不洗澡的人越来越多了](https://www.v2ex.com/t/1215806)
+
++ [工作多年，还是改不了待人热情，这是不是一个缺点？](https://www.v2ex.com/t/1215825)
+
++ [寻找 postman、xshell、navicat 的替代软件](https://www.v2ex.com/t/1215798)
+
++ [做了一个“全网视频下载”的 Windows 桌面应用：仅 2.2MB，粘贴链接就能下，欢迎试用](https://www.v2ex.com/t/1215779)
+
++ [[抽奖] 聊聊 AI Agent 与移动编程，顺道送点固态硬盘和酷态科充电头（第一轮）](https://www.v2ex.com/t/1215882)
+
++ [618 准备换个手机](https://www.v2ex.com/t/1215824)
+

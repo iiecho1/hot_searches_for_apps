@@ -139,3 +139,23 @@
 
 + [2026指挥中心分布式坐席系统选型指南](https://blog.csdn.net/weixin_47613673/article/details/161413500)
 
++ [MaxKB4j 近三月开发进展速览：从 RAG 引擎到全能 AI 工作流平台](https://blog.csdn.net/weixin_40986713/article/details/161444466)
+
++ [PyTorch强化学习实战——使用高级组件复现DQN](https://blog.csdn.net/LOVEmy134611/article/details/157930644)
+
++ [Prometheus - 指标标签最佳实践：规范化设计与查询效率提升](https://blog.csdn.net/qq_41187124/article/details/157547098)
+
++ [【人大金仓】人大金仓数据库V9数据库兼容模式为oracle如何更改为pg的解决方案](https://blog.csdn.net/weixin_44299027/article/details/161427321)
+
++ [2026 企业定制开发选型：从零开发、低代码、SaaS 与 RuoYi Office 怎么选？](https://blog.csdn.net/zhouzhongyan/article/details/161444040)
+
++ [Kibana 仪表板即代码：在 Elastic 9.4 中用于 Kibana 仪表板的 GitOps、漂移检测与 Terraform](https://blog.csdn.net/UbuntuTouch/article/details/161439727)
+
++ [Spring 事务管理实战指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161421917)
+
++ [【爬虫系列·第 01 篇】全景图：从搜索引擎到 AI 数据管道——网络爬虫的前世今生](https://blog.csdn.net/qq_73472828/article/details/161332512)
+
++ [Vue 项目实战与性能优化：工程化与协作全指南（规范 + 配置 + 协作 + 文档）](https://blog.csdn.net/qq_40303030/article/details/160054281)
+
++ [ROS开发专栏---基于 IMU 实现机器人航向锁定实验---适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161321129)
+

@@ -25,3 +25,7 @@
 
 + [12.99 万元起 2026 款比亚迪海狮 06 DM-i 正式上市：满油满电综合续航 1845km](https://m.ithome.com/html/955256.htm)
 
++ [英伟达 CEO 黄仁勋现身夜市买烤玉米，“付费插队”引热议](https://m.ithome.com/html/955612.htm)
+
++ [华为“韬定律”逻辑折叠芯片设计公布，北大团队火速官宣“真 3D”EDA 工具原型](https://m.ithome.com/html/955623.htm)
+

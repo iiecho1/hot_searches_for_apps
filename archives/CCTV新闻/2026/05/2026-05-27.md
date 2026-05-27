@@ -173,3 +173,15 @@
 
 + [特朗普将27日内阁会议地点改回白宫](https://news.cctv.com/2026/05/27/ARTIJdq3GlPPsqBRqMbVfxCq260527.shtml)
 
++ [拉美与加勒比地区19国联合打击跨国犯罪](https://news.cctv.com/2026/05/27/ARTIdhKrqq4tRL6kv33VOx40260527.shtml)
+
++ [越来越多曾在柬埔寨等国从事电诈的人员正转移至印尼作案 我使馆提醒](https://news.cctv.com/2026/05/27/ARTIDRORemqJUQZd1FIVuE7j260527.shtml)
+
++ [欧盟外长非正式会议将举行 聚焦地区问题](https://news.cctv.com/2026/05/27/ARTIaxJicVNg062W09MJWbgS260527.shtml)
+
++ [古巴外长与联合国秘书长举行会晤 谴责美国对古军事威胁](https://news.cctv.com/2026/05/27/ARTIQcB1IzHNrjtI9xhdbTg8260527.shtml)
+
++ [三星电子劳资协议通过 罢工风险暂时解除](https://news.cctv.com/2026/05/27/ARTI8RMsgNUNSPMsDEyquDEu260527.shtml)
+
++ [金正恩观摩朝鲜国防科研机关重要武器试验](https://news.cctv.com/2026/05/27/ARTIQSyHAlysQXGM4cXyQOoq260527.shtml)
+
