@@ -197,3 +197,5 @@
 
 + [【讲习所·中国与世界】“携手走出一条命运与共、共同繁荣的光明大道”](https://news.cctv.com/2026/05/27/ARTIR8yMnfBQxhloSn61U28G260527.shtml)
 
++ [近镜头｜习近平主席同老友再叙传统友谊](https://news.cctv.com/2026/05/27/ARTIXEms5MXwX6UhwiTsdXU2260527.shtml)
+

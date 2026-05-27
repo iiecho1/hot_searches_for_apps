@@ -173,3 +173,19 @@
 
 + [HarmonyOS 6.1 全栈实战录 - 64 突破终端物理壁垒：实战 Weather Service Kit 精确位置天气检索、City地点名反查与 TV 跨端适配](https://blog.csdn.net/sjw890821sjw/article/details/161399333)
 
++ [Prometheus - 监控微服务：Spring Boot 应用指标暴露与监控](https://blog.csdn.net/qq_41187124/article/details/157547265)
+
++ [《大模型驱动软件测试》| 软件工程3.0时代，大模型驱动测试实战指南](https://blog.csdn.net/liu_chen_yang/article/details/161456006)
+
++ [C#接口幂等性：4种方案，你用对了吗？](https://blog.csdn.net/z_344791576/article/details/151895921)
+
++ [Qt 开源软件适配鸿蒙 PC 小白复现步骤（实战指南记录）](https://blog.csdn.net/weixin_52908342/article/details/161343743)
+
++ [【花雕学编程】Arduino BLDC 之机器人动态变换编队（虚拟结构切换）](https://blog.csdn.net/weixin_41659040/article/details/161446914)
+
++ [GaussDB(DWS)性能问题处理套路](https://blog.csdn.net/GaussDB/article/details/161456224)
+
++ [智谱GLM-5：实用主义AGI的技术革命](https://blog.csdn.net/qq_38998213/article/details/161451095)
+
++ [CSDN AI数字营销实测体验：多平台账号一键分发到底好不好用？我做了一次完整实测](https://blog.csdn.net/weixin_47431459/article/details/161453221)
+
