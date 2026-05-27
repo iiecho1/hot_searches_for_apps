@@ -33,3 +33,5 @@
 
 + [moeru-ai/airi](https://github.com/moeru-ai/airi)
 
++ [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness)
+

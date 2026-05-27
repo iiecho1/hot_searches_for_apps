@@ -101,3 +101,11 @@
 
 + [智谱GLM-5：实用主义AGI的技术革命](https://blog.csdn.net/qq_38998213/article/details/161451095)
 
++ [CSDN AI数字营销实测体验：多平台账号一键分发到底好不好用？我做了一次完整实测](https://blog.csdn.net/weixin_47431459/article/details/161453221)
+
++ [BrowserAct 反检测浏览器自动化实测](https://blog.csdn.net/qing_gee/article/details/161444571)
+
++ [TVA凭什么成为具身机器人的“类人智眼“（8）](https://blog.csdn.net/2501_94287723/article/details/161427513)
+
++ [Spring 事务管理实战指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161421917)
+

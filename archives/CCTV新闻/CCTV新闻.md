@@ -159,3 +159,7 @@
 
 + [伊朗总统称伊方随时准备向世界宣告伊方不寻求核武器](https://news.cctv.com/2026/05/24/ARTI2JgONN8QMO21pvkh8kY5260524.shtml)
 
++ [泽连斯基致信美国总统和国会寻求防空力量支持](https://news.cctv.com/2026/05/28/ARTIeWc5L10qDKz1CpqV5SHz260527.shtml)
+
++ [哈马斯证实其军事领导人及家人在以军空袭中身亡](https://news.cctv.com/2026/05/28/ARTI1LXCq0lMcfBqo7DOyx2N260527.shtml)
+
