@@ -109,3 +109,5 @@
 
 + [Spring 事务管理实战指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161421917)
 
++ [OpenClaw 配置飞书机器人完整指南：从零到每天定时推送天气](https://blog.csdn.net/weipt/article/details/161394761)
+

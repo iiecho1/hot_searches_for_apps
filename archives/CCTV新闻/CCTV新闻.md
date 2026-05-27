@@ -163,3 +163,5 @@
 
 + [哈马斯证实其军事领导人及家人在以军空袭中身亡](https://news.cctv.com/2026/05/28/ARTI1LXCq0lMcfBqo7DOyx2N260527.shtml)
 
++ [特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁](https://news.cctv.com/2026/05/28/ARTIGpTO0eQ1L0ms7lLGAfTq260528.shtml)
+
