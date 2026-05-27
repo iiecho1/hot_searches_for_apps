@@ -185,3 +185,15 @@
 
 + [金正恩观摩朝鲜国防科研机关重要武器试验](https://news.cctv.com/2026/05/27/ARTIQSyHAlysQXGM4cXyQOoq260527.shtml)
 
++ [消息人士：欧盟各成员国政府已批准欧美贸易协议相关立法](https://news.cctv.com/2026/05/27/ARTIDWrBv4Db63aiFiExB2Pb260527.shtml)
+
++ [英国伦敦戈尔德斯格林地区一犹太超市发生火灾](https://news.cctv.com/2026/05/27/ARTIL4tRIt6B8it1SNMT6Ko4260527.shtml)
+
++ [为全球减贫事业贡献中国方案](https://news.cctv.com/2026/05/27/ARTIzLvfo3tQUUaEd5mo6OE7260527.shtml)
+
++ [伊朗最高领袖顾问：霍尔木兹海峡是协议存续的现实保障](https://news.cctv.com/2026/05/27/ARTI2BN8Okd2nAtEUTZAmWHF260527.shtml)
+
++ [伊朗官员：根据美伊初步协议草案 美将在所有战线停火60天](https://news.cctv.com/2026/05/27/ARTIZnKBmAk4R5rzunloQ0pZ260527.shtml)
+
++ [【讲习所·中国与世界】“携手走出一条命运与共、共同繁荣的光明大道”](https://news.cctv.com/2026/05/27/ARTIR8yMnfBQxhloSn61U28G260527.shtml)
+

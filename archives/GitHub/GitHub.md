@@ -29,3 +29,17 @@
 
 + [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)
 
++ [p-e-w/heretic](https://github.com/p-e-w/heretic)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
++ [iii-hq/iii](https://github.com/iii-hq/iii)
+
++ [moeru-ai/airi](https://github.com/moeru-ai/airi)
+
