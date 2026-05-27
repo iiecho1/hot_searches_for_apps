@@ -169,3 +169,7 @@
 
 + [以军空袭黎巴嫩致71人伤亡 黎重要水坝附近被炸](https://news.cctv.com/2026/05/27/ARTIlObqlZZer9pz2lJAx73B260527.shtml)
 
++ [俄罗斯百岁老战士：“非常感谢习主席的关心”](https://news.cctv.com/2026/05/27/ARTIW7xShMeG1sMqRgka5KY9260527.shtml)
+
++ [特朗普将27日内阁会议地点改回白宫](https://news.cctv.com/2026/05/27/ARTIJdq3GlPPsqBRqMbVfxCq260527.shtml)
+

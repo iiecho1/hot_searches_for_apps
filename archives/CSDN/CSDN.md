@@ -131,3 +131,11 @@
 
 + [▲DQPSK调制解调+FFT频偏估计+扩频解扩通信系统matlab误码率仿真](https://blog.csdn.net/ccsss22/article/details/161433067)
 
++ [【AVRCP】规范精讲[19]: 媒体属性全解析，让你的蓝牙设备显示完整歌曲信息](https://blog.csdn.net/weixin_37800531/article/details/161293973)
+
++ [谷歌辞职、创业失败、重读神经科学，她说 AI 时代最危险的事是外包你的思考 ｜ 万有引力](https://blog.csdn.net/tangxiaoyin/article/details/161428871)
+
++ [DeepSeek 接入 Claude Code (VSCode) 配置](https://blog.csdn.net/2401_83192228/article/details/161349687)
+
++ [2026指挥中心分布式坐席系统选型指南](https://blog.csdn.net/weixin_47613673/article/details/161413500)
+
