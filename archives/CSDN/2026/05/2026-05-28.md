@@ -121,3 +121,25 @@
 
 + [HTTP/1.1、HTTP/2、HTTP/3 技术详解、差异对比与通用升级指南](https://blog.csdn.net/qq_44695874/article/details/161423605)
 
++ [【HarmonyOS 6.0】Live View Kit 实况支持显示夕阳和赏月背景的技术解读与实践](https://blog.csdn.net/weixin_74809706/article/details/161370633)
+
++ [HarmonyOS鸿蒙PC开源QT软件移植：移植开源文本编辑器 NotePad--（Ndd）到鸿蒙 PC实践总结](https://blog.csdn.net/chenlycly/article/details/161392794)
+
++ [AI大模型集体沦陷？Unicode隐形注入攻击揭秘：深度学习技术溯源与LLM防御策略](https://blog.csdn.net/qq_56999332/article/details/161462003)
+
++ [【AI智能体】AgentScope Java 整合SpringBoot 实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/161234615)
+
++ [GaussDB(DWS) SQL性能问题案例集](https://blog.csdn.net/GaussDB/article/details/161456105)
+
++ [用 Tauri 2 + Rust 写了个健康提醒工具，专治久坐不动](https://blog.csdn.net/Mrxiao_bo/article/details/161459832)
+
++ [2026中小团队远程协作工具推荐：从创建团队到8K画质，一篇看懂](https://blog.csdn.net/m0_73367097/article/details/161432582)
+
++ [ROS开发专栏---基于激光雷达的自动避障---适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161476161)
+
++ [Jetpack Compose 焦点与键盘：FocusRequester、imePadding 与 BringIntoView 实战](https://blog.csdn.net/g984160547/article/details/161449383)
+
++ [[ 计算机网络 | 第三章 ] 数据链路层 06 无线局域网](https://blog.csdn.net/2402_88777742/article/details/161473464)
+
++ [详解MyBatis 动态 SQL](https://blog.csdn.net/2503_94545876/article/details/161461591)
+

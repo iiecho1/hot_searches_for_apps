@@ -173,3 +173,19 @@
 
 + [菲律宾在建酒店坍塌事故已致5人死亡](https://news.cctv.com/2026/05/28/ARTIKHx0dkJgzdclBu9Kzsf4260528.shtml)
 
++ [中国驻泰国使馆提醒在泰中国公民自觉抵制任何形式赌博活动](https://news.cctv.com/2026/05/28/ARTI8fuxUmmxjUfWHLHCPwnH260528.shtml)
+
++ [日本升级情报体系引民众持续反对：将留下长期隐患](https://news.cctv.com/2026/05/28/ARTIEo5geJGTNoHcOR3OZBWf260528.shtml)
+
++ [伊朗革命卫队称对美空军基地进行打击](https://news.cctv.com/2026/05/28/ARTI3L8MNOthad5MHP6eahHl260528.shtml)
+
++ [科威特全国拉响防空警报 军方称正拦截“敌对”导弹及无人机](https://news.cctv.com/2026/05/28/ARTIaQLEc84n38kHQRfjUZe2260528.shtml)
+
++ [美方称击落伊朗无人机 伊朗称迫使美油轮折返](https://news.cctv.com/2026/05/28/ARTItHogwJPg0pKVFoU0aHTP260528.shtml)
+
++ [美联邦航空局下令调查“星舰”火箭故障](https://news.cctv.com/2026/05/28/ARTITnvuTdP92ys3C7w1L428260528.shtml)
+
++ [五角大楼被曝已部署对古巴发动军事打击所需兵力](https://news.cctv.com/2026/05/28/ARTIznjW8F6pBCaevRVFCUZ2260528.shtml)
+
++ [美国将伊朗“波斯湾海峡管理局”列入制裁名单](https://news.cctv.com/2026/05/28/ARTIfBOVr8NjQYgXFX9kFAqn260528.shtml)
+

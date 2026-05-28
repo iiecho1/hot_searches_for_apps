@@ -31,3 +31,17 @@
 
 + [求推荐洗发水：控油效果好、能去头屑的，不要求生发。谢谢！](https://www.v2ex.com/t/1215867)
 
++ [入手了 一加 15T，说说感受](https://www.v2ex.com/t/1215979)
+
++ [我发现 it 类工作者是最严重的性压抑群体 包括我自己 it 类的工作者](https://www.v2ex.com/t/1216049)
+
++ [想知道你们曾经离职的主要核心原因都是什么？](https://www.v2ex.com/t/1215953)
+
++ [命令行提取 macOS 核心软件 Top 30 , 晒晒你的](https://www.v2ex.com/t/1215916)
+
++ [老婆送了我个 iPhone17 Pro Max 1T，但我更舍不得我的 iPhone13 巨魔](https://www.v2ex.com/t/1216062)
+
++ [mac 笔记本 500G，开发用，现在没有储存空间了怎么办](https://www.v2ex.com/t/1216060)
+
++ [是否存在港卡以外的其他选择？比如东南亚各国？](https://www.v2ex.com/t/1216059)
+
