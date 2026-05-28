@@ -189,3 +189,25 @@
 
 + [美国将伊朗“波斯湾海峡管理局”列入制裁名单](https://news.cctv.com/2026/05/28/ARTIfBOVr8NjQYgXFX9kFAqn260528.shtml)
 
++ [乌克兰议会批准接收欧盟900亿欧元贷款的法案](https://news.cctv.com/2026/05/28/ARTIjmft8kj5lhlrdDdMyWmF260528.shtml)
+
++ [分析：美国至少3年才能补齐伊朗战事消耗武器库存](https://news.cctv.com/2026/05/28/ARTIfBkGaa5egKLXdkx5Z8gv260528.shtml)
+
++ [俄体育部长：国际冰球联合会纪律委员会取消俄罗斯国家队禁赛决定](https://news.cctv.com/2026/05/28/ARTIDpNUaJ1aW58Io9QiuKKo260528.shtml)
+
++ [德国或因高温天气面临上千亿欧元经济损失](https://news.cctv.com/2026/05/28/ARTIyuXn7fnruz4vibr75ELg260528.shtml)
+
++ [伊朗外交部强烈谴责美国“多次违反停火协议”](https://news.cctv.com/2026/05/28/ARTIJpW1ybsyLjEMOYxplhBU260528.shtml)
+
++ [至少202名外国移民在希腊南部海域获救](https://news.cctv.com/2026/05/28/ARTIub338KEofHSDboKleDrj260528.shtml)
+
++ [欧洲六国联合发声 反对欧盟碳排放标准](https://news.cctv.com/2026/05/28/ARTIkVBOSsZs6QhyeBYeeFfK260528.shtml)
+
++ [美政府被曝叫停对委代总统的刑事调查](https://news.cctv.com/2026/05/28/ARTI90u2zWWpIq2q4uskz4F9260528.shtml)
+
++ [美计划将有埃博拉感染风险的美国人送至肯尼亚隔离](https://news.cctv.com/2026/05/28/ARTItR1g6kZksGG2QnqMuDOv260528.shtml)
+
++ [国际空间站两名俄宇航员完成约6小时舱外作业](https://news.cctv.com/2026/05/28/ARTIJZa5DeaL3GWsnTBy6A4Q260528.shtml)
+
++ [中国驻韩国大使馆发言人就驻韩美军司令不当言论答记者问](https://news.cctv.com/2026/05/28/ARTIxKTS3gtWtVZURbf4h7uJ260528.shtml)
+

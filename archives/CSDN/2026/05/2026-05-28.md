@@ -143,3 +143,15 @@
 
 + [详解MyBatis 动态 SQL](https://blog.csdn.net/2503_94545876/article/details/161461591)
 
++ [计算机科学/数据科学/人工智能/安全笔记 2026.3](https://blog.csdn.net/wizardforcel/article/details/161446956)
+
++ [【人大金仓】人大金仓数据库V9函数 sys.concat()不存在的问题解决方案](https://blog.csdn.net/weixin_44299027/article/details/161427213)
+
++ [GitLab 搭在自己服务器，代码安全了，但出了办公室就连不上](https://blog.csdn.net/yunjianyue1314/article/details/161480297)
+
++ [自研-网络安全自动化应急响应工具系统（NSRT）](https://blog.csdn.net/2301_77649855/article/details/161323021)
+
++ [十个奇异 github 项目](https://blog.csdn.net/Niki2020_2017/article/details/161453387)
+
++ [HarmonyOS 6 悬浮导航 + 沉浸光感：打造鸿蒙智能体驱动的沉浸式健康监测伴侣](https://blog.csdn.net/u014727709/article/details/161420103)
+
