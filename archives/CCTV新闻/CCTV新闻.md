@@ -167,3 +167,9 @@
 
 + [总台记者观察丨欧美分歧扩大 北约加速强化波罗的海防线](https://news.cctv.com/2026/05/28/ARTILnPs8Y1cVmAFjyIsg6ax260528.shtml)
 
++ [韩国前总统尹锡悦涉嫌作伪证案一审被判无罪](https://news.cctv.com/2026/05/28/ARTIc0DxNOHL22AkBpUAoDhh260528.shtml)
+
++ [刚果（金）埃博拉疫情疑似病例数破千](https://news.cctv.com/2026/05/28/ARTIuusZQQY6HFHr1Txxqc12260528.shtml)
+
++ [菲律宾在建酒店坍塌事故已致5人死亡](https://news.cctv.com/2026/05/28/ARTIKHx0dkJgzdclBu9Kzsf4260528.shtml)
+

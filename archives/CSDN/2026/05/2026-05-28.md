@@ -111,3 +111,13 @@
 
 + [OpenClaw 配置飞书机器人完整指南：从零到每天定时推送天气](https://blog.csdn.net/weipt/article/details/161394761)
 
++ [Vibe Coding实战：从零构建网页3D交互角色](https://blog.csdn.net/qq_46987323/article/details/161454839)
+
++ [Django 从 0 到 1 打造完整电商平台:Nginx + uWSGI 部署 Django 项目](https://blog.csdn.net/x00237053/article/details/161432338)
+
++ [GitHub狂揽23万Stars的OpenClaw：Windows一键部署，30分钟搭建你的私人AI助手](https://blog.csdn.net/weixin_62765017/article/details/161391047)
+
++ [云原生实战：K8s 一键部署 Prometheus+Grafana+EFK 完整可观测平台](https://blog.csdn.net/2501_94830992/article/details/161430070)
+
++ [HTTP/1.1、HTTP/2、HTTP/3 技术详解、差异对比与通用升级指南](https://blog.csdn.net/qq_44695874/article/details/161423605)
+
