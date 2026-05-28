@@ -35,3 +35,17 @@
 
 + [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness)
 
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [revfactory/harness](https://github.com/revfactory/harness)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+
++ [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
+
++ [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+
++ [anthropics/skills](https://github.com/anthropics/skills)
+

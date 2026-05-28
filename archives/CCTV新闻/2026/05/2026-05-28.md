@@ -211,3 +211,23 @@
 
 + [中国驻韩国大使馆发言人就驻韩美军司令不当言论答记者问](https://news.cctv.com/2026/05/28/ARTIxKTS3gtWtVZURbf4h7uJ260528.shtml)
 
++ [伊朗最高领袖：美以试图让伊朗“屈服”](https://news.cctv.com/2026/05/28/ARTIeDNFTCZQeVO32wrSRrXR260528.shtml)
+
++ [乌克兰将从瑞典采购20架“鹰狮”战斗机](https://news.cctv.com/2026/05/28/ARTIUJ3Sq3Kg1V2k8AnkXeAq260528.shtml)
+
++ [俄喀山两辆公交车相撞 致10人受伤](https://news.cctv.com/2026/05/28/ARTI7fzq1RhEs04Uk9CDcZnX260528.shtml)
+
++ [伊朗军方：过去24小时有26艘船通过霍尔木兹海峡](https://news.cctv.com/2026/05/28/ARTIBHSLXtGuJjiRhLrYnGIw260528.shtml)
+
++ [哈马斯：以色列加大军事行动令停火协议“面临崩溃”](https://news.cctv.com/2026/05/28/ARTIlReWvApuCKLb9fdUpfW2260528.shtml)
+
++ [欧盟能源总司：若未来几周情况未好转 供应将更加紧张](https://news.cctv.com/2026/05/28/ARTIf0LRkHsMzd2l7N9g5q9A260528.shtml)
+
++ [菲律宾一卡车发生车祸 致5人死亡](https://news.cctv.com/2026/05/28/ARTIdRQxXjVhgxcasqaAmSzW260528.shtml)
+
++ [美国墨西哥将谈判美墨加协定 加拿大缺席](https://news.cctv.com/2026/05/28/ARTIRE96ltpD1HpOmsbV69ym260528.shtml)
+
++ [瑞士一火车站发生持刀袭击事件 已致三人受伤](https://news.cctv.com/2026/05/28/ARTI2roc14zYrQmEovTRtVSJ260528.shtml)
+
++ [印度德里地区高温天气持续 气象部门发布预警](https://news.cctv.com/2026/05/28/ARTILnaMan4bYzOPUtZBaNwX260528.shtml)
+

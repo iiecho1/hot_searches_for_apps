@@ -155,3 +155,27 @@
 
 + [HarmonyOS 6 悬浮导航 + 沉浸光感：打造鸿蒙智能体驱动的沉浸式健康监测伴侣](https://blog.csdn.net/u014727709/article/details/161420103)
 
++ [【后端配置模块实战】：索引、中间件与缓存架构全解析](https://blog.csdn.net/2504_94294476/article/details/161464003)
+
++ [聚合AI工具KULAAI：GPT、Claude、Gemini、DeepSeek热门模型一键使用](https://blog.csdn.net/weixin_43151418/article/details/161486468)
+
++ [【花雕学编程】Arduino BLDC 之机器人二维编队跟随（麦克纳姆轮底盘）](https://blog.csdn.net/weixin_41659040/article/details/161471539)
+
++ [【Linux：文件】Ext系列文件系统进阶](https://blog.csdn.net/2401_89899187/article/details/157813489)
+
++ [【MySQL数据库学习】(MySQL库的操作和表的操作)](https://blog.csdn.net/2401_87629362/article/details/161341597)
+
++ [大陆手机号生成器](https://blog.csdn.net/xu990128638/article/details/161398687)
+
++ [Linux 高级IO（一）理解IO及其本质，理解五种IO模型，非阻塞IO，fcntl](https://blog.csdn.net/2401_88465894/article/details/161304808)
+
++ [Cursor 3.3 终极技能解释：12个斜杠命令解锁AI编程](https://blog.csdn.net/qq_38998213/article/details/161477703)
+
++ [HarmonyOS 6.1 全栈实战录 - 67 实战 Scan Kit 穿戴后置相机扫码、动态标题展示](https://blog.csdn.net/sjw890821sjw/article/details/161439348)
+
++ [鸿蒙 PC 为什么需要新的组件体系？](https://blog.csdn.net/qq_36863796/article/details/161432359)
+
++ [Flutter 视频代理完全教程](https://blog.csdn.net/YoYo_Newbie/article/details/161463817)
+
++ [【Linux之旅】Linux TCP Socket 编程实战：从单连接到线程池，构建高并发服务端](https://blog.csdn.net/2302_80243065/article/details/161484250)
+
