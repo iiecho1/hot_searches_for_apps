@@ -101,3 +101,9 @@
 
 + [Flutter 视频代理完全教程](https://blog.csdn.net/YoYo_Newbie/article/details/161463817)
 
++ [51单片机的学习上(结合中科协的个人自用笔记）](https://blog.csdn.net/Lucky_ldy/article/details/161271678)
+
++ [机器人领域主要期刊及国际会议汇总(中科院分区2021年12月最新版)](https://blog.csdn.net/sinat_37574187/article/details/161494873)
+
++ [Spring AI 架构全解剖：从多模型适配到 MCP 协议，Java 如何系统化拥抱 AI](https://blog.csdn.net/2502_94273177/article/details/161460275)
+
