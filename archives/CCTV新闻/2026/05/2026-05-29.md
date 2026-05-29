@@ -195,3 +195,5 @@
 
 + [中国驻福冈总领事馆提醒领区中国公民注意防范第6号强台风](https://news.cctv.com/2026/05/29/ARTI1DH4dw0dTi8bBj8StNjN260529.shtml)
 
++ [美国打击“运毒船”已致至少199人死亡](https://news.cctv.com/2026/05/29/ARTIb2O8bCJWxjMGpnKxBRt4260529.shtml)
+

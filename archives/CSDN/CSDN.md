@@ -159,3 +159,13 @@
 
 + [群晖装Plex三分钟搞定：套件中心直接装，配好穿透出门也能看片](https://blog.csdn.net/2301_80840905/article/details/161493204)
 
++ [PyTorch深度学习实战（55）——在Android上部署PyTorch模型](https://blog.csdn.net/LOVEmy134611/article/details/161520601)
+
++ [Prometheus - 与 Prometheus Operator 集成：K8s 上监控系统自动化管理](https://blog.csdn.net/qq_41187124/article/details/157547397)
+
++ [DolphinDB横截面引擎：实时统计分析](https://blog.csdn.net/sinat_41617212/article/details/161519779)
+
++ [Elasticsearch 如何通过 synthetic _id 和 Bloom filters 将时序存储降低 34%](https://blog.csdn.net/UbuntuTouch/article/details/161503484)
+
++ [Redis后端分布式与高并发架构演进](https://blog.csdn.net/2302_80268561/article/details/161492205)
+

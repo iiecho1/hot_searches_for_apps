@@ -33,3 +33,17 @@
 
 + [anthropics/skills](https://github.com/anthropics/skills)
 
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [cursor/plugins](https://github.com/cursor/plugins)
+
++ [run-llama/liteparse](https://github.com/run-llama/liteparse)
+
++ [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
+
++ [Biohub/esm](https://github.com/Biohub/esm)
+
++ [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
++ [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+

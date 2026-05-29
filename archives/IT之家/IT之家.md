@@ -25,3 +25,9 @@
 
 + [王传福宣布比亚迪全系均可搭载天神之眼 B 辅助驾驶激光版，选装价格 12000 元](https://m.ithome.com/html/956773.htm)
 
++ [多数地区已补货：M5 MacBook Air 16+512G 京东国补后 6119 元起](https://m.ithome.com/html/956776.htm)
+
++ [王朝网首款 D 级旗舰 SUV：比亚迪大唐 6 月中旬正式上市](https://m.ithome.com/html/956795.htm)
+
++ [华为余承东：全新途灵龙行平台首创全域融合架构、全链路八大冗余设计，为 L3 时代做好了准备](https://m.ithome.com/html/956821.htm)
+
