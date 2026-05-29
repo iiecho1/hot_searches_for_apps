@@ -137,3 +137,25 @@
 
 + [Spring cloud组件gateway网关详细剖析](https://blog.csdn.net/qq_39126115/article/details/161493915)
 
++ [金仓数据库标量子查询消除：一条SQL从32秒优化到24毫秒](https://blog.csdn.net/qq_57761637/article/details/161515762)
+
++ [大语言模型推理能力的Chain of Thought(CoT)思维链技术理论研究与分析](https://blog.csdn.net/ccsss22/article/details/161492223)
+
++ [为什么鸿蒙游戏不能照搬 Unity UI 架构？](https://blog.csdn.net/qq_36478920/article/details/161514841)
+
++ [Java 开源项目推荐：10 个 Spring Boot 企业级应用，适合 2026 年学习和二开](https://blog.csdn.net/zhouzhongyan/article/details/161505803)
+
++ [【Qt 核心机制篇】深度解析 Qt 信号与槽（Signals & Slots）机制：从底层原理、实战演练到 Lambda 进阶](https://blog.csdn.net/yhrxh_ymq/article/details/161464079)
+
++ [Vue3 项目实战与性能优化：组合式 API 进阶、响应式高级用法、可复用逻辑封装与新特性全解](https://blog.csdn.net/qq_40303030/article/details/160054781)
+
++ [【MySQL全面教学】MySQL视图与触发器Day12（2026年）](https://blog.csdn.net/2501_90715893/article/details/161475717)
+
++ [【Docker+K8s 实战·第三篇】Docker Compose：一个 YAML 管理整套开发环境，多容器编排全解析](https://blog.csdn.net/qq_73472828/article/details/161258470)
+
++ [【MATLAB】超声成像信号处理与重建程序仿真研究](https://blog.csdn.net/unbelievevc/article/details/161505704)
+
++ [【鸿蒙】计数器记录](https://blog.csdn.net/2601_95150937/article/details/161508506)
+
++ [群晖装Plex三分钟搞定：套件中心直接装，配好穿透出门也能看片](https://blog.csdn.net/2301_80840905/article/details/161493204)
+

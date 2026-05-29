@@ -181,3 +181,17 @@
 
 + [欧盟与乌克兰已达成900亿欧元贷款协议](https://news.cctv.com/2026/05/29/ARTIxAgY2ygNXBTthUgzEahf260529.shtml)
 
++ [美国将在世界杯期间设立“无人机禁飞区”](https://news.cctv.com/2026/05/29/ARTIs3caLFgOWuyeer4zF7c5260529.shtml)
+
++ [日本4月进口原油量创有统计以来最低水平](https://news.cctv.com/2026/05/29/ARTITYb1nSmw2aVGVOnREmiB260529.shtml)
+
++ [日本政府错估大米供需形势致米价飙升](https://news.cctv.com/2026/05/29/ARTIjgxxucOZpIbq7X8fO61g260529.shtml)
+
++ [福岛第一核电站2号机组乏燃料移出作业将于下月启动](https://news.cctv.com/2026/05/29/ARTIKMgnPcti5pLmODymLpmL260529.shtml)
+
++ [日本自卫队派人赴北约从俄乌冲突中“学习经验”](https://news.cctv.com/2026/05/29/ARTIrLTGS9SPBunp4rPT371P260529.shtml)
+
++ [罗马尼亚国防部称俄无人机在该国坠毁致两人受伤](https://news.cctv.com/2026/05/29/ARTIrj8zZd2gUO5ghU9MT1lE260529.shtml)
+
++ [中国驻福冈总领事馆提醒领区中国公民注意防范第6号强台风](https://news.cctv.com/2026/05/29/ARTI1DH4dw0dTi8bBj8StNjN260529.shtml)
+
