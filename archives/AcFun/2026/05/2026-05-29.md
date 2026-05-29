@@ -63,3 +63,5 @@
 
 + [【反语翻唱】Follow the Nightingale（圣洁传说）](https://m.acfun.cn/v/?ac=48559901)
 
++ [豆包指导我玩 卡厄思梦境？？！！](https://m.acfun.cn/v/?ac=48564678)
+
