@@ -167,3 +167,5 @@
 
 + [特朗普：美伊就核问题和霍尔木兹海峡以外次要事项达成一致](https://news.cctv.com/2026/05/30/ARTI3Wrdb5YgVdMc9eMrXsie260529.shtml)
 
++ [普京：有理由认为俄乌冲突临近收尾](https://news.cctv.com/2026/05/30/ARTI8NvYejIKatcz9irVnA2i260530.shtml)
+

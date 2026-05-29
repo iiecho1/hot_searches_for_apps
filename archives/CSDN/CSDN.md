@@ -127,3 +127,5 @@
 
 + [Nacos 2.x 源码深度解析 (七)：服务注册流程 —— 客户端上报与服务端存储](https://blog.csdn.net/Yuu_9977/article/details/161495802)
 
++ [外部系统回调的异步处理架构：接收、落库、MQ消费、推送的完整设计](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161488900)
+
