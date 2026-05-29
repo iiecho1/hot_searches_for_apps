@@ -161,3 +161,9 @@
 
 + [因技术故障 以方一军机误投弹药至以南部地区](https://news.cctv.com/2026/05/26/ARTIdaAByYuTWhJoGRwmD4WJ260526.shtml)
 
++ [欧盟将解冻匈牙利164亿欧元欧盟资金](https://news.cctv.com/2026/05/30/ARTIwxW3MBBOSTjGEV7yotUm260529.shtml)
+
++ [联合国儿基会：过去一周黎巴嫩平均每天有11名儿童伤亡](https://news.cctv.com/2026/05/30/ARTIR2IDhlxblEJaPTVqTCRa260529.shtml)
+
++ [特朗普：美伊就核问题和霍尔木兹海峡以外次要事项达成一致](https://news.cctv.com/2026/05/30/ARTI3Wrdb5YgVdMc9eMrXsie260529.shtml)
+

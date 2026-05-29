@@ -121,3 +121,9 @@
 
 + [Flutter 视频代理完全教程](https://blog.csdn.net/YoYo_Newbie/article/details/161463817)
 
++ [一条 SQL 搞定KingbaseES表空间目录：本地与云原生存储统一管理实践](https://blog.csdn.net/qq_57761637/article/details/161514338)
+
++ [MaxKB4j 近三月开发进展速览：从 RAG 引擎到全能 AI 工作流平台](https://blog.csdn.net/weixin_40986713/article/details/161444466)
+
++ [Nacos 2.x 源码深度解析 (七)：服务注册流程 —— 客户端上报与服务端存储](https://blog.csdn.net/Yuu_9977/article/details/161495802)
+
