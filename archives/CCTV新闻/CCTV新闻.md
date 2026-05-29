@@ -171,3 +171,13 @@
 
 + [美财长称特朗普不会接受“糟糕的伊朗协议”](https://news.cctv.com/2026/05/29/ARTIp6m2vaYJXWpYmvAjbzRE260529.shtml)
 
++ [冰岛将公投决定是否重启加入欧盟谈判](https://news.cctv.com/2026/05/29/ARTIqceGs6lsDm3ScrDNHlLq260529.shtml)
+
++ [64名被菲方羁押的中国公民获释](https://news.cctv.com/2026/05/29/ARTIgaQI5ThTfYdAolyyXwGf260529.shtml)
+
++ [美国得州一公寓楼发生爆炸 已致3死5伤](https://news.cctv.com/2026/05/29/ARTIkvMJZSRo0sqEh49AUAMu260529.shtml)
+
++ [瑞士火车站持刀袭击定性恐袭 嫌疑人更多细节披露](https://news.cctv.com/2026/05/29/ARTI8yjBmfkKJQAsbN8Xjgrs260529.shtml)
+
++ [欧盟与乌克兰已达成900亿欧元贷款协议](https://news.cctv.com/2026/05/29/ARTIxAgY2ygNXBTthUgzEahf260529.shtml)
+

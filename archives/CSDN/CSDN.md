@@ -107,3 +107,33 @@
 
 + [Spring AI 架构全解剖：从多模型适配到 MCP 协议，Java 如何系统化拥抱 AI](https://blog.csdn.net/2502_94273177/article/details/161460275)
 
++ [【Claude】API Error: 400 Failed to deserialize the JSON body into the target type: messages[1].role: …](https://blog.csdn.net/bc202205/article/details/161505390)
+
++ [GitHub 一周热点 ：桌面 AI 助理、编程 Agent 知识图谱、隐身 Chromium、软件 CLI 化、实时 3D 重建](https://blog.csdn.net/HXH_1014/article/details/161432273)
+
++ [【HarmonyOS 6.0】Live View Kit深度解析：实况胶囊尾部图标的设计哲学与实现全流程](https://blog.csdn.net/weixin_74809706/article/details/161370698)
+
++ [HarmonyOS 6.1 全栈实战录 - 67 实战 Scan Kit 穿戴后置相机扫码、动态标题展示](https://blog.csdn.net/sjw890821sjw/article/details/161439348)
+
++ [金属壳有源晶振的稳定性测试](https://blog.csdn.net/zhuoqingjoking97298/article/details/161504075)
+
++ [【Linux：文件】Ext系列文件系统进阶](https://blog.csdn.net/2401_89899187/article/details/157813489)
+
++ [99.99%的可靠性：C#软件测试的3个致命误区与突破性方法](https://blog.csdn.net/z_344791576/article/details/151898751)
+
++ [AI原生创业公司 ｜第五篇：Scale阶段——小团队，大梦想](https://blog.csdn.net/GODYAD/article/details/161477451)
+
++ [【IoTDB】工业时序数据库选型：Apache IoTDB 如何破解海量数据管理难题](https://blog.csdn.net/Morse_Chen/article/details/161431588)
+
++ [个人博客系统|基于Springboot的个人博客系统设计与实现(源码+数据库+文档）](https://blog.csdn.net/weixin_45630258/article/details/161480578)
+
++ [鸿蒙 App 如何实现增量构建？](https://blog.csdn.net/qq_36478920/article/details/161492139)
+
++ [政务大厅那块大屏终于不用循环播放宣传片了：魔珐星云+Qwen让3D数字人站上去当导办员](https://blog.csdn.net/sinat_41617212/article/details/161417961)
+
++ [MiMo 接入 Claude Code 后遇到 API Error 400 的排查与解决](https://blog.csdn.net/weixin_47075748/article/details/161502058)
+
++ [鸿蒙Flutter 三方库 country_codes 的 适配实战](https://blog.csdn.net/weixin_45822171/article/details/161489019)
+
++ [Spring cloud组件gateway网关详细剖析](https://blog.csdn.net/qq_39126115/article/details/161493915)
+
