@@ -55,3 +55,7 @@
 
 + [华为余承东：全新途灵龙行平台首创全域融合架构、全链路八大冗余设计，为 L3 时代做好了准备](https://m.ithome.com/html/956821.htm)
 
++ [梦回 2017：苹果 iPhone X 工程机曝光，白色前面板设计 + 后置 TouchID 指纹](https://m.ithome.com/html/957350.htm)
+
++ [微信 8.0.74 for iOS 正式版更新，横屏通话 / 本机登录等大量功能灰度](https://m.ithome.com/html/957357.htm)
+

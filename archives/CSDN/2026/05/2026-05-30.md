@@ -177,3 +177,17 @@
 
 + [五张图片带你完全搞懂web安全中的文件上传漏洞](https://blog.csdn.net/w1955587824/article/details/161479173)
 
++ [C++ 实现进程池：主从架构、管道通信与任务调度](https://blog.csdn.net/2503_94076563/article/details/161544870)
+
++ [多层状态机：从单变量到4层架构的工程实践](https://blog.csdn.net/2301_79289774/article/details/161494250)
+
++ [计算机网络 - 彻底理解 CIDR、子网掩码与网段划分](https://blog.csdn.net/yangshangwei/article/details/161544218)
+
++ [Qwen-4 72B 开源多模态旗舰发布：12 项基准对标 GPT-5o，原生图像视频理解刷新 SOTA 天花板](https://blog.csdn.net/qq_56999332/article/details/161538602)
+
++ [Docker+K8s：云原生应用基石](https://blog.csdn.net/weixin_35774598/article/details/161519095)
+
++ [【字节跳动】涉嫌重大安全犯罪实锤：为销毁非法入侵痕迹，使用国密算法下发导航篡改指令，高速行驶中修改路线、伪造数据，操作日志完整可追溯，用户生命安全被公然漠视](https://blog.csdn.net/2602_96088873/article/details/161546555)
+
++ [AI科技热点日报 | 2026年5月28日](https://blog.csdn.net/haohaizi_liu/article/details/161483551)
+

@@ -211,3 +211,5 @@
 
 + [德国多特蒙德市中心发生枪击事件 至少2人受伤](https://news.cctv.com/2026/05/30/ARTIBF6b33XEurAdYhXq1ce9260530.shtml)
 
++ [被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待](https://news.cctv.com/2026/05/30/ARTITYPkiAxTaRvwSxgz1vhv260530.shtml)
+

@@ -55,3 +55,9 @@
 
 + [给大二的小孩买了 GPT Go](https://www.v2ex.com/t/1216664)
 
++ [[抽奖-固态硬盘] --聊聊 AI Agent 与移动编程，附福利互动!(第二轮)](https://www.v2ex.com/t/1216565)
+
++ [大佬们 vibe coding 的项目怎么样了](https://www.v2ex.com/t/1216679)
+
++ [Kimi Code 用起来感觉还行，就是很容易达到限额](https://www.v2ex.com/t/1216645)
+
