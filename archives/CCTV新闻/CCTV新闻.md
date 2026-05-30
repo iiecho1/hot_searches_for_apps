@@ -189,3 +189,11 @@
 
 + [习近平主席复信激励中美青少年成为“友谊使者”](https://news.cctv.com/2026/05/30/ARTIR2D82xba1sCv9p6rNPCE260530.shtml)
 
++ [受疑似无人机活动影响 德国慕尼黑机场紧急关闭跑道](https://news.cctv.com/2026/05/30/ARTIFqKSnwvAGOwPcWu2vRkI260530.shtml)
+
++ [美国一名联邦移民执法人员遭明州检方逮捕](https://news.cctv.com/2026/05/30/ARTIARBxsa7zEkvcJaqRx5zv260530.shtml)
+
++ [阿富汗卡车侧翻事故已造成22人死亡](https://news.cctv.com/2026/05/30/ARTI0UwaJUJhd5NvOprSQSrb260530.shtml)
+
++ [俄外交部称已召回驻亚美尼亚大使](https://news.cctv.com/2026/05/30/ARTIjEStPTjq6E5lqeI4l3Em260530.shtml)
+
