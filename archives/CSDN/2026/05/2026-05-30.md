@@ -129,3 +129,17 @@
 
 + [外部系统回调的异步处理架构：接收、落库、MQ消费、推送的完整设计](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161488900)
 
++ [【HarmonyOS 6.0】Live View Kit 实况支持显示夕阳和赏月背景的技术解读与实践](https://blog.csdn.net/weixin_74809706/article/details/161370633)
+
++ [【AVRCP】规范精讲[20]: 播放器设置全打通，让车载与手机的播放控制完全同步](https://blog.csdn.net/weixin_37800531/article/details/161347142)
+
++ [金仓数据库DISTINCT优化：从全表扫描到LIMIT 1的蜕变](https://blog.csdn.net/beautifulmemory/article/details/161445695)
+
++ [【MATLAB】卫星通信链路预算与优化仿真程序研究](https://blog.csdn.net/unbelievevc/article/details/161533814)
+
++ [自主智能体开发实战：Skills 从原理到工程化落地](https://blog.csdn.net/CC1991_/article/details/161463005)
+
++ [file-icons-vue：为你的 Vue 项目文件添加炫酷图标，提升开发体验](https://blog.csdn.net/mss359681091/article/details/161520711)
+
++ [Android 17 开发者实战：核心更新与应用场景落地指南](https://blog.csdn.net/g984160547/article/details/161491160)
+

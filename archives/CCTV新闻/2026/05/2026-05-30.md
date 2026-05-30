@@ -169,3 +169,9 @@
 
 + [普京：有理由认为俄乌冲突临近收尾](https://news.cctv.com/2026/05/30/ARTI8NvYejIKatcz9irVnA2i260530.shtml)
 
++ [日本万人集会抗议高市政府危险政策动向](https://news.cctv.com/2026/05/30/ARTIEEpgC58YpSC4UxTuouI5260530.shtml)
+
++ [伊朗外交部：伊美交流仍在继续 尚未达成最终共识](https://news.cctv.com/2026/05/30/ARTI46powhQIHGpvuAuXNaJM260530.shtml)
+
++ [世卫组织：刚果（金）及乌干达共报告134例埃博拉确诊病例](https://news.cctv.com/2026/05/30/ARTIwbol25LvMemNGftEryvl260530.shtml)
+

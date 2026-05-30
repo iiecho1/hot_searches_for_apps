@@ -21,3 +21,5 @@
 
 + [使用 iPhone 的同学，是如何解决门禁卡方案的呢？](https://www.v2ex.com/t/1216457)
 
++ [Claude Opus 4.8 来了，但它说它是 qwen](https://www.v2ex.com/t/1216494)
+
