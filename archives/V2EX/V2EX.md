@@ -61,3 +61,7 @@
 
 + [Kimi Code 用起来感觉还行，就是很容易达到限额](https://www.v2ex.com/t/1216645)
 
++ [各位大佬们，固态硬盘到底分不分区？](https://www.v2ex.com/t/1216669)
+
++ [HP 打印机没有 mac 驱动怎么办？](https://www.v2ex.com/t/1216672)
+

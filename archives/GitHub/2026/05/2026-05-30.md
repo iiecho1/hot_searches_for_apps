@@ -35,3 +35,19 @@
 
 + [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [revfactory/harness](https://github.com/revfactory/harness)
+
++ [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
++ [chen08209/FlClash](https://github.com/chen08209/FlClash)
+
++ [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
+
++ [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
+
++ [anthropics/skills](https://github.com/anthropics/skills)
+

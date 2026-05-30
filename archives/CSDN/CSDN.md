@@ -191,3 +191,11 @@
 
 + [AI科技热点日报 | 2026年5月28日](https://blog.csdn.net/haohaizi_liu/article/details/161483551)
 
++ [【Agent智能体10 | 反思设计模式-AI数据分析的可视化实战】](https://blog.csdn.net/DdigitalNomad/article/details/161525069)
+
++ [详解MyBatis 动态 SQL](https://blog.csdn.net/2503_94545876/article/details/161461591)
+
++ [ELK日志平台实战](https://blog.csdn.net/alex_goden/article/details/161491346)
+
++ [Claude Opus 4.8 深度评测：混合推理、动态工作流与诚实性突破，重新定义前沿大模型能力边界](https://blog.csdn.net/nmdbbzcl/article/details/161519190)
+
