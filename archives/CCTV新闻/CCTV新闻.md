@@ -197,3 +197,17 @@
 
 + [俄外交部称已召回驻亚美尼亚大使](https://news.cctv.com/2026/05/30/ARTIjEStPTjq6E5lqeI4l3Em260530.shtml)
 
++ [以总理下令控制加沙地带七成区域 哈马斯发声谴责](https://news.cctv.com/2026/05/30/ARTInLJ64uBGABBhCrvqy3mL260530.shtml)
+
++ [印尼布罗莫火山一车辆发生交通事故 已致2死3伤](https://news.cctv.com/2026/05/30/ARTI7vHzUzLPcsJC090NNrk6260530.shtml)
+
++ [以军向黎巴嫩南部多个村镇居民发布紧急撤离警告](https://news.cctv.com/2026/05/30/ARTIFRipiJNkruB9PPCV0JmY260530.shtml)
+
++ [伊朗最高领袖军事顾问：美国正第三次背叛外交](https://news.cctv.com/2026/05/30/ARTIuIBFMZh1TQSHOUjwv0Rt260530.shtml)
+
++ [马来西亚彭亨州发生交通事故 涉及多辆巴士](https://news.cctv.com/2026/05/30/ARTIUsX4cKtbqTbcuACX2XoL260530.shtml)
+
++ [被判立即向俄央行赔偿约2000亿欧元 欧洲清算银行上诉](https://news.cctv.com/2026/05/30/ARTIemNb3OCiP3x8WXdq5V57260530.shtml)
+
++ [德国多特蒙德市中心发生枪击事件 至少2人受伤](https://news.cctv.com/2026/05/30/ARTIBF6b33XEurAdYhXq1ce9260530.shtml)
+

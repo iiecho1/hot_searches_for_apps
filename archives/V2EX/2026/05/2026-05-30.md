@@ -51,3 +51,7 @@
 
 + [有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了](https://www.v2ex.com/t/1216615)
 
++ [穿越，带着 Codex 回到互联网的黄金时代](https://www.v2ex.com/t/1216640)
+
++ [给大二的小孩买了 GPT Go](https://www.v2ex.com/t/1216664)
+
