@@ -175,3 +175,5 @@
 
 + [伊朗官员：议会将通过霍尔木兹海峡“主权管辖”计划](https://news.cctv.com/2026/05/31/ARTIfc0bsUa2tZKFyZYETmvU260531.shtml)
 
++ [以色列北部多个城镇遭黎巴嫩真主党火箭弹袭击](https://news.cctv.com/2026/05/31/ARTIbHAhHDpCFxmLiiRfpK3M260531.shtml)
+
