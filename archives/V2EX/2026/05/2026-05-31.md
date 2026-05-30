@@ -21,3 +21,5 @@
 
 + [Kimi Code 用起来感觉还行，就是很容易达到限额](https://www.v2ex.com/t/1216645)
 
++ [穿越，带着 Codex 回到互联网的黄金时代](https://www.v2ex.com/t/1216640)
+

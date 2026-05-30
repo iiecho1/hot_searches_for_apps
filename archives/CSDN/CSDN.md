@@ -127,3 +127,9 @@
 
 + [从零搭建部署｜阿里云ECS+宝塔+纯静态HTML+FastAPI前后端分离项目（含MySQL+永久后台运行）](https://blog.csdn.net/hyx_H/article/details/161549337)
 
++ [Python 操作 Excel：数据分组、分类汇总与取消分组全解](https://blog.csdn.net/Eiceblue/article/details/161521318)
+
++ [【一周安全资讯】《网络安全技术 政务云安全配置基线要求》等18项网络安全国家标准发布；关于防范Evelyn Stealer恶意软件的风险提示](https://blog.csdn.net/juminfo/article/details/161520647)
+
++ [依恋类型的通信协议——你的亲密关系跑的是HTTP轮询还是WebSocket？](https://blog.csdn.net/kongzhonghu/article/details/161507441)
+

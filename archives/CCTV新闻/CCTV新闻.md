@@ -171,3 +171,5 @@
 
 + [欧洲多国高温 部分地区5月气温破纪录](https://news.cctv.com/2026/05/31/ARTI3YU3zDZxbuwmdPihrQ0N260531.shtml)
 
++ [泽连斯基：乌方将重点强化反弹道导弹防御能力建设](https://news.cctv.com/2026/05/31/ARTIMo7ioez1MrSVXLyBhYzU260531.shtml)
+
