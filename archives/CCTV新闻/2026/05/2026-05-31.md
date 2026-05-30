@@ -161,3 +161,13 @@
 
 + [韩国前总统尹锡悦涉嫌作伪证案一审被判无罪](https://news.cctv.com/2026/05/28/ARTIc0DxNOHL22AkBpUAoDhh260528.shtml)
 
++ [全美汽油均价仍较伊朗战事前上涨46%](https://news.cctv.com/2026/05/31/ARTIywG9oi1mfZuu07ymFxHN260530.shtml)
+
++ [首只在印尼出生大熊猫“里奥”正式公开亮相](https://news.cctv.com/2026/05/31/ARTIixVWJqs2aNg5RZ9W0JXt260530.shtml)
+
++ [美军再次打击一艘试图突破封锁前往伊朗港口的商船](https://news.cctv.com/2026/05/31/ARTI97IWcmhyQd6jFtoy3ybb260531.shtml)
+
++ [马来西亚彭亨州观光巴士交通事故致7人受伤](https://news.cctv.com/2026/05/31/ARTI9FyXgfMbBXwlwY05vHa0260531.shtml)
+
++ [欧洲多国高温 部分地区5月气温破纪录](https://news.cctv.com/2026/05/31/ARTI3YU3zDZxbuwmdPihrQ0N260531.shtml)
+

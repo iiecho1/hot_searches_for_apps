@@ -101,3 +101,29 @@
 
 + [ELK日志平台实战](https://blog.csdn.net/alex_goden/article/details/161491346)
 
++ [Spring IoC&DI](https://blog.csdn.net/2401_89019969/article/details/155426013)
+
++ [【Linux网络】从零构建高性能UDP服务器：从Echo到英译汉业务级实现](https://blog.csdn.net/yhrxh_ymq/article/details/161432996)
+
++ [【花雕学编程】Arduino BLDC 之差速驱动越野机器人——复杂地形滑移自适应扭矩控制](https://blog.csdn.net/weixin_41659040/article/details/161532821)
+
++ [记一次苍穹外卖项目 Maven 编译报错的排查与解决全过程](https://blog.csdn.net/kali7671/article/details/160395454)
+
++ [Spring 三级缓存如何解决循环依赖？](https://blog.csdn.net/2503_91308599/article/details/161541386)
+
++ [YOLO26：实时目标检测的关键架构改进与性能基准测试（2025年10月美国研究）](https://blog.csdn.net/Ricky0553/article/details/161495418)
+
++ [4种换新电脑怎么迁移旧电脑数据方法，轻松实现无缝衔接换电脑](https://blog.csdn.net/2603_95413839/article/details/160711221)
+
++ [开发者的福音：将你的机器优化成手机一样方便--UU远程终端](https://blog.csdn.net/wheeldown/article/details/161524555)
+
++ [Android 17 开发者实战：核心更新与应用场景落地指南](https://blog.csdn.net/g984160547/article/details/161491160)
+
++ [【大模型 Token 计费】输入、输出、缓存命中](https://blog.csdn.net/m0_65555692/article/details/161524816)
+
++ [vue.js 路由第二篇](https://blog.csdn.net/xuankuxiaoyao/article/details/161492549)
+
++ [统一范式：中后台Admin项目标准化API分层开发方案（Vue/React通用）](https://blog.csdn.net/tx7do/article/details/161487643)
+
++ [从零搭建部署｜阿里云ECS+宝塔+纯静态HTML+FastAPI前后端分离项目（含MySQL+永久后台运行）](https://blog.csdn.net/hyx_H/article/details/161549337)
+
