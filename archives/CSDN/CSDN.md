@@ -133,3 +133,7 @@
 
 + [依恋类型的通信协议——你的亲密关系跑的是HTTP轮询还是WebSocket？](https://blog.csdn.net/kongzhonghu/article/details/161507441)
 
++ [【参考答案】2026 河北省研究生数学建模 A题 智慧烧结低碳排放的过程调控数学模型](https://blog.csdn.net/a1552100455/article/details/161504797)
+
++ [Claude Code重大突破：Workflow功能完整实战教程](https://blog.csdn.net/2601_96073073/article/details/161488327)
+

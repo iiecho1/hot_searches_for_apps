@@ -173,3 +173,5 @@
 
 + [泽连斯基：乌方将重点强化反弹道导弹防御能力建设](https://news.cctv.com/2026/05/31/ARTIMo7ioez1MrSVXLyBhYzU260531.shtml)
 
++ [伊朗官员：议会将通过霍尔木兹海峡“主权管辖”计划](https://news.cctv.com/2026/05/31/ARTIfc0bsUa2tZKFyZYETmvU260531.shtml)
+
