@@ -143,3 +143,19 @@
 
 + [Android 17 开发者实战：核心更新与应用场景落地指南](https://blog.csdn.net/g984160547/article/details/161491160)
 
++ [Prometheus - 监控微服务：Spring Boot 应用指标暴露与监控](https://blog.csdn.net/qq_41187124/article/details/157547265)
+
++ [HarmonyOS 6（API 23）智能体驱动的沉浸式AR深海科考探索舱](https://blog.csdn.net/u014727709/article/details/161520156)
+
++ [[智能体-146]：LangChain 生态三大核心：关系与分布式部署全解](https://blog.csdn.net/HiWangWenBing/article/details/161487080)
+
++ [【GAN 系列·第四篇】WGAN：Wasserstein 距离、最优传输与真正稳定的 GAN 训练](https://blog.csdn.net/qq_73472828/article/details/161368008)
+
++ [【LangChain】聊天模型实战：结构化输出完全指南（从原理到落地）](https://blog.csdn.net/2503_91389547/article/details/161087396)
+
++ [【性能优化】系统性能调优实战：从定位到优化](https://blog.csdn.net/weixin_43272162/article/details/161535640)
+
++ [持续集成与持续部署CI/CD实战](https://blog.csdn.net/dicky_zhang3/article/details/161512642)
+
++ [从零搭建 RAG 系统：用 LangChain + ChromaDB 给自己做一个私有知识库](https://blog.csdn.net/specter__/article/details/161463867)
+

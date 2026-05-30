@@ -175,3 +175,17 @@
 
 + [世卫组织：刚果（金）及乌干达共报告134例埃博拉确诊病例](https://news.cctv.com/2026/05/30/ARTIwbol25LvMemNGftEryvl260530.shtml)
 
++ [世界杯开幕在即 墨西哥三航司对非洲旅客实施限制措施](https://news.cctv.com/2026/05/30/ARTIBMD5sTV3oATKCorVfZvL260530.shtml)
+
++ [阿富汗一卡车翻车 已致18人死亡多人受伤](https://news.cctv.com/2026/05/30/ARTIbfsyMEdUGTUB6hRh5fl8260530.shtml)
+
++ [独家披露：欧盟若执意推动“产能过剩工具”，中方必将反制](https://news.cctv.com/2026/05/30/ARTIl9IezQ5Kp3C4ygwLspX9260530.shtml)
+
++ [受中东战事波及 日本乙烯工厂开工率创新低](https://news.cctv.com/2026/05/30/ARTILrYGnb1N4YByc0MNZMdl260530.shtml)
+
++ [联合国：南苏丹数十万人面临灾难性饥饿](https://news.cctv.com/2026/05/30/ARTI95i4hp6YBO3swB2E84hJ260530.shtml)
+
++ [古巴：古美双方同意保持两军指挥层面沟通](https://news.cctv.com/2026/05/30/ARTIdDn66kfskZby3DSHh2uw260530.shtml)
+
++ [习近平主席复信激励中美青少年成为“友谊使者”](https://news.cctv.com/2026/05/30/ARTIR2D82xba1sCv9p6rNPCE260530.shtml)
+

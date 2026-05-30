@@ -23,3 +23,17 @@
 
 + [Claude Opus 4.8 来了，但它说它是 qwen](https://www.v2ex.com/t/1216494)
 
++ [AI 把我调教了，从 0 消费，到月消费 1200 元。](https://www.v2ex.com/t/1216578)
+
++ [我们大 A 又又又发生了什么？需要我们股民买单？](https://www.v2ex.com/t/1216450)
+
++ [热死人了，你们都喝什么保命](https://www.v2ex.com/t/1216505)
+
++ [有没有能发北京的流量卡](https://www.v2ex.com/t/1216473)
+
++ [跟北航的弟弟聊了下人生规划，聊完我 emo 了](https://www.v2ex.com/t/1216587)
+
++ [陪老大加班能否成为嫡系？](https://www.v2ex.com/t/1216555)
+
++ [各位大佬，截止到今天收盘，大 A 股你们都赚钱了吗](https://www.v2ex.com/t/1216472)
+
