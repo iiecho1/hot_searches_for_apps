@@ -169,3 +169,11 @@
 
 + [印尼东部二战遗留炸弹爆炸致5人死亡](https://news.cctv.com/2026/06/01/ARTIHWINjFw9L3UNNXXllprN260601.shtml)
 
++ [停火名存实亡 以军扩大在黎巴嫩军事行动 欲以“焦土”换安全](https://news.cctv.com/2026/06/01/ARTIUs17AGFkFrk35E7V5SzK260601.shtml)
+
++ [哥伦比亚大选：极右翼和左翼候选人将展开对决](https://news.cctv.com/2026/06/01/ARTIrWc1yRw9jChWnzr11rJq260601.shtml)
+
++ [智利中部沿岸远海发生6.0级地震，震源深度10千米](https://news.cctv.com/2026/06/01/ARTICEBrcKZWc81jlhb612rT260601.shtml)
+
++ [遭遇潜在安全威胁 美国一航班返航](https://news.cctv.com/2026/06/01/ARTID9hYDBLkUUbAImaTh3yy260601.shtml)
+
