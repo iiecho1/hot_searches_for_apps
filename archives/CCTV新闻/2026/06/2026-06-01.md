@@ -163,3 +163,7 @@
 
 + [英国媒体：霍尔木兹海峡危机大幅推高集装箱运价](https://news.cctv.com/2026/06/01/ARTINUhG54svZkpsFZErMJLs260601.shtml)
 
++ [刚果（金）埃博拉疫情累计确诊病例超260例](https://news.cctv.com/2026/06/01/ARTIdnMIsOCnez1vEaayVmul260601.shtml)
+
++ [中国驻美大使：中美两国人民渴望友好的初心没有变](https://news.cctv.com/2026/06/01/ARTIQeiI98ZqEZdmQquQJSZQ260601.shtml)
+

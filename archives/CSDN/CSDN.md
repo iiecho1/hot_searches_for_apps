@@ -129,3 +129,9 @@
 
 + [企业认证与安全体系（四）：企业登录认证流程全解析——JWT、Redis、Spring Security 如何协同工作？](https://blog.csdn.net/wulong756273/article/details/161548189)
 
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与HMAF的“律界智脑“——PC端AI智能体沉浸式法律文档智能审查工作台](https://blog.csdn.net/u014727709/article/details/161562857)
+
++ [游戏关卡设计思路：难度曲线与节奏把控方法](https://blog.csdn.net/Hxzyxkf2016/article/details/161534837)
+
++ [机器人领域 Physical Intelligence π 系列论文综述](https://blog.csdn.net/weixin_45564943/article/details/161569966)
+
