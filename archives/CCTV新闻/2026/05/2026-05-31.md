@@ -199,3 +199,7 @@
 
 + [被从肯尼迪中心“除名” 特朗普表示“震惊”](https://news.cctv.com/2026/05/31/ARTIeofy0x7imZVWbIzJDtDM260531.shtml)
 
++ [乌方否认袭击扎波罗热核电站](https://news.cctv.com/2026/05/31/ARTIJ32r3cyyvKG3zcWN2nOr260531.shtml)
+
++ [哥伦比亚总统选举开始投票](https://news.cctv.com/2026/05/31/ARTI4SuiVa1gdsr1XRpBv8nL260531.shtml)
+

@@ -45,3 +45,9 @@
 
 + [工作时，你们喜欢打开音乐吗](https://www.v2ex.com/t/1216797)
 
++ [[通知] Codex 明早重置额度，上号，/fast 开蹬了](https://www.v2ex.com/t/1216791)
+
++ [[长沙] 3-5W 预算二手代步车求推荐，目前倾向日产轩逸](https://www.v2ex.com/t/1216761)
+
++ [ChatGPT Pro 5X 双倍结束，建议升级 Pro 20X](https://www.v2ex.com/t/1216742)
+

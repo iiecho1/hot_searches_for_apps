@@ -229,3 +229,9 @@
 
 + [Redis 和 MySQL 数据一致性怎么保证？缓存更新策略与分布式锁一篇讲清](https://blog.csdn.net/ZFChan/article/details/161562875)
 
++ [具身智能：下一代人工智能的产业新范式](https://blog.csdn.net/qq_36863796/article/details/161560030)
+
++ [断点续传：LangGraph人机交互与状态恢复](https://blog.csdn.net/2301_79289774/article/details/161566093)
+
++ [SpringAI 模型 API 调用中的错误处理、重试与熔断降级实战](https://blog.csdn.net/weixin_55772633/article/details/161545066)
+
