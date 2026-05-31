@@ -141,3 +141,17 @@
 
 + [量子计算机的构成单元](https://blog.csdn.net/u011732210/article/details/161524768)
 
++ [【HarmonyOS 6.0】Live View Kit深度解析：实况胶囊尾部图标的设计哲学与实现全流程](https://blog.csdn.net/weixin_74809706/article/details/161370698)
+
++ [电脑自动化 AI OpenClaw 2.7.5 Win11 一键配置](https://blog.csdn.net/comcoo/article/details/161511875)
+
++ [高级工程师最怕的不是被 AI 替代，而是给 AI 擦屁股](https://blog.csdn.net/qyj19920704/article/details/161485692)
+
++ [【记录】Ubuntu26｜通过网页和ydotool用手机远程输入文本到电脑上，方便接入手机上优越的语音输入法](https://blog.csdn.net/qq_46106285/article/details/161542561)
+
++ [从用户体验看回流平台：翡翠寄售如何实现价值较大化](https://blog.csdn.net/2601_96132867/article/details/161544768)
+
++ [用手机连上公司机器敲命令：UU远程「终端」功能一周体验手记](https://blog.csdn.net/user340/article/details/161523937)
+
++ [深入拆解：从 TCP 状态机到 HTTP/3 拥塞控制的底层演进](https://blog.csdn.net/2603_95976418/article/details/161484718)
+
