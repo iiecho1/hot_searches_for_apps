@@ -179,3 +179,19 @@
 
 + [MySQL 主从复制 — Docker 双机灾备方案](https://blog.csdn.net/weixin_63115449/article/details/161521041)
 
++ [OpenClaw实操指南42｜安全边界2：提示词注入与沙箱防护](https://blog.csdn.net/GODYAD/article/details/161549260)
+
++ [Codex接入DeepSeek本地路由教程（使用CC Switch）](https://blog.csdn.net/2601_95666330/article/details/161546680)
+
++ [YOLO v8.4.56 修复 QNN 导出兼容性：builtin provider wheels 也能稳定导出，Linux x86-64 更友好](https://blog.csdn.net/weixin_48502062/article/details/161544141)
+
++ [用LaTex编写论文，用Word投稿](https://blog.csdn.net/u013667796/article/details/161548895)
+
++ [《网络传输层核心考点：UDP与TCP协议深度剖析》](https://blog.csdn.net/earth_and_sky/article/details/161545664)
+
++ [2026第十届御网杯网络安全大赛线上赛 区域赛WP （MISC和Crypto）（详解-思路-脚本）](https://blog.csdn.net/m0_68012373/article/details/161539768)
+
++ [2026最新CC‑Switch全指南：一键管理五大AI编程工具](https://blog.csdn.net/qq_32403421/article/details/161542395)
+
++ [UE5官方文档（第一人称射击游戏教程）解读 第十一章](https://blog.csdn.net/2301_78972558/article/details/161474565)
+

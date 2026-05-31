@@ -187,3 +187,15 @@
 
 + [卢拉抨击美国单方面将巴西黑帮列为“恐怖组织”](https://news.cctv.com/2026/05/31/ARTINuh5biKjQ99sQ3h01IwU260531.shtml)
 
++ [通讯｜跨越半个多世纪的校友情——老挝“六七”学校校友共话老中情谊](https://news.cctv.com/2026/05/31/ARTI9grxSEn2b5rkHR5wtBcM260531.shtml)
+
++ [多位美国知名人士呼吁加强美中双边交流](https://news.cctv.com/2026/05/31/ARTI2ferofox13zobdSGuQhs260531.shtml)
+
++ [土耳其一客车撞上护栏起火致8死33伤](https://news.cctv.com/2026/05/31/ARTIvjOTGsMYqUFx6J7UoM6V260531.shtml)
+
++ [伊朗议会主席团成员宣誓就职](https://news.cctv.com/2026/05/31/ARTIVCyUngOcUzIeYMCAzzc3260531.shtml)
+
++ [以军宣布在黎巴嫩南部展开“大规模行动”](https://news.cctv.com/2026/05/31/ARTIrtB2hvd2k32kdbvkSDZz260531.shtml)
+
++ [被从肯尼迪中心“除名” 特朗普表示“震惊”](https://news.cctv.com/2026/05/31/ARTIeofy0x7imZVWbIzJDtDM260531.shtml)
+
