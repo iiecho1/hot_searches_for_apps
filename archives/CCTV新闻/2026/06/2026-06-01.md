@@ -167,3 +167,5 @@
 
 + [中国驻美大使：中美两国人民渴望友好的初心没有变](https://news.cctv.com/2026/06/01/ARTIQeiI98ZqEZdmQquQJSZQ260601.shtml)
 
++ [印尼东部二战遗留炸弹爆炸致5人死亡](https://news.cctv.com/2026/06/01/ARTIHWINjFw9L3UNNXXllprN260601.shtml)
+
