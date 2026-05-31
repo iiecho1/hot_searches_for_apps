@@ -213,3 +213,19 @@
 
 + [HTTP Client 到底是个啥？让咱的 Java 也能丝滑地发送网络请求](https://blog.csdn.net/2402_86612729/article/details/161567567)
 
++ [Linux 命名管道（FIFO）详解：原理分析、源码封装与通信流程图解](https://blog.csdn.net/2503_94076563/article/details/161548512)
+
++ [Linux-基于Jenkins自动打包并部署Tomcat环境](https://blog.csdn.net/Cat_Rocky/article/details/161488838)
+
++ [云原生运维实战：从Docker到Prometheus](https://blog.csdn.net/2601_95794021/article/details/161523663)
+
++ [HarmonyOS 6.1 全栈实战录 - 81 打通全联接物理层：实战 Connectivity Kit 自定义 BLE 广播与 Wi-Fi P2P 频段智选中控](https://blog.csdn.net/sjw890821sjw/article/details/161546715)
+
++ [小红书运营指南：2026年算法变化与爆款打造](https://blog.csdn.net/DBOS_zxhy/article/details/161521865)
+
++ [互联网架构演进精读：从单机到云原生](https://blog.csdn.net/2301_78002904/article/details/161517885)
+
++ [【LangChain 1.0】 语义搜索实战：从 PDF 文档到向量知识库的完整 RAG 链路](https://blog.csdn.net/qq_39518871/article/details/161495513)
+
++ [Redis 和 MySQL 数据一致性怎么保证？缓存更新策略与分布式锁一篇讲清](https://blog.csdn.net/ZFChan/article/details/161562875)
+

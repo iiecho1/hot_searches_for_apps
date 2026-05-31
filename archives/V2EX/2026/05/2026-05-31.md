@@ -43,3 +43,5 @@
 
 + [polymarket 是新赛道印钞机吗](https://www.v2ex.com/t/1216709)
 
++ [工作时，你们喜欢打开音乐吗](https://www.v2ex.com/t/1216797)
+

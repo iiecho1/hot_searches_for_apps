@@ -39,3 +39,15 @@
 
 + [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+
++ [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)
+
++ [github/docs](https://github.com/github/docs)
+
++ [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+
++ [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
+
++ [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+
