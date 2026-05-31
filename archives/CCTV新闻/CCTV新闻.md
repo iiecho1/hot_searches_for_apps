@@ -183,3 +183,7 @@
 
 + [以色列收紧北部民防政策以应对黎真主党袭击](https://news.cctv.com/2026/05/31/ARTIqRMJRpGb9hcakJ91clho260531.shtml)
 
++ [印度马哈拉施特拉邦至少21人因饮用私酿劣质酒死亡](https://news.cctv.com/2026/05/31/ARTITkoedXRxV97X522Tayts260531.shtml)
+
++ [卢拉抨击美国单方面将巴西黑帮列为“恐怖组织”](https://news.cctv.com/2026/05/31/ARTINuh5biKjQ99sQ3h01IwU260531.shtml)
+

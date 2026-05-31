@@ -27,3 +27,11 @@
 
 + [安卓用户终于等到了！《巴比伦富翁家庭理财助手》Google Play 正式上线](https://www.v2ex.com/t/1216632)
 
++ [每天瑞幸自由，算是中产的标志了吗？](https://www.v2ex.com/t/1216756)
+
++ [HyperAPI 的新老用户来领福利了](https://www.v2ex.com/t/1216743)
+
++ [AI 编程时代， MVP 思维已经失效了？](https://www.v2ex.com/t/1216691)
+
++ [[送码] macOS 输入法自动切换小工具： TypeRelay](https://www.v2ex.com/t/1216713)
+
