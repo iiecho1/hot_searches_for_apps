@@ -101,3 +101,31 @@
 
 + [通勤路上听小说：easyVoice 把你的文字变成可流式播放的有声书](https://blog.csdn.net/2301_76297596/article/details/161494912)
 
++ [【Qt 核心机制篇】深度解析 Qt 信号与槽（Signals & Slots）机制：从底层原理、实战演练到 Lambda 进阶](https://blog.csdn.net/yhrxh_ymq/article/details/161464079)
+
++ [C++ 实现进程池：主从架构、管道通信与任务调度](https://blog.csdn.net/2503_94076563/article/details/161544870)
+
++ [鸿蒙游戏中的手势系统详解](https://blog.csdn.net/qq_36478920/article/details/161541430)
+
++ [HarmonyOS 6（API 23）智能体驱动的沉浸式AR深海科考探索舱](https://blog.csdn.net/u014727709/article/details/161520156)
+
++ [架构进阶：从 Docker 环境变量到 Nacos 统一配置中心实战](https://blog.csdn.net/beautifulmemory/article/details/161517876)
+
++ [基于 Harmony 6.0 应用的社区团购小程序首页实现](https://blog.csdn.net/weixin_52908342/article/details/161572870)
+
++ [【Redis】持久化机制Day6（2026年）](https://blog.csdn.net/2501_90715893/article/details/161560674)
+
++ [避蚊胺（DEET）使用全指南：稀释、浓度选择与安全注意事项（附Python计算脚本）](https://blog.csdn.net/eidolon_foot/article/details/161089370)
+
++ [Vue3 项目实战与性能优化：组合式 API 进阶、响应式高级用法、可复用逻辑封装与新特性全解](https://blog.csdn.net/qq_40303030/article/details/160054781)
+
++ [Godot(4.x): 游戏管理器: Excel 动态依赖注入实现](https://blog.csdn.net/2503_93490340/article/details/161494326)
+
++ [量子计算机的构成单元](https://blog.csdn.net/u011732210/article/details/161524768)
+
++ [Docker多阶段构建实战指南](https://blog.csdn.net/dicky_zhang3/article/details/161535247)
+
++ [Codex 更新后历史 Session 消失？我写了一个修复官方 Bug 的 Recovery Skill](https://blog.csdn.net/xiewenfeng520/article/details/161566108)
+
++ [企业认证与安全体系（四）：企业登录认证流程全解析——JWT、Redis、Spring Security 如何协同工作？](https://blog.csdn.net/wulong756273/article/details/161548189)
+

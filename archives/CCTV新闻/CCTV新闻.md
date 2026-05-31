@@ -161,3 +161,5 @@
 
 + [美国墨西哥将谈判美墨加协定 加拿大缺席](https://news.cctv.com/2026/05/28/ARTIRE96ltpD1HpOmsbV69ym260528.shtml)
 
++ [英国媒体：霍尔木兹海峡危机大幅推高集装箱运价](https://news.cctv.com/2026/06/01/ARTINUhG54svZkpsFZErMJLs260601.shtml)
+
