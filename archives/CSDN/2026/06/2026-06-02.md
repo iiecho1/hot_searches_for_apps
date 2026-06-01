@@ -101,3 +101,5 @@
 
 + [[260531] OpenClaw 五月月报：模型接入大爆发、安全重构、手机端终于能当主控台用了 [特殊字符]](https://blog.csdn.net/edwinjhlee/article/details/161573260)
 
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与HMAF的“律界智脑“——PC端AI智能体沉浸式法律文档智能审查工作台](https://blog.csdn.net/u014727709/article/details/161562857)
+

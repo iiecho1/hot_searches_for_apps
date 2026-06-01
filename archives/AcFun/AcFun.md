@@ -61,3 +61,5 @@
 
 + [【东方】Muse Dash × Touhou Project 第五次联动PV](https://m.acfun.cn/v/?ac=48575207)
 
++ [这是2024年6月的一天](https://m.acfun.cn/v/?ac=48575819)
+

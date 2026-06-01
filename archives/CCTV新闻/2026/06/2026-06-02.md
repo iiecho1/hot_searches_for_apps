@@ -161,3 +161,11 @@
 
 + [普京：有理由认为俄乌冲突临近收尾](https://news.cctv.com/2026/05/30/ARTI8NvYejIKatcz9irVnA2i260530.shtml)
 
++ [哈马斯称其代表团与土耳其情报局局长讨论加沙局势](https://news.cctv.com/2026/06/02/ARTIzSOVqpReT4Swa4onkozp260602.shtml)
+
++ [美国战略石油储备降至两年多来最低水平](https://news.cctv.com/2026/06/02/ARTIrwB7AvdBx3HTWJtT3vGT260602.shtml)
+
++ [丹麦看守首相宣布新政府组建完成](https://news.cctv.com/2026/06/02/ARTIcDZkilwi27VU8yU005Rs260602.shtml)
+
++ [以总理：以军将继续按计划在黎南部开展行动](https://news.cctv.com/2026/06/02/ARTIgTCEcCCjY4cvadHZKrCW260602.shtml)
+
