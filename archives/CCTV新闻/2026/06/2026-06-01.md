@@ -177,3 +177,17 @@
 
 + [遭遇潜在安全威胁 美国一航班返航](https://news.cctv.com/2026/06/01/ARTID9hYDBLkUUbAImaTh3yy260601.shtml)
 
++ [韩国韩华航空航天大田工厂发生爆炸事故 已致2人死亡](https://news.cctv.com/2026/06/01/ARTILxXFKVILz4DkR42W2mVE260601.shtml)
+
++ [联合国安理会将就黎以局势召开紧急会议](https://news.cctv.com/2026/06/01/ARTI08J9TOXPvtAGPndGREVU260601.shtml)
+
++ [澳大利亚西部遭风暴袭击 近7万用户停电](https://news.cctv.com/2026/06/01/ARTIt5jYontfDK7sK8keqLld260601.shtml)
+
++ [霍尔木兹海峡重启仍无进展 国际油价上涨](https://news.cctv.com/2026/06/01/ARTIe6xyWMhxGuy0SAIC2TjA260601.shtml)
+
++ [韩国大田一军工企业工厂发生爆炸 伤亡情况不明](https://news.cctv.com/2026/06/01/ARTICYx6UflM8ar0pOhS2a04260601.shtml)
+
++ [国际原子能机构人员将获准进入扎波罗热核电站遭袭区](https://news.cctv.com/2026/06/01/ARTInJZCMhgqna8m9xQA2uC7260601.shtml)
+
++ [日本大阪欲推“副首都”构想 自民党存异议](https://news.cctv.com/2026/06/01/ARTIpG8qIulNDRMTl8bgUAXp260601.shtml)
+

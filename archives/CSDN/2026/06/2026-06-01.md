@@ -141,3 +141,25 @@
 
 + [外汇交易平台技术栈深度解析：行情 API、清算、风控、前端一体化方案](https://blog.csdn.net/2402_89053792/article/details/161548880)
 
++ [PyTorch深度学习实战（56）——在iOS上构建PyTorch应用](https://blog.csdn.net/LOVEmy134611/article/details/161581905)
+
++ [每次操作一个 API 调用：Elastic Cloud Hosted 如何让大规模部署管理变得可行](https://blog.csdn.net/UbuntuTouch/article/details/161534075)
+
++ [【几何】指定半径倒角的实现，暂不考虑误差](https://blog.csdn.net/he_zhidan/article/details/161508952)
+
++ [【Linux系统编程】环境变量深度解析——从 fork 继承到 export 内建命令，两张表打通进程上下文](https://blog.csdn.net/2402_87731470/article/details/161569483)
+
++ [鸿蒙 PC 平台 Python 第三方库移植全景指南](https://blog.csdn.net/qq8864/article/details/161572678)
+
++ [【OpenClaw 2026.5.22 发布】：Gateway 精简、/models 5ms 响应、npm 锁定、Windows 安全——从“能用“到“敢用“](https://blog.csdn.net/qq_73472828/article/details/161366931)
+
++ [openclaw v2026.5.28发布：Agent恢复更稳、渠道安全全面增强、移动端焕新、Provider能力再扩展](https://blog.csdn.net/weixin_48502062/article/details/161566261)
+
++ [《网络传输层核心考点：UDP与TCP协议深度剖析》](https://blog.csdn.net/earth_and_sky/article/details/161545664)
+
++ [给RK3566小盒子刷飞牛NAS：踩过这几个坑才成功，包括我这个](https://blog.csdn.net/EterNity_TiMe_/article/details/161561642)
+
++ [CSDN_微软Build_2026前瞻_自研编码模型能否撼动GPT-5_5与Claude_Opus_4_8](https://blog.csdn.net/yp0to1/article/details/161511874)
+
++ [Qt Ironclad Reader （授权/加密/OFD签章/OFD验章/PDF/导出）](https://blog.csdn.net/ly305750665/article/details/161573057)
+
