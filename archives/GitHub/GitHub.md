@@ -31,3 +31,17 @@
 
 + [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
++ [p-e-w/heretic](https://github.com/p-e-w/heretic)
+
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [godotengine/godot](https://github.com/godotengine/godot)
+
++ [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+
++ [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
+
++ [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
+

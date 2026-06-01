@@ -205,3 +205,13 @@
 
 + [韩国一航空航天企业工厂发生爆炸 致6死1伤](https://news.cctv.com/2026/06/01/ARTInS2D1KqZaTrNQucxq3cw260601.shtml)
 
++ [伊朗计划彻底封锁霍尔木兹海峡并启动曼德海峡“战线”](https://news.cctv.com/2026/06/01/ARTIxtIhy6mJ4a6zquz9Y5gb260601.shtml)
+
++ [欧盟呼吁以色列停止在黎巴嫩的军事升级](https://news.cctv.com/2026/06/01/ARTIMkAJbBoRwNI7fmOqU8Ho260601.shtml)
+
++ [伊朗暂停通过中间人同美国的对话](https://news.cctv.com/2026/06/01/ARTIi17NN0Z3LpTLBT1dPBOu260601.shtml)
+
++ [数百名肯尼亚青年抗议美国拟设埃博拉隔离设施](https://news.cctv.com/2026/06/01/ARTIFXuFtbITS4BJxNAODaWq260601.shtml)
+
++ [马克龙：法国愿为美伊谈判提供支持](https://news.cctv.com/2026/06/01/ARTIUXnsGCbgcFhqoBelJuSJ260601.shtml)
+

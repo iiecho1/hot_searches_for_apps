@@ -187,3 +187,23 @@
 
 + [LabVIEW 主流架构框架选型](https://blog.csdn.net/bjcyck/article/details/161571516)
 
++ [【Linux网络】Linux 网络编程：传输层协议TCP（五）](https://blog.csdn.net/2401_89899187/article/details/161546121)
+
++ [OpenHarmony鸿蒙PC平台移植 gifsicle：CC++ 三方库适配实践（Lycium tpc_c_cplusplus)](https://blog.csdn.net/qq_36478920/article/details/161589511)
+
++ [【花雕学编程】Arduino BLDC 之机器人时间轴自动编队切换（定时任务 + 平滑插值）](https://blog.csdn.net/weixin_41659040/article/details/161585766)
+
++ [Linux权限深入解读](https://blog.csdn.net/AbandonForce/article/details/161598102)
+
++ [Github趋势榜 2026年第20周](https://blog.csdn.net/xiaohui_hubei/article/details/161571274)
+
++ [同事问：“Codex你也在用？“我说：“是啊，但你的AGENTS. md当Prompt还是当Readme？“他愣住了。](https://blog.csdn.net/qing_gee/article/details/161582155)
+
++ [Docker + cpolar 一键部署 node_exporter，实现无公网 IP 远程监控](https://blog.csdn.net/qq_61024956/article/details/161600050)
+
++ [2026电脑远程控制软件深度横评：ToDesk/向日葵/TeamViewer/AnyDesk实测对比](https://blog.csdn.net/m0_62529977/article/details/161572647)
+
++ [Maven 与 Gradle：50 个项目迁移实战复盘 —— 那些踩过的坑与关键决策反思](https://blog.csdn.net/u010398771/article/details/157904477)
+
++ [重塑 Java 世界的两根支柱：穿透 Spring IoC 与 AOP 的架构哲学](https://blog.csdn.net/2401_87395400/article/details/161572144)
+
