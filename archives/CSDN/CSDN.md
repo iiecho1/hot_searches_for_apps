@@ -163,3 +163,27 @@
 
 + [Qt Ironclad Reader （授权/加密/OFD签章/OFD验章/PDF/导出）](https://blog.csdn.net/ly305750665/article/details/161573057)
 
++ [如何设计提示词来减少 AI 的幻觉问题？](https://blog.csdn.net/qq_28419035/article/details/161582932)
+
++ [摄像头回放总要付费？用飞牛NAS搭建自己的监控录像中心](https://blog.csdn.net/weixin_44976692/article/details/161586657)
+
++ [【AI】RAG 数据分块（Chunk）策略与实践](https://blog.csdn.net/weixin_62043600/article/details/161563668)
+
++ [Dify 接入蓝耘 MaaS：从 0 搭建一个企业知识库问答助手](https://blog.csdn.net/2302_78391795/article/details/161586960)
+
++ [在 N1 飞牛 NAS 上轻松部署 OpenClaw 并对接微信的完整实战](https://blog.csdn.net/qyj19920704/article/details/161587575)
+
++ [【Linux系统编程】线程池项目实战与基于策略模式的日志系统](https://blog.csdn.net/Miun123/article/details/161292603)
+
++ [C++篇：深入理解 C++ 智能指针：从裸指针到 RAII 的蜕变](https://blog.csdn.net/2502_94387000/article/details/161386859)
+
++ [内网穿透的应用-不想把代码放第三方平台？CentOS7搭建私有GitLab并实现远程访问](https://blog.csdn.net/weixin_42878111/article/details/161586841)
+
++ [KingbaseES-Windows单机实例运行机制与环境基线检查](https://blog.csdn.net/COLLINSXU/article/details/161582579)
+
++ [liunx之信号介绍(3)，各种中断的介绍和系统调用的本质以及用户态与内核态的具体介绍](https://blog.csdn.net/feng_wu_ying_li/article/details/161371562)
+
++ [在Qoder中指定JDK和Maven运行AI学习的SpringBoot项目的完整指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161510630)
+
++ [LabVIEW 主流架构框架选型](https://blog.csdn.net/bjcyck/article/details/161571516)
+
