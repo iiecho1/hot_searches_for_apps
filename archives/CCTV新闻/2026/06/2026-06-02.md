@@ -181,3 +181,19 @@
 
 + [柬埔寨金边一中国公民遇害，中使馆：敦促柬方全力侦办案件](https://news.cctv.com/2026/06/02/ARTIEha3wUtwRGvnnRQ2szFa260602.shtml)
 
++ [挪威附近发现18世纪沉船 载有中国瓷器等珍贵文物](https://news.cctv.com/2026/06/02/ARTI85McLxTpxML6Q3drua5I260602.shtml)
+
++ [欧洲议会投票通过欧美贸易协议](https://news.cctv.com/2026/06/02/ARTIYJVUTwspVVVfiWaJxk1v260602.shtml)
+
++ [伊朗称仍在评估谅解备忘录最终文本 尚未回应美方](https://news.cctv.com/2026/06/02/ARTI46TvQeAOWcrvZoKRqeEI260602.shtml)
+
++ [外交部：军国主义的“魔盒”一旦打开 没有任何人可以独善其身](https://news.cctv.com/2026/06/02/ARTI85h2MLxNWAxZUXrOQsCW260602.shtml)
+
++ [刚果（金）埃博拉疫情防控仍充满挑战](https://news.cctv.com/2026/06/02/ARTIUPujzZMX6VQyZSnGJ5fG260602.shtml)
+
++ [日本启动福岛第一核电站2号机组剩余乏燃料取出工作](https://news.cctv.com/2026/06/02/ARTIr1GVDqlN7fZbZ7eOzqW6260602.shtml)
+
++ [美航空航天局：美东北部“火球”现象由流星解体引发](https://news.cctv.com/2026/06/02/ARTIYhrUXKhnUJcGq1uCZSAz260602.shtml)
+
++ [卢浮宫珠宝劫案调查出现新线索](https://news.cctv.com/2026/06/02/ARTI1lJOUxZoqzz9RLPi15gc260602.shtml)
+

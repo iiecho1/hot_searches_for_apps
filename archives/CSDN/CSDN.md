@@ -133,3 +133,21 @@
 
 + [NVIDIA RTX Spark深度测评：个人AI智能体时代真的来了？](https://blog.csdn.net/yp0to1/article/details/161596734)
 
++ [【跑者天地】Web端平台——UI自动化测试专项报告](https://blog.csdn.net/2302_78206546/article/details/161571842)
+
++ [JiuwenSwarm打造一个语音识别的Swarm Skill](https://blog.csdn.net/wanmeijuhao/article/details/161595159)
+
++ [Cursor推出的Composer 2.5 是什么？从定向 RL 到合成数据，AI 编程智能体再进化](https://blog.csdn.net/qq_44866828/article/details/161599806)
+
++ [鸿蒙游戏 HUD 如何设计？](https://blog.csdn.net/qq_36863796/article/details/161594906)
+
++ [低成本搭建鸿蒙PC运行环境：基于 Docker 的 x86_64 服务器](https://blog.csdn.net/weixin_36755535/article/details/161616629)
+
++ [笔记越记越乱怎么办？试试Logseq这种知识管理方式](https://blog.csdn.net/2302_79376097/article/details/161618937)
+
++ [Spring Boot脚手架集成Sa-Token实现生产级RBAC权限管理](https://blog.csdn.net/qq_39818325/article/details/161524723)
+
++ [Re：Linux系统篇（二十六）进程篇·十一：从底层原理到 exec* 家族：彻底搞懂 Linux 进程程序替换](https://blog.csdn.net/Z2314246476/article/details/161432261)
+
++ [从OpenClaw到AIGCBAR：AI智能体网关与API聚合层的深度融合之道](https://blog.csdn.net/nmdbbzcl/article/details/161611350)
+
