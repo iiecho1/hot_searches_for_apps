@@ -35,3 +35,13 @@
 
 + [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
++ [chopratejas/headroom](https://github.com/chopratejas/headroom)
+
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [reconurge/flowsint](https://github.com/reconurge/flowsint)
+
++ [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+
++ [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
+

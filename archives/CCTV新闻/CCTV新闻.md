@@ -197,3 +197,23 @@
 
 + [卢浮宫珠宝劫案调查出现新线索](https://news.cctv.com/2026/06/02/ARTI1lJOUxZoqzz9RLPi15gc260602.shtml)
 
++ [儿基会：世界各地儿童受人道主义供应链阻断严重影响](https://news.cctv.com/2026/06/02/ARTIu4QD7dUbzEoCrFhZWRBM260602.shtml)
+
++ [伊朗方面消息称霍尔木兹海峡通行许可已开放申请](https://news.cctv.com/2026/06/02/ARTIRwaOU7cUdYKWVsqQO0Qv260602.shtml)
+
++ [乌克兰：俄袭击已致18人死亡 部分地区停电](https://news.cctv.com/2026/06/02/ARTIRjMnrR90BAAoBshD15In260602.shtml)
+
++ [日本被曝正以冲绳为前沿强化“战时医疗”体制](https://news.cctv.com/2026/06/02/ARTItCygje1ZsJqClpx5aRDg260602.shtml)
+
++ [同频共振的鲜活日常——中非人文交流里的律动、招式与烟火气](https://news.cctv.com/2026/06/02/ARTI3sC9JyGCFedlEnZS8FHw260602.shtml)
+
++ [“把真实的历史传递给下一代”](https://news.cctv.com/2026/06/02/ARTI4J0bDh5fUJFU7IU387yP260602.shtml)
+
++ [日本所谓“新角色”暗藏军国主义野心](https://news.cctv.com/2026/06/02/ARTIPOq9tXSBPn3V8INlxyVb260602.shtml)
+
++ [“2026世界市长对话·黄山”活动在安徽黄山举行——坚守遗产保护 共促城市发展](https://news.cctv.com/2026/06/02/ARTIEe1QkpxVo1ZzsUu2RptJ260602.shtml)
+
++ [“文化能够架起超越语言的桥梁”——访巴西旅游部前部长鲁梅尔兹](https://news.cctv.com/2026/06/02/ARTIecIrb3lVSt8RwLlDalOP260602.shtml)
+
++ [开源之路，通向的是创新与共赢（和音）](https://news.cctv.com/2026/06/02/ARTIJVFTKJZ6Yv3pGDJBgMAj260602.shtml)
+

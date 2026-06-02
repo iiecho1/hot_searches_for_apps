@@ -45,3 +45,7 @@
 
 + [老哥们现在 macOS 26 还有啥大 Bug 嘛 准备升级了～](https://www.v2ex.com/t/1217175)
 
++ [公司搬家直线距离 21km，这种情况争取礼包胜算大吗？](https://www.v2ex.com/t/1217326)
+
++ [OpenAI 提升账号风控警告！](https://www.v2ex.com/t/1217285)
+

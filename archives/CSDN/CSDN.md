@@ -151,3 +151,19 @@
 
 + [从OpenClaw到AIGCBAR：AI智能体网关与API聚合层的深度融合之道](https://blog.csdn.net/nmdbbzcl/article/details/161611350)
 
++ [【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(新时代的曙光之大模型与人工智能)](https://blog.csdn.net/2401_87629362/article/details/161364934)
+
++ [从单兵作战到军团协作：多智能体 AI Agent 开发实战指南](https://blog.csdn.net/chen_si_shang_/article/details/161549262)
+
++ [HarmonyOS 6.1.1 全栈实战录 - 88 实战 Ability Kit 启动生命周期预热与快照恢复机](https://blog.csdn.net/sjw890821sjw/article/details/161569317)
+
++ [LabVIEW状态机架构与消息模式解析](https://blog.csdn.net/bjcyck/article/details/161601546)
+
++ [2026年第十届御网杯——数据安全赛道WriteUp](https://blog.csdn.net/2301_79816660/article/details/161602570)
+
++ [从 32 秒到 24 毫秒：一次标量子查询消除的内核优化实录](https://blog.csdn.net/weixin_66401877/article/details/161625572)
+
++ [【Flutter】Flutter 组件 ② ( 组件大小设置 | 固定大小 | 自适应大小 | 填充父容器 | 百分比大小 )](https://blog.csdn.net/han1202012/article/details/161622122)
+
++ [Spring AI Alibaba + Ollama Function Calling 项目完整指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161597924)
+
