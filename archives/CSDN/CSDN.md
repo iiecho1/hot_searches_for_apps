@@ -103,3 +103,7 @@
 
 + [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与HMAF的“律界智脑“——PC端AI智能体沉浸式法律文档智能审查工作台](https://blog.csdn.net/u014727709/article/details/161562857)
 
++ [ROS开发专栏---基于开源导航插件 wp_map_tools 多航点巡航导航实验--适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161567820)
+
++ [2026最新CSDN博客质量分计算规则——发布 version 6.0](https://blog.csdn.net/qq_44866828/article/details/161599026)
+
