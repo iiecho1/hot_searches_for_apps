@@ -101,3 +101,9 @@
 
 + [Redis 和 MySQL 数据一致性怎么保证？缓存更新策略与分布式锁一篇讲清](https://blog.csdn.net/ZFChan/article/details/161562875)
 
++ [低成本搭建鸿蒙PC运行环境：基于 Docker 的 x86_64 服务器](https://blog.csdn.net/weixin_36755535/article/details/161616629)
+
++ [鸿蒙 PC 平台 Rust 语言第三方库与应用移植全景指南](https://blog.csdn.net/qq8864/article/details/161546530)
+
++ [用 Codex / Claude Code Skill 自动完成「文献 PDF → 文献汇报 PPT」：从论文精读到 10–12 页学术汇报](https://blog.csdn.net/m0_52537869/article/details/161602883)
+

@@ -161,3 +161,27 @@
 
 + [伊朗官员：议会将通过霍尔木兹海峡“主权管辖”计划](https://news.cctv.com/2026/05/31/ARTIfc0bsUa2tZKFyZYETmvU260531.shtml)
 
++ [丹麦新政府：坚守格陵兰岛主权](https://news.cctv.com/2026/06/03/ARTI0kspS88I1s4mjupp9Yp1260603.shtml)
+
++ [美国制裁伊朗加密货币交易平台及相关人员](https://news.cctv.com/2026/06/03/ARTI0wgLIJNrVzdnFlSlmSOj260603.shtml)
+
++ [以色列拨款10亿新谢克尔以设立特别军事法庭](https://news.cctv.com/2026/06/03/ARTIOEWGCY0cUVh05XXIjyRz260603.shtml)
+
++ [美军称“林肯”号航母继续参与对伊朗封锁行动](https://news.cctv.com/2026/06/03/ARTIdHKcPpnklLgKGZqz1tUd260603.shtml)
+
++ [白宫记协晚宴改期至7月 特朗普称计划出席](https://news.cctv.com/2026/06/03/ARTIY1CMSBbGGQeQ5J9x0Zta260603.shtml)
+
++ [加拿大正式提议续签美墨加协定](https://news.cctv.com/2026/06/03/ARTI6OfiYrsK44l54oHxBGbh260603.shtml)
+
++ [多个伊拉克民兵组织宣布拟解除武装](https://news.cctv.com/2026/06/03/ARTIBhCqPmIaVSMjWo9siONM260603.shtml)
+
++ [捷克一架私人飞机坠毁 致2人死亡](https://news.cctv.com/2026/06/03/ARTIqlpOcBWG1mVOHdJuGNh7260603.shtml)
+
++ [知情人士称伊美信息交换“已暂停数日”](https://news.cctv.com/2026/06/03/ARTIzs1cIk1hwPDsKtA2tF8u260603.shtml)
+
++ [巴基斯坦安全部队在俾路支省打死17名恐怖分子](https://news.cctv.com/2026/06/03/ARTI2tvap3ZAYOpTRlCcqUJy260603.shtml)
+
++ [欧洲央行：黄金替代美元成全球官方储备第一大资产](https://news.cctv.com/2026/06/03/ARTIUr38XQVYfZCWJtStIcug260603.shtml)
+
++ [真主党不接受与以色列“部分停火” 双方继续互袭](https://news.cctv.com/2026/06/03/ARTIfG0sCR91FsiShn0ETKT4260603.shtml)
+
