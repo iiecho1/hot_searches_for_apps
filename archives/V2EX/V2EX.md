@@ -21,3 +21,17 @@
 
 + [Codex 账号触发风控，要求手机号验证，但原号码不可用导致无法登录](https://www.v2ex.com/t/1216881)
 
++ [在一起一年，今天真正分手啦](https://www.v2ex.com/t/1217228)
+
++ [你愿意主动推荐给别人观看的电影有哪些？](https://www.v2ex.com/t/1217030)
+
++ [天塌了。codex 登录要二次验证](https://www.v2ex.com/t/1217218)
+
++ [想在卧室里面看电影，推荐投影仪还是电视呢？](https://www.v2ex.com/t/1217055)
+
++ [“万 1 免 5”a 股低佣大笑脸开户， 61 抽把仿真手枪，男人至死是少年~](https://www.v2ex.com/t/1217181)
+
++ [中外程序员素质对比](https://www.v2ex.com/t/1217230)
+
++ [2026 第二季度了，移动端开发你会选择 flutter 还是 react native?](https://www.v2ex.com/t/1216994)
+

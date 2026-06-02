@@ -169,3 +169,15 @@
 
 + [以总理：以军将继续按计划在黎南部开展行动](https://news.cctv.com/2026/06/02/ARTIgTCEcCCjY4cvadHZKrCW260602.shtml)
 
++ [俄副外长：俄制订海湾地区安全构想并准备递交各方](https://news.cctv.com/2026/06/02/ARTIrYgUv8v79HnuF39ps8yD260602.shtml)
+
++ [美国艾奥瓦州发生系列枪击事件致7人死亡](https://news.cctv.com/2026/06/02/ARTINrsb4SDITYtANVrgTiOU260602.shtml)
+
++ [日本再次发生熊袭人事件 致4人受伤](https://news.cctv.com/2026/06/02/ARTIhDFEXu6Q1vy9ZS8sBSWh260602.shtml)
+
++ [不满以色列升级黎巴嫩局势 特朗普怒斥内塔尼亚胡“疯了”](https://news.cctv.com/2026/06/02/ARTIPL6Vw4aEv6DncIztSl9E260602.shtml)
+
++ [第勒尼安海发生6.2级地震，震源深度250千米](https://news.cctv.com/2026/06/02/ARTIuyO73dGJt0aFkRhxhYVG260602.shtml)
+
++ [柬埔寨金边一中国公民遇害，中使馆：敦促柬方全力侦办案件](https://news.cctv.com/2026/06/02/ARTIEha3wUtwRGvnnRQ2szFa260602.shtml)
+

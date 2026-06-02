@@ -107,3 +107,29 @@
 
 + [2026最新CSDN博客质量分计算规则——发布 version 6.0](https://blog.csdn.net/qq_44866828/article/details/161599026)
 
++ [【Linux之旅】Linux 应用层自定义协议与序列化：从粘包问题到网络计算器](https://blog.csdn.net/2302_80243065/article/details/161599856)
+
++ [鸿蒙 PC 平台 Rust 语言第三方库与应用移植全景指南](https://blog.csdn.net/qq8864/article/details/161546530)
+
++ [C#异常处理的“双面性“：为何正确使用try-catch-finally能提升300%的系统稳定性？](https://blog.csdn.net/z_344791576/article/details/151898047)
+
++ [AI科技热点日报 | 2026年6月1日](https://blog.csdn.net/haohaizi_liu/article/details/161598564)
+
++ [计算机视觉第九课：颜色 + 形状 联合识别](https://blog.csdn.net/yubo0509/article/details/161548240)
+
++ [HarmonyOS 6.1 全栈实战录 - 81 打通全联接物理层：实战 Connectivity Kit 自定义 BLE 广播与 Wi-Fi P2P 频段智选中控](https://blog.csdn.net/sjw890821sjw/article/details/161546715)
+
++ [使用 Elasticsearch 和 GitHub Copilot SDK 构建一个 RAG agent](https://blog.csdn.net/UbuntuTouch/article/details/161612294)
+
++ [Android 蓝牙设备连接广播详解-2026](https://blog.csdn.net/wenzhi20102321/article/details/161543636)
+
++ [对信号处理及滤波器的理解---基于robomaster机器人嵌入式控制系统](https://blog.csdn.net/weixin_49837118/article/details/147879490)
+
++ [Vue3 + Spring Boot 全栈项目推荐：2026 最值得学习的 5 个企业级项目](https://blog.csdn.net/zhouzhongyan/article/details/161612240)
+
++ [Linux 命名管道（FIFO）详解：原理分析、源码封装与通信流程图解](https://blog.csdn.net/2503_94076563/article/details/161548512)
+
++ [Swarm 级协作中的 TUI 交互范式：多 Agent 并发的信息降噪与全局管控](https://blog.csdn.net/weixin_62765017/article/details/161588334)
+
++ [NVIDIA RTX Spark深度测评：个人AI智能体时代真的来了？](https://blog.csdn.net/yp0to1/article/details/161596734)
+
