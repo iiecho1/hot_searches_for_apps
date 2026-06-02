@@ -185,3 +185,7 @@
 
 + [真主党不接受与以色列“部分停火” 双方继续互袭](https://news.cctv.com/2026/06/03/ARTIfG0sCR91FsiShn0ETKT4260603.shtml)
 
++ [联合国：刚果（金）东部暴力升级阻碍埃博拉疫情防控工作](https://news.cctv.com/2026/06/03/ARTILoNhXcCBseXKqtzaZjNj260603.shtml)
+
++ [受台风“蔷薇”影响 日本和歌山县发布最高等级5级警戒](https://news.cctv.com/2026/06/03/ARTIzZYTJ3Q1gV1B8Yugeeo8260603.shtml)
+
