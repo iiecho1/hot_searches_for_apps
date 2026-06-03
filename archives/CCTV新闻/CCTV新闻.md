@@ -207,3 +207,11 @@
 
 + [美加墨世界杯确定全部阵容名单](https://news.cctv.com/2026/06/03/ARTIiuVW0f1odtDVBAUDvJRY260603.shtml)
 
++ [特朗普称正在与伊朗达成协议](https://news.cctv.com/2026/06/03/ARTISkgwmLWo62VFLd7D7Ed3260603.shtml)
+
++ [伊朗官员：如有必要伊方会同美进行谈判](https://news.cctv.com/2026/06/03/ARTIa9mBCc9MczwvPLoFVLlc260603.shtml)
+
++ [科威特宣布暂时关闭领空](https://news.cctv.com/2026/06/03/ARTIVGgi5tuoWssW4fhq74qU260603.shtml)
+
++ [31条中日航线5月取消全部航班](https://news.cctv.com/2026/06/03/ARTI3QoSBg5LA8qtE6HB8oyz260603.shtml)
+

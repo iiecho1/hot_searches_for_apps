@@ -151,3 +151,25 @@
 
 + [鸿蒙游戏 HUD 如何设计？](https://blog.csdn.net/qq_36863796/article/details/161594906)
 
++ [ROS开发专栏---视觉图像数据的获取实验--适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161645130)
+
++ [破局与重构：从 RAG 架构演进到 Agentic 实践的深度探索](https://blog.csdn.net/beautifulmemory/article/details/161635430)
+
++ [Vue3 + Spring Boot 全栈实战：从零搭建在线彩票模拟系统](https://blog.csdn.net/weixin_45680962/article/details/161633710)
+
++ [RDMA 内存管理核心：理解 `struct ibv_mr` 与 `lkey`/`rkey`](https://blog.csdn.net/eidolon_foot/article/details/161627399)
+
++ [VB.NET是唯一能直接打击 Python 的语言](https://blog.csdn.net/xiaoyao961/article/details/161602742)
+
++ [【Agent 学习日记】我们来说说 Agent 的推理模式有哪些？说说 ReAct 模式，它和 CoT、ToT 等模式有什么区别？](https://blog.csdn.net/2402_87298751/article/details/161599407)
+
++ [IP数据云+Agent：三步补齐智能体环境感知模块（附代码）](https://blog.csdn.net/qq_42055933/article/details/161659655)
+
++ [HarmonyOS 6.1.1 全栈实战录 - 91 实战 Call Service Kit 扩展企服来去电智慧](https://blog.csdn.net/sjw890821sjw/article/details/161602782)
+
++ [2026六大主流CRM横评，四大核心模块解析助力企业选型](https://blog.csdn.net/Joyky123/article/details/161646141)
+
++ [架构与能力边界解析：七款CRM产品四大核心维度对比测评](https://blog.csdn.net/blue_dou/article/details/161657382)
+
++ [【Redis分布式缓存实战】第10章 Redis Cluster集群分片实战（生产主流）](https://blog.csdn.net/gaochufukanyongren/article/details/161572802)
+
