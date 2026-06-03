@@ -131,3 +131,23 @@
 
 + [被 Intercom Zendesk收费坑过？我用Chatwoot搭了个免费客服站](https://blog.csdn.net/m0_68390957/article/details/161617218)
 
++ [学生党亲测 | Trae / DeepSeek / Claude / Cursor 四大 AI 编程助手真实体验。](https://blog.csdn.net/Lijian0703_/article/details/161633856)
+
++ [【Linux网络】Linux 网络编程：传输层协议TCP（五）](https://blog.csdn.net/2401_89899187/article/details/161546121)
+
++ [ROS开发专栏---基于 NAV2 实现仿真环境自主导航实验--适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161567750)
+
++ [什么是 Few-shot Learning？Zero-shot、One-shot、Few-shot 有什么区别？](https://blog.csdn.net/qq_28419035/article/details/161644329)
+
++ [DeepSeek-R1 训练成本仅 GPT-4 的 1/10：MoE 架构如何为 AI Agent 2026技术大爆发铺平算力效率之路](https://blog.csdn.net/qq_56999332/article/details/161600824)
+
++ [【汽车研发测试工程师｜Python自动化实测全套脚本（CAN解析+数据处理+自动出报告）】](https://blog.csdn.net/weixin_62244995/article/details/161612574)
+
++ [【AVRCP】规范精讲[22]: 从消息序列看核心交互流程](https://blog.csdn.net/weixin_37800531/article/details/161494868)
+
++ [5. OpenClaw 从学习到落地：企业路线图、个人学习路径与项目复盘](https://blog.csdn.net/2504_93131538/article/details/161573312)
+
++ [DolphinDB自定义函数：UDF开发指南](https://blog.csdn.net/sinat_41617212/article/details/161630973)
+
++ [鸿蒙游戏 HUD 如何设计？](https://blog.csdn.net/qq_36863796/article/details/161594906)
+

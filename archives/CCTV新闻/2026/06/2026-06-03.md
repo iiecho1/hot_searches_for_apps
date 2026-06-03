@@ -195,3 +195,15 @@
 
 + [美伊互袭波及多国 过去一夜中东局势骤然升级](https://news.cctv.com/2026/06/03/ARTIK5MaKiyKACT0cUtg3eV4260603.shtml)
 
++ [美国政府正式就退还关税裁决提起上诉](https://news.cctv.com/2026/06/03/ARTIAIjjXL2tP21y6DL5irfp260603.shtml)
+
++ [外交部回应日方不当言论：日本避而不谈军国主义侵略扩张罪行](https://news.cctv.com/2026/06/03/ARTI154gPusVVJc54ixO80o3260603.shtml)
+
++ [伊朗最高领袖批准成立霍尔木兹海峡问题工作组](https://news.cctv.com/2026/06/03/ARTIGX8Y0Aq146DFcI3ZJUm0260603.shtml)
+
++ [经合组织将2026年全球经济增速预期下调至2.8%](https://news.cctv.com/2026/06/03/ARTIbrfciF6cCgbtHuCOb0cn260603.shtml)
+
++ [印度德里地区一餐厅发生火灾 已致至少10人死亡](https://news.cctv.com/2026/06/03/ARTIbiKaYSlVK0MNWOtudkha260603.shtml)
+
++ [美加墨世界杯确定全部阵容名单](https://news.cctv.com/2026/06/03/ARTIiuVW0f1odtDVBAUDvJRY260603.shtml)
+
