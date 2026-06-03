@@ -21,3 +21,15 @@
 
 + [老哥们现在 macOS 26 还有啥大 Bug 嘛 准备升级了～](https://www.v2ex.com/t/1217175)
 
++ [被裁两个月后，聊聊感想，发点照片](https://www.v2ex.com/t/1217461)
+
++ [[新站内测] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10](https://www.v2ex.com/t/1217405)
+
++ [操作失误导致公司损失，直属领导被罚 1 万把我保下来了，我该私下转他 5000 分担吗？](https://www.v2ex.com/t/1217390)
+
++ [OpenAI 提升账号风控警告！](https://www.v2ex.com/t/1217285)
+
++ [各位有想过自己打算工作到多少岁嘛 只说主观意愿 不考虑客观经济等](https://www.v2ex.com/t/1217295)
+
++ [被当老头崩了怎么办？还需要继续吗？](https://www.v2ex.com/t/1217480)
+

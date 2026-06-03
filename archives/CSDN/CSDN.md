@@ -111,3 +111,23 @@
 
 + [2026第十届御网杯网络安全大赛线上赛 区域赛WP （MISC和Crypto）（详解-思路-脚本）](https://blog.csdn.net/m0_68012373/article/details/161539768)
 
++ [Dify 接入蓝耘 MaaS：从 0 搭建一个企业知识库问答助手](https://blog.csdn.net/2302_78391795/article/details/161586960)
+
++ [AI科技热点日报 | 2026年6月1日](https://blog.csdn.net/haohaizi_liu/article/details/161598564)
+
++ [库的制作与原理2.0---动静态链接，main全解析，CPU在执行文件时的作用，GOT表。](https://blog.csdn.net/oooooooooooohd/article/details/161568372)
+
++ [[简化版 GAMES 101] 计算机图形学 11：频域·卷积·抗锯齿](https://blog.csdn.net/2503_92624912/article/details/161559828)
+
++ [【HarmonyOS 6.0】Map Kit 进阶：基于 MVT 矢量图层的动态地图数据叠加方案](https://blog.csdn.net/weixin_74809706/article/details/161573098)
+
++ [2026电脑远程控制软件深度横评：ToDesk/向日葵/TeamViewer/AnyDesk实测对比](https://blog.csdn.net/m0_62529977/article/details/161572647)
+
++ [长时对话场景下的上下文保持机制与状态恢复策略：基于 JiuwenSwarm 的上下文瘦身与长期记忆实践](https://blog.csdn.net/2301_77888392/article/details/161594576)
+
++ [从源码到实战：JiuwenSwarm AgentServer 数据持久化、长任务断点续跑与私有化部署选型](https://blog.csdn.net/m0_68635815/article/details/161594150)
+
++ [[ 计算机网络 | 第四章 ] 网络层 02 网际协议IP](https://blog.csdn.net/2402_88777742/article/details/161572530)
+
++ [被 Intercom Zendesk收费坑过？我用Chatwoot搭了个免费客服站](https://blog.csdn.net/m0_68390957/article/details/161617218)
+

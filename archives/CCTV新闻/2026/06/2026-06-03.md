@@ -189,3 +189,9 @@
 
 + [受台风“蔷薇”影响 日本和歌山县发布最高等级5级警戒](https://news.cctv.com/2026/06/03/ARTIzZYTJ3Q1gV1B8Yugeeo8260603.shtml)
 
++ [巴拿马发生195人越狱事件 已致3人死亡](https://news.cctv.com/2026/06/03/ARTIN0mSJPmLUv3kEm4k2j9L260603.shtml)
+
++ [坦桑尼亚两车相撞坠入山沟 造成7死17伤](https://news.cctv.com/2026/06/03/ARTI3fRBroLh87vIM3oPbYSi260603.shtml)
+
++ [美伊互袭波及多国 过去一夜中东局势骤然升级](https://news.cctv.com/2026/06/03/ARTIK5MaKiyKACT0cUtg3eV4260603.shtml)
+
