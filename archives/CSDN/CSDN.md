@@ -101,3 +101,11 @@
 
 + [网络初始1（2000字详细剖析网络的TCP/IP协议栈）](https://blog.csdn.net/yu____yuan/article/details/161167407)
 
++ [【LE Audio】CAP精讲[13]: Central侧LE连接建立全流程解析](https://blog.csdn.net/weixin_37800531/article/details/161494909)
+
++ [HarmonyOS 6.1.1 全栈实战录 - 91 实战 Call Service Kit 扩展企服来去电智慧](https://blog.csdn.net/sjw890821sjw/article/details/161602782)
+
++ [AI + 鸿蒙游戏：下一代交互革命](https://blog.csdn.net/qq_36478920/article/details/161652933)
+
++ [鸿蒙Flutter实战：IndexedStack保持Tab页面状态](https://blog.csdn.net/2302_80329073/article/details/161665017)
+
