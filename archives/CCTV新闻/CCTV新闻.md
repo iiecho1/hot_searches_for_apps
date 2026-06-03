@@ -161,3 +161,15 @@
 
 + [联合国安理会将就黎以局势召开紧急会议](https://news.cctv.com/2026/06/01/ARTI08J9TOXPvtAGPndGREVU260601.shtml)
 
++ [伊朗外长：若以色列侵略贝鲁特 则将重新开战](https://news.cctv.com/2026/06/04/ARTIKZflAnYnSXsLSBuSnWYW260604.shtml)
+
++ [以军总参谋长称军队在黎巴嫩“没有停火可言”](https://news.cctv.com/2026/06/04/ARTIr9YeYkTirlOm0Pid2Yiy260604.shtml)
+
++ [匈牙利总理称不支持加快推进乌克兰入欧谈判进程](https://news.cctv.com/2026/06/04/ARTIeCGFBihMLuE9Y1HW3lA0260604.shtml)
+
++ [初步结果显示韩国执政党锁定地方选举胜局](https://news.cctv.com/2026/06/04/ARTIgYywIpP1qnyKRP6B9ydL260604.shtml)
+
++ [特朗普称与伊朗谈判进展“非常顺利”](https://news.cctv.com/2026/06/04/ARTIibIpNhMojZnM5PMGryvK260604.shtml)
+
++ [美众议院通过决议 限制特朗普对伊动武权力](https://news.cctv.com/2026/06/04/ARTI3m3PJXWglSv237thuEAd260604.shtml)
+
