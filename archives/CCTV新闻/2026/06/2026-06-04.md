@@ -175,3 +175,19 @@
 
 + [以防长：以军现阶段将继续在黎地面行动](https://news.cctv.com/2026/06/04/ARTImMvoBsyoBfzgeMWNSNSc260604.shtml)
 
++ [国际原子能机构：为扎波罗热核电站供电的热电站遭到袭击](https://news.cctv.com/2026/06/04/ARTIvDHdpTbxs8CeeK1Ps5rn260604.shtml)
+
++ [世界经济论坛：地缘经济碎片化每年或致全球损失超3000亿美元](https://news.cctv.com/2026/06/04/ARTIgh2cednwjXTJtm6EGMzN260604.shtml)
+
++ [巴基斯坦外交部：巴方对美伊停火持乐观态度](https://news.cctv.com/2026/06/04/ARTIAcvJAr9k2ddMaBGqRURS260604.shtml)
+
++ [无视法院禁令 美国继续在肯尼亚建埃博拉隔离设施](https://news.cctv.com/2026/06/04/ARTICq0VNcExRVHqD9mREj7n260604.shtml)
+
++ [伊朗最高领袖发表书面致辞呼吁团结](https://news.cctv.com/2026/06/04/ARTI6GYE0kwseDBVtpeWHgUY260604.shtml)
+
++ [乌克兰称多地遭袭断电](https://news.cctv.com/2026/06/04/ARTIv8hzPLGPhMsrrTJaDstZ260604.shtml)
+
++ [一名联黎部队维和士兵在黎南部遭袭 不治身亡](https://news.cctv.com/2026/06/04/ARTIsZuJA7Gzi0HLKDLzXg0p260604.shtml)
+
++ [以军称对黎南部真主党设施的打击还在继续](https://news.cctv.com/2026/06/04/ARTIULUxhXyGSmfYAjWHyl5w260604.shtml)
+

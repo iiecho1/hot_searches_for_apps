@@ -25,3 +25,27 @@
 
 + [奥迪预告全新一代 Q7，现款车型生命长达 11 年](https://m.ithome.com/html/958995.htm)
 
++ [浙江台州问界 M9 事故现场镜头画面曝光，大块金属部件曾顶起车身](https://m.ithome.com/html/959541.htm)
+
++ [全部“转正”：华为鸿蒙 HarmonyOS 6.1 最新支持机型公布](https://m.ithome.com/html/959480.htm)
+
++ [时代的眼泪：11 年前 29.7 万元天价手机如今成摆设，机主称当年如果买黄金起码翻五倍](https://m.ithome.com/html/959520.htm)
+
++ [小米“寻天”SUV 最新谍照曝光：一大一小两款，大号车型配升降车顶](https://m.ithome.com/html/959548.htm)
+
++ [教育部：推动高校录取通知书回归“一页纸”，纠治奢华录取通知书](https://m.ithome.com/html/959304.htm)
+
++ [0 点补货：11999 → 10399 元，华为 Pura X Max 淘宝 618 补贴开启](https://m.ithome.com/html/959305.htm)
+
++ [英伟达 CEO 黄仁勋首次回应被老北京豆汁酸出“痛苦面具”：如果你没看到我的表情，就不知道当时我有多享受](https://m.ithome.com/html/959436.htm)
+
++ [承诺保底消费至高再减 500 元：iPhone Air 中国移动 7999 → 4599 元补贴购](https://m.ithome.com/html/959278.htm)
+
++ [微软重押 Win11 原生应用：WinUI 3 改名 WinUI，承诺不再另起新 UI 框架](https://m.ithome.com/html/959599.htm)
+
++ [粉笔科技 CEO 张小龙发道歉信：在中国人民大学演讲中个人言行失当，中途离场并发表不当言论](https://m.ithome.com/html/959662.htm)
+
++ [豆包：计划针对专业人群生产力需求推出豆包专业版，基础功能保持免费](https://m.ithome.com/html/959528.htm)
+
++ [11 年磨一剑，全新一代奥迪 Q7 外观抢跑](https://m.ithome.com/html/959315.htm)
+

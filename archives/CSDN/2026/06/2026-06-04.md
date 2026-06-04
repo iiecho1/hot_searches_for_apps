@@ -139,3 +139,25 @@
 
 + [就绪探针调优保障 Kubernetes 集群升级时服务流量零中断：K8s 应用健康检查优化策略](https://blog.csdn.net/m0_50889382/article/details/161633889)
 
++ [03-【高校】多校区链路加解密架构](https://blog.csdn.net/weixin_42115157/article/details/161668241)
+
++ [【MySQL数据库学习】MySQL表的约束(上)](https://blog.csdn.net/2401_87629362/article/details/161566746)
+
++ [ROS开发专栏---基于图像视觉的目标追踪实验--适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161645335)
+
++ [一文讲透企业数据权限：5 种数据范围 + 部门树隔离的设计与源码实现（Spring Boot 3.5 + MyBatis-Plus）](https://blog.csdn.net/zhouzhongyan/article/details/161675332)
+
++ [CC-Switch使用教程，包含ClaudeCode、Codex具体示例 【持续更新】](https://blog.csdn.net/zhangay1998/article/details/161570775)
+
++ [普通人怎么低成本做 AI 视频？实测 Veo 3.1，一条1块钱](https://blog.csdn.net/weixin_43970743/article/details/161687522)
+
++ [2001‑2022年东北三省30米分辨率逐年作物类型图](https://blog.csdn.net/qq_31988139/article/details/161490527)
+
++ [Codex客户端接入Agnes-2.0-Flash教程：实现免费使用多模态大模型AI编程](https://blog.csdn.net/weixin_41961749/article/details/161663207)
+
++ [深入 React 与 Vue 核心并谈谈浏览器事件循环 Event Loop 的状态流转与渲染开销控制](https://blog.csdn.net/cannonmonster01/article/details/161634081)
+
++ [低成本搭建鸿蒙PC运行环境：基于 Docker 的 x86_64 服务器](https://blog.csdn.net/weixin_36755535/article/details/161616629)
+
++ [【Vue3 实战系列·第 06 篇】TypeScript + Vue3：类型安全·泛型组件·类型推导——让错误在编译时暴露](https://blog.csdn.net/qq_73472828/article/details/161400232)
+
