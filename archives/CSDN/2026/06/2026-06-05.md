@@ -101,3 +101,31 @@
 
 + [就绪探针调优保障 Kubernetes 集群升级时服务流量零中断：K8s 应用健康检查优化策略](https://blog.csdn.net/m0_50889382/article/details/161633889)
 
++ [基于 Albumentations 的 YOLO 目标检测数据增强可视化与批量扩增工具实战](https://blog.csdn.net/2401_88848122/article/details/161615466)
+
++ [03-【高校】多校区链路加解密架构](https://blog.csdn.net/weixin_42115157/article/details/161668241)
+
++ [鸿蒙 PC的 vcpkg 交叉编译库在x86_64宿主环境下的AI自动化验证方案](https://blog.csdn.net/weixin_36755535/article/details/161616687)
+
++ [AI 勇敢新世界中的技术债务](https://blog.csdn.net/2301_79342058/article/details/161665697)
+
++ [17-大模型智能体开发工程师：深入学习Agent记忆系统](https://blog.csdn.net/a1369760658/article/details/161695568)
+
++ [系统设计 014：缓存深度实战：如何用 Cache 优雅优化数据库读写？](https://blog.csdn.net/2503_92624912/article/details/161684603)
+
++ [鸿蒙 PC 移植记：将微软的 `edit` 轻量级终端编辑器带到 OpenHarmony](https://blog.csdn.net/qq8864/article/details/161655424)
+
++ [【汽车研发测试工程师｜Python自动化实测全套脚本（CAN解析+数据处理+自动出报告）】](https://blog.csdn.net/weixin_62244995/article/details/161612574)
+
++ [办了500M宽带看视频还是卡？我用NAS搭了个测速服务器，宽带有没有缩水一测便知](https://blog.csdn.net/baronbool/article/details/161687529)
+
++ [从 Twist 指令到底层驱动：ROS2 差速、全向底盘运动控制与接口差异解析](https://blog.csdn.net/2508_90533928/article/details/161624806)
+
++ [把CentOS服务器变成私人漫画房:Teemii部署还能随时随地看](https://blog.csdn.net/2401_87848736/article/details/161632153)
+
++ [深入 React 与 Vue 核心并谈谈浏览器事件循环 Event Loop 的状态流转与渲染开销控制](https://blog.csdn.net/cannonmonster01/article/details/161634081)
+
++ [【Vue3 实战系列·第 06 篇】TypeScript + Vue3：类型安全·泛型组件·类型推导——让错误在编译时暴露](https://blog.csdn.net/qq_73472828/article/details/161400232)
+
++ [LInux系统篇（二）：深入剖析 Linux 进程：状态变迁、优先级及调度切换逻辑](https://blog.csdn.net/2502_94387000/article/details/161541249)
+

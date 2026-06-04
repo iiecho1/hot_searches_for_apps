@@ -21,3 +21,7 @@
 
 + [v 友们 windows 电脑用 codex/claude code 一般用什么终端？感觉系统原生终端/powershell 有点难用](https://www.v2ex.com/t/1217746)
 
++ [我老婆最近找了新工作, 老板总说她生图很慢, 想帮她搞个工具](https://www.v2ex.com/t/1217819)
+
++ [麦当劳的可乐是不是比普通罐装可乐好喝？](https://www.v2ex.com/t/1217806)
+
