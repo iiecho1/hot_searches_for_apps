@@ -31,3 +31,19 @@
 
 + [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
++ [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
++ [github/spec-kit](https://github.com/github/spec-kit)
+
++ [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)
+
++ [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
++ [github/copilot-sdk](https://github.com/github/copilot-sdk)
+
++ [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node)
+
++ [reconurge/flowsint](https://github.com/reconurge/flowsint)
+
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+

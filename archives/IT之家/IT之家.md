@@ -49,3 +49,11 @@
 
 + [11 年磨一剑，全新一代奥迪 Q7 外观抢跑](https://m.ithome.com/html/959315.htm)
 
++ [“AI 养马”出桌面端了：Hermes Desktop 公测发布](https://m.ithome.com/html/959729.htm)
+
++ [黄仁勋为英伟达 GTX 1080 显卡签名：称其是自己的最爱之一，改变了一切](https://m.ithome.com/html/959628.htm)
+
++ [不用苦等灰度：微信鸿蒙版 App 消息通知显示联系人头像功能隐藏开启方式曝光](https://m.ithome.com/html/959571.htm)
+
++ [郭明錤：苹果路线图已移除 Vision Pro 系列，专注 AI 眼镜](https://m.ithome.com/html/959585.htm)
+
