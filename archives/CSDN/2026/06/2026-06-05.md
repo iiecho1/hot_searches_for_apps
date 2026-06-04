@@ -129,3 +129,7 @@
 
 + [LInux系统篇（二）：深入剖析 Linux 进程：状态变迁、优先级及调度切换逻辑](https://blog.csdn.net/2502_94387000/article/details/161541249)
 
++ [【AIZ智能体】Codex 全能AI助手从部署到使用实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/161534861)
+
++ [梯度累积与 Micro-Batch 设计分层式精讲：有效批次、显存边界与分布式同步](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/151098472)
+
