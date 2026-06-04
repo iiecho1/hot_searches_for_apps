@@ -173,3 +173,5 @@
 
 + [美众议院通过决议 限制特朗普对伊动武权力](https://news.cctv.com/2026/06/04/ARTI3m3PJXWglSv237thuEAd260604.shtml)
 
++ [以防长：以军现阶段将继续在黎地面行动](https://news.cctv.com/2026/06/04/ARTImMvoBsyoBfzgeMWNSNSc260604.shtml)
+

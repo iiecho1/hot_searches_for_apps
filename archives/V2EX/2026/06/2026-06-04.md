@@ -37,3 +37,15 @@
 
 + [[自荐] 做了个纯 SSH 的服务器管理 App —— Caret,iOS 已上线](https://www.v2ex.com/t/1217750)
 
++ [L 站真有这么神？](https://www.v2ex.com/t/1217784)
+
++ [大家现在个人服务器一般怎么管理比较合适？](https://www.v2ex.com/t/1217789)
+
++ [有重置了兄弟们](https://www.v2ex.com/t/1217762)
+
++ [兄弟们， 5 月总计用了多少 token？我用了 34 亿，做了 3 个项目，主用 deepseek v4 pro](https://www.v2ex.com/t/1217791)
+
++ [v 友们 windows 电脑用 codex/claude code 一般用什么终端？感觉系统原生终端/powershell 有点难用](https://www.v2ex.com/t/1217746)
+
++ [老罗思想还是太超前了](https://www.v2ex.com/t/1217612)
+
