@@ -161,3 +161,15 @@
 
 + [哥伦比亚一架小型飞机坠毁 4人遇难](https://news.cctv.com/2026/06/02/ARTIJbIHgHHDEWeBFKd6hazo260602.shtml)
 
++ [伊朗外长：地区国家不应让美国利用其领土攻击伊朗](https://news.cctv.com/2026/06/05/ARTIQrU3R2DtcWbt6Wqhwn3z260605.shtml)
+
++ [普京：俄方愿在安克雷奇会晤基础上与乌方谈判](https://news.cctv.com/2026/06/05/ARTI0xiePSwqetDbW895H0ql260605.shtml)
+
++ [泽连斯基公开致信普京 提议举行会晤](https://news.cctv.com/2026/06/05/ARTI0Na9Zcz24mhs6sZu4AUT260605.shtml)
+
++ [瑞士将在G7法国峰会期间向毗邻边境派兵四千](https://news.cctv.com/2026/06/05/ARTINdf5FyXP2CJNfvTTtNBT260605.shtml)
+
++ [联合国秘书长谴责联黎部队遭袭事件](https://news.cctv.com/2026/06/05/ARTIXq681SV8qG7fatYpfdpK260605.shtml)
+
++ [美方将古巴国家主席列入制裁名单](https://news.cctv.com/2026/06/05/ARTI2T9tksf2TfMqwn7g4v5c260605.shtml)
+

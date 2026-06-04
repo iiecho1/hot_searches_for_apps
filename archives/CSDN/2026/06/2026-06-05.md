@@ -133,3 +133,5 @@
 
 + [梯度累积与 Micro-Batch 设计分层式精讲：有效批次、显存边界与分布式同步](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/151098472)
 
++ [考虑分布式电源不确定性的配电网鲁棒动态重构模型与求解方法（Matlab代码实现）](https://blog.csdn.net/m0_64583023/article/details/161702552)
+
