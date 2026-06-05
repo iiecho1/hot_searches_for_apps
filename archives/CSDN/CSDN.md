@@ -135,3 +135,21 @@
 
 + [考虑分布式电源不确定性的配电网鲁棒动态重构模型与求解方法（Matlab代码实现）](https://blog.csdn.net/m0_64583023/article/details/161702552)
 
++ [《Linux系统编程》Linux 进程间通信之 System V 共享内存：IPC 底层原理与实战](https://blog.csdn.net/2501_91275995/article/details/161633331)
+
++ [最新Codex 解决手机号验证码方案-亲测有效](https://blog.csdn.net/Jack_num1/article/details/161649557)
+
++ [鸿蒙 App 智能助手：实现原理 + 开发实践](https://blog.csdn.net/qq_36863796/article/details/161684546)
+
++ [鸿蒙 App 状态管理：实现原理 + 最佳实践](https://blog.csdn.net/qq_36478920/article/details/161681747)
+
++ [WSL2 docker-desktop发行版介绍（用于运行Docker引擎（Docker Engine））（docker-desktop-data）](https://blog.csdn.net/Dontla/article/details/161695571)
+
++ [IP数据云+Agent：三步补齐智能体环境感知模块（附代码）](https://blog.csdn.net/qq_42055933/article/details/161659655)
+
++ [【Linux网络】一文吃透 TCP Socket 编程](https://blog.csdn.net/yhrxh_ymq/article/details/161681354)
+
++ [网络初始1（2000字详细剖析网络的TCP/IP协议栈）](https://blog.csdn.net/yu____yuan/article/details/161167407)
+
++ [【Linux】进程控制（一）—进程创建、进程终止与信号全流程详解](https://blog.csdn.net/cyzzzuzm/article/details/161681556)
+

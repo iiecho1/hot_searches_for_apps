@@ -27,3 +27,17 @@
 
 + [大家现在 AI 都是怎么订阅或者买 token 的？](https://www.v2ex.com/t/1217766)
 
++ [纯吐槽公司技术团队现状](https://www.v2ex.com/t/1218058)
+
++ [因为坐月子的问题引起的争吵](https://www.v2ex.com/t/1218006)
+
++ [五年后的程序员会是什么样子呢？](https://www.v2ex.com/t/1217897)
+
++ [你相信有阿飘吗？](https://www.v2ex.com/t/1218086)
+
++ [注册送免费额度 支持 gpt5.5 5.4 / Claude sonnet / opus 4.6 4.7 号池](https://www.v2ex.com/t/1217909)
+
++ [上海找工作好难](https://www.v2ex.com/t/1217888)
+
++ [有人还玩 QQ 三国吗](https://www.v2ex.com/t/1218068)
+

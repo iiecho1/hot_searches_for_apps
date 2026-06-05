@@ -173,3 +173,9 @@
 
 + [美方将古巴国家主席列入制裁名单](https://news.cctv.com/2026/06/05/ARTI2T9tksf2TfMqwn7g4v5c260605.shtml)
 
++ [联合国秘书长欢迎黎以宣布停火](https://news.cctv.com/2026/06/05/ARTIDFxnz4bCRAVcW6C4bOkz260605.shtml)
+
++ [泽连斯基提议会晤 普京重申愿意和谈](https://news.cctv.com/2026/06/05/ARTIAvwqNAaSq5Y7QHShtYop260605.shtml)
+
++ [海事分析公司：伊朗哈尔克岛恢复原油装载作业](https://news.cctv.com/2026/06/05/ARTI6lzBQf9eWs5nVs2RzI45260605.shtml)
+
