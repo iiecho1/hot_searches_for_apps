@@ -41,3 +41,15 @@
 
 + [有人还玩 QQ 三国吗](https://www.v2ex.com/t/1218068)
 
++ [一款带 3D 视觉、极简免配置的 Clash 客户端： Clash Mini（自动测速连切，适合小白与颜控）](https://www.v2ex.com/t/1218019)
+
++ [美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。](https://www.v2ex.com/t/1218155)
+
++ [被裁了](https://www.v2ex.com/t/1218162)
+
++ [你失业多久家庭矛盾就开始了？](https://www.v2ex.com/t/1218061)
+
++ [我把英语学习变成了看小说，感谢 Vibe Coding](https://www.v2ex.com/t/1218088)
+
++ [一天三款新车?](https://www.v2ex.com/t/1218080)
+

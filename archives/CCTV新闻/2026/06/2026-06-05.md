@@ -179,3 +179,9 @@
 
 + [海事分析公司：伊朗哈尔克岛恢复原油装载作业](https://news.cctv.com/2026/06/05/ARTI6lzBQf9eWs5nVs2RzI45260605.shtml)
 
++ [克里姆林宫：普京不会赴美观看世界杯](https://news.cctv.com/2026/06/05/ARTIkwIIRbXoywjOyclUnojI260605.shtml)
+
++ [刚果（金）埃博拉检测能力提升 24小时能出结果](https://news.cctv.com/2026/06/05/ARTIW9k77XIY34fe8LPi6mt4260605.shtml)
+
++ [巴西外长：美国加征关税的理由“不成立”](https://news.cctv.com/2026/06/05/ARTI4G2DPPE0PAG7hsx3I0fO260605.shtml)
+
