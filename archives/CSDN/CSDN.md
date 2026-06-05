@@ -173,3 +173,13 @@
 
 + [面向 Microsoft Build 参会者和 Azure 开发者的 Elastic 2026 重要总结](https://blog.csdn.net/UbuntuTouch/article/details/161709475)
 
++ [OpenClaw Canvas A2UI：AI驱动的交互式界面开发实战](https://blog.csdn.net/sinat_41617212/article/details/161663195)
+
++ [2026 年再看 GUI Agent：会操作电脑已经不稀奇，能进企业流程才稀缺](https://blog.csdn.net/baronbool/article/details/161717992)
+
++ [鸿蒙 PC 文件共享：分布式机制 + Demo 实现](https://blog.csdn.net/qq_36478920/article/details/161712441)
+
++ [【跟我学 AI 编程】（6） Claude Code 与 IDE 的集成](https://blog.csdn.net/youcans/article/details/161706486)
+
++ [FastAPI 与 Gunicorn 生产级部署调优：多进程与 Gunicorn Worker 的黄金配置组合](https://blog.csdn.net/2401_87746054/article/details/161717507)
+

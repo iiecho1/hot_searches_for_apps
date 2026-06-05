@@ -185,3 +185,9 @@
 
 + [巴西外长：美国加征关税的理由“不成立”](https://news.cctv.com/2026/06/05/ARTI4G2DPPE0PAG7hsx3I0fO260605.shtml)
 
++ [美媒称“福特”号航母火灾受损程度远超美军披露](https://news.cctv.com/2026/06/05/ARTIetp1ir0Vzbq9dmOHa9w5260605.shtml)
+
++ [促极昼旅游 芬兰推出夏日寻宝计划](https://news.cctv.com/2026/06/05/ARTIZkrQEuEbnrgOF5PnZ9Uh260605.shtml)
+
++ [中国在推进全球减贫合作中发挥引领作用——访东帝汶副总理萨比诺](https://news.cctv.com/2026/06/05/ARTIbv9G6WDw3t26t2rYAvoS260605.shtml)
+

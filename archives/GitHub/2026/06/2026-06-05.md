@@ -29,3 +29,15 @@
 
 + [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
++ [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
++ [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+
++ [openai/plugins](https://github.com/openai/plugins)
+
++ [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+
++ [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+
