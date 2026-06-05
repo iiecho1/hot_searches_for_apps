@@ -161,3 +161,5 @@
 
 + [日本启动福岛第一核电站2号机组剩余乏燃料取出工作](https://news.cctv.com/2026/06/02/ARTIr1GVDqlN7fZbZ7eOzqW6260602.shtml)
 
++ [法国检方宣布调查“全球坚韧船队”法国人遭暴力对待事件](https://news.cctv.com/2026/06/06/ARTIvC3vnFA0bujo7KWfofig260606.shtml)
+

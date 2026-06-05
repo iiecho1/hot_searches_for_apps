@@ -61,3 +61,5 @@
 
 + [260604 夜会 スケート髙木姉妹＆メダリスト軍団の旅館バイト密着SP ](https://m.acfun.cn/v/?ac=48584991)
 
++ [BESTiE Love Options 恋爱的条件 路演](https://m.acfun.cn/v/?ac=48587343)
+
