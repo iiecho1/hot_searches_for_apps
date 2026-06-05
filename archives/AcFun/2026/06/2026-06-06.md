@@ -63,3 +63,5 @@
 
 + [BESTiE Love Options 恋爱的条件 路演](https://m.acfun.cn/v/?ac=48587343)
 
++ [猎魔人小头故事：收手吧公主 外面全是杰洛特](https://m.acfun.cn/v/?ac=48587711)
+
