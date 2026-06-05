@@ -191,3 +191,7 @@
 
 + [中国在推进全球减贫合作中发挥引领作用——访东帝汶副总理萨比诺](https://news.cctv.com/2026/06/05/ARTIbv9G6WDw3t26t2rYAvoS260605.shtml)
 
++ [美石油行业警告：未来几周内全球能源价格可能飙升](https://news.cctv.com/2026/06/05/ARTIoHscphFKt7FgX5e2v6f7260605.shtml)
+
++ [2026年哈萨克斯坦什么岗位最紧缺？预测出炉](https://news.cctv.com/2026/06/05/ARTIDIHMYMAuvHAehP6R0iur260605.shtml)
+
