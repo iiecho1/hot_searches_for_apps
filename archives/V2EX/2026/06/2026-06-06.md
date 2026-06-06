@@ -45,3 +45,9 @@
 
 + [拒了 1 万/月的工作，在家吸 Claude/Codex，是不是废了](https://www.v2ex.com/t/1218230)
 
++ [美股要回调了，还能相信光吗](https://www.v2ex.com/t/1218364)
+
++ [vue3 史诗级更新](https://www.v2ex.com/t/1218375)
+
++ [双非本科，工作 15 年，今年 36 了，要不要考在职 985 研究生](https://www.v2ex.com/t/1218290)
+

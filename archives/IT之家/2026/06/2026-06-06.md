@@ -31,3 +31,27 @@
 
 + [医保个人账户跨省共济来了，近亲属可用](https://m.ithome.com/html/960255.htm)
 
++ [南开大学一学生遭电诈损失 220 万元，警方提醒勿扫陌生二维码](https://m.ithome.com/html/960745.htm)
+
++ [追觅科技创始人俞浩内部发文：将心无旁骛做实业，去啃全球最难的市场](https://m.ithome.com/html/960674.htm)
+
++ [特斯拉陶琳介绍车窗内层玻璃厚度降至 1.1 毫米，小米雷军转发称 YU7 和新 SU7 也是](https://m.ithome.com/html/960618.htm)
+
++ [黄仁勋与多位韩企掌门人在烤肉店共进晚餐，称英伟达已着手在韩国新建 AI 技术中心项目](https://m.ithome.com/html/960747.htm)
+
++ [苹果 iPhone Ultra 折叠手机机模曝光：2 种颜色](https://m.ithome.com/html/960835.htm)
+
++ [古尔曼：苹果 iOS 27 将改善 iPhone 17 等机型续航](https://m.ithome.com/html/960756.htm)
+
++ [北京：6 月 8 日起启用新式电动自行车号牌](https://m.ithome.com/html/960700.htm)
+
++ [SpaceX 上市造富：大量员工将一夜之间成为百万富翁](https://m.ithome.com/html/960751.htm)
+
++ [美军“福特”号航母火灾视频曝光：消防系统失灵，床铺烧毁、天花板烧穿](https://m.ithome.com/html/960636.htm)
+
++ [1099 → 358 元：小米 G100 智能门锁国补探底，AI 指纹识别 + 九种开锁方式](https://m.ithome.com/html/960719.htm)
+
++ [vivo X 系列手机影像功能升级计划公布：将陆续推送蓝图调色盘、4K 超清 Live 等](https://m.ithome.com/html/960649.htm)
+
++ [消息称 OPPO 或继续独占双潜望镜 +10X 超长焦，友商评估后放弃](https://m.ithome.com/html/960791.htm)
+

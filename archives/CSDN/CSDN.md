@@ -145,3 +145,23 @@
 
 + [51单片机的学习下（结合中科协的个人自用笔记）](https://blog.csdn.net/Lucky_ldy/article/details/161523444)
 
++ [Codex 接入 DeepSeek 后出现 502 Bad Gateway：一次从配置、代理到协议层的完整排障记录](https://blog.csdn.net/2611_96246019/article/details/161663653)
+
++ [Windows 鸿蒙 PC 应用开发：Electron 桌面级电子书阅读器开发实战指南](https://blog.csdn.net/qq_62817113/article/details/161747713)
+
++ [彻底吃透JS执行机制：执行上下文、调用栈、var与let/const底层原理](https://blog.csdn.net/suger__salt/article/details/161728255)
+
++ [打印机错误0x00000709怎么办？原因分析及详细修复步骤](https://blog.csdn.net/2601_94969559/article/details/161662780)
+
++ [2026年6月，我的首选UU远程远控实测：快捷键、隐私屏、小窗口，这些新功能我都替你试了](https://blog.csdn.net/2401_86326742/article/details/161728536)
+
++ [服务器挂了等用户投诉才发现？我用Beszel搭了轻量监控系统，宕机第一时间通知我](https://blog.csdn.net/weixin_62765017/article/details/161689355)
+
++ [《多语言高并发巅峰对决：Python vs Java vs C++ 10万级QPS架构决策完全指南》第4章 网络IO编程范式对决：BIO/NIO/Proactor/io_uring](https://blog.csdn.net/weixin_41642668/article/details/161706787)
+
++ [《物联网安全》第10章 网络安全管理](https://blog.csdn.net/fcc13461862452/article/details/161663688)
+
++ [小芽英语鸿蒙开发实战 系列1：全栈架构设计与鸿蒙 Navigation 路由深层博弈](https://blog.csdn.net/sjw890821sjw/article/details/161709546)
+
++ [两个设备的RJ45接口用网线连到一起，IP没设置，RJ45的两个灯就一个闪烁，一个常亮，电路原理。双方通电，网线连接后‌物理层会自动检测连通性，芯片内部或外部阻抗匹配，自动协商机制‌，无需IP参与](https://blog.csdn.net/qq_25814297/article/details/161720731)
+
