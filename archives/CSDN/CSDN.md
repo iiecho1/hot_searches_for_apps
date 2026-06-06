@@ -125,3 +125,23 @@
 
 + [【WebSocket 02】 握手拦截实现 Token 鉴权、Ping/Pong 心跳保活、前端断线自动重连](https://blog.csdn.net/2401_87662859/article/details/161696967)
 
++ [从 mysql 命令切到 ksql，第一步先把连接搞明白](https://blog.csdn.net/Mrxiao_bo/article/details/161725772)
+
++ [【LE Audio】CAP精讲[14]: BR/EDR传输连接实战，老设备兼容的核心流程解析](https://blog.csdn.net/weixin_37800531/article/details/161634517)
+
++ [第21届全国大学生智能汽车竞赛第二次组委会扩大会议（2026）](https://blog.csdn.net/zhuoqingjoking97298/article/details/161726674)
+
++ [【花雕学编程】Arduino BLDC 之多机器人时间轴同步编队（I2C通信）](https://blog.csdn.net/weixin_41659040/article/details/161736831)
+
++ [JVM 内存模型深度解析：从原理到实战调优](https://blog.csdn.net/2504_94294476/article/details/161729604)
+
++ [AtomGit Flutter鸿蒙客户端：Tab导航架构](https://blog.csdn.net/2302_80329073/article/details/161728763)
+
++ [数据仓库物化视图是什么？阿里云 AnalyticDB MySQL 实时物化视图最佳实践](https://blog.csdn.net/Database_Cool_/article/details/161656618)
+
++ [ComfyUI v0.24.0更新全解析：Ideogram 4正式接入，DINOv3与BiRefNet精度修复，MultiGPU中断卡死问题解决，工作流模板同步升级](https://blog.csdn.net/weixin_48502062/article/details/161689294)
+
++ [深入理解 Linux eBPF 技术——从内核观测到可编程网络](https://blog.csdn.net/m0_69779872/article/details/161722296)
+
++ [51单片机的学习下（结合中科协的个人自用笔记）](https://blog.csdn.net/Lucky_ldy/article/details/161523444)
+

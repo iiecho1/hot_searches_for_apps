@@ -177,3 +177,7 @@
 
 + [哥伦比亚一煤矿发生爆炸已致7人死亡](https://news.cctv.com/2026/06/06/ARTIGObGsZwaDD61yMdArliI260606.shtml)
 
++ [事故频发凸显美国航空系统积弊](https://news.cctv.com/2026/06/06/ARTIhMQTlLYh1Ob5LnAM4NUb260606.shtml)
+
++ [阿根廷扩大汉坦病毒调查范围](https://news.cctv.com/2026/06/06/ARTINMGnbzM5C6YowQlll3sY260606.shtml)
+

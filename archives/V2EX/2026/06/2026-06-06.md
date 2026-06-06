@@ -37,3 +37,11 @@
 
 + [总结一下这次 OpenAI 封号的问题，同时谈谈大家忽略的一个问题（可能这才是封号的元凶）](https://www.v2ex.com/t/1218326)
 
++ [人过 30 岁真的不是为自己而活了](https://www.v2ex.com/t/1218371)
+
++ [求推荐工位风扇](https://www.v2ex.com/t/1218366)
+
++ [API 中转站， V2 朋友可享永久 8 折](https://www.v2ex.com/t/1218314)
+
++ [拒了 1 万/月的工作，在家吸 Claude/Codex，是不是废了](https://www.v2ex.com/t/1218230)
+
