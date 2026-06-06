@@ -187,3 +187,5 @@
 
 + [黎巴嫩军方称以军空袭黎南部致其军官及士兵死亡](https://news.cctv.com/2026/06/06/ARTIrLYf3KRhDIXf93CvabZC260606.shtml)
 
++ [伊朗外交部谴责美军多次违反停火协议](https://news.cctv.com/2026/06/06/ARTIXIscD4Czgw5dCqI0lLtI260606.shtml)
+
