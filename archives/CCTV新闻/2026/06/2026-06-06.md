@@ -163,3 +163,17 @@
 
 + [法国检方宣布调查“全球坚韧船队”法国人遭暴力对待事件](https://news.cctv.com/2026/06/06/ARTIvC3vnFA0bujo7KWfofig260606.shtml)
 
++ [伊朗伊斯兰革命卫队称打击美军基地](https://news.cctv.com/2026/06/06/ARTICDlMX30RurIYcxnzin3U260606.shtml)
+
++ [美军称拦截伊朗导弹和无人机](https://news.cctv.com/2026/06/06/ARTIw0aaL1mvYQM9jPhBj0wU260606.shtml)
+
++ [联合国：支持俄乌解决冲突实现停火](https://news.cctv.com/2026/06/06/ARTIRasbeJQnOJxRslHzSaKj260606.shtml)
+
++ [欧洲议会弃用谷歌 转用法国搜索引擎](https://news.cctv.com/2026/06/06/ARTIv7zwQNDHkjfbboG9FpnA260606.shtml)
+
++ [美军称，击落四架向霍尔木兹海峡发射的伊朗无人机](https://news.cctv.com/2026/06/06/ARTI1yT28kPB1oU7yv8BhUcc260606.shtml)
+
++ [特朗普称将迅速结束伊朗战事](https://news.cctv.com/2026/06/06/ARTIsFOqw46I1ZRJeksvCFst260606.shtml)
+
++ [哥伦比亚一煤矿发生爆炸已致7人死亡](https://news.cctv.com/2026/06/06/ARTIGObGsZwaDD61yMdArliI260606.shtml)
+

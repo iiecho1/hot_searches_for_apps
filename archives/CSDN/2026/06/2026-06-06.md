@@ -105,3 +105,23 @@
 
 + [IP数据云+Agent：三步补齐智能体环境感知模块（附代码）](https://blog.csdn.net/qq_42055933/article/details/161659655)
 
++ [TimechoAI 上手：从一段时序数据跑到预测分析](https://blog.csdn.net/Mrxiao_bo/article/details/161661125)
+
++ [【花雕学编程】Arduino BLDC 之带输出平滑滤波的模糊控制机器人](https://blog.csdn.net/weixin_41659040/article/details/161679421)
+
++ [[鸿蒙PC命令行移植适配] 移植rust三方库ripgrep到鸿蒙PC的完整实践](https://blog.csdn.net/g310773517/article/details/161698107)
+
++ [编译执行与解释执行深度剖析：JVM的混合执行哲学](https://blog.csdn.net/qq_41840843/article/details/161729176)
+
++ [基于YOLOv12的汽车机油滤芯缺陷检测实战（完整训练过程+结果分析）](https://blog.csdn.net/m0_74373135/article/details/161651192)
+
++ [Docker 集群运行 Spark 的一些记录](https://blog.csdn.net/Go_ahead_forever/article/details/161665088)
+
++ [手机远程控制电脑哪个最好用？五款主流远控APP横评实测2026](https://blog.csdn.net/m0_74540090/article/details/161716598)
+
++ [鱿鱼云码公测：基于YOLOv26+消息队列的高性能打码平台](https://blog.csdn.net/qq_35230125/article/details/161716376)
+
++ [Linux系统编程（十一）：深入理解Linux进程地址空间](https://blog.csdn.net/say_fall/article/details/161632794)
+
++ [【WebSocket 02】 握手拦截实现 Token 鉴权、Ping/Pong 心跳保活、前端断线自动重连](https://blog.csdn.net/2401_87662859/article/details/161696967)
+

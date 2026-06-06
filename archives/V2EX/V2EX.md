@@ -21,3 +21,19 @@
 
 + [想买个小电车，不知道自己分析的成本对不对](https://www.v2ex.com/t/1218077)
 
++ [找一个程序员搭子，互相鼓励](https://www.v2ex.com/t/1218189)
+
++ [为什么 AI 现在这么火，却很少有行业真的铺开呢？](https://www.v2ex.com/t/1218246)
+
++ [看很多人用 codex 被封号的，想统计一下原因](https://www.v2ex.com/t/1218212)
+
++ [现在在国内还有办法注册 Google 账号吗？](https://www.v2ex.com/t/1218362)
+
++ [windows 终将成为最好的 Linux](https://www.v2ex.com/t/1218268)
+
++ [Google 秒收录，秀一秀欢迎提交您的 vibe coding 作品](https://www.v2ex.com/t/1218305)
+
++ [三十多了，自己以后养老怎么办](https://www.v2ex.com/t/1218169)
+
++ [总结一下这次 OpenAI 封号的问题，同时谈谈大家忽略的一个问题（可能这才是封号的元凶）](https://www.v2ex.com/t/1218326)
+
