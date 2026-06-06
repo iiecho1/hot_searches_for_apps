@@ -123,3 +123,5 @@
 
 + [现代 Web 高吞吐状态流转：基于发布订阅（Pub/Sub）模式与 Proxy 数据双向绑定手写高性能状态管理器](https://blog.csdn.net/leopold_man/article/details/161752715)
 
++ [Week 2 -- Day 4：Agent 系统（上）— 工具与 ReAct](https://blog.csdn.net/gangzhucoll/article/details/161729250)
+
