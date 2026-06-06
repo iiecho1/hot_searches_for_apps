@@ -35,3 +35,23 @@
 
 + [withastro/flue](https://github.com/withastro/flue)
 
++ [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+
++ [sveltejs/svelte](https://github.com/sveltejs/svelte)
+
++ [nginx/nginx](https://github.com/nginx/nginx)
+
++ [golang/go](https://github.com/golang/go)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [santifer/career-ops](https://github.com/santifer/career-ops)
+
++ [openai/whisper](https://github.com/openai/whisper)
+
++ [vitejs/vite](https://github.com/vitejs/vite)
+
++ [microsoft/mxc](https://github.com/microsoft/mxc)
+
++ [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+

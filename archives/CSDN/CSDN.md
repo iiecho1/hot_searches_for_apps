@@ -171,3 +171,7 @@
 
 + [个人总结——网络安全与软件工程团队实践](https://blog.csdn.net/Kiba_/article/details/161724440)
 
++ [Linux线程原理深度剖析：从CPU调度到pthread实现](https://blog.csdn.net/2503_94076563/article/details/161751227)
+
++ [【Agent 学习日记】Agent 的记忆是如何设计的？短期记忆和长期记忆有什么区别？](https://blog.csdn.net/2402_87298751/article/details/161748284)
+
