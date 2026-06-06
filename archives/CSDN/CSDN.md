@@ -165,3 +165,9 @@
 
 + [两个设备的RJ45接口用网线连到一起，IP没设置，RJ45的两个灯就一个闪烁，一个常亮，电路原理。双方通电，网线连接后‌物理层会自动检测连通性，芯片内部或外部阻抗匹配，自动协商机制‌，无需IP参与](https://blog.csdn.net/qq_25814297/article/details/161720731)
 
++ [ROS2 Humble 开发专栏Ubuntu22.04|基于OpenCV 实现机器视觉人脸检测实验指南](https://blog.csdn.net/weixin_61186812/article/details/161708947)
+
++ [浏览器解析HTML头部完整底层逻辑](https://blog.csdn.net/u013380694/article/details/161647557)
+
++ [个人总结——网络安全与软件工程团队实践](https://blog.csdn.net/Kiba_/article/details/161724440)
+

@@ -55,3 +55,11 @@
 
 + [消息称 OPPO 或继续独占双潜望镜 +10X 超长焦，友商评估后放弃](https://m.ithome.com/html/960791.htm)
 
++ [美国芯片股集体下跌，抹去 1.3 万亿美元市值](https://m.ithome.com/html/960898.htm)
+
++ [比特币盘中跌破 6 万美元，创 2024 年 10 月以来新低](https://m.ithome.com/html/960758.htm)
+
++ [华为联合发布 460K 离网供电实证成果，实现“用光伏电调光伏”](https://m.ithome.com/html/960764.htm)
+
++ [比亚迪在英国推出“厢货版”海豚：货厢 1093 升，不到 3 万英镑](https://m.ithome.com/html/960717.htm)
+

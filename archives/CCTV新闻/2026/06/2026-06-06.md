@@ -181,3 +181,9 @@
 
 + [阿根廷扩大汉坦病毒调查范围](https://news.cctv.com/2026/06/06/ARTINMGnbzM5C6YowQlll3sY260606.shtml)
 
++ [知情人士：美国政府考虑入股人工智能企业](https://news.cctv.com/2026/06/06/ARTIWua7vkMAvauv1o6XayS0260606.shtml)
+
++ [普京要求俄政府从明年起促使经济恢复平稳增长](https://news.cctv.com/2026/06/06/ARTIlKmGfTYGk4GjrN6lMUK7260606.shtml)
+
++ [黎巴嫩军方称以军空袭黎南部致其军官及士兵死亡](https://news.cctv.com/2026/06/06/ARTIrLYf3KRhDIXf93CvabZC260606.shtml)
+
