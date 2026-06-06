@@ -99,3 +99,23 @@
 
 + [MySQL JDBC 不出网攻击 → Spring 临时文件利用：完整攻击链复现笔记](https://blog.csdn.net/niaiheni/article/details/161726793)
 
++ [AI 语义匹配实战：从工程路径到创意写作助手的开发心得](https://blog.csdn.net/weixin_63764436/article/details/161724342)
+
++ [Tauri Demo 移植到鸿蒙PC上的交叉编译全流程实战总结](https://blog.csdn.net/qq8864/article/details/161751525)
+
++ [栈（Stack）详解：概念、实现与避坑指南](https://blog.csdn.net/xxwxx__/article/details/161697885)
+
++ [【项目】JsonRpc框架——功能测试、项目总结](https://blog.csdn.net/2402_86681376/article/details/161746212)
+
++ [ClickHouse聚合查询优化：聚合函数下推与预聚合的工程实践](https://blog.csdn.net/2401_85575345/article/details/161752693)
+
++ [Kubernetes 集群维护与故障排查：从 CPU/内存压力节点驱逐、CoreDNS 解析抖动到集群自愈恢复全生命周期](https://blog.csdn.net/qwe0iop0/article/details/161753024)
+
++ [ABot-Claw——改进OpenClaw以驱动双足机器人自主干活的三个关键点：统一具身接口、视觉多模态记忆、基于奖励模型的执行反馈模块](https://blog.csdn.net/v_JULY_v/article/details/161747547)
+
++ [微服务分布式事务攻防：基于 Seata AT 模式的双阶段提交与数据脏写防线深度设计](https://blog.csdn.net/alex_goden/article/details/161752829)
+
++ [Elasticsearch + RabbitMQ 数据同步方案说明文档](https://blog.csdn.net/xiaoqinqin_222/article/details/161750576)
+
++ [免费的本地视频去水印软件推荐：分电脑手机双端梳理全场景实操使用方案](https://blog.csdn.net/GYRYIJF/article/details/161674566)
+

@@ -161,3 +161,5 @@
 
 + [伊朗方面消息称霍尔木兹海峡通行许可已开放申请](https://news.cctv.com/2026/06/02/ARTIRwaOU7cUdYKWVsqQO0Qv260602.shtml)
 
++ [世卫组织：刚果（金）和乌干达累计报告471例埃博拉病例](https://news.cctv.com/2026/06/07/ARTIdVB2Y9q1qWV2AUupkT61260607.shtml)
+
