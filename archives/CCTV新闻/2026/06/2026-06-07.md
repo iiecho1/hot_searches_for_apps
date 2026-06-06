@@ -165,3 +165,9 @@
 
 + [美国北卡罗来纳州发生枪击事件 两人中枪](https://news.cctv.com/2026/06/07/ARTIpgQ7dSS74rWyNCFkCEGT260607.shtml)
 
++ [伊朗哈尔克岛附近爆炸声系排爆作业所致](https://news.cctv.com/2026/06/07/ARTIX9WPGrNW4thBbxX4SlXy260607.shtml)
+
++ [伊朗哈尔克岛附近居民听到爆炸声](https://news.cctv.com/2026/06/07/ARTISHrFiNmoonZPwFZ4800W260607.shtml)
+
++ [俄国防部称13小时内拦截并击落300多架乌无人机](https://news.cctv.com/2026/06/07/ARTIiHhPkAsXdtu7dsvMuJfh260607.shtml)
+
