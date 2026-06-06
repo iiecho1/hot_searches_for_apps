@@ -119,3 +119,7 @@
 
 + [免费的本地视频去水印软件推荐：分电脑手机双端梳理全场景实操使用方案](https://blog.csdn.net/GYRYIJF/article/details/161674566)
 
++ [13.7万人，零人工决策：使用 Elasticsearch 实现智能体驱动的灾害响应系统](https://blog.csdn.net/UbuntuTouch/article/details/161706253)
+
++ [现代 Web 高吞吐状态流转：基于发布订阅（Pub/Sub）模式与 Proxy 数据双向绑定手写高性能状态管理器](https://blog.csdn.net/leopold_man/article/details/161752715)
+

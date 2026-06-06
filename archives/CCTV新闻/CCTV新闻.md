@@ -163,3 +163,5 @@
 
 + [世卫组织：刚果（金）和乌干达累计报告471例埃博拉病例](https://news.cctv.com/2026/06/07/ARTIdVB2Y9q1qWV2AUupkT61260607.shtml)
 
++ [美国北卡罗来纳州发生枪击事件 两人中枪](https://news.cctv.com/2026/06/07/ARTIpgQ7dSS74rWyNCFkCEGT260607.shtml)
+
