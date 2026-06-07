@@ -113,3 +113,7 @@
 
 + [[开发日记]Spring Boot + MyBatis-Plus 抽奖系统开发复盘：从奖品创建、活动校验到前端圈选人员失效的一次完整排障](https://blog.csdn.net/2503_91154453/article/details/161750334)
 
++ [鸿蒙 App 集成 AI 助手：架构设计 + 实战代码](https://blog.csdn.net/qq_36478920/article/details/161748075)
+
++ [Prompt 做 NLP 任务开发｜ES6 + 模块化](https://blog.csdn.net/2503_93701293/article/details/161753151)
+
