@@ -117,3 +117,5 @@
 
 + [Prompt 做 NLP 任务开发｜ES6 + 模块化](https://blog.csdn.net/2503_93701293/article/details/161753151)
 
++ [基于功率分配与电压恢复的分布式二次控制研究（Simulink仿真实现）](https://blog.csdn.net/weixin_61181717/article/details/161779826)
+
