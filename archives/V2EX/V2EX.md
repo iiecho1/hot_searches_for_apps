@@ -23,3 +23,11 @@
 
 + [不相信灵魂转世](https://www.v2ex.com/t/1218447)
 
++ [iPhone air 和 iPhone17 同价，都是 5000 元，你会选哪一个](https://www.v2ex.com/t/1218442)
+
++ [pdd 商家真是把我当脑残耍，能装 1l 水的杯子装不了 1l 牛奶](https://www.v2ex.com/t/1218471)
+
++ [想减少风控，固定出口 IP，有推荐的 vps 吗？](https://www.v2ex.com/t/1218426)
+
++ [月底去法国出差一周，有什么好买的](https://www.v2ex.com/t/1218396)
+

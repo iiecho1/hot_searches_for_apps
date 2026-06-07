@@ -171,3 +171,9 @@
 
 + [俄国防部称13小时内拦截并击落300多架乌无人机](https://news.cctv.com/2026/06/07/ARTIiHhPkAsXdtu7dsvMuJfh260607.shtml)
 
++ [伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则](https://news.cctv.com/2026/06/07/ARTIXU0V3TrXI7TapmfDN0Ps260607.shtml)
+
++ [美国俄亥俄州枪击事件致12人中枪 嫌疑人仍在搜捕中](https://news.cctv.com/2026/06/07/ARTIvKIoXVz4rzHZmhvzRhNg260607.shtml)
+
++ [谷歌申请在美释放3200万只不育蚊子 以阻断相关传染病传播](https://news.cctv.com/2026/06/07/ARTI5RSTeA9uJDlMd4yTBnjN260607.shtml)
+

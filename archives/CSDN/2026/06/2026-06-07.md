@@ -125,3 +125,23 @@
 
 + [Week 2 -- Day 4：Agent 系统（上）— 工具与 ReAct](https://blog.csdn.net/gangzhucoll/article/details/161729250)
 
++ [从“单点作战“到“全域增长“：CSDN AI数字营销会员卡7天实测——多平台一键分发与SEO&GEO双优化的矩阵运营实战](https://blog.csdn.net/u014727709/article/details/161752856)
+
++ [[智能体-286]：向量数据库 vs 传统关系型数据库 (MySQL/Oracle) 全面对比](https://blog.csdn.net/HiWangWenBing/article/details/161728809)
+
++ [彻底吃透JS执行机制：执行上下文、调用栈、var与let/const底层原理](https://blog.csdn.net/suger__salt/article/details/161728255)
+
++ [如何优化 MySQL 深分页 SQL](https://blog.csdn.net/m0_58809631/article/details/161752765)
+
++ [【HarmonyOS 6.0】Map Kit：海量点图层解析 —— 从几千到十万点的批量展示实践](https://blog.csdn.net/weixin_74809706/article/details/161573211)
+
++ [个人总结——网络安全与软件工程团队实践](https://blog.csdn.net/Kiba_/article/details/161724440)
+
++ [航拍输电线路故障识别｜线路金具缺陷判别｜无人机电力巡检故障检测数据集10262期](https://blog.csdn.net/2403_88545703/article/details/161740348)
+
++ [电商图片下载工具性能优化实战：从内存管理到并发控制](https://blog.csdn.net/huangdong_/article/details/161727900)
+
++ [AgentScope-Java v2.0 版本 ReActAgent vs HarnessAgent 差异解析与场景选择](https://blog.csdn.net/catoop/article/details/161695113)
+
++ [PPT制作工具：open-slide、SlideAgent、LivePPT、Claude、SpeedAI、sandun](https://blog.csdn.net/lonelymanontheway/article/details/161719547)
+
