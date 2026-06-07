@@ -159,3 +159,15 @@
 
 + [受台风“蔷薇”影响 日本和歌山县发布最高等级5级警戒](https://news.cctv.com/2026/06/03/ARTIzZYTJ3Q1gV1B8Yugeeo8260603.shtml)
 
++ [嫌犯劣迹斑斑未被制裁，司法体系漏洞引发愤慨，马克龙下令彻查女童遇害案](https://news.cctv.com/2026/06/08/ARTI2BEnIX5anGjNbyqho67j260608.shtml)
+
++ [默茨呼吁不与极右翼合作：“主流政党必须死守‘防火墙’”](https://news.cctv.com/2026/06/08/ARTIXtJD32RaL7fdop34b5Xm260608.shtml)
+
++ [特朗普：伊朗应见好就收 以色列也别报复](https://news.cctv.com/2026/06/08/ARTIN9nkyXzMEeTh4YEGXAH7260608.shtml)
+
++ [泽连斯基证实曾与俄商人阿布拉莫维奇会面](https://news.cctv.com/2026/06/08/ARTIIiruvL9HBm1lxtz7pGeA260608.shtml)
+
++ [伊朗打以色列后 以军称将猛打黎巴嫩真主党](https://news.cctv.com/2026/06/08/ARTIYUn6arb982T8mBgrO88b260608.shtml)
+
++ [加沙停火谈判重启 哈马斯移交管理权成谈判重点](https://news.cctv.com/2026/06/08/ARTISX00rCgv2S4MWGz4xbIU260608.shtml)
+

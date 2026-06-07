@@ -21,3 +21,5 @@
 
 + [Google AI Pro 在反重力中使用 Gemini 3.5 Flash 耐用吗](https://www.v2ex.com/t/1218504)
 
++ [看佛经的一些困惑](https://www.v2ex.com/t/1218561)
+

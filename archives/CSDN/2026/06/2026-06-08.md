@@ -119,3 +119,5 @@
 
 + [基于功率分配与电压恢复的分布式二次控制研究（Simulink仿真实现）](https://blog.csdn.net/weixin_61181717/article/details/161779826)
 
++ [《Linux系统编程》Linux 进程信号深度解析（上）：信号的产生方式、本质和闹钟](https://blog.csdn.net/2501_91275995/article/details/161771529)
+
