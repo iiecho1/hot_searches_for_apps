@@ -191,3 +191,15 @@
 
 + [在鸿蒙 PC 上操控远程 Docker](https://blog.csdn.net/hqzing/article/details/161753281)
 
++ [吃透 C/C++ 内存管理：从内存分布到 new/delete，一文讲透](https://blog.csdn.net/2502_91954313/article/details/161564905)
+
++ [从 0 到 1 带你速通 Codex，做出第一个 iOS App](https://blog.csdn.net/xianyu120/article/details/161775537)
+
++ [Oracle 26ai RAC 通过gold image RU打补丁](https://blog.csdn.net/weixin_41645135/article/details/161776587)
+
++ [鸿蒙实战：图片编辑器——文字功能完全实现](https://blog.csdn.net/weixin_35045177/article/details/161754042)
+
++ [Linux信号机制(上)](https://blog.csdn.net/2502_93841997/article/details/161764629)
+
++ [开源教程：用飞书长连接把本地 Codex CLI 接入机器人，支持进度心跳和可见过程](https://blog.csdn.net/tiandingtong/article/details/161743609)
+

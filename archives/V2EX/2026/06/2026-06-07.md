@@ -55,3 +55,5 @@
 
 + [半年写了 100+ 个小工具](https://www.v2ex.com/t/1218534)
 
++ [香港 Mox Bank 开放大陆旅客线上开户](https://www.v2ex.com/t/1218525)
+
