@@ -53,3 +53,5 @@
 
 + [开 Claude Max 一定会触发 KYC 吗？](https://www.v2ex.com/t/1218489)
 
++ [半年写了 100+ 个小工具](https://www.v2ex.com/t/1218534)
+

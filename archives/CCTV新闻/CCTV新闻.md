@@ -185,3 +185,11 @@
 
 + [以色列中部发生枪击事件 3人死亡5人受伤](https://news.cctv.com/2026/06/07/ARTImIcpCFKL2r4Y9HydoWYR260607.shtml)
 
++ [尼日利亚军方救出360名被绑架人员](https://news.cctv.com/2026/06/07/ARTIldrD3GWua3vSs0VOT563260607.shtml)
+
++ [伊朗称已起草《霍尔木兹海峡环境服务收费条例》](https://news.cctv.com/2026/06/07/ARTIIoXIWyHbmRgqn1ueqChp260607.shtml)
+
++ [俄总统助理：俄乌间保留非公开接触](https://news.cctv.com/2026/06/07/ARTIzbRzhMq1Id77wk8epYHd260607.shtml)
+
++ [哈马斯与卡塔尔等国会谈 寻求落实第一阶段停火](https://news.cctv.com/2026/06/07/ARTI6avqWaKOPkjQwIe7tGth260607.shtml)
+

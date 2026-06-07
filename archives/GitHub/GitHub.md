@@ -37,3 +37,27 @@
 
 + [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 
++ [opencv/opencv](https://github.com/opencv/opencv)
+
++ [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+
++ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
++ [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+
++ [aaif-goose/goose](https://github.com/aaif-goose/goose)
+
++ [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
++ [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+
++ [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+
++ [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+
++ [microsoft/pg_durable](https://github.com/microsoft/pg_durable)
+
