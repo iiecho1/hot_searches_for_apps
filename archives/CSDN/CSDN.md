@@ -177,3 +177,17 @@
 
 + [鸿蒙PC Electron框架实现流体气泡模拟器](https://blog.csdn.net/m0_66062719/article/details/161755334)
 
++ [鸿蒙 App 集成 AI 助手：架构设计 + 实战代码](https://blog.csdn.net/qq_36478920/article/details/161748075)
+
++ [后智能时代智能体推演预测娱乐文-节选-](https://blog.csdn.net/ZhangRelay/article/details/161753430)
+
++ [Windows 版 Codex 更新后 Chrome / Computer Use 插件消失或不可用的排查与修复](https://blog.csdn.net/littlelephant12/article/details/161694621)
+
++ [移动端 Web 响应式布局终极方案：基于 Container Queries 与弹性 Viewport 动态计算的跨端适配架构调优](https://blog.csdn.net/leopold_man/article/details/161752834)
+
++ [Linux系统篇（三）：Linux 命令行参数 & 环境变量：程序和系统沟通的底层逻辑](https://blog.csdn.net/2502_94387000/article/details/161566468)
+
++ [HarmonyOS 页面跳转实战：router 模块的 push、replace 与导航栈管理](https://blog.csdn.net/2501_93573294/article/details/161695493)
+
++ [在鸿蒙 PC 上操控远程 Docker](https://blog.csdn.net/hqzing/article/details/161753281)
+

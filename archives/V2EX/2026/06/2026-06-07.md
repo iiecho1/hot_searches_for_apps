@@ -47,3 +47,9 @@
 
 + [咨询，一个老 ios 程序员只拿到新东方北京 22k 的工资](https://www.v2ex.com/t/1218524)
 
++ [最近想买个键盘，能欣赏（参考）下佬儿们的键盘吗？](https://www.v2ex.com/t/1218556)
+
++ [“传国玉玺”之复盘](https://www.v2ex.com/t/1218532)
+
++ [开 Claude Max 一定会触发 KYC 吗？](https://www.v2ex.com/t/1218489)
+
