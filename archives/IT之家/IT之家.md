@@ -25,3 +25,27 @@
 
 + [消息称 OPPO 或继续独占双潜望镜 +10X 超长焦，友商评估后放弃](https://m.ithome.com/html/960791.htm)
 
++ [红旗首款硬派越野正式命名为“红旗 G919”](https://m.ithome.com/html/960960.htm)
+
++ [小米 17 Max 新机首销情况出炉，同期约为 17 的 25%](https://m.ithome.com/html/961003.htm)
+
++ [凯越机车回应“撑不住了多次求张雪救命”等谣言：纯属恶意抹黑，已向公安机关报案](https://m.ithome.com/html/960966.htm)
+
++ [iFixit 拆解华强北山寨 Apple Watch Ultra 3、AirPods Max 2、AirPods Pro 3：内部做工粗劣，核心功能缺失](https://m.ithome.com/html/960992.htm)
+
++ [联合国大学报告：精简 AI 指令中“谢谢”等礼貌用语，可让 ChatGPT 能耗降低 25%](https://m.ithome.com/html/960974.htm)
+
++ [华为 nova 16 系列手机首销情况出炉，Pro 同期约为上一代的 170%](https://m.ithome.com/html/961035.htm)
+
++ [模组厂商谈长鑫 DDR5 内存：供应端有优势，但价格并不比三大原厂明显便宜](https://m.ithome.com/html/960963.htm)
+
++ [2026 高考语文落下帷幕，卢伟冰晒出小米 Mimo 大模型写的北京卷作文](https://m.ithome.com/html/961058.htm)
+
++ [腾讯 QQ 空间 21 周年上线新版“那年今日”，支持像刷视频一样连贯翻阅](https://m.ithome.com/html/960949.htm)
+
++ [酷比魔方掌玩 mini 4 Pro 通话版平板开售：4G 全网通双卡双待、天玑 7400，售价 1599 元](https://m.ithome.com/html/960961.htm)
+
++ [问界汽车再谈浙江台州 M9 事故，华为巨鲸电池平台安全设计细节公布](https://m.ithome.com/html/961059.htm)
+
++ [华为鸿蒙 HarmonyOS API 设备量占比最新数据公布，6.1.0 以下版本合计不足 10%](https://m.ithome.com/html/961026.htm)
+

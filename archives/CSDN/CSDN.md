@@ -167,3 +167,13 @@
 
 + [小芽英语鸿蒙开发实战 系列1：全栈架构设计与鸿蒙 Navigation 路由深层博弈](https://blog.csdn.net/sjw890821sjw/article/details/161709546)
 
++ [AtomGit Flutter鸿蒙客户端：Issue管理](https://blog.csdn.net/2302_80329073/article/details/161754091)
+
++ [大模型之后，谁在决定AI的真实速度？](https://blog.csdn.net/qq_36863796/article/details/161752095)
+
++ [Linux 内核调优与网络协议栈性能优化](https://blog.csdn.net/iymei4986533030/article/details/161764999)
+
++ [pandas 进阶之路：高效数据处理的三重境界](https://blog.csdn.net/2401_85575345/article/details/161764962)
+
++ [鸿蒙PC Electron框架实现流体气泡模拟器](https://blog.csdn.net/m0_66062719/article/details/161755334)
+

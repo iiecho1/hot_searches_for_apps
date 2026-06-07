@@ -183,3 +183,5 @@
 
 + [推动中朝传统友好合作关系不断向前发展](https://news.cctv.com/2026/06/07/ARTIw7G1aN14rgJDPbOC4AxI260607.shtml)
 
++ [以色列中部发生枪击事件 3人死亡5人受伤](https://news.cctv.com/2026/06/07/ARTImIcpCFKL2r4Y9HydoWYR260607.shtml)
+
