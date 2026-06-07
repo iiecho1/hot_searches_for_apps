@@ -145,3 +145,25 @@
 
 + [PPT制作工具：open-slide、SlideAgent、LivePPT、Claude、SpeedAI、sandun](https://blog.csdn.net/lonelymanontheway/article/details/161719547)
 
++ [Apollo- 非 Java 客户端集成：Python / Go / Node.js 客户端的使用实操](https://blog.csdn.net/qq_41187124/article/details/157547944)
+
++ [【QT】系统相关：QT文件](https://blog.csdn.net/2401_89899187/article/details/161604485)
+
++ [【Redis】Redis性能优化Day14（2026年）](https://blog.csdn.net/2501_90715893/article/details/161766027)
+
++ [调试邮件功能怕误发真用户？我用MailHog搭了个本地邮件沙盒，零成本随时查看](https://blog.csdn.net/2301_80840905/article/details/161712961)
+
++ [AI Agent下半场：模型能力过剩，Skill生态成为新壁垒](https://blog.csdn.net/2503_93374004/article/details/161751354)
+
++ [ABot-Claw——改进OpenClaw以驱动双足机器人自主干活的三个关键点：统一具身接口、视觉多模态记忆、基于奖励模型的执行反馈模块(比如给会议室的人递杯水)](https://blog.csdn.net/v_JULY_v/article/details/161747547)
+
++ [Rust Unsafe 编程规范：Pin、Unpin 与自引用结构的内存安全](https://blog.csdn.net/2301_81410839/article/details/161764926)
+
++ [Kafka 消息队列高吞吐优化实战：从参数调优到生产级架构设计](https://blog.csdn.net/dicky_zhang3/article/details/161753120)
+
++ [大语言模型自动化生成前端：前端工程师的 Prompt 工程实战指南与高质量测试用例效能探索](https://blog.csdn.net/cannonmonster01/article/details/161718490)
+
++ [vibe coding之opencode的使用](https://blog.csdn.net/2502_93841997/article/details/161711532)
+
++ [小芽英语鸿蒙开发实战 系列1：全栈架构设计与鸿蒙 Navigation 路由深层博弈](https://blog.csdn.net/sjw890821sjw/article/details/161709546)
+

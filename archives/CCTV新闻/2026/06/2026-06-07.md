@@ -177,3 +177,9 @@
 
 + [谷歌申请在美释放3200万只不育蚊子 以阻断相关传染病传播](https://news.cctv.com/2026/06/07/ARTI5RSTeA9uJDlMd4yTBnjN260607.shtml)
 
++ [美国俄亥俄州枪击事件12人受伤 嫌疑人在逃](https://news.cctv.com/2026/06/07/ARTI3knyVFwrcIwJ22NbRzdj260607.shtml)
+
++ [携手打造新时代全天候中老命运共同体（和音）](https://news.cctv.com/2026/06/07/ARTIxuVfrBStuYl6UrP4go4p260607.shtml)
+
++ [推动中朝传统友好合作关系不断向前发展](https://news.cctv.com/2026/06/07/ARTIw7G1aN14rgJDPbOC4AxI260607.shtml)
+
