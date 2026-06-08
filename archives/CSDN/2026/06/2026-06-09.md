@@ -101,3 +101,67 @@
 
 + [pandas 进阶之路：高效数据处理的三重境界](https://blog.csdn.net/2401_85575345/article/details/161764962)
 
++ [《人工智能概论》实验1 知识点复习提纲](https://blog.csdn.net/2401_83600008/article/details/161740859)
+
++ [赛道旁的锥桶：组委会是否应该根据弱者来降低比赛难度？](https://blog.csdn.net/zhuoqingjoking97298/article/details/161776010)
+
++ [【Unity笔记】Unity URP 透明玻璃出现白色光斑？Directional Light 镜面高光问题分析与解决](https://blog.csdn.net/qq_41140324/article/details/161793857)
+
++ [一个开源 OCR 引擎，支持 100+ 语言，能识别表格、公式、印章，而且完全免费](https://blog.csdn.net/dubiaopei/article/details/161749180)
+
++ [植物大战僵尸杂交版下载v3.17（2026最新版）](https://blog.csdn.net/H0well/article/details/161750500)
+
++ [.NET 反编译代码语义化还原：三工具协同实战](https://blog.csdn.net/mincau/article/details/161777954)
+
++ [【iOS】MVC架构](https://blog.csdn.net/ymsjk/article/details/161775929)
+
++ [Vue3 快速上手 — 精华笔记](https://blog.csdn.net/2301_80168944/article/details/161779207)
+
++ [工商业储能系列: 集中式主动均衡-双向隔离DCDC+开关矩阵](https://blog.csdn.net/qq_30878817/article/details/161727146)
+
++ [团购活动推广H5应用搭建全记录：Vue3 + Vant + VTJ 低代码实践](https://blog.csdn.net/kenny185712818/article/details/161770274)
+
++ [2026年证件照怎么制作？免费小程序、在线网站、APP软件完整教程](https://blog.csdn.net/asyncs/article/details/161738496)
+
++ [个人总结——网络安全与软件工程综合实践](https://blog.csdn.net/mml12/article/details/161779343)
+
++ [OpenClaw对接飞书机器人完整配置教程（长连接模式）](https://blog.csdn.net/Linlingu/article/details/161771499)
+
++ [HITS 人机协同在 Agent Swarm 中的角色边界与协作模式探索](https://blog.csdn.net/lwcwam/article/details/161800571)
+
++ [【RAG】工程化实战：全链路原理复盘 + 方案选型 + 实战高阶玩法](https://blog.csdn.net/2302_79806056/article/details/161415075)
+
++ [【AI安全】大模型安全威胁：Prompt注入与模型防御策略](https://blog.csdn.net/qq_68725483/article/details/161774380)
+
++ [高性能 Vue 甘特图：vxe-gantt 如何秒级渲染万级任务数据](https://blog.csdn.net/daols88/article/details/161801551)
+
++ [llama.cpp 推理底座调优：从 KV Cache 到连续批处理的性能深潜](https://blog.csdn.net/2301_81410839/article/details/161787530)
+
++ [电影《给阿嬷的情书》迅雷BT下载[MP4/3.29GB/5.78GB]百度高清云资源](https://blog.csdn.net/gduxhg/article/details/161743357)
+
++ [Anthropic安全白皮书2｜三级成熟度模型：你的AI智能体该配哪级安全？](https://blog.csdn.net/GODYAD/article/details/161776561)
+
++ [阿里云DNS免费版解析限额10万次/天，超出2299%，自建权威DNS服务器](https://blog.csdn.net/mycosmos/article/details/161794618)
+
++ [领域驱动设计与微服务拆分：后端架构的演进方法论，从技术分层到业务边界](https://blog.csdn.net/dicky_zhang3/article/details/161787999)
+
++ [第50篇 k8s之系列总结 + 项目演示与后续扩展](https://blog.csdn.net/x00237053/article/details/161778090)
+
++ [K8S-Pod的生命周期与调度](https://blog.csdn.net/2401_87348491/article/details/161740508)
+
++ [分布式锁三巨头掰手腕：Redis vs Zookeeper vs 数据库乐观锁，你的项目到底该用谁？](https://blog.csdn.net/2402_86612729/article/details/161799526)
+
++ [Linux系统篇（三）：Linux 命令行参数 & 环境变量：程序和系统沟通的底层逻辑](https://blog.csdn.net/2502_94387000/article/details/161566468)
+
++ [智码美形：华为云码道 × UI-UX-Pro-Max 高品质界面智能生成实践](https://blog.csdn.net/devcloud/article/details/161802465)
+
++ [工业领域的Hadoop架构学习~系列文章17：Hadoop性能调优- 调度集群每一分性能](https://blog.csdn.net/IT_XiaoFan_/article/details/161752233)
+
++ [【优化求解】基于混合鸟群粒子群优化算法用于MRS的碰撞避免和连接保持附matlab代码](https://blog.csdn.net/m0_60703264/article/details/161803749)
+
++ [GitHub 热榜项目 - 周榜(2026-06-06)](https://blog.csdn.net/u014390502/article/details/161739723)
+
++ [从一个人到一群人：我为什么最后选了 ToDesk 团队版](https://blog.csdn.net/weixin_45591597/article/details/161806934)
+
++ [2026年6月最新远程软件横评：UU远程免费比收费的还好用，终端+端口映射+隐私屏实测](https://blog.csdn.net/a_hong_sen/article/details/153797066)
+
