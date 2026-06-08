@@ -23,3 +23,13 @@
 
 + [看佛经的一些困惑](https://www.v2ex.com/t/1218561)
 
++ [微信为何丧心病狂打击多开？多开是用户的合理需求！](https://www.v2ex.com/t/1218621)
+
++ [“万一免五”股票 ETF 低佣开户，抽一个鼠标迈从 A7 V3 PRO+，或者键盘迈从 Ace 68 V2](https://www.v2ex.com/t/1218624)
+
++ [[bytecat]codex 免费用，还送十刀，中奖率 20%助力 v 友编码~](https://www.v2ex.com/t/1218667)
+
++ [chatgpt plus 是不是假的啊， codex 运行半小时额度就花完了？](https://www.v2ex.com/t/1218604)
+
++ [作为程序员的你，和作为普通群体你是如何吐槽微信的](https://www.v2ex.com/t/1218632)
+

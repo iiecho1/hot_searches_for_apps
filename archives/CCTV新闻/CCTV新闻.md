@@ -171,3 +171,29 @@
 
 + [加沙停火谈判重启 哈马斯移交管理权成谈判重点](https://news.cctv.com/2026/06/08/ARTISX00rCgv2S4MWGz4xbIU260608.shtml)
 
++ [伊朗革命卫队：以色列对伊朗发动弹道导弹袭击](https://news.cctv.com/2026/06/08/ARTIsaqxXwGTZZzHWmtOGY3d260608.shtml)
+
++ [“摩羯”等9个致灾台风被除名 新名接棒启用](https://news.cctv.com/2026/06/08/ARTIdiAxjLh2GohtUbo1leE9260608.shtml)
+
++ [英媒曝：美国打算绕开英国“收购”查戈斯群岛](https://news.cctv.com/2026/06/08/ARTIjXA6DxpLbtzgAM2K5Sby260608.shtml)
+
++ [中国驻伊朗使领馆提醒在伊中国公民加强安全防范](https://news.cctv.com/2026/06/08/ARTIBMHJJEmEUHCSfAQ3KH0H260608.shtml)
+
++ [因特朗普到场观赛 NBA总决赛安检升级](https://news.cctv.com/2026/06/08/ARTIHE0Sl3MZj4h14G93Wpbx260608.shtml)
+
++ [“为建设更加美好的世界提供精神养分”](https://news.cctv.com/2026/06/08/ARTIW4ZfnzisbZDbt8cVQQfC260608.shtml)
+
++ [推动中朝关系与时俱进取得更大发展（和音）](https://news.cctv.com/2026/06/08/ARTIDlPdck87ywEOLs7xqYAX260608.shtml)
+
++ [伊朗多地响起爆炸声 以军称正攻击伊朗境内目标](https://news.cctv.com/2026/06/08/ARTIGPQCQS4dLqxIVEyiLiJ4260608.shtml)
+
++ [以军称打击伊朗军事目标](https://news.cctv.com/2026/06/08/ARTIxNHlN3qwzATCrzNnFFUj260608.shtml)
+
++ [加强文明交流互鉴 赓续中非传统友好](https://news.cctv.com/2026/06/08/ARTItamdq6pIq1KvD0Let05u260607.shtml)
+
++ [特稿｜中朝多领域合作为两国友好注入源源动力](https://news.cctv.com/2026/06/08/ARTIOs44oCOv7s4jsifSbluh260607.shtml)
+
++ [伊朗消息人士：伊方已做好军事准备应对以色列进一步行动](https://news.cctv.com/2026/06/08/ARTIkxNmHIC2TRySQh3Eyafu260608.shtml)
+
++ [中国驻福冈总领事馆紧急提醒领区中国同胞防范海啸风险](https://news.cctv.com/2026/06/08/ARTI8NLjIPaEn0TqmHoJIHtF260608.shtml)
+
