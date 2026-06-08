@@ -197,3 +197,33 @@
 
 + [中国驻福冈总领事馆紧急提醒领区中国同胞防范海啸风险](https://news.cctv.com/2026/06/08/ARTI8NLjIPaEn0TqmHoJIHtF260608.shtml)
 
++ [中国驻伊朗大使馆通报部分伊朗陆地边境口岸情况，再次提醒在伊中国公民加强安全防范](https://news.cctv.com/2026/06/08/ARTIdIAVsN2VTZnjlpJLOWgX260608.shtml)
+
++ [中国驻菲律宾大使馆提醒在菲中国公民防范地震灾害](https://news.cctv.com/2026/06/08/ARTILC4QO1KOdR0HJ9D89yTI260608.shtml)
+
++ [伊拉克民兵武装称将参与针对以色列的军事行动](https://news.cctv.com/2026/06/08/ARTIP3pTf7jigMeMeslGrGKJ260608.shtml)
+
++ [亚美尼亚公民合约党在议会选举中排名第一](https://news.cctv.com/2026/06/08/ARTIaKJYBnbFXEV9qJX7df1p260608.shtml)
+
++ [克里米亚地区官员：该地区一客运列车遭乌袭击 致1死1伤](https://news.cctv.com/2026/06/08/ARTIbYkqoxFgIgEc725Imcpi260608.shtml)
+
++ [中国驻以色列大使馆提醒在以中国公民：密切关注形势做好安全防范](https://news.cctv.com/2026/06/08/ARTIh77UWkD4GEcOc0N9LFUg260608.shtml)
+
++ [特稿丨中朝多领域合作为两国友好注入源源动力](https://news.cctv.com/2026/06/08/ARTIx5pN2w8a2NU9gTzS6ZLi260608.shtml)
+
++ [新华时评丨推动中朝传统友好合作关系不断向前发展](https://news.cctv.com/2026/06/08/ARTILiDnnf3lYB2es7YHkedv260608.shtml)
+
++ [近闻·总书记这样讲述中朝友谊](https://news.cctv.com/2026/06/08/ARTIKgEfWmZCjGx6QDThhzEF260608.shtml)
+
++ [金句海报丨习近平总书记在署名文章中这样阐述发展中朝关系](https://news.cctv.com/2026/06/08/ARTIBC0qhzy92wbspHW5hNeh260608.shtml)
+
++ [以色列多地拉响防空警报 以军称全国防空系统已全面激活](https://news.cctv.com/2026/06/08/ARTIhx3ZzWfY3G4sEC9xjatF260608.shtml)
+
++ [菲律宾南部地震已造成15人死亡](https://news.cctv.com/2026/06/08/ARTIpvDjC1H468g5zGTx7sxo260608.shtml)
+
++ [中国驻以色列使馆提醒在以中国公民密切关注形势做好安全防范](https://news.cctv.com/2026/06/08/ARTI5gouBMuQNeDUEI1zh5rs260608.shtml)
+
++ [独家视频丨习近平抵达平壤 开始对朝鲜进行国事访问](https://news.cctv.com/2026/06/08/ARTI3QtU1vMgrSdo5j1S4zoy260608.shtml)
+
++ [菲律宾强震已致5人死亡 海浪约1米高](https://news.cctv.com/2026/06/08/ARTIRmvArFvoKkNUSDjtVunG260608.shtml)
+

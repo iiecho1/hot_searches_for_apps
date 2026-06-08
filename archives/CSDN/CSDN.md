@@ -141,3 +141,91 @@
 
 + [如何优化 MySQL 深分页 SQL](https://blog.csdn.net/m0_58809631/article/details/161752765)
 
++ [TensorFlow 与 PyTorch 框架深度对比与选型指南：选择最适合你的深度学习框架](https://blog.csdn.net/weixin_43272162/article/details/161765857)
+
++ [Spring AI Alibaba 多模态应用开发实践](https://blog.csdn.net/phltxy/article/details/161741072)
+
++ [AI 生活化应用设计：从技术到温情的产品化](https://blog.csdn.net/specter__/article/details/161764795)
+
++ [gRPC 流式通信与背压控制：Go 微服务中的实时数据传输方案](https://blog.csdn.net/baronbool/article/details/161787745)
+
++ [Spring AI 1.x 系列【40】MCP 客户端 Spring Boot 启动器](https://blog.csdn.net/qq_43437874/article/details/161777025)
+
++ [基于DNA算法的遥感图像加解密matlab仿真](https://blog.csdn.net/aycd1234/article/details/161778966)
+
++ [React 与 Next.js 现代化开发：服务端架构与性能优化实践](https://blog.csdn.net/qq_40635035/article/details/161765071)
+
++ [Go 高并发服务设计：连接池、限流与优雅降级的工程实践](https://blog.csdn.net/qq_34803115/article/details/161787693)
+
++ [OpenClaw的通道配置](https://blog.csdn.net/nplplus/article/details/161517444)
+
++ [AI 时代还需要买课吗？我用 Skills + Markdown + HTML 搭了一套自学系统](https://blog.csdn.net/xiewenfeng520/article/details/161777438)
+
++ [PyTorch为何成为TVA的“大脑皮层“（9）](https://blog.csdn.net/2501_94287723/article/details/161728815)
+
++ [独立产品智能化：用 AI 赋能小而美的产品从 0 到 1 实践](https://blog.csdn.net/weixin_49475940/article/details/161765157)
+
++ [Spring AI：让大模型住进 Spring 生态（五）](https://blog.csdn.net/2401_85198927/article/details/160763782)
+
++ [AI 驱动的轻量化创意产品从想法到发布](https://blog.csdn.net/weixin_63764436/article/details/161765215)
+
++ [AI API 调用优化实战：统一入口与超时处理指南](https://blog.csdn.net/ZorChi/article/details/161791181)
+
++ [AI 自动化测试](https://blog.csdn.net/weixin_44081096/article/details/161754425)
+
++ [提出创新想法、设计实验、分析结果、构建学术叙事](https://blog.csdn.net/qq_38998213/article/details/161752598)
+
++ [Flutter 在鸿蒙设备上运行时背后发生了什么](https://blog.csdn.net/weixin_39706922/article/details/161789842)
+
++ [2026 年 6 月 7 日 AI 行业大事件：物理 AI 开源引爆、美国拟国有化头部 AI、递归风险预警拉满](https://blog.csdn.net/2401_84289488/article/details/161778261)
+
++ [2026-06-07 GitHub 热点项目精选](https://blog.csdn.net/m0_65659549/article/details/161762744)
+
++ [2026 年 AI 助手三国杀：Claude Code vs 腾讯马维斯 vs MiniMax Mavis，我同时用了三周，结论很意外](https://blog.csdn.net/2401_87961121/article/details/161615015)
+
++ [第【4】期--基于凸优化的无人机辅助的通信感知一体化系统波束成形方案研究-maltab完整代码+报告](https://blog.csdn.net/qq_35027690/article/details/161764241)
+
++ [机器学习周报四十八](https://blog.csdn.net/weixin_60864619/article/details/161766146)
+
++ [我开源了一个Claude Code历史可视化工具：本地Prompt一键浏览、搜索、导出](https://blog.csdn.net/qq_60735796/article/details/161751311)
+
++ [【github爆款】Headroom：AI代理的智能上下文压缩层 —— 深度解析与洞察](https://blog.csdn.net/weixin_45351651/article/details/161751076)
+
++ [【苍穹外卖|Day02】后台接口自测闭环：Token、DTO 与 yml 配置](https://blog.csdn.net/2502_94242477/article/details/161752278)
+
++ [▲基于OFDM+QPSK的通信链路matlab性能仿真,包含LDPC,Schmidl-Cox频偏估计和MMSE信道估计](https://blog.csdn.net/ccsss22/article/details/161783085)
+
++ [LocateAnything 视觉-语言定位推理 多GPU并行大批量图片目标检测的实现](https://blog.csdn.net/flyfish1986/article/details/161745359)
+
++ [调查研究-162 Anthropic 抢跑 OpenAI 提交 SEC 保密 IPO 申请:AI 资本市场的主导权正在换手](https://blog.csdn.net/w776341482/article/details/161771290)
+
++ [VSCODE接入Claude Code使用第三方模型教程](https://blog.csdn.net/weixin_61678229/article/details/161725322)
+
++ [实验十一 华为路由器和交换机实现单区域 OSPF 动态路由协议配置实验指导书](https://blog.csdn.net/supernealrei/article/details/161780369)
+
++ [GR-RL（Gesture Real-Time Reinforcement Learning）是字节Seed基座GR3机器人的专属控制内核，定位为全域实时姿态强化学习具身控制框架。其核心功能包括柔性物](https://blog.csdn.net/2602_96088873/article/details/161778133)
+
++ [PPT制作工具：open-slide、SlideAgent、LivePPT、Claude、SpeedAI、sandun](https://blog.csdn.net/lonelymanontheway/article/details/161719547)
+
++ [2026年东莞商家小程序怎么做](https://blog.csdn.net/lanlanjianzhan/article/details/161723847)
+
++ [一个开源 OCR 引擎，支持 100+ 语言，能识别表格、公式、印章，而且完全免费](https://blog.csdn.net/dubiaopei/article/details/161749180)
+
++ [为 GPU 成本优化而生：Hearth 开源，一个云原生、支持异构计算的 LLM 推理引擎，邀你共建](https://blog.csdn.net/2402_83455235/article/details/161776826)
+
++ [前端调用后端接口全流程实战](https://blog.csdn.net/2202_75677328/article/details/161747619)
+
++ [Kafka的基本了解](https://blog.csdn.net/Arguan_/article/details/161750280)
+
++ [技术拆解（十一）：为什么你连7B模型都微调不动？从 SFT 到 QLoRA，再到 AWQ/GPTQ 部署，算清这笔显存账](https://blog.csdn.net/Zyzyzyzyzzzz/article/details/161708115)
+
++ [Codex 桌面端新会话 5 次 Reconnecting 怎么办？HTTP/SSE 完美修复方案（2026最新）](https://blog.csdn.net/qq_68006585/article/details/161779454)
+
++ [TCP/IP 协议栈漏洞技术分析：从协议解析到内存安全](https://blog.csdn.net/hnytgl/article/details/161772624)
+
++ [Codex客户端下载与Sandbox沙箱机制详解：安全运行AI编程助手](https://blog.csdn.net/weixin_41961749/article/details/161744018)
+
++ [从零用 TypeScript 写一个 TCP 聊天室（下）——数据持久化、登录验证与管理指令](https://blog.csdn.net/2501_93803357/article/details/161774194)
+
++ [2026年6月，我的首选UU远程远控实测：快捷键、隐私屏、小窗口，这些新功能我都替你试了](https://blog.csdn.net/2401_86326742/article/details/161728536)
+
