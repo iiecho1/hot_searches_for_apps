@@ -31,3 +31,23 @@
 
 + [microsoft/pg_durable](https://github.com/microsoft/pg_durable)
 
++ [google/skills](https://github.com/google/skills)
+
++ [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
++ [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+
++ [santifer/career-ops](https://github.com/santifer/career-ops)
+
++ [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+
++ [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)
+
++ [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+
++ [roboflow/supervision](https://github.com/roboflow/supervision)
+
++ [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
++ [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+

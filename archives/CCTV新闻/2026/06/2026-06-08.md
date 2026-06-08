@@ -227,3 +227,15 @@
 
 + [菲律宾强震已致5人死亡 海浪约1米高](https://news.cctv.com/2026/06/08/ARTIRmvArFvoKkNUSDjtVunG260608.shtml)
 
++ [以媒：以色列本轮袭击伊朗与美方“全面协调”](https://news.cctv.com/2026/06/08/ARTIAmxPdO5W0Li5cVPrPPlc260608.shtml)
+
++ [高清大图丨习近平访问朝鲜 朝方举行盛大欢迎仪式](https://news.cctv.com/2026/06/08/ARTIujuhEUh3Bm1SgXuIVKfT260608.shtml)
+
++ [一见·中朝传统友谊崭新篇章如何续写？这篇文章里有答案](https://news.cctv.com/2026/06/08/ARTIomueWdISnHDSnpT1Uvf0260608.shtml)
+
++ [伊朗武装部队宣布停止对以色列军事行动](https://news.cctv.com/2026/06/08/ARTItfy8LVJtJcHvZdSyrHfS260608.shtml)
+
++ [伊朗革命卫队：已对以色列袭击伊石化企业行为作出回应](https://news.cctv.com/2026/06/08/ARTI1kSR73ki28BFk82pZsuN260608.shtml)
+
++ [一架无人机在伊朗首都德黑兰上空被击落](https://news.cctv.com/2026/06/08/ARTIuytKfnyrYwpvv04HO7s8260608.shtml)
+
