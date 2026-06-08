@@ -159,3 +159,15 @@
 
 + [刚果（金）埃博拉检测能力提升 24小时能出结果](https://news.cctv.com/2026/06/05/ARTIW9k77XIY34fe8LPi6mt4260605.shtml)
 
++ [英媒爆美国想“收购”查戈斯群岛，毛里求斯政府：主权问题不容谈判](https://news.cctv.com/2026/06/09/ARTI3WRH4klXim2OvPCuICN1260609.shtml)
+
++ [德国竞选安理会席位失败，前外长贝尔伯克遭批](https://news.cctv.com/2026/06/09/ARTIsL5K8CUppyHGrvk7CORn260609.shtml)
+
++ [内塔尼亚胡称“暂停”袭击伊朗](https://news.cctv.com/2026/06/09/ARTIOOs9jfxNBZ4RJPKbBrmi260609.shtml)
+
++ [美法官裁定特朗普政府抬高H-1B签证费违法](https://news.cctv.com/2026/06/09/ARTIraGIlaIIlRDBztzFVOxd260609.shtml)
+
++ [联合国秘书长：对中东局势再次升级深感担忧](https://news.cctv.com/2026/06/09/ARTIBPllsuiqg5xrOHxTFuRh260609.shtml)
+
++ [伊朗民航组织：全国航空活动恢复正常](https://news.cctv.com/2026/06/09/ARTIG0JvHt0TNesa4sUxWJmJ260609.shtml)
+
