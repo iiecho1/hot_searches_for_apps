@@ -281,3 +281,15 @@
 
 + [【燃烧机】基于matlab模拟了燃烧机的热力学循环分析活塞动力学以及温度和压力变化对发动机效率的影响](https://blog.csdn.net/Matlab_dashi/article/details/161803494)
 
++ [RAG 元数据的作用与管理：让知识库回答可追溯、可过滤、可维护](https://blog.csdn.net/weixin_62043600/article/details/161806178)
+
++ [虚竹哥与机械工业出版社免费送AI书活动第十七期《一本书讲透Agentic AI》](https://blog.csdn.net/shi_hong_fei_hei/article/details/161807270)
+
++ [具身智能（Embodied AI）：当 Agent 走进物理机器人](https://blog.csdn.net/m0_62554628/article/details/161753614)
+
++ [限流：从单机QPS计数器到分布式三层防御体系](https://blog.csdn.net/2301_79289774/article/details/161807243)
+
++ [【大数据处理与分析】MapReduce：05 MapReduce的具体应用](https://blog.csdn.net/Morse_Chen/article/details/161778552)
+
++ [GitHub Spark：自然语言能把全栈 AI 应用做到什么程度](https://blog.csdn.net/diandianxiyu/article/details/161808192)
+

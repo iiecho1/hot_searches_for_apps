@@ -193,3 +193,15 @@
 
 + [美副总统：美以在推动与伊朗达成核问题协议上可能存在利益分歧](https://news.cctv.com/2026/06/09/ARTINH2OHkcBEiRlzWu7E205260609.shtml)
 
++ [非洲疾控中心：刚果（金）与乌干达埃博拉确诊病例升至608例](https://news.cctv.com/2026/06/09/ARTIDvIi1LjHwI76yZJyl153260609.shtml)
+
++ [哈马斯官员称开罗谈判取得进展 寻求以军全面撤出加沙](https://news.cctv.com/2026/06/09/ARTIPI3T4z8tZUyoV7SfhUON260609.shtml)
+
++ [多位中国公民被拒绝入境，中国驻泰国使馆提醒：免签不等于“无条件入境”](https://news.cctv.com/2026/06/09/ARTIcwExm1tSYiXaU6X3kHd6260609.shtml)
+
++ [联合国发布新版海洋评估 敦促加强合作保护海洋生态](https://news.cctv.com/2026/06/09/ARTI5igw6f3eZNCjQrjZwIfZ260609.shtml)
+
++ [美军“阿帕奇”武装直升机在霍尔木兹海峡附近坠毁](https://news.cctv.com/2026/06/09/ARTITSVJKStVr2Fs3FRwx8il260609.shtml)
+
++ [印尼野生动物园：首只本土出生大熊猫“里奥”健康成长](https://news.cctv.com/2026/06/09/ARTISenkm3BZC2NASzQiyR1F260609.shtml)
+
