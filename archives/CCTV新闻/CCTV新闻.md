@@ -171,3 +171,5 @@
 
 + [伊朗民航组织：全国航空活动恢复正常](https://news.cctv.com/2026/06/09/ARTIG0JvHt0TNesa4sUxWJmJ260609.shtml)
 
++ [特朗普曾警告以总理勿再攻伊朗 否则将遭孤立](https://news.cctv.com/2026/06/09/ARTIBeQTWbPs8KPjY6TA97Di260609.shtml)
+

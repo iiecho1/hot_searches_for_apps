@@ -191,3 +191,77 @@
 
 + [【SpringBoot 4.x 第6节】灵魂拷问，Spring Boot 启动流程到底发生了什么？](https://blog.csdn.net/weixin_43970743/article/details/161728460)
 
++ [从零玩转搜索引擎 API: 多引擎整合实战](https://blog.csdn.net/m0_73367097/article/details/161806636)
+
++ [AtomGit Flutter鸿蒙客户端：Issue管理](https://blog.csdn.net/2302_80329073/article/details/161754091)
+
++ [大模型AI测评：GPT-4与Claude 3.5代码生成实测横评](https://blog.csdn.net/2401_87342824/article/details/161724594)
+
++ [【Agent 学习日记】Agent 的记忆是如何设计的？短期记忆和长期记忆有什么区别？](https://blog.csdn.net/2402_87298751/article/details/161748284)
+
++ [PyTorch强化学习实战（12）——Double DQN（DDQN）](https://blog.csdn.net/LOVEmy134611/article/details/157941855)
+
++ [你的 SQL 里藏着多少重复计算？金仓数据库标量子查询消除实战解析](https://blog.csdn.net/qq_57761637/article/details/161778962)
+
++ [Linux线程原理深度剖析：从CPU调度到pthread实现](https://blog.csdn.net/2503_94076563/article/details/161751227)
+
++ [【项目】JsonRpc框架——功能测试、项目总结](https://blog.csdn.net/2402_86681376/article/details/161746212)
+
++ [【LE Audio】CAP精讲[15]: 音频城堡的安保体系，全流程安全防护与权限管控](https://blog.csdn.net/weixin_37800531/article/details/161665694)
+
++ [湖南高考天气查询：基于 HTML5 与百度天气 API 实现页面展示](https://blog.csdn.net/yelangkingwuzuhu/article/details/161778892)
+
++ [ABot-Claw——改进OpenClaw以驱动双足机器人自主干活的三个关键点：统一具身接口、视觉多模态记忆、基于奖励模型的执行反馈模块(比如给会议室的人递杯水)](https://blog.csdn.net/v_JULY_v/article/details/161747547)
+
++ [SpringBoot 多租户 SaaS 架构：独立库/Schema/字段隔离 3 种方案深度对比](https://blog.csdn.net/zhouzhongyan/article/details/161790344)
+
++ [【Linux网络】深入理解传输层 UDP 协议：从底层原理到实战应用](https://blog.csdn.net/2503_91389547/article/details/161314037)
+
++ [【解析几何丘维声 第一章】向量代数第一部分](https://blog.csdn.net/he_zhidan/article/details/161763686)
+
++ [ROS开发专栏---ROS2 三维视觉应用（2）---使用 PCL 进行桌面物品检测实验---适配Ubuntu 22.04](https://blog.csdn.net/weixin_61186812/article/details/161789299)
+
++ [TimechoAI时序大模型生产落地问题汇总，性能&稳定性深度测评](https://blog.csdn.net/weixin_43151418/article/details/161520038)
+
++ [PaddleOCR-VL体验实录:很多付费OCR能做的事,它基本都能完成](https://blog.csdn.net/2401_87629362/article/details/161803034)
+
++ [【QT】系统相关：QT文件](https://blog.csdn.net/2401_89899187/article/details/161604485)
+
++ [《Linux系统编程》Linux 进程信号深度解析（上）：信号的产生方式、本质和闹钟](https://blog.csdn.net/2501_91275995/article/details/161771529)
+
++ [Oracle 26ai RAC 通过gold image RU打补丁](https://blog.csdn.net/weixin_41645135/article/details/161776587)
+
++ [基于功率分配与电压恢复的分布式二次控制研究（Simulink仿真实现）](https://blog.csdn.net/weixin_61181717/article/details/161779826)
+
++ [从 0 到 1 带你速通 Codex，做出第一个 iOS App](https://blog.csdn.net/xianyu120/article/details/161775537)
+
++ [【花雕学编程】Arduino BLDC 之多机器人协同与局部极小值逃逸的 VFF 控制](https://blog.csdn.net/weixin_41659040/article/details/161786633)
+
++ [【AI智能体】Codex 高级进阶使用技巧项目实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/161695315)
+
++ [【Redis】Redis性能优化Day14（2026年）](https://blog.csdn.net/2501_90715893/article/details/161766027)
+
++ [DeepSeek-V4开源MoE架构深度解析：推理成本仅GPT-5的1/8，专家路由与稀疏激活机制全揭秘，2026大模型推理优化新范式](https://blog.csdn.net/qq_56999332/article/details/161791202)
+
++ [opencv 5.0.0发布：从构建要求到DNN引擎、模块拆分、Python绑定，OpenCV 4升级5最全迁移指南](https://blog.csdn.net/weixin_48502062/article/details/161777559)
+
++ [从 MySQL 到 KingbaseES：Database、Schema、User 一次讲透](https://blog.csdn.net/Mrxiao_bo/article/details/161806150)
+
++ [【HarmonyOS 6.0】Map Kit：海量点图层解析 —— 从几千到十万点的批量展示实践](https://blog.csdn.net/weixin_74809706/article/details/161573211)
+
++ [PairDrop 部署实录：Windows 和 iPhone 跨设备文件秒传，AirDrop 平替](https://blog.csdn.net/qq_61024956/article/details/161802612)
+
++ [Tauri 应用移植到 OpenHarmony/鸿蒙PC完整指南](https://blog.csdn.net/qq8864/article/details/161809958)
+
++ [YOLO26介绍](https://blog.csdn.net/fengbingchun/article/details/161764208)
+
++ [实验十一 华为路由器和交换机实现单区域 OSPF 动态路由协议配置实验指导书](https://blog.csdn.net/supernealrei/article/details/161780369)
+
++ [【动手学 Claude Code】（4）Claude Code 接入微信对话](https://blog.csdn.net/youcans/article/details/161358437)
+
++ [本周 GitHub 热门项目推荐：Headroom 和 CC Switch](https://blog.csdn.net/u014158743/article/details/161776707)
+
++ [Codex 搭配国产大模型实战教程：DeepSeek + 通义千问接入（含PyCharm集成）](https://blog.csdn.net/weixin_50921860/article/details/161775821)
+
++ [开源教程：用飞书长连接把本地 Codex CLI 接入机器人，支持进度心跳和可见过程](https://blog.csdn.net/tiandingtong/article/details/161743609)
+
