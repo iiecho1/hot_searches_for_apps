@@ -265,3 +265,19 @@
 
 + [开源教程：用飞书长连接把本地 Codex CLI 接入机器人，支持进度心跳和可见过程](https://blog.csdn.net/tiandingtong/article/details/161743609)
 
++ [【HarmonyOS 6.0】Map Kit热力图层功能详解：从参数配置到代码实现的完整指南](https://blog.csdn.net/weixin_74809706/article/details/161728745)
+
++ [SQL/NoSQL数据库为何成为TVA的记忆系统（3）](https://blog.csdn.net/2501_94287723/article/details/161774654)
+
++ [高并发 LLM 推理服务化：基于 Triton Inference Server 的多模型管道（Ensemble & BLS）高吞吐推理调度架构与动态批处理（Dynamic Batching）实战](https://blog.csdn.net/lady_mumu/article/details/161752976)
+
++ [【Linux网络】高性能 TCP 服务器：从多线程到线程池的架构演进与落地实践](https://blog.csdn.net/yhrxh_ymq/article/details/161750847)
+
++ [鸿蒙 PC 多屏协同：架构解析 + 代码示例](https://blog.csdn.net/qq_36478920/article/details/161801383)
+
++ [无人机强化学习RL、混合MPC-RL、线性MPC、非线性NMPC轨迹跟踪UAV多控制策略研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/161810908)
+
++ [delphi使用VPDFDoc，怎么设置PDF保护密码及不可编辑、标注等权限？](https://blog.csdn.net/weixin_43970743/article/details/159944153)
+
++ [【燃烧机】基于matlab模拟了燃烧机的热力学循环分析活塞动力学以及温度和压力变化对发动机效率的影响](https://blog.csdn.net/Matlab_dashi/article/details/161803494)
+

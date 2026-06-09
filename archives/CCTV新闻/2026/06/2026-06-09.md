@@ -173,3 +173,23 @@
 
 + [特朗普曾警告以总理勿再攻伊朗 否则将遭孤立](https://news.cctv.com/2026/06/09/ARTIBeQTWbPs8KPjY6TA97Di260609.shtml)
 
++ [刚果（金）本轮埃博拉疫情死亡病例过百](https://news.cctv.com/2026/06/09/ARTIoZ025wDUjAZQSETLPtbj260609.shtml)
+
++ [伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意](https://news.cctv.com/2026/06/09/ARTIBp6BekFmXAAg5N6lr2pd260609.shtml)
+
++ [日本学者：“国家情报会议”设立法案或将日本引上危险道路](https://news.cctv.com/2026/06/09/ARTI02hTuSr45e6in9OFxBFd260609.shtml)
+
++ [“不同文明可以和平共处，可以创造性地相互丰富”——访希腊雅典科学院院长迪亚曼多罗斯](https://news.cctv.com/2026/06/09/ARTIkVYzkTYiD8S4MdPIOaYX260609.shtml)
+
++ [菲律宾南部地震已造成37人死亡](https://news.cctv.com/2026/06/09/ARTI4KX0X9EFI7CEOqYYhyXT260609.shtml)
+
++ [古巴地区发生5.8级地震，震源深度20千米](https://news.cctv.com/2026/06/09/ARTImX6anyXIqkwYktUdBEUr260609.shtml)
+
++ [中东战事致美航空公司燃油成本飙升](https://news.cctv.com/2026/06/09/ARTIKIIOJEiKBlW5dSJ6xyZy260609.shtml)
+
++ [消息人士：德法决定停止联合研发战斗机](https://news.cctv.com/2026/06/09/ARTIAw01PKYwmiARCggRShob260609.shtml)
+
++ [联合国举行年度仪式缅怀因公殉职工作人员](https://news.cctv.com/2026/06/09/ARTIqHh0dwg1JqnCFHSTysSR260609.shtml)
+
++ [美副总统：美以在推动与伊朗达成核问题协议上可能存在利益分歧](https://news.cctv.com/2026/06/09/ARTINH2OHkcBEiRlzWu7E205260609.shtml)
+
