@@ -293,3 +293,17 @@
 
 + [GitHub Spark：自然语言能把全栈 AI 应用做到什么程度](https://blog.csdn.net/diandianxiyu/article/details/161808192)
 
++ [深度解析：KingbaseES高可用架构落地原理与生产运维实战](https://blog.csdn.net/lrq13965748542/article/details/161769603)
+
++ [【Linux网络】网络层IP协议（三）：网段划分（下）](https://blog.csdn.net/2401_89899187/article/details/161697865)
+
++ [【一等奖答案】2026 江西省研究生数学建模 C题 电子健康记录数据补全及其优化算法](https://blog.csdn.net/a1552100455/article/details/161820883)
+
++ [Java核心优势深度解读：跨平台、生态与设计哲学——为什么Java依然是最流行的企业级语言](https://blog.csdn.net/qq_41840843/article/details/161824134)
+
++ [HumanEgo——从半小时人类第一视角视频中进行零样本学习的4大关键点：对人类手臂进行图像修补、将每只手和每个物体编码为一个交互中心Token、流匹配策略、稠密辅助目标](https://blog.csdn.net/v_JULY_v/article/details/161796047)
+
++ [CI 早已消亡，GitHub 还在固守旧时代](https://blog.csdn.net/weixin_64160021/article/details/161804472)
+
++ [DolphinDB分布式计算：MapReduce模](https://blog.csdn.net/sinat_41617212/article/details/161824413)
+

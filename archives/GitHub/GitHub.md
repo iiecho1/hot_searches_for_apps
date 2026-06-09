@@ -33,3 +33,15 @@
 
 + [aaif-goose/goose](https://github.com/aaif-goose/goose)
 
++ [opencv/opencv](https://github.com/opencv/opencv)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
++ [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+
++ [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed)
+
++ [francescopace/espectre](https://github.com/francescopace/espectre)
+
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
