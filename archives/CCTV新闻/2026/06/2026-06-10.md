@@ -161,3 +161,7 @@
 
 + [马里暂停全国淘金活动以保障从业者安全](https://news.cctv.com/2026/06/10/ARTIKWT0ZHufP6hQBK6hgfmE260610.shtml)
 
++ [保加利亚防长称将停止对乌克兰军事援助](https://news.cctv.com/2026/06/10/ARTIeBXr6PZKgLP67YkEE2Ui260610.shtml)
+
++ [以色列重开一处加沙地带过境点 联合国呼吁开放全部通道](https://news.cctv.com/2026/06/10/ARTIkUUwcs09ZHp6NSXMo0MO260610.shtml)
+
