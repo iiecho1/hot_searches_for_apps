@@ -157,3 +157,7 @@
 
 + [谷歌申请在美释放3200万只不育蚊子 以阻断相关传染病传播](https://news.cctv.com/2026/06/07/ARTI5RSTeA9uJDlMd4yTBnjN260607.shtml)
 
++ [六国制裁参与约旦河西岸暴力事件的定居者](https://news.cctv.com/2026/06/10/ARTIMwfllGG2QFRnCiHCpWGe260610.shtml)
+
++ [马里暂停全国淘金活动以保障从业者安全](https://news.cctv.com/2026/06/10/ARTIKWT0ZHufP6hQBK6hgfmE260610.shtml)
+

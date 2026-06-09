@@ -25,3 +25,11 @@
 
 + [需 12GB 内存：苹果称部分 iOS 27 高级本地 AI 功能仅限 iPhone Air 等机型](https://m.ithome.com/html/961690.htm)
 
++ [小米雷军：MiMo 昨晚发布 V2.5-Pro-UltraSpeed，这是业内首次在 1 万亿参数模型上突破 1000 tokens/s 输出速度](https://m.ithome.com/html/961953.htm)
+
++ [苹果 iOS 27 悄悄更新中文输入法：标点建议和联想词更准确，找生僻字更方便](https://m.ithome.com/html/961716.htm)
+
++ [更像桌搭了：苹果 iOS 27 版 Apple Music 播放音乐支持横屏显示](https://m.ithome.com/html/961857.htm)
+
++ [赛力斯“赛豆科技”全新品牌 AIVA 官宣：车标样式曝光，全系标配豆包大模型智能座舱](https://m.ithome.com/html/961726.htm)
+

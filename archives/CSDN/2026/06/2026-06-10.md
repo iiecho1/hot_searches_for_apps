@@ -101,3 +101,35 @@
 
 + [HITS 人机协同在 Agent Swarm 中的角色边界与协作模式探索](https://blog.csdn.net/lwcwam/article/details/161800571)
 
++ [用30秒声音复刻自己的音色：Index-TTS远程部署与公网访问实践](https://blog.csdn.net/2501_91062530/article/details/161836318)
+
++ [AtomGit Flutter鸿蒙客户端：通知系统](https://blog.csdn.net/2302_80329073/article/details/161835347)
+
++ [我用 Dataify 跑了一次竞品情报 Agent：12 次请求后，市场报告自动成型](https://blog.csdn.net/wtyuong/article/details/161835667)
+
++ [Swarm管理面板的多项目配置策略与模型别名机制的效率分析](https://blog.csdn.net/lwcwam/article/details/161800716)
+
++ [【大数据处理与分析】MapReduce：05 MapReduce的具体应用](https://blog.csdn.net/Morse_Chen/article/details/161778552)
+
++ [小白第一次尝试动态路由技术](https://blog.csdn.net/Koisuru/article/details/161837901)
+
++ [从0到1理解Go熔断器：sony/gobreaker 源码剖析 + 仿TikTok Feed 项目实战](https://blog.csdn.net/hhhhhh66654/article/details/161837918)
+
++ [Node.js 流式处理与背压控制：高吞吐服务的工程实践](https://blog.csdn.net/qq_34803115/article/details/161824921)
+
++ [Three.js 粒子系统与赛博朋克视觉特效：从几何到氛围的渲染实践](https://blog.csdn.net/qq_40635035/article/details/161825622)
+
++ [Skill的概述与使用](https://blog.csdn.net/nplplus/article/details/161772825)
+
++ [【Kubernetes02】—— 使用 kubeadm 从零搭建 K8s 集群（实操避坑版）](https://blog.csdn.net/Lvyizhuo/article/details/161804529)
+
++ [Linux信号机制(上)](https://blog.csdn.net/2502_93841997/article/details/161764629)
+
++ [钉钉副总裁发表长文《置身钉外》，宣布离职](https://blog.csdn.net/weixin_44231059/article/details/161818692)
+
++ [第一篇：《Kubernetes 是什么？为什么它是云原生基石？》](https://blog.csdn.net/qq_45239623/article/details/161788521)
+
++ [个人总结——网络安全与软件工程综合实践](https://blog.csdn.net/mml12/article/details/161779343)
+
++ [一个 Flutter 项目同时保留 Android、iOS、HarmonyOS 支持的实践](https://blog.csdn.net/weixin_39706922/article/details/161820176)
+
