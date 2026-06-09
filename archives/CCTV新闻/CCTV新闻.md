@@ -165,3 +165,5 @@
 
 + [以色列重开一处加沙地带过境点 联合国呼吁开放全部通道](https://news.cctv.com/2026/06/10/ARTIkUUwcs09ZHp6NSXMo0MO260610.shtml)
 
++ [超160艘油轮滞留波斯湾 海事组织警告勿涉险闯关](https://news.cctv.com/2026/06/10/ARTImsnvptFCNkAiub0G4qsH260610.shtml)
+
