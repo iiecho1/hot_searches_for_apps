@@ -147,3 +147,19 @@
 
 + [BenCloward Unreal & Unity 着色器图表教程 第 7 集 课程笔记【视图，世界，物体和切线空间】](https://blog.csdn.net/www__wwxr/article/details/161775846)
 
++ [CodeGraph 使用教程：专为代码库打造的知识图谱](https://blog.csdn.net/zhangay1998/article/details/161837762)
+
++ [基于大模型的智能客服系统部署与使用（二）：接入前端可视化界面](https://blog.csdn.net/m0_74956872/article/details/161806191)
+
++ [Apollo- 生产环境监控体系：核心指标采集与 Grafana 大盘搭建](https://blog.csdn.net/qq_41187124/article/details/157548279)
+
++ [AnalyticDB分区、分布键性能优化](https://blog.csdn.net/weixin_44624117/article/details/161840750)
+
++ [鸿蒙 PC 性能监控：原理分析 + 实战工具](https://blog.csdn.net/qq_36478920/article/details/161826551)
+
++ [【MATLAB】飞行器姿态快速收敛控制算法实现](https://blog.csdn.net/unbelievevc/article/details/161850282)
+
++ [51单片机的学习终（结合中科协的个人自用笔记）](https://blog.csdn.net/Lucky_ldy/article/details/161751253)
+
++ [Java垃圾回收机制深度解析：从原理到实战](https://blog.csdn.net/2504_94294476/article/details/161836511)
+

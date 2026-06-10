@@ -175,3 +175,15 @@
 
 + [美军称完成对伊朗“自卫性打击”](https://news.cctv.com/2026/06/10/ARTIJpoHTxdkaBcnIla92B18260610.shtml)
 
++ [民调显示约三分之二美国人认为“美国梦”不成立](https://news.cctv.com/2026/06/10/ARTIMLZoFWCiufH4wyLn3aHP260610.shtml)
+
++ [科威特称正在拦截“敌方”空中目标](https://news.cctv.com/2026/06/10/ARTIAPbIlwhkE8VIcv5QJJTE260610.shtml)
+
++ [美官员称美军打击了伊朗境内20个目标](https://news.cctv.com/2026/06/10/ARTIaS7RrHC0dJMBaQfrH7JL260610.shtml)
+
++ [伊朗称袭击约旦美军基地指挥控制中心和F-35战斗机机库](https://news.cctv.com/2026/06/10/ARTIIumKZuGxEKmHBb7QL5ww260610.shtml)
+
++ [墨西哥政府宣布世界杯揭幕日停课并推行远程办公](https://news.cctv.com/2026/06/10/ARTI2PMqThKyiWJoqY03vMwB260610.shtml)
+
++ [菲律宾南部地震已造成45人死亡](https://news.cctv.com/2026/06/10/ARTIGJ6Ygmh1hVYDD2cOEfPf260610.shtml)
+

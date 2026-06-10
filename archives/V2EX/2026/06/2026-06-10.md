@@ -33,3 +33,13 @@
 
 + [[集中贴] iOS 27 目前已知问题汇总](https://www.v2ex.com/t/1219005)
 
++ [自用 Codex 站（今天送额度不清零--6.10）](https://www.v2ex.com/t/1219263)
+
++ [上班被 @突然觉得一阵恶心](https://www.v2ex.com/t/1219249)
+
++ [快要迎来全额社保了，大佬们怎么看](https://www.v2ex.com/t/1219312)
+
++ [收到一个 offer 去上海该去吗?](https://www.v2ex.com/t/1219270)
+
++ [看完“崇洋媚外”帖子后，发现自己罪恶深重](https://www.v2ex.com/t/1219161)
+
