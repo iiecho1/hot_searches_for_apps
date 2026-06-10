@@ -187,3 +187,11 @@
 
 + [菲律宾南部地震已造成45人死亡](https://news.cctv.com/2026/06/10/ARTIGJ6Ygmh1hVYDD2cOEfPf260610.shtml)
 
++ [伊朗外交部发言人：美国违反停火协议 损害外交进程](https://news.cctv.com/2026/06/10/ARTIo6q25Wweo19U2npyHKVC260610.shtml)
+
++ [以军称打死哈马斯资金运营负责人](https://news.cctv.com/2026/06/10/ARTIuiSG4hbvrM0EOF0F63TP260610.shtml)
+
++ [担心阁员“变节” 斯塔默强势“守位”](https://news.cctv.com/2026/06/10/ARTICejMmaqyaqDErOb3fviC260610.shtml)
+
++ [中国驻科威特大使馆提醒在科中国公民加强安全防范](https://news.cctv.com/2026/06/10/ARTIDswXLNsLdEuFLLdXgYLV260610.shtml)
+
