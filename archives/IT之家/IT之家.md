@@ -33,3 +33,27 @@
 
 + [赛力斯“赛豆科技”全新品牌 AIVA 官宣：车标样式曝光，全系标配豆包大模型智能座舱](https://m.ithome.com/html/961726.htm)
 
++ [罗永浩谈苹果 iOS 27“挤牙膏”，称希望新 CEO 别再这样了](https://m.ithome.com/html/962140.htm)
+
++ [用户反馈苹果 macOS 27 大幅提升流畅度，“像是换了台 Mac”](https://m.ithome.com/html/962325.htm)
+
++ [苹果 CEO 库克挥泪告别：主持 WWDC26 频频拭泪，连说 18 声“谢谢”](https://m.ithome.com/html/962367.htm)
+
++ [“运营商新老歧视”引热议：优惠套餐偏爱新人、老用户不投诉不给改](https://m.ithome.com/html/962207.htm)
+
++ [微博回应禁言追觅科技 CEO 俞浩：账号被某企业投诉，以“喊话”等形式发布质疑、拉踩企业的违规内容](https://m.ithome.com/html/962310.htm)
+
++ [优必选全球首款全尺寸超仿生人形机器人小订突破 3000 台，仅限成年人购买使用](https://m.ithome.com/html/962144.htm)
+
++ [最强 Claude 模型：Anthropic 推出 Fable 5/Mythos 5，书写 AI 神话](https://m.ithome.com/html/962152.htm)
+
++ [消息称 TP-LINK 普联技术总部要从深圳迁址杭州，换签劳动合同遭大量员工抵制](https://m.ithome.com/html/962378.htm)
+
++ [阿里合伙人委员会内网发帖：批评钉钉团队管理方式，“不是阿里文化该有的样子”](https://m.ithome.com/html/962287.htm)
+
++ [华为 HDC 2026 开发者大会议程暗示，JetBrains 旗下 IDE 有望登陆鸿蒙 HarmonyOS 电脑](https://m.ithome.com/html/962408.htm)
+
++ [容量增幅 50%：消息称 MacBook Neo 2 配 12GB 内存，支持苹果最强本地 AI 模型](https://m.ithome.com/html/962377.htm)
+
++ [vivo 推出 vivoLife iQOO 闪电黄直饮杯，首发价 9.9 元](https://m.ithome.com/html/962380.htm)
+

@@ -195,3 +195,5 @@
 
 + [中国驻科威特大使馆提醒在科中国公民加强安全防范](https://news.cctv.com/2026/06/10/ARTIDswXLNsLdEuFLLdXgYLV260610.shtml)
 
++ [菲律宾南部地震已造成53人死亡](https://news.cctv.com/2026/06/10/ARTIIHmaXmDvoVI95VsFb9lB260610.shtml)
+
