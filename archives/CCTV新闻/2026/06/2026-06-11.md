@@ -161,3 +161,9 @@
 
 + [内塔尼亚胡称以军已打死近万名黎真主党武装人员](https://news.cctv.com/2026/06/11/ARTI88sNLmzmPMt6CjFNsxBB260611.shtml)
 
++ [美防长称美军将轰炸伊朗境内关键设施](https://news.cctv.com/2026/06/11/ARTIgVKXiepHfC7QYUjEbsLG260611.shtml)
+
++ [哥伦比亚总统佩特罗否认被“临时停职”](https://news.cctv.com/2026/06/11/ARTIldjQYjJu6ll0Eu5og8Il260611.shtml)
+
++ [尼日利亚中部发生绑架学生未遂事件 三名师生死亡](https://news.cctv.com/2026/06/11/ARTIbbXDjSWm0n2YTh2IyYnf260611.shtml)
+
