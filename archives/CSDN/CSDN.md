@@ -135,3 +135,15 @@
 
 + [TVA在传统安防迈向智能物联（AIoT）中的突破与应用（9）](https://blog.csdn.net/2501_94287723/article/details/161559770)
 
++ [车流预测：3个模型融合，统计VS AI，精度提升200%？](https://blog.csdn.net/z_344791576/article/details/151898474)
+
++ [Linux之线程同步：条件变量和两种生产消费模型](https://blog.csdn.net/feng_wu_ying_li/article/details/161806169)
+
++ [从 CPU 指令执行到权限管控：对比三大操作系统，梳理编程语言演进，解读 HTML/CSS/JS 浏览器解析的共通底层逻辑](https://blog.csdn.net/qq_41652036/article/details/161821443)
+
++ [原本只想送束花，后来我给她搭了一个Like_Girl纪念网站](https://blog.csdn.net/Z_oioihoii/article/details/161803033)
+
++ [Spring 原理总览：从启动到请求执行](https://blog.csdn.net/2302_81141145/article/details/161840551)
+
++ [BenCloward Unreal & Unity 着色器图表教程 第 7 集 课程笔记【视图，世界，物体和切线空间】](https://blog.csdn.net/www__wwxr/article/details/161775846)
+

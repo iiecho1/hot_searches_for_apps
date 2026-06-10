@@ -167,3 +167,11 @@
 
 + [超160艘油轮滞留波斯湾 海事组织警告勿涉险闯关](https://news.cctv.com/2026/06/10/ARTImsnvptFCNkAiub0G4qsH260610.shtml)
 
++ [中美战略竞争格局下，中方期待韩方发挥什么作用？中国驻韩大使回应](https://news.cctv.com/2026/06/10/ARTIbjDzS4HZVB94tRzg5yYf260610.shtml)
+
++ [美媒：特朗普至少37次说“美伊协议即将达成”](https://news.cctv.com/2026/06/10/ARTIn6F3SZtiNgeDDuVKiPsQ260610.shtml)
+
++ [中国驻洪都拉斯使馆提醒在洪中国公民防范灾害](https://news.cctv.com/2026/06/10/ARTIduWKR0DKB8jS7sP0tvHX260610.shtml)
+
++ [美军称完成对伊朗“自卫性打击”](https://news.cctv.com/2026/06/10/ARTIJpoHTxdkaBcnIla92B18260610.shtml)
+
