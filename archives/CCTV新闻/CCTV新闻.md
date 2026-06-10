@@ -159,3 +159,5 @@
 
 + [推动中朝关系与时俱进取得更大发展（和音）](https://news.cctv.com/2026/06/08/ARTIDlPdck87ywEOLs7xqYAX260608.shtml)
 
++ [内塔尼亚胡称以军已打死近万名黎真主党武装人员](https://news.cctv.com/2026/06/11/ARTI88sNLmzmPMt6CjFNsxBB260611.shtml)
+

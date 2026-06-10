@@ -97,3 +97,9 @@
 
 + [使用阿里云 API 实现图像文字识别与校园文档智能分类系统](https://blog.csdn.net/m0_37758063/article/details/161838660)
 
++ [鸿蒙 App 分布式数据同步：架构设计 + Demo 实现](https://blog.csdn.net/qq_36863796/article/details/161801037)
+
++ [CI 早已消亡，GitHub 还在固守旧时代](https://blog.csdn.net/weixin_64160021/article/details/161804472)
+
++ [基于PSO-DWA无人机三维动态避障路径规划研究（Matlab代码实现）](https://blog.csdn.net/2201_75454341/article/details/161845370)
+
