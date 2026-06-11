@@ -103,3 +103,21 @@
 
 + [基于PSO-DWA无人机三维动态避障路径规划研究（Matlab代码实现）](https://blog.csdn.net/2201_75454341/article/details/161845370)
 
++ [OpenCV-Python实战（27）——基于对极几何的3D场景重建](https://blog.csdn.net/LOVEmy134611/article/details/161477571)
+
++ [【Linux网络】深入理解 TCP 协议（一）：报头设计与可靠性基石](https://blog.csdn.net/2503_91389547/article/details/161343556)
+
++ [鸿蒙游戏如何实现多端一致性？](https://blog.csdn.net/qq_36478920/article/details/161855718)
+
++ [基于灰狼优化、改进灰狼优化、金豺优化、沙丘猫群，（GWO、IGWO、GJO、SCSO、SCA）优化与正弦余弦算法的无人机三维航迹路径规划对比研究（Matlab代码实现）](https://blog.csdn.net/2201_75454341/article/details/161845224)
+
++ [基于改进灰狼优化算法在复杂山地无人机三维路径规划中的应用研究（Matlab代码实现）](https://blog.csdn.net/weixin_67304359/article/details/161843842)
+
++ [【花雕动手做】行空板 K10 系列实验之无线广播使用陀螺仪姿态传感器遥控板载LED灯](https://blog.csdn.net/weixin_41659040/article/details/161857936)
+
++ [【AVRCP】规范精讲[27]: 音箱开机后发生了什么？媒体接收器完整初始化流程深度拆解](https://blog.csdn.net/weixin_37800531/article/details/161754103)
+
++ [【解析几何丘维声 第一章】向量代数第二部分](https://blog.csdn.net/he_zhidan/article/details/161750329)
+
++ [nginx：详解与速查表 / Nginx = 反向代理 + 负载均衡 + 静态服务器 + HTTP 缓存 / 请求分发、静态加速、上线不中断](https://blog.csdn.net/snowball_li/article/details/128397553)
+

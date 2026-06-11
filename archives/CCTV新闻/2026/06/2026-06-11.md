@@ -169,3 +169,9 @@
 
 + [美中央司令部称袭击伊朗境内多个目标](https://news.cctv.com/2026/06/11/ARTIWaaF3RzPcrfaGNLW5QFL260611.shtml)
 
++ [沙特解除对黎巴嫩商品持续5年的进口禁令](https://news.cctv.com/2026/06/11/ARTIyrElJhVbxgENkYXIsD2O260611.shtml)
+
++ [综述｜从北京到雅典——世界古典学大会连接古今文明与世界对话](https://news.cctv.com/2026/06/11/ARTIw0WoWQKXMOwLm9poJASy260611.shtml)
+
++ [伊朗武装部队回应美军停止新一轮打击](https://news.cctv.com/2026/06/11/ARTIGVp4e2w3W8ZtY81tCPaV260611.shtml)
+
