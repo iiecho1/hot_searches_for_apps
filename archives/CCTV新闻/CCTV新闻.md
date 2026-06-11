@@ -167,3 +167,5 @@
 
 + [尼日利亚中部发生绑架学生未遂事件 三名师生死亡](https://news.cctv.com/2026/06/11/ARTIbbXDjSWm0n2YTh2IyYnf260611.shtml)
 
++ [美中央司令部称袭击伊朗境内多个目标](https://news.cctv.com/2026/06/11/ARTIWaaF3RzPcrfaGNLW5QFL260611.shtml)
+
