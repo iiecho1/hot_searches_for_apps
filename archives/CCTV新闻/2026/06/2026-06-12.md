@@ -159,3 +159,11 @@
 
 + [近闻·总书记这样讲述中朝友谊](https://news.cctv.com/2026/06/08/ARTIKgEfWmZCjGx6QDThhzEF260608.shtml)
 
++ [卡塔尔埃米尔与美国总统通电话 讨论美伊磋商进展](https://news.cctv.com/2026/06/12/ARTIoYZRnYQ6T7Swh6mCHnnu260612.shtml)
+
++ [联合国难民署：全球被迫流离失所者超过1.17亿](https://news.cctv.com/2026/06/12/ARTIUaw7b4XZNWf84kioLIV9260612.shtml)
+
++ [也门国务部长住所遭袭 致3死多伤](https://news.cctv.com/2026/06/12/ARTIB5Vw4axE4hJvRJBixA9n260612.shtml)
+
++ [特朗普称美伊协议进入最后定稿阶段 有望本周末签署](https://news.cctv.com/2026/06/12/ARTIuJsed7NBlmE0CVI0CZDs260612.shtml)
+
