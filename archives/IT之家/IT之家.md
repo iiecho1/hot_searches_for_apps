@@ -25,3 +25,27 @@
 
 + [vivo 推出 vivoLife iQOO 闪电黄直饮杯，首发价 9.9 元](https://m.ithome.com/html/962380.htm)
 
++ [苹果 iPhone 18 标准版有望升级 12GB 内存，但代价是退回 M12+ 屏幕面板](https://m.ithome.com/html/962691.htm)
+
++ [鸿蒙 7 发布已板上钉（d&#236;ng）钉：华为 HDC 2026 开发者大会议题公布，将带来全新 UI design kit](https://m.ithome.com/html/962688.htm)
+
++ [DeepSeek 梁文锋当年拿高考状元照片曝光：过了清华线，但报了浙大](https://m.ithome.com/html/962735.htm)
+
++ [长度超过 5.2 米，比亚迪王朝首款 D 级旗舰轿车大汉申报](https://m.ithome.com/html/962632.htm)
+
++ [央视发布 2026 美加墨世界杯版权声明：仅咪咕、小红书及沪粤体育频道获授权，严禁 GIF 动图等二次传播](https://m.ithome.com/html/962549.htm)
+
++ [8GB 内存限制， 苹果 iPhone 17 无法使用高端 Siri 语音与听写功能](https://m.ithome.com/html/962711.htm)
+
++ [小米汽车家用充电机械臂公布：自动插枪拔枪，全程不用手](https://m.ithome.com/html/962777.htm)
+
++ [“百亿补贴”并非真百亿，北京市场监管通报淘宝（天猫）、京东、拼多多、抖音、小红书内卷式竞争问题](https://m.ithome.com/html/962800.htm)
+
++ [小米汽车科技有限公司增加增程式电动乘用车产品品种](https://m.ithome.com/html/962635.htm)
+
++ [苹果 iOS 27 升级 LiveCommunicationKit：锁屏时支持全屏来电显示等](https://m.ithome.com/html/962550.htm)
+
++ [豆包专业版开放灰度测试，最高档年费超五千元](https://m.ithome.com/html/962619.htm)
+
++ [小米 miclaw 率先上岛，消息称澎湃 OS 4 还会有新交互](https://m.ithome.com/html/962510.htm)
+

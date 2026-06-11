@@ -175,3 +175,11 @@
 
 + [伊朗武装部队回应美军停止新一轮打击](https://news.cctv.com/2026/06/11/ARTIGVp4e2w3W8ZtY81tCPaV260611.shtml)
 
++ [希腊48小时救起近550名海上偷渡者](https://news.cctv.com/2026/06/11/ARTI57HDsx8B9cn7MUAwRnPw260611.shtml)
+
++ [国际社会高度评价习近平总书记朝鲜之行](https://news.cctv.com/2026/06/11/ARTIY1ocCnbBv7wmTLzHeG5G260611.shtml)
+
++ [外交部回应当前伊朗局势：军事手段解决不了根本问题](https://news.cctv.com/2026/06/11/ARTIo7oCXiXNRJUWeCBAvAQc260611.shtml)
+
++ [科威特宣布空中交通恢复正常](https://news.cctv.com/2026/06/11/ARTImyDaSmNWhuw2JJNXU56w260611.shtml)
+

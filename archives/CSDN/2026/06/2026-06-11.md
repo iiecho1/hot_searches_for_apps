@@ -121,3 +121,25 @@
 
 + [nginx：详解与速查表 / Nginx = 反向代理 + 负载均衡 + 静态服务器 + HTTP 缓存 / 请求分发、静态加速、上线不中断](https://blog.csdn.net/snowball_li/article/details/128397553)
 
++ [读完《一本书讲透 Agentic AI》，我更确定不能只盯着 Agent 工具](https://blog.csdn.net/Mrxiao_bo/article/details/161837486)
+
++ [数据库越来越慢，我却一直找不到原因——直到装上Postgres Exporter找到了原因](https://blog.csdn.net/liu_chen_yang/article/details/161891053)
+
++ [国产大模型×魔珐星云：让AI从“能思考“到“能表达“的具身智能实践](https://blog.csdn.net/a1657054242/article/details/161871612)
+
++ [Docker Compose 与多服务编排：从单容器到本地开发环境](https://blog.csdn.net/qwe0iop0/article/details/161885880)
+
++ [Go 微服务分布式锁：从 Redis 到 etcd 的一致性保障实践](https://blog.csdn.net/baronbool/article/details/161885602)
+
++ [Linux系统篇（四）：一文吃透 Linux 虚拟地址空间：从页表映射到内核结构体全链路拆解](https://blog.csdn.net/2502_94387000/article/details/161628846)
+
++ [RabbitMQ 从零到实战：概念、配置与 Spring Boot 集成指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161867762)
+
++ [分布式限流算法对比：令牌桶、滑动窗口与漏桶的生产级实现](https://blog.csdn.net/alex_goden/article/details/161885842)
+
++ [【MATLAB】多旋翼无人机姿态稳态误差抑制研究](https://blog.csdn.net/unbelievevc/article/details/161880173)
+
++ [我终于不用手写nginx.conf了，Nginx Proxy Manager把反向代理变成了填表题](https://blog.csdn.net/u010726809/article/details/161889382)
+
++ [React/Next.js 前端开发：治愈系 UI 设计与微交感动效实现](https://blog.csdn.net/specter__/article/details/161871876)
+
