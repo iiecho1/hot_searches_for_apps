@@ -183,3 +183,5 @@
 
 + [科威特宣布空中交通恢复正常](https://news.cctv.com/2026/06/11/ARTImyDaSmNWhuw2JJNXU56w260611.shtml)
 
++ [苏丹中部发生多起无人机袭击事件 致23名平民死亡](https://news.cctv.com/2026/06/11/ARTIGX9oLDJ30VP0DPiN94AU260611.shtml)
+

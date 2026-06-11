@@ -35,3 +35,23 @@
 
 + [apple/container](https://github.com/apple/container)
 
++ [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+
++ [restic/restic](https://github.com/restic/restic)
+
++ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
++ [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+
++ [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
+
++ [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [hexo-ai/sia](https://github.com/hexo-ai/sia)
+
++ [mattermost/mattermost](https://github.com/mattermost/mattermost)
+
++ [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+

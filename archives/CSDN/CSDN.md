@@ -143,3 +143,23 @@
 
 + [React/Next.js 前端开发：治愈系 UI 设计与微交感动效实现](https://blog.csdn.net/specter__/article/details/161871876)
 
++ [AI数字营销实测体验，营销组件体验](https://blog.csdn.net/qq_28419035/article/details/161887846)
+
++ [【花雕动手做】行空板 K10 系列实验之无线广播一对二遥控板载 LED 灯](https://blog.csdn.net/weixin_41659040/article/details/161848749)
+
++ [【MATLAB】无人机三轴姿态耦合解耦控制实现](https://blog.csdn.net/unbelievevc/article/details/161880422)
+
++ [从推理到纠错：ReAct、CoT 与自反思 Agent 的工程落地](https://blog.csdn.net/lishengzhen123/article/details/161854008)
+
++ [Claude Fable 5/Mythos 5 深度技术评测：屠榜级Mythos模型的架构解析与基准测试全解读 - 微元算力(weytoken)](https://blog.csdn.net/lulu1216544078/article/details/161853119)
+
++ [Ollama 推理底座架构剖析：从模型加载到连续批处理的生产级调优实践](https://blog.csdn.net/2301_81410839/article/details/161885021)
+
++ [Linux 负载均衡全实战：Nginx+HAProxy+LVS 从原理到落地](https://blog.csdn.net/2401_83463699/article/details/161869201)
+
++ [【Linux】进程控制（二）——进程等待 全方位详解](https://blog.csdn.net/cyzzzuzm/article/details/161694937)
+
++ [Python之rlms-pk包语法、参数和实际应用案例](https://blog.csdn.net/shanghaiwren/article/details/161573897)
+
++ [钉钉副总裁发表长文《置身钉外》，宣布离职](https://blog.csdn.net/weixin_44231059/article/details/161818692)
+
