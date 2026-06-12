@@ -21,3 +21,13 @@
 
 + [今日实时金价 885](https://www.v2ex.com/t/1219498)
 
++ [分享下我一个专科生是如何努力三年进入 500 强美企的](https://www.v2ex.com/t/1219640)
+
++ [25 岁专科女生，求网友指路](https://www.v2ex.com/t/1219634)
+
++ [ChatGPT 菲律宾价格最低](https://www.v2ex.com/t/1219553)
+
++ [感觉 vibe coding 翻译成“氛围编程”没内味儿](https://www.v2ex.com/t/1219601)
+
++ [在币安通过 c2c 尝试买了点币，反诈中心又来联系了](https://www.v2ex.com/t/1219790)
+

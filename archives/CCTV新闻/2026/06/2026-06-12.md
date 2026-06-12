@@ -167,3 +167,5 @@
 
 + [特朗普称美伊协议进入最后定稿阶段 有望本周末签署](https://news.cctv.com/2026/06/12/ARTIuJsed7NBlmE0CVI0CZDs260612.shtml)
 
++ [菲律宾南部地震已造成55人死亡](https://news.cctv.com/2026/06/12/ARTI3MkIYSfsqO7fMF2da1Fk260612.shtml)
+

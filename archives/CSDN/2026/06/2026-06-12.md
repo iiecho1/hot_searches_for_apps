@@ -107,3 +107,19 @@
 
 + [Pygame 小游戏——节奏点击](https://blog.csdn.net/2511_93048387/article/details/161839988)
 
++ [蓝牙CAS通用音频服务：解锁多设备音频协同的底层标准](https://blog.csdn.net/weixin_37800531/article/details/161754172)
+
++ [Claude Code 接入蓝耘 GLM-5.1：把终端 AI 编程助手接到国内 MaaS 的配置笔记](https://blog.csdn.net/COLLINSXU/article/details/161879562)
+
++ [调查研究-167 Docker Compose 详解：从单容器到多服务编排的工程化入口](https://blog.csdn.net/w776341482/article/details/161863876)
+
++ [Linux 负载均衡全实战：Nginx+HAProxy+LVS 从原理到落地](https://blog.csdn.net/2401_83463699/article/details/161869201)
+
++ [some/ip 介绍（一）之协议认识](https://blog.csdn.net/zzia12345678/article/details/161868908)
+
++ [2026年6月UU远程全功能体验：8个功能领先远程办公领域](https://blog.csdn.net/Rqaqedamancy/article/details/161863875)
+
++ [数字人切入，我用魔珐星云搭建政务大厅咨询数字人，低成本落地便民接待](https://blog.csdn.net/2302_79376097/article/details/161896710)
+
++ [钉钉副总裁发表长文《置身钉外》，宣布离职](https://blog.csdn.net/weixin_44231059/article/details/161818692)
+
