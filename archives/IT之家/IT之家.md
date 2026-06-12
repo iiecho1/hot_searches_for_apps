@@ -25,3 +25,27 @@
 
 + [小米 miclaw 率先上岛，消息称澎湃 OS 4 还会有新交互](https://m.ithome.com/html/962510.htm)
 
++ [安克创新 CEO 阳萌：充电宝大概率“过几年就死了”](https://m.ithome.com/html/963199.htm)
+
++ [黄漫网站浏览量超 1 亿次，央视曝光色情漫画陷阱](https://m.ithome.com/html/963162.htm)
+
++ [小米“寻天”SUV 轮毂实拍图曝光，采用经典“米”字造型设计](https://m.ithome.com/html/963172.htm)
+
++ [苹果 iPhone 18 Pro Max 机模曝光：深樱桃色、浅蓝、深灰颜色亮相](https://m.ithome.com/html/963411.htm)
+
++ [鸿蒙 7 发布前来一更：华为 MatePad Mini 平板获 HarmonyOS 6.1.0.125 SP15 升级，新增紧凑布局](https://m.ithome.com/html/963227.htm)
+
++ [小米汽车：在 20 万以上轿车市场（不分能源类型），SU7 获 5 月销量第一](https://m.ithome.com/html/963106.htm)
+
++ [“滴滴出行”正式更名为“滴滴”](https://m.ithome.com/html/963311.htm)
+
++ [苹果 iPhone 17 首发后，消息称国产 TOP5 厂商全员跟进方形前摄](https://m.ithome.com/html/963292.htm)
+
++ [华为开发者大会 HDC 2026 官宣：鸿蒙 HarmonyOS 7 全新体验](https://m.ithome.com/html/963319.htm)
+
++ [华为 HiCar 7.0 手车互联解决方案官宣，定档 6 月 13 日发布](https://m.ithome.com/html/963222.htm)
+
++ [华为释出鸿蒙智行智界 RX 官图：四激光雷达矩阵、巨鲸电池，新车今秋发布](https://m.ithome.com/html/963011.htm)
+
++ [开源鸿蒙 OpenHarmony 7.0 Beta1 发布：应用控制更精细、相机专业能力增强，方舟 Web 内核升级至 Chromium 144](https://m.ithome.com/html/963214.htm)
+

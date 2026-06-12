@@ -181,3 +181,9 @@
 
 + [我驻墨西哥使领馆再次提醒在墨中国公民注意人身和财产安全](https://news.cctv.com/2026/06/12/ARTIgt3tMJ0fQh7SlxhNWHtv260612.shtml)
 
++ [埃及内阁：埃中关系已成为互利合作的典范](https://news.cctv.com/2026/06/12/ARTIys1pLQlJ1Y7DIQJxRuA3260612.shtml)
+
++ [伊朗方面公布伊美谅解备忘录新细节](https://news.cctv.com/2026/06/12/ARTItZ7dylAmcK93oOU14WF4260612.shtml)
+
++ [塞尔维亚总统武契奇表示计划辞职](https://news.cctv.com/2026/06/12/ARTIX29SjRc28KUVh6EIezww260612.shtml)
+
