@@ -133,3 +133,5 @@
 
 + [yolov26改进 | 损失函数改进篇 | 更加聚焦的边界框损失Focaler-IoU、InnerFocalerIoU（解决样本不平衡问题，二次创新）](https://blog.csdn.net/java1314777/article/details/161935370)
 
++ [视觉Transformer实战 | Twins空间注意力机制详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/161870903)
+

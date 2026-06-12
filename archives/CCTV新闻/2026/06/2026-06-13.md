@@ -161,3 +161,11 @@
 
 + [伊朗民航组织：全国航空活动恢复正常](https://news.cctv.com/2026/06/09/ARTIG0JvHt0TNesa4sUxWJmJ260609.shtml)
 
++ [古巴国家主席谴责美国收紧对古石油封锁](https://news.cctv.com/2026/06/13/ARTIXuagvTAt1m22jzMnDVrk260613.shtml)
+
++ [美国得克萨斯州发生大规模枪击事件致2死10伤](https://news.cctv.com/2026/06/13/ARTIs7sZJbbfF9EYSaXF3h73260613.shtml)
+
++ [埃及苏伊士省一汽车与火车相撞 致8人死亡](https://news.cctv.com/2026/06/13/ARTIERHEHVt7lZTh4npl2k1N260613.shtml)
+
++ [伊美就协议文本达成一致 谅解备忘录有望数日内签署](https://news.cctv.com/2026/06/13/ARTI4oi0yc95BtKAjbbFqVak260613.shtml)
+
