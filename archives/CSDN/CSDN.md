@@ -131,3 +131,5 @@
 
 + [肖有米开发团队：上门维修系统小程序平台开发与模式商业解析](https://blog.csdn.net/XTKF8646_youmi/article/details/161867126)
 
++ [yolov26改进 | 损失函数改进篇 | 更加聚焦的边界框损失Focaler-IoU、InnerFocalerIoU（解决样本不平衡问题，二次创新）](https://blog.csdn.net/java1314777/article/details/161935370)
+
