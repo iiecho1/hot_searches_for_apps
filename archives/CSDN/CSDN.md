@@ -101,3 +101,33 @@
 
 + [三维工业测温数据可视化组件设计与实现](https://blog.csdn.net/2403_83365209/article/details/161860683)
 
++ [从数据到洞察：时序大模型 TimechoAI 的工业级时序分析实战指南](https://blog.csdn.net/beautifulmemory/article/details/161923384)
+
++ [Spring Boot 微服务中“调用第三方接口 → 数据加工 → 分接口返回“的完整架构实践](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161899915)
+
++ [【别传：Web前端开发（三）】重塑动态视界：JS底层逻辑、数据类型流转与WebAPI交互全景草稿](https://blog.csdn.net/Z2314246476/article/details/161460029)
+
++ [为什么高速网络更怕抖动](https://blog.csdn.net/dog250/article/details/161865868)
+
++ [2026年6月最新横评：UU远程 / ToDesk / 向日葵，免费版功能、画质、延迟全维度对比](https://blog.csdn.net/2401_86326742/article/details/161874560)
+
++ [视觉伪装（下）：WebGL 渲染器与厂商特征的底层伪造与屏蔽](https://blog.csdn.net/cui_yonghua/article/details/161869387)
+
++ [redis和数据库实现分布式锁](https://blog.csdn.net/qq_33697094/article/details/161904117)
+
++ [OpenClaw 接入飞书 / 钉钉 / 企业微信：从 HTTP Webhook 到 WebSocket 长连接](https://blog.csdn.net/qq_32799165/article/details/161901807)
+
++ [LB HA(high avaliablity)和nginx](https://blog.csdn.net/NCU_wander/article/details/161903857)
+
++ [MongoDB（文档型 NoSQL）](https://blog.csdn.net/wbkang/article/details/161855852)
+
++ [202606前瞻前端发展趋势](https://blog.csdn.net/weixin_46228563/article/details/161881599)
+
++ [C# .NET 周刊｜2026年4月2期](https://blog.csdn.net/qq_27441069/article/details/161870720)
+
++ [Nginx日志监控告警实战：access_log解析+5xx突增+慢请求+异常IP自动告警完整方案（Filebeat+Zabbix）](https://blog.csdn.net/weixin_70758133/article/details/161886544)
+
++ [Phantom Bridge：一个基于WebRTC的ROS2远程可视化与遥操作工具](https://blog.csdn.net/TA_tan/article/details/161902750)
+
++ [肖有米开发团队：上门维修系统小程序平台开发与模式商业解析](https://blog.csdn.net/XTKF8646_youmi/article/details/161867126)
+
