@@ -181,3 +181,25 @@
 
 + [Claude Fable 5深度解析：Anthropic旗舰模型的技术架构、自适应推理与全方位评测](https://blog.csdn.net/nmdbbzcl/article/details/161870199)
 
++ [孔雀东南飞背诵APP开发实战：基于HarmonyOS API 24的ArkUI应用从零到一](https://blog.csdn.net/feng8403000/article/details/161920448)
+
++ [SpringBoot 实现拦截器](https://blog.csdn.net/weixin_42148384/article/details/161903054)
+
++ [SpringCloud之负载均衡 Ribbon和LoadBalancer讲解](https://blog.csdn.net/u012060033/article/details/161897029)
+
++ [【Java项目技术亮点】秒杀系统分层过滤架构：10万QPS到数据库只有100QPS的终极方案](https://blog.csdn.net/2501_90715893/article/details/161915123)
+
++ [论P2P计算关键技术与应用](https://blog.csdn.net/ai_coder_ai/article/details/161849349)
+
++ [揭开 Visual Studio 缓存文件的神秘面纱：.futdcache.v2 完全解析](https://blog.csdn.net/ultramand/article/details/161856834)
+
++ [【极客玩法】WPS接入claude AI助理](https://blog.csdn.net/weixin_61678229/article/details/161822640)
+
++ [Agent Skills 是什么？跟 MCP、Workflow、Command、Prompt 有什么关系？](https://blog.csdn.net/futurn_hero/article/details/161886520)
+
++ [go-ios 和 Midscene 配合使用指南](https://blog.csdn.net/aovenus/article/details/161871228)
+
++ [CH347应用 USB转JTAG功能之：probe-rs搭配CH347下载MCU命令全指南](https://blog.csdn.net/qq_43010294/article/details/161895766)
+
++ [Codex 搭配多模型实战教程：一站式接入主流大模型（含 PyCharm 集成）](https://blog.csdn.net/2601_96260913/article/details/161856628)
+

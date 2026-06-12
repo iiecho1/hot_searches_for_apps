@@ -187,3 +187,9 @@
 
 + [塞尔维亚总统武契奇表示计划辞职](https://news.cctv.com/2026/06/12/ARTIX29SjRc28KUVh6EIezww260612.shtml)
 
++ [波兰正式接收F-35战机](https://news.cctv.com/2026/06/12/ARTIkgjlU9p8JdOTZgBhpEJy260612.shtml)
+
++ [专访丨中国“以发展促人权”实践令人赞叹——访伊拉克前总统拉希德](https://news.cctv.com/2026/06/12/ARTIDKGEjxUb28ggbSprn073260612.shtml)
+
++ [拾光纪·从细节感悟总书记朝鲜行的“重要里程碑意义”](https://news.cctv.com/2026/06/12/ARTIhNcuKmMvH6InWDZxWA3p260612.shtml)
+

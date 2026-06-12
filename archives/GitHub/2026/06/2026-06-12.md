@@ -39,3 +39,11 @@
 
 + [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
 
++ [music-assistant/server](https://github.com/music-assistant/server)
+
++ [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
++ [LMCache/LMCache](https://github.com/LMCache/LMCache)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
