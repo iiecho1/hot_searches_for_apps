@@ -169,3 +169,15 @@
 
 + [菲律宾南部地震已造成55人死亡](https://news.cctv.com/2026/06/12/ARTI3MkIYSfsqO7fMF2da1Fk260612.shtml)
 
++ [综述丨中东战事冲击下 欧洲央行近三年来首次加息](https://news.cctv.com/2026/06/12/ARTI7aH9COabPMQ0d7oc6SOl260612.shtml)
+
++ [韩国选举机构因选票短缺事件遭搜查](https://news.cctv.com/2026/06/12/ARTIjDwfPga80GlL5tgeqWG0260612.shtml)
+
++ [阿根廷内阁首席部长承认隐瞒收入](https://news.cctv.com/2026/06/12/ARTI0FW9YBG10bxrvPPUUc7Y260612.shtml)
+
++ [黎巴嫩总统：以色列撤军等条件满足才会结束敌对状态](https://news.cctv.com/2026/06/12/ARTIoDPhvtpKpkDvKAMrJgLm260612.shtml)
+
++ [英国负责武装部队事务的国务大臣卡恩斯辞职](https://news.cctv.com/2026/06/12/ARTIhUgSbTeNVVJyHHzITnCW260612.shtml)
+
++ [我驻墨西哥使领馆再次提醒在墨中国公民注意人身和财产安全](https://news.cctv.com/2026/06/12/ARTIgt3tMJ0fQh7SlxhNWHtv260612.shtml)
+

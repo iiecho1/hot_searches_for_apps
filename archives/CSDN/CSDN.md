@@ -123,3 +123,23 @@
 
 + [钉钉副总裁发表长文《置身钉外》，宣布离职](https://blog.csdn.net/weixin_44231059/article/details/161818692)
 
++ [【HarmonyOS 6.0】MDM Kit 新增支持通过设备管理设置桌面壁纸能力详解](https://blog.csdn.net/weixin_74809706/article/details/161729042)
+
++ [DolphinDB机器学习函数：内置ML能力](https://blog.csdn.net/sinat_41617212/article/details/161871403)
+
++ [模仿学习：Behavior Cloning与DAgger详解](https://blog.csdn.net/u014727709/article/details/161915996)
+
++ [5 款开源低代码平台横评 2026：表单引擎 + 流程引擎能力对比](https://blog.csdn.net/zhouzhongyan/article/details/161914331)
+
++ [【C++大型项目之高性能服务器框架 (一) 】一切物语的开始：日志系统&配置系统篇](https://blog.csdn.net/2501_93095927/article/details/161807998)
+
++ [开发者必备远程工具：SSH_Docker_ 开发机跨网访问一站式解决方案](https://blog.csdn.net/m0_63947499/article/details/161857446)
+
++ [企业级无人机实时数据流本地传输方案（长距离+高稳定+第三方平台对接，可落地）](https://blog.csdn.net/m0_73978383/article/details/161914992)
+
++ [Flutter 相册 APP 视频模态稳定化实战：从远端重构冲突到真机 Smoke Test](https://blog.csdn.net/2301_81754744/article/details/161871229)
+
++ [Gitee Team：关键领域软件工厂精细化管理的核心引擎](https://blog.csdn.net/qq_31776813/article/details/161854269)
+
++ [为了决定晚饭吃什么，我们全家能讨论半小时，后来被这个工具治好了](https://blog.csdn.net/Tiam_cr/article/details/161888271)
+
