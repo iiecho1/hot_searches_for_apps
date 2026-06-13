@@ -23,3 +23,7 @@
 
 + [怎么看最近很火的西方伪史论和洪清说？](https://www.v2ex.com/t/1219940)
 
++ [被掉包了](https://www.v2ex.com/t/1219856)
+
++ [[避雷贴]www.xiaosen.shop 购买 GPT Pro 仅使用 2 天失效](https://www.v2ex.com/t/1219827)
+

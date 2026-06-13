@@ -135,3 +135,21 @@
 
 + [视觉Transformer实战 | Twins空间注意力机制详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/161870903)
 
++ [从System.Threading.Timer到Quartz.NET：C#定时任务的进化史，你还在用老古董？](https://blog.csdn.net/z_344791576/article/details/151896267)
+
++ [Claude Fable 5深度解析：Anthropic旗舰模型的技术架构、自适应推理与全方位评测](https://blog.csdn.net/nmdbbzcl/article/details/161870199)
+
++ [又一个神级 Codex Skill 诞生了](https://blog.csdn.net/qing_gee/article/details/161849767)
+
++ [MySQL数据库 (六) MySQL表的约束(下)，自增长约束，唯一键约束，外键约束，索引](https://blog.csdn.net/2401_88465894/article/details/161685579)
+
++ [redis的持久化操作和主从复制与集群的关系及其应用](https://blog.csdn.net/2503_93247646/article/details/161901470)
+
++ [Gitee Team：关键领域软件工厂精细化管理的核心引擎](https://blog.csdn.net/qq_31776813/article/details/161854269)
+
++ [Linux系统篇（五）：Linux 进程控制全解：fork、exec、wait 核心原理与实战](https://blog.csdn.net/2502_94387000/article/details/161898394)
+
++ [安卓端 Wii模拟器 Dolphin海豚模拟器 中文版 超详细使用指南](https://blog.csdn.net/u014598753/article/details/161867613)
+
++ [【Claude、GPT、Gemini 三大模型怎么选?2026 年主流大模型侧重点深度解析】](https://blog.csdn.net/2601_96321166/article/details/161930109)
+

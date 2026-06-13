@@ -169,3 +169,5 @@
 
 + [伊美就协议文本达成一致 谅解备忘录有望数日内签署](https://news.cctv.com/2026/06/13/ARTI4oi0yc95BtKAjbbFqVak260613.shtml)
 
++ [俄罗斯圣彼得堡举行“红帆节”彩排](https://photo.cctv.com/2026/06/13/PHOAouQtFVYvDBiMyC1KSQFD260613.shtml)
+
