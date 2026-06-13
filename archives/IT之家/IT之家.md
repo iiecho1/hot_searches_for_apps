@@ -41,3 +41,21 @@
 
 + [开源鸿蒙 OpenHarmony 7.0 Beta1 发布：应用控制更精细、相机专业能力增强，方舟 Web 内核升级至 Chromium 144](https://m.ithome.com/html/963214.htm)
 
++ [雷军回应用小米 YU7 GT 装 600 斤车厘子被指违规：在封闭实验场进行](https://m.ithome.com/html/963788.htm)
+
++ [华为余承东：鸿蒙 HarmonyOS 成为中国第二大智能手机操作系统](https://m.ithome.com/html/963721.htm)
+
++ [开盘市值突破两万亿美元位列美股第七：SpaceX 正式开启公开交易，马斯克成为全球首位万亿美元富豪](https://m.ithome.com/html/963728.htm)
+
++ [全球最大 IPO：马斯克 SpaceX 在纳斯达克敲钟上市，成为人类史上首位万亿美元富豪](https://m.ithome.com/html/963706.htm)
+
++ [国产动画剧《凡人修仙传》新年番“慕兰之战”B站开播，超 78 万人在线观看](https://m.ithome.com/html/963791.htm)
+
++ [中国软件：在政府采购活动中构成恶意串通，被财政部罚款 4.05 万元并被禁止参加政府采购活动一年](https://m.ithome.com/html/963677.htm)
+
++ [苹果 Siri AI 仅限较新设备：iPhone 15 Pro 起步、Mac 需 Apple Silicon 芯片，端侧 AI 模型门槛更高](https://m.ithome.com/html/963722.htm)
+
++ [华为鸿蒙 HarmonyOS 开发套件版本号格式调整：统一 API 与 OpenHarmony 体系，分 X.Y.Z 字段](https://m.ithome.com/html/963717.htm)
+
++ [有史以来最大更新：苹果发布 Core Image RAW 9 处理管线，提升 RAW 图像质量](https://m.ithome.com/html/963729.htm)
+

@@ -41,3 +41,11 @@
 
 + [世界第一！在全世界都不知道大模型是何物的时候华为就推出了盘古大模型！](https://www.v2ex.com/t/1220015)
 
++ [c 真能比 Python 快这么多？](https://www.v2ex.com/t/1220070)
+
++ [央视开始报道中转站了](https://www.v2ex.com/t/1220119)
+
++ [Kimi K2.7 Code 发布了，有人已经替换 Claude Code / Codex 了吗?](https://www.v2ex.com/t/1220063)
+
++ [有人需要换汇吗？](https://www.v2ex.com/t/1220095)
+

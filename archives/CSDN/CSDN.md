@@ -183,3 +183,25 @@
 
 + [前端安全 XSS 与 CSRF](https://blog.csdn.net/xiaofeichaichai/article/details/161947034)
 
++ [摒弃摆烂心态，让四年青春锋芒尽显](https://blog.csdn.net/CC1991_/article/details/161872331)
+
++ [Oracle 表的约束详解：主键 / 外键 / 唯一 / 非空约束的创建与实战](https://blog.csdn.net/qq_41187124/article/details/157583957)
+
++ [用于无人机目标检测的三模态融合 Transformer](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/161945085)
+
++ [Spring Boot Multipart 表单中文乱码问题全解析](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/161918198)
+
++ [【MATLAB/Simulink】STM32电机控制C代码生成与移植](https://blog.csdn.net/unbelievevc/article/details/161946571)
+
++ [网络可用性，扩展性，性能的统计本质](https://blog.csdn.net/dog250/article/details/161896881)
+
++ [大模型 API 智能路由怎么做：模型、供应商、成本与稳定性的工程实践](https://blog.csdn.net/lishengzhen123/article/details/161901224)
+
++ [鸿蒙游戏世界模型：实现原理 + Demo实现](https://blog.csdn.net/qq_36863796/article/details/161890868)
+
++ [MarkItDown 再次登顶GitHub榜](https://blog.csdn.net/A1234543211232/article/details/161936002)
+
++ [Git+Jenkins实战（一）：从零搭建自动化发布与回滚系统（附完整代码）](https://blog.csdn.net/2501_92765253/article/details/161916782)
+
++ [别再只会 “chmod 777“：一篇真正讲透 Linux 权限的实战笔记](https://blog.csdn.net/2503_92532131/article/details/161904157)
+
