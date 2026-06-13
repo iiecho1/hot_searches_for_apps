@@ -137,3 +137,5 @@
 
 + [SpringCloud 核心组件解析：服务熔断和降级](https://blog.csdn.net/Zzz2608440484/article/details/161824158)
 
++ [OpenAI 如何用开源前端生态为 GPT-5.6 铺路？ - 微元算力(weytoken)](https://blog.csdn.net/lulu1216544078/article/details/161914504)
+
