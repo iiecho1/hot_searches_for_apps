@@ -27,3 +27,17 @@
 
 + [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
++ [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+
++ [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
+
++ [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+
++ [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+
++ [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+
++ [swc-project/swc](https://github.com/swc-project/swc)
+
++ [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+

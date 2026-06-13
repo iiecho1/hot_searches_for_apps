@@ -181,3 +181,5 @@
 
 + [欧盟将启动乌克兰和摩尔多瓦首阶段入盟谈判](https://news.cctv.com/2026/06/13/ARTIibypx0F95ytsPxxNObVP260613.shtml)
 
++ [联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺](https://news.cctv.com/2026/06/13/ARTIWJ9sEFFMmdTZtgiiKC63260613.shtml)
+

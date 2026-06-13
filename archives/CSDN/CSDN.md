@@ -205,3 +205,17 @@
 
 + [别再只会 “chmod 777“：一篇真正讲透 Linux 权限的实战笔记](https://blog.csdn.net/2503_92532131/article/details/161904157)
 
++ [OpenCV-Python实战（28）——OpenCV计算摄影从HDR图像融合到全景拼接](https://blog.csdn.net/LOVEmy134611/article/details/161490560)
+
++ [CI/CD前世今生（持续集成、持续交付、持续部署、Jenkins、Github Actions）](https://blog.csdn.net/Dontla/article/details/161955961)
+
++ [Pixi：用 Rust 重写 Conda 体验的包管理工具](https://blog.csdn.net/javajenius/article/details/161930628)
+
++ [Axmol 3.x 输入系统重构：从 Touch/Mouse 到统一 Pointer，再到现代 InputField](https://blog.csdn.net/xyzzf/article/details/161956295)
+
++ [纪录无人机PID参数配置](https://blog.csdn.net/daad777/article/details/161936494)
+
++ [Codex CLI vs Claude Code 全方位对比：设计哲学与用户体验深度解析](https://blog.csdn.net/2401_87961121/article/details/161933690)
+
++ [基于BellHop模型的海底网络节点部署matlab模拟与仿真](https://blog.csdn.net/hlayumi1234567/article/details/161937449)
+

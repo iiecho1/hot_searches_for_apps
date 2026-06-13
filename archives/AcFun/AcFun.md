@@ -111,3 +111,13 @@
 
 + [【多尔干语翻唱】Phenomenon（显现）](https://m.acfun.cn/v/?ac=48606057)
 
++ [你是说炼气期的小子再见面已经成老魔了？《不凡》](https://m.acfun.cn/v/?ac=48608662)
+
++ [【现切桃片】非常亚撒西的唱了アルジャーノン](https://m.acfun.cn/v/?ac=48608332)
+
++ [【酒店建筑师】致富经之撸小贷建杂牌防空塔酒店](https://m.acfun.cn/v/?ac=48606841)
+
++ [【官方双语】苹果在AI上迟到了  但等待是值得的 - WWDC 2026#linus谈科技](https://m.acfun.cn/v/?ac=48606916)
+
++ [提线木偶](https://m.acfun.cn/v/?ac=48607648)
+
