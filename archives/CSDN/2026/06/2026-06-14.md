@@ -101,3 +101,33 @@
 
 + [机器人日志系统](https://blog.csdn.net/2301_80079642/article/details/161750294)
 
++ [DolphinDB Modbus协议接入：PLC数据采集](https://blog.csdn.net/sinat_41617212/article/details/161958601)
+
++ [一文读懂语音是如何产生的：基频、共振峰与声道模型](https://blog.csdn.net/qq_42956179/article/details/161862262)
+
++ [K8s Secrets管理方案介绍（K8s密钥管理方案）etcd、Sealed Secrets（kubeseal、ArgoCD）、ESO、HashiCorp Vault、CSI](https://blog.csdn.net/Dontla/article/details/161958550)
+
++ [▲基于FPGA的16QAM调制解调系统verilog实现](https://blog.csdn.net/ccsss22/article/details/161960472)
+
++ [【Qt】界面优化：绘图API](https://blog.csdn.net/2401_89899187/article/details/161802198)
+
++ [【MySQL | 第九篇】MySQL 存储过程](https://blog.csdn.net/2502_94242477/article/details/161774673)
+
++ [基于docker搭建sub2api图文教程](https://blog.csdn.net/DK_Allen/article/details/161900520)
+
++ [别再只会 “chmod 777“：一篇真正讲透 Linux 权限的实战笔记](https://blog.csdn.net/2503_92532131/article/details/161904157)
+
++ [重塑安全防线：PDR2A模型构建数字时代的动态防御体系](https://blog.csdn.net/2402_88096536/article/details/161960733)
+
++ [SpringCloud 核心组件解析：服务网关](https://blog.csdn.net/Zzz2608440484/article/details/161824716)
+
++ [Flutter 又为 AI 时代添砖加瓦：全新 ComponentLibrary 提议](https://blog.csdn.net/ZuoYueLiang/article/details/161880066)
+
++ [云原生 AI 平台搭建：从集群规划到 GPU 调度的全链路设计实践](https://blog.csdn.net/m0_50889382/article/details/161917167)
+
++ [openFuyao InferNex：云原生分布式 LLM 推理加速套件——从生产痛点到算力的极致释放](https://blog.csdn.net/openFuyao/article/details/161933159)
+
++ [开源 VLA 模型 MemoryVLA 论文解读：感知-认知记忆让机器人记住失败——ICLR 2026，从原理到本地部署](https://blog.csdn.net/weixin_69779134/article/details/161956423)
+
++ [groupauto · 个人微信群消息自动跟回机器人](https://blog.csdn.net/youeyeb/article/details/161957926)
+
