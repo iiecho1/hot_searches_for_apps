@@ -183,3 +183,5 @@
 
 + [联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺](https://news.cctv.com/2026/06/13/ARTIWJ9sEFFMmdTZtgiiKC63260613.shtml)
 
++ [让发展惠及人民，把人权愿景落到实处](https://news.cctv.com/2026/06/13/ARTISUg8YT38HruYzDDpXFMM260613.shtml)
+
