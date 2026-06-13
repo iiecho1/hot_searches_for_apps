@@ -27,3 +27,17 @@
 
 + [[避雷贴]www.xiaosen.shop 购买 GPT Pro 仅使用 2 天失效](https://www.v2ex.com/t/1219827)
 
++ [Anthropic 因美国政府要求，关闭了所有外国公民的 Fable 5/ Mythos 5 的访问权限](https://www.v2ex.com/t/1220089)
+
++ [关于大学舍友，我想带他走出泥潭](https://www.v2ex.com/t/1219942)
+
++ [iPhone 17 / iPhone Air 怎么选？](https://www.v2ex.com/t/1220083)
+
++ [订阅制还能持续多久呢？ oai 和 anthropic 的订阅制都是赔本赚吆喝吧？](https://www.v2ex.com/t/1220007)
+
++ [分享近两个月的遭遇，顺便也给 V 友们一点小建议](https://www.v2ex.com/t/1220042)
+
++ [大家用 codex 的时候没有觉得界面很卡吗](https://www.v2ex.com/t/1220086)
+
++ [世界第一！在全世界都不知道大模型是何物的时候华为就推出了盘古大模型！](https://www.v2ex.com/t/1220015)
+

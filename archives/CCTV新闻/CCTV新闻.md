@@ -171,3 +171,13 @@
 
 + [俄罗斯圣彼得堡举行“红帆节”彩排](https://photo.cctv.com/2026/06/13/PHOAouQtFVYvDBiMyC1KSQFD260613.shtml)
 
++ [阿根廷说未在门多萨省发现携带汉坦病毒啮齿类动物](https://news.cctv.com/2026/06/13/ARTImjZNFlKpaWWw8YKQfEg4260613.shtml)
+
++ [南极半岛出现超过正常水平20多摄氏度异常高温](https://news.cctv.com/2026/06/13/ARTIfEfm2Zl3UOvppc4h1g1Q260613.shtml)
+
++ [古巴确定系列举措应对美国极限施压](https://news.cctv.com/2026/06/13/ARTIqJ8PsieJg9TDDd3iWRKU260613.shtml)
+
++ [法国调查显示公众对人工智能态度分化明显](https://news.cctv.com/2026/06/13/ARTILqdBk6Wk9MNPKCZWoC7D260613.shtml)
+
++ [欧盟将启动乌克兰和摩尔多瓦首阶段入盟谈判](https://news.cctv.com/2026/06/13/ARTIibypx0F95ytsPxxNObVP260613.shtml)
+
