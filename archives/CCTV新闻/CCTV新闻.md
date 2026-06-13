@@ -185,3 +185,13 @@
 
 + [让发展惠及人民，把人权愿景落到实处](https://news.cctv.com/2026/06/13/ARTISUg8YT38HruYzDDpXFMM260613.shtml)
 
++ [两名驻冲绳美军士兵涉嫌酒驾被捕](https://news.cctv.com/2026/06/13/ARTIqBpJHQRBI0NRO0FRLPxQ260613.shtml)
+
++ [印度空军一运输机坠毁致5人死亡](https://news.cctv.com/2026/06/13/ARTIaw6bSBOaLxooAXoWtilV260613.shtml)
+
++ [伊朗外交部：伊美谅解备忘录暂不涉及核问题](https://news.cctv.com/2026/06/13/ARTIHhcSEubDhNU5DaD4Oi3p260613.shtml)
+
++ [日本核污染水排海再次因异常警报停止](https://news.cctv.com/2026/06/13/ARTITrQokhrnhYdD49p0BR4a260613.shtml)
+
++ [伊朗已故最高领袖哈梅内伊将于7月9日下葬](https://news.cctv.com/2026/06/13/ARTIDGdRsHOsu4Be16IuraWQ260613.shtml)
+
