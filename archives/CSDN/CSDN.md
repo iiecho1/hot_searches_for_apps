@@ -139,3 +139,23 @@
 
 + [OpenAI 如何用开源前端生态为 GPT-5.6 铺路？ - 微元算力(weytoken)](https://blog.csdn.net/lulu1216544078/article/details/161914504)
 
++ [OpenClaw 节点命令执行：远程Shell与系统操作实战](https://blog.csdn.net/sinat_41617212/article/details/161958115)
+
++ [AI + 鸿蒙游戏：下一代游戏架构正在形成吗？](https://blog.csdn.net/qq_36478920/article/details/161920422)
+
++ [时序智能新范式：TimechoAI 大模型赋能工业时序数据全链路分析](https://blog.csdn.net/lrq13965748542/article/details/161898575)
+
++ [当 AI 接管 Workspace：鸿蒙 PC Agent 架构设计实践](https://blog.csdn.net/qq_36863796/article/details/161959472)
+
++ [基于 C# WPF + HALCON 的工业视觉算法工具框架(开源)](https://blog.csdn.net/qq_54122623/article/details/161951321)
+
++ [我终于不用手写nginx.conf了，Nginx Proxy Manager把反向代理变成了填表题](https://blog.csdn.net/u010726809/article/details/161889382)
+
++ [FPGA 电赛信号叠加与分离项目 完整工程包](https://blog.csdn.net/nskksms/article/details/161932563)
+
++ [Claude Fable 5 详解：功能、定价以及对安全团队的重要性](https://blog.csdn.net/qq_29607687/article/details/161962606)
+
++ [【电商多平台电子面单对接实战·第四篇】基于编排器+策略模式的多平台电子面单架构设计（含性能压测）](https://blog.csdn.net/slyn_2004/article/details/161970736)
+
++ [2026年APMCM 亚太杯中文赛A题 自来水厂水质预测与评估 完整求解思路](https://blog.csdn.net/qq_33690821/article/details/161935277)
+

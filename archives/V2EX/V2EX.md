@@ -23,3 +23,15 @@
 
 + [独立开发的 macOS 应用让破解站收录了，心里五味杂陈](https://www.v2ex.com/t/1220128)
 
++ [会不会有人为了跟随 AI 的 5 小时重置节奏去尝试多阶段睡眠🤔](https://www.v2ex.com/t/1220217)
+
++ [做了一个京东自动保价的插件，留言送一年会员](https://www.v2ex.com/t/1220134)
+
++ [赶在被封前，用 Claude Fable 做了个免费的 AI 入门课程](https://www.v2ex.com/t/1220127)
+
++ [[送永久会员] 手机壁纸工坊 APP，轻松制作有质感、极简壁纸](https://www.v2ex.com/t/1220166)
+
++ [Java 确实是内存高效的](https://www.v2ex.com/t/1220193)
+
++ [许多中转站宣称高 SLA，面向政企，可是政企真的会用吗？](https://www.v2ex.com/t/1220131)
+

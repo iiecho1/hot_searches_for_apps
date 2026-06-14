@@ -165,3 +165,13 @@
 
 + [伊朗四家银行遭有限网络攻击 未发生客户信息泄露](https://news.cctv.com/2026/06/14/ARTISZGZV8BBofhO4LWXZJHq260614.shtml)
 
++ [刚果（金）埃博拉确诊病例超过700例](https://news.cctv.com/2026/06/14/ARTI4o5HqpfIseesyAWgefuj260614.shtml)
+
++ [菲律宾南部强震已致超72万人受灾](https://news.cctv.com/2026/06/14/ARTISrQE3U8tBSV28BRqCGCZ260614.shtml)
+
++ [“美国梦”的褪色](https://news.cctv.com/2026/06/14/ARTI6cwZPUKqnjAFNNrE14R5260614.shtml)
+
++ [伊朗称必须获得在霍尔木兹海峡提供服务的费用](https://news.cctv.com/2026/06/14/ARTI92TUMZLUz0XYlFn8EweR260614.shtml)
+
++ [录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡](https://news.cctv.com/2026/06/14/ARTIkXNzacXmXLWZOVBHaPAs260614.shtml)
+
