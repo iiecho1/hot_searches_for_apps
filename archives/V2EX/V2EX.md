@@ -53,3 +53,9 @@
 
 + [实测： Kimi2.7 很拉！且 Token 消耗增高而不是所谓的减少 30%](https://www.v2ex.com/t/1220226)
 
++ [对待不熟悉的人尽量不要帮忙](https://www.v2ex.com/t/1220298)
+
++ [这 GLM 的 token plan 根本买不到啊](https://www.v2ex.com/t/1220264)
+
++ [做了差不多 3 个月的中转站，真的赚不到钱](https://www.v2ex.com/t/1220335)
+

@@ -203,3 +203,21 @@
 
 + [Claude Fable 5全球停用×GLM-5.2全量开放：出口管制下开源与闭源的分水岭](https://blog.csdn.net/xyghehehehe/article/details/161971000)
 
++ [蓝牙CAS通用音频服务：解锁多设备音频协同的底层标准](https://blog.csdn.net/weixin_37800531/article/details/161754172)
+
++ [【AI智能体】Codex AI 辅助编程高级技能实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/161601561)
+
++ [金仓数据库KES：内核级DISTINCT语句深度优化，破解数据去重性能难题](https://blog.csdn.net/lrq13965748542/article/details/161971314)
+
++ [前端Ajax核心原理与实战：从异步机制到接口请求全解析](https://blog.csdn.net/suger__salt/article/details/161934117)
+
++ [2026远程控制软件排行榜：免费推荐、企业级方案与跨平台安全选购指南​](https://blog.csdn.net/beautifulmemory/article/details/161892652)
+
++ [PyTorch3D：基于 PyTorch 的高效 3D 深度学习工具库](https://blog.csdn.net/pythonpioneer/article/details/161928603)
+
++ [GR3六轴工业协作机械臂底层技术档案揭示了35项关键系统设计，涵盖安全保护、运动控制、通讯优化等核心模块。其多重故障保护机制实现毫秒级响应，包括电流异常连锁保护、通讯中断应急处理及分级散热策略。伺服系](https://blog.csdn.net/2602_96088873/article/details/161982305)
+
++ [iOS——QQ音乐仿写项目总结](https://blog.csdn.net/2505_93363502/article/details/161981632)
+
++ [微信小程序自动化挖洞流水线实战：从缓存提取到 AK 泄露全流程](https://blog.csdn.net/2601_96282110/article/details/161979906)
+
