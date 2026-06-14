@@ -185,3 +185,13 @@
 
 + [伊朗4家银行系统遭网络攻击](https://news.cctv.com/2026/06/14/ARTIhq3vQXSuTjqIFfTR06cu260614.shtml)
 
++ [巴西东南部两架直升机相撞 至少6人死亡](https://news.cctv.com/2026/06/14/ARTIbckUiD7FlvCKSwxyFVS5260614.shtml)
+
++ [泽连斯基称对俄实施远程打击](https://news.cctv.com/2026/06/14/ARTIyPvfmqK5l2FO6wnGEMnz260614.shtml)
+
++ [伊朗议长：以色列袭击黎巴嫩使得伊美对话“变得不可能”](https://news.cctv.com/2026/06/14/ARTIV8AzKgbRBZei93wRb3bu260614.shtml)
+
++ [以军空袭黎巴嫩首都贝鲁特南郊已致1死4伤](https://news.cctv.com/2026/06/14/ARTIkhJNKIMRtPb1SWCAGDP0260614.shtml)
+
++ [伊朗谈判团队顾问披露拟议谅解备忘录细节](https://news.cctv.com/2026/06/14/ARTIERhMKbIz0r5jafrps1NL260614.shtml)
+

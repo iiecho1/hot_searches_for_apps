@@ -221,3 +221,17 @@
 
 + [微信小程序自动化挖洞流水线实战：从缓存提取到 AK 泄露全流程](https://blog.csdn.net/2601_96282110/article/details/161979906)
 
++ [AI 数据分析实战：大模型驱动的自动化报表生成，从数据到洞察的工程化链路](https://blog.csdn.net/2401_85575345/article/details/161917181)
+
++ [Google 爬虫工作原理，及用Python实现完整的Google爬虫](https://blog.csdn.net/cui_yonghua/article/details/161979610)
+
++ [Function Calling 工程实践：从工具定义到错误恢复的完整链路](https://blog.csdn.net/baronbool/article/details/161973359)
+
++ [前端错误边界与优雅降级策略：从白屏崩溃到容错渲染，用户体验的最后一道防线](https://blog.csdn.net/weixin_49475940/article/details/161973887)
+
++ [Steema.TeeChart.NET --version 4.2026.6.7](https://blog.csdn.net/john_dwh/article/details/161983148)
+
++ [Timefold 技术深度解析：开源约束求解器的实战指南](https://blog.csdn.net/neweastsun/article/details/161982830)
+
++ [VSCode通过ChatGPT5.5登陆codex:sign-in could not be complete 问题解决方案](https://blog.csdn.net/2301_79465388/article/details/161982984)
+
