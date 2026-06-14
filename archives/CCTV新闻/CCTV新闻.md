@@ -161,3 +161,7 @@
 
 + [中美战略竞争格局下，中方期待韩方发挥什么作用？中国驻韩大使回应](https://news.cctv.com/2026/06/10/ARTIbjDzS4HZVB94tRzg5yYf260610.shtml)
 
++ [伊朗总统：伊朗最高国家安全委员会已决定推进谈判](https://news.cctv.com/2026/06/15/ARTIzrAn4M7wvEAuOIrl5pZ4260615.shtml)
+
++ [巴基斯坦总理：美伊已达成和平协议](https://news.cctv.com/2026/06/15/ARTIrQDlLH79AkYKNHzY6eV4260615.shtml)
+
