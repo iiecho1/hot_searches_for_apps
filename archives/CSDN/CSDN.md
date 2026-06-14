@@ -183,3 +183,23 @@
 
 + [Nautilus：从单一提示词到即插即用机器人学习](https://blog.csdn.net/yorkhunter/article/details/161933298)
 
++ [Spring Security- hasRole 与 hasAuthority 的区别与使用](https://blog.csdn.net/qq_41187124/article/details/157618506)
+
++ [【Linux网络】深入拆解 TCP 协议：标志位、紧急机制与连接管理的底层真相](https://blog.csdn.net/2503_91389547/article/details/161439984)
+
++ [BPM 工作流在企业管理软件中的核心作用](https://blog.csdn.net/zhouzhongyan/article/details/161971158)
+
++ [基于 PyTorch 的食物图像分类CNN 训练全流程](https://blog.csdn.net/2301_78775214/article/details/161935890)
+
++ [多机器人协同：分布式任务分配与编队控制](https://blog.csdn.net/u014727709/article/details/161971190)
+
++ [离线VSCode对接本地大模型：单文件对话界面实现（持久化+文件图片上传）](https://blog.csdn.net/NoamaNelson/article/details/161950682)
+
++ [K8s 监控实战：victoria-metrics-k8s-stack 高可用部署，资源占用直降 70%，比 Prometheus 省 5 倍磁盘](https://blog.csdn.net/lwxvgdv/article/details/161965077)
+
++ [2026年4大AI编程CLI工具横评：Claude Code、Codex、Gemini CLI、OpenCode，实测30天差距有多大？](https://blog.csdn.net/weixin_50937681/article/details/161960735)
+
++ [深入理解 Ajax 异步请求：从 XMLHttpRequest 到 Node.js HTTP 服务实践](https://blog.csdn.net/meilindehuzi_a/article/details/161960854)
+
++ [Claude Fable 5全球停用×GLM-5.2全量开放：出口管制下开源与闭源的分水岭](https://blog.csdn.net/xyghehehehe/article/details/161971000)
+

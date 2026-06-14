@@ -29,3 +29,21 @@
 
 + [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
++ [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
++ [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+
++ [meshery/meshery](https://github.com/meshery/meshery)
+
++ [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
++ [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+
++ [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+
++ [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+
