@@ -101,3 +101,37 @@
 
 + [第【19】期--基于监督学习的无人机安全通信的联合轨迹优化与功率分配研究--python完整代码+文档](https://blog.csdn.net/qq_35027690/article/details/161959733)
 
++ [【MCP实战】从0写一个本地工具服务器：文件搜索、SQLite查询与安全边界](https://blog.csdn.net/2402_87731470/article/details/161899391)
+
++ [DolphinDB HTTP API接入：RESTful数据推送](https://blog.csdn.net/sinat_41617212/article/details/161980391)
+
++ [固定资产、办公用品、设备台账如何实现精细化管理“](https://blog.csdn.net/zhouzhongyan/article/details/161971188)
+
++ [人工智能知识点复习汇总](https://blog.csdn.net/2401_83600008/article/details/161973064)
+
++ [计算机网络第四章复习：网络层 Data Plane 数据平面](https://blog.csdn.net/2401_87352879/article/details/161927243)
+
++ [Linux系统篇（五）：Linux 进程控制全解：fork、exec、wait 核心原理与实战](https://blog.csdn.net/2502_94387000/article/details/161898394)
+
++ [AI驱动的智能Agent工具链：从任务分解到多步推理的自动化执行](https://blog.csdn.net/no1coder/article/details/161973134)
+
++ [RAGFlow v0.26.0发布：模型自动发现、多密钥管理、7大企业连接器、GraphRAG断点续跑、推理流更快更透明，超全升级解读](https://blog.csdn.net/weixin_48502062/article/details/161901465)
+
++ [一条 LIMIT 1 干掉了整段 DISTINCT，金仓数据库 KES 内核怎么做到的](https://blog.csdn.net/qq_57761637/article/details/161985718)
+
++ [AXI总线协议深度解析与FPGA应用](https://blog.csdn.net/ccsss22/article/details/161984729)
+
++ [[Spring Cloud] Nacos核心功能详解：从负载均衡到配置中心的全链路实践](https://blog.csdn.net/Boop_wu/article/details/161983631)
+
++ [‌Spring AI调用本地模型](https://blog.csdn.net/weigeshikebi/article/details/161955276)
+
++ [【Spring AI + Google ADK 】流式输出时 outputKey 状态缓存失败的问题](https://blog.csdn.net/Candy___i/article/details/161932543)
+
++ [Timefold 技术深度解析：开源约束求解器的实战指南](https://blog.csdn.net/neweastsun/article/details/161982830)
+
++ [FPGA数字信号处理（一）数字混频实现详解｜NCO/DDS原理、有符号数避坑、直流滤除工程实战](https://blog.csdn.net/nskksms/article/details/161960883)
+
++ [Claude Fable 5全球停用×GLM-5.2全量开放：出口管制下开源与闭源的分水岭](https://blog.csdn.net/xyghehehehe/article/details/161971000)
+
++ [2026年亚太杯中文比赛思路、Python代码、Matlab代码、论文(持续更新中......)](https://blog.csdn.net/m0_58086403/article/details/161913622)
+
