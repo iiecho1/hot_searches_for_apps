@@ -159,3 +159,27 @@
 
 + [2026年APMCM 亚太杯中文赛A题 自来水厂水质预测与评估 完整求解思路](https://blog.csdn.net/qq_33690821/article/details/161935277)
 
++ [【计算机网络全面教学】应用层核心协议，HTTP/DNS/DHCP/FTP/SMTP全解析Day5（2026年）](https://blog.csdn.net/2501_90715893/article/details/161973540)
+
++ [Linux信号机制(中)](https://blog.csdn.net/2502_93841997/article/details/161924651)
+
++ [GitHub 热榜项目 - 周榜(2026-06-14)](https://blog.csdn.net/u014390502/article/details/161971879)
+
++ [Linux（八） 进程内存全景：环境变量、main 函数参数与虚拟地址空间全链路深度解析](https://blog.csdn.net/A_humble_scholar/article/details/161958075)
+
++ [多目标生态预警与网络调控下的喀斯特高原生态保护：基于SSP-RCP情景的生态安全网络优化](https://blog.csdn.net/qq_31988139/article/details/161776657)
+
++ [Codex CLI vs Claude Code 全方位对比：设计哲学与用户体验深度解析](https://blog.csdn.net/2401_87961121/article/details/161933690)
+
++ [Spring Security at Method Level](https://blog.csdn.net/allway2/article/details/161960011)
+
++ [Flink Resource Providers 深度解析：机制原理、部署模式与最佳实践](https://blog.csdn.net/weixin_47983718/article/details/161933049)
+
++ [第【19】期--基于监督学习的无人机安全通信的联合轨迹优化与功率分配研究--python完整代码+文档](https://blog.csdn.net/qq_35027690/article/details/161959733)
+
++ [FPGA数字信号处理（一）数字混频实现详解｜NCO/DDS原理、有符号数避坑、直流滤除工程实战](https://blog.csdn.net/nskksms/article/details/161960883)
+
++ [构建基于 RESTful 架构的 TodoList 全栈应用：从前后端理论到 TypeScript/Bun 实战](https://blog.csdn.net/meilindehuzi_a/article/details/161904104)
+
++ [Nautilus：从单一提示词到即插即用机器人学习](https://blog.csdn.net/yorkhunter/article/details/161933298)
+

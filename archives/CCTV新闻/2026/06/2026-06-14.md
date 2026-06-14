@@ -175,3 +175,7 @@
 
 + [录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡](https://news.cctv.com/2026/06/14/ARTIkXNzacXmXLWZOVBHaPAs260614.shtml)
 
++ [英国称拦截一艘俄“影子舰队”油轮](https://news.cctv.com/2026/06/14/ARTInly2VEdb8cIsaRUCNq4s260614.shtml)
+
++ [伊朗消息人士称美伊将举行视频会议并签署协议](https://news.cctv.com/2026/06/14/ARTIVcwOhuRYXOoNo8xqJgcl260614.shtml)
+

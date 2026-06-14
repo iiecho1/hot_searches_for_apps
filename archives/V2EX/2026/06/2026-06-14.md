@@ -35,3 +35,13 @@
 
 + [许多中转站宣称高 SLA，面向政企，可是政企真的会用吗？](https://www.v2ex.com/t/1220131)
 
++ [有升级 macos27 的 V 友吗，感觉发热严重啊，我的是 M2pro 芯片](https://www.v2ex.com/t/1220248)
+
++ [3500 买了一个 macbook pro m1 16➕256，请问怎么验货比较好？](https://www.v2ex.com/t/1220180)
+
++ [是不是大部分程序员都会被大模型替代](https://www.v2ex.com/t/1220221)
+
++ [澳洲留学电子设备怎么选？](https://www.v2ex.com/t/1220243)
+
++ [有人的 27 系统索引完成吗？](https://www.v2ex.com/t/1220253)
+
