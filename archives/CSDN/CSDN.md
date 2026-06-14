@@ -135,3 +135,9 @@
 
 + [2026年亚太杯中文比赛思路、Python代码、Matlab代码、论文(持续更新中......)](https://blog.csdn.net/m0_58086403/article/details/161913622)
 
++ [Python 数据管线自动化：从 ETL 编排到异常自愈的工程实践](https://blog.csdn.net/baronbool/article/details/161974073)
+
++ [离线VSCode对接本地大模型：单文件对话界面实现（持久化+文件图片上传）](https://blog.csdn.net/NoamaNelson/article/details/161950682)
+
++ [鸿蒙原生应用实战（十）ArkUI 涂鸦画板：Canvas 绘图 + 颜色选择 + 笔画管理 + 导出](https://blog.csdn.net/2502_94531999/article/details/161962697)
+
