@@ -173,3 +173,17 @@
 
 + [伊朗副外长确认伊美谅解备忘录已达成一致](https://news.cctv.com/2026/06/15/ARTI3dJAmF7iJxerjzfHYrt1260615.shtml)
 
++ [乌克兰首都遭大规模空袭 俄罗斯图拉市遭无人机袭击](https://news.cctv.com/2026/06/15/ARTIcyt0UQjzYvAgm6udUgP8260615.shtml)
+
++ [巴基斯坦外长欢迎美伊达成谅解备忘录](https://news.cctv.com/2026/06/15/ARTICufxyItSubA2pIYWH3bM260615.shtml)
+
++ [印尼勒沃托比火山发生喷发 火山灰柱高约800米](https://news.cctv.com/2026/06/15/ARTIqPrylnyZoIZ67MXGQODp260615.shtml)
+
++ [美防长：伊朗履行承诺后才会解冻资金](https://news.cctv.com/2026/06/15/ARTILo7P6WWyIKXpmbpuk7xo260615.shtml)
+
++ [马克龙称法英牵头的霍尔木兹海峡护航行动随时启动](https://news.cctv.com/2026/06/15/ARTIWuvDYC5Ilc0NQYFShbhp260615.shtml)
+
++ [英法德意四国称将解除对伊朗制裁](https://news.cctv.com/2026/06/15/ARTImEaX0lcfDwUAn7Vc3o2q260615.shtml)
+
++ [伊朗武装部队称成功使美以“承认失败”](https://news.cctv.com/2026/06/15/ARTIiF1cIBJiiKYB374gNGar260615.shtml)
+

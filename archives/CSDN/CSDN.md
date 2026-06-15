@@ -147,3 +147,25 @@
 
 + [免账号解锁Codex：第三方大模型接入](https://blog.csdn.net/2401_87660168/article/details/161957004)
 
++ [【数据库】时序预测能力的分级进化：TimechoAI如何让每一类用户都能精准预见未来](https://blog.csdn.net/qq_38628970/article/details/161926068)
+
++ [ASP.NET Core多语言：3种嵌套场景，你踩过几个？](https://blog.csdn.net/z_344791576/article/details/151896467)
+
++ [AI动态简报之技术前沿篇（2026.06.13）](https://blog.csdn.net/aibridge/article/details/161947192)
+
++ [指纹浏览器：DNS 泄漏防范与 WebRTC 本地 IP 屏蔽的底层实现](https://blog.csdn.net/cui_yonghua/article/details/161985278)
+
++ [【HarmonyOS 6.0】MDM Kit：PC/2in1设备用户行为限制策略详解](https://blog.csdn.net/weixin_74809706/article/details/161729121)
+
++ [有哪些信奥省选知识学习资源推荐](https://blog.csdn.net/dllglvzhenfeng/article/details/161822160)
+
++ [【Claude、GPT、Gemini 三大模型怎么选?2026 年主流大模型侧重点深度解析】](https://blog.csdn.net/2601_96321166/article/details/161930109)
+
++ [τ0-WM：让机器人先在脑子里推演，再决定怎么动](https://blog.csdn.net/lovely_yoshino/article/details/161690670)
+
++ [Spring AI Alibaba 向量（VectorStore）](https://blog.csdn.net/2501_94660483/article/details/161975165)
+
++ [FPGA 数字信号处理（二）：并行 FIR 滤波器的 Verilog 全流程设计与实现](https://blog.csdn.net/nskksms/article/details/161972961)
+
++ [【AIGC行业前沿】2026年6月AIGC行业前沿模型发布动态（6月8日-6月14日）](https://blog.csdn.net/weixin_31588979/article/details/161983388)
+
