@@ -101,3 +101,7 @@
 
 + [以前做视频靠时间，现在做视频靠提示词——Codex+Remotion体验记](https://blog.csdn.net/weixin_74888502/article/details/162003231)
 
++ [递阶式智能体开发范式(HADP)：从超级Agent到智能体应用的层级架构理论与工程实践](https://blog.csdn.net/weixin_42878111/article/details/162009383)
+
++ [极简设计的真实面目：少即是多的工程化实践](https://blog.csdn.net/weixin_63764436/article/details/161999507)
+
