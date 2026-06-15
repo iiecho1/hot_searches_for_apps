@@ -165,3 +165,11 @@
 
 + [巴基斯坦总理：美伊已达成和平协议](https://news.cctv.com/2026/06/15/ARTIrQDlLH79AkYKNHzY6eV4260615.shtml)
 
++ [伊朗副外长：核实美方履行承诺后将启动60天谈判](https://news.cctv.com/2026/06/15/ARTIsmMfXHHXhRNrlZfFiApt260615.shtml)
+
++ [伊朗最高国家安全委员会正式确认伊美谅解备忘录达成](https://news.cctv.com/2026/06/15/ARTI5T6iTrfA5v5iYgACxiKL260615.shtml)
+
++ [特朗普称美伊达成协议 霍尔木兹海峡开放](https://news.cctv.com/2026/06/15/ARTIBJo0er9Q0uEwAVqvaBpx260615.shtml)
+
++ [伊朗副外长确认伊美谅解备忘录已达成一致](https://news.cctv.com/2026/06/15/ARTI3dJAmF7iJxerjzfHYrt1260615.shtml)
+

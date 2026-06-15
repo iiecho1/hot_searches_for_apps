@@ -23,3 +23,5 @@
 
 + [介于国行 iPhone 和外版差距越来越大，想换国内安卓了，求推荐品牌系列](https://www.v2ex.com/t/1220372)
 
++ [正式发布 Pastel - 迄今空前强大的一款 IPA 下载工具 (macOS)](https://www.v2ex.com/t/1220322)
+
