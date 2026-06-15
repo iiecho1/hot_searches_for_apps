@@ -161,3 +161,11 @@
 
 + [希腊48小时救起近550名海上偷渡者](https://news.cctv.com/2026/06/11/ARTI57HDsx8B9cn7MUAwRnPw260611.shtml)
 
++ [特朗普：普京和泽连斯基愿就解决乌克兰危机“采取行动”](https://news.cctv.com/2026/06/16/ARTIA5pruM8bpOFUZr01Virp260616.shtml)
+
++ [联合国：今年以来海地帮派暴力已致至少2300人死亡](https://news.cctv.com/2026/06/16/ARTIWdfwBZ16vMou94EHGtRA260616.shtml)
+
++ [美国密西西比州一超市发生枪击事件 致1死1伤](https://news.cctv.com/2026/06/16/ARTICENrBdCmMfAQYc78oBMW260616.shtml)
+
++ [美官员：美伊协议已电子签署 19日将正式签署](https://news.cctv.com/2026/06/16/ARTIbmMj1PG5AjzscXSDu9zm260616.shtml)
+
