@@ -187,3 +187,17 @@
 
 + [伊朗武装部队称成功使美以“承认失败”](https://news.cctv.com/2026/06/15/ARTIiF1cIBJiiKYB374gNGar260615.shtml)
 
++ [伊朗外交部：伊美协议细节将很快公布](https://news.cctv.com/2026/06/15/ARTI8OeNa168UDQfskwe3BRW260615.shtml)
+
++ [录音显示美军仍在执行对伊朗海上封锁](https://news.cctv.com/2026/06/15/ARTIWT7tI41mcI5UrSy0pIW8260615.shtml)
+
++ [伊朗方面称霍尔木兹海峡进出通道仍保持关闭](https://news.cctv.com/2026/06/15/ARTIrKVDpQcOfOunJhxewl2M260615.shtml)
+
++ [菲律宾群岛地区发生6.2级地震，震源深度90千米](https://news.cctv.com/2026/06/15/ARTIH1CphJCl9ihqehG86L6o260615.shtml)
+
++ [G7峰会前夕 特朗普威胁对法加征葡萄酒关税](https://news.cctv.com/2026/06/15/ARTIRmhHsO3LeRZSSqirBTXO260615.shtml)
+
++ [英国禁止16岁以下人群使用部分社交媒体平台](https://news.cctv.com/2026/06/15/ARTIqWSt1uOXZ3vTHcwf52gt260615.shtml)
+
++ [巴基斯坦称将在日内瓦主办美伊协议签字仪式](https://news.cctv.com/2026/06/15/ARTILHssGy7YtdSVCDcYlWig260615.shtml)
+

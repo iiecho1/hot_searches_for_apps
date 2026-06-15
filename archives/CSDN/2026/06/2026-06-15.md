@@ -169,3 +169,39 @@
 
 + [【AIGC行业前沿】2026年6月AIGC行业前沿模型发布动态（6月8日-6月14日）](https://blog.csdn.net/weixin_31588979/article/details/161983388)
 
++ [用ChatGPT 5.5构建个人写作工作流：从大纲、初稿到风格润色的提示词链](https://blog.csdn.net/2401_87342824/article/details/161976434)
+
++ [【AI】从文本到向量：理解Embedding的作用](https://blog.csdn.net/weixin_62043600/article/details/161981425)
+
++ [AI Native 鸿蒙 App：从页面驱动到智能驱动的架构革命](https://blog.csdn.net/qq_36478920/article/details/161960561)
+
++ [蓝耘元生代×魔珐星云：我用蓝耘MaaS大模型搭建一款共情具身智能数字人](https://blog.csdn.net/user340/article/details/161999626)
+
++ [Spring Cloud Gateway 路由配置：从静态声明到动态发现的演进路径](https://blog.csdn.net/alex_goden/article/details/161999683)
+
++ [sync.Pool 内存复用与性能优化：Go 高并发场景下的 GC 减负之道](https://blog.csdn.net/baronbool/article/details/162002964)
+
++ [K8s Pod 网络问题诊断流程：从 DNS 解析失败到跨节点通信异常的排障实录](https://blog.csdn.net/2609_95049439/article/details/161999048)
+
++ [具身智能与机器人学习资源全景图：从SLAM到大模型再到VLA/VLN的技术演进](https://blog.csdn.net/lovely_yoshino/article/details/157733399)
+
++ [鸿蒙PC迁移：jieba 中文分词 Python 三方库鸿蒙PC适配全记录](https://blog.csdn.net/knighthood2001/article/details/161995127)
+
++ [轻量级推理引擎开发：从模型加载到推理执行的 Rust 实战](https://blog.csdn.net/2301_81410839/article/details/161999593)
+
++ [MongoDB跑得好好的，为什么还要部署MongoDB Exporter？](https://blog.csdn.net/qq_54796785/article/details/162009227)
+
++ [实验十二 华为单臂路由实现 VLAN 间通信实验指导书](https://blog.csdn.net/supernealrei/article/details/161958059)
+
++ [限流熔断策略实现：从单点防护到级联保护，高可用架构的流量安全网](https://blog.csdn.net/dicky_zhang3/article/details/161999299)
+
++ [论文复现的工程化方法：从阅读到验证的系统化流程](https://blog.csdn.net/lady_mumu/article/details/161999840)
+
++ [鸿蒙PC：Linux 搭建 Rust 开发环境并实现计算器项目](https://blog.csdn.net/m0_60318025/article/details/162011269)
+
++ [Python生态模版引擎：Django、Jinja2、Liquid、Mustache、Mako、Chameleon](https://blog.csdn.net/lonelymanontheway/article/details/161972612)
+
++ [Python批量调整Excel格式，并排版导出PDF](https://blog.csdn.net/tsfy2003/article/details/161984535)
+
++ [Ubuntu24.04下的VSCode通过ChatGPT5.5登陆codex:sign-in could not be complete 问题解决方案](https://blog.csdn.net/2301_79465388/article/details/161982984)
+
