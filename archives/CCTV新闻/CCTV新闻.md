@@ -161,3 +161,11 @@
 
 + [专访丨中国“以发展促人权”实践令人赞叹——访伊拉克前总统拉希德](https://news.cctv.com/2026/06/12/ARTIDKGEjxUb28ggbSprn073260612.shtml)
 
++ [消息人士：美伊协议中三千亿美元对伊投资基金超半数获出资承诺](https://news.cctv.com/2026/06/17/ARTIXbPvAOACCmlA4vBKZjfJ260617.shtml)
+
++ [以军持续在黎南部军事行动 伊朗军方发声警告](https://news.cctv.com/2026/06/17/ARTInEfqhquCOlhyYhDfix5U260617.shtml)
+
++ [谭德塞：近三周未报告新增汉坦病毒感染病例](https://news.cctv.com/2026/06/17/ARTI9WvYEucjEHr9UyY2C4eo260617.shtml)
+
++ [美特拉华州一医院发生枪击事件 两名员工中枪](https://news.cctv.com/2026/06/17/ARTIFl12vo9Kn0ENN0SiOL2D260617.shtml)
+
