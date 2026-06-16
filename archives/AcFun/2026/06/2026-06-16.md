@@ -63,3 +63,5 @@
 
 + [黄金怎么让人看不懂了？海峡危机真的解除了？【岩论604期】](https://m.acfun.cn/v/?ac=48614817)
 
++ [So Crazy](https://m.acfun.cn/v/?ac=48613762)
+
