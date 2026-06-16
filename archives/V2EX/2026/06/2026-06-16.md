@@ -39,3 +39,13 @@
 
 + [想请教 claude 如何实战，我自己想从头到尾实现一个 ios 的 app，不知道如何高效的利用 claude？](https://www.v2ex.com/t/1220708)
 
++ [最终买了凯美瑞](https://www.v2ex.com/t/1220810)
+
++ [分享： 3 个月减重 20 斤（饮食）](https://www.v2ex.com/t/1220726)
+
++ [SpaceX 这个市值合理吗？](https://www.v2ex.com/t/1220731)
+
++ [闲鱼黑话查询](https://www.v2ex.com/t/1220816)
+
++ [小时候打过乙肝疫苗，检查显示抗体为 0 了，需要补打吗？](https://www.v2ex.com/t/1220709)
+

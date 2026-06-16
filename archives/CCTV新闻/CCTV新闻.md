@@ -181,3 +181,9 @@
 
 + [美军一架B-52轰炸机加州坠毁 机上8人恐全部遇难](https://news.cctv.com/2026/06/16/ARTIaQqNZrJCB0iDXyuEhwqQ260616.shtml)
 
++ [日本茨城县南部发生5.5级地震](https://news.cctv.com/2026/06/16/ARTI7tjnIDxt4SDtls1WW6fz260616.shtml)
+
++ [特朗普称美伊协议谈判进入第二阶段](https://news.cctv.com/2026/06/16/ARTI44dreqJcbDz6orwz0IDD260616.shtml)
+
++ [伊朗外长说伊美新一轮谈判可能19日在瑞士举行](https://news.cctv.com/2026/06/16/ARTIDeVcGdXrrc6eSUBvT5Hq260616.shtml)
+

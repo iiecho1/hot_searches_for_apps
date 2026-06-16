@@ -37,3 +37,17 @@
 
 + [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
 
++ [swc-project/swc](https://github.com/swc-project/swc)
+
++ [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+
++ [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
++ [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+
++ [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
++ [alibaba/zvec](https://github.com/alibaba/zvec)
+
++ [n0-computer/iroh](https://github.com/n0-computer/iroh)
+

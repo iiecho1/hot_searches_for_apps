@@ -25,3 +25,27 @@
 
 + [华为朱懂东称鸿蒙平板连续两年在国内绝对领先，最近存储上涨市场份额竟还在提升](https://m.ithome.com/html/964162.htm)
 
++ [华为朱懂东谈“鸿蒙套壳安卓”：套壳拿不到最高安全可靠等级 Ⅱ 级权威认证](https://m.ithome.com/html/964596.htm)
+
++ [3799 元起：大疆 Osmo Pocket 4P 双主摄口袋摄影机发布，1 英寸 LOFIC 主摄 +60mm 中焦镜头](https://m.ithome.com/html/964564.htm)
+
++ [英伟达员工考公上岸引热议，黄仁勋曾称“尽力给员工支付尽可能高的薪水”](https://m.ithome.com/html/964753.htm)
+
++ [安卓首个“液态玻璃”登场，荣耀 MagicOS 11 先锋版开启小范围共创招募](https://m.ithome.com/html/964721.htm)
+
++ [华为鸿蒙 HarmonyOS SDK 26 正式发布：悬浮窗 &amp; 闪控球、游戏秒启秒开等](https://m.ithome.com/html/964569.htm)
+
++ [华为做大型应用工具软件原因揭秘，朱懂东称没找到合适的只能自己来](https://m.ithome.com/html/964582.htm)
+
++ [华为鸿蒙 HarmonyOS 7 Developer Beta 版开启推送，系统扩展特性同步更新](https://m.ithome.com/html/964605.htm)
+
++ [中国移动官宣对传统通话进行重大升级，陆续上线通话字幕、通话可视菜单等](https://m.ithome.com/html/964735.htm)
+
++ [理想新一代旗舰座舱公布：高通 8797 Elite 芯片、90Hz 高刷宽屏，支持苹果 CarPlay 等互联](https://m.ithome.com/html/964597.htm)
+
++ [AI 版支付宝官宣开启邀测：右滑打开“阿宝”，官方放出 100 个邀请码](https://m.ithome.com/html/964691.htm)
+
++ [国外软件对待国乐不上心，华为朱懂东透露音悦家 App 立志“复活”大家能看到的中国古典乐器](https://m.ithome.com/html/964591.htm)
+
++ [鸿蒙智行问界 M6 纯电新版今日开启大定，22.98 万元起](https://m.ithome.com/html/964662.htm)
+
