@@ -105,3 +105,29 @@
 
 + [极简设计的真实面目：少即是多的工程化实践](https://blog.csdn.net/weixin_63764436/article/details/161999507)
 
++ [PyTorch强化学习实战（14）——优先经验回放机制](https://blog.csdn.net/LOVEmy134611/article/details/159509738)
+
++ [深度学习实战-基于U-Net视网膜血管图像分割模型](https://blog.csdn.net/m0_64336780/article/details/159692511)
+
++ [AI 接管操作系统：鸿蒙 PC AI Native OS 架构揭秘](https://blog.csdn.net/qq_36478920/article/details/162013384)
+
++ [数学之美：数字革命背后的底层逻辑](https://blog.csdn.net/weixin_43151418/article/details/162012326)
+
++ [Oracle 表的约束详解：主键 / 外键 / 唯一 / 非空约束的创建与实战](https://blog.csdn.net/qq_41187124/article/details/157583957)
+
++ [Python 实测｜这家免费企业数据 API 连反爬都没有，数据质量却意外能打](https://blog.csdn.net/beautifulmemory/article/details/162013803)
+
++ [告别脚本时代：我用n8n和DeepSeek搭了一条会思考的自动化流水线](https://blog.csdn.net/weixin_44976692/article/details/162000870)
+
++ [Spring Method Security with @PreAuthorize and @Secured](https://blog.csdn.net/allway2/article/details/161970978)
+
++ [HarmonyOS 底部导航栏优化：从占位符到 SymbolGlyph 的演进](https://blog.csdn.net/2501_93573294/article/details/162013172)
+
++ [CI/CD前世今生（持续集成、持续交付、持续部署、Jenkins、Github Actions）](https://blog.csdn.net/Dontla/article/details/161955961)
+
++ [SpringCloud Alibaba 核心组件解析：分布式事务（Seata）](https://blog.csdn.net/Zzz2608440484/article/details/161825630)
+
++ [Ubuntu24.04下的VSCode通过ChatGPT5.5登陆codex:sign-in could not be complete 问题解决方案](https://blog.csdn.net/2301_79465388/article/details/161982984)
+
++ [从「会说话」到「懂表达」：一场关于数字人认知的底层重构](https://blog.csdn.net/m0_52165864/article/details/162015140)
+

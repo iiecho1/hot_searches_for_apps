@@ -169,3 +169,15 @@
 
 + [美官员：美伊协议已电子签署 19日将正式签署](https://news.cctv.com/2026/06/16/ARTIbmMj1PG5AjzscXSDu9zm260616.shtml)
 
++ [印尼中苏拉威西省6.7级地震暂无人员伤亡报告](https://news.cctv.com/2026/06/16/ARTIxSfUZRgC063GQfwNm0V3260616.shtml)
+
++ [澳大利亚央行宣布维持基准利率不变](https://news.cctv.com/2026/06/16/ARTI07S45fViyvAIJrUaXoek260616.shtml)
+
++ [菲律宾南部强震已致68人死亡](https://news.cctv.com/2026/06/16/ARTIsvtEZP71oOX6ERhUwU52260616.shtml)
+
++ [印尼苏拉威西岛发生6.7级地震，震源深度20千米](https://news.cctv.com/2026/06/16/ARTIoYCCjfY8dIwrEwnCdEh8260616.shtml)
+
++ [日本央行将政策利率上调至1%](https://news.cctv.com/2026/06/16/ARTIJEKiLounBnfy0PxKK3Pt260616.shtml)
+
++ [美军一架B-52轰炸机加州坠毁 机上8人恐全部遇难](https://news.cctv.com/2026/06/16/ARTIaQqNZrJCB0iDXyuEhwqQ260616.shtml)
+
