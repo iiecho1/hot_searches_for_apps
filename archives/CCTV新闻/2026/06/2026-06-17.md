@@ -169,3 +169,17 @@
 
 + [美特拉华州一医院发生枪击事件 两名员工中枪](https://news.cctv.com/2026/06/17/ARTIFl12vo9Kn0ENN0SiOL2D260617.shtml)
 
++ [日本两地发生食物中毒事件 百余人出现症状](https://news.cctv.com/2026/06/17/ARTI3rdZGcwddMQgrBSVvB1z260617.shtml)
+
++ [法国将为公职人员配备“主权可控”的AI工具](https://news.cctv.com/2026/06/17/ARTICkRrggzvhZjsogIziDtf260617.shtml)
+
++ [印尼塞梅鲁火山喷发 灰柱高约800米](https://news.cctv.com/2026/06/17/ARTI9A6dlc70LrIxUm9hUw5I260617.shtml)
+
++ [俄军舰在英吉利海峡遭一游艇逼近 开火示警](https://news.cctv.com/2026/06/17/ARTIbC2ah2N6eYf8EUxo0j8w260617.shtml)
+
++ [刚果（金）埃博拉疫情“仍未见顶”](https://news.cctv.com/2026/06/17/ARTIQF5nZ5VJZnN2TXoRCBlx260617.shtml)
+
++ [美伊谅解备忘录14点内容披露 官方尚未证实](https://news.cctv.com/2026/06/17/ARTI47CKeRYkvTdIt8y9Rk3K260617.shtml)
+
++ [中方敦促也门冲突方重启和平进程](https://news.cctv.com/2026/06/17/ARTIqYpyjGzkqH4riUMHtx4R260617.shtml)
+
