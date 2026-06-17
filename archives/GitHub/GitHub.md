@@ -27,3 +27,35 @@
 
 + [n0-computer/iroh](https://github.com/n0-computer/iroh)
 
++ [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
++ [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [google-research/timesfm](https://github.com/google-research/timesfm)
+
++ [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+
++ [continuedev/continue](https://github.com/continuedev/continue)
+
++ [penpot/penpot](https://github.com/penpot/penpot)
+
++ [krahets/hello-algo](https://github.com/krahets/hello-algo)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [yairm210/Unciv](https://github.com/yairm210/Unciv)
+
++ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
++ [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
++ [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+
++ [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
++ [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
+
++ [makeplane/plane](https://github.com/makeplane/plane)
+

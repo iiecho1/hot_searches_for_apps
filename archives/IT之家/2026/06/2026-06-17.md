@@ -53,3 +53,9 @@
 
 + [安卓首个“液态玻璃”：荣耀 MagicOS 11 设计公开，支持动态场景](https://m.ithome.com/html/965257.htm)
 
++ [微信鸿蒙版 8.0.18 更新内容公布，这次不是一句话了](https://m.ithome.com/html/965338.htm)
+
++ [谷歌推送 Android 17 正式版，深度集成 AI 功能](https://m.ithome.com/html/965145.htm)
+
++ [山姆会员商店因食品安全问题被约谈，首席采购官张青将于月底离职、沃尔玛中国董事长换人](https://m.ithome.com/html/965406.htm)
+

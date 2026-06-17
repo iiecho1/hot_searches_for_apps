@@ -169,3 +169,11 @@
 
 + [22-接手Django老项目（下）-读懂urls路由树与架构脉络](https://blog.csdn.net/weixin_44081096/article/details/162016666)
 
++ [TextIn xParse + Codex 实操：把复杂 PDF 表格解析成 Agent 可用数据](https://blog.csdn.net/weixin_51390582/article/details/162070608)
+
++ [Spring Boot 微服务性能优化完全指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162037785)
+
++ [指纹浏览器：隐匿 Puppeteer/Playwright 的自动化特征（`navigator.webdriver` 等）](https://blog.csdn.net/cui_yonghua/article/details/162076286)
+
++ [AI 访问数据仓库：从直连到微服务化](https://blog.csdn.net/qq_24597659/article/details/162044807)
+

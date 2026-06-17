@@ -193,3 +193,11 @@
 
 + [勒令伊朗国足连夜离境 美方辩称“本应如此”](https://news.cctv.com/2026/06/17/ARTIjXxpLBWiAN8A9V7tgzYb260617.shtml)
 
++ [报告称全球13个热点国家饥饿状况持续恶化](https://news.cctv.com/2026/06/17/ARTIgFjZBzOiwK22XoTB2RRK260617.shtml)
+
++ [3艘伊朗油轮通过霍尔木兹海峡](https://news.cctv.com/2026/06/17/ARTIo63NlEqtuxM9uEuvt6Xk260617.shtml)
+
++ [俄侦委以恐袭立案调查白俄罗斯少年球队客车遇袭事件](https://news.cctv.com/2026/06/17/ARTIq7z2YUCgu1hEwZ92YzDh260617.shtml)
+
++ [特朗普称美国不会投资伊朗](https://news.cctv.com/2026/06/17/ARTIYK7q87Z1apqM53xLev7o260617.shtml)
+
