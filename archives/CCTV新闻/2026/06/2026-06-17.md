@@ -183,3 +183,13 @@
 
 + [中方敦促也门冲突方重启和平进程](https://news.cctv.com/2026/06/17/ARTIqYpyjGzkqH4riUMHtx4R260617.shtml)
 
++ [伊朗外长与俄外长通电话 讨论美伊谅解备忘录](https://news.cctv.com/2026/06/17/ARTIZ7GbSkwrc0P3HM3EvWOG260617.shtml)
+
++ [卢浮宫馆长称博物馆“不堪重负” 面临巨大翻新压力](https://news.cctv.com/2026/06/17/ARTIFNKxOWdSRLDb46STulV3260617.shtml)
+
++ [德国拟斥资160亿欧元用于无人机防御](https://news.cctv.com/2026/06/17/ARTIoeLLTAtwzGExBlDceoKA260617.shtml)
+
++ [联合国：全球至少58个国家和地区受地雷困扰](https://news.cctv.com/2026/06/17/ARTItcJ3CLx8CHzb5VPzvxjN260617.shtml)
+
++ [勒令伊朗国足连夜离境 美方辩称“本应如此”](https://news.cctv.com/2026/06/17/ARTIjXxpLBWiAN8A9V7tgzYb260617.shtml)
+

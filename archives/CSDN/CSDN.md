@@ -109,3 +109,63 @@
 
 + [2026六大AI编程工具终极对决](https://blog.csdn.net/weixin_43802893/article/details/162041710)
 
++ [豆包 vs DeepSeek API 对比分析报告](https://blog.csdn.net/weixin_62244995/article/details/161819584)
+
++ [我用ToDesk AI做一套「合租开支分摊」网页：从记账到自动提醒的完整实操](https://blog.csdn.net/m0_59281987/article/details/162042073)
+
++ [Re：Linux系统篇（三十一）文件篇·四：从 FILE 结构体到系统调用：全景拆解 Linux 缓冲区流转机制](https://blog.csdn.net/Z2314246476/article/details/161705605)
+
++ [从Ctrl+C/V到AI Pair Programming：一个程序员的进化史](https://blog.csdn.net/2301_80795057/article/details/162030067)
+
++ [腾讯云一键部署OpenClaw打造QQ机器人](https://blog.csdn.net/2302_78391795/article/details/162013343)
+
++ [MongoDB跑得好好的，为什么还要部署MongoDB Exporter？](https://blog.csdn.net/qq_54796785/article/details/162009227)
+
++ [【知识库终极方案】传统 RAG、LightRAG、GitNexus、graphify、Understand Anything、CodeGraph 横向对比](https://blog.csdn.net/zhangay1998/article/details/162047520)
+
++ [这本讲故事的数学科普书里，藏着AI背后的底层密码](https://blog.csdn.net/liu_chen_yang/article/details/162065885)
+
++ [轻规划鸿蒙开发实战10：分布式数据同步深度博弈，UserId 隔离与并发数据冲突消解机](https://blog.csdn.net/sjw890821sjw/article/details/162012973)
+
++ [Axure 原型落地 HTML：基于 Trae Solo 实现 GIS 多级行政区划切换全流程实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/162047080)
+
++ [飞算 JavaAI 订单模块实测：别只看 CRUD 接口，业务拆解才是硬标准](https://blog.csdn.net/2502_91499791/article/details/162054561)
+
++ [从SQL注入到连接泄漏：WinForms ADO.NET的5个致命误区](https://blog.csdn.net/z_344791576/article/details/151896381)
+
++ [GLM-5.2本地部署全攻略：1M上下文、MIT开源，国产大模型的真正实力](https://blog.csdn.net/weixin_43726381/article/details/162029787)
+
++ [Redis - 主从集群脑裂：数据丢失的隐藏杀手](https://blog.csdn.net/yangshangwei/article/details/162046660)
+
++ [分布式存储架构：一致性哈希与数据分片的工程实践](https://blog.csdn.net/guoyizhongxing/article/details/162065338)
+
++ [构建速度优化技巧：从 Webpack 到 Vite 的编译性能突围](https://blog.csdn.net/weixin_49475940/article/details/162045930)
+
++ [具身智能与机器人学习资源全景图：从SLAM到大模型再到VLA/VLN的技术演进](https://blog.csdn.net/lovely_yoshino/article/details/157733399)
+
++ [基于C# winform PP-OCRv5/v6 TensorRT 推理部署](https://blog.csdn.net/FL1623863129/article/details/162046180)
+
++ [llama.cpp 推理优化实战：内存布局与算子融合的深度解析](https://blog.csdn.net/2301_81410839/article/details/162061012)
+
++ [Stirling-PDF 自托管实战：基于 Docker 与 Cpolar 的多功能 PDF 工具部署指南](https://blog.csdn.net/mrdeam/article/details/162063477)
+
++ [复杂表格解析的隐形断层：字都认对了，数据还是不能用](https://blog.csdn.net/INTSIG/article/details/162013133)
+
++ [JVM 性能调优实战：从 GC 日志到内存模型，线上问题的定位方法论](https://blog.csdn.net/dicky_zhang3/article/details/162065793)
+
++ [【Linux网络】多路转接poll](https://blog.csdn.net/2401_89899187/article/details/161988204)
+
++ [面向 Skill 编程：用领域知识工程解决项目文档腐化](https://blog.csdn.net/2301_80956187/article/details/162046480)
+
++ [SpringBoot+Vue3 企业消息通知中心设计：站内信+短信+邮件+WebSocket 多通道统一推送](https://blog.csdn.net/zhouzhongyan/article/details/162055029)
+
++ [讲讲观察者模式](https://blog.csdn.net/2402_88401748/article/details/161984890)
+
++ [用 opencode 横评 6 款大模型 API：从代码生成到 Docker 部署全流程实测](https://blog.csdn.net/qq_25897071/article/details/162035636)
+
++ [GLM 5.2 使用教程：API 接入配置、价格说明及 MIT 开源权重发布计划](https://blog.csdn.net/ofoxcoding/article/details/162036651)
+
++ [51单片机 + ESP8266 TCP通信实战：从零实现WiFi远程控制](https://blog.csdn.net/xxwxx__/article/details/162046035)
+
++ [22-接手Django老项目（下）-读懂urls路由树与架构脉络](https://blog.csdn.net/weixin_44081096/article/details/162016666)
+

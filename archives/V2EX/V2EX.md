@@ -37,3 +37,15 @@
 
 + [吐槽下小孩生病住院花费的问题](https://www.v2ex.com/t/1220983)
 
++ [一位普通打工人的预言](https://www.v2ex.com/t/1221014)
+
++ [宁波的伞☂️到底有多大啊](https://www.v2ex.com/t/1221105)
+
++ [2026 年了，还有人使用精简 windows 镜像吗？](https://www.v2ex.com/t/1220989)
+
++ [[内测] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10](https://www.v2ex.com/t/1221053)
+
++ [免五低佣证券开户找老倔驴巨靠谱！闪抽一个“遥控纸飞机”，今晚就抽～](https://www.v2ex.com/t/1220950)
+
++ [有人觉得 b 站 app 手势设计很一坨吗](https://www.v2ex.com/t/1221023)
+
