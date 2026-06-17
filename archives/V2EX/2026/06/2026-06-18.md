@@ -21,3 +21,5 @@
 
 + [Mac OS 类 Everything 文件搜索 APP 免费送兑换码](https://www.v2ex.com/t/1221063)
 
++ [看了半天都选不出个能用的显示器了，镜面+抗反两条直接毙掉一大片](https://www.v2ex.com/t/1220969)
+
