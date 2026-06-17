@@ -161,3 +161,9 @@
 
 + [录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡](https://news.cctv.com/2026/06/14/ARTIkXNzacXmXLWZOVBHaPAs260614.shtml)
 
++ [伊朗外交部发言人：美伊已签署谅解备忘录](https://news.cctv.com/2026/06/18/ARTIBtXrnxWuiIpc4mVZhjFs260618.shtml)
+
++ [美国公布与伊朗达成的谅解备忘录正式文本](https://news.cctv.com/2026/06/18/ARTI7lbKmCVtRhDrd67H5n7E260618.shtml)
+
++ [伊朗方面披露美伊谅解备忘录文本内容](https://news.cctv.com/2026/06/18/ARTIUD7MZjdgPRK4TZPuxRGH260618.shtml)
+
