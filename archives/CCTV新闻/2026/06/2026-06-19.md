@@ -161,3 +161,9 @@
 
 + [特朗普称美伊达成协议 霍尔木兹海峡开放](https://news.cctv.com/2026/06/15/ARTIBJo0er9Q0uEwAVqvaBpx260615.shtml)
 
++ [消息人士：因以军持续袭击黎巴嫩 伊朗推迟赴瑞士行程](https://news.cctv.com/2026/06/19/ARTIIISUW28Lq0smlVToXaja260619.shtml)
+
++ [俄称扎波罗热核电站连遭日均50次以上袭击](https://news.cctv.com/2026/06/19/ARTI2Qdg1IzddVJtksc1C1XR260619.shtml)
+
++ [黎巴嫩总统：本轮冲突致黎近18%国土受损](https://news.cctv.com/2026/06/19/ARTIQzhtKQmOfv615TC7N4UE260619.shtml)
+
