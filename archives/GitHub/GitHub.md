@@ -33,3 +33,5 @@
 
 + [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
++ [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)
+
