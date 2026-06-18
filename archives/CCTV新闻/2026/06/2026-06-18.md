@@ -173,3 +173,13 @@
 
 + [外交部再次提醒赴美加墨观看世界杯中国公民加强安全防范](https://news.cctv.com/2026/06/18/ARTILLpXXI09mRT1yQuMxh1o260618.shtml)
 
++ [美国与伊朗公布谅解备忘录文本全文](https://news.cctv.com/2026/06/18/ARTIv6iBuP6HJrG1CCGEHGPf260618.shtml)
+
++ [特朗普称不反对伊朗拥有弹道导弹](https://news.cctv.com/2026/06/18/ARTI4YbH28JckVOsEpaoPUdo260618.shtml)
+
++ [美国批准向奥地利出售12架“黑鹰”直升机](https://news.cctv.com/2026/06/18/ARTIhTtscjF7Jq38bdSaUvTG260618.shtml)
+
++ [菲律宾南部强震已致78人死亡](https://news.cctv.com/2026/06/18/ARTIso05lRG7OFyQsc2fPaDd260618.shtml)
+
++ [巴西央行下调基准利率至14.25%](https://news.cctv.com/2026/06/18/ARTITHWZazJ5PPuJYgazK5w6260618.shtml)
+
