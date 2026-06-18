@@ -183,3 +183,7 @@
 
 + [巴西央行下调基准利率至14.25%](https://news.cctv.com/2026/06/18/ARTITHWZazJ5PPuJYgazK5w6260618.shtml)
 
++ [以色列袭击黎巴嫩南部两地 致1人死亡](https://news.cctv.com/2026/06/18/ARTIyHm9ZsNMqKRn5Y2d8bjI260618.shtml)
+
++ [瑞士外交部：美伊会谈19日在比尔根山举行](https://news.cctv.com/2026/06/18/ARTInik1mdj8vjM8660Scy2n260618.shtml)
+

@@ -51,3 +51,5 @@
 
 + [618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣](https://www.v2ex.com/t/1221233)
 
++ [又是一年端午节，公司发啥节日礼了？](https://www.v2ex.com/t/1221286)
+

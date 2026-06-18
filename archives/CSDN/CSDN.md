@@ -101,3 +101,49 @@
 
 + [Redis 和 MySQL 数据不一致怎么办？缓存更新策略实战](https://blog.csdn.net/jren_099/article/details/162044126)
 
++ [中级OpenGL教程 010：Object 类设计与模型矩阵完全实现](https://blog.csdn.net/2503_92624912/article/details/162047259)
+
++ [【 苍穹外卖day03 | 菜品管理 】](https://blog.csdn.net/2502_94242477/article/details/162043147)
+
++ [【同济线性代数第五版】第一章 行列式](https://blog.csdn.net/he_zhidan/article/details/161863571)
+
++ [【HarmonyOS 6.0】MDM Kit 深度解析：企业级 user_grant 权限集中管理策略](https://blog.csdn.net/weixin_74809706/article/details/161962219)
+
++ [AI 编程工具横评：Copilot、Cursor、CodeBuddy 到底哪家强？](https://blog.csdn.net/2301_80795057/article/details/162071325)
+
++ [Ubuntu极速部署OpenClaw完全指南（本地模型+DeepSeek）](https://blog.csdn.net/LOVEmy134611/article/details/160627309)
+
++ [国内使用 Codex 的三种方法：DeepSeek、中转站、GPT 账号，一篇讲清楚](https://blog.csdn.net/xianyu120/article/details/162077850)
+
++ [【LE Audio】CAS精讲[3]: SDP互操作规则，打通传统蓝牙的标识发现通道](https://blog.csdn.net/weixin_37800531/article/details/161962450)
+
++ [从群聊到会面决策：一个端侧 AI 手机应用的工程化实践](https://blog.csdn.net/Zero_VPN/article/details/162073056)
+
++ [基于C# winform PP-OCRv5/v6 TensorRT 推理部署](https://blog.csdn.net/FL1623863129/article/details/162046180)
+
++ [2026年AI时代远控硬核比拼：谁才是国民级远程协作首选](https://blog.csdn.net/weixin_51484460/article/details/162077006)
+
++ [不用买卡也能玩转云端 AI:我把整套训练流搬上了 AMD GPU](https://blog.csdn.net/qq_57761637/article/details/162070620)
+
++ [向量数据库与 RAG（Retrieval-Augmented Generation）实践指南](https://blog.csdn.net/weixin_42115825/article/details/162078095)
+
++ [SpringCloud Alibaba 核心组件解析：分布式配置管理](https://blog.csdn.net/Zzz2608440484/article/details/161868163)
+
++ [Maven + IDEA 完整流程配置](https://blog.csdn.net/yygyyygy1233/article/details/162075898)
+
++ [老系统重构噩梦？基于 FastGPT 托管本地 MCP，1小时梳理完 700 张遗留表迁移逻辑](https://blog.csdn.net/weixin_50776420/article/details/162072888)
+
++ [第08篇 · MyBatis动态SQL：OGNL驱动的SQL组装艺术](https://blog.csdn.net/2301_80720675/article/details/162078517)
+
++ [基于 YOLOv8 的口罩检测 Web 系统](https://blog.csdn.net/m0_61028090/article/details/162078458)
+
++ [【Java项目技术亮点】Redisson看门狗续期机制](https://blog.csdn.net/2501_90715893/article/details/162063852)
+
++ [Agent 记忆架构选型实战：从场景到方案](https://blog.csdn.net/mdwsmg/article/details/162078176)
+
++ [K8s可观测性选型：Prometheus+Grafana vs Datadog vs 冠服云EMS 全链路实测对比——从采集到闭环，三套方案的真正差距在哪](https://blog.csdn.net/weixin_70758133/article/details/162067992)
+
++ [Linux：TCP协议的socket套接字](https://blog.csdn.net/suimingtao/article/details/161459160)
+
++ [从零到一：Docker Compose 使用详解，告别手动启动多个容器的痛苦](https://blog.csdn.net/2401_83135864/article/details/162073041)
+

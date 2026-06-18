@@ -25,3 +25,27 @@
 
 + [山姆会员商店因食品安全问题被约谈，首席采购官张青将于月底离职、沃尔玛中国董事长换人](https://m.ithome.com/html/965406.htm)
 
++ [23.99 万元起，王朝网首款 D 级旗舰 SUV 比亚迪大唐 EV 正式上市](https://m.ithome.com/html/965653.htm)
+
++ [DeepSeek 以 4000 亿元估值完成首轮外部融资：510 亿元到账，投资方含梁文锋、腾讯、宁德时代、京东、网易等](https://m.ithome.com/html/965686.htm)
+
++ [消息称苹果 iPhone Air 2 明年春季发售：升级双摄、换用 A20 芯片](https://m.ithome.com/html/965693.htm)
+
++ [智己 LS8 上市后选装包从 9800 元变免费，超 200 位车主联名维权](https://m.ithome.com/html/965690.htm)
+
++ [【20:00~20:20 速抢不限量大红包】全网 618 巅峰狂促 20 点开启，iPhone 17 多重补贴 4899 元](https://m.ithome.com/html/965629.htm)
+
++ [理想汽车詹锟：除特斯拉 FSD 外，国内没有智驾第一梯队、应正视差距拒绝自我麻痹](https://m.ithome.com/html/965636.htm)
+
++ [库克：AI 浪潮引发存储芯片价格暴涨，iPhone 等苹果产品涨价已“不可避免”](https://m.ithome.com/html/965694.htm)
+
++ [国补后 6 折清仓：OPPO Find X8s 手机 12+512G 版 4199 → 2549 元](https://m.ithome.com/html/965654.htm)
+
++ [苹果 iOS 27 引入 40+ 底层优化：App 启动提速 30%、隔空投送最高提速 80%](https://m.ithome.com/html/965705.htm)
+
++ [2027QS 世界大学排名正式发布：麻省理工连续第 15 年蝉联榜首，北大升至第 13 名、清华升至第 14 名](https://m.ithome.com/html/965725.htm)
+
++ [15.98 万起，华为余承东宣布鸿蒙智行尚界 H5 焕新升级款开售](https://m.ithome.com/html/965771.htm)
+
++ [网传 8 家车企整车资质永久失效为不实消息](https://m.ithome.com/html/965673.htm)
+
