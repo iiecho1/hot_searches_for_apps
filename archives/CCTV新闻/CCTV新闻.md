@@ -187,3 +187,11 @@
 
 + [瑞士外交部：美伊会谈19日在比尔根山举行](https://news.cctv.com/2026/06/18/ARTInik1mdj8vjM8660Scy2n260618.shtml)
 
++ [以军已部署在黎巴嫩南部指定区域](https://news.cctv.com/2026/06/18/ARTIskjKwqTV1mhLDh4ydz7y260618.shtml)
+
++ [伊朗战事以来首艘液化天然气船通过霍尔木兹海峡](https://news.cctv.com/2026/06/18/ARTIQgbcCnESjHc2YuW71xYn260618.shtml)
+
++ [伊朗总统发布伊美谅解备忘录完整文件](https://news.cctv.com/2026/06/18/ARTIhtDHY4GdkJDvzk5GHLcu260618.shtml)
+
++ [我使馆：70名被菲方羁押的中国公民已全部获释](https://news.cctv.com/2026/06/18/ARTItc7jUSWQAInLHdnRAZ2O260618.shtml)
+

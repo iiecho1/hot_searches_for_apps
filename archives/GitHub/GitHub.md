@@ -41,3 +41,21 @@
 
 + [makeplane/plane](https://github.com/makeplane/plane)
 
++ [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
+
++ [alibaba/zvec](https://github.com/alibaba/zvec)
+
++ [withastro/flue](https://github.com/withastro/flue)
+
++ [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
+
++ [Kong/insomnia](https://github.com/Kong/insomnia)
+
++ [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+
++ [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+
++ [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
+
++ [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+

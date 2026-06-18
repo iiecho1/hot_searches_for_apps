@@ -147,3 +147,19 @@
 
 + [从零到一：Docker Compose 使用详解，告别手动启动多个容器的痛苦](https://blog.csdn.net/2401_83135864/article/details/162073041)
 
++ [2026三款热门AI Agent：ToDesk AI、扣子、Kimi都用了一遍，说说真实感受](https://blog.csdn.net/weixin_53231455/article/details/162077172)
+
++ [Java动态分析：3个工具，10倍效率，为什么你的线上问题还在“猜谜“？](https://blog.csdn.net/z_344791576/article/details/151896462)
+
++ [智谱 GLM-5.2 开源登顶、科创板向 AI 大模型开门、沪指收复 4100 点](https://blog.csdn.net/weixin_45526015/article/details/162077606)
+
++ [【计算机网络全面教学】网络互联与前沿技术，5G/SDN/零信任到云计算网络Day8（2026年）](https://blog.csdn.net/2501_90715893/article/details/162063793)
+
++ [黑马点评-Redis ZSet-实现关注 Feed 流](https://blog.csdn.net/2302_76756229/article/details/162045479)
+
++ [Prompt 优化](https://blog.csdn.net/qq_51757896/article/details/162078143)
+
++ [轻量级Docker仪表板Servedash](https://blog.csdn.net/wbsu2004/article/details/162043454)
+
++ [MySQL 8.0 实现 JSON 字段全文检索 | ngram 分词支持单字/字母/中英文混合搜索](https://blog.csdn.net/weixin_39960529/article/details/161560293)
+
