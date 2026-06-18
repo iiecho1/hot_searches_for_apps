@@ -167,3 +167,9 @@
 
 + [伊朗方面披露美伊谅解备忘录文本内容](https://news.cctv.com/2026/06/18/ARTIUD7MZjdgPRK4TZPuxRGH260618.shtml)
 
++ [以媒：在美施压下以色列将与叙利亚恢复谈判](https://news.cctv.com/2026/06/18/ARTIVNihuJCgrH86QTm481Kx260618.shtml)
+
++ [巴基斯坦总理：伊朗将重开霍尔木兹海峡 美国将解除海上封锁](https://news.cctv.com/2026/06/18/ARTIwOWxfSESmg2XpDkPayVH260618.shtml)
+
++ [外交部再次提醒赴美加墨观看世界杯中国公民加强安全防范](https://news.cctv.com/2026/06/18/ARTILLpXXI09mRT1yQuMxh1o260618.shtml)
+
