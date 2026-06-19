@@ -25,3 +25,27 @@
 
 + [网传 8 家车企整车资质永久失效为不实消息](https://m.ithome.com/html/965673.htm)
 
++ [小米雷军武汉街头吃热干面被小学生吐槽摆拍意外走红，登上微博热搜](https://m.ithome.com/html/966279.htm)
+
++ [DeepSeek 识图模式正式上线，不认识“老板”梁文锋](https://m.ithome.com/html/966229.htm)
+
++ [12GB 内存组件涨幅 271.79%：苹果 256GB 版 iPhone 18 Pro 售价恐涨 18.2%](https://m.ithome.com/html/966296.htm)
+
++ [《凡人修仙传》陷“全女团队”谣言风波，官方发声明澄清并将追究造谣抹黑者法律责任](https://m.ithome.com/html/966248.htm)
+
++ [我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束](https://m.ithome.com/html/966272.htm)
+
++ [《GTA6》官宣 6 月 25 日开启预购，登陆 PS5 及 XSX|S](https://m.ithome.com/html/966253.htm)
+
++ [《凡人修仙传》动画 177 集、178 集已完成片源替换](https://m.ithome.com/html/966362.htm)
+
++ [德国公司计划进口小米 SU7、YU7、极氪、阿维塔等中国电动汽车，小米官方否认合作并启动法律程序](https://m.ithome.com/html/966227.htm)
+
++ [米哈游 AI 女友陪伴软件“林离 Olivia”上架 Steam：支持 MIDI 上传生成音乐视频，支持桌面动态壁纸](https://m.ithome.com/html/966284.htm)
+
++ [小米单联瑜：米家空调全系 10 年免费加氟，冷媒泄漏量微乎其微](https://m.ithome.com/html/966305.htm)
+
++ [腕上星闪车钥匙：华为 WATCH GT 6 智能手表 46mm 国补后 1588 → 855 元](https://m.ithome.com/html/966246.htm)
+
++ [为防人才流失，消息称 DeepSeek 向潜在投资人提“不挖人”要求](https://m.ithome.com/html/966256.htm)
+

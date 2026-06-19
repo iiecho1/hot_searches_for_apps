@@ -41,3 +41,19 @@
 
 + [一个自用的 golang 的 web 应用要部署到公网，国内哪个云服务最便宜](https://www.v2ex.com/t/1221447)
 
++ [写了个德扑单挑 GTO 机器人，感觉自己已经玩不过它了，求大佬来军训](https://www.v2ex.com/t/1221491)
+
++ [年近 40，继续私企国企怎么选](https://www.v2ex.com/t/1221502)
+
++ [停电之后瞬间又来电我的 NAS 坏了 3 块硬盘，还能抢救吗](https://www.v2ex.com/t/1221483)
+
++ [为啥 V2EX 有时候需要刷新好几次才能正常打开？](https://www.v2ex.com/t/1221485)
+
++ [2000 年 30 几岁的人现在已经 60 岁了](https://www.v2ex.com/t/1221450)
+
++ [佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？](https://www.v2ex.com/t/1221472)
+
++ [有多少 V 友和我一样，公司已经拖欠工资好几个月了？](https://www.v2ex.com/t/1221429)
+
++ [vim 真的好用吗？](https://www.v2ex.com/t/1221499)
+

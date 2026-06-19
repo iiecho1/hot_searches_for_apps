@@ -183,3 +183,11 @@
 
 + [习近平党建思想引发国际社会热议](https://news.cctv.com/2026/06/19/ARTIjNWhjKsMWvaR5XoVF86l260619.shtml)
 
++ [海事情报公司：伊朗过去五天出口约1800万桶原油](https://news.cctv.com/2026/06/19/ARTIa5t45qidQ7RI8KseZhmp260619.shtml)
+
++ [阿富汗称空袭巴境内极端组织藏匿点 巴基斯坦否认](https://news.cctv.com/2026/06/19/ARTICjIYd4rD2gS286FeturT260619.shtml)
+
++ [韩国总统：韩朝所有沟通渠道均已中断](https://news.cctv.com/2026/06/19/ARTItzj8jnH20jxlMYBYq4Ks260619.shtml)
+
++ [韩国前防长因泄露军事机密一审获刑3年](https://news.cctv.com/2026/06/19/ARTIhVq0UVLqTF5rJXatdees260619.shtml)
+

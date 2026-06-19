@@ -105,3 +105,41 @@
 
 + [未发表 基于Matlab模拟城市环境下无人机包裹递送](https://blog.csdn.net/matlab_dingdang/article/details/162060962)
 
++ [AI 编程工具横评：Copilot、Cursor、CodeBuddy 到底哪家强？](https://blog.csdn.net/2301_80795057/article/details/162071325)
+
++ [基于 Harmony 6.0 应用的国画临摹与分享平台首页实现](https://blog.csdn.net/weixin_52908342/article/details/162046843)
+
++ [拆解 HarmonyOS App 底层架构：华为到底重构了什么？](https://blog.csdn.net/qq_36863796/article/details/162070142)
+
++ [从SQL注入到连接泄漏：WinForms ADO.NET的5个致命误区](https://blog.csdn.net/z_344791576/article/details/151896381)
+
++ [我用蓝耘元生代+QClaw搜近三年LLM Agent综述论文,整理出一份能直接进入科研阅读的文献综述](https://blog.csdn.net/2401_87629362/article/details/162077440)
+
++ [HarmonyOS7更新亮点实录2：Accessibility Kit 关怀模式接入与适老化体验升级](https://blog.csdn.net/sjw890821sjw/article/details/162047587)
+
++ [【OpenCV OCR实战】拍照文档识别总是错：透视矫正、二值化、版面分割与Tesseract调参](https://blog.csdn.net/2402_87731470/article/details/162017285)
+
++ [基于层次聚类的UCI动物园数据集分析与实现](https://blog.csdn.net/m0_37758063/article/details/162068163)
+
++ [Qt 操作 Word 文档解决方案](https://blog.csdn.net/qq_25408423/article/details/162053960)
+
++ [云计算三层架构：IaaS、PaaS、SaaS 核心区别、场景与行业趋势](https://blog.csdn.net/qq_45942092/article/details/162051970)
+
++ [Dockerfile 一键构建 Hadoop 镜像](https://blog.csdn.net/hyunbar/article/details/162056617)
+
++ [SpringAI完整学习指南（一）](https://blog.csdn.net/weixin_43552143/article/details/162061592)
+
++ [Oracle - 视图的创建与使用，简化复杂查询并保护数据](https://blog.csdn.net/qq_41187124/article/details/157584170)
+
++ [2026年6月应用人工智能发展报告：从模型能力跃迁到产业落地的全景解析](https://blog.csdn.net/nmdbbzcl/article/details/162078137)
+
++ [从一句图书管理需求到 Spring Boot 工程，飞算 JavaAI 智能引导适合怎么用？](https://blog.csdn.net/LT15171009269/article/details/162057789)
+
++ [Chromium 下载泡泡架构演变与非标准定制化界面（双环Bug）适配实践](https://blog.csdn.net/John_ToStr/article/details/162073499)
+
++ [从零到一：Docker Compose 使用详解，告别手动启动多个容器的痛苦](https://blog.csdn.net/2401_83135864/article/details/162073041)
+
++ [构建你的第二大脑：深度解析本地化 AI 研究助理架构](https://blog.csdn.net/yweng18/article/details/162053799)
+
++ [K8s 调度策略深潜：从 Predicates 到 Score 的决策链路解析](https://blog.csdn.net/m0_50889382/article/details/162065396)
+
