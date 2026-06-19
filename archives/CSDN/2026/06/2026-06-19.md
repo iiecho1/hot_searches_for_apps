@@ -143,3 +143,25 @@
 
 + [K8s 调度策略深潜：从 Predicates 到 Score 的决策链路解析](https://blog.csdn.net/m0_50889382/article/details/162065396)
 
++ [Context工程：从全量塞入到智能记忆管理](https://blog.csdn.net/2301_79289774/article/details/162045872)
+
++ [Agent 时代，OCR 认字够用了吗？?xParse、PaddleOCR、MinerU三款工具横评](https://blog.csdn.net/air__Heaven/article/details/162059824)
+
++ [OpenClaw 会话管理：状态追踪与上下文深度解析](https://blog.csdn.net/sinat_41617212/article/details/162121018)
+
++ [【鸿蒙PC-Qt实战案例】从零自研一个 Qt 应用并交叉编译到鸿蒙 PC：IronLog 健身记录实战](https://blog.csdn.net/weixin_52258054/article/details/162065819)
+
++ [从 SQL 到 Restful API（上）：数据接口快速生成的核心原理](https://blog.csdn.net/ylguoguo6666/article/details/162074688)
+
++ [吴恩达《深度学习》之拆解CNN的空间游戏](https://blog.csdn.net/m0_74435839/article/details/162055113)
+
++ [【 苍穹外卖day4 | 套餐管理接口实现 】](https://blog.csdn.net/2502_94242477/article/details/162071809)
+
++ [国产数据库2026：一场从“单点突破“走向“融合共生“的演进](https://blog.csdn.net/user340/article/details/162099137)
+
++ [基于深度学习的目标跟踪综述（A review of object tracking based on deep learningq）](https://blog.csdn.net/2301_78173237/article/details/162057195)
+
++ [Unity Shader 动态森林效果的幕后—— 地面球面化弧度](https://blog.csdn.net/mxwin/article/details/162065629)
+
++ [云腾五洲TA800物联网边缘计算盒子，基于OpenClaw研发](https://blog.csdn.net/IoTSchool/article/details/162071209)
+

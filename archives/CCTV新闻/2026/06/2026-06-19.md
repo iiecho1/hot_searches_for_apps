@@ -191,3 +191,15 @@
 
 + [韩国前防长因泄露军事机密一审获刑3年](https://news.cctv.com/2026/06/19/ARTIhVq0UVLqTF5rJXatdees260619.shtml)
 
++ [以官员称以色列与黎巴嫩真主党已处于停火状态](https://news.cctv.com/2026/06/19/ARTIBEyz2wHLCndObWEJR71B260619.shtml)
+
++ [伊朗谴责以色列持续袭击黎巴嫩 称美国负有直接责任](https://news.cctv.com/2026/06/19/ARTIy4Po4ztQv9Ago6BbiH7D260619.shtml)
+
++ [美官员称以色列与黎巴嫩真主党已同意停火](https://news.cctv.com/2026/06/19/ARTIIqAvmFK5TQAy5cL9k9bP260619.shtml)
+
++ [鼓点铿锵　粽香万里——赛龙舟等端午活动在多国展开](https://news.cctv.com/2026/06/19/ARTIk2dAC5dSV2tjjrFmzPQp260619.shtml)
+
++ [“下次见”：美国夏威夷师生访华收获友谊与新知](https://news.cctv.com/2026/06/19/ARTIb2DszcNJhSE9zoLFeJ0u260619.shtml)
+
++ [伊朗宣布霍尔木兹海峡通行新规：须提前48小时提交申请](https://news.cctv.com/2026/06/19/ARTInmZvkceayq97hI8knWmh260619.shtml)
+

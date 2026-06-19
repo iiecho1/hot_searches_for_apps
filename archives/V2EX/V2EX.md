@@ -57,3 +57,5 @@
 
 + [vim 真的好用吗？](https://www.v2ex.com/t/1221499)
 
++ [目前海外 esim 手机号在国内，哪个最好？](https://www.v2ex.com/t/1221525)
+

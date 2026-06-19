@@ -35,3 +35,17 @@
 
 + [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)
 
++ [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+
++ [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
++ [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
++ [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+
++ [chopratejas/headroom](https://github.com/chopratejas/headroom)
+
++ [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
++ [penpot/penpot](https://github.com/penpot/penpot)
+
