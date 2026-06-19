@@ -67,3 +67,5 @@
 
 + [Stellar-Marionette 提线木偶](https://m.acfun.cn/v/?ac=48620923)
 
++ [左手圣经右手沙鹰，昆汀如何搭建一个“低俗世界”？《低俗小说》详解（上篇）](https://m.acfun.cn/v/?ac=48623816)
+
