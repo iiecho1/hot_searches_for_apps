@@ -167,3 +167,19 @@
 
 + [黎巴嫩总统：本轮冲突致黎近18%国土受损](https://news.cctv.com/2026/06/19/ARTIQzhtKQmOfv615TC7N4UE260619.shtml)
 
++ [视频丨日本小学火灾致11人受伤 大火基本被扑灭](https://news.cctv.com/2026/06/19/ARTIQ5PLMYLtiqC7hcbPC3ld260619.shtml)
+
++ [瑞士外交部证实美伊会谈取消](https://news.cctv.com/2026/06/19/ARTIcQIlP3mxm0UwX0HltDQS260619.shtml)
+
++ [日本一小学发生火灾 约300名学生被疏散](https://news.cctv.com/2026/06/19/ARTIjM6cHgEAZcEdAasXmCd5260619.shtml)
+
++ [伊朗称若美国违反谅解备忘录将坚决反制](https://news.cctv.com/2026/06/19/ARTIR9IaiEOGegXwpr8Azh3x260619.shtml)
+
++ [美防长敲打部分北约盟友：军费还应上涨](https://news.cctv.com/2026/06/19/ARTIHhBFf0vcMRTPpfASNEos260619.shtml)
+
++ [伯纳姆赢得议会补选 或将挑战英首相职位](https://news.cctv.com/2026/06/19/ARTIl8w9y1VeuSkPv3pxl0N4260619.shtml)
+
++ [美联储货币政策风向更趋鹰派 金银价格大跌](https://news.cctv.com/2026/06/19/ARTIz2MIuzPUbGQ7ponxOjt2260619.shtml)
+
++ [习近平党建思想引发国际社会热议](https://news.cctv.com/2026/06/19/ARTIjNWhjKsMWvaR5XoVF86l260619.shtml)
+

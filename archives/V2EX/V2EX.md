@@ -21,3 +21,23 @@
 
 + [开奶茶店的经历（二）](https://www.v2ex.com/t/1221299)
 
++ [你们用啥 ai 编程工具可以当生产力?](https://www.v2ex.com/t/1221329)
+
++ [[送码] 成功把 iCloud 空间省出了 190GB](https://www.v2ex.com/t/1221332)
+
++ [我是不是不适合炒股?](https://www.v2ex.com/t/1221362)
+
++ [问个合同到期公司不续签问题](https://www.v2ex.com/t/1221326)
+
++ [端午节快乐！求推荐高质量 VPS 线路](https://www.v2ex.com/t/1221493)
+
++ [我司为了强制使用 AI 开发实施的新的绩效考核办法，博诸君一笑](https://www.v2ex.com/t/1221368)
+
++ [发现 windsurf 上的国产最新最强模型都是免费了。如 glm-5.2, kimi-2.7 等](https://www.v2ex.com/t/1221375)
+
++ [MD Preview 全平台上线：一个给 AI 生成 Markdown 文档用的本地预览器](https://www.v2ex.com/t/1221330)
+
++ [目前 glm 的 coding plan 抢不到，还有哪些大厂的含有 glm5.2 的套餐值得买的？](https://www.v2ex.com/t/1221398)
+
++ [一个自用的 golang 的 web 应用要部署到公网，国内哪个云服务最便宜](https://www.v2ex.com/t/1221447)
+
