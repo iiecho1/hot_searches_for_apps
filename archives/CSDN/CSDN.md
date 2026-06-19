@@ -137,3 +137,7 @@
 
 + [【滤波跟踪】基于KEF的参数估计，非线性系统的LQR控制器设计附matlab代码](https://blog.csdn.net/qq_59747472/article/details/162061123)
 
++ [HarmonyOS 鸿蒙原生应用调用 C/C++ 三方库 —— NAPI 开发完整指南](https://blog.csdn.net/qq8864/article/details/162080946)
+
++ [Maven System Scope 依赖在 Spring Boot 打包后类找不到的问题排查与解决](https://blog.csdn.net/Mr__Miss/article/details/162071015)
+

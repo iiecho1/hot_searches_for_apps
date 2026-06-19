@@ -21,3 +21,5 @@
 
 + [GitHub copilot 重新恢复订阅了](https://www.v2ex.com/t/1221510)
 
++ [用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad](https://www.v2ex.com/t/1221570)
+
