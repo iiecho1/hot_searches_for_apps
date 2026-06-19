@@ -99,3 +99,35 @@
 
 + [2026 国内分析型数据仓库性价比横评：AnalyticDB MySQL vs Doris vs ClickHouse vs StarRocks](https://blog.csdn.net/Database_Cool_/article/details/162070658)
 
++ [AI 原生 IDE：主流编程智能体选型对比指南（2026）](https://blog.csdn.net/ChailangCompany/article/details/162056509)
+
++ [AI动态简报之技术前沿篇（2026.06.17）](https://blog.csdn.net/aibridge/article/details/162058265)
+
++ [ChatGPT/DeepSeek/Gemini/ 豆包 / ToDesk AI 横评：谁才是办公全能助手？](https://blog.csdn.net/2502_91499791/article/details/162118163)
+
++ [【EA电池SPM参数化】Matlab构建的简化单粒子SPM电化学模型，ESP，SP，包含测试数据，参数辨识代码以及验证的简化电化学模型P2D，锂离子电池，降阶电化学模型](https://blog.csdn.net/2301_77414277/article/details/162057442)
+
++ [AI智能体与编程工具能力边界分析及选型报告](https://blog.csdn.net/weiliaocizhang/article/details/162074243)
+
++ [MySQL定时事件）EVENT 应用总结](https://blog.csdn.net/zhping1011/article/details/162055294)
+
++ [KES 数据库 PDML 并行技术实操：从单核瓶颈到多核跑批](https://blog.csdn.net/weixin_42878111/article/details/162101209)
+
++ [Elasticsearch 如何通过在复制后移除序列号，将指标存储减少 41%](https://blog.csdn.net/UbuntuTouch/article/details/162009507)
+
++ [豆包，你如何看最近无名科技发布飞跃雷区报名人数少，容易拿国奖的视频](https://blog.csdn.net/zhuoqingjoking97298/article/details/162127181)
+
++ [GPT-5.6发布在即与OpenAI IPO倒计时：150万Token上下文与万亿美元估值的双重赌注](https://blog.csdn.net/xyghehehehe/article/details/162054017)
+
++ [嵌入式硬件开发：CK6865L 蓝牙灯控 SOC 在星空灯舞台灯中的应用与选型对比](https://blog.csdn.net/qulia0818/article/details/162063183)
+
++ [鸿蒙卡片为什么是 Flutter 项目做系统级触达的关键](https://blog.csdn.net/weixin_39706922/article/details/162056371)
+
++ [Linux Pulseaudio深度解析之pa_context_get_module_info_list调用流程与实战(六十五)](https://blog.csdn.net/u010164190/article/details/161913971)
+
++ [【花雕学编程】Arduino BLDC 之多目标识别的选择性跟随机器人](https://blog.csdn.net/weixin_41659040/article/details/162053776)
+
++ [Linux 运维命令速查大全：X86/ARM 通用，深度适配麒麟/Ubuntu/CentOS/红帽](https://blog.csdn.net/slyn_2004/article/details/162053819)
+
++ [Memcache 深度解析](https://blog.csdn.net/weixin_46004749/article/details/162061312)
+

@@ -161,3 +161,7 @@
 
 + [美副总统：霍尔木兹海峡将“长期开放、免费通行”](https://news.cctv.com/2026/06/15/ARTIzP5vnrVL7y2oX1GEWeoc260615.shtml)
 
++ [国际原子能机构：扎波罗热核电站主输电线路开始维修](https://news.cctv.com/2026/06/20/ARTIxnCAHOku23eMBuVnrLo6260620.shtml)
+
++ [泰国告知柬埔寨就重叠海域问题强制调解程序人员安排](https://news.cctv.com/2026/06/20/ARTIqDMYU9MMSh7MTOxLM7EP260620.shtml)
+
