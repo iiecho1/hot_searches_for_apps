@@ -131,3 +131,9 @@
 
 + [Memcache 深度解析](https://blog.csdn.net/weixin_46004749/article/details/162061312)
 
++ [Cursor太贵？我把MonkeyCode部署到服务器后，整个团队都能用AI编程了](https://blog.csdn.net/user340/article/details/162116587)
+
++ [区块链技术：源网荷储分布式信任机制](https://blog.csdn.net/zhuhai_xigedian/article/details/162061965)
+
++ [【滤波跟踪】基于KEF的参数估计，非线性系统的LQR控制器设计附matlab代码](https://blog.csdn.net/qq_59747472/article/details/162061123)
+
