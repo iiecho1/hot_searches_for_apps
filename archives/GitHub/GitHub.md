@@ -31,3 +31,21 @@
 
 + [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
 
++ [tursodatabase/turso](https://github.com/tursodatabase/turso)
+
++ [twentyhq/twenty](https://github.com/twentyhq/twenty)
+
++ [tw93/Pake](https://github.com/tw93/Pake)
+
++ [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+
++ [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+
++ [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
+
++ [1jehuang/jcode](https://github.com/1jehuang/jcode)
+
