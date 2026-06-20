@@ -35,3 +35,11 @@
 
 + [好难受, 现在是不是 GLM 最适合我了](https://www.v2ex.com/t/1221559)
 
++ [问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？](https://www.v2ex.com/t/1221614)
+
++ [没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。](https://www.v2ex.com/t/1221598)
+
++ [codex 和 cc 那个更好用些？](https://www.v2ex.com/t/1221550)
+
++ [iPhone17 凌晨异常使用蜂窝数据欠费 500 多](https://www.v2ex.com/t/1221604)
+

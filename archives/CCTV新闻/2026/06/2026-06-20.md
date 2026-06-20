@@ -179,3 +179,11 @@
 
 + [英媒：又一名内阁大臣敦促首相斯塔默离任](https://news.cctv.com/2026/06/20/ARTIUe2LH05VxRDfFgCStFtP260620.shtml)
 
++ [玻利维亚总统宣布进入国家紧急状态](https://news.cctv.com/2026/06/20/ARTIY41przULctK4R3JDQiLU260620.shtml)
+
++ [澳大利亚大陆首次检出高致病性H5型禽流感病毒](https://news.cctv.com/2026/06/20/ARTIkizKFsLGo58tG8JdIVK3260620.shtml)
+
++ [以色列袭击黎巴嫩南部奈拜提耶](https://news.cctv.com/2026/06/20/ARTI7YRLVgBFfoaccmO3kyrm260620.shtml)
+
++ [巴拿马籍船只被证实在黑海遇袭](https://news.cctv.com/2026/06/20/ARTIoN4GWabFl1auyY63LfPZ260620.shtml)
+
