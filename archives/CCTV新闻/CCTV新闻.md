@@ -175,3 +175,7 @@
 
 + [美国一空军基地暴发流感 已有超160人感染](https://news.cctv.com/2026/06/20/ARTI4ApVyBz0CwojsyJwvOXr260620.shtml)
 
++ [五角大楼或需800亿美元为伊朗战事“埋单”](https://news.cctv.com/2026/06/20/ARTIvdaeBmcZgVsAdXC0jPQB260620.shtml)
+
++ [英媒：又一名内阁大臣敦促首相斯塔默离任](https://news.cctv.com/2026/06/20/ARTIUe2LH05VxRDfFgCStFtP260620.shtml)
+

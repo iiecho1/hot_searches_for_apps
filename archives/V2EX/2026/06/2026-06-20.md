@@ -23,3 +23,15 @@
 
 + [用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad](https://www.v2ex.com/t/1221570)
 
++ [一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒](https://www.v2ex.com/t/1221581)
+
++ [来说说🪜的客户端](https://www.v2ex.com/t/1221607)
+
++ [小散不要炒个股不要盯盘不要做 T](https://www.v2ex.com/t/1221533)
+
++ [请教一下 VIM 怎么做到类似 idea ide 一样识别函数，自动跳转，查看引用？](https://www.v2ex.com/t/1221563)
+
++ [GLM5.2 个人感觉有点被吹大了](https://www.v2ex.com/t/1221519)
+
++ [好难受, 现在是不是 GLM 最适合我了](https://www.v2ex.com/t/1221559)
+
