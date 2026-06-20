@@ -49,3 +49,19 @@
 
 + [国内首例：垣信卫星实现无改造手机直连卫星通话，通话质量比肩 5G](https://m.ithome.com/html/966433.htm)
 
++ [铁路 12306 显示无票乘车时却发现有空座？票务专家回应](https://m.ithome.com/html/966356.htm)
+
++ [江苏发放手机消费专项补贴：6000 元以上也补 10%，最高 1000 元](https://m.ithome.com/html/966347.htm)
+
++ [无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等](https://m.ithome.com/html/966288.htm)
+
++ [奖金差距逼近 100 倍：三星内部矛盾激化，部分员工身着黑衣集体抗议](https://m.ithome.com/html/966322.htm)
+
++ [福耀科技大学校长王树国谈院系自负盈亏：自己都养活不了，说明没真本事](https://m.ithome.com/html/966382.htm)
+
++ [鸿蒙智行：问界 M6 纯电 Max+/Max 版预计 7 月下旬开启交付](https://m.ithome.com/html/966310.htm)
+
++ [“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，苹果与 Marvell 预计将成为 A14 首批客户](https://m.ithome.com/html/966368.htm)
+
++ [72KM 长续航：立马莱米电动摩托车 1398 元新低，铅酸电池 72V20Ah](https://m.ithome.com/html/966365.htm)
+

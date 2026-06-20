@@ -49,3 +49,9 @@
 
 + [航班因乘客违规使用充电宝迫降，此人是不是这辈子就差不多了？](https://www.v2ex.com/t/1221647)
 
++ [Vibe Coding 了两年，分享一下我对于 Vibe 的感想。](https://www.v2ex.com/t/1221657)
+
++ [MIMO 测试我的生图 Skill，随口一句测试要求生成“极简图片”，居然生成的是日本国旗。。。](https://www.v2ex.com/t/1221610)
+
++ [[陈恳求助] 现在能买的 VPS 线路有哪些](https://www.v2ex.com/t/1221665)
+

@@ -187,3 +187,5 @@
 
 + [巴拿马籍船只被证实在黑海遇袭](https://news.cctv.com/2026/06/20/ARTIoN4GWabFl1auyY63LfPZ260620.shtml)
 
++ [伊朗军方宣布关闭霍尔木兹海峡](https://news.cctv.com/2026/06/20/ARTIaMGaCUO2CmmxTS7luZVU260620.shtml)
+
