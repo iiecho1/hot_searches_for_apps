@@ -43,3 +43,7 @@
 
 + [iPhone17 凌晨异常使用蜂窝数据欠费 500 多](https://www.v2ex.com/t/1221604)
 
++ [我明明选的是 GLM-4.7，他告诉我他是 Claude。](https://www.v2ex.com/t/1221642)
+
++ [刚转行做猎头，你们最想在招聘信息里面看到什么？](https://www.v2ex.com/t/1221582)
+

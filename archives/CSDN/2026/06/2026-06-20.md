@@ -191,3 +191,27 @@
 
 + [Linux 搭建及配置 DNS 服务器 — 实操指南](https://blog.csdn.net/cpyaxjq/article/details/162078016)
 
++ [【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从MNIST到自定义神经网络框架:把PyTorch2.0的训练流程真正拆开)](https://blog.csdn.net/2401_87629362/article/details/161960094)
+
++ [HBM一芯难求，HBF横空出世：AI存储的下一个千亿风口？](https://blog.csdn.net/superdangbo/article/details/162143683)
+
++ [面向 AI 数据工程的数据获取工具测评：代理、采集 API 与数据集怎么选](https://blog.csdn.net/weixin_51390582/article/details/162095320)
+
++ [【.NET进阶】async_await封装HTTP异步API请求完整版（含Postman调试脚本+避坑指南+流程图）](https://blog.csdn.net/William_cl/article/details/162148948)
+
++ [Redis - 数据分布优化：如何应对数据倾斜](https://blog.csdn.net/yangshangwei/article/details/162143199)
+
++ [2026免费AI数字人制作软件推荐｜实测10款工具，新手商用双向适配](https://blog.csdn.net/BBsays/article/details/162077967)
+
++ [YOLO26中的语义分割](https://blog.csdn.net/fengbingchun/article/details/162141269)
+
++ [Flink词频统计实战[Java版]](https://blog.csdn.net/howard2005/article/details/162107701)
+
++ [【共创季稿事节】HarmonyOS7 互动卡片开发实践：音乐卡片收藏状态如何同步到所有卡片](https://blog.csdn.net/qq_33681891/article/details/162140970)
+
++ [为什么你的 Elasticsearch 集群触发了磁盘水位线：14 个真实世界原因解析](https://blog.csdn.net/UbuntuTouch/article/details/162141601)
+
++ [企业80㎡高端会议室音视频设备选型、搭配与施工落地教程](https://blog.csdn.net/Lvyy123890/article/details/162076058)
+
++ [【全套方案】2026现代化全屋智能家居一体化解决方案（开源本地部署+分层架构+场景联动）](https://blog.csdn.net/qq_28028013/article/details/162146547)
+
