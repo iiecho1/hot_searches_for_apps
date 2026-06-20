@@ -97,3 +97,27 @@
 
 + [内存管理：掌控对象的诞生与销毁](https://blog.csdn.net/2502_93816203/article/details/162102218)
 
++ [LangChain vs LlamaIndex：RAG 架构选型的工程化评估与决策框架](https://blog.csdn.net/weixin_43272162/article/details/162153298)
+
++ [浏览器端 AI 推理：WebAssembly 插件架构设计与实战](https://blog.csdn.net/no1coder/article/details/162153208)
+
++ [【CV】自监督DINOv3算法](https://blog.csdn.net/qq_35812205/article/details/162151392)
+
++ [Solidity 安全审计实战：从重入漏洞到形式化验证的纵深防御体系](https://blog.csdn.net/qq_40635035/article/details/162153177)
+
++ [QOJ介绍](https://blog.csdn.net/dllglvzhenfeng/article/details/162141914)
+
++ [HarmonyOS 游戏 ECS 架构详解：为什么 Entity 不应该拥有逻辑？](https://blog.csdn.net/qq_36478920/article/details/162142062)
+
++ [MarkText：一款被低估的开源 Markdown 编辑器](https://blog.csdn.net/weixin_44002151/article/details/162152398)
+
++ [记录无人机输出到电机的数据计算](https://blog.csdn.net/daad777/article/details/162123101)
+
++ [5.4 AMD KFD SVM：完整的双向迁移实现](https://blog.csdn.net/shenjunpeng/article/details/161461220)
+
++ [Error response from daemon: failed to resolve reference “docker.io/langgenius/dify-api:1](https://blog.csdn.net/weixin_55110774/article/details/162148865)
+
++ [11.Flutter Web与Unity WebGL演示集成](https://blog.csdn.net/2501_90361469/article/details/162153215)
+
++ [UniApp 跨端开发深度实战：从架构设计到性能优化全解析](https://blog.csdn.net/bistu_dky/article/details/162139791)
+
