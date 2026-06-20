@@ -25,3 +25,7 @@
 
 + [国内首例：垣信卫星实现无改造手机直连卫星通话，通话质量比肩 5G](https://m.ithome.com/html/966433.htm)
 
++ [小鹏回应网传“L3 必须双冗余、L4 必须加激光雷达”：都是假新闻](https://m.ithome.com/html/966515.htm)
+
++ [本田推出纯电“小钢炮”Super-N：最快 10 秒破百，不到 1.9 万英镑](https://m.ithome.com/html/966542.htm)
+
