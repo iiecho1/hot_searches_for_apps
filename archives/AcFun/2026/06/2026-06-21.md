@@ -61,3 +61,7 @@
 
 + [T-ara No.9](https://m.acfun.cn/v/?ac=48626035)
 
++ [【Dina小崽】吃粽子了吗~端午安康！](https://m.acfun.cn/v/?ac=48625712)
+
++ [【绝望女神/翻唱】【G高达 OP2 Trust You Forever】](https://m.acfun.cn/v/?ac=48627737)
+
