@@ -145,3 +145,37 @@
 
 + [【2026辽宁省大学生数学建模竞赛】A题：辽宁冬季冰雪道路图像重构的智能增强 满分高阶解题思路与论文构架（全网独家纯逻辑解析篇）](https://blog.csdn.net/qq_40379132/article/details/162146354)
 
++ [OpenClaw ACP模式：代理通信协议深度解析](https://blog.csdn.net/sinat_41617212/article/details/162163093)
+
++ [算子融合的编译器哲学：AI 推理引擎如何消除内存带宽瓶颈](https://blog.csdn.net/2301_81410839/article/details/162153121)
+
++ [Docker 镜像瘦身与安全加固：从 1GB 到 50MB 的生产级实战](https://blog.csdn.net/qwe0iop0/article/details/162153266)
+
++ [【HarmonyOS 6.0】MDM Kit：面向PC/2in1设备的重启自动解锁能力解析](https://blog.csdn.net/weixin_74809706/article/details/161962304)
+
++ [自适应限流：基于 Go 原生滑动预估与补偿的动态令牌桶算法](https://blog.csdn.net/m0_50889382/article/details/162153200)
+
++ [AI 产品设计：如何面对概率性输出](https://blog.csdn.net/weixin_63764436/article/details/162153204)
+
++ [Re：Linux系统篇（三十四）文件篇·七：Linux环境下的动静态库制作、打包交付与运行加载全方案指南](https://blog.csdn.net/Z2314246476/article/details/161818138)
+
++ [asyncio 调优实战：从事件循环阻塞到万级并发的性能突围](https://blog.csdn.net/2401_87746054/article/details/162153149)
+
++ [Oracle - 存储过程的创建与调用，实现代码复用](https://blog.csdn.net/qq_41187124/article/details/157584293)
+
++ [内核旁路与零拷贝：高并发场景下网络协议栈的性能突围](https://blog.csdn.net/iymei4986533030/article/details/162153145)
+
++ [Linux系统篇（六）：文件 IO 深度剖析：从标准流、系统调用到内核底层全貌拆解](https://blog.csdn.net/2502_94387000/article/details/162146970)
+
++ [医疗机器人：手术导航与康复外骨骼的控制策略——安全性、精度与法规的三重奏](https://blog.csdn.net/u014727709/article/details/162164387)
+
++ [Flink词频统计实战[Scala版]](https://blog.csdn.net/howard2005/article/details/162139917)
+
++ [【AVRCP】规范精讲[31]：未激活播放器被移除，整套信令流程与异常处理全解](https://blog.csdn.net/weixin_37800531/article/details/162047141)
+
++ [2026深度实测｜Copilot平价替代全测评，无短板AI编程工具迁移实录](https://blog.csdn.net/2501_91470245/article/details/162153000)
+
++ [GPT-5.5 底层架构测评：对比 GPT-4o 提升点、幻觉抑制、超长文档解析真实表现](https://blog.csdn.net/quitezz/article/details/162149721)
+
++ [H5水果机游戏平台源码基于Swoole+PHP的游戏架构与落地实践](https://blog.csdn.net/qq_39370007/article/details/162150845)
+
