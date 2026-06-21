@@ -179,3 +179,19 @@
 
 + [H5水果机游戏平台源码基于Swoole+PHP的游戏架构与落地实践](https://blog.csdn.net/qq_39370007/article/details/162150845)
 
++ [AI 写作、智能问答、数据分析在 OA 系统中的应用前景](https://blog.csdn.net/zhouzhongyan/article/details/162166216)
+
++ [用网页采集 API 简化数据提取：从传统爬虫到结构化 JSON](https://blog.csdn.net/weixin_51484460/article/details/162164989)
+
++ [LAC容器化授权困境（下篇）：K8s环境下的授权锚定实战](https://blog.csdn.net/qq_32682301/article/details/162168763)
+
++ [在鸿蒙PC上跑rust的brotli 实现数据压缩](https://blog.csdn.net/DecorateCC/article/details/162163618)
+
++ [【深度解析】GLM 5.2开源大模型能力拆解：长上下文、前端生成与Python评测实战](https://blog.csdn.net/weixin_45888077/article/details/162153969)
+
++ [用Codex做PPT，我把5个最火的Skill全试了一遍](https://blog.csdn.net/ai929790/article/details/162150377)
+
++ [Linux系统篇（七）：吃透 Linux 重定向底层：从文件描述符到 VFS 缓冲全链路拆解](https://blog.csdn.net/2502_94387000/article/details/162172016)
+
++ [【苍穹外卖 day05-2 | Redis在项目中的应用】](https://blog.csdn.net/2502_94242477/article/details/162174562)
+
