@@ -99,3 +99,9 @@
 
 + [Prompt 工程在 Agent 工作流中的设计原则](https://blog.csdn.net/specter__/article/details/162165461)
 
++ [YOLO系列目标检测数据集大全【第四十期】](https://blog.csdn.net/zhiqingAI/article/details/162176762)
+
++ [Nginx-rsync](https://blog.csdn.net/m0_61787196/article/details/162174644)
+
++ [Redis 与 MySQL 深度优化与选型：从存储引擎到查询性能的系统性调优](https://blog.csdn.net/dicky_zhang3/article/details/162165869)
+
