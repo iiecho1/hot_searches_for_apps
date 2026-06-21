@@ -161,3 +161,13 @@
 
 + [德国拟斥资160亿欧元用于无人机防御](https://news.cctv.com/2026/06/17/ARTIoeLLTAtwzGExBlDceoKA260617.shtml)
 
++ [消息人士称美伊谈判仍处于暂停状态](https://news.cctv.com/2026/06/22/ARTIh56n45KMRaFRGwF4XURn260622.shtml)
+
++ [伊朗谈判团队成员称伊石油制裁豁免草案已敲定](https://news.cctv.com/2026/06/22/ARTIg8XWUVc1dPUQBBohe0B8260622.shtml)
+
++ [黎巴嫩卫生部：以色列袭击已致4106人死亡](https://news.cctv.com/2026/06/22/ARTIRKMYzlIDBkC012G95KqJ260622.shtml)
+
++ [以总理称以军将根据需要继续驻留黎巴嫩南部](https://news.cctv.com/2026/06/22/ARTIxdaCPv5sdv4HFS5xWX01260622.shtml)
+
++ [英媒：四面楚歌 斯塔默着手制定下台时间表](https://news.cctv.com/2026/06/22/ARTIgG9wZcY0TDcZx84CiFqV260622.shtml)
+
