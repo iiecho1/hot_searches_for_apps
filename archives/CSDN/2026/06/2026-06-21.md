@@ -195,3 +195,15 @@
 
 + [【苍穹外卖 day05-2 | Redis在项目中的应用】](https://blog.csdn.net/2502_94242477/article/details/162174562)
 
++ [【AI智能体】Codex 基于Git 实现项目管理实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/161745462)
+
++ [基于 Harmony 6.0 应用的宝宝成长记录应用首页实现](https://blog.csdn.net/weixin_52908342/article/details/162154601)
+
++ [OHOS NES Game —— 移植infoNES模拟器到鸿蒙PC平台详解](https://blog.csdn.net/qq8864/article/details/162175035)
+
++ [轻规划鸿蒙开发战20：一多架构下 ArkUI 原生弹性动效（Spring Curve）与翻牌器组件的重力物理碰撞渲](https://blog.csdn.net/sjw890821sjw/article/details/162175651)
+
++ [用 Flutter 打造多 Agent 协作的 AI 助理 App —— personal-agent-app 项目全解析](https://blog.csdn.net/2301_81319166/article/details/162175744)
+
++ [Prompt 工程在 Agent 工作流中的设计原则](https://blog.csdn.net/specter__/article/details/162165461)
+
