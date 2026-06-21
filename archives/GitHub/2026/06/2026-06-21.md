@@ -35,3 +35,21 @@
 
 + [1jehuang/jcode](https://github.com/1jehuang/jcode)
 
++ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+
++ [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
++ [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
++ [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+
++ [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
+
++ [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
+
++ [topoteretes/cognee](https://github.com/topoteretes/cognee)
+
++ [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
++ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
