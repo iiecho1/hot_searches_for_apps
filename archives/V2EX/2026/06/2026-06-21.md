@@ -23,3 +23,9 @@
 
 + [问一下大家，为什么 Outlook 邮箱那么不受待见？](https://www.v2ex.com/t/1221638)
 
++ [针对同一问题， Claude 和 Gemini 的实践对比。](https://www.v2ex.com/t/1221666)
+
++ [New Siri 真的有电子围栏了吗](https://www.v2ex.com/t/1221631)
+
++ [Android 电视盒子有什么值得推荐安装的 apk？](https://www.v2ex.com/t/1221639)
+

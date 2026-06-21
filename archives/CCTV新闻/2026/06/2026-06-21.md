@@ -173,3 +173,5 @@
 
 + [一架无人机在伊拉克国民议会议长住所附近坠毁](https://news.cctv.com/2026/06/21/ARTI4YebcKkczKKnPSXI8FF9260621.shtml)
 
++ [中国公民免签前往柬埔寨，这些事项需注意](https://news.cctv.com/2026/06/21/ARTIQ4Zm5MfBBmuAcWldyrUe260621.shtml)
+

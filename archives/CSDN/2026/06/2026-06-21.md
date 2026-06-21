@@ -121,3 +121,27 @@
 
 + [UniApp 跨端开发深度实战：从架构设计到性能优化全解析](https://blog.csdn.net/bistu_dky/article/details/162139791)
 
++ [云原生指纹浏览器集群：基于 K8s 的弹性调度与资源隔离架构](https://blog.csdn.net/cui_yonghua/article/details/162162561)
+
++ [独立产品智能化：从零搭建 AI 驱动的用户引导系统](https://blog.csdn.net/weixin_49475940/article/details/162153199)
+
++ [大模型应用后端底座：高并发请求调度与资源隔离的工程实践](https://blog.csdn.net/dicky_zhang3/article/details/162153230)
+
++ [Spring AI 2.0 在结构化输出（Structured Output）方面提供了什么新特性？请说明其具体作用和使用方式。](https://blog.csdn.net/caoli201314/article/details/162141857)
+
++ [基于PID控制的5艘无人艇分布式围捕编队运动仿真（Matlab代码实现）](https://blog.csdn.net/Yan_she_He/article/details/162155118)
+
++ [五艘无人艇分布式围捕编队控制仿真研究（Matlab代码实现）](https://blog.csdn.net/2301_77414277/article/details/162156106)
+
++ [[SpringCloud] OpenFeign 微服务通信快速上手](https://blog.csdn.net/Boop_wu/article/details/162144525)
+
++ [TCP 协议底层原理与 Wireshark 抓包实战：三次握手、四次挥手与异常场景全解析](https://blog.csdn.net/2301_81401822/article/details/162150310)
+
++ [微信群里讲半天，不如一张Excalidraw草图来得快](https://blog.csdn.net/Pocker_Spades_A/article/details/162150816)
+
++ [漏检率从23%降至1.3%：YOLOv8交通车辆计数与违章识别完整落地方案](https://blog.csdn.net/shanwei_spider/article/details/162150276)
+
++ [微信小程序没人用？8个方法让UV从0涨到10000](https://blog.csdn.net/UV_UV_UV/article/details/162151601)
+
++ [【2026辽宁省大学生数学建模竞赛】A题：辽宁冬季冰雪道路图像重构的智能增强 满分高阶解题思路与论文构架（全网独家纯逻辑解析篇）](https://blog.csdn.net/qq_40379132/article/details/162146354)
+
