@@ -35,3 +35,17 @@
 
 + [mattpocock/skills](https://github.com/mattpocock/skills)
 
++ [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+
++ [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
++ [garrytan/gstack](https://github.com/garrytan/gstack)
+
++ [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+
++ [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+
++ [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+
++ [lyogavin/airllm](https://github.com/lyogavin/airllm)
+

@@ -187,3 +187,29 @@
 
 + [瑞典时隔40多年再建反应堆 北欧核电迎复苏潮](https://news.cctv.com/2026/06/22/ARTIq2UGTRw3LxzAxOPKqhi3260622.shtml)
 
++ [美联储前主席格林斯潘去世](https://news.cctv.com/2026/06/22/ARTI4ZmtDT4uDWbQNSM7myjj260622.shtml)
+
++ [日本本轮核污染水排放量近8000吨](https://news.cctv.com/2026/06/22/ARTIzehIDNR3iINV3v3R0Kdb260622.shtml)
+
++ [英国改革党领导人要求举行议会选举](https://news.cctv.com/2026/06/22/ARTIO0xeQvvhGMRO2A9QYDqR260622.shtml)
+
++ [阿富汗发生5.2级地震，震源深度200千米](https://news.cctv.com/2026/06/22/ARTIzn9IUjKMKSX03HNpaPXr260622.shtml)
+
++ [菲律宾警方称校园枪击事件已致3死7伤](https://news.cctv.com/2026/06/22/ARTIU92k5YZqsnu9JmYKhfDX260622.shtml)
+
++ [韩国总统李在明施政差评率首次反超好评率](https://news.cctv.com/2026/06/22/ARTI9ZmS3YuSlw52WEUEmB5j260622.shtml)
+
++ [波兰一工业厂房起火 暂无人员伤亡](https://news.cctv.com/2026/06/22/ARTIP11b4hLl5yJvbDNFWf33260622.shtml)
+
++ [英国首相斯塔默宣布辞职](https://news.cctv.com/2026/06/22/ARTIOOdmpxr3lyAXTRJnX923260622.shtml)
+
++ [以安全部长声称整个黎巴嫩都是以色列的“游乐场”](https://news.cctv.com/2026/06/22/ARTIMqY6WN5Li5KHVU8cz8JO260622.shtml)
+
++ [伊美谈判被曝达成5项要点](https://news.cctv.com/2026/06/22/ARTIkI8g484IppszfBUFWv8A260622.shtml)
+
++ [韩国前法务部长官朴性载一审被判处有期徒刑25年](https://news.cctv.com/2026/06/22/ARTIpMDzCPsTqeoDvkYDWTYp260622.shtml)
+
++ [菲律宾校园枪击事件已致4人死亡](https://news.cctv.com/2026/06/22/ARTIvTGvm3cSlTjyZwInRb3o260622.shtml)
+
++ [伊朗谈判团队说伊美谈判达成5项要点](https://news.cctv.com/2026/06/22/ARTIlRQ21F4vbgYk0EPlf0uT260622.shtml)
+

@@ -109,3 +109,67 @@
 
 + [基于 Harmony 6.0 应用的游戏时长统计与防沉迷提醒应用首页实现](https://blog.csdn.net/weixin_52908342/article/details/162155291)
 
++ [【金仓数据库产品体验官】KingbaseES 新版MySQL 兼容版体验：旧版迁移 + 功能实测](https://blog.csdn.net/2302_78391795/article/details/162188670)
+
++ [DolphinDB工业数据清洗：缺失值与异常值处理](https://blog.csdn.net/sinat_41617212/article/details/162141409)
+
++ [OpenCV-Python实战（30）——基于支持向量机的交通标志识别模型](https://blog.csdn.net/LOVEmy134611/article/details/161597065)
+
++ [Java 封装 EPANET：编译产物 Baseform 校验及项目实战测试](https://blog.csdn.net/yelangkingwuzuhu/article/details/162178024)
+
++ [【同济线性代数第五版】第二章 矩阵及其运算](https://blog.csdn.net/he_zhidan/article/details/161895873)
+
++ [【HarmonyOS 6.0】MDM Kit 新增支持通过企业设备管理设置桌面壁纸深度解析](https://blog.csdn.net/weixin_74809706/article/details/161962340)
+
++ [【LE Audio】CAS核心缩写全解析](https://blog.csdn.net/weixin_37800531/article/details/162047188)
+
++ [LAC容器化授权困境（下篇）：K8s环境下的授权锚定实战](https://blog.csdn.net/qq_32682301/article/details/162168763)
+
++ [一条“Hi“是怎么“跑“完AI算力帝国8层架构，变成“你好“的？](https://blog.csdn.net/wuzhenben/article/details/162176970)
+
++ [TimechoAI时序大模型 vs 传统算法，精度/延迟/适配性量化数据对比](https://blog.csdn.net/weixin_43151418/article/details/161520213)
+
++ [从一名大语言模型的“使用者“，蜕变为一名智能体系统的“构建者“。](https://blog.csdn.net/m0_58618795/article/details/162188638)
+
++ [基于物联网与GPS卫星定位设计的电子围栏](https://blog.csdn.net/xiaolong1126626497/article/details/162179108)
+
++ [数据挖掘选择题知识点](https://blog.csdn.net/2401_83600008/article/details/162153166)
+
++ [《VLA 系列》UniLab 机器人 RL 异构架构 | 强化训练 | 复现指导](https://blog.csdn.net/qq_41204464/article/details/162140477)
+
++ [BMS系统专栏：BMS_EnergyTask能量管理任务](https://blog.csdn.net/weixin_61186812/article/details/162193937)
+
++ [把 FCEUX 移植到HarmonyOS鸿蒙PC：一个 NES 模拟器的移植笔记](https://blog.csdn.net/qq8864/article/details/162177950)
+
++ [指纹浏览器 SaaS 化之战：多租户架构、权限控制与流量计费系统的设计](https://blog.csdn.net/cui_yonghua/article/details/162162911)
+
++ [Stable Diffusion WebUI搭建指南：让AI绘画不再受设备和地点限制](https://blog.csdn.net/2401_86326742/article/details/162197755)
+
++ [证书批量校验失败 全链路溯源30分钟定位时钟漂移根因](https://blog.csdn.net/2401_87774335/article/details/162188377)
+
++ [Bright Data Web Scraping 实战指南：如何构建 Instagram 和 TikTok KOL 数据分析系统（2026）](https://blog.csdn.net/weixin_62765017/article/details/162203177)
+
++ [Oracle、MySQL、Hive SQL、Spark SQL 的语法差异，数据迁移（GBase 或 GoldenDB）](https://blog.csdn.net/Irene1991/article/details/162178598)
+
++ [[特殊字符] WSL 3 正式揭晓：微软 Build 2026 发布，半虚拟化架构 + 原生 Linux 容器 + GPU/NPU 直通](https://blog.csdn.net/yijunzhao/article/details/162174302)
+
++ [金仓数据库标量子查询消除：破解复杂SQL性能瓶颈](https://blog.csdn.net/lrq13965748542/article/details/162010296)
+
++ [实验十四 静态 NAT、动态 NAT、NAPT 与 Easy IP 配置与验证实验指导书](https://blog.csdn.net/supernealrei/article/details/162167400)
+
++ [海光 DCU 深度技术报告 · 上篇：硬件架构与软件生态](https://blog.csdn.net/SolarTempest/article/details/162200617)
+
++ [把接收方判断从流程里抽出来，SAP PI/PO Integration Flow 中 Receiver Rules 的设计思路与实战边界](https://blog.csdn.net/i042416/article/details/162144085)
+
++ [VS Code Remote-SSH 配置记录：从本地 Windows 到远程 GPU 服务器](https://blog.csdn.net/m0_73840699/article/details/162101526)
+
++ [ComfyUI v0.25.1更新全解析：Kling V3-Turbo正式接入，文生视频与图生视频能力全面增强，价格计算逻辑同步升级](https://blog.csdn.net/weixin_48502062/article/details/162153176)
+
++ [【Linux Docker 配置 Ubuntu 20.04 ROS1 Noetic 环境完整教程】显卡直通到GUI适配](https://blog.csdn.net/m0_73800387/article/details/162173156)
+
++ [SpringBoot项目Jar包加密防反编译｜ClassFinal插件一键加密、绑定机器、密码启动](https://blog.csdn.net/weixin_39960529/article/details/162169040)
+
++ [无人机河湖库区水域智能巡检数据集｜水边垂钓溺水风险船只AI识别、水利安全预警YOLO深度学习标注资源10436期](https://blog.csdn.net/2403_88545703/article/details/162127127)
+
++ [SpingMVC的处理流程](https://blog.csdn.net/m0_63611023/article/details/162175447)
+
