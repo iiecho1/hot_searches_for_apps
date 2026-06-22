@@ -171,3 +171,5 @@
 
 + [英媒：四面楚歌 斯塔默着手制定下台时间表](https://news.cctv.com/2026/06/22/ARTIgG9wZcY0TDcZx84CiFqV260622.shtml)
 
++ [初步计票结果显示德拉埃斯普列亚赢得哥伦比亚总统选举](https://news.cctv.com/2026/06/22/ARTI7OqxdfydVWos7EcrzO7t260622.shtml)
+
