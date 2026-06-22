@@ -173,3 +173,17 @@
 
 + [初步计票结果显示德拉埃斯普列亚赢得哥伦比亚总统选举](https://news.cctv.com/2026/06/22/ARTI7OqxdfydVWos7EcrzO7t260622.shtml)
 
++ [菲律宾一高中发生枪击事件 已致3死5伤](https://news.cctv.com/2026/06/22/ARTI3v1M8okl41YS9xpLEHAk260622.shtml)
+
++ [刚果（金）埃博拉确诊病例数过千](https://news.cctv.com/2026/06/22/ARTI65yi1eUhNfOkEExQB1d1260622.shtml)
+
++ [哥伦比亚总统选举选情胶着 初步计票结果遭质疑](https://news.cctv.com/2026/06/22/ARTIR5CyajGsF7jap3POHq7t260622.shtml)
+
++ [伊朗外交部长：结束黎巴嫩冲突取得“重大进展”](https://news.cctv.com/2026/06/22/ARTICRVlnMuXTW3wwYceJPp9260622.shtml)
+
++ [英国首相斯塔默被曝最早22日就是否辞职发布声明](https://news.cctv.com/2026/06/22/ARTIZ6VNPXuWJQwghi02n8uA260622.shtml)
+
++ [卡塔尔与巴基斯坦联合声明：美伊首轮高级别会谈结束](https://news.cctv.com/2026/06/22/ARTI2VfAtYg9BmJycw8QRhfI260622.shtml)
+
++ [瑞典时隔40多年再建反应堆 北欧核电迎复苏潮](https://news.cctv.com/2026/06/22/ARTIq2UGTRw3LxzAxOPKqhi3260622.shtml)
+
