@@ -157,3 +157,9 @@
 
 + [普京：俄方愿基于伊斯坦布尔协议等与乌谈判](https://news.cctv.com/2026/06/24/ARTIF9NmMyt3LvNacMzgmBbk260623.shtml)
 
++ [高温天气持续 法国埃菲尔铁塔提前停止接待游客](https://news.cctv.com/2026/06/24/ARTIEgUuytXMw4IiI6zfxoe3260623.shtml)
+
++ [安理会通过追究针对联合国维和人员所犯罪行责任的决议](https://news.cctv.com/2026/06/24/ARTIJHrsevPHGemvTAfhrstN260623.shtml)
+
++ [国际海事组织宣布启动霍尔木兹海峡滞留海员疏散计划](https://news.cctv.com/2026/06/24/ARTI6IDA80gHOAkEbkcXz5fJ260623.shtml)
+

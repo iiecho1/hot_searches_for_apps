@@ -101,3 +101,25 @@
 
 + [动手学深度学习](https://blog.csdn.net/Jsjendndn/article/details/162016395)
 
++ [把 FCEUX 移植到HarmonyOS鸿蒙PC：一个 NES 模拟器的移植笔记](https://blog.csdn.net/qq8864/article/details/162177950)
+
++ [BMS系统专栏：BMS_EnergyTask能量管理任务](https://blog.csdn.net/weixin_61186812/article/details/162193937)
+
++ [Codex 史诗级bug在后台疯狂写盘，我的 SSD 差点被它磨穿](https://blog.csdn.net/chen695969/article/details/162230776)
+
++ [轻规划鸿蒙开发实战27：多维平衡图拖拽与九宫格数据联动，AppStorage 数据强类型响应式防卡顿性能优化](https://blog.csdn.net/sjw890821sjw/article/details/162210465)
+
++ [Oracle、MySQL、Hive SQL、Spark SQL 的语法差异，数据迁移（GBase 或 GoldenDB）](https://blog.csdn.net/Irene1991/article/details/162178598)
+
++ [云平台汇总（一）：Dokploy、Sealos、Cloudflare、Netlify、Render、Zeet、Hetzner](https://blog.csdn.net/lonelymanontheway/article/details/159084459)
+
++ [【Java项目技术亮点】多租户架构数据隔离](https://blog.csdn.net/2501_90715893/article/details/162227999)
+
++ [[特殊字符] WSL 3 正式揭晓：微软 Build 2026 发布，半虚拟化架构 + 原生 Linux 容器 + GPU/NPU 直通](https://blog.csdn.net/yijunzhao/article/details/162174302)
+
++ [2026深度实测｜金融风控等保合规场景，企业级AI编程工具落地选型复盘](https://blog.csdn.net/zmt15666069327/article/details/162165979)
+
++ [13MySQL 权限管理全解析](https://blog.csdn.net/oYeRen12/article/details/162189048)
+
++ [云原生时代Node.js微服务可观测性实践](https://blog.csdn.net/ZohoITOM/article/details/162190674)
+
