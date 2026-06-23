@@ -183,3 +183,5 @@
 
 + [伊朗称国际原子能机构暂无访问该国受损核设施计划](https://news.cctv.com/2026/06/23/ARTIaIbjvbmsIuo8zYG5160E260623.shtml)
 
++ [俄外长称随时准备恢复与乌克兰的谈判](https://news.cctv.com/2026/06/23/ARTIK6SFZz17BdolTuiLpNnR260623.shtml)
+

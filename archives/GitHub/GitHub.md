@@ -33,3 +33,17 @@
 
 + [mattpocock/skills](https://github.com/mattpocock/skills)
 
++ [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
++ [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
++ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+
++ [revfactory/harness](https://github.com/revfactory/harness)
+
++ [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
++ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
