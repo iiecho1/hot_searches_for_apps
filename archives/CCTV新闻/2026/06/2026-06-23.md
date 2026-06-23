@@ -165,3 +165,11 @@
 
 + [国际观察｜斯塔默辞职凸显英国政坛深层困局](https://news.cctv.com/2026/06/23/ARTI1VQ5B4C2piT1ZvkBGlzi260622.shtml)
 
++ [加拿大发布核能战略 拟大幅提升生产与出口能力](https://news.cctv.com/2026/06/23/ARTI6R0ifgh68HnBzZZQq536260623.shtml)
+
++ [金正恩：美韩行为严重恶化朝鲜半岛局势](https://news.cctv.com/2026/06/23/ARTI7tBqzBqWhiwYsBdy4cni260623.shtml)
+
++ [韩国总统李在明不支持率首超支持率](https://news.cctv.com/2026/06/23/ARTIcG8HO7hKlGbYxJ4372mF260623.shtml)
+
++ [联合国粮农组织：新一轮厄尔尼诺现象威胁全球多地农业](https://news.cctv.com/2026/06/23/ARTIOSsIxEmZgbFK61JkVXtj260623.shtml)
+

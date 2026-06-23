@@ -101,3 +101,27 @@
 
 + [BMS系统专栏：BMS_EnergyTask能量管理任务](https://blog.csdn.net/weixin_61186812/article/details/162193937)
 
++ [Modular RAG 深度解析：像搭乐高一样构建灵活的 RAG 系统](https://blog.csdn.net/qq_41840843/article/details/162208495)
+
++ [【HarmonyOS 6.0】MDM Kit：面向PC/2in1设备的重启自动解锁能力解析](https://blog.csdn.net/weixin_74809706/article/details/161962304)
+
++ [桌面正在消失？HarmonyOS PC 为什么要重写整个 Runtime？](https://blog.csdn.net/qq_36863796/article/details/162192498)
+
++ [OpenClaw ACP模式：代理通信协议深度解析](https://blog.csdn.net/sinat_41617212/article/details/162163093)
+
++ [【LangChain】从模型调用到 Agent 雏形](https://blog.csdn.net/2501_92613722/article/details/162176521)
+
++ [21 天烧 37TB，OpenAI 一年不修——Codex 日志 Bug 背后的 AI 工具信任危机深度解读](https://blog.csdn.net/interpromotion/article/details/162209273)
+
++ [会算代价，还是会做证明题：一条 DISTINCT 揭开的国产优化器分野](https://blog.csdn.net/qq_57761637/article/details/162181191)
+
++ [28天Agent开发学习路线（2026年最新版）](https://blog.csdn.net/xsc699675/article/details/162179041)
+
++ [从本地Ollama到公网API：New-API聚合网关部署与调用实践](https://blog.csdn.net/qq_61024956/article/details/162210663)
+
++ [AI 驱动的智能合约开发：从提示词到链上字节码的工程化实践](https://blog.csdn.net/qq_40635035/article/details/162153096)
+
++ [【花雕动手做】行空板 K10 系列实验之摄像头识别移动检测后显示在K10屏幕上](https://blog.csdn.net/weixin_41659040/article/details/162205596)
+
++ [工业级存储选型指南：从NAND颗粒到固件策略](https://blog.csdn.net/2601_96399015/article/details/162194975)
+
