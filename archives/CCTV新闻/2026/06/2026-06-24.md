@@ -167,3 +167,5 @@
 
 + [美参议院通过决议 旨在限制特朗普对伊战争权力](https://news.cctv.com/2026/06/24/ARTIRo6OAtjMXd223qsn9Mgz260624.shtml)
 
++ [民调显示：美国超半数民众不认可对伊动武](https://news.cctv.com/2026/06/24/ARTIdo6caYLQR6yR1vleTV8y260624.shtml)
+
