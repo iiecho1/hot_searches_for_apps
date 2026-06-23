@@ -177,3 +177,9 @@
 
 + [驻墨尔本总领馆提醒领区中国公民注意防范车辆、车内物品盗抢案件](https://news.cctv.com/2026/06/23/ARTIhqiFwSRbBvm9dBV3Kb1S260623.shtml)
 
++ [第166次中老缅泰湄公河联合巡逻执法行动启动](https://news.cctv.com/2026/06/23/ARTIUnTGTBfrZIGDLPVoxo6W260623.shtml)
+
++ [捷克拟自2027年起禁止学生在校内使用手机](https://news.cctv.com/2026/06/23/ARTIK3nncxjdCHJX6uj154NX260623.shtml)
+
++ [伊朗称国际原子能机构暂无访问该国受损核设施计划](https://news.cctv.com/2026/06/23/ARTIaIbjvbmsIuo8zYG5160E260623.shtml)
+

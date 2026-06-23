@@ -145,3 +145,21 @@
 
 + [开源社区的高效治理：用持续集成自动化保障代码质量](https://blog.csdn.net/qq_34803115/article/details/162153317)
 
++ [2026年文档解析工具横测：xParse、PaddleOCR、MinerU 三层标准深度对比](https://blog.csdn.net/m0_63947499/article/details/162230299)
+
++ [用 AI Agent 做一个前端小游戏：从提示词到可运行 Demo](https://blog.csdn.net/qq_44273429/article/details/162234826)
+
++ [Goal Native OS：HarmonyOS PC 真正想重写什么？](https://blog.csdn.net/qq_36478920/article/details/162225694)
+
++ [本地Grafana如何实现异地访问?数据看板公网连接方案](https://blog.csdn.net/2401_87848736/article/details/162232461)
+
++ [从 0 到 1.6K Star：一个 Java 开源项目的增长复盘](https://blog.csdn.net/weixin_40986713/article/details/162231087)
+
++ [【Linux之旅】Linux UDP 协议详解：从五元组到面向数据报的设计哲学](https://blog.csdn.net/2302_80243065/article/details/162229626)
+
++ [基于知识图谱的百科知识问答系统：Django+Neo4j 智能问答平台项目实战](https://blog.csdn.net/Myx74270512/article/details/162211510)
+
++ [【opencv】图像透视转换，发票自动扫描矫正](https://blog.csdn.net/m0_66822255/article/details/162211278)
+
++ [基于 Harmony 6.0 应用的农产品直销平台首页实现](https://blog.csdn.net/weixin_52908342/article/details/162155113)
+
