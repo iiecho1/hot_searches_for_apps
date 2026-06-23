@@ -163,3 +163,7 @@
 
 + [国际海事组织宣布启动霍尔木兹海峡滞留海员疏散计划](https://news.cctv.com/2026/06/24/ARTI6IDA80gHOAkEbkcXz5fJ260623.shtml)
 
++ [无线电故障导致德国全境铁路暂停运营](https://news.cctv.com/2026/06/24/ARTIzuCRJpb31sb0bLJKy3UG260624.shtml)
+
++ [美参议院通过决议 旨在限制特朗普对伊战争权力](https://news.cctv.com/2026/06/24/ARTIRo6OAtjMXd223qsn9Mgz260624.shtml)
+

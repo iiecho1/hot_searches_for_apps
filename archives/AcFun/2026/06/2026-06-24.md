@@ -71,3 +71,5 @@
 
 + [2026年6月下旬，辽宁舰航母编队与两栖攻击舰舰队完成联合演练](https://m.acfun.cn/v/?ac=48633765)
 
++ [【小雨翻唱】Baby-Justin Bieber](https://m.acfun.cn/v/?ac=48633679)
+
