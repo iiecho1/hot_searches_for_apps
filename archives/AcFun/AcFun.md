@@ -61,3 +61,7 @@
 
 + [【翻唱】Speechless（阿拉丁）](https://m.acfun.cn/v/?ac=48633115)
 
++ [EXID Up & Down 路演](https://m.acfun.cn/v/?ac=48636209)
+
++ [Rumor  小艾](https://m.acfun.cn/v/?ac=48634559)
+

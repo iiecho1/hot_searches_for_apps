@@ -155,3 +155,5 @@
 
 + [以官员称以色列与黎巴嫩真主党已处于停火状态](https://news.cctv.com/2026/06/19/ARTIBEyz2wHLCndObWEJR71B260619.shtml)
 
++ [普京：俄方愿基于伊斯坦布尔协议等与乌谈判](https://news.cctv.com/2026/06/24/ARTIF9NmMyt3LvNacMzgmBbk260623.shtml)
+
