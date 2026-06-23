@@ -125,3 +125,23 @@
 
 + [工业级存储选型指南：从NAND颗粒到固件策略](https://blog.csdn.net/2601_96399015/article/details/162194975)
 
++ [RAG 中如何设计 Prompt 来有效利用检索到的文档？](https://blog.csdn.net/qq_28419035/article/details/162224242)
+
++ [指纹浏览器终极形态：去中心化浏览器网络与真实设备人群混合的伪装网络](https://blog.csdn.net/cui_yonghua/article/details/162210133)
+
++ [【Linux网络】多路转接epoll（五）Reactor模式：基于epoll的高性能网络服务器设计与实现（下）剩余细节补充 + 多进程多线程实现Reactor要点](https://blog.csdn.net/2401_89899187/article/details/162078889)
+
++ [Unsafe 不是免死金牌：Rust 安全抽象的边界守护与内存契约](https://blog.csdn.net/2301_81410839/article/details/162153158)
+
++ [DolphinDB 首批通过国家安全可靠测评：时序数据库的国家级通行证](https://blog.csdn.net/Rqaqedamancy/article/details/162192779)
+
++ [大模型 API 编排实战：Prompt 工程与多模型协作的工程化方案](https://blog.csdn.net/specter__/article/details/162153272)
+
++ [储能电池绝缘测试靠人工记录？LabVIEW+SQL Server自动化采集，数据分析效率提升10倍](https://blog.csdn.net/bjcyck/article/details/162213043)
+
++ [图像下采样混叠现象与抗混叠滤波实验研究](https://blog.csdn.net/zhuoqingjoking97298/article/details/162222113)
+
++ [DotImage SDK HTML5 Web & Mobile Viewing](https://blog.csdn.net/john_dwh/article/details/162228609)
+
++ [开源社区的高效治理：用持续集成自动化保障代码质量](https://blog.csdn.net/qq_34803115/article/details/162153317)
+

@@ -173,3 +173,7 @@
 
 + [联合国粮农组织：新一轮厄尔尼诺现象威胁全球多地农业](https://news.cctv.com/2026/06/23/ARTIOSsIxEmZgbFK61JkVXtj260623.shtml)
 
++ [高市早苗及其秘书涉虚假记载政治资金遭检举](https://news.cctv.com/2026/06/23/ARTI4FU8sI3ve37tr0wM0zlE260623.shtml)
+
++ [驻墨尔本总领馆提醒领区中国公民注意防范车辆、车内物品盗抢案件](https://news.cctv.com/2026/06/23/ARTIhqiFwSRbBvm9dBV3Kb1S260623.shtml)
+
