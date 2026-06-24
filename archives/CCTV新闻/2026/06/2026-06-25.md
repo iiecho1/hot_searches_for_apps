@@ -161,3 +161,9 @@
 
 + [哥伦比亚官方确认德拉埃斯普列亚当选新任总统](https://news.cctv.com/2026/06/25/ARTI8zWkqytStRxdmpMiP7Oj260625.shtml)
 
++ [内塔尼亚胡称只要其在任以军就不会撤出黎南部“安全区”](https://news.cctv.com/2026/06/25/ARTIwGeSbFN7QE1V9Rw1eaih260625.shtml)
+
++ [委内瑞拉发生7级左右地震 美国发布海啸预警](https://news.cctv.com/2026/06/25/ARTIFC7G4XIeZISH22Bkd3pZ260625.shtml)
+
++ [2036年奥运会举办地2029年敲定 奥运设项评估转向分项](https://news.cctv.com/2026/06/25/ARTIPoXh5VPaES49YfQpxmHe260625.shtml)
+

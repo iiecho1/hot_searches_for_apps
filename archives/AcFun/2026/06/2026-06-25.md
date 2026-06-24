@@ -65,3 +65,5 @@
 
 + [Sistar So Cool 路演](https://m.acfun.cn/v/?ac=48638002)
 
++ [美国最怕的事情还是来了【岩论605期】](https://m.acfun.cn/v/?ac=48639744)
+
