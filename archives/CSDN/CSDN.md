@@ -123,3 +123,27 @@
 
 + [云原生时代Node.js微服务可观测性实践](https://blog.csdn.net/ZohoITOM/article/details/162190674)
 
++ [Vue3 + SpringBoot3 全栈学习路线 2026：从 0 到企业级项目实战清单](https://blog.csdn.net/zhouzhongyan/article/details/162260529)
+
++ [全栈项目如何临时分享？Vue、Spring Boot与cpolar公网访问实践](https://blog.csdn.net/2501_91062530/article/details/162259690)
+
++ [从肉眼筛查到标准化校验：三大主流表格解析方案实测](https://blog.csdn.net/weixin_43151418/article/details/162234509)
+
++ [【HarmonyOS 6.0】Mechanic Kit 鸿蒙6.0面向智能机械体设备的统一控制框架](https://blog.csdn.net/weixin_74809706/article/details/161962435)
+
++ [《 Agent 的大脑：长短期记忆架构设计——从 RAG 到 Memory Graph 的工程演进》](https://blog.csdn.net/Dovis5884/article/details/162259667)
+
++ [CMake 026：属性体系精讲、四大作用域全解 & 实战代码落地](https://blog.csdn.net/2503_92624912/article/details/162212984)
+
++ [基于 ms-swift 与 Qwen2.5 实现语音控制机器人意图识别模型的 LoRA 微调](https://blog.csdn.net/weixin_42917352/article/details/162212483)
+
++ [交通数据隐私合规：Java如何让90%的违规率归零？](https://blog.csdn.net/z_344791576/article/details/151896455)
+
++ [Windows 定时自动关机设置图文教程](https://blog.csdn.net/2301_79558413/article/details/162191457)
+
++ [【MySQL数据库学习】MySQL索引(下)](https://blog.csdn.net/2401_87629362/article/details/162147676)
+
++ [SQL LIKE 模糊搜索特殊字符转义实战指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162236936)
+
++ [架构--数据库层面--读写分离](https://blog.csdn.net/safsdfooo/article/details/162173096)
+

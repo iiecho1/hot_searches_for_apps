@@ -171,3 +171,15 @@
 
 + [美参议院通过决议要求特朗普结束对伊朗战事](https://news.cctv.com/2026/06/24/ARTIiKeQecNvwqkxGdyA8Jeo260624.shtml)
 
++ [中国驻泰国使馆提醒：谨慎前往泰缅边境地区](https://news.cctv.com/2026/06/24/ARTIiaVsj68uOxhIsjoceTlq260624.shtml)
+
++ [特朗普称国会限制总统战争权力“不合时宜”](https://news.cctv.com/2026/06/24/ARTILEG9mOkHFT4swBmru5wg260624.shtml)
+
++ [美企发射“星落”返回舱 演示再入返回技术](https://news.cctv.com/2026/06/24/ARTInxEQdN8K9vy0P2fIWrEE260624.shtml)
+
++ [美滥施关税等导致拉美和加勒比海地区外资流入遇阻](https://news.cctv.com/2026/06/24/ARTIpuYXlTyCHdD5tr0TmQVj260624.shtml)
+
++ [刚果（金）埃博拉疫情病例增加 社区传播有所加剧](https://news.cctv.com/2026/06/24/ARTIQE5q0S6ODuWeRrXjccCn260624.shtml)
+
++ [巴方披露伊美谈判细节 弹道导弹议题“从未上桌”](https://news.cctv.com/2026/06/24/ARTIaq08JxxA4CVw7jlllYUp260624.shtml)
+
