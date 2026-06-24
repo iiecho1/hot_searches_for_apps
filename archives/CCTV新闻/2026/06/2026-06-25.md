@@ -159,3 +159,5 @@
 
 + [报告称霍尔木兹海峡受阻影响1250亿美元船舶及货物](https://news.cctv.com/2026/06/25/ARTI3AwCyaI1egKrXH8xJvN3260624.shtml)
 
++ [哥伦比亚官方确认德拉埃斯普列亚当选新任总统](https://news.cctv.com/2026/06/25/ARTI8zWkqytStRxdmpMiP7Oj260625.shtml)
+

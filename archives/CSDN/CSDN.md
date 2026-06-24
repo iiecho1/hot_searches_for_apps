@@ -103,3 +103,5 @@
 
 + [CH585 SBC 音频解码播放测试说明](https://blog.csdn.net/weixin_42328389/article/details/162236459)
 
++ [五种Agent架构：ReAct、CodeAct等实战解析](https://blog.csdn.net/weixin_35774598/article/details/162245397)
+
