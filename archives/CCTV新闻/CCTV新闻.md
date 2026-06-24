@@ -183,3 +183,7 @@
 
 + [巴方披露伊美谈判细节 弹道导弹议题“从未上桌”](https://news.cctv.com/2026/06/24/ARTIaq08JxxA4CVw7jlllYUp260624.shtml)
 
++ [针对在荷中国公民的诈骗案件多发 我驻荷兰大使馆发布提醒](https://news.cctv.com/2026/06/24/ARTIUV1zyTgfafotygvOFeKM260624.shtml)
+
++ [法国高温持续 埃菲尔铁塔提前关闭](https://photo.cctv.com/2026/06/24/PHOAuaaqDU2dx1qszJ5gCE7r260624.shtml)
+

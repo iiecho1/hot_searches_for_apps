@@ -47,3 +47,7 @@
 
 + [看了这些讨论婚姻帖子的感受](https://www.v2ex.com/t/1222398)
 
++ [庆祝 Steam Machine 发布，再送一台价值 5499 元懒猫微服！](https://www.v2ex.com/t/1222480)
+
++ [AndroMeld：在 Mac 上无缝操控你的 Android [送码]](https://www.v2ex.com/t/1222477)
+
