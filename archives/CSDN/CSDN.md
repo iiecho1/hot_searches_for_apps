@@ -101,3 +101,5 @@
 
 + [第二章：CI/CD 工具全景——Jenkins、GitLab CI、GitHub Actions 对比与选型](https://blog.csdn.net/qq_45239623/article/details/162223253)
 
++ [CH585 SBC 音频解码播放测试说明](https://blog.csdn.net/weixin_42328389/article/details/162236459)
+

@@ -157,3 +157,5 @@
 
 + [国际原子能机构要求核查 伊朗称须在最终协议内](https://news.cctv.com/2026/06/25/ARTIRRIlPCEZxjZKbRQMYD8U260624.shtml)
 
++ [报告称霍尔木兹海峡受阻影响1250亿美元船舶及货物](https://news.cctv.com/2026/06/25/ARTI3AwCyaI1egKrXH8xJvN3260624.shtml)
+
