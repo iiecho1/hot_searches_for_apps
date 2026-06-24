@@ -33,3 +33,19 @@
 
 + [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
++ [apple/container](https://github.com/apple/container)
+
++ [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)
+
++ [flutter/flutter](https://github.com/flutter/flutter)
+
++ [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived)
+
++ [stablyai/orca](https://github.com/stablyai/orca)
+
++ [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+
++ [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+
++ [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
+

@@ -147,3 +147,17 @@
 
 + [架构--数据库层面--读写分离](https://blog.csdn.net/safsdfooo/article/details/162173096)
 
++ [【HarmonyOS 6.0】MDM Kit：PC/2in1设备用户行为限制策略详解与开发实践](https://blog.csdn.net/weixin_74809706/article/details/161962399)
+
++ [多模态微调对齐质量保障指南：从数据到训练的完整实践](https://blog.csdn.net/qq_41840843/article/details/162259492)
+
++ [让知识没有边界.知识星球,语雀,飞书,阿里云知识库一键md格式导入导出(多用法)(6.24更新)](https://blog.csdn.net/s_____5/article/details/162275022)
+
++ [flutter项目打包上架Google Play](https://blog.csdn.net/lxyoucan/article/details/162088373)
+
++ [Codex 被爆藏着一个写爆你硬盘的 bug](https://blog.csdn.net/cjm_success/article/details/162261813)
+
++ [CH585 SBC 音频解码播放测试说明](https://blog.csdn.net/weixin_42328389/article/details/162236459)
+
++ [MySQL 索引失效的七个场景](https://blog.csdn.net/weixin_68431870/article/details/162246631)
+

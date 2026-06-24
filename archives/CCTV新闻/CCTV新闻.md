@@ -187,3 +187,7 @@
 
 + [法国高温持续 埃菲尔铁塔提前关闭](https://photo.cctv.com/2026/06/24/PHOAuaaqDU2dx1qszJ5gCE7r260624.shtml)
 
++ [国际油价回落至战争爆发前水平](https://news.cctv.com/2026/06/24/ARTIzEic1eKqzc9KYUgTDbJf260624.shtml)
+
++ [伊朗外交部：暂无允许国际原子能机构检查核设施的计划](https://news.cctv.com/2026/06/24/ARTI7cuhFL9ZdCI0dSyFc2Ms260624.shtml)
+
