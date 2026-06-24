@@ -169,3 +169,5 @@
 
 + [民调显示：美国超半数民众不认可对伊动武](https://news.cctv.com/2026/06/24/ARTIdo6caYLQR6yR1vleTV8y260624.shtml)
 
++ [美参议院通过决议要求特朗普结束对伊朗战事](https://news.cctv.com/2026/06/24/ARTIiKeQecNvwqkxGdyA8Jeo260624.shtml)
+
