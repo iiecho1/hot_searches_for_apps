@@ -101,3 +101,29 @@
 
 + [【GaussDB】权限管理模型：RBAC与ABAC](https://blog.csdn.net/GaussDB/article/details/162297789)
 
++ [MySQL性能怎么看?mysqld_exporter采集、告警与远程监控指南](https://blog.csdn.net/2401_87629362/article/details/162309959)
+
++ [数据挖掘-关联分析、聚类分析与分类](https://blog.csdn.net/DrLuffy/article/details/162311835)
+
++ [共识机制全面解读：区块链信任机器的核心引擎](https://blog.csdn.net/qq_41840843/article/details/162312981)
+
++ [Re：Linux系统篇（三十八）通信篇·三：深入浅出 Linux 命名管道：如何用 FIFO 实现跨进程通话与文件传输](https://blog.csdn.net/Z2314246476/article/details/162076553)
+
++ [机器学习工程化：可复现实验流程的设计与落地](https://blog.csdn.net/lady_mumu/article/details/162273467)
+
++ [Redis 向量检索与多级缓存：从语义搜索到事件驱动的架构融合](https://blog.csdn.net/2401_87746054/article/details/162273248)
+
++ [Bright Data Web Scraping 实战指南：如何用 Web Scraper API 采集 Instagram、TikTok 社媒数据（2026）](https://blog.csdn.net/qq_46092061/article/details/162315312)
+
++ [Spring AI 2.0 对向量存储（Vector Store）进行了哪些升级？新增了哪些向量存储后端？](https://blog.csdn.net/caoli201314/article/details/162278728)
+
++ [▲基于QPP交织器和咬尾编码的Turbo编译码MATLAB误码率仿真](https://blog.csdn.net/ccsss22/article/details/162316105)
+
++ [MCU 上的 AI 推理功耗：从毫瓦到微瓦的极限压缩之路](https://blog.csdn.net/qq_42431428/article/details/162273560)
+
++ [WorkBuddy 上手实战：打造一个可用的本地 AI 工作台](https://blog.csdn.net/2302_78391795/article/details/162316523)
+
++ [鸿蒙Flutter非遗传承页面开发：进度追踪与印章认证体系](https://blog.csdn.net/weixin_52908342/article/details/162282008)
+
++ [告别 PuTTY 和密钥拷贝：把 Linux 终端装进浏览器，实现无客户端远程运维](https://blog.csdn.net/2401_84813926/article/details/162226782)
+

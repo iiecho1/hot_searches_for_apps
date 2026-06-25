@@ -61,3 +61,9 @@
 
 + [260624 吉田と粗品と 吉田のボート愛爆発！レジェンド現役ボートレーサーが相談者](https://m.acfun.cn/v/?ac=48639665)
 
++ [【音游】节奏天国：奇迹之星 最新游戏演示PV](https://m.acfun.cn/v/?ac=48640627)
+
++ [【4K/60帧/HDR】桃花笑](https://m.acfun.cn/v/?ac=48642070)
+
++ [完全可爱！Hearts2Hearts  Lemon Tang  4K60帧舞蹈版公开](https://m.acfun.cn/v/?ac=48640708)
+
