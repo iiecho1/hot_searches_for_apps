@@ -31,3 +31,5 @@
 
 + [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 
++ [every-app/open-seo](https://github.com/every-app/open-seo)
+
