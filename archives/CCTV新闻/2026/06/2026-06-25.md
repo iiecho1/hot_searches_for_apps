@@ -167,3 +167,13 @@
 
 + [2036年奥运会举办地2029年敲定 奥运设项评估转向分项](https://news.cctv.com/2026/06/25/ARTIPoXh5VPaES49YfQpxmHe260625.shtml)
 
++ [中国驻札幌总领事馆提醒领区中国公民注意防范地震余震](https://news.cctv.com/2026/06/25/ARTIvP9Zt8Muflrkt3kNy0uf260625.shtml)
+
++ [中国驻委内瑞拉使馆提醒在委中国公民防范地震灾害](https://news.cctv.com/2026/06/25/ARTIIHnfaN3FSnYKG5RXJCjS260625.shtml)
+
++ [中使馆：在加蓬中国公民切勿参与非法采金活动](https://news.cctv.com/2026/06/25/ARTI05yPw43Zp6AzZbadQ6Tr260625.shtml)
+
++ [日本岩手县附近海域地震 暂未发现周边核电站异常](https://news.cctv.com/2026/06/25/ARTICFXdFb26d7ZKUVJ89VTp260625.shtml)
+
++ [委内瑞拉连续发生7级以上强震 加拉加斯震感强烈](https://news.cctv.com/2026/06/25/ARTI0ciVanxcnTOUTu6mpyMc260625.shtml)
+

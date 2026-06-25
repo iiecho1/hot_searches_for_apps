@@ -107,3 +107,27 @@
 
 + [PostgreSQL 存储原理全解：从页面结构到 MVCC 的深度解析](https://blog.csdn.net/m0_73669661/article/details/162207898)
 
++ [从理论到工程化落地： Hi Float8的设计逻辑与工程技术解析](https://blog.csdn.net/2302_78391795/article/details/162199697)
+
++ [【同济线性代数第五版】第三章 矩阵的初版变换与线性方程组](https://blog.csdn.net/he_zhidan/article/details/161949346)
+
++ [Leaflet 地图工程化实践：行政区划组件从静态渲染到动态交互的完整改进之路](https://blog.csdn.net/yelangkingwuzuhu/article/details/162247231)
+
++ [【花雕动手做】行空板 K10 系列实验之人工智能调用语音合成 TTS 天黑点灯](https://blog.csdn.net/weixin_41659040/article/details/162278425)
+
++ [复杂表格解析横评：TextIn xParse 、MinerU 、PaddleOCR，谁能让数据真正进系统？](https://blog.csdn.net/qq_38951259/article/details/162260082)
+
++ [Spring Security- 微服务架构下的统一认证方案](https://blog.csdn.net/qq_41187124/article/details/157619414)
+
++ [高考志愿填报，能不能交给一台「智能体设备」？看看它的价值与边界](https://blog.csdn.net/JHXL_/article/details/162282272)
+
++ [编辑器视觉增强 | 桌面开发实战04](https://blog.csdn.net/ysu_0314/article/details/162243621)
+
++ [Linux(十二)从硬件到操作系统：ELF、动静态库与多文件共享的全链路深度剖析](https://blog.csdn.net/A_humble_scholar/article/details/162210961)
+
++ [Redisson 分布式锁详解：从 Redis 加锁到 Watch Dog 自动续期](https://blog.csdn.net/HANhylyxy/article/details/162243579)
+
++ [MySQL知识梳理(6)](https://blog.csdn.net/2301_78547133/article/details/162282110)
+
++ [Redis容器重启循环问题排查与数据持久化完整指南](https://blog.csdn.net/2402_87868480/article/details/162282634)
+

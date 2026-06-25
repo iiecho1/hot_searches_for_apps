@@ -25,3 +25,17 @@
 
 + [如果让你推荐 macOS 最喜欢的一款软件，你推荐什么？](https://www.v2ex.com/t/1222429)
 
++ [[内测回馈] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10](https://www.v2ex.com/t/1222664)
+
++ [纯好奇：为什么国人这么爱随地吐痰](https://www.v2ex.com/t/1222662)
+
++ [[超稳定] 一个真正一目了然的自建 Codex 中转站](https://www.v2ex.com/t/1222511)
+
++ [新搞了个中转,送$30 额度 codex pro 额度,速来蹬](https://www.v2ex.com/t/1222558)
+
++ [广州科目三挂了四次了，求助](https://www.v2ex.com/t/1222591)
+
++ [公司搞 token 调用排名了，使用率低的影响绩效考核。](https://www.v2ex.com/t/1222513)
+
++ [啥时候能买小米的股票](https://www.v2ex.com/t/1222590)
+
