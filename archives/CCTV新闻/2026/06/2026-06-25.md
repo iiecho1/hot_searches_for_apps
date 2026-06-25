@@ -215,3 +215,7 @@
 
 + [美结束邮轮相关汉坦病毒应对措施 未发现本土病例](https://news.cctv.com/2026/06/25/ARTIDmJCmDtkfVcyIsadagH6260625.shtml)
 
++ [古特雷斯说多边主义面临严峻挑战](https://news.cctv.com/2026/06/25/ARTIxYDhNcRXffDtrRF7W4b8260625.shtml)
+
++ [委内瑞拉强震遇难人数升至164人](https://news.cctv.com/2026/06/25/ARTIwVq1rurdXR7CFrHhevsE260625.shtml)
+

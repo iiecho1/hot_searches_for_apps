@@ -27,3 +27,25 @@
 
 + [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
++ [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+
++ [mauriceboe/TREK](https://github.com/mauriceboe/TREK)
+
++ [garrytan/gstack](https://github.com/garrytan/gstack)
+
++ [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
+
++ [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+
++ [alibaba/page-agent](https://github.com/alibaba/page-agent)
+
++ [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
++ [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+
++ [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+
++ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+
++ [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
