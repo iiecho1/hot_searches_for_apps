@@ -177,3 +177,15 @@
 
 + [委内瑞拉连续发生7级以上强震 加拉加斯震感强烈](https://news.cctv.com/2026/06/25/ARTI0ciVanxcnTOUTu6mpyMc260625.shtml)
 
++ [委内瑞拉强震恐造成重大伤亡 国家进入紧急状态](https://news.cctv.com/2026/06/25/ARTIqj5k00cA7afvZPEdNWPe260625.shtml)
+
++ [鸠山由纪夫：高市早苗应立即纠正涉台错误言论并道歉](https://news.cctv.com/2026/06/25/ARTI53f7IQFfoCYwo8udqfTX260625.shtml)
+
++ [委内瑞拉强震已造成32人死亡 700人受伤](https://news.cctv.com/2026/06/25/ARTI3ITRnGaf3lL754l3RxrR260625.shtml)
+
++ [2026年夏季达沃斯论坛上各界热议“中国机遇”——创新赋能  开放共赢](https://news.cctv.com/2026/06/25/ARTIhA4Hq0u0z8JXl3zgMqGQ260625.shtml)
+
++ [欧洲五国及北约领导人称将加强防务工业合作](https://news.cctv.com/2026/06/25/ARTIoQcCRDHASxY0eUXnG0io260625.shtml)
+
++ [日本气象厅称未来一周可能再次发生强震](https://news.cctv.com/2026/06/25/ARTI9MfFirLyDPqJG5jgS9GK260625.shtml)
+
