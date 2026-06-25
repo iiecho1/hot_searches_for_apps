@@ -189,3 +189,29 @@
 
 + [日本气象厅称未来一周可能再次发生强震](https://news.cctv.com/2026/06/25/ARTI9MfFirLyDPqJG5jgS9GK260625.shtml)
 
++ [八十载史实还原 千万言铁证长存——东京审判庭审记录中文全译本首度完整面世](https://news.cctv.com/2026/06/25/ARTIAQXb2mqIwj2ANgu57xWr260625.shtml)
+
++ [记者手记丨在孟加拉国，这些中孟合作项目造福当地](https://news.cctv.com/2026/06/25/ARTI6eyhNGo3ZyPxZ23ih3JX260625.shtml)
+
++ [夏季达沃斯论坛热议人工智能 “中国方案”成全场高频词](https://news.cctv.com/2026/06/25/ARTId1lNkRciI6pZU4aiMyQf260625.shtml)
+
++ [伊拉克称若配额未获增加可能退出欧佩克](https://news.cctv.com/2026/06/25/ARTIALJ40sgRdY5hKDuekB5X260625.shtml)
+
++ [欧盟理事会通过立法履行对美贸易协议承诺](https://news.cctv.com/2026/06/25/ARTIh68dUxbqyMUA6GbQw9L1260625.shtml)
+
++ [肯尼迪中心遮布迟迟未撤 联邦法官要求白宫解释](https://news.cctv.com/2026/06/25/ARTIwuTpFZICo8lpSJGvkl2P260625.shtml)
+
++ [古巴国家主席谴责美国对古侵略从未停止](https://news.cctv.com/2026/06/25/ARTIblrC1swkil22flJbD8Mm260625.shtml)
+
++ [逾八成澳大利亚未成年人“绕过”了社媒禁令](https://news.cctv.com/2026/06/25/ARTIsKn9zp7GCzGDHnzkPUWw260625.shtml)
+
++ [强震发生后 委内瑞拉总统马杜罗狱中呼吁人民团结](https://news.cctv.com/2026/06/25/ARTIwIOK8DYWWzWw4dDf3spv260625.shtml)
+
++ [刚果（金）加强疫区人员旅行管理 法国隔离密接者](https://news.cctv.com/2026/06/25/ARTIhZg5jhuJnkrM49LjuCIY260625.shtml)
+
++ [联合国报告称全球仍有6.55亿人用不上电](https://news.cctv.com/2026/06/25/ARTIFiTBDMPpFiGg80NaU8s0260625.shtml)
+
++ [中国代表敦促国际社会保护武装冲突中的儿童](https://news.cctv.com/2026/06/25/ARTIvylcl1WJQ3UuoH9ZURxZ260625.shtml)
+
++ [美结束邮轮相关汉坦病毒应对措施 未发现本土病例](https://news.cctv.com/2026/06/25/ARTIDmJCmDtkfVcyIsadagH6260625.shtml)
+

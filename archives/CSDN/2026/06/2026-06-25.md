@@ -131,3 +131,29 @@
 
 + [Redis容器重启循环问题排查与数据持久化完整指南](https://blog.csdn.net/2402_87868480/article/details/162282634)
 
++ [PyTorch强化学习实战（16）——Categorical DQN](https://blog.csdn.net/LOVEmy134611/article/details/159537386)
+
++ [Ansible批量部署Nginx：从主机清单到Playbook自动化执行](https://blog.csdn.net/weixin_62765017/article/details/162298328)
+
++ [社交媒体舆情监控实战：基于 Bright Data AI Studio 的比亚迪品牌口碑追踪方案](https://blog.csdn.net/m0_64336780/article/details/162265313)
+
++ [Bright Data Web Scraping 实战指南：如何构建海外 KOL 数据采集与智能评分系统（2026）](https://blog.csdn.net/weixin_51390582/article/details/162299487)
+
++ [鸿蒙 App 如何设计调度层？一文讲透 Scheduler 架构设计](https://blog.csdn.net/qq_36863796/article/details/162262434)
+
++ [轻规划鸿蒙开发实战27：多维平衡图拖拽与九宫格数据联动，AppStorage 数据强类型响应式防卡顿性能优化](https://blog.csdn.net/sjw890821sjw/article/details/162210465)
+
++ [微信小程序虚拟支付与广告转化回传实战记录](https://blog.csdn.net/weixin_44976692/article/details/162238034)
+
++ [Bright Data Web Scraping 指南：如何构建 Instagram + TikTok KOL 数据采集管道（2026)](https://blog.csdn.net/weixin_43151418/article/details/162301028)
+
++ [Ansible管理飞牛OS实践：从重复操作到远程自动化执行](https://blog.csdn.net/a1657054242/article/details/162298689)
+
++ [我用 ROS2 做了一个 3D 导航原型：从点云到动态避障全链路跑通](https://blog.csdn.net/lovely_yoshino/article/details/162130373)
+
++ [第21届全国大学生智能汽车竞赛报名统计](https://blog.csdn.net/zhuoqingjoking97298/article/details/162279057)
+
++ [【GaussDB】权限管理模型：RBAC与ABAC](https://blog.csdn.net/GaussDB/article/details/162297789)
+
++ [2026年6月远程控制软件横评：UU远程、ToDesk、向日葵全方位对比](https://blog.csdn.net/czx_163/article/details/162278370)
+
