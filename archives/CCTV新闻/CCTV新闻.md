@@ -151,3 +151,7 @@
 
 + [韩国总统李在明施政差评率首次反超好评率](https://news.cctv.com/2026/06/22/ARTI9ZmS3YuSlw52WEUEmB5j260622.shtml)
 
++ [美最高法院裁决支持特朗普强硬移民政策](https://news.cctv.com/2026/06/26/ARTIdJ8c6tRCtQlSKqiCu4KO260626.shtml)
+
++ [消息人士：以军撤离黎巴嫩是伊朗重要“红线”](https://news.cctv.com/2026/06/26/ARTIuu9weGgNjJSjTmf95a4E260626.shtml)
+
