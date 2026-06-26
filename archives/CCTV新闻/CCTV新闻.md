@@ -159,3 +159,15 @@
 
 + [伊美就霍尔木兹海峡问题建立沟通热线](https://news.cctv.com/2026/06/27/ARTIde9ORjaOtNUHirLwQz3h260627.shtml)
 
++ [伊朗革命卫队称打击美军驻点以回应沿海地区遭袭](https://news.cctv.com/2026/06/27/ARTIZdSDYoOmB3ALkgwq93lr260627.shtml)
+
++ [委内瑞拉地震中国公民遇难人数升至7人](https://news.cctv.com/2026/06/27/ARTIBadp1z9nU3PCfm6gZic7260627.shtml)
+
++ [黎巴嫩总统：达成框架协议是恢复黎主权的第一步](https://news.cctv.com/2026/06/27/ARTIqUjQbawJyjudfM8iMxAk260627.shtml)
+
++ [美军称对伊朗实施打击以回应商船遭袭事件](https://news.cctv.com/2026/06/27/ARTIDN942GpJehutSfeuMqCc260627.shtml)
+
++ [美称设立军事协调小组协助落实美以黎三方框架协议](https://news.cctv.com/2026/06/27/ARTIHk8xOt6qCUSWeehgRWjT260627.shtml)
+
++ [委内瑞拉强震死亡人数上升至920人](https://news.cctv.com/2026/06/27/ARTIqKuvsbF6vgdai4IlyRmK260627.shtml)
+
