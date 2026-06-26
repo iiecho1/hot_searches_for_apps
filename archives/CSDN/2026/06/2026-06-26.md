@@ -155,3 +155,21 @@
 
 + [Python 异步并发：从 asyncio 到结构化并发的实战思考](https://blog.csdn.net/2401_87746054/article/details/162315098)
 
++ [基于 WorkBuddy+CodeBuddy 集成 drawio-skill：自然语言文本一键生成可编辑 Draw.io 图表实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/162315670)
+
++ [【Linux网络】多路转接和反应堆模式：基于单Reactor实现的网络版本计算器](https://blog.csdn.net/2401_89899187/article/details/162182063)
+
++ [I/O多路复用](https://blog.csdn.net/2301_80140457/article/details/162246750)
+
++ [Elasticsearch ES|QL：现已支持视图、子查询和读取时模式定义](https://blog.csdn.net/UbuntuTouch/article/details/162328311)
+
++ [Prometheus发现故障只是第一步，把告警送到钉钉才是真正的闭环](https://blog.csdn.net/COLLINSXU/article/details/162334013)
+
++ [像素级还原的组件工程：从设计规范到高保真 UI 组件的系统性方法](https://blog.csdn.net/leopold_man/article/details/162273756)
+
++ [Kafka 集群高可用架构：从副本机制到 Exactly-Once 语义的深度实践](https://blog.csdn.net/dicky_zhang3/article/details/162273488)
+
++ [SpringBoot+Vue3 ERP 采购管理设计：采购申请→订单→入库→付款全链路与供应商台账](https://blog.csdn.net/zhouzhongyan/article/details/162330719)
+
++ [阿里云 ECS 购买 + Docker Compose 部署全栈项目完整指南](https://blog.csdn.net/2301_80216352/article/details/162310443)
+

@@ -165,3 +165,19 @@
 
 + [2名中国公民在委内瑞拉地震中遇难](https://news.cctv.com/2026/06/26/ARTIPx4YlKLRJjmLbqBts6SM260626.shtml)
 
++ [日本东海第二核电站处于停运状态](https://news.cctv.com/2026/06/26/ARTIRFCqqse7QvRla0djNvT6260626.shtml)
+
++ [南非总统：将与非洲国家合作解决非法移民问题](https://news.cctv.com/2026/06/26/ARTI9cl6Qkm0eFHBcdsy3UhG260626.shtml)
+
++ [中方强调联合国建设和平工作要尊重主权和主导权](https://news.cctv.com/2026/06/26/ARTIYnX0EwIudI7XcpJ2IFMU260626.shtml)
+
++ [马克龙：法国和意大利希望建立多国联盟支持黎巴嫩](https://news.cctv.com/2026/06/26/ARTIp1d9JjODPuMeszLKLMkH260626.shtml)
+
++ [日本滑向穷兵黩武的方向](https://news.cctv.com/2026/06/26/ARTIe6TPlLWLy3go1m4egbOa260626.shtml)
+
++ [“战争经济”回潮，日本国家身份正在质变](https://news.cctv.com/2026/06/26/ARTIKunTabrqk1EelVT1RRbs260626.shtml)
+
++ [中国AI落地具备独特优势——访世界经济论坛首席技术官默根特勒](https://news.cctv.com/2026/06/26/ARTIkhPzZwaheDhuyf8u2iFB260626.shtml)
+
++ [非洲疾控中心：抗击埃博拉所需资金升至14亿美元](https://news.cctv.com/2026/06/26/ARTI7V31gyHrT9fH9fZkburn260626.shtml)
+
