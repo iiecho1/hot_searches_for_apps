@@ -173,3 +173,19 @@
 
 + [阿里云 ECS 购买 + Docker Compose 部署全栈项目完整指南](https://blog.csdn.net/2301_80216352/article/details/162310443)
 
++ [《如何通过Ansible解决：多节点人工采集Node Exporter采集Linux主机的CPU、内存、磁盘和网络指标自动化》](https://blog.csdn.net/Dovis5884/article/details/162334133)
+
++ [“9B 小模型，干出 Claude Mythos 味道？我被这个开源怪物惊到了](https://blog.csdn.net/chen695969/article/details/162268802)
+
++ [【花雕学编程】Arduino BLDC 之机器人融合IMU的滑移补偿与方向修正控制](https://blog.csdn.net/weixin_41659040/article/details/162292112)
+
++ [2026年6月25日科技热点新闻](https://blog.csdn.net/BluerCat/article/details/162294517)
+
++ [SFS-DETR: 用于无人机目标检测的空间-频率选择](https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/162292202)
+
++ [从 MapReduce 磁盘落盘到 Spark RDD 内存流式处理：分布式计算的底层演进与架构权衡](https://blog.csdn.net/nvd11/article/details/162315389)
+
++ [HTTPS 性能优化完全指南：从原理、硬件到架构的全链路调优实战](https://blog.csdn.net/weixin_44479706/article/details/162316122)
+
++ [基于YOLO26的晶圆缺陷检测系统（Python源码+数据集+Pyside6界面）](https://blog.csdn.net/m0_63774211/article/details/162008139)
+

@@ -181,3 +181,17 @@
 
 + [非洲疾控中心：抗击埃博拉所需资金升至14亿美元](https://news.cctv.com/2026/06/26/ARTI7V31gyHrT9fH9fZkburn260626.shtml)
 
++ [双台风逼近日本 多家航空公司取消航班](https://news.cctv.com/2026/06/26/ARTIPgg2dm3wE5sY8jbSTKZ8260626.shtml)
+
++ [法国高温天气持续 溺水死亡人数升至55人](https://news.cctv.com/2026/06/26/ARTI8OHutY7A39cyfQyZ8xDH260626.shtml)
+
++ [为“星舰”供燃料 SpaceX要自建天然气管道](https://news.cctv.com/2026/06/26/ARTIBwIAUPdRnQPztgRivGKv260626.shtml)
+
++ [金建希因“卖官鬻爵”案获刑 律师表示将上诉](https://news.cctv.com/2026/06/26/ARTIPztYip7Ir05Th6FUF3Ht260626.shtml)
+
++ [国际原子能机构：已同伊朗开展技术层面“初步磋商”](https://news.cctv.com/2026/06/26/ARTIymGSAO1dDNSKvJkUTapP260626.shtml)
+
++ [金建希涉嫌“卖官鬻爵”案一审宣判 获刑7年](https://news.cctv.com/2026/06/26/ARTIqIrTy8Z6Ygw2ePCuMT7z260626.shtml)
+
++ [受地震影响 日本成田机场部分跑道关闭](https://news.cctv.com/2026/06/26/ARTIp3TRhJEpZcHcmRaAUE4N260626.shtml)
+
