@@ -25,3 +25,19 @@
 
 + [7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4&quot; 主摄](https://m.ithome.com/html/969232.htm)
 
++ [苹果提高 Mac、iPad、Vision Pro、HomePod 等产品价格，以应对内存短缺](https://m.ithome.com/html/968675.htm)
+
++ [138.8 万元起，尊界 S800 Grand Design 典藏大观正式发布](https://m.ithome.com/html/968672.htm)
+
++ [曝奔驰在华裁员已蔓延至研发和制造，有人拿到 N+9 补偿](https://m.ithome.com/html/968396.htm)
+
++ [半导体行业重大突破！IBM 推出全球首个亚 1 纳米芯片技术](https://m.ithome.com/html/968648.htm)
+
++ [鸿蒙智行尊界 V800/V680 亮相，预售价 80 万-120 万 / 65 万-90 万元](https://m.ithome.com/html/968674.htm)
+
++ [俞浩社交账号已被追觅公司接管：网上喊目标是做极限测试，曝全民自媒体计划已终止](https://m.ithome.com/html/968407.htm)
+
++ [SemiAnalysis：长鑫存储稳居全球第四大 DRAM 制造商，年底产能有望超越美光拿下第三](https://m.ithome.com/html/968434.htm)
+
++ [鸿蒙智行尊界 V800/V680 预售 1 小时订单量突破 3200 台，预售价 65 万起](https://m.ithome.com/html/968697.htm)
+

@@ -157,3 +157,5 @@
 
 + [国际海事组织宣布启动霍尔木兹海峡滞留海员疏散计划](https://news.cctv.com/2026/06/24/ARTI6IDA80gHOAkEbkcXz5fJ260623.shtml)
 
++ [伊美就霍尔木兹海峡问题建立沟通热线](https://news.cctv.com/2026/06/27/ARTIde9ORjaOtNUHirLwQz3h260627.shtml)
+
