@@ -155,3 +155,13 @@
 
 + [消息人士：以军撤离黎巴嫩是伊朗重要“红线”](https://news.cctv.com/2026/06/26/ARTIuu9weGgNjJSjTmf95a4E260626.shtml)
 
++ [委内瑞拉强震已致235人死亡](https://news.cctv.com/2026/06/26/ARTIGeZrrWsnu9JTWuWp95dD260626.shtml)
+
++ [【8点见】中国足协：7月1日起将启用新规](https://news.cctv.com/2026/06/26/ARTIn7JdbTGFdlTxRnt3d9G5260626.shtml)
+
++ [霍尔木兹海峡通航量恢复至战事前近六成水平](https://news.cctv.com/2026/06/26/ARTIfnVO0D97XrXSVi7Db8Sg260626.shtml)
+
++ [意大利外长否认美军使用该国军事基地轰炸伊朗](https://news.cctv.com/2026/06/26/ARTIpfOtWePaJMWhQbyPx9Vf260626.shtml)
+
++ [2名中国公民在委内瑞拉地震中遇难](https://news.cctv.com/2026/06/26/ARTIPx4YlKLRJjmLbqBts6SM260626.shtml)
+

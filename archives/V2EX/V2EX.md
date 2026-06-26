@@ -21,3 +21,13 @@
 
 + [这个夏天疯狂爆痘](https://www.v2ex.com/t/1222717)
 
++ [如何看待苹果 6 月 25 日 Mac， iPad 全线涨价 20%？](https://www.v2ex.com/t/1222950)
+
++ [感谢大家帮忙公测，现已上架国区 App Store（送年度会员）🎉](https://www.v2ex.com/t/1222800)
+
++ [ Apple 平板和电脑涨价](https://www.v2ex.com/t/1222904)
+
++ [V 站越到后面，靠签到领取的铜币会越来越少，被迫发帖讨要铜币](https://www.v2ex.com/t/1222945)
+
++ [想使用 Linux 平台做日常开发环境，有什么比较推荐的姿势？](https://www.v2ex.com/t/1222741)
+

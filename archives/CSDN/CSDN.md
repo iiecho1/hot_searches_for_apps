@@ -133,3 +133,25 @@
 
 + [鸿蒙Flutter戏曲欣赏页面开发：剧种配色与脸谱图鉴](https://blog.csdn.net/weixin_52908342/article/details/162282379)
 
++ [GraphQL 生产实践：N+1 查询优化与 DataLoader 批量加载机制](https://blog.csdn.net/qq_40635035/article/details/162273716)
+
++ [Go 并发安全实战：深入理解 sync.Map 的底层机制与适用边界](https://blog.csdn.net/baronbool/article/details/162314949)
+
++ [【花雕动手做】行空板 K10 系列实验之人工智能调用语音合成 TTS 天黑点灯](https://blog.csdn.net/weixin_41659040/article/details/162278425)
+
++ [鸿蒙 App 如何设计 Memory Center？一文讲透 Agent 的长期记忆架构](https://blog.csdn.net/qq_36478920/article/details/162306679)
+
++ [当 AI 遇上数据分析：从特征工程到智能洞察的实战路径](https://blog.csdn.net/2401_85575345/article/details/162226393)
+
++ [超卖优化：基于历史水位预测的K8s多卡GPU动态超卖调度实现](https://blog.csdn.net/m0_50889382/article/details/162273201)
+
++ [Node.js 高并发服务设计：从事件循环到流式处理的工程化方案](https://blog.csdn.net/qq_34803115/article/details/162273144)
+
++ [LLM 代码题解生成与自动验证：从 Prompt 工程到测试驱动的闭环实践](https://blog.csdn.net/cannonjinx/article/details/162273225)
+
++ [推理的本质：重新理解大语言模型的「思考」——Denny Zhou 斯坦福 CS25 讲座精读](https://blog.csdn.net/yangshangwei/article/details/162176530)
+
++ [Python 性能优化：从热点定位到计算加速的工程实践](https://blog.csdn.net/lady_mumu/article/details/162227480)
+
++ [Python 异步并发：从 asyncio 到结构化并发的实战思考](https://blog.csdn.net/2401_87746054/article/details/162315098)
+
