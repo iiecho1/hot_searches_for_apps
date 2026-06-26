@@ -33,3 +33,17 @@
 
 + [every-app/open-seo](https://github.com/every-app/open-seo)
 
++ [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+
++ [commaai/openpilot](https://github.com/commaai/openpilot)
+
++ [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
+
++ [grafana/grafana](https://github.com/grafana/grafana)
+
++ [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
++ [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+
++ [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+

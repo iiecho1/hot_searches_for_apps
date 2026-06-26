@@ -195,3 +195,11 @@
 
 + [受地震影响 日本成田机场部分跑道关闭](https://news.cctv.com/2026/06/26/ARTIp3TRhJEpZcHcmRaAUE4N260626.shtml)
 
++ [委内瑞拉强震死亡人数上升至589人](https://news.cctv.com/2026/06/26/ARTIHe78gpyxkUytlBK0eUPS260626.shtml)
+
++ [苏拉威西海发生6.5级地震，震源深度20千米](https://news.cctv.com/2026/06/26/ARTI2RkP0WFyNOjBRJAhtkbc260626.shtml)
+
++ [停运近四个月后 伊朗基什国际机场恢复运营](https://news.cctv.com/2026/06/26/ARTI0EDyssgNo6MpWCG7hHY7260626.shtml)
+
++ [伊朗外交部：海合会与美国联合声明“挑衅且不负责任”](https://news.cctv.com/2026/06/26/ARTIXk8eZUWGm80gaiWOrNEA260626.shtml)
+
