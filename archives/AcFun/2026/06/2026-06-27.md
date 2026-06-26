@@ -61,3 +61,7 @@
 
 + [原来不止生活有甜酸苦辣，粽子也有！](https://m.acfun.cn/v/?ac=48644642)
 
++ [粤语燃唱！《未来Compass》【美依礼芽x宫崎步x碧蓝航线九周年】祝大家爆率超高！](https://m.acfun.cn/v/?ac=48642190)
+
++ [【东方】INDIGOQUARTZ【ぱらどっと Complextro/Colour House】](https://m.acfun.cn/v/?ac=48644110)
+
