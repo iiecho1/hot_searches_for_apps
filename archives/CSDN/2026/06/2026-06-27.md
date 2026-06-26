@@ -101,3 +101,7 @@
 
 + [Python 异步并发：从 asyncio 到结构化并发的实战思考](https://blog.csdn.net/2401_87746054/article/details/162315098)
 
++ [简历智能解析：构建面向招聘场景的结构化提取方案（附GitHub项目地址）](https://blog.csdn.net/INTSIG/article/details/162312360)
+
++ [基于YOLO26的晶圆缺陷检测系统（Python源码+数据集+Pyside6界面）](https://blog.csdn.net/m0_63774211/article/details/162008139)
+
