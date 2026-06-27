@@ -171,3 +171,5 @@
 
 + [委内瑞拉强震死亡人数上升至920人](https://news.cctv.com/2026/06/27/ARTIqKuvsbF6vgdai4IlyRmK260627.shtml)
 
++ [特朗普威胁对欧洲国家征收100%报复性关税](https://news.cctv.com/2026/06/27/ARTIXMvFPYTAs1UkEJ8RGtb2260627.shtml)
+
