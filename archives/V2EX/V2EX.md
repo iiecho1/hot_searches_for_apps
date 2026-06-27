@@ -29,3 +29,21 @@
 
 + [比亚迪股票这太惨了](https://www.v2ex.com/t/1223045)
 
++ [曾经倾力帮我的学长，如今再也不回消息。](https://www.v2ex.com/t/1223282)
+
++ [apple 涨价，心态炸了，紧急补仓！](https://www.v2ex.com/t/1223129)
+
++ [gpt 写前端页面很丑怎么办？](https://www.v2ex.com/t/1223111)
+
++ [Anthropic 指控阿里巴巴对 Claude 进行了大规模蒸馏攻击](https://www.v2ex.com/t/1223127)
+
++ [买房：纠结品质，还是地段](https://www.v2ex.com/t/1223109)
+
++ [有在草原长大的朋友吗？ 在国内哪里能看到类似的风景呢（图见正文）。](https://www.v2ex.com/t/1223257)
+
++ [”“亲历，接到过国内派出所关于“翻墙”的质询。”“](https://www.v2ex.com/t/1223269)
+
++ [PDD 百亿补贴发了个拆封 iPhone](https://www.v2ex.com/t/1223268)
+
++ [ClaudeCode 稳定的美国出口 IP 都能被封](https://www.v2ex.com/t/1223262)
+

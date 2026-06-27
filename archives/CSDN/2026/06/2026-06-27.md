@@ -105,3 +105,37 @@
 
 + [基于YOLO26的晶圆缺陷检测系统（Python源码+数据集+Pyside6界面）](https://blog.csdn.net/m0_63774211/article/details/162008139)
 
++ [lac_agent自愈链路上篇——crontab守护的那些坑与健康检查实战](https://blog.csdn.net/qq_32682301/article/details/162352269)
+
++ [AI 数据分析实战：从 NL2SQL 到智能归因](https://blog.csdn.net/2401_85575345/article/details/162348596)
+
++ [AI 链上数据分析：Ethereum 交易模式识别与异常检测的工程实战](https://blog.csdn.net/qq_40635035/article/details/162349075)
+
++ [PyTorch 张量计算与自动微分：从底层机制到工程实践](https://blog.csdn.net/lady_mumu/article/details/162314967)
+
++ [GitOps 交付闭环：ArgoCD 多集群同步与漂移检测实战](https://blog.csdn.net/qwe0iop0/article/details/162349021)
+
++ [执行计划里的暗坑：MySQL 优化器选错索引的根因与应对](https://blog.csdn.net/guoyizhongxing/article/details/162348520)
+
++ [从设计稿到代码：AI 生成前端界面的 Prompt 工程与流程优化](https://blog.csdn.net/leopold_man/article/details/162349144)
+
++ [Rust 系统编程：抽象与内存的实际取舍](https://blog.csdn.net/2301_81410839/article/details/162348688)
+
++ [【AI Agent工程化】工具会调用不等于能上线：参数契约、权限边界、幂等与回放测试](https://blog.csdn.net/2402_87731470/article/details/162017040)
+
++ [Loop Engineering ：从提示词工程到循环工程，AI 编程的范式革命](https://blog.csdn.net/2401_87662859/article/details/162281325)
+
++ [Spring Cloud 微服务分布式事务：从 Seata AT 到最终一致性的工程落地](https://blog.csdn.net/dicky_zhang3/article/details/162273151)
+
++ [Prompt Engineering-从模糊指令到精准执行的工程实践](https://blog.csdn.net/2301_79289774/article/details/162271652)
+
++ [多 Agent 协作系统设计：从单点智能到群体决策的工程实践](https://blog.csdn.net/baronbool/article/details/162348721)
+
++ [【C/C++】C1000K 百万连接测试：Linux 参数、fd 限制和 epoll 压测客户端](https://blog.csdn.net/wycgi/article/details/162312306)
+
++ [Re：Linux系统篇（三十八）通信篇·三：深入浅出 Linux 命名管道：如何用 FIFO 实现跨进程通话与文件传输](https://blog.csdn.net/Z2314246476/article/details/162076553)
+
++ [基于 YOLOv8 与 K230 的 PCB 缺陷检测项目](https://blog.csdn.net/2401_84910555/article/details/162360312)
+
++ [AI Skill 开发与评测全解析：四个指标 + 六大组成，从微信到 Claude Code](https://blog.csdn.net/2401_87961121/article/details/162347701)
+

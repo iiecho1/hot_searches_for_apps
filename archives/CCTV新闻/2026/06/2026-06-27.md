@@ -173,3 +173,5 @@
 
 + [特朗普威胁对欧洲国家征收100%报复性关税](https://news.cctv.com/2026/06/27/ARTIXMvFPYTAs1UkEJ8RGtb2260627.shtml)
 
++ [英国6月最高气温纪录连续3天被打破](https://news.cctv.com/2026/06/27/ARTINJZvEk3owNAg8y99gyFk260627.shtml)
+
