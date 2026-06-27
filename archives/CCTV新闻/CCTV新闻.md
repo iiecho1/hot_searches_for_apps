@@ -165,3 +165,5 @@
 
 + [以防长：已指示以军做好长期驻留黎南部“安全区”的准备](https://news.cctv.com/2026/06/28/ARTIdQBLpMJV79lsS3MOOsK5260628.shtml)
 
++ [伊朗锡里克地区传出爆炸声 美军称再对伊实施打击](https://military.cctv.com/2026/06/28/ARTINOD2ptL97CJ2EY12o8XC260628.shtml)
+
