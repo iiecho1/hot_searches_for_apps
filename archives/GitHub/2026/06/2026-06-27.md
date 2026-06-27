@@ -35,3 +35,25 @@
 
 + [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+
++ [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+
++ [topoteretes/cognee](https://github.com/topoteretes/cognee)
+
++ [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
+
++ [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+
++ [anomalyco/opencode](https://github.com/anomalyco/opencode)
+
++ [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+
++ [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+
++ [keycloak/keycloak](https://github.com/keycloak/keycloak)
+
++ [every-app/open-seo](https://github.com/every-app/open-seo)
+

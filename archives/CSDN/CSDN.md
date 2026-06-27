@@ -139,3 +139,25 @@
 
 + [AI Skill 开发与评测全解析：四个指标 + 六大组成，从微信到 Claude Code](https://blog.csdn.net/2401_87961121/article/details/162347701)
 
++ [OpenClaw Docker 部署：从开发到生产的容器化实战](https://blog.csdn.net/sinat_41617212/article/details/162362583)
+
++ [【花雕动手做】行空板 K10 系列实验之实时语音控制3640机器人电机正向与反向旋转](https://blog.csdn.net/weixin_41659040/article/details/162341518)
+
++ [用视频数据采集 API 构建个人视频搜索引擎：从 C 罗频道到 Elasticsearch 全文检索](https://blog.csdn.net/qq_46092061/article/details/162348663)
+
++ [数据库视图和MyBatis XML到底怎么选？一个真实项目的对比](https://blog.csdn.net/2401_87961121/article/details/162280290)
+
++ [鸿蒙 App 如何设计 Memory Center？一文讲透 Agent 的长期记忆架构](https://blog.csdn.net/qq_36478920/article/details/162306679)
+
++ [苍穹外卖【day7|缓存套餐_Spring Cache】](https://blog.csdn.net/2503_94545876/article/details/162295984)
+
++ [数据库慢查询排查：从 EXPLAIN 到索引优化](https://blog.csdn.net/iymei4986533030/article/details/162315259)
+
++ [【Codex】用Kaggle竞赛项目模块管理数据竞赛学习资源](https://blog.csdn.net/qq_20288327/article/details/160533369)
+
++ [ImGui: 一套C++ 即时模式 GUI（Immediate Mode GUI，IMGUI） 开源库](https://blog.csdn.net/haokan123456789/article/details/162349773)
+
++ [【MATLAB】多无人机协同飞行间距保持控制仿真](https://blog.csdn.net/unbelievevc/article/details/162358437)
+
++ [基于 C++ 设计的（控制台）唐诗三百首](https://blog.csdn.net/s1t16/article/details/162293384)
+
