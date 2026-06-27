@@ -175,3 +175,9 @@
 
 + [英国6月最高气温纪录连续3天被打破](https://news.cctv.com/2026/06/27/ARTINJZvEk3owNAg8y99gyFk260627.shtml)
 
++ [伊朗高级官员：美国不遵守谈判和停火原则](https://news.cctv.com/2026/06/27/ARTIgwicqepqSnpDbj0RYNCd260627.shtml)
+
++ [完工未满一月 美国林肯纪念堂倒影池又要返修](https://news.cctv.com/2026/06/27/ARTIhZoWYk3mLWNSnsm2VRZi260627.shtml)
+
++ [时隔近4个月 沙特重启海湾原油出口终端](https://news.cctv.com/2026/06/27/ARTI6Acb9599ZLqOHxK4Gwkh260627.shtml)
+

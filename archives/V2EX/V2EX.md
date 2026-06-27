@@ -47,3 +47,13 @@
 
 + [ClaudeCode 稳定的美国出口 IP 都能被封](https://www.v2ex.com/t/1223262)
 
++ [抽 5 个智友社的 GPTPLUS 稳定渠道成品号（满月测试稳定度 99% ）](https://www.v2ex.com/t/1223284)
+
++ [梯子坏了 vless 加 reality 突然就坏了](https://www.v2ex.com/t/1223266)
+
++ [自己撸了个英语阅读抗阻力训练浏览器插件 Flipword ，让中文网页自然“长出”英语， 在日常浏览中不知不觉解锁英语能力](https://www.v2ex.com/t/1223287)
+
++ [你有新的速率限制重置机会～](https://www.v2ex.com/t/1223251)
+
++ [VIBE CODING 时代，应用开发是否应该使用 ORM ？](https://www.v2ex.com/t/1223254)
+
