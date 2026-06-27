@@ -157,3 +157,5 @@
 
 + [哥伦比亚官方确认德拉埃斯普列亚当选新任总统](https://news.cctv.com/2026/06/25/ARTIvhFLOqLXMONZZ4guNJJn260625.shtml)
 
++ [委内瑞拉最大机场已部分恢复运营](https://news.cctv.com/2026/06/28/ARTIShTbnxXnbWnf1peS6o96260627.shtml)
+
