@@ -159,3 +159,9 @@
 
 + [委内瑞拉最大机场已部分恢复运营](https://news.cctv.com/2026/06/28/ARTIShTbnxXnbWnf1peS6o96260627.shtml)
 
++ [委内瑞拉地震中国公民遇难人数升至8人](https://news.cctv.com/2026/06/28/ARTIaXjJcY5FAYSdq7Pfar6r260628.shtml)
+
++ [日本本州东部附近海域发生5.9级地震 震源深度90公里](https://news.cctv.com/2026/06/28/ARTIod6LrQI6Kvbt1fhIUrmh260628.shtml)
+
++ [以防长：已指示以军做好长期驻留黎南部“安全区”的准备](https://news.cctv.com/2026/06/28/ARTIdQBLpMJV79lsS3MOOsK5260628.shtml)
+

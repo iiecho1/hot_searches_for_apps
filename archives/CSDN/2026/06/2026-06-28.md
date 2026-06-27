@@ -109,3 +109,11 @@
 
 + [Google：ReAct 推理与行动协同框架](https://blog.csdn.net/qq_43042024/article/details/162348211)
 
++ [Kubernetes 生产集群故障自愈：从 Pod 驱逐到节点自动恢复的实战进阶](https://blog.csdn.net/qwe0iop0/article/details/162314988)
+
++ [Oracle - 归档模式与非归档模式，配置与切换方法](https://blog.csdn.net/qq_41187124/article/details/157584564)
+
++ [飞书机器人+MCP Client实战-Spring Boot 3智能桥接方案](https://blog.csdn.net/weixin_39970883/article/details/162374535)
+
++ [【LangChain】 中的工具（Tools）——自定义工具调用与 ReAct 隐性纠错](https://blog.csdn.net/songhuangong123/article/details/162369733)
+
