@@ -167,3 +167,9 @@
 
 + [伊朗锡里克地区传出爆炸声 美军称再对伊实施打击](https://military.cctv.com/2026/06/28/ARTINOD2ptL97CJ2EY12o8XC260628.shtml)
 
++ [塞尔维亚总统武契奇：将在数周后辞职](https://news.cctv.com/2026/06/28/ARTINPMX3LOHMeTQin4mxCE9260628.shtml)
+
++ [以总理：以色列保留了北部边境所需全部“安全区”](https://news.cctv.com/2026/06/28/ARTI11sozeT6bYun6nrB2eNf260628.shtml)
+
++ [委内瑞拉震后当地华侨华人已捐赠500吨救灾物资](https://news.cctv.com/2026/06/28/ARTI7UYx5BCfulLqtek4wJix260628.shtml)
+

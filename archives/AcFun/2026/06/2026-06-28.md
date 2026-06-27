@@ -69,3 +69,5 @@
 
 + [桢-20260626 chocolatecream 上下 stickysticky newthang](https://m.acfun.cn/v/?ac=48646312)
 
++ [【绝望女神/配音】【生化危机8:萝丝魅影 萝丝玛丽】](https://m.acfun.cn/v/?ac=48647136)
+

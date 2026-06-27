@@ -117,3 +117,5 @@
 
 + [【LangChain】 中的工具（Tools）——自定义工具调用与 ReAct 隐性纠错](https://blog.csdn.net/songhuangong123/article/details/162369733)
 
++ [【Java项目-轻聊】12-实现消息管理模块-WebSocket协议详解](https://blog.csdn.net/2301_81982617/article/details/162274759)
+
