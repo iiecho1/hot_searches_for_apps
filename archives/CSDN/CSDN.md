@@ -101,3 +101,11 @@
 
 + [GitHub Copilot - 尝试一下DeepSeek接入Visual Studio Code和Github Copilot CLI中](https://blog.csdn.net/limingdinghao/article/details/162346631)
 
++ [Bright Data Data Firehose 电商价格监控实战：从 API 采集到 Firehose 实时推送全流程实战](https://blog.csdn.net/weixin_52908342/article/details/162345260)
+
++ [用 Cursor 智能编写 Ansible/Terraform 脚本，打通 CI/CD 链路](https://blog.csdn.net/He_CSDN2025/article/details/162349279)
+
++ [夸克高考志愿系统实测：免费工具的天花板，但天花板不是答案](https://blog.csdn.net/longzekai/article/details/162373453)
+
++ [Google：ReAct 推理与行动协同框架](https://blog.csdn.net/qq_43042024/article/details/162348211)
+
