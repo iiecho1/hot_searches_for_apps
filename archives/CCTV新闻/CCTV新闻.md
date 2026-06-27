@@ -181,3 +181,15 @@
 
 + [时隔近4个月 沙特重启海湾原油出口终端](https://news.cctv.com/2026/06/27/ARTI6Acb9599ZLqOHxK4Gwkh260627.shtml)
 
++ [阿富汗兴都库什地区发生5.9级地震 首都喀布尔震感明显](https://news.cctv.com/2026/06/27/ARTIzDL0SYUYOsh4mhYSFkPg260627.shtml)
+
++ [预报显示委内瑞拉地震灾区将迎来降雨](https://news.cctv.com/2026/06/27/ARTIvn5e1lrmB6FQet70PuTE260627.shtml)
+
++ [澳大利亚将加强针对16岁以下人群社交媒体禁令](https://news.cctv.com/2026/06/27/ARTI9UbmCMLbSrTGXrARfTDj260627.shtml)
+
++ [欧洲现役最老核电站因高温暂停运行](https://news.cctv.com/2026/06/27/ARTIIwPZ6JyKSsIisaqRC51s260627.shtml)
+
++ [中非共和国暴发霍乱疫情 已致24人死亡](https://news.cctv.com/2026/06/27/ARTIzjhMTYLmGCkLSaXrBLGW260627.shtml)
+
++ [黎以美达成框架协议后以军再袭黎南部](https://news.cctv.com/2026/06/27/ARTImPLpic4kXW536tMtpFuR260627.shtml)
+
