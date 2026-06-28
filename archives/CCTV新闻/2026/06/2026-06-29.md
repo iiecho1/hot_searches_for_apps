@@ -163,3 +163,5 @@
 
 + [欧洲已记录到与高温相关的1300多例超额死亡](https://news.cctv.com/2026/06/29/ARTIugUP9LPjqnYQ5WtJpHbe260628.shtml)
 
++ [普京：俄罗斯将坚定捍卫自身根本利益](https://news.cctv.com/2026/06/29/ARTIxqlSpXwX2fsBNx1XegPZ260628.shtml)
+

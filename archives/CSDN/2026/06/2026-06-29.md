@@ -125,3 +125,13 @@
 
 + [看板管理自动化：用 OpenClaw 自动更新 Trello / 飞书看板状态、生成燃尽图](https://blog.csdn.net/qinzhenyan/article/details/162369192)
 
++ [2026实测：主流AI编程工具Copilot平替全维度对比](https://blog.csdn.net/aaaa95472665/article/details/162342427)
+
++ [花 77 美元买来的教训：为什么你的「分层渐进」压缩让缓存每步都失效？](https://blog.csdn.net/hanya_10086/article/details/162396577)
+
++ [Vue / React 项目 10 分钟接入网页静默打印](https://blog.csdn.net/weixiaoyiDM/article/details/162345758)
+
++ [图像饱和度调节FPGA实现](https://blog.csdn.net/cjie221/article/details/162370655)
+
++ [基于传输熵理论的通信网络拓扑结构推理算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/162373427)
+
