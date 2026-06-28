@@ -25,3 +25,27 @@
 
 + [苹果英国经销商被指擅自涨价：买家调价前下单 128G 内存版 MacBook Pro，仍被要求补差价](https://m.ithome.com/html/969657.htm)
 
++ [苹果 iPhone 18 Pro 芯片 A20 Pro 爆料：更强散热和 NPU，支持 96-bit 位宽 LPDDR6 内存](https://m.ithome.com/html/969326.htm)
+
++ [AI 账单失控后 DeepSeek 成“香饽饽”，部分美国企业已 100% 切换](https://m.ithome.com/html/969400.htm)
+
++ [美博主“仿”美光 CEO 吐槽苹果：我芯片涨 45 美元，你向消费者加价 250 美元](https://m.ithome.com/html/969369.htm)
+
++ [马斯克公开发声支持苹果 CEO 库克：内存涨价幅度“前所未见”](https://m.ithome.com/html/969314.htm)
+
++ [中国邮政：EMS 是高考录取通知书唯一指定寄递渠道，专用大红封套](https://m.ithome.com/html/969290.htm)
+
++ [央视曝数码产品网络测评乱象：特供样机、固件作弊、云端调控三重手段](https://m.ithome.com/html/969499.htm)
+
++ [金山办公 WPS 回应 C 盘占用问题：将上线磁盘存储管理功能](https://m.ithome.com/html/969347.htm)
+
++ [华为余承东：全新一代问界 M9 系列上市 1 个月大定破 4.2 万台](https://m.ithome.com/html/969434.htm)
+
++ [阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色](https://m.ithome.com/html/969334.htm)
+
++ [微软 Win11“时光机”细节：最高占用 50GB，系统盘超 200GB 默认启用](https://m.ithome.com/html/969341.htm)
+
++ [苹果 iOS 27 Beta 2 固件代码曝光，百度视觉搜索组件现身](https://m.ithome.com/html/969321.htm)
+
++ [联想警告：高价内存将是贯穿 2030 年的“新常态”，涨价后再难回落](https://m.ithome.com/html/969500.htm)
+
