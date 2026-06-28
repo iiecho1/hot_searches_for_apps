@@ -165,3 +165,15 @@
 
 + [普京：俄罗斯将坚定捍卫自身根本利益](https://news.cctv.com/2026/06/29/ARTIxqlSpXwX2fsBNx1XegPZ260628.shtml)
 
++ [国际清算银行警告全球经济面临多重压力](https://news.cctv.com/2026/06/29/ARTI8RcG9KNsezi4pSGJrJ2z260629.shtml)
+
++ [马杜罗社交媒体账号再发文：感谢国际社会震后援助](https://news.cctv.com/2026/06/29/ARTI07hd3HXjKkoFXnh5E47W260629.shtml)
+
++ [中方在联合国人权理事会妇女权利问题研讨会阐明立场](https://news.cctv.com/2026/06/29/ARTIInh3RuC5lDoV6CocBmak260629.shtml)
+
++ [普京：俄建议乌俄双方均停止打击对方领土纵深目标](https://news.cctv.com/2026/06/29/ARTI37P55h7cRO1D03X60QWo260629.shtml)
+
++ [伊朗官员：受遭袭事件影响 伊方缺席28日的美伊技术性谈判](https://news.cctv.com/2026/06/29/ARTIzyzSLbaB5pr4doMs1a6Z260629.shtml)
+
++ [美官员：美伊计划于30日在卡塔尔首都举行会谈](https://news.cctv.com/2026/06/29/ARTIlZJwTG200WtkrlR99Pjz260629.shtml)
+
