@@ -191,3 +191,15 @@
 
 + [看板管理自动化：用 OpenClaw 自动更新 Trello / 飞书看板状态、生成燃尽图](https://blog.csdn.net/qinzhenyan/article/details/162369192)
 
++ [Docker 与 Docker Compose 从理论到实战教程](https://blog.csdn.net/qq_24330181/article/details/162374089)
+
++ [2026实测：AI编程工具使用方法（vibe coding实战指南](https://blog.csdn.net/2601_96119747/article/details/162360862)
+
++ [hiprint 与 web-print-pdf 选型对比](https://blog.csdn.net/weixiaoyiDM/article/details/162375565)
+
++ [AI编程实战：如何开发一个谷歌浏览器插件，并上架 Chrome 商店？](https://blog.csdn.net/zxc18344522713/article/details/162397462)
+
++ [公车管理怎么管住‘谁在用、什么时候还‘：用车申请、审批选车、还车登记的闭环设计](https://blog.csdn.net/zhouzhongyan/article/details/162394672)
+
++ [2026深度｜企业AI编程优势：金融风控场景选型与实战](https://blog.csdn.net/mmy_12/article/details/162316369)
+

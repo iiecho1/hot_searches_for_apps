@@ -25,3 +25,27 @@
 
 + [华为余承东：全新一代问界 M9 系列上市 1 个月大定破 4.2 万台](https://m.ithome.com/html/969434.htm)
 
++ [消息称小米首款 NAS“Xiaomi 智能存储”工程机配 2G RAM + 8G 闪存，双盘位最高支持 40TB SSD](https://m.ithome.com/html/969558.htm)
+
++ [苹果 Mac 用户集体力挺微软 Edge 浏览器：比 Chrome 更快、更省内存](https://m.ithome.com/html/969582.htm)
+
++ [内存大涨价，玩家用 DDR1 平台成功运行 Win11 系统](https://m.ithome.com/html/969588.htm)
+
++ [充电全程不用下车：理想行业首座全自动充电站落地，5C 超充桩已突破 5000 根](https://m.ithome.com/html/969518.htm)
+
++ [200 万粉网红诋毁袁隆平水稻育种技术，抖音发布通报宣布处置相关账号无限期封禁](https://m.ithome.com/html/969660.htm)
+
++ [消息称B站针对安卓平板的完美适配版本来了：灰度放量，目前为小米 Pad 独占](https://m.ithome.com/html/969684.htm)
+
++ [仅 20% 家庭有空调，央视揭秘欧洲“缺”空调背后的原因](https://m.ithome.com/html/969587.htm)
+
++ [小厂商太难了！一颗 8GB DRAM 从 35 美元涨到 300 美元](https://m.ithome.com/html/969650.htm)
+
++ [20.99 万-32.99 万元，启境 GT7 上市 24 小时大定突破 5200 台](https://m.ithome.com/html/969515.htm)
+
++ [消息称某安卓阵营大厂迭代旗舰线在评估华为 Pura 90 系列手机升杯策略，分标准版、Pro 和 Pro Max](https://m.ithome.com/html/969556.htm)
+
++ [“微博崩了”登上热搜：官方致歉称是某地数据中心出现故障所致，目前已经逐步修复](https://m.ithome.com/html/969677.htm)
+
++ [苹果英国经销商被指擅自涨价：买家调价前下单 128G 内存版 MacBook Pro，仍被要求补差价](https://m.ithome.com/html/969657.htm)
+

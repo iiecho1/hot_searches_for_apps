@@ -201,3 +201,5 @@
 
 + [以军称在黎南部打死数名真主党武装人员](https://news.cctv.com/2026/06/28/ARTIvNPTxmuHwvbqTCYNt8EY260628.shtml)
 
++ [伊朗外长：管理和恢复霍尔木兹海峡交通仅由伊朗负责](https://news.cctv.com/2026/06/28/ARTIN36ZX2eAY3Pzc3NGApR3260628.shtml)
+
