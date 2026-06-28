@@ -135,3 +135,9 @@
 
 + [基于传输熵理论的通信网络拓扑结构推理算法matlab仿真](https://blog.csdn.net/aycd1234/article/details/162373427)
 
++ [Elasticsearch ES|QL：现已支持视图、子查询和读取时模式定义](https://blog.csdn.net/UbuntuTouch/article/details/162328311)
+
++ [【无人机路径规划】基于粒子群算法PSO融合动态窗口法DWA的无人机三维动态避障路径规划研究（Matlab代码实现）](https://blog.csdn.net/Ke_Yan_She/article/details/162400088)
+
++ [【Ambari Plus】Step8—MariaDB 初始化](https://blog.csdn.net/TTBIGDATA/article/details/162373042)
+
