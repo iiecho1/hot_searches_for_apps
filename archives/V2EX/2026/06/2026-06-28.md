@@ -43,3 +43,11 @@
 
 + [整个厦门都处于军方的监控中，神经病无限的骚扰 离职 hirez 之后，就无止尽骚扰](https://www.v2ex.com/t/1223311)
 
++ [skills，真的重要嘛？大家来讨论下吧。](https://www.v2ex.com/t/1223394)
+
++ [某 mao 百亿补贴购买的 macbook air 未拆封在官网查询已经被激活，正常吗？](https://www.v2ex.com/t/1223415)
+
++ [看到《曾经倾力帮我的学长...》想到的](https://www.v2ex.com/t/1223372)
+
++ [Claude Pro 也被封号了](https://www.v2ex.com/t/1223397)
+

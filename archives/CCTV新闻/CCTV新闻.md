@@ -189,3 +189,15 @@
 
 + [特朗普称美军打击伊朗导弹和无人机储存地点](https://news.cctv.com/2026/06/28/ARTIZ2uTG3aIrtX8iYPoHUBT260628.shtml)
 
++ [以方称打死哈马斯一指挥官及两名成员](https://news.cctv.com/2026/06/28/ARTIQiVcT78URG7Hhh5CqHhV260628.shtml)
+
++ [世卫组织和非洲疾控中心成立应对埃博拉疫情指挥中心](https://news.cctv.com/2026/06/28/ARTIAz6vPVcqLQdvITPAxHOk260628.shtml)
+
++ [巴林称有居民楼在伊朗对美军设施打击中受损](https://news.cctv.com/2026/06/28/ARTIeAyIbTe771WeArxfEaUT260628.shtml)
+
++ [以军称在加沙地带打死两名哈马斯指挥官](https://news.cctv.com/2026/06/28/ARTIPJIGowB4zjrqumwLUekT260628.shtml)
+
++ [【讲习所·中国与世界】习近平：推动中孟两国关系向更高水平发展](https://news.cctv.com/2026/06/28/ARTIiY7VZf1RQI7Z3dzE2ZWm260628.shtml)
+
++ [以军称在黎南部打死数名真主党武装人员](https://news.cctv.com/2026/06/28/ARTIvNPTxmuHwvbqTCYNt8EY260628.shtml)
+
