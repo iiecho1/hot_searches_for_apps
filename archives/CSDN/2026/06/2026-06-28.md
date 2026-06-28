@@ -131,3 +131,47 @@
 
 + [调查研究-200 llama.cpp b9754：一次很小但很关键的 Agent 工具调用修复](https://blog.csdn.net/w776341482/article/details/162361349)
 
++ [解锁养老新方式：AI 当私人医生，守护长辈健康](https://blog.csdn.net/CC1991_/article/details/162314514)
+
++ [HarmonyOS7更新亮点实录41：Scenario Fusion Kit 深度实践，场景化分享 Button 的多模态异构数据投递架](https://blog.csdn.net/sjw890821sjw/article/details/162316205)
+
++ [【LE Audio】CSIP精讲[1]: 从核心定义到设计逻辑，读懂多设备协同的底层基石](https://blog.csdn.net/weixin_37800531/article/details/162282414)
+
++ [【花雕动手做】行空板 K10 系列实验之语音控制3630机器人电机的启动、高低速与正反转向](https://blog.csdn.net/weixin_41659040/article/details/162358745)
+
++ [AI Skill 开发与评测全解析：四个指标 + 六大组成，从微信到 Claude Code](https://blog.csdn.net/2401_87961121/article/details/162347701)
+
++ [【同济线性代数第五版】第四章 向量组的线性相关性](https://blog.csdn.net/he_zhidan/article/details/161982698)
+
++ [Python 数据分析实战：从脏数据到决策报告的完整链路](https://blog.csdn.net/2401_85575345/article/details/162357812)
+
++ [Service Mesh 落地排障：Istio Sidecar 延迟优化与流量治理实战](https://blog.csdn.net/2609_95049439/article/details/162358430)
+
++ [企业级 Agent 产品架构：从技术原型到商业闭环的跨越](https://blog.csdn.net/qq_35160742/article/details/162348912)
+
++ [从动态语言到 Rust：类型系统与所有权的心智模型转换](https://blog.csdn.net/no1coder/article/details/162348802)
+
++ [基于分布式模型预测控制的多个固定翼无人机一致性控制（Matlab代码实现）​](https://blog.csdn.net/Ke_Yan_She/article/details/162382868)
+
++ [AI 系统可观测性：从 Token 用量追踪到模型推理延迟的全链路监控](https://blog.csdn.net/alex_goden/article/details/162315379)
+
++ [Python 异步编程：事件循环、协程调度与实战](https://blog.csdn.net/2401_87746054/article/details/162357847)
+
++ [AI 模型部署策略：从单机推理到弹性扩缩容，GPU 资源的成本最优解](https://blog.csdn.net/baronbool/article/details/162315459)
+
++ [Oracle - 分区表的维护，分区的添加与删除](https://blog.csdn.net/qq_41187124/article/details/157584791)
+
++ [Vue3 状态管理深潜：Pinia 与响应式原理的底层机制与选型决策](https://blog.csdn.net/cannonmonster01/article/details/162315305)
+
++ [减少无效告警：搭建Prometheus与Alertmanager监控通知体系](https://blog.csdn.net/2301_76297596/article/details/162334949)
+
++ [调查研究-202 SGLang 深度解析：为什么大模型推理框架不只是“把模型跑起来“](https://blog.csdn.net/w776341482/article/details/162386905)
+
++ [基于强化学习的查询优化：让数据库自己学会选择执行路径](https://blog.csdn.net/guoyizhongxing/article/details/162348649)
+
++ [2026实测｜Claude Code平价替代深度对比，国产AI原生IDE平替方案](https://blog.csdn.net/Arranging15788/article/details/162316551)
+
++ [【Linux之旅】Linux TCP 协议详解：从三次握手到拥塞控制的可靠传输密码](https://blog.csdn.net/2302_80243065/article/details/162374393)
+
++ [第八章：GitHub Actions 实战：构建 Docker 镜像并部署到 K8s](https://blog.csdn.net/qq_45239623/article/details/162328188)
+
