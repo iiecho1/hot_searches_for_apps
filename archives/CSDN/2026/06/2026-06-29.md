@@ -97,3 +97,31 @@
 
 + [电科金仓里 DISTINCT 那点事：从一次线上告警说起](https://blog.csdn.net/beautifulmemory/article/details/162394625)
 
++ [区块链安全的时间锁：区块确认数深度解析及多重确认的必要性](https://blog.csdn.net/qq_41840843/article/details/162337584)
+
++ [减少无效告警：搭建Prometheus与Alertmanager监控通知体系](https://blog.csdn.net/2301_76297596/article/details/162334949)
+
++ [【LE Audio】CSIP精讲[2]：蓝牙协同集的配置骨架与组网规则](https://blog.csdn.net/weixin_37800531/article/details/162349658)
+
++ [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与HMAF的“光弈智脑“——PC端AI围棋对弈智能体沉浸式复盘工作台](https://blog.csdn.net/u014727709/article/details/162349465)
+
++ [lac_agent自愈链路上篇——crontab守护的那些坑与健康检查实战](https://blog.csdn.net/qq_32682301/article/details/162352269)
+
++ [企业级AI网关技术方案：统一大模型访问与治理平台的设计与实践](https://blog.csdn.net/DK_Allen/article/details/162338780)
+
++ [Docker 容器安全加固：从镜像瘦身到运行时防护的纵深防御体系](https://blog.csdn.net/2609_95049439/article/details/162358034)
+
++ [Text2SQL：让 Agent 自己写 SQL 自己查](https://blog.csdn.net/weixin_68431870/article/details/162374788)
+
++ [基于强化学习的查询优化：让数据库自己学会选择执行路径](https://blog.csdn.net/guoyizhongxing/article/details/162348649)
+
++ [Nginx 安全 & 性能优化全套整理](https://blog.csdn.net/hj286251/article/details/162370665)
+
++ [【WSN覆盖优化】基于能量谷优化算法EVO求解无线传感器节点2D覆盖优化问题附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/162383783)
+
++ [react+springAI 接入deepseek Demo](https://blog.csdn.net/waillyer/article/details/162397543)
+
++ [从 TCP/UDP 到 Tunnel：YMatrix 如何破解 MPP 大规模集群通信瓶颈](https://blog.csdn.net/weixin_57459958/article/details/162338573)
+
++ [看板管理自动化：用 OpenClaw 自动更新 Trello / 飞书看板状态、生成燃尽图](https://blog.csdn.net/qinzhenyan/article/details/162369192)
+

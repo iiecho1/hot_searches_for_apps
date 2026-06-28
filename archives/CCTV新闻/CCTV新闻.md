@@ -161,3 +161,5 @@
 
 + [肯尼迪中心遮布迟迟未撤 联邦法官要求白宫解释](https://news.cctv.com/2026/06/25/ARTIwuTpFZICo8lpSJGvkl2P260625.shtml)
 
++ [欧洲已记录到与高温相关的1300多例超额死亡](https://news.cctv.com/2026/06/29/ARTIugUP9LPjqnYQ5WtJpHbe260628.shtml)
+
