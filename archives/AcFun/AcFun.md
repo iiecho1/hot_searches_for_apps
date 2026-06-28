@@ -71,3 +71,5 @@
 
 + [【绝望女神/配音】【生化危机8:萝丝魅影 萝丝玛丽】](https://m.acfun.cn/v/?ac=48647136)
 
++ [【Coldplay】Magic](https://m.acfun.cn/v/?ac=48612663)
+

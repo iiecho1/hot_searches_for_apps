@@ -173,3 +173,19 @@
 
 + [委内瑞拉震后当地华侨华人已捐赠500吨救灾物资](https://news.cctv.com/2026/06/28/ARTI7UYx5BCfulLqtek4wJix260628.shtml)
 
++ [美国肯塔基州洪灾致4人死亡](https://news.cctv.com/2026/06/28/ARTIZfm3KSX4O6rBWbk7pRcj260628.shtml)
+
++ [欧盟回应特朗普关税威胁：坚决捍卫自身权利](https://news.cctv.com/2026/06/28/ARTICXPCSbier53b72pvZrK3260628.shtml)
+
++ [伊朗革命卫队威胁对美军基地发起“地狱”式打击](https://news.cctv.com/2026/06/28/ARTIfnoufVLACZScHxGAmtvU260628.shtml)
+
++ [伊朗革命卫队称打击8处美军设施](https://news.cctv.com/2026/06/28/ARTIuI67LNPo8hLM4Rwy1ZCW260628.shtml)
+
++ [美军称打击10个伊朗军事目标](https://news.cctv.com/2026/06/28/ARTIiFTzJmuu2qQZ4oeC2pKD260628.shtml)
+
++ [伊朗革命卫队：将以果断行动回应美方“侵略”](https://news.cctv.com/2026/06/28/ARTIgdSL8aptrEb55UF4VZK5260628.shtml)
+
++ [消息人士称日本拟引进具备对舰攻击能力无人潜艇](https://news.cctv.com/2026/06/28/ARTILMajvmHdIJdOYIf8tBL7260628.shtml)
+
++ [特朗普称美军打击伊朗导弹和无人机储存地点](https://news.cctv.com/2026/06/28/ARTIZ2uTG3aIrtX8iYPoHUBT260628.shtml)
+
