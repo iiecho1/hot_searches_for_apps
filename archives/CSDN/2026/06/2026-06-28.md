@@ -175,3 +175,19 @@
 
 + [第八章：GitHub Actions 实战：构建 Docker 镜像并部署到 K8s](https://blog.csdn.net/qq_45239623/article/details/162328188)
 
++ [阿里云 ECS 购买 + Docker Compose 部署全栈项目完整指南](https://blog.csdn.net/2301_80216352/article/details/162310443)
+
++ [吃透 51.2 万行源码｜《Claude Code 技术架构深度解析》：读懂下一代自主 AI 编程 Agent 底层内核](https://blog.csdn.net/weixin_43151418/article/details/162390924)
+
++ [机器学习：10.聚类](https://blog.csdn.net/Open__Ai/article/details/162315247)
+
++ [PyTorch强化学习实战——整合DQN改进算法](https://blog.csdn.net/LOVEmy134611/article/details/157971993)
+
++ [为什么 Redux 思想可能不再适合 HarmonyOS PC？](https://blog.csdn.net/qq_36863796/article/details/162336111)
+
++ [【Vid-Agent】长视频理解VideoTemp-o3框架](https://blog.csdn.net/qq_35812205/article/details/162394034)
+
++ [Android-性能-cpu利用率-分析教程及例子](https://blog.csdn.net/summerkissyou1987/article/details/162338931)
+
++ [看板管理自动化：用 OpenClaw 自动更新 Trello / 飞书看板状态、生成燃尽图](https://blog.csdn.net/qinzhenyan/article/details/162369192)
+

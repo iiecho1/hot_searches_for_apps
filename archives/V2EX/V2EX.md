@@ -53,3 +53,5 @@
 
 + [局座讲大量三哥涌入深圳抢 IT 工作，真有这个状况吗？](https://www.v2ex.com/t/1223445)
 
++ [拒绝“赛博溜猴”：国内大厂 AI Coding Plan 抢购恶心到极点](https://www.v2ex.com/t/1223434)
+
