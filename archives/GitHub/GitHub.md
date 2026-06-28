@@ -41,3 +41,19 @@
 
 + [every-app/open-seo](https://github.com/every-app/open-seo)
 
++ [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
+
++ [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
++ [cupy/cupy](https://github.com/cupy/cupy)
+
++ [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+
++ [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+
++ [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [usestrix/strix](https://github.com/usestrix/strix)
+
++ [browser-use/video-use](https://github.com/browser-use/video-use)
+

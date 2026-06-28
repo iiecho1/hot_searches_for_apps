@@ -51,3 +51,5 @@
 
 + [Claude Pro 也被封号了](https://www.v2ex.com/t/1223397)
 
++ [局座讲大量三哥涌入深圳抢 IT 工作，真有这个状况吗？](https://www.v2ex.com/t/1223445)
+
