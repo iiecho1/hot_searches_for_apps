@@ -177,3 +177,13 @@
 
 + [美官员：美伊计划于30日在卡塔尔首都举行会谈](https://news.cctv.com/2026/06/29/ARTIlZJwTG200WtkrlR99Pjz260629.shtml)
 
++ [鲨鱼袭人事件频发 澳大利亚将加强无人机监测](https://news.cctv.com/2026/06/29/ARTIhFikuXs6M3p0k6thbzWZ260629.shtml)
+
++ [阿根廷任命新内阁首席部长](https://news.cctv.com/2026/06/29/ARTI2UgDg8vAdL05oSDAvxYg260629.shtml)
+
++ [哈萨克斯坦：草原盛会](https://photo.cctv.com/2026/06/29/PHOA3WrH7tFmchBzyEzBeuAm260629.shtml)
+
++ [巴基斯坦称在靠近阿富汗边境地区实施地面打击](https://news.cctv.com/2026/06/29/ARTItSBFtsEaLjjjJ6wq49mj260629.shtml)
+
++ [委内瑞拉所有教育机构继续暂停教学活动](https://news.cctv.com/2026/06/29/ARTI5wvvdyhdR6REaZ9tsswR260629.shtml)
+

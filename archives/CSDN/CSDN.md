@@ -141,3 +141,35 @@
 
 + [【Ambari Plus】Step8—MariaDB 初始化](https://blog.csdn.net/TTBIGDATA/article/details/162373042)
 
++ [PyTorch强化学习实战（18）——强化学习训练加速](https://blog.csdn.net/LOVEmy134611/article/details/157907236)
+
++ [DISTINCT 语句优化：内核怎么把一次去重变成 LIMIT 1](https://blog.csdn.net/qq_57761637/article/details/162399351)
+
++ [【同济线性代数第五版】第五章 相似矩阵及二次型](https://blog.csdn.net/he_zhidan/article/details/162000803)
+
++ [Oracle - 分区索引的创建与使用，与分区表的配合优化](https://blog.csdn.net/qq_41187124/article/details/157584818)
+
++ [AI 每日资讯日报 | 2026年6月28日](https://blog.csdn.net/qq_36729037/article/details/162387866)
+
++ [Linux Pulseaudio深度解析之pa_sw_volume_to_dB调用流程与实战(八十四)](https://blog.csdn.net/u010164190/article/details/162190248)
+
++ [C++的学习第二部分](https://blog.csdn.net/SeanTim0404/article/details/161072154)
+
++ [LabVIEW与UR5机器人TCP/IP通信](https://blog.csdn.net/bjcyck/article/details/162396725)
+
++ [【花雕动手做】行空板 K10 系列实验之语音控制3630机器人电机的启动、高低速与正反转向](https://blog.csdn.net/weixin_41659040/article/details/162358745)
+
++ [【火箭】多级水火箭飞行模型【含Matlab源码 15673期】](https://blog.csdn.net/weixin_63266434/article/details/162387380)
+
++ [【光学】基于matlab拉盖尔-高斯束、部分傅里叶变换和菲涅尔传播实现的光学涡旋场三面相位恢复【含Matlab源码 15675期】](https://blog.csdn.net/TIQCmatlab/article/details/162387529)
+
++ [#RAG系统混合检索](https://blog.csdn.net/2602_95606446/article/details/162348581)
+
++ [linux应急1 redis应急](https://blog.csdn.net/2301_81155391/article/details/162368270)
+
++ [Android子系统之蓝牙架构](https://blog.csdn.net/STCNXPARM/article/details/162399412)
+
++ [飞书机器人+MCP Client实战-Spring Boot 3智能桥接方案](https://blog.csdn.net/weixin_39970883/article/details/162374535)
+
++ [【Claude】组织级认证限制报错已解决（4 种）](https://blog.csdn.net/mrdeam/article/details/162376758)
+
