@@ -27,3 +27,17 @@
 
 + [browser-use/video-use](https://github.com/browser-use/video-use)
 
++ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
++ [soxoj/maigret](https://github.com/soxoj/maigret)
+
++ [logto-io/logto](https://github.com/logto-io/logto)
+
++ [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
+
++ [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)
+
++ [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+
++ [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt)
+

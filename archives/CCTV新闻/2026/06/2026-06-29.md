@@ -211,3 +211,7 @@
 
 + [印尼塞梅鲁火山喷发 灰柱高度约700米](https://news.cctv.com/2026/06/29/ARTI0hSt4g2UGRoAcb3gbcax260629.shtml)
 
++ [伊朗外长：中东各国绝不能允许其领土被用于袭击伊朗](https://news.cctv.com/2026/06/29/ARTIlDKSTaT9GAQC8nwRv3lc260629.shtml)
+
++ [伊朗副外长：本周暂未安排伊美技术性会谈](https://news.cctv.com/2026/06/29/ARTI1ivjFX65dYxh8tDvbuao260629.shtml)
+

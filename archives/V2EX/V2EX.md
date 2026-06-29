@@ -41,3 +41,5 @@
 
 + [Claude 闲置号被封](https://www.v2ex.com/t/1223523)
 
++ [现在没什么好用的 coding plan 了吗？](https://www.v2ex.com/t/1223541)
+
