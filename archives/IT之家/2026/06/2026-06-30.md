@@ -25,3 +25,15 @@
 
 + [拿下大满贯：“小孩”曾卓君夺得美国 EVO 2026《饿狼传说：群狼之城》冠军](https://m.ithome.com/html/969885.htm)
 
++ [新疆牧民呼吁游客文明放飞无人机：自家养的小马遭飞行器追赶“炸肺死亡”](https://m.ithome.com/html/969720.htm)
+
++ [消息称华为 Mate 90 系列仍聚焦 9 月发布，7-8 月期间会有其他补充机型推出](https://m.ithome.com/html/969710.htm)
+
++ [消息称 vivo X300 系列手机销量超 300 万台，Ultra 机型破 20 万](https://m.ithome.com/html/969727.htm)
+
++ [支付宝联合华为及天府通推出“超级碰碰卡”NFC 交通卡：成都市内公交地铁 9 折、每月服务费 1 元](https://m.ithome.com/html/969706.htm)
+
++ [古尔曼预计苹果今年发布搭载 M5 Ultra 芯片的 Mac Studio，M7 Ultra 机型 2028 年推出](https://m.ithome.com/html/969730.htm)
+
++ [宁德时代、宝马、雷诺、沃尔沃、谷歌、小米等发起全球能源循环经济联盟，启动《电池可循环设计指南》开发计划](https://m.ithome.com/html/969728.htm)
+

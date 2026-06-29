@@ -165,3 +165,9 @@
 
 + [日元对美元汇率跌至近40年来最低水平](https://news.cctv.com/2026/06/30/ARTIrzMO4Apd4GWOAtZ1ytzO260629.shtml)
 
++ [已致6死 德国北部枪击事件可能与家庭矛盾有关](https://news.cctv.com/2026/06/30/ARTIw0gTwPvYfdmPdOt9yl5Z260630.shtml)
+
++ [多哈谈判双方各执一词 美称今日谈 伊朗已否认](https://news.cctv.com/2026/06/30/ARTIKWqEmfSg6J47RuWl6hW1260630.shtml)
+
++ [韩国政府将投资千万亿韩元于AI和半导体产业](https://news.cctv.com/2026/06/30/ARTI7bqlHpA991Zpd0aJxiMD260630.shtml)
+
