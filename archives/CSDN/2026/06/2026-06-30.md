@@ -135,3 +135,7 @@
 
 + [72%数字化转型折戟：别让伪AI低代码拖死业务](https://blog.csdn.net/sdgfafg_25/article/details/162422572)
 
++ [RAGFlow v0.26.2 发布详解：聊天渠道、文件解析、MCP、Dataflow、Go 生态全面进化](https://blog.csdn.net/weixin_48502062/article/details/162426064)
+
++ [Profiling：程序性能瓶颈定位的核心技术解析](https://blog.csdn.net/beautifulmemory/article/details/162226085)
+
