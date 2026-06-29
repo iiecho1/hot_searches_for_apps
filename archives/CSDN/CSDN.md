@@ -173,3 +173,35 @@
 
 + [【Claude】组织级认证限制报错已解决（4 种）](https://blog.csdn.net/mrdeam/article/details/162376758)
 
++ [硬核攻坚：西门子 840D sl 激光对刀 10 组 GUD 全局变量配置与全流程调试指南](https://blog.csdn.net/msdzzh/article/details/162348081)
+
++ [CsvHelper：3个技巧，5倍性能，为什么你的CSV处理还在用传统方法？](https://blog.csdn.net/z_344791576/article/details/151895967)
+
++ [【AI】向量数据库的原理与选型详解](https://blog.csdn.net/weixin_62043600/article/details/162397873)
+
++ [公文管理别再用 Word 传来传去：套红模板、发文自动拆收文、归档台账的闭环设计](https://blog.csdn.net/zhouzhongyan/article/details/162404137)
+
++ [【MATLAB】嵌入式温度保护与热管理仿真](https://blog.csdn.net/unbelievevc/article/details/162406271)
+
++ [把开发环境放到服务器上：code-server跨设备编码实践(1)](https://blog.csdn.net/weixin_74888502/article/details/162419279)
+
++ [与你的 Elasticsearch 数据对话：使用 Google ADK 和 MCP 构建一个实时语音 agent ，分为 3 个组件](https://blog.csdn.net/UbuntuTouch/article/details/162383519)
+
++ [CH585 PCM 播放测试以及双 PWM 原理](https://blog.csdn.net/weixin_42328389/article/details/162091523)
+
++ [对Spring MVC 的理解](https://blog.csdn.net/2203_75696125/article/details/162373428)
+
++ [HarmonyOS7 网络层怎么封才不烂尾？HttpService、拦截器、重试、缓存一套讲清](https://blog.csdn.net/qq_33681891/article/details/162407951)
+
++ [第九章：基于 Docker 的持续集成：代码检查、单元测试、镜像构建](https://blog.csdn.net/qq_45239623/article/details/162406490)
+
++ [Prompt 工程实战——写好 prompt 的方法论：思维链、少样本示例、从差到好](https://blog.csdn.net/tan_tan_1/article/details/162398087)
+
++ [计算机网络简答题](https://blog.csdn.net/2301_77311065/article/details/162372567)
+
++ [调整磁盘分区导致电脑无法修复解决方案](https://blog.csdn.net/2401_88285737/article/details/162419239)
+
++ [数字孪生+机器人联动：C#上位机实现产线机器人虚拟仿真控制](https://blog.csdn.net/m0_38141444/article/details/162348923)
+
++ [Task Graph：HarmonyOS PC 为什么重新定义任务调度？](https://blog.csdn.net/qq_36478920/article/details/162395134)
+

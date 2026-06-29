@@ -187,3 +187,27 @@
 
 + [委内瑞拉所有教育机构继续暂停教学活动](https://news.cctv.com/2026/06/29/ARTI5wvvdyhdR6REaZ9tsswR260629.shtml)
 
++ [黎议长警告否决三方协议 以色列持续袭击](https://news.cctv.com/2026/06/29/ARTIsgN0aToRT2YOp30EDkPu260629.shtml)
+
++ [铜价上涨 日本住宅水表失窃严重](https://news.cctv.com/2026/06/29/ARTIYlSckYfFJ4e9l7Rrtmt2260629.shtml)
+
++ [马来西亚同意延长马航370航班客机残骸搜寻工作](https://news.cctv.com/2026/06/29/ARTIGtShuhryI08Ai5wiB9nw260629.shtml)
+
++ [委内瑞拉：震后街头景象](https://photo.cctv.com/2026/06/29/PHOAWP32U7RsUKY80O3GgP40260629.shtml)
+
++ [以军称袭击黎南部三处真主党指挥中心](https://news.cctv.com/2026/06/29/ARTIexjd1PkQtkUdhpcjxN2Q260629.shtml)
+
++ [布局无人作战 英国修改驱逐舰更换方案](https://news.cctv.com/2026/06/29/ARTIkOPMlWkcY2gIzBtkH2Sa260629.shtml)
+
++ [普京：乌克兰就俄乌战事提出两条新建议](https://news.cctv.com/2026/06/29/ARTIe6beIlOG26yhp4ZTnArJ260629.shtml)
+
++ [波兰高温打破百余年全国纪录](https://news.cctv.com/2026/06/29/ARTIKJbkoKDah84nu5p74HxM260629.shtml)
+
++ [超40℃！欧洲“炙烤模式”持续 中国空调成了抢手货](https://news.cctv.com/2026/06/29/ARTITemS7t96gHMQM3R8MA2X260629.shtml)
+
++ [消息称斯塔默有意竞逐下任北约秘书长](https://news.cctv.com/2026/06/29/ARTIsEfcturqfvnJqTxf0Qb4260629.shtml)
+
++ [法国高温致3天超额死亡逾千例](https://news.cctv.com/2026/06/29/ARTIxdKuIvriF508LpUfd4Vb260629.shtml)
+
++ [印尼塞梅鲁火山喷发 灰柱高度约700米](https://news.cctv.com/2026/06/29/ARTI0hSt4g2UGRoAcb3gbcax260629.shtml)
+
