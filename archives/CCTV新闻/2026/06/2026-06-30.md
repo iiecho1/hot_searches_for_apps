@@ -161,3 +161,7 @@
 
 + [金建希因“卖官鬻爵”案获刑 律师表示将上诉](https://news.cctv.com/2026/06/26/ARTIPztYip7Ir05Th6FUF3Ht260626.shtml)
 
++ [印尼塞梅鲁火山喷发 火山灰柱高约1200米](https://news.cctv.com/2026/06/30/ARTIB2gXO9WE1MqMs8NxUBNU260630.shtml)
+
++ [日元对美元汇率跌至近40年来最低水平](https://news.cctv.com/2026/06/30/ARTIrzMO4Apd4GWOAtZ1ytzO260629.shtml)
+

@@ -101,3 +101,37 @@
 
 + [​《一次Docker部署ASP.NET Core的血泪史：Nginx Location匹配规则导致上传图片404的完整排查与解决》​](https://blog.csdn.net/qq_62197306/article/details/162424190)
 
++ [DISTINCT 语句优化：内核怎么把一次去重变成 LIMIT 1](https://blog.csdn.net/qq_57761637/article/details/162399351)
+
++ [公文管理别再用 Word 传来传去：套红模板、发文自动拆收文、归档台账的闭环设计](https://blog.csdn.net/zhouzhongyan/article/details/162404137)
+
++ [【Linux网络】深入理解网络层IP协议：从公网路由到IP分片与组装](https://blog.csdn.net/2503_91389547/article/details/161706429)
+
++ [基于HarmonyOS 7.0 跨端开发的矿物标本图鉴页面实战](https://blog.csdn.net/weixin_52908342/article/details/162399882)
+
++ [YOLO深度学习融合DeepSeek&Qwen双大模型西瓜病虫害智能诊断Web平台｜智慧农业田间植保视觉检测全栈实战项目](https://blog.csdn.net/2403_88545703/article/details/162399605)
+
++ [Linux线程4.0-线程同步-条件变量cond，深入生产者-消费者模型。](https://blog.csdn.net/oooooooooooohd/article/details/162281350)
+
++ [Vibecoding 没钱上线？Cloudflare + Docker + ngrok 零成本全栈部署指南](https://blog.csdn.net/qq_46987323/article/details/162430701)
+
++ [Android子系统之蓝牙架构](https://blog.csdn.net/STCNXPARM/article/details/162399412)
+
++ [从补全到自动驾驶，2026年AI编程工具格局彻底变了](https://blog.csdn.net/qq_36729037/article/details/162371746)
+
++ [OpenResty+Lua 实战：大模型服务精准并发限流与超量自动降级方案](https://blog.csdn.net/uncle_ll/article/details/162278118)
+
++ [JAVA通过 Docker Engine REST API 远程采集目标 Docker 服务器的运行信息](https://blog.csdn.net/yuming/article/details/162432126)
+
++ [[智能体-587]：node.js概述以及其在OpenClaw等智能体的能力边界，控制本地系统中的作用与意义](https://blog.csdn.net/HiWangWenBing/article/details/162411091)
+
++ [双AI协作WebGIS全链路开发：Leaflet/MapLibre地图+ECharts大屏+PostGIS+阿里云部署](https://blog.csdn.net/2403_89634305/article/details/162419210)
+
++ [CSGO 开箱网源码全链路实测：PHP 后端与 Vue 前端的支付对接验证](https://blog.csdn.net/qq_39370007/article/details/162425317)
+
++ [Vue 性能优化策略](https://blog.csdn.net/xiaofeichaichai/article/details/162411342)
+
++ [【6.19】知识点清单逐点解答](https://blog.csdn.net/weixin_52632755/article/details/162431785)
+
++ [72%数字化转型折戟：别让伪AI低代码拖死业务](https://blog.csdn.net/sdgfafg_25/article/details/162422572)
+
