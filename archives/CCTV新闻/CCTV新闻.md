@@ -159,3 +159,7 @@
 
 + [预报显示委内瑞拉地震灾区将迎来降雨](https://news.cctv.com/2026/06/27/ARTIvn5e1lrmB6FQet70PuTE260627.shtml)
 
++ [乌克兰获欧盟39亿欧元贷款用于国防](https://news.cctv.com/2026/07/01/ARTI3F2FTqStz3BIwe0E810O260701.shtml)
+
++ [内塔尼亚胡重申以军将长期驻留黎巴嫩南部“安全区”](https://news.cctv.com/2026/07/01/ARTIbal1XfL6Wvb3vVyUgB1a260701.shtml)
+

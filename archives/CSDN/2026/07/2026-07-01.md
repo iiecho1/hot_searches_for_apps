@@ -99,3 +99,25 @@
 
 + [【花雕学编程】Arduino BLDC 之多轮协同机器人底盘——差速扭矩优化与滑移补偿](https://blog.csdn.net/weixin_41659040/article/details/162424816)
 
++ [基于 Trae + DeepSeek 的 Vibe Coding 实践指南（二）：高效搭建 SpringBoot 自动化开发环境](https://blog.csdn.net/2502_91499791/article/details/162405385)
+
++ [DolphinDB边缘计算架构：边缘节点数据预处理](https://blog.csdn.net/sinat_41617212/article/details/162410796)
+
++ [基于魔珐星云具身 AI 架构实战：Qoder 从零搭建云叙・企业专属数字讲解员](https://blog.csdn.net/weixin_62765017/article/details/162442993)
+
++ [从训练到 MCU：TensorFlow Lite Micro 部署实战](https://blog.csdn.net/qq_42431428/article/details/162445568)
+
++ [HarmonyOS 6（API 23）实战：基于HMAF的「流光引擎」——PC端AI智能体实时音视频低延迟交互与端侧推理平台](https://blog.csdn.net/u014727709/article/details/162396606)
+
++ [基于LangChain构建RAG系统指南：文档加载、向量检索与LLM生成](https://blog.csdn.net/2302_80105876/article/details/161259598)
+
++ [AI 开发者工具链设计：从 LLM API 网关到 Prompt 版本管理的工程化实践](https://blog.csdn.net/2609_95049439/article/details/162381339)
+
++ [【数据仓库】如何评估数仓的健康度](https://blog.csdn.net/u010225915/article/details/162424251)
+
++ [Harness Engineering 搭建指南（一）：项目入口与架构基线](https://blog.csdn.net/weixin_44991038/article/details/162420468)
+
++ [使用Pygame实现数字益智小游戏](https://blog.csdn.net/cnds123/article/details/162431728)
+
++ [你以为让 AI 多想想靠的是一句 prompt？错了——大模型推理力度控制全揭秘](https://blog.csdn.net/2401_87961121/article/details/162374549)
+
