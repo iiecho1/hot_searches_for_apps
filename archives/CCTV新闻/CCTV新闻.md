@@ -193,3 +193,5 @@
 
 + [苏丹冲突双方持续在多地展开激烈争夺](https://news.cctv.com/2026/06/30/ARTI5ffzw0JttTEVrT0hivw1260630.shtml)
 
++ [伊朗总统：伊美谅解备忘录系与穆杰塔巴充分协调达成](https://news.cctv.com/2026/06/30/ARTIxIWzoZDgwtGnf6pdJBd1260630.shtml)
+

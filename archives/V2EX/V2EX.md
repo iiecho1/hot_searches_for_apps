@@ -47,3 +47,11 @@
 
 + [今年这是怎么了，各家✈️为啥都一直在抽风](https://www.v2ex.com/t/1223810)
 
++ [经济下行，我做了这些事情来节省开支，然后发现对生活品质几乎没有影响……欢迎补充](https://www.v2ex.com/t/1223876)
+
++ [claude code 才冲了 max 今早收到了被封号了！](https://www.v2ex.com/t/1223862)
+
++ [开源大模型成就了 workbuddy](https://www.v2ex.com/t/1223817)
+
++ [A 股现在还算是牛市吗](https://www.v2ex.com/t/1223873)
+

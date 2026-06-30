@@ -141,3 +141,53 @@
 
 + [夸克高考志愿系统实测：免费工具的天花板，但天花板不是答案](https://blog.csdn.net/longzekai/article/details/162373453)
 
++ [【HarmonyOS 6.0】CANN Kit：PC端大语言模型推理API与计算加速机制解析](https://blog.csdn.net/weixin_74809706/article/details/162282369)
+
++ [【AI】魔珐星云 SDK 实战测评：Cursor、Copilot、通义灵码如何走向具身交互成品](https://blog.csdn.net/weixin_44299027/article/details/162449563)
+
++ [把SSH连接整理成一个工作台：EasyNode部署与远程管理实践](https://blog.csdn.net/SDFsoul/article/details/162431732)
+
++ [Rust 异步 IO：从 epoll 到 io_uring](https://blog.csdn.net/2301_81410839/article/details/162445762)
+
++ [2026年人工智能（AI）行业深度研究报告：从“能思考“到“能实干“——智能体时代下的全球与中国 AI 产业全景](https://blog.csdn.net/universsky2015/article/details/162445431)
+
++ [全栈应用架构实战：Vue3 与 React 的极简融合之道](https://blog.csdn.net/qq_34803115/article/details/162410373)
+
++ [从纯文本 Agent 到具身交互智能：魔珐星云让大模型拥有 3D 拟人化表达层](https://blog.csdn.net/2301_80026901/article/details/162451253)
+
++ [低代码与生成式 UI：从拖拽搭建到 AI 驱动的工程化落地](https://blog.csdn.net/cannonmonster01/article/details/162409192)
+
++ [角色扮演 Prompt 的设计哲学：从人设构建到一致性维持的工程化实践](https://blog.csdn.net/specter__/article/details/162446374)
+
++ [Harness Engineering 搭建指南（一）：项目入口与架构基线](https://blog.csdn.net/weixin_44991038/article/details/162420468)
+
++ [【Canal】Canal 在处理海量数据（TB/PB 级）时，架构上需要做哪些扩展和优化？](https://blog.csdn.net/qq_21383435/article/details/160419810)
+
++ [别人NAS跑影视库，我的NAS偷偷变成了童年游戏机](https://blog.csdn.net/qq_54796785/article/details/162441468)
+
++ [基于 Ansible 的生产级 Java 应用部署系统设计与实践 —— 状态、版本、权限、回滚四个核心问题](https://blog.csdn.net/heian_99/article/details/162432411)
+
++ [【数据仓库】如何评估数仓的健康度](https://blog.csdn.net/u010225915/article/details/162424251)
+
++ [【教程4＞第12章＞第18节】基于FPGA的图像配准实现————图像x/y方向滤波](https://blog.csdn.net/ccsss22/article/details/162448398)
+
++ [Hermes Agent 架构在运维根因分析系统中的改造方案应用、以及系统架构详细介绍](https://blog.csdn.net/weixin_42878111/article/details/162444389)
+
++ [多 Agent 协作架构：从单兵作战到团队协同的设计哲学](https://blog.csdn.net/2401_87746054/article/details/162381330)
+
++ [Shiro - 理解 Shiro 中 Token 的核心作用与自定义实现](https://blog.csdn.net/qq_41187124/article/details/157649761)
+
++ [react+springAI 接入deepseek Demo](https://blog.csdn.net/waillyer/article/details/162397543)
+
++ [Kubernetes 控制器与 Service 完全指南：从 ReplicaSet 到负载均衡](https://blog.csdn.net/zx7854/article/details/162426894)
+
++ [【Linux】磁盘物理结构与逻辑抽象——从CHS到LBA](https://blog.csdn.net/qq_67169366/article/details/161089547)
+
++ [JVM 内存模型深度拆解：从运行时数据区到 GC 调优的实战路径](https://blog.csdn.net/alex_goden/article/details/162381791)
+
++ [MySQL（十二）视图、存储过程、触发器详细讲解](https://blog.csdn.net/Wang1200120/article/details/162424728)
+
++ [魔星云SDK实战测评:让Agent从文字输出走向场景落地](https://blog.csdn.net/2301_80350265/article/details/162448273)
+
++ [【架构实战】分布式事务最终一致性：从理论到工程实践](https://blog.csdn.net/heimeiyingwang/article/details/162405848)
+
