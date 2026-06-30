@@ -171,3 +171,7 @@
 
 + [韩国政府将投资千万亿韩元于AI和半导体产业](https://news.cctv.com/2026/06/30/ARTI7bqlHpA991Zpd0aJxiMD260630.shtml)
 
++ [中国代表呼吁实现加沙真正持久停火](https://news.cctv.com/2026/06/30/ARTIPJBkwdAkv2hIKH81hAmN260630.shtml)
+
++ [欧盟紧急援助委内瑞拉500万欧元并将空运救援物资](https://news.cctv.com/2026/06/30/ARTIMOrwvgZBIbEGGLRl9Ivb260630.shtml)
+
