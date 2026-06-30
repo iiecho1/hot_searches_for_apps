@@ -25,3 +25,11 @@
 
 + [系列最强散热：苹果 iPhone 18 Pro / Max 配最大 VC 均热板，主板细节曝光](https://m.ithome.com/html/970258.htm)
 
++ [16.58 万元起，领克家族首款旅行车 07GT 开启预售](https://m.ithome.com/html/970203.htm)
+
++ [消息称豆包 App 上线“豆包导航”功能，支持步行、骑行导航](https://m.ithome.com/html/970187.htm)
+
++ [第五代宝马 X5 预告图发布：基于新世代平台，采用独特 X 型灯组](https://m.ithome.com/html/970225.htm)
+
++ [11 年工龄福特工厂员工被控“偷窃 1.95 美元饼干”遭解雇，硬刚到底获清白后怒换新东家](https://m.ithome.com/html/970223.htm)
+
