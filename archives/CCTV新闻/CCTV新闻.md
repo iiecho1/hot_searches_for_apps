@@ -175,3 +175,21 @@
 
 + [欧盟紧急援助委内瑞拉500万欧元并将空运救援物资](https://news.cctv.com/2026/06/30/ARTIMOrwvgZBIbEGGLRl9Ivb260630.shtml)
 
++ [英国拟优先发展无人作战系统](https://news.cctv.com/2026/06/30/ARTICQPjnq09DzqWMRMAtj6l260630.shtml)
+
++ [阿根廷：近期在南部采集的汉坦病毒变种与邮轮疫情无关](https://news.cctv.com/2026/06/30/ARTIcTiDHh6LOZJeGEpIgI2G260630.shtml)
+
++ [美警方称世界杯观赛区附近枪击案系孤立事件](https://news.cctv.com/2026/06/30/ARTI5zLL2qPveDVXQL0VAZdp260630.shtml)
+
++ [印度东部一炼化厂起火 多人受伤](https://news.cctv.com/2026/06/30/ARTIX0bzUKCyNPRPX8dhQ1iN260630.shtml)
+
++ [美媒称美国总统特使威特科夫正前往多哈](https://news.cctv.com/2026/06/30/ARTIwdUHp7hNNmOmd09fUZUb260630.shtml)
+
++ [古巴救援人员抵达委内瑞拉地震灾区](https://news.cctv.com/2026/06/30/ARTIM2mn2DwNiSZ5bC3vsVWZ260630.shtml)
+
++ [中方呼吁遵守安理会对刚果（金）非政府武装武器禁运](https://news.cctv.com/2026/06/30/ARTI50vGIHTcKwuHxMIknR3m260630.shtml)
+
++ [白俄罗斯气温首次突破40摄氏度](https://news.cctv.com/2026/06/30/ARTIWgBRWge03YL7xXxMzSDx260630.shtml)
+
++ [苏丹冲突双方持续在多地展开激烈争夺](https://news.cctv.com/2026/06/30/ARTI5ffzw0JttTEVrT0hivw1260630.shtml)
+
