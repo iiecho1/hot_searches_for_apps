@@ -31,3 +31,23 @@
 
 + [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt)
 
++ [usestrix/strix](https://github.com/usestrix/strix)
+
++ [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+
++ [Mebus/cupp](https://github.com/Mebus/cupp)
+
++ [google/agents-cli](https://github.com/google/agents-cli)
+
++ [roboflow/supervision](https://github.com/roboflow/supervision)
+
++ [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+
++ [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
++ [facebook/astryx](https://github.com/facebook/astryx)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
+

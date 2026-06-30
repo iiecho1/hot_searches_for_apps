@@ -55,3 +55,5 @@
 
 + [A 股现在还算是牛市吗](https://www.v2ex.com/t/1223873)
 
++ [有坚持只用 claude，不用 codex 的人吗](https://www.v2ex.com/t/1223857)
+

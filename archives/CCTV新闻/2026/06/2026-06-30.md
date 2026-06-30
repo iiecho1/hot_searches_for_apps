@@ -195,3 +195,13 @@
 
 + [伊朗总统：伊美谅解备忘录系与穆杰塔巴充分协调达成](https://news.cctv.com/2026/06/30/ARTIxIWzoZDgwtGnf6pdJBd1260630.shtml)
 
++ [哈马斯代表团抵达开罗 推进落实加沙停火协议](https://news.cctv.com/2026/06/30/ARTI0AkCH0PgwC3KyC1F1zzS260630.shtml)
+
++ [伊朗外交部发言人：未来几天暂无与美方会晤计划](https://news.cctv.com/2026/06/30/ARTIdUHS1bDHEeMKfVuE238q260630.shtml)
+
++ [国际人士：中国共产党为各国政党建设和国家治理提供重要借鉴](https://news.cctv.com/2026/06/30/ARTIJihRw4yshbr6EzwImgQq260630.shtml)
+
++ [俄外交部：北约正协助乌克兰获取能摧毁俄纵深目标武器](https://news.cctv.com/2026/06/30/ARTIm7t4vlkybgd4XXdJbbhO260630.shtml)
+
++ [联合国：埃博拉疫情可能导致近百万人陷入贫困](https://news.cctv.com/2026/06/30/ARTIEwldk79j7ZWp8boZsdN9260630.shtml)
+
