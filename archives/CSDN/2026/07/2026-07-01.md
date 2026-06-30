@@ -121,3 +121,5 @@
 
 + [你以为让 AI 多想想靠的是一句 prompt？错了——大模型推理力度控制全揭秘](https://blog.csdn.net/2401_87961121/article/details/162374549)
 
++ [当对话太长、裁剪也不够用时：Compaction 深度解析与 OpenClaw 的实战策略](https://blog.csdn.net/qq_41840843/article/details/162465161)
+
