@@ -159,3 +159,13 @@
 
 + [塞尔维亚总统武契奇：将在数周后辞职](https://news.cctv.com/2026/06/28/ARTINPMX3LOHMeTQin4mxCE9260628.shtml)
 
++ [葡萄牙多举措应对极端热浪 最高气温可达47摄氏度](https://news.cctv.com/2026/07/02/ARTI6pQTuThdyJUHI756SU5t260702.shtml)
+
++ [泽连斯基：乌方至今未掌握“北溪”爆炸案全部调查细节](https://news.cctv.com/2026/07/02/ARTIdtSb05jFpGEsH2q57JZD260702.shtml)
+
++ [美国不同意以现有形式续签美墨加协定](https://news.cctv.com/2026/07/02/ARTIDJBJfyPSs14tMig5maE8260702.shtml)
+
++ [伊朗议会议长：不允许核查人员进入受损核设施](https://news.cctv.com/2026/07/02/ARTI37n7K72AeR6sP5wG8M1V260702.shtml)
+
++ [欧盟机构：6月单日全球海面温度破历史同期纪录](https://news.cctv.com/2026/07/02/ARTIUsaKgcnSEeCaotHs3sLc260702.shtml)
+
