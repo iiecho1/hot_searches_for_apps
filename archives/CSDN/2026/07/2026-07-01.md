@@ -123,3 +123,51 @@
 
 + [当对话太长、裁剪也不够用时：Compaction 深度解析与 OpenClaw 的实战策略](https://blog.csdn.net/qq_41840843/article/details/162465161)
 
++ [【Linux】nginx:alpine国内下载这个镜像无法顺畅下载，有什么好办法呢](https://blog.csdn.net/lmy_520/article/details/162483099)
+
++ [2026年6月30日科技热点新闻](https://blog.csdn.net/BluerCat/article/details/162439151)
+
++ [中小企业还在用 Excel 管库存？该上进销存系统的 6 个信号](https://blog.csdn.net/zhouzhongyan/article/details/162471640)
+
++ [Solidworks二次开发（C++转C#）](https://blog.csdn.net/m0_46486963/article/details/162397633)
+
++ [AI时代需要怎样的数据库](https://blog.csdn.net/weixin_41645135/article/details/162465844)
+
++ [人在疏散中到底往哪看？——用聚类及概率方法进行注意力解析](https://blog.csdn.net/lennonmao/article/details/162481656)
+
++ [Rebuild-Z × GEIA AI 黑客松全方案｜48小时具身智能创新实验，两种创业路线同台碰撞](https://blog.csdn.net/m0_37482190/article/details/162279128)
+
++ [【花雕学编程】Arduino BLDC 之机器人阿克曼底盘转向扭矩协调 —— 内外轮差速+扭矩分配](https://blog.csdn.net/weixin_41659040/article/details/162439754)
+
++ [Bright Data Web Scraping 指南：使用 API 采集 Instagram 与 TikTok KOL 数据，构建海外社媒营销情报系统](https://blog.csdn.net/weixin_41793160/article/details/162467819)
+
++ [宽带信号多相滤波及脉压处理(FPGA+ADC)](https://blog.csdn.net/2601_96072562/article/details/162462711)
+
++ [【GaussDB】GaussDB性能调优分析思路](https://blog.csdn.net/GaussDB/article/details/162489287)
+
++ [从 Ollama 到 llama.cpp：一次“降一层“的本地推理探索](https://blog.csdn.net/u010420283/article/details/162466459)
+
++ [大表备份后数据回刷：知识点、设计思路与 SQL 详解](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162425749)
+
++ [【Redis认证】Redis和MySQL认证机制深度剖析：从内核Socket通信到连接状态管理](https://blog.csdn.net/qq_41652036/article/details/162465514)
+
++ [HarmonyOS PC 为什么需要 Agent OS？](https://blog.csdn.net/qq_36863796/article/details/162414034)
+
++ [Oracle - 分区索引的创建与使用，与分区表的配合优化](https://blog.csdn.net/qq_41187124/article/details/157584818)
+
++ [5分钟用 魔珐星云 SDK 将3D身体引入到Agent实战记录](https://blog.csdn.net/qq_38881495/article/details/162419402)
+
++ [redis知识点+redis在spring boot中实战](https://blog.csdn.net/weixin_42017951/article/details/162460419)
+
++ [Dataify 跨境电商数据采集全攻略实战](https://blog.csdn.net/weixin_37800531/article/details/162398813)
+
++ [【MATLAB】多无人机协同姿态同步控制研究](https://blog.csdn.net/unbelievevc/article/details/162474395)
+
++ [第十二章：完整的 DevOps 流水线案例：Spring Boot + Docker + K8s + GitLab CI](https://blog.csdn.net/qq_45239623/article/details/162439296)
+
++ [星盾（Starshield）与星链（Starlink）系统架构差异解析：PWSA框架下的军用低轨星座独立体系与作战应用](https://blog.csdn.net/chen2jiang3/article/details/162397637)
+
++ [jenkins、maven的按照配置及vue项目的构建](https://blog.csdn.net/qq_37372909/article/details/162438917)
+
++ [HTML5、CSS3：完整特性详解（全表格精细化整理）](https://blog.csdn.net/snowball_li/article/details/162449951)
+

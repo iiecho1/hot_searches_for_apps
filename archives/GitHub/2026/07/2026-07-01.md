@@ -39,3 +39,19 @@
 
 + [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
 
++ [allenai/olmocr](https://github.com/allenai/olmocr)
+
++ [logto-io/logto](https://github.com/logto-io/logto)
+
++ [togatoga/karukan](https://github.com/togatoga/karukan)
+
++ [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
+
++ [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+
++ [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)
+
++ [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+
++ [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+

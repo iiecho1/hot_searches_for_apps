@@ -47,3 +47,7 @@
 
 + [聊聊个人微信小游戏的“窒息感”：手搓了一款消消乐，发布后喜提 0 流量](https://www.v2ex.com/t/1224059)
 
++ [[抽 3 个永久授权] Termark：一个按自己习惯做出来的 SSH 客户端](https://www.v2ex.com/t/1224199)
+
++ [PicOne： macOS 原生菜单栏图床上传工具](https://www.v2ex.com/t/1224066)
+
