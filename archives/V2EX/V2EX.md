@@ -51,3 +51,5 @@
 
 + [PicOne： macOS 原生菜单栏图床上传工具](https://www.v2ex.com/t/1224066)
 
++ [几十年 windows 老登请教： MacOS 下到底如何快速地新建 txt 文件](https://www.v2ex.com/t/1224166)
+

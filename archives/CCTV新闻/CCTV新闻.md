@@ -179,3 +179,5 @@
 
 + [美媒称美将在黎以驻军监督停火](https://news.cctv.com/2026/07/01/ARTIDuGRWGWZKwYQK432SsHg260701.shtml)
 
++ [日本本州东部附近海域发生5.8级地震，震源深度50千米](https://news.cctv.com/2026/07/01/ARTIyDT0ZFCtUavnzMmopfUq260701.shtml)
+
