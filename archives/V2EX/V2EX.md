@@ -21,3 +21,5 @@
 
 + [claude 被封后，使用 GLM 一天 21 大洋，感觉国产模型更用不起](https://www.v2ex.com/t/1224214)
 
++ [你左手按 b 键还是右手](https://www.v2ex.com/t/1224255)
+

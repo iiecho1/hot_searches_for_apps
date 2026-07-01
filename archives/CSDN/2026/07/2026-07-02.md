@@ -99,3 +99,29 @@
 
 + [第十二章：完整的 DevOps 流水线案例：Spring Boot + Docker + K8s + GitLab CI](https://blog.csdn.net/qq_45239623/article/details/162439296)
 
++ [当 AI Agent 要同时接入 Telegram、飞书、钉钉：Channel Plugin 抽象层设计之道](https://blog.csdn.net/qq_41840843/article/details/162465189)
+
++ [【Linux网络·加餐】frp内网穿透结构化 - 手写部署并测试内网穿透](https://blog.csdn.net/2401_89899187/article/details/162432613)
+
++ [魔星云SDK实战测评:让Agent从文字输出走向场景落地](https://blog.csdn.net/2301_80350265/article/details/162448273)
+
++ [【HarmonyOS 6.1 全场景实战】《灵犀厨房一键推荐》元服务【架构篇】常量体系：从硬编码地狱到原子化设计的架构跃迁](https://blog.csdn.net/sujiangming/article/details/162439814)
+
++ [【大数据处理与分析】Hadoop再探讨：03 新一代资源管理调度框架YARN](https://blog.csdn.net/Morse_Chen/article/details/162398386)
+
++ [时序数据库国产化深水区：从 DolphinDB 首批通过安全可靠测评看选型与迁移](https://blog.csdn.net/Rqaqedamancy/article/details/162430294)
+
++ [SpringBoot 实现 QPS 监控：从原理到高性能实战](https://blog.csdn.net/qq_26629277/article/details/162465764)
+
++ [企业数据API选型实战：天眼查、企查查、启信宝、鲸海数据横评](https://blog.csdn.net/beautifulmemory/article/details/162462541)
+
++ [jenkins、maven的按照配置及vue项目的构建](https://blog.csdn.net/qq_37372909/article/details/162438917)
+
++ [一个静态数据驱动的微信小程序实践：宾得星球](https://blog.csdn.net/qq_43724031/article/details/162464989)
+
++ [VSCode Remote SSH 中 Codex 连接超时的排查与解决记录](https://blog.csdn.net/qq_43604387/article/details/162463678)
+
++ [在 Node.js 中使用代理：分步指南](https://blog.csdn.net/Data_Journal/article/details/162419310)
+
++ [魔珐星云 SDK 实战测评：补齐国产大模型的具象交互短板](https://blog.csdn.net/qq_61024956/article/details/162451266)
+
