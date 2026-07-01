@@ -25,3 +25,19 @@
 
 + [苹果中国官网概览 iOS / iPadOS / macOS 27 等系统：体验感愉悦升华](https://m.ithome.com/html/970797.htm)
 
++ [小米 REDMI K90 至尊版手机发布：骁龙 8 至尊版 + 主动散热风扇，首销到手价 2799 元起](https://m.ithome.com/html/970727.htm)
+
++ [苹果发起 DMCA 维权，全网清除 iPhone 18 Pro 泄露素材](https://m.ithome.com/html/970751.htm)
+
++ [2026 苹果最抢手颜色：樱桃红 iPhone 18 Pro 测试照片流出](https://m.ithome.com/html/970596.htm)
+
++ [2026 年 6 月汽车销量 / 交付汇总：深蓝汽车 33625 台，同比增长 12.5%（持续更新）](https://m.ithome.com/html/970854.htm)
+
++ [11.98~99 万元，优必选首款全尺寸超仿生人形机器人优世界 U1 系列发布](https://m.ithome.com/html/970624.htm)
+
++ [小米公司发言人：某品牌汽车销售公司因造谣小米被行政处罚 40 万元](https://m.ithome.com/html/970685.htm)
+
++ [消息称苹果 iPhone 18 Pro 性能 / 散热大升级：不再是双层主板夹 SoC、A20 Pro 有望采用 WMCM 封装](https://m.ithome.com/html/970575.htm)
+
++ [苹果 iPhone 18 Pro“樱桃红”配色卡托曝光，消息称系列手机还可选“银灰”“浅蓝”配色](https://m.ithome.com/html/970759.htm)
+
