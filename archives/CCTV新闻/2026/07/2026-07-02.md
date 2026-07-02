@@ -175,3 +175,11 @@
 
 + [法国南部突发野火 过火面积约800公顷](https://news.cctv.com/2026/07/02/ARTIzcjgB0db6WqvK0t1Czg3260702.shtml)
 
++ [菲律宾多地举行大规模游行示威，中使馆紧急提醒提高安全防范](https://news.cctv.com/2026/07/02/ARTIBhBfpG8BjfR7tL9CuisC260702.shtml)
+
++ [南非西开普省一大巴翻车致16人死亡](https://news.cctv.com/2026/07/02/ARTILzV6KSIjrZAZgwsoaw2w260702.shtml)
+
++ [德国北部一医院发生火灾 已致2死30余伤](https://news.cctv.com/2026/07/02/ARTIHQeKAomykJOyTSMKpKzj260702.shtml)
+
++ [韩国大法院9日将对尹锡悦妨害逮捕案进行宣判](https://news.cctv.com/2026/07/02/ARTIuqz7mA7vzAEhXjS3ki9L260702.shtml)
+
