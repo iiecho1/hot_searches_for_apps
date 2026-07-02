@@ -125,3 +125,69 @@
 
 + [魔珐星云 SDK 实战测评：补齐国产大模型的具象交互短板](https://blog.csdn.net/qq_61024956/article/details/162451266)
 
++ [232个AI专家随叫随到：Agency Agents 打造自己的“AI梦之队“](https://blog.csdn.net/zhangay1998/article/details/162431513)
+
++ [基于 Trae + DeepSeek 的 Vibe Coding 实践指南（一）：高效搭建 SpringBoot 自动化开发环境](https://blog.csdn.net/2502_91499791/article/details/162463398)
+
++ [《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战](https://blog.csdn.net/2302_78391795/article/details/162495319)
+
++ [【LE Audio】CSIP精讲[4]：Set Coordinator全流程管控与实现精要](https://blog.csdn.net/weixin_37800531/article/details/162432376)
+
++ [Oracle - RAC集群搭建，核心步骤与配置要点](https://blog.csdn.net/qq_41187124/article/details/157584943)
+
++ [【HarmonyOS 6.0】ArkUI Swiper组件模拟拖拽功能深度解析](https://blog.csdn.net/weixin_74809706/article/details/162282327)
+
++ [OAuth2 + JWT 企业单点登录（SSO）实战：多系统一次登录全打通（SpringBoot）](https://blog.csdn.net/zhouzhongyan/article/details/162508745)
+
++ [【花雕动手做】行空板 K10 系列实验之语音识别TT马达双路差速智能小车方案一](https://blog.csdn.net/weixin_41659040/article/details/162425907)
+
++ [把闲置N1变成AI接口中枢：统一管理Ollama与云端大模型](https://blog.csdn.net/lbbxmx111/article/details/162515011)
+
++ [CentOS 7怎么搭建服务器监控告警？Prometheus与Alertmanager邮件通知教程](https://blog.csdn.net/SDFsoul/article/details/162521966)
+
++ [【Agent 学习日记】从问题到答案：RAG系统完整处理流程与核心机制深度拆解](https://blog.csdn.net/2402_87298751/article/details/162522155)
+
++ [Harness Engineering 实战：用 Spring AI Alibaba 构建可控的 AI 智能体](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162488035)
+
++ [【Linux之旅】Linux 网络层协议详解：从 IP 报文到路由转发的底层逻辑](https://blog.csdn.net/2302_80243065/article/details/162513122)
+
++ [DolphinDB数据采集高可用：容错与恢复](https://blog.csdn.net/sinat_41617212/article/details/162515984)
+
++ [给 Agent 装一个真正能用的记忆层：2026 年工程实战](https://blog.csdn.net/iamentiam/article/details/162495495)
+
++ [CentOS怎么部署Plex？家庭影音库搭建与远程访问完整教程](https://blog.csdn.net/qq_73017178/article/details/162516795)
+
++ [GPT Pro 100 和 Pro 200 有什么区别？Codex 用户怎么选更合适](https://blog.csdn.net/2601_96395508/article/details/162461919)
+
++ [GitLab Fork Workflow 实战指南：从 Fork 到 Merge，团队协作开发标准版（2026）](https://blog.csdn.net/g984160547/article/details/162463174)
+
++ [CMake 035：target作用域权限流转与构建参数精细化管控全解](https://blog.csdn.net/2503_92624912/article/details/162506282)
+
++ [AgentForge 深度解析：一句话出 Agent、7 层 Prompt、零侵入 Java，阿里飞猪如何把 Agent 工程化卷到极致](https://blog.csdn.net/zzz_2368/article/details/162458875)
+
++ [极空间怎么搭建网页修图工具？Photopea兼容镜像部署与远程访问教程](https://blog.csdn.net/m0_68390957/article/details/162474805)
+
++ [临时处理PDF不用再找网站：搭建一个随身可用的私人PDF工具箱](https://blog.csdn.net/Z_oioihoii/article/details/162518575)
+
++ [【MAPF】Inflated M* 算法：子维度展开与启发式膨胀的有界次优多智能体路径规划](https://blog.csdn.net/qq_51399582/article/details/162515773)
+
++ [SpringBoot 自动配置原理](https://blog.csdn.net/weixin_68431870/article/details/162497226)
+
++ [地图API接入对比：高德、百度、腾讯、丰图，30分钟跑通Demo](https://blog.csdn.net/Marco_Marco135/article/details/162440461)
+
++ [【深度解析】Claude Sonnet 5模型评测：从Agent能力、Token成本到Python选型实战](https://blog.csdn.net/weixin_45888077/article/details/162498594)
+
++ [CoAP协议：受限应用协议在物联网中的实践——RESTful、观察模式](https://blog.csdn.net/u014727709/article/details/162513422)
+
++ [Spring Boot 源码研读之 SpringApplication 对象的创建](https://blog.csdn.net/adg456jljlx/article/details/162498256)
+
++ [复盘与重构：我把之前的Shell脚本指南，推翻重写了](https://blog.csdn.net/2301_76277481/article/details/162498186)
+
++ [Kafka的基本原理](https://blog.csdn.net/zxncvb/article/details/162481040)
+
++ [Windows 10 环境下 Docker 部署 Sub2API 完整教程（避坑版）](https://blog.csdn.net/2301_79280419/article/details/162442459)
+
++ [CVPR 2026｜AnyVisLoc：为真实低空无人机视觉定位建立统一基准](https://blog.csdn.net/yyb18569570558/article/details/162496678)
+
++ [拐点已至：Harness工程驱动AI编程范式全面革新](https://blog.csdn.net/CC1991_/article/details/162525398)
+

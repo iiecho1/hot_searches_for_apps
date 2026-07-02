@@ -187,3 +187,5 @@
 
 + [伊朗武装部队：美干涉霍尔木兹海峡将遭回击](https://news.cctv.com/2026/07/02/ARTIsMZMGZ8ht1DILAzA4u69260702.shtml)
 
++ [我使馆提醒中国公民合法入境塞浦路斯共和国](https://news.cctv.com/2026/07/02/ARTIM0HyWupQHD8zmyeRTXfZ260702.shtml)
+
