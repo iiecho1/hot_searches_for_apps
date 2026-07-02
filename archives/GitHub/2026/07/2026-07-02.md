@@ -41,3 +41,27 @@
 
 + [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
 
++ [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
++ [santifer/career-ops](https://github.com/santifer/career-ops)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
++ [actions/checkout](https://github.com/actions/checkout)
+
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [agentskills/agentskills](https://github.com/agentskills/agentskills)
+
++ [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+
++ [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
+
++ [pytorch/pytorch](https://github.com/pytorch/pytorch)
+
++ [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
++ [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+

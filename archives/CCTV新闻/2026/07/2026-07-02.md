@@ -183,3 +183,7 @@
 
 + [韩国大法院9日将对尹锡悦妨害逮捕案进行宣判](https://news.cctv.com/2026/07/02/ARTIuqz7mA7vzAEhXjS3ki9L260702.shtml)
 
++ [乌称基辅遭袭已致18死](https://news.cctv.com/2026/07/02/ARTIJgo8iJoY0LKPQYyrnMln260702.shtml)
+
++ [伊朗武装部队：美干涉霍尔木兹海峡将遭回击](https://news.cctv.com/2026/07/02/ARTIsMZMGZ8ht1DILAzA4u69260702.shtml)
+
