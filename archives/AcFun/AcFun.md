@@ -65,3 +65,5 @@
 
 + [【HB to Tsukasa】能以奶油之身相见吗 demo ver.](https://m.acfun.cn/v/?ac=48661434)
 
++ [益智小游戏一口气通关——《Ooo》](https://m.acfun.cn/v/?ac=48661484)
+

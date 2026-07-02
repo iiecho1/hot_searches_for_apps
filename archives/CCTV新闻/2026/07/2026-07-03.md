@@ -159,3 +159,9 @@
 
 + [伊朗外长：管理和恢复霍尔木兹海峡交通仅由伊朗负责](https://news.cctv.com/2026/06/28/ARTIN36ZX2eAY3Pzc3NGApR3260628.shtml)
 
++ [高温席卷美国大部分地区 约1.63亿人受影响](https://news.cctv.com/2026/07/03/ARTIQ5CLNw3RAqRKcd9HjtfQ260703.shtml)
+
++ [叙利亚首都发生恐怖爆炸袭击 死亡人数升至9人](https://news.cctv.com/2026/07/03/ARTI8H0UY3MeTq2FcYaWXr5Q260703.shtml)
+
++ [乌克兰首都基辅遭空袭致27人死亡](https://news.cctv.com/2026/07/03/ARTI5S8tmwtqNPMZ6LtxmLk8260703.shtml)
+
