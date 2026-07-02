@@ -169,3 +169,9 @@
 
 + [欧盟机构：6月单日全球海面温度破历史同期纪录](https://news.cctv.com/2026/07/02/ARTIUsaKgcnSEeCaotHs3sLc260702.shtml)
 
++ [美国将厄瓜多尔一帮派列为“恐怖组织”](https://news.cctv.com/2026/07/02/ARTINd9V3f0IFECj5LnhmKw1260702.shtml)
+
++ [葡萄牙发布国家人工智能大模型“阿马利娅”](https://news.cctv.com/2026/07/02/ARTIKPD415Fh69JMVB0pRhkp260702.shtml)
+
++ [法国南部突发野火 过火面积约800公顷](https://news.cctv.com/2026/07/02/ARTIzcjgB0db6WqvK0t1Czg3260702.shtml)
+
