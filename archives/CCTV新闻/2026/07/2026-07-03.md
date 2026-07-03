@@ -169,3 +169,13 @@
 
 + [出借过程“堪比脱欧” 法国国宝送展英国牵动舆论关注](https://news.cctv.com/2026/07/03/ARTIDLIykQ35ViN8YGYpor9K260703.shtml)
 
++ [中国驻泰国大使馆：警惕非法中介“保关”骗局](https://news.cctv.com/2026/07/03/ARTIuDBYF6bdDkIM9U5ihrqX260703.shtml)
+
++ [印尼哈马黑拉岛附近海域发生6.2级地震，震源深度120千米](https://news.cctv.com/2026/07/03/ARTIql5wswsyCqu55ieYgcwd260703.shtml)
+
++ [委内瑞拉地震已造成2595人死亡](https://news.cctv.com/2026/07/03/ARTIfEEjwM3aKXg7DoplUtDD260703.shtml)
+
++ [欧盟拟出台未成年人社媒禁令](https://news.cctv.com/2026/07/03/ARTIPhRCvxLNIuIFmsu4RLXO260703.shtml)
+
++ [芬兰解除核禁令 俄将其列为核打击目标](https://news.cctv.com/2026/07/03/ARTIekGdIEFrtCMNIaR5jxZG260703.shtml)
+

@@ -23,3 +23,15 @@
 
 + [一个中登的树洞](https://www.v2ex.com/t/1224438)
 
++ [TransOne： macOS 原生菜单栏翻译工具](https://www.v2ex.com/t/1224640)
+
++ [滨江仲裁调解员有大病，怎么投诉](https://www.v2ex.com/t/1224653)
+
++ [真的没人觉得 codex 比 claude 笨很多吗？](https://www.v2ex.com/t/1224592)
+
++ [一次勇敢换来一生自闭](https://www.v2ex.com/t/1224644)
+
++ [你最满意的 PC 软件是什么？](https://www.v2ex.com/t/1224652)
+
++ [给 V 友送福利， XProxy.Ai 中转站， 回帖送 5 刀，进群每周可领 5 刀，不开订阅，按量计费，没有套路 1:1 充值](https://www.v2ex.com/t/1224554)
+

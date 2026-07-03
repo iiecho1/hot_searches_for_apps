@@ -111,3 +111,31 @@
 
 + [Linux 网络层 IP 协议实战：从路由原理到分片组装](https://blog.csdn.net/qq_28419035/article/details/162522096)
 
++ [2026 年 AI 前沿技术深度解析：Agent、多模态与工程化落地](https://blog.csdn.net/m0_75125940/article/details/162530504)
+
++ [Codex + Claude Code 对抗式开发：双AI协同的安全加固实践](https://blog.csdn.net/weixin_74809706/article/details/162530112)
+
++ [LLM 全解析：大语言模型原理、三种接入方案与 DeepSeek API 实战](https://blog.csdn.net/hanwangyyds/article/details/162383457)
+
++ [极空间怎么部署WebSSH？浏览器远程登录服务器与公网访问教程](https://blog.csdn.net/weixin_62765017/article/details/162515088)
+
++ [lac_agent自愈链路下篇——从systemd托管到真正的自愈](https://blog.csdn.net/qq_32682301/article/details/162533762)
+
++ [人在家里也能调试公司Kafka：搭建可远程连接的消息测试环境](https://blog.csdn.net/a1657054242/article/details/162516418)
+
++ [AtomCode 21个内置工具全测评：从 read_file 到 web_fetch 的能力边界](https://blog.csdn.net/u014727709/article/details/162528817)
+
++ [2026 多款远程控制工具对比测评，解析免费版综合使用差异（附评分表与选型建议）](https://blog.csdn.net/IRpickstars/article/details/162527581)
+
++ [第9章 深度剖析 Claude Code 架构原理 《长程任务 Agent 开发实战：Harness 工程原理与应用实践》](https://blog.csdn.net/universsky2015/article/details/162525871)
+
++ [【新手上路】多目标优化问题](https://blog.csdn.net/weixin_38575258/article/details/162517789)
+
++ [【5天实战】从零构建AI-Native组织：飞书+Bot+Gitee全链路自动化实战指南——Day 3：Gitee和TRAE集成](https://blog.csdn.net/ariel7321/article/details/162529860)
+
++ [2026年7月1日科技热点新闻](https://blog.csdn.net/BluerCat/article/details/162474813)
+
++ [[1365]docker界面管理portainer-ce](https://blog.csdn.net/xc_zhou/article/details/162526508)
+
++ [从 Prompt 到 Harness：驾驭大模型结构性缺陷的下一代 AI 工程学](https://blog.csdn.net/meilindehuzi_a/article/details/162464693)
+
