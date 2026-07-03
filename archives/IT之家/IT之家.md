@@ -25,3 +25,7 @@
 
 + [何小鹏：期望 MONA L03 是小鹏全球销量最大的一款车，明年大部分国家和区域逐步开通 VLA](https://m.ithome.com/html/971991.htm)
 
++ [华为 Mate 80 Pro 性能解禁：麒麟 9030 Pro GPU 相比 9020 提升 76%，《原神》能效表现优于高通骁龙 8 Gen3](https://m.ithome.com/html/972456.htm)
+
++ [豆包智能体功能将于 7 月 15 日下线，官方建议提前完成备份](https://m.ithome.com/html/972448.htm)
+

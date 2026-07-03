@@ -21,3 +21,7 @@
 
 + [我预判，第一波 AI 洪峰已过！](https://www.v2ex.com/t/1224778)
 
++ [为什么称 Gemini 是“美国豆包”？](https://www.v2ex.com/t/1224689)
+
++ [大家觉得在 AI 的影响下，未来教育会发生变革吗？](https://www.v2ex.com/t/1224663)
+
