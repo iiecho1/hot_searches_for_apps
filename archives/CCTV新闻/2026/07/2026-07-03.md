@@ -197,3 +197,5 @@
 
 + [日本在北部山区布设摄像头监测熊出没](https://news.cctv.com/2026/07/03/ARTITGHEyZHmnKB9s5T3ITOF260703.shtml)
 
++ [意大利埃特纳火山喷发 熔岩流映红夜空](https://news.cctv.com/2026/07/03/ARTID9cFVCBD8lApaRWfaevr260703.shtml)
+

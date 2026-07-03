@@ -139,3 +139,39 @@
 
 + [从 Prompt 到 Harness：驾驭大模型结构性缺陷的下一代 AI 工程学](https://blog.csdn.net/meilindehuzi_a/article/details/162464693)
 
++ [【MySQL】一文读懂 MySQL 事务控制与 MVCC 多版本并发控制底层原理](https://blog.csdn.net/yhrxh_ymq/article/details/162494459)
+
++ [别让旧手机继续吃灰：把它改造成一台随时在线的个人博客服务器](https://blog.csdn.net/2301_76297596/article/details/162548404)
+
++ [【花雕学编程】Arduino BLDC 之防爆打磨机器人——恒力控制 + 自适应位置补偿](https://blog.csdn.net/weixin_41659040/article/details/162476042)
+
++ [C/C++非常规知识(2.0)](https://blog.csdn.net/oooooooooooohd/article/details/158975001)
+
++ [【Linux网络】深入理解数据链路层：从MAC帧到ARP协议的底层原理](https://blog.csdn.net/2503_91389547/article/details/161764122)
+
++ [提示词压缩-自信息（就是logist）：Softmax概率计算原理](https://blog.csdn.net/qq_38998213/article/details/162545681)
+
++ [yolov26改进 | 图像复原篇 | 特征融合注意网络FFA-Net改进yolov26对于模糊图片检测能力（北大和北航联合提出）](https://blog.csdn.net/java1314777/article/details/162549417)
+
++ [Spring Boot 源码研读之 SpringApplication 对象的创建](https://blog.csdn.net/adg456jljlx/article/details/162498256)
+
++ [基于 Trae + DeepSeek 的 Vibe Coding 实践指南（二）：高效搭建 SpringBoot 自动化开发环境](https://blog.csdn.net/2502_91499791/article/details/162405385)
+
++ [CSS：CSS全方位核心知识深度梳理](https://blog.csdn.net/snowball_li/article/details/162510656)
+
++ [【Docker-Oracle 19c】Linux 服务器 Docker 部署 Oracle 19c数据库指南](https://blog.csdn.net/m0_57532432/article/details/162521505)
+
++ [[1366]python脚本加密工具PyArmor](https://blog.csdn.net/xc_zhou/article/details/162526535)
+
++ [PDF 提取表格到 Excel（含扫描版），断网批量可用](https://blog.csdn.net/LuoZheng4698729/article/details/162530073)
+
++ [一文讲懂 Agent 核心术语：ReAct、Tool Calling、State、Memory、Workflow 到底是什么](https://blog.csdn.net/2401_87875091/article/details/162530631)
+
++ [OpenAI首款硬件曝光：Codex Micro键盘7月15日发售，自研芯片Jalapeño同步亮相](https://blog.csdn.net/GODYAD/article/details/162483607)
+
++ [2026年中国GEO优化行业全景白皮书：GEO生成式AI搜索技术演进与AI搜索引擎引用机制深度解析](https://blog.csdn.net/LB967816/article/details/162542514)
+
++ [中小企业还在用 Excel 管库存？该上进销存系统的 6 个信号](https://blog.csdn.net/zhouzhongyan/article/details/162471640)
+
++ [从 Java / Python 工程师的视角，聊聊 Node.js 和 TypeScript](https://blog.csdn.net/weixin_45809780/article/details/162521250)
+
