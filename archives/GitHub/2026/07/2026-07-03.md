@@ -35,3 +35,23 @@
 
 + [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
++ [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+
++ [ansible/ansible](https://github.com/ansible/ansible)
+
++ [facebook/astryx](https://github.com/facebook/astryx)
+
++ [rommapp/romm](https://github.com/rommapp/romm)
+
++ [apache/maven](https://github.com/apache/maven)
+
++ [safishamsi/graphify](https://github.com/safishamsi/graphify)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+
++ [supabase/supabase](https://github.com/supabase/supabase)
+
++ [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+

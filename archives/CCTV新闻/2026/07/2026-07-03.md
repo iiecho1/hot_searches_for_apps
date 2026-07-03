@@ -189,3 +189,7 @@
 
 + [哈梅内伊遗体告别仪式在伊朗举行](https://news.cctv.com/2026/07/03/ARTIwoDF6IQUwL0NoqN73qSO260703.shtml)
 
++ [广岛民间团体要求日政府坚持“无核三原则”](https://news.cctv.com/2026/07/03/ARTIhYdSlDdpXeTqqqbqUZIy260703.shtml)
+
++ [美媒：中国人工智能发展愿景以人为本](https://news.cctv.com/2026/07/03/ARTIVr3R9N3cfEau7kxe8Hm0260703.shtml)
+
