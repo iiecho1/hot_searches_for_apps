@@ -179,3 +179,13 @@
 
 + [芬兰解除核禁令 俄将其列为核打击目标](https://news.cctv.com/2026/07/03/ARTIekGdIEFrtCMNIaR5jxZG260703.shtml)
 
++ [中国驻巴布亚新几内亚使馆提醒：切勿参与非法采金、黄金走私违法活动](https://news.cctv.com/2026/07/03/ARTIgselFhGaoz2c07QWepBj260703.shtml)
+
++ [世界气象组织：厄尔尼诺预计将快速增强并加剧极端天气风险](https://news.cctv.com/2026/07/03/ARTIWQlvuKiag7gx9LwzCgri260703.shtml)
+
++ [美皮划艇运动员涉嫌破坏倒影池遭起诉 或面临10年监禁](https://news.cctv.com/2026/07/03/ARTIHQWxTFwxWyyamkVEYssm260703.shtml)
+
++ [伊外交部：百余国派代表出席哈梅内伊遗体告别仪式](https://news.cctv.com/2026/07/03/ARTIAHsoWqiVnYC4lugjd90g260703.shtml)
+
++ [哈梅内伊遗体告别仪式在伊朗举行](https://news.cctv.com/2026/07/03/ARTIwoDF6IQUwL0NoqN73qSO260703.shtml)
+
