@@ -193,3 +193,7 @@
 
 + [美媒：中国人工智能发展愿景以人为本](https://news.cctv.com/2026/07/03/ARTIVr3R9N3cfEau7kxe8Hm0260703.shtml)
 
++ [国际刑警组织就摩纳哥爆炸案通缉一名乌克兰人](https://news.cctv.com/2026/07/03/ARTIOA4c7sCIelDHUd5p72bL260703.shtml)
+
++ [日本在北部山区布设摄像头监测熊出没](https://news.cctv.com/2026/07/03/ARTITGHEyZHmnKB9s5T3ITOF260703.shtml)
+
