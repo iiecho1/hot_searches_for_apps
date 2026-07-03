@@ -111,3 +111,7 @@
 
 + [WPS回应C盘占用争议：缓存清理始终免费，7月版本优化管理入口](https://blog.csdn.net/GZZN2019/article/details/162528964)
 
++ [基于 Trae + DeepSeek 的 Vibe Coding 实践指南（四）：SpringBoot + 阿里云视觉的视频字幕提取系统全栈落地](https://blog.csdn.net/2502_91499791/article/details/162521462)
+
++ [Docker按digest钉含义（使用镜像内容摘要digest而不是镜像标签tag来引用和锁定特定镜像版本，确保镜像不可变性和部署一致性）镜像引用、SHA256哈希、按tag钉、发布漂移、pinned](https://blog.csdn.net/Dontla/article/details/162569290)
+

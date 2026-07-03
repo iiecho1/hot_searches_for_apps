@@ -163,3 +163,7 @@
 
 + [以总理办公室否认计划暗杀伊朗谈判代表](https://news.cctv.com/2026/07/04/ARTIo2YKr0sf9Erbq6rKpONZ260704.shtml)
 
++ [格陵兰岛当局：美国仍在施压，但该岛“绝不出售”](https://news.cctv.com/2026/07/04/ARTI9HB9ufiqW5qsnGCKaETA260704.shtml)
+
++ [英意日共同出资46亿英镑推进新一代战机研发项目](https://news.cctv.com/2026/07/04/ARTI2C7cTFd8gxCnG03YYdiW260704.shtml)
+
