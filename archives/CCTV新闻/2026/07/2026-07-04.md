@@ -207,3 +207,5 @@
 
 + [超200架无人机来袭 俄称莫斯科再遭大规模袭击](https://news.cctv.com/2026/07/04/ARTIODz1IFTJRqX97eCJzmQV260704.shtml)
 
++ [伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点](https://news.cctv.com/2026/07/04/ARTIE39sorycmWpplx7xQIm8260704.shtml)
+

@@ -195,3 +195,15 @@
 
 + [画架构图不想依赖在线平台?把Excalidraw装进自己的NAS](https://blog.csdn.net/2302_79177254/article/details/162570052)
 
++ [GitLab CI 制品（Artifacts）完全指南：从作用到配置实践](https://blog.csdn.net/qq_41840843/article/details/162580619)
+
++ [yolov26改进 | 融合改进篇 | 利用尺度统一检测头DynamicHead融合P2增加小目标检测层（让小目标无所遁形）](https://blog.csdn.net/java1314777/article/details/162583444)
+
++ [Docker Buildx命令介绍（官方提供的新一代镜像构建工具，基于BuildKit构建引擎）Builder实例、Buildx驱动类型](https://blog.csdn.net/Dontla/article/details/162584856)
+
++ [CAU抢课脚本](https://blog.csdn.net/weixin_62188419/article/details/162584313)
+
++ [5-搭建Hadoop完全分布式集群](https://blog.csdn.net/KASH_SHADOW/article/details/162529782)
+
++ [Redis 持久化详解：AOF、RDB 与混合持久化全流程](https://blog.csdn.net/LI_124301012/article/details/162561750)
+
