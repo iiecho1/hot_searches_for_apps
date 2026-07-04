@@ -33,3 +33,17 @@
 
 + [赛格那件事有后续了，但是我有点理解不了舆论](https://www.v2ex.com/t/1224739)
 
++ [因存在植入后门风险，阿里内部全面禁用 Claude Code](https://www.v2ex.com/t/1224766)
+
++ [暗色模式到底是怎么流行起来的？？](https://www.v2ex.com/t/1224886)
+
++ [因为帮朋友代充了 ChatGPT Plus，我的 Apple ID 不干净了](https://www.v2ex.com/t/1224834)
+
++ [咸粽子好吃还是甜粽子好吃？](https://www.v2ex.com/t/1224812)
+
++ [求一个好用的蓝牙耳机推荐](https://www.v2ex.com/t/1224791)
+
++ [Claude 账号被封风险检测工具](https://www.v2ex.com/t/1224898)
+
++ [做海外模型的 API 中转站，会被判刑吗？](https://www.v2ex.com/t/1224797)
+

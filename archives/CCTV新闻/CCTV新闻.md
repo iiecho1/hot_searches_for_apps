@@ -181,3 +181,15 @@
 
 + [斯洛伐克称不会承担北约峰会上提出的任何援乌义务](https://news.cctv.com/2026/07/04/ARTIiXYlmgTICTZ8RTQWu7GS260704.shtml)
 
++ [热浪席卷美国 世界杯或迎来最“热”赛事](https://news.cctv.com/2026/07/04/ARTIlQgNKZjkKZbD8F3AD0H8260704.shtml)
+
++ [驻越南使馆提醒在越中国公民注意防范台风“美莎克”](https://news.cctv.com/2026/07/04/ARTIe6Q4HXnIP09cUbnZEGcq260704.shtml)
+
++ [热浪叠加雷暴 加拿大多地遭遇高温与断电双重考验](https://news.cctv.com/2026/07/04/ARTIRnMgaXN2dkxU5ibW4ybQ260704.shtml)
+
++ [中国第二批埃博拉抗疫医疗专家组抵达刚果（金）](https://photo.cctv.com/2026/07/04/PHOAzCPfRrzRP40RIifkvwhS260704.shtml)
+
++ [中国驻巴塞罗那总领馆提醒领区中国公民防范山火灾害](https://news.cctv.com/2026/07/04/ARTIlsE6eLlrF9qzs52kt2YQ260704.shtml)
+
++ [中国驻越南使馆提醒在越中国公民警惕“天上掉馅饼”陷阱](https://news.cctv.com/2026/07/04/ARTIqriWvRSr1LmTqvXXhsv2260704.shtml)
+

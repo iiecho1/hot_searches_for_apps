@@ -123,3 +123,25 @@
 
 + [从寄存器映射到Modbus TCP组网：硬核拆解工业数据采集卡的通信协议架构](https://blog.csdn.net/siyuanshen0302/article/details/162528191)
 
++ [时序大模型 TimechoAI：赋能国家战略安全与工业可靠性分析](https://blog.csdn.net/weixin_62765017/article/details/162562208)
+
++ [CMake 035：target作用域权限流转与构建参数精细化管控全解](https://blog.csdn.net/2503_92624912/article/details/162506282)
+
++ [【MAPF】Inflated M* 算法：子维度展开与启发式膨胀的有界次优多智能体路径规划](https://blog.csdn.net/qq_51399582/article/details/162515773)
+
++ [从零到一：Kafka + Flink + Paimon 实时数据湖搭建实录](https://blog.csdn.net/m0_63960309/article/details/162528796)
+
++ [计算机网路 | 光猫IP和路由器IP可以相同吗?](https://blog.csdn.net/sunyctf/article/details/130546034)
+
++ [TCP Socket 通信](https://blog.csdn.net/weixin_51169222/article/details/162431206)
+
++ [sar查看swap占用--linux030](https://blog.csdn.net/weixin_44874487/article/details/162520968)
+
++ [Web安全-XXE漏洞从原理到深度利用](https://blog.csdn.net/wjp3088798042/article/details/162561797)
+
++ [一次 Cilium L2 Announcement 导致 LoadBalancer VIP 无法访问的排查记录](https://blog.csdn.net/weixin_43230594/article/details/162560790)
+
++ [【React】 状态管理方案](https://blog.csdn.net/XiugongHao/article/details/162541990)
+
++ [人体模型部位分割：从 SCHP平面解析 映射到 3D 模型](https://blog.csdn.net/LateFrames/article/details/162561275)
+
