@@ -101,3 +101,11 @@
 
 + [解密 MCP 协议：如何用 Node.js 从零手写一个本地文件读取 MCP 服务器](https://blog.csdn.net/meilindehuzi_a/article/details/162585080)
 
++ [基于 Trae + DeepSeek 的 Vibe Coding 实践指南（四）：SpringBoot + 阿里云视觉的视频字幕提取系统全栈落地](https://blog.csdn.net/2502_91499791/article/details/162521462)
+
++ [5-搭建Hadoop完全分布式集群](https://blog.csdn.net/KASH_SHADOW/article/details/162529782)
+
++ [Agent 评测不能只看答案：从 Output Eval 到 Trajectory Eval](https://blog.csdn.net/Huang_ZX_259/article/details/162561227)
+
++ [CAU抢课脚本](https://blog.csdn.net/weixin_62188419/article/details/162584313)
+

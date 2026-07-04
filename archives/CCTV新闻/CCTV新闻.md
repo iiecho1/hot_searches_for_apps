@@ -159,3 +159,5 @@
 
 + [伊朗总统：伊美谅解备忘录系与穆杰塔巴充分协调达成](https://news.cctv.com/2026/06/30/ARTIxIWzoZDgwtGnf6pdJBd1260630.shtml)
 
++ [澳大利亚新州首次检出H5N1型高致病性禽流感病毒](https://news.cctv.com/2026/07/05/ARTIvLBBgNuxNgAymkT2BLxC260705.shtml)
+
