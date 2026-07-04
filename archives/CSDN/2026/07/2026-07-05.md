@@ -109,3 +109,5 @@
 
 + [CAU抢课脚本](https://blog.csdn.net/weixin_62188419/article/details/162584313)
 
++ [agno v2.6.22发布：视频理解、搜索研究、超时机制、安全修复全面升级，一文看懂全部更新](https://blog.csdn.net/weixin_48502062/article/details/162583780)
+
