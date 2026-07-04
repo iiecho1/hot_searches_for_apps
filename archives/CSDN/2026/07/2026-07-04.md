@@ -145,3 +145,37 @@
 
 + [人体模型部位分割：从 SCHP平面解析 映射到 3D 模型](https://blog.csdn.net/LateFrames/article/details/162561275)
 
++ [计算机视觉领域 选择 卷积神经网络 还是选择 Vision Transformer](https://blog.csdn.net/flyfish1986/article/details/162577779)
+
++ [从Harness engineering 到 Loop engineering：企业级长程任务Agent原理与实战，Claude Code、Codex、OpenClaw 架构分层拆解与最佳实践指南 1](https://blog.csdn.net/universsky2015/article/details/162578950)
+
++ [【AVRCP】规范精讲[38]：本地调节音量，控制器如何同步感知与更新](https://blog.csdn.net/weixin_37800531/article/details/162498046)
+
++ [【Windows文件系统】从物理扇区到逻辑文件：搞懂磁盘分区、文件系统与数据库存储的底层链路](https://blog.csdn.net/qq_41652036/article/details/162561352)
+
++ [一款用.net core实现的BI工具](https://blog.csdn.net/m0_61318909/article/details/162579006)
+
++ [Ubuntu26.04 搭建 Hadoop 3.5.0 完全分布式](https://blog.csdn.net/qq_24330181/article/details/162525114)
+
++ [网络安全应急响应全流程指南：从入侵排查到取证溯源](https://blog.csdn.net/2501_94768728/article/details/162561025)
+
++ [推荐一款 IDEA 插件：CC GUI——在 IDE 里直接拥抱 Claude Code 和 Codex](https://blog.csdn.net/NuclearDalance/article/details/162555837)
+
++ [【Atlas】Solr 在 Atlas 中的作用是什么？是否可以替换为 Elasticsearch？](https://blog.csdn.net/qq_21383435/article/details/160448369)
+
++ [揭秘性能测试：从并发到压力测试全解析](https://blog.csdn.net/2401_83281222/article/details/162573511)
+
++ [利用 C# 14 与.NET 10 强化客户端应用的用户认证与授权](https://blog.csdn.net/dotnethello/article/details/162527262)
+
++ [HA高可用架构设计：Keepalived+Nginx实现BI工具的故障自动转移](https://blog.csdn.net/2508_93059398/article/details/162540282)
+
++ [2026 年 7 月国内怎么充 GPT？ChatGPT Plus 支付成功没到账的订单/CDK 排查](https://blog.csdn.net/2611_96402059/article/details/162520115)
+
++ [【花雕学编程】Arduino BLDC 之三模冗余控制算法架构机器人](https://blog.csdn.net/weixin_41659040/article/details/162543428)
+
++ [嵌入式 Linux 网络安全知识框架](https://blog.csdn.net/qq_50932511/article/details/162498959)
+
++ [2026最新5款AI编程工具免费平替实测｜注释解读低成本权威性价比横评](https://blog.csdn.net/LL343638/article/details/162576102)
+
++ [阿里云负载均衡SLB配置完全指南：从选型到生产级部署实战](https://blog.csdn.net/huang_liang_wei/article/details/162493778)
+

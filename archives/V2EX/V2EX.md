@@ -55,3 +55,11 @@
 
 + [你希望别人拥有的人生体验](https://www.v2ex.com/t/1224838)
 
++ [智普 coding plan 抢不到，有没有什么方法啊...](https://www.v2ex.com/t/1224887)
+
++ [完了，到 2031 年，内存可能都不会降价。](https://www.v2ex.com/t/1224905)
+
++ [专科毕业 3 年还在频繁换工作，正常节奏应该是什么样？](https://www.v2ex.com/t/1224859)
+
++ [你喜欢注释丰富， Commit Message 详尽，还是反之？](https://www.v2ex.com/t/1224882)
+

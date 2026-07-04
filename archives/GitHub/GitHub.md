@@ -41,3 +41,23 @@
 
 + [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 
++ [alibaba/page-agent](https://github.com/alibaba/page-agent)
+
++ [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
+
++ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
++ [dotnet/skills](https://github.com/dotnet/skills)
+
++ [immich-app/immich](https://github.com/immich-app/immich)
+
++ [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
+
++ [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+
++ [crynta/terax-ai](https://github.com/crynta/terax-ai)
+
