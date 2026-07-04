@@ -167,3 +167,17 @@
 
 + [英意日共同出资46亿英镑推进新一代战机研发项目](https://news.cctv.com/2026/07/04/ARTI2C7cTFd8gxCnG03YYdiW260704.shtml)
 
++ [美国福克斯电视台就传播“抹黑”中国言论道歉](https://news.cctv.com/2026/07/04/ARTIZXiuPsy2IJKtYNNDYDOV260704.shtml)
+
++ [委内瑞拉地震死亡人数升至2645人](https://news.cctv.com/2026/07/04/ARTIFOKv5mOKYGPOFpcGSA0g260704.shtml)
+
++ [普京称俄军完成对卢甘斯克地区的全部控制](https://news.cctv.com/2026/07/04/ARTItPy6liUamMBdKBPaq5zR260704.shtml)
+
++ [俄称打击乌军工设施 乌称打击俄军用机场](https://news.cctv.com/2026/07/04/ARTIxvht1wNeTllisqC21jlm260704.shtml)
+
++ [格陵兰岛当局称美仍在施压 但该岛“绝不出售”](https://news.cctv.com/2026/07/04/ARTIAs5dV4mlxXyE36RCC30N260704.shtml)
+
++ [加纳首都及周边地区强降雨已致34人死亡](https://news.cctv.com/2026/07/04/ARTIsZMErU8TLFKMj9xYOyOi260704.shtml)
+
++ [斯洛伐克称不会承担北约峰会上提出的任何援乌义务](https://news.cctv.com/2026/07/04/ARTIiXYlmgTICTZ8RTQWu7GS260704.shtml)
+

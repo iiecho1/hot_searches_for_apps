@@ -29,3 +29,7 @@
 
 + [豆包智能体功能将于 7 月 15 日下线，官方建议提前完成备份](https://m.ithome.com/html/972448.htm)
 
++ [小米更新终止软件支持产品列表，12、12 Pro、12S Ultra 等手机在列](https://m.ithome.com/html/972449.htm)
+
++ [张雪机车宣布 6 月产量破万，全体员工增发半个月工资奖励](https://m.ithome.com/html/972450.htm)
+

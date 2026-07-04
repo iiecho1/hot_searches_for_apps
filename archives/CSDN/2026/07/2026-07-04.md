@@ -115,3 +115,11 @@
 
 + [Docker按digest钉含义（使用镜像内容摘要digest而不是镜像标签tag来引用和锁定特定镜像版本，确保镜像不可变性和部署一致性）镜像引用、SHA256哈希、按tag钉、发布漂移、pinned](https://blog.csdn.net/Dontla/article/details/162569290)
 
++ [【LangChain】 少样本提示（Few-Shot）完全指南：从原理到实战落地](https://blog.csdn.net/2503_91389547/article/details/161523850)
+
++ [金仓融合数据库详解：时序 TSDB、GIS 空间、向量数据库一库多用落地实践](https://blog.csdn.net/beautifulmemory/article/details/162490460)
+
++ [2026 AI编程工具选边站：IDE派与Agent派的温馨拆解](https://blog.csdn.net/c_zyer/article/details/162524836)
+
++ [从寄存器映射到Modbus TCP组网：硬核拆解工业数据采集卡的通信协议架构](https://blog.csdn.net/siyuanshen0302/article/details/162528191)
+
