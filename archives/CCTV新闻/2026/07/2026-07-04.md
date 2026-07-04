@@ -193,3 +193,11 @@
 
 + [中国驻越南使馆提醒在越中国公民警惕“天上掉馅饼”陷阱](https://news.cctv.com/2026/07/04/ARTIqriWvRSr1LmTqvXXhsv2260704.shtml)
 
++ [拉美观察丨美墨加协定联合审查关口：“持续不确定”或成区域新常态](https://news.cctv.com/2026/07/04/ARTIaD8URM7fs19v2z4mptyI260704.shtml)
+
++ [以色列检方称一美国公民为伊朗从事间谍活动](https://news.cctv.com/2026/07/04/ARTIEsf63CxwlnTd3YZUp8NI260704.shtml)
+
++ [俄称控制顿涅茨克地区重镇 乌方否认](https://news.cctv.com/2026/07/04/ARTIt4JCt33i9uvtxVLJLmBw260704.shtml)
+
++ [法国卫生部长支持2009年及以后出生者终身不得购烟](https://news.cctv.com/2026/07/04/ARTInq6CS3t70BjtiIu2sPGB260704.shtml)
+
