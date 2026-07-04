@@ -161,3 +161,9 @@
 
 + [澳大利亚新州首次检出H5N1型高致病性禽流感病毒](https://news.cctv.com/2026/07/05/ARTIvLBBgNuxNgAymkT2BLxC260705.shtml)
 
++ [委内瑞拉地震死亡人数升至2954人](https://news.cctv.com/2026/07/05/ARTI8YD5S2VyFMIHD8yFoue0260705.shtml)
+
++ [俄称愿移交乌军阵亡人员遗体 要求乌停止炮击康斯坦丁诺夫卡](https://news.cctv.com/2026/07/05/ARTI6YOG81uV11AphPOILIMo260705.shtml)
+
++ [美国新泽西州报告19起“疑似高温相关”死亡病例](https://news.cctv.com/2026/07/05/ARTI2ocV4kIVaMgUFWsgSc5h260705.shtml)
+
