@@ -207,3 +207,7 @@
 
 + [Redis 持久化详解：AOF、RDB 与混合持久化全流程](https://blog.csdn.net/LI_124301012/article/details/162561750)
 
++ [【Linux网络】深入理解数据链路层：从MAC帧到ARP协议的底层原理](https://blog.csdn.net/2503_91389547/article/details/161764122)
+
++ [【AI 算法精讲 12】K-Means 聚类：初始化与收敛](https://blog.csdn.net/lishengzhen123/article/details/162399305)
+
