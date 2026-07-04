@@ -63,3 +63,9 @@
 
 + [你喜欢注释丰富， Commit Message 详尽，还是反之？](https://www.v2ex.com/t/1224882)
 
++ [盒马会员性价比很低，没什么优惠](https://www.v2ex.com/t/1224906)
+
++ [如何最大化使用 codex 的额度？](https://www.v2ex.com/t/1224889)
+
++ [阿里的产品真的挺有意思的，不开麦克风权限不给用键盘打字](https://www.v2ex.com/t/1224885)
+

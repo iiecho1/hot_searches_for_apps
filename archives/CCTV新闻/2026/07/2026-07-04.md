@@ -201,3 +201,9 @@
 
 + [法国卫生部长支持2009年及以后出生者终身不得购烟](https://news.cctv.com/2026/07/04/ARTInq6CS3t70BjtiIu2sPGB260704.shtml)
 
++ [意大利北部多条河流因干旱处于“危急状态”](https://news.cctv.com/2026/07/04/ARTIYsA7h8GouVcStCjbyTuI260704.shtml)
+
++ [多国人士高度评价习近平在庆祝中国共产党成立105周年大会上的重要讲话](https://news.cctv.com/2026/07/04/ARTIrdri8ECYOghbnGWgSt1g260704.shtml)
+
++ [超200架无人机来袭 俄称莫斯科再遭大规模袭击](https://news.cctv.com/2026/07/04/ARTIODz1IFTJRqX97eCJzmQV260704.shtml)
+

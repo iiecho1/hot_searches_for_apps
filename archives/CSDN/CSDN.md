@@ -179,3 +179,19 @@
 
 + [阿里云负载均衡SLB配置完全指南：从选型到生产级部署实战](https://blog.csdn.net/huang_liang_wei/article/details/162493778)
 
++ [融合计算机视觉与自然语言处理的驾驶证识别技术，实现了从非结构化图像到结构化数据的高效转化，成为智慧交通数字化转型的关键支撑](https://blog.csdn.net/dlf283870550/article/details/162558171)
+
++ [基于 Trae + DeepSeek 的 Vibe Coding 实践指南（三）：视频 OCR SDK 接入详解](https://blog.csdn.net/2502_91499791/article/details/162465271)
+
++ [海光K100_AI单卡全离线部署PPT生成系统](https://blog.csdn.net/pla88888888/article/details/162573986)
+
++ [第21届全国大学只能汽车竞赛华北赛区报名信息统计](https://blog.csdn.net/zhuoqingjoking97298/article/details/162526193)
+
++ [从作品明细到标题特征表_基于助睿ETL的自媒体互动特征构建实战](https://blog.csdn.net/2301_79877198/article/details/162492469)
+
++ [GitHub 热榜项目 - 周榜(2026-07-04)](https://blog.csdn.net/u014390502/article/details/162584085)
+
++ [Nginx- Nginx 正向代理的配置与实际应用场景](https://blog.csdn.net/qq_41187124/article/details/157657568)
+
++ [画架构图不想依赖在线平台?把Excalidraw装进自己的NAS](https://blog.csdn.net/2302_79177254/article/details/162570052)
+
