@@ -65,3 +65,7 @@
 
 + [Girls Day Something](https://m.acfun.cn/v/?ac=48667278)
 
++ [实体光盘之争？肯德基达美乐接连下场，各路豪杰贴脸开大！【绅批】](https://m.acfun.cn/v/?ac=48668286)
+
++ [我要验牌](https://m.acfun.cn/v/?ac=48668726)
+

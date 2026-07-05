@@ -169,3 +169,7 @@
 
 + [委内瑞拉地震死亡人数升至3342人](https://news.cctv.com/2026/07/06/ARTIEYuZxWuzL1p6VsczKaEE260706.shtml)
 
++ [以色列总理称继续坚持反对伊核计划](https://news.cctv.com/2026/07/06/ARTILMz9IRp6rCSOAka8bTWk260706.shtml)
+
++ [德媒：日期引争议，重重警力下德国选择党召开大会](https://news.cctv.com/2026/07/06/ARTIRm0FJsYR1gqZ6KxpQ03z260706.shtml)
+

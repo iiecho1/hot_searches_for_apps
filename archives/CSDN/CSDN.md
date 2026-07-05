@@ -119,3 +119,11 @@
 
 + [将 Nginx 1.30.3 打包为 Flatpak 100%成功 亲测](https://blog.csdn.net/kentrl/article/details/162612628)
 
++ [AI编程工具选型指南：真实使用经验告诉你该怎么选](https://blog.csdn.net/2601_96338609/article/details/162588486)
+
++ [Kotlin函数详解与使用示例](https://blog.csdn.net/TechNomad/article/details/162549757)
+
++ [agno v2.6.22发布：视频理解、搜索研究、超时机制、安全修复全面升级，一文看懂全部更新](https://blog.csdn.net/weixin_48502062/article/details/162583780)
+
++ [YOLOv8摔倒检测系统：从原理到系统](https://blog.csdn.net/y2770169045/article/details/162588579)
+
