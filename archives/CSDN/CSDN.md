@@ -173,3 +173,25 @@
 
 + [OpenHarmony Text 文本组件精细化开发与 API23 + 适配优化](https://blog.csdn.net/Helen_cai/article/details/162588644)
 
++ [K100_AI单卡全离线部署同声传译系统](https://blog.csdn.net/pla88888888/article/details/162604942)
+
++ [【VLM】MiniCPM-o 4.5：全双工实时交互](https://blog.csdn.net/qq_35812205/article/details/162179520)
+
++ [SQL进阶——HAVING子句](https://blog.csdn.net/cold___play/article/details/162584686)
+
++ [【Linux 】十八.进程间通信详解：从匿名管道到命名管道的全方位指南](https://blog.csdn.net/2501_93351213/article/details/162582363)
+
++ [TRINITY-Router: 用数据证伪LLM路由假设 - 8模型316题实验报告](https://blog.csdn.net/minxihou/article/details/162592104)
+
++ [从零开始：用原生 Node.js 徒手拆解 RAG 与向量检索底层原理](https://blog.csdn.net/meilindehuzi_a/article/details/162583371)
+
++ [Docker+K8s生产级部署实战：从0到1打造高可用微服务集群](https://blog.csdn.net/weixin_52208686/article/details/162552506)
+
++ [YOLOv8摔倒检测系统：从原理到系统](https://blog.csdn.net/y2770169045/article/details/162588579)
+
++ [【Redis八股|第1篇】Redis 是什么？为什么它这么快？](https://blog.csdn.net/2401_88139521/article/details/162588946)
+
++ [Flutter 开发鸿蒙实战：Windows 环境下从 HAP 构建到四 Tab 页面运行](https://blog.csdn.net/2401_84026308/article/details/162609074)
+
++ [个人找实习项目](https://blog.csdn.net/2301_81634964/article/details/162606320)
+
