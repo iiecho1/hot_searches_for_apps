@@ -25,3 +25,17 @@
 
 + [我做的&#34;毒舌 GitHub 评分&#34;，在 X 上蜜汁爆火](https://www.v2ex.com/t/1224888)
 
++ [数字游民 有推荐的宜居城市吗？](https://www.v2ex.com/t/1225004)
+
++ [原来 FM 调频转播站晚上会关站](https://www.v2ex.com/t/1225024)
+
++ [哪些国家/地区可以数字游民转长居签证？](https://www.v2ex.com/t/1224942)
+
++ [用 AI 生成一个小浣熊水浒卡鉴赏网站](https://www.v2ex.com/t/1225027)
+
++ [有一些生活中的烦恼，希望大佬们指点迷津](https://www.v2ex.com/t/1225029)
+
++ [用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof](https://www.v2ex.com/t/1225014)
+
++ [claude 老号被封](https://www.v2ex.com/t/1224963)
+

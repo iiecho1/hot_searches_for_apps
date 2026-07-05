@@ -111,3 +111,29 @@
 
 + [agno v2.6.22发布：视频理解、搜索研究、超时机制、安全修复全面升级，一文看懂全部更新](https://blog.csdn.net/weixin_48502062/article/details/162583780)
 
++ [【MySQL数据库学习】（MySQL访问、连接池原理与简易网站数据流动）](https://blog.csdn.net/2401_87629362/article/details/162573622)
+
++ [OpenClaw 实战案例：自动化运维系统构建](https://blog.csdn.net/sinat_41617212/article/details/162554430)
+
++ [RuoYi-Vue3 企业级后台快速落地实战指南](https://blog.csdn.net/yelangkingwuzuhu/article/details/161518987)
+
++ [内网穿透的应用-把Ollama从命令行搬进浏览器：搭建可远程访问的私人AI工作台](https://blog.csdn.net/weixin_42878111/article/details/162518706)
+
++ [【技术解析】藏在你浏览器里的黑科技：WebRTC到底是什么？我用它传完了30G的视频素材](https://blog.csdn.net/xmflw/article/details/162540561)
+
++ [标准化产品与定制化需求之间如何取得平衡](https://blog.csdn.net/zhouzhongyan/article/details/162596012)
+
++ [Linux 运维必备：打包压缩与软件包管理完全指南](https://blog.csdn.net/qq_58308926/article/details/162590392)
+
++ [【Atlas】Atlas 是否支持 Docker 或 Kubernetes 部署？](https://blog.csdn.net/qq_21383435/article/details/160450504)
+
++ [【复现】配电网对分布式电源和电动汽车的承载力评估及提升方法综述（Matlab代码实现）](https://blog.csdn.net/2301_77414277/article/details/162590592)
+
++ [基于向量检索 + 蓝空GEO 约束的混合搜索引擎实战（含核心源码）](https://blog.csdn.net/lkshop/article/details/162586880)
+
++ [Linux （十五）信号机制深度解析：从硬件中断到用户态递送的完整链路](https://blog.csdn.net/A_humble_scholar/article/details/162527787)
+
++ [四等价命题的范畴论证明——认知流形、自指拓扑异常、算术障碍与认知完备系统的跨域同构（初版）](https://blog.csdn.net/weixin_50059478/article/details/162595528)
+
++ [Havenlon｜AI 时代的执行控制（三）：过去的系统为什么看起来更安全：因为人一直在中间](https://blog.csdn.net/wanglin831025/article/details/162600596)
+
