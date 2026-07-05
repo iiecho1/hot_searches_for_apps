@@ -167,3 +167,7 @@
 
 + [美国新泽西州报告19起“疑似高温相关”死亡病例](https://news.cctv.com/2026/07/05/ARTI2ocV4kIVaMgUFWsgSc5h260705.shtml)
 
++ [中英服贸协定联合可行性研究技术磋商取得实质性进展](https://news.cctv.com/2026/07/05/ARTI9Ph1rVkYy9VNegj6rKTI260705.shtml)
+
++ [普京与特朗普通话 重申仍倾向政治解决乌克兰问题](https://news.cctv.com/2026/07/05/ARTIbUN7C6NM9fuvJgoWrkK4260705.shtml)
+
