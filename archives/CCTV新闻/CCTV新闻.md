@@ -173,3 +173,5 @@
 
 + [澳大利亚一陨石坑可能形成于30亿年前](https://news.cctv.com/2026/07/05/ARTIzUgR3hRxVPYOv759MFqp260705.shtml)
 
++ [伊朗人高呼“复仇” 特朗普称“全是假哭”遭驳斥](https://news.cctv.com/2026/07/05/ARTIsmfsScakTKuRBPWSuRXE260705.shtml)
+
