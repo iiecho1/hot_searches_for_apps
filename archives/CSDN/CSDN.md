@@ -113,3 +113,9 @@
 
 + [在kafka kraft模式启动时使用的 JAAS 配置示例](https://blog.csdn.net/jjk_02027/article/details/162608481)
 
++ [深入解析电脑系统内存：硬件层级、内存分区、C++实例详解](https://blog.csdn.net/weixin_64304261/article/details/162538874)
+
++ [飞书机器人+Spring AI Function Calling实战-扔掉MCP Client让LLM直接操控工具](https://blog.csdn.net/weixin_39970883/article/details/162586544)
+
++ [将 Nginx 1.30.3 打包为 Flatpak 100%成功 亲测](https://blog.csdn.net/kentrl/article/details/162612628)
+
