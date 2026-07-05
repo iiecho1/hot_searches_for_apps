@@ -21,3 +21,5 @@
 
 + [Claude 被封了也不要去用 codex](https://www.v2ex.com/t/1225093)
 
++ [AI 编程到底多强？亲身案例分享给你！](https://www.v2ex.com/t/1225023)
+
