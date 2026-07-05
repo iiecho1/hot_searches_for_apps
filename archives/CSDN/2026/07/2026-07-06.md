@@ -99,3 +99,17 @@
 
 + [揭秘性能测试：从并发到压力测试全解析](https://blog.csdn.net/2401_83281222/article/details/162573511)
 
++ [【大数据处理与分析】Hadoop在探讨：04 Hadoop生态系统中具有代表性的功能组件](https://blog.csdn.net/Morse_Chen/article/details/162529385)
+
++ [计算机视觉领域 选择 卷积神经网络 还是选择 Vision Transformer](https://blog.csdn.net/flyfish1986/article/details/162577779)
+
++ [Flutter 开发鸿蒙实战：Windows 环境下从 HAP 构建到四 Tab 页面运行](https://blog.csdn.net/2401_84026308/article/details/162609074)
+
++ [一款用.net core实现的BI工具](https://blog.csdn.net/m0_61318909/article/details/162579006)
+
++ [MIMO 信道容量与天线数量关系的理论分析与 MATLAB 仿真（P124302037陈琛）](https://blog.csdn.net/lily_ahu/article/details/162589756)
+
++ [npm 国内镜像源配置全解](https://blog.csdn.net/2301_76711398/article/details/162557108)
+
++ [在kafka kraft模式启动时使用的 JAAS 配置示例](https://blog.csdn.net/jjk_02027/article/details/162608481)
+
