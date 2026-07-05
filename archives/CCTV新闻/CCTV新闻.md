@@ -161,3 +161,11 @@
 
 + [伊朗外交部发言人：未来几天暂无与美方会晤计划](https://news.cctv.com/2026/06/30/ARTITIpl6v28byewATeQjWIx260630.shtml)
 
++ [伊朗最高领袖任命埃杰伊继续担任司法总监](https://news.cctv.com/2026/07/06/ARTI6GHPk9UWVqTbDSMoET3L260706.shtml)
+
++ [俄国防部：俄提议在一地停火以移交乌军人遗体被拒绝](https://news.cctv.com/2026/07/06/ARTIOwVZRiRINPlPcIsLPLgA260706.shtml)
+
++ [法国一博物馆约20件珠宝被盗 损失或达数百万欧元](https://news.cctv.com/2026/07/06/ARTIVwVyzANhNEPvnKhQeT0g260706.shtml)
+
++ [委内瑞拉地震死亡人数升至3342人](https://news.cctv.com/2026/07/06/ARTIEYuZxWuzL1p6VsczKaEE260706.shtml)
+
