@@ -171,3 +171,5 @@
 
 + [普京与特朗普通话 重申仍倾向政治解决乌克兰问题](https://news.cctv.com/2026/07/05/ARTIbUN7C6NM9fuvJgoWrkK4260705.shtml)
 
++ [澳大利亚一陨石坑可能形成于30亿年前](https://news.cctv.com/2026/07/05/ARTIzUgR3hRxVPYOv759MFqp260705.shtml)
+

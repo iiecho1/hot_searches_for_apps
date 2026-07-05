@@ -155,3 +155,21 @@
 
 + [在 Python 中快速锁定 Excel 单元格与行列](https://blog.csdn.net/E_ICEBLUE/article/details/162556262)
 
++ [别再只看跑分了，我把 5 个模型拉去跑了一次真实 Agent 任务](https://blog.csdn.net/CC1991_/article/details/162553209)
+
++ [【Git 精品详解】企业规范：企业级开发模型、Git Flow、发版流程规范、Code Owner 制度、事故应急回滚](https://blog.csdn.net/say_fall/article/details/162607783)
+
++ [如何查询笔记本台式机等是否在维保期内？](https://blog.csdn.net/2401_83015914/article/details/162545836)
+
++ [AtomCode vs Claude Code：国产开源AI编码助手全面对比测评](https://blog.csdn.net/u014727709/article/details/162526205)
+
++ [Gateway API：Ingress 的下一代替代方案](https://blog.csdn.net/lwxvgdv/article/details/162584075)
+
++ [美团 Leaf-snowflake 分布式 ID 生成器 k8s 改造的想法](https://blog.csdn.net/qq_20919883/article/details/162581125)
+
++ [大模型Agent系统核心拆解：从任务规划、工具调用到记忆机制，智能自主代理实践20.3](https://blog.csdn.net/minhuan/article/details/162584736)
+
++ [Ubuntu26.04 搭建 Hadoop3.5.0 完全分布式](https://blog.csdn.net/qq_24330181/article/details/162582030)
+
++ [OpenHarmony Text 文本组件精细化开发与 API23 + 适配优化](https://blog.csdn.net/Helen_cai/article/details/162588644)
+

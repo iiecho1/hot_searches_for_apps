@@ -37,3 +37,21 @@
 
 + [crynta/terax-ai](https://github.com/crynta/terax-ai)
 
++ [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+
++ [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+
++ [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
++ [facebook/astryx](https://github.com/facebook/astryx)
+
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [gastownhall/gastown](https://github.com/gastownhall/gastown)
+
++ [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+
++ [steipete/CodexBar](https://github.com/steipete/CodexBar)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
