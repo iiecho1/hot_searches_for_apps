@@ -39,3 +39,9 @@
 
 + [claude 老号被封](https://www.v2ex.com/t/1224963)
 
++ [[新用户送 10 刀] 超低价 Codex API，最低每刀不到 0.05R，纯血 gpt plus 号池反代，可用 gpt5.5， gpt5.4, gpt-image2，稳定好用](https://www.v2ex.com/t/1225059)
+
++ [土区续费 GPT plus 还是 500 里拉](https://www.v2ex.com/t/1225016)
+
++ [以前值钱的东西，现在都不值钱了，老登资产被时代抛弃](https://www.v2ex.com/t/1225022)
+

@@ -137,3 +137,21 @@
 
 + [Havenlon｜AI 时代的执行控制（三）：过去的系统为什么看起来更安全：因为人一直在中间](https://blog.csdn.net/wanglin831025/article/details/162600596)
 
++ [管家婆怎么实现远程访问？SQL Server配置与cpolar异地连接教程](https://blog.csdn.net/2401_86326742/article/details/162527718)
+
++ [Claude Sonnet 5 正式发布：最“Agent化“的 Sonnet 模型，全面上手指南](https://blog.csdn.net/qq_36729037/article/details/162524362)
+
++ [EMS AI预测服务-LSTM时序预测设计](https://blog.csdn.net/m0_61318909/article/details/162602940)
+
++ [一个 OTLP 端点，三个团队，零路由规则：Elasticsearch Streams AI 分区](https://blog.csdn.net/UbuntuTouch/article/details/162570873)
+
++ [网络安全核心知识梳理：从OSI模型到密码技术](https://blog.csdn.net/2301_80004785/article/details/162586052)
+
++ [从零搭建全栈博客系统：Go + Vue 3 + Docker 全流程实战](https://blog.csdn.net/2301_80077399/article/details/162584465)
+
++ [考与省考一起准备，粉笔系统班冲 75+ 的「一备两考」完整方案](https://blog.csdn.net/gk156783/article/details/162558538)
+
++ [计算机网络](https://blog.csdn.net/2401_89195731/article/details/162554596)
+
++ [在 Python 中快速锁定 Excel 单元格与行列](https://blog.csdn.net/E_ICEBLUE/article/details/162556262)
+
