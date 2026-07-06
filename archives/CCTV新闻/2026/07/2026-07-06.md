@@ -177,3 +177,9 @@
 
 + [日本开始新一轮核污染水排海](https://news.cctv.com/2026/07/06/ARTISjPcgmjKYdQ1m7uImBhA260706.shtml)
 
++ [欧足联称国际足联“特赦”巴洛贡的决定越过了红线](https://news.cctv.com/2026/07/06/ARTI7FJSAXFt69l4QI3cI0JH260706.shtml)
+
++ [特朗普介入世界杯判罚 美国队对手喊不公](https://news.cctv.com/2026/07/06/ARTImYqXYyVnx5QuguP4N6sE260706.shtml)
+
++ [以色列政府公开违抗最高法 遭国内多方抨击](https://news.cctv.com/2026/07/06/ARTI6xjOGcfRXoivsyZdMcCN260706.shtml)
+

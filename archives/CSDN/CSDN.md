@@ -127,3 +127,51 @@
 
 + [YOLOv8摔倒检测系统：从原理到系统](https://blog.csdn.net/y2770169045/article/details/162588579)
 
++ [单体还是微服务？中小企业的务实选择（一套代码双模式平滑演进）](https://blog.csdn.net/zhouzhongyan/article/details/162622772)
+
++ [OpenCV-Python实战（32）——基于深度学习的物体分类与定位](https://blog.csdn.net/LOVEmy134611/article/details/161678530)
+
++ [【AI智能体】Hermes Agent 从部署到项目实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/162558602)
+
++ [OpenClaw 实战案例：内容创作系统构建](https://blog.csdn.net/sinat_41617212/article/details/162612725)
+
++ [K8s - Helm管理工具](https://blog.csdn.net/liu_chen_yang/article/details/161394380)
+
++ [深度学习实战-基于CNN卷积神经网络的番茄病害叶片图像识别模型](https://blog.csdn.net/m0_64336780/article/details/159730611)
+
++ [小米摄像头怎么接入RTSP？Go2RTC转流、EasyNVR录像与公网访问教程](https://blog.csdn.net/qq_54796785/article/details/162630513)
+
++ [【花雕学编程】Arduino BLDC 之三模冗余控制算法架构机器人](https://blog.csdn.net/weixin_41659040/article/details/162543428)
+
++ [【AI 算法精讲 12】K-Means 聚类：初始化与收敛](https://blog.csdn.net/lishengzhen123/article/details/162399305)
+
++ [HarmonyOS 3D 拆解分析 UI 重构：从能用到好看的迭代过程](https://blog.csdn.net/2501_93573294/article/details/162609671)
+
++ [不用Docker也能跑通消息队列:Linux原生部署RocketMQ实战](https://blog.csdn.net/2401_87629362/article/details/162630996)
+
++ [锂电池充放电管理：BQ系列芯片与电量计算法——CC-CV、SOC估算](https://blog.csdn.net/u014727709/article/details/162558455)
+
++ [智能车竞赛硬件盲盒参赛手册](https://blog.csdn.net/zhuoqingjoking97298/article/details/162623077)
+
++ [Claude Sonnet 5 辅助 Python 全栈开发完全指南：从数据库设计到前端交互的 AI 驱动工作流](https://blog.csdn.net/nmdbbzcl/article/details/162576432)
+
++ [【MATLAB】嵌入式C代码优化与内存精简](https://blog.csdn.net/unbelievevc/article/details/162622043)
+
++ [GitHub热榜开源项目，Claude Code 10模块系统学习指南](https://blog.csdn.net/zhangay1998/article/details/162622420)
+
++ [GitHub集成模式_agent-github-modes](https://blog.csdn.net/shallwegzgdj/article/details/161934925)
+
++ [【教程4＞第12章＞第20节】基于FPGA的图像配准实现————秩，迹以及局部区域最大值运算](https://blog.csdn.net/ccsss22/article/details/162631120)
+
++ [2026最新8款AI编程助手平替深度对比实测](https://blog.csdn.net/mmy_12/article/details/162612982)
+
++ [SQL进阶——HAVING子句](https://blog.csdn.net/cold___play/article/details/162584686)
+
++ [网络安全与网络协议知识点汇总 + 选填题库](https://blog.csdn.net/m0_74042991/article/details/162585972)
+
++ [HarmonyOS ArkTS——九宫数独项目总结与开发最佳实践](https://blog.csdn.net/feng8403000/article/details/162610935)
+
++ [HarmonyKit | 鸿蒙新特性：@Builder 构建器的实战技巧与避坑指南](https://blog.csdn.net/2302_80329073/article/details/162611769)
+
++ [鸿蒙Flutter开发环境从零搭建教程（Windows/macOS双平台·避坑版）](https://blog.csdn.net/2503_93740796/article/details/162622537)
+

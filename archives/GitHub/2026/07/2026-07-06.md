@@ -45,3 +45,17 @@
 
 + [anthropics/claude-code](https://github.com/anthropics/claude-code)
 
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
++ [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
+
++ [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
+
++ [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+
++ [alibaba/zvec](https://github.com/alibaba/zvec)
+
++ [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
