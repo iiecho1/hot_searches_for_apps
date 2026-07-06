@@ -161,3 +161,7 @@
 
 + [日本本州东部附近海域发生5.8级地震，震源深度50千米](https://news.cctv.com/2026/07/01/ARTIyDT0ZFCtUavnzMmopfUq260701.shtml)
 
++ [法国称已撤回所有驻布基纳法索外交人员](https://news.cctv.com/2026/07/07/ARTIX69ZQ5H0bZ2EvUtSybpX260707.shtml)
+
++ [北约秘书长敦促成员国履行承诺 提高军费占比](https://news.cctv.com/2026/07/07/ARTIY0YpV3xTNW0jH55O4T2B260707.shtml)
+
