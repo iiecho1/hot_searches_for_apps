@@ -175,3 +175,5 @@
 
 + [科威特设立1亿美元紧急应对基金](https://news.cctv.com/2026/07/06/ARTIxoY7PCugk4E1uY7doiua260706.shtml)
 
++ [日本开始新一轮核污染水排海](https://news.cctv.com/2026/07/06/ARTISjPcgmjKYdQ1m7uImBhA260706.shtml)
+

@@ -39,3 +39,11 @@
 
 + [codex 被封了](https://www.v2ex.com/t/1225161)
 
++ [我自己也经常看演唱会呀，为什么 v 友对女生看演唱会那么大的仇意？](https://www.v2ex.com/t/1225167)
+
++ [招聘遇到工作经历完全造假的 211](https://www.v2ex.com/t/1225204)
+
++ [[送永久激活码]RightX 增强你的 Mac Finder 右键](https://www.v2ex.com/t/1225211)
+
++ [中转再次开启留言送余额活动， 0.16 倍率，欢迎大家体验](https://www.v2ex.com/t/1225194)
+
