@@ -173,3 +173,5 @@
 
 + [德媒：日期引争议，重重警力下德国选择党召开大会](https://news.cctv.com/2026/07/06/ARTIRm0FJsYR1gqZ6KxpQ03z260706.shtml)
 
++ [科威特设立1亿美元紧急应对基金](https://news.cctv.com/2026/07/06/ARTIxoY7PCugk4E1uY7doiua260706.shtml)
+
