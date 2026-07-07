@@ -45,3 +45,5 @@
 
 + [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
++ [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+

@@ -197,3 +197,5 @@
 
 + [印度与印尼签订防务合作协议](https://news.cctv.com/2026/07/07/ARTIYqYQuOCSiseCSm0BQETQ260707.shtml)
 
++ [吉尔吉斯斯坦一架飞机起飞时发生倾倒致多人受伤](https://news.cctv.com/2026/07/07/ARTIwjImgMmPYDRBnGmZTn1Y260707.shtml)
+

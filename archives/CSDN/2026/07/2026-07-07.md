@@ -189,3 +189,15 @@
 
 + [用.net core手撸的IoT 智能监控平台](https://blog.csdn.net/m0_61318909/article/details/162661410)
 
++ [基于NE555制作的电池内阻测量电路软件仿真](https://blog.csdn.net/zhuoqingjoking97298/article/details/162668673)
+
++ [Claude Sonnet 5 辅助网页制作完全指南：从 HTML 到 React，理论、库函数与提示词工程](https://blog.csdn.net/nmdbbzcl/article/details/162642963)
+
++ [【Atlas】 Atlas 如何捕获 Hive SQL 作业的血缘关系？](https://blog.csdn.net/qq_21383435/article/details/160482352)
+
++ [【Linux网络】从底层到实战：全面解析 NAT、代理服务、内网穿透与内网打洞](https://blog.csdn.net/2503_91389547/article/details/161765107)
+
++ [s03:SubAgent，让每个任务有自己干净的生存空间](https://blog.csdn.net/hhhhhh66654/article/details/162663300)
+
++ [基于EVM架构的Web3音频确权与RNS Token智能合约设计深度解析](https://blog.csdn.net/2502_91177556/article/details/162608337)
+
