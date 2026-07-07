@@ -167,3 +167,5 @@
 
 + [特朗普再次声称格陵兰岛“应该由美国控制”](https://news.cctv.com/2026/07/08/ARTIi0WIK01Zd2ZwnVYid7dt260708.shtml)
 
++ [载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克](https://news.cctv.com/2026/07/08/ARTIdQFZ943lFUzkgJ9hfPwV260708.shtml)
+
