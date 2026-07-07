@@ -143,3 +143,15 @@
 
 + [快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践](https://blog.csdn.net/SelectDB_Fly/article/details/162628751)
 
++ [Harness Engineering 从理论到实战：基于 Spring AI Alibaba 的完整实现指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162640337)
+
++ [第八章 上下文与记忆管理《程序员自进化与Agent Harness工程》](https://blog.csdn.net/universsky2015/article/details/162674937)
+
++ [excelize v2.11.0发布：安全修复、图表能力升级、数据透视增强、性能大幅优化全解析](https://blog.csdn.net/weixin_48502062/article/details/162670966)
+
++ [【创新未发表】Matlab实现能量谷优化算法EVO-Kmean-Transformer-BiLSTM负荷预测算法研究](https://blog.csdn.net/Matlab_dashi/article/details/162674891)
+
++ [【多智能体】不确定安全关键多智能体系统连续控制的二次规划研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/160124589)
+
++ [【分布式系统】分布式系统核心知识全景图：从共识算法到Kafka架构演进](https://blog.csdn.net/qq_41652036/article/details/162675198)
+
