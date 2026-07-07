@@ -105,3 +105,55 @@
 
 + [【关于redis高性能，高可用处理】](https://blog.csdn.net/livemegoodboy/article/details/162571828)
 
++ [《C/C+++ Boost 轻量级搜索引擎实战：架构流程、技术栈与工程落地指南——HTML文件的清洗（上篇）》](https://blog.csdn.net/Dovis5884/article/details/156314185)
+
++ [代码安全别只靠人工看：用DeepAudit搭一套自己的AI审计平台](https://blog.csdn.net/2501_91062530/article/details/162661476)
+
++ [Harness Engineering 从理论到实战：基于 Spring AI Alibaba 的完整实现指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162640337)
+
++ [YOLOv8蜜蜂识别检测系统（项目源码+YOLO数据集+模型权重+UI界面+python+深度学习+环境配置+目标检测）](https://blog.csdn.net/m0_68036862/article/details/162632446)
+
++ [HarmonyOS 3D 拆解分析：多色系统设计与视觉信息编码](https://blog.csdn.net/2501_93573294/article/details/162639663)
+
++ [服务器出问题别等用户反馈：用Python和钉钉搭一套轻量告警系统](https://blog.csdn.net/2401_84813926/article/details/162661259)
+
++ [想监控小服务器又不想折腾？用Komari搭一套轻量监控面板](https://blog.csdn.net/u010726809/article/details/162627097)
+
++ [【数据链路层详解】从以太网帧到 ARP 协议的最后一跳](https://blog.csdn.net/2302_80243065/article/details/162638159)
+
++ [HarmonyOS ArkTS——九宫数独项目总结与开发最佳实践](https://blog.csdn.net/feng8403000/article/details/162610935)
+
++ [HarmonyKit | 鸿蒙新特性：cryptoFramework 异步加密哈希计算实战](https://blog.csdn.net/2302_80329073/article/details/162642587)
+
++ [JVM 排查工具链组合拳：Arthas + MAT + JFR 协同诊断实战](https://blog.csdn.net/alex_goden/article/details/162652687)
+
++ [Spring gRPC集成Spring Security OAuth2](https://blog.csdn.net/qq_39893313/article/details/162651905)
+
++ [【SpringCloud合集-01】Nacos 微服务注册与配置中心实战学习](https://blog.csdn.net/qq_44648243/article/details/162640753)
+
++ [【Docker实战】吃透Docker与K8s核心原理：从底层机制到离线部署实战](https://blog.csdn.net/qq_41652036/article/details/162643962)
+
++ [自己动手写一个spring之MVC_2](https://blog.csdn.net/wang0907/article/details/162640640)
+
++ [告警不只是通知：让Grafana大盘通过LLM自动生成故障上下文分析报告](https://blog.csdn.net/qwe0iop0/article/details/162630585)
+
++ [Java 微服务分布式事务实践：Outbox、幂等与 Saga](https://blog.csdn.net/liu_shengling/article/details/162643208)
+
++ [美团 LongCat-2.0 正式 MIT 全开源｜1.6T MoE 大模型技术拆解与完整本地部署实战教程](https://blog.csdn.net/qq_36729037/article/details/162642812)
+
++ [踩过餐饮、工厂、医疗无数打印坑后，我做了一套能适用所有场景的打印中间件](https://blog.csdn.net/StevenSurpass/article/details/162661233)
+
++ [打造跨平台统一路由跳转组件：Kotlin + Flutter 混合架构实践](https://blog.csdn.net/u011084603/article/details/162640679)
+
++ [【AI 算法精讲 16】BPE 分词：从字节对到子词](https://blog.csdn.net/lishengzhen123/article/details/162399362)
+
++ [DeepSeek using Claude Code 重构Oracle Fusion/SAP最佳业务实践：Oracle Fusion 数据安全策略](https://blog.csdn.net/openeis/article/details/162653039)
+
++ [AI 专题学习手册](https://blog.csdn.net/qq_35201802/article/details/162659405)
+
++ [2026最新5款AI编程工具平替实测合集｜开发者全方位权威榜单](https://blog.csdn.net/p3010908441/article/details/162611764)
+
++ [2026最新7款AI编程工具平替实测合集｜企业级开发权威深度对比](https://blog.csdn.net/qq_51245383/article/details/162612234)
+
++ [为什么 AI 输出都是 Markdown 格式？Markdown 语法学习，Typora（Mac、Windows） MD 编辑器分享](https://blog.csdn.net/qq_38374397/article/details/162627816)
+

@@ -181,3 +181,13 @@
 
 + [一艘液化天然气运输船在阿曼湾遭袭](https://news.cctv.com/2026/07/07/ARTI7Q1CmFNBq8XmXiEFrtc9260707.shtml)
 
++ [美国22个州反对联邦政府加征关税计划](https://news.cctv.com/2026/07/07/ARTI8aDxA5QYdWdM5OjpjZqK260707.shtml)
+
++ [伊朗外长：若威胁持续 不会启动最终协议谈判](https://news.cctv.com/2026/07/07/ARTIPHE4Bzj1mDYph7apqY0c260707.shtml)
+
++ [联合国对哈马斯宣布移交加沙地带行政管理权表示欢迎](https://news.cctv.com/2026/07/07/ARTIWZRF4FhZGdz6IRb3NVIP260707.shtml)
+
++ [法国检方：拉利克博物馆被盗 损失超450万欧元](https://news.cctv.com/2026/07/07/ARTIe6pWXOYGoyGl1RUMoEId260707.shtml)
+
++ [伊朗外长：若威胁继续 不会启动最终谈判](https://news.cctv.com/2026/07/07/ARTIihG9ljuofVC5vecDlPdS260707.shtml)
+

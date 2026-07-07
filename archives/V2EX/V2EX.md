@@ -37,3 +37,17 @@
 
 + [Opus 4.8 越来越脑瘫了](https://www.v2ex.com/t/1225298)
 
++ [同事送了个洗碗机之后回不去了](https://www.v2ex.com/t/1225553)
+
++ [小红书的骚操作会不会毁掉整个行业的 VIE？](https://www.v2ex.com/t/1225460)
+
++ [“万一免五”低佣低两融老倔驴开户巨靠谱，继续抽 JBL GO4 小音箱..喜欢动次打次的来~~](https://www.v2ex.com/t/1225443)
+
++ [分析分析，你们老婆也这样吗](https://www.v2ex.com/t/1225496)
+
++ [这篇文章勾起了我的对于体罚的回忆](https://www.v2ex.com/t/1225465)
+
++ [国行红米手机有推荐吗？](https://www.v2ex.com/t/1225464)
+
++ [Cursor 无法手动关掉 max mode 使用了](https://www.v2ex.com/t/1225455)
+

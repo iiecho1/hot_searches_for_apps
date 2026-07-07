@@ -25,3 +25,13 @@
 
 + [字节跳动申请“咕咕嘎嘎”“刀盾狗”“香蕉猫”等网络热梗的美术作品著作权](https://m.ithome.com/html/972901.htm)
 
++ [TCL 回应国家一级文物现其广告：未授权或参与放置任何品牌标识，积极配合调查](https://m.ithome.com/html/972858.htm)
+
++ [郭明錤称苹果折叠屏手机可能重演 iPhone X 剧本：同场发布、较晚开卖，供应紧张延续至年底](https://m.ithome.com/html/972859.htm)
+
++ [升级配华为海思芯片：美的酷省电 2 代大 1.5 匹空调 1599 元直降](https://m.ithome.com/html/972821.htm)
+
++ [复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分](https://m.ithome.com/html/972809.htm)
+
++ [《英雄联盟》2026 MSI 淘汰赛不敌越南战队，TES 官方致歉](https://m.ithome.com/html/972863.htm)
+
