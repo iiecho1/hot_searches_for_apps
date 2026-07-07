@@ -165,3 +165,11 @@
 
 + [北约秘书长敦促成员国履行承诺 提高军费占比](https://news.cctv.com/2026/07/07/ARTIY0YpV3xTNW0jH55O4T2B260707.shtml)
 
++ [俄副外长：俄方将与美国在乌克兰问题上保持接触](https://news.cctv.com/2026/07/07/ARTIr3o0juo7655klRTz1wPa260707.shtml)
+
++ [国际油价6日微跌](https://news.cctv.com/2026/07/07/ARTIfNSgZ4lLMfBf14Pl2TvK260707.shtml)
+
++ [古巴再次全国大停电](https://news.cctv.com/2026/07/07/ARTIMU4phPbqHRE5OngF34cS260707.shtml)
+
++ [委内瑞拉地震死亡人数升至3535人](https://news.cctv.com/2026/07/07/ARTI3i306Jfn8w2n1sV0lvuI260707.shtml)
+
