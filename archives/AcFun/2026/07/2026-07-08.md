@@ -61,3 +61,13 @@
 
 + [【日语翻唱】Everlasting Snow（棋魂）](https://m.acfun.cn/v/?ac=48669183)
 
++ [如果AI有眼睛，它眼中的你是什么样的？](https://m.acfun.cn/v/?ac=48674522)
+
++ [【7月】感谢对局。～大小姐才不玩格斗游戏～S01E01](https://m.acfun.cn/v/?ac=48674090)
+
++ [《我死你后边》](https://m.acfun.cn/v/?ac=48674430)
+
++ [使命召唤手游：祝贺我吧！从铂金晋级到了黄金](https://m.acfun.cn/v/?ac=48672114)
+
++ [【燕返】哥特王朝 EP7征服爬矿虫女王](https://m.acfun.cn/v/?ac=48673329)
+

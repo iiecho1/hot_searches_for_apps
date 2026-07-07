@@ -101,3 +101,45 @@
 
 + [de风——【从零开始学习Linux】（三）：全面总结瞧一瞧，权限管理没烦恼](https://blog.csdn.net/Xiao_running/article/details/161903877)
 
++ [审批单据怎么一键打印：可视化打印模板 + 字段/明细/审批记录占位的设计](https://blog.csdn.net/zhouzhongyan/article/details/162653220)
+
++ [从黑客视角看安全：攻击链（Kill Chain）全流程拆解](https://blog.csdn.net/cui_yonghua/article/details/162674401)
+
++ [别让告警变成噪音：用Prometheus和Alertmanager搭一套可远程查看的监控系统](https://blog.csdn.net/EterNity_TiMe_/article/details/162674072)
+
++ [KES 监控与运维自动化实战：性能指标采集、告警体系与智能运维](https://blog.csdn.net/weixin_62765017/article/details/162643877)
+
++ [【Bug已解决】Rate Limit Exceeded on /compact — Claude Code 压缩上下文也限流解决方案](https://blog.csdn.net/weixin_52908342/article/details/162660164)
+
++ [【花雕动手做】行空板 K10 系列实验之麦克纳姆轮语音控制 TT 马达四驱动智能小车](https://blog.csdn.net/weixin_41659040/article/details/162569914)
+
++ [基于 Trae + DeepSeek 的 Vibe Coding 实践指南（六）：实战阿里云图片内容审核全栈项目](https://blog.csdn.net/2502_91499791/article/details/162570949)
+
++ [【Flutter】Flutter 进程保活 ② ( 关闭电池优化 | Android 端电池优化简介 | 使用 auto_start_flutter 插件关闭 Android 端电池优化 )](https://blog.csdn.net/han1202012/article/details/162672058)
+
++ [Agent 到底是什么？从架构演进看 AI Agent 的工程定义](https://blog.csdn.net/m0_58782205/article/details/162638956)
+
++ [谁来评判评判者？在 Elasticsearch Workflows 中使用 LLM-as-a-Judge](https://blog.csdn.net/UbuntuTouch/article/details/162651391)
+
++ [为什么 AI 输出都是 Markdown 格式？Markdown 语法学习，Typora（Mac、Windows） MD 编辑器分享](https://blog.csdn.net/qq_38374397/article/details/162627816)
+
++ [Spring Boot 后端接口分层设计：从 Controller 到统一异常处理](https://blog.csdn.net/liu_shengling/article/details/162610248)
+
++ [【低空三维路径规划】基于分层协作重组策略多目标灰狼算法多无人机低空路径规划，路径长度、安全性、高度和平滑度附MATLAB 源代码](https://blog.csdn.net/qq_59747472/article/details/162662521)
+
++ [OpenTenBase学习——分布式数据库 / 集群主流架构分类](https://blog.csdn.net/2501_92707800/article/details/162607118)
+
++ [【SCED】N-1故障集+安全约束经济调度研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/162644233)
+
++ [SDC命令详解：使用quit、exit和return命令进行控制](https://blog.csdn.net/weixin_45791458/article/details/162665817)
+
++ [提示工程与 Agent 编排：从单轮对话到复杂任务执行的架构演进](https://blog.csdn.net/2301_76821268/article/details/162654601)
+
++ [Flutter App逆向初探：Dart编译产物的分析思路](https://blog.csdn.net/weixin_41943766/article/details/162602207)
+
++ [Flutter/HarmonyOS 实战｜中式美食餐桌方案页：状态切换、买菜清单与下一步入口](https://blog.csdn.net/weixin_46511491/article/details/162642977)
+
++ [Vue3 + Three.js + GLB 实现 AI 工作台 3D 机器人助手组件](https://blog.csdn.net/Ren847450931/article/details/162668030)
+
++ [快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践](https://blog.csdn.net/SelectDB_Fly/article/details/162628751)
+

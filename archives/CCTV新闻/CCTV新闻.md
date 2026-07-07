@@ -161,3 +161,9 @@
 
 + [出借过程“堪比脱欧” 法国国宝送展英国牵动舆论关注](https://news.cctv.com/2026/07/03/ARTIDLIykQ35ViN8YGYpor9K260703.shtml)
 
++ [美国纽约一建筑因倒塌风险疏散人员](https://news.cctv.com/2026/07/08/ARTIfcaSoqy9yXfQVLU6yYnC260708.shtml)
+
++ [英国央行报告警示人工智能给金融稳定带来隐患](https://news.cctv.com/2026/07/08/ARTIUHwA1xlCFe7Bxn069Yv3260708.shtml)
+
++ [特朗普再次声称格陵兰岛“应该由美国控制”](https://news.cctv.com/2026/07/08/ARTIi0WIK01Zd2ZwnVYid7dt260708.shtml)
+
