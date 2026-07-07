@@ -169,3 +169,15 @@
 
 + [载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克](https://news.cctv.com/2026/07/08/ARTIdQFZ943lFUzkgJ9hfPwV260708.shtml)
 
++ [伊朗副外长：美方袭击严重违反谅解备忘录](https://news.cctv.com/2026/07/08/ARTIUFdDV05em3MqrdOGp84P260708.shtml)
+
++ [美官员称对伊朗打击是“惩罚” 不是对等回应](https://news.cctv.com/2026/07/08/ARTIbl2lRBgdzQL0X2cfYsQL260708.shtml)
+
++ [委内瑞拉地震死亡人数升至3685人](https://news.cctv.com/2026/07/08/ARTIpYLu0EYYyQZbAg7ueOyQ260708.shtml)
+
++ [美国终止对伊朗石油制裁豁免](https://news.cctv.com/2026/07/08/ARTIels5ULsmoAIdRmiTV6tG260708.shtml)
+
++ [巴基斯坦一货机在飞往卡拉奇途中失联](https://news.cctv.com/2026/07/08/ARTIA55flyVZl7bTCDNURdIw260708.shtml)
+
++ [以总理再次反对美方向土耳其出售F-35战机](https://news.cctv.com/2026/07/08/ARTIE4uoGxeJmRb2bh6P16C6260708.shtml)
+
