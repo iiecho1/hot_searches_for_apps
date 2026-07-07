@@ -173,3 +173,11 @@
 
 + [委内瑞拉地震死亡人数升至3535人](https://news.cctv.com/2026/07/07/ARTI3i306Jfn8w2n1sV0lvuI260707.shtml)
 
++ [中国驻菲律宾大使馆：2026年上半年，在菲律宾共发生涉及中国公民绑架案7起](https://news.cctv.com/2026/07/07/ARTIeILvqJKYaNyjqS0yxmHM260707.shtml)
+
++ [韩国总统遭死亡威胁 警方启动调查](https://news.cctv.com/2026/07/07/ARTIlfZCJ9BLLPSFdDPxdyy1260707.shtml)
+
++ [美官员称伊朗革命卫队在霍尔木兹海峡击中两艘商船](https://news.cctv.com/2026/07/07/ARTIvxoP7R9vVS8pdFxfLK35260707.shtml)
+
++ [一艘液化天然气运输船在阿曼湾遭袭](https://news.cctv.com/2026/07/07/ARTI7Q1CmFNBq8XmXiEFrtc9260707.shtml)
+

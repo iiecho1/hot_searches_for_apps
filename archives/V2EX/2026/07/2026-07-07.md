@@ -21,3 +21,19 @@
 
 + [「免费 40 刀额度」GPT 纯 PRO 号 自制中转站 无任何开源项目缝合 支持企业对接](https://www.v2ex.com/t/1225280)
 
++ [分享一个极限赶飞机不用等的方法](https://www.v2ex.com/t/1225334)
+
++ [[有一个朋友] 老丈人说结婚送房？](https://www.v2ex.com/t/1225263)
+
++ [新加坡公司上班第二天被炒鱿鱼](https://www.v2ex.com/t/1225425)
+
++ [没有公网 IPv4， IPv6 又是动态的，大家现在怎么低成本暴露家庭服务？](https://www.v2ex.com/t/1225326)
+
++ [蔚来被追尾，纠结维修还是强行走全损](https://www.v2ex.com/t/1225255)
+
++ [使用 claude code 进行开发，一天用 600 人民币算多吗？](https://www.v2ex.com/t/1225437)
+
++ [mac 的外接显示器要完美必须 5K 吗？](https://www.v2ex.com/t/1225314)
+
++ [Opus 4.8 越来越脑瘫了](https://www.v2ex.com/t/1225298)
+
