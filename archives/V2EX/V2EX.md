@@ -51,3 +51,5 @@
 
 + [Cursor 无法手动关掉 max mode 使用了](https://www.v2ex.com/t/1225455)
 
++ [有没有这样一种工作](https://www.v2ex.com/t/1225502)
+

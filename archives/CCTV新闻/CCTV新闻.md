@@ -191,3 +191,9 @@
 
 + [伊朗外长：若威胁继续 不会启动最终谈判](https://news.cctv.com/2026/07/07/ARTIihG9ljuofVC5vecDlPdS260707.shtml)
 
++ [叙利亚首都发生爆炸 爆炸地点邻近马克龙下榻酒店](https://news.cctv.com/2026/07/07/ARTI5385n5mcdGARlEfJLfsp260707.shtml)
+
++ [佩斯科夫：和平达成特别军事行动目标是俄优先选项](https://news.cctv.com/2026/07/07/ARTIi8HuUUeqUlxCUcH8mjdY260707.shtml)
+
++ [印度与印尼签订防务合作协议](https://news.cctv.com/2026/07/07/ARTIYqYQuOCSiseCSm0BQETQ260707.shtml)
+

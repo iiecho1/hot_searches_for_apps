@@ -157,3 +157,35 @@
 
 + [为什么 AI 输出都是 Markdown 格式？Markdown 语法学习，Typora（Mac、Windows） MD 编辑器分享](https://blog.csdn.net/qq_38374397/article/details/162627816)
 
++ [【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(基于PyTorch卷积层的MNIST分类实战:从卷积直觉到高效卷积设计)](https://blog.csdn.net/2401_87629362/article/details/162464739)
+
++ [Anthropic《语言模型中的全局工作空间》深度分析报告](https://blog.csdn.net/crazyjinks/article/details/162655824)
+
++ [Human Engineering：我们一直在给 AI 造 harness，却忘了给人写一份新的岗位说明书](https://blog.csdn.net/qq_43078335/article/details/162641989)
+
++ [4.1 学习目标：一张图读懂数据治理、数据管理、数据运维的边界与共生关系](https://blog.csdn.net/qq_41840843/article/details/162642192)
+
++ [【Agent 学习日记】不想把网站数据交给第三方？用Umami搭建自己的访问分析系统](https://blog.csdn.net/2402_87298751/article/details/162670780)
+
++ [【在大西北敲代码的第一篇感悟】](https://blog.csdn.net/Baiye02/article/details/162640183)
+
++ [Docker命令太多记不住？用Portainer把容器管理变成可视化操作](https://blog.csdn.net/weixin_44976692/article/details/162627530)
+
++ [GitHub今日热榜 | 2026-07-05：阿里巴巴浏览器Agent上榜](https://blog.csdn.net/m0_68631449/article/details/162597899)
+
++ [Spring AOP面向切面编程-从注解到实战](https://blog.csdn.net/2401_83135864/article/details/162642411)
+
++ [2026 网络安全隔离新规：物理隔离成为硬性标配](https://blog.csdn.net/JS_SWKJ/article/details/162635919)
+
++ [鸿蒙原生ArkTS布局方式之Grid+scrollBar滚动条布局深度解析](https://blog.csdn.net/langruotian/article/details/162643997)
+
++ [从 LLM 接口调用到自主 Agent：用 LangChain 挂载 Tools 与 Promise.all 并发性能优化实战](https://blog.csdn.net/meilindehuzi_a/article/details/162643813)
+
++ [原生 IP、机房 IP、住宅 IP、广播 IP 有何不同？从网络身份到 ASN 识别的技术科普](https://blog.csdn.net/2601_95872615/article/details/162642693)
+
++ [在国产海光 DCU 上跑通腾讯 HunyuanVideo-1.5 视频生成模型](https://blog.csdn.net/m0_46167748/article/details/162665014)
+
++ [还在手写 SQL 洗数据？几行建表 + 拖拽 ETL，半小时搞定自媒体全链路分析](https://blog.csdn.net/2401_87207403/article/details/162654500)
+
++ [用.net core手撸的IoT 智能监控平台](https://blog.csdn.net/m0_61318909/article/details/162661410)
+

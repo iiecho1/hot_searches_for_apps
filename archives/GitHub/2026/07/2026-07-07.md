@@ -33,3 +33,15 @@
 
 + [gastownhall/gastown](https://github.com/gastownhall/gastown)
 
++ [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+
++ [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
+
++ [dotnet/skills](https://github.com/dotnet/skills)
+
++ [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+
++ [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
+
++ [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+
