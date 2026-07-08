@@ -27,3 +27,19 @@
 
 + [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
++ [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+
++ [prisma/prisma](https://github.com/prisma/prisma)
+
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
++ [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [alibaba/zvec](https://github.com/alibaba/zvec)
+
++ [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+
++ [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+

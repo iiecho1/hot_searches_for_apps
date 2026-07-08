@@ -213,3 +213,7 @@
 
 + [俄罗斯两艘油轮遭无人机袭击受损](https://news.cctv.com/2026/07/08/ARTIoZCMjqXDgx9TBBLxjCSD260708.shtml)
 
++ [匈牙利总理：不会向乌克兰提供武器、派遣军事人员](https://news.cctv.com/2026/07/08/ARTI3CMX9MIIQaMNABVu2ALp260708.shtml)
+
++ [伊总统：伊朗拒绝美方“游戏” 坚定维护自身权利](https://news.cctv.com/2026/07/08/ARTIqVZQakLA4sUxXnoN5cLU260708.shtml)
+
