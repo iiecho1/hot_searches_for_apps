@@ -175,3 +175,49 @@
 
 + [Havenlon｜AI 时代的执行控制（十一）：一个只能说“不“的系统，为什么反而更安全](https://blog.csdn.net/wanglin831025/article/details/162675343)
 
++ [从感知到自主决策：机器人技术的演进、核心架构与产业落地全景解析](https://blog.csdn.net/beautifulmemory/article/details/162686266)
+
++ [如何设计一个生产级的 Agent 系统架构？需要考虑哪些关键模块？](https://blog.csdn.net/qq_28419035/article/details/162696271)
+
++ [智能合约 CI 管线中的 AI 代码审查：PR 级别的 Solidity 漏洞自动检测集成](https://blog.csdn.net/qq_40635035/article/details/162693963)
+
++ [从 Prompt 注入到防御：大模型输入安全的工程化检测链路](https://blog.csdn.net/2301_80245214/article/details/162694032)
+
++ [AIoT网关架构：协议转换、边缘推理与云端协同](https://blog.csdn.net/u014727709/article/details/162673569)
+
++ [从零理解 AI Agent：LLM + Tool + Memory，手写你的第一个智能体](https://blog.csdn.net/2501_93234401/article/details/162675429)
+
++ [当 Flutter 的重建风暴遇上 AI：自动检测 Widget 树中的过度重建组件](https://blog.csdn.net/leopold_man/article/details/162694820)
+
++ [2026年07月07日全球AI前沿动态](https://blog.csdn.net/ld326/article/details/162675414)
+
++ [【AVRCP】规范精讲[40]：属性请求截断，单条歌曲信息如何适配MTU限制](https://blog.csdn.net/weixin_37800531/article/details/162529556)
+
++ [etcd 备份与恢复：别等集群挂了才想起来没备份](https://blog.csdn.net/m0_50889382/article/details/162652800)
+
++ [K8s Pod 驱逐链分析：内存压力、磁盘压力与进程 OOM 的关系](https://blog.csdn.net/2609_95049439/article/details/162694841)
+
++ [【Linux】十九.进程池（匿名管道）实现多客户端并发通信息––详解](https://blog.csdn.net/2501_93351213/article/details/162642010)
+
++ [HarmonyOS 3D 拆解分析：单页多 Tab 架构的实现](https://blog.csdn.net/2501_93573294/article/details/162672540)
+
++ [玩转Rust高级应用 什么是协变，如何理解如果类型构造器保持了参数的子类型关系，就是协变；如果逆转了参数 的子类型关系，就是逆变](https://blog.csdn.net/2301_79516720/article/details/162670652)
+
++ [自媒体数据分析高效打法：分路清洗 + 极少 SQL，从预处理到可视化全程可复现](https://blog.csdn.net/2401_87207403/article/details/162654668)
+
++ [用 Click 与 Rich 构建开发者友好的 Python CLI：从参数解析到终端美化](https://blog.csdn.net/2401_83508463/article/details/162694190)
+
++ [Rust 实现的高性能 Tokenizer 服务：Byte-Pair Encoding 的并行化与缓存策略](https://blog.csdn.net/2301_81410839/article/details/162694829)
+
++ [【Flutter】Flutter 进程保活 ③ ( 屏幕常亮设置 | Flutter 禁止息屏、关闭自动锁屏、屏蔽系统屏保 )](https://blog.csdn.net/han1202012/article/details/162684521)
+
++ [AI Prompt 注入防护：输入隔离比输出过滤更根本](https://blog.csdn.net/specter__/article/details/162695444)
+
++ [【GaussDB】GaussDB通信性能问题定位总结](https://blog.csdn.net/GaussDB/article/details/162686192)
+
++ [Vue3 组件通信八种模式的全景对比与选型矩阵](https://blog.csdn.net/cannonmonster01/article/details/162694891)
+
++ [SQL进阶——数据分析](https://blog.csdn.net/cold___play/article/details/162663438)
+
++ [【花雕学编程】Arduino BLDC 之康复机器人IMU辅助的柔性拖拽跟随](https://blog.csdn.net/weixin_41659040/article/details/162688549)
+

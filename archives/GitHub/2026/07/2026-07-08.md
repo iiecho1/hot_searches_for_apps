@@ -43,3 +43,5 @@
 
 + [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
++ [huxingyi/autoremesher](https://github.com/huxingyi/autoremesher)
+
