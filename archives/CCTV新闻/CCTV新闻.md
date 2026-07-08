@@ -193,3 +193,23 @@
 
 + [深观察 | 北约峰会：一场“不再团结”的大会](https://news.cctv.com/2026/07/08/ARTIXpjtm0Sf2SgLTHm8FiDG260708.shtml)
 
++ [中国驻阿富汗使馆提醒在阿中国公民和机构加强驻地和出行安全防范](https://news.cctv.com/2026/07/08/ARTIQl7FXiqPCxMmW7yKgxzm260708.shtml)
+
++ [伊朗伊斯兰革命卫队称打击美军85处军事设施](https://news.cctv.com/2026/07/08/ARTI4C9NQzV0BMRAtW4jE1We260708.shtml)
+
++ [特朗普要求切断美国与西班牙贸易往来](https://news.cctv.com/2026/07/08/ARTI7LbWrQ0lbHhBUrhxxPEo260708.shtml)
+
++ [丹麦首相：格陵兰岛当然不会出售](https://news.cctv.com/2026/07/08/ARTI60C5fFmu6KDqkF5UGadJ260708.shtml)
+
++ [特朗普：美伊谅解备忘录“已终结”](https://news.cctv.com/2026/07/08/ARTIDFWrq2t6QDU0k19HjbJT260708.shtml)
+
++ [世界杯为何离不开“中国制造”](https://news.cctv.com/2026/07/08/ARTI732KF0o1Hq68kZwLHK1s260708.shtml)
+
++ [列国鉴｜记者观察：美国如何靠霸权“举债打仗”](https://news.cctv.com/2026/07/08/ARTIcyNSy9ksCbZhfVFiUGqO260708.shtml)
+
++ [日本民间团体集会纪念七七事变89周年](https://news.cctv.com/2026/07/08/ARTIJ8i6GrI00zvOz17OSMK9260708.shtml)
+
++ [联合国报告：可持续发展目标进展缓慢](https://news.cctv.com/2026/07/08/ARTI3cd8fbT74QW3LpK8Ia8g260708.shtml)
+
++ [俄罗斯两艘油轮遭无人机袭击受损](https://news.cctv.com/2026/07/08/ARTIoZCMjqXDgx9TBBLxjCSD260708.shtml)
+
