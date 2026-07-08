@@ -25,3 +25,17 @@
 
 + [消息称荣耀 WIN 手机将涨价，现价 3999 元起（国补后 3199 元起）](https://m.ithome.com/html/974202.htm)
 
++ [微信员工回应热搜“微信能不能出一个临时好友功能”，称此前已推出面对面收照片和文件功能](https://m.ithome.com/html/973796.htm)
+
++ [消息称 DeepSeek 正在自研 AI 芯片：面向推理场景，减少依赖英伟达、华为](https://m.ithome.com/html/973810.htm)
+
++ [华为乾崑智驾累计辅助驾驶里程数断网后仍滚动引热议，官方发声称相关页面展示数据时做了平滑处理](https://m.ithome.com/html/973803.htm)
+
++ [小米增程车上市节奏曝光：7 月底技术发布会、8 月中下旬上市，还备有万台现车上市即交付](https://m.ithome.com/html/973800.htm)
+
++ [12 期免息：iPhone 17 Pro Max 512G 京东 10559 元](https://m.ithome.com/html/973784.htm)
+
++ [小米 REDMI Note 17 系列手机发布会时间“抢跑”，定档 7 月 14 日 19:00 直播](https://m.ithome.com/html/973780.htm)
+
++ [华为智能手表 HarmonyOS 7 版本新特性首曝：腕上控家，一键执行预设场景](https://m.ithome.com/html/973808.htm)
+

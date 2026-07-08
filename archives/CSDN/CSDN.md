@@ -101,3 +101,25 @@
 
 + [Agent 到底是什么？从架构演进看 AI Agent 的工程定义](https://blog.csdn.net/m0_58782205/article/details/162638956)
 
++ [GitHub热榜开源项目，Claude Code 10模块系统学习指南](https://blog.csdn.net/zhangay1998/article/details/162622420)
+
++ [DolphinDB能耗实时监控：能耗数据可视化](https://blog.csdn.net/sinat_41617212/article/details/162671259)
+
++ [Harness Engineering 从理论到实战：基于 Spring AI Alibaba 的完整实现指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162640337)
+
++ [Linux字符设备驱动的完整生命周期：从insmod到rmmod的状态管理与sysfs接口设计](https://blog.csdn.net/jiang_style/article/details/162630499)
+
++ [AI辅助前端依赖升级：自动分析Breaking Changes并生成迁移方案](https://blog.csdn.net/weixin_49475940/article/details/162693954)
+
++ [深入理解Linux Cgroup v2：CPU与内存资源隔离机制及生产环境调优指南](https://blog.csdn.net/qwe0iop0/article/details/162694312)
+
++ [【AI 算法精讲 20】Softmax：温度系数与数值稳定性](https://blog.csdn.net/lishengzhen123/article/details/162399589)
+
++ [Claude Sonnet 5 辅助网页制作完全指南：从 HTML 到 React，理论、库函数与提示词工程](https://blog.csdn.net/nmdbbzcl/article/details/162642963)
+
++ [【数据链路层详解】从以太网帧到 ARP 协议的最后一跳](https://blog.csdn.net/2302_80243065/article/details/162638159)
+
++ [从零手动实现 ReAct 智能体：基于 LangChain 与 Promise.all 的异步 Agent 闭环工程实战](https://blog.csdn.net/meilindehuzi_a/article/details/162675480)
+
++ [Mysql——SQL调优](https://blog.csdn.net/2302_80221042/article/details/161971311)
+
