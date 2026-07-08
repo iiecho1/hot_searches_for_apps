@@ -161,3 +161,25 @@
 
 + [中国驻巴塞罗那总领馆提醒领区中国公民防范山火灾害](https://news.cctv.com/2026/07/04/ARTIlsE6eLlrF9qzs52kt2YQ260704.shtml)
 
++ [孟加拉国山体滑坡致10名儿童死亡](https://news.cctv.com/2026/07/09/ARTIgVKxv19ITjr4UujOnIJM260709.shtml)
+
++ [阿盟：以色列拒绝阿盟秘书长入境巴勒斯坦](https://news.cctv.com/2026/07/09/ARTIS8gixDxsWwNbZYHqF3eQ260709.shtml)
+
++ [美中央司令部：超20艘美军舰艇正在中东水域巡逻](https://news.cctv.com/2026/07/09/ARTISnyMSIvHUa3BFIqf3xZJ260709.shtml)
+
++ [伊朗称美军袭击造成8名伊朗军人死亡](https://news.cctv.com/2026/07/09/ARTIgf0AaeII1DuZfkcqP3NN260709.shtml)
+
++ [俄罗斯宣布实施柴油出口禁令](https://news.cctv.com/2026/07/09/ARTIOqQMdP8CxLoi4DyGm5x2260709.shtml)
+
++ [厄瓜多尔接连发生枪击事件 已致5人死亡](https://news.cctv.com/2026/07/09/ARTIcOnmqQHWcEeEznVC4EZf260709.shtml)
+
++ [霍尔木兹海峡油轮通行“基本停止”](https://news.cctv.com/2026/07/09/ARTIIXeu5EacuBmrDzoQVtSk260709.shtml)
+
++ [伊朗最高领袖外事顾问：任何冒险行为都将遭到立即回应](https://news.cctv.com/2026/07/09/ARTIFsANZZtVcvabT5rkwxcZ260709.shtml)
+
++ [特朗普：将授权海外生产“爱国者”供乌使用](https://news.cctv.com/2026/07/09/ARTIL9wqcsn97JOuJcbOOXLy260709.shtml)
+
++ [国际海事组织：仍有约6000名海员滞留波斯湾](https://news.cctv.com/2026/07/09/ARTIxXnmfAahLlrE1z1oyZk8260709.shtml)
+
++ [IMF预计今年全球经济增长3.0% 上调中国经济增长预期](https://news.cctv.com/2026/07/09/ARTIlTJf4Hq2YKEtrzbKk8eD260709.shtml)
+
