@@ -183,3 +183,11 @@
 
 + [美国纽约一高楼因倒塌风险疏散人员](https://photo.cctv.com/2026/07/08/PHOArivEpHPoRafakqApzPnZ260708.shtml)
 
++ [古巴外长：美国封锁致古累计损失已达1787亿美元](https://news.cctv.com/2026/07/08/ARTIcu9Q9QIwAZEHhLpDCxsd260708.shtml)
+
++ [伊朗外交部：美国取消暂停制裁措施违反谅解备忘录](https://news.cctv.com/2026/07/08/ARTIBToafq5UWvlkaIgr6KG7260708.shtml)
+
++ [美军称完成对伊朗新一轮打击](https://news.cctv.com/2026/07/08/ARTIIk7Uv3Qw3TcNTWenqE5I260708.shtml)
+
++ [日本10年期国债收益率升至近30年来最高水平](https://news.cctv.com/2026/07/08/ARTI6yuo59j4n16gZuy61z2h260708.shtml)
+

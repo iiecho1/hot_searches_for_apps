@@ -155,3 +155,23 @@
 
 + [【分布式系统】分布式系统核心知识全景图：从共识算法到Kafka架构演进](https://blog.csdn.net/qq_41652036/article/details/162675198)
 
++ [让每一块屏幕都「开口说话」：魔珐星云具身智能数字人，从心动到上手](https://blog.csdn.net/weixin_66401877/article/details/162672189)
+
++ [2026年7月国内主流Coding Plan怎么选，GLM、Kimi、MiMo整理对比](https://blog.csdn.net/zhangay1998/article/details/162555439)
+
++ [2026 开源 CRM 横评：从线索到回款，几款主流方案怎么选](https://blog.csdn.net/zhouzhongyan/article/details/162684278)
+
++ [Rust与C的互操作：在现有嵌入式项目中引入Rust模块——FFI、绑定生成](https://blog.csdn.net/u014727709/article/details/162675035)
+
++ [使用 Elasticsearch 作为 Grafana 的直接替代 Prometheus 后端](https://blog.csdn.net/UbuntuTouch/article/details/162651526)
+
++ [城市级IP代理：赋能全球企业本地化数字增长与安全合规 | Decodo 德口多](https://blog.csdn.net/qq_44866828/article/details/162672812)
+
++ [【Matlab】无人机传感器失效容错控制算法](https://blog.csdn.net/unbelievevc/article/details/162670401)
+
++ [HarmonyOS 3D 拆解分析：紫色主题与白色卡片的视觉统一](https://blog.csdn.net/2501_93573294/article/details/162673099)
+
++ [AtomGit Flutter 鸿蒙客户端：一键记录情绪的极致体验](https://blog.csdn.net/2503_93740796/article/details/162684329)
+
++ [Havenlon｜AI 时代的执行控制（十一）：一个只能说“不“的系统，为什么反而更安全](https://blog.csdn.net/wanglin831025/article/details/162675343)
+

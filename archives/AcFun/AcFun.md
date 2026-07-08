@@ -77,3 +77,9 @@
 
 + [夏促12款史低游戏推荐！喜加一到3A大作全覆盖！](https://m.acfun.cn/v/?ac=48672925)
 
++ [真正的西格玛男人！★手机竖屏1935★](https://m.acfun.cn/v/?ac=48674323)
+
++ [骂完影石，我又买了一台Luna和Pocket 4P](https://m.acfun.cn/v/?ac=48674627)
+
++ [【官方双语】已婚男的精打细算 - AMD终极科技大升级Steve篇（赞助）#linus谈科技](https://m.acfun.cn/v/?ac=48674345)
+

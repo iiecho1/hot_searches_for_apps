@@ -25,3 +25,13 @@
 
 + [12306 优化凌晨车票提示语，解决旅客因不理解时间日期而误车的问题](https://m.ithome.com/html/973486.htm)
 
++ [消息称华为明年将推出“完全无竞品”的小阔折手机](https://m.ithome.com/html/973225.htm)
+
++ [传网易云音乐人运营团队全员被裁，客服回应称内容失实、相关团队人员正常在岗](https://m.ithome.com/html/973298.htm)
+
++ [25.98 万元起，长城汽车旗下 2026 款坦克 300 SUV 开启预售](https://m.ithome.com/html/973262.htm)
+
++ [吉利银河 TT 实车亮相，定位 C 级纯电运动轿车](https://m.ithome.com/html/973270.htm)
+
++ [发射升空画面公布！中国海军成功组织潜射战略导弹试射](https://m.ithome.com/html/973238.htm)
+
