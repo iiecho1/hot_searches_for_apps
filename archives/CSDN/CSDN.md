@@ -107,3 +107,7 @@
 
 + [2026年能源网络安全大赛部分misc by 王八七七](https://blog.csdn.net/weixin_52365980/article/details/162706349)
 
++ [AI Agent 沙箱技术横评：CubeSandbox、E2B 与 OpenSandbox 到底怎么选](https://blog.csdn.net/air__Heaven/article/details/162718376)
+
++ [SDD-规约驱动开发-AI编程范式](https://blog.csdn.net/qq_36354988/article/details/162707949)
+
