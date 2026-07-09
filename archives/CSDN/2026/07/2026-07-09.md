@@ -127,3 +127,15 @@
 
 + [用 wxPython + WebView2 打造一个“零依赖前端“的本地照片浏览器：源码逐层拆解](https://blog.csdn.net/winniezhang/article/details/162672057)
 
++ [MybatisPlus二级缓存redis【三】](https://blog.csdn.net/xiatianit/article/details/162705790)
+
++ [【AI技术教程】5分钟用Python+FAISS搭建本地RAG知识库，无需云服务](https://blog.csdn.net/qq_36729037/article/details/162707302)
+
++ [生产级实战：人大金仓 V9 数据迁移与割接全指南（零停机・零数据丢失）](https://blog.csdn.net/xdsfsadfas/article/details/162633237)
+
++ [燃料电池压力仿真平台零风险搞定 PID 调试](https://blog.csdn.net/bjcyck/article/details/162675056)
+
++ [GitHub今日热榜 | 2026-07-07：WiFi感知和视频分析进入榜单](https://blog.csdn.net/m0_68631449/article/details/162655144)
+
++ [【高性能网络库与HTTP Server系列】：基于主从 Reactor 模型实现高性能 C++ 网络库与 HTTP Server](https://blog.csdn.net/2301_80260194/article/details/162670249)
+

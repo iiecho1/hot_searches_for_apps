@@ -189,3 +189,7 @@
 
 + [美军对伊朗发动新一轮打击](https://news.cctv.com/2026/07/09/ARTI7yJpYozJ6UqY5fpv10ik260709.shtml)
 
++ [委内瑞拉强震遇难人数升至3811人](https://news.cctv.com/2026/07/09/ARTIopVbh4BkpxR624a3289l260709.shtml)
+
++ [特朗普：若伊朗继续袭船 后果将“更严重”](https://news.cctv.com/2026/07/09/ARTIjbR3qvipDtFYteYd9vRA260709.shtml)
+
