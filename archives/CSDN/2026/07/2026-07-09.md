@@ -139,3 +139,59 @@
 
 + [【高性能网络库与HTTP Server系列】：基于主从 Reactor 模型实现高性能 C++ 网络库与 HTTP Server](https://blog.csdn.net/2301_80260194/article/details/162670249)
 
++ [PyTorch强化学习实战（18）——基于DQN处理股票交易问题](https://blog.csdn.net/LOVEmy134611/article/details/159690524)
+
++ [实战避坑｜从根源解决 MySQL/PG 迁移 KES LEFT JOIN 数据异常问题](https://blog.csdn.net/lrq13965748542/article/details/162719042)
+
++ [Loop Engineering：从提示词到循环系统](https://blog.csdn.net/weixin_74809706/article/details/162579639)
+
++ [CentOS 7跑通Elasticsearch单机环境：启动报错、索引测试与公网联调](https://blog.csdn.net/2401_86326742/article/details/162728036)
+
++ [【解析几何 计算几何】重心坐标、凸组合](https://blog.csdn.net/he_zhidan/article/details/162653628)
+
++ [深度学习实战-基于BiT-M ResNet50的快餐图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159688523)
+
++ [极空间运行docker-wps-office实操：把WPS桌面搬进浏览器](https://blog.csdn.net/weixin_62765017/article/details/162724607)
+
++ [服务器不多却想统一看状态？Beszel比重型监控更适合轻量运维](https://blog.csdn.net/liu_chen_yang/article/details/162724717)
+
++ [60ms 不是启动快，而是不用重新启动：CubeSandbox 极速冷启动架构拆解](https://blog.csdn.net/herosunly/article/details/162707212)
+
++ [2026 年 7 月主流游戏串流软件横评：低延迟实测，谁才是游戏办公双料首选](https://blog.csdn.net/2503_91389547/article/details/162727059)
+
++ [OpenClaw 实战案例：教育学习平台构建](https://blog.csdn.net/sinat_41617212/article/details/162704114)
+
++ [第21届全国大学生智能汽车竞赛 人工智能视觉组游戏系统比赛版及计分规则介绍](https://blog.csdn.net/zhuoqingjoking97298/article/details/162727734)
+
++ [飞牛NAS部署EasyNVR实操：摄像头RTSP接入、本地录像与公网回看](https://blog.csdn.net/2402_86350387/article/details/162724703)
+
++ [CentOS运行Teemii实操：Docker Compose部署、漫画导入与公网阅读](https://blog.csdn.net/Z_oioihoii/article/details/162730263)
+
++ [中级OpenGL教程 014：Phong标准化渲染管线架构搭建｜附完整C++源码&四大避坑总结](https://blog.csdn.net/2503_92624912/article/details/162715906)
+
++ [视频笔记不用一帧帧截图:把长视频快速整理成手绘图文素材](https://blog.csdn.net/2301_76341691/article/details/162724912)
+
++ [用 Rust 类型系统消灭运行时 Panic：代数数据类型与穷尽匹配的模式工程](https://blog.csdn.net/2301_81410839/article/details/162639161)
+
++ [【花雕学编程】Arduino BLDC 之SCARA机器人末端力控与轨迹自适应系统](https://blog.csdn.net/weixin_41659040/article/details/162716211)
+
++ [百元N1也能住进一个微信AI助理：低成本OpenClaw实战](https://blog.csdn.net/lbbxmx111/article/details/162724569)
+
++ [鸿蒙PC开源软件迁移与多语言三方库移植实战课程讲稿（二、C/C++三方库移植实战，以libmediainfo为主线）](https://blog.csdn.net/qq8864/article/details/162706102)
+
++ [AI Agent 工具注册表：Rust trait 实现可插拔的工具发现机制](https://blog.csdn.net/no1coder/article/details/162717343)
+
++ [【Atlas】 Spark SQL 的执行计划（LogicalPlan/PhysicalPlan）能否被 Atlas 捕获？社区有哪些集成方案？](https://blog.csdn.net/qq_21383435/article/details/160482981)
+
++ [当 Token 在三个平台跳着不同的舞：设计 Token 多平台同步的 Web、iOS、Android 一致性方案](https://blog.csdn.net/leopold_man/article/details/162694362)
+
++ [HarmonyKit | 鸿蒙新特性：hypium 测试框架与工具函数单元测试实践](https://blog.csdn.net/2302_80329073/article/details/162707439)
+
++ [【Bug已解决】Error: Cannot find module / MODULE_NOT_FOUND — Claude Code 模块缺失解决方案](https://blog.csdn.net/weixin_52908342/article/details/162660393)
+
++ [信息收集不是扫端口：Web 渗透前期侦察的工具链与实战](https://blog.csdn.net/2301_80245214/article/details/162694147)
+
++ [报表别再靠Excel截图传来传去：用Metabase做一个实时数据看板](https://blog.csdn.net/qq_46123200/article/details/162728109)
+
++ [React Introduction : What is React?](https://blog.csdn.net/TYRA9/article/details/162539436)
+

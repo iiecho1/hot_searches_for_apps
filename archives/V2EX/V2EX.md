@@ -39,3 +39,13 @@
 
 + [2026 年 07 月购买了 Quantumult X](https://www.v2ex.com/t/1225824)
 
++ [分享一个东西。。别骂我](https://www.v2ex.com/t/1226024)
+
++ [[抽奖] 智友社回馈 V 站新老客户，抽送 8 个智友社的 GPTPLUS 稳定特殊渠道成品号](https://www.v2ex.com/t/1225984)
+
++ [有些亲戚真是不当人](https://www.v2ex.com/t/1226033)
+
++ [我开始在代码中使用中文变量名了](https://www.v2ex.com/t/1226060)
+
++ [20260708 - AI Persona](https://www.v2ex.com/t/1225982)
+

@@ -205,3 +205,13 @@
 
 + [驻马达加斯加使馆提醒在马中国公民谨防换汇骗局](https://news.cctv.com/2026/07/09/ARTIxl2RnlwJCpX7C8vw9AeK260709.shtml)
 
++ [伊朗外交部：美军袭击伊朗目标构成严重战争罪](https://news.cctv.com/2026/07/09/ARTIhpxYNe1TDnX2nA6xPBmN260709.shtml)
+
++ [中国转型成为“电力国家”对世界具有重要意义（国际论坛·读懂中国·读懂中国式现代化）](https://news.cctv.com/2026/07/09/ARTIDHSUKZYahF50lhwvWis2260709.shtml)
+
++ [特朗普决定将叙利亚从“支恐国家名单”中移除](https://news.cctv.com/2026/07/09/ARTILHzq5C4GSI1mQzyfK3gi260709.shtml)
+
++ [伊朗称打击中东美军基地“爱国者”系统和燃料库](https://news.cctv.com/2026/07/09/ARTIOqfDIjCD9nr5mBpdt5F0260709.shtml)
+
++ [美军称打击约90个伊朗军事目标](https://news.cctv.com/2026/07/09/ARTIaP1Oo3Hv4tO5k4rbVOex260709.shtml)
+
