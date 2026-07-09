@@ -215,3 +215,5 @@
 
 + [美军称打击约90个伊朗军事目标](https://news.cctv.com/2026/07/09/ARTIaP1Oo3Hv4tO5k4rbVOex260709.shtml)
 
++ [日方应彻底正视侵略历史，抵制“新型军国主义”妄动](https://news.cctv.com/2026/07/09/ARTImdZxkOJAE6DPIlS1cFFv260709.shtml)
+

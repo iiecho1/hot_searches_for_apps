@@ -49,3 +49,5 @@
 
 + [20260708 - AI Persona](https://www.v2ex.com/t/1225982)
 
++ [最近太热啦，电费扛不住啦](https://www.v2ex.com/t/1226099)
+

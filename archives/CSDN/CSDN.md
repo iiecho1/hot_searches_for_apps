@@ -195,3 +195,27 @@
 
 + [React Introduction : What is React?](https://blog.csdn.net/TYRA9/article/details/162539436)
 
++ [MySQL别等出故障才查：先把连接数、慢查询和宕机告警接进Prometheus](https://blog.csdn.net/SDFsoul/article/details/162736366)
+
++ [Java 微服务分布式事务实践：Outbox、幂等与 Saga](https://blog.csdn.net/liu_shengling/article/details/162643208)
+
++ [Agent 不只是聊天框：用 ArkUI 做一个鸿蒙任务工作台](https://blog.csdn.net/Mrxiao_bo/article/details/162727786)
+
++ [LLM缓存机制解析：隐式0% vs 显式90%命中率](https://blog.csdn.net/qq_38998213/article/details/162724335)
+
++ [嵌入式系统的电磁兼容(EMC)设计：医疗设备的EMI抑制——屏蔽、滤波、接地](https://blog.csdn.net/u014727709/article/details/162704187)
+
++ [嵌入式 Linux 驱动概述：分类、内核模块、开发环境](https://blog.csdn.net/alspd_zhangpan/article/details/162707703)
+
++ [深入理解文件系统(二)](https://blog.csdn.net/jiaomorning/article/details/162296030)
+
++ [基于阿里云RocketMQ封装库的集成技术示例](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162695475)
+
++ [[论文阅读] (50)TDSC23 T-Trace：基于多源系统日志关联的APT溯源图构建](https://blog.csdn.net/Eastmount/article/details/162728646)
+
++ [Codex和Claude Code哪个好？2026年AI编程工具对比与选型建议](https://blog.csdn.net/2611_96164196/article/details/162707729)
+
++ [Flutter 实战：UI 组件体系与自定义 Widget 完全指南](https://blog.csdn.net/2502_92709686/article/details/162707969)
+
++ [知识的外挂：分块、Embedding、Rerank、GraphRAG 与多路融合 —— RAG 检索增强六脉](https://blog.csdn.net/tsh2005974tsh/article/details/162707967)
+

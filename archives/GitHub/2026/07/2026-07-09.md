@@ -33,3 +33,17 @@
 
 + [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 
++ [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)
+
++ [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+
++ [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+
++ [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+
++ [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+
++ [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+
++ [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
+
