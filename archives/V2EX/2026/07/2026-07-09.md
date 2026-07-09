@@ -29,3 +29,13 @@
 
 + [要不要把网站的功能做成 app 呢](https://www.v2ex.com/t/1225757)
 
++ [AI 时代，我这一个月之内，搞了 1w 左右了](https://www.v2ex.com/t/1225986)
+
++ [巴威台风上海影响有限，你们开始囤东西了吗？](https://www.v2ex.com/t/1225983)
+
++ [能不能推举点办公室零食](https://www.v2ex.com/t/1226003)
+
++ [民办本科教职未签合同想跑路， 3 万 AI 应用开发培训值得报吗？](https://www.v2ex.com/t/1226002)
+
++ [2026 年 07 月购买了 Quantumult X](https://www.v2ex.com/t/1225824)
+

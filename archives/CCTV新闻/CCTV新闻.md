@@ -193,3 +193,15 @@
 
 + [特朗普：若伊朗继续袭船 后果将“更严重”](https://news.cctv.com/2026/07/09/ARTIjbR3qvipDtFYteYd9vRA260709.shtml)
 
++ [尹锡悦涉嫌妨碍逮捕案三审被判有期徒刑7年](https://news.cctv.com/2026/07/09/ARTIB181gEbDZMdGfstX3UkB260709.shtml)
+
++ [美军称打击了约90个伊朗军事目标](https://news.cctv.com/2026/07/09/ARTIXnzh9VyAgVY0P6gIhKZF260709.shtml)
+
++ [伊朗称袭击科威特和巴林的美军基地](https://news.cctv.com/2026/07/09/ARTIG5aEv9aRd10wJGETjDgk260709.shtml)
+
++ [古巴外长感谢136国支持联大讨论终止美国对古封锁](https://news.cctv.com/2026/07/09/ARTI7eQ0oKpH9xEwgbdkCLhR260709.shtml)
+
++ [驻挪威使馆关于防范电信网络诈骗的提醒](https://news.cctv.com/2026/07/09/ARTIWLaYnvA9zTC7Gef5co8U260709.shtml)
+
++ [驻马达加斯加使馆提醒在马中国公民谨防换汇骗局](https://news.cctv.com/2026/07/09/ARTIxl2RnlwJCpX7C8vw9AeK260709.shtml)
+
