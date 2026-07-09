@@ -101,3 +101,9 @@
 
 + [rocr-runtime 中 SVM 属性设置 / 预取 / 查询 —— 三者的设计与分工](https://blog.csdn.net/shenjunpeng/article/details/162697170)
 
++ [【高性能网络库与HTTP Server系列】：基于主从 Reactor 模型实现高性能 C++ 网络库与 HTTP Server](https://blog.csdn.net/2301_80260194/article/details/162670249)
+
++ [动手学深度学习|线性神经网络：线性回归的实现](https://blog.csdn.net/Always_away/article/details/162664385)
+
++ [2026年能源网络安全大赛部分misc by 王八七七](https://blog.csdn.net/weixin_52365980/article/details/162706349)
+
