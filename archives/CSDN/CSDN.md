@@ -153,3 +153,31 @@
 
 + [Spring Boot 实战（四十二）：集成 Spring AI 六大场景](https://blog.csdn.net/qq_33204709/article/details/162739752)
 
++ [2026 年 7 月远控软件横评：哪个远程控制软件好用不卡顿？UU 远程毫秒低延迟实测完胜](https://blog.csdn.net/user340/article/details/162730154)
+
++ [《精讲Spring Boot后端跑另一个端口：如何解决暴露服务器问题》](https://blog.csdn.net/Dovis5884/article/details/162749996)
+
++ [Java 工程师 AI 智能体学习路线 · 阶段 7：框架与生态 详解](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162732143)
+
++ [克隆车、枪手车（空降车、代做车）、商品车的处罚](https://blog.csdn.net/zhuoqingjoking97298/article/details/162748233)
+
++ [DolphinDB质量实时监控：SPC统计过程控制](https://blog.csdn.net/sinat_41617212/article/details/162707617)
+
++ [【Linux】文件描述符背后的底层逻辑：重定向、VFS 与用户态缓冲区](https://blog.csdn.net/2402_87731470/article/details/162751545)
+
++ [Codex 客户端找不到 GPT-5.6 模型怎么办？2026 最新解决方法（GPT-5.6 Sol/Luna/Terra）](https://blog.csdn.net/weixin_41961749/article/details/162761594)
+
++ [如何为阿里云 Elasticsearch 创建推理端点，连接器，Workflow 并写入数据](https://blog.csdn.net/UbuntuTouch/article/details/162767283)
+
++ [▲基于OFDM+32QAM的通信链路matlab性能仿真,包含LDPC,Schmidl-Cox频偏估计和LS信道估计](https://blog.csdn.net/ccsss22/article/details/162770543)
+
++ [【Linux之旅】五种 IO 模型与阻塞 IO：带你彻底搞懂 Linux IO 设计哲学](https://blog.csdn.net/2302_80243065/article/details/162765572)
+
++ [(开源)宠物商城系统 全栈开发实录 采用 Java + SpringBoot + Vue + MySQL](https://blog.csdn.net/2601_96413875/article/details/162740548)
+
++ [【SpringBoot实战】彻底吃透 Spring Boot：从启动内幕到定制一个带配置解密的 Starter](https://blog.csdn.net/qq_41652036/article/details/162739944)
+
++ [Palworld幻兽帕鲁1.0正式版联机服务器开服搭建教程](https://blog.csdn.net/wang747bin/article/details/162703358)
+
++ [微服务：docker 学习](https://blog.csdn.net/weixin_42655650/article/details/162734126)
+
