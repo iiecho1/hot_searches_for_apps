@@ -101,3 +101,11 @@
 
 + [OpenAI GPT-5.6 全球上线：Sol、Terra、Luna 三档模型选型与 API 定价全解析](https://blog.csdn.net/ylscode/article/details/162727481)
 
++ [胰岛素泵的精密控制：微升级剂量控制与安全机制——步进电机、阻塞检测与故障安全设计](https://blog.csdn.net/u014727709/article/details/162706758)
+
++ [rustdesk 1.4.9正式发布：Windows、Ubuntu、Mac、Android、Flatpak、iOS、Web全平台下载一览，新增与修复一次看全](https://blog.csdn.net/weixin_48502062/article/details/162762205)
+
++ [Electron：当 Web 技术统治桌面](https://blog.csdn.net/ailuloo/article/details/162717434)
+
++ [K8S存储管理](https://blog.csdn.net/2501_92817375/article/details/162701173)
+
