@@ -31,3 +31,35 @@
 
 + [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
++ [oven-sh/bun](https://github.com/oven-sh/bun)
+
++ [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)
+
++ [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+
++ [catchorg/Catch2](https://github.com/catchorg/Catch2)
+
++ [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio)
+
++ [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+
++ [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+
++ [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer)
+
++ [tailscale/tailscale](https://github.com/tailscale/tailscale)
+
++ [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+
++ [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
++ [grpc/grpc](https://github.com/grpc/grpc)
+
++ [vercel/next.js](https://github.com/vercel/next.js)
+
