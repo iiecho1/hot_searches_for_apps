@@ -185,3 +185,17 @@
 
 + [印尼塞梅鲁火山喷发 灰柱高约1300米](https://news.cctv.com/2026/07/10/ARTIIOfB15NRxPpvwRfuooI2260710.shtml)
 
++ [专访丨开放合作的中国为世界经济注入正能量——访马来西亚投资发展局主席扎富睿](https://news.cctv.com/2026/07/10/ARTIsYbRbBxPNlCypbmaIeXu260710.shtml)
+
++ [消息称以色列愿参与对伊打击 正等特朗普表态](https://news.cctv.com/2026/07/10/ARTIo9HXCMHRVzXeyXoklcd1260710.shtml)
+
++ [摆脱对美依赖 加拿大总理访沙特签大单](https://news.cctv.com/2026/07/10/ARTIPkf6a7MTGiLdpdVD2HCz260710.shtml)
+
++ [放射性物质调查报告存数百处错误 日政府称对健康无影响](https://news.cctv.com/2026/07/10/ARTIbt6a7SWvQW3sCFOU2RsU260710.shtml)
+
++ [中国驻印度大使馆提醒来印中国公民及时办理登记手续 避免出境受阻](https://news.cctv.com/2026/07/10/ARTIQ3cQPlmr6LZFThIoObsl260710.shtml)
+
++ [韩国大法院16日将就金建希所涉案件进行宣判](https://news.cctv.com/2026/07/10/ARTId7iCDiUSB6SWgU8FVS7J260710.shtml)
+
++ [美联储推进货币政策改革机制](https://news.cctv.com/2026/07/10/ARTI69hRZqAt14y4CLqohmOu260710.shtml)
+

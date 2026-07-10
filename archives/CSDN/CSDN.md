@@ -143,3 +143,13 @@
 
 + [【深度解析】GPT-5.6 Soul/Tara/Luna能力分层、基准表现与Python调用实战](https://blog.csdn.net/weixin_45888077/article/details/162740451)
 
++ [我已经在 Codex 里用上 GPT-5.6：CLI / App 更新与接入指南](https://blog.csdn.net/h614626370/article/details/162753083)
+
++ [YOLOv8红外无人机识别检测系统（项目源码+YOLO数据集+模型权重+UI界面+python+深度学习+环境配置+目标检测）](https://blog.csdn.net/m0_68036862/article/details/162727899)
+
++ [工业机器人控制器：运动学正解与插补算法的嵌入式实现](https://blog.csdn.net/u014727709/article/details/162738500)
+
++ [【Linux】十九.进程池（匿名管道）实现多客户端并发通信息––详解](https://blog.csdn.net/2501_93351213/article/details/162642010)
+
++ [Spring Boot 实战（四十二）：集成 Spring AI 六大场景](https://blog.csdn.net/qq_33204709/article/details/162739752)
+

@@ -47,3 +47,13 @@
 
 + [GPT-5.6 还有 5 分钟上线](https://www.v2ex.com/t/1226202)
 
++ [[福利] chaoyeapi.xyz 注册送 $10！加群抽 100 个 $10，已首发上线 GPT-5.6！](https://www.v2ex.com/t/1226288)
+
++ [小小农民新开中转站，欢迎来踩](https://www.v2ex.com/t/1226359)
+
++ [一个严肃的话题：人如何活久点？](https://www.v2ex.com/t/1226339)
+
++ [收入还可以，如何找个国外媳妇](https://www.v2ex.com/t/1226342)
+
++ [GPT-5.6 Sol Ultra 跑半个小时写出来的网页长这样](https://www.v2ex.com/t/1226310)
+
