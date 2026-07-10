@@ -111,3 +111,35 @@
 
 + [SDD-规约驱动开发-AI编程范式](https://blog.csdn.net/qq_36354988/article/details/162707949)
 
++ [GPT-5.6 三模型架构深度解析：Sol/Terra/Luna 技术对比与工程落地指南](https://blog.csdn.net/TongwenAI/article/details/162725931)
+
++ [2026 年 GPT-5.6 有什么区别？普通用户和开发者该如何使用？](https://blog.csdn.net/mgg1233/article/details/162704641)
+
++ [GPT-5.6 Sol 预览来了，但为什么你在 ChatGPT 里找不到？](https://blog.csdn.net/h614626370/article/details/162685631)
+
++ [CubeSandbox 硬件级隔离能力实战：7 组对抗性场景下安全边界验证](https://blog.csdn.net/weixin_43178406/article/details/162738803)
+
++ [企业级低代码三件套：表单设计器 + 流程引擎 + 代码生成器，怎么配合才高效](https://blog.csdn.net/zhouzhongyan/article/details/162749972)
+
++ [GPT-5.6 测评：同样提示词对比 GPT-5.5，前端开发谁更强？](https://blog.csdn.net/weixin_41961749/article/details/162748063)
+
++ [为什么 Elasticsearch 正在成为列式数据库](https://blog.csdn.net/UbuntuTouch/article/details/162748616)
+
++ [Agent 不只是聊天框：用 ArkUI 做一个鸿蒙任务工作台](https://blog.csdn.net/Mrxiao_bo/article/details/162727786)
+
++ [方差矩阵就是相关性，协方差矩阵维度由隐藏层决定；特征值： 是信息量多少；第一主成分就是最大特征值对应的第一个特征向量](https://blog.csdn.net/qq_38998213/article/details/162751485)
+
++ [GPT-5.6开始预览，Sol、Terra和Luna有什么区别？](https://blog.csdn.net/lb654509656/article/details/162706026)
+
++ [GPT-5.6 Sol/Terra/Luna 上线：普通用户到底要不要升级 Pro？Codex 和 API 怎么看](https://blog.csdn.net/2611_96402059/article/details/162730150)
+
++ [调查研究-224 Prefill 与 Decode 分离：高并发 LLM Serving 的下一层架构](https://blog.csdn.net/w776341482/article/details/162718932)
+
++ [【单机离线版】纯HTML单文件实现三三棋（侗棋）—— 从零打造传统民间对弈游戏（附完整源码与逐行解析）](https://blog.csdn.net/qq616491978/article/details/162701629)
+
++ [OpenAI GPT-5.6 全球上线：Sol、Terra、Luna 三档模型选型与 API 定价全解析](https://blog.csdn.net/ylscode/article/details/162727481)
+
++ [Agent 隐性知识蒸馏类比：厨师做菜与沉淀菜谱的逻辑，详细讲解问题、挑战、解决方案](https://blog.csdn.net/universsky2015/article/details/162740546)
+
++ [【深度解析】GPT-5.6 Soul/Tara/Luna能力分层、基准表现与Python调用实战](https://blog.csdn.net/weixin_45888077/article/details/162740451)
+

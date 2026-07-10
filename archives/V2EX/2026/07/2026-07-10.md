@@ -29,3 +29,21 @@
 
 + [[求助] 预算有限，求推荐高性价比的 2.5G 软路由裸机方案](https://www.v2ex.com/t/1226042)
 
++ [[0710 内测] Brivionix（Codex Pro 池）— GPT-5.6 / 5.5 / 5.4/5.3，回帖留 ID 送 $5](https://www.v2ex.com/t/1226243)
+
++ [gpt-5.6-sol 已全面支持，评论区留注册邮箱送 5 刀](https://www.v2ex.com/t/1226246)
+
++ [限韩令和韩国当前的影视行业发展有没有关系？](https://www.v2ex.com/t/1226130)
+
++ [要降薪了.该怎么应对呢](https://www.v2ex.com/t/1226228)
+
++ [现在推荐入手 Switch2 么？](https://www.v2ex.com/t/1226266)
+
++ [这个月开始补社保了](https://www.v2ex.com/t/1226299)
+
++ [在不换号的情况下怎么让移动或者联通用更多流量](https://www.v2ex.com/t/1226091)
+
++ [Google 已经明确确认中国政府封锁了来自 Google Voice 的 VoIP 号码](https://www.v2ex.com/t/1226109)
+
++ [GPT-5.6 还有 5 分钟上线](https://www.v2ex.com/t/1226202)
+

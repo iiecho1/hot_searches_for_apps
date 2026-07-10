@@ -177,3 +177,11 @@
 
 + [以总理：“不允许”伊朗拥核 拟大幅追加国防预算](https://news.cctv.com/2026/07/10/ARTIaTN6r6XuTRfRy5NITPLm260710.shtml)
 
++ [老挝正式成为上海合作组织对话伙伴](https://news.cctv.com/2026/07/10/ARTIi5M3zjnbiAZ6Ih4iFEuy260710.shtml)
+
++ [刚果（金）埃博拉疫情仍处于“非常活跃”阶段](https://news.cctv.com/2026/07/10/ARTI54tZOnB82aXjLXHfBRfg260710.shtml)
+
++ [叙官员：大马士革爆炸案作案团伙隶属“伊斯兰国”](https://news.cctv.com/2026/07/10/ARTIrX51Mo2J9ShLhyqhRquH260710.shtml)
+
++ [印尼塞梅鲁火山喷发 灰柱高约1300米](https://news.cctv.com/2026/07/10/ARTIIOfB15NRxPpvwRfuooI2260710.shtml)
+
