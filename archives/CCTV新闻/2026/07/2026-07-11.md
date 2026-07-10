@@ -161,3 +161,19 @@
 
 + [叙利亚首都发生爆炸 爆炸地点邻近马克龙下榻酒店](https://news.cctv.com/2026/07/07/ARTI5385n5mcdGARlEfJLfsp260707.shtml)
 
++ [日本民众举行“抗议高市”集会 直指高市政权施政偏差](https://news.cctv.com/2026/07/11/ARTIaGa8mjnvc7yl9ULsUPJr260711.shtml)
+
++ [中方敦促维护中东地区停火止战局面](https://news.cctv.com/2026/07/11/ARTIDAh5LgrKVmZ2KNFVYwuS260711.shtml)
+
++ [委内瑞拉强震遇难人数升至4118人](https://news.cctv.com/2026/07/11/ARTIsMoZOEcE5HoSNJufKTd7260711.shtml)
+
++ [以媒：以色列应美国要求限制在黎巴嫩军事行动](https://news.cctv.com/2026/07/11/ARTIZQdbFVj1NykLKTkuwKVO260711.shtml)
+
++ [伊朗外交部：从未提出与美谈判诉求 同意调解方访伊](https://news.cctv.com/2026/07/11/ARTIeY9oMUkcUk9Rlt9y2pXj260711.shtml)
+
++ [中国代表：中方将继续推动全球互联互通](https://news.cctv.com/2026/07/11/ARTIUkT1xTAWxeq9Uchhz3E9260711.shtml)
+
++ [欧盟未就第21轮对俄制裁达成一致](https://news.cctv.com/2026/07/11/ARTIoyTfKY2ZfJ8sNn5bDpJU260711.shtml)
+
++ [古巴一周内再次全国大停电](https://news.cctv.com/2026/07/11/ARTIV4v1RfNc6SZy6g9nr8rE260711.shtml)
+
