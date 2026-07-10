@@ -165,3 +165,15 @@
 
 + [霍尔木兹海峡通航量骤降 几近停滞](https://news.cctv.com/2026/07/10/ARTIsDKk6zJMdbGo85uxaDoz260710.shtml)
 
++ [双重压力挤压食糖供应，昔日全球第二大食糖出口国正在“退场”](https://news.cctv.com/2026/07/10/ARTI9XRe1GnuIxMC1knBUS1G260710.shtml)
+
++ [高层互放狠话背后，土以竞争关系日益凸显](https://news.cctv.com/2026/07/10/ARTIKmm9e0gBQUICIyGQXgVB260710.shtml)
+
++ [“大而美”法案生效一年，风能太阳能走向不明，美清洁能源步入“高成本”时代](https://news.cctv.com/2026/07/10/ARTIluDyxQlQcYWUdr5KAwwH260710.shtml)
+
++ [委内瑞拉强震遇难人数升至3889人](https://news.cctv.com/2026/07/10/ARTIqVD6z0lsvk0iZ2v7Q0eX260710.shtml)
+
++ [伯纳姆获多数英国工党议员支持 基本锁定党魁职位](https://news.cctv.com/2026/07/10/ARTIYSHjsIM56wUwTh4Cu5on260710.shtml)
+
++ [以总理：“不允许”伊朗拥核 拟大幅追加国防预算](https://news.cctv.com/2026/07/10/ARTIaTN6r6XuTRfRy5NITPLm260710.shtml)
+
