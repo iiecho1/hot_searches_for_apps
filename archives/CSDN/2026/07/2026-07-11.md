@@ -145,3 +145,17 @@
 
 + [Vue 指令完全指南：从 Vue 2 到 Vue 3 的演进与实战](https://blog.csdn.net/beiluoL/article/details/162771997)
 
++ [【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从数据管道到训练驾驶舱-PyTorch数据处理与模型可视化展示)](https://blog.csdn.net/2401_87629362/article/details/162693156)
+
++ [【共创季稿事节】从一张路况照片说起：我如何用自研视觉大模型「鸿眸」+ 华为昇腾，在 HarmonyOS 上造了一个会「看路」的智能应用RoadVision](https://blog.csdn.net/weixin_52908342/article/details/162613960)
+
++ [第21届全国大学生智能汽车竞赛 人工智能视觉组游戏系统比赛版及计分规则介绍](https://blog.csdn.net/zhuoqingjoking97298/article/details/162727734)
+
++ [从零构建实时GPS轨迹系统：融合Web与桌面的GIS可视化平台](https://blog.csdn.net/eidolon_foot/article/details/162793582)
+
++ [MyBatis 与 MyBatis-Plus 完整对比讲解](https://blog.csdn.net/zgzldnr/article/details/162771514)
+
++ [GitHub 热榜项目 - 周榜(2026-07-11)](https://blog.csdn.net/u014390502/article/details/162793206)
+
++ [`co_await` 按下暂停键之后：从零看懂 C++20 协程](https://blog.csdn.net/August_zero/article/details/162788078)
+

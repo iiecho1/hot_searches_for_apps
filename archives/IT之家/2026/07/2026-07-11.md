@@ -55,3 +55,27 @@
 
 + [双杀韩国 LCK 赛区，BLG 战队 3:1 战胜 HLE 挺进《英雄联盟》2026 MSI 决赛](https://m.ithome.com/html/974727.htm)
 
++ [小米汽车确认澎程不是子品牌：计划发布两款车，投入 566 台测试车、路测超 428 万公里](https://m.ithome.com/html/975361.htm)
+
++ [小米回应澎程 SkyNomad 未上市新车遭恶意抹黑：纯粹的造谣，简直是匪夷所思](https://m.ithome.com/html/975360.htm)
+
++ [电视剧（网络剧）演员署名新规今起施行，不得单独使用艺名、英文名或昵称等](https://m.ithome.com/html/975353.htm)
+
++ [告别卓易通：飞牛 fnOS 鸿蒙原生 App 开启首轮测试招募](https://m.ithome.com/html/975355.htm)
+
++ [周星驰导演电影《功夫女足》今日上映，半天票房突破 1 亿](https://m.ithome.com/html/975473.htm)
+
++ [小米汽车澎程 N90 MAX 去伪装后实车图曝光，轴距超 3 米](https://m.ithome.com/html/975520.htm)
+
++ [张雪机车 ZX600 通过工信部申报：排量 578ml，功率 44kW](https://m.ithome.com/html/975352.htm)
+
++ [设立以来首款获奖劳动职业制服：淘宝闪购骑士制服获 2026 法国设计奖金奖](https://m.ithome.com/html/975415.htm)
+
++ [吉利星瑞 L PLUS 全球首秀：4.9 米车身 + 可选 2.0T+ 激光雷达](https://m.ithome.com/html/975401.htm)
+
++ [SK 海力士 CEO 郭鲁正：内存行业明年将迎来史上最严峻局势，2030 年以后可能仍然供不应求](https://m.ithome.com/html/975380.htm)
+
++ [微信 Win / Mac PC 测试版 4.1.12 发布：通话中可接听新来电，支持 Markdown 排版](https://m.ithome.com/html/975358.htm)
+
++ [英伟达 RTX 5090 SE 显卡规格曝光：24GB 显存、384-bit 位宽](https://m.ithome.com/html/975385.htm)
+

@@ -59,3 +59,5 @@
 
 + [用了 ai 之后工作很碎片化，完全无法进入心流](https://www.v2ex.com/t/1226513)
 
++ [GPT5.6 SOL 也就那么回事](https://www.v2ex.com/t/1226536)
+
