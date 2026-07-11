@@ -49,3 +49,9 @@
 
 + [周星驰电影《功夫女足》首支长预告公布：娥眉队站上赛场，强敌个个身怀绝技](https://m.ithome.com/html/975072.htm)
 
++ [拼多多刚在雄安购房，又在上海陆家嘴买了一栋楼](https://m.ithome.com/html/974781.htm)
+
++ [蔚来 ES8 大五座版纯电 SUV 上市：全域 900V 高压架构，整车购买 38.28 万元起](https://m.ithome.com/html/974742.htm)
+
++ [双杀韩国 LCK 赛区，BLG 战队 3:1 战胜 HLE 挺进《英雄联盟》2026 MSI 决赛](https://m.ithome.com/html/974727.htm)
+
