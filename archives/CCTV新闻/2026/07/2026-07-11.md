@@ -181,3 +181,9 @@
 
 + [欧盟勒令美国“元”公司修改“成瘾设计”](https://news.cctv.com/2026/07/11/ARTIcioqiY6SrWT7BcPAM1yn260711.shtml)
 
++ [特朗普：1000枚导弹已瞄准伊朗](https://news.cctv.com/2026/07/11/ARTIqv9Lzks2Y5nX6h093ndl260711.shtml)
+
++ [2026年世界知识产权组织全球奖揭晓 中国获奖企业数量居首](https://news.cctv.com/2026/07/11/ARTII4aTYl0NIZEdXX24BYa2260711.shtml)
+
++ [干旱持续 意大利北部农业灌溉或将断供](https://news.cctv.com/2026/07/11/ARTIKOLZ0Kweeg9KYJJ5yoeL260711.shtml)
+
