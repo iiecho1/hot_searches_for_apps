@@ -159,3 +159,9 @@
 
 + [`co_await` 按下暂停键之后：从零看懂 C++20 协程](https://blog.csdn.net/August_zero/article/details/162788078)
 
++ [调用GPT-5.6的API时，该用Luna、Terra还是Sol？——一份给开发者的模型选型深度指南](https://blog.csdn.net/nmdbbzcl/article/details/162793379)
+
++ [GLM-4-9B-Chat-1M 模型在 openEuler 系统上的完整部署文档](https://blog.csdn.net/lilinhai548/article/details/162793466)
+
++ [2026 年 7 月低延迟远程桌面软件横评：UU 远程 / ToDesk / 向日葵弱网外网流畅实测（附评分表与选型建议）](https://blog.csdn.net/2401_86326742/article/details/162728162)
+
