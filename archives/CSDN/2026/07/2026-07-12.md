@@ -133,3 +133,5 @@
 
 + [Java 工程师 AI 智能体（Agent）完整学习路线](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162733200)
 
++ [从大型机到云原生-云计算大数据与虚拟化技术全景解读](https://blog.csdn.net/Zzz2608440484/article/details/162727548)
+
