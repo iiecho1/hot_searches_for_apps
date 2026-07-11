@@ -165,3 +165,5 @@
 
 + [高温干旱加剧火情 意大利多地林火持续](https://news.cctv.com/2026/07/12/ARTIufTMQJtkkLFjPTxyAhHH260712.shtml)
 
++ [委内瑞拉强震遇难人数上升至4333人](https://news.cctv.com/2026/07/12/ARTIJA3a4iMpRqMK0THxwXjZ260712.shtml)
+
