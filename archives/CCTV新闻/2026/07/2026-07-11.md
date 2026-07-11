@@ -177,3 +177,5 @@
 
 + [古巴一周内再次全国大停电](https://news.cctv.com/2026/07/11/ARTIV4v1RfNc6SZy6g9nr8rE260711.shtml)
 
++ [探访捷列什科娃“宇宙”博物馆](https://photo.cctv.com/2026/07/11/PHOA6q13AN8OqsTBtiQxsGOl260711.shtml)
+
