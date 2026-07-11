@@ -167,3 +167,5 @@
 
 + [委内瑞拉强震遇难人数上升至4333人](https://news.cctv.com/2026/07/12/ARTIJA3a4iMpRqMK0THxwXjZ260712.shtml)
 
++ [美国代表团与黎巴嫩军方讨论以军从试点区撤军](https://news.cctv.com/2026/07/12/ARTIDJwo1HhXoqndkZsJuQi0260712.shtml)
+
