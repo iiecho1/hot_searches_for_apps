@@ -39,3 +39,29 @@
 
 + [vercel/next.js](https://github.com/vercel/next.js)
 
++ [openai/plugins](https://github.com/openai/plugins)
+
++ [actions/checkout](https://github.com/actions/checkout)
+
++ [home-assistant/core](https://github.com/home-assistant/core)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
++ [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
+
++ [malisper/pgrust](https://github.com/malisper/pgrust)
+
++ [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+
++ [prisma/prisma](https://github.com/prisma/prisma)
+
++ [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+
++ [nasa/fprime](https://github.com/nasa/fprime)
+
++ [ansible/ansible](https://github.com/ansible/ansible)
+
++ [nuxt/nuxt](https://github.com/nuxt/nuxt)
+

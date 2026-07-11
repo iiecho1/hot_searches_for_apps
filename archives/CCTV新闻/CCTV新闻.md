@@ -195,3 +195,5 @@
 
 + [世界知识产权组织全球奖揭晓 三家中国企业获奖](https://news.cctv.com/2026/07/11/ARTIi4FrCuHIMtYWqzhkbqcP260711.shtml)
 
++ [南桑威奇群岛地区[大西洋]发生6.4级地震，震源深度20千米](https://news.cctv.com/2026/07/11/ARTIvA3OWmRoHjuahpCv7J37260711.shtml)
+
