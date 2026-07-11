@@ -169,3 +169,5 @@
 
 + [美国代表团与黎巴嫩军方讨论以军从试点区撤军](https://news.cctv.com/2026/07/12/ARTIDJwo1HhXoqndkZsJuQi0260712.shtml)
 
++ [古巴谴责美国石油封锁致使古断电频发](https://news.cctv.com/2026/07/12/ARTIKMosw8zhE2vTKHYZY22l260712.shtml)
+
