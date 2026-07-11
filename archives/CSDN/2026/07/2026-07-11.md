@@ -165,3 +165,17 @@
 
 + [2026 年 7 月低延迟远程桌面软件横评：UU 远程 / ToDesk / 向日葵弱网外网流畅实测（附评分表与选型建议）](https://blog.csdn.net/2401_86326742/article/details/162728162)
 
++ [【LE Audio】CSIS核心缩写全解](https://blog.csdn.net/weixin_37800531/article/details/162706543)
+
++ [【AI智能体】Cursor 进阶高级使用技巧实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/161981202)
+
++ [AI具身交互智能法务顾问实战：合同审查、风险防控、合规管理，一个数字人全搞定](https://blog.csdn.net/weixin_62765017/article/details/162750132)
+
++ [HarmonyKit | 鸿蒙开发：DevEco Studio 编译调试与性能优化](https://blog.csdn.net/2302_80329073/article/details/162786101)
+
++ [GPT-Live 全双工语音 Agent 深度拆解：连续交互 + 后台委托 + Voice Runtime 三层架构](https://blog.csdn.net/w776341482/article/details/162785025)
+
++ [AtomCode 与 AtomGit 深度集成：OAuth 登录、自动 Issue 提交与代码检视](https://blog.csdn.net/u014727709/article/details/162607465)
+
++ [鸿蒙PC开源软件迁移与多语言三方库移植实战课程讲稿（三、命令行工具移植实战——以OpenSSH为主线）](https://blog.csdn.net/qq8864/article/details/162792701)
+

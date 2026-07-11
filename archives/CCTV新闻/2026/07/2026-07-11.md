@@ -197,3 +197,5 @@
 
 + [南桑威奇群岛地区[大西洋]发生6.4级地震，震源深度20千米](https://news.cctv.com/2026/07/11/ARTIvA3OWmRoHjuahpCv7J37260711.shtml)
 
++ [伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录](https://news.cctv.com/2026/07/11/ARTIm9Rlmd4cNzrw86ayGjXN260711.shtml)
+

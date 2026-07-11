@@ -63,3 +63,5 @@
 
 + [国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax](https://www.v2ex.com/t/1226577)
 
++ [功夫女足口碑](https://www.v2ex.com/t/1226549)
+
