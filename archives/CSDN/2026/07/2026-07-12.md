@@ -101,3 +101,23 @@
 
 + [鸿蒙PC开源软件迁移与多语言三方库移植实战课程讲稿（三、命令行工具移植实战——以OpenSSH为主线）](https://blog.csdn.net/qq8864/article/details/162792701)
 
++ [消息队列的幂等设计：重复消费不是 bug，是分布式系统的常态](https://blog.csdn.net/cannonjinx/article/details/162717457)
+
++ [极空间运行docker-wps-office实操：把WPS桌面搬进浏览器](https://blog.csdn.net/weixin_62765017/article/details/162724607)
+
++ [面向 7×24 小时金融业务的国产数据底座构建与批量迁移实战案例](https://blog.csdn.net/weixin_37800531/article/details/162771849)
+
++ [DNS 安全攻防：缓存投毒、DNS 隧道与检测实战](https://blog.csdn.net/cui_yonghua/article/details/162796759)
+
++ [HarmonyOS 7 更新亮点实录1：Ability Kit 深度剖析 AgentCard 与动态脚本引](https://blog.csdn.net/sjw890821sjw/article/details/162769086)
+
++ [CentOS 7跑通Elasticsearch单机环境：启动报错、索引测试与公网联调](https://blog.csdn.net/2401_86326742/article/details/162728036)
+
++ [微服务：docker和Maven的区别与联系](https://blog.csdn.net/weixin_42655650/article/details/162751395)
+
++ [DeepSeek 大模型新手快速上手指南](https://blog.csdn.net/2603_95413839/article/details/162054669)
+
++ [本地电脑部署docker,及各种组件（nginx、mysql、redis、mongo、minio、java）](https://blog.csdn.net/qq_39951524/article/details/162750581)
+
++ [Electron：当 Web 技术统治桌面](https://blog.csdn.net/ailuloo/article/details/162717434)
+
