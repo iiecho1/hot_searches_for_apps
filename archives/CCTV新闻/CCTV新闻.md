@@ -161,3 +161,7 @@
 
 + [伊朗方面公布被导弹击中的约旦美军基地卫星图像](https://news.cctv.com/2026/07/12/ARTIfOCiVhV7HCILpVjTeGG0260712.shtml)
 
++ [伊朗与阿曼两国举行会谈 讨论霍尔木兹海峡航运](https://news.cctv.com/2026/07/12/ARTIdsNgGFUFBLH0X2kC6TGn260712.shtml)
+
++ [高温干旱加剧火情 意大利多地林火持续](https://news.cctv.com/2026/07/12/ARTIufTMQJtkkLFjPTxyAhHH260712.shtml)
+

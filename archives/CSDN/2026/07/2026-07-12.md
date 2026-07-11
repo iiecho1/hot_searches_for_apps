@@ -131,3 +131,5 @@
 
 + [【云原生】Kubernetes Pod 优雅终止参数 `terminationGracePeriodSeconds` 通用说明文档](https://blog.csdn.net/hknaruto/article/details/162757791)
 
++ [Java 工程师 AI 智能体（Agent）完整学习路线](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162733200)
+
