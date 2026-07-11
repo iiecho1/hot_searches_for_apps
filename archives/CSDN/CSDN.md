@@ -109,3 +109,17 @@
 
 + [K8S存储管理](https://blog.csdn.net/2501_92817375/article/details/162701173)
 
++ [空间管理的进化革命：深度解析Oracle ASSM与MSSM自动与手动段空间管理的完整对比](https://blog.csdn.net/qq_41840843/article/details/162770931)
+
++ [YOLOv8红外无人机识别检测系统（项目源码+YOLO数据集+模型权重+UI界面+python+深度学习+环境配置+目标检测）](https://blog.csdn.net/m0_68036862/article/details/162727899)
+
++ [Nginx- 虚拟主机配置：基于域名、端口、IP 的多站点部署](https://blog.csdn.net/qq_41187124/article/details/157657758)
+
++ [热门远程控制横评：Win/Mac/Linux/iOS/Android互通体验，谁能无缝切换？](https://blog.csdn.net/2401_84813926/article/details/162759701)
+
++ [HarmonyKit | 鸿蒙新特性复盘：从 5 到 10 个工具的开发方法论](https://blog.csdn.net/2302_80329073/article/details/162739000)
+
++ [[论文阅读] (50)TDSC23 T-Trace：基于多源系统日志关联的APT溯源图构建](https://blog.csdn.net/Eastmount/article/details/162728646)
+
++ [微前端框架之qiankun 怎么用？vue3+vite+qiankun 和 react + qiankun](https://blog.csdn.net/sun_weitao/article/details/162690610)
+

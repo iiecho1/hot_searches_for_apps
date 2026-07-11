@@ -25,3 +25,19 @@
 
 + [用 AI 重新写个手机操作系统是不是可行的？](https://www.v2ex.com/t/1226358)
 
++ [如何炒股，才能稳赚](https://www.v2ex.com/t/1226429)
+
++ [为了省下每年几万的的费用，用 ai 做了完整的 erp](https://www.v2ex.com/t/1226505)
+
++ [后续: 老板要求用 AI 几周完成一年的工作量](https://www.v2ex.com/t/1226380)
+
++ [今天正式回撤完所有利润，开始亏本金](https://www.v2ex.com/t/1226409)
+
++ [FastAIToken 夏季开业福利公告： OpenAI 0.02x、Claude Kiro 0.7x， GPT5.6 畅用爽蹬（0.02x 倍率 5 元等于 250 美刀额度）！每个人注册评论发账号直接送 5 元！](https://www.v2ex.com/t/1226502)
+
++ [# 最近模型更新体验分享： Grok 4.5、Claude Fable、GPT-5.6 初体验](https://www.v2ex.com/t/1226389)
+
++ [实际上发现大多人 A 股赚不到钱都是割肉造成的](https://www.v2ex.com/t/1226494)
+
++ [如何看最近很火的抗衰老补剂, 又一智商税还是真有料?](https://www.v2ex.com/t/1226521)
+
