@@ -159,3 +159,5 @@
 
 + [联合国报告：可持续发展目标进展缓慢](https://news.cctv.com/2026/07/08/ARTI3cd8fbT74QW3LpK8Ia8g260708.shtml)
 
++ [伊朗方面公布被导弹击中的约旦美军基地卫星图像](https://news.cctv.com/2026/07/12/ARTIfOCiVhV7HCILpVjTeGG0260712.shtml)
+

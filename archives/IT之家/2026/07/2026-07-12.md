@@ -49,3 +49,15 @@
 
 + [周星驰电影《功夫女足》首支长预告公布：娥眉队站上赛场，强敌个个身怀绝技](https://m.ithome.com/html/975072.htm)
 
++ [美国五角大楼发布第 4 批 UFO 文件：共 40 份文件](https://m.ithome.com/html/975368.htm)
+
++ [张雪机车德比斯 2026 WSBK 英国站首回合第八名完赛，明晚将迎第二回合对决](https://m.ithome.com/html/975595.htm)
+
++ [美国政府施压：苹果最终同意让英特尔代工部分 iPhone、Mac 芯片，成功换取半导体关税豁免](https://m.ithome.com/html/975475.htm)
+
++ [报道称欧版苹果 iPhone 18 Pro 豁免欧盟新规，不会改为可拆卸电池](https://m.ithome.com/html/975373.htm)
+
++ [手机厂商 Ultra 超大杯机型激活量曝光：iQOO、小米、vivo 超 20 万台](https://m.ithome.com/html/975592.htm)
+
++ [删了但没完全删：英伟达 RTX 50 系列 GPU“隐藏热点”被解锁，平均温度 70-80℃ 但局部已超 107℃](https://m.ithome.com/html/975534.htm)
+

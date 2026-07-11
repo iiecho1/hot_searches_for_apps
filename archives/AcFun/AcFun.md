@@ -61,3 +61,5 @@
 
 + [AOA Short Hair 短发 路演](https://m.acfun.cn/v/?ac=48684430)
 
++ [ASTER, JERIDE-E: ku](https://m.acfun.cn/v/?ac=48674643)
+

@@ -121,3 +121,13 @@
 
 + [Electron：当 Web 技术统治桌面](https://blog.csdn.net/ailuloo/article/details/162717434)
 
++ [工业网关设计：多协议转换与边缘计算的数据流架构——Modbus/CAN/OPC UA全栈实战](https://blog.csdn.net/u014727709/article/details/162736777)
+
++ [制造企业数字化系统平台底座二次开发解决方案与推广白皮书](https://blog.csdn.net/m0_61318909/article/details/162797567)
+
++ [C++ 移动语义、完美转发与引用折叠详解](https://blog.csdn.net/aaPIXa622/article/details/162772216)
+
++ [PC 微信小程序体验版开启调试模式后白屏，报 pageId/webviewId 生命周期错误的排查记录](https://blog.csdn.net/M1NG____/article/details/162765028)
+
++ [【云原生】Kubernetes Pod 优雅终止参数 `terminationGracePeriodSeconds` 通用说明文档](https://blog.csdn.net/hknaruto/article/details/162757791)
+
