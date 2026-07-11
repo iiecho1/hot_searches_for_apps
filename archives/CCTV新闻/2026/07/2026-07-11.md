@@ -187,3 +187,11 @@
 
 + [干旱持续 意大利北部农业灌溉或将断供](https://news.cctv.com/2026/07/11/ARTIKOLZ0Kweeg9KYJJ5yoeL260711.shtml)
 
++ [特朗普称美加跨国大桥将于27日通车](https://news.cctv.com/2026/07/11/ARTI9B6ALuAvok7ZdRnjTPRF260711.shtml)
+
++ [美国追加对伊朗制裁 多方力促重返谈判](https://news.cctv.com/2026/07/11/ARTIYCeEbEI4W8AtbK1QcG0D260711.shtml)
+
++ [美再次公布UFO文件 “气球状”物体视频曝光](https://news.cctv.com/2026/07/11/ARTIFT1wKhSaLevRAN6U7yjg260711.shtml)
+
++ [世界知识产权组织全球奖揭晓 三家中国企业获奖](https://news.cctv.com/2026/07/11/ARTIi4FrCuHIMtYWqzhkbqcP260711.shtml)
+

@@ -123,3 +123,19 @@
 
 + [微前端框架之qiankun 怎么用？vue3+vite+qiankun 和 react + qiankun](https://blog.csdn.net/sun_weitao/article/details/162690610)
 
++ [减少重复录入，一体化企业管理软件是如何如何实现的？](https://blog.csdn.net/zhouzhongyan/article/details/162781266)
+
++ [从共享API到专属集群：大模型推理服务的弹性调度架构演进之路](https://blog.csdn.net/2302_78391795/article/details/162768246)
+
++ [怎样区分人工智能、离身智能、具身智能、智能机器人与人形机器人](https://blog.csdn.net/beautifulmemory/article/details/162728655)
+
++ [如何为阿里云 Elasticsearch 创建推理端点，连接器，Workflow 并写入数据](https://blog.csdn.net/UbuntuTouch/article/details/162767283)
+
++ [视频裁剪+缩放+自动添加水印脚本（Python版）](https://blog.csdn.net/Miraitowa_6/article/details/162781495)
+
++ [Kubernetes 系列【13】控制器：可视化操作 Deployment](https://blog.csdn.net/qq_43437874/article/details/162729947)
+
++ [Ubuntu26.04-Hadoop3.5.0搭建Hbase2.6.6集群](https://blog.csdn.net/qq_24330181/article/details/162738769)
+
++ [Spark 源码 | SparkSubmit 提交流程分析（二）](https://blog.csdn.net/dkl12/article/details/162717293)
+
