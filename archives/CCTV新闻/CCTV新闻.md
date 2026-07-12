@@ -191,3 +191,7 @@
 
 + [伊朗最高领袖发文誓言“复仇”](https://news.cctv.com/2026/07/12/ARTIFoCjMH7Twer7tvfUULc5260712.shtml)
 
++ [约旦称3枚来自伊朗方向导弹落入境内 未造成人员伤亡](https://news.cctv.com/2026/07/12/ARTIOEViXCQhIpMCtIbkh8i1260712.shtml)
+
++ [美议员“控诉”在约旦河西岸遭以方扣留](https://news.cctv.com/2026/07/12/ARTIbMTuAddkys1YFFMT88QV260712.shtml)
+
