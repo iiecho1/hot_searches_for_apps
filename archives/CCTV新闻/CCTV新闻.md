@@ -199,3 +199,7 @@
 
 + [卡塔尔建议本国公民暂停所有海上活动](https://news.cctv.com/2026/07/12/ARTIiQgl8EQb1GvFdjwBO3Af260712.shtml)
 
++ [特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”](https://news.cctv.com/2026/07/12/ARTIlQjfawJOEC7RmVbtUuZo260712.shtml)
+
++ [奥地利小型飞机坠毁致2死2伤](https://news.cctv.com/2026/07/12/ARTIcUK2rFjQatJUMiWlfupd260712.shtml)
+

@@ -53,3 +53,5 @@
 
 + [奔三 感觉自己漂泊不定 怎么规划人生](https://www.v2ex.com/t/1226703)
 
++ [突然发现 chatgpt 语音多了 live 功能，感觉练口语挺好的](https://www.v2ex.com/t/1226716)
+
