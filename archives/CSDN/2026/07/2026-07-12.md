@@ -141,3 +141,21 @@
 
 + [计算机网络 —— TCP/IP](https://blog.csdn.net/C_J_L12580/article/details/162764018)
 
++ [K100_AI单卡全离线部署智能会议记录系统](https://blog.csdn.net/pla88888888/article/details/162793783)
+
++ [PLC替代方案：基于LinuxCNC的软PLC实现与实时性保障——EtherCAT主站、PLCopen](https://blog.csdn.net/u014727709/article/details/162732810)
+
++ [[SpringBoot进阶]探究 spring.factories 所有写法、执行时机及如何应用](https://blog.csdn.net/qq_41652036/article/details/162796046)
+
++ [将 Rust 绑定到 .NET 10：Oxigraph 的 FFI 桥接实践](https://blog.csdn.net/sliABZYLB/article/details/162733728)
+
++ [HarmonyOS购物商城——首页交互优化与细节打磨](https://blog.csdn.net/2501_93573294/article/details/162768208)
+
++ [用 Spring Boot + Vue + Fuzio 构建现代 Java 桌面应用](https://blog.csdn.net/m0_69632475/article/details/162765228)
+
++ [哪些远程办公软件支持多屏协作？2026年7月远程办公工具横评：UU远程成首选，多屏协作、大文件传输等实用功能拉满](https://blog.csdn.net/czx_163/article/details/162790318)
+
++ [`co_await` 按下暂停键之后：从零看懂 C++20 协程](https://blog.csdn.net/August_zero/article/details/162788078)
+
++ [GPT-5.6 Sol/Terra/Luna 上线：普通用户到底要不要升级 Pro？Codex 和 API 怎么看](https://blog.csdn.net/2611_96402059/article/details/162730150)
+

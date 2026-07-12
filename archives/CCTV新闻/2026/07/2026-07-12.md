@@ -179,3 +179,15 @@
 
 + [“戴高乐”号航母从中东返回法国](https://news.cctv.com/2026/07/12/ARTICZSALRjDOPq5vNAXFRep260712.shtml)
 
++ [伊朗议长：单方面协议时代已经结束](https://news.cctv.com/2026/07/12/ARTIyZh3JvBdMnGRK4dhXmCF260712.shtml)
+
++ [阿根廷3-1战胜瑞士 半决赛对阵图、比赛时间出炉](https://news.cctv.com/2026/07/12/ARTIRbgqJYP0XVWVriYR6cXz260712.shtml)
+
++ [美媒称美军成功打击伊朗军事目标](https://news.cctv.com/2026/07/12/ARTIJi2LmMO0SF5yWP8RIsfT260712.shtml)
+
++ [加拿大多伦多音乐节发生枪击事件 致2死6伤](https://news.cctv.com/2026/07/12/ARTIu437DFeJ9CihNSrrBMiz260712.shtml)
+
++ [伊朗称打击美军位于约旦的空军基地](https://news.cctv.com/2026/07/12/ARTI4lIMpMvLyooMoF14Mw91260712.shtml)
+
++ [伊朗最高领袖发文誓言“复仇”](https://news.cctv.com/2026/07/12/ARTIFoCjMH7Twer7tvfUULc5260712.shtml)
+
