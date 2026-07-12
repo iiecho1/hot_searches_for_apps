@@ -159,3 +159,15 @@
 
 + [古巴全国电力系统恢复供电](https://news.cctv.com/2026/07/09/ARTI4yifagLO4Ww4vf1fuXiQ260709.shtml)
 
++ [科威特军方：伊朗袭击致边境哨所及钻井平台受损](https://news.cctv.com/2026/07/13/ARTISo6bHfmhOrILsooTy10D260713.shtml)
+
++ [泰国曼谷一酒吧发生火灾 已致20余人死亡](https://news.cctv.com/2026/07/13/ARTITgmw3SP38JAm432Hqp9k260713.shtml)
+
++ [委内瑞拉强震遇难人数上升至4490人](https://news.cctv.com/2026/07/13/ARTIyxgQSt74s7NC4LOQzF97260713.shtml)
+
++ [智利一汽车冲入集市 已致6死7伤](https://news.cctv.com/2026/07/13/ARTIsh0tF1gUYQHpzq4WfMbz260713.shtml)
+
++ [欧盟再次未就第21轮对俄制裁方案达成一致](https://news.cctv.com/2026/07/13/ARTI4Z84rVdrFmaZPGQQ7lt3260713.shtml)
+
++ [以色列将于10月27日举行议会选举](https://news.cctv.com/2026/07/13/ARTIAkKoo5FHOh4qdV3YGHy6260713.shtml)
+
