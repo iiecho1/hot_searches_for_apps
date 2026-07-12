@@ -51,3 +51,5 @@
 
 + [为什么 chatgpt 这么固执](https://www.v2ex.com/t/1226659)
 
++ [奔三 感觉自己漂泊不定 怎么规划人生](https://www.v2ex.com/t/1226703)
+

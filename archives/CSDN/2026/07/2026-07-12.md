@@ -205,3 +205,11 @@
 
 + [《功夫女足》电影迅雷BT完整下载[MKV/3.15GB/5.97GB]百度高清云画质[HD720p/1080p]](https://blog.csdn.net/urjem/article/details/162810573)
 
++ [工业机器人控制器：运动学正解与插补算法的嵌入式实现](https://blog.csdn.net/u014727709/article/details/162738500)
+
++ [SpringMVC自动配置](https://blog.csdn.net/cfm_2914/article/details/162771003)
+
++ [一文吃透 Docker Compose：从概念语法到多容器一键部署实战](https://blog.csdn.net/2602_95508776/article/details/162816400)
+
++ [智慧校园平台｜智慧学工平台，覆盖学校、教师、学生及家长，让校园学工管理更智能、更高效](https://blog.csdn.net/Hfzykj/article/details/162815787)
+
