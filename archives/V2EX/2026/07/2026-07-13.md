@@ -21,3 +21,5 @@
 
 + [突然发现 chatgpt 语音多了 live 功能，感觉练口语挺好的](https://www.v2ex.com/t/1226716)
 
++ [grok-4.5 真的比 gpt-5.6 sol 好用吧](https://www.v2ex.com/t/1226656)
+
