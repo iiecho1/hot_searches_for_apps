@@ -23,3 +23,5 @@
 
 + [grok-4.5 真的比 gpt-5.6 sol 好用吧](https://www.v2ex.com/t/1226656)
 
++ [为什么 chatgpt 这么固执](https://www.v2ex.com/t/1226659)
+

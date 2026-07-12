@@ -171,3 +171,5 @@
 
 + [以色列将于10月27日举行议会选举](https://news.cctv.com/2026/07/13/ARTIAkKoo5FHOh4qdV3YGHy6260713.shtml)
 
++ [斯洛伐克总统：不会参与新一轮对乌军援](https://news.cctv.com/2026/07/13/ARTIwYhSVef6Oiq44lFKndF1260713.shtml)
+
