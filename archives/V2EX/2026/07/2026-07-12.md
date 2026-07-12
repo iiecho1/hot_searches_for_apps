@@ -45,3 +45,7 @@
 
 + [grok-4.5 真的比 gpt-5.6 sol 好用吧](https://www.v2ex.com/t/1226656)
 
++ [把微信转成 wechat 对现有业务有什么影响？](https://www.v2ex.com/t/1226684)
+
++ [中国人的 homeLab，从 matrix 聊天服务器开始](https://www.v2ex.com/t/1226693)
+

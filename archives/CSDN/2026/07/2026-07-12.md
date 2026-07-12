@@ -159,3 +159,41 @@
 
 + [GPT-5.6 Sol/Terra/Luna 上线：普通用户到底要不要升级 Pro？Codex 和 API 怎么看](https://blog.csdn.net/2611_96402059/article/details/162730150)
 
++ [2026年，大模型的使用门槛终于被拉平了——聊聊AI聚合平台的演进](https://blog.csdn.net/weixin_41635707/article/details/162796411)
+
++ [安卓旧手机部署OpenList实操：内置存储挂载、文件上传与公网访问](https://blog.csdn.net/Mrxiao_bo/article/details/162807569)
+
++ [硬件盲盒任务示例以及硬件盲盒物料](https://blog.csdn.net/zhuoqingjoking97298/article/details/162809887)
+
++ [OpenClaw 行业应用实战：用本地 AI 框架搭建医疗健康系统](https://blog.csdn.net/sinat_41617212/article/details/162808361)
+
++ [时光倒流的技术：深度解析Oracle介质恢复从备份还原到时间点恢复的完整指南](https://blog.csdn.net/qq_41840843/article/details/162771147)
+
++ [医疗信创标杆：一院两区全栈国产化改造方案与数据库应用、代码实践](https://blog.csdn.net/weixin_42878111/article/details/162780847)
+
++ [中级OpenGL教程 017：几何体复用、材质区分与坐标变换详解](https://blog.csdn.net/2503_92624912/article/details/162795420)
+
++ [群晖Plex影音库实操：媒体库整理、画质设置与公网远程点播](https://blog.csdn.net/LT15171009269/article/details/162793868)
+
++ [CubeSandbox 硬件级隔离能力实战：7 组对抗性场景下安全边界验证](https://blog.csdn.net/weixin_43178406/article/details/162738803)
+
++ [2026 AI编程工具终极横评：Claude Code vs Cursor vs Copilot vs Trae vs Windsurf](https://blog.csdn.net/weixin_54908067/article/details/162782477)
+
++ [HarmonyOS旅行探索——旅行工具四个页面实现详解](https://blog.csdn.net/2501_93573294/article/details/162808086)
+
++ [生产环境实战：危险作业区打电话识别算法接入流程与深度误报优化指南](https://blog.csdn.net/weixin_63598920/article/details/162725134)
+
++ [Electron + Vite 调用网页记录](https://blog.csdn.net/u012848304/article/details/162785379)
+
++ [#Vue3篇： Vue 项目发版后如何提示用户刷新？基于 package.json 版本号的前端更新检测方案](https://blog.csdn.net/weixin_47075554/article/details/162767768)
+
++ [GPT-5.6 Sol / Terra / Luna 全维度深度对比、选型指南与落地实践](https://blog.csdn.net/qq_38400187/article/details/162754359)
+
++ [Vue 3 响应式双雄：ref 与 reactive 完全指南](https://blog.csdn.net/beiluoL/article/details/162772131)
+
++ [AtomGit Flutter 鸿蒙客户端： AnimatedScale 与 AnimatedContainer 联合实战](https://blog.csdn.net/2503_93740796/article/details/162805919)
+
++ [AI编程的十二条实战边界：一个遗留系统重构者的避坑指南](https://blog.csdn.net/slyn_2004/article/details/162813333)
+
++ [SQL性能优化实战](https://blog.csdn.net/2301_79450337/article/details/162767359)
+

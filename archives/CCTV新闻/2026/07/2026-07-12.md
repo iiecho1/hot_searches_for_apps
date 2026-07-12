@@ -195,3 +195,5 @@
 
 + [美议员“控诉”在约旦河西岸遭以方扣留](https://news.cctv.com/2026/07/12/ARTIbMTuAddkys1YFFMT88QV260712.shtml)
 
++ [霍尔木兹海峡商业航运流量大幅下降](https://news.cctv.com/2026/07/12/ARTIRyGK7AYx1QlVq4DkF1HD260712.shtml)
+
