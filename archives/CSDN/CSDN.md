@@ -135,3 +135,9 @@
 
 + [从大型机到云原生-云计算大数据与虚拟化技术全景解读](https://blog.csdn.net/Zzz2608440484/article/details/162727548)
 
++ [论文阅读笔记 | PhyT2V：基于LLM引导的迭代自精炼物理感知文本到视频生成](https://blog.csdn.net/weixin_47505105/article/details/162737506)
+
++ [Docker 核心知识点整理（网络 + Dockerfile + 原理 + 命令）](https://blog.csdn.net/hj286251/article/details/162771142)
+
++ [计算机网络 —— TCP/IP](https://blog.csdn.net/C_J_L12580/article/details/162764018)
+

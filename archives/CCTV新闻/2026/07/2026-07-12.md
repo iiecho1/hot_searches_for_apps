@@ -171,3 +171,11 @@
 
 + [古巴谴责美国石油封锁致使古断电频发](https://news.cctv.com/2026/07/12/ARTIKMosw8zhE2vTKHYZY22l260712.shtml)
 
++ [伊朗革命卫队称警告射击一违规船只 霍尔木兹海峡暂时关闭](https://news.cctv.com/2026/07/12/ARTIn7faYmm7eKqpEHYPw2ea260712.shtml)
+
++ [世卫组织官员：非洲埃博拉疫情规模或远超统计](https://news.cctv.com/2026/07/12/ARTIZ0P8nu2zFpBQz16TDoUg260712.shtml)
+
++ [美军称对伊朗发动本周第三轮袭击](https://news.cctv.com/2026/07/12/ARTIDmDqTa0xg6Hll3WAehDc260712.shtml)
+
++ [“戴高乐”号航母从中东返回法国](https://news.cctv.com/2026/07/12/ARTICZSALRjDOPq5vNAXFRep260712.shtml)
+
