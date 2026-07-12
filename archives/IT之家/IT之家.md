@@ -25,3 +25,27 @@
 
 + [删了但没完全删：英伟达 RTX 50 系列 GPU“隐藏热点”被解锁，平均温度 70-80℃ 但局部已超 107℃](https://m.ithome.com/html/975534.htm)
 
++ [周星驰导演电影《功夫女足》首日票房超 2.5 亿，一举打破 7 项中国影史纪录](https://m.ithome.com/html/975673.htm)
+
++ [仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想](https://m.ithome.com/html/975646.htm)
+
++ [消息称华为 Mate 80 Air 手机下半年发布，搭载麒麟 9030 系列芯片](https://m.ithome.com/html/975766.htm)
+
++ [周星驰导演电影《功夫女足》豆瓣开分 6.6，票房已破 3 亿](https://m.ithome.com/html/975738.htm)
+
++ [小米汽车回应澎程定价区间：关于“价格美好”愿望当然理解，但还是要讲科学](https://m.ithome.com/html/975628.htm)
+
++ [赛力斯 2026 年半年度归母亏损 15 亿元到 18 亿元，同比由盈转亏](https://m.ithome.com/html/975756.htm)
+
++ [消息称 2027 款苹果 iPad Pro 将采用 M7 芯片“双芯策略”，同时升级 VC 散热](https://m.ithome.com/html/975753.htm)
+
++ [鸿蒙智行新款智界 R7 纯电车型申报：镂空车标、B 柱侧向摄像头，或改用双联屏](https://m.ithome.com/html/975665.htm)
+
++ [BLG 战队错失赛点，HLE 战队 3:2 夺《英雄联盟》2026 MSI 冠军](https://m.ithome.com/html/975798.htm)
+
++ [鸿蒙智行全新一代问界 M9 双百万像素智慧投影大灯会“抠图”，官方发文详解能力边界](https://m.ithome.com/html/975678.htm)
+
++ [分析师：特斯拉 FSD 即将迎来属于自己的 iPhone 时刻](https://m.ithome.com/html/975667.htm)
+
++ [华为余承东揭秘鸿蒙智行享界 G9 创新卖点，含 LC 电子车窗变色玻璃、尾门厨房套件等](https://m.ithome.com/html/975650.htm)
+
