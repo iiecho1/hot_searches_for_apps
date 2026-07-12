@@ -197,3 +197,11 @@
 
 + [SQL性能优化实战](https://blog.csdn.net/2301_79450337/article/details/162767359)
 
++ [视频切割脚本（Python版）](https://blog.csdn.net/Miraitowa_6/article/details/162770956)
+
++ [Spring Boot 3.x核心特性深度解析：拥抱Java 17与云原生时代](https://blog.csdn.net/huozhe01/article/details/162736354)
+
++ [数据库工程与索引策略实战指南‌](https://blog.csdn.net/Start_mswin/article/details/162796550)
+
++ [《功夫女足》电影迅雷BT完整下载[MKV/3.15GB/5.97GB]百度高清云画质[HD720p/1080p]](https://blog.csdn.net/urjem/article/details/162810573)
+

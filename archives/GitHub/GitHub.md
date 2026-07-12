@@ -49,3 +49,27 @@
 
 + [nuxt/nuxt](https://github.com/nuxt/nuxt)
 
++ [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
+
++ [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+
++ [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
++ [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)
+
++ [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
+
++ [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
++ [chen08209/FlClash](https://github.com/chen08209/FlClash)
+
++ [par274/sharpemu](https://github.com/par274/sharpemu)
+
++ [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+

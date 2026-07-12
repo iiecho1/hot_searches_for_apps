@@ -197,3 +197,5 @@
 
 + [霍尔木兹海峡商业航运流量大幅下降](https://news.cctv.com/2026/07/12/ARTIRyGK7AYx1QlVq4DkF1HD260712.shtml)
 
++ [卡塔尔建议本国公民暂停所有海上活动](https://news.cctv.com/2026/07/12/ARTIiQgl8EQb1GvFdjwBO3Af260712.shtml)
+

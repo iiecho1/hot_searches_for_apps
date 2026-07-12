@@ -49,3 +49,5 @@
 
 + [中国人的 homeLab，从 matrix 聊天服务器开始](https://www.v2ex.com/t/1226693)
 
++ [为什么 chatgpt 这么固执](https://www.v2ex.com/t/1226659)
+
