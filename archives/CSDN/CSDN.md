@@ -101,3 +101,31 @@
 
 + [AtomGit Flutter 鸿蒙客户端：E-Brufen 的渐变设计系统](https://blog.csdn.net/2503_93740796/article/details/162805966)
 
++ [数据库的保险单：Oracle数据库备份方式全景解析与最佳实践](https://blog.csdn.net/qq_41840843/article/details/162826839)
+
++ [【VR】视频检索V-Agent: An Interactive Video Search System Using Vision-Language Models](https://blog.csdn.net/qq_35812205/article/details/162819997)
+
++ [红队作战框架设计：把一次攻击行动拆成可复用的作战模块](https://blog.csdn.net/2301_80245214/article/details/162830267)
+
++ [动静态库原理和制作](https://blog.csdn.net/jiaomorning/article/details/162769801)
+
++ [2026 AI编程工具终极横评：Claude Code vs Cursor vs Copilot vs Trae vs Windsurf](https://blog.csdn.net/weixin_54908067/article/details/162782477)
+
++ [2026最新5款AI编程工具平替之选深度实测](https://blog.csdn.net/2603_96558372/article/details/162815336)
+
++ [想搭私有 Wiki 和知识库？Tiki Wiki Docker Compose 部署实测](https://blog.csdn.net/java_logo/article/details/162810562)
+
++ [SSE 双队列架构进化之路：从 OOM 到网络漂移，一个后端项目的八次蜕变](https://blog.csdn.net/2303_77143335/article/details/162844412)
+
++ [GPT-5.6 相比 GPT-5.5 升级了什么？架构、能力、价格与适用场景详解](https://blog.csdn.net/2601_96535488/article/details/162792492)
+
++ [【金仓数据库征文】基于 KES MCP 的终端数据库 Agent 实践](https://blog.csdn.net/qq_40280043/article/details/162827239)
+
++ [【技术干货】多模型AI编程代理实战：用Python统一接入Claude Opus 4.8](https://blog.csdn.net/weixin_45888077/article/details/162819506)
+
++ [【高危预警】Android17远程一键Root完整利用链IonStack深度解析：访问恶意网页即可完全接管设备](https://blog.csdn.net/HTTPPTTH/article/details/162787553)
+
++ [《2026 电子制造业 EMC 合规白皮书》解读：PCB EMC 设计全链路优化指南（附器件选型矩阵）](https://blog.csdn.net/2609_95352737/article/details/162781144)
+
++ [数学建模嵌入式中的串行流水线 + 消息并发](https://blog.csdn.net/qq_39777550/article/details/162819186)
+
