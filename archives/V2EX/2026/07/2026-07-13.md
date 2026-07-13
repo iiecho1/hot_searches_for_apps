@@ -25,3 +25,11 @@
 
 + [为什么 chatgpt 这么固执](https://www.v2ex.com/t/1226659)
 
++ [老家修路，简单聊一下村里那无敌的村主任。](https://www.v2ex.com/t/1226762)
+
++ [像 ZCode 这种一天一更新是怎么做到的？](https://www.v2ex.com/t/1226782)
+
++ [有哪些词让你一看到就觉得是 AI 写的？](https://www.v2ex.com/t/1226775)
+
++ [用 GPT Pro 20x 和 Claude Max 20x 的全部周限额跑 GPT5.6 Sol + Claude Fable 循环迭代，给富有科技做了个官网](https://www.v2ex.com/t/1226809)
+
