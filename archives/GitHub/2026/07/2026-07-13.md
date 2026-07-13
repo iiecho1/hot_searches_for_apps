@@ -35,3 +35,17 @@
 
 + [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 
++ [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+
++ [moeru-ai/airi](https://github.com/moeru-ai/airi)
+
++ [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
++ [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+
++ [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+
++ [github/spec-kit](https://github.com/github/spec-kit)
+
++ [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+

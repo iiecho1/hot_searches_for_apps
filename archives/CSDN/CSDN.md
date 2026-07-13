@@ -179,3 +179,7 @@
 
 + [23.大模型开发：深度学习----CNN 卷积神经网络 与 RNN 循环神经网络](https://blog.csdn.net/Tbisnic/article/details/162795011)
 
++ [Linux---Snap（隔离式Linux 软件分发范式）](https://blog.csdn.net/2301_80079642/article/details/162658612)
+
++ [番茄病害智能诊断系统：YOLO+DeepSeek农业AI落地实践](https://blog.csdn.net/2403_88545703/article/details/162816664)
+
