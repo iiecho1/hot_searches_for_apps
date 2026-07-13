@@ -53,3 +53,19 @@
 
 + [WPS 官方确认：原生安卓 WPS for Pad 最快两月内见面](https://m.ithome.com/html/975752.htm)
 
++ [古尔曼：苹果 M7 Ultra 芯片最高支持 1.5TB 内存，是 M5 Ultra 的两倍](https://m.ithome.com/html/975833.htm)
+
++ [比亚迪全新 B 级闪充轿车秦 MAX 官宣，路天称定位在秦 L 之上](https://m.ithome.com/html/975866.htm)
+
++ [苹果开始向更多直营店员工配发 iPhone 16，优化“Tap to Pay”体验](https://m.ithome.com/html/975836.htm)
+
++ [央视曝家电测评造假链条：测评直播间偷偷动手脚抹黑竞品、和水军唱双簧收割消费者](https://m.ithome.com/html/975804.htm)
+
++ [小米米家定时燃气灶 3 白色 5200W 开售：一级能效、双边定时，1199 元](https://m.ithome.com/html/975826.htm)
+
++ [小米汽车：SU7 拿下 20 万以上轿车 6 月销量第一、20 万以上纯电轿车上半年销量冠军](https://m.ithome.com/html/975877.htm)
+
++ [吉利银河 TT Ultra 全球竞速版预热：采用双叉臂 + 五连杆、预瞄魔毯 +CCD+ 液压衬套](https://m.ithome.com/html/975815.htm)
+
++ [小米澎程道路测试历时两冬两夏，累计 626 天、428 万公里](https://m.ithome.com/html/975883.htm)
+

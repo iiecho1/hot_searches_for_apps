@@ -177,3 +177,19 @@
 
 + [刚果（金）埃博拉疫情扩至5省 超1800例确诊](https://news.cctv.com/2026/07/13/ARTIK3OHY0bAOSPK1FbovrER260713.shtml)
 
++ [伊朗外交部：与美国的谅解备忘录已进入“危机”阶段](https://news.cctv.com/2026/07/13/ARTIWcATVatiqMPpD91u2WER260713.shtml)
+
++ [国际乒联正式恢复俄罗斯运动员参赛资格](https://news.cctv.com/2026/07/13/ARTIkPjZvbPmkMGv5qTCQ9Zq260713.shtml)
+
++ [伊朗称已对美军发动第五阶段打击](https://news.cctv.com/2026/07/13/ARTI8iB6vT1MGDKQiwrsEIVe260713.shtml)
+
++ [卫星图像显示美军卡塔尔乌代德空军基地遭精准打击](https://news.cctv.com/2026/07/13/ARTI6qg9ts6Zy8NiyNjD8QT3260713.shtml)
+
++ [德国被曝资助乌克兰购买5万架攻击型无人机](https://news.cctv.com/2026/07/13/ARTIc04nPgLoNQ7T5qg72e40260713.shtml)
+
++ [高温肆虐 欧洲6月下旬“超额死亡人数”破万](https://news.cctv.com/2026/07/13/ARTIZ2NKvJuFqQieBVmuQ5Dl260713.shtml)
+
++ [俄官员称莫斯科地区遭无人机袭击 致3死多伤](https://news.cctv.com/2026/07/13/ARTIevvPbttRtMFTK7qQD2PK260713.shtml)
+
++ [尹锡悦涉嫌接受免费舆论调查服务案一审被判两年](https://news.cctv.com/2026/07/13/ARTIUeDFySeWUl8XfzVJ97ek260713.shtml)
+

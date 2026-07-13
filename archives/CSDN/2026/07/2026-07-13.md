@@ -147,3 +147,35 @@
 
 + [YOLOv11s-Pose 模型导出 ONNX 并适配 Rockchip NPU 全流程记录](https://blog.csdn.net/qq_55433305/article/details/162818799)
 
++ [k8s 部署 Headlamp](https://blog.csdn.net/liu_chen_yang/article/details/162490414)
+
++ [code-server部署实操：Docker快速搭建网页版VS Code与公网访问](https://blog.csdn.net/qyj19920704/article/details/162834325)
+
++ [【花雕学编程】Arduino BLDC 之机器人多模态交互与情绪识别陪伴](https://blog.csdn.net/weixin_41659040/article/details/162824384)
+
++ [童年游戏别只躺在硬盘里：把NAS变成一个网页版怀旧游戏机](https://blog.csdn.net/weixin_44976692/article/details/162833284)
+
++ [[论文阅读] (51)ESWA25 基于启发式优化器的入侵检测系统](https://blog.csdn.net/Eastmount/article/details/162827511)
+
++ [企业合同模板管理设计：占位域定义、版本留痕与富文本/OnlyOffice 双编辑器](https://blog.csdn.net/zhouzhongyan/article/details/162826767)
+
++ [OpenCV-Python实战（33）——构建实时目标检测与跟踪系统](https://blog.csdn.net/LOVEmy134611/article/details/161693301)
+
++ [GPT-5.6 到底有多强？首批体验与六项评测拆解](https://blog.csdn.net/Aoshine_x/article/details/162771674)
+
++ [Codex 客户端历史版本下载：最后一个独立的版本 、Codex旧版本下载、OpenAI.Codex_26.623.19656.0、Codex客户端下载](https://blog.csdn.net/weixin_41961749/article/details/162772066)
+
++ [【VR】GVE视频表征：Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum](https://blog.csdn.net/qq_35812205/article/details/162819885)
+
++ [NLP文本分析与实体抽取——从分词到知识图谱构建的爬虫数据智能处理全链路实战](https://blog.csdn.net/u014727709/article/details/162829151)
+
++ [【Flutter】iOS 网络权限设置 ① ( WLAN/蜂窝全局联网权限设置 )](https://blog.csdn.net/han1202012/article/details/162817604)
+
++ [CRDT在分布式协作系统中的工程实践：基于RGA算法的实时协同编辑方案](https://blog.csdn.net/2301_81410839/article/details/162830756)
+
++ [Prometheus跨主机监控实操：Node Exporter部署、告警规则与远程抓取](https://blog.csdn.net/weixin_74888502/article/details/162834931)
+
++ [vLLM、SGLang、TGI、TensorRT-LLM、Triton 全面对比](https://blog.csdn.net/w776341482/article/details/162827633)
+
++ [23.大模型开发：深度学习----CNN 卷积神经网络 与 RNN 循环神经网络](https://blog.csdn.net/Tbisnic/article/details/162795011)
+
