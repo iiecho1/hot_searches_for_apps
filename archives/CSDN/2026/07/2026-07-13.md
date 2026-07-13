@@ -113,3 +113,37 @@
 
 + [TVA具身智能的概念、架构与应用（10）](https://blog.csdn.net/2501_94287723/article/details/162588423)
 
++ [Spring AI-2.0(alibaba) Agent 编程实战：从 Tool Calling 到 MCP 协议，附完整报文级日志](https://blog.csdn.net/lilinhai548/article/details/162796038)
+
++ [医疗信创标杆：一院两区全栈国产化改造方案与数据库应用、代码实践](https://blog.csdn.net/weixin_42878111/article/details/162780847)
+
++ [金仓数据库高可用集群部署实战：主备同步与故障自动切换](https://blog.csdn.net/weixin_52908342/article/details/162792416)
+
++ [基于 OpenClaw 构建医疗健康系统：智能问诊与用药管理的全链路实战](https://blog.csdn.net/sinat_41617212/article/details/162808361)
+
++ [一句话把 ChatCut 装进 Codex：直接在对话里剪视频](https://blog.csdn.net/xianyu120/article/details/162807690)
+
++ [Codex 客户端找不到 GPT-5.6 模型怎么办？2026 最新解决方法（GPT-5.6 Sol/Luna/Terra）](https://blog.csdn.net/weixin_41961749/article/details/162761594)
+
++ [PC 微信小程序体验版开启调试模式后白屏，报 pageId/webviewId 生命周期错误的排查记录](https://blog.csdn.net/M1NG____/article/details/162765028)
+
++ [Prometheus 监控 Kafka 全栈实战：从吞吐量到消费者延迟的实时可观测性](https://blog.csdn.net/jjj_web/article/details/162772684)
+
++ [2026年，大模型的使用门槛终于被拉平了——聊聊AI聚合平台的演进](https://blog.csdn.net/weixin_41635707/article/details/162796411)
+
++ [HarmonyOS 7 更新亮点实录1：Ability Kit 深度剖析 AgentCard 与动态脚本引](https://blog.csdn.net/sjw890821sjw/article/details/162769086)
+
++ [Spring Boot 接入金仓数据库（KES）实战：读写分离、高可用与主备同步](https://blog.csdn.net/mrdeam/article/details/162792046)
+
++ [[论文学习]揭示大语言模型智能体记忆模块中的隐私风险](https://blog.csdn.net/HK2KING/article/details/162775062)
+
++ [HarmonyKit | 鸿蒙开发：性能调优与 HAP 体积控制实践](https://blog.csdn.net/2302_80329073/article/details/162819112)
+
++ [群晖Plex影音库实操：媒体库整理、画质设置与公网远程点播](https://blog.csdn.net/LT15171009269/article/details/162793868)
+
++ [npm run serve 在vue-cli中做的事情](https://blog.csdn.net/safsdfooo/article/details/162762895)
+
++ [数学建模嵌入式中的串行流水线 + 消息并发](https://blog.csdn.net/qq_39777550/article/details/162819186)
+
++ [YOLOv11s-Pose 模型导出 ONNX 并适配 Rockchip NPU 全流程记录](https://blog.csdn.net/qq_55433305/article/details/162818799)
+

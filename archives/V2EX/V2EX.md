@@ -33,3 +33,11 @@
 
 + [用 GPT Pro 20x 和 Claude Max 20x 的全部周限额跑 GPT5.6 Sol + Claude Fable 循环迭代，给富有科技做了个官网](https://www.v2ex.com/t/1226809)
 
++ [被对象骂太穷，要我涨薪，要我跳槽去上海](https://www.v2ex.com/t/1226872)
+
++ [[重发下] 亏 105 万，今天我卖掉了惠州的房子。](https://www.v2ex.com/t/1226835)
+
++ [V 友们，八月中旬旅游有值得推荐的城市吗？（国内）](https://www.v2ex.com/t/1226812)
+
++ [求好用的截图软件推荐](https://www.v2ex.com/t/1226830)
+
