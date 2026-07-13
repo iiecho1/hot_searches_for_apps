@@ -183,3 +183,25 @@
 
 + [番茄病害智能诊断系统：YOLO+DeepSeek农业AI落地实践](https://blog.csdn.net/2403_88545703/article/details/162816664)
 
++ [【Linux】Ext 文件系统：从机械磁盘到 CHS/LBA，搞懂扇区、块与分区](https://blog.csdn.net/2402_87731470/article/details/162819127)
+
++ [【VR】CoVR-R:Reason-Aware Composed Video Retrieval](https://blog.csdn.net/qq_35812205/article/details/162820020)
+
++ [AI复杂排障：AI秒级硬件故障排障方案](https://blog.csdn.net/qq_38998213/article/details/162830492)
+
++ [服务器管理别全靠命令行：用EasyNode搭一个可视化运维入口](https://blog.csdn.net/aiclaws/article/details/162845695)
+
++ [目标检测：YOLO在验证码应用——从YOLOv8训练到生产级实时检测部署全链路实战](https://blog.csdn.net/u014727709/article/details/162828610)
+
++ [2026年7月13日国科技热点新闻](https://blog.csdn.net/BluerCat/article/details/162844549)
+
++ [HarmonyKit | 鸿蒙开发展望：HarmonyKit 未来路线图与社区共建](https://blog.csdn.net/2302_80329073/article/details/162819131)
+
++ [【简历进阶篇】一篇了解什么是MongoDB](https://blog.csdn.net/chen_si_shang_/article/details/162817541)
+
++ [《功夫女足》电影迅雷BT完整下载[MKV/3.15GB/5.97GB]百度高清云画质[HD720p/1080p]](https://blog.csdn.net/urjem/article/details/162810573)
+
++ [GPT-5.6 全面解读：三档模型、推理能力、价格与迁移实战](https://blog.csdn.net/xiaoxingkongyuxi/article/details/162779503)
+
++ [2026 年 7 月模拟器多开测评：MuMu 6.0 vs 雷电 14 vs 逍遥，谁才是多开搬砖最优解？](https://blog.csdn.net/2301_76341691/article/details/162806787)
+
