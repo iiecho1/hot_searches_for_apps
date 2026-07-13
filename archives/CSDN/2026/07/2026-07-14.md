@@ -129,3 +129,5 @@
 
 + [数学建模嵌入式中的串行流水线 + 消息并发](https://blog.csdn.net/qq_39777550/article/details/162819186)
 
++ [给Skill工作流编辑器加 AI 助手](https://blog.csdn.net/xumingxsh/article/details/162780865)
+
