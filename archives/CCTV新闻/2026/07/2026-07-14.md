@@ -159,3 +159,11 @@
 
 + [以总理：“不允许”伊朗拥核 拟大幅追加国防预算](https://news.cctv.com/2026/07/10/ARTIaTN6r6XuTRfRy5NITPLm260710.shtml)
 
++ [《习近平谈治国理政》第五卷吉尔吉斯斯坦推介会在比什凯克举行](https://news.cctv.com/2026/07/14/ARTIox4578QQD1pWSFtXp3pr260714.shtml)
+
++ [美军将于格林尼治时间14日20时起对伊朗实施海上封锁](https://news.cctv.com/2026/07/14/ARTICpTkOU5Vo4OFUjpb1rsL260714.shtml)
+
++ [伯纳姆锁定英国工党党首职位 有望7月20日接任首相](https://news.cctv.com/2026/07/14/ARTIsaEwHjFGx2cVpGwgkW3x260714.shtml)
+
++ [美移民执法人员在缅因州行动中开枪致1人死亡](https://news.cctv.com/2026/07/14/ARTIe7wIWr9sQqHpgxHZNNbQ260714.shtml)
+

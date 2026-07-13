@@ -135,3 +135,7 @@
 
 + [公文段落标题分类器实战：28维XGBoost实现标题层级识别（F1=0.99+）](https://blog.csdn.net/qq_36411553/article/details/162839079)
 
++ [第一章 机器学习模型与实现](https://blog.csdn.net/feng8403000/article/details/162832709)
+
++ [深度学习实战-基于ResNet50的葡萄叶图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159961451)
+
