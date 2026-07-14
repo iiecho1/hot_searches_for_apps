@@ -187,3 +187,15 @@
 
 + [2026最新8款企业级AI编程工具平替实测全汇总](https://blog.csdn.net/2603_96558520/article/details/162838583)
 
++ [【AI 测评】飞牛NAS部署PandaWiki实操：本地AI知识库、DeepSeek接入与公网访问](https://blog.csdn.net/2402_87298751/article/details/162870226)
+
++ [【花雕动手做】行空板 K10 系列实验之3640无刷电机三驱动全向福来轮语音识别控制智能小车](https://blog.csdn.net/weixin_41659040/article/details/162670039)
+
++ [【AI探索】向量检索策略与召回优化](https://blog.csdn.net/weixin_62043600/article/details/162851881)
+
++ [从Node.js到Electron，现代全栈与跨端开发](https://blog.csdn.net/eidolon_foot/article/details/162869387)
+
++ [GPT-5.6 Sol、Terra、Luna 怎么选?我的素材库项目为什么最终使用 Sol + Medium](https://blog.csdn.net/w776341482/article/details/162858938)
+
++ [58-基于物联网的老年人医嘱联动健康监测装置](https://blog.csdn.net/qq_44717552/article/details/162850785)
+
