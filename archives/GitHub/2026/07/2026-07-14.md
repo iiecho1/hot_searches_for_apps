@@ -23,3 +23,17 @@
 
 + [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
++ [penpot/penpot](https://github.com/penpot/penpot)
+
++ [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra)
+
++ [par274/sharpemu](https://github.com/par274/sharpemu)
+
++ [chenyme/grok2api](https://github.com/chenyme/grok2api)
+
++ [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+
