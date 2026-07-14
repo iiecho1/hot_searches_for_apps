@@ -101,3 +101,29 @@
 
 + [Linux系统故障修复、日志管理与安全加固实战指南](https://blog.csdn.net/qq_58308926/article/details/162818641)
 
++ [KES 数据仓库与OLAP应用实战：数据分析、聚合查询与性能优化](https://blog.csdn.net/weixin_62765017/article/details/162852555)
+
++ [复杂嵌套表单解析评测：OCR都能识别，但谁能真正还原业务结构?](https://blog.csdn.net/herosunly/article/details/162849851)
+
++ [Java工程师AI进阶实战：学习路线·项目实践·资源大全](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162842563)
+
++ [NAS、服务器、后台地址太多：给自己做一个随时能打开的私人导航台](https://blog.csdn.net/2501_91062530/article/details/162882752)
+
++ [从零搭建自建知识库AI考试系统：基于txt知识库+大模型API实现逐题智能出题](https://blog.csdn.net/nmdbbzcl/article/details/162846561)
+
++ [沉浸式体验飞算JavaAI，落地企业后台开发全过程](https://blog.csdn.net/u014727709/article/details/162858469)
+
++ [OpenAI 把 Codex 接进 Claude Code:Coding Agent 从单兵工具进入协作系统](https://blog.csdn.net/w776341482/article/details/162860935)
+
++ [06 | 200个单元测试C项目也能TDD](https://blog.csdn.net/ysu_0314/article/details/162817280)
+
++ [别再手写 Prompt 了：一文讲透 Loop Engineering（循环工程）的控制论架构与自愈闭环](https://blog.csdn.net/2401_87808951/article/details/162850090)
+
++ [诗途·TraceMuse：AI 眼镜旅游智能体设计方案](https://blog.csdn.net/qq_61212692/article/details/162851778)
+
++ [【简历进阶篇】一篇了解什么是MongoDB](https://blog.csdn.net/chen_si_shang_/article/details/162817541)
+
++ [零信任背景下的数据安全演进：基于5A方法论的重构路径](https://blog.csdn.net/2402_88096536/article/details/162883406)
+
++ [企业 RAG 文档入库实战：Word、PDF、Markdown 解析与清洗](https://blog.csdn.net/qq_62915969/article/details/162818411)
+

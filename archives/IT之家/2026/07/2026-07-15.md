@@ -25,3 +25,27 @@
 
 + [卢伟冰晒小米澎程近两年路测实拍记录图，2024 年 10 月首台测试车正式上路](https://m.ithome.com/html/976095.htm)
 
++ [美的：20 万台空调急运欧洲](https://m.ithome.com/html/976344.htm)
+
++ [苹果发布 iOS 27 等首个公测版，同步推送 macOS 27 Beta 3 修订版](https://m.ithome.com/html/976254.htm)
+
++ [小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起](https://m.ithome.com/html/976707.htm)
+
++ [Telegram 核心域名 t.me 突遭全球停用，官方尚未回应](https://m.ithome.com/html/976266.htm)
+
++ [小米汽车：新一代 SU7 少量现车开售，当天锁单最快 2 小时提车](https://m.ithome.com/html/976315.htm)
+
++ [翻开新篇章！华为海外发布 Pura 90s Pro 系列手机，官网正式标注 5G NR 参数](https://m.ithome.com/html/976562.htm)
+
++ [1299 元起：小米 REDMI Note 17 标准版手机发布，第四代骁龙 4 芯片、7 英寸 OLED 护眼屏](https://m.ithome.com/html/976714.htm)
+
++ [胡峥楠：小米汽车 4 款产品 4 年投入 2684 台测试车，路测总里程超 3551 万公里](https://m.ithome.com/html/976438.htm)
+
++ [DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富](https://m.ithome.com/html/976525.htm)
+
++ [响应更快：多位大 V 推荐苹果 iOS 27 首个公测版，稳定性满足日常使用](https://m.ithome.com/html/976278.htm)
+
++ [消息称苹果 iPad mini 8 平板搭载 8.4 寸 60Hz OLED 面板](https://m.ithome.com/html/976733.htm)
+
++ [特斯拉官方宣传汽车寿命：一年两万公里可行驶 15 年以上](https://m.ithome.com/html/976351.htm)
+
