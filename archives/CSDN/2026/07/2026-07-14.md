@@ -139,3 +139,25 @@
 
 + [深度学习实战-基于ResNet50的葡萄叶图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159961451)
 
++ [复杂嵌套表单解析评测：OCR都能识别，但谁能真正还原业务结构?](https://blog.csdn.net/herosunly/article/details/162849851)
+
++ [KES 数据仓库与OLAP应用实战：数据分析、聚合查询与性能优化](https://blog.csdn.net/weixin_62765017/article/details/162852555)
+
++ [Prometheus自定义指标实战：Python Exporter、业务告警与远程采集](https://blog.csdn.net/baronbool/article/details/162851834)
+
++ [那块从未唤醒的磁盘：究竟是什么决定了我们的 Qdrant 向量搜索基准测试重新对决的结果](https://blog.csdn.net/UbuntuTouch/article/details/162856669)
+
++ [新型电力系统下基于二阶锥最优潮流的配电网分布式光伏接入承载力评估（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/162851856)
+
++ [2026年7月13日科技热点新闻](https://blog.csdn.net/BluerCat/article/details/162844549)
+
++ [新能源汽车：3大标定工具横向扒底｜CANape/TSMaster/ZXDoc怎么选？A2L查看实操+市场份额全解析](https://blog.csdn.net/weixin_62244995/article/details/161738014)
+
++ [Codex用上GPT-5.6：CLI和App怎么更新？](https://blog.csdn.net/2601_96380027/article/details/162793812)
+
++ [项目：轻量级搜索引擎](https://blog.csdn.net/w8848w/article/details/162851489)
+
++ [Linux系统故障修复、日志管理与安全加固实战指南](https://blog.csdn.net/qq_58308926/article/details/162818641)
+
++ [Superpowers：GPT-5.6 时代下的流程毒瘤](https://blog.csdn.net/m0_48069349/article/details/162847664)
+
