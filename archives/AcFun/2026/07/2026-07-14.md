@@ -65,3 +65,7 @@
 
 + [stickysticky](https://m.acfun.cn/v/?ac=48690635)
 
++ [反华一辈子，死前让人找中国——格鲁厄姆死不瞑目【岩论611期】](https://m.acfun.cn/v/?ac=48691246)
+
++ [你的心会变得空洞](https://m.acfun.cn/v/?ac=48691066)
+
