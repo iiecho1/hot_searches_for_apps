@@ -161,3 +161,29 @@
 
 + [Superpowers：GPT-5.6 时代下的流程毒瘤](https://blog.csdn.net/m0_48069349/article/details/162847664)
 
++ [MongoDB别只装完就跑：先把认证、端口和权限加固好](https://blog.csdn.net/EterNity_TiMe_/article/details/162865069)
+
++ [PostgreSQL 一慢就靠猜？先把Postgres Exporter接进Prometheus](https://blog.csdn.net/m0_68390957/article/details/162869200)
+
++ [Re：Linux系统篇（四十三）信号篇·一：谁在敲进程的门？一篇带你了解信号概念与产生机制](https://blog.csdn.net/Z2314246476/article/details/162624754)
+
++ [《Linux CPU频率为何忽高忽低：cpufreq、idle状态与性能抖动教程》](https://blog.csdn.net/Dovis5884/article/details/162864752)
+
++ [YOLOv11【第十六章：AI 伦理、安全与隐私保护篇·第14节】安全红队测试：模拟真实攻击场景评估 YOLOv11 防护](https://blog.csdn.net/weixin_43970743/article/details/162733587)
+
++ [本地视频预览别只自己看：把Remotion动效项目发给客户远程验收](https://blog.csdn.net/COLLINSXU/article/details/162868997)
+
++ [HarmonyOS 多端实战：把手机 UI 搬上大屏后，我翻车了](https://blog.csdn.net/m0_74824877/article/details/162848600)
+
++ [揭开 Electron 的真面目：它不是网页套壳，更不是 Web 前后端](https://blog.csdn.net/eidolon_foot/article/details/162869234)
+
++ [【无人机干扰】基于 MATLAB 的无人机烟幕干扰弹投放策略优化与仿真项目](https://blog.csdn.net/m0_60703264/article/details/162867105)
+
++ [【无人机性能】一种裁剪三角翼无人机的稳态飞行性能分析附Matlab仿真](https://blog.csdn.net/m0_57702748/article/details/162867144)
+
++ [Spring Aop](https://blog.csdn.net/2501_93103214/article/details/162796560)
+
++ [Linux命令-route（查看/修改 IP 路由表）](https://blog.csdn.net/qq_32808455/article/details/162804577)
+
++ [2026最新8款企业级AI编程工具平替实测全汇总](https://blog.csdn.net/2603_96558520/article/details/162838583)
+

@@ -37,3 +37,9 @@
 
 + [想买个两轮电动车，线上还是线下更好？](https://www.v2ex.com/t/1227076)
 
++ [求推荐纯躺平式海边度假地](https://www.v2ex.com/t/1227099)
+
++ [Grok 大瓜](https://www.v2ex.com/t/1227096)
+
++ [特斯拉的 fsd，买断制 VS 订阅制你会怎么选择](https://www.v2ex.com/t/1227081)
+
