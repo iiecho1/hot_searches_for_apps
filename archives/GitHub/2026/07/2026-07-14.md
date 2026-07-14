@@ -37,3 +37,5 @@
 
 + [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
++ [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+

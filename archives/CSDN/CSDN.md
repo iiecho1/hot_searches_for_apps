@@ -207,3 +207,15 @@
 
 + [【金仓数据库产品体验官】_坏得起_实测：备份恢复、PITR 时间穿越与主备切换——KingbaseES V9R3C18 深度体验（三）](https://blog.csdn.net/weixin_66401877/article/details/162850989)
 
++ [【C++大型项目之高性能服务器框架 (五) 】协程调度器&定时器&IO协程管理器篇 (下)](https://blog.csdn.net/2501_93095927/article/details/162812676)
+
++ [读懂 ROCm 分层：HIP → ROCr → libhsakmt 核心概念对照表](https://blog.csdn.net/shenjunpeng/article/details/162847358)
+
++ [基于 Spring Boot + Vue3 的地方美食推荐系统](https://blog.csdn.net/xintgong/article/details/162844709)
+
++ [CubeSandbox部署教程](https://blog.csdn.net/2502_94242477/article/details/162816111)
+
++ [FurnitureVLA——利用VLA学习长时域双臂家具装配：将装配长时任务拆分为多个子步骤，且提出进度VLA，以预测每个子任务的进度信号，最终实现子任务之间的切换](https://blog.csdn.net/v_JULY_v/article/details/162844571)
+
++ [【简历进阶篇】一篇了解什么是MongoDB](https://blog.csdn.net/chen_si_shang_/article/details/162817541)
+
