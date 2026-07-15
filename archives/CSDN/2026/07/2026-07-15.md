@@ -181,3 +181,13 @@
 
 + [ollama v0.32.0发布：交互式智能体正式上线，命令行入口彻底升级，ChatGPT集成更名，旧模型启动前新增弃用警告](https://blog.csdn.net/weixin_48502062/article/details/162877146)
 
++ [【AI智能体】Claude Code 插件从使用到项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/162382052)
+
++ [[Bug已解决] CUDA-capable device busy or unavailable 导致 NCCL 握手超时（分布式启动卡死）解决方案](https://blog.csdn.net/weixin_52908342/article/details/162906571)
+
++ [【Emb】Qwen3-VL-Embedding&Qwen3-VL-Reranker](https://blog.csdn.net/qq_35812205/article/details/162884489)
+
++ [HarmonyKit | 移动端开发者工具类应用的现状与趋势](https://blog.csdn.net/2302_80329073/article/details/162819029)
+
++ [Outlook 添加附件闪退：yi赛通 DynamicDll64.dll 冲突排查](https://blog.csdn.net/weixin_47431459/article/details/162909465)
+

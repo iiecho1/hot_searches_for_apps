@@ -223,3 +223,9 @@
 
 + [阿塞拜疆总统：阿中关系升级促进中企在阿投资兴业](https://news.cctv.com/2026/07/15/ARTIRhf2QVUBweVidG1Iwuwf260715.shtml)
 
++ [极端天气常态化 2025年成英国最热一年](https://news.cctv.com/2026/07/15/ARTIC2d0MvzLCYF9k458Dui0260715.shtml)
+
++ [俄外交部：日本应恪守和平宪法全面承认二战结果](https://news.cctv.com/2026/07/15/ARTIwFonMRljyZJNeGFr0n5Y260715.shtml)
+
++ [乌克兰与欧盟达成无人机协议](https://news.cctv.com/2026/07/15/ARTIvejtrpF5FA7jrh4dkA7t260715.shtml)
+
