@@ -33,3 +33,13 @@
 
 + [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
++ [moeru-ai/airi](https://github.com/moeru-ai/airi)
+
++ [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
+
++ [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
++ [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
++ [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2)
+
