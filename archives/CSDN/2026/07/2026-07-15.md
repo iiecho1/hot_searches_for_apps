@@ -177,3 +177,7 @@
 
 + [FurnitureVLA——利用VLA学习长时域双臂家具装配：将装配长时任务拆分为多个子步骤，且提出进度VLA，以预测每个子任务的进度信号，最终实现子任务之间的切换](https://blog.csdn.net/v_JULY_v/article/details/162844571)
 
++ [ 【C++大型项目之高性能服务器框架 (六) 】hook、FD管理与Address模块](https://blog.csdn.net/2501_93095927/article/details/162847149)
+
++ [ollama v0.32.0发布：交互式智能体正式上线，命令行入口彻底升级，ChatGPT集成更名，旧模型启动前新增弃用警告](https://blog.csdn.net/weixin_48502062/article/details/162877146)
+

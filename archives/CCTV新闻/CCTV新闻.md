@@ -219,3 +219,7 @@
 
 + [西班牙南部林火遇难者多为外籍](https://news.cctv.com/2026/07/15/ARTI8FOwyxPAFO2No419LoIL260715.shtml)
 
++ [美军称对伊朗进行了90分钟打击](https://news.cctv.com/2026/07/15/ARTIpR8yAOVdvCWoEoZJgJ9f260715.shtml)
+
++ [阿塞拜疆总统：阿中关系升级促进中企在阿投资兴业](https://news.cctv.com/2026/07/15/ARTIRhf2QVUBweVidG1Iwuwf260715.shtml)
+
