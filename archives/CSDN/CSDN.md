@@ -131,3 +131,5 @@
 
 + [大模型语音机器人如何实现复杂意图理解？——从技术原理到SIP协同实践](https://blog.csdn.net/uincall/article/details/162894742)
 
++ [智谱冲刺AGI，MiniMax获160亿融资](https://blog.csdn.net/nndsb/article/details/162838461)
+
