@@ -143,3 +143,21 @@
 
 + [技术速递｜GitHub Copilot 如何让 GitHub Pages 实现零 DNS 配置](https://blog.csdn.net/MicrosoftReactor/article/details/162881975)
 
++ [软件研发辅助：智能代码审查 + 测试用例生成 + 缺陷预测——基于 JiuwenSwarm 的群体智能实践](https://blog.csdn.net/2401_83830408/article/details/162881602)
+
++ [第21届智能车竞赛中赛题中车模导航技术](https://blog.csdn.net/zhuoqingjoking97298/article/details/162847042)
+
++ [DolphinDB告警分析：告警统计与趋势](https://blog.csdn.net/sinat_41617212/article/details/162819645)
+
++ [语言服务器协议（LSP）服务器技术原理与在Coding‑Agent中的应用](https://blog.csdn.net/universsky2015/article/details/162896837)
+
++ [2025研究前沿、2025全球工程前沿](https://blog.csdn.net/dllglvzhenfeng/article/details/162815707)
+
++ [ToDesk AI 实测：从远程控制到远程干活，让AI填表、选品、剪辑](https://blog.csdn.net/2401_85686768/article/details/162883215)
+
++ [4 个英伟达人工智能任务，1 个 Elasticsearch 接口：嵌入、聊天、completion 和重排序](https://blog.csdn.net/UbuntuTouch/article/details/162892963)
+
++ [PX4 无人机全栈开发实战｜2. 软件配置篇（ros + mid360 + pointlio）](https://blog.csdn.net/m0_56512589/article/details/162828242)
+
++ [HarmonyOS《柚兔学伴》项目实战10-半模态与弹窗交互](https://blog.csdn.net/youtootech/article/details/162850872)
+
