@@ -101,3 +101,27 @@
 
 + [ReAct 和 Plan-and-Solve，两种 Agent 模式你选哪个？](https://blog.csdn.net/2303_77143335/article/details/162909693)
 
++ [BGP 劫持是怎么回事？运营商级路由安全科普](https://blog.csdn.net/cui_yonghua/article/details/162827077)
+
++ [【共创季稿事节】HarmonyOS 7.0 分布式软总线架构演进与多端协同前瞻](https://blog.csdn.net/u014727709/article/details/162913910)
+
++ [Prometheus自定义指标实战：Python Exporter、业务告警与远程采集](https://blog.csdn.net/baronbool/article/details/162851834)
+
++ [《VLA 系列》AMP 算法与代码分析技术](https://blog.csdn.net/qq_41204464/article/details/162768513)
+
++ [SSE 双队列架构进化之路：从 OOM 到网络漂移，一个后端项目的八次蜕变](https://blog.csdn.net/2303_77143335/article/details/162844412)
+
++ [Prompt 工程不只是写提示词：后端视角讲透上下文、Schema、失败协议与回归测试](https://blog.csdn.net/2401_87662859/article/details/162849041)
+
++ [Kubernetes DevOps 深度解析：云原生时代的持续交付与运维效率提升](https://blog.csdn.net/ZohoITOM/article/details/162860053)
+
++ [Nginx- ngx_http_ssl_module 模块：HTTPS 证书配置与启用](https://blog.csdn.net/qq_41187124/article/details/157657928)
+
++ [前端样式技术发展进程和解析（长期更新版）](https://blog.csdn.net/Brightimoon/article/details/162881290)
+
++ [AtomGit Flutter 鸿蒙客户端：AppGallery 应用发布全流程](https://blog.csdn.net/2503_93740796/article/details/162900358)
+
++ [前端流式输出（Streaming）实战：用 Vue3 打造打字机效果的 AI Chatbot](https://blog.csdn.net/suger__salt/article/details/162901509)
+
++ [零信任架构下的一体化办公安全：从分立工具到统一策略的演进路径](https://blog.csdn.net/weixin_41440974/article/details/162868000)
+
