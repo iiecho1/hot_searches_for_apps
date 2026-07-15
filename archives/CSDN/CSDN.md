@@ -129,3 +129,5 @@
 
 + [Loop Engineering：从 Prompt Engineering 到迭代式智能体工程](https://blog.csdn.net/jam_yin/article/details/162899206)
 
++ [大模型语音机器人如何实现复杂意图理解？——从技术原理到SIP协同实践](https://blog.csdn.net/uincall/article/details/162894742)
+
