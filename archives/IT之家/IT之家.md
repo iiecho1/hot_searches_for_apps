@@ -25,3 +25,27 @@
 
 + [特斯拉官方宣传汽车寿命：一年两万公里可行驶 15 年以上](https://m.ithome.com/html/976351.htm)
 
++ [西北大学通报贾平凹之女贾浅浅论文涉抄袭，撤销硕士学位和教师资格](https://m.ithome.com/html/976821.htm)
+
++ [苹果 Apple 智能在列，网信部门发布 7 款提供手机端侧生成式人工智能服务已备案信息](https://m.ithome.com/html/977080.htm)
+
++ [国行苹果 AI 功能完成备案，阿里巴巴称千问将作为 AI 能力集成至 Apple 智能](https://m.ithome.com/html/977109.htm)
+
++ [曝第一个安卓阔直板手机立项，预计属于 OPPO](https://m.ithome.com/html/976944.htm)
+
++ [消息称百度为苹果 Apple 智能提供 AI 搜索功能](https://m.ithome.com/html/977164.htm)
+
++ [内存占用 54 GB → 3.9GB！苹果正评估 PrismML 量化 AI 技术，让 iPhone 15 及后续机型运行 27B 模型](https://m.ithome.com/html/976826.htm)
+
++ [逆势增产 20%：消息称华为 2026 年智能手机出货目标 6000 万部，成唯一增长的中国品牌](https://m.ithome.com/html/976947.htm)
+
++ [小蓝灯上车：小米澎程 SkyNomad N90 Max 无伪装行驶姿态曝光](https://m.ithome.com/html/977205.htm)
+
++ [东风日产孙豪称自己是坚定的小米支持者，澎程 N90 让他想到奔驰 Viano 马可波罗房车](https://m.ithome.com/html/976819.htm)
+
++ [手机 AI 的 DeepSeek 时刻：Bonsai 27B 模型登场，苹果 iPhone 17 Pro 可运行](https://m.ithome.com/html/976772.htm)
+
++ [微信宣布治理停车缴费界面违规广告链接](https://m.ithome.com/html/977203.htm)
+
++ [分期买 iPhone 17 Pro 不再自动解锁：苹果确认 T-Mobile 和 Verizon 分期用户不再享受无锁待遇](https://m.ithome.com/html/976841.htm)
+

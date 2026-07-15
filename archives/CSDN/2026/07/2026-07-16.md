@@ -125,3 +125,7 @@
 
 + [零信任架构下的一体化办公安全：从分立工具到统一策略的演进路径](https://blog.csdn.net/weixin_41440974/article/details/162868000)
 
++ [Kalidroid：在安卓手机上运行 Kali Linux，无需 Root 的高性能移动安全](https://blog.csdn.net/weixin_44993475/article/details/162822778)
+
++ [Loop Engineering：从 Prompt Engineering 到迭代式智能体工程](https://blog.csdn.net/jam_yin/article/details/162899206)
+
