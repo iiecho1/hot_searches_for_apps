@@ -171,3 +171,15 @@
 
 + [哥伦比亚军方营救45名被绑架平民 两名士兵牺牲](https://news.cctv.com/2026/07/15/ARTITRdabAWleLFhGtpID1mK260715.shtml)
 
++ [中菲执法部门合作遣返涉赌涉诈嫌疑人](https://news.cctv.com/2026/07/15/ARTI31H6oVzhoTiAplDOfyqc260715.shtml)
+
++ [近期涉中国游客驾驶体验项目伤亡意外多发，驻土耳其使馆发布安全提示](https://news.cctv.com/2026/07/15/ARTItufyF00AtWUtaqlRD9Fr260715.shtml)
+
++ [印尼杜科诺火山喷发 火山灰柱高达2300米](https://news.cctv.com/2026/07/15/ARTItulZEcyOnJOd4mR0JcTz260715.shtml)
+
++ [多个日本市民团体声明反对日本拥有核潜艇](https://news.cctv.com/2026/07/15/ARTIKND28Dbmbfa22uc8i5eO260715.shtml)
+
++ [伊朗多处民用设施遭袭受损](https://news.cctv.com/2026/07/15/ARTIS1TIrP6g5fCkTpUWMhBq260715.shtml)
+
++ [刚果（金）埃博拉确诊病例超2000例](https://news.cctv.com/2026/07/15/ARTIyhVeihzj0rHM5aaFEl4v260715.shtml)
+
