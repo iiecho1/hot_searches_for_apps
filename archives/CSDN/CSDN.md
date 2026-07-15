@@ -129,3 +129,5 @@
 
 + [警惕Codex幻觉：AI编程的边界实测](https://blog.csdn.net/lideiguo/article/details/162817137)
 
++ [Spring Boot + Lettuce 实现 Redis 集群读写分离（从库优先读）](https://blog.csdn.net/IT_Octopus/article/details/162880125)
+

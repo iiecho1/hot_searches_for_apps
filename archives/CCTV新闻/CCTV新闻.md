@@ -169,3 +169,5 @@
 
 + [伊拉克总理：美军今年9月30日前须撤出伊拉克](https://news.cctv.com/2026/07/15/ARTIn0jrgnX4NLiKZwb1iyDt260715.shtml)
 
++ [哥伦比亚军方营救45名被绑架平民 两名士兵牺牲](https://news.cctv.com/2026/07/15/ARTITRdabAWleLFhGtpID1mK260715.shtml)
+

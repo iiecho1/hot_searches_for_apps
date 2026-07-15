@@ -21,3 +21,9 @@
 
 + [两天时间，今年白干了](https://www.v2ex.com/t/1227144)
 
++ [Grok 大瓜](https://www.v2ex.com/t/1227096)
+
++ [codex 真的和 cc 性能差不多吗](https://www.v2ex.com/t/1227164)
+
++ [特斯拉的 fsd，买断制 VS 订阅制你会怎么选择](https://www.v2ex.com/t/1227081)
+
