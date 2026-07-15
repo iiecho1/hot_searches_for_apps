@@ -161,3 +161,19 @@
 
 + [HarmonyOS《柚兔学伴》项目实战10-半模态与弹窗交互](https://blog.csdn.net/youtootech/article/details/162850872)
 
++ [MuMu模拟器6.0评测：480帧、安卓15、原生Root，四组实验拆给你看](https://blog.csdn.net/IRpickstars/article/details/162844002)
+
++ [Oracle RAC高可用集群完全解读：架构原理、部署规划与最佳实践](https://blog.csdn.net/qq_41840843/article/details/162901667)
+
++ [Oracle 迁移评估时，我把这两类问题列在了检查清单最前面](https://blog.csdn.net/Mrxiao_bo/article/details/162902565)
+
++ [【前沿】ZipDepth轻量单目深度模型：搞定全场景深度识别，手机、无人机都能实时跑](https://blog.csdn.net/qq_42589613/article/details/162900073)
+
++ [三巨头横评：GPT-5.6 vs 混元Hy3 vs LongCat-2.0，7月三大旗舰怎么选？](https://blog.csdn.net/qq_36411553/article/details/162901791)
+
++ [Codex 运行速度突然变慢怎么办？大量用户反馈 GPT-5.6 更新后执行效率下降，原因分析与解决方法](https://blog.csdn.net/weixin_41961749/article/details/162880796)
+
++ [Prompt 工程不只是写提示词：后端视角讲透上下文、Schema、失败协议与回归测试](https://blog.csdn.net/2401_87662859/article/details/162849041)
+
++ [FurnitureVLA——利用VLA学习长时域双臂家具装配：将装配长时任务拆分为多个子步骤，且提出进度VLA，以预测每个子任务的进度信号，最终实现子任务之间的切换](https://blog.csdn.net/v_JULY_v/article/details/162844571)
+

@@ -189,3 +189,25 @@
 
 + [特朗普召集会议讨论对伊朗大规模进攻计划](https://news.cctv.com/2026/07/15/ARTIKK5digpM68LEkeXWmRzv260715.shtml)
 
++ [中国驻墨尔本总领馆提醒中国游客关注涉水运动风险](https://news.cctv.com/2026/07/15/ARTIWQ9XFLvyyHpUS5FC0k4Y260715.shtml)
+
++ [捷克两辆公交车相撞致17人受伤](https://news.cctv.com/2026/07/15/ARTIyHNA3BQvJujauPA0H2dJ260715.shtml)
+
++ [以色列取消美军加油机降落本-古里安机场限制](https://news.cctv.com/2026/07/15/ARTIY6OxHGThkhh4QaG0z3vy260715.shtml)
+
++ [以防疫为由 美国禁本国公民从刚果（金）直返](https://news.cctv.com/2026/07/15/ARTIs6HRX1akhGYdRrM9njIK260715.shtml)
+
++ [伊朗公布美第五舰队无人机指挥中心被摧毁卫星图像](https://news.cctv.com/2026/07/15/ARTILCVOWkCZXacCd4ELGEkh260715.shtml)
+
++ [一天内两架战机在日本紧急降落](https://news.cctv.com/2026/07/15/ARTItbmtuetzCFF6jAUGalSj260715.shtml)
+
++ [日本频频搅局南海意欲何为](https://news.cctv.com/2026/07/15/ARTI2bm0GhLwnDWGFNd7gsm2260715.shtml)
+
++ [多国人士反对有关国家翻炒非法“裁决”挑衅生事](https://news.cctv.com/2026/07/15/ARTIzjUKusfMkIhhhnM5WUsB260715.shtml)
+
++ [菲方南海领土扩张主张不产生任何国际法效力](https://news.cctv.com/2026/07/15/ARTIW6OjUQfhLSsckjiNDxEr260715.shtml)
+
++ [两个德国人重走长征路，在探寻什么？](https://news.cctv.com/2026/07/15/ARTIIVb4LzKgVnGteH4sIyyE260715.shtml)
+
++ [伊称逾30平民在美国近期对伊朗南部袭击中死亡](https://news.cctv.com/2026/07/15/ARTIrse93Q1lXNhlj2StOsaD260715.shtml)
+
