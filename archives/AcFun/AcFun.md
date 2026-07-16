@@ -63,3 +63,5 @@
 
 + [【东方】fall.mid【ぱらどっと/Frutiger Aero/Arrange】](https://m.acfun.cn/v/?ac=48697356)
 
++ [【日语翻唱】歳月 (Live version/魂音泉)](https://m.acfun.cn/v/?ac=48685518)
+
