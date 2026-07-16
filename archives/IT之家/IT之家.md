@@ -49,3 +49,27 @@
 
 + [分期买 iPhone 17 Pro 不再自动解锁：苹果确认 T-Mobile 和 Verizon 分期用户不再享受无锁待遇](https://m.ithome.com/html/976841.htm)
 
++ [李柯：不靠美国市场，比亚迪五年内也能超越丰田登顶全球销量第一](https://m.ithome.com/html/977221.htm)
+
++ [小米汽车：澎程系列全系 CLTC 纯电续航最长 505km，电池最大 76kWh](https://m.ithome.com/html/977332.htm)
+
++ [苹果提高 Mac、iPad 等产品 Apple Care+ 价格](https://m.ithome.com/html/977238.htm)
+
++ [地震预警 App 被质疑会员优先推送消息，成都高新减灾研究所发布整改公告](https://m.ithome.com/html/977309.htm)
+
++ [苹果 2026 返校季活动开启：中国大陆用户买 Mac / iPad 送 AirTags](https://m.ithome.com/html/977268.htm)
+
++ [华为 nova 15 系列悄然涨价：全系上调 300 元，现价 2999 元起](https://m.ithome.com/html/977456.htm)
+
++ [B站被指给未成年人新号推荐擦边视频，客服回应称可开启未成年人模式、涉违规可举报](https://m.ithome.com/html/977361.htm)
+
++ [泡泡玛特创始人王宁访问苹果总部，送 LABUBU 给库克和特努斯](https://m.ithome.com/html/977458.htm)
+
++ [网传追光动画电影“三国”系列首作《三国第一部：争洛阳》撤档，官方辟谣](https://m.ithome.com/html/977245.htm)
+
++ [比亚迪发布三大系列电摩、电动自行车磷酸铁锂电池，最高 76V 60Ah](https://m.ithome.com/html/977303.htm)
+
++ [努比亚全球首款 AI 智能体手机 NaviX Ultra 官宣，内置豆包手机助手](https://m.ithome.com/html/977393.htm)
+
++ [消息称智己汽车多地经销商突然“暴雷”，官方回应“正全力加快处理进度、会积极跟进用户合理诉求”](https://m.ithome.com/html/977493.htm)
+
