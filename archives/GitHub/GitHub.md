@@ -29,3 +29,21 @@
 
 + [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use)
 
++ [apache/ossie](https://github.com/apache/ossie)
+
++ [PostHog/posthog](https://github.com/PostHog/posthog)
+
++ [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
+
++ [lobehub/lobehub](https://github.com/lobehub/lobehub)
+
++ [github/copilot-sdk](https://github.com/github/copilot-sdk)
+
++ [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
+
++ [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [ossu/computer-science](https://github.com/ossu/computer-science)
+

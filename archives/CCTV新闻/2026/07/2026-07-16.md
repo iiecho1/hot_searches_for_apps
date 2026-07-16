@@ -209,3 +209,17 @@
 
 + [美国宣布对部分巴西进口商品加征25%关税](https://news.cctv.com/2026/07/16/ARTIw5uOHO8MVwDTVdhgc6kD260716.shtml)
 
++ [伊朗称霍尔木兹海峡不会因美国施压恢复开放](https://news.cctv.com/2026/07/16/ARTI7bsnBsVTzwwB6pmtCLFU260716.shtml)
+
++ [报告强调所谓南海仲裁裁决与国际司法实践背道而驰](https://news.cctv.com/2026/07/16/ARTIAdFN6im3EM9sA190Da12260716.shtml)
+
++ [中国在人工智能领域发挥引领作用——访塞尔维亚信息和电信部长布拉蒂纳](https://news.cctv.com/2026/07/16/ARTIkKJZpmjz3qlsOcjTGaLb260716.shtml)
+
++ [俄乌进行新一轮阵亡军人遗体交换](https://news.cctv.com/2026/07/16/ARTIj0PMjAsZGdCmGRMdLftu260716.shtml)
+
++ [乌克兰议会批准科列茨基为新任总理](https://news.cctv.com/2026/07/16/ARTIt24sA6RlLNYejscMonPe260716.shtml)
+
++ [印尼一客船倾覆 已致1死24失踪](https://news.cctv.com/2026/07/16/ARTIEdU5E8mSwZcw4kio9pSc260716.shtml)
+
++ [伊朗军方：若敌对行动持续 冲突将扩展至新领域](https://news.cctv.com/2026/07/16/ARTIrZ9d8uqiQkjAb6rkYkLH260716.shtml)
+

@@ -199,3 +199,9 @@
 
 + [阿里云 PolarDB（云原生数据库领导者，兼容 MySQL/PostgreSQL/Oracle）vs AWS Aurora 云原生数据库深度对比](https://blog.csdn.net/Database_Cool_/article/details/162908353)
 
++ [【C++大型项目之高性能服务器框架 (七) 】Socket与ByteArray模块](https://blog.csdn.net/2501_93095927/article/details/162905269)
+
++ [RAG 表格解析完全指南：xParse、PaddleOCR、MinerU 实测对比并接入Agent使用](https://blog.csdn.net/zhangay1998/article/details/162939089)
+
++ [内网穿透的应用-让故障真正响起来：Prometheus、Alertmanager和钉钉告警链路打通](https://blog.csdn.net/weixin_42878111/article/details/162935241)
+
