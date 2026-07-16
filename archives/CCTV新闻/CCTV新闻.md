@@ -189,3 +189,9 @@
 
 + [欧盟仍未能就对俄第21轮制裁达成一致](https://news.cctv.com/2026/07/16/ARTIyurI0On4hjvC0Ao9Gsqi260716.shtml)
 
++ [伊朗军方：美方行动不会促使霍尔木兹海峡重新开放](https://news.cctv.com/2026/07/16/ARTI1OvGuPpfzrtob3SEgyl0260716.shtml)
+
++ [新西兰南岛发生交通事故致一香港同胞遇难 中领馆发文提醒](https://news.cctv.com/2026/07/16/ARTIehI8AiAfN5fXQtr8ooTg260716.shtml)
+
++ [约旦称击落8枚针对该国领土的伊朗导弹](https://news.cctv.com/2026/07/16/ARTIQCktDDmCFraeMqYYH4nx260716.shtml)
+
