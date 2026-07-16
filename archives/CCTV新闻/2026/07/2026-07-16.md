@@ -169,3 +169,23 @@
 
 + [英国气象局：2025年为英国有气象记录以来最热一年](https://news.cctv.com/2026/07/16/ARTIUUj62q2YNZJrSwnBROPn260716.shtml)
 
++ [印尼杜科诺火山喷发 火山灰柱高达2100米](https://news.cctv.com/2026/07/16/ARTIVdtZMEN5wc6vmFD021xE260716.shtml)
+
++ [美国防部被曝正研究对古巴军事行动方案](https://news.cctv.com/2026/07/16/ARTIWXsVjo5wDUgcitJ0uUFc260716.shtml)
+
++ [加拿大央行继续维持基准利率2.25%不变](https://news.cctv.com/2026/07/16/ARTIMkRiPJhmziY1fH0Rejev260716.shtml)
+
++ [中方强调国际刑事法院必须保持独立公正](https://news.cctv.com/2026/07/16/ARTILHvmW4LoIYjIjzNcVA52260716.shtml)
+
++ [美国务卿扬言“拆毁”国际刑事法院 消除“对美国主权的全面威胁”](https://news.cctv.com/2026/07/16/ARTIAPGdJG8AHx0Izmoxr1CY260716.shtml)
+
++ [2026世界人工智能大会开幕在即 外媒热评中国为全球南方注入“智慧动能”](https://news.cctv.com/2026/07/16/ARTIlyCL7oNRtkR50huhBKCt260716.shtml)
+
++ [伊朗议长：霍尔木兹海峡是伊朗的国家安全支柱](https://news.cctv.com/2026/07/16/ARTICUa5oDPdwOg39w85lAZ8260716.shtml)
+
++ [美副总统万斯认为单靠武力无法赢得伊朗战事](https://news.cctv.com/2026/07/16/ARTIF8q5DjZ84kY8WwEzD870260716.shtml)
+
++ [伊朗革命卫队称将摧毁美国“进攻性基础设施”](https://news.cctv.com/2026/07/16/ARTIFsIxJOVOWQRkPvGsunGM260716.shtml)
+
++ [欧盟仍未能就对俄第21轮制裁达成一致](https://news.cctv.com/2026/07/16/ARTIyurI0On4hjvC0Ao9Gsqi260716.shtml)
+

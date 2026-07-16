@@ -137,3 +137,23 @@
 
 + [HarmonyOS 图片列表滑动卡顿怎么办：中式美食菜谱封面怎么做占位、缓存和失败兜底](https://blog.csdn.net/weixin_46511491/article/details/162839100)
 
++ [ToDesk AI 实测：从远程控制到远程干活，让AI填表、选品、剪辑](https://blog.csdn.net/2401_85686768/article/details/162883215)
+
++ [OpenCloudOS 9 小型服务器 Docker 部署实战：PostgreSQL+PostGIS、Redis、Nginx 安全加固与一键脚本](https://blog.csdn.net/yelangkingwuzuhu/article/details/162913636)
+
++ [8000 条 SQL 里，180 条外连接语义跑偏——Oracle 迁 KES 那些藏得最深的坑](https://blog.csdn.net/2302_78391795/article/details/162920993)
+
++ [【花雕学编程】Arduino BLDC 之户外巡检机器人、校园快递车Stanley控制器 + 自适应增益](https://blog.csdn.net/weixin_41659040/article/details/162919925)
+
++ [【AVDTP】规范精讲[2]: 为什么蓝牙能传音乐？看懂这层架构就懂了](https://blog.csdn.net/weixin_37800531/article/details/162808405)
+
++ [国产化迁移避坑｜Oracle迁KES第一坑：外连接消除让(+)语法悄悄变味](https://blog.csdn.net/qq_32682301/article/details/162916810)
+
++ [Cookie与Session：你的网络身份密码](https://blog.csdn.net/2401_83281222/article/details/162877506)
+
++ [批量查询企业司法风险，Python + 免费API 半小时搞定](https://blog.csdn.net/Rqaqedamancy/article/details/162873333)
+
++ [2026年7月15日科技热点新闻](https://blog.csdn.net/BluerCat/article/details/162900218)
+
++ [PHP GD 库实现微信小程序邀请海报](https://blog.csdn.net/json_ligege/article/details/162833190)
+

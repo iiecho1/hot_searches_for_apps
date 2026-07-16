@@ -31,3 +31,9 @@
 
 + [抛砖引玉，大家觉得哪种后端语言对 vibe coding 更友好？个人认为还得是 go](https://www.v2ex.com/t/1227484)
 
++ [中转稳定运行第 3 个月，专注稳定 coding， Codex api 免费送 30 刀！](https://www.v2ex.com/t/1227502)
+
++ [闲鱼卖 iPhone 遇到骗子](https://www.v2ex.com/t/1227563)
+
++ [golang 的语言排名很低，并且 go 的生态也不丰富，为什么现在很多公司做一些核心业务系统的都使用 go 来实现？](https://www.v2ex.com/t/1227508)
+
