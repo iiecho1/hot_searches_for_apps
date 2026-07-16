@@ -25,3 +25,27 @@
 
 + [分期买 iPhone 17 Pro 不再自动解锁：苹果确认 T-Mobile 和 Verizon 分期用户不再享受无锁待遇](https://m.ithome.com/html/976841.htm)
 
++ [小米汽车：澎程系列全系 CLTC 纯电续航最长 505km，电池最大 76kWh](https://m.ithome.com/html/977332.htm)
+
++ [地震预警 App 被质疑会员优先推送消息，成都高新减灾研究所发布整改公告](https://m.ithome.com/html/977309.htm)
+
++ [苹果 2026 返校季活动开启：中国大陆用户买 Mac / iPad 送 AirTags](https://m.ithome.com/html/977268.htm)
+
++ [雷军：70% 小米车主每周行驶里程不超过 400 公里](https://m.ithome.com/html/977722.htm)
+
++ [华为 nova 15 系列悄然涨价：全系上调 300 元，现价 2999 元起](https://m.ithome.com/html/977456.htm)
+
++ [泡泡玛特创始人王宁访问苹果总部，送 LABUBU 给库克和特努斯](https://m.ithome.com/html/977458.htm)
+
++ [B站被指给未成年人新号推荐擦边视频，客服回应称可开启未成年人模式、涉违规可举报](https://m.ithome.com/html/977361.htm)
+
++ [小鹏 MONA L03 上市：纯电、增程动力，12.38 万元起](https://m.ithome.com/html/977784.htm)
+
++ [24.98 万元，新一代理想 L6 Ultra 上市](https://m.ithome.com/html/977765.htm)
+
++ [比亚迪发布三大系列电摩、电动自行车磷酸铁锂电池，最高 76V 60Ah](https://m.ithome.com/html/977303.htm)
+
++ [OPPO 官宣：realme 聚焦海外、一加主力中国，系统确定统一](https://m.ithome.com/html/977594.htm)
+
++ [真我副总裁徐起：realme 将按下中国市场的暂停键，后续销售、售后质保由 OPPO 全面接手](https://m.ithome.com/html/977595.htm)
+
