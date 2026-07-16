@@ -47,3 +47,5 @@
 
 + [ossu/computer-science](https://github.com/ossu/computer-science)
 
++ [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+

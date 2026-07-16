@@ -55,3 +55,5 @@
 
 + [vscode 迎来 1.129 新版本， UI 现代化重做](https://www.v2ex.com/t/1227629)
 
++ [字节 4 年美团 3 年，居然没面试](https://www.v2ex.com/t/1227670)
+

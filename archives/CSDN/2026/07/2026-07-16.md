@@ -205,3 +205,7 @@
 
 + [内网穿透的应用-让故障真正响起来：Prometheus、Alertmanager和钉钉告警链路打通](https://blog.csdn.net/weixin_42878111/article/details/162935241)
 
++ [​商业数据大作业三：自媒体运营分析​](https://blog.csdn.net/2502_92344065/article/details/162940215)
+
++ [OpenCV-Python实战——分析与加速OpenCV应用程序](https://blog.csdn.net/LOVEmy134611/article/details/161721865)
+
