@@ -195,3 +195,17 @@
 
 + [约旦称击落8枚针对该国领土的伊朗导弹](https://news.cctv.com/2026/07/16/ARTIQCktDDmCFraeMqYYH4nx260716.shtml)
 
++ [俄外交部：俄方不承认“南海仲裁案裁决”程序合法性](https://news.cctv.com/2026/07/16/ARTIWWHDQlB1rOYSgliSCbRQ260716.shtml)
+
++ [阿尔及利亚一孤儿院发生火灾 致11人死亡](https://news.cctv.com/2026/07/16/ARTIen2dD5ShD1mxbVXWV2gC260716.shtml)
+
++ [乌称基辅遭袭已致2死5伤](https://news.cctv.com/2026/07/16/ARTI2A9OKuh0SBHW2XZKzNxe260716.shtml)
+
++ [一偷渡船在利比亚近海沉没 至少50人死亡或失踪](https://news.cctv.com/2026/07/16/ARTIwSRceUL33voBPImqEzqT260716.shtml)
+
++ [美武器库存消耗加剧 特朗普再促军工增产](https://news.cctv.com/2026/07/16/ARTIamGRskZW1epKmOfXfb4B260716.shtml)
+
++ [伊朗武装部队：若该国基础设施继续遭袭 将对等回应](https://news.cctv.com/2026/07/16/ARTIDSJz6sFdn6KIve2hUjol260716.shtml)
+
++ [美国宣布对部分巴西进口商品加征25%关税](https://news.cctv.com/2026/07/16/ARTIw5uOHO8MVwDTVdhgc6kD260716.shtml)
+

@@ -157,3 +157,45 @@
 
 + [PHP GD 库实现微信小程序邀请海报](https://blog.csdn.net/json_ligege/article/details/162833190)
 
++ [Anthropic的研究撕开了AI对齐的底裤-龍德明宇](https://blog.csdn.net/fanli1998/article/details/162913057)
+
++ [MCP 协议打通 AI 与国产数据库，SQL 调优全流程一站式闭环](https://blog.csdn.net/2301_80350265/article/details/162923627)
+
++ [让运营像改Excel一样改数据：用NocoDB搭一个团队数据协作台](https://blog.csdn.net/weixin_62765017/article/details/162932702)
+
++ [CesiumJS 加载高德卫星图，靠谱的 GCJ02 纠偏方案](https://blog.csdn.net/u012123612/article/details/162906018)
+
++ [AI+HI人机协同范式：从ElementsClaw到政务智能体的分层进化论](https://blog.csdn.net/qq_36411553/article/details/162901739)
+
++ [SpringCloud 微服务架构实战：Nacos + Gateway + Feign 全链路拆解（含单体双模式）](https://blog.csdn.net/zhouzhongyan/article/details/162921376)
+
++ [Oracle 迁移 KES 头号隐性陷阱：外连接消除导致数据丢失全解](https://blog.csdn.net/weixin_43151418/article/details/162921692)
+
++ [让ZooKeeper跑出高可用:从三节点集群到公网连接测试](https://blog.csdn.net/2401_87629362/article/details/162935738)
+
++ [复杂表格文档解析实测：供应链结算单的结构还原、字段绑定与 Agent 接入](https://blog.csdn.net/qq_46092061/article/details/162873929)
+
++ [把每天的想法留在自己手里：用DailyTxT做一个私有日记空间](https://blog.csdn.net/Z_oioihoii/article/details/162934684)
+
++ [Linux系统篇（二十）——文件（四）：吃透 Linux 磁盘与文件系统：一张原理图讲清块、inode、分区底层逻辑](https://blog.csdn.net/2502_94387000/article/details/162880780)
+
++ [Oracle迁移KES避坑指南——外连接消除隐性陷阱](https://blog.csdn.net/COLLINSXU/article/details/162921310)
+
++ [Uni-app打包成安卓apk项目](https://blog.csdn.net/2401_82352441/article/details/162911303)
+
++ [2026 开源视频生成模型全景图：按 9 类任务路由比按参数量选模型更可靠](https://blog.csdn.net/w776341482/article/details/162922354)
+
++ [【 苍穹外卖day7 | 缓存 】](https://blog.csdn.net/2502_94242477/article/details/162875836)
+
++ [AWS RDS MySQL 8.0 升级到 8.4 完整操作指南](https://blog.csdn.net/fly1574/article/details/162921296)
+
++ [Grok CLI 偷传代码库事件复盘：智能体安全与国产开源智能体的本地优先路径](https://blog.csdn.net/zhanbei_/article/details/162844972)
+
++ [龙蜥社区发起「Skill创造营」，9大方向全面征集](https://blog.csdn.net/CC1991_/article/details/162874409)
+
++ [deepin 25.2 自研合成器 Treeland 进度追踪：从 X11 到 Wayland 的迁移之路](https://blog.csdn.net/2401_89105749/article/details/162868105)
+
++ [Bonsai 27B：一个能塞进手机的 27B 大模型，意味着什么？](https://blog.csdn.net/aidoudoulong/article/details/162913907)
+
++ [阿里云 PolarDB（云原生数据库领导者，兼容 MySQL/PostgreSQL/Oracle）vs AWS Aurora 云原生数据库深度对比](https://blog.csdn.net/Database_Cool_/article/details/162908353)
+
