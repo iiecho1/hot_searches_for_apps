@@ -165,3 +165,7 @@
 
 + [美一天两波打击剑指霍尔木兹海峡 伊“无意谈判”再袭美军基地](https://news.cctv.com/2026/07/16/ARTIHaAhuLeXrpp3IVGzfxXj260716.shtml)
 
++ [伊朗称拦截摧毁一架敌方MQ-9无人机](https://news.cctv.com/2026/07/16/ARTIt9R9ZbJAEVDot3sdeDww260716.shtml)
+
++ [英国气象局：2025年为英国有气象记录以来最热一年](https://news.cctv.com/2026/07/16/ARTIUUj62q2YNZJrSwnBROPn260716.shtml)
+

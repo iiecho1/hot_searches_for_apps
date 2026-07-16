@@ -21,3 +21,13 @@
 
 + [同时干超过 3 个，有点吃力](https://www.v2ex.com/t/1227341)
 
++ [专升本前端毕业 1 年，从初创到大厂，我的开源项目上了 github trending，顺利聊聊做开源的收获](https://www.v2ex.com/t/1227470)
+
++ [有老哥买过亚朵星球深睡枕吗](https://www.v2ex.com/t/1227424)
+
++ [答为什么大多数医生都会开中成药](https://www.v2ex.com/t/1227483)
+
++ [[HyperAPI]gpt pro 0.1x 倍率，留 ID 送额度](https://www.v2ex.com/t/1227422)
+
++ [抛砖引玉，大家觉得哪种后端语言对 vibe coding 更友好？个人认为还得是 go](https://www.v2ex.com/t/1227484)
+
