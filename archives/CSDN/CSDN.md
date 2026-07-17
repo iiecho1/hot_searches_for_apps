@@ -103,3 +103,5 @@
 
 + [深度学习实战-基于InceptionV3的香蕉叶斑病图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159959585)
 
++ [AI 编程计费变革：GitHub Copilot AI Credits 用量计费规则详解](https://blog.csdn.net/NovaTech_/article/details/162934427)
+

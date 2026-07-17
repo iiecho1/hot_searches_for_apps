@@ -163,3 +163,5 @@
 
 + [监测机构：加拿大野火烟雾或波及世界杯决赛举办地](https://news.cctv.com/2026/07/18/ARTIRdI9lzu1ewHN9CGwVMCG260718.shtml)
 
++ [伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡](https://news.cctv.com/2026/07/18/ARTI3LQdh3EMNcdO0QGTiqnY260718.shtml)
+
