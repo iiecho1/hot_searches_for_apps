@@ -169,3 +169,9 @@
 
 + [美军空袭伊朗南部机场、桥梁等多处基础设施](https://news.cctv.com/2026/07/17/ARTIfZL0rYErw5lENsjvLVAj260717.shtml)
 
++ [枫丹白露森林近一成焚毁 马克龙说对纵火“零容忍”](https://news.cctv.com/2026/07/17/ARTIalYBgzdZKIMwjHJkv4s9260717.shtml)
+
++ [约旦称拦截并击落3枚进入该国领空的伊朗导弹](https://news.cctv.com/2026/07/17/ARTIDhusGzrfPz7yGjEFCcvL260717.shtml)
+
++ [美国纽约直升机坠河事件最新调查：有鸟类撞击痕迹](https://news.cctv.com/2026/07/17/ARTIkT7D97a8OyZq14hjOmqa260717.shtml)
+

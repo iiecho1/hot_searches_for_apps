@@ -119,3 +119,39 @@
 
 + [查询速度提升 98.9%，索引吞吐量提升 4 倍：系统化诊断 Elasticsearch 性能](https://blog.csdn.net/UbuntuTouch/article/details/162921338)
 
++ [基于DeepSeek+魔珐星云具身交互智能的垃圾分类助手落地实战](https://blog.csdn.net/qq_38881495/article/details/162939548)
+
++ [ECCV顶会论文引发海外热议：实测360 AI精准可控路线下的工具落地价值 ](https://blog.csdn.net/weixin_37800531/article/details/162946324)
+
++ [Re：Linux系统篇（四十四）信号篇·二：Linux 信号的产生原理：硬件异常、软件条件与内核处理机制](https://blog.csdn.net/Z2314246476/article/details/162817745)
+
++ [用大模型生成图表配置：自然语言到可视化代码的落地架构](https://blog.csdn.net/rain_sxr/article/details/162940779)
+
++ [【数据库】CRUD-- 增删改](https://blog.csdn.net/2601_95402431/article/details/162664897)
+
++ [Solana TPU/TPUv2 架构解析：交易入口、预执行与转发策略的延迟优化](https://blog.csdn.net/qq_40635035/article/details/162941577)
+
++ [Web 反向代理企业实践：nginx 安全配置与上网代理风控](https://blog.csdn.net/cui_yonghua/article/details/162827550)
+
++ [创业团队的日志系统设计：从ELK到Loki的成本与性能对比](https://blog.csdn.net/qq_35160742/article/details/162913426)
+
++ [【共创季稿事节】HarmonyOS 6.1 智慧语音服务接入实战：应用内的语音交互设计](https://blog.csdn.net/u014727709/article/details/162938629)
+
++ [AI 辅助的 CSS 重构方案：自动识别冗余样式、选择器优化与层级扁平化](https://blog.csdn.net/cannonmonster01/article/details/162941453)
+
++ [RAG 多模态检索方案：图片 + 文本的联合 Embedding 工程实践](https://blog.csdn.net/baronbool/article/details/162913617)
+
++ [微服务网关的性能调优——从 Spring Cloud Gateway 到 Kong 的多维对比评测](https://blog.csdn.net/alex_goden/article/details/162913706)
+
++ [Oracle分库分表完全解读：架构原理、实现策略与最佳实践](https://blog.csdn.net/qq_41840843/article/details/162901172)
+
++ [【 苍穹外卖day7 | 缓存 】](https://blog.csdn.net/2502_94242477/article/details/162875836)
+
++ [线性代数实战：初等变换求逆与解方程组（附理论、应用与Python源码）](https://blog.csdn.net/eidolon_foot/article/details/162960449)
+
++ [Windows和iPhone传文件太麻烦？PairDrop可以自己搭一个隔空投送](https://blog.csdn.net/AIRoses/article/details/162963462)
+
++ [ComfyUI v0.28.0更新：安全修复、Qwen3-VL崩溃修复、AMD与Turing性能优化、文本叠加与3D高级保存全面升级](https://blog.csdn.net/weixin_48502062/article/details/162937508)
+
++ [2026年7月安卓模拟器横评：MuMu6.0 vs 雷电14 vs 逍遥，多开到底谁更强？](https://blog.csdn.net/2302_79376097/article/details/162945417)
+
