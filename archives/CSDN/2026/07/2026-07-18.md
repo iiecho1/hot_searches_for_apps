@@ -101,3 +101,5 @@
 
 + [几块钱+几分钟=两个完整工具：我用qwen3.7-max做了一次AI编程实测](https://blog.csdn.net/2301_76341691/article/details/162971947)
 
++ [深度学习实战-基于InceptionV3的香蕉叶斑病图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/159959585)
+
