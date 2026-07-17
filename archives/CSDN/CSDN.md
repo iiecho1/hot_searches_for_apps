@@ -165,3 +165,21 @@
 
 + [国产开源 MoE 三强横评：Qwen3 235B / Kimi K2 / DeepSeek V3.1 深度技术解读](https://blog.csdn.net/LDZKKJ/article/details/162945677)
 
++ [OpenClaw 实战：智能文档助手——从问答到生成的完整方案](https://blog.csdn.net/sinat_41617212/article/details/162861261)
+
++ [Astrbot&Napcat 云服务器和本地部署并接入QQ完整小白教程](https://blog.csdn.net/2501_93200119/article/details/162975163)
+
++ [CodeBuddy 中使用 MCP 连接 MySQL 数据库 — 完整指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/162922503)
+
++ [基于三维光流估计算法的医学器官运动估计](https://blog.csdn.net/ccsss22/article/details/162973725)
+
++ [从文本交互到具身交互智能： 我给 门店导购 Agent 装了个可实时互动的 3D 身体](https://blog.csdn.net/qq_38951259/article/details/162972243)
+
++ [Oracle RAC：共享一切的无敌舰队](https://blog.csdn.net/qq_41840843/article/details/162967725)
+
++ [告别IDE和DBA工具之间反复横跳：用自然语言调优KES数据库，这套MCP方案做到了](https://blog.csdn.net/weixin_52908342/article/details/162961551)
+
++ [Fable 5 的 7 月 19 日不是发布延期：模型可用性正在变成动态资源（九维可用性 + SLO 重构）](https://blog.csdn.net/w776341482/article/details/162957102)
+
++ [几块钱+几分钟=两个完整工具：我用qwen3.7-max做了一次AI编程实测](https://blog.csdn.net/2301_76341691/article/details/162971947)
+

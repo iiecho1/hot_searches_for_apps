@@ -49,3 +49,13 @@
 
 + [真我副总裁徐起：realme 将按下中国市场的暂停键，后续销售、售后质保由 OPPO 全面接手](https://m.ithome.com/html/977595.htm)
 
++ [消息称智己汽车多地经销商突然“暴雷”，官方回应“正全力加快处理进度、会积极跟进用户合理诉求”](https://m.ithome.com/html/977493.htm)
+
++ [统一标准、智能通知、场景化规范，vivo、小米、OPPO、荣耀共建公平运存机制](https://m.ithome.com/html/977801.htm)
+
++ [零跑 B01/B10 双车上市：售价 9.58 万起，长续航全域 800V](https://m.ithome.com/html/977754.htm)
+
++ [小鹏 MONA L03 新车“战绩”刷新，上市 1 小时大定 46859 台](https://m.ithome.com/html/977803.htm)
+
++ [华为撤回“世界”商标申请，此前该商标使用范围包括汽车等](https://m.ithome.com/html/977578.htm)
+
