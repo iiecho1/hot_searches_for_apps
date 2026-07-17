@@ -25,3 +25,27 @@
 
 + [真我副总裁徐起：realme 将按下中国市场的暂停键，后续销售、售后质保由 OPPO 全面接手](https://m.ithome.com/html/977595.htm)
 
++ [小米 SU7 碰撞测试博主高某被判刑一年八个月，罚款 10 万元](https://m.ithome.com/html/978032.htm)
+
++ [ofo 小黄车停更 5 年突然发文，网友喊话退押金](https://m.ithome.com/html/978104.htm)
+
++ [雷军：小米澎程车型亏电油耗很低，用车成本和保养成本也很低](https://m.ithome.com/html/977856.htm)
+
++ [比亚迪公布“8 系唐”新车官图：承袭盛唐恢弘气韵，纯电续航超 800km](https://m.ithome.com/html/977954.htm)
+
++ [存储历史性革命！复旦大学发明出“量子闪存”技术，一个电子就是一比特](https://m.ithome.com/html/977999.htm)
+
++ [Kimi 最强模型：K3 登场，Frontend Code Arena 跑分力压 Claude Fable 5 登顶](https://m.ithome.com/html/977829.htm)
+
++ [小米法务部回应某博主被判刑一年八个月：持续依法维权、坚决捍卫公司权益和声誉](https://m.ithome.com/html/978196.htm)
+
++ [滴滴：女司机可自主选择是否参与“她计划”，拒单管理规则和平台全量司机一致](https://m.ithome.com/html/978278.htm)
+
++ [12306 回应“带娃购票被分到上铺，取消三次后被限购”：仅 60 岁以上老人自动优先分配下铺](https://m.ithome.com/html/978271.htm)
+
++ [（更新）英特尔酷睿 Ultra 9 处理器（第 4 代）图标曝光，Nova Lake 将分期推出](https://m.ithome.com/html/977828.htm)
+
++ [开发者用妻子睡颜做参考，打造出黑暗奇幻 RPG 游戏 BOSS](https://m.ithome.com/html/977986.htm)
+
++ [阿里千问输入法移动版上线：无广告无弹窗无需注册，支持 AI 自动润色](https://m.ithome.com/html/978194.htm)
+
