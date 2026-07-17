@@ -177,3 +177,7 @@
 
 + [中方驳斥特朗普“中国干预美国大选”论调：无稽之谈](https://news.cctv.com/2026/07/17/ARTI8bazMupBCmLaK7UivMgu260717.shtml)
 
++ [伯纳姆当选英国工党党首 将接任首相](https://news.cctv.com/2026/07/17/ARTIqn0a9demYkK2pdNkiItS260717.shtml)
+
++ [安迪·伯纳姆当选英国工党党首，将接替斯塔默出任英国首相](https://news.cctv.com/2026/07/17/ARTI27UtDNZvJM1l3oaJl11D260717.shtml)
+
