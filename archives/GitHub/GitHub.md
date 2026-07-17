@@ -35,3 +35,15 @@
 
 + [ossu/computer-science](https://github.com/ossu/computer-science)
 
++ [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+
++ [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops)
+
++ [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+
++ [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+
++ [docusealco/docuseal](https://github.com/docusealco/docuseal)
+
++ [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+

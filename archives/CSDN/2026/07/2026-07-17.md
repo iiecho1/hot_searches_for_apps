@@ -155,3 +155,13 @@
 
 + [2026年7月安卓模拟器横评：MuMu6.0 vs 雷电14 vs 逍遥，多开到底谁更强？](https://blog.csdn.net/2302_79376097/article/details/162945417)
 
++ [通义千问 + 魔珐星云落地身交互智能 | 从0-1数学辅导 Agent 实战](https://blog.csdn.net/lrq13965748542/article/details/162966978)
+
++ [【Linux】二十一.吃透 Linux 信号（上）](https://blog.csdn.net/2501_93351213/article/details/162815132)
+
++ [FastAPI python web开发- 集成SQLAlchemy ORM 操作数据库](https://blog.csdn.net/caoli201314/article/details/162964162)
+
++ [临床预测+医学RAG=结构化EHR建模能力+医学大模型应用能力（五）](https://blog.csdn.net/kkiron/article/details/162896747)
+
++ [国产开源 MoE 三强横评：Qwen3 235B / Kimi K2 / DeepSeek V3.1 深度技术解读](https://blog.csdn.net/LDZKKJ/article/details/162945677)
+
