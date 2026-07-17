@@ -159,3 +159,7 @@
 
 + [伊朗多处民用设施遭袭受损](https://news.cctv.com/2026/07/15/ARTIS1TIrP6g5fCkTpUWMhBq260715.shtml)
 
++ [专家：政策拖累汇率 日元对美元汇率或将创新低](https://news.cctv.com/2026/07/18/ARTIyGX52jjecyzifpAsX89G260718.shtml)
+
++ [监测机构：加拿大野火烟雾或波及世界杯决赛举办地](https://news.cctv.com/2026/07/18/ARTIRdI9lzu1ewHN9CGwVMCG260718.shtml)
+
