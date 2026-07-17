@@ -103,3 +103,19 @@
 
 + [32-Token明文存储-把凭据边界收到安全仓储里](https://blog.csdn.net/AD0227/article/details/162942679)
 
++ [猫头虎AI赠书第14期赠书活动:《Claude Code技术架构深度解析：Harness工程与AI编程新范式》](https://blog.csdn.net/qq_44866828/article/details/162910465)
+
++ [自主可控筑基，AI赋能护航——从国家信创战略看 TimechoAI 时序大模型的安全可靠之道](https://blog.csdn.net/qq_57761637/article/details/162945961)
+
++ [【花雕学编程】Arduino BLDC 之轮式机器人轨迹跟踪与负载自适应系统](https://blog.csdn.net/weixin_41659040/article/details/162897790)
+
++ [复杂表格文档解析实测：供应链结算单的结构还原、字段绑定与 Agent 接入](https://blog.csdn.net/qq_46092061/article/details/162873929)
+
++ [Oracle迁移KES避坑指南——外连接消除隐性陷阱](https://blog.csdn.net/COLLINSXU/article/details/162921310)
+
++ [​商业数据大作业三：自媒体运营分析​](https://blog.csdn.net/2502_92344065/article/details/162940215)
+
++ [Outlook 添加附件闪退：yi赛通 DynamicDll64.dll 冲突排查](https://blog.csdn.net/weixin_47431459/article/details/162909465)
+
++ [查询速度提升 98.9%，索引吞吐量提升 4 倍：系统化诊断 Elasticsearch 性能](https://blog.csdn.net/UbuntuTouch/article/details/162921338)
+
