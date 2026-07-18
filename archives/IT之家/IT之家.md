@@ -25,3 +25,15 @@
 
 + [开发者用妻子睡颜做参考，打造出黑暗奇幻 RPG 游戏 BOSS](https://m.ithome.com/html/977986.htm)
 
++ [消息称字节新一代豆包手机备货数十万台，AI 不再直接操作头部应用](https://m.ithome.com/html/978312.htm)
+
++ [JDG、AL、BLG 均止步八强：《英雄联盟》2026 EWC 淘汰赛 DK 2-1 战胜 BLG 晋级半决赛，T1 2-0 战胜 HLE](https://m.ithome.com/html/978322.htm)
+
++ [苹果 iPhone 18 Pro Max 影像规格再曝：可变光圈，主摄索尼 IMX905 传感器](https://m.ithome.com/html/978046.htm)
+
++ [微软 2026 款 Surface Laptop 证明：8GB 内存难以满足 Win11 需求，日常使用多次卡顿](https://m.ithome.com/html/978321.htm)
+
++ [消息称华为 Pura X 手机目前销量 154W&#177;，阔折叠 Pura X Max 销量 58W&#177; 均超预期](https://m.ithome.com/html/978151.htm)
+
++ [阿维塔 07L 大五座 SUV 预售 24.99 万元起：华为乾崑智驾 + 鸿蒙座舱，张凌赫代言](https://m.ithome.com/html/978284.htm)
+

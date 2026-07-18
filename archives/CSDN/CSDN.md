@@ -133,3 +133,11 @@
 
 + [【共创季稿事节】「毕业季 · 鸿蒙同行」HarmonyOS 应用开发者高级认证备考全攻略](https://blog.csdn.net/u014727709/article/details/163001225)
 
++ [madvise与fadvise的预读优化机制：内核页面回收策略与用户态内存管理的博弈](https://blog.csdn.net/jiang_style/article/details/163001338)
+
++ [【苍穹外卖 day10｜Spring Task、WebSocket 与来单提醒、催单铃声实现】](https://blog.csdn.net/2502_94242477/article/details/162876623)
+
++ [OpenHarmony PC 开发者工具套件深度解析：命令行、运行时与版本控制的全面武装](https://blog.csdn.net/QWERWTWE/article/details/162987904)
+
++ [库的原理:目标文件,ELF格式,程序加载](https://blog.csdn.net/jiaomorning/article/details/162962173)
+
