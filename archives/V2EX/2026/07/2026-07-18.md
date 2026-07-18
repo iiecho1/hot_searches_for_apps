@@ -61,3 +61,5 @@
 
 + [二手手机面交这个流程算啥水平？](https://www.v2ex.com/t/1228150)
 
++ [PowerShell 和 Codex 在打架？可以试试这份提示词](https://www.v2ex.com/t/1228204)
+

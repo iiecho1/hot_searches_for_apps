@@ -173,3 +173,9 @@
 
 + [日本发生两起集体食物中毒 百余人出现症状](https://news.cctv.com/2026/07/18/ARTIrNy48b9MsIMHs4bCBvcL260718.shtml)
 
++ [阿尔及利亚宪法法院公布国民议会选举最终结果](https://news.cctv.com/2026/07/18/ARTIQVAW7iPjPWwRUR8PrycM260718.shtml)
+
++ [伊朗卫生部：自6月27日以来美对伊袭击已致至少50人死亡](https://news.cctv.com/2026/07/18/ARTIAWL9ZOqIU4kLjvX5840W260718.shtml)
+
++ [印度古吉拉特邦一鞭炮厂发生爆炸 至少8人死亡](https://news.cctv.com/2026/07/18/ARTIywFvIc9Wnns9QuLl6rXS260718.shtml)
+
