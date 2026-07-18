@@ -57,3 +57,7 @@
 
 + [大家用 AI 写代码真实感受是啥？](https://www.v2ex.com/t/1228212)
 
++ [2026，我将博客部署到了 Cloudflare（CF）](https://www.v2ex.com/t/1228199)
+
++ [二手手机面交这个流程算啥水平？](https://www.v2ex.com/t/1228150)
+
