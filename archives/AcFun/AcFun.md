@@ -61,3 +61,5 @@
 
 + [TJPW SUMMER SUN PRINCESS  26 2026.07.18](https://m.acfun.cn/v/?ac=48703801)
 
++ [【DAY1】MyGO!!!!! 9th LIVE「つなぎ目の向こうに」 DAY1](https://m.acfun.cn/v/?ac=48704751)
+

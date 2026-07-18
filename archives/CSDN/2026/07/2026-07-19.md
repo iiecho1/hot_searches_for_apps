@@ -101,3 +101,35 @@
 
 + [现代游戏引擎学习路线](https://blog.csdn.net/qq_35987777/article/details/162976071)
 
++ [用大模型生成图表配置：自然语言到可视化代码的落地架构](https://blog.csdn.net/rain_sxr/article/details/162940779)
+
++ [CANNBot 实操体验：基于Ascend C的矩阵乘法算子开发](https://blog.csdn.net/sinat_41617212/article/details/162978577)
+
++ [中小制造与贸易企业：采购、库存、销售如何打通进销存协同](https://blog.csdn.net/zhouzhongyan/article/details/162988060)
+
++ [VLAN 与安全隔离：从配置错误到 VLAN Hopping 攻击](https://blog.csdn.net/cui_yonghua/article/details/163002071)
+
++ [K100_AI两卡全离线部署超长音视频说话人角色确认转录系统（多轮推理）](https://blog.csdn.net/pla88888888/article/details/162969112)
+
++ [基于 MicroBlaze 的 FPGA TCP在线升级](https://blog.csdn.net/qq_42043241/article/details/162996594)
+
++ [【Java项目-企悦抽】10-用户与认证模块-实现用户登录02-完成鉴权+验证码、密码登录逻辑](https://blog.csdn.net/2301_81982617/article/details/162972655)
+
++ [Flutter控制流语句实战：在鸿蒙应用中根据性别显示不同图标](https://blog.csdn.net/feng8403000/article/details/163002278)
+
++ [HarmonyOS ArkTS 复合动画与多页导航：从星空运势应用看 Swiper、Stack 与旋转动画的协同](https://blog.csdn.net/2501_93573294/article/details/162991149)
+
++ [Spring IoC与DI：解耦实战指南](https://blog.csdn.net/2401_83281222/article/details/162946083)
+
++ [nginx 1.31.3 正式发布：三大高危安全漏洞集中修复，HTTP/2、上游代理、隧道机制全面升级](https://blog.csdn.net/weixin_48502062/article/details/162996329)
+
++ [【粉丝福利社】Windows安全内幕：身份验证、授权与审计（AAA）核心技术详解](https://blog.csdn.net/aa2528877987/article/details/162977211)
+
++ [鸿蒙HarmonyOS AI 应用安全红线实战 —— API Key 管理、网络安全、工具安全、发布扫描](https://blog.csdn.net/weixin_39706922/article/details/162977730)
+
++ [Prometheus + Grafana + Alertmanager 高可用监控系统从零搭建指南](https://blog.csdn.net/2301_80335585/article/details/162978101)
+
++ [鸿蒙 PC 网络编程与实时通信实战：TCP/UDP Socket + WebSocket 全链路指南](https://blog.csdn.net/2501_93575716/article/details/162978706)
+
++ [【共创季稿事节】「毕业季 · 鸿蒙同行」HarmonyOS 应用开发者高级认证备考全攻略](https://blog.csdn.net/u014727709/article/details/163001225)
+
