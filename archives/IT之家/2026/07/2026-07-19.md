@@ -37,3 +37,27 @@
 
 + [阿维塔 07L 大五座 SUV 预售 24.99 万元起：华为乾崑智驾 + 鸿蒙座舱，张凌赫代言](https://m.ithome.com/html/978284.htm)
 
++ [我魂都吓没了：网友反馈收到 1.5 万亿美元亚马逊 AWS 账单](https://m.ithome.com/html/978447.htm)
+
++ [苹果多款 iPhone 在日本市场涨价，最高涨幅达 11.3%](https://m.ithome.com/html/978330.htm)
+
++ [小米 18 系列新机疑入网，支持 UWB 超宽带技术](https://m.ithome.com/html/978471.htm)
+
++ [腾讯 WorkBuddy 正式版 App 发布，安卓 / iOS / 鸿蒙三端同步上线](https://m.ithome.com/html/978468.htm)
+
++ [上市 3 个多月，消息称华为畅享 90 Pro Max 手机单品激活超 310 万台](https://m.ithome.com/html/978518.htm)
+
++ [国区个人 11 元 / 月 → 12 元 / 月，苹果 Apple Music 订阅全球多地涨价](https://m.ithome.com/html/978341.htm)
+
++ [华为 MateBook Pro 获国家级人工智能认证 L3 级首证](https://m.ithome.com/html/978446.htm)
+
++ [鸿蒙智行：问界 M9 纯电续航“成渝往返”挑战为商品车，不存在特调情况](https://m.ithome.com/html/978494.htm)
+
++ [喜剧动画电影《八仙！》豆瓣开分 8.3，暂列 2026 暑期档新片第一](https://m.ithome.com/html/978486.htm)
+
++ [小米 REDMI K Pad 2 平板新增 16+256GB 版本：8.8 英寸、天玑 9500 芯片](https://m.ithome.com/html/978490.htm)
+
++ [“8&#183;8 服务消费节”启动：微信、支付宝、抖音、云闪付、京东、美团、携程等十余家平台齐聚，58 同城推“15 天保价”](https://m.ithome.com/html/978574.htm)
+
++ [长城 H10 预售：五座 / 六座双版本，限时权益价 21.48 万元起](https://m.ithome.com/html/978573.htm)
+
