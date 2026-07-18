@@ -105,3 +105,15 @@
 
 + [AI 编程计费变革：GitHub Copilot AI Credits 用量计费规则详解](https://blog.csdn.net/NovaTech_/article/details/162934427)
 
++ [让数据看板随时可见：Grafana + cpolar 远程访问实战](https://blog.csdn.net/Mrxiao_bo/article/details/162976485)
+
++ [AI 视频创作的“GitHub 化“：Skill 标准化、画布编排与多 Agent 协同的一站式方案](https://blog.csdn.net/weixin_52908342/article/details/162968753)
+
++ [Linux命令-rsync（远程/本地文件同步 —— 增量传输的备份与镜像神器）](https://blog.csdn.net/qq_32808455/article/details/162954168)
+
++ [飞算Java项目记录：把电子病历、检验报告和药品库存接入临床协同流程](https://blog.csdn.net/2301_76297596/article/details/162943048)
+
++ [把截图识别和飞书通知串起来：Windows上做一个办公自动化机器人](https://blog.csdn.net/2301_80840905/article/details/162976306)
+
++ [网络地址转换（NAT）与安全：映射原理、打洞与内网暴露风险](https://blog.csdn.net/cui_yonghua/article/details/162827635)
+
