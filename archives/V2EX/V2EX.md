@@ -27,3 +27,17 @@
 
 + [OpenCode go 订阅开始区分模型提供额度， kimi-k3、deepseek-v4-pro 等只有 15$的额度，请各位注意用量。](https://www.v2ex.com/t/1227918)
 
++ [深圳的西瓜是镶了金边吗，这么贵](https://www.v2ex.com/t/1228103)
+
++ [现在中国哪里还能看到肉眼看到银河？](https://www.v2ex.com/t/1228090)
+
++ [kimi k3 买的 199 会员，终于有随便用的感觉了](https://www.v2ex.com/t/1228031)
+
++ [假如没有厕纸了，你用什么？](https://www.v2ex.com/t/1228159)
+
++ [强烈推荐一款性价比极高的 Linux 本搞 vibe coding](https://www.v2ex.com/t/1227981)
+
++ [18 号到期的重置，本来想着今天用的，结果。。。](https://www.v2ex.com/t/1228155)
+
++ [Kimi k3， gpt5.6， gemini3.1 生成的单页面哪个好看](https://www.v2ex.com/t/1228104)
+

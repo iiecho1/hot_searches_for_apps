@@ -165,3 +165,7 @@
 
 + [伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡](https://news.cctv.com/2026/07/18/ARTI3LQdh3EMNcdO0QGTiqnY260718.shtml)
 
++ [欧盟呼吁以色列停止在约旦河西岸扩建定居点](https://news.cctv.com/2026/07/18/ARTIiJAZcrWUP7kFwHa6X5Yz260718.shtml)
+
++ [俄罗斯抗议爱沙尼亚拆除苏联阵亡官兵纪念碑](https://news.cctv.com/2026/07/18/ARTI7Qk0CvSBKbRCLAWPxzjk260718.shtml)
+
