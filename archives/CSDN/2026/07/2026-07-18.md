@@ -117,3 +117,29 @@
 
 + [网络地址转换（NAT）与安全：映射原理、打洞与内网暴露风险](https://blog.csdn.net/cui_yonghua/article/details/162827635)
 
++ [国产大模型×魔珐星云：让AI从“能思考“到“能表达“的城市展厅具身交互智能体](https://blog.csdn.net/qq_57761637/article/details/162969149)
+
++ [从MoSA到一条研究路线：拆解360人工智能研究院2026上半年的6篇顶会论文](https://blog.csdn.net/2401_86326742/article/details/162971423)
+
++ [从微服务到GIS：技术选型与架构边界的实战思考](https://blog.csdn.net/eidolon_foot/article/details/162975677)
+
++ [【Java项目-企悦抽】09-用户与认证模块-实现用户登录01-获取和缓存验证码](https://blog.csdn.net/2301_81982617/article/details/162971096)
+
++ [面向Skills学习：用领域知识工程驱动 Code Agent 学习](https://blog.csdn.net/2301_80956187/article/details/162933270)
+
++ [快速MVP开发，哪个AI编程工具最高效？2026年开发者实测选型指南](https://blog.csdn.net/weixin_42959937/article/details/162906686)
+
++ [国产开源 MoE 三强横评：Qwen3 235B / Kimi K2 / DeepSeek V3.1 深度技术解读](https://blog.csdn.net/LDZKKJ/article/details/162945677)
+
++ [OpenHarmony 权限统一封装 PermissionUtil（动态权限申请全套方案 API23+）](https://blog.csdn.net/Helen_cai/article/details/162946839)
+
++ [一文吃透 HTTP、TCP、UDP 底层原理：从报文结构到内核实现](https://blog.csdn.net/2302_76781010/article/details/162945663)
+
++ [一文搞懂 K8s ConfigMap 挂载：path、subPath 与 Spring Boot 配置加载全链路](https://blog.csdn.net/IT_Octopus/article/details/162971889)
+
++ [【three.js】用一个 HTML 文件写出写实风 3D 跑酷游戏 —— Chrome 恐龙 3D 复刻实战分享](https://blog.csdn.net/qq_25755645/article/details/162947273)
+
++ [05-Flutter 鸿蒙实战 05：照片上传功能，image_picker + Multipart 进度上传](https://blog.csdn.net/weixin_62511680/article/details/162935394)
+
++ [KingbaseES开发接口适配实测：JDBC/MyBatisPlus/Druid/Spring Boot/Seata/Nacos全链路配置指南](https://blog.csdn.net/2601_95710170/article/details/162965700)
+

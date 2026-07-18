@@ -41,3 +41,9 @@
 
 + [Kimi k3， gpt5.6， gemini3.1 生成的单页面哪个好看](https://www.v2ex.com/t/1228104)
 
++ [纯功利的角度, 如何为孩子选兴趣班？](https://www.v2ex.com/t/1228170)
+
++ [Claude 帮我来逆向 真的很有意思 有人也研究这个么](https://www.v2ex.com/t/1228058)
+
++ [Telegram 一搜全是灰产群，做了个过滤版收录站，想听听看法？](https://www.v2ex.com/t/1228077)
+
