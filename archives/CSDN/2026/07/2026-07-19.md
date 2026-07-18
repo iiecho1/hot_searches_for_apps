@@ -143,3 +143,9 @@
 
 + [C++11核心特性全解：从C++98到现代C++的全面升级（万字总结）](https://blog.csdn.net/mogreat/article/details/162997935)
 
++ [端侧推理的差分隐私保护方案设计：在模型输出层注入拉普拉斯噪声的精度-隐私权衡分析](https://blog.csdn.net/qq_42431428/article/details/163001311)
+
++ [让大模型画图表：自然语言转可视化配置的前端落地与校验](https://blog.csdn.net/rain_sxr/article/details/163001242)
+
++ [前端构建产物的长期缓存策略：文件名哈希、模块联邦与 CDN 协同的工程实践](https://blog.csdn.net/cannonmonster01/article/details/162941893)
+
