@@ -141,3 +141,5 @@
 
 + [库的原理:目标文件,ELF格式,程序加载](https://blog.csdn.net/jiaomorning/article/details/162962173)
 
++ [C++11核心特性全解：从C++98到现代C++的全面升级（万字总结）](https://blog.csdn.net/mogreat/article/details/162997935)
+
