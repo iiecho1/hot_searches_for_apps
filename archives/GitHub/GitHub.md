@@ -29,3 +29,19 @@
 
 + [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 
++ [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
+
++ [apache/ossie](https://github.com/apache/ossie)
+
++ [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
+
++ [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
++ [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)
+
++ [lyogavin/airllm](https://github.com/lyogavin/airllm)
+
++ [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)
+
++ [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+
