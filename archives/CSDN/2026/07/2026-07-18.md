@@ -143,3 +143,9 @@
 
 + [KingbaseES开发接口适配实测：JDBC/MyBatisPlus/Druid/Spring Boot/Seata/Nacos全链路配置指南](https://blog.csdn.net/2601_95710170/article/details/162965700)
 
++ [【C++大型项目之高性能服务器框架 (七) 】Socket与ByteArray模块](https://blog.csdn.net/2501_93095927/article/details/162905269)
+
++ [实战心得：利用PaddleOCR彻底解决大模型无法解析图片型PDF的问题](https://blog.csdn.net/beautifulmemory/article/details/162974700)
+
++ [ONLYOFFICE AI Agent 深度解析：在线 Office 正从编辑器走向智能工作平台](https://blog.csdn.net/weixin_42258782/article/details/162991184)
+
