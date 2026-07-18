@@ -159,3 +159,9 @@
 
 + [菲方南海领土扩张主张不产生任何国际法效力](https://news.cctv.com/2026/07/15/ARTIW6OjUQfhLSsckjiNDxEr260715.shtml)
 
++ [克罗地亚副总理说该国非洲猪瘟疫情形势“非常严峻”](https://news.cctv.com/2026/07/19/ARTIjY9TqBd0RZg0CvUZv97p260719.shtml)
+
++ [以军空袭加沙城西部一栋居民楼 致5人死亡多人受伤](https://news.cctv.com/2026/07/19/ARTIL1rG1rjyvqtnjlZ3Z5d4260719.shtml)
+
++ [美官员：约旦美军基地5天遭4袭 表明伊导弹库存充足](https://news.cctv.com/2026/07/19/ARTIq1e296ARD25k7uJxs3Xe260719.shtml)
+
