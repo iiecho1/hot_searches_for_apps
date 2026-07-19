@@ -63,3 +63,5 @@
 
 + [天造地设终不过是谁重蹈谁覆辙](https://m.acfun.cn/v/?ac=48706714)
 
++ [【DAY2】MyGO!!!!! 9th LIVE「つなぎ目の向こうに」 DAY2](https://m.acfun.cn/v/?ac=48706657)
+
