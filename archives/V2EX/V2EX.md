@@ -23,3 +23,13 @@
 
 + [完全没有编程经验能否依靠 AI 开发一些小软件](https://www.v2ex.com/t/1228254)
 
++ [兄弟们，关于 Macbook 血的教训！ MacOS 比 Win 更逆天！](https://www.v2ex.com/t/1228302)
+
++ [AI 写代码的时候总是使用大量的辅助函数，应该如何处理？](https://www.v2ex.com/t/1228216)
+
++ [如何培养孩子当领导的能力](https://www.v2ex.com/t/1228256)
+
++ [灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊](https://www.v2ex.com/t/1228303)
+
++ [ai 用得越多，越发现产品人才 &gt; 技术人才 了](https://www.v2ex.com/t/1228233)
+

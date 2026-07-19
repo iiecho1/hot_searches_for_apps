@@ -165,3 +165,13 @@
 
 + [美官员：约旦美军基地5天遭4袭 表明伊导弹库存充足](https://news.cctv.com/2026/07/19/ARTIq1e296ARD25k7uJxs3Xe260719.shtml)
 
++ [美国务院建议全球范围美公民提高警惕](https://news.cctv.com/2026/07/19/ARTI5qWJrXrqI38ZVxXKJgCN260719.shtml)
+
++ [德国联盟党议会党团主席因争议辞职](https://news.cctv.com/2026/07/19/ARTIgv0yzzeqk7FxV8vtwE1v260719.shtml)
+
++ [伊朗武装部队：将“毁灭性回击”美国野蛮行径](https://news.cctv.com/2026/07/19/ARTIvyPQaSJUuDCKFykOGVLv260719.shtml)
+
++ [美中央司令部：美军开始对伊朗发动新一轮空袭](https://news.cctv.com/2026/07/19/ARTIrMQFkBCeTUzyZqQzt2VV260719.shtml)
+
++ [委内瑞拉从IMF提取3.46亿美元用于震后重建](https://news.cctv.com/2026/07/19/ARTIzmY1KNBidfDMLFZZSAHW260719.shtml)
+
