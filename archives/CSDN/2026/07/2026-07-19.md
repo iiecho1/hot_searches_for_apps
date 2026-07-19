@@ -149,3 +149,5 @@
 
 + [前端构建产物的长期缓存策略：文件名哈希、模块联邦与 CDN 协同的工程实践](https://blog.csdn.net/cannonmonster01/article/details/162941893)
 
++ [运维场景的模型可解释性：用SHAP和LIME让AI的故障诊断结论具备审计可追溯性](https://blog.csdn.net/qwe0iop0/article/details/162970272)
+

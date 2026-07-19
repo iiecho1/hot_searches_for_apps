@@ -21,3 +21,5 @@
 
 + [PowerShell 和 Codex 在打架？可以试试这份提示词](https://www.v2ex.com/t/1228204)
 
++ [完全没有编程经验能否依靠 AI 开发一些小软件](https://www.v2ex.com/t/1228254)
+
