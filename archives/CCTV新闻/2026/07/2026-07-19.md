@@ -175,3 +175,13 @@
 
 + [委内瑞拉从IMF提取3.46亿美元用于震后重建](https://news.cctv.com/2026/07/19/ARTIzmY1KNBidfDMLFZZSAHW260719.shtml)
 
++ [加拿大总理：正“全员动员”应对严重野火灾情](https://news.cctv.com/2026/07/19/ARTI8naVyJzgge5wxWtpkb3D260719.shtml)
+
++ [受降雨天气影响 沪昆铁路部分列车今日停运](https://news.cctv.com/2026/07/19/ARTI8oRRrUTOKhkKa4bNwajz260719.shtml)
+
++ [伊朗展开“闪电”行动第17阶段打击](https://news.cctv.com/2026/07/19/ARTI8UrmRdLSx7moyAeMiF59260719.shtml)
+
++ [墨西哥调查出口生菜 疑致美国环孢子虫病感染](https://news.cctv.com/2026/07/19/ARTID4D6PfcrwuUJ9HbEptS3260719.shtml)
+
++ [美军在宣布结束本轮打击前再次袭击伊朗格什姆岛](https://news.cctv.com/2026/07/19/ARTII0PkM1pOJnd0jyi7sVTZ260719.shtml)
+

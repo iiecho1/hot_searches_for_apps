@@ -151,3 +151,21 @@
 
 + [运维场景的模型可解释性：用SHAP和LIME让AI的故障诊断结论具备审计可追溯性](https://blog.csdn.net/qwe0iop0/article/details/162970272)
 
++ [【Linux】库制作与原理：从源码到静态库，搞懂 ar、-I/-L/-l 与打包交付](https://blog.csdn.net/2402_87731470/article/details/163000934)
+
++ [从MoSA到一条研究路线：拆解360人工智能研究院2026上半年的6篇顶会论文](https://blog.csdn.net/2401_86326742/article/details/162971423)
+
++ [Horse3D 游戏引擎研发笔记（二）：材质系统——从 JSON 配置到 GPU Uniform](https://blog.csdn.net/2503_92624912/article/details/162999151)
+
++ [Redis BigKey与HotKey问题终极指南：从发现到根治](https://blog.csdn.net/qq_41840843/article/details/163002351)
+
++ [长沙市暑假开放中小学开放信息获取-基于大模型的图文识别解析（第二篇）](https://blog.csdn.net/yelangkingwuzuhu/article/details/163010451)
+
++ [AI周报（2026年7月第3周）：WAIC产业发布、Kimi K3开源、AI工具供应链警钟](https://blog.csdn.net/qq_36411553/article/details/162986282)
+
++ [从搜索排名到AI认知：认知管理引擎的架构演进与工程实践](https://blog.csdn.net/credoengine/article/details/162948821)
+
++ [鸿蒙 PC Markdown 编辑器可靠性：原子快照与崩溃恢复](https://blog.csdn.net/2302_80329073/article/details/163000796)
+
++ [thymeleaf 语法+modelMap](https://blog.csdn.net/2301_82297675/article/details/163016642)
+
