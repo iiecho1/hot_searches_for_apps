@@ -25,3 +25,27 @@
 
 + [长城 H10 预售：五座 / 六座双版本，限时权益价 21.48 万元起](https://m.ithome.com/html/978573.htm)
 
++ [月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破](https://m.ithome.com/html/978670.htm)
+
++ [SK 集团会长崔泰源：内存应该降价，如果一直高价消费电子行业可能受到冲击](https://m.ithome.com/html/978683.htm)
+
++ [比亚迪王朝首款 D 级旗舰轿车，大汉实车曝光](https://m.ithome.com/html/978769.htm)
+
++ [小米汽车回应澎程为何要用 76kWh 大电池，称源于做增程产品的底层理念「纯电长续航」](https://m.ithome.com/html/978618.htm)
+
++ [线下“四朵金花”最速：消息称华为 nova 16 系列手机开售 39 天销量破百万](https://m.ithome.com/html/978687.htm)
+
++ [特斯拉因大灯过亮在美国召回近 2 万辆 Model 3/Y，这次无法 OTA 修复](https://m.ithome.com/html/978652.htm)
+
++ [雷军试乘小米澎程 N90 后排视频曝光，新车有望搭载智能电动门](https://m.ithome.com/html/978626.htm)
+
++ [OPPO 陈希透露 ColorOS 17 没有透明化卡片设计，称可读性有挺大影响](https://m.ithome.com/html/978638.htm)
+
++ [阿里 Token Plan 个人版发布，限时优惠每月 39 元起](https://m.ithome.com/html/978775.htm)
+
++ [阿里千问 Qwen3.8 预览版模型上线：2.4T 参数量，宣称“可能是除了 Fable 5 外最强大的模型”](https://m.ithome.com/html/978730.htm)
+
++ [喜剧动画电影《八仙！》海外定档，豆瓣开分 8.3 暂列 2026 暑期档新片第一](https://m.ithome.com/html/978648.htm)
+
++ [周星驰《功夫女足》跻身 2026 年电影票房前三，上映 9 天超 14.57 亿](https://m.ithome.com/html/978807.htm)
+

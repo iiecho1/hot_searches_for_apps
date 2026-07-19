@@ -37,3 +37,5 @@
 
 + [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
++ [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
+
