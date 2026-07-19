@@ -101,3 +101,31 @@
 
 + [把截图识别和飞书通知串起来：Windows上做一个办公自动化机器人](https://blog.csdn.net/2301_80840905/article/details/162976306)
 
++ [时光倒流的魔法：深度解析Oracle UNDO表空间回滚段、读一致性与闪回查询的实现原理](https://blog.csdn.net/qq_41840843/article/details/162770938)
+
++ [复杂嵌套表单解析评测：OCR都能识别，但谁能真正还原业务结构](https://blog.csdn.net/herosunly/article/details/162943172)
+
++ [基于 MicroBlaze 的 FPGA TCP在线升级](https://blog.csdn.net/qq_42043241/article/details/162996594)
+
++ [Flutter的pubspec.yaml配置详解：管理项目依赖和资源配置-鸿蒙应用](https://blog.csdn.net/feng8403000/article/details/163010594)
+
++ [【VR】结合音频特征的VR: Audio-based Near-Duplicate Video Retrieval with Audio Similarity Learning](https://blog.csdn.net/qq_35812205/article/details/163018235)
+
++ [学习日记1（SC60218磁编码器的角度读取）](https://blog.csdn.net/starry_iq/article/details/162977392)
+
++ [晶圆厂 RCA 虚拟工厂：基于 Ontology + GraphRAG + LangGraph 的智能根因分析系统](https://blog.csdn.net/bumblebee16/article/details/163024721)
+
++ [【源码】openfeign集成spring-cloud-starter-circuitbreaker-resilience4j 源码分析](https://blog.csdn.net/Aqu415/article/details/162996437)
+
++ [42-RDB查询拖慢首屏-用索引分页和快照缓存拆开](https://blog.csdn.net/AD0227/article/details/162989355)
+
++ [CPU 端火焰图：逻辑帧时间分解与热点定位](https://blog.csdn.net/2301_77785315/article/details/162968015)
+
++ [我的编程学习之旅，从此刻启程](https://blog.csdn.net/mastered70/article/details/163024544)
+
++ [GitHub Copilot、LangChain 与 Claude-code：三大AI编程工具深度解析](https://blog.csdn.net/qq_44327851/article/details/162906918)
+
++ [PDF 转 Word 高效办公实战指南](https://blog.csdn.net/2600_94936330/article/details/161808335)
+
++ [thymeleaf 语法+modelMap](https://blog.csdn.net/2301_82297675/article/details/163016642)
+
