@@ -185,3 +185,7 @@
 
 + [美军在宣布结束本轮打击前再次袭击伊朗格什姆岛](https://news.cctv.com/2026/07/19/ARTII0PkM1pOJnd0jyi7sVTZ260719.shtml)
 
++ [美国调整对欧“援助”重点 欲推MAGA议程？](https://news.cctv.com/2026/07/19/ARTIoJ7F7dnxI6NYcmXQTrds260719.shtml)
+
++ [圭亚那一艘载有116人的渡轮倾覆](https://news.cctv.com/2026/07/19/ARTIsVcZ7G09kMmf3Xo4ggtT260719.shtml)
+

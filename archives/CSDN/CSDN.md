@@ -169,3 +169,13 @@
 
 + [thymeleaf 语法+modelMap](https://blog.csdn.net/2301_82297675/article/details/163016642)
 
++ [Agent评估体系自建指南：从SWE-bench到LLM-as-a-Judge的完整实现（Python 3.10+）](https://blog.csdn.net/qq_36411553/article/details/162911341)
+
++ [网络安全攻防演进：从单人砸门到AI博弈的五次战争](https://blog.csdn.net/qq_46987323/article/details/162999336)
+
++ [从零手写注解实现简易Spring_IoC容器](https://blog.csdn.net/2401_86343364/article/details/162998565)
+
++ [Python MCP实战：从零搭建本地文件系统服务器，让Cursor/Claude自由读取本地项目文件（附完整安全代码）](https://blog.csdn.net/qq_36729037/article/details/162992112)
+
++ [薪酬核算：一到发薪日，HR 就在 Excel 里熬夜](https://blog.csdn.net/zhouzhongyan/article/details/163013718)
+
