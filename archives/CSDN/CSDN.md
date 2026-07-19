@@ -129,3 +129,7 @@
 
 + [thymeleaf 语法+modelMap](https://blog.csdn.net/2301_82297675/article/details/163016642)
 
++ [浏览器跑大模型：WebGPU 端侧推理的加载、回退与性能工程](https://blog.csdn.net/rain_sxr/article/details/162968006)
+
++ [Spec-Coding 实战系列教程：从规格到代码的自动化之旅](https://blog.csdn.net/dingyuana/article/details/162922967)
+
