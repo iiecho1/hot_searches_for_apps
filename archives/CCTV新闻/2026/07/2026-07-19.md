@@ -205,3 +205,5 @@
 
 + [巴林称拦截伊朗导弹和无人机](https://news.cctv.com/2026/07/19/ARTI0SUbOXMHrTndzT44AxwJ260719.shtml)
 
++ [美国能源部长称对伊朗军事行动将持续进行](https://news.cctv.com/2026/07/19/ARTIXWwHR5yiJYU1OCmpnTbZ260719.shtml)
+

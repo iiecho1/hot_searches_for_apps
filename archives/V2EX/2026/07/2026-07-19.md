@@ -53,3 +53,9 @@
 
 + [哎,现在在加班,真是无奈,无力,无语](https://www.v2ex.com/t/1228331)
 
++ [Vibe Coding 副业四个月：成本超出收益，要放弃吗？](https://www.v2ex.com/t/1228385)
+
++ [Kimi K3 这波真的爆了，你们用着感觉怎么样？](https://www.v2ex.com/t/1228376)
+
++ [我开发了一个开源版 Surge，把 Mac 变成可导入规则、可按设备分流的全屋透明代理网关。](https://www.v2ex.com/t/1228353)
+

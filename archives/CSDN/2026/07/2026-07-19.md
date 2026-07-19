@@ -195,3 +195,7 @@
 
 + [AI 为什么越来越像微服务？](https://blog.csdn.net/qq_36478920/article/details/163000512)
 
++ [AI越来越会“造假“，跨模态鉴伪为什么正在成为AI时代的新基建？](https://blog.csdn.net/m0_73367097/article/details/163021269)
+
++ [【花雕学编程】Arduino BLDC 之机器人动态路径跟踪+避障协同系统（进阶导航）](https://blog.csdn.net/weixin_41659040/article/details/163010228)
+
