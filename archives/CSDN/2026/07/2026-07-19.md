@@ -183,3 +183,13 @@
 
 + [【源码】openfeign集成spring-cloud-starter-circuitbreaker-resilience4j 源码分析](https://blog.csdn.net/Aqu415/article/details/162996437)
 
++ [【共创季稿事节】物的第二人生：HarmonyOS 6.1 AI 物品流转地图全场景实战](https://blog.csdn.net/2601_95131637/article/details/163001005)
+
++ [34-首次启动异常白屏-用启动账本和恢复页兜底](https://blog.csdn.net/AD0227/article/details/162943924)
+
++ [【Linux篇】从虚拟到物理的地址翻译之路——进程地址空间与页表机制详解](https://blog.csdn.net/buhuizhiyuci/article/details/161936703)
+
++ [一个接口调五个大模型？我把蓝耘 autoModel 接进 Zcode 实测了一遍](https://blog.csdn.net/geinvse_seg/article/details/162997023)
+
++ [基于海光DCU的MOSS-Transcribe-Diarize超长音视频语音分析系统设计与部署（完整教程）](https://blog.csdn.net/pla88888888/article/details/163018956)
+

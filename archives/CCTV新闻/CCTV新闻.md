@@ -189,3 +189,15 @@
 
 + [圭亚那一艘载有116人的渡轮倾覆](https://news.cctv.com/2026/07/19/ARTIsVcZ7G09kMmf3Xo4ggtT260719.shtml)
 
++ [圣多美和普林西比举行总统选举](https://news.cctv.com/2026/07/19/ARTIlEEdQE0sopjr2GSLauf8260719.shtml)
+
++ [约旦政府称亚喀巴国际机场和海港正常运营](https://news.cctv.com/2026/07/19/ARTIP1QGHQZEHH8olwC8udhP260719.shtml)
+
++ [伊朗谴责美国对在建核电站发动“恐怖袭击”](https://news.cctv.com/2026/07/19/ARTIjse9jLcNwy7TFZFSF2aR260719.shtml)
+
++ [美驻约旦使馆发布安全警示](https://news.cctv.com/2026/07/19/ARTIPVDf84aheifuR0I3Nh06260719.shtml)
+
++ [圭亚那一艘载有116人的渡轮倾覆 已有53人获救](https://news.cctv.com/2026/07/19/ARTIRwQMgMfZZAzqVZeBMhkG260719.shtml)
+
++ [伊朗革命卫队称两艘船只在霍尔木兹海峡发生事故](https://news.cctv.com/2026/07/19/ARTI5pfAowheMpQSQysjOubP260719.shtml)
+
