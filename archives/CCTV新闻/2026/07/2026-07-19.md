@@ -201,3 +201,7 @@
 
 + [伊朗革命卫队称两艘船只在霍尔木兹海峡发生事故](https://news.cctv.com/2026/07/19/ARTI5pfAowheMpQSQysjOubP260719.shtml)
 
++ [中国菌草跨重洋 扎根斐济惠民生](https://news.cctv.com/2026/07/19/ARTI0YrcQlA9JdDkTG9gfTrV260719.shtml)
+
++ [巴林称拦截伊朗导弹和无人机](https://news.cctv.com/2026/07/19/ARTI0SUbOXMHrTndzT44AxwJ260719.shtml)
+

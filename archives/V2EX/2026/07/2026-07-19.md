@@ -49,3 +49,7 @@
 
 + [如何缓解使用 AI 带来大脑疲劳感？](https://www.v2ex.com/t/1228316)
 
++ [[Rewrite Bun in MC++] 7 天 20+万行代码 C++26 模块化, 重写 Bun 行为艺术复刻, 已能真实运行顶级开源 Web 框架项目](https://www.v2ex.com/t/1228291)
+
++ [哎,现在在加班,真是无奈,无力,无语](https://www.v2ex.com/t/1228331)
+

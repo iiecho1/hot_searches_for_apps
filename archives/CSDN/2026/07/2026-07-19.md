@@ -193,3 +193,5 @@
 
 + [基于海光DCU的MOSS-Transcribe-Diarize超长音视频语音分析系统设计与部署（完整教程）](https://blog.csdn.net/pla88888888/article/details/163018956)
 
++ [AI 为什么越来越像微服务？](https://blog.csdn.net/qq_36478920/article/details/163000512)
+
