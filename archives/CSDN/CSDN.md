@@ -207,3 +207,11 @@
 
 + [2026最新5款AI编程工具平替实测深度对比](https://blog.csdn.net/z1234567779/article/details/163001371)
 
++ [基于 DolphinDB 3.00.x 实时聚合计算：多维度聚合实战（从流式引擎到 Cube/Rollup 方法论）](https://blog.csdn.net/sinat_41617212/article/details/162978679)
+
++ [把家里的显卡变成远程AI画室:Stable Diffusion WebUI部署实战](https://blog.csdn.net/2401_87629362/article/details/163045196)
+
++ [搭一套自己的公众号写作台：AI润色、实时排版与远程审稿](https://blog.csdn.net/aiclaws/article/details/163042409)
+
++ [鸿蒙 PC Markdown 编辑器文件系统：Core File Kit 与安全保存](https://blog.csdn.net/2302_80329073/article/details/163043041)
+

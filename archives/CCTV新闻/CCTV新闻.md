@@ -215,3 +215,7 @@
 
 + [安迪·伯纳姆就任英国首相](https://news.cctv.com/2026/07/20/ARTI9yTNFstTlYq6bYADS9cO260720.shtml)
 
++ [支持率显著下滑，高市执政“亮红灯”](https://news.cctv.com/2026/07/20/ARTIT85fl3rDj6OfWJOlwsCA260720.shtml)
+
++ [美称仍对外交解决伊朗问题持开放态度](https://news.cctv.com/2026/07/20/ARTINrZ8fD3Kx7ILPhNPtJJt260720.shtml)
+
