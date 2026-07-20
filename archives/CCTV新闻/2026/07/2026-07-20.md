@@ -175,3 +175,9 @@
 
 + [伊朗媒体：伊朗已向“敌方目标”发射导弹](https://news.cctv.com/2026/07/20/ARTIPsCjgLB4PZSrd7ubfjnd260720.shtml)
 
++ [加拿大总理称该国面临“史上最严峻山火季之一”](https://news.cctv.com/2026/07/20/ARTIN9xGzrJtH0nRLItl1wis260720.shtml)
+
++ [美军称完成连续第九晚对伊朗袭击](https://news.cctv.com/2026/07/20/ARTIOxooeaVOIbmtq2QY3S3X260720.shtml)
+
++ [连续九晚袭击伊朗后 美称愿通过外交途径解决问题](https://news.cctv.com/2026/07/20/ARTIFWDorO08Od8wd5tqy4zH260720.shtml)
+

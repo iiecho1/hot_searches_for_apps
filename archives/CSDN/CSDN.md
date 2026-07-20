@@ -139,3 +139,35 @@
 
 + [springboot + Vue3 + uni-app 打造仿小红书社区](https://blog.csdn.net/qq_35238367/article/details/163000654)
 
++ [MySQL/PostgreSQL 迁移金仓 KES：LEFT JOIN 丢数据排查与避坑指南](https://blog.csdn.net/qq_57761637/article/details/163026470)
+
++ [【C++大型项目之高性能服务器框架 (八) 】Stream流和TcpServer模块](https://blog.csdn.net/2501_93095927/article/details/162970320)
+
++ [人眼看不出的伪造，AI如何识别？实测合合信息跨模态鉴伪与去反光技术](https://blog.csdn.net/weixin_51390582/article/details/163034837)
+
++ [SQL 语法全兼容，但结果就是不一样——国产化迁移里最难缠的九类隐患](https://blog.csdn.net/2302_78391795/article/details/163033743)
+
++ [纹渊 HarmonyOS 7 工程实战（05）：AI 生图 HTTP Service 健壮封装与异常边界](https://blog.csdn.net/wangji93/article/details/162988169)
+
++ [Agent-Reach 完全指南：用 CLI 一键给 AI Agent 接入 15 个互联网平台](https://blog.csdn.net/zhangay1998/article/details/162877733)
+
++ [走马观碑的遗憾](https://blog.csdn.net/zhuoqingjoking97298/article/details/163027116)
+
++ [dify 1.16.0发布：原生Agent沙箱、MCP协议升级、GPT-5.6兼容适配，一文看懂全部更新](https://blog.csdn.net/weixin_48502062/article/details/163022001)
+
++ [Re：Linux系统篇（四十五）信号篇·三：一文讲透 Linux 信号保存机制:block,pending,handler三张表到底在做什么](https://blog.csdn.net/Z2314246476/article/details/162894593)
+
++ [MES 制造执行：工单、报工、质检、追溯，制造业数字化的轻量起步](https://blog.csdn.net/zhouzhongyan/article/details/163034179)
+
++ [【共创季稿事节】HarmonyOS 6.1 自适应布局（Adaptive Layout）实战：一码适配手机、平板、折叠屏](https://blog.csdn.net/u014727709/article/details/162939500)
+
++ [Spring11-校验框架：@Valid VS @Validated](https://blog.csdn.net/qq_31532983/article/details/163024854)
+
++ [中国两大旗舰开源大模型深度对比：Kimi K3 vs GLM 5.2（2026）](https://blog.csdn.net/design1985/article/details/163021763)
+
++ [麒麟云计算KYCA](https://blog.csdn.net/qq_38200548/article/details/162946269)
+
++ [GLM-5.3：Z.ai 下一代开源大模型前瞻解析](https://blog.csdn.net/ylscode/article/details/162975796)
+
++ [鸿蒙Flutter Image图片组件](https://blog.csdn.net/qq_39088168/article/details/163024923)
+
