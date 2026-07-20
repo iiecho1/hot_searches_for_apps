@@ -49,3 +49,19 @@
 
 + [周星驰《功夫女足》跻身 2026 年电影票房前三，上映 9 天超 14.57 亿](https://m.ithome.com/html/978807.htm)
 
++ [月之暗面 Kimi：暂停 C 端新用户订阅，保障已订阅用户的全部权益不受影响](https://m.ithome.com/html/978808.htm)
+
++ [张雪预告首款电摩：价格 3W+ 的大踏板，续航 300km、电机功率 50kW](https://m.ithome.com/html/978901.htm)
+
++ [西班牙时隔 16 年二度捧起大力神杯，EA 连续 5 届成功预测世界杯冠军](https://m.ithome.com/html/978823.htm)
+
++ [华为靳玉志：“境”和“界”并不冲突、是互补的关系，鸿蒙智行打造 30 万以上汽车的样板点](https://m.ithome.com/html/978801.htm)
+
++ [长城全新坦克 300 上市：提供 Hi4-T/Hi4-Z 混动、汽油、柴油版，19.98 万元起](https://m.ithome.com/html/978783.htm)
+
++ [海信墨水屏手机 A10 配置揭晓：高通跃龙 QCM6690 处理器、安卓 16 原生适配，8 月发布](https://m.ithome.com/html/978764.htm)
+
++ [都有份：最新鸿蒙 HarmonyOS 6.1.0.135 版本确认还将面向华为 Mate 70 等机型推送](https://m.ithome.com/html/978924.htm)
+
++ [史上变化最大一代，第五代宝马 X5 后驱车型被曝 2027 年初上市](https://m.ithome.com/html/978786.htm)
+

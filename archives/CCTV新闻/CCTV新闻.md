@@ -181,3 +181,11 @@
 
 + [连续九晚袭击伊朗后 美称愿通过外交途径解决问题](https://news.cctv.com/2026/07/20/ARTIFWDorO08Od8wd5tqy4zH260720.shtml)
 
++ [俄莫斯科州州长：3名中国公民在无人机袭击中受伤](https://news.cctv.com/2026/07/20/ARTIZMoPV8YVuk5kRg3FryxY260720.shtml)
+
++ [伊朗外交部确认收到调解方提议 但未透露详情](https://news.cctv.com/2026/07/20/ARTIduMouDarq66PiO5tiziw260720.shtml)
+
++ [德国土安全部队拟扩充至逾万人](https://news.cctv.com/2026/07/20/ARTIXvXlqSCqyXVDMVOIab46260720.shtml)
+
++ [日本防卫大臣称“有必要讨论核武器”](https://news.cctv.com/2026/07/20/ARTI210HBxG0OZn3EgCJPwrd260720.shtml)
+
