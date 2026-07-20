@@ -189,3 +189,23 @@
 
 + [日本防卫大臣称“有必要讨论核武器”](https://news.cctv.com/2026/07/20/ARTI210HBxG0OZn3EgCJPwrd260720.shtml)
 
++ [日本民间人士呼吁正视侵华日军细菌战罪行](https://news.cctv.com/2026/07/20/ARTIGuTEXiIF1LncsPN1CJT5260720.shtml)
+
++ [日菲划界谈判违背国际法基本原则](https://news.cctv.com/2026/07/20/ARTIiEdY7K64CthFctta45jM260720.shtml)
+
++ [“人工智能已成为推动中国经济转型升级的重要力量”——访中欧数字协会主席路易吉·甘巴尔代拉](https://news.cctv.com/2026/07/20/ARTImt0a6ptWj0FzRgUoyvi3260720.shtml)
+
++ [共建“一带一路”为世界注入团结、合作、共赢的正能量](https://news.cctv.com/2026/07/20/ARTIiV3W4mazC4n9kIftklZf260720.shtml)
+
++ [“让人工智能更好地增进人类福祉”（外媒看中国）](https://news.cctv.com/2026/07/20/ARTIf0DZv7AE6sSVhKSCZJn9260720.shtml)
+
++ [斯塔默正式卸任英国首相](https://news.cctv.com/2026/07/20/ARTIDUPx89CY4SGCgJmnlJmk260720.shtml)
+
++ [英国首相斯塔默发表卸任讲话](https://news.cctv.com/2026/07/20/ARTIt63UdUlbgBBABlvKdVwY260720.shtml)
+
++ [法国官员称今年该国森林火灾过火面积已达4万公顷](https://news.cctv.com/2026/07/20/ARTIlY6eYL66VySDFsQvKVbe260720.shtml)
+
++ [塞内加尔总统法耶当选西共体新一任轮值主席](https://news.cctv.com/2026/07/20/ARTIwlMQkhDlsmJkwo5BfYYT260720.shtml)
+
++ [西班牙中部遭遇大规模山火 过火面积达2.6万公顷](https://news.cctv.com/2026/07/20/ARTIGRB3aqniQwZIVxerpMXs260720.shtml)
+
