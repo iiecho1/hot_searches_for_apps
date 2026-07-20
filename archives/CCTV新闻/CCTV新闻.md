@@ -161,3 +161,7 @@
 
 + [高市内阁支持率持续下降 跌破50%](https://news.cctv.com/2026/07/16/ARTId4YhGgPTkDCWckKm4ZoN260716.shtml)
 
++ [美军称对伊朗发动新一轮打击](https://news.cctv.com/2026/07/21/ARTILHHOIaD3TIdukOrJZChR260721.shtml)
+
++ [美国宣布对加拿大部分产品加征50%关税](https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml)
+

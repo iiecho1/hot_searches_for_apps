@@ -127,3 +127,5 @@
 
 + [开源模型微调的工程化落地：LoRA 与 QLoRA 的成本效益量化分析](https://blog.csdn.net/qq_35160742/article/details/163020184)
 
++ [AI 驱动的前端 A/B 测试方案：多版本 UI 的自动生成与用户行为分析](https://blog.csdn.net/cannonmonster01/article/details/163020472)
+

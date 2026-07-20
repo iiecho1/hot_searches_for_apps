@@ -25,3 +25,27 @@
 
 + [周星驰《功夫女足》跻身 2026 年电影票房前三，上映 9 天超 14.57 亿](https://m.ithome.com/html/978807.htm)
 
++ [张雪预告首款电摩：价格 3W+ 的大踏板，续航 300km、电机功率 50kW](https://m.ithome.com/html/978901.htm)
+
++ [西班牙时隔 16 年二度捧起大力神杯，EA 连续 5 届成功预测世界杯冠军](https://m.ithome.com/html/978823.htm)
+
++ [都有份：最新鸿蒙 HarmonyOS 6.1.0.135 版本确认还将面向华为 Mate 70 等机型推送](https://m.ithome.com/html/978924.htm)
+
++ [比亚迪全新 B 级闪充轿车秦 MAX 真容亮相，淡粉新色外观解锁](https://m.ithome.com/html/978846.htm)
+
++ [OpenAI 战略未来主管批 Kimi K3 开源：非常优秀的模型，但本质上是减速主义，阻碍进一步的 AI 资本支出](https://m.ithome.com/html/978956.htm)
+
++ [王祖贤息影 22 年后授权 AI 形象，网易《天下》合作首个 AI 短片《倩影》上线](https://m.ithome.com/html/979089.htm)
+
++ [小米 REDMI K Pad 2 平板 16+256GB 版本上市，首销到手 4399 元](https://m.ithome.com/html/978864.htm)
+
++ [消息称鸿蒙智行问界 M8 改款车型将启小订，升级内容非常多](https://m.ithome.com/html/978826.htm)
+
++ [华为 Pura 80 系列手机率先升级 HarmonyOS 6.1.0.135 SP8 版本，对单应用音量调节等功能上线](https://m.ithome.com/html/978918.htm)
+
++ [华为 Mate 80 等系列手机开启 HarmonyOS 6.1.0.135 升级，更多机型会在 8 月获推更新](https://m.ithome.com/html/978996.htm)
+
++ [消息称某国产新旗舰全系标配 2nm 旗舰芯、2K 级直屏，预计为小米 18 系列](https://m.ithome.com/html/979012.htm)
+
++ [整车售价 13.33 万元起，蔚来 firefly 萤火虫 halo 寻光系列首款车型“栖息地”上市](https://m.ithome.com/html/979219.htm)
+
