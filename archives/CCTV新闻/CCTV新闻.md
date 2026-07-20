@@ -209,3 +209,9 @@
 
 + [西班牙中部遭遇大规模山火 过火面积达2.6万公顷](https://news.cctv.com/2026/07/20/ARTIGRB3aqniQwZIVxerpMXs260720.shtml)
 
++ [伊朗总统称伊正处于“全面战争”之中](https://news.cctv.com/2026/07/20/ARTIS4NHQwKWkLjqw902msi3260720.shtml)
+
++ [哈马斯任命新领导人](https://news.cctv.com/2026/07/20/ARTIOCm63bSRSJ1YCYMkXYQo260720.shtml)
+
++ [安迪·伯纳姆就任英国首相](https://news.cctv.com/2026/07/20/ARTI9yTNFstTlYq6bYADS9cO260720.shtml)
+

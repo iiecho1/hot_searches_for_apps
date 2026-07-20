@@ -195,3 +195,15 @@
 
 + [【Linux 系统篇(四)】权限详解(一)](https://blog.csdn.net/Huang_jin007/article/details/163021590)
 
++ [【AI 测评】想用自己的声音给视频配音？Index-TTS本地部署这样做](https://blog.csdn.net/2402_87298751/article/details/163048294)
+
++ [【C++大型项目之高性能服务器框架 (九) 】协议抽象与Http服务器模块](https://blog.csdn.net/2501_93095927/article/details/163021727)
+
++ [【Cesium for Unity】普通 Cube 为何会跟随相机漂移？CesiumOriginShift 与 SubScene 原点机制解析](https://blog.csdn.net/qq_41140324/article/details/163052303)
+
++ [鸿蒙Flutter AssetImage与NetworkImage](https://blog.csdn.net/m0_66062719/article/details/163034538)
+
++ [鸿蒙Flutter 状态管理模式选择](https://blog.csdn.net/2402_82388147/article/details/163045665)
+
++ [2026最新5款AI编程工具平替实测深度对比](https://blog.csdn.net/z1234567779/article/details/163001371)
+
