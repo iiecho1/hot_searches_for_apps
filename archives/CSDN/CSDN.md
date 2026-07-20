@@ -101,3 +101,29 @@
 
 + [鸿蒙 PC Markdown 编辑器文件系统：Core File Kit 与安全保存](https://blog.csdn.net/2302_80329073/article/details/163043041)
 
++ [AI跨模态鉴伪技术实测](https://blog.csdn.net/wtyuong/article/details/163054806)
+
++ [Claude Code 接蓝耘实测：选第三方 API 的三条铁律](https://blog.csdn.net/Mrxiao_bo/article/details/163052500)
+
++ [OpenClaw 行业应用：智能物流系统构建（实战）](https://blog.csdn.net/sinat_41617212/article/details/163025449)
+
++ [AI应用成本归因的工程化落地：从Token计数到部门级成本分摊的完整记账体系](https://blog.csdn.net/jiang_style/article/details/163020761)
+
++ [ArkUI 渲染性能优化实战：从列表掉帧到状态分割、LazyForEach 和 Profiler 回归](https://blog.csdn.net/2401_84026308/article/details/163039071)
+
++ [Node.js 流处理的背压优化：可读流与可写流的速度匹配与缓冲区策略](https://blog.csdn.net/qq_34803115/article/details/163001813)
+
++ [数据链路层如何用MAC地址标记每台设备的“身份证“，通过MTU规则限制46-1500字节数据帧大小，ARP协议在广播风暴中精准寻址，解决IP到MAC的“最后一公里“难题](https://blog.csdn.net/2401_82648291/article/details/150511223)
+
++ [卦象检索系统：用 Embedding 检索相似的卦象组合](https://blog.csdn.net/weixin_43272162/article/details/163001606)
+
++ [Agent可观测性自建方案：零成本搭建智能体全链路追踪系统（Python 3.10+ / OpenTelemetry）](https://blog.csdn.net/qq_36411553/article/details/162911291)
+
++ [AI 为什么越来越像微服务？](https://blog.csdn.net/qq_36478920/article/details/163000512)
+
++ [HarmonyOS应用开发实战：小事记 - 应用启动优化：冷启动白屏处理与 startWindowBackground](https://blog.csdn.net/zzd1234566/article/details/163047757)
+
++ [SendTomo大文件传输三大优势](https://blog.csdn.net/xmflw/article/details/162998644)
+
++ [开源模型微调的工程化落地：LoRA 与 QLoRA 的成本效益量化分析](https://blog.csdn.net/qq_35160742/article/details/163020184)
+
