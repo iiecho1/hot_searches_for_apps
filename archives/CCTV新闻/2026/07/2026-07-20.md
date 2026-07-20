@@ -163,3 +163,15 @@
 
 + [载客百人渡轮在圭亚那附近沉没 67人已获救](https://news.cctv.com/2026/07/20/ARTIdhU7iehHYSv7frdrcGKC260720.shtml)
 
++ [伊朗称袭击约旦境内美军藏身地并打死数十名美军人员](https://news.cctv.com/2026/07/20/ARTIe3fNR2b6vXdemva33hsd260720.shtml)
+
++ [美高超音速导弹项目受挫：产能减半 成本飙升](https://news.cctv.com/2026/07/20/ARTIymWwlTyZAVh8LhWZTvfC260720.shtml)
+
++ [特朗普称正“猛烈轰炸”伊朗 为三名身亡美军报仇](https://news.cctv.com/2026/07/20/ARTI9AVXnRKHCCyvYyn38zF8260720.shtml)
+
++ [美军连续第九晚对伊朗发动空袭](https://news.cctv.com/2026/07/20/ARTIBXVI3jCp2BH2CIK0TjWU260720.shtml)
+
++ [美伊互袭持续 布伦特油价突破每桶90美元](https://news.cctv.com/2026/07/20/ARTIJ4M3YfvOQdF6JLhNwu1K260720.shtml)
+
++ [伊朗媒体：伊朗已向“敌方目标”发射导弹](https://news.cctv.com/2026/07/20/ARTIPsCjgLB4PZSrd7ubfjnd260720.shtml)
+
