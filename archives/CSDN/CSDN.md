@@ -101,3 +101,29 @@
 
 + [开源模型微调的工程化落地：LoRA 与 QLoRA 的成本效益量化分析](https://blog.csdn.net/qq_35160742/article/details/163020184)
 
++ [Agent-Reach 完全指南：用 CLI 一键给 AI Agent 接入 15 个互联网平台](https://blog.csdn.net/zhangay1998/article/details/162877733)
+
++ [Python 事件驱动架构：用 asyncio.Queue 构建解耦的 RAG 处理流水线](https://blog.csdn.net/2401_87746054/article/details/163020410)
+
++ [【Web安全】-11-IP资源信息收集：真实 IP 地址收集，绕过 CDN 的方式，端口信息收集，C段信息收集，bp设置流量](https://blog.csdn.net/2401_83075246/article/details/161804264)
+
++ [大模型应用架构的未来演进：从单体LLM到Agent网络的下一代后端范式](https://blog.csdn.net/dicky_zhang3/article/details/163020161)
+
++ [打通数据孤岛：KES如何以多模融合架构赋能AI落地](https://blog.csdn.net/user340/article/details/163084415)
+
++ [HarmonyOS 应用上架材料闭环：隐私说明、权限理由与审核自查](https://blog.csdn.net/2401_84026308/article/details/163019763)
+
++ [AI 驱动的性能回归检测：合约与前端变更的自动化 Benchmark 与瓶颈定位](https://blog.csdn.net/qq_40635035/article/details/163020063)
+
++ [破除工业 AI 业务落地壁垒：多模时序融合架构重塑设备全维度数据价值](https://blog.csdn.net/2301_80350265/article/details/163084783)
+
++ [为什么 Elasticsearch 平台是你的 AI 技术栈中缺失的一块拼图](https://blog.csdn.net/UbuntuTouch/article/details/163076647)
+
++ [[LangChain] 聊天模型-结构化输出(2)](https://blog.csdn.net/Boop_wu/article/details/163050218)
+
++ [模型推理确定性验证框架设计：同一输入在不同优化级别下的输出一致性测试方案](https://blog.csdn.net/qq_42431428/article/details/163020722)
+
++ [k8s核心概念](https://blog.csdn.net/panzhengxiang/article/details/163055842)
+
++ [Next.js 中的数据获取模式演进：从 getServerSideProps 到 Server Components 的迁移路径](https://blog.csdn.net/specter__/article/details/163020269)
+

@@ -161,3 +161,5 @@
 
 + [中方驳斥特朗普“中国干预美国大选”论调：无稽之谈](https://news.cctv.com/2026/07/17/ARTI8bazMupBCmLaK7UivMgu260717.shtml)
 
++ [加拿大总理：将考虑所有选项应对美加征关税](https://news.cctv.com/2026/07/22/ARTICxEIfR6Mxq5XaT8M2KUw260722.shtml)
+
