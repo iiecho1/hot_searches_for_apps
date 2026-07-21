@@ -157,3 +157,17 @@
 
 + [Docker Compose 简介及应用](https://blog.csdn.net/weixin_40107423/article/details/162995331)
 
++ [Codex 长期任务五层工作系统：让 AI 跨小时、跨会话持续推进](https://blog.csdn.net/weixin_74809706/article/details/162941467)
+
++ [【花雕学编程】Arduino BLDC 之变电站巡检机器人集中式任务调度 + 速度优先级仲裁](https://blog.csdn.net/weixin_41659040/article/details/163063615)
+
++ [SpringBoot 企业级 Excel 导入导出实战：注解式表头+字典转换+下拉校验+大数据量异步方案](https://blog.csdn.net/zhouzhongyan/article/details/163056772)
+
++ [搭一套团队共享的AI编程助手：MonkeyCode部署与远程接入实战](https://blog.csdn.net/weixin_44976692/article/details/163072264)
+
++ [【期刊论文复现】多元宇宙算法求解电力系统多目标优化问题（Matlab实现）](https://blog.csdn.net/Yan_she_He/article/details/163010082)
+
++ [Spring IoC容器与Bean管理全解析](https://blog.csdn.net/2401_83281222/article/details/163024310)
+
++ [抓住三大学科指标：Core Web Vitals 与渲染管线的协同优化](https://blog.csdn.net/rain_sxr/article/details/163056666)
+
