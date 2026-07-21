@@ -165,3 +165,7 @@
 
 + [美国宣布对加拿大部分产品加征50%关税](https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml)
 
++ [美军称完成针对伊朗的最新一轮打击行动](https://news.cctv.com/2026/07/21/ARTIuwgTsboWRJS8eSzBPqNv260721.shtml)
+
++ [委内瑞拉强震遇难人数升至5278人](https://news.cctv.com/2026/07/21/ARTIBxsAMMsxCIhD8szmqKL9260721.shtml)
+

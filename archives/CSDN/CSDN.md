@@ -129,3 +129,15 @@
 
 + [AI 驱动的前端 A/B 测试方案：多版本 UI 的自动生成与用户行为分析](https://blog.csdn.net/cannonmonster01/article/details/163020472)
 
++ [Coding Agent 工具调用优化：从全串行到分批并发](https://blog.csdn.net/2301_80956187/article/details/162994358)
+
++ [2026 年，一个新人怎样做好自己的第一款鸿蒙应用](https://blog.csdn.net/ailuloo/article/details/163047164)
+
++ [群体 AI：指挥官与单位的层级决策架构](https://blog.csdn.net/2301_77785315/article/details/163020220)
+
++ [鸿蒙 PC Markdown 编辑器自由窗口验证：从 220 vp 侧栏到动态编辑区预算](https://blog.csdn.net/2302_80329073/article/details/163043677)
+
++ [Redisson的加锁原理](https://blog.csdn.net/qq_39912760/article/details/163055407)
+
++ [运维Agent的工具调用框架：Function Calling机制、工具注册与动态编排的架构设计](https://blog.csdn.net/qwe0iop0/article/details/163001712)
+
