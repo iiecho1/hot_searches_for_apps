@@ -193,3 +193,19 @@
 
 + [【Docker】技术架构演进之路](https://blog.csdn.net/qinjh_/article/details/161752899)
 
++ [【LE Audio】CSIS精讲[5]: 协调集核心特征，从身份标识到独占访问解析](https://blog.csdn.net/weixin_37800531/article/details/162977496)
+
++ [《智能驾驶拆解笔记：老周唠透车圈AI》第1篇](https://blog.csdn.net/weixin_62244995/article/details/162998667)
+
++ [中级OpenGL教程 023：Assimp模型加载全解——从源码到架构的骈文探秘](https://blog.csdn.net/2503_92624912/article/details/163005474)
+
++ [Hadoop 离线数仓 唯一约束关系 主键 自然键 业务键：维度表应同时包含这两种键：代理键用于事实表关联，自然键用于业务溯源](https://blog.csdn.net/Irene1991/article/details/163033740)
+
++ [AI 预测诊断落地难？KES时序多模一体架构打通设备全维度数据](https://blog.csdn.net/COLLINSXU/article/details/163083698)
+
++ [《Prompting》使用经验逐条总结](https://blog.csdn.net/weixin_46801290/article/details/163055613)
+
++ [k8s核心概念](https://blog.csdn.net/panzhengxiang/article/details/163055842)
+
++ [Ui-Skills 智能界面开发实战指南](https://blog.csdn.net/beautifulmemory/article/details/163023010)
+

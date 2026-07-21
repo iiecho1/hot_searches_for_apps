@@ -181,3 +181,7 @@
 
 + [韩国会通过新特检法修正案 继续调查尹锡悦夫妇](https://news.cctv.com/2026/07/21/ARTIiAEEN6bQGFuRGcg5BNWh260721.shtml)
 
++ [全球瞭望丨南非媒体：中国减贫经验值得借鉴](https://news.cctv.com/2026/07/21/ARTIZ0PbjccI3HpqFimAhasZ260721.shtml)
+
++ [全球瞭望丨南非媒体：“中国机遇2.0”利好非洲](https://news.cctv.com/2026/07/21/ARTI5FoPjS0HfP7h8z7KwbWp260721.shtml)
+

@@ -51,3 +51,7 @@
 
 + [大家用 Claude Code / Codex 攒了几个月的&#34;经验&#34;，最后都去哪了？](https://www.v2ex.com/t/1228685)
 
++ [最近在 github 上看到很多所谓开源量化交易系统](https://www.v2ex.com/t/1228796)
+
++ [国家队支持，这次是不是稳了？](https://www.v2ex.com/t/1228801)
+
