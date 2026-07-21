@@ -165,3 +165,9 @@
 
 + [胡塞武装欲“锁”沙特？“双峡联动”背后的双重博弈](https://news.cctv.com/2026/07/22/ARTIRVxDoZa47c8B3oh0S3Ia260721.shtml)
 
++ [美伊冲突叠加红海风险 国际油价升至五周高点](https://news.cctv.com/2026/07/22/ARTIhvOsZgWUtHTaducRtmIv260722.shtml)
+
++ [法国议会通过法案 禁止15岁以下未成年人使用社交媒体](https://news.cctv.com/2026/07/22/ARTIu8dnvv93OYE6G8iBwGcL260722.shtml)
+
++ [中国发布《中国关于数智时代全球网络治理的立场文件》](https://news.cctv.com/2026/07/22/ARTIZVIxYJq6dxSCGME8cVmq260722.shtml)
+

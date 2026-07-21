@@ -139,3 +139,9 @@
 
 + [Agent Function Calling 错误分类：网络超时权限与业务异常](https://blog.csdn.net/2609_95049439/article/details/163020039)
 
++ [类型系统在大型系统重构中的价值：以 Rust 重写分布式存储为例的渐进类型化实践](https://blog.csdn.net/2301_81410839/article/details/163020866)
+
++ [让OpenClaw走出局域网：看NAS、发小游戏、远控电脑都能做](https://blog.csdn.net/u014727709/article/details/163042231)
+
++ [Python Script Development with AIGC Bar: Automation, Data Processing, and CLI Tools](https://blog.csdn.net/nmdbbzcl/article/details/163055802)
+
