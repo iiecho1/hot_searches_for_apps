@@ -175,3 +175,7 @@
 
 + [外媒称美国政府考虑与联合国难民署切断关系](https://news.cctv.com/2026/07/21/ARTIetTMRejo28iunoYBSxNg260721.shtml)
 
++ [罗马尼亚总统称一液化石油气运输船在该国近海遭袭](https://news.cctv.com/2026/07/21/ARTIVI4WoFtAc4fqxqr0VAkt260721.shtml)
+
++ [专访丨与中国加强人工智能合作将为非洲带来发展机遇——访联合国非洲经济委员会官员利辛格](https://news.cctv.com/2026/07/21/ARTIGlzyxm57VR1ZAr8t1H5b260721.shtml)
+
