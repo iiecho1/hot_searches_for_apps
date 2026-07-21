@@ -141,3 +141,19 @@
 
 + [运维Agent的工具调用框架：Function Calling机制、工具注册与动态编排的架构设计](https://blog.csdn.net/qwe0iop0/article/details/163001712)
 
++ [深度学习实战-基于CNN+VGG16融合的水稻图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/162396154)
+
++ [纹渊 HarmonyOS 7 工程实战（08）：手机、平板与 2in1 的断点布局策略](https://blog.csdn.net/wangji93/article/details/163015701)
+
++ [【信创实战】x86电脑运行麒麟ARM系统：QEMU虚拟化完全指南（含一键脚本、性能优化、AI部署）](https://blog.csdn.net/qq_36411553/article/details/163023594)
+
++ [[LangChain] 聊天模型-结构化输出(2)](https://blog.csdn.net/Boop_wu/article/details/163050218)
+
++ [消息队列；Spring Boot 3.3 + AI Agent × RabbitMQ：让AI自动处理死信和消息路由，运维告警从每天50条降到3条](https://blog.csdn.net/2601_96338609/article/details/163002812)
+
++ [C#调用 AI学习从0开始-第3阶段RAG-Qdrant向量数据库第13天](https://blog.csdn.net/weixin_42800530/article/details/163053362)
+
++ [国产化落地避坑干货向｜Oracle 迁移金仓 KES 隐性陷阱，外连接消除排第一](https://blog.csdn.net/beautifulmemory/article/details/163042206)
+
++ [Docker Compose 简介及应用](https://blog.csdn.net/weixin_40107423/article/details/162995331)
+

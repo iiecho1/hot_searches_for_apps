@@ -169,3 +169,7 @@
 
 + [委内瑞拉强震遇难人数升至5278人](https://news.cctv.com/2026/07/21/ARTIBxsAMMsxCIhD8szmqKL9260721.shtml)
 
++ [伊朗称打击巴林和科威特境内美军目标](https://news.cctv.com/2026/07/21/ARTI5ivgONSR6JduhZRNabYH260721.shtml)
+
++ [伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火](https://news.cctv.com/2026/07/21/ARTIDorDxedeo10PMaZFqD7R260721.shtml)
+
