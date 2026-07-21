@@ -145,3 +145,5 @@
 
 + [Python Script Development with AIGC Bar: Automation, Data Processing, and CLI Tools](https://blog.csdn.net/nmdbbzcl/article/details/163055802)
 
++ [【K8S 运维实战】06-kubectl精通](https://blog.csdn.net/2601_96075259/article/details/163054830)
+

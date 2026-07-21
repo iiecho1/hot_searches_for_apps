@@ -171,3 +171,5 @@
 
 + [中国发布《中国关于数智时代全球网络治理的立场文件》](https://news.cctv.com/2026/07/22/ARTIZVIxYJq6dxSCGME8cVmq260722.shtml)
 
++ [美防长：对伊朗战争已耗资375亿美元](https://news.cctv.com/2026/07/22/ARTIwmZMNinf6hHzQIDnogTK260722.shtml)
+
