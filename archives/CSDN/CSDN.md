@@ -181,3 +181,15 @@
 
 + [Nginx- 负载均衡调优：最少连接策略与权重动态调整](https://blog.csdn.net/qq_41187124/article/details/157658139)
 
++ [智能体国家标准落地：企业合规自查清单（GB/Z 185版）](https://blog.csdn.net/qq_36411553/article/details/163055154)
+
++ [【Qt 资源管理】文件路径方案与 QRC 机制](https://blog.csdn.net/2401_86326742/article/details/163019679)
+
++ [【Web安全】-12-自动化信息收集工具：网络空间测绘工具，空间测绘搜索实战，搜索引擎高级搜索，ARL灯塔扫描工具，集成化收集工具](https://blog.csdn.net/2401_83075246/article/details/162612677)
+
++ [【Linux网络】网络通信实战：UDP & TCP Socket编程实现Echo Server](https://blog.csdn.net/Miun123/article/details/163002787)
+
++ [【Linux网络·加餐】HTTPS协议安全](https://blog.csdn.net/2401_89899187/article/details/163072820)
+
++ [【Docker】技术架构演进之路](https://blog.csdn.net/qinjh_/article/details/161752899)
+

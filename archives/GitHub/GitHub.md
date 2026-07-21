@@ -43,3 +43,27 @@
 
 + [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 
++ [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
++ [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+
++ [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+
++ [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
+
++ [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+
++ [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+
++ [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
+
++ [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+
++ [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
+
++ [agegr/pi-web](https://github.com/agegr/pi-web)
+
++ [schollz/croc](https://github.com/schollz/croc)
+
++ [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
+
