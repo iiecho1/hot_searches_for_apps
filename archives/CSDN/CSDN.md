@@ -101,3 +101,35 @@
 
 + [【Linux 系统篇(五)】权限详解(二)](https://blog.csdn.net/Huang_jin007/article/details/163079540)
 
++ [【AI 测评】想用自己的声音给视频配音？Index-TTS本地部署这样做](https://blog.csdn.net/2402_87298751/article/details/163048294)
+
++ [Provider概述与核心概念_Flutter在鸿蒙平台理解状态管理本质](https://blog.csdn.net/feng8403000/article/details/163099958)
+
++ [HarmonyOS应用开发实战：萌宠日记 - 组件实现底部导航栏](https://blog.csdn.net/NianDeng2026/article/details/163088031)
+
++ [ArkUI 渲染性能优化实战：从列表掉帧到状态分割、LazyForEach 和 Profiler 回归](https://blog.csdn.net/2401_84026308/article/details/163039071)
+
++ [【Web安全】-12-自动化信息收集工具：网络空间测绘工具，空间测绘搜索实战，搜索引擎高级搜索，ARL灯塔扫描工具，集成化收集工具](https://blog.csdn.net/2401_83075246/article/details/162612677)
+
++ [从 Prompt 到上线：Doubao-Seed-Evolving × 世界杯回忆卡，超长上下文的一次浪漫实践](https://blog.csdn.net/weixin_62765017/article/details/163074049)
+
++ [【无人机求援】任务实用程序的多无人机灾难响应框架协助自然灾害期间的救援行动【含Matlab源码 15895期】](https://blog.csdn.net/weixin_63266434/article/details/163109290)
+
++ [LabVIEW自动化测试台中的硬件抽象层与插件架构设计](https://blog.csdn.net/bjcyck/article/details/163076837)
+
++ [B2B外贸网站关键词策略重构：从“列清单“到“建集群“的完整方法论](https://blog.csdn.net/SEO_juper/article/details/163114148)
+
++ [AI×低代码工作流：破解制造业数字化流程异构困局](https://blog.csdn.net/sdgfafg_25/article/details/163070776)
+
++ [面向全场景的 OpenHarmony 应用模块化分层架构研究](https://blog.csdn.net/Helen_cai/article/details/163056905)
+
++ [在 DGX Spark 上养一群会作曲的鸟:生态涌现音序器 + 自研神经合成器黑客松实战](https://blog.csdn.net/weixin_51543645/article/details/163107009)
+
++ [AI视角下中医流派的融通与重构：基于知医邦AI中医辨证体系的创新认知](https://blog.csdn.net/CCC631341/article/details/163102105)
+
++ [玄境智居：当风水遇见 DGX Spark，一次关于“确定性“与“生成式“的工程实验](https://blog.csdn.net/Champ_Wei/article/details/163114430)
+
++ [【Cesium for Unity】普通 Cube 为何会跟随相机漂移？CesiumOriginShift 与 SubScene 原点机制解析](https://blog.csdn.net/qq_41140324/article/details/163052303)
+
++ [网络安全领域简报（2026年7月14日—20日）](https://blog.csdn.net/txg666/article/details/163072854)
+

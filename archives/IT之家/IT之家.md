@@ -25,3 +25,19 @@
 
 + [realme 按下中国市场暂停键，真我副总裁徐起发布告别视频](https://m.ithome.com/html/979710.htm)
 
++ [华为鸿蒙 HarmonyOS 6.1.0.135 版本“隐藏”特性曝光：默认图标优化、耳机控制页面布局调整](https://m.ithome.com/html/979804.htm)
+
++ [全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式](https://m.ithome.com/html/979801.htm)
+
++ [“史诗级”更新：微软悄悄测试 Win11 原生深色“属性”界面](https://m.ithome.com/html/979831.htm)
+
++ [长鑫科技 IPO 网上投资者放弃认购 658.62 万股，弃购率 0.17%](https://m.ithome.com/html/979760.htm)
+
++ [小红书回应 IPO 因前员工举报而受阻传闻：相关信息均不属实](https://m.ithome.com/html/979965.htm)
+
++ [全新迈巴赫 GLS 首秀：中国版支持车位到车位辅助驾驶，还能“读心”](https://m.ithome.com/html/979585.htm)
+
++ [雅迪电动车就与米哈游《绝区零》联动期间合作达人视频出现不当素材道歉](https://m.ithome.com/html/979797.htm)
+
++ [阿里千问 Qwen3.8-Max-Preview 最新版本已上线，前端表现获提升](https://m.ithome.com/html/979756.htm)
+
