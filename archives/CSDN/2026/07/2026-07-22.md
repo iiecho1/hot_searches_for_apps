@@ -163,3 +163,31 @@
 
 + [RoboTTT——面向机器人策略的上下文扩展：将TTT集成至VLA中以推理时建立记忆信息，从而将视觉-运动上下文扩展到 8K 个时间步](https://blog.csdn.net/v_JULY_v/article/details/163056731)
 
++ [AI不是不会分析，而是缺少上下文：KES TimeSeries如何补齐工业数据链路](https://blog.csdn.net/weixin_52908342/article/details/163086566)
+
++ [【花雕学编程】Arduino BLDC 之城市快递机器人——GPS动态路径跟踪+多目标点避障](https://blog.csdn.net/weixin_41659040/article/details/163035947)
+
++ [纹渊 HarmonyOS 7 工程实战（10）：导出分享：从纹样结果到文件载荷](https://blog.csdn.net/wangji93/article/details/163022016)
+
++ [工业AI总是抓瞎？金仓KES时序数据库让分散数据“一处打通“](https://blog.csdn.net/2401_86326742/article/details/163085452)
+
++ [踩过无数坑后，给 LangChain 新手的 8 条血泪忠告](https://blog.csdn.net/qq614250861/article/details/163085309)
+
++ [搭一套截图识别通知机器人：OCR、飞书Webhook与远程触发实战](https://blog.csdn.net/yunjianyue1314/article/details/163072626)
+
++ [6. Ext系列⽂件系统](https://blog.csdn.net/2402_88143778/article/details/163085802)
+
++ [《时序数据模型KES TimeSeries：如何构建在KES融合数据库架构原生能力》](https://blog.csdn.net/Dovis5884/article/details/163084255)
+
++ [【Linux 系统篇(四)】权限详解(一)](https://blog.csdn.net/Huang_jin007/article/details/163021590)
+
++ [SpringCloud——微服务实战：OpenFeign与Nacos服务调用详解](https://blog.csdn.net/weixin_53481983/article/details/163080017)
+
++ [Kimi K3 开放权重实测：前端编码登顶，用云端推理零门槛跑通（附完整接入步骤）](https://blog.csdn.net/m0_69960929/article/details/163069730)
+
++ [Redis 全面介绍](https://blog.csdn.net/2402_87398803/article/details/163084435)
+
++ [MyBatis数据源切换全面解析](https://blog.csdn.net/csdn_silent/article/details/163078849)
+
++ [VSCode vs IDEA 2025.3.4 AI 能力全面对比](https://blog.csdn.net/lovingsoft/article/details/163042427)
+

@@ -187,3 +187,9 @@
 
 + [伊朗称袭击美国亚马逊公司在巴林的数据基础设施](https://news.cctv.com/2026/07/22/ARTIuJhnPCjLyUKJaSGpVy92260722.shtml)
 
++ [苏丹北达尔富尔州一供水点遭无人机袭击 至少21人死亡](https://news.cctv.com/2026/07/22/ARTIHnOO8Y9C1yrtXmIeHfx4260722.shtml)
+
++ [以色列在加沙地带修建“隔离墙”](https://news.cctv.com/2026/07/22/ARTIGFJTqbOqc9CpD3tl1gOa260722.shtml)
+
++ [遭美国加征关税 加拿大取消与美共同庆祝大桥通车](https://news.cctv.com/2026/07/22/ARTI2tbQMw0Avvp4dVidshDh260722.shtml)
+
