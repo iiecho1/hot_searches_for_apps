@@ -165,3 +165,11 @@
 
 + [美国总统为何盯上了伊朗“镐山”核设施？](https://news.cctv.com/2026/07/23/ARTIeGCQa5D6dQFJj71mI438260722.shtml)
 
++ [胡塞武装称袭击两艘沙特油轮](https://news.cctv.com/2026/07/23/ARTIgk5cOGRyiRPn0r7y9DzI260723.shtml)
+
++ [委内瑞拉民众举行示威 要求美国释放马杜罗夫妇](https://news.cctv.com/2026/07/23/ARTIpuSfqL6Ehek81W9q0Bys260723.shtml)
+
++ [特朗普：预计美联邦政府在9月将出现“停摆”](https://news.cctv.com/2026/07/23/ARTIwl7ceF8jv2O19Oinb5D7260723.shtml)
+
++ [马杜罗所涉指控定于明年6月1日开始审理](https://news.cctv.com/2026/07/23/ARTIlZLddnvkEGR2QYErYZVx260723.shtml)
+

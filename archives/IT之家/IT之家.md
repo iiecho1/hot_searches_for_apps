@@ -41,3 +41,23 @@
 
 + [阿里千问 Qwen3.8-Max-Preview 最新版本已上线，前端表现获提升](https://m.ithome.com/html/979756.htm)
 
++ [（更新：已恢复）由于技术原因，DeepSeek 联网搜索暂不可用](https://m.ithome.com/html/980005.htm)
+
++ [消息称华为现在还处于回血状态，Mate 90 系列手机 + τ 定律芯片是转折点](https://m.ithome.com/html/980116.htm)
+
++ [消息称 BBA 主力车型今年集体降价，奥迪销售人员称最高优惠 16 万元](https://m.ithome.com/html/979863.htm)
+
++ [三星 Galaxy Z Fold8 阔折叠手机发布：全新机身形态，起售价 12999 元](https://m.ithome.com/html/980314.htm)
+
++ [去除伪装：小米澎程 SkyNomad N90 Max 白色测试车现身](https://m.ithome.com/html/980184.htm)
+
++ [小米首款新国标移动电源全渠道开售：20000mAh 22.5W 充电宝自带线，149 元](https://m.ithome.com/html/979937.htm)
+
++ [消息称真我国内全线产品已停产，预计 11 月左右售罄](https://m.ithome.com/html/979999.htm)
+
++ [苹果 iPhone 18 Pro 系列已量产：目前处于产能爬坡阶段，富士康迎来招工高峰](https://m.ithome.com/html/980017.htm)
+
++ [小米澎程系列汽车增程器首保后，每 3 年或 3 万公里才需保养一次](https://m.ithome.com/html/980036.htm)
+
++ [秦家族“超大杯”车型，比亚迪秦 MAX 全新“晨曦紫”内饰公布](https://m.ithome.com/html/979943.htm)
+
