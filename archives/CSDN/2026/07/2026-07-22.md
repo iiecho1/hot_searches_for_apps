@@ -205,3 +205,13 @@
 
 + [空口演进与范式重构：2026年6G技术进展深度透视](https://blog.csdn.net/NoBack7/article/details/163109147)
 
++ [【AVDTP】规范精讲[5]: 从源码到空中包，拆解AVDTP内部运行架构](https://blog.csdn.net/weixin_37800531/article/details/162977553)
+
++ [初探嵌入式：藏在电器里的隐形电脑](https://blog.csdn.net/Chen_LSN/article/details/163087159)
+
++ [人眼看不出的伪造，AI如何识别？实测合合信息跨模态鉴伪与去反光技术](https://blog.csdn.net/weixin_51390582/article/details/163034837)
+
++ [HarmonyOS 5.0 新特性全景解读：从 API 12 到 Next](https://blog.csdn.net/u014727709/article/details/163113816)
+
++ [【Linux 系统篇(五)】权限详解(二)](https://blog.csdn.net/Huang_jin007/article/details/163079540)
+

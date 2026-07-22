@@ -195,3 +195,7 @@
 
 + [伊朗外交部发言人：伊朗“镐山”并无核活动](https://news.cctv.com/2026/07/22/ARTI6N1XjIrCzpj0KdHW531r260722.shtml)
 
++ [聚力数字互联互通 多国嘉宾共话数字丝路建设新蓝图](https://news.cctv.com/2026/07/22/ARTIc0HPu8KziInSSSk4tl3q260722.shtml)
+
++ [泽连斯基签署总统令 任命乌军总司令和总参谋长](https://news.cctv.com/2026/07/22/ARTIEd9Kq44A4gIQswuGP0S3260722.shtml)
+
