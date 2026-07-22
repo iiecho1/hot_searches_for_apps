@@ -161,3 +161,5 @@
 
 + [伊朗武装部队：将“毁灭性回击”美国野蛮行径](https://news.cctv.com/2026/07/19/ARTIvyPQaSJUuDCKFykOGVLv260719.shtml)
 
++ [世行警告美伊继续冲突或让全球经济增速降至1.3%](https://news.cctv.com/2026/07/23/ARTIzIP35MwIoKRSdo3PzakJ260722.shtml)
+
