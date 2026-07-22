@@ -191,3 +191,17 @@
 
 + [VSCode vs IDEA 2025.3.4 AI 能力全面对比](https://blog.csdn.net/lovingsoft/article/details/163042427)
 
++ [【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从有趣的词嵌入到文本卷积:用PyTorch拆解NLP文本分类的关键路径)](https://blog.csdn.net/2401_87629362/article/details/162908843)
+
++ [AI 造假泛滥下的跨模态鉴伪解决方案：技术原理与实用工具解析](https://blog.csdn.net/yuan2019035055/article/details/163104519)
+
++ [【花雕学编程】Arduino BLDC 之家庭服务机器人——视觉辅助路径跟踪+人机协同避障](https://blog.csdn.net/weixin_41659040/article/details/163085065)
+
++ [《STL 时空漫游指南》栈上的精灵：SSO 如何让 std::string 在时间的夹缝中起舞——string使用接口详解](https://blog.csdn.net/buhuizhiyuci/article/details/163080954)
+
++ [纹渊 HarmonyOS 7 工程实战（11）：产品载体模型：从固定商品到自定义载体](https://blog.csdn.net/wangji93/article/details/163023395)
+
++ [2026年7月GB/Z 185审查前必刷：5个Agent Loop合规漏洞自检脚本（附一键检测）](https://blog.csdn.net/qq_36411553/article/details/163087692)
+
++ [空口演进与范式重构：2026年6G技术进展深度透视](https://blog.csdn.net/NoBack7/article/details/163109147)
+

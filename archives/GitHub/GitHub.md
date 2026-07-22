@@ -43,3 +43,19 @@
 
 + [agegr/pi-web](https://github.com/agegr/pi-web)
 
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [likec4/likec4](https://github.com/likec4/likec4)
+
++ [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
++ [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
++ [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)
+
++ [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+

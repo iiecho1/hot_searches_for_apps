@@ -59,3 +59,5 @@
 
 + [十年前端已经被裁了 有点迷茫 不知道要干什么](https://www.v2ex.com/t/1229004)
 
++ [大家 VibeCoding 的作品最终用起来了嘛？](https://www.v2ex.com/t/1229044)
+
