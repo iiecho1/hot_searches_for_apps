@@ -147,3 +147,11 @@
 
 + [【K8S 运维实战】06-kubectl精通](https://blog.csdn.net/2601_96075259/article/details/163054830)
 
++ [【花雕学编程】Arduino BLDC 之变电站巡检机器人集中式任务调度 + 速度优先级仲裁](https://blog.csdn.net/weixin_41659040/article/details/163063615)
+
++ [SpringBoot中实现告警判定算法-位报警与模拟量阈值-技术详解](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163077537)
+
++ [Docker Compose 部署 ClickHouse：快速搭建高性能列式数据库](https://blog.csdn.net/java_logo/article/details/163066607)
+
++ [金融系统渗透测试复盘：从授权边界到报告整改的全流程](https://blog.csdn.net/2301_80245214/article/details/163056647)
+

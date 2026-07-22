@@ -23,3 +23,11 @@
 
 + [这事 V 友如何评价](https://www.v2ex.com/t/1228864)
 
++ [股票到底是认知不够还是韭菜](https://www.v2ex.com/t/1228762)
+
++ [这就是为什么我们需要开源 AI 模型的原因](https://www.v2ex.com/t/1228714)
+
++ [今天大 A 是不是又凉了](https://www.v2ex.com/t/1228716)
+
++ [兄弟们提离职了](https://www.v2ex.com/t/1228783)
+

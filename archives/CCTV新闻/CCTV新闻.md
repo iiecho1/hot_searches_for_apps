@@ -173,3 +173,9 @@
 
 + [美防长：对伊朗战争已耗资375亿美元](https://news.cctv.com/2026/07/22/ARTIwmZMNinf6hHzQIDnogTK260722.shtml)
 
++ [伊朗武装部队回应特朗普袭击核设施言论](https://news.cctv.com/2026/07/22/ARTIBgZVndQE49WVjCR2FvXj260722.shtml)
+
++ [圭亚那沉船事故死亡人数升至53人](https://news.cctv.com/2026/07/22/ARTIVkHKQqZ8nN8uU4QTs8YU260722.shtml)
+
++ [美司法部提议2027年6月开审所谓马杜罗涉嫌贩毒案](https://news.cctv.com/2026/07/22/ARTIeDNj3xFP6bCnKWhYHQJd260722.shtml)
+
