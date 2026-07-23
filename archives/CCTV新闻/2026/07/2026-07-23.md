@@ -183,3 +183,13 @@
 
 + [热浪推高欧洲居民对制冷设备需求 “中国制造”为欧洲送去夏日清凉](https://news.cctv.com/2026/07/23/ARTI8vZUgtOuME80zyYcKyFE260723.shtml)
 
++ [研究报告显示气候变暖加剧欧洲干旱](https://news.cctv.com/2026/07/23/ARTIB4VHPjLjtrFFb0AIONTn260723.shtml)
+
++ [印尼东努沙登加拉省一火山喷发 火山灰柱高约1200米](https://news.cctv.com/2026/07/23/ARTI63WDOoAbObsHzOIqkRxg260723.shtml)
+
++ [野火肆虐欧洲多国 西法意均遭重创](https://news.cctv.com/2026/07/23/ARTILgNJzqT4BXTjqY8X0Gxg260723.shtml)
+
++ [阿尔及利亚林火致百余人住院 上百栋房屋受损](https://news.cctv.com/2026/07/23/ARTIZSVAUj0MZMqugH06Gp5z260723.shtml)
+
++ [瑞士一航司两名飞行员疑似醉酒被停飞](https://news.cctv.com/2026/07/23/ARTIDBqYsrqiJ7RCL0njJf9c260723.shtml)
+
