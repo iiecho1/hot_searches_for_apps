@@ -129,3 +129,5 @@
 
 + [SSH 深度扒皮：从底层原理到防薅羊毛企业运维攻略](https://blog.csdn.net/csh843903115/article/details/163140538)
 
++ [DeepSeek v4 Pro / GLM 5.2 / Kimi K2.6 / GPT 5.6 Sol：4 款大模型在 DigitalOcean 无服务器推理上的成本与能力对比](https://blog.csdn.net/DO_Community/article/details/163136053)
+
