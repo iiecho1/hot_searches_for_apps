@@ -133,3 +133,29 @@
 
 + [网络安全领域简报（2026年7月14日—20日）](https://blog.csdn.net/txg666/article/details/163072854)
 
++ [【计算几何 第四章】线性规划：铸模制造](https://blog.csdn.net/he_zhidan/article/details/163023661)
+
++ [【Linux指南】动静态库系列（二）：从源码复用到目标文件复用：为什么需要把 .o 打包成库](https://blog.csdn.net/2302_78391795/article/details/163107097)
+
++ [我们团队修复了 Codex 升级到 GPT 后，客户端无法生图的问题](https://blog.csdn.net/xianyu120/article/details/163113984)
+
++ [深入解析CANN仓库中的HCCL分布式通信库](https://blog.csdn.net/sinat_41617212/article/details/163075137)
+
++ [Nginx- 基于场景的 gzip 调优：不同资源的压缩策略](https://blog.csdn.net/qq_41187124/article/details/157658242)
+
++ [硬核拆解金仓 KES 优化器：外连接消除的触发条件与执行计划分析](https://blog.csdn.net/qq_57761637/article/details/163116134)
+
++ [【MATLAB】嵌入式工程化项目管理](https://blog.csdn.net/unbelievevc/article/details/163120512)
+
++ [【花雕学编程】Arduino BLDC 之机器人语音+触摸双模态指令交互与BLDC动作反馈](https://blog.csdn.net/weixin_41659040/article/details/163119771)
+
++ [[LangChain] 聊天模型-结构化输出(1)](https://blog.csdn.net/Boop_wu/article/details/163048004)
+
++ [【Linux】二十四.《一文吃透Linux线程全面解析：概念、内存管理、优缺点与用途》](https://blog.csdn.net/2501_93351213/article/details/161867790)
+
++ [Bright Data CLI：面向开发者的网页数据获取工具](https://blog.csdn.net/2301_80863610/article/details/163104897)
+
++ [本地存储性能优化 - Flutter在鸿蒙平台提升存储读写效率](https://blog.csdn.net/math_hongfan/article/details/163115585)
+
++ [Jenkins的流程](https://blog.csdn.net/www654321wcn/article/details/163105109)
+

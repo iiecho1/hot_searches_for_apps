@@ -173,3 +173,13 @@
 
 + [马杜罗所涉指控定于明年6月1日开始审理](https://news.cctv.com/2026/07/23/ARTIlZLddnvkEGR2QYErYZVx260723.shtml)
 
++ [英国新首相下调部分地区公交票价](https://news.cctv.com/2026/07/23/ARTIRMFqqcakU8Hcr1GqN3Lx260723.shtml)
+
++ [泰国南部一检查站遭炸弹袭击 5名士兵死亡](https://news.cctv.com/2026/07/23/ARTICrE62CLJIEkdJ7q1HxAk260723.shtml)
+
++ [美军称结束连续第12晚对伊朗打击行动](https://news.cctv.com/2026/07/23/ARTIh9a2Naa485nTmMevSPfJ260723.shtml)
+
++ [沙特证实一艘油轮在红海遭袭起火](https://news.cctv.com/2026/07/23/ARTIFQTMgeCY85lT6lN5K83H260723.shtml)
+
++ [热浪推高欧洲居民对制冷设备需求 “中国制造”为欧洲送去夏日清凉](https://news.cctv.com/2026/07/23/ARTI8vZUgtOuME80zyYcKyFE260723.shtml)
+
