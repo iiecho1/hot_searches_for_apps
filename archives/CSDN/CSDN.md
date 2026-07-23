@@ -101,3 +101,31 @@
 
 + [面向全场景的 OpenHarmony 应用模块化分层架构研究](https://blog.csdn.net/Helen_cai/article/details/163056905)
 
++ [工业AI总是抓瞎？金仓KES时序数据库让分散数据“一处打通“](https://blog.csdn.net/2401_86326742/article/details/163085452)
+
++ [不只是接个大模型——客服Agent接入订单系统的工程复盘](https://blog.csdn.net/2401_87629362/article/details/163075442)
+
++ [HarmonyOS应用实战-启示散页-10-发布前别只看能运行：用清单把离线、包体、备份和隐私一次核完](https://blog.csdn.net/AD0227/article/details/163078627)
+
++ [Go 推荐服务性能：单机扛百万 QPS 的架构取舍](https://blog.csdn.net/m0_50889382/article/details/163099078)
+
++ [Core Web Vitals 闭环：LCP/INP/CLS 的前端监控落地](https://blog.csdn.net/2301_77785315/article/details/163119699)
+
++ [Kimi K3 开放权重实测：前端编码登顶，用云端推理零门槛跑通（附完整接入步骤）](https://blog.csdn.net/m0_69960929/article/details/163069730)
+
++ [Vue3+vite创建项目架构文件说明总结](https://blog.csdn.net/qq_52335693/article/details/163109030)
+
++ [72-Agent安全与可控性-Prompt注入防御-权限控制-沙箱执行](https://blog.csdn.net/weixin_44081096/article/details/163116010)
+
++ [我把整个机器人足球仓库交给 Doubao-Seed-Evolving，它帮我优化了一套足球战术](https://blog.csdn.net/air__Heaven/article/details/163115107)
+
++ [【K8S 运维实战】09-服务暴露Service与Ingress](https://blog.csdn.net/2601_96075259/article/details/163115205)
+
++ [【YOLO26 系列】基于YOLO26葡萄叶病害检测系统【python源码+Pyqt5界面/WEB+数据集+训练代码】](https://blog.csdn.net/qq_33505204/article/details/163115880)
+
++ [云边协同赋能风电现场安全：基于土星云SE110S-WA32的智慧工地整体解决方案](https://blog.csdn.net/SaturnCloud/article/details/163111019)
+
++ [【Bug已解决】Bug: GRPO quickstart max_completion_length=256 default silently breaks training 解决方案](https://blog.csdn.net/mrdeam/article/details/163086396)
+
++ [SSH 深度扒皮：从底层原理到防薅羊毛企业运维攻略](https://blog.csdn.net/csh843903115/article/details/163140538)
+

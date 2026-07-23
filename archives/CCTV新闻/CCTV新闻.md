@@ -167,3 +167,15 @@
 
 + [前往“地球之极” 俄大力推动北极游](https://news.cctv.com/2026/07/24/ARTIxg9EMEOn7rJaQABF48jb260723.shtml)
 
++ [以色列防长称已为应对伊朗局势做好“全方位准备”](https://news.cctv.com/2026/07/24/ARTIpAOV69Q1m3Vkme1sHB79260724.shtml)
+
++ [古特雷斯警告中东局势正处于“难以想象的边缘”](https://news.cctv.com/2026/07/24/ARTIrvDAnO0zL63PvkiKQAmW260724.shtml)
+
++ [美国公布新关税措施 24日生效](https://news.cctv.com/2026/07/24/ARTIpnYHf0OEEf426Pvsichz260724.shtml)
+
++ [欧盟官员：对俄第21轮制裁为四年来规模最大](https://news.cctv.com/2026/07/24/ARTIzcYTPhxEF1OVSXrPUZ4q260724.shtml)
+
++ [特朗普威胁“军事惩罚”伊朗和也门胡塞武装](https://news.cctv.com/2026/07/24/ARTIlFj8DC8IWHh8oV2WHKGY260724.shtml)
+
++ [泽连斯基称 乌将与美雷神公司联合生产“爱国者”拦截导弹](https://news.cctv.com/2026/07/24/ARTIpIzNffyPvnHPFsEpnRZI260724.shtml)
+

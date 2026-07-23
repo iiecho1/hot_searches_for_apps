@@ -25,3 +25,27 @@
 
 + [秦家族“超大杯”车型，比亚迪秦 MAX 全新“晨曦紫”内饰公布](https://m.ithome.com/html/979943.htm)
 
++ [自驾新能源汽车跨境遭远程锁车超 30 小时，车主称事前未提醒](https://m.ithome.com/html/980546.htm)
+
++ [任正非：τ 定律是华为可以选择的唯一一条突围道路](https://m.ithome.com/html/980708.htm)
+
++ [诺基亚 Lumia 复刻：HMD Touch AI 小触屏手机发布，469 元](https://m.ithome.com/html/980409.htm)
+
++ [一人薅羊毛导致全县被电商拉黑：男子用 AI 生成烂果图骗取 1.6 万元水果“仅退款”并转售牟利，获刑一年](https://m.ithome.com/html/980578.htm)
+
++ [王虹、邓煜获 2026 年菲尔兹奖，中国数学实现历史性突破](https://m.ithome.com/html/980846.htm)
+
++ [荣耀官宣全新品牌图形标识“荣耀之环”及全新品牌主张“敢想，敢不同”](https://m.ithome.com/html/980603.htm)
+
++ [消息称苹果 2026 款 Mac Mini 配 M5 Pro/M6 芯片，512GB 起步](https://m.ithome.com/html/980354.htm)
+
++ [苹果发布 iOS / iPadOS 27 第二个公测版](https://m.ithome.com/html/980357.htm)
+
++ [IDC：二季度中国智能手机市场出货量同比下降 4.3%，华为、苹果、一加逆势增长](https://m.ithome.com/html/980568.htm)
+
++ [比亚迪全新 B 级闪充轿车秦 MAX 将于 8 月 13 日上市，搭载闪充技术 + 天神之眼 B](https://m.ithome.com/html/980646.htm)
+
++ [迅雷 17 Windows 尝鲜版上线：界面焕新无捆绑，主打云盘与秒播功能](https://m.ithome.com/html/980616.htm)
+
++ [2025 年度国资委大考：国家电网第一，中国移动 / 联通 / 电信三大运营商集体得 A](https://m.ithome.com/html/980585.htm)
+
