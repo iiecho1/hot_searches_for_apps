@@ -159,3 +159,29 @@
 
 + [Jenkins的流程](https://blog.csdn.net/www654321wcn/article/details/163105109)
 
++ [PyTorch强化学习实战——基于策略梯度法解决Pong环境](https://blog.csdn.net/LOVEmy134611/article/details/159764009)
+
++ [低配N1也能搭家庭录像中心：Go2RTC与EasyNVR双容器实战](https://blog.csdn.net/liu_chen_yang/article/details/163132276)
+
++ [AI Agent Context 工程](https://blog.csdn.net/2301_79289774/article/details/163053609)
+
++ [Doubao-Seed-Evolving大模型接入教程｜搭建全品类提示词+AI工具导航网页](https://blog.csdn.net/weixin_43151418/article/details/163054475)
+
++ [不用单独买NAS:把Windows电脑改造成Plex家庭影音中心](https://blog.csdn.net/2301_76341691/article/details/163132099)
+
++ [内网穿透的应用-把飞牛NAS变成家庭录像中心：EasyNVR部署与远程回放实战](https://blog.csdn.net/weixin_42878111/article/details/163133267)
+
++ [C++ 进阶终章：异常机制与智能指针全解 —— 从错误处理到 RAII 资源管理，打通现代 C++ 的核心命脉](https://blog.csdn.net/mogreat/article/details/163113198)
+
++ [【ADMM】多主体综合能源系统+分布式ADMM研究（Matlab代码实现）](https://blog.csdn.net/m0_64583023/article/details/163120907)
+
++ [383 天，30000 star：RustFS 是怎么从“假开源“逆袭成增长最快的对象存储的](https://blog.csdn.net/rustfs_contrib/article/details/163073250)
+
++ [不只是接个大模型——客服Agent接入订单系统的工程复盘](https://blog.csdn.net/2401_87629362/article/details/163075442)
+
++ [HarmonyOS 6.1 低代码实战：AppGallery Connect Low-Code构建电商后台](https://blog.csdn.net/listening777/article/details/163115731)
+
++ [RAG核心原理拆解-从Embedding到Rerank](https://blog.csdn.net/hhhhhh66654/article/details/163132587)
+
++ [华为OD机考 新系统真题 【统计能源使用时段】](https://blog.csdn.net/qq_45776114/article/details/163119390)
+

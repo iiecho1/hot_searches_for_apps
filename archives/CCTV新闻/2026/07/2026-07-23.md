@@ -193,3 +193,11 @@
 
 + [瑞士一航司两名飞行员疑似醉酒被停飞](https://news.cctv.com/2026/07/23/ARTIDBqYsrqiJ7RCL0njJf9c260723.shtml)
 
++ [中使馆提醒在以色列中国公民密切关注形势做好安全防范](https://news.cctv.com/2026/07/23/ARTI0oTKwjWXhacw0UnRoUNU260723.shtml)
+
++ [意大利已进入夏季旅游旺季，中使馆提醒赴意中国游客注意旅行安全](https://news.cctv.com/2026/07/23/ARTItKtIrPc4EMWniWPkfTSS260723.shtml)
+
++ [英国威尔士地区多条河流水位降至“异常低位”](https://news.cctv.com/2026/07/23/ARTI415kZTOenM28BOFPOhva260723.shtml)
+
++ [刚果（金）本轮埃博拉疫情已致超1000人死亡](https://news.cctv.com/2026/07/23/ARTIBfByIEH6ncnivjCn8Etw260723.shtml)
+

@@ -39,3 +39,15 @@
 
 + [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
 
++ [block/buzz](https://github.com/block/buzz)
+
++ [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+
++ [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+
++ [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+
++ [Automattic/harper](https://github.com/Automattic/harper)
+
++ [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
