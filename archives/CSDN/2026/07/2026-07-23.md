@@ -185,3 +185,23 @@
 
 + [华为OD机考 新系统真题 【统计能源使用时段】](https://blog.csdn.net/qq_45776114/article/details/163119390)
 
++ [Spring Boot启动过程: 从new SpringApplication到run()，这中间到底发生了什么？](https://blog.csdn.net/qq_41840843/article/details/163138044)
+
++ [Bright Data Scraper Studio 深度评测：用 AI 提示词，几分钟为任意网站搭建数据管道（2026）](https://blog.csdn.net/JHXL_/article/details/163120180)
+
++ [认知即服务：从知识到认知CaaS的工程化与商业化](https://blog.csdn.net/universsky2015/article/details/163118414)
+
++ [机器人流程自动化(RPA)进阶——复杂流程编排、异常自愈、AI增强与大规模部署实战](https://blog.csdn.net/u014727709/article/details/163110388)
+
++ [把极空间变成有声内容中心:Audiobookshelf部署与远程续听实战](https://blog.csdn.net/2401_87629362/article/details/163137043)
+
++ [羽球搭子 HarmonyOS 实战（11）：双打配对算法与公平性约束](https://blog.csdn.net/wangji93/article/details/163072965)
+
++ [从一条危险的 WHERE 条件说起：金仓数据库逻辑安全警示](https://blog.csdn.net/lrq13965748542/article/details/163128769)
+
++ [HarmonyOS应用实战-启示散页-06-仪式感动画不要卡业务：用 DrawingPage 隔离抽取和转场](https://blog.csdn.net/AD0227/article/details/163054837)
+
++ [qData专业版V2.5.0技术解析:重构数据开发IDE，升级血缘分析与整库同步](https://blog.csdn.net/qiantongkeji/article/details/163136334)
+
++ [十、Redis之布隆过滤器](https://blog.csdn.net/weixin_45616758/article/details/163109137)
+
