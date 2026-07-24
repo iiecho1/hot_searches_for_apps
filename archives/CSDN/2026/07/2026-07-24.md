@@ -131,3 +131,19 @@
 
 + [DeepSeek v4 Pro / GLM 5.2 / Kimi K2.6 / GPT 5.6 Sol：4 款大模型在 DigitalOcean 无服务器推理上的成本与能力对比](https://blog.csdn.net/DO_Community/article/details/163136053)
 
++ [破除工业 AI 业务落地壁垒：多模时序融合架构重塑设备全维度数据价值](https://blog.csdn.net/2301_80350265/article/details/163084783)
+
++ [《智能驾驶拆解笔记：老周唠透车圈AI》第1篇](https://blog.csdn.net/weixin_62244995/article/details/162998667)
+
++ [一文讲透5G RedCap](https://blog.csdn.net/NoBack7/article/details/163137029)
+
++ [SpringBoot中集成阿里云消息队列 ApsaraMQ for RabbitMQ 全面指南](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163079127)
+
++ [数据库 mysql篇 八股1](https://blog.csdn.net/lihaoweiwudi_/article/details/163142248)
+
++ [系统设计 020：数据库备份架构与分片Sharding实战｜MySQL_NoSQL双端深度解析](https://blog.csdn.net/2503_92624912/article/details/163141657)
+
++ [6. Ext系列⽂件系统](https://blog.csdn.net/2402_88143778/article/details/163085802)
+
++ [Linux Makefile 超全详解：从原理、语法到企业级实战](https://blog.csdn.net/weixin_64304261/article/details/162691851)
+
