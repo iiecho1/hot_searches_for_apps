@@ -179,3 +179,11 @@
 
 + [泽连斯基称 乌将与美雷神公司联合生产“爱国者”拦截导弹](https://news.cctv.com/2026/07/24/ARTIpIzNffyPvnHPFsEpnRZI260724.shtml)
 
++ [伊朗外长：扣押他国资产作赔偿将开创危险先例 加剧紧张局势](https://news.cctv.com/2026/07/24/ARTIYYJW9kEZ92KS2NABYYcC260724.shtml)
+
++ [圭亚那沉船事故遇难人数升至72人](https://news.cctv.com/2026/07/24/ARTIbzKKfg4jYHnfQ8Nt5DNl260724.shtml)
+
++ [我驻福冈总领事馆提醒领区中国公民谨防溺水](https://news.cctv.com/2026/07/24/ARTIcgnIRzYbnEHhVUNTzSTv260724.shtml)
+
++ [挑衅→遭反制→卖惨 菲律宾蓄意挑衅在南海密集“碰瓷”](https://news.cctv.com/2026/07/24/ARTIwss1MEVgyeoDezvov2ay260724.shtml)
+
