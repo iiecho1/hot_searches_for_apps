@@ -169,3 +169,7 @@
 
 + [胡塞武装：曼德海峡未关闭 海上措施仅针对沙特](https://news.cctv.com/2026/07/25/ARTIEoW3x7uADU5jVo0yuWDx260724.shtml)
 
++ [委内瑞拉正式通报联合国 决定退出国际刑事法院](https://news.cctv.com/2026/07/25/ARTIQeGera3AO8vGg5hHbbHA260725.shtml)
+
++ [特朗普称美方正与伊朗谈判 不排除加大军事打击](https://news.cctv.com/2026/07/25/ARTIjMBYwJIg1nWmEVDeS1Wu260725.shtml)
+

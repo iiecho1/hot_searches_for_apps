@@ -45,3 +45,9 @@
 
 + [两男子半月内流窜酒店，专偷内存条获利 1.3 万余元被抓](https://m.ithome.com/html/980900.htm)
 
++ [苹果 MacBook Neo 2 笔记本前瞻：A19 Pro 芯片 +12GB 内存](https://m.ithome.com/html/980950.htm)
+
++ [小米汽车：澎程系列搭载与东安动力深度定制增程器，配套壳牌定制行业最高标准机油](https://m.ithome.com/html/980928.htm)
+
++ [丘成桐：王虹和邓煜双双获得菲尔兹奖标志着中国数学界的整体走向成熟，一直诚挚邀请他们回来任教](https://m.ithome.com/html/980921.htm)
+
