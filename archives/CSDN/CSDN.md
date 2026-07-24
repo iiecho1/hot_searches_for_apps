@@ -101,3 +101,37 @@
 
 + [Linux Makefile 超全详解：从原理、语法到企业级实战](https://blog.csdn.net/weixin_64304261/article/details/162691851)
 
++ [【LE Audio】CSIS精讲[6]: BR/EDR侧SDP互操作 从协议配置到兼容实现](https://blog.csdn.net/weixin_37800531/article/details/162987459)
+
++ [RAG 在新闻摘要中的应用：多源信息聚合和时效性敏感的检索策略](https://blog.csdn.net/2401_87746054/article/details/163119703)
+
++ [Agent & AI 名词大扫盲](https://blog.csdn.net/2401_89111612/article/details/163132016)
+
++ [AI直播审核：实时音视频流的自动违规检测与分级处理方案](https://blog.csdn.net/dicky_zhang3/article/details/163119842)
+
++ [MySQL数据库原理与实践(三):表的约束](https://blog.csdn.net/2502_93841997/article/details/163158119)
+
++ [OpenClaw 金融行业落地：智能投顾助手的合规设计与工程实战](https://blog.csdn.net/sinat_41617212/article/details/163134691)
+
++ [【Linux网络】深入理解UDP：从协议解析到sk_buff内核级UDP通信流程](https://blog.csdn.net/Miun123/article/details/163140704)
+
++ [Go 万人直播弹幕系统：多机房消息分发与抗冲击设计](https://blog.csdn.net/baronbool/article/details/163119625)
+
++ [GitHub Dependabot介绍（自动依赖更新工具、自动依赖升级机器人）与Renovate对比](https://blog.csdn.net/Dontla/article/details/162616809)
+
++ [营销前端高并发复盘：秒杀场景下的前端稳定性保障](https://blog.csdn.net/weixin_49475940/article/details/163119687)
+
++ [鸿蒙 PC Markdown 编辑器文件拖放：文档会话与图片资源分流](https://blog.csdn.net/2302_80329073/article/details/163131905)
+
++ [Fastjson 1.2.83 “Gadget-Free“ RCE](https://blog.csdn.net/niaiheni/article/details/163103133)
+
++ [从零实现一个分布式监控：Grafana的核心设计](https://blog.csdn.net/2502_94055806/article/details/163139343)
+
++ [Fastjson 1.2.83 漏洞复现与源码分析笔记](https://blog.csdn.net/hello_mszcc/article/details/163106594)
+
++ [阿里开源Java多智能体框架LangEngine](https://blog.csdn.net/lonelymanontheway/article/details/160052826)
+
++ [N1盒子播放4K总卡顿？OpenList开启302重定向完整教程](https://blog.csdn.net/2301_76297596/article/details/163158972)
+
++ [Pi Web：给 pi coding agent 装一扇“看得见的门“](https://blog.csdn.net/design1985/article/details/163108763)
+
