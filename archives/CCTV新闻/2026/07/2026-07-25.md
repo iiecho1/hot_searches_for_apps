@@ -165,3 +165,7 @@
 
 + [美国对贸易伙伴征收新关税 多国反对](https://news.cctv.com/2026/07/25/ARTIOGVgstme2oe6GhUil4CM260724.shtml)
 
++ [日本自民党再曝丑闻 多人称被迫“进贡”大额资金](https://news.cctv.com/2026/07/25/ARTI3HXuZ7EJrad1y8X4S7AD260724.shtml)
+
++ [胡塞武装：曼德海峡未关闭 海上措施仅针对沙特](https://news.cctv.com/2026/07/25/ARTIEoW3x7uADU5jVo0yuWDx260724.shtml)
+
