@@ -33,3 +33,13 @@
 
 + [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
++ [yorukot/superfile](https://github.com/yorukot/superfile)
+
++ [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+
++ [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
+

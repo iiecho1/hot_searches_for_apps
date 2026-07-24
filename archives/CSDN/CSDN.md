@@ -171,3 +171,21 @@
 
 + [Vue3 表单双向绑定与响应式核心 API 技术详解](https://blog.csdn.net/suger__salt/article/details/163137388)
 
++ [把随身WiFi改成网盘聚合器：中兴F50挂载本地存储+夸克网盘实战](https://blog.csdn.net/2401_82648291/article/details/163158280)
+
++ [不到 5 分钟完成本地部署：Jina embedding 模型现已支持本地部署](https://blog.csdn.net/UbuntuTouch/article/details/163158713)
+
++ [2026国标合规：Agent Loop合规设计模式的6种循环架构（GB/Z 185.6+Python）](https://blog.csdn.net/qq_36411553/article/details/163147823)
+
++ [HarmonyOS开发实战：小分享-Scroll组件实现可滚动内容区](https://blog.csdn.net/yaoyaoxingzhe/article/details/163116410)
+
++ [金融文本信息抽取：财报、公告、新闻的三源融合解析](https://blog.csdn.net/weixin_43272162/article/details/163119667)
+
++ [阿里开源Java多智能体框架LangEngine](https://blog.csdn.net/lonelymanontheway/article/details/160052826)
+
++ [TCP 核心机制](https://blog.csdn.net/zzzzz77777aaaaaa/article/details/163158363)
+
++ [Fastjson 1.2.83 “Gadget-Free“ RCE](https://blog.csdn.net/niaiheni/article/details/163103133)
+
++ [鸿蒙 PC Markdown 编辑器文件拖放：文档会话与图片资源分流](https://blog.csdn.net/2302_80329073/article/details/163131905)
+

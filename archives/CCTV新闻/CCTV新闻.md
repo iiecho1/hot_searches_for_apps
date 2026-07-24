@@ -199,3 +199,17 @@
 
 + [中方代表团有力驳斥日方攻击抹黑](https://news.cctv.com/2026/07/24/ARTI38cNUWLE2zpMWTTVte1e260724.shtml)
 
++ [山火难控 西班牙请求欧盟提供支援](https://news.cctv.com/2026/07/24/ARTIVb3kk5bSVQ1aRKjKLatC260724.shtml)
+
++ [美国防部公布下调的对伊战事美军阵亡人数](https://news.cctv.com/2026/07/24/ARTIspywWNYBWTDbn0lQ8eYr260724.shtml)
+
++ [伊朗外长：国际社会面临非法使用武力等多重挑战](https://news.cctv.com/2026/07/24/ARTI1ynY4ioyuYmr3bKzaGzW260724.shtml)
+
++ [美国新关税措施遭质疑 被指“毫无道理”](https://news.cctv.com/2026/07/24/ARTIAal20TSra3Rdo86VEOLV260724.shtml)
+
++ [巴基斯坦西北部一检查站遇袭致14死24伤](https://news.cctv.com/2026/07/24/ARTI2TFpggDunRMxYGEoSF7a260724.shtml)
+
++ [法国今年森林火灾过火面积已超5万公顷](https://news.cctv.com/2026/07/24/ARTIlLICIWqz0NVQk1RhCahx260724.shtml)
+
++ [肯尼亚捣毁一电诈窝点，遣返一批涉嫌电诈中国籍人员](https://news.cctv.com/2026/07/24/ARTITNcPLUUfNmnhdESQrrGk260724.shtml)
+
