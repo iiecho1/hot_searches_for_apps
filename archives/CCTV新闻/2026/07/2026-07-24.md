@@ -213,3 +213,9 @@
 
 + [肯尼亚捣毁一电诈窝点，遣返一批涉嫌电诈中国籍人员](https://news.cctv.com/2026/07/24/ARTITNcPLUUfNmnhdESQrrGk260724.shtml)
 
++ [国际人士积极评价中国携手各方构建公正合理的全球人工智能治理体系——“展现了推动人工智能普惠向善发展的大国担当”](https://news.cctv.com/2026/07/24/ARTInTcARquvttyyg6C2fnx7260724.shtml)
+
++ [追寻共同记忆 中美青年在柳州续写飞虎队友谊](https://news.cctv.com/2026/07/24/ARTIXPmyC9pnGnMfOtkyKQhf260724.shtml)
+
++ [孟加拉国总统楚普辞职](https://news.cctv.com/2026/07/24/ARTIQGYUfJoAM0w8Vs8NLfc6260724.shtml)
+

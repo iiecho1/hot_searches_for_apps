@@ -189,3 +189,11 @@
 
 + [鸿蒙 PC Markdown 编辑器文件拖放：文档会话与图片资源分流](https://blog.csdn.net/2302_80329073/article/details/163131905)
 
++ [DolphinDB 实时对比分析实战：同比、环比与基线偏差计算的完整工程实践](https://blog.csdn.net/sinat_41617212/article/details/163111778)
+
++ [【LangChain系列】 with_structured_output 详解：大模型结构化输出全教程](https://blog.csdn.net/hanwangyyds/article/details/162739375)
+
++ [DeepSeek V4 正式GA：1.6T MoE架构深度解析、混合注意力机制与百万Token上下文实战](https://blog.csdn.net/m0_53142039/article/details/163143433)
+
++ [MySQL数据库原理与实践(三):表的约束](https://blog.csdn.net/2502_93841997/article/details/163158119)
+
