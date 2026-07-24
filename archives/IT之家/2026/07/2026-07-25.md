@@ -25,3 +25,23 @@
 
 + [2025 年度国资委大考：国家电网第一，中国移动 / 联通 / 电信三大运营商集体得 A](https://m.ithome.com/html/980585.htm)
 
++ [知乎发文祝贺邓煜斩获菲尔兹奖，数学天才画风曝光](https://m.ithome.com/html/980863.htm)
+
++ [消息称腾讯 317 万元年终奖员工因泄密被辞退：列入黑名单，永不录用](https://m.ithome.com/html/980936.htm)
+
++ [雷军谈小米澎程系列车型为何不做纯电动力：方盒子造型风阻大，超大电池会增重反而影响续航](https://m.ithome.com/html/980716.htm)
+
++ [领克家族首款旅行车 07GT 上市：同级唯一 MRC 悬架、标配千里浩瀚 H5，限时 14.58 万元起](https://m.ithome.com/html/980830.htm)
+
++ [卢泰文“间接回应”苹果 iPhone Ultra：三星深耕折叠屏手机领域 7 年，对手短期难追赶](https://m.ithome.com/html/980810.htm)
+
++ [东风奕派 M8 上市：首批搭载华为乾崑智驾 ADS 5 Pro，限时权益价 16.58 万元起](https://m.ithome.com/html/980835.htm)
+
++ [雅迪董事长董经贵：我是尊界的绝对粉丝，一下子就买了三辆 S800](https://m.ithome.com/html/980922.htm)
+
++ [小米澎程新车布局示意图发布，雷军透露 N90 转弯半径很小](https://m.ithome.com/html/980843.htm)
+
++ [李肖爽：小米澎程增程器 7 个核心零部件全部重新选型、重点开发，感谢东安动力](https://m.ithome.com/html/980711.htm)
+
++ [两男子半月内流窜酒店，专偷内存条获利 1.3 万余元被抓](https://m.ithome.com/html/980900.htm)
+
