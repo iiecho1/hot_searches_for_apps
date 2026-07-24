@@ -51,3 +51,15 @@
 
 + [丘成桐：王虹和邓煜双双获得菲尔兹奖标志着中国数学界的整体走向成熟，一直诚挚邀请他们回来任教](https://m.ithome.com/html/980921.htm)
 
++ [公安部：缅北“四大家族”犯罪集团已被彻底摧毁，KK 园区 630 余栋建筑已全部拆除](https://m.ithome.com/html/981158.htm)
+
++ [宇树科技 CEO 王兴兴登上《时代》杂志封面，近 2.7 米高的 GD01 载人机甲几乎占满画面](https://m.ithome.com/html/981153.htm)
+
++ [电子版“掩耳盗铃”，微信撤回消息后本机可删除提示字](https://m.ithome.com/html/981287.htm)
+
++ [中国美术学院录取通知书附带 30 张“暑假作业”，校方回应称并非所有专业都有](https://m.ithome.com/html/981096.htm)
+
++ [小米新机入网：备案小米 MiMo、文心一言、DeepSeek、通义千问等多款大模型](https://m.ithome.com/html/981378.htm)
+
++ [Token 调用量涨 6 倍！华为：运力成 AI 算力最大瓶颈，不该执着单芯片制程](https://m.ithome.com/html/981320.htm)
+
