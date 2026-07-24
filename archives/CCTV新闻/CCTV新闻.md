@@ -187,3 +187,15 @@
 
 + [挑衅→遭反制→卖惨 菲律宾蓄意挑衅在南海密集“碰瓷”](https://news.cctv.com/2026/07/24/ARTIwss1MEVgyeoDezvov2ay260724.shtml)
 
++ [接连有中国公民不幸遭遇意外身亡 中国驻法国里昂总领馆提醒](https://news.cctv.com/2026/07/24/ARTIKXQuI84RlrHjaXHHXIe5260724.shtml)
+
++ [日本再排7900吨核污染水入海 超此前预计排放量](https://news.cctv.com/2026/07/24/ARTI8o6HSyZA2ighrGfU0gQk260724.shtml)
+
++ [联合国举行秘书长候选人辩论会](https://news.cctv.com/2026/07/24/ARTIJyZDVmNDG2oh2DQc636R260724.shtml)
+
++ [巴林全境拉响警报 美国海军第五舰队总部附近传出爆炸声](https://news.cctv.com/2026/07/24/ARTIgBk1TVf25VZ6PamqOzdZ260724.shtml)
+
++ [斯里兰卡发生针对中国公民抢劫等案件，中使馆发布安全提醒](https://news.cctv.com/2026/07/24/ARTIXKrfclq6AYzg7e0HFgaq260724.shtml)
+
++ [中方代表团有力驳斥日方攻击抹黑](https://news.cctv.com/2026/07/24/ARTI38cNUWLE2zpMWTTVte1e260724.shtml)
+

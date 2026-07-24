@@ -147,3 +147,27 @@
 
 + [Linux Makefile 超全详解：从原理、语法到企业级实战](https://blog.csdn.net/weixin_64304261/article/details/162691851)
 
++ [搭一套自己的智能自动化中枢：n8n、DeepSeek与公网Webhook实战(1)](https://blog.csdn.net/SDFsoul/article/details/163143703)
+
++ [【MYSQL】MYSQL学习的一大重点：基本查询（上）](https://blog.csdn.net/2401_89899187/article/details/163141581)
+
++ [Codex Hooks 实战：给 AI 工作流增加确定性门禁](https://blog.csdn.net/weixin_74809706/article/details/162941582)
+
++ [【AVDTP】规范精讲[6]: 打通全流程，蓝牙音频连接背后的12步信令博弈](https://blog.csdn.net/weixin_37800531/article/details/162987520)
+
++ [2026 开源 ERP/进销存横评：功能、技术栈、二开成本三维度对比](https://blog.csdn.net/zhouzhongyan/article/details/163148255)
+
++ [【花雕学编程】Arduino BLDC 之三机器人编队VFF + 附加旋转力场逃逸](https://blog.csdn.net/weixin_41659040/article/details/163147788)
+
++ [mattpocock/skills 深度解析：用 22 个 Claude Code 技能构建可维护的 AI 编程工作流](https://blog.csdn.net/zhangay1998/article/details/162878474)
+
++ [OpenClaw 金融行业落地：智能投顾助手的合规设计与工程实战](https://blog.csdn.net/sinat_41617212/article/details/163134691)
+
++ [Re：Linux系统篇（四十六）信号篇·四：一文串联操作系统底层：时钟中断、内核态切换、系统调用与 Linux 信号处理全解析](https://blog.csdn.net/Z2314246476/article/details/162991793)
+
++ [【Java并发】彻底吃透ThreadLocal：原理、源码、内存泄漏、实战场景（超细详解）](https://blog.csdn.net/2402_87291029/article/details/163156473)
+
++ [基于鸿蒙OS开发附近社交游戏平台（八）-聊天组件](https://blog.csdn.net/blackson2001/article/details/163097683)
+
++ [Vue3 表单双向绑定与响应式核心 API 技术详解](https://blog.csdn.net/suger__salt/article/details/163137388)
+
