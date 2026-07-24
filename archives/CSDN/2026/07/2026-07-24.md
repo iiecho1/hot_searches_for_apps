@@ -197,3 +197,19 @@
 
 + [MySQL数据库原理与实践(三):表的约束](https://blog.csdn.net/2502_93841997/article/details/163158119)
 
++ [三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练](https://blog.csdn.net/Mrxiao_bo/article/details/163158948)
+
++ [商用车多体动力学实战笔记｜第2篇：整车坐标系与刚体自由度建模](https://blog.csdn.net/weixin_62244995/article/details/162990805)
+
++ [硬核拆解：Linux 静态库从原理到实战](https://blog.csdn.net/2502_93841997/article/details/160792512)
+
++ [微服务架构实战：独立开发者从单体到分布式的决策与落地](https://blog.csdn.net/weixin_63764436/article/details/163119523)
+
++ [Prompt 不是即兴发挥：结构化设计与版本化评测的工程化路径](https://blog.csdn.net/2401_83508463/article/details/163115967)
+
++ [网关层的安全防护体系建设——从 WAF 到 API 安全的纵深防御架构](https://blog.csdn.net/alex_goden/article/details/163119858)
+
++ [【Bug已解决】[BUG] ImportError: cannot import name ‘AwqGEMMQuantLinear‘ from ‘gptqmodel.nn_modules.qlinea](https://blog.csdn.net/weixin_52908342/article/details/163169980)
+
++ [多Agent协作在家庭事务处理中的编排设计：任务分解、冲突检测与状态同步](https://blog.csdn.net/specter__/article/details/163098284)
+

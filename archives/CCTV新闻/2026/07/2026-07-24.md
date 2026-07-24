@@ -219,3 +219,9 @@
 
 + [孟加拉国总统楚普辞职](https://news.cctv.com/2026/07/24/ARTIQGYUfJoAM0w8Vs8NLfc6260724.shtml)
 
++ [美官员：美政府担忧先进武器库存消耗过快](https://news.cctv.com/2026/07/24/ARTI8DsKlRl2Mvp6IAlEwILV260724.shtml)
+
++ [霍尔木兹海峡附近一商船遭袭 船上有30名船员](https://news.cctv.com/2026/07/24/ARTIJWI3FFL2m33iNYI81vfY260724.shtml)
+
++ [四部门印发《综合运输服务发展“十五五”规划》](https://news.cctv.com/2026/07/24/ARTINnABVEDFxzv1it42VATs260724.shtml)
+
