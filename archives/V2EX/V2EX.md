@@ -51,3 +51,7 @@
 
 + [我的 macOS 27 b4 输入法出问题了](https://www.v2ex.com/t/1229637)
 
++ [ChatGPT/Codex 都挂了](https://www.v2ex.com/t/1229754)
+
++ [技术已死？](https://www.v2ex.com/t/1229704)
+
