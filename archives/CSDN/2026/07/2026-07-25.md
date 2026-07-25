@@ -153,3 +153,5 @@
 
 + [【Linux】二十四.线程篇一《一文吃透Linux线程全面解析：概念、内存管理、优缺点与用途》](https://blog.csdn.net/2501_93351213/article/details/161867790)
 
++ [《STL 时空漫游指南》栈上的精灵：SSO 如何让 std::string 在时间的夹缝中起舞——string使用接口详解](https://blog.csdn.net/buhuizhiyuci/article/details/163080954)
+

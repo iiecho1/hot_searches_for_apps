@@ -183,3 +183,13 @@
 
 + [海峡通行受阻 中东多国着手另辟能源通道](https://news.cctv.com/2026/07/25/ARTIjtI96fLGeYc2SwNA5obP260725.shtml)
 
++ [美国多家科技企业联合声明支持开放权重模型](https://news.cctv.com/2026/07/25/ARTIp8VAsOsYWqfP4gBf2NHv260725.shtml)
+
++ [美国宣布制裁涉伊朗4名个人和9家企业](https://news.cctv.com/2026/07/25/ARTIaUpZ1aQ9wz5CIF1sWDZc260725.shtml)
+
++ [委内瑞拉宣布退出国际刑事法院](https://news.cctv.com/2026/07/25/ARTIZHdCsE6o5h31FMfOavjB260725.shtml)
+
++ [载有11名外国游客的快艇在印尼东部海域失联](https://news.cctv.com/2026/07/25/ARTIO2T7keuDfRjXFAwcrY2Z260725.shtml)
+
++ [日本连续5天出现“酷暑日” 刷新历史纪录](https://news.cctv.com/2026/07/25/ARTIAPhtMzFH4MCR3JFQxEzu260725.shtml)
+
