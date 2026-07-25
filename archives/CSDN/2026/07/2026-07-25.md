@@ -171,3 +171,17 @@
 
 + [软件工程没有项目经验，怎么准备校招](https://blog.csdn.net/XIAOYU672013/article/details/163174934)
 
++ [Bright Data Scraper Studio 深度评测：用 AI 提示词，几分钟为任意网站搭建数据管道（2026）](https://blog.csdn.net/weixin_66592566/article/details/162835498)
+
++ [鸿蒙 PC Markdown 编辑器桌面工作台：ArkUI 自由窗口布局与状态设计](https://blog.csdn.net/2302_80329073/article/details/163171156)
+
++ [WorkBuddy 我断断续续用了三个多月,有几个功能是真离不开了](https://blog.csdn.net/Mrxiao_bo/article/details/163158909)
+
++ [《如何在CentOS 7中添加Plex官方软件源：解决文件磁盘难管理难题》](https://blog.csdn.net/Dovis5884/article/details/163183557)
+
++ [把NAS变成家庭照片中心：Immich自动备份与远程查看实战](https://blog.csdn.net/2401_86326742/article/details/163137174)
+
++ [deepseek 梁文锋四小时投资人交流会实录整理版PDF下载（结构化目录版）](https://blog.csdn.net/2401_86560956/article/details/163143905)
+
++ [Jenkins课程](https://blog.csdn.net/webBOFB/article/details/163164316)
+
