@@ -145,3 +145,11 @@
 
 + [Vue3+vite创建项目架构文件说明总结](https://blog.csdn.net/qq_52335693/article/details/163109030)
 
++ [那些年我们写过的“炸弹SQL“——生产环境里的不规范写法到底埋了多少雷](https://blog.csdn.net/qq_32682301/article/details/163176033)
+
++ [SpringBoot配置文件详解与实战](https://blog.csdn.net/2401_83281222/article/details/163163295)
+
++ [【免费】基于Spark实时电商用户行为分析与预测 系统(Python版本+pyspark+可视化大屏+Kafka+FastAPI+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163158343)
+
++ [【Linux】二十四.线程篇一《一文吃透Linux线程全面解析：概念、内存管理、优缺点与用途》](https://blog.csdn.net/2501_93351213/article/details/161867790)
+

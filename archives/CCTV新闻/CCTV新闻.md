@@ -173,3 +173,13 @@
 
 + [特朗普称美方正与伊朗谈判 不排除加大军事打击](https://news.cctv.com/2026/07/25/ARTIjMBYwJIg1nWmEVDeS1Wu260725.shtml)
 
++ [美“星舰”完成第13次试飞 飞船在印度洋溅落](https://news.cctv.com/2026/07/25/ARTIMntvcYA0TFUlopNP0kJC260725.shtml)
+
++ [刚果（金）埃博拉确诊病例接近3000例](https://news.cctv.com/2026/07/25/ARTIjiDGPGw7lKRpFNU8NG42260725.shtml)
+
++ [英国一处工业区发生火灾和爆炸](https://news.cctv.com/2026/07/25/ARTIyUshCqZLTWF3JMYOAls7260725.shtml)
+
++ [特朗普称伊朗“还没准备好”达成协议](https://news.cctv.com/2026/07/25/ARTIn01cCVGWPeqFxKRG8Ipz260725.shtml)
+
++ [海峡通行受阻 中东多国着手另辟能源通道](https://news.cctv.com/2026/07/25/ARTIjtI96fLGeYc2SwNA5obP260725.shtml)
+
