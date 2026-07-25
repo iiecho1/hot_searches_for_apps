@@ -33,3 +33,19 @@
 
 + [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
 
++ [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+
++ [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+
++ [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+
++ [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+
++ [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+

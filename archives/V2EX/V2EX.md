@@ -55,3 +55,7 @@
 
 + [技术已死？](https://www.v2ex.com/t/1229704)
 
++ [吃瓜 openai gpt 全网 503](https://www.v2ex.com/t/1229759)
+
++ [你有做不好工作怪梯子的时候吗](https://www.v2ex.com/t/1229705)
+
