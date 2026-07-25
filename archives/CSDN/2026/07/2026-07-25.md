@@ -185,3 +185,7 @@
 
 + [Jenkins课程](https://blog.csdn.net/webBOFB/article/details/163164316)
 
++ [从单体 Agent 到 Agent 平台：一次架构迁移的技术方案和组织挑战](https://blog.csdn.net/2401_87746054/article/details/163160730)
+
++ [Spring Boot Starter实现基于 Redis + Lua 的分布式锁封装与实践](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163139251)
+
