@@ -193,3 +193,5 @@
 
 + [日本连续5天出现“酷暑日” 刷新历史纪录](https://news.cctv.com/2026/07/25/ARTIAPhtMzFH4MCR3JFQxEzu260725.shtml)
 
++ [奥地利官员：反对为乌克兰加入欧盟开“快速通道”](https://news.cctv.com/2026/07/25/ARTIJZT3SRuWgf9OfA84ekfV260725.shtml)
+

@@ -155,3 +155,13 @@
 
 + [《STL 时空漫游指南》栈上的精灵：SSO 如何让 std::string 在时间的夹缝中起舞——string使用接口详解](https://blog.csdn.net/buhuizhiyuci/article/details/163080954)
 
++ [让AI真正理解业务：KES TimeSeries如何构建多模态数据底座](https://blog.csdn.net/weixin_52908342/article/details/163175445)
+
++ [【数据库】CRUD--查](https://blog.csdn.net/2601_95402431/article/details/162895581)
+
++ [【PCIe小知识】PCIe 5.0/6.0里面提到的IDE/DOE/SPDM 分别是什么？](https://blog.csdn.net/Saniffer/article/details/163128990)
+
++ [【网络安全】Living off the Land 攻击 | 蓝队防守](https://blog.csdn.net/qq_41608408/article/details/163119324)
+
++ [Android 系统应用蓝牙分享失败分析解决](https://blog.csdn.net/wenzhi20102321/article/details/163143219)
+
