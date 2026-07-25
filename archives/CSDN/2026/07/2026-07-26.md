@@ -141,3 +141,5 @@
 
 + [DumpAny —— 一款支持 HTTP / gRPC / MySQL / Redis 的全能网络调试工具](https://blog.csdn.net/Yshe_xun/article/details/163172624)
 
++ [MySQL——基本查询（上）](https://blog.csdn.net/lijiatong1028/article/details/163171801)
+
