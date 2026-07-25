@@ -25,3 +25,27 @@
 
 + [Token 调用量涨 6 倍！华为：运力成 AI 算力最大瓶颈，不该执着单芯片制程](https://m.ithome.com/html/981320.htm)
 
++ [滥用市场支配地位实施垄断行为，携程被罚没 51.79 亿元](https://m.ithome.com/html/981442.htm)
+
++ [消息称苹果为消化内存涨价，提议下调 iPhone 18 Pro / Max 的 OLED 面板采购价](https://m.ithome.com/html/981411.htm)
+
++ [国际版小米 18 Pro 手机曝光：不登陆印度市场，妙享背屏走向世界舞台](https://m.ithome.com/html/981434.htm)
+
++ [11 年前清华一场答辩刷屏：月之暗面 Kimi 创始人杨植麟全满分，推荐者“唐杰”后来创办智谱](https://m.ithome.com/html/981470.htm)
+
++ [高通宣布 9 月起芯片涨价：涨幅达两位数百分比，骁龙 8 Elite Gen 6 受影响](https://m.ithome.com/html/981400.htm)
+
++ [涨价博弈进入白热化阶段：国内 TOP6 手机厂商已有多家抵制内存涨价](https://m.ithome.com/html/981463.htm)
+
++ [库克力推长鑫、长存加入苹果供应链遭美光强烈反对，特朗普夹在中间犯愁](https://m.ithome.com/html/981580.htm)
+
++ [阿里：Qoder Mobile 移动端 App 安卓、iOS、鸿蒙三大版本同步上线，功能层面完全一致](https://m.ithome.com/html/981548.htm)
+
++ [携程：诚恳接受、坚决服从市场监管总局行政处罚决定，逐项推进、系统落实各项整改工作](https://m.ithome.com/html/981453.htm)
+
++ [日印高铁合作再生事端：日本前官员怒批印度人各种离谱且“不守承诺”，印度回应称“与事实严重不符”](https://m.ithome.com/html/981480.htm)
+
++ [零跑 A05 纯电小车设计细节公开：高通 8295 旗舰座舱芯片、二排小桌板等](https://m.ithome.com/html/981538.htm)
+
++ [奇瑞风云 A9 纯电轿跑上市，超级置换价 10.69 万元起](https://m.ithome.com/html/981575.htm)
+

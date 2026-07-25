@@ -101,3 +101,33 @@
 
 + [【PCIe小知识】PCIe 5.0/6.0里面提到的IDE/DOE/SPDM 分别是什么？](https://blog.csdn.net/Saniffer/article/details/163128990)
 
++ [TimechoAI 时序大模型实战：从「存数据」到「懂数据」的工业智能化跃迁](https://blog.csdn.net/u014727709/article/details/163157615)
+
++ [分布式系统中读写分离的架构实践：主从延迟、数据源路由与一致性取舍](https://blog.csdn.net/qq_35160742/article/details/163119837)
+
++ [独立开发者的API monetization实战：从免费工具到付费API服务](https://blog.csdn.net/weixin_63764436/article/details/163161572)
+
++ [硬核拆解：Linux 静态库从原理到实战](https://blog.csdn.net/2502_93841997/article/details/160792512)
+
++ [通用CPU+GPU运行神经网络推理 VS RDK X5运行神经网络推理，前者CPU软件调度+GPU软件并行计算，包括数据预处理和神经网络模型推理；后者ISP + 芯片微码调度 + 硬件并行处理单元实现](https://blog.csdn.net/HiWangWenBing/article/details/163137312)
+
++ [鸿蒙 PC Markdown 编辑器文件拖放：文档会话与图片资源分流](https://blog.csdn.net/2302_80329073/article/details/163131905)
+
++ [【轴承故障诊断】小波特征提取和优化SVM的滚珠轴承复合故障诊断【含Matlab源码 15899期】](https://blog.csdn.net/weixin_63266434/article/details/163150064)
+
++ [HarmonyOS 地图定位体验实战：权限解释、定位状态与手动兜底](https://blog.csdn.net/2401_84026308/article/details/163076395)
+
++ [deepseek 梁文锋四小时投资人交流会实录整理版PDF下载（结构化目录版）](https://blog.csdn.net/2401_86560956/article/details/163143905)
+
++ [使用重新设计的 AutoOps 更快地进行 Elasticsearch 问题排查](https://blog.csdn.net/UbuntuTouch/article/details/163161807)
+
++ [【分布式系统与 RPC 框架系列】从单机瓶颈到远程调用：一文理解分布式架构与 RPC 原理](https://blog.csdn.net/2301_80260194/article/details/163178829)
+
++ [足球口袋教练 HarmonyOS 设计（21）：训练大页面拆分的模块边界规划](https://blog.csdn.net/wangji93/article/details/163133586)
+
++ [MSE（阿里云微服务引擎）](https://blog.csdn.net/www654321wcn/article/details/163164353)
+
++ [Android ABI 适配完全指南：从原理到实战优化](https://blog.csdn.net/csdn_silent/article/details/163098006)
+
++ [C盘爆满怎么办？教你安全高效清理磁盘空间](https://blog.csdn.net/2401_87660168/article/details/163141461)
+
