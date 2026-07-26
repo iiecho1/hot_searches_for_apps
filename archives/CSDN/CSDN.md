@@ -143,3 +143,13 @@
 
 + [MySQL——基本查询（上）](https://blog.csdn.net/lijiatong1028/article/details/163171801)
 
++ [RNN算法实战系列04 | LSTM火灾温度预测](https://blog.csdn.net/weixin_42517940/article/details/163143832)
+
++ [dolphindb 分布式表crud语句](https://blog.csdn.net/abcy071213/article/details/163174721)
+
++ [【Linux】系统彻底进不去怎么办？initramfs、recovery 与 chroot 救援指南](https://blog.csdn.net/2402_87731470/article/details/163200601)
+
++ [嵌入式硬件开发流程概述：从原理图到 PCB 制造](https://blog.csdn.net/g300800/article/details/163157777)
+
++ [【搜索实战】Spring Boot 3.3 + AI Agent × Elasticsearch：让AI自动优化搜索策略，查询速度从2秒压到50毫秒](https://blog.csdn.net/2601_96338609/article/details/163175229)
+
