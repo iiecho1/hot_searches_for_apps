@@ -165,3 +165,5 @@
 
 + [俄罗斯“联盟MS-28”飞船搭载宇航员返回地球](https://news.cctv.com/2026/07/27/ARTI1MQmIRenrLz56npxMBiq260726.shtml)
 
++ [三处受威胁遗产地经紧急程序列入《世界遗产名录》](https://news.cctv.com/2026/07/27/ARTIljspeY8kcnhEhd4i5eJH260727.shtml)
+
