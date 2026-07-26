@@ -25,3 +25,13 @@
 
 + [大家一年旅行的费用占支出的百分比是多少啊](https://www.v2ex.com/t/1229726)
 
++ [Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了](https://www.v2ex.com/t/1229825)
+
++ [独立开发者（opc）收款的问题](https://www.v2ex.com/t/1229785)
+
++ [v2ex 应该也提供 mcp 服务：将论坛作为可由 AI 安全检索和按权限操作的 MCP 知识库。](https://www.v2ex.com/t/1229765)
+
++ [反思一下为什么我的开源项目没有做好](https://www.v2ex.com/t/1229772)
+
++ [[开源]或许是 WindTerm 精神的续作： SSH 客户端 OxideTerm 焕新为原生软件， Windows 空载内存仅 25 MB](https://www.v2ex.com/t/1229777)
+

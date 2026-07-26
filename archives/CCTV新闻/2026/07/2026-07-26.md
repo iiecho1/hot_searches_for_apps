@@ -165,3 +165,11 @@
 
 + [特朗普下令暂停空袭伊朗](https://news.cctv.com/2026/07/26/ARTIRLlbkJsxxstDC3lFdVhy260726.shtml)
 
++ [总台记者探访丨山火逼近法国波尔多市区 居民避难人数创纪录](https://news.cctv.com/2026/07/26/ARTIhvdhdKa8mXn2CNkbedfA260726.shtml)
+
++ [刚果（金）埃博拉确诊病例超3000例](https://news.cctv.com/2026/07/26/ARTI0eB9CbIiJPtihmHsYEBf260726.shtml)
+
++ [伊朗革命卫队：英国如继续支持美军将成“打击目标”](https://news.cctv.com/2026/07/26/ARTIG3y6sOVLBjCNeFhQyESZ260726.shtml)
+
++ [越南籍船舶南海沉没62人遇险 中方救起39人仍有23人失联](https://news.cctv.com/2026/07/26/ARTIsmI1Kl2aPRlcf3CKKefF260726.shtml)
+

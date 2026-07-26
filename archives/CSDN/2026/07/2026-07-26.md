@@ -153,3 +153,25 @@
 
 + [【搜索实战】Spring Boot 3.3 + AI Agent × Elasticsearch：让AI自动优化搜索策略，查询速度从2秒压到50毫秒](https://blog.csdn.net/2601_96338609/article/details/163175229)
 
++ [三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练](https://blog.csdn.net/Mrxiao_bo/article/details/163158948)
+
++ [【电源拆解：跟着问答逐一认识开关适配器PCB元器件】](https://blog.csdn.net/weixin_62244995/article/details/163112311)
+
++ [项目文档：基于MATLAB图像处理与神经网络的肺癌智能分类系统](https://blog.csdn.net/ZSW1218/article/details/163142344)
+
++ [【复现】新型电力系统下多分布式电源接入配电网承载力评估方法研究（Matlab代码实现）](https://blog.csdn.net/weixin_67304359/article/details/163207070)
+
++ [Linux系统22：——文件（六）：目标文件与ELF深度解析：从编译到加载的全景揭秘](https://blog.csdn.net/2502_94387000/article/details/163137908)
+
++ [HTTP协议（Linux视角）](https://blog.csdn.net/suimingtao/article/details/162067878)
+
++ [从0开始的操作系统（4）](https://blog.csdn.net/Face_FeaR/article/details/163195252)
+
++ [GitHub 热榜项目 - 周榜(2026-07-26)](https://blog.csdn.net/u014390502/article/details/163211705)
+
++ [云计算运维day8--高分用与负载均衡2](https://blog.csdn.net/2302_80987538/article/details/163191117)
+
++ [第【86】期-- 基于OOK调制的水下无线光通信系统性能仿真与分析 --MATLAB完整代码](https://blog.csdn.net/qq_35027690/article/details/163158286)
+
++ [【Linux网络】深入理解Linux IO多路复用：select服务器完善、内核原理与poll实战](https://blog.csdn.net/2503_91389547/article/details/161995347)
+
