@@ -51,3 +51,5 @@
 
 + [token 用完了怎么办](https://www.v2ex.com/t/1229870)
 
++ [为什么现在 CLI agent 应用那么火， GUI 不好用吗？](https://www.v2ex.com/t/1229915)
+
