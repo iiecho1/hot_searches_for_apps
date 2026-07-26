@@ -179,3 +179,5 @@
 
 + [伊朗称与阿曼就霍尔木兹海峡航运管理问题举行多轮磋商](https://news.cctv.com/2026/07/26/ARTIhwvZo9seYkCtQrHLhFN3260726.shtml)
 
++ [美方知情人士披露特朗普暂缓扩大对伊作战规模原因](https://military.cctv.com/2026/07/26/ARTIBZgQVrHd2P54rH2QJVzJ260726.shtml)
+
