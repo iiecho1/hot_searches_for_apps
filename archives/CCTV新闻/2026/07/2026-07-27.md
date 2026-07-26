@@ -167,3 +167,11 @@
 
 + [三处受威胁遗产地经紧急程序列入《世界遗产名录》](https://news.cctv.com/2026/07/27/ARTIljspeY8kcnhEhd4i5eJH260727.shtml)
 
++ [以总理：此次访美旨在了解美总统对伊朗问题的想法](https://news.cctv.com/2026/07/27/ARTIN3GBSeLTbJqTa87rstF6260727.shtml)
+
++ [古巴国家主席：美对古封锁是“残酷策划的种族灭绝”](https://news.cctv.com/2026/07/27/ARTI25nQM2vVstE4r1C9b7rP260727.shtml)
+
++ [柏林汽车撞人事件犯罪嫌疑人被警方击毙](https://news.cctv.com/2026/07/27/ARTI0G4ghluP1dSyTvcAI9ON260727.shtml)
+
++ [过火面积约5万公顷 西班牙阿维拉山火规模创纪录](https://news.cctv.com/2026/07/27/ARTI5I7UTVIIbbWNkPBkg2Ag260727.shtml)
+
