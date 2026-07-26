@@ -173,3 +173,9 @@
 
 + [越南籍船舶南海沉没62人遇险 中方救起39人仍有23人失联](https://news.cctv.com/2026/07/26/ARTIsmI1Kl2aPRlcf3CKKefF260726.shtml)
 
++ [西班牙多地山火持续蔓延 48小时内约11.5万人受影响](https://news.cctv.com/2026/07/26/ARTIkLf1tzsul7u5Uc9C3wpc260726.shtml)
+
++ [柏林汽车冲撞行人事件已致1死16伤 警方通缉21岁嫌疑人](https://news.cctv.com/2026/07/26/ARTIpn4IpBBrAP2Q9QiW8DH3260726.shtml)
+
++ [伊朗称与阿曼就霍尔木兹海峡航运管理问题举行多轮磋商](https://news.cctv.com/2026/07/26/ARTIhwvZo9seYkCtQrHLhFN3260726.shtml)
+

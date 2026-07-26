@@ -35,3 +35,7 @@
 
 + [[开源]或许是 WindTerm 精神的续作： SSH 客户端 OxideTerm 焕新为原生软件， Windows 空载内存仅 25 MB](https://www.v2ex.com/t/1229777)
 
++ [讲述下经历遭遇后，我的心理变化，目前正在调整期](https://www.v2ex.com/t/1229836)
+
++ [程序员能不能解决“放暑假娃很吵”这个问题？](https://www.v2ex.com/t/1229854)
+
