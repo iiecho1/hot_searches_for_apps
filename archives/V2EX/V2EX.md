@@ -53,3 +53,5 @@
 
 + [为什么现在 CLI agent 应用那么火， GUI 不好用吗？](https://www.v2ex.com/t/1229915)
 
++ [[Bool 中转] 满血 Claude 限时 0.007x 支持 Fable5 opus5 本帖留言送 5 刀 新人加群再送 5 刀 原生满血性能随意测试](https://www.v2ex.com/t/1229936)
+
