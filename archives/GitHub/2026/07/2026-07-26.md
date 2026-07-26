@@ -37,3 +37,17 @@
 
 + [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
++ [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
++ [yorukot/superfile](https://github.com/yorukot/superfile)
+
++ [nodejs/node](https://github.com/nodejs/node)
+
++ [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
++ [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
+
++ [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+
++ [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+

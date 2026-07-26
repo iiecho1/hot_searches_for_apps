@@ -181,3 +181,7 @@
 
 + [美方知情人士披露特朗普暂缓扩大对伊作战规模原因](https://military.cctv.com/2026/07/26/ARTIBZgQVrHd2P54rH2QJVzJ260726.shtml)
 
++ [以总理：以色列已准备好升级约旦河西岸军事行动](https://news.cctv.com/2026/07/26/ARTI9zRnWDJZ7Uk9QU5bMARc260726.shtml)
+
++ [伊朗总统：美袭击伊朗民用基础设施是“明显的战争罪行”](https://news.cctv.com/2026/07/26/ARTIfSyuAHsvFmPiGmY7sppI260726.shtml)
+

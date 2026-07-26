@@ -175,3 +175,35 @@
 
 + [【Linux网络】深入理解Linux IO多路复用：select服务器完善、内核原理与poll实战](https://blog.csdn.net/2503_91389547/article/details/161995347)
 
++ [【AI智能体】Cursor 多智能体编程模式实战项目详解](https://blog.csdn.net/zhangcongyi420/article/details/161935352)
+
++ [BlueZ源码编译环境配置全指南：Linux桌面原生编译 + 嵌入式ARM交叉编译 + 定制裁剪与调试实战](https://blog.csdn.net/weixin_37800531/article/details/163087017)
+
++ [2kol七月限时彩蛋开源领取](https://blog.csdn.net/qq_29864051/article/details/163199325)
+
++ [花卉识别检测系统：基于 YOLOv8/v10/v11/v12/26 五模型深度对比的全栈实践，集成大语言模型（千问/DeepSeek）](https://blog.csdn.net/m0_68036862/article/details/163217372)
+
++ [【Linux篇】数字世界的渡口 —— open、read、write 如何穿越用户与内核的边界](https://blog.csdn.net/buhuizhiyuci/article/details/163196499)
+
++ [Android WiFi连接过程 wpa_supplicant 日志分析](https://blog.csdn.net/wenzhi20102321/article/details/163143213)
+
++ [【金仓数据库征文】一次慢 SQL 诊断：从等待事件到执行计划一次慢 SQL 诊断：从等待事件到执行计划](https://blog.csdn.net/u014727709/article/details/163194995)
+
++ [从OCCT STEP读写架构，看懂格式数据转换的底层设计逻辑](https://blog.csdn.net/weixin_44153630/article/details/163070876)
+
++ [Axum：用 Rust 写 Web 后端的正确打开方式](https://blog.csdn.net/ITOfDragon/article/details/163154531)
+
++ [全开源 AI 漫剧短剧自动生成系统：Java + Vue 架构，实现小说一键生成 AI 视频](https://blog.csdn.net/m0_72636583/article/details/163148420)
+
++ [【Protobuf系列】：从序列化与反序列化到消息类与Service:深入理解Protobuf以及RPC调用机制](https://blog.csdn.net/2301_80260194/article/details/163202849)
+
++ [ERNIE-Image + InfiniteTalk，从文生图到无限时长视频——国产DCU部署：从图像生成到音画同步数字人视频的全链路实现（含完整代码）](https://blog.csdn.net/pla88888888/article/details/163217566)
+
++ [Linux网络编程：关于协议栈、Socket与TCP/UDP服务](https://blog.csdn.net/2502_91577682/article/details/163170837)
+
++ [远控功能哪个全？2026六款远控横评实测](https://blog.csdn.net/2401_87342824/article/details/163208463)
+
++ [TRAE + Doubao-Seed-Evolving + Android Studio：如何跑通一个旧 App项目](https://blog.csdn.net/linshantang/article/details/163174290)
+
++ [我把鼠标侧键改造成了 Codex/Claude 导航键，终端党真的会爽到](https://blog.csdn.net/wxc887885/article/details/163217816)
+
