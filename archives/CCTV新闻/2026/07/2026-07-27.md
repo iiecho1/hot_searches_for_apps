@@ -161,3 +161,7 @@
 
 + [德国内政部长：柏林汽车撞人事件疑似恐怖袭击](https://news.cctv.com/2026/07/27/ARTIoMNT9RreCLqcXVxHiEmd260726.shtml)
 
++ [消息人士：伊方可对等停火 但对美方持怀疑态度](https://news.cctv.com/2026/07/27/ARTIMozQmaWHFkIlkJO3Na2o260726.shtml)
+
++ [俄罗斯“联盟MS-28”飞船搭载宇航员返回地球](https://news.cctv.com/2026/07/27/ARTI1MQmIRenrLz56npxMBiq260726.shtml)
+
