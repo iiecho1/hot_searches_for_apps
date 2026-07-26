@@ -207,3 +207,9 @@
 
 + [我把鼠标侧键改造成了 Codex/Claude 导航键，终端党真的会爽到](https://blog.csdn.net/wxc887885/article/details/163217816)
 
++ [蓝耘把五个顶级 AI 塞进一个模型，我出了三道刁钻题让他们打一架](https://blog.csdn.net/2301_76341691/article/details/163216963)
+
++ [运维技术栈Linux+docker+Kubernetes+Jenkins/GitLab CI 知识点详细列表](https://blog.csdn.net/quyunde/article/details/163175110)
+
++ [云计算运维day8--高可用与负载均衡2](https://blog.csdn.net/2302_80987538/article/details/163191117)
+
