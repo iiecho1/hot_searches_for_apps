@@ -97,3 +97,31 @@
 
 + [AI Agent时代你的经验值多少钱？](https://blog.csdn.net/weixin_62244995/article/details/163196123)
 
++ [HarmonyOS应用《玄象》开发实战：玄象项目总览：ArkTS 工程结构与 module.json5 权限声明实战](https://blog.csdn.net/weixin_72566747/article/details/163220142)
+
++ [通关打怪SpringMVC系列之传递参数篇](https://blog.csdn.net/2501_93392325/article/details/163215905)
+
++ [物联网平台的消息处理架构：从Kafka到Flink的实时流计算工程复盘](https://blog.csdn.net/dicky_zhang3/article/details/163175978)
+
++ [NeRF神经辐射场的核心算法复现：从光线采样到体渲染的实现细节](https://blog.csdn.net/lady_mumu/article/details/163161965)
+
++ [用 AI 学 Rust 的 100 天：记录每个阶段的有效方法和踩过的坑](https://blog.csdn.net/no1coder/article/details/163161161)
+
++ [Docker 存储驱动对比：overlay2、devicemapper 与 btrfs 实测](https://blog.csdn.net/2609_95049439/article/details/163161920)
+
++ [AIOps模型效果衰减问题的深度复盘：为什么上线3个月后准确率从92%跌到67%及如何修复](https://blog.csdn.net/qwe0iop0/article/details/163175824)
+
++ [小程序性能优化的极限挑战：包体积、启动速度与运行时内存治理](https://blog.csdn.net/cannonmonster01/article/details/163175873)
+
++ [多模态场景的 Prompt 工程：图文结合的提示词比纯文本复杂十倍](https://blog.csdn.net/weixin_43272162/article/details/163175550)
+
++ [在线教育平台的题目推荐算法：知识追踪与自适应学习](https://blog.csdn.net/cannonjinx/article/details/163175625)
+
++ [四大主流大模型集成框架深度解析：LangChain、LangGraph、LangChain4j 与 LlamaIndex](https://blog.csdn.net/u013127325/article/details/163199078)
+
++ [GraphQL 社交图谱查询：CyberConnect API、关注关系与链上互动的实时聚合](https://blog.csdn.net/qq_40635035/article/details/163161191)
+
++ [Nginx-proxy缓存清理](https://blog.csdn.net/m0_61787196/article/details/163117795)
+
++ [只需要对豆包发送神秘指令即可解锁c盘100GB空间](https://blog.csdn.net/qq_46607667/article/details/163153976)
+
