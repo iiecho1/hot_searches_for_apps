@@ -159,3 +159,5 @@
 
 + [热浪推高欧洲居民对制冷设备需求 “中国制造”为欧洲送去夏日清凉](https://news.cctv.com/2026/07/23/ARTI8vZUgtOuME80zyYcKyFE260723.shtml)
 
++ [德国内政部长：柏林汽车撞人事件疑似恐怖袭击](https://news.cctv.com/2026/07/27/ARTIoMNT9RreCLqcXVxHiEmd260726.shtml)
+

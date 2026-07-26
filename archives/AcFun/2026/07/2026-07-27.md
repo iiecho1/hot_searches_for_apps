@@ -61,3 +61,7 @@
 
 + [深度解析XCMOD跑路事件](https://m.acfun.cn/v/?ac=48724634)
 
++ [【法语翻唱】Le chant de la mer（海洋之歌）](https://m.acfun.cn/v/?ac=48697047)
+
++ [NJPW 2026.07.19 Zack Sabre Jr. vs. 上村優也](https://m.acfun.cn/v/?ac=48724755)
+
