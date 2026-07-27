@@ -101,3 +101,23 @@
 
 + [金仓数据库技术解析：`WHERE` 里的条件，谁先执行真不是看谁写在前面](https://blog.csdn.net/lrq13965748542/article/details/163196370)
 
++ [提示词约束对AI辅助FPGA RTL设计的场景适配性影响研究](https://blog.csdn.net/ccsss22/article/details/163251024)
+
++ [【花雕学编程】Arduino BLDC 之三机器人V形编队 + 附加旋转力场逃逸](https://blog.csdn.net/weixin_41659040/article/details/163210356)
+
++ [【Linux网络】深入 HTTP 协议（四）架构设计、协议解析与 Nginx 生产级部署](https://blog.csdn.net/yhrxh_ymq/article/details/163183689)
+
++ [【数据库】数据库约束](https://blog.csdn.net/2601_95402431/article/details/162914493)
+
++ [10 项核心功能深度实测，拆解 UU 远程凭什么登顶远程办公天花板](https://blog.csdn.net/a_hong_sen/article/details/163251028)
+
++ [【Protobuf系列】：从序列化与反序列化到消息类与Service:深入理解Protobuf以及RPC调用机制](https://blog.csdn.net/2301_80260194/article/details/163202849)
+
++ [机器人世界模型：2026 技术全景与工程选型指南](https://blog.csdn.net/qq_41204464/article/details/163218035)
+
++ [sudo 配置陷阱：一个错误配置如何让你丢系统](https://blog.csdn.net/cui_yonghua/article/details/163249179)
+
++ [用 LLM Multi-Agent 重构半导体晶圆厂时序预测：一个从 Idea 到 MVP 的完整实践](https://blog.csdn.net/bumblebee16/article/details/163252389)
+
++ [高并发内存池：Part-3——PageCache()+申请并发全链路测试通过。](https://blog.csdn.net/oooooooooooohd/article/details/163142135)
+
