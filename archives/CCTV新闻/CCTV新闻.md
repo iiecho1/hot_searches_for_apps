@@ -217,3 +217,7 @@
 
 + [联合国官员：中国逆转土地退化成全球范例](https://news.cctv.com/2026/07/27/ARTIjHCjmuNmXSM3nyXj09KI260727.shtml)
 
++ [乍得决定退出国际刑事法院](https://news.cctv.com/2026/07/27/ARTIFHBGSPK7wjLp9otUKD0U260727.shtml)
+
++ [4名中国公民在巴新船只倾覆事故中遇难，中使馆提醒](https://news.cctv.com/2026/07/27/ARTIxPlv8yl3wGhOQyeNcrYE260727.shtml)
+
