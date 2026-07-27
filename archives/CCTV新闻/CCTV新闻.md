@@ -177,3 +177,21 @@
 
 + [联合国秘书长呼吁解除对叙利亚所有制裁](https://news.cctv.com/2026/07/27/ARTI0P1lqVyYRo7g4Un9nmhm260727.shtml)
 
++ [一中国公民在泰国参加书展时遭保安强力对待，我使馆通报](https://news.cctv.com/2026/07/27/ARTIyy0zpVUWaEktHIYzXX0o260727.shtml)
+
++ [美国西雅图枪击事件已致2人死亡](https://news.cctv.com/2026/07/27/ARTI9Dubo42BaDs1l343bUR1260727.shtml)
+
++ [菲律宾司法部附近发生爆炸 参议院遭炸弹威胁](https://news.cctv.com/2026/07/27/ARTIqzuJg8biIFaiGgdJvHlp260727.shtml)
+
++ [蒙内铁路货运量累计突破5000万吨](https://news.cctv.com/2026/07/27/ARTIEGeGhK5Gnblkq6Qq61Jj260727.shtml)
+
++ [苏丹宣布全国约75%的医疗机构恢复运营](https://news.cctv.com/2026/07/27/ARTIrNdBBDlIyMeXNB4pO2F9260727.shtml)
+
++ [美国防部：美军因伊朗战事累计伤亡642人](https://news.cctv.com/2026/07/27/ARTIaLGoObQiMLuF2T4skoxJ260727.shtml)
+
++ [日本强推“国家情报局”引发广泛担忧和批评](https://news.cctv.com/2026/07/27/ARTIvoTV1zAeVVYYAjgX2eKD260727.shtml)
+
++ [“红霞”已减弱为热带低压 其残余环流还将影响湖南江西湖北等地](https://news.cctv.com/2026/07/27/ARTIUqMIFwUF0YalganyKd2C260727.shtml)
+
++ [美军7月重启伊朗战事以来逾200人受伤](https://news.cctv.com/2026/07/27/ARTImqCQRRl92rdpm9PtGosR260727.shtml)
+

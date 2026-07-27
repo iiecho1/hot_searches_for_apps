@@ -145,3 +145,29 @@
 
 + [接口自动化测试平台的演进——从 Postman 到全链路自动化测试框架](https://blog.csdn.net/alex_goden/article/details/163160881)
 
++ [PyTorch强化学习实战（20）——优势演员-评论家（Advantage Actor-Critic, A2C）](https://blog.csdn.net/LOVEmy134611/article/details/159731989)
+
++ [NAT技术如何让私有IP伪装公网身份？内网穿透怎样打通内外网通信壁垒？代理服务器（正向/反向）如何实现安全加速？交换机如何终结局域网数据冲突？一文看懂现代网络通信的底层逻辑](https://blog.csdn.net/2401_82648291/article/details/150516171)
+
++ [【数据库】数据库约束](https://blog.csdn.net/2601_95402431/article/details/162914493)
+
++ [【Codex】掌握 Codex 渐进加载 Skills，高效拓展自动化工作流](https://blog.csdn.net/2401_87342824/article/details/163233776)
+
++ [IoTDB REST API V2 全量指南：开箱即用的 HTTP 接口，查询 + 写入 + 管理一站式搞定](https://blog.csdn.net/weixin_43151418/article/details/160789996)
+
++ [Agent 时代的数据库自治运维：智能之外，更需要原生确定性](https://blog.csdn.net/mrdeam/article/details/163175662)
+
++ [【Matlab】地震波传播时域有限差分仿真](https://blog.csdn.net/unbelievevc/article/details/163230412)
+
++ [远程效率工具横评 2026：ToDesk、向日葵、UU远程、RayLink，学生和打工人怎么选？](https://blog.csdn.net/weixin_37800531/article/details/163173647)
+
++ [【悬臂梁】计算铁木辛柯悬臂梁问题EFGM与FEM应力计算及误差对比【含Matlab源码 15901期】](https://blog.csdn.net/weixin_63266434/article/details/163230390)
+
++ [开源了一个 AI 无限画布：把每次生图，都变成可继续生长的创作节点](https://blog.csdn.net/xianyu120/article/details/163173904)
+
++ [【悬臂梁】基于matlab计算铁木辛柯悬臂梁问题EFGM与FEM应力计算及误差对比【含Matlab源码 15901期】](https://blog.csdn.net/TIQCmatlab/article/details/163230302)
+
++ [springboot大学生提问箱系统---附源码72593](https://blog.csdn.net/weixin_BYSJ1987/article/details/163216855)
+
++ [Nginx- 高并发下 Nginx 崩溃的原因分析与解决方案](https://blog.csdn.net/qq_41187124/article/details/157658480)
+
