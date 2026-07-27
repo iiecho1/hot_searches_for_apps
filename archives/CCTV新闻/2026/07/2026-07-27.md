@@ -175,3 +175,5 @@
 
 + [过火面积约5万公顷 西班牙阿维拉山火规模创纪录](https://news.cctv.com/2026/07/27/ARTI5I7UTVIIbbWNkPBkg2Ag260727.shtml)
 
++ [联合国秘书长呼吁解除对叙利亚所有制裁](https://news.cctv.com/2026/07/27/ARTI0P1lqVyYRo7g4Un9nmhm260727.shtml)
+

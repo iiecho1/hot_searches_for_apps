@@ -129,3 +129,19 @@
 
 + [什么是 Coding Agent？ Coding Agent的工作原理是什么样的？](https://blog.csdn.net/qq_44866828/article/details/163222113)
 
++ [OpenClaw 企业效率工具实战：用 AI Agent 构建内部自动化办公矩阵](https://blog.csdn.net/sinat_41617212/article/details/163217917)
+
++ [【计算几何第五章】正交区域查找：数据库查询](https://blog.csdn.net/he_zhidan/article/details/163141545)
+
++ [Claude HUD 给 Claude Code 装上实时状态栏插件，告别上下文盲区](https://blog.csdn.net/zhangay1998/article/details/162974918)
+
++ [AI人工智能解决的数学问题有哪些](https://blog.csdn.net/dllglvzhenfeng/article/details/163217227)
+
++ [从想法到上线：我用 React + Spring Boot 打造了一个中文语感训练平台“语感工坊 YuGan“](https://blog.csdn.net/qq_46987323/article/details/163219630)
+
++ [用Tauri 2.0构建跨平台桌面应用：比Electron小100倍的真正轻量级方案](https://blog.csdn.net/weixin_63764436/article/details/163175706)
+
++ [SpringBoot中通用工具类库（Utils）封装与使用实践](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163166689)
+
++ [接口自动化测试平台的演进——从 Postman 到全链路自动化测试框架](https://blog.csdn.net/alex_goden/article/details/163160881)
+
