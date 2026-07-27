@@ -161,3 +161,7 @@
 
 + [升级？外溢？两大军事冲突开启联动模式？](https://news.cctv.com/2026/07/28/ARTIkqH4Ykk7StRGR9IBH5n0260727.shtml)
 
++ [美国驻多伦多总领事馆今年第二次遭枪击](https://news.cctv.com/2026/07/28/ARTI0Na3Po7wQr8fLFELkKeR260728.shtml)
+
++ [600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级](https://news.cctv.com/2026/07/28/ARTIl9MXpJmZqM7c5PQ2YbyZ260728.shtml)
+
