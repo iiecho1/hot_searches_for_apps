@@ -195,3 +195,21 @@
 
 + [美军7月重启伊朗战事以来逾200人受伤](https://news.cctv.com/2026/07/27/ARTImqCQRRl92rdpm9PtGosR260727.shtml)
 
++ [南非开普敦地区发生3起枪击事件 已致11人死亡](https://news.cctv.com/2026/07/27/ARTIvAtC5RO7nr8w5tJBx5Bb260727.shtml)
+
++ [日本西南部多车相撞 10余人受伤](https://news.cctv.com/2026/07/27/ARTIjYsoF7TavYrRJsqzPUt0260727.shtml)
+
++ [伊朗官员警告乌克兰：对伊攻击会付出代价](https://news.cctv.com/2026/07/27/ARTIxnfJuEVzz3az78k0FSvZ260727.shtml)
+
++ [捷克全国约400处场所收到炸弹威胁](https://news.cctv.com/2026/07/27/ARTI8G7C6kRrzuBmNoE3pOCI260727.shtml)
+
++ [持刀强闯我驻日大使馆人员村田晃大被日本检方起诉](https://news.cctv.com/2026/07/27/ARTIyA8BExocb4NT3eeon7kJ260727.shtml)
+
++ [叙利亚：与以色列达成安全协议“有条件”](https://news.cctv.com/2026/07/27/ARTI9MNY9NYCWNR7abtK3qoX260727.shtml)
+
++ [掩盖战争损失 五角大楼施展“障眼法”](https://news.cctv.com/2026/07/27/ARTId2I7HpgnBzTISDvnQ1V8260727.shtml)
+
++ [日本学者批评政府借“防卫”之名推进国家军事化](https://news.cctv.com/2026/07/27/ARTIO6xUjIvD47YI39JLh9yn260727.shtml)
+
++ [尹锡悦涉嫌选举期间公布虚假事实案一审被判有罪](https://news.cctv.com/2026/07/27/ARTIDfn4i39g2RR1DfwkoRkW260727.shtml)
+

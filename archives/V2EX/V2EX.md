@@ -35,3 +35,9 @@
 
 + [懒人维持每天生活必须营养的做饭方式推荐](https://www.v2ex.com/t/1230026)
 
++ [[新站福利] StableFast AI 满血 Codex 号池， 0.05 倍率，注册送 200 万 Token 回帖送 2000 万 Token](https://www.v2ex.com/t/1230048)
+
++ [个人业余项目，做了一个可以物理操作 iPhone 的 agent，不知道有商业前景吗？](https://www.v2ex.com/t/1230118)
+
++ [上班第一天，自行原地光速离职](https://www.v2ex.com/t/1230060)
+
