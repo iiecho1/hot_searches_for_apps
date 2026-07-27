@@ -35,3 +35,17 @@
 
 + [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
++ [moeru-ai/airi](https://github.com/moeru-ai/airi)
+
++ [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
++ [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
+
++ [vudovn/ag-kit](https://github.com/vudovn/ag-kit)
+
++ [apache/cassandra](https://github.com/apache/cassandra)
+
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
++ [ocornut/imgui](https://github.com/ocornut/imgui)
+
