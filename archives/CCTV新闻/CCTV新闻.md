@@ -165,3 +165,9 @@
 
 + [600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级](https://news.cctv.com/2026/07/28/ARTIl9MXpJmZqM7c5PQ2YbyZ260728.shtml)
 
++ [美西雅图枪击事件致3死4伤 一名15岁嫌疑人被捕](https://news.cctv.com/2026/07/28/ARTIwIf6BQ4qA9cSqYymKkjh260728.shtml)
+
++ [俄组建建筑工程部队 武装力量总人数增至242万余](https://news.cctv.com/2026/07/28/ARTI7uqCW07rCOeyUQprWHQo260728.shtml)
+
++ [中方呼吁乌克兰问题有关各方保持接触 尽快停火止战](https://news.cctv.com/2026/07/28/ARTIjcMakxUUIS5LOJTjTeOn260728.shtml)
+
