@@ -181,3 +181,11 @@
 
 + [四川强降雨造成4处地质灾害 提前转移避险47669人](https://news.cctv.com/2026/07/28/ARTIyj7EIl2CiAXOIiW6tGOY260728.shtml)
 
++ [新西兰一载有中国游客大巴侧翻部分乘客轻微受伤 中领馆发提醒](https://news.cctv.com/2026/07/28/ARTIbSQBm1OXCWyS0OEUfMGx260728.shtml)
+
++ [西班牙巴塞罗那地铁隧道发生火灾 百余人被疏散](https://news.cctv.com/2026/07/28/ARTIFTE5VaktBLSqbLShjE5D260728.shtml)
+
++ [尼日利亚西北部一村庄遇袭造成至少30人死亡](https://news.cctv.com/2026/07/28/ARTIfWZon5PR6MZehnRiYqK6260728.shtml)
+
++ [冰岛发生5.3级地震，震源深度10千米](https://news.cctv.com/2026/07/28/ARTIORMqzMq9WmbBLeJtIzTA260728.shtml)
+
