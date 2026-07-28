@@ -145,3 +145,19 @@
 
 + [交换机（二层交换机）完整工作原理](https://blog.csdn.net/Ai_kaihui/article/details/163244342)
 
++ [ToDesk远程终端:手机打开Codex,离开电脑也能继续推进任务](https://blog.csdn.net/2401_87629362/article/details/163273528)
+
++ [【MYSQL】MYSQL学习的一大重点：表的内外连接](https://blog.csdn.net/2401_89899187/article/details/163200338)
+
++ [多台服务器怎么统一监控?哪吒面板部署、钉钉告警与远程访问教程](https://blog.csdn.net/2401_87848736/article/details/163269933)
+
++ [Prometheus 实现 openGauss 的指标监控（二）Prometheus 中添加 openGauss指标](https://blog.csdn.net/GaussDB/article/details/163274998)
+
++ [【从0开始学计算机网络】| HTTP 协议的进化史](https://blog.csdn.net/2503_94545876/article/details/163251545)
+
++ [零售数字人不能停在浅层互动：魔珐星云让导购真正接入业务流程](https://blog.csdn.net/hanwangyyds/article/details/163277044)
+
++ [Java：SpringBoot 项目建表完整方案全景梳理](https://blog.csdn.net/snowball_li/article/details/163249652)
+
++ [机器人如何“想象未来“：隐空间世界动作模型 LaWAM 深度解析](https://blog.csdn.net/lovely_yoshino/article/details/162486655)
+

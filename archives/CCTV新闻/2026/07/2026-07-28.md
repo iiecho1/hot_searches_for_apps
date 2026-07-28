@@ -189,3 +189,11 @@
 
 + [冰岛发生5.3级地震，震源深度10千米](https://news.cctv.com/2026/07/28/ARTIORMqzMq9WmbBLeJtIzTA260728.shtml)
 
++ [守护历史真相 捍卫历史正义](https://news.cctv.com/2026/07/28/ARTInH5FZfSR7xnY7LEDv6vR260728.shtml)
+
++ [日本九州岛发生6.8级地震，震源深度10千米](https://news.cctv.com/2026/07/28/ARTIiS7jb2P3WCO9NU6uamyW260728.shtml)
+
++ [中国驻福冈总领馆提醒领区中国公民注意防范余震灾害](https://news.cctv.com/2026/07/28/ARTIptGZjoAvuGAKpNlwUIt7260728.shtml)
+
++ [一中国公民在泰国参加书展时遭保安强力对待，泰国国家旅游局发文致歉](https://news.cctv.com/2026/07/28/ARTIO1WuGn69HMwflWXAEhW5260728.shtml)
+
