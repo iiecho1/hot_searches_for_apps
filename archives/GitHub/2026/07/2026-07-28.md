@@ -31,3 +31,17 @@
 
 + [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)
 
++ [pascalorg/editor](https://github.com/pascalorg/editor)
+
++ [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+
++ [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+
++ [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
+
++ [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)
+

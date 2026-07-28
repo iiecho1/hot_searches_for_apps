@@ -197,3 +197,9 @@
 
 + [一中国公民在泰国参加书展时遭保安强力对待，泰国国家旅游局发文致歉](https://news.cctv.com/2026/07/28/ARTIO1WuGn69HMwflWXAEhW5260728.shtml)
 
++ [日本熊本强震致一购物中心坍塌 已发现“相当数量”死者](https://news.cctv.com/2026/07/28/ARTIHjdiHgQHi9pYnjqds00A260728.shtml)
+
++ [比利时布鲁塞尔发生枪击和燃烧装置袭击事件](https://news.cctv.com/2026/07/28/ARTIjl9jGebLPjEJ4GF2mLtW260728.shtml)
+
++ [特朗普政府要求美最高法院限制邮寄选票](https://news.cctv.com/2026/07/28/ARTIFmGt8dMORfpm2PESTf6B260728.shtml)
+

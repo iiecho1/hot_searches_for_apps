@@ -49,3 +49,13 @@
 
 + [消息称华为 Pura 90 系列手机销量破 100 万台](https://m.ithome.com/html/982166.htm)
 
++ [华为 Mate 80 系列手机最新销量数据曝光，预计上周已破 800 万台](https://m.ithome.com/html/981817.htm)
+
++ [小米汽车第二个系列：澎程官宣 7 月 30 日晚 7 点见，两款智能可变大空间 SUV 将正式登场](https://m.ithome.com/html/981824.htm)
+
++ [曝华为畅连 App 无网「实时对讲」功能将在 HarmonyOS 7.0 后续版本适配部分机型](https://m.ithome.com/html/981819.htm)
+
++ [vivo X300 E 手机完整规格曝光：6.59 英寸 1.5K OLED 面板、骁龙 8 Gen 5 处理器](https://m.ithome.com/html/981800.htm)
+
++ [国产科幻电影《群星闪耀时》导演章笛沙：2019 年看完《流浪地球》后深受鼓舞](https://m.ithome.com/html/981806.htm)
+

@@ -161,3 +161,13 @@
 
 + [机器人如何“想象未来“：隐空间世界动作模型 LaWAM 深度解析](https://blog.csdn.net/lovely_yoshino/article/details/162486655)
 
++ [国产算力实战——海光DCU K100_AI部署KAT-Coder-V2.5-Dev：350亿MoE编程模型部署与智能编程实践](https://blog.csdn.net/pla88888888/article/details/163241681)
+
++ [基于 Milvus 与通义 Embedding 的知识库构建](https://blog.csdn.net/qq_56068429/article/details/163249978)
+
++ [中级OpenGL教程 027：加载 FBX 模型材质贴图完全指南](https://blog.csdn.net/2503_92624912/article/details/163198445)
+
++ [【花雕学编程】Arduino BLDC 之户外救援机器人复杂地形自主穿越](https://blog.csdn.net/weixin_41659040/article/details/163259585)
+
++ [cAdvisor容器监控实战：Docker部署、指标查看与公网访问](https://blog.csdn.net/COLLINSXU/article/details/163268893)
+
