@@ -203,3 +203,11 @@
 
 + [特朗普政府要求美最高法院限制邮寄选票](https://news.cctv.com/2026/07/28/ARTIFmGt8dMORfpm2PESTf6B260728.shtml)
 
++ [日本熊本强震后大型商场坍塌 已致20至30名员工失踪 现场发现多名死者](https://news.cctv.com/2026/07/28/ARTIKRvL7LE17Hys4HFFiGdg260728.shtml)
+
++ [特朗普再次威胁打击伊朗镐山地下核设施](https://news.cctv.com/2026/07/28/ARTIWt3h4uV2OVB7KWHTGe0Q260728.shtml)
+
++ [阿曼提出联合管理霍尔木兹海峡新机制](https://news.cctv.com/2026/07/28/ARTIlU8zlR6RLmyYXQwxvB79260728.shtml)
+
++ [日本熊本县强震已确认一人死亡](https://news.cctv.com/2026/07/28/ARTIBJbpZpol4X0hSG7qF7Bq260728.shtml)
+
