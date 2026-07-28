@@ -121,3 +121,17 @@
 
 + [高并发内存池：Part-3——PageCache()+申请并发全链路测试通过。](https://blog.csdn.net/oooooooooooohd/article/details/163142135)
 
++ [别只会调用大模型 API：用 Python 实现一个能干活的 AI Agent](https://blog.csdn.net/2501_91062530/article/details/163252274)
+
++ [【金仓数据库征文】读写分离架构下的一致性边界：复制延迟、路由策略与故障演练实录](https://blog.csdn.net/u014727709/article/details/163194598)
+
++ [【Matlab】量子力学波函数演化仿真程序](https://blog.csdn.net/unbelievevc/article/details/163260456)
+
++ [AI Agent时代你的经验值多少钱？](https://blog.csdn.net/weixin_62244995/article/details/163196123)
+
++ [打通 PyTorch Monarch 与 ROCm：单 Controller 架构的异构算力实战](https://blog.csdn.net/Black_Rock_br/article/details/163206537)
+
++ [第3章 从单体项目到 Spring Cloud 微服务](https://blog.csdn.net/weixin_73624019/article/details/163229102)
+
++ [机器人领域简报（2026年7月20日—27日）](https://blog.csdn.net/txg666/article/details/163248774)
+

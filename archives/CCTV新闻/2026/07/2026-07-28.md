@@ -171,3 +171,13 @@
 
 + [中方呼吁乌克兰问题有关各方保持接触 尽快停火止战](https://news.cctv.com/2026/07/28/ARTIjcMakxUUIS5LOJTjTeOn260728.shtml)
 
++ [俄外交部就日本防卫大臣涉核言论发出警告](https://news.cctv.com/2026/07/28/ARTI8SMb5siCTyyF72UzYY9k260728.shtml)
+
++ [法国推出安全行动方案以提升博物馆安保水平](https://news.cctv.com/2026/07/28/ARTILFnIqfWfolmN8r2FXzwA260728.shtml)
+
++ [中国驻巴布亚新几内亚使馆提醒中国公民切勿从事非法采金活动](https://news.cctv.com/2026/07/28/ARTIRueupTdcd0Hg0oIPknLv260728.shtml)
+
++ [海地总统选举再度延期 首轮投票拟于12月举行](https://news.cctv.com/2026/07/28/ARTIaBFnDiZu1MCjd0G2nLDc260728.shtml)
+
++ [四川强降雨造成4处地质灾害 提前转移避险47669人](https://news.cctv.com/2026/07/28/ARTIyj7EIl2CiAXOIiW6tGOY260728.shtml)
+
