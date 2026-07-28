@@ -159,3 +159,5 @@
 
 + [委内瑞拉宣布退出国际刑事法院](https://news.cctv.com/2026/07/25/ARTIZHdCsE6o5h31FMfOavjB260725.shtml)
 
++ [美国防部与大型军工企业达成扩产协议](https://news.cctv.com/2026/07/29/ARTIgqx7A9tKDxcmZfz0asBZ260728.shtml)
+
