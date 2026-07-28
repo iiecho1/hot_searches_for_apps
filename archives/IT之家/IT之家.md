@@ -25,3 +25,9 @@
 
 + [华为鸿蒙 HarmonyOS 7 花粉 Beta 版开启报名：适配 Mate 80、Pura 90、畅享 90 系列等机型](https://m.ithome.com/html/982532.htm)
 
++ [徐洁云回怼小米澎程可加 92/95/98 号汽油被指营销：这么厉害的断章取义手段，咋不早点告诉我](https://m.ithome.com/html/982741.htm)
+
++ [终于告别“诗野千里”：华为鸿蒙 HarmonyOS 7 花粉 Beta 版设备缩略图焕新](https://m.ithome.com/html/982738.htm)
+
++ [华为 HarmonyOS 7 花粉 Beta 版超百项更新曝光：全局沉浸空间、小艺基于 Agentic 全面进化重构等](https://m.ithome.com/html/982673.htm)
+
