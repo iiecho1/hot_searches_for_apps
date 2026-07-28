@@ -163,3 +163,11 @@
 
 + [微妙时刻访美，内塔尼亚胡有何诉求](https://news.cctv.com/2026/07/29/ARTIBDfX9CscifrIFzLzasGB260728.shtml)
 
++ [藤森庆子宣誓就任秘鲁总统](https://news.cctv.com/2026/07/29/ARTIUPuECj7r0QPfaYoA6DuO260729.shtml)
+
++ [乌克兰与伊朗两国外长就里海袭船事件通电话](https://news.cctv.com/2026/07/29/ARTIfCw8h2F1Ju400Zp7dALQ260729.shtml)
+
++ [对伊朗军事行动以来 美以领导人首次会晤](https://news.cctv.com/2026/07/29/ARTI77FA3OEsgsi5TprhGwVA260729.shtml)
+
++ [以军数据显示极端犹太人定居者暴力袭击事件激增](https://news.cctv.com/2026/07/29/ARTItyETeJ0s7ez6jnIasmr3260729.shtml)
+
