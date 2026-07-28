@@ -21,3 +21,11 @@
 
 + [Giffgaff 被停止服务了](https://www.v2ex.com/t/1230161)
 
++ [[推广&amp;抽奖] anytokens.cc 中转已送近 4w 刀！现在回复就领$10，新用户再送 $5](https://www.v2ex.com/t/1230066)
+
++ [网传长鑫科技发现华为员工偷抓原始数据清退所有合肥工厂驻场研发人员](https://www.v2ex.com/t/1230131)
+
++ [摆烂还是转全栈？](https://www.v2ex.com/t/1230116)
+
++ [少数人的贪婪，买单的却是全体同事](https://www.v2ex.com/t/1230124)
+

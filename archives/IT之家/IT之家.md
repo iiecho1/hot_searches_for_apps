@@ -25,3 +25,27 @@
 
 + [华为余承东开启首次田野科普，详解手机屏幕如何做到耐刮抗反光](https://m.ithome.com/html/981694.htm)
 
++ [长鑫科技市值 3.6 万亿元新高，超越英特尔、港股第一大股腾讯控股](https://m.ithome.com/html/981972.htm)
+
++ [小米澎湃 HyperOS 4 系统新特性曝光，将带来大量实时光场渲染等](https://m.ithome.com/html/981850.htm)
+
++ [腾讯全新 QQ 宠物上线](https://m.ithome.com/html/981842.htm)
+
++ [“A 股一哥”：长鑫科技首日开盘大涨超 471%、市值突破 3 万亿元](https://m.ithome.com/html/981845.htm)
+
++ [苹果 20 周年纪念版 iPhone 前瞻：微曲面显示屏、无实体按键，真全面屏仍存悬念](https://m.ithome.com/html/981859.htm)
+
++ [日本作家东野圭吾去世：终年 68 岁，代表作《白夜行》《嫌疑人 X 的献身》等](https://m.ithome.com/html/982075.htm)
+
++ [腾讯张军：WorkBuddy 鸿蒙版专门上线了一个其他主流系统目前无法实现的神仙功能](https://m.ithome.com/html/981985.htm)
+
++ [QQ 宠物全新升级归来，接入腾讯 Hy3 大模型](https://m.ithome.com/html/981998.htm)
+
++ [雷军公布小米澎程 N90 Max 新车色「远山青」，采用含蓄沉静的灰青色调设计](https://m.ithome.com/html/981905.htm)
+
++ [月之暗面开源 Kimi K3 模型，2.8 万亿参数](https://m.ithome.com/html/982259.htm)
+
++ [一签爆赚 2 万元，长鑫科技上市首日开盘时刻已有人成功卖出](https://m.ithome.com/html/981847.htm)
+
++ [消息称华为 Pura 90 系列手机销量破 100 万台](https://m.ithome.com/html/982166.htm)
+
