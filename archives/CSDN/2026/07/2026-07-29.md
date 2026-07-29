@@ -151,3 +151,21 @@
 
 + [基于YOLOv8行人车辆检测系统（全套源码+数据集）](https://blog.csdn.net/m0_61028090/article/details/163283442)
 
++ [SQL 注入攻防全链路：从校园教务系统的一次成绩查询说起](https://blog.csdn.net/qq_46987323/article/details/163281292)
+
++ [从蓝耘元生代到扣子编程:我用DeepSeek-V4-Flash搭建Dreambox-AI生图工具箱的实操复盘](https://blog.csdn.net/2401_87629362/article/details/163280984)
+
++ [ SQL 增删改查：和 dao 层代码怎么对应](https://blog.csdn.net/lihaoweiwudi_/article/details/163195330)
+
++ [Windows 安全基线：组策略、UAC、Defender 深度配置](https://blog.csdn.net/cui_yonghua/article/details/163312042)
+
++ [【笔下生辉｜06】HarmonyOS ArkTS 素材搜索实战：实现关键词过滤、空结果与跳转](https://blog.csdn.net/2401_84996024/article/details/163174194)
+
++ [HarmonyOS 折叠屏断点适配实战：从单列到双栏的响应式布局](https://blog.csdn.net/2401_84026308/article/details/163244800)
+
++ [HarmonyOS应用实战-启示散页-39-资源包体变大别只怪图片：用资源账本解释动画、封面和 rawfile 来源](https://blog.csdn.net/AD0227/article/details/163247395)
+
++ [FastAPI + Echarts 构建可交互数据仪表板](https://blog.csdn.net/qq_24330181/article/details/163305125)
+
++ [推理引擎选型对比：TensorRT、ONNX Runtime、vLLM、llama.cpp 实测](https://blog.csdn.net/weixin_43272162/article/details/163304784)
+

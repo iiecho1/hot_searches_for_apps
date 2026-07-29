@@ -183,3 +183,11 @@
 
 + [外交部：对日本熊本县地震遇难者表示哀悼 请中国公民注意防范海啸和余震](https://news.cctv.com/2026/07/29/ARTIRrRDAuVM6665OGFetjJp260729.shtml)
 
++ [中国驻日本大使馆提醒中国公民注意防范地震灾害](https://news.cctv.com/2026/07/29/ARTI4KeQIN1jsIB2I34Inc7M260729.shtml)
+
++ [俄副外长批评日本高市政府“再军事化”道路](https://news.cctv.com/2026/07/29/ARTI1M0L9MooGeysfnK8U19C260729.shtml)
+
++ [中亚专家：世界人工智能合作组织成立是“里程碑”](https://news.cctv.com/2026/07/29/ARTIw3LZMmAF4xuwc5zzKlul260729.shtml)
+
++ [记者手记丨中国零关税举措拉动非洲对华出口](https://news.cctv.com/2026/07/29/ARTIvr1qsnzdSKDd1QqLJ28E260729.shtml)
+
