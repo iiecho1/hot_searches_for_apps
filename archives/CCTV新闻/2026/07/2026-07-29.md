@@ -171,3 +171,5 @@
 
 + [以军数据显示极端犹太人定居者暴力袭击事件激增](https://news.cctv.com/2026/07/29/ARTItyETeJ0s7ez6jnIasmr3260729.shtml)
 
++ [全球发展倡议5周年高级别会议在京举行 构建可持续发展的美好未来](https://news.cctv.com/2026/07/29/ARTIwafrRi8JATTw1bSn63XO260729.shtml)
+

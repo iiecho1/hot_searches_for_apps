@@ -101,3 +101,31 @@
 
 + [从Transformer底层机制出发，构建大模型时代的Prompt注入防御体系——以半导体晶圆厂AI助手MVP为例](https://blog.csdn.net/bumblebee16/article/details/163282779)
 
++ [远程工具实测：UU · 远程 10 项核心深度解析](https://blog.csdn.net/a_hong_sen/article/details/163282454)
+
++ [时序大模型 TimechoAI：重塑时间序列智能分析新范式](https://blog.csdn.net/user340/article/details/163250720)
+
++ [同一个关键词，不同国家搜索结果差多少？一次 SERP API 实测](https://blog.csdn.net/weixin_61587867/article/details/163278933)
+
++ [一个人也能做AI漫剧：从选题到成片的完整生产系统](https://blog.csdn.net/Mrxiao_bo/article/details/163270686)
+
++ [用一张面板看遍内网主机：Beszel轻量监控搭建实战](https://blog.csdn.net/2501_91062530/article/details/163268538)
+
++ [Re：Linux系统篇（四）：权限Chapter--用户身份、权限位与目录权限三大核心问题](https://blog.csdn.net/mogreat/article/details/163244719)
+
++ [【数据库】数据库约束](https://blog.csdn.net/2601_95402431/article/details/162914493)
+
++ [基于结构化电子病历的临床风险预测模型构建与大模型协同优化](https://blog.csdn.net/kkiron/article/details/163269762)
+
++ [蓝耘把五个顶级 AI 塞进一个模型，我出了三道刁钻题让他们打一架](https://blog.csdn.net/2301_76341691/article/details/163216963)
+
++ [【Linux 篇】数字世界的通信管道 —— 匿名管道与进程池深度实战解析](https://blog.csdn.net/buhuizhiyuci/article/details/163274160)
+
++ [SLG手游用什么模拟器好？实测体验](https://blog.csdn.net/m0_55394328/article/details/163244738)
+
++ [【数据结构与算法】树的初相识](https://blog.csdn.net/2601_95685024/article/details/163232651)
+
++ [act本地预跑GitHub Actions：Python项目完整CI/CD流水线实战](https://blog.csdn.net/qq_36729037/article/details/163282161)
+
++ [用搜索引擎 API 搭一个 SEO 关键词监控工具：定时追踪排名、广告和相关搜索](https://blog.csdn.net/2301_80863610/article/details/163243697)
+
