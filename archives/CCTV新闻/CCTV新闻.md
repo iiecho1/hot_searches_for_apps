@@ -159,3 +159,7 @@
 
 + [伊朗总统：美袭击伊朗民用基础设施是“明显的战争罪行”](https://news.cctv.com/2026/07/26/ARTIfSyuAHsvFmPiGmY7sppI260726.shtml)
 
++ [泽连斯基请求美紧急提供300枚“爱国者”拦截弹](https://news.cctv.com/2026/07/30/ARTIv3efCnCXoHvahugHIFqd260729.shtml)
+
++ [联合国官员：超4亿非洲人仍缺乏基本饮用水](https://news.cctv.com/2026/07/30/ARTICFpqxIPYOEPX59FVKfez260729.shtml)
+

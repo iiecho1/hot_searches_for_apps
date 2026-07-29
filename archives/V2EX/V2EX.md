@@ -21,3 +21,5 @@
 
 + [想买个 Mac mini 放家里做远程开发](https://www.v2ex.com/t/1230592)
 
++ [如何看待 OpenAI、Anthropic、谷歌呼吁放慢研究 AI](https://www.v2ex.com/t/1230658)
+
