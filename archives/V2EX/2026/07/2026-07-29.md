@@ -51,3 +51,5 @@
 
 + [躺平就是什么也不干了么？](https://www.v2ex.com/t/1230586)
 
++ [想买个 Mac mini 放家里做远程开发](https://www.v2ex.com/t/1230592)
+

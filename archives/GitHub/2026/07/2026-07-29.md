@@ -27,3 +27,23 @@
 
 + [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb)
 
++ [1jehuang/jcode](https://github.com/1jehuang/jcode)
+
++ [grokability/snipe-it](https://github.com/grokability/snipe-it)
+
++ [deepfakes/faceswap](https://github.com/deepfakes/faceswap)
+
++ [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+
++ [different-ai/openwork](https://github.com/different-ai/openwork)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
+
++ [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
++ [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+
++ [maderix/ANE](https://github.com/maderix/ANE)
+
