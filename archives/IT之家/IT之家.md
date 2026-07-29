@@ -25,3 +25,11 @@
 
 + [小米澎程 N90 Max 汽车预热文案闹乌龙，官方更正“可放下两辆 25 英寸公路自行车”表述](https://m.ithome.com/html/983107.htm)
 
++ [华为鸿蒙电脑全新麒麟 XE90 / X90 Plus 处理器亮相，主打高能效 / 高性能](https://m.ithome.com/html/983094.htm)
+
++ [中国电信：8 月 1 日起，其他第三方互联网渠道不再提供电信号卡办理相关服务](https://m.ithome.com/html/983303.htm)
+
++ [奥迪终于有了全尺寸旗舰 SUV：全新 Q9 正式亮相，8.9 万美元起](https://m.ithome.com/html/982837.htm)
+
++ [蔚来马麟谈“智驾小蓝灯将被禁用”：有些让后车跟车时看着刺眼，有安全隐患](https://m.ithome.com/html/983250.htm)
+

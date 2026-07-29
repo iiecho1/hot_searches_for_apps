@@ -101,3 +101,23 @@
 
 + [FastAPI + Echarts 构建可交互数据仪表板](https://blog.csdn.net/qq_24330181/article/details/163305125)
 
++ [服务进程正常却访问不了？Prometheus黑盒监控配置教程](https://blog.csdn.net/baronbool/article/details/163223570)
+
++ [【Linux 篇】数字世界的通信管道 —— 命名管道深度实战解析](https://blog.csdn.net/buhuizhiyuci/article/details/163292448)
+
++ [▲基于OFDM+32QAM的通信链路matlab性能仿真,包含LDPC,Schmidl-Cox频偏估计,加扰解扰,定时同步和LS信道估计](https://blog.csdn.net/ccsss22/article/details/163299164)
+
++ [PostgreSQL没有公网IP怎么远程连接？TCP映射配置教程(1)](https://blog.csdn.net/2302_79376097/article/details/163239459)
+
++ [第21届全国大学生智能车竞赛华南赛区成绩与奖项](https://blog.csdn.net/zhuoqingjoking97298/article/details/163296623)
+
++ [让Prometheus跨网络抓取指标：Node Exporter公网监控实战](https://blog.csdn.net/qq_54796785/article/details/163265334)
+
++ [FastAPI：静态资源与 Jinja2 模板](https://blog.csdn.net/qq_24330181/article/details/163291220)
+
++ [DolphinDB振动分析：设备振动信号处理](https://blog.csdn.net/sinat_41617212/article/details/163314722)
+
++ [基于YOLOv8行人车辆检测系统（全套源码+数据集）](https://blog.csdn.net/m0_61028090/article/details/163283442)
+
++ [羽毛球口袋教练 HarmonyOS 学习应用（07）：收藏与笔记的轻量持久化](https://blog.csdn.net/wangji93/article/details/163241844)
+
