@@ -21,3 +21,9 @@
 
 + [遇到酷似汤唯的女生，聊了俩小时~~~](https://www.v2ex.com/t/1230390)
 
++ [三兄妹，老大不想出养老钱怎么办？](https://www.v2ex.com/t/1230462)
+
++ [giffgaff 别开 WiFi Calling，我是 6 月份激活的实体卡，早上开了 WiFi Calling，刚收到邮件被封了](https://www.v2ex.com/t/1230509)
+
++ [Kimi k3 今天可以订阅了，这里居然一点声音都没有？](https://www.v2ex.com/t/1230377)
+

@@ -25,3 +25,5 @@
 
 + [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
 
++ [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb)
+
