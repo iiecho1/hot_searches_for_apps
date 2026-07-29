@@ -163,3 +163,9 @@
 
 + [联合国官员：超4亿非洲人仍缺乏基本饮用水](https://news.cctv.com/2026/07/30/ARTICFpqxIPYOEPX59FVKfez260729.shtml)
 
++ [联合国：以色列持续占领巴勒斯坦领土违反国际法](https://news.cctv.com/2026/07/30/ARTI0OAbbN2aGzzG6jwfFtkB260730.shtml)
+
++ [国际足联正式对阿根廷足协启动调查](https://news.cctv.com/2026/07/30/ARTI6CaDyQ6tDpBUIUD7Ybsp260730.shtml)
+
++ [美联储维持利率不变 三票反对凸显内部分歧加剧](https://news.cctv.com/2026/07/30/ARTIaVEHb0IKN1QMSpSSjXID260730.shtml)
+

@@ -129,3 +129,5 @@
 
 + [HarmonyOS 大屏多窗口体验实战：平板、PC、键鼠与窗口状态](https://blog.csdn.net/2401_84026308/article/details/163250405)
 
++ [Cursor 实战：用 grill-me Skill 把 AI 写的 PRD 拷问到能写代码](https://blog.csdn.net/g984160547/article/details/163284100)
+
