@@ -121,3 +121,11 @@
 
 + [羽毛球口袋教练 HarmonyOS 学习应用（07）：收藏与笔记的轻量持久化](https://blog.csdn.net/wangji93/article/details/163241844)
 
++ [【Linux】没有公网 IP 也能 SSH 回内网：反向 SSH、ProxyJump 与 systemd 保活实战](https://blog.csdn.net/2402_87731470/article/details/161982260)
+
++ [Spring Boot 集成硅基流动免费Qwen大模型实战——从零搭建支持多轮对话的网页应用](https://blog.csdn.net/yelangkingwuzuhu/article/details/163313796)
+
++ [推理引擎选型对比：TensorRT、ONNX Runtime、vLLM、llama.cpp 实测](https://blog.csdn.net/weixin_43272162/article/details/163304784)
+
++ [HarmonyOS 大屏多窗口体验实战：平板、PC、键鼠与窗口状态](https://blog.csdn.net/2401_84026308/article/details/163250405)
+
