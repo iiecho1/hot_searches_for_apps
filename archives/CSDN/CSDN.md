@@ -145,3 +145,9 @@
 
 + [Kimi K3 本地部署完全指南：1560GB 权重、8 卡起步与真实硬件门槛](https://blog.csdn.net/aidoudoulong/article/details/163273456)
 
++ [不止陈列，更能对话：kiki‘s space 具身交互智能作品集的设计与工程全记录](https://blog.csdn.net/weixin_62765017/article/details/163305158)
+
++ [商用车多体动力学实战笔记｜第3篇：驾驶员闭环控制模型（纵向PI+预瞄横向最优控制）](https://blog.csdn.net/weixin_62244995/article/details/162991311)
+
++ [基于YOLOv8行人车辆检测系统（全套源码+数据集）](https://blog.csdn.net/m0_61028090/article/details/163283442)
+

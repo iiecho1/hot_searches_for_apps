@@ -179,3 +179,7 @@
 
 + [美国中学枪击案少年枪手被判终身监禁](https://news.cctv.com/2026/07/29/ARTIjOSzxgBd8GmfqTucVv6x260729.shtml)
 
++ [韩国敦促日本如实介绍强征劳工史实](https://news.cctv.com/2026/07/29/ARTION2DeSwXYmMAChbHyyDz260729.shtml)
+
++ [外交部：对日本熊本县地震遇难者表示哀悼 请中国公民注意防范海啸和余震](https://news.cctv.com/2026/07/29/ARTIRrRDAuVM6665OGFetjJp260729.shtml)
+
