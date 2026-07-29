@@ -129,3 +129,19 @@
 
 + [用搜索引擎 API 搭一个 SEO 关键词监控工具：定时追踪排名、广告和相关搜索](https://blog.csdn.net/2301_80863610/article/details/163243697)
 
++ [【Reactor模式】Reactor 反应堆模式——用事件驱动取代人海战术，手写 C++ 高性能网络框架的核心骨架](https://blog.csdn.net/2302_80243065/article/details/163238799)
+
++ [2026远程游戏横测，暑假用手机接管电脑，ToDesk VS 向日葵怎么选？](https://blog.csdn.net/lrq13965748542/article/details/163299982)
+
++ [【免费】基于Spark实时社交媒体舆情分析与趋势预测(Java版本+可视化大屏+Kafka+SpringBoot+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163231228)
+
++ [Vue3 + UniApp 开发：华玥组件库这 8 个高频组件，能帮你省掉一半手写时间](https://blog.csdn.net/weixin_68340504/article/details/163231012)
+
++ [【计算机网络 | 第一章】从分组交换到分层体系结构](https://blog.csdn.net/2502_94242477/article/details/163299906)
+
++ [多台服务器怎么统一监控？极空间部署 Beszel 与公网远程访问完整教程](https://blog.csdn.net/m0_68390957/article/details/163298406)
+
++ [Linux网络（一）：揭秘从网络发展哲学到 TCP/IP 协议栈分层设计的设计哲学](https://blog.csdn.net/Z2314246476/article/details/163229565)
+
++ [Kimi K3 本地部署完全指南：1560GB 权重、8 卡起步与真实硬件门槛](https://blog.csdn.net/aidoudoulong/article/details/163273456)
+

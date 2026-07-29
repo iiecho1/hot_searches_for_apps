@@ -173,3 +173,9 @@
 
 + [全球发展倡议5周年高级别会议在京举行 构建可持续发展的美好未来](https://news.cctv.com/2026/07/29/ARTIwafrRi8JATTw1bSn63XO260729.shtml)
 
++ [拾光纪·愿同中国共同寻求解决方案，斯洛伐克总统这样对习主席说](https://news.cctv.com/2026/07/29/ARTIPNAB1hBu3AOGQIovQGfD260729.shtml)
+
++ [约旦称拦截5枚自伊朗方向发射的导弹](https://news.cctv.com/2026/07/29/ARTIzsgulT2wpD9VEKT2v7zA260729.shtml)
+
++ [美国中学枪击案少年枪手被判终身监禁](https://news.cctv.com/2026/07/29/ARTIjOSzxgBd8GmfqTucVv6x260729.shtml)
+
