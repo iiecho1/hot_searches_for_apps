@@ -187,3 +187,5 @@
 
 + [尺素金声丨实施零关税国家达63个，中国的开放追求互利共赢](https://news.cctv.com/2026/07/30/ARTI4oubZtKWPTf0h51sYBnt260730.shtml)
 
++ [石油部门萎缩 沙特二季度GDP同比下降4.8%](https://news.cctv.com/2026/07/30/ARTIp4loSOauZnUxaitagFul260730.shtml)
+

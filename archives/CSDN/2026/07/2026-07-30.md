@@ -191,3 +191,5 @@
 
 + [ 破解嵌入式安全困局｜先御PreDefsOS V2.0，中高端设备原生可信安全底座](https://blog.csdn.net/lygtian/article/details/163339729)
 
++ [HarmonyOS 页面预加载与懒加载最佳实践——从ForEach到LazyForEach，打造丝滑流畅的ArkUI应用体验](https://blog.csdn.net/u014727709/article/details/163313782)
+
