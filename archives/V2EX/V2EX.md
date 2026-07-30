@@ -23,3 +23,5 @@
 
 + [他和她](https://www.v2ex.com/t/1230953)
 
++ [Giffgaff 之后，还有别的海外实体卡或者虚拟卡推荐吗？](https://www.v2ex.com/t/1230929)
+

@@ -119,3 +119,5 @@
 
 + [【粉丝福利社】深入浅出大模型：从深度学习到PyTorch实现](https://blog.csdn.net/aa2528877987/article/details/163345640)
 
++ [WebGPU 在 Web3 可视化中的技术应用：从 WebGL 到计算 Shader 的架构升级](https://blog.csdn.net/qq_40635035/article/details/163315546)
+
