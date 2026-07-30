@@ -75,3 +75,9 @@
 
 + [零跑汽车董事长朱江明：早知道造车这么烧钱，我就不干了](https://m.ithome.com/html/983486.htm)
 
++ [上汽名爵 MG 07 预售：搭载 Momenta R7 世界模型，12.59 万元起](https://m.ithome.com/html/983312.htm)
+
++ [1.5 万元机票仅退 432 元引热议，央视关注后天价退票费已全额退还](https://m.ithome.com/html/983408.htm)
+
++ [比亚迪大汉核心信息公布：四驱版 3.8 秒破百，1008km“大型轿车全球第一纯电续航”](https://m.ithome.com/html/983538.htm)
+

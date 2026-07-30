@@ -179,3 +179,11 @@
 
 + [日本熊本地震已致30人死亡](https://news.cctv.com/2026/07/30/ARTIbBhXEpWrQexYBu3lxmNg260730.shtml)
 
++ [亚美尼亚总理称本届政府将于周日辞职](https://news.cctv.com/2026/07/30/ARTItrBg5r3EUicYhPIjf9Ir260730.shtml)
+
++ [OpenAI承认AI模型失控入侵事件涉及多个平台](https://news.cctv.com/2026/07/30/ARTI138NkSgPzZXqy9ryeUEc260730.shtml)
+
++ [专访丨中国经验为非洲国家减贫事业提供有益启示——访南非《星期日世界报》首席执行官贝利](https://news.cctv.com/2026/07/30/ARTI8IYReLT2aSF6eFeUnohm260730.shtml)
+
++ [尺素金声丨实施零关税国家达63个，中国的开放追求互利共赢](https://news.cctv.com/2026/07/30/ARTI4oubZtKWPTf0h51sYBnt260730.shtml)
+

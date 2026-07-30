@@ -165,3 +165,19 @@
 
 + [篮球口袋教练 HarmonyOS 学习应用（01）：本地视频课程的资源组织](https://blog.csdn.net/wangji93/article/details/163242303)
 
++ [Ansible自动化部署Nginx实战：Playbook编写、服务验证与远程主机接入](https://blog.csdn.net/weixin_62765017/article/details/163329384)
+
++ [动口不动手——海光DCU K100_AI单卡部署 Qwen3-ASR-1.7B + Qwen3.5-9B：语音驱动Everything，实现文件智能高速检索](https://blog.csdn.net/pla88888888/article/details/163276247)
+
++ [钉钉智能财务：数字化时代企业财务管理的智能升级方案](https://blog.csdn.net/paopao_djshddhdj/article/details/163324495)
+
++ [电赛H题视觉：MaixCAM2 + YOLO11n 钢球检测，从训练到部署](https://blog.csdn.net/weixin_47277403/article/details/163321757)
+
++ [想把笔记存在自己的NAS里？群晖部署Trilium Notes与远程访问教程](https://blog.csdn.net/Z_oioihoii/article/details/163329385)
+
++ [【C++开源数学库】Boost.Math 超全实战教程](https://blog.csdn.net/zouzenzen/article/details/163313200)
+
++ [一行命令的事，让我把用了三年的工具换掉了](https://blog.csdn.net/2401_87342824/article/details/163276177)
+
++ [YOLO系列知识蒸馏深度剖析：Logits蒸馏与特征蒸馏的区别与应用](https://blog.csdn.net/m0_57010556/article/details/163334140)
+
