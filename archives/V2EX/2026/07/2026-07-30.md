@@ -23,3 +23,5 @@
 
 + [如何看待 OpenAI、Anthropic、谷歌呼吁放慢研究 AI](https://www.v2ex.com/t/1230658)
 
++ [开了 6 年的网易云 vip 不准备续费了，你们都用什么听歌软件？](https://www.v2ex.com/t/1230751)
+
