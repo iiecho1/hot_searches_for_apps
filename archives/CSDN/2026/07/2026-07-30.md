@@ -181,3 +181,13 @@
 
 + [YOLO系列知识蒸馏深度剖析：Logits蒸馏与特征蒸馏的区别与应用](https://blog.csdn.net/m0_57010556/article/details/163334140)
 
++ [【Codex】OpenAI Codex CLI 完整实操指南｜模型切换、权限管控、AGENTS.md 全技巧解锁](https://blog.csdn.net/2401_87342824/article/details/163324119)
+
++ [Ansible批量部署Node Exporter实战：Playbook配置与远程主机接入](https://blog.csdn.net/SDFsoul/article/details/163339941)
+
++ [高并发内存池：Part-3——PageCache()+申请并发全链路测试通过。](https://blog.csdn.net/oooooooooooohd/article/details/163142135)
+
++ [项目：InnoAI SQL 助手](https://blog.csdn.net/2502_91601438/article/details/163271649)
+
++ [ 破解嵌入式安全困局｜先御PreDefsOS V2.0，中高端设备原生可信安全底座](https://blog.csdn.net/lygtian/article/details/163339729)
+

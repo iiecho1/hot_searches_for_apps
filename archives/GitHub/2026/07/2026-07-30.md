@@ -35,3 +35,21 @@
 
 + [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 
++ [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
++ [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
+
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
++ [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+
++ [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
++ [ansible/ansible](https://github.com/ansible/ansible)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
++ [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+
++ [agavra/tuicr](https://github.com/agavra/tuicr)
+
