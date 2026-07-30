@@ -101,3 +101,19 @@
 
 + [YOLO系列知识蒸馏深度剖析：Logits蒸馏与特征蒸馏的区别与应用](https://blog.csdn.net/m0_57010556/article/details/163334140)
 
++ [【AVDTP】规范精讲[7]: 从RTP封包到空中传输，蓝牙音频数据是怎么跑起来的](https://blog.csdn.net/weixin_37800531/article/details/163219121)
+
++ [lvs总结](https://blog.csdn.net/2402_89501062/article/details/163307965)
+
++ [【无人机路径规划】基于粒子群算法PSO融合动态窗口法DWA的无人机三维动态避障路径规划研究（Matlab代码实现）](https://blog.csdn.net/weixin_46039719/article/details/163328693)
+
++ [2026年主流AI编程工具横评：Cursor 3.0、Claude Code、Copilot 谁在接管你的键盘？](https://blog.csdn.net/weixin_52208686/article/details/163327334)
+
++ [GeoLibre：在浏览器里跑完整 GIS 分析——云原生地理空间工具的一次范式跃迁](https://blog.csdn.net/design1985/article/details/163259491)
+
++ [LVS：四层（传输层 TCP/UDP）负载均衡集群解决方案。](https://blog.csdn.net/2302_79978586/article/details/163313039)
+
++ [TDengine 部署指南 — 单机、集群、容器化、云原生](https://blog.csdn.net/ticktick999/article/details/163343100)
+
++ [HarmonyOS 页面预加载与懒加载最佳实践——从ForEach到LazyForEach，打造丝滑流畅的ArkUI应用体验](https://blog.csdn.net/u014727709/article/details/163313782)
+

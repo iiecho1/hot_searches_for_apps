@@ -159,3 +159,7 @@
 
 + [蒙内铁路货运量累计突破5000万吨](https://news.cctv.com/2026/07/27/ARTIEGeGhK5Gnblkq6Qq61Jj260727.shtml)
 
++ [安理会举行联合国秘书长遴选首轮意向性投票](https://news.cctv.com/2026/07/31/ARTIa2fTaJtXTlxMPdIJAbH3260731.shtml)
+
++ [巴西就美国加征关税措施向世贸组织提出争端磋商请求](https://news.cctv.com/2026/07/31/ARTIVnJjVBlS97hjXNfYGwCi260731.shtml)
+

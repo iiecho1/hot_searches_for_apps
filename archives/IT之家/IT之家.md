@@ -25,3 +25,19 @@
 
 + [华为 MatePad Pro 2026 旗舰平板官宣 8 月 5 日亮相：厚 4.70mm、重 439g，支持手写笔](https://m.ithome.com/html/983391.htm)
 
++ [蔚来马麟谈“智驾小蓝灯将被禁用”：有些让后车跟车时看着刺眼，有安全隐患](https://m.ithome.com/html/983250.htm)
+
++ [中美意三国团队联合打造：动画电影《悟空大圣》上映 5 天宣布撤档，票房已破 15 万](https://m.ithome.com/html/983182.htm)
+
++ [华为全新鸿蒙折叠电脑 MateBook Fold 非凡大师亮相，首搭麒麟 X90 Plus 处理器](https://m.ithome.com/html/983233.htm)
+
++ [事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用](https://m.ithome.com/html/983329.htm)
+
++ [华为鸿蒙 HarmonyOS 7 花粉 Beta 版再曝新特性，搭配星闪 / 有线耳机可在播控中心“K 歌”](https://m.ithome.com/html/983343.htm)
+
++ [领克汽车：合格证参数录入不一致导致部分四驱 07GT 无法上牌，已提交换证申请、给予相应用户积分补偿](https://m.ithome.com/html/983335.htm)
+
++ [上汽名爵 MG 07 预售：搭载 Momenta R7 世界模型，12.59 万元起](https://m.ithome.com/html/983312.htm)
+
++ [华为 MateBook Pro S 鸿蒙笔记本隐藏细节曝光，A 面预计将搭载摄像头](https://m.ithome.com/html/983322.htm)
+

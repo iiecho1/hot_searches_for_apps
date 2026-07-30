@@ -61,3 +61,7 @@
 
 + [NJPW G1 Climax 36 第八日 2026.07.29 Yuto-Ice vs. 辻阳太](https://m.acfun.cn/v/?ac=48734713)
 
++ [死神新游：卍解露琪亚VS一护！刀鸣压力拉满！](https://m.acfun.cn/v/?ac=48733756)
+
++ [1577期：行车遭遇飞来横祸，挖掘机迎面撞击，挡风玻璃碎裂](https://m.acfun.cn/v/?ac=48737277)
+
