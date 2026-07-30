@@ -169,3 +169,11 @@
 
 + [美联储维持利率不变 三票反对凸显内部分歧加剧](https://news.cctv.com/2026/07/30/ARTIaVEHb0IKN1QMSpSSjXID260730.shtml)
 
++ [美军称结束对伊朗实施的新一轮大规模打击](https://news.cctv.com/2026/07/30/ARTIhcOUiaYFvZtSFyPH5Xit260730.shtml)
+
++ [德国拟立法允许使用AI辅助审核移民申请](https://news.cctv.com/2026/07/30/ARTICtaTNrdGzLugxIGJ1p85260730.shtml)
+
++ [日本熊本地震已致28人死亡](https://news.cctv.com/2026/07/30/ARTIJuMiuUsRMMb4ZGpv0GE3260730.shtml)
+
++ [日本熊本地震已致17人死亡](https://news.cctv.com/2026/07/30/ARTI5dHSUadFFvHa4k3JMENP260730.shtml)
+

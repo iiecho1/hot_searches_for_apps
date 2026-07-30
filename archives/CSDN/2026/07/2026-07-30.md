@@ -131,3 +131,21 @@
 
 + [Cursor 实战：用 grill-me Skill 把 AI 写的 PRD 拷问到能写代码](https://blog.csdn.net/g984160547/article/details/163284100)
 
++ [PyTorch计算机视觉（3）——卷积神经网络（CNN）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/162009088)
+
++ [Vue 进阶：深入解析 computed 和 watch 的核心区别](https://blog.csdn.net/qq_41840843/article/details/163315318)
+
++ [Codex Scheduled Tasks：让任务自动醒来继续工作](https://blog.csdn.net/weixin_74809706/article/details/162941657)
+
++ [MaxKB4j 商业价值白皮书：Java 生态的企业级 AI 应用底座](https://blog.csdn.net/weixin_40986713/article/details/163262148)
+
++ [【Linux指南】动静态库系列（三）：静态库制作实战：ar、Makefile 与 .a 文件全流程](https://blog.csdn.net/2302_78391795/article/details/163324789)
+
++ [VLA 已经能输出动作，为什么机器人仍需要多时间尺度闭环](https://blog.csdn.net/w776341482/article/details/163299600)
+
++ [快 17% 的搜索，零配置：Elasticsearch 中的自动校准向量量化](https://blog.csdn.net/UbuntuTouch/article/details/163295127)
+
++ [从工厂流水线看懂PLC程序如何让机器“动起来“](https://blog.csdn.net/2502_94387000/article/details/163306589)
+
++ [【免费】基于Spark实时物联网设备故障预警 数据分析与预测 系统(Java版本+可视化大屏+Kafka+SpringBoot+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163303068)
+
