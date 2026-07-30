@@ -177,3 +177,5 @@
 
 + [日本熊本地震已致17人死亡](https://news.cctv.com/2026/07/30/ARTI5dHSUadFFvHa4k3JMENP260730.shtml)
 
++ [日本熊本地震已致30人死亡](https://news.cctv.com/2026/07/30/ARTIbBhXEpWrQexYBu3lxmNg260730.shtml)
+

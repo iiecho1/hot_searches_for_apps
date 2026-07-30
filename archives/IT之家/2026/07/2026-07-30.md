@@ -57,3 +57,21 @@
 
 + [华为 HarmonyOS 7 花粉 Beta 版超百项更新曝光：全局沉浸空间、小艺基于 Agentic 全面进化重构等](https://m.ithome.com/html/982673.htm)
 
++ [全球最轻 14 英寸金属笔记本华为 MateBook Pro S 亮相：搭麒麟 XE90 处理器，首创榫卯一体化结构](https://m.ithome.com/html/983161.htm)
+
++ [中美意三国团队联合打造：动画电影《悟空大圣》上映 5 天宣布撤档，票房已破 15 万](https://m.ithome.com/html/983182.htm)
+
++ [华为全新鸿蒙折叠电脑 MateBook Fold 非凡大师亮相，首搭麒麟 X90 Plus 处理器](https://m.ithome.com/html/983233.htm)
+
++ [事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用](https://m.ithome.com/html/983329.htm)
+
++ [华为 nova16 SE 手机今日开启预订：麒麟 8020 芯片 + 8500mAh 大电池，8 月 5 日正式发布](https://m.ithome.com/html/983409.htm)
+
++ [华为鸿蒙 HarmonyOS 7 花粉 Beta 版再曝新特性，搭配星闪 / 有线耳机可在播控中心“K 歌”](https://m.ithome.com/html/983343.htm)
+
++ [领克汽车：合格证参数录入不一致导致部分四驱 07GT 无法上牌，已提交换证申请、给予相应用户积分补偿](https://m.ithome.com/html/983335.htm)
+
++ [华为 MateBook Pro S 鸿蒙笔记本隐藏细节曝光，A 面预计将搭载摄像头](https://m.ithome.com/html/983322.htm)
+
++ [零跑汽车董事长朱江明：早知道造车这么烧钱，我就不干了](https://m.ithome.com/html/983486.htm)
+

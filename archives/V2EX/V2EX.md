@@ -41,3 +41,13 @@
 
 + [😎我把知乎做成 VS Code 编辑器了](https://www.v2ex.com/t/1230690)
 
++ [进入智驾时代，就不会有插车，逆行等现象，有道理不？](https://www.v2ex.com/t/1230892)
+
++ [为什么小蓝灯要被禁掉呢](https://www.v2ex.com/t/1230922)
+
++ [2026 了，大家现在都怎么远程使用 Mac？](https://www.v2ex.com/t/1230879)
+
++ [[Yukiapi ] 已上线 GPT-5.6 一家稳定平价 Claude/Codex 中转站，新用户注册送 1 刀评论区留 id 送 5 刀额度！](https://www.v2ex.com/t/1230885)
+
++ [这个低成本的美国手机号码，价值还在上升](https://www.v2ex.com/t/1230904)
+

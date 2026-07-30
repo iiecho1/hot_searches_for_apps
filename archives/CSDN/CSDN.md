@@ -149,3 +149,19 @@
 
 + [【免费】基于Spark实时物联网设备故障预警 数据分析与预测 系统(Java版本+可视化大屏+Kafka+SpringBoot+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163303068)
 
++ [内网穿透的应用-服务器日志出现异常怎么办？Python监控、钉钉告警与远程处理教程](https://blog.csdn.net/weixin_42878111/article/details/163331286)
+
++ [极空间怎么搭建自己的笔记系统？Logseq部署与远程访问完整教程](https://blog.csdn.net/liu_chen_yang/article/details/163329399)
+
++ [【分割实战】三种图像分割方法实战对比:Mask R-CNN + GrabCut + OpenCV【附源码】](https://blog.csdn.net/qq_42589613/article/details/163197511)
+
++ [用一张面板看遍内网主机：Beszel轻量监控搭建实战](https://blog.csdn.net/2501_91062530/article/details/163268538)
+
++ [SpringBoot 业务单据编号设计：Redis 原子递增 + 按日重置 + 三层防重号落地](https://blog.csdn.net/zhouzhongyan/article/details/163313974)
+
++ [SpringBoot中实现生成文档-上传文件-调用外部平台创建合同的通用流程](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163310611)
+
++ [想把日记存在自己的NAS里?极空间部署DailyTxT与远程访问教程](https://blog.csdn.net/2301_76341691/article/details/163332870)
+
++ [篮球口袋教练 HarmonyOS 学习应用（01）：本地视频课程的资源组织](https://blog.csdn.net/wangji93/article/details/163242303)
+
