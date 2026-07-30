@@ -65,3 +65,5 @@
 
 + [1577期：行车遭遇飞来横祸，挖掘机迎面撞击，挡风玻璃碎裂](https://m.acfun.cn/v/?ac=48737277)
 
++ [【4K/60帧/HDR】TWICE - Strategy](https://m.acfun.cn/v/?ac=48737338)
+

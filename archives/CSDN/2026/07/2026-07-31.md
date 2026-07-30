@@ -117,3 +117,5 @@
 
 + [HarmonyOS 页面预加载与懒加载最佳实践——从ForEach到LazyForEach，打造丝滑流畅的ArkUI应用体验](https://blog.csdn.net/u014727709/article/details/163313782)
 
++ [【粉丝福利社】深入浅出大模型：从深度学习到PyTorch实现](https://blog.csdn.net/aa2528877987/article/details/163345640)
+
