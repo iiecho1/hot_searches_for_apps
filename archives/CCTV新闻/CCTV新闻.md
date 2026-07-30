@@ -163,3 +163,11 @@
 
 + [巴西就美国加征关税措施向世贸组织提出争端磋商请求](https://news.cctv.com/2026/07/31/ARTIVnJjVBlS97hjXNfYGwCi260731.shtml)
 
++ [特朗普称已就哈马斯“全面解除武装”达成协议](https://news.cctv.com/2026/07/31/ARTInlnES15qqQU4FFbsuKJs260731.shtml)
+
++ [欧足联宣布抵制所有国际足联赛事](https://news.cctv.com/2026/07/31/ARTIhl7FRHFl7uffMzQ6LrjU260731.shtml)
+
++ [美中央司令部：已改变24艘商船的航行路线](https://news.cctv.com/2026/07/31/ARTI3q9FzuY8rWMbLT0kdjlr260731.shtml)
+
++ [阿根廷颁新规 禁止煽动攻击阿的外国人入境](https://news.cctv.com/2026/07/31/ARTIQW4ZBHI13UoWY0vvEGGT260731.shtml)
+
