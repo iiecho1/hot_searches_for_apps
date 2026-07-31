@@ -195,3 +195,5 @@
 
 + [巴基斯坦俾路支省一煤矿爆炸坍塌致11名矿工死亡](https://news.cctv.com/2026/07/31/ARTIP6L9czGOEou7vuakBnO6260731.shtml)
 
++ [印度马哈拉施特拉邦一建筑倒塌 已致9人死亡](https://news.cctv.com/2026/07/31/ARTIwPhs18evmVfTyUUMHZ9k260731.shtml)
+

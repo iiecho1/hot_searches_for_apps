@@ -155,3 +155,25 @@
 
 + [揭秘局域网通信：从MAC到IP的数据之旅](https://blog.csdn.net/keyipatience/article/details/163246782)
 
++ [2026远程桌面横向对比：ToDesk、向日葵、TeamViewer，谁才是真正的“零距离“体验？](https://blog.csdn.net/sinat_41617212/article/details/163353738)
+
++ [Zookeeper - Zookeeper 的设计理念与核心解决的分布式问题](https://blog.csdn.net/qq_41187124/article/details/157688044)
+
++ [半小时上手蓝耘元生代 MaaS：用 OpenAI SDK 调用 DeepSeek，把大模型接进自己的项目](https://blog.csdn.net/weixin_52908342/article/details/163340933)
+
++ [Word转PPT实测：夸克AI生成PPT，千字文档秒变汇报稿](https://blog.csdn.net/weixin_43151418/article/details/163338139)
+
++ [PyTorch深度学习实战：5个核心方法从0到1构建神经网络](https://blog.csdn.net/weixin_70280055/article/details/163314436)
+
++ [群晖NAS也能当开发机?Code-Server部署与远程编程完整教程](https://blog.csdn.net/2401_87629362/article/details/163358188)
+
++ [GPT-5.6 Luna 降价 80%，OpenAI 在打什么算盘](https://blog.csdn.net/aidoudoulong/article/details/163355241)
+
++ [商用车多体动力学实战笔记｜第3篇：驾驶员闭环控制模型（纵向PI+预瞄横向最优控制）](https://blog.csdn.net/weixin_62244995/article/details/162991311)
+
++ [【2026年电赛D题】设计报告：陆空协同无人机系统](https://blog.csdn.net/weixin_62811457/article/details/163336877)
+
++ [信创云原生合规：K8s 部署国产数据库等保三级安全加固全方案｜实测通过政务测评](https://blog.csdn.net/xdsfsadfas/article/details/163335556)
+
++ [Java 21虚拟线程 × Spring Boot 3.2 × 平台工程：2026云原生后端的架构跃迁](https://blog.csdn.net/m0_53142039/article/details/163340535)
+

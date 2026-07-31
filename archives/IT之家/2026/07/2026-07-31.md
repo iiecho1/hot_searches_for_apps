@@ -41,3 +41,21 @@
 
 + [华为 MateBook Pro S 鸿蒙笔记本隐藏细节曝光，A 面预计将搭载摄像头](https://m.ithome.com/html/983322.htm)
 
++ [小米澎程系列技术发布会一文汇总：雷军详解昆仑架构，N90/N70 预售价亮眼](https://m.ithome.com/html/983903.htm)
+
++ [无需外接机顶盒，国家广电总局联合工信部召开一体化电视全国推广工作部署会](https://m.ithome.com/html/983905.htm)
+
++ [九号全新 M3 闪骑电摩开售：90km/h 极速，首发价 6699 元起](https://m.ithome.com/html/983902.htm)
+
++ [小米 REDMI K100 Pro 系列“满分旗舰”手机官宣，8 月 11 日发布](https://m.ithome.com/html/983940.htm)
+
++ [曝特斯拉考虑出售中国业务：为与 SpaceX 的潜在合并铺平道路，马斯克回应称假消息](https://m.ithome.com/html/983982.htm)
+
++ [鸿蒙智行智界 RX 路测车曝光，消息称该车也经历了数百万公里路测](https://m.ithome.com/html/983889.htm)
+
++ [DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将“尽快”发布](https://m.ithome.com/html/984116.htm)
+
++ [苹果库克：内存价格暴涨如同百年难遇的洪水，导致 Mac、iPad 等产品无奈涨价](https://m.ithome.com/html/983922.htm)
+
++ [降价 80%！OpenAI 下调 GPT-5.6 Luna AI 模型费用，性价比超 DeepSeek V4 Pro](https://m.ithome.com/html/983912.htm)
+
