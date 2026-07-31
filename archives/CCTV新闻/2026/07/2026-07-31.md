@@ -219,3 +219,7 @@
 
 + [国际观察：警惕日本核野心危害地区与世界和平](https://news.cctv.com/2026/07/31/ARTIW8Yl51zCsYbwz0ieog7w260731.shtml)
 
++ [西班牙警方称休达移民遇难人数已升至57人](https://news.cctv.com/2026/07/31/ARTIFZtTXAMaymAHlTxCSJyH260731.shtml)
+
++ [以色列官员称不接受最新版加沙停火路线图](https://news.cctv.com/2026/07/31/ARTIHTghaSdoMU7pyS2Fs11s260731.shtml)
+

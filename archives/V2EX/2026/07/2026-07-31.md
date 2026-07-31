@@ -57,3 +57,5 @@
 
 + [求一个稳定梯子](https://www.v2ex.com/t/1231169)
 
++ [最新的 deepseek-v4-flash 正式版真的有这么强吗？](https://www.v2ex.com/t/1231255)
+
