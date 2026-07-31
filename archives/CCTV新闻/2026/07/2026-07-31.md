@@ -197,3 +197,13 @@
 
 + [印度马哈拉施特拉邦一建筑倒塌 已致9人死亡](https://news.cctv.com/2026/07/31/ARTIwPhs18evmVfTyUUMHZ9k260731.shtml)
 
++ [“为全球南方国家探索现代化道路提供重要启示”——访津巴布韦执政党津民盟党属智库负责人马达](https://news.cctv.com/2026/07/31/ARTIY2UP2f7H1bmElNjCgNJK260731.shtml)
+
++ [潮玩热背后的中国文化现象](https://news.cctv.com/2026/07/31/ARTIIh6joODJqJ4DpB7993mF260731.shtml)
+
++ [西班牙称24小时内近4.9万名移民进入休达](https://news.cctv.com/2026/07/31/ARTIOhTvRPoypUyXCMn4AqEY260731.shtml)
+
++ [多瑙河水位创新低 匈牙利将关闭唯一核电站](https://news.cctv.com/2026/07/31/ARTIXEaLRZDIEP7iHOkFImYg260731.shtml)
+
++ [哈马斯官员重申加沙停火须分阶段实施且以军须首先撤军](https://news.cctv.com/2026/07/31/ARTITB2p9sKVszjC30JWR4zz260731.shtml)
+

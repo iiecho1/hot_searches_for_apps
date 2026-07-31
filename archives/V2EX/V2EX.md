@@ -51,3 +51,9 @@
 
 + [deepseek v4 pro 性价比太低了，充了 10 块生成一堆废代码，不理解我的需求](https://www.v2ex.com/t/1231187)
 
++ [快进入梁圣阶段了， DeepSeek-V4-Flash 正式版上线！](https://www.v2ex.com/t/1231216)
+
++ [LOL 怀旧服近期悄然上线，而我的青春却不在了。](https://www.v2ex.com/t/1231233)
+
++ [求一个稳定梯子](https://www.v2ex.com/t/1231169)
+

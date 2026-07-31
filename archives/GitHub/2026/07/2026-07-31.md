@@ -29,3 +29,17 @@
 
 + [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
++ [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+
++ [github/copilot-sdk](https://github.com/github/copilot-sdk)
+
++ [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+
++ [usekaneo/kaneo](https://github.com/usekaneo/kaneo)
+
++ [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
+
++ [deepfakes/faceswap](https://github.com/deepfakes/faceswap)
+
++ [1jehuang/jcode](https://github.com/1jehuang/jcode)
+
