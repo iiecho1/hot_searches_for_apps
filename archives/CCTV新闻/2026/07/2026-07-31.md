@@ -207,3 +207,15 @@
 
 + [哈马斯官员重申加沙停火须分阶段实施且以军须首先撤军](https://news.cctv.com/2026/07/31/ARTITB2p9sKVszjC30JWR4zz260731.shtml)
 
++ [冯德莱恩：欧盟将支持西班牙应对非法移民问题](https://news.cctv.com/2026/07/31/ARTIgI5i07zvLtbnp49d593q260731.shtml)
+
++ [土耳其“可汗”战斗机新原型机完成首次滑行测试](https://news.cctv.com/2026/07/31/ARTI6a2R1JcgYvxN4WiIeSc4260731.shtml)
+
++ [欧盟8月2日起执行《人工智能法》相关规定 新增AI透明度要求](https://news.cctv.com/2026/07/31/ARTItFt550LPTCOENGi4IQQA260731.shtml)
+
++ [进入西班牙休达移民增至约6万 遇难人数上升至34人](https://news.cctv.com/2026/07/31/ARTI9bq8zkT0tiTx9yyZjKVp260731.shtml)
+
++ [谁在为日本右翼的政治图谋买单？](https://news.cctv.com/2026/07/31/ARTIGuXnyKZuKmudzE85IcV2260731.shtml)
+
++ [国际观察：警惕日本核野心危害地区与世界和平](https://news.cctv.com/2026/07/31/ARTIW8Yl51zCsYbwz0ieog7w260731.shtml)
+

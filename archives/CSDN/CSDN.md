@@ -187,3 +187,19 @@
 
 + [告别Postman——用VSCode优雅地发起Http请求](https://blog.csdn.net/Hoysion/article/details/163283051)
 
++ [深入解析 Vue 架构：MVVM、MVC 和 MVP 模式的区别与实战对比](https://blog.csdn.net/qq_41840843/article/details/163362623)
+
++ [手机上怎么远程处理PDF？Stirling-PDF部署与公网访问教程](https://blog.csdn.net/lrq13965748542/article/details/163371254)
+
++ [Windows和iPhone怎么互传文件？PairDrop部署与跨网络传输教程](https://blog.csdn.net/2301_76297596/article/details/163371058)
+
++ [智谱 GLM-4.1V-Thinking 视频识别 API 全解析：免费 / 收费双版本落地开发指南](https://blog.csdn.net/beautifulmemory/article/details/163369644)
+
++ [飞牛OS部署Password-XL实战：私有密码库、Docker配置与公网访问](https://blog.csdn.net/AIRoses/article/details/163369619)
+
++ [接口安全三层防护体系 — 从原理到实现](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163342131)
+
++ [DeepSeek V4 Flash 0731 正式版实测：20轮小说、Responses Agent 与四档思考](https://blog.csdn.net/qq_19714843/article/details/163371288)
+
++ [vscode接入本地大模型的正确姿势](https://blog.csdn.net/fireplumewhite/article/details/163324871)
+
