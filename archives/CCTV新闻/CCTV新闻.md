@@ -161,3 +161,13 @@
 
 + [尼日利亚西北部一村庄遇袭造成至少30人死亡](https://news.cctv.com/2026/07/28/ARTIfWZon5PR6MZehnRiYqK6260728.shtml)
 
++ [美官员称特朗普已下令对伊朗发动新一轮袭击](https://news.cctv.com/2026/08/01/ARTIP9QpbVcYUnwlzh7WT1DM260801.shtml)
+
++ [总台记者观察丨欧洲多国林火肆虐 欧盟民防机制承压](https://news.cctv.com/2026/08/01/ARTIjOxGgA97HCVfnyO68rHf260801.shtml)
+
++ [美军一架F-35隐形战机在加州坠毁 飞行员弹射逃生](https://news.cctv.com/2026/08/01/ARTIetRZEShLmrfjQ0s1DAZo260801.shtml)
+
++ [胡塞武装宣布继续封锁沙特船只 已使8艘油轮改道](https://news.cctv.com/2026/08/01/ARTIql40gjEwBecJ2tAgadYW260801.shtml)
+
++ [美中央司令部：已改变30艘商船航行路线](https://news.cctv.com/2026/08/01/ARTIT9irhwEU7n1fQQIrwglm260801.shtml)
+
