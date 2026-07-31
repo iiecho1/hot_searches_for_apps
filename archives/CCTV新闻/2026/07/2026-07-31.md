@@ -171,3 +171,27 @@
 
 + [阿根廷颁新规 禁止煽动攻击阿的外国人入境](https://news.cctv.com/2026/07/31/ARTIQW4ZBHI13UoWY0vvEGGT260731.shtml)
 
++ [美“猎鹰9”火箭第二级残骸预计将撞击月球](https://news.cctv.com/2026/07/31/ARTI4ejPzkUPq4XZ0b1s054G260731.shtml)
+
++ [莱茵河荷兰段水位降至历史最低](https://news.cctv.com/2026/07/31/ARTIjVU9SS0s1QQYHf1Uxbmf260731.shtml)
+
++ [法国野火引爆疑似德军二战遗留弹药库](https://news.cctv.com/2026/07/31/ARTIOPY26D4VgLjTCLn2PR1K260731.shtml)
+
++ [巴基斯坦西南部煤矿爆炸致34名矿工死亡](https://news.cctv.com/2026/07/31/ARTIeP5GVA53b2pREtbR1rIq260731.shtml)
+
++ [希腊野火致8000人撤离 严重地区进入紧急状态](https://news.cctv.com/2026/07/31/ARTIlHmXTsZ8XXQYLY3SaJr0260731.shtml)
+
++ [韩国拟任命特别检察官调查选票短缺事件](https://news.cctv.com/2026/07/31/ARTIvvthmdBLo1i6UVWNcfhD260731.shtml)
+
++ [波兰确认境内坠入一枚俄制导弹](https://news.cctv.com/2026/07/31/ARTIMZgEK3JbqkDFN3Iup3Yl260731.shtml)
+
++ [日本试图强化情报垂直指挥 突破战后和平体制束缚](https://news.cctv.com/2026/07/31/ARTIS3yuGKXYGlvF6dTaa5sX260731.shtml)
+
++ [哈马斯称与以色列的协议已达成](https://news.cctv.com/2026/07/31/ARTIV9uxh7btDBlNRkfTcOw2260731.shtml)
+
++ [联合国机构：今年欧洲野火烧毁超43.4万公顷土地](https://news.cctv.com/2026/07/31/ARTIZv3HahJA7cV0EGKcj4Qy260731.shtml)
+
++ [沙特筹建多国联盟保障海上航行安全](https://news.cctv.com/2026/07/31/ARTItz0LgxOICdMRaxnhBrN0260731.shtml)
+
++ [巴基斯坦俾路支省一煤矿爆炸坍塌致11名矿工死亡](https://news.cctv.com/2026/07/31/ARTIP6L9czGOEou7vuakBnO6260731.shtml)
+

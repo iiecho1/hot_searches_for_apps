@@ -131,3 +131,27 @@
 
 + [三款主流模拟器：4 维度实测，全面解析分享](https://blog.csdn.net/2301_80350265/article/details/163344727)
 
++ [2026年远程维修横评：三款主流工具，远程协助修电脑谁更好用？](https://blog.csdn.net/2302_79177254/article/details/163359046)
+
++ [SpringBoot+Flowable 业务单据流程回调设计：FlowBillService 统一回写状态与生命周期钩子](https://blog.csdn.net/zhouzhongyan/article/details/163352944)
+
++ [一个 API 入口调用多个大模型：AiiOnly客户端 + CC Switch 打通 Codex AI编程流程](https://blog.csdn.net/weixin_51390582/article/details/163345419)
+
++ [【Linux网络】深入理解Linux epoll：从内核原理到实战代码全解析](https://blog.csdn.net/2503_91389547/article/details/162003253)
+
++ [没有工作经验怎么写简历？2026年国产AI在线简历工具超全实战指南，有哪些好用的国产AI在线简历工具？](https://blog.csdn.net/qq_44866828/article/details/163308238)
+
++ [从零到流式输出：llama-cpp-python 本地跑通 Qwen2.5 全记录](https://blog.csdn.net/weixin_43304253/article/details/163353629)
+
++ [5 分钟上手 OpenMontage：把 AI 编程助手变成视频工作室](https://blog.csdn.net/zhangay1998/article/details/162912295)
+
++ [MySQL 事务隔离：从脏读、幻读到 MVCC 与 Next-Key Lock](https://blog.csdn.net/2301_80956187/article/details/163333322)
+
++ [工业级Text2SQL实战：半导体晶圆厂Agent系统](https://blog.csdn.net/bumblebee16/article/details/163344738)
+
++ [【商用车多体动力学实战笔记｜第5篇：悬架K&C特性、多轴平衡悬架建模】](https://blog.csdn.net/weixin_62244995/article/details/162991924)
+
++ [GitHub Code Quality GA 后，100 名开发者真的只要每月 1000 美元吗？](https://blog.csdn.net/w776341482/article/details/163357894)
+
++ [揭秘局域网通信：从MAC到IP的数据之旅](https://blog.csdn.net/keyipatience/article/details/163246782)
+
