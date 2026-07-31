@@ -121,3 +121,13 @@
 
 + [WebGPU 在 Web3 可视化中的技术应用：从 WebGL 到计算 Shader 的架构升级](https://blog.csdn.net/qq_40635035/article/details/163315546)
 
++ [AI助手一条SQL删了450万条数据？把核心DDL发给公有云？信创大模型数据库助手的4大死亡谷与Java AST防火墙实战](https://blog.csdn.net/z_344791576/article/details/162607009)
+
++ [用柚子 AI 搭建 A 股看盘复盘与模拟交易](https://blog.csdn.net/2601_96665556/article/details/163298291)
+
++ [FastAPI 凭什么成为现代 Python API 框架的首选](https://blog.csdn.net/2401_89111612/article/details/163283805)
+
++ [【方案】基于 Vite 与 React Router 的 GitHub Pages 单页应用部署](https://blog.csdn.net/qq_39518871/article/details/163341901)
+
++ [三款主流模拟器：4 维度实测，全面解析分享](https://blog.csdn.net/2301_80350265/article/details/163344727)
+
