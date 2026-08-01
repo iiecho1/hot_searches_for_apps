@@ -101,3 +101,9 @@
 
 + [【方案】基于 Vite 与 React Router 的 GitHub Pages 单页应用部署](https://blog.csdn.net/qq_39518871/article/details/163341901)
 
++ [Jenkins自动部署实战：Vue与Spring Boot构建、Nginx发布及Webhook触发](https://blog.csdn.net/2301_80840905/article/details/163374763)
+
++ [跳槽简历怎么写？夸克AI简历生成实测，指令直接抄作业](https://blog.csdn.net/JHXL_/article/details/163309052)
+
++ [GitHub Code Quality GA 后，100 名开发者真的只要每月 1000 美元吗？](https://blog.csdn.net/w776341482/article/details/163357894)
+
