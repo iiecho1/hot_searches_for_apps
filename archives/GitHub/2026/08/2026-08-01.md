@@ -25,3 +25,23 @@
 
 + [1jehuang/jcode](https://github.com/1jehuang/jcode)
 
++ [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
++ [github/gh-stack](https://github.com/github/gh-stack)
+
++ [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+
++ [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)
+
++ [iv-org/invidious](https://github.com/iv-org/invidious)
+
++ [ansible/ansible](https://github.com/ansible/ansible)
+
++ [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
+
++ [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+
++ [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
+
++ [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+

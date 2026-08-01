@@ -191,3 +191,11 @@
 
 + [联合国秘书长呼吁各方采取行动应对极端高温](https://news.cctv.com/2026/08/01/ARTI0GzG6q5mr1fAgew3sUhX260801.shtml)
 
++ [斯洛文尼亚总统因交通事故受轻伤 已送医观察](https://news.cctv.com/2026/08/01/ARTIXVN3QEtbZmLaV1R9OHAS260801.shtml)
+
++ [法国森林火灾过火面积接近12万公顷 形势严峻](https://news.cctv.com/2026/08/01/ARTIuVdJJJfLQqNlYSDzhjhr260801.shtml)
+
++ [日本政府正式设立“国家情报局” 暴露其加速“再军事化”险恶用心](https://news.cctv.com/2026/08/01/ARTIso5EnsvxF45aU8LhVJIp260801.shtml)
+
++ [中国电动公交车助力阿塞拜疆绿色转型](https://news.cctv.com/2026/08/01/ARTIgaKGWDETn6SUPCr9UoKS260801.shtml)
+
