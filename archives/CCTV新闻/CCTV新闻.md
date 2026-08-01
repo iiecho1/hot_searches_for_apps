@@ -185,3 +185,9 @@
 
 + [美媒：美以计划对伊朗能源设施发动迄今最猛烈轰炸](https://news.cctv.com/2026/08/01/ARTIjBWMNLO843FfGVGeuVIf260801.shtml)
 
++ [西班牙称“偷渡潮”平息 欧盟成员国表达关注和警惕](https://news.cctv.com/2026/08/01/ARTIvT5rg163zmDRnMJqRa6N260801.shtml)
+
++ [美国五角大楼欲动用上百亿美元采购拦截导弹](https://news.cctv.com/2026/08/01/ARTIgHGr6MEHF1LZkhPLX3bW260801.shtml)
+
++ [联合国秘书长呼吁各方采取行动应对极端高温](https://news.cctv.com/2026/08/01/ARTI0GzG6q5mr1fAgew3sUhX260801.shtml)
+

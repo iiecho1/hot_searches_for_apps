@@ -119,3 +119,23 @@
 
 + [蒂塔AI绘画深度解析：基于GPT-Image-2的全场景视觉创作与提示词工程实战](https://blog.csdn.net/bkl_9213/article/details/163338195)
 
++ [【粉丝福利社】OpenClaw深度解析：从架构原理到Agent工程实践](https://blog.csdn.net/aa2528877987/article/details/163345860)
+
++ [AI 辅助研发内部复盘（2/5）：老项目改造的工程化实践](https://blog.csdn.net/beautifulmemory/article/details/163374865)
+
++ [空间传送与无缝漫游：打破场景孤岛，编织无限扩展的3D探索网络研发课题方案](https://blog.csdn.net/2601_95889758/article/details/163375514)
+
++ [通关打怪SpringMVC之传递参数篇3](https://blog.csdn.net/2501_93392325/article/details/163373420)
+
++ [Linux之网络socket编程（UDP协议）](https://blog.csdn.net/bksczm/article/details/163082244)
+
++ [【C#进阶】LINQ Where空值优雅处理，彻底告别冗余If判断（避坑+实战）](https://blog.csdn.net/William_cl/article/details/163375558)
+
++ [AI 公司起名的艺术：OpenAI 看天、Claude 写诗，Kimi 把会员做成一首乐谱](https://blog.csdn.net/m0_73879806/article/details/163376674)
+
++ [TTFT优化：一个方案的5次推倒重来](https://blog.csdn.net/2303_77143335/article/details/163355797)
+
++ [python eureka服务发现_python与consul 实现gRPC服务注册-发现](https://blog.csdn.net/2601_96617978/article/details/163345956)
+
++ [揭秘局域网通信：从MAC到IP的数据之旅](https://blog.csdn.net/keyipatience/article/details/163246782)
+
