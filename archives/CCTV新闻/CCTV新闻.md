@@ -169,3 +169,5 @@
 
 + [美军称已部署一架重型运输直升机至中东地区](https://news.cctv.com/2026/08/02/ARTInj748TaVssTltgPDOA7d260802.shtml)
 
++ [巴基斯坦雪崩致一名中国籍登山者失联](https://news.cctv.com/2026/08/02/ARTICFGW7y4D9W2AvHJvhmjH260802.shtml)
+
