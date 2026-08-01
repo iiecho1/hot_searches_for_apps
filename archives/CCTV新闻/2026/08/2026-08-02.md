@@ -161,3 +161,11 @@
 
 + [藤森庆子宣誓就任秘鲁总统](https://news.cctv.com/2026/07/29/ARTIUPuECj7r0QPfaYoA6DuO260729.shtml)
 
++ [莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击](https://news.cctv.com/2026/08/02/ARTIxHhaLEC5AA8OIWwSnJm2260802.shtml)
+
++ [伊朗外交部：将继续抵抗直至消除敌人威胁](https://news.cctv.com/2026/08/02/ARTIksSy1ZmdHsVYnSm9mvgY260802.shtml)
+
++ [美政府建议中东地区美国公民做好撤离准备](https://news.cctv.com/2026/08/02/ARTIPSzg79lk4orXxocBkkQP260802.shtml)
+
++ [美军称已部署一架重型运输直升机至中东地区](https://news.cctv.com/2026/08/02/ARTInj748TaVssTltgPDOA7d260802.shtml)
+

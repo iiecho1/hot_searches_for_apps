@@ -101,3 +101,19 @@
 
 + [vscode接入本地大模型的正确姿势](https://blog.csdn.net/fireplumewhite/article/details/163324871)
 
++ [yolov26改进 | 主干/Backbone篇 | 利用目标检测移动端网络MobileNetV1替换Backbone（支持v26n、v26s、v26m）](https://blog.csdn.net/java1314777/article/details/163399337)
+
++ [Elasticsearch：搜索教程 - 全文搜索（一）](https://blog.csdn.net/UbuntuTouch/article/details/163367765)
+
++ [OpenCascade 倒角（Chamfer）算法完整逻辑解析](https://blog.csdn.net/weixin_44153630/article/details/163369672)
+
++ [GitHub 2026 年 7 月热榜：累计 Star 总榜与月度飙星榜](https://blog.csdn.net/vibecoding77/article/details/163374541)
+
++ [YOLOv5 口罩目标检测实战（一）：项目整体介绍与数据准备](https://blog.csdn.net/2301_78775214/article/details/163376439)
+
++ [python eureka服务发现_python与consul 实现gRPC服务注册-发现](https://blog.csdn.net/2601_96617978/article/details/163345956)
+
++ [GitHub深度工程评测：AI 系统提示词泄露知识库深度评测：6万星system_prompts_leaks情报资产背后，藏着什么？](https://blog.csdn.net/TunerT_TQ/article/details/163376615)
+
++ [GitHub Code Quality GA 后，100 名开发者真的只要每月 1000 美元吗？](https://blog.csdn.net/w776341482/article/details/163357894)
+
