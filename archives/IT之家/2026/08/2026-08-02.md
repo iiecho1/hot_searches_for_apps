@@ -25,3 +25,13 @@
 
 + [蒲得宇：芯片和内存成本飙升，苹果 iPhone 18 Pro / Max 恐涨价 250~300 美元](https://m.ithome.com/html/984406.htm)
 
++ [2026 年 7 月汽车销量 / 交付汇总：长安启源近 4 万辆，比亚迪 41.9 万辆（持续更新）](https://m.ithome.com/html/984452.htm)
+
++ [阿里巴巴集团主席蔡崇信与妻子吴明华结束近 30 年婚姻](https://m.ithome.com/html/984430.htm)
+
++ [小米 REDMI K100 Pro Max 手机搭载第五代骁龙 8 至尊版芯片，8 月 11 日发布](https://m.ithome.com/html/984445.htm)
+
++ [“赤霞珠红”色小米 REDMI K100 Pro Max 手机实拍上手](https://m.ithome.com/html/984490.htm)
+
++ [首个月销破 10 万的新势力诞生！零跑 7 月全球交付 101267 台，同比增长 102%](https://m.ithome.com/html/984457.htm)
+
