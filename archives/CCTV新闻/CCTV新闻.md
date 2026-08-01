@@ -179,3 +179,9 @@
 
 + [美联储主席考虑减少每年议息会议频次](https://news.cctv.com/2026/08/01/ARTIX1kc1vOwQ90DeM8tJ4Bw260801.shtml)
 
++ [伊朗官员：已制定全面计划应对潜在美以袭击](https://news.cctv.com/2026/08/01/ARTImXNZ4udomm5ouZK2vn5T260801.shtml)
+
++ [也门胡塞武装否认计划在曼德海峡征收通行费](https://news.cctv.com/2026/08/01/ARTIlSkgaoNovzCUk38dtqXW260801.shtml)
+
++ [美媒：美以计划对伊朗能源设施发动迄今最猛烈轰炸](https://news.cctv.com/2026/08/01/ARTIjBWMNLO843FfGVGeuVIf260801.shtml)
+

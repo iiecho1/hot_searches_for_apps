@@ -107,3 +107,15 @@
 
 + [GitHub Code Quality GA 后，100 名开发者真的只要每月 1000 美元吗？](https://blog.csdn.net/w776341482/article/details/163357894)
 
++ [【从零实现C++AI大模型接入SDK（标准项目）】《系列（一）------项目简介+AI知识科普》](https://blog.csdn.net/2501_93351213/article/details/163364363)
+
++ [从蓝耘元生代到扣子编程:我用DeepSeek-V4-Flash搭建Dreambox-AI生图工具箱的实操复盘](https://blog.csdn.net/2401_87629362/article/details/163280984)
+
++ [HarmonyOS 5.0游戏开发实战：基于ArkGraphics 3D的高性能3D渲染引擎构建与优化](https://blog.csdn.net/u014727709/article/details/159080228)
+
++ [2026年全国青少年信息素养大赛算法应用主题赛C++赛项【决赛】模拟卷2：文末附答案](https://blog.csdn.net/weixin_66461496/article/details/163322781)
+
++ [Android 16 设备断电上电WiFi热点配置不记忆问题分析解决](https://blog.csdn.net/wenzhi20102321/article/details/163367969)
+
++ [蒂塔AI绘画深度解析：基于GPT-Image-2的全场景视觉创作与提示词工程实战](https://blog.csdn.net/bkl_9213/article/details/163338195)
+
