@@ -35,3 +35,5 @@
 
 + [首个月销破 10 万的新势力诞生！零跑 7 月全球交付 101267 台，同比增长 102%](https://m.ithome.com/html/984457.htm)
 
++ [DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将“尽快”发布](https://m.ithome.com/html/984116.htm)
+
