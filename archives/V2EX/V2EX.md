@@ -35,3 +35,17 @@
 
 + [racknerd 线路很差](https://www.v2ex.com/t/1231218)
 
++ [在 DeepSeek 官方 Harness 没有出来之前，用什么 Agent 更好？](https://www.v2ex.com/t/1231381)
+
++ [数字永生：意识的连续性与永生可行性方案](https://www.v2ex.com/t/1231318)
+
++ [在 AI 上掉队的大厂有哪些？](https://www.v2ex.com/t/1231352)
+
++ [新买的空调第三天开始漏水，如何投诉处理](https://www.v2ex.com/t/1231380)
+
++ [离谱，这帮狗软件是如何突破 iOS 限制黑科技运行到我 iOS 进程的呀？这不跟安卓一样了吗？甚至还不如安卓？](https://www.v2ex.com/t/1231328)
+
++ [我的发明：悬挂式蚊香架](https://www.v2ex.com/t/1231343)
+
++ [Codex 重置， 2026.08.01 11:30](https://www.v2ex.com/t/1231400)
+
