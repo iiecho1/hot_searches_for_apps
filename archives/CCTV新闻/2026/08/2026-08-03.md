@@ -161,3 +161,9 @@
 
 + [尺素金声丨实施零关税国家达63个，中国的开放追求互利共赢](https://news.cctv.com/2026/07/30/ARTI4oubZtKWPTf0h51sYBnt260730.shtml)
 
++ [巴基斯坦西北部发生爆炸致14人死亡](https://news.cctv.com/2026/08/03/ARTI0mSFnKK0aC3nUJ8LhCZ0260803.shtml)
+
++ [伊朗重申霍尔木兹海峡不会恢复至战前状态](https://news.cctv.com/2026/08/03/ARTIZ9nsDtzS13ore2vBIIZE260803.shtml)
+
++ [巴西劳工党正式确认卢拉为总统候选人](https://news.cctv.com/2026/08/03/ARTI2bwajreZNkbh3HZQIL4p260803.shtml)
+
