@@ -21,3 +21,7 @@
 
 + [Codex 重置， 2026.08.01 11:30](https://www.v2ex.com/t/1231400)
 
++ [有没有从始至终在 AI 上花费 0 元的朋友？](https://www.v2ex.com/t/1231438)
+
++ [你们用 Opus5 开多大的思考强度？](https://www.v2ex.com/t/1231411)
+

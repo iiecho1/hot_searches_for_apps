@@ -171,3 +171,9 @@
 
 + [巴基斯坦雪崩致一名中国籍登山者失联](https://news.cctv.com/2026/08/02/ARTICFGW7y4D9W2AvHJvhmjH260802.shtml)
 
++ [日本熊本县地震已致38人死亡](https://news.cctv.com/2026/08/02/ARTIgdHwqBkNDfTMMQVy8pF4260802.shtml)
+
++ [美国华盛顿州山火蔓延 多地发布最高级别疏散令](https://news.cctv.com/2026/08/02/ARTIENj1UBgKBW0cSjEiZuNG260802.shtml)
+
++ [伊朗外长警告美国不要采取“冒险行动”](https://news.cctv.com/2026/08/02/ARTIYT2RwQti0aXFrWrFwbMl260802.shtml)
+
