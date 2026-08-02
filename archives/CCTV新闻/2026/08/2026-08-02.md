@@ -177,3 +177,19 @@
 
 + [伊朗外长警告美国不要采取“冒险行动”](https://news.cctv.com/2026/08/02/ARTIYT2RwQti0aXFrWrFwbMl260802.shtml)
 
++ [伊朗军方：特朗普称伊朗要求停止攻击是“谎言”](https://news.cctv.com/2026/08/02/ARTI6aLhYXzuJmRZyDbGVrnb260802.shtml)
+
++ [世卫组织：本轮疫情为刚果（金）史上最大埃博拉疫情](https://news.cctv.com/2026/08/02/ARTI1goqEegNqu6Ul9zVacE5260802.shtml)
+
++ [伊朗革命卫队称摧毁3架美军F-35战机](https://news.cctv.com/2026/08/02/ARTI5j0ZTfLXPNiptZdAC8nd260802.shtml)
+
++ [美国爱达荷州快餐店枪击事件枪手已死亡](https://news.cctv.com/2026/08/02/ARTIPjRe6QN3rLlBrCAy7aK5260802.shtml)
+
++ [特朗普称同意取消对伊朗的打击](https://news.cctv.com/2026/08/02/ARTI8axseIKyCYQmv1SEnqim260802.shtml)
+
++ [“中国共产党树立了政党发展的典范”——访肯尼亚联合民主同盟总书记奥马尔](https://news.cctv.com/2026/08/02/ARTIuGpWaNUctGfnEdc5Sqyn260802.shtml)
+
++ [随笔丨错标的地图，错位的认知](https://news.cctv.com/2026/08/02/ARTIoi6ezkqd3OVxiryo4XSy260802.shtml)
+
++ [美中贸易全国委员会会长：美企致力于深耕中国市场](https://news.cctv.com/2026/08/02/ARTIT9r5ZozkfHACNukP2KDW260802.shtml)
+

@@ -25,3 +25,17 @@
 
 + [你们用 Opus5 开多大的思考强度？](https://www.v2ex.com/t/1231411)
 
++ [[脑洞] 既然编程生产力如此高了，为什么不众程序员协作重建 BAT/TMD 让中心化的平台暴利回归用户实现普惠互联？](https://www.v2ex.com/t/1231482)
+
++ [哪里还能办到大流量卡](https://www.v2ex.com/t/1231429)
+
++ [随着知识库的增长， LLM 理论上体积是不是只会越来越大？](https://www.v2ex.com/t/1231474)
+
++ [现在国内是买电车好还是买油车好啊](https://www.v2ex.com/t/1231435)
+
++ [国企三方劳务派遣一周半，接手了一个巨坑项目](https://www.v2ex.com/t/1231475)
+
++ [卸载 vscode IDE 了](https://www.v2ex.com/t/1231485)
+
++ [codex 现在怎么这么慢了，用的 sol 中、高都很慢](https://www.v2ex.com/t/1231499)
+

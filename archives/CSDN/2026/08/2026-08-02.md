@@ -117,3 +117,27 @@
 
 + [GitHub Code Quality GA 后，100 名开发者真的只要每月 1000 美元吗？](https://blog.csdn.net/w776341482/article/details/163357894)
 
++ [AI 辅助研发内部复盘（3/5）：上下文工程与认知解码](https://blog.csdn.net/beautifulmemory/article/details/163375142)
+
++ [【花雕学编程】Arduino BLDC 之园区巡逻跟随机器人（跟随巡逻人员）](https://blog.csdn.net/weixin_41659040/article/details/163397775)
+
++ [群晖NAS也能当开发机?Code-Server部署与远程编程完整教程](https://blog.csdn.net/2401_87629362/article/details/163358188)
+
++ [SpringBoot+PostgreSQL + 硅基流动大模型从零搭建 Text-to-SQL 智能问答系统](https://blog.csdn.net/yelangkingwuzuhu/article/details/163398167)
+
++ [深入理解 FastAPI 的 async/await 并发模型](https://blog.csdn.net/2401_89111612/article/details/163344681)
+
++ [使用企业微信API配置消息回调对接智能体实现AI客服开发](https://blog.csdn.net/WXID_Mrzhu0107/article/details/163376405)
+
++ [Android 16 设备断电上电WiFi热点配置不记忆问题分析解决](https://blog.csdn.net/wenzhi20102321/article/details/163367969)
+
++ [【笔下生辉｜14】HarmonyOS ArkTS 主导航实战：统一页面入口、返回路径和参数校验](https://blog.csdn.net/2401_84996024/article/details/163174862)
+
++ [.NET Framework、.NET Core、.NET 5/.NET 8：一文理清微软 .NET 的进化史](https://blog.csdn.net/2603_94941287/article/details/163396050)
+
++ [DeepSeek总结的上下文理应归属于数据仓库](https://blog.csdn.net/l1t/article/details/163374757)
+
++ [TTFT优化：一个方案的5次推倒重来](https://blog.csdn.net/2303_77143335/article/details/163355797)
+
++ [LangChain 向量检索为什么要用 as_retriever？从 LCEL 到 RunnableParallel 一次讲清](https://blog.csdn.net/2403_87560480/article/details/163389175)
+
