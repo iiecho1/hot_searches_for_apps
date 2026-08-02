@@ -167,3 +167,7 @@
 
 + [巴西劳工党正式确认卢拉为总统候选人](https://news.cctv.com/2026/08/03/ARTI2bwajreZNkbh3HZQIL4p260803.shtml)
 
++ [委内瑞拉与多米尼加决定逐步恢复外交关系](https://news.cctv.com/2026/08/03/ARTIrMtrpcvY5WvlMY76q0hL260803.shtml)
+
++ [特朗普称美伊3日将举行谈判](https://news.cctv.com/2026/08/03/ARTI4bEuAHPPzhH3y9KSnXRd260803.shtml)
+
