@@ -203,3 +203,5 @@
 
 + [西班牙飞地休达移民危机已造成72人死亡](https://news.cctv.com/2026/08/02/ARTIyiFhGLJcFxakOsWpY6Iz260802.shtml)
 
++ [巴西总统卢拉已在高等选举法院登记为总统候选人](https://news.cctv.com/2026/08/02/ARTIfw0HxPppDOL1tBP9BPIR260802.shtml)
+

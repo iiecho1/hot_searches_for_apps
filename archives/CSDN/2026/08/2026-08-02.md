@@ -183,3 +183,19 @@
 
 + [Flutter-MacOS桌面OS系统|flutter.+window_manager客户端OS模板](https://blog.csdn.net/Jbe2HA5iw/article/details/163370314)
 
++ [React、React-dom和Babel的作用分别是什么：揭秘前端工程化的三大基石](https://blog.csdn.net/qq_41840843/article/details/163400288)
+
++ [【知识讲解】 究查错误的源头--C++异常机制讲解](https://blog.csdn.net/2501_93971468/article/details/163417026)
+
++ [AI Agent 工程实践（一）：大模型 API 接入示范](https://blog.csdn.net/qq_73252299/article/details/163375019)
+
++ [【Vue3速成】05-vue3官方库路由机制之路由守卫](https://blog.csdn.net/2301_81982617/article/details/163219901)
+
++ [Virtual Thread 优化 Spring AI 阻塞式 LLM I/O：对照压测报告](https://blog.csdn.net/fancyfor/article/details/163398923)
+
++ [Spring AI集成DeepSeek大模型](https://blog.csdn.net/haiyan_qi/article/details/163398543)
+
++ [DeepSeek V4 Flash 0731 开源，登顶开源模型前三](https://blog.csdn.net/2501_92547326/article/details/163399524)
+
++ [GPT-6 Swarm 架构深度解析：从单体模型到 Agent 集群协同的范式跃迁](https://blog.csdn.net/Row_row6/article/details/163399430)
+
