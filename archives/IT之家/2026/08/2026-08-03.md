@@ -25,3 +25,15 @@
 
 + [中国最高薪本科专业易主：计算机类整体下滑，“微电子科学与工程”首夺第一](https://m.ithome.com/html/984633.htm)
 
++ [不开空调室温 25℃：江苏徐州一小区试点集中供冷，每平米 4 元](https://m.ithome.com/html/984532.htm)
+
++ [“赤霞珠红”色小米 REDMI K100 Pro Max 手机实拍上手](https://m.ithome.com/html/984490.htm)
+
++ [REDMI K100 Pro Max 官宣小米首款 185Hz 电竞屏，旗舰触控芯片](https://m.ithome.com/html/984574.htm)
+
++ [导演郭帆：《流浪地球 3》剧本打磨了两年半还在改，再不抓紧就成纪录片了](https://m.ithome.com/html/984513.htm)
+
++ [比亚迪 7 月销售 41.9 万辆汽车，海外销量近 18 万辆再创历史新高](https://m.ithome.com/html/984575.htm)
+
++ [小米澎湃 OS 3 近期更新汇总：超级岛适配“麦当劳”取餐码等](https://m.ithome.com/html/984559.htm)
+
