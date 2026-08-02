@@ -157,3 +157,29 @@
 
 + [Stage three:VUE工程化与实战工具](https://blog.csdn.net/2302_79172058/article/details/163353856)
 
++ [【AI智能体】Claude Code +Superpowers 项目实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/162770920)
+
++ [OpenClaw Prompt 工程：从角色设定到 Skill 封装的 Agent 输出质量方法论](https://blog.csdn.net/sinat_41617212/article/details/163399564)
+
++ [Re：Linux系统篇（四十九）线程篇 · 二：为什么现代操作系统选择分页式存储？分页如何解决物理内存碎片？分页结构如何演化到页表、页目录、MMU？](https://blog.csdn.net/Z2314246476/article/details/163282016)
+
++ [【金仓数据库征文】时序数据库场景下的表结构设计——监控指标高并发写入与查询优化实践](https://blog.csdn.net/u014727709/article/details/163411377)
+
++ [基于FPGA的MSK调制系统开发](https://blog.csdn.net/ccsss22/article/details/163416586)
+
++ [【VLM-RL】TAPO优化强化学习中的奖励分配问题](https://blog.csdn.net/qq_35812205/article/details/163400238)
+
++ [【论文阅读】Agent 记忆机制（26）：Infini Memory——将长期记忆维护成可读写的主题文档](https://blog.csdn.net/weixin_45642847/article/details/163399594)
+
++ [RabbitMQ：声明式Spring AMQP](https://blog.csdn.net/2403_87729201/article/details/163385076)
+
++ [【Redis】 缓存实战：穿透、击穿、雪崩与典型应用](https://blog.csdn.net/2402_88139312/article/details/163399767)
+
++ [【计算机网络 | 概述3：数据在网络中的形态：报文、数据段、数据报、帧与比特流】](https://blog.csdn.net/DdigitalNomad/article/details/163372930)
+
++ [Docker 部署 EMQX：轻松搭建物联网 MQTT 消息平台](https://blog.csdn.net/java_logo/article/details/163356087)
+
++ [Nginx外置缓存-nginx + memcached](https://blog.csdn.net/m0_61787196/article/details/163416600)
+
++ [Flutter-MacOS桌面OS系统|flutter.+window_manager客户端OS模板](https://blog.csdn.net/Jbe2HA5iw/article/details/163370314)
+

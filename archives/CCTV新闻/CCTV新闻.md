@@ -201,3 +201,5 @@
 
 + [亚美尼亚总统接受帕什尼扬政府辞职](https://news.cctv.com/2026/08/02/ARTIN6fM8yHUlEFJpmUkmJpF260802.shtml)
 
++ [西班牙飞地休达移民危机已造成72人死亡](https://news.cctv.com/2026/08/02/ARTIyiFhGLJcFxakOsWpY6Iz260802.shtml)
+

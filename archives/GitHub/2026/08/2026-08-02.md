@@ -31,3 +31,19 @@
 
 + [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 
++ [lyogavin/airllm](https://github.com/lyogavin/airllm)
+
++ [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
++ [different-ai/openwork](https://github.com/different-ai/openwork)
+
++ [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
++ [HarbourMasters/Lighthouse](https://github.com/HarbourMasters/Lighthouse)
+
++ [antirez/ds4](https://github.com/antirez/ds4)
+
++ [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+
