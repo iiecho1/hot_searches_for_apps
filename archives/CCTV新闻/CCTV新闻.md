@@ -193,3 +193,5 @@
 
 + [美中贸易全国委员会会长：美企致力于深耕中国市场](https://news.cctv.com/2026/08/02/ARTIT9r5ZozkfHACNukP2KDW260802.shtml)
 
++ [美国爱达荷州快餐店枪击事件已致3死7伤](https://news.cctv.com/2026/08/02/ARTIDSp9NdUBEIlzNfv40UFm260802.shtml)
+

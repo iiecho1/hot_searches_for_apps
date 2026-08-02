@@ -141,3 +141,19 @@
 
 + [LangChain 向量检索为什么要用 as_retriever？从 LCEL 到 RunnableParallel 一次讲清](https://blog.csdn.net/2403_87560480/article/details/163389175)
 
++ [处理2026年全国大学只能汽车竞赛分赛区比赛数据](https://blog.csdn.net/zhuoqingjoking97298/article/details/163407428)
+
++ [go-zero v1.10.3发布：字符串安全、Redis 稳定性、队列性能与依赖升级全盘点](https://blog.csdn.net/weixin_48502062/article/details/163395029)
+
++ [Transformer 架构的演化：从大语言模型（LLM）到通用语义模型（Universal Semantic Model）](https://blog.csdn.net/weixin_50913834/article/details/163339283)
+
++ [MySQL 库表的基本操作及CRUD](https://blog.csdn.net/lckzzz777/article/details/163344984)
+
++ [85-Prompt是一门工程-结构化分层-System-vs-User-Prompt](https://blog.csdn.net/weixin_44081096/article/details/163399387)
+
++ [YOLOv11室内吸烟行为目标检测数据集](https://blog.csdn.net/guo_xiao_xiao_/article/details/162707350)
+
++ [Loop 没死：为什么 Agent 工程正在从循环走向图](https://blog.csdn.net/2301_80956187/article/details/163333892)
+
++ [Stage three:VUE工程化与实战工具](https://blog.csdn.net/2302_79172058/article/details/163353856)
+

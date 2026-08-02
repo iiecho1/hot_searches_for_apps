@@ -39,3 +39,13 @@
 
 + [codex 现在怎么这么慢了，用的 sol 中、高都很慢](https://www.v2ex.com/t/1231499)
 
++ [请教：除了 api 直连，有没有更便宜也保质量的办法可以用 deepseek-v4-flash？](https://www.v2ex.com/t/1231509)
+
++ [似乎开源项目作者不知道/不想利用 AI 来加速自己的开发？](https://www.v2ex.com/t/1231528)
+
++ [资本喜欢利用女性收割男性，部分低质女性蠢不自知](https://www.v2ex.com/t/1231502)
+
++ [AI 生成文案最恶心的四个字](https://www.v2ex.com/t/1231506)
+
++ [知乎里一眼望去都是 gpt 生成的文章，为什么每个文章下面都是一片祥和](https://www.v2ex.com/t/1231526)
+
