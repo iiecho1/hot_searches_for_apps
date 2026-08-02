@@ -101,3 +101,9 @@
 
 + [从实时视频到实时感知：SmartMediaKit × YOLO26 构建跨平台视觉智能系统](https://blog.csdn.net/renhui1112/article/details/163399577)
 
++ [公共部门中的生成式 AI 和语义搜索](https://blog.csdn.net/UbuntuTouch/article/details/163408272)
+
++ [React + TypeScript 实战：从 Color Picker 看前端数据模型与目录架构设计](https://blog.csdn.net/suger__salt/article/details/163397326)
+
++ [GitHub 2026 年 7 月热榜：累计 Star 总榜与月度飙星榜](https://blog.csdn.net/vibecoding77/article/details/163374541)
+
