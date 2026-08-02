@@ -195,3 +195,9 @@
 
 + [美国爱达荷州快餐店枪击事件已致3死7伤](https://news.cctv.com/2026/08/02/ARTIDSp9NdUBEIlzNfv40UFm260802.shtml)
 
++ [印尼附近海域一渡轮起火 已致至少5人死亡41人失踪](https://news.cctv.com/2026/08/02/ARTIzDCwQSLsg97anvAJS5rC260802.shtml)
+
++ [伊拉克东部一巴士与小汽车相撞 已致10人死亡](https://news.cctv.com/2026/08/02/ARTI4zpRZQ4E8kSaSCY7ADsV260802.shtml)
+
++ [亚美尼亚总统接受帕什尼扬政府辞职](https://news.cctv.com/2026/08/02/ARTIN6fM8yHUlEFJpmUkmJpF260802.shtml)
+
