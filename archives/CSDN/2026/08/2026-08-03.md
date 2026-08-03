@@ -163,3 +163,31 @@
 
 + [SSM框架-Spring4](https://blog.csdn.net/m0_53499553/article/details/163420884)
 
++ [私密日记不想放在云端？极空间部署DailyTxT完整教程](https://blog.csdn.net/Rqaqedamancy/article/details/163449761)
+
++ [PyTorch模型训练:权重、偏置和参数初始化会怎样影响训练](https://blog.csdn.net/weixin_61731209/article/details/163444871)
+
++ [代码漏洞还在逐行排查?用DeepAudit做一轮AI辅助审计](https://blog.csdn.net/2401_87629362/article/details/163442974)
+
++ [【数据结构与算法】树的再相识——堆](https://blog.csdn.net/2601_95685024/article/details/163280032)
+
++ [查库存的 SQL 时灵时不灵，最后发现是 WHERE 里两个函数在打架](https://blog.csdn.net/Mrxiao_bo/article/details/163446440)
+
++ [AI 辅助研发内部复盘（5/5）：验证体系、产品协作与行动项（含硬核实战案例）](https://blog.csdn.net/beautifulmemory/article/details/163421930)
+
++ [独立产品冷启动路径：GitHub 开源与 Hacker News 获客实战](https://blog.csdn.net/weixin_63764436/article/details/163448557)
+
++ [高并发内存池：Part-4——项目优化、调试性能分析、项目复盘](https://blog.csdn.net/oooooooooooohd/article/details/163374978)
+
++ [【Linux网络】深入理解传输层 UDP 协议：从原理、源码分析到实战应用](https://blog.csdn.net/yhrxh_ymq/article/details/163428692)
+
++ [手写进程池：基于匿名管道的 Master-Slave 架构实战](https://blog.csdn.net/2402_90030627/article/details/163420423)
+
++ [qData 专业版异构数据源能力升级：支持 SAP HANA、StarRocks、ODPS 全链路接入](https://blog.csdn.net/qiantongkeji/article/details/163337824)
+
++ [TDSQL MySQL 版 DBA 实用 100 条命令](https://blog.csdn.net/m0_50546016/article/details/163419787)
+
++ [【金仓数据库征文】高频时序写入的批量入库实践——IoT 采集场景下的吞吐优化与多模型查询实战](https://blog.csdn.net/u014727709/article/details/163448120)
+
++ [用 C++ 从零写一个能训练的 GPT：标量自动微分 + Arena 内存池](https://blog.csdn.net/chen1415886044/article/details/163421407)
+
