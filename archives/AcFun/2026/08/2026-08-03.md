@@ -69,3 +69,9 @@
 
 + [吾辈楷模](https://m.acfun.cn/v/?ac=48744598)
 
++ [【4K MMD】热辣学姐雨中漫舞 Sour式Luka「Never Ever」](https://m.acfun.cn/v/?ac=48744846)
+
++ [《动物迷惑行为大赏318》](https://m.acfun.cn/v/?ac=48743800)
+
++ [克苏鲁怪谈丨1906年，中国深山挖出外星异种，引发丧尸灾难，火车版「怪形」《恐怖列车》](https://m.acfun.cn/v/?ac=48743500)
+

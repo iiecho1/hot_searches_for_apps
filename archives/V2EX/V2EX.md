@@ -21,3 +21,11 @@
 
 + [Clash 的规则集现在都怎么选？ rule-provider 感觉不够用了？](https://www.v2ex.com/t/1231545)
 
++ [单休真的不是人干的活](https://www.v2ex.com/t/1231595)
+
++ [关于我去香港买 Macbook Pro 后续](https://www.v2ex.com/t/1231575)
+
++ [“万 1 免 5”股票基金大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.3 日~8.10 日]](https://www.v2ex.com/t/1231596)
+
++ [云 llm 越卷越便宜， mac 统一内存本地部署 32b 已经没意义了](https://www.v2ex.com/t/1231540)
+
