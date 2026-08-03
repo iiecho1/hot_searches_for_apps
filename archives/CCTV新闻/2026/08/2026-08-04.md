@@ -161,3 +161,13 @@
 
 + [联合国机构：今年欧洲野火烧毁超43.4万公顷土地](https://news.cctv.com/2026/07/31/ARTIZv3HahJA7cV0EGKcj4Qy260731.shtml)
 
++ [韩媒：金融动荡冲击李在明民意支持率](https://news.cctv.com/2026/08/04/ARTIZahVciuJix0buuWguQOW260804.shtml)
+
++ [古巴国家电网瘫痪](https://news.cctv.com/2026/08/04/ARTIaLc9Oaa9qfLza9lZmoOp260804.shtml)
+
++ [美军称继续海上封锁伊朗 已改变44艘商船航行路线](https://news.cctv.com/2026/08/04/ARTIATEqPk861kkm00j5CBel260804.shtml)
+
++ [伊朗高级官员：不允许美在霍尔木兹海峡开辟非伊朗航线](https://news.cctv.com/2026/08/04/ARTIWvjVFhqiRLR8nztRolsP260804.shtml)
+
++ [马达加斯加一市场发生火灾 3500人受灾](https://news.cctv.com/2026/08/04/ARTI1NjboPBke2tRlu6l8q8q260804.shtml)
+
