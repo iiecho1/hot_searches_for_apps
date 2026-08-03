@@ -31,3 +31,15 @@
 
 + [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
++ [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
++ [livekit/agents](https://github.com/livekit/agents)
+
++ [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+

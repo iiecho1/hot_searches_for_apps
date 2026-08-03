@@ -37,3 +37,27 @@
 
 + [小米澎湃 OS 3 近期更新汇总：超级岛适配“麦当劳”取餐码等](https://m.ithome.com/html/984559.htm)
 
++ [深圳宝安将电动自行车违法纳入征信：一年内“被罚款五次以上”或“三次以上交通违法未处理”将被录入系统](https://m.ithome.com/html/984779.htm)
+
++ [规划总投资 35 亿的哪吒汽车工厂，6030.79 万元甩卖生产机械设备因无人出价最终流拍](https://m.ithome.com/html/984811.htm)
+
++ [消息称 Top 5 手机厂商明年全部跟进 1:1 前置摄像头，实现更好的数码变焦效果](https://m.ithome.com/html/984820.htm)
+
++ [米哈游回应创作者被拖欠酬劳：已终止与云南昊曦的合作并拉黑，支持依法维权](https://m.ithome.com/html/984796.htm)
+
++ [王朝旗舰 9 系轿车：比亚迪大汉 8 月 21 日成都车展正式亮相](https://m.ithome.com/html/984776.htm)
+
++ [小米汽车：澎程的长滑轨在损耗特性、养护逻辑上和常规滑轨没有区别，不会带来额外的使用负担](https://m.ithome.com/html/984821.htm)
+
++ [华为半导体首席科学家廖恒罕见受访：首提芯片“18 层宝塔”理论，大赞 DeepSeek 梁文锋](https://m.ithome.com/html/984876.htm)
+
++ [比亚迪方程豹新车预告：钛 9 不会等太久](https://m.ithome.com/html/984808.htm)
+
++ [华为余承东预告享界 G9 搭载车身一体化电动顶帐，8 月 5 日开启预订](https://m.ithome.com/html/984860.htm)
+
++ [猛士汽车官宣娜扎成为全新猛士 M817 代言人](https://m.ithome.com/html/984797.htm)
+
++ [网友反馈其苹果 M5 Max MacBook Pro 高负载运行过热导致按键变形卡入机身内部](https://m.ithome.com/html/984826.htm)
+
++ [小米 REDMI K100 Pro 系列手机首发 M11 发光材料，更清晰、功耗更低](https://m.ithome.com/html/984881.htm)
+
