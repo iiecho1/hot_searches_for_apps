@@ -183,3 +183,9 @@
 
 + [韩国涉毒犯罪增加 上半年抓获逾5000人](https://news.cctv.com/2026/08/03/ARTIzKqFNK5l2XEkw6GrGtvM260803.shtml)
 
++ [伊朗外交部：近日无接待或派遣代表团的计划](https://news.cctv.com/2026/08/03/ARTIsR4mOGG5mYGh3Lo3N4Y2260803.shtml)
+
++ [伊朗外交部发言人：目前没有与美国会谈](https://news.cctv.com/2026/08/03/ARTIpHb4c8kNnG4AizyG7DmQ260803.shtml)
+
++ [意军方称在地中海拦截一艘俄“影子舰队”油轮](https://news.cctv.com/2026/08/03/ARTIBxVEkJQyb6RHaOdJ3kik260803.shtml)
+

@@ -147,3 +147,19 @@
 
 + [工业 IoT 存储引擎选型：多模引擎在数据模型与存储设计上的取舍](https://blog.csdn.net/Rqaqedamancy/article/details/163422335)
 
++ [React 的createClass 是怎么实现的?：深入解析 React 早期组件工厂的底层原理](https://blog.csdn.net/qq_41840843/article/details/163437536)
+
++ [精细化落地教程：TimechoAI调参标准+数据清洗规范+误差归因+阈值适配全维度指南](https://blog.csdn.net/weixin_43151418/article/details/163374309)
+
++ [《Linux系统编程》Linux 系统多线程（八）： C++ 高并发线程池全链路深度解析与从零手撕实现](https://blog.csdn.net/2501_91275995/article/details/163367491)
+
++ [从 Dockerfile 到容器：部署一个 SpringBoot 应用](https://blog.csdn.net/weixin_68431870/article/details/163417677)
+
++ [LangChain 向量检索为什么要用 as_retriever？从 LCEL 到 RunnableParallel 一次讲清](https://blog.csdn.net/2403_87560480/article/details/163389175)
+
++ [极空间也能搭建在线白板？Excalidraw部署与远程访问教程](https://blog.csdn.net/Mrxiao_bo/article/details/163372623)
+
++ [MySQL数据库原理与实践(五):内置函数](https://blog.csdn.net/2502_93841997/article/details/163419124)
+
++ [SSM框架-Spring4](https://blog.csdn.net/m0_53499553/article/details/163420884)
+
