@@ -117,3 +117,33 @@
 
 + [【免费】基于Spark实时交通流量分析与拥堵预测系统(Java版本+可视化大屏+Kafka+SpringBoot+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163415239)
 
++ [8月份AI套餐怎么选，GLM、Kimi、Minimax、火山等整理汇总](https://blog.csdn.net/zhangay1998/article/details/163389680)
+
++ [PyTorch强化学习实战（21）——异步优势演员-评论家（Asynchronous Advantage Actor-Critic, A3C）](https://blog.csdn.net/LOVEmy134611/article/details/159766138)
+
++ [Horse3D 游戏引擎研发笔记（四）：光照与 Shader 预编译——从 material 到 GPU UBO](https://blog.csdn.net/2503_92624912/article/details/163390790)
+
++ [虚拟列表与大数据渲染——从万级数据OOM到60fps丝滑体验](https://blog.csdn.net/u014727709/article/details/163418993)
+
++ [【MYSQL】MYSQL学习的一大重点：事务（上）- 原子性与持久性](https://blog.csdn.net/2401_89899187/article/details/163377285)
+
++ [【C#进阶】LINQ Where空值优雅处理，彻底告别冗余If判断（避坑+实战）](https://blog.csdn.net/William_cl/article/details/163375558)
+
++ [Android 16 设备断电上电WiFi热点配置不记忆问题分析解决](https://blog.csdn.net/wenzhi20102321/article/details/163367969)
+
++ [【MATLAB】嵌入式ADC采样精度校准](https://blog.csdn.net/unbelievevc/article/details/163430356)
+
++ [Codex Browser 与 Computer Use：真实环境验收闭环](https://blog.csdn.net/weixin_74809706/article/details/162941716)
+
++ [深入理解 Nginx：架构原理、配置逻辑与生产实战](https://blog.csdn.net/weixin_42489549/article/details/163417545)
+
++ [HAProxy 知识整理：从负载均衡原理到实战配置](https://blog.csdn.net/2201_75701431/article/details/163394045)
+
++ [html/template 完全指南：怎么用、为什么用、用完效果 + New/ParseFiles/Must/Execute](https://blog.csdn.net/lihaoweiwudi_/article/details/163394036)
+
++ [Redis ZSet 完全指南：从应用场景到核心原理](https://blog.csdn.net/llwszx/article/details/148819385)
+
++ [SpringBoot静态资源映射](https://blog.csdn.net/LSL666_/article/details/163417033)
+
++ [工业 IoT 存储引擎选型：多模引擎在数据模型与存储设计上的取舍](https://blog.csdn.net/Rqaqedamancy/article/details/163422335)
+

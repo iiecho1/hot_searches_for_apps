@@ -171,3 +171,15 @@
 
 + [特朗普称美伊3日将举行谈判](https://news.cctv.com/2026/08/03/ARTI4bEuAHPPzhH3y9KSnXRd260803.shtml)
 
++ [埃及开罗省发生5.5级地震 暂无人员伤亡报告](https://news.cctv.com/2026/08/03/ARTIx3id0uLcz04iv05Qz8lC260803.shtml)
+
++ [澳大利亚悉尼一栋建筑倒塌致7人受伤](https://news.cctv.com/2026/08/03/ARTIaLkdcKUinhhxHTTRG71R260803.shtml)
+
++ [借鉴中国经验，印尼乡村换新颜（共创繁荣发展新时代）](https://news.cctv.com/2026/08/03/ARTInEdVrx06SedJz0SiTOEV260803.shtml)
+
++ [“中国共产党始终植根人民、与时俱进”——访西班牙共产党主席森特利亚](https://news.cctv.com/2026/08/03/ARTIXBNwRHAkzDmnXSuaThvT260803.shtml)
+
++ [“这条路改变了我们很多人的生活”](https://news.cctv.com/2026/08/03/ARTIzH1p6R4nI02tvzfCJjnV260803.shtml)
+
++ [韩国涉毒犯罪增加 上半年抓获逾5000人](https://news.cctv.com/2026/08/03/ARTIzKqFNK5l2XEkw6GrGtvM260803.shtml)
+

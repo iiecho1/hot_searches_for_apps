@@ -29,3 +29,15 @@
 
 + [云 llm 越卷越便宜， mac 统一内存本地部署 32b 已经没意义了](https://www.v2ex.com/t/1231540)
 
++ [已婚人士给点建议吧，我真的很纠结。](https://www.v2ex.com/t/1231626)
+
++ [独家渠道，超稳 GPT 中转开业！快来免费领 21 刀 开业大礼包！](https://www.v2ex.com/t/1231634)
+
++ [[Bool 中转站] 满血原生 ChatGPT 0.2x 本贴留言抽奖 66 刀余额 且留言就送 5 刀 新人加群再送 5 刀 不掺水不降智随意测试](https://www.v2ex.com/t/1231619)
+
++ [终于把 iPhone Air 出掉，一身轻松](https://www.v2ex.com/t/1231604)
+
++ [个人空投](https://www.v2ex.com/t/1231627)
+
++ [购买大件电器有感](https://www.v2ex.com/t/1231612)
+
