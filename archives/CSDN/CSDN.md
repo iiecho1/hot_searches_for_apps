@@ -103,3 +103,5 @@
 
 + [SSM框架-Spring3](https://blog.csdn.net/m0_53499553/article/details/161324934)
 
++ [# 商用车多体动力学实战笔记｜第7篇：制动系统与制动热衰退、ABS滞环控制](https://blog.csdn.net/weixin_62244995/article/details/162992497)
+
