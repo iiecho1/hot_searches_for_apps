@@ -165,3 +165,13 @@
 
 + [也门政府军说救起红海遇袭沉没货船上14名船员](https://news.cctv.com/2026/08/05/ARTIu0y8odUVy7VARWP6Mskm260805.shtml)
 
++ [美国撤销巴西驻美大使签证](https://news.cctv.com/2026/08/05/ARTIhRU8TZGtX7uLRnaRIuWj260805.shtml)
+
++ [美国民警卫队在华盛顿特区部署延至2029年1月](https://news.cctv.com/2026/08/05/ARTIvaZRsLX3Sq3OSyaTknjd260805.shtml)
+
++ [新闻分析｜AI对网络安全的“双刃剑”效应日益凸显](https://news.cctv.com/2026/08/05/ARTIFFa9viO3MLYyKPvNLeSE260805.shtml)
+
++ [以总理称哈马斯彻底解除武装前不会从加沙撤军](https://news.cctv.com/2026/08/05/ARTIx64k8HU2BXZj02Hvu1qO260805.shtml)
+
++ [美方称已迫使45艘商船改变航线](https://news.cctv.com/2026/08/05/ARTIdKQoTGO4syTOZ1jsVk7i260805.shtml)
+
