@@ -33,3 +33,23 @@
 
 + [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
 
++ [uber/ADR](https://github.com/uber/ADR)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
++ [webpack/webpack](https://github.com/webpack/webpack)
+
++ [gabime/spdlog](https://github.com/gabime/spdlog)
+
++ [denoland/deno](https://github.com/denoland/deno)
+
++ [angular/angular](https://github.com/angular/angular)
+
++ [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
++ [browser-use/video-use](https://github.com/browser-use/video-use)
+
++ [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+

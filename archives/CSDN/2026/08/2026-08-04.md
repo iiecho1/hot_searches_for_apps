@@ -153,3 +153,23 @@
 
 + [MyBatis 底层的 JDBC：从 PreparedStatement 看 SQL 注入防护](https://blog.csdn.net/2403_87560480/article/details/163452277)
 
++ [redis_exporter + Prometheus监控Redis: 指标采集、告警与远程抓取](https://blog.csdn.net/2401_87848736/article/details/163469065)
+
++ [AI聊天也能拥有Live2D形象？Open-LLM-VTuber部署实战](https://blog.csdn.net/EterNity_TiMe_/article/details/163470652)
+
++ [SSD品牌与颗粒识别：如何判断你的固态硬盘用了谁的闪存芯片？](https://blog.csdn.net/guoweifeng216/article/details/163461459)
+
++ [自指-认知几何架构（世毫九SH9体系）可行性等级深度研究报告](https://blog.csdn.net/weixin_50059478/article/details/163451374)
+
++ [OpenClaw 多模型调度实战：智能路由策略与成本优化](https://blog.csdn.net/sinat_41617212/article/details/163421738)
+
++ [[具身智能-182]：ROS2 Rviz2 深度详解：具身智能与分布式机器人的可视化调试中枢](https://blog.csdn.net/HiWangWenBing/article/details/163421955)
+
++ [【杭州】深夜客户咨询无人应答损失订单？云客服系统的机器人值守方案立功了](https://blog.csdn.net/weixin_47312655/article/details/163468910)
+
++ [Java：DDD 微服务分层 + API 契约 + Provider 供给分层/API+Provider双模块架构全景深度解析/rpc接口web接口](https://blog.csdn.net/snowball_li/article/details/163431019)
+
++ [Python数据分析（十二）：Matplotlib 数据可视化](https://blog.csdn.net/cui_ruicheng/article/details/163441816)
+
++ [机器人数据采集技术栈全景](https://blog.csdn.net/2508_90533928/article/details/163450250)
+

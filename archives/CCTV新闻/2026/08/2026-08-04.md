@@ -211,3 +211,17 @@
 
 + [俄太平洋舰队启动大规模演习 约60艘舰船参演](https://news.cctv.com/2026/08/04/ARTIuZbgGusidHhUXoOEs46C260804.shtml)
 
++ [伊朗总统否认辞职传闻](https://news.cctv.com/2026/08/04/ARTImVSIRJ1gvhPO0fG3aOGA260804.shtml)
+
++ [日元对美元汇率小幅下跌](https://news.cctv.com/2026/08/04/ARTIFHbNrgKbh7okCZthmxsV260804.shtml)
+
++ [世卫组织：刚果（金）埃博拉疫情蔓延速度已超应对能力](https://news.cctv.com/2026/08/04/ARTIskh21rgKrIzEr1nyRrL4260804.shtml)
+
++ [韩国通过法案全面取消检察机关侦查权](https://news.cctv.com/2026/08/04/ARTIdxiRRTfXWNe4c0F4z20z260804.shtml)
+
++ [韩国遭遇持续高温干旱 首尔发布最高级别高温警报](https://news.cctv.com/2026/08/04/ARTIlxU9fkGywcuwslRPQ331260804.shtml)
+
++ [卡塔尔、埃及和土耳其谴责以色列持续违反停火协议](https://news.cctv.com/2026/08/04/ARTIRrJEVCrddaRAhrdUi49E260804.shtml)
+
++ [北美观察丨美伊谈判陷“罗生门” 美军征集“非常规办法”](https://news.cctv.com/2026/08/04/ARTIm5IBrk7iwDpy2TkykdgN260804.shtml)
+
