@@ -139,3 +139,17 @@
 
 + [社会工程学钓鱼攻击全链路拆解：一封“税务系统升级通知“如何吃掉财务的电脑](https://blog.csdn.net/qq_46987323/article/details/163449528)
 
++ [【Linux网络】深入 HTTP 协议（五）:从 Cookie/Session 原理到 C++ 源码实战](https://blog.csdn.net/yhrxh_ymq/article/details/163411345)
+
++ [Re：Linux系统篇（五十）线程篇 · 三：Linux 线程概念剩余部分：优点、缺点、异常与进程资源共享](https://blog.csdn.net/Z2314246476/article/details/163397939)
+
++ [多台服务器还在反复输SSH？用EasyNode集中管理连接](https://blog.csdn.net/weixin_44976692/article/details/163468933)
+
++ [ZooKeeper 3.7.1三节点集群部署：myid、选举与同步测试](https://blog.csdn.net/COLLINSXU/article/details/163472165)
+
++ [【花雕动手做】行空板 K10 系列实验之离线语音识别控制WS2812B小车移动平板灯](https://blog.csdn.net/weixin_41659040/article/details/163372650)
+
++ [APP主包越来越大，功能越来越冗余？如何借助小程序容器完成解耦优化，提高运行效率？](https://blog.csdn.net/FinClaw/article/details/163448684)
+
++ [MyBatis 底层的 JDBC：从 PreparedStatement 看 SQL 注入防护](https://blog.csdn.net/2403_87560480/article/details/163452277)
+

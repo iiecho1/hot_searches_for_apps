@@ -191,3 +191,23 @@
 
 + [因凡蒂诺面临职业生涯最大危机 求助美方接连遇冷](https://news.cctv.com/2026/08/04/ARTImRTstk3VZv7xt9lj7a6t260804.shtml)
 
++ [报告称中国商业创新正在重塑全球零售格局](https://news.cctv.com/2026/08/04/ARTIYu1elgnG7ETxT52W6ni9260804.shtml)
+
++ [从“搬出去”到“搬回来”，跨国企业产业链回流中国](https://news.cctv.com/2026/08/04/ARTImeViR9knp2YOANwerRVT260804.shtml)
+
++ [打打停停，美伊以各怀什么心思？](https://news.cctv.com/2026/08/04/ARTIcgluyJ2JxZDWamrHMCcS260804.shtml)
+
++ [韩国赴华游客数量持续增长](https://news.cctv.com/2026/08/04/ARTIqFZ3k9HhigER9eXDelU4260804.shtml)
+
++ [携手开辟土中关系更加美好的未来](https://news.cctv.com/2026/08/04/ARTI9U35U2WHUk0wYFGj1kG5260804.shtml)
+
++ [“了解更多吉中合作的美好故事”（中国—吉尔吉斯斯坦媒体高质量共建“一带一路”联合采访）](https://news.cctv.com/2026/08/04/ARTI1XPApoOrPb7276UIyR8D260804.shtml)
+
++ [“勇担历史使命，始终掌握战略主动”](https://news.cctv.com/2026/08/04/ARTIO53tIrUpU2zkmgpu9ew6260804.shtml)
+
++ [危地马拉富埃戈火山喷发 全国发布橙色警报](https://news.cctv.com/2026/08/04/ARTI9378VJsQfcl8HtNJCrCV260804.shtml)
+
++ [佩泽希齐扬：伊朗将捍卫领土但不寻求继续或扩大战争](https://news.cctv.com/2026/08/04/ARTIDEr4LnXGwgPUbwgtnZuz260804.shtml)
+
++ [俄太平洋舰队启动大规模演习 约60艘舰船参演](https://news.cctv.com/2026/08/04/ARTIuZbgGusidHhUXoOEs46C260804.shtml)
+
