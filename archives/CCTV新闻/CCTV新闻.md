@@ -175,3 +175,11 @@
 
 + [西班牙飞地休达为何成移民危机风暴眼](https://news.cctv.com/2026/08/04/ARTI4VDxcDKjnyCGs6Vuccqv260804.shtml)
 
++ [美国拟关闭在加拿大、日本等国的5处驻外机构](https://news.cctv.com/2026/08/04/ARTIItxZpo5a0HS9ipQXYag9260804.shtml)
+
++ [巴黎香街日落](https://photo.cctv.com/2026/08/04/PHOA3TcqaTbdclbXT1vtjIMA260804.shtml)
+
++ [英国海上贸易行动办公室：一货船在霍尔木兹海峡附近遭袭](https://news.cctv.com/2026/08/04/ARTIbFbfiC6CbKVuNAPTBFvZ260804.shtml)
+
++ [特朗普：与伊朗的谈判正在进行 将分两阶段推进](https://news.cctv.com/2026/08/04/ARTI5H6QanncfoINrDhAKDQj260804.shtml)
+
