@@ -173,3 +173,21 @@
 
 + [机器人数据采集技术栈全景](https://blog.csdn.net/2508_90533928/article/details/163450250)
 
++ [HarmonyOS ArkUI实战：企业级深色模式适配方案全解析](https://blog.csdn.net/u014727709/article/details/163450520)
+
++ [主机入侵检测（HIDS）：OSSEC / Wazuh 部署与规则编写](https://blog.csdn.net/cui_yonghua/article/details/163445065)
+
++ [Prometheus告警推送钉钉：Alertmanager与Webhook配置实战](https://blog.csdn.net/baronbool/article/details/163474354)
+
++ [QQ 接入 DeepSeek：Docker 部署 AstrBot + NapCat 打造 AI 智能机器人（超详细教程）](https://blog.csdn.net/mrdeam/article/details/163469822)
+
++ [【自旋锁】用“忙等待“换“低延迟“——自旋锁原理与实战](https://blog.csdn.net/2302_80243065/article/details/163478424)
+
++ [群晖部署Vaultwarden：HTTPS访问、自动填充与密码迁移](https://blog.csdn.net/m0_73879806/article/details/163479893)
+
++ [MySQL GROUP BY 性能优化：执行计划分析 + 索引重构实战](https://blog.csdn.net/qq_35107975/article/details/163231026)
+
++ [商用地图全面收费？从天地图到开源生态的替代路线](https://blog.csdn.net/weixin_45511682/article/details/163078249)
+
++ [三层交换机全方位完整知识体系](https://blog.csdn.net/Ai_kaihui/article/details/163447777)
+
