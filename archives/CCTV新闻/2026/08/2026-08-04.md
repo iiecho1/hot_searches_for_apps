@@ -183,3 +183,11 @@
 
 + [特朗普：与伊朗的谈判正在进行 将分两阶段推进](https://news.cctv.com/2026/08/04/ARTI5H6QanncfoINrDhAKDQj260804.shtml)
 
++ [季风暴雨成灾 印度阿萨姆邦已有87人遇难](https://news.cctv.com/2026/08/04/ARTI8ziGFx2adzqFhQssNFmU260804.shtml)
+
++ [新闻分析丨韩国股市为何陷入“杠杆漩涡”](https://news.cctv.com/2026/08/04/ARTI9Xd6xD8udQHmmCvr545w260804.shtml)
+
++ [俄罗斯国产MC-21-310客机完成首飞](https://news.cctv.com/2026/08/04/ARTIUfdCBrH2FGmTCjd1MdjR260804.shtml)
+
++ [因凡蒂诺面临职业生涯最大危机 求助美方接连遇冷](https://news.cctv.com/2026/08/04/ARTImRTstk3VZv7xt9lj7a6t260804.shtml)
+

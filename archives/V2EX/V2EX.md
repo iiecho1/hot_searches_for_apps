@@ -33,3 +33,7 @@
 
 + [加入学习 FDE 技能](https://www.v2ex.com/t/1231751)
 
++ [为什么 v 站有这么多人都觉得结婚出彩礼是应该的？](https://www.v2ex.com/t/1231911)
+
++ [大家现在 Windows 下面是如何使用 codex 的，怎么搞都有问题](https://www.v2ex.com/t/1231744)
+

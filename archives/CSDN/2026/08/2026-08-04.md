@@ -105,3 +105,37 @@
 
 + [# 商用车多体动力学实战笔记｜第7篇：制动系统与制动热衰退、ABS滞环控制](https://blog.csdn.net/weixin_62244995/article/details/162992497)
 
++ [Zookeeper - 临时节点的生命周期与核心特性详解](https://blog.csdn.net/qq_41187124/article/details/157688356)
+
++ [KingbaseES 的卢智能运维体架构深度拆解](https://blog.csdn.net/weixin_43151418/article/details/163450872)
+
++ [Kimi K3 为什么能霸榜？——一场由架构革命与开源生态引爆的 AI 范式转移](https://blog.csdn.net/ailuloo/article/details/163432142)
+
++ [从KWR报告到优化器内核：一次性能调优的全链路复盘](https://blog.csdn.net/qq_32682301/article/details/163450731)
+
++ [Pixelle-Video部署教程：AI短视频生成配置与远程访问](https://blog.csdn.net/qq_61024956/article/details/163449742)
+
++ [2026年全国青少年信息素养大赛算法应用主题赛C++赛项【决赛】模拟卷3：文末附答案](https://blog.csdn.net/weixin_66461496/article/details/163463061)
+
++ [【从0开始学习计算机网络】| TLS 1.3 四次握手，到底在握什么？](https://blog.csdn.net/2503_94545876/article/details/163450557)
+
++ [服务器构建指南：从选型、部署到高可用架构详解](https://blog.csdn.net/csdn_silent/article/details/163460353)
+
++ [YOLOv11室内家居墙壁与地板目标检测数据集](https://blog.csdn.net/guo_xiao_xiao_/article/details/162707378)
+
++ [SDC命令详解：使用set_size_only命令进行约束](https://blog.csdn.net/weixin_45791458/article/details/163336116)
+
++ [第四篇：Redis 的 Key-Value 模型到底是什么？Key 应该怎么设计？](https://blog.csdn.net/wulong756273/article/details/163418754)
+
++ [人像抠图不用再手动画？群晖部署image-matting实战教程](https://blog.csdn.net/2401_86326742/article/details/163451676)
+
++ [用 Codex CLI 造了一个 Claude Code 桌面客户端](https://blog.csdn.net/DDXYcoder/article/details/163451036)
+
++ [Linux进程概念](https://blog.csdn.net/2401_88654727/article/details/163432657)
+
++ [Visual Studio 离线授权续期脚本（PowerShell）](https://blog.csdn.net/comedate/article/details/161309140)
+
++ [LangChain 文档加载器中的 metadata 是什么？](https://blog.csdn.net/2403_87560480/article/details/163421761)
+
++ [社会工程学钓鱼攻击全链路拆解：一封“税务系统升级通知“如何吃掉财务的电脑](https://blog.csdn.net/qq_46987323/article/details/163449528)
+
