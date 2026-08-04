@@ -67,3 +67,5 @@
 
 + [【4K MMD】超可爱甜心小恶魔MIKU酱「エレキキュレーター」 ](https://m.acfun.cn/v/?ac=48747034)
 
++ [【重音テトSV】Nostalogic【Project DIVA M39s】中文字幕](https://m.acfun.cn/v/?ac=48747381)
+

@@ -171,3 +171,7 @@
 
 + [马达加斯加一市场发生火灾 3500人受灾](https://news.cctv.com/2026/08/04/ARTI1NjboPBke2tRlu6l8q8q260804.shtml)
 
++ [安哥拉南宽扎省发生严重交通事故 致22人死亡](https://news.cctv.com/2026/08/04/ARTIAOzqOdLEUkppJri84cas260804.shtml)
+
++ [西班牙飞地休达为何成移民危机风暴眼](https://news.cctv.com/2026/08/04/ARTI4VDxcDKjnyCGs6Vuccqv260804.shtml)
+
