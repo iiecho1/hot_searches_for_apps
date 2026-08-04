@@ -161,3 +161,7 @@
 
 + [斯洛文尼亚总统因交通事故受轻伤 已送医观察](https://news.cctv.com/2026/08/01/ARTIXVN3QEtbZmLaV1R9OHAS260801.shtml)
 
++ [西班牙称约7万名非法入境休达的移民已返回摩洛哥](https://news.cctv.com/2026/08/05/ARTIhtrB5xACORIB1Qmij4Nv260805.shtml)
+
++ [也门政府军说救起红海遇袭沉没货船上14名船员](https://news.cctv.com/2026/08/05/ARTIu0y8odUVy7VARWP6Mskm260805.shtml)
+
