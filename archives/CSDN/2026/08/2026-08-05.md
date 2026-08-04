@@ -101,3 +101,29 @@
 
 + [从数字孪生到机器人操控：Android Unity3D下RTMP/RTSP多路低延迟播放实践](https://blog.csdn.net/renhui1112/article/details/163448644)
 
++ [KingbaseES V9 性能诊断三件套实战：从 KWR 报告到慢 SQL 定位与索引优化的全链路复现](https://blog.csdn.net/weixin_52908342/article/details/163469514)
+
++ [从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从Q/K/V到拼音转汉字:用PyTorch从零拆解Transformer编码器)](https://blog.csdn.net/2401_87629362/article/details/163221683)
+
++ [DolphinDB 能耗统计分析实战：报表生成、同比环比与定额对比](https://blog.csdn.net/sinat_41617212/article/details/163472522)
+
++ [Hologres 简介](https://blog.csdn.net/weixin_44624117/article/details/163483361)
+
++ [外卖平台上的XSS与CSRF攻防全解析：从一次弹窗到百万蠕虫](https://blog.csdn.net/qq_46987323/article/details/163478733)
+
++ [MySQL数据库原理与实践(五):内置函数](https://blog.csdn.net/2502_93841997/article/details/163419124)
+
++ [HarmonyOS ArkUI实战：企业级深色模式适配方案全解析](https://blog.csdn.net/u014727709/article/details/163450520)
+
++ [桌面运维实战总结｜Windows台式机10大类高频故障全套排查修复方案](https://blog.csdn.net/2401_83015914/article/details/163467567)
+
++ [从零构建智能客服Agent：Python项目实战与架构解析](https://blog.csdn.net/wjx810901/article/details/163451554)
+
++ [K8s 数据库 PVC 挂载异常排查｜挂载失败、权限不足、磁盘损坏根治](https://blog.csdn.net/xdsfsadfas/article/details/163441602)
+
++ [Docker 部署 SpringBoot：从镜像构建到服务器运行](https://blog.csdn.net/weixin_68431870/article/details/163450721)
+
++ [一次生成50套图文——讯飞绘文把内容运营变成流水线](https://blog.csdn.net/weixin_50843918/article/details/163419477)
+
++ [WCPulse 第 065 个开关：堆叠媒体循环滑动的位置、验证方法与风险边界](https://blog.csdn.net/weixin_47431459/article/details/163345839)
+
