@@ -161,3 +161,7 @@
 
 + [特朗普称美伊3日将举行谈判](https://news.cctv.com/2026/08/03/ARTI4bEuAHPPzhH3y9KSnXRd260803.shtml)
 
++ [巴基斯坦总理：巴方将继续为地区和平作出真诚努力](https://news.cctv.com/2026/08/06/ARTI1L9vQ50SgeBICgw5J0OT260806.shtml)
+
++ [欧洲一核电站因高温降低反应堆功率](https://news.cctv.com/2026/08/06/ARTIXbYbPZPdRJscWDHdaqfb260806.shtml)
+
