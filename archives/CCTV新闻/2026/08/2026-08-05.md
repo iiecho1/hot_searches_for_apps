@@ -207,3 +207,7 @@
 
 + [以军承认在约旦河西岸一起冲突中“处置严重失当”](https://news.cctv.com/2026/08/05/ARTI3DGpE5ma18OZ7kCOOq2K260805.shtml)
 
++ [联合国教科文组织确认北京为2029年“世界建筑之都”](https://news.cctv.com/2026/08/05/ARTIRMrN51CqtDOpCNPmGdjE260805.shtml)
+
++ [印度22名儿童感染金迪普拉病毒死亡](https://news.cctv.com/2026/08/05/ARTIEeS8U7i6j6SS06J00Ryu260805.shtml)
+

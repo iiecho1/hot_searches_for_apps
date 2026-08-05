@@ -47,3 +47,5 @@
 
 + [vercel/next.js](https://github.com/vercel/next.js)
 
++ [cloudflare/computer](https://github.com/cloudflare/computer)
+

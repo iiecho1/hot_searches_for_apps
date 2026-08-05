@@ -165,3 +165,7 @@
 
 + [【前端+docker】NMS 容器启动失败？可能只是缺少一个 `/etc/nms/nacos` 文件](https://blog.csdn.net/LIU_CAN/article/details/163496954)
 
++ [Spring Boot 应用迁金仓：JDBC 连接池与 MyBatis 集成的那些坑](https://blog.csdn.net/user340/article/details/163473071)
+
++ [【Docker】资源控制](https://blog.csdn.net/qinjh_/article/details/161862188)
+
