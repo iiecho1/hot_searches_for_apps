@@ -177,3 +177,11 @@
 
 + [霍尔木兹海峡能否两日内重开 美伊说法不一](https://news.cctv.com/2026/08/05/ARTIkPWkRElFQmMY4TtetIU8260805.shtml)
 
++ [一客机在南非开普敦降落时轮胎爆裂 影响航班起降](https://news.cctv.com/2026/08/05/ARTIYrskRT5ge84BWPQjIYUx260805.shtml)
+
++ [美媒：美军已消耗近80%“萨德”反导系统拦截弹](https://news.cctv.com/2026/08/05/ARTIshXkTuqXKSuSTwYzxnrS260805.shtml)
+
++ [巴西将与阿根廷的外交关系降为代办级](https://news.cctv.com/2026/08/05/ARTI0SGRVr1lfGDjAudfYAXC260805.shtml)
+
++ [北美观察丨美伊谈判出现反差 霍尔木兹方案浮出水面](https://news.cctv.com/2026/08/05/ARTIXWcTHuGxQqHVImo2By5f260805.shtml)
+

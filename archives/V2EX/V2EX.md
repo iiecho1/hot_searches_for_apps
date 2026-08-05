@@ -29,3 +29,21 @@
 
 + [大模型排行榜到底哪个权威？](https://www.v2ex.com/t/1231896)
 
++ [广西被大水冲垮的房子，国家会给重建或者补助吗？](https://www.v2ex.com/t/1232165)
+
++ [发现一个顶级华为域名](https://www.v2ex.com/t/1232077)
+
++ [绝了，租的单间不隔音，隔壁有对情侣大晚上 do 听的一清二楚](https://www.v2ex.com/t/1232130)
+
++ [长时间电脑开机，有必要换成 nas 吗](https://www.v2ex.com/t/1231978)
+
++ [有没有好喝的冰饮推荐啊！热昏了](https://www.v2ex.com/t/1232172)
+
++ [竹知了 iOS 版，已开源，已提交商店，走 Testflight 可体验](https://www.v2ex.com/t/1231994)
+
++ [失业后，你们会继续交社保吗？](https://www.v2ex.com/t/1232160)
+
++ [被 Opus 搞崩了，想换 Fable 5，有靠谱中转吗？](https://www.v2ex.com/t/1232113)
+
++ [有没有人觉得 gpt 太啰嗦？](https://www.v2ex.com/t/1232147)
+
