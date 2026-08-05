@@ -119,3 +119,7 @@
 
 + [Flutter 开发 iOS 海外工具类应用快速上架苹果商店指南](https://blog.csdn.net/huazaihahha/article/details/163437809)
 
++ [mediamtx v1.19.3正式发布：认证安全、WebRTC跨域、MoQ稳定性、RTSP与HLS全面升级](https://blog.csdn.net/weixin_48502062/article/details/163509956)
+
++ [MiniMax H3 部署全指南：API 调用、本地 SGLang 部署与 Full 2K Workflow](https://blog.csdn.net/aidoudoulong/article/details/163476993)
+

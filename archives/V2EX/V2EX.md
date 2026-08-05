@@ -21,3 +21,5 @@
 
 + [租了四年的房子退租,被房东老太克扣了 500 押金](https://www.v2ex.com/t/1232171)
 
++ [烧了 6B+ token,分享下我实践出来最好的 AGENTS.md](https://www.v2ex.com/t/1232201)
+
