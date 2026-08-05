@@ -47,3 +47,11 @@
 
 + [有没有人觉得 gpt 太啰嗦？](https://www.v2ex.com/t/1232147)
 
++ [Claude Max 号池 0.8 倍率 ，满血 Opus5.0 / Sonnet5 / GPT5.6 / Fable5 全系列，回帖即送 20 刀](https://www.v2ex.com/t/1232208)
+
++ [求推荐梯子，最好是自用过好多年的](https://www.v2ex.com/t/1232191)
+
++ [推广中转站 codex 0.09 起，送 5u 速蹬](https://www.v2ex.com/t/1232189)
+
++ [京东京造的硬盘体质太差了](https://www.v2ex.com/t/1232154)
+

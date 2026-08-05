@@ -185,3 +185,17 @@
 
 + [北美观察丨美伊谈判出现反差 霍尔木兹方案浮出水面](https://news.cctv.com/2026/08/05/ARTIXWcTHuGxQqHVImo2By5f260805.shtml)
 
++ [日本“新型军国主义”危险图谋的再次暴露](https://news.cctv.com/2026/08/05/ARTIPBBKkNDlXQJxn2fUgNmm260805.shtml)
+
++ [日本新版《防卫白皮书》实为高市扩军路线图](https://news.cctv.com/2026/08/05/ARTIlbJ0ZUorXXx3gGQ4z7vW260805.shtml)
+
++ [中美经贸需要“合作清单”，而非“覆盖清单”](https://news.cctv.com/2026/08/05/ARTI11bF1LM92W8kiPCO9OVu260805.shtml)
+
++ [上合组织已成为全球南方参与国际秩序重塑的重要平台——访埃及外交事务委员会主任萨阿德](https://news.cctv.com/2026/08/05/ARTIhA9tNF28QpbWnpc6PyLc260805.shtml)
+
++ [中国减贫经验为泰国提供有益借鉴](https://news.cctv.com/2026/08/05/ARTIsXgza9Q1ZRRyQ31L8YPv260805.shtml)
+
++ [苏拉威西海发生6.4级地震，震源深度50千米](https://news.cctv.com/2026/08/05/ARTINw9jdAFdAYpNOnNUk738260805.shtml)
+
++ [特朗普敦促美参议院通过全年采用夏令时法案](https://news.cctv.com/2026/08/05/ARTIxczDmKNbMjNvnRSrgv0U260805.shtml)
+
