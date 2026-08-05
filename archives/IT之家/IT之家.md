@@ -25,3 +25,27 @@
 
 + [小米 REDMI K100 Pro 系列手机“流萤追光”配色预热：手机后盖可当作“光绘板”](https://m.ithome.com/html/985327.htm)
 
++ [鸿蒙智行发言人发布关于近期“竹知了”相关网络信息的情况说明](https://m.ithome.com/html/985702.htm)
+
++ [鸿蒙智行回应近期“竹知了”事件，多位博主晒出相关侵权实例](https://m.ithome.com/html/985712.htm)
+
++ [王腾回应新公司“清一色”采用小米 REDMI 显示器：性价比高](https://m.ithome.com/html/985704.htm)
+
++ [小米单联瑜谈“为什么冰箱能一直开但空调不能”：常年高温地区，空调长时间运行是很常见的使用场景](https://m.ithome.com/html/985669.htm)
+
++ [鸿蒙智行回应智界 R7 上海高速着火，系前方车辆掉落尖锐金属异物撞击底盘并摩擦造成](https://m.ithome.com/html/985647.htm)
+
++ [Anthropic CEO 达里奥内部言论曝光，担忧员工上班只为钱](https://m.ithome.com/html/985649.htm)
+
++ [格力朱磊谈“为什么冰箱能一直开但空调不能”：只要质量没问题，空调完全可以一直开](https://m.ithome.com/html/985623.htm)
+
++ [“未来已来”：华为智选车产品总监彭磊晒享界 G9 汽车 L3 自动驾驶功能按键，可亮蓝光](https://m.ithome.com/html/985681.htm)
+
++ [一加手机退出北美市场，当地官网最后一批手机售罄](https://m.ithome.com/html/985754.htm)
+
++ [消息称华为线下门店支持眼镜产品 1 元配镜，可选择到店自取或邮寄到家](https://m.ithome.com/html/985653.htm)
+
++ [《黑神话：悟空》史低价：全平台数字版本即将开启七折优惠](https://m.ithome.com/html/985818.htm)
+
++ [IT早报 0805：鸿蒙智行回应“竹知了”事件；格力朱磊、小米单联瑜谈“为什么冰箱能一直开但空调不能”；首部 L3/L4 自动驾驶强制国标发布...](https://m.ithome.com/html/985748.htm)
+

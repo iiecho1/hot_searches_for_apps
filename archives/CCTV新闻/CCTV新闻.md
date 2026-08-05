@@ -199,3 +199,9 @@
 
 + [特朗普敦促美参议院通过全年采用夏令时法案](https://news.cctv.com/2026/08/05/ARTIxczDmKNbMjNvnRSrgv0U260805.shtml)
 
++ [美国海关已退回约1000亿美元关税](https://news.cctv.com/2026/08/05/ARTIWpRozGA1apCgMfOoATfw260805.shtml)
+
++ [擅闯中国驻日本大使馆自卫队官员称“后悔”](https://news.cctv.com/2026/08/05/ARTIbCRSuCzocfZYnLBJK2q8260805.shtml)
+
++ [危地马拉富埃戈火山强烈喷发 周边省拉响红色警报](https://news.cctv.com/2026/08/05/ARTIV9UegiBtnT5YDdkgPbzf260805.shtml)
+
