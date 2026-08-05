@@ -101,3 +101,21 @@
 
 + [主流网络空间搜索引擎完整使用教程](https://blog.csdn.net/qq_21318849/article/details/163498666)
 
++ [Java 应用数据库接入层工程实践：驱动、连接池与故障排查全解析](https://blog.csdn.net/2301_80350265/article/details/163481154)
+
++ [SQL是声明式语言，不是过程式语言——一次由WHERE子句函数顺序引发的生产故障复盘](https://blog.csdn.net/beautifulmemory/article/details/163495728)
+
++ [【从0开始学习计算机网络】| TLS 1.3 四次握手，到底在握什么？](https://blog.csdn.net/2503_94545876/article/details/163450557)
+
++ [【无人车路径跟踪】基于神经网络的数据驱动迭代学习控制(ILC)算法，用于具有未知模型和重复任务的非线性单输入单输出(SISO)离散时间系统的无人车的路径跟踪（Matlab代码实现）](https://blog.csdn.net/Yan_she_He/article/details/163484515)
+
++ [WCPulse 第 062 个开关：启用视频号下载项的位置、验证方法与风险边界](https://blog.csdn.net/weixin_47431459/article/details/163345685)
+
++ [KingbaseES 流复制主备与 JDBC 读写分离实战](https://blog.csdn.net/2601_95131637/article/details/163475155)
+
++ [Kimi K3 为什么能霸榜？——一场由架构革命与开源生态引爆的 AI 范式转移](https://blog.csdn.net/ailuloo/article/details/163432142)
+
++ [90-Prompt-Template模板化-Jinja2模板-版本管理-多语言模板](https://blog.csdn.net/weixin_44081096/article/details/163483213)
+
++ [Flutter 开发 iOS 海外工具类应用快速上架苹果商店指南](https://blog.csdn.net/huazaihahha/article/details/163437809)
+

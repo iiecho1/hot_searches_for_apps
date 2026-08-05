@@ -165,3 +165,7 @@
 
 + [欧洲一核电站因高温降低反应堆功率](https://news.cctv.com/2026/08/06/ARTIXbYbPZPdRJscWDHdaqfb260806.shtml)
 
++ [俄总统普京对国防部及前线指挥官进行部分调整](https://news.cctv.com/2026/08/06/ARTIAMPnhHTUXnKDDAQuv3yE260806.shtml)
+
++ [以军证实数名以色列犹太人定居者非法潜入黎巴嫩](https://news.cctv.com/2026/08/06/ARTIELoFQCU1uoj0SyJL4CJ9260806.shtml)
+
