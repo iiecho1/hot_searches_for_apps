@@ -175,3 +175,5 @@
 
 + [美方称已迫使45艘商船改变航线](https://news.cctv.com/2026/08/05/ARTIdKQoTGO4syTOZ1jsVk7i260805.shtml)
 
++ [霍尔木兹海峡能否两日内重开 美伊说法不一](https://news.cctv.com/2026/08/05/ARTIkPWkRElFQmMY4TtetIU8260805.shtml)
+
