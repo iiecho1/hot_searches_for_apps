@@ -113,3 +113,27 @@
 
 + [【日语翻唱】泡沫、哀のまほろば（幻想万华镜）](https://m.acfun.cn/v/?ac=48715274)
 
++ [毁灭战士战至最后一刻，自刎归天！【绅批】](https://m.acfun.cn/v/?ac=48752546)
+
++ [打破“双周一成”的票房垄断！《风云雄霸天下》有多传奇](https://m.acfun.cn/v/?ac=48751516)
+
++ [八月的风依旧是这么炎热啊！](https://m.acfun.cn/v/?ac=48751254)
+
++ [开门呀，我是你友好的邻居](https://m.acfun.cn/v/?ac=48752488)
+
++ [告别复杂调味，一瓶【照烧汁】搞定家常菜](https://m.acfun.cn/v/?ac=48751521)
+
++ [1580期：汽车上树名场面，要不是有视频，说出来肯定没人信](https://m.acfun.cn/v/?ac=48752088)
+
++ [新番最强扮猪吃虎！男主开局被最美千金一见钟情！](https://m.acfun.cn/v/?ac=48750161)
+
++ [最贴近普通人丧尸末日硬核求生游戏，究竟有什么剧情？【地狱已满剧情解析】](https://m.acfun.cn/v/?ac=48744244)
+
++ [天狼星的心脏](https://m.acfun.cn/v/?ac=48751448)
+
++ [柯南小镇](https://m.acfun.cn/v/?ac=48752284)
+
++ [Marigold Burning Desire 2026.08.04](https://m.acfun.cn/v/?ac=48750133)
+
++ [【怜兔x曲南】Bloody Groovy♢令人上头的旋律](https://m.acfun.cn/v/?ac=48750356)
+

@@ -139,3 +139,29 @@
 
 + [【金仓数据库征文】从零到一：基于 Docker 部署 KingbaseES V9R1C10 的国产数据库实战体验](https://blog.csdn.net/geinvse_seg/article/details/163452321)
 
++ [【Linux网络】从0手写Reactor反应堆（一）：核心框架搭建——连接抽象与事件派发](https://blog.csdn.net/2503_91389547/article/details/162028149)
+
++ [企业Agent落地为什么需要RAG？](https://blog.csdn.net/2401_89111612/article/details/163479542)
+
++ [商用车多体动力学实战笔记｜第6篇：动力传动系统（发动机、变速箱、分动器、TCS、LSD限滑差速）](https://blog.csdn.net/weixin_62244995/article/details/162992247)
+
++ [第二十一届全国大学生智能汽车竞赛总决赛队伍名单](https://blog.csdn.net/zhuoqingjoking97298/article/details/163493457)
+
++ [实战落地 SpringBoot+LLM 搭建 Text-to-SQL 智能查询系统-如何安全执行sql和性能优化](https://blog.csdn.net/yelangkingwuzuhu/article/details/163483507)
+
++ [KFS 全链路并行架构：异构增量同步的 TB 级性能突破](https://blog.csdn.net/2301_80350265/article/details/163451068)
+
++ [Excel报表越做越乱？用Metabase搭建可更新的数据仪表盘](https://blog.csdn.net/m0_68390957/article/details/163499355)
+
++ [我用 Seed Evolving 做了个 Python 版贪吃蛇游戏](https://blog.csdn.net/qq_44273429/article/details/163474985)
+
++ [Qt 通用软件更新日志页面](https://blog.csdn.net/weixin_43717839/article/details/163450082)
+
++ [GitLab CI/CD 自托管（EE 企业版）+ Kubernetes Runner 集群 + ArgoCD（GitOps 部署）](https://blog.csdn.net/xiaoxiangsiyan/article/details/163480201)
+
++ [主流网络空间搜索引擎完整使用教程](https://blog.csdn.net/qq_21318849/article/details/163498666)
+
++ [【金仓数据库征文】MyBatis动态SQL的安全与性能实践：B端复杂筛选场景下的破局之道](https://blog.csdn.net/u014727709/article/details/163505287)
+
++ [【前端+docker】NMS 容器启动失败？可能只是缺少一个 `/etc/nms/nacos` 文件](https://blog.csdn.net/LIU_CAN/article/details/163496954)
+

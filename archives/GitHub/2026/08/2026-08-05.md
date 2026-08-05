@@ -37,3 +37,13 @@
 
 + [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
++ [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
+
++ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [roboflow/supervision](https://github.com/roboflow/supervision)
+
++ [vercel/next.js](https://github.com/vercel/next.js)
+

@@ -205,3 +205,5 @@
 
 + [危地马拉富埃戈火山强烈喷发 周边省拉响红色警报](https://news.cctv.com/2026/08/05/ARTIV9UegiBtnT5YDdkgPbzf260805.shtml)
 
++ [以军承认在约旦河西岸一起冲突中“处置严重失当”](https://news.cctv.com/2026/08/05/ARTI3DGpE5ma18OZ7kCOOq2K260805.shtml)
+
