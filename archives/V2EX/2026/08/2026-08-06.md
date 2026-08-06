@@ -23,3 +23,7 @@
 
 + [烧了 6B+ token,分享下我实践出来最好的 AGENTS.md](https://www.v2ex.com/t/1232201)
 
++ [我真的不想起飞了](https://www.v2ex.com/t/1232170)
+
++ [uu 远程 的完成度太高了](https://www.v2ex.com/t/1232211)
+
