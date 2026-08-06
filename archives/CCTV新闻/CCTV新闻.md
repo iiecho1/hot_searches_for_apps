@@ -181,3 +181,7 @@
 
 + [美副总统称与伊朗谈判将“充满波折且耗时”](https://news.cctv.com/2026/08/06/ARTIrf7y4KDKa4lJh7HSXGTo260806.shtml)
 
++ [“希望引进更多中国经验和技术”（中国—吉尔吉斯斯坦媒体高质量共建“一带一路”联合采访）](https://news.cctv.com/2026/08/06/ARTIoejlHvEQ7abJPsOz4IJg260806.shtml)
+
++ [伊朗总统：最高领袖决策过程遭人利用](https://news.cctv.com/2026/08/06/ARTIpjeDgIeoQbCSI1OypjZE260806.shtml)
+

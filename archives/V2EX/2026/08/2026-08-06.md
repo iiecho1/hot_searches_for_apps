@@ -47,3 +47,7 @@
 
 + [突然觉得薅 AI 中转站没意思了](https://www.v2ex.com/t/1232251)
 
++ [请教一下，本地部署 deepseekV4flash 大概需要什么样的配置需求？](https://www.v2ex.com/t/1232409)
+
++ [MAC 的鼠标怎么选](https://www.v2ex.com/t/1232404)
+
