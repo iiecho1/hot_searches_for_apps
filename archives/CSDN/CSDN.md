@@ -177,3 +177,9 @@
 
 + [KingbaseES分区表实战：从范围分区到自动间隔分区与性能裁剪](https://blog.csdn.net/sdf56g99988/article/details/163475971)
 
++ [PyTorch计算机视觉（4）——迁移学习（Transfer Learning）详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/162009128)
+
++ [一库多模实战：用 KingbaseES 同时搞定 JSON、中文全文检索与标签位图](https://blog.csdn.net/COLLINSXU/article/details/163510405)
+
++ [Electron实战：仿VSCode菜单+实时日志系统，从零搭建到部署](https://blog.csdn.net/eidolon_foot/article/details/163540592)
+

@@ -27,3 +27,15 @@
 
 + [lyogavin/airllm](https://github.com/lyogavin/airllm)
 
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [goauthentik/authentik](https://github.com/goauthentik/authentik)
+
++ [google/guava](https://github.com/google/guava)
+
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
++ [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+
