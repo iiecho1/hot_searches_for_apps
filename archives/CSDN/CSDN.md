@@ -123,3 +123,57 @@
 
 + [MiniMax H3 部署全指南：API 调用、本地 SGLang 部署与 Full 2K Workflow](https://blog.csdn.net/aidoudoulong/article/details/163476993)
 
++ [【金仓数据库征文】让 AI 直接读懂你的金仓：基于 KES MCP Server 的自然语言数据库助手实战（Trae + DeepSeek）](https://blog.csdn.net/2302_78391795/article/details/163510716)
+
++ [【MYSQL】MYSQL学习的一大重点：视图](https://blog.csdn.net/2401_89899187/article/details/163251282)
+
++ [【码动四季】Spring AI 多模型编排：AtomCode 如何解决 GPT + Qwen + DeepSeek 混合调用的一致性难题](https://blog.csdn.net/qq_35366330/article/details/163451530)
+
++ [【CMake】换台机器就编译失败？用 Presets + vcpkg 固定依赖、工具链与 CI](https://blog.csdn.net/2402_87731470/article/details/163514465)
+
++ [RuoYi Office 资产全业务流程管理：一张卡从入库走到报废，九类单据如何驱动账实闭环](https://blog.csdn.net/zhouzhongyan/article/details/163521324)
+
++ [【LE Audio】PBP精讲[1]: 从场景痛点到协议初心，解析公共广播的设计根基](https://blog.csdn.net/weixin_37800531/article/details/163415339)
+
++ [MongoDB 迁移新思路：KingbaseES 一体化多模架构破除烟囱式数据孤岛，实现零代码业务平滑切换](https://blog.csdn.net/beautifulmemory/article/details/163514712)
+
++ [【高等几何 梅向明】正交变换与仿射变换](https://blog.csdn.net/he_zhidan/article/details/163356161)
+
++ [【金仓数据库征文】高频时序写入的批量入库实践——IoT 采集场景下的吞吐优化与多模型查询实战](https://blog.csdn.net/u014727709/article/details/163448120)
+
++ [【金仓数据库征文】AI Agent如何处理多轮查询上下文：以金仓KFS MCP Server为例](https://blog.csdn.net/sghtgjfhv/article/details/163450873)
+
++ [账单爆表事故：单个 Agent 协程跑掉 3000 万 Token，用预算闸门治理非确定性 LLM](https://blog.csdn.net/2609_95049439/article/details/163524690)
+
++ [Hologres的数据存储分布](https://blog.csdn.net/weixin_44624117/article/details/163514243)
+
++ [【金仓数据库征文】KES MCP Server实战：AI智能体接入数据库的配置与开发指南](https://blog.csdn.net/weixin_62765017/article/details/163482437)
+
++ [【AI 测评】PostgreSQL主从流复制实战：数据同步、状态验证与故障切换](https://blog.csdn.net/2402_87298751/article/details/163537884)
+
++ [【金仓数据库征文】Mac开发环境｜SpringBoot3 + MyBatisPlus对接KES V9 Docker实战全指南](https://blog.csdn.net/weixin_44976692/article/details/163473453)
+
++ [DolphinDB 能耗优化实战：节能策略设计、效果评估与 ROI 分析](https://blog.csdn.net/sinat_41617212/article/details/163508916)
+
++ [AI 伪造满天飞，我拿腾讯云 5 个 Skill 搭了台照妖镜](https://blog.csdn.net/2301_76341691/article/details/163514903)
+
++ [AI工程师核心价值：全链路数据掌控+业务问题诊断](https://blog.csdn.net/qq_38998213/article/details/163514985)
+
++ [数据防线架构：防止 AI 幻觉污染生产数据库的工程实践](https://blog.csdn.net/weixin_63764436/article/details/163476784)
+
++ [【免费】人脸识别 智能门禁系统(深度学习+OpenCV DNN+FastAPI+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163501601)
+
++ [【CVPR 2026】Motus：一个模型贯通理解、预测与控制｜从统一世界模型架构视角](https://blog.csdn.net/Discover304/article/details/163511439)
+
++ [KingbaseES 闪回实战：从误删恢复到历史版本追踪](https://blog.csdn.net/2501_92427005/article/details/163509157)
+
++ [从零构建智能客服Agent：Python项目实战与架构解析](https://blog.csdn.net/wjx810901/article/details/163451554)
+
++ [内网穿透的应用-群晖NAS部署ViniPlay：管理M3U频道、EPG与多视图播放](https://blog.csdn.net/weixin_42878111/article/details/163532284)
+
++ [【Matlab】CNN图像分类与模型压缩实现](https://blog.csdn.net/unbelievevc/article/details/163522278)
+
++ [# 商用车多体动力学实战笔记｜第7篇：制动系统与制动热衰退、ABS滞环控制](https://blog.csdn.net/weixin_62244995/article/details/162992497)
+
++ [KingbaseES分区表实战：从范围分区到自动间隔分区与性能裁剪](https://blog.csdn.net/sdf56g99988/article/details/163475971)
+

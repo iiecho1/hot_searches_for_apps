@@ -25,3 +25,27 @@
 
 + [IT早报 0805：鸿蒙智行回应“竹知了”事件；格力朱磊、小米单联瑜谈“为什么冰箱能一直开但空调不能”；首部 L3/L4 自动驾驶强制国标发布...](https://m.ithome.com/html/985748.htm)
 
++ [余承东更正发布会口误：全新华为 MateBook Fold 非凡大师起售价是 24999 元，不是 2499 元](https://m.ithome.com/html/986204.htm)
+
++ [消息称长鑫拒绝苹果压价，坚持要求内存采购价不低于三星电子和 SK 海力士](https://m.ithome.com/html/986176.htm)
+
++ [“女生洗澡，大叔帮搓背”：苏泊尔 AI 广告引争议，已紧急下架](https://m.ithome.com/html/986291.htm)
+
++ [RTX 5090 显卡涨价后华硕拒按原价发货：英伟达官方商城直接砍单，重购需多花 553 美元](https://m.ithome.com/html/986259.htm)
+
++ [消息称张一鸣内部下死命令：就算模型暂时落后，字节跳动也不会依赖 AI 蒸馏技术](https://m.ithome.com/html/986411.htm)
+
++ [DeepSeek：计划近期整体上调 API 服务的定价，预计涨幅较大](https://m.ithome.com/html/986339.htm)
+
++ [华为全场景新品发布会一文汇总：尊界 V800/V680 正式上市，手机 / 手表 / 平板 / 电脑轮番登场](https://m.ithome.com/html/986202.htm)
+
++ [被网友称不如王腾，小米徐洁云回应称“当然，创业者都非常了不起”](https://m.ithome.com/html/986451.htm)
+
++ [华为鸿蒙 6“超透”控制 / 通知中心背板彩蛋在 HarmonyOS 7 花粉 Beta 版得以保留](https://m.ithome.com/html/986227.htm)
+
++ [电力部门回应“空调 24 小时开着反而更省电”：短暂外出可不关闭，温度调高 1 到 2℃](https://m.ithome.com/html/986453.htm)
+
++ [消息称 iPhone 18 Pro / Ultra 量产遇挑战，苹果紧急抢购 DRAM 内存](https://m.ithome.com/html/986392.htm)
+
++ [小米徐洁云就“孩 go”言论回应，称有小米用户养的宠物名字叫“孩 go”](https://m.ithome.com/html/986508.htm)
+

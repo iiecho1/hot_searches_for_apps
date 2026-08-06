@@ -185,3 +185,17 @@
 
 + [伊朗总统：最高领袖决策过程遭人利用](https://news.cctv.com/2026/08/06/ARTIpjeDgIeoQbCSI1OypjZE260806.shtml)
 
++ [特朗普“黄金舰队”造价或高达2750亿美元](https://news.cctv.com/2026/08/06/ARTIGCOmPd0sjPKmVNALAMPa260806.shtml)
+
++ [高市早苗就“无核三原则”的表态含糊其辞](https://news.cctv.com/2026/08/06/ARTIAGtKTCCGoy9ttUT4LEIs260806.shtml)
+
++ [巴拿马设立运河特定区域安全联合指挥部](https://news.cctv.com/2026/08/06/ARTIevCbg1FWNwJGGVChO0ae260806.shtml)
+
++ [巴基斯坦称希望推动美伊恢复技术层面谈判](https://news.cctv.com/2026/08/06/ARTIRZRAdLWviZhusPQxM2Fu260806.shtml)
+
++ [美监管部门调查涉特朗普所乘直升机的飞行安全事件](https://news.cctv.com/2026/08/06/ARTIjmpSetQgZSb2Jxhz3f8S260806.shtml)
+
++ [中国驻以色列使馆再次提醒在以建筑工友切勿“打黑工”](https://news.cctv.com/2026/08/06/ARTIVV3xx1PpOHv5rrk9kSDI260806.shtml)
+
++ [特朗普否认美国弹药短缺 扬言严惩“爆料者”](https://news.cctv.com/2026/08/06/ARTInheaE6fn4JP1YcrFJJ1L260806.shtml)
+
