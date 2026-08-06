@@ -169,3 +169,15 @@
 
 + [以军证实数名以色列犹太人定居者非法潜入黎巴嫩](https://news.cctv.com/2026/08/06/ARTIELoFQCU1uoj0SyJL4CJ9260806.shtml)
 
++ [中国驻阿根廷使馆发言人就美方肆意破坏中阿合作发表谈话](https://news.cctv.com/2026/08/06/ARTIxgAzZKjPCC1ZenwjeDWk260806.shtml)
+
++ [国际足联就FFE商业提案致歉](https://news.cctv.com/2026/08/06/ARTIVi5yligUqP7EFlRebdFX260806.shtml)
+
++ [白宫否认特朗普与赫格塞思因弹药库存短缺发生争执](https://news.cctv.com/2026/08/06/ARTIaHlP7wdaxdNzUnvUcrFZ260806.shtml)
+
++ [“高市早苗政府‘新型军国主义’思维的赤裸表现”（国际视点）](https://news.cctv.com/2026/08/06/ARTIcPv0r7W5qzDtrFFGYLzP260806.shtml)
+
++ [美国“新门罗主义”持续搅动拉美地缘政治格局](https://news.cctv.com/2026/08/06/ARTI2FdvPVE0di0F6P6nwtcE260806.shtml)
+
++ [美副总统称与伊朗谈判将“充满波折且耗时”](https://news.cctv.com/2026/08/06/ARTIrf7y4KDKa4lJh7HSXGTo260806.shtml)
+
