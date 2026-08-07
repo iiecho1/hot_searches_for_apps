@@ -155,3 +155,17 @@
 
 + [Docker部署Stirling-PDF：本地PDF工具箱、持久化、登录安全与升级备份](https://blog.csdn.net/xiaominglao/article/details/163509895)
 
++ [我搭了人生第一个能开口说话的 AI：一次跑通语音 Agent 的全过程记录](https://blog.csdn.net/2401_86326742/article/details/163542254)
+
++ [远程玩飞车类游戏,ToDesk三款功能免费体验:游戏键盘、游戏鼠标和外接手柄](https://blog.csdn.net/2401_87629362/article/details/163564164)
+
++ [【多智能体编队】多智能体领导者编队控制和协调Matlab实现](https://blog.csdn.net/qq_59747472/article/details/163543171)
+
++ [Linux 信号（产生篇）：从键盘到内核解析信号的产生方式](https://blog.csdn.net/2402_90030627/article/details/163535361)
+
++ [【Linux网络】深入理解网络层：从IP协议格式，子网划分到NAT与路由机制](https://blog.csdn.net/Miun123/article/details/163391870)
+
++ [IDOR 不安全的直接对象引用：API 越权实战检测](https://blog.csdn.net/cui_yonghua/article/details/163567286)
+
++ [Oracle迁移至金仓数据库：兼容适配与性能优化实践](https://blog.csdn.net/yhrxh_ymq/article/details/163566457)
+

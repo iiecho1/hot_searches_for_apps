@@ -191,3 +191,7 @@
 
 + [泰国总理：暖武里校园枪击事件已致8死30余伤](https://news.cctv.com/2026/08/07/ARTIlt3fdevJ4ufIgTl1EuEl260807.shtml)
 
++ [印尼东努沙登加拉两座火山几乎同时喷发](https://news.cctv.com/2026/08/07/ARTIPatjCa9mrPn4P1Yy65zh260807.shtml)
+
++ [日本广岛废墟旁响起抗议声：勿忘历史、拒绝拥核](https://news.cctv.com/2026/08/07/ARTI5xO1U9K7gbY9BQOAePcO260807.shtml)
+
