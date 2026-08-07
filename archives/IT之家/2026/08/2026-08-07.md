@@ -25,3 +25,27 @@
 
 + [小米徐洁云就“孩 go”言论回应，称有小米用户养的宠物名字叫“孩 go”](https://m.ithome.com/html/986508.htm)
 
++ [存储涨价后：苹果上调多款 iPhone、iPad、Mac 及安卓手机以旧换新折抵价，最高达 25%](https://m.ithome.com/html/986745.htm)
+
++ [全新深蓝 S05 车型正式上市，限时优惠价 11.59 万元起](https://m.ithome.com/html/986722.htm)
+
++ [特斯拉中国上架 Model Y 单人充气床垫，659 元](https://m.ithome.com/html/986750.htm)
+
++ [网友喊话小米推“重庆特供版”空调，单联瑜称强劲风系列就是“火炉城市特供”](https://m.ithome.com/html/986749.htm)
+
++ [OpenAI：ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，Plus 和 Pro 用户更新聊天界面 GPT-5.6 Sol](https://m.ithome.com/html/986776.htm)
+
++ [首付 4.99 万起：小米 YU7 汽车 8 月购车权益公布，限时上线“轻松还”金融方案](https://m.ithome.com/html/986743.htm)
+
++ [研究发现广岛原子弹爆炸产生了一种以前未知的合金](https://m.ithome.com/html/986939.htm)
+
++ [即日起，ChatGPT 可以调用 Adobe Photoshop、Lightroom 来修图、设计了](https://m.ithome.com/html/986769.htm)
+
++ [小米公布 REDMI K100 Pro Max 影像规格：2 亿主摄、5X 潜望长焦](https://m.ithome.com/html/986805.htm)
+
++ [可直接调用微距、长焦：微信 iOS 版灰度测试相机多焦段切换功能](https://m.ithome.com/html/986727.htm)
+
++ [导航条也能防诈？华为鸿蒙 HarmonyOS 7 系统新增“小艺流光”功能](https://m.ithome.com/html/986696.htm)
+
++ [吉利谈速成车乱象：旗下新车平均开发周期达 3-5 年](https://m.ithome.com/html/986838.htm)
+

@@ -133,3 +133,25 @@
 
 + [SpringBoot三大核心注解全景深度解析：@RequestBody、@RequestParam、@ResponseBody（含Axios前后端联调闭环）](https://blog.csdn.net/snowball_li/article/details/163535116)
 
++ [一库融万象：金仓数据库多模融合在复杂业务场景下的实战落地](https://blog.csdn.net/2501_91062530/article/details/163562777)
+
++ [从零搭建 Kubernetes 单 Master 集群：CentOS 7 + containerd + Flannel 完整实录](https://blog.csdn.net/2401_82648291/article/details/163562890)
+
++ [5. PyCharm×鸿蒙Hypium：从0到跑通，少踩90%坑 ](https://blog.csdn.net/a_faint_hope/article/details/163544439)
+
++ [GitNexus + MCP 实战记录理解整个项目](https://blog.csdn.net/g984160547/article/details/163545787)
+
++ [《前端安全：XSS/CSRF 防御、CSP 策略依赖供应链审计 线上高并发排障实战》](https://blog.csdn.net/2301_77785315/article/details/163558686)
+
++ [ComfyUI v0.30.0发布：内存调度、视频保存、LTX2.3、MiniMax-H3与安全能力全面升级](https://blog.csdn.net/weixin_48502062/article/details/163491095)
+
++ [微服务授权中心](https://blog.csdn.net/cfm_2914/article/details/163544448)
+
++ [DeepSeek API接入codex指南](https://blog.csdn.net/qq_36729037/article/details/163505367)
+
++ [国赛机器人赛题攻略：从Reimagine“边干边学“到宇树IPO，五类机器人建模题的破题模板](https://blog.csdn.net/Tech_deer/article/details/163544771)
+
++ [微信小程序 WebView 调用原生能力并实现回调的完整指南](https://blog.csdn.net/nndsb/article/details/163552512)
+
++ [Docker部署Stirling-PDF：本地PDF工具箱、持久化、登录安全与升级备份](https://blog.csdn.net/xiaominglao/article/details/163509895)
+

@@ -189,3 +189,5 @@
 
 + [泰国暖武里府防灾减灾办公室：校园枪击案死亡人数升至7人](https://news.cctv.com/2026/08/07/ARTIZciItcQ53pf3TNkdafbp260807.shtml)
 
++ [泰国总理：暖武里校园枪击事件已致8死30余伤](https://news.cctv.com/2026/08/07/ARTIlt3fdevJ4ufIgTl1EuEl260807.shtml)
+
