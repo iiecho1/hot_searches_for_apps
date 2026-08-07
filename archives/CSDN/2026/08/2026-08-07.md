@@ -119,3 +119,17 @@
 
 + [Zookeeper - 节点权限的继承特性与使用避坑指南](https://blog.csdn.net/qq_41187124/article/details/157688511)
 
++ [一句话做出会下五子棋的 AI：Claude Code × 蓝耘 GLM-5.2 实战](https://blog.csdn.net/qq_57761637/article/details/163559594)
+
++ [从慢 SQL 到系统瓶颈：一次金仓数据库性能调优实战复盘](https://blog.csdn.net/lrq13965748542/article/details/163562693)
+
++ [Zookeeper - 超级管理员权限的配置与使用实操](https://blog.csdn.net/qq_41187124/article/details/157688499)
+
++ [Rancher、Docker、K8s、Jenkins、ArgoCD：五个工具，一条流水线](https://blog.csdn.net/2302_80237966/article/details/163543532)
+
++ [taobao运营系统接口实战指南：从商品管理到订单履约的全链路接入](https://blog.csdn.net/J15779585792/article/details/163540011)
+
++ [操作符的深入理解学习并实操](https://blog.csdn.net/DDXYcoder/article/details/163544385)
+
++ [SpringBoot三大核心注解全景深度解析：@RequestBody、@RequestParam、@ResponseBody（含Axios前后端联调闭环）](https://blog.csdn.net/snowball_li/article/details/163535116)
+
