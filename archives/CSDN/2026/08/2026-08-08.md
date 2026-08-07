@@ -101,3 +101,19 @@
 
 + [Wyn嵌入式BI实战（一）：JSON API带参数接入，多租户数据源配置指南](https://blog.csdn.net/powertoolsteam/article/details/163553501)
 
++ [第二十一届全国大学生智能汽车竞赛总决赛队伍名单](https://blog.csdn.net/zhuoqingjoking97298/article/details/163493457)
+
++ [AI 伪造满天飞，我拿腾讯云 5 个 Skill 搭了台照妖镜](https://blog.csdn.net/2301_76341691/article/details/163514903)
+
++ [make和makefile(自动化构建)](https://blog.csdn.net/2601_95175861/article/details/163501415)
+
++ [IDOR 不安全的直接对象引用：API 越权实战检测](https://blog.csdn.net/cui_yonghua/article/details/163567286)
+
++ [本地生活平台反爬虫攻防全解析：从接口抓包、浏览器指纹到滑块验证码与Token挑战](https://blog.csdn.net/qq_46987323/article/details/163543176)
+
++ [【mimo-硬件损伤-预编码】写在这个系列的结尾](https://blog.csdn.net/CAINIAOdaDIDI/article/details/163571415)
+
++ [Apache Doris 倒排索引工作原理：全文检索提速 59 倍，点查提速 14 倍](https://blog.csdn.net/SelectDB_Fly/article/details/163507675)
+
++ [ComfyUI v0.30.0发布：内存调度、视频保存、LTX2.3、MiniMax-H3与安全能力全面升级](https://blog.csdn.net/weixin_48502062/article/details/163491095)
+
