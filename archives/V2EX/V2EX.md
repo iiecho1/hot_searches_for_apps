@@ -49,3 +49,13 @@
 
 + [干部带头休假 人在无语的时候真的会笑出来](https://www.v2ex.com/t/1232614)
 
++ [从 windows 切换到 MacOS，感觉 MacOS 不好用。](https://www.v2ex.com/t/1232697)
+
++ [大家有用小米或者其他手机替代 iPhone 的吗](https://www.v2ex.com/t/1232628)
+
++ [如果女朋友转发这个，你们会给吗](https://www.v2ex.com/t/1232701)
+
++ [[分享创造] 16 年业余时间写 PDF 核心，近两年做了一款 Mac PDF 编辑器：全功能编辑 + AI 智能体， 1.0 已上 Mac App Store，送 20 个终生会员求反馈](https://www.v2ex.com/t/1232634)
+
++ [妙控板还是妙控鼠标？](https://www.v2ex.com/t/1232627)
+
