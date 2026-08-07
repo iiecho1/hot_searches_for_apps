@@ -117,3 +117,11 @@
 
 + [ComfyUI v0.30.0发布：内存调度、视频保存、LTX2.3、MiniMax-H3与安全能力全面升级](https://blog.csdn.net/weixin_48502062/article/details/163491095)
 
++ [2026国内主流AI编程工具指南：Trae、Kimi Code、通义灵码、CodeGeeX全解析](https://blog.csdn.net/2402_88969947/article/details/163543515)
+
++ [MongoDB装上就能用？认证、用户权限和公网连接一步都不能少](https://blog.csdn.net/2301_80840905/article/details/163573766)
+
++ [从烟囱到融合：一次MongoDB迁移引发的架构重构深思](https://blog.csdn.net/qq_32682301/article/details/163549224)
+
++ [我把 Doubao-Seed-Evolving 丢进真实 Android 项目：8/1 更新后，它真的能独立修 Bug 吗？](https://blog.csdn.net/u013132758/article/details/163558937)
+
