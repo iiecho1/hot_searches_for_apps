@@ -165,3 +165,9 @@
 
 + [联合国特使：也门再次爆发大规模冲突风险升至四年多来最高水平](https://news.cctv.com/2026/08/08/ARTIMLmz8dUEaqfuoq1qjOZ2260808.shtml)
 
++ [伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步](https://news.cctv.com/2026/08/08/ARTIybW0B0BcjrSyzEIysuQw260808.shtml)
+
++ [西班牙将对来自意大利的旅客实施临时边境检查](https://news.cctv.com/2026/08/08/ARTIaKZGdmtHPvLfb9CNBUPn260808.shtml)
+
++ [俄乌互袭对方黑海船只等军事目标](https://news.cctv.com/2026/08/08/ARTI4TntUYP8B1MrUYOPe28c260808.shtml)
+
