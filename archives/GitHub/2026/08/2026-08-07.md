@@ -27,3 +27,23 @@
 
 + [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 
++ [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+
++ [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
+
++ [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+
++ [chenyme/grok2api](https://github.com/chenyme/grok2api)
+
++ [jdx/mise](https://github.com/jdx/mise)
+
++ [unclebob/swarm-forge](https://github.com/unclebob/swarm-forge)
+
++ [denoland/celld](https://github.com/denoland/celld)
+
++ [K2SOsint/Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT)
+
++ [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+
++ [google/skills](https://github.com/google/skills)
+
