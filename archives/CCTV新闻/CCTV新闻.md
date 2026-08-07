@@ -187,3 +187,5 @@
 
 + [特朗普行政令收紧“出生公民权” 遏止“生育旅游”](https://news.cctv.com/2026/08/07/ARTIWuN65nJXm6PwmMeUOYfd260807.shtml)
 
++ [泰国暖武里府防灾减灾办公室：校园枪击案死亡人数升至7人](https://news.cctv.com/2026/08/07/ARTIZciItcQ53pf3TNkdafbp260807.shtml)
+

@@ -101,3 +101,21 @@
 
 + [记录Docker 部署 RabbitMQ 三节点集群](https://blog.csdn.net/qq_45502554/article/details/163510788)
 
++ [AI聊天也能拥有Live2D形象？Open-LLM-VTuber部署实战](https://blog.csdn.net/EterNity_TiMe_/article/details/163470652)
+
++ [点击即讲解，开口即陪伴：具身交互智能驱动的 Digital Garden 数字花园](https://blog.csdn.net/weixin_62765017/article/details/163542150)
+
++ [商用车多体动力学实战笔记｜第 8 篇：魔术公式轮胎全套参数标定与联合滑移计算](https://blog.csdn.net/weixin_62244995/article/details/162997933)
+
++ [KingbaseES 全文检索实战：中文分词、GIN 索引与相关性排名](https://blog.csdn.net/m0_71592416/article/details/163558520)
+
++ [LLM-Cookbook学习——面向开发者的提示工程：迭代优化](https://blog.csdn.net/m0_65015287/article/details/163541810)
+
++ [MyBatis XML开发全面指南](https://blog.csdn.net/2401_83281222/article/details/163474956)
+
++ [Docker服务挂了还在敲命令?用Portainer一页看完容器和日志](https://blog.csdn.net/qq_51601665/article/details/163555251)
+
++ [网盘越来越多，影音库越来越乱？用LitePan统一管理115、百度和夸克](https://blog.csdn.net/Tiam_cr/article/details/163540903)
+
++ [Zookeeper - 节点权限的继承特性与使用避坑指南](https://blog.csdn.net/qq_41187124/article/details/157688511)
+
