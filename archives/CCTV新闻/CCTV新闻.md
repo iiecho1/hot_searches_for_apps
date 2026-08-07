@@ -169,3 +169,21 @@
 
 + [特朗普称继续支持国防部长赫格塞思](https://news.cctv.com/2026/08/07/ARTIdJuTVjmk6p61mdwfHYqd260807.shtml)
 
++ [泰国校园枪击事件凶手被发现已死亡 疑为自杀](https://news.cctv.com/2026/08/07/ARTIgj4u5FPA1se4q2ainMRm260807.shtml)
+
++ [泰国校园枪击案已致2人死亡 枪手仍藏在学校附近](https://news.cctv.com/2026/08/07/ARTIynfwzUlEHuaEUzUM7iRU260807.shtml)
+
++ [泰国发生校园枪击事件 多人受伤](https://news.cctv.com/2026/08/07/ARTIOIEoJuNltZoBOJpYkAvN260807.shtml)
+
++ [日本二季度3次干预外汇市场未改日元贬值趋势](https://news.cctv.com/2026/08/07/ARTI5fvO19oaf9oMv5CEPcXL260807.shtml)
+
++ [日本新版《防卫白皮书》，满篇野心和谎言（钟声）](https://news.cctv.com/2026/08/07/ARTIzggZxga0HuC77Ydxr3j5260807.shtml)
+
++ [中国渔船在海上救起5名塞拉利昂渔民](https://news.cctv.com/2026/08/07/ARTIcS9nNW5txUZJZOmScAg3260807.shtml)
+
++ [美将对多晶硅衍生品加征关税 引入最低进口价机制](https://news.cctv.com/2026/08/07/ARTIQ7tuqp3weJlK026slXMm260807.shtml)
+
++ [金价大反弹！黄金以旧换新业务火热，记者探访](https://jingji.cctv.com/2026/08/07/ARTIi6xZkpTIuaGOl56cYLB1260807.shtml)
+
++ [特朗普行政令收紧“出生公民权” 遏止“生育旅游”](https://news.cctv.com/2026/08/07/ARTIWuN65nJXm6PwmMeUOYfd260807.shtml)
+
