@@ -59,3 +59,5 @@
 
 + [妙控板还是妙控鼠标？](https://www.v2ex.com/t/1232627)
 
++ [沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布](https://www.v2ex.com/t/1232738)
+

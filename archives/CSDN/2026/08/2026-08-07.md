@@ -169,3 +169,25 @@
 
 + [Oracle迁移至金仓数据库：兼容适配与性能优化实践](https://blog.csdn.net/yhrxh_ymq/article/details/163566457)
 
++ [从144G到64G的极致压缩：K100_AI单卡部署MiniMax-H3全模态模型的实战（含详细部署步骤）](https://blog.csdn.net/pla88888888/article/details/163570600)
+
++ [BlueZ 5.x 整体架构总览：用户态 + 内核态分层设计核心逻辑](https://blog.csdn.net/weixin_37800531/article/details/163418857)
+
++ [OmniRoute 完全指南：免费开源 AI 网关，一个端口管理 250+ 大模型](https://blog.csdn.net/zhangay1998/article/details/162763307)
+
++ [HarmonyOS 6.1.1：让 Canvas 的文字抗锯齿进入运行时](https://blog.csdn.net/TKK1234567890/article/details/163571195)
+
++ [Mac 远程桌面体验：6 个工具的 macOS 适配情况整理](https://blog.csdn.net/2401_89899187/article/details/163543898)
+
++ [Ubuntu 还是 CentOS？云服务器部署全流程对比与实操指南](https://blog.csdn.net/csdn_silent/article/details/163552432)
+
++ [从静态页面到3D交互世界：Kimi K3前端开发能力的全维度压力测试](https://blog.csdn.net/sghtgjfhv/article/details/163512089)
+
++ [【LangChain】 LLM 与 Embedding 深度解析：底层原理、提示词工程、原生接入与实战指南](https://blog.csdn.net/yhrxh_ymq/article/details/163474924)
+
++ [软件工程：模块化](https://blog.csdn.net/m0_62617719/article/details/162893985)
+
++ [SpringBoot+Flowable 用户任务超时设计：催办、自动同意、自动拒绝如何落到 BPMN](https://blog.csdn.net/zhouzhongyan/article/details/163543849)
+
++ [Wyn嵌入式BI实战（一）：JSON API带参数接入，多租户数据源配置指南](https://blog.csdn.net/powertoolsteam/article/details/163553501)
+
