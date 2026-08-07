@@ -161,3 +161,11 @@
 
 + [俄罗斯国产MC-21-310客机完成首飞](https://news.cctv.com/2026/08/04/ARTIUfdCBrH2FGmTCjd1MdjR260804.shtml)
 
++ [特朗普：美国某些弹药供应相对紧张](https://news.cctv.com/2026/08/07/ARTI6NaoaEDCzrDHP9ckN1QT260807.shtml)
+
++ [近期恶劣天气致菲律宾逾13万人受灾](https://news.cctv.com/2026/08/07/ARTIucqmpC699Zi9zsmPogAb260807.shtml)
+
++ [伊朗拟设霍尔木兹海峡新规瞄准美以 美国“硬蹭”谈判桌](https://news.cctv.com/2026/08/07/ARTIiHuk9X5KnhFJ4TqrD6kT260807.shtml)
+
++ [特朗普称继续支持国防部长赫格塞思](https://news.cctv.com/2026/08/07/ARTIdJuTVjmk6p61mdwfHYqd260807.shtml)
+
