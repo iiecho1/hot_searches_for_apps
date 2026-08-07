@@ -21,3 +21,5 @@
 
 + [大家有用小米或者其他手机替代 iPhone 的吗](https://www.v2ex.com/t/1232628)
 
++ [妙控板还是妙控鼠标？](https://www.v2ex.com/t/1232627)
+
