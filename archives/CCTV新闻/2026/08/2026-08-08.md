@@ -161,3 +161,7 @@
 
 + [世卫组织：刚果（金）埃博拉疫情蔓延速度已超应对能力](https://news.cctv.com/2026/08/04/ARTIskh21rgKrIzEr1nyRrL4260804.shtml)
 
++ [美联邦航空局发布适航指令 要求检查部分波音客机](https://news.cctv.com/2026/08/08/ARTIU6vujAhgeG61klWiizJS260808.shtml)
+
++ [联合国特使：也门再次爆发大规模冲突风险升至四年多来最高水平](https://news.cctv.com/2026/08/08/ARTIMLmz8dUEaqfuoq1qjOZ2260808.shtml)
+
