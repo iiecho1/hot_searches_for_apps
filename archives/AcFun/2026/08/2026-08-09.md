@@ -63,3 +63,5 @@
 
 + [当我取名“世界第一中单”而队友是Hide on bush 快速看完一局韩服王者斗殴局#795 Pey](https://m.acfun.cn/v/?ac=48752745)
 
++ [终于破纪录了](https://m.acfun.cn/v/?ac=48760822)
+
