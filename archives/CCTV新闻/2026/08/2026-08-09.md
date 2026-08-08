@@ -165,3 +165,5 @@
 
 + [秘鲁库斯科一客车与一卡车相撞 致9死6伤](https://news.cctv.com/2026/08/09/ARTIw1EPeas5KJQlXtSK99Zs260809.shtml)
 
++ [伊朗媒体展示被击落的美以飞机残骸](https://news.cctv.com/2026/08/09/ARTIFVKAOyMLWmNczqxcOLW3260809.shtml)
+
