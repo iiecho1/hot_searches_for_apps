@@ -177,3 +177,27 @@
 
 + [群晖NAS部署Code-Server：浏览器远程开发完整教程](https://blog.csdn.net/qyj19920704/article/details/163533171)
 
++ [Windows部署EasyVoice：小说转语音并实现手机远程收听](https://blog.csdn.net/Z_oioihoii/article/details/163537875)
+
++ [聊聊KingbaseES V9的MongoDB兼容版：到底怎么个平替法？](https://blog.csdn.net/weixin_43151418/article/details/163587881)
+
++ [我用声网对话式AI做了一个支持语音对话的 AI 厨房搭子：八戒厨房](https://blog.csdn.net/jiang_style/article/details/163554276)
+
++ [【金仓数据库征文】KFS MCP Server接入KFS集群的配置实践：打造零信任数据库运维助手](https://blog.csdn.net/u014727709/article/details/163588028)
+
++ [【全模态】音视频理解模型Audio-Visual Flamingo](https://blog.csdn.net/qq_35812205/article/details/163422200)
+
++ [Spring Boot 微服务 API 三层分级设计](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163558060)
+
++ [Linux网络部分——基于UDP的四大接口，实例应用，常考汇总，完整服务端、客户端设计流程+代码](https://blog.csdn.net/oooooooooooohd/article/details/163587332)
+
++ [行业笔记｜高压连接器瞬态接触退化通用检测方法论](https://blog.csdn.net/weixin_62244995/article/details/162911355)
+
++ [运维转大模型：脚本经验能直接迁移？权限日志才是 Agent 上线的门槛](https://blog.csdn.net/LLM_9528/article/details/163589059)
+
++ [达梦 DM9 K8s 密评合规部署｜等保三级 + 密评双标准安全加固（金融级实测通过）](https://blog.csdn.net/xdsfsadfas/article/details/163564758)
+
++ [分布式知识梳理(2)](https://blog.csdn.net/2301_78547133/article/details/163571499)
+
++ [告别多端重复开发：Buildroot+Flutter实现全平台UI风格统一](https://blog.csdn.net/m0_46665078/article/details/163553584)
+

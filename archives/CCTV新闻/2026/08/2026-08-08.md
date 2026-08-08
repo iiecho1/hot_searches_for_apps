@@ -193,3 +193,7 @@
 
 + [乌称基辅等地遭袭 已有多人死伤](https://news.cctv.com/2026/08/08/ARTIQeBlpfRZUZnFBClhTJRC260808.shtml)
 
++ [美参议院通过临时拨款法案](https://news.cctv.com/2026/08/08/ARTIphEsl4fCDyHPLl8X17Gt260808.shtml)
+
++ [韩国足协就世界杯失利及系列争议发布致歉信](https://news.cctv.com/2026/08/08/ARTIagjuoSJcaPAmaQzxqzVq260808.shtml)
+

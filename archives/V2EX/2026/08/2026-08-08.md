@@ -65,3 +65,7 @@
 
 + [说说为什么明明只用一把键盘,家里还有七把](https://www.v2ex.com/t/1232899)
 
++ [codex 接 deepseek 的 api 能用么？](https://www.v2ex.com/t/1232858)
+
++ [Claude Code 能不能接便宜点的 Claude 中转？官方有点用不起了](https://www.v2ex.com/t/1232879)
+
