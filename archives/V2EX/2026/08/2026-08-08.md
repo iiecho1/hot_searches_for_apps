@@ -71,3 +71,7 @@
 
 + [厄运专找苦命人，看中山大学 23 岁博士确诊胃癌晚期有感](https://www.v2ex.com/t/1232900)
 
++ [分享一个 ublock origin 规则，屏蔽 x 上的黄色评论](https://www.v2ex.com/t/1232883)
+
++ [真的不建议任何人用中转 2](https://www.v2ex.com/t/1232923)
+
