@@ -205,3 +205,7 @@
 
 + [克罗地亚两列火车相撞致20人受伤](https://news.cctv.com/2026/08/08/ARTIzyeM8s4HHSiRdXjGp0ma260808.shtml)
 
++ [美参议院通过临时拨款法案 暂缓政府“停摆”风险](https://news.cctv.com/2026/08/08/ARTIW6xkFcMG9hu3rXP8pO2R260808.shtml)
+
++ [罗马尼亚国防部称未发现空中目标经该国领空进入保加利亚](https://news.cctv.com/2026/08/08/ARTIfaGwLdeqaX9nRuQz1jG6260808.shtml)
+
