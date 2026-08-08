@@ -127,3 +127,21 @@
 
 + [PDF 色彩保真工程实践【7】需求交给 GPT，实现交给 Github Copilot](https://blog.csdn.net/lzfly/article/details/163365592)
 
++ [DolphinDB 能耗预测实战：基于历史数据的时序预测模型与评估体系（v3.x）](https://blog.csdn.net/sinat_41617212/article/details/163507933)
+
++ [PyTorch计算机视觉（5）——生成对抗网络（Generative Adversarial Network，GAN）](https://blog.csdn.net/LOVEmy134611/article/details/162059227)
+
++ [DM8数据库布局和存储管理：构建高性能存储体系的实践指南](https://blog.csdn.net/qq_41840843/article/details/163573961)
+
++ [SQL Server数据迁移实战：KES V9R4C019破解复杂查询性能瓶颈，BI报表实现秒级输出](https://blog.csdn.net/beautifulmemory/article/details/163531987)
+
++ [Oracle迁移至金仓数据库：兼容适配与性能优化实践](https://blog.csdn.net/yhrxh_ymq/article/details/163566457)
+
++ [【高等几何 梅向明 第一章】正交变换与仿射变换](https://blog.csdn.net/he_zhidan/article/details/163356161)
+
++ [深入理解C++继承：从概念到实践](https://blog.csdn.net/2501_94404690/article/details/163537403)
+
++ [【Vue3速成】08-vue3异步请求之Axios-02](https://blog.csdn.net/2301_81982617/article/details/163506545)
+
++ [【科普】【差集&交集概念落地云相册】流食般投喂](https://blog.csdn.net/dj_798/article/details/163338240)
+

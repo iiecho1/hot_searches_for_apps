@@ -171,3 +171,11 @@
 
 + [俄乌互袭对方黑海船只等军事目标](https://news.cctv.com/2026/08/08/ARTI4TntUYP8B1MrUYOPe28c260808.shtml)
 
++ [国际奥委会发布报告 聚焦网络恶意攻击与体育](https://news.cctv.com/2026/08/08/ARTImXbOyD6vVlqs1SMVYRYp260808.shtml)
+
++ [日本熊本地震已致39人死亡](https://news.cctv.com/2026/08/08/ARTIoqDTDpUTEzgdn1mny8q3260808.shtml)
+
++ [油价、金价、银价，都涨了](https://news.cctv.com/2026/08/08/ARTIdKhig2A4azmomGxxGdax260808.shtml)
+
++ [受台风“白海豚”影响 日本超5万用户停电](https://news.cctv.com/2026/08/08/ARTI6a2Gt5Qwn9FUVsx2Kc4G260808.shtml)
+

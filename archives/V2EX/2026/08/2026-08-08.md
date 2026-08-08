@@ -23,3 +23,17 @@
 
 + [妙控板还是妙控鼠标？](https://www.v2ex.com/t/1232627)
 
++ [[推广]GPT 中转站，目前只做 PRO，注册免费送 DeepSeek 调用 15 天，总额度大约 700 人民币，先到先得，用完截止](https://www.v2ex.com/t/1232658)
+
++ [WorkBuddy 是真好用](https://www.v2ex.com/t/1232713)
+
++ [晋升不调薪怎么办](https://www.v2ex.com/t/1232648)
+
++ [两台 dgx-spark 部署满血 deepseek v4 flash 完全指南,稳定 60~70tok/s 单流](https://www.v2ex.com/t/1232688)
+
++ [如果是这种情况你们还跑路吗？](https://www.v2ex.com/t/1232711)
+
++ [[求推荐] 好用的 GPT 中转站，常用的站崩了](https://www.v2ex.com/t/1232643)
+
++ [AI Coding 还看源代码吗？要是不看，会害怕血崩吗？](https://www.v2ex.com/t/1232732)
+

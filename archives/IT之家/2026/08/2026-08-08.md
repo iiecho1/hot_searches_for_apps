@@ -25,3 +25,21 @@
 
 + [吉利谈速成车乱象：旗下新车平均开发周期达 3-5 年](https://m.ithome.com/html/986838.htm)
 
++ [运营商低价竞争时代终结：中国联通杭州渠道佣金骤减 40%，融合宽带月租从 28 元涨至 79 元](https://m.ithome.com/html/987172.htm)
+
++ [撤回的撤回：微信已支持删除“你撤回了一条消息”灰色小字](https://m.ithome.com/html/987203.htm)
+
++ [消息称雪佛兰退出中国市场，还会生产但是不卖了](https://m.ithome.com/html/987145.htm)
+
++ [又一演员授权 AI 形象，戚薇宣布推出个人官方数字分身、主演 AI 漫剧](https://m.ithome.com/html/986933.htm)
+
++ [AI 艺人“方桃子”带货美瞳广告遭下架，声称“戴了一天都很舒服”](https://m.ithome.com/html/987103.htm)
+
++ [小米“迄今最清晰、最聪明”智能摄像机 4 Max AI 变焦版开售，券后 739 元](https://m.ithome.com/html/986847.htm)
+
++ [小米 REDMI K100 Pro Max 搭载 2.1 立体声系统，Sound by Bose 技术联合调音](https://m.ithome.com/html/986925.htm)
+
++ [产品定义顶级：消息称华为阔直板新机已 Ready，方案属是行业首发](https://m.ithome.com/html/987131.htm)
+
++ [比亚迪 2027 款海豹 06 全新车色官图发布：定位“B 级满配家轿”，首批展车到店](https://m.ithome.com/html/987198.htm)
+
