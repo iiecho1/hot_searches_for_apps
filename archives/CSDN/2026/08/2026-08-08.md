@@ -125,3 +125,5 @@
 
 + [我把 Doubao-Seed-Evolving 丢进真实 Android 项目：8/1 更新后，它真的能独立修 Bug 吗？](https://blog.csdn.net/u013132758/article/details/163558937)
 
++ [PDF 色彩保真工程实践【7】需求交给 GPT，实现交给 Github Copilot](https://blog.csdn.net/lzfly/article/details/163365592)
+
