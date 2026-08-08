@@ -197,3 +197,9 @@
 
 + [韩国足协就世界杯失利及系列争议发布致歉信](https://news.cctv.com/2026/08/08/ARTIagjuoSJcaPAmaQzxqzVq260808.shtml)
 
++ [霍尔木兹海峡关闭致伊拉克石油出口骤降75%](https://news.cctv.com/2026/08/08/ARTIrNPE97AEjIClnUXbTUc2260808.shtml)
+
++ [泰国校园枪击案死亡人数升至9人](https://news.cctv.com/2026/08/08/ARTIdeA4C48qGVQZngbIjbR7260808.shtml)
+
++ [伊官员：有证据显示美军使用磷弹轰炸伊朗多地](https://news.cctv.com/2026/08/08/ARTIW7fOWmwAfsZ9BoUT7moS260808.shtml)
+

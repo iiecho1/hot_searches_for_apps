@@ -201,3 +201,15 @@
 
 + [告别多端重复开发：Buildroot+Flutter实现全平台UI风格统一](https://blog.csdn.net/m0_46665078/article/details/163553584)
 
++ [Day 10 · 邮件 + AI：智能分类与自动回复](https://blog.csdn.net/2601_96428997/article/details/163397280)
+
++ [【MYSQL】MYSQL学习的一大重点：用户与权限管理](https://blog.csdn.net/2401_89899187/article/details/163281396)
+
++ [Linux网络部分——UDP内部链接关系，服务端、客户端在网络中的联系，公网、内网、本地环回](https://blog.csdn.net/oooooooooooohd/article/details/163583007)
+
++ [多分支机构困局：中小企业异地设备组网的新思路](https://blog.csdn.net/hanwangyyds/article/details/163558277)
+
++ [【守护进程】从进程组到守护进程——Linux 服务化的底层基石](https://blog.csdn.net/2302_80243065/article/details/163591427)
+
++ [你的 Agent 项目为什么只能跑 Demo？Java 转大模型，卡在权限和可观测](https://blog.csdn.net/LLM_9528/article/details/163590924)
+

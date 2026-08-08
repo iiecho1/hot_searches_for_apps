@@ -35,3 +35,13 @@
 
 + [google/skills](https://github.com/google/skills)
 
++ [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [litu54/DevOps-Interview-Guide](https://github.com/litu54/DevOps-Interview-Guide)
+
++ [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+
