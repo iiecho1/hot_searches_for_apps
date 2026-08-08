@@ -47,3 +47,11 @@
 
 + [终于看到 V2 有人发 mac 不好用了....我一直以为只有我觉得难用](https://www.v2ex.com/t/1232881)
 
++ [codex 似乎要重置啦](https://www.v2ex.com/t/1232843)
+
++ [WitNote 2.0.1：一次 macOS 原生重构，也把本地 AI 放回了自己的 Mac](https://www.v2ex.com/t/1232801)
+
++ [如何 vibe 成本那么低，什么才是护城河？或者我们需要护城河吗？](https://www.v2ex.com/t/1232841)
+
++ [中了甲状腺癌之后，才知道原来得这个癌的人这么多？](https://www.v2ex.com/t/1232777)
+

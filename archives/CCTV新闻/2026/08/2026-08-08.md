@@ -187,3 +187,7 @@
 
 + [消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标](https://news.cctv.com/2026/08/08/ARTIQruDVTceQSIFT77h8sVQ260808.shtml)
 
++ [中国驻泰使馆提醒：遵守当地法律法规 文明有序参加文体活动](https://news.cctv.com/2026/08/08/ARTINRopAJyUbg17UYIbpJSr260808.shtml)
+
++ [美国阿拉斯加州发生5.2级地震](https://news.cctv.com/2026/08/08/ARTIB1ie5KmRhX7NED5ajUnf260808.shtml)
+

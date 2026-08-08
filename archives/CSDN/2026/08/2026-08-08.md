@@ -167,3 +167,13 @@
 
 + [C# .NET 周刊 ｜2026 年 7 月 2 期](https://blog.csdn.net/qq_27441069/article/details/163572943)
 
++ [Re：Linux系统篇（五十二）线程篇 · 五：直击 Linux 内核底层：TCB 与 LWP 一体两面全解析（附自定义线程封装）](https://blog.csdn.net/Z2314246476/article/details/163481224)
+
++ [从专科到全栈：我写了一个专升本备考助手，顺便打通了 Vue+Electron+Cloudflare 技术栈](https://blog.csdn.net/hajai/article/details/163570682)
+
++ [从实验室到路测场：2026广州测试测量展见证汽车品质新高度](https://blog.csdn.net/ws201907/article/details/163522240)
+
++ [汽车应急启动电源方案开发](https://blog.csdn.net/szxcwk/article/details/163530788)
+
++ [群晖NAS部署Code-Server：浏览器远程开发完整教程](https://blog.csdn.net/qyj19920704/article/details/163533171)
+
