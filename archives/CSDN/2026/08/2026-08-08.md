@@ -145,3 +145,5 @@
 
 + [【科普】【差集&交集概念落地云相册】流食般投喂](https://blog.csdn.net/dj_798/article/details/163338240)
 
++ [从聊天到委派：AI Agent 如何推进长期任务](https://blog.csdn.net/weixin_74809706/article/details/163494733)
+

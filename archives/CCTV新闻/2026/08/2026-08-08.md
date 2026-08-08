@@ -179,3 +179,9 @@
 
 + [受台风“白海豚”影响 日本超5万用户停电](https://news.cctv.com/2026/08/08/ARTI6a2Gt5Qwn9FUVsx2Kc4G260808.shtml)
 
++ [美媒：五角大楼拟年底前首次测试“金穹”反导系统](https://news.cctv.com/2026/08/08/ARTIi3guar0VLw9rqPUSrGQb260808.shtml)
+
++ [黎巴嫩：黎以谈判在边界问题等方面取得进展](https://news.cctv.com/2026/08/08/ARTIqRhRKUjk0N8jze4zPvCi260808.shtml)
+
++ [土耳其称沙土巴三国防务协议与北约条款不冲突](https://news.cctv.com/2026/08/08/ARTIVMjrWZEWyzNQuOdngL8Y260808.shtml)
+
