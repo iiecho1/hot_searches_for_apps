@@ -161,3 +161,5 @@
 
 + [特朗普敦促美参议院通过全年采用夏令时法案](https://news.cctv.com/2026/08/05/ARTIxczDmKNbMjNvnRSrgv0U260805.shtml)
 
++ [一直升机在巴西里约坠毁 造成至少4人死亡](https://news.cctv.com/2026/08/09/ARTIiYrmgU2RAPtYCVV9OhyF260809.shtml)
+
