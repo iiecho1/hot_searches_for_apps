@@ -191,3 +191,5 @@
 
 + [美国阿拉斯加州发生5.2级地震](https://news.cctv.com/2026/08/08/ARTIB1ie5KmRhX7NED5ajUnf260808.shtml)
 
++ [乌称基辅等地遭袭 已有多人死伤](https://news.cctv.com/2026/08/08/ARTIQeBlpfRZUZnFBClhTJRC260808.shtml)
+

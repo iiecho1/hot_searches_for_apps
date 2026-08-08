@@ -55,3 +55,11 @@
 
 + [中了甲状腺癌之后，才知道原来得这个癌的人这么多？](https://www.v2ex.com/t/1232777)
 
++ [Opencode Go 套餐的 DeepSeek V4 Flash 涨价了，注意用量](https://www.v2ex.com/t/1232772)
+
++ [一几年的黄焖鸡彻底消失了吗?有没有教程想自己做,太想念那一口汤拌饭了!](https://www.v2ex.com/t/1232805)
+
++ [Grok 4.5 做的江湖武侠游戏](https://www.v2ex.com/t/1232867)
+
++ [现在封号还严重吗 我用苹果账户又订阅上了 claude 不知道会不会被封](https://www.v2ex.com/t/1232798)
+
