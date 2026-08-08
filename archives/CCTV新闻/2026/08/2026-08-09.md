@@ -167,3 +167,5 @@
 
 + [伊朗媒体展示被击落的美以飞机残骸](https://news.cctv.com/2026/08/09/ARTIFVKAOyMLWmNczqxcOLW3260809.shtml)
 
++ [消息人士：美“爱国者”导弹库存不足1700枚](https://news.cctv.com/2026/08/09/ARTIEWNRFhRDJjBWj47uhl1X260809.shtml)
+

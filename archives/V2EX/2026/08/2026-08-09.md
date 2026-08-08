@@ -23,3 +23,5 @@
 
 + [codex 接 deepseek 的 api 能用么？](https://www.v2ex.com/t/1232858)
 
++ [[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）](https://www.v2ex.com/t/1232965)
+
