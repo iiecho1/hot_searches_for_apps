@@ -21,3 +21,5 @@
 
 + [iphone18 来了，大家倾向于怎样换机](https://www.v2ex.com/t/1232921)
 
++ [codex 接 deepseek 的 api 能用么？](https://www.v2ex.com/t/1232858)
+

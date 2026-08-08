@@ -127,3 +127,7 @@
 
 + [Windows部署MySpeed：记录网络测速结果并实现远程查看](https://blog.csdn.net/qq_54796785/article/details/163542383)
 
++ [我搭了人生第一个能开口说话的 AI：一次跑通语音 Agent 的全过程记录](https://blog.csdn.net/2401_86326742/article/details/163542254)
+
++ [基于YOLO的七种车辆类型检测系统：YOLOv8/YOLOv10/YOLOv11/YOLOv12/YOLO26五模型对比与全栈架构实现|Vue3+SpringBoot+Flask+MySQL](https://blog.csdn.net/m0_68036862/article/details/163592060)
+
