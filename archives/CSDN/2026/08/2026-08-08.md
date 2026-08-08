@@ -213,3 +213,11 @@
 
 + [你的 Agent 项目为什么只能跑 Demo？Java 转大模型，卡在权限和可观测](https://blog.csdn.net/LLM_9528/article/details/163590924)
 
++ [让日志清理自己跑起来：Ansible、Cron和远程SSH自动化实战](https://blog.csdn.net/2302_78391795/article/details/163562981)
+
++ [读懂 MCP 与 A2A 架构：AI 多智能体时代的企业级开发实践](https://blog.csdn.net/weixin_52908342/article/details/163573581)
+
++ [AI 可观测性实战：从一条链路到最小可测性单元](https://blog.csdn.net/2303_77143335/article/details/163527903)
+
++ [K8s 资源混乱怎么办？Namespace 隔离 + 上下文切换实战](https://blog.csdn.net/2602_95508776/article/details/163540168)
+
