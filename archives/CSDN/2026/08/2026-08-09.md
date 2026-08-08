@@ -101,3 +101,21 @@
 
 + [【计算机网络 | 第四章】网络层](https://blog.csdn.net/2502_94242477/article/details/163515025)
 
++ [DeepSeek 要涨价 30 倍？我算了一笔账：涨完可能比 GPT-5.5 还贵](https://blog.csdn.net/qq_40374604/article/details/163595472)
+
++ [Windows部署EasyVoice：小说转语音并实现手机远程收听](https://blog.csdn.net/Z_oioihoii/article/details/163537875)
+
++ [第二十一届全国大学生智能车竞赛总决赛准备会议](https://blog.csdn.net/zhuoqingjoking97298/article/details/163522332)
+
++ [iPhone照片怎么传到Windows？用PairDrop做一个跨设备传输站](https://blog.csdn.net/u014727709/article/details/163534872)
+
++ [OmniRoute 完全指南：免费开源 AI 网关，一个端口管理 250+ 大模型](https://blog.csdn.net/zhangay1998/article/details/162763307)
+
++ [Linux网络部分——UDP内部链接关系，服务端、客户端在网络中的联系，公网、内网、本地环回](https://blog.csdn.net/oooooooooooohd/article/details/163583007)
+
++ [工控数据存储：SQLServer 本地库 VS 时序数据库选型分析（含代码+避坑指南）](https://blog.csdn.net/William_cl/article/details/163594155)
+
++ [AI 伪造满天飞，我拿腾讯云 5 个 Skill 搭了台照妖镜](https://blog.csdn.net/2301_76341691/article/details/163514903)
+
++ [Docker 网络故障排查记：当 bridge 模式失效时，host 模式如何救场](https://blog.csdn.net/wsad0532/article/details/163573739)
+
