@@ -147,3 +147,23 @@
 
 + [从聊天到委派：AI Agent 如何推进长期任务](https://blog.csdn.net/weixin_74809706/article/details/163494733)
 
++ [MongoDB 迁移新思路：KingbaseES 一体化多模架构破除烟囱式数据孤岛，实现零代码业务平滑切换](https://blog.csdn.net/beautifulmemory/article/details/163514712)
+
++ [借助小鸿AI硬件给AI Agent 装上耳朵和嘴巴，我的贾维斯活了](https://blog.csdn.net/qq8864/article/details/163556576)
+
++ [GitHub 热榜项目 - 周榜(2026-08-08)](https://blog.csdn.net/u014390502/article/details/163583883)
+
++ [Java 后端转大模型：Demo 能跑只是入场券，权限和可观测才是生死线](https://blog.csdn.net/2601_96285276/article/details/163572179)
+
++ [【论文写作模板】2026华数杯数学建模A题B题C题思路代码+成品文章](https://blog.csdn.net/2501_94006413/article/details/163541387)
+
++ [8.34MW 纺织厂分布式光伏完整落地方案｜一站式解决并网、运维、收益管控](https://blog.csdn.net/Ffqq777/article/details/163523079)
+
++ [十一、ra8p1 mcuboot深度分析](https://blog.csdn.net/cl234583745/article/details/163544788)
+
++ [SpringBoot：RPC 接口与 Web 接口全景深度分析](https://blog.csdn.net/snowball_li/article/details/163527996)
+
++ [HarmonyOS7更新亮点实录3：Accessory Kit 配件接入服务与多端系统级联](https://blog.csdn.net/sjw890821sjw/article/details/163544546)
+
++ [C# .NET 周刊 ｜2026 年 7 月 2 期](https://blog.csdn.net/qq_27441069/article/details/163572943)
+

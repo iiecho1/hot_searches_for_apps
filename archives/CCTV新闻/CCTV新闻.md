@@ -185,3 +185,5 @@
 
 + [土耳其称沙土巴三国防务协议与北约条款不冲突](https://news.cctv.com/2026/08/08/ARTIVMjrWZEWyzNQuOdngL8Y260808.shtml)
 
++ [消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标](https://news.cctv.com/2026/08/08/ARTIQruDVTceQSIFT77h8sVQ260808.shtml)
+
