@@ -69,3 +69,5 @@
 
 + [Claude Code 能不能接便宜点的 Claude 中转？官方有点用不起了](https://www.v2ex.com/t/1232879)
 
++ [厄运专找苦命人，看中山大学 23 岁博士确诊胃癌晚期有感](https://www.v2ex.com/t/1232900)
+
