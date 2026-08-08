@@ -163,3 +163,5 @@
 
 + [一直升机在巴西里约坠毁 造成至少4人死亡](https://news.cctv.com/2026/08/09/ARTIiYrmgU2RAPtYCVV9OhyF260809.shtml)
 
++ [秘鲁库斯科一客车与一卡车相撞 致9死6伤](https://news.cctv.com/2026/08/09/ARTIw1EPeas5KJQlXtSK99Zs260809.shtml)
+

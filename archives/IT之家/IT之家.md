@@ -25,3 +25,23 @@
 
 + [比亚迪 2027 款海豹 06 全新车色官图发布：定位“B 级满配家轿”，首批展车到店](https://m.ithome.com/html/987198.htm)
 
++ [均配 48GB 统一内存：网友发帖称前东家计划销毁超 100 台苹果 M4 MacBook Pro](https://m.ithome.com/html/987297.htm)
+
++ [华为 Mate 80 系列等迎 HarmonyOS 7 花粉 Beta 版补丁更新，更多机型支持直连供电功能](https://m.ithome.com/html/987201.htm)
+
++ [发布 326 天，苹果 iOS 26 在 iPhone 11/iPad 9 等机型上迎来首次越狱](https://m.ithome.com/html/987260.htm)
+
++ [苹果 Mac 简体中文支持文档更新，“Apple 智能”阿里千问扩展现身了](https://m.ithome.com/html/987366.htm)
+
++ [华为鸿蒙 HarmonyOS SDK 游戏新特性公开，含 AI 超分、控显分离、硬件光追等](https://m.ithome.com/html/987205.htm)
+
++ [李斌透露蔚来新车将搭载 120 度三元电池，所有车型都能用](https://m.ithome.com/html/987182.htm)
+
++ [2027 款比亚迪海豹 06 官宣 8 月 11 日上市，定位“B 级满配家轿”](https://m.ithome.com/html/987268.htm)
+
++ [约 20 年降价进程数月内被逆转：研究称 2026 年内存每 GB 价格回到 2007 年水平](https://m.ithome.com/html/987305.htm)
+
++ [雷军重申：小米澎程系列汽车在 3 年半前立项，2 年前开始路测](https://m.ithome.com/html/987336.htm)
+
++ [华为鸿蒙电脑 HarmonyOS 7 花粉 Beta 版开启推送](https://m.ithome.com/html/987259.htm)
+

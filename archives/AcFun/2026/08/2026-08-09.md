@@ -61,3 +61,5 @@
 
 + [试试黍姐和此bgm的适配度w](https://m.acfun.cn/v/?ac=48760065)
 
++ [当我取名“世界第一中单”而队友是Hide on bush 快速看完一局韩服王者斗殴局#795 Pey](https://m.acfun.cn/v/?ac=48752745)
+

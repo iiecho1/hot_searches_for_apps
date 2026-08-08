@@ -119,3 +119,11 @@
 
 + [Docker 网络故障排查记：当 bridge 模式失效时，host 模式如何救场](https://blog.csdn.net/wsad0532/article/details/163573739)
 
++ [Nous Research 开源AI Agent 框架](https://blog.csdn.net/2602_94956987/article/details/163541684)
+
++ [SQL Server数据迁移实战：KES V9R4C019破解复杂查询性能瓶颈，BI报表实现秒级输出](https://blog.csdn.net/beautifulmemory/article/details/163531987)
+
++ [【AI 测评】PostgreSQL主从流复制实战：数据同步、状态验证与故障切换](https://blog.csdn.net/2402_87298751/article/details/163537884)
+
++ [Windows部署MySpeed：记录网络测速结果并实现远程查看](https://blog.csdn.net/qq_54796785/article/details/163542383)
+
