@@ -199,3 +199,7 @@
 
 + [南非开普敦接连发生三起枪击事件 致11人死亡](https://news.cctv.com/2026/08/09/ARTIiAyNxwWID3jEzuNSt2No260809.shtml)
 
++ [消息称伊朗议会国家安全委员会批准霍尔木兹海峡安全纲要](https://news.cctv.com/2026/08/09/ARTIpsSAAPhiACiIR8T7ggZw260809.shtml)
+
++ [国际观察｜沙土巴三国“共同防务”防什么](https://news.cctv.com/2026/08/09/ARTIGkbnbYzb0ABwf13y7YOm260809.shtml)
+

@@ -57,3 +57,25 @@
 
 + [鸿蒙智行享界 G9 汽车炮弹坑测试视频被质疑 AI 生成，现场多角度实拍视频流出](https://m.ithome.com/html/987352.htm)
 
++ [苹果中国官网删除 Apple 智能接入阿里千问使用手册](https://m.ithome.com/html/987467.htm)
+
++ [苹果首款折叠 iPhone 配色曝光：iPhone Ultra 有望提供银色、深蓝色](https://m.ithome.com/html/987483.htm)
+
++ [67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎](https://m.ithome.com/html/987474.htm)
+
++ [余承东发布华为 MateBook Pro S 鸿蒙电脑拆机视频：仅重 798g，比一杯奶茶还轻](https://m.ithome.com/html/987546.htm)
+
++ [央视曝光无良厂商用医疗垃圾制作手机壳，存在一级致癌物苯超标风险](https://m.ithome.com/html/987469.htm)
+
++ [微软 Win11 天气应用内存占用达苹果 macOS 天气应用 5 倍，且内置广告](https://m.ithome.com/html/987503.htm)
+
++ [买错机票 7 分钟退票被扣 2022 元，长龙航空回应已和解细节不便透露](https://m.ithome.com/html/987443.htm)
+
++ [天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载](https://m.ithome.com/html/987532.htm)
+
++ [小米汽车：澎程 N90 Max 四门可选智能电动门，支持开门杀预警和避障](https://m.ithome.com/html/987479.htm)
+
++ [苹果客服回应删除接入千问手册：目前并没有收到新项目发布通知](https://m.ithome.com/html/987579.htm)
+
++ [115 网盘 API 开放平台即日起暂停服务](https://m.ithome.com/html/987464.htm)
+
