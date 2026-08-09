@@ -159,3 +159,11 @@
 
 + [SpringBoot全局异常处理全景深度解析：Web与RPC接口差异化兜底方案（微服务全覆盖）](https://blog.csdn.net/snowball_li/article/details/163570046)
 
++ [MongoDB迁移：从烟囱式部署走向 KES-AI 时代融合数据库架构](https://blog.csdn.net/Mrxiao_bo/article/details/163562033)
+
++ [AtomCode与Docker结合：容器化AI编码环境的构建与分发](https://blog.csdn.net/u014727709/article/details/163594645)
+
++ [【免费】人脸识别 智能考勤系统(深度学习+OpenCV DNN+FastAPI+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163538785)
+
++ [【Agent开发第四期】System Prompt 人设,给 Agent 戴一顶“帽子“](https://blog.csdn.net/weixin_39970883/article/details/163592281)
+

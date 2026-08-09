@@ -37,3 +37,9 @@
 
 + [Mac 和 Windows 可以共用一套键鼠吗](https://www.v2ex.com/t/1233018)
 
++ [从手冲党叛变到胶囊党,说说为什么](https://www.v2ex.com/t/1233017)
+
++ [codex 20260808 重置了](https://www.v2ex.com/t/1232951)
+
++ [mirasim 注册可以领一年会员 对应 codex、cc 200$](https://www.v2ex.com/t/1232967)
+
