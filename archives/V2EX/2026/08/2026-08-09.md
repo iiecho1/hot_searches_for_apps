@@ -43,3 +43,5 @@
 
 + [mirasim 注册可以领一年会员 对应 codex、cc 200$](https://www.v2ex.com/t/1232967)
 
++ [claude 被封了 3 次，用了 3 个苹果账号订阅](https://www.v2ex.com/t/1232990)
+

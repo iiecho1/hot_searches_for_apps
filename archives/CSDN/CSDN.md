@@ -167,3 +167,7 @@
 
 + [【Agent开发第四期】System Prompt 人设,给 Agent 戴一顶“帽子“](https://blog.csdn.net/weixin_39970883/article/details/163592281)
 
++ [从报表到智能Agent：数据分析转大模型，为什么总死在权限和日志上？](https://blog.csdn.net/2601_96120158/article/details/163595674)
+
++ [DM8 启动和关闭数据库：掌握数据库生命周期管理的核心技能](https://blog.csdn.net/qq_41840843/article/details/163605014)
+
