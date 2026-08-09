@@ -47,3 +47,5 @@
 
 + [Claude Code 一天花了 68 块，正常吗？](https://www.v2ex.com/t/1233003)
 
++ [做了一款终端优先的 AI 编程环境 Termio.sh, 比 Ghostty/ iTem2 / cmux 好用](https://www.v2ex.com/t/1232978)
+
