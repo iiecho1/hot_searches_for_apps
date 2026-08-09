@@ -25,3 +25,25 @@
 
 + [115 网盘 API 开放平台即日起暂停服务](https://m.ithome.com/html/987464.htm)
 
++ [均配 48GB 统一内存：网友发帖称前东家计划销毁超 100 台苹果 M4 MacBook Pro](https://m.ithome.com/html/987297.htm)
+
++ [苹果 Mac 简体中文支持文档更新，“Apple 智能”阿里千问扩展现身了](https://m.ithome.com/html/987366.htm)
+
++ [发布 326 天，苹果 iOS 26 在 iPhone 11/iPad 9 等机型上迎来首次越狱](https://m.ithome.com/html/987260.htm)
+
++ [雷军重申：小米澎程系列汽车在 3 年半前立项，2 年前开始路测](https://m.ithome.com/html/987336.htm)
+
++ [华为 5G 海外回归：科威特花粉在发布会现场展示自己十年藏品，含华为首款 5G 手机](https://m.ithome.com/html/987417.htm)
+
++ [约 20 年降价进程数月内被逆转：研究称 2026 年内存每 GB 价格回到 2007 年水平](https://m.ithome.com/html/987305.htm)
+
++ [小米 REDMI K100 Pro 系列真机官宣进驻线下门店，还有一款浅蓝配色](https://m.ithome.com/html/987370.htm)
+
++ [2027 款比亚迪海豹 06 官宣 8 月 11 日上市，定位“B 级满配家轿”](https://m.ithome.com/html/987268.htm)
+
++ [阿维塔 07L 大五座 SUV 上市：华为乾崑智驾 ADS 5 + 鸿蒙座舱，限时权益价 21.99 万元起](https://m.ithome.com/html/987429.htm)
+
++ [各手机厂商 9 月新品大曝光：上旬有备受瞩目的苹果阔折叠，中下旬预计有 5-6 家推重量级新旗舰](https://m.ithome.com/html/987387.htm)
+
++ [鸿蒙智行享界 G9 汽车炮弹坑测试视频被质疑 AI 生成，现场多角度实拍视频流出](https://m.ithome.com/html/987352.htm)
+

@@ -21,3 +21,5 @@
 
 + [Claude Code 一天花了 68 块，正常吗？](https://www.v2ex.com/t/1233003)
 
++ [你们都如何 review AI 生成的大量代码，保障功能质量](https://www.v2ex.com/t/1233025)
+
