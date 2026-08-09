@@ -183,3 +183,7 @@
 
 + [《师开发者协作：Design Token、Figma to Code 工程化 线上高并发排障实战》](https://blog.csdn.net/2301_77785315/article/details/163558758)
 
++ [【金仓数据库征文】从 MySQL 迁移到金仓数据库：哈工大智能造价项目的一次信创改造实践](https://blog.csdn.net/beautifulmemory/article/details/163609837)
+
++ [文件包含（LFI/RFI）：日志投毒与 PHP 伪协议利用](https://blog.csdn.net/cui_yonghua/article/details/163566591)
+
