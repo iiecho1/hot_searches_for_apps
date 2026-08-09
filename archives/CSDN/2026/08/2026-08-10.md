@@ -125,3 +125,7 @@
 
 + [Python性能剖析三件套：cProfile + line_profiler + scalene](https://blog.csdn.net/patrickstar231/article/details/163611213)
 
++ [MySQL数据库实操｜数据库（库）的创建、查看、修改、删除全解](https://blog.csdn.net/2501_93786094/article/details/163608817)
+
++ [分布式知识梳理(1)](https://blog.csdn.net/2301_78547133/article/details/163571475)
+
