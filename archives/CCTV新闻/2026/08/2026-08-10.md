@@ -161,3 +161,11 @@
 
 + [“高市早苗政府‘新型军国主义’思维的赤裸表现”（国际视点）](https://news.cctv.com/2026/08/06/ARTIcPv0r7W5qzDtrFFGYLzP260806.shtml)
 
++ [以色列政府被曝将投资专款挪至国防预算 紧急采购武器](https://news.cctv.com/2026/08/10/ARTIPsRfpxAa3yrFc7s1h9sg260810.shtml)
+
++ [特朗普称正在“低调处理”伊朗问题](https://news.cctv.com/2026/08/10/ARTIRhKcXLuMmTL5a85niTTy260810.shtml)
+
++ [印尼一赛车比赛发生事故 7人死亡9人重伤](https://news.cctv.com/2026/08/10/ARTIlKzYagjpd1CPeq68JXbe260810.shtml)
+
++ [丹麦霍尔拜克市发生枪击事件 多人受伤](https://news.cctv.com/2026/08/10/ARTIcZnRCsBKVgjQsgBU77vm260810.shtml)
+
