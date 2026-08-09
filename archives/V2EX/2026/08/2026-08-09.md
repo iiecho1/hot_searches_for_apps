@@ -33,3 +33,7 @@
 
 + [Linux .sb 突然爆火，你怎么看？](https://www.v2ex.com/t/1232993)
 
++ [Codex 把我电脑文件都删了](https://www.v2ex.com/t/1233011)
+
++ [Mac 和 Windows 可以共用一套键鼠吗](https://www.v2ex.com/t/1233018)
+
