@@ -25,3 +25,5 @@
 
 + [[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）](https://www.v2ex.com/t/1232965)
 
++ [如何看待 DeepSeek 在 X 上要求大家把自己的项目放上去以换取内测资格？以及后续的签约需要身份征等其他个人信息？](https://www.v2ex.com/t/1232938)
+

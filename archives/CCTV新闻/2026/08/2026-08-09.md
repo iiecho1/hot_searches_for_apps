@@ -169,3 +169,9 @@
 
 + [消息人士：美“爱国者”导弹库存不足1700枚](https://news.cctv.com/2026/08/09/ARTIEWNRFhRDJjBWj47uhl1X260809.shtml)
 
++ [国际足联：不支持任何违反章程的主席选举进程](https://news.cctv.com/2026/08/09/ARTICxpjwhgOaynl3PZjD9HD260809.shtml)
+
++ [土外长称沙土巴三国共同防务协议有望扩员](https://news.cctv.com/2026/08/09/ARTIrYGtg1Ukgl1fYDShO9Nc260809.shtml)
+
++ [美国能源公司起诉数据中心开发商：将电费成本转嫁民众](https://news.cctv.com/2026/08/09/ARTIjzX6xVRN5ufwDz2aXsd7260809.shtml)
+

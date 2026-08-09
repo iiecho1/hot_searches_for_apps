@@ -133,3 +133,9 @@
 
 + [2026国内主流AI编程工具指南：Trae、Kimi Code、通义灵码、CodeGeeX全解析](https://blog.csdn.net/2402_88969947/article/details/163543515)
 
++ [【金仓数据库征文】M4 Mac上把Spring Boot + MyBatis接到KingbaseES:一次带事务和并发扣库存的实测](https://blog.csdn.net/2401_87629362/article/details/163593545)
+
++ [【Linux】三十二.《Linux 网络编程：UDP Socket 编程深度梳理：IP 端口、网络字节序、socket API，手写多线程聊天室巩固网络模型》](https://blog.csdn.net/2501_93351213/article/details/163585119)
+
++ [从 Java 后端到大模型应用：别只盯着模型，先把权限和日志补上](https://blog.csdn.net/2601_96285276/article/details/163587704)
+
