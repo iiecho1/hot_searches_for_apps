@@ -139,3 +139,9 @@
 
 + [从 Java 后端到大模型应用：别只盯着模型，先把权限和日志补上](https://blog.csdn.net/2601_96285276/article/details/163587704)
 
++ [AI 前沿日报 | 2026年08月08日 星期六](https://blog.csdn.net/qq_36729037/article/details/163588873)
+
++ [【金仓数据库征文】MySQL迁移人大金仓V9异构迁移全链路性能调优与稳定性保障](https://blog.csdn.net/weixin_37800531/article/details/163606266)
+
++ [XSS 攻防全解：反射型、存储型、DOM 型实战演示](https://blog.csdn.net/cui_yonghua/article/details/163533131)
+
