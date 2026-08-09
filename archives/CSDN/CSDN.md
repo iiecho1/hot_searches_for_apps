@@ -145,3 +145,17 @@
 
 + [XSS 攻防全解：反射型、存储型、DOM 型实战演示](https://blog.csdn.net/cui_yonghua/article/details/163533131)
 
++ [从“自然语言问数“到“AI 自动调优“：我给金仓写了一个 MCP Server](https://blog.csdn.net/2401_86326742/article/details/163594322)
+
++ [PyTorch计算机视觉（7）——条件生成对抗网络（cGAN）](https://blog.csdn.net/LOVEmy134611/article/details/162074884)
+
++ [爬虫转大模型，真正难的不是抓取，而是让 AI 安全用上](https://blog.csdn.net/2601_96189167/article/details/163592699)
+
++ [Spring、Spring Boot 与配置文件核心知识点详解](https://blog.csdn.net/suger__salt/article/details/163585754)
+
++ [【花雕学编程】Arduino BLDC 之智能农业灌溉机器人（LDR+超声波+土壤湿度）](https://blog.csdn.net/weixin_41659040/article/details/163580986)
+
++ [VSCode + Claude Code + DeepSeek：打造 AI 编程神器](https://blog.csdn.net/W_chuanqi/article/details/163592485)
+
++ [SpringBoot全局异常处理全景深度解析：Web与RPC接口差异化兜底方案（微服务全覆盖）](https://blog.csdn.net/snowball_li/article/details/163570046)
+
