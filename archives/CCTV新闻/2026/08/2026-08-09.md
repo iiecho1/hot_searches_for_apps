@@ -175,3 +175,11 @@
 
 + [美国能源公司起诉数据中心开发商：将电费成本转嫁民众](https://news.cctv.com/2026/08/09/ARTIjzX6xVRN5ufwDz2aXsd7260809.shtml)
 
++ [美移民执法局拟配发执法记录仪 舆论指其“隔靴搔痒”](https://news.cctv.com/2026/08/09/ARTI3Xn07W8MylbFO6EVAb9q260809.shtml)
+
++ [伊朗：重开霍尔木兹海峡的前提是美国满足5个条件](https://news.cctv.com/2026/08/09/ARTIJ4YDMjQtwEazErFj1asJ260809.shtml)
+
++ [长崎核爆81周年 日本民众将举行活动反对政府涉核动向](https://news.cctv.com/2026/08/09/ARTIlVdkfJdfouVuIZ5xyK94260809.shtml)
+
++ [相距仅数米 澳大利亚悉尼机场两架客机险相撞](https://news.cctv.com/2026/08/09/ARTIOmMWEG4y7qoQ3FEbTjkt260809.shtml)
+
