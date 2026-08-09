@@ -171,3 +171,7 @@
 
 + [DM8 启动和关闭数据库：掌握数据库生命周期管理的核心技能](https://blog.csdn.net/qq_41840843/article/details/163605014)
 
++ [KingbaseES多模架构下的MongoDB迁移方案](https://blog.csdn.net/lrq13965748542/article/details/163592630)
+
++ [医院电子病历越权与下载攻防全解析：从水平越权、垂直提权到JWT防线与目录穿越](https://blog.csdn.net/qq_46987323/article/details/163593150)
+

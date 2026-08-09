@@ -45,3 +45,5 @@
 
 + [claude 被封了 3 次，用了 3 个苹果账号订阅](https://www.v2ex.com/t/1232990)
 
++ [Claude Code 一天花了 68 块，正常吗？](https://www.v2ex.com/t/1233003)
+

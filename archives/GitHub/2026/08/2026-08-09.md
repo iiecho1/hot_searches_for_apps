@@ -25,3 +25,19 @@
 
 + [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
 
++ [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)
+
++ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
++ [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+
++ [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)
+
++ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+
++ [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+
++ [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs)
+
++ [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
