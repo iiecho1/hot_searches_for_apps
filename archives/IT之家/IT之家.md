@@ -45,3 +45,15 @@
 
 + [华为鸿蒙电脑 HarmonyOS 7 花粉 Beta 版开启推送](https://m.ithome.com/html/987259.htm)
 
++ [内部“一路绿灯”：消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一](https://m.ithome.com/html/987446.htm)
+
++ [华为 5G 海外回归：科威特花粉在发布会现场展示自己十年藏品，含华为首款 5G 手机](https://m.ithome.com/html/987417.htm)
+
++ [小米 REDMI K100 Pro 系列真机官宣进驻线下门店，还有一款浅蓝配色](https://m.ithome.com/html/987370.htm)
+
++ [阿维塔 07L 大五座 SUV 上市：华为乾崑智驾 ADS 5 + 鸿蒙座舱，限时权益价 21.99 万元起](https://m.ithome.com/html/987429.htm)
+
++ [各手机厂商 9 月新品大曝光：上旬有备受瞩目的苹果阔折叠，中下旬预计有 5-6 家推重量级新旗舰](https://m.ithome.com/html/987387.htm)
+
++ [鸿蒙智行享界 G9 汽车炮弹坑测试视频被质疑 AI 生成，现场多角度实拍视频流出](https://m.ithome.com/html/987352.htm)
+

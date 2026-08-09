@@ -131,3 +131,5 @@
 
 + [基于YOLO的七种车辆类型检测系统：YOLOv8/YOLOv10/YOLOv11/YOLOv12/YOLO26五模型对比与全栈架构实现|Vue3+SpringBoot+Flask+MySQL](https://blog.csdn.net/m0_68036862/article/details/163592060)
 
++ [2026国内主流AI编程工具指南：Trae、Kimi Code、通义灵码、CodeGeeX全解析](https://blog.csdn.net/2402_88969947/article/details/163543515)
+
