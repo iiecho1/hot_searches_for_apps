@@ -193,3 +193,9 @@
 
 + [伊朗最高领袖与总统举行会谈 讨论经济和军事等问题](https://news.cctv.com/2026/08/09/ARTIIX3dRDta0QiUPXg8uILW260809.shtml)
 
++ [叙利亚与俄罗斯就两处俄军事基地达成谅解备忘录](https://news.cctv.com/2026/08/09/ARTIZTE5Iuj9fkKK6wOwGNvV260809.shtml)
+
++ [哈马斯称坚持加沙停火协议路线图](https://news.cctv.com/2026/08/09/ARTIQdZv8LB9tdEs7ErFcpEf260809.shtml)
+
++ [南非开普敦接连发生三起枪击事件 致11人死亡](https://news.cctv.com/2026/08/09/ARTIiAyNxwWID3jEzuNSt2No260809.shtml)
+
