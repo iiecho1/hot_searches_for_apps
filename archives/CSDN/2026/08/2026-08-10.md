@@ -175,3 +175,15 @@
 
 + [vxe-table 配置 ajax 数据源：告别冗余代码，一键渲染表格](https://blog.csdn.net/daols88/article/details/163630665)
 
++ [Smart Mermaid部署：用AI将文本转换为Mermaid图表](https://blog.csdn.net/user340/article/details/163635805)
+
++ [CentOS部署Cockpit：图形化查看系统、日志与服务状态](https://blog.csdn.net/u010726809/article/details/163634382)
+
++ [Ext文件系统深度解析：从inode到磁盘布局](https://blog.csdn.net/2601_95483298/article/details/163630090)
+
++ [Pi Agent Loop 源码解析：Context、Streaming、Tool Calling、Steering 与停止条件](https://blog.csdn.net/w776341482/article/details/163630972)
+
++ [告别忘词与眼神飘忽：智能语音跟随提词器的设计初衷与核心架构](https://blog.csdn.net/qq_46987323/article/details/163614743)
+
++ [Docker Compose 本地部署 Dify 的完整过程与故障排查](https://blog.csdn.net/2301_78775214/article/details/163564414)
+
