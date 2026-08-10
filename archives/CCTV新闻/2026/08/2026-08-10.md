@@ -169,3 +169,9 @@
 
 + [丹麦霍尔拜克市发生枪击事件 多人受伤](https://news.cctv.com/2026/08/10/ARTIcZnRCsBKVgjQsgBU77vm260810.shtml)
 
++ [印度阿萨姆邦洪灾已致100人死亡](https://news.cctv.com/2026/08/10/ARTIpFx1rT6A1amsB64jpmK2260810.shtml)
+
++ [乌方想自产“爱国者”拦截弹 美军火商怕被分蛋糕？](https://news.cctv.com/2026/08/10/ARTI2JRvqhECy3Ym7OLc8A9p260810.shtml)
+
++ [日本熊本县强震后已发生有感地震591次](https://news.cctv.com/2026/08/10/ARTIToBGqjaCeQR6iYRTSo2Y260810.shtml)
+

@@ -141,3 +141,37 @@
 
 + [【Agent开发第四期】System Prompt 人设,给 Agent 戴一顶“帽子“](https://blog.csdn.net/weixin_39970883/article/details/163592281)
 
++ [SpringBoot+Flowable 移动审批实战：UniApp 待办详情如何把业务单据、viewType 与底栏按钮嵌进同一页](https://blog.csdn.net/zhouzhongyan/article/details/163617690)
+
++ [借助小鸿AI硬件给AI Agent 装上耳朵和嘴巴，我的贾维斯活了](https://blog.csdn.net/qq8864/article/details/163556576)
+
++ [【金仓数据库征文】MySQL至金仓KES异构数据库平滑迁移与性能深度调优实战](https://blog.csdn.net/2401_87042472/article/details/163609729)
+
++ [Hologres分区表](https://blog.csdn.net/weixin_44624117/article/details/163596004)
+
++ [为什么fastlivo2跑出来的点云效果不错，但导入3dgut进行场景重建爆炸了...如何解决？](https://blog.csdn.net/weixin_43970743/article/details/159463612)
+
++ [Spring JDBC 被低估了吗？—— 关于 MyBatis 与 Spring JDBC 复杂度的祛魅](https://blog.csdn.net/gzz_gzz/article/details/163607914)
+
++ [AI Agent 应用实战（2）：用 function calling 让模型调工具](https://blog.csdn.net/weixin_67153745/article/details/163596446)
+
++ [把发票台账接进 Codex：KingbaseES MCP 的一次只读风险排查实践](https://blog.csdn.net/Mrxiao_bo/article/details/163562328)
+
++ [【Linux 系统篇(十四)】进程 (二) ：PCB、task_struct、fork系统调用](https://blog.csdn.net/Huang_jin007/article/details/163505129)
+
++ [中兴F50只能本地管理？刷入UFI-TOOLS后这样远程访问](https://blog.csdn.net/2301_76297596/article/details/163563026)
+
++ [【MATLAB】嵌入式多传感器同步采集控制](https://blog.csdn.net/unbelievevc/article/details/163626124)
+
++ [Token太贵自己写了一个mac版开源AI编程工具](https://blog.csdn.net/sqc3375177/article/details/163617416)
+
++ [k8s进阶_Configmap配置文件访问](https://blog.csdn.net/panzhengxiang/article/details/163617404)
+
++ [K8s 数据库 Secret 加密实战｜密码明文漏洞彻底修复，等保密评双合规（金仓 / 达梦双库适配）](https://blog.csdn.net/xdsfsadfas/article/details/163564947)
+
++ [无人机灾害场景人体目标检测数据集：10,000张图像 | 目标检测](https://blog.csdn.net/dgw25sf/article/details/163617711)
+
++ [XXE 漏洞深度实战：XML 外部实体攻击与 OOB 带外](https://blog.csdn.net/cui_yonghua/article/details/163566853)
+
++ [vxe-table 配置 ajax 数据源：告别冗余代码，一键渲染表格](https://blog.csdn.net/daols88/article/details/163630665)
+
