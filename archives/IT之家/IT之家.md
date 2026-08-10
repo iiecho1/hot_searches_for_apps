@@ -47,3 +47,17 @@
 
 + [鸿蒙智行享界 G9 汽车炮弹坑测试视频被质疑 AI 生成，现场多角度实拍视频流出](https://m.ithome.com/html/987352.htm)
 
++ [宁波一充电场站车辆过热，极氪回应称该车辆近期曾发生严重碰撞事故](https://m.ithome.com/html/987637.htm)
+
++ [马斯克也被骗了：SpaceX 火箭残骸撞月视频是假的](https://m.ithome.com/html/987560.htm)
+
++ [古尔曼曝光苹果早前设想：生产 iPhone 时就装好 iCloud 数据，让用户不再经历繁琐导数据流程](https://m.ithome.com/html/987639.htm)
+
++ [平台钻级≠官方星级，央视曝光酒店评级标识消费陷阱](https://m.ithome.com/html/987512.htm)
+
++ [租房好价：小米“速冷静”大 1.5 匹空调 1999 → 1399 元，支持 10 年包修](https://m.ithome.com/html/987570.htm)
+
++ [国家统计局：人工智能推动消费电子产品迭代升级，需求增加、价格上涨，平板电脑、计算机和移动电话机分别上涨 11.3%、5.5% 和 1.0%](https://m.ithome.com/html/987497.htm)
+
++ [长城欧拉 7 旅行车无伪装曝光，已完成工信部申报](https://m.ithome.com/html/987542.htm)
+
