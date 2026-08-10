@@ -199,3 +199,5 @@
 
 + [ 第 3 篇：机器人 TCP 长连接如何稳定运行？心跳、掉线检测与自动重连](https://blog.csdn.net/wulong756273/article/details/163614770)
 
++ [awesome-llm-apps 开源项目详解：100+ AI Agent 与 RAG 模板一键复用](https://blog.csdn.net/zhangay1998/article/details/162974701)
+
