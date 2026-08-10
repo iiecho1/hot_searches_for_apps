@@ -161,3 +161,11 @@
 
 + [俄方：若想和平解决俄乌冲突 欧洲应停止援乌](https://news.cctv.com/2026/08/07/ARTIIbGszTMFk3VsR6CvT7FT260807.shtml)
 
++ [美战略石油储备降至3亿桶以下 国际油价显著上涨](https://news.cctv.com/2026/08/11/ARTImDmVlgkCMUgz1jylzGYa260811.shtml)
+
++ [美政府自去年初以来已吊销逾17.5万份非移民签证](https://news.cctv.com/2026/08/11/ARTIgJeRAiXJ1CjGSQox5BWR260811.shtml)
+
++ [胡塞武装再袭政府军 联合国特使警告也门冲突升级](https://news.cctv.com/2026/08/11/ARTI1hixe8lpMIMr3Qb74BCa260811.shtml)
+
++ [7.5级强震已致百余人遇难 哥伦比亚进入“国家灾难状态”](https://news.cctv.com/2026/08/11/ARTIPVXrmdCGiCjD4DmvjT0i260811.shtml)
+
