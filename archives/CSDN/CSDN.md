@@ -109,3 +109,11 @@
 
 + [6.Obsidian 三端同步完整流程：电脑、手机、平板通过 Gitee 实时同步](https://blog.csdn.net/2302_77823855/article/details/163645277)
 
++ [AI 写完了，别人却看不到：Vibe Coding 作品如何秒级公开](https://blog.csdn.net/weixin_52908342/article/details/163633033)
+
++ [轻量级智能监控平台k8s容器后部署](https://blog.csdn.net/zbdjdmm/article/details/163596183)
+
++ [React 性能优化实战：从 memo 渲染对照到 useCallback 函数缓存](https://blog.csdn.net/meilindehuzi_a/article/details/163615758)
+
++ [YOLO乒乓球比赛落点轨迹目标检测数据集](https://blog.csdn.net/guo_xiao_xiao_/article/details/163591719)
+
