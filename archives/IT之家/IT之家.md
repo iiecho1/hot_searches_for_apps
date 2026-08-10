@@ -61,3 +61,25 @@
 
 + [长城欧拉 7 旅行车无伪装曝光，已完成工信部申报](https://m.ithome.com/html/987542.htm)
 
++ [古尔曼：苹果 iPhone 18 Pro / Ultra 发布会预计 9 月 9 日举行，预售避开 9&#183;11](https://m.ithome.com/html/987646.htm)
+
++ [小红书再陷期权争议：前员工称归属仅剩 8 天，遭公司“踩点辞退”](https://m.ithome.com/html/987802.htm)
+
++ [竹子做的快递包装来了：主要品牌已应用测试，目标 5 年内使用量达 10 亿件](https://m.ithome.com/html/987754.htm)
+
++ [男子乘顺风车时猝死，家属向司机索赔 18 万元被法院驳回](https://m.ithome.com/html/987664.htm)
+
++ [阿维塔副总裁雍军不认为和华为的合作模式是“必要项”，当下最优解不代表永远绑定](https://m.ithome.com/html/987769.htm)
+
++ [44 岁网约车司机在充电站猝死、保险以“没在开车”拒赔，法院判决赔款 60 万元](https://m.ithome.com/html/987865.htm)
+
++ [宇树科技今日启动申购：中签率远低于长鑫，中一签或赚 20 万](https://m.ithome.com/html/987682.htm)
+
++ [钟睒睒认为电商平台消灭了中间商却成了更霸道的“中间商”，必须限制权力](https://m.ithome.com/html/987733.htm)
+
++ [消息称苹果正测试长鑫内存芯片，用于 iPhone 和 MacBook](https://m.ithome.com/html/987678.htm)
+
++ [小米 REDMI K100 Pro Max 手机新配色「追风蓝」公布，8 月 11 日发布](https://m.ithome.com/html/987676.htm)
+
++ [阿维塔回应“与华为合作不是必要项”言论：系误读，实际指让引望打造专属智驾版本合作模式是不必要的](https://m.ithome.com/html/987980.htm)
+

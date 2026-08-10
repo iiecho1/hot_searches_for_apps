@@ -201,3 +201,13 @@
 
 + [awesome-llm-apps 开源项目详解：100+ AI Agent 与 RAG 模板一键复用](https://blog.csdn.net/zhangay1998/article/details/162974701)
 
++ [实测云蝠智能VoiceAgent3.0:从创建智能体到多轮对话测试,一篇讲透上手流程](https://blog.csdn.net/2401_87629362/article/details/163632135)
+
++ [【免费】微信小程序网约车(打车，在线叫车，移动出行)系统(SpringBoot4+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163638195)
+
++ [我用声网对话式 AI 引擎和 Flutter 做了一个课后英语语音家教](https://blog.csdn.net/baronbool/article/details/163640735)
+
++ [前端转大模型：Demo能跑就敢上线？团队接手时最先翻车的是权限](https://blog.csdn.net/2601_96285276/article/details/163643809)
+
++ [【科普】【差集&交集概念落地云相册】流食般投喂](https://blog.csdn.net/dj_798/article/details/163338240)
+
