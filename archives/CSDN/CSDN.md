@@ -187,3 +187,9 @@
 
 + [Docker Compose 本地部署 Dify 的完整过程与故障排查](https://blog.csdn.net/2301_78775214/article/details/163564414)
 
++ [一次MongoDB迁移之后，我开始重新理解融合数据库](https://blog.csdn.net/2302_78391795/article/details/163625445)
+
++ [软件工程：软件结构设计](https://blog.csdn.net/m0_62617719/article/details/162894187)
+
++ [GitHub 热榜项目：日榜（2026-08-09）](https://blog.csdn.net/u130130/article/details/163617712)
+

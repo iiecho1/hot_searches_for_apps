@@ -177,3 +177,9 @@
 
 + [美国前空军部长被指泄露“空军一号”机密](https://news.cctv.com/2026/08/10/ARTI0Xn8a9EWj9bgxVdZxqbG260810.shtml)
 
++ [驻日本使馆发言人就台湾地区所谓“驻日代表”声明答记者问](https://news.cctv.com/2026/08/10/ARTILEwgt4oUP6oo8IqTx2Vl260810.shtml)
+
++ [日本民众：必须阻止高市把日本拖向又一次战争](https://news.cctv.com/2026/08/10/ARTIPteuDj0D539uVZ79yFVR260810.shtml)
+
++ [美多款AI模型“越界”均关联一以色列企业](https://news.cctv.com/2026/08/10/ARTI5vWUVTeN9eB2M3gi7Zzw260810.shtml)
+

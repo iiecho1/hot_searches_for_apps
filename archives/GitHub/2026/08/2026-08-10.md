@@ -25,3 +25,21 @@
 
 + [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
++ [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
+
++ [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
++ [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+
++ [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)
+
++ [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [opa334/Dopamine](https://github.com/opa334/Dopamine)
+
