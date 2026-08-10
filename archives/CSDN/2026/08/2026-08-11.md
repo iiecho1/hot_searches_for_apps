@@ -101,3 +101,7 @@
 
 + [商城系统选型的四步筛选法：为什么开源协议应该排在技术栈前面](https://blog.csdn.net/crmebyyy/article/details/163538276)
 
++ [【Linux】两个毫无关系的进程怎么通信？命名管道 FIFO 从原理到 Server/Client 实战](https://blog.csdn.net/2402_87731470/article/details/163596007)
+
++ [sx_opus2wav 开源项目分析](https://blog.csdn.net/smallerxuan/article/details/163647090)
+
