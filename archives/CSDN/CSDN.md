@@ -129,3 +129,15 @@
 
 + [分布式知识梳理(1)](https://blog.csdn.net/2301_78547133/article/details/163571475)
 
++ [基于YOLO深度学习的鱼检测系统：YOLOv8/YOLOv10/YOLOv11/YOLOv12/YOLO26五模型对比与全栈架构实现|Vue3+SpringBoot+Flask+MySQL](https://blog.csdn.net/m0_68036862/article/details/163612575)
+
++ [2026年8月TIOBE编程语言排行榜，Go语言排名第14，Rust语言排名10。MATLAB 的日子似乎屈指可数了。](https://blog.csdn.net/weixin_48502062/article/details/163612622)
+
++ [达梦 DM9 K8s 密评合规部署｜等保三级 + 密评双标准安全加固（金融级实测通过）](https://blog.csdn.net/xdsfsadfas/article/details/163564758)
+
++ [kotlin 协程 - 核心概念](https://blog.csdn.net/maoning20080808/article/details/163617439)
+
++ [GitHub每日热评｜Valhalla 静态工程审阅｜AnyDoc 源码证据驱动评测](https://blog.csdn.net/TunerT_TQ/article/details/163614497)
+
++ [【Agent开发第四期】System Prompt 人设,给 Agent 戴一顶“帽子“](https://blog.csdn.net/weixin_39970883/article/details/163592281)
+
