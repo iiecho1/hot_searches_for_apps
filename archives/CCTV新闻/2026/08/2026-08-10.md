@@ -183,3 +183,11 @@
 
 + [美多款AI模型“越界”均关联一以色列企业](https://news.cctv.com/2026/08/10/ARTI5vWUVTeN9eB2M3gi7Zzw260810.shtml)
 
++ [“时令生活·和美中国”文化市集在尼日利亚精彩亮相](https://news.cctv.com/2026/08/10/ARTIqDgFb6BjsOd9oAPtsfN1260810.shtml)
+
++ [专访丨中国零关税举措开启中非经贸合作新阶段——访尼日尔工商会经济专家马加吉](https://news.cctv.com/2026/08/10/ARTI0Pvy7sNONcMfZiTR3ATl260810.shtml)
+
++ [哥伦比亚发生7.5级地震 震源深度80千米](https://news.cctv.com/2026/08/10/ARTI0eYXMRENGkPtO6aur4sp260810.shtml)
+
++ [记者手记丨这座大桥，为喀麦隆乡村带来发展新机遇](https://news.cctv.com/2026/08/10/ARTIGcodOgHtwck0OtdwUKhe260810.shtml)
+
