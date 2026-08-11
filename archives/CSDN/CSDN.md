@@ -167,3 +167,23 @@
 
 + [Agentic AI Demo能跑就敢上线？权限和日志才是团队接手的硬门槛](https://blog.csdn.net/2601_96189255/article/details/163643748)
 
++ [大模型内禀规模定律：能力由语义流形内禀维度而非参数量决定](https://blog.csdn.net/zxb_1222/article/details/163592492)
+
++ [【AI 大模型】AI 工具类型概述 ( AI 编程工具 | AI 智能体工作台 | AI 可视化工作流编排平台 )](https://blog.csdn.net/han1202012/article/details/163509913)
+
++ [DM数据库逻辑备份还原：全面掌握数据安全与恢复核心技巧](https://blog.csdn.net/qq_41840843/article/details/163647624)
+
++ [从RTC到Agent Runtime:我跑通中文Voice Agent后的四层架构与排错实录](https://blog.csdn.net/2401_87629362/article/details/163639956)
+
++ [UDP、TCP四大检测工具——ping netstat watch pidof ](https://blog.csdn.net/oooooooooooohd/article/details/163632502)
+
++ [用户态与内核态：从地址空间到权限检查的完整图景](https://blog.csdn.net/2501_91839423/article/details/163646990)
+
++ [【免费】微信小程序网约车(打车，在线叫车，移动出行)系统(SpringBoot4+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163638195)
+
++ [WebGPU DeepSeek项目实战（一）：从Hugging Face模型链路到Web Worker通信框架](https://blog.csdn.net/meilindehuzi_a/article/details/163644564)
+
++ [# Kubernetes（K8s）笔记Day15：K8s网络工作原理【Pod 网络模型，CNI 网络插件，Calico 工作模式详解，BGP协议，路由反射器】](https://blog.csdn.net/weixin_46136019/article/details/163634095)
+
++ [第31-33讲：计算机操作系统核心管理机制——磁盘管理、I/O设备管理与系统安全](https://blog.csdn.net/Zguigo/article/details/163606308)
+

@@ -177,3 +177,5 @@
 
 + [专家谈哥伦比亚地震与委内瑞拉地震区别](https://news.cctv.com/2026/08/11/ARTIo5xO2GxnOa2fKE241s2C260811.shtml)
 
++ [英格兰近四分之三地区进入干旱状态](https://news.cctv.com/2026/08/11/ARTIDj7nh0X0BH32cj1GHrfV260811.shtml)
+
