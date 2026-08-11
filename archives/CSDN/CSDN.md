@@ -221,3 +221,11 @@
 
 + [通俗读懂 Maven settings.xml：repository、profile、mirror、server 如何协作](https://blog.csdn.net/lzufeng/article/details/163606159)
 
++ [腾讯云AISkills原来可以这么玩？使用WorkBuddy结合混元生3D快速生成3D的美利达自行车模型亲身实践指南](https://blog.csdn.net/yelangkingwuzuhu/article/details/163645735)
+
++ [华南赛区一等奖项目技术说明与全国总决赛特邀申请](https://blog.csdn.net/zhuoqingjoking97298/article/details/163673633)
+
++ [什么场景下该上 OA 系统？从 8 个业务触发点判断，而不是先问「要不要数字化」](https://blog.csdn.net/zhouzhongyan/article/details/163646668)
+
++ [头条【vue+fastapi 】全栈教学项目系列之 《01_导学部分》](https://blog.csdn.net/weixin_44151123/article/details/163672019)
+
