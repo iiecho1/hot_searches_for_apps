@@ -33,3 +33,25 @@
 
 + [opa334/Dopamine](https://github.com/opa334/Dopamine)
 
++ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
++ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [3b1b/manim](https://github.com/3b1b/manim)
+
++ [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
++ [stablyai/orca](https://github.com/stablyai/orca)
+
++ [huggingface/transformers](https://github.com/huggingface/transformers)
+
++ [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs)
+
++ [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
++ [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
++ [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+

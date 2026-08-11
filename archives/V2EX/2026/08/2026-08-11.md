@@ -51,3 +51,7 @@
 
 + [[抽奖！送 1500 元 DeepSeek 官方额度！]](https://www.v2ex.com/t/1233345)
 
++ [聊聊我从赚 5 万到亏 6 万的的经历](https://www.v2ex.com/t/1233435)
+
++ [求助 PC 鼠标丢帧问题，困扰了几个月了](https://www.v2ex.com/t/1233447)
+

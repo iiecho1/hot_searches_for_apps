@@ -183,3 +183,5 @@
 
 + [“向我们打开技术与创新共享的大门”——访希腊凯福尔科技公司总裁彼得罗切洛斯](https://news.cctv.com/2026/08/11/ARTICvcxgr4m9g99OVhuXHq7260811.shtml)
 
++ [我驻泰使馆：已收到在泰失联女性家属求助并将提供协助](https://news.cctv.com/2026/08/11/ARTITtN0k7bikJBDqzIKB2Ng260811.shtml)
+
