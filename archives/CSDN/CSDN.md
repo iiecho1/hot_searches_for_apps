@@ -187,3 +187,29 @@
 
 + [第31-33讲：计算机操作系统核心管理机制——磁盘管理、I/O设备管理与系统安全](https://blog.csdn.net/Zguigo/article/details/163606308)
 
++ [CentOS部署Jenkins：结合cpolar实现Webhook自动构建与发布](https://blog.csdn.net/2501_91062530/article/details/163664797)
+
++ [【Linux 网络篇】数据的 “循环系统“：协议认识与网络传输的流程](https://blog.csdn.net/buhuizhiyuci/article/details/163627074)
+
++ [CentOS部署Postgres Exporter：监控PostgreSQL并接入Prometheus](https://blog.csdn.net/weixin_44976692/article/details/163666074)
+
++ [SpringBoot+Flowable 流程任务操作全景：通过拒绝转办委派加签退回抄送异同，与 operation-button 封装落地](https://blog.csdn.net/zhouzhongyan/article/details/163646656)
+
++ [【计算机网络 | 第六章】应用层](https://blog.csdn.net/2502_94242477/article/details/163595156)
+
++ [腾讯云 Ubuntu 24.04 + Docker 同时部署多个 Python Web 项目：没有域名也能用 IP 访问](https://blog.csdn.net/Awmdmd/article/details/163664752)
+
++ [让不同大模型共享一个 Agent：Pi 如何统一 Provider 与 Context Handoff](https://blog.csdn.net/w776341482/article/details/163662783)
+
++ [【计算机网络 | 数据链路层1：为什么 IP 数据报还要封装成帧？】](https://blog.csdn.net/DdigitalNomad/article/details/163658092)
+
++ [Ollama模型已经跑起来了，为什么还要装OpenWebUI？实际接入DeepSeek试一次](https://blog.csdn.net/qq_46123200/article/details/163635775)
+
++ [Docker部署code-server：搭建网页版开发环境并实现远程访问](https://blog.csdn.net/COLLINSXU/article/details/163665192)
+
++ [飞牛NAS部署Immich:搭建家庭相册并实现远程访问](https://blog.csdn.net/2401_87629362/article/details/163640943)
+
++ [【论文阅读】Agent 记忆机制（35）：MAGMA——用多关系图与意图路由实现结构化长期记忆检索](https://blog.csdn.net/weixin_45642847/article/details/163646026)
+
++ [GitHub 热榜项目：日榜（2026-08-10）](https://blog.csdn.net/u130130/article/details/163647009)
+

@@ -181,3 +181,5 @@
 
 + [菲律宾国调局对莎拉·杜特尔特提出严重威胁指控](https://news.cctv.com/2026/08/11/ARTIBRgaFRhH7jTwKFFUj9sO260811.shtml)
 
++ [“向我们打开技术与创新共享的大门”——访希腊凯福尔科技公司总裁彼得罗切洛斯](https://news.cctv.com/2026/08/11/ARTICvcxgr4m9g99OVhuXHq7260811.shtml)
+
