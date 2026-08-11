@@ -101,3 +101,33 @@
 
 + [GitHub 热榜项目：日榜（2026-08-10）](https://blog.csdn.net/u130130/article/details/163647009)
 
++ [一个 C++ 后端的 Seed Evolving 实测：埋 3 个 bug、挖 2 个陷阱，三段测试记录](https://blog.csdn.net/2401_86326742/article/details/163646926)
+
++ [心率传感器集成开发指南——基于OpenHarmony HDF框架的MAX30102驱动与信号处理实战](https://blog.csdn.net/u014727709/article/details/163646353)
+
++ [SpringBoot+Flowable 流程任务操作全景：通过拒绝转办委派加签退回抄送异同，与 operation-button 封装落地](https://blog.csdn.net/zhouzhongyan/article/details/163646656)
+
++ [Agent 写完不等于完成：AI 质量工程实战](https://blog.csdn.net/weixin_74809706/article/details/163497241)
+
++ [【AI 大模型】AI 工具类型概述 ( AI 编程工具 | AI 智能体工作台 | AI 可视化工作流编排平台 )](https://blog.csdn.net/han1202012/article/details/163509913)
+
++ [使用SQL导入MaxCompute的数据至Hologres](https://blog.csdn.net/weixin_44624117/article/details/163646386)
+
++ [Elasticsearch 作为统一平台：引入第二套数据系统究竟要付出什么代价](https://blog.csdn.net/UbuntuTouch/article/details/163659097)
+
++ [Python 开发环境怎么选？PyCharm、VS Code、Trae 谁更适合 AI 开发？](https://blog.csdn.net/qq_36478920/article/details/163637605)
+
++ [Claude Code 上线翻车：为什么 AI 结对编程在团队协作里卡住了？](https://blog.csdn.net/m0_62051288/article/details/163674585)
+
++ [Linux信号补充：捕捉流程与中断机制揭秘](https://blog.csdn.net/2501_91839423/article/details/163646754)
+
++ [我用声网对话式 AI 引擎和 Flutter 做了一个课后英语语音家教](https://blog.csdn.net/baronbool/article/details/163640735)
+
++ [新网站在搜索引擎完全搜不到怎么优化？(四）——提交搜索引擎搜索资源平台](https://blog.csdn.net/liheng88/article/details/163628457)
+
++ [LLM越狱与安全护栏攻防大演进：从奶奶漏洞到输入输出双重检测模型](https://blog.csdn.net/qq_46987323/article/details/163674720)
+
++ [Muse Glimmer 30B：Meta 难得给的真开源，强在哪、虚在哪](https://blog.csdn.net/liferecords/article/details/163663506)
+
++ [React + WebGPU 在浏览器运行 DeepSeek：从 Worker 通信到流式生成](https://blog.csdn.net/2501_93234401/article/details/163646452)
+
