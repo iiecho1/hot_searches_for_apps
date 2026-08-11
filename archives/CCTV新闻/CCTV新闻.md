@@ -161,3 +161,11 @@
 
 + [泰国校园枪击案已致2人死亡 枪手仍藏在学校附近](https://news.cctv.com/2026/08/07/ARTIynfwzUlEHuaEUzUM7iRU260807.shtml)
 
++ [古特雷斯：对哥伦比亚地震造成人员伤亡感到“悲痛”](https://news.cctv.com/2026/08/12/ARTIPS9iMyoqSaxqmxDMbeYO260812.shtml)
+
++ [叙利亚谴责哥伦比亚承认以色列对戈兰高地“主权”](https://news.cctv.com/2026/08/12/ARTI6eco7bh6iy7qshLsdBES260812.shtml)
+
++ [匈牙利当选总统鲍卡：将重建与国际盟友的伙伴关系](https://news.cctv.com/2026/08/12/ARTI7jFSvFH1taTizpSzUbXg260812.shtml)
+
++ [胡塞武装在曼德海峡打击一艘运输沙特军事装备的船只](https://news.cctv.com/2026/08/12/ARTILgASUEoRwV83zJzMlFvK260812.shtml)
+

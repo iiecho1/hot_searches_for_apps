@@ -65,3 +65,5 @@
 
 + [妮露血战新皮肤曝光！技系能否适配老4系？](https://m.acfun.cn/v/?ac=48766188)
 
++ [【东方】IRIS OUT【上海&蓬莱 Ver. MMD】](https://m.acfun.cn/v/?ac=48765946)
+
