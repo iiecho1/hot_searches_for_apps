@@ -47,3 +47,11 @@
 
 + [阿维塔回应“与华为合作不是必要项”言论：系误读，实际指让引望打造专属智驾版本合作模式是不必要的](https://m.ithome.com/html/987980.htm)
 
++ [98 英寸 9999 → 4778 元：小米电视 S Mini LED 2025 京东大降价，配 1092 分区](https://m.ithome.com/html/988023.htm)
+
++ [火箭飞行异常，中星 4B 卫星发射失利](https://m.ithome.com/html/988055.htm)
+
++ [魅族 Note16 手机补货，8+128GB 版国补后 679.15 元](https://m.ithome.com/html/987928.htm)
+
++ [比亚迪方程豹钛 9 官图公布：插混六座 SUV，轴距 3130 mm](https://m.ithome.com/html/988041.htm)
+

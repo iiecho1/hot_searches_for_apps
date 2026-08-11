@@ -137,3 +137,17 @@
 
 + [新网站在搜索引擎完全搜不到怎么优化？(四）——提交搜索引擎搜索资源平台](https://blog.csdn.net/liheng88/article/details/163628457)
 
++ [我用声网对话式 AI 引擎和 Flutter 做了一个课后英语语音家教](https://blog.csdn.net/baronbool/article/details/163640735)
+
++ [从「锁」到「时间」：后端里几个容易混的概念](https://blog.csdn.net/lihaoweiwudi_/article/details/163641818)
+
++ [GitHub Actions 自动化运维实战：TypeScript 全栈项目 CI/CD 至腾讯云（生产级指南）](https://blog.csdn.net/ChailangCompany/article/details/163646576)
+
++ [Substrate 材质学习记录](https://blog.csdn.net/qqQQqsadfj/article/details/162602177)
+
++ [LangGraph 工作流：把学习路径落到证据](https://blog.csdn.net/2601_96120158/article/details/163615405)
+
++ [Windows使用Codex + Remotion：从自然语言生成动效到MP4导出](https://blog.csdn.net/Rqaqedamancy/article/details/163637492)
+
++ [GitHub今日热榜 | 2026-08-10：开发者工具与科研项目集中涌入](https://blog.csdn.net/m0_68631449/article/details/163627624)
+
