@@ -179,3 +179,5 @@
 
 + [英格兰近四分之三地区进入干旱状态](https://news.cctv.com/2026/08/11/ARTIDj7nh0X0BH32cj1GHrfV260811.shtml)
 
++ [菲律宾国调局对莎拉·杜特尔特提出严重威胁指控](https://news.cctv.com/2026/08/11/ARTIBRgaFRhH7jTwKFFUj9sO260811.shtml)
+
