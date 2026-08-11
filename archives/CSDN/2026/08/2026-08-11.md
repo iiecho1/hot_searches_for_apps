@@ -127,3 +127,13 @@
 
 + [GitHub经典项目Uptime Kuma：Docker 部署网站监控、告警与状态页](https://blog.csdn.net/xiaominglao/article/details/163630598)
 
++ [一个 C++ 后端的 Seed Evolving 实测：埋 3 个 bug、挖 2 个陷阱，三段测试记录](https://blog.csdn.net/2401_86326742/article/details/163646926)
+
++ [AI 大模型日报 — 2026-08-08](https://blog.csdn.net/enheng1238/article/details/163592026)
+
++ [【《智能驾驶拆解笔记：老周唠透车圈AI》第5篇】](https://blog.csdn.net/weixin_62244995/article/details/162998983)
+
++ [CentOS部署Cockpit：图形化查看系统、日志与服务状态](https://blog.csdn.net/u010726809/article/details/163634382)
+
++ [新网站在搜索引擎完全搜不到怎么优化？(四）——提交搜索引擎搜索资源平台](https://blog.csdn.net/liheng88/article/details/163628457)
+

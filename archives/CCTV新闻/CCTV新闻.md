@@ -171,3 +171,5 @@
 
 + [中国驻哥伦比亚使馆提醒在哥中国公民防范地震次生灾害风险](https://news.cctv.com/2026/08/11/ARTI57Kq7xoNr7AXGmconf3T260811.shtml)
 
++ [特朗普力挺因凡蒂诺 警告国际足联不要考虑更换主席](https://news.cctv.com/2026/08/11/ARTIFTN3Oz7NW7n0JiRtDV5o260811.shtml)
+
