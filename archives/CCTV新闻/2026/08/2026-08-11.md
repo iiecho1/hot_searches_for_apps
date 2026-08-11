@@ -185,3 +185,5 @@
 
 + [我驻泰使馆：已收到在泰失联女性家属求助并将提供协助](https://news.cctv.com/2026/08/11/ARTITtN0k7bikJBDqzIKB2Ng260811.shtml)
 
++ [哥伦比亚强震死亡人数升至169人](https://news.cctv.com/2026/08/11/ARTIMX4U2HNQkA1hxn7aNxZR260811.shtml)
+

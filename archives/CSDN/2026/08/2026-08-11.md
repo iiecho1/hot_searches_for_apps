@@ -213,3 +213,11 @@
 
 + [GitHub 热榜项目：日榜（2026-08-10）](https://blog.csdn.net/u130130/article/details/163647009)
 
++ [CentOS部署Kafka：ZooKeeper启动、消息测试与远程调试](https://blog.csdn.net/SDFsoul/article/details/163671162)
+
++ [多门店设备越来越多，总部和门店如何更省事地互通？](https://blog.csdn.net/lrq13965748542/article/details/163613173)
+
++ [小程序电商平台类目合规准入：EDI许可证与不予受理通知书双路径技术选型指南](https://blog.csdn.net/guangcheng2026/article/details/163668375)
+
++ [通俗读懂 Maven settings.xml：repository、profile、mirror、server 如何协作](https://blog.csdn.net/lzufeng/article/details/163606159)
+
