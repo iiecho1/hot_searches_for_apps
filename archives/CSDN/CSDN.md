@@ -151,3 +151,19 @@
 
 + [GitHub今日热榜 | 2026-08-10：开发者工具与科研项目集中涌入](https://blog.csdn.net/m0_68631449/article/details/163627624)
 
++ [深度学习实战-基于EfficientNetB0的观赏鱼图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/162314247)
+
++ [【Linux指南】动静态库系列（五）：动态库运行报错排查：为什么编译通过，运行却找不到 .so](https://blog.csdn.net/2302_78391795/article/details/163655075)
+
++ [jpa 逻辑删除数据](https://blog.csdn.net/u013380694/article/details/163656007)
+
++ [ViT/CLIP/LLaVA/GPT-4V/VideoLLM多模态架构全解：原理仿真+工业落地选型+完整推理代码](https://blog.csdn.net/qq_36729037/article/details/163634513)
+
++ [PHP服务器入侵应急响应全流程：Webshell查杀、RCE漏洞溯源、木马后门彻底清除](https://blog.csdn.net/2303_79252611/article/details/163646109)
+
++ [WebGPU DeepSeek项目实战（二）：用单例模式加载Tokenizer并转发下载进度](https://blog.csdn.net/meilindehuzi_a/article/details/163646614)
+
++ [Agent 写完不等于完成：AI 质量工程实战](https://blog.csdn.net/weixin_74809706/article/details/163497241)
+
++ [Agentic AI Demo能跑就敢上线？权限和日志才是团队接手的硬门槛](https://blog.csdn.net/2601_96189255/article/details/163643748)
+
