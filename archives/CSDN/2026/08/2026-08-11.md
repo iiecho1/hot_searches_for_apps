@@ -117,3 +117,13 @@
 
 + [YOLO乒乓球比赛落点轨迹目标检测数据集](https://blog.csdn.net/guo_xiao_xiao_/article/details/163591719)
 
++ [MiniMax-H3开源模型768P视频2K超分实战：LoRA加速生成 + FlashVSR高清放大（海光K100_AI单卡部署）](https://blog.csdn.net/pla88888888/article/details/163644534)
+
++ [基于Foreign Table加速查询MaxCompute数据](https://blog.csdn.net/weixin_44624117/article/details/163646422)
+
++ [DM8模式对象的常规管理：从创建到维护的完整实践指南](https://blog.csdn.net/qq_41840843/article/details/163604962)
+
++ [LangChain Agent 反复调用工具死循环？结构化返回 + Prompt 规则让它学会跳过](https://blog.csdn.net/javy21/article/details/163609470)
+
++ [GitHub经典项目Uptime Kuma：Docker 部署网站监控、告警与状态页](https://blog.csdn.net/xiaominglao/article/details/163630598)
+
