@@ -181,3 +181,13 @@
 
 + [韦布望远镜在银河系中心黑洞附近发现水和尘埃](https://news.cctv.com/2026/08/12/ARTIfDnkR3cEFhWN52ZPFM9v260812.shtml)
 
++ [美国撤销联邦政府设备使用TikTok禁令](https://news.cctv.com/2026/08/12/ARTI5e1cuwjUvtmuWoRBKrG2260812.shtml)
+
++ [欧盟包装新规生效 降低环境污染和健康风险](https://news.cctv.com/2026/08/12/ARTI2pcsgjlYtWxepyY2h0Vi260812.shtml)
+
++ [巴基斯坦：正全力以赴促使美伊双方回到谈判桌前](https://news.cctv.com/2026/08/12/ARTImbLNGiQB5gnyHXKneLhV260812.shtml)
+
++ [吉尔吉斯斯坦发生5.2级地震，震源深度10千米](https://news.cctv.com/2026/08/12/ARTIacNRxnnDRT1W1tlYha5c260812.shtml)
+
++ [摩萨德前局长称以方人员多次“踩点”伊朗核设施](https://news.cctv.com/2026/08/12/ARTID6lGSBgBf9JTBH8hpaPg260812.shtml)
+

@@ -169,3 +169,13 @@
 
 + [【Matlab】文本挖掘与关键词提取实现](https://blog.csdn.net/unbelievevc/article/details/163685690)
 
++ [SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测](https://blog.csdn.net/Mrxiao_bo/article/details/163695754)
+
++ [GraphQL 安全：内省查询、批量攻击与速率限制绕过](https://blog.csdn.net/cui_yonghua/article/details/163687707)
+
++ [Linux之http协议](https://blog.csdn.net/bksczm/article/details/163573133)
+
++ [图解 Python 核心：从环境配置到底层架构的完全指南](https://blog.csdn.net/csdn_silent/article/details/163697182)
+
++ [出海品牌AI可见性：如何让AI搜索引擎准确引用你的官网](https://blog.csdn.net/DeepIntelli/article/details/163677173)
+
