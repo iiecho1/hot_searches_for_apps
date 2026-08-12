@@ -67,3 +67,5 @@
 
 + [和BB一起云逛展~小课堂准备好啦！2026FGOfes记录](https://m.acfun.cn/v/?ac=48771200)
 
++ [【东方】柳树下的杜拉罕【Future Bounce Remix】](https://m.acfun.cn/v/?ac=48762910)
+

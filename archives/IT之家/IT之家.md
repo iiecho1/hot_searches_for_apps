@@ -49,3 +49,19 @@
 
 + [苹果 2026 返校季活动延长至 9 月 24 日：中国大陆用户买 Mac / iPad 送 AirTags](https://m.ithome.com/html/988548.htm)
 
++ [含 iPhone Ultra、iPhone 18 Pro 等，六款未发布的苹果 iPhone 新机首度现身 iOS 27 系统代码](https://m.ithome.com/html/988508.htm)
+
++ [零跑 A05 纯电小车正式上市：最高 510km 续航，6.39 万-9.09 万元](https://m.ithome.com/html/988468.htm)
+
++ [卢伟冰：未来随着新机陆续发布，大家一定会感觉 REDMI K100 Pro 系列越来越香](https://m.ithome.com/html/988527.htm)
+
++ [25.98 万元，小鹏 G9L 开启预售](https://m.ithome.com/html/988490.htm)
+
++ [首发赠 5 年电池保 + 小背包：小米 REDMI K100 Pro / Max 京东 12 期免息](https://m.ithome.com/html/988493.htm)
+
++ [鸿蒙智行“五界”车型 7 月细分销量曝光，问界 M9 超 9600 辆位列榜首](https://m.ithome.com/html/988534.htm)
+
++ [小米 REDMI K100 标准版机型确认，产品经理透露还有“千方百计打造的游戏旗舰”](https://m.ithome.com/html/988497.htm)
+
++ [真是被砍的 Surface Phone？微软神秘 Windows Phone 原型机现身](https://m.ithome.com/html/988470.htm)
+

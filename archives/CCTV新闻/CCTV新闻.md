@@ -161,3 +161,5 @@
 
 + [美国阿拉斯加州发生5.2级地震](https://news.cctv.com/2026/08/08/ARTIB1ie5KmRhX7NED5ajUnf260808.shtml)
 
++ [科威特挫败一起针对重要设施的恐袭图谋](https://news.cctv.com/2026/08/13/ARTIw97oZ48jOyWL4GqnLbrb260813.shtml)
+
