@@ -149,3 +149,7 @@
 
 + [AI如何重构下一代智能工厂：从数字孪生到Factory Agent Brain的技术演进](https://blog.csdn.net/qq_40453532/article/details/163673773)
 
++ [极空间部署 Dashlet：搭建自托管导航页并实现远程访问](https://blog.csdn.net/m0_68390957/article/details/163686357)
+
++ [Elasticsearch 的批量查询阶段如何在大规模场景下提升搜索性能](https://blog.csdn.net/UbuntuTouch/article/details/163656586)
+

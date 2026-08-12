@@ -39,3 +39,5 @@
 
 + [现在有什么靠谱的渠道购买短位 QQ 号的吗？](https://www.v2ex.com/t/1233545)
 
++ [闲聊，感觉 MacbookPro M1Pro 还是很能打，这都过去 5 年了](https://www.v2ex.com/t/1233735)
+
