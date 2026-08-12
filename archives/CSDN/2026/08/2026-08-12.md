@@ -179,3 +179,25 @@
 
 + [出海品牌AI可见性：如何让AI搜索引擎准确引用你的官网](https://blog.csdn.net/DeepIntelli/article/details/163677173)
 
++ [当AI开始自主攻击，你的AI防御跟上了吗？](https://blog.csdn.net/weixin_46879208/article/details/163638433)
+
++ [【Linux网络】从0手写Reactor反应堆（三）：代码收尾、连接生命周期管理与多Reactor扩展思路](https://blog.csdn.net/2503_91389547/article/details/162089499)
+
++ [不用PyTorch，不用CUDA，我用C++手写了一个能跑GPT和Whisper的推理库](https://blog.csdn.net/chen1415886044/article/details/163676973)
+
++ [模型效果不好时，我现在会先看数据集](https://blog.csdn.net/2401_86326742/article/details/163646077)
+
++ [GPT Pro会员充值新方案：告别虚拟卡，1分钟搞定官网升级](https://blog.csdn.net/xianyu120/article/details/163634919)
+
++ [MySQL CRUD 增删改查](https://blog.csdn.net/2501_93786094/article/details/163699434)
+
++ [Docker高危漏洞CopyEscape曝光：CVE-2026-17106可致容器逃逸与宿主机root权限接管](https://blog.csdn.net/ylscode/article/details/163697136)
+
++ [Android Flutter行业动态与学习参考（2026年8月）](https://blog.csdn.net/jikeehuang/article/details/163664224)
+
++ [【论文阅读】Agent 记忆机制（36）：SteeM——让用户控制 Agent 对历史记忆的依赖程度](https://blog.csdn.net/weixin_45642847/article/details/163676952)
+
++ [【Linux网络】深入TCP 协议（一）：从报头结构到可靠性机制](https://blog.csdn.net/yhrxh_ymq/article/details/163691135)
+
++ [大三网安秋招核心学习前言（AI 安全 + Web 漏洞 + 内网渗透全考点）](https://blog.csdn.net/sbjdhjd/article/details/163674239)
+
