@@ -207,3 +207,13 @@
 
 + [[论文学习]A-MemGuard:基于LLM智能体记忆的主动防禦框架](https://blog.csdn.net/HK2KING/article/details/163582823)
 
++ [Android 3D 开发教程（二）：Sceneform-EQR 使用 ViewRenderable 将 Android Views 渲染到三维场景](https://blog.csdn.net/qq_41140324/article/details/163702950)
+
++ [软件工程：详细设计的原则](https://blog.csdn.net/m0_62617719/article/details/162946349)
+
++ [负载均衡-LVS 全解析](https://blog.csdn.net/2401_83099491/article/details/163672025)
+
++ [商品价格、参数、售后总要反复比较？我用 Doubao‑Seed‑Evolving 做一个实选决策助手](https://blog.csdn.net/lrq13965748542/article/details/163676915)
+
++ [WebGPU DeepSeek项目实战（二）：用单例模式加载Tokenizer并转发下载进度](https://blog.csdn.net/meilindehuzi_a/article/details/163646614)
+

@@ -191,3 +191,11 @@
 
 + [摩萨德前局长称以方人员多次“踩点”伊朗核设施](https://news.cctv.com/2026/08/12/ARTID6lGSBgBf9JTBH8hpaPg260812.shtml)
 
++ [法国今夏热浪或致超百亿欧元经济损失](https://news.cctv.com/2026/08/12/ARTIoLEbc0A7yfDWpfnOG7gW260812.shtml)
+
++ [欧佩克下调2026年全球石油需求增长预期](https://news.cctv.com/2026/08/12/ARTIlnyLwruzL44DjmvyKJJS260812.shtml)
+
++ [哥伦比亚宣布为地震遇难者举行三天全国哀悼](https://news.cctv.com/2026/08/12/ARTIe80ta7IZLH4nXuCjdStZ260812.shtml)
+
++ [索马里谴责哥伦比亚承认以色列对戈兰高地的“主权”](https://news.cctv.com/2026/08/12/ARTIGNAvN9sr69aMaXS30wBw260812.shtml)
+
