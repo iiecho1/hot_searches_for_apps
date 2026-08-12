@@ -125,3 +125,5 @@
 
 + [C 语言工业级通用组件手写 30：安全内存拷贝组件](https://blog.csdn.net/x1649545783/article/details/163673094)
 
++ [ollama v0.32.9发布：Nemotron 3.5 Lightning上线，Nemotron 3架构、工具调用解析与流式推理全面升级](https://blog.csdn.net/weixin_48502062/article/details/163699241)
+
