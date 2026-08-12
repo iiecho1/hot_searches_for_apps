@@ -101,3 +101,21 @@
 
 + [Android Flutter行业动态与学习参考（2026年8月）](https://blog.csdn.net/jikeehuang/article/details/163664224)
 
++ [Linux 从0到1部署Jenkins + Docker 实现CICD自动化实战详解](https://blog.csdn.net/zhangcongyi420/article/details/162806000)
+
++ [DM-dexp 逻辑导出：达梦数据库数据迁移与备份的核心工具实践指南](https://blog.csdn.net/qq_41840843/article/details/163694895)
+
++ [连OpenAI自己都被吓到了——Astra触发“关键级“安全阈值](https://blog.csdn.net/2601_96428997/article/details/163674425)
+
++ [OpenClaw + 隐私计算实战：联邦学习场景下的 Agent 数据隔离与安全协作](https://blog.csdn.net/sinat_41617212/article/details/163701064)
+
++ [PDF 脱敏技术【1】:PDF 脱敏不是盖黑框：为什么敏感信息仍能被复制，正确的保护方式是什么？](https://blog.csdn.net/lzfly/article/details/163671035)
+
++ [大三网安秋招核心学习前言（AI 安全 + Web 漏洞 + 内网渗透全考点）](https://blog.csdn.net/sbjdhjd/article/details/163674239)
+
++ [【前馈三维重建】AdaptiveSplat：前馈重建的纹理感知可控3DGS分配方法（ECCV 2026）](https://blog.csdn.net/qq_45752541/article/details/163641044)
+
++ [TDengine C++ 系列（6）：高性能写入——参数绑定、批量与 Schemaless](https://blog.csdn.net/QAZ600888/article/details/163677128)
+
++ [出海品牌AI可见性：如何让AI搜索引擎准确引用你的官网](https://blog.csdn.net/DeepIntelli/article/details/163677173)
+

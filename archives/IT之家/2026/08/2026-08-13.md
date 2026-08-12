@@ -25,3 +25,27 @@
 
 + [苹果 iOS / iPadOS 18.7.10 正式版发布](https://m.ithome.com/html/988067.htm)
 
++ [Mate 90 系列 + 韬定律芯片首秀？文旅部透露华为终端 Haco 发布会定档 9 月 23 日](https://m.ithome.com/html/988681.htm)
+
++ [9999 元起，荣耀 Robot Phone 手机正式发布](https://m.ithome.com/html/988961.htm)
+
++ [苹果首款折叠手机：iPhone Ultra 外屏曝光](https://m.ithome.com/html/988796.htm)
+
++ [小米澎湃 HyperOS 4 系统蓄势待发，REDMI 产品经理胡馨心透露“在路上了”](https://m.ithome.com/html/988839.htm)
+
++ [消息称华为终端 Haco 发布会档次将对标 Mate 60 发布会，甚至更加豪华](https://m.ithome.com/html/988797.htm)
+
++ [华为 nova16 SE 手机今日开售：麒麟 8020 芯片、8500mAh 电池，2499 元起](https://m.ithome.com/html/988576.htm)
+
++ [REDMI K100 Pro Max 上手体验：性能“超大杯”，续航也够猛](https://m.ithome.com/html/988618.htm)
+
++ [小米卢伟冰：REDMI K100 Pro Max 手机首销日销量为上代同期 150%](https://m.ithome.com/html/988589.htm)
+
++ [AMG 座椅金属车标暴晒后烫伤车主，奔驰在美遭集体诉讼](https://m.ithome.com/html/988682.htm)
+
++ [iOS 27 Beta 5 调整液态玻璃滑块，苹果提升最高透明度档位效果](https://m.ithome.com/html/988644.htm)
+
++ [小米推出 Xiaomi 蓝牙音箱磁吸版：重约 95g、能当手机支架，众筹价 132 元](https://m.ithome.com/html/988637.htm)
+
++ [苹果 2026 返校季活动延长至 9 月 24 日：中国大陆用户买 Mac / iPad 送 AirTags](https://m.ithome.com/html/988548.htm)
+
