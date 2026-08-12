@@ -119,3 +119,9 @@
 
 + [出海品牌AI可见性：如何让AI搜索引擎准确引用你的官网](https://blog.csdn.net/DeepIntelli/article/details/163677173)
 
++ [LangChain Agent 反复调用工具死循环？结构化返回 + Prompt 规则让它学会跳过](https://blog.csdn.net/javy21/article/details/163609470)
+
++ [21秋季standford cs144计算机网络Lab2 实现TCP接收端](https://blog.csdn.net/2401_87372485/article/details/163705437)
+
++ [C 语言工业级通用组件手写 30：安全内存拷贝组件](https://blog.csdn.net/x1649545783/article/details/163673094)
+
