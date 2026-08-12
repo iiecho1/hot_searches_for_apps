@@ -179,3 +179,5 @@
 
 + [近期恶劣天气致菲律宾21人死亡 逾314万人受灾](https://news.cctv.com/2026/08/12/ARTIv1o436YRu0vg7WIFmY5Z260812.shtml)
 
++ [韦布望远镜在银河系中心黑洞附近发现水和尘埃](https://news.cctv.com/2026/08/12/ARTIfDnkR3cEFhWN52ZPFM9v260812.shtml)
+

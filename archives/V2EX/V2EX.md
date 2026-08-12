@@ -41,3 +41,7 @@
 
 + [闲聊，感觉 MacbookPro M1Pro 还是很能打，这都过去 5 年了](https://www.v2ex.com/t/1233735)
 
++ [父母一直逼我买房怎么办](https://www.v2ex.com/t/1233790)
+
++ [回首来看，当年学的诗词甚是充满力量与哲理，最爱哪一句？](https://www.v2ex.com/t/1233712)
+
