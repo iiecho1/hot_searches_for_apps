@@ -37,3 +37,27 @@
 
 + [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 
++ [macro-inc/macro](https://github.com/macro-inc/macro)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
++ [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+
++ [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
++ [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
+
++ [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
+
++ [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
+
++ [localsend/localsend](https://github.com/localsend/localsend)
+
++ [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
+
++ [embabel/embabel-agent](https://github.com/embabel/embabel-agent)
+
++ [cactus-compute/needle](https://github.com/cactus-compute/needle)
+
