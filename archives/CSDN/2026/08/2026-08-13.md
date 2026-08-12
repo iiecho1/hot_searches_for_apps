@@ -127,3 +127,5 @@
 
 + [ollama v0.32.9发布：Nemotron 3.5 Lightning上线，Nemotron 3架构、工具调用解析与流式推理全面升级](https://blog.csdn.net/weixin_48502062/article/details/163699241)
 
++ [网络安全实战：JWT 安全攻防——从原理到深渊的暗战](https://blog.csdn.net/cui_yonghua/article/details/163668440)
+

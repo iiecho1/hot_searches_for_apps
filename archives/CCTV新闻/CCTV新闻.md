@@ -163,3 +163,13 @@
 
 + [科威特挫败一起针对重要设施的恐袭图谋](https://news.cctv.com/2026/08/13/ARTIw97oZ48jOyWL4GqnLbrb260813.shtml)
 
++ [哥伦比亚强震已致265人遇难](https://news.cctv.com/2026/08/13/ARTIODHeHnheY9J62DgH3ECH260813.shtml)
+
++ [哥伦比亚宣布进入经济紧急状态以应对强震](https://news.cctv.com/2026/08/13/ARTIEFqJw82NWsC70VeTsYUO260813.shtml)
+
++ [世卫组织：美国调整儿童疫苗接种计划背离科学依据](https://news.cctv.com/2026/08/13/ARTI0AKxbjfV1kPYjOqp4Uo3260813.shtml)
+
++ [伊拉克总理：9月30日为国际联盟撤军最后期限](https://news.cctv.com/2026/08/13/ARTI4EYfHT8ynl4VyQB2ri9o260813.shtml)
+
++ [南苏丹霍乱疫情已致1721人死亡 确诊病例超11万例](https://news.cctv.com/2026/08/13/ARTITghkZ9EJtxYKSY3QxQ9l260813.shtml)
+
