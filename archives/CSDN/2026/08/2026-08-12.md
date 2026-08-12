@@ -139,3 +139,13 @@
 
 + [投资自己，成就更好的爱情=健康-技能-衣食住行-认知-社交前辈-爱好](https://blog.csdn.net/qq_38998213/article/details/163677628)
 
++ [DeepSeek Harness内测开启，AI Agent竞争升级](https://blog.csdn.net/qq_19309473/article/details/163677009)
+
++ [网络安全实战：JWT 安全攻防——从原理到深渊的暗战](https://blog.csdn.net/cui_yonghua/article/details/163668440)
+
++ [GitHub 热榜项目：日榜（2026-08-11）](https://blog.csdn.net/u130130/article/details/163677215)
+
++ [Muse Glimmer 本地部署指南：24GB 显卡、Apple Silicon 与 llama.cpp 实战](https://blog.csdn.net/aidoudoulong/article/details/163665724)
+
++ [AI如何重构下一代智能工厂：从数字孪生到Factory Agent Brain的技术演进](https://blog.csdn.net/qq_40453532/article/details/163673773)
+

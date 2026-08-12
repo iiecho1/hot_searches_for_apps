@@ -169,3 +169,13 @@
 
 + [胡塞武装在曼德海峡打击一艘运输沙特军事装备的船只](https://news.cctv.com/2026/08/12/ARTILgASUEoRwV83zJzMlFvK260812.shtml)
 
++ [印尼龙目海峡一船只起火 114人全部安全撤离](https://news.cctv.com/2026/08/12/ARTIA6eWXK0EQ2BFCRxcfx5Q260812.shtml)
+
++ [特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大”](https://news.cctv.com/2026/08/12/ARTIxnBX8emddRuslsY9QMQ5260812.shtml)
+
++ [一架驻日美军“鱼鹰”运输机在栃木县紧急降落](https://news.cctv.com/2026/08/12/ARTIitj5TrJLCoZhDaGr52Kx260812.shtml)
+
++ [内部调查显示美军2025年对也门的打击致数百平民伤亡](https://news.cctv.com/2026/08/12/ARTI0c5ecLebavbGKEpqA2So260812.shtml)
+
++ [近期恶劣天气致菲律宾21人死亡 逾314万人受灾](https://news.cctv.com/2026/08/12/ARTIv1o436YRu0vg7WIFmY5Z260812.shtml)
+
