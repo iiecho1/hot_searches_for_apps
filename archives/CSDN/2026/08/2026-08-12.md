@@ -201,3 +201,9 @@
 
 + [大三网安秋招核心学习前言（AI 安全 + Web 漏洞 + 内网渗透全考点）](https://blog.csdn.net/sbjdhjd/article/details/163674239)
 
++ [关于第21届全国大学生智能车竞赛华南赛区国赛晋级名单的二次申诉](https://blog.csdn.net/zhuoqingjoking97298/article/details/163685340)
+
++ [Linux Docker 服务管理与排查实战指南（新手速查版）](https://blog.csdn.net/jason_renyu/article/details/163633972)
+
++ [[论文学习]A-MemGuard:基于LLM智能体记忆的主动防禦框架](https://blog.csdn.net/HK2KING/article/details/163582823)
+

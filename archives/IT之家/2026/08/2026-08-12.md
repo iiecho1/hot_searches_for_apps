@@ -25,3 +25,11 @@
 
 + [苹果 iOS / iPadOS 18.7.10 正式版发布](https://m.ithome.com/html/988067.htm)
 
++ [含 iPhone Ultra、iPhone 18 Pro 等，六款未发布的苹果 iPhone 新机首度现身 iOS 27 系统代码](https://m.ithome.com/html/988508.htm)
+
++ [零跑 A05 纯电小车正式上市：最高 510km 续航，6.39 万-9.09 万元](https://m.ithome.com/html/988468.htm)
+
++ [首发赠 5 年电池保 + 小背包：小米 REDMI K100 Pro / Max 京东 12 期免息](https://m.ithome.com/html/988493.htm)
+
++ [卢伟冰：未来随着新机陆续发布，大家一定会感觉 REDMI K100 Pro 系列越来越香](https://m.ithome.com/html/988527.htm)
+
