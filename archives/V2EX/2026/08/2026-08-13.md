@@ -43,3 +43,5 @@
 
 + [谈谈程序员心中的 AI 工具鄙视链？](https://www.v2ex.com/t/1234008)
 
++ [local.ai](https://www.v2ex.com/t/1234095)
+

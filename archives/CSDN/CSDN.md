@@ -159,3 +159,17 @@
 
 + [GPT-Live 与 GPT-Realtime：产品模型和公开 API 不应混写](https://blog.csdn.net/w776341482/article/details/163714694)
 
++ [基于DolphinDB的生产数据分析与优化实战——从OEE到成本的全链路分析体系](https://blog.csdn.net/sinat_41617212/article/details/163707387)
+
++ [每周 120 万个 App 诞生，每位开发者都是智能体管理者——Google 在上海画出了一张全栈 AI 出海路线图](https://blog.csdn.net/tangxiaoyin/article/details/163719283)
+
++ [Ubuntu部署GodoOS：Docker搭建Web办公桌面并实现远程访问](https://blog.csdn.net/weixin_44976692/article/details/163725625)
+
++ [【工程师笔记｜新能源整车CAN总线ESD系统防护完整方案，解决30kV静电击穿痛点】](https://blog.csdn.net/weixin_62244995/article/details/163644075)
+
++ [Open-Lovable本地部署实战:抓取网页并生成React前端](https://blog.csdn.net/2301_76341691/article/details/163722078)
+
++ [MySQL 多表连接完整指南：内连接、左 / 右外连接实战与开发避坑](https://blog.csdn.net/2501_91275995/article/details/163687928)
+
++ [Windows部署MiGPT GUI：小爱音箱接入大模型、TTS与自定义人设](https://blog.csdn.net/qq_46123200/article/details/163723211)
+
