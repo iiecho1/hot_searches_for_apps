@@ -187,3 +187,9 @@
 
 + [摩洛哥称监测到社媒帖文煽动民众偷渡 已展开调查](https://news.cctv.com/2026/08/13/ARTIlWkSq1XInR8DD6PUJbll260813.shtml)
 
++ [驻日美军一架F-22战机因发生故障紧急降落](https://news.cctv.com/2026/08/13/ARTIVftEAs7sZk5XfYVTCn2X260813.shtml)
+
++ [因多瑙河水位持续下降 罗马尼亚唯一核电站停运](https://news.cctv.com/2026/08/13/ARTIJh8L12vjhBtlxsfUnlST260813.shtml)
+
++ [普京登上俄日争议岛屿 日本强烈抗议](https://news.cctv.com/2026/08/13/ARTIEZG6zH8RvIfg9wqFtA89260813.shtml)
+

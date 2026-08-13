@@ -149,3 +149,13 @@
 
 + [AI 前沿与嵌入式科技日报｜推理运行时集中升级，机器人策略开始走向标准化](https://blog.csdn.net/u013134676/article/details/163705172)
 
++ [Python 实战：用 IPPEAK 代理 IP 构建稳定的公开数据采集链路](https://blog.csdn.net/qq_44273429/article/details/163718407)
+
++ [老项目翻新实录｜拿AI记账系统实测 Seed Evolving，这次真的能打](https://blog.csdn.net/beautifulmemory/article/details/163670397)
+
++ [SQL Server到金仓：IDENTITY列迁移实践——业务主表自增主键与并发写入怎么平稳切换](https://blog.csdn.net/u014727709/article/details/163705898)
+
++ [飞牛NAS部署Immich:搭建家庭相册并实现远程访问](https://blog.csdn.net/2401_87629362/article/details/163640943)
+
++ [GPT-Live 与 GPT-Realtime：产品模型和公开 API 不应混写](https://blog.csdn.net/w776341482/article/details/163714694)
+
