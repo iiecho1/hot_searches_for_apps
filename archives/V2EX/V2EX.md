@@ -49,3 +49,5 @@
 
 + [Cursor 的实际体验怎么样？](https://www.v2ex.com/t/1234043)
 
++ [Codex 重置后，账号额度明显缩水](https://www.v2ex.com/t/1233991)
+
