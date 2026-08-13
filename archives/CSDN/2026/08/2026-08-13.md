@@ -141,3 +141,11 @@
 
 + [Docker（4）部署企业级前后端分离项目：Vue3 + Java 完整实战](https://blog.csdn.net/you_yunznz/article/details/163668638)
 
++ [AIRI 完全指南：Electron + Capacitor 多端自托管 LLM 虚拟角色](https://blog.csdn.net/zhangay1998/article/details/163082242)
+
++ [【计算几何 八章】排列与对偶：光线跟踪超采样](https://blog.csdn.net/he_zhidan/article/details/163506263)
+
++ [SpringBoot3+Vue3 会议室预订系统：时段冲突三模式检测 + 会前定时提醒与 cancelByBiz](https://blog.csdn.net/zhouzhongyan/article/details/163713149)
+
++ [AI 前沿与嵌入式科技日报｜推理运行时集中升级，机器人策略开始走向标准化](https://blog.csdn.net/u013134676/article/details/163705172)
+
