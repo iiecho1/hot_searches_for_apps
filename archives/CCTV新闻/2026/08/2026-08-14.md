@@ -161,3 +161,9 @@
 
 + [国际足联：不支持任何违反章程的主席选举进程](https://news.cctv.com/2026/08/09/ARTICxpjwhgOaynl3PZjD9HD260809.shtml)
 
++ [联合国特使警告也门面临重新陷入大规模冲突风险](https://news.cctv.com/2026/08/14/ARTIjmVwe9mDmoyOquw5KQ8M260814.shtml)
+
++ [美军宣布启动组建首支多国无人机特遣部队](https://news.cctv.com/2026/08/14/ARTIApi3UR8vha1dmEobTx30260814.shtml)
+
++ [俄外交部驳斥日方就普京登岛提出的抗议](https://news.cctv.com/2026/08/14/ARTItakaDctK44skWL2gx0om260814.shtml)
+
