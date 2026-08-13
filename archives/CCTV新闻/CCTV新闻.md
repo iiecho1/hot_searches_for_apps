@@ -167,3 +167,13 @@
 
 + [俄外交部驳斥日方就普京登岛提出的抗议](https://news.cctv.com/2026/08/14/ARTItakaDctK44skWL2gx0om260814.shtml)
 
++ [高达100% 美国将对进口无人机及零部件征收关税](https://news.cctv.com/2026/08/14/ARTIbS6NyiP5T69ia9g1cEDY260814.shtml)
+
++ [希腊度假胜地野火失控致数百人疏散 两名消防员受伤](https://news.cctv.com/2026/08/14/ARTIrTlQpobS6XFK35mAx5cK260814.shtml)
+
++ [伊朗外交部再次谴责美以违反国际人道法](https://news.cctv.com/2026/08/14/ARTIwJvxs5YCO9NdtT2PleMG260814.shtml)
+
++ [荷兰警方确认鹿特丹港爆炸系工作事故](https://news.cctv.com/2026/08/14/ARTIxCQf9bNjJexslNCT2RrS260814.shtml)
+
++ [英国东萨塞克斯郡一列火车脱轨 致11人受伤](https://news.cctv.com/2026/08/14/ARTIlvezIfYLHsPOAcRnD1yk260814.shtml)
+
