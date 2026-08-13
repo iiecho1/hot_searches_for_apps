@@ -35,3 +35,19 @@
 
 + [cactus-compute/needle](https://github.com/cactus-compute/needle)
 
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+
++ [unslothai/unsloth](https://github.com/unslothai/unsloth)
+
++ [megadose/holehe](https://github.com/megadose/holehe)
+
++ [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS)
+
++ [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
+
++ [3b1b/manim](https://github.com/3b1b/manim)
+
++ [lightningpixel/modly](https://github.com/lightningpixel/modly)
+
