@@ -101,3 +101,23 @@
 
 + [【计算机网络 | 数据链路层1：为什么 IP 数据报还要封装成帧？】](https://blog.csdn.net/DdigitalNomad/article/details/163658092)
 
++ [7月中国AI应用排行榜：AI办公混战，谁在抢用户的“第一入口“？](https://blog.csdn.net/zaochengxu/article/details/163722047)
+
++ [【LangChain】核心技术：嵌入模型与向量存储完全指南](https://blog.csdn.net/2503_91389547/article/details/161828886)
+
++ [远程玩游戏，参数再好看也得“手感说了算“——ToDesk vs UU远程硬核横评](https://blog.csdn.net/2501_91062530/article/details/163695300)
+
++ [【LE Audio】PBP精讲[3]: 公共广播角色的能力要求与执行规范](https://blog.csdn.net/weixin_37800531/article/details/163596357)
+
++ [MPP 数据库](https://blog.csdn.net/weixin_44624117/article/details/163676239)
+
++ [前端转大模型：把关键能力落到项目里](https://blog.csdn.net/2601_96189167/article/details/163714056)
+
++ [PDF 脱敏技术【1】:PDF 脱敏不是盖黑框：为什么敏感信息仍能被复制，正确的保护方式是什么？](https://blog.csdn.net/lzfly/article/details/163671035)
+
++ [Vue 2 与 Vue 3 在应用初始化上的设计差异与技术演进](https://blog.csdn.net/HX0942/article/details/163706884)
+
++ [【极客互动】企业微信自动化进入深水区：从 API 接入到私域运营，如何构建真正可控的企业微信技术底座？](https://blog.csdn.net/WXID_Mrzhu0107/article/details/163727377)
+
++ [Llama-Factory 微调 Qwen 实战：让 0.5B 小模型学会信息抽取](https://blog.csdn.net/weixin_61731209/article/details/163676565)
+
