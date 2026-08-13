@@ -45,3 +45,7 @@
 
 + [local.ai](https://www.v2ex.com/t/1234095)
 
++ [感觉自己被这个社会判了死刑。](https://www.v2ex.com/t/1234133)
+
++ [Cursor 的实际体验怎么样？](https://www.v2ex.com/t/1234043)
+

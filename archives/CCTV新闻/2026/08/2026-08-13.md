@@ -193,3 +193,7 @@
 
 + [普京登上俄日争议岛屿 日本强烈抗议](https://news.cctv.com/2026/08/13/ARTIEZG6zH8RvIfg9wqFtA89260813.shtml)
 
++ [美大使称围困巴勒斯坦民房的以定居者是“恐怖分子”](https://news.cctv.com/2026/08/13/ARTICyhuDNdtKgwhT0Hihm0X260813.shtml)
+
++ [德国今年与高温相关的死亡人数约1.25万人](https://news.cctv.com/2026/08/13/ARTILVPIktwiUTAATgCHiouh260813.shtml)
+

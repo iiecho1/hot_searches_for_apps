@@ -173,3 +173,11 @@
 
 + [Windows部署MiGPT GUI：小爱音箱接入大模型、TTS与自定义人设](https://blog.csdn.net/qq_46123200/article/details/163723211)
 
++ [《Java 100 天进阶之路》第73篇：Spring IoC容器（2026版）](https://blog.csdn.net/slyn_2004/article/details/163707131)
+
++ [【BlueZ】4.x vs 5.x 核心差异：为什么推荐开发首选 5.x 版本](https://blog.csdn.net/weixin_37800531/article/details/163596253)
+
++ [飞牛NAS部署Password-XL:搭建自托管Web密码管理器](https://blog.csdn.net/qq_51601665/article/details/163724961)
+
++ [【花雕学编程】Arduino BLDC 之农田巡检多机器人弹性圆形编队（旋转方向随目标自适应）](https://blog.csdn.net/weixin_41659040/article/details/163713182)
+
