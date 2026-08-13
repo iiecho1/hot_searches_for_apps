@@ -181,3 +181,11 @@
 
 + [【花雕学编程】Arduino BLDC 之农田巡检多机器人弹性圆形编队（旋转方向随目标自适应）](https://blog.csdn.net/weixin_41659040/article/details/163713182)
 
++ [SQL Server到金仓：临时表与表变量替代实践——复杂报表迁移中的临时对象、统计信息与执行计划](https://blog.csdn.net/u014727709/article/details/163728234)
+
++ [第21届全国大学生智能车竞赛智慧救援区域选拔赛获奖名单](https://blog.csdn.net/zhuoqingjoking97298/article/details/163729717)
+
++ [【DeepSeek-V4-Pro-0813 API小白接入教程】10分钟完成Python调用与思考模式配置](https://blog.csdn.net/m0_73879806/article/details/163726093)
+
++ [Jenkins + Spring Boot + MinIO 自动化部署实战笔记](https://blog.csdn.net/2603_95369890/article/details/163705745)
+

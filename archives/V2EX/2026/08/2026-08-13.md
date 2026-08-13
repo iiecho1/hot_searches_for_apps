@@ -51,3 +51,5 @@
 
 + [Codex 重置后，账号额度明显缩水](https://www.v2ex.com/t/1233991)
 
++ [[限时福利] HyperAPI 的新老用户们，来领鸡蛋了](https://www.v2ex.com/t/1234025)
+
