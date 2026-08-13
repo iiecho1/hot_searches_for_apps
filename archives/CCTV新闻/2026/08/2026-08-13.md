@@ -173,3 +173,15 @@
 
 + [南苏丹霍乱疫情已致1721人死亡 确诊病例超11万例](https://news.cctv.com/2026/08/13/ARTITghkZ9EJtxYKSY3QxQ9l260813.shtml)
 
++ [在AI领域筑墙设垒，美国困住的是谁？](https://news.cctv.com/2026/08/13/ARTIUEdji6TRpvmz3MWLruTO260813.shtml)
+
++ [731部队原队员证实日军曾在中国埋藏毒气弹](https://news.cctv.com/2026/08/13/ARTIlYSYildG60XMUXRL4tYO260813.shtml)
+
++ [全球媒体聚焦 | “中国在走自己的发展之路，没有挤压任何人”](https://news.cctv.com/2026/08/13/ARTI4rLieA5EfmmVt13knaip260813.shtml)
+
++ [特朗普：白宫新闻秘书莱维特将于本月底离任](https://news.cctv.com/2026/08/13/ARTIt5J7riSNEpRdJDch74LZ260813.shtml)
+
++ [委内瑞拉政府与反对派结束首轮对话 达成多项协议](https://news.cctv.com/2026/08/13/ARTI8YGLRmJfx8ZKVNTFxU6q260813.shtml)
+
++ [美战略石油储备不足3亿桶 创43年来新低](https://news.cctv.com/2026/08/13/ARTIe545dr8CIwQk3xjacbpE260813.shtml)
+

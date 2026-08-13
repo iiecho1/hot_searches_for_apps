@@ -133,3 +133,11 @@
 
 + [复盘小站：用 Doubao-Seed-Evolving，把厚厚的笔记一键变成可复习、可自测、可批改的知识资产](https://blog.csdn.net/lrq13965748542/article/details/163705906)
 
++ [MPP 数据库](https://blog.csdn.net/weixin_44624117/article/details/163676239)
+
++ [GitHub 热榜项目：日榜（2026-08-10）](https://blog.csdn.net/u130130/article/details/163647009)
+
++ [深入浅出 Elastic 工作流（Workflows）：核心架构与十一大顶级字段详解](https://blog.csdn.net/UbuntuTouch/article/details/163698784)
+
++ [Docker（4）部署企业级前后端分离项目：Vue3 + Java 完整实战](https://blog.csdn.net/you_yunznz/article/details/163668638)
+
