@@ -137,3 +137,39 @@
 
 + [Java转大模型：能跑通Demo的人很多，能搞定权限和日志的很少](https://blog.csdn.net/LLM_9528/article/details/163720529)
 
++ [2026手机远程办公：向日葵、TeamViewer、ToDesk鸿蒙适配+传文件+AI审计功能对比](https://blog.csdn.net/weixin_37800531/article/details/163734879)
+
++ [中科院软件所实习的一周](https://blog.csdn.net/2501_93736439/article/details/163731892)
+
++ [DM表空间深度解析：掌握达梦数据库存储架构与核心管理](https://blog.csdn.net/qq_41840843/article/details/163722308)
+
++ [SpringBoot3+Flowable 审批条件分支实战：请假天数/金额如何编译成排他网关表达式](https://blog.csdn.net/zhouzhongyan/article/details/163734912)
+
++ [【python】【FastAPI 进阶】《FastAPI 异步内核剖析：中间件链与 SQLAlchemy 异步驱动的全链路非阻塞实践》](https://blog.csdn.net/m0_74821874/article/details/163731791)
+
++ [ChatGPT/Claude加密思维链被破解：31万条AI对话泄露62个API密钥，你的密钥可能已裸奔](https://blog.csdn.net/johnsong2009/article/details/163707589)
+
++ [MySQL迁移KaiwuDB全攻略：从单机到集群的完整实践](https://blog.csdn.net/u014727709/article/details/163734143)
+
++ [Text-to-SQL 复杂关联查询实战：数据库设计与LLM 大模型生成多表JOIN](https://blog.csdn.net/yelangkingwuzuhu/article/details/163735079)
+
++ [上下文工程实战：让 AI 在正确时间知道正确的事](https://blog.csdn.net/weixin_74809706/article/details/163613979)
+
++ [网络安全实战：JWT 安全攻防——从原理到深渊的暗战](https://blog.csdn.net/cui_yonghua/article/details/163668440)
+
++ [Re：Linux系统篇（五十五）线程篇 · 八：为什么需要条件变量？从生活比喻、API 梳理到 pthread_cond 实战源码探究](https://blog.csdn.net/Z2314246476/article/details/163572717)
+
++ [MySQL 多表连接完整指南：内连接、左 / 右外连接实战与开发避坑](https://blog.csdn.net/2501_91275995/article/details/163687928)
+
++ [【Linux】进程控制深度解析：fork、exit、waitpid、exec 与简易 Shell 完整闭环](https://blog.csdn.net/weixin_64304261/article/details/163724244)
+
++ [ELK企业级日志分析平台3——ES数据备份 & 集群监控 & ELFK+Kafka 架构部署](https://blog.csdn.net/2302_80853486/article/details/163676546)
+
++ [OpenClaw装好了然后呢？我让它自己把NAS、小游戏和远程桌面连到公网](https://blog.csdn.net/liu_chen_yang/article/details/163726094)
+
++ [01 硬件选型与 llama.cpp 部署：4× RTX 5880 Ada 跑 DeepSeek-V4-Flash](https://blog.csdn.net/qq_33254264/article/details/163750310)
+
++ [制造企业老厂房网络怎么升级？从多工厂组网到生产安全的一体化改造方案](https://blog.csdn.net/OgCloud_ICT/article/details/163702108)
+
++ [便携式焊接机器人品牌怎么选？高性价比品牌推荐](https://blog.csdn.net/IIMTROBOT/article/details/163735485)
+
