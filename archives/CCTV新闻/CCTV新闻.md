@@ -177,3 +177,15 @@
 
 + [英国东萨塞克斯郡一列火车脱轨 致11人受伤](https://news.cctv.com/2026/08/14/ARTIlvezIfYLHsPOAcRnD1yk260814.shtml)
 
++ [日本千叶县强降雨已致6人死亡 超2.2万户停电](https://news.cctv.com/2026/08/14/ARTIDXZu5SJ42q6Rzkq1PAyp260814.shtml)
+
++ [零时差 | 中国车在欧洲“跑”得有多快？欧洲对华电动汽车认知逆转的背后](https://news.cctv.com/2026/08/14/ARTIVoaKPkQHpLoFgGdbRB3W260814.shtml)
+
++ [“必须站出来，阻止高市政府把日本再次拖向战争”（国际视点）](https://news.cctv.com/2026/08/14/ARTIZiIUf72xoDcFc5DJwpvu260814.shtml)
+
++ [突破底线，日本“新型军国主义”成势为患（寰宇平）](https://news.cctv.com/2026/08/14/ARTIbIwej9shljEHvLDp7wYx260814.shtml)
+
++ [印度一在建隧道塌方 已致至少7人死亡](https://news.cctv.com/2026/08/14/ARTIWZJKtOvnzbjgFpcJtQI5260814.shtml)
+
++ [特朗普允许美海军海外建造舰船 要求弃用电磁弹射系统](https://news.cctv.com/2026/08/14/ARTIWVwAFHTmnykZeLkYUl4s260814.shtml)
+

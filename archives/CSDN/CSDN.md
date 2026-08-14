@@ -129,3 +129,11 @@
 
 + [当一页A4塞进5000个字：密集表格解析的极限挑战](https://blog.csdn.net/INTSIG/article/details/163714936)
 
++ [不用PyTorch，不用CUDA，我用C++手写了一个能跑GPT和Whisper的推理库](https://blog.csdn.net/chen1415886044/article/details/163676973)
+
++ [【公共云三十问 之十九】公共云如何走出一条中国特色道路？](https://blog.csdn.net/devcloud/article/details/163703876)
+
++ [Java Spring -- 基于注解开发](https://blog.csdn.net/2401_83469272/article/details/163698087)
+
++ [Java转大模型：能跑通Demo的人很多，能搞定权限和日志的很少](https://blog.csdn.net/LLM_9528/article/details/163720529)
+
