@@ -101,3 +101,23 @@
 
 + [如何让APP像微信、抖音一样运行第三方短剧小程序，持续丰富内容资源？](https://blog.csdn.net/FinClaw/article/details/163704221)
 
++ [【LangChain】核心技术：嵌入模型与向量存储完全指南](https://blog.csdn.net/2503_91389547/article/details/161828886)
+
++ [【MYSQL】MYSQL学习的一大重点：MySQL连接池原理与分析简易网站数据流动是如何进行](https://blog.csdn.net/2401_89899187/article/details/163252580)
+
++ [中科院软件所实习的一周](https://blog.csdn.net/2501_93736439/article/details/163731892)
+
++ [KES专业技能包发布:覆盖数据库开发、迁移与运维全流程](https://blog.csdn.net/2401_87629362/article/details/163747624)
+
++ [Vue 2 与 Vue 3 在应用初始化上的设计差异与技术演进](https://blog.csdn.net/HX0942/article/details/163706884)
+
++ [Reflected Cross Site Scripting（XSS）反射型跨站脚本漏洞：用户输入回显缺陷与 DVWA 分级绕过实战](https://blog.csdn.net/R_Feynman_/article/details/163732368)
+
++ [网络安全实战：WAF 绕过技巧大全——云 WAF、ModSecurity 实战对抗](https://blog.csdn.net/cui_yonghua/article/details/163760010)
+
++ [从零用 Java 实现小红书 SpringBoot Vue UniApp（18）音视频聊天室完整实现](https://blog.csdn.net/qq_35238367/article/details/163719861)
+
++ [2026 编码智能体三强对比：Trae/Qoder CN/CodeBuddy 安全护栏](https://blog.csdn.net/2401_85300269/article/details/163717470)
+
++ [WorkBuddy AI工具使用介绍完全指南](https://blog.csdn.net/beautifulmemory/article/details/163644164)
+
