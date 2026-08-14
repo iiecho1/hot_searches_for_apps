@@ -35,3 +35,17 @@
 
 + [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
++ [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+
++ [github/spec-kit](https://github.com/github/spec-kit)
+
++ [cursor/plugins](https://github.com/cursor/plugins)
+
++ [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
+
++ [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
++ [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+
++ [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
