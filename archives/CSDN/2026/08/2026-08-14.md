@@ -191,3 +191,9 @@
 
 + [如何让APP像微信、抖音一样运行第三方短剧小程序，持续丰富内容资源？](https://blog.csdn.net/FinClaw/article/details/163704221)
 
++ [端侧 AI 赋能鸿蒙版 Obsidian：轻规划基于 HarmonyOS 7.0 图像超分特性的体验突破与开发实战](https://blog.csdn.net/sjw890821sjw/article/details/163676718)
+
++ [【Linux 篇】数字世界的通用法则 —— 一切皆文件底层原理深度解析](https://blog.csdn.net/buhuizhiyuci/article/details/163695329)
+
++ [代码审查不想得罪人？WorkBuddy 先做第一轮审查，附完整 Prompt 模板](https://blog.csdn.net/javy21/article/details/163613316)
+
