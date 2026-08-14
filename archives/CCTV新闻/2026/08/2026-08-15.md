@@ -161,3 +161,11 @@
 
 + [以色列政府被曝将投资专款挪至国防预算 紧急采购武器](https://news.cctv.com/2026/08/10/ARTIPsRfpxAa3yrFc7s1h9sg260810.shtml)
 
++ [德国莱茵河考布水位创历史新低 航运或被“截断”](https://news.cctv.com/2026/08/15/ARTIH1HDZSUtu7JHq65ZIz8l260815.shtml)
+
++ [美被曝对古巴策略转向强化制裁 军事选项淡出](https://news.cctv.com/2026/08/15/ARTINuBGgwciEiLtb47U0Dvl260815.shtml)
+
++ [特朗普称“很快将宣布霍尔木兹海峡为美国领土”](https://news.cctv.com/2026/08/15/ARTI23Tl6KMAyP3DELIjq40u260815.shtml)
+
++ [巴勒斯坦谴责以方定居点“民事执法权”移交计划](https://news.cctv.com/2026/08/15/ARTIKPihKNXxGse0VfVtRdmp260815.shtml)
+
