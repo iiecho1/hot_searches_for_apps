@@ -181,3 +181,13 @@
 
 + [告别“卡脖子“：中海油服“海恒“固井软件背后的国产数据底座](https://blog.csdn.net/user340/article/details/163735512)
 
++ [【GaussDB】507内核新特性-PLSQL字节码（三）](https://blog.csdn.net/GaussDB/article/details/163756733)
+
++ [我用 Spring Boot + Vue 3 做了一套旅游攻略分享平台](https://blog.csdn.net/m0_65592409/article/details/163734083)
+
++ [Agent 不是越自主越好：如何设计可控的智能系统](https://blog.csdn.net/2403_87933448/article/details/163702194)
+
++ [工业 IoT 时序数据质量实战：缺值、异常与卡死值的检测与清洗](https://blog.csdn.net/Rqaqedamancy/article/details/163733388)
+
++ [如何让APP像微信、抖音一样运行第三方短剧小程序，持续丰富内容资源？](https://blog.csdn.net/FinClaw/article/details/163704221)
+
