@@ -53,3 +53,7 @@
 
 + [婚纱照选择](https://www.v2ex.com/t/1234285)
 
++ [讲一个我的朋友的人生故事吧——青年、骗子、爱情与生活](https://www.v2ex.com/t/1234360)
+
++ [deepseek-harness 初体验，讨论下呢](https://www.v2ex.com/t/1234264)
+
