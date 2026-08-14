@@ -121,3 +121,7 @@
 
 + [WorkBuddy AI工具使用介绍完全指南](https://blog.csdn.net/beautifulmemory/article/details/163644164)
 
++ [从语法坑点到 JS 内存底层：Vue 3 watch 侦听器深度全解](https://blog.csdn.net/HX0942/article/details/163734017)
+
++ [DeepSeek Harness 开源了，[一切皆插件]，把他拆开看一看~](https://blog.csdn.net/houwenjin/article/details/163735570)
+
