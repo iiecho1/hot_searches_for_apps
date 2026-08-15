@@ -171,3 +171,11 @@
 
 + [巴黎：热浪再袭](https://photo.cctv.com/2026/08/15/PHOA8ze4592fTFCleQBt0pb1260815.shtml)
 
++ [外交部发言人就日本政要参拜供奉甲级战犯的靖国神社答记者问](https://news.cctv.com/2026/08/15/ARTIVd6RhELaANhESDwWr9Fk260815.shtml)
+
++ [欧洲头条丨远在北非的一场危机 为何让欧洲内部 “互相设防”](https://news.cctv.com/2026/08/15/ARTIXHD5VPG9zrA9VG09kdBD260815.shtml)
+
++ [美国陆军暂停所有“阿帕奇”直升机训练任务](https://news.cctv.com/2026/08/15/ARTIwS6jxaWG1M69Tg9xE1HT260815.shtml)
+
++ [印尼7.7级地震已致2人死亡 海啸预警解除](https://news.cctv.com/2026/08/15/ARTIq9mQs0DGcDTYvnPKWKXK260815.shtml)
+

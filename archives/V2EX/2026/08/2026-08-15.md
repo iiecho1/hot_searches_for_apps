@@ -31,3 +31,13 @@
 
 + [支付宝 iOS 碰一下的支付流程改变了](https://www.v2ex.com/t/1234346)
 
++ [你们周末都是怎么快速放松的？](https://www.v2ex.com/t/1234355)
+
++ [接力一下 local.ai](https://www.v2ex.com/t/1234324)
+
++ [购买 88vip 带的夸克会员要慎重，基本上一个月要验证一次](https://www.v2ex.com/t/1234327)
+
++ [[稳定中转] plus0.1-0.12 自建正价 pro20x 稳定号池 0.18x 可用性拉满](https://www.v2ex.com/t/1234372)
+
++ [大冤种！刚全额续费 Gemini Pro，给我账号封了！](https://www.v2ex.com/t/1234459)
+
