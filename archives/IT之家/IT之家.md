@@ -25,3 +25,27 @@
 
 + [微软品牌 Windows Phone 手机工程机上手视频曝光](https://m.ithome.com/html/989681.htm)
 
++ [小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属](https://m.ithome.com/html/990027.htm)
+
++ [微信员工透露最新微信鸿蒙版 App 已全量功能，含聊天发送实况图片、收藏聊天记录支持复制等](https://m.ithome.com/html/990046.htm)
+
++ [iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池](https://m.ithome.com/html/990000.htm)
+
++ [曝小米澎湃 HyperOS 4“浏览器”支持插件功能](https://m.ithome.com/html/989978.htm)
+
++ [岚图追光 S 正式上市：华为乾崑智驾四激光方案加持，限时 22.39 万-27.39 万元](https://m.ithome.com/html/990113.htm)
+
++ [小米澎湃 OS：“超级小爱灵感球” 9 月内上线 Beta 版，“取餐码上岛”不晚于 8 月底上线 Beta 版](https://m.ithome.com/html/989981.htm)
+
++ [DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发](https://m.ithome.com/html/990002.htm)
+
++ [首发 79 元：酷态科 6 号车充「伸缩线」发布，双口 77W MAX 输出](https://m.ithome.com/html/990163.htm)
+
++ [小米 REDMI 产品经理详解澎湃 HyperOS 4 Beta 版用途，K100 Pro 系列手机确认首批升级正式版系统](https://m.ithome.com/html/990034.htm)
+
++ [腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步](https://m.ithome.com/html/990041.htm)
+
++ [苹果在意大利撤下“幼儿手持 iPhone”争议宣传海报](https://m.ithome.com/html/989982.htm)
+
++ [番茄小说作者“去世”三年后“复活”：读者斥其消费感情，平台介入调查](https://m.ithome.com/html/990164.htm)
+
