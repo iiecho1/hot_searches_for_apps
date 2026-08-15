@@ -69,3 +69,5 @@
 
 + [个人开发，选哪个性价比更高？](https://www.v2ex.com/t/1234528)
 
++ [用了十几年的 github 号被封了](https://www.v2ex.com/t/1234561)
+

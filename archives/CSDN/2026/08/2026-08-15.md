@@ -191,3 +191,7 @@
 
 + [一天一个halcon案例（2）](https://blog.csdn.net/m0_61903191/article/details/159653663)
 
++ [FPGA人工智能引擎架构](https://blog.csdn.net/ccsss22/article/details/163783085)
+
++ [Promtail + Loki + Grafana部署实践：从日志采集到LogQL查询](https://blog.csdn.net/Tiam_cr/article/details/163776226)
+
