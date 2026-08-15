@@ -179,3 +179,15 @@
 
 + [微服务五层防御架构：SSO、OAuth2、OIDC 原理与 Spring AuthorizationServer 落地](https://blog.csdn.net/qq_24597659/article/details/163780541)
 
++ [SQL Server数据迁移不只是把数据搬过去](https://blog.csdn.net/2302_78391795/article/details/163715999)
+
++ [基于本地 PaddleOCR 的 PDF 文字识别完整技术文档](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163753456)
+
++ [把网页变成 Markdown：从手工收藏到批量自动化的实战指南](https://blog.csdn.net/herosunly/article/details/163773497)
+
++ [HTTP 到底在哪一层？别只会背七层（应用层·上）](https://blog.csdn.net/2401_87961121/article/details/163761004)
+
++ [Codex Desktop Chrome 插件导致 Windows 鼠标卡顿：实机排查证据与解决办法](https://blog.csdn.net/strive_max/article/details/163777321)
+
++ [一天一个halcon案例（2）](https://blog.csdn.net/m0_61903191/article/details/159653663)
+
