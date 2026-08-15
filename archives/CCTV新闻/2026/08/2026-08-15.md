@@ -183,3 +183,5 @@
 
 + [视频丨印尼7.7级地震已致东努沙登加拉省5人死亡](https://news.cctv.com/2026/08/15/ARTIfWyUWaivhF3Vatx3VfIs260815.shtml)
 
++ [韩国总统李在明：将追缴亲日反民族行为者财产](https://news.cctv.com/2026/08/15/ARTILGrFPVSgjZq2sUBfXbc7260815.shtml)
+
