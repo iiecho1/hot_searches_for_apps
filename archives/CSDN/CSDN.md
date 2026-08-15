@@ -107,3 +107,31 @@
 
 + [Spring Boot 优雅停机配置详解（含 Docker / Docker Swarm）](https://blog.csdn.net/qq_37488568/article/details/163758113)
 
++ [Horse3D 游戏引擎研发笔记（六）：IBalikun——组件编辑器接口与宿主关联](https://blog.csdn.net/2503_92624912/article/details/163783314)
+
++ [Flowable+SpringBoot3 流程改版不炸在途单据：新版 v+1、旧版挂起与 definitionId 冻结](https://blog.csdn.net/zhouzhongyan/article/details/163771664)
+
++ [告别分片地狱，金仓时序数据库的超表架构如何让开发者只管写SQL](https://blog.csdn.net/beautifulmemory/article/details/163779610)
+
++ [宝塔 Nginx 构建 Service Worker](https://blog.csdn.net/weixin_46211269/article/details/163773416)
+
++ [Linux网络部分——TCP服务端、客户端架构分析多进程、多线程、线程池](https://blog.csdn.net/oooooooooooohd/article/details/163771864)
+
++ [2026 编码智能体三强对比：Trae/Qoder CN/CodeBuddy 安全护栏](https://blog.csdn.net/2401_85300269/article/details/163717470)
+
++ [【免费】基于Python的微信小程序共享单车系统(FastAPI+Vue3) 锋哥原创出品，必属精品](https://blog.csdn.net/caoli201314/article/details/163780655)
+
++ [网络安全实战：CDN 与安全——源站隐藏、缓存投毒、真实 IP 溯源](https://blog.csdn.net/cui_yonghua/article/details/163760069)
+
++ [GitHub每日热评｜源码深度审计｜Needle2 端侧超轻量工具调用模型（AST编译器级解析+量化评分+落地实践）](https://blog.csdn.net/TunerT_TQ/article/details/163781805)
+
++ [【Comfy‘UI升级 sageattention 2.2.0】的方法和关键文件的下载地址](https://blog.csdn.net/qq_42944545/article/details/163764972)
+
++ [GitHub 双仓库静态部署完整配置手册（适配你的项目）](https://blog.csdn.net/weixin_48053866/article/details/163783704)
+
++ [当具身巡检机器人走进工厂：工业爬虫的5个升级方向与能力迁移路径](https://blog.csdn.net/shanwei_spider/article/details/163772764)
+
++ [AI修改器如何改写游戏安全对抗：从Agent联动到内存篡改](https://blog.csdn.net/qq_46702493/article/details/163746553)
+
++ [简述：C++ 内核 + .NET 封装 vs C++ 内核 + Java 封装：桌面 GIS 架构深度对比](https://blog.csdn.net/hsg77/article/details/163761201)
+
