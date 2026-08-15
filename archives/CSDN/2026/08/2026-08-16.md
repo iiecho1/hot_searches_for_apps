@@ -137,3 +137,7 @@
 
 + [人在外面，手机打开电脑里的照片？Android Java + Go + webrpc 跨端预览](https://blog.csdn.net/qq974816077/article/details/163784937)
 
++ [DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案](https://blog.csdn.net/u014727709/article/details/163762797)
+
++ [Agentic AI上线就崩？权限日志才是Demo到生产的分水岭](https://blog.csdn.net/2601_96120158/article/details/163743678)
+
