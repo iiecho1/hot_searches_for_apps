@@ -49,3 +49,7 @@
 
 + [目前国内价格合适,能用的开发模型有哪些.](https://www.v2ex.com/t/1234407)
 
++ [在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731](https://www.v2ex.com/t/1234521)
+
++ [刚买了个贝尔金充电器，准备做 Mac 充电器的平替，然后测了下纹波，结果震惊了](https://www.v2ex.com/t/1234506)
+
