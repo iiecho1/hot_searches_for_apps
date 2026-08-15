@@ -147,3 +147,15 @@
 
 + [深入理解 UDP 协议：从报文格式到面向数据报的本质](https://blog.csdn.net/Felix_kiss_L/article/details/163732370)
 
++ [AI从黑客变成了保安——AI开始“分专业“了](https://blog.csdn.net/2601_96428997/article/details/163730955)
+
++ [MySQL 索引深度讲解：B + 树、聚簇索引、索引分类及优化实战](https://blog.csdn.net/2501_91275995/article/details/163762841)
+
++ [数据孤岛扼杀企业效率？低代码成业务打通最优解](https://blog.csdn.net/sdgfafg_25/article/details/163747249)
+
++ [AI-Powered Wiki Generator: DeepWiki, OpenDeepWiki, DeepWiki-Open (Grok-Wiki) and Zread](https://blog.csdn.net/chengyq116/article/details/163705747)
+
++ [同一个模型为什么在不同 Agent 里表现不同：模型与 Harness 的责任边界](https://blog.csdn.net/w776341482/article/details/163746708)
+
++ [DeepSeek Harness 自定义模型提供商配置](https://blog.csdn.net/liulilittle/article/details/163735449)
+
