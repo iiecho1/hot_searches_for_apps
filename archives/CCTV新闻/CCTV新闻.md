@@ -161,3 +161,9 @@
 
 + [胡塞武装再袭政府军 联合国特使警告也门冲突升级](https://news.cctv.com/2026/08/11/ARTI1hixe8lpMIMr3Qb74BCa260811.shtml)
 
++ [摩洛哥加强边境管控 拦截294名企图非法越境人员](https://news.cctv.com/2026/08/16/ARTI8i5HKOmpNhkPDnAPy9J6260816.shtml)
+
++ [以色列空袭黎巴嫩 造成11人死亡](https://news.cctv.com/2026/08/16/ARTIDv2MihRzqQ1gFRoCNEJl260816.shtml)
+
++ [日本千叶县暴雨已致9人死亡 超千栋房屋被淹](https://news.cctv.com/2026/08/16/ARTIROBYNtbcWE4byIlYBeCz260816.shtml)
+

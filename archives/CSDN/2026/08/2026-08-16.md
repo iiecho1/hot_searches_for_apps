@@ -141,3 +141,7 @@
 
 + [Agentic AI上线就崩？权限日志才是Demo到生产的分水岭](https://blog.csdn.net/2601_96120158/article/details/163743678)
 
++ [飞牛OS部署Mtab：Docker搭建自托管书签导航并实现远程访问](https://blog.csdn.net/2302_78391795/article/details/163755005)
+
++ [Java Spring -- 声明式事务控制](https://blog.csdn.net/2401_83469272/article/details/163758368)
+
