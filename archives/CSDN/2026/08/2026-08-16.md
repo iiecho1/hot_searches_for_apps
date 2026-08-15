@@ -135,3 +135,5 @@
 
 + [简述：C++ 内核 + .NET 封装 vs C++ 内核 + Java 封装：桌面 GIS 架构深度对比](https://blog.csdn.net/hsg77/article/details/163761201)
 
++ [人在外面，手机打开电脑里的照片？Android Java + Go + webrpc 跨端预览](https://blog.csdn.net/qq974816077/article/details/163784937)
+
