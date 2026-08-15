@@ -169,3 +169,5 @@
 
 + [巴勒斯坦谴责以方定居点“民事执法权”移交计划](https://news.cctv.com/2026/08/15/ARTIKPihKNXxGse0VfVtRdmp260815.shtml)
 
++ [巴黎：热浪再袭](https://photo.cctv.com/2026/08/15/PHOA8ze4592fTFCleQBt0pb1260815.shtml)
+

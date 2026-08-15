@@ -125,3 +125,5 @@
 
 + [DeepSeek Harness 开源了，[一切皆插件]，把他拆开看一看~](https://blog.csdn.net/houwenjin/article/details/163735570)
 
++ [ELK企业级日志分析平台3——ES数据备份 & 集群监控 & ELFK+Kafka 架构部署](https://blog.csdn.net/2302_80853486/article/details/163676546)
+
