@@ -35,3 +35,13 @@
 
 + [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
++ [cordiverse/cordis](https://github.com/cordiverse/cordis)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+
++ [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+
++ [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+

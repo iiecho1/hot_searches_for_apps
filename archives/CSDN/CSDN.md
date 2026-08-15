@@ -171,3 +171,11 @@
 
 + [Jenkins + Spring Boot + MinIO 自动化部署实战笔记](https://blog.csdn.net/2603_95369890/article/details/163705745)
 
++ [Spring Boot + Vue + Uniapp 企业登录安全：图形/滑块验证码 + 短信验证码 + Redis 限频实战](https://blog.csdn.net/zhouzhongyan/article/details/163707021)
+
++ [我把技术博主名单做成了一个可检索网站：React 数据建模与 SEO 实践](https://blog.csdn.net/weixin_51390582/article/details/163778381)
+
++ [Java Spring -- 声明式事务控制](https://blog.csdn.net/2401_83469272/article/details/163758368)
+
++ [微服务五层防御架构：SSO、OAuth2、OIDC 原理与 Spring AuthorizationServer 落地](https://blog.csdn.net/qq_24597659/article/details/163780541)
+
