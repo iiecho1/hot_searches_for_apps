@@ -101,3 +101,9 @@
 
 + [AI Agent Harness服务注册发现：微服务架构](https://blog.csdn.net/universsky2015/article/details/163777652)
 
++ [MySQL迁移KaiwuDB全攻略：从单机到集群的完整实践](https://blog.csdn.net/u014727709/article/details/163734143)
+
++ [AI前沿技术日报｜2026-08-15｜GLM-5.3、Qwen3.8开源、英伟达CPO交换机量产、SpaceX完成Cursor收购](https://blog.csdn.net/qq_36729037/article/details/163772316)
+
++ [Spring Boot 优雅停机配置详解（含 Docker / Docker Swarm）](https://blog.csdn.net/qq_37488568/article/details/163758113)
+
