@@ -159,3 +159,15 @@
 
 + [DeepSeek Harness 自定义模型提供商配置](https://blog.csdn.net/liulilittle/article/details/163735449)
 
++ [飞牛OS部署Mtab：Docker搭建自托管书签导航并实现远程访问](https://blog.csdn.net/2302_78391795/article/details/163755005)
+
++ [MySQL到KaiwuDB关系引擎迁移：KDTS图形化工具实战](https://blog.csdn.net/u014727709/article/details/163762547)
+
++ [半年没写博客了，聊聊 AI、技术和生活](https://blog.csdn.net/flashier/article/details/163763586)
+
++ [国产数据库撑起固井软件自主化：金仓 × 中海油服「海恒 Cemsol」落地解析](https://blog.csdn.net/2401_86326742/article/details/163749700)
+
++ [深入探寻微服务【第四篇微服务监控实战】](https://blog.csdn.net/uybji/article/details/163774770)
+
++ [Jenkins + Spring Boot + MinIO 自动化部署实战笔记](https://blog.csdn.net/2603_95369890/article/details/163705745)
+
