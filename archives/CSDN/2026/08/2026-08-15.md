@@ -135,3 +135,15 @@
 
 + [【Linux 系统篇(十五)】进程 (三) ：进程状态深度详解](https://blog.csdn.net/Huang_jin007/article/details/163726590)
 
++ [词帆 CiFan：基于故事分级阅读与 AI 伴学的英语学习平台](https://blog.csdn.net/qq_46987323/article/details/163705105)
+
++ [哪个远程控制软件低延迟适合玩游戏？2026年8月六款远程工具按游戏类型深度实测](https://blog.csdn.net/qyj19920704/article/details/163763139)
+
++ [MongoDB Exporter部署实战：接入Prometheus并配置监控告警](https://blog.csdn.net/Dovis5884/article/details/163774391)
+
++ [一切皆插件：DeepSeek Harness 的架构哲学，以及与主流 Agent 的对比](https://blog.csdn.net/qq8864/article/details/163761974)
+
++ [Zookeeper - 集群端口配置：2181 2888 3888 的作用](https://blog.csdn.net/qq_41187124/article/details/157688917)
+
++ [深入理解 UDP 协议：从报文格式到面向数据报的本质](https://blog.csdn.net/Felix_kiss_L/article/details/163732370)
+

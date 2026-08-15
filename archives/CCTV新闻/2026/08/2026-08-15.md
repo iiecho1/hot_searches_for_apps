@@ -181,3 +181,5 @@
 
 + [欧洲头条丨远在北非的一场危机 为何让欧洲内部“互相设防”](https://news.cctv.com/2026/08/15/ARTIXHD5VPG9zrA9VG09kdBD260815.shtml)
 
++ [视频丨印尼7.7级地震已致东努沙登加拉省5人死亡](https://news.cctv.com/2026/08/15/ARTIfWyUWaivhF3Vatx3VfIs260815.shtml)
+
