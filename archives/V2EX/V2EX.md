@@ -37,3 +37,11 @@
 
 + [每天上午 9-10 点左右都开始困，有什么好的方法吗？](https://www.v2ex.com/t/1234714)
 
++ [一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的](https://www.v2ex.com/t/1234711)
+
++ [你们回娘家会洗碗吗](https://www.v2ex.com/t/1234654)
+
++ [各位 Pi 选手转 dsh 了吗](https://www.v2ex.com/t/1234716)
+
++ [[吐槽] OpenCode 惊现 两年虫 大 bug，线上业务几千个会话在同一时间一起炸了...](https://www.v2ex.com/t/1234574)
+

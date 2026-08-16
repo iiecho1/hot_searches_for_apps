@@ -171,3 +171,5 @@
 
 + [津巴布韦船只倾覆事故死亡人数升至72人 其中含18名儿童](https://news.cctv.com/2026/08/16/ARTICEIRedpnSt74AIJcjAcz260816.shtml)
 
++ [瓦努阿图群岛发生6.1级地震，震源深度150千米](https://news.cctv.com/2026/08/16/ARTIkGIQLaBUQ6Nq0jWdR6xn260816.shtml)
+
