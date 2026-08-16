@@ -189,3 +189,5 @@
 
 + [印尼7.7级地震死亡人数升至51人](https://news.cctv.com/2026/08/16/ARTIcpCdULcXtnyGqBYqHQBI260816.shtml)
 
++ [特朗普再促参议院通过全年采用夏令时法案](https://news.cctv.com/2026/08/16/ARTIuXMywKAJ3f4fZgtmJtOB260816.shtml)
+

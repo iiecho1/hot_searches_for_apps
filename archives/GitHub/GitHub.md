@@ -27,3 +27,9 @@
 
 + [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
++ [basecamp/omarchy](https://github.com/basecamp/omarchy)
+
++ [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+
++ [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+
