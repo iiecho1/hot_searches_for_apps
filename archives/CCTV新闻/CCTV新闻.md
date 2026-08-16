@@ -191,3 +191,7 @@
 
 + [特朗普再促参议院通过全年采用夏令时法案](https://news.cctv.com/2026/08/16/ARTIuXMywKAJ3f4fZgtmJtOB260816.shtml)
 
++ [乌称袭击俄重要军工企业 俄称一日击落近1500架乌无人机](https://news.cctv.com/2026/08/16/ARTIBYBL8MwRK2y1GRw8hOuT260816.shtml)
+
++ [伊朗军方：对每名入境美国军人悬赏50亿土曼](https://news.cctv.com/2026/08/16/ARTI8xkn9TwfjLnhUy2Ezbyc260816.shtml)
+

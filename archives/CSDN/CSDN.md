@@ -227,3 +227,9 @@
 
 + [深入探寻微服务【第五篇微服务限流实战】](https://blog.csdn.net/uybji/article/details/163783235)
 
++ [Dropout/WeightDecay/BatchNorm/LayerNorm深度实战｜附GroupNorm补充，CV&大模型分层正则选型指南](https://blog.csdn.net/qq_36729037/article/details/163776547)
+
++ [DeepSeek Harness 教程：一切皆插件的开源 Agent 框架](https://blog.csdn.net/qq_43701370/article/details/163780932)
+
++ [云笔记本，刷linux，天翼云笔记本rk3568](https://blog.csdn.net/xueyizhi/article/details/163784149)
+

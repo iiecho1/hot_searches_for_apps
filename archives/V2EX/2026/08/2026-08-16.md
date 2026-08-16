@@ -63,3 +63,5 @@
 
 + [如何无缝丝滑切换使用 Codex 和 DeepSeek](https://www.v2ex.com/t/1234734)
 
++ [我得罪了 Linux .do 站长始皇后我就被她报复了](https://www.v2ex.com/t/1234740)
+
