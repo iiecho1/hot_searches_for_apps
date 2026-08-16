@@ -69,3 +69,5 @@
 
 + [兔牙-20260815 ahyeah rollin wigglewiggle 期待 眼泪簌簌 火车摇](https://m.acfun.cn/v/?ac=48779609)
 
++ [南极大冒险7月24日通关录像](https://m.acfun.cn/v/?ac=48780481)
+
