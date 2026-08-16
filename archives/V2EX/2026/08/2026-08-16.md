@@ -55,3 +55,5 @@
 
 + [爆肝一下午，整了个桌面版 DeepSeek Harness，你不用再装 Node.js 了](https://www.v2ex.com/t/1234671)
 
++ [一年的 Manus Pro 还没有到期了，就给我取消了，毫无商业道德啊！](https://www.v2ex.com/t/1234707)
+

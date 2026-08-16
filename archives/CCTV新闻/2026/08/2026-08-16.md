@@ -181,3 +181,11 @@
 
 + [联合国教科文组织：乌克兰敖德萨6座文化遗产建筑遭袭受损](https://news.cctv.com/2026/08/16/ARTIAP9xpZnDxBTHFZzfmnSy260816.shtml)
 
++ [阿尔及利亚西北部发生交通事故 造成6死31伤](https://news.cctv.com/2026/08/16/ARTIn6PBi2TxcjNDcsKOkaG1260816.shtml)
+
++ [卡塔尔否认扣押3名伊朗飞行员 伊方呼吁允许伊空军入境调查](https://news.cctv.com/2026/08/16/ARTIdb1EKLFu8DOC548meT6E260816.shtml)
+
++ [波兰旅游大巴在匈牙利发生重大交通事故 已致12人死亡](https://news.cctv.com/2026/08/16/ARTIg1ZeTWbg8sgxYj4WCbxo260816.shtml)
+
++ [印尼7.7级地震死亡人数升至51人](https://news.cctv.com/2026/08/16/ARTIcpCdULcXtnyGqBYqHQBI260816.shtml)
+
