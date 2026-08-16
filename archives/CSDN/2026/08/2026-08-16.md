@@ -203,3 +203,13 @@
 
 + [【万能转换器｜20】HarmonyOS ArkTS AppGallery 发布复查实战：核对包名、版本、设备、素材和离线声明](https://blog.csdn.net/2401_84996024/article/details/163250315)
 
++ [写给只会 Go 的后端：从 0 认识大模型（LLM）到 Prompt](https://blog.csdn.net/lihaoweiwudi_/article/details/163762599)
+
++ [后量子密码：基于散列的签名方案](https://blog.csdn.net/lansoul1987/article/details/163782214)
+
++ [Day 14 · 从 Function Calling 到 ReAct Agent](https://blog.csdn.net/2601_96428997/article/details/163799314)
+
++ [数据可视化Three.js 3D 地图实战：单文件原生实现省域区县拉伸建模](https://blog.csdn.net/weixin_41290949/article/details/163797494)
+
++ [GitHub每日热评｜源码深度审计：FluidVoice‑macOS端侧本地语音听写应用工程评测](https://blog.csdn.net/TunerT_TQ/article/details/163791906)
+
