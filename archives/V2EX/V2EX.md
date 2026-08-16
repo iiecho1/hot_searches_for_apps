@@ -53,3 +53,5 @@
 
 + [2026 剃须刀求推荐](https://www.v2ex.com/t/1234735)
 
++ [爆肝一下午，整了个桌面版 DeepSeek Harness，你不用再装 Node.js 了](https://www.v2ex.com/t/1234671)
+

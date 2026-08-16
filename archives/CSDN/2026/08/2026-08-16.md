@@ -197,3 +197,9 @@
 
 + [服务机器人访客视觉感知与人体特征分析系统开发](https://blog.csdn.net/PoisonJames/article/details/163792436)
 
++ [从 Oracle 移植到 DM：国产数据库迁移实战指南](https://blog.csdn.net/qq_41840843/article/details/163785402)
+
++ [Deepseek大语言模型解析、商用授权协议与国内合规资质说明](https://blog.csdn.net/xiaochenXIHUA/article/details/163795876)
+
++ [【万能转换器｜20】HarmonyOS ArkTS AppGallery 发布复查实战：核对包名、版本、设备、素材和离线声明](https://blog.csdn.net/2401_84996024/article/details/163250315)
+
