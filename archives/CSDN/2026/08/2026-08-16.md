@@ -181,3 +181,19 @@
 
 + [《VLA 系列》π0 | Flow Matching 动作专家 | 跨本体机器人策略 | 论文与源码解析](https://blog.csdn.net/qq_38964360/article/details/163746219)
 
++ [MySQL迁移实战：从连接到代码的“零改造“路径](https://blog.csdn.net/2401_87629362/article/details/163781229)
+
++ [Springboot+WebSocket×场景×渠道：企业统一消息中心编排实战](https://blog.csdn.net/zhouzhongyan/article/details/163713092)
+
++ [【花雕学编程】Arduino BLDC 之机器人在动态环境下的精确姿态估计](https://blog.csdn.net/weixin_41659040/article/details/163792291)
+
++ [GitHub 热榜项目 - 周榜(2026-08-16)](https://blog.csdn.net/u014390502/article/details/163795001)
+
++ [【Linux 篇】数字世界的内存桥梁 —— mmap 内存映射深度实战解析](https://blog.csdn.net/buhuizhiyuci/article/details/163638785)
+
++ [机器学习基本常识](https://blog.csdn.net/ycx66668888/article/details/163754217)
+
++ [《VLA 系列》π0.7 | 多模态提示可控机器人基座模型 | 组合泛化与跨本体迁移 | 论文与复现思路](https://blog.csdn.net/qq_38964360/article/details/163792730)
+
++ [服务机器人访客视觉感知与人体特征分析系统开发](https://blog.csdn.net/PoisonJames/article/details/163792436)
+

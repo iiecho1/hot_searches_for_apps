@@ -175,3 +175,7 @@
 
 + [印尼7.7级地震致5000余人疏散避难 多县应急响应](https://news.cctv.com/2026/08/16/ARTISwT4c8zlyGEcn5liku5s260816.shtml)
 
++ [美国官员称特朗普再次要求修改新航母设计](https://news.cctv.com/2026/08/16/ARTI2kU67vH5R2WiLs5tXp3G260816.shtml)
+
++ [库什纳访以埃在即 哈马斯领导人赴埃会谈](https://news.cctv.com/2026/08/16/ARTIXO30NMZckduujT6WYXpr260816.shtml)
+
