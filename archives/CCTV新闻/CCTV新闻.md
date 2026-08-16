@@ -173,3 +173,5 @@
 
 + [瓦努阿图群岛发生6.1级地震，震源深度150千米](https://news.cctv.com/2026/08/16/ARTIkGIQLaBUQ6Nq0jWdR6xn260816.shtml)
 
++ [印尼7.7级地震致5000余人疏散避难 多县应急响应](https://news.cctv.com/2026/08/16/ARTISwT4c8zlyGEcn5liku5s260816.shtml)
+
