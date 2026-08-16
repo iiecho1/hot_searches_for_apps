@@ -61,3 +61,5 @@
 
 + [和朋友弄了个 AI API 中转小站， V2EX 网友注册送 20 元额度](https://www.v2ex.com/t/1234770)
 
++ [如何无缝丝滑切换使用 Codex 和 DeepSeek](https://www.v2ex.com/t/1234734)
+
