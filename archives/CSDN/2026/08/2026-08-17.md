@@ -101,3 +101,39 @@
 
 + [【Comfy‘UI升级 sageattention 2.2.0】的方法和关键文件的下载地址](https://blog.csdn.net/qq_42944545/article/details/163764972)
 
++ [DolphinDB 生产排程优化：从约束建模到智能排产系统的完整实践](https://blog.csdn.net/sinat_41617212/article/details/163781159)
+
++ [【AI智能体】Codex 生成高质量电商套图实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/163593776)
+
++ [智能体AI（Agentic AI）学习路径指南](https://blog.csdn.net/2501_90864902/article/details/163784808)
+
++ [【知识讲解】 Linux权限相关知识讲解](https://blog.csdn.net/2501_93971468/article/details/163762875)
+
++ [从稀疏到稠密，从静态到动态：Embedding 算法的四代进化史](https://blog.csdn.net/2401_89111612/article/details/163735308)
+
++ [Docker Compose部署Redis 7.2.15一主两从集群](https://blog.csdn.net/LinBilin_/article/details/163763522)
+
++ [Agent 核心原理：工具调用总翻车，为什么团队协作反而更慢？](https://blog.csdn.net/LLM_9528/article/details/163760393)
+
++ [TronLink波宝钱包安卓APK服务开发指南](https://blog.csdn.net/caiwencankan/article/details/163746472)
+
++ [手游挂机多开用什么模拟器？MuMu、雷电、逍遥三款横评实测](https://blog.csdn.net/weixin_42878111/article/details/163755519)
+
++ [不安全反序列化利用篇（四）：预构建 Gadget Chain——从反序列化检测到框架利用](https://blog.csdn.net/2401_85321170/article/details/163773457)
+
++ [等保合规场景安全产品解决方案（等保二级）](https://blog.csdn.net/Hardworking666/article/details/163802713)
+
++ [106-模型量化技术-GGUF-GPTQ-AWQ-bitsandbytes对比](https://blog.csdn.net/weixin_44081096/article/details/163784802)
+
++ [TCP 可靠传输与性能优化核心机制详解](https://blog.csdn.net/2401_87889177/article/details/163080479)
+
++ [Flutter AI Harness 如何让 Agent 参与软件开发全流程](https://blog.csdn.net/ljq5945/article/details/163772442)
+
++ [GitHub今日热榜 | 2026-08-15：头部零换血，高星老项目回流](https://blog.csdn.net/m0_68631449/article/details/163773771)
+
++ [Google TPU、Amazon Trainium采用不同的硬件架构](https://blog.csdn.net/2501_94238955/article/details/163778703)
+
++ [网络安全——消息认证](https://blog.csdn.net/cold___play/article/details/163803108)
+
++ [Agent 安全实战：提示词注入、权限边界、数据泄露与成本控制](https://blog.csdn.net/2401_88139521/article/details/163728494)
+
