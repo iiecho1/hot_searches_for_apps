@@ -167,3 +167,5 @@
 
 + [日本千叶县暴雨已致9人死亡 超千栋房屋被淹](https://news.cctv.com/2026/08/16/ARTIROBYNtbcWE4byIlYBeCz260816.shtml)
 
++ [利比亚一发电站附近爆炸 首都等多地停电](https://news.cctv.com/2026/08/16/ARTIFwAEoKeaPtXf5gdpLUsT260816.shtml)
+

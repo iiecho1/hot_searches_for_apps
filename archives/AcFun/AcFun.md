@@ -67,3 +67,5 @@
 
 + [隐藏视频！神秘超自然力量？罗斯玛丽人生的崩溃！剧情解释Walten Files 5 My Soul](https://m.acfun.cn/v/?ac=48777191)
 
++ [奇妙能力歌](https://m.acfun.cn/v/?ac=48778159)
+

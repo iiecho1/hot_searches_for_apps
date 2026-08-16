@@ -147,3 +147,9 @@
 
 + [网络安全实战：WebSocket 安全——跨站 WebSocket 劫持实战](https://blog.csdn.net/cui_yonghua/article/details/163760217)
 
++ [Dify 韧性验证实验（04）：安全对抗——如何给 AI 应用做安全对抗测试？](https://blog.csdn.net/xluge/article/details/163762765)
+
++ [Flutter AI Harness 如何让 Agent 参与软件开发全流程](https://blog.csdn.net/ljq5945/article/details/163772442)
+
++ [Agent 安全实战：提示词注入、权限边界、数据泄露与成本控制](https://blog.csdn.net/2401_88139521/article/details/163728494)
+
