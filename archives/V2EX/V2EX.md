@@ -21,3 +21,5 @@
 
 + [跑跑卡丁车网页版](https://www.v2ex.com/t/1234766)
 
++ [iPhone 18 Pro 想买首发 想买非国行版本 有什么渠道吗？](https://www.v2ex.com/t/1234749)
+
