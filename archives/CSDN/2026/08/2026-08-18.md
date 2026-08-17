@@ -119,3 +119,5 @@
 
 + [【寻迹校园 HarmonyOS NEXT 实战 01】从校园痛点到可上架 MVP：失物招领应用产品设计](https://blog.csdn.net/m0_74969023/article/details/163834338)
 
++ [笔记本电脑 EC（Embedded Controller）架构与系统交互机制](https://blog.csdn.net/u013669912/article/details/163783889)
+
