@@ -197,3 +197,9 @@
 
 + [韩国：期待朝美领导人关系发展为“有意义”对话](https://news.cctv.com/2026/08/17/ARTIIyr5pc8m0aMF5xjcqiYE260817.shtml)
 
++ [机构警告：全球食品价格上涨 或迎新一轮危机](https://news.cctv.com/2026/08/17/ARTINxzD0oFmH8I2cyWElSAf260817.shtml)
+
++ [奥地利遭遇有记录以来最严重干旱](https://news.cctv.com/2026/08/17/ARTImM5SM02ZAClQmb8spJJa260817.shtml)
+
++ [西班牙韦尔瓦省发生枪击事件 已致3人死亡](https://news.cctv.com/2026/08/17/ARTIkLcxcOcqC3xOguawEeeC260817.shtml)
+

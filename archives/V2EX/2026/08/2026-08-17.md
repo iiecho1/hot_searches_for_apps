@@ -47,3 +47,5 @@
 
 + [爱快被黑，速自查](https://www.v2ex.com/t/1234880)
 
++ [codex 自动发外链： submify v2 版本升级+内置 3k 外链，发到吐。。。](https://www.v2ex.com/t/1234881)
+
