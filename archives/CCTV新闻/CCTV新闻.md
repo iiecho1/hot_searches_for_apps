@@ -193,3 +193,7 @@
 
 + [菲律宾民防局：持续强降雨已致500多万人受灾](https://news.cctv.com/2026/08/17/ARTIXrJmCpHd3efrWd5syD6V260817.shtml)
 
++ [日军暴行再被曝光：日本军医拿“本国士兵”做活体实验](https://news.cctv.com/2026/08/17/ARTIrfqSda1g07E9owK8BtD6260817.shtml)
+
++ [韩国：期待朝美领导人关系发展为“有意义”对话](https://news.cctv.com/2026/08/17/ARTIIyr5pc8m0aMF5xjcqiYE260817.shtml)
+

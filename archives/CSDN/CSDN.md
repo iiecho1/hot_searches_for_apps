@@ -201,3 +201,13 @@
 
 + [【AI大模型接入SDK】名词解释](https://blog.csdn.net/2401_89899187/article/details/163802939)
 
++ [从 PostgreSQL 移植到 DM：实现国产化数据库平滑迁移的实战指南](https://blog.csdn.net/qq_41840843/article/details/163785363)
+
++ [【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵](https://blog.csdn.net/he_zhidan/article/details/163392422)
+
++ [服务器挂了才发现?我用Beszel把多台主机和Docker状态集中到一个面板](https://blog.csdn.net/2401_87629362/article/details/163823700)
+
++ [开源 BeautiCode：给 DeepSeek Harness 加动态皮肤，我是如何实现视频背景、插件接入和安全回滚的](https://blog.csdn.net/2501_93406211/article/details/163822442)
+
++ [深入读懂微信 AI 底层逻辑：普通人、商家掘金完整手册](https://blog.csdn.net/weixin_43151418/article/details/163825158)
+
