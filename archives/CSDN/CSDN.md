@@ -163,3 +163,7 @@
 
 + [腾讯云国际版云数据库选型：MySQL、Redis 怎么按业务架构来判断](https://blog.csdn.net/Niceyun/article/details/163745816)
 
++ [SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%](https://blog.csdn.net/qq_57761637/article/details/163811264)
+
++ [Qwen3.8 27B深度评测：开源大模型本地部署的终极选择，还是一场“免费陷阱“？](https://blog.csdn.net/ylscode/article/details/163801888)
+

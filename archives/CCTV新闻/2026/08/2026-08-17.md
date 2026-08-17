@@ -177,3 +177,7 @@
 
 + [尼日利亚西北部一社区遭土匪袭击 已致数十人死亡](https://news.cctv.com/2026/08/17/ARTIlpiDQpI1yMbtDcNQpYaE260817.shtml)
 
++ [欧洲多地山火持续 三国联合扑救比利时创纪录山火](https://news.cctv.com/2026/08/17/ARTIEI8TBCCr3FGBZgamcCpn260817.shtml)
+
++ [中使馆提醒在沙特中资机构和中国公民注意沙官方安全警报](https://news.cctv.com/2026/08/17/ARTI20KMZKo8E01mvilVAgbf260817.shtml)
+
