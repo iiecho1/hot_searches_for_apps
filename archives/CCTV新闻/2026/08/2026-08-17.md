@@ -165,3 +165,9 @@
 
 + [伊朗军方称美军已被驱逐 不得进入霍尔木兹海峡](https://news.cctv.com/2026/08/17/ARTIt2f2epficIlU2euMyaPr260816.shtml)
 
++ [特朗普要求“大幅缩减”美韩军演规模](https://news.cctv.com/2026/08/17/ARTIxtStsJ3CJpQoq9rYl1hY260817.shtml)
+
++ [哥伦比亚强震已致289人死亡 逾18万人受灾](https://news.cctv.com/2026/08/17/ARTIVNY3MAlypf1eziyKyK0U260817.shtml)
+
++ [韩国庆尚南道泥石流致一人死亡、20余人被困](https://news.cctv.com/2026/08/17/ARTIyuPqn9aAccmSv8XDgu7P260817.shtml)
+

@@ -147,3 +147,7 @@
 
 + [Cursor 2026大版本发布：重构开发者工作流](https://blog.csdn.net/mafei_it/article/details/163751941)
 
++ [ollama v0.32.11更新：DeepSeek Harness、Muse Code 接入，Responses API 支持 Web Search](https://blog.csdn.net/weixin_48502062/article/details/163756286)
+
++ [RocketMQ 顺序消息优化：单 Queue 瓶颈、最终一致与 Join 三种方案](https://blog.csdn.net/weixin_44700876/article/details/163749997)
+
