@@ -171,3 +171,21 @@
 
 + [MySQL 索引深度讲解：B + 树、聚簇索引、索引分类及优化实战](https://blog.csdn.net/2501_91275995/article/details/163762841)
 
++ [AI 编程进入监督时代：从补全代码到管理执行系统](https://blog.csdn.net/weixin_74809706/article/details/163614025)
+
++ [SpringBoot3+Vue3 最推荐的开源 OA 系统 2026：流程驱动、资源闭环、多端互通](https://blog.csdn.net/zhouzhongyan/article/details/163803949)
+
++ [最强大的智能问数系统SQLBot实战](https://blog.csdn.net/weixin_41645135/article/details/163802246)
+
++ [Spark大数据分析与实战笔记（第七章 Spark Streaming实时计算框架-01）](https://blog.csdn.net/u014727709/article/details/163802536)
+
++ [大模型工程化实战（二）：Golden Set + CI 评测，给LLM内容上量具](https://blog.csdn.net/xiaobing259/article/details/163800937)
+
++ [Linux五种I/O模型与fcntl非阻塞控制](https://blog.csdn.net/Miun123/article/details/163764248)
+
++ [Dart 3.13 大更新，感觉比 Flutter 更带劲](https://blog.csdn.net/ZuoYueLiang/article/details/163812478)
+
++ [服务器源代码防泄密进阶方案｜沙箱隔离+DLP+私有化云桌面构建企业级安全闭环](https://blog.csdn.net/srlsong/article/details/163799995)
+
++ [智能家居系统怎么选？KNX 总线 vs 米家/涂鸦/华为无线方案实战对比](https://blog.csdn.net/wuhanzheyue/article/details/163800811)
+
