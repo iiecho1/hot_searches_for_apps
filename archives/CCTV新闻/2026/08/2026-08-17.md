@@ -215,3 +215,5 @@
 
 + [在长崎，“南京大屠杀”如何被篡改为“南京事件”](https://news.cctv.com/2026/08/17/ARTIjJJLPKL3fape2hCCIy1b260817.shtml)
 
++ [欧洲大河不断“瘦身” 水危机的经济账谁买单](https://news.cctv.com/2026/08/17/ARTIgzD8Gq4zoyVA73AgGxns260817.shtml)
+
