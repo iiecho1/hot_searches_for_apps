@@ -167,3 +167,7 @@
 
 + [Qwen3.8 27B深度评测：开源大模型本地部署的终极选择，还是一场“免费陷阱“？](https://blog.csdn.net/ylscode/article/details/163801888)
 
++ [实时数据集成怎么选？自研 / 开源 / 商用对比](https://blog.csdn.net/weixin_37800531/article/details/163772766)
+
++ [MySQL 索引深度讲解：B + 树、聚簇索引、索引分类及优化实战](https://blog.csdn.net/2501_91275995/article/details/163762841)
+

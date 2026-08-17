@@ -39,3 +39,5 @@
 
 + [沈腾的龙餐馆看着有些别扭呀](https://www.v2ex.com/t/1234873)
 
++ [想问问朋友们现在都是用的什么 Coding Agent？](https://www.v2ex.com/t/1234794)
+
