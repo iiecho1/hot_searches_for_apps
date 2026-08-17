@@ -161,3 +161,5 @@
 
 + [摩根大通发布最新报告｜全球食品价格上涨 或迎新一轮危机](https://news.cctv.com/2026/08/18/ARTI3X58JdLqqxOK10WvRAwb260818.shtml)
 
++ [曾公开批评因凡蒂诺 国际足联首席运营官已离任](https://news.cctv.com/2026/08/18/ARTIfL1bvyhTIiAVlUnzR6Cu260818.shtml)
+

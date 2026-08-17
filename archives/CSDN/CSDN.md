@@ -123,3 +123,5 @@
 
 + [Promtail + Loki + Grafana部署实践：从日志采集到LogQL查询](https://blog.csdn.net/Tiam_cr/article/details/163776226)
 
++ [GitHub Copilot - 尝试一下DeepSeek接入Visual Studio GitHub Copilot](https://blog.csdn.net/limingdinghao/article/details/162347481)
+
