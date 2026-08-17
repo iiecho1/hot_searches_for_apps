@@ -121,3 +121,5 @@
 
 + [笔记本电脑 EC（Embedded Controller）架构与系统交互机制](https://blog.csdn.net/u013669912/article/details/163783889)
 
++ [Promtail + Loki + Grafana部署实践：从日志采集到LogQL查询](https://blog.csdn.net/Tiam_cr/article/details/163776226)
+
