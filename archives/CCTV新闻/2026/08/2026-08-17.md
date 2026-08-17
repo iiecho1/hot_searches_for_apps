@@ -187,3 +187,9 @@
 
 + [美国两大水库水位相继跌至历史最低点](https://news.cctv.com/2026/08/17/ARTI5by1X6cTjj1goTYGAdgr260817.shtml)
 
++ [伊朗称正在起草与阿曼的海上航线计划](https://news.cctv.com/2026/08/17/ARTIcFfHYJo0J7C3VI6B22E4260817.shtml)
+
++ [韩国多地出台中小学限用智能手机措施](https://news.cctv.com/2026/08/17/ARTIbNnsUeKeJ6CM6SOafbQd260817.shtml)
+
++ [菲律宾民防局：持续强降雨已致500多万人受灾](https://news.cctv.com/2026/08/17/ARTIXrJmCpHd3efrWd5syD6V260817.shtml)
+

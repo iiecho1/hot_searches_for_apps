@@ -199,3 +199,5 @@
 
 + [AI 时代审查思维：审查第一篇](https://blog.csdn.net/2303_77143335/article/details/163800669)
 
++ [【AI大模型接入SDK】名词解释](https://blog.csdn.net/2401_89899187/article/details/163802939)
+
