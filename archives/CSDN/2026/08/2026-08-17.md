@@ -189,3 +189,13 @@
 
 + [智能家居系统怎么选？KNX 总线 vs 米家/涂鸦/华为无线方案实战对比](https://blog.csdn.net/wuhanzheyue/article/details/163800811)
 
++ [PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏](https://blog.csdn.net/LOVEmy134611/article/details/159766159)
+
++ [Magic Resume 实战：开源 AI 简历编辑器（多模型 + 本地存储）](https://blog.csdn.net/zhangay1998/article/details/162972318)
+
++ [我把 Open-Lovable 跑通了，丢一个网址进去，几秒生成一套 React 前端](https://blog.csdn.net/geinvse_seg/article/details/163762520)
+
++ [2026GEO服务商排行白皮书 AI搜索引擎排名机制与选型指南](https://blog.csdn.net/2601_96363771/article/details/163817264)
+
++ [AI 时代审查思维：审查第一篇](https://blog.csdn.net/2303_77143335/article/details/163800669)
+

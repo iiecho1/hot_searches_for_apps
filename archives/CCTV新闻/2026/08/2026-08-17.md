@@ -181,3 +181,9 @@
 
 + [中使馆提醒在沙特中资机构和中国公民注意沙官方安全警报](https://news.cctv.com/2026/08/17/ARTI20KMZKo8E01mvilVAgbf260817.shtml)
 
++ [印尼一火山发生喷发 火山灰柱高约800米](https://news.cctv.com/2026/08/17/ARTIIre0Gp7esbpuaUOWdWXt260817.shtml)
+
++ [印度西孟加拉邦一酒店发生火灾 已致7人死亡](https://news.cctv.com/2026/08/17/ARTInL9YBTqPjh325waaAWam260817.shtml)
+
++ [美国两大水库水位相继跌至历史最低点](https://news.cctv.com/2026/08/17/ARTI5by1X6cTjj1goTYGAdgr260817.shtml)
+
