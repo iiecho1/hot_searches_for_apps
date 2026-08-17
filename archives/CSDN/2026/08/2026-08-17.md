@@ -211,3 +211,21 @@
 
 + [深入读懂微信 AI 底层逻辑：普通人、商家掘金完整手册](https://blog.csdn.net/weixin_43151418/article/details/163825158)
 
++ [AI辅助芯片制造：算法与工程化落地](https://blog.csdn.net/weixin_43178406/article/details/163829838)
+
++ [告别分片地狱，金仓时序数据库的超表架构如何让开发者只管写SQL](https://blog.csdn.net/beautifulmemory/article/details/163779610)
+
++ [AI已经能直接进设计画布了：我用Penpot MCP让Codex生成了5个UI页面](https://blog.csdn.net/2401_86326742/article/details/163830309)
+
++ [anywhere-labs_deepseek-harness-desktop 如何围绕上游演进：Submodule、版本溯源与非 Fork 架构](https://blog.csdn.net/weixin_51390582/article/details/163814756)
+
++ [极空间部署File Browser：Docker搭建Web文件管理并实现远程访问](https://blog.csdn.net/weixin_62765017/article/details/163827327)
+
++ [极空间部署Sokoban：Docker搭建网页版推箱子并实现远程访问](https://blog.csdn.net/LT15171009269/article/details/163820698)
+
++ [用 DeepSeek Harness 从零创建「墨页 PDF」安卓应用](https://blog.csdn.net/jjb1314/article/details/163792066)
+
++ [Arch Linux 无显示器服务器 SSH 远程麦克风监听与取证录音实战](https://blog.csdn.net/2601_96158891/article/details/163802999)
+
++ [【HTTPS】一个“S“背后的战争：五轮迭代还原 HTTPS 设计全貌](https://blog.csdn.net/2302_80243065/article/details/163824638)
+

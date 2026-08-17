@@ -207,3 +207,11 @@
 
 + [印尼7.7级地震死亡人数升至68人](https://news.cctv.com/2026/08/17/ARTIOabNzKaiQQRY8mR8CgjG260817.shtml)
 
++ [伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放](https://news.cctv.com/2026/08/17/ARTIIDWRzi6PaaE3PqtpKQqV260817.shtml)
+
++ [特朗普称美“首要目标”是确保伊朗不能拥有核武器](https://news.cctv.com/2026/08/17/ARTIWdH3Wk2uwoPdo8x0x70g260817.shtml)
+
++ [命运与共好伙伴 | 从榴莲和燕窝，看中马互利合作](https://news.cctv.com/2026/08/17/ARTISsGa3ACCoGowtJg5dAiC260817.shtml)
+
++ [在长崎，“南京大屠杀”如何被篡改为“南京事件”](https://news.cctv.com/2026/08/17/ARTIjJJLPKL3fape2hCCIy1b260817.shtml)
+
