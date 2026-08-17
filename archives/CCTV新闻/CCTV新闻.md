@@ -203,3 +203,7 @@
 
 + [西班牙韦尔瓦省发生枪击事件 已致3人死亡](https://news.cctv.com/2026/08/17/ARTIkLcxcOcqC3xOguawEeeC260817.shtml)
 
++ [金民锡当选韩国执政党共同民主党新任党首](https://news.cctv.com/2026/08/17/ARTILwIwuiVvoJUrzkW74W5q260817.shtml)
+
++ [印尼7.7级地震死亡人数升至68人](https://news.cctv.com/2026/08/17/ARTIOabNzKaiQQRY8mR8CgjG260817.shtml)
+
