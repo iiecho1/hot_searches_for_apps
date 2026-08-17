@@ -49,3 +49,5 @@
 
 + [华为余承东分享问界 M9 Ultimate 实车内饰，二排旋转座椅支持一键旋转调节](https://m.ithome.com/html/990283.htm)
 
++ [华为鸿蒙 HarmonyOS 7 系统 3D 空间壁纸适配机型公布，含 Pura 90、Mate 80 等系列](https://m.ithome.com/html/990827.htm)
+

@@ -105,3 +105,17 @@
 
 + [深入读懂微信 AI 底层逻辑：普通人、商家掘金完整手册](https://blog.csdn.net/weixin_43151418/article/details/163825158)
 
++ [AI辅助芯片制造：算法与工程化落地](https://blog.csdn.net/weixin_43178406/article/details/163829838)
+
++ [Python爬虫实战：利用巨量IP获取跨境电商数据](https://blog.csdn.net/yuan2019035055/article/details/163822982)
+
++ [Day 14 · 从 Function Calling 到 ReAct Agent](https://blog.csdn.net/2601_96428997/article/details/163799314)
+
++ [告别手工核图：基于 .NET + MuPDFCore 的 CAD 等轴测 PDF 材料表提取与新旧版本对比实战](https://blog.csdn.net/Herryfyh/article/details/163799935)
+
++ [DeepSeek Harness：开源Agent框架全解析](https://blog.csdn.net/vanuan/article/details/163802074)
+
++ [GPT-Live 分析研究：从回合式语音到连续交互循环](https://blog.csdn.net/w776341482/article/details/163814317)
+
++ [【寻迹校园 HarmonyOS NEXT 实战 01】从校园痛点到可上架 MVP：失物招领应用产品设计](https://blog.csdn.net/m0_74969023/article/details/163834338)
+
