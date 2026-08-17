@@ -25,3 +25,27 @@
 
 + [一年跑 4 万公里后，特斯拉 Model Y 电池容量剩下约 91%](https://m.ithome.com/html/990453.htm)
 
++ [鸿蒙智行问界儿童车官宣即将上市：赛力斯、华为联合设计，网友戏称问界“M0.9”](https://m.ithome.com/html/990291.htm)
+
++ [9 年前“钉子户”经典神机还能战：开发者为小米 6 带来澎湃 OS 4 Beta 刷机包](https://m.ithome.com/html/990219.htm)
+
++ [小米 REDMI K100 Pro 系列手机首销日成绩曝光，销量约上代的 65%](https://m.ithome.com/html/990263.htm)
+
++ [网友吐槽 SK 海力士 SSD 故障无法换新，厂商只同意按原价退款](https://m.ithome.com/html/990244.htm)
+
++ [开发者推出模拟“飞鸽传书”App：消息送达需数小时至数天、途中鸽子还有可能“阵亡”](https://m.ithome.com/html/990275.htm)
+
++ [王祖贤首度公开回应 AI 形象授权：我们是用 AI 不是被 AI 用，网易《天下》短片《倩影》再现经典角色](https://m.ithome.com/html/990364.htm)
+
++ [王晓雁庆祝小米手机迎来 15 周岁生日：2011 年 8 月 16 日初代机型发布](https://m.ithome.com/html/990241.htm)
+
++ [比亚迪海狮 08 内饰实拍曝光，预售价区间 23 万 ~28 万元](https://m.ithome.com/html/990214.htm)
+
++ [微软 Win11 全面视觉焕新将至，多数传统对话框将用 WinUI 重构](https://m.ithome.com/html/990226.htm)
+
++ [小米米家质量工程师总结新洗衣机震动大常见原因，含运输螺栓没拆、底角没调平等](https://m.ithome.com/html/990336.htm)
+
++ [卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI](https://m.ithome.com/html/990250.htm)
+
++ [华为余承东分享问界 M9 Ultimate 实车内饰，二排旋转座椅支持一键旋转调节](https://m.ithome.com/html/990283.htm)
+

@@ -101,3 +101,7 @@
 
 + [开源 BeautiCode：给 DeepSeek Harness 加动态皮肤，我是如何实现视频背景、插件接入和安全回滚的](https://blog.csdn.net/2501_93406211/article/details/163822442)
 
++ [【AI大模型接入SDK】名词解释](https://blog.csdn.net/2401_89899187/article/details/163802939)
+
++ [深入读懂微信 AI 底层逻辑：普通人、商家掘金完整手册](https://blog.csdn.net/weixin_43151418/article/details/163825158)
+
