@@ -151,3 +151,15 @@
 
 + [RocketMQ 顺序消息优化：单 Queue 瓶颈、最终一致与 Join 三种方案](https://blog.csdn.net/weixin_44700876/article/details/163749997)
 
++ [从 Oracle 移植到 DM：国产数据库迁移实战指南](https://blog.csdn.net/qq_41840843/article/details/163785402)
+
++ [Tauri v2的Rust应用 → HarmonyOS（鸿蒙 PC）移植30分钟速成指南](https://blog.csdn.net/qq8864/article/details/163803703)
+
++ [用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）](https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951)
+
++ [FFmpeg 音频滤镜处理全流程（工程级流程图）](https://blog.csdn.net/luxili/article/details/163803898)
+
++ [Agent 调了删库工具怎么办：5 层防线——DeepFlux 工具安全纵深防御（第84篇-E70）](https://blog.csdn.net/leeyisoft/article/details/163774260)
+
++ [腾讯云国际版云数据库选型：MySQL、Redis 怎么按业务架构来判断](https://blog.csdn.net/Niceyun/article/details/163745816)
+

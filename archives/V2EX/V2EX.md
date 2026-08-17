@@ -23,3 +23,13 @@
 
 + [iPhone 18 Pro 想买首发 想买非国行版本 有什么渠道吗？](https://www.v2ex.com/t/1234749)
 
++ [“万 1 免 5”股票 etf 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.17 日~8.24 日]](https://www.v2ex.com/t/1234841)
+
++ [[Bytecat] 欢迎赛博领鸡蛋，注册就送 10 刀，叠加倍率可到 50 刀! 支持企业对接，稳定性价比~](https://www.v2ex.com/t/1234854)
+
++ [人生很迷茫，去 KTV 应聘男公关了，被要求减重到 125 斤，体脂率不超过 15%](https://www.v2ex.com/t/1234866)
+
++ [claude 崩了，看网站只有 api 和对政府部门的可以使用](https://www.v2ex.com/t/1234837)
+
++ [搓了一个 typeless 平替，可能是最强平替](https://www.v2ex.com/t/1234772)
+

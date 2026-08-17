@@ -171,3 +171,9 @@
 
 + [韩国庆尚南道泥石流致一人死亡、20余人被困](https://news.cctv.com/2026/08/17/ARTIyuPqn9aAccmSv8XDgu7P260817.shtml)
 
++ [特朗普发声后 韩国防部称韩美军演正按计划进行](https://news.cctv.com/2026/08/17/ARTIdkCj4veIJ4t8KNJs1plH260817.shtml)
+
++ [特朗普：已指示国防部“大幅缩减”与韩国联合军演规模](https://news.cctv.com/2026/08/17/ARTI7nWdLkBwlVLxQgS2eFYW260817.shtml)
+
++ [尼日利亚西北部一社区遭土匪袭击 已致数十人死亡](https://news.cctv.com/2026/08/17/ARTIlpiDQpI1yMbtDcNQpYaE260817.shtml)
+
