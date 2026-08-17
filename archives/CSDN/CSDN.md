@@ -229,3 +229,7 @@
 
 + [【HTTPS】一个“S“背后的战争：五轮迭代还原 HTTPS 设计全貌](https://blog.csdn.net/2302_80243065/article/details/163824638)
 
++ [【AI大模型接入SDK】人工智能核心概念与人工智能发展史](https://blog.csdn.net/2401_89899187/article/details/163803148)
+
++ [读懂微信 AI 底层逻辑：普通人、商家掘金完整手册](https://blog.csdn.net/herosunly/article/details/163826553)
+
