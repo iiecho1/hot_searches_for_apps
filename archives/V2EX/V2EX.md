@@ -37,3 +37,11 @@
 
 + [opencode go 的 deepseek 涨价并缩减了用量](https://www.v2ex.com/t/1234926)
 
++ [有没有人需要 Codex 获得 1,000 额度的邀请,有 3 个名额，需要的留下邮箱](https://www.v2ex.com/t/1235140)
+
++ [送永久码~~ 双屏工作多年，我最终还是自己写了一个「调暗屏幕」的工具](https://www.v2ex.com/t/1235163)
+
++ [现在女的都怎么了，年纪大的都是这样吗](https://www.v2ex.com/t/1235200)
+
++ [碰到这种熊孩子咋办?](https://www.v2ex.com/t/1235180)
+

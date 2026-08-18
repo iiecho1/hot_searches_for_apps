@@ -169,3 +169,9 @@
 
 + [“助力孟加拉国电力结构优化和经济发展”](https://news.cctv.com/2026/08/18/ARTIU4xjBFpcvpPjFxRHR0Fi260818.shtml)
 
++ [爱知·名古屋亚运会圣火火种采集仪式在东京举行](https://news.cctv.com/2026/08/18/ARTIjXEt5EVgmHKGdZvr2XXr260818.shtml)
+
++ [哥伦比亚总统：全国三分之一面积在地震中受灾](https://news.cctv.com/2026/08/18/ARTIyKQvOjmQuAeidDnh2PTg260818.shtml)
+
++ [菲律宾校园枪击案2人中枪 枪手为学生](https://news.cctv.com/2026/08/18/ARTIJGamMNM272tZ0hIdq4TC260818.shtml)
+
