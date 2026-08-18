@@ -147,3 +147,15 @@
 
 + [Qwen3.8-27B开源实测：本地部署+Coze接入全流程，27B多模态模型16GB显卡可跑](https://blog.csdn.net/baidu_33303454/article/details/163833674)
 
++ [Zookeeper - 分布式配置中心的搭建与实操实践](https://blog.csdn.net/qq_41187124/article/details/157689019)
+
++ [网络安全实战：渗透测试全流程 SOP——从授权到报告交付](https://blog.csdn.net/cui_yonghua/article/details/163823367)
+
++ [ollama v0.32.14正式发布：WebP 自动转码、Qwen 系统消息兼容升级与 llama.cpp、MLX 更新全解析](https://blog.csdn.net/weixin_48502062/article/details/163828463)
+
++ [DOM Based Cross Site Scripting（XSS）DOM 型跨站脚本漏洞：前端 URL 解析缺陷与 DVWA 分级绕过实战](https://blog.csdn.net/R_Feynman_/article/details/163758194)
+
++ [Deepseek-harness 开机自启动配置完整指南](https://blog.csdn.net/qq_45858875/article/details/163782085)
+
++ [【网络请求过程 图文详解】：从输入 url 到接收响应，一场 DNS→TCP→TLS→HTTP 的接力赛](https://blog.csdn.net/qq_69719414/article/details/163845628)
+

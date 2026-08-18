@@ -177,3 +177,7 @@
 
 + [菲律宾官员：校园枪击案致1死9伤　枪手已自杀](https://news.cctv.com/2026/08/18/ARTIKxM4ENSLpVNMaqe6AFG3260818.shtml)
 
++ [伊拉克调查库区无人机事件 伊朗提醒警惕栽赃嫁祸](https://news.cctv.com/2026/08/18/ARTIMdyYqTijhmE3aeNTUlcC260818.shtml)
+
++ [国家气候中心：厄尔尼诺快速发展 大概率成历史最强](https://news.cctv.com/2026/08/18/ARTIPxoofIybVixUaOdc3RxP260818.shtml)
+

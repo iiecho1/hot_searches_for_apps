@@ -49,3 +49,5 @@
 
 + [qwen3.8 27B 被低估了](https://www.v2ex.com/t/1234978)
 
++ [感觉现在电视剧越来越没看头了](https://www.v2ex.com/t/1235181)
+
