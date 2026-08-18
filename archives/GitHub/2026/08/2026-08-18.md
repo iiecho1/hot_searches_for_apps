@@ -23,3 +23,19 @@
 
 + [agalwood/Motrix](https://github.com/agalwood/Motrix)
 
++ [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
+
++ [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [basecamp/omarchy](https://github.com/basecamp/omarchy)
+
++ [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+
++ [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
+
++ [genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate)
+
++ [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+
