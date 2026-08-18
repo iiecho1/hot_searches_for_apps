@@ -181,3 +181,5 @@
 
 + [国家气候中心：厄尔尼诺快速发展 大概率成历史最强](https://news.cctv.com/2026/08/18/ARTIPxoofIybVixUaOdc3RxP260818.shtml)
 
++ [印尼苏门答腊岛附近海域发生6.1级地震](https://news.cctv.com/2026/08/18/ARTIqNW5ACGGU75iX7z9S8hI260818.shtml)
+

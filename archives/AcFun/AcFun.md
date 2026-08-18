@@ -95,3 +95,7 @@
 
 + [Marigold Burning Desire 2026.08.15](https://m.acfun.cn/v/?ac=48783124)
 
++ [【画师修炼】0人能懂的画画过程](https://m.acfun.cn/v/?ac=48783312)
+
++ [Steam必玩武侠游戏！《影之刃零》发售前这些佳作值得一试](https://m.acfun.cn/v/?ac=48782516)
+

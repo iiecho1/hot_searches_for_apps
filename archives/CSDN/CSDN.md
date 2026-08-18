@@ -167,3 +167,7 @@
 
 + [国网公司安全防护方案边界、终端、数据等安全要求](https://blog.csdn.net/m0_46085118/article/details/163676627)
 
++ [基于SwinTransformer的YOLOv8药品检测算法研究](https://blog.csdn.net/weixin_43860634/article/details/163819498)
+
++ [使用Positron+DeepSeek配置数据分析环境（基于R和Python）](https://blog.csdn.net/AhaBob/article/details/163847909)
+
