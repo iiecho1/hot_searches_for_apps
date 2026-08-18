@@ -131,3 +131,13 @@
 
 + [古典密码学攻防演进全景：从凯撒移位、频率分析到一次一密与恩尼格玛机破译](https://blog.csdn.net/qq_46987323/article/details/163832996)
 
++ [从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(下)](https://blog.csdn.net/kkiron/article/details/163855369)
+
++ [迁移后SQL性能回归：如何定位慢查询——从源库基线到KingbaseES执行计划的迁移验收实战](https://blog.csdn.net/u014727709/article/details/163780960)
+
++ [cc-switch 鸿蒙 PC移植:使用Tauri官方 feat/open-harmony 分支最新版本移植实录](https://blog.csdn.net/qq8864/article/details/163865027)
+
++ [AI系列4：Spring AI调用智谱模型](https://blog.csdn.net/weigeshikebi/article/details/163794679)
+
++ [【无人机路径规划】基于H‑MPSO / PSO / GA / SA / ACO / NN+2opt / OR‑Tools`7 种算法实现5 档障碍物密度无人机路径规划附Matlab代码](https://blog.csdn.net/m0_57702748/article/details/163832879)
+
