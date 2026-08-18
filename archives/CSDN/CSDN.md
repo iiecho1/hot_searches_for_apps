@@ -185,3 +185,15 @@
 
 + [构建一个 Agent 只要三分钟，但为什么大多数企业的 Agent 还停留在 Demo 阶段？](https://blog.csdn.net/tangxiaoyin/article/details/163848792)
 
++ [从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(上)](https://blog.csdn.net/kkiron/article/details/163855267)
+
++ [个人/公司远程设备难区分？ ToDesk团队版：场景自由切换，隐私安全有保障](https://blog.csdn.net/beautifulmemory/article/details/163832141)
+
++ [Python生态Web/GUI框架：NiceGUI、Flet、FastHTML、Solara、func-to-web](https://blog.csdn.net/lonelymanontheway/article/details/163543130)
+
++ [C# .NET 周刊｜2026年7月4期](https://blog.csdn.net/qq_27441069/article/details/163833912)
+
++ [DeepSeek Harness 核心架构深度解析：Cordis 插件系统是如何运转的](https://blog.csdn.net/zzzzz77777aaaaaa/article/details/163855970)
+
++ [把《仙剑》《大富翁》装进浏览器:Docker部署DOS怀I旧游戏并实现外网访问](https://blog.csdn.net/2401_87848736/article/details/163850761)
+
