@@ -175,3 +175,5 @@
 
 + [菲律宾校园枪击案2人中枪 枪手为学生](https://news.cctv.com/2026/08/18/ARTIJGamMNM272tZ0hIdq4TC260818.shtml)
 
++ [菲律宾官员：校园枪击案致1死9伤　枪手已自杀](https://news.cctv.com/2026/08/18/ARTIKxM4ENSLpVNMaqe6AFG3260818.shtml)
+

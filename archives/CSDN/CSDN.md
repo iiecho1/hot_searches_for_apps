@@ -141,3 +141,9 @@
 
 + [测试流程管理 JIRA 系统-测试用例管理](https://blog.csdn.net/shiyu_951/article/details/163780449)
 
++ [Windows部署Next AI Draw.io：用大模型生成并修改draw.io图表](https://blog.csdn.net/qq_61024956/article/details/163833183)
+
++ [时序数据库的难题不只在写入速度](https://blog.csdn.net/2302_78391795/article/details/163826020)
+
++ [Qwen3.8-27B开源实测：本地部署+Coze接入全流程，27B多模态模型16GB显卡可跑](https://blog.csdn.net/baidu_33303454/article/details/163833674)
+

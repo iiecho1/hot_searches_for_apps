@@ -45,3 +45,7 @@
 
 + [碰到这种熊孩子咋办?](https://www.v2ex.com/t/1235180)
 
++ [公司要查看私人手机，是否合法](https://www.v2ex.com/t/1235198)
+
++ [qwen3.8 27B 被低估了](https://www.v2ex.com/t/1234978)
+
