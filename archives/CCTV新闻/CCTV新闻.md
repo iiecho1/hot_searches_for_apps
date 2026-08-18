@@ -185,3 +185,5 @@
 
 + [日驻俄大使被传召至俄外交部](https://news.cctv.com/2026/08/18/ARTIMj7IE6E3oNOlksOaoR2Y260818.shtml)
 
++ [全球瞭望｜肯尼亚媒体：深化中非合作释放非洲潜力](https://news.cctv.com/2026/08/18/ARTIVaW2uQ0zTs9thNK2huui260818.shtml)
+
