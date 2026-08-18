@@ -159,3 +159,11 @@
 
 + [巴勒斯坦谴责以方定居点“民事执法权”移交计划](https://news.cctv.com/2026/08/15/ARTIKPihKNXxGse0VfVtRdmp260815.shtml)
 
++ [叙利亚发现数吨核材料 将接受国际原子能机构监督](https://news.cctv.com/2026/08/19/ARTImJrL7WJ5Up5sWjhtqYO8260819.shtml)
+
++ [法国宣布两名伊朗驻法使馆人员为“不受欢迎的人”](https://news.cctv.com/2026/08/19/ARTIUFmFgAmfwpnVEgvaYR1z260819.shtml)
+
++ [伊朗外长：近期冲突表明未设美军基地的国家受损害更小](https://news.cctv.com/2026/08/19/ARTILJ4YcoIW0pX52TDHb0u6260819.shtml)
+
++ [津巴布韦船只倾覆事故死亡人数升至93人](https://news.cctv.com/2026/08/19/ARTIWE44BkyQZ5jZOoXFIvSs260819.shtml)
+
