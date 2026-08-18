@@ -69,3 +69,9 @@
 
 + [差点翻车，还好赢了](https://m.acfun.cn/v/?ac=48777729)
 
++ [【歌回录像】7月歌回](https://m.acfun.cn/v/?ac=48781730)
+
++ [编导厉岑_《余烬之后》七~十二合集40分钟导剪版烬 片头曲《新生》，片尾曲《余烬》](https://m.acfun.cn/v/?ac=48781345)
+
++ [AOA-Confused](https://m.acfun.cn/v/?ac=48783452)
+
