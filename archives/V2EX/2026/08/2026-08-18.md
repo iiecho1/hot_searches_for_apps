@@ -63,3 +63,5 @@
 
 + [买件衣服退了 3 次，我终于把自己买麻了](https://www.v2ex.com/t/1235213)
 
++ [体验完 DeepSeek Harness，我打算放弃开发了两年的客户端](https://www.v2ex.com/t/1235234)
+

@@ -171,3 +171,7 @@
 
 + [使用Positron+DeepSeek配置数据分析环境（基于R和Python）](https://blog.csdn.net/AhaBob/article/details/163847909)
 
++ [不在公司，也能连回办公电脑：用 Natapp 打通 Windows 远程桌面](https://blog.csdn.net/Mrxiao_bo/article/details/163829825)
+
++ [Codex 模型怎么选？GPT-5.6 Sol、Terra、Luna 等模型能力与应用场景对比](https://blog.csdn.net/2601_95963813/article/details/163779365)
+
