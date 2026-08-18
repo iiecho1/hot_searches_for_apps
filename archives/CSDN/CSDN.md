@@ -109,3 +109,25 @@
 
 + [TCP 传输层硬核整理：三次握手、四次挥手、拥塞控制一次讲透](https://blog.csdn.net/2401_87961121/article/details/163857422)
 
++ [【粉丝福利社】微信AI掘金指南：从流量获取到商业变现](https://blog.csdn.net/aa2528877987/article/details/163826211)
+
++ [【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从注意力到自回归生成:彻底理解Transformer解码器)](https://blog.csdn.net/2401_87629362/article/details/163692810)
+
++ [AI 智能硬件：下一个风口的底层逻辑与产品机会](https://blog.csdn.net/qq8864/article/details/163822007)
+
++ [Windows部署Next AI Draw.io：用大模型生成并修改draw.io图表](https://blog.csdn.net/qq_61024956/article/details/163833183)
+
++ [深入理解TCP协议（一）：TCP报文格式详解](https://blog.csdn.net/Felix_kiss_L/article/details/163848273)
+
++ [云克隆流式 CBA 多因子 15 因子 Panel 重塑心血管炎症研究](https://blog.csdn.net/CCC631341/article/details/163855202)
+
++ [GPT-Live 分析研究：从回合式语音到连续交互循环](https://blog.csdn.net/w776341482/article/details/163814317)
+
++ [【优化求解】基于遗传算法求解经典的 Volume-to-Point 热传导拓扑优化问题：在高导热材料用量受限的条件下，优化其空间分布以最小化区域平均温度附matlab代码](https://blog.csdn.net/qq_59747472/article/details/163841412)
+
++ [基于FPGA的UDP回环实验（二）----ARP模块](https://blog.csdn.net/2302_80790488/article/details/163398415)
+
++ [【水下通信】优化LoRa 水下声学链路附matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/163841421)
+
++ [古典密码学攻防演进全景：从凯撒移位、频率分析到一次一密与恩尼格玛机破译](https://blog.csdn.net/qq_46987323/article/details/163832996)
+
