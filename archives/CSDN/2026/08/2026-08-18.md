@@ -197,3 +197,11 @@
 
 + [把《仙剑》《大富翁》装进浏览器:Docker部署DOS怀I旧游戏并实现外网访问](https://blog.csdn.net/2401_87848736/article/details/163850761)
 
++ [【机器学习】损失函数全解_从MSE到交叉熵](https://blog.csdn.net/2302_78391795/article/details/163848790)
+
++ [DM 指定表的聚集索引：提升数据库查询性能的关键技术](https://blog.csdn.net/qq_41840843/article/details/163835123)
+
++ [HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计](https://blog.csdn.net/weixin_52908342/article/details/163858686)
+
++ [MySQL 事务隔离级别深度解析：并发问题、隔离级别与 MVCC 底层原理](https://blog.csdn.net/2501_91275995/article/details/163803520)
+

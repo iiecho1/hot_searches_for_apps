@@ -187,3 +187,11 @@
 
 + [全球瞭望｜肯尼亚媒体：深化中非合作释放非洲潜力](https://news.cctv.com/2026/08/18/ARTIVaW2uQ0zTs9thNK2huui260818.shtml)
 
++ [特朗普：未与伊朗进行任何会谈 未来也无相关计划](https://news.cctv.com/2026/08/18/ARTI9HyRZTDZGOqQbIQsJOWj260818.shtml)
+
++ [印尼强震死亡人数升至70人](https://news.cctv.com/2026/08/18/ARTIhLJCFEGidwvZZRCc1ZyI260818.shtml)
+
++ [卡塔尔称正推动美伊恢复谈判并开放霍尔木兹海峡](https://news.cctv.com/2026/08/18/ARTIZ7GE6bBVBbyQsAQHuEm1260818.shtml)
+
++ [国际原子能机构称扎波罗热核电站遭遇“最严重事件”](https://news.cctv.com/2026/08/18/ARTIssWMjr4SQbEPZBkIe32b260818.shtml)
+
