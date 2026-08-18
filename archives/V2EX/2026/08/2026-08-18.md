@@ -65,3 +65,5 @@
 
 + [体验完 DeepSeek Harness，我打算放弃开发了两年的客户端](https://www.v2ex.com/t/1235234)
 
++ [27 岁还没做到税后 2W，是不是发展得有点慢了？](https://www.v2ex.com/t/1235314)
+

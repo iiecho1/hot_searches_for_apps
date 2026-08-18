@@ -175,3 +175,13 @@
 
 + [Codex 模型怎么选？GPT-5.6 Sol、Terra、Luna 等模型能力与应用场景对比](https://blog.csdn.net/2601_95963813/article/details/163779365)
 
++ [AI漫剧创作平台有哪些能直接交片的？](https://blog.csdn.net/qq_18933833/article/details/163852476)
+
++ [别等服务挂了才看日志：Python+ 钉钉搭一套服务器异常告警](https://blog.csdn.net/2301_76297596/article/details/163851962)
+
++ [从 Pi 学习设计自己的 Agent Harness：一条可验证的垂直生产线](https://blog.csdn.net/w776341482/article/details/163842231)
+
++ [【从0开始学习计算机网络】| CA证书、数字签名与中间人攻击：一次完整的安全握手之旅](https://blog.csdn.net/2503_94545876/article/details/163849794)
+
++ [构建一个 Agent 只要三分钟，但为什么大多数企业的 Agent 还停留在 Demo 阶段？](https://blog.csdn.net/tangxiaoyin/article/details/163848792)
+
