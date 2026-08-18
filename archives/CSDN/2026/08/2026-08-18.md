@@ -125,3 +125,13 @@
 
 + [GitHub Copilot - 尝试一下DeepSeek接入Visual Studio GitHub Copilot](https://blog.csdn.net/limingdinghao/article/details/162347481)
 
++ [【粉丝福利社】微信AI掘金指南：从流量获取到商业变现](https://blog.csdn.net/aa2528877987/article/details/163826211)
+
++ [DolphinDB 产能分析实战：从产能规划到瓶颈优化的完整方法论](https://blog.csdn.net/sinat_41617212/article/details/163784756)
+
++ [【参数估计】突发间歇观测的参数估计（Matlab实现）](https://blog.csdn.net/weixin_67304359/article/details/163837459)
+
++ [现代前端架构爬虫指南：从静态页面到 React/Vue 单页应用](https://blog.csdn.net/numberlock/article/details/163818366)
+
++ [2026年最新Codex 接入 GPT-5.6 Sol 模型完整图文教程：通过 CC Switch 配置 API](https://blog.csdn.net/heikejiruanjian/article/details/163826594)
+

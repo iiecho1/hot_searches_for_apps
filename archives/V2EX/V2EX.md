@@ -21,3 +21,19 @@
 
 + [codex 自动发外链： submify v2 版本升级+内置 3k 外链，发到吐。。。](https://www.v2ex.com/t/1234881)
 
++ [我的中转注册突破百人了，开启新一波福利放送！](https://www.v2ex.com/t/1234887)
+
++ [下次人口普查会在 10 亿人右吗](https://www.v2ex.com/t/1234960)
+
++ [个人是否应该投资购买 DGX Spark 之类的硬件来跑开源模型？既是自用，也是某种防止硬件涨价的投资？](https://www.v2ex.com/t/1234981)
+
++ [女朋友说在我家呆着不舒服，再也不想来我家了](https://www.v2ex.com/t/1235142)
+
++ [ChatGPT 的重置让我有点烦了](https://www.v2ex.com/t/1234957)
+
++ [这个天气还要开热风的同事要我要怎么办](https://www.v2ex.com/t/1234891)
+
++ [强行加塞进车道后又减速行车的司机是什么心理](https://www.v2ex.com/t/1234916)
+
++ [opencode go 的 deepseek 涨价并缩减了用量](https://www.v2ex.com/t/1234926)
+

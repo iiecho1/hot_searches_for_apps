@@ -165,3 +165,7 @@
 
 + [60天窗口期满 伊朗设“数周”最后期限 特朗普称“我不着急”](https://news.cctv.com/2026/08/18/ARTIfoEo3XrO3Habjslrqmpa260818.shtml)
 
++ [高端访谈｜期待拓展约中合作 深化战略伙伴关系——访约旦国王阿卜杜拉二世](https://news.cctv.com/2026/08/18/ARTIQLwvkh4RBWIBCgDt707R260818.shtml)
+
++ [“助力孟加拉国电力结构优化和经济发展”](https://news.cctv.com/2026/08/18/ARTIU4xjBFpcvpPjFxRHR0Fi260818.shtml)
+

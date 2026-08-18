@@ -75,3 +75,5 @@
 
 + [AOA-Confused](https://m.acfun.cn/v/?ac=48783452)
 
++ [七夕推荐主机配置，英特尔 酷睿 i5 14600KF+5060TI](https://m.acfun.cn/v/?ac=48781569)
+
