@@ -167,3 +167,7 @@
 
 + [津巴布韦船只倾覆事故死亡人数升至93人](https://news.cctv.com/2026/08/19/ARTIWE44BkyQZ5jZOoXFIvSs260819.shtml)
 
++ [韩国军方：韩美联合军演日程减半](https://news.cctv.com/2026/08/19/ARTIBbmC9pDWY1RPz6xujmWz260819.shtml)
+
++ [美媒：特朗普寻求今秋与金正恩会晤](https://news.cctv.com/2026/08/19/ARTIMPSLEZTDj0kUhK7zzXvD260819.shtml)
+

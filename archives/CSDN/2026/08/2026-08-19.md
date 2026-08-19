@@ -147,3 +147,9 @@
 
 + [Spring 事务同步机制 —— AfterTransactionActionCollector 的异步解耦原理](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163846873)
 
++ [服务器挂了才发现?我用Beszel把多台主机和Docker状态集中到一个面板](https://blog.csdn.net/2401_87629362/article/details/163823700)
+
++ [飞牛NAS部署Hermes Agent：RK3566接入DeepSeek、微信与远程控制台](https://blog.csdn.net/2401_84813926/article/details/163850342)
+
++ [读懂微信 AI 底层逻辑：普通人、商家掘金完整手册](https://blog.csdn.net/herosunly/article/details/163826553)
+
