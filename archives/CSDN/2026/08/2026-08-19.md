@@ -205,3 +205,11 @@
 
 + [把任何音频转成 MIDI和五线谱](https://blog.csdn.net/lcj_star/article/details/163865019)
 
++ [一个周末从 SPEC 到上线：我用 AiiOnly Token Plan 撬了一个「AI 合同避坑」工具](https://blog.csdn.net/qq_57761637/article/details/163894086)
+
++ [DM索引使用页数分析：优化数据库性能的关键技术](https://blog.csdn.net/qq_41840843/article/details/163881993)
+
++ [Elasticsearch：什么是向量数据库？](https://blog.csdn.net/UbuntuTouch/article/details/163888411)
+
++ [DeepSeek Harness 云服务器部署指南：后台运行、SSH 隧道与 Tailscale 远程访问](https://blog.csdn.net/qsad250/article/details/163851822)
+
