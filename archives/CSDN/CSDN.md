@@ -153,3 +153,13 @@
 
 + [读懂微信 AI 底层逻辑：普通人、商家掘金完整手册](https://blog.csdn.net/herosunly/article/details/163826553)
 
++ [把公司电脑装进口袋：用 Natapp 内网穿透打通 Windows 远程桌面](https://blog.csdn.net/user340/article/details/163855091)
+
++ [时序数据库那些年｜我与金仓超表Hypertable的一场久别重逢](https://blog.csdn.net/Dreamy_zsy/article/details/163672672)
+
++ [设计一个秒杀系统，库存扣减用Redis还是数据库？Redis挂了怎么办？](https://blog.csdn.net/caoli201314/article/details/163863849)
+
++ [阿里云通义千问正式开源 Qwen3.8-27B：性能与成本的黄金平衡点](https://blog.csdn.net/m0_59880555/article/details/163801713)
+
++ [自指方程  U = F(U)  与黎曼ζ函数函数方程的自指对称性](https://blog.csdn.net/zxb_1222/article/details/163852925)
+

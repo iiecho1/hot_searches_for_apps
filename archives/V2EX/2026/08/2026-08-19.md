@@ -31,3 +31,15 @@
 
 + [今日份的阿里不带云笑话。。踩坑进行时。。](https://www.v2ex.com/t/1235259)
 
++ [初恋结婚了，新郎不是我](https://www.v2ex.com/t/1235460)
+
++ [Codex 1000 额度邀请，有需要的留邮箱吧，三个](https://www.v2ex.com/t/1235276)
+
++ [中式的酒桌文化 一生黑](https://www.v2ex.com/t/1235437)
+
++ [AI Coding 时代作为面试官已经不会面试开发了](https://www.v2ex.com/t/1235472)
+
++ [Codex 1000 额度的邀请,有需要留邮箱](https://www.v2ex.com/t/1235298)
+
++ [为什么没有诞生第二个“胖东来”？](https://www.v2ex.com/t/1235483)
+

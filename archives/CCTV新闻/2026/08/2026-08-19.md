@@ -171,3 +171,7 @@
 
 + [美媒：特朗普寻求今秋与金正恩会晤](https://news.cctv.com/2026/08/19/ARTIMPSLEZTDj0kUhK7zzXvD260819.shtml)
 
++ [欧洲头条丨欧洲粮仓遭遇“烤”验：从田间减产到餐桌涨价还有多远？](https://news.cctv.com/2026/08/19/ARTIeSeqKN99hQ1KiP9CkXhj260819.shtml)
+
++ [特朗普宣布推迟三天对加拿大加征50%关税](https://news.cctv.com/2026/08/19/ARTIdyueueqp4gCswcSxPEmB260819.shtml)
+
