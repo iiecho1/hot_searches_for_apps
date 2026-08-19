@@ -193,3 +193,15 @@
 
 + [Gateway：网关全景深度分析/外部请求进入微服务全链路解析](https://blog.csdn.net/snowball_li/article/details/158964052)
 
++ [分布式GPU智能算法深度研究2026年版（下）](https://blog.csdn.net/kkiron/article/details/163874293)
+
++ [HarmonyOS 圆角渲染优化实战：从「clip陷阱」到「borderRadius原生加速」的GPU调优方案](https://blog.csdn.net/u014727709/article/details/163862356)
+
++ [不用PyTorch，我用C++手写了一个能认手写数字的神经网络](https://blog.csdn.net/chen1415886044/article/details/163864969)
+
++ [《智能驾驶拆解笔记：老周唠透车圈AI》第6篇](https://blog.csdn.net/weixin_62244995/article/details/162999174)
+
++ [【PySpark实践】一 PySpark 是什么？为什么用 Python 写 Spark](https://blog.csdn.net/sinat_33087001/article/details/163865206)
+
++ [把任何音频转成 MIDI和五线谱](https://blog.csdn.net/lcj_star/article/details/163865019)
+

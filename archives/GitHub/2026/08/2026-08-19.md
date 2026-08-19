@@ -27,3 +27,17 @@
 
 + [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 
++ [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [santifer/career-ops](https://github.com/santifer/career-ops)
+
++ [immich-app/immich](https://github.com/immich-app/immich)
+
++ [amadeusprotocol/node](https://github.com/amadeusprotocol/node)
+
++ [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)
+
