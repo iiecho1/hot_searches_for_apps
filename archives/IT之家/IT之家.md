@@ -49,3 +49,5 @@
 
 + [小米卢伟冰：今年下半年内存涨价或将趋缓](https://m.ithome.com/html/991287.htm)
 
++ [苹果 iOS / iPadOS 27.0 开发者预览版 Beta 6 发布：更新弹窗通知动画效果](https://m.ithome.com/html/990861.htm)
+

@@ -177,3 +177,5 @@
 
 + [【TDengine】TDengine 是否支持索引？如何优化查询性能？](https://blog.csdn.net/qq_21383435/article/details/160283883)
 
++ [我做了一个软著 Skill，可以一键生成申请材料](https://blog.csdn.net/2401_83830408/article/details/163854815)
+

@@ -183,3 +183,9 @@
 
 + [伊朗议会议长率团访问伊拉克 旨在加强两国战略合作](https://news.cctv.com/2026/08/19/ARTIySIrwnrBvjzZ3ajm7Nvq260819.shtml)
 
++ [欧洲对华电动汽车认知逆转的背后（环球走笔）](https://news.cctv.com/2026/08/19/ARTIGd2TFOVX97OyBNeyRH7A260819.shtml)
+
++ [巴基斯坦强烈谴责以色列袭击叙利亚](https://news.cctv.com/2026/08/19/ARTIy94n1iAI3yBtCuWfUhaU260819.shtml)
+
++ [韩方称事前不知特朗普缩减联合军演的表态](https://news.cctv.com/2026/08/19/ARTIEclLLQZDdz6ntkBWe4vY260819.shtml)
+
