@@ -107,3 +107,25 @@
 
 + [把任何音频转成 MIDI和五线谱](https://blog.csdn.net/lcj_star/article/details/163865019)
 
++ [候诊等了四十分钟却没人搭理？具身交互智能数字人导诊让患者开口就能问](https://blog.csdn.net/weixin_43741519/article/details/163875806)
+
++ [我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查](https://blog.csdn.net/Mrxiao_bo/article/details/163893901)
+
++ [Rust + Tauri实现一棵「习惯树」：创意应用 从 Grove 的灵感说起](https://blog.csdn.net/qq8864/article/details/163874951)
+
++ [Spring 事务同步机制 —— AfterTransactionActionCollector 的异步解耦原理](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/163846873)
+
++ [具身智能落地实战：数字人驱动的全自动化舆情监控系统](https://blog.csdn.net/qq_62817113/article/details/163834537)
+
++ [CAN 与 Modbus 互转选型全指南：捷宸电子 PBC0022 自由映射架构解析、多域验证与高频 FAQ](https://blog.csdn.net/IPCSUN/article/details/163862522)
+
++ [云原生数据库冷热数据分离｜K8s 环境历史数据归档 + 透明查询（金仓 / 达梦双库落地）](https://blog.csdn.net/xdsfsadfas/article/details/163813429)
+
++ [Cursor Origin发布：同一天GitHub宕机，AI原生代码托管来了](https://blog.csdn.net/aidoudoulong/article/details/163843326)
+
++ [构建一个 Agent 只要三分钟，但为什么大多数企业的 Agent 还停留在 Demo 阶段？](https://blog.csdn.net/tangxiaoyin/article/details/163848792)
+
++ [网络安全——网络渗透测试（密码破译）](https://blog.csdn.net/cold___play/article/details/163857187)
+
++ [ESD防护二极管替换深度解析：PESD5V0H1BSF与LESD11LL5.0CT5G兼容对比+结电容影响原理](https://blog.csdn.net/weixin_51551858/article/details/163864014)
+
