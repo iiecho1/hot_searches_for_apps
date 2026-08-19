@@ -35,3 +35,25 @@
 
 + [阿维塔向华为员工已累计交付超 5000 台新车](https://m.ithome.com/html/990904.htm)
 
++ [2027 款广汽丰田凯美瑞上市：智能座舱大升级、小米生态接口，权益价 13.18 万起](https://m.ithome.com/html/991517.htm)
+
++ [苹果 iPhone 18 Pro 手机壳曝光，恐无缘可变光圈升级](https://m.ithome.com/html/991572.htm)
+
++ [小米新一代玄戒芯片即将发布，消息称 2025 年底回片、当天一次点亮成功](https://m.ithome.com/html/991685.htm)
+
++ [消息称苹果 iPhone 18 Pro Max 独占可变光圈升级](https://m.ithome.com/html/991377.htm)
+
++ [哔哩哔哩国际版 Android 应用程序全新上线](https://m.ithome.com/html/991650.htm)
+
++ [宇树科技王兴兴身家超千亿元，成 90 后新首富](https://m.ithome.com/html/991443.htm)
+
++ [比亚迪张卓：说比亚迪辅助驾驶比华为强没人信，核心在于数据量](https://m.ithome.com/html/991632.htm)
+
++ [苹果 AirPods 5 耳机曝光，预估升级 H3 芯片](https://m.ithome.com/html/991381.htm)
+
++ [小米澎程 N70 Max 大五座四驱增程 SUV 详细配置公开，预计 9 月正式上市](https://m.ithome.com/html/991776.htm)
+
++ [宇树科技上市庆功照流出，“投资教父”沈南鹏与王力宏畅聊](https://m.ithome.com/html/991679.htm)
+
++ [华为余承东官宣沈腾成为鸿蒙智行享界品牌代言人，明日与杨幂一同亲临 G9 新车发布会现场](https://m.ithome.com/html/991630.htm)
+
