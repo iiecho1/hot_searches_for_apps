@@ -189,3 +189,7 @@
 
 + [韩方称事前不知特朗普缩减联合军演的表态](https://news.cctv.com/2026/08/19/ARTIEclLLQZDdz6ntkBWe4vY260819.shtml)
 
++ [“我们的生活条件得到实实在在的改善”](https://news.cctv.com/2026/08/19/ARTIgBO6y4j5sE8fny6CAMPa260819.shtml)
+
++ [守护日本宪法的和平属性刻不容缓（国际论坛）](https://news.cctv.com/2026/08/19/ARTIIjr3tkw3gezAz80qtuWH260819.shtml)
+
