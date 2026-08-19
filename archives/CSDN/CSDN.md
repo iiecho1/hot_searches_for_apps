@@ -163,3 +163,17 @@
 
 + [自指方程  U = F(U)  与黎曼ζ函数函数方程的自指对称性](https://blog.csdn.net/zxb_1222/article/details/163852925)
 
++ [大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚](https://blog.csdn.net/xiaobing259/article/details/163801977)
+
++ [极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问](https://blog.csdn.net/Rqaqedamancy/article/details/163876441)
+
++ [SpringBoot3+Vue3+UniApp OA 即时通讯：单聊群聊、图片文件、PC 与手机同一会话](https://blog.csdn.net/zhouzhongyan/article/details/163865432)
+
++ [诗词大会AI：基于具身交互数字人技术的国风沉浸式古诗词智能赏析平台](https://blog.csdn.net/COLLINSXU/article/details/163842024)
+
++ [Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐](https://blog.csdn.net/w776341482/article/details/163875413)
+
++ [网络安全实战：信息收集实战——子域名、端口、指纹、社工信息聚合](https://blog.csdn.net/cui_yonghua/article/details/163823472)
+
++ [【TDengine】TDengine 是否支持索引？如何优化查询性能？](https://blog.csdn.net/qq_21383435/article/details/160283883)
+

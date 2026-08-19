@@ -175,3 +175,11 @@
 
 + [特朗普宣布推迟三天对加拿大加征50%关税](https://news.cctv.com/2026/08/19/ARTIdyueueqp4gCswcSxPEmB260819.shtml)
 
++ [刚果（金）埃博拉病例超五千 世卫维持警报](https://news.cctv.com/2026/08/19/ARTIvcZ50usZZmyWa0smcuRz260819.shtml)
+
++ [印尼弗洛勒斯岛7.7级地震已记录到2768次余震](https://news.cctv.com/2026/08/19/ARTIzieSKQp4I6OR7zHDSDpd260819.shtml)
+
++ [美欧宇航员太空行走完成部分更换通信天线工作](https://news.cctv.com/2026/08/19/ARTILSi0qyMaIqhoGvDI7Vfi260819.shtml)
+
++ [伊朗议会议长率团访问伊拉克 旨在加强两国战略合作](https://news.cctv.com/2026/08/19/ARTIySIrwnrBvjzZ3ajm7Nvq260819.shtml)
+
