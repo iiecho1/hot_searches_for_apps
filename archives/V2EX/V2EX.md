@@ -57,3 +57,5 @@
 
 + [读程序人的 7 年有感](https://www.v2ex.com/t/1235516)
 
++ [[BeefAPI] 已稳定运行 4 个月， 0 客诉｜ Claude/GPT 平价中转，新用户评论区留 id 送 5 刀额度](https://www.v2ex.com/t/1235528)
+
