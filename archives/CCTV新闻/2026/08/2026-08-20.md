@@ -159,3 +159,11 @@
 
 + [印尼7.7级地震致5000余人疏散避难 多县应急响应](https://news.cctv.com/2026/08/16/ARTISwT4c8zlyGEcn5liku5s260816.shtml)
 
++ [中非共和国一金矿发生滑坡 逾百人遇难](https://news.cctv.com/2026/08/20/ARTIgbaR6DcEwJd37eaAXeAs260820.shtml)
+
++ [阿根廷首都一机场因可疑包裹紧急疏散部分区域](https://news.cctv.com/2026/08/20/ARTI4zymRn0NDuoLxyY5q0ie260820.shtml)
+
++ [厄瓜多尔情报机构负责人在肯尼亚直升机事故中死亡](https://news.cctv.com/2026/08/20/ARTIykqgiVDOg8NzQnmrwpQV260820.shtml)
+
++ [联合国警告：以色列定居点计划威胁“两国方案”](https://news.cctv.com/2026/08/20/ARTI6jYhRDkInFs7zgIYN89V260820.shtml)
+
