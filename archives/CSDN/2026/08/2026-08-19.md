@@ -179,3 +179,17 @@
 
 + [我做了一个软著 Skill，可以一键生成申请材料](https://blog.csdn.net/2401_83830408/article/details/163854815)
 
++ [ 高效能应用 ](https://blog.csdn.net/csdn_te_Blog_005/article/details/163860179)
+
++ [HarmonyOS 动画性能优化实战：从掉帧卡顿到丝滑流畅的全链路调优指南](https://blog.csdn.net/u014727709/article/details/163861687)
+
++ [从聊天应答到业务闭环：AI Agent 落地的实战指南与出海新机遇](https://blog.csdn.net/CC1991_/article/details/163865808)
+
++ [跨页表格解析：第二页是续集还是新篇？](https://blog.csdn.net/INTSIG/article/details/163856864)
+
++ [MySQL事务详解：搞懂ACID、事务操作与四大隔离级别](https://blog.csdn.net/2501_93786094/article/details/163860724)
+
++ [springboot小区物业管理小程序---附源码45555](https://blog.csdn.net/weixin_BYSJ1987/article/details/162766714)
+
++ [Gateway：网关全景深度分析/外部请求进入微服务全链路解析](https://blog.csdn.net/snowball_li/article/details/158964052)
+
