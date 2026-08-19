@@ -25,3 +25,13 @@
 
 + [华为 HarmonyOS 7.0.0.102 版本新特性再曝：手机锁定状态开启多屏协同，可用平板指纹 / 人脸解锁](https://m.ithome.com/html/991355.htm)
 
++ [入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra](https://m.ithome.com/html/990880.htm)
+
++ [格力技工学校近期启动首届招生：董明珠亲自当校长，入校即入企，毕业即适岗](https://m.ithome.com/html/991020.htm)
+
++ [苹果 iOS 27 改善跨平台互联，iPhone 17 等可直接回复安卓绿色气泡信息](https://m.ithome.com/html/990877.htm)
+
++ [苹果发布 iOS / iPadOS 27 第 4 个公测版：更新通知动画等](https://m.ithome.com/html/990872.htm)
+
++ [阿维塔向华为员工已累计交付超 5000 台新车](https://m.ithome.com/html/990904.htm)
+

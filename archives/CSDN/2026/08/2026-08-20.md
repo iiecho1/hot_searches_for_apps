@@ -99,3 +99,11 @@
 
 + [LM Studio下载模型慢到崩溃？本地HTTPS劫持直连hf‑mirror提速方案](https://blog.csdn.net/jiangjunshow/article/details/163818575)
 
++ [RAG 实战教程（二）：向量相似度、向量数据库与 Chroma 实战](https://blog.csdn.net/2401_83830408/article/details/163886850)
+
++ [Windows部署Next AI Draw.io：用大模型生成并修改draw.io图表](https://blog.csdn.net/qq_61024956/article/details/163833183)
+
++ [SQLServer数据迁移之后，那张报表还能不能秒出](https://blog.csdn.net/weixin_66401877/article/details/163804001)
+
++ [把任何音频转成 MIDI和五线谱](https://blog.csdn.net/lcj_star/article/details/163865019)
+
