@@ -25,3 +25,27 @@
 
 + [华为余承东官宣沈腾成为鸿蒙智行享界品牌代言人，明日与杨幂一同亲临 G9 新车发布会现场](https://m.ithome.com/html/991630.htm)
 
++ [《黑神话：钟馗》全新 15 分钟游戏实机演示公布，首次展示主角战斗与部分剧情片段](https://m.ithome.com/html/991941.htm)
+
++ [全球首款阔直板手机华为 Pura X View 亮相，定位“为内容而生”](https://m.ithome.com/html/992195.htm)
+
++ [华为余承东：Pura X View 全新阔直板手机首发 HarmonyOS 7](https://m.ithome.com/html/992207.htm)
+
++ [2699 元起，小米首款 NAS 产品 Xiaomi 智能存储开启预约](https://m.ithome.com/html/992010.htm)
+
++ [华为 Pura X View 开启预约：96.1% 业界最高屏占比 + 1.05mm 极窄边框，厚 6.68mm 重 201g 配 7000mAh 大电池](https://m.ithome.com/html/992230.htm)
+
++ [全球首款阔直板手机首发亮相，曝华为 Pura X View 预计搭载麒麟 9030S 处理器](https://m.ithome.com/html/992316.htm)
+
++ [比亚迪方程豹方程 S/S GT 开启全国预订，预订价 23～28 万元](https://m.ithome.com/html/991999.htm)
+
++ [《黑神话：钟馗》实机演示视频公布，冯骥公开游戏科学十条工作原则](https://m.ithome.com/html/991970.htm)
+
++ [比亚迪第三代唐搭载全景巨幕、超大星环屏，明日成都车展全球首发](https://m.ithome.com/html/991910.htm)
+
++ [阔屏开拓者：余承东首秀华为 Pura X View 全新阔直板手机，96.1% 业界最高屏占比](https://m.ithome.com/html/992204.htm)
+
++ [华为 Pura X View 阔直板手机现身官网，四色官图发布](https://m.ithome.com/html/992389.htm)
+
++ [拼多多雄安公司员工数突破 4000 人，成当地员工规模最大民营企业](https://m.ithome.com/html/992074.htm)
+
