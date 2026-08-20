@@ -117,3 +117,7 @@
 
 + [嵌入式硬件玄学BUG深度复盘：量产高频故障排查与软硬故障精准判别手册](https://blog.csdn.net/chujing124486/article/details/163884333)
 
++ [数据库迁移工具实战：KDMS云+端+服务架构破解大型信创项目迁移难题](https://blog.csdn.net/beautifulmemory/article/details/163891965)
+
++ [GitHub 热榜项目：日榜（2026-08-19）](https://blog.csdn.net/u130130/article/details/163895032)
+
