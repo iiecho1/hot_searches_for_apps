@@ -59,3 +59,5 @@
 
 + [Gemini 学生优惠上新](https://www.v2ex.com/t/1235746)
 
++ [和初恋联系上了，她还是那么美](https://www.v2ex.com/t/1235765)
+
