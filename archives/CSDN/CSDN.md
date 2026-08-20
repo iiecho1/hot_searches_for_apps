@@ -105,3 +105,15 @@
 
 + [别再靠文件夹翻文档了：Docker 部署 Papra，集中管理、搜索和分类资料](https://blog.csdn.net/weixin_42878111/article/details/163923456)
 
++ [抓包还能看到密码？Vue3 + Spring Boot 3 接口 AES/RSA 加解密（@ApiEncrypt）全链路实战](https://blog.csdn.net/zhouzhongyan/article/details/163713089)
+
++ [【从0开始学习计算机网络】| CA证书、数字签名与中间人攻击：一次完整的安全握手之旅](https://blog.csdn.net/2503_94545876/article/details/163849794)
+
++ [【Linux线程同步】从数据竞争到 mutex、条件变量与生产者消费者（上篇）](https://blog.csdn.net/weixin_64304261/article/details/163795370)
+
++ [Three.js 3D地图开发实录：从GeoJSON到流光飞线，一个纯前端SPA可视化引擎的12个坑](https://blog.csdn.net/weixin_41290949/article/details/163906356)
+
++ [自建 GEO 收录率监控看板（Node.js + PM2）](https://blog.csdn.net/yandian666/article/details/163884861)
+
++ [嵌入式硬件玄学BUG深度复盘：量产高频故障排查与软硬故障精准判别手册](https://blog.csdn.net/chujing124486/article/details/163884333)
+

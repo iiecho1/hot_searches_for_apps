@@ -61,3 +61,5 @@
 
 + [TheShy vs Zika？LPL上单对决，快速看完一局韩服王者斗殴局#807 TheShy, 阿](https://m.acfun.cn/v/?ac=48782116)
 
++ [剑八小白真卍解！千年血战祸进谭第4集解说](https://m.acfun.cn/v/?ac=48790298)
+

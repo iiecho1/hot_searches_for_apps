@@ -157,3 +157,5 @@
 
 + [菲律宾校园枪击案2人中枪 枪手为学生](https://news.cctv.com/2026/08/18/ARTIJGamMNM272tZ0hIdq4TC260818.shtml)
 
++ [日本民众抗议高市政权危险动向将国家引向战争边缘](https://news.cctv.com/2026/08/21/ARTIFt3uvIh8HDBIsVhm11AG260820.shtml)
+
