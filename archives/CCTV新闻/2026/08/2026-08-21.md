@@ -159,3 +159,5 @@
 
 + [日本民众抗议高市政权危险动向将国家引向战争边缘](https://news.cctv.com/2026/08/21/ARTIFt3uvIh8HDBIsVhm11AG260820.shtml)
 
++ [也门胡塞武装称对沙特机场和油企设施发动袭击](https://news.cctv.com/2026/08/21/ARTIM03a34GbwBW5lteIjJnk260820.shtml)
+

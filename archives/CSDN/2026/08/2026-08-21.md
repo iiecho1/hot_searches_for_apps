@@ -121,3 +121,5 @@
 
 + [GitHub 热榜项目：日榜（2026-08-19）](https://blog.csdn.net/u130130/article/details/163895032)
 
++ [Shadcn/ui × Qt 6/QML：一次从 Web UI 到桌面 UI 的组件化实践](https://blog.csdn.net/www1577791638/article/details/163895091)
+
