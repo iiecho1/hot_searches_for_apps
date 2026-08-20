@@ -97,3 +97,11 @@
 
 + [华为 eNSP 实验：基于 RIPv2 与 VRRP 实现双网关冗余及故障自动切换](https://blog.csdn.net/m0_67849390/article/details/163886614)
 
++ [网络安全实战：端口扫描深度实战——Nmap 脚本、Masscan 与防火墙规避](https://blog.csdn.net/cui_yonghua/article/details/163824575)
+
++ [【Linux 网络篇】网络传输的通信端口：Socket 创建、文件描述符底层运行机制](https://blog.csdn.net/buhuizhiyuci/article/details/163675970)
+
++ [深度拆解DeepSeek Harness插件热更新实现原理](https://blog.csdn.net/m0_71507863/article/details/163865249)
+
++ [别再靠文件夹翻文档了：Docker 部署 Papra，集中管理、搜索和分类资料](https://blog.csdn.net/weixin_42878111/article/details/163923456)
+
