@@ -213,3 +213,11 @@
 
 + [系统设计 024：从GFS到海量KV系统设计](https://blog.csdn.net/2503_92624912/article/details/163894840)
 
++ [基于SPDConv改进的YOLOv8签名检测算法研究](https://blog.csdn.net/weixin_43860634/article/details/163918283)
+
++ [MCP、A2A、AG-UI：一篇讲清 Agent 协议栈](https://blog.csdn.net/weixin_74809706/article/details/163614053)
+
++ [npm镜像源配置：国内镜像源配置与避坑指南](https://blog.csdn.net/2401_89111612/article/details/163920536)
+
++ [Kafka 消费速度为什么比生产速度慢？性能瓶颈怎么找？](https://blog.csdn.net/2401_86617027/article/details/163922442)
+

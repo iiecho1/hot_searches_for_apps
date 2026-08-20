@@ -229,3 +229,5 @@
 
 + [伊朗副外长回应美国“经济战”言论：为掩盖此前政策失败](https://news.cctv.com/2026/08/20/ARTIKYA9PiUAwXRSpt0J7kNL260820.shtml)
 
++ [40万亿美元！狂飙的美债如何危害全球](https://news.cctv.com/2026/08/20/ARTI7OH1aco1eCiJfHabV1lp260820.shtml)
+
