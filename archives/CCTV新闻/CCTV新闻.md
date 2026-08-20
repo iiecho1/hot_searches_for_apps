@@ -187,3 +187,11 @@
 
 + [美国扩大长期国债回购规模推动金价大涨](https://news.cctv.com/2026/08/20/ARTIgc3oqaySqIppZgxRg8oD260820.shtml)
 
++ [乌称基辅遭俄导弹袭击 已致8人死亡](https://news.cctv.com/2026/08/20/ARTIDBsw3XS0NYfXwufVLRoK260820.shtml)
+
++ [日本栃木县发生列车撞人事故 4人身亡](https://news.cctv.com/2026/08/20/ARTIHDxKAe2Tp0WWNwznfLKs260820.shtml)
+
++ [西班牙拟将500名滞留休达的未成年移民送至本土](https://news.cctv.com/2026/08/20/ARTIPXckWK70PsoXEFUZtHWZ260820.shtml)
+
++ [日本成田机场一客机“冒黑烟” 相关跑道已关闭](https://news.cctv.com/2026/08/20/ARTIG3nTPLmS0TCEaONI1nQ0260820.shtml)
+
