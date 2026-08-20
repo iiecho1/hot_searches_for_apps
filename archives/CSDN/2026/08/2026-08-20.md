@@ -177,3 +177,23 @@
 
 + [GPT-5.6 Sol 到底是 1.05M 还是 258K？Codex 上下文差异终于搞清楚了](https://blog.csdn.net/weixin_59586819/article/details/163862337)
 
++ [PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏](https://blog.csdn.net/LOVEmy134611/article/details/159917738)
+
++ [向量数据库单独部署太折腾？聊聊KES的多模融合架构是怎么干活的](https://blog.csdn.net/weixin_43151418/article/details/163907757)
+
++ [多个内网服务怎么统一入口？部署 Nginx Proxy Manager 配置反向代理与 SSL](https://blog.csdn.net/2602_94956987/article/details/163917380)
+
++ [向量数据库RAG落地——先把权限和版本写进表里](https://blog.csdn.net/COLLINSXU/article/details/163907029)
+
++ [树‑网状分布式机器人架构：分层独立数据库+极简收敛存储+临时格局自动编组完整机制 ](https://blog.csdn.net/2302_80775286/article/details/163841411)
+
++ [IP/MAC帧/ARP协议](https://blog.csdn.net/suimingtao/article/details/163021538)
+
++ [无人机强化学习RL、混合MPC-RL、线性MPC、非线性NMPC轨迹跟踪UAV多控制策略研究（Matlab代码实现）](https://blog.csdn.net/weixin_61181717/article/details/163907316)
+
++ [华为 eNSP 实验：基于 RIPv2 与 VRRP 实现双网关冗余及故障自动切换](https://blog.csdn.net/m0_67849390/article/details/163886614)
+
++ [GitHub今日热榜 | 2026-08-18：短视频一键生成项目占据榜首](https://blog.csdn.net/m0_68631449/article/details/163844578)
+
++ [ReAct Agent为何陷入无效循环？](https://blog.csdn.net/2403_87933448/article/details/163892966)
+
