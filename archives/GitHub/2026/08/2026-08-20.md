@@ -29,3 +29,23 @@
 
 + [genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate)
 
++ [modular/modular](https://github.com/modular/modular)
+
++ [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+
++ [cursor/plugins](https://github.com/cursor/plugins)
+
++ [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+
++ [PostHog/posthog](https://github.com/PostHog/posthog)
+
++ [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
+
++ [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
++ [makeplane/plane](https://github.com/makeplane/plane)
+
++ [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
+
++ [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+
