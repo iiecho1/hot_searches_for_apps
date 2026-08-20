@@ -167,3 +167,5 @@
 
 + [联合国警告：以色列定居点计划威胁“两国方案”](https://news.cctv.com/2026/08/20/ARTI6jYhRDkInFs7zgIYN89V260820.shtml)
 
++ [特朗普宣布对伊朗采取“史上最严厉经济行动”](https://news.cctv.com/2026/08/20/ARTI75DVyZegYdbGBiM3hmj0260820.shtml)
+

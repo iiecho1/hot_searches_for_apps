@@ -145,3 +145,7 @@
 
 + [网络安全实战：服务指纹识别——Banner、协议探测、版本漏洞关联](https://blog.csdn.net/cui_yonghua/article/details/163825082)
 
++ [网络安全——网络安全管理（二）](https://blog.csdn.net/cold___play/article/details/163865350)
+
++ [2026年最新Codex 接入 GPT-5.6 Sol 模型完整图文教程：通过 CC Switch 配置 API](https://blog.csdn.net/heikejiruanjian/article/details/163826594)
+
