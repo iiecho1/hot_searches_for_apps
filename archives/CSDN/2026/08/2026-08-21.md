@@ -123,3 +123,5 @@
 
 + [Shadcn/ui × Qt 6/QML：一次从 Web UI 到桌面 UI 的组件化实践](https://blog.csdn.net/www1577791638/article/details/163895091)
 
++ [主设备二次验证、连接授权、AI审计：2026安全远控Top3横测，ToDesk凭什么守住这次连接？](https://blog.csdn.net/lrq13965748542/article/details/163922162)
+
