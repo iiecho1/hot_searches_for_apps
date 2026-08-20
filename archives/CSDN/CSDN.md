@@ -207,3 +207,5 @@
 
 + [网络安全实战：端口扫描深度实战——Nmap 脚本、Masscan 与防火墙规避](https://blog.csdn.net/cui_yonghua/article/details/163824575)
 
++ [人在外面也能用管家婆：配置服务端与 TCP 远程连接完整实战](https://blog.csdn.net/qq_46123200/article/details/163915977)
+

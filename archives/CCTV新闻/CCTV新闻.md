@@ -215,3 +215,17 @@
 
 + [投降日“拜鬼”，逆流者终将被历史清算](https://news.cctv.com/2026/08/20/ARTIgZMP0LD4lRzOl5lQrILE260820.shtml)
 
++ [五角大楼被曝发问卷调查北约盟友“忠诚度”](https://news.cctv.com/2026/08/20/ARTIlAEN9TLd32gzgLq0qeaY260820.shtml)
+
++ [美债突破40万亿美元引发广泛担忧](https://news.cctv.com/2026/08/20/ARTIlrLOpwJUnX6xxoEdMkC0260820.shtml)
+
++ [欧佩克：2050年全球天然气需求将大幅增长](https://news.cctv.com/2026/08/20/ARTIqCRILGfPUPH7MlsrnnrP260820.shtml)
+
++ [孟加拉国议会开始新一届总统选举投票](https://news.cctv.com/2026/08/20/ARTIVB4QlDXu8DU1a2xhx9q0260820.shtml)
+
++ [俄乌黑海粮食出口近乎停滞](https://news.cctv.com/2026/08/20/ARTIZ4LuYma4EPoVbGQOVbdJ260820.shtml)
+
++ [风速大移动慢 飓风“拉拉”持续影响夏威夷](https://news.cctv.com/2026/08/20/ARTI3XqscyygWjKJKXNibn0Z260820.shtml)
+
++ [伊朗副外长回应美国“经济战”言论：为掩盖此前政策失败](https://news.cctv.com/2026/08/20/ARTIKYA9PiUAwXRSpt0J7kNL260820.shtml)
+
