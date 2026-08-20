@@ -183,3 +183,7 @@
 
 + [美官员：美军开展秘密行动在霍尔木兹海峡打通运油航道](https://news.cctv.com/2026/08/20/ARTINyKSc3fTvXKZb24DZKF5260820.shtml)
 
++ [菲律宾近期恶劣天气已致29人死亡](https://news.cctv.com/2026/08/20/ARTIuHldCcoHh72CMMxuEfYh260820.shtml)
+
++ [美国扩大长期国债回购规模推动金价大涨](https://news.cctv.com/2026/08/20/ARTIgc3oqaySqIppZgxRg8oD260820.shtml)
+

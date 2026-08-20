@@ -35,3 +35,15 @@
 
 + [已经失业的小伙伴们，你们是真找不到合适工作了吗？还是说不想找，就只是想躺平而已？](https://www.v2ex.com/t/1235632)
 
++ [之前答应给全楼送永久 VIP 的 jav.hk 上线了](https://www.v2ex.com/t/1235801)
+
++ [AI 受害者 2](https://www.v2ex.com/t/1235756)
+
++ [我也有 1000 credits 的邀请名额，有资格的兄弟们来](https://www.v2ex.com/t/1235767)
+
++ [想买 iPad Pro M5 13 寸，该怎么买？](https://www.v2ex.com/t/1235743)
+
++ [开源项目 gin-vue-admin 借用 npm 分发恶意遥测代码](https://www.v2ex.com/t/1235714)
+
++ [今天大家持仓体感咋样啊](https://www.v2ex.com/t/1235574)
+

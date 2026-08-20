@@ -161,3 +161,13 @@
 
 + [从虚拟机运维迁移云原生：基于 KubeSphere 定制企业运管平台完整落地实录](https://blog.csdn.net/u012210103/article/details/163865670)
 
++ [DM管理触发器：提升数据库自动化运维效率](https://blog.csdn.net/qq_41840843/article/details/163897355)
+
++ [深度拆解物联网架构与底层PCB制造工艺](https://blog.csdn.net/HCJMPCBA/article/details/163856625)
+
++ [云克隆流式 CBA 多因子 15 因子 Panel 重塑心血管炎症研究](https://blog.csdn.net/CCC631341/article/details/163855202)
+
++ [群晖部署Plex：搭建家庭媒体库并实现远程访问](https://blog.csdn.net/m0_68390957/article/details/163884496)
+
++ [Valhalla静态工程审阅｜817 个网络安全 Agent Skill 静态评测：能力版图、工程证据与执行风险【Agent Skill 特辑 #019】](https://blog.csdn.net/TunerT_TQ/article/details/163896221)
+
