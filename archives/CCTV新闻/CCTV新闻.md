@@ -231,3 +231,23 @@
 
 + [40万亿美元！狂飙的美债如何危害全球](https://news.cctv.com/2026/08/20/ARTI7OH1aco1eCiJfHabV1lp260820.shtml)
 
++ [阿拉姆吉尔当选孟加拉国第23任总统](https://news.cctv.com/2026/08/20/ARTIbkj4MEjttlXYJSxzwpUt260820.shtml)
+
++ [日本15个地方政府联名要求修改日美地位协定](https://news.cctv.com/2026/08/20/ARTIF98xLK81CY0ssmYX7d4v260820.shtml)
+
++ [美军中央司令部称“华盛顿”号航母已部署在中东](https://news.cctv.com/2026/08/20/ARTIk4QP1tDcAUQo7eMhQ38j260820.shtml)
+
++ [伊朗官员：美方任何“错误行动”都可能带来严重后果](https://news.cctv.com/2026/08/20/ARTI36IluGdwQwWOOHfEmb2M260820.shtml)
+
++ [以色列本-古里安机场员工罢工 引发严重运营混乱](https://news.cctv.com/2026/08/20/ARTIzx5HLln6EIEoHqdsCc6W260820.shtml)
+
++ [特朗普威胁对伊朗实施经济行动 国际油价上涨超2%](https://news.cctv.com/2026/08/20/ARTI1d6dVH9FggFiv8ZvfcEJ260820.shtml)
+
++ [欧足联等考虑推动对因凡蒂诺发起不信任投票](https://news.cctv.com/2026/08/20/ARTIMZB7PwhL8Y51EJH4XVQO260820.shtml)
+
++ [佩斯科夫：目前不存在和平解决俄乌冲突的前提条件](https://news.cctv.com/2026/08/20/ARTIPUfBvqpfYBVvbyMoEx2C260820.shtml)
+
++ [一油轮在亚丁湾被武装人员控制](https://news.cctv.com/2026/08/20/ARTII8tAeNi0tHWxTDfOdDoX260820.shtml)
+
++ [美国舆论称美国对伊朗“经济战”推行有难度](https://news.cctv.com/2026/08/20/ARTIPCU7yWjBpruAWaGlLx0d260820.shtml)
+

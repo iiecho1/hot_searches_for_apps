@@ -55,3 +55,5 @@
 
 + [[Codex 中转站] HyperAPI 的新老用户们，来领鸡蛋了](https://www.v2ex.com/t/1235779)
 
++ [chatgpt 邀请好友 1000 额度 速发邮箱](https://www.v2ex.com/t/1235899)
+
