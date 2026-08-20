@@ -147,3 +147,7 @@
 
 + [这桌客人绝对是来给大厨考试的， 大半夜点了一道这么高难的“龙腾刀鱼”，没想到大姐喝大了，下手还这么狠](https://m.acfun.cn/v/?ac=48790830)
 
++ [【东方】Rick Astley - Hold Me in Your Arms【MMD PV再现】](https://m.acfun.cn/v/?ac=48784080)
+
++ [要饭的把送饭的给打了！蒙古国暴徒袭击中国工人](https://m.acfun.cn/v/?ac=48791003)
+

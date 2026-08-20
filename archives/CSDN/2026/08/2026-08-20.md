@@ -221,3 +221,9 @@
 
 + [Kafka 消费速度为什么比生产速度慢？性能瓶颈怎么找？](https://blog.csdn.net/2401_86617027/article/details/163922442)
 
++ [把蓝耘模型装进OpenCode:实测开发一个GitHub Issue分诊助手](https://blog.csdn.net/2401_87629362/article/details/163664584)
+
++ [迁移中的SQL兼容性改造：MySQL到KaiwuDB语法适配](https://blog.csdn.net/u014727709/article/details/163832137)
+
++ [Docker + K8s 云原生多节点 Web 服务架构搭建与自动化运维](https://blog.csdn.net/ziyun666888/article/details/163879920)
+

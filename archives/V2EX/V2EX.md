@@ -57,3 +57,5 @@
 
 + [chatgpt 邀请好友 1000 额度 速发邮箱](https://www.v2ex.com/t/1235899)
 
++ [Gemini 学生优惠上新](https://www.v2ex.com/t/1235746)
+
