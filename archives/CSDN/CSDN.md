@@ -149,3 +149,15 @@
 
 + [2026年最新Codex 接入 GPT-5.6 Sol 模型完整图文教程：通过 CC Switch 配置 API](https://blog.csdn.net/heikejiruanjian/article/details/163826594)
 
++ [AI辅助芯片制造：算法与工程化落地](https://blog.csdn.net/weixin_43178406/article/details/163829838)
+
++ [【AVDTP】规范精讲[8-5]: 延迟同步、版权保护与错误全解，吃透高级信令与异常兜底](https://blog.csdn.net/weixin_37800531/article/details/163800557)
+
++ [Spring MVC 核心知识详解：请求数据获取、Model 体系、核心组件与异步处理](https://blog.csdn.net/weixin_51228134/article/details/163893760)
+
++ [无人机行人精准检测数据集分享（适用于YOLO系列深度学习分类检测任务）](https://blog.csdn.net/shrgegrb/article/details/163833312)
+
++ [SparkToro 最新研究：68% 的 Google 搜索已零点击，Gartner 预言的 25% 流量暴跌为什么没发生？](https://blog.csdn.net/SEO_juper/article/details/163896102)
+
++ [从虚拟机运维迁移云原生：基于 KubeSphere 定制企业运管平台完整落地实录](https://blog.csdn.net/u012210103/article/details/163865670)
+

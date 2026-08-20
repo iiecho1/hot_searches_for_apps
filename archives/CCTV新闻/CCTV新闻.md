@@ -169,3 +169,17 @@
 
 + [特朗普宣布对伊朗采取“史上最严厉经济行动”](https://news.cctv.com/2026/08/20/ARTI75DVyZegYdbGBiM3hmj0260820.shtml)
 
++ [“林肯”号航母乱象折射美军“透支效应” 超负荷部署致人员和装备“双重透支”](https://news.cctv.com/2026/08/20/ARTIpYUMqTJyqycOjp8eybPc260820.shtml)
+
++ [哥伦比亚西南部一矿井发生爆炸 至少3人死亡](https://news.cctv.com/2026/08/20/ARTIQ5AyWADo6jphBNXbKKjn260820.shtml)
+
++ [美国宾夕法尼亚州一小型飞机与州警直升机空中相撞](https://news.cctv.com/2026/08/20/ARTIJBQyUveQ22yNku5teRcm260820.shtml)
+
++ [欧洲央行行长警告：欧洲不应再错过“人工智能革命”](https://news.cctv.com/2026/08/20/ARTIPtNRXkNr5RONj9Dgee5s260820.shtml)
+
++ [乌称基辅遭俄导弹袭击 已致5死23伤](https://news.cctv.com/2026/08/20/ARTID2aFlg82LOFOG5X3igsQ260820.shtml)
+
++ [日本2027财年防卫预算申请曝光引关注 分析人士称种种举动释放危险信号](https://news.cctv.com/2026/08/20/ARTIA2IL5uKnBSxCqiPaqNd2260820.shtml)
+
++ [美官员：美军开展秘密行动在霍尔木兹海峡打通运油航道](https://news.cctv.com/2026/08/20/ARTINyKSc3fTvXKZb24DZKF5260820.shtml)
+

@@ -25,3 +25,13 @@
 
 + [会不会因为起夜无法再次入眠](https://www.v2ex.com/t/1235468)
 
++ [是不是过了 35 对什么都不感兴趣了](https://www.v2ex.com/t/1235640)
+
++ [Giffgaff 卡又复活了](https://www.v2ex.com/t/1235529)
+
++ [各位有多少人白头发了？有什么解决办法吗](https://www.v2ex.com/t/1235748)
+
++ [RTX PRO 5000（或其他 48GB 显存）的 Qwen3.8-27B-FP8 配置交流（prefill 5000+t/s， decode 60+t/s）](https://www.v2ex.com/t/1235518)
+
++ [已经失业的小伙伴们，你们是真找不到合适工作了吗？还是说不想找，就只是想躺平而已？](https://www.v2ex.com/t/1235632)
+
