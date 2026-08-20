@@ -203,3 +203,15 @@
 
 + [美军更新伊朗战事伤亡数据 18死757伤](https://news.cctv.com/2026/08/20/ARTIfMii31iinxEZDAkdW70c260820.shtml)
 
++ [美国一小飞机与警用直升机相撞 致1人死亡](https://news.cctv.com/2026/08/20/ARTISzGXDxMchjMPeeBK1ri7260820.shtml)
+
++ [扎波罗热核电站失去外部供电 转入备用供电](https://news.cctv.com/2026/08/20/ARTIFYZy00VxMQ6ZpVZjbbme260820.shtml)
+
++ [德国一酒店出现疑似诺如病毒感染 31人胃肠不适](https://news.cctv.com/2026/08/20/ARTILeC707vYIgj0kRg1NcXE260820.shtml)
+
++ [格专家：中国生态环境法典将产生广泛影响](https://news.cctv.com/2026/08/20/ARTIsiF97c7rxiqg1DN5zwkM260820.shtml)
+
++ [南非媒体：中国机器人产业为非洲带来机遇](https://news.cctv.com/2026/08/20/ARTIjXGHNrKLif6xHgfYOOwV260820.shtml)
+
++ [投降日“拜鬼”，逆流者终将被历史清算](https://news.cctv.com/2026/08/20/ARTIgZMP0LD4lRzOl5lQrILE260820.shtml)
+
