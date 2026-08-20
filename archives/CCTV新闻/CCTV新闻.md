@@ -195,3 +195,11 @@
 
 + [日本成田机场一客机“冒黑烟” 相关跑道已关闭](https://news.cctv.com/2026/08/20/ARTIG3nTPLmS0TCEaONI1nQ0260820.shtml)
 
++ [伊朗外长：美为转移自身财政问题而对伊进行新一轮经济威胁](https://news.cctv.com/2026/08/20/ARTIC9Xr6q3BlWGBrXwyPIbb260820.shtml)
+
++ [俄国防部称俄军对基辅目标实施大规模打击](https://news.cctv.com/2026/08/20/ARTIpnGjR7LiDB6sealKxBX2260820.shtml)
+
++ [以防长称埃尔多安正将土耳其“拖入叙利亚的危险冒险中”](https://news.cctv.com/2026/08/20/ARTIvfMBQowz3fdWY2G6OtL5260820.shtml)
+
++ [美军更新伊朗战事伤亡数据 18死757伤](https://news.cctv.com/2026/08/20/ARTIfMii31iinxEZDAkdW70c260820.shtml)
+
