@@ -137,3 +137,5 @@
 
 + [Kuikly vs Flutter vs React Native 跨平台框架对比分析](https://blog.csdn.net/2601_95698182/article/details/163844222)
 
++ [基于改进C3k2-GhostDynamicConv的YOLOV13烟雾检测算法](https://blog.csdn.net/weixin_43860634/article/details/163913860)
+

@@ -171,3 +171,5 @@
 
 + [俄在争议岛屿附近进行导弹训练 日本称“无法接受”](https://news.cctv.com/2026/08/21/ARTIE4yGT2OxtKCYg12WkwMa260821.shtml)
 
++ [巴拿马运河下调船舶日通行量应对厄尔尼诺影响](https://news.cctv.com/2026/08/21/ARTIViUKbstHn4aw73WHKXut260821.shtml)
+
