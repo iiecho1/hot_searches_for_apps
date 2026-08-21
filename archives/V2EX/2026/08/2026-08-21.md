@@ -21,3 +21,7 @@
 
 + [Gemini 学生优惠上新](https://www.v2ex.com/t/1235746)
 
++ [程序猿，大家还好吗？](https://www.v2ex.com/t/1235760)
+
++ [手机选择](https://www.v2ex.com/t/1235783)
+
