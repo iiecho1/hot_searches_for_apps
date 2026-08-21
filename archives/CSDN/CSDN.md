@@ -193,3 +193,7 @@
 
 + [化工行业数据治理实战：数据中台如何实现安全、环保与生产三域数据融合分析](https://blog.csdn.net/hallo_82/article/details/163890154)
 
++ [FPGA PCIe P2P 通讯 实现 GPU Direct RDMA](https://blog.csdn.net/STPX17/article/details/163882605)
+
++ [Flutter video_player总结](https://blog.csdn.net/qq_14876133/article/details/163890499)
+
