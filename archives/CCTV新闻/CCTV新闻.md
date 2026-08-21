@@ -173,3 +173,13 @@
 
 + [巴拿马运河下调船舶日通行量应对厄尔尼诺影响](https://news.cctv.com/2026/08/21/ARTIViUKbstHn4aw73WHKXut260821.shtml)
 
++ [“与中国的联系，是贯穿我人生的故事”——访哥伦比亚驻华大使卡夫雷拉](https://news.cctv.com/2026/08/21/ARTIpHUPDngFJzL0xY8DH2vz260821.shtml)
+
++ [中国创新活力何以持续涌动](https://news.cctv.com/2026/08/21/ARTI15J7dkmtKQQ1TSzqq185260821.shtml)
+
++ [俄罗斯：日本应全面承认二战结果 停止美化侵略历史](https://news.cctv.com/2026/08/21/ARTItJoye4SqeXv6xJX2HM5A260821.shtml)
+
++ [刚果（金）埃博拉确诊病例超5200例](https://news.cctv.com/2026/08/21/ARTIi5fl8nZgotV88uNlQ9yR260821.shtml)
+
++ [瑞士冰川融化 失踪30多年的登山者遗体被发现](https://news.cctv.com/2026/08/21/ARTIF2g7wKpxz0C2NYTqMDMp260821.shtml)
+
