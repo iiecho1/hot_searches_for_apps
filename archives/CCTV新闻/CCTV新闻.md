@@ -191,3 +191,9 @@
 
 + [美国要“史无前例”经济施压伊朗 谁会为此“埋单”？](https://news.cctv.com/2026/08/21/ARTIOtEddFyZZrkCxIukEA1L260821.shtml)
 
++ [欧盟拟就“E1区”定居点建设制裁以色列](https://news.cctv.com/2026/08/21/ARTIoio32e6g5LUyKAXRUq6d260821.shtml)
+
++ [乌克兰被曝曾计划用AI无人机群袭击莫斯科机场](https://news.cctv.com/2026/08/21/ARTIrxqkS7rJYHGSsr7sh2jw260821.shtml)
+
++ [金砖国家领导人会晤将于9月中旬在印度举行](https://news.cctv.com/2026/08/21/ARTIgUmuBhw5OdJD2UUiPy6b260821.shtml)
+
