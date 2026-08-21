@@ -101,3 +101,19 @@
 
 + [Flutter video_player总结](https://blog.csdn.net/qq_14876133/article/details/163890499)
 
++ [人工智能究竟是如何运行的？从高维空间拟合、反向传播到大模型推理全链路拆解](https://blog.csdn.net/qq_46987323/article/details/163926173)
+
++ [AI辅助数据分析：如何让分析效率提升85%？](https://blog.csdn.net/yuanziok/article/details/163883744)
+
++ [大数据知识图谱项目：基于neo4j知识图谱+flask的大数据电影问答系统（超详细讲解及源码）](https://blog.csdn.net/Myx74270512/article/details/163889522)
+
++ [2026‑08‑20 AI产业深度解读｜OpenAI零数据留存安全升级、Mac本地视频生成、H20运行DeepSeek‑V4‑Pro优化](https://blog.csdn.net/qq_36729037/article/details/163926860)
+
++ [《智能驾驶拆解笔记：老周唠透车圈AI》第7篇](https://blog.csdn.net/weixin_62244995/article/details/162999249)
+
++ [Kafka 消费速度为什么比生产速度慢？性能瓶颈怎么找？](https://blog.csdn.net/2401_86617027/article/details/163922442)
+
++ [使用Spring Boot发送邮件](https://blog.csdn.net/wno704/article/details/163670019)
+
++ [C++11 右值引用与移动语义万字详解 | 从列表初始化到完美转发，深度剖析现代 C++ 性能革命【C++11 新特性 · 上篇】](https://blog.csdn.net/lingran__/article/details/163823730)
+
