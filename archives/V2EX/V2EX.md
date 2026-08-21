@@ -39,3 +39,9 @@
 
 + [毕业跟大学老师干了 3 年，欠薪 4 个月还在温水煮青蛙，纠结要不要跑路](https://www.v2ex.com/t/1236035)
 
++ [统计一下大家现在 vibe coding 的方案](https://www.v2ex.com/t/1236041)
+
++ [你的余额宝会放很多钱吗？](https://www.v2ex.com/t/1236027)
+
++ [第一次用 AI 用出了挫败感。](https://www.v2ex.com/t/1235838)
+

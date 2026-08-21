@@ -169,3 +169,5 @@
 
 + [美国纽约州一女子涉嫌策划袭击州议会大厦被捕](https://news.cctv.com/2026/08/21/ARTI12uMmgpsnSquj9rtUFgJ260821.shtml)
 
++ [俄在争议岛屿附近进行导弹训练 日本称“无法接受”](https://news.cctv.com/2026/08/21/ARTIE4yGT2OxtKCYg12WkwMa260821.shtml)
+

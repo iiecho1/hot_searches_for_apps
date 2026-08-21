@@ -71,3 +71,9 @@
 
 + [【录播】不播好爽但播了（更新中）【千岛】](https://m.acfun.cn/v/?ac=48791420)
 
++ [【死魂曲】安抚尸体情绪](https://m.acfun.cn/v/?ac=48791447)
+
++ [EXID-Hot Pink](https://m.acfun.cn/v/?ac=48791261)
+
++ [个人势主播不火真的是因为不够努力吗？](https://m.acfun.cn/v/?ac=48788246)
+
