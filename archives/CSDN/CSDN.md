@@ -169,3 +169,11 @@
 
 + [Docker 从零到精通：知识与跨平台使用指南](https://blog.csdn.net/weixin_45146962/article/details/163905969)
 
++ [飞算JavaAI能处理SaaS套餐变更业务吗？](https://blog.csdn.net/lrq13965748542/article/details/163862167)
+
++ [RAG 进阶地图：Self-RAG、CRAG、GraphRAG、Agentic RAG 到底有何不同？](https://blog.csdn.net/2401_89111612/article/details/163896663)
+
++ [CentOS 7.9 自动化批量装机实战：基于 PXE + Kickstart（VMware 完整版）](https://blog.csdn.net/qq_45993318/article/details/163913573)
+
++ [React 管理后台实战 · 前端怎么解析 Excel 做批量导入？CSV/XLSX 双格式 + 智能列映射实战](https://blog.csdn.net/FungLeo/article/details/163909545)
+
