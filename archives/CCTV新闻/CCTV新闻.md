@@ -159,3 +159,7 @@
 
 + [全球首例！英国兽医团队用电化学疗法治愈患癌蟒蛇](https://news.cctv.com/2026/08/22/ARTI8UcznRKFr4GKgeQ5tpRD260821.shtml)
 
++ [美国将向联合国支付7.25亿美元拖欠会费](https://news.cctv.com/2026/08/22/ARTIwuhvDpDaEgpmi6ksXySO260822.shtml)
+
++ [巴基斯坦军方表示打死49名恐怖分子](https://news.cctv.com/2026/08/22/ARTIW8FRHyQT5NgTbjbqf9YJ260821.shtml)
+

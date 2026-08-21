@@ -35,3 +35,19 @@
 
 + [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
 
++ [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+
++ [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+
++ [apache/maka](https://github.com/apache/maka)
+
++ [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+
++ [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
+
++ [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+
