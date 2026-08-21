@@ -25,3 +25,17 @@
 
 + [手机选择](https://www.v2ex.com/t/1235783)
 
++ [如何把尿道结石排出来?](https://www.v2ex.com/t/1236025)
+
++ [想请教一下大家，都是怎么订阅 Codex 的？](https://www.v2ex.com/t/1235817)
+
++ [还有比 wps 更恶心的软件吗](https://www.v2ex.com/t/1235930)
+
++ [做了一个删文字改剧情的游戏](https://www.v2ex.com/t/1235839)
+
++ [Codex / Claude Code 用户来送额度，评论 ID 送 $10](https://www.v2ex.com/t/1235883)
+
++ [iCloud 为啥不加个 512G 或者 1TB 的档位呢](https://www.v2ex.com/t/1235840)
+
++ [毕业跟大学老师干了 3 年，欠薪 4 个月还在温水煮青蛙，纠结要不要跑路](https://www.v2ex.com/t/1236035)
+

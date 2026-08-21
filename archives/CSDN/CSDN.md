@@ -125,3 +125,5 @@
 
 + [主设备二次验证、连接授权、AI审计：2026安全远控Top3横测，ToDesk凭什么守住这次连接？](https://blog.csdn.net/lrq13965748542/article/details/163922162)
 
++ [《Linux网络编程》吃透 Linux Socket 底层：端口、五元组、字节序与 API 详解](https://blog.csdn.net/2501_91275995/article/details/163907677)
+

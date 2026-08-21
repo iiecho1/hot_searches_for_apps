@@ -161,3 +161,11 @@
 
 + [也门胡塞武装称对沙特机场和油企设施发动袭击](https://news.cctv.com/2026/08/21/ARTIM03a34GbwBW5lteIjJnk260820.shtml)
 
++ [国际足联公布2027年女足世界杯赛程](https://news.cctv.com/2026/08/21/ARTIARPAinKUrD0f5NyHm9Xc260821.shtml)
+
++ [美国决定批准对卡塔尔45亿美元军售](https://news.cctv.com/2026/08/21/ARTI1GZH3gDzSa8O99PDeB6H260821.shtml)
+
++ [特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星](https://news.cctv.com/2026/08/21/ARTIUiY7JuldFcx9TVyMN4Uv260821.shtml)
+
++ [美国纽约州一女子涉嫌策划袭击州议会大厦被捕](https://news.cctv.com/2026/08/21/ARTI12uMmgpsnSquj9rtUFgJ260821.shtml)
+
