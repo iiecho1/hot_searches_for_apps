@@ -157,3 +157,5 @@
 
 + [美欧宇航员太空行走完成部分更换通信天线工作](https://news.cctv.com/2026/08/19/ARTILSi0qyMaIqhoGvDI7Vfi260819.shtml)
 
++ [全球首例！英国兽医团队用电化学疗法治愈患癌蟒蛇](https://news.cctv.com/2026/08/22/ARTI8UcznRKFr4GKgeQ5tpRD260821.shtml)
+

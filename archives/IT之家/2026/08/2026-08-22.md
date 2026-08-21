@@ -25,3 +25,27 @@
 
 + [拼多多雄安公司员工数突破 4000 人，成当地员工规模最大民营企业](https://m.ithome.com/html/992074.htm)
 
++ [比亚迪大汉 EV 开启预售：24.99 万-29.99 万元，最大续航 1008 公里](https://m.ithome.com/html/992565.htm)
+
++ [鸿蒙智行问界儿童车预售：350W 电机、20km 续航、前后双 1080P 摄像头，到手价 1.48 万元](https://m.ithome.com/html/992456.htm)
+
++ [DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8](https://m.ithome.com/html/992755.htm)
+
++ [起亚官宣蔡徐坤担任品牌代言人，全新赛图斯将于 8 月 26 日上市](https://m.ithome.com/html/992442.htm)
+
++ [微信 iOS 版 8.0.76 最新官方正式版下载发布](https://m.ithome.com/html/992450.htm)
+
++ [新世代宝马 iX3 开启预订：26.99 万-33.99 万元起，中国专属 3 米轴距](https://m.ithome.com/html/992488.htm)
+
++ [比亚迪王朝 8 系旗舰之作：第三代唐 SUV 全球首秀，四季度上市](https://m.ithome.com/html/992581.htm)
+
++ [因车内应急机械拉手不易识别和操作，特斯拉、零跑、吉利等 9 大厂商宣布召回](https://m.ithome.com/html/992827.htm)
+
++ [【视频】华为Pura X View 首发体验，当“阔”屏来到直板机](https://m.ithome.com/html/992443.htm)
+
++ [虚幻 5 国产 MMORPG《诡秘之主》今日公测：PC 推荐 RTX 3070 Ti，移动端苹果 iPhone 12 Pro 起步](https://m.ithome.com/html/992415.htm)
+
++ [上汽 MG 07 上市：纯电、混动双版本，限时权益价 10.59 万元起](https://m.ithome.com/html/992631.htm)
+
++ [高通骁龙 2nm 芯片命名曝光：第六代骁龙 8 至尊版 / 超级至尊版](https://m.ithome.com/html/992452.htm)
+
