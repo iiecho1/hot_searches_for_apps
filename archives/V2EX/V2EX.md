@@ -45,3 +45,9 @@
 
 + [第一次用 AI 用出了挫败感。](https://www.v2ex.com/t/1235838)
 
++ [我们开始倒班考勤了](https://www.v2ex.com/t/1236064)
+
++ [你们会骂 AI 吗](https://www.v2ex.com/t/1236083)
+
++ [做了个 年-月-日 选择控件，你绝对第一次见](https://www.v2ex.com/t/1235992)
+
