@@ -151,3 +151,21 @@
 
 + [GPT-5.6 Sol 到底是 1.05M 还是 258K？Codex 上下文差异终于搞清楚了](https://blog.csdn.net/weixin_59586819/article/details/163862337)
 
++ [分布式GPU智能算法深度研究2026年版（中）](https://blog.csdn.net/kkiron/article/details/163874167)
+
++ [【计算机网络 | 数据链路层5：以太网工作原理：一帧数据是如何在局域网中转发的？】](https://blog.csdn.net/DdigitalNomad/article/details/163880288)
+
++ [Spring Boot 可执行 JAR 原理与应用启动速度优化](https://blog.csdn.net/weixin_51228134/article/details/163925438)
+
++ [Harness开源，DeepSeek向左，OpenAI向右](https://blog.csdn.net/fitbit/article/details/163944246)
+
++ [大数据知识图谱项目：基于neo4j知识图谱+flask的大数据电影问答系统（超详细讲解及源码）](https://blog.csdn.net/Myx74270512/article/details/163889522)
+
++ [飞算JavaAI能从零搭建差旅报销审批台吗？金额驱动审批链怎么处理？](https://blog.csdn.net/2401_87042472/article/details/163906173)
+
++ [RPC、Dubbo、Zookeeper 三者关系](https://blog.csdn.net/weixin_53050448/article/details/163895576)
+
++ [云克隆 Luminex 试剂盒助力肿瘤免疫调控机制深度解析](https://blog.csdn.net/CCC631341/article/details/163906519)
+
++ [Docker 从零到精通：知识与跨平台使用指南](https://blog.csdn.net/weixin_45146962/article/details/163905969)
+

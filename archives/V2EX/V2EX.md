@@ -57,3 +57,5 @@
 
 + [刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题](https://www.v2ex.com/t/1236151)
 
++ [请教下各位用的都是什么梯子订阅](https://www.v2ex.com/t/1236097)
+
