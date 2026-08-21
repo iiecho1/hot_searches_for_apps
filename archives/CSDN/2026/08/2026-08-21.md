@@ -197,3 +197,9 @@
 
 + [Flutter video_player总结](https://blog.csdn.net/qq_14876133/article/details/163890499)
 
++ [Spark大数据分析与实战笔记（第八章 Spark MLlib 机器学习算法库-01）](https://blog.csdn.net/u014727709/article/details/163802600)
+
++ [基于 Spring Boot + Vue 的 AI 智能在线订餐系统](https://blog.csdn.net/weixin_51151534/article/details/163919699)
+
++ [Harness开源: DeepSeek向左, OpenAI向右](https://blog.csdn.net/fitbit/article/details/163944246)
+
