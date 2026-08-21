@@ -53,3 +53,7 @@
 
 + [半夜腰疼](https://www.v2ex.com/t/1236047)
 
++ [[中转站] plus 炸了你们用什么？来我这 0.03 opus4.6，无敌平替](https://www.v2ex.com/t/1236086)
+
++ [刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题](https://www.v2ex.com/t/1236151)
+
