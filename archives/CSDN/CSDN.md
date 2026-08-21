@@ -177,3 +177,19 @@
 
 + [React 管理后台实战 · 前端怎么解析 Excel 做批量导入？CSV/XLSX 双格式 + 智能列映射实战](https://blog.csdn.net/FungLeo/article/details/163909545)
 
++ [30分钟能用飞算JavaAI跑通JWT认证吗？](https://blog.csdn.net/2401_86326742/article/details/163875680)
+
++ [人工智能究竟是如何运行的？从高维空间拟合、反向传播到大模型推理全链路拆解](https://blog.csdn.net/qq_46987323/article/details/163926173)
+
++ [Spring Boot 3 + Vue 3 全栈外卖系统：RabbitMQ异步解耦、MySQL/Neo4j双引擎推建](https://blog.csdn.net/2303_79635409/article/details/163842245)
+
++ [Redis 从了解到精通（三）上：量化交易场景下的数据备份与安全配置](https://blog.csdn.net/weixin_73631017/article/details/163912805)
+
++ [cc-switch 鸿蒙 PC移植:使用Tauri官方 feat/open-harmony 分支最新版本移植实录](https://blog.csdn.net/qq8864/article/details/163865027)
+
++ [技术速递｜如何通过 Agent Apps 将软件交付工作流引入 GitHub](https://blog.csdn.net/MicrosoftReactor/article/details/163896441)
+
++ [Python异步爬虫实战：从零到一构建高性能并发爬虫](https://blog.csdn.net/Z2089369751/article/details/163895554)
+
++ [化工行业数据治理实战：数据中台如何实现安全、环保与生产三域数据融合分析](https://blog.csdn.net/hallo_82/article/details/163890154)
+
