@@ -59,3 +59,7 @@
 
 + [[送码] 做了一个 Apple tv 上的小红书 Rouge](https://www.v2ex.com/t/1236360)
 
++ [亲人去世后的手机破解问题](https://www.v2ex.com/t/1236385)
+
++ [你们开梯子会有反诈中心的电话打来吗](https://www.v2ex.com/t/1236394)
+

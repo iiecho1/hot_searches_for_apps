@@ -153,3 +153,11 @@
 
 + [数学建模速成省奖](https://blog.csdn.net/weixin_43448473/article/details/163922410)
 
++ [springboot智慧公共交通系统---附源码51123](https://blog.csdn.net/weixin_BYSJ1987/article/details/162769107)
+
++ [从CPU到AI：用操作系统存储哲学，治疗Agent的“失忆症“](https://blog.csdn.net/bumblebee16/article/details/163833954)
+
++ [GitHub 热榜项目 - 周榜(2026-08-22)](https://blog.csdn.net/u014390502/article/details/163971003)
+
++ [Rust IDE 选型：除 VS Code 之外，RustRover 非商业场景可免费使用](https://blog.csdn.net/wyj985860/article/details/163895896)
+
