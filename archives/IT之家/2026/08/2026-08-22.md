@@ -49,3 +49,15 @@
 
 + [高通骁龙 2nm 芯片命名曝光：第六代骁龙 8 至尊版 / 超级至尊版](https://m.ithome.com/html/992452.htm)
 
++ [曝周杰伦将代言 vivo 手机，广告片拍摄现场画面曝光](https://m.ithome.com/html/992367.htm)
+
++ [小米 REDMI K100 Pro 系列手机首销 7 天成绩曝光，Max 销量约前代 135%](https://m.ithome.com/html/992400.htm)
+
++ [鸿蒙智行智界 RX 轿跑 SUV 开启预订，29.98 万 / 35.98 万元起](https://m.ithome.com/html/992199.htm)
+
++ [发布会没讲好，华为余承东重新整理鸿蒙智行“五界”车型独有核心技术能力](https://m.ithome.com/html/992233.htm)
+
++ [曝奕境汽车南昌门店活动送仿版 Labubu，品牌总经理曾清林发文回应](https://m.ithome.com/html/992346.htm)
+
++ [消息称华为阔直板新品今天亮相，将于 8 月 28 日开启预售](https://m.ithome.com/html/992105.htm)
+
