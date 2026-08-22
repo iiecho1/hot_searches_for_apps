@@ -51,3 +51,15 @@
 
 + [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 
++ [openai/codex](https://github.com/openai/codex)
+
++ [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+
++ [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+

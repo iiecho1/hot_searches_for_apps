@@ -185,3 +185,11 @@
 
 + [登录不是授权：高能力 AI 的连续身份保证链](https://blog.csdn.net/w776341482/article/details/163974439)
 
++ [深度学习实战-基于EfficientNetB3与ResNet50的开心果图像分类识别](https://blog.csdn.net/m0_64336780/article/details/162844170)
+
++ [一个接口，三个模型：一个Token Plan 的前后端开发实践](https://blog.csdn.net/Mrxiao_bo/article/details/163968028)
+
++ [SpringBoot3 整合 openGauss 完整适配实战｜开源国产数据库生产落地指南](https://blog.csdn.net/xdsfsadfas/article/details/163909711)
+
++ [前端转做大模型应用：Demo跑通后第一次上线，我踩的坑比代码多](https://blog.csdn.net/2601_96285276/article/details/163966540)
+

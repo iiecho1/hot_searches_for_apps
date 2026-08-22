@@ -139,3 +139,13 @@
 
 + [「2026鹰角FES嘉年华」沉浸式巡游vlog请查收——](https://m.acfun.cn/v/?ac=48795446)
 
++ [【东方】推特东方小视频选集 第269期](https://m.acfun.cn/v/?ac=48793847)
+
++ [听西厢月落乌啼声声唱罢～](https://m.acfun.cn/v/?ac=48795630)
+
++ [这望远镜确实有点帅！沉浸式开箱胜途星澜增稳望远镜！](https://m.acfun.cn/v/?ac=48795342)
+
++ [这么帅的玩具，竟然来自韩国？｜首尔VLOG](https://m.acfun.cn/v/?ac=48795501)
+
++ [세나의 화사한 복숭아 빛 로브 스타일 | Peach Robe | Sena](https://m.acfun.cn/v/?ac=48793277)
+
