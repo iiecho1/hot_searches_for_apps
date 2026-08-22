@@ -21,3 +21,5 @@
 
 + [Tibo 已发 重置卡 注意查收](https://www.v2ex.com/t/1236335)
 
++ [感觉 Vibe Coding 时代， Windows 系统要凉了](https://www.v2ex.com/t/1236462)
+

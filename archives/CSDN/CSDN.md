@@ -113,3 +113,19 @@
 
 + [应对海量充电桩联网高延迟：边缘网关脱机状态机与秒级本地自决架构解构](https://blog.csdn.net/Robustel/article/details/163919674)
 
++ [备份完不算完，先还原到临时库验一遍](https://blog.csdn.net/Mrxiao_bo/article/details/163981244)
+
++ [npm镜像源配置：国内镜像源配置与避坑指南](https://blog.csdn.net/2401_89111612/article/details/163920536)
+
++ [《Linux网络编程》吃透 Linux Socket 底层：端口、五元组、字节序与 API 详解](https://blog.csdn.net/2501_91275995/article/details/163907677)
+
++ [把Blinko放进极空间:Docker 部署自托管笔记，并实现多设备远程访问](https://blog.csdn.net/2301_76341691/article/details/163914606)
+
++ [OpenClaw 边缘部署实战：IoT 场景下的轻量级 Agent 集群与离线自治](https://blog.csdn.net/sinat_41617212/article/details/163951142)
+
++ [Spring 源码系列（23）: SpringApplication.run() 启动全流程](https://blog.csdn.net/aaxzz/article/details/163918702)
+
++ [【Linux】 编译与动静态库相关](https://blog.csdn.net/2501_93971468/article/details/163958127)
+
++ [Spring Cloud 微服务实战（四）：每个请求都直连服务？你的集群缺一个 Gateway 门卫](https://blog.csdn.net/weixin_42303792/article/details/163968077)
+
