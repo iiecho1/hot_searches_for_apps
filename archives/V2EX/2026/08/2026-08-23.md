@@ -23,3 +23,5 @@
 
 + [感觉 Vibe Coding 时代， Windows 系统要凉了](https://www.v2ex.com/t/1236462)
 
++ [白菜用甲醛防腐..还有啥是安全的吗](https://www.v2ex.com/t/1236404)
+

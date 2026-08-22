@@ -167,3 +167,5 @@
 
 + [被指多次袭击国际组织 以色列为何有恃无恐？专家分析](https://news.cctv.com/2026/08/23/ARTISebdChCJbU3n7PEzUycc260823.shtml)
 
++ [闪评 | 美伊进入“经济战” 中东局势何去何从？](https://news.cctv.com/2026/08/23/ARTIi2WcbqU21V6l5mpaoAMd260823.shtml)
+
