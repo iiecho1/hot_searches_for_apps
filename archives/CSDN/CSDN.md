@@ -161,3 +161,15 @@
 
 + [Rust IDE 选型：除 VS Code 之外，RustRover 非商业场景可免费使用](https://blog.csdn.net/wyj985860/article/details/163895896)
 
++ [从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战](https://blog.csdn.net/Dovis5884/article/details/163972133)
+
++ [【Linux】 进程（1） 从冯诺依曼体系到进程核心概念](https://blog.csdn.net/2602_95649725/article/details/163895149)
+
++ [anti-slop 使用教程：Oxlint 规则拦截 AI 低质量代码 TypeScript 代码质量详解](https://blog.csdn.net/qq_34958121/article/details/163945174)
+
++ [Nginx-Lua IDE](https://blog.csdn.net/m0_61787196/article/details/163783804)
+
++ [鸿蒙手机远控电脑横评：ToDesk/向日葵/华为远程PC实测，连接、流畅度、键鼠和安全一次看清](https://blog.csdn.net/qq_33681891/article/details/163974592)
+
++ [【八个月网安课程】第二周·周六：综合实验——配置 Nginx Web 服务、查看端口与日志](https://blog.csdn.net/jjj_web/article/details/163971465)
+
