@@ -163,3 +163,5 @@
 
 + [巴基斯坦军方表示打死49名恐怖分子](https://news.cctv.com/2026/08/22/ARTIW8FRHyQT5NgTbjbqf9YJ260821.shtml)
 
++ [哥伦比亚强震已致329人遇难](https://news.cctv.com/2026/08/22/ARTISfyihhIsObvHKZRQbeRa260822.shtml)
+

@@ -119,3 +119,7 @@
 
 + [Spark大数据分析与实战笔记（第八章 Spark MLlib 机器学习算法库-01）](https://blog.csdn.net/u014727709/article/details/163802600)
 
++ [飞算JavaAI能从零搭建差旅报销审批台吗？金额驱动审批链怎么处理？](https://blog.csdn.net/2401_87042472/article/details/163906173)
+
++ [Spring Boot 3 + Vue 3 全栈外卖系统：RabbitMQ异步解耦、MySQL/Neo4j双引擎推建](https://blog.csdn.net/2303_79635409/article/details/163842245)
+
