@@ -123,3 +123,17 @@
 
 + [Spring Boot 3 + Vue 3 全栈外卖系统：RabbitMQ异步解耦、MySQL/Neo4j双引擎推建](https://blog.csdn.net/2303_79635409/article/details/163842245)
 
++ [《智能驾驶拆解笔记：老周唠透车圈AI》第9篇（系列终篇）](https://blog.csdn.net/weixin_62244995/article/details/162999409)
+
++ [安路SOC EF2M45（MCU+FPGA）点灯测试](https://blog.csdn.net/Naisu_kun/article/details/163885142)
+
++ [【MySQL 慢查询排查实战】列表接口逐渐变慢时，怎样从请求链路定位原因](https://blog.csdn.net/2402_87731470/article/details/163596531)
+
++ [应对海量充电桩联网高延迟：边缘网关脱机状态机与秒级本地自决架构解构](https://blog.csdn.net/Robustel/article/details/163919674)
+
++ [深入理解 Transformer：为什么我们需要 Transformer？](https://blog.csdn.net/htw250056/article/details/163955797)
+
++ [ragflow v0.27.0 发布：Go 后端全面对齐、智能体搜索与知识编译大升级，超全更新解析](https://blog.csdn.net/weixin_48502062/article/details/163922502)
+
++ [深入理解Linux内核--内存架构，页框分配器，性能优化](https://blog.csdn.net/x13262608581/article/details/163938685)
+
