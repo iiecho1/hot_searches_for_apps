@@ -181,3 +181,7 @@
 
 + [低功耗N1也能跑OpenClaw：飞牛NAS接入微信与远程运维完整教程](https://blog.csdn.net/2401_87629362/article/details/163944276)
 
++ [从零封装一个合同审查助手：用 WorkBuddy + 腾讯云 OCR 三件套跑通 5 种格式合同的自动审阅](https://blog.csdn.net/2302_78391795/article/details/163928287)
+
++ [登录不是授权：高能力 AI 的连续身份保证链](https://blog.csdn.net/w776341482/article/details/163974439)
+
