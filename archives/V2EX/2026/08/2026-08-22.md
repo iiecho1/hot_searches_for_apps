@@ -69,3 +69,5 @@
 
 + [[Air Router] GPT Plus 0.1 风控期间依然稳健, 还有 CC 1x, Pro 0.2, Grok Heavy 0.2, 新用户留言 ID 可得 5$额度,现在充值额外赠 10%](https://www.v2ex.com/t/1236362)
 
++ [[Android 封闭测试] 找几位朋友帮忙体验《像素数织》，送完整内容兑换码](https://www.v2ex.com/t/1236410)
+
