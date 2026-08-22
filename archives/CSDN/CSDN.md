@@ -129,3 +129,13 @@
 
 + [Spring Cloud 微服务实战（四）：每个请求都直连服务？你的集群缺一个 Gateway 门卫](https://blog.csdn.net/weixin_42303792/article/details/163968077)
 
++ [别急着换赛道：大数据经验在 AI 项目里到底值多少？](https://blog.csdn.net/2601_96285279/article/details/163970751)
+
++ [【Bug已解决】How do I apply html tags and css to API response in realtime 解决方案](https://blog.csdn.net/weixin_52908342/article/details/163977286)
+
++ [可观测性即代码（OaC）实战：用 OpenTelemetry 重构云原生 AI 应用的观测体系](https://blog.csdn.net/m0_53142039/article/details/163922938)
+
++ [2026年Mac被控远控深度测评横评：六大主流远程软件哪款更能打](https://blog.csdn.net/2302_79376097/article/details/163954396)
+
++ [JMeter 分布式压测集群搭建：3 台 Slave 压到 5000 并发实战](https://blog.csdn.net/qq_35366330/article/details/163919655)
+
