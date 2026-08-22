@@ -101,3 +101,15 @@
 
 + [从 Demo 到生产：Text‑to‑SQL 系统架构实战｜SpringBoot + 大模型前后端分离完整落地](https://blog.csdn.net/yelangkingwuzuhu/article/details/163927840)
 
++ [Kafka 消费速度为什么比生产速度慢？性能瓶颈怎么找？](https://blog.csdn.net/2401_86617027/article/details/163922442)
+
++ [k8s集群部署的方法原理](https://blog.csdn.net/2301_81073010/article/details/163973811)
+
++ [飞算JavaAI能读懂复杂业务吗？真实订单系统实测](https://blog.csdn.net/2401_87533975/article/details/163919790)
+
++ [总结k8s集群部署的方法原理](https://blog.csdn.net/2402_88968251/article/details/163973767)
+
++ [【AI接入大模型SDK】云端接入和本地部署模型的区别](https://blog.csdn.net/2401_89899187/article/details/163889492)
+
++ [应对海量充电桩联网高延迟：边缘网关脱机状态机与秒级本地自决架构解构](https://blog.csdn.net/Robustel/article/details/163919674)
+
