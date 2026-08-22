@@ -169,3 +169,7 @@
 
 + [闪评 | 美伊进入“经济战” 中东局势何去何从？](https://news.cctv.com/2026/08/23/ARTIi2WcbqU21V6l5mpaoAMd260823.shtml)
 
++ [泰国南部三府发生爆炸纵火事件 那拉提瓦府实施宵禁](https://news.cctv.com/2026/08/23/ARTIbuesq2IP2PeaPVj59L6n260823.shtml)
+
++ [加拿大宣布9月8日起对美国商品征收报复性关税](https://news.cctv.com/2026/08/23/ARTIHqdx1ra9toZZWVqpb8aV260823.shtml)
+
