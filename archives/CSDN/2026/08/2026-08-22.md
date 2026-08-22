@@ -173,3 +173,11 @@
 
 + [【八个月网安课程】第二周·周六：综合实验——配置 Nginx Web 服务、查看端口与日志](https://blog.csdn.net/jjj_web/article/details/163971465)
 
++ [DM 数据库创建多级分区表实战指南：提升大数据管理效率与查询性能](https://blog.csdn.net/qq_41840843/article/details/163973858)
+
++ [C#图像处理：使用imagemagick实现像素放大水印转换等多种功能](https://blog.csdn.net/xianzuzhicai/article/details/163906861)
+
++ [联调失败才醒悟：大数据转大模型，权限和日志比调参更值钱的实战复盘](https://blog.csdn.net/2601_96189167/article/details/163926326)
+
++ [低功耗N1也能跑OpenClaw：飞牛NAS接入微信与远程运维完整教程](https://blog.csdn.net/2401_87629362/article/details/163944276)
+
