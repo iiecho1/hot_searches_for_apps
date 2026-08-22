@@ -193,3 +193,13 @@
 
 + [前端转做大模型应用：Demo跑通后第一次上线，我踩的坑比代码多](https://blog.csdn.net/2601_96285276/article/details/163966540)
 
++ [Horse3D 游戏引擎研发笔记（七）：Clydesdale——从流式日志到多输出订阅](https://blog.csdn.net/2503_92624912/article/details/163973512)
+
++ [国产安陆EG4S20 FPGA实现千兆以太网TCP/IP：AD7606C 8通道1 MSPS采集、SDRAM缓存与Python上位机](https://blog.csdn.net/xiaojiaohuazi/article/details/163907477)
+
++ [深入理解 TCP 协议（二）：TCP 可靠传输与高效通信机制详解](https://blog.csdn.net/Felix_kiss_L/article/details/163950356)
+
++ [别再刷微博知乎 B 站热榜了——我把它们“收编“到一个页面，出门在外也能看](https://blog.csdn.net/2401_82648291/article/details/163943609)
+
++ [RNNoise：极小体积的实时降噪 baseline](https://blog.csdn.net/qq_34941290/article/details/163913372)
+
