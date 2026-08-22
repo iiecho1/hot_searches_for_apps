@@ -139,3 +139,7 @@
 
 + [JMeter 分布式压测集群搭建：3 台 Slave 压到 5000 并发实战](https://blog.csdn.net/qq_35366330/article/details/163919655)
 
++ [【Flask SSE 实时大屏】从数据库新增记录到 ECharts 更新的完整演示链路](https://blog.csdn.net/2402_87731470/article/details/163596547)
+
++ [基于Kafka（Kraft）+ELK的日志收集分析平台搭建（上）](https://blog.csdn.net/2603_96721948/article/details/163675645)
+
