@@ -47,3 +47,9 @@
 
 + [codex 订阅额度降幅达 50%！刚刚 tibo 已经回应，是为防止滥用行为](https://www.v2ex.com/t/1236149)
 
++ [迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了](https://www.v2ex.com/t/1236307)
+
++ [网传：程序员失业后，被离婚周期是半年，可信度多少？](https://www.v2ex.com/t/1236332)
+
++ [Tibo 已发 重置卡 注意查收](https://www.v2ex.com/t/1236335)
+

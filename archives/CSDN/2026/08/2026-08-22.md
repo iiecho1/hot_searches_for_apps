@@ -137,3 +137,19 @@
 
 + [深入理解Linux内核--内存架构，页框分配器，性能优化](https://blog.csdn.net/x13262608581/article/details/163938685)
 
++ [【计算机网络 | 数据链路层8：CSMA/CD 与 CSMA/CA：有线以太网和 Wi-Fi 如何避免冲突？】](https://blog.csdn.net/DdigitalNomad/article/details/163924068)
+
++ [【Matlab】多模态情感分析与识别实现](https://blog.csdn.net/unbelievevc/article/details/163966753)
+
++ [Kafka 消息为什么不会丢？ACK、ISR 和副本机制详解](https://blog.csdn.net/2401_86617027/article/details/163895986)
+
++ [生产环境向量搜索的一个设置：vectordb_document 模式如何自动调优 Elasticsearch](https://blog.csdn.net/UbuntuTouch/article/details/163966615)
+
++ [Agent Plan × DeepSeek Harness:AI Native 产品孵化 火山引擎](https://blog.csdn.net/fenger3163/article/details/163954855)
+
++ [【AI接入大模型SDK】云端接入和本地部署模型的区别](https://blog.csdn.net/2401_89899187/article/details/163889492)
+
++ [[人工智能]DeepSeek、Qwen3.8-Max、ERNIE、Doubao、Hunyuan与Kimi：概念、架构、应用和评估](https://blog.csdn.net/TechEdu2026/article/details/163925773)
+
++ [数学建模速成省奖](https://blog.csdn.net/weixin_43448473/article/details/163922410)
+
