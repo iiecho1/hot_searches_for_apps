@@ -165,3 +165,5 @@
 
 + [哥伦比亚强震已致329人遇难](https://news.cctv.com/2026/08/22/ARTISfyihhIsObvHKZRQbeRa260822.shtml)
 
++ [伊朗外交部：美国对伊朗实施新制裁毫无国际法依据](https://news.cctv.com/2026/08/22/ARTIR5NQVhursLARokyMaxUZ260822.shtml)
+

@@ -31,3 +31,13 @@
 
 + [由于爱快拉跨，准备全面更换为 ros，并把家庭网络架构重构一下](https://www.v2ex.com/t/1236141)
 
++ [在这个独属于 ai 的时代，我终究是被裁员了。](https://www.v2ex.com/t/1236240)
+
++ [一条 12.8 万播放的 B 站视频，给我的 App 带来了 18 个下载](https://www.v2ex.com/t/1236135)
+
++ [为什么上班之后就很容易胖？](https://www.v2ex.com/t/1236131)
+
++ [编程效果对比 本地 Qwen3.8-27B vs Deepseek](https://www.v2ex.com/t/1236180)
+
++ [你们公司开始夯实社保了吗？](https://www.v2ex.com/t/1236190)
+
