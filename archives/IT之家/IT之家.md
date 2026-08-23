@@ -25,3 +25,27 @@
 
 + [华为鸿蒙 HarmonyOS 存量设备 API 占比数据更新，7.0.0 Beta2 达 4.65%](https://m.ithome.com/html/992900.htm)
 
++ [华为余承东视频意外泄露神秘新机，网友推测是 Mate XT2 非凡大师新款三折叠手机](https://m.ithome.com/html/993121.htm)
+
++ [消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进](https://m.ithome.com/html/993233.htm)
+
++ [小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员](https://m.ithome.com/html/993181.htm)
+
++ [消息称某厂新机透明版设计回归，预计归属小米 18 系列](https://m.ithome.com/html/993157.htm)
+
++ [消息称华为 Pura X Max 系列横阔折手机销量破 70 万台，标准版与典藏版差距明显缩小](https://m.ithome.com/html/993132.htm)
+
++ [沈腾主演电影《欢迎来龙餐馆》 总票房破 15 亿，进入年度前五](https://m.ithome.com/html/993169.htm)
+
++ [消息称追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁](https://m.ithome.com/html/993238.htm)
+
++ [华为 FreeBuds 7 无线耳机曝光：取消家族式水滴造型设计，支持星闪连接](https://m.ithome.com/html/993154.htm)
+
++ [小米新款超旗舰充电宝曝光：97.36Wh、多口输出 250W MAX，自带伸缩线](https://m.ithome.com/html/993239.htm)
+
++ [福耀集团官网出现太阳能天窗：每平米可输出 150W 电量，为车载电器供电](https://m.ithome.com/html/993159.htm)
+
++ [华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能](https://m.ithome.com/html/993180.htm)
+
++ [鸿蒙智行智界 RX 轿跑 SUV 各版本配置出炉，预售价 29.98 万元起](https://m.ithome.com/html/993142.htm)
+
