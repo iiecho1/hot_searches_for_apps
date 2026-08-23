@@ -197,3 +197,5 @@
 
 + [克什米尔发生4.2级地震 震源深度10千米](https://news.cctv.com/2026/08/23/ARTImb7O6SKgVA1E9rAZq8ux260823.shtml)
 
++ [日本北海道附近海域发生6.0级地震 震源深度40公里](https://news.cctv.com/2026/08/23/ARTIBb3Ddf3rj2GTv7pt2OnY260823.shtml)
+

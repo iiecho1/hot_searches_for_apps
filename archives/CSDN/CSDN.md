@@ -221,3 +221,13 @@
 
 + [File2File：基于 webrpc 的免费 P2P 传文件 / 个人网盘 / 远程桌面](https://blog.csdn.net/qq974816077/article/details/163999300)
 
++ [我把 800 行报错日志压成一张排障卡：用蓝耘元生代做 FastAPI 日志根因分析](https://blog.csdn.net/weixin_42878111/article/details/164000462)
+
++ [AI 智能体究竟是如何运转的？从 ReAct 思考循环、MCP 协议到多 Agent 协同全链路拆解](https://blog.csdn.net/qq_46987323/article/details/163980197)
+
++ [HarmonyOS 应用接续功能适配详解](https://blog.csdn.net/QWERWTWE/article/details/163997798)
+
++ [手机远程控制电脑软件推荐：2026年7款App移动端实测横评](https://blog.csdn.net/2401_87629362/article/details/163942374)
+
++ [爬虫转大模型，真正拉开差距的不在模型，在数据采集](https://blog.csdn.net/LLM_9528/article/details/163982184)
+
