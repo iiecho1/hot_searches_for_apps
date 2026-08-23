@@ -39,3 +39,5 @@
 
 + [Bun 1.4 发布了，有人关心吗？](https://www.v2ex.com/t/1236482)
 
++ [现在如何可靠入金 Binance / 购买 USDT](https://www.v2ex.com/t/1236445)
+

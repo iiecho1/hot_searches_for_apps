@@ -155,3 +155,9 @@
 
 + [Linux PAM Tutorial: Comprehensive Guide to Configuring Pluggable Authentication Modules](https://blog.csdn.net/allway2/article/details/163977346)
 
++ [【水声通信】基于多普勒水声通信技术研究Matlab实现](https://blog.csdn.net/matlab_dingdang/article/details/163982445)
+
++ [爬虫转大模型到底解决了什么问题？](https://blog.csdn.net/LLM_9528/article/details/163926070)
+
++ [【从0开始学习计算机网络】| TCP与UDP详解](https://blog.csdn.net/2503_94545876/article/details/163955024)
+
