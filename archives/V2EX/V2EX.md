@@ -29,3 +29,13 @@
 
 + [哪个牌子的苹果充电线好用，不想买原装的了](https://www.v2ex.com/t/1236361)
 
++ [BAT，这个 B，记得当初还是百度，现在应该是字节了吧？这种转变是什么时候开始的呢？如何而发生的呢？又何以至此呢？](https://www.v2ex.com/t/1236403)
+
++ [giffgiff 求饶了.解封并送了十镑](https://www.v2ex.com/t/1236369)
+
++ [关于一个老哥帖子里认为的程序员指挥 ai 是弯路的话题下我的看法](https://www.v2ex.com/t/1236380)
+
++ [claude 用 google pay 订阅 pro，招行 visa 全币种、葵花 master、工商 master，全部拒付](https://www.v2ex.com/t/1236430)
+
++ [Bun 1.4 发布了，有人关心吗？](https://www.v2ex.com/t/1236482)
+

@@ -177,3 +177,5 @@
 
 + [伊朗称参与美对伊“经济战”的周边国家将被视为敌人](https://news.cctv.com/2026/08/23/ARTIJI5uIs15dWzEmVlUNYEX260823.shtml)
 
++ [火灾后的枫丹白露森林](https://photo.cctv.com/2026/08/23/PHOA65bl5R4PdZ33G9YldcOw260823.shtml)
+
