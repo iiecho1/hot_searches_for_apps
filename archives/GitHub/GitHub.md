@@ -35,3 +35,29 @@
 
 + [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
 
++ [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
++ [basecamp/omarchy](https://github.com/basecamp/omarchy)
+
++ [block/buzz](https://github.com/block/buzz)
+
++ [apache/maka](https://github.com/apache/maka)
+
++ [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
++ [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+
++ [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+
++ [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+
++ [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+
++ [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
++ [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
+
++ [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+
++ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+

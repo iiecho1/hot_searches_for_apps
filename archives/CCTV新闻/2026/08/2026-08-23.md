@@ -195,3 +195,5 @@
 
 + [泰南三府连续发生治安事件 中国驻宋卡总领馆发布提醒](https://news.cctv.com/2026/08/23/ARTIvRJSeydPnv9XveDZ8r9K260823.shtml)
 
++ [克什米尔发生4.2级地震 震源深度10千米](https://news.cctv.com/2026/08/23/ARTImb7O6SKgVA1E9rAZq8ux260823.shtml)
+
