@@ -49,3 +49,17 @@
 
 + [华为鸿蒙 HarmonyOS 存量设备 API 占比数据更新，7.0.0 Beta2 达 4.65%](https://m.ithome.com/html/992900.htm)
 
++ [微信灰度测试“按住转文字”新功能引热议：苹果 iOS 及安卓用户率先体验，鸿蒙用户仍需等待](https://m.ithome.com/html/992874.htm)
+
++ [金标联盟要求开发者适配 Android 导航条，10 月末前未完成将被小米、荣耀、OPPO、vivo 应用市场打标](https://m.ithome.com/html/992876.htm)
+
++ [OpenAI 全面开源 Codex Harness](https://m.ithome.com/html/992656.htm)
+
++ [吉利召回部分银河 M9、领克 900、领克 10EM-P、领克 07、领克 08 汽车，将为所有车主免费更换激光雷达](https://m.ithome.com/html/992797.htm)
+
++ [利用电商“仅退款”漏洞倒卖商品：收货地址直接填写二手买家地址，女子非法获利近 13 万元被刑拘](https://m.ithome.com/html/992877.htm)
+
++ [消息称《GTA 6》泄露源头为 R 星印度办公室，黑客组织 Cyberleek 已获得游戏 Xbox 开发副本](https://m.ithome.com/html/992718.htm)
+
++ [国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元](https://m.ithome.com/html/992843.htm)
+
