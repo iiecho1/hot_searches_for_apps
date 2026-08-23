@@ -189,3 +189,17 @@
 
 + [网络安全实战：Active Directory 攻防（三）—— NTLM 中继与 PetitPotam](https://blog.csdn.net/cui_yonghua/article/details/163951733)
 
++ [【AI智能体】Codex 制作AI视频实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/163803397)
+
++ [海光K100_AI单卡ComfyUI+MiniMax-H3环境调优实战：视频生成速度大幅提升](https://blog.csdn.net/pla88888888/article/details/163998150)
+
++ [Agentic AI到底能不能干活？别只看 Demo 和跑分](https://blog.csdn.net/2601_96120158/article/details/163982537)
+
++ [AI助力运维——AIGC运维应用实践—玩转龙虾(OpenClaw)之OpenClaw的飞书接入与skills技能的使用和解析](https://blog.csdn.net/xiaochenXIHUA/article/details/163997941)
+
++ [数据库迁移工具实战——把迁移任务变成可追踪流水线](https://blog.csdn.net/COLLINSXU/article/details/163995959)
+
++ [【码动四季】AtomCode × Spring Cloud 2024：微服务全链路治理实战](https://blog.csdn.net/qq_35366330/article/details/163980699)
+
++ [商业调研提示词库参考](https://blog.csdn.net/m0_73879806/article/details/144572676)
+
