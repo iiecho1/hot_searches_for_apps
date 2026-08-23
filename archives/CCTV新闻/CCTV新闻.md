@@ -167,3 +167,9 @@
 
 + [深观察 | 五角大楼为何接连陷入人事风波？](https://news.cctv.com/2026/08/24/ARTIEib0nOExOy7TMNcOx7kj260824.shtml)
 
++ [几内亚首都一垃圾填埋场垮塌造成至少30人死亡](https://news.cctv.com/2026/08/24/ARTImBoM6MTc1PrAibfhtn1c260824.shtml)
+
++ [加拿大驻美大使：加美贸易谈判破裂原因涉及多项议题](https://news.cctv.com/2026/08/24/ARTISQL9ZnZRSsmXPpBBk9gg260824.shtml)
+
++ [以总理警告哈马斯停止从加沙向以色列“放风筝”](https://news.cctv.com/2026/08/24/ARTIsWOovU2UvmxcrfxmQYxR260824.shtml)
+

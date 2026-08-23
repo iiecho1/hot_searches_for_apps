@@ -159,3 +159,5 @@
 
 + [测试转大模型：Demo跑通就能投简历？企业真正看的是这三样](https://blog.csdn.net/m0_62051288/article/details/163996308)
 
++ [DolphinDB 2.x 集群监控运维平台实战：从指标采集到告警自愈](https://blog.csdn.net/sinat_41617212/article/details/164004488)
+
