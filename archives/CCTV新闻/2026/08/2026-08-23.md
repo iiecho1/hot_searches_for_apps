@@ -179,3 +179,7 @@
 
 + [火灾后的枫丹白露森林](https://photo.cctv.com/2026/08/23/PHOA65bl5R4PdZ33G9YldcOw260823.shtml)
 
++ [哥伦比亚民众感谢中方援助 中国大使回应来了](https://news.cctv.com/2026/08/23/ARTIQ4bu2d5nwBBL00KPba0E260823.shtml)
+
++ [美特使称以“诱土开战” 以外长否认](https://news.cctv.com/2026/08/23/ARTIm7rimVm0Nnf3aGpeo6mq260823.shtml)
+

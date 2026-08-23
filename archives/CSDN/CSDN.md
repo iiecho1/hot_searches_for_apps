@@ -161,3 +161,11 @@
 
 + [【从0开始学习计算机网络】| TCP与UDP详解](https://blog.csdn.net/2503_94545876/article/details/163955024)
 
++ [Java转大模型：Demo能跑但上线翻车，权限日志才是那道门槛](https://blog.csdn.net/2601_96189255/article/details/163973360)
+
++ [低功耗N1也能跑OpenClaw：飞牛NAS接入微信与远程运维完整教程](https://blog.csdn.net/2401_87629362/article/details/163944276)
+
++ [​.NET 报表工具汇总（2026，.NET Framework /.NET6-8 Core / ASP.NET Core）​](https://blog.csdn.net/shangxinyu123/article/details/163976691)
+
++ [基于Kafka（Kraft）+ELK的日志收集与分析平台的搭建（下）](https://blog.csdn.net/2603_96721948/article/details/163832448)
+
