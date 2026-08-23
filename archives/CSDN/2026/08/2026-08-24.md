@@ -157,3 +157,5 @@
 
 + [元动力学体系下高阶智能的时空语义传播机制：从重构过去、坍缩当下到投射未来的单-多-集体层级动力学研究](https://blog.csdn.net/zxb_1222/article/details/164001022)
 
++ [测试转大模型：Demo跑通就能投简历？企业真正看的是这三样](https://blog.csdn.net/m0_62051288/article/details/163996308)
+

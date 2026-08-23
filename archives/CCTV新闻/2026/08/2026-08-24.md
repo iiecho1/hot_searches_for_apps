@@ -165,3 +165,5 @@
 
 + [闪评 | 美将公布对伊朗经济制裁措施 美伊“经济战”伤了谁？](https://news.cctv.com/2026/08/24/ARTIZPbHnqEXwzDNquW24TW9260824.shtml)
 
++ [深观察 | 五角大楼为何接连陷入人事风波？](https://news.cctv.com/2026/08/24/ARTIEib0nOExOy7TMNcOx7kj260824.shtml)
+
