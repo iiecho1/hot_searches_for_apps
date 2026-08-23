@@ -189,3 +189,9 @@
 
 + [乌克兰利沃夫市一药店发生爆炸 2人死亡](https://news.cctv.com/2026/08/23/ARTIROMGke3oLapWXXZp3vwE260823.shtml)
 
++ [印度古吉拉特邦假酒事件死亡人数升至13人](https://news.cctv.com/2026/08/23/ARTIHLxpRwAwHcidIYvFyZRS260823.shtml)
+
++ [经济设施接连遭袭 普京称乌克兰打开“潘多拉魔盒”](https://news.cctv.com/2026/08/23/ARTItZheOXkf8AlwZzyX99N6260823.shtml)
+
++ [泰南三府连续发生治安事件 中国驻宋卡总领馆发布提醒](https://news.cctv.com/2026/08/23/ARTIvRJSeydPnv9XveDZ8r9K260823.shtml)
+
