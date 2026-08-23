@@ -143,3 +143,13 @@
 
 + [Linux 服务笔记：打通网络七层，手撸 DNS 服务](https://blog.csdn.net/weixin_59399038/article/details/164003802)
 
++ [数据分析转大模型：从真实需求重新拆一遍](https://blog.csdn.net/2601_96285276/article/details/163982753)
+
++ [Agentic AI进团队后，为什么我的代码比模型调参还难维护](https://blog.csdn.net/2601_96189167/article/details/163998450)
+
++ [HarmonyOS 应用 · 校园宿舍拼单我的页深度解析：渐变用户卡与成就徽章的 ArkUI 实战](https://blog.csdn.net/weixin_52908342/article/details/163999060)
+
++ [为LabVIEW构建的可执行文件定制自定义图标](https://blog.csdn.net/bjcyck/article/details/163958417)
+
++ [电机预测性维护：电流特征分析（MCSA）实战，从一台烧掉的75kW电机说起](https://blog.csdn.net/zxsz_com_cn/article/details/163982453)
+
