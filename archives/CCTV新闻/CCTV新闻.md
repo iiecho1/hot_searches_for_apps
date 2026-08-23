@@ -173,3 +173,7 @@
 
 + [加拿大宣布9月8日起对美国商品征收报复性关税](https://news.cctv.com/2026/08/23/ARTIHqdx1ra9toZZWVqpb8aV260823.shtml)
 
++ [日本民间团体举行集会 抗议日本政府危险行径](https://news.cctv.com/2026/08/23/ARTIVHT4i9XuzgzdfBElI5Ah260823.shtml)
+
++ [伊朗称参与美对伊“经济战”的周边国家将被视为敌人](https://news.cctv.com/2026/08/23/ARTIJI5uIs15dWzEmVlUNYEX260823.shtml)
+

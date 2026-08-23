@@ -65,3 +65,7 @@
 
 + [BEG Abracadabra](https://m.acfun.cn/v/?ac=48796145)
 
++ [AOA BingBing](https://m.acfun.cn/v/?ac=48796140)
+
++ [穿越异世界的我成为了勇者并开起了店铺结果被派去讨伐魔王](https://m.acfun.cn/v/?ac=48795207)
+
