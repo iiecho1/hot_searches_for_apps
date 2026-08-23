@@ -153,3 +153,7 @@
 
 + [电机预测性维护：电流特征分析（MCSA）实战，从一台烧掉的75kW电机说起](https://blog.csdn.net/zxsz_com_cn/article/details/163982453)
 
++ [运维转大模型：把边界和取舍讲清楚](https://blog.csdn.net/2601_96285279/article/details/163982817)
+
++ [元动力学体系下高阶智能的时空语义传播机制：从重构过去、坍缩当下到投射未来的单-多-集体层级动力学研究](https://blog.csdn.net/zxb_1222/article/details/164001022)
+
