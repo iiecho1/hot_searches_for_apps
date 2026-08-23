@@ -57,3 +57,7 @@
 
 + [Codex 又要重置了](https://www.v2ex.com/t/1236559)
 
++ [你们都是怎么给 chatgpt plus 充值的？](https://www.v2ex.com/t/1236551)
+
++ [很多过去认为在 apple 上不可能的实现的事现在都实现了](https://www.v2ex.com/t/1236556)
+
