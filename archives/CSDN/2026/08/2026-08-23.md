@@ -203,3 +203,21 @@
 
 + [商业调研提示词库参考](https://blog.csdn.net/m0_73879806/article/details/144572676)
 
++ [DM回滚事务：深入理解数据库事务撤销机制](https://blog.csdn.net/qq_41840843/article/details/163994700)
+
++ [红外无人机目标检测数据集：4,500+张图像 | 目标检测](https://blog.csdn.net/dgw25sf/article/details/163980775)
+
++ [用 Python + wxPython 造一个照片工具箱：PDF / 加密ZIP / MP4 / 归档，以及我在这过程中踩到的 4 个坑](https://blog.csdn.net/winniezhang/article/details/163982163)
+
++ [Java 转大模型开发到底解决了什么问题？](https://blog.csdn.net/m0_70952941/article/details/163926618)
+
++ [基于 DolphinDB 2.x 的系统性能调优实战：从监控、分析到优化验证的全链路指南](https://blog.csdn.net/sinat_41617212/article/details/163977375)
+
++ [LiteLLM 如何使用 Redis：从部署位置到精确响应缓存](https://blog.csdn.net/nvd11/article/details/163981827)
+
++ [【DOCKER容器实战】-4 Redis](https://blog.csdn.net/qq_69831828/article/details/163978944)
+
++ [工业 IoT 批量分析提速实战：DolphinDB 分区并行与分布式聚合](https://blog.csdn.net/Rqaqedamancy/article/details/163999430)
+
++ [File2File：基于 webrpc 的免费 P2P 传文件 / 个人网盘 / 远程桌面](https://blog.csdn.net/qq974816077/article/details/163999300)
+
