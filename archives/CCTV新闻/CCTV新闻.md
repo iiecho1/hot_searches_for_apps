@@ -159,3 +159,5 @@
 
 + [以防长称埃尔多安正将土耳其“拖入叙利亚的危险冒险中”](https://news.cctv.com/2026/08/20/ARTIvfMBQowz3fdWY2G6OtL5260820.shtml)
 
++ [伊朗称针对美国各种敌对行动均已制定应对方案](https://news.cctv.com/2026/08/24/ARTIdU6rwTaRfQxYuGrJFfoe260823.shtml)
+

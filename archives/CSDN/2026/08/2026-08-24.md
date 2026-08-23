@@ -113,3 +113,33 @@
 
 + [虚拟机、Docker、Overlay 网络模式](https://blog.csdn.net/2401_83961180/article/details/163890705)
 
++ [【操作系统 | 进程调度：CPU 到底该交给谁？】](https://blog.csdn.net/DdigitalNomad/article/details/164004104)
+
++ [Jetson Orin Nano 视觉流水线学习记录：从 OpenCV、YOLO 到 RTSP 多流视觉流水线](https://blog.csdn.net/weixin_57179621/article/details/164002411)
+
++ [启动优化工具——工欲善其事，必先利其器的HarmonyOS性能诊断指南](https://blog.csdn.net/u014727709/article/details/163980816)
+
++ [【MLLM Agent】多模态理解Agent研究进展](https://blog.csdn.net/qq_35812205/article/details/164002648)
+
++ [【精读《Effective C++》】让自己习惯 C++（条款 1-4）](https://blog.csdn.net/2603_96808033/article/details/164004120)
+
++ [Claude Desktop 桌面端全流程指南（含国内直连配置）](https://blog.csdn.net/xianyu120/article/details/163995789)
+
++ [从 Jekyll 迁移到 VitePress：本博客的渐进式演进](https://blog.csdn.net/iiicai/article/details/164000122)
+
++ [显存究竟去哪了？从显存墙、分布式并行到 vLLM PagedAttention 核心机理深度拆解](https://blog.csdn.net/qq_46987323/article/details/164002689)
+
++ [接口数据传输优化实战：JSON Gzip 与 Protobuf 的深度对比](https://blog.csdn.net/weixin_44976692/article/details/163952342)
+
++ [【花雕学编程】Arduino BLDC 之机器人迷宫求解有限状态机（FSM）实现左手法则](https://blog.csdn.net/weixin_41659040/article/details/163979122)
+
++ [告别手工分表：金仓时序数据库超表架构落地的一次实战复盘](https://blog.csdn.net/qq_57761637/article/details/164000650)
+
++ [Linux进程(二)之进程概念](https://blog.csdn.net/2401_87941709/article/details/163967858)
+
++ [深入浅出 Spring AOP：从切点表达式到动态代理原理](https://blog.csdn.net/suger__salt/article/details/163980569)
+
++ [BFF（Backend For Frontend）：面向前端场景的数据适配层](https://blog.csdn.net/2301_80956187/article/details/163981618)
+
++ [Linux 服务笔记：打通网络七层，手撸 DNS 服务](https://blog.csdn.net/weixin_59399038/article/details/164003802)
+
