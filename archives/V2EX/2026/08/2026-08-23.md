@@ -53,3 +53,5 @@
 
 + [2026 年键盘求推荐](https://www.v2ex.com/t/1236534)
 
++ [Antigravity 支持远程控制了](https://www.v2ex.com/t/1236519)
+

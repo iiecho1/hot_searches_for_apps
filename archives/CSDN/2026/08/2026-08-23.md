@@ -175,3 +175,9 @@
 
 + [send.wang (私传网) 深度评测：基于 WebRTC 的直连文件传输](https://blog.csdn.net/xmflw/article/details/163990266)
 
++ [【AI大模型接入SDK】项目的数据结构设计](https://blog.csdn.net/2401_89899187/article/details/163996021)
+
++ [【花雕学编程】Arduino BLDC 之情感导览机器人：语音-环境感知与个性化陪伴](https://blog.csdn.net/weixin_41659040/article/details/163904215)
+
++ [从Conda到UV：Python项目依赖管理的现代演进](https://blog.csdn.net/2301_79518550/article/details/163976965)
+
