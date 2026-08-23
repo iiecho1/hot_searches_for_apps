@@ -169,3 +169,9 @@
 
 + [基于Kafka（Kraft）+ELK的日志收集与分析平台的搭建（下）](https://blog.csdn.net/2603_96721948/article/details/163832448)
 
++ [AI Agent 最大的安全风险：拿着权限做错事](https://blog.csdn.net/weixin_74809706/article/details/163614095)
+
++ [商汤开源SenseNova U1.5 Lite拆解：8B装下原生统一多模态，NEO-Unify架构与4K图像生成的三笔工程账](https://blog.csdn.net/deepseek23/article/details/163982330)
+
++ [send.wang (私传网) 深度评测：基于 WebRTC 的直连文件传输](https://blog.csdn.net/xmflw/article/details/163990266)
+

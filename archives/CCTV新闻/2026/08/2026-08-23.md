@@ -183,3 +183,9 @@
 
 + [美特使称以“诱土开战” 以外长否认](https://news.cctv.com/2026/08/23/ARTIm7rimVm0Nnf3aGpeo6mq260823.shtml)
 
++ [韩媒：青瓦台被游客破坏 李在明入住日期仍未定](https://news.cctv.com/2026/08/23/ARTIRw2m7RqFPgpSfQMDA834260823.shtml)
+
++ [俄罗斯奥伦堡市遭无人机袭击 电商平台仓库起火](https://news.cctv.com/2026/08/23/ARTIb9MlrlTPlgtbu2NUHZkj260823.shtml)
+
++ [乌克兰利沃夫市一药店发生爆炸 2人死亡](https://news.cctv.com/2026/08/23/ARTIROMGke3oLapWXXZp3vwE260823.shtml)
+
