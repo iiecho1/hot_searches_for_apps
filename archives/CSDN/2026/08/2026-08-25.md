@@ -101,3 +101,23 @@
 
 + [计算机三级：路由器选型](https://blog.csdn.net/2506_94220139/article/details/164000783)
 
++ [嵌入式Linux下基于FFmpeg实现MP4解码为JPG图片（SSD202D交叉编译实战）](https://blog.csdn.net/weixin_38807927/article/details/163966452)
+
++ [React项目如何将多个组件嵌入到一个组件中?：深入解析组件组合模式](https://blog.csdn.net/qq_41840843/article/details/164004634)
+
++ [Ruoyi-Plus 基于Mybatis Plus实现多租户数据隔离](https://blog.csdn.net/u012587407/article/details/163972000)
+
++ [Codex Harness 架构深度解析：从 App Server 到 Agent Loop，一次读懂 OpenAI 的 Agent 运行时](https://blog.csdn.net/zzzzz77777aaaaaa/article/details/164023124)
+
++ [FreeToken:在游戏 PC 上跑 290B+ 前沿 MoE——带宽自适应执行的本地推理新范式](https://blog.csdn.net/Kartist139/article/details/163980001)
+
++ [打通构建、测试与调试：C++ VSCode + CMake + GDB + TestMate 深度实践](https://blog.csdn.net/philosophyatmath/article/details/164002736)
+
++ [企业微信消息群发别再人工手动执行了：第三方API+Spring Boot + Vue 打造带 SOP 的群发控制台（附架构与源码）](https://blog.csdn.net/WXID_Mrzhu0107/article/details/164025314)
+
++ [GitHub Actions 实现 CI/CD](https://blog.csdn.net/delepaste/article/details/164002596)
+
++ [OpenAI 预览 Private Safety Processing 后：别把 ZDR 误当成 Agent 工作流的隐私闭环](https://blog.csdn.net/THE_BULE_BOTTOW/article/details/164023279)
+
++ [用 Python + wxPython 造一个照片工具箱：PDF / 加密ZIP / MP4 / 归档，以及我在这过程中踩到的 4 个坑](https://blog.csdn.net/winniezhang/article/details/163982163)
+
