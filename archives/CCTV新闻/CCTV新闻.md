@@ -209,3 +209,9 @@
 
 + [荷兰发生严重交通事故 至少8人受伤](https://news.cctv.com/2026/08/24/ARTIKdkF6na6nVnHE5OsXjrz260824.shtml)
 
++ [中使馆提醒中国公民切勿前往南基伍省等刚果（金）东部地区](https://news.cctv.com/2026/08/24/ARTIJuadVK0JFaxmEjkwpvGO260824.shtml)
+
++ [伊朗外交部：伊朗将打击任何侵略行为的源头](https://news.cctv.com/2026/08/24/ARTIYrzrvjOKlGpeyBdfNndW260824.shtml)
+
++ [哈萨克斯坦公布首届一院制议会选举初步结果](https://news.cctv.com/2026/08/24/ARTIfjzrDeP3DxturfpGX1D5260824.shtml)
+

@@ -203,3 +203,21 @@
 
 + [WebGL 与视频背景——首屏视觉层的性能博弈](https://blog.csdn.net/sghtgjfhv/article/details/163981791)
 
++ [【花雕动手做】乐鑫 ESP‑Mosaico 深度解析：当 AI Coding Agent 突破硬件的物理边界](https://blog.csdn.net/weixin_41659040/article/details/164011956)
+
++ [Docker - Dockerfile核心指令详解，FROM到CMD全掌握](https://blog.csdn.net/qq_41187124/article/details/157611500)
+
++ [Oracle 块清除（Block Cleanout）：commit 之后，数据块里的“战场“谁来打扫？](https://blog.csdn.net/weixin_63349582/article/details/164017926)
+
++ [我想用OSINT＋Agent＋卡片笔记法蒸馏掉医学研究生的文献脏活](https://blog.csdn.net/weixin_54183395/article/details/164022298)
+
++ [GraphRAG 能跑通，为什么团队用起来反而更慢了？](https://blog.csdn.net/LLM_9528/article/details/164019890)
+
++ [k8s高级_代理器Service](https://blog.csdn.net/panzhengxiang/article/details/164003800)
+
++ [Postman断言、数据驱动+Jenkins集成](https://blog.csdn.net/jianglin_78/article/details/164002791)
+
++ [vue 甘特图 vxe-gantt 紧前紧后依赖关系连接线配置详解](https://blog.csdn.net/daols88/article/details/164021676)
+
++ [不做完整 ECS，只优化数据布局：Unity EasyECS 到底是什么](https://blog.csdn.net/zr7851310190/article/details/163997233)
+
