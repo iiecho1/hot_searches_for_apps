@@ -173,3 +173,5 @@
 
 + [以总理警告哈马斯停止从加沙向以色列“放风筝”](https://news.cctv.com/2026/08/24/ARTIsWOovU2UvmxcrfxmQYxR260824.shtml)
 
++ [美军称在中东地区海域开展舰艇补给作业](https://news.cctv.com/2026/08/24/ARTIY22LQRg96C6WpBXa79ga260824.shtml)
+
