@@ -37,3 +37,21 @@
 
 + [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
++ [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+
++ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+
++ [makeplane/plane](https://github.com/makeplane/plane)
+
++ [PostHog/posthog](https://github.com/PostHog/posthog)
+
++ [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
++ [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+
++ [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
++ [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
++ [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+
