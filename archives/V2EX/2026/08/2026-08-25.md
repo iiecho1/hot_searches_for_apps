@@ -21,3 +21,5 @@
 
 + [mysql 26.7.0 发布了](https://www.v2ex.com/t/1236670)
 
++ [娃生了，感叹这个成本真的很低。](https://www.v2ex.com/t/1236793)
+
