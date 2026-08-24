@@ -49,3 +49,9 @@
 
 + [鸿蒙智行智界 RX 轿跑 SUV 各版本配置出炉，预售价 29.98 万元起](https://m.ithome.com/html/993142.htm)
 
++ [古尔曼：iPhone 18 系列计划涨价，苹果将自行消化一部分成本](https://m.ithome.com/html/993312.htm)
+
++ [国补后立减 5000 元：华为 Mate X6 折叠屏手机京东 8999 元再降价](https://m.ithome.com/html/993308.htm)
+
++ [消息称苹果外部已有人体验过折叠屏 iPhone：屏幕铰链评价积极，但缺少长焦镜头](https://m.ithome.com/html/993311.htm)
+
