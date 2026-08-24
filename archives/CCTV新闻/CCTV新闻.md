@@ -185,3 +185,23 @@
 
 + [韩国“第二综合特别检察组”结束调查 尹锡悦夫妇等58人被起诉](https://news.cctv.com/2026/08/24/ARTIMEqqazsgPixHnbjUgYqq260824.shtml)
 
++ [欧盟敦促以色列停建“E1区”定居点](https://news.cctv.com/2026/08/24/ARTI4nebLsGy5UnxpU1gwRBO260824.shtml)
+
++ [欧盟批准61亿欧元对乌军援](https://news.cctv.com/2026/08/24/ARTIqjuJIT99TiAcXWeJZPCv260824.shtml)
+
++ [朝中社：日本军国主义野心严重挑战世界和平与安全](https://news.cctv.com/2026/08/24/ARTIkrGu9B9uk7prrri8fdRO260824.shtml)
+
++ [俄罗斯发射“联盟-2.1b”运载火箭](https://news.cctv.com/2026/08/24/ARTIXrirrmP8IFmfkPu6EhwV260824.shtml)
+
++ [希腊克里特岛海域逾160名移民被拦截](https://news.cctv.com/2026/08/24/ARTIz76BA6UBHkDrxKeDMo6a260824.shtml)
+
++ [民调显示超七成加拿大民众支持退出加美贸易谈判](https://news.cctv.com/2026/08/24/ARTI7PvQN4hEO7M7Vc19UCXa260824.shtml)
+
++ [菲律宾一艘拖船在吕宋岛附近沉没](https://news.cctv.com/2026/08/24/ARTIURkKTTD8uf53RLJ4yCxV260824.shtml)
+
++ [美财长称美伊战事进入“终局”](https://news.cctv.com/2026/08/24/ARTIy5DR6elf8JCBoWjret9c260824.shtml)
+
++ [马来西亚烟霾持续肆虐 沙捞越州逾19万学生停课](https://news.cctv.com/2026/08/24/ARTIWCL3soLSjB6AZeDCtZAW260824.shtml)
+
++ [印度中部一水处理厂氯气泄漏 40余人入院治疗](https://news.cctv.com/2026/08/24/ARTI6pAexYDz5sdNsx2cuZSO260824.shtml)
+

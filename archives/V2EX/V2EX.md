@@ -37,3 +37,5 @@
 
 + [[HappyCode] 企业级稳定精品 API 中转站｜新用户免费领取 100 刀 GPT、Claude 体验额度](https://www.v2ex.com/t/1236669)
 
++ [我今年 45，我以为我已经见过了世界，直到今天我用了一次汇丰的网银](https://www.v2ex.com/t/1236750)
+
