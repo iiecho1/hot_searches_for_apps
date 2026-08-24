@@ -177,3 +177,11 @@
 
 + [六、React事件](https://blog.csdn.net/nsdhakshda/article/details/163927624)
 
++ [基于霜冰优化算法(RIME)优化CNN-BiGUR-Attention风电功率预测研究（Matlab代码实现）](https://blog.csdn.net/weixin_61181717/article/details/164005107)
+
++ [大模型工程化实战（四）：Prompt 版本管理——把提示词做成可 diff、可评审、可回滚的代码资产](https://blog.csdn.net/xiaobing259/article/details/164002627)
+
++ [鸿蒙手机远控电脑横评：ToDesk/向日葵/华为远程PC实测，连接、流畅度、键鼠和安全一次看清](https://blog.csdn.net/qq_33681891/article/details/163974592)
+
++ [2026 Codex与DeepSeek开源Harness对比评测：企业怎么选](https://blog.csdn.net/2401_85300269/article/details/163970776)
+
