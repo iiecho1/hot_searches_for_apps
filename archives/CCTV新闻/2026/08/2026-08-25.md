@@ -165,3 +165,13 @@
 
 + [英国将向乌克兰提供“风暴之影”导弹生产技术](https://news.cctv.com/2026/08/25/ARTIbAkXxbUcVxk7qu9MG7EF260824.shtml)
 
++ [加拿大强硬回应美国关税升级威胁 政界人士密集表态](https://news.cctv.com/2026/08/25/ARTIhLdhkmiyHdJj0z3cHayN260825.shtml)
+
++ [内塔尼亚胡声称伊朗曾企图暗杀其子](https://news.cctv.com/2026/08/25/ARTIhrqyNZi7MGPeXNVvokz3260825.shtml)
+
++ [加拿大总理：若美国拿出“正确态度” 将重返贸易谈判](https://news.cctv.com/2026/08/25/ARTIAsG9TSNENiLMm7TQd5a0260825.shtml)
+
++ [伊朗经济和财政部长: 已做好应对美制裁的充分准备](https://news.cctv.com/2026/08/25/ARTI3HI5238dx1ppDXRN4bQ9260825.shtml)
+
++ [美政府宣布对伊朗经济制裁措施 加大施压](https://news.cctv.com/2026/08/25/ARTIrlLZlvh7aQC3CeEqeHaX260825.shtml)
+
