@@ -215,3 +215,9 @@
 
 + [哈萨克斯坦公布首届一院制议会选举初步结果](https://news.cctv.com/2026/08/24/ARTIfjzrDeP3DxturfpGX1D5260824.shtml)
 
++ [“西藏走出了一条符合当地实际的高质量发展之路”](https://news.cctv.com/2026/08/24/ARTIBeuzJttX9bQJj5OYP7mY260824.shtml)
+
++ [民族团结进步促进法施行以来，引发海外侨胞持续关注—— 向世界讲好中国的“石榴籽”故事](https://news.cctv.com/2026/08/24/ARTIzDevjMUifG4FSBKQIfRr260824.shtml)
+
++ [“在我心里，中国是第二故乡”——一名秘鲁罕见病患者的重生之旅](https://news.cctv.com/2026/08/24/ARTIjuEDVDFGTqbDCp7VSuUw260824.shtml)
+
