@@ -205,3 +205,7 @@
 
 + [印度中部一水处理厂氯气泄漏 40余人入院治疗](https://news.cctv.com/2026/08/24/ARTI6pAexYDz5sdNsx2cuZSO260824.shtml)
 
++ [野火与干旱致欧洲一战二战未爆弹药频现](https://news.cctv.com/2026/08/24/ARTItgkJ1EZz2sES27ZL87sL260824.shtml)
+
++ [荷兰发生严重交通事故 至少8人受伤](https://news.cctv.com/2026/08/24/ARTIKdkF6na6nVnHE5OsXjrz260824.shtml)
+
