@@ -33,3 +33,7 @@
 
 + [很久没有碰浏览器了，我决定从头开始写一个浏览器硬刚 Google Chrome](https://www.v2ex.com/t/1236674)
 
++ [娃生了，感叹这个成本确实高。](https://www.v2ex.com/t/1236744)
+
++ [[HappyCode] 企业级稳定精品 API 中转站｜新用户免费领取 100 刀 GPT、Claude 体验额度](https://www.v2ex.com/t/1236669)
+
