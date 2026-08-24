@@ -227,3 +227,19 @@
 
 + [【Linux网络】HTTPS如何保证数据安全？从对称加密、非对称加密到 CA 证书认证](https://blog.csdn.net/Miun123/article/details/163957891)
 
++ [【AI智能体】Codex 插件从使用到项目开发实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/163613455)
+
++ [ChatGPT 的回答也能被结构化抓取？AI Bot Scraper 对比测评](https://blog.csdn.net/m0_64336780/article/details/164018908)
+
++ [用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析](https://blog.csdn.net/Mrxiao_bo/article/details/164029855)
+
++ [600元苹果装好以后还能怎么玩？部署 Hermes Agent + Studio 搭一台 AI 小主机(1)](https://blog.csdn.net/weixin_62765017/article/details/164023584)
+
++ [从 0 到 1 理解 DeepSeek Harness：Agent 为什么不只是一个大模型](https://blog.csdn.net/2301_80956187/article/details/163999870)
+
++ [CentOS 7 部署 Elasticsearch 7.17：从启动排错到索引查询完整实战](https://blog.csdn.net/LT15171009269/article/details/164031844)
+
++ [实测蓝耘元生代:从三模型对比到会自动降级的LLM智能路由平台](https://blog.csdn.net/2401_87629362/article/details/164015547)
+
++ [多人远控电脑解决方案之ToDesk团队版用了一个月：花的钱更少，远程能力反而更强了](https://blog.csdn.net/2301_80350265/article/details/164032312)
+

@@ -223,3 +223,5 @@
 
 + [英国首相访问基辅 将宣布向乌提供远程导弹关键技术](https://news.cctv.com/2026/08/24/ARTI5ZJ4LI58HryNcLuQmLsJ260824.shtml)
 
++ [法国高中于今年秋季新学年起实施手机禁令](https://news.cctv.com/2026/08/24/ARTIoxDk4UAyd8Lbo3hQs0BB260824.shtml)
+
