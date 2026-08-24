@@ -175,3 +175,9 @@
 
 + [美军称在中东地区海域开展舰艇补给作业](https://news.cctv.com/2026/08/24/ARTIY22LQRg96C6WpBXa79ga260824.shtml)
 
++ [突尼斯附近海域一非法移民船倾覆 已致11人丧生](https://news.cctv.com/2026/08/24/ARTIwKFafUh1fLV9Ml27yyGL260824.shtml)
+
++ [伊朗发布霍尔木兹海峡通行新规](https://news.cctv.com/2026/08/24/ARTI0wWgvNj4Q0VtTeApgrfi260824.shtml)
+
++ [日本排放核污染水已三年 22轮累计排放超17万吨](https://news.cctv.com/2026/08/24/ARTIEYLSVR2MxKJwwYzyuoKe260824.shtml)
+
