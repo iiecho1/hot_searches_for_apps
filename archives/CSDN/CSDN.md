@@ -121,3 +121,9 @@
 
 + [用 Python + wxPython 造一个照片工具箱：PDF / 加密ZIP / MP4 / 归档，以及我在这过程中踩到的 4 个坑](https://blog.csdn.net/winniezhang/article/details/163982163)
 
++ [Qiskit IBM Runtime 源码静态审阅：525 个 Python 文件背后的量子计算工程化路径](https://blog.csdn.net/TunerT_TQ/article/details/164004000)
+
++ [AI编程工具进团队，LangChain项目为什么先崩了？](https://blog.csdn.net/2601_96285276/article/details/163996817)
+
++ [LHDC V5 手机到耳机音乐传输链路详解](https://blog.csdn.net/chkbxz/article/details/164034837)
+

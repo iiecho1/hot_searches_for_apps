@@ -161,3 +161,7 @@
 
 + [俄在争议岛屿附近进行导弹训练 日本称“无法接受”](https://news.cctv.com/2026/08/21/ARTIE4yGT2OxtKCYg12WkwMa260821.shtml)
 
++ [也门胡塞武装称再次袭击沙特油轮等多个目标](https://news.cctv.com/2026/08/25/ARTIjfQU8j5aINxCMU9Yb5UJ260824.shtml)
+
++ [英国将向乌克兰提供“风暴之影”导弹生产技术](https://news.cctv.com/2026/08/25/ARTIbAkXxbUcVxk7qu9MG7EF260824.shtml)
+
