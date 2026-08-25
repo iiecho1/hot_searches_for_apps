@@ -39,3 +39,15 @@
 
 + [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [marin-community/marin](https://github.com/marin-community/marin)
+
++ [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
++ [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
++ [asciimoo/hister](https://github.com/asciimoo/hister)
+

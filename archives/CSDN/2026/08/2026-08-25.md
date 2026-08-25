@@ -181,3 +181,27 @@
 
 + [爬虫转大模型：用项目结果反推能力](https://blog.csdn.net/2601_96285279/article/details/164043648)
 
++ [AI 训练数据湖：为什么 RustFS 是 S3 兼容存储的新选择](https://blog.csdn.net/rustfs_contrib/article/details/163943909)
+
++ [本地文件夹太乱，GitLab 又太重：飞牛 NAS 搭建轻量 Gitea 代码仓库](https://blog.csdn.net/COLLINSXU/article/details/164053289)
+
++ [从 Prompt Engineering 到 AI 工作流自动化：用大模型搭建第二收入引擎](https://blog.csdn.net/weixin_52908342/article/details/164056216)
+
++ [Vue3+dhtmlx-gantt 企业甘特图：任务依赖、拖拽改期、工时回写与 SPA 单例](https://blog.csdn.net/zhouzhongyan/article/details/164034425)
+
++ [第二十一届全国大学生智能车竞赛全国总决赛（竞速组别）成绩与奖项](https://blog.csdn.net/zhuoqingjoking97298/article/details/164053403)
+
++ [【AI大模型接入SDK】C++日志体系与spdlog封装的理论部分](https://blog.csdn.net/2401_89899187/article/details/163889743)
+
++ [网络安全实战：无线渗透测试——WiFi 握手包抓取与破解实战](https://blog.csdn.net/cui_yonghua/article/details/164024836)
+
++ [一个网页管理多种远程连接：Docker 部署 Next Terminal 与资产审计](https://blog.csdn.net/EterNity_TiMe_/article/details/164051664)
+
++ [LangChain 工具定义与工具调用全流程](https://blog.csdn.net/yue_2899799318/article/details/164023914)
+
++ [把视频教程变成可复习的笔记：Docker 部署 BiliNote，自动转写与总结](https://blog.csdn.net/2401_84813926/article/details/164053072)
+
++ [【DNS与ICMP】DNS 域名解析与 ICMP 网络诊断全解析：从 hosts 文件到全球分布式系统](https://blog.csdn.net/2302_80243065/article/details/164029835)
+
++ [Vue3 reactive 深入全面讲解](https://blog.csdn.net/gusushantang/article/details/164025897)
+
