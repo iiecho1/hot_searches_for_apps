@@ -195,3 +195,5 @@
 
 + [伊朗货币里亚尔汇率跌至历史新低](https://news.cctv.com/2026/08/25/ARTIbfweEOF9cTDC1QhSdMIi260825.shtml)
 
++ [日本东京一家钟表店遭抢劫 涉案金额达2亿日元](https://news.cctv.com/2026/08/25/ARTIYaprjqsDVNHdidWJZqkM260825.shtml)
+

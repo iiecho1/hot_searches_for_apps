@@ -159,3 +159,19 @@
 
 + [2026数学建模准备第二天--华数杯B题3.4问](https://blog.csdn.net/2501_90172271/article/details/164034405)
 
++ [【Linux】线程到底是什么？从轻量级进程、虚拟地址到页表与 MMU，一次理清线程底层模型](https://blog.csdn.net/2402_87731470/article/details/164035492)
+
++ [大模型本地部署实战，用 MLX 框架构建合规的 AI 网安引擎](https://blog.csdn.net/2501_90744270/article/details/164034056)
+
++ [SpringBoot3+Vue3 企业算薪引擎：SalaryCalcContext 驱动规则、公式与数据源解析](https://blog.csdn.net/zhouzhongyan/article/details/164034415)
+
++ [600 元 HP 小主机装 macOS：从启动盘、BIOS 到核显加速完整教程](https://blog.csdn.net/Rqaqedamancy/article/details/164032444)
+
++ [第43篇：微服务网关：Spring Cloud Gateway，统一接口入口](https://blog.csdn.net/zhangjw34/article/details/163363808)
+
++ [【.NET新特性·第13篇】C# 14 语法增强合集：6 个提升开发体验的特性](https://blog.csdn.net/hanzhixintianxia/article/details/164024481)
+
++ [几个主流的环境管理器（rustup、uv、nvm、fnm）已经在鸿蒙 PC 上可用](https://blog.csdn.net/hqzing/article/details/164002225)
+
++ [DeepSeek Harness Linux/macOS/Windows 本地下载、启动与模型配置指南](https://blog.csdn.net/weixin_48053866/article/details/164046481)
+
