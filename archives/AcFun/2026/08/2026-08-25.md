@@ -101,3 +101,9 @@
 
 + [新晋偶像出道即爆雷？话超多的Dear DIEIN全流程实况 (1)](https://m.acfun.cn/v/?ac=48800746)
 
++ [游戏卖什么价格合适？聊聊中国市场的游戏定价](https://m.acfun.cn/v/?ac=48802256)
+
++ [劳逸结合【今天有什么好笑的 #2486】](https://m.acfun.cn/v/?ac=48801940)
+
++ [【官方双语】成为德式服务器组装工 - Heztner参观行#linus谈科技](https://m.acfun.cn/v/?ac=48800180)
+

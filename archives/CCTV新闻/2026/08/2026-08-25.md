@@ -207,3 +207,9 @@
 
 + [法国西南部遭遇龙卷风 41人受伤](https://news.cctv.com/2026/08/25/ARTIQKcLafDnSeJ2DKAMoNTF260825.shtml)
 
++ [以国家安全部长带队闯入耶路撒冷一联合国机构](https://news.cctv.com/2026/08/25/ARTIoLvw4mv4WfHnXbImqiXb260825.shtml)
+
++ [哈萨克斯坦执政党赢得首届一院制议会选举](https://news.cctv.com/2026/08/25/ARTIx3LDJhUveGEtMhMAULQD260825.shtml)
+
++ [瑞士国际航空一波音客机因出现化学气味紧急降落](https://news.cctv.com/2026/08/25/ARTIJ3Q8Y5C6eUhrzHjAQHZw260825.shtml)
+
