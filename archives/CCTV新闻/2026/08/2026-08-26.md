@@ -171,3 +171,9 @@
 
 + [一名在韩失踪中国公民被确认遇害 嫌疑人已被捕](https://news.cctv.com/2026/08/26/ARTISAyKc81Gaavj6dZjmqQT260825.shtml)
 
++ [叙武装组织“叙利亚民主力量”宣布解散](https://news.cctv.com/2026/08/26/ARTIoc94blMf5NZRYZAhHFaO260826.shtml)
+
++ [消息人士称美中情局局长正在俄罗斯进行会谈](https://news.cctv.com/2026/08/26/ARTIvNguintw6X7zaWhJDhvl260826.shtml)
+
++ [阿曼外交大臣称有望很快宣布霍尔木兹海峡临时航道安排](https://news.cctv.com/2026/08/26/ARTIamfM25fzgEKJKjRgNrAv260826.shtml)
+
