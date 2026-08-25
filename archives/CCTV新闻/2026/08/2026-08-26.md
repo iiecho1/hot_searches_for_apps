@@ -167,3 +167,5 @@
 
 + [特朗普称考虑将安大略湖更名为“美国湖”](https://news.cctv.com/2026/08/26/ARTIkaq97YcVCKTx9DP0Ym46260826.shtml)
 
++ [英法加码对乌军援 难解今冬燃眉之急](https://news.cctv.com/2026/08/26/ARTIgJybPrC9YhxDZOKsYozH260825.shtml)
+
