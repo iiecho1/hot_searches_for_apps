@@ -211,3 +211,15 @@
 
 + [Java转大模型：会调API的遍地都是，能扛上线的寥寥无几](https://blog.csdn.net/2601_96189167/article/details/164045699)
 
++ [达梦VS金仓：数据库替换真正拉开差距的，是迁移工具的工程效率](https://blog.csdn.net/lrq13965748542/article/details/164062548)
+
++ [K8s的Pod管理](https://blog.csdn.net/2301_81073010/article/details/164056015)
+
++ [《C++深度解构03》类和对象（中）——从零拆解六大默认成员函数底层逻辑](https://blog.csdn.net/huhuiyuan_/article/details/163911806)
+
++ [DM数据库删除数据文件：全面解析与实践指南](https://blog.csdn.net/qq_41840843/article/details/164047163)
+
++ [深入理解 TCP 协议（三）：连接管理机制 —— 三次握手和四次挥手详解 ](https://blog.csdn.net/Felix_kiss_L/article/details/164034538)
+
++ [GPT、Kimi、DeepSeek 多模态能力实测：open design设计任务中的公平对比](https://blog.csdn.net/2604_96324884/article/details/164055446)
+
