@@ -193,3 +193,5 @@
 
 + [我驻泰使馆确认一中国公民在泰遭绑架 目前已得到妥善安置](https://news.cctv.com/2026/08/25/ARTIEFse2SMTrPeB3cGxtB76260825.shtml)
 
++ [伊朗货币里亚尔汇率跌至历史新低](https://news.cctv.com/2026/08/25/ARTIbfweEOF9cTDC1QhSdMIi260825.shtml)
+

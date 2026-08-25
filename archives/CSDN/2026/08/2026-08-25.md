@@ -149,3 +149,7 @@
 
 + [鸿蒙应用项目目录结构详解](https://blog.csdn.net/QWERWTWE/article/details/163982137)
 
++ [运维转大模型实战，第一道门槛可能不是算法](https://blog.csdn.net/2601_96189167/article/details/164033216)
+
++ [Java 线程池：复用、Spring 管理、监控与线上故障排查全指南](https://blog.csdn.net/m0_58600248/article/details/164033798)
+
