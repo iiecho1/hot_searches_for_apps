@@ -131,3 +131,17 @@
 
 + [Elasticsearch 核心原理与集群架构复盘总结](https://blog.csdn.net/m0_69632475/article/details/164033580)
 
++ [踩了三年烟囱式架构的坑，我终于理解了向量数据库和融合存储到底香在哪](https://blog.csdn.net/qq_32682301/article/details/164006653)
+
++ [数采与虚拟仿真技术在电力智能运维赛道的实践探索](https://blog.csdn.net/beautifulmemory/article/details/164033485)
+
++ [实测蓝耘元生代:从三模型对比到会自动降级的LLM智能路由平台](https://blog.csdn.net/2401_87629362/article/details/164015547)
+
++ [Stagehand v3多语言SDK：Python/Go/Rust/Java下的浏览器自动化统一方案](https://blog.csdn.net/2301_80078096/article/details/163979440)
+
++ [不用反复折腾 Word 排版：本地部署 Magic Resume，在线编辑并导出 PDF](https://blog.csdn.net/qq_46123200/article/details/164022249)
+
++ [【计算机网络 | 网络层3：IPv4 地址详解：分类编址、私有地址与特殊地址】](https://blog.csdn.net/DdigitalNomad/article/details/164035099)
+
++ [工信部开展网络安全专项整治，严打非法爬虫、数据倒卖行为](https://blog.csdn.net/A19911511842/article/details/162626261)
+

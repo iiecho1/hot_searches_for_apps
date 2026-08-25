@@ -23,3 +23,11 @@
 
 + [娃生了，感叹这个成本真的很低。](https://www.v2ex.com/t/1236793)
 
++ [我的产品陷入绝望](https://www.v2ex.com/t/1236852)
+
++ [你还在用 Vim 吗？你为什么用它？](https://www.v2ex.com/t/1236792)
+
++ [小鹏 G7 和阿维塔 07L，怎么选？](https://www.v2ex.com/t/1236717)
+
++ [todo 软件你们推荐哪个](https://www.v2ex.com/t/1236796)
+

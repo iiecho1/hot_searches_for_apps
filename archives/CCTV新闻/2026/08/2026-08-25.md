@@ -175,3 +175,11 @@
 
 + [美政府宣布对伊朗经济制裁措施 加大施压](https://news.cctv.com/2026/08/25/ARTIrlLZlvh7aQC3CeEqeHaX260825.shtml)
 
++ [美国宣布正式撤销叙利亚“支恐国家”认定](https://news.cctv.com/2026/08/25/ARTInHCKzou7YEpNKNlkObUJ260825.shtml)
+
++ [美财长称将维持国债再融资计划不变](https://news.cctv.com/2026/08/25/ARTIt4kvwWprYwFqpzDhlVWx260825.shtml)
+
++ [涉中国公民劳务纠纷案件多发 驻加拿大使馆发布来加务工提醒](https://news.cctv.com/2026/08/25/ARTIkOnjCq2ZWbHRZFQ7HjD7260825.shtml)
+
++ [美媒：美政府计划吊销20万外国人商务和旅游签证](https://news.cctv.com/2026/08/25/ARTIYPHxbY1cgEVk5OywgLKs260825.shtml)
+
