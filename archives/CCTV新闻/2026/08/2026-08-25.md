@@ -215,3 +215,5 @@
 
 + [日本市民团体举办“日军毒气展”　揭露军国主义暴行](https://news.cctv.com/2026/08/25/ARTIgc0TEMa8jrlzcgEexkt4260825.shtml)
 
++ [俄太平洋舰队在日本海等水域进行反潜演习](https://news.cctv.com/2026/08/25/ARTIPN28V3hiW5uifaBxNIJH260825.shtml)
+
