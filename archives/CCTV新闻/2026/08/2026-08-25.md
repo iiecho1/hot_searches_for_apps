@@ -197,3 +197,7 @@
 
 + [日本东京一家钟表店遭抢劫 涉案金额达2亿日元](https://news.cctv.com/2026/08/25/ARTIYaprjqsDVNHdidWJZqkM260825.shtml)
 
++ [中方敦促当事方推动乌克兰局势降温](https://news.cctv.com/2026/08/25/ARTIl54MC0sy8qhou0hxLsai260825.shtml)
+
++ [世卫组织就刚果（金）埃博拉疫情更新临时建议](https://news.cctv.com/2026/08/25/ARTIti3TLobYHm7PCC2kTBgS260825.shtml)
+

@@ -175,3 +175,5 @@
 
 + [DeepSeek Harness Linux/macOS/Windows 本地下载、启动与模型配置指南](https://blog.csdn.net/weixin_48053866/article/details/164046481)
 
++ [NAT 打洞 & P2P 内网穿透](https://blog.csdn.net/heyan131/article/details/163975370)
+
