@@ -161,3 +161,9 @@
 
 + [闪评 | 美伊进入“经济战” 中东局势何去何从？](https://news.cctv.com/2026/08/23/ARTIi2WcbqU21V6l5mpaoAMd260823.shtml)
 
++ [真相来了丨火星惊现“蜘蛛状岩层”？假的！网红图破绽百出](https://news.cctv.com/2026/08/26/ARTINo2K0yp2K14tmqkUW5j0260826.shtml)
+
++ [涉及约200亿美元 加拿大将对美商品征收反制关税](https://news.cctv.com/2026/08/26/ARTI986GpTUBW2TpuRWg4HmK260826.shtml)
+
++ [特朗普称考虑将安大略湖更名为“美国湖”](https://news.cctv.com/2026/08/26/ARTIkaq97YcVCKTx9DP0Ym46260826.shtml)
+
