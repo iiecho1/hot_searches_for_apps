@@ -183,3 +183,13 @@
 
 + [美媒：美政府计划吊销20万外国人商务和旅游签证](https://news.cctv.com/2026/08/25/ARTIYPHxbY1cgEVk5OywgLKs260825.shtml)
 
++ [美政府拟对H-1B签证收取逾10万美元费用](https://news.cctv.com/2026/08/25/ARTI9uXvzSUJsfuqOjqMaZG0260825.shtml)
+
++ [泰国罗勇府发生枪击案致2死2伤](https://news.cctv.com/2026/08/25/ARTI9bSbv0ou8hQzYJsqf3yD260825.shtml)
+
++ [鸟瞰死海天坑奇观](https://photo.cctv.com/2026/08/25/PHOA19BjGmuPOdXCwQN3Whow260825.shtml)
+
++ [印度解除小麦出口禁令](https://news.cctv.com/2026/08/25/ARTImvU0CGc8CY5TSRCOe6sE260825.shtml)
+
++ [我驻泰使馆确认一中国公民在泰遭绑架 目前已得到妥善安置](https://news.cctv.com/2026/08/25/ARTIEFse2SMTrPeB3cGxtB76260825.shtml)
+
