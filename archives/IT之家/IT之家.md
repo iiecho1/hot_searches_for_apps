@@ -49,3 +49,27 @@
 
 + [新一代玄戒芯片正式发布，雷军透露小米重启大芯片研发累计投入研发经费超 210 亿](https://m.ithome.com/html/993583.htm)
 
++ [苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计](https://m.ithome.com/html/993790.htm)
+
++ [余承东官宣全新三折叠即将登场，华为鸿蒙 HarmonyOS 7 | Mate XT 2 及全场景新品发布会定档](https://m.ithome.com/html/993809.htm)
+
++ [小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型](https://m.ithome.com/html/993838.htm)
+
++ [iPhone 18 Pro 与折叠屏 iPhone 即将登场，苹果 2026 秋季新品发布会何时举办？](https://m.ithome.com/html/993754.htm)
+
++ [消息称华为 Pura X View 阔直板手机搭载麒麟 9030S 处理器，现阶段全系采用 12GB 运存](https://m.ithome.com/html/994090.htm)
+
++ [苹果 iOS / iPadOS 27.0 开发者预览版 Beta 7 发布](https://m.ithome.com/html/993760.htm)
+
++ [古尔曼：苹果可能在“未来几天内”发布新款 Mac mini](https://m.ithome.com/html/993887.htm)
+
++ [小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”](https://m.ithome.com/html/993753.htm)
+
++ [男子不慎将自己锁在汽车后备箱：近 40℃ 高温被困约 5 小时，靠喊语音助手报警获救](https://m.ithome.com/html/994117.htm)
+
++ [曝 9 月或是机圈史上最激烈新品月，“华米 OV 耀”旗舰新机将轮番登场](https://m.ithome.com/html/994020.htm)
+
++ [苹果为库克举办卸任聚会，约 200 人出席](https://m.ithome.com/html/993767.htm)
+
++ [曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝，300 人被迫离职](https://m.ithome.com/html/993825.htm)
+
