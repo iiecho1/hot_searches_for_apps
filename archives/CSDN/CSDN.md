@@ -101,3 +101,15 @@
 
 + [GPT、Kimi、DeepSeek 多模态能力实测：open design设计任务中的公平对比](https://blog.csdn.net/2604_96324884/article/details/164055446)
 
++ [ValidX时间注解完全指南：10种时间验证注解详解](https://blog.csdn.net/vipxieliang/article/details/164056727)
+
++ [AI编程工具从个人试用到团队协作：权限和日志才是真正瓶颈](https://blog.csdn.net/2601_96285279/article/details/164052974)
+
++ [网络安全的2026：AI攻防、机器速度与防御者的新战场](https://blog.csdn.net/2301_80217102/article/details/164058742)
+
++ [C++11 智能指针与 RAII 万字详解 | 从异常安全到 shared_ptr 控制块与循环引用，深度拆解现代 C++ 内存管理 Ownership 语义【现代 C++ 深度解析】](https://blog.csdn.net/lingran__/article/details/163978733)
+
++ [前端转大模型，真正值钱的为什么不是会调 API？](https://blog.csdn.net/2601_96285276/article/details/164059941)
+
++ [群晖NAS部署Trilium Notes：搭建你的私人知识库，并通过cpolar实现公网远程访问](https://blog.csdn.net/mrdeam/article/details/164055218)
+
