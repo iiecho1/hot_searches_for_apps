@@ -177,3 +177,7 @@
 
 + [NAT 打洞 & P2P 内网穿透](https://blog.csdn.net/heyan131/article/details/163975370)
 
++ [JPA 持久化机制：save、flush、事务与 AfterCommit 回调](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/164025025)
+
++ [爬虫转大模型：用项目结果反推能力](https://blog.csdn.net/2601_96285279/article/details/164043648)
+

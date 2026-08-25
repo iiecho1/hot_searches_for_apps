@@ -201,3 +201,9 @@
 
 + [世卫组织就刚果（金）埃博拉疫情更新临时建议](https://news.cctv.com/2026/08/25/ARTIti3TLobYHm7PCC2kTBgS260825.shtml)
 
++ [西班牙政府召开国家安全委员会会议应对休达移民危机](https://news.cctv.com/2026/08/25/ARTIxmlEPhvkbSYetEXwVKe6260825.shtml)
+
++ [斯威士兰安全形势复杂 外交部提醒中国公民暂勿前往](https://news.cctv.com/2026/08/25/ARTIQ0H0YidNwM5vaFpkVT2B260825.shtml)
+
++ [法国西南部遭遇龙卷风 41人受伤](https://news.cctv.com/2026/08/25/ARTIQKcLafDnSeJ2DKAMoNTF260825.shtml)
+
