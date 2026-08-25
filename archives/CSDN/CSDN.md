@@ -205,3 +205,9 @@
 
 + [Vue3 reactive 深入全面讲解](https://blog.csdn.net/gusushantang/article/details/164025897)
 
++ [Spark大数据分析与实战笔记（第九章 综合案例—Spark实时交易数据统计-02）](https://blog.csdn.net/u014727709/article/details/163802748)
+
++ [临时要处理PDF,电脑又不在身边?自建Stirling-PDF在线工具箱](https://blog.csdn.net/2401_87629362/article/details/164028234)
+
++ [Java转大模型：会调API的遍地都是，能扛上线的寥寥无几](https://blog.csdn.net/2601_96189167/article/details/164045699)
+

@@ -213,3 +213,5 @@
 
 + [瑞士国际航空一波音客机因出现化学气味紧急降落](https://news.cctv.com/2026/08/25/ARTIJ3Q8Y5C6eUhrzHjAQHZw260825.shtml)
 
++ [日本市民团体举办“日军毒气展”　揭露军国主义暴行](https://news.cctv.com/2026/08/25/ARTIgc0TEMa8jrlzcgEexkt4260825.shtml)
+
