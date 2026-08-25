@@ -153,3 +153,9 @@
 
 + [Java 线程池：复用、Spring 管理、监控与线上故障排查全指南](https://blog.csdn.net/m0_58600248/article/details/164033798)
 
++ [Kubernetes 共享存储：PV、PVC、StorageClass 详解及使用](https://blog.csdn.net/liu_chen_yang/article/details/160662805)
+
++ [DHS使用opencode-go的deepseek-v4-flash-vision-exp时提示：当前模型不支持图片，请切换支持图片的模型](https://blog.csdn.net/2301_79301066/article/details/163970937)
+
++ [2026数学建模准备第二天--华数杯B题3.4问](https://blog.csdn.net/2501_90172271/article/details/164034405)
+
