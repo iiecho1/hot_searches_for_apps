@@ -199,3 +199,5 @@
 
 + [俄天然气化工厂发生火灾致中国公民伤亡  我领馆派工作组赶赴现场](https://news.cctv.com/2026/08/26/ARTIkh4qMXBXW9ntVxUKU5qr260826.shtml)
 
++ [尼泊尔北部山洪遇难人数升至72人](https://news.cctv.com/2026/08/26/ARTIpiPrO0WYUgeEL0Rh9lVe260826.shtml)
+

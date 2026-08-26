@@ -155,3 +155,5 @@
 
 + [航天器综合电子系统分布式电源架构中集成化DC-DC模块的选型分析](https://blog.csdn.net/ANSILIC/article/details/164063207)
 
++ [【计算机网络 | 网络层6：IPv4 数据报格式：TTL、分片、首部校验和分别有什么用？】](https://blog.csdn.net/DdigitalNomad/article/details/164060722)
+
