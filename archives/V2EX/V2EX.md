@@ -45,3 +45,7 @@
 
 + [macmini 出来了买什么配置呢？](https://www.v2ex.com/t/1237240)
 
++ [grok 用户目前都在用什么编程工具？](https://www.v2ex.com/t/1237121)
+
++ [# 育儿好物 五年级男孩手表极限二选一 | Apple Watch SE 蜂窝 | 小天才 Z10](https://www.v2ex.com/t/1237224)
+

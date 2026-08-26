@@ -187,3 +187,5 @@
 
 + [俄方证实美中情局局长访俄：涉及情报部门间接触](https://news.cctv.com/2026/08/26/ARTIMtZIHIuXJHumiNjFxpiD260826.shtml)
 
++ [中国人形机器人产业蓄势腾飞 从“实验室样机”迈入多场景“实用型产品”](https://news.cctv.com/2026/08/26/ARTIiV4qjqbOAeJeqdVHDrEj260826.shtml)
+
