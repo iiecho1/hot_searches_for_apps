@@ -193,3 +193,5 @@
 
 + [美军一架“黑鹰”直升机在美西部坠毁](https://news.cctv.com/2026/08/26/ARTIp0j4U53nSHD9Khm36917260826.shtml)
 
++ [俄远东天然气化工项目发生火灾 致中国公民6死9失联](https://news.cctv.com/2026/08/26/ARTIhRFFPSjLfHxCYOUh0v0C260826.shtml)
+
