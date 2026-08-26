@@ -195,3 +195,7 @@
 
 + [俄远东天然气化工项目发生火灾 致中国公民6死9失联](https://news.cctv.com/2026/08/26/ARTIhRFFPSjLfHxCYOUh0v0C260826.shtml)
 
++ [菲律宾防长发表涉华错误言论 中国驻菲使馆：强烈谴责](https://news.cctv.com/2026/08/26/ARTIRhht6jDI1immHVMwzLjV260826.shtml)
+
++ [俄天然气化工厂发生火灾致中国公民伤亡  我领馆派工作组赶赴现场](https://news.cctv.com/2026/08/26/ARTIkh4qMXBXW9ntVxUKU5qr260826.shtml)
+
