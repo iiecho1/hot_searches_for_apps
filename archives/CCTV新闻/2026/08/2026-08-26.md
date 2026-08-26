@@ -179,3 +179,11 @@
 
 + [应对厄尔尼诺威胁 巴拿马宣布全国进入紧急状态](https://news.cctv.com/2026/08/26/ARTISiAUcFq0e2zhIQnpyxVS260826.shtml)
 
++ [巴基斯坦首都一医院火灾已致15名婴儿死亡](https://news.cctv.com/2026/08/26/ARTIgybOm4EjtOoMKd2TS02Y260826.shtml)
+
++ [巴基斯坦首都一医院火灾致14名婴儿死亡](https://news.cctv.com/2026/08/26/ARTIWQO3FQW9VQn3UpfaOl5s260826.shtml)
+
++ [以色列称将继续追击参与2023年袭击的巴武装人员](https://news.cctv.com/2026/08/26/ARTIYFTztRDSl6N3oKgGQm7Y260826.shtml)
+
++ [俄方证实美中情局局长访俄：涉及情报部门间接触](https://news.cctv.com/2026/08/26/ARTIMtZIHIuXJHumiNjFxpiD260826.shtml)
+

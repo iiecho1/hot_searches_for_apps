@@ -119,3 +119,17 @@
 
 + [【ADMM】微电网群双层优化+分布式ADMM研究（Matlab代码实现）](https://blog.csdn.net/2301_77414277/article/details/164005911)
 
++ [DM数据库重做日志管理：保障数据一致性的关键机制](https://blog.csdn.net/qq_41840843/article/details/164047118)
+
++ [海光K100_AI单卡ComfyUI+MiniMax-H3环境调优实战：视频生成速度大幅提升](https://blog.csdn.net/pla88888888/article/details/163998150)
+
++ [Linux、Windows、macOS 都能用：部署 Nging 搭建 Web 服务器管理面板](https://blog.csdn.net/m0_73879806/article/details/164033479)
+
++ [【BlueZ 】BLE 与经典蓝牙的差异：BlueZ 中双模式的源码区分设计](https://blog.csdn.net/weixin_37800531/article/details/163957643)
+
++ [AFSIM 示例解读（04）· Brawler 高保真气动机动：brawler](https://blog.csdn.net/m0_38014978/article/details/163993094)
+
++ [JPA 持久化机制：save、flush、事务与 AfterCommit 回调](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/164025025)
+
++ [制造企业数仓选型实战：为什么我们选了 Apache Doris + DolphinScheduler](https://blog.csdn.net/javy21/article/details/164001000)
+
