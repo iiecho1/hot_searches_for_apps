@@ -23,3 +23,7 @@
 
 + [绿米指纹锁阵亡，建议换哪个牌子靠谱？](https://www.v2ex.com/t/1237038)
 
++ [ClaudeCode 和 Codex 的 20X 怎么选啊？](https://www.v2ex.com/t/1236937)
+
++ [开个脑洞，关于电车闲置算力](https://www.v2ex.com/t/1237004)
+
