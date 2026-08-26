@@ -43,3 +43,5 @@
 
 + [最近老刷到男性觉醒的视频](https://www.v2ex.com/t/1237221)
 
++ [macmini 出来了买什么配置呢？](https://www.v2ex.com/t/1237240)
+

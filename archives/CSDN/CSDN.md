@@ -133,3 +133,7 @@
 
 + [制造企业数仓选型实战：为什么我们选了 Apache Doris + DolphinScheduler](https://blog.csdn.net/javy21/article/details/164001000)
 
++ [二十一载薪火相传，智车逐梦步履不停](https://blog.csdn.net/zhuoqingjoking97298/article/details/164074823)
+
++ [SpringBoot3+Vue3 固定资产折旧计提：平均年限法、月度批次与净值回写](https://blog.csdn.net/zhouzhongyan/article/details/164066403)
+
