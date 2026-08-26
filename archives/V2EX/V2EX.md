@@ -27,3 +27,13 @@
 
 + [开个脑洞，关于电车闲置算力](https://www.v2ex.com/t/1237004)
 
++ [Claude 是真是👍，四天被封俩号，不想折腾了](https://www.v2ex.com/t/1237175)
+
++ [最适合小白的 NAS 系统就是 飞牛 fnOS](https://www.v2ex.com/t/1237048)
+
++ [老哥借贷炒股，亏了至少十几万](https://www.v2ex.com/t/1237025)
+
++ [突然多了 50w，这笔钱单纯理财可以用来干什么](https://www.v2ex.com/t/1237100)
+
++ [同事好臭，我好想被香香的人包围。](https://www.v2ex.com/t/1237128)
+

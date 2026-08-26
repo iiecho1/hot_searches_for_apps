@@ -177,3 +177,5 @@
 
 + [阿曼外交大臣称有望很快宣布霍尔木兹海峡临时航道安排](https://news.cctv.com/2026/08/26/ARTIamfM25fzgEKJKjRgNrAv260826.shtml)
 
++ [应对厄尔尼诺威胁 巴拿马宣布全国进入紧急状态](https://news.cctv.com/2026/08/26/ARTISiAUcFq0e2zhIQnpyxVS260826.shtml)
+
