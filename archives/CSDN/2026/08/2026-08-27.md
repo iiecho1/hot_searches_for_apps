@@ -97,3 +97,25 @@
 
 + [群晖NAS部署Trilium Notes：搭建你的私人知识库，并通过cpolar实现公网远程访问](https://blog.csdn.net/mrdeam/article/details/164055218)
 
++ [墨衍 MoGrow 是什么？给技术创作者的新用户指南](https://blog.csdn.net/zhangyang/article/details/164089165)
+
++ [OpenClaw 可观测性实战：从日志到全链路追踪的 Agent 运维体系构建（v2.x）](https://blog.csdn.net/sinat_41617212/article/details/164091732)
+
++ [Spark大数据分析与实战笔记（第九章 综合案例—Spark实时交易数据统计-03）](https://blog.csdn.net/u014727709/article/details/133902794)
+
++ [AI 的记忆进化史：从金鱼记忆到学会做梦](https://blog.csdn.net/2401_89111612/article/details/164066756)
+
++ [【无人机】无人机群在三维环境中的碰撞和静态避障仿真（Matlab代码实现）](https://blog.csdn.net/Yan_she_He/article/details/164099879)
+
++ [考虑N-1故障集的电力系统安全约束机组组合（SCUC）优化模型（Matlab代码实现）](https://blog.csdn.net/2301_77414277/article/details/164100532)
+
++ [智能软件工程AI4SE（二十四）——需求分析与质量改进](https://blog.csdn.net/qq_15410539/article/details/164034420)
+
++ [长上下文大模型吞吐攻坚：FlashAttention-3 硬件级优化与 RingAttention 跨节点分布式注意力实战](https://blog.csdn.net/2201_75984884/article/details/164079994)
+
++ [XSS漏洞报告总被忽略，我把复现视频改成了这样](https://blog.csdn.net/yiyiyi0322/article/details/164063615)
+
++ [AI 训练数据湖：为什么 RustFS 是 S3 兼容存储的新选择](https://blog.csdn.net/rustfs_contrib/article/details/163943909)
+
++ [LangChain 工具定义与工具调用全流程](https://blog.csdn.net/yue_2899799318/article/details/164023914)
+

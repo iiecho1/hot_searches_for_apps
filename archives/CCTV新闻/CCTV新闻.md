@@ -163,3 +163,9 @@
 
 + [美媒：伊朗曾企图在美国暗杀内塔尼亚胡长子](https://news.cctv.com/2026/08/27/ARTIsu1s45rBffACJKL7hhbu260826.shtml)
 
++ [美太空探索技术公司计划新建发射基地](https://news.cctv.com/2026/08/27/ARTIHLKS6sd5cnhTvbUJoJpT260826.shtml)
+
++ [殷玉珍与“赛考斯”再重逢 中美民间善举引发海外网友热议](https://people.cctv.com/2026/08/27/ARTIcouLlLGp6940RH5vqYYL260826.shtml)
+
++ [闪评 | 中情局局长秘密访问莫斯科可能谈什么？](https://news.cctv.com/2026/08/27/ARTIiAjXbpeOezOrBFmA1gG4260826.shtml)
+
