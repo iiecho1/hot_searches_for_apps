@@ -33,3 +33,15 @@
 
 + [asciimoo/hister](https://github.com/asciimoo/hister)
 
++ [tt-a1i/archify](https://github.com/tt-a1i/archify)
+
++ [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
++ [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
++ [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+
++ [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+
