@@ -189,3 +189,5 @@
 
 + [中国人形机器人产业蓄势腾飞 从“实验室样机”迈入多场景“实用型产品”](https://news.cctv.com/2026/08/26/ARTIiV4qjqbOAeJeqdVHDrEj260826.shtml)
 
++ [中国驻尼泊尔大使馆再次提醒在尼泊尔中国公民和机构加强安全防范](https://news.cctv.com/2026/08/26/ARTIM8lQs2DYibaoopGAoYK0260826.shtml)
+

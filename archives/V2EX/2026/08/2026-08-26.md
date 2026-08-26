@@ -49,3 +49,5 @@
 
 + [# 育儿好物 五年级男孩手表极限二选一 | Apple Watch SE 蜂窝 | 小天才 Z10](https://www.v2ex.com/t/1237224)
 
++ [刚刚会计在公司群里通知：单休了](https://www.v2ex.com/t/1237244)
+
