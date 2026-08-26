@@ -161,3 +161,5 @@
 
 + [以总理警告哈马斯停止从加沙向以色列“放风筝”](https://news.cctv.com/2026/08/24/ARTIsWOovU2UvmxcrfxmQYxR260824.shtml)
 
++ [美媒：伊朗曾企图在美国暗杀内塔尼亚胡长子](https://news.cctv.com/2026/08/27/ARTIsu1s45rBffACJKL7hhbu260826.shtml)
+
