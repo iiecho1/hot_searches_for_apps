@@ -137,3 +137,7 @@
 
 + [SpringBoot3+Vue3 固定资产折旧计提：平均年限法、月度批次与净值回写](https://blog.csdn.net/zhouzhongyan/article/details/164066403)
 
++ [AI 搜索时代，博客应该怎样写](https://blog.csdn.net/weixin_74809706/article/details/163614123)
+
++ [5人设计组远程连工作站靠抢？用ToDesk团队设计版搭_数位板映射+多屏+权限_协同工作流](https://blog.csdn.net/weixin_51390582/article/details/164078919)
+

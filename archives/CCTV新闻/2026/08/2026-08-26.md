@@ -191,3 +191,5 @@
 
 + [中国驻尼泊尔大使馆再次提醒在尼泊尔中国公民和机构加强安全防范](https://news.cctv.com/2026/08/26/ARTIM8lQs2DYibaoopGAoYK0260826.shtml)
 
++ [美军一架“黑鹰”直升机在美西部坠毁](https://news.cctv.com/2026/08/26/ARTIp0j4U53nSHD9Khm36917260826.shtml)
+
