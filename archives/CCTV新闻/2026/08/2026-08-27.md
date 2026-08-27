@@ -177,3 +177,15 @@
 
 + [特朗普：对于伊朗何时重返谈判“没有时间表”](https://news.cctv.com/2026/08/27/ARTIrtBkinqEfvlUsncaR7bV260827.shtml)
 
++ [美国司法部拟重启捕获法庭以便扣押伊朗油轮](https://news.cctv.com/2026/08/27/ARTInIgRPVIjJph19pA7o31O260827.shtml)
+
++ [希腊一周内发生9起西尼罗病毒致死病例](https://news.cctv.com/2026/08/27/ARTIRfNSJXCiM8LM2Zs69u08260827.shtml)
+
++ [俄罗斯圣彼得堡发生汽车爆炸事件 一名军人身亡](https://news.cctv.com/2026/08/27/ARTI32Z69eqAAyrzpZVIkscM260827.shtml)
+
++ [韩国法院对涉嫌杀害中国留学生的嫌疑人签发拘捕令](https://news.cctv.com/2026/08/27/ARTIdGkAk6V5Ril9XfXO3SIY260827.shtml)
+
++ [美中情局长突访俄罗斯 意在警告俄勿攻击北约](https://news.cctv.com/2026/08/27/ARTICkWEN4qUkRjSs0ykR7cP260827.shtml)
+
++ [印尼勒沃托比火山喷发 火山灰柱高达2500米](https://news.cctv.com/2026/08/27/ARTIJFjbjML0G6jzZ5tYZncg260827.shtml)
+

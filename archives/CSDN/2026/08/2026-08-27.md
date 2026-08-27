@@ -123,3 +123,43 @@
 
 + [WebAssembly安全攻防实战：从WASM逆向到漏洞利用](https://blog.csdn.net/xlb8888888/article/details/164090691)
 
++ [给云原生排障助手装上“大脑“和“身体“:蓝耘元生代MaaS×魔珐星云数字人实战](https://blog.csdn.net/2401_87629362/article/details/163614380)
+
++ [计算机网络‑TCP 协议原理与特性解析](https://blog.csdn.net/2502_93799892/article/details/164095097)
+
++ [【计算几何 第十一章】凸包：混合物](https://blog.csdn.net/he_zhidan/article/details/163943400)
+
++ [大模型工程化实战（五）：LLM 网关到底怎么选 - 2026 自研 / LiteLLM/Portkey/Kong/One API 全面对比](https://blog.csdn.net/xiaobing259/article/details/164003347)
+
++ [SpringBoot3+XXL-Job+Redis 合同到期提醒：窗口扫描、SETNX 幂等与收付款逾期打标](https://blog.csdn.net/zhouzhongyan/article/details/164097726)
+
++ [AI Agent 的四根支柱：LLM、工具、记忆与规划是如何协同的](https://blog.csdn.net/2401_89111612/article/details/164066747)
+
++ [电力智能运维虚拟仿真赛道备赛技术指南](https://blog.csdn.net/beautifulmemory/article/details/164109580)
+
++ [时序数据库选型深度指南: 为何企业级海量时序场景首选DolphinDB](https://blog.csdn.net/lrq13965748542/article/details/164109978)
+
++ [HarmonyOS 分布式数据最佳实践：从架构设计到生产落地的全链路规范指南](https://blog.csdn.net/u014727709/article/details/164096889)
+
++ [Ox Alpha 接入完整教程：OpenCode 配置、API 调用与故障排查](https://blog.csdn.net/aidoudoulong/article/details/164078638)
+
++ [多台服务器别再挨个 SSH：部署哪吒监控，集中查看状态并配置异常告警](https://blog.csdn.net/qyj19920704/article/details/164115508)
+
++ [社区张阿姨差点转了八万块：具身交互智能数字人如何在银行大厅拦住她](https://blog.csdn.net/weixin_43741519/article/details/164097527)
+
++ [【计算机网络 | 网络层4：子网掩码与 CIDR：如何判断网络号和主机号？】](https://blog.csdn.net/DdigitalNomad/article/details/164035114)
+
++ [2026网络安全攻防新战场：准自动攻击、影子智能体与防御者的生存法则](https://blog.csdn.net/2301_80217102/article/details/164096828)
+
++ [2026年VLA训练数据破局：为什么遥操作无法规模化，网络视频能做到什么](https://blog.csdn.net/LOVEmy134611/article/details/163982385)
+
++ [驯服 PUNKs：ES|QL 如何查询 Elasticsearch 从未被告知的字段](https://blog.csdn.net/UbuntuTouch/article/details/164116043)
+
++ [HarmonyOS 7 核心实践：基于 CoreVisionKit 端侧 AI 语义搜图与多模态双链 Vault 架构](https://blog.csdn.net/sjw890821sjw/article/details/164074915)
+
++ [把报表分析接进 Agent，上线前被权限和日志打回三次](https://blog.csdn.net/m0_70952941/article/details/164091669)
+
++ [供应链安全攻防实战：从依赖投毒到CI/CD劫持的全链路防御](https://blog.csdn.net/xlb8888888/article/details/164090453)
+
++ [影音库不想反复扫网盘：LitePan 聚合多网盘，用 WebDAV 和 STRM 整理播放链路](https://blog.csdn.net/weixin_74888502/article/details/164108592)
+

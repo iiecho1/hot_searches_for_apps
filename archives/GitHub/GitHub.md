@@ -33,3 +33,21 @@
 
 + [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
 
++ [zedeus/nitter](https://github.com/zedeus/nitter)
+
++ [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
+
++ [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
++ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
++ [google/googletest](https://github.com/google/googletest)
+
++ [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
++ [actions/checkout](https://github.com/actions/checkout)
+
++ [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
