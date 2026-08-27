@@ -169,3 +169,11 @@
 
 + [闪评 | 中情局局长秘密访问莫斯科可能谈什么？](https://news.cctv.com/2026/08/27/ARTIiAjXbpeOezOrBFmA1gG4260826.shtml)
 
++ [伊朗陆军发言人：伊朗军队所有武器系统已完成重建](https://news.cctv.com/2026/08/27/ARTIOe4GRW5J15WFaj6iPRbO260827.shtml)
+
++ [土耳其发生一起滑翔伞事故 一名中国游客遇难](https://news.cctv.com/2026/08/27/ARTIITxdbfe93WD1e13CGYL5260827.shtml)
+
++ [匈牙利总理：保克什核电站恢复满负荷运转](https://news.cctv.com/2026/08/27/ARTIlAM1NjUvj9D5Ah7xaA5m260827.shtml)
+
++ [特朗普：对于伊朗何时重返谈判“没有时间表”](https://news.cctv.com/2026/08/27/ARTIrtBkinqEfvlUsncaR7bV260827.shtml)
+

@@ -119,3 +119,7 @@
 
 + [LangChain 工具定义与工具调用全流程](https://blog.csdn.net/yue_2899799318/article/details/164023914)
 
++ [从 HTTP 到 HTTPS，你的数据经历了哪些安全升级](https://blog.csdn.net/2501_90744270/article/details/164096259)
+
++ [WebAssembly安全攻防实战：从WASM逆向到漏洞利用](https://blog.csdn.net/xlb8888888/article/details/164090691)
+
