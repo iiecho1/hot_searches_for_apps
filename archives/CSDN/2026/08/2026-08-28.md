@@ -93,3 +93,41 @@
 
 + [学习Python图像处理库Pillow](https://blog.csdn.net/qq_16111127/article/details/164067578)
 
++ [给云原生排障助手装上“大脑“和“身体“:蓝耘元生代MaaS×魔珐星云数字人实战](https://blog.csdn.net/2401_87629362/article/details/163614380)
+
++ [SpringBoot3+Flowable 空审批人处理：自动通过、拒绝、指定成员与流程管理员怎么落地](https://blog.csdn.net/zhouzhongyan/article/details/164126246)
+
++ [当 AI 修图师装上“万能插头“：MCP 如何改变修图工作流](https://blog.csdn.net/qq_32682301/article/details/164127337)
+
++ [第二十一届全国大学生智能车竞赛智慧工厂选拔赛获奖名单](https://blog.csdn.net/zhuoqingjoking97298/article/details/164095774)
+
++ [【Linux 篇】数字世界的磁盘卷宗管理器 —— ext 系列文件系统底层原理深度实战解析](https://blog.csdn.net/buhuizhiyuci/article/details/163973054)
+
++ [告诉我你冰箱里有什么，我帮你做一桌好菜：云厨 YunChef 具身交互智能食谱顾问](https://blog.csdn.net/weixin_62765017/article/details/164126747)
+
++ [DM数据库修改数据文件路径操作指南：提高数据库维护效率与数据安全性](https://blog.csdn.net/qq_41840843/article/details/164099436)
+
++ [【花雕学编程】Arduino BLDC 之化工园区有毒气体泄漏应急排查机器人](https://blog.csdn.net/weixin_41659040/article/details/164121021)
+
++ [合同、发票总是找不到？自建 Paperless-ngx，用 OCR 管理家庭和办公文档](https://blog.csdn.net/2501_91062530/article/details/164062240)
+
++ [群晖NAS部署Trilium Notes：搭建你的私人知识库，并通过cpolar实现公网远程访问](https://blog.csdn.net/mrdeam/article/details/164055218)
+
++ [Node.js 安全——原型链污染与命令执行案例深度剖析](https://blog.csdn.net/cui_yonghua/article/details/164136088)
+
++ [爬虫转大模型到底解决了什么问题？](https://blog.csdn.net/m0_62051288/article/details/164115477)
+
++ [HarmonyOS 手机PC协同实战——跨设备拖拽从原理到落地](https://blog.csdn.net/u014727709/article/details/164125488)
+
++ [C#调用Intel NPU实现YOLOv26极速推理：OpenVINO工业视觉加速实践](https://blog.csdn.net/guimotion/article/details/164126888)
+
++ [当战术教官住进道具库：三角洲行动具身交互智能解读系统实战手记](https://blog.csdn.net/qq_62817113/article/details/164126455)
+
++ [Vibe Coding 月提交量 29 亿次之后：GitHub 的危机、Azure 迁移，以及 .NET 的机会](https://blog.csdn.net/afjkdajs/article/details/164053847)
+
++ [从零开始学网安，这份二百多 G 的学习地图请收好](https://blog.csdn.net/2503_90953556/article/details/164125365)
+
++ [缺血性脑卒中“金标准“模型深度解析：MCAO/R大鼠造模原理、操作要点与评估方法](https://blog.csdn.net/CCC631341/article/details/164114834)
+
++ [共享内存的网络聊天室](https://blog.csdn.net/2503_93247646/article/details/164098183)
+

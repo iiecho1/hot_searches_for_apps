@@ -161,3 +161,23 @@
 
 + [中使馆提醒中国公民切勿前往南基伍省等刚果（金）东部地区](https://news.cctv.com/2026/08/24/ARTIJuadVK0JFaxmEjkwpvGO260824.shtml)
 
++ [伊朗官员：美国转向经济施压表明其军事打击效果有限](https://news.cctv.com/2026/08/28/ARTIlPUDyjO6Xcxt5XFHsgTu260828.shtml)
+
++ [韩国一工厂发生火灾致3死4伤](https://news.cctv.com/2026/08/28/ARTIRE03FGblJkcTzqLEnVn2260828.shtml)
+
++ [日本军医实施本土人体实验罪证原件公布](https://news.cctv.com/2026/08/28/ARTIXrMFxeJdZ9mgFezpwOij260828.shtml)
+
++ [阿根廷7月石油日产量创历史新高](https://news.cctv.com/2026/08/28/ARTIUYooesMal7O8zQ2KK2c7260828.shtml)
+
++ [欧航局再次发射成像卫星 用于天气预报](https://news.cctv.com/2026/08/28/ARTIUrtpevYuluYKYnpcHv13260828.shtml)
+
++ [美军使用激光击落3架贩毒集团无人机](https://news.cctv.com/2026/08/28/ARTIvXo1Zbz7HSbpgWiJBa2q260828.shtml)
+
++ [尼泊尔北部山洪遇难人数升至469人](https://news.cctv.com/2026/08/28/ARTIASCb5anY2DOL5AgAjdtT260828.shtml)
+
++ [美军称已清除霍尔木兹海峡国际航道水雷](https://news.cctv.com/2026/08/28/ARTInZpPORZga3p7FeOEf8Uf260828.shtml)
+
++ [刚果（金）启动埃博拉疫苗接种](https://news.cctv.com/2026/08/28/ARTIGZaNJTKEWevRJanj09pQ260828.shtml)
+
++ [俄国家杜马主席敦促日本正视本国侵略史](https://news.cctv.com/2026/08/28/ARTINENBeVrBaIH3DkObptB0260828.shtml)
+
