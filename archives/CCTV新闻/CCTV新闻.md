@@ -201,3 +201,29 @@
 
 + [尼泊尔山洪遇难人数升至616人](https://news.cctv.com/2026/08/29/ARTI1zWHTIanmcSXIOLgH4Uv260829.shtml)
 
++ [尼泊尔山洪遇难人数升至675人](https://news.cctv.com/2026/08/29/ARTIj45ZuQGeUCMaAcrynyVx260829.shtml)
+
++ [吉尔吉斯斯坦各界期待习近平主席对吉进行国事访问](https://news.cctv.com/2026/08/29/ARTI1UiiUKEE0SZ05NE5XPB8260829.shtml)
+
++ [中吉务实合作仍具可观拓展空间](https://news.cctv.com/2026/08/29/ARTI5whK9H9fRyOQnbnkOFnk260829.shtml)
+
++ [总台精品影视节目吉尔吉斯斯坦和埃及展播活动启动](https://news.cctv.com/2026/08/29/ARTI8Kz3MVsarsn1GB9xaBVG260829.shtml)
+
++ [吉尔吉斯斯坦各界表示习近平主席署名文章为开创两国关系高质量发展新局面指引方向](https://news.cctv.com/2026/08/29/ARTIYhB4hvEnKEkipl8gQqqu260829.shtml)
+
++ [尼泊尔山洪遇难人数升至669人](https://news.cctv.com/2026/08/29/ARTITUZ3poDbfyZIA9SMo8pO260829.shtml)
+
++ [尼日尔国防部称局势已得到控制](https://news.cctv.com/2026/08/29/ARTIDMgSkHYc5xW3qSU7PWae260829.shtml)
+
++ [尼日尔国家电视台恢复播出](https://news.cctv.com/2026/08/29/ARTI1rbmHBqxh6XJpeiMqGi3260829.shtml)
+
++ [在埃及，“中国”就在身边](https://news.cctv.com/2026/08/29/ARTICWCAlWzBLEz4K70k8x5Q260829.shtml)
+
++ [心相近｜中吉共续文化丝路情缘](https://news.cctv.com/2026/08/29/ARTIKXzvyJNwqLqgR0mzczXE260829.shtml)
+
++ [尼日尔军政府发布声明呼吁民众保持冷静](https://news.cctv.com/2026/08/29/ARTI81fVDahcpZEJMbGMy80I260829.shtml)
+
++ [尼日尔总统府附近道路遭封锁 国家电视台已停播](https://news.cctv.com/2026/08/29/ARTIZ5z3smo7jpz70gBVGUcN260829.shtml)
+
++ [中国驻尼日尔使馆提醒中国公民和企业加强安全防范](https://news.cctv.com/2026/08/29/ARTItvBVHwWkWkJLU8yW5mPK260829.shtml)
+

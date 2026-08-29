@@ -47,3 +47,13 @@
 
 + [安卓版 airtag，寻找变现机会](https://www.v2ex.com/t/1237938)
 
++ [把股票行情放进了 MacBook 刘海里，开发了一个叫 Stock Island 的 mac app](https://www.v2ex.com/t/1237988)
+
++ [所有程序员都用 AI 的话，那以后怎么判断能力的高低？](https://www.v2ex.com/t/1238034)
+
++ [做一个 iOS 27 风格的 V2EX 客户端 - 关于这个应用的上架说明以及三轮审核情况](https://www.v2ex.com/t/1238002)
+
++ [国内的 qoder cli 和 codebuddy cli 怎么选？都是接 ds 的情况下](https://www.v2ex.com/t/1238009)
+
++ [阿里云代理这么便宜？](https://www.v2ex.com/t/1238012)
+

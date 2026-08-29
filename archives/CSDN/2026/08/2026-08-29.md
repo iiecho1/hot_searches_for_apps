@@ -157,3 +157,27 @@
 
 + [GitHub Copilot - 尝试配置和使用一下Microsoft Fabric Core MCP Server](https://blog.csdn.net/limingdinghao/article/details/164000196)
 
++ [Codex修改异步代码后为什么总出现Promise问题？await、并发执行与异常处理排查](https://blog.csdn.net/2601_96395508/article/details/164171216)
+
++ [Redis 故障复盘案例：线上事故分析与预防措施总结](https://blog.csdn.net/qq_41840843/article/details/164154922)
+
++ [obsidian知识库第二弹——打造卡帕西大神同款知识库](https://blog.csdn.net/2601_95483298/article/details/164119863)
+
++ [DolphinDB 日志管理实战：从配置、采集到审计的完整链路（基于 2.x）](https://blog.csdn.net/sinat_41617212/article/details/164127039)
+
++ [SpringBoot3+XXL-Job+Redis 合同到期提醒：窗口扫描、SETNX 幂等与收付款逾期打标](https://blog.csdn.net/zhouzhongyan/article/details/164097726)
+
++ [【计算机网络 | 网络层10：OSPF 与 BGP：自治系统内部和互联网之间如何路由？】](https://blog.csdn.net/DdigitalNomad/article/details/164146190)
+
++ [【花雕学编程】Arduino BLDC 之抗辐射环境自主导航与辐射监测机器人](https://blog.csdn.net/weixin_41659040/article/details/164153004)
+
++ [kubernetes(k8s)集群之pod管理](https://blog.csdn.net/xiaolin_ss/article/details/164097783)
+
++ [GitHub 热榜项目：日榜（2026-08-28）](https://blog.csdn.net/u130130/article/details/164153526)
+
++ [【智能优化算法】冠状病毒搜索优化器 (CVSO)附Matlab代码](https://blog.csdn.net/matlab_dingdang/article/details/164168911)
+
++ [一个 Python 脚本 + LLM 怎么替代向量检索？ProjQA 技能架构原理深度解析](https://blog.csdn.net/xuan_lu/article/details/164153861)
+
++ [读懂 MCP：能力、传输与多 Server 连接](https://blog.csdn.net/2403_87933448/article/details/164121995)
+
