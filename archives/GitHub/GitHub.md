@@ -41,3 +41,23 @@
 
 + [livekit/agents](https://github.com/livekit/agents)
 
++ [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+
++ [p-e-w/heretic](https://github.com/p-e-w/heretic)
+
++ [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+
++ [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
++ [every-app/open-seo](https://github.com/every-app/open-seo)
+
++ [Osmantic/ODS](https://github.com/Osmantic/ODS)
+
++ [actions/checkout](https://github.com/actions/checkout)
+
++ [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)
+
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [workweave/router](https://github.com/workweave/router)
+

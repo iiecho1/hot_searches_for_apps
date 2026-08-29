@@ -101,3 +101,11 @@
 
 + [RAG Baseline：BM25、Embedding、Rerank 与引用评测](https://blog.csdn.net/weixin_44369324/article/details/164154305)
 
++ [专栏导读：关注龍德明宇，读点AI哲学](https://blog.csdn.net/fanli1998/article/details/164109968)
+
++ [为什么有了 MAC 地址还需要 IP 地址](https://blog.csdn.net/2501_90744270/article/details/164149630)
+
++ [工业物联网时序数据库选型研究](https://blog.csdn.net/qq_39866533/article/details/164108931)
+
++ [SpringCloud 微服务开发笔记](https://blog.csdn.net/Komatsu_1137/article/details/145500709)
+

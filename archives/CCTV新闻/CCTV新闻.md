@@ -161,3 +161,5 @@
 
 + [印尼勒沃托比火山喷发 火山灰柱高达2500米](https://news.cctv.com/2026/08/27/ARTIJFjbjML0G6jzZ5tYZncg260827.shtml)
 
++ [美伊战事暴露美国霸权“系统性失能”](https://news.cctv.com/2026/08/30/ARTIVHAzQrdyQwxZzXjCLMvp260829.shtml)
+
