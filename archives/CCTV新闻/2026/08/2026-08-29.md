@@ -161,3 +161,27 @@
 
 + [西班牙政府召开国家安全委员会会议应对休达移民危机](https://news.cctv.com/2026/08/25/ARTIxmlEPhvkbSYetEXwVKe6260825.shtml)
 
++ [《联合国防治荒漠化公约》COP17闭幕 “中国角”受到各方广泛关注](https://news.cctv.com/2026/08/29/ARTI1kwxdWVqCEtHMXMjTzdU260829.shtml)
+
++ [中方强调单靠军事手段无法解决海地危机](https://news.cctv.com/2026/08/29/ARTIV98CSpwjD38MvO12so8T260829.shtml)
+
++ [巴西南部发生交通事故 已造成5人死亡](https://news.cctv.com/2026/08/29/ARTIauwB0P8xAhZity5dNhFI260829.shtml)
+
++ [泽连斯基称设定每天1000架无人机打击俄罗斯的目标](https://news.cctv.com/2026/08/29/ARTI635nh5RvWSSLONxshcfb260829.shtml)
+
++ [特朗普宣布将创建“美国太空学院”](https://news.cctv.com/2026/08/29/ARTIMipMJTJcsQCpPn1UfKmw260829.shtml)
+
++ [伊朗最高领袖：禁止任何有损社会凝聚力的行为](https://news.cctv.com/2026/08/29/ARTIKWaekzwllqPeVkE1I1ZS260829.shtml)
+
++ [美政府就邮寄投票新规被叫停正式提起上诉](https://news.cctv.com/2026/08/29/ARTIOtzsigaJGcHDjVCu0mhT260829.shtml)
+
++ [欧洲今夏“超额死亡人数”逾3.5万 多重风险敲响警钟](https://news.cctv.com/2026/08/29/ARTI6wimPgZZc3mXO5zoICQf260828.shtml)
+
++ [美伊战事几近“榨干”欧洲“爱国者”导弹库存](https://news.cctv.com/2026/08/29/ARTIW7sslaAv6S5bT6EKALp9260828.shtml)
+
++ [日本陆上自卫队对强闯中国使馆的村田晃大作出免职处分](https://news.cctv.com/2026/08/29/ARTIHLXC4HiHyC46P1jYAy3N260828.shtml)
+
++ [200多吨水母入侵 法国最大核电站部分停运](https://news.cctv.com/2026/08/29/ARTIuVPMcF3U91EGAGrYFgfh260828.shtml)
+
++ [巴西发现2.54亿年前远古鱼类新物种化石](https://news.cctv.com/2026/08/28/ARTIol607Ut7YgazjoaxL2kH260828.shtml)
+

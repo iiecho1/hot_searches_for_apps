@@ -101,3 +101,23 @@
 
 + [部署 Portainer CE，把日志、镜像和数据卷搬进网页](https://blog.csdn.net/2602_94956987/article/details/164125002)
 
++ [InfluxDB→KaiwuDB时序数据模型设计改造](https://blog.csdn.net/u014727709/article/details/164125627)
+
++ [【CNN-BiLSTM-attention】基于高斯混合模型聚类的风电场短期功率预测方法（Python&matlab代码实现）](https://blog.csdn.net/weixin_61181717/article/details/164155609)
+
++ [【路径规划】使用 STOMP 进行路径规划和优化（Matlab实现）](https://blog.csdn.net/m0_73907476/article/details/164154898)
+
++ [Redis Pipeline 与 Batch：批量操作的正确姿势与网络开销分析](https://blog.csdn.net/qq_41840843/article/details/164154872)
+
++ [为什么有了 MAC 地址还需要 IP 地址](https://blog.csdn.net/2501_90744270/article/details/164149630)
+
++ [Agent能跑Demo却扛不住上线？LangGraph把权限日志和流程控死](https://blog.csdn.net/2601_96189167/article/details/164116375)
+
++ [Hugging Face｜ LeRobot 源码分析：803 个 Python 文件如何支撑机器人学习全流程](https://blog.csdn.net/TunerT_TQ/article/details/164096422)
+
++ [Kafka 去 ZooKeeper 实战评估：KRaft 模式架构解析与生产落地决策指南](https://blog.csdn.net/Sayai/article/details/164152584)
+
++ [深度学习实战-基于ResNet50的手指图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/162846318)
+
++ [C++11 工程级应用 04：告别五花八门的初始化，一套大括号走天下](https://blog.csdn.net/2503_92624912/article/details/164152780)
+
