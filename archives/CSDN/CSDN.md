@@ -121,3 +121,39 @@
 
 + [C++11 工程级应用 04：告别五花八门的初始化，一套大括号走天下](https://blog.csdn.net/2503_92624912/article/details/164152780)
 
++ [Windows版ChatGPT启动失败Unable-to-locate-Codex-CLI-binary解决方法](https://blog.csdn.net/m0_73879806/article/details/164143924)
+
++ [AI Agent 的经济账：算力、模型路由与真实 ROI](https://blog.csdn.net/weixin_74809706/article/details/163614155)
+
++ [如何通过GESP C++七级](https://blog.csdn.net/dllglvzhenfeng/article/details/164164077)
+
++ [ESP/ESC电子稳定系统：汽车主动安全的隐形防线（工程师科普）](https://blog.csdn.net/weixin_62244995/article/details/163958025)
+
++ [一个 Agent 够用，还是得组个团队？——AI Agent 架构选型的工程真相](https://blog.csdn.net/2401_89111612/article/details/164067152)
+
++ [MySQL表的约束详解](https://blog.csdn.net/jiaomorning/article/details/164089420)
+
++ [【从0开始学习计算机网络】| WebSocket-握手、全双工和心跳](https://blog.csdn.net/2503_94545876/article/details/164125905)
+
++ [网安学习路线规划，从脚本小子到职业安全工程师的进阶路](https://blog.csdn.net/yiyiyi0322/article/details/164117707)
+
++ [鸿蒙跨设备文件传输深度实战：从分布式目录到星闪高速通道的全链路解析](https://blog.csdn.net/u014727709/article/details/164126032)
+
++ [运维如何转安全（个人经验篇）](https://blog.csdn.net/2301_77732591/article/details/164153218)
+
++ [【波束成形】自适应MVDR波束成形和人工噪声实现无人机链路的运动感知物理层安全（多普勒感知的Rician衰落通道）Matlab实现](https://blog.csdn.net/matlab_dingdang/article/details/164168825)
+
++ [基于遗传算法 粒子群算法 灰狼算法的板式翅片热交换器（PFHE）附Matlab代码](https://blog.csdn.net/m0_60703264/article/details/164168838)
+
++ [【花雕学编程】Arduino BLDC 之AGV机器人模糊负载均衡调度（无线通信）](https://blog.csdn.net/weixin_41659040/article/details/164141213)
+
++ [Spring Cloud LoadBalancer 和 Feign的重试机制](https://blog.csdn.net/qq_31532983/article/details/164147183)
+
++ [【Matlab】三维网格划分与质量优化程序](https://blog.csdn.net/unbelievevc/article/details/164163673)
+
++ [告别原始编辑器：VS Code 搭建 中微CMS IDE 编译环境完整指南](https://blog.csdn.net/linyongui/article/details/164123185)
+
++ [深入理解大模型Agent：从理论到年报ReAct Agent实战](https://blog.csdn.net/weixin_51368613/article/details/164098377)
+
++ [GitHub Copilot - 尝试配置和使用一下Microsoft Fabric Core MCP Server](https://blog.csdn.net/limingdinghao/article/details/164000196)
+

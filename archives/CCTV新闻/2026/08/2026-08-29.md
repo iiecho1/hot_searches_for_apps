@@ -185,3 +185,19 @@
 
 + [巴西发现2.54亿年前远古鱼类新物种化石](https://news.cctv.com/2026/08/28/ARTIol607Ut7YgazjoaxL2kH260828.shtml)
 
++ [津巴布韦发生两车相撞事故 致27人死亡](https://news.cctv.com/2026/08/29/ARTIxn1xF6DXQa603HrrJfn7260829.shtml)
+
++ [扎波罗热核电站外部供电持续中断 备用能源仅够约10天](https://news.cctv.com/2026/08/29/ARTITRyEFrhB1xxxcxFXwJZW260829.shtml)
+
++ [尼日尔总统府附近发生激烈枪战](https://news.cctv.com/2026/08/29/ARTIvgrxw82Y9Y1urX6M2Wgj260829.shtml)
+
++ [德国一难民安置中心起火 数百人紧急疏散](https://news.cctv.com/2026/08/29/ARTIgQS0oLSLYc3opGPG3Igl260829.shtml)
+
++ [尼泊尔山洪遇难人数升至626人 2426人失联](https://news.cctv.com/2026/08/29/ARTIkwg8CAzhp3yl3fPtEeWq260829.shtml)
+
++ [数千移民仍滞留休达 西班牙求助欧盟](https://news.cctv.com/2026/08/29/ARTIJRCB7DDe9yLnZmqYIlZW260829.shtml)
+
++ [联合国欧洲经济委员会警告：高温与极端干旱威胁欧洲多国森林健康](https://news.cctv.com/2026/08/29/ARTIUZt1WfWI1YqWKNMiN1QI260829.shtml)
+
++ [尼泊尔山洪遇难人数升至616人](https://news.cctv.com/2026/08/29/ARTI1zWHTIanmcSXIOLgH4Uv260829.shtml)
+
