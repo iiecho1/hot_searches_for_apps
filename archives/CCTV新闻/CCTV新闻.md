@@ -163,3 +163,11 @@
 
 + [美伊战事暴露美国霸权“系统性失能”](https://news.cctv.com/2026/08/30/ARTIVHAzQrdyQwxZzXjCLMvp260829.shtml)
 
++ [伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡](https://news.cctv.com/2026/08/30/ARTIYEAMe8VPjcidEJNab8fs260830.shtml)
+
++ [尼日尔首都一军事基地发生未遂兵变](https://news.cctv.com/2026/08/30/ARTIfn9ieuvp4O0WDoQoCGbi260830.shtml)
+
++ [以国家安全总局证实以总理长子在美国曾遭安全威胁](https://news.cctv.com/2026/08/30/ARTIxteu3Kf2YdqNv86azHsR260830.shtml)
+
++ [伊朗称在其境内捣毁一美以相关“恐怖分子团伙”](https://news.cctv.com/2026/08/30/ARTIRNOmXUW3BKDc3W1jTxlO260829.shtml)
+
