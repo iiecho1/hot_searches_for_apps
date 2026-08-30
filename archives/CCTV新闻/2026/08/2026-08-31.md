@@ -161,3 +161,5 @@
 
 + [伊朗战事快速消耗美海军预算](https://news.cctv.com/2026/08/28/ARTIPoXWeKj2ZFZJSik8SAWu260828.shtml)
 
++ [塞浦路斯渡轮倾覆事故已致7人死亡23人失踪](https://news.cctv.com/2026/08/31/ARTIvXc4vuhujNPcJv3uhI7l260831.shtml)
+

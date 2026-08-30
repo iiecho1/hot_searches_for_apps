@@ -21,3 +21,5 @@
 
 + [智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号](https://www.v2ex.com/t/1238121)
 
++ [SceneMint Pro - 做了个 AI 出图网站，便宜大碗！](https://www.v2ex.com/t/1238126)
+

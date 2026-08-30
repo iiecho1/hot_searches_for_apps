@@ -101,3 +101,37 @@
 
 + [Cloudflare Agents Week 2026 拆解：Code Mode、Agent Memory 与 MCP 治理如何把 Agent 推进生产](https://blog.csdn.net/deepseek23/article/details/164175039)
 
++ [鸿蒙原生应用开发实战：从零搭建家庭能源管理 App，深度集成蓝耘元生代 MaaS 实现 AI 流式对话](https://blog.csdn.net/weixin_52908342/article/details/164192576)
+
++ [【游戏开发】xLua 性能优化技巧](https://blog.csdn.net/zhangay1998/article/details/164189784)
+
++ [YOLO26 计算机视觉 - YOLO26数据集与标注](https://blog.csdn.net/caoli201314/article/details/164172928)
+
++ [LoPace（Lossless Optimized Prompt Accurate Compression Engine）:无损提示压缩，实现存储层零损耗优化](https://blog.csdn.net/qq_38998213/article/details/164192454)
+
++ [工业 IoT 告警治理实战：去重、抖动抑制与群发告警的收敛](https://blog.csdn.net/Rqaqedamancy/article/details/164172992)
+
++ [网易UU远程用了半年，聊聊它是怎么把“延迟、画质、流畅“同时拉满的](https://blog.csdn.net/sinat_41617212/article/details/164154172)
+
++ [Python异常处理完整指南：异常类型、捕获语句、主动抛出、自定义异常与实战](https://blog.csdn.net/Augustsky12138/article/details/164174183)
+
++ [基于Flocking和PPO深度强化学习的无人机群控制算法MATLAB仿真](https://blog.csdn.net/ccsss22/article/details/164193272)
+
++ [一套官方 Skill，两套兼容库：我把示例 SQL 跑了一遍](https://blog.csdn.net/weixin_42329915/article/details/164174285)
+
++ [不想让家庭照片散在几台手机里：NAS 部署 Immich，自动备份、搜索和整理照片](https://blog.csdn.net/2301_80840905/article/details/164193444)
+
++ [C# .NET 周刊 ｜2026 年 8 月 1 期](https://blog.csdn.net/qq_27441069/article/details/164153811)
+
++ [基于微信小程序的校园拼车系统设计与实现（源码+文档+讲解视频）](https://blog.csdn.net/2602_96754328/article/details/164114017)
+
++ [【架构专栏】2.5 计算机网络](https://blog.csdn.net/weixin_42081167/article/details/163646690)
+
++ [【Vue教程】使用Vite快速搭建前端工程化项目 Vue3 Vite Node.js](https://blog.csdn.net/2601_96206374/article/details/164170650)
+
++ [C++ 从零手写高并发 HTTP 服务器：epoll+Reactor、请求解析、静态资源、状态码、简易路由、压力测试](https://blog.csdn.net/2401_86195313/article/details/164165509)
+
++ [从英伟达 GPU 到 RK3566 实机：Microduck 25 厘米强化学习机器人部署手记](https://blog.csdn.net/akb48fan710/article/details/164174553)
+
++ [【花雕学编程】Arduino BLDC 之危化品管道巡检机器人（磁导航+路径节点压缩）](https://blog.csdn.net/weixin_41659040/article/details/164183629)
+
