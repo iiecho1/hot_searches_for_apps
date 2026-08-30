@@ -61,3 +61,23 @@
 
 + [workweave/router](https://github.com/workweave/router)
 
++ [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
++ [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
++ [majd/ipatool](https://github.com/majd/ipatool)
+
++ [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+
++ [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+
++ [pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)
+
++ [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
+
++ [corsairdev/corsair](https://github.com/corsairdev/corsair)
+
++ [colinhacks/zod](https://github.com/colinhacks/zod)
+

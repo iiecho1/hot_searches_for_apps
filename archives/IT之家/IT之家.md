@@ -25,3 +25,27 @@
 
 + [全新智己 L6 上市，限时权益价 19.99 万元起](https://m.ithome.com/html/995686.htm)
 
++ [小米 18 Fold 首发长鑫 LPDDR6 内存，央视财经报道称“中国半导体两个好消息”](https://m.ithome.com/html/996099.htm)
+
++ [微软 Win11 原生 WinUI 框架现已开源](https://m.ithome.com/html/996042.htm)
+
++ [网易云音乐海报现鸿蒙 HarmonyOS：九月，宜听歌](https://m.ithome.com/html/996126.htm)
+
++ [小米 18 Pro 系列手机有望首发：防窥屏界面曝光，支付 / 转账等 4 类敏感场景自动开启](https://m.ithome.com/html/996093.htm)
+
++ [华为李小龙“认领”古早三折叠手机设计草稿：花了 11 年把梦想照进现实](https://m.ithome.com/html/996109.htm)
+
++ [R 星确认《GTA6》新增压制火力机制，可避免击杀警察与无辜平民](https://m.ithome.com/html/996046.htm)
+
++ [苹果 M5 Max MacBook Pro 供电边界：极限负载下每小时掉电 12%](https://m.ithome.com/html/996111.htm)
+
++ [消息称 Pura X View 阔直板手机将首发华为分享远程发送功能，当前没有文件大小 / 网速限制](https://m.ithome.com/html/996056.htm)
+
++ [徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一](https://m.ithome.com/html/996075.htm)
+
++ [韩国政府计划向全体国民提供免费 AI 服务](https://m.ithome.com/html/996050.htm)
+
++ [华为 MatePad Mini 平板获鸿蒙 HarmonyOS 7.0.0.105 更新，新增 HiCar 汽车互联](https://m.ithome.com/html/996036.htm)
+
++ [华为余承东：Mate XT 2 非凡大师展开后依旧是业界最薄、尺寸最大折叠屏手机](https://m.ithome.com/html/996091.htm)
+

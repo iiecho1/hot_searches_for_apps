@@ -183,3 +183,13 @@
 
 + [中国援助尼泊尔首批救灾物资运抵加德满都](https://news.cctv.com/2026/08/30/ARTI92EialyL3L2CrpuK2fK3260830.shtml)
 
++ [初步计票结果显示冰岛公投反对重启加入欧盟谈判](https://news.cctv.com/2026/08/30/ARTIkTX1NvIDYztPBAmswcFG260830.shtml)
+
++ [习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问](https://news.cctv.com/2026/08/30/ARTINbOQ0LhlWAtkY8gWr5sV260830.shtml)
+
++ [韩国总统府公布新任内阁人选 多名部长级官员将更换](https://news.cctv.com/2026/08/30/ARTIrO34uapOaLFi3MDPsDog260830.shtml)
+
++ [伊朗最高领袖：解决地区问题的出路在于团结一致](https://news.cctv.com/2026/08/30/ARTIyp9V4PQmCJI9CQvsCXcH260830.shtml)
+
++ [瑞士枪击事件已致1死5伤 警方展开大规模搜捕](https://news.cctv.com/2026/08/30/ARTI2SovI9g70PqFTyWNQQKX260830.shtml)
+

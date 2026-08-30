@@ -35,3 +35,13 @@
 
 + [业务系统开发语言从 PHP / Python 转向 Go 如何实现数据的存储](https://www.v2ex.com/t/1238085)
 
++ [丈母娘医院手术出院半月后从体内取出一块纱布该如何维权](https://www.v2ex.com/t/1238162)
+
++ [德芙巧克力 求平替](https://www.v2ex.com/t/1238124)
+
++ [求 100 USD AI 订阅推荐， grok 还是 gemini？](https://www.v2ex.com/t/1238150)
+
++ [工业软件行业对创业公司机会怎么样](https://www.v2ex.com/t/1238113)
+
++ [iPhone 上用 Gmail 还是邮件 App](https://www.v2ex.com/t/1238151)
+

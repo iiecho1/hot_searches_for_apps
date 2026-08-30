@@ -153,3 +153,35 @@
 
 + [HarmonyOS 跨设备调试技巧: 从 hdc 命令行到分布式链路追踪的全栈实战](https://blog.csdn.net/u014727709/article/details/164153142)
 
++ [【AI大模型接入SDK】WebSocket & SSE 协议](https://blog.csdn.net/2401_89899187/article/details/164179780)
+
++ [【AI智能体】Harness Engineering 驾驭工程从使用到项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/164031319)
+
++ [备份文件可用性如何持续校验——备份可靠性与长期归档实践](https://blog.csdn.net/u014727709/article/details/164125065)
+
++ [计算机网络‑IP 协议解析：核心特性总结](https://blog.csdn.net/2502_93799892/article/details/164151276)
+
++ [告诉我你冰箱里有什么，我帮你做一桌好菜：云厨 YunChef 具身交互智能食谱顾问](https://blog.csdn.net/weixin_62765017/article/details/164126747)
+
++ [【电商项目】商品搜索模块｜核心问题深度复盘（含ES设计、线上排查、性能优化）](https://blog.csdn.net/2601_95808841/article/details/164174040)
+
++ [Lua 上值（UpValue）](https://blog.csdn.net/zhangay1998/article/details/164189642)
+
++ [【VLM】多模态MoE模型Qwen3.8-Flash（125B总参数，激活6B，外挂51B N-gram Embedding）](https://blog.csdn.net/qq_35812205/article/details/164190103)
+
++ [设计模式选型看协作成本](https://blog.csdn.net/alex_goden/article/details/164167461)
+
++ [【Linux 篇】数字世界的线程工坊 —— Linux 线程控制与自研线程库深度实战解析](https://blog.csdn.net/buhuizhiyuci/article/details/164118041)
+
++ [【架构专栏】2.6 计算机语言](https://blog.csdn.net/weixin_42081167/article/details/164174458)
+
++ [Hugging Face｜transformers.js 源码解析：JavaScript 如何在浏览器与 Node.js 中运行 Transformer 模型](https://blog.csdn.net/TunerT_TQ/article/details/164151199)
+
++ [阿里云实战——若依项目的迁移](https://blog.csdn.net/2301_78134996/article/details/164172783)
+
++ [Python异常处理完整指南：异常类型、捕获语句、主动抛出、自定义异常与实战](https://blog.csdn.net/Augustsky12138/article/details/164174183)
+
++ [ASC8T245S：把 8 位并行总线稳稳“跨过“电压域的双电源收发器](https://blog.csdn.net/ANSILIC/article/details/164140364)
+
++ [鸿蒙应用开发之家庭应急物资检查页深度实践：@Builder 三区拆解与状态色编码映射机制](https://blog.csdn.net/mrdeam/article/details/164174928)
+
