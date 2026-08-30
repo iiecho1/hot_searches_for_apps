@@ -125,3 +125,31 @@
 
 + [2026场地三维建模工具：Civil3D、InfraWorks、造形家对比](https://blog.csdn.net/m0_69539341/article/details/164150168)
 
++ [DolphinDB 高可用部署实战：从容灾设计到故障自动转移](https://blog.csdn.net/sinat_41617212/article/details/164127050)
+
++ [基于Java的高德地图公交路线检索服务集成实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/164174382)
+
++ [多台服务器别再挨个 SSH：部署哪吒监控，集中查看状态并配置异常告警](https://blog.csdn.net/qyj19920704/article/details/164115508)
+
++ [2026年远程控制软件选购指南：按人群场景预算一站式锁定最优解](https://blog.csdn.net/weixin_37800531/article/details/164126869)
+
++ [鸿蒙PC开发实战：用 CodeArts Agent + DevEco Studio 从零适配开源项目 Mockoon (CodeArts Agent高效赋能鸿蒙PC应用适配实战)](https://blog.csdn.net/weixin_52908342/article/details/164154866)
+
++ [SpringBoot3+Flowable 空审批人处理：自动通过、拒绝、指定成员与流程管理员怎么落地](https://blog.csdn.net/zhouzhongyan/article/details/164126246)
+
++ [【神经网络干货】当通信藏进噪声里：机器学习如何识别隐蔽无线传输？](https://blog.csdn.net/2402_84593233/article/details/164183596)
+
++ [Docker - 镜像的私有仓库搭建（Registry）与安全配置](https://blog.csdn.net/qq_41187124/article/details/157611591)
+
++ [仓颉语言原生 Coding Agent：cjh介绍，一个文件就是整个开发团队](https://blog.csdn.net/qq8864/article/details/164183572)
+
++ [Coze Studio 全方位解析：零代码搭建私有化AI智能体与自动](https://blog.csdn.net/ChailangCompany/article/details/164170577)
+
++ [AGI内生安全框架理论基石：核心学科、关联机理与应用场景报告（世毫九实验室原创研究）](https://blog.csdn.net/zxb_1222/article/details/164172544)
+
++ [GitHub 热榜项目 - 周榜(2026-08-30)](https://blog.csdn.net/u014390502/article/details/164186053)
+
++ [【AI应用--白话大模型（篇二）】《搞懂大模型：看懂应用场景，分清开源与闭源，上手 HuggingFace & 魔搭社区，理解大模型运行逻辑》](https://blog.csdn.net/2501_93351213/article/details/164173908)
+
++ [HarmonyOS 跨设备调试技巧: 从 hdc 命令行到分布式链路追踪的全栈实战](https://blog.csdn.net/u014727709/article/details/164153142)
+

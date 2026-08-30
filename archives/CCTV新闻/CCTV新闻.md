@@ -173,3 +173,13 @@
 
 + [改名风波再起 加拿大官员在安大略湖畔设立标牌](https://news.cctv.com/2026/08/30/ARTIMRtM0nZzMmkY4PScwuvA260830.shtml)
 
++ [我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人](https://news.cctv.com/2026/08/30/ARTIkZURsj5vl7rIxMCQrcsl260830.shtml)
+
++ [法官要求美国防部暂缓解雇《星条旗报》三名员工](https://news.cctv.com/2026/08/30/ARTIDGMUgueNiWT1YrrMVDL8260830.shtml)
+
++ [武契奇出席中塞合作人形机器人工厂量产仪式](https://news.cctv.com/2026/08/30/ARTIPvfrHGR8nBM42mnfFtRW260830.shtml)
+
++ [以总理谴责约旦河西岸犹太人定居者“暴力犯罪”](https://news.cctv.com/2026/08/30/ARTIea1BThBH5sYc7ukRTdZr260830.shtml)
+
++ [中国援助尼泊尔首批救灾物资运抵加德满都](https://news.cctv.com/2026/08/30/ARTI92EialyL3L2CrpuK2fK3260830.shtml)
+

@@ -21,3 +21,17 @@
 
 + [有买鸭子的吗？](https://www.v2ex.com/t/1238023)
 
++ [我的网站被入侵了，损失了几千块](https://www.v2ex.com/t/1238129)
+
++ [北京如果想中午吃饭健康又好吃](https://www.v2ex.com/t/1238108)
+
++ [独立做了一个 Mac 语音输入工具，终于有了第一个付费用户，却高兴不起来了](https://www.v2ex.com/t/1238099)
+
++ [刚哥开发新的编程语言 TypePHP，周三放到 Github ， 3 天 star 就快 900 个了,https://github.com/swoole/typephp，大家用 AI 体验下编程](https://www.v2ex.com/t/1238044)
+
++ [codex 今天凌晨又重置了么](https://www.v2ex.com/t/1238122)
+
++ [支持命令行操作开和关的电源市面上有吗？](https://www.v2ex.com/t/1238058)
+
++ [业务系统开发语言从 PHP / Python 转向 Go 如何实现数据的存储](https://www.v2ex.com/t/1238085)
+
