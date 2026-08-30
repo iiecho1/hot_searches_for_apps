@@ -163,3 +163,7 @@
 
 + [塞浦路斯渡轮倾覆事故已致7人死亡23人失踪](https://news.cctv.com/2026/08/31/ARTIvXc4vuhujNPcJv3uhI7l260831.shtml)
 
++ [美军中央司令部：已改变83艘商船航行路线](https://news.cctv.com/2026/08/31/ARTI38jfKmU717NjyX1X6KoE260831.shtml)
+
++ [佩斯科夫：俄美乌三方会晤需待协议最终敲定方可举行](https://news.cctv.com/2026/08/31/ARTIgAmQDN2oggOcGUcnsFmj260831.shtml)
+

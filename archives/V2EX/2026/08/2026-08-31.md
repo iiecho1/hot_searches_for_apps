@@ -23,3 +23,5 @@
 
 + [SceneMint Pro - 做了个 AI 出图网站，便宜大碗！](https://www.v2ex.com/t/1238126)
 
++ [不消费不结婚之类的都是“果”，那么“因”是什么？](https://www.v2ex.com/t/1238212)
+
