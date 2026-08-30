@@ -117,3 +117,11 @@
 
 + [从零开始学网安，这份二百多 G 的学习地图请收好](https://blog.csdn.net/2503_90953556/article/details/164125365)
 
++ [模拟器横评：电脑上看小说、追短剧用什么模拟器？MuMu、雷电、腾讯手游助手实测](https://blog.csdn.net/Dovis5884/article/details/164152279)
+
++ [2026-08-28｜ChatGPT Plus 与 Codex 实战：用 AI 编程为 Python 接口编写自动化测试的完整复盘](https://blog.csdn.net/dr_eric123/article/details/164154331)
+
++ [四大开源 Android 加固项目横向对比：Jiagu、nmmp、dpt-shell、XopProtector 深度测评](https://blog.csdn.net/m0_37706624/article/details/164138233)
+
++ [2026场地三维建模工具：Civil3D、InfraWorks、造形家对比](https://blog.csdn.net/m0_69539341/article/details/164150168)
+

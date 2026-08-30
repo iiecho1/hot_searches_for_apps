@@ -171,3 +171,5 @@
 
 + [伊朗称在其境内捣毁一美以相关“恐怖分子团伙”](https://news.cctv.com/2026/08/30/ARTIRNOmXUW3BKDc3W1jTxlO260829.shtml)
 
++ [改名风波再起 加拿大官员在安大略湖畔设立标牌](https://news.cctv.com/2026/08/30/ARTIMRtM0nZzMmkY4PScwuvA260830.shtml)
+
