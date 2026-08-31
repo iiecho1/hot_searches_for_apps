@@ -161,3 +161,7 @@
 
 + [日本陆上自卫队对强闯中国使馆的村田晃大作出免职处分](https://news.cctv.com/2026/08/29/ARTIHLXC4HiHyC46P1jYAy3N260828.shtml)
 
++ [欧盟将对ChatGPT等3家美国服务平台加强监管](https://news.cctv.com/2026/09/01/ARTIVMy0Di0MKasQuQpWhRMm260901.shtml)
+
++ [梅西宣布从阿根廷国家队退役](https://news.cctv.com/2026/09/01/ARTIAfA4So0j0kzRPiVSMnDL260901.shtml)
+

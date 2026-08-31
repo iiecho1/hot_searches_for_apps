@@ -25,3 +25,11 @@
 
 + [网友亲历“8.26”尼泊尔泥石流灾害，断网后使用华为手机卫星通信短信获救](https://m.ithome.com/html/996430.htm)
 
++ [华为投资控股有限公司 2026 上半年营收 4678 亿元，净利润 234 亿元](https://m.ithome.com/html/996578.htm)
+
++ [网易云音乐 9.5.80 版本上线鸿蒙尝鲜，界面和安卓版有所不同](https://m.ithome.com/html/996572.htm)
+
++ [我国 L3 / L4 自动驾驶强制国标正式文件发布，2027 年 7 月 1 日实施](https://m.ithome.com/html/996526.htm)
+
++ [搭载玄戒 O3 的小米平板 9 Pro Max 跑分曝光：GeekBench 单核 3474，多核 13229](https://m.ithome.com/html/996622.htm)
+
