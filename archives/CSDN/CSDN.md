@@ -149,3 +149,33 @@
 
 + [技术与情感交织的一生·终章](https://blog.csdn.net/michaelline/article/details/164184465)
 
++ [哈佛 CS50 计算机科学导论笔记（二）](https://blog.csdn.net/wizardforcel/article/details/164195860)
+
++ [【AI大模型】-DeepSeek Harness 深度解析](https://blog.csdn.net/zxc18344522713/article/details/164208421)
+
++ [从RAG落地到MCP实战：向量数据库融合架构的工程化体验](https://blog.csdn.net/qq_32682301/article/details/164195763)
+
++ [告别造假数据，直接连数据库查真实时序数据喂给TimechoAI大模型](https://blog.csdn.net/weixin_43151418/article/details/164164009)
+
++ [PyTorch计算机视觉——cWGAN-GP实现可控图像生成](https://blog.csdn.net/LOVEmy134611/article/details/162239452)
+
++ [大模型工程化实战（六）：OWASP LLM 2025 安全护栏——prompt injection 拦截 + 敏感信息脱敏的最小实现](https://blog.csdn.net/xiaobing259/article/details/164193351)
+
++ [SpringBoot3+Vue3 分析中心：经营总览、领域看板与积木报表怎么分工](https://blog.csdn.net/zhouzhongyan/article/details/164193863)
+
++ [《数据库往事-故事卷》开始了](https://blog.csdn.net/fly2nn/article/details/164193618)
+
++ [物联网场景InfluxDB迁移KaiwuDB实战：某工厂案例](https://blog.csdn.net/u014727709/article/details/164192738)
+
++ [Ollama 本地大模型部署实战：从下载到接入 IDE、Web 和 API](https://blog.csdn.net/vipxieliang/article/details/164206712)
+
++ [ARM ｜深度源码评测｜Arm‑Trusted‑Firmware(ATF)架构全景、安全固件工程审计与平台移植落地指南](https://blog.csdn.net/TunerT_TQ/article/details/164192548)
+
++ [MiniMax-H3 与 H3 Max 视频生成加速：从 1.95× 无损到 6.24× 的实测指南](https://blog.csdn.net/aidoudoulong/article/details/164207381)
+
++ [Codex 官方团队分享：如何把 Codex 用到极致？](https://blog.csdn.net/LLM_9528/article/details/164190945)
+
++ [Flutter + MNN 端侧大模型实战：手机离线跑 Qwen3.5 生成儿童故事](https://blog.csdn.net/qhvssonic/article/details/164203442)
+
++ [【Web UI 自动化】08 - 企业选型·报告·CI/CD](https://blog.csdn.net/2501_90821979/article/details/163729434)
+

@@ -177,3 +177,17 @@
 
 + [在比什凯克领略文化交融的城市风貌](https://photo.cctv.com/2026/08/31/PHOA04rqpSa0izl7Zeisffwu260831.shtml)
 
++ [扎波罗热核电站连续11天仅靠自有柴油发电机供电](https://news.cctv.com/2026/08/31/ARTIb5Ad5CP1cycWxlwGbA4M260831.shtml)
+
++ [尼泊尔泥石流灾害已致919人遇难](https://news.cctv.com/2026/08/31/ARTIlvS1HlR2t1cXOOXQjw6X260831.shtml)
+
++ [哈萨克斯坦总统任命卡林为副总统](https://news.cctv.com/2026/08/31/ARTID3BrkgkwWl6oce2ZxOLQ260831.shtml)
+
++ [经纬线·比什凯克，习主席第一次出席上合峰会的地方](https://news.cctv.com/2026/08/31/ARTISkix2AVht9jOFbYfWSuV260831.shtml)
+
++ [特写：“您是我们的家人”](https://news.cctv.com/2026/08/31/ARTIp2jOTv8ncykhQRU1TISu260831.shtml)
+
++ [尼泊尔泥石流灾害已致903人遇难](https://news.cctv.com/2026/08/31/ARTI46Ap0tirJtxsAAsIhWxE260831.shtml)
+
++ [伊朗称在霍尔木兹海峡上空击落美军MQ－9无人机](https://news.cctv.com/2026/08/31/ARTI2IceWFQZl8riMO2VfU9G260831.shtml)
+
