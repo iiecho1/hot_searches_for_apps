@@ -137,3 +137,15 @@
 
 + [AI Agent时代的网络安全新挑战：从工具调用到 MCP，如何保护智能体安全](https://blog.csdn.net/yiyiyi0322/article/details/164189929)
 
++ [YOLO26 计算机视觉 - 训练自己的 YOLO26 模型](https://blog.csdn.net/caoli201314/article/details/164192959)
+
++ [草莓成熟度目标检测数据集：3类别、2,000张图像 | 目标检测](https://blog.csdn.net/dgw25sf/article/details/164174254)
+
++ [【花雕学编程】Arduino BLDC 之霍尔传感器阵列磁导航管道巡检机器人](https://blog.csdn.net/weixin_41659040/article/details/164203157)
+
++ [【LibreCAD 2D架构】从鼠标点击到屏幕像素：LibreCAD绘图架构全链路解析之程序启动与GUI初始化](https://blog.csdn.net/2302_80177460/article/details/164153511)
+
++ [MosePay正式集成进GCash上线：AI原生Web3支付，赋能中小微实体升级](https://blog.csdn.net/2401_88856124/article/details/164191734)
+
++ [技术与情感交织的一生·终章](https://blog.csdn.net/michaelline/article/details/164184465)
+

@@ -167,3 +167,13 @@
 
 + [佩斯科夫：俄美乌三方会晤需待协议最终敲定方可举行](https://news.cctv.com/2026/08/31/ARTIgAmQDN2oggOcGUcnsFmj260831.shtml)
 
++ [瑞士枪击事件致3名意大利公民伤亡，梅洛尼发声](https://news.cctv.com/2026/08/31/ARTIZDhBFcvbXu6p4FY5JxSb260831.shtml)
+
++ [日本“进贡”丑闻发酵 福冈县又一涉事官员考虑辞职](https://news.cctv.com/2026/08/31/ARTIyG0V7JwplZs2E6rJkeb4260831.shtml)
+
++ [美军称对伊朗布雷力量采取了“有限且精准”的行动](https://news.cctv.com/2026/08/31/ARTInXpx56P0ZeQ4jE9Rcfyg260831.shtml)
+
++ [冰岛掠影](https://photo.cctv.com/2026/08/31/PHOAFPVBRmWjd2yUHtgGZ1ah260831.shtml)
+
++ [在比什凯克领略文化交融的城市风貌](https://photo.cctv.com/2026/08/31/PHOA04rqpSa0izl7Zeisffwu260831.shtml)
+
