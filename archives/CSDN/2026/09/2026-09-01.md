@@ -161,3 +161,29 @@
 
 + [Maven+SpringBoot](https://blog.csdn.net/Zzzzmo_/article/details/161839202)
 
++ [从本地 AI 到远程工作台：OpenClaw 配合工具，解锁 NAS、小游戏和远程桌面](https://blog.csdn.net/COLLINSXU/article/details/164259720)
+
++ [基于 Qwen3.8-Max 构建 AI 合同精审系统：文档解析、多轮条款分析 Pipeline 工程实战](https://blog.csdn.net/weixin_62765017/article/details/164257935)
+
++ [DeepSeek Harness 完全指南：从零搭建你的第一个 AI Agent 工作流](https://blog.csdn.net/beautifulmemory/article/details/164257395)
+
++ [手机-笔电-等数码产品-电池健康的一些数据-2026](https://blog.csdn.net/ZhangRelay/article/details/164260988)
+
++ [我把 OpenClaw 装进旧安卓手机后，又折腾了 3 天：飞书、ADB、SSH 全部打通](https://blog.csdn.net/weixin_44976692/article/details/164258993)
+
++ [深入 MySQL 网络通信：客户端如何与服务端建立连接？](https://blog.csdn.net/qq_62538912/article/details/164231537)
+
++ [【AI大模型接入SDK】httplib Request参数与HTTP流式响应](https://blog.csdn.net/2401_89899187/article/details/164256769)
+
++ [【AVDTP】规范精讲[10]: 吃透上层信令接口，掌握音视频流的控制中枢](https://blog.csdn.net/weixin_37800531/article/details/164126788)
+
++ [开学季只带平板不带电脑?用ToDesk远控改作业、传文件、打游戏全搞定](https://blog.csdn.net/2401_87629362/article/details/164252712)
+
++ [GitHub最热架构图Agent，开发者故事看哭了](https://blog.csdn.net/2601_96285279/article/details/164219062)
+
++ [【花雕学编程】Arduino BLDC 之抢险救灾双足机器人：CPG双足步态+复杂障碍自适应](https://blog.csdn.net/weixin_41659040/article/details/164248844)
+
++ [【MATLAB代码，车联网8】MPC网联车辆节能跟驰控制：速度跟踪、间距约束与能耗优化。MATLAB完整代码订阅专栏后可直接查看](https://blog.csdn.net/callmeup/article/details/163780661)
+
++ [《Linux 网络编程》应用层自定义协议(二)：工业级分层 TCP 自定义协议网络计算器服务从零实现](https://blog.csdn.net/2501_91275995/article/details/164152653)
+

@@ -33,3 +33,21 @@
 
 + [pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl)
 
++ [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+
++ [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+
++ [iv-org/invidious](https://github.com/iv-org/invidious)
+
++ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
++ [3b1b/manim](https://github.com/3b1b/manim)
+
++ [browser-use/video-use](https://github.com/browser-use/video-use)
+
++ [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+
++ [averygan/reclip](https://github.com/averygan/reclip)
+
++ [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+

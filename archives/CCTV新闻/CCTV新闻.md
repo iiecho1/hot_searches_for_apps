@@ -179,3 +179,9 @@
 
 + [日本新发10年期国债收益率升至2.990%](https://news.cctv.com/2026/09/01/ARTIDNZYSUChIIdUqhUcAiJq260901.shtml)
 
++ [尼泊尔泥石流灾害遇难人数升至1056人](https://news.cctv.com/2026/09/01/ARTIL8GpmoEkEjKfSyImnn12260901.shtml)
+
++ [尼泊尔泥石流已致1010人死亡 4599人失联](https://news.cctv.com/2026/09/01/ARTIBQObg9NB2RFjt27OasKg260901.shtml)
+
++ [美国陆军部长辞职 被曝与防长不和](https://news.cctv.com/2026/09/01/ARTIUoD03zmDsgoGyJEJkW19260901.shtml)
+
