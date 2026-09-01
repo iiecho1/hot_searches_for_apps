@@ -25,3 +25,27 @@
 
 + [搭载玄戒 O3 的小米平板 9 Pro Max 跑分曝光：GeekBench 单核 3474，多核 13229](https://m.ithome.com/html/996622.htm)
 
++ [华为、小米、荣耀手机今日集体调价](https://m.ithome.com/html/996694.htm)
+
++ [2026 年 8 月汽车销量 / 交付汇总（持续更新）：阿维塔 8 月交付新车 8,082 辆](https://m.ithome.com/html/996723.htm)
+
++ [华为小米荣耀客服回应手机涨价](https://m.ithome.com/html/996815.htm)
+
++ [库克担任苹果 CEO 最后一天给员工发告别信：将公司交给约翰 &#183; 特努斯让我无比安心](https://m.ithome.com/html/996684.htm)
+
++ [苹果今秋 iPhone 18 Pro / Max 发布会预估下架 11 款设备，iPhone 16 去留存悬念](https://m.ithome.com/html/996717.htm)
+
++ [大众中国回应“星宇股份批量劝退应届生”：高度重视并第一时间启动专项调查](https://m.ithome.com/html/996791.htm)
+
++ [小米 18 Fold 有望成小米首款起价破万元的手机](https://m.ithome.com/html/996761.htm)
+
++ [华为、小米、荣耀手机今日集体涨价，魅族科技宣布再坚持一个月、十一后涨价](https://m.ithome.com/html/996959.htm)
+
++ [开发迈入尾声，苹果发布 iOS / iPadOS 27 开发者预览版 Beta 8](https://m.ithome.com/html/996690.htm)
+
++ [IT早报 0901：华为、小米、荣耀手机今日集体调价；库克担任苹果 CEO 最后一天给员工发告别信；曝网易全系产品将登陆华为鸿蒙系统；国内首部 AIGC 长剧《后西游记》开播...](https://m.ithome.com/html/996709.htm)
+
++ [vivo OriginOS 7 系统重构渲染管线和编译框架，渲染速度较上代提升 14%](https://m.ithome.com/html/996656.htm)
+
++ [苹果 MacBook Neo 8GB 被曝 SSD 寿命隐患：3 小时写入近 900GB，高强度下寿命不足两月](https://m.ithome.com/html/996703.htm)
+

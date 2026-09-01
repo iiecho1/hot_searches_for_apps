@@ -101,3 +101,37 @@
 
 + [云原生交付上线前怎样核对关键边界](https://blog.csdn.net/2609_95049439/article/details/164231417)
 
++ [鸿蒙应用 AI 对话实战：用蓝耘 MaaS 给礼物 App 装上「多轮对话选礼大脑」](https://blog.csdn.net/weixin_52908342/article/details/164213393)
+
++ [【MySQL】对表数据的操作：增删查改（CRUD）](https://blog.csdn.net/Miun123/article/details/164191655)
+
++ [ARM ｜深度源码评测｜Arm‑Trusted‑Firmware(ATF)架构全景、安全固件工程审计与平台移植落地指南](https://blog.csdn.net/TunerT_TQ/article/details/164192548)
+
++ [星载CAN总线通信网络中抗辐射MCU的通信可靠性设计分析](https://blog.csdn.net/ANSILIC/article/details/164264701)
+
++ [【LibreCAD 2D架构】从鼠标点击到屏幕像素：LibreCAD绘图架构全链路解析之程序启动与GUI初始化](https://blog.csdn.net/2302_80177460/article/details/164153511)
+
++ [几何时空与位置编码](https://blog.csdn.net/q041217/article/details/164272024)
+
++ [K8s内部pod间的负载均衡原理](https://blog.csdn.net/software_0215/article/details/164225137)
+
++ [计算机网络｜数据链路层详解：MAC 地址、交换机、ARP 协议、CRC 校验](https://blog.csdn.net/2502_93799892/article/details/164213960)
+
++ [华为数通实战：企业办公 + 机房双区网络部署全配置（VLAN 划分 / 多出口主备分流 / ACL 隔离 / 负载均衡限速）](https://blog.csdn.net/2401_85659339/article/details/164218513)
+
++ [【网络】套接字(Socket)编程——TCP版](https://blog.csdn.net/2401_88654727/article/details/164260077)
+
++ [【LLM开发实验】Docker介绍](https://blog.csdn.net/2201_75633021/article/details/164231049)
+
++ [读懂YOLO的下一阶段：从单帧识别到端边云视觉智能](https://blog.csdn.net/renhui1112/article/details/164203290)
+
++ [计算机网络层（IP协议格式+网段划分+私有IP地址和公网IP地址）](https://blog.csdn.net/2401_89195731/article/details/164193028)
+
++ [《都市：天际线2》系统策划拆解案](https://blog.csdn.net/Ljx140266/article/details/164270257)
+
++ [用 Qwen3.8-Max 搭了个「截图转日报」工具：运营日报从 2 小时压到 3 分钟](https://blog.csdn.net/hanwangyyds/article/details/164220734)
+
++ [Flutter + MNN 端侧大模型实战：手机离线跑 Qwen3.5 生成儿童故事](https://blog.csdn.net/qhvssonic/article/details/164203442)
+
++ [DLSS5不只属于游戏：一套方案兼顾游戏实时增强与视频离线处理 支持视频效果导出](https://blog.csdn.net/u010093380/article/details/164228340)
+
