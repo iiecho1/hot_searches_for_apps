@@ -21,3 +21,9 @@
 
 + [礼品卡咋买的？ 现在支付宝 pockyt 全部缺货，有其他靠谱渠道吗](https://www.v2ex.com/t/1238365)
 
++ [路由器坏了，佬们能否推荐一款](https://www.v2ex.com/t/1238361)
+
++ [孙割的羊毛可以薅吗？](https://www.v2ex.com/t/1238315)
+
++ [mac 本地部署 llm 不是最佳选择](https://www.v2ex.com/t/1238446)
+

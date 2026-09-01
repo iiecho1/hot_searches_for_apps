@@ -101,3 +101,35 @@
 
 + [2026开学季效率工具横评：5款远程控制软件，大学生该装哪个？](https://blog.csdn.net/2302_79177254/article/details/164209546)
 
++ [AI大模型安全全面解析：从 Prompt 注入到数据泄露，如何构建大模型安全防线](https://blog.csdn.net/yiyiyi0322/article/details/164189870)
+
++ [Flume 与 HBase 写入优化：高效数据写入三要素](https://blog.csdn.net/qq_41840843/article/details/164194714)
+
++ [黑色滴灌带三角结构视觉检测光源设计方案——200mm高角度环光 + 低角度条形暗场补光](https://blog.csdn.net/guimotion/article/details/164173286)
+
++ [一个主题直接生成完整视频：Windows 部署 Pixelle-Video，把文案、配图和配音串成自动流程](https://blog.csdn.net/user340/article/details/164230237)
+
++ [NVFP4与FP8混合精度量化：用AutoGPTQ把大模型压到单卡跑起来实战](https://blog.csdn.net/superdangbo/article/details/164212487)
+
++ [FFmpeg -force_key_frames 完全指南：五种模式详解](https://blog.csdn.net/allnlei/article/details/164225206)
+
++ [【无人机】MATLAB的六自由度固定翼无人机飞行模拟器，四元数动力学模型，执行器模型的七回路PID自动驾驶仪，航点制导及蒙特卡洛风扰分析](https://blog.csdn.net/m0_57702748/article/details/164200027)
+
++ [同一条路线在手机和平板上怎样换一种排版](https://blog.csdn.net/Dovis5884/article/details/164168875)
+
++ [把 RustFS 当应用文件存储：Spring Boot 用 S3 V2 SDK 直连](https://blog.csdn.net/rustfs_contrib/article/details/164095394)
+
++ [高并发前端故障复盘应留下什么](https://blog.csdn.net/2609_95049439/article/details/164184581)
+
++ [前端框架 前端生态与全栈应用架构：预算有限时先优化哪一项](https://blog.csdn.net/qq_34803115/article/details/164230886)
+
++ [Hermes实战：记忆系统拆解——多层记忆架构，跨会话持久怎么实现](https://blog.csdn.net/houwenjin/article/details/164190959)
+
++ [无服务器 架构与自动化发布流水线：交付前的最后检查怎么做](https://blog.csdn.net/qq_40635035/article/details/164231387)
+
++ [云原生知识框架](https://blog.csdn.net/sibylyue/article/details/164207433)
+
++ [【图文详解】什么是微服务？什么是SpringCloud？](https://blog.csdn.net/2601_96206525/article/details/164170740)
+
++ [从英伟达 GPU 到 RK3566 实机：Microduck 25 厘米强化学习机器人部署手记](https://blog.csdn.net/akb48fan710/article/details/164174553)
+
