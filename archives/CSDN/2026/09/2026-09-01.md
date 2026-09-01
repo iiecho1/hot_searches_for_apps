@@ -133,3 +133,31 @@
 
 + [从英伟达 GPU 到 RK3566 实机：Microduck 25 厘米强化学习机器人部署手记](https://blog.csdn.net/akb48fan710/article/details/164174553)
 
++ [Docker - Swarm中的负载均衡与服务发现](https://blog.csdn.net/qq_41187124/article/details/157611661)
+
++ [给 AI Agent 装上海马体：记忆系统的工程化设计全解](https://blog.csdn.net/2401_89111612/article/details/164099330)
+
++ [我用 Qwen3.8-Max 做了一个采购合同风险审查工具：从能分析，到能定位、复核和交付](https://blog.csdn.net/2302_78391795/article/details/164224376)
+
++ [2026 GEO范式重构：出海合规、赛道格局与选型底层逻辑](https://blog.csdn.net/2601_95882579/article/details/164250721)
+
++ [OpenAI高管：ChatGPT与Codex合体，终局是个人AGI](https://blog.csdn.net/LLM_9528/article/details/164213650)
+
++ [数据库巡检清单：日、周、月分层设计](https://blog.csdn.net/u014727709/article/details/164256463)
+
++ [KES灾备与异地多活完整方案](https://blog.csdn.net/weixin_43151418/article/details/164229605)
+
++ [【MySQL】对表数据的操作：增删查改（CRUD）](https://blog.csdn.net/Miun123/article/details/164191655)
+
++ [第二十一届全国大学生智能车竞赛全国总决赛信息汇总](https://blog.csdn.net/zhuoqingjoking97298/article/details/164252064)
+
++ [【MATLAB】新能源永磁同步电机MTPA最优电流控制仿真](https://blog.csdn.net/unbelievevc/article/details/164251216)
+
++ [vue 表格组件 vxe-table 实实现专业记账凭证编辑表格与自动汇总](https://blog.csdn.net/honkun6/article/details/164255037)
+
++ [单文件部署的MQTT轻量级物联网数据平台](https://blog.csdn.net/u012320127/article/details/164255499)
+
++ [用 Qwen3.8-Max 搭了个「截图转日报」工具：运营日报从 2 小时压到 3 分钟](https://blog.csdn.net/hanwangyyds/article/details/164220734)
+
++ [Maven+SpringBoot](https://blog.csdn.net/Zzzzmo_/article/details/161839202)
+

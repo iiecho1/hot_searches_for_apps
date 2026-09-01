@@ -165,3 +165,17 @@
 
 + [梅西宣布从阿根廷国家队退役](https://news.cctv.com/2026/09/01/ARTIAfA4So0j0kzRPiVSMnDL260901.shtml)
 
++ [埃及各界期待习近平主席对埃进行国事访问](https://news.cctv.com/2026/09/01/ARTIsZAiADFR2h9OHwTTVuaD260901.shtml)
+
++ [哥伦比亚总统：军方击毙20名反政府武装分子](https://news.cctv.com/2026/09/01/ARTIeV7mEvp1CacWRb1kfDx6260901.shtml)
+
++ [尼泊尔泥石流灾害已致987人遇难](https://news.cctv.com/2026/09/01/ARTI2nOQUr2KYDBuKHVorx0d260901.shtml)
+
++ [美国10年期国债收益率升至去年1月以来高点](https://news.cctv.com/2026/09/01/ARTIUQskNe2unqyH86Cl1CtM260901.shtml)
+
++ [监测数据显示过去一天有5艘船只通过霍尔木兹海峡](https://news.cctv.com/2026/09/01/ARTIGVRRcDtEiGVks7NjBXeT260901.shtml)
+
++ [联合国呼吁美伊保持最大限度克制](https://news.cctv.com/2026/09/01/ARTIHJEScpOvNiBtHuEteY4F260901.shtml)
+
++ [日本新发10年期国债收益率升至2.990%](https://news.cctv.com/2026/09/01/ARTIDNZYSUChIIdUqhUcAiJq260901.shtml)
+
