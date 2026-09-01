@@ -49,3 +49,13 @@
 
 + [苹果 MacBook Neo 8GB 被曝 SSD 寿命隐患：3 小时写入近 900GB，高强度下寿命不足两月](https://m.ithome.com/html/996703.htm)
 
++ [2026 年 8 月汽车销量 / 交付汇总（持续更新）：长安汽车 21.88 万辆](https://m.ithome.com/html/996723.htm)
+
++ [苹果官网更新：约翰 &#183; 特努斯正式出任首席执行官，蒂姆 &#183; 库克转任董事会执行主席](https://m.ithome.com/html/997096.htm)
+
++ [16+512G 3999 元：小米 15 Ultra 国补限地区，骁龙 8 至尊 + 徕卡 2 亿长焦](https://m.ithome.com/html/997037.htm)
+
++ [小米澎湃 HyperOS 4 超级小爱交互焕新：动效实时反馈、任务上岛运行](https://m.ithome.com/html/996899.htm)
+
++ [宇树科技员工爆料公司管理细节：百元报销都需要 CEO 王兴兴批，小到螺丝钉长度都亲自过问](https://m.ithome.com/html/997063.htm)
+

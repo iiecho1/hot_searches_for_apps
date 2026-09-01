@@ -161,3 +161,19 @@
 
 + [扎波罗热核电站外部供电持续中断 备用能源仅够约10天](https://news.cctv.com/2026/08/29/ARTITRyEFrhB1xxxcxFXwJZW260829.shtml)
 
++ [俄外交部：将对德国关闭俄驻波恩总领事馆作出回应](https://news.cctv.com/2026/09/02/ARTI1f0T9uIDyyul2nwgdNGA260902.shtml)
+
++ [伊朗革命卫队称已开始反击 一架美军MQ-9无人机被击落](https://news.cctv.com/2026/09/02/ARTI6C9goj4mwp75PdNRs8ZI260902.shtml)
+
++ [伊朗多地再次传出爆炸声 机场和能源枢纽遭袭](https://news.cctv.com/2026/09/02/ARTIaE7zKVmeBkAkcJwrE5Ja260902.shtml)
+
++ [委内瑞拉首都附近国际机场恢复商业客运航班](https://news.cctv.com/2026/09/02/ARTIec6u9MTwYCrFoISe1Gr6260902.shtml)
+
++ [美众议院通过临时拨款法案 以避免政府“停摆”](https://news.cctv.com/2026/09/02/ARTIDFirJcOgebLBGEE5nqTU260902.shtml)
+
++ [无视俄方警告 英首相称将继续力挺乌克兰](https://news.cctv.com/2026/09/02/ARTIBXbVQ8cowj920vNCa8sO260902.shtml)
+
++ [卡塔尔呼吁美伊重返谈判 外交解决危机](https://news.cctv.com/2026/09/02/ARTICqIIma3bCC70oJHBqLFy260902.shtml)
+
++ [扎哈罗娃：在日部署“堤丰”导弹系统“不可接受”](https://news.cctv.com/2026/09/02/ARTI5EyT4DE9YwdaZiese8GU260902.shtml)
+
