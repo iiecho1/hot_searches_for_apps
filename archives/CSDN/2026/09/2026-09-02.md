@@ -143,3 +143,13 @@
 
 + [Flutter OH 性能卡顿丢帧问题定位指南](https://blog.csdn.net/2601_95582873/article/details/164171318)
 
++ [Kafka 压测方法论：生产者与消费者性能测试工具全解析](https://blog.csdn.net/qq_41840843/article/details/164270906)
+
++ [运维工程师如何转型前沿部署工程师（FDE），抓住 AI 落地的时代红利](https://blog.csdn.net/2601_96285279/article/details/164218970)
+
++ [亿级用户IM系统 之 DPVS动态权重（二、根据后端真实情况负载均衡）](https://blog.csdn.net/robinfoxnan/article/details/164269484)
+
++ [没有公网 IP，5 分钟搭建个人网盘：家里跑 mywebdisk-server，出门用 File2File 连](https://blog.csdn.net/qq974816077/article/details/164269913)
+
++ [OpenStack架构深度解析](https://blog.csdn.net/fb_12345/article/details/164267279)
+
