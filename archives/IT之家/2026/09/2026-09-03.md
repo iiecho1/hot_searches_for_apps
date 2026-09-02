@@ -25,3 +25,27 @@
 
 + [宇树科技员工爆料公司管理细节：百元报销都需要 CEO 王兴兴批，小到螺丝钉长度都亲自过问](https://m.ithome.com/html/997063.htm)
 
++ [苹果新任 CEO 特努斯微博头像太糊引网友吐槽，运营团队“光速”更换高清素材](https://m.ithome.com/html/997206.htm)
+
++ [小米、华为发布会撞档，消息称 Mate 90 系列年度旗舰手机计划提前登场](https://m.ithome.com/html/997255.htm)
+
++ [小米迄今最高端手机：雷军晒 18 Fold 阔折叠真机，红色外壳、首发玄戒 O3 芯片](https://m.ithome.com/html/997390.htm)
+
++ [苹果 iPhone 18 Pro Max 和首款折叠 iPhone Ultra 机模曝光](https://m.ithome.com/html/997205.htm)
+
++ [小米 18 Fold“中折叠”手机官图发布：极窄四等边、跑道型 Deco，新色命名「西野红」](https://m.ithome.com/html/997446.htm)
+
++ [小米 18 Fold 手机外观亮相：新形态命名“中折叠”，卢伟冰预测将成下一代折叠屏主流选择](https://m.ithome.com/html/997413.htm)
+
++ [小米秋季旗舰新品发布会定档 9 月 7 日：澎程系列新车 + 18 Fold 折叠屏手机等同台登场](https://m.ithome.com/html/997228.htm)
+
++ [星宇股份董事长周晓萍回应劝退应届生事件：公司深刻反省并真诚道歉，将以制度和流程切实保障劳动者合法权益](https://m.ithome.com/html/997384.htm)
+
++ [小米首款起价破万元的手机：小米 18 Fold 跑分曝光，配 4.36 GHz 主频玄戒 O3 芯片](https://m.ithome.com/html/997223.htm)
+
++ [小米 18 Fold“中折叠”手机将搭载小爱灵感球：轻松一拖即可完成各类任务](https://m.ithome.com/html/997540.htm)
+
++ [50.98 万元，新一代理想 Mega Home 发布](https://m.ithome.com/html/997654.htm)
+
++ [华为官宣刘德华担任 HUAWEI Mate XT 2 非凡大师品牌大使](https://m.ithome.com/html/997235.htm)
+
