@@ -191,3 +191,17 @@
 
 + [美、新拟在库克群岛建立深水港 中国驻新西兰使馆发言人回应](https://news.cctv.com/2026/09/02/ARTIU2pfCoieHgfeeveSs1IA260902.shtml)
 
++ [欧盟就莱比锡机场袭击未遂事件召见俄罗斯大使](https://news.cctv.com/2026/09/02/ARTIllNskJOvzJ2L5xJEgzts260902.shtml)
+
++ [刚果（金）埃博拉死亡病例超3000例](https://news.cctv.com/2026/09/02/ARTIkAq8iXTdGfwUVWgKlwi1260902.shtml)
+
++ [伊朗称袭击科威特美军基地 造成多名美方人员死亡](https://news.cctv.com/2026/09/02/ARTIT1gLfV6wBzvji1TkAyF5260902.shtml)
+
++ [国际货币基金组织总裁：全球经济前景仍面临高不确定性](https://news.cctv.com/2026/09/02/ARTIbj9WinknuDOQFV0dt9ST260902.shtml)
+
++ [伊朗称将继续打击美军基地 警告与美合作国家承担后果](https://news.cctv.com/2026/09/02/ARTIGbON6KOf5EQCP3igaF5o260902.shtml)
+
++ [时政镜距离｜描绘中埃相知新画卷](https://news.cctv.com/2026/09/02/ARTIiTWomtkDEJLNSG8Xy9D2260902.shtml)
+
++ [为开创中埃两国关系更加美好的未来增添新动力——习近平主席署名文章引发埃及各界人士强烈共鸣](https://news.cctv.com/2026/09/02/ARTITYK9CTe2xxFfk0rEeNhV260902.shtml)
+

@@ -167,3 +167,19 @@
 
 + [密码学（二）：base64原理](https://blog.csdn.net/www_dong/article/details/164189772)
 
++ [从本地到公网：Windows 部署 KouriChat，并接入 DeepSeek 实现微信 AI 对话](https://blog.csdn.net/mrdeam/article/details/164270020)
+
++ [Kafka Streams 流处理实战：有状态算子、窗口操作与本地状态存储](https://blog.csdn.net/qq_41840843/article/details/164270959)
+
++ [实时语音 Agent：从语音机器人到连续协作界面](https://blog.csdn.net/weixin_74809706/article/details/163614191)
+
++ [SpringBoot3+Vue3 用户多组织：默认任职、关联组织和顶栏切公司怎么配](https://blog.csdn.net/zhouzhongyan/article/details/164269399)
+
++ [避免和纠正热点：Elasticsearch Serverless 如何平衡分片](https://blog.csdn.net/UbuntuTouch/article/details/164290337)
+
++ [Flutter OH 负载异常与功耗问题定位指南](https://blog.csdn.net/2601_95582873/article/details/164171342)
+
++ [深度 | Oxmiq：Raja Koduri 把 CUDA 兼容的 RISC-V GPU 做成可授权 IP，真能复制「ARM 模式」吗？](https://blog.csdn.net/summerliyang/article/details/164230956)
+
++ [K8s生产集群故障应急处置实战：节点NotReady、Pod雪崩与资源耗尽的现场排查复盘](https://blog.csdn.net/Neighbor_OldY/article/details/164203838)
+
