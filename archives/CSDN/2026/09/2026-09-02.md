@@ -153,3 +153,17 @@
 
 + [OpenStack架构深度解析](https://blog.csdn.net/fb_12345/article/details/164267279)
 
++ [【BlueZ 】用户态入口：main.c 核心函数与程序启动流程](https://blog.csdn.net/weixin_37800531/article/details/164164199)
+
++ [Spring AI 结构化输出：JSON Mode 与 BeanOutputConverter](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/164263697)
+
++ [Flume 构建实时日志中台：全链路架构设计与实践](https://blog.csdn.net/qq_41840843/article/details/164253021)
+
++ [从赛题拆解到斩获国奖：基于银河麒麟与AI能力图谱系统的全景架构与实战复盘](https://blog.csdn.net/qq_46987323/article/details/164230102)
+
++ [DeepSeek Harness 架构解析：从 Preset、Tool Pipeline 到 Agent Runtime](https://blog.csdn.net/m0_46510245/article/details/164268174)
+
++ [单文件部署的MQTT轻量级物联网数据平台](https://blog.csdn.net/u012320127/article/details/164255499)
+
++ [密码学（二）：base64原理](https://blog.csdn.net/www_dong/article/details/164189772)
+

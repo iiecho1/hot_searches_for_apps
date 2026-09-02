@@ -177,3 +177,17 @@
 
 + [扎哈罗娃：在日部署“堤丰”导弹系统“不可接受”](https://news.cctv.com/2026/09/02/ARTI5EyT4DE9YwdaZiese8GU260902.shtml)
 
++ [我驻泰使馆：泰国调整免签政策不影响中泰双边免签协定](https://news.cctv.com/2026/09/02/ARTIv9rNp87N1xSMvdhgbdu6260902.shtml)
+
++ [秘鲁宣布与伊朗断绝外交关系](https://news.cctv.com/2026/09/02/ARTIA894i0S6Nfg08Jzj73mk260902.shtml)
+
++ [特朗普提名高雄出任下一任美国海军部长](https://news.cctv.com/2026/09/02/ARTIyDJq5jALGs8Y6LI2Awio260902.shtml)
+
++ [北美观察丨一个月后重新开火 美伊为何重回军事对抗](https://news.cctv.com/2026/09/02/ARTII1OJAL7mKFF2af74bt3y260902.shtml)
+
++ [近闻·“样板”和“典范”，中埃关系如何迈向新征程](https://news.cctv.com/2026/09/02/ARTIprLUiTRYlC8DMOMUhZga260902.shtml)
+
++ [资金短缺 世粮署被迫缩减约旦河西岸援助](https://news.cctv.com/2026/09/02/ARTIn7uehbuXE4jh3pc3Fbnu260902.shtml)
+
++ [美、新拟在库克群岛建立深水港 中国驻新西兰使馆发言人回应](https://news.cctv.com/2026/09/02/ARTIU2pfCoieHgfeeveSs1IA260902.shtml)
+
