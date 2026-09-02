@@ -31,3 +31,31 @@
 
 + [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 
++ [fmtlib/fmt](https://github.com/fmtlib/fmt)
+
++ [google-research/timesfm](https://github.com/google-research/timesfm)
+
++ [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
++ [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X)
+
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
++ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
++ [superlinked/sie](https://github.com/superlinked/sie)
+
++ [pacifio/atlas](https://github.com/pacifio/atlas)
+
++ [zyronon/TypeWords](https://github.com/zyronon/TypeWords)
+
++ [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+
++ [vercel-labs/portless](https://github.com/vercel-labs/portless)
+
++ [blader/humanizer](https://github.com/blader/humanizer)
+
++ [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
