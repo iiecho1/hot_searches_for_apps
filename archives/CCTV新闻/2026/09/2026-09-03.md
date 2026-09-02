@@ -159,3 +159,17 @@
 
 + [法官要求美国防部暂缓解雇《星条旗报》三名员工](https://news.cctv.com/2026/08/30/ARTIDGMUgueNiWT1YrrMVDL8260830.shtml)
 
++ [韩国釜山近海一拖船倾覆 致1人死亡6人失踪](https://news.cctv.com/2026/09/03/ARTIGqj4ISuyn8rZeRjVr9Z7260903.shtml)
+
++ [阿根廷外长：必须掌握一切可用手段以实现对马岛主权](https://news.cctv.com/2026/09/03/ARTIhefDlt5VQLy8zuUwiiLy260903.shtml)
+
++ [美国和委内瑞拉签署石油项目协议](https://news.cctv.com/2026/09/03/ARTIc7NeDm8XzDuUbbn9mwh9260903.shtml)
+
++ [古特雷斯呼吁美伊立即停火 重返外交轨道](https://news.cctv.com/2026/09/03/ARTIneEUmaoU7UFcgcJZJP2K260903.shtml)
+
++ [伊朗军方称美方近期多场交战“均告失败”](https://news.cctv.com/2026/09/03/ARTIbgZKRjDJ62C0QuhLe38x260903.shtml)
+
++ [伊朗外交部强烈谴责美军袭击伊朗民用基础设施](https://news.cctv.com/2026/09/03/ARTIBmKU10APwQRTQXAVQKc9260903.shtml)
+
++ [俄外交部：就德国反俄举动召见德国驻俄临时代办](https://news.cctv.com/2026/09/03/ARTIFrIajW9p3DmpNZWFDwl6260903.shtml)
+

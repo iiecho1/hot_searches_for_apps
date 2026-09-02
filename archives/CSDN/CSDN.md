@@ -101,3 +101,9 @@
 
 + [Kafka、RabbitMQ、RocketMQ 对比整理](https://blog.csdn.net/2402_88633912/article/details/164229606)
 
++ [OpenCode Go 与 Command Code 的性价比分析 2026.08.31更新](https://blog.csdn.net/GreenHands495/article/details/164225926)
+
++ [GitHub每日热评｜深度开源评测｜GitHub周榜第6名 腾讯WeMM‑Embedding：文本/图像/视频/文档大一统多模态向量嵌入模型](https://blog.csdn.net/TunerT_TQ/article/details/164252847)
+
++ [K8s内部pod间的负载均衡原理](https://blog.csdn.net/software_0215/article/details/164225137)
+
