@@ -159,3 +159,11 @@
 
 + [美国新泽西州发生枪击事件 已致2死9伤](https://news.cctv.com/2026/08/31/ARTIG8lY5HBlzpCSPMK1HJW6260831.shtml)
 
++ [亚美尼亚：不会放弃议会通过的启动加入欧盟进程法案](https://news.cctv.com/2026/09/04/ARTI1YLBbw0CJSX9CArrCjEo260904.shtml)
+
++ [泽连斯基称美方将在莫斯科和基辅分别举行会谈](https://news.cctv.com/2026/09/04/ARTIK6aCCUuNZKXbQt1OKYiO260904.shtml)
+
++ [从中文教育到鲁班工坊 中埃两国教育合作持续焕发新活力](https://news.cctv.com/2026/09/04/ARTIwIXggFjGuscC5AnZ4bzT260904.shtml)
+
++ [美副总统万斯称正在对伊朗婚礼遭袭事件进行调查](https://news.cctv.com/2026/09/04/ARTITyy9vfbT7dpmkw3twrG7260904.shtml)
+
