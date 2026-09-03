@@ -177,3 +177,7 @@
 
 + [欧盟称以色列“E1区”定居点建设破坏“两国方案”](https://news.cctv.com/2026/09/03/ARTIGpP7nx7mRVCSZnmIrmsV260903.shtml)
 
++ [中国驻韩国大使馆发言人就光州双年展严重涉台错误发表谈话](https://news.cctv.com/2026/09/03/ARTI4FDPWGnB35FkhsE8Zf0z260903.shtml)
+
++ [加拿大央行：美国关税威胁冲击加经济复苏前景](https://news.cctv.com/2026/09/03/ARTIeiyDNcwwjR3ZJ5OlUJXk260903.shtml)
+

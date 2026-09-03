@@ -27,3 +27,21 @@
 
 + [5X 的 Codex 一天半烧完了，晒晒我的智障多 agent 工作流](https://www.v2ex.com/t/1238942)
 
++ [我希望所有人都应该去试试 Gemini 的 Flash 系列](https://www.v2ex.com/t/1239096)
+
++ [个人视角的三种股票投资方向](https://www.v2ex.com/t/1239075)
+
++ [两个月 12000 台装机、收入 1000 出头： 2MB 的 Markdown 阅读器 mdview 准备涨价，求建议](https://www.v2ex.com/t/1239151)
+
++ [RouterYo 中转站，来给 V 友发福利了, 评论就送 $10 额度，进群额外再送！](https://www.v2ex.com/t/1239110)
+
++ [裁员问题求助！](https://www.v2ex.com/t/1239124)
+
++ [35 岁即将失业，英语差，想去报班，去面试要求全英面试的企业，是不是一条出路](https://www.v2ex.com/t/1239092)
+
++ [失业马上半年了，还没找到工作~~](https://www.v2ex.com/t/1239103)
+
++ [做了一个“不发通知”的提醒 App，想听听 V 友意见，附送 50 个永久 Pro 兑换码](https://www.v2ex.com/t/1239152)
+
++ [怎么感觉最近用中转站的人突然少了？](https://www.v2ex.com/t/1239076)
+
