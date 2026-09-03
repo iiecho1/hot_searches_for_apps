@@ -181,3 +181,5 @@
 
 + [加拿大央行：美国关税威胁冲击加经济复苏前景](https://news.cctv.com/2026/09/03/ARTIeiyDNcwwjR3ZJ5OlUJXk260903.shtml)
 
++ [中国对尼泊尔第三批紧急援助物资运抵加德满都](https://news.cctv.com/2026/09/03/ARTIBDbR5SLfp3R8MppCiCrp260903.shtml)
+

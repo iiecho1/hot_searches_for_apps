@@ -39,3 +39,19 @@
 
 + [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [averygan/reclip](https://github.com/averygan/reclip)
+
++ [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
++ [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
+
++ [f/prompts.chat](https://github.com/f/prompts.chat)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
