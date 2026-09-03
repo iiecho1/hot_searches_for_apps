@@ -173,3 +173,7 @@
 
 + [俄外交部：就德国反俄举动召见德国驻俄临时代办](https://news.cctv.com/2026/09/03/ARTIFrIajW9p3DmpNZWFDwl6260903.shtml)
 
++ [中埃联合考古发布新成果！古埃及神庙遗址有哪些最新发现→](https://news.cctv.com/2026/09/03/ARTIB7TludFBaVxXnQGNtWhq260903.shtml)
+
++ [欧盟称以色列“E1区”定居点建设破坏“两国方案”](https://news.cctv.com/2026/09/03/ARTIGpP7nx7mRVCSZnmIrmsV260903.shtml)
+

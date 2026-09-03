@@ -107,3 +107,5 @@
 
 + [K8s内部pod间的负载均衡原理](https://blog.csdn.net/software_0215/article/details/164225137)
 
++ [Java八股文之Spring Boot 中解决 MySQL 和 Elasticsearch (ES) 的数据一致性问题](https://blog.csdn.net/weixin_43933728/article/details/164301594)
+
