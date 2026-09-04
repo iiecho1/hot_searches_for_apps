@@ -27,3 +27,21 @@
 
 + [有脱发使用非那雄胺的同学吗](https://www.v2ex.com/t/1239130)
 
++ [Mole 出 Mac 版后，用户教会了我做产品](https://www.v2ex.com/t/1239372)
+
++ [都没人讨论 小米 18 Fold](https://www.v2ex.com/t/1239282)
+
++ [厉害了 Tibo 每天都送重置卡 直到 Astra 全量铺开](https://www.v2ex.com/t/1239359)
+
++ [为什么一般政府网站就会比较 low，把你看到的烂站贴在这里](https://www.v2ex.com/t/1239413)
+
++ [医院术后漏取纱布 后续更新](https://www.v2ex.com/t/1239373)
+
++ [有没有什么每日必薅的小羊毛？](https://www.v2ex.com/t/1239384)
+
++ [你有哪些工作上的能力，是 AI 替代不了的？](https://www.v2ex.com/t/1239222)
+
++ [感觉现在关于 github copilot 的讨论少了，还有人在主力使用的吗？想听听实际体验](https://www.v2ex.com/t/1239275)
+
++ [请教下今天我们的大 A 暴涨的原因是什么](https://www.v2ex.com/t/1239398)
+
