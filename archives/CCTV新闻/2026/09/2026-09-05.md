@@ -159,3 +159,15 @@
 
 + [伊朗称在霍尔木兹海峡上空击落美军MQ－9无人机](https://news.cctv.com/2026/08/31/ARTI2IceWFQZl8riMO2VfU9G260831.shtml)
 
++ [美国2026年已记录逾3100例麻疹病例](https://news.cctv.com/2026/09/05/ARTIp8hCTTryJ3qcCAXTI5TT260905.shtml)
+
++ [阿根廷增加本财年国防外交预算 支持马岛外交行动](https://news.cctv.com/2026/09/05/ARTI4yTjVVvlcPR7ERf0suWY260905.shtml)
+
++ [美总统称可能很快会打击伊朗“镐山”核设施](https://news.cctv.com/2026/09/05/ARTIIqKSoPFz0CmnXExElBRV260905.shtml)
+
++ [泽连斯基：美总统特使访问期间不对俄发动空中打击](https://news.cctv.com/2026/09/05/ARTIEvBepJHHy6o5PewnbOyA260905.shtml)
+
++ [苏丹南部遭武装分子袭击 21名平民死亡](https://news.cctv.com/2026/09/05/ARTIUxryYdN9tjTd8r0g2YMW260905.shtml)
+
++ [特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案](https://news.cctv.com/2026/09/05/ARTImGQegFACtTsde2ToFOPI260905.shtml)
+
