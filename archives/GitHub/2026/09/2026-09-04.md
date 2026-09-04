@@ -39,3 +39,13 @@
 
 + [obra/superpowers](https://github.com/obra/superpowers)
 
++ [bikini/exploitarium](https://github.com/bikini/exploitarium)
+
++ [radixark/miles](https://github.com/radixark/miles)
+
++ [anomalyco/opencode](https://github.com/anomalyco/opencode)
+
++ [clshortfuse/renodx](https://github.com/clshortfuse/renodx)
+
++ [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+

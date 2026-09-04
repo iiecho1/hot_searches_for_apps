@@ -169,3 +169,9 @@
 
 + [韩总统府称向霍尔木兹海峡派兵处于“研究审议”阶段](https://news.cctv.com/2026/09/04/ARTIIST5gY4dKcTFjLXrvJ0g260904.shtml)
 
++ [经纬线·埃及有谚语说：“喝过尼罗河的水，一定还会再来”](https://news.cctv.com/2026/09/04/ARTIB8OfpsUg7KOgdRB6WZGs260904.shtml)
+
++ [金色相框丨习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问](https://news.cctv.com/2026/09/04/ARTIjNoBo6miZfcVf8JJfRuE260904.shtml)
+
++ [零时差 | 从一碗饺子到一部中国电影：不断解锁中埃友谊的打开方式](https://news.cctv.com/2026/09/04/ARTI6k6j2D8Xr2YvGt8slyGG260904.shtml)
+
