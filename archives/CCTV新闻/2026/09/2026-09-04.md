@@ -175,3 +175,7 @@
 
 + [零时差 | 从一碗饺子到一部中国电影：不断解锁中埃友谊的打开方式](https://news.cctv.com/2026/09/04/ARTI6k6j2D8Xr2YvGt8slyGG260904.shtml)
 
++ [巴基斯坦安全部队在反恐行动中击毙36名武装分子](https://news.cctv.com/2026/09/04/ARTIJnUdrJ0RnvmrEmJO8NXR260904.shtml)
+
++ [尼泊尔泥石流遇难人数升至1295人 失联4898人](https://news.cctv.com/2026/09/04/ARTI601rBe1KjYJA1Hj47ozQ260904.shtml)
+
