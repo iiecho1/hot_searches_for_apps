@@ -25,3 +25,7 @@
 
 + [安倍晋三遇刺案正秘密筹拍电影，菅田将晖为饰演“山上彻也”蓄起长发](https://m.ithome.com/html/997806.htm)
 
++ [卢伟冰确认小米 18 Fold 折叠屏手机起售价过万](https://m.ithome.com/html/998181.htm)
+
++ [小米新款 SU7 Ultra 国内测试车谍照曝光：超大尾翼设计，或命名 Extreme](https://m.ithome.com/html/997938.htm)
+
