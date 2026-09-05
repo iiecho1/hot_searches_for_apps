@@ -197,3 +197,15 @@
 
 + [尼共前总书记：西方媒体谣言让冰川灾害“雪上加霜”](https://news.cctv.com/2026/09/05/ARTIg6JYBP5DJ9dl6fGVfMJe260905.shtml)
 
++ [壹视界·心相知丨在埃及，“中国元素”见证中埃友好](https://news.cctv.com/2026/09/05/ARTImqhdF1pCOW8q1IGbEpgE260905.shtml)
+
++ [携手同行——亚太媒体合作伙伴计划扬帆启程](https://news.cctv.com/2026/09/05/ARTIEt3QxpKI7oqo7shlSDzF260905.shtml)
+
++ [美对伊发起军事打击超半年 美情报部门：伊朗已打出自信](https://news.cctv.com/2026/09/05/ARTIGNFoH9PnbpzEk9SF2F3E260905.shtml)
+
++ [冲绳县警方以涉嫌暴行罪逮捕两名驻日美军士兵](https://news.cctv.com/2026/09/05/ARTIAsxbroREC5bTrMjbAC1N260905.shtml)
+
++ [中吉乌铁路吉尔吉斯斯坦境内段首座隧道贯通](https://news.cctv.com/2026/09/05/ARTIgSDPPoxMHOOqxjJNENWy260905.shtml)
+
++ [菲律宾副总统莎拉缴纳保释金 法院解除逮捕令](https://news.cctv.com/2026/09/05/ARTIKul0fVndk0JFevJJqbNr260905.shtml)
+

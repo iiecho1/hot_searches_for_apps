@@ -35,3 +35,13 @@
 
 + [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 
++ [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+
++ [humanlayer/skills](https://github.com/humanlayer/skills)
+
++ [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups)
+
++ [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)
+
++ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+

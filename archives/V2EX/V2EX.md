@@ -51,3 +51,17 @@
 
 + [大佬们只翻墙用 AppleTV 靠谱吗？家里的 arm 盒子太闹心了](https://www.v2ex.com/t/1239497)
 
++ [搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度](https://www.v2ex.com/t/1239673)
+
++ [有没有成色好的二手笔记本网店推荐](https://www.v2ex.com/t/1239638)
+
++ [GPT-6 Astra - 新的 O1 时刻](https://www.v2ex.com/t/1239617)
+
++ [Scout 是不是一个常用语](https://www.v2ex.com/t/1239571)
+
++ [我又又又重构了我的站点](https://www.v2ex.com/t/1239655)
+
++ [20CM 之内的免供电单风扇能带 4K 的显卡有哪些呢？](https://www.v2ex.com/t/1239628)
+
++ [梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块](https://www.v2ex.com/t/1239651)
+
