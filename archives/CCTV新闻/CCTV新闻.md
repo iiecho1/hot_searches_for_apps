@@ -209,3 +209,7 @@
 
 + [菲律宾副总统莎拉缴纳保释金 法院解除逮捕令](https://news.cctv.com/2026/09/05/ARTIKul0fVndk0JFevJJqbNr260905.shtml)
 
++ [普京下令未来三天不打击基辅](https://news.cctv.com/2026/09/05/ARTIz2pDJsI8ZY64q2YzzWsy260905.shtml)
+
++ [我使馆证实一名中国公民从尼泊尔受灾水电站获救](https://news.cctv.com/2026/09/05/ARTId2TD3LIqogXd3oKzhT73260905.shtml)
+

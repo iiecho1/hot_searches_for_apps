@@ -65,3 +65,7 @@
 
 + [梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块](https://www.v2ex.com/t/1239651)
 
++ [汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了](https://www.v2ex.com/t/1239707)
+
++ [给我整乐呵了，商汤上了 deepseek v4 flash 和 pro](https://www.v2ex.com/t/1239687)
+
