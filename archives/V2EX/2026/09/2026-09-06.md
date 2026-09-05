@@ -21,3 +21,5 @@
 
 + [给我整乐呵了，商汤上了 deepseek v4 flash 和 pro](https://www.v2ex.com/t/1239687)
 
++ [外接显示器时，你会把 Mac 打开作为副屏用吗？](https://www.v2ex.com/t/1239671)
+
