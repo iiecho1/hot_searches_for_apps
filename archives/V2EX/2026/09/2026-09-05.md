@@ -33,3 +33,21 @@
 
 + [gtp6 体验中[吉吉 API] 即使同步上线，欢迎各位大佬前来尝鲜。纯血 Pro 倍率 0.16 缓存近 90%，首字 1S 起，自用实时监测无降智，回复送测试鸡蛋。](https://www.v2ex.com/t/1239517)
 
++ [opencode 出新模型了，叫 Omen Alpha，输入输出价格接近 deepseek，速度飞快](https://www.v2ex.com/t/1239487)
+
++ [周六清早起来快蹬 马上又要重置了....](https://www.v2ex.com/t/1239621)
+
++ [用了一次 5.6 Luna，我就滚回到了 Sol](https://www.v2ex.com/t/1239525)
+
++ [Sivyer 中转站正式营业，福利多多~](https://www.v2ex.com/t/1239489)
+
++ [微软真的是大善人](https://www.v2ex.com/t/1239542)
+
++ [现在做什么技术的最容易找工作](https://www.v2ex.com/t/1239623)
+
++ [[替尔泊肽] 从 BMI 40 到 27，停药三个月后的减肥日记](https://www.v2ex.com/t/1239507)
+
++ [Claude 是不是又重置了？](https://www.v2ex.com/t/1239616)
+
++ [大佬们只翻墙用 AppleTV 靠谱吗？家里的 arm 盒子太闹心了](https://www.v2ex.com/t/1239497)
+

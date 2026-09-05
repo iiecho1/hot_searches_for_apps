@@ -177,3 +177,23 @@
 
 + [以色列空袭黎巴嫩南部造成至少5人死亡](https://news.cctv.com/2026/09/05/ARTIlTGfinn0B3PDk9uldwEE260905.shtml)
 
++ [近镜头｜两大文明跨越时空的双向奔赴](https://news.cctv.com/2026/09/05/ARTIpNBUnLWypaNmZGQWNHlf260905.shtml)
+
++ [时习之丨不断发展壮大的“上合大家庭”众行致远](https://news.cctv.com/2026/09/05/ARTIB3GAs7llVVzgj3udMtOL260905.shtml)
+
++ [多重因素博弈 国际金价陷入震荡拉锯 全球金融资产安全受威胁](https://news.cctv.com/2026/09/05/ARTI8l01qxFBzm2qW7uRBwgx260905.shtml)
+
++ [写在亚太媒体高端论坛开幕之际](https://news.cctv.com/2026/09/05/ARTIZvS9Z3jU3HHYSNHP0YaQ260905.shtml)
+
++ [“中国正成为亚太地区增长的动力与支柱”（APEC中国年：开放 创新 合作）](https://news.cctv.com/2026/09/05/ARTIEBBp2ZG6XK8RezHJGush260905.shtml)
+
++ [外籍博主走进安康 感受秦巴山水与世界相连](https://news.cctv.com/2026/09/05/ARTIyRdAUw2Siorxam4F9wvc260905.shtml)
+
++ [推动上合组织合作取得更多务实成果](https://news.cctv.com/2026/09/05/ARTIryublitgzyMWXutAnH9t260905.shtml)
+
++ [中国智慧引领上合“更上一层楼”](https://news.cctv.com/2026/09/05/ARTI9Yjpd5XtTJCb4uNx42V9260905.shtml)
+
++ [专访｜“中国政府给予我们的支持是全方位的！”——访尼泊尔外交部长希西尔](https://news.cctv.com/2026/09/05/ARTIQ9YqzY93dtRBMd0o2e1F260905.shtml)
+
++ [尼共前总书记：西方媒体谣言让冰川灾害“雪上加霜”](https://news.cctv.com/2026/09/05/ARTIg6JYBP5DJ9dl6fGVfMJe260905.shtml)
+
