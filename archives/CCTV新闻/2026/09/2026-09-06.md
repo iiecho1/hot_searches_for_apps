@@ -161,3 +161,5 @@
 
 + [委内瑞拉首都附近国际机场恢复商业客运航班](https://news.cctv.com/2026/09/02/ARTIec6u9MTwYCrFoISe1Gr6260902.shtml)
 
++ [伊朗库尔德斯坦省发生一起交通事故 已致10人死亡](https://news.cctv.com/2026/09/06/ARTIIvkN44fzzwsGVG7YaODk260906.shtml)
+
