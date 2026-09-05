@@ -171,3 +171,9 @@
 
 + [特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案](https://news.cctv.com/2026/09/05/ARTImGQegFACtTsde2ToFOPI260905.shtml)
 
++ [新世界地图要来了！联合国：停止“小看”非洲](https://news.cctv.com/2026/09/05/ARTISyRx7GPEC6PMJLzM9jcY260905.shtml)
+
++ [美军对先进武器库存信息泄密展开调查 多名高级军官接受测谎](https://news.cctv.com/2026/09/05/ARTIB2tCKZReqxoTptva2bnu260905.shtml)
+
++ [以色列空袭黎巴嫩南部造成至少5人死亡](https://news.cctv.com/2026/09/05/ARTIlTGfinn0B3PDk9uldwEE260905.shtml)
+

@@ -29,3 +29,27 @@
 
 + [小米新款 SU7 Ultra 国内测试车谍照曝光：超大尾翼设计，或命名 Extreme](https://m.ithome.com/html/997938.htm)
 
++ [西贝通知离职员工：补偿金需拖至 2028 年，贾国龙称“现在不能及时给”](https://m.ithome.com/html/998300.htm)
+
++ [爱奇艺、网易云音乐、WPS 等多款软件适配小米 18 Fold，官方发文致谢](https://m.ithome.com/html/998449.htm)
+
++ [人人影视变正版了：会员 25 元 / 月，华数传媒合作，月底正式发布](https://m.ithome.com/html/998257.htm)
+
++ [麒麟 2026 芯片晶体管密度暴涨 55%，华为何庭波更新韬定律论文](https://m.ithome.com/html/998598.htm)
+
++ [消息称某国产芯片 3.1GHz 主频下 GB6 单核跑分 2084，预计为华为麒麟 9050 系列](https://m.ithome.com/html/998589.htm)
+
++ [因苹果对质量要求极其严格，消息称折叠屏 iPhone Ultra 日产量截至上月底仅数百部](https://m.ithome.com/html/998600.htm)
+
++ [小米卢伟冰谈内存涨价：不能简单把成本转移，一定要把产品做得更好](https://m.ithome.com/html/998365.htm)
+
++ [小米推出龙甲电池安心保障计划：因电池质量致自燃报废，补偿同配新车](https://m.ithome.com/html/998410.htm)
+
++ [卢伟冰：小米和长鑫很早就展开了合作，双方团队为 LPDDR6 进行了长达一年的联合调试](https://m.ithome.com/html/998402.htm)
+
++ [2026 搞笑诺贝尔奖揭晓：防溅小便池实验实现 0 飞溅](https://m.ithome.com/html/998371.htm)
+
++ [倍思提前预热苹果 iPhone 18 Pro 系列外设配件：含“酒红”配色磁吸充电宝、桌充、手机壳等](https://m.ithome.com/html/998302.htm)
+
++ [小米澎程 N90 Max 已试驾体验：是一台好开的大车](https://m.ithome.com/html/998375.htm)
+
