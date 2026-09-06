@@ -161,3 +161,19 @@
 
 + [美副总统万斯称正在对伊朗婚礼遭袭事件进行调查](https://news.cctv.com/2026/09/04/ARTITyy9vfbT7dpmkw3twrG7260904.shtml)
 
++ [一波音货机在美迈阿密国际机场冲出跑道 撞上多辆汽车后起火](https://news.cctv.com/2026/09/07/ARTIvwgvNDUaYOPihqrz58LJ260907.shtml)
+
++ [泽连斯基称与美特使等人的会晤“非常具有实质性”](https://news.cctv.com/2026/09/07/ARTImX8ECr8fyVkhP3hVUvHn260907.shtml)
+
++ [伊朗称未来几天将宣布霍尔木兹海峡“禁区”](https://news.cctv.com/2026/09/07/ARTINrti50D3Wtx6vtPP5m5G260907.shtml)
+
++ [法国共产党全国书记鲁塞尔宣布参加2027年总统选举](https://news.cctv.com/2026/09/07/ARTIhL3w3C8WabuU3e5Ro72K260907.shtml)
+
++ [福古岛交通事故致25死 佛得角宣布全国哀悼两天](https://news.cctv.com/2026/09/07/ARTIJFL8GTBGgrb15ebPIM4q260907.shtml)
+
++ [俄外交部 ：高市要求俄拆除纪念碑的言论“荒谬且无视历史”](https://news.cctv.com/2026/09/07/ARTID9WEEh4dbAUzCx9lQIjO260907.shtml)
+
++ [江西遂川县明坑村泥石流灾害现场道路已抢通](https://news.cctv.com/2026/09/07/ARTI9vNSNTEqtPrN0ljCrZuu260907.shtml)
+
++ [也门政府军与胡塞武装交火 造成至少117人死亡](https://news.cctv.com/2026/09/07/ARTIzuvwZ2q62wz7GeB0Y3iN260907.shtml)
+
