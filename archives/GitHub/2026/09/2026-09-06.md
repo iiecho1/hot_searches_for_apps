@@ -33,3 +33,17 @@
 
 + [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 
++ [openai/skills](https://github.com/openai/skills)
+
++ [llvm/llvm-project](https://github.com/llvm/llvm-project)
+
++ [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
++ [aipoch/open-science](https://github.com/aipoch/open-science)
+
++ [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
+
++ [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)
+
++ [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
+
