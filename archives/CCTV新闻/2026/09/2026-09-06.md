@@ -171,3 +171,31 @@
 
 + [加拿大最新民调：约八成加受访者支持对美实施贸易反制](https://news.cctv.com/2026/09/06/ARTIYwCOZ90WMHzL7BFxvbS9260906.shtml)
 
++ [伊朗革命卫队称打击了美航母和驱逐舰](https://news.cctv.com/2026/09/06/ARTIz8FFN11Y5RWLq3j1ogBF260906.shtml)
+
++ [吉中携手铺就面向未来的现代“丝路”](https://news.cctv.com/2026/09/06/ARTIiOTL0ao7ZUEAl6T4P7YN260906.shtml)
+
++ [《讲好亚太故事 贡献中国方案——基于亚太传播指数的APEC叙事洞察》报告要点速览](https://news.cctv.com/2026/09/06/ARTI0uSjHengvHjKnrdYp2K9260906.shtml)
+
++ [“中国智造动能澎湃、享誉全球”（APEC中国年：开放 创新 合作）](https://news.cctv.com/2026/09/06/ARTISGXDHwuz1zFjtX2mizRw260906.shtml)
+
++ [专访丨东方经济论坛等活动助力俄中深化合作——访俄罗斯科学院专家巴巴耶夫](https://news.cctv.com/2026/09/06/ARTIN0Gol5FwXHPPdreRnOqx260906.shtml)
+
++ [“老外”行李箱，装着哪些中国“新特产”？](https://news.cctv.com/2026/09/06/ARTIWNMOPYgZf4EzY4L6nPyj260906.shtml)
+
++ [APEC“深圳时间”：创新之城定义亚太合作新坐标](https://news.cctv.com/2026/09/06/ARTItFmU6Je7LkByVf9rt8yF260906.shtml)
+
++ [承载希望 联通发展——中吉乌铁路铺展地区合作新图景](https://news.cctv.com/2026/09/06/ARTISYoMLEwQ8lcQzSH7LUyn260906.shtml)
+
++ [要点海报丨构建更加繁荣的亚太共同体](https://news.cctv.com/2026/09/06/ARTIzP1ba0jskfF6OmDBNwmy260906.shtml)
+
++ [一图了解《构建更加繁荣的亚太共同体》智库报告](https://news.cctv.com/2026/09/06/ARTIUYy0VBUt17zTKzBh9cI5260906.shtml)
+
++ [新华国际传播指数平台发布《讲好亚太故事 贡献中国方案》报告](https://news.cctv.com/2026/09/06/ARTIDZl9YHwV93v0tpyzlOtR260906.shtml)
+
++ [以军被曝正准备部分撤出黎巴嫩南部](https://news.cctv.com/2026/09/06/ARTICrUPYxioI93VWbLZ6mNH260906.shtml)
+
++ [亚太，不做美国AI的韭菜](https://news.cctv.com/2026/09/06/ARTI7CRScHjHxEkcZKWiVxZf260906.shtml)
+
++ [新华社国家高端智库发布亚太共同体智库报告](https://news.cctv.com/2026/09/06/ARTIPpyz9YmiMDJfKT7v7pvP260906.shtml)
+

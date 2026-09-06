@@ -29,3 +29,13 @@
 
 + [难绷，太相信 ai 了😭](https://www.v2ex.com/t/1239751)
 
++ [拼多多购物体验真的是很恶心](https://www.v2ex.com/t/1239770)
+
++ [卧槽 GPT-6 Astra 就是 AGI。](https://www.v2ex.com/t/1239725)
+
++ [GPT 6 Astra 重构的我的博客首页，有点喜欢](https://www.v2ex.com/t/1239777)
+
++ [求推荐二手国产安卓手机，可较为无痛刷入国际版系统，并保留 BL 锁](https://www.v2ex.com/t/1239716)
+
++ [我的电视-一个看电视直播的软件分享](https://www.v2ex.com/t/1239694)
+
