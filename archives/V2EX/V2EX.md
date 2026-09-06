@@ -47,3 +47,9 @@
 
 + [昨天，用了六年多的 VMESS+WS+TLS+CDN 的配置终于被墙了](https://www.v2ex.com/t/1239792)
 
++ [外包为什么在大家眼里这么不堪](https://www.v2ex.com/t/1239824)
+
++ [[Puluai] gpt6 已上线，欢迎大家尝鲜，注册留言送体验额度！](https://www.v2ex.com/t/1239794)
+
++ [gpt plus 会员，额度只有 20M](https://www.v2ex.com/t/1239789)
+

@@ -223,3 +223,7 @@
 
 + [美被曝谋划“战后遏制伊朗” 指望中东国家配合](https://news.cctv.com/2026/09/06/ARTIRhgAuuPQFXjds1Ksc1QN260906.shtml)
 
++ [亚太媒体合作伙伴计划筹备委员会成立](https://news.cctv.com/2026/09/06/ARTIr9tSq4Nx7lDtliocZomv260906.shtml)
+
++ [南非多地连发涉我侨胞被绑架案件 我使馆发布安全提醒](https://news.cctv.com/2026/09/06/ARTIWdS5FxEFrTGafQojnAju260906.shtml)
+
