@@ -199,3 +199,27 @@
 
 + [新华社国家高端智库发布亚太共同体智库报告](https://news.cctv.com/2026/09/06/ARTIPpyz9YmiMDJfKT7v7pvP260906.shtml)
 
++ [中国人民解放军“和平列车”医疗队抵达老挝万象](https://news.cctv.com/2026/09/06/ARTIl1YZv6pInSgOt7011qLK260906.shtml)
+
++ [伊朗称美方应认识到“游戏规则已经改变”](https://news.cctv.com/2026/09/06/ARTIrj5H8AZhNRBjjNePWfK1260906.shtml)
+
++ [八国外长发表联合声明谴责以色列迁移加沙人计划](https://news.cctv.com/2026/09/06/ARTIN1x1Grpmry8a6Rb5vK3j260906.shtml)
+
++ [智库报告解析亚太共同体广阔前景](https://news.cctv.com/2026/09/06/ARTInhkGoAEnELxUqbydUd55260906.shtml)
+
++ [亚太共同体智库报告引发热议](https://news.cctv.com/2026/09/06/ARTI95SHCBholTlh0ZTl0gm7260906.shtml)
+
++ [重视AI赋能，一道讲好亚太经济合作故事](https://news.cctv.com/2026/09/06/ARTILZ3Q0XAVMTZ0IaYlTY2W260906.shtml)
+
++ [“共赴深圳之约 共创美好亚太”媒体合作行动发布](https://news.cctv.com/2026/09/06/ARTIagzEDOKkxDUdGeZMNB4u260906.shtml)
+
++ [印尼一景区山火蔓延 我领馆提醒中国公民暂停前往](https://news.cctv.com/2026/09/06/ARTIz3yZUVlUViQpdP9j67qF260906.shtml)
+
++ [为推动构建亚太命运共同体贡献媒体力量](https://news.cctv.com/2026/09/06/ARTIuiF7DyKXPKKJuvPSTIFz260906.shtml)
+
++ [亚太媒体高端论坛发布深圳共识](https://news.cctv.com/2026/09/06/ARTI04AUWvsY3V0hMb2eajKt260906.shtml)
+
++ [印尼喀拉喀托之子火山持续喷发 四座机场临时关闭](https://news.cctv.com/2026/09/06/ARTIjs4aCPki1NyCaObgsEKJ260906.shtml)
+
++ [美被曝谋划“战后遏制伊朗” 指望中东国家配合](https://news.cctv.com/2026/09/06/ARTIRhgAuuPQFXjds1Ksc1QN260906.shtml)
+

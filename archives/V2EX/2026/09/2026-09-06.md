@@ -39,3 +39,11 @@
 
 + [我的电视-一个看电视直播的软件分享](https://www.v2ex.com/t/1239694)
 
++ [AndroMeld：最好的 Android 与 Mac 连续互通方案，新增远程连接 [送码]](https://www.v2ex.com/t/1239786)
+
++ [22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限](https://www.v2ex.com/t/1239774)
+
++ [法拍 iPhone 的 ID 解锁问题让人心里没底](https://www.v2ex.com/t/1239788)
+
++ [昨天，用了六年多的 VMESS+WS+TLS+CDN 的配置终于被墙了](https://www.v2ex.com/t/1239792)
+
