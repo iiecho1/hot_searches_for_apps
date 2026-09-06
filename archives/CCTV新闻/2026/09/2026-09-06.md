@@ -167,3 +167,7 @@
 
 + [德国运载火箭第二次发射成功进入轨道](https://news.cctv.com/2026/09/06/ARTIoaXzePij04bH8CJ8dusr260906.shtml)
 
++ [普京：俄方将努力确保美乌谈判进程和调解人员安全](https://news.cctv.com/2026/09/06/ARTItD91XcWTfv1Az62rP8px260906.shtml)
+
++ [加拿大最新民调：约八成加受访者支持对美实施贸易反制](https://news.cctv.com/2026/09/06/ARTIYwCOZ90WMHzL7BFxvbS9260906.shtml)
+

@@ -23,3 +23,9 @@
 
 + [外接显示器时，你会把 Mac 打开作为副屏用吗？](https://www.v2ex.com/t/1239671)
 
++ [一个 MonoRepo 复杂系统的部署问题](https://www.v2ex.com/t/1239730)
+
++ [几个网友分享的 GPT-6-Astra 编写的游戏和 Web 页面](https://www.v2ex.com/t/1239697)
+
++ [难绷，太相信 ai 了😭](https://www.v2ex.com/t/1239751)
+
