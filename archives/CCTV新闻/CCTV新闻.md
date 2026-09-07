@@ -179,3 +179,15 @@
 
 + [墨西哥中部烟花爆炸死伤人数升至74人](https://news.cctv.com/2026/09/07/ARTI8W10in4vVdfiK9nrOIYt260907.shtml)
 
++ [尼泊尔泥石流灾害遇难人数升至1355人](https://news.cctv.com/2026/09/07/ARTIiHUfFBzBWIXWBIU1Xwrz260907.shtml)
+
++ [澳大利亚或将允许用户关闭社交媒体算法选项](https://news.cctv.com/2026/09/07/ARTIeDZRk5jUY69uRI8ffwEO260907.shtml)
+
++ [霍尔木兹海峡通航量降至5月来最低](https://news.cctv.com/2026/09/07/ARTIH7xGCUwZnzkzjs6009Hc260907.shtml)
+
++ [聚焦家电、水质等项目 2025年国际检验检测能力验证工作完成](https://news.cctv.com/2026/09/07/ARTIeBqcBuJfVCelehPSWePx260907.shtml)
+
++ [中国驻马拉维大使馆提醒中国公民注意防范涉外婚姻风险](https://news.cctv.com/2026/09/07/ARTIdfyVq8KuXD8DXAEO5tw4260907.shtml)
+
++ [埃及各界人士高度评价习近平主席国事访问](https://news.cctv.com/2026/09/07/ARTIPcHlhdWbbYCoNwzan1G1260907.shtml)
+

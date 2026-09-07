@@ -25,3 +25,27 @@
 
 + [发车一度跌至第 10 位，张雪机车德比斯 2026 WSBK 法国站第一回合获季军](https://m.ithome.com/html/998819.htm)
 
++ [华为 Pura X Max 阔折叠手机新配色曝光：含波尔多红，采用纯色无花纹设计](https://m.ithome.com/html/998948.htm)
+
++ [比亚迪、理想、北汽集团等多家车企预祝小米澎程上市成功](https://m.ithome.com/html/998916.htm)
+
++ [网友“手搓”Apple Music 鸿蒙版应用：适配沉浸光感特性，上架时间待定](https://m.ithome.com/html/998945.htm)
+
++ [小米卢伟冰预告明晚发布会有惊喜，雷军讲全场](https://m.ithome.com/html/999041.htm)
+
++ [比亚迪、理想、北汽集团等多家车企预祝小米澎程上市成功，雷军发文致谢](https://m.ithome.com/html/999017.htm)
+
++ [比亚迪：今年受电池产能制约，闪充太受欢迎](https://m.ithome.com/html/999034.htm)
+
++ [小米智能表盘 2 亮相：连贯完整大屏设计可实现“转头”、适配 SU7 / YU7 / 澎程全系车型](https://m.ithome.com/html/998919.htm)
+
++ [理想汽车回应小米雷军：增程不是路线之争，而是从用户需求出发、解决真实使用场景的产品选择](https://m.ithome.com/html/998987.htm)
+
++ [小米汽车认为增程汽车大有可为](https://m.ithome.com/html/998925.htm)
+
++ [央视曝光后，浙江台州对“非标”电动自行车 53 家相关单位立案调查](https://m.ithome.com/html/999002.htm)
+
++ [古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代](https://m.ithome.com/html/999045.htm)
+
++ [小米 18 Fold 中折叠手机陶瓷特别版亮相，采用粉嫩外观设计](https://m.ithome.com/html/999085.htm)
+
