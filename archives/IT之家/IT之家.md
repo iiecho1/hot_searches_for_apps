@@ -49,3 +49,7 @@
 
 + [小米 18 Fold 中折叠手机陶瓷特别版亮相，采用粉嫩外观设计](https://m.ithome.com/html/999085.htm)
 
++ [天玑 9600 Pro 最新跑分成绩曝光：单核最高 4137，多核最高 13086](https://m.ithome.com/html/998910.htm)
+
++ [vivo X500 系列手机开启预约：Pro Max 机型首发 2nm 天玑 9600 Pro 处理器、支持原子工作台功能](https://m.ithome.com/html/998893.htm)
+

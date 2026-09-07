@@ -191,3 +191,5 @@
 
 + [埃及各界人士高度评价习近平主席国事访问](https://news.cctv.com/2026/09/07/ARTIPcHlhdWbbYCoNwzan1G1260907.shtml)
 
++ [美媒：伊朗婚礼遭袭或因美军炸弹“偏离目标”](https://news.cctv.com/2026/09/07/ARTIefXoDgf8AC7TZ7deXaqV260907.shtml)
+

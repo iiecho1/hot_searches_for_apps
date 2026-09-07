@@ -37,3 +37,19 @@
 
 + [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
 
++ [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+
++ [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
++ [mksglu/context-mode](https://github.com/mksglu/context-mode)
+
++ [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)
+
++ [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV)
+
++ [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
++ [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+
++ [pascalorg/editor](https://github.com/pascalorg/editor)
+
