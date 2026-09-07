@@ -161,3 +161,17 @@
 
 + [美军对先进武器库存信息泄密展开调查 多名高级军官接受测谎](https://news.cctv.com/2026/09/05/ARTIB2tCKZReqxoTptva2bnu260905.shtml)
 
++ [维也纳“全球治理之友小组”重申支持全球治理倡议](https://news.cctv.com/2026/09/08/ARTIWtJfpgb4cMCmGMnE4GXu260908.shtml)
+
++ [巴西首都举行独立日阅兵仪式](https://news.cctv.com/2026/09/08/ARTIGbcPZNYeqYTFjketrW3D260908.shtml)
+
++ [菲前众议长因涉嫌防洪项目腐败被执行逮捕令](https://news.cctv.com/2026/09/08/ARTIXFITVZ430sxqO6hI3OOH260908.shtml)
+
++ [展出亲日者作品，韩国国立中央博物馆道歉：全面整改](https://news.cctv.com/2026/09/08/ARTIIqNnaeU6xBXpMIXCfZWL260908.shtml)
+
++ [特朗普威胁在美禁售加拿大庞巴迪产品](https://news.cctv.com/2026/09/08/ARTIYCYtvG0tyVnyxCtAjOxK260908.shtml)
+
++ [扎波罗热核电站外部供电已恢复](https://news.cctv.com/2026/09/08/ARTIN68jzfbHjptHw3XajPSN260908.shtml)
+
++ [英首相与美总统通电话 讨论俄乌冲突等议题](https://news.cctv.com/2026/09/08/ARTI9HwpDqz7VZVRZ9PvLfkH260908.shtml)
+
