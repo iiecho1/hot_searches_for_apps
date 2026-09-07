@@ -177,3 +177,5 @@
 
 + [也门政府军与胡塞武装交火 造成至少117人死亡](https://news.cctv.com/2026/09/07/ARTIzuvwZ2q62wz7GeB0Y3iN260907.shtml)
 
++ [墨西哥中部烟花爆炸死伤人数升至74人](https://news.cctv.com/2026/09/07/ARTI8W10in4vVdfiK9nrOIYt260907.shtml)
+
