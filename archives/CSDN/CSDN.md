@@ -101,3 +101,9 @@
 
 + [物联网 fastbee MQTT QoS1缺陷分析](https://blog.csdn.net/prtem/article/details/164377422)
 
++ [Spring AI 2.0企业级RAG实战：引用校验、无依据拒答与知识治理怎么做？](https://blog.csdn.net/qupengkun/article/details/164431594)
+
++ [考虑多能负荷不确定性的区域综合能源系统鲁棒规划(Matlab&Python代码）](https://blog.csdn.net/weixin_61181717/article/details/164512098)
+
++ [【物联网】智能家居项目](https://blog.csdn.net/2301_79608998/article/details/164427609)
+

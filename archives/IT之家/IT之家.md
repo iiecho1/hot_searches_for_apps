@@ -25,3 +25,7 @@
 
 + [央视曝光后，浙江台州对“非标”电动自行车 53 家相关单位立案调查](https://m.ithome.com/html/999002.htm)
 
++ [古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代](https://m.ithome.com/html/999045.htm)
+
++ [小米 18 Fold 中折叠手机陶瓷特别版亮相，采用粉嫩外观设计](https://m.ithome.com/html/999085.htm)
+
