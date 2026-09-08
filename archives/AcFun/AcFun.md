@@ -69,3 +69,7 @@
 
 + [你像一场大雨 淋湿我的眼睛](https://m.acfun.cn/v/?ac=48832190)
 
++ [【4K/60帧/HDR】水晶花的色散](https://m.acfun.cn/v/?ac=48832128)
+
++ [昔由-20260906 mirror 提线木偶 你真可怜](https://m.acfun.cn/v/?ac=48831271)
+

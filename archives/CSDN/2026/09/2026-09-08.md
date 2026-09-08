@@ -111,3 +111,13 @@
 
 + [Spring的事务控制](https://blog.csdn.net/m0_57532232/article/details/164430853)
 
++ [2026远控软件安全专项横评：沿着攻击链逐关实测UU远程/ToDesk/向日葵，谁能挡住“盗连“？附安全评分表与选型建议（开发者实测）](https://blog.csdn.net/IRpickstars/article/details/164403951)
+
++ [AI Agent 自动化安全审计实战：基于 LangChain 打造智能化漏洞扫描助手](https://blog.csdn.net/yiyiyi0322/article/details/164429839)
+
++ [隐藏在可观测性数据中的安全攻击](https://blog.csdn.net/UbuntuTouch/article/details/164559581)
+
++ [mediamtx v1.21.0 发布：Media-over-QUIC、RTSP、HLS、WebRTC 与安全能力全面升级](https://blog.csdn.net/weixin_48502062/article/details/164458739)
+
++ [软件工程中项目管理的重要性](https://blog.csdn.net/qq_15410539/article/details/164427615)
+
