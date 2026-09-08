@@ -33,3 +33,19 @@
 
 + [上海电信 720/年 300M，申请公网 IP + 改桥接折腾记录](https://www.v2ex.com/t/1239977)
 
++ [父母六十了，找不到活干怎么办](https://www.v2ex.com/t/1240105)
+
++ [感觉小米 N90 MAX 探索版简直就是数字游民的痛车啊](https://www.v2ex.com/t/1240256)
+
++ [“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.8 日~9.15 日]](https://www.v2ex.com/t/1240245)
+
++ [每天合计 600 张 image-2 免费生图网站 额外每人赠送 200 张](https://www.v2ex.com/t/1240321)
+
++ [累了 现在一个域名那么贵了吗](https://www.v2ex.com/t/1240199)
+
++ [跨城搬家最好的选择是什么？](https://www.v2ex.com/t/1240248)
+
++ [没重置？被骗了？](https://www.v2ex.com/t/1240283)
+
++ [Codex Sept 7 重置](https://www.v2ex.com/t/1240238)
+

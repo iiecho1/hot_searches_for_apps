@@ -175,3 +175,9 @@
 
 + [英首相与美总统通电话 讨论俄乌冲突等议题](https://news.cctv.com/2026/09/08/ARTI9HwpDqz7VZVRZ9PvLfkH260908.shtml)
 
++ [中国驻沙特大使馆提醒在沙特中资机构和中国公民注意安全](https://news.cctv.com/2026/09/08/ARTITjmRyTMA3rK3ligkHIr7260908.shtml)
+
++ [火山灰散去 印尼雅加达主要机场恢复运营](https://news.cctv.com/2026/09/08/ARTIWbwNtaBTg8Izq9KfvuC3260908.shtml)
+
++ [零时差 | 柏林一座少女雕像，为何让日本气急败坏？](https://news.cctv.com/2026/09/08/ARTIVkQgISiMCdHxJagrJ5J8260908.shtml)
+
