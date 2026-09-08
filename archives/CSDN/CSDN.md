@@ -101,3 +101,25 @@
 
 + [GitHub每日热评｜OpenBot：给 Agent 一台电脑之前，先让每个动作经过治理网关](https://blog.csdn.net/TunerT_TQ/article/details/164377122)
 
++ [服务一多就别全靠命令行：用 1Panel 管理极空间上的 Docker 应用](https://blog.csdn.net/Dovis5884/article/details/164631529)
+
++ [第 22 届全国大学生智能汽车竞赛赛题设计方案（豆包建议稿・2027）](https://blog.csdn.net/zhuoqingjoking97298/article/details/164628713)
+
++ [2026鸿蒙原生适配远控APP横测：ToDesk vs 向日葵，跨系统功能谁更全？](https://blog.csdn.net/qq_51601665/article/details/164467758)
+
++ [数据迁移工具实战：KDMS自动化评估与量化决策体系解析](https://blog.csdn.net/weixin_62765017/article/details/164475057)
+
++ [让 NAS里的 AI 真正常驻：Hermes 接入微信，从本地 Agent 到远程管理](https://blog.csdn.net/m0_68390957/article/details/164632225)
+
++ [2026医疗AI编程：医院信息工程部规模化编程与代码审核路径（上）](https://blog.csdn.net/kkiron/article/details/164568199)
+
++ [鸿蒙 7.0.0 + Flutter 3.44.9 性能实测：1000 条数据从卡顿到流畅](https://blog.csdn.net/2302_80329073/article/details/164483650)
+
++ [基于抗辐射MCU的卫星分布式控制系统CANFD总线架构研究](https://blog.csdn.net/ANSILIC/article/details/164609346)
+
++ [LangChain RAG 开发实战：文档加载与文本分割详解](https://blog.csdn.net/yue_2899799318/article/details/164455312)
+
++ [GPT-6 + Blender 完整教程：用官方 API 给 Blender 接一个 AI 脚本助手](https://blog.csdn.net/aidoudoulong/article/details/164460839)
+
++ [深入理解 Linux IO 模型（三）：多路复用 —— poll](https://blog.csdn.net/Felix_kiss_L/article/details/164629641)
+
