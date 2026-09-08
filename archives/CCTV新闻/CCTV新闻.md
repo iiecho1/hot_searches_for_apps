@@ -181,3 +181,7 @@
 
 + [零时差 | 柏林一座少女雕像，为何让日本气急败坏？](https://news.cctv.com/2026/09/08/ARTIVkQgISiMCdHxJagrJ5J8260908.shtml)
 
++ [佩斯科夫：俄方希望恢复乌克兰问题三方谈判](https://news.cctv.com/2026/09/08/ARTIdtbGbAoNBiQl9fAcSMMR260908.shtml)
+
++ [中国对尼泊尔第四批紧急援助物资运抵加德满都](https://news.cctv.com/2026/09/08/ARTIZSyDytpHlrH515gm0pX7260908.shtml)
+

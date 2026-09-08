@@ -29,3 +29,17 @@
 
 + [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
++ [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+
++ [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+
++ [browser-use/browser-use](https://github.com/browser-use/browser-use)
+
++ [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
+
++ [openai/plugins](https://github.com/openai/plugins)
+

@@ -121,3 +121,41 @@
 
 + [软件工程中项目管理的重要性](https://blog.csdn.net/qq_15410539/article/details/164427615)
 
++ [ValidX vs Google Guava Preconditions：验证 vs 断言](https://blog.csdn.net/vipxieliang/article/details/164396323)
+
++ [Word 定稿、PDF 版本、盖章扫描件：一份合同的三种形态，差异到底怎么比？](https://blog.csdn.net/qq_57761637/article/details/164602220)
+
++ [从状态监控到异常通知：Beszel 部署、Agent 接入与公网访问完整流程](https://blog.csdn.net/EterNity_TiMe_/article/details/164587338)
+
++ [【AI大模型接入SDK】大模型部署方案：云端接入与本地部署对比分析](https://blog.csdn.net/2401_89899187/article/details/164623867)
+
++ [星空组网真实体验：Mac远程访问Ubuntu，SSH与HTTP全流程验证](https://blog.csdn.net/2401_87629362/article/details/164578929)
+
++ [源端并行解析 × 目标端多通道入库：KFS 同步架构深度解读](https://blog.csdn.net/weixin_52908342/article/details/164589229)
+
++ [# SpringBoot3+Flowable+IM 审批打通在线聊天：催办、沟通不用切微信，点办理人直接对话](https://blog.csdn.net/zhouzhongyan/article/details/164507318)
+
++ [FastGPT生产级高并发改造：基于PgBouncer实现PostgreSQL连接池优化完整技术手册](https://blog.csdn.net/beautifulmemory/article/details/164469948)
+
++ [不装 SSH 客户端也能连服务器：用 WebSSH 把终端搬进浏览器](https://blog.csdn.net/weixin_44976692/article/details/164616821)
+
++ [Elasticsearch 中的查询重写规则：通配符扫描速度提升 2.3 倍](https://blog.csdn.net/UbuntuTouch/article/details/164553718)
+
++ [【SenseNova U1.5 Lite实战】同一条命令，为什么 16GB 卡必崩、A100 秒过？——WSL2 pinned 内存边界实测](https://blog.csdn.net/herosunly/article/details/164561473)
+
++ [N1 飞牛 NAS 部署 OpenClaw 实测：Node.js 环境、模型配置、微信接入与远程 SSH](https://blog.csdn.net/mrdeam/article/details/164612764)
+
++ [AI | dsh报错失败400: {“type“:“MissingSessionID“,“message“:“Error from provider (Console Go)](https://blog.csdn.net/Andya_net/article/details/164581166)
+
++ [【HarmonyOS 7】新品发布：华为Mate XT 2携麒麟9050 Pro与鸿蒙7重磅登场](https://blog.csdn.net/Morse_Chen/article/details/164507419)
+
++ [2026‑09‑07 AI产业深度解读｜GPT-6 Astra引爆AGI争议、自动化科研落地、对齐监控能力衰减](https://blog.csdn.net/qq_36729037/article/details/164483543)
+
++ [教师节特辑——大学老师远程办公横测，在家批作业、远程答疑、调课件谁顺手？](https://blog.csdn.net/2501_91062530/article/details/164606749)
+
++ [AI陪你学CCF GESP C++](https://blog.csdn.net/dllglvzhenfeng/article/details/164496255)
+
++ [解决vscode平台关于missing x-opencode-session and cannot be routed efficiently问题（其他平台也可以参考这个解决办法）](https://blog.csdn.net/2302_79349465/article/details/164508256)
+
++ [GPT-6 Astra 实测：速度、编程、上下文管理与 Computer Use 有哪些技术升级？](https://blog.csdn.net/2301_80956187/article/details/164403975)
+

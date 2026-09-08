@@ -53,3 +53,5 @@
 
 + [26.99 万元，小米澎程 N90 Max 大七座旗舰 SUV 正式上市](https://m.ithome.com/html/999461.htm)
 
++ [华为史上最强处理器！麒麟 9050 Pro 官宣，Mate XT 2 非凡大师全新展翼三折叠手机首发搭载](https://m.ithome.com/html/999294.htm)
+

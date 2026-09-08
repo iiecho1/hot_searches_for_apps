@@ -49,3 +49,11 @@
 
 + [Codex Sept 7 重置](https://www.v2ex.com/t/1240238)
 
++ [吐槽一下现在的键盘设计....](https://www.v2ex.com/t/1240336)
+
++ [教师节马上到了](https://www.v2ex.com/t/1240250)
+
++ [工作找不到，我是否该相信玄学？](https://www.v2ex.com/t/1240302)
+
++ [我最了一个导航站，欢迎大家使用](https://www.v2ex.com/t/1240258)
+
