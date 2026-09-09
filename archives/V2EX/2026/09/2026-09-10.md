@@ -21,3 +21,5 @@
 
 + [请教下, 用 claude/codex 写代码太贵了, 打算尝试下国产模型, 如何处理?](https://www.v2ex.com/t/1240540)
 
++ [大家 codex 都用哪个模型哪个强度啊](https://www.v2ex.com/t/1240554)
+

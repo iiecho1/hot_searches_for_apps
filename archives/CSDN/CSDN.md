@@ -101,3 +101,15 @@
 
 + [peerDependencies 全面解析：前端依赖生态的核心机制与实战指南](https://blog.csdn.net/m0_51089660/article/details/164632922)
 
++ [从 Superpowers 到 Matt Skills：AI 编程工作流不是越完整越好](https://blog.csdn.net/2301_80956187/article/details/164632445)
+
++ [Agent 的工具没变，SGLang 缓存为什么没命中？](https://blog.csdn.net/w776341482/article/details/164746192)
+
++ [基于蚁群优化算法的直流电机模糊PID控制（Matlab实现）](https://blog.csdn.net/Ke_Yan_She/article/details/164759633)
+
++ [Web前端周刊2026W36 | pnpm 12 Rust 重写、Remix 3 RC、Node.js 26.8.0、htmx 4.0 大版本](https://blog.csdn.net/xiaohui_hubei/article/details/164594413)
+
++ [Flutter 鸿蒙实战：用 wakelock_plus 三方库给阅读页加上屏幕常亮](https://blog.csdn.net/lbcyllqj/article/details/164626104)
+
++ [基于 Kubernetes 与 GitLab CI/CD 的云原生自动化交付平台](https://blog.csdn.net/2503_90172382/article/details/164490077)
+

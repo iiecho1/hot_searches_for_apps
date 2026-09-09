@@ -161,3 +161,11 @@
 
 + [APEC“深圳时间”：创新之城定义亚太合作新坐标](https://news.cctv.com/2026/09/06/ARTItFmU6Je7LkByVf9rt8yF260906.shtml)
 
++ [刚果（金）埃博拉疫情累计确诊病例超6700例](https://news.cctv.com/2026/09/10/ARTIyJu7boNC5cBck2XoMq4e260910.shtml)
+
++ [特朗普称美伊战事将在中期选举后“立即终结”](https://news.cctv.com/2026/09/10/ARTIiJR52bi3Bjk9vxQOEJwh260910.shtml)
+
++ [菲律宾巴拉望省近海船只起火事故已致5人死亡](https://news.cctv.com/2026/09/10/ARTIauqSogbxU6DrjdnHqJhd260910.shtml)
+
++ [八国发表联合声明 欢迎英国限制与以非法定居点贸易](https://news.cctv.com/2026/09/10/ARTIHTrRQlHXdlBlpoztxuKt260910.shtml)
+
