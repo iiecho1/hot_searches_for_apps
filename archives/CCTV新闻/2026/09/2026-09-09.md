@@ -161,3 +161,17 @@
 
 + [菲律宾副总统莎拉缴纳保释金 法院解除逮捕令](https://news.cctv.com/2026/09/05/ARTIKul0fVndk0JFevJJqbNr260905.shtml)
 
++ [极右翼获胜，德国州议会选举结果“拉响欧洲警报”](https://news.cctv.com/2026/09/09/ARTIbPuiuGfi8UJDSvuf1PCx260909.shtml)
+
++ [欧盟称以色列扩张约旦河西岸定居点破坏“两国方案”前景](https://news.cctv.com/2026/09/09/ARTIu2Dvn7mbs83NlmDk18tV260909.shtml)
+
++ [伊朗军方警告：将袭击科威特及巴林港口油轮 船员需立即撤离](https://news.cctv.com/2026/09/09/ARTI1TrcauCXXWeEQBpOT1ol260909.shtml)
+
++ [第80届联大闭幕 孟加拉国外长就任下届联大主席](https://news.cctv.com/2026/09/09/ARTIVGXnUW4kMPnFqd4CgbqF260909.shtml)
+
++ [联合国秘书长敦促恢复俄乌谈判](https://news.cctv.com/2026/09/09/ARTINg25UNZaitDYe5JOKa7f260909.shtml)
+
++ [美军回应无人潜航器被伊朗捕获：系“故障设备”](https://news.cctv.com/2026/09/09/ARTIJBHCABk1Jx1WXrrdpM1s260909.shtml)
+
++ [英国空管系统技术故障致大批航班取消](https://news.cctv.com/2026/09/09/ARTIR3h8w2vcXwfw69dcPZik260909.shtml)
+
