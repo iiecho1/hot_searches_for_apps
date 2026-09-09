@@ -25,3 +25,27 @@
 
 + [26.99 万元，小米澎程 N90 Max 大七座旗舰 SUV 正式上市](https://m.ithome.com/html/999461.htm)
 
++ [安卓最强 2nm 芯片：高通第六代骁龙 8 超级至尊版实物图曝光](https://m.ithome.com/html/999649.htm)
+
++ [古尔曼：苹果首款折叠屏手机 iPhone Ultra 十年磨一剑，售价超 2000 美元](https://m.ithome.com/html/999915.htm)
+
++ [抖音首次超越微信，7 月单一用户月均使用时长拿下国内第一](https://m.ithome.com/html/999833.htm)
+
++ [芯片架构从平面变 3D，专家解读华为麒麟 9050 Pro 新突破](https://m.ithome.com/html/999716.htm)
+
++ [豆包输入法推出 Windows 版，现已覆盖 PC、Mac、iOS、Android 和鸿蒙五大平台](https://m.ithome.com/html/999934.htm)
+
++ [网红晒图称“向广西灾区捐款百万元”：红十字会反馈实际只捐 1 元、平台方回应“相应用户已禁言”](https://m.ithome.com/html/999804.htm)
+
++ [华为官宣鸿蒙 HarmonyOS 7 发布 24 小时后累计升级终端设备数突破 500 万](https://m.ithome.com/html/999895.htm)
+
++ [华为靳玉志谈麒麟 9050 Pro 回归：六年时间，麒麟完成涅槃，国产芯片迎来新的里程碑](https://m.ithome.com/html/999970.htm)
+
++ [苹果 iOS / iPadOS 26.6.2 正式版发布，修复蜂窝网络无法下载更新问题](https://m.ithome.com/html/999950.htm)
+
++ [华为更新粒子动效适配设备清单，Mate 60 等老机型升级 HarmonyOS 7.0.0.105SP10 版本后支持](https://m.ithome.com/html/999748.htm)
+
++ [小米澎程冲上绿化带？官方回应称试驾客户误将油门当刹车，无人受伤](https://m.ithome.com/html/999952.htm)
+
++ [千万里程碑越来越近：曝华为 Mate 80 系列手机销量突破 900 万台](https://m.ithome.com/html/999681.htm)
+

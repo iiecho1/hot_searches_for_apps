@@ -23,3 +23,23 @@
 
 + [没重置？被骗了？](https://www.v2ex.com/t/1240283)
 
++ [[送终身会员] 自带 Agent 的 SSH 终端软件](https://www.v2ex.com/t/1240564)
+
++ [失业三个月多月了，做了两款全栈产品，目前付费收入 100 块都没有，还要继续吗](https://www.v2ex.com/t/1240426)
+
++ [一边是消费降级，一边是各种涨价。看不懂了。](https://www.v2ex.com/t/1240449)
+
++ [论小红书上的极品蠢人](https://www.v2ex.com/t/1240605)
+
++ [从什么时候开始，早睡早起变成小众爱好了？](https://www.v2ex.com/t/1240610)
+
++ [避雷一个 AI 中转站，世一稳（https://sub.bulita.net）](https://www.v2ex.com/t/1240644)
+
++ [又是一个新的时代](https://www.v2ex.com/t/1240550)
+
++ [[送终身会员] Frset：精致优雅的 macOS 效率工具进入稳定版。主打剪贴板、截图、翻译、AI、开发者工具等](https://www.v2ex.com/t/1240445)
+
++ [请教下, 用 claude/codex 写代码太贵了, 打算尝试下国产模型, 如何处理?](https://www.v2ex.com/t/1240540)
+
++ [豆包输入法 WIN 端可以下载了](https://www.v2ex.com/t/1240545)
+

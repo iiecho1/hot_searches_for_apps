@@ -175,3 +175,9 @@
 
 + [英国空管系统技术故障致大批航班取消](https://news.cctv.com/2026/09/09/ARTIR3h8w2vcXwfw69dcPZik260909.shtml)
 
++ [伊朗称成功打击两艘美军驱逐舰](https://news.cctv.com/2026/09/09/ARTIxByaUhav6Kt5Pp8wMqtT260909.shtml)
+
++ [美国将于9月29日禁止进口加拿大乳制品、酒类和机动车辆](https://news.cctv.com/2026/09/09/ARTIwamnrr1B0wlEsUlwj92q260909.shtml)
+
++ [加拿大总理动员全民“上场”应对加美贸易战](https://news.cctv.com/2026/09/09/ARTIMTiVrCqkkBddy5hwUoqJ260909.shtml)
+
