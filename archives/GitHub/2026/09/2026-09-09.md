@@ -35,3 +35,17 @@
 
 + [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
 
++ [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)
+
++ [pascalorg/editor](https://github.com/pascalorg/editor)
+
++ [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
++ [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
++ [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
+

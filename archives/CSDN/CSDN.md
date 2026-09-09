@@ -147,3 +147,25 @@
 
 + [Linux网络（六）：一文吃透 TCP Socket 编程：从监听状态到 accept 握手全流程](https://blog.csdn.net/Z2314246476/article/details/164249809)
 
++ [SQL Server数据库迁移：金仓KES V9R4C019以深度T‑SQL兼容实现应用极简改造](https://blog.csdn.net/lrq13965748542/article/details/164450133)
+
++ [2026鸿蒙HarmonyOS远程控制对比：ToDesk vs 向日葵，实测5个细节见分晓](https://blog.csdn.net/m0_62599305/article/details/164629624)
+
++ [Linux系统--进程控制（上）](https://blog.csdn.net/2501_93697341/article/details/164729480)
+
++ [Flutter 三方库 OpenHarmony 鸿蒙适配实战：dialog_alert 纯 Dart 对话框库评估、改动与鸿蒙 PC 真机验证全流程](https://blog.csdn.net/weixin_62765017/article/details/164599827)
+
++ [Spring AI Alibaba 系列总结:Java 工程师 AI 能力全景图谱](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/164628324)
+
++ [过度追逐确定性：时代个体的困境与出路](https://blog.csdn.net/u013669912/article/details/164632237)
+
++ [【Linux网络】网络层协议 IP ：从网络层原理到 Linux 内核源码](https://blog.csdn.net/yhrxh_ymq/article/details/164370199)
+
++ [Redis 08 · 主从复制：全量同步、增量同步与复制延迟](https://blog.csdn.net/weixin_37358308/article/details/164630412)
+
++ [M3E Canvas 使用教程：4.8k Star 浏览器画 Material 3 界面一键生成 AI 提示词（vibe-coding 神器）在线版/本地部署/静态构建详解](https://blog.csdn.net/qq_34958121/article/details/164631725)
+
++ [网络编程套接字（socket）](https://blog.csdn.net/java_nnnn/article/details/164400638)
+
++ [GPT-Image-2.5 凌晨发布，速度精度交互三升级，Flare 与 Sunburst 怎么选](https://blog.csdn.net/xdn1214/article/details/164722938)
+

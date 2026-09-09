@@ -187,3 +187,21 @@
 
 + [尼泊尔泥石流灾害遇难人数升至1367人 约5132人失联](https://news.cctv.com/2026/09/09/ARTIOS9VJvErR9Gs2zb1USbT260909.shtml)
 
++ [韩国表示继续不参加日本佐渡金山劳工受害者悼念仪式](https://news.cctv.com/2026/09/09/ARTIxlVg21oEdjTuqLFW7m3u260909.shtml)
+
++ [英国航班管理系统故障致1900多次航班被取消](https://news.cctv.com/2026/09/09/ARTI4NmnuPzIEKR0Eh8JpgpL260909.shtml)
+
++ [瑞士一百年水电站爆炸致两人重伤](https://news.cctv.com/2026/09/09/ARTIkgxNdt0dWraCP4c8bW1p260909.shtml)
+
++ [叙利亚一武器库爆炸致14死11伤](https://news.cctv.com/2026/09/09/ARTIKrzJ8wud5oTZxnUlUeM1260909.shtml)
+
++ [佩斯科夫：尚无调解俄乌冲突的路线图 俄方期待恢复三方谈判](https://news.cctv.com/2026/09/09/ARTIJ1LMUzUvl99sVeIo82zP260909.shtml)
+
++ [武契奇宣布解散国民议会并确认提前选举日期](https://news.cctv.com/2026/09/09/ARTIIK8fT3tOmrTFss0fMCE6260909.shtml)
+
++ [欧洲头条丨冯德莱恩两年两登格陵兰 2亿欧元背后的北极棋局](https://news.cctv.com/2026/09/09/ARTIVusWQmCmutIdQj9JAOtG260909.shtml)
+
++ [以媒：哈马斯突袭前 以总理获警示却未予重视](https://news.cctv.com/2026/09/09/ARTIhV7Uf3XYwh1t325VAj13260909.shtml)
+
++ [美国制裁不断 加拿大人直呼“荒谬”](https://news.cctv.com/2026/09/09/ARTIg2hzWCt0lt8aBDdPzCLp260909.shtml)
+
