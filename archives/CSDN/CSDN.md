@@ -123,3 +123,27 @@
 
 + [深入理解 Linux IO 模型（三）：多路复用 —— poll](https://blog.csdn.net/Felix_kiss_L/article/details/164629641)
 
++ [从“投屏“到“办公“，ToDesk鸿蒙版4.8.0.0补齐远控“进入→处理→离开“全流程](https://blog.csdn.net/m0_73367097/article/details/164496188)
+
++ [SpringBoot3+Vue3 2026最推荐轻量级ERP：缺货补货、客户出货、库存对账、收款怎么按场景闭环](https://blog.csdn.net/zhouzhongyan/article/details/164630428)
+
++ [会开完了，活还是没人干？我用 AiiOnly + Workbuddy 做了个「会议行动项助手」](https://blog.csdn.net/2302_78391795/article/details/164630368)
+
++ [KES-Operator：K8s 数据库集群自动化运维方案](https://blog.csdn.net/u014727709/article/details/164431755)
+
++ [刚刚，DeepSeek V4.1 Flash模型突然上线内测：5 分钟接入9月10日就要下线的内测版](https://blog.csdn.net/aidoudoulong/article/details/164629225)
+
++ [MySQL系列-----基本查询](https://blog.csdn.net/jiaomorning/article/details/164630712)
+
++ [【从0开始学习计算机网络】| Cookie、Session、Token、JWT，到底都是个啥？](https://blog.csdn.net/2503_94545876/article/details/164630970)
+
++ [【AI 安全攻防】大模型越权实录：黑客是如何利用 Prompt 注入劫持企业内部 AI 助手的？](https://blog.csdn.net/yiyiyi0322/article/details/164430000)
+
++ [【Linux】进程信号----1](https://blog.csdn.net/2502_90266547/article/details/164428050)
+
++ [一字段，一份副本：Elasticsearch 列式存储如何丢弃倒排索引](https://blog.csdn.net/UbuntuTouch/article/details/164697982)
+
++ [《Linux 网络编程》深入传输层 UDP 协议原理：端口、报文、缓冲区与内核源码解析](https://blog.csdn.net/2501_91275995/article/details/164631213)
+
++ [Linux网络（六）：一文吃透 TCP Socket 编程：从监听状态到 accept 握手全流程](https://blog.csdn.net/Z2314246476/article/details/164249809)
+

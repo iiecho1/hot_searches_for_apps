@@ -181,3 +181,9 @@
 
 + [加拿大总理动员全民“上场”应对加美贸易战](https://news.cctv.com/2026/09/09/ARTIMTiVrCqkkBddy5hwUoqJ260909.shtml)
 
++ [联合国教科文组织：全球针对学校的袭击事件大幅增加](https://news.cctv.com/2026/09/09/ARTI9XErUNgfjPzKCh6O5Tev260909.shtml)
+
++ [美国防部：美军在伊朗战事累计伤亡人数达838人](https://news.cctv.com/2026/09/09/ARTIOJEHjSi5HkNSJBXSrkYa260909.shtml)
+
++ [尼泊尔泥石流灾害遇难人数升至1367人 约5132人失联](https://news.cctv.com/2026/09/09/ARTIOS9VJvErR9Gs2zb1USbT260909.shtml)
+

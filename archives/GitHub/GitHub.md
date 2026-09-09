@@ -33,3 +33,5 @@
 
 + [openai/plugins](https://github.com/openai/plugins)
 
++ [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+
