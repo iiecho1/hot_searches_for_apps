@@ -169,3 +169,9 @@
 
 + [八国发表联合声明 欢迎英国限制与以非法定居点贸易](https://news.cctv.com/2026/09/10/ARTIHTrRQlHXdlBlpoztxuKt260910.shtml)
 
++ [叙利亚武器库爆炸致过渡政府国防部14人死亡](https://news.cctv.com/2026/09/10/ARTIRfBrf5HVp0yYzDUHBjLK260910.shtml)
+
++ [中国代表：政治外交解决才是伊朗核问题出路](https://news.cctv.com/2026/09/10/ARTIcwqls6gXrdxHpaeL0WRR260910.shtml)
+
++ [世粮署：刚果（金）埃博拉核心疫区50万人面临饥饿](https://news.cctv.com/2026/09/10/ARTIOVvb0JkQ9TJFWAIM7LZZ260910.shtml)
+
