@@ -27,3 +27,21 @@
 
 + [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
++ [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+
++ [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)
+
++ [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+
++ [armory3d/armorpaint](https://github.com/armory3d/armorpaint)
+
++ [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+
++ [JustVugg/colibri](https://github.com/JustVugg/colibri)
+
++ [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+
++ [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+
++ [vercel-labs/skills](https://github.com/vercel-labs/skills)
+

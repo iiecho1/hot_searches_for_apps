@@ -47,3 +47,11 @@
 
 + [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)
 
++ [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)
+
++ [为啥现在华为风评变化这么大](https://www.v2ex.com/t/1241048)
+
++ [现在教师节收礼已经这么明目张胆了吗](https://www.v2ex.com/t/1240939)
+
++ [openai，我 qnmd！](https://www.v2ex.com/t/1241024)
+

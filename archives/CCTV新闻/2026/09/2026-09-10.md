@@ -187,3 +187,11 @@
 
 + [菲律宾客轮起火事故已致5人死亡87人失联](https://news.cctv.com/2026/09/10/ARTIjxKBEPm6lAVUmzrtDeLH260910.shtml)
 
++ [不满法方批评 美国迟迟不批准法国新大使任命](https://news.cctv.com/2026/09/10/ARTIKA8Vx3PYo1XFR4ouGwBz260910.shtml)
+
++ [伊朗或“逆向开发”美军无人潜航器](https://news.cctv.com/2026/09/10/ARTIsbcsBPhk85YBJ3snXqCl260910.shtml)
+
++ [巴基斯坦：部分武装部队人员在沙特从事培训及相关后勤工作](https://news.cctv.com/2026/09/10/ARTIQlhSlTOnrtnpgXEPwlUA260910.shtml)
+
++ [以色列总理访戈兰高地 叙利亚过渡政府谴责“非法入境”](https://news.cctv.com/2026/09/10/ARTIg0wWoi0vdjw6dF1OJTDq260910.shtml)
+

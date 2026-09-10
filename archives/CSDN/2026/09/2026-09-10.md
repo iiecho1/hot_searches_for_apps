@@ -153,3 +153,27 @@
 
 + [【Linux 系统篇(十九)】进程(七)：深入理解虚拟地址空间：从进程地址空间到内核管理](https://blog.csdn.net/Huang_jin007/article/details/164749087)
 
++ [【AI大模型接入SDK】Ollama跨平台部署与运维指南](https://blog.csdn.net/2401_89899187/article/details/164823161)
+
++ [SpringBoot3+Vue3+UniApp 假勤配置：部门班次、WiFi/GPS 与请假方案怎么选](https://blog.csdn.net/zhouzhongyan/article/details/164757162)
+
++ [当网站开始为 AI Agent 设计：Agentic Internet 正在重写互联网](https://blog.csdn.net/weixin_74809706/article/details/164340718)
+
++ [N1飞牛部署New-API：把本地Ollama和零散模型接口收进一个统一入口](https://blog.csdn.net/2401_87629362/article/details/164831911)
+
++ [百度、115、夸克太分散？用 LitePan 把多网盘和影音入口收拢到一起](https://blog.csdn.net/weixin_42878111/article/details/164857182)
+
++ [MySQL 数据库（三）：表级操作实战：增删查改全实例演示 + 企业实操红线规范](https://blog.csdn.net/mogreat/article/details/164840726)
+
++ [2026年9月9日｜GPT‑6 Astra + Codex：Pro 用户的大型项目重构方法](https://blog.csdn.net/dr_eric123/article/details/164758245)
+
++ [深入理解 Transformer：Multi-Head Attention](https://blog.csdn.net/htw250056/article/details/164834600)
+
++ [Elasticsearch 进阶](https://blog.csdn.net/qq_53715214/article/details/164184466)
+
++ [Vue的响应式比我想象的更“敏感“](https://blog.csdn.net/qq_43546721/article/details/164757156)
+
++ [DeepSeek Harness(DSH)本地部署与使用教程](https://blog.csdn.net/leo_yty/article/details/164757365)
+
++ [2026年9月9日｜GPT‑6 Astra + Codex：Pro 用户的多仓库 Debug 方法](https://blog.csdn.net/2601_96445177/article/details/164758238)
+
