@@ -161,3 +161,11 @@
 
 + [南非多地连发涉我侨胞被绑架案件 我使馆发布安全提醒](https://news.cctv.com/2026/09/06/ARTIWdS5FxEFrTGafQojnAju260906.shtml)
 
++ [美军称对伊海上封锁已使96艘商船改变航向](https://news.cctv.com/2026/09/11/ARTIX2Ilalq7iXuxZljrtB3P260911.shtml)
+
++ [非洲首个奥林匹克赛事圣火从雅典启程](https://news.cctv.com/2026/09/11/ARTIWJo5KK0DDScvlqndUK0r260911.shtml)
+
++ [英国伦敦发生持刀袭击事件 至少4人受伤](https://news.cctv.com/2026/09/11/ARTIuy3epfL2WaNuV6QTbAvU260911.shtml)
+
++ [巴西一架小型飞机坠毁 已致3人死亡](https://news.cctv.com/2026/09/11/ARTIGFOAUOR3MvUdlGfH6HCP260911.shtml)
+

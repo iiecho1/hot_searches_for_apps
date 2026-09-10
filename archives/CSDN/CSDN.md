@@ -101,3 +101,21 @@
 
 + [让 Live2D 角色真正开始对话：Open-LLM-VTuber 从本地部署到远程访问](https://blog.csdn.net/SDFsoul/article/details/164841555)
 
++ [【从0开始学习计算机网络】| 三次握手：为什么是三次，不是两次或四次？](https://blog.csdn.net/2503_94545876/article/details/164739838)
+
++ [AtomMQTT Broker — 用 Rust 实现的轻量级高性能 MQTT 消息代理](https://blog.csdn.net/qq8864/article/details/164883403)
+
++ [把音乐播放器搬进浏览器：洛雪网页版从 Docker 部署到公网访问](https://blog.csdn.net/baronbool/article/details/164827670)
+
++ [【SenseNova U1.5 Lite实战】从单张出图到 5 段短SenseNova U1.5 Lite 在 ComfyUI 中的完整实战视频](https://blog.csdn.net/2301_78784268/article/details/164725124)
+
++ [2026 年高教社杯全国大学生数学建模竞赛C 题 微网与外部电网电力调控策略（数学建模，代码，论文免费分享）](https://blog.csdn.net/m0_73907476/article/details/164879543)
+
++ [2026医疗AI编程：医院信息工程部规模化编程与代码审核路径（上）](https://blog.csdn.net/kkiron/article/details/164568199)
+
++ [Vue的响应式比我想象的更“敏感“](https://blog.csdn.net/qq_43546721/article/details/164757156)
+
++ [分布式梯度累加（Gradient Accumulation）：通信与计算的交错隐藏](https://blog.csdn.net/2201_75984884/article/details/164757622)
+
++ [C# 手写向量化能追上 C 吗？](https://blog.csdn.net/2601_96669711/article/details/164630011)
+
