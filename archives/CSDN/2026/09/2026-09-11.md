@@ -119,3 +119,5 @@
 
 + [C# 手写向量化能追上 C 吗？](https://blog.csdn.net/2601_96669711/article/details/164630011)
 
++ [HarmonyOS开发全文检索 FTS 小实战：中文分词与聊天记录搜索](https://blog.csdn.net/qq_46104835/article/details/164747207)
+

@@ -169,3 +169,11 @@
 
 + [巴西一架小型飞机坠毁 已致3人死亡](https://news.cctv.com/2026/09/11/ARTIGFOAUOR3MvUdlGfH6HCP260911.shtml)
 
++ [阿尔及利亚宣布对阿联酋关闭领空](https://news.cctv.com/2026/09/11/ARTIakeyR4XdyokheUuf3CES260911.shtml)
+
++ [联合国称古巴电力危机持续影响基本服务 呼吁增加人道援助](https://news.cctv.com/2026/09/11/ARTIxLzSWUlBypEfcLXlJbOp260911.shtml)
+
++ [也门冲突再起 联合国称新增超万户流离失所家庭](https://news.cctv.com/2026/09/11/ARTIoqQc6RdbBFXEnE1SWnl4260911.shtml)
+
++ [意大利米兰一客机滑行时发生火情 146人紧急撤离](https://news.cctv.com/2026/09/11/ARTImglmy6E5OsZNpq48BoiP260911.shtml)
+
