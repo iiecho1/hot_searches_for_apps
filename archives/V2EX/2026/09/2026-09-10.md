@@ -23,3 +23,11 @@
 
 + [大家 codex 都用哪个模型哪个强度啊](https://www.v2ex.com/t/1240554)
 
++ [这里为什么感觉没人讨论国产模型。我发现 qwen 和豆包系列模型问题好多，生产直接没法用](https://www.v2ex.com/t/1240649)
+
++ [咸鱼的小法庭机制真是妙啊](https://www.v2ex.com/t/1240703)
+
++ [iPhone 上和 macbook 上推荐用什么中文输入法？](https://www.v2ex.com/t/1240607)
+
++ [大家长时间对着电脑，颈椎和眼睛都是怎么扛过来的？](https://www.v2ex.com/t/1240567)
+

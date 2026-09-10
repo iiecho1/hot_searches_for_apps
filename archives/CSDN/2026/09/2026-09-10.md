@@ -113,3 +113,7 @@
 
 + [基于 Kubernetes 与 GitLab CI/CD 的云原生自动化交付平台](https://blog.csdn.net/2503_90172382/article/details/164490077)
 
++ [FastGPT生产级高并发改造：基于PgBouncer实现PostgreSQL连接池优化完整技术手册](https://blog.csdn.net/beautifulmemory/article/details/164469948)
+
++ [从零写 GPT 推理引擎：纯 C++/CUDA，四轮优化提速 1381 倍](https://blog.csdn.net/chen1415886044/article/details/164758129)
+
