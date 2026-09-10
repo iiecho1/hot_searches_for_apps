@@ -117,3 +117,39 @@
 
 + [从零写 GPT 推理引擎：纯 C++/CUDA，四轮优化提速 1381 倍](https://blog.csdn.net/chen1415886044/article/details/164758129)
 
++ [时序数据库选型：链路跑得通，比单库跑分高更重要](https://blog.csdn.net/Mrxiao_bo/article/details/164478519)
+
++ [【计算几何】闵可夫斯基差演示](https://blog.csdn.net/he_zhidan/article/details/164091399)
+
++ [【Linux网络】网络层协议 IP ：从网络层原理到 Linux 内核源码](https://blog.csdn.net/yhrxh_ymq/article/details/164370199)
+
++ [基于 WorkBuddy 搭配 Hy4 Preview 打造「苏轼《定风波》三维诗词页」：Three.js + Web Speech API 从 AI 建模到网页朗读的完整实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/164758086)
+
++ [工信部《人工智能中小企业创业支持计划》深度解读：AI创业生态正在形成](https://blog.csdn.net/m0_51507544/article/details/164594967)
+
++ [PandaWiki 本地 AI 知识库实战：文档导入、智能问答与远程访问](https://blog.csdn.net/m0_73879806/article/details/164461433)
+
++ [容器启动不等于能用：EasyNode 从默认密码变化到公网管理的完整流程(1)](https://blog.csdn.net/2501_91062530/article/details/164754432)
+
++ [TCP 收发机制、连接管理与Socket 状态机介绍](https://blog.csdn.net/2401_86112610/article/details/164755487)
+
++ [DeepSeek Harness Windows本地部署实战：配置 API、工作区权限并实现远程访问](https://blog.csdn.net/2401_87629362/article/details/164456852)
+
++ [Qt 实现一个 Windows 启动项查看器](https://blog.csdn.net/flyfish1986/article/details/164470793)
+
++ [面向低轨卫星姿轨控系统的RISC-V抗辐射微控制器应用研究](https://blog.csdn.net/ANSILIC/article/details/164611602)
+
++ [流式编程及Spring中SSE实现](https://blog.csdn.net/Qq121363Aa/article/details/164403695)
+
++ [2026鸿蒙原生适配远控APP横测：ToDesk vs 向日葵，跨系统功能谁更全？](https://blog.csdn.net/qq_51601665/article/details/164467758)
+
++ [Spring Boot 实现数据脱敏：自定义注解 + Jackson 序列化器](https://blog.csdn.net/zzzll1111/article/details/164756476)
+
++ [网络自动化Python课程：高级自动化之NetDevOps流水线](https://blog.csdn.net/pt1043/article/details/164756816)
+
++ [HarmonyOS 7（API 26）正式发布：重点能力一览](https://blog.csdn.net/csdndevpress0045/article/details/164473756)
+
++ [2026年9月科技资讯综述：AGI时代开启，硬核突破密集涌现](https://blog.csdn.net/2601_96261438/article/details/164468492)
+
++ [【Linux 系统篇(十九)】进程(七)：深入理解虚拟地址空间：从进程地址空间到内核管理](https://blog.csdn.net/Huang_jin007/article/details/164749087)
+

@@ -175,3 +175,15 @@
 
 + [世粮署：刚果（金）埃博拉核心疫区50万人面临饥饿](https://news.cctv.com/2026/09/10/ARTIOVvb0JkQ9TJFWAIM7LZZ260910.shtml)
 
++ [挪威首相称泽连斯基所乘飞机“差点被无人机击中”](https://news.cctv.com/2026/09/10/ARTI9VfCZSG8MijoedLrvQrs260910.shtml)
+
++ [回购难解市场担忧 美长期国债收益率走高](https://news.cctv.com/2026/09/10/ARTIR7sLV76Fh83ddbHGGuZX260910.shtml)
+
++ [消息人士：多架美国军机在伊朗对约旦基地袭击中受损](https://news.cctv.com/2026/09/10/ARTIK6M3Vjaop1jLiDWPVWgp260910.shtml)
+
++ [梅德韦杰夫：俄罗斯有权在安全受到威胁时使用核武器](https://news.cctv.com/2026/09/10/ARTIw0bCXAaEBuBjnskv0RaC260910.shtml)
+
++ [特朗普专机应急滑梯因误操作弹出](https://news.cctv.com/2026/09/10/ARTInbTEmg1DB0Ohhhv2truY260910.shtml)
+
++ [菲律宾客轮起火事故已致5人死亡87人失联](https://news.cctv.com/2026/09/10/ARTIjxKBEPm6lAVUmzrtDeLH260910.shtml)
+

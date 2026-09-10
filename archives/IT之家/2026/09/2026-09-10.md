@@ -25,3 +25,27 @@
 
 + [千万里程碑越来越近：曝华为 Mate 80 系列手机销量突破 900 万台](https://m.ithome.com/html/999681.htm)
 
++ [苹果 iPhone 18 Pro / Max 国行起价 9999 元 / 10999 元，最高涨幅约 19%](https://m.ithome.com/html/1000515.htm)
+
++ [苹果首款折叠屏手机 iPhone Duo 国行定价 15999 元起](https://m.ithome.com/html/1000514.htm)
+
++ [苹果 2026 秋季新品发布会一文汇总：iPhone Duo 出世、iPhone 18 Pro / Max 登场、新 CEO 首秀](https://m.ithome.com/html/1000554.htm)
+
++ [1999 美元起苹果首款折叠屏手机 iPhone Duo 正式发布：支持 Apple Pencil、内屏引入屏下摄像头、A20 Pro 处理器...](https://m.ithome.com/html/1000511.htm)
+
++ [苹果发布 iPhone 18 Pro / Max：四种颜色、A20 Pro 芯片](https://m.ithome.com/html/1000493.htm)
+
++ [苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元](https://m.ithome.com/html/1000524.htm)
+
++ [苹果 iPhone 18 Pro 系列发布：新增可变光圈技术、首发 2 纳米制程工艺 A20 Pro 芯片，9999 元起](https://m.ithome.com/html/1000535.htm)
+
++ [苹果 iPhone 18 Pro / Max 起价 1199/1299 美元，较上一代上调 100 美元](https://m.ithome.com/html/1000499.htm)
+
++ [屏下摄像头！苹果 iPhone Duo 携全新设计亮相](https://m.ithome.com/html/1000507.htm)
+
++ [苹果回应 iPhone Duo 屏幕折痕问题：内屏非常平整光滑，尽可能减少折痕可见度](https://m.ithome.com/html/1000553.htm)
+
++ [苹果最重 Pro Max 机型：iPhone 18 Pro Max 重 249g，比前代增加 18g](https://m.ithome.com/html/1000557.htm)
+
++ [苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元](https://m.ithome.com/html/1000542.htm)
+
