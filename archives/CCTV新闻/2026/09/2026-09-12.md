@@ -161,3 +161,11 @@
 
 + [尼泊尔泥石流灾害遇难人数升至1355人](https://news.cctv.com/2026/09/07/ARTIiHUfFBzBWIXWBIU1Xwrz260907.shtml)
 
++ [美军称对伊海上封锁已使99艘商船改变航向](https://news.cctv.com/2026/09/12/ARTIg79rWDsBGrcPmetnyGUo260912.shtml)
+
++ [沙特称该国输油管道遭袭致人员受伤和设施受损](https://news.cctv.com/2026/09/12/ARTIjNnI4NYqZKTsFMKVppMw260912.shtml)
+
++ [法国一载客列车脱轨已致44人受伤](https://news.cctv.com/2026/09/12/ARTIxiu4N9CaTbyGLTxm0G6A260912.shtml)
+
++ [沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查](https://news.cctv.com/2026/09/12/ARTILwcOuMSqDCRqWw6zPTzf260912.shtml)
+
