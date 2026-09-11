@@ -133,3 +133,23 @@
 
 + [Flutter 三棵树：原理、机制与最佳实践](https://blog.csdn.net/jikeehuang/article/details/164749548)
 
++ [SpringBoot3+Vue3+Flowable 公务用车：申请占坑、还车释放、撞时段怎么拦](https://blog.csdn.net/zhouzhongyan/article/details/164883538)
+
++ [如何采集Amazon 商品数据？两种方案实测：从自建爬虫到采集 API](https://blog.csdn.net/m0_64336780/article/details/164957572)
+
++ [SQL Server数据迁移后性能反而暴涨？我用实测数据打消了所有疑虑](https://blog.csdn.net/qq_32682301/article/details/164886547)
+
++ [2026年高教社杯全国大学生数学建模竞赛C题：微网与外部电网电力附Matlab参考代码](https://blog.csdn.net/m0_57702748/article/details/164937934)
+
++ [基于FPGA的CORDIC旋转模式实现sin和cos运算](https://blog.csdn.net/m0_48770376/article/details/164883907)
+
++ [802.3协议解读 01：116章节 200 Gb/s 和 400 Gb/s 网络介绍 I](https://blog.csdn.net/a653952216/article/details/164263504)
+
++ [DeepSeek V4.1 Flash 为什么能反超 Pro？从非对称架构到 Agent 工程实测](https://blog.csdn.net/2301_80956187/article/details/164885104)
+
++ [Meta｜ 源码实证评测：Meta Buck2架构深度解析，下一代高性能跨语言构建引擎企业级源码尽调报告](https://blog.csdn.net/TunerT_TQ/article/details/164876315)
+
++ [2026年 AI Agent 开发框架横评：OpenClaw vs LangChain vs Dify vs AutoGPT vs CrewAI](https://blog.csdn.net/sinat_41617212/article/details/164617227)
+
++ [【大数据项目实战】基于Python数据挖掘的新能源车充电行为关联风险分析研究-基于Hadoop+Spark的电动汽车故障多维数据可视化](https://blog.csdn.net/m0_72599287/article/details/164730513)
+

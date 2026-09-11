@@ -23,3 +23,21 @@
 
 + [如何培养一个爱好](https://www.v2ex.com/t/1240883)
 
++ [大家会跟同事或者领导说自己用 Ai 完成需求吗？](https://www.v2ex.com/t/1241204)
+
++ [一直有个疑问，感觉用 cursor 的人很少](https://www.v2ex.com/t/1241125)
+
++ [躺平是不是版本答案？](https://www.v2ex.com/t/1241205)
+
++ [把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配](https://www.v2ex.com/t/1241226)
+
++ [Anthropic 点名多家中国公司蒸馏 Claude，包括 Qwen, kimi, deepseek, glm, xiaomi, Minimax](https://www.v2ex.com/t/1241298)
+
++ [Duo 真的很不苹果](https://www.v2ex.com/t/1241080)
+
++ [更新下广州前端工程师这两个礼拜找工作的情况](https://www.v2ex.com/t/1241146)
+
++ [最近几月大家用 ai 开发之后，还会加班吗？](https://www.v2ex.com/t/1241211)
+
++ [iPhone Duo 的销量关键就在销量上](https://www.v2ex.com/t/1241092)
+

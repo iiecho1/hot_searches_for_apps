@@ -25,3 +25,27 @@
 
 + [苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元](https://m.ithome.com/html/1000542.htm)
 
++ [投票：苹果折叠屏手机 iPhone Duo 首秀，你还满意吗？考虑购买吗？](https://m.ithome.com/html/1000579.htm)
+
++ [苹果 iPhone 18 Pro / Max 仅限 eSIM 地区共 12 个，与上代保持一致](https://m.ithome.com/html/1000566.htm)
+
++ [罗永浩狂喷苹果首款折叠屏手机 iPhone Duo，屏下摄像头、阔屏比例、内外屏无缝等全是“抄的”](https://m.ithome.com/html/1000810.htm)
+
++ [小米 18 Fold 中折叠手机今日首销：首发玄戒 O3 芯片，10999 元起](https://m.ithome.com/html/1000570.htm)
+
++ [全球首款阔直板手机华为 Pura X View 首销当日销售超 18 万台](https://m.ithome.com/html/1000603.htm)
+
++ [A20 Pro 跑分首曝：苹果 iPhone 18 Pro Max 现身 Geekbench，搭载 12GB 内存](https://m.ithome.com/html/1000722.htm)
+
++ [苹果 iPhone Duo 发布后三星火力全开嘲讽：这是《模拟人生》续作吗，热剩饭怎么没通知我，多邻国快来](https://m.ithome.com/html/1000588.htm)
+
++ [努比亚总裁倪飞谈 iPhone Duo：苹果大概率还在第二代屏下技术，我们已经做到了第七代](https://m.ithome.com/html/1000614.htm)
+
++ [苹果 iPadOS 26.7 正式版发布](https://m.ithome.com/html/1000564.htm)
+
++ [苹果 iPhone 18 Pro/Max 全球售价对比：美国最低、土耳其最高，港版约为国行九折](https://m.ithome.com/html/1000805.htm)
+
++ [DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，最高降价 60%](https://m.ithome.com/html/1000719.htm)
+
++ [IT早报 0910：苹果发首款折叠屏 iPhone Duo、iPhone 18 Pro 系列；老款 iPhone 集体涨价；曝 DeepSeek 备战科创板 IPO；唐家三少批 AI 洗稿...](https://m.ithome.com/html/1000567.htm)
+

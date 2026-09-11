@@ -177,3 +177,7 @@
 
 + [意大利米兰一客机滑行时发生火情 146人紧急撤离](https://news.cctv.com/2026/09/11/ARTImglmy6E5OsZNpq48BoiP260911.shtml)
 
++ [日本民众抗议政府推进“反击能力”建设](https://news.cctv.com/2026/09/11/ARTI0kDTZR1RTfg2MYcywYm5260911.shtml)
+
++ [韩国爱宝乐园新生大熊猫幼崽得名“曙宝”](https://news.cctv.com/2026/09/11/ARTIeINDuGjOvoZUFbNfZ7k4260911.shtml)
+
