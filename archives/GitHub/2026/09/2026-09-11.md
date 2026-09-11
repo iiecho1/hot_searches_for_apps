@@ -33,3 +33,21 @@
 
 + [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
 
++ [nab138/iloader](https://github.com/nab138/iloader)
+
++ [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+
++ [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
+
++ [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent)
+
++ [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux)
+
++ [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch)
+
++ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+
++ [github/spec-kit](https://github.com/github/spec-kit)
+
++ [pascalorg/editor](https://github.com/pascalorg/editor)
+
