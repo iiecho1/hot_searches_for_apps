@@ -181,3 +181,19 @@
 
 + [韩国爱宝乐园新生大熊猫幼崽得名“曙宝”](https://news.cctv.com/2026/09/11/ARTIeINDuGjOvoZUFbNfZ7k4260911.shtml)
 
++ [荷兰一大巴在瑞士发生交通事故 已致5死40伤](https://news.cctv.com/2026/09/11/ARTIdvHO6xal1PSD2MWVdf4W260911.shtml)
+
++ [俄总统助理：日本不应对俄设立二战纪念碑指手画脚](https://news.cctv.com/2026/09/11/ARTIMJXpZXZivKkcUgPHLgAS260911.shtml)
+
++ [中国对尼泊尔第五批紧急援助物资运抵加德满都](https://news.cctv.com/2026/09/11/ARTId4hP6ZdLGZDvF9S6m9DK260911.shtml)
+
++ [全球媒体聚焦 |“金砖峰会已成为捍卫世界多极化的重要力量”](https://news.cctv.com/2026/09/11/ARTIhgTfvd8s9zDpQ0aMDkch260911.shtml)
+
++ [中印正在安排习近平主席同印度总理莫迪举行双边会晤](https://news.cctv.com/2026/09/11/ARTIuA5AOAioGwYOsW6zj3mH260911.shtml)
+
++ [中方上调日本公民赴华签证费用 外交部：根据对等原则作出的安排](https://news.cctv.com/2026/09/11/ARTIWf8kNIsWtiYkOHPX9TSq260911.shtml)
+
++ [日本防卫大臣重申“不排除”拥有核动力潜艇](https://news.cctv.com/2026/09/11/ARTIShkBVsJgLOjWY2Pdjwdw260911.shtml)
+
++ [尹锡悦涉嫌使犯罪嫌疑人逃避司法追究案一审被判无罪](https://news.cctv.com/2026/09/11/ARTIaxtRcT3DnUIKNrFPMIrM260911.shtml)
+
