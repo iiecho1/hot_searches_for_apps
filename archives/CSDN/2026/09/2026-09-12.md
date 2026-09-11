@@ -101,3 +101,21 @@
 
 + [Flutter 鸿蒙实战：用 shared_preferences 三方库给应用做一套能记住你偏好的设置中心](https://blog.csdn.net/2202_75575420/article/details/165003345)
 
++ [大学生低成本远程方案横测：5 款远程软件对比，白嫖哪家强？](https://blog.csdn.net/beautifulmemory/article/details/164985576)
+
++ [Linux系统--进程控制（上）](https://blog.csdn.net/2501_93697341/article/details/164729480)
+
++ [Multi-Agent并非越多越好](https://blog.csdn.net/2403_87933448/article/details/164737079)
+
++ [Loop已死，Graph永生？深度看懂：2026年AI工程的真正范式跃迁](https://blog.csdn.net/weixin_36755535/article/details/164864478)
+
++ [【Linux】进程信号----1](https://blog.csdn.net/2502_90266547/article/details/164428050)
+
++ [MiniCPM5-2B 发布：25 亿参数的端侧模型，凭什么在 2B 级开源榜上拿 SOTA（附部署方式）](https://blog.csdn.net/aidoudoulong/article/details/164737156)
+
++ [家政物业费返佣小程序的实现思路与工程化落地要点](https://blog.csdn.net/weixin_42804741/article/details/164755198)
+
++ [嵌入式开发 --- 51单片机与ARM核心知识](https://blog.csdn.net/2401_86288082/article/details/164872061)
+
++ [API Key安全管理与轮换](https://blog.csdn.net/2601_96784717/article/details/164844464)
+

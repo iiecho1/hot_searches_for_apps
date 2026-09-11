@@ -61,3 +61,7 @@
 
 + [9.深海魅影与水下吸血鬼：圆口纲的五亿年无颌传奇](https://m.acfun.cn/v/?ac=48828903)
 
++ [小堇你后面怎么有人开战技(´-ω-`)](https://m.acfun.cn/v/?ac=48841672)
+
++ [这ED太好听了吧！粤语版《Hearts Glow》【再见菈菈/Hana Hope】](https://m.acfun.cn/v/?ac=48819448)
+
