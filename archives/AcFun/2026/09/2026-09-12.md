@@ -65,3 +65,7 @@
 
 + [这ED太好听了吧！粤语版《Hearts Glow》【再见菈菈/Hana Hope】](https://m.acfun.cn/v/?ac=48819448)
 
++ [【琵琶曲＆逃离塔科夫】内容只是尼基塔和PMC在新灯塔红别墅](https://m.acfun.cn/v/?ac=48839412)
+
++ [现实中的《鬼武者·剑之道》六道珍皇寺](https://m.acfun.cn/v/?ac=48839490)
+

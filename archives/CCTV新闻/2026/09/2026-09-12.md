@@ -169,3 +169,9 @@
 
 + [沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查](https://news.cctv.com/2026/09/12/ARTILwcOuMSqDCRqWw6zPTzf260912.shtml)
 
++ [委内瑞拉总统夫妇辩护团队申请暂时释放第一夫人](https://news.cctv.com/2026/09/12/ARTIQvZ5I7kVzdVHo9all3rc260912.shtml)
+
++ [共同谱写“大金砖合作”高质量发展新篇章——国际社会热切期待习近平主席出席金砖国家领导人第十八次会晤](https://news.cctv.com/2026/09/12/ARTIxJMwPTpecN6mg4Ve1Fi7260912.shtml)
+
++ [跨越新征程的“腊子口”——走进陆军第82集团军某旅某连](https://news.cctv.com/2026/09/12/ARTIsyTpvankiyf5h7BfYp7f260912.shtml)
+
