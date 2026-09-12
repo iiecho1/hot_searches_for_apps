@@ -101,3 +101,19 @@
 
 + [前端 SSR、BFF 原理介绍](https://blog.csdn.net/m0_51089660/article/details/164885174)
 
++ [AI Agent 的核心能力循环：感知→规划→执行→反思→记](https://blog.csdn.net/sinat_41617212/article/details/165122245)
+
++ [用纯 Rust 重写 Podcastfy：把网页、PDF 和一段文字，变成一档双人对话播客](https://blog.csdn.net/qq8864/article/details/165128044)
+
++ [整理极空间时我试了件好玩的事：Docker 跑起马里奥，再用 cpolar 带到外网](https://blog.csdn.net/Pocker_Spades_A/article/details/165125257)
+
++ [【LibreCAD 2D架构】从 addHistory 到 RS_UndoCycle：LibreCAD 里的两套 History 与撤销机制](https://blog.csdn.net/2302_80177460/article/details/165009365)
+
++ [数学建模国赛倒计时 0 天 ——《AI工具使用（二）——AI工具使用详情模板》](https://blog.csdn.net/weixin_46111814/article/details/164723056)
+
++ [【Linux学习】Linux学习第五弹——外壳（Shell）的理解 —命令与运行原理](https://blog.csdn.net/2403_86779341/article/details/165006766)
+
++ [零 grpc-java、自研线格式、nacos-client 直连：我给自己的 RPC 框架造了个注册中心](https://blog.csdn.net/javahongxi/article/details/165127915)
+
++ [Github Flow 与 Gitlab Flow工作流实践解读](https://blog.csdn.net/qq_60961397/article/details/164882504)
+
