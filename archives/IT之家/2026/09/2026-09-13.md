@@ -25,3 +25,19 @@
 
 + [徐洁云确认，试驾小米澎程汽车误将油门当刹车的用户已锁单](https://m.ithome.com/html/1001526.htm)
 
++ [纪念 9&#183;11 事件 25 周年，2977 架无人机在美国纽约重现世贸中心双子塔](https://m.ithome.com/html/1001148.htm)
+
++ [36.9 万元起特斯拉中国焕新款 Model Y 高性能全轮驱动版上市：百公里加速 3.5 秒、标配 21 英寸蛛网轮毂 2.0](https://m.ithome.com/html/1001093.htm)
+
++ [苹果首款折叠 iPhone Duo 发布首日，网友在三星 Galaxy Z Fold8 手机上实现类似开合透视动画](https://m.ithome.com/html/1001099.htm)
+
++ [王腾创业公司“今日宜休”ISHO 睡眠记录 App 开启内测：暂仅支持苹果 iOS、需佩戴 Apple Watch](https://m.ithome.com/html/1001153.htm)
+
++ [苹果 iPhone Duo 和三星 Galaxy Z Fold8 手机折痕对比](https://m.ithome.com/html/1001112.htm)
+
++ [苹果悄悄修改旧款 Apple Watch Series 11 官网参数，以匹配新款 Series 12 机型屏幕数据](https://m.ithome.com/html/1001130.htm)
+
++ [苹果 iPhone 18 Pro/Max 升级电影效果模式，支持 4K 杜比视界 60FPS](https://m.ithome.com/html/1001142.htm)
+
++ [消息称苹果首款折叠 iPhone Duo 原生 iOS 27.1 不支持并行播放 2 个视频](https://m.ithome.com/html/1001134.htm)
+
