@@ -33,3 +33,19 @@
 
 + [pascalorg/editor](https://github.com/pascalorg/editor)
 
++ [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
++ [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+
++ [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
+
++ [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
++ [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+
++ [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
+
++ [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+
++ [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+
