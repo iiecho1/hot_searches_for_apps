@@ -33,3 +33,21 @@
 
 + [感觉现在的企业在 AI 公司面前都是裸奔](https://www.v2ex.com/t/1241303)
 
++ [v2ex 注册成功](https://www.v2ex.com/t/1241517)
+
++ [codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神](https://www.v2ex.com/t/1241506)
+
++ [智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6](https://www.v2ex.com/t/1241484)
+
++ [不想上班了，回老家县城躺平是否可行？](https://www.v2ex.com/t/1241455)
+
++ [木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办](https://www.v2ex.com/t/1241486)
+
++ [你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?](https://www.v2ex.com/t/1241496)
+
++ [vibe coding 的代码你怎么放心上线？](https://www.v2ex.com/t/1241529)
+
++ [大家觉得我们还需要去发明新的 IM 吗](https://www.v2ex.com/t/1241397)
+
++ [兄弟们和我一起当捞女去崩老头。](https://www.v2ex.com/t/1241452)
+

@@ -149,3 +149,33 @@
 
 + [海康移动交通四款设备技能接入实战：布控球+取证终端+测速仪+出入口终端，Web/App/小程序移动交通应用快速生成](https://blog.csdn.net/hq123897/article/details/164961718)
 
++ [【AI大模型接入SDK】Ollama API 全量响应实现](https://blog.csdn.net/2401_89899187/article/details/164825945)
+
++ [人工智能技术丛书《LangGraph智能体设计模式与多智能体开发》](https://blog.csdn.net/qq_41840843/article/details/164982405)
+
++ [Java 智能体工程化：从 Spring AI 出发读懂 AgentScope](https://blog.csdn.net/qq_24597659/article/details/165007892)
+
++ [数据链路层](https://blog.csdn.net/keyipatience/article/details/164429646)
+
++ [平板远程控制电脑软件横评：iPad安卓鸿蒙实测](https://blog.csdn.net/u014727709/article/details/165003472)
+
++ [地址族 sockaddr与sockaddr_in 为什么listen IP IP与ARP 协作](https://blog.csdn.net/oooooooooooohd/article/details/164880878)
+
++ [Linux工具篇 (三)：make与Makefile](https://blog.csdn.net/2501_93641778/article/details/164998853)
+
++ [【Linux 系统篇(十九)】进程(七)：深入理解虚拟地址空间：从进程地址空间到内核管理](https://blog.csdn.net/Huang_jin007/article/details/164749087)
+
++ [Excel复制粘贴突然失灵？别急着怪鼠标，微软KB5002914正在背刺整张表格](https://blog.csdn.net/ylscode/article/details/165006797)
+
++ [【从0开始学习计算机网络】| TIME_WAIT 为什么是 2MSL，CLOSE_WAIT / TIME_WAIT 堆积怎么排查](https://blog.csdn.net/2503_94545876/article/details/164834489)
+
++ [网络原理TCP/IP](https://blog.csdn.net/java_nnnn/article/details/164756156)
+
++ [Agent 跑了 30 分钟宕机，如何从断点继续？](https://blog.csdn.net/2403_87933448/article/details/164821381)
+
++ [Flutter 鸿蒙实战：用 connectivity_plus 三方库给应用加一个网络状态检测面板](https://blog.csdn.net/2202_75575420/article/details/164990893)
+
++ [前端页面部署 --- Cloudflare全栈式云服务平台](https://blog.csdn.net/2301_80079642/article/details/163082565)
+
++ [Markdown Editor：轻量级 Markdown 编辑器与预览器深度解析](https://blog.csdn.net/Zaninho14/article/details/165008650)
+
