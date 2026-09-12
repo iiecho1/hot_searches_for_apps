@@ -41,3 +41,25 @@
 
 + [IT早报 0910：苹果发首款折叠屏 iPhone Duo、iPhone 18 Pro 系列；老款 iPhone 集体涨价；曝 DeepSeek 备战科创板 IPO；唐家三少批 AI 洗稿...](https://m.ithome.com/html/1000567.htm)
 
++ [纪念 9&#183;11 事件 25 周年，2977 架无人机在美国纽约重现世贸中心双子塔](https://m.ithome.com/html/1001148.htm)
+
++ [复刻苹果首款折叠 iPhone Duo 开合透视动画：安卓 / iOS / macOS 都有份](https://m.ithome.com/html/1001291.htm)
+
++ [苹果首款折叠 iPhone Duo 发布首日，网友在三星 Galaxy Z Fold8 手机上实现类似开合透视动画](https://m.ithome.com/html/1001099.htm)
+
++ [荣耀“魔法画报耽误心梗急救致死”事件当事人澄清：经沟通发现与荣耀无关](https://m.ithome.com/html/1001461.htm)
+
++ [王腾创业公司“今日宜休”ISHO 睡眠记录 App 开启内测：暂仅支持苹果 iOS、需佩戴 Apple Watch](https://m.ithome.com/html/1001153.htm)
+
++ [苹果 iPhone Duo 和三星 Galaxy Z Fold8 手机折痕对比](https://m.ithome.com/html/1001112.htm)
+
++ [苹果悄悄修改旧款 Apple Watch Series 11 官网参数，以匹配新款 Series 12 机型屏幕数据](https://m.ithome.com/html/1001130.htm)
+
++ [苹果 iPhone 18 Pro/Max 升级电影效果模式，支持 4K 杜比视界 60FPS](https://m.ithome.com/html/1001142.htm)
+
++ [CEO 特努斯等苹果高管最新访谈：为何现在才入局折叠屏、iPhone Duo 售价、设计思路……](https://m.ithome.com/html/1001442.htm)
+
++ [消息称苹果首款折叠 iPhone Duo 原生 iOS 27.1 不支持并行播放 2 个视频](https://m.ithome.com/html/1001134.htm)
+
++ [苹果公布 iPhone 18 Pro 系列手机维修预估费用：电池服务 1048 元，较前代上涨 79 元](https://m.ithome.com/html/1001437.htm)
+

@@ -123,3 +123,29 @@
 
 + [Java 设计模式全景拆解：从单例工厂到策略责任链的三大类型实战指南](https://blog.csdn.net/qq_46987323/article/details/165008119)
 
++ [飞牛 NAS 远程访问实战：星空组网连接 Mac 与安卓，从 Compose 部署到 5G 验证](https://blog.csdn.net/lrq13965748542/article/details/164806120)
+
++ [OceanBase 和金仓怎么选？别只看分布式，复杂查询更考验架构取舍](https://blog.csdn.net/weixin_44976692/article/details/164988752)
+
++ [鸿蒙平台 ES Agent REST API 测试工具适配实战：基于 Electron 壳方案的跨平台 HTTP 调试客户端开发](https://blog.csdn.net/weixin_62765017/article/details/165006540)
+
++ [谷歌Gemini正式登陆Windows：一次迟到的桌面AI补课，还是战略反攻的开始？](https://blog.csdn.net/qq_31988139/article/details/164996487)
+
++ [【错误记录】调用火山引擎大模型报错 ( Your account has reached the set inference limit for the model, and the model )](https://blog.csdn.net/han1202012/article/details/164990573)
+
++ [2026年9月11日AI行业日报｜OpenAI攻克数学难题、DeepSeek新模型、AI智能体全面爆发](https://blog.csdn.net/Smoothly_Lu/article/details/164965830)
+
++ [鸿蒙平台 Notepadqq 文本编辑器适配实战：基于 Electron 壳方案的轻量级多标签编辑器开发](https://blog.csdn.net/COLLINSXU/article/details/165006740)
+
++ [用 C# 和 .NET 10 手搓一个内网穿透（附极简示例 + 可试用客户端）](https://blog.csdn.net/u010476739/article/details/164999980)
+
++ [【花雕学编程】Arduino BLDC 之未知静态环境自主探索机器人（废墟搜救模拟）](https://blog.csdn.net/weixin_41659040/article/details/165001010)
+
++ [前端 SSR、BFF 原理介绍](https://blog.csdn.net/m0_51089660/article/details/164885174)
+
++ [flutter + ffmpeg_kit_extended_flutter 大视频合并下载](https://blog.csdn.net/weixin_42418774/article/details/164994709)
+
++ [2026国赛B题深度剖析|干扰源几何交会解析定位|完整代码与建模过程](https://blog.csdn.net/qq_25834913/article/details/164971170)
+
++ [海康移动交通四款设备技能接入实战：布控球+取证终端+测速仪+出入口终端，Web/App/小程序移动交通应用快速生成](https://blog.csdn.net/hq123897/article/details/164961718)
+

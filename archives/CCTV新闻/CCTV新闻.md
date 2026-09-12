@@ -175,3 +175,9 @@
 
 + [跨越新征程的“腊子口”——走进陆军第82集团军某旅某连](https://news.cctv.com/2026/09/12/ARTIsyTpvankiyf5h7BfYp7f260912.shtml)
 
++ [南亚国家承诺加强合作打击非法野生动植物贸易](https://news.cctv.com/2026/09/12/ARTIcWdxxepHcr1buo4BXjQR260912.shtml)
+
++ [深观察｜8月CPI环比上涨0.4% 美联储加息箭在弦上](https://news.cctv.com/2026/09/12/ARTItuVH6JhLqKOiIJBKBLqq260912.shtml)
+
++ [北美观察丨红海告急 沙特两度求援碰壁 美国为何说“不”](https://news.cctv.com/2026/09/12/ARTILR5YYz6sMa2Sr5RsW0Fq260912.shtml)
+
