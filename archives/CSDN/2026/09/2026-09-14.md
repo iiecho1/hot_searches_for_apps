@@ -121,3 +121,7 @@
 
 + [Rust Arena 在企业 ERP 系统中的应用建议报告](https://blog.csdn.net/warpdrivelabs/article/details/165243358)
 
++ [Flutter 鸿蒙插件适配实战：用 flutter_device_name 0.0.3 读取用户设备名称](https://blog.csdn.net/2302_80329073/article/details/165224861)
+
++ [Geany 鸿蒙 PC 适配全记录：以 Qt 重建轻量 IDE，打通编辑、项目检索与命令执行](https://blog.csdn.net/m0_55394328/article/details/165239850)
+

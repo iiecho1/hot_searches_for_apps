@@ -161,3 +161,7 @@
 
 + [叙利亚一武器库爆炸致14死11伤](https://news.cctv.com/2026/09/09/ARTIKrzJ8wud5oTZxnUlUeM1260909.shtml)
 
++ [无视英国反对 特朗普再挺“爱尔兰统一”](https://news.cctv.com/2026/09/14/ARTIEAlT5xbIJ4D00NULho06260914.shtml)
+
++ [胡塞武装称沙特24小时内58次空袭也门](https://news.cctv.com/2026/09/14/ARTIDHK4qxyjllEsM18Uie7P260914.shtml)
+
