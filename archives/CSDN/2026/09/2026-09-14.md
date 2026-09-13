@@ -113,3 +113,11 @@
 
 + [用Python搭一套PDF翻译预处理流水线：拆分、去重、压缩与任务清单生成](https://blog.csdn.net/SamChan90/article/details/165121952)
 
++ [把科学计算 IDE Spyder 搬到鸿蒙 PC：Qt C++ 宿主 + libpython embed 的三阶段实战](https://blog.csdn.net/mrdeam/article/details/165120809)
+
++ [Apache HBase 鸿蒙 PC 适配全记录：用 Qt 原生客户端打通 REST 管理与数据读写](https://blog.csdn.net/yj11290301/article/details/165235776)
+
++ [epoll三大接口到内核+正确认识应用层与内核的联系（6000字）](https://blog.csdn.net/oooooooooooohd/article/details/165096513)
+
++ [Rust Arena 在企业 ERP 系统中的应用建议报告](https://blog.csdn.net/warpdrivelabs/article/details/165243358)
+
