@@ -33,3 +33,25 @@
 
 + [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
++ [JustVugg/colibri](https://github.com/JustVugg/colibri)
+
++ [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)
+
++ [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)
+
++ [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
++ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+
++ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
++ [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+
++ [tonhowtf/omniget](https://github.com/tonhowtf/omniget)
+
++ [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)
+
++ [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+
++ [huggingface/transformers](https://github.com/huggingface/transformers)
+

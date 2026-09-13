@@ -147,3 +147,31 @@
 
 + [Web 页面内存溢出与 CPU 溢出：区别、诊断与最佳实践](https://blog.csdn.net/m0_51089660/article/details/165127572)
 
++ [AI 已经开始做原创科研了吗？](https://blog.csdn.net/weixin_74809706/article/details/164864436)
+
++ [AI 视频生成能不能真正跑通？MoneyPrinterTurbo 本地制作、远程访问与授权验证](https://blog.csdn.net/Rqaqedamancy/article/details/165236474)
+
++ [人工智能会让学生更聪明，还是彻底丧失思考能力？](https://blog.csdn.net/zhuoqingjoking97298/article/details/165183099)
+
++ [OceanBaseVS金仓：从架构效率到复杂SQL，解析金仓数据库的性能竞争力](https://blog.csdn.net/lrq13965748542/article/details/165214866)
+
++ [Linux:磁盘与文件系统和软硬链接的认识](https://blog.csdn.net/2601_95175861/article/details/164872084)
+
++ [基于蚁群优化算法的直流电机模糊PID控制（Matlab实现）](https://blog.csdn.net/m0_64583023/article/details/165195862)
+
++ [工业化C++：1. 智能指针的使用：从手动管理对象到自动管理生命周期](https://blog.csdn.net/stellanke/article/details/165235390)
+
++ [开源商城系统 1.8.1 版本核心能力与实战效果展示](https://blog.csdn.net/qq_39370007/article/details/165126484)
+
++ [蓝耘元生代MaaS x LangExtract实战：把长篇故障复盘做成可交互的证据台](https://blog.csdn.net/2401_87629362/article/details/165123254)
+
++ [DSH 白嫖指南：接入 Command Code Go、WorkBuddy 与 Trae 的免费额度](https://blog.csdn.net/2604_96186443/article/details/165007265)
+
++ [【从0开始学习计算机网络】| 从“发一条等一条“到“流水线发货“：TCP 是怎么保证数据不丢的？](https://blog.csdn.net/2503_94545876/article/details/164875120)
+
++ [Apache HBase 鸿蒙 PC 适配全记录：用 Qt 原生客户端打通 REST 管理与数据读写](https://blog.csdn.net/yj11290301/article/details/165235776)
+
++ [给鸿蒙 App 增加唤起系统邮件发送能力 —— flutter_email_sender 的鸿蒙使用指南](https://blog.csdn.net/qiaomu8559968/article/details/165184126)
+
++ [Code__Blocks 鸿蒙 PC 适配全记录：从 wxWidgets 桌面 IDE 到沙箱内可运行的 C 开发环境](https://blog.csdn.net/JingDuo0909/article/details/165238090)
+

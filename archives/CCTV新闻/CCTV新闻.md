@@ -179,3 +179,17 @@
 
 + [厄瓜多尔发生交通事故 已致1死11伤](https://news.cctv.com/2026/09/13/ARTIDWPLnpFWSTIGY0I47SbC260913.shtml)
 
++ [俄称扎波罗热核电站油罐车队遭袭 2人死亡](https://news.cctv.com/2026/09/13/ARTI9Bw5hm4IaLYM1rUPHaWh260913.shtml)
+
++ [勇做时代先锋 展现金砖担当](https://news.cctv.com/2026/09/13/ARTIYJb5dMAQYpNNiNaylTgq260913.shtml)
+
++ [“金砖国家在维护多边主义方面发挥着重要作用”​——访巴西金砖国家政策研究中心研究员费尔南德斯](https://news.cctv.com/2026/09/13/ARTIj3YI4VfzL9Laz8HlDR0J260913.shtml)
+
++ [外专眼中的“大金砖”丨俄罗斯专家：金砖合作机制走深走实 中国持续注入重要推动力](https://news.cctv.com/2026/09/13/ARTIlylLOlZ72aLZbrTby2zY260913.shtml)
+
++ [团结推动公共安全治理 为动荡世界注入稳定力量](https://news.cctv.com/2026/09/13/ARTINYgTrgfTHU8mauIps3Ck260913.shtml)
+
++ [跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯](https://news.cctv.com/2026/09/13/ARTIBYKiteWPEKzepNHrDgGO260913.shtml)
+
++ [印尼客轮失联事故已致6死 仍有上百人失踪](https://news.cctv.com/2026/09/13/ARTI0T9KsFohXVzzmyEdG2dQ260913.shtml)
+
