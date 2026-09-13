@@ -67,3 +67,7 @@
 
 + [女儿心如水呀](https://m.acfun.cn/v/?ac=48842927)
 
++ [莉莉白 『PiNK CAT』](https://m.acfun.cn/v/?ac=48842881)
+
++ [没玩过自走棋？也能爽玩！《王者万象棋》新手攻略](https://m.acfun.cn/v/?ac=48842829)
+

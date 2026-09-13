@@ -121,3 +121,9 @@
 
 + [《Linux 网络编程》深入理解 TCP 协议（五）：滑动窗口、丢包重传与流量控制详解](https://blog.csdn.net/2501_91275995/article/details/165115609)
 
++ [从 KV Cache 公式到 vLLM 配置：显存容量规划](https://blog.csdn.net/superdangbo/article/details/165114499)
+
++ [GitHub 热榜项目 - 周榜(2026-09-12)](https://blog.csdn.net/u014390502/article/details/165126233)
+
++ [[C++] C++11右值引用与移动语义揭秘](https://blog.csdn.net/HikariT/article/details/165005521)
+
