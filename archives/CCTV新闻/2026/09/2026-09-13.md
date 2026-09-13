@@ -173,3 +173,9 @@
 
 + [阿根廷计划启动马尔维纳斯群岛南部海军基地建设](https://news.cctv.com/2026/09/13/ARTIKMvuzIZBGOMOGsevzT0s260913.shtml)
 
++ [印尼客轮失联事故已造成1人遇难 110人获救](https://news.cctv.com/2026/09/13/ARTIlX2V7oyAfRgDbxHlSvyV260913.shtml)
+
++ [印尼一艘载有243人的客轮失联](https://news.cctv.com/2026/09/13/ARTIfB2vl3peKM2HXyKHhUpa260913.shtml)
+
++ [厄瓜多尔发生交通事故 已致1死11伤](https://news.cctv.com/2026/09/13/ARTIDWPLnpFWSTIGY0I47SbC260913.shtml)
+

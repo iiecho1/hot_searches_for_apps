@@ -41,3 +41,27 @@
 
 + [消息称苹果首款折叠 iPhone Duo 原生 iOS 27.1 不支持并行播放 2 个视频](https://m.ithome.com/html/1001134.htm)
 
++ [苹果 iPhone 18 Pro 系列预购开启：新增可变光圈、首发 2 纳米 A20 Pro 芯片，9999 元起](https://m.ithome.com/html/1001630.htm)
+
++ [消息称国产折叠屏学习苹果 iPhone Duo 开合透视动画，文件夹已创建](https://m.ithome.com/html/1001631.htm)
+
++ [小米 18 Fold 中折叠手机首销情况曝光，开售当日约 3.6 万台](https://m.ithome.com/html/1001581.htm)
+
++ [全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元](https://m.ithome.com/html/1001563.htm)
+
++ [华为 Pura X Max 阔折叠手机“波尔多红”“尼斯蓝”配色首销，11999 元起](https://m.ithome.com/html/1001591.htm)
+
++ [京东：购苹果 iPhone 18 Pro 系列手机以旧换新至高补 900 元、早鸟票中签用户赠 AppleCare Services 原厂服务](https://m.ithome.com/html/1001556.htm)
+
++ [荣耀“魔法画报”事件进展：第三方机构证实事发时手机正常接打十次电话](https://m.ithome.com/html/1001629.htm)
+
++ [苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购](https://m.ithome.com/html/1001571.htm)
+
++ [小米澎程 SUV 今日开启交付，雷军在彭城给首批车主开车门](https://m.ithome.com/html/1001576.htm)
+
++ [小米 18 Fold 及澎程 SUV 热度高涨，王晓雁称部分门店高峰客流量暴涨 400％](https://m.ithome.com/html/1001600.htm)
+
++ [消息称华为 Mate 90 系列手机将延续星环设计，还是本月下旬发布](https://m.ithome.com/html/1001677.htm)
+
++ [小米 SU7L 长轴轿车谍照再曝：支持后轮转向、侧面新增雷达](https://m.ithome.com/html/1001697.htm)
+

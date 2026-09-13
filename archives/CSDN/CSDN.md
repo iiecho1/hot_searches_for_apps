@@ -127,3 +127,23 @@
 
 + [[C++] C++11右值引用与移动语义揭秘](https://blog.csdn.net/HikariT/article/details/165005521)
 
++ [SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理](https://blog.csdn.net/Mrxiao_bo/article/details/164982869)
+
++ [AI编程时代软件工程怎么学：从底层思维认知到驱动智能体的架构跃迁](https://blog.csdn.net/qq_46987323/article/details/165126363)
+
++ [Elasticsearch 全文检索实战：Lucene 倒排索引与 NoSQL 文档检索落地](https://blog.csdn.net/m0_64708871/article/details/165127158)
+
++ [基于FPGA的CORDIC旋转模式实现sin和cos运算](https://blog.csdn.net/m0_48770376/article/details/164883907)
+
++ [3.0.8 慧知开源重卡充电桩平台](https://blog.csdn.net/Roinli/article/details/165127509)
+
++ [Linux系统编程（一）：从UNIX到Linux｜开源生态、发行版与学习路线](https://blog.csdn.net/Luminousone/article/details/165127705)
+
++ [SpringBoot3+Vue3+Flowable 办公用品：消耗发放、借用归还、转固怎么走完](https://blog.csdn.net/zhouzhongyan/article/details/164883004)
+
++ [着色器缓存大小设置多少合适？N卡A卡缓存路径与清理方法](https://blog.csdn.net/2601_96225553/article/details/164969704)
+
++ [AGV机器人 / AMR / 机器狗不同门类自动开门、过闸方案](https://blog.csdn.net/FDFDGFD/article/details/165006620)
+
++ [Web 页面内存溢出与 CPU 溢出：区别、诊断与最佳实践](https://blog.csdn.net/m0_51089660/article/details/165127572)
+
