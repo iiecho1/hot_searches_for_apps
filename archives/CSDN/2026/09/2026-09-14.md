@@ -101,3 +101,15 @@
 
 + [NAS应用太多总记不住端口？Homepage部署与家庭控制台教程](https://blog.csdn.net/AIRoses/article/details/164991915)
 
++ [鸿蒙PC真编译移植实战：交叉编译 CPython 3.12，把 Thonny IDE 真正搬到 OpenHarmony 桌面](https://blog.csdn.net/mrdeam/article/details/165120772)
+
++ [把开源 PDF 引擎塞进 JSVM：在鸿蒙 PC 上跑出一个 JasperReports 报表设计器](https://blog.csdn.net/weixin_52908342/article/details/165120597)
+
++ [【AVDTP】规范精讲[13]: 吃透内容保护机制，打通蓝牙音视频版权加密全流程](https://blog.csdn.net/weixin_37800531/article/details/164429075)
+
++ [【黑马点评 | 第一篇】从 Session 到 Redis+Token 的改造与拦截器实现](https://blog.csdn.net/2502_94242477/article/details/165241553)
+
++ [Docker 为什么比虚拟机轻？](https://blog.csdn.net/2402_88969947/article/details/165125312)
+
++ [用Python搭一套PDF翻译预处理流水线：拆分、去重、压缩与任务清单生成](https://blog.csdn.net/SamChan90/article/details/165121952)
+
