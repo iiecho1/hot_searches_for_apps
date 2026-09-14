@@ -141,3 +141,57 @@
 
 + [Panther X2 (RK3566) 蓝牙 AAC 音质部署指南](https://blog.csdn.net/u013195275/article/details/165243745)
 
++ [【AI大模型接入SDK】LLMManager类架构与智能指针选型](https://blog.csdn.net/2401_89899187/article/details/164833261)
+
++ [QQ 机器人怎么接上 AI？用 AstrBot + NapCat 搭一套可扩展的 DeepSeek 助手](https://blog.csdn.net/Dovis5884/article/details/165329306)
+
++ [AI 不只回答问题：用 Hermes Agent 把微信指令接到 Windows 电脑上](https://blog.csdn.net/2301_81152266/article/details/165322197)
+
++ [别再手动清空日志了：用 Ansible + Cron 把重复运维变成自动任务](https://blog.csdn.net/u010726809/article/details/165299857)
+
++ [【共创稿事节】基于物理的动画系统：刚体、粒子与碰撞检测](https://blog.csdn.net/u014727709/article/details/165008328)
+
++ [设备都联网了，故障还靠人排查：工业数据库该换个选法了](https://blog.csdn.net/lrq13965748542/article/details/165326583)
+
++ [88%在用，不到10%完成规模化部署——AI Agent落地差在哪里](https://blog.csdn.net/weixin_43151418/article/details/165286538)
+
++ [LangChain RAG ：文本向量与内存向量存储](https://blog.csdn.net/yue_2899799318/article/details/164855196)
+
++ [LLM 选型指南：Agent 场景下大模型的核心能力评估框架](https://blog.csdn.net/sinat_41617212/article/details/165008930)
+
++ [Mac 玩游戏选什么模拟器好？MuMu Mac 版实测聊聊我的结论](https://blog.csdn.net/2401_82648291/article/details/165007916)
+
++ [让 AI 直接查公司数据库？先给 SQL 加三道闸：基于蓝耘 MaaS 的只读查询助手](https://blog.csdn.net/2302_78391795/article/details/165281958)
+
++ [AGI的纵轴与横轴](https://blog.csdn.net/fitbit/article/details/165334536)
+
++ [想让喜欢的角色在微信里陪聊？KouriChat 从本地部署到公网管理完整配置](https://blog.csdn.net/a1657054242/article/details/165302435)
+
++ [Natapp 内网穿透实战：从注册到远程桌面，一步步把内网服务接到公网](https://blog.csdn.net/weixin_42878111/article/details/164979254)
+
++ [【MATLAB】新能源汽车永磁同步电机无传感器控制仿真研究](https://blog.csdn.net/unbelievevc/article/details/165284031)
+
++ [想要更轻的 Docker 管理面板？用 Dockhand 管飞牛 NAS 上的容器与 Compose](https://blog.csdn.net/qq_46123200/article/details/165307062)
+
++ [SonarQube 鸿蒙 PC 适配全记录：从重量服务端到本地扫描与质量结果闭环](https://blog.csdn.net/user340/article/details/165242175)
+
++ [不想把生活都发到社交平台?用Moments在NAS上搭一个自己的记录页](https://blog.csdn.net/2301_76341691/article/details/165300154)
+
++ [把 8051 编译器移植到鸿蒙PC：SDCC 4.6.0 高难度适配复盘](https://blog.csdn.net/2600_96946067/article/details/165121142)
+
++ [Paperless-ngx 部署实战：PostgreSQL + Redis 文档库与固定公网访问](https://blog.csdn.net/qq_51601665/article/details/165311485)
+
++ [ES 多租户架构：独立索引、别名与路由隔离的设计与实践](https://blog.csdn.net/qq_41840843/article/details/165245409)
+
++ [嵌入式(二): ARM、意法半导体与 STM32：嵌入式产业生态是怎样形成的?](https://blog.csdn.net/2502_93841997/article/details/165231709)
+
++ [10、k8s pod健康探测](https://blog.csdn.net/fxsdbt520/article/details/165207108)
+
++ [基于天地图 Cesium 三维服务实现三维地球及地球自转实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/165244580)
+
++ [别卷 Python 了：我用 Java 21 + Spring Boot 3 打造了一个企业级 RAG + 智能体工作流引擎（附架构与源码解析）](https://blog.csdn.net/weixin_40986713/article/details/165113379)
+
++ [DSH 白嫖指南：接入 Command Code Go、WorkBuddy 与 Trae 的免费额度](https://blog.csdn.net/2604_96186443/article/details/165007265)
+
++ [人脸检测和行人检测4：Android实现YOLOv8 YOLO11 YOLO26人脸检测和人体检测(含源码，可实时检测)](https://blog.csdn.net/guyuealian/article/details/164629596)
+

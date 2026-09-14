@@ -185,3 +185,31 @@
 
 + [日本东京一工厂发生爆炸 3人受伤](https://news.cctv.com/2026/09/14/ARTIfKeanAlBS7tg4C58fFCP260914.shtml)
 
++ [报告证实日本核电站地震评估造假](https://news.cctv.com/2026/09/14/ARTIMfSbWKTwfI65NCVasIBV260914.shtml)
+
++ [佩斯科夫：欢迎任何呼吁停止打击民用设施的倡议](https://news.cctv.com/2026/09/14/ARTIjWa87Y2fhacrGfpnXbsr260914.shtml)
+
++ [沙特王储兼首相会见美军中央司令部司令 讨论地区最新局势](https://news.cctv.com/2026/09/14/ARTI9XBJbp1eyVPAmQ3beeOj260914.shtml)
+
++ [国际原子能机构连续第六年上调全球核电增长预期](https://news.cctv.com/2026/09/14/ARTIxH8vM8HXF9xdByw368mT260914.shtml)
+
++ [芬兰决定接受法国“核保护伞”](https://news.cctv.com/2026/09/14/ARTIoPIbgxN3MUGQ57aJTOXI260914.shtml)
+
++ [日本一公司称“出现刺激性气味” 14人被送医](https://news.cctv.com/2026/09/14/ARTIgWmgGh0cqGGzxmDRAlWn260914.shtml)
+
++ [立陶宛将鸟群识别为无人机 北约战斗机紧急出动](https://news.cctv.com/2026/09/14/ARTIwNvtDbeR8hCYt6qbWfP6260914.shtml)
+
++ [南非西开普省交通事故致至少21人死亡](https://news.cctv.com/2026/09/14/ARTIU0uAGnQGZtpP9OWbqxCG260914.shtml)
+
++ [巴拿马媒体：中国经验给拉美国家带来发展启示](https://news.cctv.com/2026/09/14/ARTIlvna72vA5jIFIROhiEcU260914.shtml)
+
++ [英国学者：过剩的不是产能，是保护主义](https://news.cctv.com/2026/09/14/ARTI75qGmfQjDIc0ZBrokyju260914.shtml)
+
++ [“金砖国家最重要的贡献还在前方”——访亚洲开发银行前常务副行长拉贾特·纳格](https://news.cctv.com/2026/09/14/ARTIJfaHyYrvRLXrsEeMH9XY260914.shtml)
+
++ [金砖国家致力于做推动文明互鉴的先锋](https://news.cctv.com/2026/09/14/ARTIGJdoRNynM1PlT73SpCXt260914.shtml)
+
++ [“大金砖合作”凝聚力量，全球南方共谋发展](https://news.cctv.com/2026/09/14/ARTIwQ37JUFL8Zwa3lrhyVbb260914.shtml)
+
++ [共同书写全球南方团结自强新篇章](https://news.cctv.com/2026/09/14/ARTIwYQ0CAVEg83uD8LuBUP8260914.shtml)
+

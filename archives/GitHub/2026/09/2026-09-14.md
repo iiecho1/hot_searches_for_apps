@@ -39,3 +39,25 @@
 
 + [huggingface/transformers](https://github.com/huggingface/transformers)
 
++ [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+
++ [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
++ [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+
++ [localsend/localsend](https://github.com/localsend/localsend)
+
++ [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
++ [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
++ [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
++ [reconurge/flowsint](https://github.com/reconurge/flowsint)
+
++ [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
+
