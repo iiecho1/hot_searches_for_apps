@@ -167,3 +167,21 @@
 
 + [加拿大总理将访欧 寻求欧盟“准成员国”特殊地位](https://news.cctv.com/2026/09/14/ARTIY4dKpD5BKDiB6hSeZAXo260914.shtml)
 
++ [伊朗革命卫队称在霍尔木兹海峡上空击落美军无人机](https://news.cctv.com/2026/09/14/ARTIx7kLsM16pClWeB2uDnEL260914.shtml)
+
++ [法国就15岁以下未成年人社媒禁令向欧盟提交新版法案](https://news.cctv.com/2026/09/14/ARTI1dU65HDJNcqBoTmfTJ9k260914.shtml)
+
++ [尼泊尔泥石流灾害遇难人数升至1392人](https://news.cctv.com/2026/09/14/ARTI5OexNzi1FXtiyb20LVnq260914.shtml)
+
++ [印尼亚齐特区发生山体滑坡 已致1死13伤](https://news.cctv.com/2026/09/14/ARTI5rBdoyJSDRcWKYxpWM3w260914.shtml)
+
++ [秋冬季节亚美尼亚山区天气多变、地形复杂，中使馆提醒注意徒步登山等户外活动安全](https://news.cctv.com/2026/09/14/ARTIXZJ0zAMTAlv4jwaj2KxH260914.shtml)
+
++ [伊拉克南部化肥厂氨气泄漏事故已致超百人伤亡](https://news.cctv.com/2026/09/14/ARTIiFLIqeF1BkAnifAOv4IM260914.shtml)
+
++ [初步计票结果显示反对党阵营将赢得瑞典议会选举](https://news.cctv.com/2026/09/14/ARTIDhpIueI1REFjam7o5Fyd260914.shtml)
+
++ [印尼塞梅鲁火山连续3次喷发 火山灰柱高达1000米](https://news.cctv.com/2026/09/14/ARTIvxeM806ofPXKggJYvAcf260914.shtml)
+
++ [日本东京一工厂发生爆炸 3人受伤](https://news.cctv.com/2026/09/14/ARTIfKeanAlBS7tg4C58fFCP260914.shtml)
+
