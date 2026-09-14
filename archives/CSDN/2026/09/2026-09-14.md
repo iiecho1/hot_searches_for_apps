@@ -125,3 +125,19 @@
 
 + [Geany 鸿蒙 PC 适配全记录：以 Qt 重建轻量 IDE，打通编辑、项目检索与命令执行](https://blog.csdn.net/m0_55394328/article/details/165239850)
 
++ [我哼了10年的小调，从哼唱到上架-AI辅助音乐创作工程实践](https://blog.csdn.net/weixin_42878111/article/details/164995670)
+
++ [如何顺利通过GESP C++ 1级--8级](https://blog.csdn.net/dllglvzhenfeng/article/details/164620538)
+
++ [NAS 里的音乐怎么交给小爱音箱播放？XiaoMusic 部署与公网访问完整流程](https://blog.csdn.net/lrq13965748542/article/details/164984842)
+
++ [SpringAOP](https://blog.csdn.net/2303_76661774/article/details/165211344)
+
++ [统一功能：统一返回格式+统一异常处理](https://blog.csdn.net/2501_93392325/article/details/164879182)
+
++ [Kafka 日消 10 亿场景：用 ConcurrentLinkedQueue 实现高性能批量消费缓冲](https://blog.csdn.net/clz1314521/article/details/165244258)
+
++ [Html - 锚点链接：页面内部定位的制作与实操](https://blog.csdn.net/qq_41187124/article/details/157722661)
+
++ [Panther X2 (RK3566) 蓝牙 AAC 音质部署指南](https://blog.csdn.net/u013195275/article/details/165243745)
+
