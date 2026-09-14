@@ -161,3 +161,9 @@
 
 + [尼泊尔泥石流灾害已致1382人遇难](https://news.cctv.com/2026/09/10/ARTIHGH41hbbDvm7s7qn0sh9260910.shtml)
 
++ [国防部：助长日本“新型军国主义”必将祸及自身](https://news.cctv.com/2026/09/15/ARTIeUrwVR5KytYZlNyzVe3z260915.shtml)
+
++ [特朗普称伊朗希望“尽快”达成协议](https://news.cctv.com/2026/09/15/ARTInCIKoZUt1PUHltqGILnj260915.shtml)
+
++ [泽连斯基：若俄方停止袭击乌关键基础设施 乌方将对等停止](https://news.cctv.com/2026/09/15/ARTImqheoYHOPWoUKTKH2DU5260915.shtml)
+
