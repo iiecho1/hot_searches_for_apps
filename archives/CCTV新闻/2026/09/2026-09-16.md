@@ -161,3 +161,11 @@
 
 + [中国对尼泊尔第五批紧急援助物资运抵加德满都](https://news.cctv.com/2026/09/11/ARTId4hP6ZdLGZDvF9S6m9DK260911.shtml)
 
++ [希腊足协：不支持因凡蒂诺寻求连任国际足联主席](https://news.cctv.com/2026/09/16/ARTINbqZUHrQqmBja0YfSloS260916.shtml)
+
++ [埃及总统塞西会见沙特王储 支持政治解决也门危机](https://news.cctv.com/2026/09/16/ARTI0pBa50v1FMI0mylAW4I7260916.shtml)
+
++ [美国会预算办公室：美对伊战争耗资已超380亿美元](https://news.cctv.com/2026/09/16/ARTInOUhfzNNNxwEQ1gca4BQ260916.shtml)
+
++ [土耳其伊斯坦布尔发生枪击事件 已致3死1伤](https://news.cctv.com/2026/09/16/ARTIIk8tlqpJb4MethOyD9GP260916.shtml)
+
