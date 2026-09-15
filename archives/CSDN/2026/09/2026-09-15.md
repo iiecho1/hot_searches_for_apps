@@ -101,3 +101,21 @@
 
 + [# Flutter for OpenHarmony 实战：用 document_file_save_plus 做一个鸿蒙报表导出功能](https://blog.csdn.net/qq_15502821/article/details/165303247)
 
++ [把 Jupyter Notebook 搬到鸿蒙 PC：同栈双胞胎的 Notebook-first 移植实战](https://blog.csdn.net/weixin_52908342/article/details/165120645)
+
++ [旧安卓手机跑 OpenClaw：中文版部署、飞书接入、ADB 控制与公网 SSH 全流程(1)](https://blog.csdn.net/lbbxmx111/article/details/165364391)
+
++ [SGLang 一加并发就出问题，先查显存还是队列](https://blog.csdn.net/w776341482/article/details/165298827)
+
++ [人脸检测和行人检测3：C/C++实现YOLOv8 YOLO11 YOLO26人脸检测和人体检测(含源码，可实时检测) ](https://blog.csdn.net/guyuealian/article/details/164629582)
+
++ [【图像重建】基于matlab GUI CT图像重建（采用滤波后投影FBP并采用平行光束和扇形光束投影）【含Matlab源码 15959期】](https://blog.csdn.net/TIQCmatlab/article/details/165319262)
+
++ [AngusTester 与 Postman、MeterSphere：私有化统一测试怎么选](https://blog.csdn.net/u013731477/article/details/165327488)
+
++ [【C++三方组件】RapidJSON 上：API 分类精讲](https://blog.csdn.net/xusiwei1236/article/details/165365103)
+
++ [jenkins搭建docker启动](https://blog.csdn.net/wangfenglei123456/article/details/165297245)
+
++ [【共创稿事节】HarmonyOS 7 应用 Skill 化实战：从“被打开“到“被调用“，把功能递进系统意图分发池](https://blog.csdn.net/finally_vince/article/details/165201681)
+
