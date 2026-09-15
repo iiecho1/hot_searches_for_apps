@@ -171,3 +171,13 @@
 
 + [美空军部长：美国已拥有在轨“太空控制武器”](https://news.cctv.com/2026/09/15/ARTIHbkU82PNOlwII1cj9gMc260915.shtml)
 
++ [卡尼敦促欧盟10国批准加欧自贸协定](https://news.cctv.com/2026/09/15/ARTIWk4gAl59mRqEkc82NMwd260915.shtml)
+
++ [五角大楼报告：美在中东基地和外交机构受重大损失](https://news.cctv.com/2026/09/15/ARTI1hwm6gMwPmKdlkdMf93D260915.shtml)
+
++ [巴勒斯坦教育部长说超72万巴学生无法接受基础教育](https://news.cctv.com/2026/09/15/ARTInJzVYKhly7E6A1xDcTna260915.shtml)
+
++ [“东京审判不应被遗忘，正如侵略历史不容篡改”（铭记历史·捍卫和平）](https://news.cctv.com/2026/09/15/ARTIjk2RCiSuoRI1PzY6tZFm260915.shtml)
+
++ [零时差 | 让东京审判走出“遗忘黑洞”](https://news.cctv.com/2026/09/15/ARTIbqQVof6AWMBBHW2fzEkw260915.shtml)
+

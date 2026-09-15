@@ -119,3 +119,33 @@
 
 + [【共创稿事节】HarmonyOS 7 应用 Skill 化实战：从“被打开“到“被调用“，把功能递进系统意图分发池](https://blog.csdn.net/finally_vince/article/details/165201681)
 
++ [把 Flameshot 编译进鸿蒙 PC：一次 Qt C++ 截图工具的源码级移植实战](https://blog.csdn.net/weixin_52258054/article/details/165121028)
+
++ [从“装不上 JVM“到“零权限诊断“:Arthas Diag开源软件适配鸿蒙 PC 适配实战全记录](https://blog.csdn.net/weixin_52908342/article/details/165120424)
+
++ [PostgreSQL 鸿蒙 PC 适配全记录：从原生交叉编译到 HNP 数据库服务闭环](https://blog.csdn.net/2401_87629362/article/details/165241457)
+
++ [TCP传输效率衡量、ACK延迟机制与窗口效率介绍](https://blog.csdn.net/2401_86112610/article/details/165365603)
+
++ [不想先学一堆 React？用 Codex 帮你完成第一支 Remotion 动效视频](https://blog.csdn.net/COLLINSXU/article/details/165457265)
+
++ [Geany 鸿蒙 PC 适配全记录：以 Qt 重建轻量 IDE，打通编辑、项目检索与命令执行](https://blog.csdn.net/m0_55394328/article/details/165239850)
+
++ [Apache HBase 鸿蒙 PC 适配全记录：用 Qt 原生客户端打通 REST 管理与数据读写](https://blog.csdn.net/yj11290301/article/details/165235776)
+
++ [MariaDB Server 鸿蒙 PC 适配全记录：从大型 C_C++ 工程交叉编译到 HNP 真机运行](https://blog.csdn.net/m0_60318025/article/details/165239248)
+
++ [WinMerge 鸿蒙 PC 适配全记录：以 Qt 重建桌面外壳，打通文件与文件夹差异闭环](https://blog.csdn.net/lbcyllqj/article/details/165239572)
+
++ [极空间 Docker 部署马里奥并接入 cpolar 外网访问的完整过程](https://blog.csdn.net/2402_83344867/article/details/165329592)
+
++ [Spring Boot整合MongoDB](https://blog.csdn.net/wno704/article/details/163891173)
+
++ [【MATLAB】动力电池组均衡控制策略建模与仿真研究](https://blog.csdn.net/unbelievevc/article/details/165435812)
+
++ [Netflix ｜源码实证尽调｜Metaflow工程架构复盘：ML工作流从原型到生产的落地基石](https://blog.csdn.net/TunerT_TQ/article/details/165356124)
+
++ [GESP C++七级80+备考时长指南](https://blog.csdn.net/dllglvzhenfeng/article/details/165363936)
+
++ [基于阿波罗尼奥斯圆的无人水面车辆突防与拦截建模分析（Matlab代码实现）](https://blog.csdn.net/m0_73907476/article/details/165430408)
+
