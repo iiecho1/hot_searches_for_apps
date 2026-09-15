@@ -149,3 +149,27 @@
 
 + [基于阿波罗尼奥斯圆的无人水面车辆突防与拦截建模分析（Matlab代码实现）](https://blog.csdn.net/m0_73907476/article/details/165430408)
 
++ [别再手动清空日志了：用 Ansible + Cron 把重复运维变成自动任务](https://blog.csdn.net/u010726809/article/details/165299857)
+
++ [Natapp 内网穿透实战：无需公网服务器，远程桌面轻松访问内网电脑](https://blog.csdn.net/weixin_52908342/article/details/165303404)
+
++ [自动化不想再堆脚本？用 n8n 把 AI、网页抓取和远程触发串成工作流](https://blog.csdn.net/m0_73879806/article/details/165360891)
+
++ [【SSH 实战】：本地终端管理到固定 TCP 公网远程连接](https://blog.csdn.net/user340/article/details/165466865)
+
++ [【Redis 进阶】事务深度解析：弱事务模型、WATCH 乐观锁与适用边界](https://blog.csdn.net/2503_91389547/article/details/163613885)
+
++ [别再手动刷新网页:用Changedetection.io盯价格、公告和接口变化](https://blog.csdn.net/2401_87848736/article/details/165457365)
+
++ [Linux系统——进程控制（下）](https://blog.csdn.net/2501_93697341/article/details/164881825)
+
++ [Notepad++ 鸿蒙 PC 适配全记录：保留 Scintilla 内核，用 Qt 重建桌面外壳](https://blog.csdn.net/weixin_44467567/article/details/165239970)
+
++ [摄像头回放不想一直依赖云存储？用EasyNVR把录像留在飞牛NAS](https://blog.csdn.net/2501_91062530/article/details/165464129)
+
++ [嵌入式(二): ARM、意法半导体与 STM32：嵌入式产业生态是怎样形成的?](https://blog.csdn.net/2502_93841997/article/details/165231709)
+
++ [【架构专栏】第10章 软件架构演化与维护 1/2](https://blog.csdn.net/weixin_42081167/article/details/165355771)
+
++ [MCP 协议详解：模型上下文协议如何重塑 Agent 工具调用生态](https://blog.csdn.net/sinat_41617212/article/details/165245117)
+

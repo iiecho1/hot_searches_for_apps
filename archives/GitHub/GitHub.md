@@ -41,3 +41,23 @@
 
 + [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
 
++ [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI)
+
++ [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+
++ [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+
++ [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
++ [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+
++ [pacifio/atlas](https://github.com/pacifio/atlas)
+
++ [MG1937/ASC](https://github.com/MG1937/ASC)
+
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [tonhowtf/omniget](https://github.com/tonhowtf/omniget)
+
++ [earendil-works/pi](https://github.com/earendil-works/pi)
+
