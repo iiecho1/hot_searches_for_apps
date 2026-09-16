@@ -179,3 +179,11 @@
 
 + [美司法部长称发现2024年行刺特朗普枪手新信息](https://news.cctv.com/2026/09/16/ARTI2nzjyrBIk1c0gt6EmKPK260916.shtml)
 
++ [苏丹金矿坍塌事故已造成至少67名矿工遇难](https://news.cctv.com/2026/09/16/ARTI7GhwegqKwmVg7p8SO2bF260916.shtml)
+
++ [中国携手金砖国家共绘发展繁荣新画卷](https://news.cctv.com/2026/09/16/ARTIlkPTZHg7u18RsCd0O3D9260916.shtml)
+
++ [沙特主导联军称摧毁一架飞往麦加的胡塞武装无人机](https://news.cctv.com/2026/09/16/ARTImpvmzVKt5VHKPPkLURwM260916.shtml)
+
++ [日本在野党“中道改革联合”分裂](https://news.cctv.com/2026/09/16/ARTI7vd5lRI3IM8LzZgWrsNb260916.shtml)
+
