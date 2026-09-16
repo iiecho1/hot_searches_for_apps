@@ -21,3 +21,5 @@
 
 + [有没有喜欢徒步的 v 友？](https://www.v2ex.com/t/1242303)
 
++ [发现 6 astra 无限能源了](https://www.v2ex.com/t/1242432)
+
