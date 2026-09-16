@@ -33,3 +33,27 @@
 
 + [请更新：苹果 iOS / iPadOS 27 共修复 126 个安全漏洞，百度等团队参与贡献](https://m.ithome.com/html/1002368.htm)
 
++ [问界致全体渠道伙伴的函曝光，授权经销商合作协议主体由华为终端转为赛力斯](https://m.ithome.com/html/1002749.htm)
+
++ [联发科天玑 9600 Pro 旗舰芯片发布：2nm 工艺、4.55GHz 双超大核、120 帧光追手游](https://m.ithome.com/html/1002612.htm)
+
++ [消息称华为 Mate 90 系列手机“大杯”都有双层 OLED 屏幕，支持万级高亮度](https://m.ithome.com/html/1002817.htm)
+
++ [“问界大饭店”回归，推出免费错峰洗车 / 加玻璃水、餐饮等服务](https://m.ithome.com/html/1002786.htm)
+
++ [分析师称苹果 iPhone 18 Pro / Max 预售热度不高，并下调其产量预期](https://m.ithome.com/html/1002731.htm)
+
++ [拼多多因虚假广告被罚 54 万元](https://m.ithome.com/html/1002539.htm)
+
++ [消息称高通第六代骁龙 8 至尊版“SM8950”小米独占期半年，采用 2nm + 新一代核心架构](https://m.ithome.com/html/1002847.htm)
+
++ [鸿蒙智行发布关于问界合作模式的说明：仍是大家庭成员之一，所有用户既有权益及后续服务不受影响](https://m.ithome.com/html/1002671.htm)
+
++ [荣耀MagicOS 11 操作系统正式发布：全新流光通透设计，最高省 60GB 存储空间](https://m.ithome.com/html/1002754.htm)
+
++ [DeepSeek 刘胜与 《我不得不把才华埋葬在昨天》文章引热议，回应称不代表公司立场](https://m.ithome.com/html/1002864.htm)
+
++ [苹果 iOS 27 系统小彩蛋：Liquid Glass 设置往下滑可召唤“狗牛”](https://m.ithome.com/html/1002741.htm)
+
++ [消息称原鸿蒙智行部分店面将划归赛力斯，只陈列和销售问界车型](https://m.ithome.com/html/1002694.htm)
+
