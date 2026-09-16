@@ -25,3 +25,11 @@
 
 + [广汽集团筹划重大资产重组，一汽股份将成其第二大股东](https://m.ithome.com/html/1002296.htm)
 
++ [小米 18 Pro 系列手机官宣搭载全新百变背屏](https://m.ithome.com/html/1002418.htm)
+
++ [投票：苹果 iOS 27 正式版更新推送，你升级了吗？还满意吗？](https://m.ithome.com/html/1002502.htm)
+
++ [苹果 54 项 iOS / iPadOS 27 隐藏新功能 / 新特性汇总：打磨细节、聚焦 AI](https://m.ithome.com/html/1002524.htm)
+
++ [请更新：苹果 iOS / iPadOS 27 共修复 126 个安全漏洞，百度等团队参与贡献](https://m.ithome.com/html/1002368.htm)
+
