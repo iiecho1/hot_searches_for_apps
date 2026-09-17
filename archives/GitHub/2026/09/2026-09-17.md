@@ -43,3 +43,13 @@
 
 + [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
++ [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+
++ [cilium/cilium](https://github.com/cilium/cilium)
+
++ [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
+
++ [coder/coder](https://github.com/coder/coder)
+
++ [n8n-io/n8n](https://github.com/n8n-io/n8n)
+

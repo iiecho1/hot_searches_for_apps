@@ -191,3 +191,25 @@
 
 + [日本高市内阁全体阁僚提交辞呈](https://news.cctv.com/2026/09/17/ARTIYDdcMuUtgbDF1Kfs1X3V260917.shtml)
 
++ [伊朗称击落第53架美军MQ-9无人机](https://news.cctv.com/2026/09/17/ARTIMU1TN1Igl9iZyJlJUNqD260917.shtml)
+
++ [国际研究机构：尼泊尔泥石流灾害与气候变化密切相关](https://news.cctv.com/2026/09/17/ARTIEee3KkFmaKxWJe5ZU8tO260917.shtml)
+
++ [卡尼：加拿大与欧盟“不是只在顺境中才站在一起的盟友”](https://news.cctv.com/2026/09/17/ARTIPFs5hsc71oILB8CTCdbz260917.shtml)
+
++ [佩斯科夫：美通过对俄的新制裁法案是不友好行为](https://news.cctv.com/2026/09/17/ARTI4Btv1DrstrJreQ51XrIz260917.shtml)
+
++ [瑞典首相宣布辞职](https://news.cctv.com/2026/09/17/ARTINwlrMFM1YOH3lWijutmq260917.shtml)
+
++ [刚果（金）埃博拉疫情确诊病例增至7404例](https://news.cctv.com/2026/09/17/ARTIKnJPDpvesaD9bhLTz2zv260917.shtml)
+
++ [韩国检方追加起诉尹锡悦未申报“夫人收受财物”](https://news.cctv.com/2026/09/17/ARTIJ5jL20Y8qsSilZNib7m4260917.shtml)
+
++ [改组后的高市内阁正式成立](https://news.cctv.com/2026/09/17/ARTIr55SBe3aLiyeDDP3nzot260917.shtml)
+
++ [捷克一核电站反应堆机组因故障暂停运行](https://news.cctv.com/2026/09/17/ARTIBAy0UseNhJ2nbvLGaVLS260917.shtml)
+
++ [金钱政治具象化 美国富豪竞相为中期选举砸钱](https://news.cctv.com/2026/09/17/ARTIRNhAEfExjrjSYKuAULwW260917.shtml)
+
++ [从“低关注”到“战略前沿” 欧盟加速布局北极](https://news.cctv.com/2026/09/17/ARTIuDb8U4oFe8fxg3hVNmNL260917.shtml)
+

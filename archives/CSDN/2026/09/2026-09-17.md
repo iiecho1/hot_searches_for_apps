@@ -147,3 +147,23 @@
 
 + [开发一个APP需要多少钱？开发一个小程序、直播APP需要多少钱？2026河北石家庄、保定、邯郸、邢台及山东、河南周边开发报价避坑详解](https://blog.csdn.net/asd417asd/article/details/165617563)
 
++ [普通摄像头怎么加上 AI 监控？用 Frigate 把识别和事件管理放到绿联 NAS](https://blog.csdn.net/liu_chen_yang/article/details/165744544)
+
++ [远程打游戏怎么选？ToDesk游戏版、UU远程和向日葵实际体验对比](https://blog.csdn.net/2401_87629362/article/details/165741412)
+
++ [【教程】Centos7的Docker环境下Hadoop三种模式的配置](https://blog.csdn.net/wzkb123ljyja/article/details/165633698)
+
++ [想在 NAS 上玩推箱子？用 Docker 部署 Sokoban，手机也能远程打开](https://blog.csdn.net/qq_46123200/article/details/165739015)
+
++ [从inode到路径缓存-Ext文件系统完整拼图下篇](https://blog.csdn.net/xiongditian/article/details/165754143)
+
++ [K8s GPU调度全链路拆解：从kubectl apply到GPU正常运行](https://blog.csdn.net/H1727548/article/details/165632400)
+
++ [深入理解 Transformer：理解顺序Positional Encoding](https://blog.csdn.net/htw250056/article/details/165732772)
+
++ [哪吒监控面板实战：部署 Dashboard、接入 Agent、钉钉告警，再配置固定公网访问](https://blog.csdn.net/2301_79855962/article/details/165748561)
+
++ [阿里云部署qwen 大模型从0-1，第3步：阿里云服务器上部署大模型运行环境](https://blog.csdn.net/m0_37192554/article/details/165625860)
+
++ [机器人梯控异常停靠检测与安全告警状态机设计](https://blog.csdn.net/Robustel/article/details/165000065)
+

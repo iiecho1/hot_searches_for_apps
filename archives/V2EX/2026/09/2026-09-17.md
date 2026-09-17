@@ -47,3 +47,7 @@
 
 + [要不要等明年的 iPhone 20](https://www.v2ex.com/t/1242531)
 
++ [做了款 iOS 复古胶片摄影 app，送 20 个永久 Pro](https://www.v2ex.com/t/1242566)
+
++ [3 个 chatgpt 1000 额度邀请奖励，需要的留邮箱。](https://www.v2ex.com/t/1242701)
+
