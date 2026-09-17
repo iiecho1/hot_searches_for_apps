@@ -117,3 +117,33 @@
 
 + [Claude Prompt 香港场景：公文里「今日」落在 6 个日历日上，「翌日」锚错了 5 天](https://blog.csdn.net/patrickstar231/article/details/165604439)
 
++ [【AI】中国 AI：从跟随，到并肩](https://blog.csdn.net/2501_91731683/article/details/165428405)
+
++ [什么是 AI Agent 中的工具调用（Tool Calling）？它的基本流程是怎样的？](https://blog.csdn.net/qq_28419035/article/details/165727608)
+
++ [Prometheus 告警怎么推到钉钉？从单群通知到跨网络 Alertmanager 实战](https://blog.csdn.net/Rqaqedamancy/article/details/165732655)
+
++ [飞牛 NAS 部署 prompts.chat：自建提示词库、导入社区内容，再配置固定公网访问](https://blog.csdn.net/weixin_42878111/article/details/165731637)
+
++ [当国产数据库遇上云原生：深入解读 KES-Operator，让 KES 集群真正“长“在 Kubernetes 上](https://blog.csdn.net/weixin_52908342/article/details/165709694)
+
++ [Flutter 三方库 share_handler 鸿蒙使用指南](https://blog.csdn.net/qiaomu8559968/article/details/165438186)
+
++ [Spring Security添加图形验证码](https://blog.csdn.net/wno704/article/details/163891821)
+
++ [远程帮爸妈修电脑和手机，哪种远控能让他们“零操作“就连上？](https://blog.csdn.net/qq_33681891/article/details/165729207)
+
++ [时空智能赋能城市便民：用 WorkBuddy 构建地铁×早餐可达性可视化](https://blog.csdn.net/yelangkingwuzuhu/article/details/165631084)
+
++ [不想总开终端管 Docker？用 Yacht 搭一个清爽的容器管理面板](https://blog.csdn.net/2401_84720739/article/details/165458391)
+
++ [如何高效执行GESP C++八级数学学习计划](https://blog.csdn.net/dllglvzhenfeng/article/details/165611336)
+
++ [【UE5】- UE MCP ：在UE5.8编辑器中内置链接Codex](https://blog.csdn.net/qq_41032419/article/details/162510725)
+
++ [2026 代理网络选型指南：住宅/机房/ISP/移动代理怎么选？（附 Bright Data / Oxylabs / Decodo 实测对比）](https://blog.csdn.net/weixin_46713508/article/details/165628701)
+
++ [OpenCode 报「地区不可用」？Muse Spark 模型接入的四种解决方法](https://blog.csdn.net/m0_73797631/article/details/165622302)
+
++ [开发一个APP需要多少钱？开发一个小程序、直播APP需要多少钱？2026河北石家庄、保定、邯郸、邢台及山东、河南周边开发报价避坑详解](https://blog.csdn.net/asd417asd/article/details/165617563)
+

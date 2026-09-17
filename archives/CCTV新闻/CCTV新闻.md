@@ -173,3 +173,21 @@
 
 + [特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易](https://news.cctv.com/2026/09/17/ARTIT8XaNYp4saDPLrlz0Kbu260917.shtml)
 
++ [澳媒：澳大利亚将禁止留学生家属陪读](https://news.cctv.com/2026/09/17/ARTI7CdKFPVxK7SEZ2L5vOvn260917.shtml)
+
++ [卢拉称在美出席联大期间将要求美国不要干涉巴西选举](https://news.cctv.com/2026/09/17/ARTIG3FvfWX8hqBlAm162hDX260917.shtml)
+
++ [苏丹一金矿坍塌已致82人遇难 仍有人员失联](https://news.cctv.com/2026/09/17/ARTIFWnYAGQgDnkV6ZNUmkAA260917.shtml)
+
++ [日本首相高市早苗改组内阁](https://news.cctv.com/2026/09/17/ARTIZ1rTe0F30ZtMoQHDnsuj260917.shtml)
+
++ [世界气象组织：全球水循环日趋异常](https://news.cctv.com/2026/09/17/ARTIhWvIjEhFidw65M0wEExe260917.shtml)
+
++ [特朗普称欧盟允许加成为“联席成员”或是“敌对行为”](https://news.cctv.com/2026/09/17/ARTIfwAbbPNfA3Dr0FCv7AyA260917.shtml)
+
++ [日本高市内阁全体阁僚辞职以进行内阁改组](https://news.cctv.com/2026/09/17/ARTIOaEvzg1IrA6Nh5p9m4iZ260917.shtml)
+
++ [北美观察丨三年多来首次加息 美联储为何突然转向](https://news.cctv.com/2026/09/17/ARTIjq5MhLdAce1gxCgig8zD260917.shtml)
+
++ [日本高市内阁全体阁僚提交辞呈](https://news.cctv.com/2026/09/17/ARTIYDdcMuUtgbDF1Kfs1X3V260917.shtml)
+

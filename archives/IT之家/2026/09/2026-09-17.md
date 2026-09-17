@@ -45,3 +45,13 @@
 
 + [努比亚 NaviX Ultra 手机首销销售额“一秒破亿”，国补到手价 5499 元起](https://m.ithome.com/html/1003227.htm)
 
++ [消息称苹果 iPhone Duo 暂不支持微信平板模式，无法实现双设备登录同一账号](https://m.ithome.com/html/1003318.htm)
+
++ [苹果 iOS 27 正式版更新汇总：60 项升级，系统 / 功能 / 应用 / AI 齐优化](https://m.ithome.com/html/1003303.htm)
+
++ [苹果发布 iOS 27.2 首个测试版：跳过 27.1 为 iPhone Duo 让路，为中国用户带来存储覆写擦除选项](https://m.ithome.com/html/1003342.htm)
+
++ [全新理想 i9 Home 六座 SUV 发布：第二代纯电平台的首发旗舰，36.98 万元](https://m.ithome.com/html/1003280.htm)
+
++ [小米汽车：澎程 N90 Max 探索版升降顶舱篷布统一为浅卡其色，目前仅此一款](https://m.ithome.com/html/1003326.htm)
+
