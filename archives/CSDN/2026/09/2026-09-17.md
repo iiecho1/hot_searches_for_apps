@@ -107,3 +107,13 @@
 
 + [Flutter 三方库 sound_mode 的鸿蒙化适配指南：免权限读取与受限写入的契约对齐](https://blog.csdn.net/qq_15502821/article/details/165336805)
 
++ [DSH 改造：在外部订阅套餐下打通图片识别、生图与语音插件](https://blog.csdn.net/2302_80329073/article/details/165623079)
+
++ [Spark On Yarn 集群搭建](https://blog.csdn.net/Allwordhuier/article/details/165697984)
+
++ [Spring Cloud 微服务安全防护策略实现指南](https://blog.csdn.net/qq_29025955/article/details/165630303)
+
++ [嵌入式软件单元测试（四十四）——RISC-V架构MCU单元测试：从工具链搭建到第一个测试用例](https://blog.csdn.net/qq_15410539/article/details/165492377)
+
++ [Claude Prompt 香港场景：公文里「今日」落在 6 个日历日上，「翌日」锚错了 5 天](https://blog.csdn.net/patrickstar231/article/details/165604439)
+

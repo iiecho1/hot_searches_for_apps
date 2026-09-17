@@ -171,3 +171,5 @@
 
 + [巴基斯坦召见印度临时代办 就印巴军舰碰撞事件提出抗议](https://news.cctv.com/2026/09/17/ARTInkF1dBj8VVBp0dl8wHT7260917.shtml)
 
++ [特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易](https://news.cctv.com/2026/09/17/ARTIT8XaNYp4saDPLrlz0Kbu260917.shtml)
+
