@@ -161,3 +161,7 @@
 
 + [日本东京一工厂发生爆炸 3人受伤](https://news.cctv.com/2026/09/14/ARTIfKeanAlBS7tg4C58fFCP260914.shtml)
 
++ [一架战机在美国密歇根州坠毁](https://news.cctv.com/2026/09/18/ARTI1wMm8pmhRV4dlCw9febR260918.shtml)
+
++ [美国向我国返还64件（套）文物艺术品和古生物化石](https://news.cctv.com/2026/09/18/ARTIt1DXdaudsSjTLqP5qXQJ260918.shtml)
+

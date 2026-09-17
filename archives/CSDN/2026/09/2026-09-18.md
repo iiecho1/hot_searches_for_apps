@@ -101,3 +101,13 @@
 
 + [机器人梯控异常停靠检测与安全告警状态机设计](https://blog.csdn.net/Robustel/article/details/165000065)
 
++ [飞牛 NAS 部署 prompts.chat：自建提示词库、导入社区内容，再配置固定公网访问](https://blog.csdn.net/weixin_42878111/article/details/165731637)
+
++ [Re:Linux 系统篇（二十九）：动静态库Chapter2:动态库深度辨析 —— 核心本质、制作流程、双阶段查找模型与排错指南](https://blog.csdn.net/mogreat/article/details/165757223)
+
++ [模拟器横向评价：MuMu、雷电、应用宝电脑版五维实测，谁能当“五边形战士“？](https://blog.csdn.net/qyj19920704/article/details/165760137)
+
++ [让数据库真正“长“在 Kubernetes 里：KES-Operator 正式发布，K8s 环境下的 KES 集群管理有了标准答案](https://blog.csdn.net/2301_76341691/article/details/165758758)
+
++ [ValidX用户信息修改验证：部分更新的验证策略](https://blog.csdn.net/vipxieliang/article/details/165431361)
+
