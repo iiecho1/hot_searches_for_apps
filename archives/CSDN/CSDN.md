@@ -127,3 +127,47 @@
 
 + [适用于 FPGA 和 SoC 的UltraFast 设计方法指南（2）-UG949](https://blog.csdn.net/wang690879997/article/details/164996522)
 
++ [部署 Excalidraw：Docker 搭建手绘白板，再配置固定公网访问](https://blog.csdn.net/2602_94956987/article/details/165854719)
+
++ [App 弱网问题怎么稳定复现？用树莓派 + ATC 搭一个可控测试网关](https://blog.csdn.net/Pocker_Spades_A/article/details/165865981)
+
++ [PyTorch强化学习实战——分布式策略梯度](https://blog.csdn.net/LOVEmy134611/article/details/160130270)
+
++ [我把飞牛NAS装进了手机里？5G网络也能随时打开Docker工具箱](https://blog.csdn.net/u014727709/article/details/165873276)
+
++ [码道：从一行 Python 到水墨风成语接龙 AI —— 我的 Web 端 AI 应用开发全记录](https://blog.csdn.net/feng8403000/article/details/165877195)
+
++ [MySQL 监控总在重复配置？用 Shell 自动部署 mysqld_exporter，再让 Prometheus 远程抓取](https://blog.csdn.net/2302_79177254/article/details/165865459)
+
++ [鸿蒙PC软件开发框架：ElectronEgg，一套代码，从桌面到鸿蒙](https://blog.csdn.net/weixin_43151418/article/details/165843852)
+
++ [没有公网 IP 怎么远程抓取服务器指标？node_exporter + Prometheus + cpolar 实战](https://blog.csdn.net/2302_79376097/article/details/165864215)
+
++ [NAS买回家只存电影？装个Memos，手机在外也能直连私人笔记](https://blog.csdn.net/lrq13965748542/article/details/165741644)
+
++ [ZCode疑似后台上传项目代码？一次完整排查记录](https://blog.csdn.net/weixin_41961749/article/details/165879679)
+
++ [Python与AI应用（利用API调用在PyCharm本地使用大模型）](https://blog.csdn.net/W20070611/article/details/165757432)
+
++ [服务器越来越多怎么统一连接？用 Next Terminal 搭一个 Web 运维入口](https://blog.csdn.net/2401_87629362/article/details/165884424)
+
++ [Spring Security短信验证码登录](https://blog.csdn.net/wno704/article/details/163908417)
+
++ [前端2秒生成500页矢量PDF：Rust/WASM如何终结 jsPDF 的性能天花板](https://blog.csdn.net/2301_78967866/article/details/165751088)
+
++ [【MATLAB】新能源汽车整车动力学建模与仿真研究](https://blog.csdn.net/unbelievevc/article/details/165838963)
+
++ [2026 Web Scraping 代理服务商怎么选？住宅代理与代理网络对比指南](https://blog.csdn.net/qq_38951259/article/details/165620106)
+
++ [【设计模式】装饰模式(四)：框架源码实战——从 Java I/O 到 Spring 到 MyBatis](https://blog.csdn.net/WKX18330698534/article/details/165750131)
+
++ [向上走科技付费报告小程序系统](https://blog.csdn.net/hanlin1888/article/details/165758358)
+
++ [阿里云部署qwen 大模型从0-1，第3步：阿里云服务器上部署大模型运行环境](https://blog.csdn.net/m0_37192554/article/details/165625860)
+
++ [Github 开源热榜 【2026-0917】](https://blog.csdn.net/weixin_46946948/article/details/165758787)
+
++ [前端小skill](https://blog.csdn.net/aichitang2024/article/details/165759971)
+
++ [数据库有了备库，为什么仍然需要备份？](https://blog.csdn.net/taiyang3285/article/details/165758480)
+

@@ -199,3 +199,19 @@
 
 + [日本央行宣布加息 将政策利率上调至1.25%](https://news.cctv.com/2026/09/18/ARTItlgNdkGQR1MHqxgPdsJV260918.shtml)
 
++ [驻日本大使馆提醒在日中国公民注意防范台风等自然灾害](https://news.cctv.com/2026/09/18/ARTIYCHu1HskUX04Xse2YnDu260918.shtml)
+
++ [百余年来首次 猫科再添现存新物种](https://news.cctv.com/2026/09/18/ARTI4MXhbKREe6skj7OZwHfC260918.shtml)
+
++ [俄罗斯外交部就英国对乌军援召见英驻俄临时代办](https://news.cctv.com/2026/09/18/ARTI2k2FLhSfx0IsfOvRRLY6260918.shtml)
+
++ [巴基斯坦西北部爆炸已致16人死亡](https://news.cctv.com/2026/09/18/ARTImmzcRCE8ib3ZUNVFKV8c260918.shtml)
+
++ [病根不除，日本没有未来（钟声）](https://news.cctv.com/2026/09/18/ARTIx4OWeCBdefoqj5q5Txrp260918.shtml)
+
++ [菲律宾高中校园枪击事件已致6死17伤](https://news.cctv.com/2026/09/18/ARTI1scTFPL6zs2VsyWaZai2260918.shtml)
+
++ [蚊子“搭机”入境 德国法兰克福再添疟疾死亡病例](https://news.cctv.com/2026/09/18/ARTINDQx2uLIY1j7tRpHXfFC260918.shtml)
+
++ [菲律宾一高中发生枪击事件 已致2死7伤](https://news.cctv.com/2026/09/18/ARTItFYaEkXs7gCl9dwQdI1V260918.shtml)
+

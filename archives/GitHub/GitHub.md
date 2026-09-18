@@ -41,3 +41,19 @@
 
 + [n8n-io/n8n](https://github.com/n8n-io/n8n)
 
++ [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+
++ [ankitects/anki](https://github.com/ankitects/anki)
+
++ [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+
++ [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
+
++ [rustfs/rustfs](https://github.com/rustfs/rustfs)
+
++ [supabase/supabase](https://github.com/supabase/supabase)
+
++ [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+
++ [asciimoo/hister](https://github.com/asciimoo/hister)
+
