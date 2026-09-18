@@ -165,3 +165,11 @@
 
 + [美国向我国返还64件（套）文物艺术品和古生物化石](https://news.cctv.com/2026/09/18/ARTIt1DXdaudsSjTLqP5qXQJ260918.shtml)
 
++ [联大通过决议 允许巴勒斯坦总统以视频方式参加第81届联大](https://news.cctv.com/2026/09/18/ARTIjo2jhnlQlaAUpS0UKJch260918.shtml)
+
++ [美媒：伊朗领导人将出席在纽约举行的联合国大会](https://news.cctv.com/2026/09/18/ARTIAYFHKZbKsHfv242Rdo5u260918.shtml)
+
++ [俄驻加大使：两国“正常双边关系”已不复存在](https://news.cctv.com/2026/09/18/ARTIYzQQbkNR0ruaYUvchhhd260918.shtml)
+
++ [中方反对在安理会强推恢复对伊朗制裁](https://news.cctv.com/2026/09/18/ARTI51sB1b1klRdj4RDzaT2h260918.shtml)
+

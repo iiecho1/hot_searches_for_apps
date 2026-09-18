@@ -111,3 +111,19 @@
 
 + [ValidX用户信息修改验证：部分更新的验证策略](https://blog.csdn.net/vipxieliang/article/details/165431361)
 
++ [代码审计不只靠人工逐行看：用 DeepAudit 跑一遍项目级 AI 安全检查](https://blog.csdn.net/qq_54796785/article/details/165758305)
+
++ [数据库上 K8s 之后谁来管？拆解金仓 KES-Operator 的声明式运维方案](https://blog.csdn.net/2401_86326742/article/details/165760042)
+
++ [Kubernetes - 核心资源对象的关系梳理，构建 K8s 知识框架](https://blog.csdn.net/qq_41187124/article/details/157586388)
+
++ [Netflix｜源码实证尽调｜ VMAF深度解析：工业级视频质量评估算法内核](https://blog.csdn.net/TunerT_TQ/article/details/165361468)
+
++ [【黑马点评 | 第二篇】Redis 缓存更新策略与商铺缓存实现](https://blog.csdn.net/2502_94242477/article/details/165758640)
+
++ [【Linux网络】网络层IP协议：从公网路由到内核分片组装机制](https://blog.csdn.net/yhrxh_ymq/article/details/165126163)
+
++ [传奇打工模拟器横评：MuMu、雷电、逍遥，搬砖党到底选哪个？](https://blog.csdn.net/Pocker_Spades_A/article/details/165758470)
+
++ [适用于 FPGA 和 SoC 的UltraFast 设计方法指南（2）-UG949](https://blog.csdn.net/wang690879997/article/details/164996522)
+
