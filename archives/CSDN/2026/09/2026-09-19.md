@@ -101,3 +101,19 @@
 
 + [阿里云部署qwen 大模型从0-1，第3步：阿里云服务器上部署大模型运行环境](https://blog.csdn.net/m0_37192554/article/details/165625860)
 
++ [C++20模板元编程 05：吃透变参模板，解锁编译期万能参数能力](https://blog.csdn.net/2503_92624912/article/details/165889895)
+
++ [2026华为AI码道 CodeArts 使用分享：Windows端 + 服务器CLI 实战总结](https://blog.csdn.net/wenzhi20102321/article/details/165626006)
+
++ [【AI大模型接入SDK】C++会话管理模块（SessionManager）设计与实现](https://blog.csdn.net/2401_89899187/article/details/165889777)
+
++ [OceanBase VS 金仓：别只比QPS，先搞清楚你在为什么场景买单](https://blog.csdn.net/beautifulmemory/article/details/165244547)
+
++ [【课程资料】基于Flink+FlinkCDC+FlinkSQL+Clickhouse构建实时数据仓库](https://blog.csdn.net/segwy/article/details/165610874)
+
++ [GPT-6 Astra 上线后，你的 Codex Agent 该瘦身了｜4个优化方向+落地自检清单](https://blog.csdn.net/qq_36729037/article/details/165885687)
+
++ [前端小skill](https://blog.csdn.net/aichitang2024/article/details/165759971)
+
++ [数据库有了备库，为什么仍然需要备份？](https://blog.csdn.net/taiyang3285/article/details/165758480)
+
