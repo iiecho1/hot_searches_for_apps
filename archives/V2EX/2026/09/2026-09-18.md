@@ -31,3 +31,21 @@
 
 + [公司给报销 100 元买 token,该如何选择呢?必须有正规发票](https://www.v2ex.com/t/1242699)
 
++ [国内的麦当劳，肯德基，汉堡王，好像大部分人都不会收盘子](https://www.v2ex.com/t/1242932)
+
++ [我的三十岁，以及从龟到独立人格的改变](https://www.v2ex.com/t/1242824)
+
++ [大家的 MacBook pro 是怎么散热的呀， 2017 款，能用，现在 vibe coding 发热巨烫，一直对着小风扇吹着的。](https://www.v2ex.com/t/1242836)
+
++ [最近找工作有点把我整不会了](https://www.v2ex.com/t/1242845)
+
++ [[送终身会员] Termind： AI 驱动的 SSH 终端，现已支持 iOS](https://www.v2ex.com/t/1242844)
+
++ [亲戚欠钱不还，要不要起诉](https://www.v2ex.com/t/1242862)
+
++ [老二次元今天被同事整无语了](https://www.v2ex.com/t/1242757)
+
++ [肝了！真的做了一个 PS，再也不用 photoshop 了](https://www.v2ex.com/t/1242849)
+
++ [写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局](https://www.v2ex.com/t/1242880)
+

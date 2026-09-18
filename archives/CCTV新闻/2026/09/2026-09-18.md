@@ -173,3 +173,29 @@
 
 + [中方反对在安理会强推恢复对伊朗制裁](https://news.cctv.com/2026/09/18/ARTI51sB1b1klRdj4RDzaT2h260918.shtml)
 
++ [日本核污染水累计排放逾18万吨](https://news.cctv.com/2026/09/18/ARTI1IhqRBqHV3NVIr6y65hz260918.shtml)
+
++ [美国“里根”号航母完成大修 或将于明年部署](https://news.cctv.com/2026/09/18/ARTIIwy03MAgcpn9SKgNZRjm260918.shtml)
+
++ [南非卫生部警告猴痘病例激增](https://news.cctv.com/2026/09/18/ARTIQT6ZSaeFeDtGIJoJ3zRP260918.shtml)
+
++ [马来西亚前总理纳吉布将以居家监禁形式继续服刑](https://news.cctv.com/2026/09/18/ARTI9mrOpz6Vo5vsmlqVdgBv260918.shtml)
+
++ [新西兰：未与欧盟讨论过成为“联席成员”](https://news.cctv.com/2026/09/18/ARTIYnWvqY5Kc3kD2r6AMepc260918.shtml)
+
++ [非洲疾控中心：刚果（金）埃博拉疫情仍未得到控制](https://news.cctv.com/2026/09/18/ARTIeNLWU4zXoUtkFc8MDPob260918.shtml)
+
++ [北美观察丨打还是谈 美国准备怎么结束伊朗战争](https://news.cctv.com/2026/09/18/ARTI7cdOrakYLRHkhHDLVsFF260918.shtml)
+
++ [韩国总统称不会向霍尔木兹海峡派兵“介入战争”](https://news.cctv.com/2026/09/18/ARTI0Ko6PwGyyWMYd0zhpvOk260918.shtml)
+
++ [美军F-16战机在密歇根州坠毁 附近居民一度被疏散](https://news.cctv.com/2026/09/18/ARTIhn63c2lKyDko6Wd02xIV260918.shtml)
+
++ [日本一核电站反应堆或因管道漏水暂时关停](https://news.cctv.com/2026/09/18/ARTI6EXSbrmwUpyZk3h7MsY5260918.shtml)
+
++ [制度升级：3.0版议定书推动区域经贸合作进入新阶段](https://news.cctv.com/2026/09/18/ARTIpnmV04s8eoF6Ru6Cear6260918.shtml)
+
++ [携手同行，共赴中国—东盟“3.0之约”](https://news.cctv.com/2026/09/18/ARTIKJcTzjjZT7RxFB3p5EnU260918.shtml)
+
++ [日本央行宣布加息 将政策利率上调至1.25%](https://news.cctv.com/2026/09/18/ARTItlgNdkGQR1MHqxgPdsJV260918.shtml)
+
