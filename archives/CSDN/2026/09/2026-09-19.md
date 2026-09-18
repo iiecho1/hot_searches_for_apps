@@ -117,3 +117,5 @@
 
 + [数据库有了备库，为什么仍然需要备份？](https://blog.csdn.net/taiyang3285/article/details/165758480)
 
++ [MapReduce 压缩策略：提升大数据处理效率的关键技术](https://blog.csdn.net/qq_41840843/article/details/165892649)
+
