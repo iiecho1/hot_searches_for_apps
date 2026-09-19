@@ -61,3 +61,9 @@
 
 + [iPhone ➕联通真的等于失联吗](https://www.v2ex.com/t/1243053)
 
++ [现在 reddit 太难养号了](https://www.v2ex.com/t/1243138)
+
++ [有没有什么养成类游戏，可以刷 ，然后变现的，比如卖号，或者卖装备的这些操作；](https://www.v2ex.com/t/1243111)
+
++ [来了， M1Max 升级 macOS27](https://www.v2ex.com/t/1243139)
+

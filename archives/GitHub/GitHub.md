@@ -35,3 +35,21 @@
 
 + [asciimoo/hister](https://github.com/asciimoo/hister)
 
++ [trycua/cua](https://github.com/trycua/cua)
+
++ [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+
++ [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield)
+
++ [docling-project/docling](https://github.com/docling-project/docling)
+
++ [cloudflare/quiche](https://github.com/cloudflare/quiche)
+
++ [ruanyf/weekly](https://github.com/ruanyf/weekly)
+
++ [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
+
++ [cactus-compute/needle](https://github.com/cactus-compute/needle)
+
++ [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
+

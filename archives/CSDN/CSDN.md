@@ -165,3 +165,17 @@
 
 + [ESP32 如何运行 WebAssembly：WAMR、宿主接口与小应用执行链路](https://blog.csdn.net/weixin_46555120/article/details/165886899)
 
++ [22秒攻击窗口下的防御重构：AI Threat Defense 与 Agent 安全护栏实践](https://blog.csdn.net/CC1991_/article/details/165754156)
+
++ [别让数据库迁移工具困在一台电脑上：金仓KDMS的“云+端+服务“打法](https://blog.csdn.net/qq_57761637/article/details/166007618)
+
++ [GitHub 热榜项目 - 周榜(2026-09-19)](https://blog.csdn.net/u014390502/article/details/166009148)
+
++ [iOS、安卓、鸿蒙APP如何运行同一个小程序](https://blog.csdn.net/Geek_Vison/article/details/165888380)
+
++ [苍穹外卖菜品缓存实战｜Redis 手写缓存 + SpringCache 注解两套方案](https://blog.csdn.net/2601_96029214/article/details/165890954)
+
++ [【YiFeiWebApi】给鼎捷易飞 ERP 接一个大模型：我用 ASP.NET Core + DeepSeek 做了个“易飞小智“，自然语言直接查业务数据](https://blog.csdn.net/david_520042/article/details/166010025)
+
++ [【ARM 裸机开发 (IMX6ULL-mini)】GNU工具、Makefile 工程构建、链接脚本详解｜C 语言点灯 + 蜂鸣器驱动](https://blog.csdn.net/2403_89702754/article/details/166002297)
+

@@ -181,3 +181,7 @@
 
 + [研究显示格陵兰和南极冰盖40多年损失逾11万亿吨冰](https://news.cctv.com/2026/09/19/ARTIOosNHvoBEd6Jxo6YMN5C260919.shtml)
 
++ [认知·锐见 | 警惕日本新型“历史洗白术”之一：日本往政务AI系统里输入了什么？](https://news.cctv.com/2026/09/19/ARTIeRrTt1sgPi0LyvBNiCff260919.shtml)
+
++ [安全形势依然严峻 我使馆提醒中国公民暂勿前往苏丹](https://news.cctv.com/2026/09/19/ARTInXKCullfOYbjkwHN6xNB260919.shtml)
+

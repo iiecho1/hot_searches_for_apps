@@ -49,3 +49,13 @@
 
 + [飞牛：升级 ColorOS 17 的 OPPO、一加、真我手机，均支持原生相册直接备份至飞牛 fnOS 智能存储](https://m.ithome.com/html/1004213.htm)
 
++ [赛力斯康波回应“问界品牌专属专营”是否影响“含华量”：问界将有华为最新、最好、最实用的技术、产品以及供应保障](https://m.ithome.com/html/1004058.htm)
+
++ [网友偶遇华为余承东、奇瑞尹同跃“边走边聊”，智界 R7 焕新款将至](https://m.ithome.com/html/1004064.htm)
+
++ [消息称苹果已接受三星 2027 年内存涨价，iPhone 等产品有可能再度涨价](https://m.ithome.com/html/1003859.htm)
+
++ [苹果向 iPhone 18 Pro / Max、Apple Watch Series 12 等推送发售首日更新](https://m.ithome.com/html/1003884.htm)
+
++ [苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补](https://m.ithome.com/html/1003873.htm)
+
