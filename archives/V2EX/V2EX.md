@@ -47,3 +47,17 @@
 
 + [微软 Authenticator Android 设备 从 2027 年 1 月开始，不再使用 Microsoft 个人帐户启用备份](https://www.v2ex.com/t/1243013)
 
++ [结婚一年半，准备离婚了](https://www.v2ex.com/t/1243140)
+
++ [看图，好像确实是这样子](https://www.v2ex.com/t/1243104)
+
++ [（源头）包稳不智降企业级的 gpt6 倍率低至 0.24， codex pro 0.2，国模 0.19， Grok Heavy0.19，更有低价高缓存的官 k 首字 1S 缓存 95%。一对一服务，一键自助免点开票。注册回复皆送体验额度。](https://www.v2ex.com/t/1243121)
+
++ [2026 年到底还有哪个模型能正常说人话的？不需要能力多强](https://www.v2ex.com/t/1243125)
+
++ [问一下，有没有合成语音的 api？英式英语](https://www.v2ex.com/t/1243074)
+
++ [有什么比较好的方案让 AI 实现 24 小时自动化开发？](https://www.v2ex.com/t/1243154)
+
++ [iPhone ➕联通真的等于失联吗](https://www.v2ex.com/t/1243053)
+

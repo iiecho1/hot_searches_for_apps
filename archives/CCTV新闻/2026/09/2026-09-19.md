@@ -177,3 +177,7 @@
 
 + [中使馆提醒在沙特中资机构和中国公民进一步加强安全防范](https://news.cctv.com/2026/09/19/ARTIRIGFjCsMyD1wM9QmoIOt260919.shtml)
 
++ [向新而行，中国－东盟合作未来可期](https://news.cctv.com/2026/09/19/ARTIh8E9vl2ewqOVCA3OdrdJ260919.shtml)
+
++ [研究显示格陵兰和南极冰盖40多年损失逾11万亿吨冰](https://news.cctv.com/2026/09/19/ARTIOosNHvoBEd6Jxo6YMN5C260919.shtml)
+

@@ -141,3 +141,27 @@
 
 + [不训练机器人权重，Pigey把π0.5真机成功率从16.7%拉到97.3%](https://blog.csdn.net/AIGCmagic/article/details/165887666)
 
++ [开源还是开权重：2026 年 AI 模型战争的控制权之争](https://blog.csdn.net/weixin_74809706/article/details/164885385)
+
++ [Spark 成本优化：Spot 实例、Auto Scaling 与作业级资源画像的降本实践](https://blog.csdn.net/qq_41840843/article/details/165893708)
+
++ [better-sqlite3 鸿蒙 PC 适配实践：交叉编译与 Electron 集成](https://blog.csdn.net/weixin_51484460/article/details/165891596)
+
++ [Agent外传审计实战：3类失准事故拦截脚本](https://blog.csdn.net/superdangbo/article/details/165965373)
+
++ [【SOC估计】基于matlab扩展卡尔曼滤波器EKF锂离子电池状态估计【含Matlab源码 15974期】](https://blog.csdn.net/TIQCmatlab/article/details/165963640)
+
++ [BALL 1.5.0-git20220524.d85d2dd 鸿蒙 PC 高难适配记录：从编译到运行](https://blog.csdn.net/2401_85300149/article/details/165619513)
+
++ [【VLM】Qwen3.8-Omni-Flash长音视频理解Agentic模型](https://blog.csdn.net/qq_35812205/article/details/165890673)
+
++ [023 SpringBoot实现萌宠集市](https://blog.csdn.net/qq_41505957/article/details/165891184)
+
++ [Spring Boot日志](https://blog.csdn.net/2401_89019969/article/details/156095183)
+
++ [【共创稿事节】HarmonyOS 7 数字身份 DID 实战：TEE 颁发、本人同意、最小化出示](https://blog.csdn.net/finally_vince/article/details/165240609)
+
++ [一条版本说明背后：国产数据库如何啃下 PostgreSQL 三十年的硬骨头](https://blog.csdn.net/weixin_74888502/article/details/165715498)
+
++ [ESP32 如何运行 WebAssembly：WAMR、宿主接口与小应用执行链路](https://blog.csdn.net/weixin_46555120/article/details/165886899)
+
