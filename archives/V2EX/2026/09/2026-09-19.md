@@ -23,3 +23,7 @@
 
 + [RouterYo 中转站 20 得 100，限量供应！评论送！](https://www.v2ex.com/t/1242871)
 
++ [xiaomi 18 Fold 几乎就是像素级抄 iPhone duo 外观](https://www.v2ex.com/t/1242860)
+
++ [驾照有可能消失吗？](https://www.v2ex.com/t/1242916)
+

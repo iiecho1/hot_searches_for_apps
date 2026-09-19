@@ -163,3 +163,9 @@
 
 + [安理会完成联合国秘书长遴选第三轮意向性投票](https://news.cctv.com/2026/09/19/ARTITUaYeK1RThk4wXI5YC8q260919.shtml)
 
++ [地狱·人间：侵华日军第七三一部队原队员清水英男忏悔录](https://news.cctv.com/2026/09/19/ARTIAeVEjLvmnrZEp48b432w260919.shtml)
+
++ [中国与东盟携手推动自贸区3.0版从蓝图走向现实](https://news.cctv.com/2026/09/19/ARTIK1uOpsLCSplfVO4uPUJf260919.shtml)
+
++ [世界如何看清九一八事变真相](https://news.cctv.com/2026/09/19/ARTIDvMtWKs3oJXP0gXFDCFw260919.shtml)
+
