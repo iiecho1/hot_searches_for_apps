@@ -169,3 +169,11 @@
 
 + [世界如何看清九一八事变真相](https://news.cctv.com/2026/09/19/ARTIDvMtWKs3oJXP0gXFDCFw260919.shtml)
 
++ [北美观察丨从“拥有”到协议落地 美国与格陵兰争议进入新阶段](https://news.cctv.com/2026/09/19/ARTIGHfcgV7sgOqQs9ViVGbw260919.shtml)
+
++ [巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动](https://news.cctv.com/2026/09/19/ARTIUGshCavyXbFMIrvD9EDe260919.shtml)
+
++ [德国政府拟多措并举缓解高油价压力](https://news.cctv.com/2026/09/19/ARTIaCZKIHNLk1OvuC1VCwWW260919.shtml)
+
++ [中使馆提醒在沙特中资机构和中国公民进一步加强安全防范](https://news.cctv.com/2026/09/19/ARTIRIGFjCsMyD1wM9QmoIOt260919.shtml)
+

@@ -119,3 +119,25 @@
 
 + [MapReduce 压缩策略：提升大数据处理效率的关键技术](https://blog.csdn.net/qq_41840843/article/details/165892649)
 
++ [LLM 网关：AI 应用里最被低估的一层](https://blog.csdn.net/2401_89111612/article/details/165605866)
+
++ [Spark 增量处理：基于 Checkpoint 的状态恢复与增量数据摄取技术详解](https://blog.csdn.net/qq_41840843/article/details/165894100)
+
++ [评测AI Agent：三种裁判各司其职](https://blog.csdn.net/2403_87933448/article/details/165736674)
+
++ [【Linux学习】Linux学习第八弹——从源码到可执行程序：gcc 到底偷偷做了什么？](https://blog.csdn.net/2403_86779341/article/details/165758102)
+
++ [Agent 上下文工程：Token 管理、上下文压缩与分层记忆设计](https://blog.csdn.net/sinat_41617212/article/details/165875975)
+
++ [Spring Boot 2 与 Spring Boot 3 自动装配的区别及 Boot 3 装配流程详解](https://blog.csdn.net/tan809417133/article/details/165599084)
+
++ [【Openharmony】HDC指令集](https://blog.csdn.net/Daisy_1/article/details/165859087)
+
++ [基于 Rokid AIUI：从掏手机到一句「开跑」，我做了《悦跑教练》](https://blog.csdn.net/qq_34988304/article/details/165889359)
+
++ [飞牛 NAS 搭建 Navidrome：把硬盘里的音乐整理成可远程访问的私人播放器](https://blog.csdn.net/AIRoses/article/details/165868192)
+
++ [使用华为云码道 CodeArts 生成 HarmonyOS 头像选择页面：从提示词到项目验收](https://blog.csdn.net/qq_33681891/article/details/165892650)
+
++ [不训练机器人权重，Pigey把π0.5真机成功率从16.7%拉到97.3%](https://blog.csdn.net/AIGCmagic/article/details/165887666)
+

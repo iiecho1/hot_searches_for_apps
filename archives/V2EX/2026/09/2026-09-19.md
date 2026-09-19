@@ -27,3 +27,23 @@
 
 + [驾照有可能消失吗？](https://www.v2ex.com/t/1242916)
 
++ [找工作暂时完结，转行啦](https://www.v2ex.com/t/1243028)
+
++ [工资越高是不是工作越轻松](https://www.v2ex.com/t/1243077)
+
++ [机票购买后当天降价 110 多，有解决办法吗？](https://www.v2ex.com/t/1243009)
+
++ [锐评一下用过的 Agents/Harness](https://www.v2ex.com/t/1242976)
+
++ [解包了 ZCode 上传的加密包](https://www.v2ex.com/t/1243017)
+
++ [各位的 Zcode 中招了没？](https://www.v2ex.com/t/1242986)
+
++ [大便时好时不好，纠结要不要去检查](https://www.v2ex.com/t/1243029)
+
++ [电信十全十美 99 套餐改单宽带 480 包年安全换车](https://www.v2ex.com/t/1243026)
+
++ [Zcode 飞书群官方回应来了](https://www.v2ex.com/t/1243032)
+
++ [微软 Authenticator Android 设备 从 2027 年 1 月开始，不再使用 Microsoft 个人帐户启用备份](https://www.v2ex.com/t/1243013)
+
