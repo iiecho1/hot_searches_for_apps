@@ -101,3 +101,9 @@
 
 + [【共创稿事节】HarmonyOS 7 数字身份 DID 实战：TEE 颁发、本人同意、最小化出示](https://blog.csdn.net/finally_vince/article/details/165240609)
 
++ [一条版本说明背后：国产数据库如何啃下 PostgreSQL 三十年的硬骨头](https://blog.csdn.net/weixin_74888502/article/details/165715498)
+
++ [数学建模全流程：从一道题到一篇论文](https://blog.csdn.net/2501_93881005/article/details/166012748)
+
++ [备件不是积压就是断货，问题出在“库存定额“上？——设备备件与库存管理](https://blog.csdn.net/powertoolsteam/article/details/165884565)
+
