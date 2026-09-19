@@ -159,3 +159,17 @@
 
 + [中国携手金砖国家共绘发展繁荣新画卷](https://news.cctv.com/2026/09/16/ARTIlkPTZHg7u18RsCd0O3D9260916.shtml)
 
++ [闪评 | 加拿大欲加入欧盟对乌贷款计划 对各方影响几何？](https://news.cctv.com/2026/09/20/ARTIjFTVIWlBefGagehZoIzV260920.shtml)
+
++ [美方宣扬“永久控制”，丹麦否认“出让主权”，“格陵兰岛协议”谁是赢家？](https://news.cctv.com/2026/09/20/ARTI4zdXjStbv7ezhBdXOOtX260920.shtml)
+
++ [沙特主导联军称拦截胡塞武装射向利雅得的弹道导弹](https://news.cctv.com/2026/09/20/ARTIStVI5eUtXqRptEznmtvF260920.shtml)
+
++ [智利前总统巴切莱特退出联合国秘书长遴选](https://news.cctv.com/2026/09/20/ARTIKYDGhYcIRSvJDHGa0Agg260920.shtml)
+
++ [伊朗称已向美政府传达7项谈判条件](https://news.cctv.com/2026/09/20/ARTIeFU50PC8whA99qEeL91Q260920.shtml)
+
++ [胡塞武装称对沙特敏感目标及设施发动袭击](https://news.cctv.com/2026/09/20/ARTIp0YdLSZ0papCXJ8urNPk260920.shtml)
+
++ [俄罗斯“进步MS-35”货运飞船与国际空间站对接](https://news.cctv.com/2026/09/20/ARTIm6Tktww0GMEEFu0rk7mb260920.shtml)
+

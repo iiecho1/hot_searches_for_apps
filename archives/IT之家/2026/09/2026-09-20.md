@@ -41,3 +41,13 @@
 
 + [闲鱼：坚决打击色情违规内容，今年已冻结风险账号 9.8 万个](https://m.ithome.com/html/1004326.htm)
 
++ [小米自研玄戒 O3 芯片隐藏能力曝光：铺路完善小米 18 Fold 等手机跑 PC 游戏](https://m.ithome.com/html/1004240.htm)
+
++ [消息称华为 Pura X View 阔直板手机首周激活销量约 28.2 万，实销均价约 7000 元](https://m.ithome.com/html/1004093.htm)
+
++ [何小鹏：小鹏今年开始电池都自己干](https://m.ithome.com/html/1004198.htm)
+
++ [1688、抖音生活服务、快手、美团、淘宝闪购、淘天、小红书、支付宝签署协议，共同支持个体工商户发展](https://m.ithome.com/html/1004256.htm)
+
++ [飞牛：升级 ColorOS 17 的 OPPO、一加、真我手机，均支持原生相册直接备份至飞牛 fnOS 智能存储](https://m.ithome.com/html/1004213.htm)
+

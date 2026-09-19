@@ -107,3 +107,7 @@
 
 + [备件不是积压就是断货，问题出在“库存定额“上？——设备备件与库存管理](https://blog.csdn.net/powertoolsteam/article/details/165884565)
 
++ [Re:Linux 系统篇（二十九）：动静态库Chapter2:动态库深度辨析 —— 核心本质、制作流程、双阶段查找模型与排错指南](https://blog.csdn.net/mogreat/article/details/165757223)
+
++ [一批相同的电脑怎么建账？数量管理、单件编码和拆分规则](https://blog.csdn.net/weixin_53653412/article/details/164725006)
+
