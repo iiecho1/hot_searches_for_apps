@@ -31,3 +31,15 @@
 
 + [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
 
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+
++ [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
++ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
++ [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)
+
++ [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
+

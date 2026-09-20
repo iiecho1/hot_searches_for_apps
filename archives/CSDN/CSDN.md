@@ -137,3 +137,25 @@
 
 + [大模型语音机器人和人工客服如何搭配协作？](https://blog.csdn.net/weixin_47312655/article/details/166111546)
 
++ [什么是 Agent Loop（智能体循环）？一个典型的 Agent Loop 包含哪些步骤？](https://blog.csdn.net/qq_28419035/article/details/166103207)
+
++ [大模型加速的两大黑魔法：快如闪电的秘诀==推测解码，Chunked Prefill](https://blog.csdn.net/qq_38998213/article/details/166016820)
+
++ [GaussDB 系统表与系统视图详解（内网运维版）](https://blog.csdn.net/GaussDB/article/details/165857952)
+
++ [【共创稿事节】HarmonyOS 7 平行视界进阶实战：配置写好了，为什么一上真机就崩？](https://blog.csdn.net/finally_vince/article/details/165889194)
+
++ [排序算法全家桶：大白话帮你打通任督二脉（下）【算法思考】](https://blog.csdn.net/2503_94385710/article/details/166012554)
+
++ [WeClaw_31_TTS 语音合成实战：pyttsx3 本地引擎与 Edge-TTS 云服务的混合架构](https://blog.csdn.net/yweng18/article/details/166132877)
+
++ [快速实验篇（A9-2）Python vs MapReduce：小批量任务的工具选择](https://blog.csdn.net/weixin_39635634/article/details/166015658)
+
++ [SpringBoot+Vue3 节日主题换肤实战：一条参数换全站配色，节后自动还原](https://blog.csdn.net/zhouzhongyan/article/details/166014599)
+
++ [【架构专栏】第12章 信息系统架构设计 1/2](https://blog.csdn.net/weixin_42081167/article/details/166008747)
+
++ [Cursor 插件使用说明 —— 部署与基建三件套（AWS / Cloudflare / Vercel）](https://blog.csdn.net/weixin_69334636/article/details/166014359)
+
++ [9. 离线OCR文字识别：Tesseract在Flutter中的集成与专业预处理管线](https://blog.csdn.net/u010972645/article/details/165838388)
+
