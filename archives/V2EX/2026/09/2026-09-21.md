@@ -21,3 +21,5 @@
 
 + [18 PM 1T 和 2T 都是 QLC](https://www.v2ex.com/t/1243269)
 
++ [Codex 20x 不太够用了，没有重置的时候，用啥来替补一下好呢？](https://www.v2ex.com/t/1243292)
+

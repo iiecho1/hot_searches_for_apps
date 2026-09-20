@@ -161,3 +161,5 @@
 
 + [美官员称美军不会对胡塞武装发动进攻性打击](https://news.cctv.com/2026/09/21/ARTIxxda3hlc2jVSORzubDQC260921.shtml)
 
++ [伊朗军方称在霍尔木兹海峡上空击落一“轨道飞行器”无人机](https://news.cctv.com/2026/09/21/ARTIIS3HitsK8DvksEk9q8Sd260921.shtml)
+
