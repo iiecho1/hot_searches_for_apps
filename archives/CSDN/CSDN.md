@@ -111,3 +111,29 @@
 
 + [一批相同的电脑怎么建账？数量管理、单件编码和拆分规则](https://blog.csdn.net/weixin_53653412/article/details/164725006)
 
++ [时序数据库选型全指南｜大数据工业场景Apache IoTDB落地实操](https://blog.csdn.net/weixin_37800531/article/details/165758925)
+
++ [基于 Java + Playwright 实现网站自动访问与数据采集（以腾讯云开发者社区为例）](https://blog.csdn.net/yelangkingwuzuhu/article/details/166014459)
+
++ [Spark 增量处理：基于 Checkpoint 的状态恢复与增量数据摄取技术详解](https://blog.csdn.net/qq_41840843/article/details/165894100)
+
++ [使用 Elasticsearch 和 Jina 进行 AI 视频搜索：精准找到你需要的视频片段秒数](https://blog.csdn.net/UbuntuTouch/article/details/166075086)
+
++ [使用华为云码道 CodeArts 生成 HarmonyOS 头像选择页面：从提示词到项目验收](https://blog.csdn.net/qq_33681891/article/details/165892650)
+
++ [鸿蒙PC开源移植：CodeLite原生IDE与Remote Agent适配](https://blog.csdn.net/2302_79177254/article/details/165846314)
+
++ [模拟器横向评价：MuMu、雷电、应用宝电脑版五维实测，谁能当“五边形战士“？](https://blog.csdn.net/qyj19920704/article/details/165760137)
+
++ [码道：用一份纯前端生日网页，把「生日快乐」写出仪式感](https://blog.csdn.net/feng8403000/article/details/166105927)
+
++ [Spring Bean作用域揭秘：单例、原型、请求与会话的区别](https://blog.csdn.net/2501_93392325/article/details/165632608)
+
++ [具身智能TVA-World架构如何实现自主进化闭环？](https://blog.csdn.net/2501_94287723/article/details/163268284)
+
++ [Prometheus 告警推钉钉：从单群 Webhook 到跨网络 Alertmanager 实战](https://blog.csdn.net/2402_83344867/article/details/166011383)
+
++ [【YiFeiWebApi】给鼎捷易飞 ERP 接一个大模型：我用 ASP.NET Core + DeepSeek 做了个“易飞小智“，自然语言直接查业务数据](https://blog.csdn.net/david_520042/article/details/166010025)
+
++ [大模型语音机器人和人工客服如何搭配协作？](https://blog.csdn.net/weixin_47312655/article/details/166111546)
+

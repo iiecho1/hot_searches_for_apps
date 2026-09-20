@@ -51,3 +51,19 @@
 
 + [飞牛：升级 ColorOS 17 的 OPPO、一加、真我手机，均支持原生相册直接备份至飞牛 fnOS 智能存储](https://m.ithome.com/html/1004213.htm)
 
++ [马云深度参与：淘宝闪购城市骑士制服获 2026 年法国设计奖最高奖，金奖首次授予一线劳动者职业制服](https://m.ithome.com/html/1004568.htm)
+
++ [苹果 iPhone 18 Pro DXOMARK 影像测试结果出炉：总分 172 位列全球第二，仅次华为 Pura 80 Ultra](https://m.ithome.com/html/1004582.htm)
+
++ [小米 18 Pro 系列手机官宣 9 月 23 日发布：小米数字系列史上最大升级，全新百变背屏、首发搭载澎湃 OS4](https://m.ithome.com/html/1004604.htm)
+
++ [赛力斯科技总裁刘宗成：汽车产业最大的风险不是慢，而是“速成”](https://m.ithome.com/html/1004485.htm)
+
++ [苹果硬件工程负责人汤姆 &#183; 马里布：每次看到有人给 iPhone 屏幕贴膜，我就浑身不自在](https://m.ithome.com/html/1004618.htm)
+
++ [小米折叠屏手机历史最高：消息称 Xiaomi 18 Fold 开售 7 天销量近 8 万台](https://m.ithome.com/html/1004580.htm)
+
++ [百度地图张朝远：两轮车用户对地图需求排在 TOP3，如果一辆两轮车没有地图导航能力，很难说它是真的智能](https://m.ithome.com/html/1004478.htm)
+
++ [小米 18 Pro 系列手机官宣全系搭载 2nm 旗舰移动平台，后置徕卡双 2 亿影像](https://m.ithome.com/html/1004670.htm)
+

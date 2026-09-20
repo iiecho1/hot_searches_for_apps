@@ -173,3 +173,9 @@
 
 + [俄罗斯“进步MS-35”货运飞船与国际空间站对接](https://news.cctv.com/2026/09/20/ARTIm6Tktww0GMEEFu0rk7mb260920.shtml)
 
++ [防空火力告急 沙特多方求援](https://news.cctv.com/2026/09/20/ARTIQEev5zsFE7WBbmTrRpBj260920.shtml)
+
++ [伊议长：伊朗条件得到满足前霍尔木兹海峡将保持关闭](https://news.cctv.com/2026/09/20/ARTILaoapDl9CZKzpanWY3nH260920.shtml)
+
++ [俄副外长：俄美计划未来几周内就“敏感问题”会谈](https://news.cctv.com/2026/09/20/ARTIIW5qhD4kOtPjRxoVmpVN260920.shtml)
+
