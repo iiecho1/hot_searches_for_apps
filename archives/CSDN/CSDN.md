@@ -117,3 +117,11 @@
 
 + [ARM 固件库](https://blog.csdn.net/2603_96623595/article/details/166012967)
 
++ [喜讯：盟接之桥品牌发布——线束行业数字化+AI整体解决方案](https://blog.csdn.net/mjarqa/article/details/166122809)
+
++ [【LibreCAD 2D架构】从 RedrawDrawing 到三张离屏图：LibreCAD 的重绘机制与叠加层](https://blog.csdn.net/2302_80177460/article/details/165630478)
+
++ [Linux:库的制作与使用、ELF文件认识](https://blog.csdn.net/2601_95175861/article/details/165630061)
+
++ [把 DeepSeek-R1 装进浏览器 —— WebGPU + Transformers.js 端侧推理实战](https://blog.csdn.net/2503_93701293/article/details/166015265)
+
