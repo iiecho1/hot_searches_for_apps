@@ -25,3 +25,27 @@
 
 + [小米 18 Pro 系列手机官宣全系搭载 2nm 旗舰移动平台，后置徕卡双 2 亿影像](https://m.ithome.com/html/1004670.htm)
 
++ [苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%](https://m.ithome.com/html/1004875.htm)
+
++ [A20 Pro 芯片端侧 AI 实测：苹果 iPhone 18 Pro 可本地跑 270 亿参数模型，速度较 iPhone 17 Pro 翻倍](https://m.ithome.com/html/1004909.htm)
+
++ [小米 18 Pro 真机实拍图曝光，9 月 23 日发布](https://m.ithome.com/html/1004840.htm)
+
++ [卢伟冰谈小米 18 Pro 系列手机定价：是会涨，但相信大家会觉得合理](https://m.ithome.com/html/1004908.htm)
+
++ [小米 18 Pro 系列黑白双色官图公布，9 月 23 日发布](https://m.ithome.com/html/1004814.htm)
+
++ [跳过 19 命名：苹果 iPhone 20 Pro 系列早期屏幕信息曝光，测试无边四曲面设计](https://m.ithome.com/html/1005121.htm)
+
++ [造谣“宁德时代宜宾基地班长不让普工上厕所”，男子被行拘](https://m.ithome.com/html/1004992.htm)
+
++ [消息称华为 Mate 90 系列年度旗舰手机将在 9 月 29 日发布](https://m.ithome.com/html/1005085.htm)
+
++ [IT之家专访苹果 iPhone 营销副总裁凯安 &#183; 德兰斯：iPhone Duo 追求最终用户体验，而不仅仅是为了技术](https://m.ithome.com/html/1005013.htm)
+
++ [雷军宣布明日直播：聊聊小米澎程发布这些天的进展和感受，打算自己搭一次帐篷](https://m.ithome.com/html/1004942.htm)
+
++ [小米 18 Pro 系列手机官宣搭载超级像素屏幕 2.0，原生硬件级防窥](https://m.ithome.com/html/1005054.htm)
+
++ [一汽-大众 ID. AURA T6 纯电 SUV 上市，12.99 万 - 16.69 万元](https://m.ithome.com/html/1004898.htm)
+

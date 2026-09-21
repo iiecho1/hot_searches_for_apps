@@ -27,3 +27,17 @@
 
 + [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
++ [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+
++ [cloudflare/quiche](https://github.com/cloudflare/quiche)
+
++ [mvt-project/mvt](https://github.com/mvt-project/mvt)
+
++ [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
+
++ [ruanyf/weekly](https://github.com/ruanyf/weekly)
+
++ [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
++ [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
+

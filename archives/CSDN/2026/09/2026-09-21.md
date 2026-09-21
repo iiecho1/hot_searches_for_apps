@@ -165,3 +165,33 @@
 
 + [WeKnora 搭建研发 EDA 知识库：Docker 部署、RAG 与 Wiki 实践](https://blog.csdn.net/WSRY_GJP/article/details/166138980)
 
++ [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://blog.csdn.net/aidoudoulong/article/details/166245683)
+
++ [OceanBaseVS金仓：同一条复杂 SQL，为什么架构选择会改变延迟曲线](https://blog.csdn.net/2302_78391795/article/details/166217662)
+
++ [Hudi数据质量保障：行数校验、字段对比与漂移修复方案](https://blog.csdn.net/qq_41840843/article/details/166142595)
+
++ [Prometheus 告警推送钉钉：Alertmanager + Webhook 配置、多群通知与跨网链路实战](https://blog.csdn.net/qyj19920704/article/details/166249561)
+
++ [想把《仙剑》《大富翁》搬进浏览器？Docker + cpolar 搭一套 DOS 怀旧游戏库](https://blog.csdn.net/qq_46123200/article/details/166248510)
+
++ [【Linux】揭开文件神秘的面纱：第二讲，操作系统自己的菜鸟驿站——文件缓冲区](https://blog.csdn.net/button__c/article/details/166138491)
+
++ [监控平台能启动却连不上数据库？从 WGCLOUD 部署到多主机监控把链路跑通](https://blog.csdn.net/Z_oioihoii/article/details/166248413)
+
++ [【操作系统 | 开篇：什么是操作系统？从裸机到多任务系统】](https://blog.csdn.net/DdigitalNomad/article/details/166114153)
+
++ [HarmonyOS 7 新特性1：闪控窗——轻规划里的专注倒计时，跟着你走出应用](https://blog.csdn.net/sjw890821sjw/article/details/166142614)
+
++ [Plugin4Shell 零点击远程代码执行漏洞已攻破 Claude Code、Codex、Copilot 和 Gemini CLI。](https://blog.csdn.net/ylscode/article/details/165888834)
+
++ [基于Hadoop+Spark的乳腺癌病理数据可视化分析系统 基于K-Means聚类与PCA降维的乳腺癌形态特征分析系统](https://blog.csdn.net/m0_72599287/article/details/166009461)
+
++ [【YiFeiWebApi】给鼎捷易飞 ERP 接一个大模型：我用 ASP.NET Core + DeepSeek 做了个“易飞小智“，自然语言直接查业务数据](https://blog.csdn.net/david_520042/article/details/166010025)
+
++ [深入理解TCP协议----滑动窗口,流量控制](https://blog.csdn.net/jiaomorning/article/details/165594527)
+
++ [【ARM 裸机开发 (IMX6ULL-mini)】GNU工具、Makefile 工程构建、链接脚本详解｜C 语言点灯 + 蜂鸣器驱动](https://blog.csdn.net/2403_89702754/article/details/166002297)
+
++ [ReAct‑MCTS：蒙特卡洛树搜索增强的ReAct智能体用于长视界交互式任务](https://blog.csdn.net/weixin_44626085/article/details/166142914)
+
