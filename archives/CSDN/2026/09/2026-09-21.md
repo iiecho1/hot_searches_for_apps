@@ -125,3 +125,43 @@
 
 + [把 DeepSeek-R1 装进浏览器 —— WebGPU + Transformers.js 端侧推理实战](https://blog.csdn.net/2503_93701293/article/details/166015265)
 
++ [LLM 和 Jev 到底有什么区别？为什么这个“不说话的AI“突然爆火？](https://blog.csdn.net/zxc18344522713/article/details/166143448)
+
++ [【计算几何】Clipper的偏移](https://blog.csdn.net/he_zhidan/article/details/165241863)
+
++ [【Linux系统】【Linux 进程程序替换机制解析及自定义 Shell 核心逻辑实现 】流食般投喂](https://blog.csdn.net/dj_798/article/details/166009474)
+
++ [【Redis 进阶】哨兵深度解析：从故障自动转移到分布式共识原理](https://blog.csdn.net/2503_91389547/article/details/166140085)
+
++ [刷爆社媒的 Jev 模型，可能是今年最该关注的一块模型，有直接获取API的方法](https://blog.csdn.net/luwei42768/article/details/166016936)
+
++ [Pydantic 主动拥抱 AI 了](https://blog.csdn.net/caoli201314/article/details/166141849)
+
++ [OceanBase和KES数据库：复杂查询该先看分区，还是先看 SQL](https://blog.csdn.net/COLLINSXU/article/details/166106386)
+
++ [使用Spring Cloud Sleuth跟踪微服务](https://blog.csdn.net/wno704/article/details/163909282)
+
++ [从 0 到 1 手搓 AI 视觉识别平台前端：1,286 路视频、6 大模块、纯 HTML/CSS/JS 实现（附完整思路与代码）](https://blog.csdn.net/weixin_42496466/article/details/166142112)
+
++ [《ROS 机器人程序设计》课程习题资料-2026-lyrical](https://blog.csdn.net/ZhangRelay/article/details/166015129)
+
++ [大模型是什么？一文梳理 AI、机器学习、深度学习与大模型](https://blog.csdn.net/yu____yuan/article/details/164883989)
+
++ [大模型工程化实战（十二）：RAG 数据工程底座——采集到入库流水线（离线+在线双链路）](https://blog.csdn.net/xiaobing259/article/details/166139118)
+
++ [Small Spring IOC篇：实现 Bean 的定义、注册、获取](https://blog.csdn.net/Rookiebird829/article/details/166114694)
+
++ [de风——【从零开始学习Linux】（五）：gcc编译器的基本使用](https://blog.csdn.net/Xiao_running/article/details/163221282)
+
++ [Jev 模型与两个示例项目解析学习记录](https://blog.csdn.net/weixin_45644347/article/details/166129357)
+
++ [Python 与以太坊：web3.py 正是连接两者的桥梁](https://blog.csdn.net/2401_82619496/article/details/166135127)
+
++ [让 Claude Code 换上国产大脑：蓝耘元生代上 GLM-5.2 / DeepSeek / Qwen 模型横评实测](https://blog.csdn.net/user340/article/details/166221731)
+
++ [【HarmonyOS 7新能力｜047】ModularObjectExtensionAbility工程封装：把接入逻辑放进可维护的分层结构](https://blog.csdn.net/2401_84996024/article/details/164515295)
+
++ [Java微服务与云原生：Docker](https://blog.csdn.net/mhmh123/article/details/164374547)
+
++ [WeKnora 搭建研发 EDA 知识库：Docker 部署、RAG 与 Wiki 实践](https://blog.csdn.net/WSRY_GJP/article/details/166138980)
+
