@@ -101,3 +101,19 @@
 
 + [数学建模全流程：从一道题到一篇论文](https://blog.csdn.net/2501_93881005/article/details/166012748)
 
++ [Micam 多容器太吃资源？用 Go2RTC + EasyNVR 给小米摄像头换一套轻量本地录像方案](https://blog.csdn.net/m0_73879806/article/details/166251349)
+
++ [OceanBase和KES数据库：复杂查询该先看分区，还是先看 SQL](https://blog.csdn.net/COLLINSXU/article/details/166106386)
+
++ [YAML配置详解：SpringBoot实战指南](https://blog.csdn.net/2501_93705143/article/details/166256489)
+
++ [Formality：组合逻辑环的处理](https://blog.csdn.net/weixin_45791458/article/details/166248369)
+
++ [【架构专栏】第15章 面向服务架构设计 1/3](https://blog.csdn.net/weixin_42081167/article/details/166254883)
+
++ [ReAct‑MCTS：蒙特卡洛树搜索增强的ReAct智能体用于长视界交互式任务](https://blog.csdn.net/weixin_44626085/article/details/166142914)
+
++ [Agent 响应延迟优化：从推理引擎到系统架构的四层优化模型](https://blog.csdn.net/bumblebee16/article/details/164632061)
+
++ [基于Hadoop+Spark的乳腺癌病理数据可视化分析系统 基于K-Means聚类与PCA降维的乳腺癌形态特征分析系统](https://blog.csdn.net/m0_72599287/article/details/166009461)
+
