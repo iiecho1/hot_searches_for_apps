@@ -25,3 +25,15 @@
 
 + [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
 
++ [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+
++ [dream-num/univer](https://github.com/dream-num/univer)
+
++ [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+
++ [google/ax](https://github.com/google/ax)
+
++ [superdesigndev/treg](https://github.com/superdesigndev/treg)
+
++ [browser-use/video-use](https://github.com/browser-use/video-use)
+

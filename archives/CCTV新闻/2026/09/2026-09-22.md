@@ -199,3 +199,15 @@
 
 + [从非洲的“中国课堂”到上海的世界赛场](https://news.cctv.com/2026/09/22/ARTILWVTtb9mSVBY8VQO7iSg260922.shtml)
 
++ [微视频｜老朋友的期盼](https://news.cctv.com/2026/09/22/ARTIHN9WOlCZ3jInjNcsR8gv260922.shtml)
+
++ [64件瑰宝回家——中美文物追索合作取得新成果](https://news.cctv.com/2026/09/22/ARTICcHI10Z8y6g2IJh2Jpng260922.shtml)
+
++ [从坎帕拉到上海——乌干达青年逐梦世界技能大赛](https://news.cctv.com/2026/09/22/ARTIS5jOGFMIEnNgkNwLYCoT260922.shtml)
+
++ [写在第48届世界技能大赛开幕之际](https://news.cctv.com/2026/09/22/ARTIuYNZEtMNO12TikLoyXFk260922.shtml)
+
++ [微视频｜合力筑就繁荣世界](https://news.cctv.com/2026/09/22/ARTIjft1vshsVKef8yZPPp1n260922.shtml)
+
++ [推动中美关系迈向更美好未来——美国各界对习近平主席国事访问充满期待](https://news.cctv.com/2026/09/22/ARTIYW81wCLCXWayPQFxmug3260922.shtml)
+

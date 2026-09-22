@@ -145,3 +145,43 @@
 
 + [DevOps 平台能力图谱：30 项能力的自检清单](https://blog.csdn.net/aiqianzhan/article/details/166257214)
 
++ [8G显卡不只跑聊天模型：用Voice Companion搭一个能听、能说的本地AI数字人](https://blog.csdn.net/2401_87629362/article/details/166357760)
+
++ [Prompt 和素材总是散一地？用 Infinite-Canvas 把 AI 创作搬进一张无限画布](https://blog.csdn.net/Dovis5884/article/details/166354773)
+
++ [SpringBoot3+Vue3 企业数据可视化：分析中心、积木报表与 GoView 大屏怎么选](https://blog.csdn.net/zhouzhongyan/article/details/166014923)
+
++ [OpenClaw + cpolar 实战：远程 NAS、分享小游戏、RDP，再配置公网 AI 入口](https://blog.csdn.net/lbbxmx111/article/details/166257067)
+
++ [【AI智能体】Codex 开发聚合搜索应用项目实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/163797745)
+
++ [手机远程控制电脑哪家强？2026年5款远控APP移动端深度横评](https://blog.csdn.net/weixin_37800531/article/details/166256410)
+
++ [星下点从夜空划过：我用华为云码道把开普勒二体做成了过境实验室](https://blog.csdn.net/weixin_52908342/article/details/166257072)
+
++ [我给 WorkBuddy 设了个闹钟：每天上午十点半，一份 AI 日报自动送进微信](https://blog.csdn.net/2302_78391795/article/details/166329682)
+
++ [600 元小主机怎么玩 macOS？从 U 盘、BIOS 到 UHD 630 加速和公网远程一次跑通](https://blog.csdn.net/2401_87848736/article/details/166356304)
+
++ [在极空间上用 Docker 部署 BentoPDF：把 PDF 工具留在自己手里](https://blog.csdn.net/mrdeam/article/details/166361266)
+
++ [「请3休13」长假远程挂机谁更靠谱？实测ToDesk、向日葵、RustDesk远程稳定性、断线重连、远程终端](https://blog.csdn.net/weixin_53231455/article/details/166363846)
+
++ [YOLO人体关键点检测：MNN C++部署YOLOv8-Pose YOLO11-Pose YOLO26-Pose(含源码，支持CPU和GPU)](https://blog.csdn.net/guyuealian/article/details/166247855)
+
++ [旧玩客云别吃灰：刷入 HiNas、改 root 密码，再用工具做一台可远程访问的低功耗 NAS](https://blog.csdn.net/COLLINSXU/article/details/166354031)
+
++ [模型不是产品：从 Prompt Engineering 走向 Harness Engineering](https://blog.csdn.net/weixin_74809706/article/details/164885413)
+
++ [ValidX 股票代码验证：沪深港美股票代码格式大全](https://blog.csdn.net/vipxieliang/article/details/166228681)
+
++ [FPGA PLL锁相环IP核超全详解：原理+配置+实操+避坑](https://blog.csdn.net/nskksms/article/details/166257389)
+
++ [【FMQL30TAI开发-PLIN模式】视频采集+YOLO目标识别+HDMI显示/VPU压缩保存，全流程详解](https://blog.csdn.net/qq_36840004/article/details/166363151)
+
++ [近年数学建模出题趋势：数模在往哪走](https://blog.csdn.net/2501_93881005/article/details/166141096)
+
++ [【架构专栏】第15章 面向服务架构设计 2/3](https://blog.csdn.net/weixin_42081167/article/details/166254925)
+
++ [飞书客服Agent接入实战：解决消息归属与重复投递问题](https://blog.csdn.net/qq_74013365/article/details/166256617)
+
