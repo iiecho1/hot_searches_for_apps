@@ -179,3 +179,23 @@
 
 + [加拿大与欧洲靠拢 “独特同盟”前景如何](https://news.cctv.com/2026/09/22/ARTIL2n4iZcW38GMN1jR0eE1260922.shtml)
 
++ [全球发展倡议践行合作共赢](https://news.cctv.com/2026/09/22/ARTIkvahWgmQrChgt2xBHx1H260922.shtml)
+
++ [英国首次用无人潜航器发射鱼雷](https://news.cctv.com/2026/09/22/ARTIYY6VZXXfbSXj7sqfysjp260922.shtml)
+
++ [加拿大考虑与法国开展液化天然气合作](https://news.cctv.com/2026/09/22/ARTIIz5GTVsBoFL1RFmoDjox260922.shtml)
+
++ [土耳其一所高中发生枪击事件 造成5人受伤](https://news.cctv.com/2026/09/22/ARTIsIzLwoPxLVIytswmZ6qo260922.shtml)
+
++ [人民日报重磅视频｜建设性战略稳定](https://news.cctv.com/2026/09/22/ARTIUjWdFan2nHOzGWOxWOee260922.shtml)
+
++ [习近平主席这样阐释中美相处之道](https://news.cctv.com/2026/09/22/ARTIpj6BP0Og0Gb3wYk36Y3p260922.shtml)
+
++ [印尼失事客轮已确认15人遇难 仍有百余人失踪](https://news.cctv.com/2026/09/22/ARTIdJ9XjiBgPSOiNxdN1dTW260922.shtml)
+
++ [韩国前总统夫人金建希涉嫌“卖官鬻爵”获刑5年](https://news.cctv.com/2026/09/22/ARTIiW2jyeadqZ1wO0v0yRKA260922.shtml)
+
++ [美国中学生：从学中文到走进中国](https://news.cctv.com/2026/09/22/ARTIpcxgNVtzuR4Bp0m2TVRg260922.shtml)
+
++ [从非洲的“中国课堂”到上海的世界赛场](https://news.cctv.com/2026/09/22/ARTILWVTtb9mSVBY8VQO7iSg260922.shtml)
+
