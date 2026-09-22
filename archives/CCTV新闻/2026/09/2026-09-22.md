@@ -165,3 +165,17 @@
 
 + [丹麦及格陵兰岛将与美国签署安全协议](https://news.cctv.com/2026/09/22/ARTIw2YgS5sMSiNOjfLM7iob260922.shtml)
 
++ [从亚运赛场放眼世界舞台（亚运观澜）](https://news.cctv.com/2026/09/22/ARTIUGqVVKDWHa3J2pffjzGX260922.shtml)
+
++ [“黄金通道”+“黄金平台” 助推中国东盟合作升级](https://news.cctv.com/2026/09/22/ARTIPrZZR0EWuJDQzE84brLA260922.shtml)
+
++ [友谊之树不断长出新年轮（相知无远近）](https://news.cctv.com/2026/09/22/ARTIA8O8OfmjWzWbIqeyVtfF260922.shtml)
+
++ [英国将向沙特提供“防御性”军事支持](https://news.cctv.com/2026/09/22/ARTIksLQco8k0SILEbCN2wqx260922.shtml)
+
++ [调查显示57%美国民众支持对华友好合作](https://news.cctv.com/2026/09/22/ARTIKsyQ6PPE2lcA5nDMdToC260922.shtml)
+
++ [阿根廷总统：不会以军事手段解决马岛主权争端](https://news.cctv.com/2026/09/22/ARTIuvPEl5MGWMMdxomiqdVw260922.shtml)
+
++ [加拿大与欧洲靠拢 “独特同盟”前景如何](https://news.cctv.com/2026/09/22/ARTIL2n4iZcW38GMN1jR0eE1260922.shtml)
+

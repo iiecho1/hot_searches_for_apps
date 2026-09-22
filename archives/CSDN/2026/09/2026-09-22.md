@@ -121,3 +121,27 @@
 
 + [排序算法全家桶：大白话帮你打通任督二脉（下）【算法思考】](https://blog.csdn.net/2503_94385710/article/details/166012554)
 
++ [流计算框架对比：Spark Streaming 与 Flink 的架构差异与选型指南](https://blog.csdn.net/qq_41840843/article/details/166245092)
+
++ [把视频处理交给 Agent：AI MediaKit Skill 深度评测](https://blog.csdn.net/JHXL_/article/details/166251216)
+
++ [【LE Audio】PBP精讲[5]: 广播音频的身份标识与元数据交互法则](https://blog.csdn.net/weixin_37800531/article/details/166012850)
+
++ [大模型是什么？一文梳理 AI、机器学习、深度学习与大模型](https://blog.csdn.net/yu____yuan/article/details/164883989)
+
++ [Spring Cloud Consul服务治理](https://blog.csdn.net/wno704/article/details/164324579)
+
++ [agno v3.0.10发布：Azure OpenAI Responses、Elasticsearch、MCP 路由与一批关键稳定性修复全解析](https://blog.csdn.net/weixin_48502062/article/details/166131237)
+
++ [HP ProDesk 600 G4 装好 macOS 后还能干什么？把 Hermes Agent 跑成一台常驻 AI 小主机](https://blog.csdn.net/a1657054242/article/details/166255870)
+
++ [Html - 语义化标签：figure 与 figcaption 的图片标注](https://blog.csdn.net/qq_41187124/article/details/157722762)
+
++ [技术第4篇，【架构实战】55873 双层安全风控架构：Rust 底层硬拦截 + AI 语义研判双保险设计全解](https://blog.csdn.net/2601_96892611/article/details/166253395)
+
++ [4K 视频总卡在公网带宽？用 N1 + OpenList 把网盘播放链路重新理顺](https://blog.csdn.net/2301_76147196/article/details/166247738)
+
++ [【YiFeiWebApi】给鼎捷易飞 ERP 接一个大模型：我用 ASP.NET Core + DeepSeek 做了个“易飞小智“，自然语言直接查业务数据](https://blog.csdn.net/david_520042/article/details/166010025)
+
++ [DevOps 平台能力图谱：30 项能力的自检清单](https://blog.csdn.net/aiqianzhan/article/details/166257214)
+
