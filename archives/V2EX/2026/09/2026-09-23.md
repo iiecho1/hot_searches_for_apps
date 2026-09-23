@@ -47,3 +47,7 @@
 
 + [我说的话那里不好听了？谁能给我解释一下](https://www.v2ex.com/t/1244204)
 
++ [300 万存款财务自由](https://www.v2ex.com/t/1244159)
+
++ [注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]](https://www.v2ex.com/t/1244201)
+

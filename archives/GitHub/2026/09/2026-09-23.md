@@ -17,3 +17,21 @@
 
 + [browser-use/video-use](https://github.com/browser-use/video-use)
 
++ [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+
++ [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk)
+
++ [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+
++ [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
++ [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
++ [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)
+
++ [TNT-Likely/PanWatch](https://github.com/TNT-Likely/PanWatch)
+

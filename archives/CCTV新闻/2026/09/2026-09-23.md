@@ -177,3 +177,11 @@
 
 + [伊朗总统：将在联大“坚定捍卫”伊朗立场](https://news.cctv.com/2026/09/23/ARTIhYGEr2wreXuai13WYn9Z260923.shtml)
 
++ [以色列总理称打死哈马斯财务部门负责人](https://news.cctv.com/2026/09/23/ARTI0RXAZTT7CAVvssY037Tj260923.shtml)
+
++ [菲弹劾法庭修改计票规则 副总统莎拉定罪门槛下调](https://news.cctv.com/2026/09/23/ARTI6PXC5g9drK7kIN3DBYvF260923.shtml)
+
++ [经合组织上调2026年全球经济增速预期至2.9%](https://jingji.cctv.com/2026/09/23/ARTIivmhsqXWqMhmlWF6lr26260923.shtml)
+
++ [柬埔寨首相：国际合作对于打击电信诈骗至关重要](https://news.cctv.com/2026/09/23/ARTI3gq7nEdrKyKarQjJcXIg260923.shtml)
+
