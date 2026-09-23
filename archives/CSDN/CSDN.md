@@ -101,3 +101,19 @@
 
 + [云服务器部署Jenkins](https://blog.csdn.net/guo13313/article/details/166365346)
 
++ [【2026年华为杯A题】通用神经网络处理器下的多核调度问题（思路、代码、论文，持续更新）](https://blog.csdn.net/m0_73907476/article/details/166452634)
+
++ [飞牛 NAS 部署 ai-goofish-monitor：闲鱼商品自动监控、AI 筛选，再配置固定公网访问](https://blog.csdn.net/2301_81152266/article/details/166248234)
+
++ [Storm 与 Kafka 的 Exactly-Once：Trident 事务与幂等 Sink 实现](https://blog.csdn.net/qq_41840843/article/details/166372477)
+
++ [Step 5 Preview 实测：和 DeepSeek V4 Pro、GLM5.3 同做一个 3D 游戏](https://blog.csdn.net/m0_51748282/article/details/166470654)
+
++ [游戏引擎架构 001：从团队分工到底层架构](https://blog.csdn.net/2503_92624912/article/details/166492910)
+
++ [TrAct：用视觉轨迹把机器人的“预测“和“控制“接起来](https://blog.csdn.net/lovely_yoshino/article/details/164325405)
+
++ [WorkBuddy + Blender 5.2 参数化建模实战：从“圆形八角塔“到 15 万面可打印 STL](https://blog.csdn.net/sinat_41617212/article/details/166488516)
+
++ [FPGA PLL锁相环IP核超全详解：原理+配置+实操+避坑](https://blog.csdn.net/nskksms/article/details/166257389)
+
