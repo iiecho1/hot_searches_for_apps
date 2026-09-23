@@ -165,3 +165,13 @@
 
 + [美伊纽约会晤 可否吹散霍尔木兹海峡“迷雾”？](https://news.cctv.com/2026/09/24/ARTIUjodRherrRagw7UtlZYZ260923.shtml)
 
++ [伊朗总统联大讲话称不接受强权威胁 强调维护国家主权立场](https://news.cctv.com/2026/09/24/ARTI6IKMHji3Lxobgl9sX826260924.shtml)
+
++ [联合国秘书长古特雷斯呼吁加快能源转型](https://news.cctv.com/2026/09/24/ARTI2Ucwz86fR3DoUAcz8jCZ260924.shtml)
+
++ [伊朗总统联大演讲誓言“永不屈膝投降”](https://news.cctv.com/2026/09/24/ARTINmqMpE3KMbtuxq1r1a94260924.shtml)
+
++ [也门胡塞武装：近期逾400艘商船通过曼德海峡](https://news.cctv.com/2026/09/24/ARTI4IqSRAoGvVqPaqJa3sm4260924.shtml)
+
++ [米莱：将以“和平、务实和有效的方式”捍卫马岛主权](https://news.cctv.com/2026/09/24/ARTIOa5IqfwIrUE0oUK8QTiU260924.shtml)
+
