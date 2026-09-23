@@ -101,3 +101,17 @@
 
 + [基于Hadoop+Spark的乳腺癌病理数据可视化分析系统 基于K-Means聚类与PCA降维的乳腺癌形态特征分析系统](https://blog.csdn.net/m0_72599287/article/details/166009461)
 
++ [Storm 与 HBase/Redis 集成：实时写入、连接池管理与批量优化](https://blog.csdn.net/qq_41840843/article/details/166368946)
+
++ [DolphinDB 时序数据建模实战：宽窄表取舍与多型号设备的统一 schema](https://blog.csdn.net/Rqaqedamancy/article/details/166141664)
+
++ [【大数据处理与分析】数据仓库Hive：04 数据仓库Hive概述](https://blog.csdn.net/Morse_Chen/article/details/166142180)
+
++ [FPGA PLL锁相环IP核超全详解：原理+配置+实操+避坑](https://blog.csdn.net/nskksms/article/details/166257389)
+
++ [de风——【从零开始学习Linux】（五）：gcc编译器的基本使用](https://blog.csdn.net/Xiao_running/article/details/163221282)
+
++ [近年数学建模出题趋势：数模在往哪走](https://blog.csdn.net/2501_93881005/article/details/166141096)
+
++ [谁在把 Flutter 搬到鸿蒙？——CPF-Flutter 2026 Q2 社区报告与 3.41.9-ohos 解读](https://blog.csdn.net/m0_60318025/article/details/166374384)
+

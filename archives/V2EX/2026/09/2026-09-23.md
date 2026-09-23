@@ -21,3 +21,9 @@
 
 + [老马解锁新能力， grok 4.7 吉吉 api 第一时间已经同步上线，欢迎大佬们来品尝，不降今日 0.19 不降智继续。回复送测试额度。](https://www.v2ex.com/t/1243794)
 
++ [前期大量 AI coding 上线的项目，越来越改不动了，该重写吗？](https://www.v2ex.com/t/1243859)
+
++ [[中转] 极智 APl|支持 GPT6/Claude/Gemini 市面所有满血模型，注册送 5 刀余额](https://www.v2ex.com/t/1243851)
+
++ [大家会给手机贴膜吗](https://www.v2ex.com/t/1243893)
+
