@@ -171,3 +171,9 @@
 
 + [台风“杜鹃”已致日本7人死亡](https://news.cctv.com/2026/09/23/ARTIkpsCbZ7tP2T20afmBI8u260923.shtml)
 
++ [阿根廷抗议英方支持在马岛争议区域延长油气开采许可](https://news.cctv.com/2026/09/23/ARTIYaIlo8yFRbfatmBz1k3U260923.shtml)
+
++ [八国外长呼吁以色列停止对加沙的侵犯](https://news.cctv.com/2026/09/23/ARTILYekCWHA1tQaAehefeUu260923.shtml)
+
++ [伊朗总统：将在联大“坚定捍卫”伊朗立场](https://news.cctv.com/2026/09/23/ARTIhYGEr2wreXuai13WYn9Z260923.shtml)
+
