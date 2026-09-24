@@ -139,3 +139,25 @@
 
 + [LLM 大模型核心技术完整笔记｜Token、上下文、Transformer、幻觉、流式输出、模型选型](https://blog.csdn.net/2402_87418791/article/details/166167800)
 
++ [二手电脑远程验机经验：闲鱼买电脑怕翻车？隔空看配置、跑分、查硬盘、通电时长，远程验机避坑实测](https://blog.csdn.net/qq_57761637/article/details/166253731)
+
++ [不注册也能多人一起写？用 Rustpad 在 NAS 上搭一个轻量协作文本编辑器](https://blog.csdn.net/liu_chen_yang/article/details/166593257)
+
++ [小麦穗检测数据集 | 小麦穗检测 植物表型 密集目标检测 农业AI9102期](https://blog.csdn.net/2403_88545703/article/details/166254376)
+
++ [2026 年我的 AI 工具清单 + 一个远程思想](https://blog.csdn.net/2402_86350387/article/details/166586573)
+
++ [网站流量想自己掌控？用 Umami + PostgreSQL 搭一套可远程查看的数据分析平台](https://blog.csdn.net/aiclaws/article/details/166594144)
+
++ [HuggingFace｜开源静态工程尽调｜nanowhale： 轻量化模型原型仓库源码快照评测](https://blog.csdn.net/TunerT_TQ/article/details/166370885)
+
++ [Jev：大模型时代的IFTTT](https://blog.csdn.net/fitbit/article/details/166471321)
+
++ [【计算几何】支撑函数、分离轴定理](https://blog.csdn.net/he_zhidan/article/details/165462176)
+
++ [还在手动 tail 日志？用 Python + systemd 做一个 Nginx 异常告警哨兵](https://blog.csdn.net/qq_46123200/article/details/166593262)
+
++ [能量遗迹 · Energy Ruin](https://blog.csdn.net/Xiao2007X_x/article/details/166588188)
+
++ [35页世界模型最新论文，Seed-2.1-pro能让我快速读懂吗？](https://blog.csdn.net/wtyuong/article/details/166575439)
+

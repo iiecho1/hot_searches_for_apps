@@ -181,3 +181,5 @@
 
 + [巴基斯坦打击阿富汗无人机存放点 阿方称暂无伤亡报告](https://news.cctv.com/2026/09/24/ARTI1FtIgOZ3A3cI6rz8Up2q260924.shtml)
 
++ [9名哈萨克斯坦军人在里海军事演习中丧生](https://news.cctv.com/2026/09/24/ARTIfWqCKe8v8dxk62IGOGeE260924.shtml)
+

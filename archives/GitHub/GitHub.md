@@ -35,3 +35,15 @@
 
 + [TNT-Likely/PanWatch](https://github.com/TNT-Likely/PanWatch)
 
++ [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
++ [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+
++ [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+
++ [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
+
++ [julyx10/lap](https://github.com/julyx10/lap)
+
++ [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+
