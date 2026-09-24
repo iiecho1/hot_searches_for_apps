@@ -21,3 +21,11 @@
 
 + [33 岁 8 年大厂前端 Gap 三年找工作近况最后一次更新，决定放弃找工作，在家人的支持下决定再创业一年试试，送各位大佬五个码，希望大佬们给个商店好评](https://www.v2ex.com/t/1244262)
 
++ [很遗憾， Apple 国内直营店已经明显让人失望了](https://www.v2ex.com/t/1244237)
+
++ [从 Windows 转 Mac 找不到顺手的 WGestures 替代品？用 Swift 6 原生手搓了一款 Glide (妙划)，送 V 友永久授权](https://www.v2ex.com/t/1244175)
+
++ [[咖啡] 有什么好喝的解决方案？](https://www.v2ex.com/t/1244232)
+
++ [注册 Meta 的 muse，免费领取 10 亿 token](https://www.v2ex.com/t/1244389)
+
