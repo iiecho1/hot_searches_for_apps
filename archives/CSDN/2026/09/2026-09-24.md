@@ -119,3 +119,23 @@
 
 + [【Flutter】iOS 真机调试 ( 环境准备 | 信任配对 | 签名配置 | 开启开发者模式 | 证书信任 | flutter run 部署命令解析 )](https://blog.csdn.net/han1202012/article/details/166489972)
 
++ [从“作坊式建模“到“流水线智能“：时序大模型如何重构工业 AI 实施范式](https://blog.csdn.net/u014727709/article/details/166491639)
+
++ [【Unity】 GIS 三维瓦片运行时调度：3D Tiles、屏幕空间误差与异步加载架构](https://blog.csdn.net/qq_41140324/article/details/166494701)
+
++ [Storm消息去重与幂等：布隆过滤器、Redis去重与状态持久化](https://blog.csdn.net/qq_41840843/article/details/166493554)
+
++ [PyTorch强化学习实战（26）——提升随机策略梯度稳定性](https://blog.csdn.net/LOVEmy134611/article/details/159766254)
+
++ [Temporal式续跑：SQLite 5个崩溃点实测](https://blog.csdn.net/superdangbo/article/details/166330183)
+
++ [把机器人示教视频拆成原子任务：Seed-2.1-pro-0915 原子级任务标注工作台实测](https://blog.csdn.net/JHXL_/article/details/166371904)
+
++ [从手动 SSH 部署到自己做 DevOps 平台：一个全栈开发的部署流程改造思路](https://blog.csdn.net/m0_74899094/article/details/166362833)
+
++ [OpenClaw 配合 cpolar 内网穿透：把 NAS、小游戏和 RDP 搬到公网](https://blog.csdn.net/2402_83344867/article/details/166488656)
+
++ [Linux网络（十五）：TCP可靠性详解：从报文传递过程到序号与确认序号，理解TCP如何保证可靠传输](https://blog.csdn.net/Z2314246476/article/details/166254752)
+
++ [LLM 大模型核心技术完整笔记｜Token、上下文、Transformer、幻觉、流式输出、模型选型](https://blog.csdn.net/2402_87418791/article/details/166167800)
+

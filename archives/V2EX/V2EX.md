@@ -29,3 +29,21 @@
 
 + [注册 Meta 的 muse，免费领取 10 亿 token](https://www.v2ex.com/t/1244389)
 
++ [Muse 注册的新方法，已经成功](https://www.v2ex.com/t/1244403)
+
++ [服气！老婆不想换工作](https://www.v2ex.com/t/1244359)
+
++ [手机都这么贵了，越来越买不起了！](https://www.v2ex.com/t/1244393)
+
++ [逝世三周年民俗调查](https://www.v2ex.com/t/1244335)
+
++ [你敢信，小米 18 系列都 9999 了，这价格谁还买小米啊！](https://www.v2ex.com/t/1244433)
+
++ [你们多少人是自费订阅 ai 用在工作上的？](https://www.v2ex.com/t/1244416)
+
++ [你们过节都发了什么东西？](https://www.v2ex.com/t/1244516)
+
++ [使用 BrowserUse Cloud 注册 Muse.AI，亲测可用，可跳过绑卡](https://www.v2ex.com/t/1244396)
+
++ [注册 muse ai 方法和跳过年龄、绑卡方法](https://www.v2ex.com/t/1244408)
+
