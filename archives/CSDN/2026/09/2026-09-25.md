@@ -135,3 +135,35 @@
 
 + [2026研究生数模F题深度解析：算力约束下提升大语言模型能力的资源配置建模附Matlab参考代码](https://blog.csdn.net/matlab_dingdang/article/details/166478408)
 
++ [Figma 之外还有什么选择？用 Penpot 搭一套可自托管、可接 AI 的设计工作台](https://blog.csdn.net/AIRoses/article/details/166644124)
+
++ [视频怎么快速改成漫画图文？用 ClipSketch AI 做关键帧、角色融合和小红书文案](https://blog.csdn.net/weixin_42878111/article/details/166592883)
+
++ [【AI Infra】最近的一些AI Infra工作](https://blog.csdn.net/qq_35812205/article/details/166601466)
+
++ [Windows 部署 MiGPT GUI：小爱音箱接 DeepSeek、豆包 TTS，再配置远程管理](https://blog.csdn.net/qq_54796785/article/details/166644383)
+
++ [2026年中国研究生数学建模竞赛E题深度解析++复杂场景下多模态情感预测的数学建模与算法设计](https://blog.csdn.net/qq_40379132/article/details/166460424)
+
++ [【2026年华为杯D题】山区洪涝灾害下无人机运输与通信协同优化（思路、代码、论文，持续更新）](https://blog.csdn.net/weixin_46039719/article/details/166603319)
+
++ [Step-5-Preview 上手实测：3D 游戏、金融分析、网页设计一次跑完](https://blog.csdn.net/CC1991_/article/details/166373069)
+
++ [Prometheus 自定义指标实战：从 Python Exporter 到业务告警，再扩展到公网抓取](https://blog.csdn.net/2301_80840905/article/details/166644530)
+
++ [QtC++实现展厅播放器/帧同步播放器/视频画面拼接/16k视频播放/万能指令控制和转发](https://blog.csdn.net/feiyangqingyun/article/details/166590583)
+
++ [Flutter 直播怎么实现？基于 ZEGO SDK 从零搭建可上线的互动直播](https://blog.csdn.net/sinat_20146421/article/details/166485635)
+
++ [▲基于PPO强化学习的卫星天线自动对星算法matlab仿真](https://blog.csdn.net/ccsss22/article/details/166643925)
+
++ [腾讯 Kuikly 跨端框架深度拆解：与 Flutter、React Native、KMP 横评](https://blog.csdn.net/CSqingchen/article/details/166586540)
+
++ [分别启动后端和前端 Spring Boot + Vue](https://blog.csdn.net/2601_96217713/article/details/166599681)
+
++ [Java 养老系统源码详解：Spring Boot Maven 多模块拆分](https://blog.csdn.net/qq_35238367/article/details/166469279)
+
++ [Flutter版本选择指南：9月大限落地，3.47一个月连发四补丁 | 2026年9月](https://blog.csdn.net/developer_laoliu/article/details/166600092)
+
++ [数据库字段变更为什么要使用幂等化 SQL 脚本](https://blog.csdn.net/qq_46548855/article/details/166596122)
+

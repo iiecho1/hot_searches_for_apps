@@ -199,3 +199,13 @@
 
 + [友城为舟 民心为帆——中美地方合作锻造双边关系韧性与生机](https://news.cctv.com/2026/09/25/ARTIcXNnG7gLICLIDfvaGZpb260925.shtml)
 
++ [国际人士表示中美元首会晤意义重大 为应对全球挑战作出积极贡献](https://news.cctv.com/2026/09/25/ARTIix6v73vamCG3SnYfipTh260925.shtml)
+
++ [【第二十届亚运会】中国队再获多枚金牌](https://news.cctv.com/2026/09/25/ARTI8w0rQnsxSyRT74BZgizJ260925.shtml)
+
++ [习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴](https://news.cctv.com/2026/09/25/ARTIEfYDZQAHHQIEUSNVul4W260925.shtml)
+
++ [习近平同美国总统特朗普会谈](https://news.cctv.com/2026/09/25/ARTIkrR5rrHmlwQOEwfSzR6D260925.shtml)
+
++ [习近平出席美国总统特朗普在白宫举行的欢迎仪式](https://news.cctv.com/2026/09/25/ARTIf6ybt4Ovd5BnKNZYahxn260925.shtml)
+
