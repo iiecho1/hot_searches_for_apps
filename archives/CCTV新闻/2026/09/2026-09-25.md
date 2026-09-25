@@ -159,3 +159,11 @@
 
 + [泽连斯基称与特朗普通话 双方商定在纽约会晤](https://news.cctv.com/2026/09/21/ARTIkUnR356hzdhopFgziZFO260921.shtml)
 
++ [联合国机构：加沙重建需要约715亿美元](https://news.cctv.com/2026/09/25/ARTIUn850nuZGhdnfI4fqjLC260925.shtml)
+
++ [“平平”“福双”将赴美 助力深化新一轮大熊猫保护国际合作](https://news.cctv.com/2026/09/25/ARTIaIGWAZdw28GMr8BHk9Yd260925.shtml)
+
++ [印尼客轮倾覆事故死亡人数升至42人](https://news.cctv.com/2026/09/25/ARTI5QUOWYfwb3068GQOmthj260925.shtml)
+
++ [沙特主导联军称拦截6枚也门胡塞武装导弹](https://news.cctv.com/2026/09/25/ARTIBOPyACb9i055MMEWVqGm260925.shtml)
+
