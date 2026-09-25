@@ -161,3 +161,7 @@
 
 + [友谊之树不断长出新年轮（相知无远近）](https://news.cctv.com/2026/09/22/ARTIA8O8OfmjWzWbIqeyVtfF260922.shtml)
 
++ [美官员称美伊正就重新开放霍尔木兹海峡进行讨论](https://news.cctv.com/2026/09/26/ARTIThWDIKPM0lP3zeDmn6zT260926.shtml)
+
++ [巴沙土三国外长会晤 谴责对沙特民用和经济设施袭击](https://news.cctv.com/2026/09/26/ARTIgYzavS0W49yXRGHGt24P260926.shtml)
+
