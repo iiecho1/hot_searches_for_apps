@@ -171,3 +171,31 @@
 
 + [习近平同美国总统特朗普小范围交流](https://news.cctv.com/2026/09/25/ARTItd026PDsVQK3XNo64daS260925.shtml)
 
++ [俄国家杜马选举结果揭晓 执政党获“宪法多数”地位](https://news.cctv.com/2026/09/25/ARTIe1lG0Lq77NIre1kIp2At260925.shtml)
+
++ [伊拉克纳杰夫国际机场暂停所有往返伊朗航班](https://news.cctv.com/2026/09/25/ARTIJZBY8enK69OkalfXMA6g260925.shtml)
+
++ [伊朗总统：伊朗不想拥有核武器 愿推进与美谈判](https://news.cctv.com/2026/09/25/ARTInaAxndhlZLJZKK85RbgG260925.shtml)
+
++ [哈萨克斯坦里海军演事故死亡人数上升至14人](https://news.cctv.com/2026/09/25/ARTIbjViH6WWJPHU66nmsj6q260925.shtml)
+
++ [报告显示今夏热浪预计致德国损失约250亿欧元](https://news.cctv.com/2026/09/25/ARTIoR4NOFPfXKZ4f1MIr50A260925.shtml)
+
++ [“小球接力”，见证友谊传承](https://news.cctv.com/2026/09/25/ARTISxTO0oGtzMyeY4qe3xmU260925.shtml)
+
++ [刚果（金）东南部沉船事故致41人失踪](https://news.cctv.com/2026/09/25/ARTIkBW1N3ENTwpnERWzxQI3260925.shtml)
+
++ [因无人机爆炸 2名以军士兵在加沙地带死亡](https://news.cctv.com/2026/09/25/ARTI75lmk1jtkYYyBxWQzWLR260925.shtml)
+
++ [国际机器人联合会：中国正成为产业创新发展重要力量](https://news.cctv.com/2026/09/25/ARTIiFmxFMmx13niRtarYnRm260925.shtml)
+
++ [“把中美民间友好的桥梁筑得更宽、更牢”——地方合作助力中美关系行稳致远](https://news.cctv.com/2026/09/25/ARTIhJaJdzYuxVla5wb56bA3260925.shtml)
+
++ [“为美中关系发展注入正能量”——访美国新墨西哥州立大学教授肯尼思·哈蒙德](https://news.cctv.com/2026/09/25/ARTIJqiTC6axNR1ZkOC3tc8j260925.shtml)
+
++ [美国企业代表——与中国同行，坚定做中国发展的长期伙伴](https://news.cctv.com/2026/09/25/ARTI7PWVcaTFo2v0svFnKugX260925.shtml)
+
++ [美国国际问题专家：美中元首会晤对两国和世界都意义重大](https://news.cctv.com/2026/09/25/ARTI4Jj4Z9h3g4iv5Jru3XFz260925.shtml)
+
++ [友城为舟 民心为帆——中美地方合作锻造双边关系韧性与生机](https://news.cctv.com/2026/09/25/ARTIcXNnG7gLICLIDfvaGZpb260925.shtml)
+

@@ -39,3 +39,13 @@
 
 + [今天中秋节，还要加班的有吗？来报道下](https://www.v2ex.com/t/1244704)
 
++ [黑神话悟空-在线版](https://www.v2ex.com/t/1244710)
+
++ [国内注册 Muse 的方法，亲测可用](https://www.v2ex.com/t/1244695)
+
++ [一个不需要 gemini pro 的完全免费的注册 Muse 的方法](https://www.v2ex.com/t/1244728)
+
++ [LockSticky 上架不到 2 天收入 25 刀，再送本帖评论数量 * 0.1 个永久会员码！](https://www.v2ex.com/t/1244722)
+
++ [有个能稳赚不赔的洗脚店项目，但是没有资金，去哪里找资金？🤔找人投资？贷款？](https://www.v2ex.com/t/1244730)
+

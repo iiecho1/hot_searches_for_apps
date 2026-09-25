@@ -29,3 +29,21 @@
 
 + [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
 
++ [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+
++ [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [androoAGI/starnet](https://github.com/androoAGI/starnet)
+
++ [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
++ [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel)
+
++ [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
++ [openbao/openbao](https://github.com/openbao/openbao)
+
