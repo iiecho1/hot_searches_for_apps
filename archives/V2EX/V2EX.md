@@ -19,3 +19,23 @@
 
 + [使用 BrowserUse Cloud 注册 Muse.AI，亲测可用，可跳过绑卡](https://www.v2ex.com/t/1244396)
 
++ [大家公司中秋都发了什么？都来晒一下呗](https://www.v2ex.com/t/1244528)
+
++ [当司机都 10-15k 了，做程序员干啥](https://www.v2ex.com/t/1244564)
+
++ [用半年时间打磨的 HTTPS 抓包和调试工具-ApiCatcher，对标 Proxyman](https://www.v2ex.com/t/1244674)
+
++ [实体倒闭真是活该的](https://www.v2ex.com/t/1244668)
+
++ [dmit 洛杉矶 补货了！](https://www.v2ex.com/t/1244588)
+
++ [杭州有什么好玩的？](https://www.v2ex.com/t/1244521)
+
++ [贴膜的价值：回收的时候多 200 块](https://www.v2ex.com/t/1244642)
+
++ [除了存定期，还有什么稳固的理财方式？](https://www.v2ex.com/t/1244558)
+
++ [现在程序员找工作，都用什么渠道？](https://www.v2ex.com/t/1244593)
+
++ [今天中秋节，还要加班的有吗？来报道下](https://www.v2ex.com/t/1244704)
+

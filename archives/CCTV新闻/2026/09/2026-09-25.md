@@ -167,3 +167,7 @@
 
 + [沙特主导联军称拦截6枚也门胡塞武装导弹](https://news.cctv.com/2026/09/25/ARTIBOPyACb9i055MMEWVqGm260925.shtml)
 
++ [看花灯、赏昆曲、品美食……新加坡举行缤纷活动共庆中秋佳节](https://news.cctv.com/2026/09/25/ARTINB7RomUJO2qu1CyDIKo3260925.shtml)
+
++ [习近平同美国总统特朗普小范围交流](https://news.cctv.com/2026/09/25/ARTItd026PDsVQK3XNo64daS260925.shtml)
+

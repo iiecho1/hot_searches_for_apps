@@ -113,3 +113,25 @@
 
 + [Laya 本地部署完全教程：开源 System 1 决策模型，比 Jev 快 7 倍、成本为 0](https://blog.csdn.net/qq_34929111/article/details/166366137)
 
++ [看不懂的装修图纸，豆包2.1 Pro帮我变成了能走进去的 3D 家](https://blog.csdn.net/2302_78391795/article/details/166369981)
+
++ [我用豆包工作 Seed-2.1-pro，复刻了 QQ 时代爆红的魔术图片](https://blog.csdn.net/lwcwam/article/details/166494073)
+
++ [2026 工业数据库架构选型：时序库 + 实时计算一体化方案对比](https://blog.csdn.net/user340/article/details/166601296)
+
++ [无人机视角多光谱马铃薯植株检测数据集| 多光谱检测 马铃薯作物 干旱胁迫 精准农业9105期](https://blog.csdn.net/2403_88545703/article/details/166367224)
+
++ [嵌入式软件静态测试（十一）——MISRA C:2012 vs MISRA C++:2023：嵌入式静态测试必须遵守的规则解读](https://blog.csdn.net/qq_15410539/article/details/166493911)
+
++ [Agent Studio 把 Agent 变成托管服务后，企业还需要管什么？](https://blog.csdn.net/Rosanci/article/details/166601878)
+
++ [告别补丁式防护：从零构建数据安全架构与治理体系（含实战代码）](https://blog.csdn.net/weixin_52908342/article/details/166601901)
+
++ [读懂 Pi Agent 事件系统：session.subscribe 与 pi.on 如何分工](https://blog.csdn.net/2301_80956187/article/details/166601233)
+
++ [【花雕学编程】Arduino BLDC 之智能避障导览机器人（多传感器融合+动态情绪反馈）](https://blog.csdn.net/weixin_41659040/article/details/166633845)
+
++ [网易UU远程实测：从手机到电脑的跨端协作，功能全到意外还全免费](https://blog.csdn.net/sinat_41617212/article/details/166590132)
+
++ [2026研究生数模F题深度解析：算力约束下提升大语言模型能力的资源配置建模附Matlab参考代码](https://blog.csdn.net/matlab_dingdang/article/details/166478408)
+
