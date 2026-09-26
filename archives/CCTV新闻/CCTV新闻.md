@@ -189,3 +189,13 @@
 
 + [厦金大桥（厦门段）关键控制性工程刘五店悬索桥合龙](https://news.cctv.com/2026/09/26/ARTIWMdFG7dRVSrzeAjRD7B1260926.shtml)
 
++ [欧盟拟大力增加卫星发射 寻求开辟域外发射场](https://news.cctv.com/2026/09/26/ARTI9oF4BDyidqp542l3D8EC260926.shtml)
+
++ [中东新风险 困局与变数](https://news.cctv.com/2026/09/26/ARTI8PaSVkXVu9K7foziQbiw260926.shtml)
+
++ [韩国首尔航空航班乘客行李冒烟 疑似充电宝起火](https://news.cctv.com/2026/09/26/ARTIAmEi9qeGrfCTQtDZhS0o260926.shtml)
+
++ [驻泰国使馆提醒在泰中国公民防范强降雨及洪涝灾害](https://news.cctv.com/2026/09/26/ARTIQknITTgMFWOtvrJ1mrmh260926.shtml)
+
++ [丰富中美关系定位内涵 促进人类发展进步——国际人士高度评价习近平主席对美国进行国事访问](https://news.cctv.com/2026/09/26/ARTIkK5IT35Uzq3ClP90dsEQ260926.shtml)
+

@@ -45,3 +45,7 @@
 
 + [讨论一下今天 apple pay 万事达 被盗刷的技术漏洞](https://www.v2ex.com/t/1244872)
 
++ [悲报， gemini spark 和 cloud browser 注册全部被封堵](https://www.v2ex.com/t/1244878)
+
++ [真正做 FDE 的进来聊聊](https://www.v2ex.com/t/1244842)
+
