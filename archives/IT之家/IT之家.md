@@ -25,3 +25,21 @@
 
 + [奕境 X9 正式上市：满配华为乾崑全栈智能，限时优惠价 27.98 万-35.98 万元](https://m.ithome.com/html/1006837.htm)
 
++ [小米 18 Fold 中折叠首销情况曝光：9 月 7 日-13 日约 3.97 万台](https://m.ithome.com/html/1007244.htm)
+
++ [罗永浩回应交个朋友代销劣质溜溜凳：2022 年 5 月已退出管理层，承认严重质量管理事故](https://m.ithome.com/html/1007247.htm)
+
++ [鸿蒙智行国庆 OTA 推送：智界、享界、尊界、尚界同步升级](https://m.ithome.com/html/1007118.htm)
+
++ [比亚迪大汉上市定档 10 月 13 日：纯电车型续航破千，预售价 24.99 万-29.99 万元](https://m.ithome.com/html/1007183.htm)
+
++ [苹果公布全产品线端侧 AI 能力矩阵：iPhone 18 Pro 等最高跑 140 亿参数激活模型](https://m.ithome.com/html/1007155.htm)
+
++ [“交个朋友”就所售万向轮溜溜凳木板发霉等致歉：全面下架，启动退赔处理流程](https://m.ithome.com/html/1007225.htm)
+
++ [小米互联上架苹果 Apple Watch 应用商店，实现通知流转、健康数据同步等](https://m.ithome.com/html/1007164.htm)
+
++ [苹果 macOS 27 亮点汇总：重绘图标、精简视觉元素、统一窗口圆角等](https://m.ithome.com/html/1007071.htm)
+
++ [realme 真我 Neo8 三星堆限定版样机曝光，产品未能上市](https://m.ithome.com/html/1007157.htm)
+
