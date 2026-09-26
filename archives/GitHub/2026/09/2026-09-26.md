@@ -33,3 +33,21 @@
 
 + [openbao/openbao](https://github.com/openbao/openbao)
 
++ [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
++ [block/buzz](https://github.com/block/buzz)
+
++ [microsoft/vscode](https://github.com/microsoft/vscode)
+
++ [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+
++ [llvm/llvm-project](https://github.com/llvm/llvm-project)
+
++ [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
+
++ [actions/runner-images](https://github.com/actions/runner-images)
+
++ [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
+
++ [vercel/next.js](https://github.com/vercel/next.js)
+

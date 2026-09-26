@@ -175,3 +175,17 @@
 
 + [增进中美人民福祉 促进人类发展进步——中美元首会晤引发热烈国际反响](https://news.cctv.com/2026/09/26/ARTI1pW4zg3kRQ97sYRU0QhS260926.shtml)
 
++ [习近平结束对美国的国事访问回到北京](https://news.cctv.com/2026/09/26/ARTIkI47wiPuqSd0XlADJGfs260926.shtml)
+
++ [习近平圆满结束对美国的国事访问](https://news.cctv.com/2026/09/26/ARTIjBpyawEhkaMq5iCNpmuB260926.shtml)
+
++ [习近平和彭丽媛同美国总统特朗普夫妇茶叙](https://news.cctv.com/2026/09/26/ARTIMNYBoMmu6KBM9cReJ8l7260926.shtml)
+
++ [拾光纪·白宫里的三张照片，见证中美关系行稳致远](https://news.cctv.com/2026/09/26/ARTIFxEx6eGaNxkMamTYAEza260926.shtml)
+
++ [为中美关系提供新的战略指引——美国各界高度评价习近平主席对美国进行国事访问](https://news.cctv.com/2026/09/26/ARTIZgJ8JviSrBYh4BVcaoBh260926.shtml)
+
++ [沙特主导的联军称拦截也门胡塞武装导弹和无人机](https://news.cctv.com/2026/09/26/ARTIGPhV9iZS7f5F1Jwjv5Tb260926.shtml)
+
++ [厦金大桥（厦门段）关键控制性工程刘五店悬索桥合龙](https://news.cctv.com/2026/09/26/ARTIWMdFG7dRVSrzeAjRD7B1260926.shtml)
+

@@ -39,3 +39,9 @@
 
 + [湖北电信， ipv6 随机丢包阻断，运维告知让直接关闭 ipv6](https://www.v2ex.com/t/1244770)
 
++ [geoip=cn 无法识别所有中国网站吗](https://www.v2ex.com/t/1244848)
+
++ [脱离了 Windows 的保护，发现外边根本没有雨](https://www.v2ex.com/t/1244853)
+
++ [讨论一下今天 apple pay 万事达 被盗刷的技术漏洞](https://www.v2ex.com/t/1244872)
+
