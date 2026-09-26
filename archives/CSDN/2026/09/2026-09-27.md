@@ -101,3 +101,7 @@
 
 + [Spring Boot 事务回滚方法](https://blog.csdn.net/2604_96186443/article/details/166568849)
 
++ [中秋还没到，AI 圈先派了只兔子](https://blog.csdn.net/GreenHands495/article/details/166579512)
+
++ [【前端工程化实战笔记】ESLint+Vitest+Playwright+Docker 四层质量闭环 + CI_CD + K8s](https://blog.csdn.net/estrusKing/article/details/166494595)
+

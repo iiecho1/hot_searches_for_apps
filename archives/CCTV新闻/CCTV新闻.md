@@ -161,3 +161,11 @@
 
 + [微视频｜老朋友的期盼](https://news.cctv.com/2026/09/22/ARTIHN9WOlCZ3jInjNcsR8gv260922.shtml)
 
++ [特朗普称拒绝伊朗重开霍尔木兹海峡的提议](https://news.cctv.com/2026/09/27/ARTIJeqmWzofYHKLjgSAnNG9260926.shtml)
+
++ [伊朗总统：不再信任同美国的对话](https://news.cctv.com/2026/09/27/ARTINosKQIuLG6crsNgXGD2o260926.shtml)
+
++ [美媒称以总理曾获袭击警告但为促以沙建交未打哈马斯](https://news.cctv.com/2026/09/27/ARTI84p1iV7EBEEKIOolCWYk260926.shtml)
+
++ [多国举办丰富活动庆祝中秋佳节](https://news.cctv.com/2026/09/27/ARTIu0McxCBcf6n2NKKplxqW260926.shtml)
+

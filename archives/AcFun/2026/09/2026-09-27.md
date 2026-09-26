@@ -61,3 +61,5 @@
 
 + [【26年9月】『飙马野郎 JOJO的奇妙冒险』 NCOP＆NCED](https://m.acfun.cn/v/?ac=48873898)
 
++ [四季映姬 『真理之口/ボッカデラベリタ』](https://m.acfun.cn/v/?ac=48874660)
+
