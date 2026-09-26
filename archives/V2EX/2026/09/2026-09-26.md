@@ -23,3 +23,19 @@
 
 + [到处都是 muse 的推荐，只见注册不见使用攻略](https://www.v2ex.com/t/1244766)
 
++ [每周免费 10 亿 token 的 muse，使用场景有哪些呢？附上注册方法，大家一起来探讨](https://www.v2ex.com/t/1244838)
+
++ [独立开发产品无收入，有必要买 Claude Max 吗](https://www.v2ex.com/t/1244814)
+
++ [最新 muse 注册方式，直连！](https://www.v2ex.com/t/1244854)
+
++ [有人用 AI 赚到钱了吗，可以分享下吗](https://www.v2ex.com/t/1244850)
+
++ [直营店 Mac 屏幕保修被拒了](https://www.v2ex.com/t/1244807)
+
++ [每一天都很累](https://www.v2ex.com/t/1244792)
+
++ [Codex 早上宕机了，重置大概率要来一个吧](https://www.v2ex.com/t/1244826)
+
++ [湖北电信， ipv6 随机丢包阻断，运维告知让直接关闭 ipv6](https://www.v2ex.com/t/1244770)
+

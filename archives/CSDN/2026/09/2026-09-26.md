@@ -111,3 +111,25 @@
 
 + [Linux网络（十五）：TCP可靠性详解：从报文传递过程到序号与确认序号，理解TCP如何保证可靠传输](https://blog.csdn.net/Z2314246476/article/details/166254752)
 
++ [AI 浏览器会取代 App，还是只是更聪明的 RPA？](https://blog.csdn.net/weixin_74809706/article/details/166586129)
+
++ [C#实现AI记忆与Token优化](https://blog.csdn.net/ultramand/article/details/166599981)
+
++ [【共创稿事节】鸿蒙图像超分 · 批量工作台：端侧 AI 4× 超分一键处理、结果落盘、数据不出设备](https://blog.csdn.net/weixin_52908342/article/details/166643714)
+
++ [【BlueZ】 与内核 hci_dev 的交互：适配器设备的内核态管理](https://blog.csdn.net/weixin_37800531/article/details/166013059)
+
++ [Linux 部署 Ratel 斗地主：从 Maven 编译到 1024 端口联机，再配置固定 TCP 公网地址](https://blog.csdn.net/2301_79855962/article/details/166594490)
+
++ [Prometheus 自定义指标实战：从 Python Exporter 到业务告警，再扩展到公网抓取](https://blog.csdn.net/2301_80840905/article/details/166644530)
+
++ [05-Redis 缓存问题篇：穿透、击穿、雪崩与双写一致](https://blog.csdn.net/2401_88756258/article/details/166601804)
+
++ [PostgreSQL事务年龄、VACUUM FREEZE、冻结炸弹与回卷风险全解析](https://blog.csdn.net/lusklusklusk/article/details/166599509)
+
++ [无人机避障相机选型的工程分析：视场角、帧率与探测距离](https://blog.csdn.net/gunser/article/details/166536236)
+
++ [微信小程序电商交易链路实战](https://blog.csdn.net/GLimerence/article/details/166489597)
+
++ [jenkins gitee ssh 免密](https://blog.csdn.net/renren_100/article/details/166484735)
+

@@ -165,3 +165,13 @@
 
 + [巴沙土三国外长会晤 谴责对沙特民用和经济设施袭击](https://news.cctv.com/2026/09/26/ARTIgYzavS0W49yXRGHGt24P260926.shtml)
 
++ [泰国曼谷市政府宣布全市为洪水灾区](https://news.cctv.com/2026/09/26/ARTIDw4LOD7gBqTSLsCrAMtE260926.shtml)
+
++ [苏丹中部两地遭无人机袭击 造成数十人伤亡](https://news.cctv.com/2026/09/26/ARTIa5Kekso5kH8j9W78OE2M260926.shtml)
+
++ [美媒：特朗普拒绝伊朗七日内重开霍尔木兹海峡提议](https://news.cctv.com/2026/09/26/ARTIZGKJV62Y6srfKwluHQ2U260926.shtml)
+
++ [记者手记：在美国国家档案馆，看见中美关系的“序章”](https://news.cctv.com/2026/09/26/ARTI4dBjevfM3YZnHoL35Dg7260926.shtml)
+
++ [增进中美人民福祉 促进人类发展进步——中美元首会晤引发热烈国际反响](https://news.cctv.com/2026/09/26/ARTI1pW4zg3kRQ97sYRU0QhS260926.shtml)
+
