@@ -105,3 +105,5 @@
 
 + [【前端工程化实战笔记】ESLint+Vitest+Playwright+Docker 四层质量闭环 + CI_CD + K8s](https://blog.csdn.net/estrusKing/article/details/166494595)
 
++ [Python 做服务， html, js 打包单机 exe 的方法](https://blog.csdn.net/avi9111/article/details/132929990)
+

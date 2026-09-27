@@ -169,3 +169,5 @@
 
 + [多国举办丰富活动庆祝中秋佳节](https://news.cctv.com/2026/09/27/ARTIu0McxCBcf6n2NKKplxqW260926.shtml)
 
++ [伊朗外长: 霍尔木兹海峡开放取决于伊方条件是否满足](https://news.cctv.com/2026/09/27/ARTInsP3MREU1Zjde1bDRCuM260927.shtml)
+
