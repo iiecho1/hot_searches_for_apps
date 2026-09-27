@@ -47,3 +47,9 @@
 
 + [muse 注册非常丝滑，正常注册就行！](https://www.v2ex.com/t/1245031)
 
++ [屌爆了，一句话使用 Opus5.5 制作了一个开源项目 StrokeMouse 宣传片，附提示词](https://www.v2ex.com/t/1244972)
+
++ [国行 iPhone 使用境外 eSIM 的问题。。。](https://www.v2ex.com/t/1244974)
+
++ [新款 Apple Watch 的设计太离谱了吧](https://www.v2ex.com/t/1245062)
+

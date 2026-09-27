@@ -183,3 +183,11 @@
 
 + [阿曼称将继续努力保障霍尔木兹海峡通行安全](https://news.cctv.com/2026/09/27/ARTIBfjCC2ZDiWezvcCayz5Y260927.shtml)
 
++ [克什米尔发生4.0级地震 震源深度10千米](https://news.cctv.com/2026/09/27/ARTIu3gxgJbSGMggkmjbzQaq260927.shtml)
+
++ [大熊猫“平平”“福双”到达美国亚特兰大动物园](https://news.cctv.com/2026/09/27/ARTIysVn1k4Db8Ig6JPQwN5p260927.shtml)
+
++ [国际舆论积极评价中美元首华盛顿会晤——释放相向而行、和平共处、互利共赢的积极信号](https://news.cctv.com/2026/09/27/ARTIjv7qO7OK2bAak6it6Pau260927.shtml)
+
++ [习言道｜习近平宣布的这件事，关乎中美关系未来](https://news.cctv.com/2026/09/27/ARTIWBP2RecNLQoH9ZeERMMR260927.shtml)
+

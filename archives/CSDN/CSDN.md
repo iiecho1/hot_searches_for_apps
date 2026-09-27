@@ -173,3 +173,31 @@
 
 + [pcap文件格式](https://blog.csdn.net/kamenrider___/article/details/166494218)
 
++ [[AI工程] Spring AI 第十三篇：给 AI 应用装上仪表盘](https://blog.csdn.net/YangCheney/article/details/166001944)
+
++ [Java实现AI框架：EasyAi、EasyAi-Face、SayOrder、EasyAi-Plus](https://blog.csdn.net/lonelymanontheway/article/details/166643324)
+
++ [30天从零开始学AI应用开发（Day 8）：提示词工程：同一句话，为什么别人问出来的答案比你好十倍](https://blog.csdn.net/m0_74956872/article/details/166601336)
+
++ [LabVIEW FPGA 实时处理 2 GHz 通感信号](https://blog.csdn.net/bjcyck/article/details/166494031)
+
++ [Spring MVC 获取 Cookie、Session 与 Header 详解](https://blog.csdn.net/yu____yuan/article/details/165128036)
+
++ [轻量到离谱：C++ YOLO 全系列推理，开箱即用零 Python 依赖](https://blog.csdn.net/chen1415886044/article/details/166634027)
+
++ [20 Docker Commands You Need to Know](https://blog.csdn.net/allway2/article/details/166593404)
+
++ [【HarmonyOS 7新能力｜061】分布式数字身份异常排查：定位配置、权限与运行期失败](https://blog.csdn.net/2401_84996024/article/details/164589534)
+
++ [成为全栈·React 管理后台篇·React SPA 部署：静态托管、路由回退与 API 反代](https://blog.csdn.net/FungLeo/article/details/166643883)
+
++ [万象生鲜系统冷链物联网温湿度采集技术保障食材新鲜安全](https://blog.csdn.net/2601_96221861/article/details/166643780)
+
++ [拆解小米MiMo-V2.6系列：高分背后的优势、坑点与实战选型](https://blog.csdn.net/qq_34419312/article/details/166644388)
+
++ [把 C 程序拆到汇编，我才看懂“计算机是怎么工作的“](https://blog.csdn.net/m0_62436868/article/details/166636433)
+
++ [多相机同步精度怎么测：从曝光时刻到抖动统计的工程方法](https://blog.csdn.net/gunser/article/details/166633485)
+
++ [把 DeepSeek Harness 塞进鸿蒙 HAP：架构零改动，只换了运行时](https://blog.csdn.net/fellow99/article/details/166639158)
+

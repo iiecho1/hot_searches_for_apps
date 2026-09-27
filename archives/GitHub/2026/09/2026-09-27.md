@@ -31,3 +31,13 @@
 
 + [vercel/next.js](https://github.com/vercel/next.js)
 
++ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
++ [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+
++ [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+
++ [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+
++ [willfaust/Madeira](https://github.com/willfaust/Madeira)
+
