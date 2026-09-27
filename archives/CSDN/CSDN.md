@@ -101,3 +101,11 @@
 
 + [向量数据库Milvus： 管理与工具](https://blog.csdn.net/wangsen927/article/details/166485491)
 
++ [AI和大模型—导数和积分](https://blog.csdn.net/fpcc/article/details/166637536)
+
++ [Fable 实战指南：模型强到不是瓶颈之后，卡住你的是你没说出口的那部分](https://blog.csdn.net/yangshangwei/article/details/166642376)
+
++ [明月千年：中秋节的由来、习俗与精神密码](https://blog.csdn.net/beautifulmemory/article/details/166599633)
+
++ [2026最新PanDownload替代方案：百度网盘大文件免登录直链解析](https://blog.csdn.net/vipjx1/article/details/166644658)
+
