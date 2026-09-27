@@ -175,3 +175,11 @@
 
 + [加拿大一架直升机坠毁致4人死亡](https://news.cctv.com/2026/09/27/ARTIDtbU2dTzxLZF8Z4geGDO260927.shtml)
 
++ [刚果（金）东部沉船事故造成至少12人死亡](https://news.cctv.com/2026/09/27/ARTIUBr5NdA4HoStTmLFgaPn260927.shtml)
+
++ [看图学习丨从“巨轮大船”到“时代答卷” 习主席妙喻论中美关系](https://news.cctv.com/2026/09/27/ARTI8PMrvpD9I9BnheVCb0o5260927.shtml)
+
++ [凝聚共同发展的强大合力——习近平主席向全球发展倡议5周年高级别对话会致贺信引发热烈反响](https://news.cctv.com/2026/09/27/ARTIjZ1tjcmkBwD5RH03H6ly260927.shtml)
+
++ [阿曼称将继续努力保障霍尔木兹海峡通行安全](https://news.cctv.com/2026/09/27/ARTIBfjCC2ZDiWezvcCayz5Y260927.shtml)
+

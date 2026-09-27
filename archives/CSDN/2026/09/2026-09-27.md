@@ -133,3 +133,43 @@
 
 + [PulseHttps：零侵入的被动HTTPS抓包Web工具](https://blog.csdn.net/penngo/article/details/166602008)
 
++ [AI和大模型—导数和积分](https://blog.csdn.net/fpcc/article/details/166637536)
+
++ [【AI 大模型】Codex CLI 基本用法 ② ( Codex 接入第三方大模型 | config.toml 配置 | 环境变量写入与生效 | 模型切换与连通性验证 | 交互式终端命令行界面 )](https://blog.csdn.net/han1202012/article/details/166594274)
+
++ [Qwen-Image-2.1-Spectrum 轻量化实践：8G 显存玩转姿态迁移与多场景图像编辑](https://blog.csdn.net/lzj781210/article/details/166599643)
+
++ [Windows10上使用ffmpeg-python转换mkv为mp4](https://blog.csdn.net/Zb_Xl/article/details/166558365)
+
++ [多租户系统怎么设计？一个数据库还是多个数据库](https://blog.csdn.net/weixin_53653412/article/details/166369784)
+
++ [【有源码】基于Hadoop+Spark的高评分电影时序与内容特征分析平台-基于文本挖掘与聚类分析的电影口碑可视化研究](https://blog.csdn.net/IT_YQG_/article/details/166596958)
+
++ [接口网关统一管控：万象生鲜系统小程序、APP 多端接入安全校验分析](https://blog.csdn.net/2601_96221901/article/details/166642851)
+
++ [Spring Aware 系列接口详解](https://blog.csdn.net/weixin_51288065/article/details/166642989)
+
++ [扫描件 PDF 入库：版面分析加 OCR 后处理的结构化还原实践](https://blog.csdn.net/m0_73171109/article/details/166633609)
+
++ [PostgreSQL 事务与并发控制](https://blog.csdn.net/2401_82619496/article/details/166642721)
+
++ [餐饮收银系统选型：4 家方案在 6 个运营环节上的能力对照](https://blog.csdn.net/2601_96291641/article/details/166371804)
+
++ [C# 海康摄像头SDK开发完整笔记（初始化/登录/预览/云台控制/截图/录像）](https://blog.csdn.net/2401_84677775/article/details/163674410)
+
++ [大模型技术全景(十)：多智能体协作的七种模式](https://blog.csdn.net/2502_94387000/article/details/166642729)
+
++ [HTML——那些自带交互特征的HTML元素（label元素、fieldset元素、legend元素）](https://blog.csdn.net/cold___play/article/details/166602238)
+
++ [零信任架构实战：基于天远天远贷前风险报告构建自动化微贷审核网关](https://blog.csdn.net/2501_94042197/article/details/166633939)
+
++ [Java 生产者—消费者模型技术笔记](https://blog.csdn.net/weixin_57909463/article/details/166644355)
+
++ [书签越存越乱？用 Mtab 在 fnOS 上搭一个可远程访问的私人导航页](https://blog.csdn.net/2302_79376097/article/details/166598687)
+
++ [Kimi K3 是开源吗：开放权重、许可证条款与调用姿势](https://blog.csdn.net/2401_88139521/article/details/166600272)
+
++ [LLMCase-V4 从策划文档到测试用例 -第 6 章 generator·RAG：给大模型配上“参考书“](https://blog.csdn.net/zhangbp/article/details/166599422)
+
++ [pcap文件格式](https://blog.csdn.net/kamenrider___/article/details/166494218)
+

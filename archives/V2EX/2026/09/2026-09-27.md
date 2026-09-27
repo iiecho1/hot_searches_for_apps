@@ -35,3 +35,15 @@
 
 + [Meta Muse 国内注册避坑记录](https://www.v2ex.com/t/1244899)
 
++ [开始弃用 vscode](https://www.v2ex.com/t/1244952)
+
++ [10000000000 Token MUSE.AI，整理了七八十吧，省的翻了。](https://www.v2ex.com/t/1245024)
+
++ [重置已收到，但是 X 上看了评论。。。](https://www.v2ex.com/t/1244965)
+
++ [各位大佬，请问怎么才能用上 Claude？](https://www.v2ex.com/t/1244970)
+
++ [Claude 这波操作给我整不会了](https://www.v2ex.com/t/1244968)
+
++ [muse 注册非常丝滑，正常注册就行！](https://www.v2ex.com/t/1245031)
+
