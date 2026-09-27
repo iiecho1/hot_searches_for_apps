@@ -25,3 +25,27 @@
 
 + [realme 真我 Neo8 三星堆限定版样机曝光，产品未能上市](https://m.ithome.com/html/1007157.htm)
 
++ [华为 LOGO 印上大疆云台相机：HUAWEI &#215; DJI Osmo Pocket 4 官宣 9 月 26 日起陆续到店](https://m.ithome.com/html/1007357.htm)
+
++ [华为 Mate 60、Pura 70 等机型推送 HarmonyOS 7.0.0.109 SP6 版本，新增智能识别信息内容等功能](https://m.ithome.com/html/1007422.htm)
+
++ [高端用户的终极之车：华为余承东透露鸿蒙智行尊界 SUV 非常非常高端，价格上也非常有诚意](https://m.ithome.com/html/1007343.htm)
+
++ [荣耀 Magic9 Pro Max 手机搭载自研至臻黑钻屏：反射率 1.5%、峰值亮度 1 万尼特](https://m.ithome.com/html/1007429.htm)
+
++ [李小龙：华为大疆联名款 Osmo Pocket 4 云台相机有更多协同功能](https://m.ithome.com/html/1007424.htm)
+
++ [新款马自达 EZ-60 激光版上市，限时价 11.39 万元起](https://m.ithome.com/html/1007431.htm)
+
++ [OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度](https://m.ithome.com/html/1007421.htm)
+
++ [消息称首销日 OPPO Find X10 系列手机销量同比前代旗舰机系列接近 40%，全系列 16GB 内存占比超 60%](https://m.ithome.com/html/1007396.htm)
+
++ [努比亚 NaviX Ultra 手机《王者荣耀》使用异常，豆包手机助手回应称全程未对腾讯游戏系统进行任何操作](https://m.ithome.com/html/1007415.htm)
+
++ [宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势](https://m.ithome.com/html/1007443.htm)
+
++ [消息称华为 Mate XT 2、Pura X View 手机星闪新增畅连查找好友功能，更多机型正陆续适配](https://m.ithome.com/html/1007371.htm)
+
++ [赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级](https://m.ithome.com/html/1007448.htm)
+

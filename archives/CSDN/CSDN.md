@@ -107,3 +107,29 @@
 
 + [Python 做服务， html, js 打包单机 exe 的方法](https://blog.csdn.net/avi9111/article/details/132929990)
 
++ [视频怎么快速改成漫画图文？用 ClipSketch AI 做关键帧、角色融合和小红书文案](https://blog.csdn.net/weixin_42878111/article/details/166592883)
+
++ [非遗文化传播平台系统|基于springboot + vue非遗文化传播平台系统(源码+数据库+文档)](https://blog.csdn.net/weixin_45630258/article/details/166579185)
+
++ [增量备份的原理与实现：从 rsync 算法到 Python 脚本](https://blog.csdn.net/xixiaoyunya/article/details/166597193)
+
++ [mediamtx v1.21.1发布：浏览器请求安全加固、HLS 会话重构、WebRTC 播放修复与全链路媒体兼容性升级](https://blog.csdn.net/weixin_48502062/article/details/166592431)
+
++ [GPT-6 Sol / GPT-6-Luna 模型能力解析、成本测算与 OpenAI 兼容网关实战测试](https://blog.csdn.net/Copy2AI/article/details/166594938)
+
++ [ESLint 全面解析：原理、配置、扩展与工程实践](https://blog.csdn.net/guigenyi/article/details/166643763)
+
++ [想随时听自己的环境音？用 Moodist + 群晖搭一个可远程打开的白噪音页面](https://blog.csdn.net/SDFsoul/article/details/166643648)
+
++ [工业 PLC 网关技术演进与选型白皮书：从透传到边缘自治的架构解析—— 以捷宸电子（IPCSUN）PGS221A 原生协议解析架构为深度解剖案例](https://blog.csdn.net/prdslf001001/article/details/166596421)
+
++ [分别启动后端和前端 Spring Boot + Vue](https://blog.csdn.net/2601_96217713/article/details/166599681)
+
++ [让 Flutter 鸿蒙版在 Windows 上开箱即用:一次完整的工具链修复实录](https://blog.csdn.net/qq376657832/article/details/166590407)
+
++ [05-Redis 缓存问题篇：穿透、击穿、雪崩与双写一致](https://blog.csdn.net/2401_88756258/article/details/166601804)
+
++ [金蝶云星空 WebAPI 查询和查看接口的区别：ExecuteBillQuery 与 View 实测](https://blog.csdn.net/qq_52097248/article/details/166585050)
+
++ [PulseHttps：零侵入的被动HTTPS抓包Web工具](https://blog.csdn.net/penngo/article/details/166602008)
+
