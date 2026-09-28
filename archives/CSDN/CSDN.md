@@ -109,3 +109,15 @@
 
 + [2026最新PanDownload替代方案：百度网盘大文件免登录直链解析](https://blog.csdn.net/vipjx1/article/details/166644658)
 
++ [（论文速读）PARSY-VDD：把系统辨识并行化到多核 RISC-V，在端侧完成振动损伤诊断](https://blog.csdn.net/LJ1147517021/article/details/166008281)
+
++ [▲基于PPO强化学习的卫星天线自动对星算法matlab仿真](https://blog.csdn.net/ccsss22/article/details/166643925)
+
++ [不想在多个网盘来回搜？用 Pansou 在 fnOS 搭一个统一搜索入口](https://blog.csdn.net/2302_79177254/article/details/166644210)
+
++ [跑6小时崩一次？C#工业相机内存泄漏从排查到根治全攻略（附检测工具与修复代码）](https://blog.csdn.net/m0_38141444/article/details/166633917)
+
++ [从零做一个浏览器端 3D 虚拟世界，真正吃时间的不是渲染](https://blog.csdn.net/qq_35054471/article/details/166641503)
+
++ [Ext2文件系统与inode、数据块的组织方式](https://blog.csdn.net/2501_93388101/article/details/166643758)
+

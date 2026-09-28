@@ -21,3 +21,15 @@
 
 + [离职半年了， AI 对工作流程的影响有多大？想回去上班](https://www.v2ex.com/t/1245020)
 
++ [看了影视飓风 Tim 的创业视频，聊聊我的看法](https://www.v2ex.com/t/1245104)
+
++ [求家庭组网方案建议](https://www.v2ex.com/t/1245037)
+
++ [现在有把手机套餐改成大流量的渠道么？](https://www.v2ex.com/t/1245002)
+
++ [主账号都用的国区还是用外区 apple id??](https://www.v2ex.com/t/1245059)
+
++ [求 macbook &amp; mac mini 共享鼠标和键盘的最佳实践](https://www.v2ex.com/t/1245010)
+
++ [如何修复和家人的关系？](https://www.v2ex.com/t/1245044)
+
