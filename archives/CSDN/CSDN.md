@@ -101,3 +101,27 @@
 
 + [Flutter 鸿蒙化实战：flutter_blue_plus 适配 OpenHarmony，蓝牙扫描连接开箱即用](https://blog.csdn.net/m0_73818582/article/details/166777655)
 
++ [Chatwoot私有化部署实战：Docker搭建客服后台，cpolar公网访问与网页SDK集成](https://blog.csdn.net/m0_73879806/article/details/166794082)
+
++ [30天从零开始学AI应用开发（Day 10）：多轮对话：怎么让 AI 记住你们聊过的内容](https://blog.csdn.net/m0_74956872/article/details/166691977)
+
++ [HarmonyOS 7 新特性2：音频编创——轻音台里的降噪、环绕与格式转换](https://blog.csdn.net/sjw890821sjw/article/details/166786362)
+
++ [飞牛OS部署Password-XL：Docker双容器配置、主密码管理与cpolar远程访问](https://blog.csdn.net/a1657054242/article/details/166793626)
+
++ [Linux网络（十八）：TCP连接管理详解：从三次握手、四次挥手到CLOSE_WAIT与TIME_WAIT，深入理解2MSL与端口复用](https://blog.csdn.net/Z2314246476/article/details/166643149)
+
++ [【HarmonyOS 7新能力｜066】弱网直播优化实战：从网络感知到码率、缓冲与恢复](https://blog.csdn.net/2401_84996024/article/details/164590518)
+
++ [Meta｜开源深度评测｜React‑Native：Meta 工业级跨端框架静态源码全审计](https://blog.csdn.net/TunerT_TQ/article/details/166739781)
+
++ [ArkWeb 手记 02｜让 ArkTS 和 H5 真正通信](https://blog.csdn.net/CC1991_/article/details/166796743)
+
++ [webrtc-rs/webrtc v0.21.0发布：API 可扩展、异步集成、确定性时间、ICE 重启与 SCTP 全面修复](https://blog.csdn.net/weixin_48502062/article/details/166788362)
+
++ [金铲铲240帧、传奇多开、Mac玩手游，三大模拟器横评完我还是选MuMu](https://blog.csdn.net/lbbxmx111/article/details/166795133)
+
++ [Cosmos Curator 清洗视频时，哪些片段应该留下？](https://blog.csdn.net/w776341482/article/details/166781097)
+
++ [HTTPS 协议详解：对称加密、非对称加密、中间人攻击与数字证书](https://blog.csdn.net/S122321/article/details/166349022)
+

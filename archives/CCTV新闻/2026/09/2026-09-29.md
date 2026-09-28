@@ -161,3 +161,5 @@
 
 + [9名哈萨克斯坦军人在里海军事演习中丧生](https://news.cctv.com/2026/09/24/ARTIfWqCKe8v8dxk62IGOGeE260924.shtml)
 
++ [数据显示：逾四分之一德国从业人员有移民背景](https://news.cctv.com/2026/09/29/ARTImNgj2bl9TBOxQjx32sLE260928.shtml)
+
