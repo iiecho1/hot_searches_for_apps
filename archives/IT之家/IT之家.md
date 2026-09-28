@@ -25,3 +25,11 @@
 
 + [赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级](https://m.ithome.com/html/1007448.htm)
 
++ [消息称 OPPO Find X10 系列手机首销日销量接近前代旗舰机系列 40%](https://m.ithome.com/html/1007396.htm)
+
++ [四卡双待：荣耀 Magic9 Pro Max 手机将支持双实体卡 + 双 eSIM](https://m.ithome.com/html/1007496.htm)
+
++ [小米 18 Pro 系列手机「传奇一瞬」功能详解，原片数据可在相册上传云端无损处理](https://m.ithome.com/html/1007474.htm)
+
++ [消息称华为或于今年 11 月推出星耀子品牌，客服回应目前暂无具体信息](https://m.ithome.com/html/1007517.htm)
+

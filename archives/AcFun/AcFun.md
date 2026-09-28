@@ -63,3 +63,29 @@
 
 + [高能反转，不到结尾看不出哪边赢！快速看完一局韩服王者斗殴局#839 Odysseus, Nevid,](https://m.acfun.cn/v/?ac=48870373)
 
++ [《动物迷惑行为大赏326》](https://m.acfun.cn/v/?ac=48876442)
+
++ [想我就打给我！！！★手机竖屏2017★](https://m.acfun.cn/v/?ac=48876934)
+
++ [这波乐高赢麻了](https://m.acfun.cn/v/?ac=48877302)
+
++ [网络上常见的热门短视频集锦   第三千四百五十五期](https://m.acfun.cn/v/?ac=48876936)
+
++ [【品城记】脾气越火爆手艺越好？带你了解“顺德炒王”是怎么练成的！](https://m.acfun.cn/v/?ac=48875827)
+
++ [人造太阳能产生上亿度的高温，到底是用什么装的](https://m.acfun.cn/v/?ac=48876799)
+
++ [EXID-DDD](https://m.acfun.cn/v/?ac=48877183)
+
++ [【东方】一起动手制作十六夜咲夜吧【へみちゃん手工人偶制作】](https://m.acfun.cn/v/?ac=48870099)
+
++ [CH4NGE【VRCHAT/MMD】](https://m.acfun.cn/v/?ac=48876634)
+
++ [AEW All Out 2026.09.26 冈田和睦 vs. Tommaso Ciampa](https://m.acfun.cn/v/?ac=48877261)
+
++ [巫小萤-20260926 大摆锤【紫丝夹趾】](https://m.acfun.cn/v/?ac=48875997)
+
++ [好啊，你四杀我也四杀！](https://m.acfun.cn/v/?ac=48876371)
+
++ [NJPW Destruction In Kobe 2026.09.27](https://m.acfun.cn/v/?ac=48876801)
+

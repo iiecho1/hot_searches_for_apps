@@ -121,3 +121,81 @@
 
 + [Ext2文件系统与inode、数据块的组织方式](https://blog.csdn.net/2501_93388101/article/details/166643758)
 
++ [【AI大模型接入SDK】ChatSDK整体实现](https://blog.csdn.net/2401_89899187/article/details/166734886)
+
++ [蓝耘元生代实测：用WorkBuddy + TextIn xParse拆解43页建模论文，整理表格、公式与图片](https://blog.csdn.net/2401_87629362/article/details/166692346)
+
++ [信息化部门在AI时代的编程转移路径分析（下）](https://blog.csdn.net/kkiron/article/details/166773284)
+
++ [【PBAP】规范精讲[2]: 蓝牙PBAP协议核心架构解析——从协议栈到安全设计的全维度拆解](https://blog.csdn.net/weixin_37800531/article/details/166256618)
+
++ [SpringBoot3+Vue3 低代码业务表单：从拖拽设计、独立建表到审批与数据查询](https://blog.csdn.net/zhouzhongyan/article/details/166773094)
+
++ [GitHub 热榜项目：日榜（2026-09-25）](https://blog.csdn.net/u130130/article/details/166645932)
+
++ [【Transformer】Encoder_Decoder_vs_Decoder_Only架构对比](https://blog.csdn.net/2302_78391795/article/details/166691217)
+
++ [【Redis 进阶】缓存实战：从更新策略到三大经典问题全解析](https://blog.csdn.net/2503_91389547/article/details/166645651)
+
++ [AI 的记忆不是数据库：长期个性化如何避免过期与污染](https://blog.csdn.net/weixin_74809706/article/details/166586487)
+
++ [【共创稿事节】3D场景中的骨骼动画：从骨骼驱动到GPU蒙皮](https://blog.csdn.net/u014727709/article/details/166740120)
+
++ [AI大模型1-1-大模型认知与工程概览](https://blog.csdn.net/2601_95483298/article/details/166738381)
+
++ [Show-Harness——仅凭一个VLM智能体即可操控机器人：12个语义动作单元(前进/旋转/抓取)既是模型的思考语言、又是机器人的物理指令](https://blog.csdn.net/v_JULY_v/article/details/166647417)
+
++ [【从零写一个CAD 02】画完第一条线之后：实体容器、Esc 取消，和按了没反应的键盘](https://blog.csdn.net/2302_80177460/article/details/166689221)
+
++ [PyTorch强化学习实战——软演员-评论家（SAC）算法详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/160152790)
+
++ [Agent 自主决策机制：什么时候该检索、什么时候该直接回答](https://blog.csdn.net/sinat_41617212/article/details/166725396)
+
++ [售后知识助手落地笔记：蓝耘元生代上哪些不用自己干](https://blog.csdn.net/Mrxiao_bo/article/details/166779648)
+
++ [模拟器横评：MuMu、雷电、应用宝电脑版五维实测，资源占用低才是隐藏王牌](https://blog.csdn.net/Rqaqedamancy/article/details/166741864)
+
++ [不想每次都敲 docker 命令？用 Portainer CE 在 fnOS 上做一个可视化容器控制台](https://blog.csdn.net/lrq13965748542/article/details/166690813)
+
++ [使用两个 Elasticsearch 数据层而不是四个，降低日志存储成本](https://blog.csdn.net/UbuntuTouch/article/details/166773673)
+
++ [rollbackFor 不设置，Checked 异常不回滚：Spring 默认规则与两行修复的取舍](https://blog.csdn.net/weixin_71309014/article/details/166737411)
+
++ [YOLOv8：环境部署、轻量化改进与多平台部署](https://blog.csdn.net/u013669912/article/details/166643881)
+
++ [从抢票事故到锁的原理-互斥条件变量与生产消费模型](https://blog.csdn.net/xiongditian/article/details/166735948)
+
++ [拒绝图片断链与样式坍塌：出版级富文本转Word与PDF的语义降维与数据固化引擎](https://blog.csdn.net/qq_46987323/article/details/166738642)
+
++ [【黑马点评 | 第七篇】Redis 分布式锁的两种实现](https://blog.csdn.net/2502_94242477/article/details/166690258)
+
++ [大模型工程化实战（十四）：Multi-Agent 协作实战——N 个三元组 + 一张协作契约边表：单元门与端到端协作门、编排原子发布、跨 Agent 父子 Trace、错误沿边传播与归因](https://blog.csdn.net/xiaobing259/article/details/166641623)
+
++ [C++ map/set 深度解析：从关联式容器的本质到 operator[] 的三重身份](https://blog.csdn.net/2501_93751162/article/details/166779477)
+
++ [Webpack 迁 Vite 全程实录：让 Cursor 陪我啃完 40 秒冷启动的那些坑](https://blog.csdn.net/2301_78967866/article/details/166739035)
+
++ [GitHub 热榜项目 - 周榜(2026-09-26)](https://blog.csdn.net/u014390502/article/details/166687707)
+
++ [【花雕学编程】Arduino BLDC 之感知-预测-协同：BLDC送餐机器人的拥挤环境导航闭环](https://blog.csdn.net/weixin_41659040/article/details/166738321)
+
++ [RAG演进路线与核心架构](https://blog.csdn.net/2402_89127822/article/details/166012424)
+
++ [Elasticsearch核心概念](https://blog.csdn.net/xbgRS/article/details/166644641)
+
++ [NAS 里容器越来越多？用 Portainer 给极空间搭一个可远程访问的 Docker 控制台](https://blog.csdn.net/leopold_man/article/details/166688843)
+
++ [【HarmonyOS 7新能力｜066】弱网直播优化实战：从网络感知到码率、缓冲与恢复](https://blog.csdn.net/2401_84996024/article/details/164590518)
+
++ [论证量子计算版《桃花源记》：找得到出口，留不下路标](https://blog.csdn.net/Qforepost/article/details/166644358)
+
++ [【架构专栏】第19章 大数据架构设计 1/2](https://blog.csdn.net/weixin_42081167/article/details/166735544)
+
++ [springcloud_3:nacos服务注册发现的底层原理和负载均衡](https://blog.csdn.net/2401_89252636/article/details/163774849)
+
++ [BSP调试#04：RTC 调试（全志T527）](https://blog.csdn.net/weixin_53226223/article/details/166643276)
+
++ [Docker 部署 Roundcube 邮箱：Resend 发信 + QQ 收信，自动登录告别授权](https://blog.csdn.net/m0_62543478/article/details/166689386)
+
++ [在手机上运行Python增量备份手机数据到PC电脑](https://blog.csdn.net/weixin_39804265/article/details/166688108)
+
