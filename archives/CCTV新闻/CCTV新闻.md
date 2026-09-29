@@ -163,3 +163,7 @@
 
 + [数据显示：逾四分之一德国从业人员有移民背景](https://news.cctv.com/2026/09/29/ARTImNgj2bl9TBOxQjx32sLE260928.shtml)
 
++ [第81届联大一般性辩论闭幕](https://news.cctv.com/2026/09/29/ARTIKxWdLUGDVkKYfAF0dzve260929.shtml)
+
++ [美“星舰”实现首次地球轨道飞行 但提前结束任务](https://news.cctv.com/2026/09/29/ARTICxAC9w2CNRz3btaTa7HJ260929.shtml)
+

@@ -23,3 +23,17 @@
 
 + [国企也换着法子逼人走了](https://www.v2ex.com/t/1245226)
 
++ [兄弟们，我分手了，好难受](https://www.v2ex.com/t/1245409)
+
++ [26 年配眼镜分享](https://www.v2ex.com/t/1245227)
+
++ [有人注册过美国 llc 公司开通 claude teams 账号吗？](https://www.v2ex.com/t/1245208)
+
++ [国庆打算杭州自驾去日照/青岛旅游，求攻略](https://www.v2ex.com/t/1245196)
+
++ [国庆前又喜提裁员](https://www.v2ex.com/t/1245218)
+
++ [大家多久没用百度了？](https://www.v2ex.com/t/1245350)
+
++ [被人当冤大头的一次恶心经历](https://www.v2ex.com/t/1245329)
+

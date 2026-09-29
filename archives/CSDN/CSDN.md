@@ -125,3 +125,19 @@
 
 + [HTTPS 协议详解：对称加密、非对称加密、中间人攻击与数字证书](https://blog.csdn.net/S122321/article/details/166349022)
 
++ [每日热评｜Compositor：Swift原生图像编辑器，100%开源免费对标Photoshop](https://blog.csdn.net/TunerT_TQ/article/details/166692298)
+
++ [华为云码道 CodeArts 实测：让 AI 独立开发一个鸿蒙原生专注计时应用「刻循」](https://blog.csdn.net/qq_35366330/article/details/166782657)
+
++ [从注意力掩码到推理成本：Encoder-Decoder与Decoder-Only架构实测对比](https://blog.csdn.net/2402_83344867/article/details/166791631)
+
++ [MySQL进阶篇之范式及E-R图](https://blog.csdn.net/bksczm/article/details/166688397)
+
++ [基于天地图 + Cesium 的三维地图与 POI 周边检索实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/166693303)
+
++ [HttpContext类的设计与实现](https://blog.csdn.net/htw250056/article/details/166791749)
+
++ [【risc-v专栏 09】 工具链深挖:relaxation / ELF / 软算术](https://blog.csdn.net/peter_pan_study/article/details/166788431)
+
++ [【Linux系统】【从【收尾】缓冲区到【新开】磁盘块：一节课打通文件系统底层原理】流食般投喂](https://blog.csdn.net/dj_798/article/details/166346280)
+
