@@ -25,3 +25,23 @@
 
 + [曝携程推新规鼓励“无理由事假”：员工请假 1 天，所在团队可获 600 元奖励](https://m.ithome.com/html/1007774.htm)
 
++ [消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别](https://m.ithome.com/html/1008056.htm)
+
++ [4499 元起：荣耀 Magic9 超能版手机发布，11000mAh 超大电池、支持主动散热](https://m.ithome.com/html/1007862.htm)
+
++ [华为 Mate 90 系列年度旗舰手机亮相，定档 10 月 1 日正式发布并开售](https://m.ithome.com/html/1008093.htm)
+
++ [华为余承东发布会 PPT 鸿蒙智行“五界”品牌顺序重排，AITO 问界被移至最右](https://m.ithome.com/html/1007939.htm)
+
++ [鸿蒙智行智界 RX 正式上市，25.98 万-38.98 万元](https://m.ithome.com/html/1007839.htm)
+
++ [小米卢伟冰：今年很多旗舰产品会用 n-1 代旗舰处理器，相信 REDMI K100 系列一定是“最香的”](https://m.ithome.com/html/1008054.htm)
+
++ [4999 元起：荣耀 Magic9 标准版手机发布，第五代骁龙 8 至尊版芯片、双 2 亿 ARRI 阿莱影像](https://m.ithome.com/html/1007858.htm)
+
++ [鸿蒙智行“五界”logo 同台亮相，华为余承东重申问界车主所有权益不受影响](https://m.ithome.com/html/1007809.htm)
+
++ [苹果 iOS / iPadOS 27.0.1 发布：修复部分 iPhone 18 Pro / Max 意外重启问题](https://m.ithome.com/html/1008066.htm)
+
++ [小米客服称小米 14/14 Pro 手机电池升级服务预计 10 月 1 日上线：4610 → 4795mAh/4880 → 5140mAh](https://m.ithome.com/html/1007902.htm)
+

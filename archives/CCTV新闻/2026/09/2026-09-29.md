@@ -167,3 +167,21 @@
 
 + [美“星舰”实现首次地球轨道飞行 但提前结束任务](https://news.cctv.com/2026/09/29/ARTICxAC9w2CNRz3btaTa7HJ260929.shtml)
 
++ [伊拉克军方称美军及国际联盟部队将于9月30日完成撤离](https://news.cctv.com/2026/09/29/ARTIbiToKU9w6fw1voN5KuiQ260929.shtml)
+
++ [泰国多地洪灾已致至少23人死亡](https://news.cctv.com/2026/09/29/ARTIQTJXuPpqOFzlLDct7Nha260929.shtml)
+
++ [联合国：也门冲突升级已致约14.2万人流离失所](https://news.cctv.com/2026/09/29/ARTI8mu6C70V3tYU5UstSjzp260929.shtml)
+
++ [以军军事行动致加沙地带3人死亡 多人受伤](https://news.cctv.com/2026/09/29/ARTIvc1Inh7YxftBDfvz4Yl7260929.shtml)
+
++ [延烧两个月 法国近八十年最大野火终于被扑灭](https://news.cctv.com/2026/09/29/ARTIkrCuUKmWw4f5jjNm9x5P260929.shtml)
+
++ [美“艾森豪威尔”号航母发生着舰事故 两飞行员弹射逃生](https://news.cctv.com/2026/09/29/ARTIMbd3K6tQcfaucyk32p5G260929.shtml)
+
++ [美属波多黎各以西海域移民船倾覆 2人死亡多人失踪](https://news.cctv.com/2026/09/29/ARTIip6NKtLkNS29opnTeRdW260929.shtml)
+
++ [携手牵引中美关系大船行稳致远](https://news.cctv.com/2026/09/29/ARTIIT65mLu4EWVT5SM9IkTZ260929.shtml)
+
++ [三个关键词透视中美经贸新动向](https://news.cctv.com/2026/09/29/ARTIoF7RRQJgPkYgZwhiKIpW260929.shtml)
+
