@@ -161,3 +161,7 @@
 
 + [俄国家杜马选举结果揭晓 执政党获“宪法多数”地位](https://news.cctv.com/2026/09/25/ARTIe1lG0Lq77NIre1kIp2At260925.shtml)
 
++ [民调：约七成受访者希望英国与欧盟走近](https://news.cctv.com/2026/09/30/ARTIWqP1nKhvKlGoITqEbQc1260929.shtml)
+
++ [内塔尼亚胡称“敌对势力”试图在大选前袭击以色列](https://news.cctv.com/2026/09/30/ARTI4Dww7yMYpBG9czRnsXo4260929.shtml)
+

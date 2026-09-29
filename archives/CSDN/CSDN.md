@@ -101,3 +101,21 @@
 
 + [Spark 4.x 升级潮来了：从生态适配到高频报错，一份迁移避坑清单](https://blog.csdn.net/m0_74899094/article/details/166836189)
 
++ [日志散在多台服务器怎么查？用 Promtail + Loki + Grafana 搭一套集中检索平台](https://blog.csdn.net/qq_61024956/article/details/166849158)
+
++ [走到哪讲到哪，一位跟着你走的AI导游 - 云游如何用端到端具身交互智能让山水开口说话](https://blog.csdn.net/qq_62817113/article/details/166831486)
+
++ [我让它复刻 Linear 官网，它把背景色 #08090a 都抄得一字不差——Seed-2.1-pro-0915 看图写码实测](https://blog.csdn.net/2401_86326742/article/details/166850694)
+
++ [ArkWeb 手记 01｜把 H5 加载和生命周期管起来](https://blog.csdn.net/CC1991_/article/details/166796472)
+
++ [一种多Agent权限管控与风险控制架构](https://blog.csdn.net/bumblebee16/article/details/165892665)
+
++ [42.VueReactNextjs如何为AI应用设计前端交互](https://blog.csdn.net/weixin_37647148/article/details/166773088)
+
++ [SpringSecurity_03_JWT鉴权](https://blog.csdn.net/Zhou141136/article/details/166794929)
+
++ [Qwen3.8-27B 推理优化实测：从 MTP 到 DFlash2，单卡与双卡 RTX 5090部署实战](https://blog.csdn.net/Lsogod/article/details/166840760)
+
++ [用决策模型搭一个工单路由原型：含兜底策略 18 条全对，代价是 1600 毫秒和零 API 费](https://blog.csdn.net/wodekouwei/article/details/166787307)
+
