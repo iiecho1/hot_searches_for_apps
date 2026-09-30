@@ -171,3 +171,15 @@
 
 + [受降雨影响 数千件行李滞留泰国素万那普国际机场](https://news.cctv.com/2026/09/30/ARTIjPMGGOHD6bOXiTvo6QVc260930.shtml)
 
++ [美国9月消费者信心指数连续第3个月走低 消费者对就业市场看法出现恶化](https://news.cctv.com/2026/09/30/ARTIZjnLjWnebJlGPLzGrMlj260930.shtml)
+
++ [弥合鸿沟，共塑数字贸易秩序](https://news.cctv.com/2026/09/30/ARTImXoC3Prh7whvNexa0jgP260930.shtml)
+
++ [“中国在促进全球安全方面发挥了重要作用”](https://news.cctv.com/2026/09/30/ARTIKOFl6N0Ye1FGyAGPSHGv260930.shtml)
+
++ [波音将造美海军第六代战机 研发合同超200亿美元](https://news.cctv.com/2026/09/30/ARTIbGUfrt9u5rTPcdtdssG0260930.shtml)
+
++ [旅韩双胞胎大熊猫将于12月回国](https://news.cctv.com/2026/09/30/ARTIrs2tICIvOLLGW5bwtbNL260930.shtml)
+
++ [欧盟官员：伊朗战事让欧盟多花千亿欧元进口能源](https://news.cctv.com/2026/09/30/ARTI8wyusFwYPF490StolCZT260930.shtml)
+
