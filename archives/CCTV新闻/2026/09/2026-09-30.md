@@ -183,3 +183,25 @@
 
 + [欧盟官员：伊朗战事让欧盟多花千亿欧元进口能源](https://news.cctv.com/2026/09/30/ARTI8wyusFwYPF490StolCZT260930.shtml)
 
++ [我驻国际组织代表团和驻多国使馆举办活动庆祝新中国成立77周年](https://news.cctv.com/2026/09/30/ARTICYypp52OWuP7d5MgiZu0260930.shtml)
+
++ [中国清洁能源客车为比什凯克“添绿”](https://news.cctv.com/2026/09/30/ARTIbvoYZWsMP0X6yRvJFjL2260930.shtml)
+
++ [为中美友好注入更强“青春动能”](https://news.cctv.com/2026/09/30/ARTI1F7DZKFhpLcygWBXIT3j260930.shtml)
+
++ [锚定中美建设性战略稳定关系新航标](https://news.cctv.com/2026/09/30/ARTI4q0RwsySf1QvWrSlluKD260930.shtml)
+
++ [飞行员争斗 一人被刺伤 乘客透露迪拜航空客机事故细节](https://news.cctv.com/2026/09/30/ARTIE8whEQfJuYp1RsXDkoaS260930.shtml)
+
++ [伊朗称已收到美方对其重开霍尔木兹海峡提议的回复](https://news.cctv.com/2026/09/30/ARTIV9zihiM3MfyKgBs9UIz6260930.shtml)
+
++ [一架飞往以色列的客机异常改道 疑因飞行员争斗触发紧急代码](https://news.cctv.com/2026/09/30/ARTIajRghNwgQkvfIhqvg3kE260930.shtml)
+
++ [一架飞往以色列的客机连发紧急遇险代码 以军战机升空应对](https://news.cctv.com/2026/09/30/ARTIuR3lU21p99uP2JuYgUpC260930.shtml)
+
++ [菲律宾官员否认该国一学校发生枪击案](https://news.cctv.com/2026/09/30/ARTIuscz4RPXqsIsVnObAVdp260930.shtml)
+
++ [伊朗向阿联酋等国发警告：以方活动“后果危险”](https://news.cctv.com/2026/09/30/ARTIT5yk9vvtPYDk590PNc5K260930.shtml)
+
++ [面向未来基础设施：亚投行多哈年会擘画全球可持续基建合作蓝图](https://news.cctv.com/2026/09/30/ARTIdjjm7YErh56gyxhBMVRk260930.shtml)
+

@@ -123,3 +123,35 @@
 
 + [华为云码道 CodeArts 实测：让 AI 独立开发一个鸿蒙原生专注计时应用「刻循」](https://blog.csdn.net/qq_35366330/article/details/166782657)
 
++ [【AI大模型接入SDK】ChatSDK：CMake构建静态库完整实现](https://blog.csdn.net/2401_89899187/article/details/166853485)
+
++ [GPT-6.1 Sol 发布：性能接近 Astra，价格只要五分之一](https://blog.csdn.net/aidoudoulong/article/details/166886053)
+
++ [Qt 界面开发必会：四大 Layout 布局管理器与 Spacer 弹簧机制详解](https://blog.csdn.net/yhrxh_ymq/article/details/166644885)
+
++ [SpringBoot+Vue3 企业主数据设计：客户、供应商、合同与财务如何共用一套身份](https://blog.csdn.net/zhouzhongyan/article/details/166493716)
+
++ [CentOS 7 部署 mysqld_exporter：MySQL 指标采集、Prometheus 告警与远程监控](https://blog.csdn.net/2401_87848736/article/details/166895296)
+
++ [C++ string 深度使用详解（模块细分 + 可行性分析）](https://blog.csdn.net/chenbingjie_c/article/details/166738820)
+
++ [deepseekharness在对话中，有四种模式，分别是极简、PTC、创造和标准模式，每种模式下挂载的插件、skill等数量不一样](https://blog.csdn.net/skywalk8163/article/details/166850561)
+
++ [C++ 移动 vs 拷贝：什么时候真的快，什么时候白忙一场](https://blog.csdn.net/weixin_38244193/article/details/166279571)
+
++ [预算 15 万，账单 25 万：端到端具身交互智能家居设计师的三本账](https://blog.csdn.net/weixin_62782025/article/details/166845155)
+
++ [JAVA V6 多商户商城 开发文档——手机端前端](https://blog.csdn.net/freedomhua/article/details/166846848)
+
++ [RN与Flutter架构区别](https://blog.csdn.net/qq_25416827/article/details/166847788)
+
++ [Spring统一功能处理](https://blog.csdn.net/2501_93705143/article/details/166788173)
+
++ [SpringBoot + ECharts 后台数据统计报表模块实战](https://blog.csdn.net/2601_96029214/article/details/166851103)
+
++ [2026年数据采集服务怎么选？4大主流平台（亮数据 Bright Data、Apify、ScrapingBee、Zyte）深度对比](https://blog.csdn.net/m0_73367097/article/details/166892524)
+
++ [Spring Framework 全方位技术解析](https://blog.csdn.net/wwd_001/article/details/166846753)
+
++ [云原生日志采集与检索架构实战：K8s 日志和传统日志统一接入日志平台的设计方案（Kafka + Elasticsearch）](https://blog.csdn.net/Sayai/article/details/166793539)
+
