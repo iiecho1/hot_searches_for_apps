@@ -161,3 +161,17 @@
 
 + [驻泰国使馆提醒在泰中国公民防范强降雨及洪涝灾害](https://news.cctv.com/2026/09/26/ARTIQknITTgMFWOtvrJ1mrmh260926.shtml)
 
++ [俄外交部发言人扎哈罗娃重申日本不应“入常”](https://news.cctv.com/2026/10/01/ARTIBwVCrWwcuSKvVuYmZyQm261001.shtml)
+
++ [赞比亚宣布暴发新一轮霍乱疫情](https://news.cctv.com/2026/10/01/ARTIBWf0wiWKghJcxAxpmFku261001.shtml)
+
++ [特朗普：最后一批美军正在撤离伊拉克](https://news.cctv.com/2026/10/01/ARTIwLUm8eURNhK6fT3Re7Fy261001.shtml)
+
++ [以总理称迪拜航空赴以航班飞行员“蓄意坠机”](https://news.cctv.com/2026/10/01/ARTIJpLmbI2igm30oLhpB8gn260930.shtml)
+
++ [调查显示日本10月将迎来新一波涨价潮](https://news.cctv.com/2026/10/01/ARTI1A9m4somjTerY6ScKcXn260930.shtml)
+
++ [联合国下任秘书长遴选 贸发会议秘书长格林斯潘领跑](https://news.cctv.com/2026/10/01/ARTIoczgmD1e46Sc9q4grkB0260930.shtml)
+
++ [世界知识产权组织报告：中国创新指数排名全球第十](https://news.cctv.com/2026/10/01/ARTIBO7PDORUGk2oXbYOMYs7260930.shtml)
+

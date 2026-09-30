@@ -101,3 +101,5 @@
 
 + [如何快速定位线上OOM](https://blog.csdn.net/2405_88524973/article/details/166850044)
 
++ [LangChain/LangGraph（一）提示词篇一：Prompt工程实战：从CO-STAR、Few-Shot到思维链与自我迭代，系统掌握提示词设计方法](https://blog.csdn.net/Z2314246476/article/details/166683527)
+
