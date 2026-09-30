@@ -119,3 +119,7 @@
 
 + [用决策模型搭一个工单路由原型：含兜底策略 18 条全对，代价是 1600 毫秒和零 API 费](https://blog.csdn.net/wodekouwei/article/details/166787307)
 
++ [深度学习实战-基于BiT-ResNet50的纺织品缺陷图像识别模型](https://blog.csdn.net/m0_64336780/article/details/163066897)
+
++ [华为云码道 CodeArts 实测：让 AI 独立开发一个鸿蒙原生专注计时应用「刻循」](https://blog.csdn.net/qq_35366330/article/details/166782657)
+

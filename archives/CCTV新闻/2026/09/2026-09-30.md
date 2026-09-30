@@ -165,3 +165,9 @@
 
 + [内塔尼亚胡称“敌对势力”试图在大选前袭击以色列](https://news.cctv.com/2026/09/30/ARTI4Dww7yMYpBG9czRnsXo4260929.shtml)
 
++ [曼苏里成为摩洛哥首位女首相](https://news.cctv.com/2026/09/30/ARTIKoIXZNqZ2IcwoJROYdJF260930.shtml)
+
++ [美国计划通过“互换”释放4000万桶战略石油储备](https://news.cctv.com/2026/09/30/ARTIkP1Oobp3k4NhfMjIhS38260930.shtml)
+
++ [受降雨影响 数千件行李滞留泰国素万那普国际机场](https://news.cctv.com/2026/09/30/ARTIjPMGGOHD6bOXiTvo6QVc260930.shtml)
+
