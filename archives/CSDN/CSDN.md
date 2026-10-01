@@ -103,3 +103,11 @@
 
 + [LangChain/LangGraph（一）提示词篇一：Prompt工程实战：从CO-STAR、Few-Shot到思维链与自我迭代，系统掌握提示词设计方法](https://blog.csdn.net/Z2314246476/article/details/166683527)
 
++ [信息化部门在AI时代的编程转移路径分析（下）](https://blog.csdn.net/kkiron/article/details/166773284)
+
++ [AI应用成本优化完全指南：Token压缩、语义缓存与模型路由的Java生产级实战](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/166841755)
+
++ [五大主流语言：Go、Python、Rust、Java、C# 的比较](https://blog.csdn.net/llyfe2006/article/details/166892428)
+
++ [Agent 流式输出实战：SSE/WebSocket 实现实时响应与中间状态展示](https://blog.csdn.net/sinat_41617212/article/details/166903865)
+
