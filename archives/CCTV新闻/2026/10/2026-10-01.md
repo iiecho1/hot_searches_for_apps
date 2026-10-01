@@ -175,3 +175,11 @@
 
 + [世界知识产权组织报告：中国创新指数排名全球第十](https://news.cctv.com/2026/10/01/ARTIBO7PDORUGk2oXbYOMYs7260930.shtml)
 
++ [英国称伊朗涉空军基地袭击图谋 伊方再否认](https://news.cctv.com/2026/10/01/ARTIdVdUscOWR1SMGsPD8mYz261001.shtml)
+
++ [持刀强闯我使馆 日本前自卫队员村田晃大否认部分罪名](https://news.cctv.com/2026/10/01/ARTIDdjAj7SX8yl56slPkk8B261001.shtml)
+
++ [英法“一进一出”非法移民遣返机制取消](https://news.cctv.com/2026/10/01/ARTIfttBE6utKmD1oKO6ATqY261001.shtml)
+
++ [美媒：谈判陷入僵局 鲁比奥要求伊朗代表团立即离美](https://news.cctv.com/2026/10/01/ARTIeAPExV8hlfPgKwgm6681261001.shtml)
+
