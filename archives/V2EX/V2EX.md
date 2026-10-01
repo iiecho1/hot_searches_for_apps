@@ -47,3 +47,15 @@
 
 + [你们的 gpt6.1 sol 都有了吗](https://www.v2ex.com/t/1245883)
 
++ [ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码](https://www.v2ex.com/t/1246024)
+
++ [有什么有意思的 3C 产品推荐嘛](https://www.v2ex.com/t/1245950)
+
++ [最近迁移到 Catsxp 浏览器](https://www.v2ex.com/t/1245944)
+
++ [Gemini 4 Argon 已宣布](https://www.v2ex.com/t/1245947)
+
++ [通过 firefox 注册 muse](https://www.v2ex.com/t/1245987)
+
++ [[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘](https://www.v2ex.com/t/1245993)
+

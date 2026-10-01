@@ -183,3 +183,13 @@
 
 + [美媒：谈判陷入僵局 鲁比奥要求伊朗代表团立即离美](https://news.cctv.com/2026/10/01/ARTIeAPExV8hlfPgKwgm6681261001.shtml)
 
++ [搭建友好桥梁 促进民心相通——习近平主席国事访问推动中美人民友谊之树向更深处扎根](https://news.cctv.com/2026/10/01/ARTIRdGV1PBGuWle1AejCZ6u261001.shtml)
+
++ [共促全球人工智能健康有序发展](https://news.cctv.com/2026/10/01/ARTIuF6rpm9cehAVWrOy0BAL261001.shtml)
+
++ [摘下中美AI合作“低垂的果实”](https://news.cctv.com/2026/10/01/ARTIZmAIGOvpcbzrJN1r2S9P261001.shtml)
+
++ [9名中国公民在埃及阿斯旺省交通事故中受伤](https://news.cctv.com/2026/10/01/ARTI8KSEjcnuda77Y3wnavE6261001.shtml)
+
++ [安全形势复杂严峻，我驻刚果（金）使馆提醒在刚公民提高警惕](https://news.cctv.com/2026/10/01/ARTIsjLI3ZQzGPpw9DYb9t6i261001.shtml)
+

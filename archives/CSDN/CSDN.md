@@ -111,3 +111,69 @@
 
 + [Agent 流式输出实战：SSE/WebSocket 实现实时响应与中间状态展示](https://blog.csdn.net/sinat_41617212/article/details/166903865)
 
++ [深入理解 Transformer：Decoder与Masked_Attention](https://blog.csdn.net/htw250056/article/details/166945752)
+
++ [【从零写一个CAD 04】中键拖动平移：抓住一个点，让它一直待在鼠标底下](https://blog.csdn.net/2302_80177460/article/details/166938268)
+
++ [【BlueZ 】netlink 在 BlueZ 中的应用：用户态与内核态的配置消息传递](https://blog.csdn.net/weixin_37800531/article/details/166645834)
+
++ [【Transformer】Tokenization详解_BPE_WordPiece_SentencePiece](https://blog.csdn.net/2302_78391795/article/details/166902731)
+
++ [从 40 轮纯手工建模到 AI 图生 3D 精修：我把《仙逆》王林修成化神形态，致敬《弑仙之战》上线](https://blog.csdn.net/sinat_41617212/article/details/166944198)
+
++ [物流行业的客户触达难题：用企业微信消息网关打通“最后一厘米“](https://blog.csdn.net/beautifulmemory/article/details/166902190)
+
++ [【TextIn xParse 与 Workbuddy实践】我把答辩材料丢给 AI 审了一遍，它开始追着我要证据](https://blog.csdn.net/lwcwam/article/details/166945842)
+
++ [PyTorch强化学习实战（27）——进化策略在强化学习中的应用](https://blog.csdn.net/LOVEmy134611/article/details/160152483)
+
++ [HarmonyOS 7 新特性3：TiledGSNode——轻带看让 71MB 庭院按视口按需加载：真机实测与零请求降级](https://blog.csdn.net/sjw890821sjw/article/details/166827930)
+
++ [Jev：Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures](https://blog.csdn.net/qq_35812205/article/details/166893720)
+
++ [【Linux】Ext系列文件系统（磁盘级文件）](https://blog.csdn.net/2502_90266547/article/details/164400225)
+
++ [GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器](https://blog.csdn.net/weixin_40013817/article/details/166890336)
+
++ [大模型 Prompt Caching ：缓存命中发生在哪里，为什么各家命中率差这么多？](https://blog.csdn.net/2401_87660168/article/details/166795250)
+
++ [飞牛OS上用Docker Compose部署ExerciseDiary运动记录并配置远程访问](https://blog.csdn.net/2402_83344867/article/details/166897351)
+
++ [Spark Streaming 与 Flume 集成：Receiver 拉取、推模式与数据不丢配置](https://blog.csdn.net/qq_41840843/article/details/166947136)
+
++ [Spring Boot整合MyBatis与文件上传：从分层架构到文件上传下载实战](https://blog.csdn.net/carlos20031004/article/details/166845758)
+
++ [具身智能中的协同机理（23）：VLA-TVA架构分层映射四步法详解](https://blog.csdn.net/2501_94287723/article/details/162971666)
+
++ [协议为什么存在-协议栈IP与MAC和缓冲区里的生产者消费者](https://blog.csdn.net/xiongditian/article/details/166943099)
+
++ [大模型技术全景(十三)：记忆管理 Memory](https://blog.csdn.net/2502_94387000/article/details/166734100)
+
++ [Agent Trace 数据底座建设：宽表建模、全文检索与成本聚合的配置与验证步骤](https://blog.csdn.net/SelectDB_Fly/article/details/166844232)
+
++ [ArkWeb 手记 10｜把 ArkWeb 收成业务容器](https://blog.csdn.net/CC1991_/article/details/166904402)
+
++ [串口与CAN总线：协议架构、通信机制与工程选型的深度比较](https://blog.csdn.net/mftang/article/details/166839332)
+
++ [日记不想再交给云平台？用Docker部署DailyTxT，手机也能随时记录](https://blog.csdn.net/EterNity_TiMe_/article/details/166836225)
+
++ [从单机部署到 SLB 双活：Spring Boot + Docker + GitLab CI 零感知滚动发布实践](https://blog.csdn.net/weixin_44678969/article/details/166884458)
+
++ [【Linux系统】【从【收尾】缓冲区到【新开】磁盘块：一节课打通文件系统底层原理】流食般投喂](https://blog.csdn.net/dj_798/article/details/166346280)
+
++ [Ubuntu CPU 环境下的 YOLOv8 使用教程：图片检测、Python 调用、模型训练与 ONNX 导出](https://blog.csdn.net/nskksms/article/details/166903285)
+
++ [异步FIFO核心揭秘：格雷码与指针同步](https://blog.csdn.net/orange_life/article/details/166829241)
+
++ [JVM + IOC + Bean 完整总结](https://blog.csdn.net/qq_52323949/article/details/166845841)
+
++ [MiMo-V2.6-Flash API 调用实践笔记](https://blog.csdn.net/qq_63283852/article/details/166904247)
+
++ [天线仿真案例三：1.9与2.45GHz的双频矩形微带天线设计](https://blog.csdn.net/2302_78339041/article/details/166902477)
+
++ [当模型也会越狱：英伟达 Open Agent Safety Platform 与「双层带外」全栈智能体安全架构深度解析](https://blog.csdn.net/shaobingj126/article/details/166833478)
+
++ [HarmonyOS 7 Flutter + PlatformView：混合页面返回手势仲裁、纹理句柄解绑与热重载残留清理【鸿蒙心迹】](https://blog.csdn.net/wang_qianqqian/article/details/166946567)
+
++ [NAS 换了 IP 就失联？给飞牛留一个不随局域网变化的固定入口](https://blog.csdn.net/lrq13965748542/article/details/166849940)
+

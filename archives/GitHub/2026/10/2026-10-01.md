@@ -35,3 +35,19 @@
 
 + [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
 
++ [cursor/plugins](https://github.com/cursor/plugins)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [earendil-works/pi](https://github.com/earendil-works/pi)
+
++ [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+
++ [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
+
++ [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+
++ [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
++ [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate)
+
