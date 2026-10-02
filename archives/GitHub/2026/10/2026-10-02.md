@@ -31,3 +31,17 @@
 
 + [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate)
 
++ [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
++ [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
++ [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
++ [google/skills](https://github.com/google/skills)
+
++ [getsentry/sentry](https://github.com/getsentry/sentry)
+
++ [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+
++ [Effect-TS/effect](https://github.com/Effect-TS/effect)
+

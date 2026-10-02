@@ -39,3 +39,13 @@
 
 + [Grok Bot/Muse/Dots 这些龙虾类产品卷土重来，我想给上一代产品说几句公道话](https://www.v2ex.com/t/1246061)
 
++ [Tibo 耍猴了， 明天全局重置](https://www.v2ex.com/t/1246095)
+
++ [看重隐私买什么车好？](https://www.v2ex.com/t/1246094)
+
++ [你更相信门诊医生还是 AI？](https://www.v2ex.com/t/1246146)
+
++ [戒短视频，碎片时间，可以干啥？](https://www.v2ex.com/t/1246122)
+
++ [gpt 6 luna 都这么蠢吗？连个小插件，都写了 10 几遍，还没有写好！](https://www.v2ex.com/t/1246096)
+

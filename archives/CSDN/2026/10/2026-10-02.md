@@ -141,3 +141,37 @@
 
 + [Spark SQL 窗口函数高级应用：优化查询性能与实现复杂数据分析](https://blog.csdn.net/qq_41840843/article/details/166946959)
 
++ [Spring Boot 快速上手：从 Maven 到第一个 Controller](https://blog.csdn.net/java_nnnn/article/details/166894380)
+
++ [从Attention到BERT：双向预训练语言模型到底解决了什么问题](https://blog.csdn.net/2402_83344867/article/details/166900879)
+
++ [Qt 事件机制详解：从 QEvent 派生类到事件过滤器的全景指南](https://blog.csdn.net/yhrxh_ymq/article/details/166889101)
+
++ [2026 后端架构进入 AI 原生阶段：事件驱动 + 虚拟线程 + Agent 内嵌三驾马车怎么落地](https://blog.csdn.net/m0_74899094/article/details/166991079)
+
++ [Linux系统学习【线程概念与控制核心知识详解】](https://blog.csdn.net/2401_87629362/article/details/166728938)
+
++ [NAS 换了 IP 就失联？给飞牛留一个不随局域网变化的固定入口](https://blog.csdn.net/lrq13965748542/article/details/166849940)
+
++ [Neo4j 内嵌模式（Embedded）实战：Java 嵌入式 vs 服务端部署的写入性能对比与 GC 调优](https://blog.csdn.net/Sayai/article/details/166848331)
+
++ [Spring IoC容器与Bean生命周期详解](https://blog.csdn.net/weixin_49076592/article/details/166946638)
+
++ [FPGA 部署 YOLO 完整指南：从模型量化到 Zynq PS+PL 硬件加速](https://blog.csdn.net/nskksms/article/details/166903414)
+
++ [TraceBack：基于TextIn xParse，统一解析PDF/Word/Excel/扫描件/截图，自动交叉核验维修报告真伪，带原文出处，让造假无处遁形](https://blog.csdn.net/2401_84813926/article/details/166904024)
+
++ [【RSS 2025】YOTO：一次人类视频示教的双臂机器人操作｜从机器人数据引擎视角](https://blog.csdn.net/Discover304/article/details/166948085)
+
++ [GPT-6.1 Sol 来了：1/5 价逼近 Astra 级](https://blog.csdn.net/2203_75871132/article/details/166885330)
+
++ [FPGA SPI协议解析](https://blog.csdn.net/qq_35298781/article/details/166991794)
+
++ [秒杀系统设计（二）：数据正确性——防超卖、分布式锁与一人一单](https://blog.csdn.net/LI_124301012/article/details/166948586)
+
++ [每周下载量约 16 万，仍处 Alpha 的 TanStack Charts 为什么火了？](https://blog.csdn.net/weixin_44063643/article/details/166988186)
+
++ [System Prompt 膨胀：你的 AI 有多少预算给了“自我介绍“？](https://blog.csdn.net/yweng18/article/details/166992299)
+
++ [视觉智能体怎么选技术？目标检测、跟踪、分割、OpenCV和FFmpeg的职责划分](https://blog.csdn.net/weixin_53653412/article/details/166791758)
+

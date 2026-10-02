@@ -173,3 +173,9 @@
 
 + [检察厅关闭 韩国公诉厅和重大犯罪调查厅正式成立](https://news.cctv.com/2026/10/02/ARTI4GcDvq5V0SaTj26KTquz261002.shtml)
 
++ [习近平主席华盛顿之行：三个场景的历史分量](https://news.cctv.com/2026/10/02/ARTIIyQBZtcjUVjgeSS23PCH261002.shtml)
+
++ [中国驻泰使馆：接到有关上海音乐教师失联的求助](https://news.cctv.com/2026/10/02/ARTIJNQm27mZlCN48KTJHh92261002.shtml)
+
++ [印尼客轮倾覆事故死亡人数升至80人](https://news.cctv.com/2026/10/02/ARTIygro6Nc0592xBZ5zQgyE261002.shtml)
+
