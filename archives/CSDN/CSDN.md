@@ -101,3 +101,9 @@
 
 + [基于 Django 与 Vue 3 的 AI 实验室智能预约系统设计与实现](https://blog.csdn.net/HHYZBC/article/details/166900836)
 
++ [基于 YOLO11 的电力线路绝缘子智能检测系统 | 完整源码分享](https://blog.csdn.net/weixin_52908342/article/details/161316345)
+
++ [【C++标准项目】C++ 仿 RabbitMQ 实现消息队列（一）：项目概述](https://blog.csdn.net/2501_93351213/article/details/166950517)
+
++ [【无人车路径跟踪】基于神经网络的数据驱动迭代学习控制(ILC)算法，用于具有未知模型和重复任务的非线性单输入单输出(SISO)离散时间系统的无人车的路径跟踪（Matlab代码实现）](https://blog.csdn.net/Ke_Yan_She/article/details/166951267)
+

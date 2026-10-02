@@ -161,3 +161,11 @@
 
 + [国际舆论积极评价中美元首华盛顿会晤——释放相向而行、和平共处、互利共赢的积极信号](https://news.cctv.com/2026/09/27/ARTIjv7qO7OK2bAak6it6Pau260927.shtml)
 
++ [中方在联大三委作共同发言 敦促遏止单边强制措施](https://news.cctv.com/2026/10/02/ARTIYWYw15ujSqVrc4tGe6TL261002.shtml)
+
++ [从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重](https://news.cctv.com/2026/10/02/ARTIX6eZ6cYxcqy08U6UKqHi261002.shtml)
+
++ [德国联邦国防军将组建首支无人系统作战团级部队](https://news.cctv.com/2026/10/02/ARTI00mEMJnqARxVq8qY0kI1261002.shtml)
+
++ [英国海上贸易行动办公室：一油轮通过霍尔木兹海峡时遇袭](https://news.cctv.com/2026/10/02/ARTIlOStkV6b0YuiXeCI5XAo261002.shtml)
+

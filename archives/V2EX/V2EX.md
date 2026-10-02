@@ -21,3 +21,7 @@
 
 + [[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘](https://www.v2ex.com/t/1245993)
 
++ [[横琴｜澳资初创｜ AI Agent] 寻找技术联合创始人，前期零薪， 16%股权（4 年归属）](https://www.v2ex.com/t/1246029)
+
++ [没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS](https://www.v2ex.com/t/1245998)
+
