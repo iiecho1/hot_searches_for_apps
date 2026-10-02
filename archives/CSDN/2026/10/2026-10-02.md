@@ -107,3 +107,37 @@
 
 + [【无人车路径跟踪】基于神经网络的数据驱动迭代学习控制(ILC)算法，用于具有未知模型和重复任务的非线性单输入单输出(SISO)离散时间系统的无人车的路径跟踪（Matlab代码实现）](https://blog.csdn.net/Ke_Yan_She/article/details/166951267)
 
++ [仓颉版 Tauri：基于轻量化线程与纯血鸿蒙架构的下一代 Web 混合开发利器](https://blog.csdn.net/qq8864/article/details/166944044)
+
++ [7天学会SpringBoot+Vue3企业级项目RuoyiOffice（一）：架构篇——一个底座，多端通达](https://blog.csdn.net/zhouzhongyan/article/details/166982279)
+
++ [【计算几何】Clipper库的ClipperBase类代码赏析](https://blog.csdn.net/he_zhidan/article/details/166473516)
+
++ [机器人或计算机智能与时间相关案例汇总（ROS2-ROS1）](https://blog.csdn.net/ZhangRelay/article/details/166949372)
+
++ [从零到合入主线：我的 DeepSeek Harness 开源贡献实战手记](https://blog.csdn.net/Rosanci/article/details/166950722)
+
++ [双向分流FIN标记、TCB服务逻辑与TCP断开连接流程介绍](https://blog.csdn.net/2401_86112610/article/details/166949176)
+
++ [HarmonyOS 7 新特性5：平行视界——轻视界文集的两栏阅读与窗口状态边界矩阵真机实测](https://blog.csdn.net/sjw890821sjw/article/details/166849396)
+
++ [《Linux 网络编程》深入理解 IO 多路复用：select服务器完善、poll 接口详解与服务端改造实战](https://blog.csdn.net/2501_91275995/article/details/166840854)
+
++ [1.1 清印 ClearMark — 一款本地文档去水印工作台的完整设计与实现](https://blog.csdn.net/u010972645/article/details/166948391)
+
++ [Cursor 省 Token 实战：Rules 分层与 mcp.json 按需加载降一半无效上下文](https://blog.csdn.net/qq_41856814/article/details/166900753)
+
++ [自己做外卖配送系统用什么系统？四端架构与交付方式选型指南](https://blog.csdn.net/weixin_51117207/article/details/166889035)
+
++ [2026 年 9 月 K8s 生产实录终极大复盘：云原生高可用混合云与大规模算力治理体系](https://blog.csdn.net/2609_95049439/article/details/166898932)
+
++ [JQuick-Excel HEADER 设置实战：首行语义、MAPPING 配合与导入导出验收](https://blog.csdn.net/PaoHaiJiao/article/details/166936216)
+
++ [YOLO航拍小目标检测mAP上不去？注意力机制+多尺度融合落地指南](https://blog.csdn.net/shanwei_spider/article/details/166984601)
+
++ [Redis 之 【缓存架构、分布式锁】](https://blog.csdn.net/zl_dfq/article/details/166645934)
+
++ [AI 编程智能体 02：AI智能体到底是什么](https://blog.csdn.net/2503_92624912/article/details/166948977)
+
++ [Spark SQL 窗口函数高级应用：优化查询性能与实现复杂数据分析](https://blog.csdn.net/qq_41840843/article/details/166946959)
+

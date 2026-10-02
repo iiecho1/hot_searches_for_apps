@@ -169,3 +169,7 @@
 
 + [英国海上贸易行动办公室：一油轮通过霍尔木兹海峡时遇袭](https://news.cctv.com/2026/10/02/ARTIlOStkV6b0YuiXeCI5XAo261002.shtml)
 
++ [巴西调查美国涉嫌利用拨款干涉巴选举和司法机构运作](https://news.cctv.com/2026/10/02/ARTIyeDm88aTQ2R7JGcGCgzQ261002.shtml)
+
++ [检察厅关闭 韩国公诉厅和重大犯罪调查厅正式成立](https://news.cctv.com/2026/10/02/ARTI4GcDvq5V0SaTj26KTquz261002.shtml)
+
