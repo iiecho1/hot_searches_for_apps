@@ -161,3 +161,11 @@
 
 + [美“艾森豪威尔”号航母发生着舰事故 两飞行员弹射逃生](https://news.cctv.com/2026/09/29/ARTIMbd3K6tQcfaucyk32p5G260929.shtml)
 
++ [以色列空袭加沙致5人死亡 哈马斯发声明谴责](https://news.cctv.com/2026/10/04/ARTIZwUlWluVa5YHI0of11dE261004.shtml)
+
++ [埃及总统呼吁非洲深化经济一体化应对全球挑战](https://news.cctv.com/2026/10/04/ARTILCqMxI0rhQ74jbvQa6nw261004.shtml)
+
++ [国际能源署：已释放约3.25亿桶战略石油储备](https://news.cctv.com/2026/10/04/ARTIWnFi8m8HkXWd2815pMF6261004.shtml)
+
++ [澳大利亚汽车冲撞人群事件司机被控九项罪名](https://news.cctv.com/2026/10/04/ARTIbfX7H3NAAJTdMHXWVTPC261004.shtml)
+

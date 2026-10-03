@@ -101,3 +101,39 @@
 
 + [地图前端少写 200 行的库，和一台“改需求要重新接线“的机器](https://blog.csdn.net/weixin_41940856/article/details/166994810)
 
++ [单 Agent 架构模式：ReAct、Plan-Execute、Reflexion 三种模式实战对比](https://blog.csdn.net/sinat_41617212/article/details/167038378)
+
++ [MySQL上手-库与表的操作编码校验集与备份还原](https://blog.csdn.net/xiongditian/article/details/167036496)
+
++ [【TextIn xParse 与 Workbuddy实践】我把答辩材料丢给 AI 审了一遍，它开始追着我要证据](https://blog.csdn.net/lwcwam/article/details/166945842)
+
++ [基于 YOLO11 的多语种交通标志与信号灯识别系统 | 完整源码分享](https://blog.csdn.net/weixin_52908342/article/details/161316291)
+
++ [GitHub 热榜项目 - 周榜(2026-10-03)](https://blog.csdn.net/u014390502/article/details/167039912)
+
++ [基于 Cesium + 天地图的三维地理可视化：以“岳麓山名人墓“为例，详解地形夸张、自动环绕与标签碰撞避让](https://blog.csdn.net/yelangkingwuzuhu/article/details/166903916)
+
++ [虚拟同步发电机VSG+虚拟阻抗限流+提供暂态稳定性Matlab仿真](https://blog.csdn.net/m0_57702748/article/details/167039572)
+
++ [ubuntu图形化和命令行查看硬件参数方式汇总-Surface Go](https://blog.csdn.net/ZhangRelay/article/details/167039241)
+
++ [Linux：进程概念](https://blog.csdn.net/Yjjh9420/article/details/166994001)
+
++ [DeepSeek Harness 桌面版实测：Agent 的“壳“开箱即用了，我拿到手先玩了这四件事](https://blog.csdn.net/wodekouwei/article/details/166949694)
+
++ [Kubernetes - 集群事件（Events）的查看与故障分析](https://blog.csdn.net/qq_41187124/article/details/157587639)
+
++ [HTML2.0](https://blog.csdn.net/H206107/article/details/167036029)
+
++ [用蓝耘批量推理处理5000条电商评论：从数据准备到情感分类的完整链路实测](https://blog.csdn.net/Pocker_Spades_A/article/details/167037737)
+
++ [7天学会SpringBoot+Vue3企业级项目RuoyiOffice（二）：启动篇——从源码到前后端联调，跑通开发环境](https://blog.csdn.net/zhouzhongyan/article/details/166982282)
+
++ [Golang Web后台管理框架推荐：Gin、GoFrame与数据面板项目怎么分](https://blog.csdn.net/ttwuai/article/details/166943596)
+
++ [# 从 192 秒到 13 秒：Apache Flink 批处理极速调优实战记录](https://blog.csdn.net/nvd11/article/details/166959830)
+
++ [NVLink GPU-to-GPU：本地GPU L2 是否缓存远端 GPU 数据](https://blog.csdn.net/eloudy/article/details/166994796)
+
++ [《基于muduo和httplib的分布式IoT数据采集与存储系统》](https://blog.csdn.net/Frank_refuel/article/details/164633429)
+

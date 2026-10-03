@@ -21,3 +21,7 @@
 
 + [体感上， ChatGPT plus 5 小时额度少于 Claude pro](https://www.v2ex.com/t/1246251)
 
++ [你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？](https://www.v2ex.com/t/1246258)
+
++ [求问，安卓，有啥好用的，轻量使用的 RSS？](https://www.v2ex.com/t/1246205)
+
