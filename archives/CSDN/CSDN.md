@@ -107,3 +107,43 @@
 
 + [阿里云百炼与通义千问接入](https://blog.csdn.net/Question_123456/article/details/166988999)
 
++ [【PBAP】规范精讲[3]: 蓝牙PBAP协议应用层核心——电话本数据的格式与交互逻辑解析](https://blog.csdn.net/weixin_37800531/article/details/166645928)
+
++ [从 Demo 到生产级 Agent：8 个决定生死的设计机制（附 Python 实现）](https://blog.csdn.net/m0_74207467/article/details/166903734)
+
++ [当 AI agent 群集出现时，银行能跟上吗？](https://blog.csdn.net/UbuntuTouch/article/details/167035034)
+
++ [Apple收紧macOS全盘访问：一个给备份设计的开关，怎么被AI Agent用成了“读你全部消息“的通行证](https://blog.csdn.net/weixin_39885962/article/details/167027513)
+
++ [DiPlay 实测：iPhone 绕过硬件盒子直连 BYD 车机的思路拆解](https://blog.csdn.net/2402_83344867/article/details/166993001)
+
++ [时序数据库选型指南：从大数据架构视角拆解 Apache IoTDB 的适用边界](https://blog.csdn.net/m0_52165864/article/details/166991265)
+
++ [DeepSeek Harness 桌面版实测：Agent 的“壳“开箱即用了，我拿到手先玩了这四件事](https://blog.csdn.net/wodekouwei/article/details/166949694)
+
++ [Spike-pk在RISC-V RTL开发验证中的应用：黄金参考基准](https://blog.csdn.net/weixin_47996968/article/details/166896359)
+
++ [Kubernetes - 集群事件（Events）的查看与故障分析](https://blog.csdn.net/qq_41187124/article/details/157587639)
+
++ [GPT-6系列模型怎么选？官方指南来了](https://blog.csdn.net/weixin_41961749/article/details/167011049)
+
++ [# 从 192 秒到 13 秒：Apache Flink 批处理极速调优实战记录](https://blog.csdn.net/nvd11/article/details/166959830)
+
++ [走近极客：SparkofSpike到底是怎样的人？](https://blog.csdn.net/2601_97120961/article/details/166995999)
+
++ [2026 年 9 月 K8s 生产实录终极大复盘：云原生高可用混合云与大规模算力治理体系](https://blog.csdn.net/2609_95049439/article/details/166898932)
+
++ [AgentScope Java 实战 05：Spring Boot 整合——11 个官方 starter 的自动装配路线](https://blog.csdn.net/qq_38235138/article/details/166590971)
+
++ [Flutter 鸿蒙化实战：flutter_nfc_kit 适配 OpenHarmony，NFC 读写一步到位](https://blog.csdn.net/m0_73818582/article/details/166986148)
+
++ [【高频场景题】怎样进行缓存预热](https://blog.csdn.net/Evie_Wang/article/details/166896922)
+
++ [零售CRM里的RFM会员分层：字段口径、计算规则与POC验收](https://blog.csdn.net/2606_96887730/article/details/166994521)
+
++ [AWS系列之Glue](https://blog.csdn.net/lonelymanontheway/article/details/165492262)
+
++ [快速实验篇（B06）页面单跳转化率](https://blog.csdn.net/weixin_39635634/article/details/166995859)
+
++ [PDF浏览器（阅读、编辑、新建）](https://blog.csdn.net/polloo2012/article/details/166899362)
+

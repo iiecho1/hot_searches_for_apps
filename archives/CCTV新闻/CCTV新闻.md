@@ -173,3 +173,13 @@
 
 + [美海岸警卫队称拦截一艘向古巴运送燃料的货轮](https://news.cctv.com/2026/10/03/ARTIupR3tpd7XE58I2JEjrFV261003.shtml)
 
++ [冈本三成接任日本在野党公明党党首](https://news.cctv.com/2026/10/03/ARTIbowuKl9fEAMUaOMlJUmb261003.shtml)
+
++ [特朗普称对伊朗下一步行动“进展顺利”](https://news.cctv.com/2026/10/03/ARTIbkpErC0rpYnFoY3rzTor261003.shtml)
+
++ [俄罗斯“中部-2026”战略演习闭幕 中方参演部队圆满完成演习任务后启程回撤](https://military.cctv.com/2026/10/03/ARTI9GBVl8ccW150qakgxGvr261003.shtml)
+
++ [消息人士：迪拜航空客机涉嫌刺伤机长的副驾驶承认意图“坠毁飞机”](https://news.cctv.com/2026/10/03/ARTI23taChKRh4KbvUFgiFL6261003.shtml)
+
++ [澳大利亚汽车冲撞人群事件已致9人受伤 肇事司机被捕](https://news.cctv.com/2026/10/03/ARTIiDW61LMLz5gmr1YzJ9Rw261003.shtml)
+
