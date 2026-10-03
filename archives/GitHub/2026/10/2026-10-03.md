@@ -35,3 +35,23 @@
 
 + [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
 
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
++ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
++ [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [earendil-works/pi](https://github.com/earendil-works/pi)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+
++ [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
+
++ [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+

@@ -87,3 +87,41 @@
 
 + [【中文字幕】敌人 /えねみぃ feat. 初音ミク・重音テト【ピノキオピー】](https://m.acfun.cn/v/?ac=48886980)
 
++ [你所说的vs广东人听到的](https://m.acfun.cn/v/?ac=48888275)
+
++ [网络上常见的热门短视频集锦   第三千四百六十六期](https://m.acfun.cn/v/?ac=48887947)
+
++ [是啊，吃什么呢？【今天有什么好笑的 #2525】](https://m.acfun.cn/v/?ac=48888407)
+
++ [傻鳥的變形，紙糊的金剛！FC經典臭作《擎天柱之謎》到底能有多爛？](https://m.acfun.cn/v/?ac=48888484)
+
++ [让你永远都牵着我走 你愿意吗](https://m.acfun.cn/v/?ac=48888496)
+
++ [【付小远】第一次为自己的歌曲录制吉他solo！](https://m.acfun.cn/v/?ac=48883403)
+
++ [这两步走的太拉风了！](https://m.acfun.cn/v/?ac=48888491)
+
++ [黑暗与死亡的化身，玩弄生命的大师，他就是不死之王纳迦什-《全战：战锤3》新DLC-终焉之主简介](https://m.acfun.cn/v/?ac=48887804)
+
++ [这‘蕾米埃尔’就 … 离谱啊？！极致数值怪：菌烨 yyds~](https://m.acfun.cn/v/?ac=48888435)
+
++ [吹晚风~](https://m.acfun.cn/v/?ac=48887538)
+
++ [PAC in Dragon Gate (2007-2011)](https://m.acfun.cn/v/?ac=48887337)
+
++ [Dragon Gate The Gate Of Victory 第一日 2026.10.02](https://m.acfun.cn/v/?ac=48887216)
+
++ [粉红暴力名场面，女赌徒的复仇之路！详解《不良御姐传 猪鹿蝶》](https://m.acfun.cn/v/?ac=48888098)
+
++ [朽叶](https://m.acfun.cn/v/?ac=48888718)
+
++ [【猪肝来也】巴拉莱卡](https://m.acfun.cn/v/?ac=48888436)
+
++ [【逛吃哈尔滨】道外到底藏了多少好吃的！草帽油饼大骨棒香飞了呀](https://m.acfun.cn/v/?ac=48887204)
+
++ [佐天泪子 运动成熟系慢摇【AI动画/超清】](https://m.acfun.cn/v/?ac=48884387)
+
++ [这对吗？我转圈圈艾琳呢](https://m.acfun.cn/v/?ac=48887355)
+
++ [你丢的是这个千咲还是这只卡皮巴拉？](https://m.acfun.cn/v/?ac=48888562)
+

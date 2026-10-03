@@ -147,3 +147,29 @@
 
 + [PDF浏览器（阅读、编辑、新建）](https://blog.csdn.net/polloo2012/article/details/166899362)
 
++ [如何把AI Agent托管在家里电脑：2026年UU远程终端/CLI/端口映射/网络代理开发者实测](https://blog.csdn.net/2302_79376097/article/details/167035733)
+
++ [从生成到进入：AI视频如何从Sora神话沦为0.05元/秒的大宗商品，又成为82亿美元的世界门票](https://blog.csdn.net/weixin_55221858/article/details/166989489)
+
++ [【Transformer】Tokenization详解_BPE_WordPiece_SentencePiece](https://blog.csdn.net/2302_78391795/article/details/166902731)
+
++ [WorkBuddy 模型选型实操：0.03 倍的 Space-Bunny 怎么用、派什么活、避什么坑](https://blog.csdn.net/2202_75716091/article/details/167036244)
+
++ [C# MVC 跨框架异常处理对比：.NET Framework 与 .NET Core 实现差异（附代码+避坑指南）](https://blog.csdn.net/William_cl/article/details/167037121)
+
++ [【花雕学编程】Arduino BLDC 之野外巡检机器人 - 四轴独立调平（IMU + 丝杠/直线执行器）](https://blog.csdn.net/weixin_41659040/article/details/166982295)
+
++ [EPUB、MOBI、PDF 这三种格式对比](https://blog.csdn.net/dllglvzhenfeng/article/details/167035986)
+
++ [时序数据库怎么选？从大数据架构看 IoTDB 的适用场景与落地方法](https://blog.csdn.net/qyj19920704/article/details/166995497)
+
++ [基于 YOLO11 的番茄九类病害智能识别系统 | 源码识别系统分享](https://blog.csdn.net/weixin_52908342/article/details/161316255)
+
++ [SpringBoot3+Vue3 企业费用管理：从预算申请、发票报销到借款冲销与付款闭环](https://blog.csdn.net/zhouzhongyan/article/details/166493706)
+
++ [Spring 全注解开发详解](https://blog.csdn.net/weixin_51288065/article/details/166840127)
+
++ [docker compose up卡住？用run解决输入问题](https://blog.csdn.net/2403_87943735/article/details/166992726)
+
++ [【Java项目-企悦抽】14-活动管理模块01-创建活动的实现](https://blog.csdn.net/2301_81982617/article/details/166945578)
+

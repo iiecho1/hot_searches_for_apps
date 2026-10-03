@@ -39,3 +39,11 @@
 
 + [16U 落地机架 U 位设备布局与理线顺序，求 V 友帮看是否有坑](https://www.v2ex.com/t/1246216)
 
++ [没明白为什么突然就应激了](https://www.v2ex.com/t/1246252)
+
++ [Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了](https://www.v2ex.com/t/1246247)
+
++ [求问，安卓，有啥好用的，轻量使用的 RSS？](https://www.v2ex.com/t/1246205)
+
++ [体感上， ChatGPT plus 5 小时额度少于 Claude pro](https://www.v2ex.com/t/1246251)
+

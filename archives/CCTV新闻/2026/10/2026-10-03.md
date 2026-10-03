@@ -183,3 +183,7 @@
 
 + [澳大利亚汽车冲撞人群事件已致9人受伤 肇事司机被捕](https://news.cctv.com/2026/10/03/ARTIiDW61LMLz5gmr1YzJ9Rw261003.shtml)
 
++ [巴基斯坦就印度边防人员打死巴平民召见印临时代办](https://news.cctv.com/2026/10/03/ARTI8PSSUSPxPgQmKyPFwXsk261003.shtml)
+
++ [《欧盟儿童法案》向公众征集意见](https://news.cctv.com/2026/10/03/ARTIOS6vmRsaNCwJZ2nUfm1g261003.shtml)
+
