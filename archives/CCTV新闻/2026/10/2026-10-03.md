@@ -161,3 +161,15 @@
 
 + [尼泊尔北部希姆隆峰雪崩已致4人遇难](https://news.cctv.com/2026/09/28/ARTIqBvK3M32reEsvxYlA9MY260928.shtml)
 
++ [迪拜航空驾驶舱冲突袭击者据称曾因极端主义观点被解职](https://news.cctv.com/2026/10/03/ARTIDjHC4Y7zK8apwzNzkvby261003.shtml)
+
++ [OpenAI披露澳大利亚又一政府机构遭入侵](https://news.cctv.com/2026/10/03/ARTI3jDXniV5jQDx59hwBf6y261003.shtml)
+
++ [特朗普：与伊朗的战事将“很快结束”](https://news.cctv.com/2026/10/03/ARTILy5skLA30N4EpCzN8raM261003.shtml)
+
++ [巴消息人士：印度边防人员在边境打死两名巴平民](https://news.cctv.com/2026/10/03/ARTIeLeGHNaZTnLSB9F5aItl261003.shtml)
+
++ [俄方称尚未就黑海安全与任何国家进行双边谈判](https://news.cctv.com/2026/10/03/ARTIve9c6L5k3vvNq3dCNd7p261003.shtml)
+
++ [美海岸警卫队称拦截一艘向古巴运送燃料的货轮](https://news.cctv.com/2026/10/03/ARTIupR3tpd7XE58I2JEjrFV261003.shtml)
+

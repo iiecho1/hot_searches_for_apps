@@ -101,3 +101,9 @@
 
 + [（Zotero必装插件 —— pdf全文翻译神器 附带下载链接）Zotero PDF2zh：在文献库中翻译英文论文，保留排版与双语对照](https://blog.csdn.net/2301_79760264/article/details/166992918)
 
++ [用仓颉写一个 Tauri：IPC 的每次往返实现原理（web层到仓颉层的触发过程）](https://blog.csdn.net/qq8864/article/details/166993017)
+
++ [智慧交通运输监管平台业务建模与架构解析](https://blog.csdn.net/weixin_67440240/article/details/166830709)
+
++ [阿里云百炼与通义千问接入](https://blog.csdn.net/Question_123456/article/details/166988999)
+
