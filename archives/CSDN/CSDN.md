@@ -137,3 +137,11 @@
 
 + [《基于muduo和httplib的分布式IoT数据采集与存储系统》](https://blog.csdn.net/Frank_refuel/article/details/164633429)
 
++ [两台三相同步发电机并联运行Simulink仿真](https://blog.csdn.net/matlab_dingdang/article/details/167039543)
+
++ [动手前先过一遍：Web 安全自学要自查的四个问题](https://blog.csdn.net/2301_80217102/article/details/166982069)
+
++ [2026年10月4日算电协同行业早报：上架率71.4%、使用率仅30%——「建得多」的时代结束了，「调得动」才是真正的护城河 | 貮号开源算电协同平台](https://blog.csdn.net/Roinli/article/details/167041218)
+
++ [Flutter 鸿蒙化实战：flutter_quick_video_encoder 适配 OpenHarmony，逐帧编码视频](https://blog.csdn.net/m0_73818582/article/details/166986264)
+
