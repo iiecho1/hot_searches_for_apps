@@ -163,3 +163,25 @@
 
 + [深耕精密驱动26载，捷昌驱动发力机器人空心杯电机产业化](https://blog.csdn.net/HZjiangzi/article/details/167037739)
 
++ [【从零写一个CAD 05】以鼠标为中心的滚轮缩放：招法能复用，顺序不能反](https://blog.csdn.net/2302_80177460/article/details/167074305)
+
++ [LLaMA系列架构详解_Meta开源大模型的技术演进](https://blog.csdn.net/2302_78391795/article/details/167072509)
+
++ [7天学会SpringBoot+Vue3企业级项目RuoyiOffice（四）：前端篇——从菜单路由到表单列表，完成业务页面](https://blog.csdn.net/zhouzhongyan/article/details/166982287)
+
++ [全栈工程师的 RAG 检索：为什么你的知识库“答得挺像，就是不对“](https://blog.csdn.net/Rosanci/article/details/167040751)
+
++ [混沌拓扑学（HDT）演化网论：群体拓扑自洽演化论](https://blog.csdn.net/2602_96503874/article/details/167080817)
+
++ [大模型技术全景(十四)：Skill 技能封装与渐进式披露](https://blog.csdn.net/2502_94387000/article/details/166892891)
+
++ [【DGX Spark 实战】llama.cpp 调优实录：三个改动，decode 从 15 到 24 t/s](https://blog.csdn.net/redhat77/article/details/167075217)
+
++ [Lucene 索引在磁盘上，为什么搜索仍然很快？理解内存映射与文件缓存](https://blog.csdn.net/usappstore/article/details/167078779)
+
++ [开源FarmBot：网页画格子，机器去种菜](https://blog.csdn.net/buhuidage/article/details/167041294)
+
++ [SA-02 ReAct原理深度解读](https://blog.csdn.net/u010902120/article/details/167072157)
+
++ [Transformer 的架构原理](https://blog.csdn.net/weixin_47748259/article/details/166993644)
+

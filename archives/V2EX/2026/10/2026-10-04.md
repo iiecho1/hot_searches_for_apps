@@ -31,3 +31,17 @@
 
 + [我想请问一下现在推广区是不能发广告了吗？](https://www.v2ex.com/t/1246284)
 
++ [IINA 1.5.0 发布了](https://www.v2ex.com/t/1246346)
+
++ [国庆参加表哥的婚礼，让我有点不同的人生感悟](https://www.v2ex.com/t/1246308)
+
++ [公司让开发个某书刷阅读系统](https://www.v2ex.com/t/1246332)
+
++ [claude 的 100 刀在苹果商店要加 24 刀税,如何避免?](https://www.v2ex.com/t/1246350)
+
++ [macOS 上 ChatGPT 客户端长期无法使用](https://www.v2ex.com/t/1246331)
+
++ [相比 AI 的能力，觉得更可怕是它进步的速度、变化的幅度。](https://www.v2ex.com/t/1246322)
+
++ [中国人能飞小游戏](https://www.v2ex.com/t/1246289)
+

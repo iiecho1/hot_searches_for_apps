@@ -171,3 +171,17 @@
 
 + [印尼松巴哇岛南部海域发生5.8级地震，震源深度50千米](https://news.cctv.com/2026/10/04/ARTIjABkXRzmlPD92kRD5Rj5261004.shtml)
 
++ [乌首都基辅响起强烈爆炸声 一桥梁再次遭袭](https://news.cctv.com/2026/10/04/ARTI9rStnVaOIUPT6h17Etoh261004.shtml)
+
++ [俄官员警告美方勿封锁俄版“星链”系统](https://news.cctv.com/2026/10/04/ARTI0aj09mdiwgBvkWJ5NZql261004.shtml)
+
++ [驻日美军涉嫌杀人案引日方抗议 美方承诺全面配合调查](https://news.cctv.com/2026/10/04/ARTIokWXI8H0N8YYW2YVVNSH261004.shtml)
+
++ [日方就驻日美军涉嫌杀人案向美方提出抗议](https://news.cctv.com/2026/10/04/ARTIBgXkWtFX7EMfbCqPHEIZ261004.shtml)
+
++ [涉嫌抢劫杀人 一驻日美军士兵被日本警方逮捕](https://news.cctv.com/2026/10/04/ARTICmWGVh8QtuQ7rJqTkYge261004.shtml)
+
++ [伊朗革命卫队近日对7艘“违规”油轮采取行动](https://news.cctv.com/2026/10/04/ARTILquIyNqQRHUiZO6wzxrL261004.shtml)
+
++ [美官员：美国将伊朗联合国大会代表团两名成员驱逐出境](https://news.cctv.com/2026/10/04/ARTIJSRCcqYBTVPjLxPZxG0K261004.shtml)
+
