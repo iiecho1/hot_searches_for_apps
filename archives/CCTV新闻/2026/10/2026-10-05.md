@@ -161,3 +161,13 @@
 
 + [曼苏里成为摩洛哥首位女首相](https://news.cctv.com/2026/09/30/ARTIKoIXZNqZ2IcwoJROYdJF260930.shtml)
 
++ [消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼](https://news.cctv.com/2026/10/05/ARTISggZqSZkE21GJHHj50Ah261005.shtml)
+
++ [尼加拉瓜宣布退出中美洲议会](https://news.cctv.com/2026/10/05/ARTI6PmPUDwWJVYoCdbV6O77261005.shtml)
+
++ [美国撤回部署在英国的B-1轰炸机](https://news.cctv.com/2026/10/05/ARTIeuSkl9SrJ8474ydQNmmn261005.shtml)
+
++ [以色列交通部收紧对赴以航班外国机组人员限制](https://news.cctv.com/2026/10/05/ARTIhh9BfWOePaBCZx0UsiK2261005.shtml)
+
++ [也门政府宣布启动行动以收复胡塞武装近期控制地区](https://news.cctv.com/2026/10/05/ARTIjkw1KmC2BXmJJRm9MAfz261005.shtml)
+

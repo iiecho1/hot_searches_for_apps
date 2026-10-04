@@ -101,3 +101,17 @@
 
 + [硬件选型笔记：LS05-13B24R3 与钡特电源 AS05-23S24 互通特性分析](https://blog.csdn.net/weixin_50059019/article/details/167039000)
 
++ [ai全栈软件开发day26](https://blog.csdn.net/weixin_68128401/article/details/167040496)
+
++ [动手前先过一遍：Web 安全自学要自查的四个问题](https://blog.csdn.net/2301_80217102/article/details/166982069)
+
++ [Spring 事务管理与数据访问详解](https://blog.csdn.net/weixin_49076592/article/details/167036562)
+
++ [Docker 命令全景指南：从镜像构建到生产运维](https://blog.csdn.net/luxili/article/details/167085546)
+
++ [Spring AI 停止生成设计：从进程内状态到分布式任务控制](https://blog.csdn.net/qq_65052774/article/details/167037482)
+
++ [【知识讲解】 Linux磁盘与文件系统认识](https://blog.csdn.net/2501_93971468/article/details/167081440)
+
++ [人口增长问题：从 Malthus 到 Logistic 的建模之旅](https://blog.csdn.net/2501_93881005/article/details/167085430)
+
