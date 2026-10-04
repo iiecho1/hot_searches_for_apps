@@ -25,3 +25,27 @@
 
 + [特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%](https://m.ithome.com/html/1009389.htm)
 
++ [华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型](https://m.ithome.com/html/1009580.htm)
+
++ [华为 Mate 90 Pro Max 旗舰机首个版本更新内容曝光，实装四卡三待、3D 动态照片等功能](https://m.ithome.com/html/1009539.htm)
+
++ [经典永不过时：智感旋转功能在 Mate 90 系列手机回归，华为智慧感知能力再补关键一环](https://m.ithome.com/html/1009568.htm)
+
++ [华为四代 τ 芯片首次集体亮相，余承东详解麒麟 9050 系列首发逻辑折叠技术](https://m.ithome.com/html/1009633.htm)
+
++ [余承东：华为半导体已在手机、AI、智能汽车等领域成功设计并量产 381 款 τ 芯片](https://m.ithome.com/html/1009638.htm)
+
++ [苹果 iPhone 18 Pro 系列手机海南免税价格出炉：相比官网正价便宜约 200-1430 元](https://m.ithome.com/html/1009649.htm)
+
++ [消息称苹果 iPhone 18 Pro 系列 W39 国内累计销量 176 万台](https://m.ithome.com/html/1009662.htm)
+
++ [网友曝光比亚迪汽车兆瓦闪充桩线缆被儿童当“秋千”荡着玩，客服回应称将联系站点员工巡查](https://m.ithome.com/html/1009658.htm)
+
++ [苹果 MacBook Pro 外接 iPhone 17 Pro Max 运行 AI 模型，预填充性能最高提升 44%](https://m.ithome.com/html/1009586.htm)
+
++ [罚 6000 元扣 12 分：深圳一车主 2026 国庆期间连续 2 天走应急车道被处罚](https://m.ithome.com/html/1009651.htm)
+
++ [余承东：华为星河通信团队驾驶享界 G9 实测独库公路，98.7% 路段信号都很好](https://m.ithome.com/html/1009575.htm)
+
++ [七彩虹推出国产颗粒 DDR5 6000 CL30 台式机内存条，32GB 售价 3999 元](https://m.ithome.com/html/1009640.htm)
+

@@ -45,3 +45,13 @@
 
 + [中国人能飞小游戏](https://www.v2ex.com/t/1246289)
 
++ [实测， 6.1sol 不降智真的太能打了，我感觉不比 6astra 差，但是价格只有 5 分之一，一天下来十来块钱随便蹬，真的不要太爽了。](https://www.v2ex.com/t/1246355)
+
++ [下周 25 周岁，公司没了，想尝试跨考 28 考研的科软，求意见](https://www.v2ex.com/t/1246360)
+
++ [还有人说这波 Personal AI Agent 是伪需求？](https://www.v2ex.com/t/1246315)
+
++ [大模型对 Vuejs 支持不如 react：](https://www.v2ex.com/t/1246345)
+
++ [想入个 macmini 做 iOS 开发 16g 够用吗](https://www.v2ex.com/t/1246403)
+

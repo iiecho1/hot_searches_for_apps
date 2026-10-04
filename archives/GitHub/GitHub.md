@@ -39,3 +39,17 @@
 
 + [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 
++ [tester-army/e2e](https://github.com/tester-army/e2e)
+
++ [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
++ [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+
++ [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
++ [caddyserver/caddy](https://github.com/caddyserver/caddy)
+
++ [garrytan/gstack](https://github.com/garrytan/gstack)
+
++ [antirez/ds4](https://github.com/antirez/ds4)
+

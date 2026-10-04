@@ -185,3 +185,19 @@
 
 + [美官员：美国将伊朗联合国大会代表团两名成员驱逐出境](https://news.cctv.com/2026/10/04/ARTIJSRCcqYBTVPjLxPZxG0K261004.shtml)
 
++ [联合国人道主义车队在苏丹南部遇袭 1名司机遇难](https://news.cctv.com/2026/10/04/ARTIPH27SGkWqV2apRd1ymVu261004.shtml)
+
++ [胡塞武装称对沙特阿美设施发动袭击](https://news.cctv.com/2026/10/04/ARTIMRJpRI2wxA9GLLi17XWS261004.shtml)
+
++ [伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡](https://news.cctv.com/2026/10/04/ARTIe7nvWAgNksa4vvWfV6MV261004.shtml)
+
++ [巴西总统选举首轮投票正式开始](https://news.cctv.com/2026/10/04/ARTI1utEYi4WGM7gwLCqXm3G261004.shtml)
+
++ [阿根廷瓦尔德斯半岛大量幼鲸死亡 或因细菌感染](https://news.cctv.com/2026/10/04/ARTITx0GWtZic50EkkA86cTY261004.shtml)
+
++ [伊朗称已回应美方提议](https://news.cctv.com/2026/10/04/ARTIZrOvycGD4gIYIsfHkqZN261004.shtml)
+
++ [日本防卫省首次向民众展示长射程导弹](https://news.cctv.com/2026/10/04/ARTIPUFHmBVoZNqq0ilUb0cM261004.shtml)
+
++ [以色列对所有航班提升安保等级 飞行员须接受安全审查](https://news.cctv.com/2026/10/04/ARTIbWFTZ2HqVtQdLkD0zpPJ261004.shtml)
+
