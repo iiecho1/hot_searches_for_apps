@@ -169,3 +169,5 @@
 
 + [澳大利亚汽车冲撞人群事件司机被控九项罪名](https://news.cctv.com/2026/10/04/ARTIbfX7H3NAAJTdMHXWVTPC261004.shtml)
 
++ [印尼松巴哇岛南部海域发生5.8级地震，震源深度50千米](https://news.cctv.com/2026/10/04/ARTIjABkXRzmlPD92kRD5Rj5261004.shtml)
+

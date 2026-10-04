@@ -145,3 +145,21 @@
 
 + [Flutter 鸿蒙化实战：flutter_quick_video_encoder 适配 OpenHarmony，逐帧编码视频](https://blog.csdn.net/m0_73818582/article/details/166986264)
 
++ [从零写一个CAD：中键拖动平移，让图形跟着鼠标走不跑偏](https://blog.csdn.net/2402_83344867/article/details/167032206)
+
++ [Java 应用 Docker 化最佳实践：多阶段构建、Jib / Buildpacks 与镜像瘦身](https://blog.csdn.net/vipxieliang/article/details/167072254)
+
++ [皮层脑网络梯度分析：从连接矩阵到连续层级（附高分文献下载）](https://blog.csdn.net/u011661076/article/details/166897086)
+
++ [图解提示词缓存：同一段提示词，第二次调用为什么便宜](https://blog.csdn.net/2601_96189255/article/details/167072071)
+
++ [【论文阅读】Agent 记忆机制（89）：PersonaAgent——构建 Memory、Persona 与 Action 的持续反馈闭环](https://blog.csdn.net/weixin_45642847/article/details/167040405)
+
++ [传输层协议深度拆解：端口寻址、UDP 报文与 TCP 可靠性机制全解析](https://blog.csdn.net/ztztz111/article/details/167041275)
+
++ [DeepSeek Harness 桌面版 手机远程操控 插件](https://blog.csdn.net/weixin_44803048/article/details/167040888)
+
++ [2026年10月4日算电协同行业早报：2030年算力要吃8000亿千瓦时，智算中心却只用起来30%——把「刚性负荷」变成「可调资源」，才是这轮真正的护城河 | 貮号开源算电协同平台](https://blog.csdn.net/Roinli/article/details/167041218)
+
++ [深耕精密驱动26载，捷昌驱动发力机器人空心杯电机产业化](https://blog.csdn.net/HZjiangzi/article/details/167037739)
+
