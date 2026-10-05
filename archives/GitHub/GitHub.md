@@ -31,3 +31,5 @@
 
 + [antirez/ds4](https://github.com/antirez/ds4)
 
++ [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
+

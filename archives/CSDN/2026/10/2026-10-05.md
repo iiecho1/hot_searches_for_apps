@@ -115,3 +115,17 @@
 
 + [人口增长问题：从 Malthus 到 Logistic 的建模之旅](https://blog.csdn.net/2501_93881005/article/details/167085430)
 
++ [RustDesk 1.5.0发布：WebRTC、HDR 色调映射、剪贴板同步与百余项修复全面汇总](https://blog.csdn.net/weixin_48502062/article/details/167084551)
+
++ [一个人、零预算、抓住风口：我的 GitHub 教程拿到 4500 Star，还出了一本书](https://blog.csdn.net/xianyu120/article/details/167081447)
+
++ [基于 YOLO11 的宠物皮肤病智能检测系统 | 源码实战项目分享](https://blog.csdn.net/weixin_52908342/article/details/161285809)
+
++ [【花雕学编程】Arduino BLDC 之家庭全场景清洁机器人——多传感器环境识别+干湿双模式自适应清洁](https://blog.csdn.net/weixin_41659040/article/details/167021988)
+
++ [【高频场景题】怎样进行缓存预热](https://blog.csdn.net/Evie_Wang/article/details/166896922)
+
++ [错误最多的服务运行正常：使用 ES|QL 从日志进行根因分析](https://blog.csdn.net/UbuntuTouch/article/details/167073546)
+
++ [【嵌入式学习】嵌入式原理知识-RTC，PWR，Flash及低功耗（十）](https://blog.csdn.net/2301_81230001/article/details/167037658)
+

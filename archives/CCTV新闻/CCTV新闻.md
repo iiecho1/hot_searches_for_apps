@@ -171,3 +171,7 @@
 
 + [也门政府宣布启动行动以收复胡塞武装近期控制地区](https://news.cctv.com/2026/10/05/ARTIjkw1KmC2BXmJJRm9MAfz261005.shtml)
 
++ [巴西总统选举首轮投票无人胜出 将进行第二轮角逐](https://news.cctv.com/2026/10/05/ARTIgB3xNdzxeHh6aknGCWDt261005.shtml)
+
++ [德国承诺向乌克兰再提供10亿欧元军援](https://news.cctv.com/2026/10/05/ARTIjsSjAx7tVoMIEx32WE4w261005.shtml)
+
