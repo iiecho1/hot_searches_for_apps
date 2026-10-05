@@ -21,3 +21,7 @@
 
 + [感觉到了一些不好的苗头](https://www.v2ex.com/t/1246516)
 
++ [ai 时代怎么感觉招 js/ts 全栈还是那么少？](https://www.v2ex.com/t/1246444)
+
++ [loon 有没有好用的去 YouTube 广告的插件](https://www.v2ex.com/t/1246475)
+

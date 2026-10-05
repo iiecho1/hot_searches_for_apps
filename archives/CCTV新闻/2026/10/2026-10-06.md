@@ -161,3 +161,13 @@
 
 + [伊朗称已收到美方对其重开霍尔木兹海峡提议的回复](https://news.cctv.com/2026/09/30/ARTIV9zihiM3MfyKgBs9UIz6260930.shtml)
 
++ [俄外交部：将对日本新的反俄措施采取对等反制](https://news.cctv.com/2026/10/06/ARTIOK6SxchemQDQbihnCeA7261006.shtml)
+
++ [法国“戴高乐”号航母发生火灾 无人员受伤](https://news.cctv.com/2026/10/06/ARTIxmtnHLTDDWkiLh7rnqys261006.shtml)
+
++ [特朗普：因“具体威胁” 美军轰炸机撤离英国基地](https://news.cctv.com/2026/10/06/ARTI9EGIkaKBrpUblaaDWEMP261006.shtml)
+
++ [也门胡塞武装称对沙特境内多个目标实施三轮军事行动](https://news.cctv.com/2026/10/06/ARTIpnNbN3picgy52jiOVPte261006.shtml)
+
++ [美国纽约州宣布针对麻疹疫情进入灾难紧急状态](https://news.cctv.com/2026/10/06/ARTIfbwYX8sYS0NcLOuLaaaQ261006.shtml)
+

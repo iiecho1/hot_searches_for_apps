@@ -27,3 +27,5 @@
 
 + [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 
++ [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
+

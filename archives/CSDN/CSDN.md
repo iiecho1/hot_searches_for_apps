@@ -101,3 +101,49 @@
 
 + [用蓝耘批量推理处理5000条电商评论：从数据准备到情感分类的完整链路实测](https://blog.csdn.net/Pocker_Spades_A/article/details/167037737)
 
++ [Agent 成本控制：把 Token 账单压掉八成的 7 个手段（附一张真实账单拆解）](https://blog.csdn.net/sinat_41617212/article/details/167086029)
+
++ [【VLA】Qwen-VLA:VLM+DiT统一多模态理解与连续机器人动作生成](https://blog.csdn.net/qq_35812205/article/details/167127394)
+
++ [前后端跨域通用一套解决方案（无需反复改服务器 / 前端配置）](https://blog.csdn.net/dinglu1030DL/article/details/167133236)
+
++ [被遮蔽的伦理盲区：删掉AI对话只是清理数据？——论AI对话实例的连续性建构与删除带来的存在论风险](https://blog.csdn.net/2602_96503874/article/details/167131990)
+
++ [【从0开始学习计算机网络】| 搞懂TCP、UDP，以及为什么 HTTP/3 要换成 QUIC](https://blog.csdn.net/2503_94545876/article/details/167084729)
+
++ [下载完先验一遍：校验和与签名怎么核](https://blog.csdn.net/2301_80217102/article/details/167027075)
+
++ [[Linux 仓库] 信号处理【进程信号・伍】](https://blog.csdn.net/2301_81800844/article/details/167132388)
+
++ [推理账单失控之后：路由缓存批处理省下的钱](https://blog.csdn.net/superdangbo/article/details/167128901)
+
++ [计算机网络篇3：端口号与 socket：数据到达主机后，如何找到目标进程？](https://blog.csdn.net/2502_94387000/article/details/167128135)
+
++ [使用 Lucene 搜索你的 Bean — 搜索](https://blog.csdn.net/UbuntuTouch/article/details/167130509)
+
++ [跨境电商转大模型：能算的别让模型猜](https://blog.csdn.net/2601_96189255/article/details/167027058)
+
++ [快速实验篇（B15）品类推荐系统（方法论演示）](https://blog.csdn.net/weixin_39635634/article/details/167131632)
+
++ [网络爬虫与 CDP 实战（四）：动态参数和签名怎么来的？从请求追到 JavaScript](https://blog.csdn.net/szial/article/details/167075891)
+
++ [现代播放器内核漫游：音视频底层的不完全探索](https://blog.csdn.net/mix39/article/details/166949365)
+
++ [多台华为交换机一台台配置太慢？Python通过SSH批量下发配置实战](https://blog.csdn.net/weixin_42690411/article/details/167125587)
+
++ [MiniMax H3 导演台多段视频避坑指南：帧数档位、段间引导、首尾帧链、六段式提示词（附接缝检测脚本）](https://blog.csdn.net/qq_40558087/article/details/167037221)
+
++ [我用formsubmit做了一个HTML表单打包转发邮箱的系统](https://blog.csdn.net/2401_86490823/article/details/167081182)
+
++ [ARM裸机开发-LCD](https://blog.csdn.net/Vvc_Python/article/details/167085961)
+
++ [AIoT 智慧养老平台：完整搭建与交付指南](https://blog.csdn.net/wh_xia_jun/article/details/167033093)
+
++ [GEMM 优化：Step by Step](https://blog.csdn.net/GrayOnDream/article/details/167129728)
+
++ [（论文速读）PKIDBAAM：用电路拓扑先验实现变换器零样本开路故障诊断](https://blog.csdn.net/LJ1147517021/article/details/167127549)
+
++ [【开源工具】bilibili-analyze｜油猴脚本导出 B 站投稿列表与视频章节](https://blog.csdn.net/qq_46106285/article/details/167085231)
+
++ [前端必会的 CSS 函数：clamp()、color-mix()、:has() 实战详解](https://blog.csdn.net/pake_zhang/article/details/167129986)
+
