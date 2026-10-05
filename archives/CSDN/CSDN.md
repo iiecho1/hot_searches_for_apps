@@ -129,3 +129,39 @@
 
 + [【嵌入式学习】嵌入式原理知识-RTC，PWR，Flash及低功耗（十）](https://blog.csdn.net/2301_81230001/article/details/167037658)
 
++ [多 Agent 协作架构：Pipeline 模式——串行流水线设计与实战](https://blog.csdn.net/sinat_41617212/article/details/167085906)
+
++ [给大模型画个圈：用System Prompt立规矩，省下Few-shot的Token钱](https://blog.csdn.net/weixin_43151418/article/details/166993086)
+
++ [用一个机器人关节旋转示例串讲欧拉角、四元数、万向锁与Slerp/Lerp插值](https://blog.csdn.net/weixin_43935696/article/details/167085789)
+
++ [从“框架混战“到“运行时收敛“：2026 年 AI Agent 开发框架的三条路线之争](https://blog.csdn.net/m0_74899094/article/details/167082205)
+
++ [全栈工程师的上下文工程：为什么你的 AI 越聊越贵、越聊越傻](https://blog.csdn.net/Rosanci/article/details/167085997)
+
++ [upm：320 KB 的 npm 亲兄弟，凭什么和 Rust 系包管理器掰手腕？](https://blog.csdn.net/mss359681091/article/details/166995699)
+
++ [AI带来的是叙事的革命](https://blog.csdn.net/ACBC12345/article/details/167038964)
+
++ [基于 YOLO11 的道路交通锥视觉识别系统 | 源码实战项目分享](https://blog.csdn.net/weixin_52908342/article/details/161285892)
+
++ [云函数计算FC定时获取天气，自动生成天气插画卡片推送钉钉，零服务器](https://blog.csdn.net/m0_67906358/article/details/167119965)
+
++ [Azure 虚拟桌面混合版正式可用：许可迷雾下，普通开发者该关心什么](https://blog.csdn.net/weixin_44063643/article/details/167118412)
+
++ [MT5 图上交易面板开发（一）：整体架构与功能模块设计](https://blog.csdn.net/FXSuperLee/article/details/167122681)
+
++ [Spring 任务调度与异步执行详解](https://blog.csdn.net/weixin_49076592/article/details/167081533)
+
++ [开源FarmBot：网页画格子，机器去种菜](https://blog.csdn.net/buhuidage/article/details/167041294)
+
++ [uv实战指南-从Python版本虚拟环境到pyproject依赖管理](https://blog.csdn.net/ysu_0314/article/details/166992251)
+
++ [【Python量化系统工程实战 #01】数据存储选型 CSVSQLiteMySQL 对比与 SQLite 实战建库](https://blog.csdn.net/2501_94338261/article/details/167078475)
+
++ [《WiFi 嵌入式物联网开发全套实战》| 第 30 章 WiFi 抗干扰、抗闪断、网络抖动过滤量产策略](https://blog.csdn.net/u011697185/article/details/164341086)
+
++ [为什么你需要一个CSDN社区?创建社区？](https://blog.csdn.net/zxc18344522713/article/details/167084856)
+
++ [CentOS 8 重置root密码完整步骤](https://blog.csdn.net/weixin_44505194/article/details/167038188)
+

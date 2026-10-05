@@ -175,3 +175,11 @@
 
 + [德国承诺向乌克兰再提供10亿欧元军援](https://news.cctv.com/2026/10/05/ARTIjsSjAx7tVoMIEx32WE4w261005.shtml)
 
++ [美军在加勒比海打击“贩毒船”致4死](https://news.cctv.com/2026/10/05/ARTInrzVJRmb3xQh56anYfzu261005.shtml)
+
++ [美“艾森豪威尔”号航母将返美接受事故调查](https://news.cctv.com/2026/10/05/ARTI3Zo0ZgnmfV1jILS52ZFv261005.shtml)
+
++ [澳大利亚调查迪拜航空副驾驶与澳关联](https://news.cctv.com/2026/10/05/ARTI4TIKZB6XMbGeyxlRW8tI261005.shtml)
+
++ [亚运会｜第20届亚洲运动会在日本名古屋闭幕](https://news.cctv.com/2026/10/05/ARTISLfvmuO9ODP1plZwUpuO261005.shtml)
+
