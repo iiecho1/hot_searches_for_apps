@@ -21,3 +21,5 @@
 
 + [大家还搞 Python 吗 , 感觉现在用的不多了啊](https://www.v2ex.com/t/1246645)
 
++ [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636)
+
