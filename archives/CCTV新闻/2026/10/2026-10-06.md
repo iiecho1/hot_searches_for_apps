@@ -175,3 +175,9 @@
 
 + [联合国人权理事会通过中国提出的人人享有无障碍决议](https://news.cctv.com/2026/10/06/ARTIKegZkBt9QqVsNrcopP9b261006.shtml)
 
++ [“还‘慰安妇’一个公道”——菲律宾展览呼吁正视历史](https://news.cctv.com/2026/10/06/ARTImTCiHLoBKKSYWWEhMsQE261006.shtml)
+
++ [胡塞武装称对近期攻下所有区域仍保持控制](https://military.cctv.com/2026/10/06/ARTIPDgeZRCqsyA2XAvlZwyv261006.shtml)
+
++ [中国驻沙特使馆提醒在沙机构和公民注意安全并遵守当地法律](https://news.cctv.com/2026/10/06/ARTIa2YiwKeGhTxkPOekb9Y0261006.shtml)
+
