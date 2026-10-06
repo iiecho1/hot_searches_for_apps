@@ -25,3 +25,11 @@
 
 + [loon 有没有好用的去 YouTube 广告的插件](https://www.v2ex.com/t/1246475)
 
++ [功夫女足讲了什么？](https://www.v2ex.com/t/1246461)
+
++ [[送码] 给 Navidrome 写的安卓播放器 Mu3ic：现代 UI、智能歌单、混音、断网也能听，基础版免费](https://www.v2ex.com/t/1246531)
+
++ [目前还有可用的微信聊天记录导出工具吗，最好不用降级的](https://www.v2ex.com/t/1246515)
+
++ [目前有没有用了两年 Claude 没被封的？](https://www.v2ex.com/t/1246558)
+

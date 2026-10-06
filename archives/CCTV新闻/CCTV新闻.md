@@ -171,3 +171,7 @@
 
 + [美国纽约州宣布针对麻疹疫情进入灾难紧急状态](https://news.cctv.com/2026/10/06/ARTIfbwYX8sYS0NcLOuLaaaQ261006.shtml)
 
++ [加拿大将调查医疗飞机失事 机上6人恐全部遇难](https://news.cctv.com/2026/10/06/ARTI6vb39JQOcZa5bChUjzX3261006.shtml)
+
++ [联合国人权理事会通过中国提出的人人享有无障碍决议](https://news.cctv.com/2026/10/06/ARTIKegZkBt9QqVsNrcopP9b261006.shtml)
+

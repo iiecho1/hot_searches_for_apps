@@ -147,3 +147,25 @@
 
 + [前端必会的 CSS 函数：clamp()、color-mix()、:has() 实战详解](https://blog.csdn.net/pake_zhang/article/details/167129986)
 
++ [MCP 从概念到落地：Java（Spring AI Alibaba）与 .NET 双栈接入实操对比](https://blog.csdn.net/m0_74899094/article/details/167126799)
+
++ [上网第四十三课：路由原理——数据包是怎么找到路的](https://blog.csdn.net/qq_36765170/article/details/167163270)
+
++ [【技术专题】Mysql8 数据库 - Mysql8 数据库基本操作](https://blog.csdn.net/caoli201314/article/details/167082870)
+
++ [【开源小工具】桌面闹钟](https://blog.csdn.net/Aqu415/article/details/167128047)
+
++ [Flink 实时交易监控实战：交易日志解析与交易量、成功率、响应时间的分钟级指标计算](https://blog.csdn.net/Sayai/article/details/167129740)
+
++ [Nginx应用与运维——Nginx在微服务架构中的应用（一）](https://blog.csdn.net/cold___play/article/details/167131913)
+
++ [SpringBoot-API-Scheduler基于SpringBoot的API任务调度系统](https://blog.csdn.net/moshowgame/article/details/167131915)
+
++ [用低代码搭OA和ERP：中小企业多场景落地方案](https://blog.csdn.net/g632522043/article/details/167116227)
+
++ [《高性价比人生指南》开源完整版（How To Live Better）](https://blog.csdn.net/2601_96733043/article/details/167086043)
+
++ [读网络安全法：先分清原则条款、义务条款与罚则条款](https://blog.csdn.net/2301_80217102/article/details/167072061)
+
++ [基于YOLOv8的智能徘徊行为检测系统设计与实现](https://blog.csdn.net/ZSW1218/article/details/167157507)
+
