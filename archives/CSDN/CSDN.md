@@ -123,3 +123,19 @@
 
 + [2026_CSS2 & CSS3_06](https://blog.csdn.net/huinian3/article/details/167177184)
 
++ [【C++高阶系列】异步任务的结果怎么回来？一文理解 future、async、promise、shared_future 与 packaged_task](https://blog.csdn.net/2301_80260194/article/details/167175947)
+
++ [AI Agent 安全治理进入强制时代：从沙盒逃逸到智能体支付，开发者该盯什么](https://blog.csdn.net/m0_74899094/article/details/167174250)
+
++ [DeepSeek Harness 开源贡献手记：从 Issue 认领到 PR 合入的完整实践](https://blog.csdn.net/2603_96980045/article/details/167178743)
+
++ [深入理解5g＜四十＞ sdap层数据包头](https://blog.csdn.net/m0_73457176/article/details/167072304)
+
++ [前端八股: var、let、const 的区别](https://blog.csdn.net/HX0942/article/details/167177284)
+
++ [从一到无穷大 #96：Embedding 模型选型——评测方法与 Memory 系统的现实约束](https://blog.csdn.net/weixin_43705457/article/details/167131870)
+
++ [MT5 图上交易面板开发（二）：图上快速下单的实现——事件流、坐标换价与挂单解析](https://blog.csdn.net/FXSuperLee/article/details/167125630)
+
++ [Games101课程笔记2---线代回顾](https://blog.csdn.net/bdn_nbd/article/details/167130675)
+

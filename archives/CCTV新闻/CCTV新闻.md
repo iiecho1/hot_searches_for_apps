@@ -161,3 +161,11 @@
 
 + [赞比亚宣布暴发新一轮霍乱疫情](https://news.cctv.com/2026/10/01/ARTIBWf0wiWKghJcxAxpmFku261001.shtml)
 
++ [俄国防部：俄军9月接收超1万件各型装备](https://news.cctv.com/2026/10/07/ARTIuDILGMpAGuuO9YWEZWXT261007.shtml)
+
++ [中方敦促国际社会持续助力非洲国家和平与发展](https://news.cctv.com/2026/10/07/ARTIhZQZCUaoG8I2qsMVfhO7261007.shtml)
+
++ [阿根廷外长批评英国政府拒绝就马岛问题谈判](https://news.cctv.com/2026/10/07/ARTIONt1flr4wpLSRLGacMTj261007.shtml)
+
++ [因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制](https://news.cctv.com/2026/10/07/ARTI8iv7DCptCnlL1fWty3tr261007.shtml)
+
