@@ -169,3 +169,25 @@
 
 + [因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制](https://news.cctv.com/2026/10/07/ARTI8iv7DCptCnlL1fWty3tr261007.shtml)
 
++ [消息人士：日本“安保三文件”或加入核潜艇相关内容](https://news.cctv.com/2026/10/07/ARTIWeAShearSTylLMXPXY1j261007.shtml)
+
++ [乌克兰首都遭袭 已致2人死亡](https://news.cctv.com/2026/10/07/ARTIxdt1bDhMBP6EeiRZWDQx261007.shtml)
+
++ [韩国前总统尹锡悦涉嫌违反《政治资金法》案二审被判无罪](https://news.cctv.com/2026/10/07/ARTIGSkavz98d9swaO5rHcrQ261007.shtml)
+
++ [特朗普宣布投资66亿美元建厂造潜艇](https://news.cctv.com/2026/10/07/ARTIh23uLmrSfKS8c9DZ3oIn261007.shtml)
+
++ [一座光伏电站见证中哥绿色合作](https://news.cctv.com/2026/10/07/ARTIU9AdU1zDhnbZtiBatR98261007.shtml)
+
++ [有力推动国际关系民主化](https://news.cctv.com/2026/10/07/ARTIdIao3ol2Fnru5JhSaDz2261007.shtml)
+
++ [推动吉中永久睦邻友好合作迈上新台阶](https://news.cctv.com/2026/10/07/ARTIREuhrbacRJxjvf1fvahd261007.shtml)
+
++ [七国有意申办2036年奥运会 国际奥委会公布遴选步骤](https://news.cctv.com/2026/10/07/ARTI9YwQS82WuYlHuwn9CwCv261007.shtml)
+
++ [美报告对伊战事损失81架军机 包括12架F-15战机](https://news.cctv.com/2026/10/07/ARTIsAut9THKiBAj4fBhJUKd261007.shtml)
+
++ [巴基斯坦成功试射改进型“法塔赫-4”巡航导弹](https://news.cctv.com/2026/10/07/ARTIEhUB4UdBu244vVZdX6vt261007.shtml)
+
++ [韩国考虑废除“金牌免兵役”制度](https://news.cctv.com/2026/10/07/ARTIqkepHoMlfdAROqlRNptg261007.shtml)
+

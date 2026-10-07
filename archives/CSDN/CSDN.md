@@ -139,3 +139,29 @@
 
 + [Games101课程笔记2---线代回顾](https://blog.csdn.net/bdn_nbd/article/details/167130675)
 
++ [Rust 1.99.0发布：C 可变参数、裸函数、Cargo 配置、Rustdoc 性能与大量兼容性调整全解析](https://blog.csdn.net/weixin_48502062/article/details/167130287)
+
++ [基于深度学习的AI去水印技术在微信小程序中的实现与优化](https://blog.csdn.net/llooyyuu/article/details/167085626)
+
++ [使用 Lucene 搜索你的 Bean — 映射](https://blog.csdn.net/UbuntuTouch/article/details/167212900)
+
++ [SpringBoot+Vue3 企业打印架构：审批单、业务凭证与条码标签如何统一设计](https://blog.csdn.net/zhouzhongyan/article/details/166904712)
+
++ [从零写一个CAD 05：以鼠标为中心的滚轮缩放矩阵顺序不能反](https://blog.csdn.net/2402_83344867/article/details/167175628)
+
++ [本地开源语音克隆与视频配音实战：基于 VoiceStudio 搭建你的私有语音工作站](https://blog.csdn.net/yweng18/article/details/167173990)
+
++ [cj-tauri开源项目介绍与imovie观影客户端项目实战](https://blog.csdn.net/qq8864/article/details/167175037)
+
++ [PostgreSQL数据备份和恢复完全指南](https://blog.csdn.net/itfighter2012/article/details/167177038)
+
++ [云原生的两层抽象：Kubernetes 管生命周期，Service Mesh 管流量](https://blog.csdn.net/2501_92769340/article/details/167179043)
+
++ [深度解析：如何正确解读GNSS接收机抗欺骗干扰指标？](https://blog.csdn.net/chen2jiang3/article/details/167177475)
+
++ [【Linux系统】【cd失效背后的进程真相：内建命令的正确打开方式】流食般投喂](https://blog.csdn.net/dj_798/article/details/166243350)
+
++ [Cordova 应用鸿蒙化实战：用 hcordova 把 Web 应用跑在 OpenHarmony 模拟器上](https://blog.csdn.net/hirohrj123/article/details/167177320)
+
++ [分钟线跨午休后时间轴不连续，是数据错了还是 A 股交易时段本来如此？](https://blog.csdn.net/weixin_45515140/article/details/167165450)
+

@@ -25,3 +25,17 @@
 
 + [苹果开放 iPhone Duo 适配应用提交，明年 4 月起上架需提供折叠设备截图](https://m.ithome.com/html/1009942.htm)
 
++ [消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与](https://m.ithome.com/html/1009990.htm)
+
++ [2026 诺贝尔文学奖揭晓在即，中国作家残雪成最热门人选](https://m.ithome.com/html/1009993.htm)
+
++ [12GB 显存显卡跑 125B Qwen3.8 模型：Strata 登场，单张 RTX 5070 跑出 94 词元 / 秒](https://m.ithome.com/html/1010006.htm)
+
++ [高通把 Arm 告上法庭：指控其扣留芯片测试工具、泄露机密，要求免 5 年数十亿美元授权费](https://m.ithome.com/html/1010016.htm)
+
++ [电影《生化危机：爆发夜》 上映 2 天，总票房破 1 亿](https://m.ithome.com/html/1009994.htm)
+
++ [杨利伟：中国空间站将成全球开放实验平台，下半年迎来首批外籍航天员](https://m.ithome.com/html/1010107.htm)
+
++ [苹果首款折叠 iPhone Duo 双页 PDF 模式曝光](https://m.ithome.com/html/1010144.htm)
+
