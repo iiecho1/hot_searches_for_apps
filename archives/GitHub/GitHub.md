@@ -25,3 +25,13 @@
 
 + [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
+
++ [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+
++ [trycua/cua](https://github.com/trycua/cua)
+
++ [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+

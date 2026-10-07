@@ -165,3 +165,35 @@
 
 + [分钟线跨午休后时间轴不连续，是数据错了还是 A 股交易时段本来如此？](https://blog.csdn.net/weixin_45515140/article/details/167165450)
 
++ [AI Agent 说完成了，怎样验证任务真的完成](https://blog.csdn.net/weixin_74809706/article/details/166736285)
+
++ [大模型工程化实战（十七）：金融级 AI 落地——决策可追溯/可复现/可追责/不可抵赖这四件事怎么做](https://blog.csdn.net/xiaobing259/article/details/167121509)
+
++ [Kubernetes - 边缘场景下的 K8s 集群部署与应用适配](https://blog.csdn.net/qq_41187124/article/details/157587769)
+
++ [【Linux系统】【从菜鸟驿站到操作系统：一节课打通Linux重定向与缓冲区真相】流食般投喂](https://blog.csdn.net/dj_798/article/details/166139216)
+
++ [【Web全栈进阶】SQLAlchemy 2.0关系建模：一对多与多对多](https://blog.csdn.net/ntnmywyx/article/details/167125593)
+
++ [【Docker专题】使用Docker部署Vue-Flask项目前后端分离版：【前端Vue3项目部署】](https://blog.csdn.net/qq_41567696/article/details/167129570)
+
++ [【Linux 系统篇(二十七)】文件(四)：Ext 系列文件系统（上）：从物理磁盘到逻辑抽象](https://blog.csdn.net/Huang_jin007/article/details/167220601)
+
++ [物联网教程：ESP32-S3 基于 Wi-Fi + MQTT 的远程 LED 控制](https://blog.csdn.net/hueuyang/article/details/167177164)
+
++ [Kafka 积压 30 万条，根因不是消费者太慢：rebalance 频发的排查实录](https://blog.csdn.net/weixin_71309014/article/details/167219458)
+
++ [MediaBatchTool （抖音视频作品批量下载工具）客户端使用说明书](https://blog.csdn.net/yuhuasheng1997/article/details/167222201)
+
++ [开源 QEMU：不用板子也能跑嵌入式系统](https://blog.csdn.net/buhuidage/article/details/167219470)
+
++ [零门槛上手的RISC-V项目：picorv32](https://blog.csdn.net/weixin_47996968/article/details/167213537)
+
++ [MCU 中的统一地址编址：从地址空间到总线与地址译码](https://blog.csdn.net/bit_pan/article/details/167174230)
+
++ [ 卷王问卷考试系统自动化功能测试](https://blog.csdn.net/gresio/article/details/167173637)
+
++ [Spring Boot Starter机制与自定义详解](https://blog.csdn.net/weixin_49076592/article/details/167175025)
+
++ [QQSafeChat：基于 NapCat + DeepSeek 的 Ubuntu QQ 智能回复机器人](https://blog.csdn.net/qq_57088242/article/details/167221546)
+

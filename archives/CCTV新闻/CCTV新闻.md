@@ -191,3 +191,15 @@
 
 + [韩国考虑废除“金牌免兵役”制度](https://news.cctv.com/2026/10/07/ARTIqkepHoMlfdAROqlRNptg261007.shtml)
 
++ [佩斯科夫：若美方有倡议 将迅速协调普京与特朗普通话](https://news.cctv.com/2026/10/07/ARTIi79J2JabKGfMtnVgsOGt261007.shtml)
+
++ [巴以冲突3年来超2万名巴勒斯坦师生遇害](https://news.cctv.com/2026/10/07/ARTIn9aBuAnmmizKC3zdOu3H261007.shtml)
+
++ [哈马斯发声明纪念“阿克萨洪水”行动三周年 称将致力于履行停火协议](https://news.cctv.com/2026/10/07/ARTILsGn1bjVHjS4jWDgckoZ261007.shtml)
+
++ [万斯：伊朗须“实质性”削减铀浓缩能力才能结束战事](https://news.cctv.com/2026/10/07/ARTI8a2AbZQWKQ7cwHJTOZtG261007.shtml)
+
++ [在泰失联的上海音乐教师已安全回国](https://news.cctv.com/2026/10/07/ARTI4ZOfZRycYCDZTVj09kWM261007.shtml)
+
++ [俄罗斯总统助理、海事委员会主席帕特鲁舍夫将访华](https://news.cctv.com/2026/10/07/ARTISfvNWXlS8U5ikuhhLyO8261007.shtml)
+
