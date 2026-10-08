@@ -27,3 +27,9 @@
 
 + [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 
++ [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
++ [storytold/artcraft](https://github.com/storytold/artcraft)
+
++ [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+

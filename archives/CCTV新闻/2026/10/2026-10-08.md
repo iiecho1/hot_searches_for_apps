@@ -169,3 +169,15 @@
 
 + [总台记者观察丨日本谋求核潜艇计划引发多方坚决反对](https://news.cctv.com/2026/10/08/ARTIjZCfWIZrYknU4sWJYjEm261008.shtml)
 
++ [欧盟理事会延长对俄罗斯相关个人和实体制裁](https://news.cctv.com/2026/10/08/ARTIvB4Zo1Dih0Ix1ITccNtv261008.shtml)
+
++ [德国总理默茨会见英国首相伯纳姆 两国友好条约正式生效](https://news.cctv.com/2026/10/08/ARTIRyX6wHPxDoyaXf1hswCb261008.shtml)
+
++ [施压与试探并行 美酝酿重启对伊朗军事行动](https://news.cctv.com/2026/10/08/ARTINLFSaJkjQjpAoEhQAY2d261008.shtml)
+
++ [中国公民在马尔代夫不幸溺亡 我使馆发布安全提醒](https://news.cctv.com/2026/10/08/ARTIBHFg393naYPa7wLYXlAE261008.shtml)
+
++ [英外交大臣：不接受以色列关闭英驻耶路撒冷领事馆](https://news.cctv.com/2026/10/08/ARTIIG0zEeCPoHLv2H27oiHf261008.shtml)
+
++ [以色列宣布关闭英国驻耶路撒冷领事馆](https://news.cctv.com/2026/10/08/ARTIkHVaBZ6DQqQLgG6P86hL261008.shtml)
+
