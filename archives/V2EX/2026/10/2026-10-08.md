@@ -21,3 +21,5 @@
 
 + [有没有靠谱点的 gpt-image-2 api 服务商](https://www.v2ex.com/t/1246769)
 
++ [Claude 封号无法避免，只能不断想办法重开](https://www.v2ex.com/t/1246729)
+

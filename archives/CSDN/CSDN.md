@@ -101,3 +101,7 @@
 
 + [如何让 AI 事半功倍](https://blog.csdn.net/2501_94207774/article/details/167177410)
 
++ [机器人与机电一体化3D数字孪生机器-Day1](https://blog.csdn.net/qq_53797018/article/details/167224832)
+
++ [AI应用容器化与云原生部署：基于Docker与Kubernetes（AWS/Azure）的最佳实践](https://blog.csdn.net/2302_79737942/article/details/167218984)
+

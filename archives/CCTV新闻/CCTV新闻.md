@@ -161,3 +161,5 @@
 
 + [《欧盟儿童法案》向公众征集意见](https://news.cctv.com/2026/10/03/ARTIOS6vmRsaNCwJZ2nUfm1g261003.shtml)
 
++ [泰国洪灾死亡人数升至60人 多地将迎新一轮强降雨](https://news.cctv.com/2026/10/08/ARTIqe5M7EncgLN9ajzz78kg261008.shtml)
+
