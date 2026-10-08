@@ -163,3 +163,9 @@
 
 + [泰国洪灾死亡人数升至60人 多地将迎新一轮强降雨](https://news.cctv.com/2026/10/08/ARTIqe5M7EncgLN9ajzz78kg261008.shtml)
 
++ [消息人士：沙特启动对迪拜航空安全事件的调查](https://news.cctv.com/2026/10/08/ARTI57I7T6S9U4w6Wi6oBH4J261008.shtml)
+
++ [俄称鼠疫研究机构一员工确诊“不明原因肺炎” 克宫和世卫组织发声](https://news.cctv.com/2026/10/08/ARTIT97V7u9HNAVNua4sX6g7261008.shtml)
+
++ [总台记者观察丨日本谋求核潜艇计划引发多方坚决反对](https://news.cctv.com/2026/10/08/ARTIjZCfWIZrYknU4sWJYjEm261008.shtml)
+

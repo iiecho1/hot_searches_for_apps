@@ -105,3 +105,47 @@
 
 + [AI应用容器化与云原生部署：基于Docker与Kubernetes（AWS/Azure）的最佳实践](https://blog.csdn.net/2302_79737942/article/details/167218984)
 
++ [SpringBoot + Vue3 企业智能体架构：独立服务、独立数据库与主线零侵入](https://blog.csdn.net/zhouzhongyan/article/details/167257935)
+
++ [【排样】亲士套料工具箱](https://blog.csdn.net/he_zhidan/article/details/167222655)
+
++ [Go Goroutine生命周期管理](https://blog.csdn.net/vipxieliang/article/details/167178109)
+
++ [用 Leaflet 在无坐标图片上做空间标注：自定义 Marker、Polyline、Polygon 完整实战](https://blog.csdn.net/yelangkingwuzuhu/article/details/167130820)
+
++ [Spring Boot的核心配置文件一览及其加载顺序](https://blog.csdn.net/2405_88524973/article/details/167226789)
+
++ [【HOGP】规范精讲[6]: HID ISO Service服务定义与GATT落地解析](https://blog.csdn.net/weixin_37800531/article/details/166949458)
+
++ [安卓车机车主必看：免费 CarPlay 开源项目方案 DiPlay，不用盒子怎么连？](https://blog.csdn.net/obliv/article/details/167129203)
+
++ [【论文阅读】Agent 记忆机制（93）：MemCoRL——用协同强化学习联合优化记忆检索与使用](https://blog.csdn.net/weixin_45642847/article/details/167226086)
+
++ [LitePan多网盘影音中枢：WebDAV挂载、STRM生成与缓存管理](https://blog.csdn.net/u010726809/article/details/167270367)
+
++ [43 亿个地址IP是怎么用完的——互联网“门牌号“的短缺史](https://blog.csdn.net/2401_87660168/article/details/167131042)
+
++ [排坑笔记：LangChain 多工具 Agent 完整性校验 return_intermediate_steps 事后核对方案](https://blog.csdn.net/javy21/article/details/167126848)
+
++ [Zed / GPUI 设计觉醒：现代编辑器 Action 机制解读](https://blog.csdn.net/bluishglc/article/details/167225384)
+
++ [DiPlay 车机 CarPlay 配置教程：从 USB 验证到无线连接排障](https://blog.csdn.net/Hello_Pyhx/article/details/167127366)
+
++ [Flink 实时交易监控实战：交易日志解析与交易量、成功率、响应时间的分钟级指标计算](https://blog.csdn.net/Sayai/article/details/167129740)
+
++ [跨境电商图片翻译工具：批量图片翻译+视频字幕+智能抠图一站解决](https://blog.csdn.net/2501_92948487/article/details/167178742)
+
++ [VLA 系统学习第 12 课：为什么机器人不能只看一帧？——时间序列、Observation History 与 Action Chunk](https://blog.csdn.net/qq_56657939/article/details/167225746)
+
++ [FPGA--产品闭环--过去心不可得、现在先不可得，未来心不可得](https://blog.csdn.net/AlibabaApple/article/details/167219927)
+
++ [AutoBio 复现笔记：单张 RTX 5090 + 5000 步 LoRA，实验室机器人成功率从 0% 做到 90%](https://blog.csdn.net/2301_77297031/article/details/167224240)
+
++ [TongWeb 7.0.4.9_Mx 版本漏洞汇总与安全加固指南](https://blog.csdn.net/qq_43489051/article/details/167264525)
+
++ [Docker镜像分层与卷挂载实战：一次容器文件系统排查记录](https://blog.csdn.net/2402_83344867/article/details/167223482)
+
++ [嵌入式 ARMv7 设备能跑 QQ 机器人吗？NapCat + AstrBot 与 Lagrange.Core 实测评估](https://blog.csdn.net/qq_36710118/article/details/167226819)
+
++ [Agent 时代，前端怎么变？读懂 AG-UI、A2UI 与 MCP Apps 的分工与协同（上）](https://blog.csdn.net/DK_Allen/article/details/167261862)
+
