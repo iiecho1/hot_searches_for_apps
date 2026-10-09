@@ -131,3 +131,29 @@
 
 + [港大开源『龙虾交易员』丨Vibe-Trading丨Github热门项目分享](https://blog.csdn.net/m0_56491492/article/details/167222173)
 
++ [Claude系列_Constitutional_AI与RLHF的结合](https://blog.csdn.net/2302_78391795/article/details/167377748)
+
++ [鸿蒙设备远控电脑实测：ToDesk蓝牙键鼠、双模式鼠标、跨端剪贴板，远控电脑更顺手了](https://blog.csdn.net/2401_87629362/article/details/167284266)
+
++ [电子书越存越乱？我用Calibre-Web把飞牛NAS整理成了私人书库](https://blog.csdn.net/lrq13965748542/article/details/167385663)
+
++ [极空间部署Photopea：Docker运行、网页修图与多设备使用](https://blog.csdn.net/LT15171009269/article/details/167392003)
+
++ [图片发出去总怕署名被裁？我用watermark-webui把水印藏进了图片里](https://blog.csdn.net/2302_79177254/article/details/167389850)
+
++ [翻完HelloAgents源码，我搞懂了它的通信协议架构是怎么设计的](https://blog.csdn.net/2401_89160889/article/details/167226705)
+
++ [Redis 缓存与数据库一致性：先删缓存还是先更新库的 4 种方案](https://blog.csdn.net/2501_92769340/article/details/167226222)
+
++ [YOLOv10【第六章：核心模块改进与涨点篇·第20节】SimAM 无参数注意力机制改进 YOLOv10](https://blog.csdn.net/weixin_43970743/article/details/166788069)
+
++ [PCA与SVM在光谱定性分析中的实践与应用](https://blog.csdn.net/dongke1991/article/details/167275438)
+
++ [【C++ 标准项目】发布订阅消息队列（篇四）：sqlite 与 gtest 断言框架介绍及实战应用](https://blog.csdn.net/2501_93351213/article/details/167118992)
+
++ [12306抢票爬虫：Python自动刷票订票，春运抢票利器](https://blog.csdn.net/weixin_43856625/article/details/167273760)
+
++ [「插曲：Git」企业规范篇：DevOps开发模型、Git Flow五类分支设计与测试/预发布/生产环境Bug修复及Hotfix紧急发布流程](https://blog.csdn.net/Z2314246476/article/details/167343877)
+
++ [【论文阅读】Agent 记忆机制（94）：MemGen——在推理过程中动态生成并织入潜在记忆](https://blog.csdn.net/weixin_45642847/article/details/167282875)
+

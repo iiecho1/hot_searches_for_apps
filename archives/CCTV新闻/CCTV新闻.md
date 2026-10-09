@@ -183,3 +183,9 @@
 
 + [刚果（金）埃博拉疫情依然严峻 跨境传播风险上升](https://news.cctv.com/2026/10/09/ARTIwfq51IWo964Qu4PyoSVN261009.shtml)
 
++ [通讯｜不断升温的澳大利亚“赴华热”](https://news.cctv.com/2026/10/09/ARTICNn0X4KG478d1crPpWMD261009.shtml)
+
++ [国际观察｜冲绳命案凸显日本倚美恶果](https://news.cctv.com/2026/10/09/ARTIWel9K7eflMPL7RpIP0kG261009.shtml)
+
++ [“为全球南方国家提供新的发展选项”](https://news.cctv.com/2026/10/09/ARTIow7b9UBvoBt1vVPg486u261009.shtml)
+

@@ -43,3 +43,7 @@
 
 + [分享一下国庆美国东海岸的行程和花费](https://www.v2ex.com/t/1247300)
 
++ [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro](https://www.v2ex.com/t/1247361)
+
++ [国庆事故处理记录：开车压到路人的脚。愿大家都平平安安](https://www.v2ex.com/t/1247274)
+

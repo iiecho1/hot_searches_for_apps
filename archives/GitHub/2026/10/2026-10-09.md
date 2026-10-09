@@ -19,3 +19,13 @@
 
 + [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
 
++ [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+
++ [BerriAI/litellm](https://github.com/BerriAI/litellm)
+
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
++ [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
+
++ [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
+
