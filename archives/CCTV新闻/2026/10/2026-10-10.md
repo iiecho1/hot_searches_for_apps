@@ -161,3 +161,7 @@
 
 + [也门胡塞武装称对沙特境内多个目标实施三轮军事行动](https://news.cctv.com/2026/10/06/ARTIpnNbN3picgy52jiOVPte261006.shtml)
 
++ [特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书](https://news.cctv.com/2026/10/10/ARTIVRvyjSRwFLx4S7Dt1ecj261010.shtml)
+
++ [巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害](https://news.cctv.com/2026/10/10/ARTIpvWeNtoByZ66pbPKZ4Lb261010.shtml)
+
