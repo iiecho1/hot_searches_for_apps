@@ -163,3 +163,23 @@
 
 + [泽连斯基：乌美9日将就乌克兰危机进行新一轮会谈](https://news.cctv.com/2026/10/09/ARTIQrn8LJe4cTuX5AI23vwk261009.shtml)
 
++ [巴西总统卢拉调整竞选策略以提振选情](https://news.cctv.com/2026/10/09/ARTIQChEWaSMybAhPODG0DFq261009.shtml)
+
++ [美媒：美方将在美乌新一轮会谈中提出停火“新点子”](https://news.cctv.com/2026/10/09/ARTI2LeOBz0GW3jRPDNQMUbH261009.shtml)
+
++ [记者Vlog丨马东铁开通倒计时 登车感受“最后的体检”](https://news.cctv.com/2026/10/09/ARTI7KHtukFsRYalp1RO09id261009.shtml)
+
++ [日本自民党再曝丑闻　爱知县副议长强闯亚运赛场](https://news.cctv.com/2026/10/09/ARTItVJ6KNzqE5YnJatuaWVh261009.shtml)
+
++ [邦加岛惨案，日军罪行岂容遗忘（环球走笔）](https://news.cctv.com/2026/10/09/ARTIsWEaX2SkWKXZDW5RXSuI261009.shtml)
+
++ [中国代表：美国执迷于绝对战略优势](https://news.cctv.com/2026/10/09/ARTIuAvyKpeg9TJAB7OqHAr7261009.shtml)
+
++ [中国代表：日本已成为威胁地区和平稳定的突出因素](https://news.cctv.com/2026/10/09/ARTIilohPCoLYB41huIJsfMs261009.shtml)
+
++ [伊朗官员称将采取任何行动维护国家利益](https://news.cctv.com/2026/10/09/ARTIYlNn8OBegkG0pN95tb2D261009.shtml)
+
++ [马达加斯加首都发生食物中毒事件 183人送医](https://news.cctv.com/2026/10/09/ARTIwr8axp0eBqzhjkd1zZ3q261009.shtml)
+
++ [刚果（金）埃博拉疫情依然严峻 跨境传播风险上升](https://news.cctv.com/2026/10/09/ARTIwfq51IWo964Qu4PyoSVN261009.shtml)
+

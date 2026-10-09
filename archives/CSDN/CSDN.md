@@ -107,3 +107,27 @@
 
 + [我给AI打工：蓝耘元生代 + Remotion 全自动生产每日技术新闻视频，一条命令出成片](https://blog.csdn.net/weixin_52908342/article/details/167222312)
 
++ [资源分层关闭体系、TCP连接存活探测与负载均衡机制介绍](https://blog.csdn.net/2401_86112610/article/details/167277744)
+
++ [基于豆包Seed Evolving的AI智能记账系统开发实践记录](https://blog.csdn.net/beautifulmemory/article/details/163107458)
+
++ [所有权 vs GC：Java 老兵的 Rust 内存模型第一课（附真实编译器报错）](https://blog.csdn.net/weixin_43128865/article/details/167220456)
+
++ [SRS RGA 接 LabVIEW：开发套件管到哪儿为止](https://blog.csdn.net/bjcyck/article/details/167037841)
+
++ [分布式系统——Redis主从复制：配置、拓扑与同步原理](https://blog.csdn.net/2302_80105876/article/details/167272815)
+
++ [SpringCloud：通过订单服务认识什么是微服务](https://blog.csdn.net/2501_93392325/article/details/166250180)
+
++ [SpringBoot+Vue3 企业智能体侧挂架构：独立服务、独立数据库与主线零侵入落地](https://blog.csdn.net/2301_78967866/article/details/167281364)
+
++ [Apple开源库L3静态工程评测｜security‑pcc：Private Cloud Compute隐私云计算组件源码尽调报告](https://blog.csdn.net/TunerT_TQ/article/details/167263614)
+
++ [de风——【从零开始学习Linux】（六）：自动化构建 make与Makefile](https://blog.csdn.net/Xiao_running/article/details/167283104)
+
++ [COPY 顺序错一步，Docker build 缓存全失效：6 分钟重建到 40 秒](https://blog.csdn.net/weixin_71309014/article/details/167282435)
+
++ [【具身智能实验】GridBot 机器人测试记录与基准策略评测报告](https://blog.csdn.net/Xiao2007X_x/article/details/167271896)
+
++ [港大开源『龙虾交易员』丨Vibe-Trading丨Github热门项目分享](https://blog.csdn.net/m0_56491492/article/details/167222173)
+
