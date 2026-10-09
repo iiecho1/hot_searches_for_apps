@@ -21,3 +21,5 @@
 
 + [AI 时代的十字路口](https://www.v2ex.com/t/1246943)
 
++ [[HyperAPI 中转站]上班了，给大家补充点额度](https://www.v2ex.com/t/1246926)
+

@@ -101,3 +101,9 @@
 
 + [跨境电商图片翻译工具：批量图片翻译+视频字幕+智能抠图一站解决](https://blog.csdn.net/2501_92948487/article/details/167178742)
 
++ [GitHub 热榜项目：日榜（2026-10-07）](https://blog.csdn.net/u130130/article/details/167220899)
+
++ [LingBot-Video 怎么选推理路径？8 步 DMD 不等于小显存](https://blog.csdn.net/w776341482/article/details/167276140)
+
++ [我给AI打工：蓝耘元生代 + Remotion 全自动生产每日技术新闻视频，一条命令出成片](https://blog.csdn.net/weixin_52908342/article/details/167222312)
+
