@@ -23,3 +23,13 @@
 
 + [记录一次关于我和楼上隔壁邻居魔法咚咚咚](https://www.v2ex.com/t/1247313)
 
++ [大家有什么二手便宜好物推荐吗？感觉生活很枯燥，想买点东西玩一玩或者折腾点什么东西](https://www.v2ex.com/t/1247354)
+
++ [换车选极氪 009 还是 MEGA](https://www.v2ex.com/t/1247297)
+
++ [[送码] Picser 3.0 上线：我开发的 macOS 看图软件加了挑片功能](https://www.v2ex.com/t/1247383)
+
++ [超过 500 行的代码改动， codex 根本无法独立完成。astra 也不行](https://www.v2ex.com/t/1247511)
+
++ [兄弟们，快用不起 AI 了](https://www.v2ex.com/t/1247308)
+

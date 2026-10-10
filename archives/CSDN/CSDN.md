@@ -101,3 +101,15 @@
 
 + [COPY 顺序错一步，Docker build 缓存全失效：6 分钟重建到 40 秒](https://blog.csdn.net/weixin_71309014/article/details/167282435)
 
++ [HarmonyOS 7 新特性4：碰一碰——双机实测轻碰坐标与 Share Kit 卡片数据准备](https://blog.csdn.net/sjw890821sjw/article/details/167226653)
+
++ [【嵌入式软件AI编程】20. AI协同开发STM32程序的流程](https://blog.csdn.net/youcans/article/details/167284033)
+
++ [【从0开始学习计算机网络】| 认识IO多路复用，select、poll、epoll](https://blog.csdn.net/2503_94545876/article/details/167399231)
+
++ [Python服务日志接入ELK：ES索引设计、Logstash管道与Kibana看板落地](https://blog.csdn.net/2402_83344867/article/details/167390820)
+
++ [AIStore免费AI公开课-智能体篇（一）：口袋专家Harness上架AIStore，开源个人智能体，开箱即用](https://blog.csdn.net/weixin_48007632/article/details/167378052)
+
++ [GitHub 今日推荐｜ts-rust：把微软 TypeScript-Go 编译器逐行移植成 Rust 实现](https://blog.csdn.net/weixin_40013817/article/details/167278914)
+

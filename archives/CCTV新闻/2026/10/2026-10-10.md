@@ -165,3 +165,9 @@
 
 + [巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害](https://news.cctv.com/2026/10/10/ARTIpvWeNtoByZ66pbPKZ4Lb261010.shtml)
 
++ [代号“欧亚-反恐-2026”上合组织联合反恐演习在白俄罗斯举行](https://news.cctv.com/2026/10/10/ARTIFRtwL71U5Rz1eoBnNlW3261010.shtml)
+
++ [美财长：美国国债已攀升至约41万亿美元规模](https://news.cctv.com/2026/10/10/ARTIRKv41EjGD0ls7owlcqt6261010.shtml)
+
++ [联合国秘书长谴责美方制裁国际刑事法院](https://news.cctv.com/2026/10/10/ARTIkGWpAWK5Q5iU3F7pJ91D261010.shtml)
+
