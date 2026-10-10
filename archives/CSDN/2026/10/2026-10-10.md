@@ -113,3 +113,31 @@
 
 + [GitHub 今日推荐｜ts-rust：把微软 TypeScript-Go 编译器逐行移植成 Rust 实现](https://blog.csdn.net/weixin_40013817/article/details/167278914)
 
++ [语音 AI 怎样边听边答：实时对话系统的工作原理](https://blog.csdn.net/weixin_74809706/article/details/167222468)
+
++ [ValidX 在 API Gateway 的集成与应用](https://blog.csdn.net/vipxieliang/article/details/167264061)
+
++ [ENPIRE——Agent 驱动、补齐自动反馈的自我改进(具身RSI的代表之一)：自动成败验证、自动复位、无人值守的策略迭代](https://blog.csdn.net/v_JULY_v/article/details/167391378)
+
++ [SpringBoot3+Flowable 审批体验全链路：提交校验、连续选人、驳回重提与移动端一致性](https://blog.csdn.net/zhouzhongyan/article/details/167225981)
+
++ [【排样】亲士套料工具箱](https://blog.csdn.net/he_zhidan/article/details/167222655)
+
++ [【GaussDB】GaussDB中的全文索引](https://blog.csdn.net/GaussDB/article/details/167488427)
+
++ [C# + Vulkan 部署 APISR 动漫超分辨率：VS2022 直接编译，附 ONNX Runtime GPU 耗时与显存对比](https://blog.csdn.net/lw112190/article/details/167359594)
+
++ [从 .NET 6 到 .NET 11，一次看懂 Windows Forms 的现代化之路](https://blog.csdn.net/m0_45463480/article/details/167279720)
+
++ [【HuggingFace开源评测】autotrain-advanced深度解析：HuggingFace无代码微调平台的兴衰启示录](https://blog.csdn.net/TunerT_TQ/article/details/167266884)
+
++ [【创新发文无忧】Matlab实现狮群优化算法LSO-Kmean-Transformer-GRU故障诊断算法研究](https://blog.csdn.net/m0_57702748/article/details/167468951)
+
++ [Linux 资源紧缺模拟：CPU、内存、磁盘与文件描述符压力测试](https://blog.csdn.net/jg_csdn/article/details/167382590)
+
++ [分布式系统——Redis主从复制：配置、拓扑与同步原理](https://blog.csdn.net/2302_80105876/article/details/167272815)
+
++ [主流大数据处理框架（如Hadoop、Spark、Flink）的对比](https://blog.csdn.net/m0_65595995/article/details/167398279)
+
++ [LitePan多网盘影音中枢：WebDAV挂载、STRM生成与缓存管理](https://blog.csdn.net/u010726809/article/details/167270367)
+

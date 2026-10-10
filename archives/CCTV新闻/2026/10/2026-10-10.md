@@ -171,3 +171,9 @@
 
 + [联合国秘书长谴责美方制裁国际刑事法院](https://news.cctv.com/2026/10/10/ARTIkGWpAWK5Q5iU3F7pJ91D261010.shtml)
 
++ [巴西起诉壳牌子公司 索赔上亿美元洪灾损失](https://news.cctv.com/2026/10/10/ARTIob0QdCATWHaaefquubJS261010.shtml)
+
++ [中国驻南非使馆提醒中国公民加强安全防范](https://news.cctv.com/2026/10/10/ARTI06FPGhvCl4EJ6HROcVqw261010.shtml)
+
++ [乌克兰、美国和欧洲国家提前结束迈阿密会谈](https://news.cctv.com/2026/10/10/ARTIQ330fKcm0NepckvnwxFG261010.shtml)
+

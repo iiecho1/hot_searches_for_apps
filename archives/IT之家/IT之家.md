@@ -25,3 +25,27 @@
 
 + [苹果 iPhone Air 2 爆料：厚度减薄 0.4mm 至 5.2mm，更高密度电池提升续航](https://m.ithome.com/html/1010473.htm)
 
++ [尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”](https://m.ithome.com/html/1011077.htm)
+
++ [微博 CEO 王高飞再谈尊界 V800 刹车踏板事件，称暂停交付、查车厂台架实验记录比较合理](https://m.ithome.com/html/1011089.htm)
+
++ [消息称中汽中心紧急向各大车企发出关于制动踏板总成材质调研问卷，着重关注非金属材质应用](https://m.ithome.com/html/1011091.htm)
+
++ [国内制动系统头部厂家董事长袁永彬谈尊界刹车踏板被踩断，称个别媒体以牺牲中国品牌口碑获取流量](https://m.ithome.com/html/1010989.htm)
+
++ [今晚 20:00 京东 11.11 全面开抢：家居家电 3C 数码年内好价，OPPO N6 折叠屏国补 10%](https://m.ithome.com/html/1010921.htm)
+
++ [小米集团盘中股价最高涨超 9%，澎程首月锁单超 7 万台](https://m.ithome.com/html/1010858.htm)
+
++ [消息称华为 Pura X View 阔直板手机销量已破 40 万台，网友反映该机仍处缺货溢价状态](https://m.ithome.com/html/1011123.htm)
+
++ [懂车帝：网传内部整顿通知截图系 AI 生成，相关信息均为谣言](https://m.ithome.com/html/1011096.htm)
+
++ [全部金属：比亚迪郑羽公布仰望制动踏板材质，称踏板力执行 2500N 企业标准](https://m.ithome.com/html/1011087.htm)
+
++ [懂车帝发内部通告整顿工作？知情人士：假的](https://m.ithome.com/html/1011073.htm)
+
++ [小米 18 Fold 中折叠手机登顶安兔兔 9 月 Android 旗舰性能榜，搭玄戒 O3 芯片平均跑分超 462 万](https://m.ithome.com/html/1011128.htm)
+
++ [消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm&#177;](https://m.ithome.com/html/1010872.htm)
+
