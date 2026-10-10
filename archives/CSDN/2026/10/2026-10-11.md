@@ -117,3 +117,9 @@
 
 + [轻量级 AI 代码生成平台搭建实战：Ollama 本地模型 + Continue.dev + Open Code Review 的低成本方案](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/167494629)
 
++ [分布式系统——Redis主从复制：配置、拓扑与同步原理](https://blog.csdn.net/2302_80105876/article/details/167272815)
+
++ [Spring 循环依赖三级缓存机制深度解析](https://blog.csdn.net/clz1314521/article/details/167399044)
+
++ [基于Hadoop和Hive的济南旅游景区数据的分析与可视化系统(源码+文档+部署讲解等)](https://blog.csdn.net/2502_92291565/article/details/164028072)
+

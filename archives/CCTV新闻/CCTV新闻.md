@@ -161,3 +161,7 @@
 
 + [巴勒斯坦将于2027年9月同步举行总统和立法选举](https://news.cctv.com/2026/10/11/ARTIsljEb2kNn4J50koWzT4a261010.shtml)
 
++ [英国一野生动物园发生老虎袭人事件致一人死亡](https://news.cctv.com/2026/10/11/ARTIK8faFnO1vk75MZyXbdqf261011.shtml)
+
++ [沙特利雅得机场遭袭造成12人死亡309人受伤](https://news.cctv.com/2026/10/11/ARTIiiKOCPUYcjRognwxIFw9261011.shtml)
+
