@@ -101,3 +101,19 @@
 
 + [Pascal Editor 3D建筑编辑：墙体门窗、2D与3D视图及WebGPU建模](https://blog.csdn.net/Z_oioihoii/article/details/167273024)
 
++ [ENPIRE——Agent 驱动、补齐自动反馈的自我改进(具身RSI的代表之一)：自动成败验证、自动复位、无人值守的策略迭代](https://blog.csdn.net/v_JULY_v/article/details/167391378)
+
++ [Penpot自托管设计协作：Docker部署、MCP接入与Codex生成UI实操记录](https://blog.csdn.net/Pocker_Spades_A/article/details/167496676)
+
++ [【Linux】Shell 命令以及运行原理+权限管理](https://blog.csdn.net/2603_95853495/article/details/167492296)
+
++ [《Linux 网络编程》从 0 手写 Reactor 反应堆（中）：完善核心细节 —— ET 模式落地与分层解耦架构实现](https://blog.csdn.net/2501_91275995/article/details/167396574)
+
++ [MCP传输方式详解：stdio、HTTP、WebSocket到底该选哪个？我做了个对比测试](https://blog.csdn.net/2401_89160889/article/details/167495587)
+
++ [Linux系统篇（五）工具篇·一：软件工具与动静态库](https://blog.csdn.net/CAO_070413/article/details/166140210)
+
++ [第十五届中国创新创业大赛](https://blog.csdn.net/user340/article/details/167283730)
+
++ [轻量级 AI 代码生成平台搭建实战：Ollama 本地模型 + Continue.dev + Open Code Review 的低成本方案](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/167494629)
+

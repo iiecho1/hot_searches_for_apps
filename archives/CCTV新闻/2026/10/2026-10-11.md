@@ -159,3 +159,5 @@
 
 + [10月6日 外交部发言人郭嘉昆答记者问](https://news.cctv.com/2026/10/06/ARTIH4IcmpEnZhD18fMVvus6261006.shtml)
 
++ [巴勒斯坦将于2027年9月同步举行总统和立法选举](https://news.cctv.com/2026/10/11/ARTIsljEb2kNn4J50koWzT4a261010.shtml)
+
