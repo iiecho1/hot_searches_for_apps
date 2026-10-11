@@ -167,3 +167,15 @@
 
 + [尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话](https://news.cctv.com/2026/10/11/ARTI7MmVX45KvRoZ8ENTrRHW261011.shtml)
 
++ [“核” “潜” “艇”，三个词写尽日本步步为营的危险试探](https://news.cctv.com/2026/10/11/ARTIPiqCb2zFOAUIUsYfnLzp261011.shtml)
+
++ [德迅集团全球首席执行官：中国市场是企业增长的“动力源”](https://news.cctv.com/2026/10/11/ARTIrkzeYJeLMnvsmeWYzvmY261011.shtml)
+
++ [中企承建的马拉维利隆圭供水项目让约5万村民告别“用水难”](https://news.cctv.com/2026/10/11/ARTIi25pcDtc8ACFlMjicXvG261011.shtml)
+
++ [在机制化对话中管控分歧 中欧经贸形成多项成果共识](https://news.cctv.com/2026/10/11/ARTIS6r8p4IgD4FOOgOoG9qK261011.shtml)
+
++ [“中国始终是稳定且富有建设性的推动力量”——访印度尼西亚大学东盟—中国研究中心研究员拉伊汉·罗诺迪普罗](https://news.cctv.com/2026/10/11/ARTIXxr45bhF6ndml4S7pZYv261011.shtml)
+
++ [美乌现分歧 英国首相力挺泽连斯基](https://news.cctv.com/2026/10/11/ARTIiA2Cj9PkYWAvixTOQOB1261011.shtml)
+

@@ -129,3 +129,37 @@
 
 + [让AI越用越懂你:长期记忆不只是存聊天记录](https://blog.csdn.net/augen1355/article/details/167387324)
 
++ [【AI大模型接入SDK】ChatServer 整体初始化概述](https://blog.csdn.net/2401_89899187/article/details/167040430)
+
++ [【从0开始学习计算机网络】| ip协议-ttl-标识-分片偏移-ip分片与重组](https://blog.csdn.net/2503_94545876/article/details/167471324)
+
++ [Oracle RMAN 增量备份策略：优化备份效率与恢复速度的关键技术](https://blog.csdn.net/qq_41840843/article/details/167497118)
+
++ [【开源深度评测】Open-R1源码静态审计｜HuggingFace官方推理微调框架工程尽调报告](https://blog.csdn.net/TunerT_TQ/article/details/167495823)
+
++ [从 SDK 到桌面应用：我用科沃斯八界把视觉、导航和机械臂接起来](https://blog.csdn.net/air__Heaven/article/details/167398553)
+
++ [大数据平台容量规划实战：Kafka、ES、ClickHouse、Hadoop 的磁盘、内存与节点数估算公式（附算例）](https://blog.csdn.net/Sayai/article/details/167396541)
+
++ [【热力学】利用CFD模拟在多种气流场景下对数据中心进行节能冷却优化附Matlab实现](https://blog.csdn.net/Matlab_dashi/article/details/167580749)
+
++ [两台 A6000，LingBot 应该先验哪条路径？](https://blog.csdn.net/w776341482/article/details/167467391)
+
++ [【鸿蒙心迹】互动卡片全链路——把核心功能放到桌面（FormKit 实战）（HarmonyOS 7.x）](https://blog.csdn.net/qq_35366330/article/details/167226762)
+
++ [光谱定性分析中PCA、SVM与LDA方法的对比研究](https://blog.csdn.net/dongke1991/article/details/167393347)
+
++ [服务下线不再炸：分层关闭、TCP 存活探测与负载均衡排水的落地套路](https://blog.csdn.net/2301_78967866/article/details/167493179)
+
++ [.NET 10 + Vue 3 前后端分离项目服务器部署全解](https://blog.csdn.net/mss359681091/article/details/167399249)
+
++ [用 Python 自动化检测浏览器环境指纹：WebRTC 泄露、Canvas 哈希与时区一致性校验](https://blog.csdn.net/Sherryma66/article/details/167387302)
+
++ [LLM 动态加载与多用户缓存架构技术文档](https://blog.csdn.net/qq_33764173/article/details/167497197)
+
++ [Flutter 为什么能跨端成功：从 Widget、自绘引擎到 JIT 与 AOT](https://blog.csdn.net/z_zT_T/article/details/167284363)
+
++ [器官芯片如何用于ADME研究？从肝脏代谢、口服生物利用度到DDI的6个MPS案例](https://blog.csdn.net/MineBio/article/details/167361354)
+
++ [个人开发者邮箱验证码完整实现](https://blog.csdn.net/2401_87660168/article/details/167282179)
+
