@@ -159,3 +159,17 @@
 
 + [佩斯科夫：若美方有倡议 将迅速协调普京与特朗普通话](https://news.cctv.com/2026/10/07/ARTIi79J2JabKGfMtnVgsOGt261007.shtml)
 
++ [沙特民航总局：达曼法赫德国王国际机场遭袭](https://news.cctv.com/2026/10/12/ARTIJTbR1QgHqnT1z2GLWkuV261012.shtml)
+
++ [苏丹北部矿区遇袭 已致72人死亡](https://news.cctv.com/2026/10/12/ARTIjBwMDjnV07bayRNgRHel261012.shtml)
+
++ [泽连斯基称支持“能源停火” 乌武装部队已收到相关命令](https://news.cctv.com/2026/10/12/ARTIcVxcMd7QqyqKGfcq2FQb261012.shtml)
+
++ [巴沙埃土四国谴责胡塞武装持续对沙特发动袭击](https://news.cctv.com/2026/10/12/ARTIjRYNnuMVQUYCt2RjVOfW261012.shtml)
+
++ [沙特民航总局：利雅得机场再遭袭 已有人员受伤](https://news.cctv.com/2026/10/12/ARTIYLW9LsaKbdXCkhAtQ6Fg261012.shtml)
+
++ [特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”](https://news.cctv.com/2026/10/12/ARTIlNFqMrHCclZrS63hDovs261012.shtml)
+
++ [伊朗称美国对其重开霍尔木兹海峡条件回应不充分](https://news.cctv.com/2026/10/12/ARTIhtemqQaBSckoMFXUwp0q261012.shtml)
+

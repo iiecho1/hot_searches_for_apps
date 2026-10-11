@@ -21,3 +21,5 @@
 
 + [我认为应用开发包括前端正在迎来最好的时代](https://www.v2ex.com/t/1247755)
 
++ [[开源] 好看，更好用的音乐播放器 NonsPlayer](https://www.v2ex.com/t/1247825)
+

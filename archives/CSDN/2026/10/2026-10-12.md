@@ -101,3 +101,35 @@
 
 + [Flutter 为什么能跨端成功：从 Widget、自绘引擎到 JIT 与 AOT](https://blog.csdn.net/z_zT_T/article/details/167284363)
 
++ [【从0开始学习计算机网络】| 认识IO多路复用，select、poll、epoll](https://blog.csdn.net/2503_94545876/article/details/167399231)
+
++ [Agent Harness 元年：为什么 2026 年 AI Agent 的护城河从模型转向运行时](https://blog.csdn.net/m0_74899094/article/details/167585703)
+
++ [从RLHF到RLAIF：Constitutional AI的训练流程与工程实现拆解](https://blog.csdn.net/2402_83344867/article/details/167494314)
+
++ [多 Agent 协作架构：黑板模式——共享内存与自主读写](https://blog.csdn.net/sinat_41617212/article/details/167389325)
+
++ [通关打怪之MySQL数据库第一篇--库的操作和表的操作](https://blog.csdn.net/2501_93392325/article/details/159618490)
+
++ [SpringBoot+Cloud私有化部署停在哪一档：单体够用，还是该拆微服务（2026）](https://blog.csdn.net/zhouzhongyan/article/details/166990528)
+
++ [# Tauri 2 + Rust 写一个无人值守的 Windows 托盘工具：4 个 AI 产品（workbuddy+trae+qoder+秒哒）自动签到，我把这些坑趟平了](https://blog.csdn.net/xiangsir/article/details/167587635)
+
++ [实现机器人、梯控与电梯的无缝对接，成为了一个亟待解决的痛点](https://blog.csdn.net/FDFDGFD/article/details/167496935)
+
++ [GLM5.3 flash cybersec本地部署[5]:生产运维与故障恢复](https://blog.csdn.net/yang2330648064/article/details/167496537)
+
++ [器官芯片如何用于ADME研究？从肝脏代谢、口服生物利用度到DDI的6个MPS案例](https://blog.csdn.net/MineBio/article/details/167361354)
+
++ [GPT-6 Intelligent UI 会让传统前端开发消失吗？](https://blog.csdn.net/tian583391571/article/details/167497431)
+
++ [AI编程助手实战](https://blog.csdn.net/zazazaaazza/article/details/167496126)
+
++ [别让 Web 字体拖垮你的网站：一份全面的字体性能优化指南](https://blog.csdn.net/2601_97039610/article/details/167586650)
+
++ [服务下线不再炸：分层关闭、TCP 存活探测与负载均衡排水的落地套路](https://blog.csdn.net/2301_78967866/article/details/167493179)
+
++ [Mybatis（一）](https://blog.csdn.net/LYYstudying/article/details/167397454)
+
++ [Flutter 鸿蒙化实战：screen_protector 适配 OpenHarmony，防截屏/防泄露](https://blog.csdn.net/m0_73818582/article/details/167487496)
+
