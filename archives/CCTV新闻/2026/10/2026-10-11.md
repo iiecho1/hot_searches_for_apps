@@ -165,3 +165,5 @@
 
 + [沙特利雅得机场遭袭造成12人死亡309人受伤](https://news.cctv.com/2026/10/11/ARTIiiKOCPUYcjRognwxIFw9261011.shtml)
 
++ [尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话](https://news.cctv.com/2026/10/11/ARTI7MmVX45KvRoZ8ENTrRHW261011.shtml)
+

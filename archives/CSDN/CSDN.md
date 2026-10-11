@@ -123,3 +123,9 @@
 
 + [基于Hadoop和Hive的济南旅游景区数据的分析与可视化系统(源码+文档+部署讲解等)](https://blog.csdn.net/2502_92291565/article/details/164028072)
 
++ [单幅图像去雨·论文蒸馏笔记：统一评测、方法谱系与 HQ-RAIN 新基准](https://blog.csdn.net/weixin_43963563/article/details/167496012)
+
++ [FPGA+ARM实现AWB的全流程](https://blog.csdn.net/dong6016/article/details/167377231)
+
++ [让AI越用越懂你:长期记忆不只是存聊天记录](https://blog.csdn.net/augen1355/article/details/167387324)
+
