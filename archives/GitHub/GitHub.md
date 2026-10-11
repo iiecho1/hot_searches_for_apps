@@ -1,5 +1,5 @@
 ## GitHub 
-### 2026-10-11
+### 2026-10-12
 
 + [morluto/rea](https://github.com/morluto/rea)
 
@@ -9,21 +9,11 @@
 
 + [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 
-+ [mksglu/context-mode](https://github.com/mksglu/context-mode)
-
-+ [mattpocock/skills](https://github.com/mattpocock/skills)
-
-+ [flutter/flutter](https://github.com/flutter/flutter)
-
-+ [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-
-+ [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
++ [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
 + [pytorch/pytorch](https://github.com/pytorch/pytorch)
 
-+ [huggingface/transformers](https://github.com/huggingface/transformers)
++ [lyogavin/airllm](https://github.com/lyogavin/airllm)
 
-+ [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-
-+ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
++ [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
 

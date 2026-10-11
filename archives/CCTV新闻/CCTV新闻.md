@@ -1,5 +1,47 @@
 ## CCTV新闻 
-### 2026-10-11
+### 2026-10-12
+
++ [特朗普称俄乌双方同意“能源停火”](https://news.cctv.com/2026/10/11/ARTIjeDOlq7PkzbtJHkks8bz261011.shtml)
+
++ [英国：不支持美俄就俄提供柴油达成一致](https://news.cctv.com/2026/10/11/ARTILSCGxH1Gb5pLvqfhI4Bp261011.shtml)
+
++ [吉布提沿海移民船只倾覆事故死亡人数升至139人](https://news.cctv.com/2026/10/11/ARTISuI6o6R96htNk7z0uFpb261011.shtml)
+
++ [韩国低龄未成年人盗窃数量激增](https://news.cctv.com/2026/10/11/ARTIbh756YECq8I9tO5o9bQo261011.shtml)
+
++ [霍尔木兹海峡内一出港油轮左舷遭不明发射物击中](https://news.cctv.com/2026/10/11/ARTIbrLXQ6JNNEm0Y57LBS3g261011.shtml)
+
++ [俄罗斯外交部谴责针对沙特利雅得机场的袭击](https://news.cctv.com/2026/10/11/ARTIGHR9E4v4JN1alb61jXX0261011.shtml)
+
++ [一部纪录片引发的追问：日本政府究竟保护谁？](https://news.cctv.com/2026/10/11/ARTInTFMPs5HYApLm7W9Qck0261011.shtml)
+
++ [波兰称收到针对总理及国防部长潜在袭击行动的情报](https://news.cctv.com/2026/10/11/ARTInol7WZoUtXhQwzx9iTbN261011.shtml)
+
++ [“欧洲与中国对话，才是务实做法”](https://news.cctv.com/2026/10/11/ARTIxkOOmzaCGxc8KVQF726C261011.shtml)
+
++ [全球发展倡议推动将发展置于国际议程中心位置——访巴基斯坦常驻联合国日内瓦办事处代表安德拉比](https://news.cctv.com/2026/10/11/ARTISU5oI76cOrs0QjaXwvd2261011.shtml)
+
++ [胡塞武装称已“关闭利雅得机场”](https://news.cctv.com/2026/10/11/ARTIYL30bvC9AxoTorvJHIjf261011.shtml)
+
++ [“核” “潜” “艇”，三个词写尽日本步步为营的危险试探](https://news.cctv.com/2026/10/11/ARTIPiqCb2zFOAUIUsYfnLzp261011.shtml)
+
++ [德迅集团全球首席执行官：中国市场是企业增长的“动力源”](https://news.cctv.com/2026/10/11/ARTIrkzeYJeLMnvsmeWYzvmY261011.shtml)
+
++ [中企承建的马拉维利隆圭供水项目让约5万村民告别“用水难”](https://news.cctv.com/2026/10/11/ARTIi25pcDtc8ACFlMjicXvG261011.shtml)
+
++ [在机制化对话中管控分歧 中欧经贸形成多项成果共识](https://news.cctv.com/2026/10/11/ARTIS6r8p4IgD4FOOgOoG9qK261011.shtml)
+
++ [“中国始终是稳定且富有建设性的推动力量”——访印度尼西亚大学东盟—中国研究中心研究员拉伊汉·罗诺迪普罗](https://news.cctv.com/2026/10/11/ARTIXxr45bhF6ndml4S7pZYv261011.shtml)
+
++ [美乌现分歧 英国首相力挺泽连斯基](https://news.cctv.com/2026/10/11/ARTIiA2Cj9PkYWAvixTOQOB1261011.shtml)
+
++ [尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话](https://news.cctv.com/2026/10/11/ARTI7MmVX45KvRoZ8ENTrRHW261011.shtml)
+
++ [英国一野生动物园发生老虎袭人事件致一人死亡](https://news.cctv.com/2026/10/11/ARTIK8faFnO1vk75MZyXbdqf261011.shtml)
+
++ [沙特利雅得机场遭袭造成12人死亡309人受伤](https://news.cctv.com/2026/10/11/ARTIiiKOCPUYcjRognwxIFw9261011.shtml)
+
++ [巴勒斯坦将于2027年9月同步举行总统和立法选举](https://news.cctv.com/2026/10/11/ARTIsljEb2kNn4J50koWzT4a261010.shtml)
 
 + [巴西起诉壳牌子公司 索赔上亿美元洪灾损失](https://news.cctv.com/2026/10/10/ARTIob0QdCATWHaaefquubJS261010.shtml)
 
@@ -116,66 +158,4 @@
 + [俄回应法国试射导弹：欧洲执着于军事化想法](https://news.cctv.com/2026/10/08/ARTIvs4L5tX6Fo1dabAJi6Fz261008.shtml)
 
 + [佩斯科夫：若美方有倡议 将迅速协调普京与特朗普通话](https://news.cctv.com/2026/10/07/ARTIi79J2JabKGfMtnVgsOGt261007.shtml)
-
-+ [巴以冲突3年来超2万名巴勒斯坦师生遇害](https://news.cctv.com/2026/10/07/ARTIn9aBuAnmmizKC3zdOu3H261007.shtml)
-
-+ [哈马斯发声明纪念“阿克萨洪水”行动三周年 称将致力于履行停火协议](https://news.cctv.com/2026/10/07/ARTILsGn1bjVHjS4jWDgckoZ261007.shtml)
-
-+ [万斯：伊朗须“实质性”削减铀浓缩能力才能结束战事](https://news.cctv.com/2026/10/07/ARTI8a2AbZQWKQ7cwHJTOZtG261007.shtml)
-
-+ [在泰失联的上海音乐教师已安全回国](https://news.cctv.com/2026/10/07/ARTI4ZOfZRycYCDZTVj09kWM261007.shtml)
-
-+ [俄罗斯总统助理、海事委员会主席帕特鲁舍夫将访华](https://news.cctv.com/2026/10/07/ARTISfvNWXlS8U5ikuhhLyO8261007.shtml)
-
-+ [消息人士：日本“安保三文件”或加入核潜艇相关内容](https://news.cctv.com/2026/10/07/ARTIWeAShearSTylLMXPXY1j261007.shtml)
-
-+ [乌克兰首都遭袭 已致2人死亡](https://news.cctv.com/2026/10/07/ARTIxdt1bDhMBP6EeiRZWDQx261007.shtml)
-
-+ [韩国前总统尹锡悦涉嫌违反《政治资金法》案二审被判无罪](https://news.cctv.com/2026/10/07/ARTIGSkavz98d9swaO5rHcrQ261007.shtml)
-
-+ [特朗普宣布投资66亿美元建厂造潜艇](https://news.cctv.com/2026/10/07/ARTIh23uLmrSfKS8c9DZ3oIn261007.shtml)
-
-+ [一座光伏电站见证中哥绿色合作](https://news.cctv.com/2026/10/07/ARTIU9AdU1zDhnbZtiBatR98261007.shtml)
-
-+ [有力推动国际关系民主化](https://news.cctv.com/2026/10/07/ARTIdIao3ol2Fnru5JhSaDz2261007.shtml)
-
-+ [推动吉中永久睦邻友好合作迈上新台阶](https://news.cctv.com/2026/10/07/ARTIREuhrbacRJxjvf1fvahd261007.shtml)
-
-+ [七国有意申办2036年奥运会 国际奥委会公布遴选步骤](https://news.cctv.com/2026/10/07/ARTI9YwQS82WuYlHuwn9CwCv261007.shtml)
-
-+ [美报告对伊战事损失81架军机 包括12架F-15战机](https://news.cctv.com/2026/10/07/ARTIsAut9THKiBAj4fBhJUKd261007.shtml)
-
-+ [巴基斯坦成功试射改进型“法塔赫-4”巡航导弹](https://news.cctv.com/2026/10/07/ARTIEhUB4UdBu244vVZdX6vt261007.shtml)
-
-+ [韩国考虑废除“金牌免兵役”制度](https://news.cctv.com/2026/10/07/ARTIqkepHoMlfdAROqlRNptg261007.shtml)
-
-+ [俄国防部：俄军9月接收超1万件各型装备](https://news.cctv.com/2026/10/07/ARTIuDILGMpAGuuO9YWEZWXT261007.shtml)
-
-+ [中方敦促国际社会持续助力非洲国家和平与发展](https://news.cctv.com/2026/10/07/ARTIhZQZCUaoG8I2qsMVfhO7261007.shtml)
-
-+ [阿根廷外长批评英国政府拒绝就马岛问题谈判](https://news.cctv.com/2026/10/07/ARTIONt1flr4wpLSRLGacMTj261007.shtml)
-
-+ [因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制](https://news.cctv.com/2026/10/07/ARTI8iv7DCptCnlL1fWty3tr261007.shtml)
-
-+ [10月6日 外交部发言人郭嘉昆答记者问](https://news.cctv.com/2026/10/06/ARTIH4IcmpEnZhD18fMVvus6261006.shtml)
-
-+ [巴勒斯坦将于2027年9月同步举行总统和立法选举](https://news.cctv.com/2026/10/11/ARTIsljEb2kNn4J50koWzT4a261010.shtml)
-
-+ [英国一野生动物园发生老虎袭人事件致一人死亡](https://news.cctv.com/2026/10/11/ARTIK8faFnO1vk75MZyXbdqf261011.shtml)
-
-+ [沙特利雅得机场遭袭造成12人死亡309人受伤](https://news.cctv.com/2026/10/11/ARTIiiKOCPUYcjRognwxIFw9261011.shtml)
-
-+ [尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话](https://news.cctv.com/2026/10/11/ARTI7MmVX45KvRoZ8ENTrRHW261011.shtml)
-
-+ [“核” “潜” “艇”，三个词写尽日本步步为营的危险试探](https://news.cctv.com/2026/10/11/ARTIPiqCb2zFOAUIUsYfnLzp261011.shtml)
-
-+ [德迅集团全球首席执行官：中国市场是企业增长的“动力源”](https://news.cctv.com/2026/10/11/ARTIrkzeYJeLMnvsmeWYzvmY261011.shtml)
-
-+ [中企承建的马拉维利隆圭供水项目让约5万村民告别“用水难”](https://news.cctv.com/2026/10/11/ARTIi25pcDtc8ACFlMjicXvG261011.shtml)
-
-+ [在机制化对话中管控分歧 中欧经贸形成多项成果共识](https://news.cctv.com/2026/10/11/ARTIS6r8p4IgD4FOOgOoG9qK261011.shtml)
-
-+ [“中国始终是稳定且富有建设性的推动力量”——访印度尼西亚大学东盟—中国研究中心研究员拉伊汉·罗诺迪普罗](https://news.cctv.com/2026/10/11/ARTIXxr45bhF6ndml4S7pZYv261011.shtml)
-
-+ [美乌现分歧 英国首相力挺泽连斯基](https://news.cctv.com/2026/10/11/ARTIiA2Cj9PkYWAvixTOQOB1261011.shtml)
 

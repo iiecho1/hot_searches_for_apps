@@ -1,105 +1,63 @@
 ## AcFun 
-### 2026-10-11
-
-+ [万物皆可闪身步！★手机竖屏2029★](https://m.acfun.cn/v/?ac=48901946)
-
-+ [厨师长分享传统粤菜“大良炒牛奶”，洁白如雪，软嫩香滑](https://m.acfun.cn/v/?ac=48902995)
-
-+ [【延时混更】霧雨老师生日快乐喵！](https://m.acfun.cn/v/?ac=48894114)
-
-+ [网络上常见的热门短视频集锦   第三千四百七十九期](https://m.acfun.cn/v/?ac=48901947)
-
-+ [网络上常见的热门短视频集锦   第三千四百八十期](https://m.acfun.cn/v/?ac=48902800)
-
-+ [开头超辣！](https://m.acfun.cn/v/?ac=48896765)
-
-+ [她好喜欢穿紫色](https://m.acfun.cn/v/?ac=48903653)
-
-+ [哪一行都不好干（84） ](https://m.acfun.cn/v/?ac=48902856)
-
-+ [女子防身术！！！欢乐八点档-1798](https://m.acfun.cn/v/?ac=48903663)
-
-+ [交通事故：动物世界 2026（二）](https://m.acfun.cn/v/?ac=48902877)
-
-+ [夜空中最亮的星](https://m.acfun.cn/v/?ac=48898316)
-
-+ [日子怎么能跟谁过都一样呢【今天有什么好笑的 #2532】](https://m.acfun.cn/v/?ac=48903527)
-
-+ [船长的无限生命？星球苏醒的可怕真相！月亮醒了《The Moon Woke Up》EP16剧情解说](https://m.acfun.cn/v/?ac=48902967)
-
-+ [3分钟看完《火炬之光无限》SS14新赛季内容](https://m.acfun.cn/v/?ac=48904202)
-
-+ [【万字解析】影视上最帅最强的驱魔人！大片鉴赏、全程高能《康斯坦丁》](https://m.acfun.cn/v/?ac=48903127)
-
-+ [漂亮的御姐有杀气️](https://m.acfun.cn/v/?ac=48902179)
-
-+ [技系必看万能手法！0突1突通用拉片教学！](https://m.acfun.cn/v/?ac=48902965)
-
-+ [【cos】请支持羽生萌萌香！](https://m.acfun.cn/v/?ac=48902144)
-
-+ [40.穿越亿年的水陆传奇，两栖家族的终极演化：滑体亚纲](https://m.acfun.cn/v/?ac=48899745)
-
-+ [【绝望女神/翻唱】【圣枪修女 ED 再见了Solitia】](https://m.acfun.cn/v/?ac=48904161)
-
-+ [【扒】班得惹毛黑手党，借道杀人！飞出个未来第14季完结](https://m.acfun.cn/v/?ac=48902829)
-
-+ [请支持小天鹅奥黛塔！](https://m.acfun.cn/v/?ac=48903307)
-
-+ [始终还是那个2p色](https://m.acfun.cn/v/?ac=48899796)
-
-+ [绝顶性感肉丝《vibrato》舞蹈翻跳](https://m.acfun.cn/v/?ac=48902724)
-
-+ [3台尊界V800 刹车踏板支架断裂](https://m.acfun.cn/v/?ac=48902437)
-
-+ [蔡妍 摇摆](https://m.acfun.cn/v/?ac=48903304)
-
-+ [【AI】哦哦~Oh](https://m.acfun.cn/v/?ac=48903763)
-
-+ [【AI】短发傲慢摇摆](https://m.acfun.cn/v/?ac=48903767)
-
-+ [【东方】小悪魔りんご Bad Apple!!【幽閉サテライト】](https://m.acfun.cn/v/?ac=48902078)
-
-+ [这‘维琳娜’依旧权威！枣糕就无需多言~](https://m.acfun.cn/v/?ac=48902924)
-
-+ [别熬夜了对手机不好](https://m.acfun.cn/v/?ac=48904402)
-
-+ [生存龙骑+无双龙摩托，排面拉满！小布假面骑士星光版第7弹！](https://m.acfun.cn/v/?ac=48904107)
-
-+ [【4K MMD】 元气满满！超可爱LAT式交通灯3人组「真夏のレターレインボー」](https://m.acfun.cn/v/?ac=48904270)
+### 2026-10-12
 
 + [《猫咪MBTI性格图鉴》](https://m.acfun.cn/v/?ac=48903543)
 
-+ [【Takeko竹子/自生贺】小小的我 feat.我家UTAU](https://m.acfun.cn/v/?ac=48896797)
-
-+ [Laysha Chocolate Cream](https://m.acfun.cn/v/?ac=48903385)
-
-+ [jojo的奇妙冒险 飙马野郎 04](https://m.acfun.cn/v/?ac=48902816)
-
 + [停停停，太快了！★手机竖屏2030★](https://m.acfun.cn/v/?ac=48904440)
-
-+ [网络上常见的热门短视频集锦   第三千四百八十一期](https://m.acfun.cn/v/?ac=48904446)
-
-+ [只有战斗，没有运营！快速看完一局韩服王者斗殴局#853 Burry,Hanbyeol,Precede](https://m.acfun.cn/v/?ac=48896376)
-
-+ [【卡拉彼丘MMD】好女孩...](https://m.acfun.cn/v/?ac=48904477)
 
 + [网络上常见的热门短视频集锦   第三千四百八十二期](https://m.acfun.cn/v/?ac=48904734)
 
-+ [功德结算画面+1+1+1+1+1](https://m.acfun.cn/v/?ac=48903998)
++ [网络上常见的热门短视频集锦   第三千四百八十一期](https://m.acfun.cn/v/?ac=48904446)
 
-+ [【柯基】《伴随军旗》｜朝鲜电影《军旗》主题曲](https://m.acfun.cn/v/?ac=48904812)
++ [连体旗袍~弹一首琵琶曲](https://m.acfun.cn/v/?ac=48905503)
 
-+ [厨师长教你复刻传统川菜：“白油猪肝”，咸鲜香嫩，不柴不腥](https://m.acfun.cn/v/?ac=48904910)
++ [你们最爱听的云长](https://m.acfun.cn/v/?ac=48905589)
 
 + [相亲局【今天有什么好笑的 #2533】](https://m.acfun.cn/v/?ac=48905411)
 
++ [【Takeko竹子/自生贺】小小的我 feat.我家UTAU](https://m.acfun.cn/v/?ac=48896797)
+
++ [厨师长入行20多年开的第一家中餐馆，经营四年后决定搬迁！](https://m.acfun.cn/v/?ac=48905638)
+
++ [帮Acer问一下地址在哪里？欢乐八点档-1799](https://m.acfun.cn/v/?ac=48904736)
+
++ [离谱！打输了就超度队友？这届国产 MMO 彻底放飞了](https://m.acfun.cn/v/?ac=48905195)
+
++ [厨师长教你复刻传统川菜：“白油猪肝”，咸鲜香嫩，不柴不腥](https://m.acfun.cn/v/?ac=48904910)
+
 + [剑修第一课️](https://m.acfun.cn/v/?ac=48904519)
 
-+ [【官方双语】绿油油的 - 全雷蛇游戏配置#linus谈科技](https://m.acfun.cn/v/?ac=48904375)
++ [看完这个视频的家里请高人吧](https://m.acfun.cn/v/?ac=48881634)
 
-+ [Poppin Party「Now Roading♪♪」（BanG Dream! 13th DAY1）](https://m.acfun.cn/v/?ac=48904328)
++ [【卡拉彼丘MMD】好女孩...](https://m.acfun.cn/v/?ac=48904477)
 
-+ [《如何折磨队友》](https://m.acfun.cn/v/?ac=48904074)
++ [【柯基】《伴随军旗》｜朝鲜电影《军旗》主题曲](https://m.acfun.cn/v/?ac=48904812)
 
 + [【短视频】唱这首歌时候的脑补…](https://m.acfun.cn/v/?ac=48884376)
+
++ [带爸妈来云南玩儿了](https://m.acfun.cn/v/?ac=48905934)
+
++ [烧鸟，凭什么这么贵？我选择自助餐！](https://m.acfun.cn/v/?ac=48905604)
+
++ [血条消失术！2万分局！快速看完一局韩服王者斗殴局#854 0909, Tarzan ](https://m.acfun.cn/v/?ac=48898681)
+
++ [佐天泪子 紫色迷情卧室 成熟系御姐【AI动画/超清】](https://m.acfun.cn/v/?ac=48904458)
+
++ [复古生烂](https://m.acfun.cn/v/?ac=48905187)
+
++ [【熟肉】磁石相遇117](https://m.acfun.cn/v/?ac=48904607)
+
++ [41.从三叠纪泥沼中爬出的“远古巨龙”：有尾目演化的亿年史诗](https://m.acfun.cn/v/?ac=48899752)
+
++ [【逛吃哈尔滨】超多芝士深盘！下饭烤盘小炒！绕着哈工大吃了六家](https://m.acfun.cn/v/?ac=48905424)
+
++ [包芯线太适合做各种收纳了！](https://m.acfun.cn/v/?ac=48894927)
+
++ [皇冠魔兽史上第一次存款超过15000 魔兽争霸xiaoy解说sok sonik](https://m.acfun.cn/v/?ac=48904733)
+
++ [曾经还是三姐妹](https://m.acfun.cn/v/?ac=48900995)
+
++ [双11特别节目，98X3D无卡主机，哪些配件能缩，哪些绝对不能省？](https://m.acfun.cn/v/?ac=48904795)
+
++ [绝顶性感黑丝Stellar-Vibrato舞蹈翻跳](https://m.acfun.cn/v/?ac=48905043)
 
