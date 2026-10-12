@@ -173,3 +173,9 @@
 
 + [伊朗称美国对其重开霍尔木兹海峡条件回应不充分](https://news.cctv.com/2026/10/12/ARTIhtemqQaBSckoMFXUwp0q261012.shtml)
 
++ [泽连斯基回应特朗普：若停火60天 乌克兰便可举行大选](https://news.cctv.com/2026/10/12/ARTIABorwPDcOb9ftFdww3i6261012.shtml)
+
++ [印尼苏拉威西岛发生5.3级地震，震源深度110千米](https://news.cctv.com/2026/10/12/ARTICKCAJVadh4Gi62q3Jdo1261012.shtml)
+
++ [卢拉呼吁选民积极参与总统选举 强调重视青年群体](https://news.cctv.com/2026/10/12/ARTIJOGTase3B70asJWZ8tPW261012.shtml)
+

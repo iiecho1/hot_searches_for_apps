@@ -135,3 +135,53 @@
 
 + [两台 A6000，LingBot 应该先验哪条路径？](https://blog.csdn.net/w776341482/article/details/167467391)
 
++ [【PBAP】规范精讲[4]: 蓝牙PBAP协议核心能力拆解——电话本访问的功能体系与实现要求](https://blog.csdn.net/weixin_37800531/article/details/167175110)
+
++ [生命过程的分子语言：AI 解析范式与场景应用全景研究（下）](https://blog.csdn.net/kkiron/article/details/167587273)
+
++ [一个实打实的数据分析SKILL是如何诞生的？](https://blog.csdn.net/l1028386804/article/details/167595748)
+
++ [OpenClaw Windows部署：自定义模型接入、Gateway远程访问与设备配对](https://blog.csdn.net/liu_chen_yang/article/details/167683164)
+
++ [云原生存储进阶：CSI 演进与 AI 工作负载的存储架构设计](https://blog.csdn.net/vipxieliang/article/details/167579790)
+
++ [【花雕学编程】Arduino BLDC 之多传感器融合与机器人步态相位驱动的阻抗切换](https://blog.csdn.net/weixin_41659040/article/details/167496216)
+
++ [Berkeley Humanoid Lite——开源、易获取且可定制的3D打印小人形：5000美刀成本下的模块化设计、摆线关节、可行走、可VR遥操](https://blog.csdn.net/v_JULY_v/article/details/167573431)
+
++ [开源评测】openai/math 深度拆解：722 份 AI 数学手稿与 Lean 形式化的工程真相](https://blog.csdn.net/TunerT_TQ/article/details/167396987)
+
++ [基于连续与断续导通模式统一分析框架的高增益双向DC-DC变换器闭环控制与硬件实现研究（Matlab、Simulink、PSCD）](https://blog.csdn.net/weixin_46039719/article/details/167590084)
+
++ [CSS - 盒模型计算：box-sizing 的 content 与 border 盒模型](https://blog.csdn.net/qq_41187124/article/details/157723277)
+
++ [deepseek - CED揭秘：100万 token 时，KV 缓存是所有存储问题的焦点](https://blog.csdn.net/qq_38998213/article/details/167667593)
+
++ [数据库兼容模式排查：客户端能连上，但 SQL 没执行？](https://blog.csdn.net/augen1355/article/details/167652502)
+
++ [7亿Token算力账本：全生态AI编程工具日志解析与TokenBurn去水折算实战](https://blog.csdn.net/qq_46987323/article/details/167589153)
+
++ [Agent 上云部署实战（上）：从 GitHub 到 Linux，用 Dify 跑通中间件、域名和 HTTPS](https://blog.csdn.net/m0_56676311/article/details/167589533)
+
++ [基于 YOLOv8 的目标人物视觉跟踪与三维定位(可用于机器人follow me 以及人脸检测)](https://blog.csdn.net/caokaifa/article/details/167589497)
+
++ [【人在外面没带电脑，怎么让Codex继续干活？ToDesk远程终端实操案例】](https://blog.csdn.net/weixin_43025151/article/details/167497758)
+
++ [【计算几何】libnest2d之选择器](https://blog.csdn.net/he_zhidan/article/details/166793249)
+
++ [K8s OpenEBS LVM 动态存储 PVC Pending 排查记](https://blog.csdn.net/2302_80428966/article/details/167580967)
+
++ [【工具】在 Android 手机上运行 Docker](https://blog.csdn.net/sxf1061700625/article/details/167585755)
+
++ [成为全栈·Flutter App 篇·移动端错误与限流：429、重试和写请求边界](https://blog.csdn.net/FungLeo/article/details/167568424)
+
++ [Linux权限：shell命令以及运行原理和Linux权限](https://blog.csdn.net/Jammy_1/article/details/163782718)
+
++ [云原生服务网格](https://blog.csdn.net/qq_65032048/article/details/166575801)
+
++ [Skills 堆到 40 个反而拖慢 Claude Code：上下文占用实测与加载取舍](https://blog.csdn.net/weixin_71309014/article/details/167669376)
+
++ [用华为云码道开发策境 CampusFlow：让校园活动的人力安排，先在浏览器里推演一次](https://blog.csdn.net/maaath/article/details/167589321)
+
++ [部署实战（一）：2核2G轻量服务器Docker部署Java全栈及小程序上线避坑指南](https://blog.csdn.net/qq_44648243/article/details/167284162)
+
