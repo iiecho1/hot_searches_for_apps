@@ -159,3 +159,31 @@
 
 + [俄称鼠疫研究机构一员工确诊“不明原因肺炎” 克宫和世卫组织发声](https://news.cctv.com/2026/10/08/ARTIT97V7u9HNAVNua4sX6g7261008.shtml)
 
++ [俄方称欧盟单边制裁非法且毫无根据 俄将进行回应](https://news.cctv.com/2026/10/13/ARTIaEa6ItfmevxcbTN63CNM261013.shtml)
+
++ [西班牙一列高铁起火致线路中断 逾1万名旅客受影响](https://news.cctv.com/2026/10/13/ARTIKi6b6T24P02FoP0CFsqe261013.shtml)
+
++ [俄副总理：俄美已开始就柴油交易谈判](https://news.cctv.com/2026/10/13/ARTIzKfbZfHoo0ifvqXntizF261013.shtml)
+
++ [中方敦促加快非殖民化进程](https://news.cctv.com/2026/10/13/ARTIG6WL3pKbiKTXGF4ZheB4261013.shtml)
+
++ [古巴颁布新的石油和天然气法令 旨在推动能源独立](https://news.cctv.com/2026/10/13/ARTI052ZFfi8d1fS6agdTFkI261013.shtml)
+
++ [卡塔尔航空暂停往返沙特利雅得和达曼的航班](https://news.cctv.com/2026/10/13/ARTI0YyN0tkmvro6tIieaYBm261013.shtml)
+
++ [尼日利亚军方称打死40余名“疑似恐怖分子”](https://news.cctv.com/2026/10/13/ARTIGupxMD9VxC57UyO2R5sm261013.shtml)
+
++ [伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮](https://news.cctv.com/2026/10/13/ARTIvADw8pIizqTEhj6sLEON261013.shtml)
+
++ [国际移民组织：也门流离失所人数超21.7万](https://news.cctv.com/2026/10/13/ARTIoGZi9XreSfEadWSoPj5S261013.shtml)
+
++ [联合国报告：苏丹多个地区饥荒风险加剧](https://news.cctv.com/2026/10/13/ARTI2h0UCj7LHDzpT7dHnFCo261013.shtml)
+
++ [尼日利亚西北部袭击事件致22人死亡](https://news.cctv.com/2026/10/13/ARTIMoJn7PAB3ZLyeZ5e6Jct261013.shtml)
+
++ [英国首相：拒绝深化对欧关系将是“重大失职”](https://news.cctv.com/2026/10/13/ARTI9tH2tuRWtmwoM3KeVTQw261013.shtml)
+
++ [沙特利雅得国际机场将继续关闭至当地时间18日](https://news.cctv.com/2026/10/13/ARTIiO3YWerlKvGlTDre4wDa261013.shtml)
+
++ [波兰军方称“爱国者”导弹交付将延迟](https://news.cctv.com/2026/10/13/ARTI2UNtLQsB1lWORFProiRi261013.shtml)
+
