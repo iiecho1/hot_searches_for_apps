@@ -1,5 +1,35 @@
 ## CCTV新闻 
-### 2026-10-12
+### 2026-10-13
+
++ [以黎边境遗留弹药爆炸已致1死19伤](https://news.cctv.com/2026/10/13/ARTIzHPrBKDA6GKknD35LeWO261013.shtml)
+
++ [尼日利亚两起武装袭击致20余人死亡](https://news.cctv.com/2026/10/13/ARTIeyPe2kfnycEu0HfcdaUw261013.shtml)
+
++ [驻沙特大使馆再提醒：拟来沙特转机的中国公民慎重考虑当前沙特航空状况](https://news.cctv.com/2026/10/12/ARTI9li4WlPF74yR0cj72D8A261012.shtml)
+
++ [欧盟成员国外长通过针对俄军工产业近1600项制裁名单](https://news.cctv.com/2026/10/12/ARTIsVgJLfWwyDRN3pIU1iV9261012.shtml)
+
++ [沙特继续暂停利雅得国际机场运营](https://news.cctv.com/2026/10/12/ARTIChagdXVhYs0h4XD7p7wS261012.shtml)
+
++ [泽连斯基回应特朗普：若停火60天 乌克兰便可举行大选](https://news.cctv.com/2026/10/12/ARTIABorwPDcOb9ftFdww3i6261012.shtml)
+
++ [印尼苏拉威西岛发生5.3级地震，震源深度110千米](https://news.cctv.com/2026/10/12/ARTICKCAJVadh4Gi62q3Jdo1261012.shtml)
+
++ [卢拉呼吁选民积极参与总统选举 强调重视青年群体](https://news.cctv.com/2026/10/12/ARTIJOGTase3B70asJWZ8tPW261012.shtml)
+
++ [沙特民航总局：达曼法赫德国王国际机场遭袭](https://news.cctv.com/2026/10/12/ARTIJTbR1QgHqnT1z2GLWkuV261012.shtml)
+
++ [苏丹北部矿区遇袭 已致72人死亡](https://news.cctv.com/2026/10/12/ARTIjBwMDjnV07bayRNgRHel261012.shtml)
+
++ [泽连斯基称支持“能源停火” 乌武装部队已收到相关命令](https://news.cctv.com/2026/10/12/ARTIcVxcMd7QqyqKGfcq2FQb261012.shtml)
+
++ [巴沙埃土四国谴责胡塞武装持续对沙特发动袭击](https://news.cctv.com/2026/10/12/ARTIjRYNnuMVQUYCt2RjVOfW261012.shtml)
+
++ [沙特民航总局：利雅得机场再遭袭 已有人员受伤](https://news.cctv.com/2026/10/12/ARTIYLW9LsaKbdXCkhAtQ6Fg261012.shtml)
+
++ [特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”](https://news.cctv.com/2026/10/12/ARTIlNFqMrHCclZrS63hDovs261012.shtml)
+
++ [伊朗称美国对其重开霍尔木兹海峡条件回应不充分](https://news.cctv.com/2026/10/12/ARTIhtemqQaBSckoMFXUwp0q261012.shtml)
 
 + [特朗普称俄乌双方同意“能源停火”](https://news.cctv.com/2026/10/11/ARTIjeDOlq7PkzbtJHkks8bz261011.shtml)
 
@@ -128,54 +158,4 @@
 + [消息人士：沙特启动对迪拜航空安全事件的调查](https://news.cctv.com/2026/10/08/ARTI57I7T6S9U4w6Wi6oBH4J261008.shtml)
 
 + [俄称鼠疫研究机构一员工确诊“不明原因肺炎” 克宫和世卫组织发声](https://news.cctv.com/2026/10/08/ARTIT97V7u9HNAVNua4sX6g7261008.shtml)
-
-+ [总台记者观察丨日本谋求核潜艇计划引发多方坚决反对](https://news.cctv.com/2026/10/08/ARTIjZCfWIZrYknU4sWJYjEm261008.shtml)
-
-+ [泰国洪灾死亡人数升至60人 多地将迎新一轮强降雨](https://news.cctv.com/2026/10/08/ARTIqe5M7EncgLN9ajzz78kg261008.shtml)
-
-+ [刚果（金）埃博拉疫情确诊病例升至8665例](https://news.cctv.com/2026/10/08/ARTIpOk3ScKI99T02PTmFgo2261008.shtml)
-
-+ [乌外交部：乌方目前正研究“五种不同的停火机制”](https://news.cctv.com/2026/10/08/ARTIw6MrhcqghJVCXV93WPJw261008.shtml)
-
-+ [波兰一学校发生持刀袭击事件 至少10人受伤](https://news.cctv.com/2026/10/08/ARTIzj9VZDNQvC4peVK52Gqx261008.shtml)
-
-+ [伊朗高级官员：伊朗绝不会放弃铀浓缩权利](https://news.cctv.com/2026/10/08/ARTIlDBxK7ArpXXC2nOh1KeX261008.shtml)
-
-+ [安理会举行联合国秘书长遴选第五轮意向性投票](https://news.cctv.com/2026/10/08/ARTIrMclGfspOzrpVrM8UpdI261008.shtml)
-
-+ [法国雷诺阿博物馆遭窃近一月后多人被捕](https://news.cctv.com/2026/10/08/ARTITQpm4gbQMtDUK8Z7neB4261008.shtml)
-
-+ [国际能源署成员国同意加快释放1亿桶石油储备](https://news.cctv.com/2026/10/08/ARTIUh4H1KWaCA5OkRGGgABs261008.shtml)
-
-+ [三年冲突导致加沙7.4万人死亡 经济损失超800亿美元](https://news.cctv.com/2026/10/08/ARTI5UwnpaipnNh1X28T3w9Y261008.shtml)
-
-+ [国际货币基金组织预计高油价将持续至明年](https://news.cctv.com/2026/10/08/ARTIu4TrtXEat1BLsybptjtY261008.shtml)
-
-+ [日本频发企业客户数据安全事件](https://news.cctv.com/2026/10/08/ARTIEHp55AlKmmFGSIuwUzvD261008.shtml)
-
-+ [民调：多数德国人认为默茨政府不称职](https://news.cctv.com/2026/10/08/ARTIFpiUbn5FP88gacEuuzmn261008.shtml)
-
-+ [俄回应法国试射导弹：欧洲执着于军事化想法](https://news.cctv.com/2026/10/08/ARTIvs4L5tX6Fo1dabAJi6Fz261008.shtml)
-
-+ [佩斯科夫：若美方有倡议 将迅速协调普京与特朗普通话](https://news.cctv.com/2026/10/07/ARTIi79J2JabKGfMtnVgsOGt261007.shtml)
-
-+ [沙特民航总局：达曼法赫德国王国际机场遭袭](https://news.cctv.com/2026/10/12/ARTIJTbR1QgHqnT1z2GLWkuV261012.shtml)
-
-+ [苏丹北部矿区遇袭 已致72人死亡](https://news.cctv.com/2026/10/12/ARTIjBwMDjnV07bayRNgRHel261012.shtml)
-
-+ [泽连斯基称支持“能源停火” 乌武装部队已收到相关命令](https://news.cctv.com/2026/10/12/ARTIcVxcMd7QqyqKGfcq2FQb261012.shtml)
-
-+ [巴沙埃土四国谴责胡塞武装持续对沙特发动袭击](https://news.cctv.com/2026/10/12/ARTIjRYNnuMVQUYCt2RjVOfW261012.shtml)
-
-+ [沙特民航总局：利雅得机场再遭袭 已有人员受伤](https://news.cctv.com/2026/10/12/ARTIYLW9LsaKbdXCkhAtQ6Fg261012.shtml)
-
-+ [特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”](https://news.cctv.com/2026/10/12/ARTIlNFqMrHCclZrS63hDovs261012.shtml)
-
-+ [伊朗称美国对其重开霍尔木兹海峡条件回应不充分](https://news.cctv.com/2026/10/12/ARTIhtemqQaBSckoMFXUwp0q261012.shtml)
-
-+ [泽连斯基回应特朗普：若停火60天 乌克兰便可举行大选](https://news.cctv.com/2026/10/12/ARTIABorwPDcOb9ftFdww3i6261012.shtml)
-
-+ [印尼苏拉威西岛发生5.3级地震，震源深度110千米](https://news.cctv.com/2026/10/12/ARTICKCAJVadh4Gi62q3Jdo1261012.shtml)
-
-+ [卢拉呼吁选民积极参与总统选举 强调重视青年群体](https://news.cctv.com/2026/10/12/ARTIJOGTase3B70asJWZ8tPW261012.shtml)
 

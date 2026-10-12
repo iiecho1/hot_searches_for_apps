@@ -1,97 +1,63 @@
 ## AcFun 
-### 2026-10-12
-
-+ [《猫咪MBTI性格图鉴》](https://m.acfun.cn/v/?ac=48903543)
-
-+ [停停停，太快了！★手机竖屏2030★](https://m.acfun.cn/v/?ac=48904440)
-
-+ [网络上常见的热门短视频集锦   第三千四百八十二期](https://m.acfun.cn/v/?ac=48904734)
-
-+ [网络上常见的热门短视频集锦   第三千四百八十一期](https://m.acfun.cn/v/?ac=48904446)
-
-+ [连体旗袍~弹一首琵琶曲](https://m.acfun.cn/v/?ac=48905503)
-
-+ [你们最爱听的云长](https://m.acfun.cn/v/?ac=48905589)
-
-+ [相亲局【今天有什么好笑的 #2533】](https://m.acfun.cn/v/?ac=48905411)
-
-+ [【Takeko竹子/自生贺】小小的我 feat.我家UTAU](https://m.acfun.cn/v/?ac=48896797)
-
-+ [厨师长入行20多年开的第一家中餐馆，经营四年后决定搬迁！](https://m.acfun.cn/v/?ac=48905638)
-
-+ [帮Acer问一下地址在哪里？欢乐八点档-1799](https://m.acfun.cn/v/?ac=48904736)
-
-+ [离谱！打输了就超度队友？这届国产 MMO 彻底放飞了](https://m.acfun.cn/v/?ac=48905195)
-
-+ [厨师长教你复刻传统川菜：“白油猪肝”，咸鲜香嫩，不柴不腥](https://m.acfun.cn/v/?ac=48904910)
-
-+ [剑修第一课️](https://m.acfun.cn/v/?ac=48904519)
-
-+ [看完这个视频的家里请高人吧](https://m.acfun.cn/v/?ac=48881634)
-
-+ [【卡拉彼丘MMD】好女孩...](https://m.acfun.cn/v/?ac=48904477)
-
-+ [【柯基】《伴随军旗》｜朝鲜电影《军旗》主题曲](https://m.acfun.cn/v/?ac=48904812)
-
-+ [【短视频】唱这首歌时候的脑补…](https://m.acfun.cn/v/?ac=48884376)
-
-+ [带爸妈来云南玩儿了](https://m.acfun.cn/v/?ac=48905934)
-
-+ [烧鸟，凭什么这么贵？我选择自助餐！](https://m.acfun.cn/v/?ac=48905604)
-
-+ [血条消失术！2万分局！快速看完一局韩服王者斗殴局#854 0909, Tarzan ](https://m.acfun.cn/v/?ac=48898681)
-
-+ [佐天泪子 紫色迷情卧室 成熟系御姐【AI动画/超清】](https://m.acfun.cn/v/?ac=48904458)
-
-+ [复古生烂](https://m.acfun.cn/v/?ac=48905187)
-
-+ [【熟肉】磁石相遇117](https://m.acfun.cn/v/?ac=48904607)
-
-+ [41.从三叠纪泥沼中爬出的“远古巨龙”：有尾目演化的亿年史诗](https://m.acfun.cn/v/?ac=48899752)
-
-+ [【逛吃哈尔滨】超多芝士深盘！下饭烤盘小炒！绕着哈工大吃了六家](https://m.acfun.cn/v/?ac=48905424)
-
-+ [包芯线太适合做各种收纳了！](https://m.acfun.cn/v/?ac=48894927)
-
-+ [皇冠魔兽史上第一次存款超过15000 魔兽争霸xiaoy解说sok sonik](https://m.acfun.cn/v/?ac=48904733)
-
-+ [曾经还是三姐妹](https://m.acfun.cn/v/?ac=48900995)
-
-+ [双11特别节目，98X3D无卡主机，哪些配件能缩，哪些绝对不能省？](https://m.acfun.cn/v/?ac=48904795)
-
-+ [绝顶性感黑丝Stellar-Vibrato舞蹈翻跳](https://m.acfun.cn/v/?ac=48905043)
-
-+ [新英雄出了好多啊，还有人玩dva吗](https://m.acfun.cn/v/?ac=48906215)
-
-+ [当我在崩铁好声音附近录舞..](https://m.acfun.cn/v/?ac=48906072)
-
-+ [【异世界转生部实习生】cos炮姐被雪糕砸死了？](https://m.acfun.cn/v/?ac=48906191)
-
-+ [【观史君】兰香如故观后感](https://m.acfun.cn/v/?ac=48906281)
-
-+ [什么东西，这么燃？](https://m.acfun.cn/v/?ac=48905373)
-
-+ [【东方】Bad Apple!! 钢尺全自动弹奏装置完成了!!](https://m.acfun.cn/v/?ac=48902797)
-
-+ [【AI】小摆锤](https://m.acfun.cn/v/?ac=48906056)
-
-+ [【AI】宗门师姐](https://m.acfun.cn/v/?ac=48906025)
+### 2026-10-13
 
 + [《动物迷惑行为大赏327》](https://m.acfun.cn/v/?ac=48905897)
 
 + [川普选前重启战事，这账到底怎么算的？](https://m.acfun.cn/v/?ac=48906475)
 
-+ [闪身步！！！★手机竖屏2031★](https://m.acfun.cn/v/?ac=48906219)
++ [~ 不萌则已 一萌惊人 ~](https://m.acfun.cn/v/?ac=48907265)
 
-+ [哇~大梨呀~](https://m.acfun.cn/v/?ac=48906198)
++ [闪身步！！！★手机竖屏2031★](https://m.acfun.cn/v/?ac=48906219)
 
 + [网络上常见的热门短视频集锦   第三千四百八十三期](https://m.acfun.cn/v/?ac=48906231)
 
++ [网络上常见的热门短视频集锦   第三千四百八十四期](https://m.acfun.cn/v/?ac=48907080)
+
++ [健身房地址到底在哪里？欢乐八点档-1800](https://m.acfun.cn/v/?ac=48907791)
+
++ [牡丹花下死【今天有什么好笑的 #2534】](https://m.acfun.cn/v/?ac=48907592)
+
++ [“你好我是来自未来的S-B250”“看出来了”](https://m.acfun.cn/v/?ac=48906379)
+
++ [Your voice in my heart](https://m.acfun.cn/v/?ac=48906318)
+
++ [日本邪典老片！女子帮派集体复仇，裤裆藏手雷大战黑帮！](https://m.acfun.cn/v/?ac=48907197)
+
++ [【奧雷】邪恶女童肆意PUA玩伴，最终玩火自焚害人害己！](https://m.acfun.cn/v/?ac=48908346)
+
++ [这是我吃过，单价最便宜的美式烤肉！](https://m.acfun.cn/v/?ac=48908097)
+
++ [无名的人呐啊啊啊啊啊啊啊啊啊啊啊啊啊啊](https://m.acfun.cn/v/?ac=48907415)
+
++ [肉鸽+塔防+背包管理？策略解压爽游](https://m.acfun.cn/v/?ac=48908018)
+
 + [miss A Hush](https://m.acfun.cn/v/?ac=48906308)
 
-+ [T-ara Bo Peep Bo Peep](https://m.acfun.cn/v/?ac=48906254)
++ [请问视频里有几个ai](https://m.acfun.cn/v/?ac=48908294)
 
-+ [梦限大MewType「DIMENSIONAL OVERLAP」（邦邦 13th DAY1）](https://m.acfun.cn/v/?ac=48906015)
++ [我就是想随便找个灵堂哭一场](https://m.acfun.cn/v/?ac=48906481)
+
++ [可乐杀精竟被哈佛医学院证实【抽象科研01】](https://m.acfun.cn/v/?ac=48906996)
 
 + [EXID-Up&Down 上下](https://m.acfun.cn/v/?ac=48906282)
+
++ [互相抢龙，礼尚往来？！快速看完一局韩服王者斗殴局#855 王纪超, Bull, Ke, Keine,](https://m.acfun.cn/v/?ac=48901085)
+
++ [真相了！刘备要杀关羽，曹操反而要保关羽！那关羽自己是怎么想的？【真三国无双2with猛将传】复刻版](https://m.acfun.cn/v/?ac=48907283)
+
++ [御者，可不要让我在此等太久喔～](https://m.acfun.cn/v/?ac=48906386)
+
++ [NS允智-Yasisi](https://m.acfun.cn/v/?ac=48906290)
+
++ [快哉快哉](https://m.acfun.cn/v/?ac=48906671)
+
++ [旅行者1号：人类唯一飞出『太阳系火墙』的物体，它在259亿公里外，忽然发现了这个不应该存在的东西](https://m.acfun.cn/v/?ac=48906673)
+
++ [真正老司机](https://m.acfun.cn/v/?ac=48906478)
+
++ [【异环MMD】快进到拷打女特务隐藏CG](https://m.acfun.cn/v/?ac=48907854)
+
++ [被夕阳亲吻的sunkiss](https://m.acfun.cn/v/?ac=48907281)
+
++ [妹妹的家教老师来了-两个更快乐？](https://m.acfun.cn/v/?ac=48906939)
 
