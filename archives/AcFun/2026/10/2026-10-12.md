@@ -71,3 +71,9 @@
 
 + [什么东西，这么燃？](https://m.acfun.cn/v/?ac=48905373)
 
++ [【东方】Bad Apple!! 钢尺全自动弹奏装置完成了!!](https://m.acfun.cn/v/?ac=48902797)
+
++ [【AI】小摆锤](https://m.acfun.cn/v/?ac=48906056)
+
++ [【AI】宗门师姐](https://m.acfun.cn/v/?ac=48906025)
+
