@@ -159,3 +159,11 @@
 
 + [“为全球南方国家提供新的发展选项”](https://news.cctv.com/2026/10/09/ARTIow7b9UBvoBt1vVPg486u261009.shtml)
 
++ [英国伦敦金融城发生天然气泄漏 约4700人被疏散](https://news.cctv.com/2026/10/14/ARTILs1JZvo8RyicqF5FHw5b261014.shtml)
+
++ [泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈](https://news.cctv.com/2026/10/14/ARTIqr3ywXnGlKpqFf0CPE1p261014.shtml)
+
++ [也门胡塞武装称沙特24小时内发动104次袭击](https://news.cctv.com/2026/10/14/ARTILnRUsCQgy1eyY8k0uMu8261014.shtml)
+
++ [美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控](https://news.cctv.com/2026/10/14/ARTIYy3A7nIZYuu44nXE1KGy261014.shtml)
+

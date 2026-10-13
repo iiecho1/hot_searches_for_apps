@@ -101,3 +101,7 @@
 
 + [XChat - 一款基于 Flutter 的跨平台 LLM Agent 客户端](https://blog.csdn.net/paiooo/article/details/167795006)
 
++ [【开源一页纸｜L3静态审计】xet-core：HuggingFace 基于Rust的大模型海量文件版本存储内核](https://blog.csdn.net/TunerT_TQ/article/details/167693734)
+
++ [Jenkins 进阶实战：企业里真正在用的那套玩法（二）](https://blog.csdn.net/alianfibakic/article/details/167783314)
+
