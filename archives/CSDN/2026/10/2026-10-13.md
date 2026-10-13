@@ -101,3 +101,29 @@
 
 + [Penpot自托管设计协作：Docker部署、MCP接入与Codex生成UI实操记录](https://blog.csdn.net/Pocker_Spades_A/article/details/167496676)
 
++ [【HOGP】规范精讲[8]: 吃透HOGP核心缩写，打通BLE人机交互底层逻辑](https://blog.csdn.net/weixin_37800531/article/details/167497116)
+
++ [GitHub 爆火 REA 逆向工程工具：让 AI Agent 自动逆向二进制程序](https://blog.csdn.net/2401_87662859/article/details/167586450)
+
++ [从飞牛NAS部署到手机远程访问：洛雪音乐网页版的多用户、主题设置、本地缓存与固定地址实战](https://blog.csdn.net/qq_54796785/article/details/167704188)
+
++ [Qt 网络编程深度解析：从底层 UDP/TCP 到高层 HTTP 实战](https://blog.csdn.net/yhrxh_ymq/article/details/166989664)
+
++ [【口袋专家AI公开课】从0到1智能体开发：旅行专家Agent原理与实战](https://blog.csdn.net/weixin_48007632/article/details/167696561)
+
++ [Coordination Engineering 落地实践：JiuwenSwarm 人机协同智能客服全流程演示](https://blog.csdn.net/user340/article/details/167700268)
+
++ [【从0开始学习计算机网络】| ip协议-ttl-标识-分片偏移-ip分片与重组](https://blog.csdn.net/2503_94545876/article/details/167471324)
+
++ [人看太累机器看不懂？开启JSON Mode让大模型吐出纯结构化数据](https://blog.csdn.net/weixin_43151418/article/details/167572639)
+
++ [MySQL连接数暴增与Too many connections故障处理：深度解析与实战解决方案](https://blog.csdn.net/qq_41840843/article/details/167577995)
+
++ [【无人机检测】基于matlab自主无人机群中的GNSS完整性检测与控制【含Matlab源码 16059期】](https://blog.csdn.net/TIQCmatlab/article/details/167687212)
+
++ [鸿蒙端ToDesk远控电脑实测：蓝牙键鼠、双模式鼠标与跨端剪贴板实践](https://blog.csdn.net/2402_83344867/article/details/167664632)
+
++ [【Linux 系统篇(二十八)】文件(五)：Ext 系列文件系统（下）：Ext2块组结构，inode与文件寻址原理](https://blog.csdn.net/Huang_jin007/article/details/167559232)
+
++ [Redis 主从复制、Sentinel 和 Cluster 到底有什么区别？](https://blog.csdn.net/2403_87560480/article/details/167589795)
+

@@ -187,3 +187,15 @@
 
 + [波兰军方称“爱国者”导弹交付将延迟](https://news.cctv.com/2026/10/13/ARTI2UNtLQsB1lWORFProiRi261013.shtml)
 
++ [河水暴涨 阿根廷临时关闭伊瓜苏瀑布景区](https://news.cctv.com/2026/10/13/ARTI8t8iRLdHAtYKa39WJu3L261013.shtml)
+
++ [国际货币基金组织上调2026年世界经济增长预期至3.1%](https://news.cctv.com/2026/10/13/ARTISPmfSPlZriAZuV6jqtlt261013.shtml)
+
++ [阿联酋航空一飞往迪拜的客机因机械故障返航](https://news.cctv.com/2026/10/13/ARTIQpHxGt6CdIQnJBlH81vN261013.shtml)
+
++ [厄瓜多尔一监狱发生越狱事件](https://news.cctv.com/2026/10/13/ARTI1khm6RUOGV7OiHLxtRx7261013.shtml)
+
++ [玻利维亚一辆小巴坠河 致10人死亡](https://news.cctv.com/2026/10/13/ARTIGZpjeqIJmpGGdclpWL0S261013.shtml)
+
++ [法国数百家超市制冷系统遭网攻 大量食品变质](https://news.cctv.com/2026/10/13/ARTIQJ70idFKlOcDA4phmbe5261013.shtml)
+
