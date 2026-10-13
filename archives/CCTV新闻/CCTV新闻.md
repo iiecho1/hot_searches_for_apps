@@ -1,5 +1,59 @@
 ## CCTV新闻 
-### 2026-10-13
+### 2026-10-14
+
++ [美国飞以色列客机据称接到炸弹威胁 机上人员已撤离](https://news.cctv.com/2026/10/13/ARTIsRl8sSOrl5OF0fn1t37i261013.shtml)
+
++ [“让跨越太平洋的友谊生生不息”](https://news.cctv.com/2026/10/13/ARTIt5YaHIHYH9WLRrq2A5jY261013.shtml)
+
++ [文明对话应成为超越分歧、增进互鉴的桥梁（国际论坛）](https://news.cctv.com/2026/10/13/ARTIiIGGumvKQX5Fla1ntuDD261013.shtml)
+
++ [“唯有正视历史、彻底反省，才能真正面向未来”（国际视点）](https://news.cctv.com/2026/10/13/ARTIKWxyMPbRUr70zHJ98tEa261013.shtml)
+
++ [菲检方撤回三项对副总统莎拉的弹劾指控](https://news.cctv.com/2026/10/13/ARTIz8aBTOe1cSZlBFhRqWm2261013.shtml)
+
++ [韩国仁川发生持刀伤人事件 已致8人受伤](https://news.cctv.com/2026/10/13/ARTI3GGmdfhTp3Kucv46pklo261013.shtml)
+
++ [苏丹首都发生枪击事件 造成3名埃及公民伤亡](https://news.cctv.com/2026/10/13/ARTIZ3sdtlThSpWnm1kDpNPn261013.shtml)
+
++ [河水暴涨 阿根廷临时关闭伊瓜苏瀑布景区](https://news.cctv.com/2026/10/13/ARTI8t8iRLdHAtYKa39WJu3L261013.shtml)
+
++ [国际货币基金组织上调2026年世界经济增长预期至3.1%](https://news.cctv.com/2026/10/13/ARTISPmfSPlZriAZuV6jqtlt261013.shtml)
+
++ [阿联酋航空一飞往迪拜的客机因机械故障返航](https://news.cctv.com/2026/10/13/ARTIQpHxGt6CdIQnJBlH81vN261013.shtml)
+
++ [厄瓜多尔一监狱发生越狱事件](https://news.cctv.com/2026/10/13/ARTI1khm6RUOGV7OiHLxtRx7261013.shtml)
+
++ [玻利维亚一辆小巴坠河 致10人死亡](https://news.cctv.com/2026/10/13/ARTIGZpjeqIJmpGGdclpWL0S261013.shtml)
+
++ [法国数百家超市制冷系统遭网攻 大量食品变质](https://news.cctv.com/2026/10/13/ARTIQJ70idFKlOcDA4phmbe5261013.shtml)
+
++ [俄方称欧盟单边制裁非法且毫无根据 俄将进行回应](https://news.cctv.com/2026/10/13/ARTIaEa6ItfmevxcbTN63CNM261013.shtml)
+
++ [西班牙一列高铁起火致线路中断 逾1万名旅客受影响](https://news.cctv.com/2026/10/13/ARTIKi6b6T24P02FoP0CFsqe261013.shtml)
+
++ [俄副总理：俄美已开始就柴油交易谈判](https://news.cctv.com/2026/10/13/ARTIzKfbZfHoo0ifvqXntizF261013.shtml)
+
++ [中方敦促加快非殖民化进程](https://news.cctv.com/2026/10/13/ARTIG6WL3pKbiKTXGF4ZheB4261013.shtml)
+
++ [古巴颁布新的石油和天然气法令 旨在推动能源独立](https://news.cctv.com/2026/10/13/ARTI052ZFfi8d1fS6agdTFkI261013.shtml)
+
++ [卡塔尔航空暂停往返沙特利雅得和达曼的航班](https://news.cctv.com/2026/10/13/ARTI0YyN0tkmvro6tIieaYBm261013.shtml)
+
++ [尼日利亚军方称打死40余名“疑似恐怖分子”](https://news.cctv.com/2026/10/13/ARTIGupxMD9VxC57UyO2R5sm261013.shtml)
+
++ [伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮](https://news.cctv.com/2026/10/13/ARTIvADw8pIizqTEhj6sLEON261013.shtml)
+
++ [国际移民组织：也门流离失所人数超21.7万](https://news.cctv.com/2026/10/13/ARTIoGZi9XreSfEadWSoPj5S261013.shtml)
+
++ [联合国报告：苏丹多个地区饥荒风险加剧](https://news.cctv.com/2026/10/13/ARTI2h0UCj7LHDzpT7dHnFCo261013.shtml)
+
++ [尼日利亚西北部袭击事件致22人死亡](https://news.cctv.com/2026/10/13/ARTIMoJn7PAB3ZLyeZ5e6Jct261013.shtml)
+
++ [英国首相：拒绝深化对欧关系将是“重大失职”](https://news.cctv.com/2026/10/13/ARTI9tH2tuRWtmwoM3KeVTQw261013.shtml)
+
++ [沙特利雅得国际机场将继续关闭至当地时间18日](https://news.cctv.com/2026/10/13/ARTIiO3YWerlKvGlTDre4wDa261013.shtml)
+
++ [波兰军方称“爱国者”导弹交付将延迟](https://news.cctv.com/2026/10/13/ARTI2UNtLQsB1lWORFProiRi261013.shtml)
 
 + [以黎边境遗留弹药爆炸已致1死19伤](https://news.cctv.com/2026/10/13/ARTIzHPrBKDA6GKknD35LeWO261013.shtml)
 
@@ -104,112 +158,4 @@
 + [国际观察｜冲绳命案凸显日本倚美恶果](https://news.cctv.com/2026/10/09/ARTIWel9K7eflMPL7RpIP0kG261009.shtml)
 
 + [“为全球南方国家提供新的发展选项”](https://news.cctv.com/2026/10/09/ARTIow7b9UBvoBt1vVPg486u261009.shtml)
-
-+ [巴西总统卢拉调整竞选策略以提振选情](https://news.cctv.com/2026/10/09/ARTIQChEWaSMybAhPODG0DFq261009.shtml)
-
-+ [美媒：美方将在美乌新一轮会谈中提出停火“新点子”](https://news.cctv.com/2026/10/09/ARTI2LeOBz0GW3jRPDNQMUbH261009.shtml)
-
-+ [记者Vlog丨马东铁开通倒计时 登车感受“最后的体检”](https://news.cctv.com/2026/10/09/ARTI7KHtukFsRYalp1RO09id261009.shtml)
-
-+ [日本自民党再曝丑闻　爱知县副议长强闯亚运赛场](https://news.cctv.com/2026/10/09/ARTItVJ6KNzqE5YnJatuaWVh261009.shtml)
-
-+ [邦加岛惨案，日军罪行岂容遗忘（环球走笔）](https://news.cctv.com/2026/10/09/ARTIsWEaX2SkWKXZDW5RXSuI261009.shtml)
-
-+ [中国代表：美国执迷于绝对战略优势](https://news.cctv.com/2026/10/09/ARTIuAvyKpeg9TJAB7OqHAr7261009.shtml)
-
-+ [中国代表：日本已成为威胁地区和平稳定的突出因素](https://news.cctv.com/2026/10/09/ARTIilohPCoLYB41huIJsfMs261009.shtml)
-
-+ [伊朗官员称将采取任何行动维护国家利益](https://news.cctv.com/2026/10/09/ARTIYlNn8OBegkG0pN95tb2D261009.shtml)
-
-+ [马达加斯加首都发生食物中毒事件 183人送医](https://news.cctv.com/2026/10/09/ARTIwr8axp0eBqzhjkd1zZ3q261009.shtml)
-
-+ [刚果（金）埃博拉疫情依然严峻 跨境传播风险上升](https://news.cctv.com/2026/10/09/ARTIwfq51IWo964Qu4PyoSVN261009.shtml)
-
-+ [泽连斯基：乌美9日将就乌克兰危机进行新一轮会谈](https://news.cctv.com/2026/10/09/ARTIQrn8LJe4cTuX5AI23vwk261009.shtml)
-
-+ [胡塞武装导弹残骸坠落利雅得 致幼儿园和医疗设施受损](https://news.cctv.com/2026/10/09/ARTIIUQPgZTv9v0dNwxFETax261009.shtml)
-
-+ [特朗普：不会在中期选举之前攻击伊朗](https://news.cctv.com/2026/10/09/ARTIIryfEy4DNEkmCOd2EKP2261009.shtml)
-
-+ [结束10个月部署 美国“林肯”号航母返回圣迭戈母港](https://news.cctv.com/2026/10/09/ARTIwyWv3zPLzr9SI3ULYq99261009.shtml)
-
-+ [迪拜航空航班险情中挺身而出 6名以色列人获表彰](https://news.cctv.com/2026/10/09/ARTIEsnwArob0QcFhDMV5xtb261009.shtml)
-
-+ [英国警方承认对国王之弟安德鲁住所的搜查令不合法](https://news.cctv.com/2026/10/09/ARTI71vB6u6i0SiZbfWbVKMC261009.shtml)
-
-+ [美方指控委总统马杜罗及其妻子“共谋实施酷刑”](https://news.cctv.com/2026/10/08/ARTIU5BhrPGCsStU3JD7cYbb261008.shtml)
-
-+ [2027长春大冬会火种在意大利都灵成功采集](https://news.cctv.com/2026/10/08/ARTICTYPktB8q2o5n5EUrxq1261008.shtml)
-
-+ [荷兰已有10人因感染西尼罗病毒死亡](https://news.cctv.com/2026/10/08/ARTIcynHAZSVQ8moYx1xu4th261008.shtml)
-
-+ [欧盟理事会延长对俄罗斯相关个人和实体制裁](https://news.cctv.com/2026/10/08/ARTIvB4Zo1Dih0Ix1ITccNtv261008.shtml)
-
-+ [德国总理默茨会见英国首相伯纳姆 两国友好条约正式生效](https://news.cctv.com/2026/10/08/ARTIRyX6wHPxDoyaXf1hswCb261008.shtml)
-
-+ [施压与试探并行 美酝酿重启对伊朗军事行动](https://news.cctv.com/2026/10/08/ARTINLFSaJkjQjpAoEhQAY2d261008.shtml)
-
-+ [中国公民在马尔代夫不幸溺亡 我使馆发布安全提醒](https://news.cctv.com/2026/10/08/ARTIBHFg393naYPa7wLYXlAE261008.shtml)
-
-+ [英外交大臣：不接受以色列关闭英驻耶路撒冷领事馆](https://news.cctv.com/2026/10/08/ARTIIG0zEeCPoHLv2H27oiHf261008.shtml)
-
-+ [以色列宣布关闭英国驻耶路撒冷领事馆](https://news.cctv.com/2026/10/08/ARTIkHVaBZ6DQqQLgG6P86hL261008.shtml)
-
-+ [消息人士：沙特启动对迪拜航空安全事件的调查](https://news.cctv.com/2026/10/08/ARTI57I7T6S9U4w6Wi6oBH4J261008.shtml)
-
-+ [俄称鼠疫研究机构一员工确诊“不明原因肺炎” 克宫和世卫组织发声](https://news.cctv.com/2026/10/08/ARTIT97V7u9HNAVNua4sX6g7261008.shtml)
-
-+ [俄方称欧盟单边制裁非法且毫无根据 俄将进行回应](https://news.cctv.com/2026/10/13/ARTIaEa6ItfmevxcbTN63CNM261013.shtml)
-
-+ [西班牙一列高铁起火致线路中断 逾1万名旅客受影响](https://news.cctv.com/2026/10/13/ARTIKi6b6T24P02FoP0CFsqe261013.shtml)
-
-+ [俄副总理：俄美已开始就柴油交易谈判](https://news.cctv.com/2026/10/13/ARTIzKfbZfHoo0ifvqXntizF261013.shtml)
-
-+ [中方敦促加快非殖民化进程](https://news.cctv.com/2026/10/13/ARTIG6WL3pKbiKTXGF4ZheB4261013.shtml)
-
-+ [古巴颁布新的石油和天然气法令 旨在推动能源独立](https://news.cctv.com/2026/10/13/ARTI052ZFfi8d1fS6agdTFkI261013.shtml)
-
-+ [卡塔尔航空暂停往返沙特利雅得和达曼的航班](https://news.cctv.com/2026/10/13/ARTI0YyN0tkmvro6tIieaYBm261013.shtml)
-
-+ [尼日利亚军方称打死40余名“疑似恐怖分子”](https://news.cctv.com/2026/10/13/ARTIGupxMD9VxC57UyO2R5sm261013.shtml)
-
-+ [伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮](https://news.cctv.com/2026/10/13/ARTIvADw8pIizqTEhj6sLEON261013.shtml)
-
-+ [国际移民组织：也门流离失所人数超21.7万](https://news.cctv.com/2026/10/13/ARTIoGZi9XreSfEadWSoPj5S261013.shtml)
-
-+ [联合国报告：苏丹多个地区饥荒风险加剧](https://news.cctv.com/2026/10/13/ARTI2h0UCj7LHDzpT7dHnFCo261013.shtml)
-
-+ [尼日利亚西北部袭击事件致22人死亡](https://news.cctv.com/2026/10/13/ARTIMoJn7PAB3ZLyeZ5e6Jct261013.shtml)
-
-+ [英国首相：拒绝深化对欧关系将是“重大失职”](https://news.cctv.com/2026/10/13/ARTI9tH2tuRWtmwoM3KeVTQw261013.shtml)
-
-+ [沙特利雅得国际机场将继续关闭至当地时间18日](https://news.cctv.com/2026/10/13/ARTIiO3YWerlKvGlTDre4wDa261013.shtml)
-
-+ [波兰军方称“爱国者”导弹交付将延迟](https://news.cctv.com/2026/10/13/ARTI2UNtLQsB1lWORFProiRi261013.shtml)
-
-+ [河水暴涨 阿根廷临时关闭伊瓜苏瀑布景区](https://news.cctv.com/2026/10/13/ARTI8t8iRLdHAtYKa39WJu3L261013.shtml)
-
-+ [国际货币基金组织上调2026年世界经济增长预期至3.1%](https://news.cctv.com/2026/10/13/ARTISPmfSPlZriAZuV6jqtlt261013.shtml)
-
-+ [阿联酋航空一飞往迪拜的客机因机械故障返航](https://news.cctv.com/2026/10/13/ARTIQpHxGt6CdIQnJBlH81vN261013.shtml)
-
-+ [厄瓜多尔一监狱发生越狱事件](https://news.cctv.com/2026/10/13/ARTI1khm6RUOGV7OiHLxtRx7261013.shtml)
-
-+ [玻利维亚一辆小巴坠河 致10人死亡](https://news.cctv.com/2026/10/13/ARTIGZpjeqIJmpGGdclpWL0S261013.shtml)
-
-+ [法国数百家超市制冷系统遭网攻 大量食品变质](https://news.cctv.com/2026/10/13/ARTIQJ70idFKlOcDA4phmbe5261013.shtml)
-
-+ [美国飞以色列客机据称接到炸弹威胁 机上人员已撤离](https://news.cctv.com/2026/10/13/ARTIsRl8sSOrl5OF0fn1t37i261013.shtml)
-
-+ [“让跨越太平洋的友谊生生不息”](https://news.cctv.com/2026/10/13/ARTIt5YaHIHYH9WLRrq2A5jY261013.shtml)
-
-+ [文明对话应成为超越分歧、增进互鉴的桥梁（国际论坛）](https://news.cctv.com/2026/10/13/ARTIiIGGumvKQX5Fla1ntuDD261013.shtml)
-
-+ [“唯有正视历史、彻底反省，才能真正面向未来”（国际视点）](https://news.cctv.com/2026/10/13/ARTIKWxyMPbRUr70zHJ98tEa261013.shtml)
-
-+ [菲检方撤回三项对副总统莎拉的弹劾指控](https://news.cctv.com/2026/10/13/ARTIz8aBTOe1cSZlBFhRqWm2261013.shtml)
-
-+ [韩国仁川发生持刀伤人事件 已致8人受伤](https://news.cctv.com/2026/10/13/ARTI3GGmdfhTp3Kucv46pklo261013.shtml)
-
-+ [苏丹首都发生枪击事件 造成3名埃及公民伤亡](https://news.cctv.com/2026/10/13/ARTIZ3sdtlThSpWnm1kDpNPn261013.shtml)
 

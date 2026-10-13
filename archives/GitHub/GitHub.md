@@ -1,27 +1,21 @@
 ## GitHub 
-### 2026-10-13
+### 2026-10-14
 
 + [morluto/rea](https://github.com/morluto/rea)
 
 + [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
++ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
 + [mksglu/context-mode](https://github.com/mksglu/context-mode)
-
-+ [storytold/artcraft](https://github.com/storytold/artcraft)
-
-+ [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
 + [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 
++ [vercel-labs/skills](https://github.com/vercel-labs/skills)
+
 + [lyogavin/airllm](https://github.com/lyogavin/airllm)
 
-+ [microsoft/BitNet](https://github.com/microsoft/BitNet)
-
-+ [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-
-+ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-+ [vercel-labs/skills](https://github.com/vercel-labs/skills)
++ [storytold/artcraft](https://github.com/storytold/artcraft)
 
 + [xtool-org/xtool](https://github.com/xtool-org/xtool)
 
