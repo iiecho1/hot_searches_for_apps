@@ -199,3 +199,17 @@
 
 + [法国数百家超市制冷系统遭网攻 大量食品变质](https://news.cctv.com/2026/10/13/ARTIQJ70idFKlOcDA4phmbe5261013.shtml)
 
++ [美国飞以色列客机据称接到炸弹威胁 机上人员已撤离](https://news.cctv.com/2026/10/13/ARTIsRl8sSOrl5OF0fn1t37i261013.shtml)
+
++ [“让跨越太平洋的友谊生生不息”](https://news.cctv.com/2026/10/13/ARTIt5YaHIHYH9WLRrq2A5jY261013.shtml)
+
++ [文明对话应成为超越分歧、增进互鉴的桥梁（国际论坛）](https://news.cctv.com/2026/10/13/ARTIiIGGumvKQX5Fla1ntuDD261013.shtml)
+
++ [“唯有正视历史、彻底反省，才能真正面向未来”（国际视点）](https://news.cctv.com/2026/10/13/ARTIKWxyMPbRUr70zHJ98tEa261013.shtml)
+
++ [菲检方撤回三项对副总统莎拉的弹劾指控](https://news.cctv.com/2026/10/13/ARTIz8aBTOe1cSZlBFhRqWm2261013.shtml)
+
++ [韩国仁川发生持刀伤人事件 已致8人受伤](https://news.cctv.com/2026/10/13/ARTI3GGmdfhTp3Kucv46pklo261013.shtml)
+
++ [苏丹首都发生枪击事件 造成3名埃及公民伤亡](https://news.cctv.com/2026/10/13/ARTIZ3sdtlThSpWnm1kDpNPn261013.shtml)
+

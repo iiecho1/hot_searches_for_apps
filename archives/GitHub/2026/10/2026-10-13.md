@@ -19,3 +19,9 @@
 
 + [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
++ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
++ [vercel-labs/skills](https://github.com/vercel-labs/skills)
+
++ [xtool-org/xtool](https://github.com/xtool-org/xtool)
+

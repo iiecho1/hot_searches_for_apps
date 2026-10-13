@@ -127,3 +127,35 @@
 
 + [Redis 主从复制、Sentinel 和 Cluster 到底有什么区别？](https://blog.csdn.net/2403_87560480/article/details/167589795)
 
++ [生命过程的分子语言：AI 解析范式与场景应用全景研究（上）](https://blog.csdn.net/kkiron/article/details/167587199)
+
++ [AiiOnly Token Plan：Standard 档，把 12 款大模型接进 PyCharm 写完三种形态](https://blog.csdn.net/weixin_43151418/article/details/167803739)
+
++ [从 KStudio 到 KSQL Developer：国产数据库的 SQL 编辑器，已经卷到这个程度了](https://blog.csdn.net/2302_78391795/article/details/167770119)
+
++ [AI 开始“拆解世界“：REA 为什么火了？Reverse Engineer Anything 如何让 Agent 逆向一切？](https://blog.csdn.net/2401_89160889/article/details/167783918)
+
++ [【粉丝福利社】WorkBuddy高效办公：从0到1搭建你的专属AI工作系统](https://blog.csdn.net/aa2528877987/article/details/167698957)
+
++ [20多块玩客云别吃灰：刷HiNas后做成能远程访问的低功耗NAS](https://blog.csdn.net/COLLINSXU/article/details/167801989)
+
++ [AGENTS.md 越写越长之后：如何管理 AI 的上下文](https://blog.csdn.net/weixin_74809706/article/details/167222563)
+
++ [TCP可靠传输机制、滑动窗口控制与字节流粘包处理介绍](https://blog.csdn.net/2401_86112610/article/details/167382284)
+
++ [【Linux-System】【ELF加载揭秘：从磁盘到CPU的硬核旅程】流食般投喂](https://blog.csdn.net/dj_798/article/details/167703126)
+
++ [Kafka 消息积压 100 万条：消费者组 rebalance 的 4 个触发条件与 3 步定位](https://blog.csdn.net/2501_92769340/article/details/167704536)
+
++ [【无人机】基于matlab比例导航PPN技术追踪机动目标3D拦截无人机模拟【含Matlab源码 16067期】](https://blog.csdn.net/TIQCmatlab/article/details/167798712)
+
++ [大模型技术全景(二十二)：RAG 数据入库与向量数据库](https://blog.csdn.net/2502_94387000/article/details/167178505)
+
++ [Linux系统——库的原理与制作之ELF文件的形成与加载的过程（上）](https://blog.csdn.net/2501_93697341/article/details/167391832)
+
++ [【Linux】揭开文件系统神秘的面纱：第四讲：可执行文件的组装车间](https://blog.csdn.net/button__c/article/details/167802564)
+
++ [鸿蒙平板远控电脑实测：ToDesk蓝牙键鼠、双模式鼠标与跨端剪贴板落地记录](https://blog.csdn.net/2402_83344867/article/details/167699939)
+
++ [不再逐台装Docker：我用Ansible Playbook批量统一服务器环境](https://blog.csdn.net/2401_84720739/article/details/167794848)
+
