@@ -21,3 +21,9 @@
 
 + [求推荐扫地机](https://www.v2ex.com/t/1248365)
 
++ [昨天把家里 Wi-Fi 2.4G 和 5G 分开了，你们呢？](https://www.v2ex.com/t/1248569)
+
++ [最好看最好用的 iOS V2EX 客户端过审了，欢迎 TestFlight 体验打脸](https://www.v2ex.com/t/1248562)
+
++ [如果存在一个又赌又自尊心强的父亲该怎么办？](https://www.v2ex.com/t/1248333)
+

@@ -167,3 +167,11 @@
 
 + [美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控](https://news.cctv.com/2026/10/14/ARTIYy3A7nIZYuu44nXE1KGy261014.shtml)
 
++ [日方就日本记者在俄远东被捕事件与俄方交涉](https://news.cctv.com/2026/10/14/ARTIbDgAffrkvGotSnlYtkfL261014.shtml)
+
++ [联合国警告：也门塔伊兹小麦和面粉库存恐不足三周](https://news.cctv.com/2026/10/14/ARTIjYjIjIwuAZehRXGHQVnd261014.shtml)
+
++ [伊朗海军提醒船只通过霍尔木兹海峡时进行必要协调](https://news.cctv.com/2026/10/14/ARTIfYZIvRJXvqRwLqZ3VpMc261014.shtml)
+
++ [我驻英国使馆发言人就英情报官员涉华错误言论答记者问](https://news.cctv.com/2026/10/14/ARTIgw0rIT2T2J4zQKHLJLkQ261014.shtml)
+

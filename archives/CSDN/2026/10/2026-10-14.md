@@ -105,3 +105,15 @@
 
 + [Jenkins 进阶实战：企业里真正在用的那套玩法（二）](https://blog.csdn.net/alianfibakic/article/details/167783314)
 
++ [AI 生图进阶指南：如何去噪、优化画面，让图片更符合自己的审美？](https://blog.csdn.net/2501_91731683/article/details/167809675)
+
++ [C++ 异步任务的结果怎么拿回来？一文讲清 future、async、promise、shared_future 与 packaged_task](https://blog.csdn.net/2403_86779341/article/details/167813651)
+
++ [Qt+TiePieHS3开发笔记（二）：HS3发送器发出内置波形、直连示波器，示波器检测内置波形Demo](https://blog.csdn.net/qq21497936/article/details/167589503)
+
++ [linux（11）信号](https://blog.csdn.net/2601_96394870/article/details/167573445)
+
++ [Skills 增至 30 个，Claude Code 反而变慢：token 与加载实测](https://blog.csdn.net/weixin_71309014/article/details/167699818)
+
++ [总用电下降了，为什么家庭能源看板仍然提示异常](https://blog.csdn.net/Dovis5884/article/details/167812080)
+
