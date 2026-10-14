@@ -117,3 +117,23 @@
 
 + [总用电下降了，为什么家庭能源看板仍然提示异常](https://blog.csdn.net/Dovis5884/article/details/167812080)
 
++ [GitHub 爆火 REA 逆向工程工具：让 AI Agent 自动逆向二进制程序](https://blog.csdn.net/2401_87662859/article/details/167586450)
+
++ [联名警告与3天奇迹：AI造AI到底有几分真](https://blog.csdn.net/wodekouwei/article/details/167702475)
+
++ [【口袋专家AI公开课】从0到1智能体开发：旅行专家Agent原理与实战](https://blog.csdn.net/weixin_48007632/article/details/167696561)
+
++ [【VCP】精讲[2]：蓝牙音量控制的配置骨架，角色与拓扑的核心设计](https://blog.csdn.net/weixin_37800531/article/details/167497145)
+
++ [SQL 编辑器不只是写查询：我用 KStudio 排查一次订单异常](https://blog.csdn.net/Mrxiao_bo/article/details/167811338)
+
++ [Agent 事件驱动架构：从轮询到事件触发的架构升级](https://blog.csdn.net/sinat_41617212/article/details/167811005)
+
++ [Agent 上云部署实战（上）：从 GitHub 到 Linux，用 Dify 跑通中间件、域名和 HTTPS](https://blog.csdn.net/m0_56676311/article/details/167589533)
+
++ [Linux权限：shell命令以及运行原理和Linux权限](https://blog.csdn.net/Jammy_1/article/details/163782718)
+
++ [【网络优化】减少B站直播卡顿的上行占用：AdGuard nowebrtc规则 / WebRTC Control 实测](https://blog.csdn.net/dfraetaem/article/details/167812476)
+
++ [一个轻量化的Codex Web UI](https://blog.csdn.net/qq_42727752/article/details/167809185)
+

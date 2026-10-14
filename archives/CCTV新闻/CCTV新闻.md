@@ -175,3 +175,11 @@
 
 + [我驻英国使馆发言人就英情报官员涉华错误言论答记者问](https://news.cctv.com/2026/10/14/ARTIgw0rIT2T2J4zQKHLJLkQ261014.shtml)
 
++ [特朗普称将在格陵兰岛勘探油气和矿产资源](https://news.cctv.com/2026/10/14/ARTIGO33fQG4SO3hBTd9IxuS261014.shtml)
+
++ [多名美参议员致信特朗普要求撤销美俄“柴油协议”](https://news.cctv.com/2026/10/14/ARTImvouQh3UnKibA7jNb6sY261014.shtml)
+
++ [俄国防部称打击乌能源和基础设施](https://news.cctv.com/2026/10/14/ARTIHPl5Ufdrtv3sb4B41yPc261014.shtml)
+
++ [德国拟2027年开征含糖饮料税](https://news.cctv.com/2026/10/14/ARTIoafNBf9lkSGC1Y9yoSJH261014.shtml)
+
