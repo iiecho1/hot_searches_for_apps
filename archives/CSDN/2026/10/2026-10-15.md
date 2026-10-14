@@ -101,3 +101,11 @@
 
 + [小春学习日刊 2026年第1期：2026.10.13](https://blog.csdn.net/PolarisRisingWar/article/details/167814191)
 
++ [AI 开始“拆解世界“：REA 为什么火了？Reverse Engineer Anything 如何让 Agent 逆向一切？](https://blog.csdn.net/2401_89160889/article/details/167783918)
+
++ [【从0开始学习计算机网络】| 从一次 ping 出发：ICMP、路由协议与网关边界](https://blog.csdn.net/2503_94545876/article/details/167813562)
+
++ [【从0开始学计算机网络】| HTTP 状态码](https://blog.csdn.net/zzzzz77777aaaaaa/article/details/167677479)
+
++ [Hadoop 集群安全加固实战：YARN 未授权访问漏洞修复，firewalld 白名单 + Nginx 反向代理 Basic Auth 全流程](https://blog.csdn.net/Sayai/article/details/167701477)
+

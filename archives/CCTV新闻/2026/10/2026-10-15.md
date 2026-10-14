@@ -159,3 +159,11 @@
 
 + [乌克兰、美国和欧洲国家提前结束迈阿密会谈](https://news.cctv.com/2026/10/10/ARTIQ330fKcm0NepckvnwxFG261010.shtml)
 
++ [土耳其伊斯坦布尔强降雨引发城市内涝 交通大面积瘫痪](https://news.cctv.com/2026/10/15/ARTIWyRTpdwCcSNabZzvgiqC261015.shtml)
+
++ [北约秘书长：暂无迹象表明北约领土面临迫在眉睫威胁](https://news.cctv.com/2026/10/15/ARTImIHE6PejxLFc4d164Mys261015.shtml)
+
++ [胡塞武装称沙特主导的联军24小时内发动42次袭击](https://news.cctv.com/2026/10/15/ARTI8APaTeoiFVstKNs8ZqeW261015.shtml)
+
++ [美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船](https://news.cctv.com/2026/10/15/ARTI7PDLfZYZ5n9WjvQJ8teL261015.shtml)
+
