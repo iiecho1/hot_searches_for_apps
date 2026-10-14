@@ -137,3 +137,21 @@
 
 + [一个轻量化的Codex Web UI](https://blog.csdn.net/qq_42727752/article/details/167809185)
 
++ [时序数据库是什么？2026 年主流产品选型指南与场景全解析](https://blog.csdn.net/2401_86326742/article/details/167917846)
+
++ [小语言模型SLM崛起_Phi_Gemma端侧部署](https://blog.csdn.net/2302_78391795/article/details/167916289)
+
++ [【口袋专家AI公开课】从0到1智能体开发（一）：旅行专家Agent原理与实战](https://blog.csdn.net/weixin_48007632/article/details/167696561)
+
++ [鸿蒙远控电脑，ToDesk和向日葵各用一周，三个细节差距比想象中大](https://blog.csdn.net/lrq13965748542/article/details/167808821)
+
++ [AI Agent 工程化开发实战（一）：Agent 开发的四个层次——积木、运行时、薄壳、套件](https://blog.csdn.net/xiaobing259/article/details/167587674)
+
++ [Redis 从 0 到 1（八）：读写分离读到旧值——主从延迟 4 来源与 Go 探测器](https://blog.csdn.net/2501_92769340/article/details/167399552)
+
++ [CentOS 7 单机部署 Elasticsearch 7.17.29：启动报错排查与 CRUD 验证](https://blog.csdn.net/2402_83344867/article/details/167809199)
+
++ [对数据的增删改查](https://blog.csdn.net/2205_76017107/article/details/167701844)
+
++ [K8s+Jenkins CI/CD实战](https://blog.csdn.net/zbdjdmm/article/details/167700809)
+
