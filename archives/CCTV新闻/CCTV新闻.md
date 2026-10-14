@@ -1,5 +1,31 @@
 ## CCTV新闻 
-### 2026-10-14
+### 2026-10-15
+
++ [乌克兰总统顾问说“星链”限速致乌军多任务中断](https://news.cctv.com/2026/10/14/ARTIjHwX46Ckvs0TCqyAYNSX261014.shtml)
+
++ [特朗普称将在格陵兰岛勘探油气和矿产资源](https://news.cctv.com/2026/10/14/ARTIGO33fQG4SO3hBTd9IxuS261014.shtml)
+
++ [多名美参议员致信特朗普要求撤销美俄“柴油协议”](https://news.cctv.com/2026/10/14/ARTImvouQh3UnKibA7jNb6sY261014.shtml)
+
++ [俄国防部称打击乌能源和基础设施](https://news.cctv.com/2026/10/14/ARTIHPl5Ufdrtv3sb4B41yPc261014.shtml)
+
++ [德国拟2027年开征含糖饮料税](https://news.cctv.com/2026/10/14/ARTIoafNBf9lkSGC1Y9yoSJH261014.shtml)
+
++ [日方就日本记者在俄远东被捕事件与俄方交涉](https://news.cctv.com/2026/10/14/ARTIbDgAffrkvGotSnlYtkfL261014.shtml)
+
++ [联合国警告：也门塔伊兹小麦和面粉库存恐不足三周](https://news.cctv.com/2026/10/14/ARTIjYjIjIwuAZehRXGHQVnd261014.shtml)
+
++ [伊朗海军提醒船只通过霍尔木兹海峡时进行必要协调](https://news.cctv.com/2026/10/14/ARTIfYZIvRJXvqRwLqZ3VpMc261014.shtml)
+
++ [我驻英国使馆发言人就英情报官员涉华错误言论答记者问](https://news.cctv.com/2026/10/14/ARTIgw0rIT2T2J4zQKHLJLkQ261014.shtml)
+
++ [英国伦敦金融城发生天然气泄漏 约4700人被疏散](https://news.cctv.com/2026/10/14/ARTILs1JZvo8RyicqF5FHw5b261014.shtml)
+
++ [泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈](https://news.cctv.com/2026/10/14/ARTIqr3ywXnGlKpqFf0CPE1p261014.shtml)
+
++ [也门胡塞武装称沙特24小时内发动104次袭击](https://news.cctv.com/2026/10/14/ARTILnRUsCQgy1eyY8k0uMu8261014.shtml)
+
++ [美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控](https://news.cctv.com/2026/10/14/ARTIYy3A7nIZYuu44nXE1KGy261014.shtml)
 
 + [美国飞以色列客机据称接到炸弹威胁 机上人员已撤离](https://news.cctv.com/2026/10/13/ARTIsRl8sSOrl5OF0fn1t37i261013.shtml)
 
@@ -132,56 +158,4 @@
 + [中国驻南非使馆提醒中国公民加强安全防范](https://news.cctv.com/2026/10/10/ARTI06FPGhvCl4EJ6HROcVqw261010.shtml)
 
 + [乌克兰、美国和欧洲国家提前结束迈阿密会谈](https://news.cctv.com/2026/10/10/ARTIQ330fKcm0NepckvnwxFG261010.shtml)
-
-+ [代号“欧亚-反恐-2026”上合组织联合反恐演习在白俄罗斯举行](https://news.cctv.com/2026/10/10/ARTIFRtwL71U5Rz1eoBnNlW3261010.shtml)
-
-+ [美财长：美国国债已攀升至约41万亿美元规模](https://news.cctv.com/2026/10/10/ARTIRKv41EjGD0ls7owlcqt6261010.shtml)
-
-+ [联合国秘书长谴责美方制裁国际刑事法院](https://news.cctv.com/2026/10/10/ARTIkGWpAWK5Q5iU3F7pJ91D261010.shtml)
-
-+ [特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书](https://news.cctv.com/2026/10/10/ARTIVRvyjSRwFLx4S7Dt1ecj261010.shtml)
-
-+ [巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害](https://news.cctv.com/2026/10/10/ARTIpvWeNtoByZ66pbPKZ4Lb261010.shtml)
-
-+ [美B-1轰炸机撤离英国更多内情被披露](https://news.cctv.com/2026/10/10/ARTIqXNDnGVvSJhJPz1jQVkV261010.shtml)
-
-+ [美国宣布对国际刑事法院实施制裁](https://news.cctv.com/2026/10/10/ARTIoye8xMw4G06FdkTUZO4R261009.shtml)
-
-+ [一艘船舶在阿联酋附近海域遭不明投射物击中起火](https://news.cctv.com/2026/10/10/ARTI8YdUG3eK1rCN79wq1gg6261010.shtml)
-
-+ [伊朗总统提议建立“独联体+1”机制](https://news.cctv.com/2026/10/10/ARTIXjZw4ZQDexG0O4RMukFY261010.shtml)
-
-+ [法媒：法国雷诺阿博物馆失窃画作被找到](https://news.cctv.com/2026/10/10/ARTI5IInbi7aniA2CAxxGvnJ261010.shtml)
-
-+ [通讯｜不断升温的澳大利亚“赴华热”](https://news.cctv.com/2026/10/09/ARTICNn0X4KG478d1crPpWMD261009.shtml)
-
-+ [国际观察｜冲绳命案凸显日本倚美恶果](https://news.cctv.com/2026/10/09/ARTIWel9K7eflMPL7RpIP0kG261009.shtml)
-
-+ [“为全球南方国家提供新的发展选项”](https://news.cctv.com/2026/10/09/ARTIow7b9UBvoBt1vVPg486u261009.shtml)
-
-+ [英国伦敦金融城发生天然气泄漏 约4700人被疏散](https://news.cctv.com/2026/10/14/ARTILs1JZvo8RyicqF5FHw5b261014.shtml)
-
-+ [泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈](https://news.cctv.com/2026/10/14/ARTIqr3ywXnGlKpqFf0CPE1p261014.shtml)
-
-+ [也门胡塞武装称沙特24小时内发动104次袭击](https://news.cctv.com/2026/10/14/ARTILnRUsCQgy1eyY8k0uMu8261014.shtml)
-
-+ [美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控](https://news.cctv.com/2026/10/14/ARTIYy3A7nIZYuu44nXE1KGy261014.shtml)
-
-+ [日方就日本记者在俄远东被捕事件与俄方交涉](https://news.cctv.com/2026/10/14/ARTIbDgAffrkvGotSnlYtkfL261014.shtml)
-
-+ [联合国警告：也门塔伊兹小麦和面粉库存恐不足三周](https://news.cctv.com/2026/10/14/ARTIjYjIjIwuAZehRXGHQVnd261014.shtml)
-
-+ [伊朗海军提醒船只通过霍尔木兹海峡时进行必要协调](https://news.cctv.com/2026/10/14/ARTIfYZIvRJXvqRwLqZ3VpMc261014.shtml)
-
-+ [我驻英国使馆发言人就英情报官员涉华错误言论答记者问](https://news.cctv.com/2026/10/14/ARTIgw0rIT2T2J4zQKHLJLkQ261014.shtml)
-
-+ [特朗普称将在格陵兰岛勘探油气和矿产资源](https://news.cctv.com/2026/10/14/ARTIGO33fQG4SO3hBTd9IxuS261014.shtml)
-
-+ [多名美参议员致信特朗普要求撤销美俄“柴油协议”](https://news.cctv.com/2026/10/14/ARTImvouQh3UnKibA7jNb6sY261014.shtml)
-
-+ [俄国防部称打击乌能源和基础设施](https://news.cctv.com/2026/10/14/ARTIHPl5Ufdrtv3sb4B41yPc261014.shtml)
-
-+ [德国拟2027年开征含糖饮料税](https://news.cctv.com/2026/10/14/ARTIoafNBf9lkSGC1Y9yoSJH261014.shtml)
-
-+ [乌克兰总统顾问说“星链”限速致乌军多任务中断](https://news.cctv.com/2026/10/14/ARTIjHwX46Ckvs0TCqyAYNSX261014.shtml)
 
