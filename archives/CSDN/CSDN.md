@@ -111,3 +111,43 @@
 
 + [白帽子讲Web安全 02：从评估到防御，构建数据驱动的安全体系](https://blog.csdn.net/2503_92624912/article/details/167814357)
 
++ [Spring AI + Qwen3.8：AI助手生成周报实战，从工作事项到人工确认卡](https://blog.csdn.net/zhouzhongyan/article/details/167589742)
+
++ [在线PDF不放心？我把BentoPDF装进极空间，文件留在浏览器里处理](https://blog.csdn.net/2501_91062530/article/details/167991755)
+
++ [【计算几何 排样】libnest2d的放置器](https://blog.csdn.net/he_zhidan/article/details/166848774)
+
++ [260+异构同步链路实战：KFS如何实现DDL语义化自动翻译，破解CDC同步痛点](https://blog.csdn.net/weixin_37800531/article/details/167921343)
+
++ [从存得下到查得快：KES 如何处理千亿级时序数据](https://blog.csdn.net/weixin_74809706/article/details/167921055)
+
++ [时序大模型 TimechoAI 助力电化学储能电站安全监测与寿命预测](https://blog.csdn.net/weixin_62765017/article/details/167684969)
+
++ [MySQL Binlog2SQL数据恢复实战：误删数据快速找回](https://blog.csdn.net/qq_41840843/article/details/167919054)
+
++ [SQL 编辑器不是高级记事本：KStudio 与 KSQL Developer 的建表与增删改查手法](https://blog.csdn.net/2402_83344867/article/details/167917007)
+
++ [Linux系统——库的原理与制作之ELF文件的形成与加载的过程（下）](https://blog.csdn.net/2501_93697341/article/details/167397314)
+
++ [Linux 上想找个 Photoshop 之外的选择？这 13 款开源工具一条命令就能装](https://blog.csdn.net/2401_89105749/article/details/168009331)
+
++ [从上传PPT到观众远程打开互动页面：Claper在CentOS 7上的Docker部署、互动组件设置与固定访问地址实战](https://blog.csdn.net/2301_76147196/article/details/167897241)
+
++ [Python函数、闭包、装饰器、类型注解介绍](https://blog.csdn.net/new9232/article/details/167495588)
+
++ [【无人机控制】基于matlab动态系统多无人机协同控制搜索跟踪（目标在二维空间内运动、转向、碰撞反）【含Matlab源码 16074期】](https://blog.csdn.net/TIQCmatlab/article/details/167916680)
+
++ [科沃斯八界机器人试用与3D仿真开发](https://blog.csdn.net/qq_38880380/article/details/167979077)
+
++ [从零搭建校园二手交易系统：Vue2 + SpringBoot 4.x 全栈实战](https://blog.csdn.net/weixin_56334307/article/details/167807292)
+
++ [MCP实战手记（十一）：MCP接飞书，从机器人到事件订阅的三层深度接入](https://blog.csdn.net/weixin_39885962/article/details/167586920)
+
++ [多中间件共存下的 USBKey 冲突：IPC 泄漏、PCSC 链路与 USB 争用](https://blog.csdn.net/2202_75623950/article/details/164064198)
+
++ [从9个项目79次真实排错谈起：为什么我们需要一份实战型AI编程避坑指南](https://blog.csdn.net/qq_46987323/article/details/167886426)
+
++ [Linux系统（07）——进程概念（下）](https://blog.csdn.net/2502_94353935/article/details/167703272)
+
++ [实时语音 Agent 开发完全指南：从 ASR/TTS 到 WebRTC/VAD 的链路拆解](https://blog.csdn.net/qq_51072801/article/details/167898606)
+

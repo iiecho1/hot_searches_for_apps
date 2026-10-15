@@ -25,3 +25,15 @@
 
 + [小米员工透露智能家庭屏曾拟命名 HomeView，但最终仅路由器被冠以 Home 之名](https://m.ithome.com/html/1012577.htm)
 
++ [不能打电话、发短信：华为官网显示手机与手机间通信共享只支持共享网络能力（含 eSIM）](https://m.ithome.com/html/1012600.htm)
+
++ [苹果 Apple Watch 睡眠呼吸暂停功能正式上线，先一步读懂你的呼吸](https://m.ithome.com/html/1012602.htm)
+
++ [苹果 iPhone 15 Pro 及后续机型国行版备案大模型编号：Apple 智能、通义万相、通义千问](https://m.ithome.com/html/1012818.htm)
+
++ [华为：麒麟 9050 系列安全、音视频全面升级，是首批获权威检测的抗量子攻击移动 SoC](https://m.ithome.com/html/1012596.htm)
+
++ [微信上线“绿泡泡短剧”，网友调侃“长大了竟然还是看红果果绿泡泡”](https://m.ithome.com/html/1012670.htm)
+
++ [苹果智能家庭中枢 HomeView 细节：壁挂版不含支架得另买，可选 USB-C / 交流电 / PoE 版](https://m.ithome.com/html/1012586.htm)
+

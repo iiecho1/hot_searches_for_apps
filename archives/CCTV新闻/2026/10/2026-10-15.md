@@ -167,3 +167,13 @@
 
 + [美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船](https://news.cctv.com/2026/10/15/ARTI7PDLfZYZ5n9WjvQJ8teL261015.shtml)
 
++ [美联储“褐皮书”显示高油价对经济产生广泛影响](https://news.cctv.com/2026/10/15/ARTIIv81mJ58uQ3djesrix76261015.shtml)
+
++ [丹麦再次延长丹德边境的管控](https://news.cctv.com/2026/10/15/ARTIA5RYqB0kXXJmgBJYXvgT261015.shtml)
+
++ [IMF上调2026年亚太地区经济增长预期](https://news.cctv.com/2026/10/15/ARTIC9kjxCVINmvfJ6MOj2d4261015.shtml)
+
++ [烟霾弥漫 印尼近两月呼吸道急症超28万例](https://news.cctv.com/2026/10/15/ARTI7PR5FVGpvJvXViB3tvlQ261015.shtml)
+
++ [中国驻沙特大使馆就当前沙特局势发布安全提醒](https://news.cctv.com/2026/10/15/ARTIE47r69Ro275SR5P84P5r261015.shtml)
+
