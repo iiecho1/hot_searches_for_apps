@@ -81,3 +81,33 @@
 
 + [厨师长分享：“干炒牛河”的家常做法，干香嫩滑，锅气十足](https://m.acfun.cn/v/?ac=48914409)
 
++ [网络上常见的热门短视频集锦   第三千四百八十九期](https://m.acfun.cn/v/?ac=48913521)
+
++ [网络上常见的热门短视频集锦   第三千四百九十期](https://m.acfun.cn/v/?ac=48914469)
+
++ [奖励一个御姐](https://m.acfun.cn/v/?ac=48915478)
+
++ [大家帮我看一下，我宠物这个手势是什么意思](https://m.acfun.cn/v/?ac=48913649)
+
++ [【柯基】经典粤语歌曲《初恋情人》｜刘小慧](https://m.acfun.cn/v/?ac=48915120)
+
++ [EXID-Hot Pink](https://m.acfun.cn/v/?ac=48913668)
+
++ [【戒社】哪有赌狗天天输](https://m.acfun.cn/v/?ac=48914698)
+
++ [【衣笠雪绘】说说说说你爱我 歌切day206《大舌头》](https://m.acfun.cn/v/?ac=48913678)
+
++ [AEW Dynamite #367/Collision #166 2026.10.14](https://m.acfun.cn/v/?ac=48914499)
+
++ [随身带的EDC小灯也能做手机补光灯？傲雷小方侠2ultra有多细节？](https://m.acfun.cn/v/?ac=48913467)
+
++ [年度原创黑马！真正的经费用在刀刃上！完美结局直接吹爆！](https://m.acfun.cn/v/?ac=48913463)
+
++ [甜妹沃雅妮莎！](https://m.acfun.cn/v/?ac=48913687)
+
++ [出了名的熄灯早【今天有什么好笑的 #2537】](https://m.acfun.cn/v/?ac=48915400)
+
++ [艺术欣赏](https://m.acfun.cn/v/?ac=48913837)
+
++ [朴孝敏 Nice Body](https://m.acfun.cn/v/?ac=48915105)
+

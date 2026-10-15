@@ -151,3 +151,31 @@
 
 + [实时语音 Agent 开发完全指南：从 ASR/TTS 到 WebRTC/VAD 的链路拆解](https://blog.csdn.net/qq_51072801/article/details/167898606)
 
++ [信息抽取的上限，在字段定义时就定了：4 份企业文档实测 AI Agent 与 Scriber](https://blog.csdn.net/Dovis5884/article/details/168018660)
+
++ [【宠粉赠书】智能体工作流设计：方法与实践](https://blog.csdn.net/weixin_41793160/article/details/167713238)
+
++ [BPE 是怎么把一个中文词切碎的](https://blog.csdn.net/Mrxiao_bo/article/details/168015099)
+
++ [【AI】为什么和 AI 聊久了，它就开始忘事？](https://blog.csdn.net/2501_91731683/article/details/168018570)
+
++ [时序大模型破局工业预测难题](https://blog.csdn.net/beautifulmemory/article/details/167920047)
+
++ [极空间开启SSH后能做什么？我把本地终端、Docker权限和远程管理入口全跑通了](https://blog.csdn.net/Z_oioihoii/article/details/168018934)
+
++ [PyTorch强化学习实战（29）——深入解析强化学习中的探索策略](https://blog.csdn.net/LOVEmy134611/article/details/160152498)
+
++ [GPT-6.1速度实测：8倍速多花多少钱](https://blog.csdn.net/superdangbo/article/details/167916998)
+
++ [【疫情】药物隔离和疫苗接种政策模拟疫情控制Matlab实现](https://blog.csdn.net/m0_60703264/article/details/168015386)
+
++ [百元N1也能跑OpenClaw：飞牛NAS部署、微信接入与远程SSH运维实战](https://blog.csdn.net/m0_71444338/article/details/168020812)
+
++ [Docker 镜像的两种创建方式](https://blog.csdn.net/2301_79245606/article/details/167919218)
+
++ [Mac 有什么好用的压缩软件？Keka、The Unarchiver、BetterZip、NueZip 对比推荐](https://blog.csdn.net/iiicai/article/details/168011405)
+
++ [论文解读与思考：基于场所地图的标识感知机器人探索方法及工程参考的价值](https://blog.csdn.net/2302_79376097/article/details/168019549)
+
++ [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 google_api_availability](https://blog.csdn.net/2501_93816875/article/details/168024999)
+

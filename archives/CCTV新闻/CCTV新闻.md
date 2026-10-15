@@ -177,3 +177,15 @@
 
 + [中国驻沙特大使馆就当前沙特局势发布安全提醒](https://news.cctv.com/2026/10/15/ARTIE47r69Ro275SR5P84P5r261015.shtml)
 
++ [德国铁路公司在全国约5700座火车站实施禁酒令](https://news.cctv.com/2026/10/15/ARTIjLUAxbcdAHif7k3HWKAO261015.shtml)
+
++ [土耳其发现据信世界最古老沉船](https://news.cctv.com/2026/10/15/ARTIbojFNE0Iq0uHA4MjWsSC261015.shtml)
+
++ [罗马尼亚称一艘船只在黑海海域发生火灾 8人失踪](https://news.cctv.com/2026/10/15/ARTIz76G4LdmLc6LHT3AGlRd261015.shtml)
+
++ [联合国官员呼吁尽快商谈联黎部队未来安排](https://news.cctv.com/2026/10/15/ARTIy9wlwlbY0lHDj0wsPNPQ261015.shtml)
+
++ [日本宫城县女川核电站2号机组发生微量漏水](https://news.cctv.com/2026/10/15/ARTIi8458IAD92iS24mLPpn0261015.shtml)
+
++ [格陵兰岛官员否认美国即将上岛大规模勘探](https://news.cctv.com/2026/10/15/ARTIgzEHU9SlVf6A5nnRQC2D261015.shtml)
+
