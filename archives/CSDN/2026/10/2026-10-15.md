@@ -109,3 +109,5 @@
 
 + [Hadoop 集群安全加固实战：YARN 未授权访问漏洞修复，firewalld 白名单 + Nginx 反向代理 Basic Auth 全流程](https://blog.csdn.net/Sayai/article/details/167701477)
 
++ [白帽子讲Web安全 02：从评估到防御，构建数据驱动的安全体系](https://blog.csdn.net/2503_92624912/article/details/167814357)
+
