@@ -1,5 +1,47 @@
 ## CCTV新闻 
-### 2026-10-15
+### 2026-10-16
+
++ [日本记者涉间谍活动在俄被捕 俄方驳回日方交涉](https://news.cctv.com/2026/10/16/ARTIIzFgRvYaxA3qPbn63vND261016.shtml)
+
++ [联合国粮农组织表彰“百位巾帼英雄” 殷玉珍等3名中国女性获殊荣](https://news.cctv.com/2026/10/15/ARTISmXLUHHTqkSTk7lmhaB4261015.shtml)
+
++ [巴基斯坦学校屋顶坍塌遇难人数持续上升 总统要求全面调查事故原因](https://news.cctv.com/2026/10/15/ARTI7ojEJ5bcb4ea5rLPISbx261015.shtml)
+
++ [卢浮宫馆长警告说可能被迫关闭卢浮宫](https://news.cctv.com/2026/10/15/ARTIT3Ug1fXv3P0sHzLCttvE261015.shtml)
+
++ [俄安全局逮捕一企图对俄实施恐袭的瑞典公民](https://news.cctv.com/2026/10/15/ARTIAXHewr1JS5YhtgkpllpT261015.shtml)
+
++ [乌克兰国防部称星链服务已对乌军恢复](https://news.cctv.com/2026/10/15/ARTIP2wq7qfWysYSUC8ncdmu261015.shtml)
+
++ [德国铁路公司在全国约5700座火车站实施禁酒令](https://news.cctv.com/2026/10/15/ARTIjLUAxbcdAHif7k3HWKAO261015.shtml)
+
++ [土耳其发现据信世界最古老沉船](https://news.cctv.com/2026/10/15/ARTIbojFNE0Iq0uHA4MjWsSC261015.shtml)
+
++ [罗马尼亚称一艘船只在黑海海域发生火灾 8人失踪](https://news.cctv.com/2026/10/15/ARTIz76G4LdmLc6LHT3AGlRd261015.shtml)
+
++ [联合国官员呼吁尽快商谈联黎部队未来安排](https://news.cctv.com/2026/10/15/ARTIy9wlwlbY0lHDj0wsPNPQ261015.shtml)
+
++ [日本宫城县女川核电站2号机组发生微量漏水](https://news.cctv.com/2026/10/15/ARTIi8458IAD92iS24mLPpn0261015.shtml)
+
++ [格陵兰岛官员否认美国即将上岛大规模勘探](https://news.cctv.com/2026/10/15/ARTIgzEHU9SlVf6A5nnRQC2D261015.shtml)
+
++ [美联储“褐皮书”显示高油价对经济产生广泛影响](https://news.cctv.com/2026/10/15/ARTIIv81mJ58uQ3djesrix76261015.shtml)
+
++ [丹麦再次延长丹德边境的管控](https://news.cctv.com/2026/10/15/ARTIA5RYqB0kXXJmgBJYXvgT261015.shtml)
+
++ [IMF上调2026年亚太地区经济增长预期](https://news.cctv.com/2026/10/15/ARTIC9kjxCVINmvfJ6MOj2d4261015.shtml)
+
++ [烟霾弥漫 印尼近两月呼吸道急症超28万例](https://news.cctv.com/2026/10/15/ARTI7PR5FVGpvJvXViB3tvlQ261015.shtml)
+
++ [中国驻沙特大使馆就当前沙特局势发布安全提醒](https://news.cctv.com/2026/10/15/ARTIE47r69Ro275SR5P84P5r261015.shtml)
+
++ [土耳其伊斯坦布尔强降雨引发城市内涝 交通大面积瘫痪](https://news.cctv.com/2026/10/15/ARTIWyRTpdwCcSNabZzvgiqC261015.shtml)
+
++ [北约秘书长：暂无迹象表明北约领土面临迫在眉睫威胁](https://news.cctv.com/2026/10/15/ARTImIHE6PejxLFc4d164Mys261015.shtml)
+
++ [胡塞武装称沙特主导的联军24小时内发动42次袭击](https://news.cctv.com/2026/10/15/ARTI8APaTeoiFVstKNs8ZqeW261015.shtml)
+
++ [美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船](https://news.cctv.com/2026/10/15/ARTI7PDLfZYZ5n9WjvQJ8teL261015.shtml)
 
 + [乌克兰总统顾问说“星链”限速致乌军多任务中断](https://news.cctv.com/2026/10/14/ARTIjHwX46Ckvs0TCqyAYNSX261014.shtml)
 
@@ -118,74 +160,4 @@
 + [吉布提沿海移民船只倾覆事故死亡人数升至139人](https://news.cctv.com/2026/10/11/ARTISuI6o6R96htNk7z0uFpb261011.shtml)
 
 + [韩国低龄未成年人盗窃数量激增](https://news.cctv.com/2026/10/11/ARTIbh756YECq8I9tO5o9bQo261011.shtml)
-
-+ [霍尔木兹海峡内一出港油轮左舷遭不明发射物击中](https://news.cctv.com/2026/10/11/ARTIbrLXQ6JNNEm0Y57LBS3g261011.shtml)
-
-+ [俄罗斯外交部谴责针对沙特利雅得机场的袭击](https://news.cctv.com/2026/10/11/ARTIGHR9E4v4JN1alb61jXX0261011.shtml)
-
-+ [一部纪录片引发的追问：日本政府究竟保护谁？](https://news.cctv.com/2026/10/11/ARTInTFMPs5HYApLm7W9Qck0261011.shtml)
-
-+ [波兰称收到针对总理及国防部长潜在袭击行动的情报](https://news.cctv.com/2026/10/11/ARTInol7WZoUtXhQwzx9iTbN261011.shtml)
-
-+ [“欧洲与中国对话，才是务实做法”](https://news.cctv.com/2026/10/11/ARTIxkOOmzaCGxc8KVQF726C261011.shtml)
-
-+ [全球发展倡议推动将发展置于国际议程中心位置——访巴基斯坦常驻联合国日内瓦办事处代表安德拉比](https://news.cctv.com/2026/10/11/ARTISU5oI76cOrs0QjaXwvd2261011.shtml)
-
-+ [胡塞武装称已“关闭利雅得机场”](https://news.cctv.com/2026/10/11/ARTIYL30bvC9AxoTorvJHIjf261011.shtml)
-
-+ [“核” “潜” “艇”，三个词写尽日本步步为营的危险试探](https://news.cctv.com/2026/10/11/ARTIPiqCb2zFOAUIUsYfnLzp261011.shtml)
-
-+ [德迅集团全球首席执行官：中国市场是企业增长的“动力源”](https://news.cctv.com/2026/10/11/ARTIrkzeYJeLMnvsmeWYzvmY261011.shtml)
-
-+ [中企承建的马拉维利隆圭供水项目让约5万村民告别“用水难”](https://news.cctv.com/2026/10/11/ARTIi25pcDtc8ACFlMjicXvG261011.shtml)
-
-+ [在机制化对话中管控分歧 中欧经贸形成多项成果共识](https://news.cctv.com/2026/10/11/ARTIS6r8p4IgD4FOOgOoG9qK261011.shtml)
-
-+ [“中国始终是稳定且富有建设性的推动力量”——访印度尼西亚大学东盟—中国研究中心研究员拉伊汉·罗诺迪普罗](https://news.cctv.com/2026/10/11/ARTIXxr45bhF6ndml4S7pZYv261011.shtml)
-
-+ [美乌现分歧 英国首相力挺泽连斯基](https://news.cctv.com/2026/10/11/ARTIiA2Cj9PkYWAvixTOQOB1261011.shtml)
-
-+ [尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话](https://news.cctv.com/2026/10/11/ARTI7MmVX45KvRoZ8ENTrRHW261011.shtml)
-
-+ [英国一野生动物园发生老虎袭人事件致一人死亡](https://news.cctv.com/2026/10/11/ARTIK8faFnO1vk75MZyXbdqf261011.shtml)
-
-+ [沙特利雅得机场遭袭造成12人死亡309人受伤](https://news.cctv.com/2026/10/11/ARTIiiKOCPUYcjRognwxIFw9261011.shtml)
-
-+ [巴勒斯坦将于2027年9月同步举行总统和立法选举](https://news.cctv.com/2026/10/11/ARTIsljEb2kNn4J50koWzT4a261010.shtml)
-
-+ [巴西起诉壳牌子公司 索赔上亿美元洪灾损失](https://news.cctv.com/2026/10/10/ARTIob0QdCATWHaaefquubJS261010.shtml)
-
-+ [中国驻南非使馆提醒中国公民加强安全防范](https://news.cctv.com/2026/10/10/ARTI06FPGhvCl4EJ6HROcVqw261010.shtml)
-
-+ [乌克兰、美国和欧洲国家提前结束迈阿密会谈](https://news.cctv.com/2026/10/10/ARTIQ330fKcm0NepckvnwxFG261010.shtml)
-
-+ [土耳其伊斯坦布尔强降雨引发城市内涝 交通大面积瘫痪](https://news.cctv.com/2026/10/15/ARTIWyRTpdwCcSNabZzvgiqC261015.shtml)
-
-+ [北约秘书长：暂无迹象表明北约领土面临迫在眉睫威胁](https://news.cctv.com/2026/10/15/ARTImIHE6PejxLFc4d164Mys261015.shtml)
-
-+ [胡塞武装称沙特主导的联军24小时内发动42次袭击](https://news.cctv.com/2026/10/15/ARTI8APaTeoiFVstKNs8ZqeW261015.shtml)
-
-+ [美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船](https://news.cctv.com/2026/10/15/ARTI7PDLfZYZ5n9WjvQJ8teL261015.shtml)
-
-+ [美联储“褐皮书”显示高油价对经济产生广泛影响](https://news.cctv.com/2026/10/15/ARTIIv81mJ58uQ3djesrix76261015.shtml)
-
-+ [丹麦再次延长丹德边境的管控](https://news.cctv.com/2026/10/15/ARTIA5RYqB0kXXJmgBJYXvgT261015.shtml)
-
-+ [IMF上调2026年亚太地区经济增长预期](https://news.cctv.com/2026/10/15/ARTIC9kjxCVINmvfJ6MOj2d4261015.shtml)
-
-+ [烟霾弥漫 印尼近两月呼吸道急症超28万例](https://news.cctv.com/2026/10/15/ARTI7PR5FVGpvJvXViB3tvlQ261015.shtml)
-
-+ [中国驻沙特大使馆就当前沙特局势发布安全提醒](https://news.cctv.com/2026/10/15/ARTIE47r69Ro275SR5P84P5r261015.shtml)
-
-+ [德国铁路公司在全国约5700座火车站实施禁酒令](https://news.cctv.com/2026/10/15/ARTIjLUAxbcdAHif7k3HWKAO261015.shtml)
-
-+ [土耳其发现据信世界最古老沉船](https://news.cctv.com/2026/10/15/ARTIbojFNE0Iq0uHA4MjWsSC261015.shtml)
-
-+ [罗马尼亚称一艘船只在黑海海域发生火灾 8人失踪](https://news.cctv.com/2026/10/15/ARTIz76G4LdmLc6LHT3AGlRd261015.shtml)
-
-+ [联合国官员呼吁尽快商谈联黎部队未来安排](https://news.cctv.com/2026/10/15/ARTIy9wlwlbY0lHDj0wsPNPQ261015.shtml)
-
-+ [日本宫城县女川核电站2号机组发生微量漏水](https://news.cctv.com/2026/10/15/ARTIi8458IAD92iS24mLPpn0261015.shtml)
-
-+ [格陵兰岛官员否认美国即将上岛大规模勘探](https://news.cctv.com/2026/10/15/ARTIgzEHU9SlVf6A5nnRQC2D261015.shtml)
 
