@@ -27,3 +27,13 @@
 
 + [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
 
++ [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+
++ [android/skills](https://github.com/android/skills)
+
++ [cursor/plugins](https://github.com/cursor/plugins)
+
++ [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+
++ [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+

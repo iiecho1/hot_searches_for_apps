@@ -179,3 +179,19 @@
 
 + [格陵兰岛议会通过提案 禁止深海勘探与采矿](https://news.cctv.com/2026/10/16/ARTIOHJ7dJbYc1E3Em1ahddJ261016.shtml)
 
++ [3位中国女性获联合国粮农组织“巾帼英雄”表彰](https://news.cctv.com/2026/10/16/ARTIcgQVycO1rF26t8vOhKuY261016.shtml)
+
++ [日本图谋删除“敌国条款”是痴人说梦](https://news.cctv.com/2026/10/16/ARTIeK3GLfrsKhN5bEdJQHUt261016.shtml)
+
++ [新闻分析：中欧关于混动汽车提出三大原则，怎么看](https://news.cctv.com/2026/10/16/ARTIkBzTG7LuKoOgzMf7cOok261016.shtml)
+
++ [日本有识之士警示：谨防日本重回“战前状态”](https://news.cctv.com/2026/10/16/ARTI4ibgUzS2WAvA9SqOqSIK261016.shtml)
+
++ [合作能让世界变得更美好——访美国友人赛考斯](https://news.cctv.com/2026/10/16/ARTIhg7tJ5x8CKqXIZzCWlqm261016.shtml)
+
++ [国际观察：博茨瓦纳总统博科访华 中博合作硕果累累](https://news.cctv.com/2026/10/16/ARTIX1FiXbXQi3GE6DtZmS3F261016.shtml)
+
++ [卡尼：外部势力企图分化加拿大](https://news.cctv.com/2026/10/16/ARTIc26WK0DZwQWYzAViWdPy261016.shtml)
+
++ [日本气象厅就错发紧急地震预警致歉](https://news.cctv.com/2026/10/16/ARTI2utNznXzto6ajDqNT3mB261016.shtml)
+
