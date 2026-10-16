@@ -1,5 +1,53 @@
 ## CCTV新闻 
-### 2026-10-16
+### 2026-10-17
+
++ [闰秒改闰时｜有何好处 会影响哪些领域？](https://news.cctv.com/2026/10/17/ARTInfnXWUcBl4ggKG4vWU7P261017.shtml)
+
++ [告别闰秒迎来闰时 全球时间标尺为何大调整？](https://news.cctv.com/2026/10/16/ARTIh5op9seXxUa2eQgPNKlW261016.shtml)
+
++ [特朗普称美国可能会对伊朗镐山核设施发动打击](https://news.cctv.com/2026/10/16/ARTIFVpRGkhIagRa9ohNJFU5261016.shtml)
+
++ [泽连斯基称“星链”运行改善但未完全恢复](https://news.cctv.com/2026/10/16/ARTIrZ61R1xVFt3wUcK3vUxv261016.shtml)
+
++ [错估震级9.9级 日本气象厅再开记者会解释](https://news.cctv.com/2026/10/16/ARTIrKZ01j9K3PG1bAt3ZTjO261016.shtml)
+
++ [伊朗称新型武器装备已投入使用](https://news.cctv.com/2026/10/16/ARTI4NHZmHHgtEY6J2euU2ET261016.shtml)
+
++ [18国外长发表联合声明 反对哥伦比亚在耶路撒冷设立驻以使馆](https://news.cctv.com/2026/10/16/ARTIaOkQ168bBHk0KertSJO9261016.shtml)
+
++ [3位中国女性获联合国粮农组织“巾帼英雄”表彰](https://news.cctv.com/2026/10/16/ARTIcgQVycO1rF26t8vOhKuY261016.shtml)
+
++ [日本图谋删除“敌国条款”是痴人说梦](https://news.cctv.com/2026/10/16/ARTIeK3GLfrsKhN5bEdJQHUt261016.shtml)
+
++ [新闻分析：中欧关于混动汽车提出三大原则，怎么看](https://news.cctv.com/2026/10/16/ARTIkBzTG7LuKoOgzMf7cOok261016.shtml)
+
++ [日本有识之士警示：谨防日本重回“战前状态”](https://news.cctv.com/2026/10/16/ARTI4ibgUzS2WAvA9SqOqSIK261016.shtml)
+
++ [合作能让世界变得更美好——访美国友人赛考斯](https://news.cctv.com/2026/10/16/ARTIhg7tJ5x8CKqXIZzCWlqm261016.shtml)
+
++ [国际观察：博茨瓦纳总统博科访华 中博合作硕果累累](https://news.cctv.com/2026/10/16/ARTIX1FiXbXQi3GE6DtZmS3F261016.shtml)
+
++ [卡尼：外部势力企图分化加拿大](https://news.cctv.com/2026/10/16/ARTIc26WK0DZwQWYzAViWdPy261016.shtml)
+
++ [日本气象厅就错发紧急地震预警致歉](https://news.cctv.com/2026/10/16/ARTI2utNznXzto6ajDqNT3mB261016.shtml)
+
++ [韩国检方要求尹锡悦涉无人机案二审维持30年刑期](https://news.cctv.com/2026/10/16/ARTIFj02zgpnZokmwPNwDd2C261016.shtml)
+
++ [“出现误判” 日本气象厅发布9.9级地震速报后取消](https://news.cctv.com/2026/10/16/ARTIsuvODHbDS1hTBP5IOg58261016.shtml)
+
++ [俄罗斯堪察加半岛发生6.9级地震 震源深度150千米](https://news.cctv.com/2026/10/16/ARTITiA8EtqTRJet5uVwibDQ261016.shtml)
+
++ [格陵兰岛议会通过提案 禁止深海勘探与采矿](https://news.cctv.com/2026/10/16/ARTIOHJ7dJbYc1E3Em1ahddJ261016.shtml)
+
++ [中国治沙人殷玉珍入选粮农组织“百位巾帼英雄”](https://photo.cctv.com/2026/10/16/PHOAFfhwnkB2pxvUXT2kmL9D261016.shtml)
+
++ [委内瑞拉政界人士：将继续争取马杜罗夫妇获释](https://news.cctv.com/2026/10/16/ARTI3WwSxhqc8i52aH06fAql261016.shtml)
+
++ [特朗普称美国不会对伊朗动用核武器](https://news.cctv.com/2026/10/16/ARTIGuU2lsm0ZYHouwmf5GEM261016.shtml)
+
++ [俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查](https://news.cctv.com/2026/10/16/ARTIlI3ViysqKY4BLWIoDO6m261016.shtml)
+
++ [亚足联主席：如有必要，2027亚洲杯或延期一年](https://news.cctv.com/2026/10/16/ARTILoqwAuJxgQsenR9BN366261016.shtml)
 
 + [日本记者涉间谍活动在俄被捕 俄方驳回日方交涉](https://news.cctv.com/2026/10/16/ARTIIzFgRvYaxA3qPbn63vND261016.shtml)
 
@@ -110,88 +158,4 @@
 + [尼日利亚军方称打死40余名“疑似恐怖分子”](https://news.cctv.com/2026/10/13/ARTIGupxMD9VxC57UyO2R5sm261013.shtml)
 
 + [伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮](https://news.cctv.com/2026/10/13/ARTIvADw8pIizqTEhj6sLEON261013.shtml)
-
-+ [国际移民组织：也门流离失所人数超21.7万](https://news.cctv.com/2026/10/13/ARTIoGZi9XreSfEadWSoPj5S261013.shtml)
-
-+ [联合国报告：苏丹多个地区饥荒风险加剧](https://news.cctv.com/2026/10/13/ARTI2h0UCj7LHDzpT7dHnFCo261013.shtml)
-
-+ [尼日利亚西北部袭击事件致22人死亡](https://news.cctv.com/2026/10/13/ARTIMoJn7PAB3ZLyeZ5e6Jct261013.shtml)
-
-+ [英国首相：拒绝深化对欧关系将是“重大失职”](https://news.cctv.com/2026/10/13/ARTI9tH2tuRWtmwoM3KeVTQw261013.shtml)
-
-+ [沙特利雅得国际机场将继续关闭至当地时间18日](https://news.cctv.com/2026/10/13/ARTIiO3YWerlKvGlTDre4wDa261013.shtml)
-
-+ [波兰军方称“爱国者”导弹交付将延迟](https://news.cctv.com/2026/10/13/ARTI2UNtLQsB1lWORFProiRi261013.shtml)
-
-+ [以黎边境遗留弹药爆炸已致1死19伤](https://news.cctv.com/2026/10/13/ARTIzHPrBKDA6GKknD35LeWO261013.shtml)
-
-+ [尼日利亚两起武装袭击致20余人死亡](https://news.cctv.com/2026/10/13/ARTIeyPe2kfnycEu0HfcdaUw261013.shtml)
-
-+ [驻沙特大使馆再提醒：拟来沙特转机的中国公民慎重考虑当前沙特航空状况](https://news.cctv.com/2026/10/12/ARTI9li4WlPF74yR0cj72D8A261012.shtml)
-
-+ [欧盟成员国外长通过针对俄军工产业近1600项制裁名单](https://news.cctv.com/2026/10/12/ARTIsVgJLfWwyDRN3pIU1iV9261012.shtml)
-
-+ [沙特继续暂停利雅得国际机场运营](https://news.cctv.com/2026/10/12/ARTIChagdXVhYs0h4XD7p7wS261012.shtml)
-
-+ [泽连斯基回应特朗普：若停火60天 乌克兰便可举行大选](https://news.cctv.com/2026/10/12/ARTIABorwPDcOb9ftFdww3i6261012.shtml)
-
-+ [印尼苏拉威西岛发生5.3级地震，震源深度110千米](https://news.cctv.com/2026/10/12/ARTICKCAJVadh4Gi62q3Jdo1261012.shtml)
-
-+ [卢拉呼吁选民积极参与总统选举 强调重视青年群体](https://news.cctv.com/2026/10/12/ARTIJOGTase3B70asJWZ8tPW261012.shtml)
-
-+ [沙特民航总局：达曼法赫德国王国际机场遭袭](https://news.cctv.com/2026/10/12/ARTIJTbR1QgHqnT1z2GLWkuV261012.shtml)
-
-+ [苏丹北部矿区遇袭 已致72人死亡](https://news.cctv.com/2026/10/12/ARTIjBwMDjnV07bayRNgRHel261012.shtml)
-
-+ [泽连斯基称支持“能源停火” 乌武装部队已收到相关命令](https://news.cctv.com/2026/10/12/ARTIcVxcMd7QqyqKGfcq2FQb261012.shtml)
-
-+ [巴沙埃土四国谴责胡塞武装持续对沙特发动袭击](https://news.cctv.com/2026/10/12/ARTIjRYNnuMVQUYCt2RjVOfW261012.shtml)
-
-+ [沙特民航总局：利雅得机场再遭袭 已有人员受伤](https://news.cctv.com/2026/10/12/ARTIYLW9LsaKbdXCkhAtQ6Fg261012.shtml)
-
-+ [特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”](https://news.cctv.com/2026/10/12/ARTIlNFqMrHCclZrS63hDovs261012.shtml)
-
-+ [伊朗称美国对其重开霍尔木兹海峡条件回应不充分](https://news.cctv.com/2026/10/12/ARTIhtemqQaBSckoMFXUwp0q261012.shtml)
-
-+ [特朗普称俄乌双方同意“能源停火”](https://news.cctv.com/2026/10/11/ARTIjeDOlq7PkzbtJHkks8bz261011.shtml)
-
-+ [英国：不支持美俄就俄提供柴油达成一致](https://news.cctv.com/2026/10/11/ARTILSCGxH1Gb5pLvqfhI4Bp261011.shtml)
-
-+ [吉布提沿海移民船只倾覆事故死亡人数升至139人](https://news.cctv.com/2026/10/11/ARTISuI6o6R96htNk7z0uFpb261011.shtml)
-
-+ [韩国低龄未成年人盗窃数量激增](https://news.cctv.com/2026/10/11/ARTIbh756YECq8I9tO5o9bQo261011.shtml)
-
-+ [中国治沙人殷玉珍入选粮农组织“百位巾帼英雄”](https://people.cctv.com/2026/10/16/ARTI99tPLYPZVhNbynf9P2Md261016.shtml)
-
-+ [亚足联主席：如有必要，2027亚洲杯或延期一年](https://news.cctv.com/2026/10/16/ARTILoqwAuJxgQsenR9BN366261016.shtml)
-
-+ [委内瑞拉政界人士：将继续争取马杜罗夫妇获释](https://news.cctv.com/2026/10/16/ARTI3WwSxhqc8i52aH06fAql261016.shtml)
-
-+ [特朗普称美国不会对伊朗动用核武器](https://news.cctv.com/2026/10/16/ARTIGuU2lsm0ZYHouwmf5GEM261016.shtml)
-
-+ [俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查](https://news.cctv.com/2026/10/16/ARTIlI3ViysqKY4BLWIoDO6m261016.shtml)
-
-+ [韩国检方要求尹锡悦涉无人机案二审维持30年刑期](https://news.cctv.com/2026/10/16/ARTIFj02zgpnZokmwPNwDd2C261016.shtml)
-
-+ [“出现误判” 日本气象厅发布9.9级地震速报后取消](https://news.cctv.com/2026/10/16/ARTIsuvODHbDS1hTBP5IOg58261016.shtml)
-
-+ [俄罗斯堪察加半岛发生6.9级地震 震源深度150千米](https://news.cctv.com/2026/10/16/ARTITiA8EtqTRJet5uVwibDQ261016.shtml)
-
-+ [格陵兰岛议会通过提案 禁止深海勘探与采矿](https://news.cctv.com/2026/10/16/ARTIOHJ7dJbYc1E3Em1ahddJ261016.shtml)
-
-+ [3位中国女性获联合国粮农组织“巾帼英雄”表彰](https://news.cctv.com/2026/10/16/ARTIcgQVycO1rF26t8vOhKuY261016.shtml)
-
-+ [日本图谋删除“敌国条款”是痴人说梦](https://news.cctv.com/2026/10/16/ARTIeK3GLfrsKhN5bEdJQHUt261016.shtml)
-
-+ [新闻分析：中欧关于混动汽车提出三大原则，怎么看](https://news.cctv.com/2026/10/16/ARTIkBzTG7LuKoOgzMf7cOok261016.shtml)
-
-+ [日本有识之士警示：谨防日本重回“战前状态”](https://news.cctv.com/2026/10/16/ARTI4ibgUzS2WAvA9SqOqSIK261016.shtml)
-
-+ [合作能让世界变得更美好——访美国友人赛考斯](https://news.cctv.com/2026/10/16/ARTIhg7tJ5x8CKqXIZzCWlqm261016.shtml)
-
-+ [国际观察：博茨瓦纳总统博科访华 中博合作硕果累累](https://news.cctv.com/2026/10/16/ARTIX1FiXbXQi3GE6DtZmS3F261016.shtml)
-
-+ [卡尼：外部势力企图分化加拿大](https://news.cctv.com/2026/10/16/ARTIc26WK0DZwQWYzAViWdPy261016.shtml)
-
-+ [日本气象厅就错发紧急地震预警致歉](https://news.cctv.com/2026/10/16/ARTI2utNznXzto6ajDqNT3mB261016.shtml)
 
