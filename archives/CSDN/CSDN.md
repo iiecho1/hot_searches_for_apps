@@ -119,3 +119,23 @@
 
 + [JavaScript 网络爬虫教程（2026）](https://blog.csdn.net/2608_96897139/article/details/167896662)
 
++ [1956亿行时序数据只存“1/45“？聊聊金仓时序数据库背后的压缩与写入硬功夫](https://blog.csdn.net/2401_86326742/article/details/167919137)
+
++ [【花雕学编程】Arduino BLDC 之动态边界与运动约束：机器人底盘的高阶导航解析](https://blog.csdn.net/weixin_41659040/article/details/167918619)
+
++ [当 AI 拥有逆向之手｜一周 12 万 Star，深度解析爆火项目 REA](https://blog.csdn.net/weixin_43304253/article/details/168028258)
+
++ [【Plain Language Large Model】【开源闭源选型终极指南：三维度决策框架】流食般投喂](https://blog.csdn.net/dj_798/article/details/168027166)
+
++ [从零学习 MuJoCo（1）：从零跑通第一个物理仿真](https://blog.csdn.net/qazpkdda/article/details/168033087)
+
++ [OpenCode 免费使用 DeepSeek V4.1 Flash 完整指南](https://blog.csdn.net/weixin_68896032/article/details/168027388)
+
++ [移远 Quectel Pi M2 上手 yolo 实战](https://blog.csdn.net/2401_85661524/article/details/168032040)
+
++ [GitHub 今日推荐｜solidcraft：Rust 跨平台参数化 CAD，支持 AI 代理通过 MCP 协议驱动建模](https://blog.csdn.net/weixin_40013817/article/details/167807221)
+
++ [Nemotron 3.5 Bolt 74B-A9B 开源：74B 压进 24GB 的 2-bit 方案、Nemotron 3.5 家族谱系与本地部署待实测清单](https://blog.csdn.net/liuyunak/article/details/168016623)
+
++ [兰亭妙微软件界面设计公司的解锁按钮设计10大密码](https://blog.csdn.net/lanlanwork12/article/details/168031298)
+

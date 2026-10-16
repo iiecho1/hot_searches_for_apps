@@ -33,3 +33,17 @@
 
 + [我买 Claude 账号被骗 1198 的经历](https://www.v2ex.com/t/1249170)
 
++ [Bref： iPhone 、 iPad 、Mac 与 Apple TV 多平台支持的媒体播放器，欢迎大家体验 [送码]](https://www.v2ex.com/t/1249294)
+
++ [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 第一个 Windows 版本发布，还支持 macOS](https://www.v2ex.com/t/1249233)
+
++ [Tesla Roadster 起飞了](https://www.v2ex.com/t/1249253)
+
++ [特斯拉有的我们都有😝](https://www.v2ex.com/t/1249270)
+
++ [睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？](https://www.v2ex.com/t/1249215)
+
++ [一个人可以内向，敏感，胆小到什么程度](https://www.v2ex.com/t/1249230)
+
++ [社保贷](https://www.v2ex.com/t/1249204)
+

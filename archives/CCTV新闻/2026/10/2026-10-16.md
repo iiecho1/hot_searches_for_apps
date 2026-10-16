@@ -171,3 +171,11 @@
 
 + [俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查](https://news.cctv.com/2026/10/16/ARTIlI3ViysqKY4BLWIoDO6m261016.shtml)
 
++ [韩国检方要求尹锡悦涉无人机案二审维持30年刑期](https://news.cctv.com/2026/10/16/ARTIFj02zgpnZokmwPNwDd2C261016.shtml)
+
++ [“出现误判” 日本气象厅发布9.9级地震速报后取消](https://news.cctv.com/2026/10/16/ARTIsuvODHbDS1hTBP5IOg58261016.shtml)
+
++ [俄罗斯堪察加半岛发生6.9级地震 震源深度150千米](https://news.cctv.com/2026/10/16/ARTITiA8EtqTRJet5uVwibDQ261016.shtml)
+
++ [格陵兰岛议会通过提案 禁止深海勘探与采矿](https://news.cctv.com/2026/10/16/ARTIOHJ7dJbYc1E3Em1ahddJ261016.shtml)
+
