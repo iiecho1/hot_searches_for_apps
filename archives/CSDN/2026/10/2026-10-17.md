@@ -119,3 +119,7 @@
 
 + [Linux 通用压力测试脚本合集：磁盘 + 网络](https://blog.csdn.net/qq_36936192/article/details/168027608)
 
++ [识别应用变化部分，组合优于继承和面向接口编程](https://blog.csdn.net/qq_56873397/article/details/168133649)
+
++ [Kafka + Redis布隆过滤器 + 多爬虫服务 分布式爬虫完整方案](https://blog.csdn.net/2501_93482703/article/details/168030923)
+
