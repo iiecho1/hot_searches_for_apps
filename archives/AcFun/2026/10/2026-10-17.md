@@ -61,3 +61,7 @@
 
 + [比AI还离谱](https://m.acfun.cn/v/?ac=48916313)
 
++ [【动画】小狐与小狸 第一话「要开始咯」](https://m.acfun.cn/v/?ac=48905430)
+
++ [【AI】大摆锤](https://m.acfun.cn/v/?ac=48918594)
+

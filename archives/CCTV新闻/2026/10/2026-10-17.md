@@ -159,3 +159,5 @@
 
 + [伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮](https://news.cctv.com/2026/10/13/ARTIvADw8pIizqTEhj6sLEON261013.shtml)
 
++ [泽连斯基要求欧盟明年额外提供700亿欧元援助](https://news.cctv.com/2026/10/17/ARTI8cIbiZOJqQ5IxFsXIvWy261017.shtml)
+

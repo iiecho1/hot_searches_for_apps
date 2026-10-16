@@ -101,3 +101,21 @@
 
 + [HDFS - 心跳检测与节点故障的发现机制解析](https://blog.csdn.net/qq_41187124/article/details/157684498)
 
++ [2026.10.16 AI产业深度解读｜AI独角兽估值遇冷；Meta重磅开放权重模型；硬件产能向AI算力倾斜](https://blog.csdn.net/qq_36729037/article/details/168138873)
+
++ [Android16 开机后立即打开相机闪退问题分析与解决总结](https://blog.csdn.net/wenzhi20102321/article/details/168126825)
+
++ [设备监控数据怎么存、怎么查？Spring Boot + TimescaleDB 完整实战](https://blog.csdn.net/2403_86779341/article/details/168145850)
+
++ [Folia音乐播放器：把歌词变成一场演出，附电脑与安卓全平台链接](https://blog.csdn.net/weixin_74013176/article/details/167988994)
+
++ [CADCraft 静态工程评测：纯 Rust 的 clean-room 参数化建模，几何内核精度与工业格式互操作是两道硬门槛](https://blog.csdn.net/TunerT_TQ/article/details/167920465)
+
++ [Linux系统——进程间通信之管道](https://blog.csdn.net/2501_93697341/article/details/167586574)
+
++ [Python Token 爬虫实战：如何优雅地搞定分布式采集与反爬策略](https://blog.csdn.net/Z_suger7/article/details/168026184)
+
++ [多源异构数据库同步难题：DDL 结构变更自动化解决方案](https://blog.csdn.net/2301_80350265/article/details/167919226)
+
++ [Linux 通用压力测试脚本合集：磁盘 + 网络](https://blog.csdn.net/qq_36936192/article/details/168027608)
+
