@@ -21,3 +21,15 @@
 
 + [做了个 iOS 播放器 ddPlayer ，支持 Emby/WebDAV/NAS，[限时买断 0 元]](https://www.v2ex.com/t/1248906)
 
++ [国庆回去被说肥头大耳，下定决心减肥了](https://www.v2ex.com/t/1249207)
+
++ [有人说婚礼四大金刚这类“仪式感溢价消费”，是普通人阶层跃升最大的障碍，结婚不请四大金刚直接省出一整套家具， v 友怎么看？](https://www.v2ex.com/t/1248926)
+
++ [中药真的好败好感啊](https://www.v2ex.com/t/1249023)
+
++ [NodeAI： V 友直接领 $10 API 体验额度。回帖 $5，进群再送 $5，一个 Key 调用 55 个模型](https://www.v2ex.com/t/1248956)
+
++ [[送码] macOS 26 删了启动台，我做了个原生替代品 LaunchHome](https://www.v2ex.com/t/1248943)
+
++ [我买 Claude 账号被骗 1198 的经历](https://www.v2ex.com/t/1249170)
+

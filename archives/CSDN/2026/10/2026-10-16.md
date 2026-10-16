@@ -101,3 +101,21 @@
 
 + [大模型语音机器人ASR识别不准，怎么优化？2026系统化优化指南](https://blog.csdn.net/weixin_47312655/article/details/168018231)
 
++ [一次持续 3 小时以上的 AI 服务崩溃：DeepSeek 10 月 15 日故障复盘与思考](https://blog.csdn.net/videwhy/article/details/168014615)
+
++ [260 条同步链路背后的运维账：数据结构变更如何从“人工救火“走向“自动流转“](https://blog.csdn.net/mrdeam/article/details/168032911)
+
++ [【开源一页纸尽调】agents-course｜Hugging Face Agent 智能体课程仓库快照静态审计报告](https://blog.csdn.net/TunerT_TQ/article/details/167789697)
+
++ [Spring Boot Starter 依赖全解——原理与自定义 Starter 实战](https://blog.csdn.net/vipxieliang/article/details/167779659)
+
++ [计算机网络第一章：计算机网络体系结构](https://blog.csdn.net/2503_92973780/article/details/167920049)
+
++ [RustFS 上生产第一步：从单机到 4 节点多盘集群（MNMD）部署实操](https://blog.csdn.net/rustfs_contrib/article/details/167694367)
+
++ [分布式系统——Redis哨兵：自动故障转移与选举原理](https://blog.csdn.net/2302_80105876/article/details/167920682)
+
++ [mybatis（二）](https://blog.csdn.net/LYYstudying/article/details/167703205)
+
++ [JavaScript 网络爬虫教程（2026）](https://blog.csdn.net/2608_96897139/article/details/167896662)
+

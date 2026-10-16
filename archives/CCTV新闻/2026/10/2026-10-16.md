@@ -165,3 +165,9 @@
 
 + [亚足联主席：如有必要，2027亚洲杯或延期一年](https://news.cctv.com/2026/10/16/ARTILoqwAuJxgQsenR9BN366261016.shtml)
 
++ [委内瑞拉政界人士：将继续争取马杜罗夫妇获释](https://news.cctv.com/2026/10/16/ARTI3WwSxhqc8i52aH06fAql261016.shtml)
+
++ [特朗普称美国不会对伊朗动用核武器](https://news.cctv.com/2026/10/16/ARTIGuU2lsm0ZYHouwmf5GEM261016.shtml)
+
++ [俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查](https://news.cctv.com/2026/10/16/ARTIlI3ViysqKY4BLWIoDO6m261016.shtml)
+
