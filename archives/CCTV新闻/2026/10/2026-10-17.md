@@ -167,3 +167,5 @@
 
 + [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://news.cctv.com/2026/10/17/ARTIc5YK1e70xzMm5BhUrS8U261017.shtml)
 
++ [德国一养老院发生持刀袭击事件 致1死2重伤](https://news.cctv.com/2026/10/17/ARTIpMDW9DB4t7ImjjpInj1j261017.shtml)
+

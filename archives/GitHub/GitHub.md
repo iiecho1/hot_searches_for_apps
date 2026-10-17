@@ -27,3 +27,11 @@
 
 + [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
++ [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+
++ [stablyai/orca](https://github.com/stablyai/orca)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [anomalyco/opencode](https://github.com/anomalyco/opencode)
+

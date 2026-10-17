@@ -151,3 +151,31 @@
 
 + [Falco vs. Tetragon：云原生运行时安全选型指南](https://blog.csdn.net/sinat_20791575/article/details/168140595)
 
++ [Agent 接入企业微信/钉钉：渠道对接实](https://blog.csdn.net/sinat_41617212/article/details/168146030)
+
++ [从结构解析到执行验证：KFS如何同步异构数据库的DDL变更](https://blog.csdn.net/2401_87629362/article/details/167922096)
+
++ [【AI大模型接入SDK】ChatServer HTTP接口模块实现总览](https://blog.csdn.net/2401_89899187/article/details/167040505)
+
++ [【花雕学编程】Arduino BLDC 之柔性触觉交互服务机器人自适应阻抗控制](https://blog.csdn.net/weixin_41659040/article/details/168139588)
+
++ [AI 简历制作平台：结构化输出解析、多模板渲染与 PDF 导出的 Vue3 + Spring AI 全栈实战](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/168024477)
+
++ [【计算机网络】| 从ping 不通出发：NAT 与 DHCP 在做什么](https://blog.csdn.net/2503_94545876/article/details/167920583)
+
++ [从 0 到 1 学 Codex 源码：从 Rust 开始](https://blog.csdn.net/weixin_40362204/article/details/168143785)
+
++ [【BPSK】基于matlab BPSK在6种不同信道下的蒙特卡洛仿真（噪声：高斯AWGN、拉普拉斯Laplacian衰落：瑞利 Rayleigh、莱斯Rician）【含Matlab源码 16087期】](https://blog.csdn.net/TIQCmatlab/article/details/168235982)
+
++ [Kotlin Multiplatform for OpenHarmony 实战：为 Koin 实现依赖注入适配与 AbilityContext 桥接](https://blog.csdn.net/ailuloo/article/details/168207640)
+
++ [微服务链路追踪实战：从执行流程讲起，把OpenTelemetry + Jaeger 落地说清楚](https://blog.csdn.net/H19905222/article/details/168228027)
+
++ [2026年具身智能“双线分流“：机器人进厂，也回家](https://blog.csdn.net/2302_79376097/article/details/168145723)
+
++ [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 pusher_channels_flutter](https://blog.csdn.net/2502_93915572/article/details/168139663)
+
++ [飞书项目对接 Jira 实战：用 webhook + 映射模板打通跨组织缺陷双向同步（以高远-飞书项目Jira互联解决方案为例）](https://blog.csdn.net/2601_96352604/article/details/168138502)
+
++ [HTML转义反转义：替换顺序、上下文差异与 XSS（跨站脚本攻击）防护边界](https://blog.csdn.net/lfs124596/article/details/168145371)
+
