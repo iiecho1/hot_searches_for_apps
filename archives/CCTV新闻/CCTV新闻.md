@@ -165,3 +165,11 @@
 
 + [伊拉克总理呼吁伊斯兰合作组织成员国促进地区和平](https://news.cctv.com/2026/10/18/ARTIwUcXYkkjSA7ICTC0jDNa261018.shtml)
 
++ [美国堪萨斯州一车辆冲入足球场 致多人死伤](https://news.cctv.com/2026/10/18/ARTIhKwazcbOGen8YbjwHoDv261018.shtml)
+
++ [伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只](https://news.cctv.com/2026/10/18/ARTI4O8b6k6UB07Cv6j4pDmW261018.shtml)
+
++ [也门胡塞武装称击落沙特方面一架“阿帕奇”直升机](https://news.cctv.com/2026/10/18/ARTIlkB4ODP8C4XdkULnqZzg261018.shtml)
+
++ [以总理办公室：针对欧洲外交官的暴力行为“不可接受”](https://news.cctv.com/2026/10/18/ARTIAnHHEofsMcnA7nFVPGM6261018.shtml)
+
