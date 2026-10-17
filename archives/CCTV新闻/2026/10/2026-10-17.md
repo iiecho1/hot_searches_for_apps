@@ -163,3 +163,7 @@
 
 + [巴西亚马孙雨林毁林面积创38年来最低纪录](https://news.cctv.com/2026/10/17/ARTINw5iTtuVZtD5oNP5unIW261017.shtml)
 
++ [厄瓜多尔一艘渔船疑似沉没 14名船员失踪](https://news.cctv.com/2026/10/17/ARTILYi7EuBF6hLyB26hfPwe261017.shtml)
+
++ [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://news.cctv.com/2026/10/17/ARTIc5YK1e70xzMm5BhUrS8U261017.shtml)
+

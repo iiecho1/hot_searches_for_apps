@@ -129,3 +129,25 @@
 
 + [智能合约技术架构详解：从业务逻辑设计、链上数据交互到合约安全防护方案构建](https://blog.csdn.net/2601_96183616/article/details/167916640)
 
++ [【Linux 网络编程】Windows 客户端访问 Linux：用 Winsock 跑通 UDP 回显](https://blog.csdn.net/weixin_64304261/article/details/168131875)
+
++ [16、k8s控制器Daemnonset](https://blog.csdn.net/fxsdbt520/article/details/168137038)
+
++ [DeckCraft 静态工程评测：纯 Rust 的 clean-room 演示工具，PPTX 视觉保真度是最后一道门槛](https://blog.csdn.net/TunerT_TQ/article/details/168118752)
+
++ [AI Agent 在软件研发全流程中的嵌入实践](https://blog.csdn.net/vipxieliang/article/details/167990151)
+
++ [国内无人机厂家的硬件架构和 SDK ](https://blog.csdn.net/weixin_40847436/article/details/168145219)
+
++ [【AI大模型接入SDK】ChatServer接口设计规范](https://blog.csdn.net/2401_89899187/article/details/166919209)
+
++ [Diliverycart（加了yolo版本）](https://blog.csdn.net/2401_88856689/article/details/167812683)
+
++ [Ubuntu24.04使用kubeadm部署K8s v1.30.2完整教程+排坑实录](https://blog.csdn.net/Adhjhfes/article/details/168141084)
+
++ [Colab：SSH 访问免费 GPU Server](https://blog.csdn.net/2303_80346267/article/details/168031387)
+
++ [Kubernetes 全景导览：从部署演进到云原生底座](https://blog.csdn.net/csh843903115/article/details/168139658)
+
++ [Falco vs. Tetragon：云原生运行时安全选型指南](https://blog.csdn.net/sinat_20791575/article/details/168140595)
+
