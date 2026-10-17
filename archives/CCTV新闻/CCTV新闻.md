@@ -1,5 +1,19 @@
 ## CCTV新闻 
-### 2026-10-17
+### 2026-10-18
+
++ [我驻日使馆发言人就日方涉靖国神社消极动向答记者问](https://news.cctv.com/2026/10/17/ARTIlZdMTEFoGT6AoZQ97Iox261017.shtml)
+
++ [通讯丨科技赋能让中国故事更快跨越山海](https://news.cctv.com/2026/10/17/ARTI2BkCoCaNA9UAvLD78LRe261017.shtml)
+
++ [德国一养老院发生持刀袭击事件 致1死2重伤](https://news.cctv.com/2026/10/17/ARTIpMDW9DB4t7ImjjpInj1j261017.shtml)
+
++ [厄瓜多尔一艘渔船疑似沉没 14名船员失踪](https://news.cctv.com/2026/10/17/ARTILYi7EuBF6hLyB26hfPwe261017.shtml)
+
++ [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://news.cctv.com/2026/10/17/ARTIc5YK1e70xzMm5BhUrS8U261017.shtml)
+
++ [巴西亚马孙雨林毁林面积创38年来最低纪录](https://news.cctv.com/2026/10/17/ARTINw5iTtuVZtD5oNP5unIW261017.shtml)
+
++ [泽连斯基要求欧盟明年额外提供700亿欧元援助](https://news.cctv.com/2026/10/17/ARTI8cIbiZOJqQ5IxFsXIvWy261017.shtml)
 
 + [闰秒改闰时｜有何好处 会影响哪些领域？](https://news.cctv.com/2026/10/17/ARTInfnXWUcBl4ggKG4vWU7P261017.shtml)
 
@@ -144,32 +158,4 @@
 + [法国数百家超市制冷系统遭网攻 大量食品变质](https://news.cctv.com/2026/10/13/ARTIQJ70idFKlOcDA4phmbe5261013.shtml)
 
 + [俄方称欧盟单边制裁非法且毫无根据 俄将进行回应](https://news.cctv.com/2026/10/13/ARTIaEa6ItfmevxcbTN63CNM261013.shtml)
-
-+ [西班牙一列高铁起火致线路中断 逾1万名旅客受影响](https://news.cctv.com/2026/10/13/ARTIKi6b6T24P02FoP0CFsqe261013.shtml)
-
-+ [俄副总理：俄美已开始就柴油交易谈判](https://news.cctv.com/2026/10/13/ARTIzKfbZfHoo0ifvqXntizF261013.shtml)
-
-+ [中方敦促加快非殖民化进程](https://news.cctv.com/2026/10/13/ARTIG6WL3pKbiKTXGF4ZheB4261013.shtml)
-
-+ [古巴颁布新的石油和天然气法令 旨在推动能源独立](https://news.cctv.com/2026/10/13/ARTI052ZFfi8d1fS6agdTFkI261013.shtml)
-
-+ [卡塔尔航空暂停往返沙特利雅得和达曼的航班](https://news.cctv.com/2026/10/13/ARTI0YyN0tkmvro6tIieaYBm261013.shtml)
-
-+ [尼日利亚军方称打死40余名“疑似恐怖分子”](https://news.cctv.com/2026/10/13/ARTIGupxMD9VxC57UyO2R5sm261013.shtml)
-
-+ [伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮](https://news.cctv.com/2026/10/13/ARTIvADw8pIizqTEhj6sLEON261013.shtml)
-
-+ [泽连斯基要求欧盟明年额外提供700亿欧元援助](https://news.cctv.com/2026/10/17/ARTI8cIbiZOJqQ5IxFsXIvWy261017.shtml)
-
-+ [巴西亚马孙雨林毁林面积创38年来最低纪录](https://news.cctv.com/2026/10/17/ARTINw5iTtuVZtD5oNP5unIW261017.shtml)
-
-+ [厄瓜多尔一艘渔船疑似沉没 14名船员失踪](https://news.cctv.com/2026/10/17/ARTILYi7EuBF6hLyB26hfPwe261017.shtml)
-
-+ [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://news.cctv.com/2026/10/17/ARTIc5YK1e70xzMm5BhUrS8U261017.shtml)
-
-+ [德国一养老院发生持刀袭击事件 致1死2重伤](https://news.cctv.com/2026/10/17/ARTIpMDW9DB4t7ImjjpInj1j261017.shtml)
-
-+ [我驻日使馆发言人就日方涉靖国神社消极动向答记者问](https://news.cctv.com/2026/10/17/ARTIlZdMTEFoGT6AoZQ97Iox261017.shtml)
-
-+ [通讯丨科技赋能让中国故事更快跨越山海](https://news.cctv.com/2026/10/17/ARTI2BkCoCaNA9UAvLD78LRe261017.shtml)
 
