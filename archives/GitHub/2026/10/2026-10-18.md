@@ -25,3 +25,5 @@
 
 + [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
++ [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+

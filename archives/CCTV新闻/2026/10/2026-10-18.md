@@ -163,3 +163,5 @@
 
 + [以色列犹太人定居者在约旦河西岸袭击欧洲外交官车辆](https://news.cctv.com/2026/10/18/ARTI4GLHnxR0jnaPNMrtWy1v261017.shtml)
 
++ [伊拉克总理呼吁伊斯兰合作组织成员国促进地区和平](https://news.cctv.com/2026/10/18/ARTIwUcXYkkjSA7ICTC0jDNa261018.shtml)
+
