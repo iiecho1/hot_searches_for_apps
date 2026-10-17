@@ -21,3 +21,15 @@
 
 + [企微聊天就和裸聊差不多](https://www.v2ex.com/t/1249287)
 
++ [如何处理食之无味弃之可惜的老数码产品](https://www.v2ex.com/t/1249305)
+
++ [大佬们带带弟弟， Codex 登录要电话验证怎么办](https://www.v2ex.com/t/1249260)
+
++ [如何评价 rea 逆向一切？](https://www.v2ex.com/t/1249389)
+
++ [有目前稳定可靠的订阅 gpt plus 的方法吗，分享分享，人在大陆](https://www.v2ex.com/t/1249365)
+
++ [claude code 和 codex 双持来说一下体验](https://www.v2ex.com/t/1249293)
+
++ [抑郁症的人到底在想些什么？](https://www.v2ex.com/t/1249406)
+

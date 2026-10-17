@@ -161,3 +161,5 @@
 
 + [泽连斯基要求欧盟明年额外提供700亿欧元援助](https://news.cctv.com/2026/10/17/ARTI8cIbiZOJqQ5IxFsXIvWy261017.shtml)
 
++ [巴西亚马孙雨林毁林面积创38年来最低纪录](https://news.cctv.com/2026/10/17/ARTINw5iTtuVZtD5oNP5unIW261017.shtml)
+
