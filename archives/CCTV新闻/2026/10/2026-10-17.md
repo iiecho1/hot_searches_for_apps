@@ -169,3 +169,7 @@
 
 + [德国一养老院发生持刀袭击事件 致1死2重伤](https://news.cctv.com/2026/10/17/ARTIpMDW9DB4t7ImjjpInj1j261017.shtml)
 
++ [我驻日使馆发言人就日方涉靖国神社消极动向答记者问](https://news.cctv.com/2026/10/17/ARTIlZdMTEFoGT6AoZQ97Iox261017.shtml)
+
++ [通讯丨科技赋能让中国故事更快跨越山海](https://news.cctv.com/2026/10/17/ARTI2BkCoCaNA9UAvLD78LRe261017.shtml)
+

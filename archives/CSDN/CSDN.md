@@ -179,3 +179,21 @@
 
 + [HTML转义反转义：替换顺序、上下文差异与 XSS（跨站脚本攻击）防护边界](https://blog.csdn.net/lfs124596/article/details/168145371)
 
++ [知识库为什么搜不到答案：多向量检索与 Late Interaction](https://blog.csdn.net/weixin_74809706/article/details/167660162)
+
++ [用 WorkBuddy + 麦当劳 MCP，做一个会算营养、比价格、还能下单的减脂私教](https://blog.csdn.net/qq_33681891/article/details/168244556)
+
++ [仓颉语言GUI开发实战：用仓颉写串口/网络二合一调试助手](https://blog.csdn.net/qq8864/article/details/168032012)
+
++ [基于 Spring @Profile 的 MQ 消费者按需开关设计](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/168141964)
+
++ [六、联合查询](https://blog.csdn.net/2205_76017107/article/details/168248245)
+
++ [22 个关节、26 段骨架、16.9 公斤：藏在官方 URDF 里的启元机器人 Q1「身体说明书」](https://blog.csdn.net/2401_86326742/article/details/168232793)
+
++ [100G 光模块电路设计解析：从 25G 单通道说起的技术原理与实现难点](https://blog.csdn.net/qq_54098120/article/details/168145623)
+
++ [WorkBuddy 占用 C 盘缓存？教你将 Workbuddy 缓存目录安全迁移到其他盘](https://blog.csdn.net/John_Wake/article/details/167922184)
+
++ [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 flutter_vibration_manager](https://blog.csdn.net/2401_88937325/article/details/168247153)
+

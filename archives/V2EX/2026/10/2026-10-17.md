@@ -59,3 +59,9 @@
 
 + [deepseek-v4.1-flash-1017 发布了](https://www.v2ex.com/t/1249603)
 
++ [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583)
+
++ [肉身在墙外，现在做物理机远程 Claude 的生意怎么样？](https://www.v2ex.com/t/1249581)
+
++ [0 基础入行金融需要多久？](https://www.v2ex.com/t/1249646)
+
