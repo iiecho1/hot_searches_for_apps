@@ -159,3 +159,7 @@
 
 + [俄方称欧盟单边制裁非法且毫无根据 俄将进行回应](https://news.cctv.com/2026/10/13/ARTIaEa6ItfmevxcbTN63CNM261013.shtml)
 
++ [坦桑尼亚加强入境健康筛查 防止埃博拉病毒输入](https://news.cctv.com/2026/10/18/ARTI9fAEe5BCLmJecOxse9rC261018.shtml)
+
++ [以色列犹太人定居者在约旦河西岸袭击欧洲外交官车辆](https://news.cctv.com/2026/10/18/ARTI4GLHnxR0jnaPNMrtWy1v261017.shtml)
+
