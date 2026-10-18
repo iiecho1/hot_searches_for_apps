@@ -123,3 +123,9 @@
 
 + [微服务架构落地：Sentinel 限流熔断架构实战 —— 流量防护、熔断降级、热点参数治理，杜绝微服务连锁雪崩](https://blog.csdn.net/helloword_monkey/article/details/168144202)
 
++ [基于容积卡尔曼滤波CKF的车辆状态估计Carsim和Matlab联合仿真（说明文档+仿真源文件+运行说明）](https://blog.csdn.net/Ke_Yan_She/article/details/168347451)
+
++ [把 SQL 编辑器用顺：KSQL Developer 从补全到事务的实战笔记](https://blog.csdn.net/qq_57761637/article/details/168347190)
+
++ [LDR6021Q音频转接器应用介绍](https://blog.csdn.net/ZenasLDR/article/details/168244839)
+
