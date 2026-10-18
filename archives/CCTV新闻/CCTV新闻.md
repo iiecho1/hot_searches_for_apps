@@ -173,3 +173,5 @@
 
 + [以总理办公室：针对欧洲外交官的暴力行为“不可接受”](https://news.cctv.com/2026/10/18/ARTIAnHHEofsMcnA7nFVPGM6261018.shtml)
 
++ [缅甸发生4.3级地震，震源深度9千米](https://news.cctv.com/2026/10/18/ARTIKkOHTUD55M5WgKGZYmaK261018.shtml)
+

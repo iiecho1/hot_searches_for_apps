@@ -69,3 +69,5 @@
 
 + [就让因后退果上追，大梦终不归](https://m.acfun.cn/v/?ac=48920798)
 
++ [【官方双语】专业用户试用AI克隆版的Photoshop - Photon Studio](https://m.acfun.cn/v/?ac=48920294)
+

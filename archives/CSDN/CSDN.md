@@ -101,3 +101,31 @@
 
 + [Maven 多医院分支场景下 groupId 的设计与 Jenkins 落地实践](https://blog.csdn.net/kof820/article/details/168018218)
 
++ [【花雕学编程】Arduino BLDC 之UWB差分定位双机器人协同跟随与VFF避障](https://blog.csdn.net/weixin_41659040/article/details/167918805)
+
++ [读对了，做错了：决策模型的错多数不在读这一层](https://blog.csdn.net/wodekouwei/article/details/168145769)
+
++ [AI 聊天机器人组件：ChatMemory 对话记忆、SSE 心跳保活与可嵌入组件封装的 Vue3 + Spring AI 生产级实战](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/168142043)
+
++ [PyTorch强化学习实战（29）——深入解析强化学习中的探索策略](https://blog.csdn.net/LOVEmy134611/article/details/160152498)
+
++ [17、k8s配置管理中心configmap](https://blog.csdn.net/fxsdbt520/article/details/168144950)
+
++ [【Linux 系统篇(三十)】文件(七)：ELF、链接重定位、动态库加载](https://blog.csdn.net/Huang_jin007/article/details/168219648)
+
++ [【硬件】二极管/压降](https://blog.csdn.net/zhangzhiqi1100/article/details/168008177)
+
++ [Python Pygame｜加载 GIF 动图并循环播放：拆帧、降帧与完整源码](https://blog.csdn.net/qq616491978/article/details/168145435)
+
++ [云服务器部署 web 项目的进程常驻记录](https://blog.csdn.net/2601_94912732/article/details/168250700)
+
++ [USB转SWD/JTAG芯片CH347在Arm® Keil® MDK / µVision®中的使用说明](https://blog.csdn.net/qq_43010294/article/details/168135360)
+
++ [Cisco设备网络安全系列-5：零信任网络访问与网络安全技术](https://blog.csdn.net/pt1043/article/details/168027936)
+
++ [GitHub 热榜项目：日榜（2026-10-16）](https://blog.csdn.net/u130130/article/details/168139922)
+
++ [Redis运行状态总靠手动查？我用redis_exporter+Prometheus把指标、告警和远程抓取全接起来了](https://blog.csdn.net/lbbxmx111/article/details/168028594)
+
++ [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 flutter_vibration_manager](https://blog.csdn.net/2401_88937325/article/details/168247153)
+
