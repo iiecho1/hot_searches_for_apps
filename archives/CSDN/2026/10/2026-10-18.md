@@ -129,3 +129,31 @@
 
 + [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 flutter_vibration_manager](https://blog.csdn.net/2401_88937325/article/details/168247153)
 
++ [预训练数据处理_清洗去重质量过滤](https://blog.csdn.net/2302_78391795/article/details/168221767)
+
++ [【AI智能体】Langchain 结构化输出结果实战操作详解](https://blog.csdn.net/congge_study/article/details/165491045)
+
++ [新型电力系统下PI-LSTM物理信息长短期记忆神经网络的电力变压器状态评估方法](https://blog.csdn.net/kjm13182345320/article/details/168246389)
+
++ [网络原理｜第二阶段：IPv4 首部结构、TCP/IP 封装与跨层协作](https://blog.csdn.net/2401_86112610/article/details/168249470)
+
++ [AI Agent 竞争焦点转向工程化：技能化、记忆工程与 MCP 工具化的技术栈拆解](https://blog.csdn.net/m0_74899094/article/details/168248627)
+
++ [【Valhalla L3静态源码审计】solidcraft｜GitHub本日热度榜第2名 Rust参数化3D开源CAD 只读证据尽调报告](https://blog.csdn.net/TunerT_TQ/article/details/168249385)
+
++ [成为全栈·Flutter App 篇·Flutter 构建与发布准备：Android、iOS 和签名边界](https://blog.csdn.net/FungLeo/article/details/168242443)
+
++ [54 个接口、5 层结构、30 条拒绝理由：从 aimdk_msgs 倒推启元机器人 Q1 的软件架构](https://blog.csdn.net/2401_86326742/article/details/168241344)
+
++ [4.2 drm_gem_dma_object：基于 CMA 的物理连续后备](https://blog.csdn.net/shenjunpeng/article/details/167584836)
+
++ [微服务架构落地：Sentinel 限流熔断架构实战 —— 流量防护、熔断降级、热点参数治理，杜绝微服务连锁雪崩](https://blog.csdn.net/helloword_monkey/article/details/168144202)
+
++ [OpenCode 免费使用 DeepSeek V4.1 Flash 完整指南](https://blog.csdn.net/weixin_68896032/article/details/168027388)
+
++ [第七篇：《向量数据库选型：从 Chroma 到 Milvus 的落地对比》](https://blog.csdn.net/qq_45239623/article/details/168107594)
+
++ [Flutter 三方库 OpenHarmony 适配讲解：flutter_notification_channel](https://blog.csdn.net/2501_93573294/article/details/168251249)
+
++ [SQL 编辑器生产力：重构与实时错误检测](https://blog.csdn.net/weixin_53935287/article/details/168133433)
+
