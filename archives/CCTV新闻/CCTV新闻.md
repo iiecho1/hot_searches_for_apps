@@ -1,5 +1,25 @@
 ## CCTV新闻 
-### 2026-10-18
+### 2026-10-19
+
++ [中国驻日使馆：日当政者参拜靖国神社亵渎历史正义](https://news.cctv.com/2026/10/18/ARTI7yPuypYqE3YKFEON3e5g261018.shtml)
+
++ [俄外交部：中国正在进行“新的伟大长征”](https://news.cctv.com/2026/10/18/ARTIZxE7EDVGe8m893n505Ia261018.shtml)
+
++ [缅甸发生4.3级地震，震源深度9千米](https://news.cctv.com/2026/10/18/ARTIKkOHTUD55M5WgKGZYmaK261018.shtml)
+
++ [美国堪萨斯州一车辆冲入足球场 致多人死伤](https://news.cctv.com/2026/10/18/ARTIhKwazcbOGen8YbjwHoDv261018.shtml)
+
++ [伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只](https://news.cctv.com/2026/10/18/ARTI4O8b6k6UB07Cv6j4pDmW261018.shtml)
+
++ [也门胡塞武装称击落沙特方面一架“阿帕奇”直升机](https://news.cctv.com/2026/10/18/ARTIlkB4ODP8C4XdkULnqZzg261018.shtml)
+
++ [以总理办公室：针对欧洲外交官的暴力行为“不可接受”](https://news.cctv.com/2026/10/18/ARTIAnHHEofsMcnA7nFVPGM6261018.shtml)
+
++ [伊拉克总理呼吁伊斯兰合作组织成员国促进地区和平](https://news.cctv.com/2026/10/18/ARTIwUcXYkkjSA7ICTC0jDNa261018.shtml)
+
++ [坦桑尼亚加强入境健康筛查 防止埃博拉病毒输入](https://news.cctv.com/2026/10/18/ARTI9fAEe5BCLmJecOxse9rC261018.shtml)
+
++ [以色列犹太人定居者在约旦河西岸袭击欧洲外交官车辆](https://news.cctv.com/2026/10/18/ARTI4GLHnxR0jnaPNMrtWy1v261017.shtml)
 
 + [我驻日使馆发言人就日方涉靖国神社消极动向答记者问](https://news.cctv.com/2026/10/17/ARTIlZdMTEFoGT6AoZQ97Iox261017.shtml)
 
@@ -138,40 +158,4 @@
 + [文明对话应成为超越分歧、增进互鉴的桥梁（国际论坛）](https://news.cctv.com/2026/10/13/ARTIiIGGumvKQX5Fla1ntuDD261013.shtml)
 
 + [“唯有正视历史、彻底反省，才能真正面向未来”（国际视点）](https://news.cctv.com/2026/10/13/ARTIKWxyMPbRUr70zHJ98tEa261013.shtml)
-
-+ [菲检方撤回三项对副总统莎拉的弹劾指控](https://news.cctv.com/2026/10/13/ARTIz8aBTOe1cSZlBFhRqWm2261013.shtml)
-
-+ [韩国仁川发生持刀伤人事件 已致8人受伤](https://news.cctv.com/2026/10/13/ARTI3GGmdfhTp3Kucv46pklo261013.shtml)
-
-+ [苏丹首都发生枪击事件 造成3名埃及公民伤亡](https://news.cctv.com/2026/10/13/ARTIZ3sdtlThSpWnm1kDpNPn261013.shtml)
-
-+ [河水暴涨 阿根廷临时关闭伊瓜苏瀑布景区](https://news.cctv.com/2026/10/13/ARTI8t8iRLdHAtYKa39WJu3L261013.shtml)
-
-+ [国际货币基金组织上调2026年世界经济增长预期至3.1%](https://news.cctv.com/2026/10/13/ARTISPmfSPlZriAZuV6jqtlt261013.shtml)
-
-+ [阿联酋航空一飞往迪拜的客机因机械故障返航](https://news.cctv.com/2026/10/13/ARTIQpHxGt6CdIQnJBlH81vN261013.shtml)
-
-+ [厄瓜多尔一监狱发生越狱事件](https://news.cctv.com/2026/10/13/ARTI1khm6RUOGV7OiHLxtRx7261013.shtml)
-
-+ [玻利维亚一辆小巴坠河 致10人死亡](https://news.cctv.com/2026/10/13/ARTIGZpjeqIJmpGGdclpWL0S261013.shtml)
-
-+ [法国数百家超市制冷系统遭网攻 大量食品变质](https://news.cctv.com/2026/10/13/ARTIQJ70idFKlOcDA4phmbe5261013.shtml)
-
-+ [俄方称欧盟单边制裁非法且毫无根据 俄将进行回应](https://news.cctv.com/2026/10/13/ARTIaEa6ItfmevxcbTN63CNM261013.shtml)
-
-+ [坦桑尼亚加强入境健康筛查 防止埃博拉病毒输入](https://news.cctv.com/2026/10/18/ARTI9fAEe5BCLmJecOxse9rC261018.shtml)
-
-+ [以色列犹太人定居者在约旦河西岸袭击欧洲外交官车辆](https://news.cctv.com/2026/10/18/ARTI4GLHnxR0jnaPNMrtWy1v261017.shtml)
-
-+ [伊拉克总理呼吁伊斯兰合作组织成员国促进地区和平](https://news.cctv.com/2026/10/18/ARTIwUcXYkkjSA7ICTC0jDNa261018.shtml)
-
-+ [美国堪萨斯州一车辆冲入足球场 致多人死伤](https://news.cctv.com/2026/10/18/ARTIhKwazcbOGen8YbjwHoDv261018.shtml)
-
-+ [伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只](https://news.cctv.com/2026/10/18/ARTI4O8b6k6UB07Cv6j4pDmW261018.shtml)
-
-+ [也门胡塞武装称击落沙特方面一架“阿帕奇”直升机](https://news.cctv.com/2026/10/18/ARTIlkB4ODP8C4XdkULnqZzg261018.shtml)
-
-+ [以总理办公室：针对欧洲外交官的暴力行为“不可接受”](https://news.cctv.com/2026/10/18/ARTIAnHHEofsMcnA7nFVPGM6261018.shtml)
-
-+ [缅甸发生4.3级地震，震源深度9千米](https://news.cctv.com/2026/10/18/ARTIKkOHTUD55M5WgKGZYmaK261018.shtml)
 

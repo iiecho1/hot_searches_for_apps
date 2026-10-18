@@ -1,33 +1,25 @@
 ## GitHub 
-### 2026-10-18
-
-+ [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+### 2026-10-19
 
 + [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
-+ [affaan-m/ECC](https://github.com/affaan-m/ECC)
-
-+ [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-
-+ [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-
-+ [android/skills](https://github.com/android/skills)
-
-+ [stablyai/orca](https://github.com/stablyai/orca)
-
-+ [anthropics/claude-code](https://github.com/anthropics/claude-code)
-
-+ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
++ [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 + [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
-+ [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
++ [cursor/plugins](https://github.com/cursor/plugins)
 
-+ [xerj-org/xerj](https://github.com/xerj-org/xerj)
++ [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
 + [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
-+ [cursor/plugins](https://github.com/cursor/plugins)
++ [stablyai/orca](https://github.com/stablyai/orca)
+
++ [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+
++ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
++ [android/skills](https://github.com/android/skills)
 
 + [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 

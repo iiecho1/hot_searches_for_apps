@@ -1,123 +1,63 @@
 ## AcFun 
-### 2026-10-18
-
-+ [《人，你食不食油饼》](https://m.acfun.cn/v/?ac=48917867)
-
-+ [网购的iPad居然是赃物，拿去维修脸丢光了](https://m.acfun.cn/v/?ac=48919927)
-
-+ [好看，爱看！★手机竖屏2036★](https://m.acfun.cn/v/?ac=48918601)
-
-+ [人为什么为了快0.1秒，反复折磨自己？](https://m.acfun.cn/v/?ac=48918796)
-
-+ [【东方】推特东方小视频选集 第275期](https://m.acfun.cn/v/?ac=48914979)
-
-+ [去宜家采购了](https://m.acfun.cn/v/?ac=48908803)
-
-+ [极恶之徒互相残杀《八恶人》昆汀版龙门客栈](https://m.acfun.cn/v/?ac=48916010)
-
-+ [网络上常见的热门短视频集锦   第三千四百九十四期](https://m.acfun.cn/v/?ac=48919465)
-
-+ [明天为什么要上班 娄老师 不看不是人 上班的意义是？](https://m.acfun.cn/v/?ac=48920093)
-
-+ [网络上常见的热门短视频集锦   第三千四百九十三期](https://m.acfun.cn/v/?ac=48918607)
-
-+ [新娘不是我【今天有什么好笑的 #2539】](https://m.acfun.cn/v/?ac=48919911)
-
-+ [你好呀！现在是千禧年](https://m.acfun.cn/v/?ac=48919226)
-
-+ [限定黑皮](https://m.acfun.cn/v/?ac=48919637)
-
-+ [你们相信光吗？欢乐八点档-1805](https://m.acfun.cn/v/?ac=48919949)
-
-+ [这节奏有毒，慎点！](https://m.acfun.cn/v/?ac=48920184)
-
-+ [天地间 一柄剑 划破了晴天🪭](https://m.acfun.cn/v/?ac=48918863)
-
-+ [不管战绩多烂也不要放弃赢的希望！快速看完一局韩服王者斗殴局#861 Faker, 13day,  M](https://m.acfun.cn/v/?ac=48911245)
-
-+ [厨师长教你：“白油里脊丝”的家常做法，滑嫩多汁，咸鲜适口](https://m.acfun.cn/v/?ac=48919476)
-
-+ [【万字解析】日本猎奇冷门恐怖片《女巫的承诺》](https://m.acfun.cn/v/?ac=48920322)
-
-+ [无标题](https://m.acfun.cn/v/?ac=48919792)
-
-+ [火爆网络的变异角色，到底讲了什么？芝麻街中的隐秘角落！](https://m.acfun.cn/v/?ac=48919490)
-
-+ [全明星大乱斗，这就是王者组的世界吗？快速看完一局韩服王者斗殴局#862 JJKING, Climbe](https://m.acfun.cn/v/?ac=48912256)
-
-+ [跨纬度病毒感染40亿人，地下设施中隐藏着什么秘密？【GTFO游戏剧情解析】](https://m.acfun.cn/v/?ac=48920192)
-
-+ [1600期：SUV失控乱撞，撞飞路人，掉进大堂](https://m.acfun.cn/v/?ac=48920136)
-
-+ [白井黑子 爱心迷情黑色制服【AI动画/超清】](https://m.acfun.cn/v/?ac=48918835)
-
-+ [今天才知道，原来易拉罐的底部还有一个小机关，用起来太方便了](https://m.acfun.cn/v/?ac=48919850)
-
-+ [【绝望女神/庆生翻唱】【Eminem Godzilla】](https://m.acfun.cn/v/?ac=48920343)
-
-+ [性能怪兽核弹级，这么强的配置得多少钱呢？](https://m.acfun.cn/v/?ac=48919474)
-
-+ [避日蛛 vs 马陆，猎手与毒物的对决！](https://m.acfun.cn/v/?ac=48918679)
-
-+ [【官方双语】我盼这台机器整整十年了 - 全自动羽毛球发球机器人#linus谈科技](https://m.acfun.cn/v/?ac=48918913)
-
-+ [兔牙-20261016 chocolatecream something rollin 火车摇](https://m.acfun.cn/v/?ac=48919459)
-
-+ [穿洞洞鞋会臭脚吗？](https://m.acfun.cn/v/?ac=48919954)
-
-+ [绝顶性感黑丝红丝Red舞蹈翻跳](https://m.acfun.cn/v/?ac=48920813)
-
-+ [就让因后退果上追，大梦终不归](https://m.acfun.cn/v/?ac=48920798)
-
-+ [【官方双语】专业用户试用AI克隆版的Photoshop - Photon Studio](https://m.acfun.cn/v/?ac=48920294)
+### 2026-10-19
 
 + [热巴怎么还害羞了？★手机竖屏2037★](https://m.acfun.cn/v/?ac=48920550)
 
 + [当年GBA凭什么卖得那么火？【老弦乱弹第08季第11集】](https://m.acfun.cn/v/?ac=48921098)
 
-+ [这个猫咪好可爱](https://m.acfun.cn/v/?ac=48921130)
++ [【桃夜朔】遊霊婚（cover菅原圭）极致病娇的女鬼情歌](https://m.acfun.cn/v/?ac=48920811)
 
-+ [这是什么车?](https://m.acfun.cn/v/?ac=48921127)
-
-+ [这生蚝个头大吗？](https://m.acfun.cn/v/?ac=48921122)
-
-+ [这剧情不对啊](https://m.acfun.cn/v/?ac=48921096)
-
-+ [网络上常见的热门短视频集锦   第三千四百九十五期](https://m.acfun.cn/v/?ac=48920551)
-
-+ [这瑜伽不错，得学](https://m.acfun.cn/v/?ac=48921104)
-
-+ [哪一把是最厉害的](https://m.acfun.cn/v/?ac=48921099)
-
-+ [这手法是真的烂](https://m.acfun.cn/v/?ac=48921108)
-
-+ [牛:强者从不抱怨环境](https://m.acfun.cn/v/?ac=48921113)
-
-+ [逛超市快成日常娱乐了](https://m.acfun.cn/v/?ac=48908801)
-
-+ [第一次见推车卖散油的！应该不贵](https://m.acfun.cn/v/?ac=48921085)
-
-+ [根本没有这种邦布！](https://m.acfun.cn/v/?ac=48918849)
-
-+ [两岁崽崽检疫区看病](https://m.acfun.cn/v/?ac=48920903)
++ [沙县爱情故事1](https://m.acfun.cn/v/?ac=48921388)
 
 + [因为没交舍保，我被踢出了自己的粉丝群](https://m.acfun.cn/v/?ac=48921458)
 
-+ [【桃夜朔】遊霊婚（cover菅原圭）极致病娇的女鬼情歌](https://m.acfun.cn/v/?ac=48920811)
++ [这个猫咪好可爱](https://m.acfun.cn/v/?ac=48921130)
+
++ [网络上常见的热门短视频集锦   第三千四百九十五期](https://m.acfun.cn/v/?ac=48920551)
 
 + [网络上常见的热门短视频集锦   第三千四百九十六期](https://m.acfun.cn/v/?ac=48921295)
 
 + [沃的丝滑变装～](https://m.acfun.cn/v/?ac=48920899)
 
-+ [沙县爱情故事1](https://m.acfun.cn/v/?ac=48921388)
++ [商务拳击！！！欢乐八点档-1806](https://m.acfun.cn/v/?ac=48921741)
 
-+ [任天堂纯在发狂！难到被玩家投诉的《塞尔达2》究竟有多夸张【受难日38】](https://m.acfun.cn/v/?ac=48921707)
++ [【奧雷】贪心老板为节约经费竟拿客户来测试未知药物！](https://m.acfun.cn/v/?ac=48921944)
 
 + [有点帅到你了](https://m.acfun.cn/v/?ac=48919649)
 
-+ [随便跳跳也是可以跳疯的](https://m.acfun.cn/v/?ac=48921806)
-
 + [你的计科学长【今天有什么好笑的 #2540】](https://m.acfun.cn/v/?ac=48921682)
 
++ [逛超市快成日常娱乐了](https://m.acfun.cn/v/?ac=48908801)
+
++ [随便跳跳也是可以跳疯的](https://m.acfun.cn/v/?ac=48921806)
+
++ [这是什么车?](https://m.acfun.cn/v/?ac=48921127)
+
++ [任天堂纯在发狂！难到被玩家投诉的《塞尔达2》究竟有多夸张【受难日38】](https://m.acfun.cn/v/?ac=48921707)
+
++ [这生蚝个头大吗？](https://m.acfun.cn/v/?ac=48921122)
+
++ [两岁崽崽检疫区看病](https://m.acfun.cn/v/?ac=48920903)
+
++ [学功夫练武术~古风小舞蹈](https://m.acfun.cn/v/?ac=48905529)
+
++ [这剧情不对啊](https://m.acfun.cn/v/?ac=48921096)
+
++ [这手法是真的烂](https://m.acfun.cn/v/?ac=48921108)
+
++ [【柯基】《昨夜小楼又东风》｜费玉清｜今夜月稀掩朦胧，低声叹呢喃望星空，恰似回首终究一场梦](https://m.acfun.cn/v/?ac=48922196)
+
++ [哪一把是最厉害的](https://m.acfun.cn/v/?ac=48921099)
+
++ [这瑜伽不错，得学](https://m.acfun.cn/v/?ac=48921104)
+
++ [牛:强者从不抱怨环境](https://m.acfun.cn/v/?ac=48921113)
+
++ [第一次见推车卖散油的！应该不贵](https://m.acfun.cn/v/?ac=48921085)
+
 + [『何处山海万象生 (Japanese Ver.)』・霧雨](https://m.acfun.cn/v/?ac=48921675)
+
++ [他还得谢谢咱呢](https://m.acfun.cn/v/?ac=48893028)
+
++ [就让因后退果上追，大梦终不归](https://m.acfun.cn/v/?ac=48920798)
 
