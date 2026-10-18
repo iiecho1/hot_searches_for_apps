@@ -25,3 +25,13 @@
 
 + [12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单](https://m.ithome.com/html/1014410.htm)
 
++ [比亚迪第三代秦 PLUS 实车曝光，预计 10 月下旬上市](https://m.ithome.com/html/1014541.htm)
+
++ [武亮回应“接手峰学蔚来质疑”：张雪峰离世后，当下最重要的是尽全力让公司活下去](https://m.ithome.com/html/1014575.htm)
+
++ [消息称苹果要求零售店员工劝退无预约顾客：iPhone Duo 首发日基本不卖现货](https://m.ithome.com/html/1014437.htm)
+
++ [苹果 iPhone Duo 京东尊享权益套装上线，20998 元起 20:00 开抢](https://m.ithome.com/html/1014513.htm)
+
++ [华为鸿蒙星河互联 AirPods 适配型号公布，覆盖初代至 Max 等主流机型](https://m.ithome.com/html/1014489.htm)
+

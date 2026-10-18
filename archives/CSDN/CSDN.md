@@ -101,3 +101,25 @@
 
 + [揭秘代理模式：从静态到SpringAOP的进化之路](https://blog.csdn.net/2501_93705143/article/details/168249926)
 
++ [【STM32】 RTC 实时时钟详解：从概念到预分频器 ](https://blog.csdn.net/2602_95649725/article/details/168345009)
+
++ [22 个关节、26 段骨架、16.9 公斤：藏在官方 URDF 里的启元机器人 Q1「身体说明书」](https://blog.csdn.net/2401_86326742/article/details/168232793)
+
++ [【HIDS】规范精讲[1]：从连接建立到数据通路——HID over GATT 的底层契约](https://blog.csdn.net/weixin_37800531/article/details/167703596)
+
++ [预训练数据配比策略_如何平衡不同领域数据](https://blog.csdn.net/2302_78391795/article/details/168343215)
+
++ [Redisson BloomFilter：分布式位图实现、误判率调优与缓存穿透三级防护的 Spring Boot 生产级实战](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/168140440)
+
++ [AI Agent 走出沙箱去上网，为什么处处碰壁？从工具生态落地到 Cloudflare、DataDome 的反自动化现实](https://blog.csdn.net/2603_96980045/article/details/168144600)
+
++ [【AI编程】使用笔记：Rule/Skill/Prompt](https://blog.csdn.net/tz_zs/article/details/162700792)
+
++ [TestAgent：面向测试文档（测试方案，测试用例，缺陷分析报告）生成的智能体平台](https://blog.csdn.net/2301_79966297/article/details/168104575)
+
++ [Embedding+向量数据库](https://blog.csdn.net/TaylorSwift030/article/details/168248068)
+
++ [Folia 音乐播放器下载使用教程：根据歌词自动生成炫酷动画MV的开源播放器](https://blog.csdn.net/weixin_45787934/article/details/168340540)
+
++ [微服务架构落地：Sentinel 限流熔断架构实战 —— 流量防护、熔断降级、热点参数治理，杜绝微服务连锁雪崩](https://blog.csdn.net/helloword_monkey/article/details/168144202)
+

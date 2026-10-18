@@ -159,3 +159,7 @@
 
 + [“唯有正视历史、彻底反省，才能真正面向未来”（国际视点）](https://news.cctv.com/2026/10/13/ARTIKWxyMPbRUr70zHJ98tEa261013.shtml)
 
++ [韩国监狱人满为患 获假释囚犯人数骤增](https://news.cctv.com/2026/10/19/ARTINuGtjBGbWZS5OpyLdjt5261018.shtml)
+
++ [伊朗：已针对可能的新“冒险行径”制定应对方案](https://news.cctv.com/2026/10/19/ARTIzCZgOUBbGg5stNjxH5k1261018.shtml)
+

@@ -21,3 +21,9 @@
 
 + [DeepSeek-V4.1-Flash-1017 发布了，今晚我让它通宵写代码（Day 4）](https://www.v2ex.com/t/1249671)
 
++ [Claude 过验证后丝滑升 5x](https://www.v2ex.com/t/1249762)
+
++ [总是在兴奋和悲观之间反复横跳，这个屌炸天的 REA（逆向一切），原理仅仅只是给大模型提供了更多的上下文](https://www.v2ex.com/t/1249708)
+
++ [找个喜欢自己的还是自己喜欢的人](https://www.v2ex.com/t/1249814)
+
