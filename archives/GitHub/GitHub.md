@@ -27,3 +27,11 @@
 
 + [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
++ [cursor/plugins](https://github.com/cursor/plugins)
+
++ [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
++ [Kruk2/jasna](https://github.com/Kruk2/jasna)
+
++ [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+

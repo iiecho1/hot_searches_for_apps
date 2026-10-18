@@ -157,3 +157,33 @@
 
 + [SQL 编辑器生产力：重构与实时错误检测](https://blog.csdn.net/weixin_53935287/article/details/168133433)
 
++ [飞牛部署Damselfly实战：Docker Compose、照片目录、7100访问与固定地址](https://blog.csdn.net/Mrxiao_bo/article/details/168342744)
+
++ [K8s Ingress 返回 502 但后端日志正常：4 类上游断连与排查链](https://blog.csdn.net/2501_92769340/article/details/167498389)
+
++ [让时序预测真正参与决策：TimechoAI 工程化落地与管线设计实践](https://blog.csdn.net/2402_83344867/article/details/168246506)
+
++ [【花雕学编程】Arduino BLDC 之自主巡检机器人：多传感器融合与实时控制分离](https://blog.csdn.net/weixin_41659040/article/details/168140430)
+
++ [CodeBuddy × 硅基流动：从零搭建 PaddleOCR-VL 文档识别应用（上篇）——需求拆解、工程骨架与 SiliconFlow 集成](https://blog.csdn.net/yelangkingwuzuhu/article/details/168031542)
+
++ [启元 Q1 机器人技术架构解读：从 ROS2 接口到双板系统](https://blog.csdn.net/2302_79376097/article/details/168339898)
+
++ [Agent 接进企业微信和钉钉：验签、收发与卡片交互的渠道适配层](https://blog.csdn.net/2301_78967866/article/details/168249971)
+
++ [Agent 系列13｜工具实现与可靠性](https://blog.csdn.net/forest_09/article/details/168249600)
+
++ [Flutter/OpenHarmony 三方库适配实战：pda_scanner 兼容层](https://blog.csdn.net/2501_93573294/article/details/168341643)
+
++ [项目部署好了，怎么绑定域名？](https://blog.csdn.net/wanghaoyingand/article/details/168136472)
+
++ [Embedding+向量数据库](https://blog.csdn.net/TaylorSwift030/article/details/168248068)
+
++ [TestAgent：面向测试文档（测试方案，测试用例，缺陷分析报告）生成的智能体平台](https://blog.csdn.net/2301_79966297/article/details/168104575)
+
++ [【DIY系列：自己动手写分布式搜索引擎】第02篇：搜索引擎的五脏六腑：核心模块全景图](https://blog.csdn.net/xyghehehehe/article/details/168245439)
+
++ [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 local_auth](https://blog.csdn.net/2502_93915572/article/details/168333251)
+
++ [邮件签名怎么设计？用原生 JavaScript 连接表单、实时预览与 HTML 输出](https://blog.csdn.net/herooooooooo/article/details/168338569)
+
