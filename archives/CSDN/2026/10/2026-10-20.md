@@ -101,3 +101,23 @@
 
 + [Web3项目存活与消亡的底层逻辑](https://blog.csdn.net/2603_95513236/article/details/168243580)
 
++ [三分钟读懂：luminex xmap为何成为2型炎症与嗜酸性表型研究热词](https://blog.csdn.net/CCC631341/article/details/168128092)
+
++ [Spring AI 是什么？Java 工程师的 AI 开发第一站](https://blog.csdn.net/sinat_41617212/article/details/168346043)
+
++ [算法一千零一夜 · 第十二夜 一个数学学渣，用计算机解奥数题](https://blog.csdn.net/qq_41057763/article/details/168447080)
+
++ [智能客服工单系统设计要点：从多渠道接入、智能分派到 SLA 计时与知识库沉淀](https://blog.csdn.net/hawkswujh/article/details/168393750)
+
++ [把 Claude Code 和 Codex 接进微信、飞书、钉钉：LangBot Runner 插件实战](https://blog.csdn.net/2304_78132471/article/details/168248796)
+
++ [HTTPS 页面加载 HTTP 媒体，Mixed‑Content 混合内容安全策略完整实战](https://blog.csdn.net/2608_96729545/article/details/168339049)
+
++ [GitHub 热榜项目：日榜（2026-10-18）](https://blog.csdn.net/u130130/article/details/168339042)
+
++ [【计算机网络】第 1 篇：从 0 开始认识计算机网络——网络分层模型到底是什么？](https://blog.csdn.net/2401_86617027/article/details/168337308)
+
++ [Kafka Connect 与 Flink CDC 写入 Iceberg：Upsert 的代价，以及 S3 Tables 的真正价值](https://blog.csdn.net/turk/article/details/168447169)
+
++ [业务岗位用 Agent，先把交付和复核说清楚](https://blog.csdn.net/powertoolsteam/article/details/168431257)
+
