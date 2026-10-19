@@ -159,3 +159,31 @@
 
 + [SpringBoot - POI实现Excel 导入与导出](https://blog.csdn.net/2301_80478870/article/details/168245665)
 
++ [Python 之外：启元 Q1 SDK 的 C++ 编译、示例与手写节点全实录](https://blog.csdn.net/user340/article/details/168344560)
+
++ [极空间部署Portainer实战：Docker Socket、9000端口、容器管理与固定地址访问](https://blog.csdn.net/2401_87629362/article/details/168441006)
+
++ [OpenWebU部署实战:Python 3.11、Ollama、DeepSeek R1与固定地址访问](https://blog.csdn.net/2301_76341691/article/details/168435165)
+
++ [CentOS 7部署Kubernetes实战：containerd、Master与Worker、NodePort和固定地址访问](https://blog.csdn.net/weixin_44976692/article/details/168444953)
+
++ [【Valhalla L3静态源码审计】craft-launcher｜GitHub本日热度榜第5名 Rust多软件套件启动器 只读证据尽调报告](https://blog.csdn.net/TunerT_TQ/article/details/168342536)
+
++ [分布式训练框架_DeepSpeed_ZeRO详解](https://blog.csdn.net/2302_78391795/article/details/168414289)
+
++ [Spring Data JPA 实战——从实体映射到复杂查询](https://blog.csdn.net/vipxieliang/article/details/168241583)
+
++ [AI短剧流程太散？我用Toonflow把剧本、角色、分镜和成片串成一套工作流](https://blog.csdn.net/Pocker_Spades_A/article/details/168145641)
+
++ [【论文阅读】Harness Engineering——编码智能体的解剖、架构与演化](https://blog.csdn.net/universsky2015/article/details/168435088)
+
++ [【车辆定位】基于matlab面向弱GNSS环境 C-V2X 车辆同步定位场景研究（IMU +卡尔曼滤波KF组合定位）【含Matlab源码 16098期】](https://blog.csdn.net/TIQCmatlab/article/details/168437719)
+
++ [深度学习实战-基于Xception的瑜伽姿势图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/163157969)
+
++ [【共创稿事节】HarmonyOS 7 Agent 开发实战 12：人机协同与人工接管](https://blog.csdn.net/finally_vince/article/details/167700995)
+
++ [国内无人机厂家的硬件架构和 SDK ](https://blog.csdn.net/weixin_40847436/article/details/168145219)
+
++ [主从 Reactor 高并发服务器实战 (一)：前置知识与功能目标](https://blog.csdn.net/dasdasfv/article/details/168031329)
+

@@ -27,3 +27,11 @@
 
 + [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
++ [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
+
++ [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+
++ [anthropics/claude-code](https://github.com/anthropics/claude-code)
+
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+

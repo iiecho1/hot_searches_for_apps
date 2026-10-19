@@ -183,3 +183,19 @@
 
 + [驻以色列使馆提醒中国公民切勿参与非法入境以色列务工](https://news.cctv.com/2026/10/19/ARTIvN2zZuVYrtujqdQ2cUSs261019.shtml)
 
++ [厄尔尼诺作用下 “世界旱极”再现“沙漠开花”景观](https://news.cctv.com/2026/10/19/ARTIp1RJVDHnZUbZaBpMrwsS261019.shtml)
+
++ [中国走在全球减贫与可持续发展前列](https://news.cctv.com/2026/10/19/ARTIA5wcGXue01ZgNaYrRvHt261019.shtml)
+
++ [“一份融合发展、务实增效的‘湾区答卷’”](https://news.cctv.com/2026/10/19/ARTIUCH3MomF5qWFG24O5EA4261019.shtml)
+
++ [膜拜战犯，是对历史正义的亵渎](https://news.cctv.com/2026/10/19/ARTIufwTmZOGBx7mJW2vCUQc261019.shtml)
+
++ [苏丹首都机场遭遇无人机袭击 造成1人死亡](https://news.cctv.com/2026/10/19/ARTIwhMj36JCTwIWuYgc4ReF261019.shtml)
+
++ [一移民船与希腊海岸警卫队船只相撞致6人死亡](https://news.cctv.com/2026/10/19/ARTIPespZFq3lvqjLNYtb1om261019.shtml)
+
++ [叙利亚与世行同意设立重建基金](https://news.cctv.com/2026/10/19/ARTIMAPOgdQkKV8eStVc9RHy261019.shtml)
+
++ [特朗普：泽连斯基可能从未想结束俄乌战事](https://news.cctv.com/2026/10/19/ARTIgL9yubd3llxeEMrLFG5t261019.shtml)
+
