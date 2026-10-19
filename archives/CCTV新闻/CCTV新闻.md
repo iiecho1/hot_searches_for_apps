@@ -1,5 +1,57 @@
 ## CCTV新闻 
-### 2026-10-19
+### 2026-10-20
+
++ [美佛州称对古巴革命领袖劳尔·卡斯特罗发逮捕令](https://news.cctv.com/2026/10/20/ARTIeTz8kJc9BPXaxQsKYUEM261020.shtml)
+
++ [外交部提醒赴法国中国公民加强安全防范](https://news.cctv.com/2026/10/19/ARTIwmNuYaYP0LhNWL5GAAWj261019.shtml)
+
++ [李在明：韩国必须尽快从美方收回战时作战指挥权](https://news.cctv.com/2026/10/19/ARTIprN70KS146rdUgEfX4VD261019.shtml)
+
++ [伊朗革命卫队：若美国发动战争 伊方将更严厉回应](https://news.cctv.com/2026/10/19/ARTI6hS4kgaYuD0WOMnDm1Vs261019.shtml)
+
++ [美方称结束俄乌冲突是美国优先要务](https://news.cctv.com/2026/10/19/ARTI74fVulPxoJlnjaQ2fF5q261019.shtml)
+
++ [法国总理宣布启动大规模司法行动 多地将实施局部宵禁](https://news.cctv.com/2026/10/19/ARTILqZWvTjRUcloI8MsCIvu261019.shtml)
+
++ [厄尔尼诺作用下 “世界旱极”再现“沙漠开花”景观](https://news.cctv.com/2026/10/19/ARTIp1RJVDHnZUbZaBpMrwsS261019.shtml)
+
++ [中国走在全球减贫与可持续发展前列](https://news.cctv.com/2026/10/19/ARTIA5wcGXue01ZgNaYrRvHt261019.shtml)
+
++ [“一份融合发展、务实增效的‘湾区答卷’”](https://news.cctv.com/2026/10/19/ARTIUCH3MomF5qWFG24O5EA4261019.shtml)
+
++ [膜拜战犯，是对历史正义的亵渎](https://news.cctv.com/2026/10/19/ARTIufwTmZOGBx7mJW2vCUQc261019.shtml)
+
++ [苏丹首都机场遭遇无人机袭击 造成1人死亡](https://news.cctv.com/2026/10/19/ARTIwhMj36JCTwIWuYgc4ReF261019.shtml)
+
++ [一移民船与希腊海岸警卫队船只相撞致6人死亡](https://news.cctv.com/2026/10/19/ARTIPespZFq3lvqjLNYtb1om261019.shtml)
+
++ [叙利亚与世行同意设立重建基金](https://news.cctv.com/2026/10/19/ARTIMAPOgdQkKV8eStVc9RHy261019.shtml)
+
++ [特朗普：泽连斯基可能从未想结束俄乌战事](https://news.cctv.com/2026/10/19/ARTIgL9yubd3llxeEMrLFG5t261019.shtml)
+
++ [巴西总统候选人进行电视辩论](https://news.cctv.com/2026/10/19/ARTIQ3afph2uR6aDILZKODyG261019.shtml)
+
++ [外国人眼中的长征 | 用镜头记录，让世界看见一个真实的中国](https://news.cctv.com/2026/10/19/ARTIAnBfyZ1jVf5SK1cXWXuN261019.shtml)
+
++ [首次跌破50% 民调显示高市内阁支持率跌至新低](https://news.cctv.com/2026/10/19/ARTIas9r61UYS9wkTPC4Nn1R261019.shtml)
+
++ [加拿大军方：该国西部军事基地火灾由实弹训练引发](https://news.cctv.com/2026/10/19/ARTIqWxunbv4M3jWo7A7HiJm261019.shtml)
+
++ [伊朗总统：绝不屈服于“侵略性”国家无理要求与霸凌](https://news.cctv.com/2026/10/19/ARTIYKaZMVRux06hHCmwsycx261019.shtml)
+
++ [驻以色列使馆提醒中国公民切勿参与非法入境以色列务工](https://news.cctv.com/2026/10/19/ARTIvN2zZuVYrtujqdQ2cUSs261019.shtml)
+
++ [泽连斯基称若乌“被要求”举行战时选举他将竞选连任](https://news.cctv.com/2026/10/19/ARTICwwjCKDjlaKsKJXW716V261019.shtml)
+
++ [法国总统谴责该国多地发生的暴力事件](https://news.cctv.com/2026/10/19/ARTIGANdZiula8KmfF8hwS4T261019.shtml)
+
++ [以总理公布新“国家安全构想” 称转向进攻和预警打击](https://news.cctv.com/2026/10/19/ARTIv4SEcnX61EsHwIFZh8tn261019.shtml)
+
++ [加拿大总理：军事基地火灾致4名军人死亡 数十人重伤](https://news.cctv.com/2026/10/19/ARTIgafucv4TPGtdb35pVyJj261019.shtml)
+
++ [韩国监狱人满为患 获假释囚犯人数骤增](https://news.cctv.com/2026/10/19/ARTINuGtjBGbWZS5OpyLdjt5261018.shtml)
+
++ [伊朗：已针对可能的新“冒险行径”制定应对方案](https://news.cctv.com/2026/10/19/ARTIzCZgOUBbGg5stNjxH5k1261018.shtml)
 
 + [中国驻日使馆：日当政者参拜靖国神社亵渎历史正义](https://news.cctv.com/2026/10/18/ARTI7yPuypYqE3YKFEON3e5g261018.shtml)
 
@@ -106,96 +158,4 @@
 + [日本宫城县女川核电站2号机组发生微量漏水](https://news.cctv.com/2026/10/15/ARTIi8458IAD92iS24mLPpn0261015.shtml)
 
 + [格陵兰岛官员否认美国即将上岛大规模勘探](https://news.cctv.com/2026/10/15/ARTIgzEHU9SlVf6A5nnRQC2D261015.shtml)
-
-+ [美联储“褐皮书”显示高油价对经济产生广泛影响](https://news.cctv.com/2026/10/15/ARTIIv81mJ58uQ3djesrix76261015.shtml)
-
-+ [丹麦再次延长丹德边境的管控](https://news.cctv.com/2026/10/15/ARTIA5RYqB0kXXJmgBJYXvgT261015.shtml)
-
-+ [IMF上调2026年亚太地区经济增长预期](https://news.cctv.com/2026/10/15/ARTIC9kjxCVINmvfJ6MOj2d4261015.shtml)
-
-+ [烟霾弥漫 印尼近两月呼吸道急症超28万例](https://news.cctv.com/2026/10/15/ARTI7PR5FVGpvJvXViB3tvlQ261015.shtml)
-
-+ [中国驻沙特大使馆就当前沙特局势发布安全提醒](https://news.cctv.com/2026/10/15/ARTIE47r69Ro275SR5P84P5r261015.shtml)
-
-+ [土耳其伊斯坦布尔强降雨引发城市内涝 交通大面积瘫痪](https://news.cctv.com/2026/10/15/ARTIWyRTpdwCcSNabZzvgiqC261015.shtml)
-
-+ [北约秘书长：暂无迹象表明北约领土面临迫在眉睫威胁](https://news.cctv.com/2026/10/15/ARTImIHE6PejxLFc4d164Mys261015.shtml)
-
-+ [胡塞武装称沙特主导的联军24小时内发动42次袭击](https://news.cctv.com/2026/10/15/ARTI8APaTeoiFVstKNs8ZqeW261015.shtml)
-
-+ [美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船](https://news.cctv.com/2026/10/15/ARTI7PDLfZYZ5n9WjvQJ8teL261015.shtml)
-
-+ [乌克兰总统顾问说“星链”限速致乌军多任务中断](https://news.cctv.com/2026/10/14/ARTIjHwX46Ckvs0TCqyAYNSX261014.shtml)
-
-+ [特朗普称将在格陵兰岛勘探油气和矿产资源](https://news.cctv.com/2026/10/14/ARTIGO33fQG4SO3hBTd9IxuS261014.shtml)
-
-+ [多名美参议员致信特朗普要求撤销美俄“柴油协议”](https://news.cctv.com/2026/10/14/ARTImvouQh3UnKibA7jNb6sY261014.shtml)
-
-+ [俄国防部称打击乌能源和基础设施](https://news.cctv.com/2026/10/14/ARTIHPl5Ufdrtv3sb4B41yPc261014.shtml)
-
-+ [德国拟2027年开征含糖饮料税](https://news.cctv.com/2026/10/14/ARTIoafNBf9lkSGC1Y9yoSJH261014.shtml)
-
-+ [日方就日本记者在俄远东被捕事件与俄方交涉](https://news.cctv.com/2026/10/14/ARTIbDgAffrkvGotSnlYtkfL261014.shtml)
-
-+ [联合国警告：也门塔伊兹小麦和面粉库存恐不足三周](https://news.cctv.com/2026/10/14/ARTIjYjIjIwuAZehRXGHQVnd261014.shtml)
-
-+ [伊朗海军提醒船只通过霍尔木兹海峡时进行必要协调](https://news.cctv.com/2026/10/14/ARTIfYZIvRJXvqRwLqZ3VpMc261014.shtml)
-
-+ [我驻英国使馆发言人就英情报官员涉华错误言论答记者问](https://news.cctv.com/2026/10/14/ARTIgw0rIT2T2J4zQKHLJLkQ261014.shtml)
-
-+ [英国伦敦金融城发生天然气泄漏 约4700人被疏散](https://news.cctv.com/2026/10/14/ARTILs1JZvo8RyicqF5FHw5b261014.shtml)
-
-+ [泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈](https://news.cctv.com/2026/10/14/ARTIqr3ywXnGlKpqFf0CPE1p261014.shtml)
-
-+ [也门胡塞武装称沙特24小时内发动104次袭击](https://news.cctv.com/2026/10/14/ARTILnRUsCQgy1eyY8k0uMu8261014.shtml)
-
-+ [美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控](https://news.cctv.com/2026/10/14/ARTIYy3A7nIZYuu44nXE1KGy261014.shtml)
-
-+ [美国飞以色列客机据称接到炸弹威胁 机上人员已撤离](https://news.cctv.com/2026/10/13/ARTIsRl8sSOrl5OF0fn1t37i261013.shtml)
-
-+ [“让跨越太平洋的友谊生生不息”](https://news.cctv.com/2026/10/13/ARTIt5YaHIHYH9WLRrq2A5jY261013.shtml)
-
-+ [文明对话应成为超越分歧、增进互鉴的桥梁（国际论坛）](https://news.cctv.com/2026/10/13/ARTIiIGGumvKQX5Fla1ntuDD261013.shtml)
-
-+ [“唯有正视历史、彻底反省，才能真正面向未来”（国际视点）](https://news.cctv.com/2026/10/13/ARTIKWxyMPbRUr70zHJ98tEa261013.shtml)
-
-+ [韩国监狱人满为患 获假释囚犯人数骤增](https://news.cctv.com/2026/10/19/ARTINuGtjBGbWZS5OpyLdjt5261018.shtml)
-
-+ [伊朗：已针对可能的新“冒险行径”制定应对方案](https://news.cctv.com/2026/10/19/ARTIzCZgOUBbGg5stNjxH5k1261018.shtml)
-
-+ [泽连斯基称若乌“被要求”举行战时选举他将竞选连任](https://news.cctv.com/2026/10/19/ARTICwwjCKDjlaKsKJXW716V261019.shtml)
-
-+ [法国总统谴责该国多地发生的暴力事件](https://news.cctv.com/2026/10/19/ARTIGANdZiula8KmfF8hwS4T261019.shtml)
-
-+ [以总理公布新“国家安全构想” 称转向进攻和预警打击](https://news.cctv.com/2026/10/19/ARTIv4SEcnX61EsHwIFZh8tn261019.shtml)
-
-+ [加拿大总理：军事基地火灾致4名军人死亡 数十人重伤](https://news.cctv.com/2026/10/19/ARTIgafucv4TPGtdb35pVyJj261019.shtml)
-
-+ [巴西总统候选人进行电视辩论](https://news.cctv.com/2026/10/19/ARTIQ3afph2uR6aDILZKODyG261019.shtml)
-
-+ [外国人眼中的长征 | 用镜头记录，让世界看见一个真实的中国](https://news.cctv.com/2026/10/19/ARTIAnBfyZ1jVf5SK1cXWXuN261019.shtml)
-
-+ [首次跌破50% 民调显示高市内阁支持率跌至新低](https://news.cctv.com/2026/10/19/ARTIas9r61UYS9wkTPC4Nn1R261019.shtml)
-
-+ [加拿大军方：该国西部军事基地火灾由实弹训练引发](https://news.cctv.com/2026/10/19/ARTIqWxunbv4M3jWo7A7HiJm261019.shtml)
-
-+ [伊朗总统：绝不屈服于“侵略性”国家无理要求与霸凌](https://news.cctv.com/2026/10/19/ARTIYKaZMVRux06hHCmwsycx261019.shtml)
-
-+ [驻以色列使馆提醒中国公民切勿参与非法入境以色列务工](https://news.cctv.com/2026/10/19/ARTIvN2zZuVYrtujqdQ2cUSs261019.shtml)
-
-+ [厄尔尼诺作用下 “世界旱极”再现“沙漠开花”景观](https://news.cctv.com/2026/10/19/ARTIp1RJVDHnZUbZaBpMrwsS261019.shtml)
-
-+ [中国走在全球减贫与可持续发展前列](https://news.cctv.com/2026/10/19/ARTIA5wcGXue01ZgNaYrRvHt261019.shtml)
-
-+ [“一份融合发展、务实增效的‘湾区答卷’”](https://news.cctv.com/2026/10/19/ARTIUCH3MomF5qWFG24O5EA4261019.shtml)
-
-+ [膜拜战犯，是对历史正义的亵渎](https://news.cctv.com/2026/10/19/ARTIufwTmZOGBx7mJW2vCUQc261019.shtml)
-
-+ [苏丹首都机场遭遇无人机袭击 造成1人死亡](https://news.cctv.com/2026/10/19/ARTIwhMj36JCTwIWuYgc4ReF261019.shtml)
-
-+ [一移民船与希腊海岸警卫队船只相撞致6人死亡](https://news.cctv.com/2026/10/19/ARTIPespZFq3lvqjLNYtb1om261019.shtml)
-
-+ [叙利亚与世行同意设立重建基金](https://news.cctv.com/2026/10/19/ARTIMAPOgdQkKV8eStVc9RHy261019.shtml)
-
-+ [特朗普：泽连斯基可能从未想结束俄乌战事](https://news.cctv.com/2026/10/19/ARTIgL9yubd3llxeEMrLFG5t261019.shtml)
 
