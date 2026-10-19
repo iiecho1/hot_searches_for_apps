@@ -171,3 +171,15 @@
 
 + [加拿大总理：军事基地火灾致4名军人死亡 数十人重伤](https://news.cctv.com/2026/10/19/ARTIgafucv4TPGtdb35pVyJj261019.shtml)
 
++ [巴西总统候选人进行电视辩论](https://news.cctv.com/2026/10/19/ARTIQ3afph2uR6aDILZKODyG261019.shtml)
+
++ [外国人眼中的长征 | 用镜头记录，让世界看见一个真实的中国](https://news.cctv.com/2026/10/19/ARTIAnBfyZ1jVf5SK1cXWXuN261019.shtml)
+
++ [首次跌破50% 民调显示高市内阁支持率跌至新低](https://news.cctv.com/2026/10/19/ARTIas9r61UYS9wkTPC4Nn1R261019.shtml)
+
++ [加拿大军方：该国西部军事基地火灾由实弹训练引发](https://news.cctv.com/2026/10/19/ARTIqWxunbv4M3jWo7A7HiJm261019.shtml)
+
++ [伊朗总统：绝不屈服于“侵略性”国家无理要求与霸凌](https://news.cctv.com/2026/10/19/ARTIYKaZMVRux06hHCmwsycx261019.shtml)
+
++ [驻以色列使馆提醒中国公民切勿参与非法入境以色列务工](https://news.cctv.com/2026/10/19/ARTIvN2zZuVYrtujqdQ2cUSs261019.shtml)
+

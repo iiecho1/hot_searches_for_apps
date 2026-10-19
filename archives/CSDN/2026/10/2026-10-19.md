@@ -131,3 +131,31 @@
 
 + [国际商务保研复盘：贸大自贸港题、央财投资研究追问与西财华为案例](https://blog.csdn.net/yhj2218259767/article/details/168237907)
 
++ [SpringBoot3+Vue3 资产维修闭环：报修、审批、办结后怎样恢复资产状态](https://blog.csdn.net/zhouzhongyan/article/details/168345709)
+
++ [斯坦福ToddlerBot——用于行走操控且与机器学习兼容的0.56m小人形：6000美刀成本下，可VR遥操、可RL训练](https://blog.csdn.net/v_JULY_v/article/details/168334044)
+
++ [百万 Token 上下文的代价：KV Cache 压缩与选择性重算](https://blog.csdn.net/weixin_74809706/article/details/167920907)
+
++ [介入式脑机接口的跨尺度神经解析与智能调控：技术范式、临床转化与治理框架(下)](https://blog.csdn.net/kkiron/article/details/168344855)
+
++ [【在线五子棋对战】服务器业务分类请求处理](https://blog.csdn.net/suimingtao/article/details/166735155)
+
++ [Rust vs Java Web 框架终极对比：Spring Boot 的注解魔法 vs axum 的显式类型（附真实报错 + curl 实测）](https://blog.csdn.net/weixin_43128865/article/details/168346005)
+
++ [Docker 部署 Open WebUI：轻松搭建本地大模型对话平台](https://blog.csdn.net/java_logo/article/details/168343043)
+
++ [发动机、电动机组最优工作曲线计算Matlab程序、最优效率+MAP图、外特性曲线](https://blog.csdn.net/weixin_66436111/article/details/168372280)
+
++ [Recova：面向自主机器人操作的、由智能体引导的故障恢复](https://blog.csdn.net/yorkhunter/article/details/168147080)
+
++ [RTX Spark 开卖：个人电脑正在变成“私域大模型“](https://blog.csdn.net/weixin_48576628/article/details/168248132)
+
++ [Redis 缓存三连击怎么防？布隆过滤、互斥重建与 TTL 抖动的 Go 落地](https://blog.csdn.net/2301_78967866/article/details/168343494)
+
++ [Linux网络（二十六）：深扒IP分片与重组全过程：MTU 1500与MSS 1460的由来、丢包率指数级放大的代价、以及16位标识与13位偏移的底层拆包逻辑](https://blog.csdn.net/Z2314246476/article/details/168246795)
+
++ [从 Kafka 到 Flink，如何让实时数仓既快、又准、还可追](https://blog.csdn.net/weixin_47983718/article/details/168342133)
+
++ [SpringBoot - POI实现Excel 导入与导出](https://blog.csdn.net/2301_80478870/article/details/168245665)
+
