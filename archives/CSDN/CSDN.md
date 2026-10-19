@@ -129,3 +129,5 @@
 
 + [LDR6021Q音频转接器应用介绍](https://blog.csdn.net/ZenasLDR/article/details/168244839)
 
++ [国际商务保研复盘：贸大自贸港题、央财投资研究追问与西财华为案例](https://blog.csdn.net/yhj2218259767/article/details/168237907)
+

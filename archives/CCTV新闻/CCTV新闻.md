@@ -163,3 +163,11 @@
 
 + [伊朗：已针对可能的新“冒险行径”制定应对方案](https://news.cctv.com/2026/10/19/ARTIzCZgOUBbGg5stNjxH5k1261018.shtml)
 
++ [泽连斯基称若乌“被要求”举行战时选举他将竞选连任](https://news.cctv.com/2026/10/19/ARTICwwjCKDjlaKsKJXW716V261019.shtml)
+
++ [法国总统谴责该国多地发生的暴力事件](https://news.cctv.com/2026/10/19/ARTIGANdZiula8KmfF8hwS4T261019.shtml)
+
++ [以总理公布新“国家安全构想” 称转向进攻和预警打击](https://news.cctv.com/2026/10/19/ARTIv4SEcnX61EsHwIFZh8tn261019.shtml)
+
++ [加拿大总理：军事基地火灾致4名军人死亡 数十人重伤](https://news.cctv.com/2026/10/19/ARTIgafucv4TPGtdb35pVyJj261019.shtml)
+
