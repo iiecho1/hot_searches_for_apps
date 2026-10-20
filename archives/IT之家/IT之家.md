@@ -61,3 +61,23 @@
 
 + [1999 元起 → 2499 元起，荣耀 X80 Pro Max 手机官网涨价](https://m.ithome.com/html/1015009.htm)
 
++ [小蓝灯颜色正式进国标、车灯禁止显示文字、禁止用语音关车灯，工信部公开征求意见](https://m.ithome.com/html/1015123.htm)
+
++ [苹果 iOS / iPadOS 27.2 RC 发布：Siri AI 再添 5 种语言、Apple Music 启用新视觉](https://m.ithome.com/html/1015062.htm)
+
++ [苹果首款折叠 iPhone Duo 供货现缓解信号：部分订单从 12 月提前至 10 月](https://m.ithome.com/html/1015076.htm)
+
++ [2028 款 iPhone 有望首发：消息称苹果重金锁定台积电 1.4 纳米首批产能](https://m.ithome.com/html/1015201.htm)
+
++ [微软用 Mac 制作 Windows Insider 12 周年纪念壁纸，引发网友讨论](https://m.ithome.com/html/1015052.htm)
+
++ [张雪官宣首款电摩明年上市，目标直指全球头部](https://m.ithome.com/html/1015019.htm)
+
++ [MiniMax M3.1 Flash 上线：速度提升 3 倍，价格降低 70%](https://m.ithome.com/html/1015013.htm)
+
++ [多省份发生用户访问请求异常跳转至博彩网站事件，国家互联网应急中心公布调查情况](https://m.ithome.com/html/1015252.htm)
+
++ [比亚迪证实公司“又订购 10 艘汽车运输船”，以扩张海外出口运力](https://m.ithome.com/html/1015003.htm)
+
++ [全新深蓝 S05 新增智能生态仪表屏：4.39 英寸 OLED，显示核心行车信息](https://m.ithome.com/html/1015041.htm)
+

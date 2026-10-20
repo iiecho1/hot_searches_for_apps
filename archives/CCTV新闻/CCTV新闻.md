@@ -191,3 +191,13 @@
 
 + [媒体测算显示加拿大艾伯塔省公投赞成继续留在联邦](https://news.cctv.com/2026/10/20/ARTIgW05WAQ0UZmPeCf2nP8W261020.shtml)
 
++ [以色列组建太空部队](https://news.cctv.com/2026/10/20/ARTIbv2wVipuwFVbTDv74Zh4261020.shtml)
+
++ [泽连斯基：希望美方不要干涉乌克兰选举问题](https://news.cctv.com/2026/10/20/ARTI7r0HcVJYNKZHZkJkBntP261020.shtml)
+
++ [伊朗消息人士：调解方对美国是否能做出最终决定缺乏信心](https://news.cctv.com/2026/10/20/ARTIRTmDW0AW8VtDSHOYvfsA261020.shtml)
+
++ [日专家：日本引进核潜艇将严重冲击地区安全](https://news.cctv.com/2026/10/20/ARTIChrcxxEntjY7o1PaCXfB261020.shtml)
+
++ [鲁比奥称美国与乌克兰关系非常紧张](https://news.cctv.com/2026/10/20/ARTIEMm8EWksSlNp9AmZ6UV5261020.shtml)
+

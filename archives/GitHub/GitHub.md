@@ -25,3 +25,19 @@
 
 + [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
 
++ [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+
++ [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
++ [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+
++ [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+
++ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
++ [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
++ [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
+
++ [vllm-project/vllm](https://github.com/vllm-project/vllm)
+
