@@ -169,3 +169,13 @@
 
 + [英外交大臣：勿参与以色列“E1区”定居点项目招标](https://news.cctv.com/2026/10/20/ARTIECpNHhDGG3wVVAOQ2EbU261020.shtml)
 
++ [瓦努阿图群岛发生6.1级地震 震源深度10千米](https://news.cctv.com/2026/10/20/ARTInj41uQ4AXceVsqXMc51C261020.shtml)
+
++ [安理会全票通过防范数字技术侵害冲突中儿童的决议](https://news.cctv.com/2026/10/20/ARTIh0juF5LFLLe69Jz3sdTy261020.shtml)
+
++ [韩国华城电池厂火灾涉事企业代表终审获刑4年](https://news.cctv.com/2026/10/20/ARTIgNumCnlR99bXy2jht56R261020.shtml)
+
++ [特朗普说应立即将美国新墨西哥州更名为“新美国州”](https://news.cctv.com/2026/10/20/ARTIj8B9t58NOz7J2Zm5nmzF261020.shtml)
+
++ [全球媒体聚焦中国三季度经济表现 新质生产力成增长关键动力](https://news.cctv.com/2026/10/20/ARTIsQYvuwnNclNsS5TZpSgn261020.shtml)
+

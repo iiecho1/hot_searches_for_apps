@@ -129,3 +129,37 @@
 
 + [没有公网IP怎么远程SSH？设备只装 p2pssh-server，File2File 一键连回去](https://blog.csdn.net/qq974816077/article/details/168443863)
 
++ [54 个接口、5 层结构、30 条拒绝理由：从 aimdk_msgs 倒推启元机器人 Q1 的软件架构](https://blog.csdn.net/2401_86326742/article/details/168241344)
+
++ [AI前沿 | 2026年10月20日：Gemini 4 Argon + 安全防护强化 + 模型蒸馏争议](https://blog.csdn.net/gedonshen/article/details/168523072)
+
++ [每日 AI 研究简报 · 2026-10-19](https://blog.csdn.net/debug_fan/article/details/168454918)
+
++ [【论文精读】The Last AI Built by Humans 最后一批由人类打造的 AI：走向真正的递归自我改进 Recursive Self-Improvement](https://blog.csdn.net/universsky2015/article/details/168449747)
+
++ [Leaflet 无坐标图片上的自定义标注与科技风信息面板（CRS.Simple 实战）](https://blog.csdn.net/yelangkingwuzuhu/article/details/168453725)
+
++ [分布式系统——Redis集群：哈希槽分区、故障转移与扩容](https://blog.csdn.net/2302_80105876/article/details/168450878)
+
++ [DeepSeek-V4.1-Flash-1017开源：KV缓存890B/Token，检索API按次计费](https://blog.csdn.net/wodekouwei/article/details/168438113)
+
++ [前端框架Vue-04-vue-react-angular对比](https://blog.csdn.net/zxc18344522713/article/details/168455311)
+
++ [Rust 依赖包管理](https://blog.csdn.net/K346K346/article/details/168443248)
+
++ [从在梦里打游戏到显示机器人操作：世界模型的演进全貌](https://blog.csdn.net/2403_87969572/article/details/168247603)
+
++ [第三章：GEM分析 3.3.1 drm_vma_offset_manager：偏移窗口与访问控制](https://blog.csdn.net/shenjunpeng/article/details/168030390)
+
++ [【AI大模型接入SDK】ChatServer接口实现](https://blog.csdn.net/2401_89899187/article/details/168346914)
+
++ [10月17日，DeepSeek连发两项更新：V4.1-Flash-1017上线，Harness升级接入Search/Fetch](https://blog.csdn.net/aidoudoulong/article/details/168319293)
+
++ [Spring 循环依赖不止三级缓存，Boot 2.6 起这个开关默认已经关了](https://blog.csdn.net/qq_42315641/article/details/168436027)
+
++ [GitHub 热榜项目 - 周榜(2026-10-18)](https://blog.csdn.net/u014390502/article/details/168344858)
+
++ [率能半导体 SS6286M直流双向马达驱动芯片：33V/5.0A，覆盖电子锁、玩具、无线充电、机器人四大应用场景](https://blog.csdn.net/2501_92263958/article/details/168339573)
+
++ [从 Prompt 到结构化 JSON：如何利用 Bright Data 快速搭建 YouTube 监测工作流？](https://blog.csdn.net/weixin_46713508/article/details/168444321)
+

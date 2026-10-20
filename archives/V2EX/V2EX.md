@@ -23,3 +23,19 @@
 
 + [也分享下我起起伏伏伏伏伏的 2026 年吧](https://www.v2ex.com/t/1249995)
 
++ [感觉自己的人生好失败](https://www.v2ex.com/t/1250044)
+
++ [未来体制内的退休金会降低吗？](https://www.v2ex.com/t/1250081)
+
++ [想买电车了求推荐](https://www.v2ex.com/t/1250033)
+
++ [本地机器能跑 DeepSeek v4.1flash 或者 Qwen3.8 得多少钱？](https://www.v2ex.com/t/1250179)
+
++ [开个银河买纳指或者红利低波 ETF 比较稳健，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。](https://www.v2ex.com/t/1250173)
+
++ [老婆又要生孩子了](https://www.v2ex.com/t/1250150)
+
++ [能清理、卸载和系统维护的 Mole Windows 版终于来啦，聊聊我是怎么用 Mac 开发它的](https://www.v2ex.com/t/1250170)
+
++ [为什么现在信息化这么发达了，国家依然用实体身份证，办事仍然需要上门填表](https://www.v2ex.com/t/1249998)
+
