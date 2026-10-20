@@ -179,3 +179,15 @@
 
 + [全球媒体聚焦中国三季度经济表现 新质生产力成增长关键动力](https://news.cctv.com/2026/10/20/ARTIsQYvuwnNclNsS5TZpSgn261020.shtml)
 
++ [海地武装帮派袭击装甲车 4名萨尔瓦多士兵失踪](https://news.cctv.com/2026/10/20/ARTIcP0LQIkvGHhrDd7Cj5zd261020.shtml)
+
++ [俄外长：俄专家正陆续返回伊朗布什尔核电站项目](https://news.cctv.com/2026/10/20/ARTIE28GuTaovQ3eCMst3e6V261020.shtml)
+
++ [驻英国使馆提醒中国公民注意英方出入境检查](https://news.cctv.com/2026/10/20/ARTIr2oNDOsPhiDVM4XC0aZk261020.shtml)
+
++ [韩国外交部：将撤回驻乌克兰使馆部分工作人员](https://news.cctv.com/2026/10/20/ARTI6ResYfuljpNpKFIp9kj8261020.shtml)
+
++ [孟加拉国发生一起交通事故 至少14人死亡](https://news.cctv.com/2026/10/20/ARTITFlUfl7rX1WAz8D4dIFJ261020.shtml)
+
++ [媒体测算显示加拿大艾伯塔省公投赞成继续留在联邦](https://news.cctv.com/2026/10/20/ARTIgW05WAQ0UZmPeCf2nP8W261020.shtml)
+

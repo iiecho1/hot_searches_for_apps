@@ -163,3 +163,33 @@
 
 + [从 Prompt 到结构化 JSON：如何利用 Bright Data 快速搭建 YouTube 监测工作流？](https://blog.csdn.net/weixin_46713508/article/details/168444321)
 
++ [CAPE-Bench 复算：内部状态线性读出预测 agent 越权与谎报，门控把越权率压到 0.09](https://blog.csdn.net/wodekouwei/article/details/168426618)
+
++ [AI Agent 工具调用如何更可靠？Spring AI + MCP 实战：参数校验、权限校验与人工确认](https://blog.csdn.net/2403_86779341/article/details/168550000)
+
++ [没有真机，我给启元 Q1 造了一台“假机器人“：官方 SDK 示例跑通实录](https://blog.csdn.net/2401_86326742/article/details/168436243)
+
++ [【AI智能体】Langchain 结构化输出结果实战操作详解](https://blog.csdn.net/congge_study/article/details/165491045)
+
++ [PyTorch强化学习实战（30）——基于人类反馈的强化学习（RLHF）](https://blog.csdn.net/LOVEmy134611/article/details/160152515)
+
++ [时序数据库选型指南：面向工业物联网大数据场景，Apache IoTDB落地实践](https://blog.csdn.net/weixin_37800531/article/details/168526163)
+
++ [MongoDB出问题总是后知后觉？我把Exporter、Prometheus和告警规则整条链跑通了](https://blog.csdn.net/2501_91062530/article/details/168552325)
+
++ [AI Agent 调用工具时，为什么不能直接相信模型生成的参数？](https://blog.csdn.net/2503_94545876/article/details/168454289)
+
++ [HDFS - NameNode 单点故障问题：高可用 HA 架构解析](https://blog.csdn.net/qq_41187124/article/details/157684692)
+
++ [Codex+Remotion真正省掉的不是剪辑：自然语言怎么一步步落成React视频工程](https://blog.csdn.net/2301_76297596/article/details/168543524)
+
++ [字节序、TLV 到 netlink：Linux 网络消息的编解码全链路](https://blog.csdn.net/2301_78967866/article/details/168448723)
+
++ [TypeScript学习（1）](https://blog.csdn.net/keyipatience/article/details/168246590)
+
++ [仿muduo实现高并发服务器——事件就绪管理Channel.hpp](https://blog.csdn.net/oooooooooooohd/article/details/168341776)
+
++ [只开放一个服务，不多开一扇门——内网 Web 服务外网访问实战](https://blog.csdn.net/mrdeam/article/details/168435080)
+
++ [密码学系列 - 后量子密码 - (4)量子算法--Shor算法](https://blog.csdn.net/wcc19840827/article/details/168334132)
+
