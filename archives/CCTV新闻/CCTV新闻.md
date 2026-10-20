@@ -1,5 +1,49 @@
 ## CCTV新闻 
-### 2026-10-20
+### 2026-10-21
+
++ [欧洲天然气基准价格近4年来首次突破90欧元](https://news.cctv.com/2026/10/21/ARTIXI8KeFlIXvc0pitrMfAD261020.shtml)
+
++ [以色列组建太空部队](https://news.cctv.com/2026/10/20/ARTIbv2wVipuwFVbTDv74Zh4261020.shtml)
+
++ [泽连斯基：希望美方不要干涉乌克兰选举问题](https://news.cctv.com/2026/10/20/ARTI7r0HcVJYNKZHZkJkBntP261020.shtml)
+
++ [伊朗消息人士：调解方对美国是否能做出最终决定缺乏信心](https://news.cctv.com/2026/10/20/ARTIRTmDW0AW8VtDSHOYvfsA261020.shtml)
+
++ [日专家：日本引进核潜艇将严重冲击地区安全](https://news.cctv.com/2026/10/20/ARTIChrcxxEntjY7o1PaCXfB261020.shtml)
+
++ [鲁比奥称美国与乌克兰关系非常紧张](https://news.cctv.com/2026/10/20/ARTIEMm8EWksSlNp9AmZ6UV5261020.shtml)
+
++ [海地武装帮派袭击装甲车 4名萨尔瓦多士兵失踪](https://news.cctv.com/2026/10/20/ARTIcP0LQIkvGHhrDd7Cj5zd261020.shtml)
+
++ [俄外长：俄专家正陆续返回伊朗布什尔核电站项目](https://news.cctv.com/2026/10/20/ARTIE28GuTaovQ3eCMst3e6V261020.shtml)
+
++ [驻英国使馆提醒中国公民注意英方出入境检查](https://news.cctv.com/2026/10/20/ARTIr2oNDOsPhiDVM4XC0aZk261020.shtml)
+
++ [韩国外交部：将撤回驻乌克兰使馆部分工作人员](https://news.cctv.com/2026/10/20/ARTI6ResYfuljpNpKFIp9kj8261020.shtml)
+
++ [孟加拉国发生一起交通事故 至少14人死亡](https://news.cctv.com/2026/10/20/ARTITFlUfl7rX1WAz8D4dIFJ261020.shtml)
+
++ [媒体测算显示加拿大艾伯塔省公投赞成继续留在联邦](https://news.cctv.com/2026/10/20/ARTIgW05WAQ0UZmPeCf2nP8W261020.shtml)
+
++ [瓦努阿图群岛发生6.1级地震 震源深度10千米](https://news.cctv.com/2026/10/20/ARTInj41uQ4AXceVsqXMc51C261020.shtml)
+
++ [安理会全票通过防范数字技术侵害冲突中儿童的决议](https://news.cctv.com/2026/10/20/ARTIh0juF5LFLLe69Jz3sdTy261020.shtml)
+
++ [韩国华城电池厂火灾涉事企业代表终审获刑4年](https://news.cctv.com/2026/10/20/ARTIgNumCnlR99bXy2jht56R261020.shtml)
+
++ [特朗普说应立即将美国新墨西哥州更名为“新美国州”](https://news.cctv.com/2026/10/20/ARTIj8B9t58NOz7J2Zm5nmzF261020.shtml)
+
++ [全球媒体聚焦中国三季度经济表现 新质生产力成增长关键动力](https://news.cctv.com/2026/10/20/ARTIsQYvuwnNclNsS5TZpSgn261020.shtml)
+
++ [也门政府军军事基地遭袭 死亡人数升至53人](https://news.cctv.com/2026/10/20/ARTIwiH29e7lIUDtrAdHAuXX261020.shtml)
+
++ [阿根廷对一项最新军购实施保密制度](https://news.cctv.com/2026/10/20/ARTIktIEGkVyFcWSMVdNPSlY261020.shtml)
+
++ [古巴谴责美方对劳尔·卡斯特罗发出逮捕令](https://news.cctv.com/2026/10/20/ARTIaYBYuf8lHIBaSI5mvZxx261020.shtml)
+
++ [英外交大臣：勿参与以色列“E1区”定居点项目招标](https://news.cctv.com/2026/10/20/ARTIECpNHhDGG3wVVAOQ2EbU261020.shtml)
+
++ [调查：约三成日本大企业承认曾泄露或疑似泄露数据](https://news.cctv.com/2026/10/20/ARTIuf2VZRn6qizj9zLb6Lol261020.shtml)
 
 + [美佛州称对古巴革命领袖劳尔·卡斯特罗发逮捕令](https://news.cctv.com/2026/10/20/ARTIeTz8kJc9BPXaxQsKYUEM261020.shtml)
 
@@ -116,88 +160,4 @@
 + [卡尼：外部势力企图分化加拿大](https://news.cctv.com/2026/10/16/ARTIc26WK0DZwQWYzAViWdPy261016.shtml)
 
 + [日本气象厅就错发紧急地震预警致歉](https://news.cctv.com/2026/10/16/ARTI2utNznXzto6ajDqNT3mB261016.shtml)
-
-+ [韩国检方要求尹锡悦涉无人机案二审维持30年刑期](https://news.cctv.com/2026/10/16/ARTIFj02zgpnZokmwPNwDd2C261016.shtml)
-
-+ [“出现误判” 日本气象厅发布9.9级地震速报后取消](https://news.cctv.com/2026/10/16/ARTIsuvODHbDS1hTBP5IOg58261016.shtml)
-
-+ [俄罗斯堪察加半岛发生6.9级地震 震源深度150千米](https://news.cctv.com/2026/10/16/ARTITiA8EtqTRJet5uVwibDQ261016.shtml)
-
-+ [格陵兰岛议会通过提案 禁止深海勘探与采矿](https://news.cctv.com/2026/10/16/ARTIOHJ7dJbYc1E3Em1ahddJ261016.shtml)
-
-+ [中国治沙人殷玉珍入选粮农组织“百位巾帼英雄”](https://photo.cctv.com/2026/10/16/PHOAFfhwnkB2pxvUXT2kmL9D261016.shtml)
-
-+ [委内瑞拉政界人士：将继续争取马杜罗夫妇获释](https://news.cctv.com/2026/10/16/ARTI3WwSxhqc8i52aH06fAql261016.shtml)
-
-+ [特朗普称美国不会对伊朗动用核武器](https://news.cctv.com/2026/10/16/ARTIGuU2lsm0ZYHouwmf5GEM261016.shtml)
-
-+ [俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查](https://news.cctv.com/2026/10/16/ARTIlI3ViysqKY4BLWIoDO6m261016.shtml)
-
-+ [亚足联主席：如有必要，2027亚洲杯或延期一年](https://news.cctv.com/2026/10/16/ARTILoqwAuJxgQsenR9BN366261016.shtml)
-
-+ [日本记者涉间谍活动在俄被捕 俄方驳回日方交涉](https://news.cctv.com/2026/10/16/ARTIIzFgRvYaxA3qPbn63vND261016.shtml)
-
-+ [联合国粮农组织表彰“百位巾帼英雄” 殷玉珍等3名中国女性获殊荣](https://news.cctv.com/2026/10/15/ARTISmXLUHHTqkSTk7lmhaB4261015.shtml)
-
-+ [巴基斯坦学校屋顶坍塌遇难人数持续上升 总统要求全面调查事故原因](https://news.cctv.com/2026/10/15/ARTI7ojEJ5bcb4ea5rLPISbx261015.shtml)
-
-+ [卢浮宫馆长警告说可能被迫关闭卢浮宫](https://news.cctv.com/2026/10/15/ARTIT3Ug1fXv3P0sHzLCttvE261015.shtml)
-
-+ [俄安全局逮捕一企图对俄实施恐袭的瑞典公民](https://news.cctv.com/2026/10/15/ARTIAXHewr1JS5YhtgkpllpT261015.shtml)
-
-+ [乌克兰国防部称星链服务已对乌军恢复](https://news.cctv.com/2026/10/15/ARTIP2wq7qfWysYSUC8ncdmu261015.shtml)
-
-+ [德国铁路公司在全国约5700座火车站实施禁酒令](https://news.cctv.com/2026/10/15/ARTIjLUAxbcdAHif7k3HWKAO261015.shtml)
-
-+ [土耳其发现据信世界最古老沉船](https://news.cctv.com/2026/10/15/ARTIbojFNE0Iq0uHA4MjWsSC261015.shtml)
-
-+ [罗马尼亚称一艘船只在黑海海域发生火灾 8人失踪](https://news.cctv.com/2026/10/15/ARTIz76G4LdmLc6LHT3AGlRd261015.shtml)
-
-+ [联合国官员呼吁尽快商谈联黎部队未来安排](https://news.cctv.com/2026/10/15/ARTIy9wlwlbY0lHDj0wsPNPQ261015.shtml)
-
-+ [日本宫城县女川核电站2号机组发生微量漏水](https://news.cctv.com/2026/10/15/ARTIi8458IAD92iS24mLPpn0261015.shtml)
-
-+ [格陵兰岛官员否认美国即将上岛大规模勘探](https://news.cctv.com/2026/10/15/ARTIgzEHU9SlVf6A5nnRQC2D261015.shtml)
-
-+ [调查：约三成日本大企业承认曾泄露或疑似泄露数据](https://news.cctv.com/2026/10/20/ARTIuf2VZRn6qizj9zLb6Lol261020.shtml)
-
-+ [也门政府军军事基地遭袭 死亡人数升至53人](https://news.cctv.com/2026/10/20/ARTIwiH29e7lIUDtrAdHAuXX261020.shtml)
-
-+ [阿根廷对一项最新军购实施保密制度](https://news.cctv.com/2026/10/20/ARTIktIEGkVyFcWSMVdNPSlY261020.shtml)
-
-+ [古巴谴责美方对劳尔·卡斯特罗发出逮捕令](https://news.cctv.com/2026/10/20/ARTIaYBYuf8lHIBaSI5mvZxx261020.shtml)
-
-+ [英外交大臣：勿参与以色列“E1区”定居点项目招标](https://news.cctv.com/2026/10/20/ARTIECpNHhDGG3wVVAOQ2EbU261020.shtml)
-
-+ [瓦努阿图群岛发生6.1级地震 震源深度10千米](https://news.cctv.com/2026/10/20/ARTInj41uQ4AXceVsqXMc51C261020.shtml)
-
-+ [安理会全票通过防范数字技术侵害冲突中儿童的决议](https://news.cctv.com/2026/10/20/ARTIh0juF5LFLLe69Jz3sdTy261020.shtml)
-
-+ [韩国华城电池厂火灾涉事企业代表终审获刑4年](https://news.cctv.com/2026/10/20/ARTIgNumCnlR99bXy2jht56R261020.shtml)
-
-+ [特朗普说应立即将美国新墨西哥州更名为“新美国州”](https://news.cctv.com/2026/10/20/ARTIj8B9t58NOz7J2Zm5nmzF261020.shtml)
-
-+ [全球媒体聚焦中国三季度经济表现 新质生产力成增长关键动力](https://news.cctv.com/2026/10/20/ARTIsQYvuwnNclNsS5TZpSgn261020.shtml)
-
-+ [海地武装帮派袭击装甲车 4名萨尔瓦多士兵失踪](https://news.cctv.com/2026/10/20/ARTIcP0LQIkvGHhrDd7Cj5zd261020.shtml)
-
-+ [俄外长：俄专家正陆续返回伊朗布什尔核电站项目](https://news.cctv.com/2026/10/20/ARTIE28GuTaovQ3eCMst3e6V261020.shtml)
-
-+ [驻英国使馆提醒中国公民注意英方出入境检查](https://news.cctv.com/2026/10/20/ARTIr2oNDOsPhiDVM4XC0aZk261020.shtml)
-
-+ [韩国外交部：将撤回驻乌克兰使馆部分工作人员](https://news.cctv.com/2026/10/20/ARTI6ResYfuljpNpKFIp9kj8261020.shtml)
-
-+ [孟加拉国发生一起交通事故 至少14人死亡](https://news.cctv.com/2026/10/20/ARTITFlUfl7rX1WAz8D4dIFJ261020.shtml)
-
-+ [媒体测算显示加拿大艾伯塔省公投赞成继续留在联邦](https://news.cctv.com/2026/10/20/ARTIgW05WAQ0UZmPeCf2nP8W261020.shtml)
-
-+ [以色列组建太空部队](https://news.cctv.com/2026/10/20/ARTIbv2wVipuwFVbTDv74Zh4261020.shtml)
-
-+ [泽连斯基：希望美方不要干涉乌克兰选举问题](https://news.cctv.com/2026/10/20/ARTI7r0HcVJYNKZHZkJkBntP261020.shtml)
-
-+ [伊朗消息人士：调解方对美国是否能做出最终决定缺乏信心](https://news.cctv.com/2026/10/20/ARTIRTmDW0AW8VtDSHOYvfsA261020.shtml)
-
-+ [日专家：日本引进核潜艇将严重冲击地区安全](https://news.cctv.com/2026/10/20/ARTIChrcxxEntjY7o1PaCXfB261020.shtml)
-
-+ [鲁比奥称美国与乌克兰关系非常紧张](https://news.cctv.com/2026/10/20/ARTIEMm8EWksSlNp9AmZ6UV5261020.shtml)
 
