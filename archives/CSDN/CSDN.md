@@ -121,3 +121,11 @@
 
 + [业务岗位用 Agent，先把交付和复核说清楚](https://blog.csdn.net/powertoolsteam/article/details/168431257)
 
++ [【C++/薄弱梳理】类与对象](https://blog.csdn.net/2401_89263742/article/details/168453524)
+
++ [【技术白皮书】光伏清检一体化机器人系统解决方案技术白皮书](https://blog.csdn.net/2402_85527642/article/details/168452183)
+
++ [yQt6 + SQLite 纯本地剪贴板历史工具：从开发到打包 exe 的完整实践](https://blog.csdn.net/FDSFSD432/article/details/168453944)
+
++ [没有公网IP怎么远程SSH？设备只装 p2pssh-server，File2File 一键连回去](https://blog.csdn.net/qq974816077/article/details/168443863)
+

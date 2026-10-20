@@ -49,3 +49,15 @@
 
 + [曝华为畅享 100 Pro Max 手机将搭载麒麟 8020 处理器，支持北斗卫星消息](https://m.ithome.com/html/1014863.htm)
 
++ [非主题 / 模拟器！网友成功让小米 Redmi Note 12 手机刷入 iOS 16 系统，项目同步开源](https://m.ithome.com/html/1014838.htm)
+
++ [医保钱包 2.0 版上线，个人账户跨省共济落地全国](https://m.ithome.com/html/1014958.htm)
+
++ [苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型](https://m.ithome.com/html/1015054.htm)
+
++ [微信鸿蒙版 App“两年狂奔”：交付 41 个大版本、344 个小版本，追上 iOS 端 15 年迭代进程](https://m.ithome.com/html/1014854.htm)
+
++ [看图找新品：何刚预热华为全新形态路由器，X2 Pro 造型似书籍](https://m.ithome.com/html/1014727.htm)
+
++ [1999 元起 → 2499 元起，荣耀 X80 Pro Max 手机官网涨价](https://m.ithome.com/html/1015009.htm)
+

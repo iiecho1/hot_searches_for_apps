@@ -161,3 +161,11 @@
 
 + [调查：约三成日本大企业承认曾泄露或疑似泄露数据](https://news.cctv.com/2026/10/20/ARTIuf2VZRn6qizj9zLb6Lol261020.shtml)
 
++ [也门政府军军事基地遭袭 死亡人数升至53人](https://news.cctv.com/2026/10/20/ARTIwiH29e7lIUDtrAdHAuXX261020.shtml)
+
++ [阿根廷对一项最新军购实施保密制度](https://news.cctv.com/2026/10/20/ARTIktIEGkVyFcWSMVdNPSlY261020.shtml)
+
++ [古巴谴责美方对劳尔·卡斯特罗发出逮捕令](https://news.cctv.com/2026/10/20/ARTIaYBYuf8lHIBaSI5mvZxx261020.shtml)
+
++ [英外交大臣：勿参与以色列“E1区”定居点项目招标](https://news.cctv.com/2026/10/20/ARTIECpNHhDGG3wVVAOQ2EbU261020.shtml)
+
