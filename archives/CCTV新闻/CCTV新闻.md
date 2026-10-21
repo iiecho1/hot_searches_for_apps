@@ -1,5 +1,21 @@
 ## CCTV新闻 
-### 2026-10-21
+### 2026-10-22
+
++ [三问日本执政联盟拟修订“安保三文件”](https://news.cctv.com/2026/10/22/ARTIPqNNAEmE96z7IrMqeaZX261022.shtml)
+
++ [法国总统：坚决杜绝骚乱重演](https://news.cctv.com/2026/10/22/ARTIurzkMvkeFyzxjL1Jdlnd261022.shtml)
+
++ [一份德国报告里的中欧经贸之思（环球走笔）](https://news.cctv.com/2026/10/21/ARTIm48TA06isJwK9QpIfXL3261021.shtml)
+
++ [英国9月通胀率升至3.5% 交通运输成本上涨成主因](https://news.cctv.com/2026/10/21/ARTIhevfOZ1HSiiNEt02WU4c261021.shtml)
+
++ [美媒：马斯克上周下令对乌克兰使用“星盾” 进行限速](https://news.cctv.com/2026/10/21/ARTIvgqbY2N9rHhBQ4CTzGp5261021.shtml)
+
++ [长征具有跨越时代与国界的启示意义（国际论坛）](https://news.cctv.com/2026/10/21/ARTIEhrrQJvMjTjW8iQbWZvH261021.shtml)
+
++ [朝中社：日本执政者散布军国主义毒素](https://news.cctv.com/2026/10/21/ARTIpmvo9C3zPT7Vt1rCEorF261021.shtml)
+
++ [威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕](https://news.cctv.com/2026/10/21/ARTI3Rjl5ctWXsSIUE0Jwzzr261021.shtml)
 
 + [欧洲天然气基准价格近4年来首次突破90欧元](https://news.cctv.com/2026/10/21/ARTIXI8KeFlIXvc0pitrMfAD261020.shtml)
 
@@ -144,30 +160,4 @@
 + [伊朗称新型武器装备已投入使用](https://news.cctv.com/2026/10/16/ARTI4NHZmHHgtEY6J2euU2ET261016.shtml)
 
 + [18国外长发表联合声明 反对哥伦比亚在耶路撒冷设立驻以使馆](https://news.cctv.com/2026/10/16/ARTIaOkQ168bBHk0KertSJO9261016.shtml)
-
-+ [3位中国女性获联合国粮农组织“巾帼英雄”表彰](https://news.cctv.com/2026/10/16/ARTIcgQVycO1rF26t8vOhKuY261016.shtml)
-
-+ [日本图谋删除“敌国条款”是痴人说梦](https://news.cctv.com/2026/10/16/ARTIeK3GLfrsKhN5bEdJQHUt261016.shtml)
-
-+ [新闻分析：中欧关于混动汽车提出三大原则，怎么看](https://news.cctv.com/2026/10/16/ARTIkBzTG7LuKoOgzMf7cOok261016.shtml)
-
-+ [日本有识之士警示：谨防日本重回“战前状态”](https://news.cctv.com/2026/10/16/ARTI4ibgUzS2WAvA9SqOqSIK261016.shtml)
-
-+ [合作能让世界变得更美好——访美国友人赛考斯](https://news.cctv.com/2026/10/16/ARTIhg7tJ5x8CKqXIZzCWlqm261016.shtml)
-
-+ [国际观察：博茨瓦纳总统博科访华 中博合作硕果累累](https://news.cctv.com/2026/10/16/ARTIX1FiXbXQi3GE6DtZmS3F261016.shtml)
-
-+ [卡尼：外部势力企图分化加拿大](https://news.cctv.com/2026/10/16/ARTIc26WK0DZwQWYzAViWdPy261016.shtml)
-
-+ [日本气象厅就错发紧急地震预警致歉](https://news.cctv.com/2026/10/16/ARTI2utNznXzto6ajDqNT3mB261016.shtml)
-
-+ [威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕](https://news.cctv.com/2026/10/21/ARTI3Rjl5ctWXsSIUE0Jwzzr261021.shtml)
-
-+ [长征具有跨越时代与国界的启示意义（国际论坛）](https://news.cctv.com/2026/10/21/ARTIEhrrQJvMjTjW8iQbWZvH261021.shtml)
-
-+ [朝中社：日本执政者散布军国主义毒素](https://news.cctv.com/2026/10/21/ARTIpmvo9C3zPT7Vt1rCEorF261021.shtml)
-
-+ [英国9月通胀率升至3.5% 交通运输成本上涨成主因](https://news.cctv.com/2026/10/21/ARTIhevfOZ1HSiiNEt02WU4c261021.shtml)
-
-+ [美媒：马斯克上周下令对乌克兰使用“星盾” 进行限速](https://news.cctv.com/2026/10/21/ARTIvgqbY2N9rHhBQ4CTzGp5261021.shtml)
 
