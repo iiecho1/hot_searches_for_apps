@@ -163,3 +163,7 @@
 
 + [威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕](https://news.cctv.com/2026/10/21/ARTI3Rjl5ctWXsSIUE0Jwzzr261021.shtml)
 
++ [长征具有跨越时代与国界的启示意义（国际论坛）](https://news.cctv.com/2026/10/21/ARTIEhrrQJvMjTjW8iQbWZvH261021.shtml)
+
++ [朝中社：日本执政者散布军国主义毒素](https://news.cctv.com/2026/10/21/ARTIpmvo9C3zPT7Vt1rCEorF261021.shtml)
+
