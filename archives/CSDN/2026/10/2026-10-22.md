@@ -101,3 +101,19 @@
 
 + [每天认识一个组件：Elasticsearch](https://blog.csdn.net/weixin_47983718/article/details/168557467)
 
++ [【Valhalla L3开源评测｜GitHub热榜Top9】qwen21-nsfw-pose-skill｜Qwen-Image 2.1出图技能包静态源码审计](https://blog.csdn.net/TunerT_TQ/article/details/168539639)
+
++ [用仓颉语言写桌面应用：cj-tauri 框架与 AI 笔记软件 cjnote 实战](https://blog.csdn.net/qq8864/article/details/168657936)
+
++ [RK3566刷飞牛NAS实战：MASKROM、SATA系统迁移、存储分区与固定地址访问](https://blog.csdn.net/leopold_man/article/details/168454668)
+
++ [告别臃肿if-else：策略模式重构支付逻辑](https://blog.csdn.net/2501_93705143/article/details/168561292)
+
++ [消息队列集成——RabbitMQ 与 Kafka 的 Spring Boot 实践](https://blog.csdn.net/vipxieliang/article/details/168560557)
+
++ [【多智能体】基于matlab共识的时间表算法求解同时多智能体任务分配问题【含Matlab源码 16110期】](https://blog.csdn.net/TIQCmatlab/article/details/168647985)
+
++ [Linux远程传输命令：SCP、SFTP、Rsync增量同步实战](https://blog.csdn.net/m0_66083353/article/details/168561673)
+
++ [发票批量查验软件（自动保存官网查验截图）](https://blog.csdn.net/u010020285/article/details/168660090)
+

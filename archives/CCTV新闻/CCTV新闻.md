@@ -161,3 +161,5 @@
 
 + [18国外长发表联合声明 反对哥伦比亚在耶路撒冷设立驻以使馆](https://news.cctv.com/2026/10/16/ARTIaOkQ168bBHk0KertSJO9261016.shtml)
 
++ [古巴指责美国施压其他国家 企图影响联大涉古决议表决](https://news.cctv.com/2026/10/22/ARTI55H6uPm9Oktt3YDeITxZ261022.shtml)
+
