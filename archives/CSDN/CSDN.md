@@ -105,3 +105,45 @@
 
 + [【stm32】RTC(实时时钟)](https://blog.csdn.net/zhangzhiqi1100/article/details/168345580)
 
++ [一个SQL编辑器管四种库？我拿它当异构库“万能遥控器“用了俩月（下）](https://blog.csdn.net/qq_32682301/article/details/168566286)
+
++ [网络原理｜第三阶段：MTU、TCP 分段、IPv4 分片与重组及路径 MTU 发现](https://blog.csdn.net/2401_86112610/article/details/168451842)
+
++ [Komari部署实战：Docker、25774端口、节点Agent接入与固定地址访问](https://blog.csdn.net/baronbool/article/details/168555515)
+
++ [基于 AI 智能体的数字人商品展示与口播视频自动生成实战](https://blog.csdn.net/2402_83344867/article/details/168555106)
+
++ [端到端具身交互智能正式上线：让 AI 通过屏幕和机器人，真正走进现实世界](https://blog.csdn.net/JHXL_/article/details/168451877)
+
++ [Agent Skills（智能体技能）设计方法与落地实践](https://blog.csdn.net/weixin_43151418/article/details/168637455)
+
++ [Chinchilla_Law_大模型训练的最优参数数据比](https://blog.csdn.net/2302_78391795/article/details/168625000)
+
++ [Flutter/OpenHarmony 三方库适配实战：tuya_home_flutter_plugin家庭通道](https://blog.csdn.net/2501_93573294/article/details/168423528)
+
++ [【Valhalla L3开源评测｜GitHub热榜Top9】qwen21-nsfw-pose-skill｜Qwen-Image 2.1出图技能包静态源码审计](https://blog.csdn.net/TunerT_TQ/article/details/168539639)
+
++ [玩客云跑通 EasyVoice：HiNas 容器底座、ARMv7 适配与 9001 固定入口](https://blog.csdn.net/2301_78967866/article/details/168551445)
+
++ [基于无人机航拍数据的三维场景重建python源码+训练数据集+项目说明](https://blog.csdn.net/FL1623863129/article/details/168554567)
+
++ [从 53 万行 Zig 到 Rust：Bun 重写背后的工程趋势与求职启示](https://blog.csdn.net/yweng18/article/details/168551970)
+
++ [【多智能体】共识的时间表算法求解同时多智能体任务分配问题【含Matlab源码 16110期】](https://blog.csdn.net/weixin_63266434/article/details/168648208)
+
++ [飞牛NAS部署flatnotes实战：Docker、8080端口、Markdown笔记与固定地址访问](https://blog.csdn.net/2401_84720739/article/details/168542172)
+
++ [电商小程序购物车与库存扣减：SKU 模型、合并规则与防超卖实践](https://blog.csdn.net/jincheng100/article/details/168560264)
+
++ [适配器模式：解决接口不兼容的神器](https://blog.csdn.net/2501_93705143/article/details/168346168)
+
++ [Spring MessageSource 国际化消息解析流程](https://blog.csdn.net/weixin_46263870/article/details/168561530)
+
++ [5台电脑盯不过来？电商运营用ToDesk远程控制，一块屏把全部收进来](https://blog.csdn.net/2201_75366661/article/details/168561421)
+
++ [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 auto_orientation_v2](https://blog.csdn.net/2503_93740796/article/details/168657268)
+
++ [花了一天的时间，地板式扫盲了vue3所有API盲点](https://blog.csdn.net/w807139809/article/details/168557379)
+
++ [codex 团队协作开发流程](https://blog.csdn.net/qq_41739364/article/details/168626657)
+

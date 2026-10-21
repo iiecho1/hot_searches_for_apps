@@ -39,3 +39,13 @@
 
 + [想购买 iPad mini 8, 有人打醒我吗？](https://www.v2ex.com/t/1250420)
 
++ [前端想学后端，但是看完这段代码就已经力竭了](https://www.v2ex.com/t/1250533)
+
++ [有骑电瓶车通勤的吗，有啥必买的配件推荐一下呗。](https://www.v2ex.com/t/1250519)
+
++ [为啥你们 Vibe 的网页 AI 味儿那么重?](https://www.v2ex.com/t/1250676)
+
++ [感叹 Codex 的过度设计。](https://www.v2ex.com/t/1250482)
+
++ [做了款苹果四端播放器 Vanto，支持杜比视界、空间音频，送 200 份永久版](https://www.v2ex.com/t/1250565)
+

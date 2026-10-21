@@ -31,3 +31,11 @@
 
 + [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 
++ [supabase/supabase](https://github.com/supabase/supabase)
+
++ [twentyhq/twenty](https://github.com/twentyhq/twenty)
+
++ [strelov1/freehire](https://github.com/strelov1/freehire)
+
++ [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+
