@@ -101,3 +101,7 @@
 
 + [原生 HTML + SVG 实战：制作双语架构图编辑器，附 GitHub Pages 部署与测试](https://blog.csdn.net/u010026928/article/details/168445720)
 
++ [【论文精读】The Last AI Built by Humans 最后一批由人类打造的 AI：走向真正的递归自我改进 Recursive Self-Improvement](https://blog.csdn.net/universsky2015/article/details/168449747)
+
++ [【stm32】RTC(实时时钟)](https://blog.csdn.net/zhangzhiqi1100/article/details/168345580)
+

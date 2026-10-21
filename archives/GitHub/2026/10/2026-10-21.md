@@ -27,3 +27,7 @@
 
 + [vllm-project/vllm](https://github.com/vllm-project/vllm)
 
++ [wshobson/agents](https://github.com/wshobson/agents)
+
++ [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
+

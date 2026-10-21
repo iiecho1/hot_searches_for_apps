@@ -161,3 +161,5 @@
 
 + [日本气象厅就错发紧急地震预警致歉](https://news.cctv.com/2026/10/16/ARTI2utNznXzto6ajDqNT3mB261016.shtml)
 
++ [威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕](https://news.cctv.com/2026/10/21/ARTI3Rjl5ctWXsSIUE0Jwzzr261021.shtml)
+
