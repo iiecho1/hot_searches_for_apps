@@ -117,3 +117,39 @@
 
 + [发票批量查验软件（自动保存官网查验截图）](https://blog.csdn.net/u010020285/article/details/168660090)
 
++ [DeepSeek-V4.1-Flash-1017开源：KV缓存890B/Token，检索API按次计费](https://blog.csdn.net/wodekouwei/article/details/168438113)
+
++ [Agent Skill 没按预期执行？用请求、调用记录和产物排查](https://blog.csdn.net/augen1355/article/details/168660079)
+
++ [Re:Linux 系统篇（三十五）：进程间通信Chapter2：从匿名管道到进程池：Linux 进程间通信实战（深度理解「先描述，再组织」）](https://blog.csdn.net/mogreat/article/details/168663521)
+
++ [AI Agent 的“操作系统“之争：DeepSeek Harness 与 Codex Harness 同月开源，Agent 运行时正在独立成赛道](https://blog.csdn.net/m0_74899094/article/details/168654791)
+
++ [报表总在扫大表，列存储应该放在哪一层](https://blog.csdn.net/Mrxiao_bo/article/details/168661742)
+
++ [我把麦当劳的 33 个 MCP 工具做成了一个能算账的 Skill](https://blog.csdn.net/2401_89160889/article/details/168662412)
+
++ [R4S闲着不用？我用iStoreOS+WebDAV把USB硬盘挂成可远程访问的网络盘](https://blog.csdn.net/yunjianyue1314/article/details/168661904)
+
++ [新本体、新任务还要重录遥操作数据？从arXiv一批机器人论文看“免演示跨具身迁移“与失败引导课程的落地思路](https://blog.csdn.net/Rosanci/article/details/168557391)
+
++ [rust 1.99.1 正式更新：聚焦 UEFI、嵌入式、x86_64 FFI 与 macOS 链接体验的三项修复](https://blog.csdn.net/weixin_48502062/article/details/168658120)
+
++ [数据库读写分离与 Redis 缓存：从 MySQL 查询压力到缓存机制](https://blog.csdn.net/java_nnnn/article/details/168561840)
+
++ [Codex+Remotion真正省掉的不是剪辑：自然语言怎么一步步落成React视频工程](https://blog.csdn.net/2301_76297596/article/details/168543524)
+
++ [Shopify 主题编辑器改完线上仍是旧版：副本主题、发布范围与 CDN 缓存排查](https://blog.csdn.net/lgm252008/article/details/168662208)
+
++ [用pnpm跑起magic-resume：一个开源简历编辑器的本地部署与远程访问实录](https://blog.csdn.net/mrdeam/article/details/168552613)
+
++ [【Web全栈进阶】Nginx反向代理 + HTTPS：正式上线](https://blog.csdn.net/ntnmywyx/article/details/168453573)
+
++ [Kafka Connect 与 Flink CDC 写入 Iceberg：Upsert 的代价，以及 S3 Tables 的真正价值](https://blog.csdn.net/turk/article/details/168447169)
+
++ [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 auto_orientation_v2](https://blog.csdn.net/2503_93740796/article/details/168657268)
+
++ [成为全栈·Taro 小程序篇·首页、分类与搜索：把内容发现做成可恢复的数据流](https://blog.csdn.net/FungLeo/article/details/168747223)
+
++ [机器人与机电一体化3D数字孪生机器-Day5](https://blog.csdn.net/qq_53797018/article/details/168550133)
+

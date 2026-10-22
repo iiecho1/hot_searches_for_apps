@@ -169,3 +169,5 @@
 
 + [“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声](https://news.cctv.com/2026/10/22/ARTIBj5nzBCPCeWzL0FTzKlZ261022.shtml)
 
++ [阿联酋外交官努赛贝参选下一任联合国秘书长](https://news.cctv.com/2026/10/22/ARTIy4wBFgs7e6iVZfJyW57g261022.shtml)
+
