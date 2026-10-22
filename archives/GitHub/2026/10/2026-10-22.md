@@ -25,3 +25,13 @@
 
 + [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
 
++ [php/php-src](https://github.com/php/php-src)
+
++ [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
++ [fastapi/fastapi](https://github.com/fastapi/fastapi)
+
++ [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+
++ [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL)
+
