@@ -163,3 +163,9 @@
 
 + [古巴指责美国施压其他国家 企图影响联大涉古决议表决](https://news.cctv.com/2026/10/22/ARTI55H6uPm9Oktt3YDeITxZ261022.shtml)
 
++ [苏丹领导人称拒绝与快速支援部队对话](https://news.cctv.com/2026/10/22/ARTIhcfXHs95C4yqJDTkVDAn261022.shtml)
+
++ [德国总理：中东冲突严重冲击全球能源市场和供应链](https://news.cctv.com/2026/10/22/ARTIBcavYFQ1rlryPlQLO5Xq261022.shtml)
+
++ [“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声](https://news.cctv.com/2026/10/22/ARTIBj5nzBCPCeWzL0FTzKlZ261022.shtml)
+
