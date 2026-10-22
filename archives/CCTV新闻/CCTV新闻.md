@@ -1,9 +1,23 @@
 ## CCTV新闻 
-### 2026-10-22
+### 2026-10-23
+
++ [法国报告全球首例人类感染沙蒙达病毒病例](https://news.cctv.com/2026/10/23/ARTI8uOlO5iYKyDMQPiPW4P3261023.shtml)
+
++ [日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”](https://news.cctv.com/2026/10/22/ARTItnpYTU6iMehCz9Kn5plw261022.shtml)
+
++ [阿联酋外交官努赛贝参选下一任联合国秘书长](https://news.cctv.com/2026/10/22/ARTIy4wBFgs7e6iVZfJyW57g261022.shtml)
+
++ [法国总统：坚决杜绝骚乱重演](https://news.cctv.com/2026/10/22/ARTIARBeKnV8ZPrpMIUStC1I261022.shtml)
+
++ [苏丹领导人称拒绝与快速支援部队对话](https://news.cctv.com/2026/10/22/ARTIhcfXHs95C4yqJDTkVDAn261022.shtml)
+
++ [德国总理：中东冲突严重冲击全球能源市场和供应链](https://news.cctv.com/2026/10/22/ARTIBcavYFQ1rlryPlQLO5Xq261022.shtml)
+
++ [“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声](https://news.cctv.com/2026/10/22/ARTIBj5nzBCPCeWzL0FTzKlZ261022.shtml)
+
++ [古巴指责美国施压其他国家 企图影响联大涉古决议表决](https://news.cctv.com/2026/10/22/ARTI55H6uPm9Oktt3YDeITxZ261022.shtml)
 
 + [三问日本执政联盟拟修订“安保三文件”](https://news.cctv.com/2026/10/22/ARTIPqNNAEmE96z7IrMqeaZX261022.shtml)
-
-+ [法国总统：坚决杜绝骚乱重演](https://news.cctv.com/2026/10/22/ARTIurzkMvkeFyzxjL1Jdlnd261022.shtml)
 
 + [一份德国报告里的中欧经贸之思（环球走笔）](https://news.cctv.com/2026/10/21/ARTIm48TA06isJwK9QpIfXL3261021.shtml)
 
@@ -144,32 +158,4 @@
 + [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://news.cctv.com/2026/10/17/ARTIc5YK1e70xzMm5BhUrS8U261017.shtml)
 
 + [巴西亚马孙雨林毁林面积创38年来最低纪录](https://news.cctv.com/2026/10/17/ARTINw5iTtuVZtD5oNP5unIW261017.shtml)
-
-+ [泽连斯基要求欧盟明年额外提供700亿欧元援助](https://news.cctv.com/2026/10/17/ARTI8cIbiZOJqQ5IxFsXIvWy261017.shtml)
-
-+ [闰秒改闰时｜有何好处 会影响哪些领域？](https://news.cctv.com/2026/10/17/ARTInfnXWUcBl4ggKG4vWU7P261017.shtml)
-
-+ [告别闰秒迎来闰时 全球时间标尺为何大调整？](https://news.cctv.com/2026/10/16/ARTIh5op9seXxUa2eQgPNKlW261016.shtml)
-
-+ [特朗普称美国可能会对伊朗镐山核设施发动打击](https://news.cctv.com/2026/10/16/ARTIFVpRGkhIagRa9ohNJFU5261016.shtml)
-
-+ [泽连斯基称“星链”运行改善但未完全恢复](https://news.cctv.com/2026/10/16/ARTIrZ61R1xVFt3wUcK3vUxv261016.shtml)
-
-+ [错估震级9.9级 日本气象厅再开记者会解释](https://news.cctv.com/2026/10/16/ARTIrKZ01j9K3PG1bAt3ZTjO261016.shtml)
-
-+ [伊朗称新型武器装备已投入使用](https://news.cctv.com/2026/10/16/ARTI4NHZmHHgtEY6J2euU2ET261016.shtml)
-
-+ [18国外长发表联合声明 反对哥伦比亚在耶路撒冷设立驻以使馆](https://news.cctv.com/2026/10/16/ARTIaOkQ168bBHk0KertSJO9261016.shtml)
-
-+ [古巴指责美国施压其他国家 企图影响联大涉古决议表决](https://news.cctv.com/2026/10/22/ARTI55H6uPm9Oktt3YDeITxZ261022.shtml)
-
-+ [苏丹领导人称拒绝与快速支援部队对话](https://news.cctv.com/2026/10/22/ARTIhcfXHs95C4yqJDTkVDAn261022.shtml)
-
-+ [德国总理：中东冲突严重冲击全球能源市场和供应链](https://news.cctv.com/2026/10/22/ARTIBcavYFQ1rlryPlQLO5Xq261022.shtml)
-
-+ [“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声](https://news.cctv.com/2026/10/22/ARTIBj5nzBCPCeWzL0FTzKlZ261022.shtml)
-
-+ [阿联酋外交官努赛贝参选下一任联合国秘书长](https://news.cctv.com/2026/10/22/ARTIy4wBFgs7e6iVZfJyW57g261022.shtml)
-
-+ [日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”](https://news.cctv.com/2026/10/22/ARTItnpYTU6iMehCz9Kn5plw261022.shtml)
 
