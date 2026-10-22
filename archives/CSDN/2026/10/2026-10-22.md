@@ -153,3 +153,45 @@
 
 + [机器人与机电一体化3D数字孪生机器-Day5](https://blog.csdn.net/qq_53797018/article/details/168550133)
 
++ [不止于时序存储：DolphinDB 如何成为 AI 时代的工业智能底座](https://blog.csdn.net/lrq13965748542/article/details/168553011)
+
++ [从麦克风说一句话，到数字人开口回答：这套本地AI链路在8G显卡上跑起来了](https://blog.csdn.net/Dovis5884/article/details/168765928)
+
++ [【AI大模型接入SDK】ChatServer 路由规则绑定](https://blog.csdn.net/2401_89899187/article/details/168346964)
+
++ [一套引擎、两种模型、一种文件：Apache IoTDB 2.0 的时序选型答卷](https://blog.csdn.net/qq_57761637/article/details/168660276)
+
++ [博主开源 AI 记账系统看全栈项目设计：Smart Ledger](https://blog.csdn.net/beautifulmemory/article/details/168745535)
+
++ [SpringBoot+Vue3 单据校验设计：保存草稿、提交审批、退回重填，各该检查什么？](https://blog.csdn.net/zhouzhongyan/article/details/168651787)
+
++ [Q1 的大脑怎么分家：运控板、大脑板与开发机的三端架构解读](https://blog.csdn.net/m0_63947499/article/details/168663904)
+
++ [Jenkins自动部署全流程：CentOS 7、GitHub、Gitee、GitLab、Vue+Maven与Webhook](https://blog.csdn.net/Z_oioihoii/article/details/168763173)
+
++ [AIAgent设计-深度理解Agent上下文压缩时机](https://blog.csdn.net/zxc18344522713/article/details/168652795)
+
++ [把 PINN 塞进群智能反演：一次可审计的结构损伤识别 MATLAB 复现](https://blog.csdn.net/kjm13182345320/article/details/168561832)
+
++ [【Valhalla L3开源评测】esp32-iphone-agent｜GitHub今日热榜第6｜7美元ESP32操控iPhone智能体](https://blog.csdn.net/TunerT_TQ/article/details/168451863)
+
++ [数据库主备切换后，业务恢复了吗？五层验收清单](https://blog.csdn.net/augen1355/article/details/168771052)
+
++ [CarMore｜苹果 CarPlay + 百度 CarLife 二合一，老安卓车机直接装](https://blog.csdn.net/weixin_63526202/article/details/168558045)
+
++ [【Linux 系统篇(三十一)】通信(一)：从管道原理到进程池实战](https://blog.csdn.net/Huang_jin007/article/details/168654338)
+
++ [CleanYourTV 从 ADB 连接到换 Apple TV 风格桌面完整实操（附型号清单与避坑）](https://blog.csdn.net/luzhiqiubiji/article/details/168657505)
+
++ [大促前10项安全自查：电商运营远程控制账号与设备授权清单（含ToDesk实操）](https://blog.csdn.net/2401_84813926/article/details/168767343)
+
++ [Kafka 重复消费定位：同一消息被消费两次的 3 条触发路径与幂等验证](https://blog.csdn.net/weixin_71309014/article/details/168730557)
+
++ [四种库收进一个SQL编辑器（下）：跨库取数、方言对齐与四库巡检的落地拆解](https://blog.csdn.net/2301_78967866/article/details/168765654)
+
++ [测音频失真总测不准？别只怪被测件，你的仪器上限被忽略了](https://blog.csdn.net/syn029/article/details/168435412)
+
++ [盟接之桥谈线束数字化｜线束行业数字化转型：从单一工具到全栈协同引擎的路径之变](https://blog.csdn.net/mjarqa/article/details/168658009)
+
++ [Spring Boot 微信公众号后端服务开发实战指南](https://blog.csdn.net/csdn_silent/article/details/168727649)
+

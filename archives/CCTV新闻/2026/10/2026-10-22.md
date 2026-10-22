@@ -171,3 +171,5 @@
 
 + [阿联酋外交官努赛贝参选下一任联合国秘书长](https://news.cctv.com/2026/10/22/ARTIy4wBFgs7e6iVZfJyW57g261022.shtml)
 
++ [日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”](https://news.cctv.com/2026/10/22/ARTItnpYTU6iMehCz9Kn5plw261022.shtml)
+
