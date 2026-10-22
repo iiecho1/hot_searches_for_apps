@@ -159,3 +159,11 @@
 
 + [巴西亚马孙雨林毁林面积创38年来最低纪录](https://news.cctv.com/2026/10/17/ARTINw5iTtuVZtD5oNP5unIW261017.shtml)
 
++ [伊朗议会议长：若与伊开战 美国将承担苦涩后果](https://news.cctv.com/2026/10/23/ARTINluNEcwC2ubC3mw3tbZj261023.shtml)
+
++ [法国卢浮宫等多个博物馆将因示威活动闭馆](https://news.cctv.com/2026/10/23/ARTINWRjBpq7lknqNyWEIyMG261023.shtml)
+
++ [为防范埃博拉疫情 美疾控中心发布航空旅客入境及乘机新规](https://news.cctv.com/2026/10/23/ARTIB2z2Pun1KVBc164yiflw261023.shtml)
+
++ [红十字国际委员会：近几周苏丹空袭事件致数百人死亡](https://news.cctv.com/2026/10/23/ARTI6fgFQ9PycDC4KVXZJkW3261023.shtml)
+
