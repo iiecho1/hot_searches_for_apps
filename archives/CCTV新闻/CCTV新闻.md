@@ -1,5 +1,61 @@
 ## CCTV新闻 
-### 2026-10-23
+### 2026-10-24
+
++ [法国将部署约7万名安全人员应对新一轮示威](https://news.cctv.com/2026/10/23/ARTIbKhICGGv7PGRK5zK83Ws261023.shtml)
+
++ [白宫称俄乌同意在奥列什基暂时停火](https://news.cctv.com/2026/10/23/ARTIT7ka7LbVajcqI38Ueqx6261023.shtml)
+
++ [研究显示欧洲今夏高温相关超额死亡人数创纪录](https://news.cctv.com/2026/10/23/ARTI57VEuKtDdUz223wBAbjz261023.shtml)
+
++ [几内亚发生多起涉中国公民交通事故造成严重人员伤亡 中使馆发布提醒](https://news.cctv.com/2026/10/23/ARTICLQhRlHOpbkSSptsfBc5261023.shtml)
+
++ [土耳其一煤矿爆炸致2死5伤](https://news.cctv.com/2026/10/23/ARTI9gqrpPnKaQm3B25jVcl0261023.shtml)
+
++ [希腊通过议案 明年起禁止15岁以下青少年使用社媒平台](https://news.cctv.com/2026/10/23/ARTIvjwEP3dHHxjgYmIbESGl261023.shtml)
+
++ [奥地利宣布驱逐四名俄罗斯外交官](https://news.cctv.com/2026/10/23/ARTIBALn1hnsn6kaB38phLoY261023.shtml)
+
++ [民调：近七成美国年轻人忧虑美国未来](https://news.cctv.com/2026/10/23/ARTIksD6GEaEAgoVkHXKedz6261023.shtml)
+
++ [日本第24轮核污染水排放量近8000吨](https://news.cctv.com/2026/10/23/ARTIR9OX6ELFUPRJR6Gxp7Ap261023.shtml)
+
++ [广东省政协科教卫体委副主任黄远通接受审查调查](https://news.cctv.com/2026/10/23/ARTIJAWsaKlLURN2z2BVpysu261023.shtml)
+
++ [伊议员说伊朗已要求中东国家停止支持美国](https://news.cctv.com/2026/10/23/ARTIpExOMeJp9ytcNpyBzQ3g261023.shtml)
+
++ [日本能源白皮书：中东局势暴露日能源体系弱点](https://news.cctv.com/2026/10/23/ARTIswUrMhpUKZHo8rVt1IFF261023.shtml)
+
++ [韩国国防部向朝方提议举行韩朝军方会谈](https://news.cctv.com/2026/10/23/ARTIEIxByFhJ3BtFc0F4Rjss261023.shtml)
+
++ [新西兰国防军司令因“诚信问题”辞职](https://news.cctv.com/2026/10/23/ARTItlrbi9yJ0qjlOPWThKV3261023.shtml)
+
++ [约旦河西岸发生枪击事件 4名以色列人受伤](https://news.cctv.com/2026/10/23/ARTIQJLCpmoa332JYvjkXQjs261023.shtml)
+
++ [马拉多纳死亡案庭审结束 一名被告获判无罪](https://news.cctv.com/2026/10/23/ARTIY1veHY68Rcp4dS2yznaA261023.shtml)
+
++ [法国驻美大使在法美外交风波后履新](https://news.cctv.com/2026/10/23/ARTIxc1lNu7TG8X1pY8vfJOE261023.shtml)
+
++ [中国驻韩国大使馆提醒：请来韩团体游客远离低价团消费陷阱](https://news.cctv.com/2026/10/23/ARTIpItw6tONcr9zq4HHaXXf261023.shtml)
+
++ [马达加斯加发生多起中国公民因涉嫌走私黄金、宝石被捕案件，中使馆提醒](https://news.cctv.com/2026/10/23/ARTIwMkjysXBYG1iau18DQQt261023.shtml)
+
++ [厄瓜多尔发生监狱骚乱 已致8人死亡](https://news.cctv.com/2026/10/23/ARTIwjvdITljj3inzXOfzIyi261023.shtml)
+
++ [尼泊尔萨利扬县恙虫病疫情持续数月 累计致10人死亡](https://news.cctv.com/2026/10/23/ARTIQrtJcolQky7weaMYLOfs261023.shtml)
+
++ [巴基斯坦反恐行动击毙2名恐怖分子 4名警察殉职](https://news.cctv.com/2026/10/23/ARTIkZvUEMYtvWWOsk5LMA75261023.shtml)
+
++ [秘鲁政府将追加开支应对厄尔尼诺等挑战](https://news.cctv.com/2026/10/23/ARTImPhwpJGNBAmzAActikzO261023.shtml)
+
++ [沙特主导联军称拦截胡塞武装向利雅得发射的导弹](https://news.cctv.com/2026/10/23/ARTICfankTZRUBlWF7UcJzUl261023.shtml)
+
++ [伊朗议会议长：若与伊开战 美国将承担苦涩后果](https://news.cctv.com/2026/10/23/ARTINluNEcwC2ubC3mw3tbZj261023.shtml)
+
++ [法国卢浮宫等多个博物馆将因示威活动闭馆](https://news.cctv.com/2026/10/23/ARTINWRjBpq7lknqNyWEIyMG261023.shtml)
+
++ [为防范埃博拉疫情 美疾控中心发布航空旅客入境及乘机新规](https://news.cctv.com/2026/10/23/ARTIB2z2Pun1KVBc164yiflw261023.shtml)
+
++ [红十字国际委员会：近几周苏丹空袭事件致数百人死亡](https://news.cctv.com/2026/10/23/ARTI6fgFQ9PycDC4KVXZJkW3261023.shtml)
 
 + [法国报告全球首例人类感染沙蒙达病毒病例](https://news.cctv.com/2026/10/23/ARTI8uOlO5iYKyDMQPiPW4P3261023.shtml)
 
@@ -100,110 +156,4 @@
 + [一移民船与希腊海岸警卫队船只相撞致6人死亡](https://news.cctv.com/2026/10/19/ARTIPespZFq3lvqjLNYtb1om261019.shtml)
 
 + [叙利亚与世行同意设立重建基金](https://news.cctv.com/2026/10/19/ARTIMAPOgdQkKV8eStVc9RHy261019.shtml)
-
-+ [特朗普：泽连斯基可能从未想结束俄乌战事](https://news.cctv.com/2026/10/19/ARTIgL9yubd3llxeEMrLFG5t261019.shtml)
-
-+ [巴西总统候选人进行电视辩论](https://news.cctv.com/2026/10/19/ARTIQ3afph2uR6aDILZKODyG261019.shtml)
-
-+ [外国人眼中的长征 | 用镜头记录，让世界看见一个真实的中国](https://news.cctv.com/2026/10/19/ARTIAnBfyZ1jVf5SK1cXWXuN261019.shtml)
-
-+ [首次跌破50% 民调显示高市内阁支持率跌至新低](https://news.cctv.com/2026/10/19/ARTIas9r61UYS9wkTPC4Nn1R261019.shtml)
-
-+ [加拿大军方：该国西部军事基地火灾由实弹训练引发](https://news.cctv.com/2026/10/19/ARTIqWxunbv4M3jWo7A7HiJm261019.shtml)
-
-+ [伊朗总统：绝不屈服于“侵略性”国家无理要求与霸凌](https://news.cctv.com/2026/10/19/ARTIYKaZMVRux06hHCmwsycx261019.shtml)
-
-+ [驻以色列使馆提醒中国公民切勿参与非法入境以色列务工](https://news.cctv.com/2026/10/19/ARTIvN2zZuVYrtujqdQ2cUSs261019.shtml)
-
-+ [泽连斯基称若乌“被要求”举行战时选举他将竞选连任](https://news.cctv.com/2026/10/19/ARTICwwjCKDjlaKsKJXW716V261019.shtml)
-
-+ [法国总统谴责该国多地发生的暴力事件](https://news.cctv.com/2026/10/19/ARTIGANdZiula8KmfF8hwS4T261019.shtml)
-
-+ [以总理公布新“国家安全构想” 称转向进攻和预警打击](https://news.cctv.com/2026/10/19/ARTIv4SEcnX61EsHwIFZh8tn261019.shtml)
-
-+ [加拿大总理：军事基地火灾致4名军人死亡 数十人重伤](https://news.cctv.com/2026/10/19/ARTIgafucv4TPGtdb35pVyJj261019.shtml)
-
-+ [韩国监狱人满为患 获假释囚犯人数骤增](https://news.cctv.com/2026/10/19/ARTINuGtjBGbWZS5OpyLdjt5261018.shtml)
-
-+ [伊朗：已针对可能的新“冒险行径”制定应对方案](https://news.cctv.com/2026/10/19/ARTIzCZgOUBbGg5stNjxH5k1261018.shtml)
-
-+ [中国驻日使馆：日当政者参拜靖国神社亵渎历史正义](https://news.cctv.com/2026/10/18/ARTI7yPuypYqE3YKFEON3e5g261018.shtml)
-
-+ [俄外交部：中国正在进行“新的伟大长征”](https://news.cctv.com/2026/10/18/ARTIZxE7EDVGe8m893n505Ia261018.shtml)
-
-+ [缅甸发生4.3级地震，震源深度9千米](https://news.cctv.com/2026/10/18/ARTIKkOHTUD55M5WgKGZYmaK261018.shtml)
-
-+ [美国堪萨斯州一车辆冲入足球场 致多人死伤](https://news.cctv.com/2026/10/18/ARTIhKwazcbOGen8YbjwHoDv261018.shtml)
-
-+ [伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只](https://news.cctv.com/2026/10/18/ARTI4O8b6k6UB07Cv6j4pDmW261018.shtml)
-
-+ [也门胡塞武装称击落沙特方面一架“阿帕奇”直升机](https://news.cctv.com/2026/10/18/ARTIlkB4ODP8C4XdkULnqZzg261018.shtml)
-
-+ [以总理办公室：针对欧洲外交官的暴力行为“不可接受”](https://news.cctv.com/2026/10/18/ARTIAnHHEofsMcnA7nFVPGM6261018.shtml)
-
-+ [伊拉克总理呼吁伊斯兰合作组织成员国促进地区和平](https://news.cctv.com/2026/10/18/ARTIwUcXYkkjSA7ICTC0jDNa261018.shtml)
-
-+ [坦桑尼亚加强入境健康筛查 防止埃博拉病毒输入](https://news.cctv.com/2026/10/18/ARTI9fAEe5BCLmJecOxse9rC261018.shtml)
-
-+ [以色列犹太人定居者在约旦河西岸袭击欧洲外交官车辆](https://news.cctv.com/2026/10/18/ARTI4GLHnxR0jnaPNMrtWy1v261017.shtml)
-
-+ [我驻日使馆发言人就日方涉靖国神社消极动向答记者问](https://news.cctv.com/2026/10/17/ARTIlZdMTEFoGT6AoZQ97Iox261017.shtml)
-
-+ [通讯丨科技赋能让中国故事更快跨越山海](https://news.cctv.com/2026/10/17/ARTI2BkCoCaNA9UAvLD78LRe261017.shtml)
-
-+ [德国一养老院发生持刀袭击事件 致1死2重伤](https://news.cctv.com/2026/10/17/ARTIpMDW9DB4t7ImjjpInj1j261017.shtml)
-
-+ [厄瓜多尔一艘渔船疑似沉没 14名船员失踪](https://news.cctv.com/2026/10/17/ARTILYi7EuBF6hLyB26hfPwe261017.shtml)
-
-+ [伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸](https://news.cctv.com/2026/10/17/ARTIc5YK1e70xzMm5BhUrS8U261017.shtml)
-
-+ [巴西亚马孙雨林毁林面积创38年来最低纪录](https://news.cctv.com/2026/10/17/ARTINw5iTtuVZtD5oNP5unIW261017.shtml)
-
-+ [伊朗议会议长：若与伊开战 美国将承担苦涩后果](https://news.cctv.com/2026/10/23/ARTINluNEcwC2ubC3mw3tbZj261023.shtml)
-
-+ [法国卢浮宫等多个博物馆将因示威活动闭馆](https://news.cctv.com/2026/10/23/ARTINWRjBpq7lknqNyWEIyMG261023.shtml)
-
-+ [为防范埃博拉疫情 美疾控中心发布航空旅客入境及乘机新规](https://news.cctv.com/2026/10/23/ARTIB2z2Pun1KVBc164yiflw261023.shtml)
-
-+ [红十字国际委员会：近几周苏丹空袭事件致数百人死亡](https://news.cctv.com/2026/10/23/ARTI6fgFQ9PycDC4KVXZJkW3261023.shtml)
-
-+ [厄瓜多尔发生监狱骚乱 已致8人死亡](https://news.cctv.com/2026/10/23/ARTIwjvdITljj3inzXOfzIyi261023.shtml)
-
-+ [尼泊尔萨利扬县恙虫病疫情持续数月 累计致10人死亡](https://news.cctv.com/2026/10/23/ARTIQrtJcolQky7weaMYLOfs261023.shtml)
-
-+ [巴基斯坦反恐行动击毙2名恐怖分子 4名警察殉职](https://news.cctv.com/2026/10/23/ARTIkZvUEMYtvWWOsk5LMA75261023.shtml)
-
-+ [秘鲁政府将追加开支应对厄尔尼诺等挑战](https://news.cctv.com/2026/10/23/ARTImPhwpJGNBAmzAActikzO261023.shtml)
-
-+ [沙特主导联军称拦截胡塞武装向利雅得发射的导弹](https://news.cctv.com/2026/10/23/ARTICfankTZRUBlWF7UcJzUl261023.shtml)
-
-+ [土耳其一煤矿爆炸致2死5伤](https://news.cctv.com/2026/10/23/ARTI9gqrpPnKaQm3B25jVcl0261023.shtml)
-
-+ [希腊通过议案 明年起禁止15岁以下青少年使用社媒平台](https://news.cctv.com/2026/10/23/ARTIvjwEP3dHHxjgYmIbESGl261023.shtml)
-
-+ [奥地利宣布驱逐四名俄罗斯外交官](https://news.cctv.com/2026/10/23/ARTIBALn1hnsn6kaB38phLoY261023.shtml)
-
-+ [民调：近七成美国年轻人忧虑美国未来](https://news.cctv.com/2026/10/23/ARTIksD6GEaEAgoVkHXKedz6261023.shtml)
-
-+ [日本第24轮核污染水排放量近8000吨](https://news.cctv.com/2026/10/23/ARTIR9OX6ELFUPRJR6Gxp7Ap261023.shtml)
-
-+ [广东省政协科教卫体委副主任黄远通接受审查调查](https://news.cctv.com/2026/10/23/ARTIJAWsaKlLURN2z2BVpysu261023.shtml)
-
-+ [伊议员说伊朗已要求中东国家停止支持美国](https://news.cctv.com/2026/10/23/ARTIpExOMeJp9ytcNpyBzQ3g261023.shtml)
-
-+ [日本能源白皮书：中东局势暴露日能源体系弱点](https://news.cctv.com/2026/10/23/ARTIswUrMhpUKZHo8rVt1IFF261023.shtml)
-
-+ [韩国国防部向朝方提议举行韩朝军方会谈](https://news.cctv.com/2026/10/23/ARTIEIxByFhJ3BtFc0F4Rjss261023.shtml)
-
-+ [新西兰国防军司令因“诚信问题”辞职](https://news.cctv.com/2026/10/23/ARTItlrbi9yJ0qjlOPWThKV3261023.shtml)
-
-+ [约旦河西岸发生枪击事件 4名以色列人受伤](https://news.cctv.com/2026/10/23/ARTIQJLCpmoa332JYvjkXQjs261023.shtml)
-
-+ [马拉多纳死亡案庭审结束 一名被告获判无罪](https://news.cctv.com/2026/10/23/ARTIY1veHY68Rcp4dS2yznaA261023.shtml)
-
-+ [法国驻美大使在法美外交风波后履新](https://news.cctv.com/2026/10/23/ARTIxc1lNu7TG8X1pY8vfJOE261023.shtml)
-
-+ [中国驻韩国大使馆提醒：请来韩团体游客远离低价团消费陷阱](https://news.cctv.com/2026/10/23/ARTIpItw6tONcr9zq4HHaXXf261023.shtml)
-
-+ [马达加斯加发生多起中国公民因涉嫌走私黄金、宝石被捕案件，中使馆提醒](https://news.cctv.com/2026/10/23/ARTIwMkjysXBYG1iau18DQQt261023.shtml)
 
