@@ -167,3 +167,13 @@
 
 + [红十字国际委员会：近几周苏丹空袭事件致数百人死亡](https://news.cctv.com/2026/10/23/ARTI6fgFQ9PycDC4KVXZJkW3261023.shtml)
 
++ [厄瓜多尔发生监狱骚乱 已致8人死亡](https://news.cctv.com/2026/10/23/ARTIwjvdITljj3inzXOfzIyi261023.shtml)
+
++ [尼泊尔萨利扬县恙虫病疫情持续数月 累计致10人死亡](https://news.cctv.com/2026/10/23/ARTIQrtJcolQky7weaMYLOfs261023.shtml)
+
++ [巴基斯坦反恐行动击毙2名恐怖分子 4名警察殉职](https://news.cctv.com/2026/10/23/ARTIkZvUEMYtvWWOsk5LMA75261023.shtml)
+
++ [秘鲁政府将追加开支应对厄尔尼诺等挑战](https://news.cctv.com/2026/10/23/ARTImPhwpJGNBAmzAActikzO261023.shtml)
+
++ [沙特主导联军称拦截胡塞武装向利雅得发射的导弹](https://news.cctv.com/2026/10/23/ARTICfankTZRUBlWF7UcJzUl261023.shtml)
+

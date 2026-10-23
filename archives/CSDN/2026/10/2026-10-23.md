@@ -101,3 +101,39 @@
 
 + [【文件系统】-3-文件与目录、路径解析、路径缓存、挂载](https://blog.csdn.net/2401_87750511/article/details/168771890)
 
++ [Node.js 发布紧急安全更新：10 个漏洞，8 枚危险证书被拉黑。附AI修复提示词](https://blog.csdn.net/zhh763984017/article/details/168763980)
+
++ [Kafka 顺序消息为什么乱了：分区数变化与重试的 3 类原因](https://blog.csdn.net/2501_92769340/article/details/167704625)
+
++ [openEuler + 毕昇 JDK + Tengine：RuoYi Office 国产化部署实战](https://blog.csdn.net/zhouzhongyan/article/details/167590212)
+
++ [超立方体Ramsey（openai/math 家族171）H11攻坚日志｜D60–D69：Star分组重数、二幂坐标群、奇偶入射语义与Site‑Level候选计数形式化闭环](https://blog.csdn.net/TunerT_TQ/article/details/168772516)
+
++ [Chinchilla_Law_大模型训练的最优参数数据比](https://blog.csdn.net/2302_78391795/article/details/168625000)
+
++ [Linux 网络编程：从零掌握 TCP Socket 编程与 C++ 实战落地](https://blog.csdn.net/2402_83344867/article/details/168769159)
+
++ [Linux 学习第一篇：从零认识 Linux，使用 WSL + Ubuntu 搭建学习环境](https://blog.csdn.net/java_nnnn/article/details/168758277)
+
++ [使用OpenTelemetry监控ASP.NET应用](https://blog.csdn.net/liu_rui_/article/details/168660288)
+
++ [支持私有化部署的 DevOps 平台推荐：技术决策者选型指南（2026）](https://blog.csdn.net/2602_96414767/article/details/168656791)
+
++ [Netdata不只是CPU和内存图表：节点、日志、告警和异常都集中在一个页面里](https://blog.csdn.net/m0_73879806/article/details/168775105)
+
++ [Hadoop Spark 数据倾斜完整排查](https://blog.csdn.net/weixin_47157956/article/details/164090855)
+
++ [Spring Boot 微信公众号后端服务开发实战指南](https://blog.csdn.net/csdn_silent/article/details/168727649)
+
++ [大屏的本质是一份 JSON：聊聊 Schema 驱动的大屏架构](https://blog.csdn.net/QianhangQianping/article/details/168663833)
+
++ [Redis 内存涨到 80%：Spring Boot 缓存漏设 TTL 的排查与修复](https://blog.csdn.net/weixin_71309014/article/details/168643896)
+
++ [成为全栈·Taro 小程序篇·会员投稿状态机：保存、提交、撤回与防重复创建](https://blog.csdn.net/FungLeo/article/details/168861744)
+
++ [Python 自动化办公：如何从零快速生成结构清晰的 Excel 报表](https://blog.csdn.net/2503_93068783/article/details/168551739)
+
++ [率能半导体 SS6622E直流双向马达驱动芯片：20V/2.4A，覆盖电子锁、玩具、无线充电、机器人四大应用场景](https://blog.csdn.net/2501_92263958/article/details/168662308)
+
++ [数据库轻量RPC网关兼容web跨版本交互-东方仙盟](https://blog.csdn.net/cybersnow/article/details/168774337)
+
