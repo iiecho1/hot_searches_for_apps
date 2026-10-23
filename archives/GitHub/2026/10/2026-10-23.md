@@ -19,3 +19,13 @@
 
 + [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL)
 
++ [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+
++ [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+
++ [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+
++ [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
++ [nodejs/node](https://github.com/nodejs/node)
+

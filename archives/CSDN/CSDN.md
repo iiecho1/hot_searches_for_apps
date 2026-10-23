@@ -137,3 +137,43 @@
 
 + [数据库轻量RPC网关兼容web跨版本交互-东方仙盟](https://blog.csdn.net/cybersnow/article/details/168774337)
 
++ [AI 说我在能领 20 万补贴，翻完官方文件只剩 6 万：我用 WorkBuddy + TextIn xParse 搭了个不漏坑的补贴雷达](https://blog.csdn.net/2401_86326742/article/details/168876380)
+
++ [AI Agent 工程化开发实战（二）：5 分钟跑通第一个 Deep Agent，然后拆开它](https://blog.csdn.net/xiaobing259/article/details/168774045)
+
++ [从一句话到一张图：基于硅基流动（SiliconFlow）+ SpringBoot实现文本生图的完整工程实践](https://blog.csdn.net/yelangkingwuzuhu/article/details/168773362)
+
++ [脚本和Docker配置越存越乱？我把Gitea装进飞牛NAS，终于有了自己的代码仓库](https://blog.csdn.net/LT15171009269/article/details/168870577)
+
++ [L3开源静态评测｜Facebook Memlab：浏览器内存泄漏工具源码尽调（证据可复现）](https://blog.csdn.net/TunerT_TQ/article/details/168748144)
+
++ [给启元Q1设计一个懂暂停的专注助手机器人：从PrimeConsole验证到PrimeHub发布](https://blog.csdn.net/2401_87629362/article/details/168877898)
+
++ [在 Ubuntu ARM64 上运行 Q1 V3.0 MuJoCo 模型：加载、步进和单执行器响应](https://blog.csdn.net/Mrxiao_bo/article/details/168868115)
+
++ [演唱会座位模拟器手机版地址入口-告别选座盲盒-提前看见现场视野](https://blog.csdn.net/Xiaiqiao/article/details/168874165)
+
++ [数据库主备切换后，业务恢复了吗？五层验收清单](https://blog.csdn.net/augen1355/article/details/168771052)
+
++ [DeepInfer 部署完整指南（2026 年 10 月）：Python 3.12、CUDA 13/CANN 9.2 与离线推理](https://blog.csdn.net/vibecoding77/article/details/168756467)
+
++ [GaussDB 内存相关参数及故障诊断](https://blog.csdn.net/GaussDB/article/details/168877440)
+
++ [Matlab 2022b（中文）的使用教程——Win11](https://blog.csdn.net/qq_53589322/article/details/165318383)
+
++ [PyTorch强化学习实战（31）——AlphaGo Zero详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/160152541)
+
++ [GR00T N1 —— 双系统架构如何让一个模型驱动不同人形机器人](https://blog.csdn.net/weixin_50843918/article/details/168766296)
+
++ [发票批量查验软件（自动保存官网查验截图）](https://blog.csdn.net/u010020285/article/details/168660090)
+
++ [CoRL 2026｜新作SuperMimic：基于单一可微世界模型的大规模人形机器人全身控制【文献解读】](https://blog.csdn.net/qq_56908984/article/details/168752773)
+
++ [DeepSeek V4.1 Flash 1017 效果实测与能力边界](https://blog.csdn.net/weixin_65106708/article/details/168774431)
+
++ [【LLM】第十章：Agent中间件1：SummarizationMiddleware、HumanInTheLoopMiddleware、PIIMiddleware、TodoListMiddleware](https://blog.csdn.net/friday1203/article/details/168870921)
+
++ [视频教程终于有了索引：BiliNote把转写、截图和时间戳整理进Markdown笔记](https://blog.csdn.net/EterNity_TiMe_/article/details/168877397)
+
++ [GitHub 热榜项目：日榜（2026-10-21）](https://blog.csdn.net/u130130/article/details/168650455)
+

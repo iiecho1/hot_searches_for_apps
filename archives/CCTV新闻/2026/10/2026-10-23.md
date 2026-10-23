@@ -177,3 +177,33 @@
 
 + [沙特主导联军称拦截胡塞武装向利雅得发射的导弹](https://news.cctv.com/2026/10/23/ARTICfankTZRUBlWF7UcJzUl261023.shtml)
 
++ [土耳其一煤矿爆炸致2死5伤](https://news.cctv.com/2026/10/23/ARTI9gqrpPnKaQm3B25jVcl0261023.shtml)
+
++ [希腊通过议案 明年起禁止15岁以下青少年使用社媒平台](https://news.cctv.com/2026/10/23/ARTIvjwEP3dHHxjgYmIbESGl261023.shtml)
+
++ [奥地利宣布驱逐四名俄罗斯外交官](https://news.cctv.com/2026/10/23/ARTIBALn1hnsn6kaB38phLoY261023.shtml)
+
++ [民调：近七成美国年轻人忧虑美国未来](https://news.cctv.com/2026/10/23/ARTIksD6GEaEAgoVkHXKedz6261023.shtml)
+
++ [日本第24轮核污染水排放量近8000吨](https://news.cctv.com/2026/10/23/ARTIR9OX6ELFUPRJR6Gxp7Ap261023.shtml)
+
++ [广东省政协科教卫体委副主任黄远通接受审查调查](https://news.cctv.com/2026/10/23/ARTIJAWsaKlLURN2z2BVpysu261023.shtml)
+
++ [伊议员说伊朗已要求中东国家停止支持美国](https://news.cctv.com/2026/10/23/ARTIpExOMeJp9ytcNpyBzQ3g261023.shtml)
+
++ [日本能源白皮书：中东局势暴露日能源体系弱点](https://news.cctv.com/2026/10/23/ARTIswUrMhpUKZHo8rVt1IFF261023.shtml)
+
++ [韩国国防部向朝方提议举行韩朝军方会谈](https://news.cctv.com/2026/10/23/ARTIEIxByFhJ3BtFc0F4Rjss261023.shtml)
+
++ [新西兰国防军司令因“诚信问题”辞职](https://news.cctv.com/2026/10/23/ARTItlrbi9yJ0qjlOPWThKV3261023.shtml)
+
++ [约旦河西岸发生枪击事件 4名以色列人受伤](https://news.cctv.com/2026/10/23/ARTIQJLCpmoa332JYvjkXQjs261023.shtml)
+
++ [马拉多纳死亡案庭审结束 一名被告获判无罪](https://news.cctv.com/2026/10/23/ARTIY1veHY68Rcp4dS2yznaA261023.shtml)
+
++ [法国驻美大使在法美外交风波后履新](https://news.cctv.com/2026/10/23/ARTIxc1lNu7TG8X1pY8vfJOE261023.shtml)
+
++ [中国驻韩国大使馆提醒：请来韩团体游客远离低价团消费陷阱](https://news.cctv.com/2026/10/23/ARTIpItw6tONcr9zq4HHaXXf261023.shtml)
+
++ [马达加斯加发生多起中国公民因涉嫌走私黄金、宝石被捕案件，中使馆提醒](https://news.cctv.com/2026/10/23/ARTIwMkjysXBYG1iau18DQQt261023.shtml)
+
