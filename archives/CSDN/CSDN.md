@@ -101,3 +101,13 @@
 
 + [SelectDB 架构演进与 ClickHouse 迁移指南](https://blog.csdn.net/SelectDB_Fly/article/details/168880230)
 
++ [N1飞牛NAS做AI接口中转层：New-API接本地Ollama，再用Token把模型能力分发出去](https://blog.csdn.net/AIRoses/article/details/168861753)
+
++ [当化学结构编辑器遇上鸿蒙 PC：我把 JChemPaint 移植到了鸿蒙](https://blog.csdn.net/weixin_52908342/article/details/168884900)
+
++ [WebSocket协议](https://blog.csdn.net/suimingtao/article/details/164425743)
+
++ [qBittorrent WebUI真正方便的不是下载：而是让长期任务和电脑彻底解耦](https://blog.csdn.net/m0_71444338/article/details/168766167)
+
++ [关于学习方法思考改进的实验方案：学技术不等于记结论](https://blog.csdn.net/HikariT/article/details/168867867)
+

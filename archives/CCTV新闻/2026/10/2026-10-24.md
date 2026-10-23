@@ -157,3 +157,11 @@
 
 + [叙利亚与世行同意设立重建基金](https://news.cctv.com/2026/10/19/ARTIMAPOgdQkKV8eStVc9RHy261019.shtml)
 
++ [佩斯科夫：俄美乌三方谈判将于11月上旬在阿布扎比启动](https://news.cctv.com/2026/10/24/ARTIC1Vah7ulHl9xJfkfi7MZ261024.shtml)
+
++ [土埃巴沙与英法德意在伊斯坦布尔举行八国外长会议](https://news.cctv.com/2026/10/24/ARTIJnEWYX2zO4R0MkukwF2R261023.shtml)
+
++ [厄尔尼诺来袭 南美多地受影响](https://news.cctv.com/2026/10/24/ARTI9kNpGRRvbh3uj23Lu3GQ261023.shtml)
+
++ [应对新抗议 法国多地采取限制措施](https://news.cctv.com/2026/10/24/ARTIdbmpxfshHxV4fR3030eY261023.shtml)
+
