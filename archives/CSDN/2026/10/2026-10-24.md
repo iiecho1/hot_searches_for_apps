@@ -111,3 +111,9 @@
 
 + [关于学习方法思考改进的实验方案：学技术不等于记结论](https://blog.csdn.net/HikariT/article/details/168867867)
 
++ [【AI大模型接入SDK】Trae生成代码介绍](https://blog.csdn.net/2401_89899187/article/details/168347042)
+
++ [四载代码成行，此去山高水长](https://blog.csdn.net/2302_80329073/article/details/168646582)
+
++ [使用OpenTelemetry监控ASP.NET应用](https://blog.csdn.net/liu_rui_/article/details/168660288)
+

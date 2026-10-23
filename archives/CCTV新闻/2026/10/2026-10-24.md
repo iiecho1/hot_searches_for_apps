@@ -165,3 +165,7 @@
 
 + [应对新抗议 法国多地采取限制措施](https://news.cctv.com/2026/10/24/ARTIdbmpxfshHxV4fR3030eY261023.shtml)
 
++ [古巴外长驳斥特朗普“顺道解决古巴”言论](https://news.cctv.com/2026/10/24/ARTI9WXMNoxhrZ7Tz9kC73Cr261024.shtml)
+
++ [以军总参谋长：已在所有战线进入最高戒备状态](https://news.cctv.com/2026/10/24/ARTIbOw8ZcH2KDqoEOsOelhs261023.shtml)
+
