@@ -21,3 +21,5 @@
 
 + [来了一个到处搬运帖子起号的用户：@cjkcjkcjk](https://www.v2ex.com/t/1251407)
 
++ [现在新号订阅是不是必被 KYC](https://www.v2ex.com/t/1251445)
+
