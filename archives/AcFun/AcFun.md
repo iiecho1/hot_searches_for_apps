@@ -1,77 +1,9 @@
 ## AcFun 
-### 2026-10-24
-
-+ [网络上常见的热门短视频集锦   第三千五百零四期](https://m.acfun.cn/v/?ac=48932517)
-
-+ [先看血精灵！再采设计师！MMO最宽的山！【绅批】](https://m.acfun.cn/v/?ac=48934386)
-
-+ [AC娘在会员制餐厅用餐【UP创作大赛】](https://m.acfun.cn/v/?ac=48933419)
-
-+ [有些人天生就是主角！！！欢乐八点档-1811](https://m.acfun.cn/v/?ac=48934045)
-
-+ [是心动的感觉！★手机竖屏2042★](https://m.acfun.cn/v/?ac=48932514)
-
-+ [网络上常见的热门短视频集锦   第三千五百零五期](https://m.acfun.cn/v/?ac=48933342)
-
-+ [【UP创作大赛】在乡镇吃一天！这座小镇，埋着三国东吴的秘密？](https://m.acfun.cn/v/?ac=48933569)
-
-+ [好兄弟一辈子【今天有什么好笑的 #2545】](https://m.acfun.cn/v/?ac=48933924)
-
-+ [【UP创作大赛】【 英数决战】汤家凤VS刘晓艳](https://m.acfun.cn/v/?ac=48934520)
-
-+ [【柯基】国风歌曲《西楼别序》｜“我提笔不为离愁 只为你转身回眸 心事把自己弄丢淋湿在阁楼”](https://m.acfun.cn/v/?ac=48934047)
-
-+ [血战第9集又拉了？团战冗长结尾依旧仓促！](https://m.acfun.cn/v/?ac=48934527)
-
-+ [你送的胭脂扣，是我的心头忧](https://m.acfun.cn/v/?ac=48932254)
-
-+ [祈祷吧！少年](https://m.acfun.cn/v/?ac=48925123)
-
-+ [交通事故20261023：交通车祸实例，提高安全驾驶意识](https://m.acfun.cn/v/?ac=48933483)
-
-+ [【UP创作大赛】52.龙族黎明：三亿年前的陆地拓荒者，从吃虫小透明到植食巨兽](https://m.acfun.cn/v/?ac=48923232)
-
-+ [【奧雷】全世界的怪物汇聚到一间蜡像馆里！你敢来参观吗？](https://m.acfun.cn/v/?ac=48934669)
-
-+ [【UP创作大赛】普池超越2命豹王？夜一打队900万秒伤](https://m.acfun.cn/v/?ac=48933323)
-
-+ [内容这么丰富的视频居然只有五秒](https://m.acfun.cn/v/?ac=48933858)
-
-+ [【莉莉子】Dal★shabet Hit U【黑色竖屏】](https://m.acfun.cn/v/?ac=48929428)
-
-+ [【东方】钢尺全自动 Night of nights!!](https://m.acfun.cn/v/?ac=48925688)
-
-+ [这抽象玩意把我整乐了！](https://m.acfun.cn/v/?ac=48932780)
-
-+ [【UP创作大赛】三遍忘原唱，但是AC娘...](https://m.acfun.cn/v/?ac=48934870)
-
-+ [【UP创作大赛】黑子学姐万圣驱魔表演](https://m.acfun.cn/v/?ac=48932759)
-
-+ [《你的心脏有多大》](https://m.acfun.cn/v/?ac=48932776)
-
-+ [全员刺客，只剩打架！快速看完一局韩服王者斗殴局#875 Ucal, 小丑不贪, 芭芭巴, Quant](https://m.acfun.cn/v/?ac=48925223)
-
-+ [五杀局，辅助抢龙？快速看完一局韩服王者斗殴局#876 Jaehyuk, 全尚德, 柔风亚索, Enh](https://m.acfun.cn/v/?ac=48925278)
-
-+ [凯龙的2026武汉国际耳机展回顾](https://m.acfun.cn/v/?ac=48934839)
-
-+ [RolyPoly-韩流520](https://m.acfun.cn/v/?ac=48933079)
-
-+ [我的动作，怎么没人模仿](https://m.acfun.cn/v/?ac=48933477)
-
-+ [【深空当铺demo】斑斑的直播录像（更新1p](https://m.acfun.cn/v/?ac=48932731)
-
-+ [练个舞](https://m.acfun.cn/v/?ac=42888254)
-
-+ [澳门仔爱上成都餐馆！！](https://m.acfun.cn/v/?ac=48934484)
-
-+ [为了吸引玩家，现在的肉鸽游戏究竟有多上头？？？](https://m.acfun.cn/v/?ac=48934447)
+### 2026-10-25
 
 + [《哈基米德》](https://m.acfun.cn/v/?ac=48934093)
 
-+ [【Dina小崽】金色海岸出海咯~~](https://m.acfun.cn/v/?ac=48931540)
-
-+ [这下好了，全世界都是性转马尔福调戏波特同学](https://m.acfun.cn/v/?ac=48934205)
++ [《摇摆狂潮》](https://m.acfun.cn/v/?ac=48935598)
 
 + [我真的只是来吃饭的！★手机竖屏2043★](https://m.acfun.cn/v/?ac=48934826)
 
@@ -79,45 +11,53 @@
 
 + [网络上常见的热门短视频集锦   第三千五百零六期](https://m.acfun.cn/v/?ac=48934828)
 
-+ [这个墙能上去吗？](https://m.acfun.cn/v/?ac=48935352)
-
-+ [旅途中的风景真不错呀！](https://m.acfun.cn/v/?ac=48935349)
-
-+ [这是炒啥呢？这么黄！](https://m.acfun.cn/v/?ac=48935340)
-
-+ [女孩子还是不要喝太多酒了](https://m.acfun.cn/v/?ac=48935316)
-
-+ [当你和小姐姐一起吃饭时，你会怎么吃？](https://m.acfun.cn/v/?ac=48935334)
-
-+ [小姐姐最后招了吗？](https://m.acfun.cn/v/?ac=48935330)
-
-+ [Stellar-Marionette 提线木偶](https://m.acfun.cn/v/?ac=48934895)
-
-+ [洋工还得洋人磨](https://m.acfun.cn/v/?ac=48935319)
-
 + [网络上常见的热门短视频集锦   第三千五百零七期](https://m.acfun.cn/v/?ac=48935583)
-
-+ [【动画】小狐与小狸 第二话「好多的红薯」](https://m.acfun.cn/v/?ac=48919544)
-
-+ [《摇摆狂潮》](https://m.acfun.cn/v/?ac=48935598)
-
-+ [喵？弗糯糯？](https://m.acfun.cn/v/?ac=48934973)
-
-+ [即兴拉片|影之刃零最终预告赏析【UP创作大赛】](https://m.acfun.cn/v/?ac=48935429)
 
 + [即分高下，也决生死【今天有什么好笑的 #2546】](https://m.acfun.cn/v/?ac=48935983)
 
 + [怎么样可以回到以前呢](https://m.acfun.cn/v/?ac=48936100)
 
-+ [cc君练舞日常](https://m.acfun.cn/v/?ac=39970958)
++ [谁能抵挡这种诱惑啊！欢乐八点档-1812](https://m.acfun.cn/v/?ac=48935894)
+
++ [喵？弗糯糯？](https://m.acfun.cn/v/?ac=48934973)
+
++ [【动画】小狐与小狸 第二话「好多的红薯」](https://m.acfun.cn/v/?ac=48919544)
+
++ [这个墙能上去吗？](https://m.acfun.cn/v/?ac=48935352)
+
++ [女孩子还是不要喝太多酒了](https://m.acfun.cn/v/?ac=48935316)
+
++ [旅途中的风景真不错呀！](https://m.acfun.cn/v/?ac=48935349)
+
++ [我做出了能吃的拼豆光栅卡！！！](https://m.acfun.cn/v/?ac=48936286)
+
++ [当你和小姐姐一起吃饭时，你会怎么吃？](https://m.acfun.cn/v/?ac=48935334)
+
++ [小蝶最适合去漫展的一套x](https://m.acfun.cn/v/?ac=48936152)
+
++ [即兴拉片|影之刃零最终预告赏析【UP创作大赛】](https://m.acfun.cn/v/?ac=48935429)
+
++ [洋工还得洋人磨](https://m.acfun.cn/v/?ac=48935319)
+
++ [英雄难过美人关](https://m.acfun.cn/v/?ac=48934928)
+
++ [天下第一爽朗？最强也最难绷的灵异调查员！現地確認記録 剧情解说](https://m.acfun.cn/v/?ac=48934856)
+
++ [选择大于努力？（81）](https://m.acfun.cn/v/?ac=48936538)
+
++ [【UP创作大赛】三十秒教会你如何给小琉画风筝](https://m.acfun.cn/v/?ac=48936472)
 
 + [【UP创作大赛】AC娘的琵琶曲](https://m.acfun.cn/v/?ac=48935038)
 
 + [心事可以说给姐姐听喔～](https://m.acfun.cn/v/?ac=48934911)
 
-+ [小蝶最适合去漫展的一套x](https://m.acfun.cn/v/?ac=48936152)
++ [【UP创作大赛】【绝望女神/翻唱】【不知醉】](https://m.acfun.cn/v/?ac=48936473)
+
++ [【UP创作大赛】梦中源自神明的瘟疫，获得心智的代价竟是被奴役？【空洞骑士剧情解析（上）】](https://m.acfun.cn/v/?ac=48935243)
 
 + [生日快乐，祝我也祝你！](https://m.acfun.cn/v/?ac=48934922)
 
-+ [阳光下跳舞](https://m.acfun.cn/v/?ac=39970948)
++ [显卡涨成这样，电脑这行可咋办？](https://m.acfun.cn/v/?ac=48935881)
+
++ [9王者2万分局，机会稍纵即逝！开团与保护！ 快速看完一局韩服王者斗殴局#877 Tian, DDoi](https://m.acfun.cn/v/?ac=48927861)
 

@@ -1,5 +1,35 @@
 ## CCTV新闻 
-### 2026-10-24
+### 2026-10-25
+
++ [美航空航天局公布“阿耳忒弥斯3号”任务最新安排](https://news.cctv.com/2026/10/24/ARTIg0EtFg1XlcKiSxw489Rs261024.shtml)
+
++ [菲律宾空军两架教练机相撞 4名空军飞行员死亡](https://news.cctv.com/2026/10/24/ARTImDLkB81spU9wAm2Wm8nT261024.shtml)
+
++ [刚果（金）一关键性埃博拉疫苗临床试验启动接种](https://news.cctv.com/2026/10/24/ARTIvm0rjdpSwYcOEyEvjWUr261024.shtml)
+
++ [沙特主导联军拦截胡塞武装射向利雅得的导弹](https://news.cctv.com/2026/10/24/ARTIb3xlP58JTynAA1fLTRxT261024.shtml)
+
++ [约旦一教堂发生枪击致7死 政府称系恐袭](https://news.cctv.com/2026/10/24/ARTIwP0fiNO6oRi8O7INi3qK261024.shtml)
+
++ [俄司法部：对12名境外俄罗斯人实施暂时限制措施](https://news.cctv.com/2026/10/24/ARTIkvomwctnhEPssSjEc5KM261024.shtml)
+
++ [瓦努阿图群岛发生6.8级地震，震源深度10千米](https://news.cctv.com/2026/10/24/ARTInHtzLYbY8oFtUSShz3La261024.shtml)
+
++ [马里军方称5个多月来近五千恐怖分子“丧失战斗力”](https://news.cctv.com/2026/10/24/ARTIvi8cvgw82FfdeRNOUmZa261024.shtml)
+
++ [教堂枪击事件致7死40伤 约旦宣布全国哀悼三天](https://news.cctv.com/2026/10/24/ARTINhLi9QxQV0dmEvhhOQRK261024.shtml)
+
++ [古巴外长驳斥特朗普“顺道解决古巴”言论](https://news.cctv.com/2026/10/24/ARTI9WXMNoxhrZ7Tz9kC73Cr261024.shtml)
+
++ [以军总参谋长：已在所有战线进入最高戒备状态](https://news.cctv.com/2026/10/24/ARTIbOw8ZcH2KDqoEOsOelhs261023.shtml)
+
++ [佩斯科夫：俄美乌三方谈判将于11月上旬在阿布扎比启动](https://news.cctv.com/2026/10/24/ARTIC1Vah7ulHl9xJfkfi7MZ261024.shtml)
+
++ [土埃巴沙与英法德意在伊斯坦布尔举行八国外长会议](https://news.cctv.com/2026/10/24/ARTIJnEWYX2zO4R0MkukwF2R261023.shtml)
+
++ [厄尔尼诺来袭 南美多地受影响](https://news.cctv.com/2026/10/24/ARTI9kNpGRRvbh3uj23Lu3GQ261023.shtml)
+
++ [应对新抗议 法国多地采取限制措施](https://news.cctv.com/2026/10/24/ARTIdbmpxfshHxV4fR3030eY261023.shtml)
 
 + [法国将部署约7万名安全人员应对新一轮示威](https://news.cctv.com/2026/10/23/ARTIbKhICGGv7PGRK5zK83Ws261023.shtml)
 
@@ -126,64 +156,4 @@
 + [阿根廷对一项最新军购实施保密制度](https://news.cctv.com/2026/10/20/ARTIktIEGkVyFcWSMVdNPSlY261020.shtml)
 
 + [古巴谴责美方对劳尔·卡斯特罗发出逮捕令](https://news.cctv.com/2026/10/20/ARTIaYBYuf8lHIBaSI5mvZxx261020.shtml)
-
-+ [英外交大臣：勿参与以色列“E1区”定居点项目招标](https://news.cctv.com/2026/10/20/ARTIECpNHhDGG3wVVAOQ2EbU261020.shtml)
-
-+ [调查：约三成日本大企业承认曾泄露或疑似泄露数据](https://news.cctv.com/2026/10/20/ARTIuf2VZRn6qizj9zLb6Lol261020.shtml)
-
-+ [美佛州称对古巴革命领袖劳尔·卡斯特罗发逮捕令](https://news.cctv.com/2026/10/20/ARTIeTz8kJc9BPXaxQsKYUEM261020.shtml)
-
-+ [外交部提醒赴法国中国公民加强安全防范](https://news.cctv.com/2026/10/19/ARTIwmNuYaYP0LhNWL5GAAWj261019.shtml)
-
-+ [李在明：韩国必须尽快从美方收回战时作战指挥权](https://news.cctv.com/2026/10/19/ARTIprN70KS146rdUgEfX4VD261019.shtml)
-
-+ [伊朗革命卫队：若美国发动战争 伊方将更严厉回应](https://news.cctv.com/2026/10/19/ARTI6hS4kgaYuD0WOMnDm1Vs261019.shtml)
-
-+ [美方称结束俄乌冲突是美国优先要务](https://news.cctv.com/2026/10/19/ARTI74fVulPxoJlnjaQ2fF5q261019.shtml)
-
-+ [法国总理宣布启动大规模司法行动 多地将实施局部宵禁](https://news.cctv.com/2026/10/19/ARTILqZWvTjRUcloI8MsCIvu261019.shtml)
-
-+ [厄尔尼诺作用下 “世界旱极”再现“沙漠开花”景观](https://news.cctv.com/2026/10/19/ARTIp1RJVDHnZUbZaBpMrwsS261019.shtml)
-
-+ [中国走在全球减贫与可持续发展前列](https://news.cctv.com/2026/10/19/ARTIA5wcGXue01ZgNaYrRvHt261019.shtml)
-
-+ [“一份融合发展、务实增效的‘湾区答卷’”](https://news.cctv.com/2026/10/19/ARTIUCH3MomF5qWFG24O5EA4261019.shtml)
-
-+ [膜拜战犯，是对历史正义的亵渎](https://news.cctv.com/2026/10/19/ARTIufwTmZOGBx7mJW2vCUQc261019.shtml)
-
-+ [苏丹首都机场遭遇无人机袭击 造成1人死亡](https://news.cctv.com/2026/10/19/ARTIwhMj36JCTwIWuYgc4ReF261019.shtml)
-
-+ [一移民船与希腊海岸警卫队船只相撞致6人死亡](https://news.cctv.com/2026/10/19/ARTIPespZFq3lvqjLNYtb1om261019.shtml)
-
-+ [叙利亚与世行同意设立重建基金](https://news.cctv.com/2026/10/19/ARTIMAPOgdQkKV8eStVc9RHy261019.shtml)
-
-+ [佩斯科夫：俄美乌三方谈判将于11月上旬在阿布扎比启动](https://news.cctv.com/2026/10/24/ARTIC1Vah7ulHl9xJfkfi7MZ261024.shtml)
-
-+ [土埃巴沙与英法德意在伊斯坦布尔举行八国外长会议](https://news.cctv.com/2026/10/24/ARTIJnEWYX2zO4R0MkukwF2R261023.shtml)
-
-+ [厄尔尼诺来袭 南美多地受影响](https://news.cctv.com/2026/10/24/ARTI9kNpGRRvbh3uj23Lu3GQ261023.shtml)
-
-+ [应对新抗议 法国多地采取限制措施](https://news.cctv.com/2026/10/24/ARTIdbmpxfshHxV4fR3030eY261023.shtml)
-
-+ [古巴外长驳斥特朗普“顺道解决古巴”言论](https://news.cctv.com/2026/10/24/ARTI9WXMNoxhrZ7Tz9kC73Cr261024.shtml)
-
-+ [以军总参谋长：已在所有战线进入最高戒备状态](https://news.cctv.com/2026/10/24/ARTIbOw8ZcH2KDqoEOsOelhs261023.shtml)
-
-+ [马里军方称5个多月来近五千恐怖分子“丧失战斗力”](https://news.cctv.com/2026/10/24/ARTIvi8cvgw82FfdeRNOUmZa261024.shtml)
-
-+ [教堂枪击事件致7死40伤 约旦宣布全国哀悼三天](https://news.cctv.com/2026/10/24/ARTINhLi9QxQV0dmEvhhOQRK261024.shtml)
-
-+ [菲律宾空军两架教练机相撞 4名空军飞行员死亡](https://news.cctv.com/2026/10/24/ARTImDLkB81spU9wAm2Wm8nT261024.shtml)
-
-+ [刚果（金）一关键性埃博拉疫苗临床试验启动接种](https://news.cctv.com/2026/10/24/ARTIvm0rjdpSwYcOEyEvjWUr261024.shtml)
-
-+ [沙特主导联军拦截胡塞武装射向利雅得的导弹](https://news.cctv.com/2026/10/24/ARTIb3xlP58JTynAA1fLTRxT261024.shtml)
-
-+ [约旦一教堂发生枪击致7死 政府称系恐袭](https://news.cctv.com/2026/10/24/ARTIwP0fiNO6oRi8O7INi3qK261024.shtml)
-
-+ [俄司法部：对12名境外俄罗斯人实施暂时限制措施](https://news.cctv.com/2026/10/24/ARTIkvomwctnhEPssSjEc5KM261024.shtml)
-
-+ [瓦努阿图群岛发生6.8级地震，震源深度10千米](https://news.cctv.com/2026/10/24/ARTInHtzLYbY8oFtUSShz3La261024.shtml)
-
-+ [美航空航天局公布“阿耳忒弥斯3号”任务最新安排](https://news.cctv.com/2026/10/24/ARTIg0EtFg1XlcKiSxw489Rs261024.shtml)
 
