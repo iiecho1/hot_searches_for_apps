@@ -141,3 +141,19 @@
 
 + [PHP2Shell 漏洞解读：CVE-2026-109618/109619 影响面、原理与修复建议](https://blog.csdn.net/Li_Ya_Fei/article/details/168856864)
 
++ [AI Agent 工程化开发实战（二）：5 分钟跑通第一个 Deep Agent，然后拆开它](https://blog.csdn.net/xiaobing259/article/details/168774045)
+
++ [【云原生】nerdctl 部署及使用指南](https://blog.csdn.net/liu_chen_yang/article/details/166486885)
+
++ [【具身笔记】【Piper+PI0.5】二、基于自有数据集实现pi05微调与评估](https://blog.csdn.net/m0_75114363/article/details/168662015)
+
++ [【VideoLLM】Agentic Video Understanding视频理解综述](https://blog.csdn.net/qq_35812205/article/details/168882563)
+
++ [启元 PrimeBot Q1 Python 示例离线解读：BMS 触摸相机逐行讲](https://blog.csdn.net/sinat_41617212/article/details/168767646)
+
++ [观察者模式：一个对象变化，一群对象自动响应](https://blog.csdn.net/2501_93705143/article/details/168662851)
+
++ [网络冗余必备 | 浮动静态路由（Floating Static Route）主备切换实战](https://blog.csdn.net/qq_41840843/article/details/168968420)
+
++ [Embedding 替换怎么评测：把索引成本算进成功任务](https://blog.csdn.net/w776341482/article/details/168974575)
+

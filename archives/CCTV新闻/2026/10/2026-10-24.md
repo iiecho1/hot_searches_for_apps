@@ -185,3 +185,5 @@
 
 + [瓦努阿图群岛发生6.8级地震，震源深度10千米](https://news.cctv.com/2026/10/24/ARTInHtzLYbY8oFtUSShz3La261024.shtml)
 
++ [美航空航天局公布“阿耳忒弥斯3号”任务最新安排](https://news.cctv.com/2026/10/24/ARTIg0EtFg1XlcKiSxw489Rs261024.shtml)
+

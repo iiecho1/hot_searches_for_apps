@@ -47,3 +47,11 @@
 
 + [月入零到月入百刀，自已没变，外人一直在变。](https://www.v2ex.com/t/1251417)
 
++ [Personal Agent 大家平时都拿来干啥？都有啥定时任务？](https://www.v2ex.com/t/1251415)
+
++ [Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了](https://www.v2ex.com/t/1251425)
+
++ [国行 iPhone Duo 如何在境内写入境外 eSIM？](https://www.v2ex.com/t/1251454)
+
++ [做匿名举报系统，难的不是表单，而是权限模型与动态隔离](https://www.v2ex.com/t/1251413)
+
