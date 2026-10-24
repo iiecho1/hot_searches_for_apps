@@ -127,3 +127,17 @@
 
 + [【论文阅读】Agent记忆机制（108）：系统级剖析长期记忆的构建、检索与部署成本](https://blog.csdn.net/weixin_45642847/article/details/168774600)
 
++ [【PBAP】规范精讲[7]: 蓝牙PBAP服务发现机制详解——让设备互相识别的关键流程](https://blog.csdn.net/weixin_37800531/article/details/168561541)
+
++ [Q1 SDK 接口实操：构建 aimdk_msgs 并用 ROS 2 本地 Mock 验证 Service 与 Topic](https://blog.csdn.net/Mrxiao_bo/article/details/168867620)
+
++ [从 PrimeHub 技能市场到 PrimeConsole 仿真验证——给启元机器人写第一个技能](https://blog.csdn.net/2302_78391795/article/details/168843165)
+
++ [Flowable 状态通知设计：单体用本地事件，微服务如何回写业务状态？](https://blog.csdn.net/zhouzhongyan/article/details/168651610)
+
++ [L3开源静态评测｜Facebook Memlab：浏览器内存泄漏工具源码尽调（证据可复现）](https://blog.csdn.net/TunerT_TQ/article/details/168748144)
+
++ [机器人检测软件哪个好用？](https://blog.csdn.net/tengshujc/article/details/168884981)
+
++ [PHP2Shell 漏洞解读：CVE-2026-109618/109619 影响面、原理与修复建议](https://blog.csdn.net/Li_Ya_Fei/article/details/168856864)
+

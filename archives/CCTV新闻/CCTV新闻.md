@@ -173,3 +173,15 @@
 
 + [教堂枪击事件致7死40伤 约旦宣布全国哀悼三天](https://news.cctv.com/2026/10/24/ARTINhLi9QxQV0dmEvhhOQRK261024.shtml)
 
++ [菲律宾空军两架教练机相撞 4名空军飞行员死亡](https://news.cctv.com/2026/10/24/ARTImDLkB81spU9wAm2Wm8nT261024.shtml)
+
++ [刚果（金）一关键性埃博拉疫苗临床试验启动接种](https://news.cctv.com/2026/10/24/ARTIvm0rjdpSwYcOEyEvjWUr261024.shtml)
+
++ [沙特主导联军拦截胡塞武装射向利雅得的导弹](https://news.cctv.com/2026/10/24/ARTIb3xlP58JTynAA1fLTRxT261024.shtml)
+
++ [约旦一教堂发生枪击致7死 政府称系恐袭](https://news.cctv.com/2026/10/24/ARTIwP0fiNO6oRi8O7INi3qK261024.shtml)
+
++ [俄司法部：对12名境外俄罗斯人实施暂时限制措施](https://news.cctv.com/2026/10/24/ARTIkvomwctnhEPssSjEc5KM261024.shtml)
+
++ [瓦努阿图群岛发生6.8级地震，震源深度10千米](https://news.cctv.com/2026/10/24/ARTInHtzLYbY8oFtUSShz3La261024.shtml)
+
