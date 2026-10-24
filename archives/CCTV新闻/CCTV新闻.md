@@ -157,3 +157,7 @@
 
 + [古巴谴责美方对劳尔·卡斯特罗发出逮捕令](https://news.cctv.com/2026/10/20/ARTIaYBYuf8lHIBaSI5mvZxx261020.shtml)
 
++ [高市执政这一年 扩军备武 扶植军工 图谋“再军事化”](https://news.cctv.com/2026/10/25/ARTIsMhyKLMhk6DnoRZXuL9E261025.shtml)
+
++ [多重动向叠加 如何影响俄乌冲突走向？](https://news.cctv.com/2026/10/25/ARTIcbwrqvkWGUSZ8n5OdT23261024.shtml)
+

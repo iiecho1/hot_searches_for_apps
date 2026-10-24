@@ -101,3 +101,21 @@
 
 + [BI 项目上线前，应该怎么验证一张报表的数据是否正确？](https://blog.csdn.net/powertoolsteam/article/details/168877400)
 
++ [AI时代桌面应用开发神器大比拼，Rust与仓颉语言对比实测(附测评案例)](https://blog.csdn.net/qq8864/article/details/168738314)
+
++ [【技术专题】HTML5 网页技术 - HTML5 地理定位 API & Web Workers](https://blog.csdn.net/caoli201314/article/details/168882958)
+
++ [容器化办公环境在NAS平台上的部署与可用性研究—以docker-wps-office为例](https://blog.csdn.net/weixin_52908342/article/details/168867429)
+
++ [AnalyticDB MySQL 技术架构](https://blog.csdn.net/weixin_44624117/article/details/168964398)
+
++ [告别臃肿的数据库客户端：用 Rust 驱动的 DBX 玩转跨数据库管理与 AI 协作](https://blog.csdn.net/yweng18/article/details/168876102)
+
++ [全国大学生智能汽车竞赛关于增补《指定车模供应商管理与器材溯源核验规则》的提案](https://blog.csdn.net/zhuoqingjoking97298/article/details/168972914)
+
++ [A 股创历史新低筛选器phthon爬虫脚本](https://blog.csdn.net/dp340823/article/details/168878675)
+
++ [Redis 缓存与数据库一致性：延迟双删、双写一致性、Canal 一文讲清](https://blog.csdn.net/2503_93374004/article/details/168876002)
+
++ [成为全栈·Taro 小程序篇·Markdown 投稿编辑器：原生输入、工具条与预览](https://blog.csdn.net/FungLeo/article/details/168962691)
+
