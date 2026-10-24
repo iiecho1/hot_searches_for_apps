@@ -21,3 +21,9 @@
 
 + [1024 节日快乐](https://www.v2ex.com/t/1251110)
 
++ [DeepSeek 融资 1000 亿人民币](https://www.v2ex.com/t/1251184)
+
++ [去了趟既熟悉又陌生的台湾](https://www.v2ex.com/t/1251258)
+
++ [电动剃须刀有没有推荐的。。。](https://www.v2ex.com/t/1251194)
+

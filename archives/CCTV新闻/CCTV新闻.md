@@ -169,3 +169,7 @@
 
 + [以军总参谋长：已在所有战线进入最高戒备状态](https://news.cctv.com/2026/10/24/ARTIbOw8ZcH2KDqoEOsOelhs261023.shtml)
 
++ [马里军方称5个多月来近五千恐怖分子“丧失战斗力”](https://news.cctv.com/2026/10/24/ARTIvi8cvgw82FfdeRNOUmZa261024.shtml)
+
++ [教堂枪击事件致7死40伤 约旦宣布全国哀悼三天](https://news.cctv.com/2026/10/24/ARTINhLi9QxQV0dmEvhhOQRK261024.shtml)
+

@@ -117,3 +117,13 @@
 
 + [使用OpenTelemetry监控ASP.NET应用](https://blog.csdn.net/liu_rui_/article/details/168660288)
 
++ [阿里云大数据组件](https://blog.csdn.net/weixin_44624117/article/details/168663239)
+
++ [告别臃肿的数据库客户端：用 Rust 驱动的 DBX 玩转跨数据库管理与 AI 协作](https://blog.csdn.net/yweng18/article/details/168876102)
+
++ [【计算机网络】第 3 篇：MAC 地址、IP 地址和端口有什么区别？一次讲清楚](https://blog.csdn.net/2401_86617027/article/details/168882257)
+
++ [【LLM】第十章：Agent中间件1：SummarizationMiddleware、HumanInTheLoopMiddleware、PIIMiddleware、TodoListMiddleware](https://blog.csdn.net/friday1203/article/details/168870921)
+
++ [【论文阅读】Agent记忆机制（108）：系统级剖析长期记忆的构建、检索与部署成本](https://blog.csdn.net/weixin_45642847/article/details/168774600)
+
