@@ -157,3 +157,5 @@
 
 + [鲁比奥称美国与乌克兰关系非常紧张](https://news.cctv.com/2026/10/20/ARTIEMm8EWksSlNp9AmZ6UV5261020.shtml)
 
++ [逾1300人在法国新一轮示威活动中被捕](https://news.cctv.com/2026/10/26/ARTIWMkv5LIQ87EmQ25fbyT1261025.shtml)
+

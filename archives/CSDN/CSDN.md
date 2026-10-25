@@ -101,3 +101,19 @@
 
 + [词法分析：核心原理与关键实现](https://blog.csdn.net/2401_82965090/article/details/168979470)
 
++ [【Linux网络】网络为什么要分层？从协议、OSI 到 TCP/IP，一次搭起网络通信整体框架](https://blog.csdn.net/2402_87731470/article/details/168884765)
+
++ [从语言指令到机器人动作：OpenVLA 论文拆解及对启元开发的启发](https://blog.csdn.net/Mrxiao_bo/article/details/168973632)
+
++ [【Valhalla L3 开源审计 #09】zeromq/libzmq｜经典高性能消息内核，L3全项核验PASS，MPL-2.0许可重点提醒](https://blog.csdn.net/TunerT_TQ/article/details/168965933)
+
++ [Linux进程篇（八）：打破物理内存的枷锁：起底 Linux 进程虚拟地址空间的深层结构](https://blog.csdn.net/2501_93641778/article/details/169062938)
+
++ [ElasticSearch的DSL核心语法详解](https://blog.csdn.net/benben044/article/details/168975233)
+
++ [用 Vue 3 + Electron 做桌宠：从启动退出到拖拽、单击与鼠标穿透](https://blog.csdn.net/qq_40716795/article/details/168881055)
+
++ [双11避坑：我用 WorkBuddy + TextIn xParse 做了个「避坑对比台」，商品详情图丢进去，参数矛盾自动现形](https://blog.csdn.net/Rqaqedamancy/article/details/168884898)
+
++ [前端网络请求详解：AJAX、XHR、Fetch、Axios、Beacon 的区别](https://blog.csdn.net/HX0942/article/details/168977418)
+
