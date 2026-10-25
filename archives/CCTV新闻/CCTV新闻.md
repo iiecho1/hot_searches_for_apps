@@ -175,3 +175,11 @@
 
 + [日本小笠原群岛地区发生6.5级地震，震源深度480千米](https://news.cctv.com/2026/10/25/ARTINqih08nRTvHLOA0HZvlJ261025.shtml)
 
++ [肯尼亚一客车与货车迎面相撞 已致22人死亡](https://news.cctv.com/2026/10/25/ARTIMRLNNcxqaiwFazuWdF6e261025.shtml)
+
++ [俄方称愿在11月4日后恢复俄美乌三方谈判](https://news.cctv.com/2026/10/25/ARTIsaSMSS2pxOyHP0iMSlzH261025.shtml)
+
++ [英国首相对恢复英欧人员自由流动持开放态度](https://news.cctv.com/2026/10/25/ARTI7nMO0YqYIxBb6qpzKWKy261025.shtml)
+
++ [英国宣布设立AI生物安全实验室](https://news.cctv.com/2026/10/25/ARTIPqNLWKDCSNgzsMhEJJ1m261025.shtml)
+

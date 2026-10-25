@@ -143,3 +143,27 @@
 
 + [机器人与机电一体化3D数字孪生机器-Day6](https://blog.csdn.net/qq_53797018/article/details/168977725)
 
++ [KingbaseES SQL 调优六步法：定位、诊断、下药、验证，一步都别省](https://blog.csdn.net/qq_57761637/article/details/168979308)
+
++ [AI 图片编辑如何保持一致：局部修改与透明通道](https://blog.csdn.net/weixin_74809706/article/details/168771087)
+
++ [【花雕动手做】行空板 K10｜小智 AI 聊天机器人 2.1.0 固件烧录 + 小智控制台智能体配置](https://blog.csdn.net/weixin_41659040/article/details/166486423)
+
++ [超立方体Ramsey（openai/math 家族171）H11攻坚日志｜D60–D69：Star分组重数、二幂坐标群、奇偶入射语义与Site‑Level候选计数形式化闭环](https://blog.csdn.net/TunerT_TQ/article/details/168772516)
+
++ [5 分钟内将 56 页扫描文档转化为带引用的答案：面向搜索无法读取的文档的检索增强生成流水线](https://blog.csdn.net/UbuntuTouch/article/details/169024933)
+
++ [MapReduce - Hadoop 生态中 MapReduce 的定位与关联组件](https://blog.csdn.net/qq_41187124/article/details/157685149)
+
++ [计算机网络篇8：传输层——序列化与反序列化，TCP 面向字节流的报文边界由应用层自己切](https://blog.csdn.net/2502_94387000/article/details/168245463)
+
++ [ragflow v0.27.3 发布：Go 后端迁移、Agentic RAG、解析能力、知识库检索与安全修复全面更新](https://blog.csdn.net/weixin_48502062/article/details/168882914)
+
++ [GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁](https://blog.csdn.net/weixin_40013817/article/details/169049722)
+
++ [【无线电】窄带物联网基站接收机的MATLAB仿真 生成符合标准的6个同时在线设备的上行链路波形](https://blog.csdn.net/m0_60703264/article/details/169063296)
+
++ [PokéBonk 宝可梦幸存者手机版怎么玩？安卓/iOS/网页三种方案（附手柄支持）](https://blog.csdn.net/wsgwz55/article/details/168971804)
+
++ [论平台工程（平台化架构）在云原生系统中的设计与实践](https://blog.csdn.net/ai_coder_ai/article/details/168947463)
+
