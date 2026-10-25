@@ -25,3 +25,19 @@
 
 + [大龄单身青年晚上都干啥](https://www.v2ex.com/t/1251553)
 
++ [之前加入等候名单的 MUSE，现在开通了](https://www.v2ex.com/t/1251500)
+
++ [大家现在上班每天早餐消费多少钱？](https://www.v2ex.com/t/1251530)
+
++ [为什么突然出现那么多类 ARC 浏览器](https://www.v2ex.com/t/1251519)
+
++ [目前 git 用起来让你最难受的一点是什么？](https://www.v2ex.com/t/1251461)
+
++ [claude 支持中国了？](https://www.v2ex.com/t/1251557)
+
++ [一个中年离职程序员的碎碎念&amp;求职一份 AI 相关的工作](https://www.v2ex.com/t/1251496)
+
++ [香港做地铁公交可以用支付宝微信吗](https://www.v2ex.com/t/1251479)
+
++ [入职某央企外包快崩不住了](https://www.v2ex.com/t/1251513)
+

@@ -173,3 +173,5 @@
 
 + [乌克兰防长称“星链”及“星盾”已恢复稳定通信](https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml)
 
++ [日本小笠原群岛地区发生6.5级地震，震源深度480千米](https://news.cctv.com/2026/10/25/ARTINqih08nRTvHLOA0HZvlJ261025.shtml)
+

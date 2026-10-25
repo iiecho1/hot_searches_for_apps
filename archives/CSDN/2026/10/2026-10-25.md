@@ -119,3 +119,27 @@
 
 + [成为全栈·Taro 小程序篇·Markdown 投稿编辑器：原生输入、工具条与预览](https://blog.csdn.net/FungLeo/article/details/168962691)
 
++ [GEO 是什么？为什么 AI 时代它比 SEO 更重要（墨衍 GEO 检测深度体验）](https://blog.csdn.net/u014727709/article/details/168974291)
+
++ [1024 特别篇（三）：AI 时代，程序员该怎样重新学习和成长？](https://blog.csdn.net/2501_91731683/article/details/168872634)
+
++ [从一句话到一个会呼吸的镜头：基于SpringBoot用硅基流动 Wan2.2 打通「文本生成视频」全链路](https://blog.csdn.net/yelangkingwuzuhu/article/details/168966679)
+
++ [【Linux-System】【System V共享内存：从原理到实战的完整解析】流食般投喂](https://blog.csdn.net/dj_798/article/details/168975999)
+
++ [# C++ 微服务即时通讯系统（一）：从一条消息看整体架构](https://blog.csdn.net/2502_93510665/article/details/168975273)
+
++ [Kimi K3.1 Pro 评测：能力进了第一梯队，成本这笔账得另算](https://blog.csdn.net/2401_88601046/article/details/168978066)
+
++ [一台数据集成软件的拆解笔记（上）：把 KFS 装起来、跑起来，再挑一堆毛病](https://blog.csdn.net/qq_32682301/article/details/168979886)
+
++ [【C#】体验和使用墨衍MoGrow平台写一篇技术总结文章，提供C#,Quart.Net,统一捕获异常,定时任务关键词，看看出来效果如何](https://blog.csdn.net/lmy_520/article/details/168974819)
+
++ [当浏览器插件截胡DOM查询：前端宿主非封闭性与跨窗口样式防御实战](https://blog.csdn.net/qq_46987323/article/details/168978041)
+
++ [从零搭建一套 Flutter 架构：先跑通数据流](https://blog.csdn.net/z_zT_T/article/details/168974948)
+
++ [从零搭建一个现代化的验证码登录系统：Spring Boot + 阿里云短信实战教程 ](https://blog.csdn.net/q12ERTYU/article/details/161901240)
+
++ [机器人与机电一体化3D数字孪生机器-Day6](https://blog.csdn.net/qq_53797018/article/details/168977725)
+
