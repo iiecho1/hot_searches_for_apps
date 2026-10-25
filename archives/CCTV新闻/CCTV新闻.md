@@ -161,3 +161,15 @@
 
 + [多重动向叠加 如何影响俄乌冲突走向？](https://news.cctv.com/2026/10/25/ARTIcbwrqvkWGUSZ8n5OdT23261024.shtml)
 
++ [马里军方在梅纳卡市附近发现54具遗体](https://news.cctv.com/2026/10/25/ARTIt0zvfBAmxWyLsBw6YSZ1261025.shtml)
+
++ [时间已敲定 俄乌局部同步停火能否成为打破僵局契机？](https://news.cctv.com/2026/10/25/ARTIu7QPpgVVDL3tr1mvINdu261025.shtml)
+
++ [法国数十万人参与新一轮示威游行 约千人被捕](https://news.cctv.com/2026/10/25/ARTICFFW4bOxBxIaOcHvXGP5261025.shtml)
+
++ [法国新一轮示威活动中135人被逮捕](https://news.cctv.com/2026/10/25/ARTILlX9d51iXgW5DhElDzXd261025.shtml)
+
++ [伊朗武装部队：任何情况下都不允许美军船只进入波斯湾](https://news.cctv.com/2026/10/25/ARTIAASxR0PvU3GravETnH4t261025.shtml)
+
++ [乌克兰防长称“星链”及“星盾”已恢复稳定通信](https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml)
+
