@@ -167,3 +167,19 @@
 
 + [论平台工程（平台化架构）在云原生系统中的设计与实践](https://blog.csdn.net/ai_coder_ai/article/details/168947463)
 
++ [用 Spring AI 搭 RAG 问答：把公司文档喂给大模型（全链路实战）](https://blog.csdn.net/sinat_41617212/article/details/169058262)
+
++ [【AI智能体】Codex 实现AI自动化运维实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/166849454)
+
++ [MySQL 26.10.0 正式发布，四大核心升级](https://blog.csdn.net/weixin_41645135/article/details/169066420)
+
++ [Spring MVC小案例（1）](https://blog.csdn.net/java_nnnn/article/details/168028178)
+
++ [Nginx代理服务器完整教程｜反向代理、负载均衡、动静分离实战](https://blog.csdn.net/m0_63990694/article/details/168660870)
+
++ [【知识讲解】 Linux信号的认识与使用](https://blog.csdn.net/2501_93971468/article/details/168982698)
+
++ [TS学习（3）交叉类型与泛型深度解析](https://blog.csdn.net/keyipatience/article/details/168969590)
+
++ [一个人，一支内容团队：我的高效创作之道](https://blog.csdn.net/sjw890821sjw/article/details/168775022)
+

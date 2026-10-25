@@ -21,3 +21,15 @@
 
 + [makecindy/cindy](https://github.com/makecindy/cindy)
 
++ [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
++ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
++ [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+
++ [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+
++ [coollabsio/coolify](https://github.com/coollabsio/coolify)
+
++ [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
+
