@@ -21,3 +21,5 @@
 
 + [出闲置 M1 PRO 32GB 1T 美版](https://www.v2ex.com/t/1251641)
 
++ [有件事我搞不明白， V 站为何不升级一下交互和 UI？然后出一个官方的 APP？](https://www.v2ex.com/t/1251696)
+

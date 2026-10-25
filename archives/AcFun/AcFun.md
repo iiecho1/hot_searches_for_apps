@@ -69,3 +69,7 @@
 
 + [【up创作大赛】夏天的回忆](https://m.acfun.cn/v/?ac=48938494)
 
++ [[伴奏](つなまる)Paranoia](https://m.acfun.cn/v/?ac=48937760)
+
++ [【DAY2】Ave Mujica 7th LIVE「Virtus」 DAY2](https://m.acfun.cn/v/?ac=48938461)
+
