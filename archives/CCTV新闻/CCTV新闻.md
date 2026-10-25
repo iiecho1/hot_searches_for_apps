@@ -1,5 +1,33 @@
 ## CCTV新闻 
-### 2026-10-25
+### 2026-10-26
+
++ [以色列议会选举在即 以军在约旦河西岸大举行动](https://news.cctv.com/2026/10/26/ARTIo0REJz45eGybxQxjYYv4261026.shtml)
+
++ [肯尼亚一客车与货车迎面相撞 已致22人死亡](https://news.cctv.com/2026/10/25/ARTIMRLNNcxqaiwFazuWdF6e261025.shtml)
+
++ [俄方称愿在11月4日后恢复俄美乌三方谈判](https://news.cctv.com/2026/10/25/ARTIsaSMSS2pxOyHP0iMSlzH261025.shtml)
+
++ [英国首相对恢复英欧人员自由流动持开放态度](https://news.cctv.com/2026/10/25/ARTI7nMO0YqYIxBb6qpzKWKy261025.shtml)
+
++ [英国宣布设立AI生物安全实验室](https://news.cctv.com/2026/10/25/ARTIPqNLWKDCSNgzsMhEJJ1m261025.shtml)
+
++ [日本小笠原群岛地区发生6.5级地震，震源深度480千米](https://news.cctv.com/2026/10/25/ARTINqih08nRTvHLOA0HZvlJ261025.shtml)
+
++ [马里军方在梅纳卡市附近发现54具遗体](https://news.cctv.com/2026/10/25/ARTIt0zvfBAmxWyLsBw6YSZ1261025.shtml)
+
++ [时间已敲定 俄乌局部同步停火能否成为打破僵局契机？](https://news.cctv.com/2026/10/25/ARTIu7QPpgVVDL3tr1mvINdu261025.shtml)
+
++ [法国数十万人参与新一轮示威游行 约千人被捕](https://news.cctv.com/2026/10/25/ARTICFFW4bOxBxIaOcHvXGP5261025.shtml)
+
++ [法国新一轮示威活动中135人被逮捕](https://news.cctv.com/2026/10/25/ARTILlX9d51iXgW5DhElDzXd261025.shtml)
+
++ [伊朗武装部队：任何情况下都不允许美军船只进入波斯湾](https://news.cctv.com/2026/10/25/ARTIAASxR0PvU3GravETnH4t261025.shtml)
+
++ [乌克兰防长称“星链”及“星盾”已恢复稳定通信](https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml)
+
++ [高市执政这一年 扩军备武 扶植军工 图谋“再军事化”](https://news.cctv.com/2026/10/25/ARTIsMhyKLMhk6DnoRZXuL9E261025.shtml)
+
++ [多重动向叠加 如何影响俄乌冲突走向？](https://news.cctv.com/2026/10/25/ARTIcbwrqvkWGUSZ8n5OdT23261024.shtml)
 
 + [美航空航天局公布“阿耳忒弥斯3号”任务最新安排](https://news.cctv.com/2026/10/24/ARTIg0EtFg1XlcKiSxw489Rs261024.shtml)
 
@@ -128,58 +156,4 @@
 + [日专家：日本引进核潜艇将严重冲击地区安全](https://news.cctv.com/2026/10/20/ARTIChrcxxEntjY7o1PaCXfB261020.shtml)
 
 + [鲁比奥称美国与乌克兰关系非常紧张](https://news.cctv.com/2026/10/20/ARTIEMm8EWksSlNp9AmZ6UV5261020.shtml)
-
-+ [海地武装帮派袭击装甲车 4名萨尔瓦多士兵失踪](https://news.cctv.com/2026/10/20/ARTIcP0LQIkvGHhrDd7Cj5zd261020.shtml)
-
-+ [俄外长：俄专家正陆续返回伊朗布什尔核电站项目](https://news.cctv.com/2026/10/20/ARTIE28GuTaovQ3eCMst3e6V261020.shtml)
-
-+ [驻英国使馆提醒中国公民注意英方出入境检查](https://news.cctv.com/2026/10/20/ARTIr2oNDOsPhiDVM4XC0aZk261020.shtml)
-
-+ [韩国外交部：将撤回驻乌克兰使馆部分工作人员](https://news.cctv.com/2026/10/20/ARTI6ResYfuljpNpKFIp9kj8261020.shtml)
-
-+ [孟加拉国发生一起交通事故 至少14人死亡](https://news.cctv.com/2026/10/20/ARTITFlUfl7rX1WAz8D4dIFJ261020.shtml)
-
-+ [媒体测算显示加拿大艾伯塔省公投赞成继续留在联邦](https://news.cctv.com/2026/10/20/ARTIgW05WAQ0UZmPeCf2nP8W261020.shtml)
-
-+ [瓦努阿图群岛发生6.1级地震 震源深度10千米](https://news.cctv.com/2026/10/20/ARTInj41uQ4AXceVsqXMc51C261020.shtml)
-
-+ [安理会全票通过防范数字技术侵害冲突中儿童的决议](https://news.cctv.com/2026/10/20/ARTIh0juF5LFLLe69Jz3sdTy261020.shtml)
-
-+ [韩国华城电池厂火灾涉事企业代表终审获刑4年](https://news.cctv.com/2026/10/20/ARTIgNumCnlR99bXy2jht56R261020.shtml)
-
-+ [特朗普说应立即将美国新墨西哥州更名为“新美国州”](https://news.cctv.com/2026/10/20/ARTIj8B9t58NOz7J2Zm5nmzF261020.shtml)
-
-+ [全球媒体聚焦中国三季度经济表现 新质生产力成增长关键动力](https://news.cctv.com/2026/10/20/ARTIsQYvuwnNclNsS5TZpSgn261020.shtml)
-
-+ [也门政府军军事基地遭袭 死亡人数升至53人](https://news.cctv.com/2026/10/20/ARTIwiH29e7lIUDtrAdHAuXX261020.shtml)
-
-+ [阿根廷对一项最新军购实施保密制度](https://news.cctv.com/2026/10/20/ARTIktIEGkVyFcWSMVdNPSlY261020.shtml)
-
-+ [古巴谴责美方对劳尔·卡斯特罗发出逮捕令](https://news.cctv.com/2026/10/20/ARTIaYBYuf8lHIBaSI5mvZxx261020.shtml)
-
-+ [高市执政这一年 扩军备武 扶植军工 图谋“再军事化”](https://news.cctv.com/2026/10/25/ARTIsMhyKLMhk6DnoRZXuL9E261025.shtml)
-
-+ [多重动向叠加 如何影响俄乌冲突走向？](https://news.cctv.com/2026/10/25/ARTIcbwrqvkWGUSZ8n5OdT23261024.shtml)
-
-+ [马里军方在梅纳卡市附近发现54具遗体](https://news.cctv.com/2026/10/25/ARTIt0zvfBAmxWyLsBw6YSZ1261025.shtml)
-
-+ [时间已敲定 俄乌局部同步停火能否成为打破僵局契机？](https://news.cctv.com/2026/10/25/ARTIu7QPpgVVDL3tr1mvINdu261025.shtml)
-
-+ [法国数十万人参与新一轮示威游行 约千人被捕](https://news.cctv.com/2026/10/25/ARTICFFW4bOxBxIaOcHvXGP5261025.shtml)
-
-+ [法国新一轮示威活动中135人被逮捕](https://news.cctv.com/2026/10/25/ARTILlX9d51iXgW5DhElDzXd261025.shtml)
-
-+ [伊朗武装部队：任何情况下都不允许美军船只进入波斯湾](https://news.cctv.com/2026/10/25/ARTIAASxR0PvU3GravETnH4t261025.shtml)
-
-+ [乌克兰防长称“星链”及“星盾”已恢复稳定通信](https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml)
-
-+ [日本小笠原群岛地区发生6.5级地震，震源深度480千米](https://news.cctv.com/2026/10/25/ARTINqih08nRTvHLOA0HZvlJ261025.shtml)
-
-+ [肯尼亚一客车与货车迎面相撞 已致22人死亡](https://news.cctv.com/2026/10/25/ARTIMRLNNcxqaiwFazuWdF6e261025.shtml)
-
-+ [俄方称愿在11月4日后恢复俄美乌三方谈判](https://news.cctv.com/2026/10/25/ARTIsaSMSS2pxOyHP0iMSlzH261025.shtml)
-
-+ [英国首相对恢复英欧人员自由流动持开放态度](https://news.cctv.com/2026/10/25/ARTI7nMO0YqYIxBb6qpzKWKy261025.shtml)
-
-+ [英国宣布设立AI生物安全实验室](https://news.cctv.com/2026/10/25/ARTIPqNLWKDCSNgzsMhEJJ1m261025.shtml)
 
