@@ -1,5 +1,33 @@
 ## CCTV新闻 
-### 2026-10-26
+### 2026-10-27
+
++ [联合国调查委员会：以色列在加沙持续实施种族灭绝](https://news.cctv.com/2026/10/27/ARTI6WU7HG5cg8k65SGYQSkf261026.shtml)
+
++ [伊朗总统：伊朗的目标是发展多边主义](https://news.cctv.com/2026/10/26/ARTIqwXgAD21NZ39Re3BM4gs261026.shtml)
+
++ [美官员透露称美军已准备好再次大规模打击伊朗](https://news.cctv.com/2026/10/26/ARTIwmC5JyulNYBBOwdzZMri261026.shtml)
+
++ [中国驻英国使馆发言人就部分媒体炒作所谓“中国制造业崛起对西方高端产业形成冲击”答记者问](https://news.cctv.com/2026/10/26/ARTI6XPuZrCLkQGhTj5q0Zmt261026.shtml)
+
++ [中国生物多样性保护实践为世界提供宝贵启示](https://news.cctv.com/2026/10/26/ARTIleOytZfJE9WrQSLoKGV3261026.shtml)
+
++ [事发多日 日本政府首次回应日企活动引发蒙古国草原火灾](https://news.cctv.com/2026/10/26/ARTIle6O9W6i5wnlGRSWUGTX261026.shtml)
+
++ [泽连斯基提议将乌克兰战时状态和总动员延长90天](https://news.cctv.com/2026/10/26/ARTICFUS18S6zejrwdpuj6S5261026.shtml)
+
++ [刚果（金）埃博拉确诊病例接近一万 死亡病例升至4841例](https://news.cctv.com/2026/10/26/ARTIFXjsrSs30ua5SXIXiP9E261026.shtml)
+
++ [卢拉：感谢人民支持 巴西“不是任何人的后院”](https://news.cctv.com/2026/10/26/ARTIsy97YGKiqi6m4moJc9Jb261026.shtml)
+
++ [卢拉成功连任 当选巴西新一任总统](https://news.cctv.com/2026/10/26/ARTIKcYS7YWFU64Mf7HMb76w261026.shtml)
+
++ [新西兰2026年大选提前投票启动](https://news.cctv.com/2026/10/26/ARTIaLFB3fmFcXJpNjYKu8ik261026.shtml)
+
++ [因交通及天气原因 巴西总统选举第二轮投票时间延长](https://news.cctv.com/2026/10/26/ARTIUYJ01u41YWXuMP8CkbYr261026.shtml)
+
++ [塞尔维亚“学生名单-学生获胜”宣布议会选举获胜](https://news.cctv.com/2026/10/26/ARTIOvm9WWpvsyob0TtwJ5g8261026.shtml)
+
++ [逾1300人在法国新一轮示威活动中被捕](https://news.cctv.com/2026/10/26/ARTIWMkv5LIQ87EmQ25fbyT1261025.shtml)
 
 + [以色列议会选举在即 以军在约旦河西岸大举行动](https://news.cctv.com/2026/10/26/ARTIo0REJz45eGybxQxjYYv4261026.shtml)
 
@@ -130,48 +158,4 @@
 + [“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声](https://news.cctv.com/2026/10/22/ARTIBj5nzBCPCeWzL0FTzKlZ261022.shtml)
 
 + [古巴指责美国施压其他国家 企图影响联大涉古决议表决](https://news.cctv.com/2026/10/22/ARTI55H6uPm9Oktt3YDeITxZ261022.shtml)
-
-+ [三问日本执政联盟拟修订“安保三文件”](https://news.cctv.com/2026/10/22/ARTIPqNNAEmE96z7IrMqeaZX261022.shtml)
-
-+ [一份德国报告里的中欧经贸之思（环球走笔）](https://news.cctv.com/2026/10/21/ARTIm48TA06isJwK9QpIfXL3261021.shtml)
-
-+ [英国9月通胀率升至3.5% 交通运输成本上涨成主因](https://news.cctv.com/2026/10/21/ARTIhevfOZ1HSiiNEt02WU4c261021.shtml)
-
-+ [美媒：马斯克上周下令对乌克兰使用“星盾” 进行限速](https://news.cctv.com/2026/10/21/ARTIvgqbY2N9rHhBQ4CTzGp5261021.shtml)
-
-+ [长征具有跨越时代与国界的启示意义（国际论坛）](https://news.cctv.com/2026/10/21/ARTIEhrrQJvMjTjW8iQbWZvH261021.shtml)
-
-+ [朝中社：日本执政者散布军国主义毒素](https://news.cctv.com/2026/10/21/ARTIpmvo9C3zPT7Vt1rCEorF261021.shtml)
-
-+ [威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕](https://news.cctv.com/2026/10/21/ARTI3Rjl5ctWXsSIUE0Jwzzr261021.shtml)
-
-+ [欧洲天然气基准价格近4年来首次突破90欧元](https://news.cctv.com/2026/10/21/ARTIXI8KeFlIXvc0pitrMfAD261020.shtml)
-
-+ [以色列组建太空部队](https://news.cctv.com/2026/10/20/ARTIbv2wVipuwFVbTDv74Zh4261020.shtml)
-
-+ [泽连斯基：希望美方不要干涉乌克兰选举问题](https://news.cctv.com/2026/10/20/ARTI7r0HcVJYNKZHZkJkBntP261020.shtml)
-
-+ [伊朗消息人士：调解方对美国是否能做出最终决定缺乏信心](https://news.cctv.com/2026/10/20/ARTIRTmDW0AW8VtDSHOYvfsA261020.shtml)
-
-+ [日专家：日本引进核潜艇将严重冲击地区安全](https://news.cctv.com/2026/10/20/ARTIChrcxxEntjY7o1PaCXfB261020.shtml)
-
-+ [鲁比奥称美国与乌克兰关系非常紧张](https://news.cctv.com/2026/10/20/ARTIEMm8EWksSlNp9AmZ6UV5261020.shtml)
-
-+ [逾1300人在法国新一轮示威活动中被捕](https://news.cctv.com/2026/10/26/ARTIWMkv5LIQ87EmQ25fbyT1261025.shtml)
-
-+ [新西兰2026年大选提前投票启动](https://news.cctv.com/2026/10/26/ARTIaLFB3fmFcXJpNjYKu8ik261026.shtml)
-
-+ [因交通及天气原因 巴西总统选举第二轮投票时间延长](https://news.cctv.com/2026/10/26/ARTIUYJ01u41YWXuMP8CkbYr261026.shtml)
-
-+ [塞尔维亚“学生名单-学生获胜”宣布议会选举获胜](https://news.cctv.com/2026/10/26/ARTIOvm9WWpvsyob0TtwJ5g8261026.shtml)
-
-+ [卢拉成功连任 当选巴西新一任总统](https://news.cctv.com/2026/10/26/ARTIKcYS7YWFU64Mf7HMb76w261026.shtml)
-
-+ [卢拉：感谢人民支持 巴西“不是任何人的后院”](https://news.cctv.com/2026/10/26/ARTIsy97YGKiqi6m4moJc9Jb261026.shtml)
-
-+ [事发多日 日本政府首次回应日企活动引发蒙古国草原火灾](https://news.cctv.com/2026/10/26/ARTIle6O9W6i5wnlGRSWUGTX261026.shtml)
-
-+ [泽连斯基提议将乌克兰战时状态和总动员延长90天](https://news.cctv.com/2026/10/26/ARTICFUS18S6zejrwdpuj6S5261026.shtml)
-
-+ [刚果（金）埃博拉确诊病例接近一万 死亡病例升至4841例](https://news.cctv.com/2026/10/26/ARTIFXjsrSs30ua5SXIXiP9E261026.shtml)
 
