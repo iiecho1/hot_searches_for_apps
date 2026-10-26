@@ -101,3 +101,17 @@
 
 + [【宠粉赠书】一本书讲透具身智能：技术、应用、商业与未来](https://blog.csdn.net/weixin_41793160/article/details/169071161)
 
++ [如何设计 Agent 平台的整体架构？一份工程手册](https://blog.csdn.net/universsky2015/article/details/168979385)
+
++ [白话大模型（一）：AI、机器学习、深度学习、生成式AI、大语言模型——一文理清五者的关系](https://blog.csdn.net/lrq13965748542/article/details/168977807)
+
++ [【计算机网络】第 4 篇：ARP、DHCP、子网掩码和路由到底在做什么？](https://blog.csdn.net/2401_86617027/article/details/168976572)
+
++ [《C++ 工具库实战》gflags 命令行参数解析库详解](https://blog.csdn.net/2501_91275995/article/details/167586216)
+
++ [【Linux 系统篇(三十二)】通信(二)：命名管道详解](https://blog.csdn.net/Huang_jin007/article/details/168976427)
+
++ [【翼型】基于遗传算法和非线性规划实现NACA 2412翼型几何优化Matlab实现](https://blog.csdn.net/matlab_dingdang/article/details/169161194)
+
++ [【机器人】二维多机器人路径规划+主从编队控制｜A星+SDF + 人工势场 APF+PID 跟踪MATLAB实现](https://blog.csdn.net/Matlab_dashi/article/details/169162903)
+

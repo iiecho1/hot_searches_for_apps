@@ -159,3 +159,5 @@
 
 + [古巴指责美国施压其他国家 企图影响联大涉古决议表决](https://news.cctv.com/2026/10/22/ARTI55H6uPm9Oktt3YDeITxZ261022.shtml)
 
++ [COP17主席：中国为COP17谈判提供重要助力](https://news.cctv.com/2026/10/27/ARTIHq9kha3OyX7RECrUuhaV261026.shtml)
+
