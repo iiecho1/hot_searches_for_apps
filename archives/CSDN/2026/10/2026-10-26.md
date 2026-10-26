@@ -121,3 +121,19 @@
 
 + [线性代数 [ 线性组合·张成的空间与基 ]](https://blog.csdn.net/Small_entreprene/article/details/168974557)
 
++ [【c++20】协程与屏障](https://blog.csdn.net/he_zhidan/article/details/167802433)
+
++ [三甲医院AI的1163实施路径（下）](https://blog.csdn.net/kkiron/article/details/169067166)
+
++ [白话大模型（一）：AI、机器学习、深度学习、生成式AI、大语言模型——一文理清五者的关系](https://blog.csdn.net/lrq13965748542/article/details/168977807)
+
++ [【Linux】make & Makefile 核心知识点](https://blog.csdn.net/2603_95853495/article/details/169068868)
+
++ [别再 sleep(3) 了：把 Playwright 脚本从演示品磨成能进 CI 的自动化资产](https://blog.csdn.net/2301_78967866/article/details/169066245)
+
++ [Agent 沙箱实现原理：拆解 DeepSeek Harness 的三层沙箱架构与三平台后端](https://blog.csdn.net/weixin_35774598/article/details/169068001)
+
++ [孩子看电视总凑太近？用 QuecDuino 做个会测距的护眼哨](https://blog.csdn.net/sjw890821sjw/article/details/168968406)
+
++ [从 0 到上线：我用 CodeBuddy 做了一款带 Web 后台的小程序（完整避坑记录）](https://blog.csdn.net/qq_21563527/article/details/169126546)
+

@@ -167,3 +167,5 @@
 
 + [卢拉成功连任 当选巴西新一任总统](https://news.cctv.com/2026/10/26/ARTIKcYS7YWFU64Mf7HMb76w261026.shtml)
 
++ [卢拉：感谢人民支持 巴西“不是任何人的后院”](https://news.cctv.com/2026/10/26/ARTIsy97YGKiqi6m4moJc9Jb261026.shtml)
+
