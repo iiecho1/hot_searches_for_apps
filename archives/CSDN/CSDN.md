@@ -137,3 +137,41 @@
 
 + [从 0 到上线：我用 CodeBuddy 做了一款带 Web 后台的小程序（完整避坑记录）](https://blog.csdn.net/qq_21563527/article/details/169126546)
 
++ [AI Agent 工程化开发实战（三）：StateGraph 与状态管理——节点、边、Reducer](https://blog.csdn.net/xiaobing259/article/details/168774285)
+
++ [超级马里奥常驻极空间以后怎么打开？Docker运行游戏页面，手机电脑都能从浏览器进入](https://blog.csdn.net/hanwangyyds/article/details/169156442)
+
++ [Windows部署Hermes Agent并接入微信：模型配置、Gateway消息入口和Web控制台都跑通](https://blog.csdn.net/weixin_42878111/article/details/169151785)
+
++ [Windows、Linux、macOS都能运行Nging：装好以后直接从浏览器查看服务器、文件和数据库](https://blog.csdn.net/weixin_44976692/article/details/169152113)
+
++ [SQL Server 迁电科金仓：那三周我记下的真事](https://blog.csdn.net/beautifulmemory/article/details/169070674)
+
++ [OpenWebUI部署实战：Python 3.11、Ollama、DeepSeek R1与固定地址访问](https://blog.csdn.net/2301_76341691/article/details/169152587)
+
++ [llama.cpp + SpringBoot3：本地部署 Qwen3.8，接入 AgentOS 企业办公智能体](https://blog.csdn.net/zhouzhongyan/article/details/167589736)
+
++ [【AI】用 Python 做一个 AI 截图检索助手：把收藏夹里的截图找回来](https://blog.csdn.net/2501_91731683/article/details/169061489)
+
++ [CentOS 7运行PostgreSQL，Docker跑pgAdmin：宿主机数据库接通后直接在网页里管理库和角色](https://blog.csdn.net/2402_86350387/article/details/169164298)
+
++ [从拌合站人工录入到发票内控：我用 xParse 搭建企业文档工作台](https://blog.csdn.net/Mrxiao_bo/article/details/169066012)
+
++ [【鸿蒙心迹】HarmonyOS笔记17：父子组件参数与状态](https://blog.csdn.net/weixin_47431459/article/details/167815049)
+
++ [【机器人】二维多机器人路径规划+主从编队控制｜A星+SDF + 人工势场 APF+PID 跟踪MATLAB实现](https://blog.csdn.net/Matlab_dashi/article/details/169162903)
+
++ [机器人与机电一体化3D数字孪生机器-Day7](https://blog.csdn.net/qq_53797018/article/details/169070603)
+
++ [一句话如何变成机器人技能：给启元搭一个本地技能调度器](https://blog.csdn.net/JHXL_/article/details/168975945)
+
++ [FPGA DAC 目标码限速器：每拍限步、目标反向与满量程跨越的实测验证](https://blog.csdn.net/hxy_programmer/article/details/169070479)
+
++ [网上制作 DeepSeek「大肥鱼」：从 0 到 1 养一条自己的 AI 桌宠](https://blog.csdn.net/yangmu3203/article/details/168882232)
+
++ [我砍掉了FPGA里的ARM核项目反而提前交付了](https://blog.csdn.net/weixin_46897017/article/details/169055176)
+
++ [PL 端（FPGA 硬件）像水龙头一样疯狂产出数据，通过 DMA 搬运到 PS 端（内存），再由 ARM 处理器打包，最后通过千兆网口发给电脑---deepseek](https://blog.csdn.net/AlibabaApple/article/details/168978262)
+
++ [Noita 元胞沙盒笔记](https://blog.csdn.net/weixin_43010844/article/details/169067187)
+

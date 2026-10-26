@@ -169,3 +169,9 @@
 
 + [卢拉：感谢人民支持 巴西“不是任何人的后院”](https://news.cctv.com/2026/10/26/ARTIsy97YGKiqi6m4moJc9Jb261026.shtml)
 
++ [事发多日 日本政府首次回应日企活动引发蒙古国草原火灾](https://news.cctv.com/2026/10/26/ARTIle6O9W6i5wnlGRSWUGTX261026.shtml)
+
++ [泽连斯基提议将乌克兰战时状态和总动员延长90天](https://news.cctv.com/2026/10/26/ARTICFUS18S6zejrwdpuj6S5261026.shtml)
+
++ [刚果（金）埃博拉确诊病例接近一万 死亡病例升至4841例](https://news.cctv.com/2026/10/26/ARTIFXjsrSs30ua5SXIXiP9E261026.shtml)
+

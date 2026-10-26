@@ -23,3 +23,17 @@
 
 + [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
 
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+
++ [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
+
++ [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
++ [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+
++ [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
+
++ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+

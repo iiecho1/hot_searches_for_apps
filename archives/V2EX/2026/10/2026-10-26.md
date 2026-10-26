@@ -39,3 +39,7 @@
 
 + [Mac mini M6 价格彻底崩了](https://www.v2ex.com/t/1251751)
 
++ [来聊聊大家第一次被 AI 真正震撼到的瞬间吧](https://www.v2ex.com/t/1251765)
+
++ [反思了下，原来我是个黄毛](https://www.v2ex.com/t/1251781)
+
