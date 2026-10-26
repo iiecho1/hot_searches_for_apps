@@ -73,3 +73,7 @@
 
 + [【DAY2】Ave Mujica 7th LIVE「Virtus」 DAY2](https://m.acfun.cn/v/?ac=48938461)
 
++ [[伴奏](つなまる)Paranoia](https://m.acfun.cn/v/?ac=48937760)
+
++ [恋爱的条件2](https://m.acfun.cn/v/?ac=48937917)
+

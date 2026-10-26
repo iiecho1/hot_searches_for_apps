@@ -165,3 +165,5 @@
 
 + [塞尔维亚“学生名单-学生获胜”宣布议会选举获胜](https://news.cctv.com/2026/10/26/ARTIOvm9WWpvsyob0TtwJ5g8261026.shtml)
 
++ [卢拉成功连任 当选巴西新一任总统](https://news.cctv.com/2026/10/26/ARTIKcYS7YWFU64Mf7HMb76w261026.shtml)
+
