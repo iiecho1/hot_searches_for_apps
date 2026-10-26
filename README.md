@@ -43,3 +43,7 @@ archives/
 - **2023-12-15**: 开始自建 API → [api-for-hot-search-golang](https://github.com/iiecho1/api-for-hot-search-golang)
 - **2023-10-22**: 按天归档，去重，改为每小时执行
 - **2023-08-16**: 项目启动
+
+## License
+
+本项目（代码与文档）采用 [MIT License](./LICENSE) 开源，可自由使用、修改、分发与商用，保留版权声明即可。
