@@ -169,3 +169,17 @@
 
 + [伊沙土巴四国同意磋商加强地区和平与安全领域合作](https://news.cctv.com/2026/10/27/ARTIQG12UUw6z6tbvegpGzP7261027.shtml)
 
++ [南苏丹瓦拉卜州政府通报一起武装袭击致72死38伤](https://news.cctv.com/2026/10/27/ARTIwsmMT4fES6dUBTS4ee5E261027.shtml)
+
++ [安哥拉接连发生抢劫案件，被抢中国公民中有人被杀害，中使馆发布提醒](https://news.cctv.com/2026/10/27/ARTIHDlD30tHY1BgTFVBCTnY261027.shtml)
+
++ [国际民航组织撤销对利比亚实施了10余年的空域限制](https://news.cctv.com/2026/10/27/ARTIbEdH0psRVXjZQFCFTYaE261027.shtml)
+
++ [蒙古国总理将东部保护区大火定性为严重生态事件](https://news.cctv.com/2026/10/27/ARTIzDgi6PjfzEE8d2hoUela261027.shtml)
+
++ [驻法兰克福总领馆提醒领区中国公民注意防范游行示威相关风险](https://news.cctv.com/2026/10/27/ARTIi578GGlO2L8bOQV2grWL261027.shtml)
+
++ [乌克兰基辅市发生多次爆炸](https://news.cctv.com/2026/10/27/ARTIwIQZPXy3iPt2KheqPxn5261027.shtml)
+
++ [纪念东京审判开庭80周年图片展在纽约联合国总部开展](https://news.cctv.com/2026/10/27/ARTIeewBFQ5yGPeWlpEpLFMi261027.shtml)
+

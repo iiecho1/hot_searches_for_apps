@@ -35,3 +35,17 @@
 
 + [self-host 代码仓库，各位老哥公司里都是什么方案？](https://www.v2ex.com/t/1251810)
 
++ [深夜求助，物业只提前 1 小时通知停电，导致我家里电脑坏了](https://www.v2ex.com/t/1252074)
+
++ [请问一下 v 友们平常都是喝什么水的？](https://www.v2ex.com/t/1252085)
+
++ [iPhone Duo 有感](https://www.v2ex.com/t/1252088)
+
++ [35➕真的是老了吗](https://www.v2ex.com/t/1252134)
+
++ [iPad mini 更新 还是祖传 60hz](https://www.v2ex.com/t/1252032)
+
++ [[送码] Mu3ic 重磅更新！支持车机播放和电台，完美横屏播放， Navidrome 最佳播放器， Nas 音乐玩家的优选](https://www.v2ex.com/t/1252164)
+
++ [《关于我和一个教师恋爱一年的经历》后续](https://www.v2ex.com/t/1252184)
+
