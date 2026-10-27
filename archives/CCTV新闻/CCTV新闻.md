@@ -161,3 +161,11 @@
 
 + [COP17主席：中国为COP17谈判提供重要助力](https://news.cctv.com/2026/10/27/ARTIHq9kha3OyX7RECrUuhaV261026.shtml)
 
++ [阿尔及利亚总统决定向尼日尔派遣军队](https://news.cctv.com/2026/10/27/ARTIsylCXLa4D5z4J13UnyNI261027.shtml)
+
++ [以色列议会选举，内塔尼亚胡能否挺过命运“大考”？](https://news.cctv.com/2026/10/27/ARTIvpB1vtTKrO2yYC5BW9jT261027.shtml)
+
++ [墨西哥总统称多次拒绝美方入境开展缉毒行动的要求](https://news.cctv.com/2026/10/27/ARTItBMu3ebU6zZ6RaTZcYt0261027.shtml)
+
++ [伊沙土巴四国同意磋商加强地区和平与安全领域合作](https://news.cctv.com/2026/10/27/ARTIQG12UUw6z6tbvegpGzP7261027.shtml)
+

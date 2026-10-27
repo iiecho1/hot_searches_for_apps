@@ -21,3 +21,17 @@
 
 + [反思了下，原来我是个黄毛](https://www.v2ex.com/t/1251781)
 
++ [佬们推荐个机场，花云太差了](https://www.v2ex.com/t/1251841)
+
++ [坠机日，大妈和瓦工 3 台机器都阵亡了](https://www.v2ex.com/t/1251991)
+
++ [你们是如何和岳父岳母相处的](https://www.v2ex.com/t/1251970)
+
++ [周一刚开工，就面谈通知被裁，心情复杂](https://www.v2ex.com/t/1251815)
+
++ [AI vibe coding 的进展，不知道程序员还能存活多久？](https://www.v2ex.com/t/1251976)
+
++ [大家一个月可以存下多少钱](https://www.v2ex.com/t/1251794)
+
++ [self-host 代码仓库，各位老哥公司里都是什么方案？](https://www.v2ex.com/t/1251810)
+
