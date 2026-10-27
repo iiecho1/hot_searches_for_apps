@@ -125,3 +125,35 @@
 
 + [【Redis | 黑马点评】用户签到与 UV 统计源码解读](https://blog.csdn.net/2503_94545876/article/details/168872344)
 
++ [网络原理｜第五阶段：IPv4 地址、网络接口、网络前缀与地址块（自然单元 5.1）](https://blog.csdn.net/2401_86112610/article/details/169180657)
+
++ [TextIn xParse上架千问办公：为Agent提供企业级解析底座](https://blog.csdn.net/INTSIG/article/details/169167011)
+
++ [N1盒子部署OpenList影音中心：聚合网盘、公网访问，再用302重定向把4K视频流量交回云盘](https://blog.csdn.net/COLLINSXU/article/details/169251205)
+
++ [【Linux-System】【System V共享内存：从原理到实战的完整解析】流食般投喂](https://blog.csdn.net/dj_798/article/details/168975999)
+
++ [如意玲珑版 PhotoCraft 在 Arch 上实测（Wayland + AMD 780M）](https://blog.csdn.net/2401_89105749/article/details/169242426)
+
++ [【多智能体】智慧城市交通弹性多智能体状态估计：面向减排的系统工程方法【含Matlab源码 16132期】复现含文献](https://blog.csdn.net/weixin_63266434/article/details/169266084)
+
++ [信任钱包（Trust Wallet）架构与安全机制深度解析](https://blog.csdn.net/2600_96788430/article/details/169246794)
+
++ [鸿蒙 PC 适配 libcopp 2.2.0：72 份汇编与零源码补丁的验证实践](https://blog.csdn.net/wanderlust_0823/article/details/169263271)
+
++ [把 DeepSeek 接入 QQ 完整实践：官方 QQ Bot 通道 + dsh 插件，顺便讲透「人格插件」怎么玩](https://blog.csdn.net/weixin_68896032/article/details/169165043)
+
++ [# C++ 微服务即时通讯系统（三）：网关设计——HTTP 请求、Session 鉴权与 WebSocket 通知上一篇](https://blog.csdn.net/2502_93510665/article/details/169170269)
+
++ [AI 桌面应用选 Rust 还是仓颉？用同一个本地知识库助手实战对比开发体验](https://blog.csdn.net/2403_86779341/article/details/168978517)
+
++ [还没官宣的 DeepSeek 桌面版跑起来了：便宜模型在 Harness 里还原桌面交互，GPT-6 Luna 反而像在‘重画‘——差距不在模型在执行框架](https://blog.csdn.net/Rosanci/article/details/169141029)
+
++ [Excalidraw搬到极空间以后，手绘白板从外部网站变成了自己长期维护的浏览器工具](https://blog.csdn.net/Rqaqedamancy/article/details/169246053)
+
++ [监控面板全绿，用户却说网站打不开？Blackbox Exporter从外部验证服务到底能不能访问](https://blog.csdn.net/2501_91062530/article/details/169251675)
+
++ [OpenAI发布GPT-6.1 Terra：视觉理解、电脑操作与开发者接入全解析](https://blog.csdn.net/qq_17456539/article/details/169242115)
+
++ [为什么 Redis 主从切换会丢锁：3 种补偿策略实测对比](https://blog.csdn.net/weixin_71309014/article/details/169161320)
+

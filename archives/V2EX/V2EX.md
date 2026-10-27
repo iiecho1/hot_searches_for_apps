@@ -49,3 +49,11 @@
 
 + [《关于我和一个教师恋爱一年的经历》后续](https://www.v2ex.com/t/1252184)
 
++ [这是你印象中的 WinXP 吗，一起回到 2005 吧](https://www.v2ex.com/t/1252173)
+
++ [做了个跨 Mac / Windows / Linux 的剪贴板工具 Zipover，送 30 份授权](https://www.v2ex.com/t/1252166)
+
++ [今天发现一个沙雕游戏：大到离谱的斧头](https://www.v2ex.com/t/1252202)
+
++ [大家的程序坞放哪里？](https://www.v2ex.com/t/1252133)
+

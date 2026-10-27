@@ -29,3 +29,9 @@
 
 + [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
++ [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+

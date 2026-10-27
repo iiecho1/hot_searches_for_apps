@@ -183,3 +183,23 @@
 
 + [纪念东京审判开庭80周年图片展在纽约联合国总部开展](https://news.cctv.com/2026/10/27/ARTIeewBFQ5yGPeWlpEpLFMi261027.shtml)
 
++ [佩斯科夫：俄美乌三方会谈时间尚未确定](https://news.cctv.com/2026/10/27/ARTI5fsWQasGcyVtJrpu2F71261027.shtml)
+
++ [韩国大法院签发对金建希的延长拘留令](https://news.cctv.com/2026/10/27/ARTIFUxcAanT2B1uhlve2ItU261027.shtml)
+
++ [约旦称在叙南部打死20多名“伊斯兰国”武装人员](https://news.cctv.com/2026/10/27/ARTIvjRtzjpXcBYt5c8LGPNk261027.shtml)
+
++ [刚果（金）埃博拉确诊病例数破万](https://news.cctv.com/2026/10/27/ARTIXYaA63mk1XmvhewWU63I261027.shtml)
+
++ [墨西哥国家选举机构负责人因腐败丑闻辞职](https://news.cctv.com/2026/10/27/ARTIoa75EhkuKwdPthCB4fd5261027.shtml)
+
++ [苏丹一发电站遭无人机袭击致大面积停电](https://news.cctv.com/2026/10/27/ARTIbUJ2LU8RgaHCf2iRG0eh261027.shtml)
+
++ [中国作为首批签约国签署《联合国可转让货物单证公约》](https://news.cctv.com/2026/10/27/ARTImsuaLhz3wkoSMs3Chwnm261027.shtml)
+
++ [约旦内政大臣称逮捕三名卡拉克省教堂“恐怖袭击”实施者](https://news.cctv.com/2026/10/27/ARTIkWZca0Phr7sR5vxTbgeI261027.shtml)
+
++ [日本青少年犯罪人数近年持续上升](https://news.cctv.com/2026/10/27/ARTIjSQvIKNJN3vW8oMLnQB7261027.shtml)
+
++ [印度东北部发生枪击事件致5死1伤](https://news.cctv.com/2026/10/27/ARTIhvfJeHoJASFacRqghImx261027.shtml)
+
