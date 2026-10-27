@@ -21,3 +21,5 @@
 
 + [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
 
++ [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+

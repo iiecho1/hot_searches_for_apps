@@ -101,3 +101,17 @@
 
 + [【高频场景题系列】| 如何设计百万并发 Web 服务器？](https://blog.csdn.net/2503_94545876/article/details/169169482)
 
++ [双重物理信息神经网络做区域冷热源调度：一份能跑通的 MATLAB 复现笔记](https://blog.csdn.net/kjm13182345320/article/details/169269567)
+
++ [HunyuanVideo-1.5 首帧视频怎么做提示词对照？先查清 rewrite 是否生效](https://blog.csdn.net/w776341482/article/details/169263106)
+
++ [双臂机器人打螺丝项目 前期调研（一）：世界模型与机器人控制](https://blog.csdn.net/2301_79824190/article/details/169254708)
+
++ [OpenAI发布GPT-6.1 Terra：视觉理解、电脑操作与开发者接入全解析](https://blog.csdn.net/qq_17456539/article/details/169242115)
+
++ [为什么 Redis 主从切换会丢锁：3 种补偿策略实测对比](https://blog.csdn.net/weixin_71309014/article/details/169161320)
+
++ [达梦 DM8 + openGauss：RuoYi Office 的 MySQL 数据转换与导入实践](https://blog.csdn.net/zhouzhongyan/article/details/167590226)
+
++ [MuJoCo进阶——从手搓小车到拆解宇树真实机器人G1与Go2](https://blog.csdn.net/2504_93407846/article/details/169266049)
+

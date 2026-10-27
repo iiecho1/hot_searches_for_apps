@@ -161,3 +161,17 @@
 
 + [韩国国防部向朝方提议举行韩朝军方会谈](https://news.cctv.com/2026/10/23/ARTIEIxByFhJ3BtFc0F4Rjss261023.shtml)
 
++ [日本政府开出标准 大阪等四地争当“副首都”](https://news.cctv.com/2026/10/28/ARTIjL2awrW5s9S7ZMFGkzGs261028.shtml)
+
++ [巴西自由党众议员称弗拉维奥·博索纳罗已前往美国](https://news.cctv.com/2026/10/28/ARTI32svCmzp27lOy629y9YD261028.shtml)
+
++ [梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大](https://news.cctv.com/2026/10/28/ARTIvfZtzbk4YYFgJEqLL0n1261028.shtml)
+
++ [出口民调显示内塔尼亚胡阵营未获议会多数席位](https://news.cctv.com/2026/10/28/ARTIKp8iuF4ty1JOUYrPD2OK261028.shtml)
+
++ [巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金](https://news.cctv.com/2026/10/28/ARTIfwnQH25rAPvlZqVADk0V261028.shtml)
+
++ [也门胡塞武装：埃及授权军事支持沙特等同于“宣战”](https://news.cctv.com/2026/10/28/ARTI2AfjKcEf2lPhvMOnN6UI261027.shtml)
+
++ [世界气象组织：地球大气温室气体浓度再创新高](https://news.cctv.com/2026/10/28/ARTIyhfX9mXjDiF8duaG40AK261027.shtml)
+
