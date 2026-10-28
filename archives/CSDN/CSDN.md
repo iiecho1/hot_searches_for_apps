@@ -115,3 +115,43 @@
 
 + [MuJoCo进阶——从手搓小车到拆解宇树真实机器人G1与Go2](https://blog.csdn.net/2504_93407846/article/details/169266049)
 
++ [三甲医院AI的1163实施路径（上）](https://blog.csdn.net/kkiron/article/details/169067095)
+
++ [PaddleOCR + Spring AI + Qwen3.8：企业发票报销实战，从上传识别到人工确认卡](https://blog.csdn.net/zhouzhongyan/article/details/167589750)
+
++ [AI 提出科学假设之后：从数据筛选到实验验证](https://blog.csdn.net/weixin_74809706/article/details/168771198)
+
++ [从 AI 应用开发到 GPU 计算软件：一份完整的 GPGPU、PyTorch、vLLM 与 AI Infra 学习路线](https://blog.csdn.net/qq_52964132/article/details/169170985)
+
++ [Agent 状态管理：会话状态、任务状态与全局状态的设计模式](https://blog.csdn.net/sinat_41617212/article/details/169166429)
+
++ [【开源评测｜GitHub本周最热#1】gpu-unlock：内核态解锁RTX30系FP/BF16发射率至专业卡水准](https://blog.csdn.net/TunerT_TQ/article/details/169254480)
+
++ [本地优先架构避坑：从重度云端依赖到客户端算力下沉与边缘自治实战](https://blog.csdn.net/qq_46987323/article/details/169262834)
+
++ [启元无真机二开实战：先在Mac上养一台Q1——官方URDF到MuJoCo数字孪生的完整链](https://blog.csdn.net/sjw890821sjw/article/details/169165711)
+
++ [鸿蒙应用开发程序员的双屏开发，被两台电脑逼出了新形态：上屏鸿蒙、下屏 Windows](https://blog.csdn.net/weixin_52908342/article/details/169338345)
+
++ [【动态时序武器目标分配问题】基于知识引导的动态武器目标分配进化算法考虑雷达探测 武器交战包线 打击窗口时间约束附Matlab实现](https://blog.csdn.net/m0_57702748/article/details/169350361)
+
++ [【通信】透射式RIS分群相移优化：从单单元到全连接的接收功率性能全解析Matlab实现](https://blog.csdn.net/m0_60703264/article/details/169350510)
+
++ [免费 4 核 8G 云电脑，我把 Agent 搬进去了](https://blog.csdn.net/2301_79925151/article/details/169065939)
+
++ [虚拟线程上线后吞吐反而掉了：Spring Boot 3 里 synchronized 锁住载体线程的定位与修复](https://blog.csdn.net/weixin_71309014/article/details/169261148)
+
++ [C++20 协程 × 屏障：手写一个 co_await 版 Barrier，让等待不再钉死线程](https://blog.csdn.net/2301_78967866/article/details/169264223)
+
++ [【鸿蒙心迹】HarmonyOS笔记17：父子组件参数与状态](https://blog.csdn.net/weixin_47431459/article/details/167815049)
+
++ [Linux系统篇--用户切换与文件权限](https://blog.csdn.net/Sone66666/article/details/169268152)
+
++ [【粉丝福利社】AI编程之道：巧用Cursor和Windsurf高效完成任务](https://blog.csdn.net/aa2528877987/article/details/169262763)
+
++ [【Linux网络】UDP 服务器怎么写？从 socket、bind 到 recvfrom/sendto，手写完整回显服务器](https://blog.csdn.net/2402_87731470/article/details/169269722)
+
++ [ZooKeeper 未授权访问漏洞修复实战：SASL 认证 + ACL 全树收权，Kafka/Hadoop/ClickHouse 多组件适配](https://blog.csdn.net/Sayai/article/details/169168214)
+
++ [Streamlit 实现 AI 聊天 Agent：角色提示词、流式输出与会话管理](https://blog.csdn.net/2502_94242477/article/details/169263112)
+

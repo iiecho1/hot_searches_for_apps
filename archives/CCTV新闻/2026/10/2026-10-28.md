@@ -177,3 +177,25 @@
 
 + [荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀](https://news.cctv.com/2026/10/28/ARTIYKANuQavRV9B4lzeDALg261028.shtml)
 
++ [西班牙一高速铁路因列车相撞暂停运营](https://news.cctv.com/2026/10/28/ARTIrMeMT8jqBmK33cvlDh83261028.shtml)
+
++ [以色列驻塞尔维亚大使馆一安保人员遇袭 袭击者被击毙](https://news.cctv.com/2026/10/28/ARTIYmkpL1EfjIVu0Ms3mkhz261028.shtml)
+
++ [涉嫌密谋发动校园枪击 3人在美被捕](https://news.cctv.com/2026/10/28/ARTIMNLcEhOZXzanHqXmTLM1261028.shtml)
+
++ [特朗普称普京与泽连斯基的会晤将“很快”安排](https://news.cctv.com/2026/10/28/ARTIrwMXrQhdHAmi38dz2X3f261028.shtml)
+
++ [俄罗斯战略核潜艇试射“布拉瓦”洲际弹道导弹](https://news.cctv.com/2026/10/28/ARTIYQlgf2AkMABeBfc6fHd3261028.shtml)
+
++ [加拿大与阿联酋签署全面经济伙伴关系协定](https://news.cctv.com/2026/10/28/ARTI8vjrKoJWR9gQ0emklkue261028.shtml)
+
++ [草原火灾过火面积超44万公顷 蒙古国增派专家赴现场调查](https://news.cctv.com/2026/10/28/ARTI3FyGtDNHB3fJ9ZP3QEwh261028.shtml)
+
++ [澳大利亚向我国返还2件流失文物](https://news.cctv.com/2026/10/28/ARTIkaS8qYeTUvA2YrN28jVG261028.shtml)
+
++ [驻日美军举行“海马斯”实弹射击训练](https://news.cctv.com/2026/10/28/ARTIn3pjFgJPukdrH2fGAQeW261028.shtml)
+
++ [内塔尼亚胡：利库德集团是以色列最大政党](https://news.cctv.com/2026/10/28/ARTIza5FP8JBdIsnF2zFY4e5261028.shtml)
+
++ [特朗普：只有中期选举“诚实公正”才接受其结果](https://news.cctv.com/2026/10/28/ARTIAknSkCdCdDgvxafAtNJC261028.shtml)
+
