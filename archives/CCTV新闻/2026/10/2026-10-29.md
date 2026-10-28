@@ -161,3 +161,11 @@
 
 + [乌克兰防长称“星链”及“星盾”已恢复稳定通信](https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml)
 
++ [联大通过决议 要求美国终止对古巴封锁](https://news.cctv.com/2026/10/29/ARTIsGOe0wuokBpkb9X3aKwv261028.shtml)
+
++ [俄美乌三方谈判日期将公布 俄方称不邀欧洲参加](https://news.cctv.com/2026/10/29/ARTIn45XQUpCByF9DOPUrduz261028.shtml)
+
++ [知情人士称卡塔尔向伊朗提交旨在结束战事的新协议草案](https://news.cctv.com/2026/10/29/ARTIOZWcXjoovkIkY4pZcxN6261028.shtml)
+
++ [西班牙首相宣布为列车相撞事故遇难者全国哀悼三天](https://news.cctv.com/2026/10/29/ARTIujen3iaEARuueej0R6nv261028.shtml)
+

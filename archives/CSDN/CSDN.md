@@ -101,3 +101,19 @@
 
 + [dsh-pet大肥鱼桌宠手机版下载地址-大肥鱼桌宠使用教程](https://blog.csdn.net/AiIGeT/article/details/169262652)
 
++ [三甲医院AI的1163实施路径（下）](https://blog.csdn.net/kkiron/article/details/169067166)
+
++ [TextIn xParse上架千问办公：为Agent提供企业级解析底座](https://blog.csdn.net/INTSIG/article/details/169167011)
+
++ [从 CR 看团队：Code Review 如何反映一家公司的工程文化](https://blog.csdn.net/u014727709/article/details/169267697)
+
++ [文件后缀变成 .LOCK3D 或 .L0CK3D 怎么恢复？舍末无勒起底 Lock3d 勒索病毒与数据库无损抢救方案](https://blog.csdn.net/2600_96788437/article/details/169363803)
+
++ [Flutter 3.47 鸿蒙三方库适配实战：从 0 到 1 处理 flutter_pcm_sound](https://blog.csdn.net/2501_93814044/article/details/169366813)
+
++ [揭秘计算机核心：冯诺依曼架构与操作系统底层原理](https://blog.csdn.net/2401_87418488/article/details/168453807)
+
++ [一套引擎能不能同时扛全文检索和聚合报表：Apache Doris 索引、物化视图与负载隔离配置手册](https://blog.csdn.net/SelectDB_Fly/article/details/169364676)
+
++ [GoWind ShortPlay 拆解：Flutter 沉浸式 Feed 的播放器工程——生命周期、手势状态机与游客降级](https://blog.csdn.net/tx7do/article/details/168743917)
+

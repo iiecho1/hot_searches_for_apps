@@ -21,3 +21,5 @@
 
 + [是我太感情淡漠吗？](https://www.v2ex.com/t/1252584)
 
++ [人在大陆，只有国内银行的 VISA 卡，如何搞定 Claude 会员支付？](https://www.v2ex.com/t/1252487)
+
