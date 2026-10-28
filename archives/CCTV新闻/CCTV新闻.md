@@ -1,5 +1,65 @@
 ## CCTV新闻 
-### 2026-10-28
+### 2026-10-29
+
++ [西班牙列车相撞事故已致64人死亡 初步调查指向调度失误](https://news.cctv.com/2026/10/28/ARTIeCJojFJqO2cHQ8PYsyDh261028.shtml)
+
++ [以色列议会选举完成票箱清点 内塔尼亚胡阵营暂时领先](https://news.cctv.com/2026/10/28/ARTIO01wPH2SFVk5Dp3FQcpB261028.shtml)
+
++ [日本自民党副总裁被曝政治资金丑闻](https://news.cctv.com/2026/10/28/ARTIFTB4tmFFFR2hhaZqRFaJ261028.shtml)
+
++ [刚果（金）东南部省份市区、矿区周边出现大规模游行示威活动，中使馆提醒注意安全](https://news.cctv.com/2026/10/28/ARTIfHNqo55gwScKFVoMJqwX261028.shtml)
+
++ [西班牙列车相撞致至少50人死亡 有中国公民受伤](https://news.cctv.com/2026/10/28/ARTI9qMMGHCDgkPC6hI28eho261028.shtml)
+
++ [西班牙列车相撞事故死亡人数升至50人](https://news.cctv.com/2026/10/28/ARTI71qysLmtCT3QLb6NoVrl261028.shtml)
+
++ [中吉乌铁路已开工建设28座隧道、47座桥梁、90段路基](https://news.cctv.com/2026/10/28/ARTIbVuFA5LBmqTiBULTDOaX261028.shtml)
+
++ [阿根廷移民局称博索纳罗入境后前往厄瓜多尔](https://news.cctv.com/2026/10/28/ARTIKx8vL3PQ7gVcUyWDXETC261028.shtml)
+
++ [泽连斯基：与特朗普结束俄乌冲突目标一致 路径有分歧](https://news.cctv.com/2026/10/28/ARTI9HlbV9vLiCM2smlQCi3n261028.shtml)
+
++ [法国推动立法要求骚乱者赔偿损失](https://news.cctv.com/2026/10/28/ARTIbllBzCN8iQXzg9CZIfOu261028.shtml)
+
++ [美国被曝加强在厄瓜多尔军事活动](https://news.cctv.com/2026/10/28/ARTIqCYV6sKdQPtwFIZKBJTS261028.shtml)
+
++ [西班牙一高速铁路因列车相撞暂停运营](https://news.cctv.com/2026/10/28/ARTIrMeMT8jqBmK33cvlDh83261028.shtml)
+
++ [以色列驻塞尔维亚大使馆一安保人员遇袭 袭击者被击毙](https://news.cctv.com/2026/10/28/ARTIYmkpL1EfjIVu0Ms3mkhz261028.shtml)
+
++ [涉嫌密谋发动校园枪击 3人在美被捕](https://news.cctv.com/2026/10/28/ARTIMNLcEhOZXzanHqXmTLM1261028.shtml)
+
++ [特朗普称普京与泽连斯基的会晤将“很快”安排](https://news.cctv.com/2026/10/28/ARTIrwMXrQhdHAmi38dz2X3f261028.shtml)
+
++ [俄罗斯战略核潜艇试射“布拉瓦”洲际弹道导弹](https://news.cctv.com/2026/10/28/ARTIYQlgf2AkMABeBfc6fHd3261028.shtml)
+
++ [加拿大与阿联酋签署全面经济伙伴关系协定](https://news.cctv.com/2026/10/28/ARTI8vjrKoJWR9gQ0emklkue261028.shtml)
+
++ [草原火灾过火面积超44万公顷 蒙古国增派专家赴现场调查](https://news.cctv.com/2026/10/28/ARTI3FyGtDNHB3fJ9ZP3QEwh261028.shtml)
+
++ [澳大利亚向我国返还2件流失文物](https://news.cctv.com/2026/10/28/ARTIkaS8qYeTUvA2YrN28jVG261028.shtml)
+
++ [驻日美军举行“海马斯”实弹射击训练](https://news.cctv.com/2026/10/28/ARTIn3pjFgJPukdrH2fGAQeW261028.shtml)
+
++ [内塔尼亚胡：利库德集团是以色列最大政党](https://news.cctv.com/2026/10/28/ARTIza5FP8JBdIsnF2zFY4e5261028.shtml)
+
++ [特朗普：只有中期选举“诚实公正”才接受其结果](https://news.cctv.com/2026/10/28/ARTIAknSkCdCdDgvxafAtNJC261028.shtml)
+
++ [荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀](https://news.cctv.com/2026/10/28/ARTIYKANuQavRV9B4lzeDALg261028.shtml)
+
++ [日本政府开出标准 大阪等四地争当“副首都”](https://news.cctv.com/2026/10/28/ARTIjL2awrW5s9S7ZMFGkzGs261028.shtml)
+
++ [巴西自由党众议员称弗拉维奥·博索纳罗已前往美国](https://news.cctv.com/2026/10/28/ARTI32svCmzp27lOy629y9YD261028.shtml)
+
++ [梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大](https://news.cctv.com/2026/10/28/ARTIvfZtzbk4YYFgJEqLL0n1261028.shtml)
+
++ [出口民调显示内塔尼亚胡阵营未获议会多数席位](https://news.cctv.com/2026/10/28/ARTIKp8iuF4ty1JOUYrPD2OK261028.shtml)
+
++ [巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金](https://news.cctv.com/2026/10/28/ARTIfwnQH25rAPvlZqVADk0V261028.shtml)
+
++ [也门胡塞武装：埃及授权军事支持沙特等同于“宣战”](https://news.cctv.com/2026/10/28/ARTI2AfjKcEf2lPhvMOnN6UI261027.shtml)
+
++ [世界气象组织：地球大气温室气体浓度再创新高](https://news.cctv.com/2026/10/28/ARTIyhfX9mXjDiF8duaG40AK261027.shtml)
 
 + [美再发战争威胁 伊土沙巴四国谋安全自主](https://news.cctv.com/2026/10/28/ARTIdBUaxNCPwaxL4uj0hOQN261027.shtml)
 
@@ -100,102 +160,4 @@
 + [伊朗武装部队：任何情况下都不允许美军船只进入波斯湾](https://news.cctv.com/2026/10/25/ARTIAASxR0PvU3GravETnH4t261025.shtml)
 
 + [乌克兰防长称“星链”及“星盾”已恢复稳定通信](https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml)
-
-+ [高市执政这一年 扩军备武 扶植军工 图谋“再军事化”](https://news.cctv.com/2026/10/25/ARTIsMhyKLMhk6DnoRZXuL9E261025.shtml)
-
-+ [多重动向叠加 如何影响俄乌冲突走向？](https://news.cctv.com/2026/10/25/ARTIcbwrqvkWGUSZ8n5OdT23261024.shtml)
-
-+ [美航空航天局公布“阿耳忒弥斯3号”任务最新安排](https://news.cctv.com/2026/10/24/ARTIg0EtFg1XlcKiSxw489Rs261024.shtml)
-
-+ [菲律宾空军两架教练机相撞 4名空军飞行员死亡](https://news.cctv.com/2026/10/24/ARTImDLkB81spU9wAm2Wm8nT261024.shtml)
-
-+ [刚果（金）一关键性埃博拉疫苗临床试验启动接种](https://news.cctv.com/2026/10/24/ARTIvm0rjdpSwYcOEyEvjWUr261024.shtml)
-
-+ [沙特主导联军拦截胡塞武装射向利雅得的导弹](https://news.cctv.com/2026/10/24/ARTIb3xlP58JTynAA1fLTRxT261024.shtml)
-
-+ [约旦一教堂发生枪击致7死 政府称系恐袭](https://news.cctv.com/2026/10/24/ARTIwP0fiNO6oRi8O7INi3qK261024.shtml)
-
-+ [俄司法部：对12名境外俄罗斯人实施暂时限制措施](https://news.cctv.com/2026/10/24/ARTIkvomwctnhEPssSjEc5KM261024.shtml)
-
-+ [瓦努阿图群岛发生6.8级地震，震源深度10千米](https://news.cctv.com/2026/10/24/ARTInHtzLYbY8oFtUSShz3La261024.shtml)
-
-+ [马里军方称5个多月来近五千恐怖分子“丧失战斗力”](https://news.cctv.com/2026/10/24/ARTIvi8cvgw82FfdeRNOUmZa261024.shtml)
-
-+ [教堂枪击事件致7死40伤 约旦宣布全国哀悼三天](https://news.cctv.com/2026/10/24/ARTINhLi9QxQV0dmEvhhOQRK261024.shtml)
-
-+ [古巴外长驳斥特朗普“顺道解决古巴”言论](https://news.cctv.com/2026/10/24/ARTI9WXMNoxhrZ7Tz9kC73Cr261024.shtml)
-
-+ [以军总参谋长：已在所有战线进入最高戒备状态](https://news.cctv.com/2026/10/24/ARTIbOw8ZcH2KDqoEOsOelhs261023.shtml)
-
-+ [佩斯科夫：俄美乌三方谈判将于11月上旬在阿布扎比启动](https://news.cctv.com/2026/10/24/ARTIC1Vah7ulHl9xJfkfi7MZ261024.shtml)
-
-+ [土埃巴沙与英法德意在伊斯坦布尔举行八国外长会议](https://news.cctv.com/2026/10/24/ARTIJnEWYX2zO4R0MkukwF2R261023.shtml)
-
-+ [厄尔尼诺来袭 南美多地受影响](https://news.cctv.com/2026/10/24/ARTI9kNpGRRvbh3uj23Lu3GQ261023.shtml)
-
-+ [应对新抗议 法国多地采取限制措施](https://news.cctv.com/2026/10/24/ARTIdbmpxfshHxV4fR3030eY261023.shtml)
-
-+ [法国将部署约7万名安全人员应对新一轮示威](https://news.cctv.com/2026/10/23/ARTIbKhICGGv7PGRK5zK83Ws261023.shtml)
-
-+ [白宫称俄乌同意在奥列什基暂时停火](https://news.cctv.com/2026/10/23/ARTIT7ka7LbVajcqI38Ueqx6261023.shtml)
-
-+ [研究显示欧洲今夏高温相关超额死亡人数创纪录](https://news.cctv.com/2026/10/23/ARTI57VEuKtDdUz223wBAbjz261023.shtml)
-
-+ [几内亚发生多起涉中国公民交通事故造成严重人员伤亡 中使馆发布提醒](https://news.cctv.com/2026/10/23/ARTICLQhRlHOpbkSSptsfBc5261023.shtml)
-
-+ [土耳其一煤矿爆炸致2死5伤](https://news.cctv.com/2026/10/23/ARTI9gqrpPnKaQm3B25jVcl0261023.shtml)
-
-+ [希腊通过议案 明年起禁止15岁以下青少年使用社媒平台](https://news.cctv.com/2026/10/23/ARTIvjwEP3dHHxjgYmIbESGl261023.shtml)
-
-+ [奥地利宣布驱逐四名俄罗斯外交官](https://news.cctv.com/2026/10/23/ARTIBALn1hnsn6kaB38phLoY261023.shtml)
-
-+ [民调：近七成美国年轻人忧虑美国未来](https://news.cctv.com/2026/10/23/ARTIksD6GEaEAgoVkHXKedz6261023.shtml)
-
-+ [日本第24轮核污染水排放量近8000吨](https://news.cctv.com/2026/10/23/ARTIR9OX6ELFUPRJR6Gxp7Ap261023.shtml)
-
-+ [广东省政协科教卫体委副主任黄远通接受审查调查](https://news.cctv.com/2026/10/23/ARTIJAWsaKlLURN2z2BVpysu261023.shtml)
-
-+ [伊议员说伊朗已要求中东国家停止支持美国](https://news.cctv.com/2026/10/23/ARTIpExOMeJp9ytcNpyBzQ3g261023.shtml)
-
-+ [日本能源白皮书：中东局势暴露日能源体系弱点](https://news.cctv.com/2026/10/23/ARTIswUrMhpUKZHo8rVt1IFF261023.shtml)
-
-+ [韩国国防部向朝方提议举行韩朝军方会谈](https://news.cctv.com/2026/10/23/ARTIEIxByFhJ3BtFc0F4Rjss261023.shtml)
-
-+ [日本政府开出标准 大阪等四地争当“副首都”](https://news.cctv.com/2026/10/28/ARTIjL2awrW5s9S7ZMFGkzGs261028.shtml)
-
-+ [巴西自由党众议员称弗拉维奥·博索纳罗已前往美国](https://news.cctv.com/2026/10/28/ARTI32svCmzp27lOy629y9YD261028.shtml)
-
-+ [梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大](https://news.cctv.com/2026/10/28/ARTIvfZtzbk4YYFgJEqLL0n1261028.shtml)
-
-+ [出口民调显示内塔尼亚胡阵营未获议会多数席位](https://news.cctv.com/2026/10/28/ARTIKp8iuF4ty1JOUYrPD2OK261028.shtml)
-
-+ [巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金](https://news.cctv.com/2026/10/28/ARTIfwnQH25rAPvlZqVADk0V261028.shtml)
-
-+ [也门胡塞武装：埃及授权军事支持沙特等同于“宣战”](https://news.cctv.com/2026/10/28/ARTI2AfjKcEf2lPhvMOnN6UI261027.shtml)
-
-+ [世界气象组织：地球大气温室气体浓度再创新高](https://news.cctv.com/2026/10/28/ARTIyhfX9mXjDiF8duaG40AK261027.shtml)
-
-+ [荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀](https://news.cctv.com/2026/10/28/ARTIYKANuQavRV9B4lzeDALg261028.shtml)
-
-+ [西班牙一高速铁路因列车相撞暂停运营](https://news.cctv.com/2026/10/28/ARTIrMeMT8jqBmK33cvlDh83261028.shtml)
-
-+ [以色列驻塞尔维亚大使馆一安保人员遇袭 袭击者被击毙](https://news.cctv.com/2026/10/28/ARTIYmkpL1EfjIVu0Ms3mkhz261028.shtml)
-
-+ [涉嫌密谋发动校园枪击 3人在美被捕](https://news.cctv.com/2026/10/28/ARTIMNLcEhOZXzanHqXmTLM1261028.shtml)
-
-+ [特朗普称普京与泽连斯基的会晤将“很快”安排](https://news.cctv.com/2026/10/28/ARTIrwMXrQhdHAmi38dz2X3f261028.shtml)
-
-+ [俄罗斯战略核潜艇试射“布拉瓦”洲际弹道导弹](https://news.cctv.com/2026/10/28/ARTIYQlgf2AkMABeBfc6fHd3261028.shtml)
-
-+ [加拿大与阿联酋签署全面经济伙伴关系协定](https://news.cctv.com/2026/10/28/ARTI8vjrKoJWR9gQ0emklkue261028.shtml)
-
-+ [草原火灾过火面积超44万公顷 蒙古国增派专家赴现场调查](https://news.cctv.com/2026/10/28/ARTI3FyGtDNHB3fJ9ZP3QEwh261028.shtml)
-
-+ [澳大利亚向我国返还2件流失文物](https://news.cctv.com/2026/10/28/ARTIkaS8qYeTUvA2YrN28jVG261028.shtml)
-
-+ [驻日美军举行“海马斯”实弹射击训练](https://news.cctv.com/2026/10/28/ARTIn3pjFgJPukdrH2fGAQeW261028.shtml)
-
-+ [内塔尼亚胡：利库德集团是以色列最大政党](https://news.cctv.com/2026/10/28/ARTIza5FP8JBdIsnF2zFY4e5261028.shtml)
-
-+ [特朗普：只有中期选举“诚实公正”才接受其结果](https://news.cctv.com/2026/10/28/ARTIAknSkCdCdDgvxafAtNJC261028.shtml)
 

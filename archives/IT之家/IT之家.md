@@ -1,27 +1,27 @@
 ## IT之家 
-### 2026-10-28
+### 2026-10-29
 
-+ [5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水](https://m.ithome.com/html/1018156.htm)
++ [苹果为 14 英寸 MacBook Pro 推出 M6 芯片版本，15999 元起](https://m.ithome.com/html/1018657.htm)
 
-+ [苹果 iPad mini（A20 Pro）升级 OLED 面板，但仍为 60Hz 刷新率](https://m.ithome.com/html/1018159.htm)
++ [技术突破 + 满血回归：曝华为今日将再发布 Mate 90 系列手机，盘点韬芯片、四卡三待等十大黑科技](https://m.ithome.com/html/1018888.htm)
 
-+ [苹果 iOS 27.2 正式版国行“最重要专属功能”，可禁止 App 摇一摇跳转](https://m.ithome.com/html/1018241.htm)
++ [苹果为 24 英寸 iMac 推出 M6 芯片版本，国行 12499 元起](https://m.ithome.com/html/1018660.htm)
 
-+ [苹果 iPad mini（A20 Pro）仅 512GB 机型配备 6 核中央处理器、双 16 核神经网络引擎](https://m.ithome.com/html/1018169.htm)
++ [华为畅享 100 Pro Max 手机发布：8800mAh 巨鲸电池、至高麒麟 8020 处理器，1999 元起](https://m.ithome.com/html/1018919.htm)
 
-+ [iPad Pro 级配置下放：苹果 iPad mini （A20 Pro）配备自适应原彩闪光灯](https://m.ithome.com/html/1018179.htm)
++ [抖音集团副总裁李亮回应“中国互联网进入字节时间”：极不严谨，纯属瞎扯](https://m.ithome.com/html/1018668.htm)
 
-+ [苹果详解 iPad mini（A20 Pro）全新 Acoustic Display 声学显示屏：低音扬声器可通过屏幕协同发声](https://m.ithome.com/html/1018161.htm)
++ [预售价 38.98 万元起，问界新 M8 定档 11 月 13 日上市](https://m.ithome.com/html/1018768.htm)
 
-+ [反诈博主“徽剑”被曝 2 年前遭买凶遇害，曾公开举报陈志犯罪集团重要骨干成员刘忍](https://m.ithome.com/html/1018321.htm)
++ [华为 Pura90 Plus 手机发布：首发麒麟 9025 芯片，焕新优惠价 5199 元起](https://m.ithome.com/html/1018915.htm)
 
-+ [苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机](https://m.ithome.com/html/1018196.htm)
++ [古尔曼爆料苹果 OLED MacBook Pro：边框收窄、转轴重新设计，触摸屏幕时不会晃动](https://m.ithome.com/html/1018692.htm)
 
-+ [比亚迪第三代秦 PLUS DM-i 上市：综合续航 2290km，限时 7.69 万-9.79 万元](https://m.ithome.com/html/1018348.htm)
++ [微软 Surface Duo 2 变“苹果 iPhone Duo”：铺路原生运行 iOS 26，双屏触控已可用](https://m.ithome.com/html/1018746.htm)
 
-+ [苹果 iOS / iPadOS 27.2 正式版发布：增强 Siri AI，更新 Apple Music 品牌视觉](https://m.ithome.com/html/1018187.htm)
++ [华为何刚：全产业链不懈奋斗实现 Mate 60 麒麟芯片回归，9030 系列是半导体平面电路设计巅峰之作](https://m.ithome.com/html/1018949.htm)
 
-+ [知情人士：DeepSeek 大举扩充团队，梁文锋长期在北京租房](https://m.ithome.com/html/1018339.htm)
++ [华为畅享 100 手机发布：搭载麒麟 8000S 芯片，1399 元起](https://m.ithome.com/html/1018922.htm)
 
-+ [苹果 iOS 27.2 更新汇总：增强 Siri AI，调整 Apple Music 品牌视觉等](https://m.ithome.com/html/1018218.htm)
++ [苹果 MacBook Neo 2 笔记本曝光：2027 年上半年见，内存升级至 12GB](https://m.ithome.com/html/1018731.htm)
 
