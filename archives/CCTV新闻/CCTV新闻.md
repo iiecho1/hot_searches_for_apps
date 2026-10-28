@@ -175,3 +175,5 @@
 
 + [世界气象组织：地球大气温室气体浓度再创新高](https://news.cctv.com/2026/10/28/ARTIyhfX9mXjDiF8duaG40AK261027.shtml)
 
++ [荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀](https://news.cctv.com/2026/10/28/ARTIYKANuQavRV9B4lzeDALg261028.shtml)
+

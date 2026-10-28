@@ -21,3 +21,11 @@
 
 + [情感抉择问题,ab 选择纠结](https://www.v2ex.com/t/1252192)
 
++ [人生到底应该未雨绸缪，还是车到山前必有路？](https://www.v2ex.com/t/1252239)
+
++ [Jetbrains 在经历 Fleet 和 Air 的失败之后再次发布一款的轻量级编辑器 Thinkrail](https://www.v2ex.com/t/1252393)
+
++ [第一次去健身房需要注意什么](https://www.v2ex.com/t/1252288)
+
++ [写了个 iPhone 远程用 Mac 上 Claude Code / Codex 的 App，不用内网穿透，送 月卡](https://www.v2ex.com/t/1252201)
+
