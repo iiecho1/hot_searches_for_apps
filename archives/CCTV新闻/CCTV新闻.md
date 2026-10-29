@@ -169,3 +169,9 @@
 
 + [西班牙首相宣布为列车相撞事故遇难者全国哀悼三天](https://news.cctv.com/2026/10/29/ARTIujen3iaEARuueej0R6nv261028.shtml)
 
++ [美媒：万斯致信伊朗安全高官试图重启谈判](https://news.cctv.com/2026/10/29/ARTINigu3DjaTMtY3gNK6NMO261029.shtml)
+
++ [伊朗议会官员：退出《不扩散核武器条约》计划已准备就绪](https://news.cctv.com/2026/10/29/ARTI1hGPBD6pckkRUbfIuQ6t261029.shtml)
+
++ [美联储宣布维持利率不变](https://news.cctv.com/2026/10/29/ARTIEwnZdxWMfHFb3tzONvce261029.shtml)
+

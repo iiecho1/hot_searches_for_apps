@@ -73,3 +73,5 @@
 
 + [DAY BY DAY](https://m.acfun.cn/v/?ac=48945695)
 
++ [【重音テトSV】『ミステリー / 谜团』 MIMI](https://m.acfun.cn/v/?ac=48945600)
+
