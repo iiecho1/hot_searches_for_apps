@@ -117,3 +117,33 @@
 
 + [GoWind ShortPlay 拆解：Flutter 沉浸式 Feed 的播放器工程——生命周期、手势状态机与游客降级](https://blog.csdn.net/tx7do/article/details/168743917)
 
++ [【大模型应用开发:基于GPT-4和ChatGPT】(GPT-4和ChatGPT的高级技巧)](https://blog.csdn.net/2401_87629362/article/details/169252228)
+
++ [模型快了，机器人就能动吗？从 OpenVLA-OFT 到启元 Q1 的 8 步动作块适配实验](https://blog.csdn.net/lrq13965748542/article/details/169265487)
+
++ [从 1024 块 GPU 到 558 万美元：拆解 DeepSeek-V3 的算法-系统协同设计](https://blog.csdn.net/beautifulmemory/article/details/169259784)
+
++ [AI 编程智能体 17：四步搞定专属AI智能体](https://blog.csdn.net/2503_92624912/article/details/169352659)
+
++ [AI Agent 工程化开发实战（四）：工具调用循环——解构 create_agent 背后的机制](https://blog.csdn.net/xiaobing259/article/details/169068490)
+
++ [从 xParse 看企业 AI：业务知识如何进入工作流](https://blog.csdn.net/qq_46092061/article/details/169366959)
+
++ [Windows部署MySpeed自建测速服务：Docker运行后直接测速，再配置固定公网地址远程查看](https://blog.csdn.net/Z_oioihoii/article/details/169445872)
+
++ [服务器都出问题了才等用户来告诉你？Beszel盯住资源和容器，指标异常直接发邮件告警](https://blog.csdn.net/u014727709/article/details/169445687)
+
++ [当“反制“遇上“触发“：骰老师如何用端到端具身交互智能边演边讲桌游规则](https://blog.csdn.net/qq_38881495/article/details/169158868)
+
++ [低代码和AI Coding怎么选？两种审批开发路径拆给你看](https://blog.csdn.net/ruoyioffice/article/details/169162261)
+
++ [Spring Boot中JdbcTemplate与Mybatis使用PostgreSQL](https://blog.csdn.net/wno704/article/details/167477093)
+
++ [【通信】透射式RIS分群相移优化：从单单元到全连接的接收功率性能全解析Matlab实现](https://blog.csdn.net/m0_60703264/article/details/169350510)
+
++ [第十篇：《全文检索：tsvector、tsquery 与中文分词》](https://blog.csdn.net/qq_45239623/article/details/169365748)
+
++ [Vibe Coding 实战：两周、104 次提交，我做了一款背单词的爬塔小程序](https://blog.csdn.net/qq_41575507/article/details/169362366)
+
++ [Linux Socket UDP编程（二）：从零实现多人聊天室，深入Route消息转发、线程池、UDP全双工与inet_ntoa线程安全](https://blog.csdn.net/Face_FeaR/article/details/169137123)
+
