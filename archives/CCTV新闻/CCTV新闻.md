@@ -1,5 +1,7 @@
 ## CCTV新闻 
-### 2026-10-30
+### 2026-10-31
+
++ [第170次中老缅泰湄公河联合巡逻执法行动圆满结束](https://news.cctv.com/2026/10/30/ARTIFbQO2EwsTewLWGfjAzQq261030.shtml)
 
 + [爱尔兰政府将首次研究与北爱尔兰实现统一的可能性](https://news.cctv.com/2026/10/30/ARTIcMYk8PdMHfjMiyHCSIaA261030.shtml)
 
@@ -158,6 +160,4 @@
 + [联合国调查委员会：以色列在加沙持续实施种族灭绝](https://news.cctv.com/2026/10/27/ARTI6WU7HG5cg8k65SGYQSkf261026.shtml)
 
 + [伊朗总统：伊朗的目标是发展多边主义](https://news.cctv.com/2026/10/26/ARTIqwXgAD21NZ39Re3BM4gs261026.shtml)
-
-+ [美官员透露称美军已准备好再次大规模打击伊朗](https://news.cctv.com/2026/10/26/ARTIwmC5JyulNYBBOwdzZMri261026.shtml)
 
