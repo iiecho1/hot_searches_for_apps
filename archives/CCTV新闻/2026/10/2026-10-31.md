@@ -161,3 +161,9 @@
 
 + [伊朗总统：伊朗的目标是发展多边主义](https://news.cctv.com/2026/10/26/ARTIqwXgAD21NZ39Re3BM4gs261026.shtml)
 
++ [美军多处基地冰箱冰柜疑“被黑” 大量食品变质](https://news.cctv.com/2026/10/31/ARTILtAfsRwMXdYI2cYIeZtR261030.shtml)
+
++ [西班牙列车事故中有70起失踪报案 西交通大臣称不会辞职](https://news.cctv.com/2026/10/31/ARTI2H24cpKgL1Yh3pcFTiTA261030.shtml)
+
++ [多国发布旅行安全提醒 警告公民注意法国新一轮示威活动](https://news.cctv.com/2026/10/31/ARTIxCv91J3C2EPaHZKaJuap261030.shtml)
+

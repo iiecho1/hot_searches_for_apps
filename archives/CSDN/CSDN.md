@@ -101,3 +101,21 @@
 
 + [31_uniapp部分平台onUnhandledRejection钩子无效问题修复](https://blog.csdn.net/gzx110304/article/details/169562633)
 
++ [从玩具到生产：基于Langfuse构建LLM Agent的评估与观测闭环](https://blog.csdn.net/m0_74207467/article/details/169270108)
+
++ [TCN-LSTM-MATT短期电力负荷预测四模型对比，MATLAB 代码的拆解与实测对比](https://blog.csdn.net/kjm13182345320/article/details/169367569)
+
++ [【Linux 网络编程】网络层：从 IPv4 首部、子网划分到路由表，走通一个数据包的旅程](https://blog.csdn.net/weixin_64304261/article/details/169453063)
+
++ [每天认识一个组件：ClickHouse](https://blog.csdn.net/weixin_47983718/article/details/169464210)
+
++ [基于HCL的python脚本编程（4)](https://blog.csdn.net/wusam/article/details/169464790)
+
++ [前端框架升级：不敢动的组件怎么办](https://blog.csdn.net/2406_85524685/article/details/169362428)
+
++ [【黑金云课堂】从 ADC 采集到波形显示：FPGA + PCIe 实战解析](https://blog.csdn.net/m0_53439615/article/details/169355489)
+
++ [MySQL 索引特性：从磁盘扇区到 B+ 树，一篇把索引讲到底](https://blog.csdn.net/2601_94861874/article/details/169364938)
+
++ [借助 AI 在 Win11 上搭建 Rocky Linux：用 Visual Studio 直接调试 Linux 服务](https://blog.csdn.net/zuiyuewentian/article/details/169460327)
+
