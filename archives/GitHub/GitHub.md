@@ -1,31 +1,33 @@
 ## GitHub 
-### 2026-10-29
+### 2026-10-30
 
-+ [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
++ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
-+ [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
-
-+ [obra/superpowers](https://github.com/obra/superpowers)
-
-+ [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-
-+ [macro-inc/macro](https://github.com/macro-inc/macro)
-
-+ [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
++ [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 + [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
-+ [makecindy/cindy](https://github.com/makecindy/cindy)
++ [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
-+ [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
-
-+ [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
-
-+ [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
++ [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
 + [expo/skills](https://github.com/expo/skills)
 
-+ [ruvnet/RuView](https://github.com/ruvnet/RuView)
++ [macro-inc/macro](https://github.com/macro-inc/macro)
 
-+ [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
++ [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+
++ [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 

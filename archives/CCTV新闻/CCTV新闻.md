@@ -1,5 +1,51 @@
 ## CCTV新闻 
-### 2026-10-29
+### 2026-10-30
+
++ [爱尔兰政府将首次研究与北爱尔兰实现统一的可能性](https://news.cctv.com/2026/10/30/ARTIcMYk8PdMHfjMiyHCSIaA261030.shtml)
+
++ [以色列议会选举计票结束 内塔尼亚胡阵营议席未过半](https://news.cctv.com/2026/10/30/ARTIieedce1wBdY8prdR8373261030.shtml)
+
++ [墨西哥抓获“海湾卡特尔”贩毒集团旗下团伙二号人物](https://news.cctv.com/2026/10/30/ARTI9CqRuPq0LHiUclBCOkeD261030.shtml)
+
++ [土耳其著名旅游区卡帕多奇亚一石柱坍塌](https://photo.cctv.com/2026/10/30/PHOAONHXOTiyQ5MMioVM1uyA261030.shtml)
+
++ [以色列议会选举初步计票全部完成 议会席位基本确定](https://news.cctv.com/2026/10/30/ARTIMSHroGn8nLpuqU1Vxq7O261030.shtml)
+
++ [拉美观澜丨卢拉再执政 巴西面临哪些考验？](https://news.cctv.com/2026/10/30/ARTIMXUeiOicvvMmCVrjz14o261029.shtml)
+
++ [美计划增购F-35战机 “十年大单”究竟意味什么](https://news.cctv.com/2026/10/30/ARTIPCoX1OJ8mpW7FGqHpkWc261029.shtml)
+
++ [闪评︱峰会前夕改口 欧盟为何放弃加拿大 “联席成员”？](https://news.cctv.com/2026/10/30/ARTIs26Whd8IDT2CbcnNzvOd261029.shtml)
+
++ [欧洲央行面临通胀与增长双重压力 拉加德将提前离任引关注](https://news.cctv.com/2026/10/30/ARTIbcp2yFk6PcvZdggJdhdn261030.shtml)
+
++ [以色列议会选举特殊选票清点工作基本完成](https://news.cctv.com/2026/10/30/ARTIP0S48i2jA1oJIIXYuXtx261030.shtml)
+
++ [伊朗军方：在伊方条件满足前霍尔木兹海峡不会开放](https://news.cctv.com/2026/10/29/ARTIBVKj1spE95D7RDhgQj99261029.shtml)
+
++ [委内瑞拉代总统要求英格兰银行归还黄金储备](https://news.cctv.com/2026/10/29/ARTI13izBApOFmWKcvIKJdbs261029.shtml)
+
++ [韩国前总统尹锡悦涉“内乱案”二审被求死刑](https://news.cctv.com/2026/10/29/ARTIQZ3HFesqyDJbdTJLqiYe261029.shtml)
+
++ [伊朗称在霍尔木兹海峡上空击落美军无人机](https://news.cctv.com/2026/10/29/ARTIpLf9PTusoVv02ZCabS1K261029.shtml)
+
++ [TBS百般狡辩 日本网民不买账：毫无意义的借口！](https://news.cctv.com/2026/10/29/ARTIeuUz8rjxvZqdJlbORwHW261029.shtml)
+
++ [2028年洛杉矶奥运会和残奥会口号公布：“群星共耀”](https://news.cctv.com/2026/10/29/ARTI0lLhbx0gEaxQKQn2wGip261029.shtml)
+
++ [美媒：万斯致信伊朗安全高官试图重启谈判](https://news.cctv.com/2026/10/29/ARTINigu3DjaTMtY3gNK6NMO261029.shtml)
+
++ [伊朗议会官员：退出《不扩散核武器条约》计划已准备就绪](https://news.cctv.com/2026/10/29/ARTI1hGPBD6pckkRUbfIuQ6t261029.shtml)
+
++ [美联储宣布维持利率不变](https://news.cctv.com/2026/10/29/ARTIEwnZdxWMfHFb3tzONvce261029.shtml)
+
++ [联大通过决议 要求美国终止对古巴封锁](https://news.cctv.com/2026/10/29/ARTIsGOe0wuokBpkb9X3aKwv261028.shtml)
+
++ [俄美乌三方谈判日期将公布 俄方称不邀欧洲参加](https://news.cctv.com/2026/10/29/ARTIn45XQUpCByF9DOPUrduz261028.shtml)
+
++ [知情人士称卡塔尔向伊朗提交旨在结束战事的新协议草案](https://news.cctv.com/2026/10/29/ARTIOZWcXjoovkIkY4pZcxN6261028.shtml)
+
++ [西班牙首相宣布为列车相撞事故遇难者全国哀悼三天](https://news.cctv.com/2026/10/29/ARTIujen3iaEARuueej0R6nv261028.shtml)
 
 + [西班牙列车相撞事故已致64人死亡 初步调查指向调度失误](https://news.cctv.com/2026/10/28/ARTIeCJojFJqO2cHQ8PYsyDh261028.shtml)
 
@@ -114,70 +160,4 @@
 + [伊朗总统：伊朗的目标是发展多边主义](https://news.cctv.com/2026/10/26/ARTIqwXgAD21NZ39Re3BM4gs261026.shtml)
 
 + [美官员透露称美军已准备好再次大规模打击伊朗](https://news.cctv.com/2026/10/26/ARTIwmC5JyulNYBBOwdzZMri261026.shtml)
-
-+ [中国驻英国使馆发言人就部分媒体炒作所谓“中国制造业崛起对西方高端产业形成冲击”答记者问](https://news.cctv.com/2026/10/26/ARTI6XPuZrCLkQGhTj5q0Zmt261026.shtml)
-
-+ [中国生物多样性保护实践为世界提供宝贵启示](https://news.cctv.com/2026/10/26/ARTIleOytZfJE9WrQSLoKGV3261026.shtml)
-
-+ [事发多日 日本政府首次回应日企活动引发蒙古国草原火灾](https://news.cctv.com/2026/10/26/ARTIle6O9W6i5wnlGRSWUGTX261026.shtml)
-
-+ [泽连斯基提议将乌克兰战时状态和总动员延长90天](https://news.cctv.com/2026/10/26/ARTICFUS18S6zejrwdpuj6S5261026.shtml)
-
-+ [刚果（金）埃博拉确诊病例接近一万 死亡病例升至4841例](https://news.cctv.com/2026/10/26/ARTIFXjsrSs30ua5SXIXiP9E261026.shtml)
-
-+ [卢拉：感谢人民支持 巴西“不是任何人的后院”](https://news.cctv.com/2026/10/26/ARTIsy97YGKiqi6m4moJc9Jb261026.shtml)
-
-+ [卢拉成功连任 当选巴西新一任总统](https://news.cctv.com/2026/10/26/ARTIKcYS7YWFU64Mf7HMb76w261026.shtml)
-
-+ [新西兰2026年大选提前投票启动](https://news.cctv.com/2026/10/26/ARTIaLFB3fmFcXJpNjYKu8ik261026.shtml)
-
-+ [因交通及天气原因 巴西总统选举第二轮投票时间延长](https://news.cctv.com/2026/10/26/ARTIUYJ01u41YWXuMP8CkbYr261026.shtml)
-
-+ [塞尔维亚“学生名单-学生获胜”宣布议会选举获胜](https://news.cctv.com/2026/10/26/ARTIOvm9WWpvsyob0TtwJ5g8261026.shtml)
-
-+ [逾1300人在法国新一轮示威活动中被捕](https://news.cctv.com/2026/10/26/ARTIWMkv5LIQ87EmQ25fbyT1261025.shtml)
-
-+ [以色列议会选举在即 以军在约旦河西岸大举行动](https://news.cctv.com/2026/10/26/ARTIo0REJz45eGybxQxjYYv4261026.shtml)
-
-+ [肯尼亚一客车与货车迎面相撞 已致22人死亡](https://news.cctv.com/2026/10/25/ARTIMRLNNcxqaiwFazuWdF6e261025.shtml)
-
-+ [俄方称愿在11月4日后恢复俄美乌三方谈判](https://news.cctv.com/2026/10/25/ARTIsaSMSS2pxOyHP0iMSlzH261025.shtml)
-
-+ [英国首相对恢复英欧人员自由流动持开放态度](https://news.cctv.com/2026/10/25/ARTI7nMO0YqYIxBb6qpzKWKy261025.shtml)
-
-+ [英国宣布设立AI生物安全实验室](https://news.cctv.com/2026/10/25/ARTIPqNLWKDCSNgzsMhEJJ1m261025.shtml)
-
-+ [日本小笠原群岛地区发生6.5级地震，震源深度480千米](https://news.cctv.com/2026/10/25/ARTINqih08nRTvHLOA0HZvlJ261025.shtml)
-
-+ [马里军方在梅纳卡市附近发现54具遗体](https://news.cctv.com/2026/10/25/ARTIt0zvfBAmxWyLsBw6YSZ1261025.shtml)
-
-+ [时间已敲定 俄乌局部同步停火能否成为打破僵局契机？](https://news.cctv.com/2026/10/25/ARTIu7QPpgVVDL3tr1mvINdu261025.shtml)
-
-+ [法国数十万人参与新一轮示威游行 约千人被捕](https://news.cctv.com/2026/10/25/ARTICFFW4bOxBxIaOcHvXGP5261025.shtml)
-
-+ [法国新一轮示威活动中135人被逮捕](https://news.cctv.com/2026/10/25/ARTILlX9d51iXgW5DhElDzXd261025.shtml)
-
-+ [伊朗武装部队：任何情况下都不允许美军船只进入波斯湾](https://news.cctv.com/2026/10/25/ARTIAASxR0PvU3GravETnH4t261025.shtml)
-
-+ [乌克兰防长称“星链”及“星盾”已恢复稳定通信](https://news.cctv.com/2026/10/25/ARTIbfnqNb91TdUnmV5HzqLo261025.shtml)
-
-+ [联大通过决议 要求美国终止对古巴封锁](https://news.cctv.com/2026/10/29/ARTIsGOe0wuokBpkb9X3aKwv261028.shtml)
-
-+ [俄美乌三方谈判日期将公布 俄方称不邀欧洲参加](https://news.cctv.com/2026/10/29/ARTIn45XQUpCByF9DOPUrduz261028.shtml)
-
-+ [知情人士称卡塔尔向伊朗提交旨在结束战事的新协议草案](https://news.cctv.com/2026/10/29/ARTIOZWcXjoovkIkY4pZcxN6261028.shtml)
-
-+ [西班牙首相宣布为列车相撞事故遇难者全国哀悼三天](https://news.cctv.com/2026/10/29/ARTIujen3iaEARuueej0R6nv261028.shtml)
-
-+ [美媒：万斯致信伊朗安全高官试图重启谈判](https://news.cctv.com/2026/10/29/ARTINigu3DjaTMtY3gNK6NMO261029.shtml)
-
-+ [伊朗议会官员：退出《不扩散核武器条约》计划已准备就绪](https://news.cctv.com/2026/10/29/ARTI1hGPBD6pckkRUbfIuQ6t261029.shtml)
-
-+ [美联储宣布维持利率不变](https://news.cctv.com/2026/10/29/ARTIEwnZdxWMfHFb3tzONvce261029.shtml)
-
-+ [伊朗称在霍尔木兹海峡上空击落美军无人机](https://news.cctv.com/2026/10/29/ARTIpLf9PTusoVv02ZCabS1K261029.shtml)
-
-+ [TBS百般狡辩 日本网民不买账：毫无意义的借口！](https://news.cctv.com/2026/10/29/ARTIeuUz8rjxvZqdJlbORwHW261029.shtml)
-
-+ [2028年洛杉矶奥运会和残奥会口号公布：“群星共耀”](https://news.cctv.com/2026/10/29/ARTI0lLhbx0gEaxQKQn2wGip261029.shtml)
 
