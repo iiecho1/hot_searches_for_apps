@@ -119,3 +119,7 @@
 
 + [借助 AI 在 Win11 上搭建 Rocky Linux：用 Visual Studio 直接调试 Linux 服务](https://blog.csdn.net/zuiyuewentian/article/details/169460327)
 
++ [【Azure APIM】使用 Terraform 为现有 APIM 配置自动缩放](https://blog.csdn.net/lubu123456/article/details/169364438)
+
++ [校园外卖平台选模板还是定制：架构、数据流与验收清单](https://blog.csdn.net/weixin_51117207/article/details/169441372)
+

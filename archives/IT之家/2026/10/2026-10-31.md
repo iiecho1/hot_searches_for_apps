@@ -25,3 +25,7 @@
 
 + [iPhone 18 Pro / Max 20:00 至高补贴 1600 元， AirPods Pro 3 京东自营破冰新低](https://m.ithome.com/html/1020270.htm)
 
++ [59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归](https://m.ithome.com/html/1019798.htm)
+
++ [星闪 SLE 2.0 核心升级高清音频、高精测距功能，恒玄、华为海思等厂商发布 20+ 款芯片](https://m.ithome.com/html/1019796.htm)
+

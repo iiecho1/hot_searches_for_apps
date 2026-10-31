@@ -65,3 +65,7 @@
 
 + [【up主创作大赛】我可不是娇滴滴的女王！](https://m.acfun.cn/v/?ac=48950531)
 
++ [那席卷而来的粉红季风【pink monsoon翻唱】](https://m.acfun.cn/v/?ac=48950848)
+
++ [【东方】帕裘的猫度研究【LapkiKotika 手书动画】](https://m.acfun.cn/v/?ac=48948654)
+
