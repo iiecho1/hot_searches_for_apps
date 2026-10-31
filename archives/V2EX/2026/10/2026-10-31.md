@@ -45,3 +45,7 @@
 
 + [大家目前被封禁了几个 Claude 账户？](https://www.v2ex.com/t/1253335)
 
++ [claude 似乎 今天对 pro 和 free 用户执行 ID verification 了](https://www.v2ex.com/t/1253347)
+
++ [LockSticky 喜提大陆 App Store 下架](https://www.v2ex.com/t/1253370)
+

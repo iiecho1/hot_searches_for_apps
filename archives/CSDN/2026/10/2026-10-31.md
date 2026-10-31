@@ -155,3 +155,35 @@
 
 + [【RabbitMQ】高级篇](https://blog.csdn.net/2503_94545876/article/details/169350678)
 
++ [ClipSketch AI把视频改造成图文漫画：选关键帧、生成手绘分镜、融合IP形象并自动写小红书文案](https://blog.csdn.net/2301_81134882/article/details/169464927)
+
++ [【花雕动手做】ESP-Mosaico V1.2：硬件详解、Vibe Coding 与 Agent 闭环的模块化 AI 开发平台](https://blog.csdn.net/weixin_41659040/article/details/169548600)
+
++ [Visio、Axure、draw.io、ProcessOn、墨刀、Figma：六款工具哪个该干哪件事](https://blog.csdn.net/masonwu21/article/details/169466676)
+
++ [AI 应用后端工程（01）：明明开启了流式输出，为什么用户还是要等？](https://blog.csdn.net/2501_94225300/article/details/169646706)
+
++ [Service Mesh 可观测性：分布式追踪、指标与日志的统一方案](https://blog.csdn.net/vipxieliang/article/details/169533940)
+
++ [WSL2 迁移教程：把Ubuntu+WSL2从C盘挪到别的盘](https://blog.csdn.net/2401_87941709/article/details/169449178)
+
++ [网络安全实战第5期：Wireshark抓明文密码](https://blog.csdn.net/2401_88349202/article/details/169435778)
+
++ [Small Spring IOC篇：作用域和FactoryBean](https://blog.csdn.net/Rookiebird829/article/details/169457468)
+
++ [Spring Boot + RabbitMQ + Elasticsearch 实现租房平台房源搜索异步同步](https://blog.csdn.net/qq879456/article/details/169465400)
+
++ [Transformer架构：从原理、架构到大模型落地](https://blog.csdn.net/qq_27931647/article/details/169563940)
+
++ [加了 @TableLogic 后统计少了一半：逻辑删除把我的数据“藏“起来了（附 MyBatis-Plus + Oracle 完整修复方案）](https://blog.csdn.net/xdsfsadfas/article/details/169444067)
+
++ [2026 国产 FPGA 核心板怎么选？工控/视觉/通信/科研，四场景对板指南](https://blog.csdn.net/yingheceping/article/details/169438283)
+
++ [TextIn xParse 实战：用版面坐标做面单隐私取证与脱敏](https://blog.csdn.net/sinat_41617212/article/details/169368198)
+
++ [Spring Boot + DeepSeek 求职 Agent 实践：工具注册、多轮调用与简历 JD 对比](https://blog.csdn.net/qq_64669006/article/details/169445749)
+
++ [第十篇：《全文检索：tsvector、tsquery 与中文分词》](https://blog.csdn.net/qq_45239623/article/details/169365748)
+
++ [网络安全事件应急响应:X集团 WebServer 入侵溯源与处置](https://blog.csdn.net/kingx3/article/details/169651026)
+

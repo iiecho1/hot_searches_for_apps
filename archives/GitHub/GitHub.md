@@ -31,3 +31,13 @@
 
 + [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 
++ [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+
++ [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)
+
++ [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+
++ [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
++ [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+

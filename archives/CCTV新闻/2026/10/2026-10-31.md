@@ -175,3 +175,27 @@
 
 + [北美观察丨美国中期选举倒计时 选情生变官司不断](https://news.cctv.com/2026/10/31/ARTIKdhCs46MXDh2NM8ANRmy261031.shtml)
 
++ [国际人士：二十届五中全会展现中国共产党全面从严治党的信心和决心](https://news.cctv.com/2026/10/31/ARTIdsqMBxAEmTlwv7mTdN0m261031.shtml)
+
++ [综述｜澳大利亚展商将以历史最大规模亮相进博会](https://news.cctv.com/2026/10/31/ARTITNMGNXNOLQD0eli290Wt261031.shtml)
+
++ [德国总统施泰因迈尔：对中国的发展成就深为钦佩](https://news.cctv.com/2026/10/31/ARTI2GMAg85kviDxHslWmWBD261031.shtml)
+
++ [助小博索纳罗“流亡”？巴西向阿根廷要说法](https://news.cctv.com/2026/10/31/ARTI1Xh7P1Q8wIoGypaMZrfk261031.shtml)
+
++ [国际观察丨美国中期选举：人工智能影响首次凸显](https://news.cctv.com/2026/10/31/ARTIqzfZT0HXz0jGpGyIbRcE261031.shtml)
+
++ [加拿大与欧盟启动构建“未来联盟” 一个问题被回避](https://news.cctv.com/2026/10/31/ARTIgujvC36wrqd1mOxU4std261031.shtml)
+
++ [伊朗军方：若美国再采取冒险行动 战火必将蔓延](https://news.cctv.com/2026/10/31/ARTIP8svq4EoQnArrXOmCQwT261031.shtml)
+
++ [国际舆论高度关注中共二十届五中全会——“进一步增强了百年大党的稳定性和凝聚力”（外媒看中国）](https://news.cctv.com/2026/10/31/ARTIT4T7c8hJCPFOVjq2Q6ZV261031.shtml)
+
++ [日本民众抗议高市政府谋求调整核政策](https://news.cctv.com/2026/10/31/ARTIaxedx1qNjXRTBet2rJ3R261031.shtml)
+
++ [多重利空刺激美股金价大跌](https://news.cctv.com/2026/10/31/ARTI8uABCMvZwa17stvhkRUG261031.shtml)
+
++ [俄外长拉夫罗夫：乌方破坏会谈氛围 俄美根本问题未解](https://news.cctv.com/2026/10/31/ARTIlZsX8U0dUbfv3SPe6o6m261031.shtml)
+
++ [消息人士透露美计划在中期选举后恢复对伊朗打击](https://news.cctv.com/2026/10/31/ARTIKMDkhvfHF4ViaIyGtHYF261031.shtml)
+
