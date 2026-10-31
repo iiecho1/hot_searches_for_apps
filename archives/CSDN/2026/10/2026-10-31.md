@@ -123,3 +123,35 @@
 
 + [校园外卖平台选模板还是定制：架构、数据流与验收清单](https://blog.csdn.net/weixin_51117207/article/details/169441372)
 
++ [把简历和岗位表丢给 AI，它说「能报」——但 8 个维度里它漏看了哪一个？](https://blog.csdn.net/sinat_41617212/article/details/169364388)
+
++ [VLA 机器人为什么会重复操作？拆解 MEM 与 IMPRINT 的记忆机制机器人抓空一次以后，为什么还会照着原来的方式再抓？](https://blog.csdn.net/2501_91731683/article/details/169364686)
+
++ [2026 后端 AI 工程化落地：Spring AI、MCP 与 Agent 内嵌分别解决什么问题](https://blog.csdn.net/m0_74899094/article/details/169549897)
+
++ [远程断开之后，那台电脑真的「关干净」了吗？三款远控收尾实测](https://blog.csdn.net/u014727709/article/details/169360896)
+
++ [2026 中国企业 DevOps 平台怎么选：从排名叙事回到可核验的选型维度](https://blog.csdn.net/2602_96414767/article/details/169441710)
+
++ [模型快了，机器人就能动吗？从 OpenVLA-OFT 到启元 Q1 的 8 步动作块适配实验](https://blog.csdn.net/2402_83344867/article/details/169535591)
+
++ [机器人官网及机器人相关设计学习视频下载](https://blog.csdn.net/clusterying1/article/details/169465083)
+
++ [MySQL 自增 ID 空洞：为什么删了数据 ID 还是不连续](https://blog.csdn.net/for_ever_love__/article/details/168146065)
+
++ [Spring Boot + MinIO 大文件上传完整实战：MD5 秒传、分片上传、断点续传与引用一致性](https://blog.csdn.net/cmh1008611/article/details/169464956)
+
++ [7 种方案：电脑无线传输文件至安卓手机全教程](https://blog.csdn.net/Digitally/article/details/163367296)
+
++ [Godot-GridGame架构DI容器全局联动设计](https://blog.csdn.net/2503_93490340/article/details/169364801)
+
++ [Kafka 架构、消息可靠性与生产运维：从分区模型到故障治理](https://blog.csdn.net/m0_72376392/article/details/169461750)
+
++ [云诊所门诊系统源码，基于SpringBoot+Vue.js架构，支持多租户设计与Docker容器化部署](https://blog.csdn.net/m0_67098612/article/details/169436980)
+
++ [【从零开始学习数据仓库 | 第一篇】:维度建模理论](https://blog.csdn.net/icedating/article/details/169343156)
+
++ [安卓玩机工具----开源的国产安卓手机去广告工具：不用 Root、不刷机 ](https://blog.csdn.net/mg668/article/details/169364678)
+
++ [【RabbitMQ】高级篇](https://blog.csdn.net/2503_94545876/article/details/169350678)
+

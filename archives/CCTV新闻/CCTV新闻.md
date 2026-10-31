@@ -167,3 +167,11 @@
 
 + [多国发布旅行安全提醒 警告公民注意法国新一轮示威活动](https://news.cctv.com/2026/10/31/ARTIxCv91J3C2EPaHZKaJuap261030.shtml)
 
++ [进博会“全勤生”珍得对中国市场充满信心](https://news.cctv.com/2026/10/31/ARTIHgHDzuZ9CO7nrIjqQTIa261031.shtml)
+
++ [惠誉将法国主权信用评级展望下调至“负面”](https://news.cctv.com/2026/10/31/ARTIWLwHpWGrDn8L8l6YDU3H261031.shtml)
+
++ [波兰宪法法院发生抗议冲突 总统中断访问紧急回国](https://news.cctv.com/2026/10/31/ARTIH70lMlIX8STKBsBPtegv261031.shtml)
+
++ [北美观察丨美国中期选举倒计时 选情生变官司不断](https://news.cctv.com/2026/10/31/ARTIKdhCs46MXDh2NM8ANRmy261031.shtml)
+
