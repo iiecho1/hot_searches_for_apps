@@ -21,3 +21,5 @@
 
 + [Apple 智能即将登陆中国](https://www.v2ex.com/t/1253336)
 
++ [周六/周日还会有重置吗？](https://www.v2ex.com/t/1253361)
+

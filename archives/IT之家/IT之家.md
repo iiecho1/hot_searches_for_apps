@@ -25,3 +25,5 @@
 
 + [消息称苹果下发指引，要求门店按标准流程维修 / 更换 iPhone Duo 内屏开裂](https://m.ithome.com/html/1020397.htm)
 
++ [长按电源键 12 秒，你的 Windows 电脑到底经历了什么？](https://m.ithome.com/html/1020460.htm)
+

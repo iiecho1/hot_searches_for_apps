@@ -61,3 +61,5 @@
 
 + [【up主创作大赛】黑百合up down 竖屏来袭！](https://m.acfun.cn/v/?ac=48949740)
 
++ [【UP创作大赛】AC娘的Happy Halloween!](https://m.acfun.cn/v/?ac=48952281)
+

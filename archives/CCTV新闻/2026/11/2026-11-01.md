@@ -161,3 +161,7 @@
 
 + [刚果（金）埃博拉确诊病例数破万](https://news.cctv.com/2026/10/27/ARTIXYaA63mk1XmvhewWU63I261027.shtml)
 
++ [逛进博会还能吃遍世界！在上海解锁环球舌尖之旅](https://news.cctv.com/2026/11/01/ARTIPVtydjiNabzleNFywqh6261031.shtml)
+
++ [挪威官方发起旅游宣介——“让厕所再次伟大”](https://news.cctv.com/2026/11/01/ARTIUBw2UepjLsUFzlOREuJY261031.shtml)
+
