@@ -1,5 +1,45 @@
 ## CCTV新闻 
-### 2026-10-31
+### 2026-11-01
+
++ [英首相称愿考虑就奴隶贸易道歉 但拒绝赔偿](https://news.cctv.com/2026/11/01/ARTIZeRL470NKntcPvbE25Cz261031.shtml)
+
++ [国际人士：二十届五中全会展现中国共产党全面从严治党的信心和决心](https://news.cctv.com/2026/10/31/ARTIdsqMBxAEmTlwv7mTdN0m261031.shtml)
+
++ [综述｜澳大利亚展商将以历史最大规模亮相进博会](https://news.cctv.com/2026/10/31/ARTITNMGNXNOLQD0eli290Wt261031.shtml)
+
++ [德国总统施泰因迈尔：对中国的发展成就深为钦佩](https://news.cctv.com/2026/10/31/ARTI2GMAg85kviDxHslWmWBD261031.shtml)
+
++ [助小博索纳罗“流亡”？巴西向阿根廷要说法](https://news.cctv.com/2026/10/31/ARTI1Xh7P1Q8wIoGypaMZrfk261031.shtml)
+
++ [国际观察丨美国中期选举：人工智能影响首次凸显](https://news.cctv.com/2026/10/31/ARTIqzfZT0HXz0jGpGyIbRcE261031.shtml)
+
++ [加拿大与欧盟启动构建“未来联盟” 一个问题被回避](https://news.cctv.com/2026/10/31/ARTIgujvC36wrqd1mOxU4std261031.shtml)
+
++ [伊朗军方：若美国再采取冒险行动 战火必将蔓延](https://news.cctv.com/2026/10/31/ARTIP8svq4EoQnArrXOmCQwT261031.shtml)
+
++ [国际舆论高度关注中共二十届五中全会——“进一步增强了百年大党的稳定性和凝聚力”（外媒看中国）](https://news.cctv.com/2026/10/31/ARTIT4T7c8hJCPFOVjq2Q6ZV261031.shtml)
+
++ [日本民众抗议高市政府谋求调整核政策](https://news.cctv.com/2026/10/31/ARTIaxedx1qNjXRTBet2rJ3R261031.shtml)
+
++ [多重利空刺激美股金价大跌](https://news.cctv.com/2026/10/31/ARTI8uABCMvZwa17stvhkRUG261031.shtml)
+
++ [俄外长拉夫罗夫：乌方破坏会谈氛围 俄美根本问题未解](https://news.cctv.com/2026/10/31/ARTIlZsX8U0dUbfv3SPe6o6m261031.shtml)
+
++ [消息人士透露美计划在中期选举后恢复对伊朗打击](https://news.cctv.com/2026/10/31/ARTIKMDkhvfHF4ViaIyGtHYF261031.shtml)
+
++ [进博会“全勤生”珍得对中国市场充满信心](https://news.cctv.com/2026/10/31/ARTIHgHDzuZ9CO7nrIjqQTIa261031.shtml)
+
++ [惠誉将法国主权信用评级展望下调至“负面”](https://news.cctv.com/2026/10/31/ARTIWLwHpWGrDn8L8l6YDU3H261031.shtml)
+
++ [波兰宪法法院发生抗议冲突 总统中断访问紧急回国](https://news.cctv.com/2026/10/31/ARTIH70lMlIX8STKBsBPtegv261031.shtml)
+
++ [北美观察丨美国中期选举倒计时 选情生变官司不断](https://news.cctv.com/2026/10/31/ARTIKdhCs46MXDh2NM8ANRmy261031.shtml)
+
++ [美军多处基地冰箱冰柜疑“被黑” 大量食品变质](https://news.cctv.com/2026/10/31/ARTILtAfsRwMXdYI2cYIeZtR261030.shtml)
+
++ [西班牙列车事故中有70起失踪报案 西交通大臣称不会辞职](https://news.cctv.com/2026/10/31/ARTI2H24cpKgL1Yh3pcFTiTA261030.shtml)
+
++ [多国发布旅行安全提醒 警告公民注意法国新一轮示威活动](https://news.cctv.com/2026/10/31/ARTIxCv91J3C2EPaHZKaJuap261030.shtml)
 
 + [第170次中老缅泰湄公河联合巡逻执法行动圆满结束](https://news.cctv.com/2026/10/30/ARTIFbQO2EwsTewLWGfjAzQq261030.shtml)
 
@@ -120,82 +160,4 @@
 + [约旦称在叙南部打死20多名“伊斯兰国”武装人员](https://news.cctv.com/2026/10/27/ARTIvjRtzjpXcBYt5c8LGPNk261027.shtml)
 
 + [刚果（金）埃博拉确诊病例数破万](https://news.cctv.com/2026/10/27/ARTIXYaA63mk1XmvhewWU63I261027.shtml)
-
-+ [墨西哥国家选举机构负责人因腐败丑闻辞职](https://news.cctv.com/2026/10/27/ARTIoa75EhkuKwdPthCB4fd5261027.shtml)
-
-+ [苏丹一发电站遭无人机袭击致大面积停电](https://news.cctv.com/2026/10/27/ARTIbUJ2LU8RgaHCf2iRG0eh261027.shtml)
-
-+ [中国作为首批签约国签署《联合国可转让货物单证公约》](https://news.cctv.com/2026/10/27/ARTImsuaLhz3wkoSMs3Chwnm261027.shtml)
-
-+ [约旦内政大臣称逮捕三名卡拉克省教堂“恐怖袭击”实施者](https://news.cctv.com/2026/10/27/ARTIkWZca0Phr7sR5vxTbgeI261027.shtml)
-
-+ [日本青少年犯罪人数近年持续上升](https://news.cctv.com/2026/10/27/ARTIjSQvIKNJN3vW8oMLnQB7261027.shtml)
-
-+ [印度东北部发生枪击事件致5死1伤](https://news.cctv.com/2026/10/27/ARTIhvfJeHoJASFacRqghImx261027.shtml)
-
-+ [南苏丹瓦拉卜州政府通报一起武装袭击致72死38伤](https://news.cctv.com/2026/10/27/ARTIwsmMT4fES6dUBTS4ee5E261027.shtml)
-
-+ [安哥拉接连发生抢劫案件，被抢中国公民中有人被杀害，中使馆发布提醒](https://news.cctv.com/2026/10/27/ARTIHDlD30tHY1BgTFVBCTnY261027.shtml)
-
-+ [国际民航组织撤销对利比亚实施了10余年的空域限制](https://news.cctv.com/2026/10/27/ARTIbEdH0psRVXjZQFCFTYaE261027.shtml)
-
-+ [蒙古国总理将东部保护区大火定性为严重生态事件](https://news.cctv.com/2026/10/27/ARTIzDgi6PjfzEE8d2hoUela261027.shtml)
-
-+ [驻法兰克福总领馆提醒领区中国公民注意防范游行示威相关风险](https://news.cctv.com/2026/10/27/ARTIi578GGlO2L8bOQV2grWL261027.shtml)
-
-+ [乌克兰基辅市发生多次爆炸](https://news.cctv.com/2026/10/27/ARTIwIQZPXy3iPt2KheqPxn5261027.shtml)
-
-+ [纪念东京审判开庭80周年图片展在纽约联合国总部开展](https://news.cctv.com/2026/10/27/ARTIeewBFQ5yGPeWlpEpLFMi261027.shtml)
-
-+ [阿尔及利亚总统决定向尼日尔派遣军队](https://news.cctv.com/2026/10/27/ARTIsylCXLa4D5z4J13UnyNI261027.shtml)
-
-+ [以色列议会选举，内塔尼亚胡能否挺过命运“大考”？](https://news.cctv.com/2026/10/27/ARTIvpB1vtTKrO2yYC5BW9jT261027.shtml)
-
-+ [墨西哥总统称多次拒绝美方入境开展缉毒行动的要求](https://news.cctv.com/2026/10/27/ARTItBMu3ebU6zZ6RaTZcYt0261027.shtml)
-
-+ [伊沙土巴四国同意磋商加强地区和平与安全领域合作](https://news.cctv.com/2026/10/27/ARTIQG12UUw6z6tbvegpGzP7261027.shtml)
-
-+ [COP17主席：中国为COP17谈判提供重要助力](https://news.cctv.com/2026/10/27/ARTIHq9kha3OyX7RECrUuhaV261026.shtml)
-
-+ [联合国调查委员会：以色列在加沙持续实施种族灭绝](https://news.cctv.com/2026/10/27/ARTI6WU7HG5cg8k65SGYQSkf261026.shtml)
-
-+ [伊朗总统：伊朗的目标是发展多边主义](https://news.cctv.com/2026/10/26/ARTIqwXgAD21NZ39Re3BM4gs261026.shtml)
-
-+ [美军多处基地冰箱冰柜疑“被黑” 大量食品变质](https://news.cctv.com/2026/10/31/ARTILtAfsRwMXdYI2cYIeZtR261030.shtml)
-
-+ [西班牙列车事故中有70起失踪报案 西交通大臣称不会辞职](https://news.cctv.com/2026/10/31/ARTI2H24cpKgL1Yh3pcFTiTA261030.shtml)
-
-+ [多国发布旅行安全提醒 警告公民注意法国新一轮示威活动](https://news.cctv.com/2026/10/31/ARTIxCv91J3C2EPaHZKaJuap261030.shtml)
-
-+ [进博会“全勤生”珍得对中国市场充满信心](https://news.cctv.com/2026/10/31/ARTIHgHDzuZ9CO7nrIjqQTIa261031.shtml)
-
-+ [惠誉将法国主权信用评级展望下调至“负面”](https://news.cctv.com/2026/10/31/ARTIWLwHpWGrDn8L8l6YDU3H261031.shtml)
-
-+ [波兰宪法法院发生抗议冲突 总统中断访问紧急回国](https://news.cctv.com/2026/10/31/ARTIH70lMlIX8STKBsBPtegv261031.shtml)
-
-+ [北美观察丨美国中期选举倒计时 选情生变官司不断](https://news.cctv.com/2026/10/31/ARTIKdhCs46MXDh2NM8ANRmy261031.shtml)
-
-+ [国际人士：二十届五中全会展现中国共产党全面从严治党的信心和决心](https://news.cctv.com/2026/10/31/ARTIdsqMBxAEmTlwv7mTdN0m261031.shtml)
-
-+ [综述｜澳大利亚展商将以历史最大规模亮相进博会](https://news.cctv.com/2026/10/31/ARTITNMGNXNOLQD0eli290Wt261031.shtml)
-
-+ [德国总统施泰因迈尔：对中国的发展成就深为钦佩](https://news.cctv.com/2026/10/31/ARTI2GMAg85kviDxHslWmWBD261031.shtml)
-
-+ [助小博索纳罗“流亡”？巴西向阿根廷要说法](https://news.cctv.com/2026/10/31/ARTI1Xh7P1Q8wIoGypaMZrfk261031.shtml)
-
-+ [国际观察丨美国中期选举：人工智能影响首次凸显](https://news.cctv.com/2026/10/31/ARTIqzfZT0HXz0jGpGyIbRcE261031.shtml)
-
-+ [加拿大与欧盟启动构建“未来联盟” 一个问题被回避](https://news.cctv.com/2026/10/31/ARTIgujvC36wrqd1mOxU4std261031.shtml)
-
-+ [伊朗军方：若美国再采取冒险行动 战火必将蔓延](https://news.cctv.com/2026/10/31/ARTIP8svq4EoQnArrXOmCQwT261031.shtml)
-
-+ [国际舆论高度关注中共二十届五中全会——“进一步增强了百年大党的稳定性和凝聚力”（外媒看中国）](https://news.cctv.com/2026/10/31/ARTIT4T7c8hJCPFOVjq2Q6ZV261031.shtml)
-
-+ [日本民众抗议高市政府谋求调整核政策](https://news.cctv.com/2026/10/31/ARTIaxedx1qNjXRTBet2rJ3R261031.shtml)
-
-+ [多重利空刺激美股金价大跌](https://news.cctv.com/2026/10/31/ARTI8uABCMvZwa17stvhkRUG261031.shtml)
-
-+ [俄外长拉夫罗夫：乌方破坏会谈氛围 俄美根本问题未解](https://news.cctv.com/2026/10/31/ARTIlZsX8U0dUbfv3SPe6o6m261031.shtml)
-
-+ [消息人士透露美计划在中期选举后恢复对伊朗打击](https://news.cctv.com/2026/10/31/ARTIKMDkhvfHF4ViaIyGtHYF261031.shtml)
 
