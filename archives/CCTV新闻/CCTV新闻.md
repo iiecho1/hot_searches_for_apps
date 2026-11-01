@@ -161,3 +161,13 @@
 
 + [澳大利亚向我国返还2件流失文物](https://news.cctv.com/2026/10/28/ARTIkaS8qYeTUvA2YrN28jVG261028.shtml)
 
++ [苏丹向联合国提出申诉 指控埃塞俄比亚实施“侵略”](https://news.cctv.com/2026/11/02/ARTIGfXmyKEKvDF0lvSRqE83261102.shtml)
+
++ [美国佛罗里达州失事飞机上9人全部遇难](https://news.cctv.com/2026/11/02/ARTIYziBBXNCxhFNOA6Ja3no261102.shtml)
+
++ [伊朗外长披露“两天计划” 美方履约方能重启伊美谈判](https://news.cctv.com/2026/11/02/ARTIBO6XUub7F9D5LCYaCJFT261102.shtml)
+
++ [泽连斯基提议在土耳其与普京会晤](https://news.cctv.com/2026/11/02/ARTI7lCy8k7l0RZyyLPJrzK2261102.shtml)
+
++ [和谈窗口期所剩无几 美伊仍存核心分歧](https://news.cctv.com/2026/11/02/ARTIMPz8Hqp4vJSTiCNWF17l261101.shtml)
+

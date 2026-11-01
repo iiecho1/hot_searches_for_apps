@@ -99,3 +99,27 @@
 
 + [金铲铲165帧、火影120帧，多平台：三大模拟器横评，电竞帧率和多平台这两关，各模拟器怎么样？](https://blog.csdn.net/user340/article/details/169466422)
 
++ [2026 后端 AI 工程化：Spring AI 管调用、MCP 管工具、Agent 内嵌管自治](https://blog.csdn.net/2301_78967866/article/details/169744524)
+
++ [AI获客每日AI精选（2026.10.30）](https://blog.csdn.net/aibridge/article/details/169516571)
+
++ [不止是群聊Bot：定制属于你自己的Deepseek小鲸鱼](https://blog.csdn.net/qq_63241496/article/details/169745027)
+
++ [【C++三方组件】OpenCV：计算机视觉的事实标准](https://blog.csdn.net/xusiwei1236/article/details/169525160)
+
++ [用 AI 对话造出一个网页应用：WorkBuddy 全程驱动「破冰卡片」开发实录](https://blog.csdn.net/u013716535/article/details/169671466)
+
++ [rust webreg 服务注册](https://blog.csdn.net/leijmdas/article/details/169639604)
+
++ [第6讲：Streaming 优化——告别“转圈圈“的用户体验](https://blog.csdn.net/sandaoliuge/article/details/169239360)
+
++ [自建流量监控系统部署复盘：Cloudflare Workers 上的 pvuv](https://blog.csdn.net/xianyu120/article/details/169649930)
+
++ [Docker 容器时区错 8 小时：3 个坑](https://blog.csdn.net/n11212/article/details/169467676)
+
++ [GGUF 量化内幕：第17章 反量化与矩阵乘性能](https://blog.csdn.net/wizardforcel/article/details/169516066)
+
++ [零售与数仓（六）：决策执行——怎样把分析变成可检查的行动](https://blog.csdn.net/hiliang521/article/details/169649363)
+
++ [上门按摩系统开发全解析功能架构、资质合规、源码方案与成本预算](https://blog.csdn.net/top_yuns/article/details/169748877)
+
