@@ -29,3 +29,25 @@
 
 + [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 
++ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+
++ [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
++ [cjpais/Handy](https://github.com/cjpais/Handy)
+
++ [kornia/kornia](https://github.com/kornia/kornia)
+
++ [beenuar/AiSOC](https://github.com/beenuar/AiSOC)
+
++ [anomalyco/hex](https://github.com/anomalyco/hex)
+
++ [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+
++ [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+
++ [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+
++ [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+
++ [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+

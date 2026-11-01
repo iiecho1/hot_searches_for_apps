@@ -43,3 +43,13 @@
 
 + [apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？](https://www.v2ex.com/t/1253481)
 
++ [也也也失业了，写点接下来的路](https://www.v2ex.com/t/1253501)
+
++ [注册 claude 就弹 kyc](https://www.v2ex.com/t/1253499)
+
++ [我做了一个赛博乞讨网站](https://www.v2ex.com/t/1253521)
+
++ [当没 token 额度了 你会手改 AI 生成的代码吗 😂](https://www.v2ex.com/t/1253543)
+
++ [Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？](https://www.v2ex.com/t/1253477)
+

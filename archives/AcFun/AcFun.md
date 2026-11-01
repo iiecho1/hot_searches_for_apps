@@ -95,3 +95,45 @@
 
 + [诡异城堡的第一夜！恐怖老奶的上门服务！恐怖独立动画 My Wonderful Family EP2](https://m.acfun.cn/v/?ac=48951436)
 
++ [【UP创作大赛】虽千万人吾往矣，Ac在爱一直在！](https://m.acfun.cn/v/?ac=48953207)
+
++ [老师，我再也不逃课了！欢乐八点档-1820](https://m.acfun.cn/v/?ac=48953649)
+
++ [【up主原创大赛】哈喽bay要抱抱](https://m.acfun.cn/v/?ac=48952973)
+
++ [双王分享“麻辣兔头”，先卤后炸，拌上秘制料包绝了！](https://m.acfun.cn/v/?ac=48953238)
+
++ [影分身之术【今天有什么好笑的 #2554】](https://m.acfun.cn/v/?ac=48953640)
+
++ [拍三个阿哈会有人看是真的吗](https://m.acfun.cn/v/?ac=48952486)
+
++ [AEW Collision #168 2026.10.31](https://m.acfun.cn/v/?ac=48953177)
+
++ [Maria~](https://m.acfun.cn/v/?ac=48953654)
+
++ [交通事故20261101：交通车祸实例，提高安全驾驶意识](https://m.acfun.cn/v/?ac=48953258)
+
++ [【茗魂实况】影之刃零：前俩小boss，烧心](https://m.acfun.cn/v/?ac=48953902)
+
++ [【UP创作大赛】61.盘龙时代的巨兽狂潮，哺乳动物的破晓先驱：楔齿龙类演化史](https://m.acfun.cn/v/?ac=48947639)
+
++ [全都在操作，鏖战50分钟！快速看完一局韩服王者斗殴局#882 韩一刀, Wen, Dribble, ](https://m.acfun.cn/v/?ac=48946025)
+
++ [Stellar Vibrato](https://m.acfun.cn/v/?ac=48952703)
+
++ [欧洲人，会喜欢冰箱彩电大沙发吗？](https://m.acfun.cn/v/?ac=48952751)
+
++ [丧尸来袭！日本环球影城万圣节活动](https://m.acfun.cn/v/?ac=48952546)
+
++ [帅炸了！小美新歌粤语版《破茧之蝶》【美依礼芽】Borboletta·睡莲×铝次方](https://m.acfun.cn/v/?ac=48952385)
+
++ [思念像一场重感冒，但是可以不吃药硬抗](https://m.acfun.cn/v/?ac=48953946)
+
++ [她还是太强了](https://m.acfun.cn/v/?ac=48952779)
+
++ [我悟了啊！影之刃零是恶魔城！](https://m.acfun.cn/v/?ac=48952917)
+
++ [《你为什么把罩子交给他！》](https://m.acfun.cn/v/?ac=48952778)
+
++ [克里斯蒂安·恩比利 vs 卡内洛·阿瓦雷兹](https://m.acfun.cn/v/?ac=48953767)
+

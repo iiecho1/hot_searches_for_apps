@@ -181,3 +181,17 @@
 
 + [记者手记丨高物价，美国中期选举避不开的民生痛点](https://news.cctv.com/2026/11/01/ARTIF1dTIAmP5w1VIFjIFedg261101.shtml)
 
++ [国际人士高度评价中国共产党持之以恒推进全面从严治党](https://news.cctv.com/2026/11/01/ARTIZWSOgndzP5NYnWAzJixg261101.shtml)
+
++ [世界政党政要高度评价中国共产党二十届五中全会成果](https://news.cctv.com/2026/11/01/ARTIUX4GQyD2ImzWdr5zPzKS261101.shtml)
+
++ [中国驻俄罗斯大使馆关于切勿在俄非法采金的提醒](https://news.cctv.com/2026/11/01/ARTIxsGeJyaIiqFFk3RSy7Or261101.shtml)
+
++ [中东面面观丨以色列选举见证民意分化 组阁僵局或导致再度大选](https://news.cctv.com/2026/11/01/ARTIbjnE8YhlZ9hqPg5oM4q0261101.shtml)
+
++ [减少对美依赖 加拿大力推“中等强国外交”](https://news.cctv.com/2026/11/01/ARTIljqJSbiU2XVx3iuWeEOt261101.shtml)
+
++ [刚果（金）本轮埃博拉疫情死亡率升至51.6%](https://news.cctv.com/2026/11/01/ARTIb0TIAKEmFHUiQMyDcuxf261101.shtml)
+
++ [欧洲多国爆发示威活动 数百人被捕](https://news.cctv.com/2026/11/01/ARTIltWFIywKJu7oPQpi5uV9261101.shtml)
+

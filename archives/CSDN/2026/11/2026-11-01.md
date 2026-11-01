@@ -155,3 +155,39 @@
 
 + [Windows 11 KB5127936 预览更新详解：右键菜单、云重建与企业修复](https://blog.csdn.net/weixin_47431459/article/details/169458770)
 
++ [Harness Engineering 元年：AI Agent 从「能跑」走向「可控交付」的工程门禁实践](https://blog.csdn.net/m0_74899094/article/details/169730002)
+
++ [AI 应用后端工程（01）：流式输出开了，用户为什么还要干等？拆解首字延迟的每一道关卡](https://blog.csdn.net/2301_78967866/article/details/169744484)
+
++ [用 AI 对话造出一个网页应用：WorkBuddy 全程驱动「破冰卡片」开发实录](https://blog.csdn.net/u013716535/article/details/169671466)
+
++ [【计算机网络】OSI 七层和 TCP/IP 四层到底啥关系？背口诀的都进来挨骂](https://blog.csdn.net/lihaoweiwudi_/article/details/169465366)
+
++ [DNA 序列数据分析与处理：逐步操作手册](https://blog.csdn.net/m0_73879806/article/details/169347142)
+
++ [【Redis】Java & JavaSpring 客户端](https://blog.csdn.net/2501_90752941/article/details/169652671)
+
++ [【C++三方组件】OpenCV：计算机视觉的事实标准](https://blog.csdn.net/xusiwei1236/article/details/169525160)
+
++ [手搓 LVS-DR 负载均衡](https://blog.csdn.net/2301_81706293/article/details/169650844)
+
++ [拆解小红书「点点」：产品经理看到护城河，开发者看到一堆脏数据](https://blog.csdn.net/2203_75594169/article/details/169654905)
+
++ [英中 / 中英对照制作程序：操作指南](https://blog.csdn.net/howard2005/article/details/169650415)
+
++ [Proxmox VE 上搭建 Vulhub 靶场：Ubuntu + Docker ](https://blog.csdn.net/XiaoYeZhu_1314/article/details/169558267)
+
++ [Layout.WatchDog.NET 1.5.0-beta.3 发布：统一全后端雪花 ID 策略，数据库能力矩阵一览](https://blog.csdn.net/ChaITSimpleLove/article/details/169465239)
+
++ [工具推荐 - KeeWeb Next：一份密码库，Mac、Windows、Linux 都能用](https://blog.csdn.net/wangyantsing/article/details/169466443)
+
++ [给 WorkBuddy 开放平台上架 Skill，我踩了四个解析失败的坑](https://blog.csdn.net/weixin_51004001/article/details/169745273)
+
++ [我把ThingsBoard、JetLinks、IoT DC3的架构拆开后，发现了Java物联网工程师的4条护城河](https://blog.csdn.net/sinat_37239798/article/details/169466074)
+
++ [GitHub Actions 打包 Windows exe：中文编码与产物上传](https://blog.csdn.net/Sakura_j_h_/article/details/169505252)
+
++ [31_uniapp部分平台onUnhandledRejection钩子无效问题修复](https://blog.csdn.net/gzx110304/article/details/169562633)
+
++ [开源移植实战：把 Arduino IDE 移植到鸿蒙 PC —— 轻创客 适配全记录](https://blog.csdn.net/qq_41746324/article/details/169655190)
+
