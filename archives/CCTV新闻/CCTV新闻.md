@@ -165,3 +165,9 @@
 
 + [挪威官方发起旅游宣介——“让厕所再次伟大”](https://news.cctv.com/2026/11/01/ARTIUBw2UepjLsUFzlOREuJY261031.shtml)
 
++ [法国再现大规模示威活动 警方逮捕422人](https://news.cctv.com/2026/11/01/ARTIwSVxDCpTOwiTo78Fl1ZW261101.shtml)
+
++ [俄方称从美方获悉莫斯科可能发生恐袭](https://news.cctv.com/2026/11/01/ARTI19vTCFVD3I8ze1wiFDEt261101.shtml)
+
++ [鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定](https://news.cctv.com/2026/11/01/ARTIhzRN7bCGpXseMCLFTfj4261101.shtml)
+

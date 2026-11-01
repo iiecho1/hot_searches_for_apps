@@ -63,3 +63,7 @@
 
 + [【UP创作大赛】AC娘的Happy Halloween!](https://m.acfun.cn/v/?ac=48952281)
 
++ [【UP创作大赛】市丸银小乌复活？限定蓝染！死神新游公测提档！](https://m.acfun.cn/v/?ac=48952404)
+
++ [Oh!](https://m.acfun.cn/v/?ac=48951351)
+
