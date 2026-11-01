@@ -1,5 +1,39 @@
 ## CCTV新闻 
-### 2026-11-01
+### 2026-11-02
+
++ [世界周刊 | 视线：美国“攻防战”](https://news.cctv.com/2026/11/02/ARTI7y7lJDQUYTB2wUiUNR00261101.shtml)
+
++ [国际人士高度评价中国共产党持之以恒推进全面从严治党](https://news.cctv.com/2026/11/01/ARTIZWSOgndzP5NYnWAzJixg261101.shtml)
+
++ [世界政党政要高度评价中国共产党二十届五中全会成果](https://news.cctv.com/2026/11/01/ARTIUX4GQyD2ImzWdr5zPzKS261101.shtml)
+
++ [中国驻俄罗斯大使馆关于切勿在俄非法采金的提醒](https://news.cctv.com/2026/11/01/ARTIxsGeJyaIiqFFk3RSy7Or261101.shtml)
+
++ [中东面面观丨以色列选举见证民意分化 组阁僵局或导致再度大选](https://news.cctv.com/2026/11/01/ARTIbjnE8YhlZ9hqPg5oM4q0261101.shtml)
+
++ [减少对美依赖 加拿大力推“中等强国外交”](https://news.cctv.com/2026/11/01/ARTIljqJSbiU2XVx3iuWeEOt261101.shtml)
+
++ [刚果（金）本轮埃博拉疫情死亡率升至51.6%](https://news.cctv.com/2026/11/01/ARTIb0TIAKEmFHUiQMyDcuxf261101.shtml)
+
++ [欧洲多国爆发示威活动 数百人被捕](https://news.cctv.com/2026/11/01/ARTIltWFIywKJu7oPQpi5uV9261101.shtml)
+
++ [伊朗外交部将英国海军和空军列为“恐怖组织”](https://news.cctv.com/2026/11/01/ARTI1TpnPvgFDvKI1DcXTyRS261101.shtml)
+
++ [特朗普：不打算见弗拉维奥·博索纳罗 但他可以长居美国](https://news.cctv.com/2026/11/01/ARTISZhO1HsJzorwiU33w02U261101.shtml)
+
++ [二十国集团外长会未就地缘和经济安全问题达成共识](https://news.cctv.com/2026/11/01/ARTImP5e5GRkSmvDhNo1BmYM261101.shtml)
+
++ [美方分析报告称伊朗袭击造成中东地区美军基地严重损失](https://news.cctv.com/2026/11/01/ARTIgzs3YLfktyvLJS1LtaRD261101.shtml)
+
++ [记者手记丨高物价，美国中期选举避不开的民生痛点](https://news.cctv.com/2026/11/01/ARTIF1dTIAmP5w1VIFjIFedg261101.shtml)
+
++ [法国再现大规模示威活动 警方逮捕422人](https://news.cctv.com/2026/11/01/ARTIwSVxDCpTOwiTo78Fl1ZW261101.shtml)
+
++ [俄方称从美方获悉莫斯科可能发生恐袭](https://news.cctv.com/2026/11/01/ARTI19vTCFVD3I8ze1wiFDEt261101.shtml)
+
++ [鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定](https://news.cctv.com/2026/11/01/ARTIhzRN7bCGpXseMCLFTfj4261101.shtml)
+
++ [挪威官方发起旅游宣介——“让厕所再次伟大”](https://news.cctv.com/2026/11/01/ARTIUBw2UepjLsUFzlOREuJY261031.shtml)
 
 + [英首相称愿考虑就奴隶贸易道歉 但拒绝赔偿](https://news.cctv.com/2026/11/01/ARTIZeRL470NKntcPvbE25Cz261031.shtml)
 
@@ -126,72 +160,4 @@
 + [草原火灾过火面积超44万公顷 蒙古国增派专家赴现场调查](https://news.cctv.com/2026/10/28/ARTI3FyGtDNHB3fJ9ZP3QEwh261028.shtml)
 
 + [澳大利亚向我国返还2件流失文物](https://news.cctv.com/2026/10/28/ARTIkaS8qYeTUvA2YrN28jVG261028.shtml)
-
-+ [驻日美军举行“海马斯”实弹射击训练](https://news.cctv.com/2026/10/28/ARTIn3pjFgJPukdrH2fGAQeW261028.shtml)
-
-+ [内塔尼亚胡：利库德集团是以色列最大政党](https://news.cctv.com/2026/10/28/ARTIza5FP8JBdIsnF2zFY4e5261028.shtml)
-
-+ [特朗普：只有中期选举“诚实公正”才接受其结果](https://news.cctv.com/2026/10/28/ARTIAknSkCdCdDgvxafAtNJC261028.shtml)
-
-+ [荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀](https://news.cctv.com/2026/10/28/ARTIYKANuQavRV9B4lzeDALg261028.shtml)
-
-+ [日本政府开出标准 大阪等四地争当“副首都”](https://news.cctv.com/2026/10/28/ARTIjL2awrW5s9S7ZMFGkzGs261028.shtml)
-
-+ [巴西自由党众议员称弗拉维奥·博索纳罗已前往美国](https://news.cctv.com/2026/10/28/ARTI32svCmzp27lOy629y9YD261028.shtml)
-
-+ [梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大](https://news.cctv.com/2026/10/28/ARTIvfZtzbk4YYFgJEqLL0n1261028.shtml)
-
-+ [出口民调显示内塔尼亚胡阵营未获议会多数席位](https://news.cctv.com/2026/10/28/ARTIKp8iuF4ty1JOUYrPD2OK261028.shtml)
-
-+ [巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金](https://news.cctv.com/2026/10/28/ARTIfwnQH25rAPvlZqVADk0V261028.shtml)
-
-+ [也门胡塞武装：埃及授权军事支持沙特等同于“宣战”](https://news.cctv.com/2026/10/28/ARTI2AfjKcEf2lPhvMOnN6UI261027.shtml)
-
-+ [世界气象组织：地球大气温室气体浓度再创新高](https://news.cctv.com/2026/10/28/ARTIyhfX9mXjDiF8duaG40AK261027.shtml)
-
-+ [美再发战争威胁 伊土沙巴四国谋安全自主](https://news.cctv.com/2026/10/28/ARTIdBUaxNCPwaxL4uj0hOQN261027.shtml)
-
-+ [涉费尔福德空军基地事件 两人被控危害英国国家安全](https://news.cctv.com/2026/10/27/ARTIvf6lHLvtHWQU7ZK96R6R261027.shtml)
-
-+ [佩斯科夫：俄美乌三方会谈时间尚未确定](https://news.cctv.com/2026/10/27/ARTI5fsWQasGcyVtJrpu2F71261027.shtml)
-
-+ [韩国大法院签发对金建希的延长拘留令](https://news.cctv.com/2026/10/27/ARTIFUxcAanT2B1uhlve2ItU261027.shtml)
-
-+ [约旦称在叙南部打死20多名“伊斯兰国”武装人员](https://news.cctv.com/2026/10/27/ARTIvjRtzjpXcBYt5c8LGPNk261027.shtml)
-
-+ [刚果（金）埃博拉确诊病例数破万](https://news.cctv.com/2026/10/27/ARTIXYaA63mk1XmvhewWU63I261027.shtml)
-
-+ [逛进博会还能吃遍世界！在上海解锁环球舌尖之旅](https://news.cctv.com/2026/11/01/ARTIPVtydjiNabzleNFywqh6261031.shtml)
-
-+ [挪威官方发起旅游宣介——“让厕所再次伟大”](https://news.cctv.com/2026/11/01/ARTIUBw2UepjLsUFzlOREuJY261031.shtml)
-
-+ [法国再现大规模示威活动 警方逮捕422人](https://news.cctv.com/2026/11/01/ARTIwSVxDCpTOwiTo78Fl1ZW261101.shtml)
-
-+ [俄方称从美方获悉莫斯科可能发生恐袭](https://news.cctv.com/2026/11/01/ARTI19vTCFVD3I8ze1wiFDEt261101.shtml)
-
-+ [鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定](https://news.cctv.com/2026/11/01/ARTIhzRN7bCGpXseMCLFTfj4261101.shtml)
-
-+ [伊朗外交部将英国海军和空军列为“恐怖组织”](https://news.cctv.com/2026/11/01/ARTI1TpnPvgFDvKI1DcXTyRS261101.shtml)
-
-+ [特朗普：不打算见弗拉维奥·博索纳罗 但他可以长居美国](https://news.cctv.com/2026/11/01/ARTISZhO1HsJzorwiU33w02U261101.shtml)
-
-+ [二十国集团外长会未就地缘和经济安全问题达成共识](https://news.cctv.com/2026/11/01/ARTImP5e5GRkSmvDhNo1BmYM261101.shtml)
-
-+ [美方分析报告称伊朗袭击造成中东地区美军基地严重损失](https://news.cctv.com/2026/11/01/ARTIgzs3YLfktyvLJS1LtaRD261101.shtml)
-
-+ [记者手记丨高物价，美国中期选举避不开的民生痛点](https://news.cctv.com/2026/11/01/ARTIF1dTIAmP5w1VIFjIFedg261101.shtml)
-
-+ [国际人士高度评价中国共产党持之以恒推进全面从严治党](https://news.cctv.com/2026/11/01/ARTIZWSOgndzP5NYnWAzJixg261101.shtml)
-
-+ [世界政党政要高度评价中国共产党二十届五中全会成果](https://news.cctv.com/2026/11/01/ARTIUX4GQyD2ImzWdr5zPzKS261101.shtml)
-
-+ [中国驻俄罗斯大使馆关于切勿在俄非法采金的提醒](https://news.cctv.com/2026/11/01/ARTIxsGeJyaIiqFFk3RSy7Or261101.shtml)
-
-+ [中东面面观丨以色列选举见证民意分化 组阁僵局或导致再度大选](https://news.cctv.com/2026/11/01/ARTIbjnE8YhlZ9hqPg5oM4q0261101.shtml)
-
-+ [减少对美依赖 加拿大力推“中等强国外交”](https://news.cctv.com/2026/11/01/ARTIljqJSbiU2XVx3iuWeEOt261101.shtml)
-
-+ [刚果（金）本轮埃博拉疫情死亡率升至51.6%](https://news.cctv.com/2026/11/01/ARTIb0TIAKEmFHUiQMyDcuxf261101.shtml)
-
-+ [欧洲多国爆发示威活动 数百人被捕](https://news.cctv.com/2026/11/01/ARTIltWFIywKJu7oPQpi5uV9261101.shtml)
 
