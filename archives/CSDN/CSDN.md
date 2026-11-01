@@ -111,3 +111,47 @@
 
 + [加了 @TableLogic 后统计少了一半：逻辑删除把我的数据“藏“起来了（附 MyBatis-Plus + Oracle 完整修复方案）](https://blog.csdn.net/xdsfsadfas/article/details/169444067)
 
++ [2026 后端 AI 工程化：Spring AI、MCP 与 Agent 内嵌分别解决什么问题](https://blog.csdn.net/m0_74899094/article/details/169651332)
+
++ [Service Mesh 可观测性：分布式追踪、指标与日志的统一方案](https://blog.csdn.net/vipxieliang/article/details/169533940)
+
++ [AI 术语体系：13 个高频术语](https://blog.csdn.net/u013669912/article/details/169453833)
+
++ [15 款最佳 AI 编程助手工具推荐](https://blog.csdn.net/qq_33589510/article/details/169454468)
+
++ [LangGraph Agent 任务规划中间件：TodoListMiddleware 原理解析](https://blog.csdn.net/L698698S/article/details/169464240)
+
++ [多源融合风险识别技术体系-多源数据采集与预处理Part3](https://blog.csdn.net/xidianlijie/article/details/169533988)
+
++ [借助 AI 在 Win11 上搭建 Rocky Linux：用 Visual Studio 直接调试 Linux 服务](https://blog.csdn.net/zuiyuewentian/article/details/169460327)
+
++ [花 3.7 元烧了 1 亿 Token：我给 DeepSeek 桌宠写了个会主动嘘寒问暖的插件](https://blog.csdn.net/chen090930/article/details/169723976)
+
++ [Hadoop 部署全流程教程：从新装 CentOS 到伪分布式与完全分布式](https://blog.csdn.net/u010674283/article/details/169527246)
+
++ [VLAN间通信原理与eNSP实验](https://blog.csdn.net/2201_75791683/article/details/169463918)
+
++ [Docker系列---Docker 镜像底层原理：分层存储、联合文件系统与写时复制](https://blog.csdn.net/2501_93712735/article/details/169652597)
+
++ [Apple Watch Ultra 2 高血压通知开通实测：iAnyGo 蓝牙模式与完整恢复流程](https://blog.csdn.net/changhaike/article/details/169457441)
+
++ [YOLOv2、YOLOv3、YOLOv4、YOLOv5 全面对比与总结](https://blog.csdn.net/2401_83857914/article/details/169463590)
+
++ [国产开源 OCR 双雄交锋：文心 Unlimited OCR 2 与 MiniCPM-OCR 全面详解](https://blog.csdn.net/weixin_67327688/article/details/169463834)
+
++ [Figo基于结构空间算法假设（SSAH)的生成式大模型优化范式与工程实现边界研究——提出适应AGI架构演化的自适应拓扑感知表征机制](https://blog.csdn.net/Figo_Cheung/article/details/169464454)
+
++ [时序数据库是什么？2026 年主流时序数据库选型指南与场景全解析](https://blog.csdn.net/user340/article/details/169464811)
+
++ [一次网络很卡的排障](https://blog.csdn.net/jiecy/article/details/169334399)
+
++ [Axios 请求成功但页面不显示：两个前端错误的分析与修正](https://blog.csdn.net/weixin_51288065/article/details/169458317)
+
++ [【元宝搜索开发者征文大赛】不荐货，只做尽调：用元宝搜索给二手数码做一张「买前决策卡」](https://blog.csdn.net/2402_88139312/article/details/169654452)
+
++ [CI 老被 Docker Hub 的 429 卡住，自建 Registry 把镜像搬进内网](https://blog.csdn.net/rustfs_contrib/article/details/168554672)
+
++ [【机器人感知运控笔记二】让地图持续跟上机器人：存储、融合与更新的加速设计](https://blog.csdn.net/zkk9527/article/details/169460736)
+
++ [Windows 11 KB5127936 预览更新详解：右键菜单、云重建与企业修复](https://blog.csdn.net/weixin_47431459/article/details/169458770)
+

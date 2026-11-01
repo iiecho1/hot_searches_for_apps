@@ -171,3 +171,13 @@
 
 + [鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定](https://news.cctv.com/2026/11/01/ARTIhzRN7bCGpXseMCLFTfj4261101.shtml)
 
++ [伊朗外交部将英国海军和空军列为“恐怖组织”](https://news.cctv.com/2026/11/01/ARTI1TpnPvgFDvKI1DcXTyRS261101.shtml)
+
++ [特朗普：不打算见弗拉维奥·博索纳罗 但他可以长居美国](https://news.cctv.com/2026/11/01/ARTISZhO1HsJzorwiU33w02U261101.shtml)
+
++ [二十国集团外长会未就地缘和经济安全问题达成共识](https://news.cctv.com/2026/11/01/ARTImP5e5GRkSmvDhNo1BmYM261101.shtml)
+
++ [美方分析报告称伊朗袭击造成中东地区美军基地严重损失](https://news.cctv.com/2026/11/01/ARTIgzs3YLfktyvLJS1LtaRD261101.shtml)
+
++ [记者手记丨高物价，美国中期选举避不开的民生痛点](https://news.cctv.com/2026/11/01/ARTIF1dTIAmP5w1VIFjIFedg261101.shtml)
+

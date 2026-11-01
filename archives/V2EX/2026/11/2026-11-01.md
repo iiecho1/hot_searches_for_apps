@@ -27,3 +27,19 @@
 
 + [看到很多相亲的帖子，对于大龄单身无孩的，是不是不结婚也比较好？](https://www.v2ex.com/t/1253387)
 
++ [[macOS] AbcTab：让 ⌘Tab 快得能跟上你的手 [送激活码]](https://www.v2ex.com/t/1253484)
+
++ [claude 跳 kyc 了，有啥渠道可以联系歪果仁帮忙 kyc 啊？](https://www.v2ex.com/t/1253446)
+
++ [我去，原来 Loon 的加密插件能明文直接看用户密码，怎么办啊 换哪个好](https://www.v2ex.com/t/1253483)
+
++ [给大家分享一下四款 ios 梯子软件的使用体验，我主要看哪个更省电](https://www.v2ex.com/t/1253420)
+
++ [恶心了， ChatGPT 要跟 Codex 共用额度了](https://www.v2ex.com/t/1253511)
+
++ [大家坐飞机的时候，怎么打发时间？](https://www.v2ex.com/t/1253504)
+
++ [把 Surge 换成 FlClash 了，实在用不起了～ 老铁们你们都用哪个客户端？](https://www.v2ex.com/t/1253435)
+
++ [apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？](https://www.v2ex.com/t/1253481)
+
