@@ -123,3 +123,73 @@
 
 + [上门按摩系统开发全解析功能架构、资质合规、源码方案与成本预算](https://blog.csdn.net/top_yuns/article/details/169748877)
 
++ [【Linux网络】UDP 聊天室怎么实现？从在线用户管理、消息广播到双线程收发与线程池](https://blog.csdn.net/2402_87731470/article/details/169269741)
+
++ [远程软件一崩就失联？我用几十块的玩客云做了套硬件级远控](https://blog.csdn.net/aiclaws/article/details/169838485)
+
++ [Spring Boot 4.1 + Spring AI 2.0：我如何用 Java 微服务把 RAG、知识图谱和 MCP 协议串成一个 Agent 平台](https://blog.csdn.net/qq_37980551/article/details/169652600)
+
++ [Go 逃逸分析与内存优化：从读懂 -gcflags=“-m“ 到降低 GC 压力](https://blog.csdn.net/vipxieliang/article/details/169644004)
+
++ [DolphinDB 存储容量规划实战：增长监控、满盘倒计时与扩容决策](https://blog.csdn.net/Rqaqedamancy/article/details/169650527)
+
++ [腾讯 Buddy One 上手：跨应用 AI 协同的配置步骤与安全红线（附派活验收清单）](https://blog.csdn.net/2202_75716091/article/details/169646393)
+
++ [【Plain Language Large Model】【通过Trea接入高德&飞友MCP完成一份旅游报告】流食般投喂](https://blog.csdn.net/dj_798/article/details/169653007)
+
++ [DeepSeekHarness开源Agent底座详解](https://blog.csdn.net/2601_95494915/article/details/169653729)
+
++ [一台机器人，怎么被写进一个文本文件？读懂启元 Q1 的 URDF](https://blog.csdn.net/m0_63947499/article/details/169747885)
+
++ [基于 Elasticsearch 与 Jina AI 的全模态智能搜索实践：技术全解析](https://blog.csdn.net/UbuntuTouch/article/details/169843574)
+
++ [一台数据集成软件的拆解笔记（下）：一致性、容错、跑批与迁移，KFS 真正难的地方在这](https://blog.csdn.net/qq_32682301/article/details/169749154)
+
++ [【鸿蒙PC GUI适配】chiaki-ng 移植的工程实践：Qt6/QML 与 ArkUI 的混合窗口架构](https://blog.csdn.net/qq_38628970/article/details/169815552)
+
++ [AI生成的3D模型打印后沿层纹开裂？用6步检查方向、壁厚与填充](https://blog.csdn.net/Martina_0321/article/details/169748907)
+
++ [启元 T1 Pro 人机相声搭档：语音-触摸双通道的启元机器人节奏引擎设计](https://blog.csdn.net/Dovis5884/article/details/169747614)
+
++ [Python机器学习之KNN近邻算法](https://blog.csdn.net/2601_96798737/article/details/168251552)
+
++ [NVIDIA CUDA Tile 在医疗计算中的算子形式化、算法重构与内核实现](https://blog.csdn.net/kkiron/article/details/169814292)
+
++ [从零设计一个 Agent 安全沙箱：Docker 隔离、三级风控与 Kafka 审计](https://blog.csdn.net/2301_79472735/article/details/169745270)
+
++ [【微电网】多微电网网络设计的大规模二进制矩阵优化【含Matlab源码 16162期】含报告](https://blog.csdn.net/weixin_63266434/article/details/169844360)
+
++ [Python 进阶实战（十八）：API 网关安全与异步鉴权中间件 —— 基于 AsyncIO 的 JWT 零拷贝验权与动态黑名单过滤](https://blog.csdn.net/lzj781210/article/details/169646988)
+
++ [Intel Core 处理器完全解读与选购指南](https://blog.csdn.net/B1709383883/article/details/169747744)
+
++ [感知、规划、控制是分开设计还是端到端学？从具身智能的一体化架构之争，对照协作机器人在产线与医疗场景的真实落地](https://blog.csdn.net/Rosanci/article/details/169565377)
+
++ [Flink 日志解析任务性能优化实战：正则/Grok 预编译、Guava 缓存权重陷阱与 ES 写入隔离](https://blog.csdn.net/Sayai/article/details/169562708)
+
++ [JMT-YOLO：分割引导一致性学习，让 YOLO 在陌生域里也“看得清“](https://blog.csdn.net/m0_63774211/article/details/169459322)
+
++ [frp内网穿透实操（Kali NAT 环境 · 附原理说明）](https://blog.csdn.net/Alsn86/article/details/169748151)
+
++ [抽奖系统 Web 端测试用例报告](https://blog.csdn.net/CJH20050707/article/details/169367856)
+
++ [After pg_restore, run VACUUM ANALYZE before you trust query times](https://blog.csdn.net/allway2/article/details/169841202)
+
++ [Claude形式化验证123个OSS-Fuzz开源库：机器码级无崩溃证明与1.8亿行Rocq证明拆解](https://blog.csdn.net/wodekouwei/article/details/169726996)
+
++ [GPT-6.2 Astra 与 Claude Fable 5.5 同日曝光：硅谷三巨头 11 月王牌决战周](https://blog.csdn.net/aidoudoulong/article/details/169822672)
+
++ [模型幻觉治不住？cjh 用架构把“编造空间“压缩到接近零](https://blog.csdn.net/m0_46384600/article/details/169833609)
+
++ [【Ubuntu】GTX 1080 Ti 显卡占用为0但功率高达60W的排查与解决](https://blog.csdn.net/PellyKoo/article/details/169732230)
+
++ [Dify 1.18 本地部署实战：Windows + WSL2 + Docker，从零跑到本地可用](https://blog.csdn.net/weixin_40192882/article/details/169340543)
+
++ [从 Prompt 到 Tool Calling：AI Agent 如何稳定连接程序世界](https://blog.csdn.net/weixin_47983718/article/details/169748691)
+
++ [开源 Kubernetes 与云原生工具离线镜像合集](https://blog.csdn.net/qq_39751120/article/details/169822326)
+
++ [SAP ADT 里的 AGENTS.md 到底怎么用，一份文件如何把 GitHub Copilot、ABAP Developer Agent 和 ADT MCP Server 串起来](https://blog.csdn.net/i042416/article/details/169650401)
+
++ [本地大模型部署实战-Ollama-OpenWebUI-2026年11月1日](https://blog.csdn.net/Spidermanbaout/article/details/169746007)
+

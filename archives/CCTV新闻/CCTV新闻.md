@@ -173,3 +173,19 @@
 
 + [阿根廷媒体称阿情报机构协助弗拉维奥·博索纳罗出逃](https://news.cctv.com/2026/11/02/ARTIrszKpPUNheGIMHEdMp8n261102.shtml)
 
++ [沙漠里的绿色能源——中企助力阿联酋低碳转型](https://news.cctv.com/2026/11/02/ARTIu81Su7SPGD6yliO5JcFO261102.shtml)
+
++ [开放、创新、赋能——世界眼中的“中国机遇2.0”](https://news.cctv.com/2026/11/02/ARTIVmDT6ZNDKnuqjZqkQzUp261102.shtml)
+
++ [国际观察：共绘中国—阿曼交流互鉴图景](https://news.cctv.com/2026/11/02/ARTIPtZbUxAXg8tFU5Liu14L261102.shtml)
+
++ [大党之治，为世界政治文明带来新启迪](https://news.cctv.com/2026/11/02/ARTIgN2esBcuUdWeDk3JtvHb261102.shtml)
+
++ [中使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员](https://news.cctv.com/2026/11/02/ARTIvpsDGgDzEM1ydnQ99jcG261102.shtml)
+
++ [西班牙官方确认列车相撞事故66名遇难者身份](https://news.cctv.com/2026/11/02/ARTIarw57OwTNqCzb1qOaHwp261102.shtml)
+
++ [国际社会热议中共二十届五中全会的全球启示](https://news.cctv.com/2026/11/02/ARTIyYzwZ45PTDDoigLTAUhY261102.shtml)
+
++ [埃塞俄比亚：又到咖啡采收季](https://photo.cctv.com/2026/11/02/PHOAay5VCuEQwSXkmQSj5Eow261102.shtml)
+

@@ -35,3 +35,19 @@
 
 + [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 
++ [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+
++ [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+
++ [JustVugg/colibri](https://github.com/JustVugg/colibri)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+
++ [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+
++ [karpathy/nanochat](https://github.com/karpathy/nanochat)
+
++ [p-e-w/heretic](https://github.com/p-e-w/heretic)
+
