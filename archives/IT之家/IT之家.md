@@ -1,27 +1,27 @@
 ## IT之家 
-### 2026-11-02
+### 2026-11-03
 
-+ [2026 年 10 月汽车销量 / 交付汇总（持续更新）：奇瑞汽车 28.25 万辆，同比增长 7.2%](https://m.ithome.com/html/1020661.htm)
++ [罗技再因“狗”营销陷入争议，客服回应“已在调查”](https://m.ithome.com/html/1020930.htm)
 
-+ [小米汽车 2026 年 10 月交付量超过 50,000 台](https://m.ithome.com/html/1020656.htm)
++ [思科给 1 位年轻工程师无上限 Token 预算，最终目标 2 年内利用 AI 重写 98% 的遗留代码](https://m.ithome.com/html/1020857.htm)
 
-+ [鸿蒙智行官宣 10 月交付 33537 台、均价超 40 万元，累计销量 160 万台刷新中国新势力纪录](https://m.ithome.com/html/1020701.htm)
++ [“女生罹癌离世前攒下医药费，买张 RTX5090 留给男友”温情故事引发关注，网友感叹“宁愿这是编的”](https://m.ithome.com/html/1021242.htm)
 
-+ [2027 年度春节放假安排公布：除夕恰逢周五可与周末顺连，实现 9 天假期](https://m.ithome.com/html/1020779.htm)
++ [华为星芒 6.39 英寸 1.5K LTPS 阔直板手机再曝：极窄四等边设计、电源键改成紫色，主攻线上](https://m.ithome.com/html/1020865.htm)
 
-+ [华为鸿蒙 HarmonyOS 7 系统“星闪耳返”功能上线，手机自带音乐 App + 播控中心可体验](https://m.ithome.com/html/1020811.htm)
++ [2026 款奔驰 E 300 L 改款轿车上市：首次搭载中国团队开发的 AI 座舱，起售价下调 1.6 万元](https://m.ithome.com/html/1020944.htm)
 
-+ [消息称苹果 iPhone 18 Pro 系列销量突破 600 万台](https://m.ithome.com/html/1020730.htm)
++ [我国已达到世界地空导弹武器系统第一梯队前列水平](https://m.ithome.com/html/1020893.htm)
 
-+ [华为新机影像超前瞻：200Mp 1/1.3&quot; 超大底主摄 + 200Mp 1/1.4&quot; 大底潜望长焦，预计明年落地](https://m.ithome.com/html/1020765.htm)
++ [古尔曼称苹果明年上半年推出三款新 iPad：其中 iPad Air 采用 OLED 屏、iPad Pro 搭载均热板](https://m.ithome.com/html/1020843.htm)
 
-+ [一地叫停网约车“只送货不载人”，回应称并非一刀切禁止“四轮小件”货运](https://m.ithome.com/html/1020702.htm)
++ [美国佛罗里达州发生飞机坠毁事故：不到 1 分钟急坠近万米，机上人员全部遇难](https://m.ithome.com/html/1020856.htm)
 
-+ [金标联盟发布 SharedView Kit 一镜到底 / 无缝动画，荣耀、OPPO、vivo、小米联合推动](https://m.ithome.com/html/1020634.htm)
++ [批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 39.62%](https://m.ithome.com/html/1021128.htm)
 
-+ [小米推出限时“0 息”购车权益，SU7 / YU7 现车可享“3 年 0 息”或“5 年分期 3 年 0 息”](https://m.ithome.com/html/1020679.htm)
++ [宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山](https://m.ithome.com/html/1021222.htm)
 
-+ [赛力斯 10 月汽车销量 27037 辆，同比下降 50.29%](https://m.ithome.com/html/1020762.htm)
++ [华为 Pura X View 阔直板手机销量被曝突破 75 万台，官网现已放开购买](https://m.ithome.com/html/1021065.htm)
 
-+ [小米上线双十一 8 折手机电池换新服务：小米 9 等 102 款机型参与](https://m.ithome.com/html/1020742.htm)
++ [巴菲特自曝特殊习惯：已经 48 年没喝过水，每日狂饮可乐](https://m.ithome.com/html/1021062.htm)
 

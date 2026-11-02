@@ -1,5 +1,35 @@
 ## CCTV新闻 
-### 2026-11-02
+### 2026-11-03
+
++ [中国驻加纳使馆提醒切勿涉赌参赌](https://news.cctv.com/2026/11/02/ARTIAhzO0XpUSsp1wZzGJ3DL261102.shtml)
+
++ [沙漠里的绿色能源——中企助力阿联酋低碳转型](https://news.cctv.com/2026/11/02/ARTIu81Su7SPGD6yliO5JcFO261102.shtml)
+
++ [开放、创新、赋能——世界眼中的“中国机遇2.0”](https://news.cctv.com/2026/11/02/ARTIVmDT6ZNDKnuqjZqkQzUp261102.shtml)
+
++ [国际观察：共绘中国—阿曼交流互鉴图景](https://news.cctv.com/2026/11/02/ARTIPtZbUxAXg8tFU5Liu14L261102.shtml)
+
++ [大党之治，为世界政治文明带来新启迪](https://news.cctv.com/2026/11/02/ARTIgN2esBcuUdWeDk3JtvHb261102.shtml)
+
++ [中使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员](https://news.cctv.com/2026/11/02/ARTIvpsDGgDzEM1ydnQ99jcG261102.shtml)
+
++ [西班牙官方确认列车相撞事故66名遇难者身份](https://news.cctv.com/2026/11/02/ARTIarw57OwTNqCzb1qOaHwp261102.shtml)
+
++ [国际社会热议中共二十届五中全会的全球启示](https://news.cctv.com/2026/11/02/ARTIyYzwZ45PTDDoigLTAUhY261102.shtml)
+
++ [埃塞俄比亚：又到咖啡采收季](https://photo.cctv.com/2026/11/02/PHOAay5VCuEQwSXkmQSj5Eow261102.shtml)
+
++ [阿根廷媒体称阿情报机构协助弗拉维奥·博索纳罗出逃](https://news.cctv.com/2026/11/02/ARTIrszKpPUNheGIMHEdMp8n261102.shtml)
+
++ [苏丹向联合国提出申诉 指控埃塞俄比亚实施“侵略”](https://news.cctv.com/2026/11/02/ARTIGfXmyKEKvDF0lvSRqE83261102.shtml)
+
++ [美国佛罗里达州失事飞机上9人全部遇难](https://news.cctv.com/2026/11/02/ARTIYziBBXNCxhFNOA6Ja3no261102.shtml)
+
++ [伊朗外长披露“两天计划” 美方履约方能重启伊美谈判](https://news.cctv.com/2026/11/02/ARTIBO6XUub7F9D5LCYaCJFT261102.shtml)
+
++ [泽连斯基提议在土耳其与普京会晤](https://news.cctv.com/2026/11/02/ARTI7lCy8k7l0RZyyLPJrzK2261102.shtml)
+
++ [和谈窗口期所剩无几 美伊仍存核心分歧](https://news.cctv.com/2026/11/02/ARTIMPz8Hqp4vJSTiCNWF17l261101.shtml)
 
 + [世界周刊 | 视线：美国“攻防战”](https://news.cctv.com/2026/11/02/ARTI7y7lJDQUYTB2wUiUNR00261101.shtml)
 
@@ -130,62 +160,4 @@
 + [日本自民党副总裁被曝政治资金丑闻](https://news.cctv.com/2026/10/28/ARTIFTB4tmFFFR2hhaZqRFaJ261028.shtml)
 
 + [刚果（金）东南部省份市区、矿区周边出现大规模游行示威活动，中使馆提醒注意安全](https://news.cctv.com/2026/10/28/ARTIfHNqo55gwScKFVoMJqwX261028.shtml)
-
-+ [西班牙列车相撞致至少50人死亡 有中国公民受伤](https://news.cctv.com/2026/10/28/ARTI9qMMGHCDgkPC6hI28eho261028.shtml)
-
-+ [西班牙列车相撞事故死亡人数升至50人](https://news.cctv.com/2026/10/28/ARTI71qysLmtCT3QLb6NoVrl261028.shtml)
-
-+ [中吉乌铁路已开工建设28座隧道、47座桥梁、90段路基](https://news.cctv.com/2026/10/28/ARTIbVuFA5LBmqTiBULTDOaX261028.shtml)
-
-+ [阿根廷移民局称博索纳罗入境后前往厄瓜多尔](https://news.cctv.com/2026/10/28/ARTIKx8vL3PQ7gVcUyWDXETC261028.shtml)
-
-+ [泽连斯基：与特朗普结束俄乌冲突目标一致 路径有分歧](https://news.cctv.com/2026/10/28/ARTI9HlbV9vLiCM2smlQCi3n261028.shtml)
-
-+ [法国推动立法要求骚乱者赔偿损失](https://news.cctv.com/2026/10/28/ARTIbllBzCN8iQXzg9CZIfOu261028.shtml)
-
-+ [美国被曝加强在厄瓜多尔军事活动](https://news.cctv.com/2026/10/28/ARTIqCYV6sKdQPtwFIZKBJTS261028.shtml)
-
-+ [西班牙一高速铁路因列车相撞暂停运营](https://news.cctv.com/2026/10/28/ARTIrMeMT8jqBmK33cvlDh83261028.shtml)
-
-+ [以色列驻塞尔维亚大使馆一安保人员遇袭 袭击者被击毙](https://news.cctv.com/2026/10/28/ARTIYmkpL1EfjIVu0Ms3mkhz261028.shtml)
-
-+ [涉嫌密谋发动校园枪击 3人在美被捕](https://news.cctv.com/2026/10/28/ARTIMNLcEhOZXzanHqXmTLM1261028.shtml)
-
-+ [特朗普称普京与泽连斯基的会晤将“很快”安排](https://news.cctv.com/2026/10/28/ARTIrwMXrQhdHAmi38dz2X3f261028.shtml)
-
-+ [俄罗斯战略核潜艇试射“布拉瓦”洲际弹道导弹](https://news.cctv.com/2026/10/28/ARTIYQlgf2AkMABeBfc6fHd3261028.shtml)
-
-+ [加拿大与阿联酋签署全面经济伙伴关系协定](https://news.cctv.com/2026/10/28/ARTI8vjrKoJWR9gQ0emklkue261028.shtml)
-
-+ [草原火灾过火面积超44万公顷 蒙古国增派专家赴现场调查](https://news.cctv.com/2026/10/28/ARTI3FyGtDNHB3fJ9ZP3QEwh261028.shtml)
-
-+ [澳大利亚向我国返还2件流失文物](https://news.cctv.com/2026/10/28/ARTIkaS8qYeTUvA2YrN28jVG261028.shtml)
-
-+ [苏丹向联合国提出申诉 指控埃塞俄比亚实施“侵略”](https://news.cctv.com/2026/11/02/ARTIGfXmyKEKvDF0lvSRqE83261102.shtml)
-
-+ [美国佛罗里达州失事飞机上9人全部遇难](https://news.cctv.com/2026/11/02/ARTIYziBBXNCxhFNOA6Ja3no261102.shtml)
-
-+ [伊朗外长披露“两天计划” 美方履约方能重启伊美谈判](https://news.cctv.com/2026/11/02/ARTIBO6XUub7F9D5LCYaCJFT261102.shtml)
-
-+ [泽连斯基提议在土耳其与普京会晤](https://news.cctv.com/2026/11/02/ARTI7lCy8k7l0RZyyLPJrzK2261102.shtml)
-
-+ [和谈窗口期所剩无几 美伊仍存核心分歧](https://news.cctv.com/2026/11/02/ARTIMPz8Hqp4vJSTiCNWF17l261101.shtml)
-
-+ [阿根廷媒体称阿情报机构协助弗拉维奥·博索纳罗出逃](https://news.cctv.com/2026/11/02/ARTIrszKpPUNheGIMHEdMp8n261102.shtml)
-
-+ [沙漠里的绿色能源——中企助力阿联酋低碳转型](https://news.cctv.com/2026/11/02/ARTIu81Su7SPGD6yliO5JcFO261102.shtml)
-
-+ [开放、创新、赋能——世界眼中的“中国机遇2.0”](https://news.cctv.com/2026/11/02/ARTIVmDT6ZNDKnuqjZqkQzUp261102.shtml)
-
-+ [国际观察：共绘中国—阿曼交流互鉴图景](https://news.cctv.com/2026/11/02/ARTIPtZbUxAXg8tFU5Liu14L261102.shtml)
-
-+ [大党之治，为世界政治文明带来新启迪](https://news.cctv.com/2026/11/02/ARTIgN2esBcuUdWeDk3JtvHb261102.shtml)
-
-+ [中使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员](https://news.cctv.com/2026/11/02/ARTIvpsDGgDzEM1ydnQ99jcG261102.shtml)
-
-+ [西班牙官方确认列车相撞事故66名遇难者身份](https://news.cctv.com/2026/11/02/ARTIarw57OwTNqCzb1qOaHwp261102.shtml)
-
-+ [国际社会热议中共二十届五中全会的全球启示](https://news.cctv.com/2026/11/02/ARTIyYzwZ45PTDDoigLTAUhY261102.shtml)
-
-+ [埃塞俄比亚：又到咖啡采收季](https://photo.cctv.com/2026/11/02/PHOAay5VCuEQwSXkmQSj5Eow261102.shtml)
 
