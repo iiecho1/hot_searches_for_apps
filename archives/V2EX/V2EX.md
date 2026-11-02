@@ -21,3 +21,15 @@
 
 + [Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？](https://www.v2ex.com/t/1253477)
 
++ [没有人讨论影之刃零吗？](https://www.v2ex.com/t/1253638)
+
++ [现在的行情真的很冷](https://www.v2ex.com/t/1253652)
+
++ [你们除了上班 娱乐方式有哪些](https://www.v2ex.com/t/1253690)
+
++ [大家现在每天早餐消费多少钱？](https://www.v2ex.com/t/1253673)
+
++ [在国内环境下，如何花点儿小钱实现 token 自由？](https://www.v2ex.com/t/1253531)
+
++ [agent 的代码到底审不审核](https://www.v2ex.com/t/1253699)
+
