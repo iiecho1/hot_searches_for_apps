@@ -161,3 +161,15 @@
 
 + [TBS百般狡辩 日本网民不买账：毫无意义的借口！](https://news.cctv.com/2026/10/29/ARTIeuUz8rjxvZqdJlbORwHW261029.shtml)
 
++ [以方被曝对美国将结束安全援助“感到担忧”](https://news.cctv.com/2026/11/04/ARTIbumdItOMVZdeVIM7fxGl261104.shtml)
+
++ [一年内发生两次重大高铁事故 西班牙交通大臣宣布辞职](https://news.cctv.com/2026/11/04/ARTI8UnDxn1bVZsHTKoihWCd261104.shtml)
+
++ [阿曼附近海域一艘油轮遭两枚不明弹体击中](https://news.cctv.com/2026/11/04/ARTIoXqmeqgoBlZ9v0eadFSq261104.shtml)
+
++ [格陵兰岛自治政府议会批准与美国达成的安全协议](https://news.cctv.com/2026/11/04/ARTIhn3eSeY54dXlhhXM6F5j261104.shtml)
+
++ [阿拉伯航空运输组织：今年成员航司预计约亏损43亿美元](https://news.cctv.com/2026/11/04/ARTIkE3WwyV1rCSWf1kXKQs3261104.shtml)
+
++ [伊朗要求美明确回应7项条件 否则不开放霍尔木兹海峡](https://news.cctv.com/2026/11/04/ARTIp0ZTtkxkXKSkAcTiyEBq261104.shtml)
+

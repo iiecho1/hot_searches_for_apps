@@ -61,3 +61,7 @@
 
 + [【UP创作大赛】63.跨越三亿年的史诗，从怪兽到人类的破晓：兽孔目](https://m.acfun.cn/v/?ac=48947653)
 
++ [好久不见！](https://m.acfun.cn/v/?ac=48950482)
+
++ [NJPW Power Struggle 2026.11.03](https://m.acfun.cn/v/?ac=48958989)
+

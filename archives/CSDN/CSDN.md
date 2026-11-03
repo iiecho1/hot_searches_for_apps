@@ -101,3 +101,9 @@
 
 + [User-Agent 怎么看？从一条 UA 分辨真人浏览器、搜索引擎爬虫还是脚本](https://blog.csdn.net/u013106589/article/details/169931025)
 
++ [大数据Spark（八十二）：Spark 算子综合案例](https://blog.csdn.net/xiaoweite1/article/details/169952489)
+
++ [【Plain Language Large Model】【MCP架构解析：从C/S模式到动态工具发现的完整技术要点】流食般投喂](https://blog.csdn.net/dj_798/article/details/169653022)
+
++ [启元机器人相关论文解读：HIL-UMI——让具身后训练摆脱「真机依赖」的人在环路框架](https://blog.csdn.net/m0_61243965/article/details/169848693)
+
