@@ -161,3 +161,19 @@
 
 + [刚果（金）东南部省份市区、矿区周边出现大规模游行示威活动，中使馆提醒注意安全](https://news.cctv.com/2026/10/28/ARTIfHNqo55gwScKFVoMJqwX261028.shtml)
 
++ [角逐2036年夏奥会举办权 七国申办名单最终敲定](https://news.cctv.com/2026/11/03/ARTIexMJAvu2faDGsPjAWJvg261103.shtml)
+
++ [菲律宾马荣火山喷发 火山灰柱高约1600米](https://news.cctv.com/2026/11/03/ARTIzCTg5esTyZswRtbYBoxp261103.shtml)
+
++ [又一驻日美军士兵在冲绳被捕 日本防相发声](https://news.cctv.com/2026/11/03/ARTIYdX5mphPrhyRdZUoa2Aw261103.shtml)
+
++ [德英将深化人工智能等领域防务合作](https://news.cctv.com/2026/11/03/ARTIIJkgGFXbthDmAY4vcZHc261103.shtml)
+
++ [西班牙高铁事故69名遇难者身份已全部确认](https://news.cctv.com/2026/11/03/ARTIYJryqf1MYFRc3DVBNtAS261103.shtml)
+
++ [俄方称卢甘斯克一辆公共汽车遭袭 致1死8伤](https://news.cctv.com/2026/11/03/ARTIa76QxGrp80rri4clG636261103.shtml)
+
++ [卡塔尔调解人员再赴德黑兰 将就潜在的美伊协议进行会谈](https://news.cctv.com/2026/11/03/ARTIZ02su9TZv20wgfGeAR4Q261103.shtml)
+
++ [特朗普：“不急于”决定是否重启对伊朗的战事](https://news.cctv.com/2026/11/03/ARTIK8eAAMcSDu3Opm9ogRHG261103.shtml)
+

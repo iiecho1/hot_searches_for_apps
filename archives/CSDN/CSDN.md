@@ -101,3 +101,45 @@
 
 + [云原生运维实战笔记：华为云计算与网络类服务全景解析](https://blog.csdn.net/2604_96593683/article/details/169846022)
 
++ [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://blog.csdn.net/MeituanTech/article/details/169843876)
+
++ [Mac mini不只当小主机：接上OpenClaw和飞书，手机发消息就能让AI干活](https://blog.csdn.net/2401_87629362/article/details/169838478)
+
++ [使用 PHP 构建命令行工具：从 $argv 到 Symfony Console 与 Cron 集成](https://blog.csdn.net/vipxieliang/article/details/169643827)
+
++ [还在手写Nginx配置？我用Nginx Proxy Manager把域名、HTTPS和反代全放进网页里(1)](https://blog.csdn.net/2302_79376097/article/details/169835031)
+
++ [【鸿蒙心迹】HarmonyOS笔记19：条件渲染与空页面](https://blog.csdn.net/weixin_47431459/article/details/167816167)
+
++ [【Linux指南】进程通信系列（七）：System V 信号量 —— 同步互斥的内核原语](https://blog.csdn.net/2302_78391795/article/details/169742118)
+
++ [【Linux系统编程】Ext 文件系统：磁盘与存储、文件与目录、现代计算机究竟如何寻找文件](https://blog.csdn.net/say_fall/article/details/163384447)
+
++ [AgentHack Shanghai｜基于阿里云AI搜索 Elasticsearch x Qoder 构建AI Agent应用](https://blog.csdn.net/UbuntuTouch/article/details/169921266)
+
++ [Redis 从 0 到 1（二十一）：P99 涨到 80ms，慢查询日志 5 步定位法 + Go 采集器](https://blog.csdn.net/2501_92769340/article/details/167399878)
+
++ [日志散在多台服务器太难查？我用Promtail+Loki+Grafana集中起来](https://blog.csdn.net/Rqaqedamancy/article/details/169849883)
+
++ [【AI智能体】Langchain 自定义中间件使用实战操作详解](https://blog.csdn.net/congge_study/article/details/167223814)
+
++ [【Linux-System-34】【从生活哲学到内核位图，彻底搞懂信号的异步本质】流食般投喂](https://blog.csdn.net/dj_798/article/details/169164708)
+
++ [GitHub 开源热榜项目-周榜（2026-11-02）](https://blog.csdn.net/nmy_2360/article/details/169812966)
+
++ [Memos自托管笔记教程：飞牛NAS部署、Markdown记录与远程访问](https://blog.csdn.net/2402_86350387/article/details/169835133)
+
++ [双写一致性：为什么是“删缓存“，而不是“改缓存“](https://blog.csdn.net/2402_88139312/article/details/169846729)
+
++ [Spring Boot 3.2 偶发500无日志：线程池复用导致请求上下文丢失](https://blog.csdn.net/weixin_71309014/article/details/169838566)
+
++ [Hyper-V+Kubernetes 搭建实战：保留 Windows，构建三节点 Linux 容器集群](https://blog.csdn.net/zhouzhongyan/article/details/169749442)
+
++ [启元机器人相关论文解读：HIL-UMI——让具身后训练摆脱「真机依赖」的人在环路框架](https://blog.csdn.net/m0_61243965/article/details/169848693)
+
++ [Kafka 跨数据中心日志同步实战：MirrorMaker 2 选型对比 + Flink 中继任务落地（双中心互备与消费者组隔离避坑）](https://blog.csdn.net/Sayai/article/details/169746572)
+
++ [蓝桥杯青少组图形化编程实战：校园智能送餐机器人（全国青少年信息素养+电子学会Scratch考级同源考点）](https://blog.csdn.net/IT_Scratch/article/details/169845556)
+
++ [Java Web 学习记录：电影购票系统的复现、维护与二次开发](https://blog.csdn.net/becomeitbigshen/article/details/169364526)
+
