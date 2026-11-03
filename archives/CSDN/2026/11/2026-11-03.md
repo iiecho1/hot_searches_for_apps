@@ -143,3 +143,51 @@
 
 + [Java Web 学习记录：电影购票系统的复现、维护与二次开发](https://blog.csdn.net/becomeitbigshen/article/details/169364526)
 
++ [企业级Agent服务平台选型指南：从需求匹配到场景落地，文档解析工具怎么选？](https://blog.csdn.net/INTSIG/article/details/169443525)
+
++ [MapReduce - 小文件优化：CombineFileInputFormat 的使用](https://blog.csdn.net/qq_41187124/article/details/157685653)
+
++ [AI 编程智能体 20：技术栈选型与架构落地全攻略](https://blog.csdn.net/2503_92624912/article/details/169650331)
+
++ [SpringCloud+Vue3开源RuoyiOffice框架容器化实战：镜像、JVM 内存与三类探针如何配合](https://blog.csdn.net/zhouzhongyan/article/details/169749451)
+
++ [鸿蒙平板能当电脑第二块屏幕吗？ToDesk、向日葵镜像/副屏实测](https://blog.csdn.net/2501_91062530/article/details/169929548)
+
++ [DeepSeek 开源 Super-agent 是什么：双层架构、主动找活的 Agent 原型怎么部署（2026 年 11 月）](https://blog.csdn.net/aidoudoulong/article/details/169731044)
+
++ [天地图 Cesium 行政区划可视化：长沙市区县边界「金色流光 + 点击闪烁」，CodeBuddy 辅助开发全记录](https://blog.csdn.net/yelangkingwuzuhu/article/details/169748423)
+
++ [【Linux系统编程】Linux进程间通信：从管道到System V IPC，一篇讲透进程协作的底层逻辑](https://blog.csdn.net/say_fall/article/details/169439042)
+
++ [PyTorch强化学习实战——从零开始实现魔方求解器](https://blog.csdn.net/LOVEmy134611/article/details/160375869)
+
++ [几千亿参数为什么只用一小部分？MoE 的路由与专家](https://blog.csdn.net/weixin_74809706/article/details/169464656)
+
++ [主播什么时候开播不用再盯：Bililive-go放进NAS后，开播自动录、下播自动停](https://blog.csdn.net/COLLINSXU/article/details/169935042)
+
++ [Dockerfile 为什么总重装依赖？缓存失效与镜像优化实战](https://blog.csdn.net/2403_86779341/article/details/169748932)
+
++ [【知识讲解】 Linux信号与可重入函数的认识](https://blog.csdn.net/2501_93971468/article/details/169743181)
+
++ [【开源深度评测】Interfaces Skills：把界面复核拆成可解释的专业域](https://blog.csdn.net/TunerT_TQ/article/details/169847232)
+
++ [【计算机网络】TCP连接数瓶颈怎么解决](https://blog.csdn.net/2503_94545876/article/details/169849904)
+
++ [Flare自托管导航页教程:Docker部署、多用户、API与公网访问](https://blog.csdn.net/2401_87848736/article/details/169934417)
+
++ [Mysql学习（1）：揭秘数据库：十大核心优势与架构全解析](https://blog.csdn.net/keyipatience/article/details/166245500)
+
++ [万字详解Single-flight（单飞模式）](https://blog.csdn.net/2502_94242477/article/details/169942796)
+
++ [使用 NVIDIA RTX Spark 在一台机器上进行编码、测试和部署](https://blog.csdn.net/NVIDIA_Community/article/details/169744720)
+
++ [30. 技术专题-‌应用框架组件-搜索引擎-ES](https://blog.csdn.net/princemilo/article/details/169844092)
+
++ [二.Flutter 速成第二课：核心概念与第一个自定义页面](https://blog.csdn.net/qq_31939617/article/details/169942852)
+
++ [Redis事务与管道](https://blog.csdn.net/suimingtao/article/details/168422985)
+
++ [User-Agent 怎么看？从一条 UA 分辨真人浏览器、搜索引擎爬虫还是脚本](https://blog.csdn.net/u013106589/article/details/169931025)
+
++ [【人工智能驱动的电催化研究-01】人工智能是什么？AI、机器学习、深度学习和神经网络之间有什么区别？](https://blog.csdn.net/2402_84593233/article/details/169849793)
+

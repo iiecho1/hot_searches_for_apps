@@ -177,3 +177,7 @@
 
 + [特朗普：“不急于”决定是否重启对伊朗的战事](https://news.cctv.com/2026/11/03/ARTIK8eAAMcSDu3Opm9ogRHG261103.shtml)
 
++ [美“雨燕”天文台任务终结 将重返大气层](https://news.cctv.com/2026/11/03/ARTIseZKU9RyaGQmT78CxXWh261103.shtml)
+
++ [美4名志愿者完成378天模拟“火星之旅”](https://news.cctv.com/2026/11/03/ARTImIXYjyZgZec6bI7AYkQz261103.shtml)
+

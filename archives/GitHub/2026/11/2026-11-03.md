@@ -31,3 +31,11 @@
 
 + [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
++ [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
+
++ [floci-io/floci](https://github.com/floci-io/floci)
+
++ [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
+
++ [anomalyco/hex](https://github.com/anomalyco/hex)
+
