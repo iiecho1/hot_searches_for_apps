@@ -1,5 +1,29 @@
 ## CCTV新闻 
-### 2026-11-03
+### 2026-11-04
+
++ [朝中社：日本正快速变为战争国家](https://news.cctv.com/2026/11/03/ARTImc2d4rD9M5UP1xEPH6AB261103.shtml)
+
++ [中国购 火起来（外国网友趣问中国 ）](https://news.cctv.com/2026/11/03/ARTIxLA7c0CIhKjurCqXhcWY261103.shtml)
+
++ [美“雨燕”天文台任务终结 将重返大气层](https://news.cctv.com/2026/11/03/ARTIseZKU9RyaGQmT78CxXWh261103.shtml)
+
++ [美4名志愿者完成378天模拟“火星之旅”](https://news.cctv.com/2026/11/03/ARTImIXYjyZgZec6bI7AYkQz261103.shtml)
+
++ [角逐2036年夏奥会举办权 七国申办名单最终敲定](https://news.cctv.com/2026/11/03/ARTIexMJAvu2faDGsPjAWJvg261103.shtml)
+
++ [菲律宾马荣火山喷发 火山灰柱高约1600米](https://news.cctv.com/2026/11/03/ARTIzCTg5esTyZswRtbYBoxp261103.shtml)
+
++ [又一驻日美军士兵在冲绳被捕 日本防相发声](https://news.cctv.com/2026/11/03/ARTIYdX5mphPrhyRdZUoa2Aw261103.shtml)
+
++ [德英将深化人工智能等领域防务合作](https://news.cctv.com/2026/11/03/ARTIIJkgGFXbthDmAY4vcZHc261103.shtml)
+
++ [西班牙高铁事故69名遇难者身份已全部确认](https://news.cctv.com/2026/11/03/ARTIYJryqf1MYFRc3DVBNtAS261103.shtml)
+
++ [俄方称卢甘斯克一辆公共汽车遭袭 致1死8伤](https://news.cctv.com/2026/11/03/ARTIa76QxGrp80rri4clG636261103.shtml)
+
++ [卡塔尔调解人员再赴德黑兰 将就潜在的美伊协议进行会谈](https://news.cctv.com/2026/11/03/ARTIZ02su9TZv20wgfGeAR4Q261103.shtml)
+
++ [特朗普：“不急于”决定是否重启对伊朗的战事](https://news.cctv.com/2026/11/03/ARTIK8eAAMcSDu3Opm9ogRHG261103.shtml)
 
 + [中国驻加纳使馆提醒切勿涉赌参赌](https://news.cctv.com/2026/11/02/ARTIAhzO0XpUSsp1wZzGJ3DL261102.shtml)
 
@@ -136,48 +160,4 @@
 + [伊朗称在霍尔木兹海峡上空击落美军无人机](https://news.cctv.com/2026/10/29/ARTIpLf9PTusoVv02ZCabS1K261029.shtml)
 
 + [TBS百般狡辩 日本网民不买账：毫无意义的借口！](https://news.cctv.com/2026/10/29/ARTIeuUz8rjxvZqdJlbORwHW261029.shtml)
-
-+ [2028年洛杉矶奥运会和残奥会口号公布：“群星共耀”](https://news.cctv.com/2026/10/29/ARTI0lLhbx0gEaxQKQn2wGip261029.shtml)
-
-+ [美媒：万斯致信伊朗安全高官试图重启谈判](https://news.cctv.com/2026/10/29/ARTINigu3DjaTMtY3gNK6NMO261029.shtml)
-
-+ [伊朗议会官员：退出《不扩散核武器条约》计划已准备就绪](https://news.cctv.com/2026/10/29/ARTI1hGPBD6pckkRUbfIuQ6t261029.shtml)
-
-+ [美联储宣布维持利率不变](https://news.cctv.com/2026/10/29/ARTIEwnZdxWMfHFb3tzONvce261029.shtml)
-
-+ [联大通过决议 要求美国终止对古巴封锁](https://news.cctv.com/2026/10/29/ARTIsGOe0wuokBpkb9X3aKwv261028.shtml)
-
-+ [俄美乌三方谈判日期将公布 俄方称不邀欧洲参加](https://news.cctv.com/2026/10/29/ARTIn45XQUpCByF9DOPUrduz261028.shtml)
-
-+ [知情人士称卡塔尔向伊朗提交旨在结束战事的新协议草案](https://news.cctv.com/2026/10/29/ARTIOZWcXjoovkIkY4pZcxN6261028.shtml)
-
-+ [西班牙首相宣布为列车相撞事故遇难者全国哀悼三天](https://news.cctv.com/2026/10/29/ARTIujen3iaEARuueej0R6nv261028.shtml)
-
-+ [西班牙列车相撞事故已致64人死亡 初步调查指向调度失误](https://news.cctv.com/2026/10/28/ARTIeCJojFJqO2cHQ8PYsyDh261028.shtml)
-
-+ [以色列议会选举完成票箱清点 内塔尼亚胡阵营暂时领先](https://news.cctv.com/2026/10/28/ARTIO01wPH2SFVk5Dp3FQcpB261028.shtml)
-
-+ [日本自民党副总裁被曝政治资金丑闻](https://news.cctv.com/2026/10/28/ARTIFTB4tmFFFR2hhaZqRFaJ261028.shtml)
-
-+ [刚果（金）东南部省份市区、矿区周边出现大规模游行示威活动，中使馆提醒注意安全](https://news.cctv.com/2026/10/28/ARTIfHNqo55gwScKFVoMJqwX261028.shtml)
-
-+ [角逐2036年夏奥会举办权 七国申办名单最终敲定](https://news.cctv.com/2026/11/03/ARTIexMJAvu2faDGsPjAWJvg261103.shtml)
-
-+ [菲律宾马荣火山喷发 火山灰柱高约1600米](https://news.cctv.com/2026/11/03/ARTIzCTg5esTyZswRtbYBoxp261103.shtml)
-
-+ [又一驻日美军士兵在冲绳被捕 日本防相发声](https://news.cctv.com/2026/11/03/ARTIYdX5mphPrhyRdZUoa2Aw261103.shtml)
-
-+ [德英将深化人工智能等领域防务合作](https://news.cctv.com/2026/11/03/ARTIIJkgGFXbthDmAY4vcZHc261103.shtml)
-
-+ [西班牙高铁事故69名遇难者身份已全部确认](https://news.cctv.com/2026/11/03/ARTIYJryqf1MYFRc3DVBNtAS261103.shtml)
-
-+ [俄方称卢甘斯克一辆公共汽车遭袭 致1死8伤](https://news.cctv.com/2026/11/03/ARTIa76QxGrp80rri4clG636261103.shtml)
-
-+ [卡塔尔调解人员再赴德黑兰 将就潜在的美伊协议进行会谈](https://news.cctv.com/2026/11/03/ARTIZ02su9TZv20wgfGeAR4Q261103.shtml)
-
-+ [特朗普：“不急于”决定是否重启对伊朗的战事](https://news.cctv.com/2026/11/03/ARTIK8eAAMcSDu3Opm9ogRHG261103.shtml)
-
-+ [美“雨燕”天文台任务终结 将重返大气层](https://news.cctv.com/2026/11/03/ARTIseZKU9RyaGQmT78CxXWh261103.shtml)
-
-+ [美4名志愿者完成378天模拟“火星之旅”](https://news.cctv.com/2026/11/03/ARTImIXYjyZgZec6bI7AYkQz261103.shtml)
 
