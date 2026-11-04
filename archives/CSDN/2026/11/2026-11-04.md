@@ -121,3 +121,25 @@
 
 + [云原生项目二](https://blog.csdn.net/zfm242397396/article/details/169945847)
 
++ [没有 Docker、不能开端口，我在租来的 GPU 上部署了一套大模型推理平台](https://blog.csdn.net/2401_86326742/article/details/170048004)
+
++ [【鸿蒙心迹】HarmonyOS笔记23：返回导航与状态恢复](https://blog.csdn.net/weixin_47431459/article/details/167827155)
+
++ [【花雕动手做】VibeCoding 真机闭环：电脑 Agent 通过 ESP-Mosaico 直接操控物理硬件](https://blog.csdn.net/weixin_41659040/article/details/170036874)
+
++ [2026远程控制手机端终端对比：ToDesk vs 向日葵，从入口、输入、切shell到重连](https://blog.csdn.net/Tiam_cr/article/details/169849570)
+
++ [【鸿蒙PC GUI适配】chiaki-ng 移植的工程实践：Qt6/QML 与 ArkUI 的混合窗口架构](https://blog.csdn.net/qq_38628970/article/details/169815552)
+
++ [MongoDB迁移不止是数据搬家：用KingbaseES重构文档数据开发](https://blog.csdn.net/lrq13965748542/article/details/169746540)
+
++ [双写一致性：为什么是“删缓存“，而不是“改缓存“](https://blog.csdn.net/2402_88139312/article/details/169846729)
+
++ [SimpleMemVLA 深度解读：把原生视频上下文变成机器人的记忆](https://blog.csdn.net/lovely_yoshino/article/details/166849220)
+
++ [Flutter 插件 device_calendar_plus 开源鸿蒙适配实战：从权限弹窗失灵到循环日程跑通](https://blog.csdn.net/qq_35366330/article/details/170031478)
+
++ [率能半导体 SS6944T四路半桥驱动芯片：60V/2.5A，覆盖纺织机械、工业自动化、办公自动化、机器人四大应用场景](https://blog.csdn.net/2501_92263958/article/details/169952174)
+
++ [Vue 106 ，上篇：前端桌面端应用实现方案（ Electron 框架详细介绍，Vue + Electron ）](https://blog.csdn.net/weixin_65793170/article/details/169461030)
+

@@ -181,3 +181,17 @@
 
 + [测算结果显示 美民主党人赢得北卡州参议院席位](https://news.cctv.com/2026/11/04/ARTIjoMk7QporC5cdd5PIWVr261104.shtml)
 
++ [驻宋卡总领馆提醒在泰南中国公民注意防范雨季易发自然灾害](https://news.cctv.com/2026/11/04/ARTIQRaiOKAOgSfTM3hOf7Vb261104.shtml)
+
++ [澳独立调查报告：美英澳核潜艇合作应立即终止](https://news.cctv.com/2026/11/04/ARTIarX1yZoscmRSudiGiC4I261104.shtml)
+
++ [日本防卫大臣再提讨论调整“无核三原则”](https://news.cctv.com/2026/11/04/ARTI1wt1xWUhnTVRJuw7YGaZ261104.shtml)
+
++ [韩国前总统尹锡悦涉嫌违反《公职选举法》案二审宣判](https://news.cctv.com/2026/11/04/ARTIvrKMLWFNO9KxJn61ywPu261104.shtml)
+
++ [印尼称前警察总长涉嫌窃听总统或构成叛国罪](https://news.cctv.com/2026/11/04/ARTItmdLoFzLjqA7t6BQ0XpA261104.shtml)
+
++ [特朗普承认伊朗战事对共和党中期选举表现有影响](https://news.cctv.com/2026/11/04/ARTIH4ozmQACpp0tP9eiEjYG261104.shtml)
+
++ [美国媒体预计民主党夺回参议院重掌国会](https://news.cctv.com/2026/11/04/ARTIH8nArmmYcjqrZW8GBVrk261104.shtml)
+
