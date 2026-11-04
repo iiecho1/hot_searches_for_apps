@@ -107,3 +107,17 @@
 
 + [启元机器人相关论文解读：HIL-UMI——让具身后训练摆脱「真机依赖」的人在环路框架](https://blog.csdn.net/m0_61243965/article/details/169848693)
 
++ [低代码和AI Coding怎么选？做企业应用，当然是全都要](https://blog.csdn.net/zhouzhongyan/article/details/169123498)
+
++ [2026.11.03 AI产业深度解读｜Anthropic招股书关键数据披露；自动驾驶监管变革；AI开始渗透跨境支付场景](https://blog.csdn.net/qq_36729037/article/details/169952255)
+
++ [深挖C++：类和对象（上）](https://blog.csdn.net/xys_678/article/details/169946835)
+
++ [Linux进程篇（十一）：从底层原理到 exec* 家族：彻底搞懂 Linux 进程程序替换](https://blog.csdn.net/2501_93641778/article/details/169739978)
+
++ [RuoyiOffice 容器化落地：镜像分层、JVM 配额与三探针的联动配置](https://blog.csdn.net/2301_78967866/article/details/169946618)
+
++ [Agent 的 Prompt 到底该怎么写？](https://blog.csdn.net/y_14725836912345/article/details/169951671)
+
++ [云原生项目二](https://blog.csdn.net/zfm242397396/article/details/169945847)
+

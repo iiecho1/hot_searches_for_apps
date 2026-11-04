@@ -173,3 +173,11 @@
 
 + [伊朗要求美明确回应7项条件 否则不开放霍尔木兹海峡](https://news.cctv.com/2026/11/04/ARTIp0ZTtkxkXKSkAcTiyEBq261104.shtml)
 
++ [机构：三艘载俄柴油赴美油轮中仅一艘仍似驶向美国](https://news.cctv.com/2026/11/04/ARTIIgayUM8FHdeCNoMg5OHr261104.shtml)
+
++ [美国媒体预计民主党将夺回众议院多数席位](https://news.cctv.com/2026/11/04/ARTIbJy63m0Z2n2brP0nSUhT261104.shtml)
+
++ [特朗普：若民主党掌控国会 或将动用总统否决权抗衡](https://news.cctv.com/2026/11/04/ARTIVt0Qr10XeFvAioyq5SjG261104.shtml)
+
++ [测算结果显示 美民主党人赢得北卡州参议院席位](https://news.cctv.com/2026/11/04/ARTIjoMk7QporC5cdd5PIWVr261104.shtml)
+

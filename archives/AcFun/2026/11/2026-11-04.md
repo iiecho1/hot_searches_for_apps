@@ -65,3 +65,7 @@
 
 + [NJPW Power Struggle 2026.11.03](https://m.acfun.cn/v/?ac=48958989)
 
++ [【UP创作大赛】这么可爱真是抱歉！【ACFUN手书】](https://m.acfun.cn/v/?ac=48959337)
+
++ [【神人翻唱】‍‍‍🦽‍️欢迎来到互联网‍‍‍🦽‍️【UP创作大赛】](https://m.acfun.cn/v/?ac=48959362)
+
