@@ -1,5 +1,57 @@
 ## CCTV新闻 
-### 2026-11-04
+### 2026-11-05
+
++ [新加坡拟强化立法治理跨境烟霾](https://news.cctv.com/2026/11/05/ARTIqpWPqHhVPT79Bso7VfoX261105.shtml)
+
++ [无力继续收容 黎巴嫩推动叙利亚难民回国](https://news.cctv.com/2026/11/05/ARTIsm996bxMDIHcwpb9BHxm261105.shtml)
+
++ [佩斯科夫：目前尚无普京与特朗普通话的计划](https://news.cctv.com/2026/11/04/ARTIZewXm2uitZubV6bMZT6y261104.shtml)
+
++ [胡塞武装称对沙特哈立德国王国际机场等目标进行打击](https://news.cctv.com/2026/11/04/ARTIOECzp8BSvYHOvAsqjGy3261104.shtml)
+
++ [美国特拉华州威尔明顿发生枪击事件 致一死两伤](https://news.cctv.com/2026/11/04/ARTIUDllf60LgEvhHGLK0yBX261104.shtml)
+
++ [日本自民党企图加快讨论修宪议题引发在野党反对](https://news.cctv.com/2026/11/04/ARTIwhv5Tq5QYXN8Hfjz2Jmu261104.shtml)
+
++ [特朗普称对伊朗“不需要使用核武器”](https://news.cctv.com/2026/11/04/ARTI5HVJWR6ZsAtOOmVLSpvJ261104.shtml)
+
++ [以总统已接收议会选举结果开始与各党派磋商组阁人选](https://news.cctv.com/2026/11/04/ARTISL2lMCUTxfFj8QeeF0Qh261104.shtml)
+
++ [民调：美国选民对现状多“差评”](https://news.cctv.com/2026/11/04/ARTIm0xYJD6Yyatcu8oGO4iC261104.shtml)
+
++ [驻宋卡总领馆提醒在泰南中国公民注意防范雨季易发自然灾害](https://news.cctv.com/2026/11/04/ARTIQRaiOKAOgSfTM3hOf7Vb261104.shtml)
+
++ [澳独立调查报告：美英澳核潜艇合作应立即终止](https://news.cctv.com/2026/11/04/ARTIarX1yZoscmRSudiGiC4I261104.shtml)
+
++ [日本防卫大臣再提讨论调整“无核三原则”](https://news.cctv.com/2026/11/04/ARTI1wt1xWUhnTVRJuw7YGaZ261104.shtml)
+
++ [韩国前总统尹锡悦涉嫌违反《公职选举法》案二审宣判](https://news.cctv.com/2026/11/04/ARTIvrKMLWFNO9KxJn61ywPu261104.shtml)
+
++ [印尼称前警察总长涉嫌窃听总统或构成叛国罪](https://news.cctv.com/2026/11/04/ARTItmdLoFzLjqA7t6BQ0XpA261104.shtml)
+
++ [特朗普承认伊朗战事对共和党中期选举表现有影响](https://news.cctv.com/2026/11/04/ARTIH4ozmQACpp0tP9eiEjYG261104.shtml)
+
++ [美国媒体预计民主党夺回参议院重掌国会](https://news.cctv.com/2026/11/04/ARTIH8nArmmYcjqrZW8GBVrk261104.shtml)
+
++ [机构：三艘载俄柴油赴美油轮中仅一艘仍似驶向美国](https://news.cctv.com/2026/11/04/ARTIIgayUM8FHdeCNoMg5OHr261104.shtml)
+
++ [美国媒体预计民主党将夺回众议院多数席位](https://news.cctv.com/2026/11/04/ARTIbJy63m0Z2n2brP0nSUhT261104.shtml)
+
++ [特朗普：若民主党掌控国会 或将动用总统否决权抗衡](https://news.cctv.com/2026/11/04/ARTIVt0Qr10XeFvAioyq5SjG261104.shtml)
+
++ [测算结果显示 美民主党人赢得北卡州参议院席位](https://news.cctv.com/2026/11/04/ARTIjoMk7QporC5cdd5PIWVr261104.shtml)
+
++ [以方被曝对美国将结束安全援助“感到担忧”](https://news.cctv.com/2026/11/04/ARTIbumdItOMVZdeVIM7fxGl261104.shtml)
+
++ [一年内发生两次重大高铁事故 西班牙交通大臣宣布辞职](https://news.cctv.com/2026/11/04/ARTI8UnDxn1bVZsHTKoihWCd261104.shtml)
+
++ [阿曼附近海域一艘油轮遭两枚不明弹体击中](https://news.cctv.com/2026/11/04/ARTIoXqmeqgoBlZ9v0eadFSq261104.shtml)
+
++ [格陵兰岛自治政府议会批准与美国达成的安全协议](https://news.cctv.com/2026/11/04/ARTIhn3eSeY54dXlhhXM6F5j261104.shtml)
+
++ [阿拉伯航空运输组织：今年成员航司预计约亏损43亿美元](https://news.cctv.com/2026/11/04/ARTIkE3WwyV1rCSWf1kXKQs3261104.shtml)
+
++ [伊朗要求美明确回应7项条件 否则不开放霍尔木兹海峡](https://news.cctv.com/2026/11/04/ARTIp0ZTtkxkXKSkAcTiyEBq261104.shtml)
 
 + [朝中社：日本正快速变为战争国家](https://news.cctv.com/2026/11/03/ARTImc2d4rD9M5UP1xEPH6AB261103.shtml)
 
@@ -108,90 +160,4 @@
 + [国际舆论高度关注中共二十届五中全会——“进一步增强了百年大党的稳定性和凝聚力”（外媒看中国）](https://news.cctv.com/2026/10/31/ARTIT4T7c8hJCPFOVjq2Q6ZV261031.shtml)
 
 + [日本民众抗议高市政府谋求调整核政策](https://news.cctv.com/2026/10/31/ARTIaxedx1qNjXRTBet2rJ3R261031.shtml)
-
-+ [多重利空刺激美股金价大跌](https://news.cctv.com/2026/10/31/ARTI8uABCMvZwa17stvhkRUG261031.shtml)
-
-+ [俄外长拉夫罗夫：乌方破坏会谈氛围 俄美根本问题未解](https://news.cctv.com/2026/10/31/ARTIlZsX8U0dUbfv3SPe6o6m261031.shtml)
-
-+ [消息人士透露美计划在中期选举后恢复对伊朗打击](https://news.cctv.com/2026/10/31/ARTIKMDkhvfHF4ViaIyGtHYF261031.shtml)
-
-+ [进博会“全勤生”珍得对中国市场充满信心](https://news.cctv.com/2026/10/31/ARTIHgHDzuZ9CO7nrIjqQTIa261031.shtml)
-
-+ [惠誉将法国主权信用评级展望下调至“负面”](https://news.cctv.com/2026/10/31/ARTIWLwHpWGrDn8L8l6YDU3H261031.shtml)
-
-+ [波兰宪法法院发生抗议冲突 总统中断访问紧急回国](https://news.cctv.com/2026/10/31/ARTIH70lMlIX8STKBsBPtegv261031.shtml)
-
-+ [北美观察丨美国中期选举倒计时 选情生变官司不断](https://news.cctv.com/2026/10/31/ARTIKdhCs46MXDh2NM8ANRmy261031.shtml)
-
-+ [美军多处基地冰箱冰柜疑“被黑” 大量食品变质](https://news.cctv.com/2026/10/31/ARTILtAfsRwMXdYI2cYIeZtR261030.shtml)
-
-+ [西班牙列车事故中有70起失踪报案 西交通大臣称不会辞职](https://news.cctv.com/2026/10/31/ARTI2H24cpKgL1Yh3pcFTiTA261030.shtml)
-
-+ [多国发布旅行安全提醒 警告公民注意法国新一轮示威活动](https://news.cctv.com/2026/10/31/ARTIxCv91J3C2EPaHZKaJuap261030.shtml)
-
-+ [第170次中老缅泰湄公河联合巡逻执法行动圆满结束](https://news.cctv.com/2026/10/30/ARTIFbQO2EwsTewLWGfjAzQq261030.shtml)
-
-+ [爱尔兰政府将首次研究与北爱尔兰实现统一的可能性](https://news.cctv.com/2026/10/30/ARTIcMYk8PdMHfjMiyHCSIaA261030.shtml)
-
-+ [以色列议会选举计票结束 内塔尼亚胡阵营议席未过半](https://news.cctv.com/2026/10/30/ARTIieedce1wBdY8prdR8373261030.shtml)
-
-+ [墨西哥抓获“海湾卡特尔”贩毒集团旗下团伙二号人物](https://news.cctv.com/2026/10/30/ARTI9CqRuPq0LHiUclBCOkeD261030.shtml)
-
-+ [土耳其著名旅游区卡帕多奇亚一石柱坍塌](https://photo.cctv.com/2026/10/30/PHOAONHXOTiyQ5MMioVM1uyA261030.shtml)
-
-+ [以色列议会选举初步计票全部完成 议会席位基本确定](https://news.cctv.com/2026/10/30/ARTIMSHroGn8nLpuqU1Vxq7O261030.shtml)
-
-+ [拉美观澜丨卢拉再执政 巴西面临哪些考验？](https://news.cctv.com/2026/10/30/ARTIMXUeiOicvvMmCVrjz14o261029.shtml)
-
-+ [美计划增购F-35战机 “十年大单”究竟意味什么](https://news.cctv.com/2026/10/30/ARTIPCoX1OJ8mpW7FGqHpkWc261029.shtml)
-
-+ [闪评︱峰会前夕改口 欧盟为何放弃加拿大 “联席成员”？](https://news.cctv.com/2026/10/30/ARTIs26Whd8IDT2CbcnNzvOd261029.shtml)
-
-+ [欧洲央行面临通胀与增长双重压力 拉加德将提前离任引关注](https://news.cctv.com/2026/10/30/ARTIbcp2yFk6PcvZdggJdhdn261030.shtml)
-
-+ [以色列议会选举特殊选票清点工作基本完成](https://news.cctv.com/2026/10/30/ARTIP0S48i2jA1oJIIXYuXtx261030.shtml)
-
-+ [伊朗军方：在伊方条件满足前霍尔木兹海峡不会开放](https://news.cctv.com/2026/10/29/ARTIBVKj1spE95D7RDhgQj99261029.shtml)
-
-+ [委内瑞拉代总统要求英格兰银行归还黄金储备](https://news.cctv.com/2026/10/29/ARTI13izBApOFmWKcvIKJdbs261029.shtml)
-
-+ [韩国前总统尹锡悦涉“内乱案”二审被求死刑](https://news.cctv.com/2026/10/29/ARTIQZ3HFesqyDJbdTJLqiYe261029.shtml)
-
-+ [伊朗称在霍尔木兹海峡上空击落美军无人机](https://news.cctv.com/2026/10/29/ARTIpLf9PTusoVv02ZCabS1K261029.shtml)
-
-+ [TBS百般狡辩 日本网民不买账：毫无意义的借口！](https://news.cctv.com/2026/10/29/ARTIeuUz8rjxvZqdJlbORwHW261029.shtml)
-
-+ [以方被曝对美国将结束安全援助“感到担忧”](https://news.cctv.com/2026/11/04/ARTIbumdItOMVZdeVIM7fxGl261104.shtml)
-
-+ [一年内发生两次重大高铁事故 西班牙交通大臣宣布辞职](https://news.cctv.com/2026/11/04/ARTI8UnDxn1bVZsHTKoihWCd261104.shtml)
-
-+ [阿曼附近海域一艘油轮遭两枚不明弹体击中](https://news.cctv.com/2026/11/04/ARTIoXqmeqgoBlZ9v0eadFSq261104.shtml)
-
-+ [格陵兰岛自治政府议会批准与美国达成的安全协议](https://news.cctv.com/2026/11/04/ARTIhn3eSeY54dXlhhXM6F5j261104.shtml)
-
-+ [阿拉伯航空运输组织：今年成员航司预计约亏损43亿美元](https://news.cctv.com/2026/11/04/ARTIkE3WwyV1rCSWf1kXKQs3261104.shtml)
-
-+ [伊朗要求美明确回应7项条件 否则不开放霍尔木兹海峡](https://news.cctv.com/2026/11/04/ARTIp0ZTtkxkXKSkAcTiyEBq261104.shtml)
-
-+ [机构：三艘载俄柴油赴美油轮中仅一艘仍似驶向美国](https://news.cctv.com/2026/11/04/ARTIIgayUM8FHdeCNoMg5OHr261104.shtml)
-
-+ [美国媒体预计民主党将夺回众议院多数席位](https://news.cctv.com/2026/11/04/ARTIbJy63m0Z2n2brP0nSUhT261104.shtml)
-
-+ [特朗普：若民主党掌控国会 或将动用总统否决权抗衡](https://news.cctv.com/2026/11/04/ARTIVt0Qr10XeFvAioyq5SjG261104.shtml)
-
-+ [测算结果显示 美民主党人赢得北卡州参议院席位](https://news.cctv.com/2026/11/04/ARTIjoMk7QporC5cdd5PIWVr261104.shtml)
-
-+ [驻宋卡总领馆提醒在泰南中国公民注意防范雨季易发自然灾害](https://news.cctv.com/2026/11/04/ARTIQRaiOKAOgSfTM3hOf7Vb261104.shtml)
-
-+ [澳独立调查报告：美英澳核潜艇合作应立即终止](https://news.cctv.com/2026/11/04/ARTIarX1yZoscmRSudiGiC4I261104.shtml)
-
-+ [日本防卫大臣再提讨论调整“无核三原则”](https://news.cctv.com/2026/11/04/ARTI1wt1xWUhnTVRJuw7YGaZ261104.shtml)
-
-+ [韩国前总统尹锡悦涉嫌违反《公职选举法》案二审宣判](https://news.cctv.com/2026/11/04/ARTIvrKMLWFNO9KxJn61ywPu261104.shtml)
-
-+ [印尼称前警察总长涉嫌窃听总统或构成叛国罪](https://news.cctv.com/2026/11/04/ARTItmdLoFzLjqA7t6BQ0XpA261104.shtml)
-
-+ [特朗普承认伊朗战事对共和党中期选举表现有影响](https://news.cctv.com/2026/11/04/ARTIH4ozmQACpp0tP9eiEjYG261104.shtml)
-
-+ [美国媒体预计民主党夺回参议院重掌国会](https://news.cctv.com/2026/11/04/ARTIH8nArmmYcjqrZW8GBVrk261104.shtml)
 

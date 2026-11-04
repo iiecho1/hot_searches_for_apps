@@ -1,29 +1,35 @@
 ## GitHub 
-### 2026-11-04
+### 2026-11-05
+
++ [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+
++ [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [floci-io/floci](https://github.com/floci-io/floci)
 
 + [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
 + [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
-+ [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
++ [github/spec-kit](https://github.com/github/spec-kit)
 
-+ [JustVugg/colibri](https://github.com/JustVugg/colibri)
++ [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
 
-+ [mattpocock/skills](https://github.com/mattpocock/skills)
++ [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
-+ [p-e-w/heretic](https://github.com/p-e-w/heretic)
++ [garrytan/gstack](https://github.com/garrytan/gstack)
 
-+ [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
++ [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
 
-+ [floci-io/floci](https://github.com/floci-io/floci)
++ [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
-+ [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
-
-+ [anomalyco/hex](https://github.com/anomalyco/hex)
++ [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
 + [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 
-+ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
++ [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
 
-+ [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
++ [scenario-labs/skills](https://github.com/scenario-labs/skills)
 
