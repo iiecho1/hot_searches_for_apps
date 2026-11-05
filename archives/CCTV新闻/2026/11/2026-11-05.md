@@ -181,3 +181,15 @@
 
 + [中国驻洛杉矶总领馆提醒：谨慎选择从檀香山国际机场入境](https://news.cctv.com/2026/11/05/ARTICE6xEeq2oXXoLBXBn774261105.shtml)
 
++ [欧盟：判断欧洲多起航空威胁事件是否关联为时尚早](https://news.cctv.com/2026/11/05/ARTIDeOSyTMO4ifjOasFWDaR261105.shtml)
+
++ [瑞典将实施6个月申根区内部边境管控以应对安全威胁](https://news.cctv.com/2026/11/05/ARTIxwoJSN2zp5hIHLfEJryg261105.shtml)
+
++ [韩国拟扩大护航部队任务区域至霍尔木兹海峡附近海域](https://news.cctv.com/2026/11/05/ARTIgWtLnQx1xOSg3jY6rl4G261105.shtml)
+
++ [欧洲客机再遭炸弹威胁 一航班改飞法国](https://news.cctv.com/2026/11/05/ARTI1cfIyHWLGANHCHqLqJGT261105.shtml)
+
++ [消息人士：日本政府考虑在紧急情况下引进核武器](https://news.cctv.com/2026/11/05/ARTI76FGtAVPnjRaHQ6yoAOF261105.shtml)
+
++ [中国驻刚果（金）使馆提醒在刚中国公民务必重视安全问题](https://news.cctv.com/2026/11/05/ARTIN4is4WhWYFoz5sf7FqFp261105.shtml)
+

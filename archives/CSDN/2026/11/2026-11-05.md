@@ -159,3 +159,47 @@
 
 + [FPGA数据采集接口选型终极指南](https://blog.csdn.net/weixin_46897017/article/details/169934706)
 
++ [【开源评测】AI Pose Gallery 中文版：图库、生成工作台与 ComfyUI 接线，许可不能只看 MIT](https://blog.csdn.net/TunerT_TQ/article/details/169950557)
+
++ [GPUWorks 私有化大模型推理平台实战：免 K8s 单二进制交付与异构算力统一纳管](https://blog.csdn.net/sinat_41617212/article/details/170136073)
+
++ [Spring Cloud 到底解决了什么？单体、集群、分布式、微服务一次讲透](https://blog.csdn.net/2502_93799892/article/details/169746120)
+
++ [sdptool 工具：服务发现实操 + 源码中 SDP 查询的实现](https://blog.csdn.net/weixin_37800531/article/details/169465693)
+
++ [PocketBase后端教程：数据库、鉴权、文件存储与公网API部署](https://blog.csdn.net/Z_oioihoii/article/details/170143638)
+
++ [Linux网络学习【深入理解多路转接epoll】](https://blog.csdn.net/2401_87629362/article/details/169927765)
+
++ [到公司才发现文件还在家里？我把OpenClaw装进Windows，让AI替我操作电脑](https://blog.csdn.net/weixin_62765017/article/details/170133620)
+
++ [WOA-GPR做SOH估计与RUL预测，锂电池健康状态估计和剩余寿命预测，MATLAB代码](https://blog.csdn.net/kjm13182345320/article/details/170054195)
+
++ [SimpleMemVLA 深度解读：把原生视频上下文变成机器人的记忆](https://blog.csdn.net/lovely_yoshino/article/details/166849220)
+
++ [GPT Images 2.6发布：2款模型、3档复杂度，还能生成SVG和动画GIF](https://blog.csdn.net/aidoudoulong/article/details/170130597)
+
++ [Flowable多人审批怎么设计？角色、顺序和业务状态一次说清](https://blog.csdn.net/ruoyioffice/article/details/169162364)
+
++ [MongoDB 迁移后，Spring Data 与 Hibernate 按请求特征做流量分流的工程实践](https://blog.csdn.net/2402_83344867/article/details/170049786)
+
++ [从本地 Mac 到远端 910B4：GPUWorks 节点接入、模型部署和三种调用测试](https://blog.csdn.net/Mrxiao_bo/article/details/170050703)
+
++ [ESXi 7.0 All-in-One教程：N5105部署飞牛NAS、虚拟机与远程管理](https://blog.csdn.net/u014727709/article/details/170133147)
+
++ [DeepSeek Harness 插件市场怎么开启？添加社区索引、搜索插件完整教程](https://blog.csdn.net/qq_57769259/article/details/169850164)
+
++ [Redis事务与管道](https://blog.csdn.net/suimingtao/article/details/168422985)
+
++ [【元宝搜索开发者征文大赛】给我的 565 篇鸿蒙笔记做体检：用元宝搜索把过期断言一条条揪出来](https://blog.csdn.net/sjw890821sjw/article/details/170054389)
+
++ [宽带到底有没有跑满？用MySpeed搭个自己的测速页，换个设备也能随时测](https://blog.csdn.net/2501_91062530/article/details/170045605)
+
++ [《经典机器学习实战》第 4 课：逻辑回归：预测类别（南瓜）](https://blog.csdn.net/weixin_40192882/article/details/167224889)
+
++ [空圈容错落进Python：用架构约束把R4焊死在CI里](https://blog.csdn.net/Liaiyang66/article/details/170053631)
+
++ [linux服务器部署Logto后端与对应前端的实现](https://blog.csdn.net/2503_93490340/article/details/170142672)
+
++ [二.Flutter 速成第二课：核心概念与第一个自定义页面](https://blog.csdn.net/qq_31939617/article/details/169942852)
+

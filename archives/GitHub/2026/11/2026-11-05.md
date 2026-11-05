@@ -33,3 +33,15 @@
 
 + [scenario-labs/skills](https://github.com/scenario-labs/skills)
 
++ [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
+
++ [lz4/lz4](https://github.com/lz4/lz4)
+
++ [google/skills](https://github.com/google/skills)
+
++ [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+
++ [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+
++ [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+
