@@ -161,3 +161,11 @@
 
 + [日本民众抗议高市政府谋求调整核政策](https://news.cctv.com/2026/10/31/ARTIaxedx1qNjXRTBet2rJ3R261031.shtml)
 
++ [法国将部署7万名警察和宪兵应对示威活动](https://news.cctv.com/2026/11/05/ARTIkc9yfMixjhAZXu3c9KNn261105.shtml)
+
++ [特朗普称伊朗战事何时结束将由其决定](https://news.cctv.com/2026/11/05/ARTIXsmT5HV2dBiZxh8TxDjy261105.shtml)
+
++ [世卫组织呼吁各国帮助青少年从小养成积极运动习惯](https://news.cctv.com/2026/11/05/ARTI1jQxeNiv9W9ShAMK0Cwz261105.shtml)
+
++ [欧委会公布四国入盟路线图 敦促乌克兰加快改革](https://news.cctv.com/2026/11/05/ARTIOL9RnKRTdjKO47N6ZKhN261105.shtml)
+
