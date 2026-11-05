@@ -1,5 +1,41 @@
 ## CCTV新闻 
-### 2026-11-05
+### 2026-11-06
+
++ [法国大规模示威活动持续 总理将召集工会与雇主组织对话](https://news.cctv.com/2026/11/06/ARTISnghGnvGDjInEN2QKg1V261106.shtml)
+
++ [联合国安理会通过主席声明 强调加强外交在武装冲突中的作用](https://news.cctv.com/2026/11/06/ARTIEvQDdxINXcvfqFdgXSpv261106.shtml)
+
++ [欧盟：判断欧洲多起航空威胁事件是否关联为时尚早](https://news.cctv.com/2026/11/05/ARTIDeOSyTMO4ifjOasFWDaR261105.shtml)
+
++ [瑞典将实施6个月申根区内部边境管控以应对安全威胁](https://news.cctv.com/2026/11/05/ARTIxwoJSN2zp5hIHLfEJryg261105.shtml)
+
++ [韩国拟扩大护航部队任务区域至霍尔木兹海峡附近海域](https://news.cctv.com/2026/11/05/ARTIgWtLnQx1xOSg3jY6rl4G261105.shtml)
+
++ [欧洲客机再遭炸弹威胁 一航班改飞法国](https://news.cctv.com/2026/11/05/ARTI1cfIyHWLGANHCHqLqJGT261105.shtml)
+
++ [消息人士：日本政府考虑在紧急情况下引进核武器](https://news.cctv.com/2026/11/05/ARTI76FGtAVPnjRaHQ6yoAOF261105.shtml)
+
++ [中国驻刚果（金）使馆提醒在刚中国公民务必重视安全问题](https://news.cctv.com/2026/11/05/ARTIN4is4WhWYFoz5sf7FqFp261105.shtml)
+
++ [伊朗称霍尔木兹海峡两艘油轮起火 两架无人机遭捕获](https://news.cctv.com/2026/11/05/ARTIBd6W8zUQPWH1cvCFNLIZ261105.shtml)
+
++ [世卫：今年以来霍乱已致刚果（金）约1800人死亡](https://news.cctv.com/2026/11/05/ARTIaFV8GHYbZIlsO1KoBi9b261105.shtml)
+
++ [美众议院被曝最早下周投票弹劾防长赫格塞思](https://news.cctv.com/2026/11/05/ARTIi0kgxZphun09NEVPqJJI261105.shtml)
+
++ [美中期选举选情致金价大涨、油价重挫](https://news.cctv.com/2026/11/05/ARTIhoKuOA9haNL49qWEUih3261105.shtml)
+
++ [结束近22年科学观测任务 美“雨燕”天文台重返大气层](https://news.cctv.com/2026/11/05/ARTI9IWOW2MPs5EEGBuauHuF261105.shtml)
+
++ [中国驻洛杉矶总领馆提醒：谨慎选择从檀香山国际机场入境](https://news.cctv.com/2026/11/05/ARTICE6xEeq2oXXoLBXBn774261105.shtml)
+
++ [法国将部署7万名警察和宪兵应对示威活动](https://news.cctv.com/2026/11/05/ARTIkc9yfMixjhAZXu3c9KNn261105.shtml)
+
++ [特朗普称伊朗战事何时结束将由其决定](https://news.cctv.com/2026/11/05/ARTIXsmT5HV2dBiZxh8TxDjy261105.shtml)
+
++ [世卫组织呼吁各国帮助青少年从小养成积极运动习惯](https://news.cctv.com/2026/11/05/ARTI1jQxeNiv9W9ShAMK0Cwz261105.shtml)
+
++ [欧委会公布四国入盟路线图 敦促乌克兰加快改革](https://news.cctv.com/2026/11/05/ARTIOL9RnKRTdjKO47N6ZKhN261105.shtml)
 
 + [新加坡拟强化立法治理跨境烟霾](https://news.cctv.com/2026/11/05/ARTIqpWPqHhVPT79Bso7VfoX261105.shtml)
 
@@ -124,72 +160,4 @@
 + [欧洲多国爆发示威活动 数百人被捕](https://news.cctv.com/2026/11/01/ARTIltWFIywKJu7oPQpi5uV9261101.shtml)
 
 + [伊朗外交部将英国海军和空军列为“恐怖组织”](https://news.cctv.com/2026/11/01/ARTI1TpnPvgFDvKI1DcXTyRS261101.shtml)
-
-+ [特朗普：不打算见弗拉维奥·博索纳罗 但他可以长居美国](https://news.cctv.com/2026/11/01/ARTISZhO1HsJzorwiU33w02U261101.shtml)
-
-+ [二十国集团外长会未就地缘和经济安全问题达成共识](https://news.cctv.com/2026/11/01/ARTImP5e5GRkSmvDhNo1BmYM261101.shtml)
-
-+ [美方分析报告称伊朗袭击造成中东地区美军基地严重损失](https://news.cctv.com/2026/11/01/ARTIgzs3YLfktyvLJS1LtaRD261101.shtml)
-
-+ [记者手记丨高物价，美国中期选举避不开的民生痛点](https://news.cctv.com/2026/11/01/ARTIF1dTIAmP5w1VIFjIFedg261101.shtml)
-
-+ [法国再现大规模示威活动 警方逮捕422人](https://news.cctv.com/2026/11/01/ARTIwSVxDCpTOwiTo78Fl1ZW261101.shtml)
-
-+ [俄方称从美方获悉莫斯科可能发生恐袭](https://news.cctv.com/2026/11/01/ARTI19vTCFVD3I8ze1wiFDEt261101.shtml)
-
-+ [鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定](https://news.cctv.com/2026/11/01/ARTIhzRN7bCGpXseMCLFTfj4261101.shtml)
-
-+ [挪威官方发起旅游宣介——“让厕所再次伟大”](https://news.cctv.com/2026/11/01/ARTIUBw2UepjLsUFzlOREuJY261031.shtml)
-
-+ [英首相称愿考虑就奴隶贸易道歉 但拒绝赔偿](https://news.cctv.com/2026/11/01/ARTIZeRL470NKntcPvbE25Cz261031.shtml)
-
-+ [国际人士：二十届五中全会展现中国共产党全面从严治党的信心和决心](https://news.cctv.com/2026/10/31/ARTIdsqMBxAEmTlwv7mTdN0m261031.shtml)
-
-+ [综述｜澳大利亚展商将以历史最大规模亮相进博会](https://news.cctv.com/2026/10/31/ARTITNMGNXNOLQD0eli290Wt261031.shtml)
-
-+ [德国总统施泰因迈尔：对中国的发展成就深为钦佩](https://news.cctv.com/2026/10/31/ARTI2GMAg85kviDxHslWmWBD261031.shtml)
-
-+ [助小博索纳罗“流亡”？巴西向阿根廷要说法](https://news.cctv.com/2026/10/31/ARTI1Xh7P1Q8wIoGypaMZrfk261031.shtml)
-
-+ [国际观察丨美国中期选举：人工智能影响首次凸显](https://news.cctv.com/2026/10/31/ARTIqzfZT0HXz0jGpGyIbRcE261031.shtml)
-
-+ [加拿大与欧盟启动构建“未来联盟” 一个问题被回避](https://news.cctv.com/2026/10/31/ARTIgujvC36wrqd1mOxU4std261031.shtml)
-
-+ [伊朗军方：若美国再采取冒险行动 战火必将蔓延](https://news.cctv.com/2026/10/31/ARTIP8svq4EoQnArrXOmCQwT261031.shtml)
-
-+ [国际舆论高度关注中共二十届五中全会——“进一步增强了百年大党的稳定性和凝聚力”（外媒看中国）](https://news.cctv.com/2026/10/31/ARTIT4T7c8hJCPFOVjq2Q6ZV261031.shtml)
-
-+ [日本民众抗议高市政府谋求调整核政策](https://news.cctv.com/2026/10/31/ARTIaxedx1qNjXRTBet2rJ3R261031.shtml)
-
-+ [法国将部署7万名警察和宪兵应对示威活动](https://news.cctv.com/2026/11/05/ARTIkc9yfMixjhAZXu3c9KNn261105.shtml)
-
-+ [特朗普称伊朗战事何时结束将由其决定](https://news.cctv.com/2026/11/05/ARTIXsmT5HV2dBiZxh8TxDjy261105.shtml)
-
-+ [世卫组织呼吁各国帮助青少年从小养成积极运动习惯](https://news.cctv.com/2026/11/05/ARTI1jQxeNiv9W9ShAMK0Cwz261105.shtml)
-
-+ [欧委会公布四国入盟路线图 敦促乌克兰加快改革](https://news.cctv.com/2026/11/05/ARTIOL9RnKRTdjKO47N6ZKhN261105.shtml)
-
-+ [伊朗称霍尔木兹海峡两艘油轮起火 两架无人机遭捕获](https://news.cctv.com/2026/11/05/ARTIBd6W8zUQPWH1cvCFNLIZ261105.shtml)
-
-+ [世卫：今年以来霍乱已致刚果（金）约1800人死亡](https://news.cctv.com/2026/11/05/ARTIaFV8GHYbZIlsO1KoBi9b261105.shtml)
-
-+ [美众议院被曝最早下周投票弹劾防长赫格塞思](https://news.cctv.com/2026/11/05/ARTIi0kgxZphun09NEVPqJJI261105.shtml)
-
-+ [美中期选举选情致金价大涨、油价重挫](https://news.cctv.com/2026/11/05/ARTIhoKuOA9haNL49qWEUih3261105.shtml)
-
-+ [结束近22年科学观测任务 美“雨燕”天文台重返大气层](https://news.cctv.com/2026/11/05/ARTI9IWOW2MPs5EEGBuauHuF261105.shtml)
-
-+ [中国驻洛杉矶总领馆提醒：谨慎选择从檀香山国际机场入境](https://news.cctv.com/2026/11/05/ARTICE6xEeq2oXXoLBXBn774261105.shtml)
-
-+ [欧盟：判断欧洲多起航空威胁事件是否关联为时尚早](https://news.cctv.com/2026/11/05/ARTIDeOSyTMO4ifjOasFWDaR261105.shtml)
-
-+ [瑞典将实施6个月申根区内部边境管控以应对安全威胁](https://news.cctv.com/2026/11/05/ARTIxwoJSN2zp5hIHLfEJryg261105.shtml)
-
-+ [韩国拟扩大护航部队任务区域至霍尔木兹海峡附近海域](https://news.cctv.com/2026/11/05/ARTIgWtLnQx1xOSg3jY6rl4G261105.shtml)
-
-+ [欧洲客机再遭炸弹威胁 一航班改飞法国](https://news.cctv.com/2026/11/05/ARTI1cfIyHWLGANHCHqLqJGT261105.shtml)
-
-+ [消息人士：日本政府考虑在紧急情况下引进核武器](https://news.cctv.com/2026/11/05/ARTI76FGtAVPnjRaHQ6yoAOF261105.shtml)
-
-+ [中国驻刚果（金）使馆提醒在刚中国公民务必重视安全问题](https://news.cctv.com/2026/11/05/ARTIN4is4WhWYFoz5sf7FqFp261105.shtml)
 
