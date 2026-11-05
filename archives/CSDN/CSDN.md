@@ -101,3 +101,61 @@
 
 + [云原生项目二](https://blog.csdn.net/zfm242397396/article/details/169945847)
 
++ [【Linux网络】TCP 服务器如何并发处理多个客户端？从 fork、僵尸进程到双重 fork](https://blog.csdn.net/2402_87731470/article/details/170052083)
+
++ [WorkBuddy 实战：一句话需求 → 七屏可交互原型，户外徒步 App 的 AI 设计全流程](https://blog.csdn.net/yelangkingwuzuhu/article/details/170053850)
+
++ [AI Agent 安全治理：从原则倡导到能力落地](https://blog.csdn.net/vipxieliang/article/details/169951504)
+
++ [AI应用后端工程（04）同一个问题，为什么 AI 每次回答都不一样？](https://blog.csdn.net/2501_94225300/article/details/170052527)
+
++ [Redis 从 0 到 1（二十三）：一个热 key 打到 10 万 QPS——hotkey 与本地缓存的 Go 实现](https://blog.csdn.net/2501_92769340/article/details/167399896)
+
++ [VBS 办公自动化实战：Excel 报表、批量邮件、文件整理，每天省 2 小时](https://blog.csdn.net/Feng_wwf/article/details/169823159)
+
++ [DeepSeek Harness Creator Mode 实测解读：用聊天直接生成可运行插件，是颠覆还是噱头？](https://blog.csdn.net/qq_36729037/article/details/169952080)
+
++ [深度学习实战-基于CNN卷积神经网络的汽车与摩托车图像分类模型](https://blog.csdn.net/m0_64336780/article/details/163064997)
+
++ [企业级Agent服务平台选型指南：从需求匹配到场景落地，文档解析工具怎么选？](https://blog.csdn.net/INTSIG/article/details/169443525)
+
++ [鸿蒙PC平台图匠流程图编辑器适配实战：基于 draw.io 开源引擎与 Electron 壳方案的全功能离线图表编辑器开发](https://blog.csdn.net/COLLINSXU/article/details/169844124)
+
++ [《C++ 项目：手写大模型接入 SDK》ChatGPT接口设计（下）：流式响应实现和测试](https://blog.csdn.net/2501_91275995/article/details/169945823)
+
++ [# 极空间NAS部署Photopea教程：Docker在线修图与远程访问](https://blog.csdn.net/Tiam_cr/article/details/170132378)
+
++ [Rust 项目目录结构](https://blog.csdn.net/K346K346/article/details/169946190)
+
++ [【计算机网络】断点续传是怎么做到的：从 Range 请求到分片上传的完整机制](https://blog.csdn.net/2503_94545876/article/details/170053975)
+
++ [【Linux 网络编程】Reactor 反应堆模式（上）：把 epoll 写成真正的事件驱动服务器](https://blog.csdn.net/weixin_64304261/article/details/170131224)
+
++ [# C++ 微服务即时通讯系统（六）：Qt 客户端——分层、异步状态与未读提醒](https://blog.csdn.net/2502_93510665/article/details/169951972)
+
++ [【开源静态评测】unslop：UI设计复核Agent Skill，先定方向再迭代，风格清单≠设计铁律](https://blog.csdn.net/TunerT_TQ/article/details/170051470)
+
++ [Casella, G. and Berger, R.L. (2002). Statistical Inference (2nd Ed.)Duxbury Press.](https://blog.csdn.net/dllglvzhenfeng/article/details/170052516)
+
++ [硬盘里几百部电影越存越难找？我用Plex把它们整理成自己的流媒体首页](https://blog.csdn.net/m0_73879806/article/details/170132751)
+
++ [远程软件一崩就失联？我用几十块的玩客云做了套硬件级远控](https://blog.csdn.net/aiclaws/article/details/169838485)
+
++ [GitHub 开源热榜项目-周榜（2026-11-02）](https://blog.csdn.net/nmy_2360/article/details/169812966)
+
++ [大数据Spark（八十三）：Spark中的分区器Partitioner介绍](https://blog.csdn.net/xiaoweite1/article/details/170053168)
+
++ [image-matting群晖NAS部署教程：Docker抠图、透明背景与远程访问](https://blog.csdn.net/2401_84720739/article/details/170047870)
+
++ [Spring Boot 数据源与 MyBatis(-Plus) 自定义配置详解](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/170049596)
+
++ [EvolvingNav：让机器人在不断变化的世界中寻找目标](https://blog.csdn.net/lovely_yoshino/article/details/167695946)
+
++ [WorkBuddy做工具小程序实测：以自有小程序「清印」为例的搭建笔记](https://blog.csdn.net/xianyu120/article/details/170039796)
+
++ [汽车芯片巨头转投 RISC-V：英飞凌首款开源架构 MCU 到底意味着什么](https://blog.csdn.net/liukanghao/article/details/170051570)
+
++ [多源融合风险识别技术体系-空中计算与无线物理智能计算](https://blog.csdn.net/xidianlijie/article/details/169920405)
+
++ [FPGA数据采集接口选型终极指南](https://blog.csdn.net/weixin_46897017/article/details/169934706)
+

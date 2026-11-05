@@ -169,3 +169,15 @@
 
 + [欧委会公布四国入盟路线图 敦促乌克兰加快改革](https://news.cctv.com/2026/11/05/ARTIOL9RnKRTdjKO47N6ZKhN261105.shtml)
 
++ [伊朗称霍尔木兹海峡两艘油轮起火 两架无人机遭捕获](https://news.cctv.com/2026/11/05/ARTIBd6W8zUQPWH1cvCFNLIZ261105.shtml)
+
++ [世卫：今年以来霍乱已致刚果（金）约1800人死亡](https://news.cctv.com/2026/11/05/ARTIaFV8GHYbZIlsO1KoBi9b261105.shtml)
+
++ [美众议院被曝最早下周投票弹劾防长赫格塞思](https://news.cctv.com/2026/11/05/ARTIi0kgxZphun09NEVPqJJI261105.shtml)
+
++ [美中期选举选情致金价大涨、油价重挫](https://news.cctv.com/2026/11/05/ARTIhoKuOA9haNL49qWEUih3261105.shtml)
+
++ [结束近22年科学观测任务 美“雨燕”天文台重返大气层](https://news.cctv.com/2026/11/05/ARTI9IWOW2MPs5EEGBuauHuF261105.shtml)
+
++ [中国驻洛杉矶总领馆提醒：谨慎选择从檀香山国际机场入境](https://news.cctv.com/2026/11/05/ARTICE6xEeq2oXXoLBXBn774261105.shtml)
+
