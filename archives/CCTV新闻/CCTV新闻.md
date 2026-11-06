@@ -165,3 +165,7 @@
 
 + [胡塞武装称使用无人机袭击沙特法赫德国王国际机场](https://news.cctv.com/2026/11/06/ARTINa3phKCryON0OBe60d0m261106.shtml)
 
++ [我驻加尔各答总领馆再次提醒中国公民避免自尼泊尔误入印度国境](https://news.cctv.com/2026/11/06/ARTIGPvKnG6xSk5DxymBMJjr261106.shtml)
+
++ [扎哈罗娃：俄美议程无进展 日本放弃反俄才能对话](https://news.cctv.com/2026/11/06/ARTIzfu4zUWo2ZQJxjExHApp261106.shtml)
+

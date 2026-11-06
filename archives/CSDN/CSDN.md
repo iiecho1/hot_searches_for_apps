@@ -101,3 +101,45 @@
 
 + [linux服务器部署Logto后端与对应前端的实现](https://blog.csdn.net/2503_93490340/article/details/170142672)
 
++ [C# 15 深度解析：Union Types + Closed Hierarchies，C# 的类型系统终于“补上最后一课“](https://blog.csdn.net/mss359681091/article/details/170150422)
+
++ [Gemini 的回答也能被结构化抓取？AI Bot Scraper 对比测评](https://blog.csdn.net/m0_64336780/article/details/170186459)
+
++ [MongoDB迁移的新选项：在金仓KES上，用SQL管理文档数据](https://blog.csdn.net/2302_78391795/article/details/170021439)
+
++ [AI应用后端工程（04）同一个问题，为什么 AI 每次回答都不一样？](https://blog.csdn.net/2501_94225300/article/details/170052527)
+
++ [2026 AI 远程软件推荐：跑训练、喂 Agent、传模型](https://blog.csdn.net/Rqaqedamancy/article/details/170146327)
+
++ [查状态改服务每次都要进SSH？我用Cockpit给Linux服务器加了个网页控制台](https://blog.csdn.net/Dovis5884/article/details/170191331)
+
++ [模型读过的内容存在哪里？从全注意力到混合注意力](https://blog.csdn.net/weixin_74809706/article/details/169847165)
+
++ [Spring Aop](https://blog.csdn.net/2401_89019969/article/details/159347908)
+
++ [OnlyOffice＋poi-tl：把 Word 模板变成可填写、可生成的合同系统](https://blog.csdn.net/zhouzhongyan/article/details/170054142)
+
++ [BGP AS-Path Prepend 调优：精细化控制网络流量路径](https://blog.csdn.net/qq_41840843/article/details/170151132)
+
++ [2026年11月模拟器横评：MuMu、雷电、应用宝，火影搓高帧、传奇开小号、Mac 挂红果，我把三家都试了一遍](https://blog.csdn.net/2301_76341691/article/details/170147557)
+
++ [FineBI、Power BI、Tableau 建模能力实测：2026 年三款主流 BI 的性能与运维成本对比](https://blog.csdn.net/yuanziok/article/details/170051433)
+
++ [没有 Docker 也不能开端口，我在受限 GPU 实例上跑通了大模型推理服务](https://blog.csdn.net/2402_83344867/article/details/170125489)
+
++ [[DSH/多智能体/CodingAgent] dsh-superagent-prototype: 基于 DeepSeek Harness 的主动式、Coding 多智能体研究原型](https://blog.csdn.net/2601_96669711/article/details/170048661)
+
++ [【元宝搜索开发者征文大赛】把搜索引擎变成数据管线的「仲裁员」——我在 2.3 万家医院库上的实践](https://blog.csdn.net/qq_71257020/article/details/170183494)
+
++ [WGCLOUD服务器监控教程：国产开源部署、主机接入与远程访问](https://blog.csdn.net/u010726809/article/details/170131949)
+
++ [【元宝搜索开发者征文大赛】我妈想卖旧金条，我做了个工具拿店家报价去当天的行情比一比](https://blog.csdn.net/wodekouwei/article/details/170054339)
+
++ [AstrBot + NapCat 部署 QQ 机器人全家桶：Docker 实机教程（大肥鱼 · DeepSeek）](https://blog.csdn.net/qq_66350346/article/details/170051191)
+
++ [vue 表格组件 vxe-table 实现传统 ERP 那样表头放筛选框的筛选渲染方式](https://blog.csdn.net/abc26296/article/details/170190633)
+
++ [为什么苹果的圆角更高级-连续曲率圆角Squircle从超椭圆到CSS实现的完全讲解](https://blog.csdn.net/2301_79239314/article/details/170190952)
+
++ [Flutter 可以更直接地调用原生 API 了，Dart Direct Native Interop](https://blog.csdn.net/ZuoYueLiang/article/details/169649453)
+
