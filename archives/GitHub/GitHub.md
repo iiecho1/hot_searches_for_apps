@@ -1,33 +1,39 @@
 ## GitHub 
-### 2026-11-06
+### 2026-11-07
+
++ [zed-industries/zed](https://github.com/zed-industries/zed)
 
 + [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 
-+ [mattpocock/skills](https://github.com/mattpocock/skills)
++ [rails/rails](https://github.com/rails/rails)
 
-+ [garrytan/gstack](https://github.com/garrytan/gstack)
++ [mpv-player/mpv](https://github.com/mpv-player/mpv)
 
-+ [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
++ [rust-lang/rust](https://github.com/rust-lang/rust)
 
-+ [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
++ [react/react](https://github.com/react/react)
 
-+ [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
++ [angular/angular](https://github.com/angular/angular)
 
-+ [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
++ [symfony/symfony](https://github.com/symfony/symfony)
 
-+ [lz4/lz4](https://github.com/lz4/lz4)
++ [prometheus/prometheus](https://github.com/prometheus/prometheus)
 
 + [google/skills](https://github.com/google/skills)
 
-+ [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
++ [microsoft/vscode](https://github.com/microsoft/vscode)
 
-+ [scenario-labs/skills](https://github.com/scenario-labs/skills)
++ [lz4/lz4](https://github.com/lz4/lz4)
 
-+ [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
++ [nushell/nushell](https://github.com/nushell/nushell)
 
-+ [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
++ [etcd-io/etcd](https://github.com/etcd-io/etcd)
 
-+ [floci-io/floci](https://github.com/floci-io/floci)
++ [openssl/openssl](https://github.com/openssl/openssl)
 
-+ [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
++ [mattpocock/skills](https://github.com/mattpocock/skills)
+
++ [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+
++ [astral-sh/ruff](https://github.com/astral-sh/ruff)
 

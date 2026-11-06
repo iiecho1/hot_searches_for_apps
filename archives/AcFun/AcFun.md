@@ -1,89 +1,61 @@
 ## AcFun 
-### 2026-11-06
+### 2026-11-07
 
-+ [《狗看完视频自己吃巧克力了》](https://m.acfun.cn/v/?ac=48960837)
-
-+ [叽里咕噜说啥呢](https://m.acfun.cn/v/?ac=48963338)
-
-+ [操场上从来不缺舞者！欢乐八点档-1824](https://m.acfun.cn/v/?ac=48963178)
-
-+ [工作室排骨人又破防？开服惯例痛打第三方【绅批】](https://m.acfun.cn/v/?ac=48963504)
-
-+ [【UP创作大赛】《 三 体 FUNK 》](https://m.acfun.cn/v/?ac=48963636)
-
-+ [网络上常见的热门短视频集锦   第三千五百二十八期](https://m.acfun.cn/v/?ac=48961520)
-
-+ [走秀一定要看！★手机竖屏2055★](https://m.acfun.cn/v/?ac=48961518)
-
-+ [【UP创作大赛】 影之刃零，当今最好的3A国单](https://m.acfun.cn/v/?ac=48963724)
-
-+ [今晚回家吃饭吗？](https://m.acfun.cn/v/?ac=48963578)
-
-+ [【UP创作大赛】Ac娘大战不孝子！！！](https://m.acfun.cn/v/?ac=48961628)
-
-+ [沃趣！高跟鞋也能跳猎空舞！](https://m.acfun.cn/v/?ac=48961351)
-
-+ [《拿包烟》尼灯喵喵 吸烟有害健康 【UP创作大赛】](https://m.acfun.cn/v/?ac=48961356)
-
-+ [厨师长分享现场版“软炸平菇”，外壳酥脆，内里软嫩带汁](https://m.acfun.cn/v/?ac=48962409)
-
-+ [茶好啊，茶得喝【今天有什么好笑的 #2558】](https://m.acfun.cn/v/?ac=48963109)
-
-+ [纯情主公俏将军，但是日本武士之众道！万字解析《武士畅想曲》P2](https://m.acfun.cn/v/?ac=48962605)
-
-+ [【UP创作大赛】科幻可以和灵幻撞在一起？这电影神了！](https://m.acfun.cn/v/?ac=48963789)
-
-+ [BESTie Love Options 恋爱的条件](https://m.acfun.cn/v/?ac=48963795)
-
-+ [【这一集是真辞职了】辞职信~翻唱](https://m.acfun.cn/v/?ac=48963112)
-
-+ [【异环MMD】妈妈](https://m.acfun.cn/v/?ac=48962929)
-
-+ [【UP创作大赛】AC娘防骗【Ai赛道】](https://m.acfun.cn/v/?ac=48962686)
-
-+ [【UP创作大赛】65.称霸地球的“铁头怪兽”，二叠纪中期的绝对霸主：恐头兽](https://m.acfun.cn/v/?ac=48947636)
-
-+ [AEW Dynamite #370 - Blood & Guts 2026.11.04](https://m.acfun.cn/v/?ac=48962535)
-
-+ [在末日，我会是精英怪吗](https://m.acfun.cn/v/?ac=48962536)
-
-+ [AOA BingBing](https://m.acfun.cn/v/?ac=48963784)
-
-+ [【UP创作大赛】三角洲行动：这套腾龙步枪通用型改枪码，手感还真不错](https://m.acfun.cn/v/?ac=48961855)
-
-+ [ 辰星 人间万朵红](https://m.acfun.cn/v/?ac=48961350)
-
-+ [听说这个事闹大了？](https://m.acfun.cn/v/?ac=48961059)
-
-+ [シアン(시안) & ソニョ(윤선요)](https://m.acfun.cn/v/?ac=48963481)
-
-+ [【东方】ラクトガール～少女密室 钢琴演绎【ViddyWell】](https://m.acfun.cn/v/?ac=48961953)
-
-+ [AOA Miniskirt 短裙](https://m.acfun.cn/v/?ac=48963775)
-
-+ [来英国俩月，愣是大病了一个多月](https://m.acfun.cn/v/?ac=48964362)
-
-+ [【UP创作大赛】一不小心买了这么多！盘点一下手头的塔虎战术包！](https://m.acfun.cn/v/?ac=48964046)
-
-+ [STORM贾队长版【UP创作大赛】](https://m.acfun.cn/v/?ac=48963701)
-
-+ [【逛吃黄山】特色小吃大合集！超酥脆梅干菜饼，爆汁包子连吃十个](https://m.acfun.cn/v/?ac=48963187)
-
-+ [风间空 YOSUN 活动模特｜2026东京摩托车展｜4K 60帧](https://m.acfun.cn/v/?ac=48963226)
-
-+ [爱上我需要多久？★手机竖屏2056★](https://m.acfun.cn/v/?ac=48964093)
++ [《Creep》](https://m.acfun.cn/v/?ac=48964590)
 
 + [网络上常见的热门短视频集锦   第三千五百二十九期](https://m.acfun.cn/v/?ac=48964094)
 
-+ [【深空当铺】（第二集）曾经有一条当铺街 收东西太多把自己收倒闭](https://m.acfun.cn/v/?ac=48963560)
++ [【UP创作大赛】时代的眼泪…登场！](https://m.acfun.cn/v/?ac=48964196)
+
++ [来英国俩月，愣是大病了一个多月](https://m.acfun.cn/v/?ac=48964362)
+
++ [爱上我需要多久？★手机竖屏2056★](https://m.acfun.cn/v/?ac=48964093)
+
++ [【UP创作大赛】当AcFun终于重回巅峰！！！](https://m.acfun.cn/v/?ac=48964391)
+
++ [铁锅丨不锈钢锅都能用：一套物理不粘公式，煎鱼豆腐都不粘](https://m.acfun.cn/v/?ac=48965064)
+
++ [你要气死妈妈吗？](https://m.acfun.cn/v/?ac=48966233)
+
++ [双王分享自贡盐帮菜“干拌牛肉”，现舂现拌刀口辣椒，细节满满](https://m.acfun.cn/v/?ac=48964733)
+
++ [【cc君】甜辣波点hotoink辣](https://m.acfun.cn/v/?ac=48965536)
 
 + [我上游戏要是没看见这三个小美人你就完了！](https://m.acfun.cn/v/?ac=48965115)
 
-+ [AOA-Miniskirt](https://m.acfun.cn/v/?ac=48964209)
++ [【up主创作大赛】半身的一个高糊版本分享一下hhh](https://m.acfun.cn/v/?ac=48965632)
 
-+ [绝顶性感黑丝AOA短裙舞蹈翻跳](https://m.acfun.cn/v/?ac=48964832)
++ [飞花散满地](https://m.acfun.cn/v/?ac=48964024)
 
-+ [【官方双语】专业用户试用AI克隆版的工程软件#linus谈科技](https://m.acfun.cn/v/?ac=48964116)
++ [【up主创作大赛】刀剑神域《虹の彼方に》虹之彼端【原创编舞】](https://m.acfun.cn/v/?ac=48965604)
 
-+ [【逛吃北京】抱着啃整只乳鸽和烧鹅下庄，一咬咔咔脆满嘴都爆油！](https://m.acfun.cn/v/?ac=48964179)
++ [真剑决生死 VS 木剑守仁！万字解析《武士畅想曲》P3](https://m.acfun.cn/v/?ac=48964488)
+
++ [测试](https://m.acfun.cn/v/?ac=48965186)
+
++ [这不就是许褚吗？《影之刃零》逆天者难度BOSS战](https://m.acfun.cn/v/?ac=48964926)
+
++ [【UP创作大赛】人均20多元半自助！贵州地摊火锅，迷上你了！](https://m.acfun.cn/v/?ac=48966493)
+
++ [魔兽无限篝火晚会【不坠的光】现场版](https://m.acfun.cn/v/?ac=48965454)
+
++ [43岁单身女生的17条征婚规定，大家觉得过分吗？](https://m.acfun.cn/v/?ac=48964920)
+
++ [【深空当铺】（第二集）曾经有一条当铺街 收东西太多把自己收倒闭](https://m.acfun.cn/v/?ac=48963560)
+
++ [【UP创作大赛】一段帅气的ending！](https://m.acfun.cn/v/?ac=48959113)
+
++ [인형 같은 예린의 귀여운 꽃무늬 원피스 룩](https://m.acfun.cn/v/?ac=48964353)
+
++ [绝顶性感黑丝上下up＆down舞蹈翻跳](https://m.acfun.cn/v/?ac=48965325)
+
++ [勇破七星剑阵！【影之刃零】逆天者难度](https://m.acfun.cn/v/?ac=48966277)
+
++ [把一条铁线虫，放进100000浓度的辣椒精水里会怎样？](https://m.acfun.cn/v/?ac=48965453)
+
++ [起飞了！RESCENE 《With》4K版MV](https://m.acfun.cn/v/?ac=48965198)
+
++ [【UP创作大赛】66.被遗忘的史前异类：从长满怪牙到无齿霸主](https://m.acfun.cn/v/?ac=48947644)
+
++ [261105 雨聊 かまいたち同期芸人…みなみかわ＆芝も参戦で大荒れ!!](https://m.acfun.cn/v/?ac=48964301)
 

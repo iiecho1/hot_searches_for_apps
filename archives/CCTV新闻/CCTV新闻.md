@@ -1,5 +1,13 @@
 ## CCTV新闻 
-### 2026-11-06
+### 2026-11-07
+
++ [我驻加尔各答总领馆再次提醒中国公民避免自尼泊尔误入印度国境](https://news.cctv.com/2026/11/06/ARTIGPvKnG6xSk5DxymBMJjr261106.shtml)
+
++ [扎哈罗娃：俄美议程无进展 日本放弃反俄才能对话](https://news.cctv.com/2026/11/06/ARTIzfu4zUWo2ZQJxjExHApp261106.shtml)
+
++ [美国国务卿鲁比奥否认计划离职竞选总统](https://news.cctv.com/2026/11/06/ARTIFYMXIvsuoQnHHnEypiY2261106.shtml)
+
++ [胡塞武装称使用无人机袭击沙特法赫德国王国际机场](https://news.cctv.com/2026/11/06/ARTINa3phKCryON0OBe60d0m261106.shtml)
 
 + [法国大规模示威活动持续 总理将召集工会与雇主组织对话](https://news.cctv.com/2026/11/06/ARTISnghGnvGDjInEN2QKg1V261106.shtml)
 
@@ -152,20 +160,4 @@
 + [中国驻俄罗斯大使馆关于切勿在俄非法采金的提醒](https://news.cctv.com/2026/11/01/ARTIxsGeJyaIiqFFk3RSy7Or261101.shtml)
 
 + [中东面面观丨以色列选举见证民意分化 组阁僵局或导致再度大选](https://news.cctv.com/2026/11/01/ARTIbjnE8YhlZ9hqPg5oM4q0261101.shtml)
-
-+ [减少对美依赖 加拿大力推“中等强国外交”](https://news.cctv.com/2026/11/01/ARTIljqJSbiU2XVx3iuWeEOt261101.shtml)
-
-+ [刚果（金）本轮埃博拉疫情死亡率升至51.6%](https://news.cctv.com/2026/11/01/ARTIb0TIAKEmFHUiQMyDcuxf261101.shtml)
-
-+ [欧洲多国爆发示威活动 数百人被捕](https://news.cctv.com/2026/11/01/ARTIltWFIywKJu7oPQpi5uV9261101.shtml)
-
-+ [伊朗外交部将英国海军和空军列为“恐怖组织”](https://news.cctv.com/2026/11/01/ARTI1TpnPvgFDvKI1DcXTyRS261101.shtml)
-
-+ [美国国务卿鲁比奥否认计划离职竞选总统](https://news.cctv.com/2026/11/06/ARTIFYMXIvsuoQnHHnEypiY2261106.shtml)
-
-+ [胡塞武装称使用无人机袭击沙特法赫德国王国际机场](https://news.cctv.com/2026/11/06/ARTINa3phKCryON0OBe60d0m261106.shtml)
-
-+ [我驻加尔各答总领馆再次提醒中国公民避免自尼泊尔误入印度国境](https://news.cctv.com/2026/11/06/ARTIGPvKnG6xSk5DxymBMJjr261106.shtml)
-
-+ [扎哈罗娃：俄美议程无进展 日本放弃反俄才能对话](https://news.cctv.com/2026/11/06/ARTIzfu4zUWo2ZQJxjExHApp261106.shtml)
 
