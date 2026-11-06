@@ -161,3 +161,7 @@
 
 + [伊朗外交部将英国海军和空军列为“恐怖组织”](https://news.cctv.com/2026/11/01/ARTI1TpnPvgFDvKI1DcXTyRS261101.shtml)
 
++ [美国国务卿鲁比奥否认计划离职竞选总统](https://news.cctv.com/2026/11/06/ARTIFYMXIvsuoQnHHnEypiY2261106.shtml)
+
++ [胡塞武装称使用无人机袭击沙特法赫德国王国际机场](https://news.cctv.com/2026/11/06/ARTINa3phKCryON0OBe60d0m261106.shtml)
+
