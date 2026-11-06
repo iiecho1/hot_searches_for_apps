@@ -101,3 +101,21 @@
 
 + [vue 表格组件 vxe-table 实现传统 ERP 那样表头放筛选框的筛选渲染方式](https://blog.csdn.net/abc26296/article/details/170190633)
 
++ [MongoDB迁移实战：当文档数据遇上SQL，开发不用再“两头将就“](https://blog.csdn.net/beautifulmemory/article/details/169953532)
+
++ [五模型航空发动机剩余寿命预测（CNN+LSTM+GRU+BiGRU+BiLSTM）C-MAPSS数据集+MATLAB代码](https://blog.csdn.net/kjm13182345320/article/details/170149827)
+
++ [ollama v0.40.15更新：MiMo V2.6、AutoTrust、Kimi Code CLI、并发与长上下文能力全面到位](https://blog.csdn.net/weixin_48502062/article/details/170194302)
+
++ [Hyprland：把桌面配置当成一套可校验的 API｜GitHub Trending 快照 L3 静态评测](https://blog.csdn.net/TunerT_TQ/article/details/170149941)
+
++ [多源融合风险识别技术体系-模型训练、评估与边缘部署](https://blog.csdn.net/xidianlijie/article/details/170124227)
+
++ [Docker 容器启动成功，接口却访问不了？从端口映射到防火墙，按 5 步定位](https://blog.csdn.net/2403_86779341/article/details/170201291)
+
++ [Flutter 开始支持 Jetpack Compose Platform View](https://blog.csdn.net/ZuoYueLiang/article/details/169649944)
+
++ [【搜索引擎】Kibana使用指南](https://blog.csdn.net/qq_54088234/article/details/170046229)
+
++ [[DSH/多智能体/CodingAgent] dsh-superagent-prototype: 基于 DeepSeek Harness 的主动式、Coding 多智能体研究原型](https://blog.csdn.net/2601_96669711/article/details/170048661)
+
