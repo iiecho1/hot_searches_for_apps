@@ -161,3 +161,7 @@
 
 + [国际社会热议中共二十届五中全会的全球启示](https://news.cctv.com/2026/11/02/ARTIyYzwZ45PTDDoigLTAUhY261102.shtml)
 
++ [以色列总统宣布将正式授权埃森科特组建新一届政府](https://news.cctv.com/2026/11/08/ARTICrstwYSqMnnrErNvEM3o261108.shtml)
+
++ [胡塞武装称沙特空袭萨那周边 已致27人死亡](https://news.cctv.com/2026/11/08/ARTIDkGOCD5IVm96xekQEQou261108.shtml)
+
