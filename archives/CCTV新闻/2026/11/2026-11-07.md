@@ -161,3 +161,19 @@
 
 + [中东面面观丨以色列选举见证民意分化 组阁僵局或导致再度大选](https://news.cctv.com/2026/11/01/ARTIbjnE8YhlZ9hqPg5oM4q0261101.shtml)
 
++ [我驻墨尔本总领馆通报一名中国公民遇害](https://news.cctv.com/2026/11/07/ARTIk10ZdQ9Q9GpiTO76lZGz261107.shtml)
+
++ [新西兰议会选举开始正式投票](https://news.cctv.com/2026/11/07/ARTIDR8BgoFWfacEKaJRn22J261107.shtml)
+
++ [希腊、塞浦路斯拟在东地中海开展电力项目 土耳其提出异议](https://news.cctv.com/2026/11/07/ARTIccWz3GLknbpJBwZmOqxA261107.shtml)
+
++ [客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷](https://news.cctv.com/2026/11/07/ARTIX0UIEibAvLz9LzrL1Z1U261107.shtml)
+
++ [特朗普称正在与伊朗进行沟通](https://news.cctv.com/2026/11/07/ARTI2T0iTG6zIJVU9XJSgRkJ261107.shtml)
+
++ [美国宣布新一轮与伊朗相关的制裁措施](https://news.cctv.com/2026/11/07/ARTIWXpt9tWaQc76xGztQHVh261107.shtml)
+
++ [普京确认俄美乌三方会谈将于11月10日在阿布扎比举行](https://news.cctv.com/2026/11/07/ARTIil3EoCXhY0saq0gUUBJp261107.shtml)
+
++ [联合国机构：苏丹仍有超过1300万人流离失所](https://news.cctv.com/2026/11/07/ARTIckrFO3tCsUOdXgVoyJls261107.shtml)
+

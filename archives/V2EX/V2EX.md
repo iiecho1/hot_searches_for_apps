@@ -21,3 +21,11 @@
 
 + [AI 来了，我把目前工作当作最后一份工作](https://www.v2ex.com/t/1254872)
 
++ [V2EX Polish 2.5.6 版本导致谷歌浏览器卡死](https://www.v2ex.com/t/1254940)
+
++ [上个月在这里求内测的取餐号收集册「杯号」，上架 App Store 了（送 30 个永久 Pro 码）](https://www.v2ex.com/t/1254951)
+
++ [居委会是如何精准知道家里住了哪些人的](https://www.v2ex.com/t/1254966)
+
++ [xhs 里面北京落户的有了解的么](https://www.v2ex.com/t/1254894)
+

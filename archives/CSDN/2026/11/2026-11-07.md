@@ -119,3 +119,13 @@
 
 + [[DSH/多智能体/CodingAgent] dsh-superagent-prototype: 基于 DeepSeek Harness 的主动式、Coding 多智能体研究原型](https://blog.csdn.net/2601_96669711/article/details/170048661)
 
++ [AI 编程智能体 24：从零搞定高德MCP服务接入](https://blog.csdn.net/2503_92624912/article/details/170052668)
+
++ [【开源静态评测】unslop：UI设计复核Agent Skill，先定方向再迭代，风格清单≠设计铁律](https://blog.csdn.net/TunerT_TQ/article/details/170051470)
+
++ [ruwebframe全家桶： natsframe & natsclient](https://blog.csdn.net/leijmdas/article/details/170200874)
+
++ [为什么苹果的圆角更高级-连续曲率圆角Squircle从超椭圆到CSS实现的完全讲解](https://blog.csdn.net/2301_79239314/article/details/170190952)
+
++ [fitSVD（最小二乘）与 flatMinZone（最小区域）：三维点拟合平面的原理与用法对比](https://blog.csdn.net/qq_65450746/article/details/170048726)
+
