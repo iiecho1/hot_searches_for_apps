@@ -37,3 +37,21 @@
 
 + [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
++ [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+
++ [anthropics/skills](https://github.com/anthropics/skills)
+
++ [meta/astryx](https://github.com/meta/astryx)
+
++ [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+
++ [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+
++ [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
++ [mbillow/localthings](https://github.com/mbillow/localthings)
+
++ [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+
++ [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)
+

@@ -129,3 +129,51 @@
 
 + [fitSVD（最小二乘）与 flatMinZone（最小区域）：三维点拟合平面的原理与用法对比](https://blog.csdn.net/qq_65450746/article/details/170048726)
 
++ [【AI大模型接入SDK】前端页面生成](https://blog.csdn.net/2401_89899187/article/details/170231428)
+
++ [计算机网络篇19：传输层——套接字在内核的对象链，从 fd 到 tcp_sock 的四层嵌套](https://blog.csdn.net/2502_94387000/article/details/169365444)
+
++ [时序数据库怎么选？先回答这五个问题](https://blog.csdn.net/2302_78391795/article/details/170199885)
+
++ [AI Agent 01](https://blog.csdn.net/2401_88601046/article/details/170200652)
+
++ [从“被人用“到“被 AI 用“：数据库的四道新考题](https://blog.csdn.net/weixin_43151418/article/details/170242655)
+
++ [集中式与分布式怎么选：一次选型复盘，附金仓数据库建表与增删改查实践](https://blog.csdn.net/beautifulmemory/article/details/170242834)
+
++ [看不见的战场：从无线网络、下一代网络到网络安全](https://blog.csdn.net/2601_95494915/article/details/170245477)
+
++ [【宠粉赠书】腾讯龙虾合并落地：AI办公新时代开启](https://blog.csdn.net/weixin_41793160/article/details/170192650)
+
++ [室内机器人巡检室内物体人员墙面地板检测数据集VOC+YOLO格式1000张4类别](https://blog.csdn.net/FL1623863129/article/details/170237280)
+
++ [AI Agent 误改整表？用闪回把数据退回去（附 SQL）](https://blog.csdn.net/augen1355/article/details/170196393)
+
++ [大数据Spark（八十五）：Stage及Spark计算模式](https://blog.csdn.net/xiaoweite1/article/details/170235087)
+
++ [时序数据库的备份别裸奔：用 VictoriaMetrics 把指标快照存进 RustFS](https://blog.csdn.net/rustfs_contrib/article/details/170195580)
+
++ [工业物联网时序数据库选型：别急着看参数表，先算清这三本账](https://blog.csdn.net/Pocker_Spades_A/article/details/170244536)
+
++ [Ghostty：终端项目怎样把核心能力交给不同构建系统](https://blog.csdn.net/TunerT_TQ/article/details/170189899)
+
++ [Zetta：让冻结的机器人策略从执行失败中积累可复用能力](https://blog.csdn.net/lovely_yoshino/article/details/167702801)
+
++ [Aspire——用于机器人技术的Agentic/SkillsDiscovery：让机器人从失败中改程序、攒技能、持续进化(新技能既能解决新任务，也能回头补救旧任务，并迁移到真机)](https://blog.csdn.net/v_JULY_v/article/details/170195403)
+
++ [Nexent v2.8.2 从零部署实录：从 Docker 到首个智能体跑通](https://blog.csdn.net/2501_94186029/article/details/170149269)
+
++ [【AI智能体】Langchain 上下文记忆使用实战操作详解](https://blog.csdn.net/congge_study/article/details/167585588)
+
++ [【计算机网络】断点续传是怎么做到的：从 Range 请求到分片上传的完整机制](https://blog.csdn.net/2503_94545876/article/details/170053975)
+
++ [【鸿蒙心迹】国际化 i18n 与多语言资源管理实战（HarmonyOS 7.x）](https://blog.csdn.net/qq_35366330/article/details/170012536)
+
++ [C++20概念约束—现代C++模板约束的演进与重构](https://blog.csdn.net/Lucis__/article/details/170240999)
+
++ [2026 华为OD机试真题 新系统 11.4.【相机对焦区域最优选择】](https://blog.csdn.net/qq_45776114/article/details/170198928)
+
++ [【具身智能】从 0 到 1 开发一张机器人驱动卡片](https://blog.csdn.net/2301_80683479/article/details/170243222)
+
++ [手机该下哪个APK？ARM 与 x86 区别](https://blog.csdn.net/zheng15ddi/article/details/170200553)
+

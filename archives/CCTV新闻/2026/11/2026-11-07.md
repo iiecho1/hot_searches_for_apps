@@ -181,3 +181,7 @@
 
 + [美国悬赏最高2000万美元征集伊朗核计划情报](https://news.cctv.com/2026/11/07/ARTIb6ob3aWuIdAKUlwmt8TR261107.shtml)
 
++ [印尼杜科诺火山再喷发 火山灰柱高约2000米](https://news.cctv.com/2026/11/07/ARTIg0SfbRj4y2bQc8Kup3Dj261107.shtml)
+
++ [美国多名国会议员称将推动撤销不合理关税政策](https://news.cctv.com/2026/11/07/ARTIC0XvmyJMzi7EAQFJyQPH261107.shtml)
+

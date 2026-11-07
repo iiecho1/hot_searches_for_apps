@@ -49,3 +49,15 @@
 
 + [ChatGpt 大面积封号？](https://www.v2ex.com/t/1255172)
 
++ [很久没开 JetBrains 家产品了](https://www.v2ex.com/t/1255109)
+
++ [智友社回馈 V 站新老客户，抽送第 13 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 3](https://www.v2ex.com/t/1255146)
+
++ [有点纠结选西屋的 K16 还是格米莱 G3006J 的咖啡机](https://www.v2ex.com/t/1255169)
+
++ [现在入手 M6 MacBook Pro 还是等几个月后的 M7 版？](https://www.v2ex.com/t/1255116)
+
++ [请问大佬们买 Macbook 各种系列 24GB 以上的都是什么需求](https://www.v2ex.com/t/1255251)
+
++ [外面阴雨绵绵，我的 claude 被 ban](https://www.v2ex.com/t/1255202)
+
