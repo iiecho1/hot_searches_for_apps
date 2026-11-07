@@ -1,5 +1,29 @@
 ## CCTV新闻 
-### 2026-11-07
+### 2026-11-08
+
++ [印尼杜科诺火山再喷发 火山灰柱高约2000米](https://news.cctv.com/2026/11/07/ARTIg0SfbRj4y2bQc8Kup3Dj261107.shtml)
+
++ [美国多名国会议员称将推动撤销不合理关税政策](https://news.cctv.com/2026/11/07/ARTIC0XvmyJMzi7EAQFJyQPH261107.shtml)
+
++ [IMF总裁：各国央行需考量AI驱动增长或放缓](https://news.cctv.com/2026/11/07/ARTIr5Ts3ux0dXjovk0Cizm4261107.shtml)
+
++ [美国悬赏最高2000万美元征集伊朗核计划情报](https://news.cctv.com/2026/11/07/ARTIb6ob3aWuIdAKUlwmt8TR261107.shtml)
+
++ [我驻墨尔本总领馆通报一名中国公民遇害](https://news.cctv.com/2026/11/07/ARTIk10ZdQ9Q9GpiTO76lZGz261107.shtml)
+
++ [新西兰议会选举开始正式投票](https://news.cctv.com/2026/11/07/ARTIDR8BgoFWfacEKaJRn22J261107.shtml)
+
++ [希腊、塞浦路斯拟在东地中海开展电力项目 土耳其提出异议](https://news.cctv.com/2026/11/07/ARTIccWz3GLknbpJBwZmOqxA261107.shtml)
+
++ [客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷](https://news.cctv.com/2026/11/07/ARTIX0UIEibAvLz9LzrL1Z1U261107.shtml)
+
++ [特朗普称正在与伊朗进行沟通](https://news.cctv.com/2026/11/07/ARTI2T0iTG6zIJVU9XJSgRkJ261107.shtml)
+
++ [美国宣布新一轮与伊朗相关的制裁措施](https://news.cctv.com/2026/11/07/ARTIWXpt9tWaQc76xGztQHVh261107.shtml)
+
++ [普京确认俄美乌三方会谈将于11月10日在阿布扎比举行](https://news.cctv.com/2026/11/07/ARTIil3EoCXhY0saq0gUUBJp261107.shtml)
+
++ [联合国机构：苏丹仍有超过1300万人流离失所](https://news.cctv.com/2026/11/07/ARTIckrFO3tCsUOdXgVoyJls261107.shtml)
 
 + [我驻加尔各答总领馆再次提醒中国公民避免自尼泊尔误入印度国境](https://news.cctv.com/2026/11/06/ARTIGPvKnG6xSk5DxymBMJjr261106.shtml)
 
@@ -136,52 +160,4 @@
 + [西班牙官方确认列车相撞事故66名遇难者身份](https://news.cctv.com/2026/11/02/ARTIarw57OwTNqCzb1qOaHwp261102.shtml)
 
 + [国际社会热议中共二十届五中全会的全球启示](https://news.cctv.com/2026/11/02/ARTIyYzwZ45PTDDoigLTAUhY261102.shtml)
-
-+ [埃塞俄比亚：又到咖啡采收季](https://photo.cctv.com/2026/11/02/PHOAay5VCuEQwSXkmQSj5Eow261102.shtml)
-
-+ [阿根廷媒体称阿情报机构协助弗拉维奥·博索纳罗出逃](https://news.cctv.com/2026/11/02/ARTIrszKpPUNheGIMHEdMp8n261102.shtml)
-
-+ [苏丹向联合国提出申诉 指控埃塞俄比亚实施“侵略”](https://news.cctv.com/2026/11/02/ARTIGfXmyKEKvDF0lvSRqE83261102.shtml)
-
-+ [美国佛罗里达州失事飞机上9人全部遇难](https://news.cctv.com/2026/11/02/ARTIYziBBXNCxhFNOA6Ja3no261102.shtml)
-
-+ [伊朗外长披露“两天计划” 美方履约方能重启伊美谈判](https://news.cctv.com/2026/11/02/ARTIBO6XUub7F9D5LCYaCJFT261102.shtml)
-
-+ [泽连斯基提议在土耳其与普京会晤](https://news.cctv.com/2026/11/02/ARTI7lCy8k7l0RZyyLPJrzK2261102.shtml)
-
-+ [和谈窗口期所剩无几 美伊仍存核心分歧](https://news.cctv.com/2026/11/02/ARTIMPz8Hqp4vJSTiCNWF17l261101.shtml)
-
-+ [世界周刊 | 视线：美国“攻防战”](https://news.cctv.com/2026/11/02/ARTI7y7lJDQUYTB2wUiUNR00261101.shtml)
-
-+ [国际人士高度评价中国共产党持之以恒推进全面从严治党](https://news.cctv.com/2026/11/01/ARTIZWSOgndzP5NYnWAzJixg261101.shtml)
-
-+ [世界政党政要高度评价中国共产党二十届五中全会成果](https://news.cctv.com/2026/11/01/ARTIUX4GQyD2ImzWdr5zPzKS261101.shtml)
-
-+ [中国驻俄罗斯大使馆关于切勿在俄非法采金的提醒](https://news.cctv.com/2026/11/01/ARTIxsGeJyaIiqFFk3RSy7Or261101.shtml)
-
-+ [中东面面观丨以色列选举见证民意分化 组阁僵局或导致再度大选](https://news.cctv.com/2026/11/01/ARTIbjnE8YhlZ9hqPg5oM4q0261101.shtml)
-
-+ [我驻墨尔本总领馆通报一名中国公民遇害](https://news.cctv.com/2026/11/07/ARTIk10ZdQ9Q9GpiTO76lZGz261107.shtml)
-
-+ [新西兰议会选举开始正式投票](https://news.cctv.com/2026/11/07/ARTIDR8BgoFWfacEKaJRn22J261107.shtml)
-
-+ [希腊、塞浦路斯拟在东地中海开展电力项目 土耳其提出异议](https://news.cctv.com/2026/11/07/ARTIccWz3GLknbpJBwZmOqxA261107.shtml)
-
-+ [客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷](https://news.cctv.com/2026/11/07/ARTIX0UIEibAvLz9LzrL1Z1U261107.shtml)
-
-+ [特朗普称正在与伊朗进行沟通](https://news.cctv.com/2026/11/07/ARTI2T0iTG6zIJVU9XJSgRkJ261107.shtml)
-
-+ [美国宣布新一轮与伊朗相关的制裁措施](https://news.cctv.com/2026/11/07/ARTIWXpt9tWaQc76xGztQHVh261107.shtml)
-
-+ [普京确认俄美乌三方会谈将于11月10日在阿布扎比举行](https://news.cctv.com/2026/11/07/ARTIil3EoCXhY0saq0gUUBJp261107.shtml)
-
-+ [联合国机构：苏丹仍有超过1300万人流离失所](https://news.cctv.com/2026/11/07/ARTIckrFO3tCsUOdXgVoyJls261107.shtml)
-
-+ [IMF总裁：各国央行需考量AI驱动增长或放缓](https://news.cctv.com/2026/11/07/ARTIr5Ts3ux0dXjovk0Cizm4261107.shtml)
-
-+ [美国悬赏最高2000万美元征集伊朗核计划情报](https://news.cctv.com/2026/11/07/ARTIb6ob3aWuIdAKUlwmt8TR261107.shtml)
-
-+ [印尼杜科诺火山再喷发 火山灰柱高约2000米](https://news.cctv.com/2026/11/07/ARTIg0SfbRj4y2bQc8Kup3Dj261107.shtml)
-
-+ [美国多名国会议员称将推动撤销不合理关税政策](https://news.cctv.com/2026/11/07/ARTIC0XvmyJMzi7EAQFJyQPH261107.shtml)
 

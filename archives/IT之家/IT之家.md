@@ -1,27 +1,27 @@
 ## IT之家 
-### 2026-11-07
+### 2026-11-08
 
-+ [12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售](https://m.ithome.com/html/1023022.htm)
++ [小米 18 标准版手机通过 3C 认证，支持 100W 快充](https://m.ithome.com/html/1023652.htm)
 
-+ [5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）](https://m.ithome.com/html/1023021.htm)
++ [苹果：超 10 万款应用已适配 iPhone Duo 折叠屏手机](https://m.ithome.com/html/1023616.htm)
 
-+ [蔚来李斌再次警告车重，汽车重量增两成、路面损耗增至 2 倍](https://m.ithome.com/html/1023220.htm)
++ [华为 MatePad Edge 获鸿蒙 7.0.0.111SP16 升级：预置融合开发引擎，支持电脑模式运行 Linux 环境](https://m.ithome.com/html/1023600.htm)
 
-+ [4499 → 2968 元：小米 REDMI K100 Pro Max 旗舰手机官方直播间再降价](https://m.ithome.com/html/1023427.htm)
++ [小米澎湃 HyperOS 4 近期修复进展公布，Xiaomi 17 系列手机多个问题优化](https://m.ithome.com/html/1023760.htm)
 
-+ [芯片股遭“血洗”：美股经历过山车式暴跌，纳指 6 分钟抹平 2026 中期选举选后涨幅](https://m.ithome.com/html/1023061.htm)
++ [苹果 iOS 键盘被曝隐藏约 10 万个敏感词汇名单：避免 iPhone 输入法自动推荐补全，但用户仍可手动输入](https://m.ithome.com/html/1023638.htm)
 
-+ [男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结](https://m.ithome.com/html/1023521.htm)
++ [5999 → 2339 元：小米 MIX Flip 2 小折叠手机新低，骁龙 8 至尊版 + 双 VC 立体散热](https://m.ithome.com/html/1023789.htm)
 
-+ [刹车踏板支架断裂风波一个月后，鸿蒙智行尊界汽车官方微博重启 V800 车型宣传](https://m.ithome.com/html/1023340.htm)
++ [肉眼不可见：苹果 iOS 27.2 新增隐形水印，图像工具 AI 生图 / 修图均有迹可查](https://m.ithome.com/html/1023663.htm)
 
-+ [地表最快量产车！比亚迪仰望 U9X 超跑极速挑战 503.17km/h 再创全球新纪录](https://m.ithome.com/html/1023373.htm)
++ [卫冕冠军 T1 3:1 战胜 KC 跻身《英雄联盟》S16 四强，Faker 称其为半决赛对手 BLG 感到惋惜](https://m.ithome.com/html/1023642.htm)
 
-+ [22999 元起：苹果首款触屏 MacBook Pro 正式开售，可选 M5 Pro/M5 Max 芯片](https://m.ithome.com/html/1023020.htm)
++ [（更新：已恢复）DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”](https://m.ithome.com/html/1023697.htm)
 
-+ [BLG 零封 DK 挺进《英雄联盟》S16 四强，下轮对战 T1/KC 胜者](https://m.ithome.com/html/1023050.htm)
++ [华为风驰散热支架开售：首创压电风冷散热，299 元](https://m.ithome.com/html/1023644.htm)
 
-+ [首款折叠 iPhone Duo 发售约 2 周后：苹果发起问卷调查，询问折痕、成像质量等核心体验](https://m.ithome.com/html/1023165.htm)
++ [华为畅享 100 系列手机首销情况曝光：总量约 21.5 万台，Pro Max 机型约占 60%](https://m.ithome.com/html/1023780.htm)
 
-+ [微软 Win11 27H2 前瞻：改善 64 位应用性能、更换系统默认壁纸](https://m.ithome.com/html/1023339.htm)
++ [理想 Mega 新版本 MPV 谍照疑曝光，车头缩短、前三角窗加大](https://m.ithome.com/html/1023618.htm)
 
