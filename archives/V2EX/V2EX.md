@@ -29,3 +29,23 @@
 
 + [xhs 里面北京落户的有了解的么](https://www.v2ex.com/t/1254894)
 
++ [今天离职谈话领导说他心寒了](https://www.v2ex.com/t/1255048)
+
++ [这可能是除了肉身之外的终极 Claude 防封方法，应该没有之一吧](https://www.v2ex.com/t/1255153)
+
++ [请问大家，如果自建 Git 服务器，有什么要注意的、踩坑的](https://www.v2ex.com/t/1255105)
+
++ [AI 浪潮下，孩子英语还需要卷吗？](https://www.v2ex.com/t/1255030)
+
++ [关于 gemini 用不了之后的戒断反应](https://www.v2ex.com/t/1255069)
+
++ [网上看到一则相亲帖](https://www.v2ex.com/t/1255021)
+
++ [原来达里奥切除过睾丸，很少有人知道](https://www.v2ex.com/t/1255134)
+
++ [目前最强的 AI 能否实现这种排查问题的能力？](https://www.v2ex.com/t/1255141)
+
++ [giffgaff 退款了兄弟们，被封了大半年试着去投诉，没解封但是退款了](https://www.v2ex.com/t/1255053)
+
++ [ChatGpt 大面积封号？](https://www.v2ex.com/t/1255172)
+

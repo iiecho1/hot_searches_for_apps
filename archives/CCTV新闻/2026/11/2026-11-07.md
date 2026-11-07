@@ -177,3 +177,7 @@
 
 + [联合国机构：苏丹仍有超过1300万人流离失所](https://news.cctv.com/2026/11/07/ARTIckrFO3tCsUOdXgVoyJls261107.shtml)
 
++ [IMF总裁：各国央行需考量AI驱动增长或放缓](https://news.cctv.com/2026/11/07/ARTIr5Ts3ux0dXjovk0Cizm4261107.shtml)
+
++ [美国悬赏最高2000万美元征集伊朗核计划情报](https://news.cctv.com/2026/11/07/ARTIb6ob3aWuIdAKUlwmt8TR261107.shtml)
+
