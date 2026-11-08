@@ -1,5 +1,51 @@
 ## CCTV新闻 
-### 2026-11-08
+### 2026-11-09
+
++ [埃及列车脱轨事故已致4死88伤 暂无中国公民伤亡报告](https://news.cctv.com/2026/11/08/ARTIVNNPxvct9MpUNA1dN0ZU261108.shtml)
+
++ [以总统赫尔佐格正式授权埃森科特组建新一届政府](https://news.cctv.com/2026/11/08/ARTIdYTpfDvL0VXXbtgMtG8B261108.shtml)
+
++ [胡塞武装称对沙特境内目标发动四轮军事行动](https://news.cctv.com/2026/11/08/ARTINlEWVjSwQKys5NXogZpg261108.shtml)
+
++ [巴西发生车辆坠湖事件 10人遇难](https://news.cctv.com/2026/11/08/ARTITPTw3wJv9pl6Tvsf9VO4261108.shtml)
+
++ [法国外长说欧洲将参加乌克兰危机阿布扎比会谈](https://news.cctv.com/2026/11/08/ARTIVISQr3OATUi0UfA0CV3A261108.shtml)
+
++ [埃及国家铁路局派遣重型设备及工程团队前往列车脱轨事故现场](https://news.cctv.com/2026/11/08/ARTIqUXbvoAGNGC9HPQHyTYl261108.shtml)
+
++ [埃及列车脱轨事故致司机死亡 64人受伤](https://news.cctv.com/2026/11/08/ARTI0CNwRsrSkhQP6BbohYEj261108.shtml)
+
++ [埃及列车脱轨事故致司机死亡](https://news.cctv.com/2026/11/08/ARTIemOBWISsDTbN9eBFeI5G261108.shtml)
+
++ [胡塞消息人士称沙特和叙利亚达成派兵安排 叙方否认](https://news.cctv.com/2026/11/08/ARTIIhbWroB0OFBkwBEBjjGW261108.shtml)
+
++ [伊朗革命卫队：美军特遣部队无法达到施压伊朗目的](https://news.cctv.com/2026/11/08/ARTI1QLjnOfqcJDP8F94g3Nz261108.shtml)
+
++ [美发布月球基地建设与核动力月球车发射新规划](https://news.cctv.com/2026/11/08/ARTIkEsojzLb3zbS7RGsz6R5261108.shtml)
+
++ [沙特称拦截多枚导弹 利雅得市区传出多声巨响](https://news.cctv.com/2026/11/08/ARTIpZjIFY8LtAARI2gU2y3q261108.shtml)
+
++ [日防卫大臣称将探索自卫队新组织架构](https://news.cctv.com/2026/11/08/ARTIrNErd4eK9D1H0xtBFTLk261108.shtml)
+
++ [从亲历到读懂：国际媒体人士共话真实中国](https://news.cctv.com/2026/11/08/ARTIoHyFWTdx3gGaRje5e1Ol261108.shtml)
+
++ [斯洛伐克总理：若欧盟强制要求放弃俄石油 将继续发起诉讼](https://news.cctv.com/2026/11/08/ARTIGVD4X3lcmF4kcOkscd06261108.shtml)
+
++ [塞内加尔北部一海滩发现20多具遗体](https://news.cctv.com/2026/11/08/ARTIJTvWPcKQoZF3QaYFqddi261108.shtml)
+
++ [巴拉圭检方正式起诉前总统 新总统承诺保障民众权益](https://news.cctv.com/2026/11/08/ARTI4Gu2xdIQZnMqBb03hL6c261108.shtml)
+
++ [卡塔尔首相称美伊之间斡旋仍在继续](https://news.cctv.com/2026/11/08/ARTIIAIQnP0U87jIkspulkLU261108.shtml)
+
++ [我驻名古屋总领馆提醒领区中国公民注意防范地震灾害](https://news.cctv.com/2026/11/08/ARTIXz7HsVc5ggEYY1W1kizq261108.shtml)
+
++ [波兰克拉科夫枪击事件死亡人数升至6人](https://news.cctv.com/2026/11/08/ARTIhCnhGWAzvzEg7ysqdTKM261108.shtml)
+
++ [伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”](https://news.cctv.com/2026/11/08/ARTIlejtKwHJ9BxnH2aXX1Ht261108.shtml)
+
++ [以色列总统宣布将正式授权埃森科特组建新一届政府](https://news.cctv.com/2026/11/08/ARTICrstwYSqMnnrErNvEM3o261108.shtml)
+
++ [胡塞武装称沙特空袭萨那周边 已致27人死亡](https://news.cctv.com/2026/11/08/ARTIDkGOCD5IVm96xekQEQou261108.shtml)
 
 + [印尼杜科诺火山再喷发 火山灰柱高约2000米](https://news.cctv.com/2026/11/07/ARTIg0SfbRj4y2bQc8Kup3Dj261107.shtml)
 
@@ -114,76 +160,4 @@
 + [一年内发生两次重大高铁事故 西班牙交通大臣宣布辞职](https://news.cctv.com/2026/11/04/ARTI8UnDxn1bVZsHTKoihWCd261104.shtml)
 
 + [阿曼附近海域一艘油轮遭两枚不明弹体击中](https://news.cctv.com/2026/11/04/ARTIoXqmeqgoBlZ9v0eadFSq261104.shtml)
-
-+ [格陵兰岛自治政府议会批准与美国达成的安全协议](https://news.cctv.com/2026/11/04/ARTIhn3eSeY54dXlhhXM6F5j261104.shtml)
-
-+ [阿拉伯航空运输组织：今年成员航司预计约亏损43亿美元](https://news.cctv.com/2026/11/04/ARTIkE3WwyV1rCSWf1kXKQs3261104.shtml)
-
-+ [伊朗要求美明确回应7项条件 否则不开放霍尔木兹海峡](https://news.cctv.com/2026/11/04/ARTIp0ZTtkxkXKSkAcTiyEBq261104.shtml)
-
-+ [朝中社：日本正快速变为战争国家](https://news.cctv.com/2026/11/03/ARTImc2d4rD9M5UP1xEPH6AB261103.shtml)
-
-+ [中国购 火起来（外国网友趣问中国 ）](https://news.cctv.com/2026/11/03/ARTIxLA7c0CIhKjurCqXhcWY261103.shtml)
-
-+ [美“雨燕”天文台任务终结 将重返大气层](https://news.cctv.com/2026/11/03/ARTIseZKU9RyaGQmT78CxXWh261103.shtml)
-
-+ [美4名志愿者完成378天模拟“火星之旅”](https://news.cctv.com/2026/11/03/ARTImIXYjyZgZec6bI7AYkQz261103.shtml)
-
-+ [角逐2036年夏奥会举办权 七国申办名单最终敲定](https://news.cctv.com/2026/11/03/ARTIexMJAvu2faDGsPjAWJvg261103.shtml)
-
-+ [菲律宾马荣火山喷发 火山灰柱高约1600米](https://news.cctv.com/2026/11/03/ARTIzCTg5esTyZswRtbYBoxp261103.shtml)
-
-+ [又一驻日美军士兵在冲绳被捕 日本防相发声](https://news.cctv.com/2026/11/03/ARTIYdX5mphPrhyRdZUoa2Aw261103.shtml)
-
-+ [德英将深化人工智能等领域防务合作](https://news.cctv.com/2026/11/03/ARTIIJkgGFXbthDmAY4vcZHc261103.shtml)
-
-+ [西班牙高铁事故69名遇难者身份已全部确认](https://news.cctv.com/2026/11/03/ARTIYJryqf1MYFRc3DVBNtAS261103.shtml)
-
-+ [俄方称卢甘斯克一辆公共汽车遭袭 致1死8伤](https://news.cctv.com/2026/11/03/ARTIa76QxGrp80rri4clG636261103.shtml)
-
-+ [卡塔尔调解人员再赴德黑兰 将就潜在的美伊协议进行会谈](https://news.cctv.com/2026/11/03/ARTIZ02su9TZv20wgfGeAR4Q261103.shtml)
-
-+ [特朗普：“不急于”决定是否重启对伊朗的战事](https://news.cctv.com/2026/11/03/ARTIK8eAAMcSDu3Opm9ogRHG261103.shtml)
-
-+ [中国驻加纳使馆提醒切勿涉赌参赌](https://news.cctv.com/2026/11/02/ARTIAhzO0XpUSsp1wZzGJ3DL261102.shtml)
-
-+ [沙漠里的绿色能源——中企助力阿联酋低碳转型](https://news.cctv.com/2026/11/02/ARTIu81Su7SPGD6yliO5JcFO261102.shtml)
-
-+ [开放、创新、赋能——世界眼中的“中国机遇2.0”](https://news.cctv.com/2026/11/02/ARTIVmDT6ZNDKnuqjZqkQzUp261102.shtml)
-
-+ [国际观察：共绘中国—阿曼交流互鉴图景](https://news.cctv.com/2026/11/02/ARTIPtZbUxAXg8tFU5Liu14L261102.shtml)
-
-+ [大党之治，为世界政治文明带来新启迪](https://news.cctv.com/2026/11/02/ARTIgN2esBcuUdWeDk3JtvHb261102.shtml)
-
-+ [中使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员](https://news.cctv.com/2026/11/02/ARTIvpsDGgDzEM1ydnQ99jcG261102.shtml)
-
-+ [西班牙官方确认列车相撞事故66名遇难者身份](https://news.cctv.com/2026/11/02/ARTIarw57OwTNqCzb1qOaHwp261102.shtml)
-
-+ [国际社会热议中共二十届五中全会的全球启示](https://news.cctv.com/2026/11/02/ARTIyYzwZ45PTDDoigLTAUhY261102.shtml)
-
-+ [以色列总统宣布将正式授权埃森科特组建新一届政府](https://news.cctv.com/2026/11/08/ARTICrstwYSqMnnrErNvEM3o261108.shtml)
-
-+ [胡塞武装称沙特空袭萨那周边 已致27人死亡](https://news.cctv.com/2026/11/08/ARTIDkGOCD5IVm96xekQEQou261108.shtml)
-
-+ [卡塔尔首相称美伊之间斡旋仍在继续](https://news.cctv.com/2026/11/08/ARTIIAIQnP0U87jIkspulkLU261108.shtml)
-
-+ [我驻名古屋总领馆提醒领区中国公民注意防范地震灾害](https://news.cctv.com/2026/11/08/ARTIXz7HsVc5ggEYY1W1kizq261108.shtml)
-
-+ [波兰克拉科夫枪击事件死亡人数升至6人](https://news.cctv.com/2026/11/08/ARTIhCnhGWAzvzEg7ysqdTKM261108.shtml)
-
-+ [伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”](https://news.cctv.com/2026/11/08/ARTIlejtKwHJ9BxnH2aXX1Ht261108.shtml)
-
-+ [美发布月球基地建设与核动力月球车发射新规划](https://news.cctv.com/2026/11/08/ARTIkEsojzLb3zbS7RGsz6R5261108.shtml)
-
-+ [沙特称拦截多枚导弹 利雅得市区传出多声巨响](https://news.cctv.com/2026/11/08/ARTIpZjIFY8LtAARI2gU2y3q261108.shtml)
-
-+ [日防卫大臣称将探索自卫队新组织架构](https://news.cctv.com/2026/11/08/ARTIrNErd4eK9D1H0xtBFTLk261108.shtml)
-
-+ [从亲历到读懂：国际媒体人士共话真实中国](https://news.cctv.com/2026/11/08/ARTIoHyFWTdx3gGaRje5e1Ol261108.shtml)
-
-+ [斯洛伐克总理：若欧盟强制要求放弃俄石油 将继续发起诉讼](https://news.cctv.com/2026/11/08/ARTIGVD4X3lcmF4kcOkscd06261108.shtml)
-
-+ [塞内加尔北部一海滩发现20多具遗体](https://news.cctv.com/2026/11/08/ARTIJTvWPcKQoZF3QaYFqddi261108.shtml)
-
-+ [巴拉圭检方正式起诉前总统 新总统承诺保障民众权益](https://news.cctv.com/2026/11/08/ARTI4Gu2xdIQZnMqBb03hL6c261108.shtml)
 

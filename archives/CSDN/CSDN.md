@@ -1,167 +1,103 @@
 ## CSDN 
-### 2026-11-08
-
-+ [2026 AI 远程软件推荐：跑训练、喂 Agent、传模型](https://blog.csdn.net/Rqaqedamancy/article/details/170146327)
+### 2026-11-09
 
 + [【AI大模型接入SDK】前端页面生成](https://blog.csdn.net/2401_89899187/article/details/170231428)
-
-+ [GPUWorks 私有化大模型推理平台实战：免 K8s 单二进制交付与异构算力统一纳管](https://blog.csdn.net/sinat_41617212/article/details/170136073)
-
-+ [计算机网络篇19：传输层——套接字在内核的对象链，从 fd 到 tcp_sock 的四层嵌套](https://blog.csdn.net/2502_94387000/article/details/169365444)
-
-+ [Gemini 的回答也能被结构化抓取？AI Bot Scraper 对比测评](https://blog.csdn.net/m0_64336780/article/details/170186459)
-
-+ [【LMP】规范精讲[13]: 参数的户口本、公钥的集装箱与出厂的兜底值](https://blog.csdn.net/weixin_37800531/article/details/169650360)
-
-+ [【Linux网络】TCP 服务器如何并发处理多个客户端？从 fork、僵尸进程到双重 fork](https://blog.csdn.net/2402_87731470/article/details/170052095)
-
-+ [Docker 容器启动成功，接口却访问不了？从端口映射到防火墙，按 5 步定位](https://blog.csdn.net/2403_86779341/article/details/170201291)
-
-+ [Spring Boot 性能优化实战：从启动加速到运行时调优](https://blog.csdn.net/vipxieliang/article/details/170123577)
-
-+ [时序数据库怎么选？先回答这五个问题](https://blog.csdn.net/2302_78391795/article/details/170199885)
-
-+ [【AI杂谈】Midjourney 出图与提示词：四宫格迭代、参数全解、角色一致性、商用避坑](https://blog.csdn.net/say_fall/article/details/170245529)
-
-+ [从“被人用“到“被 AI 用“：数据库的四道新考题](https://blog.csdn.net/weixin_43151418/article/details/170242655)
-
-+ [工业物联网时序数据库选型：别急着看参数表，先算清这三本账](https://blog.csdn.net/Pocker_Spades_A/article/details/170244536)
-
-+ [PINN-LSTM物理信息神经网络的CO2羽流分布预测方法，四模型对比MATLAB代码](https://blog.csdn.net/kjm13182345320/article/details/170201401)
-
-+ [查状态改服务每次都要进SSH？我用Cockpit给Linux服务器加了个网页控制台](https://blog.csdn.net/Dovis5884/article/details/170191331)
-
-+ [**Agent / AI 智能体工程报告：从 RSI 自进化、Harness 框架、Copilot SDK、多智能体协同到 RocketMQ 异步底座与具身 Robot Agent 的 Python](https://blog.csdn.net/blog_programb/article/details/170200135)
-
-+ [【Linux 系统篇(三十七)】信号(三)：信号是如何保存的？](https://blog.csdn.net/Huang_jin007/article/details/170187925)
-
-+ [【开源静态评测】unslop：UI设计复核Agent Skill，先定方向再迭代，风格清单≠设计铁律](https://blog.csdn.net/TunerT_TQ/article/details/170051470)
-
-+ [PocketBase后端教程：数据库、鉴权、文件存储与公网API部署](https://blog.csdn.net/Z_oioihoii/article/details/170143638)
-
-+ [ollama v0.40.15更新：MiMo V2.6、AutoTrust、Kimi Code CLI、并发与长上下文能力全面到位](https://blog.csdn.net/weixin_48502062/article/details/170194302)
-
-+ [Redis Insight教程：可视化管理、Key分析与远程访问](https://blog.csdn.net/AIRoses/article/details/170191802)
-
-+ [PPT讲完台下没人回应？我用Claper把弹幕、问卷和提问直接接进演示现场](https://blog.csdn.net/qq_51601665/article/details/170135547)
-
-+ [多源融合风险识别技术体系-模型训练、评估与边缘部署](https://blog.csdn.net/xidianlijie/article/details/170124227)
-
-+ [模型读过的内容存在哪里？从全注意力到混合注意力](https://blog.csdn.net/weixin_74809706/article/details/169847165)
-
-+ [接入交换机下联AP/摄像头：PoE供电规划与故障排查实战](https://blog.csdn.net/qq_41840843/article/details/170150906)
-
-+ [大数据Spark（八十五）：Stage及Spark计算模式](https://blog.csdn.net/xiaoweite1/article/details/170235087)
-
-+ [AI Agent 误改整表？用闪回把数据退回去（附 SQL）](https://blog.csdn.net/augen1355/article/details/170196393)
-
-+ [【鸿蒙心迹】HarmonyOS笔记26：本地文件与应用沙箱](https://blog.csdn.net/weixin_47431459/article/details/167883028)
-
-+ [C# 15 深度解析：Union Types + Closed Hierarchies，C# 的类型系统终于“补上最后一课“](https://blog.csdn.net/mss359681091/article/details/170150422)
-
-+ [室内机器人巡检室内物体人员墙面地板检测数据集VOC+YOLO格式1000张4类别](https://blog.csdn.net/FL1623863129/article/details/170237280)
-
-+ [OnlyOffice＋poi-tl：把 Word 模板变成可填写、可生成的合同系统](https://blog.csdn.net/zhouzhongyan/article/details/170054142)
-
-+ [时序数据库的备份别裸奔：用 VictoriaMetrics 把指标快照存进 RustFS](https://blog.csdn.net/rustfs_contrib/article/details/170195580)
-
-+ [简要介绍RAG、Agent、微调、Prompt 的区别](https://blog.csdn.net/cnds123/article/details/170195121)
-
-+ [Spring Boot 自动配置原理](https://blog.csdn.net/2401_89855466/article/details/170201614)
-
-+ [【AI智能体】Langchain 上下文记忆使用实战操作详解](https://blog.csdn.net/congge_study/article/details/167585588)
-
-+ [MCP本地服务集成避坑：从Stdio管道僵死到双向JSON-RPC稳健通信](https://blog.csdn.net/qq_46987323/article/details/170150074)
-
-+ [机器人如何通过触觉认识物体：从材质分类到接触状态判断](https://blog.csdn.net/lovely_yoshino/article/details/169167645)
-
-+ [【鸿蒙心迹】国际化 i18n 与多语言资源管理实战（HarmonyOS 7.x）](https://blog.csdn.net/qq_35366330/article/details/170012536)
-
-+ [【具身智能】从 0 到 1 开发一张机器人驱动卡片](https://blog.csdn.net/2301_80683479/article/details/170243222)
-
-+ [无人机点云导出 DEM 全是空洞？用 PDAL 滤波 + GDAL 填洞一次做对](https://blog.csdn.net/llhllq2015/article/details/170199841)
-
-+ [C++20概念约束—现代C++模板约束的演进与重构](https://blog.csdn.net/Lucis__/article/details/170240999)
-
-+ [Aspire——用于机器人技术的Agentic/SkillsDiscovery：让机器人从失败中改程序、攒技能、持续进化(新技能既能解决新任务，也能回头补救旧任务，并迁移到真机)](https://blog.csdn.net/v_JULY_v/article/details/170195403)
-
-+ [2026 华为OD机试真题 新系统 11.4.【相机对焦区域最优选择】](https://blog.csdn.net/qq_45776114/article/details/170198928)
-
-+ [远控软件选型方法说明：连接稳定性、长时使用和办公体验怎么选](https://blog.csdn.net/2401_86326742/article/details/170195699)
-
-+ [yolo模型前端部署+公网穿透](https://blog.csdn.net/2302_80153357/article/details/170235699)
-
-+ [让机器人跟着抖音视频学跳舞：启元 Q1 闪身步全链路实战](https://blog.csdn.net/m0_62930060/article/details/170243888)
-
-+ [GPT Images 2.6发布：2款模型、3档复杂度，还能生成SVG和动画GIF](https://blog.csdn.net/aidoudoulong/article/details/170130597)
-
-+ [手机该下哪个APK？ARM 与 x86 区别](https://blog.csdn.net/zheng15ddi/article/details/170200553)
-
-+ [Java 批量提取 Word 文档中的图片并保存到本地](https://blog.csdn.net/SunnyDays1011/article/details/170195769)
-
-+ [LangChain、LangGraph、LangSmith三者关系](https://blog.csdn.net/yjmlyn/article/details/170201310)
-
-+ [防MAC泛洪攻击（MAC Flooding）配置：保护网络安全的交换机防护策略](https://blog.csdn.net/qq_41840843/article/details/170241296)
-
-+ [Ghostty：终端项目怎样把核心能力交给不同构建系统](https://blog.csdn.net/TunerT_TQ/article/details/170189899)
-
-+ [《C++ 项目：手写大模型接入 SDK》Ollama接口设计（下）：流式响应实现和测试](https://blog.csdn.net/2501_91275995/article/details/170236759)
-
-+ [抛开跑分谈选型：工业大数据场景下时序数据库真实落地评估思路](https://blog.csdn.net/COLLINSXU/article/details/170246885)
-
-+ [叶片滚轴乒乓球收集机器人](https://blog.csdn.net/2602_95676295/article/details/170249319)
-
-+ [前端趋势 2026：AICoding、鸿蒙ArkUI 与实时数据大屏](https://blog.csdn.net/QianhangQianping/article/details/170245254)
-
-+ [用一天时间和GPT一起做了个Mac 截图小工具：ReShot](https://blog.csdn.net/lnpusky/article/details/170246476)
-
-+ [(开源)宠物共享平台实战指南 基于 Java + SpringBoot + Web + MySQL](https://blog.csdn.net/qq_51399712/article/details/170201582)
 
 + [AI 编程智能体 26：基于高德接口搭建可视化出行规划页面](https://blog.csdn.net/2503_92624912/article/details/170245941)
 
 + [【AI】用 AI 做自己的个人网站（上）：选模板、写提示词，做出第一版](https://blog.csdn.net/2501_91731683/article/details/170243218)
 
++ [Gemini 的回答也能被结构化抓取？AI Bot Scraper 对比测评](https://blog.csdn.net/m0_64336780/article/details/170186459)
+
++ [【AI智能体】Codex 实现OpenClaw 开源项目二次开发实战详解](https://blog.csdn.net/zhangcongyi420/article/details/168957064)
+
++ [【Linux网络】TCP 服务器如何并发处理多个客户端？从 fork、僵尸进程到双重 fork](https://blog.csdn.net/2402_87731470/article/details/170052095)
+
++ [ToDesk新功能实测：办公键盘、应用切换，向日葵这次真跟不上了](https://blog.csdn.net/weixin_61514920/article/details/170291244)
+
++ [【LMP】规范精讲[13]: 参数的户口本、公钥的集装箱与出厂的兜底值](https://blog.csdn.net/weixin_37800531/article/details/169650360)
+
++ [指令微调数据集构建_格式质量与数量的平衡](https://blog.csdn.net/2302_78391795/article/details/170245227)
+
++ [Agent 数据安全实战：输入校验、PII 脱敏与输出过滤的三道防线](https://blog.csdn.net/sinat_41617212/article/details/170283953)
+
++ [安卓旧手机部署OpenList教程：OpenList-Mobile、存储挂载与公网访问](https://blog.csdn.net/Mrxiao_bo/article/details/170282304)
+
 + [端侧芯片的「每瓦 Token 数」竞赛：端侧 AI 如何重塑芯片设计的底层逻辑](https://blog.csdn.net/vipxieliang/article/details/170185519)
 
 + [2026主流AI Agent产品分类、核心差异与技术特性全解析](https://blog.csdn.net/2601_95494915/article/details/170150189)
 
-+ [集中式与分布式怎么选？聊聊KingbaseES的架构取舍](https://blog.csdn.net/lrq13965748542/article/details/170147826)
++ [实测 Qoder 神秘模型 Qoduck：我用纯 Vibe Coding 搓了个 3D 物理引擎游戏](https://blog.csdn.net/weixin_52799373/article/details/170246868)
 
-+ [Agent 数据安全实战：输入校验、PII 脱敏与输出过滤的三道防线](https://blog.csdn.net/sinat_41617212/article/details/170283953)
++ [工业物联网时序数据库选型：别急着看参数表，先算清这三本账](https://blog.csdn.net/Pocker_Spades_A/article/details/170244536)
 
-+ [【Linux指南】进程通信系列（八）：内核视角 —— 一套框架管理所有 System V IPC](https://blog.csdn.net/2302_78391795/article/details/170245217)
++ [【Linux 系统篇(三十八)】信号(四)：信号捕捉的执行流程与内核态、用户态](https://blog.csdn.net/Huang_jin007/article/details/170245496)
 
 + [数据中心M-LAG双活与堆叠的故障域对比：高可用架构选择指南](https://blog.csdn.net/qq_41840843/article/details/170289610)
 
-+ [安卓旧手机部署OpenList教程：OpenList-Mobile、存储挂载与公网访问](https://blog.csdn.net/Mrxiao_bo/article/details/170282304)
-
 + [Redis 从 0 到 1（三十一）：主从切换后订单丢了一页——脑裂 2 个丢数场景与 min-replicas](https://blog.csdn.net/2501_92769340/article/details/167400599)
 
-+ [ToDesk新功能实测：办公键盘、应用切换，向日葵这次真跟不上了](https://blog.csdn.net/weixin_61514920/article/details/170291244)
++ [Docker 容器启动成功，接口却访问不了？从端口映射到防火墙，按 5 步定位](https://blog.csdn.net/2403_86779341/article/details/170201291)
 
-+ [实测 Qoder 神秘模型 Qoduck：我用纯 Vibe Coding 搓了个 3D 物理引擎游戏](https://blog.csdn.net/weixin_52799373/article/details/170246868)
++ [LangChain 能力详解（二）：聊天模型核心能力 —— 工具调用、结构化输出、流式传输](https://blog.csdn.net/2601_94861874/article/details/170248281)
+
++ [《C++ 项目：手写大模型接入 SDK》Ollama接口设计（下）：流式响应实现和测试](https://blog.csdn.net/2501_91275995/article/details/170236759)
+
++ [叶片滚轴乒乓球收集机器人](https://blog.csdn.net/2602_95676295/article/details/170249319)
+
++ [深挖C++：类和对象（中）](https://blog.csdn.net/xys_678/article/details/170051430)
 
 + [AI应用后端工程（05）：用户同时发来很多请求，AI 后端怎么避免被压垮？](https://blog.csdn.net/2501_94225300/article/details/170244428)
 
-+ [Spring Boot 实战：基于 Hutool + Session 实现图形验证码（从原理到完整项目）](https://blog.csdn.net/java_nnnn/article/details/170146942)
++ [【鸿蒙心迹】HarmonyOS笔记26：本地文件与应用沙箱](https://blog.csdn.net/weixin_47431459/article/details/167883028)
 
-+ [大数据Spark（八十六）：Spark 资源调度与任务调度详解](https://blog.csdn.net/xiaoweite1/article/details/170288464)
++ [机器人如何通过触觉认识物体：从材质分类到接触状态判断](https://blog.csdn.net/lovely_yoshino/article/details/169167645)
 
-+ [【电机】基于matlab感应电机性能与故障分析涵盖扭矩、效率、电压变化、转子电阻和电压不平衡【含Matlab源码 16193期】](https://blog.csdn.net/TIQCmatlab/article/details/170291047)
-
-+ [【阻尼器】多自由度剪切结构系统采用摆动调谐质量阻尼器优化模态和振动分析Matlab实现](https://blog.csdn.net/m0_60703264/article/details/170288757)
++ [MCP本地服务集成避坑：从Stdio管道僵死到双向JSON-RPC稳健通信](https://blog.csdn.net/qq_46987323/article/details/170150074)
 
 + [【Linux 修炼录】告别 Permission denied：一文讲透 Linux 权限体系与底层逻辑](https://blog.csdn.net/2502_93816203/article/details/170289475)
 
++ [大数据Spark（八十六）：Spark 资源调度与任务调度详解](https://blog.csdn.net/xiaoweite1/article/details/170288464)
+
++ [2026 工业物联网时序数据库选型指南：DolphinDB、InfluxDB、TimescaleDB 如何选？](https://blog.csdn.net/lrq13965748542/article/details/170291156)
+
++ [查状态改服务每次都要进SSH？我用Cockpit给Linux服务器加了个网页控制台](https://blog.csdn.net/Dovis5884/article/details/170191331)
+
++ [第12篇：VXLAN协议深度解析——智算网络的二层隧道（附Linux实战抓包）](https://blog.csdn.net/cyf31/article/details/170245043)
+
++ [安徽赛区比赛成绩（生成证书）](https://blog.csdn.net/zhuoqingjoking97298/article/details/170238366)
+
++ [Agent 记忆的组成部分：Anthropic The components of agent memory 文章的简要解读](https://blog.csdn.net/qq616491978/article/details/170245500)
+
++ [SpringBoot「衣依」服装销售平台：144个Java文件180个接口，从挑衣服到收货评价整条链路都在](https://blog.csdn.net/a332056918/article/details/170242851)
+
++ [Spring Boot 自动配置原理](https://blog.csdn.net/2401_89855466/article/details/170201614)
+
++ [《超维新视界：把整座校园装进浏览器 》 基于Three.js+SSM+Springboot](https://blog.csdn.net/weixin_48269137/article/details/170200284)
+
++ [前端趋势 2026：AICoding、鸿蒙ArkUI 与实时数据大屏](https://blog.csdn.net/QianhangQianping/article/details/170245254)
+
++ [DSH Desktop 全家桶：一套架构，四个平台](https://blog.csdn.net/fellow99/article/details/170248102)
+
 + [SpringBoot 多租户实战：一套系统，怎样服务多家公司](https://blog.csdn.net/ruoyioffice/article/details/170194177)
 
-+ [用 Node.js 搭建 EPUB 问答助手：从文本切片、向量检索到 RAG](https://blog.csdn.net/m0_62937412/article/details/170148756)
++ [GPT-6.1 Terra是什么？gpt-6.1-terra API实测：视觉理解、电脑操作、写作与JSON输出](https://blog.csdn.net/2601_96207100/article/details/170248350)
 
-+ [Windows 11 关闭 Copilot 全方案：从隐藏到永久禁用，26H2 亲测有效](https://blog.csdn.net/DevLoom_/article/details/170145394)
++ [【AI智能体】Langchain 上下文记忆使用实战操作详解](https://blog.csdn.net/congge_study/article/details/167585588)
 
-+ [QEMU+VScode+GDB调试ARM程序](https://blog.csdn.net/qq_46457076/article/details/170193585)
++ [Linux指令--shell（外壳是什么），系统信息命令，tar命令，win与linux、linux与linux系统间的文件传输](https://blog.csdn.net/dmw_666/article/details/170247920)
 
-+ [.NET 11 - 尝试一下Blazor中的新特性SupplyParameterFromTempData](https://blog.csdn.net/limingdinghao/article/details/169953250)
++ [【具身智能】从 0 到 1 开发一张机器人驱动卡片](https://blog.csdn.net/2301_80683479/article/details/170243222)
 
-+ [ERNIE-5.5-Flash-Base 开源速览：280B-A14B MoE 基座，微调与推理支持 1M 上下文](https://blog.csdn.net/qq616491978/article/details/170245492)
++ [2026 华为OD机试真题 新系统 11.4.【相机对焦区域最优选择】](https://blog.csdn.net/qq_45776114/article/details/170198928)
+
++ [无人机点云导出 DEM 全是空洞？用 PDAL 滤波 + GDAL 填洞一次做对](https://blog.csdn.net/llhllq2015/article/details/170199841)
+
++ [Agent演化史（九）：多智能体的暗面，当一次 prompt 注入可以横向移动](https://blog.csdn.net/lfs124596/article/details/170247347)
+
++ [GEM5架构解析](https://blog.csdn.net/kkk12344/article/details/170247958)
+
++ [OnlyOffice＋poi-tl：把 Word 模板变成可填写、可生成的合同系统](https://blog.csdn.net/zhouzhongyan/article/details/170054142)
+
++ [C++20概念约束—现代C++模板约束的演进与重构](https://blog.csdn.net/Lucis__/article/details/170240999)
 
