@@ -165,3 +165,11 @@
 
 + [胡塞武装称沙特空袭萨那周边 已致27人死亡](https://news.cctv.com/2026/11/08/ARTIDkGOCD5IVm96xekQEQou261108.shtml)
 
++ [卡塔尔首相称美伊之间斡旋仍在继续](https://news.cctv.com/2026/11/08/ARTIIAIQnP0U87jIkspulkLU261108.shtml)
+
++ [我驻名古屋总领馆提醒领区中国公民注意防范地震灾害](https://news.cctv.com/2026/11/08/ARTIXz7HsVc5ggEYY1W1kizq261108.shtml)
+
++ [波兰克拉科夫枪击事件死亡人数升至6人](https://news.cctv.com/2026/11/08/ARTIhCnhGWAzvzEg7ysqdTKM261108.shtml)
+
++ [伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”](https://news.cctv.com/2026/11/08/ARTIlejtKwHJ9BxnH2aXX1Ht261108.shtml)
+
