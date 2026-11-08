@@ -21,3 +21,5 @@
 
 + [FinalShell 开源了？类 FinalShell 的 SSH 客户端 —— FinallyShell](https://www.v2ex.com/t/1255296)
 
++ [IG 还是输给了 GEN](https://www.v2ex.com/t/1255301)
+

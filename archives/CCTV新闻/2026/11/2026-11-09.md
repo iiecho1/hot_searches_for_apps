@@ -161,3 +161,13 @@
 
 + [阿曼附近海域一艘油轮遭两枚不明弹体击中](https://news.cctv.com/2026/11/04/ARTIoXqmeqgoBlZ9v0eadFSq261104.shtml)
 
++ [扎波罗热核电站恢复外部供电](https://news.cctv.com/2026/11/09/ARTIzUxmVfIjdgyxEtCX9H6y261109.shtml)
+
++ [埃及列车脱轨事故已致7死112伤](https://news.cctv.com/2026/11/09/ARTIybueVFIlxWP9445zxhkb261109.shtml)
+
++ [非国大在南非地方选举中保住第一大党地位](https://news.cctv.com/2026/11/09/ARTIEXc9lZFLEH45u6ppthkb261109.shtml)
+
++ [伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火](https://news.cctv.com/2026/11/09/ARTIjqusDh9VoFJMNo5NRJgM261109.shtml)
+
++ [塞尔维亚新一届议会定于11月17日举行首次会议](https://news.cctv.com/2026/11/09/ARTISDi5RIAo3zEkljixPVz3261109.shtml)
+

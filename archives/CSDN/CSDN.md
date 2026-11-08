@@ -101,3 +101,21 @@
 
 + [C++20概念约束—现代C++模板约束的演进与重构](https://blog.csdn.net/Lucis__/article/details/170240999)
 
++ [4D-AI智能风控系统设计-系统功能模块设计](https://blog.csdn.net/xidianlijie/article/details/170235351)
+
++ [实战 1：修改 BlueZ 源码，添加自定义开机日志](https://blog.csdn.net/weixin_37800531/article/details/169952067)
+
++ [【花雕学编程】Arduino BLDC 之输油管道泄漏水下巡检机器人：强电磁+流场抗干扰采样](https://blog.csdn.net/weixin_41659040/article/details/169834060)
+
++ [Spring AOP 核心概念与通知类型详解](https://blog.csdn.net/yu____yuan/article/details/170247442)
+
++ [Windows原生软件锁设计：从暴力杀进程丢数据到零轮询事件驱动架构](https://blog.csdn.net/qq_46987323/article/details/170248504)
+
++ [DeepSeek Super-agent 双层调度实战：Router+Worker 架构](https://blog.csdn.net/superdangbo/article/details/170193213)
+
++ [QEMU+VScode+GDB调试ARM程序](https://blog.csdn.net/qq_46457076/article/details/170193585)
+
++ [2026医学教材资料合集pdf电子版完整齐全](https://blog.csdn.net/2601_96733043/article/details/169361717)
+
++ [鸿蒙原生版和“套壳安卓版“差在哪？我拿手机远控Mac实测3款远控，22项一次说](https://blog.csdn.net/weixin_50843918/article/details/170189658)
+
