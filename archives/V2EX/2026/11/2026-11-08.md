@@ -29,3 +29,13 @@
 
 + [现在农村还有住草房窝棚的吗？](https://www.v2ex.com/t/1255269)
 
++ [现在还有必要花大量时间学习编程吗？](https://www.v2ex.com/t/1255305)
+
++ [卖软件这个事情在未来可能是伪命题了](https://www.v2ex.com/t/1255327)
+
++ [倒霉呀，买官翻扫地机器人翻车了](https://www.v2ex.com/t/1255303)
+
++ [FinalShell 开源了？类 FinalShell 的 SSH 客户端 —— FinallyShell](https://www.v2ex.com/t/1255296)
+
++ [IG 还是输给了 GEN](https://www.v2ex.com/t/1255301)
+

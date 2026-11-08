@@ -173,3 +173,17 @@
 
 + [伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”](https://news.cctv.com/2026/11/08/ARTIlejtKwHJ9BxnH2aXX1Ht261108.shtml)
 
++ [美发布月球基地建设与核动力月球车发射新规划](https://news.cctv.com/2026/11/08/ARTIkEsojzLb3zbS7RGsz6R5261108.shtml)
+
++ [沙特称拦截多枚导弹 利雅得市区传出多声巨响](https://news.cctv.com/2026/11/08/ARTIpZjIFY8LtAARI2gU2y3q261108.shtml)
+
++ [日防卫大臣称将探索自卫队新组织架构](https://news.cctv.com/2026/11/08/ARTIrNErd4eK9D1H0xtBFTLk261108.shtml)
+
++ [从亲历到读懂：国际媒体人士共话真实中国](https://news.cctv.com/2026/11/08/ARTIoHyFWTdx3gGaRje5e1Ol261108.shtml)
+
++ [斯洛伐克总理：若欧盟强制要求放弃俄石油 将继续发起诉讼](https://news.cctv.com/2026/11/08/ARTIGVD4X3lcmF4kcOkscd06261108.shtml)
+
++ [塞内加尔北部一海滩发现20多具遗体](https://news.cctv.com/2026/11/08/ARTIJTvWPcKQoZF3QaYFqddi261108.shtml)
+
++ [巴拉圭检方正式起诉前总统 新总统承诺保障民众权益](https://news.cctv.com/2026/11/08/ARTI4Gu2xdIQZnMqBb03hL6c261108.shtml)
+

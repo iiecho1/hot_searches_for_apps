@@ -117,3 +117,51 @@
 
 + [(开源)宠物共享平台实战指南 基于 Java + SpringBoot + Web + MySQL](https://blog.csdn.net/qq_51399712/article/details/170201582)
 
++ [AI 编程智能体 26：基于高德接口搭建可视化出行规划页面](https://blog.csdn.net/2503_92624912/article/details/170245941)
+
++ [【AI】用 AI 做自己的个人网站（上）：选模板、写提示词，做出第一版](https://blog.csdn.net/2501_91731683/article/details/170243218)
+
++ [端侧芯片的「每瓦 Token 数」竞赛：端侧 AI 如何重塑芯片设计的底层逻辑](https://blog.csdn.net/vipxieliang/article/details/170185519)
+
++ [2026主流AI Agent产品分类、核心差异与技术特性全解析](https://blog.csdn.net/2601_95494915/article/details/170150189)
+
++ [集中式与分布式怎么选？聊聊KingbaseES的架构取舍](https://blog.csdn.net/lrq13965748542/article/details/170147826)
+
++ [Agent 数据安全实战：输入校验、PII 脱敏与输出过滤的三道防线](https://blog.csdn.net/sinat_41617212/article/details/170283953)
+
++ [【Linux指南】进程通信系列（八）：内核视角 —— 一套框架管理所有 System V IPC](https://blog.csdn.net/2302_78391795/article/details/170245217)
+
++ [数据中心M-LAG双活与堆叠的故障域对比：高可用架构选择指南](https://blog.csdn.net/qq_41840843/article/details/170289610)
+
++ [安卓旧手机部署OpenList教程：OpenList-Mobile、存储挂载与公网访问](https://blog.csdn.net/Mrxiao_bo/article/details/170282304)
+
++ [Redis 从 0 到 1（三十一）：主从切换后订单丢了一页——脑裂 2 个丢数场景与 min-replicas](https://blog.csdn.net/2501_92769340/article/details/167400599)
+
++ [ToDesk新功能实测：办公键盘、应用切换，向日葵这次真跟不上了](https://blog.csdn.net/weixin_61514920/article/details/170291244)
+
++ [实测 Qoder 神秘模型 Qoduck：我用纯 Vibe Coding 搓了个 3D 物理引擎游戏](https://blog.csdn.net/weixin_52799373/article/details/170246868)
+
++ [AI应用后端工程（05）：用户同时发来很多请求，AI 后端怎么避免被压垮？](https://blog.csdn.net/2501_94225300/article/details/170244428)
+
++ [Spring Boot 实战：基于 Hutool + Session 实现图形验证码（从原理到完整项目）](https://blog.csdn.net/java_nnnn/article/details/170146942)
+
++ [大数据Spark（八十六）：Spark 资源调度与任务调度详解](https://blog.csdn.net/xiaoweite1/article/details/170288464)
+
++ [【电机】基于matlab感应电机性能与故障分析涵盖扭矩、效率、电压变化、转子电阻和电压不平衡【含Matlab源码 16193期】](https://blog.csdn.net/TIQCmatlab/article/details/170291047)
+
++ [【阻尼器】多自由度剪切结构系统采用摆动调谐质量阻尼器优化模态和振动分析Matlab实现](https://blog.csdn.net/m0_60703264/article/details/170288757)
+
++ [【Linux 修炼录】告别 Permission denied：一文讲透 Linux 权限体系与底层逻辑](https://blog.csdn.net/2502_93816203/article/details/170289475)
+
++ [SpringBoot 多租户实战：一套系统，怎样服务多家公司](https://blog.csdn.net/ruoyioffice/article/details/170194177)
+
++ [用 Node.js 搭建 EPUB 问答助手：从文本切片、向量检索到 RAG](https://blog.csdn.net/m0_62937412/article/details/170148756)
+
++ [Windows 11 关闭 Copilot 全方案：从隐藏到永久禁用，26H2 亲测有效](https://blog.csdn.net/DevLoom_/article/details/170145394)
+
++ [QEMU+VScode+GDB调试ARM程序](https://blog.csdn.net/qq_46457076/article/details/170193585)
+
++ [.NET 11 - 尝试一下Blazor中的新特性SupplyParameterFromTempData](https://blog.csdn.net/limingdinghao/article/details/169953250)
+
++ [ERNIE-5.5-Flash-Base 开源速览：280B-A14B MoE 基座，微调与推理支持 1M 上下文](https://blog.csdn.net/qq616491978/article/details/170245492)
+
