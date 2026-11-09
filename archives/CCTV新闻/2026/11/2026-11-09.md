@@ -177,3 +177,23 @@
 
 + [特朗普：如谈判有进展 “极不可能”再对伊大动武](https://news.cctv.com/2026/11/09/ARTINmNxo9JLUn7AnmCkGezd261109.shtml)
 
++ [美众院民主党领袖：防长赫格塞思“必须走人”](https://news.cctv.com/2026/11/09/ARTIqn3r764AgbHTZdfZdGMr261109.shtml)
+
++ [波兰克拉科夫枪击事件枪手死亡](https://news.cctv.com/2026/11/09/ARTIgw9xBnYrs7nWAlODtz9Y261109.shtml)
+
++ [伊朗革命卫队官员：经霍尔木兹海峡“石油走私”已被完全阻断](https://news.cctv.com/2026/11/09/ARTIW5aIc7vQkqRvoi5iw1A7261109.shtml)
+
++ [多渠道美化侵略、歪曲历史 国际社会应警惕日本右翼借文体活动“洗脑”](https://news.cctv.com/2026/11/09/ARTImmubaZ7xQtUHonI8e7mt261109.shtml)
+
++ [日本本州东部附近海域发生5.7级地震 震源深度10千米](https://news.cctv.com/2026/11/09/ARTI3GEdmZQ60ly0E4X0mmxI261109.shtml)
+
++ [俄罗斯“追加接管”日本烟草旗下3家企业](https://news.cctv.com/2026/11/09/ARTIM52CbUYXXPxJKVCuch9F261109.shtml)
+
++ [深观察 | 从气候雄心到兑现承诺 COP31如何破解落实难题？](https://news.cctv.com/2026/11/09/ARTI9tdoRC1ZRQ9ZD0O1cqX5261109.shtml)
+
++ [美伊关键调解人赴白宫 特朗普和万斯将与其会见](https://news.cctv.com/2026/11/09/ARTIqQwcwDop4jPD26F0nEl9261109.shtml)
+
++ [鲁比奥：对伊朗外交手段成效不大](https://news.cctv.com/2026/11/09/ARTI4IDxI4c4SOXZWt0kH3hJ261109.shtml)
+
++ [一中国公民因携带禁止出境物品被伊拉克海关扣留 中使馆发布提醒](https://news.cctv.com/2026/11/09/ARTI3gvSxfItXspRjUTebV7i261109.shtml)
+

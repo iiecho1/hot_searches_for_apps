@@ -123,3 +123,45 @@
 
 + [基于 DeepSeek+Prometheus 搭建运维巡检 Agent，自动生成企微巡检日报](https://blog.csdn.net/m0_52318340/article/details/170186258)
 
++ [SpringBoot3+Vue3 财务软件长什么样？从费用报销一路看到凭证、报表和月结](https://blog.csdn.net/zhouzhongyan/article/details/169749379)
+
++ [时序大模型 TimechoAI 在数据中心智能运维中的实践与应用](https://blog.csdn.net/weixin_62765017/article/details/170199771)
+
++ [集中式与分布式之争：一场选型会的完整记录](https://blog.csdn.net/COLLINSXU/article/details/170334776)
+
++ [从“被人用“到“被 AI 用“：数据库的四道新考题](https://blog.csdn.net/weixin_43151418/article/details/170242655)
+
++ [AI Agent 03](https://blog.csdn.net/2401_88601046/article/details/170295254)
+
++ [【鸿蒙心迹】HarmonyOS笔记33：资源文件与多语言管理](https://blog.csdn.net/weixin_47431459/article/details/167905304)
+
++ [【Linux 系统篇(三十七)】信号(三)：信号是如何保存的？](https://blog.csdn.net/Huang_jin007/article/details/170187925)
+
++ [实战 2：基于 BlueZ 源码，实现蓝牙设备的自动扫描功能](https://blog.csdn.net/weixin_37800531/article/details/170053846)
+
++ [【元宝搜索开发者征文大赛】研途有据：用元宝搜索做一份有出处的择校对照表](https://blog.csdn.net/qq_42371336/article/details/170198516)
+
++ [Codex IDE extension](https://blog.csdn.net/qq_33589510/article/details/170201798)
+
++ [GitHub 热榜项目 - 周榜(2026-11-08)](https://blog.csdn.net/u014390502/article/details/170296099)
+
++ [Python 进阶实战：装饰器、生成器、描述符与 GIL 并发一篇打通【上下文管理器、元类、asyncio 异步、性能优化】](https://blog.csdn.net/Feng_wwf/article/details/170143160)
+
++ [基于stm32的叶片滚轴乒乓球收集机器人（开源）](https://blog.csdn.net/2602_95676295/article/details/170249319)
+
++ [NX Open 研究学习_003_NX Block UI Styler 块样式编辑器终极指南](https://blog.csdn.net/u014438168/article/details/170332847)
+
++ [墨匣学术写作编辑器上架鸿蒙PC：从 200MB Electron 到 6MB 原生壳的架构收敛](https://blog.csdn.net/weixin_52908342/article/details/170330934)
+
++ [Aspire——用于机器人技术的Agentic/SkillsDiscovery：让机器人从失败中改程序、攒技能、持续进化(新技能既能解决新任务，也能回头补救旧任务，并迁移到真机)](https://blog.csdn.net/v_JULY_v/article/details/170195403)
+
++ [ERNIE-5.5-Flash-Base 开源速览：280B-A14B MoE 基座，微调与推理支持 1M 上下文](https://blog.csdn.net/qq616491978/article/details/170245492)
+
++ [【MATLAB】电力变压器保护系统建模研究](https://blog.csdn.net/unbelievevc/article/details/170334332)
+
++ [优雅草2026年10个开源鸿蒙工业软件项目三详解：鸿蒙星闪无线伺服电机同步控制 Demo](https://blog.csdn.net/dujiangdu123/article/details/170296650)
+
++ [《启元 PrimeSim 如何用生成视频评估机器人策略》](https://blog.csdn.net/m0_68089732/article/details/170295931)
+
++ [VS Code 中 Codex 无法启动：一次 Webview 初始化超时问题的排查与解决](https://blog.csdn.net/tealcwu/article/details/170230010)
+
