@@ -119,3 +119,7 @@
 
 + [鸿蒙原生版和“套壳安卓版“差在哪？我拿手机远控Mac实测3款远控，22项一次说](https://blog.csdn.net/weixin_50843918/article/details/170189658)
 
++ [MyBatis TypeHandler 深度解析（一）：核心原理与分类体系](https://blog.csdn.net/yelangkingwuzuhu/article/details/170291012)
+
++ [基于 DeepSeek+Prometheus 搭建运维巡检 Agent，自动生成企微巡检日报](https://blog.csdn.net/m0_52318340/article/details/170186258)
+

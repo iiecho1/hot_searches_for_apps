@@ -171,3 +171,9 @@
 
 + [塞尔维亚新一届议会定于11月17日举行首次会议](https://news.cctv.com/2026/11/09/ARTISDi5RIAo3zEkljixPVz3261109.shtml)
 
++ [伊拉克库尔德自治区天然气田遭不明来源无人机袭击](https://news.cctv.com/2026/11/09/ARTIuItIrRxfkzRzCVbD9nBV261109.shtml)
+
++ [加沙中部流离失所者营地发生沙土塌方 已致5人死亡](https://news.cctv.com/2026/11/09/ARTIdGixP5MUscMEQZQluTI1261109.shtml)
+
++ [特朗普：如谈判有进展 “极不可能”再对伊大动武](https://news.cctv.com/2026/11/09/ARTINmNxo9JLUn7AnmCkGezd261109.shtml)
+
