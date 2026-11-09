@@ -1,27 +1,27 @@
 ## IT之家 
-### 2026-11-09
+### 2026-11-10
 
-+ [比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里](https://m.ithome.com/html/1023827.htm)
++ [英伟达黄仁勋承认出轨道歉信全文：“我对妻子不忠，伤害了家人，没有任何借口”](https://m.ithome.com/html/1024031.htm)
 
-+ [又一梦幻组合实现：网友成功将苹果 MacBook Pro 刷入华为鸿蒙 HarmonyOS 6 系统](https://m.ithome.com/html/1023828.htm)
++ [打破 13 年魔咒！BLG 战队 3:1 战胜 T1 挺进《英雄联盟》S16 决赛，Faker 无缘四连冠](https://m.ithome.com/html/1024051.htm)
 
-+ [安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕](https://m.ithome.com/html/1023829.htm)
++ [英伟达黄仁勋长女黄敏珊因“家庭原因”取消韩国之行](https://m.ithome.com/html/1024040.htm)
 
-+ [苹果 iPhone 18/18e 系列机型 X 光图曝光：两款手机共用部分模具，搭 4430mAh 电池](https://m.ithome.com/html/1023896.htm)
++ [英伟达发言人确认黄仁勋将继续履职公司 CEO 一职不中断，特朗普表态支持](https://m.ithome.com/html/1024073.htm)
 
-+ [比亚迪仰望鼎曜「山河鼎韵」限量版全球限量发售，定金 30 万元](https://m.ithome.com/html/1023826.htm)
++ [腾讯 Workbuddy 致歉：未及时公告优惠活动调整，DeepSeek-V4.1 Flash 积分消耗 5 折结算返还](https://m.ithome.com/html/1024025.htm)
 
-+ [曝 ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃](https://m.ithome.com/html/1023879.htm)
++ [美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO](https://m.ithome.com/html/1024053.htm)
 
-+ [再破五千大关：苹果 Mac mini M6 国补后京东 4799 元再降价](https://m.ithome.com/html/1023979.htm)
++ [某阔直板手机正面图曝光，预计为华为星芒 OSTA O1 Pro](https://m.ithome.com/html/1024072.htm)
 
-+ [微软 WinUI 3 原生注册表编辑器首次曝光，界面告别 Win95 时代设计](https://m.ithome.com/html/1023877.htm)
++ [人民空军“新家伙”来了，我国攻击-11 无尾飞翼布局无人机大大方方展示](https://m.ithome.com/html/1024088.htm)
 
-+ [512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池](https://m.ithome.com/html/1023932.htm)
++ [消息称玛莎拉蒂与尊界新车外观确认，属华为、江淮和 Stellantis 三方合作项目](https://m.ithome.com/html/1024268.htm)
 
-+ [苹果首款折叠屏手机 iPhone Duo“裂屏门”追踪：消息称系供应商原材料问题](https://m.ithome.com/html/1023923.htm)
++ [古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI](https://m.ithome.com/html/1024013.htm)
 
-+ [iG 战队 0:3 不敌 GEN 止步四强，无缘《英雄联盟》S16 最终决赛](https://m.ithome.com/html/1023856.htm)
++ [马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺](https://m.ithome.com/html/1024052.htm)
 
-+ [马斯克再次表白中国，称赞中国汽车工业水平高](https://m.ithome.com/html/1023822.htm)
++ [【已失效】12+256G 版 3999 → 2530 元：小米 REDMI K100 Pro 官方 11.11 直降](https://m.ithome.com/html/1024066.htm)
 
