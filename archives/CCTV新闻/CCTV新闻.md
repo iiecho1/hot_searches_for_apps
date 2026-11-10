@@ -161,3 +161,29 @@
 
 + [美众议院被曝最早下周投票弹劾防长赫格塞思](https://news.cctv.com/2026/11/05/ARTIi0kgxZphun09NEVPqJJI261105.shtml)
 
++ [俄常驻联合国代表称不接受“冻结”乌克兰冲突](https://news.cctv.com/2026/11/10/ARTIMb8c243DE6uJK2m4zOqA261110.shtml)
+
++ [希腊一渡轮收到炸弹警报 近千人被疏散](https://news.cctv.com/2026/11/10/ARTIIzpdKb8BIA2fcadZnNLY261110.shtml)
+
++ [美国2026财年联邦预算赤字达2万亿美元](https://news.cctv.com/2026/11/10/ARTIsgHrwjvqtPrr9FWEisFw261110.shtml)
+
++ [联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口](https://news.cctv.com/2026/11/10/ARTICQso06tvLuJRyHSpJ0Ea261110.shtml)
+
++ [塞内加尔北部沉船事故死亡人数升至39人](https://news.cctv.com/2026/11/10/ARTIqbnUGKOJFcpdQmuvECcw261110.shtml)
+
++ [俄副外长重申俄无意进攻欧洲国家](https://news.cctv.com/2026/11/10/ARTIV3Qn0RUXsbbEz9I2AbgF261110.shtml)
+
++ [埃及列车相撞死伤超百人 调查显示多方存在玩忽职守](https://news.cctv.com/2026/11/10/ARTIAi4TWcfATdfplsHXnnI9261110.shtml)
+
++ [美国白宫附近发生两起安全事件 两人被捕](https://news.cctv.com/2026/11/10/ARTIoRW4cpzRAjFfd31toXa6261110.shtml)
+
++ [以军在约旦河西岸抓捕10名杰哈德组织成员](https://news.cctv.com/2026/11/10/ARTIwxI1nLvktWO7oTJ11dE1261110.shtml)
+
++ [法国就网络攻击事件召见伊朗大使 警告将实施制裁](https://news.cctv.com/2026/11/10/ARTIsQChvCvwCrCqPAXjKD0D261110.shtml)
+
++ [以方认定迪拜航空航班遇袭事件乘客为敌对事件受害者](https://news.cctv.com/2026/11/10/ARTIcQQbSjrbXGfgliL4N22m261110.shtml)
+
++ [土耳其西部一钢铁厂发生爆炸 死亡人数升至16人](https://news.cctv.com/2026/11/10/ARTItSQBqUvrV7Le4TYgPhQU261110.shtml)
+
++ [特朗普质疑美国中期选举结果 称提前投票数据异常](https://news.cctv.com/2026/11/10/ARTIhrW523fpve7YjuOiJlsP261110.shtml)
+

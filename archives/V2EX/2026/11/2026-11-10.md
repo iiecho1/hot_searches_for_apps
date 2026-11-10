@@ -21,3 +21,9 @@
 
 + [00 后到底是整顿职场还是素质低下](https://www.v2ex.com/t/1255461)
 
++ [请教下，有啥线下认识的女生渠道，推荐下](https://www.v2ex.com/t/1255531)
+
++ [说说最近在折腾 Claude 上继续浪费的钱吧](https://www.v2ex.com/t/1255567)
+
++ [我做的收费 SSH 客户端 Termark，被人 1:1 复刻并开源了](https://www.v2ex.com/t/1255590)
+

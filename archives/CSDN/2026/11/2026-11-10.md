@@ -101,3 +101,19 @@
 
 + [【AI智能体】Langchain 上下文记忆使用实战操作详解](https://blog.csdn.net/congge_study/article/details/167585588)
 
++ [4D-AI智能风控系统设计-系统功能模块设计](https://blog.csdn.net/xidianlijie/article/details/170235351)
+
++ [【人工智能驱动的电催化研究-04】列表、字典与实验记录组织](https://blog.csdn.net/2402_84593233/article/details/170335919)
+
++ [容器网络Overlay：VXLAN在K8s中的实现](https://blog.csdn.net/qq_41840843/article/details/170374627)
+
++ [计算机网络篇24：网络层——NAT 地址转换与 NAPT 端口映射，转换表撑起内网出公网](https://blog.csdn.net/2502_94387000/article/details/169950962)
+
++ [【OPD】Information-Gain Calibrated On-Policy Distillation for Deep Search Agents](https://blog.csdn.net/qq_35812205/article/details/170375088)
+
++ [【鸿蒙心迹】权限申请全流程——从声明到用户授权的完整链路（HarmonyOS 7.x）](https://blog.csdn.net/qq_35366330/article/details/170012735)
+
++ [裁了两秒素材，双倍速只播一秒：别把内容长度与播放经过混成一个时间](https://blog.csdn.net/weixin_49475940/article/details/170337900)
+
++ [GitHub 开源热榜项目-周榜（2026-11-09）](https://blog.csdn.net/nmy_2360/article/details/170331156)
+
