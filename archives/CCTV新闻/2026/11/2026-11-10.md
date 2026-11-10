@@ -187,3 +187,15 @@
 
 + [特朗普质疑美国中期选举结果 称提前投票数据异常](https://news.cctv.com/2026/11/10/ARTIhrW523fpve7YjuOiJlsP261110.shtml)
 
++ [中使馆发布关于在格鲁吉亚中国公民参加徒步登山等活动的安全提醒](https://news.cctv.com/2026/11/10/ARTITSuZL1O19eRbNnNXaHEj261110.shtml)
+
++ [法国柔道冠军宣布参选总统 马克龙表示欢迎](https://news.cctv.com/2026/11/10/ARTITkF6qoSwjrywIP91dfZP261110.shtml)
+
++ [国际观察：这场全会，为何引来周边多国纷纷点赞？](https://news.cctv.com/2026/11/10/ARTIaUUU7DHfUz2z2thWtDVh261110.shtml)
+
++ [国际观察｜起底日本右翼“文化投毒”的四种手法](https://news.cctv.com/2026/11/10/ARTIGKeXvfiuxwFOyxQp1P7u261110.shtml)
+
++ [也门胡塞武装：在沙特外企应登记信息以避免遭袭](https://news.cctv.com/2026/11/10/ARTIdseZhUiAcq0HKX8JFGlI261110.shtml)
+
++ [特朗普称伊朗战事已“事实上结束”](https://news.cctv.com/2026/11/10/ARTIghwXOri62jwncf27sLSq261110.shtml)
+

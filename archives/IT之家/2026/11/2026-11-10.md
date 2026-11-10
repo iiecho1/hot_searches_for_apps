@@ -25,3 +25,27 @@
 
 + [【已失效】12+256G 版 3999 → 2530 元：小米 REDMI K100 Pro 官方 11.11 直降](https://m.ithome.com/html/1024066.htm)
 
++ [英伟达黄仁勋承认出轨，消息称其去年已聘请擅长处理丑闻的危机公关公司](https://m.ithome.com/html/1024565.htm)
+
++ [《GTA 6》PS5 版正式开启预载，XBOX Series X｜S 需等到北京时间早上 8 点](https://m.ithome.com/html/1024566.htm)
+
++ [华为官宣 MateBook Fold S 鸿蒙小折叠电脑 11 月 14 日开启预订](https://m.ithome.com/html/1024618.htm)
+
++ [苹果 iOS/iPadOS 27.2.1 正式版发布](https://m.ithome.com/html/1024583.htm)
+
++ [小米澎程 N70 斩获 10 月增程车与中大型 SUV 销冠，N90 拿下大型 SUV 销冠](https://m.ithome.com/html/1024510.htm)
+
++ [余承东预告华为 MateBook Fold S 小折电脑即将发布，全新背屏设计](https://m.ithome.com/html/1024600.htm)
+
++ [小米汽车：SU7 拿下 2026 年 10 月 20 万以上轿车销量冠军](https://m.ithome.com/html/1024508.htm)
+
++ [奥迪 A8 旗舰轿车正式停产，继任车型 2030 年前亮相](https://m.ithome.com/html/1024376.htm)
+
++ [华为 MateBook Fold S 鸿蒙小折叠电脑三色外观公布：搭载 Live 小方屏，11 月 14 日预订](https://m.ithome.com/html/1024742.htm)
+
++ [比亚迪方程豹钛 9 顶配版官宣，将搭载全景 PHUD 天际屏等“全新科技”](https://m.ithome.com/html/1024378.htm)
+
++ [8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%](https://m.ithome.com/html/1024573.htm)
+
++ [512G 国补后 2744 元：华为 Mate 70 Air 再降新低，双卡双扬多摄大电池](https://m.ithome.com/html/1024606.htm)
+

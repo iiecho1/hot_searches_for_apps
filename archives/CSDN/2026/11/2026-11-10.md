@@ -117,3 +117,45 @@
 
 + [GitHub 开源热榜项目-周榜（2026-11-09）](https://blog.csdn.net/nmy_2360/article/details/170331156)
 
++ [【C++ 基于微服务的即时通讯系统】项目骨架搭建：目录规划、架构回顾与全量接口设计总览](https://blog.csdn.net/2503_91389547/article/details/170366157)
+
++ [【QT】系统相关：Qt网络编程概述](https://blog.csdn.net/2401_89899187/article/details/170365058)
+
++ [WEB3核心技术的一种实现：时间长河共识算法（TRC, Time-River Consensus）](https://blog.csdn.net/qq_20466509/article/details/170351680)
+
++ [KubeSphere 容器云实践：从管理 K8s 到建设企业 PaaS，还需要哪些能力](https://blog.csdn.net/zhouzhongyan/article/details/169749446)
+
++ [混合云网络互联：IPsec与专线混合实现企业多云战略](https://blog.csdn.net/qq_41840843/article/details/170374507)
+
++ [SQL Server数据迁移实战：内置故障诊断工具与根因分析实践](https://blog.csdn.net/weixin_62765017/article/details/170370451)
+
++ [【花雕动手做】当 AI Agent 不再只写代码：详解 AI Coding Agent 如何打通物理硬件闭环｜ESP-Mosaico 底层拓展](https://blog.csdn.net/weixin_41659040/article/details/170293573)
+
++ [鸿蒙生态 AI 开放能力深度研究报告：面向机器人 Agent 的嵌入式智能体协同架构（Robot Agent × Embedding × Copilot × Harness × AI）](https://blog.csdn.net/blog_programb/article/details/170373849)
+
++ [主流AI编程智能体算力架构实测：8大平台模型费率分析与本地配置避坑指南](https://blog.csdn.net/qq_46987323/article/details/170369072)
+
++ [【Redis 系列第 3 篇】Redis 过期键到底是如何删除的？惰性删除与定期删除机制](https://blog.csdn.net/2401_86617027/article/details/170245314)
+
++ [更少的位数，相同的召回率：DiskBBQ 更保守的自动校准扫描](https://blog.csdn.net/UbuntuTouch/article/details/170409122)
+
++ [消费回调固定 return nil：错误传播与 Kafka 位点提交的区别](https://blog.csdn.net/2501_92769340/article/details/170292113)
+
++ [从VLM规划器到机器人智能体：面向依赖历史信息的操控任务自演化框架](https://blog.csdn.net/yorkhunter/article/details/169834571)
+
++ [DevOps的Pipeline流水线对接k8s](https://blog.csdn.net/fengkai4545/article/details/170350147)
+
++ [机器人软件系统全景：感知、定位、规划、控制与决策如何协作](https://blog.csdn.net/weixin_37540091/article/details/170364621)
+
++ [Agent 上线前必查清单：50 个容易翻车的问题与规避方案](https://blog.csdn.net/sinat_41617212/article/details/170348073)
+
++ [【鸿蒙心迹】通知与推送集成——emitter 本地通知与推送服务全链路（HarmonyOS 7.x）](https://blog.csdn.net/qq_35366330/article/details/170012935)
+
++ [基于SpringBoot的自习室管理预约系统的设计与实现](https://blog.csdn.net/2301_78335941/article/details/170371559)
+
++ [中文分词到底该不该上 jieba：我把单字、bigram、trigram 和词典分词跑了一遍](https://blog.csdn.net/qq_41397792/article/details/170409426)
+
++ [鲲鹏轻量级虚拟化实验（华为云ECS版）](https://blog.csdn.net/qq_37633855/article/details/170293231)
+
++ [计算机网络第二课 ----Socket（套接字）编程预备](https://blog.csdn.net/m0_69984273/article/details/170296131)
+
