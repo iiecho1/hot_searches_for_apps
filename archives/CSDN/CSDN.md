@@ -101,3 +101,25 @@
 
 + [中文分词到底该不该上 jieba：我把单字、bigram、trigram 和词典分词跑了一遍](https://blog.csdn.net/qq_41397792/article/details/170409426)
 
++ [一台显示器顶起两层工作台：雕塑家23.8英寸4K折叠双屏实测](https://blog.csdn.net/weixin_42878111/article/details/170338155)
+
++ [太空计算星座：AI 算力的轨道级部署](https://blog.csdn.net/vipxieliang/article/details/170409910)
+
++ [OpenCV 5.1.0正式发布：核心矩阵、图像处理、DNN推理全面升级，性能与稳定性大幅增强](https://blog.csdn.net/weixin_48502062/article/details/170295206)
+
++ [时序数据库实战：连续聚合、实时聚合与分层降采样技术](https://blog.csdn.net/weixin_62765017/article/details/170370542)
+
++ [每天60秒读懂世界｜2026年11月8日：寒潮雨雪、汽车科技与空间站新消息](https://blog.csdn.net/weixin_47431459/article/details/170288910)
+
++ [RAG 还是 Agent 自主检索？Claude Code 删掉向量库之后，我把选型讲透了](https://blog.csdn.net/zxc18344522713/article/details/170440247)
+
++ [机器人软件系统全景：感知、定位、规划、控制与决策如何协作](https://blog.csdn.net/weixin_37540091/article/details/170364621)
+
++ [基于SpringBoot的自习室管理预约系统的设计与实现](https://blog.csdn.net/2301_78335941/article/details/170371559)
+
++ [Hadoop环境部署](https://blog.csdn.net/2401_88667659/article/details/170366190)
+
++ [Redis主从复制](https://blog.csdn.net/suimingtao/article/details/168532854)
+
++ [[教程]在 Mac ARM64（M3）上从零用 colima 跑 Docker 容器 · 新手教程](https://blog.csdn.net/weixin_45565886/article/details/170364373)
+

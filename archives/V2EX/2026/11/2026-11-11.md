@@ -21,3 +21,5 @@
 
 + [[91Token] 新站开启， Claude、GPT、Gemini、Seedance、GLM 塞进了一个 Key，新用户留言加群领取 10 刀体验金](https://www.v2ex.com/t/1255880)
 
++ [再聊 A/封号，所有的伪装都是徒劳](https://www.v2ex.com/t/1255879)
+
