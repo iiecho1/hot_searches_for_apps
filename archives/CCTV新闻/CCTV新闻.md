@@ -1,5 +1,51 @@
 ## CCTV新闻 
-### 2026-11-10
+### 2026-11-11
+
++ [新一轮俄美乌三方首日会谈结束 将于明日继续进行](https://news.cctv.com/2026/11/10/ARTITjQuZzzWdriyQWfxruZu261110.shtml)
+
++ [驻日本大使馆发言人就村田晃大非法持刀侵闯中国大使馆案第二次开庭答记者问](https://news.cctv.com/2026/11/10/ARTIPF9cbDEW1Nsi8hvkDNHP261110.shtml)
+
++ [古巴国家主席：古巴的未来绝不会由美国决定](https://news.cctv.com/2026/11/10/ARTIwJmbaS4qy3FRCqZGtYUq261110.shtml)
+
++ [日本检方要求判处村田晃大18个月监禁](https://news.cctv.com/2026/11/10/ARTIqnHSf4QyKYiaCODmQHsG261110.shtml)
+
++ [中使馆发布关于在格鲁吉亚中国公民参加徒步登山等活动的安全提醒](https://news.cctv.com/2026/11/10/ARTITSuZL1O19eRbNnNXaHEj261110.shtml)
+
++ [法国柔道冠军宣布参选总统 马克龙表示欢迎](https://news.cctv.com/2026/11/10/ARTITkF6qoSwjrywIP91dfZP261110.shtml)
+
++ [国际观察：这场全会，为何引来周边多国纷纷点赞？](https://news.cctv.com/2026/11/10/ARTIaUUU7DHfUz2z2thWtDVh261110.shtml)
+
++ [国际观察｜起底日本右翼“文化投毒”的四种手法](https://news.cctv.com/2026/11/10/ARTIGKeXvfiuxwFOyxQp1P7u261110.shtml)
+
++ [也门胡塞武装：在沙特外企应登记信息以避免遭袭](https://news.cctv.com/2026/11/10/ARTIdseZhUiAcq0HKX8JFGlI261110.shtml)
+
++ [特朗普称伊朗战事已“事实上结束”](https://news.cctv.com/2026/11/10/ARTIghwXOri62jwncf27sLSq261110.shtml)
+
++ [俄常驻联合国代表称不接受“冻结”乌克兰冲突](https://news.cctv.com/2026/11/10/ARTIMb8c243DE6uJK2m4zOqA261110.shtml)
+
++ [希腊一渡轮收到炸弹警报 近千人被疏散](https://news.cctv.com/2026/11/10/ARTIIzpdKb8BIA2fcadZnNLY261110.shtml)
+
++ [美国2026财年联邦预算赤字达2万亿美元](https://news.cctv.com/2026/11/10/ARTIsgHrwjvqtPrr9FWEisFw261110.shtml)
+
++ [联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口](https://news.cctv.com/2026/11/10/ARTICQso06tvLuJRyHSpJ0Ea261110.shtml)
+
++ [塞内加尔北部沉船事故死亡人数升至39人](https://news.cctv.com/2026/11/10/ARTIqbnUGKOJFcpdQmuvECcw261110.shtml)
+
++ [俄副外长重申俄无意进攻欧洲国家](https://news.cctv.com/2026/11/10/ARTIV3Qn0RUXsbbEz9I2AbgF261110.shtml)
+
++ [埃及列车相撞死伤超百人 调查显示多方存在玩忽职守](https://news.cctv.com/2026/11/10/ARTIAi4TWcfATdfplsHXnnI9261110.shtml)
+
++ [美国白宫附近发生两起安全事件 两人被捕](https://news.cctv.com/2026/11/10/ARTIoRW4cpzRAjFfd31toXa6261110.shtml)
+
++ [以军在约旦河西岸抓捕10名杰哈德组织成员](https://news.cctv.com/2026/11/10/ARTIwxI1nLvktWO7oTJ11dE1261110.shtml)
+
++ [法国就网络攻击事件召见伊朗大使 警告将实施制裁](https://news.cctv.com/2026/11/10/ARTIsQChvCvwCrCqPAXjKD0D261110.shtml)
+
++ [以方认定迪拜航空航班遇袭事件乘客为敌对事件受害者](https://news.cctv.com/2026/11/10/ARTIcQQbSjrbXGfgliL4N22m261110.shtml)
+
++ [土耳其西部一钢铁厂发生爆炸 死亡人数升至16人](https://news.cctv.com/2026/11/10/ARTItSQBqUvrV7Le4TYgPhQU261110.shtml)
+
++ [特朗普质疑美国中期选举结果 称提前投票数据异常](https://news.cctv.com/2026/11/10/ARTIhrW523fpve7YjuOiJlsP261110.shtml)
 
 + [土耳其西部一钢铁厂发生爆炸 已致10人死亡](https://news.cctv.com/2026/11/09/ARTIKPKRAzuuch92P467FNKs261109.shtml)
 
@@ -114,88 +160,4 @@
 + [IMF总裁：各国央行需考量AI驱动增长或放缓](https://news.cctv.com/2026/11/07/ARTIr5Ts3ux0dXjovk0Cizm4261107.shtml)
 
 + [美国悬赏最高2000万美元征集伊朗核计划情报](https://news.cctv.com/2026/11/07/ARTIb6ob3aWuIdAKUlwmt8TR261107.shtml)
-
-+ [我驻墨尔本总领馆通报一名中国公民遇害](https://news.cctv.com/2026/11/07/ARTIk10ZdQ9Q9GpiTO76lZGz261107.shtml)
-
-+ [新西兰议会选举开始正式投票](https://news.cctv.com/2026/11/07/ARTIDR8BgoFWfacEKaJRn22J261107.shtml)
-
-+ [希腊、塞浦路斯拟在东地中海开展电力项目 土耳其提出异议](https://news.cctv.com/2026/11/07/ARTIccWz3GLknbpJBwZmOqxA261107.shtml)
-
-+ [客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷](https://news.cctv.com/2026/11/07/ARTIX0UIEibAvLz9LzrL1Z1U261107.shtml)
-
-+ [特朗普称正在与伊朗进行沟通](https://news.cctv.com/2026/11/07/ARTI2T0iTG6zIJVU9XJSgRkJ261107.shtml)
-
-+ [美国宣布新一轮与伊朗相关的制裁措施](https://news.cctv.com/2026/11/07/ARTIWXpt9tWaQc76xGztQHVh261107.shtml)
-
-+ [普京确认俄美乌三方会谈将于11月10日在阿布扎比举行](https://news.cctv.com/2026/11/07/ARTIil3EoCXhY0saq0gUUBJp261107.shtml)
-
-+ [联合国机构：苏丹仍有超过1300万人流离失所](https://news.cctv.com/2026/11/07/ARTIckrFO3tCsUOdXgVoyJls261107.shtml)
-
-+ [我驻加尔各答总领馆再次提醒中国公民避免自尼泊尔误入印度国境](https://news.cctv.com/2026/11/06/ARTIGPvKnG6xSk5DxymBMJjr261106.shtml)
-
-+ [扎哈罗娃：俄美议程无进展 日本放弃反俄才能对话](https://news.cctv.com/2026/11/06/ARTIzfu4zUWo2ZQJxjExHApp261106.shtml)
-
-+ [美国国务卿鲁比奥否认计划离职竞选总统](https://news.cctv.com/2026/11/06/ARTIFYMXIvsuoQnHHnEypiY2261106.shtml)
-
-+ [胡塞武装称使用无人机袭击沙特法赫德国王国际机场](https://news.cctv.com/2026/11/06/ARTINa3phKCryON0OBe60d0m261106.shtml)
-
-+ [法国大规模示威活动持续 总理将召集工会与雇主组织对话](https://news.cctv.com/2026/11/06/ARTISnghGnvGDjInEN2QKg1V261106.shtml)
-
-+ [联合国安理会通过主席声明 强调加强外交在武装冲突中的作用](https://news.cctv.com/2026/11/06/ARTIEvQDdxINXcvfqFdgXSpv261106.shtml)
-
-+ [欧盟：判断欧洲多起航空威胁事件是否关联为时尚早](https://news.cctv.com/2026/11/05/ARTIDeOSyTMO4ifjOasFWDaR261105.shtml)
-
-+ [瑞典将实施6个月申根区内部边境管控以应对安全威胁](https://news.cctv.com/2026/11/05/ARTIxwoJSN2zp5hIHLfEJryg261105.shtml)
-
-+ [韩国拟扩大护航部队任务区域至霍尔木兹海峡附近海域](https://news.cctv.com/2026/11/05/ARTIgWtLnQx1xOSg3jY6rl4G261105.shtml)
-
-+ [欧洲客机再遭炸弹威胁 一航班改飞法国](https://news.cctv.com/2026/11/05/ARTI1cfIyHWLGANHCHqLqJGT261105.shtml)
-
-+ [消息人士：日本政府考虑在紧急情况下引进核武器](https://news.cctv.com/2026/11/05/ARTI76FGtAVPnjRaHQ6yoAOF261105.shtml)
-
-+ [中国驻刚果（金）使馆提醒在刚中国公民务必重视安全问题](https://news.cctv.com/2026/11/05/ARTIN4is4WhWYFoz5sf7FqFp261105.shtml)
-
-+ [伊朗称霍尔木兹海峡两艘油轮起火 两架无人机遭捕获](https://news.cctv.com/2026/11/05/ARTIBd6W8zUQPWH1cvCFNLIZ261105.shtml)
-
-+ [世卫：今年以来霍乱已致刚果（金）约1800人死亡](https://news.cctv.com/2026/11/05/ARTIaFV8GHYbZIlsO1KoBi9b261105.shtml)
-
-+ [美众议院被曝最早下周投票弹劾防长赫格塞思](https://news.cctv.com/2026/11/05/ARTIi0kgxZphun09NEVPqJJI261105.shtml)
-
-+ [俄常驻联合国代表称不接受“冻结”乌克兰冲突](https://news.cctv.com/2026/11/10/ARTIMb8c243DE6uJK2m4zOqA261110.shtml)
-
-+ [希腊一渡轮收到炸弹警报 近千人被疏散](https://news.cctv.com/2026/11/10/ARTIIzpdKb8BIA2fcadZnNLY261110.shtml)
-
-+ [美国2026财年联邦预算赤字达2万亿美元](https://news.cctv.com/2026/11/10/ARTIsgHrwjvqtPrr9FWEisFw261110.shtml)
-
-+ [联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口](https://news.cctv.com/2026/11/10/ARTICQso06tvLuJRyHSpJ0Ea261110.shtml)
-
-+ [塞内加尔北部沉船事故死亡人数升至39人](https://news.cctv.com/2026/11/10/ARTIqbnUGKOJFcpdQmuvECcw261110.shtml)
-
-+ [俄副外长重申俄无意进攻欧洲国家](https://news.cctv.com/2026/11/10/ARTIV3Qn0RUXsbbEz9I2AbgF261110.shtml)
-
-+ [埃及列车相撞死伤超百人 调查显示多方存在玩忽职守](https://news.cctv.com/2026/11/10/ARTIAi4TWcfATdfplsHXnnI9261110.shtml)
-
-+ [美国白宫附近发生两起安全事件 两人被捕](https://news.cctv.com/2026/11/10/ARTIoRW4cpzRAjFfd31toXa6261110.shtml)
-
-+ [以军在约旦河西岸抓捕10名杰哈德组织成员](https://news.cctv.com/2026/11/10/ARTIwxI1nLvktWO7oTJ11dE1261110.shtml)
-
-+ [法国就网络攻击事件召见伊朗大使 警告将实施制裁](https://news.cctv.com/2026/11/10/ARTIsQChvCvwCrCqPAXjKD0D261110.shtml)
-
-+ [以方认定迪拜航空航班遇袭事件乘客为敌对事件受害者](https://news.cctv.com/2026/11/10/ARTIcQQbSjrbXGfgliL4N22m261110.shtml)
-
-+ [土耳其西部一钢铁厂发生爆炸 死亡人数升至16人](https://news.cctv.com/2026/11/10/ARTItSQBqUvrV7Le4TYgPhQU261110.shtml)
-
-+ [特朗普质疑美国中期选举结果 称提前投票数据异常](https://news.cctv.com/2026/11/10/ARTIhrW523fpve7YjuOiJlsP261110.shtml)
-
-+ [中使馆发布关于在格鲁吉亚中国公民参加徒步登山等活动的安全提醒](https://news.cctv.com/2026/11/10/ARTITSuZL1O19eRbNnNXaHEj261110.shtml)
-
-+ [法国柔道冠军宣布参选总统 马克龙表示欢迎](https://news.cctv.com/2026/11/10/ARTITkF6qoSwjrywIP91dfZP261110.shtml)
-
-+ [国际观察：这场全会，为何引来周边多国纷纷点赞？](https://news.cctv.com/2026/11/10/ARTIaUUU7DHfUz2z2thWtDVh261110.shtml)
-
-+ [国际观察｜起底日本右翼“文化投毒”的四种手法](https://news.cctv.com/2026/11/10/ARTIGKeXvfiuxwFOyxQp1P7u261110.shtml)
-
-+ [也门胡塞武装：在沙特外企应登记信息以避免遭袭](https://news.cctv.com/2026/11/10/ARTIdseZhUiAcq0HKX8JFGlI261110.shtml)
-
-+ [特朗普称伊朗战事已“事实上结束”](https://news.cctv.com/2026/11/10/ARTIghwXOri62jwncf27sLSq261110.shtml)
 

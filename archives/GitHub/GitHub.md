@@ -1,25 +1,27 @@
 ## GitHub 
-### 2026-11-10
-
-+ [anthropics/skills](https://github.com/anthropics/skills)
+### 2026-11-11
 
 + [meta/astryx](https://github.com/meta/astryx)
 
-+ [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
++ [anthropics/skills](https://github.com/anthropics/skills)
 
-+ [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 + [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 
-+ [garrytan/gbrain](https://github.com/garrytan/gbrain)
++ [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
 
-+ [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-
-+ [ruvnet/RuView](https://github.com/ruvnet/RuView)
-
-+ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
++ [we-promise/sure](https://github.com/we-promise/sure)
 
 + [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 
-+ [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
++ [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+
++ [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+
++ [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+
++ [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+
++ [mattpocock/skills](https://github.com/mattpocock/skills)
 

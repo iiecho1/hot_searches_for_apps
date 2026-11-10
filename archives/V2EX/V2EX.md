@@ -1,31 +1,5 @@
 ## V2EX 
-### 2026-11-10
-
-+ [[中转站] 小众中转站推广，特色分组 opus-4.6，进来领鸡蛋 10$](https://www.v2ex.com/t/1255439)
-
-+ [熊市持续中就开个银河定投纳指或者红利低波 ETF 吧，“万一免五”股票基金免 5 大笑脸开户](https://www.v2ex.com/t/1255423)
-
-+ [感冒愈后长期咳嗽，发现了个神药？](https://www.v2ex.com/t/1255459)
-
-+ [希望 BLG 抗韩成功](https://www.v2ex.com/t/1255430)
-
-+ [七年级期中考试分数如下，哎，认命了](https://www.v2ex.com/t/1255591)
-
-+ [[送会员] 为了学好 英语 和 日语，我做了这个...](https://www.v2ex.com/t/1255556)
-
-+ [我觉得 CSDN 是彻底废了吧](https://www.v2ex.com/t/1255435)
-
-+ [重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了](https://www.v2ex.com/t/1255416)
-
-+ [初级古法前端说：前端比后端难多了。我这个后端老登沉默了](https://www.v2ex.com/t/1255534)
-
-+ [00 后到底是整顿职场还是素质低下](https://www.v2ex.com/t/1255461)
-
-+ [请教下，有啥线下认识的女生渠道，推荐下](https://www.v2ex.com/t/1255531)
-
-+ [说说最近在折腾 Claude 上继续浪费的钱吧](https://www.v2ex.com/t/1255567)
-
-+ [我做的收费 SSH 客户端 Termark，被人 1:1 复刻并开源了](https://www.v2ex.com/t/1255590)
+### 2026-11-11
 
 + [突然想到个一直没有想的事情，各位一般多久剪一次头发](https://www.v2ex.com/t/1255744)
 
@@ -33,17 +7,17 @@
 
 + [有没有三个月瘦 30 斤的办法](https://www.v2ex.com/t/1255768)
 
++ [[HyperAPI 中转站]新老用户们来领鸡蛋了，评论留 ID，送$10 体验额度](https://www.v2ex.com/t/1255755)
+
 + [公司不让用苹果手机设备了，有 苹果 pro 尺寸大小的手机推荐么](https://www.v2ex.com/t/1255727)
+
++ [[补送码] 我制作了 Mac 的活动追踪器「日影」](https://www.v2ex.com/t/1255839)
 
 + [外企外包也许是大龄失业人员的最好归宿](https://www.v2ex.com/t/1255797)
 
-+ [[HyperAPI 中转站]新老用户们来领鸡蛋了，评论留 ID，送$10 体验额度](https://www.v2ex.com/t/1255755)
-
-+ [转眼， 33 了](https://www.v2ex.com/t/1255699)
-
 + [我是不是真的老年痴呆了？还是说被骗了？](https://www.v2ex.com/t/1255737)
 
-+ [做了个 APP，付费功能被 ICP 许可证卡了，用淘宝卖码可行吗？](https://www.v2ex.com/t/1255724)
++ [国行 iPhone 18 系列要起飞了](https://www.v2ex.com/t/1255748)
 
-+ [突然收到律师函！一脸懵](https://www.v2ex.com/t/1255843)
++ [[91Token] 新站开启， Claude、GPT、Gemini、Seedance、GLM 塞进了一个 Key，新用户留言加群领取 10 刀体验金](https://www.v2ex.com/t/1255880)
 
