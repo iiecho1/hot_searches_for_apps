@@ -1,5 +1,25 @@
 ## CCTV新闻 
-### 2026-11-11
+### 2026-11-12
+
++ [意大利上百所学校收到炸弹威胁邮件 多地紧急疏散](https://news.cctv.com/2026/11/11/ARTId3P8OqrYRFBzNj6RGxpZ261111.shtml)
+
++ [靖国神社“秘录”公开，戳穿日本右翼的隐秘算计（环球走笔）](https://news.cctv.com/2026/11/11/ARTIvWkSpX0jWCYhSutrvdzP261111.shtml)
+
++ [俄美乌三方开启第二日会谈](https://news.cctv.com/2026/11/11/ARTI8uql5bVxbMozQB1oc9Vu261111.shtml)
+
++ [西方情报评估认为伊朗仍有战前一半弹道导弹产能](https://news.cctv.com/2026/11/11/ARTIpU1YKBXJ8gssYHL0rnvk261111.shtml)
+
++ [马杜罗辩护团队要求美方撤销酷刑虐待指控](https://news.cctv.com/2026/11/11/ARTIg7Gtu2qRixLcmWTiTr5G261111.shtml)
+
++ [中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯](https://news.cctv.com/2026/11/11/ARTIT5ye4pBGqaqDSoP61myL261111.shtml)
+
++ [美方指控一男子在纽约监狱参与策划袭击英国空军基地](https://news.cctv.com/2026/11/11/ARTI3ajCnnhCfhjLYD9Camqo261111.shtml)
+
++ [苏丹东南部一村庄遭无人机袭击 致9人死亡](https://news.cctv.com/2026/11/11/ARTI5bhK4Efw8pmnCqSf6kpa261111.shtml)
+
++ [乌外长：乌俄领导人直接会面有望加速冲突结束](https://news.cctv.com/2026/11/11/ARTIGb5RaLfsBk9tWqqmqdHC261111.shtml)
+
++ [土耳其钢铁厂爆炸已致18死 检方决定拘留11人](https://news.cctv.com/2026/11/11/ARTInEdk4tN8s9PxX0p70jSj261111.shtml)
 
 + [新一轮俄美乌三方首日会谈结束 将于明日继续进行](https://news.cctv.com/2026/11/10/ARTITjQuZzzWdriyQWfxruZu261110.shtml)
 
@@ -140,40 +160,4 @@
 + [塞内加尔北部一海滩发现20多具遗体](https://news.cctv.com/2026/11/08/ARTIJTvWPcKQoZF3QaYFqddi261108.shtml)
 
 + [巴拉圭检方正式起诉前总统 新总统承诺保障民众权益](https://news.cctv.com/2026/11/08/ARTI4Gu2xdIQZnMqBb03hL6c261108.shtml)
-
-+ [卡塔尔首相称美伊之间斡旋仍在继续](https://news.cctv.com/2026/11/08/ARTIIAIQnP0U87jIkspulkLU261108.shtml)
-
-+ [我驻名古屋总领馆提醒领区中国公民注意防范地震灾害](https://news.cctv.com/2026/11/08/ARTIXz7HsVc5ggEYY1W1kizq261108.shtml)
-
-+ [波兰克拉科夫枪击事件死亡人数升至6人](https://news.cctv.com/2026/11/08/ARTIhCnhGWAzvzEg7ysqdTKM261108.shtml)
-
-+ [伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”](https://news.cctv.com/2026/11/08/ARTIlejtKwHJ9BxnH2aXX1Ht261108.shtml)
-
-+ [以色列总统宣布将正式授权埃森科特组建新一届政府](https://news.cctv.com/2026/11/08/ARTICrstwYSqMnnrErNvEM3o261108.shtml)
-
-+ [胡塞武装称沙特空袭萨那周边 已致27人死亡](https://news.cctv.com/2026/11/08/ARTIDkGOCD5IVm96xekQEQou261108.shtml)
-
-+ [印尼杜科诺火山再喷发 火山灰柱高约2000米](https://news.cctv.com/2026/11/07/ARTIg0SfbRj4y2bQc8Kup3Dj261107.shtml)
-
-+ [美国多名国会议员称将推动撤销不合理关税政策](https://news.cctv.com/2026/11/07/ARTIC0XvmyJMzi7EAQFJyQPH261107.shtml)
-
-+ [IMF总裁：各国央行需考量AI驱动增长或放缓](https://news.cctv.com/2026/11/07/ARTIr5Ts3ux0dXjovk0Cizm4261107.shtml)
-
-+ [美国悬赏最高2000万美元征集伊朗核计划情报](https://news.cctv.com/2026/11/07/ARTIb6ob3aWuIdAKUlwmt8TR261107.shtml)
-
-+ [美方指控一男子在纽约监狱参与策划袭击英国空军基地](https://news.cctv.com/2026/11/11/ARTI3ajCnnhCfhjLYD9Camqo261111.shtml)
-
-+ [苏丹东南部一村庄遭无人机袭击 致9人死亡](https://news.cctv.com/2026/11/11/ARTI5bhK4Efw8pmnCqSf6kpa261111.shtml)
-
-+ [乌外长：乌俄领导人直接会面有望加速冲突结束](https://news.cctv.com/2026/11/11/ARTIGb5RaLfsBk9tWqqmqdHC261111.shtml)
-
-+ [土耳其钢铁厂爆炸已致18死 检方决定拘留11人](https://news.cctv.com/2026/11/11/ARTInEdk4tN8s9PxX0p70jSj261111.shtml)
-
-+ [俄美乌三方开启第二日会谈](https://news.cctv.com/2026/11/11/ARTI8uql5bVxbMozQB1oc9Vu261111.shtml)
-
-+ [西方情报评估认为伊朗仍有战前一半弹道导弹产能](https://news.cctv.com/2026/11/11/ARTIpU1YKBXJ8gssYHL0rnvk261111.shtml)
-
-+ [马杜罗辩护团队要求美方撤销酷刑虐待指控](https://news.cctv.com/2026/11/11/ARTIg7Gtu2qRixLcmWTiTr5G261111.shtml)
-
-+ [中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯](https://news.cctv.com/2026/11/11/ARTIT5ye4pBGqaqDSoP61myL261111.shtml)
 
