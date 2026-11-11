@@ -161,3 +161,11 @@
 
 + [美国悬赏最高2000万美元征集伊朗核计划情报](https://news.cctv.com/2026/11/07/ARTIb6ob3aWuIdAKUlwmt8TR261107.shtml)
 
++ [美方指控一男子在纽约监狱参与策划袭击英国空军基地](https://news.cctv.com/2026/11/11/ARTI3ajCnnhCfhjLYD9Camqo261111.shtml)
+
++ [苏丹东南部一村庄遭无人机袭击 致9人死亡](https://news.cctv.com/2026/11/11/ARTI5bhK4Efw8pmnCqSf6kpa261111.shtml)
+
++ [乌外长：乌俄领导人直接会面有望加速冲突结束](https://news.cctv.com/2026/11/11/ARTIGb5RaLfsBk9tWqqmqdHC261111.shtml)
+
++ [土耳其钢铁厂爆炸已致18死 检方决定拘留11人](https://news.cctv.com/2026/11/11/ARTInEdk4tN8s9PxX0p70jSj261111.shtml)
+
