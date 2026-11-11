@@ -25,3 +25,25 @@
 
 + [首款「逻辑折叠」技术 τ 芯片：华为详解麒麟 9050 系列核心升级，晶体管密度暴涨 53.5%](https://m.ithome.com/html/1024869.htm)
 
++ [再迎“iPhone X 时刻”：20 周年款苹果手机前瞻，整机如一块玻璃、按键将全固态](https://m.ithome.com/html/1025211.htm)
+
++ [余承东换上 OSTA O1 Pro 阔直板新机，官宣全新华为子品牌 OSTA 星芒](https://m.ithome.com/html/1025300.htm)
+
++ [2027 款丰田皇冠上市：29.9 万-35.4 万元，由一汽丰田进口国内](https://m.ithome.com/html/1025040.htm)
+
++ [11.11 就看这波：全网巅峰狂促 24 小时，iPhone 17 京东 5068 元，18 Pro/ Max 官方焕新立减 1300 元](https://m.ithome.com/html/1025164.htm)
+
++ [曝小米 SU7 Ultra Extreme 现身北京小米汽车超级工厂，全身伪装但遮不住超大尾翼](https://m.ithome.com/html/1025168.htm)
+
++ [身价 30 分钟缩水约 74 亿美元：英伟达黄仁勋陷婚外情风波，跌至全球富豪榜第十](https://m.ithome.com/html/1024971.htm)
+
++ [华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端](https://m.ithome.com/html/1025331.htm)
+
++ [5 个上门维修师傅 2 个说了实话：家电维修乱象再曝光，啄木鸟、天鹅到家、58 到家被点名](https://m.ithome.com/html/1025233.htm)
+
++ [阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线](https://m.ithome.com/html/1025301.htm)
+
++ [华为星芒手机官方微博上线：新品牌 11 月 20 日发布，余承东已换上 OSTA O1 Pro 阔直板新机](https://m.ithome.com/html/1025313.htm)
+
++ [华为鸿蒙 HarmonyOS 7.0.0.111SP12 Patch22 补丁包推送，部分机型可尝试与 Apple Watch 配对](https://m.ithome.com/html/1025163.htm)
+

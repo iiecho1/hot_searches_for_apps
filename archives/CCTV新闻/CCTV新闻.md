@@ -161,3 +161,11 @@
 
 + [巴拉圭检方正式起诉前总统 新总统承诺保障民众权益](https://news.cctv.com/2026/11/08/ARTI4Gu2xdIQZnMqBb03hL6c261108.shtml)
 
++ [美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉](https://news.cctv.com/2026/11/12/ARTIVhB611ae2TvwdOVHVNtM261112.shtml)
+
++ [泽连斯基：阿布扎比会谈就筹备新一轮战俘交换达成共识](https://news.cctv.com/2026/11/12/ARTIUHFBtPrB9U5VB1vMaWOz261112.shtml)
+
++ [胡塞武装称过去24小时内沙特联军发动93次空袭](https://news.cctv.com/2026/11/12/ARTIx5HHfkobdWV97bWKiYqA261112.shtml)
+
++ [美中央司令部：美军严格执行对伊朗海上封锁](https://news.cctv.com/2026/11/12/ARTICz0eHPk8VpYJNVZtkbLs261112.shtml)
+

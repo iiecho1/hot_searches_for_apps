@@ -101,3 +101,27 @@
 
 + [监控已经报警了，值班群却没人看到？我把Prometheus告警直接送进钉钉](https://blog.csdn.net/hanwangyyds/article/details/170347355)
 
++ [5 个特征、2 个输出：让 DBO 替 CNN-Transformer 挑结构，再用 SHAP 把黑箱撬开](https://blog.csdn.net/kjm13182345320/article/details/170458554)
+
++ [myBuilder 11 月新版本：AI辅助设计](https://blog.csdn.net/hunkcai/article/details/170455500)
+
++ [一页纸综述｜aws/aws-sam-cli｜L3 静态取证评测](https://blog.csdn.net/TunerT_TQ/article/details/170454964)
+
++ [Rust 并发快速上手](https://blog.csdn.net/K346K346/article/details/170450828)
+
++ [Flink 连接器选型实战：HDFS、Kafka、MySQL 与 Doris 的分层数据架构](https://blog.csdn.net/2401_83857914/article/details/170456860)
+
++ [DevOps CICD&流水线pipline](https://blog.csdn.net/L020824/article/details/170454356)
+
++ [MySQL 死锁怎么排查？InnoDB 锁等待与 Spring Boot 整事务重试实战](https://blog.csdn.net/ytwoshuai/article/details/170407953)
+
++ [镜像自定义、Docker 仓库管理](https://blog.csdn.net/zyf2431447031/article/details/170451368)
+
++ [Vivado 局部重配置(Partial Reconfiguration)完整流程](https://blog.csdn.net/m0_61864577/article/details/170456508)
+
++ [WorkBuddy 装什么 Skill？按任务选这 10 个更实用](https://blog.csdn.net/ai909297/article/details/170458889)
+
++ [YOLOv5 中 mAP 指标的计算逻辑](https://blog.csdn.net/2302_80153299/article/details/170455978)
+
++ [RS485半双工通信模块驱动开发—【万物智能之开源鸿蒙OpenHarmony系统实战开发系列教程】](https://blog.csdn.net/wanwuzhineng_01/article/details/170305133)
+
