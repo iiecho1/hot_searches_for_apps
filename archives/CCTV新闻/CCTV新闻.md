@@ -169,3 +169,11 @@
 
 + [土耳其钢铁厂爆炸已致18死 检方决定拘留11人](https://news.cctv.com/2026/11/11/ARTInEdk4tN8s9PxX0p70jSj261111.shtml)
 
++ [俄美乌三方开启第二日会谈](https://news.cctv.com/2026/11/11/ARTI8uql5bVxbMozQB1oc9Vu261111.shtml)
+
++ [西方情报评估认为伊朗仍有战前一半弹道导弹产能](https://news.cctv.com/2026/11/11/ARTIpU1YKBXJ8gssYHL0rnvk261111.shtml)
+
++ [马杜罗辩护团队要求美方撤销酷刑虐待指控](https://news.cctv.com/2026/11/11/ARTIg7Gtu2qRixLcmWTiTr5G261111.shtml)
+
++ [中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯](https://news.cctv.com/2026/11/11/ARTIT5ye4pBGqaqDSoP61myL261111.shtml)
+

@@ -127,3 +127,43 @@
 
 + [Web移植微信小程序样式崩塌全解：从类名静默降级到样式契约与尺寸锁死防御](https://blog.csdn.net/qq_46987323/article/details/170458448)
 
++ [AI数据库不是新词了：我在金仓上从建表一路跑到向量检索](https://blog.csdn.net/beautifulmemory/article/details/170348064)
+
++ [我回北大参加了一场教育改革座谈：当AI让知识不再稀缺，大学该培养什么样的人？](https://blog.csdn.net/williamkwok/article/details/170368501)
+
++ [Nexent AI智能体平台部署：Windows Docker 与 D 盘配置，为大模型接入做准备](https://blog.csdn.net/2600_97002269/article/details/170503983)
+
++ [SpringBoot+Vue3 实战 MES ：生产批次追溯从原料来源到成品去向，设计双向可查的关系网络](https://blog.csdn.net/zhouzhongyan/article/details/166904740)
+
++ [【人工智能驱动的电催化研究-05】条件、循环与数据检查](https://blog.csdn.net/2402_84593233/article/details/170453538)
+
++ [深度学习实战-基于VGG16算法的披萨图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/163164036)
+
++ [AI Agent 工程化开发实战（八）：子图与多智能体编排——supervisor 与拓扑](https://blog.csdn.net/xiaobing259/article/details/170278029)
+
++ [当我干不动活的时候，谁来养活我？一套抗周期的终极养老方案：人体本金；社保 + 生产性金融资产；高质量的社会连接；通透的心态。](https://blog.csdn.net/qq_38998213/article/details/170519238)
+
++ [多 Agent 共用数据库，元数据检索怎么省下 token 账单？](https://blog.csdn.net/augen1355/article/details/170455129)
+
++ [用 Nexent 搭了个课程助教：租户初始化、百炼模型接入与 RAG 验证实录](https://blog.csdn.net/qq_57761637/article/details/170527736)
+
++ [【电机】基于matlab直流电机建模、PID速度控制和自动故障诊断【含Matlab源码 16195期】](https://blog.csdn.net/TIQCmatlab/article/details/170453112)
+
++ [每天60秒读懂世界｜2026年11月9日：寒潮降温、秋假出行与科技新进展](https://blog.csdn.net/weixin_47431459/article/details/170342693)
+
++ [【元宝搜索开发者征文大赛】我给普通人做了一个“维权行动卡“生成器：输入一句纠纷描述，2.8秒检索出官方法条和行动清单](https://blog.csdn.net/2302_78391795/article/details/170458858)
+
++ [LangGraph（01）：核心概念、运行机制与 API 选型](https://blog.csdn.net/2401_83830408/article/details/170457926)
+
++ [Notion越用越离不开，资料却一直放在别人服务器上：我把知识库搬到了AppFlowy](https://blog.csdn.net/leopold_man/article/details/170456356)
+
++ [Nexent 双知识库 RAG 实测：跨库费用算对了，缺条件时仍会带入示例](https://blog.csdn.net/Mrxiao_bo/article/details/170368494)
+
++ [Vue3+FormCreate 表单公式：日期、时间与字段引用，怎样算出正确的时长？](https://blog.csdn.net/ruoyioffice/article/details/168651807)
+
++ [我把一个网址丢给 AI，20 本书的价格表 6 秒就出来了](https://blog.csdn.net/u014534808/article/details/170346607)
+
++ [从0到1实现三种智能体范式：ReAct、Plan-and-Solve 与 Reflection](https://blog.csdn.net/2503_94545876/article/details/170457872)
+
++ [云原生监控系统Prometheus介绍和架构](https://blog.csdn.net/cpyaxjq/article/details/170496225)
+
