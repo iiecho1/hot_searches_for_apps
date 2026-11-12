@@ -173,3 +173,25 @@
 
 + [俄外长：美特使将前往莫斯科向普京通报三方会谈相关情况](https://news.cctv.com/2026/11/12/ARTIxp1N34TiofHE5mHDlVVj261112.shtml)
 
++ [美政商界人士呼吁共同推动稳定健康的美中关系](https://news.cctv.com/2026/11/12/ARTIm0sEmPhdyiiHRgf4vw7I261112.shtml)
+
++ [国际锐评丨透过进博之窗，世界深切感知“中国机遇2.0”](https://news.cctv.com/2026/11/12/ARTIQkr64bLvZyEFPu2wEspV261112.shtml)
+
++ [泽连斯基：“星链”系统近期出现严重运行异常](https://news.cctv.com/2026/11/12/ARTISvnVNHL3RxW3jff5lDyu261112.shtml)
+
++ [英前首相卡梅伦警告现首相伯纳姆：勿试图重新加入欧盟](https://news.cctv.com/2026/11/12/ARTIMypcOzbH9fco1bCaSKCS261112.shtml)
+
++ [特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”](https://news.cctv.com/2026/11/12/ARTIYrEyL0lY1T8RAhV9Kj3S261112.shtml)
+
++ [加沙再遭以军空袭 过冬物资仍受阻](https://news.cctv.com/2026/11/12/ARTIKVqwEOQD4TPl4zoapVCb261112.shtml)
+
++ [预计俄总统普京将于莫斯科时间今日12时会见美代表](https://news.cctv.com/2026/11/12/ARTITUv62dt0xaUeyeVn3afQ261112.shtml)
+
++ [以防长：看守政府发动军事行动无需征得反对派同意](https://news.cctv.com/2026/11/12/ARTIN62VXLjmFUEvYPBbTLox261112.shtml)
+
++ [北美观察丨美防长弹劾案意外受阻 国会与白宫博弈升温](https://news.cctv.com/2026/11/12/ARTIe9X7KoqEyYbBywFU43dE261112.shtml)
+
++ [美国家庭今冬取暖费预计平均上涨7.1%](https://news.cctv.com/2026/11/12/ARTIPjyn87aF5kuOxC5n66h7261112.shtml)
+
++ [印尼就总统窃听案嫌疑人涉嫌叛国进行立案调查](https://news.cctv.com/2026/11/12/ARTI9gF92Ukix7mGLd0xw7lz261112.shtml)
+

@@ -59,3 +59,27 @@
 
 + [张雪机车 53 号冠军车型拍卖款改道：不再捐韩红基金会，转投小车手培养](https://m.ithome.com/html/1025390.htm)
 
++ [不仅一段婚外情？消息称英伟达正准备罢免 CEO 黄仁勋，公司股价盘后大跌](https://m.ithome.com/html/1025829.htm)
+
++ [桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%](https://m.ithome.com/html/1025855.htm)
+
++ [Polymarket 预测黄仁勋之女黄敏珊成接任英伟达 CEO 热门人选](https://m.ithome.com/html/1025857.htm)
+
++ [演员赵丽颖起诉红果短剧侵犯肖像权](https://m.ithome.com/html/1025939.htm)
+
++ [央视起底 MCN 机构“暴力起号”套路，四川宜宾成立调查组](https://m.ithome.com/html/1025725.htm)
+
++ [英伟达董事会已聘请外部机构物色新 CEO 候选人以接替黄仁勋，同时考虑临时 CEO 方案](https://m.ithome.com/html/1025852.htm)
+
++ [阿维塔 1300 台「战损车基地」曝光，副总裁雍军曾透露价值约 6 个亿](https://m.ithome.com/html/1025566.htm)
+
++ [特斯拉上海内环高架斗车事件后续：42 岁司机涉嫌刑事犯罪被移送审查起诉，另一 71 岁司机被罚款](https://m.ithome.com/html/1025842.htm)
+
++ [黄仁勋遭美国议员要求辞职，英伟达面临国会问询压力](https://m.ithome.com/html/1025883.htm)
+
++ [外籍乘客探出高铁车厢门外吸烟引争议，12306 回应称“个人素质行为”无法阻止](https://m.ithome.com/html/1025837.htm)
+
++ [5999 → 5499 元：HUAWEI Pura X View 阔直板手机 12+256G 国补直降](https://m.ithome.com/html/1025778.htm)
+
++ [郭明錤谈黄仁勋出轨丑闻：他似乎很难全身而退，英伟达可能得布局接班计划了](https://m.ithome.com/html/1026027.htm)
+

@@ -125,3 +125,55 @@
 
 + [RS485半双工通信模块驱动开发—【万物智能之开源鸿蒙OpenHarmony系统实战开发系列教程】](https://blog.csdn.net/wanwuzhineng_01/article/details/170305133)
 
++ [SpringBoot3 财务系统建模：账套、科目、辅助核算与会计期间如何配合](https://blog.csdn.net/zhouzhongyan/article/details/169749383)
+
++ [【C++——类和对象（上）】筑基篇：以封装奠定面向对象之基](https://blog.csdn.net/2602_95684935/article/details/169724240)
+
++ [【H11攻坚日志｜D196+D197】归一化交互向量L²均值与独立向量和二阶矩：超立方体Ramsey形式化审计链路推进](https://blog.csdn.net/TunerT_TQ/article/details/170554052)
+
++ [换一个优化器，模型为什么可能学得不一样？理解 Muon 的矩阵更新](https://blog.csdn.net/weixin_74809706/article/details/169847253)
+
++ [PyTorch强化学习实战（35）——多智能体强化学习](https://blog.csdn.net/LOVEmy134611/article/details/160152587)
+
++ [OpenClaw Mac mini部署教程：接入飞书、AI Agent与公网访问](https://blog.csdn.net/weixin_62765017/article/details/170605259)
+
++ [AI Agent 06](https://blog.csdn.net/2401_88601046/article/details/170561531)
+
++ [Changedetection.io网页监控教程：Docker部署、变更提醒与公网访问](https://blog.csdn.net/Dovis5884/article/details/170629623)
+
++ [MediaGo飞牛NAS部署教程：网页媒体提取、远程下载与固定公网访问](https://blog.csdn.net/u014727709/article/details/170602342)
+
++ [每天60秒读懂世界｜2026年11月12日：停车新规、新能源汽车与太阳能无人机](https://blog.csdn.net/weixin_47431459/article/details/170600159)
+
++ [ToDesk适合长期主用吗-先看你的使用频率](https://blog.csdn.net/2401_86326742/article/details/170628319)
+
++ [【数据库】用 TimechoAI 预测长沙的冷暖与风雨](https://blog.csdn.net/qq_38628970/article/details/170543890)
+
++ [OCR识别完的PDF，为什么还不能直接拿去做RAG？](https://blog.csdn.net/2402_86350387/article/details/170611366)
+
++ [计算机网络篇24：网络层——NAT 地址转换与 NAPT 端口映射，转换表撑起内网出公网](https://blog.csdn.net/2502_94387000/article/details/169950962)
+
++ [一份 MCP 配置九个 Agent 共用？装上 SoduWork 派了个前后端项目](https://blog.csdn.net/u014534808/article/details/170538904)
+
++ [容灾分级怎么做？RTO/RPO 对照表 + 双活选型三步法](https://blog.csdn.net/augen1355/article/details/170548490)
+
++ [基于Spring Boot和Vue的经方药食两用服务平台设计与实现](https://blog.csdn.net/weixin_63587281/article/details/170564768)
+
++ [一个远程窗口装下四个 Shell——ToDesk、向日葵、UU远程终端全维度横评](https://blog.csdn.net/m0_70980326/article/details/170457114)
+
++ [数学建模教材推荐](https://blog.csdn.net/dllglvzhenfeng/article/details/170244468)
+
++ [Hadoop环境部署](https://blog.csdn.net/2401_88667659/article/details/170366190)
+
++ [CI/CD 流水线：GitLab + Jenkins + Docker 部署实战](https://blog.csdn.net/xianyuCcCcCCCcc/article/details/170557060)
+
++ [测试用例库搭建指南：用好测试用例管理工具的3个层次](https://blog.csdn.net/qq_29893481/article/details/170415074)
+
++ [技术选型笔记：Agent 里的「自我反思环」，到底该不该加](https://blog.csdn.net/2601_95494915/article/details/170564736)
+
++ [Python逻辑回归实操实验任务](https://blog.csdn.net/Michelle8023/article/details/170560996)
+
++ [【AI】Vibe Coding下智能体前端技术选型操作规范](https://blog.csdn.net/hknaruto/article/details/170486388)
+
++ [成为全栈·Vue 管理后台篇·Vue Query：服务端数据缓存、query key与变更失效](https://blog.csdn.net/FungLeo/article/details/170566697)
+
