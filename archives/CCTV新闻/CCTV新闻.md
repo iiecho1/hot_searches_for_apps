@@ -1,5 +1,49 @@
 ## CCTV新闻 
-### 2026-11-12
+### 2026-11-13
+
++ [胡塞武装对沙特主导联军多个军事集结点进行打击](https://news.cctv.com/2026/11/13/ARTIgwovLJ6pl74NNPSfyzP7261113.shtml)
+
++ [土耳其军方一直升机坠毁 已致4人死亡](https://news.cctv.com/2026/11/13/ARTIIMHaUH167PJVVC1M4Wfr261113.shtml)
+
++ [法国三所学校因炸弹威胁被疏散](https://news.cctv.com/2026/11/13/ARTI4RnHFUhkwYuO14Fsl6Kt261113.shtml)
+
++ [菲律宾马尼拉街头发生警匪交火 致两死一伤](https://news.cctv.com/2026/11/13/ARTIvHh3dIvCI90N0XvLZl9d261113.shtml)
+
++ [冯德莱恩说欧盟将提出新一轮对俄制裁及援乌方案](https://news.cctv.com/2026/11/12/ARTItqsui4tctOHHI0YXWh94261112.shtml)
+
++ [美政商界人士呼吁共同推动稳定健康的美中关系](https://news.cctv.com/2026/11/12/ARTIm0sEmPhdyiiHRgf4vw7I261112.shtml)
+
++ [国际锐评丨透过进博之窗，世界深切感知“中国机遇2.0”](https://news.cctv.com/2026/11/12/ARTIQkr64bLvZyEFPu2wEspV261112.shtml)
+
++ [泽连斯基：“星链”系统近期出现严重运行异常](https://news.cctv.com/2026/11/12/ARTISvnVNHL3RxW3jff5lDyu261112.shtml)
+
++ [英前首相卡梅伦警告现首相伯纳姆：勿试图重新加入欧盟](https://news.cctv.com/2026/11/12/ARTIMypcOzbH9fco1bCaSKCS261112.shtml)
+
++ [特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”](https://news.cctv.com/2026/11/12/ARTIYrEyL0lY1T8RAhV9Kj3S261112.shtml)
+
++ [加沙再遭以军空袭 过冬物资仍受阻](https://news.cctv.com/2026/11/12/ARTIKVqwEOQD4TPl4zoapVCb261112.shtml)
+
++ [预计俄总统普京将于莫斯科时间今日12时会见美代表](https://news.cctv.com/2026/11/12/ARTITUv62dt0xaUeyeVn3afQ261112.shtml)
+
++ [以防长：看守政府发动军事行动无需征得反对派同意](https://news.cctv.com/2026/11/12/ARTIN62VXLjmFUEvYPBbTLox261112.shtml)
+
++ [北美观察丨美防长弹劾案意外受阻 国会与白宫博弈升温](https://news.cctv.com/2026/11/12/ARTIe9X7KoqEyYbBywFU43dE261112.shtml)
+
++ [美国家庭今冬取暖费预计平均上涨7.1%](https://news.cctv.com/2026/11/12/ARTIPjyn87aF5kuOxC5n66h7261112.shtml)
+
++ [印尼就总统窃听案嫌疑人涉嫌叛国进行立案调查](https://news.cctv.com/2026/11/12/ARTI9gF92Ukix7mGLd0xw7lz261112.shtml)
+
++ [英国和爱尔兰超千所学校收到威胁邮件 警方认定不可信](https://news.cctv.com/2026/11/12/ARTIjzCsIGUntAKL8irwa8Sj261112.shtml)
+
++ [俄外长：美特使将前往莫斯科向普京通报三方会谈相关情况](https://news.cctv.com/2026/11/12/ARTIxp1N34TiofHE5mHDlVVj261112.shtml)
+
++ [美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉](https://news.cctv.com/2026/11/12/ARTIVhB611ae2TvwdOVHVNtM261112.shtml)
+
++ [泽连斯基：阿布扎比会谈就筹备新一轮战俘交换达成共识](https://news.cctv.com/2026/11/12/ARTIUHFBtPrB9U5VB1vMaWOz261112.shtml)
+
++ [胡塞武装称过去24小时内沙特联军发动93次空袭](https://news.cctv.com/2026/11/12/ARTIx5HHfkobdWV97bWKiYqA261112.shtml)
+
++ [美中央司令部：美军严格执行对伊朗海上封锁](https://news.cctv.com/2026/11/12/ARTICz0eHPk8VpYJNVZtkbLs261112.shtml)
 
 + [意大利上百所学校收到炸弹威胁邮件 多地紧急疏散](https://news.cctv.com/2026/11/11/ARTId3P8OqrYRFBzNj6RGxpZ261111.shtml)
 
@@ -116,82 +160,4 @@
 + [加沙中部流离失所者营地发生沙土塌方 已致5人死亡](https://news.cctv.com/2026/11/09/ARTIdGixP5MUscMEQZQluTI1261109.shtml)
 
 + [特朗普：如谈判有进展 “极不可能”再对伊大动武](https://news.cctv.com/2026/11/09/ARTINmNxo9JLUn7AnmCkGezd261109.shtml)
-
-+ [扎波罗热核电站恢复外部供电](https://news.cctv.com/2026/11/09/ARTIzUxmVfIjdgyxEtCX9H6y261109.shtml)
-
-+ [埃及列车脱轨事故已致7死112伤](https://news.cctv.com/2026/11/09/ARTIybueVFIlxWP9445zxhkb261109.shtml)
-
-+ [非国大在南非地方选举中保住第一大党地位](https://news.cctv.com/2026/11/09/ARTIEXc9lZFLEH45u6ppthkb261109.shtml)
-
-+ [伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火](https://news.cctv.com/2026/11/09/ARTIjqusDh9VoFJMNo5NRJgM261109.shtml)
-
-+ [塞尔维亚新一届议会定于11月17日举行首次会议](https://news.cctv.com/2026/11/09/ARTISDi5RIAo3zEkljixPVz3261109.shtml)
-
-+ [埃及列车脱轨事故已致4死88伤 暂无中国公民伤亡报告](https://news.cctv.com/2026/11/08/ARTIVNNPxvct9MpUNA1dN0ZU261108.shtml)
-
-+ [以总统赫尔佐格正式授权埃森科特组建新一届政府](https://news.cctv.com/2026/11/08/ARTIdYTpfDvL0VXXbtgMtG8B261108.shtml)
-
-+ [胡塞武装称对沙特境内目标发动四轮军事行动](https://news.cctv.com/2026/11/08/ARTINlEWVjSwQKys5NXogZpg261108.shtml)
-
-+ [巴西发生车辆坠湖事件 10人遇难](https://news.cctv.com/2026/11/08/ARTITPTw3wJv9pl6Tvsf9VO4261108.shtml)
-
-+ [法国外长说欧洲将参加乌克兰危机阿布扎比会谈](https://news.cctv.com/2026/11/08/ARTIVISQr3OATUi0UfA0CV3A261108.shtml)
-
-+ [埃及国家铁路局派遣重型设备及工程团队前往列车脱轨事故现场](https://news.cctv.com/2026/11/08/ARTIqUXbvoAGNGC9HPQHyTYl261108.shtml)
-
-+ [埃及列车脱轨事故致司机死亡 64人受伤](https://news.cctv.com/2026/11/08/ARTI0CNwRsrSkhQP6BbohYEj261108.shtml)
-
-+ [埃及列车脱轨事故致司机死亡](https://news.cctv.com/2026/11/08/ARTIemOBWISsDTbN9eBFeI5G261108.shtml)
-
-+ [胡塞消息人士称沙特和叙利亚达成派兵安排 叙方否认](https://news.cctv.com/2026/11/08/ARTIIhbWroB0OFBkwBEBjjGW261108.shtml)
-
-+ [伊朗革命卫队：美军特遣部队无法达到施压伊朗目的](https://news.cctv.com/2026/11/08/ARTI1QLjnOfqcJDP8F94g3Nz261108.shtml)
-
-+ [美发布月球基地建设与核动力月球车发射新规划](https://news.cctv.com/2026/11/08/ARTIkEsojzLb3zbS7RGsz6R5261108.shtml)
-
-+ [沙特称拦截多枚导弹 利雅得市区传出多声巨响](https://news.cctv.com/2026/11/08/ARTIpZjIFY8LtAARI2gU2y3q261108.shtml)
-
-+ [日防卫大臣称将探索自卫队新组织架构](https://news.cctv.com/2026/11/08/ARTIrNErd4eK9D1H0xtBFTLk261108.shtml)
-
-+ [从亲历到读懂：国际媒体人士共话真实中国](https://news.cctv.com/2026/11/08/ARTIoHyFWTdx3gGaRje5e1Ol261108.shtml)
-
-+ [斯洛伐克总理：若欧盟强制要求放弃俄石油 将继续发起诉讼](https://news.cctv.com/2026/11/08/ARTIGVD4X3lcmF4kcOkscd06261108.shtml)
-
-+ [塞内加尔北部一海滩发现20多具遗体](https://news.cctv.com/2026/11/08/ARTIJTvWPcKQoZF3QaYFqddi261108.shtml)
-
-+ [巴拉圭检方正式起诉前总统 新总统承诺保障民众权益](https://news.cctv.com/2026/11/08/ARTI4Gu2xdIQZnMqBb03hL6c261108.shtml)
-
-+ [美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉](https://news.cctv.com/2026/11/12/ARTIVhB611ae2TvwdOVHVNtM261112.shtml)
-
-+ [泽连斯基：阿布扎比会谈就筹备新一轮战俘交换达成共识](https://news.cctv.com/2026/11/12/ARTIUHFBtPrB9U5VB1vMaWOz261112.shtml)
-
-+ [胡塞武装称过去24小时内沙特联军发动93次空袭](https://news.cctv.com/2026/11/12/ARTIx5HHfkobdWV97bWKiYqA261112.shtml)
-
-+ [美中央司令部：美军严格执行对伊朗海上封锁](https://news.cctv.com/2026/11/12/ARTICz0eHPk8VpYJNVZtkbLs261112.shtml)
-
-+ [英国和爱尔兰超千所学校收到威胁邮件 警方认定不可信](https://news.cctv.com/2026/11/12/ARTIjzCsIGUntAKL8irwa8Sj261112.shtml)
-
-+ [俄外长：美特使将前往莫斯科向普京通报三方会谈相关情况](https://news.cctv.com/2026/11/12/ARTIxp1N34TiofHE5mHDlVVj261112.shtml)
-
-+ [美政商界人士呼吁共同推动稳定健康的美中关系](https://news.cctv.com/2026/11/12/ARTIm0sEmPhdyiiHRgf4vw7I261112.shtml)
-
-+ [国际锐评丨透过进博之窗，世界深切感知“中国机遇2.0”](https://news.cctv.com/2026/11/12/ARTIQkr64bLvZyEFPu2wEspV261112.shtml)
-
-+ [泽连斯基：“星链”系统近期出现严重运行异常](https://news.cctv.com/2026/11/12/ARTISvnVNHL3RxW3jff5lDyu261112.shtml)
-
-+ [英前首相卡梅伦警告现首相伯纳姆：勿试图重新加入欧盟](https://news.cctv.com/2026/11/12/ARTIMypcOzbH9fco1bCaSKCS261112.shtml)
-
-+ [特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”](https://news.cctv.com/2026/11/12/ARTIYrEyL0lY1T8RAhV9Kj3S261112.shtml)
-
-+ [加沙再遭以军空袭 过冬物资仍受阻](https://news.cctv.com/2026/11/12/ARTIKVqwEOQD4TPl4zoapVCb261112.shtml)
-
-+ [预计俄总统普京将于莫斯科时间今日12时会见美代表](https://news.cctv.com/2026/11/12/ARTITUv62dt0xaUeyeVn3afQ261112.shtml)
-
-+ [以防长：看守政府发动军事行动无需征得反对派同意](https://news.cctv.com/2026/11/12/ARTIN62VXLjmFUEvYPBbTLox261112.shtml)
-
-+ [北美观察丨美防长弹劾案意外受阻 国会与白宫博弈升温](https://news.cctv.com/2026/11/12/ARTIe9X7KoqEyYbBywFU43dE261112.shtml)
-
-+ [美国家庭今冬取暖费预计平均上涨7.1%](https://news.cctv.com/2026/11/12/ARTIPjyn87aF5kuOxC5n66h7261112.shtml)
-
-+ [印尼就总统窃听案嫌疑人涉嫌叛国进行立案调查](https://news.cctv.com/2026/11/12/ARTI9gF92Ukix7mGLd0xw7lz261112.shtml)
 
