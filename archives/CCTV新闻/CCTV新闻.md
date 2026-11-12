@@ -169,3 +169,7 @@
 
 + [美中央司令部：美军严格执行对伊朗海上封锁](https://news.cctv.com/2026/11/12/ARTICz0eHPk8VpYJNVZtkbLs261112.shtml)
 
++ [英国和爱尔兰超千所学校收到威胁邮件 警方认定不可信](https://news.cctv.com/2026/11/12/ARTIjzCsIGUntAKL8irwa8Sj261112.shtml)
+
++ [俄外长：美特使将前往莫斯科向普京通报三方会谈相关情况](https://news.cctv.com/2026/11/12/ARTIxp1N34TiofHE5mHDlVVj261112.shtml)
+

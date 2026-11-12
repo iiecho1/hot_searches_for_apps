@@ -47,3 +47,15 @@
 
 + [华为鸿蒙 HarmonyOS 7.0.0.111SP12 Patch22 补丁包推送，部分机型可尝试与 Apple Watch 配对](https://m.ithome.com/html/1025163.htm)
 
++ [比亚迪就大唐轮辋装配问题致歉：系供应商录入失误，提供免费调换](https://m.ithome.com/html/1025396.htm)
+
++ [“小米换机”应用上架华为鸿蒙应用市场，支持将 HarmonyOS 数据迁移至小米设备](https://m.ithome.com/html/1025443.htm)
+
++ [消息称黄仁勋已回英伟达上班开会，试图表现得“一切照常”](https://m.ithome.com/html/1025249.htm)
+
++ [华为官宣杨幂出任鸿蒙折叠电脑先锋大使，新机 11 月 14 日开启预订](https://m.ithome.com/html/1025307.htm)
+
++ [使用 FSD 破解版进行智驾测试、被特斯拉发函后，第一电动网 CEO 庞义成回应称“不可能撤稿”](https://m.ithome.com/html/1025394.htm)
+
++ [张雪机车 53 号冠军车型拍卖款改道：不再捐韩红基金会，转投小车手培养](https://m.ithome.com/html/1025390.htm)
+
