@@ -1,29 +1,27 @@
 ## GitHub 
-### 2026-11-13
+### 2026-11-14
+
++ [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 
 + [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 
 + [openai/codex-security](https://github.com/openai/codex-security)
 
-+ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-
-+ [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler)
++ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 
 + [we-promise/sure](https://github.com/we-promise/sure)
 
-+ [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
++ [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 
-+ [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
++ [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-+ [nodejs/node](https://github.com/nodejs/node)
++ [block/buzz](https://github.com/block/buzz)
 
-+ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
++ [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
 
-+ [meta/astryx](https://github.com/meta/astryx)
++ [tailscale/tailcat](https://github.com/tailscale/tailcat)
 
-+ [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
++ [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
 
-+ [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-
-+ [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
++ [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
