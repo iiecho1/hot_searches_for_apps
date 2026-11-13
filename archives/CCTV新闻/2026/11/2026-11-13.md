@@ -161,3 +161,19 @@
 
 + [特朗普：如谈判有进展 “极不可能”再对伊大动武](https://news.cctv.com/2026/11/09/ARTINmNxo9JLUn7AnmCkGezd261109.shtml)
 
++ [克雷斯就任英伟达临时首席执行官](https://news.cctv.com/2026/11/13/ARTIwSqCfZyasdojyh0QBgQO261113.shtml)
+
++ [英伟达公司宣布黄仁勋辞职](https://news.cctv.com/2026/11/13/ARTItgwx4IFnbLP5R8jtsA3K261113.shtml)
+
++ [古巴外长批评七国集团涉古声明回避美国对古封锁影响](https://news.cctv.com/2026/11/13/ARTI25WH5BaELhAPWxAhoA2h261113.shtml)
+
++ [安理会通过决议 延长也门制裁机制](https://news.cctv.com/2026/11/13/ARTIpACEI45MLkw5bPjsAwZS261113.shtml)
+
++ [安理会通过决议 将联中稳定团任务期限延长一年](https://news.cctv.com/2026/11/13/ARTIxSoEFTWGRKtfE3IFjRD0261113.shtml)
+
++ [墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境](https://news.cctv.com/2026/11/13/ARTIIZMXL9Ai38pfPd7SXrIh261113.shtml)
+
++ [消息人士称伊朗霍尔木兹甘省锡里克遭敌方袭击](https://news.cctv.com/2026/11/13/ARTIzOURG8ntyTAlsQ6bvNNv261113.shtml)
+
++ [伊朗专家会议呼吁审议退出《不扩散核武器条约》](https://news.cctv.com/2026/11/13/ARTIZg6CEyZxK2DuCn0NrwT5261113.shtml)
+

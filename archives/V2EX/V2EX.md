@@ -21,3 +21,13 @@
 
 + [如果不用 claude，用什么替代品比较好？](https://www.v2ex.com/t/1256373)
 
++ [[KeyVia 满血中转站] 原生 Claude Fable5.2、GPT-6 Astra 免费用](https://www.v2ex.com/t/1256560)
+
++ [能否探讨一下皮衣黄离职，对英伟达的影响和对 AI 行业的影响？](https://www.v2ex.com/t/1256671)
+
++ [本月起正式停止续费 codex 了](https://www.v2ex.com/t/1256551)
+
++ [猫贷真是让我大开眼界](https://www.v2ex.com/t/1256419)
+
++ [Ruby 是一门值得学习的语言么？](https://www.v2ex.com/t/1256424)
+
