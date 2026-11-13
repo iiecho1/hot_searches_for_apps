@@ -177,3 +177,23 @@
 
 + [伊朗专家会议呼吁审议退出《不扩散核武器条约》](https://news.cctv.com/2026/11/13/ARTIZg6CEyZxK2DuCn0NrwT5261113.shtml)
 
++ [日本核污染水排放总量超19万吨](https://news.cctv.com/2026/11/13/ARTIBZc4m8eaBLoBRDD179s2261113.shtml)
+
++ [聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范](https://news.cctv.com/2026/11/13/ARTIVIUAEPkkmr7Jl7aTIhDU261113.shtml)
+
++ [时隔两个月 伊朗再次打击美军在中东军事设施](https://news.cctv.com/2026/11/13/ARTIthjl1qncMbVt4ozboCa6261113.shtml)
+
++ [内部现分歧 美参议院民主党领袖连任遭挑战](https://news.cctv.com/2026/11/13/ARTIELbO49aFPKgwPakgajUB261113.shtml)
+
++ [巴基斯坦军方称打死74名武装分子](https://news.cctv.com/2026/11/13/ARTIEG2jTv26T9tf5yVGMh75261113.shtml)
+
++ [驻伊尔库茨克总领馆提醒领区中国公民出入境须严格遵守俄海关规定](https://news.cctv.com/2026/11/13/ARTIzf0g5p8gcDOOnr8vdJBW261113.shtml)
+
++ [巴布亚新几内亚附近海域发生5.8级地震 震源深度20千米](https://news.cctv.com/2026/11/13/ARTInczQJN40YEty5CM3oWTQ261113.shtml)
+
++ [库什纳称俄乌双方同意下轮谈判将欧洲国家纳入其中](https://news.cctv.com/2026/11/13/ARTIJFrxPqyTrSRAvZSpLrWE261113.shtml)
+
++ [意大利已有3778所学校收到炸弹威胁邮件 77所实施疏散](https://news.cctv.com/2026/11/13/ARTI7zIsPmEsPcfcX09a816T261113.shtml)
+
++ [徽剧亮相维也纳 “中国戏演出季”落幕](https://photo.cctv.com/2026/11/13/PHOA7W4yQ0yqYkuzQ0bRgu7x261113.shtml)
+

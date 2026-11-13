@@ -99,3 +99,53 @@
 
 + [工业缺陷检测落地实录：YOLO26金属表面划痕识别，从数据集到产线部署全流程](https://blog.csdn.net/shanwei_spider/article/details/170580214)
 
++ [AI 日报（2026年11月11日）](https://blog.csdn.net/u130130/article/details/170505052)
+
++ [AI数据库是什么？我把金仓KES的库内三件套拆开看了一遍](https://blog.csdn.net/2302_78391795/article/details/170688539)
+
++ [AI数据库落地记：一次自然语言问数项目的三道关](https://blog.csdn.net/COLLINSXU/article/details/170689409)
+
++ [Windows 11 KB5132061 更新解读：打印、音频、远程桌面与 PowerShell 签名](https://blog.csdn.net/weixin_47431459/article/details/170557559)
+
++ [大模型应用上线后看什么指标？用 FastAPI + Prometheus 监控延迟、Token 和错误率](https://blog.csdn.net/2403_86779341/article/details/170662722)
+
++ [【L2CAP】规范精讲[3]: 数据包格式全解——五种帧型、三代控制字段与分段重组](https://blog.csdn.net/weixin_37800531/article/details/170247230)
+
++ [【AI智能体】LangChain Agent 从使用到实战操作详解](https://blog.csdn.net/congge_study/article/details/165969546)
+
++ [【人工智能驱动的电催化研究-06】函数、参数、返回值与错误定位](https://blog.csdn.net/2402_84593233/article/details/170689437)
+
++ [AI Coding＋Flowable：用AI开发审批单，怎样从页面走到可运行的业务？](https://blog.csdn.net/zhouzhongyan/article/details/169140225)
+
++ [QT：信号与槽](https://blog.csdn.net/jiaomorning/article/details/170648082)
+
++ [第三台服务器开始，我就不想再手装Docker了：Ansible把重复配置一次写成Playbook](https://blog.csdn.net/2301_80840905/article/details/170712381)
+
++ [认识全新的 Elastic 数据流：面向遥测数据的托管数据管道](https://blog.csdn.net/UbuntuTouch/article/details/170706802)
+
++ [[GaussDB] M 兼容模式实战：使用 MySQL‑JDBC 驱动连接完整配置指南](https://blog.csdn.net/GaussDB/article/details/170732668)
+
++ [Redis持久化三剑客：RDB二进制快照、AOF文本日志、混合模式如何守护你的数据安全？](https://blog.csdn.net/2401_82648291/article/details/150842567)
+
++ [Docker 从 systemd 托管容器、overlay2 存储驱动到 Compose 多容器实战](https://blog.csdn.net/wz9754/article/details/170626475)
+
++ [Linux 文件系统（上）：从磁盘的一个扇区，到 inode 的一个编号](https://blog.csdn.net/2501_94404690/article/details/170549674)
+
++ [SpringBoot 项目搭建方式](https://blog.csdn.net/carlos20031004/article/details/170654869)
+
++ [Agent 上线第一天就炸了：6 个生产事故的根因分析与修复记录](https://blog.csdn.net/sinat_41617212/article/details/170490727)
+
++ [关于一些大学生技术学习时间管理的个人观点](https://blog.csdn.net/JYF2007ABC/article/details/170562392)
+
++ [watermark-webui盲水印教程：NAS部署、隐藏水印嵌入提取与远程访问](https://blog.csdn.net/baronbool/article/details/170456264)
+
++ [Docker 进阶实战：存储驱动 Overlay2 + Compose 多容器编排 + 图形化管理](https://blog.csdn.net/ShiqingfengA/article/details/170625956)
+
++ [MySQL系统篇，库的操作(三)：建库、字符集校验规则与备份恢复](https://blog.csdn.net/dasdasfv/article/details/170458452)
+
++ [校园二手数码交易平台的设计与实现（SpringBoot+Vue3，9 种筛选交叉组合+状态机，30 个测试用例背书）](https://blog.csdn.net/qq_45896330/article/details/170458188)
+
++ [HTTPS：浏览器地址栏那把锁的工作原理](https://blog.csdn.net/qq_53139964/article/details/170661367)
+
++ [Trae 的 .trae 目录到底怎么用：rules、commands、skills 三层机制与一棵典型目录树的落地拆解](https://blog.csdn.net/2301_79239314/article/details/170710706)
+

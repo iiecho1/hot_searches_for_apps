@@ -31,3 +31,19 @@
 
 + [Ruby 是一门值得学习的语言么？](https://www.v2ex.com/t/1256424)
 
++ [周五了，大家周末有什么安排](https://www.v2ex.com/t/1256699)
+
++ [九宫格输入法，感觉在一步步衰落。。](https://www.v2ex.com/t/1256717)
+
++ [得罪了老婆，做了个小程序](https://www.v2ex.com/t/1256673)
+
++ [速薅！ Muse 免费 TG 机器人领取 30 亿 token～](https://www.v2ex.com/t/1256663)
+
++ [同事老婆昨天被诈骗了 2W+，分享下骗局](https://www.v2ex.com/t/1256725)
+
++ [微软是不是裁到大动脉了， Outlook 故障好几个小时了，美国客户会议都开不起来了](https://www.v2ex.com/t/1256701)
+
++ [做了个好看的 Mac 系统监控软件 Ebb，送 15 个激活码，求 v 友拍砖](https://www.v2ex.com/t/1256714)
+
++ [强行让自己看了半个多小时的 AI 短剧](https://www.v2ex.com/t/1256754)
+
