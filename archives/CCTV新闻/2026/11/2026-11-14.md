@@ -167,3 +167,9 @@
 
 + [阿根廷大首都区发生燃气爆炸致20余人受伤](https://news.cctv.com/2026/11/14/ARTIQAVD6LZqH9XIMoEXqj9A261114.shtml)
 
++ [一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释](https://news.cctv.com/2026/11/14/ARTI5Svi0GarmbN2LZS9zZMq261114.shtml)
+
++ [古巴国家主席：古巴决心抵制任何外国军事侵略企图](https://news.cctv.com/2026/11/14/ARTIVpS6nUqsNfmEZRtIcOCO261114.shtml)
+
++ [美媒：全美航班停飞令已解除](https://news.cctv.com/2026/11/14/ARTIzKli6aDdKPPkyBMbVYuB261114.shtml)
+

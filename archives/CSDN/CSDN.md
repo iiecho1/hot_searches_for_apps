@@ -123,3 +123,43 @@
 
 + [【嵌入式与机器人实战笔记01】智能除草机器人硬件总览：Jetson 管什么、STM32 管什么](https://blog.csdn.net/xinjiyaya/article/details/170600699)
 
++ [AI数据库不能只存向量：知识版本、访问范围和引用都要管起来](https://blog.csdn.net/Mrxiao_bo/article/details/170564189)
+
++ [龙邱科技无线有线双模电磁门 信标系统（兼容原信标系统）V2.0](https://blog.csdn.net/zhuoqingjoking97298/article/details/170762871)
+
++ [Microsoft 365 全球服务故障：Outlook邮箱连接受影响，企业用户如何应对？](https://blog.csdn.net/weixin_47431459/article/details/170701009)
+
++ [神经网络是如何学习的？（关于损失函数，梯度下降，反向传播，梯度消失详解）](https://blog.csdn.net/JYF2007ABC/article/details/170744183)
+
++ [【Linux网络】深入数据链路层：从 MAC 帧、CRC 到 ARP 的一次完整旅程](https://blog.csdn.net/yhrxh_ymq/article/details/170601236)
+
++ [《C++ 项目：手写大模型接入 SDK》会话模块整合：内存 SessionManager 与 DataManager 持久化联动](https://blog.csdn.net/2501_91275995/article/details/170658826)
+
++ [时序数据库选型的硬问题：乱序、分区与尾延迟，如何做一次可信的 PoC](https://blog.csdn.net/hanwangyyds/article/details/170744457)
+
++ [Linux网络篇——TCP(五).从发送缓冲区到滑动窗口，深入理解 TCP 如何实现高效可靠传输](https://blog.csdn.net/2401_87941709/article/details/170612878)
+
++ [changedetection.io 自托管监控：Docker 部署、变更提醒与公网暴露全记录](https://blog.csdn.net/2301_78967866/article/details/170738213)
+
++ [CI/CD 流水线：GitLab + Jenkins + Docker 部署实战](https://blog.csdn.net/xianyuCcCcCCCcc/article/details/170557060)
+
++ [我对 AgentDevOps 开发运维一体化设计](https://blog.csdn.net/github_36463939/article/details/170744159)
+
++ [用华为云码道构建校园导航应用「新生通」：从需求分析到工程落地](https://blog.csdn.net/2403_87838053/article/details/170740080)
+
++ [Swarm-Rebuild-详细说明](https://blog.csdn.net/qq_36977923/article/details/170585831)
+
++ [【数据世界的漫游者】库的一生：MySQL 数据库创建、修改与删除](https://blog.csdn.net/buhuizhiyuci/article/details/170553173)
+
++ [[Web3] 智能合约 03: 函数/事件/继承/接口/异常处理](https://blog.csdn.net/YangCheney/article/details/170091787)
+
++ [WordPress 高级开发：如何通过子主题与 Hook 构建高扩展性架构？](https://blog.csdn.net/weixin_62306697/article/details/170559878)
+
++ [Day5 - Flink SQL 生产实战：连接器、CEP、Checkpoint 与 PyFlink UDF](https://blog.csdn.net/YEEMOLY/article/details/170556365)
+
++ [国产FPGA的EDA工具，和Xilinx差在哪？](https://blog.csdn.net/unicrom/article/details/170727860)
+
++ [Spring Boot 生产环境彻底隐藏 Swagger/Knife4j 接口文档的三种方案](https://blog.csdn.net/weixin_44172378/article/details/170688964)
+
++ [微信小程序打开另一个小程序失败、半屏弹不出来甚至从那边回来拿不到数据？navigateToMiniProgram 怎么接才稳](https://blog.csdn.net/lgm252008/article/details/170614367)
+

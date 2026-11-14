@@ -49,3 +49,11 @@
 
 + [黄仁勋卸任英伟达 CEO：约 1.08 亿美元股权奖励作废，约占其身价的 0.08%](https://m.ithome.com/html/1026513.htm)
 
++ [小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等](https://m.ithome.com/html/1026898.htm)
+
++ [鸿蒙智行问界新 M8 正式上市，37.98 万-46.98 万元](https://m.ithome.com/html/1026799.htm)
+
++ [华为 Mate X8 真机曝光：搭载 8 英寸京东方新屏 + 超平整折痕技术](https://m.ithome.com/html/1026679.htm)
+
++ [DeepSeek 发布全家桶应用 API：开发者将能 1:1 复刻完整 DeepSeek App](https://m.ithome.com/html/1026960.htm)
+
