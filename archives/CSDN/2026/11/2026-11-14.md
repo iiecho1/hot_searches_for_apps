@@ -163,3 +163,41 @@
 
 + [微信小程序打开另一个小程序失败、半屏弹不出来甚至从那边回来拿不到数据？navigateToMiniProgram 怎么接才稳](https://blog.csdn.net/lgm252008/article/details/170614367)
 
++ [【AI大模型接入SDK】历史消息时间戳问题与时间戳问题](https://blog.csdn.net/2401_89899187/article/details/170771570)
+
++ [【AI 编程】Vibe Coding 介绍（上）：从大语言模型到人机协作，先把开发方法想明白](https://blog.csdn.net/weixin_64304261/article/details/170769799)
+
++ [【Linux网络】TCP 半包粘包怎么解决？从长度报头、JSON 拆包到网络计算器完整实战](https://blog.csdn.net/2402_87731470/article/details/170444769)
+
++ [DolphinDB 工业IoT故障根因定位实战：告警时间聚类与设备拓扑传播分析](https://blog.csdn.net/Rqaqedamancy/article/details/170745057)
+
++ [链路利用率与带宽规划预警：网络性能管理的核心指标](https://blog.csdn.net/qq_41840843/article/details/170761891)
+
++ [从 TsFile 到 TPCx-IoT 榜首：Apache IoTDB 的 2465 万 IoTps 是怎么来的](https://blog.csdn.net/qq_57761637/article/details/170744950)
+
++ [【开源评测】Mika：手机Agent的关键，不只是能点按钮，还有谁授权它继续](https://blog.csdn.net/TunerT_TQ/article/details/170707083)
+
++ [我给两个 AI 当了几天传送带，直到在 Mac 上装上这个开源引擎](https://blog.csdn.net/sjw890821sjw/article/details/170592947)
+
++ [Linux 静态库与动态库详解：从制作使用到 ELF、程序加载与 GOT/PLT](https://blog.csdn.net/2601_94861874/article/details/170586092)
+
++ [揭秘冯诺依曼架构下的进程生死时速](https://blog.csdn.net/2501_94547070/article/details/170713987)
+
++ [C++ 异常处理机制详解：从概念到工程实践](https://blog.csdn.net/2603_95728536/article/details/170776708)
+
++ [分布式 Agent OS：架构设计与工程实践](https://blog.csdn.net/universsky2015/article/details/170775286)
+
++ [MoE 架构解析：从 Token 路由到专家并行](https://blog.csdn.net/2501_94734507/article/details/170776272)
+
++ [C++20协程怎么运行？原理与三大核心组件深度剖析](https://blog.csdn.net/Lucis__/article/details/170773661)
+
++ [用 Nexent 核对 SaaS 合同：知识库好上手，审批结论还得复核](https://blog.csdn.net/m0_68390957/article/details/170590383)
+
++ [Spring AOP](https://blog.csdn.net/budingxiaomoli/article/details/170549187)
+
++ [TDengine IDMP 功能点—批量建模](https://blog.csdn.net/ticktick999/article/details/170778570)
+
++ [OpenAI 测评开源3D虚拟陪伴项目之xiaokeai](https://blog.csdn.net/qq_27093891/article/details/170741706)
+
++ [换 embedding 模型后新旧向量混查实测：只升查询端 hit@10 只剩 0.0006–0.0022，分数合并照样崩](https://blog.csdn.net/CCbleach/article/details/170744938)
+

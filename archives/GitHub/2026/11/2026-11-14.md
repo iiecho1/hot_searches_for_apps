@@ -25,3 +25,17 @@
 
 + [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
++ [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+
++ [dream-num/univer](https://github.com/dream-num/univer)
+
++ [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+
++ [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
+
++ [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
++ [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+
++ [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)
+

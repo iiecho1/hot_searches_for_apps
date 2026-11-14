@@ -41,3 +41,19 @@
 
 + [「送码」人生第一款上架的 iOS 版 App，一款不需要做选择的好看的计算器](https://www.v2ex.com/t/1256829)
 
++ [iOS 原生多论坛客户端： V2EX / NGA / Linux .do / Chiphell / 4D4Y 一个 App 刷，抽 10 个半年 Pro](https://www.v2ex.com/t/1257030)
+
++ [GPT 官 Key 免费用。蹬完即止](https://www.v2ex.com/t/1256998)
+
++ [很多火的东西，理解不了为什么火](https://www.v2ex.com/t/1256990)
+
++ [睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了](https://www.v2ex.com/t/1257008)
+
++ [换了个新 macbook air m5 有没有推荐的软件安装](https://www.v2ex.com/t/1257002)
+
++ [最近做了一个运行在 iPhone 的 agent](https://www.v2ex.com/t/1256987)
+
++ [纠结， Mac 有必要买 AC+么](https://www.v2ex.com/t/1257035)
+
++ [会不会有一天再也看不到人写的东西了](https://www.v2ex.com/t/1256988)
+
