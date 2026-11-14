@@ -161,3 +161,9 @@
 
 + [土耳其西部一钢铁厂发生爆炸 死亡人数升至16人](https://news.cctv.com/2026/11/10/ARTItSQBqUvrV7Le4TYgPhQU261110.shtml)
 
++ [以军总参谋长主张暂缓对伊朗动武 多名以高官反对](https://news.cctv.com/2026/11/14/ARTIprkFiV75BYAZyX2gZf2T261114.shtml)
+
++ [微软就全球服务中断道歉 称故障非网络攻击所致](https://news.cctv.com/2026/11/14/ARTIcp9G5NhU2UCxXvTWKF98261114.shtml)
+
++ [阿根廷大首都区发生燃气爆炸致20余人受伤](https://news.cctv.com/2026/11/14/ARTIQAVD6LZqH9XIMoEXqj9A261114.shtml)
+

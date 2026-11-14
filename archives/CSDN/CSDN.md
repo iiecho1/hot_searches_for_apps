@@ -99,3 +99,27 @@
 
 + [把设计院的 Excel 柜表自动画成电力一次接线图：坐标手算、带电判定与 iframe 潮流协议](https://blog.csdn.net/aZHANGJIANZHENa/article/details/170610669)
 
++ [AI Agent 08](https://blog.csdn.net/2401_88601046/article/details/170744018)
+
++ [【H11攻坚日志｜D196+D197】归一化交互向量L²均值与独立向量和二阶矩：超立方体Ramsey形式化审计链路推进](https://blog.csdn.net/TunerT_TQ/article/details/170554052)
+
++ [大数据Spark（八十八）：Spark任务资源之Standalone集群测试](https://blog.csdn.net/xiaoweite1/article/details/170744471)
+
++ [《C++ 项目：手写大模型接入 SDK》DataManager数据管理模块：SQLite持久化存储](https://blog.csdn.net/2501_91275995/article/details/170652824)
+
++ [Ollama 集群实战：Mac 拼成统一显存池](https://blog.csdn.net/superdangbo/article/details/170741402)
+
++ [【笔记】 COG（Cloud Optimized GeoTIFF）技术介绍](https://blog.csdn.net/qq_41140324/article/details/170545885)
+
++ [Linux 文件系统（上）：从磁盘的一个扇区，到 inode 的一个编号](https://blog.csdn.net/2501_94404690/article/details/170549674)
+
++ [BcoreOS安全通信架构：FsSession 抗算法后门安全设计](https://blog.csdn.net/zhangrui_fslib_org/article/details/170656830)
+
++ [Navidrome飞牛NAS部署教程：私人音乐库、多端播放与远程访问](https://blog.csdn.net/2602_94956987/article/details/170709475)
+
++ [Swift 也能做爬虫：URLSession、HTML 解析与数据可视化全流程解析](https://blog.csdn.net/Z_suger7/article/details/170623101)
+
++ [RISC-V汇编语言与编译流程](https://blog.csdn.net/weixin_43903002/article/details/170590476)
+
++ [【嵌入式与机器人实战笔记01】智能除草机器人硬件总览：Jetson 管什么、STM32 管什么](https://blog.csdn.net/xinjiyaya/article/details/170600699)
+
