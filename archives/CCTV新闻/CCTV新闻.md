@@ -1,5 +1,17 @@
 ## CCTV新闻 
-### 2026-11-14
+### 2026-11-15
+
++ [一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释](https://news.cctv.com/2026/11/14/ARTI5Svi0GarmbN2LZS9zZMq261114.shtml)
+
++ [古巴国家主席：古巴决心抵制任何外国军事侵略企图](https://news.cctv.com/2026/11/14/ARTIVpS6nUqsNfmEZRtIcOCO261114.shtml)
+
++ [美媒：全美航班停飞令已解除](https://news.cctv.com/2026/11/14/ARTIzKli6aDdKPPkyBMbVYuB261114.shtml)
+
++ [以军总参谋长主张暂缓对伊朗动武 多名以高官反对](https://news.cctv.com/2026/11/14/ARTIprkFiV75BYAZyX2gZf2T261114.shtml)
+
++ [微软就全球服务中断道歉 称故障非网络攻击所致](https://news.cctv.com/2026/11/14/ARTIcp9G5NhU2UCxXvTWKF98261114.shtml)
+
++ [阿根廷大首都区发生燃气爆炸致20余人受伤](https://news.cctv.com/2026/11/14/ARTIQAVD6LZqH9XIMoEXqj9A261114.shtml)
 
 + [俄外交部：俄美会晤未讨论欧洲参与乌克兰问题谈判事宜](https://news.cctv.com/2026/11/14/ARTI03CSEexQkwBcyxPecik9261114.shtml)
 
@@ -148,28 +160,4 @@
 + [塞内加尔北部沉船事故死亡人数升至39人](https://news.cctv.com/2026/11/10/ARTIqbnUGKOJFcpdQmuvECcw261110.shtml)
 
 + [俄副外长重申俄无意进攻欧洲国家](https://news.cctv.com/2026/11/10/ARTIV3Qn0RUXsbbEz9I2AbgF261110.shtml)
-
-+ [埃及列车相撞死伤超百人 调查显示多方存在玩忽职守](https://news.cctv.com/2026/11/10/ARTIAi4TWcfATdfplsHXnnI9261110.shtml)
-
-+ [美国白宫附近发生两起安全事件 两人被捕](https://news.cctv.com/2026/11/10/ARTIoRW4cpzRAjFfd31toXa6261110.shtml)
-
-+ [以军在约旦河西岸抓捕10名杰哈德组织成员](https://news.cctv.com/2026/11/10/ARTIwxI1nLvktWO7oTJ11dE1261110.shtml)
-
-+ [法国就网络攻击事件召见伊朗大使 警告将实施制裁](https://news.cctv.com/2026/11/10/ARTIsQChvCvwCrCqPAXjKD0D261110.shtml)
-
-+ [以方认定迪拜航空航班遇袭事件乘客为敌对事件受害者](https://news.cctv.com/2026/11/10/ARTIcQQbSjrbXGfgliL4N22m261110.shtml)
-
-+ [土耳其西部一钢铁厂发生爆炸 死亡人数升至16人](https://news.cctv.com/2026/11/10/ARTItSQBqUvrV7Le4TYgPhQU261110.shtml)
-
-+ [以军总参谋长主张暂缓对伊朗动武 多名以高官反对](https://news.cctv.com/2026/11/14/ARTIprkFiV75BYAZyX2gZf2T261114.shtml)
-
-+ [微软就全球服务中断道歉 称故障非网络攻击所致](https://news.cctv.com/2026/11/14/ARTIcp9G5NhU2UCxXvTWKF98261114.shtml)
-
-+ [阿根廷大首都区发生燃气爆炸致20余人受伤](https://news.cctv.com/2026/11/14/ARTIQAVD6LZqH9XIMoEXqj9A261114.shtml)
-
-+ [一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释](https://news.cctv.com/2026/11/14/ARTI5Svi0GarmbN2LZS9zZMq261114.shtml)
-
-+ [古巴国家主席：古巴决心抵制任何外国军事侵略企图](https://news.cctv.com/2026/11/14/ARTIVpS6nUqsNfmEZRtIcOCO261114.shtml)
-
-+ [美媒：全美航班停飞令已解除](https://news.cctv.com/2026/11/14/ARTIzKli6aDdKPPkyBMbVYuB261114.shtml)
 
