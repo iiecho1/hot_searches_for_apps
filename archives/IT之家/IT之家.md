@@ -25,3 +25,27 @@
 
 + [黄仁勋卸任英伟达 CEO：约 1.08 亿美元股权奖励作废，约占其身价的 0.08%](https://m.ithome.com/html/1026513.htm)
 
++ [马斯克声援黄仁勋：将签署请愿，支持其重返英伟达 CEO 岗位](https://m.ithome.com/html/1027033.htm)
+
++ [超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名](https://m.ithome.com/html/1027125.htm)
+
++ [黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回](https://m.ithome.com/html/1027233.htm)
+
++ [华为麒麟 9050 系列新马良 GPU、AI ISP 情报公开：实装二代硬件光追，首次实现 2 亿像素融合拍照](https://m.ithome.com/html/1027181.htm)
+
++ [高速上开智驾睡觉还载着一家人？青岛交警查处最新违法案例公布](https://m.ithome.com/html/1027012.htm)
+
++ [配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场](https://m.ithome.com/html/1027057.htm)
+
++ [黄仁勋离任 CEO 之际，英伟达品牌推广人员弗里曼称 GeForce 显卡不会终结](https://m.ithome.com/html/1027212.htm)
+
++ [DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案](https://m.ithome.com/html/1027038.htm)
+
++ [华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订：折叠 10.7 英寸，展开 14.7 英寸](https://m.ithome.com/html/1027053.htm)
+
++ [堪比蓝屏“灭霸”事件：微软 2026 最严重宕机重创全球金融业，交易员被迫改用传真](https://m.ithome.com/html/1027138.htm)
+
++ [消息称华硕 / 技嘉显卡工厂已执行最新成本价格调整政策：RTX5080 系列涨 1000 元、5060 涨 150 元](https://m.ithome.com/html/1027178.htm)
+
++ [用户反馈《GTA 6》实体包装盒存在漏洞：强光照射可直接透视下载码，无需拆封即可兑换](https://m.ithome.com/html/1027073.htm)
+

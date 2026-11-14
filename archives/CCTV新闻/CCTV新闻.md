@@ -161,3 +161,11 @@
 
 + [俄副外长重申俄无意进攻欧洲国家](https://news.cctv.com/2026/11/10/ARTIV3Qn0RUXsbbEz9I2AbgF261110.shtml)
 
++ [伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸](https://news.cctv.com/2026/11/15/ARTIX8jJHNLCHAzzXuZTZicj261115.shtml)
+
++ [哥伦比亚西南部发生一起交通事故 已致8死20伤](https://news.cctv.com/2026/11/15/ARTIbrfMhHzAyLoeJ6pZxAnk261115.shtml)
+
++ [未经同意读取用户手机相册 意大利对Meta罚款超8亿欧元](https://news.cctv.com/2026/11/15/ARTIbvFrrCXRkQ9px0K2gUAN261115.shtml)
+
++ [美“星舰”飞船首次被发射塔机械臂“捕获”回收](https://news.cctv.com/2026/11/15/ARTIPzM6XAPF2GRTVUHLkQkt261115.shtml)
+

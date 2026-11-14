@@ -101,3 +101,29 @@
 
 + [深入实践：Spark on Kubernetes 原生模式部署与避坑指南](https://blog.csdn.net/zmm0628/article/details/170614991)
 
++ [【人工智能驱动的电催化研究-06】函数、参数、返回值与错误定位](https://blog.csdn.net/2402_84593233/article/details/170689437)
+
++ [【花雕动手做】ESP-Mosaico Claw 界面全解：吃透 Device-Chat、ChatCoding 与会话管理](https://blog.csdn.net/weixin_41659040/article/details/170581669)
+
++ [从0到1搭一个能扩展的智能体框架](https://blog.csdn.net/2503_94545876/article/details/170743220)
+
++ [rust 1.100.0 发布：Never 类型、定制分配器、Cargo 依赖冷却与平台支持全面升级](https://blog.csdn.net/weixin_48502062/article/details/170778451)
+
++ [开源权重部署实战：vLLM/SGLang 选型算清](https://blog.csdn.net/superdangbo/article/details/170777823)
+
++ [GR00T 2——面向泛化、灵巧与适应性的机器人基模扩展：由Wan 2.1视频VAE、Cosmos-Reason1 VLM、MLP构成](https://blog.csdn.net/v_JULY_v/article/details/170458603)
+
++ [Java 项目实战: 交友项目 - 用户管理：查看用户视频记录列表](https://blog.csdn.net/Tyro_java/article/details/170740898)
+
++ [国产FPGA的EDA工具，和Xilinx差在哪？](https://blog.csdn.net/unicrom/article/details/170727860)
+
++ [HTML5 Web Audio API：在网页里做音频可视化](https://blog.csdn.net/2603_94941287/article/details/170722290)
+
++ [FactoryIO两轴机器人搬运S7-200PLC仿真](https://blog.csdn.net/2601_97474956/article/details/170777702)
+
++ [Spring AOP](https://blog.csdn.net/budingxiaomoli/article/details/170549187)
+
++ [GitHub 今日推荐｜Stela：在 PC 上直接启动 macOS 的翻译层](https://blog.csdn.net/weixin_40013817/article/details/170700728)
+
++ [什么是水面蒸发监测站？基于 4G 物联网水面蒸发传感器野外部署方案详解](https://blog.csdn.net/sun15369027572/article/details/170689802)
+
