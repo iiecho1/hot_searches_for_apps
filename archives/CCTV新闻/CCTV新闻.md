@@ -1,5 +1,15 @@
 ## CCTV新闻 
-### 2026-11-15
+### 2026-11-16
+
++ [也门胡塞武装单方面宣布释放600名被俘人员](https://news.cctv.com/2026/11/15/ARTIG67NVY0hp0xJvyMEYxxq261115.shtml)
+
++ [伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸](https://news.cctv.com/2026/11/15/ARTIX8jJHNLCHAzzXuZTZicj261115.shtml)
+
++ [哥伦比亚西南部发生一起交通事故 已致8死20伤](https://news.cctv.com/2026/11/15/ARTIbrfMhHzAyLoeJ6pZxAnk261115.shtml)
+
++ [未经同意读取用户手机相册 意大利对Meta罚款超8亿欧元](https://news.cctv.com/2026/11/15/ARTIbvFrrCXRkQ9px0K2gUAN261115.shtml)
+
++ [美“星舰”飞船首次被发射塔机械臂“捕获”回收](https://news.cctv.com/2026/11/15/ARTIPzM6XAPF2GRTVUHLkQkt261115.shtml)
 
 + [一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释](https://news.cctv.com/2026/11/14/ARTI5Svi0GarmbN2LZS9zZMq261114.shtml)
 
@@ -150,24 +160,4 @@
 + [特朗普称伊朗战事已“事实上结束”](https://news.cctv.com/2026/11/10/ARTIghwXOri62jwncf27sLSq261110.shtml)
 
 + [俄常驻联合国代表称不接受“冻结”乌克兰冲突](https://news.cctv.com/2026/11/10/ARTIMb8c243DE6uJK2m4zOqA261110.shtml)
-
-+ [希腊一渡轮收到炸弹警报 近千人被疏散](https://news.cctv.com/2026/11/10/ARTIIzpdKb8BIA2fcadZnNLY261110.shtml)
-
-+ [美国2026财年联邦预算赤字达2万亿美元](https://news.cctv.com/2026/11/10/ARTIsgHrwjvqtPrr9FWEisFw261110.shtml)
-
-+ [联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口](https://news.cctv.com/2026/11/10/ARTICQso06tvLuJRyHSpJ0Ea261110.shtml)
-
-+ [塞内加尔北部沉船事故死亡人数升至39人](https://news.cctv.com/2026/11/10/ARTIqbnUGKOJFcpdQmuvECcw261110.shtml)
-
-+ [俄副外长重申俄无意进攻欧洲国家](https://news.cctv.com/2026/11/10/ARTIV3Qn0RUXsbbEz9I2AbgF261110.shtml)
-
-+ [伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸](https://news.cctv.com/2026/11/15/ARTIX8jJHNLCHAzzXuZTZicj261115.shtml)
-
-+ [哥伦比亚西南部发生一起交通事故 已致8死20伤](https://news.cctv.com/2026/11/15/ARTIbrfMhHzAyLoeJ6pZxAnk261115.shtml)
-
-+ [未经同意读取用户手机相册 意大利对Meta罚款超8亿欧元](https://news.cctv.com/2026/11/15/ARTIbvFrrCXRkQ9px0K2gUAN261115.shtml)
-
-+ [美“星舰”飞船首次被发射塔机械臂“捕获”回收](https://news.cctv.com/2026/11/15/ARTIPzM6XAPF2GRTVUHLkQkt261115.shtml)
-
-+ [也门胡塞武装单方面宣布释放600名被俘人员](https://news.cctv.com/2026/11/15/ARTIG67NVY0hp0xJvyMEYxxq261115.shtml)
 

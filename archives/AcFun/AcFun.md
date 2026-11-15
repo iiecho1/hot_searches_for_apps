@@ -1,115 +1,63 @@
 ## AcFun 
-### 2026-11-15
-
-+ [《不怕汤姆搞抽象，就怕有图有真相》](https://m.acfun.cn/v/?ac=48988572)
-
-+ [店铺地址在哪里？★手机竖屏2064★](https://m.acfun.cn/v/?ac=48989462)
-
-+ [影之刃零差1%输掉年度游戏，玩家却在问这奖啥时候投的【绅批】](https://m.acfun.cn/v/?ac=48990949)
-
-+ [两个月前寄的快递最近在疯狂送达中](https://m.acfun.cn/v/?ac=48989779)
-
-+ [紫色更有韵味](https://m.acfun.cn/v/?ac=48991392)
-
-+ [【东方】推特东方小视频选集 第277期](https://m.acfun.cn/v/?ac=48990659)
-
-+ [网络上常见的热门短视频集锦   第三千五百四十四期](https://m.acfun.cn/v/?ac=48989466)
-
-+ [网络上常见的热门短视频集锦   第三千五百四十五期](https://m.acfun.cn/v/?ac=48990223)
-
-+ [今天想我了吗？欢乐八点档-1832](https://m.acfun.cn/v/?ac=48990757)
-
-+ [上岸穿搭【今天有什么好笑的 #2566】](https://m.acfun.cn/v/?ac=48990648)
-
-+ [带狗自驾露营，秋末的银杏和篝火烧烤太治愈](https://m.acfun.cn/v/?ac=48990797)
-
-+ [好媚的心月狐！](https://m.acfun.cn/v/?ac=48989420)
-
-+ [ “我画DJ为牢啊厉娜！](https://m.acfun.cn/v/?ac=48990475)
-
-+ [【现切桃片】百年孤寂-一百年后没有你也没有我](https://m.acfun.cn/v/?ac=48990891)
-
-+ [人均20多元！酒客私藏，镇江开了20年的大排档](https://m.acfun.cn/v/?ac=48990215)
-
-+ [这袜子太清新了](https://m.acfun.cn/v/?ac=48990704)
-
-+ [我说旧手机拍照真有点说法吧](https://m.acfun.cn/v/?ac=48990753)
-
-+ [被自己帅到了 谁来救救我！](https://m.acfun.cn/v/?ac=48989579)
-
-+ [【懒銀LIVE】写故事的人](https://m.acfun.cn/v/?ac=48988106)
-
-+ [【UP创作大赛】【cos】琼华弟子柳梦璃](https://m.acfun.cn/v/?ac=48991020)
-
-+ [胡中更有胡中手！你见过最胡的是什么？海克斯大乱斗天胡集锦#25](https://m.acfun.cn/v/?ac=48980948)
-
-+ [金杯不就是这么被整的嘛](https://m.acfun.cn/v/?ac=48989815)
-
-+ [73.巨龙的黎明：从“边缘小透明”到“中生代老大”](https://m.acfun.cn/v/?ac=48972262)
-
-+ [【Dina小崽】桂林阳朔~山水一城](https://m.acfun.cn/v/?ac=48953577)
-
-+ [【官方双语】大家对iPhone Duo几乎全都错了！iPhone Duo评测#linus谈科技](https://m.acfun.cn/v/?ac=48990375)
-
-+ [当我挑战极限硬拉时，瞬间被劝退](https://m.acfun.cn/v/?ac=48990652)
-
-+ [【DAY1】MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 - DAY1](https://m.acfun.cn/v/?ac=48991563)
-
-+ [万全之策全试用攻略！必过10层拿满灵玉奖励！](https://m.acfun.cn/v/?ac=48991294)
-
-+ [此猫非常肥美但是会揍人](https://m.acfun.cn/v/?ac=48990253)
-
-+ [【铁拳8】袋鼠民工连【TEKKEN8]](https://m.acfun.cn/v/?ac=48990782)
-
-+ [看见鬼就要被送进疯人院？《欢迎来到德里镇》第二集](https://m.acfun.cn/v/?ac=48991070)
-
-+ [【深空当铺】（第三集）出售汉明威香烟让我处刑时间变成明天黎明](https://m.acfun.cn/v/?ac=48988095)
-
-+ [怎么还笑场了呢？★手机竖屏2065★](https://m.acfun.cn/v/?ac=48991331)
-
-+ [idontwannabeyouanymore](https://m.acfun.cn/v/?ac=48991789)
-
-+ [记录一下两个月没收拾的后院](https://m.acfun.cn/v/?ac=48978305)
-
-+ [[伴奏](椎名もた)nee](https://m.acfun.cn/v/?ac=48990327)
-
-+ [【逛吃天津】超长塔可巨大寿司饭！哦吗卡塞还是得吃放题的，管够](https://m.acfun.cn/v/?ac=48990817)
-
-+ [【民工杂谈】jump发家简史08：为啥说北条司是jump体系里的异端](https://m.acfun.cn/v/?ac=48993001)
+### 2026-11-16
 
 + [网络上常见的热门短视频集锦   第三千五百四十六期](https://m.acfun.cn/v/?ac=48991341)
 
-+ [又教会兄弟一道“拔丝苹果”，香脆清甜，就是有一点费油](https://m.acfun.cn/v/?ac=48992937)
++ [记录一下两个月没收拾的后院](https://m.acfun.cn/v/?ac=48978305)
+
++ [【民工杂谈】jump发家简史08：为啥说北条司是jump体系里的异端](https://m.acfun.cn/v/?ac=48993001)
+
++ [怎么还笑场了呢？★手机竖屏2065★](https://m.acfun.cn/v/?ac=48991331)
 
 + [20261115：交通车祸实例，提高安全驾驶意识](https://m.acfun.cn/v/?ac=48992267)
 
-+ [英雄联盟水友模拟总决赛](https://m.acfun.cn/v/?ac=48992039)
++ [网络上常见的热门短视频集锦   第三千五百四十七期](https://m.acfun.cn/v/?ac=48992281)
 
-+ [【绝望女神/翻唱】【ib:恐怖美术馆 玛丽主题歌 木偶】](https://m.acfun.cn/v/?ac=48991160)
++ [画质越老实力越强](https://m.acfun.cn/v/?ac=48974841)
 
-+ [【异世界转生部实习生】任务执行中！](https://m.acfun.cn/v/?ac=48991988)
++ [老师还收学生吗？欢乐八点档-1833](https://m.acfun.cn/v/?ac=48992288)
+
++ [idontwannabeyouanymore](https://m.acfun.cn/v/?ac=48991789)
 
 + [天鹅湖转了一个圈圈圈圈](https://m.acfun.cn/v/?ac=48991690)
 
++ [二相乐园女团..？我怎么会做这样的梦](https://m.acfun.cn/v/?ac=48993402)
+
++ [克莱因蓝](https://m.acfun.cn/v/?ac=48993009)
+
++ [又教会兄弟一道“拔丝苹果”，香脆清甜，就是有一点费油](https://m.acfun.cn/v/?ac=48992937)
+
 + [夏日奇迹 ](https://m.acfun.cn/v/?ac=48992239)
 
-+ [BESTie Excuse me](https://m.acfun.cn/v/?ac=48991634)
++ [美国当年能套住沙特，为什么套不住中国？](https://m.acfun.cn/v/?ac=48993588)
 
-+ [EXID Hot Pink](https://m.acfun.cn/v/?ac=48991630)
++ [今天是红头发](https://m.acfun.cn/v/?ac=48993405)
 
-+ [나나의 청순함 가득한 청바지 핏](https://m.acfun.cn/v/?ac=48991121)
++ [圆叔试吃：09集体食品大麦饭配清蒸牛肉罐头](https://m.acfun.cn/v/?ac=48993175)
 
-+ [【官方双语】24GB变48GB - Luke的4090显存翻倍之旅#linus谈科技](https://m.acfun.cn/v/?ac=48991849)
++ [【东方/AI/爵士】东方红魔乡 爵士Arrange串烧](https://m.acfun.cn/v/?ac=48984823)
 
-+ [网络上常见的热门短视频集锦   第三千五百四十七期](https://m.acfun.cn/v/?ac=48992281)
++ [【奧雷】终极扶弟魔能培养出怎样的弟弟？](https://m.acfun.cn/v/?ac=48993322)
 
-+ [抽象新闻：11月人类迷惑行为 （三） ](https://m.acfun.cn/v/?ac=48991145)
++ [英雄联盟水友模拟总决赛](https://m.acfun.cn/v/?ac=48992039)
 
-+ [蛇窝](https://m.acfun.cn/v/?ac=48992107)
++ [周刊东方26年11月第1周](https://m.acfun.cn/v/?ac=48992586)
 
-+ [Life Goes on - Oliver Tree](https://m.acfun.cn/v/?ac=48991161)
++ [抽牛头一护前必看！斩系最新抽卡规划建议！](https://m.acfun.cn/v/?ac=48992831)
 
-+ [随便跳一跳](https://m.acfun.cn/v/?ac=48991175)
++ [【异世界转生部实习生】任务执行中！](https://m.acfun.cn/v/?ac=48991988)
 
-+ [【LYY小鱼儿】山河万里执枪肆意笑纳](https://m.acfun.cn/v/?ac=48991663)
++ [你所见一切皆是虚妄](https://m.acfun.cn/v/?ac=48992103)
+
++ [对不起！只是只是…想把这只小鸟带给你！](https://m.acfun.cn/v/?ac=48984745)
+
++ [[伴奏](koyori)妄想進化論](https://m.acfun.cn/v/?ac=48992357)
+
++ [【扒】因开车不规范失踪七年，回来时孩子已长大《辛普森一家》最新万圣节特辑](https://m.acfun.cn/v/?ac=48990149)
+
++ [AEW 2026.11.14 Will Ospreay vs. Kyle Fletcher](https://m.acfun.cn/v/?ac=48992762)
+
++ [[伴奏](koyori)愛に奇術師](https://m.acfun.cn/v/?ac=48992362)
+
++ [最受不了这招了~](https://m.acfun.cn/v/?ac=48993259)
 
