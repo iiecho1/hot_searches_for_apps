@@ -127,3 +127,17 @@
 
 + [什么是水面蒸发监测站？基于 4G 物联网水面蒸发传感器野外部署方案详解](https://blog.csdn.net/sun15369027572/article/details/170689802)
 
++ [从文档入库到售后问答，让AI的回答有据可查：Nexent知识库与RAG深度实测](https://blog.csdn.net/2401_87629362/article/details/170777858)
+
++ [【开源评测】Mika：手机Agent的关键，不只是能点按钮，还有谁授权它继续](https://blog.csdn.net/TunerT_TQ/article/details/170707083)
+
++ [把两个模型的权重合起来，能力也会相加吗？](https://blog.csdn.net/weixin_74809706/article/details/170452628)
+
++ [LangGraph（03）：状态归约、并行更新与消息管理](https://blog.csdn.net/2401_83830408/article/details/170600686)
+
++ [为什么 FPGA 模块化比 CPU 模块化更难？](https://blog.csdn.net/m0_53439615/article/details/170733436)
+
++ [从 0 实现 ReAct：消息顺序、工具参数分片与失败回填](https://blog.csdn.net/2402_88139312/article/details/170655971)
+
++ [Hookshot v2.1.0：用键鼠玩《时之笛》，把操控和画面调顺手](https://blog.csdn.net/Hello_Pyhx/article/details/170714611)
+

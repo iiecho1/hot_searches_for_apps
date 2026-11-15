@@ -49,3 +49,11 @@
 
 + [用户反馈《GTA 6》实体包装盒存在漏洞：强光照射可直接透视下载码，无需拆封即可兑换](https://m.ithome.com/html/1027073.htm)
 
++ [队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶](https://m.ithome.com/html/1027258.htm)
+
++ [曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车](https://m.ithome.com/html/1027240.htm)
+
++ [英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯](https://m.ithome.com/html/1027228.htm)
+
++ [马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作](https://m.ithome.com/html/1027247.htm)
+
