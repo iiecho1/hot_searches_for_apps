@@ -37,3 +37,17 @@
 
 + [Claude 代充跳 kyc 被封都是不退款的吗](https://www.v2ex.com/t/1257042)
 
++ [闲聊聊到了我司当前接入 AI 的年度成本](https://www.v2ex.com/t/1257169)
+
++ [deepseek harness 的实际能力远超大多数人的认知，最近深度体验总结](https://www.v2ex.com/t/1257214)
+
++ [打算购买 Claude Team 成品号，这种号的风险跟稳定性怎么样？](https://www.v2ex.com/t/1257158)
+
++ [记录第一次相亲](https://www.v2ex.com/t/1257174)
+
++ [20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励](https://www.v2ex.com/t/1257127)
+
++ [两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着](https://www.v2ex.com/t/1257137)
+
++ [杭州动态公网家宽求推荐](https://www.v2ex.com/t/1257101)
+

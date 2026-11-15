@@ -75,3 +75,41 @@
 
 + [【逛吃天津】超长塔可巨大寿司饭！哦吗卡塞还是得吃放题的，管够](https://m.acfun.cn/v/?ac=48990817)
 
++ [【民工杂谈】jump发家简史08：为啥说北条司是jump体系里的异端](https://m.acfun.cn/v/?ac=48993001)
+
++ [网络上常见的热门短视频集锦   第三千五百四十六期](https://m.acfun.cn/v/?ac=48991341)
+
++ [又教会兄弟一道“拔丝苹果”，香脆清甜，就是有一点费油](https://m.acfun.cn/v/?ac=48992937)
+
++ [20261115：交通车祸实例，提高安全驾驶意识](https://m.acfun.cn/v/?ac=48992267)
+
++ [英雄联盟水友模拟总决赛](https://m.acfun.cn/v/?ac=48992039)
+
++ [【绝望女神/翻唱】【ib:恐怖美术馆 玛丽主题歌 木偶】](https://m.acfun.cn/v/?ac=48991160)
+
++ [【异世界转生部实习生】任务执行中！](https://m.acfun.cn/v/?ac=48991988)
+
++ [天鹅湖转了一个圈圈圈圈](https://m.acfun.cn/v/?ac=48991690)
+
++ [夏日奇迹 ](https://m.acfun.cn/v/?ac=48992239)
+
++ [BESTie Excuse me](https://m.acfun.cn/v/?ac=48991634)
+
++ [EXID Hot Pink](https://m.acfun.cn/v/?ac=48991630)
+
++ [나나의 청순함 가득한 청바지 핏](https://m.acfun.cn/v/?ac=48991121)
+
++ [【官方双语】24GB变48GB - Luke的4090显存翻倍之旅#linus谈科技](https://m.acfun.cn/v/?ac=48991849)
+
++ [网络上常见的热门短视频集锦   第三千五百四十七期](https://m.acfun.cn/v/?ac=48992281)
+
++ [抽象新闻：11月人类迷惑行为 （三） ](https://m.acfun.cn/v/?ac=48991145)
+
++ [蛇窝](https://m.acfun.cn/v/?ac=48992107)
+
++ [Life Goes on - Oliver Tree](https://m.acfun.cn/v/?ac=48991161)
+
++ [随便跳一跳](https://m.acfun.cn/v/?ac=48991175)
+
++ [【LYY小鱼儿】山河万里执枪肆意笑纳](https://m.acfun.cn/v/?ac=48991663)
+

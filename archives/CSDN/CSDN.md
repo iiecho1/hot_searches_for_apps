@@ -141,3 +141,33 @@
 
 + [Hookshot v2.1.0：用键鼠玩《时之笛》，把操控和画面调顺手](https://blog.csdn.net/Hello_Pyhx/article/details/170714611)
 
++ [大模型对齐问题_为什么AI需要与人类价值观对齐](https://blog.csdn.net/2302_78391795/article/details/170802191)
+
++ [2026 企业级 AI Agent 深度解析：AgentOS 如何成为能办事的企业管理智能体](https://blog.csdn.net/zhouzhongyan/article/details/167257570)
+
++ [【AI智能体】Codex + Harness Engineering 实战开发ChatBot 项目详解](https://blog.csdn.net/zhangcongyi420/article/details/169847875)
+
++ [【人工智能驱动的电催化研究-07】CSV文件、路径与可追溯记录](https://blog.csdn.net/2402_84593233/article/details/170779480)
+
++ [花雕动手做｜ESP-Mosaico 外接 DeepSeek，微信/飞书远程指挥机器人：不受官方额度限制的实战方案](https://blog.csdn.net/weixin_41659040/article/details/170687595)
+
++ [Windows 运行安卓应用:开源运行器 ApkStart 双击 APK 即装即用](https://blog.csdn.net/weixin_41961749/article/details/170788083)
+
++ [SpringBoot+QQ邮箱发送邮件](https://blog.csdn.net/2303_76661774/article/details/168132797)
+
++ [基于ABB RobotStudio的双机器人码垛工作站虚拟仿真建模全流程](https://blog.csdn.net/2502_94703521/article/details/170802852)
+
++ [Flutter 鸿蒙供应链审计实战：让高危依赖卡在 CI 门口](https://blog.csdn.net/csdn_codechina/article/details/170778013)
+
++ [在线文档编辑器 WebOffice实战：质检报告、合同、OA 三类场景接入方案](https://blog.csdn.net/GARYTANBEST/article/details/170728560)
+
++ [JavaScript Web Worker 实战：将大数据计算移出主线程，避免页面卡顿](https://blog.csdn.net/weixin_44308321/article/details/170810939)
+
++ [nanoGPT model.py 源码解读：从 token 到下一个词的完整 GPT 实现](https://blog.csdn.net/ycx66668888/article/details/170813566)
+
++ [【一次 Elasticsearch 高基数聚合慢查询的定位与优化】](https://blog.csdn.net/UserFrank/article/details/170741955)
+
++ [CSS 网格布局 auto-flow 自动填充与 object-fit 图片缩放](https://blog.csdn.net/2601_96876853/article/details/170741864)
+
++ [GS-Playground：一种用于视觉感知机器人学习的高吞吐量、照片级逼真模拟器](https://blog.csdn.net/yorkhunter/article/details/170323034)
+
