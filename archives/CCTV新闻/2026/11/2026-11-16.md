@@ -161,3 +161,11 @@
 
 + [俄常驻联合国代表称不接受“冻结”乌克兰冲突](https://news.cctv.com/2026/11/10/ARTIMb8c243DE6uJK2m4zOqA261110.shtml)
 
++ [联合国等五机构就苏丹无人机袭击发表联合声明](https://news.cctv.com/2026/11/16/ARTIqFDAUhtRG1LgektE5uLz261116.shtml)
+
++ [伊朗称一艘油轮在霍尔木兹海峡以东触雷起火](https://news.cctv.com/2026/11/16/ARTITYuoou5oyge2e90LPLx8261116.shtml)
+
++ [美“火神”火箭未能将亚马逊卫星送入预定轨道](https://news.cctv.com/2026/11/16/ARTI1QzosojvS5zlB2qPlUkV261116.shtml)
+
++ [胡塞武装称沙特联军24小时内75次袭击也门多地](https://news.cctv.com/2026/11/16/ARTIYtX4SO8UdgBc5wlYeHUM261116.shtml)
+

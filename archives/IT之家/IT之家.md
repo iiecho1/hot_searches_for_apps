@@ -25,3 +25,5 @@
 
 + [华为 Mate X8 折叠屏手机外观公布，余承东宣布屏幕、拍照、性能又有新突破](https://m.ithome.com/html/1027274.htm)
 
++ [“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑](https://m.ithome.com/html/1027244.htm)
+
