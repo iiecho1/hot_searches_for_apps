@@ -21,3 +21,17 @@
 
 + [有没有 Claude portal 验证一直在验证中的 v 友](https://www.v2ex.com/t/1257170)
 
++ [世态炎凉，瑟瑟发抖](https://www.v2ex.com/t/1257325)
+
++ [其实我个人也是比较偏向于使用国模的，但问题是](https://www.v2ex.com/t/1257339)
+
++ [我觉得 AI 的发展已经到头了](https://www.v2ex.com/t/1257274)
+
++ [路上天天都能遇到焊颈帝](https://www.v2ex.com/t/1257304)
+
++ [唉，QQ 音乐年会员又涨价了](https://www.v2ex.com/t/1257321)
+
++ [一觉醒来，V 站升级了评论区 UI 交互，Polish 要为上次的事故付出代价了](https://www.v2ex.com/t/1257309)
+
++ [都说 AI 大大提高了编程效率，真正失业的程序员多吗](https://www.v2ex.com/t/1257251)
+

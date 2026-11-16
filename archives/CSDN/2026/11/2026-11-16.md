@@ -101,3 +101,15 @@
 
 + [芽芽智能体：住在你桌面上的助手](https://blog.csdn.net/2503_92624912/article/details/170811408)
 
++ [桌面级 AI 搭子 Loomy：不聊参数，只聊它能把活干到哪一步](https://blog.csdn.net/qq_57761637/article/details/170817285)
+
++ [用 Tauri 跨平台框架在鸿蒙 PC 上开发待办清单应用：从 Rust 命令集到持久化落盘的完整实践](https://blog.csdn.net/weixin_52908342/article/details/170823867)
+
++ [从对称到定解：为什么决定系统性质的，是缺陷、边界与奇点？（上）](https://blog.csdn.net/kkiron/article/details/170816254)
+
++ [AI Agent 10](https://blog.csdn.net/2401_88601046/article/details/170820554)
+
++ [【一次 Elasticsearch 高基数聚合慢查询的定位与优化】](https://blog.csdn.net/UserFrank/article/details/170741955)
+
++ [Flutter 3.50更新，开发者应该关注什么？](https://blog.csdn.net/developer_laoliu/article/details/170739629)
+

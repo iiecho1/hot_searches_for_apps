@@ -169,3 +169,5 @@
 
 + [胡塞武装称沙特联军24小时内75次袭击也门多地](https://news.cctv.com/2026/11/16/ARTIYtX4SO8UdgBc5wlYeHUM261116.shtml)
 
++ [俄称爱沙尼亚关闭边境口岸为“恐俄症”表现](https://news.cctv.com/2026/11/16/ARTI5L9tkpeI23ZMvoNInndZ261116.shtml)
+
