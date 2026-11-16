@@ -113,3 +113,57 @@
 
 + [Flutter 3.50更新，开发者应该关注什么？](https://blog.csdn.net/developer_laoliu/article/details/170739629)
 
++ [用 Spring AI 做文本分类/摘要：落地到后台工作流（无人值守批处理实战）](https://blog.csdn.net/sinat_41617212/article/details/170821581)
+
++ [SpringBoot3+Vue3 ERP对接WMS：仓库绑定、商品映射与库存归属怎么配置](https://blog.csdn.net/zhouzhongyan/article/details/170821062)
+
++ [临时电脑上什么办公软件都没有？我把GodoOS放进浏览器，打开就是一套办公桌面](https://blog.csdn.net/aiclaws/article/details/170859593)
+
++ [【L2CAP】规范精讲[5]: 从 Echo 探测到能力协商——连接建立后的信息查询三部曲](https://blog.csdn.net/weixin_37800531/article/details/170370241)
+
++ [演示网页时不想共享整台电脑？我在NAS里放了一个多人共用的隔离浏览器](https://blog.csdn.net/Rqaqedamancy/article/details/170859844)
+
++ [Spring AI：Java 开发者拥抱 AI 驱动开发的新路径](https://blog.csdn.net/xqe777/article/details/170861380)
+
++ [切换模型后，任务信息还能接上吗？我用 SoduWork 做了两组实测](https://blog.csdn.net/hanwangyyds/article/details/170858076)
+
++ [数据建模正面对比：国外时序数据库怎么组织设备数据，Apache IoTDB 的树表孪生模型又怎么组织](https://blog.csdn.net/weixin_43151418/article/details/170843740)
+
++ [日产 95 部短剧、成本降 85%：这组数字我拆开看了三遍](https://blog.csdn.net/weixin_50843918/article/details/170815142)
+
++ [AI Agent 工程化开发实战（九）：create_agent 源码拆解——它如何装配 LangGraph](https://blog.csdn.net/xiaobing259/article/details/170848681)
+
++ [花雕动手做｜DeepSeek / Kimi / 阿里云百炼怎么选？ESP-Mosaico Claw 后端 LLM Token 账单实测对比](https://blog.csdn.net/weixin_41659040/article/details/170757605)
+
++ [MinerU 技术全景：开源 OCR 与文档智能解析引擎深度拆解](https://blog.csdn.net/beautifulmemory/article/details/170822146)
+
++ [我把三份报名表交给 SoduWork：名单整理之后，验收才是关键](https://blog.csdn.net/ttrr27/article/details/170854528)
+
++ [用仓颉语言cj-tauri框架，五分钟给娃做了个HarmonyOS鸿蒙APP形近字游戏帮助训练](https://blog.csdn.net/qq8864/article/details/170777588)
+
++ [时序数据库是什么？先画准数据画像，再谈 2026 选型——主流产品与场景落位](https://blog.csdn.net/user340/article/details/170742623)
+
++ [Qt核心机制：信号与槽详解](https://blog.csdn.net/2302_80105876/article/details/170818701)
+
++ [可视化前端Web组态软件](https://blog.csdn.net/he_zhidan/article/details/170778060)
+
++ [数据库性能优化先别急着加索引：从 PL/SQL 批处理查到存储](https://blog.csdn.net/Mrxiao_bo/article/details/170779020)
+
++ [Elasticsearch：如何使用 Connectors 接入数据到 Elastic Agent builder 里进行企业搜索](https://blog.csdn.net/UbuntuTouch/article/details/170858748)
+
++ [LangChain（03）：Prompt 与 Structured Output——提示词模板及结构化输出](https://blog.csdn.net/2401_83830408/article/details/170852061)
+
++ [【Infra】大模型分布式训练：从并行策略到性能优化](https://blog.csdn.net/qq_35812205/article/details/170818129)
+
++ [GitHub 今日推荐｜HGhubX：Tauri 2 跨平台短剧客户端实战](https://blog.csdn.net/weixin_40013817/article/details/170775925)
+
++ [DeepSeek Harness 阿里云一键部署实操教程](https://blog.csdn.net/zhujigege/article/details/170819584)
+
++ [dsh web 打不开页面？一份完整的排查与运维手册](https://blog.csdn.net/guigenyi/article/details/170818886)
+
++ [用 pywebview 做一个能贴边收纳的 Windows 桌宠：架构选择与几个坑](https://blog.csdn.net/qq_36977923/article/details/170822090)
+
++ [扫描版 PDF 做 RAG，引用为什么总对不上原页？用 Python 串起 OCR、切块与检索校验](https://blog.csdn.net/2403_86779341/article/details/170822171)
+
++ [网盘下载链接解析--开源桌面工具YUNX丨Github项目分享](https://blog.csdn.net/m0_56491492/article/details/170740941)
+

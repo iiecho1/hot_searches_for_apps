@@ -171,3 +171,15 @@
 
 + [俄称爱沙尼亚关闭边境口岸为“恐俄症”表现](https://news.cctv.com/2026/11/16/ARTI5L9tkpeI23ZMvoNInndZ261116.shtml)
 
++ [日研究所承认“富岳”超算遭非法访问](https://news.cctv.com/2026/11/16/ARTI2JYsyIcQYOdcWgDl6IAx261116.shtml)
+
++ [克里米亚大桥遭袭 交通受限](https://news.cctv.com/2026/11/16/ARTIkHiLabiBG4HpcCZrMPrP261116.shtml)
+
++ [苏丹西部一城镇遭遇空袭 造成15人死亡](https://news.cctv.com/2026/11/16/ARTIkqqlGod1oMV1qfoRutsY261116.shtml)
+
++ [联合国官员：中国新型电力系统建设为全球提供借鉴](https://news.cctv.com/2026/11/16/ARTIy3SISLJCHAObyuHOLKsN261116.shtml)
+
++ [日本本州岛发生5.4级地震 震源深度280公里](https://news.cctv.com/2026/11/16/ARTI9hvnwaWK5zQWzwZctBzX261116.shtml)
+
++ [“罗斯福”号抵达 美军在中东集结三个航空母舰打击群](https://news.cctv.com/2026/11/16/ARTIeboK8gIcjrMvEBuwOfrh261116.shtml)
+
