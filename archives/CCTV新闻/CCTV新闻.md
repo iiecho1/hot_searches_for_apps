@@ -1,5 +1,41 @@
 ## CCTV新闻 
-### 2026-11-16
+### 2026-11-17
+
++ [波黑新一届主席团成员宣誓就职](https://news.cctv.com/2026/11/17/ARTIsuH8wpq4iz1yn4QH4k3P261117.shtml)
+
++ [日本推动修订“安保三文件” 日媒披露“防卫产业基础战略”部分内容](https://news.cctv.com/2026/11/17/ARTIiIMO6SXbYpVfgODxxBUe261117.shtml)
+
++ [韩国全北道将单独申办2036年夏季奥运会](https://news.cctv.com/2026/11/16/ARTIXGjJP2ffOew0tjyDgtJ2261116.shtml)
+
++ [日本东京发生持刀伤人事件致1人死亡 嫌疑人被捕](https://news.cctv.com/2026/11/16/ARTI4HwAv6LtuxPmGAHy0Y3G261116.shtml)
+
++ [伊朗称捕获一美军MQM-170无人机](https://news.cctv.com/2026/11/16/ARTIQ1kBNSzLrrpIKqTfrKsf261116.shtml)
+
++ [消息人士：胡塞武装逼近也门政府所在地亚丁](https://news.cctv.com/2026/11/16/ARTIgEJCJiji2LcAchfpZix0261116.shtml)
+
++ [美交通部长拒绝为全美航班停飞道歉](https://news.cctv.com/2026/11/16/ARTI7bX5UUzSjz78t9bnUUF5261116.shtml)
+
++ [日研究所承认“富岳”超算遭非法访问](https://news.cctv.com/2026/11/16/ARTI2JYsyIcQYOdcWgDl6IAx261116.shtml)
+
++ [克里米亚大桥遭袭 交通受限](https://news.cctv.com/2026/11/16/ARTIkHiLabiBG4HpcCZrMPrP261116.shtml)
+
++ [苏丹西部一城镇遭遇空袭 造成15人死亡](https://news.cctv.com/2026/11/16/ARTIkqqlGod1oMV1qfoRutsY261116.shtml)
+
++ [联合国官员：中国新型电力系统建设为全球提供借鉴](https://news.cctv.com/2026/11/16/ARTIy3SISLJCHAObyuHOLKsN261116.shtml)
+
++ [日本本州岛发生5.4级地震 震源深度280公里](https://news.cctv.com/2026/11/16/ARTI9hvnwaWK5zQWzwZctBzX261116.shtml)
+
++ [“罗斯福”号抵达 美军在中东集结三个航空母舰打击群](https://news.cctv.com/2026/11/16/ARTIeboK8gIcjrMvEBuwOfrh261116.shtml)
+
++ [俄称爱沙尼亚关闭边境口岸为“恐俄症”表现](https://news.cctv.com/2026/11/16/ARTI5L9tkpeI23ZMvoNInndZ261116.shtml)
+
++ [联合国等五机构就苏丹无人机袭击发表联合声明](https://news.cctv.com/2026/11/16/ARTIqFDAUhtRG1LgektE5uLz261116.shtml)
+
++ [伊朗称一艘油轮在霍尔木兹海峡以东触雷起火](https://news.cctv.com/2026/11/16/ARTITYuoou5oyge2e90LPLx8261116.shtml)
+
++ [美“火神”火箭未能将亚马逊卫星送入预定轨道](https://news.cctv.com/2026/11/16/ARTI1QzosojvS5zlB2qPlUkV261116.shtml)
+
++ [胡塞武装称沙特联军24小时内75次袭击也门多地](https://news.cctv.com/2026/11/16/ARTIYtX4SO8UdgBc5wlYeHUM261116.shtml)
 
 + [也门胡塞武装单方面宣布释放600名被俘人员](https://news.cctv.com/2026/11/15/ARTIG67NVY0hp0xJvyMEYxxq261115.shtml)
 
@@ -124,62 +160,4 @@
 + [靖国神社“秘录”公开，戳穿日本右翼的隐秘算计（环球走笔）](https://news.cctv.com/2026/11/11/ARTIvWkSpX0jWCYhSutrvdzP261111.shtml)
 
 + [俄美乌三方开启第二日会谈](https://news.cctv.com/2026/11/11/ARTI8uql5bVxbMozQB1oc9Vu261111.shtml)
-
-+ [西方情报评估认为伊朗仍有战前一半弹道导弹产能](https://news.cctv.com/2026/11/11/ARTIpU1YKBXJ8gssYHL0rnvk261111.shtml)
-
-+ [马杜罗辩护团队要求美方撤销酷刑虐待指控](https://news.cctv.com/2026/11/11/ARTIg7Gtu2qRixLcmWTiTr5G261111.shtml)
-
-+ [中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯](https://news.cctv.com/2026/11/11/ARTIT5ye4pBGqaqDSoP61myL261111.shtml)
-
-+ [美方指控一男子在纽约监狱参与策划袭击英国空军基地](https://news.cctv.com/2026/11/11/ARTI3ajCnnhCfhjLYD9Camqo261111.shtml)
-
-+ [苏丹东南部一村庄遭无人机袭击 致9人死亡](https://news.cctv.com/2026/11/11/ARTI5bhK4Efw8pmnCqSf6kpa261111.shtml)
-
-+ [乌外长：乌俄领导人直接会面有望加速冲突结束](https://news.cctv.com/2026/11/11/ARTIGb5RaLfsBk9tWqqmqdHC261111.shtml)
-
-+ [土耳其钢铁厂爆炸已致18死 检方决定拘留11人](https://news.cctv.com/2026/11/11/ARTInEdk4tN8s9PxX0p70jSj261111.shtml)
-
-+ [新一轮俄美乌三方首日会谈结束 将于明日继续进行](https://news.cctv.com/2026/11/10/ARTITjQuZzzWdriyQWfxruZu261110.shtml)
-
-+ [驻日本大使馆发言人就村田晃大非法持刀侵闯中国大使馆案第二次开庭答记者问](https://news.cctv.com/2026/11/10/ARTIPF9cbDEW1Nsi8hvkDNHP261110.shtml)
-
-+ [古巴国家主席：古巴的未来绝不会由美国决定](https://news.cctv.com/2026/11/10/ARTIwJmbaS4qy3FRCqZGtYUq261110.shtml)
-
-+ [日本检方要求判处村田晃大18个月监禁](https://news.cctv.com/2026/11/10/ARTIqnHSf4QyKYiaCODmQHsG261110.shtml)
-
-+ [中使馆发布关于在格鲁吉亚中国公民参加徒步登山等活动的安全提醒](https://news.cctv.com/2026/11/10/ARTITSuZL1O19eRbNnNXaHEj261110.shtml)
-
-+ [法国柔道冠军宣布参选总统 马克龙表示欢迎](https://news.cctv.com/2026/11/10/ARTITkF6qoSwjrywIP91dfZP261110.shtml)
-
-+ [国际观察：这场全会，为何引来周边多国纷纷点赞？](https://news.cctv.com/2026/11/10/ARTIaUUU7DHfUz2z2thWtDVh261110.shtml)
-
-+ [国际观察｜起底日本右翼“文化投毒”的四种手法](https://news.cctv.com/2026/11/10/ARTIGKeXvfiuxwFOyxQp1P7u261110.shtml)
-
-+ [也门胡塞武装：在沙特外企应登记信息以避免遭袭](https://news.cctv.com/2026/11/10/ARTIdseZhUiAcq0HKX8JFGlI261110.shtml)
-
-+ [特朗普称伊朗战事已“事实上结束”](https://news.cctv.com/2026/11/10/ARTIghwXOri62jwncf27sLSq261110.shtml)
-
-+ [俄常驻联合国代表称不接受“冻结”乌克兰冲突](https://news.cctv.com/2026/11/10/ARTIMb8c243DE6uJK2m4zOqA261110.shtml)
-
-+ [联合国等五机构就苏丹无人机袭击发表联合声明](https://news.cctv.com/2026/11/16/ARTIqFDAUhtRG1LgektE5uLz261116.shtml)
-
-+ [伊朗称一艘油轮在霍尔木兹海峡以东触雷起火](https://news.cctv.com/2026/11/16/ARTITYuoou5oyge2e90LPLx8261116.shtml)
-
-+ [美“火神”火箭未能将亚马逊卫星送入预定轨道](https://news.cctv.com/2026/11/16/ARTI1QzosojvS5zlB2qPlUkV261116.shtml)
-
-+ [胡塞武装称沙特联军24小时内75次袭击也门多地](https://news.cctv.com/2026/11/16/ARTIYtX4SO8UdgBc5wlYeHUM261116.shtml)
-
-+ [俄称爱沙尼亚关闭边境口岸为“恐俄症”表现](https://news.cctv.com/2026/11/16/ARTI5L9tkpeI23ZMvoNInndZ261116.shtml)
-
-+ [日研究所承认“富岳”超算遭非法访问](https://news.cctv.com/2026/11/16/ARTI2JYsyIcQYOdcWgDl6IAx261116.shtml)
-
-+ [克里米亚大桥遭袭 交通受限](https://news.cctv.com/2026/11/16/ARTIkHiLabiBG4HpcCZrMPrP261116.shtml)
-
-+ [苏丹西部一城镇遭遇空袭 造成15人死亡](https://news.cctv.com/2026/11/16/ARTIkqqlGod1oMV1qfoRutsY261116.shtml)
-
-+ [联合国官员：中国新型电力系统建设为全球提供借鉴](https://news.cctv.com/2026/11/16/ARTIy3SISLJCHAObyuHOLKsN261116.shtml)
-
-+ [日本本州岛发生5.4级地震 震源深度280公里](https://news.cctv.com/2026/11/16/ARTI9hvnwaWK5zQWzwZctBzX261116.shtml)
-
-+ [“罗斯福”号抵达 美军在中东集结三个航空母舰打击群](https://news.cctv.com/2026/11/16/ARTIeboK8gIcjrMvEBuwOfrh261116.shtml)
 
