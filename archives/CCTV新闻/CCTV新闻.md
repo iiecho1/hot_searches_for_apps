@@ -1,5 +1,27 @@
 ## CCTV新闻 
-### 2026-11-17
+### 2026-11-18
+
++ [美军否认其在巴林的雷达遭伊朗击中](https://news.cctv.com/2026/11/17/ARTI2ayNXMWxzWyNkeQ6Xff4261117.shtml)
+
++ [伊朗称打击巴林的美军雷达系统 巴林称已拦截](https://news.cctv.com/2026/11/17/ARTIEg1oswY1vYhXSUrOSH6W261117.shtml)
+
++ [捷克列车相撞事故致40余人受伤](https://news.cctv.com/2026/11/17/ARTIsUOHbSMiqOTQfKLHCjhr261117.shtml)
+
++ [塞尔维亚新一届议会举行首次会议](https://news.cctv.com/2026/11/17/ARTIeZAOlEPDT7f0t5CAaGSC261117.shtml)
+
++ [欲改“游戏规则” 欧洲五国要在卢旺达建遣返中心](https://news.cctv.com/2026/11/17/ARTIcn2WwQHf7mZsSF0s2qpl261117.shtml)
+
++ [日本自民党与维新会讨论年内修订“安保三文件”](https://news.cctv.com/2026/11/17/ARTISEivqv4lHHttBjrpdQLo261117.shtml)
+
++ [勒庞称若当选总统将不再为乌克兰提供财政援助](https://news.cctv.com/2026/11/17/ARTIGWk16VLqr6Dz0UPJYgwS261117.shtml)
+
++ [一中国游客因违规攀登富士山失联 驻日本大使馆提醒切勿违规擅自登山](https://news.cctv.com/2026/11/17/ARTILw0DKzeXcuWVhAumkxJr261117.shtml)
+
++ [联合国：以军空袭接近联合国燃料运输车队 危及人员安全](https://news.cctv.com/2026/11/17/ARTIRs0DjeqwSN1u4EadqEVN261117.shtml)
+
++ [泽连斯基：欧洲谈判团队首次“全阵容”与乌美磋商](https://news.cctv.com/2026/11/17/ARTIQY12c4qvP1fGNM3gEr9R261117.shtml)
+
++ [美军证实“罗斯福”号航母已抵达中东](https://news.cctv.com/2026/11/17/ARTIWdjeQ6xrFmEFrUopMs36261117.shtml)
 
 + [波黑新一届主席团成员宣誓就职](https://news.cctv.com/2026/11/17/ARTIsuH8wpq4iz1yn4QH4k3P261117.shtml)
 
@@ -138,44 +160,4 @@
 + [以防长：看守政府发动军事行动无需征得反对派同意](https://news.cctv.com/2026/11/12/ARTIN62VXLjmFUEvYPBbTLox261112.shtml)
 
 + [北美观察丨美防长弹劾案意外受阻 国会与白宫博弈升温](https://news.cctv.com/2026/11/12/ARTIe9X7KoqEyYbBywFU43dE261112.shtml)
-
-+ [美国家庭今冬取暖费预计平均上涨7.1%](https://news.cctv.com/2026/11/12/ARTIPjyn87aF5kuOxC5n66h7261112.shtml)
-
-+ [印尼就总统窃听案嫌疑人涉嫌叛国进行立案调查](https://news.cctv.com/2026/11/12/ARTI9gF92Ukix7mGLd0xw7lz261112.shtml)
-
-+ [英国和爱尔兰超千所学校收到威胁邮件 警方认定不可信](https://news.cctv.com/2026/11/12/ARTIjzCsIGUntAKL8irwa8Sj261112.shtml)
-
-+ [俄外长：美特使将前往莫斯科向普京通报三方会谈相关情况](https://news.cctv.com/2026/11/12/ARTIxp1N34TiofHE5mHDlVVj261112.shtml)
-
-+ [美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉](https://news.cctv.com/2026/11/12/ARTIVhB611ae2TvwdOVHVNtM261112.shtml)
-
-+ [泽连斯基：阿布扎比会谈就筹备新一轮战俘交换达成共识](https://news.cctv.com/2026/11/12/ARTIUHFBtPrB9U5VB1vMaWOz261112.shtml)
-
-+ [胡塞武装称过去24小时内沙特联军发动93次空袭](https://news.cctv.com/2026/11/12/ARTIx5HHfkobdWV97bWKiYqA261112.shtml)
-
-+ [美中央司令部：美军严格执行对伊朗海上封锁](https://news.cctv.com/2026/11/12/ARTICz0eHPk8VpYJNVZtkbLs261112.shtml)
-
-+ [意大利上百所学校收到炸弹威胁邮件 多地紧急疏散](https://news.cctv.com/2026/11/11/ARTId3P8OqrYRFBzNj6RGxpZ261111.shtml)
-
-+ [靖国神社“秘录”公开，戳穿日本右翼的隐秘算计（环球走笔）](https://news.cctv.com/2026/11/11/ARTIvWkSpX0jWCYhSutrvdzP261111.shtml)
-
-+ [俄美乌三方开启第二日会谈](https://news.cctv.com/2026/11/11/ARTI8uql5bVxbMozQB1oc9Vu261111.shtml)
-
-+ [勒庞称若当选总统将不再为乌克兰提供财政援助](https://news.cctv.com/2026/11/17/ARTIGWk16VLqr6Dz0UPJYgwS261117.shtml)
-
-+ [一中国游客因违规攀登富士山失联 驻日本大使馆提醒切勿违规擅自登山](https://news.cctv.com/2026/11/17/ARTILw0DKzeXcuWVhAumkxJr261117.shtml)
-
-+ [联合国：以军空袭接近联合国燃料运输车队 危及人员安全](https://news.cctv.com/2026/11/17/ARTIRs0DjeqwSN1u4EadqEVN261117.shtml)
-
-+ [泽连斯基：欧洲谈判团队首次“全阵容”与乌美磋商](https://news.cctv.com/2026/11/17/ARTIQY12c4qvP1fGNM3gEr9R261117.shtml)
-
-+ [美军证实“罗斯福”号航母已抵达中东](https://news.cctv.com/2026/11/17/ARTIWdjeQ6xrFmEFrUopMs36261117.shtml)
-
-+ [捷克列车相撞事故致40余人受伤](https://news.cctv.com/2026/11/17/ARTIsUOHbSMiqOTQfKLHCjhr261117.shtml)
-
-+ [塞尔维亚新一届议会举行首次会议](https://news.cctv.com/2026/11/17/ARTIeZAOlEPDT7f0t5CAaGSC261117.shtml)
-
-+ [欲改“游戏规则” 欧洲五国要在卢旺达建遣返中心](https://news.cctv.com/2026/11/17/ARTIcn2WwQHf7mZsSF0s2qpl261117.shtml)
-
-+ [日本自民党与维新会讨论年内修订“安保三文件”](https://news.cctv.com/2026/11/17/ARTISEivqv4lHHttBjrpdQLo261117.shtml)
 
