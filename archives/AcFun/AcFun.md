@@ -75,3 +75,49 @@
 
 + [【作业用/助眠】晚秋阳光下的轻松吉他曲 60mins（恢复疲劳 音乐治疗~）](https://m.acfun.cn/v/?ac=48994080)
 
++ [网络上常见的热门短视频集锦   第三千五百五十期](https://m.acfun.cn/v/?ac=48996766)
+
++ [网络上常见的热门短视频集锦   第三千五百五十一期](https://m.acfun.cn/v/?ac=48998380)
+
++ [厨师长分享家常味型之“家常回锅肉”，经典川味，滋润下饭](https://m.acfun.cn/v/?ac=48998234)
+
++ [拓海，我回乡下爽几天！欢乐八点档-1835](https://m.acfun.cn/v/?ac=48999600)
+
++ [大哥日子过得不戳【今天有什么好笑的 #2568】](https://m.acfun.cn/v/?ac=48999460)
+
++ [76.初代龙王，大头娃娃：引鳄科](https://m.acfun.cn/v/?ac=48972425)
+
++ [死怨进行曲！](https://m.acfun.cn/v/?ac=48998816)
+
++ [各种水果的正确切法](https://m.acfun.cn/v/?ac=48998735)
+
++ [[伴奏] [とりぴよ]あざれあきゅーぴっど](https://m.acfun.cn/v/?ac=48998571)
+
++ [周二愉快](https://m.acfun.cn/v/?ac=48999919)
+
++ [【月亮计划音乐会动画】Mili-City Blue（都市蓝调）【中文字幕】](https://m.acfun.cn/v/?ac=48996843)
+
++ [快乐合成器～点击收获快乐](https://m.acfun.cn/v/?ac=48997024)
+
++ [我用虚幻手搓了一个FPS！的基础玩法，有没有搞头](https://m.acfun.cn/v/?ac=48998749)
+
++ [你喝多了](https://m.acfun.cn/v/?ac=48998829)
+
++ [[4K] 레이싱모델 제바 2019 오토살롱 오토위크 모터쇼 (ZEBA) ](https://m.acfun.cn/v/?ac=48997299)
+
++ [[伴奏] [Folicca]脑裏のマキナ](https://m.acfun.cn/v/?ac=48998593)
+
++ [【六角疑云】斑斑的直播录像](https://m.acfun.cn/v/?ac=48998527)
+
++ [《Say so》明明AC娘都给你这么多暗示了，为什么你还无动于衷【AI超哥】](https://m.acfun.cn/v/?ac=48996468)
+
++ [今天可以见个面吗？我在楼下等你哦～](https://m.acfun.cn/v/?ac=48996614)
+
++ [CMLL/NJPW Lucha Kingdom 2026.11.16](https://m.acfun.cn/v/?ac=48998257)
+
++ [2026年11月，国产自主研发城市浮空飞艇风力发电系统S-4000首飞](https://m.acfun.cn/v/?ac=48997038)
+
++ [《慌啥子嘛》翻唱 慢慢来，太阳下山有月亮爬上来](https://m.acfun.cn/v/?ac=48997078)
+
++ [[人声] [とりぴよ]あざれあきゅーぴっど](https://m.acfun.cn/v/?ac=48998585)
+

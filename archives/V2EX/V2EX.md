@@ -37,3 +37,15 @@
 
 + [北美大豆包是真的不行啊！](https://www.v2ex.com/t/1257419)
 
++ [今天是我的生日](https://www.v2ex.com/t/1257707)
+
++ [看到老黄因为出轨被撸，我也说个自己最近的经历](https://www.v2ex.com/t/1257733)
+
++ [个人感觉，对对联可能是给 LLM AI 压力最大的活之一。](https://www.v2ex.com/t/1257571)
+
++ [入了掌阅 Ocean6 Pro 替换用了 11 年的 Kindle](https://www.v2ex.com/t/1257578)
+
++ [相亲趣事](https://www.v2ex.com/t/1257603)
+
++ [因为不“冲刺”被“约谈”了](https://www.v2ex.com/t/1257621)
+

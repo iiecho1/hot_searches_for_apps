@@ -31,3 +31,13 @@
 
 + [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
++ [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+
++ [cursor/plugins](https://github.com/cursor/plugins)
+
++ [obra/superpowers](https://github.com/obra/superpowers)
+
++ [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
++ [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+

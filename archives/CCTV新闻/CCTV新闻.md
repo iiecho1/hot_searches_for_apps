@@ -171,3 +171,11 @@
 
 + [美军证实“罗斯福”号航母已抵达中东](https://news.cctv.com/2026/11/17/ARTIWdjeQ6xrFmEFrUopMs36261117.shtml)
 
++ [捷克列车相撞事故致40余人受伤](https://news.cctv.com/2026/11/17/ARTIsUOHbSMiqOTQfKLHCjhr261117.shtml)
+
++ [塞尔维亚新一届议会举行首次会议](https://news.cctv.com/2026/11/17/ARTIeZAOlEPDT7f0t5CAaGSC261117.shtml)
+
++ [欲改“游戏规则” 欧洲五国要在卢旺达建遣返中心](https://news.cctv.com/2026/11/17/ARTIcn2WwQHf7mZsSF0s2qpl261117.shtml)
+
++ [日本自民党与维新会讨论年内修订“安保三文件”](https://news.cctv.com/2026/11/17/ARTISEivqv4lHHttBjrpdQLo261117.shtml)
+

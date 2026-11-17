@@ -119,3 +119,57 @@
 
 + [安全与加速一体化：德迅云安全SCDN的用途、作用与场景解析](https://blog.csdn.net/shangguan_001/article/details/170775351)
 
++ [Next-AI-Draw.io本地部署教程：AI生成架构图、流程图与UML](https://blog.csdn.net/2401_87629362/article/details/170864263)
+
++ [【Linux】守护进程怎么实现？从进程组、会话到 setsid 与 Daemon 完整实战](https://blog.csdn.net/2402_87731470/article/details/170444799)
+
++ [幻觉问题深析_为什么大模型会编造内容及缓解方案](https://blog.csdn.net/2302_78391795/article/details/170902276)
+
++ [【人工智能驱动的电催化研究-08】NumPy数组、维度与向量运算](https://blog.csdn.net/2402_84593233/article/details/170889422)
+
++ [Homarr飞牛NAS部署教程：服务导航、Docker状态与远程访问](https://blog.csdn.net/weixin_44976692/article/details/170913066)
+
++ [金仓AI数据库上手记：语义层、库内计算、权限继承，一次讲清](https://blog.csdn.net/qq_57761637/article/details/170822359)
+
++ [为什么需要微调？直接用 Prompt Engineering 或 RAG 不行吗？](https://blog.csdn.net/qq_28419035/article/details/170897869)
+
++ [Windows 10资源管理器单击文件间歇转圈：一次 Copilot 故障排查记录](https://blog.csdn.net/weixin_47431459/article/details/170913147)
+
++ [用 Tauri 跨平台框架在鸿蒙 PC 上开发应用：从 Rust 后端到真机跑通的完整实践](https://blog.csdn.net/weixin_52908342/article/details/170822910)
+
++ [互联网出口多运营商选路：提升网络可用性与访问速度](https://blog.csdn.net/qq_41840843/article/details/170869649)
+
++ [数据库选型别急着拉对比表：先把四个约束对齐，候选能从十几个缩到两三个](https://blog.csdn.net/weixin_43151418/article/details/170841835)
+
++ [主机不接显示器，远控画面反而更清楚？ToDesk、向日葵、RayLink虚拟屏横评](https://blog.csdn.net/beautifulmemory/article/details/170872117)
+
++ [ufw 已 active，Docker 端口却仍对外开放的复盘](https://blog.csdn.net/qq_46987323/article/details/170871567)
+
++ [别再导出整页图片了：用 WorkBuddy + PPT-Master 做真正可编辑的汇报 PPT](https://blog.csdn.net/yelangkingwuzuhu/article/details/170871542)
+
++ [W25Q64 SPI Flash深度解析：从原理到实战](https://blog.csdn.net/2501_94547070/article/details/170870922)
+
++ [数据库性能优化，一半功夫花在“搞清楚它在干嘛“](https://blog.csdn.net/qq_32682301/article/details/170872597)
+
++ [给 Web 应用加上文档编辑能力，我只用了半小时：ONLYOFFICE Docs 集成实测](https://blog.csdn.net/AIRoses/article/details/170927222)
+
++ [合同和证件临时要合并压缩，我不想再上传陌生网站:BentoPDF让文件留在浏览器里处理](https://blog.csdn.net/2401_87848736/article/details/170913233)
+
++ [机器人软件如何分层：驱动、算法、能力、动作与业务](https://blog.csdn.net/weixin_37540091/article/details/170869467)
+
++ [《麦穗与羊》完整原稿在线阅读](https://blog.csdn.net/whaahhh/article/details/170891297)
+
++ [华为云码道：从 0 到 1 做一个校园二手交易平台：纯前端 + Python 后端 + PWA 实战](https://blog.csdn.net/2601_95374055/article/details/170857942)
+
++ [大数据技术专业考证路线：从Python、数据库到分析与平台运维](https://blog.csdn.net/gentleing/article/details/170871729)
+
++ [8.JavaSpringBoot如何调用Python算法服务](https://blog.csdn.net/weixin_37647148/article/details/170839698)
+
++ [Qwen4-Max、Hy4 flash、DeepSeek V4.1 Flash、Kimi K3.1 Pro 怎么选：价格、能力与 Agent 场景对比](https://blog.csdn.net/aidoudoulong/article/details/170905066)
+
++ [批量下载图片、文档、素材，Python 爬虫实操全过程](https://blog.csdn.net/hdllove520/article/details/163707883)
+
++ [【鸿蒙心迹】动画系统深度——animateTo、显式动画与关键帧实战（HarmonyOS 7.x）](https://blog.csdn.net/qq_35366330/article/details/170013656)
+
++ [微信小程序:手机状态](https://blog.csdn.net/WYBY12/article/details/170869652)
+
