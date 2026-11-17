@@ -161,3 +161,13 @@
 
 + [俄美乌三方开启第二日会谈](https://news.cctv.com/2026/11/11/ARTI8uql5bVxbMozQB1oc9Vu261111.shtml)
 
++ [勒庞称若当选总统将不再为乌克兰提供财政援助](https://news.cctv.com/2026/11/17/ARTIGWk16VLqr6Dz0UPJYgwS261117.shtml)
+
++ [一中国游客因违规攀登富士山失联 驻日本大使馆提醒切勿违规擅自登山](https://news.cctv.com/2026/11/17/ARTILw0DKzeXcuWVhAumkxJr261117.shtml)
+
++ [联合国：以军空袭接近联合国燃料运输车队 危及人员安全](https://news.cctv.com/2026/11/17/ARTIRs0DjeqwSN1u4EadqEVN261117.shtml)
+
++ [泽连斯基：欧洲谈判团队首次“全阵容”与乌美磋商](https://news.cctv.com/2026/11/17/ARTIQY12c4qvP1fGNM3gEr9R261117.shtml)
+
++ [美军证实“罗斯福”号航母已抵达中东](https://news.cctv.com/2026/11/17/ARTIWdjeQ6xrFmEFrUopMs36261117.shtml)
+

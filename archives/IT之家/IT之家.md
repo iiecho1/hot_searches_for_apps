@@ -25,3 +25,27 @@
 
 + [华为麒麟 9050 系列芯片新一代巴龙 AI Modem 情报公开：首创融合通信架构、业界首发四卡三待](https://m.ithome.com/html/1027292.htm)
 
++ [AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”](https://m.ithome.com/html/1027711.htm)
+
++ [华为 WATCH Air 新款智能手表外观曝光：圆润机身 + 超轻薄设计，预装鸿蒙 HarmonyOS 系统](https://m.ithome.com/html/1027992.htm)
+
++ [华为星芒 OSTA O1 Pro 新机更多配置信息曝光：新增无充电器版本，黑白紫三色可选](https://m.ithome.com/html/1027958.htm)
+
++ [新车交付时在门店被人偷走，4S 店承认管理疏漏并退款、嫌疑人被拘](https://m.ithome.com/html/1027614.htm)
+
++ [“里程碑式设计”：苹果 iPhone 20 Pro 屏幕盖板再曝，让边框淡出视野](https://m.ithome.com/html/1028025.htm)
+
++ [打破苹果软件更新限制！博主全球首发为 iPhone 6 Plus 刷入 iOS 14 系统](https://m.ithome.com/html/1027830.htm)
+
++ [5499 → 4499 元：苹果 iPad mini（A20 Pro）国补后立减 1000 元](https://m.ithome.com/html/1027966.htm)
+
++ [黄仁勋卸任英伟达 CEO 次日，日本市场 RTX 50 系显卡大幅降价](https://m.ithome.com/html/1027714.htm)
+
++ [华为全新子品牌星芒 OSTA O1 Pro 真机紫色款外观曝光：后置双摄，预计搭载麒麟 9030S 处理器](https://m.ithome.com/html/1028006.htm)
+
++ [中汽协会将对比亚迪、赛力斯、蔚小理、小米等 17 家重点汽车企业的供应商账款支付情况开展调研评估](https://m.ithome.com/html/1027856.htm)
+
++ [华为徐直军回忆分布式基站诞生：2003 年余承东发现痛点，最终成为今天 3G、4G、5G 基站标准形态](https://m.ithome.com/html/1027965.htm)
+
++ [苹果 iOS / iPadOS 27.3 开发者预览版 Beta 2 发布：为 iPhone Duo 加入外屏面部解锁功能](https://m.ithome.com/html/1028013.htm)
+

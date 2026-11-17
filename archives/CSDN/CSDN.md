@@ -101,3 +101,21 @@
 
 + [dsh web 打不开页面？一份完整的排查与运维手册](https://blog.csdn.net/guigenyi/article/details/170818886)
 
++ [【AI大模型接入SDK】历史消息时间戳问题与时间戳问题](https://blog.csdn.net/2401_89899187/article/details/170771570)
+
++ [从文档入库到售后问答，让AI的回答有据可查：Nexent知识库与RAG深度实测](https://blog.csdn.net/2401_87629362/article/details/170777858)
+
++ [一篇看懂 Spring AOP：核心概念 + 五种通知 + 切点表达式 + 动态代理（附案例和流程图）](https://blog.csdn.net/2502_93799892/article/details/170776868)
+
++ [一篇文章讲清 NGINX 反向代理：location、proxy_pass、负载均衡与排错](https://blog.csdn.net/qq_74421990/article/details/170755363)
+
++ [【项目】 智慧监测系统 开发笔记（一）从项目立项到传感器闭环：日志、AHT20、MQ-2 三块地基](https://blog.csdn.net/2602_95649725/article/details/170819780)
+
++ [(开源)旅游小程序实战指南 基于 Java + SpringBoot + uni-app + Vue + MySQL](https://blog.csdn.net/qq_51399712/article/details/170821133)
+
++ [Memory over maps论文讲解系列一：不构建地图，机器人如何记住并找到物体？](https://blog.csdn.net/2301_79591615/article/details/170443720)
+
++ [实测开源 SoduWork：把“一次做对“的做法沉淀成插件，换个账号照样达标](https://blog.csdn.net/2401_86326742/article/details/170852960)
+
++ [安全与加速一体化：德迅云安全SCDN的用途、作用与场景解析](https://blog.csdn.net/shangguan_001/article/details/170775351)
+

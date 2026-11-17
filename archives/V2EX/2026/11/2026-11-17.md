@@ -21,3 +21,19 @@
 
 + [干半天才发现：人家没读书，却比我混得好](https://www.v2ex.com/t/1257459)
 
++ [玩了发现恋物癖越来越严重了咋办](https://www.v2ex.com/t/1257575)
+
++ [[台灣站長不跑路] 不擔心封號，高穩定 Claude 中轉，評論送 5 刀（也有 Grok、GPT）](https://www.v2ex.com/t/1257569)
+
++ [跟异性聊天总是没话题，有没有军师指点](https://www.v2ex.com/t/1257456)
+
++ [有通勤一个半小时的老哥嘛](https://www.v2ex.com/t/1257548)
+
++ [熊市中就开个银河免 5 定投纳指或者红利低波 ETF 吧，股票也有免 5 的。](https://www.v2ex.com/t/1257573)
+
++ [电鸡充电桩收费如此贵](https://www.v2ex.com/t/1257486)
+
++ [Codex 大家会开 Full access 么](https://www.v2ex.com/t/1257520)
+
++ [北美大豆包是真的不行啊！](https://www.v2ex.com/t/1257419)
+
