@@ -1,5 +1,21 @@
 ## CCTV新闻 
-### 2026-11-18
+### 2026-11-19
+
++ [美国民主党提名杰弗里斯为众议院议长](https://news.cctv.com/2026/11/19/ARTIvF3m1fkWRO2dY2ynlSKt261119.shtml)
+
++ [澳大利亚制裁一批涉定居点的以色列个人和实体](https://news.cctv.com/2026/11/18/ARTI9wjChxnBOEaoHZFVprYr261118.shtml)
+
++ [阿根廷抗议英国安妮公主在马岛等地进行官方活动](https://news.cctv.com/2026/11/18/ARTI87OjOJSjJoAJcVrme5BD261118.shtml)
+
++ [德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判](https://news.cctv.com/2026/11/18/ARTItOLtkG3AwFygcPZ9FlaI261118.shtml)
+
++ [尼日利亚东北部袭击致一名中国公民遇害](https://news.cctv.com/2026/11/18/ARTIlRJ0vhuCaBFsVhKco5lT261118.shtml)
+
++ [法国内政部：14.6万人参与新一轮示威游行](https://news.cctv.com/2026/11/18/ARTIjuJLJ6G2kjJzqvEuJqhD261118.shtml)
+
++ [美官员称对伊朗格什姆岛实施“自卫”打击](https://news.cctv.com/2026/11/18/ARTIYtLuNZ9Ox7FCt7F95mse261118.shtml)
+
++ [英国制裁8家参与以色列定居点建设的公司](https://news.cctv.com/2026/11/18/ARTIyDLFgCiqhIkziF7FyueR261118.shtml)
 
 + [美军否认其在巴林的雷达遭伊朗击中](https://news.cctv.com/2026/11/17/ARTI2ayNXMWxzWyNkeQ6Xff4261117.shtml)
 
@@ -144,30 +160,4 @@
 + [冯德莱恩说欧盟将提出新一轮对俄制裁及援乌方案](https://news.cctv.com/2026/11/12/ARTItqsui4tctOHHI0YXWh94261112.shtml)
 
 + [美政商界人士呼吁共同推动稳定健康的美中关系](https://news.cctv.com/2026/11/12/ARTIm0sEmPhdyiiHRgf4vw7I261112.shtml)
-
-+ [国际锐评丨透过进博之窗，世界深切感知“中国机遇2.0”](https://news.cctv.com/2026/11/12/ARTIQkr64bLvZyEFPu2wEspV261112.shtml)
-
-+ [泽连斯基：“星链”系统近期出现严重运行异常](https://news.cctv.com/2026/11/12/ARTISvnVNHL3RxW3jff5lDyu261112.shtml)
-
-+ [英前首相卡梅伦警告现首相伯纳姆：勿试图重新加入欧盟](https://news.cctv.com/2026/11/12/ARTIMypcOzbH9fco1bCaSKCS261112.shtml)
-
-+ [特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”](https://news.cctv.com/2026/11/12/ARTIYrEyL0lY1T8RAhV9Kj3S261112.shtml)
-
-+ [加沙再遭以军空袭 过冬物资仍受阻](https://news.cctv.com/2026/11/12/ARTIKVqwEOQD4TPl4zoapVCb261112.shtml)
-
-+ [预计俄总统普京将于莫斯科时间今日12时会见美代表](https://news.cctv.com/2026/11/12/ARTITUv62dt0xaUeyeVn3afQ261112.shtml)
-
-+ [以防长：看守政府发动军事行动无需征得反对派同意](https://news.cctv.com/2026/11/12/ARTIN62VXLjmFUEvYPBbTLox261112.shtml)
-
-+ [北美观察丨美防长弹劾案意外受阻 国会与白宫博弈升温](https://news.cctv.com/2026/11/12/ARTIe9X7KoqEyYbBywFU43dE261112.shtml)
-
-+ [德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判](https://news.cctv.com/2026/11/18/ARTItOLtkG3AwFygcPZ9FlaI261118.shtml)
-
-+ [尼日利亚东北部袭击致一名中国公民遇害](https://news.cctv.com/2026/11/18/ARTIlRJ0vhuCaBFsVhKco5lT261118.shtml)
-
-+ [法国内政部：14.6万人参与新一轮示威游行](https://news.cctv.com/2026/11/18/ARTIjuJLJ6G2kjJzqvEuJqhD261118.shtml)
-
-+ [美官员称对伊朗格什姆岛实施“自卫”打击](https://news.cctv.com/2026/11/18/ARTIYtLuNZ9Ox7FCt7F95mse261118.shtml)
-
-+ [英国制裁8家参与以色列定居点建设的公司](https://news.cctv.com/2026/11/18/ARTIyDLFgCiqhIkziF7FyueR261118.shtml)
 
