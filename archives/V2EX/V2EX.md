@@ -21,3 +21,19 @@
 
 + [因为不“冲刺”被“约谈”了](https://www.v2ex.com/t/1257621)
 
++ [马克思的按需分配，能实现吗](https://www.v2ex.com/t/1257906)
+
++ [黑苹果 x86 最后的容光了](https://www.v2ex.com/t/1257674)
+
++ [19 号，后天你们会请假吗？](https://www.v2ex.com/t/1257671)
+
++ [Gemini Ultra 免费一个月？有 V 友领到了吗，想核对下条件](https://www.v2ex.com/t/1257824)
+
++ [我解密了电信光猫里的 m01-b01-inner 插件：它能提取手机号、IMEI，能远程执行命令，还能扫描你家内网](https://www.v2ex.com/t/1257838)
+
++ [如何合法合规的使用海外模型？](https://www.v2ex.com/t/1257817)
+
++ [[送码+抽奖] Fotilo：Mac 的截图+录屏软件（用心打磨了很久）](https://www.v2ex.com/t/1257886)
+
++ [车险都普遍涨价了？有近期已续保或准备续保的 v 友说说吗。](https://www.v2ex.com/t/1257725)
+

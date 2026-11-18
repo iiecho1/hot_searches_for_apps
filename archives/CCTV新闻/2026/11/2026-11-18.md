@@ -161,3 +161,13 @@
 
 + [北美观察丨美防长弹劾案意外受阻 国会与白宫博弈升温](https://news.cctv.com/2026/11/12/ARTIe9X7KoqEyYbBywFU43dE261112.shtml)
 
++ [德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判](https://news.cctv.com/2026/11/18/ARTItOLtkG3AwFygcPZ9FlaI261118.shtml)
+
++ [尼日利亚东北部袭击致一名中国公民遇害](https://news.cctv.com/2026/11/18/ARTIlRJ0vhuCaBFsVhKco5lT261118.shtml)
+
++ [法国内政部：14.6万人参与新一轮示威游行](https://news.cctv.com/2026/11/18/ARTIjuJLJ6G2kjJzqvEuJqhD261118.shtml)
+
++ [美官员称对伊朗格什姆岛实施“自卫”打击](https://news.cctv.com/2026/11/18/ARTIYtLuNZ9Ox7FCt7F95mse261118.shtml)
+
++ [英国制裁8家参与以色列定居点建设的公司](https://news.cctv.com/2026/11/18/ARTIyDLFgCiqhIkziF7FyueR261118.shtml)
+
