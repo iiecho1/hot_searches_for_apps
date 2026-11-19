@@ -21,3 +21,11 @@
 
 + [用完 gpt-6.2 当场退订转 gemini](https://www.v2ex.com/t/1258022)
 
++ [一次涨薪谈话，感受到了行业寒意](https://www.v2ex.com/t/1258013)
+
++ [无套路不烧心 S 级中转站 跃点 API 上线 GPT‑6.2 Sol 和 Astra，回帖送 $5 站内体验额度](https://www.v2ex.com/t/1257921)
+
++ [有个问题，现在还在职的程序员，你们工作中，手搓代码、和用 agent 直接生成代码，各占多少比例？](https://www.v2ex.com/t/1257984)
+
++ [别折腾 Claude 了各位](https://www.v2ex.com/t/1258014)
+

@@ -161,3 +161,11 @@
 
 + [美政商界人士呼吁共同推动稳定健康的美中关系](https://news.cctv.com/2026/11/12/ARTIm0sEmPhdyiiHRgf4vw7I261112.shtml)
 
++ [美媒：“华盛顿”号航母离开中东地区](https://news.cctv.com/2026/11/19/ARTIOerN91f1wBxV5nTcZbyX261119.shtml)
+
++ [海外科技小院：让来自中国田野的经验惠及海外农户](https://news.cctv.com/2026/11/19/ARTIuiJXitgZe6vdE89386MU261119.shtml)
+
++ [洪都拉斯中北部发生多起暴力袭击事件 造成12人死亡](https://news.cctv.com/2026/11/19/ARTI0fTKLIxgP5WwtuIlYjBX261119.shtml)
+
++ [哈马斯称以军在加沙中部军事行动严重违反停火协议](https://news.cctv.com/2026/11/19/ARTI5Xzn0yXdmVYJuP3hf2gG261119.shtml)
+
