@@ -1,43 +1,35 @@
 ## GitHub 
-### 2026-11-19
+### 2026-11-20
 
 + [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 
-+ [cursor/plugins](https://github.com/cursor/plugins)
++ [obra/superpowers](https://github.com/obra/superpowers)
 
 + [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
-+ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
++ [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 
-+ [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
++ [cursor/plugins](https://github.com/cursor/plugins)
 
-+ [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
++ [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 
-+ [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-
-+ [astral-sh/uv](https://github.com/astral-sh/uv)
-
-+ [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)
-
-+ [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-
-+ [sveltejs/svelte](https://github.com/sveltejs/svelte)
-
-+ [jquery/jquery](https://github.com/jquery/jquery)
-
-+ [appwrite/appwrite](https://github.com/appwrite/appwrite)
++ [nginx/nginx](https://github.com/nginx/nginx)
 
 + [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
 
-+ [obra/superpowers](https://github.com/obra/superpowers)
++ [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 
-+ [affaan-m/ECC](https://github.com/affaan-m/ECC)
++ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
-+ [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
++ [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
-+ [n8n-io/n8n](https://github.com/n8n-io/n8n)
++ [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
 
-+ [solidjs/solid](https://github.com/solidjs/solid)
++ [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
 
-+ [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
++ [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+
++ [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+
++ [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
 

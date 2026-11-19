@@ -1,5 +1,27 @@
 ## CCTV新闻 
-### 2026-11-19
+### 2026-11-20
+
++ [丹麦议会通过涉格陵兰岛安全防卫协议](https://news.cctv.com/2026/11/20/ARTIWHfxzerHl5PLjORsOWqP261120.shtml)
+
++ [蒙古国国家大呼拉尔批准总统呼日勒苏赫辞职请求](https://news.cctv.com/2026/11/19/ARTIPaERucsfRqgpJdEHbXkn261119.shtml)
+
++ [韩国高考开考 多项措施严防考试作弊](https://news.cctv.com/2026/11/19/ARTIX08GFaJBoieurO4jDYyP261119.shtml)
+
++ [涉海地总统遇刺案 美国一牧师被裁定有罪](https://news.cctv.com/2026/11/19/ARTINlLt2k4SiO7bD4R23Ezw261119.shtml)
+
++ [伊朗警告地区国家不要为美打击伊朗提供领土设施](https://news.cctv.com/2026/11/19/ARTIBMWdfusqzSZnmjoSnk6Y261119.shtml)
+
++ [历经近50年 美探测器飞离地球一光日](https://news.cctv.com/2026/11/19/ARTIsyT6RlFVaKoNPdzN30PG261119.shtml)
+
++ [日本多个民间团体要求政府坚持“无核三原则”](https://news.cctv.com/2026/11/19/ARTIgKPgWZTeYM8JO2NsdCrf261119.shtml)
+
++ [美媒：“华盛顿”号航母离开中东地区](https://news.cctv.com/2026/11/19/ARTIOerN91f1wBxV5nTcZbyX261119.shtml)
+
++ [海外科技小院：让来自中国田野的经验惠及海外农户](https://news.cctv.com/2026/11/19/ARTIuiJXitgZe6vdE89386MU261119.shtml)
+
++ [洪都拉斯中北部发生多起暴力袭击事件 造成12人死亡](https://news.cctv.com/2026/11/19/ARTI0fTKLIxgP5WwtuIlYjBX261119.shtml)
+
++ [哈马斯称以军在加沙中部军事行动严重违反停火协议](https://news.cctv.com/2026/11/19/ARTI5Xzn0yXdmVYJuP3hf2gG261119.shtml)
 
 + [美国民主党提名杰弗里斯为众议院议长](https://news.cctv.com/2026/11/19/ARTIvF3m1fkWRO2dY2ynlSKt261119.shtml)
 
@@ -138,44 +160,4 @@
 + [英伟达公司宣布黄仁勋辞职](https://news.cctv.com/2026/11/13/ARTItgwx4IFnbLP5R8jtsA3K261113.shtml)
 
 + [古巴外长批评七国集团涉古声明回避美国对古封锁影响](https://news.cctv.com/2026/11/13/ARTI25WH5BaELhAPWxAhoA2h261113.shtml)
-
-+ [安理会通过决议 延长也门制裁机制](https://news.cctv.com/2026/11/13/ARTIpACEI45MLkw5bPjsAwZS261113.shtml)
-
-+ [安理会通过决议 将联中稳定团任务期限延长一年](https://news.cctv.com/2026/11/13/ARTIxSoEFTWGRKtfE3IFjRD0261113.shtml)
-
-+ [墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境](https://news.cctv.com/2026/11/13/ARTIIZMXL9Ai38pfPd7SXrIh261113.shtml)
-
-+ [消息人士称伊朗霍尔木兹甘省锡里克遭敌方袭击](https://news.cctv.com/2026/11/13/ARTIzOURG8ntyTAlsQ6bvNNv261113.shtml)
-
-+ [伊朗专家会议呼吁审议退出《不扩散核武器条约》](https://news.cctv.com/2026/11/13/ARTIZg6CEyZxK2DuCn0NrwT5261113.shtml)
-
-+ [胡塞武装对沙特主导联军多个军事集结点进行打击](https://news.cctv.com/2026/11/13/ARTIgwovLJ6pl74NNPSfyzP7261113.shtml)
-
-+ [土耳其军方一直升机坠毁 已致4人死亡](https://news.cctv.com/2026/11/13/ARTIIMHaUH167PJVVC1M4Wfr261113.shtml)
-
-+ [法国三所学校因炸弹威胁被疏散](https://news.cctv.com/2026/11/13/ARTI4RnHFUhkwYuO14Fsl6Kt261113.shtml)
-
-+ [菲律宾马尼拉街头发生警匪交火 致两死一伤](https://news.cctv.com/2026/11/13/ARTIvHh3dIvCI90N0XvLZl9d261113.shtml)
-
-+ [冯德莱恩说欧盟将提出新一轮对俄制裁及援乌方案](https://news.cctv.com/2026/11/12/ARTItqsui4tctOHHI0YXWh94261112.shtml)
-
-+ [美政商界人士呼吁共同推动稳定健康的美中关系](https://news.cctv.com/2026/11/12/ARTIm0sEmPhdyiiHRgf4vw7I261112.shtml)
-
-+ [美媒：“华盛顿”号航母离开中东地区](https://news.cctv.com/2026/11/19/ARTIOerN91f1wBxV5nTcZbyX261119.shtml)
-
-+ [海外科技小院：让来自中国田野的经验惠及海外农户](https://news.cctv.com/2026/11/19/ARTIuiJXitgZe6vdE89386MU261119.shtml)
-
-+ [洪都拉斯中北部发生多起暴力袭击事件 造成12人死亡](https://news.cctv.com/2026/11/19/ARTI0fTKLIxgP5WwtuIlYjBX261119.shtml)
-
-+ [哈马斯称以军在加沙中部军事行动严重违反停火协议](https://news.cctv.com/2026/11/19/ARTI5Xzn0yXdmVYJuP3hf2gG261119.shtml)
-
-+ [韩国高考开考 多项措施严防考试作弊](https://news.cctv.com/2026/11/19/ARTIX08GFaJBoieurO4jDYyP261119.shtml)
-
-+ [涉海地总统遇刺案 美国一牧师被裁定有罪](https://news.cctv.com/2026/11/19/ARTINlLt2k4SiO7bD4R23Ezw261119.shtml)
-
-+ [伊朗警告地区国家不要为美打击伊朗提供领土设施](https://news.cctv.com/2026/11/19/ARTIBMWdfusqzSZnmjoSnk6Y261119.shtml)
-
-+ [历经近50年 美探测器飞离地球一光日](https://news.cctv.com/2026/11/19/ARTIsyT6RlFVaKoNPdzN30PG261119.shtml)
-
-+ [日本多个民间团体要求政府坚持“无核三原则”](https://news.cctv.com/2026/11/19/ARTIgKPgWZTeYM8JO2NsdCrf261119.shtml)
 
