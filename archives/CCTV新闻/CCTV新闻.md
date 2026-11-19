@@ -169,3 +169,13 @@
 
 + [哈马斯称以军在加沙中部军事行动严重违反停火协议](https://news.cctv.com/2026/11/19/ARTI5Xzn0yXdmVYJuP3hf2gG261119.shtml)
 
++ [韩国高考开考 多项措施严防考试作弊](https://news.cctv.com/2026/11/19/ARTIX08GFaJBoieurO4jDYyP261119.shtml)
+
++ [涉海地总统遇刺案 美国一牧师被裁定有罪](https://news.cctv.com/2026/11/19/ARTINlLt2k4SiO7bD4R23Ezw261119.shtml)
+
++ [伊朗警告地区国家不要为美打击伊朗提供领土设施](https://news.cctv.com/2026/11/19/ARTIBMWdfusqzSZnmjoSnk6Y261119.shtml)
+
++ [历经近50年 美探测器飞离地球一光日](https://news.cctv.com/2026/11/19/ARTIsyT6RlFVaKoNPdzN30PG261119.shtml)
+
++ [日本多个民间团体要求政府坚持“无核三原则”](https://news.cctv.com/2026/11/19/ARTIgKPgWZTeYM8JO2NsdCrf261119.shtml)
+
