@@ -165,3 +165,19 @@
 
 + [特朗普表示不会在新年前“仓促”决定对伊朗行动](https://news.cctv.com/2026/11/20/ARTIAOhvv6E5F2iU5vIQhSZ2261120.shtml)
 
++ [五角大楼官员：美国已为伊朗战事花费超480亿美元](https://news.cctv.com/2026/11/20/ARTIaS4DFK9inda1ChS9Lbyy261120.shtml)
+
++ [保险行会：法国10月骚乱造成财产损失超2亿欧元](https://news.cctv.com/2026/11/20/ARTIcvpOQfHa7Gxc0vheumkY261120.shtml)
+
++ [国际足联公布三名主席候选人](https://news.cctv.com/2026/11/20/ARTI3sMJ2XiHUVVn2F5oA45I261120.shtml)
+
++ [土耳其卡塔尔共同防御协议不含自动派兵条款](https://news.cctv.com/2026/11/20/ARTIMWnIr1BWMvtXDfkS796D261120.shtml)
+
++ [中方强调反对一切形式的恐怖主义](https://news.cctv.com/2026/11/20/ARTI60G3c8kycZ9DWJJXKkE8261120.shtml)
+
++ [此行间·多位APEC经济体领导人盛赞习主席引领中国发展](https://news.cctv.com/2026/11/20/ARTIhcZx2T3JHBFhDXWCDIuS261120.shtml)
+
++ [有中国公民在委内瑞拉遭网络电信诈骗 中使馆发布提醒](https://news.cctv.com/2026/11/20/ARTI6tlSClHUBX8m0uOl2d6O261120.shtml)
+
++ [驻德班总领馆提醒领区中国公民、机构、项目遵守签证法规、严格合法用工](https://news.cctv.com/2026/11/20/ARTIJRFFKMttMVLzaSJJkWOC261120.shtml)
+
