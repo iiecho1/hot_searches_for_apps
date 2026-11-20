@@ -161,3 +161,7 @@
 
 + [古巴外长批评七国集团涉古声明回避美国对古封锁影响](https://news.cctv.com/2026/11/13/ARTI25WH5BaELhAPWxAhoA2h261113.shtml)
 
++ [普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火](https://news.cctv.com/2026/11/20/ARTIEQmlEDhF1MKnmzezTZsR261120.shtml)
+
++ [特朗普表示不会在新年前“仓促”决定对伊朗行动](https://news.cctv.com/2026/11/20/ARTIAOhvv6E5F2iU5vIQhSZ2261120.shtml)
+
