@@ -1,5 +1,37 @@
 ## CCTV新闻 
-### 2026-11-20
+### 2026-11-21
+
++ [数万名日本民众签名反对日本拥有核潜艇](https://news.cctv.com/2026/11/21/ARTIe98jWcRmMlAn4iAPE5Nn261120.shtml)
+
++ [英欧峰会发表联合声明 宣布深化贸易能源和安全合作](https://news.cctv.com/2026/11/20/ARTIYohe5NzGeEPPaPa8hwYe261120.shtml)
+
++ [法国前总理德维尔潘宣布参加2027年总统选举](https://news.cctv.com/2026/11/20/ARTIkXjX5WQr8tBidFXR7C5z261120.shtml)
+
++ [俄副外长：乌克兰加入北约“完全不可接受”](https://news.cctv.com/2026/11/20/ARTIu4VBPZVqyjbMUu0E8iG3261120.shtml)
+
++ [以色列被曝升级“大卫投石索”防空系统](https://news.cctv.com/2026/11/20/ARTIDtCH4cRd7KUMsvkhn1QD261120.shtml)
+
++ [默茨：欧洲将“很快”加入乌克兰问题谈判](https://news.cctv.com/2026/11/20/ARTIdqPkOzZsQaaYGGtMyNjx261120.shtml)
+
++ [五角大楼官员：美国已为伊朗战事花费超480亿美元](https://news.cctv.com/2026/11/20/ARTIaS4DFK9inda1ChS9Lbyy261120.shtml)
+
++ [保险行会：法国10月骚乱造成财产损失超2亿欧元](https://news.cctv.com/2026/11/20/ARTIcvpOQfHa7Gxc0vheumkY261120.shtml)
+
++ [国际足联公布三名主席候选人](https://news.cctv.com/2026/11/20/ARTI3sMJ2XiHUVVn2F5oA45I261120.shtml)
+
++ [土耳其卡塔尔共同防御协议不含自动派兵条款](https://news.cctv.com/2026/11/20/ARTIMWnIr1BWMvtXDfkS796D261120.shtml)
+
++ [中方强调反对一切形式的恐怖主义](https://news.cctv.com/2026/11/20/ARTI60G3c8kycZ9DWJJXKkE8261120.shtml)
+
++ [此行间·多位APEC经济体领导人盛赞习主席引领中国发展](https://news.cctv.com/2026/11/20/ARTIhcZx2T3JHBFhDXWCDIuS261120.shtml)
+
++ [有中国公民在委内瑞拉遭网络电信诈骗 中使馆发布提醒](https://news.cctv.com/2026/11/20/ARTI6tlSClHUBX8m0uOl2d6O261120.shtml)
+
++ [驻德班总领馆提醒领区中国公民、机构、项目遵守签证法规、严格合法用工](https://news.cctv.com/2026/11/20/ARTIJRFFKMttMVLzaSJJkWOC261120.shtml)
+
++ [普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火](https://news.cctv.com/2026/11/20/ARTIEQmlEDhF1MKnmzezTZsR261120.shtml)
+
++ [特朗普表示不会在新年前“仓促”决定对伊朗行动](https://news.cctv.com/2026/11/20/ARTIAOhvv6E5F2iU5vIQhSZ2261120.shtml)
 
 + [丹麦议会通过涉格陵兰岛安全防卫协议](https://news.cctv.com/2026/11/20/ARTIWHfxzerHl5PLjORsOWqP261120.shtml)
 
@@ -126,58 +158,4 @@
 + [国际能源署预计第四季度全球石油供应转向过剩](https://news.cctv.com/2026/11/13/ARTIzJnw3q0yHfLbybUjdQkA261113.shtml)
 
 + [波兰华沙肖邦国际机场一架客机因无人机干扰中止降落](https://news.cctv.com/2026/11/13/ARTI2RDD5Ce3bdeShwlHykEB261113.shtml)
-
-+ [越南胡志明市一家燃气店爆炸 致2死12伤](https://news.cctv.com/2026/11/13/ARTISQ8B2dY51p3IYJ7M4clA261113.shtml)
-
-+ [驻菲律宾使馆提醒在菲中国公民关注东盟峰会期间交通管制消息](https://news.cctv.com/2026/11/13/ARTIDVo0110Xi0Bm7QwJPwDe261113.shtml)
-
-+ [驻尼泊尔大使馆再次提醒中国公民切勿无签证进入印度](https://news.cctv.com/2026/11/13/ARTIIQjoUZNDujCIWDxqz7KP261113.shtml)
-
-+ [国际观察丨反对派对内塔尼亚胡的“立法攻势”能否奏效](https://news.cctv.com/2026/11/13/ARTIlaiV2j5QxGkO1q8aTSA9261113.shtml)
-
-+ [日本核污染水排放总量超19万吨](https://news.cctv.com/2026/11/13/ARTIBZc4m8eaBLoBRDD179s2261113.shtml)
-
-+ [聚焦APEC丨澳经济学家：期待亚太共同体建设成为其他地区典范](https://news.cctv.com/2026/11/13/ARTIVIUAEPkkmr7Jl7aTIhDU261113.shtml)
-
-+ [时隔两个月 伊朗再次打击美军在中东军事设施](https://news.cctv.com/2026/11/13/ARTIthjl1qncMbVt4ozboCa6261113.shtml)
-
-+ [内部现分歧 美参议院民主党领袖连任遭挑战](https://news.cctv.com/2026/11/13/ARTIELbO49aFPKgwPakgajUB261113.shtml)
-
-+ [巴基斯坦军方称打死74名武装分子](https://news.cctv.com/2026/11/13/ARTIEG2jTv26T9tf5yVGMh75261113.shtml)
-
-+ [驻伊尔库茨克总领馆提醒领区中国公民出入境须严格遵守俄海关规定](https://news.cctv.com/2026/11/13/ARTIzf0g5p8gcDOOnr8vdJBW261113.shtml)
-
-+ [巴布亚新几内亚附近海域发生5.8级地震 震源深度20千米](https://news.cctv.com/2026/11/13/ARTInczQJN40YEty5CM3oWTQ261113.shtml)
-
-+ [库什纳称俄乌双方同意下轮谈判将欧洲国家纳入其中](https://news.cctv.com/2026/11/13/ARTIJFrxPqyTrSRAvZSpLrWE261113.shtml)
-
-+ [意大利已有3778所学校收到炸弹威胁邮件 77所实施疏散](https://news.cctv.com/2026/11/13/ARTI7zIsPmEsPcfcX09a816T261113.shtml)
-
-+ [徽剧亮相维也纳 “中国戏演出季”落幕](https://photo.cctv.com/2026/11/13/PHOA7W4yQ0yqYkuzQ0bRgu7x261113.shtml)
-
-+ [克雷斯就任英伟达临时首席执行官](https://news.cctv.com/2026/11/13/ARTIwSqCfZyasdojyh0QBgQO261113.shtml)
-
-+ [英伟达公司宣布黄仁勋辞职](https://news.cctv.com/2026/11/13/ARTItgwx4IFnbLP5R8jtsA3K261113.shtml)
-
-+ [古巴外长批评七国集团涉古声明回避美国对古封锁影响](https://news.cctv.com/2026/11/13/ARTI25WH5BaELhAPWxAhoA2h261113.shtml)
-
-+ [普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火](https://news.cctv.com/2026/11/20/ARTIEQmlEDhF1MKnmzezTZsR261120.shtml)
-
-+ [特朗普表示不会在新年前“仓促”决定对伊朗行动](https://news.cctv.com/2026/11/20/ARTIAOhvv6E5F2iU5vIQhSZ2261120.shtml)
-
-+ [五角大楼官员：美国已为伊朗战事花费超480亿美元](https://news.cctv.com/2026/11/20/ARTIaS4DFK9inda1ChS9Lbyy261120.shtml)
-
-+ [保险行会：法国10月骚乱造成财产损失超2亿欧元](https://news.cctv.com/2026/11/20/ARTIcvpOQfHa7Gxc0vheumkY261120.shtml)
-
-+ [国际足联公布三名主席候选人](https://news.cctv.com/2026/11/20/ARTI3sMJ2XiHUVVn2F5oA45I261120.shtml)
-
-+ [土耳其卡塔尔共同防御协议不含自动派兵条款](https://news.cctv.com/2026/11/20/ARTIMWnIr1BWMvtXDfkS796D261120.shtml)
-
-+ [中方强调反对一切形式的恐怖主义](https://news.cctv.com/2026/11/20/ARTI60G3c8kycZ9DWJJXKkE8261120.shtml)
-
-+ [此行间·多位APEC经济体领导人盛赞习主席引领中国发展](https://news.cctv.com/2026/11/20/ARTIhcZx2T3JHBFhDXWCDIuS261120.shtml)
-
-+ [有中国公民在委内瑞拉遭网络电信诈骗 中使馆发布提醒](https://news.cctv.com/2026/11/20/ARTI6tlSClHUBX8m0uOl2d6O261120.shtml)
-
-+ [驻德班总领馆提醒领区中国公民、机构、项目遵守签证法规、严格合法用工](https://news.cctv.com/2026/11/20/ARTIJRFFKMttMVLzaSJJkWOC261120.shtml)
 
