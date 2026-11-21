@@ -41,3 +41,19 @@
 
 + [一键使用 Claude Code Opus 5.5，不用折腾账号和 API](https://www.v2ex.com/t/1258640)
 
++ [「黑五 7 折 + 送 10 个终身版」Enconvo：自带 Computer Use 和 Browser Use 的 AI 助手，Mac / Windows / Linux / iPhone / Android 全平台原生应用](https://www.v2ex.com/t/1258698)
+
++ [Claude 被连封两个账号，不想折腾了，接下来用啥？](https://www.v2ex.com/t/1258753)
+
++ [黑五将至，有什么靠谱的 VPS 推荐不？](https://www.v2ex.com/t/1258697)
+
++ [2019 intel 款 mac 最多再战 1 年，到时候 M 系列 mac 会降价么](https://www.v2ex.com/t/1258693)
+
++ [入了 Gemini Pro 之后，已经严肃取消 GPT plus](https://www.v2ex.com/t/1258745)
+
++ [gemini neon 不堪大任](https://www.v2ex.com/t/1258716)
+
++ [今天到 26 号哈基米黑五半价啊](https://www.v2ex.com/t/1258768)
+
++ [健身卡高价接盘后突遇降价补跌，亏 300，求支招](https://www.v2ex.com/t/1258772)
+

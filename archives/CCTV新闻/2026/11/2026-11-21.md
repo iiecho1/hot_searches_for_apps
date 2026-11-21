@@ -185,3 +185,13 @@
 
 + [日本连发儿童受虐致死事件 政府拟全国排查](https://news.cctv.com/2026/11/21/ARTIc3LZuJ1BQmd1mVMN0k9v261121.shtml)
 
++ [泽连斯基会见英国国防大臣 讨论乌防空能力建设](https://news.cctv.com/2026/11/21/ARTIfcdpKuSFABtp0W0tm5mP261121.shtml)
+
++ [又有美法官叫停华盛顿“凯旋门”项目动工](https://news.cctv.com/2026/11/21/ARTIKfOXuzazhIrJ2MlwVr6h261121.shtml)
+
++ [伊朗伊斯兰革命卫队总司令视察“导弹城”](https://news.cctv.com/2026/11/21/ARTILxULHpy66kicS25mto5g261121.shtml)
+
++ [俄方称克里米亚大桥铁路运输已全面恢复](https://news.cctv.com/2026/11/21/ARTIFlLY2pLqkq6x8TjvrYRd261121.shtml)
+
++ [中国驻沙特使馆再次提醒在沙特中资机构和中国公民注意安全](https://news.cctv.com/2026/11/21/ARTI4SW8BwYZdavvK5SlWH4y261121.shtml)
+
