@@ -25,3 +25,5 @@
 
 + [苹果 20 周年款 iPhone 渲染图曝光：整机如一块玻璃，四曲面带来“无边框”观感](https://m.ithome.com/html/1029868.htm)
 
++ [微软 XBOX 为蹭《GTA 6》热度煞费苦心，却始终不敢直接提游戏名字](https://m.ithome.com/html/1029548.htm)
+
