@@ -1,5 +1,45 @@
 ## CCTV新闻 
-### 2026-11-21
+### 2026-11-22
+
++ [美军中央司令部否认有F-16战机被伊朗击中](https://news.cctv.com/2026/11/22/ARTIJ4wiHhCm3GN2ZrD90PGE261122.shtml)
+
++ [伊朗称在波斯湾上空拦截并击中一架美军F-16战机](https://news.cctv.com/2026/11/22/ARTI9OGq3zZmdI15kdvDcssi261121.shtml)
+
++ [泽连斯基会见英国国防大臣 讨论乌防空能力建设](https://news.cctv.com/2026/11/21/ARTIfcdpKuSFABtp0W0tm5mP261121.shtml)
+
++ [又有美法官叫停华盛顿“凯旋门”项目动工](https://news.cctv.com/2026/11/21/ARTIKfOXuzazhIrJ2MlwVr6h261121.shtml)
+
++ [伊朗伊斯兰革命卫队总司令视察“导弹城”](https://news.cctv.com/2026/11/21/ARTILxULHpy66kicS25mto5g261121.shtml)
+
++ [俄方称克里米亚大桥铁路运输已全面恢复](https://news.cctv.com/2026/11/21/ARTIFlLY2pLqkq6x8TjvrYRd261121.shtml)
+
++ [中国驻沙特使馆再次提醒在沙特中资机构和中国公民注意安全](https://news.cctv.com/2026/11/21/ARTI4SW8BwYZdavvK5SlWH4y261121.shtml)
+
++ [沙特主导的多国联军称拦截并摧毁3枚弹道导弹](https://news.cctv.com/2026/11/21/ARTI1oWTsxe4zkyPodHr0n0l261121.shtml)
+
++ [阿根廷政府批准该国规模最大投资项目](https://news.cctv.com/2026/11/21/ARTIKrb3PvzoEpEB3e4eMAPE261121.shtml)
+
++ [又有300人抵墨 中美洲移民队伍试图北上赴美](https://news.cctv.com/2026/11/21/ARTIG1bMVpsDeG3tDPL1IL6V261121.shtml)
+
++ [俄外交部：元首外交在俄中关系中发挥特殊引领作用](https://news.cctv.com/2026/11/21/ARTInp0DftKTxl3IcahOMJVM261121.shtml)
+
++ [美货运“龙”飞船脱离空间站启程返回地球](https://news.cctv.com/2026/11/21/ARTI24fK086BIhbpy891jya9261121.shtml)
+
++ [日媒：日本研究引进核潜艇及为“无核三原则”设例外](https://news.cctv.com/2026/11/21/ARTIYAaU4atZIbiw8bRHPsqg261121.shtml)
+
++ [南非7月至9月发生5590起谋杀案 超半数案发公共场所](https://news.cctv.com/2026/11/21/ARTIAEUxjrQ6lc2CXPf9ioqK261121.shtml)
+
++ [英国推进移民制度改革 持续关停庇护安置酒店](https://news.cctv.com/2026/11/21/ARTI03x7QnN1sVfvIxj1cLCf261121.shtml)
+
++ [秘鲁发生6.7级地震 震源深度100千米](https://news.cctv.com/2026/11/21/ARTIiMtDNGuKodqYm7nZcNW7261121.shtml)
+
++ [日本连发儿童受虐致死事件 政府拟全国排查](https://news.cctv.com/2026/11/21/ARTIc3LZuJ1BQmd1mVMN0k9v261121.shtml)
+
++ [特朗普：伊朗“不想达成我能接受的协议”](https://news.cctv.com/2026/11/21/ARTI52nom1tRU2e371nTPrK0261121.shtml)
+
++ [特朗普：中俄美元首会晤“史无前例”“意义重大”](https://news.cctv.com/2026/11/21/ARTIMxThTfub7GUawDeL2y4q261121.shtml)
+
++ [日本政府关键网络业务系统遭非法访问](https://news.cctv.com/2026/11/21/ARTIo5tI2M8bftFSDZHBx1Ft261120.shtml)
 
 + [数万名日本民众签名反对日本拥有核潜艇](https://news.cctv.com/2026/11/21/ARTIe98jWcRmMlAn4iAPE5Nn261120.shtml)
 
@@ -118,80 +158,4 @@
 + [日本本州岛发生5.4级地震 震源深度280公里](https://news.cctv.com/2026/11/16/ARTI9hvnwaWK5zQWzwZctBzX261116.shtml)
 
 + [“罗斯福”号抵达 美军在中东集结三个航空母舰打击群](https://news.cctv.com/2026/11/16/ARTIeboK8gIcjrMvEBuwOfrh261116.shtml)
-
-+ [俄称爱沙尼亚关闭边境口岸为“恐俄症”表现](https://news.cctv.com/2026/11/16/ARTI5L9tkpeI23ZMvoNInndZ261116.shtml)
-
-+ [联合国等五机构就苏丹无人机袭击发表联合声明](https://news.cctv.com/2026/11/16/ARTIqFDAUhtRG1LgektE5uLz261116.shtml)
-
-+ [伊朗称一艘油轮在霍尔木兹海峡以东触雷起火](https://news.cctv.com/2026/11/16/ARTITYuoou5oyge2e90LPLx8261116.shtml)
-
-+ [美“火神”火箭未能将亚马逊卫星送入预定轨道](https://news.cctv.com/2026/11/16/ARTI1QzosojvS5zlB2qPlUkV261116.shtml)
-
-+ [胡塞武装称沙特联军24小时内75次袭击也门多地](https://news.cctv.com/2026/11/16/ARTIYtX4SO8UdgBc5wlYeHUM261116.shtml)
-
-+ [也门胡塞武装单方面宣布释放600名被俘人员](https://news.cctv.com/2026/11/15/ARTIG67NVY0hp0xJvyMEYxxq261115.shtml)
-
-+ [伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸](https://news.cctv.com/2026/11/15/ARTIX8jJHNLCHAzzXuZTZicj261115.shtml)
-
-+ [哥伦比亚西南部发生一起交通事故 已致8死20伤](https://news.cctv.com/2026/11/15/ARTIbrfMhHzAyLoeJ6pZxAnk261115.shtml)
-
-+ [未经同意读取用户手机相册 意大利对Meta罚款超8亿欧元](https://news.cctv.com/2026/11/15/ARTIbvFrrCXRkQ9px0K2gUAN261115.shtml)
-
-+ [美“星舰”飞船首次被发射塔机械臂“捕获”回收](https://news.cctv.com/2026/11/15/ARTIPzM6XAPF2GRTVUHLkQkt261115.shtml)
-
-+ [一巴西籍青少年被以色列羁押期间死亡 巴西政府要求解释](https://news.cctv.com/2026/11/14/ARTI5Svi0GarmbN2LZS9zZMq261114.shtml)
-
-+ [古巴国家主席：古巴决心抵制任何外国军事侵略企图](https://news.cctv.com/2026/11/14/ARTIVpS6nUqsNfmEZRtIcOCO261114.shtml)
-
-+ [美媒：全美航班停飞令已解除](https://news.cctv.com/2026/11/14/ARTIzKli6aDdKPPkyBMbVYuB261114.shtml)
-
-+ [以军总参谋长主张暂缓对伊朗动武 多名以高官反对](https://news.cctv.com/2026/11/14/ARTIprkFiV75BYAZyX2gZf2T261114.shtml)
-
-+ [微软就全球服务中断道歉 称故障非网络攻击所致](https://news.cctv.com/2026/11/14/ARTIcp9G5NhU2UCxXvTWKF98261114.shtml)
-
-+ [阿根廷大首都区发生燃气爆炸致20余人受伤](https://news.cctv.com/2026/11/14/ARTIQAVD6LZqH9XIMoEXqj9A261114.shtml)
-
-+ [俄外交部：俄美会晤未讨论欧洲参与乌克兰问题谈判事宜](https://news.cctv.com/2026/11/14/ARTI03CSEexQkwBcyxPecik9261114.shtml)
-
-+ [日本政府拟将未来五年防卫费总额提高至60万亿日元](https://news.cctv.com/2026/11/14/ARTI3ZKQuIZqna4nbnIn3pOJ261114.shtml)
-
-+ [国际能源署预计第四季度全球石油供应转向过剩](https://news.cctv.com/2026/11/13/ARTIzJnw3q0yHfLbybUjdQkA261113.shtml)
-
-+ [波兰华沙肖邦国际机场一架客机因无人机干扰中止降落](https://news.cctv.com/2026/11/13/ARTI2RDD5Ce3bdeShwlHykEB261113.shtml)
-
-+ [特朗普：伊朗“不想达成我能接受的协议”](https://news.cctv.com/2026/11/21/ARTI52nom1tRU2e371nTPrK0261121.shtml)
-
-+ [特朗普：中俄美元首会晤“史无前例”“意义重大”](https://news.cctv.com/2026/11/21/ARTIMxThTfub7GUawDeL2y4q261121.shtml)
-
-+ [日本政府关键网络业务系统遭非法访问](https://news.cctv.com/2026/11/21/ARTIo5tI2M8bftFSDZHBx1Ft261120.shtml)
-
-+ [沙特主导的多国联军称拦截并摧毁3枚弹道导弹](https://news.cctv.com/2026/11/21/ARTI1oWTsxe4zkyPodHr0n0l261121.shtml)
-
-+ [阿根廷政府批准该国规模最大投资项目](https://news.cctv.com/2026/11/21/ARTIKrb3PvzoEpEB3e4eMAPE261121.shtml)
-
-+ [又有300人抵墨 中美洲移民队伍试图北上赴美](https://news.cctv.com/2026/11/21/ARTIG1bMVpsDeG3tDPL1IL6V261121.shtml)
-
-+ [俄外交部：元首外交在俄中关系中发挥特殊引领作用](https://news.cctv.com/2026/11/21/ARTInp0DftKTxl3IcahOMJVM261121.shtml)
-
-+ [美货运“龙”飞船脱离空间站启程返回地球](https://news.cctv.com/2026/11/21/ARTI24fK086BIhbpy891jya9261121.shtml)
-
-+ [日媒：日本研究引进核潜艇及为“无核三原则”设例外](https://news.cctv.com/2026/11/21/ARTIYAaU4atZIbiw8bRHPsqg261121.shtml)
-
-+ [南非7月至9月发生5590起谋杀案 超半数案发公共场所](https://news.cctv.com/2026/11/21/ARTIAEUxjrQ6lc2CXPf9ioqK261121.shtml)
-
-+ [英国推进移民制度改革 持续关停庇护安置酒店](https://news.cctv.com/2026/11/21/ARTI03x7QnN1sVfvIxj1cLCf261121.shtml)
-
-+ [秘鲁发生6.7级地震 震源深度100千米](https://news.cctv.com/2026/11/21/ARTIiMtDNGuKodqYm7nZcNW7261121.shtml)
-
-+ [日本连发儿童受虐致死事件 政府拟全国排查](https://news.cctv.com/2026/11/21/ARTIc3LZuJ1BQmd1mVMN0k9v261121.shtml)
-
-+ [泽连斯基会见英国国防大臣 讨论乌防空能力建设](https://news.cctv.com/2026/11/21/ARTIfcdpKuSFABtp0W0tm5mP261121.shtml)
-
-+ [又有美法官叫停华盛顿“凯旋门”项目动工](https://news.cctv.com/2026/11/21/ARTIKfOXuzazhIrJ2MlwVr6h261121.shtml)
-
-+ [伊朗伊斯兰革命卫队总司令视察“导弹城”](https://news.cctv.com/2026/11/21/ARTILxULHpy66kicS25mto5g261121.shtml)
-
-+ [俄方称克里米亚大桥铁路运输已全面恢复](https://news.cctv.com/2026/11/21/ARTIFlLY2pLqkq6x8TjvrYRd261121.shtml)
-
-+ [中国驻沙特使馆再次提醒在沙特中资机构和中国公民注意安全](https://news.cctv.com/2026/11/21/ARTI4SW8BwYZdavvK5SlWH4y261121.shtml)
 
