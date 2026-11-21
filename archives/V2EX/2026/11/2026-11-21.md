@@ -21,3 +21,23 @@
 
 + [听过 ICQ 没？OICQ？做了个 OICU](https://www.v2ex.com/t/1258464)
 
++ [在清华读了一年非全后的感受](https://www.v2ex.com/t/1258591)
+
++ [[更新] iPhone 上远程使用 ClaudeCode 等 Coding Agent 的 UULink 重磅更新，这回征集 Windows 测试用户，另外还是长期送兑换码给真正需要的朋友](https://www.v2ex.com/t/1258620)
+
++ [黎曼猜想被证明了？](https://www.v2ex.com/t/1258665)
+
++ [想偷偷出钱，做个让爸妈锻炼打卡就能提现的 App，怎么实现？](https://www.v2ex.com/t/1258661)
+
++ [黎曼猜想证明意味着…….](https://www.v2ex.com/t/1258688)
+
++ [许愿式编程会取代程序员吗？](https://www.v2ex.com/t/1258629)
+
++ [逆向了 macOS 屏幕共享的高性能模式，做了个免费的 iPhone / iPad 连 Mac 远程桌面](https://www.v2ex.com/t/1258592)
+
++ [推荐个梯子吧，自己买了好几个，一到晚上连油管都打不开 太拉了，打算预算可以加一点](https://www.v2ex.com/t/1258717)
+
++ [开发几乎成了我的全部生活，也想请教大家怎么推广自己的产品](https://www.v2ex.com/t/1258625)
+
++ [一键使用 Claude Code Opus 5.5，不用折腾账号和 API](https://www.v2ex.com/t/1258640)
+
