@@ -25,3 +25,11 @@
 
 + [全新一代比亚迪汉新款配色实车曝光](https://m.ithome.com/html/1030617.htm)
 
++ [消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm](https://m.ithome.com/html/1030439.htm)
+
++ [不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态](https://m.ithome.com/html/1030409.htm)
+
++ [《GTA6》雷奥奈达州完整地图海报上线 R 星官网，玩家可自行下载打印](https://m.ithome.com/html/1030462.htm)
+
++ [魅族 MIFI N1 随身 Wi-Fi 发售：搭移芯 EC800LE 芯片，3000mAh 电池，39 元起](https://m.ithome.com/html/1030407.htm)
+

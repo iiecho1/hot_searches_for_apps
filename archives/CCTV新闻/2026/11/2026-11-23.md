@@ -159,3 +159,11 @@
 
 + [美军证实“罗斯福”号航母已抵达中东](https://news.cctv.com/2026/11/17/ARTIWdjeQ6xrFmEFrUopMs36261117.shtml)
 
++ [内塔尼亚胡被曝正考虑单独对伊朗动武](https://news.cctv.com/2026/11/23/ARTI0B2eGX2sMuxecPci0Axu261123.shtml)
+
++ [古特雷斯对COP31未就政治决定达成一致表示失望](https://news.cctv.com/2026/11/23/ARTIYb0E0uNL6ZQR14lDKafO261123.shtml)
+
++ [达美航空在亚特兰大国际机场数百个航班出现延误](https://news.cctv.com/2026/11/23/ARTIBCQ1CBRpBcQHJ0O5nE0M261123.shtml)
+
++ [印尼糖果厂火灾现场整理出24个尸袋 约30人失联](https://news.cctv.com/2026/11/23/ARTIR094zUTCzDBHosMObb3B261122.shtml)
+
