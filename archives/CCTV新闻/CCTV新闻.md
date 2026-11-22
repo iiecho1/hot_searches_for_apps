@@ -159,3 +159,11 @@
 
 + [“罗斯福”号抵达 美军在中东集结三个航空母舰打击群](https://news.cctv.com/2026/11/16/ARTIeboK8gIcjrMvEBuwOfrh261116.shtml)
 
++ [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行](https://news.cctv.com/2026/11/22/ARTIWEASRO35IZcSEXQWd3NP261122.shtml)
+
++ [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行](https://news.cctv.com/2026/11/22/ARTIRykXubtyedh6iZTQJ51F261122.shtml)
+
++ [墨西哥抓获大毒枭“矮子伊西德罗”](https://news.cctv.com/2026/11/22/ARTI9lJ4k7Gf9DJNOarNHrv2261122.shtml)
+
++ [伊朗伊斯兰革命卫队对巴林美军基地进行打击](https://news.cctv.com/2026/11/22/ARTIRnmbxQ7WwwRhwmzX8wNr261122.shtml)
+

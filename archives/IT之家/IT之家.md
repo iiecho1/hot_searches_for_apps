@@ -25,3 +25,23 @@
 
 + [鸿蒙全新版本来袭！华为星芒 OSTA O1 Pro 官宣首搭 HarmonyOS 7 AI 先锋版系统](https://m.ithome.com/html/1030101.htm)
 
++ [消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm](https://m.ithome.com/html/1030439.htm)
+
++ [全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图](https://m.ithome.com/html/1030334.htm)
+
++ [黄仁勋下台后有人挖出英伟达 20 年前员工投诉记录，指控其威胁下属、发表色情言论](https://m.ithome.com/html/1030316.htm)
+
++ [英伟达董事会为何对黄仁勋态度转变？婚外情无关紧要，核心问题在于诚信](https://m.ithome.com/html/1030325.htm)
+
++ [消息称华为星芒品牌已在内部酝酿约三年，将承担更多前沿技术的率先应用任务](https://m.ithome.com/html/1030353.htm)
+
++ [黄仁勋没有的“护身符”：Anthropic 创始人手握 50.1% 投票权建立“反夺权”机制](https://m.ithome.com/html/1030348.htm)
+
++ [《GTA 6》卖爆了：预售超 2400 万份，一家实体游戏店却只卖出 5 份](https://m.ithome.com/html/1030368.htm)
+
++ [南非开发者宣称独自开发操作系统 Impossible OS：兼容 Win32 和 Linux 二进制程序，两年后见](https://m.ithome.com/html/1030479.htm)
+
++ [不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态](https://m.ithome.com/html/1030409.htm)
+
++ [华为 Mate X8 大折叠手机黑白双色亮相，11 月 24 日发布](https://m.ithome.com/html/1030324.htm)
+
