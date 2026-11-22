@@ -1,5 +1,31 @@
 ## CCTV新闻 
-### 2026-11-22
+### 2026-11-23
+
++ [专访丨“四梁”将持续助力澳中合作——访澳中工商业委员会全国主席里斯·罗伯茨](https://news.cctv.com/2026/11/22/ARTISJvZKSZPrAcdrQpYBE33261122.shtml)
+
++ [东西问丨多国政要点赞深圳、感谢中国：完美得无可挑剔](https://news.cctv.com/2026/11/22/ARTI5FduQbWaIUHIBKbIyeId261122.shtml)
+
++ [记者手记丨这条造福非洲的“自由之路”正在激活](https://news.cctv.com/2026/11/22/ARTI8kPdi15Ll03RDQNlEgI6261122.shtml)
+
++ [通讯丨虫口夺粮——中国与粮农组织合作防治非洲农作物虫害](https://news.cctv.com/2026/11/22/ARTI7ewxvB7o3OKEZALJF7Wo261122.shtml)
+
++ [澳中工商业委员会COO：乐见澳中关系保持稳定 有利于双方发展](https://news.cctv.com/2026/11/22/ARTIPDla4NqHv71FKUBNkd5L261122.shtml)
+
++ [尼日利亚一船只倾覆 已致24人死亡](https://news.cctv.com/2026/11/22/ARTIU9ch4JVksuC9y2Fxtb4R261122.shtml)
+
++ [南非开普敦一酒馆发生枪击事件 致4死5伤](https://news.cctv.com/2026/11/22/ARTItBnRvds8W8jvIqVlOYV6261122.shtml)
+
++ [韩国高考AI作弊事件发酵 教育部长引咎辞职](https://news.cctv.com/2026/11/22/ARTIqSLcUjxAyqXGXEElAs6t261122.shtml)
+
++ [特朗普返美后点赞深圳：“那股活力令人赞叹”](https://news.cctv.com/2026/11/22/ARTInm0sSDvxuIu05G6lvTfP261122.shtml)
+
++ [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行](https://news.cctv.com/2026/11/22/ARTIWEASRO35IZcSEXQWd3NP261122.shtml)
+
++ [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行](https://news.cctv.com/2026/11/22/ARTIRykXubtyedh6iZTQJ51F261122.shtml)
+
++ [墨西哥抓获大毒枭“矮子伊西德罗”](https://news.cctv.com/2026/11/22/ARTI9lJ4k7Gf9DJNOarNHrv2261122.shtml)
+
++ [伊朗伊斯兰革命卫队对巴林美军基地进行打击](https://news.cctv.com/2026/11/22/ARTIRnmbxQ7WwwRhwmzX8wNr261122.shtml)
 
 + [美军中央司令部否认有F-16战机被伊朗击中](https://news.cctv.com/2026/11/22/ARTIJ4wiHhCm3GN2ZrD90PGE261122.shtml)
 
@@ -132,46 +158,4 @@
 + [泽连斯基：欧洲谈判团队首次“全阵容”与乌美磋商](https://news.cctv.com/2026/11/17/ARTIQY12c4qvP1fGNM3gEr9R261117.shtml)
 
 + [美军证实“罗斯福”号航母已抵达中东](https://news.cctv.com/2026/11/17/ARTIWdjeQ6xrFmEFrUopMs36261117.shtml)
-
-+ [波黑新一届主席团成员宣誓就职](https://news.cctv.com/2026/11/17/ARTIsuH8wpq4iz1yn4QH4k3P261117.shtml)
-
-+ [日本推动修订“安保三文件” 日媒披露“防卫产业基础战略”部分内容](https://news.cctv.com/2026/11/17/ARTIiIMO6SXbYpVfgODxxBUe261117.shtml)
-
-+ [韩国全北道将单独申办2036年夏季奥运会](https://news.cctv.com/2026/11/16/ARTIXGjJP2ffOew0tjyDgtJ2261116.shtml)
-
-+ [日本东京发生持刀伤人事件致1人死亡 嫌疑人被捕](https://news.cctv.com/2026/11/16/ARTI4HwAv6LtuxPmGAHy0Y3G261116.shtml)
-
-+ [伊朗称捕获一美军MQM-170无人机](https://news.cctv.com/2026/11/16/ARTIQ1kBNSzLrrpIKqTfrKsf261116.shtml)
-
-+ [消息人士：胡塞武装逼近也门政府所在地亚丁](https://news.cctv.com/2026/11/16/ARTIgEJCJiji2LcAchfpZix0261116.shtml)
-
-+ [美交通部长拒绝为全美航班停飞道歉](https://news.cctv.com/2026/11/16/ARTI7bX5UUzSjz78t9bnUUF5261116.shtml)
-
-+ [日研究所承认“富岳”超算遭非法访问](https://news.cctv.com/2026/11/16/ARTI2JYsyIcQYOdcWgDl6IAx261116.shtml)
-
-+ [克里米亚大桥遭袭 交通受限](https://news.cctv.com/2026/11/16/ARTIkHiLabiBG4HpcCZrMPrP261116.shtml)
-
-+ [苏丹西部一城镇遭遇空袭 造成15人死亡](https://news.cctv.com/2026/11/16/ARTIkqqlGod1oMV1qfoRutsY261116.shtml)
-
-+ [联合国官员：中国新型电力系统建设为全球提供借鉴](https://news.cctv.com/2026/11/16/ARTIy3SISLJCHAObyuHOLKsN261116.shtml)
-
-+ [日本本州岛发生5.4级地震 震源深度280公里](https://news.cctv.com/2026/11/16/ARTI9hvnwaWK5zQWzwZctBzX261116.shtml)
-
-+ [“罗斯福”号抵达 美军在中东集结三个航空母舰打击群](https://news.cctv.com/2026/11/16/ARTIeboK8gIcjrMvEBuwOfrh261116.shtml)
-
-+ [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行](https://news.cctv.com/2026/11/22/ARTIWEASRO35IZcSEXQWd3NP261122.shtml)
-
-+ [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行](https://news.cctv.com/2026/11/22/ARTIRykXubtyedh6iZTQJ51F261122.shtml)
-
-+ [墨西哥抓获大毒枭“矮子伊西德罗”](https://news.cctv.com/2026/11/22/ARTI9lJ4k7Gf9DJNOarNHrv2261122.shtml)
-
-+ [伊朗伊斯兰革命卫队对巴林美军基地进行打击](https://news.cctv.com/2026/11/22/ARTIRnmbxQ7WwwRhwmzX8wNr261122.shtml)
-
-+ [尼日利亚一船只倾覆 已致24人死亡](https://news.cctv.com/2026/11/22/ARTIU9ch4JVksuC9y2Fxtb4R261122.shtml)
-
-+ [南非开普敦一酒馆发生枪击事件 致4死5伤](https://news.cctv.com/2026/11/22/ARTItBnRvds8W8jvIqVlOYV6261122.shtml)
-
-+ [韩国高考AI作弊事件发酵 教育部长引咎辞职](https://news.cctv.com/2026/11/22/ARTIqSLcUjxAyqXGXEElAs6t261122.shtml)
-
-+ [特朗普返美后点赞深圳：“那股活力令人赞叹”](https://news.cctv.com/2026/11/22/ARTInm0sSDvxuIu05G6lvTfP261122.shtml)
 
