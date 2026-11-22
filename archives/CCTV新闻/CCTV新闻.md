@@ -167,3 +167,11 @@
 
 + [伊朗伊斯兰革命卫队对巴林美军基地进行打击](https://news.cctv.com/2026/11/22/ARTIRnmbxQ7WwwRhwmzX8wNr261122.shtml)
 
++ [尼日利亚一船只倾覆 已致24人死亡](https://news.cctv.com/2026/11/22/ARTIU9ch4JVksuC9y2Fxtb4R261122.shtml)
+
++ [南非开普敦一酒馆发生枪击事件 致4死5伤](https://news.cctv.com/2026/11/22/ARTItBnRvds8W8jvIqVlOYV6261122.shtml)
+
++ [韩国高考AI作弊事件发酵 教育部长引咎辞职](https://news.cctv.com/2026/11/22/ARTIqSLcUjxAyqXGXEElAs6t261122.shtml)
+
++ [特朗普返美后点赞深圳：“那股活力令人赞叹”](https://news.cctv.com/2026/11/22/ARTInm0sSDvxuIu05G6lvTfP261122.shtml)
+
