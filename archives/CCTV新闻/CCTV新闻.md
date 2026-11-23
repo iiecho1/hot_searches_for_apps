@@ -169,3 +169,21 @@
 
 + [黎政府谴责以军闯入黎学校拍摄宣传视频](https://news.cctv.com/2026/11/23/ARTI8dm62l1i4eXUVV1P5ZBZ261123.shtml)
 
++ [为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响](https://news.cctv.com/2026/11/23/ARTIT2FhcSuMme1c1Zl0DQbs261123.shtml)
+
++ [国际观察：共启亚太共同体新航程](https://news.cctv.com/2026/11/23/ARTI9QgIJGV8vX8JJG2QNNgn261123.shtml)
+
++ [聚焦APEC·记者手记丨亚太合作的“深圳印记”](https://news.cctv.com/2026/11/23/ARTIONj6TX9He592S8quKZl1261123.shtml)
+
++ [俄罗斯西伯利亚东南部发生5.0级地震，震源深度20千米](https://news.cctv.com/2026/11/23/ARTI2J81Bc0CvQwl98aZ9jVv261123.shtml)
+
++ [泽连斯基证实击沉俄罗斯护卫舰](https://news.cctv.com/2026/11/23/ARTIUWErF3yLULGXpbdx5dbF261123.shtml)
+
++ [俄官员：下一轮俄美乌三方谈判日期尚未确定](https://news.cctv.com/2026/11/23/ARTI9DKzit1KOQrxB8mOrqMd261123.shtml)
+
++ [中使馆再次提醒在巴林中资机构和中国公民注意安全](https://news.cctv.com/2026/11/23/ARTIhDw4GSeSOwPRAJJVqjZ9261123.shtml)
+
++ [技术系统故障频发 美国情报总监忙打“预防针”](https://news.cctv.com/2026/11/23/ARTIq5AkUkQ2ZZmu3fm5lRVS261123.shtml)
+
++ [美国达美航空超2000个航班因系统故障延误或取消](https://news.cctv.com/2026/11/23/ARTIFGibqkLOpGQawuO9KM2T261123.shtml)
+
