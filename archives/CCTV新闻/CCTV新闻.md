@@ -167,3 +167,5 @@
 
 + [印尼糖果厂火灾现场整理出24个尸袋 约30人失联](https://news.cctv.com/2026/11/23/ARTIR094zUTCzDBHosMObb3B261122.shtml)
 
++ [黎政府谴责以军闯入黎学校拍摄宣传视频](https://news.cctv.com/2026/11/23/ARTI8dm62l1i4eXUVV1P5ZBZ261123.shtml)
+
