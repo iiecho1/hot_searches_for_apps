@@ -1,5 +1,45 @@
 ## CCTV新闻 
-### 2026-11-23
+### 2026-11-24
+
++ [德国总理：欧洲已做好准备与俄罗斯谈判](https://news.cctv.com/2026/11/24/ARTIhgn7rZ5H5eJ17vobjxcd261124.shtml)
+
++ [英伟达突然宣布黄仁勋复职 特朗普发声 美股大幅上涨](https://news.cctv.com/2026/11/24/ARTI9Gh9rE1a14JXn1hEvEPK261124.shtml)
+
++ [特朗普称美国政府没有证据表明黄仁勋有不合法行为](https://news.cctv.com/2026/11/24/ARTIAdpB8gEwvFQQNWcY31bs261124.shtml)
+
++ [欧委会第22轮对俄制裁 扩大金融能源体育领域限制](https://news.cctv.com/2026/11/24/ARTILUu1w0FZgIIH6G0e3qU7261124.shtml)
+
++ [国际足联确认2031年和2035年女足世界杯举办方](https://news.cctv.com/2026/11/24/ARTI680LytptTHnmeIOZQJLJ261124.shtml)
+
++ [以正直党领导人称无需在组阁前对伊朗动武](https://news.cctv.com/2026/11/24/ARTIvrRJNGUuFn3D7nYGsDSe261124.shtml)
+
++ [为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响](https://news.cctv.com/2026/11/23/ARTIT2FhcSuMme1c1Zl0DQbs261123.shtml)
+
++ [国际观察：共启亚太共同体新航程](https://news.cctv.com/2026/11/23/ARTI9QgIJGV8vX8JJG2QNNgn261123.shtml)
+
++ [聚焦APEC·记者手记丨亚太合作的“深圳印记”](https://news.cctv.com/2026/11/23/ARTIONj6TX9He592S8quKZl1261123.shtml)
+
++ [俄罗斯西伯利亚东南部发生5.0级地震，震源深度20千米](https://news.cctv.com/2026/11/23/ARTI2J81Bc0CvQwl98aZ9jVv261123.shtml)
+
++ [泽连斯基证实击沉俄罗斯护卫舰](https://news.cctv.com/2026/11/23/ARTIUWErF3yLULGXpbdx5dbF261123.shtml)
+
++ [俄官员：下一轮俄美乌三方谈判日期尚未确定](https://news.cctv.com/2026/11/23/ARTI9DKzit1KOQrxB8mOrqMd261123.shtml)
+
++ [中使馆再次提醒在巴林中资机构和中国公民注意安全](https://news.cctv.com/2026/11/23/ARTIhDw4GSeSOwPRAJJVqjZ9261123.shtml)
+
++ [技术系统故障频发 美国情报总监忙打“预防针”](https://news.cctv.com/2026/11/23/ARTIq5AkUkQ2ZZmu3fm5lRVS261123.shtml)
+
++ [美国达美航空超2000个航班因系统故障延误或取消](https://news.cctv.com/2026/11/23/ARTIFGibqkLOpGQawuO9KM2T261123.shtml)
+
++ [黎政府谴责以军闯入黎学校拍摄宣传视频](https://news.cctv.com/2026/11/23/ARTI8dm62l1i4eXUVV1P5ZBZ261123.shtml)
+
++ [内塔尼亚胡被曝正考虑单独对伊朗动武](https://news.cctv.com/2026/11/23/ARTI0B2eGX2sMuxecPci0Axu261123.shtml)
+
++ [古特雷斯对COP31未就政治决定达成一致表示失望](https://news.cctv.com/2026/11/23/ARTIYb0E0uNL6ZQR14lDKafO261123.shtml)
+
++ [达美航空在亚特兰大国际机场数百个航班出现延误](https://news.cctv.com/2026/11/23/ARTIBCQ1CBRpBcQHJ0O5nE0M261123.shtml)
+
++ [印尼糖果厂火灾现场整理出24个尸袋 约30人失联](https://news.cctv.com/2026/11/23/ARTIR094zUTCzDBHosMObb3B261122.shtml)
 
 + [专访丨“四梁”将持续助力澳中合作——访澳中工商业委员会全国主席里斯·罗伯茨](https://news.cctv.com/2026/11/22/ARTISJvZKSZPrAcdrQpYBE33261122.shtml)
 
@@ -118,72 +158,4 @@
 + [海外科技小院：让来自中国田野的经验惠及海外农户](https://news.cctv.com/2026/11/19/ARTIuiJXitgZe6vdE89386MU261119.shtml)
 
 + [洪都拉斯中北部发生多起暴力袭击事件 造成12人死亡](https://news.cctv.com/2026/11/19/ARTI0fTKLIxgP5WwtuIlYjBX261119.shtml)
-
-+ [哈马斯称以军在加沙中部军事行动严重违反停火协议](https://news.cctv.com/2026/11/19/ARTI5Xzn0yXdmVYJuP3hf2gG261119.shtml)
-
-+ [美国民主党提名杰弗里斯为众议院议长](https://news.cctv.com/2026/11/19/ARTIvF3m1fkWRO2dY2ynlSKt261119.shtml)
-
-+ [澳大利亚制裁一批涉定居点的以色列个人和实体](https://news.cctv.com/2026/11/18/ARTI9wjChxnBOEaoHZFVprYr261118.shtml)
-
-+ [阿根廷抗议英国安妮公主在马岛等地进行官方活动](https://news.cctv.com/2026/11/18/ARTI87OjOJSjJoAJcVrme5BD261118.shtml)
-
-+ [德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判](https://news.cctv.com/2026/11/18/ARTItOLtkG3AwFygcPZ9FlaI261118.shtml)
-
-+ [尼日利亚东北部袭击致一名中国公民遇害](https://news.cctv.com/2026/11/18/ARTIlRJ0vhuCaBFsVhKco5lT261118.shtml)
-
-+ [法国内政部：14.6万人参与新一轮示威游行](https://news.cctv.com/2026/11/18/ARTIjuJLJ6G2kjJzqvEuJqhD261118.shtml)
-
-+ [美官员称对伊朗格什姆岛实施“自卫”打击](https://news.cctv.com/2026/11/18/ARTIYtLuNZ9Ox7FCt7F95mse261118.shtml)
-
-+ [英国制裁8家参与以色列定居点建设的公司](https://news.cctv.com/2026/11/18/ARTIyDLFgCiqhIkziF7FyueR261118.shtml)
-
-+ [美军否认其在巴林的雷达遭伊朗击中](https://news.cctv.com/2026/11/17/ARTI2ayNXMWxzWyNkeQ6Xff4261117.shtml)
-
-+ [伊朗称打击巴林的美军雷达系统 巴林称已拦截](https://news.cctv.com/2026/11/17/ARTIEg1oswY1vYhXSUrOSH6W261117.shtml)
-
-+ [捷克列车相撞事故致40余人受伤](https://news.cctv.com/2026/11/17/ARTIsUOHbSMiqOTQfKLHCjhr261117.shtml)
-
-+ [塞尔维亚新一届议会举行首次会议](https://news.cctv.com/2026/11/17/ARTIeZAOlEPDT7f0t5CAaGSC261117.shtml)
-
-+ [欲改“游戏规则” 欧洲五国要在卢旺达建遣返中心](https://news.cctv.com/2026/11/17/ARTIcn2WwQHf7mZsSF0s2qpl261117.shtml)
-
-+ [日本自民党与维新会讨论年内修订“安保三文件”](https://news.cctv.com/2026/11/17/ARTISEivqv4lHHttBjrpdQLo261117.shtml)
-
-+ [勒庞称若当选总统将不再为乌克兰提供财政援助](https://news.cctv.com/2026/11/17/ARTIGWk16VLqr6Dz0UPJYgwS261117.shtml)
-
-+ [一中国游客因违规攀登富士山失联 驻日本大使馆提醒切勿违规擅自登山](https://news.cctv.com/2026/11/17/ARTILw0DKzeXcuWVhAumkxJr261117.shtml)
-
-+ [联合国：以军空袭接近联合国燃料运输车队 危及人员安全](https://news.cctv.com/2026/11/17/ARTIRs0DjeqwSN1u4EadqEVN261117.shtml)
-
-+ [泽连斯基：欧洲谈判团队首次“全阵容”与乌美磋商](https://news.cctv.com/2026/11/17/ARTIQY12c4qvP1fGNM3gEr9R261117.shtml)
-
-+ [美军证实“罗斯福”号航母已抵达中东](https://news.cctv.com/2026/11/17/ARTIWdjeQ6xrFmEFrUopMs36261117.shtml)
-
-+ [内塔尼亚胡被曝正考虑单独对伊朗动武](https://news.cctv.com/2026/11/23/ARTI0B2eGX2sMuxecPci0Axu261123.shtml)
-
-+ [古特雷斯对COP31未就政治决定达成一致表示失望](https://news.cctv.com/2026/11/23/ARTIYb0E0uNL6ZQR14lDKafO261123.shtml)
-
-+ [达美航空在亚特兰大国际机场数百个航班出现延误](https://news.cctv.com/2026/11/23/ARTIBCQ1CBRpBcQHJ0O5nE0M261123.shtml)
-
-+ [印尼糖果厂火灾现场整理出24个尸袋 约30人失联](https://news.cctv.com/2026/11/23/ARTIR094zUTCzDBHosMObb3B261122.shtml)
-
-+ [黎政府谴责以军闯入黎学校拍摄宣传视频](https://news.cctv.com/2026/11/23/ARTI8dm62l1i4eXUVV1P5ZBZ261123.shtml)
-
-+ [为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响](https://news.cctv.com/2026/11/23/ARTIT2FhcSuMme1c1Zl0DQbs261123.shtml)
-
-+ [国际观察：共启亚太共同体新航程](https://news.cctv.com/2026/11/23/ARTI9QgIJGV8vX8JJG2QNNgn261123.shtml)
-
-+ [聚焦APEC·记者手记丨亚太合作的“深圳印记”](https://news.cctv.com/2026/11/23/ARTIONj6TX9He592S8quKZl1261123.shtml)
-
-+ [俄罗斯西伯利亚东南部发生5.0级地震，震源深度20千米](https://news.cctv.com/2026/11/23/ARTI2J81Bc0CvQwl98aZ9jVv261123.shtml)
-
-+ [泽连斯基证实击沉俄罗斯护卫舰](https://news.cctv.com/2026/11/23/ARTIUWErF3yLULGXpbdx5dbF261123.shtml)
-
-+ [俄官员：下一轮俄美乌三方谈判日期尚未确定](https://news.cctv.com/2026/11/23/ARTI9DKzit1KOQrxB8mOrqMd261123.shtml)
-
-+ [中使馆再次提醒在巴林中资机构和中国公民注意安全](https://news.cctv.com/2026/11/23/ARTIhDw4GSeSOwPRAJJVqjZ9261123.shtml)
-
-+ [技术系统故障频发 美国情报总监忙打“预防针”](https://news.cctv.com/2026/11/23/ARTIq5AkUkQ2ZZmu3fm5lRVS261123.shtml)
-
-+ [美国达美航空超2000个航班因系统故障延误或取消](https://news.cctv.com/2026/11/23/ARTIFGibqkLOpGQawuO9KM2T261123.shtml)
 
