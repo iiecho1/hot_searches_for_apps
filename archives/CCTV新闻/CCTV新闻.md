@@ -1,5 +1,47 @@
 ## CCTV新闻 
-### 2026-11-24
+### 2026-11-25
+
++ [普京：必将回应乌对俄燃料能源设施的袭击](https://news.cctv.com/2026/11/25/ARTIN0LUiIXBt44WlzFo01lA261125.shtml)
+
++ [胡塞武装称过去24小时沙特主导联军发动72次空袭和导弹袭击](https://news.cctv.com/2026/11/25/ARTIGmUidEQPF6ZlUiEKckff261125.shtml)
+
++ [国际体育仲裁法庭裁定：恢复塞内加尔队非洲杯冠军头衔](https://news.cctv.com/2026/11/25/ARTIGvluNjWbuGWIms5HI7xX261125.shtml)
+
++ [美国防部寻求部分企业协助生产军用无人机](https://news.cctv.com/2026/11/25/ARTIkpSh92qAXyjOLz2pcp0u261124.shtml)
+
++ [多轮磋商难破僵局 以组阁博弈现三重动向](https://news.cctv.com/2026/11/25/ARTIu1N9ES2OcY5hL3bOUOOU261124.shtml)
+
++ [知情人士：美仍未向乌交付新一批“爱国者”拦截弹](https://military.cctv.com/2026/11/25/ARTIbJtTP8ImPLfRE9qPHPKS261125.shtml)
+
++ [泽连斯基证实乌方在芬兰湾袭击俄货船](https://news.cctv.com/2026/11/25/ARTIdQDx9Rhhzs4bpgaqrAQt261125.shtml)
+
++ [老挝正式退出联合国最不发达国家行列](https://news.cctv.com/2026/11/25/ARTIQolIVLnWhaUZFb8mlneG261125.shtml)
+
++ [穿围裙防作弊！韩国考场AI作弊事件频发 考试公平遭遇挑战](https://news.cctv.com/2026/11/25/ARTI8Nshnk14L43L4M1wnuVj261124.shtml)
+
++ [“坚定信心、勇毅前行，携手建设亚太共同体”](https://news.cctv.com/2026/11/24/ARTIHCf6eQE4f3gYD4SA7d0k261124.shtml)
+
++ [“深圳把绿色理念真正融入了现代城市建设”](https://news.cctv.com/2026/11/24/ARTItpDXmsoGm8UOhCgatCTZ261124.shtml)
+
++ [亚美尼亚公布新宪法草案 总理称将带来持久和平](https://news.cctv.com/2026/11/24/ARTIYqTYUF81SjSp7uMvTnMv261124.shtml)
+
++ [消息称伊朗法院要求美国向伊支付2900亿美元赔偿金](https://news.cctv.com/2026/11/24/ARTIp44IQtwzG71ltYsCY68J261124.shtml)
+
++ [哥伦比亚省政府大楼附近爆炸袭击事件受伤人数升至19人](https://news.cctv.com/2026/11/24/ARTIZSCCqW4gYjAouMKchWoy261124.shtml)
+
++ [韩国加码高考作弊举报悬赏 赏金最高5亿韩元](https://news.cctv.com/2026/11/24/ARTIJqWphgOWKMU2Xm8luBZ8261124.shtml)
+
++ [越南首都河内一餐馆发生爆炸致至少2死6伤](https://news.cctv.com/2026/11/24/ARTIOtKZ9kyZwXlkpufxWi3Z261124.shtml)
+
++ [哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤](https://news.cctv.com/2026/11/24/ARTIzDdiYaLxcizxOYbZehmI261124.shtml)
+
++ [韩国称俄军机进入韩防空识别区 将召见俄武官](https://news.cctv.com/2026/11/24/ARTIbIz47MrqP0cgA1IJUJAv261124.shtml)
+
++ [尼泊尔发生4.5级地震 震源深度10千米](https://news.cctv.com/2026/11/24/ARTI7AzKxQ27V5ZN4f7O1XAn261124.shtml)
+
++ [涉嫌偷铁轨致列车脱轨 法国逮捕4名嫌疑人](https://news.cctv.com/2026/11/24/ARTIhUJgJOwFqkSoQBnAj1qf261124.shtml)
+
++ [中国驻津巴布韦使馆：两名中国公民遭抢劫致伤案件被侦破](https://news.cctv.com/2026/11/24/ARTIjRJNRyNRRBoi4PPMp6Nl261124.shtml)
 
 + [德国总理：欧洲已做好准备与俄罗斯谈判](https://news.cctv.com/2026/11/24/ARTIhgn7rZ5H5eJ17vobjxcd261124.shtml)
 
@@ -116,70 +158,4 @@
 + [俄副外长：乌克兰加入北约“完全不可接受”](https://news.cctv.com/2026/11/20/ARTIu4VBPZVqyjbMUu0E8iG3261120.shtml)
 
 + [以色列被曝升级“大卫投石索”防空系统](https://news.cctv.com/2026/11/20/ARTIDtCH4cRd7KUMsvkhn1QD261120.shtml)
-
-+ [默茨：欧洲将“很快”加入乌克兰问题谈判](https://news.cctv.com/2026/11/20/ARTIdqPkOzZsQaaYGGtMyNjx261120.shtml)
-
-+ [五角大楼官员：美国已为伊朗战事花费超480亿美元](https://news.cctv.com/2026/11/20/ARTIaS4DFK9inda1ChS9Lbyy261120.shtml)
-
-+ [保险行会：法国10月骚乱造成财产损失超2亿欧元](https://news.cctv.com/2026/11/20/ARTIcvpOQfHa7Gxc0vheumkY261120.shtml)
-
-+ [国际足联公布三名主席候选人](https://news.cctv.com/2026/11/20/ARTI3sMJ2XiHUVVn2F5oA45I261120.shtml)
-
-+ [土耳其卡塔尔共同防御协议不含自动派兵条款](https://news.cctv.com/2026/11/20/ARTIMWnIr1BWMvtXDfkS796D261120.shtml)
-
-+ [中方强调反对一切形式的恐怖主义](https://news.cctv.com/2026/11/20/ARTI60G3c8kycZ9DWJJXKkE8261120.shtml)
-
-+ [此行间·多位APEC经济体领导人盛赞习主席引领中国发展](https://news.cctv.com/2026/11/20/ARTIhcZx2T3JHBFhDXWCDIuS261120.shtml)
-
-+ [有中国公民在委内瑞拉遭网络电信诈骗 中使馆发布提醒](https://news.cctv.com/2026/11/20/ARTI6tlSClHUBX8m0uOl2d6O261120.shtml)
-
-+ [驻德班总领馆提醒领区中国公民、机构、项目遵守签证法规、严格合法用工](https://news.cctv.com/2026/11/20/ARTIJRFFKMttMVLzaSJJkWOC261120.shtml)
-
-+ [普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火](https://news.cctv.com/2026/11/20/ARTIEQmlEDhF1MKnmzezTZsR261120.shtml)
-
-+ [特朗普表示不会在新年前“仓促”决定对伊朗行动](https://news.cctv.com/2026/11/20/ARTIAOhvv6E5F2iU5vIQhSZ2261120.shtml)
-
-+ [丹麦议会通过涉格陵兰岛安全防卫协议](https://news.cctv.com/2026/11/20/ARTIWHfxzerHl5PLjORsOWqP261120.shtml)
-
-+ [蒙古国国家大呼拉尔批准总统呼日勒苏赫辞职请求](https://news.cctv.com/2026/11/19/ARTIPaERucsfRqgpJdEHbXkn261119.shtml)
-
-+ [韩国高考开考 多项措施严防考试作弊](https://news.cctv.com/2026/11/19/ARTIX08GFaJBoieurO4jDYyP261119.shtml)
-
-+ [涉海地总统遇刺案 美国一牧师被裁定有罪](https://news.cctv.com/2026/11/19/ARTINlLt2k4SiO7bD4R23Ezw261119.shtml)
-
-+ [伊朗警告地区国家不要为美打击伊朗提供领土设施](https://news.cctv.com/2026/11/19/ARTIBMWdfusqzSZnmjoSnk6Y261119.shtml)
-
-+ [历经近50年 美探测器飞离地球一光日](https://news.cctv.com/2026/11/19/ARTIsyT6RlFVaKoNPdzN30PG261119.shtml)
-
-+ [日本多个民间团体要求政府坚持“无核三原则”](https://news.cctv.com/2026/11/19/ARTIgKPgWZTeYM8JO2NsdCrf261119.shtml)
-
-+ [美媒：“华盛顿”号航母离开中东地区](https://news.cctv.com/2026/11/19/ARTIOerN91f1wBxV5nTcZbyX261119.shtml)
-
-+ [海外科技小院：让来自中国田野的经验惠及海外农户](https://news.cctv.com/2026/11/19/ARTIuiJXitgZe6vdE89386MU261119.shtml)
-
-+ [洪都拉斯中北部发生多起暴力袭击事件 造成12人死亡](https://news.cctv.com/2026/11/19/ARTI0fTKLIxgP5WwtuIlYjBX261119.shtml)
-
-+ [“坚定信心、勇毅前行，携手建设亚太共同体”](https://news.cctv.com/2026/11/24/ARTIHCf6eQE4f3gYD4SA7d0k261124.shtml)
-
-+ [“深圳把绿色理念真正融入了现代城市建设”](https://news.cctv.com/2026/11/24/ARTItpDXmsoGm8UOhCgatCTZ261124.shtml)
-
-+ [亚美尼亚公布新宪法草案 总理称将带来持久和平](https://news.cctv.com/2026/11/24/ARTIYqTYUF81SjSp7uMvTnMv261124.shtml)
-
-+ [消息称伊朗法院要求美国向伊支付2900亿美元赔偿金](https://news.cctv.com/2026/11/24/ARTIp44IQtwzG71ltYsCY68J261124.shtml)
-
-+ [哥伦比亚省政府大楼附近爆炸袭击事件受伤人数升至19人](https://news.cctv.com/2026/11/24/ARTIZSCCqW4gYjAouMKchWoy261124.shtml)
-
-+ [韩国加码高考作弊举报悬赏 赏金最高5亿韩元](https://news.cctv.com/2026/11/24/ARTIJqWphgOWKMU2Xm8luBZ8261124.shtml)
-
-+ [越南首都河内一餐馆发生爆炸致至少2死6伤](https://news.cctv.com/2026/11/24/ARTIOtKZ9kyZwXlkpufxWi3Z261124.shtml)
-
-+ [哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤](https://news.cctv.com/2026/11/24/ARTIzDdiYaLxcizxOYbZehmI261124.shtml)
-
-+ [韩国称俄军机进入韩防空识别区 将召见俄武官](https://news.cctv.com/2026/11/24/ARTIbIz47MrqP0cgA1IJUJAv261124.shtml)
-
-+ [尼泊尔发生4.5级地震 震源深度10千米](https://news.cctv.com/2026/11/24/ARTI7AzKxQ27V5ZN4f7O1XAn261124.shtml)
-
-+ [涉嫌偷铁轨致列车脱轨 法国逮捕4名嫌疑人](https://news.cctv.com/2026/11/24/ARTIhUJgJOwFqkSoQBnAj1qf261124.shtml)
-
-+ [中国驻津巴布韦使馆：两名中国公民遭抢劫致伤案件被侦破](https://news.cctv.com/2026/11/24/ARTIjRJNRyNRRBoi4PPMp6Nl261124.shtml)
 
