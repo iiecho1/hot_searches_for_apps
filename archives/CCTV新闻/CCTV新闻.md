@@ -159,3 +159,27 @@
 
 + [洪都拉斯中北部发生多起暴力袭击事件 造成12人死亡](https://news.cctv.com/2026/11/19/ARTI0fTKLIxgP5WwtuIlYjBX261119.shtml)
 
++ [“坚定信心、勇毅前行，携手建设亚太共同体”](https://news.cctv.com/2026/11/24/ARTIHCf6eQE4f3gYD4SA7d0k261124.shtml)
+
++ [“深圳把绿色理念真正融入了现代城市建设”](https://news.cctv.com/2026/11/24/ARTItpDXmsoGm8UOhCgatCTZ261124.shtml)
+
++ [亚美尼亚公布新宪法草案 总理称将带来持久和平](https://news.cctv.com/2026/11/24/ARTIYqTYUF81SjSp7uMvTnMv261124.shtml)
+
++ [消息称伊朗法院要求美国向伊支付2900亿美元赔偿金](https://news.cctv.com/2026/11/24/ARTIp44IQtwzG71ltYsCY68J261124.shtml)
+
++ [哥伦比亚省政府大楼附近爆炸袭击事件受伤人数升至19人](https://news.cctv.com/2026/11/24/ARTIZSCCqW4gYjAouMKchWoy261124.shtml)
+
++ [韩国加码高考作弊举报悬赏 赏金最高5亿韩元](https://news.cctv.com/2026/11/24/ARTIJqWphgOWKMU2Xm8luBZ8261124.shtml)
+
++ [越南首都河内一餐馆发生爆炸致至少2死6伤](https://news.cctv.com/2026/11/24/ARTIOtKZ9kyZwXlkpufxWi3Z261124.shtml)
+
++ [哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤](https://news.cctv.com/2026/11/24/ARTIzDdiYaLxcizxOYbZehmI261124.shtml)
+
++ [韩国称俄军机进入韩防空识别区 将召见俄武官](https://news.cctv.com/2026/11/24/ARTIbIz47MrqP0cgA1IJUJAv261124.shtml)
+
++ [尼泊尔发生4.5级地震 震源深度10千米](https://news.cctv.com/2026/11/24/ARTI7AzKxQ27V5ZN4f7O1XAn261124.shtml)
+
++ [涉嫌偷铁轨致列车脱轨 法国逮捕4名嫌疑人](https://news.cctv.com/2026/11/24/ARTIhUJgJOwFqkSoQBnAj1qf261124.shtml)
+
++ [中国驻津巴布韦使馆：两名中国公民遭抢劫致伤案件被侦破](https://news.cctv.com/2026/11/24/ARTIjRJNRyNRRBoi4PPMp6Nl261124.shtml)
+
