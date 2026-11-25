@@ -1,5 +1,59 @@
 ## CCTV新闻 
-### 2026-11-25
+### 2026-11-26
+
++ [乌官员称乌俄大规模换俘将分阶段实施](https://news.cctv.com/2026/11/26/ARTIEJ232gMmMxxTbibegZzU261126.shtml)
+
++ [瑞士：对朝鲜关闭瑞士驻平壤外交办事处表示遗憾](https://news.cctv.com/2026/11/26/ARTIPQjbKje8uWBjaw0BoTCa261126.shtml)
+
++ [以色列议会初步通过限制总理任期的法案](https://news.cctv.com/2026/11/26/ARTIurf6CX3nhzmN19LLkVJK261126.shtml)
+
++ [美军开始在日本冲绳常态部署新型战斗机](https://news.cctv.com/2026/11/26/ARTIAQr2Syvzngp4pnegVwKl261125.shtml)
+
++ [中荷外长共识声明](https://news.cctv.com/2026/11/26/ARTIt27rznQquizxMHPl3ntg261126.shtml)
+
++ [韩国政府公布31个部门和机构搬迁计划](https://news.cctv.com/2026/11/25/ARTIIVTX5wFdDu5O3nXvJFYz261125.shtml)
+
++ [西班牙年初高铁脱轨事故初步原因指向焊接缺陷与地基沉降](https://news.cctv.com/2026/11/25/ARTI4OwL7T7hUvy7P4jcIniP261125.shtml)
+
++ [刑事法律援助全球会议举行 国际司法界官员：中国经验值得借鉴](https://news.cctv.com/2026/11/25/ARTIyCmPkStESeQQWhvf15OU261125.shtml)
+
++ [伊朗副总统称不惧美国封锁 将采取措施稳物价](https://news.cctv.com/2026/11/25/ARTIR65Z5jOFeUURPanB8qt6261125.shtml)
+
++ [“我乘飞机23小时跨越太平洋，只为拥抱中国新疆扑面而来的温暖”](https://news.cctv.com/2026/11/25/ARTICACU9AZE0hiax8etj5rK261125.shtml)
+
++ [“用世界的眼光看中国，用中国的眼光看世界”（我和中国的故事）](https://news.cctv.com/2026/11/25/ARTIvstfwmzheFG1WIrY8j6I261125.shtml)
+
++ [中国绿色产业为全球能源转型降低成本——访澳大利亚著名经济学家、澳大利亚前驻华大使罗斯·加诺特](https://news.cctv.com/2026/11/25/ARTIyNpgrcpl22up4bHg7qdC261125.shtml)
+
++ [完善全球治理，携手迈向人类命运共同体](https://news.cctv.com/2026/11/25/ARTIjdMOZ2dWGfM6RxlnII8D261125.shtml)
+
++ [全球媒体聚焦 | “这次任务是载人航天惠及全球更多群体的新一步”](https://news.cctv.com/2026/11/25/ARTIxkFIGJr5OoWf7DWeqpPb261125.shtml)
+
++ [日媒：日本政府或删除武器出口文件中“无核三原则”相关表述](https://news.cctv.com/2026/11/25/ARTI31lT2UoOhJIaVSIwMK4e261125.shtml)
+
++ [“在深化区域合作中彼此成就”（环球热点）——访英国国际关系专家、“全球经济指标”分析平台创始人瑞恩·珀金斯](https://news.cctv.com/2026/11/25/ARTIU9FelSTmLOVNcLUozhU0261125.shtml)
+
++ [为建设亚太共同体贡献媒体力量（APEC中国年：开放 创新 合作）](https://news.cctv.com/2026/11/25/ARTI2gFdm1zjm2b8CdTOULGY261125.shtml)
+
++ [保加利亚或成首个因赤字超标受罚的欧元区成员国](https://news.cctv.com/2026/11/25/ARTIO6W9Xo2eBhBl4Q4i6762261125.shtml)
+
++ [印尼亚齐特区多地遭遇洪灾 超1.4万人受灾](https://news.cctv.com/2026/11/25/ARTIcPolyVslHDBTEaOmTYP8261125.shtml)
+
++ [朝鲜驱逐瑞士外交办事处代表 限其48小时内离境](https://news.cctv.com/2026/11/25/ARTIdEXewK4HAaDfEzng6ZOr261125.shtml)
+
++ [中国驻伊朗大使馆提醒在伊中国公民防范治安事件](https://news.cctv.com/2026/11/25/ARTIFJt7xzP5o5kaxKje3zMj261125.shtml)
+
++ [加防长回应五角大楼指责：“我们不向美国汇报”](https://news.cctv.com/2026/11/25/ARTItp07W7fYgVGpehdlUHaj261125.shtml)
+
++ [英国宣布制裁也门胡塞武装](https://news.cctv.com/2026/11/25/ARTIk3vz49d1Ld7N06AnBtgM261125.shtml)
+
++ [一艘移民船从塞内加尔出发两周后失联 约175人下落不明](https://news.cctv.com/2026/11/25/ARTI3aN1Ku0QkohZ4SvY0u1I261125.shtml)
+
++ [印尼一矿井发生事故 致29人被困](https://news.cctv.com/2026/11/25/ARTIhQyypvmfhyboq856jZPm261125.shtml)
+
++ [非盟谴责船只在利比亚海域遇袭事件 敦促各方保持克制](https://news.cctv.com/2026/11/25/ARTI7fx36B9RtO3BssLiSepZ261125.shtml)
+
++ [南非总统：南非正采取多方面举措应对美贸易限制](https://news.cctv.com/2026/11/25/ARTIX8TqYXOzNha9WxoZehU6261125.shtml)
 
 + [普京：必将回应乌对俄燃料能源设施的袭击](https://news.cctv.com/2026/11/25/ARTIN0LUiIXBt44WlzFo01lA261125.shtml)
 
@@ -106,96 +160,4 @@
 + [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行](https://news.cctv.com/2026/11/22/ARTIRykXubtyedh6iZTQJ51F261122.shtml)
 
 + [墨西哥抓获大毒枭“矮子伊西德罗”](https://news.cctv.com/2026/11/22/ARTI9lJ4k7Gf9DJNOarNHrv2261122.shtml)
-
-+ [伊朗伊斯兰革命卫队对巴林美军基地进行打击](https://news.cctv.com/2026/11/22/ARTIRnmbxQ7WwwRhwmzX8wNr261122.shtml)
-
-+ [美军中央司令部否认有F-16战机被伊朗击中](https://news.cctv.com/2026/11/22/ARTIJ4wiHhCm3GN2ZrD90PGE261122.shtml)
-
-+ [伊朗称在波斯湾上空拦截并击中一架美军F-16战机](https://news.cctv.com/2026/11/22/ARTI9OGq3zZmdI15kdvDcssi261121.shtml)
-
-+ [泽连斯基会见英国国防大臣 讨论乌防空能力建设](https://news.cctv.com/2026/11/21/ARTIfcdpKuSFABtp0W0tm5mP261121.shtml)
-
-+ [又有美法官叫停华盛顿“凯旋门”项目动工](https://news.cctv.com/2026/11/21/ARTIKfOXuzazhIrJ2MlwVr6h261121.shtml)
-
-+ [伊朗伊斯兰革命卫队总司令视察“导弹城”](https://news.cctv.com/2026/11/21/ARTILxULHpy66kicS25mto5g261121.shtml)
-
-+ [俄方称克里米亚大桥铁路运输已全面恢复](https://news.cctv.com/2026/11/21/ARTIFlLY2pLqkq6x8TjvrYRd261121.shtml)
-
-+ [中国驻沙特使馆再次提醒在沙特中资机构和中国公民注意安全](https://news.cctv.com/2026/11/21/ARTI4SW8BwYZdavvK5SlWH4y261121.shtml)
-
-+ [沙特主导的多国联军称拦截并摧毁3枚弹道导弹](https://news.cctv.com/2026/11/21/ARTI1oWTsxe4zkyPodHr0n0l261121.shtml)
-
-+ [阿根廷政府批准该国规模最大投资项目](https://news.cctv.com/2026/11/21/ARTIKrb3PvzoEpEB3e4eMAPE261121.shtml)
-
-+ [又有300人抵墨 中美洲移民队伍试图北上赴美](https://news.cctv.com/2026/11/21/ARTIG1bMVpsDeG3tDPL1IL6V261121.shtml)
-
-+ [俄外交部：元首外交在俄中关系中发挥特殊引领作用](https://news.cctv.com/2026/11/21/ARTInp0DftKTxl3IcahOMJVM261121.shtml)
-
-+ [美货运“龙”飞船脱离空间站启程返回地球](https://news.cctv.com/2026/11/21/ARTI24fK086BIhbpy891jya9261121.shtml)
-
-+ [日媒：日本研究引进核潜艇及为“无核三原则”设例外](https://news.cctv.com/2026/11/21/ARTIYAaU4atZIbiw8bRHPsqg261121.shtml)
-
-+ [南非7月至9月发生5590起谋杀案 超半数案发公共场所](https://news.cctv.com/2026/11/21/ARTIAEUxjrQ6lc2CXPf9ioqK261121.shtml)
-
-+ [英国推进移民制度改革 持续关停庇护安置酒店](https://news.cctv.com/2026/11/21/ARTI03x7QnN1sVfvIxj1cLCf261121.shtml)
-
-+ [秘鲁发生6.7级地震 震源深度100千米](https://news.cctv.com/2026/11/21/ARTIiMtDNGuKodqYm7nZcNW7261121.shtml)
-
-+ [日本连发儿童受虐致死事件 政府拟全国排查](https://news.cctv.com/2026/11/21/ARTIc3LZuJ1BQmd1mVMN0k9v261121.shtml)
-
-+ [特朗普：伊朗“不想达成我能接受的协议”](https://news.cctv.com/2026/11/21/ARTI52nom1tRU2e371nTPrK0261121.shtml)
-
-+ [特朗普：中俄美元首会晤“史无前例”“意义重大”](https://news.cctv.com/2026/11/21/ARTIMxThTfub7GUawDeL2y4q261121.shtml)
-
-+ [日本政府关键网络业务系统遭非法访问](https://news.cctv.com/2026/11/21/ARTIo5tI2M8bftFSDZHBx1Ft261120.shtml)
-
-+ [数万名日本民众签名反对日本拥有核潜艇](https://news.cctv.com/2026/11/21/ARTIe98jWcRmMlAn4iAPE5Nn261120.shtml)
-
-+ [英欧峰会发表联合声明 宣布深化贸易能源和安全合作](https://news.cctv.com/2026/11/20/ARTIYohe5NzGeEPPaPa8hwYe261120.shtml)
-
-+ [法国前总理德维尔潘宣布参加2027年总统选举](https://news.cctv.com/2026/11/20/ARTIkXjX5WQr8tBidFXR7C5z261120.shtml)
-
-+ [俄副外长：乌克兰加入北约“完全不可接受”](https://news.cctv.com/2026/11/20/ARTIu4VBPZVqyjbMUu0E8iG3261120.shtml)
-
-+ [以色列被曝升级“大卫投石索”防空系统](https://news.cctv.com/2026/11/20/ARTIDtCH4cRd7KUMsvkhn1QD261120.shtml)
-
-+ [英国宣布制裁也门胡塞武装](https://news.cctv.com/2026/11/25/ARTIk3vz49d1Ld7N06AnBtgM261125.shtml)
-
-+ [一艘移民船从塞内加尔出发两周后失联 约175人下落不明](https://news.cctv.com/2026/11/25/ARTI3aN1Ku0QkohZ4SvY0u1I261125.shtml)
-
-+ [印尼一矿井发生事故 致29人被困](https://news.cctv.com/2026/11/25/ARTIhQyypvmfhyboq856jZPm261125.shtml)
-
-+ [非盟谴责船只在利比亚海域遇袭事件 敦促各方保持克制](https://news.cctv.com/2026/11/25/ARTI7fx36B9RtO3BssLiSepZ261125.shtml)
-
-+ [南非总统：南非正采取多方面举措应对美贸易限制](https://news.cctv.com/2026/11/25/ARTIX8TqYXOzNha9WxoZehU6261125.shtml)
-
-+ [刑事法律援助全球会议举行 国际司法界官员：中国经验值得借鉴](https://news.cctv.com/2026/11/25/ARTIyCmPkStESeQQWhvf15OU261125.shtml)
-
-+ [伊朗副总统称不惧美国封锁 将采取措施稳物价](https://news.cctv.com/2026/11/25/ARTIR65Z5jOFeUURPanB8qt6261125.shtml)
-
-+ [“我乘飞机23小时跨越太平洋，只为拥抱中国新疆扑面而来的温暖”](https://news.cctv.com/2026/11/25/ARTICACU9AZE0hiax8etj5rK261125.shtml)
-
-+ [“用世界的眼光看中国，用中国的眼光看世界”（我和中国的故事）](https://news.cctv.com/2026/11/25/ARTIvstfwmzheFG1WIrY8j6I261125.shtml)
-
-+ [中国绿色产业为全球能源转型降低成本——访澳大利亚著名经济学家、澳大利亚前驻华大使罗斯·加诺特](https://news.cctv.com/2026/11/25/ARTIyNpgrcpl22up4bHg7qdC261125.shtml)
-
-+ [完善全球治理，携手迈向人类命运共同体](https://news.cctv.com/2026/11/25/ARTIjdMOZ2dWGfM6RxlnII8D261125.shtml)
-
-+ [全球媒体聚焦 | “这次任务是载人航天惠及全球更多群体的新一步”](https://news.cctv.com/2026/11/25/ARTIxkFIGJr5OoWf7DWeqpPb261125.shtml)
-
-+ [日媒：日本政府或删除武器出口文件中“无核三原则”相关表述](https://news.cctv.com/2026/11/25/ARTI31lT2UoOhJIaVSIwMK4e261125.shtml)
-
-+ [“在深化区域合作中彼此成就”（环球热点）——访英国国际关系专家、“全球经济指标”分析平台创始人瑞恩·珀金斯](https://news.cctv.com/2026/11/25/ARTIU9FelSTmLOVNcLUozhU0261125.shtml)
-
-+ [为建设亚太共同体贡献媒体力量（APEC中国年：开放 创新 合作）](https://news.cctv.com/2026/11/25/ARTI2gFdm1zjm2b8CdTOULGY261125.shtml)
-
-+ [保加利亚或成首个因赤字超标受罚的欧元区成员国](https://news.cctv.com/2026/11/25/ARTIO6W9Xo2eBhBl4Q4i6762261125.shtml)
-
-+ [印尼亚齐特区多地遭遇洪灾 超1.4万人受灾](https://news.cctv.com/2026/11/25/ARTIcPolyVslHDBTEaOmTYP8261125.shtml)
-
-+ [朝鲜驱逐瑞士外交办事处代表 限其48小时内离境](https://news.cctv.com/2026/11/25/ARTIdEXewK4HAaDfEzng6ZOr261125.shtml)
-
-+ [中国驻伊朗大使馆提醒在伊中国公民防范治安事件](https://news.cctv.com/2026/11/25/ARTIFJt7xzP5o5kaxKje3zMj261125.shtml)
-
-+ [加防长回应五角大楼指责：“我们不向美国汇报”](https://news.cctv.com/2026/11/25/ARTItp07W7fYgVGpehdlUHaj261125.shtml)
 
