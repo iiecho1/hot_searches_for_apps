@@ -21,3 +21,19 @@
 
 + [吝啬的代价](https://www.v2ex.com/t/1259394)
 
++ [理发怎么能那么贵！](https://www.v2ex.com/t/1259612)
+
++ [我知道你几岁](https://www.v2ex.com/t/1259639)
+
++ [大家怎么第一次面对亲人的离去？](https://www.v2ex.com/t/1259613)
+
++ [Claude Code 最佳控制面](https://www.v2ex.com/t/1259417)
+
++ [密码管理很少见到大家用苹果自带的 passwords](https://www.v2ex.com/t/1259605)
+
++ [google 账号怎么注册啊？刚又被封了一个...](https://www.v2ex.com/t/1259433)
+
++ [都说前端完了，但是招个人也太难了](https://www.v2ex.com/t/1259596)
+
++ [V2EX 的回复已经支持 MarkDown 格式了? 上周还在看倒计时, 今天突然发现已经支持了👍🏻](https://www.v2ex.com/t/1259463)
+

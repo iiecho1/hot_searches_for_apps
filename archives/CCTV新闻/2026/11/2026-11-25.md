@@ -159,3 +159,13 @@
 
 + [以色列被曝升级“大卫投石索”防空系统](https://news.cctv.com/2026/11/20/ARTIDtCH4cRd7KUMsvkhn1QD261120.shtml)
 
++ [英国宣布制裁也门胡塞武装](https://news.cctv.com/2026/11/25/ARTIk3vz49d1Ld7N06AnBtgM261125.shtml)
+
++ [一艘移民船从塞内加尔出发两周后失联 约175人下落不明](https://news.cctv.com/2026/11/25/ARTI3aN1Ku0QkohZ4SvY0u1I261125.shtml)
+
++ [印尼一矿井发生事故 致29人被困](https://news.cctv.com/2026/11/25/ARTIhQyypvmfhyboq856jZPm261125.shtml)
+
++ [非盟谴责船只在利比亚海域遇袭事件 敦促各方保持克制](https://news.cctv.com/2026/11/25/ARTI7fx36B9RtO3BssLiSepZ261125.shtml)
+
++ [南非总统：南非正采取多方面举措应对美贸易限制](https://news.cctv.com/2026/11/25/ARTIX8TqYXOzNha9WxoZehU6261125.shtml)
+
