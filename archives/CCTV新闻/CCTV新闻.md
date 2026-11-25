@@ -169,3 +169,33 @@
 
 + [南非总统：南非正采取多方面举措应对美贸易限制](https://news.cctv.com/2026/11/25/ARTIX8TqYXOzNha9WxoZehU6261125.shtml)
 
++ [刑事法律援助全球会议举行 国际司法界官员：中国经验值得借鉴](https://news.cctv.com/2026/11/25/ARTIyCmPkStESeQQWhvf15OU261125.shtml)
+
++ [伊朗副总统称不惧美国封锁 将采取措施稳物价](https://news.cctv.com/2026/11/25/ARTIR65Z5jOFeUURPanB8qt6261125.shtml)
+
++ [“我乘飞机23小时跨越太平洋，只为拥抱中国新疆扑面而来的温暖”](https://news.cctv.com/2026/11/25/ARTICACU9AZE0hiax8etj5rK261125.shtml)
+
++ [“用世界的眼光看中国，用中国的眼光看世界”（我和中国的故事）](https://news.cctv.com/2026/11/25/ARTIvstfwmzheFG1WIrY8j6I261125.shtml)
+
++ [中国绿色产业为全球能源转型降低成本——访澳大利亚著名经济学家、澳大利亚前驻华大使罗斯·加诺特](https://news.cctv.com/2026/11/25/ARTIyNpgrcpl22up4bHg7qdC261125.shtml)
+
++ [完善全球治理，携手迈向人类命运共同体](https://news.cctv.com/2026/11/25/ARTIjdMOZ2dWGfM6RxlnII8D261125.shtml)
+
++ [全球媒体聚焦 | “这次任务是载人航天惠及全球更多群体的新一步”](https://news.cctv.com/2026/11/25/ARTIxkFIGJr5OoWf7DWeqpPb261125.shtml)
+
++ [日媒：日本政府或删除武器出口文件中“无核三原则”相关表述](https://news.cctv.com/2026/11/25/ARTI31lT2UoOhJIaVSIwMK4e261125.shtml)
+
++ [“在深化区域合作中彼此成就”（环球热点）——访英国国际关系专家、“全球经济指标”分析平台创始人瑞恩·珀金斯](https://news.cctv.com/2026/11/25/ARTIU9FelSTmLOVNcLUozhU0261125.shtml)
+
++ [为建设亚太共同体贡献媒体力量（APEC中国年：开放 创新 合作）](https://news.cctv.com/2026/11/25/ARTI2gFdm1zjm2b8CdTOULGY261125.shtml)
+
++ [保加利亚或成首个因赤字超标受罚的欧元区成员国](https://news.cctv.com/2026/11/25/ARTIO6W9Xo2eBhBl4Q4i6762261125.shtml)
+
++ [印尼亚齐特区多地遭遇洪灾 超1.4万人受灾](https://news.cctv.com/2026/11/25/ARTIcPolyVslHDBTEaOmTYP8261125.shtml)
+
++ [朝鲜驱逐瑞士外交办事处代表 限其48小时内离境](https://news.cctv.com/2026/11/25/ARTIdEXewK4HAaDfEzng6ZOr261125.shtml)
+
++ [中国驻伊朗大使馆提醒在伊中国公民防范治安事件](https://news.cctv.com/2026/11/25/ARTIFJt7xzP5o5kaxKje3zMj261125.shtml)
+
++ [加防长回应五角大楼指责：“我们不向美国汇报”](https://news.cctv.com/2026/11/25/ARTItp07W7fYgVGpehdlUHaj261125.shtml)
+
