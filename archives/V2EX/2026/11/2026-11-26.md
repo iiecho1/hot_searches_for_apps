@@ -39,3 +39,15 @@
 
 + [这周的 ChatGPT 很想揍它](https://www.v2ex.com/t/1259744)
 
++ [美股同学看过来，需要老雷交易笔记的可以留下联系方式，私信](https://www.v2ex.com/t/1259982)
+
++ [2026 赣南脐橙给 v 友抽几箱](https://www.v2ex.com/t/1260059)
+
++ [30 岁，专科，10 年前端，有几个 offer，请各位帮忙参考下。](https://www.v2ex.com/t/1259974)
+
++ [最近买冬装，淘宝首页已经被各种“杂牌”占领了](https://www.v2ex.com/t/1259943)
+
++ [我开始受 AI 毒害了。。。](https://www.v2ex.com/t/1259968)
+
++ [一个完全用 AI coding 开发的数据库 MyDB：兼容 MySQL，性能提升 5 倍以上，累计消耗 5000 亿 token](https://www.v2ex.com/t/1259897)
+

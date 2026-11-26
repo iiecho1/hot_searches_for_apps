@@ -165,3 +165,17 @@
 
 + [中国驻巴西里约热内卢总领馆提醒领区中国公民注意涉水安全](https://news.cctv.com/2026/11/26/ARTII1b1TrFnIxGenNSPLLyY261126.shtml)
 
++ [尼泊尔警方抓获76名涉电诈外籍人员，其中包括41名中国公民，中使馆提醒：切实防范电诈风险](https://news.cctv.com/2026/11/26/ARTIMbaWvMLZbWjgfSHql93E261126.shtml)
+
++ [记者手记丨智慧口岸建设助力中越经贸往来再提升](https://news.cctv.com/2026/11/26/ARTIrp0WImgo2Z1fNnnZVOOJ261126.shtml)
+
++ [第七届中俄媒体论坛在莫斯科举行 与会嘉宾期待深化数智时代媒体合作](https://news.cctv.com/2026/11/26/ARTIPBxWzNKAxh6L4IePbPsD261126.shtml)
+
++ [联合国：中国在和平利用外空等方面发挥重要作用](https://news.cctv.com/2026/11/26/ARTI4cco59lq0rx4koQRDVG7261126.shtml)
+
++ [中方敦促日本尽快销毁在华遗弃化学武器](https://news.cctv.com/2026/11/26/ARTI2eDpb7ttRjlf1RsQkEMO261126.shtml)
+
++ [欧佩克秘书长指责欧盟阻碍气候谈判](https://news.cctv.com/2026/11/26/ARTIOuwRDWP28vmcLi1ZJuds261126.shtml)
+
++ [特朗普与吕特会晤 喊话俄“避免扩大战事”](https://news.cctv.com/2026/11/26/ARTI8hDOBSYjeek0ZCXaPtPQ261126.shtml)
+

@@ -49,3 +49,17 @@
 
 + [“一生万物，万物归一”：华为鸿蒙元 OS 架构 + 分布式互联，实现设备“车同轨，书同文”](https://m.ithome.com/html/1032495.htm)
 
++ [古尔曼：苹果内部已测试 iPad 运行 macOS，但暂无面向消费者落地计划](https://m.ithome.com/html/1032503.htm)
+
++ [过场动画已达 30FPS！民间移植 PC 版《GTA6》游戏突飞猛进，两天从 2FPS 提升到 30FPS](https://m.ithome.com/html/1032744.htm)
+
++ [华为陈海波称设计鸿蒙一大重要考虑是性能：HarmonyOS“全栈熵减”，实现终端性能持续提升](https://m.ithome.com/html/1032499.htm)
+
++ [黎曼猜想 AI 证明代码暴砍 99.5%：只剩 7.6 万行，又是 Anthropic](https://m.ithome.com/html/1032611.htm)
+
++ [长城汽车魏建军称现在汽车贬值速度太离谱，格力电器董明珠回应“有些产业害虫该灭就灭”](https://m.ithome.com/html/1032746.htm)
+
++ [格力电器董明珠、长城汽车魏建军痛斥恶意挖人：培养 10 多年的人才被轻易挖走，对企业是严重损失](https://m.ithome.com/html/1032937.htm)
+
++ [《GTA 6》民间 PC 移植新突破：已能渲染游戏世界，帧率约 5~7 FPS](https://m.ithome.com/html/1032600.htm)
+
