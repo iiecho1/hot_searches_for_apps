@@ -161,3 +161,7 @@
 
 + [墨西哥抓获大毒枭“矮子伊西德罗”](https://news.cctv.com/2026/11/22/ARTI9lJ4k7Gf9DJNOarNHrv2261122.shtml)
 
++ [德国明年国防预算创冷战结束以来新高](https://news.cctv.com/2026/11/26/ARTIcwyH46qdaOu0mHARIf4h261126.shtml)
+
++ [中国驻巴西里约热内卢总领馆提醒领区中国公民注意涉水安全](https://news.cctv.com/2026/11/26/ARTII1b1TrFnIxGenNSPLLyY261126.shtml)
+

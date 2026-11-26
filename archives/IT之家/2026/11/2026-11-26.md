@@ -25,3 +25,27 @@
 
 + [削峰填谷！余承东揭秘华为 Mate X8“超平整”内屏原理，首创磁控展平技术定向修复](https://m.ithome.com/html/1031895.htm)
 
++ [懂车帝最新回应“尊界 V800 刹车踏板支架断裂”事件：公司内部仍在等待相关结果](https://m.ithome.com/html/1032464.htm)
+
++ [踩刹车！李想宣布理想汽车更新节奏从一年一次调整为两年一次](https://m.ithome.com/html/1032523.htm)
+
++ [网警公开典型案例：一网民针对华为手机 / 鸿蒙 / 问界持续发布数百条不实评论、捏造“千亿营销”等虚假信息，已被行政处罚](https://m.ithome.com/html/1032371.htm)
+
++ [“独立”微信音乐悄悄上线：内置在听一听中，曲库来源于 QQ 音乐](https://m.ithome.com/html/1032530.htm)
+
++ [小米新一代 SU7 Ultra 申报：三电机驱动最大功率超 1100kW 、极速 318km/h](https://m.ithome.com/html/1032517.htm)
+
++ [华为余承东解释为何 Mate X8 不标配“云晰柔光膜”：大多数人不喜欢，会少量牺牲分辨率](https://m.ithome.com/html/1032379.htm)
+
++ [消息称华为 MatePad Mini 2 小平板搭载麒麟 9030 系处理器，发布时间待定](https://m.ithome.com/html/1032154.htm)
+
++ [消息称华为星芒还有 O1 标准版手机，7 英寸 1.5K 等深四曲屏 + 麒麟 9020 系处理器](https://m.ithome.com/html/1032109.htm)
+
++ [高端 GPU“急寻下家”：数千枚英伟达 B300 涌入海外转售市场](https://m.ithome.com/html/1032547.htm)
+
++ [美国 58 岁女子移植猪肾满一年成全球最长存活者，无严重并发症且不用透析](https://m.ithome.com/html/1032100.htm)
+
++ [苹果 iPhone Air 2 爆料：后摄模块凸起加厚 0.35 毫米，增配 4800 万像素超广角](https://m.ithome.com/html/1032158.htm)
+
++ [“一生万物，万物归一”：华为鸿蒙元 OS 架构 + 分布式互联，实现设备“车同轨，书同文”](https://m.ithome.com/html/1032495.htm)
+
