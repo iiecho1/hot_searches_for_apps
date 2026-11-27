@@ -1,5 +1,31 @@
 ## CCTV新闻 
-### 2026-11-26
+### 2026-11-27
+
++ [墨西哥总统谴责美国缉毒局干涉墨内政](https://news.cctv.com/2026/11/27/ARTItpIwa05eAnxJ364RibNW261127.shtml)
+
++ [联合国贸发会议报告：2026年全球海运贸易量预计零增长](https://news.cctv.com/2026/11/27/ARTIa7xUUsb4YqRX1F91KS4K261127.shtml)
+
++ [特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议](https://news.cctv.com/2026/11/27/ARTIU6LdIsKSvMnYbe0skODT261127.shtml)
+
++ [以色列正直党与民主党就双边组阁协议达成一致](https://news.cctv.com/2026/11/27/ARTIGkhnJmhBHsdEHGQM8ePT261127.shtml)
+
++ [尼泊尔警方抓获76名涉电诈外籍人员，其中包括41名中国公民，中使馆提醒：切实防范电诈风险](https://news.cctv.com/2026/11/26/ARTIMbaWvMLZbWjgfSHql93E261126.shtml)
+
++ [记者手记丨智慧口岸建设助力中越经贸往来再提升](https://news.cctv.com/2026/11/26/ARTIrp0WImgo2Z1fNnnZVOOJ261126.shtml)
+
++ [第七届中俄媒体论坛在莫斯科举行 与会嘉宾期待深化数智时代媒体合作](https://news.cctv.com/2026/11/26/ARTIPBxWzNKAxh6L4IePbPsD261126.shtml)
+
++ [联合国：中国在和平利用外空等方面发挥重要作用](https://news.cctv.com/2026/11/26/ARTI4cco59lq0rx4koQRDVG7261126.shtml)
+
++ [中方敦促日本尽快销毁在华遗弃化学武器](https://news.cctv.com/2026/11/26/ARTI2eDpb7ttRjlf1RsQkEMO261126.shtml)
+
++ [欧佩克秘书长指责欧盟阻碍气候谈判](https://news.cctv.com/2026/11/26/ARTIOuwRDWP28vmcLi1ZJuds261126.shtml)
+
++ [特朗普与吕特会晤 喊话俄“避免扩大战事”](https://news.cctv.com/2026/11/26/ARTI8hDOBSYjeek0ZCXaPtPQ261126.shtml)
+
++ [德国明年国防预算创冷战结束以来新高](https://news.cctv.com/2026/11/26/ARTIcwyH46qdaOu0mHARIf4h261126.shtml)
+
++ [中国驻巴西里约热内卢总领馆提醒领区中国公民注意涉水安全](https://news.cctv.com/2026/11/26/ARTII1b1TrFnIxGenNSPLLyY261126.shtml)
 
 + [乌官员称乌俄大规模换俘将分阶段实施](https://news.cctv.com/2026/11/26/ARTIEJ232gMmMxxTbibegZzU261126.shtml)
 
@@ -134,48 +160,4 @@
 + [古特雷斯对COP31未就政治决定达成一致表示失望](https://news.cctv.com/2026/11/23/ARTIYb0E0uNL6ZQR14lDKafO261123.shtml)
 
 + [达美航空在亚特兰大国际机场数百个航班出现延误](https://news.cctv.com/2026/11/23/ARTIBCQ1CBRpBcQHJ0O5nE0M261123.shtml)
-
-+ [印尼糖果厂火灾现场整理出24个尸袋 约30人失联](https://news.cctv.com/2026/11/23/ARTIR094zUTCzDBHosMObb3B261122.shtml)
-
-+ [专访丨“四梁”将持续助力澳中合作——访澳中工商业委员会全国主席里斯·罗伯茨](https://news.cctv.com/2026/11/22/ARTISJvZKSZPrAcdrQpYBE33261122.shtml)
-
-+ [东西问丨多国政要点赞深圳、感谢中国：完美得无可挑剔](https://news.cctv.com/2026/11/22/ARTI5FduQbWaIUHIBKbIyeId261122.shtml)
-
-+ [记者手记丨这条造福非洲的“自由之路”正在激活](https://news.cctv.com/2026/11/22/ARTI8kPdi15Ll03RDQNlEgI6261122.shtml)
-
-+ [通讯丨虫口夺粮——中国与粮农组织合作防治非洲农作物虫害](https://news.cctv.com/2026/11/22/ARTI7ewxvB7o3OKEZALJF7Wo261122.shtml)
-
-+ [澳中工商业委员会COO：乐见澳中关系保持稳定 有利于双方发展](https://news.cctv.com/2026/11/22/ARTIPDla4NqHv71FKUBNkd5L261122.shtml)
-
-+ [尼日利亚一船只倾覆 已致24人死亡](https://news.cctv.com/2026/11/22/ARTIU9ch4JVksuC9y2Fxtb4R261122.shtml)
-
-+ [南非开普敦一酒馆发生枪击事件 致4死5伤](https://news.cctv.com/2026/11/22/ARTItBnRvds8W8jvIqVlOYV6261122.shtml)
-
-+ [韩国高考AI作弊事件发酵 教育部长引咎辞职](https://news.cctv.com/2026/11/22/ARTIqSLcUjxAyqXGXEElAs6t261122.shtml)
-
-+ [特朗普返美后点赞深圳：“那股活力令人赞叹”](https://news.cctv.com/2026/11/22/ARTInm0sSDvxuIu05G6lvTfP261122.shtml)
-
-+ [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）匈牙利专题论坛在布达佩斯举行](https://news.cctv.com/2026/11/22/ARTIWEASRO35IZcSEXQWd3NP261122.shtml)
-
-+ [习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行](https://news.cctv.com/2026/11/22/ARTIRykXubtyedh6iZTQJ51F261122.shtml)
-
-+ [墨西哥抓获大毒枭“矮子伊西德罗”](https://news.cctv.com/2026/11/22/ARTI9lJ4k7Gf9DJNOarNHrv2261122.shtml)
-
-+ [德国明年国防预算创冷战结束以来新高](https://news.cctv.com/2026/11/26/ARTIcwyH46qdaOu0mHARIf4h261126.shtml)
-
-+ [中国驻巴西里约热内卢总领馆提醒领区中国公民注意涉水安全](https://news.cctv.com/2026/11/26/ARTII1b1TrFnIxGenNSPLLyY261126.shtml)
-
-+ [尼泊尔警方抓获76名涉电诈外籍人员，其中包括41名中国公民，中使馆提醒：切实防范电诈风险](https://news.cctv.com/2026/11/26/ARTIMbaWvMLZbWjgfSHql93E261126.shtml)
-
-+ [记者手记丨智慧口岸建设助力中越经贸往来再提升](https://news.cctv.com/2026/11/26/ARTIrp0WImgo2Z1fNnnZVOOJ261126.shtml)
-
-+ [第七届中俄媒体论坛在莫斯科举行 与会嘉宾期待深化数智时代媒体合作](https://news.cctv.com/2026/11/26/ARTIPBxWzNKAxh6L4IePbPsD261126.shtml)
-
-+ [联合国：中国在和平利用外空等方面发挥重要作用](https://news.cctv.com/2026/11/26/ARTI4cco59lq0rx4koQRDVG7261126.shtml)
-
-+ [中方敦促日本尽快销毁在华遗弃化学武器](https://news.cctv.com/2026/11/26/ARTI2eDpb7ttRjlf1RsQkEMO261126.shtml)
-
-+ [欧佩克秘书长指责欧盟阻碍气候谈判](https://news.cctv.com/2026/11/26/ARTIOuwRDWP28vmcLi1ZJuds261126.shtml)
-
-+ [特朗普与吕特会晤 喊话俄“避免扩大战事”](https://news.cctv.com/2026/11/26/ARTI8hDOBSYjeek0ZCXaPtPQ261126.shtml)
 

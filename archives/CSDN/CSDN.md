@@ -1,103 +1,103 @@
 ## CSDN 
-### 2026-11-18
+### 2026-11-27
 
-+ [【AI智能体】Codex + Harness Engineering 实战开发ChatBot 项目详解](https://blog.csdn.net/zhangcongyi420/article/details/169847875)
++ [Toonflow AI短剧教程：Windows部署、批量生成与角色一致性](https://blog.csdn.net/2401_87629362/article/details/171425713)
 
-+ [Next-AI-Draw.io本地部署教程：AI生成架构图、流程图与UML](https://blog.csdn.net/2401_87629362/article/details/170864263)
++ [AI技术学习｜模型API接入：Java调用大语言模型、多轮对话与结构化输出](https://blog.csdn.net/2401_86112610/article/details/171094336)
 
-+ [【Linux】守护进程怎么实现？从进程组、会话到 setsid 与 Daemon 完整实战](https://blog.csdn.net/2402_87731470/article/details/170444799)
++ [2026鸿蒙手机远控电脑哪家强？ToDesk和向日葵五维横评见分晓](https://blog.csdn.net/LT15171009269/article/details/171424146)
 
-+ [用 Spring AI 做文本分类/摘要：落地到后台工作流（无人值守批处理实战）](https://blog.csdn.net/sinat_41617212/article/details/170821581)
++ [YARN - 与 MapReduce Spark Flink 的集成调度实操](https://blog.csdn.net/qq_41187124/article/details/157686864)
 
-+ [一篇看懂 Spring AOP：核心概念 + 五种通知 + 切点表达式 + 动态代理（附案例和流程图）](https://blog.csdn.net/2502_93799892/article/details/170776868)
++ [一个账号，多套组织身份：SpringBoot + Vue3后台的权限配置实战](https://blog.csdn.net/zhouzhongyan/article/details/170989509)
 
-+ [金仓AI数据库上手记：语义层、库内计算、权限继承，一次讲清](https://blog.csdn.net/qq_57761637/article/details/170822359)
++ [开源 L3 静态取证｜工程评测】Ghost Downloader 3：下载器的工程重心——任务生命周期与连接边界管控](https://blog.csdn.net/TunerT_TQ/article/details/171363967)
 
-+ [【人工智能驱动的电催化研究-08】NumPy数组、维度与向量运算](https://blog.csdn.net/2402_84593233/article/details/170889422)
++ [LangChain（09）：Streaming 流式输出与事件处理](https://blog.csdn.net/2401_83830408/article/details/171377879)
 
-+ [幻觉问题深析_为什么大模型会编造内容及缓解方案](https://blog.csdn.net/2302_78391795/article/details/170902276)
++ [从零开始掌握生成式人工智能：从Transformer到扩散模型](https://blog.csdn.net/LOVEmy134611/article/details/160478703)
 
-+ [Homarr飞牛NAS部署教程：服务导航、Docker状态与远程访问](https://blog.csdn.net/weixin_44976692/article/details/170913066)
++ [Shapefile 一键生成 GeoServer 样式：GeoTools + Spring Boot 实现 YSLD 自动生成器](https://blog.csdn.net/yelangkingwuzuhu/article/details/171316798)
 
-+ [临时电脑上什么办公软件都没有？我把GodoOS放进浏览器，打开就是一套办公桌面](https://blog.csdn.net/aiclaws/article/details/170859593)
++ [【Linux网络】HTTP 服务器怎么返回网页和图片？从 404、301 到 Content-Type 与静态资源完整实战](https://blog.csdn.net/2402_87731470/article/details/171112608)
 
-+ [演示网页时不想共享整台电脑？我在NAS里放了一个多人共用的隔离浏览器](https://blog.csdn.net/Rqaqedamancy/article/details/170859844)
++ [AI 干活、人验收：用 SoduWork 跑报价核对，8 颗埋雷全中，执行过程全程可回溯](https://blog.csdn.net/2302_78391795/article/details/171317154)
 
-+ [从对称到定解：为什么决定系统性质的，是缺陷、边界与奇点？（上）](https://blog.csdn.net/kkiron/article/details/170816254)
++ [【BAS】规范精讲[3]: 从一个百分比读懂一块电池——12个特征的裁剪、联动与主动上报全流程](https://blog.csdn.net/weixin_37800531/article/details/171157196)
 
-+ [Windows 10资源管理器单击文件间歇转圈：一次 Copilot 故障排查记录](https://blog.csdn.net/weixin_47431459/article/details/170913147)
++ [安全可靠名录第一次收时序数据库：把它当医保目录读——2026 信创选型手记](https://blog.csdn.net/user340/article/details/171196130)
 
-+ [互联网出口多运营商选路：提升网络可用性与访问速度](https://blog.csdn.net/qq_41840843/article/details/170869649)
++ [【AI智能体】Langchain 文档嵌入向量化与大模型RAG实战应用操作详解](https://blog.csdn.net/congge_study/article/details/169635690)
 
-+ [用 Tauri 跨平台框架在鸿蒙 PC 上开发应用：从 Rust 后端到真机跑通的完整实践](https://blog.csdn.net/weixin_52908342/article/details/170822910)
++ [查个表结构还要先回忆psql命令？我给PostgreSQL补了个长期可用的网页管理面板](https://blog.csdn.net/weixin_44976692/article/details/171301679)
 
-+ [旧手机家庭监控教程：运动检测、NAS录像与远程实时查看](https://blog.csdn.net/hanwangyyds/article/details/170857944)
++ [一张图片变成 3D 之后，离可用资产还差什么？](https://blog.csdn.net/weixin_74809706/article/details/170926980)
 
-+ [【项目】 智慧监测系统 开发笔记（一）从项目立项到传感器闭环：日志、AHT20、MQ-2 三块地基](https://blog.csdn.net/2602_95649725/article/details/170819780)
++ [SQLServer平替这潭水有多深：分号、类型系统和两套schema](https://blog.csdn.net/qq_32682301/article/details/171380614)
 
-+ [第十台MySQL还手动装Exporter太浪费时间：我把部署步骤写成了一条Shell脚本](https://blog.csdn.net/user340/article/details/170864619)
++ [交换机等价路由ECMP负载分担配置命令：从哈希原理到华为H3C思科三厂商落地实战](https://blog.csdn.net/qq_41840843/article/details/171376954)
 
-+ [别再导出整页图片了：用 WorkBuddy + PPT-Master 做真正可编辑的汇报 PPT](https://blog.csdn.net/yelangkingwuzuhu/article/details/170871542)
++ [金仓数据库 MySQL兼容性验证实践：SQL、应用与生产迁移](https://blog.csdn.net/lrq13965748542/article/details/171317534)
 
-+ [FreeControl 电脑无线群控手机免费软件](https://blog.csdn.net/qq_39546670/article/details/170930136)
++ [【AI 测评】flatnotes自托管笔记教程：Markdown、全文搜索与远程访问](https://blog.csdn.net/2402_87298751/article/details/171434784)
 
-+ [花雕动手做｜DeepSeek / Kimi / 阿里云百炼怎么选？ESP-Mosaico Claw 后端 LLM Token 账单实测对比](https://blog.csdn.net/weixin_41659040/article/details/170757605)
++ [@worm-vue3-print 从零上手：Vue 3 + Vite + TS 打印模板设计器完整教程](https://blog.csdn.net/mss359681091/article/details/171373772)
 
-+ [把两个模型的权重合起来，能力也会相加吗？](https://blog.csdn.net/weixin_74809706/article/details/170452628)
++ [深度学习实战-基于VGG19的健康和白化珊瑚图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/163198026)
 
-+ [主机不接显示器，远控画面反而更清楚？ToDesk、向日葵、RayLink虚拟屏横评](https://blog.csdn.net/beautifulmemory/article/details/170872117)
++ [iPhone Duo远控首选ToDesk：折叠屏适配，它做得最到位](https://blog.csdn.net/2501_93697341/article/details/171374847)
 
-+ [W25Q64 SPI Flash深度解析：从原理到实战](https://blog.csdn.net/2501_94547070/article/details/170870922)
++ [【MySQL】索引实战（下）：索引增删、最左前缀、全文检索与 EXPLAIN 排查](https://blog.csdn.net/weixin_64304261/article/details/171312691)
 
-+ [数据库性能优化，一半功夫花在“搞清楚它在干嘛“](https://blog.csdn.net/qq_32682301/article/details/170872597)
++ [「华为云码道」把一个想法写成产品｜中午吃什么别再吵了，我花 44 分钟做了个午饭抽卡池，SSR 保底是黄焖鸡那种](https://blog.csdn.net/qq_57761637/article/details/171372430)
 
-+ [可视化前端Web组态软件](https://blog.csdn.net/he_zhidan/article/details/170778060)
++ [一年间学习的总结与成长记录——记录自己的18岁](https://blog.csdn.net/oooooooooooohd/article/details/166945281)
 
-+ [Qt核心机制：信号与槽详解](https://blog.csdn.net/2302_80105876/article/details/170818701)
++ [C++STL00 | 六个组件怎么咬成一个框架](https://blog.csdn.net/2502_92159017/article/details/171357078)
 
-+ [人类的历史是工具的历史：Aevum 的 3D 工具社区](https://blog.csdn.net/2301_77541034/article/details/170857793)
++ [折起来是键盘、展开是电脑，ToDesk把iPhone Duo的折叠屏用明白了](https://blog.csdn.net/u014727709/article/details/171370353)
 
-+ [ufw 已 active，Docker 端口却仍对外开放的复盘](https://blog.csdn.net/qq_46987323/article/details/170871567)
++ [HarmonyOS 7.0 多设备协同实战 35：用户撤销分享链接后，怎样使缓存入口同时失效](https://blog.csdn.net/m0_53019445/article/details/169268858)
 
-+ [深度解析 端云协同架构](https://blog.csdn.net/universsky2015/article/details/170870630)
++ [Windows和iPhone传个文件还要绕微信、云盘？我用PairDrop让浏览器直接互传](https://blog.csdn.net/m0_73879806/article/details/171425808)
 
-+ [合同和证件临时要合并压缩，我不想再上传陌生网站:BentoPDF让文件留在浏览器里处理](https://blog.csdn.net/2401_87848736/article/details/170913233)
++ [〖C++ 大模型接入实战〗从一次 HTTP 请求到多轮对话：手写支持 JSON 结构化输出的最小客户端](https://blog.csdn.net/2403_86779341/article/details/171439445)
 
-+ [给 Web 应用加上文档编辑能力，我只用了半小时：ONLYOFFICE Docs 集成实测](https://blog.csdn.net/AIRoses/article/details/170927222)
++ [Rust Result 快速上手](https://blog.csdn.net/K346K346/article/details/171361451)
 
-+ [大数据Spark（八十九）：Spark任务资源之Yarn集群测试](https://blog.csdn.net/xiaoweite1/article/details/170819982)
++ [开源鸿蒙PC适配教程：把 Chocolatey 包管理器搬到鸿蒙桌面端](https://blog.csdn.net/qq_51601665/article/details/171306013)
 
-+ [8.JavaSpringBoot如何调用Python算法服务](https://blog.csdn.net/weixin_37647148/article/details/170839698)
++ [ChatSDK 模块复习笔记（串整体链路 + 缓存一致性的问题（核心难点）））](https://blog.csdn.net/hanwangyyds/article/details/171316590)
 
-+ [《麦穗与羊》完整原稿在线阅读](https://blog.csdn.net/whaahhh/article/details/170891297)
++ [用 C++ 复刻童年弹珠游戏：在终端玩一局小时候的弹珠闯关](https://blog.csdn.net/qQB4EEd18/article/details/171377946)
 
-+ [Windows 运行安卓应用:开源运行器 ApkStart 双击 APK 即装即用](https://blog.csdn.net/weixin_41961749/article/details/170788083)
++ [鸿蒙手机远控Windows电脑：办公、看视频、远程开发一次讲透](https://blog.csdn.net/a1657054242/article/details/171377231)
 
-+ [Elasticsearch：如何使用 Connectors 接入数据到 Elastic Agent builder 里进行企业搜索](https://blog.csdn.net/UbuntuTouch/article/details/170858748)
++ [Agent 成本控制实战：从 Token 归因到模型分层的五类优化](https://blog.csdn.net/sinat_41617212/article/details/171437476)
 
-+ [数据库选型 POC：订单系统怎么验收候选](https://blog.csdn.net/Mrxiao_bo/article/details/170927672)
++ [华为云码道 CodeArts 一日实测：给 664 篇博客文章「过秤」的分级检查器「稿秤」](https://blog.csdn.net/qq_35366330/article/details/171301787)
 
-+ [大数据技术专业考证路线：从Python、数据库到分析与平台运维](https://blog.csdn.net/gentleing/article/details/170871729)
++ [Redis哨兵配置](https://blog.csdn.net/suimingtao/article/details/168861014)
 
-+ [深度学习实战-基于Xception的大型猫科动物图像分类识别模型](https://blog.csdn.net/m0_64336780/article/details/163193733)
++ [HDL Compiler：生成块结构(Generate)的识别](https://blog.csdn.net/weixin_45791458/article/details/171098590)
 
-+ [机器人软件如何分层：驱动、算法、能力、动作与业务](https://blog.csdn.net/weixin_37540091/article/details/170869467)
++ [用 libp2p 手搓一个 HTTP 代理：小白也能看懂的实战教程](https://blog.csdn.net/zlz7803/article/details/171413176)
 
-+ [华为云码道：从 0 到 1 做一个校园二手交易平台：纯前端 + Python 后端 + PWA 实战](https://blog.csdn.net/2601_95374055/article/details/170857942)
++ [源码级拆解 OCI Python SDK：云原生 SDK 请求链路与异步架构设计](https://blog.csdn.net/2402_83344867/article/details/171411513)
 
-+ [Qwen4-Max、Hy4 flash、DeepSeek V4.1 Flash、Kimi K3.1 Pro 怎么选：价格、能力与 Agent 场景对比](https://blog.csdn.net/aidoudoulong/article/details/170905066)
++ [树莓派Facebook ATC弱网测试教程：带宽、延迟与丢包模拟](https://blog.csdn.net/2303_81060385/article/details/171431450)
 
-+ [批量下载图片、文档、素材，Python 爬虫实操全过程](https://blog.csdn.net/hdllove520/article/details/163707883)
++ [window升级Node.js操作流程（绿色版）](https://blog.csdn.net/moneywenxue/article/details/171378428)
 
-+ [【鸿蒙心迹】动画系统深度——animateTo、显式动画与关键帧实战（HarmonyOS 7.x）](https://blog.csdn.net/qq_35366330/article/details/170013656)
++ [前端图片优化实战｜用 Node.js 和 Sharp 批量将 PNG 转为 WebP](https://blog.csdn.net/violeteverdack/article/details/171311401)
 
-+ [微信小程序:手机状态](https://blog.csdn.net/WYBY12/article/details/170869652)
++ [GPU算子第一次被数学证明「算得对」，41份bug报告后来怎么样了](https://blog.csdn.net/wodekouwei/article/details/171359365)
 
-+ [springboot整合FastDFS](https://blog.csdn.net/wno704/article/details/168657167)
++ [开源视频模型MAGI-2 超越 Seedance 2.5？开源范围、榜单成绩与部署门槛](https://blog.csdn.net/aidoudoulong/article/details/171375942)
 
-+ [WebSocket、TCP Socket 与 UDP Socket：协议本质、机制与工程实践指南](https://blog.csdn.net/ling_zhi_xin/article/details/170870979)
++ [随机网络稳定性的反压算法](https://blog.csdn.net/dog250/article/details/171372068)
 
-+ [用户ID跑马灯和随机水印，实现企业视频课程的防录屏](https://blog.csdn.net/ffffffff8/article/details/170920192)
++ [LVS高可用负载均衡集群部署实训](https://blog.csdn.net/zfm242397396/article/details/171156649)
 
-+ [Kafka 生产实践指南：使用要点、性能优化与运维维护](https://blog.csdn.net/lgz847368331/article/details/170608695)
++ [Springcloud Alibaba Nacos](https://blog.csdn.net/m0_57532232/article/details/171107392)
 
