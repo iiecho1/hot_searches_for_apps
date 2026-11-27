@@ -161,3 +161,17 @@
 
 + [达美航空在亚特兰大国际机场数百个航班出现延误](https://news.cctv.com/2026/11/23/ARTIBCQ1CBRpBcQHJ0O5nE0M261123.shtml)
 
++ [新西兰看守政府总理：寻求组建稳定的新政府](https://news.cctv.com/2026/11/27/ARTIBrBtNz5qJ1AO5sLn9t7A261127.shtml)
+
++ [韩国高考作弊查处量激增 涉智能设备案件增至去年3.6倍](https://news.cctv.com/2026/11/27/ARTIHN0DBYP6UPxysNCUT8hQ261127.shtml)
+
++ [美国民众或迎来“汽油最贵的感恩节”](https://news.cctv.com/2026/11/27/ARTIWcIFeZntXzmFxUPwFsxb261127.shtml)
+
++ [近30万加拿大民众要求驱逐美国大使 实名联署请愿书已提交国会](https://news.cctv.com/2026/11/27/ARTI1OzrMoORULBnWZFNwgkz261127.shtml)
+
++ [法国巴黎风情园灯会开幕](https://photo.cctv.com/2026/11/27/PHOAvf8el8GztTKDlPwYaTiq261127.shtml)
+
++ [荷兰官员：反对美国立法加强半导体制造设备出口管制](https://news.cctv.com/2026/11/27/ARTIfQH00AvH01pirSEE7YPe261127.shtml)
+
++ [乌克兰外长：无意将俄乌冲突扩展至利比亚](https://news.cctv.com/2026/11/27/ARTIDiyH6Nye0INJh4c3M6oo261127.shtml)
+

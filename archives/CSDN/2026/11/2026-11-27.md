@@ -101,3 +101,47 @@
 
 + [Springcloud Alibaba Nacos](https://blog.csdn.net/m0_57532232/article/details/171107392)
 
++ [Python 广播机制的原理与实现，尾部对齐、stride 零复制与深度学习中的张量计算](https://blog.csdn.net/2502_94387000/article/details/171312966)
+
++ [从0实现C++ AI大模型接入SDK（五）：DeepSeekProvider的实现——策略模式、HTTP请求与SSE流式响应](https://blog.csdn.net/Face_FeaR/article/details/171366855)
+
++ [AI技术学习｜检索增强生成：Embedding、向量数据库与Java RAG实现原理](https://blog.csdn.net/2401_86112610/article/details/171095791)
+
++ [Agent 删库、作弊、谁来背锅？阿里、腾讯、360、TiDB 四位一线负责人复盘企业 Agent 落地的卡点与解法](https://blog.csdn.net/tangxiaoyin/article/details/171422480)
+
++ [我用GPUWorks搭了个售后工单AI分诊台](https://blog.csdn.net/2301_80863610/article/details/171435390)
+
++ [数据库选型实战手记，拿金仓数据库从建库讲到备份恢复](https://blog.csdn.net/qq_57761637/article/details/171378358)
+
++ [【华为云码道】编号对得上，昵称却不一样：我用自定义 Skill 实测作品该归给谁](https://blog.csdn.net/lrq13965748542/article/details/171316991)
+
++ [想找Java制造业项目？看看这套MES的排产、报工和质检](https://blog.csdn.net/zhouzhongyan/article/details/170989470)
+
++ [AI文本水印：生成机制、统计检测与误报](https://blog.csdn.net/weixin_74809706/article/details/170927066)
+
++ [【Linux网络】GET 和 POST 真的只是参数位置不同吗？从 HTTP 请求方法、抓包分析到长连接与路由实战](https://blog.csdn.net/2402_87731470/article/details/171112894)
+
++ [社区大佬出手：一根线，旧手机秒变 deepin 副屏](https://blog.csdn.net/2401_89105749/article/details/171475899)
+
++ [GRAPHIX 真空计 + LabVIEW 真空度怎么读？](https://blog.csdn.net/bjcyck/article/details/166949899)
+
++ [从一次请求到逐字输出：手搓 C++ 大模型 SDK，吃透 HTTP 与 SSE 流式响应](https://blog.csdn.net/hanwangyyds/article/details/170371598)
+
++ [Postgres Exporter教程：PostgreSQL指标采集、Prometheus监控与告警](https://blog.csdn.net/2302_79177254/article/details/171490340)
+
++ [个人开发者APP备案全流程：腾讯云从云资源到提交审核](https://blog.csdn.net/qq_46987323/article/details/171407647)
+
++ [openEuler 下 Docker 容器存储实践](https://blog.csdn.net/qq_37633855/article/details/171377723)
+
++ [2026年10月子刊-Karma-Dharma优化算法KDO：专为约束工程优化而设计-附Matlab免费代码](https://blog.csdn.net/weixin_44028734/article/details/171362692)
+
++ [【通信】基于matlab Wi-Fi和蓝牙应用的2.45 GHz微带贴片天线的解析设计、全波电磁仿真和参数优化【含Matlab源码 16244期】](https://blog.csdn.net/TIQCmatlab/article/details/171478613)
+
++ [交通灯流水灯蜂鸣器继电器GPIO控制驱动开发—【万物智能之开源鸿蒙OpenHarmony系统实战开发系列教程】](https://blog.csdn.net/wanwuzhineng_01/article/details/171321322)
+
++ [Sulphur-3 11GB 量化版本地部署实测：消费级显卡8g显存跑通开源视频生成全流程（附避坑指南）](https://blog.csdn.net/lzj781210/article/details/171408606)
+
++ [旧手机电池还行、Wi-Fi也稳定，扔着太可惜：我把它变成了一台24小时在线的Typecho博客服务器](https://blog.csdn.net/2301_80840905/article/details/171487282)
+
++ [别再堆提示词了：Agent 工程化的 21 个可复用设计模式](https://blog.csdn.net/xqe777/article/details/171408143)
+
