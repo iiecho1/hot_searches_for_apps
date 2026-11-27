@@ -1,5 +1,27 @@
 ## CCTV新闻 
-### 2026-11-27
+### 2026-11-28
+
++ [探月通信有保障！我国主导推动ITU通过月球探索新决议](https://news.cctv.com/2026/11/28/ARTIOraEQbWOoKFHNa8wkr1P261127.shtml)
+
++ [菌草，岛国农业的新希望（第一现场）](https://news.cctv.com/2026/11/27/ARTI8unqgExfQ7UsKfTe8aEZ261127.shtml)
+
++ [打造创新支柱，促进亚太共同繁荣（亚太合作启新程）](https://news.cctv.com/2026/11/27/ARTIaXAfKfvcmpYXIFFLEIBS261127.shtml)
+
++ [多国市长代表相聚新疆 感受丝路城市发展活力](https://news.cctv.com/2026/11/27/ARTIIWWaYKhwNFGik90oyojx261127.shtml)
+
++ [新西兰看守政府总理：寻求组建稳定的新政府](https://news.cctv.com/2026/11/27/ARTIBrBtNz5qJ1AO5sLn9t7A261127.shtml)
+
++ [韩国高考作弊查处量激增 涉智能设备案件增至去年3.6倍](https://news.cctv.com/2026/11/27/ARTIHN0DBYP6UPxysNCUT8hQ261127.shtml)
+
++ [美国民众或迎来“汽油最贵的感恩节”](https://news.cctv.com/2026/11/27/ARTIWcIFeZntXzmFxUPwFsxb261127.shtml)
+
++ [近30万加拿大民众要求驱逐美国大使 实名联署请愿书已提交国会](https://news.cctv.com/2026/11/27/ARTI1OzrMoORULBnWZFNwgkz261127.shtml)
+
++ [法国巴黎风情园灯会开幕](https://photo.cctv.com/2026/11/27/PHOAvf8el8GztTKDlPwYaTiq261127.shtml)
+
++ [荷兰官员：反对美国立法加强半导体制造设备出口管制](https://news.cctv.com/2026/11/27/ARTIfQH00AvH01pirSEE7YPe261127.shtml)
+
++ [乌克兰外长：无意将俄乌冲突扩展至利比亚](https://news.cctv.com/2026/11/27/ARTIDiyH6Nye0INJh4c3M6oo261127.shtml)
 
 + [墨西哥总统谴责美国缉毒局干涉墨内政](https://news.cctv.com/2026/11/27/ARTItpIwa05eAnxJ364RibNW261127.shtml)
 
@@ -138,40 +160,4 @@
 + [为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响](https://news.cctv.com/2026/11/23/ARTIT2FhcSuMme1c1Zl0DQbs261123.shtml)
 
 + [国际观察：共启亚太共同体新航程](https://news.cctv.com/2026/11/23/ARTI9QgIJGV8vX8JJG2QNNgn261123.shtml)
-
-+ [聚焦APEC·记者手记丨亚太合作的“深圳印记”](https://news.cctv.com/2026/11/23/ARTIONj6TX9He592S8quKZl1261123.shtml)
-
-+ [俄罗斯西伯利亚东南部发生5.0级地震，震源深度20千米](https://news.cctv.com/2026/11/23/ARTI2J81Bc0CvQwl98aZ9jVv261123.shtml)
-
-+ [泽连斯基证实击沉俄罗斯护卫舰](https://news.cctv.com/2026/11/23/ARTIUWErF3yLULGXpbdx5dbF261123.shtml)
-
-+ [俄官员：下一轮俄美乌三方谈判日期尚未确定](https://news.cctv.com/2026/11/23/ARTI9DKzit1KOQrxB8mOrqMd261123.shtml)
-
-+ [中使馆再次提醒在巴林中资机构和中国公民注意安全](https://news.cctv.com/2026/11/23/ARTIhDw4GSeSOwPRAJJVqjZ9261123.shtml)
-
-+ [技术系统故障频发 美国情报总监忙打“预防针”](https://news.cctv.com/2026/11/23/ARTIq5AkUkQ2ZZmu3fm5lRVS261123.shtml)
-
-+ [美国达美航空超2000个航班因系统故障延误或取消](https://news.cctv.com/2026/11/23/ARTIFGibqkLOpGQawuO9KM2T261123.shtml)
-
-+ [黎政府谴责以军闯入黎学校拍摄宣传视频](https://news.cctv.com/2026/11/23/ARTI8dm62l1i4eXUVV1P5ZBZ261123.shtml)
-
-+ [内塔尼亚胡被曝正考虑单独对伊朗动武](https://news.cctv.com/2026/11/23/ARTI0B2eGX2sMuxecPci0Axu261123.shtml)
-
-+ [古特雷斯对COP31未就政治决定达成一致表示失望](https://news.cctv.com/2026/11/23/ARTIYb0E0uNL6ZQR14lDKafO261123.shtml)
-
-+ [达美航空在亚特兰大国际机场数百个航班出现延误](https://news.cctv.com/2026/11/23/ARTIBCQ1CBRpBcQHJ0O5nE0M261123.shtml)
-
-+ [新西兰看守政府总理：寻求组建稳定的新政府](https://news.cctv.com/2026/11/27/ARTIBrBtNz5qJ1AO5sLn9t7A261127.shtml)
-
-+ [韩国高考作弊查处量激增 涉智能设备案件增至去年3.6倍](https://news.cctv.com/2026/11/27/ARTIHN0DBYP6UPxysNCUT8hQ261127.shtml)
-
-+ [美国民众或迎来“汽油最贵的感恩节”](https://news.cctv.com/2026/11/27/ARTIWcIFeZntXzmFxUPwFsxb261127.shtml)
-
-+ [近30万加拿大民众要求驱逐美国大使 实名联署请愿书已提交国会](https://news.cctv.com/2026/11/27/ARTI1OzrMoORULBnWZFNwgkz261127.shtml)
-
-+ [法国巴黎风情园灯会开幕](https://photo.cctv.com/2026/11/27/PHOAvf8el8GztTKDlPwYaTiq261127.shtml)
-
-+ [荷兰官员：反对美国立法加强半导体制造设备出口管制](https://news.cctv.com/2026/11/27/ARTIfQH00AvH01pirSEE7YPe261127.shtml)
-
-+ [乌克兰外长：无意将俄乌冲突扩展至利比亚](https://news.cctv.com/2026/11/27/ARTIDiyH6Nye0INJh4c3M6oo261127.shtml)
 
