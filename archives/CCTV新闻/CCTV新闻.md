@@ -171,3 +171,31 @@
 
 + [普京：俄新型核潜艇“彼尔姆”号将加入太平洋舰队](https://news.cctv.com/2026/11/28/ARTIehlhlG6rbNBWXDqxnSt6261128.shtml)
 
++ [日本多方呼吁坚持“无核三原则”：绝不能重蹈历史覆辙](https://news.cctv.com/2026/11/28/ARTIAtHKxpL7QAlEKShh90KZ261128.shtml)
+
++ [阿富汗库纳尔省一中学附近房屋发生炸弹爆炸事件 已致7死97伤](https://news.cctv.com/2026/11/28/ARTIEGdCjXLRMtn7FRjHmWZT261128.shtml)
+
++ [2027年预算案在德国联邦议院过关 多数民众反对](https://news.cctv.com/2026/11/28/ARTIe60fznb0QBJ3v2hmLNSu261128.shtml)
+
++ [阿富汗库纳尔省一中学发生爆炸致人员伤亡](https://news.cctv.com/2026/11/28/ARTIef6BkqfLSwoQKAk4nUeJ261128.shtml)
+
++ [沙土巴就“麦加防务联盟”扩员部分原则达成一致](https://news.cctv.com/2026/11/28/ARTIfV9cWZxhcA9KwbTBM51v261128.shtml)
+
++ [不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压](https://news.cctv.com/2026/11/28/ARTIBrgmvHSUnl2xoiZC0Mib261128.shtml)
+
++ [波兰报告新增高致病性禽流感疫情](https://news.cctv.com/2026/11/28/ARTI8AkuyzAGyJBhjvZmiNS8261128.shtml)
+
++ [世卫组织呼吁加快埃博拉疫苗和疗法试验](https://news.cctv.com/2026/11/28/ARTIpv8Qz2vmqleAK5A5zhh3261128.shtml)
+
++ [世卫组织：全球麻疹死亡创新低 免疫缺口需警惕](https://news.cctv.com/2026/11/28/ARTIlOReHbCsXKIfCCNCB6zI261128.shtml)
+
++ [加拿大首份林业战略将美国关税列为关键挑战](https://news.cctv.com/2026/11/28/ARTIAdn7yloO4RWlp5MoEGD9261128.shtml)
+
++ [美军中央司令部否认伊朗军方有关美军的多项说法](https://news.cctv.com/2026/11/28/ARTIdoXh0gnD1VrvQlwKFAzc261128.shtml)
+
++ [阿根廷发生5.0级地震 震源深度170千米](https://news.cctv.com/2026/11/28/ARTIY5RbL7AjfeHnPO1ghJXu261128.shtml)
+
++ [外媒关注中国空间站首次迎来外国航天员：中国航天国际合作迈出新步伐](https://news.cctv.com/2026/11/28/ARTIgI5bEBIO69nhaIvRPkqn261128.shtml)
+
++ [英国就业和养老金部因“网络事件”中断部分线上服务](https://news.cctv.com/2026/11/28/ARTISxCf7xsezFkOP3YB5IK0261128.shtml)
+

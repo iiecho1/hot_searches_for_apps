@@ -47,3 +47,15 @@
 
 + [2027 款凯迪拉克 XT5 上市：限时 21.59 万元起，标配蜂鸟底盘、33 英寸 9K 屏 + 2.0T 轻混](https://m.ithome.com/html/1033338.htm)
 
++ [雅迪、台铃、爱玛等 15 家电动自行车企业被点名，市场监管总局集中约谈](https://m.ithome.com/html/1033546.htm)
+
++ [民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS](https://m.ithome.com/html/1033778.htm)
+
++ [小米汽车世界模型 2.0 发布，已在实际业务场景中落地](https://m.ithome.com/html/1033614.htm)
+
++ [魏建军回应“长城汽车销量从第一掉到第九”：内卷、资本裹挟、财务造假是主因](https://m.ithome.com/html/1033813.htm)
+
++ [苹果官网上架 mophie Frost 支架保护壳：适用于 iPhone 17 / 18 Pro / Air 系列机型，398 元](https://m.ithome.com/html/1033618.htm)
+
++ [字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视](https://m.ithome.com/html/1033718.htm)
+
