@@ -161,3 +161,13 @@
 
 + [国际观察：共启亚太共同体新航程](https://news.cctv.com/2026/11/23/ARTI9QgIJGV8vX8JJG2QNNgn261123.shtml)
 
++ [老挝发生4.9级地震 震源深度15千米](https://news.cctv.com/2026/11/28/ARTIZMLnXwXezglANJpLX2FP261128.shtml)
+
++ [美方称伊朗海军夺回两艘油轮的说法不实](https://news.cctv.com/2026/11/28/ARTIlqVSWjk9LYK0nKgGFxPp261128.shtml)
+
++ [标普将法国主权信用评级展望下调至“负面”](https://news.cctv.com/2026/11/28/ARTIjNVAdwNRiv5KdhaRWl2w261128.shtml)
+
++ [24小时超百次袭击 胡塞武装与沙特互袭升级 冲突或陷“消耗模式”](https://news.cctv.com/2026/11/28/ARTIjmOQNQWlxaCBNMBaXaIN261128.shtml)
+
++ [普京：俄新型核潜艇“彼尔姆”号将加入太平洋舰队](https://news.cctv.com/2026/11/28/ARTIehlhlG6rbNBWXDqxnSt6261128.shtml)
+
